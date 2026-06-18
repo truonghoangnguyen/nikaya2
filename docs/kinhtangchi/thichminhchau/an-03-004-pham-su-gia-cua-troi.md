@@ -221,7 +221,7 @@ _Với tâm đạt an tịnh._
 
 1-6
 
-1.- Có ba Thiên sứ này, này các Tỷ-kheo, Thế nào là ba?
+1\. Có ba Thiên sứ này, này các Tỷ-kheo, Thế nào là ba?
 
 Ở đây, này các Tỷ-kheo, có người thân làm ác, miệng nói ác, ý nghĩ ác. Sau khi thân làm ác, miệng nói
 ác, ý nghĩ ác, khi thân hoại mạng chung, người ấy sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Rồi này các
@@ -489,7 +489,7 @@ các Tỷ-kheo, tại lâu đài mùa mưa, trong bốn tháng mưa, được nh
 có xuống dưới lầu. Trong các nhà của người khác, các người đầy tớ, làm công được cho ăn cơm tấm,
 cháo chua. Trong nhà phụ vương Ta, các người đầy tớ, làm công được cho ăn gạo, thịt gà và cơm nấu.
 
-2.- Với Ta, này các Tỷ-kheo, được đầy đủ với sự giàu sang như vậy, được cứu cánh nuôi dưỡng tế nhị
+2\. Với Ta, này các Tỷ-kheo, được đầy đủ với sự giàu sang như vậy, được cứu cánh nuôi dưỡng tế nhị
 như vậy, ta suy nghĩ rằng: “Kẻ vô văn phàm phu tự mình bị già, không vượt qua khỏi già, khi thấy người
 khác bị già, lại bực phiền, hổ thẹn, ghê tởm, quên rằng mình cũng như vậy. Ta cũng bị già, không vượt
 qua khỏi già, sau khi thấy người khác già, ta có thể bực phiền, hổ thẹn, ghê tởm? Như vậy, thật không
@@ -576,7 +576,7 @@ thất niệm; khinh an là thân của ta, không có dao động; định tĩn
 làm cho tăng thượng tự ngã, từ bỏ bất thiện, tu tập thiện, từ bỏ có tội, tu tập không tội, gìn giữ cho tự
 ngã được thanh tịnh. Này các Tỷ-kheo, đây gọi là tự ngã tăng thượng.
 
-2.- Như thế nào, này các Tỷ-kheo, là thế giới tăng thượng?
+2\. Như thế nào, này các Tỷ-kheo, là thế giới tăng thượng?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo đi đến ngôi rừng hay đi đến gốc cây, hay đi đến ngôi nhà trống, rồi
 thẩm sát như sau: “Không phải vì y áo, ta xuất gia từ bỏ gia đình, sống không gia đình. Không phải vì
@@ -599,7 +599,7 @@ có thất niệm; khinh an là thân của ta, không có dao động; định 
 làm cho tăng thượng thế giới, từ bỏ bất thiện, tu tập thiện, từ bỏ có tội, tu tập không có tội, giữ gìn cho
 tự ngã được thanh tịnh. Này các Tỷ-kheo, đây gọi là thế giới tăng thượng.
 
-3.-Và này các Tỷ-kheo, thế nào là pháp tăng thượng?
+3\. Và này các Tỷ-kheo, thế nào là pháp tăng thượng?
 
 Ở đây, này các Tỷ-kheo, vị Tỷ-kheo đi đến ngôi rừng hay đi đến gốc cây, hay đi đến ngôi nhà trống, rồi
 thẩm sát như sau: “Không phải vì y áo, ta xuất gia từ bỏ gia đình, sống không gia đình. Không phải vì

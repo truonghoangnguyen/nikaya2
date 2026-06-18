@@ -276,7 +276,25 @@ const SOCIAL_META_EXCLUDE: string[] = [
 ];
 
 function hasSocialMetaTags(head: any[]): boolean {
-  return head.some((tag: any) => tag[0] === 'meta' && tag[1]?.property === 'og:title');
+  return head.some((tag: any) => {
+    if (Array.isArray(tag)) {
+      return tag[0] === 'meta' && (tag[1]?.property === 'og:title' || tag[1]?.name === 'og:title');
+    } else if (tag && typeof tag === 'object') {
+      return tag.tag === 'meta' && (tag.attrs?.property === 'og:title' || tag.attrs?.name === 'og:title');
+    }
+    return false;
+  });
+}
+
+function hasLdJson(head: any[]): boolean {
+  return head.some((tag: any) => {
+    if (Array.isArray(tag)) {
+      return tag[0] === 'script' && tag[1]?.type === 'application/ld+json';
+    } else if (tag && typeof tag === 'object') {
+      return tag.tag === 'script' && tag.attrs?.type === 'application/ld+json';
+    }
+    return false;
+  });
 }
 
 /**
@@ -443,9 +461,14 @@ export default defineConfig({
     pageData.frontmatter = pageData.frontmatter || {};
     pageData.frontmatter.head = pageData.frontmatter.head || [];
 
-    const hasCanonical = pageData.frontmatter.head.some(
-      (tag: any) => tag[0] === 'link' && tag[1] && tag[1].rel === 'canonical'
-    );
+    const hasCanonical = pageData.frontmatter.head.some((tag: any) => {
+      if (Array.isArray(tag)) {
+        return tag[0] === 'link' && tag[1]?.rel === 'canonical';
+      } else if (tag && typeof tag === 'object') {
+        return tag.tag === 'link' && tag.attrs?.rel === 'canonical';
+      }
+      return false;
+    });
 
     if (!hasCanonical) {
       pageData.frontmatter.head.push([
@@ -468,7 +491,10 @@ export default defineConfig({
     const authorSegment = pathParts[1];
     const bookMeta = BOOK_META[bookSegment];
 
-    const pageUrl = `${SITE_ORIGIN}/${relativePath.replace(/\.md$/, '')}`;
+    let pageUrl = `${SITE_ORIGIN}/${relativePath.replace(/\.md$/, '')}`;
+    if (pageUrl.endsWith('index')) {
+      pageUrl = pageUrl.replace(/index$/, '');
+    }
     const dateModified = getDateModified(relativePath);
 
     // --- Compare page branch (e.g. kinhtrungbo/c-pali-tmc-vi/[slug]) ---
@@ -481,12 +507,14 @@ export default defineConfig({
 
       pageData.description = pageDescription;
 
-      pageData.frontmatter.head.push(...buildSocialMetaTags({
-        canonicalUrl: pageUrl,
-        title: pageTitle,
-        description: pageDescription,
-        image: coverUrl,
-      }));
+      if (!hasSocialMetaTags(pageData.frontmatter.head)) {
+        pageData.frontmatter.head.push(...buildSocialMetaTags({
+          canonicalUrl: pageUrl,
+          title: pageTitle,
+          description: pageDescription,
+          image: coverUrl,
+        }));
+      }
 
       pageData.frontmatter.suttaFooter = {
         compareLabel: compareMeta.label,
@@ -548,11 +576,13 @@ export default defineConfig({
         },
       ];
 
-      pageData.frontmatter.head.push([
-        'script',
-        { type: 'application/ld+json' },
-        JSON.stringify({ '@context': 'https://schema.org', '@graph': compareGraph }),
-      ]);
+      if (!hasLdJson(pageData.frontmatter.head)) {
+        pageData.frontmatter.head.push([
+          'script',
+          { type: 'application/ld+json' },
+          JSON.stringify({ '@context': 'https://schema.org', '@graph': compareGraph }),
+        ]);
+      }
 
       return pageData;
     }
@@ -615,12 +645,14 @@ export default defineConfig({
 
           pageData.description = pageDescription;
 
-          pageData.frontmatter.head.push(...buildSocialMetaTags({
-            canonicalUrl: pageUrl,
-            title: pageTitle,
-            description: pageDescription,
-            image: coverUrl,
-          }));
+          if (!hasSocialMetaTags(pageData.frontmatter.head)) {
+            pageData.frontmatter.head.push(...buildSocialMetaTags({
+              canonicalUrl: pageUrl,
+              title: pageTitle,
+              description: pageDescription,
+              image: coverUrl,
+            }));
+          }
 
           if (translatorMeta) {
             pageData.frontmatter.suttaFooter = {
@@ -713,11 +745,13 @@ export default defineConfig({
             },
           ];
 
-          pageData.frontmatter.head.push([
-            'script',
-            { type: 'application/ld+json' },
-            JSON.stringify({ '@context': 'https://schema.org', '@graph': articleGraph }),
-          ]);
+          if (!hasLdJson(pageData.frontmatter.head)) {
+            pageData.frontmatter.head.push([
+              'script',
+              { type: 'application/ld+json' },
+              JSON.stringify({ '@context': 'https://schema.org', '@graph': articleGraph }),
+            ]);
+          }
         }
       } else {
         //console.warn(`transformPageData: Could not find file "${fileName}" in navigation data for author "${currentAuthor}" in book "${currentBook}".`);

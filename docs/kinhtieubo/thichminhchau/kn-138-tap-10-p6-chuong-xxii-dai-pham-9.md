@@ -4128,15 +4128,15 @@ Uống ăn, trang điểm và thay áo quần.\
 Ðược ông bà bế vào lòng,\
 Quốc vương cất tiếng hỏi han ân cần:*
 
-689.- Ta tin rằng phụ mẫu thân\
+689. Ta tin rằng phụ mẫu thân\
 Thảy đều thịnh vượng, an khương mọi bề\
 Với bao thóc lúa thu về,\
 Và bao củ quả tràn trề thảo am.
 
-*690. Song thân con có phiền lòng\
+690. Song thân con có phiền lòng\
 Vì loài rắn rít, bọ ong quấy hoài,\
 Hay bầy dã thú tìm mồi,\
-Song thân có tránh mọi loài được chăng?*
+Song thân có tránh mọi loài được chăng?
 
 Cậu bé đáp:
 

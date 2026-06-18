@@ -92,6 +92,12 @@ const rules = [
     test: ($, route) => {
       const scripts = $('script[type="application/ld+json"]');
       if (scripts.length === 0) return 'Thiếu thẻ <script type="application/ld+json">';
+
+      const headScripts = $('head script[type="application/ld+json"]');
+      if (headScripts.length > 1) {
+        return `Có nhiều hơn 1 thẻ <script type="application/ld+json"> trong header (phát hiện ${headScripts.length})`;
+      }
+
       let validCount = 0;
       let parseError = null;
       scripts.each((i, el) => {

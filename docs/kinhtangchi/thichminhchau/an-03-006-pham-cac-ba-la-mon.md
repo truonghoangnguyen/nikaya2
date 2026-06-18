@@ -325,7 +325,7 @@ Như vậy, vị ấy nhớ đến nhiều đời sống quá khứ, cùng với
 minh thứ nhất đã đạt được, vô minh diệt, minh khởi, bóng tối diệt, ánh sáng sanh, đối với vị an trú
 không phóng dật, nhiệt tâm, tinh cần.
 
-4.-Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
+4\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, vị Tỷ-kheo dẫn tâm, hướng tâm đến trí tuệ về sanh tử của chúng sanh. Vị ấy
 với thiên nhãn thuần tịnh, siêu nhân, thấy sự sống và chết của chúng sanh. Vị ấy biết rõ rằng, chúng sanh
 người hạ liệt, kẻ cao sang, người đẹp đẽ, kẻ thô xấu, người may mắn, kẻ bất hạnh, đều do hạnh nghiệp
@@ -340,7 +340,7 @@ chết của chúng sanh. Vị ấy biết rõ rằng, chúng sanh người hạ
 người may mắn, kẻ bất hạnh, đều do hạnh nghiệp của họ. Ðây là minh thứ hai đã đạt được, vô minh diệt,
 minh khởi, bóng tối diệt, ánh sáng sanh, đối với vị an trú không phóng dật, nhiệt tâm, tinh cần.
 
-5.-Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
+5\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, vị ấy dẫn tâm, hướng tâm đến lậu tận trí. Vị ấy biết như thật: “Ðây là khổ”, biết
 như thật: “Ðây là nguyên nhân của khổ”, biết như thật: “Ðây là khổ diệt”, biết như thật: “Ðây là con
 đường đưa đến khổ diệt”. Biết như thật: “Ðây là những lậu hoặc”, biết như thật: “Ðây là nguyên nhân
@@ -425,7 +425,7 @@ bình thản như vậy, vị ấy dẫn tâm, hướng tâm đến trí tuệ v
 thuần tịnh, siêu nhân ... đều do hạnh nghiệp của chúng. Ðây là minh thứ hai đã đạt được, vô minh diệt,
 minh khởi bóng tối diệt, ánh sánh sanh, đối với vị an trú không phóng dật, nhiệt tâm, tinh cần.
 
-4.-Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
+4\. Với tâm định tĩnh, thuần tịnh, không cấu nhiễm, không phiền não, nhu nhuyến, dễ sử dụng, vững
 chắc, bình thản như vậy, vị ấy dẫn tâm, hướng tâm đến lậu tận trí. Vị ấy biết như thật: “Ðây là khổ” ...
 “... không có đời sống nào khác nữa.” Ðây là minh thứ ba đã đạt được, vô minh diệt, minh khởi bóng tối
 diệt, ánh sánh sanh, đối với vị không phóng dật, an trú, nhiệt tâm, tinh cần.

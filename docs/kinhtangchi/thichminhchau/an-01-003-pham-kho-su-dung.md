@@ -2,7 +2,7 @@
 
 ### 1-10 Tâm Không Tu Tập
 
-1.- Ta không thấy một pháp nào khác, này các Tỷ-kheo, lại khó sử dụng, này các Tỷ-kheo, như tâm
+1\. Ta không thấy một pháp nào khác, này các Tỷ-kheo, lại khó sử dụng, này các Tỷ-kheo, như tâm
 không tu tập. Tâm không tu tập, này các Tỷ-kheo, khó sử dụng.
 
 <!--pg-->

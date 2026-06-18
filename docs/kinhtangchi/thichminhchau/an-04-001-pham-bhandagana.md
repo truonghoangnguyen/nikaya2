@@ -12,7 +12,7 @@ Một thời, Thế Tôn trú ở giữa dân chúng Vajji, tại làng Bhanda. 
 
 Các tỷ-kheo ấy vâng đáp Thế Tôn. Thế tôn nói như sau:
 
-2.- Này các Tỷ-kheo, do không giác ngộ, không thể nhập bốn pháp, như vậy phải chạy dài, luân chuyển
+2\. Này các Tỷ-kheo, do không giác ngộ, không thể nhập bốn pháp, như vậy phải chạy dài, luân chuyển
 trong một thời gian dài, đối với Ta và đối với các Thầy! Thế nào là bốn?
 
 3\. Này các Tỷ-kheo, do không giác ngộ, không thể nhập Thánh giới, như vậy phải chạy dài, phải luân
@@ -24,7 +24,7 @@ trong một thời gian dài, đối với Ta và đối với các Thầy.
 được thể nhập; Thánh định được giác ngộ, được thể nhập; Thánh giải thoát được giác ngộ, được thể
 nhập; hữu ái được chặt đứt, dây cột của hữu được đoạn tận, nay không còn tái sanh.
 
-5.-Thế Tôn nói như vậy. Thiện Thệ sau khi nói vậy xong, bậc Ðạo sư lại nói thêm:
+5\. Thế Tôn nói như vậy. Thiện Thệ sau khi nói vậy xong, bậc Ðạo sư lại nói thêm:
 
 _Giới, Thiền định, Trí tuệ_\
 _Với giải thoát vô thượng_\
@@ -38,7 +38,7 @@ _Bậc Tuệ nhãn tịch tịnh._
 <!--pg-->
 ### (II) (2) Rời Khỏi
 
-1.- Người không thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này. Thế
+1\. Người không thành tựu bốn pháp này, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này. Thế
 nào là bốn?
 
 Không thành tựu Thánh giới, này các Tỷ-kheo, được gọi là bị rời khỏi pháp luật này. Không thành tựu
@@ -121,7 +121,7 @@ _Với lời, ý, nguyện ác._
 <!--pg-->
 ### (IV) (4) Mất Gốc (2)
 
-1.- Do tà hạnh trong bốn sự, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
+1\. Do tà hạnh trong bốn sự, này các Tỷ-kheo, kẻ ngu, không thông minh, không phải bậc Chân nhân, tự
 mình sử xự như môt kẻ mất gốc, bị thương tích, phạm tội, bị kẻ trí quở trách, và tạo nhiều điều vô
 phước. Thế nào là tà hạnh trong bốn sự?
 
@@ -167,7 +167,7 @@ _Ðời sau hưởng Thiên giới_
 <!--pg-->
 ### (V) (5) Thuận Dòng
 
-1.- Có bốn hạng người này, này các Tỷ-kheo, hiện hữu có mặt ở đời. Thế nào là bốn? Hạng người đi
+1. Có bốn hạng người này, này các Tỷ-kheo, hiện hữu có mặt ở đời. Thế nào là bốn? Hạng người đi
 thuận dòng, hạng người đi nghịch dòng, hạng người tự đứng lại, vị Bà-la-môn đã vượt qua đến bờ biên
 kia, đứng trên đất liền.
 
@@ -236,7 +236,7 @@ _Bậc đã đến bờ kia._
 <!--pg-->
 ### (VI) (6) Học Hỏi Ít.
 
-1.- Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Nghe ít, điều đã
+1. Có bốn hạng người này, này các Tỷ-kheo, có mặt, hiện hữu ở đời. Thế nào là bốn? Nghe ít, điều đã
 được nghe không khởi lên; Nghe ít, điều đã được nghe được khởi lên; Nghe nhiều, điều đã được nghe
 không khởi lên; Nghe nhiều, điều đã được nghe có khởi lên.
 
@@ -399,7 +399,7 @@ _Vị ấy sống xuất gia._
 <!--pg-->
 ### (X) (10) Các Ách
 
-1.- Này các Tỷ-kheo, có bốn ách này. Thế nào là bốn? Dục ách, hữu ách, kiến ách, vô minh ách.
+1\. Này các Tỷ-kheo, có bốn ách này. Thế nào là bốn? Dục ách, hữu ách, kiến ách, vô minh ách.
 
 Và này các Tỷ-kheo, thế nào là dục ách?
 
@@ -470,7 +470,8 @@ Không bị trói buộc bởi các ác bất thiện pháp, các phiền não, 
 khổ dị thục trong tương lai, bởi sanh già, chết, do vậy được gọi là an ổn khỏi các ách. Này các Tỷ-kheo,
 có bốn ly ách này.
 
-3.
+3\.
+
 _Bị trói buộc cả hai_\
 _Dục ách và hữu ách_\
 _Bị trói buộc kiến ách_\

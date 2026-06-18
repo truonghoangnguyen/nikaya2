@@ -665,15 +665,15 @@ Trị Kà-si quốc độ giang sơn,\
 Tại Dà-ya ngự viên, an tọa,\
 “Đại đế, lắng nghe sẽ tỏ tường”.*
 
-11.Ví thử ngài đưa lối chỉ đường\
+11. Ví thử ngài đưa lối chỉ đường\
 Cho người đi lạc bước vô phương,\
 Người kia theo đúng lời khuyên nhủ,\
 Chẳng gặp chông gai cản bước chân.
 
-*12. Nếu kẻ kia đi lạc nẻo tà,\
+12. Nếu kẻ kia đi lạc nẻo tà,\
 Nếu ngài dẫn dắt đúng đường ra,\
 Kẻ kia tuân thủ lời khuyên nhủ,\
-Sẽ thoát ra bao cảnh khổ mà.*
+Sẽ thoát ra bao cảnh khổ mà.
 
 \*
 

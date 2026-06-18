@@ -162,7 +162,7 @@ vậy, vị ấy vẫn tưởng?
 − Này Ananda, có thể như vậy. Một Tỷ-kheo khi chứng Thiền định như vậy, vị ấy có thể trong đất không
 tưởng đến đất... trong thế giới đời sau, không tưởng đến thế giới đời sau. Tuy vậy, vị ấy vẫn có tưởng.
 
-2.- Nhưng thưa Hiền giả Sàriputta, như thế nào một Tỷ-kheo khi chứng được Thiền định như vậy, vị ấy
+2\.  Nhưng thưa Hiền giả Sàriputta, như thế nào một Tỷ-kheo khi chứng được Thiền định như vậy, vị ấy
 có thể trong đất, không tưởng đến đất... trong thế giới đời sau, không tưởng đến thế giới đời sau; tuy
 vậy, vị ấy vẫn có tưởng?
 
@@ -170,7 +170,7 @@ vậy, vị ấy vẫn có tưởng?
 Thiền định như sau: Trong đất, tôi không tưởng đến đất, trong thế giới đời sau, tôi không tưởng đến thế
 giới đời sau. Tuy vậy, tôi vẫn có tưởng.
 
-3- Nhưng trong lúc ấy, Tôn giả Sàriputta tưởng đến gì?
+3\. Nhưng trong lúc ấy, Tôn giả Sàriputta tưởng đến gì?
 
 − Một tưởng khác khởi lên trong tôi: “Hữu diệt là Niết-bàn”. Một tưởng khác diệt đi trong tôi: “Hữu diệt
 là Niết-bàn.” Ví như, này Hiền giả, lửa được đốt cháy từ mảnh đá nhỏ, một ngọn lửa khác khởi lên, một

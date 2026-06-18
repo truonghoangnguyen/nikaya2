@@ -33,7 +33,7 @@ không có, do duyên này khởi lên lạc khổ nội tâm cho người ấy.
 <!--pg-->
 ### (II) (172) Ðược Ngã Tánh
 
-1.- Này các Tỷ-kheo, có bốn cách này để được ngã tánh. Thế nào là bốn?
+1\. Này các Tỷ-kheo, có bốn cách này để được ngã tánh. Thế nào là bốn?
 
 Có cách được ngã tánh, này các Tỷ-kheo, trong cách được ngã tánh ấy, ngã tư tâm sở hoạt động, không
 phải do tư tâm sở của người khác. Có cách được ngã tánh, này các Tỷ-kheo, trong cách được ngã tánh
@@ -135,7 +135,7 @@ còn có một cái gì khác nữa?
 
 − Chớ có nói vậy, thưa Hiền giả.
 
-2.- Thưa Hiền giả, khi được hỏi: “Thưa Hiền giả, sau khi đoạn diệt, ly tham sáu xúc xứ không có dư tàn,
+2\. Thưa Hiền giả, khi được hỏi: “Thưa Hiền giả, sau khi đoạn diệt, ly tham sáu xúc xứ không có dư tàn,
 còn có một cái gì khác nữa”, Hiền giả nói: “Chớ có nói vậy, thưa Hiền giả”. Khi được hỏi: “Thưa Hiền
 giả, sau khi đoạn diệt, ly tham sáu xúc xứ không có dư tàn, không còn có một cái gì khác nữa”, Hiền giả
 nói: “Chớ có nói vậy, thưa Hiền giả”. Khi được hỏi: “Thưa Hiền giả, sau khi đoạn diệt, ly tham sáu xúc
@@ -144,7 +144,7 @@ Hiền giả”. Sau khi được hỏi: “Thưa Hiền giả, sau khi đoạn 
 không còn có và không không còn có một cái gì khác nữa”, Hiền giả nói: “Chớ có nói vậy, thưa Hiền
 giả”. Thưa Hiền giả, như thế nào cần phải hiểu ý nghĩa lời nói này?
 
-3.- “Thưa Hiền giả, sau khi đoạn diệt, ly tham sáu xúc xứ không có dư tàn, còn có một cái gì khác nữa!”,
+3\. “Thưa Hiền giả, sau khi đoạn diệt, ly tham sáu xúc xứ không có dư tàn, còn có một cái gì khác nữa!”,
 nói vậy là khiến trở thành hý luận một vấn đề không phải hý luận. “Thưa Hiền giả, sau khi đoạn diệt, ...
 không có dư tàn, không có cái gì khác nữa!”, nói vậy là khiến trở thành hý luận một vấn đề không phải
 hý luận. “Thưa Hiền giả, sau khi đoạn diệt, ... không có dư tàn, còn có và không còn có một cái gì khác
@@ -195,7 +195,7 @@ Tôn giả Sàriputta, có thể có người chấm dứt (đau khổ) nhờ mi
 khổ) ngoài minh và hạnh hay không?”, Tôn giả nói: “Thưa không, này Hiền giả”. ... Như thế nào, thưa
 Tôn giả, (cần phải hiểu) có người chấm dứt (đau khổ)?
 
-3.- Này Hiền giả, nếu có người chấm dứt (đau khổ) nhờ minh, thời người ấy vẫn là người chấm dứt (đau
+3\. Này Hiền giả, nếu có người chấm dứt (đau khổ) nhờ minh, thời người ấy vẫn là người chấm dứt (đau
 khổ) với chấp thủ. Này Hiền giả, nếu có người chấm dứt (đau khổ) nhờ hạnh, thời người ấy vẫn là người
 chấm dứt (đau khổ) với chấp thủ. Này Hiền giả, nếu có người chấm dứt (đau khổ) nhờ minh và hạnh,
 thời người ấy vẫn là người chấm dứt (đau khổ) với chấp thủ. Này Hiền giả, nếu có người chấm dứt (đau
@@ -206,7 +206,7 @@ như thật thấy và biết, là người chấm dứt (đau khổ).
 <!--pg-->
 ### (VI) (176) Mong Cầu
 
-1.- Này các Tỷ-kheo, Tỷ-kheo có lòng tin, nếu chơn chánh mong cầu, hãy mong cầu như sau: “Mong ta
+1\. Này các Tỷ-kheo, Tỷ-kheo có lòng tin, nếu chơn chánh mong cầu, hãy mong cầu như sau: “Mong ta
 sẽ được như Sàriputta, Moggallàna”.
 
 Này các Tỷ-kheo, họ là cán cân, là đồ để đo lường các đệ tử Tỷ-kheo của ta, tức là Sàriputta,
@@ -253,7 +253,7 @@ kiêu mạn, đã chấm dứt khổ đau.
 <!--pg-->
 ### (VIII) (178) Hồ Nước Ở Làng
 
-1.- Này các Tỷ-kheo, có bốn hạng người này có mặt, xuất hiện ở đời. Thế nào là bốn?
+1\. Này các Tỷ-kheo, có bốn hạng người này có mặt, xuất hiện ở đời. Thế nào là bốn?
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo đạt được và an trú một loại an tịnh tâm giải thoát. Vị ấy tác ý có thân
 diệt, do vị ấy tác ý có thân diệt, tâm không phấn chấn, không có tịnh tín, không an trú, không giải thoát

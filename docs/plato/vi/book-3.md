@@ -6,7 +6,7 @@ title: Quyển 3 - Cộng Hòa Plato
 
 SOCRATES TIẾP TỤC KỂ:
 
-(386a) SOCRATES: Vậy thì, về phần các vị thần, có vẻ như đó là những loại câu chuyện mà những người bảo vệ tương lai nên và không nên được nghe từ thuở ấu thơ, nếu chúng ta muốn họ biết tôn kính thần linh và cha mẹ mình, đồng thời không coi nhẹ tình bằng hữu.
+(386a) SOCRATES: Vậy thì, về phần các vị thần, có vẻ như đó là những loại câu chuyện mà những người bảo vệ tương lai nên và không nên được nghe từ thuở ấu thơ, nếu chúng ta muốn họ biết tôn kính thần linh và cha mẹ mình, đồng thời coi trọng tình bằng hữu.
 
 ADEIMANTUS: Tôi tin chắc chúng ta đã đúng về điều đó.
 

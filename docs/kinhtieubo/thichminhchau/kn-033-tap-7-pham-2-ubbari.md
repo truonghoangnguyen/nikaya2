@@ -10,7 +10,7 @@ Thời đức Thế Tôn Gotama đang ở tại Ràjagaha, nữ nhân ấy một
 
 Về sau, cô gái từ trần lúc sanh con và lại tái sanh giữa loài ngạ quỷ. Ban đêm, nữ ngạ quỷ ấy xuất hiện trước Tôn giả Sàriputta, vị ấy thấy nó liền hỏi:
 
-1.Trần truồng và xấu xí hình dung,\
+1. Trần truồng và xấu xí hình dung,\
 Gầy guộc và thân thể nổi gân,\
 Ngươi yếu ớt, xương sườn lộ rõ,\
 Người là ai, hiện đến đây chăng?

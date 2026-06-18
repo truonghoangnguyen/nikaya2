@@ -9,7 +9,7 @@ Như Pháp nhãn xuất gia,\
 Sau khi Ngài quán sát,\
 Chấp thuận hạnh xuất gia.
 
-406.Trói buộc, sống gia đình,\
+406. Trói buộc, sống gia đình,\
 Tụ hội mọi bụi đời,\
 Phóng khoáng, đời xuất gia,\
 Thấy vậy nên xuất gia.

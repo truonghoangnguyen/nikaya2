@@ -443,7 +443,7 @@ có thể đoạn tận chết.
 <!--pg-->
 ### (VII)(77) Con Quạ
 
-1.- Này các Tỷ-kheo, con quạ thành tựu với mười tà pháp. Thế nào là mười?
+1\.  Này các Tỷ-kheo, con quạ thành tựu với mười tà pháp. Thế nào là mười?
 
 2\. Ngạo nghể, hung hãn, cường dục, ăn lớn, độc ác, không từ bi, khiếp nhược, giọng chót tai, vọng niệm
 và cất chứa tài sản.
@@ -460,7 +460,7 @@ Này các Tỷ-kheo, vị ác Tỷ-kheo thành tựu với mười tà pháp nà
 <!--pg-->
 ### (VIII)(78) Ni Kiền Tử
 
-1.- Này các Tỷ-kheo, các Ni-kiền tử (Niganthàputta) thành tựu với mười tà pháp. Thế nào là mười?
+1\.  Này các Tỷ-kheo, các Ni-kiền tử (Niganthàputta) thành tựu với mười tà pháp. Thế nào là mười?
 
 2\. Không có lòng tin, này các Tỷ-kheo, là các Ni-kiền tử. Ác giới, này các Tỷ-kheo, là các Ni-kiền tử.
 Không có xấu hổ, này các Tỷ-kheo, là các Ni-kiền tử. Không có sợ hãi, này các Tỷ-kheo, là các Ni-kiền
@@ -491,7 +491,7 @@ Này các Tỷ-kheo, có mười trường hợp hiềm hận này.
 
 1\. - Này các Tỷ-kheo, có mười nhiếp phục hiềm hận này, Thế nào là mười?
 
-2.-Hiềm hận được nhiếp phục, khi nghĩ rằng: “Nó đã làm hại tôi, nhưng lợi ích từ đâu đến khi nghĩ như
+2\. Hiềm hận được nhiếp phục, khi nghĩ rằng: “Nó đã làm hại tôi, nhưng lợi ích từ đâu đến khi nghĩ như
 vậy? “Hiềm hận được nhiếp phục, khi nghĩ rằng: “Nó đang làm hại ta, nhưng lợi ích từ đâu đến khi nghĩ
 như vậy. “Hiềm hận được nhiếp phục khi nghĩ rằng: “Nó sẽ làm hại ta, nhưng lợi ích từ đâu đến khi ta
 nghĩ như vậy? . “Hiềm hận được nhiếp phục, khi nghĩ rằng: “Nó đã làm hại người ta yêu, người ta mến..

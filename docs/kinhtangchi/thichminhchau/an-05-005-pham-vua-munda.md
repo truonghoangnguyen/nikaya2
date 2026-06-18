@@ -307,7 +307,7 @@ Những pháp này, này các Tỷ-kheo là năm cụ túc.
 <!--pg-->
 ### (VII) (47) Tài Vật
 
-1.- Này các Tỷ-kheo, có năm tài sản này. Thế nào là năm? Tín tài, giới tài, văn tài, thí tài, tuệ tài. Và này
+1\. Này các Tỷ-kheo, có năm tài sản này. Thế nào là năm? Tín tài, giới tài, văn tài, thí tài, tuệ tài. Và này
 các Tỷ-kheo, thế nào là tín tài?
 
 2\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử có lòng tin, tin tưởng vào sự giác ngộ của Như Lai: “Ðây là
@@ -344,7 +344,7 @@ _Nhớ đến lời Phật dạy._
 <!--pg-->
 ### (VIII). (48) Sự Kiện Không Thể Có Ðược
 
-1.- Này các Tỷ-kheo, có năm sự kiện này không thể có được bởi Sa-môn hay Bà-la-môn, bởi Ma hay
+1\. Này các Tỷ-kheo, có năm sự kiện này không thể có được bởi Sa-môn hay Bà-la-môn, bởi Ma hay
 Phạm thiên, hay bởi một ai ở đời. Thế nào là năm?
 
 2\. Phải bị già, muốn khỏi già, là một sự kiện không thể có được bởi một Sa-môn hay Bà-la-môn, bởi Ma

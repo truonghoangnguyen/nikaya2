@@ -105,7 +105,7 @@ vi diệu, chưa từng có thứ nhất, được có ở nơi tôi. Rồi thư
 Tôn. Rồi Thế Tôn thuyết pháp thuận thứ cho tôi như thuyết pháp về bố thí, thuyết về giới, thuyết về cõi
 trời, nói lên sự nguy hại, sự hạ liệt, nhiễm ô của các dục và sự lợi ích của viễn ly.
 
-6 - 8. (Pháp vi diệu thứ hai, thứ ba, thứ tư giống như kinh 21.6-8 với những thay đổi cần thiết) ... chưa
+6\. 8. (Pháp vi diệu thứ hai, thứ ba, thứ tư giống như kinh 21.6-8 với những thay đổi cần thiết) ... chưa
 từng có thứ tư, được có ở nơi tôi.
 
 9\. Khi tôi hầu hạ một Tỷ-kheo, tôi hầu hạ rất cản thận, không phải không cản thận. Thưa Tôn giả, nếu
@@ -293,7 +293,7 @@ Komàrabhacca bạch Thế Tôn:
 <!--pg-->
 ### (VII) (27) Sức Mạnh (1)
 
-1.- Này các Tỷ-kheo, có tám sức mạnh này. Thế nào là tám?
+1\. Này các Tỷ-kheo, có tám sức mạnh này. Thế nào là tám?
 
 2\. Này các Tỷ-kheo, sức mạnh của con nít là khóc; sức mạnh của đàn bà là phẫn nộ; sức mạnh của người
 ăn trộm là vũ khí; sức mạnh của các vua chúa là uy quyền; sức mạnh của kẻ ngu là áp đảo; sức mạnh

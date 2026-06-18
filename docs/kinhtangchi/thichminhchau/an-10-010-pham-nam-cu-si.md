@@ -433,7 +433,7 @@ nói vậy, Thế Tôn im lặng.
 Gotama khi được nghe ta hỏi câu hỏi tối ư quan trọng lại tránh né, không có trả lời, không dám trả lời,
 và như vậy là bất hạnh, là đau khổ lau dài cho du sĩ Uttiya.” Rồi Tôn giả Ananda nói với du sĩ Uttiya:
 
-4.- Vậy này Uttiya, Ta sẽ dùng một ví dụ, chính nhờ ví dụ, ở đây một số người có trí có thể hiểu được ý
+4\.  Vậy này Uttiya, Ta sẽ dùng một ví dụ, chính nhờ ví dụ, ở đây một số người có trí có thể hiểu được ý
 nghĩa của lời nói. Ví như, này Hiền giả Uttiya, ngôi thành biên địa của vua với những nền móng vững
 chắc, với các thành lũy thác canh vững chắc, và chỉ có một cửa vào. Tại đây, người giữ cửa là người
 sáng suốt, thông minh, có trí, ngăn chận những người không quen biết, cho vào những người quen biết.

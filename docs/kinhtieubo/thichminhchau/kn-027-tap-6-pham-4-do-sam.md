@@ -881,7 +881,7 @@ Gặp Tỳ-kheo giới hạnh chuyên cần,\
 Với tâm thành tín và hoan hỷ\
 Con chắp hai tay lễ dưới chân.
 
-6.Vì thế sắc con đẹp thế này,\
+6. Vì thế sắc con đẹp thế này,\
 Và con vinh hiển ở nơi đây,\
 Bất kỳ lạc thú nào lòng dạ\
 Yêu chuộng, tức thì xuất hiện ngay.

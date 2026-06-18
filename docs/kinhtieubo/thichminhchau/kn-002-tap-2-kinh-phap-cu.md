@@ -276,7 +276,7 @@ Vượt tầm mắt thần chết.”
 Bị thần chết mang đi,\
 Như lụt trôi làng ngủ.”
 
-48.Người nhặt các loại hoa,\
+48. Người nhặt các loại hoa,\
 Ý đắm say tham nhiễm,\
 Các dục chưa thỏa mãn,\
 Ðã bị chết chinh phục.”
@@ -490,7 +490,7 @@ Theo chánh pháp khéo dạy,\
 Sẽ đến bờ bên kia,\
 Vượt ma lực khó thoát.”
 
-87.Kẻ trí bỏ pháp đen,\
+87. Kẻ trí bỏ pháp đen,\
 Tu tập theo pháp trắng.\
 Bỏ nhà, sống không nhà,\
 Sống viễn ly khổ lạc.”
@@ -623,7 +623,7 @@ Bậc kỳ lão trưởng thượng,\
 Bốn pháp được tăng trưởng:\
 Thọ, sắc, lạc, sức mạnh.”
 
-110.Dầu sống một trăm năm\
+110. Dầu sống một trăm năm\
 Ác giới, không thiền định,\
 Tốt hơn sống một ngày,\
 Trì giới, tu thiền định.”

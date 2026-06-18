@@ -1130,7 +1130,7 @@ Không có gì không tốt,\
 Ba minh ta đạt được,\
 Lời Phật dạy, làm xong.
 
-887.Trong rừng, dưới gốc cây,\
+887. Trong rừng, dưới gốc cây,\
 Hay trên núi trong hang,\
 Tại chỗ ấy, ta trú,\
 Tâm tư thật hứng khởi.

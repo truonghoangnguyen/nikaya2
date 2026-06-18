@@ -376,7 +376,8 @@ Sau trở thành người tốt.
 Sống hôn trầm thụy miên,\
 Trạo cử và nghi ngờ,\
 Tâm đủ năm phiền não.\
-1011.Với ai, đối cả hai,\
+
+1011. Với ai, đối cả hai,\
 Ðược trọng, không được trọng,\
 Thiền định, không dao động,\
 An trú không phóng dật.

@@ -2,7 +2,7 @@
 
 ### (I) (221) Diệu Hạnh
 
-1.- Này các Tỷ-kheo, có bốn lời ác hành này. Thế nào là bốn?
+1\. Này các Tỷ-kheo, có bốn lời ác hành này. Thế nào là bốn?
 
 Nói láo, nói hai lưỡi, nói lời thô ác, nói lời phù phiếm.
 

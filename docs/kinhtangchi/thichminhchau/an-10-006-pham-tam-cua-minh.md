@@ -163,7 +163,7 @@ như vậy nên sử dụng.
 Này các Tỳ-kheo, Ta nói rằng, sàng tọa có hai loại: nên sử dụng và không nên sử dụng, như vậy được
 nói đến. Do duyên gì được nói đến như vậy?
 
-11.- Này các Tỳ-kheo, Ta nói rằng, làng, thị trấn có hai loại: nên sử dụng và không nên sử dụng, như
+11\. Này các Tỳ-kheo, Ta nói rằng, làng, thị trấn có hai loại: nên sử dụng và không nên sử dụng, như
 vậy được nói đến. Do duyên gì được nói đến như vậy?
 
 Ở đây, nếu biết được làng, thị trấn nào: “Làng, thị trấn này được ta sử dụng, các pháp bất thiện tăng

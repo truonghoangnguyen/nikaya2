@@ -158,7 +158,7 @@ _Bị địa ngục nung nấu._
 
 ### (X) (40) Quả Do Hòa Hợp Tăng Ðưa Lại
 
-1.- Bạch Thế Tôn, với chúng Tăng bị phá, làm cho hòa hợp lại, đem đến kết quả gì?
+1\.  Bạch Thế Tôn, với chúng Tăng bị phá, làm cho hòa hợp lại, đem đến kết quả gì?
 
 2\. - Này Ananda, đem đến phạm công đức!
 

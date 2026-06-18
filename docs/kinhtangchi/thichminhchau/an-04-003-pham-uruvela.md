@@ -230,7 +230,7 @@ _Không tham đắm như vậy._\
 <!--pg-->
 ### (V) (25) Phạm Hạnh
 
-1.- Phạm hạnh được sống, này các Tỷ-kheo, không vì mục đích lừa dối quần chúng, không vì mục đính
+1\. Phạm hạnh được sống, này các Tỷ-kheo, không vì mục đích lừa dối quần chúng, không vì mục đính
 mơn trớn quần chúng, không vì mục đích được lợi ích về lợi dưỡng, cung kính, danh vọng, không vì
 mục đích được lợi ích thoát khỏi lời phê bình bàn tán, không với ý nghĩ: “Mong quần chúng biết ta như
 vậy”. Và này các Tỷ-kheo, Phạm hạnh này được sống với mục đích được chế ngự, với mục đính đoạn
@@ -254,7 +254,7 @@ _Làm theo Ðạo Sư dạy._\
 <!--pg-->
 ### (VI) (26) Kẻ Lừa Dối.
 
-1.- Những vị Tỷ-kheo nào, này các Tỷ-kheo, lừa dối cứng đầu, lắm mồm lắm miệng, hoang dâm, hỗn
+1\. Những vị Tỷ-kheo nào, này các Tỷ-kheo, lừa dối cứng đầu, lắm mồm lắm miệng, hoang dâm, hỗn
 hào, không có định tĩnh, những Tỷ-kheo ấy không phải là Tỷ-kheo của Ta. Những Tỷ-kheo ấy đã rơi
 khỏi Pháp Luật này. Và họ không đi đến tăng trưởng, tăng thịnh, tăng rộng trong Pháp Luật này. Và này
 các Tỷ-kheo, các Tỷ-kheo nào không lừa dối, không lắm mồm lắm miệng, có trí, không cứng đầu, khéo

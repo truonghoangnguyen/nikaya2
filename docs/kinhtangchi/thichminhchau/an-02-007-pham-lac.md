@@ -1,6 +1,6 @@
 # VII. Phẩm Lạc
 
-1.- Có hai loại lạc này, này các Tỷ-kheo. Thế nào là hai? Lạc tại gia và lạc xuất gia. Những pháp này,
+1\. Có hai loại lạc này, này các Tỷ-kheo. Thế nào là hai? Lạc tại gia và lạc xuất gia. Những pháp này,
 này các Tỷ-kheo, là hai lạc. Tối thắng trong hai lạc này, này các Tỷ-kheo, tức là lạc xuất gia.
 
 <!--pg-->

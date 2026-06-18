@@ -94,7 +94,7 @@ thắng là Mahàkaccàna.
 
 4\. Trong các vị đệ tử... đầy đủ sự kiên trì tối thắng là Ananda.
 
-5.Trong các vị đệ tử... thị giả, tối thắng là Ananda.
+5\. Trong các vị đệ tử... thị giả, tối thắng là Ananda.
 
 
 6\. Trong các vị đệ tử... có đại hội chúng, tối thắng là Uruvela Kassapa.
@@ -151,7 +151,7 @@ thắng là Mahàkaccàna.
 
 10\. Trong các vị nữ đệ tử... nhớ đến các thời quá khứ, tối thắng là Bhaddà Kapilànì.
 
-11.Trong các vị nữ đệ tử... đã chứng đạt đại thắng trí, tối thắng là Bhaddà Kaccana.
+11\. Trong các vị nữ đệ tử... đã chứng đạt đại thắng trí, tối thắng là Bhaddà Kaccana.
 
 12\. Trong các vị nữ đệ tử... mang thô y, tối thắng là Kisàgotami.
 

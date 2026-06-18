@@ -500,7 +500,7 @@ Vì muốn cho con lợi lạc mà,\
 Ngài đã vào rừng từ xóm ấy,\
 Tâm thành, con đạt cõi Băm-ba.
 
-8.Vì vậy sắc con đẹp thế này,\
+8. Vì vậy sắc con đẹp thế này,\
 Và con vinh hiển ở nơi đây,\
 Bất kỳ lạc thú nào trong dạ\
 Yêu chuộng, tức thì xuất hiện ngay.

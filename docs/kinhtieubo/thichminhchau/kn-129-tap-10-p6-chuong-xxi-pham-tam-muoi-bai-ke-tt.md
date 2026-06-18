@@ -1630,12 +1630,12 @@ Vua đã dùng điểm tâm ngày hôm trước, nhưng đã bỏ cơm tối 
 
 Bậc Ðạo Sư ngâm kệ làm sáng tỏ vấn đề:
 
-*5. Vầng nhật vừa lên, mới rạng đông,\
+5. Vầng nhật vừa lên, mới rạng đông,\
 Ðem theo đầu bếp đến sân rồng,\
 Kà-la tiến lại gần thiên tử,\
-Tâu những lời này với chúa công:*
+Tâu những lời này với chúa công:
 
-6.”Hỏa đầu quân, có đúng vậy chăng\
+6. ”Hỏa đầu quân, có đúng vậy chăng\
 Ðưa lệnh vua ra tận phố phường,\
 Tàn sát nam nhi cùng phụ nữ,\
 Ðể dâng chúa thượng món cao lương

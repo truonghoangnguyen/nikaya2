@@ -198,7 +198,7 @@ _Ði đến bờ bên kia._
 <!--pg-->
 ### (VI) (6) Tùy Chuyẻn Thế Giới (2)
 
-1.- Tám thế gian pháp này, này các Tỷ-kheo, tùy chuyển thế giới. Thế giới tùy chuyển theo tám pháp thế
+1\. Tám thế gian pháp này, này các Tỷ-kheo, tùy chuyển thế giới. Thế giới tùy chuyển theo tám pháp thế
 gian này. Thế nào là tám?
 2\. Lợi dưỡng và không lợi dưỡng, danh vọng và không danh vọng, chỉ trích và tán thán, an lạc và đau
 khổ.

@@ -144,20 +144,20 @@ Những pháp này, này các Tỷ-kheo, là ba viên mãn.
 <!--pg-->
 ### 116.- Chính Xác.
 
-1.- Này các Tỷ kheo, có ba khiếm khuyết này, thế nào là ba?
+1\. Này các Tỷ kheo, có ba khiếm khuyết này, thế nào là ba?
 
 Khiếm khuyết về giới, khiếm khuyết về tâm, khiếm khuyết về tri kiến... (Giống như kinh 115, 1-4).
 
-2.- Ví như naỳ các Tỷ Kheo, một hột súc sắc chính xác, nếu được liệng về mặt trên, được nằm về mặt
+2\. Ví như naỳ các Tỷ Kheo, một hột súc sắc chính xác, nếu được liệng về mặt trên, được nằm về mặt
 ấy, được nằm khéo đặt. Cũng vậy, Này các Tỷ kheo, do nhân khiếm khuyết về giói các loại hữu tình, sau
 khi thân hoại mạng chung, sanh vào cõi dữ, ác thú, đọa xứ, địa ngục..... Do nhân khiếm khuyết về
 tâm,....Do nhân khiếm khuyết về tri kiến...... này các Tỷ-kheo, ... sanh vào cõi dữ, ác thú, đọa xứ, địa
 ngục . Các pháp này, naỳ các Tỷ kheo, là ba khuyết điểm.
 
-3.- Này các Tỷ-kheo, có ba viên mãn này. Thế nào là ba? Viên mãn về giới, viên mãn về tâm, viên mãn
+3\. Này các Tỷ-kheo, có ba viên mãn này. Thế nào là ba? Viên mãn về giới, viên mãn về tâm, viên mãn
 về tri kiến. .... (Như kinh 115, 5-8).
 
-4.- Ví như này các Tỷ Kheo, một hột súc sắc chính xác, nếu được liệng về mặt trên, được nằm về mặt
+4\. Ví như này các Tỷ Kheo, một hột súc sắc chính xác, nếu được liệng về mặt trên, được nằm về mặt
 ấy, được nằm khéo đặt. Cũng vậy, Này các Tỷ kheo, do nhân viên mãn về giơi.... do nhân viên mãn về
 tâm .... do nhân viên mãn về tri kiến, này các Tỷ kheo, các loại hữu tình, sau khi thân hoại mạng chung,
 được sanh lên cõi thiện, cõi trời, cõi đời này. Các pháp này, này các Tỷ kheo, là ba viên mãn.
@@ -165,7 +165,7 @@ tâm .... do nhân viên mãn về tri kiến, này các Tỷ kheo, các loại 
 <!--pg-->
 ### 117.- Hành Ðộng
 
-1 - Này các Tỷ-kheo, có ba khiếm khuyết này. Thế nào là ba? Khiếm khuyết về hành động, khiếm
+1\. Này các Tỷ-kheo, có ba khiếm khuyết này. Thế nào là ba? Khiếm khuyết về hành động, khiếm
 khuyết về sanh kế, khiếm khuyết về tri kiến.
 
 Và này các Tỷ-kheo, thế nào là khiếm khuyết về hành động?

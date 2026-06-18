@@ -88,7 +88,7 @@ Các pháp này, này các Tỷ-kheo, là năm chi phần tinh cần.
 <!--pg-->
 ### (IV) (54) Thời Gian Ðể Tinh Cần
 
-1.- Có năm phi thần để tinh cần, này các Tỷ-kheo. Thế nào là năm?
+1\.  Có năm phi thần để tinh cần, này các Tỷ-kheo. Thế nào là năm?
 
 2\. Ở đây, này các Tỷ-kheo, Tỷ-kheo già yếu, bị già chinh phục. Này các Tỷ-kheo, đây là phi
 thời thứ nhất để tinh cần.
@@ -152,7 +152,7 @@ mặt con và con cũng thường xuyên muốn thấy mặt mẹ. Vì họ thư
 có sự liên hệ. Do có sự liên hệ, nên có sự thân mật. Do có thân mật, nên có sự sa ngã. Với
 tâm sa ngã, buông bỏ sự học tập, làm lộ liễu sự yếu đuối, họ rơi vào thông dâm với nhau.
 
-3.- Sao, này các Tỷ-kheo, kẻ ngu si này lại nghĩ rằng: “Mẹ không tham đắm con, hay con
+3\.  Sao, này các Tỷ-kheo, kẻ ngu si này lại nghĩ rằng: “Mẹ không tham đắm con, hay con
 không tham đắm mẹ”? Này các Tỷ-kheo, Ta không thấy một sắc nào khác lại khả ái như
 vậy, đẹp đẽ như vậy, mê ly như vậy, trói buộc như vậy, say sưa như vậy, chướng ngại như
 vậy cho sự đạt đến an ổn khỏi các khổ ách, tức là, này các Tỷ-kheo, sắc đẹp của nữ nhân.
@@ -220,7 +220,7 @@ ngọt, mắt con không thấy rõ phương hướng, pháp không được con
 miên chinh phục tâm con và an trú. Không có hoan hỷ, con sống Phạm hạnh. Con có những
 nghi ngờ đối với Chánh pháp”.
 
-3.- Sự việc là vậy, này Tỷ-kheo, khi một người sống với các căn không được bảo vệ, với ăn
+3\.  Sự việc là vậy, này Tỷ-kheo, khi một người sống với các căn không được bảo vệ, với ăn
 uống không có tiết độ, không có chú tâm cảnh giác, không có quán nhìn các thiện pháp,
 không có trước đêm và sau đêm chuyên chú tu tập các pháp giác chi. Do vậy, thân Thầy
 cảm thấy như bị say ngọt, mắt Thầy không thấy rõ phương hướng, pháp không được Thầy
@@ -242,7 +242,7 @@ trạng thái này nữa”. Tỷ-kheo ấy trở thành một vị A-la-hán.
 Rồi Tỷ-kheo đã chứng đắc A-la-hán ấy đi đến vị giáo thọ sư của mình, sau khi đến, thưa với
 vị giáo thọ sư của mình:
 
-5.- Bạch Thượng tọa, nay thân con không cảm thấy như bị say ngọt, mắt con thấy rõ các
+5\.  Bạch Thượng tọa, nay thân con không cảm thấy như bị say ngọt, mắt con thấy rõ các
 phương hướng. Pháp được con nhớ rõ. Với tâm hoan hỷ, con sống Phạm hạnh, Con không
 còn nghi nhờ đối với các thiện pháp.
 
@@ -252,7 +252,7 @@ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tỷ-kheo
 như bị say ngọt, con thấy rõ các phương hướng, pháp được con nhớ rõ. Với tâm hoan hỷ,
 con sống Phạm hạnh. Con không còn nghi ngờ đối với các thiện pháp”.
 
-7.- Như vậy là phải, này Tỷ-kheo, khi một người sống với các căn được bảo vệ, với ăn uống
+7\.  Như vậy là phải, này Tỷ-kheo, khi một người sống với các căn được bảo vệ, với ăn uống
 có tiết độ, có chú tâm cảnh giác, có quán nhìn các thiện pháp, trước đêm và sau đêm sống
 chuyên chú tu tập các pháp giác chi. Do vậy, thân không cảm thấy như bị say ngọt, các
 phương hướng được hiện rõ, và pháp được người ấy nhớ rõ. Hôn trầm thụy miên không còn
@@ -266,7 +266,7 @@ Như vậy, này các Tỷ-kheo, các Thầy cần phải học tập.
 <!--pg-->
 ### (VII) (57) Sự Kiện Cần Phải Quan Sát
 
-1.- Có năm sự kiện này, này các Tỷ-kheo, cần phải thường xuyên quán sát bởi nữ nhân hay
+1\.  Có năm sự kiện này, này các Tỷ-kheo, cần phải thường xuyên quán sát bởi nữ nhân hay
 nam nhân, bởi tại gia hay xuất gia. Thế nào là năm?
 
 2\. “Ta phải bị già, không thoát khỏi già” là sự kiện cần phải thường xuyên quán sát bởi nữ

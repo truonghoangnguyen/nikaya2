@@ -32,7 +32,7 @@ niệm xứ cần phải tu tập
 <!--pg-->
 ### (III) (65) Dục Trưởng Dưỡng
 
-1.- Này các Tỷ-kheo, có năm dục trưởng dưỡng này. Thế nào là năm?
+1\.  Này các Tỷ-kheo, có năm dục trưởng dưỡng này. Thế nào là năm?
 
 2\. Các sắc do mắt nhận thức, khả lạc, khả hỷ, khả ý, khả ái, liên hệ đến dục, hấp dẫn, các tiếng do tai
 nhận thức khả lạc... hấp dẫn. Này các Tỷ-kheo, có năm dục trưởng dưỡng này.

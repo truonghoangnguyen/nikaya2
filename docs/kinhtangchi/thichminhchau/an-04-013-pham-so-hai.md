@@ -5,7 +5,7 @@
 1\. - Này các Tỷ-kheo, có bốn sự sợ hãi này. Thế nào là bốn? Sợ hãi tự mình trách, sợ hãi người khác
 trách, sợ hãi hình phạt, sợ hãi ác thú.
 
-2.-Và này các Tỷ-kheo, thế nào là sự sợ hãi tự mình trách?
+2\. Và này các Tỷ-kheo, thế nào là sự sợ hãi tự mình trách?
 
 Ở đây, này các Tỷ-kheo, có hạng người suy xét: “Nếu thân ta làm ác, lời nói ta ác, ý nghĩa ta ác, thời tự
 ngã có thể trách ta về phương diện giới: “Sao lại làm nghiệp ấy?”. Người ấy do sợ hãi tự trách, đoạn tận
@@ -19,7 +19,7 @@ người khác có thể trách ta về phương diện giới: “Sao lại là
 khác trách, đoạn tận thân làm ác, tu tập thân làm lành, đoạn tận lời nói ác, tu tập lời nói lành, đoạn tận ý
 nghĩ ác, tu tập ý nghĩ lành; sống tự ngã trong sạch. Này các Tỷ-kheo, đây gọi là sợ hãi người khác trách.
 
-4.- Và này các Tỷ-kheo, thế nào là sợ hãi hình phạt?
+4\. Và này các Tỷ-kheo, thế nào là sợ hãi hình phạt?
 
 Ở đây, này các Tỷ-kheo, có người thấy vua chúa khi bắt được người ăn trộm, kẻ đi cướp đường, liền áp
 dụng nhiều hình phạt sai khác. Họ đánh bằng roi, họ đánh bằng gậy, họ đánh bằng côn, họ chặt tay, họ

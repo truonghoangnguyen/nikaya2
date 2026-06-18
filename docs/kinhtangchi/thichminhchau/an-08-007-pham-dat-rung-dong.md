@@ -68,7 +68,7 @@ Này các Tỷ-kheo, có tám hạng người này sống có mặt, hiện hữ
 <!--pg-->
 ### (II) (62) Vừa Ðủ
 
-1.- Thành tựu sáu pháp này, này các Tỷ-kheo, Tỷ-kheo vừa đủ cho tự mình, vừa đủ cho các người khác.
+1\. Thành tựu sáu pháp này, này các Tỷ-kheo, Tỷ-kheo vừa đủ cho tự mình, vừa đủ cho các người khác.
 Thế nào là sáu?
 
 2\. Ở đây, này các Tỷ-kheo, Tỷ-kheo nhanh nhẹn nắm được ý nghĩa trong các thiện pháp; là người thọ trì
@@ -175,7 +175,7 @@ cần phải đi theo.
 thể hiểu được ý nghĩa lời của Thế Tôn thuyết giảng. Con có thể trở thành kẻ thừa tự lời Thế Tôn thuyết
 giảng.
 
-2.- Vậy này Tỷ-kheo, Thầy cần phải học tập như sau:
+2\. Vậy này Tỷ-kheo, Thầy cần phải học tập như sau:
 
 “Nội tâm ta sẽ an trú, khéo vững trú. Các pháp ác, bất thiện khởi không có xâm chiếm tâm và không có
 chân đứng”. Như vậy, này Tỷ-kheo, Thầy cần phải học tập.
@@ -237,7 +237,7 @@ vâng, bạch Thế Tôn. “.
 
 Các tỷ-kheo ấy vâng đáp Thế Tôn. Thế tôn nói như sau:
 
-2.- Này các Tỷ-kheo, trước khi Ta giác ngộ, chưa thành Chánh Ðẳng Giác, Ta còn làm Bồ Tát, Ta tưởng
+2\. Này các Tỷ-kheo, trước khi Ta giác ngộ, chưa thành Chánh Ðẳng Giác, Ta còn làm Bồ Tát, Ta tưởng
 tri ánh sáng, Ta không thấy sắc. Này các Tỷ-kheo, rồi Ta suy nghĩ: “Nếu Ta có thể tưởng tri ánh sáng và
 Ta có thể thấy được màu sắc, như vậy tri kiến của Ta được thanh tịnh hơn lên”. Rồi này các Tỷ-kheo,
 sau một thời gian Ta sống không phóng dật, nhiệt tâm, tinh cần, Ta tưởng tri ánh sáng và thấy được các
@@ -292,7 +292,7 @@ chứng ngộ Vô Thượng Chánh Ðẳng Giác. Tri kiến khởi lên nơi Ta
 <!--pg-->
 ### (V) (65) Thắng Xứ
 
-1.- Này các Tỷ-kheo, có tám thắng xứ này. Thế nào là tám?
+1\. Này các Tỷ-kheo, có tám thắng xứ này. Thế nào là tám?
 
 2\. Một vị tưởng tri nội sắc, thấy các loại ngoại sắc, có hạn lượng đẹp xấu. Vị ấy tưởng tri rằng: “Sau khi
 nhiếp thắng chúng, ta biết, ta thấy. Ðó là thắng xứ thứ nhất.
@@ -327,7 +327,7 @@ Này các Tỷ-kheo, những pháp này là tám thắng xứ.
 <!--pg-->
 ### (VI) (66) Các Giải Thoát
 
-1.- Này các Tỷ-kheo, có tám giải thoát này. Thế nào là tám?
+1\. Này các Tỷ-kheo, có tám giải thoát này. Thế nào là tám?
 
 2\. “Tự mình có sắc, thấy các sắc”. Ðó là giải thoát thứ nhất.
 

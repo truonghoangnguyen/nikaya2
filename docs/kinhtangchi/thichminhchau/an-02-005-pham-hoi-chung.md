@@ -2,7 +2,7 @@
 
 ### 1-10
 
-1.- Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng nông nổi và hội chúng thâm
+1\. Này các Tỷ-kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng nông nổi và hội chúng thâm
 sâu. Và này các Tỷ-kheo, thế nào là hội chúng nông nổi? Ở đây, này các Tỷ-kheo, tại hội chúng nào có
 các Tỷ-kheo tháo động, kiêu căng, lắm mồm lắm miệng, lắm lời, thất niệm, không tỉnh giác, không định
 tĩnh, tâm tán loạn, các căn thả lỏng. Này các Tỷ-kheo, đây gọi là hội chúng nông nổi.

@@ -9,7 +9,7 @@ _**(Dasuttara Sutta)**_
 
 ## Tụng Phẩm I
 
-1.Một thời Thế Tôn trú tại Campa (Chiêm-bà) trên bờ hồ Gaggara (Già-già), cùng với đại chúng Tỷ
+1. Một thời Thế Tôn trú tại Campa (Chiêm-bà) trên bờ hồ Gaggara (Già-già), cùng với đại chúng Tỷ
 kheo khoảng năm trăm vị. Rồi tôn giả Sàriputta bảo các vị Tỳ kheo: “Này các Hiền giả Tỷ kheo”. “Thưa
 Hiền giả” các vị Tỷ kheo ấy đáp ứng tôn giả Sàriputta, tôn giả Sàriputta nói như sau:
 

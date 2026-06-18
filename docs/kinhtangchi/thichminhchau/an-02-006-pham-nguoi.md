@@ -1,6 +1,6 @@
 # VI. Phẩm Người
 
-1.- Có hai hạng người này, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa
+1\. Có hai hạng người này, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa
 số, an lạc cho đa số, lợi ích cho đa số, đưa lại hạnh phúc, an lạc cho chư Thiên và loài Người. Thế nào là
 hai? Như Lai, bậc A-la-hán, Chánh Ðẳng Giác và Chuyển Luân Vương. Những người này, này các Tỷ-kheo, khi xuất hiện ở đời, sự xuất hiện đưa lại hạnh phúc cho đa số, an lạc cho đa số, lợi ích cho đa số,
 đưa lại hạnh phúc, an lạc cho chư Thiên và loài Người.

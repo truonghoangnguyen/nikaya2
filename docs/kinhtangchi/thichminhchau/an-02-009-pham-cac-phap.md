@@ -1,6 +1,6 @@
 # IX. Phẩm Các Pháp
 
-1.- Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Tâm giải thoát và tuệ giải thoát. Những pháp này,
+1\. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Tâm giải thoát và tuệ giải thoát. Những pháp này,
 này các Tỷ-kheo, là hai pháp.
 
 _... Cũng vậy đối với các pháp kế tiếp như:_

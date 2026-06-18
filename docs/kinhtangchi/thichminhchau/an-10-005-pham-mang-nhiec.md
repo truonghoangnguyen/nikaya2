@@ -136,7 +136,7 @@ Này các Tỷ-kheo, đây là mười sự nguy hại khi vào hậu cung của
 nhiều nam cư sĩ Thích tử, trong ngày trai giới Uposatha, đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn
 rồi ngồi xuống một bên. Thế Tôn nói với các nam tu sĩ Thích tử đang ngồi một bên:
 
-2.- Này các Thích tử, các Ông có thực hành ngày trai giới, đầy đủ tám chi phần không?
+2\.  Này các Thích tử, các Ông có thực hành ngày trai giới, đầy đủ tám chi phần không?
 
 − Bạch Thế Tôn, có khi chúng con thực hành ngày trai giới, đầy đủ tám chi phần, có khi chúng con
 không thực hành.
@@ -210,7 +210,7 @@ rằng trong đời sống liên hệ đến sợ hãi về đau khổ, trong đ
 đến Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Mahàli người
 Licchavi bạch Thế Tôn:
 
-2.- Bạch Thế Tôn, do nhân gì, do duyên gì, ác nghiệp được làm, ác nghiệp được tiếp tục làm?
+2\.  Bạch Thế Tôn, do nhân gì, do duyên gì, ác nghiệp được làm, ác nghiệp được tiếp tục làm?
 
 − Này Mahàli, do nhân tham, do duyên tham, ác nghiệp được làm, ác nghiệp được tiếp tục làm. Này
 Mahali, do nhân sân, do duyên sân, ác nghiệp được làm, ác nghiệp được tiếp tục làm. Do nhân si, do

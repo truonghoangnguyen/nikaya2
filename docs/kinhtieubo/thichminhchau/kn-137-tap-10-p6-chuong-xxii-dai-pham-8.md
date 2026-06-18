@@ -2814,7 +2814,7 @@ Ma-tha-ra trí điểu trao lời,\
 Với May-nah giọng du dương ấy,\
 Trong chiếc lồng son đẹp tuyệt vời:
 
-89.- Bạn ơi, bạn có được khang an,\
+89. Bạn ơi, bạn có được khang an,\
 Trong chiếc lồng vàng của bạn chăng,\
 Hạnh phúc có tràn đầy, Vệ-xá,\
 Họ cho bạn đủ mật, ngô rang?

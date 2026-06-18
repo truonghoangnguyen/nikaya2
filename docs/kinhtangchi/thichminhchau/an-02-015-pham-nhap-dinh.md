@@ -2,7 +2,7 @@
 
 ### 1-17 Nhập Ðịnh (hay Thiền chứng)
 
-1.- ### Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Thiện xảo nhập định và thiện xảo xuất định.
+1\. Này các Tỷ-kheo, có hai pháp này. Thế nào là hai? Thiện xảo nhập định và thiện xảo xuất định.
 Những pháp này, này các Tỷ-kheo, là hai pháp.
 
 <!--pg-->

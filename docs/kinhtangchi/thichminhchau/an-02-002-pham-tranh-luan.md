@@ -2,7 +2,7 @@
 
 ### 1-10 Các Sức Mạnh
 
-1.-- Có hai sức mạnh, này các Tỷ-kheo. Thế nào là hai? Sức mạnh tư sát và sức mạnh tu tập. Và này các
+1\. Có hai sức mạnh, này các Tỷ-kheo. Thế nào là hai? Sức mạnh tư sát và sức mạnh tu tập. Và này các
 Tỷ-kheo, thế nào là sức mạnh tư sát? Ở đây, này các Tỷ-kheo, có người tư sát như sau: “Với thân làm
 ác, quả dị thục là ác, ngay hiện tại và trong đời sau. Với miệng nói ác, quả dị thục là ác, ngay trong hiện
 tại và trong đời sau. Với ý nghĩ ác, quả dị thục là ác, ngay trong hiện tại và trong đời sau”. Vị ấy, tư sát

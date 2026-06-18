@@ -172,7 +172,7 @@ Pacetana bảo người đóng xe:
 
 Người đóng xe trả lời cho vua Pacetana.
 
-2.- Rồi này các Tỷ-kheo, người đóng xe trong sáu ngày, sau khi làm xong bánh xe thứ hai, cầm cặp bánh
+2\. Rồi này các Tỷ-kheo, người đóng xe trong sáu ngày, sau khi làm xong bánh xe thứ hai, cầm cặp bánh
 xe mới, đi đến vua Pacetana; sau khi đến, thưa với vua Pacetana:
 
 − “Thưa Ðại vương, cặp bánh xe mới này đã làm xong cho Ngài”.
@@ -204,13 +204,13 @@ không có chỗ hỏng, không có khuyết điểm, vì rằng trục xe khôn
 khuyết điểm nên bánh xe ấy tiếp tục chạy cho đến khi sức đẩy (ban đầu) còn tồn tại, nó đứng lại như
 đang mắc vào ở trong trục xe.
 
-4.- Rất có thể, này các Tỷ-kheo, các thầy nghĩ rằng trong thời ấy, người đóng xe ấy là một người khác.
+4\. Rất có thể, này các Tỷ-kheo, các thầy nghĩ rằng trong thời ấy, người đóng xe ấy là một người khác.
 Này các Tỷ-kheo, chớ có nghĩ như vậy. Trong thời ấy, ta chính là người đóng xe. Lúc bấy giờ, này các
 Tỷ-kheo, ta khéo léo về chỗ cong của gỗ, về chỗ hỏng của gỗ, về khuyết điểm của gỗ. Nay, này các Tỷ-kheo, ta là bậc A-la-hán, Chánh Ðẳng Giác, khéo léo về chỗ cong của thân, về chỗ hỏng của thân, về
 khuyết điểm của thân; khéo léo về chỗ cong của lời nói, về chỗ hỏng của lời nói, về khuyết điểm của lời
 nói; khéo léo về chỗ cong của ý, về chỗ hỏng của ý, về khuyết điểm của ý.
 
-5.-Ðối với các Tỷ-kheo hay Tỷ-kheo ni nào, thân cong không có đoạn tận, thân hư hỏng, thân khuyết
+5\. Ðối với các Tỷ-kheo hay Tỷ-kheo ni nào, thân cong không có đoạn tận, thân hư hỏng, thân khuyết
 điểm (không có đoạn tận), lời nói cong không có đoạn tận, lời nói hư hỏng, lời nói khuyết điểm (không
 có đoạn tận), ý cong không có đoạn tận, ý hư hỏng, ý khuyết điểm (không có đoạn tận), như vậy, này
 các Tỷ-kheo, vị ấy rời khỏi pháp luật này, ví như bánh xe ấy được làm xong sau sáu ngày.

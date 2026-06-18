@@ -31,7 +31,7 @@ Và con vinh hiển ở nơi đây,\
 Bất kỳ lạc thú nào trong dạ,\
 Yêu chuộng, tức thì xuất hiện ngay.
 
-6.Xin trình Tôn giả đại oai thần\
+6. Xin trình Tôn giả đại oai thần\
 Công đức con làm giữa thế nhân\
 Nhờ đó oai nghi con rực rỡ,\
 Dung quang tỏa sáng khắp mười phương?

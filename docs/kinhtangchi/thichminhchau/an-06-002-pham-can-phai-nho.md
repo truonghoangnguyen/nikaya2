@@ -169,7 +169,7 @@ _Nơi an ổn vô thượng._
 hối hận, khi mệnh chung có hối hận. Và như thế nào, này các Hiền giả, Tỷ-kheo sống nếp sống như vậy,
 như vậy, khi lâm chung có hối hận, khi mệnh chung có hối hận?
 
-2.... (Giống như kinh số 14, chỉ khác là thay thế không hiền thiện bằng có hối hận, thay thế có hiền thiện
+2\. ... (Giống như kinh số 14, chỉ khác là thay thế không hiền thiện bằng có hối hận, thay thế có hiền thiện
 _bằng không hối hận)..._
 
 <!--pg-->

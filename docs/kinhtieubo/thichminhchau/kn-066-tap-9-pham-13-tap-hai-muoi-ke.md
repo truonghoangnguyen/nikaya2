@@ -625,7 +625,7 @@ Giải thoát, không sanh y,\
 Ðã làm việc phải làm,\
 Không còn các lậu hoặc.
 
-335.Từ thành Ba-la-nại!\
+335. Từ thành Ba-la-nại!\
 Con đã bước ra đi!\
 Con đến bậc Ðại hùng.\
 Con là Sundarì,\

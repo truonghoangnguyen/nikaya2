@@ -322,7 +322,7 @@ hạnh phúc tương lai, an lạc tương lai.
 <!--pg-->
 ### (VI) (56) Sợ Hãi
 
-1.- Sợ hãi, này các Tỷ-kheo, là đồng nghĩa với các dục. Ðau khổ, này các Tỷ-kheo, là đồng nghĩa với
+1\. Sợ hãi, này các Tỷ-kheo, là đồng nghĩa với các dục. Ðau khổ, này các Tỷ-kheo, là đồng nghĩa với
 các dục. Bệnh tật, này các Tỷ-kheo, là đồng nghĩa với các dục. Cục bướu, này các Tỷ-kheo, là đồng
 nghĩa với các dục. Mũi tên, này các Tỷ-kheo, là đồng nghĩa với các dục. Trói buộc, này các Tỷ-kheo, là
 đồng nghĩa với các dục. Bùn, này các Tỷ-kheo, là đồng nghĩa với các dục. Thai tạng, này các Tỷ-kheo,
@@ -359,7 +359,7 @@ _Ám ảnh và chinh phục._
 <!--pg-->
 ### (VII) (57) Xứng Ðáng Ðược Cúng Dường (1)
 
-1.- Thành tựu tám pháp này, này các Tỷ-kheo, vị Tỷ-kheo đáng được cung kính, đáng được tôn trọng,
+1\. Thành tựu tám pháp này, này các Tỷ-kheo, vị Tỷ-kheo đáng được cung kính, đáng được tôn trọng,
 đáng được chắp tay, là ruộng phước vô thượng ở đời. Thế nào là tám?
 
 2\. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo giữ giới ... chấp nhận và học tập trong các học pháp; nghe nhiều,
@@ -376,7 +376,7 @@ Thành tựu tám pháp này, này các Tỷ-kheo, Tỷ-kheo đáng được cun
 <!--pg-->
 ### (VIII) (58) Xứng Ðáng Ðược Cúng Dường (2)
 
-1.- Thành tựu tám pháp này, này các Tỷ-kheo, vị Tỷ-kheo đáng được cung kính, đáng được tôn trọng,
+1\. Thành tựu tám pháp này, này các Tỷ-kheo, vị Tỷ-kheo đáng được cung kính, đáng được tôn trọng,
 đáng được chắp tay, là ruộng phước vô thượng ở đời. Thế nào là tám?
 
 2\. Ở đây, này các Tỷ-kheo, vị Tỷ-kheo giữ giới ... chấp nhận và học tập trong các học pháp; nghe nhiều,

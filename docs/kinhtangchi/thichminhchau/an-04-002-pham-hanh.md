@@ -2,7 +2,7 @@
 
 ### I. (11) Hành.
 
-1.- Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo chấp nhận, không có từ bỏ, không có tẩy sạch, không có chấm dứt, không có đi đến không hiện
+1\. Này các Tỷ-kheo, Nếu Tỷ-kheo khi đang đi khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu Tỷ-kheo chấp nhận, không có từ bỏ, không có tẩy sạch, không có chấm dứt, không có đi đến không hiện
 hữu; này các Tỷ-kheo, nếu Tỷ-kheo đang đi có sở hành như vậy, vị ấy được gọi là người không có nhiệt
 tình, không có xấu hổ, liên tục thường hằng biếng nhác, tinh tấn hạ liệt. Này các Tỷ-kheo, nếu Tỷ-kheo
 khi đang đứng ... khi đang ngồi ... khi đang nằm, thức khởi lên dục tầm, hay sân tầm, hai hại tầm mà nếu

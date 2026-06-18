@@ -5,7 +5,7 @@
 
 ### (I) (1) Sự Phá Hoại
 
-1.- Do phá hoại bảy pháp, này các Tỷ-kheo, thành vị Tỷ-kheo. Thế nào là bảy?
+1\. Do phá hoại bảy pháp, này các Tỷ-kheo, thành vị Tỷ-kheo. Thế nào là bảy?
 
 2\. Phá hoại kiến có thân, phá hoại nghi, phá hoại giới cấm thủ, phá hoại tham, phá hoại sân, phá hoại si,
 phá hoại mạn.
@@ -34,7 +34,7 @@ Do chặn đứng bảy pháp này, này các Tỷ-kheo, thành vị A-la-hán.
 <!--pg-->
 ### (X)(10) Diệu Pháp
 
-1.- Có bảy diệu pháp này, này các Tỷ-kheo. Thế nào là bảy?
+1\. Có bảy diệu pháp này, này các Tỷ-kheo. Thế nào là bảy?
 
 2\. Tín, xấu hổ, sợ hãi, nghe nhiều, tinh tấn, chánh niệm, có trí tuệ. Này các Tỷ-kheo, có bảy diệu pháp
 này.
@@ -91,7 +91,7 @@ quán từ bỏ.
 ### [III]
 
 ### (I) (1) Thắng Tri Tham (1)
-1.- Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
+1\. Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
 
 2\. Niệm giác chi, trạch pháp giác chi, tinh tấn giác chi, khinh an giác chi, định giác chi, xả giác chi. Này
 các Tỷ-kheo, để thắng tri tham, bảy pháp này cần phải tu tập.
@@ -99,7 +99,7 @@ các Tỷ-kheo, để thắng tri tham, bảy pháp này cần phải tu tập.
 <!--pg-->
 ### (II) (2) Thắng Tri Tham (2)
 
-1.- Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
+1\. Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
 
 2\. Tưởng vô thường, tưởng vô ngã, tưởng bất tịnh, tưởng nguy hại, tưởng đoạn tận, tưởng ly tham,
 tưởng đoạn diệt. Này các Tỷ-kheo, để thắng tri tham, bảy pháp này cần phải tu tập.
@@ -107,7 +107,7 @@ tưởng đoạn diệt. Này các Tỷ-kheo, để thắng tri tham, bảy phá
 <!--pg-->
 ### (III) (3) Thắng Tri Tham (3)
 
-1.- Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
+1\. Này các Tỷ-kheo, để thắng tri tham, bảy pháp cần phải tu tập. Thế nào là bảy?
 
 2\. Tưởng bất tịnh, tưởng chết, tưởng yếm ly trên đồ ăn, tưởng không hoan hỷ đối với tất cả thế giới,
 tưởng vô thường, tưởng khổ trên vô thường, tưởng vô ngã trên khổ. Này các Tỷ-kheo, để thắng tri tham,

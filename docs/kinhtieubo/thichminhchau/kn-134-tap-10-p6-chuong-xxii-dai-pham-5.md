@@ -419,10 +419,10 @@ Tiên nữ bao nàng rộn múa ca,\
 Cột trụ dát toàn châu ngọc quý,\
 Tứ bề phản chiếu ánh trời xa.*
 
-22.*Ngài có cung đình thật hiển vinh,\
+22. Ngài có cung đình thật hiển vinh,\
 Chính nhờ công đức đã hoàn thành,\
 Mọi niềm ước nguyện đều viên mãn,\
-Ngay khi nguyện ước mới thành hình.*
+Ngay khi nguyện ước mới thành hình.
 
 *23. Ngài chẳng ước mơ điện Ngọc hoàng,\
 Thiên triều tráng lệ sánh sao ngang?\

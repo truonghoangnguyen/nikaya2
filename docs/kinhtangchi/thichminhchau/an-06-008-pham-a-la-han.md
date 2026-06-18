@@ -2,7 +2,7 @@
 
 ### (I) (75) Khổ
 
-1.- Thành tựu với sáu pháp, này các Tỷ-kheo, Tỷ-kheo ngay trong hiện tại sống đau khổ, hiềm hận, có
+1\.  Thành tựu với sáu pháp, này các Tỷ-kheo, Tỷ-kheo ngay trong hiện tại sống đau khổ, hiềm hận, có
 ưu não, có nhiệt não, sau khi thân hoại mạng chung, chờ đợi là ác thú. Thế nào là sáu?
 
 2\. Với dục tầm, với sân tầm, với hại tầm, với dục tưởng, với sân tưởng, với hại tưởng. Thành tựu với sáu

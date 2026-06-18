@@ -422,7 +422,7 @@ Sẽ chìm trong hố thẳm đen dơ\
 Ðại đế, xin mua bình rượu nặng\
 Ðầy lên tận miệng của nhà ta.
 
-6.Rượu vào trí đảo lộn quay cuồng\
+6. Rượu vào trí đảo lộn quay cuồng\
 Như chú bò ăn cỏ lạc đường\
 Tâm trí phiêu diêu, người lảo đảo.\
 Múa men ca hát suốt ngày trường.\

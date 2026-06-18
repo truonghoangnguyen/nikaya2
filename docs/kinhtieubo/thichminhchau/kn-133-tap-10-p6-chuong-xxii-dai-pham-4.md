@@ -350,7 +350,7 @@ Ca hót líu lo suốt cả ngày,\
 Yêu dấu chim non chăm sóc kỹ,\
 Còn cha đem giết lũ con vầy?
 
-33.Cha đừng tưởng lão Bà-la-môn,\
+33. Cha đừng tưởng lão Bà-la-môn,\
 Phản bạn tha cha lúc vắng con,\
 Đến lượt cha theo con kế tiếp,\
 Chúng con không chỉ chết cô đơn!

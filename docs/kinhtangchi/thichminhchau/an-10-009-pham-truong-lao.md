@@ -49,7 +49,7 @@ một bên, Tôn giả Punniya bạch Thế Tôn:
 − Bạch Thế Tôn, do nhân gì, do duyên gì, có khi Thế Tôn thuyết pháp, có khi Thế Tôn không thuyết
 pháp?
 
-2.- Này Punniya, Tỷ-kheo có lòng tin, không đi đến yết kiến, Như Lai không có thuyết pháp. Khi nào,
+2\. Này Punniya, Tỷ-kheo có lòng tin, không đi đến yết kiến, Như Lai không có thuyết pháp. Khi nào,
 này Punniya, Tỷ-kheo có lòng tin, đi đến yết kiến, như vậy Thế Tôn thuyết pháp. Và này Punniya, Tỷ-kheo có lòng tin, có đi đến yết kiến, nhưng không có hầu hạ... có hầu hạ nhưng không hỏi.. có hỏi nhưng
 không có lóng tai nghe pháp... có lóng tai nhưng nghe pháp, nhưng sau khi, không thọ trì pháp... sau khi
 nghe, có thọ trì pháp, nhưng không suy nghĩ ý nghĩa các pháp đã được thọ trì... suy nghĩ ý nghĩa các

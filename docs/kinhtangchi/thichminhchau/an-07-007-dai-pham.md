@@ -234,7 +234,7 @@ bỏ gánh nặng trong các thiện pháp. Lấy tinh tấn làm quân đội, 
 bất thiên, tu tập thiện, từ bỏ có tội, tu tập không tội, gìn giữ tự thân thanh tịnh. Với diệu pháp thứ năm
 này, vị ấy được thành tựu.
 
-18.Ví như, này các Tỷ kheo, trong thànbh trì biên địa của vua có người giữ cửa thành là người hiền trí,
+18\. Ví như, này các Tỷ kheo, trong thànbh trì biên địa của vua có người giữ cửa thành là người hiền trí,
 thông minh, có trí, ngăn chặn những nười lạ mặt, cho vaò những người quen biết để bảo vệ những người
 ở trong thành và để chống cự những người bên ngoài. Cũng vậy, này các Tỷ-kheo, vị Thánh đệ tử sống
 có chánh niệm thành tựu tối thắng niệm tuệ, nhớ đến và tùy niệm việc làm dã lâu ngày, lời nói đã lâu
@@ -251,6 +251,7 @@ thứ bảy này, vị ấy được thành tựu.
 
 Với bảy diệu pháp này, vị ấy thành tựu. Thế nào là bốn Thiền thuộc tăng thượng tâm, hiện tại lạc trú, có
 được không khó khăn, có được không mệt nhọc, có được không phí sức?
+
 20\. Ví như, này các Tỷ-kheo, trong thành trì biên địa của vua có nhiều cỏ, củi, nước được tích trữ để
 những người ở trong thành được an vui, khỏi sự lo ngại, được lạc trú và để chống những người bên
 ngoài. Cũng vậy, này các Tỷ-kheo, Thánh đệ tử ly dục, ly pháp bất thiện, chứng đạt và an trú sơ Thiền,

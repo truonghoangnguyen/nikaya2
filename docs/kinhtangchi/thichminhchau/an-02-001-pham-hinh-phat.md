@@ -2,7 +2,7 @@
 
 ### 1-10 Hai Loại Tội
 
-1.- Như vầy tôi nghe.
+1\. Như vầy tôi nghe.
 
 Một thời, Thế Tôn trú ở Sàvatthi, tại Thắng lâm, khu vườn ông Anàthapindika. Tại đấy, Thế Tôn gọi các
 Tỷ-kheo: - Này các Tỷ-kheo. - Bạch Thế Tôn. Các tỷ-kheo ấy vâng đáp Thế Tôn. Thế tôn nói như sau:

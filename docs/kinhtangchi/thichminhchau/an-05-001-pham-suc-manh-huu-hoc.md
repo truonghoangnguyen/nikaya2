@@ -178,7 +178,7 @@ bảo vệ mình, không còn phóng dật nữa”.
 <!--pg-->
 ### (VIII) (8) Từ Bỏ
 
-1.- Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo từ bỏ, không an trú trong diệu pháp. Thế
+1\. Thành tựu năm pháp này, này các Tỷ-kheo, một Tỷ-kheo từ bỏ, không an trú trong diệu pháp. Thế
 nào là năm?
 
 

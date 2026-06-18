@@ -30,7 +30,7 @@ cần phải tu tập. Ðể đoạn tận ý ác hành, ý thiện hành cần 
 <!--pg-->
 ### (III) (109) Suy Tầm
 
-1.- Này các Tỷ-kheo, có ba pháp này. Thế nào là ba?
+1\.  Này các Tỷ-kheo, có ba pháp này. Thế nào là ba?
 
 2\. Dục tầm, sân tầm, hại tầm. Này các Tỷ-kheo, có ba pháp này.
 
@@ -95,7 +95,7 @@ tập. Ðể đoạn tận có nhiều dục, ít dục cần phải tu tập.
 <!--pg-->
 ### (IX) (115) Ác Ngôn
 
-1.- Này các Tỷ-kheo, có ba pháp này. Thế nào là ba?
+1\.  Này các Tỷ-kheo, có ba pháp này. Thế nào là ba?
 
 2\. Ác ngôn, ác bằng hữu, tâm dao động. Này các Tỷ-kheo, có ba pháp này.
 
