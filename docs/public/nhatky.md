@@ -26,3 +26,10 @@ Dịch: "...duyên Thủ có Hữu, duyên Hữu có Sanh."
 Chữ Hữu/bhava không nghờ khó vậy, có 2 thằng Nguyên
 Ng1: Hữu là Hữu
 Ng2: tôi đã tìm thấy điều gì đó khác biệt
+
+### date: 2026-06-05
+Đọc sách Plato
+
+### date: 2026-06-05
+Thêm kinh tiểu bộ
+
