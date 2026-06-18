@@ -1,3 +1,7 @@
+---
+title: Kinh tiểu bộ tập 3 – KINH PHẬT TỰ THUYẾT
+---
+
 # TẬP 3 – KINH PHẬT TỰ THUYẾT
 **(Udàna)**
 

@@ -1,3 +1,7 @@
+---
+title: Kinh tiểu bộ tập 5 – KINH TẬP
+---
+
 # TẬP 5 – KINH TẬP
 **Sutta Nipata**
 
@@ -195,7 +199,7 @@ Yếu tố thứ tư xác nhận sự cổ kính của Kinh Tập này là một
 Biển lớn thì im lặng.\
 Khe nước thời chảy ồn.\
 Cái gì trống kêu to.\
-Cái gì đầy thì yên lặng. 
+Cái gì đầy thì yên lặng.
 
 Những ví dụ này cho chúng ta thấy những kẻ ít hiểu biết thì hay nói nhiều, những kẻ hiểu biết nhiều thời thường im lặng như 2 câu kệ sau đây :
 

@@ -1,3 +1,6 @@
+---
+title: Kinh tiểu bộ tập 10 phần 1 – CHUYỆN TIỀN THÂN ĐỨC PHẬT
+---
 # PHẦN 1 – CHƯƠNG I
 
 **Kinh Tiểu Bộ tập 10 – Chuyện Tiền Thân Đức Phật [↗](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat)**
@@ -20,4 +23,4 @@
 - [[13] PHẨM KUSANÀLI](/kinhtieubo/thichminhchau/kn-084-tap-10-p1-pham-kusanali.md)
 - [[14] PHẨM ASAMPADÀNA](/kinhtieubo/thichminhchau/kn-085-tap-10-p1-pham-asampadana.md)
 - [[15] PHẨM KAKANTAKA](/kinhtieubo/thichminhchau/kn-086-tap-10-p1-pham-kakantaka.md)
-   
+

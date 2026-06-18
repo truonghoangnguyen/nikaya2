@@ -1,3 +1,6 @@
+---
+title: Kinh tiểu bộ tập 10 – CHUYỆN TIỀN THÂN ĐỨC PHẬT
+---
 # TẬP 10 – CHUYỆN TIỀN THÂN ĐỨC PHẬT
 
 ## **Lời Giới thiệu**
@@ -84,7 +87,7 @@ Viện Trưởng Viện Phật Học Vạn Hạnh.***
 
 ## Mục lục tập 10
 - [PHẦN 1 – CHƯƠNG I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1-chuong-i.md)
-    
+
 - [PHẦN 2 – CHƯƠNG 2](/kinhtieubo/thichminhchau/kn-087-tap-10-p2-chuong-2.md)
 
 - [PHẦN 3 – CHƯƠNG III, CHƯƠNG IV](/kinhtieubo/thichminhchau/kn-098-tap-10-p3-chuong-iii-chuong-iv.md)

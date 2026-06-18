@@ -1,3 +1,7 @@
+---
+title: Kinh tiểu bộ tập 6 – THIÊN CUNG SỰ
+---
+
 # TẬP 6 – THIÊN CUNG SỰ
 
 ## Giới thiệu tập 6 – Thiên Cung Sự

@@ -1,3 +1,7 @@
+---
+title: Kinh tiểu bộ tập 4 – KINH PHẬT THUYẾT NHƯ VẬY
+---
+
 # TẬP 4 – KINH PHẬT THUYẾT NHƯ VẬY
 **(Itivuttaka)**
 

@@ -1,3 +1,7 @@
+---
+title: Kinh tiểu bộ tập 10 phần 2 – CHUYỆN TIỀN THÂN ĐỨC PHẬT
+---
+
 # PHẦN 2 – CHƯƠNG 2
 
 **Kinh Tiểu Bộ tập 10 – Chuyện Tiền Thân Đức Phật [↗](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat)**

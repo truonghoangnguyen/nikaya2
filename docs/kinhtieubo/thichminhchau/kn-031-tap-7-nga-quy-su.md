@@ -1,3 +1,6 @@
+---
+title: Kinh tiểu bộ tập 7 – NGẠ QUỶ SỰ
+---
 # TẬP 7 – NGẠ QUỶ SỰ
 
 ## Giới thiệu tập 7 – Ngạ Quỷ Sự

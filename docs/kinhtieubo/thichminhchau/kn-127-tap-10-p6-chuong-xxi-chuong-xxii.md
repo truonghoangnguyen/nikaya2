@@ -1,3 +1,7 @@
+---
+title: Kinh tiểu bộ tập 10 phần 6 – CHUYỆN TIỀN THÂN ĐỨC PHẬT
+---
+
 # PHẦN 6 – CHƯƠNG XXI, CHƯƠNG XXII
 
 **Kinh Tiểu Bộ – Khuddaka Nikàya**

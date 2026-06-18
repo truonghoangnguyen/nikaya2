@@ -1,49 +1,61 @@
 # Kinh Nikaya
 
-> Thư viện trực tuyến Kinh điển Phật giáo Nguyên thủy (Pali Canon), cung cấp các bản dịch song ngữ đối chiếu (Pali - Việt, Anh - Việt) hỗ trợ nghiên cứu kinh điển.
+> Thư viện Kinh điển Phật giáo Nguyên thủy (Pali Canon) trực tuyến, với bản dịch Việt và Anh, hỗ trợ đọc đối chiếu song ngữ.
 
 ## Docs
 
-- [Kinh Trường Bộ (DN)](https://kinhnikaya.org/kinhtruongbo/): 34 bài kinh dài ghi lại những giáo lý căn bản về đạo đức, thiền định và trí tuệ.
-- [Kinh Trung Bộ (MN)](https://kinhnikaya.org/kinhtrungbo/): 152 bài kinh có độ dài trung bình, bao gồm những giáo lý thực hành cốt lõi.
-- [Kinh Tăng Chi Bộ (AN)](https://kinhnikaya.org/kinhtangchi/): Hơn 8.000 bài kinh được sắp xếp theo số lượng điều khoản từ 1 đến 11.
-- [Kinh Tương Ưng Bộ (SN)](https://kinhnikaya.org/kinhtuongung/): Khoảng 2.900 bài kinh được nhóm theo các chủ đề thực hành tâm linh.
-- [Kinh Tiểu Bộ (KN)](https://kinhnikaya.org/kinhtieubo/): Tập hợp các bài kinh ngắn, thi kệ, truyện tiền thân Phật và các văn bản khác.
+- [Trang chủ](https://kinhnikaya.org/): Điểm vào chính của thư viện, liệt kê 5 bộ Kinh Nikaya với các bản dịch hiện có.
+- [Kinh Trường Bộ (DN)](https://kinhnikaya.org/kinhtruongbo/): 34 bài kinh dài ghi lại giáo lý căn bản về đạo đức, thiền định và trí tuệ.
+- [Kinh Trung Bộ (MN)](https://kinhnikaya.org/kinhtrungbo/): 152 bài kinh độ dài trung bình, bao gồm giáo lý thực hành cốt lõi của Đức Phật.
+- [Kinh Tăng Chi Bộ (AN)](https://kinhnikaya.org/kinhtangchi/): Hơn 8.000 bài kinh sắp xếp theo số lượng điều khoản từ 1 đến 11.
+- [Kinh Tương Ưng Bộ (SN)](https://kinhnikaya.org/kinhtuongung/): Khoảng 2.900 bài kinh nhóm theo chủ đề thực hành tâm linh.
+- [Kinh Tiểu Bộ (KN)](https://kinhnikaya.org/kinhtieubo/): Tập hợp các bài kinh ngắn, thi kệ, truyện tiền thân Phật và văn bản đa dạng.
+- [Tìm kiếm](https://kinhnikaya.org/search): Tìm kiếm nhanh toàn bộ kinh điển theo từ khóa, tên kinh hoặc số kinh.
+- [Hỏi & Đáp](https://kinhnikaya.org/hoi-dap): Giải đáp các câu hỏi phổ biến về Kinh Nikaya, Phật giáo Nguyên thủy và cách sử dụng thư viện.
 
 ## Bản dịch tiếng Việt
 
-- [Trường Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtruongbo/thichminhchau/): Bản dịch tiếng Việt uy tín của Hòa thượng Thích Minh Châu cho Kinh Trường Bộ.
-- [Trung Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtrungbo/thichminhchau/): Bản dịch tiếng Việt các bài kinh trung bình từ tiếng Pali.
-- [Tăng Chi Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtangchi/thichminhchau/): Bản dịch tiếng Việt các bài kinh được phân loại theo pháp số.
-- [Tương Ưng Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtuongung/thichminhchau/): Bản dịch tiếng Việt các bài kinh được phân nhóm theo chủ đề.
-- [Tiểu Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtieubo/thichminhchau/): Bản dịch tiếng Việt các văn bản thuộc bộ kinh thứ năm của Nikaya.
+- [Trường Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtruongbo/thichminhchau/): Bản dịch tiếng Việt từ Pali của Hòa thượng Thích Minh Châu cho Kinh Trường Bộ.
+- [Trường Bộ - Sujato (Việt)](https://kinhnikaya.org/kinhtruongbo/sujato-vi/): Bản dịch tiếng Việt từ bản Anh ngữ của Bhikkhu Sujato cho Kinh Trường Bộ.
+- [Trung Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtrungbo/thichminhchau/): Bản dịch tiếng Việt 152 bài kinh trung bình từ tiếng Pali.
+- [Trung Bộ - Ñāṇamoli & Bodhi (Việt)](https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/): Bản dịch tiếng Việt từ bản Anh ngữ học thuật của Ñāṇamoli và Bodhi.
+- [Tăng Chi Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtangchi/thichminhchau/): Bản dịch tiếng Việt các bài kinh phân loại theo pháp số.
+- [Tăng Chi Bộ - Sujato (Việt)](https://kinhnikaya.org/kinhtangchi/sujato-vi/): Bản dịch tiếng Việt từ bản Anh ngữ của Bhikkhu Sujato cho Kinh Tăng Chi.
+- [Tương Ưng Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtuongung/thichminhchau/): Bản dịch tiếng Việt các bài kinh phân nhóm theo chủ đề.
+- [Tương Ưng Bộ - Sujato (Việt)](https://kinhnikaya.org/kinhtuongung/sujato-vi/): Bản dịch tiếng Việt từ bản Anh ngữ của Bhikkhu Sujato cho Kinh Tương Ưng.
+- [Tiểu Bộ - Thích Minh Châu](https://kinhnikaya.org/kinhtieubo/thichminhchau/): Bản dịch tiếng Việt của Tỷ kheo Thích Minh Châu và GS Trần Phương Lan.
 
 ## Bản dịch tiếng Anh
 
-- [Trường Bộ - Sujato](https://kinhnikaya.org/kinhtruongbo/sujato-en/): Bản dịch tiếng Anh hiện đại, trực quan và dễ hiểu của Bhikkhu Sujato.
-- [Trung Bộ - Ñāṇamoli & Bodhi](https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/): Bản dịch tiếng Anh mang tính học thuật cao của Bhikkhu Ñāṇamoli và Bhikkhu Bodhi.
-- [Tăng Chi Bộ - Sujato](https://kinhnikaya.org/kinhtangchi/sujato-en/): Bản dịch tiếng Anh của Bhikkhu Sujato cho các bài kinh Tăng Chi.
-- [Tương Ưng Bộ - Sujato](https://kinhnikaya.org/kinhtuongung/sujato-en/): Bản dịch tiếng Anh của Bhikkhu Sujato cho các bài kinh Tương Ưng.
+- [Trường Bộ - Sujato](https://kinhnikaya.org/kinhtruongbo/sujato-en/): Bản dịch tiếng Anh hiện đại, trực quan của Bhikkhu Sujato cho Kinh Trường Bộ.
+- [Trung Bộ - Ñāṇamoli & Bodhi](https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/): Bản dịch tiếng Anh học thuật của Bhikkhu Ñāṇamoli và Bhikkhu Bodhi cho Kinh Trung Bộ.
+- [Tăng Chi Bộ - Sujato](https://kinhnikaya.org/kinhtangchi/sujato-en/): Bản dịch tiếng Anh của Bhikkhu Sujato cho các bài kinh Tăng Chi Bộ.
+- [Tương Ưng Bộ - Sujato](https://kinhnikaya.org/kinhtuongung/sujato-en/): Bản dịch tiếng Anh của Bhikkhu Sujato cho các bài kinh Tương Ưng Bộ.
 
 ## So sánh song ngữ (Đối chiếu)
 
-- [Trường Bộ Pali – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/): Đối chiếu trực tiếp văn bản gốc Pali và bản dịch tiếng Việt.
-- [Trường Bộ Anh (Sujato) – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/): Đối chiếu bản tiếng Anh của Sujato và tiếng Việt của Thích Minh Châu.
-- [Trung Bộ Anh (Ñāṇamoli & Bodhi) – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/): So sánh bản tiếng Anh học thuật và bản dịch tiếng Việt.
-- [Tăng Chi Bộ Anh (Sujato) – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/): So sánh bản tiếng Anh và bản tiếng Việt cho các bài kinh theo số.
-- [Tương Ưng Bộ Anh (Sujato) – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/): So sánh bản tiếng Anh và bản tiếng Việt cho các bài kinh theo chủ đề.
+- [Trường Bộ Pali – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/): Đối chiếu trực tiếp văn bản gốc Pali và bản dịch tiếng Việt theo từng đoạn.
+- [Trường Bộ Anh (Sujato) – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/): Đối chiếu bản tiếng Anh Sujato và tiếng Việt Thích Minh Châu theo từng đoạn.
+- [Trung Bộ Pali – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtrungbo/c-pali-tmc-vi/): Đối chiếu văn bản gốc Pali và bản dịch tiếng Việt cho Kinh Trung Bộ.
+- [Trung Bộ Anh (Ñāṇamoli & Bodhi) – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/): So sánh bản tiếng Anh học thuật và bản dịch tiếng Việt cho Kinh Trung Bộ.
+- [Tăng Chi Bộ Anh (Sujato) – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/): So sánh bản tiếng Anh và tiếng Việt cho các bài kinh theo số.
+- [Tương Ưng Bộ Pali – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtuongung/c-pali-tmc-vi/): Đối chiếu văn bản gốc Pali và tiếng Việt cho Kinh Tương Ưng Bộ.
+- [Tương Ưng Bộ Anh (Sujato) – Việt (Thích Minh Châu)](https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/): So sánh bản tiếng Anh và tiếng Việt cho các bài kinh theo chủ đề.
 
 ## Key Facts
 
-- Tính năng chính: So sánh song ngữ trực quan (đặt cạnh nhau theo từng đoạn), tìm kiếm nhanh toàn bộ kinh điển.
-- Nền tảng: Thư viện mã nguồn mở phát triển bằng VitePress.
-- Dịch giả tiếng Việt chính: Tỷ kheo Thích Minh Châu.
+- Nội dung: 5 bộ Kinh Nikaya (Pali Canon) — Trường Bộ (34 kinh), Trung Bộ (152 kinh), Tăng Chi Bộ (8.000+ kinh), Tương Ưng Bộ (2.900+ kinh), Tiểu Bộ.
+- Ngôn ngữ: Tiếng Việt, tiếng Anh, và văn bản gốc Pali.
+- Tính năng nổi bật: Đọc đối chiếu song ngữ trực quan (đặt cạnh nhau theo từng đoạn), tìm kiếm toàn văn.
+- Dịch giả tiếng Việt chính: Tỷ kheo Thích Minh Châu, GS Trần Phương Lan.
 - Dịch giả tiếng Anh chính: Bhikkhu Sujato, Bhikkhu Ñāṇamoli, Bhikkhu Bodhi.
-- Giấy phép nội dung: Tôn trọng quyền tác giả theo thỏa thuận tại trang License của dự án.
+- Nền tảng: Mã nguồn mở, xây dựng bằng VitePress.
+- Giấy phép: Miễn phí, phi thương mại; xem chi tiết tại trang License.
 
 ## Contact
 
 - Website: https://kinhnikaya.org
 - Tìm kiếm: https://kinhnikaya.org/search
+- Hỏi & Đáp: https://kinhnikaya.org/hoi-dap
 - Giấy phép: https://kinhnikaya.org/license
 - Mã nguồn: https://github.com/truonghoangnguyen/nikaya2

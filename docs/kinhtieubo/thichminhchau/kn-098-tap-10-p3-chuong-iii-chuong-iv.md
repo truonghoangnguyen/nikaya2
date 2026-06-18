@@ -1,3 +1,7 @@
+---
+title: Kinh tiểu bộ tập 10 phần 3 – CHUYỆN TIỀN THÂN ĐỨC PHẬT
+---
+
 # PHẦN 3 – CHƯƠNG III, CHƯƠNG IV
 
 **Kinh Tiểu Bộ tập 10 – Chuyện Tiền Thân Đức Phật [↗](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat)**
@@ -15,4 +19,3 @@
 - [[08] Chương IV – Phẩm Bốn Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-106-tap-10-p3-chuong-4-pham-bon-bai-ke-tt.md)
 - [[09] Chương IV – Phẩm Bốn Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-107-tap-10-p3-chuong-4-pham-bon-bai-ke-tt.md)
 - [[10] Chương IV – Phẩm Bốn Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-108-tap-10-p3-chuong-4-pham-bon-bai-ke-tt.md)
-  
