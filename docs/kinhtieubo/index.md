@@ -68,8 +68,8 @@ head:
 >
   <template #sections>
     <div class="section-item">
-      <div class="section-title"><a href="/kinhtieubo/thichminhchau/">Tỷ kheo Thích Minh Châu</a></div>
-      <div class="section-subtitle">Tỷ kheo Thích Minh Châu.</div>
+      <div class="section-title"><a href="/kinhtieubo/thichminhchau/">Tỷ kheo Thích Minh Châu & GS Trần Phương Lan</a></div>
+      <div class="section-subtitle">Bản dịch của Tỷ kheo Thích Minh Châu & GS Trần Phương Lan.</div>
     </div>
   </template>
 
