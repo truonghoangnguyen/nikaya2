@@ -1,7 +1,5 @@
 # [04] Chương XXII – Đại Phẩm (tt) - Phần 2
 
-#### [C22P2](#p1)
-
 **540. CHUYỆN HIẾU TỬ SÀMA  (Tiền thân Sàma)**
 
 ***Ai đó đang mai phục bắn mình…,***

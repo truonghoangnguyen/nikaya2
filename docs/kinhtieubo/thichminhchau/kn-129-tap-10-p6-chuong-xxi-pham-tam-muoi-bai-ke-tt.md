@@ -1,7 +1,5 @@
 # [02] Chương XXI – Phẩm Tám Mươi Bài Kệ (tt) Phần 2
 
-#### [C21P2](#c21a)
-
 **536. Chuyện Chúa Chim Kunàla (Tiền thân Kunàla)**
 
 *Câu chuyện này do bậc Đạo Sư kể trong lúc trú gần hồ Kùnàla, liên hệ đến năm trăm vị Tỷ-kheo bị tâm bất mãn chi phối. Câu chuyện diễn tiến theo trình tự sau đây.*

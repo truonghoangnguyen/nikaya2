@@ -26,8 +26,9 @@ BẢNG THUẬT NGỮ ƯU TIÊN (mặc định dùng nếu không có chỉ đạ
 - Virtue / Arete (ἀρετή) : Sự hoàn thiện
 - The Just Man / Righteous / Dikaios (δίκαιος) : người sống đúng (khi chỉ người) / đúng (khi chỉ tính chất)
 - Reason / Logistikon: Lý trí
-- Spirit / Thumos: Cảm xúc
-- Appetite/ Epithumetikon: Ham muốn
+- spirit/thymos: khí phách
+- spirited: có khí phách*
+- appetite/ Epithumetikon: bản năng
 - relativist doctrines: các học thuyết tương đối
 - charmides: tiết độ
 - elengchein: hỏi vặn elenchus
@@ -42,6 +43,8 @@ BẢNG THUẬT NGỮ ƯU TIÊN (mặc định dùng nếu không có chỉ đạ
 - Justice / Dikaiosynē (δικαιοσύνη) : "Điều đúng"/ "tính đúng đắn" hoặc "Công lý"
 - Forms/ (eidos, idea): Chuẩn mực
 - the form of the good: chuẩn mực của khai sáng
+- verbal lie: nói dối ngôn từ
+- real lie: nói dối thực sự
 
 5. Ví dụ
 input:
@@ -53,9 +56,10 @@ every way to be just rather than unjust, or do you want to really persuade us
 ```
 output mong muốn:
 ```
-Socrates, anh chỉ muốn tỏ vẻ thuyết phục chúng tôi, rằng trong mọi phương diện thì trở thành *người sống đúng* (just man) tốt hơn là kẻ *sống sai* (unjust person), hay anh muốn thực sự thuyết phục chúng tôi (b)?
+Socrates, anh chỉ muốn tỏ vẻ thuyết phục chúng tôi rằng trong mọi phương diện thì trở thành *người sống đúng* (just man) tốt hơn là kẻ *sống sai* (unjust person) hay anh muốn thực sự thuyết phục chúng tôi (b)?
 ```
 Giải thích cách dịch:
+- các đoạn ngắt (dấu phẩy, dấu chấm) linh động, không cần theo nguyên văn tiếng anh.
 - chữ just man -> 'sống đúng' và đặt trong *
 - Nội dung câu đặt nặng sự hiểu của người đọc hơn là nguyên nghĩa.
 - just man -> *sống đúng*(just man) Nếu dịch just man lần đầu tiên, lần kế dịch là *sống đúng*

@@ -1,7 +1,5 @@
 # [09] Chương XXII – Đại Phẩm (tt) - Phần 7
 
-#### [C22P7](#p6)
-
 **545. CHUYỆN BẬC ĐẠI TRÍ VÔ SONG (Tiền thân Vidhurapandita)**
 
 ***Yếu gầy, ái hậu lại xanh xao…,***

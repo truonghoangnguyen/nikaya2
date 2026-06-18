@@ -1,7 +1,5 @@
 # [03] Chương XXII – Đại Phẩm - Phần 1
 
-#### [C22P1](#c22)
-
 **Chương XXII**
 
 **Đại Phẩm**

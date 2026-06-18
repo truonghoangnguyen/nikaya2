@@ -1,7 +1,5 @@
 # [01] Chương XXI – Phẩm Tám Mươi Bài Kệ Phần 1
 
-#### [C21P1](#c21)
-
 **Chương XXI**
 
 **Phẩm Tám Mươi Bài Kệ**

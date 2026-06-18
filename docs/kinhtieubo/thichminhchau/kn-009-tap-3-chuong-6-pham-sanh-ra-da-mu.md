@@ -1,6 +1,6 @@
 # Chương 6: Phẩm Sanh Ra Ðã Mù
 
-**(I) (Ud 62)**
+### **(I) (Ud 62)**
 
 Như vầy tôi nghe:
 
@@ -55,7 +55,7 @@ Thật định tỉnh an tịnh,\
 Phá đổ ngã sanh hữu,\
 Như cởi thoát áo giáp.
 
-**(II) (Ud 64)**
+### **(II) (Ud 64)**
 
 Như vầy tôi nghe:
 
@@ -84,7 +84,7 @@ Nương tựa vào ngưòi khác,\
 Chớ sống nghề buôn bán,\
 Ðem pháp để kiếm lời.
 
-**(III) (Ud 65)**
+### **(III) (Ud 65)**
 
 Như vầy tôi nghe:
 
@@ -95,7 +95,7 @@ Trước không có nay có,\
 Ðã không và sẽ không,\
 Và nay hiện không có.
 
-**(IV) (Ud 66)**
+### **(IV) (Ud 66)**
 
 Như vầy tôi nghe:
 
@@ -120,7 +120,7 @@ Trong các luận thuyết này,\
 Họ tranh luận tranh chấp,\
 Họ nhìn chỉ một phía.
 
-**(V) (Ud 69)**
+### **(V) (Ud 69)**
 
 Như vầy tôi nghe:
 
@@ -143,7 +143,7 @@ Khi đang còn giữa dòng,\
 Họ không đạt đến được,\
 Ðất cứng trên bờ kia.
 
-**(VI) (Ud 70)**
+### **(VI) (Ud 70)**
 
 (Giống như kinh VI, 5, tức là kinh trước, với đoạn kết luận khác nhau như sau:)
 
@@ -170,7 +170,7 @@ Họ cạnh tranh, luận tranh,\
 Họ không thể vượt qua,\
 Luân chuyển trong sanh tử.
 
-**(VII) (Ud 71)**
+### **(VII) (Ud 71)**
 
 Như vầy tôi nghe:
 
@@ -184,7 +184,7 @@ Vượt qua ái nhiễm ấy,\
 Vượt khỏi bốn ách nạn,\
 Không đi đến thọ sanh.
 
-**(VIII) (Ud 71)**
+### **(VIII) (Ud 71)**
 
 Như vầy tôi nghe:
 
@@ -220,7 +220,7 @@ Không có tự quá mạn,\
 Họ không có luân chuyển,\
 Ðể được tuyên bố lên.
 
-**(IX) (Ud 72)**
+### **(IX) (Ud 72)**
 
 Như vầy tôi nghe:
 
@@ -237,7 +237,7 @@ Rơi vào trong ánh sáng,\
 Có người sống dựa vào\
 Ðiều được thấy được nghe.
 
-**(X) (Ud 73)**
+### **(X) (Ud 73)**
 
 Như vầy tôi nghe:
 

@@ -1,26 +1,6 @@
 # TẬP 2 – KINH PHÁP CÚ
 **Dhammapada**
 
-### **MỤC LỤC**
-
-| | |
-| --- | --- |
-| 1. Phẩm Song Yếu | 14. Phẩm Phật Ðà |
-| 2. Phẩm Không Phóng Dật | 15. Phẩm An Lạc |
-| 3. Phẩm Tâm | 16. Phẩm Hỷ Ái |
-| 4. Phẩm Hoa | 17. Phẩm Phẫn Nộ |
-| 5. Phẩm Kẻ Ngu | 18. Phẩm Cấu Uế |
-| 6. Phẩm Hiền Trí | 19. Phẩm Pháp Trụ |
-| 7. Phẩm A-La-Hán | 20. Phẩm Ðạo |
-| 8. Phẩm Ngàn | 21. Phẩm Tạp Lục |
-| 9. Phẩm Ác | 22. Phẩm Ðịa Ngục |
-| 10. Phẩm Hình Phạt | 23. Phẩm Voi |
-| 11. Phẩm Già | 24. Phẩm Tham Ái |
-| 12. Phẩm Tự Ngã | 25. Phẩm Tỷ Kheo |
-| 13. Phẩm Thế Gian | 26. Phẩm Bà-La-Môn |
-
----
-
 ### **Giới thiệu:**
 
 Kinh Pháp Cú (Dhammapada) là một trong 15 quyển kinh thuộc Tiểu Bộ Kinh (Khuddaka Nikaya) trong Kinh tạng Pali (Suttanta Pitaka). Ðây là một quyển kinh Phật giáo phổ thông nhất và đã được dịch ra rất nhiều thứ tiếng trên thế giới. Pháp (Dhamma) có nghĩa là đạo lý, chân lý, lời dạy của Ðức Phật; Cú (Pada) là lời nói, câu kệ. Ngoài ra, trong ngữ văn Pali, “Pada” còn có nghĩa là con đường. Do đó, Dhammapada thường được dịch là Con đường Chân lý (Path of Truth), Con đường Phật Pháp (Path of the Buddha’s Teaching).

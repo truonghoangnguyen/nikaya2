@@ -1,7 +1,5 @@
 # [06] Chương XVIII – Phẩm Năm Mươi Bài Kệ
 
-#### [C18](#c18)
-
 **Chương XVIII**
 
 **Phẩm Năm Mươi Bài Kệ**

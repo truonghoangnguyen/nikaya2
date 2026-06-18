@@ -175,8 +175,9 @@ ol {
 /* Fix for ordered lists - remove space between number and text */
 .vp-doc ol {
   list-style-type: decimal;
-  /* padding-left: 0em; */
+  padding-left: 2.2em;
   margin: 0;
+  font-style: italic;
 }
 
 

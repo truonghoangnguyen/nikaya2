@@ -1,6 +1,6 @@
 # Chương Một – Một Pháp
 
-**Phẩm I**
+### **Phẩm I**
 
 **(I) (Ek I, 1) (It. 1)**
 
@@ -180,7 +180,7 @@ Trở lại tại đời này.*
 
 ---
 
-**Phẩm II**
+### **Phẩm II**
 
 **(XI) (Ek II, 1) (It. 6)**
 
@@ -387,7 +387,7 @@ Chúng sanh đi ác thú.*
 
 ---
 
-**Phẩm III**
+### **Phẩm III**
 
 **(XXI) (Ek III, 1) (It. 13)**
 

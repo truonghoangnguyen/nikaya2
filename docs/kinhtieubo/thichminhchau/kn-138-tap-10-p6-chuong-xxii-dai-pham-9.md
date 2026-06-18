@@ -1,7 +1,5 @@
 # [11] Chương XXII – Đại Phẩm (tt) - Phần 9
 
-#### [C22P9](#p8)
-
 **547. CHUYỆN ÐẠI VƯƠNG VESSANTARA (Tiền thân Vessantara)**
 
 ***Phu-sa-tì, mỹ hậu huy hoàng…,***

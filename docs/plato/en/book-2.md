@@ -1002,7 +1002,6 @@ ADEIMANTUS: Which sorts?
 
 SOCRATES: In the more signiﬁcant stories, we will see the less signiﬁcant
 ones as well. For surely the more signiﬁcant ones and the less signiﬁcant
-
 ones both follow the same pattern and have the same effects. Don’t you
 (d) think so?
 
@@ -1283,13 +1282,12 @@ we make them useful?
 ADEIMANTUS: We most certainly do.
 
 SOCRATES: In which of these ways, then, could a lie be useful to a god?
-
 Would he lie by making likenesses of the truth about ancient events because
 of his ignorance of them?
 
 ADEIMANTUS: It would be ridiculous to think that.
 
-SOCRATES: Then there is nothing of the lying poet in a god?
+    SOCRATES: Then there is nothing of the lying poet in a god?
 
 ADEIMANTUS: Not in my view.
 

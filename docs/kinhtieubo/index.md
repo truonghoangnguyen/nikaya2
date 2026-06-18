@@ -35,8 +35,8 @@ head:
             },
            "workTranslation": [{
               "@type": "Book",
-              "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau-tranphuonglan/#book",
-              "name": "Kinh Tiểu Bộ (Bản dịch Thích Minh Châu & Trần Phương Lan)",
+              "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#book",
+              "name": "Kinh Tiểu Bộ Tỷ kheo Thích Minh Châu & GS Trần Phương Lan dịch",
               "translator": [{
                 "@type": "Person",
                 "name": "Thích Minh Châu",
@@ -46,8 +46,7 @@ head:
                 "@type": "Person",
                 "name": "Trần Phương Lan",
                 "sameAs": "https://quangduc.com/author/about/931/gs-tran-phuong-lan"
-              }
-              ]
+              }]
               }
             ]
           },
@@ -76,12 +75,7 @@ head:
 
   <div class="closing-quote">
     <blockquote>
-      “Ý dẫn đầu các pháp,<br>
-Ý làm chủ, ý tạo;<br>
-Nếu với ý ô nhiễm,<br>
-Nói lên hay hành động,<br>
-Khổ não bước theo sau,<br>
-Như xe, chân vật kéo “.
+Này các tỷ kheo, nếu một tỷ kheo nắm lấy viền áo Tăng già lê đi theo sau lưng Ta, chân bước theo chân, nhưng vị ấy có tham ái trong các dục, với lòng sắc xảo, với tâm sân hận, ý tư duy nhiễm ác, thất niệm, không tỉnh giác, không định tỉnh, tâm tán loạn, với các căn hoang dại, vị ấy xa hẳn Ta và Ta xa vị ấy.
     </blockquote>
   </div>
 </BookLayout>

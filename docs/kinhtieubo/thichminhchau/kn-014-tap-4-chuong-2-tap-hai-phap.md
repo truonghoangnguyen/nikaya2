@@ -1,6 +1,6 @@
 # Chương Hai – Hai Pháp
 
-**Phẩm I**
+### **Phẩm I**
 
 **(XXVIII) (Duk. I, 1) (It. 22)**
 
@@ -241,7 +241,7 @@ Có thể đạt chứng được,\
 
 ---
 
-**Phẩm II**
+### **Phẩm II**
 
 **(XXXVIII) (Duk. II, 1) (It. 31)**
 

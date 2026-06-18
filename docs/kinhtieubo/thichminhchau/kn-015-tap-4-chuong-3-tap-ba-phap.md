@@ -1,6 +1,6 @@
 # Chương Ba – Ba Pháp
 
-**Phẩm I**
+### **Phẩm I**
 
 **(L) (Tik. I, 1) (It. 45)**
 
@@ -213,7 +213,7 @@ Như mặt trời chói sáng*.
 
 ---
 
-**Phẩm II**
+### **Phẩm II**
 
 **(LX) (Tik. II, 1) (It. 51)**
 
@@ -455,7 +455,7 @@ Làm ma vương si ám.*
 
 ---
 
-**Phẩm III**
+### **Phẩm III**
 
 **(LXX) (Tik. III, 1) (It. 58)**
 
@@ -774,7 +774,7 @@ Chứng tối thượng Bồ-đề*.
 
 ---
 
-**Phẩm IV**
+### **Phẩm IV**
 
 **(LXXX) (Tik. IV, 1) (It. 72)**
 
@@ -1123,7 +1123,7 @@ Sự đoạn diệt khổ đau.*
 
 ---
 
-**Phẩm V**
+### **Phẩm V**
 
 **(XC) (Tik. V, 1) (It. 87)**
 

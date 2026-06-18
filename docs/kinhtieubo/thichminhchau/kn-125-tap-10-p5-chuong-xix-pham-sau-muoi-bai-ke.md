@@ -1,7 +1,5 @@
 # [07] Chương XIX – Phẩm Sáu Mươi Bài Kệ
 
-#### [C19](#c19)
-
 **Chương XIX**
 
 **Phẩm Sáu Mươi Bài Kệ**

@@ -1,7 +1,5 @@
 # [07] Chương XXII – Đại Phẩm (tt) - Phần 5
 
-#### [C22P5](#p4)
-
 **543. CHUYỆN BẬC ĐẠI TRÍ BHÙRIDATTA (Tiền thân Bhùridatta)**
 
 ***Bất kỳ mọi bảo ngọc kim ngân…,***

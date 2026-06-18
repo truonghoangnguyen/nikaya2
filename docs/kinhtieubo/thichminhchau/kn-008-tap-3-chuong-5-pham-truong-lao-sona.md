@@ -1,6 +1,6 @@
 # Chương 5: Phẩm Trưởng Lão Sona
 
-**(I) (Ud 47)**
+### **(I) (Ud 47)**
 
 Như vầy tôi nghe:
 
@@ -29,7 +29,7 @@ Quá thân ái như vậy,\
 Vậy ai yêu tự ngã,\
 Chớ hại tự ngã người.
 
-**(II) (Ud 48)**
+### **(II) (Ud 48)**
 
 Như vầy tôi nghe.
 
@@ -49,7 +49,7 @@ Hiểu tất cả là vậy,\
 Bậc thiện sanh nhiệt tâm,\
 Sống đời sống Phạm hạnh.
 
-**(III) (Ud 49)**
+### **(III) (Ud 49)**
 
 Như vầy tôi nghe:
 
@@ -86,7 +86,7 @@ Cố gắng tránh lồi lõm,\
 Cũng vậy kẻ trí tránh,\
 Ðiều ác giữa đời này.
 
-**(IV) (Ud 50)**
+### **(IV) (Ud 50)**
 
 Như vầy tôi nghe:
 
@@ -107,7 +107,7 @@ Các nghiệp ác, bất thiện,\
 Con không giải thoát khổ,\
 Dầu nhảy vọt và chạy.
 
-**(V) (Ud 51)**
+### **(V) (Ud 51)**
 
 Như vầy tôi nghe:
 
@@ -185,7 +185,7 @@ Do vậy, hãy mở rộng\
 Cái gì bị che kín,\
 Như vậy sẽ không mưa.
 
-**(VI) (Ud 57)**
+### **(VI) (Ud 57)**
 
 Như vầy tôi nghe:
 
@@ -246,7 +246,7 @@ Biết pháp không sanh y,\
 Bậc Thánh không ưa ác,\
 Bậc tịnh không ưa ác!
 
-**(VII) (Ud 58)**
+### **(VII) (Ud 58)**
 
 Như vầy tôi nghe:
 
@@ -262,7 +262,7 @@ Người hành thiền từ bỏ,\
 Hoàn toàn tất cả chúng,\
 Nhiệt tâm hành Phạm hạnh.
 
-**(VIII) (Ud 59)**
+### **(VIII) (Ud 59)**
 
 Như vầy tôi nghe:
 
@@ -285,7 +285,7 @@ Dễ làm là việc ác,\
 Khó làm là việc ác,\
 Ðối với các bậc Thánh.
 
-**(IX) (Ud 60)**
+### **(IX) (Ud 60)**
 
 Như vậy tôi nghe:
 
@@ -301,7 +301,7 @@ Họ muốn miệng mở rộng,\
 Cái gì dắt dẫn họ,\
 Họ đâu có biết rõ.
 
-**(X) (Ud 61)**
+### **(X) (Ud 61)**
 
 Như vầy tôi nghe:
 

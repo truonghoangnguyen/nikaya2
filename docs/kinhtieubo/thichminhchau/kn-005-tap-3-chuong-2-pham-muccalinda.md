@@ -1,6 +1,6 @@
 # Chương 2: Phẩm Muccalinda
 
-**(I) (Ud 10)**
+### **(I) (Ud 10)**
 
 Như vầy tôi nghe:
 
@@ -23,7 +23,7 @@ Vượt các dục ở đời,\
 Ai nhiếp phục ngã mạn,\
 Ðây an lạc tối thượng.
 
-**(II) (Ud 10)**
+### **(II) (Ud 10)**
 
 Như vầy tôi nghe:
 
@@ -46,7 +46,7 @@ Kể cả thiên lạc này,\
 Không bằng phần mười sáu,\
 Lạc do ái đoạn diệt.
 
-**(III) (Ud 11)**
+### **(III) (Ud 11)**
 
 Như vầy tôi nghe:
 
@@ -62,7 +62,7 @@ Ai không hại với trượng,\
 Kẻ tìm lạc cho mình,\
 Ðời sau tìm được lạc.
 
-**(IV) (Ud 13)**
+### **(IV) (Ud 13)**
 
 Như vầy tôi nghe:
 
@@ -81,7 +81,7 @@ Là do duyên sanh y,\
 Với vị không sanh y,\
 Do đâu, xúc cảm thọ.
 
-**(V) (Ud 13)**
+### **(V) (Ud 13)**
 
 Như vầy tôi nghe:
 
@@ -102,7 +102,7 @@ Những ai có sở hữu,\
 Khiến cho con người này,\
 Bị trói buộc người khác.
 
-**(VI) (Ud 13)**
+### **(VI) (Ud 13)**
 
 Như vậy tôi nghe:
 
@@ -139,7 +139,7 @@ Những ai có sở hữu,\
 Khiến cho con người này,\
 Bị trói buộc người khác.
 
-**(VIII) (Ud 14)**
+### **(VIII) (Ud 14)**
 
 Như vầy tôi nghe:
 
@@ -165,7 +165,7 @@ Vị ấy đào gốc khổ,\
 Mồi nhử của ác ma,\
 Thật khó vượt qua được.
 
-**(VIII) (Ud 15)**
+### **(VIII) (Ud 15)**
 
 Như vầy tôi nghe:
 
@@ -234,7 +234,7 @@ Không ái, giả dạng ái,\
 Khổ đau, giả dạng lạc,\
 Nhiếp phục kẻ phóng dật.
 
-**(IX) (Ud 18)**
+### **(IX) (Ud 18)**
 
 Như vầy tôi nghe:
 
@@ -253,7 +253,7 @@ Mọi chủ quyền là lạc,\
 Chung dùng làm não hại,\
 Trói buộc khó vượt qua.
 
-**(X) (Ud 18)**
+### **(X) (Ud 18)**
 
 Như vầy tôi nghe:
 

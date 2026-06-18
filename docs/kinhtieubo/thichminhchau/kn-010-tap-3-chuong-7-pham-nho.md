@@ -1,6 +1,6 @@
 # Chương 7: Phẩm Nhỏ
 
-**(I) (Ud 74)**
+### **(I) (Ud 74)**
 
 Như vầy tôi nghe:
 
@@ -17,7 +17,7 @@ Trước chưa từng vượt qua,\
 Không còn có rơi rớt\
 Vào sanh hữu thọ sanh.
 
-**(II) (Ud 74)**
+### **(II) (Ud 74)**
 
 Như vầy tôi nghe:
 
@@ -30,7 +30,7 @@ Nước sông không chảy nữa,\
 Cắt đứt, lưu chuyển đứng,\
 Là giải thoát đau khổ.
 
-**(III) (Ud 75)**
+### **(III) (Ud 75)**
 
 Như vầy tôi nghe:
 
@@ -49,7 +49,7 @@ Tham đắm trong ái dục,\
 Họ không vượt qua được,\
 Thác nước rộng và lớn.
 
-**(IV) (Ud 75)**
+### **(IV) (Ud 75)**
 
 Như vầy tôi nghe:
 
@@ -66,7 +66,7 @@ Như cá mắc miệng lưới,\
 Họ đi đến già chết,\
 Như con bê bú sữa.
 
-**(V) (Ud 76)**
+### **(V) (Ud 76)**
 
 Như vầy tôi nghe:
 
@@ -87,7 +87,7 @@ Không phiền muộn khó khăn,\
 Dòng nước đã cắt đứt,\
 Vị ấy không trói buộc.
 
-**(VI) (Ud 77)**
+### **(VI) (Ud 77)**
 
 Như vầy tôi nghe:
 
@@ -102,7 +102,7 @@ Ai xứng đáng được khen,\
 Chư Thiên khen người ấy,\
 Phạm Thiên cũng ngợi khen.
 
-**(VII) (Ud 77)**
+### **(VII) (Ud 77)**
 
 Như vầy tôi nghe:
 
@@ -117,7 +117,7 @@ Không thể nào rõ biết,\
 Sở hành vị ẩn sĩ,\
 Ðã vượt khỏi tham ái.
 
-**(VIII) (Ud 77)**
+### **(VIII) (Ud 77)**
 
 Như vầy tôi nghe:
 
@@ -134,7 +134,7 @@ Với tôi, nay sẽ không”.\
 Tiếp tục trú như vậy,\
 Ðúng thời vượt dục ái.
 
-**(IX) (Ud 78)**
+### **(IX) (Ud 78)**
 
 Như vầy tôi nghe:
 
@@ -173,7 +173,7 @@ Khi nước có cùng khắp,\
 Chắt đứt ái từ gốc,\
 Cần hành tầm cầu gì?
 
-**(X) (Ud 79)**
+### **(X) (Ud 79)**
 
 Như vầy tôi nghe:
 

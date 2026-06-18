@@ -1,6 +1,7 @@
 # *Book 3*
 
 SOCRATES’ NARRATION CONTINUES:
+
 (386a) SOCRATES: Where the gods are concerned, then, it seems that those are
 the sorts of stories the future guardians should and should not hear from
 childhood on, if they are to honor the gods and their parents, and not treat
@@ -97,8 +98,7 @@ when some such misfortune overtakes him.
 ADEIMANTUS: Of course.
 
 SOCRATES: We would be right, then, to remove the lamentations of
-famous men.We would leave them to women (provided they are not excel-
-(388a) lent women) and cowardly men, so that those we say we are training to
+famous men.We would leave them to women (provided they are not excellent women) (388a) and cowardly men, so that those we say we are training to
 guard our land will be ashamed to do such things.
 
 ADEIMANTUS: That’s right.
@@ -628,8 +628,7 @@ at the beginning, when we undertook to educate our soldiers.
 
 ADEIMANTUS: Yes, that is certainly what we would do, if it were up to us.
 
-SOCRATES: And now, my friend, it looks to me as though we have com-
-pleted our discussion of the branch of musical training that deals with
+SOCRATES: And now, my friend, it looks to me as though we have completed our discussion of the branch of musical training that deals with
 speech and stories. After all, we have discussed both what is to be said and
 how it is to be said.
 
@@ -973,8 +972,7 @@ become seriously and violently ill?
 
 GLAUCON: I have noticed that.
 
-SOCRATES: Then we need a more reﬁned sort of training for our warrior-
-athletes, since they must be like sleepless hounds, as it were, who have the
+SOCRATES: Then we need a more reﬁned sort of training for our warriorathletes, since they must be like sleepless hounds, as it were, who have the
 keenest possible sight and hearing, and whose health is not so precarious
 that it cannot sustain the frequent changes of water and diet generally, and
 the heat waves and winter storms typical of war.
@@ -1033,8 +1031,7 @@ temperance in the soul, and in physical training health in the body?
 GLAUCON: That’s absolutely true.
 
 (405a) SOCRATES: And as intemperance and disease breed in a city, aren’t many
-law courts and surgeries opened? And don’t the legal and medical profes-
-sions give themselves airs when even free men in large numbers take them
+law courts and surgeries opened? And don’t the legal and medical professions give themselves airs when even free men in large numbers take them
 very seriously?
 
 GLAUCON: How could it be otherwise?
@@ -1076,8 +1073,7 @@ they did not criticize Patroclus, who prescribed the treatment.[58]
 
 GLAUCON: Yet, surely it was a strange drink for someone in that condition.
 
-SOCRATES: Not if you recall that the sort of modern medicine that cod-
-dles the disease was not used by the Asclepiads before the time of Herodicus.
+SOCRATES: Not if you recall that the sort of modern medicine that coddles the disease was not used by the Asclepiads before the time of Herodicus.
 Herodicus was a physical trainer who became ill and, through
 combination of physical training and medicine, tormented ﬁrst and foremost himself, and then lots of other people as well.
 
@@ -1137,14 +1133,11 @@ other crafts, is no obstacle whatever to taking Phocylides’ advice.
 
 GLAUCON: But, by Zeus, it is: excessive care of the body that goes beyond
 simple physical training is pretty much the biggest obstacle of all. For it’s
-nuisance in household management, in military service, and even in seden-
-tary political ofﬁce.
+nuisance in household management, in military service, and even in sedentary political ofﬁce.
 
 SOCRATES: And most important of all, surely, is that it makes any sort of
- learning, thought, or private meditation difﬁcult, by forever causing imagi-
-nary headaches or dizziness and accusing philosophy of causing them. Hence,
-wherever this sort of virtue is practiced and submitted to philosophical scru-
-tiny, excessive care of the body hinders it. For it is constantly making you
+ learning, thought, or private meditation difﬁcult, by forever causing imaginary headaches or dizziness and accusing philosophy of causing them. Hence,
+wherever this sort of virtue is practiced and submitted to philosophical scrutiny, excessive care of the body hinders it. For it is constantly making you
 imagine that you are ill and never lets you stop agonizing about your body.
 
 GLAUCON: Yes, probably so.
@@ -1165,8 +1158,7 @@ who could not live a normal life, since such a person would proﬁt neither
 GLAUCON: Asclepius was a true man of politics, in your view.
 
 SOCRATES: Clearly so. And it was because he was like that, don’t you see,
-(408a) that his sons, too, turned out to be good men in the war at Troy, and prac-
-ticed the craft of medicine as I say they did. Don’t you remember that they
+(408a) that his sons, too, turned out to be good men in the war at Troy, and practiced the craft of medicine as I say they did. Don’t you remember that they
 “sucked out the blood and applied gentle drugs” to the wound Pandarus
 inﬂicted on Menelaus? But they no more prescribed what he should eat or
 drink after that than they did for Eurypylus?[60] That was because they
@@ -1174,8 +1166,7 @@ assumed that their drugs were sufﬁcient to cure men who were healthy and
 living an orderly life before being wounded, even if they happened to drink
 wine mixed with barley and cheese right afterward. But they thought that
 the lives of naturally sick and intemperate people were proﬁtable neither to
-themselves nor to anyone else, that the craft of medicine shouldn’t be prac-
-ticed on them, and that they should not be given treatment, not even if
+themselves nor to anyone else, that the craft of medicine shouldn’t be practiced on them, and that they should not be given treatment, not even if
 they were richer than Midas.
 
 GLAUCON: The sons of Asclepius were indeed very sophisticated, in your
@@ -1268,8 +1259,7 @@ to death.
 GLAUCON: Yes, we have seen that that is best both for those who receive
 such treatment and for the city.
 
-SOCRATES: And so it is clear that your young people will be wary of com-
-ing to need a judge, since they employ that simple sort of musical training,
+SOCRATES: And so it is clear that your young people will be wary of coming to need a judge, since they employ that simple sort of musical training,
 which we said engenders temperance.
 
 GLAUCON: Of course.
@@ -1301,8 +1291,7 @@ the soul.
 
 GLAUCON: How so?
 
-SOCRATES: Have you never noticed the mind-set of those who have a life-
-long association with physical training but stay away from musical training?
+SOCRATES: Have you never noticed the mind-set of those who have a lifelong association with physical training but stay away from musical training?
 Or, again, that of those who do the opposite?
 
 GLAUCON: What do you mean?
@@ -1431,8 +1420,7 @@ the guardians, mustn’t they be the ones who are best at guarding the city?
 
 GLAUCON: Yes.
 
-SOCRATES: Then mustn’t they be knowledgeable and capable in this mat-
-ter, and, in addition, mustn’t they care for the city?
+SOCRATES: Then mustn’t they be knowledgeable and capable in this matter, and, in addition, mustn’t they care for the city?
  GLAUCON: Yes, they must.
 
 SOCRATES: But a person would care most for what he loved.
@@ -1530,8 +1518,7 @@ GLAUCON: I also think much the same.
 SOCRATES: Then wouldn’t it really be most correct to call these people
 complete guardians—the ones who guard against external enemies and
 internal friends, so that the former will lack the power, and the latter the
-desire, to do any evil; but to call the young people to whom we were refer-
-ring as guardians just now, auxiliaries and supporters of the guardians’ convictions?
+desire, to do any evil; but to call the young people to whom we were referring as guardians just now, auxiliaries and supporters of the guardians’ convictions?
 
 GLAUCON: Yes, I think it would.
 
@@ -1588,8 +1575,7 @@ an iron or a bronze guardian.” So, have you a device that will make them
 believe this story?
 
 GLAUCON: No, none that would make this group believe it themselves.
- But I do have one for their sons, for later generations, and for all other peo-
-ple who come after them.
+ But I do have one for their sons, for later generations, and for all other people who come after them.
 
 SOCRATES: Well, even that would have a good effect, by making them
 care more for the city and for each other. For I think I understand what
@@ -1627,8 +1613,7 @@ becoming savage masters rather than gentle allies?
 
 GLAUCON: Yes, we must.
 
-SOCRATES: And wouldn’t they have been provided with the greatest safe-
-guard possible if they have been really well educated?
+SOCRATES: And wouldn’t they have been provided with the greatest safeguard possible if they have been really well educated?
 
 GLAUCON: But surely they have been.
 
@@ -1648,8 +1633,7 @@ GLAUCON: And he would be right.
 SOCRATES: Consider, then, whether or not they should live and be
 housed in some such way as this, if they are going to be the sort of men we
 described. First, none of them should possess any private property that is
-not wholly necessary. Second, none should have living quarters or store-
-rooms that are not open for all to enter at will. Such provisions as are
+not wholly necessary. Second, none should have living quarters or storerooms that are not open for all to enter at will. Such provisions as are
 required by temperate and courageous men, who are warrior-athletes, they
  should receive from the other citizens as a salary for their guardianship, the
 amount being ﬁxed so that there is neither a shortfall nor a surplus at the
@@ -1663,8 +1647,7 @@ the city’s population are forbidden by divine law to handle or even touch
 gold and silver.They must not be under the same roof as these metals, wear
 them as jewelry, or drink from gold or silver goblets. And by behaving in
 that way, they would save both themselves and the city. But if they acquire
-private land, houses, and money themselves, they will be household managers and farmers instead of guardians—hostile masters of the other citi-
-zens, instead of their allies. They will spend their whole lives hating and
+private land, houses, and money themselves, they will be household managers and farmers instead of guardians—hostile masters of the other citizens, instead of their allies. They will spend their whole lives hating and
 being hated, plotting and being plotted against, much more afraid of internal than of external enemies—already rushing, in fact, to the brink of their
 own destruction and that of the rest of the city as well. For all these reasons,
 let’s declare that that is how the guardians must be provided with housing

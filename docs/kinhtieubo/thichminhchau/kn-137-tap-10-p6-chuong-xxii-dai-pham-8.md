@@ -1,7 +1,5 @@
 # [10] Chương XXII – Đại Phẩm (tt) - Phần 8
 
-#### [C22P8](#p7)
-
 **546. CHUYỆN ĐƯỜNG HẦM VĨ ĐẠI (Tiền thân Mahà-Ummagga)**
 
 ***Vua Brah-ma-dát xứ Pãn-ca. . . .,***

@@ -1,7 +1,5 @@
 # [08] Chương XX – Phẩm Bảy Mươi Bài Kệ
 
-#### [C20](#c20)
-
 **Chương XX**
 
 **Phẩm Bảy Mươi Bài Kệ**

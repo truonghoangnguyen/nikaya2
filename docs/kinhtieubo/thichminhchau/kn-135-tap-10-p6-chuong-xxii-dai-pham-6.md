@@ -1,7 +1,5 @@
 # [08] Chương XXII – Đại Phẩm (tt) - Phần 6
 
-#### [C22P6](#p5)
-
 **544. CHUYỆN BẬC ĐẠI TRÍ MAHÀNÀRADA-KASSAPA (Tiền thân Mahanàrada-Kassapa)**
 
 ***Một vì vua xứ Vi-đề-ha… ,***

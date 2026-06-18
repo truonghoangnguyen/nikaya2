@@ -1,7 +1,5 @@
 # [06] Chương XXII – Đại Phẩm (tt) - Phần 4
 
-#### [C22P4](#p3)
-
 **542. CHUYỆN TẾ SƯ KHANDAHÀLA (Tiền thân Khandahàla)**
 
 ***Ngày xưa có một vị hôn quân…,***

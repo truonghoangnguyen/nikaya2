@@ -1,7 +1,5 @@
 # [05] Chương XXII – Đại Phẩm (tt) - Phần 3
 
-#### [C22P3](#p2)
-
 **541. CHUYỆN ĐẠI VƯƠNG NIMI  (Tiền thân Nimi)**
 
 ***Kìa tóc bạc trên đầu hiện ra…,***
