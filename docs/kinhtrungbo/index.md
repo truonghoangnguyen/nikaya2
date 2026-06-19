@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kinh Trung Bộ (Majjhima Nikāya)
-description: Majjhima Nikāya (Kinh Trung Bộ) gồm 152 bài kinh của Đức Phật, chứa đựng những giáo lý thực hành cốt lõi về thiền định và giải thoát. Bản dịch Nanamoli-Bodhi và Thích Minh Châu.
+description: Kinh Trung Bộ (tiếng Pali Majjhima Nikāya) là bộ kinh thứ hai trong tuyển tập Năm bộ kinh Nikāya thuộc Tạng kinh của Phật giáo Nguyên thủy (Nam truyền). Bộ kinh gồm 152 bài kinh có độ dài trung bình của Đức Phật. Bản dịch của Tỷ kheo Thích Minh Châu, Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Việt) và  Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Anh)
 head:
   - - script
     - type: application/ld+json

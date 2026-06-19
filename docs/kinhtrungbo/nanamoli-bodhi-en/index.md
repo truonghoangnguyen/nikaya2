@@ -1,5 +1,5 @@
 ---
-title: The Middle Length Discourses of the Buddha - Majjhima Nikaya - Bhikkhu Ñāṇamoli & Bhikkhu Bodhi
+title: The Middle Length Discourses of the Buddha - Majjhima Nikaya - Ñāṇamoli & Bodhi
 head:
   - - script
     - type: application/ld+json
