@@ -35,7 +35,7 @@ head:
               },{
                 "@type": "Person",
                 "name": "Trần Phương Lan",
-                "sameAs": "https://quangduc.com/author/about/931/gs-tran-phuong-lan""
+                "sameAs": "https://quangduc.com/author/about/931/gs-tran-phuong-lan"
               }
               ],
               "translationOfWork": {

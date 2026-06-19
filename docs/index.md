@@ -54,7 +54,7 @@ head:
                 "name": "Kinh Tiểu Bộ (Khuddaka Nikāya)",
                 "url": "https://kinhnikaya.org/kinhtieubo/"
                 }
-            ]
+            ],
             "potentialAction": {
                 "@type": "SearchAction",
                 "target": {

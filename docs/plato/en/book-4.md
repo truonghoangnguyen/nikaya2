@@ -1,11 +1,11 @@
 # *Book 4*
+
 SOCRATES’ NARRATION CONTINUES: Adeimantus interrupted:
 (419a) How will you defend yourself, Socrates, he said, if someone objects that
 you are not making these men very happy and, furthermore, that it is their
 own fault that they are not? I mean, the city really belongs to them, yet
 they derive no good from the city. Others own land, build ﬁne, big houses,
-acquire furnishings to go along with them, make their own private sacri-
-ﬁces to the gods, entertain guests, and also, of course, possess what you
+acquire furnishings to go along with them, make their own private sacriﬁces to the gods, entertain guests, and also, of course, possess what you
 were talking about just now: gold and silver and all the things that those
 who are going to be blessedly happy are thought to require. Instead of that,
 he might say, they seem simply to be paid auxiliaries established in the city
@@ -19,6 +19,7 @@ as people do who are considered happy.You have omitted these and a host
 of other similar facts from your list of charges.
 
 ADEIMANTUS: Well, let them too be added to the charges.
+
 (b) SOCRATES: How will we defend ourselves? Is that what you are asking?
 
 ADEIMANTUS: Yes.
@@ -33,16 +34,12 @@ in the one that is governed worst. And we thought that by observing both
 cities, we would be able to decide the question we have been inquiring into
 (c) for so long. At the moment, then, we take ourselves to be forming a happy
 city—not separating off a few happy people and putting them in it, but
-making the city as a whole happy. (We will look at the opposite city soon.)1
-[1]: This discussion begins at 445c, but is interrupted and does not resume again until
-Book 8.
+making the city as a whole happy. (We will look at the opposite city soon.)[1]
 
-Suppose, then, that we were painting a statue2 and someone came up to
-us and started to criticize us, saying that we had not applied the most beau-
-tiful colors to the most beautiful parts of the statue; because the eyes, which
+Suppose, then, that we were painting a statue[2] and someone came up to
+us and started to criticize us, saying that we had not applied the most beautiful colors to the most beautiful parts of the statue; because the eyes, which
 are the most beautiful part, had been painted black rather than purple.We
-would think it reasonable to offer the following defense: “My amazing fel-
-(d) low, you must not expect us to paint the eyes so beautifully that they no
+would think it reasonable to offer the following defense: “My amazing fellow (d), you must not expect us to paint the eyes so beautifully that they no
 longer look like eyes at all, nor the other parts either. On the contrary, you
 must look to see whether, by dealing with each part appropriately, we are
 making the whole thing beautiful. Similarly, in the present case, you must
@@ -50,7 +47,7 @@ not force us to give our guardians the sort of happiness that would make
 (e) them something other than guardians.You see, we know how to clothe the
 farmers in purple robes, festoon them with gold jewelry, and tell them to
 work the land whenever they please.We know we could have our potters
-recline on couches from right to left in front of the ﬁre,3 drinking and
+recline on couches from right to left in front of the ﬁre,[3] drinking and
 feasting with their wheel beside them for whenever they have a desire to
 make pots. And we can make all the others happy in the same way, so that
 the whole city is happy. But please do not urge us to do this. For if we are
@@ -63,6 +60,7 @@ city. But if the guardians of our laws and city are not really what they seem
 to be, you may be sure that they will destroy the city utterly and, on the
 other hand, that they alone have the opportunity to govern it well and
 make it happy.”
+
 Now, if we are making genuine guardians, the sort least likely to do the
 (a) (b) city evil, and if our critic is making pseudo-farmers—feasters happy at
 festival, so to speak, not in a city—he is not talking about a city, but about
@@ -76,14 +74,7 @@ well, leave it to nature to provide each group with its share of happiness.
 
 ADEIMANTUS: Yes, I think what you say is right.
 
-SOCRATES: Well, then, will you also think me reasonable if I say some-
-thing closely related?
-
-[2]: Ancient Greek statues were painted and gilded.
-
-[3]: At formal drinking parties (sumposia), the toastmaster (sumposiarchos) sat at the head
-of the table.The others sat in order of their importance, from his right counterclock-
-wise around the table to his left.
+SOCRATES: Well, then, will you also think me reasonable if I say something closely related?
 
 ADEIMANTUS: What exactly?
 
@@ -137,8 +128,7 @@ SOCRATES: Obviously, it will be harder to ﬁght one such city, but easier to
 
 ADEIMANTUS: How do you mean?
 
-SOCRATES: First of all, if our city has to ﬁght a city of the sort you men-
-tion, won’t it be a case of warrior-athletes ﬁghting rich men?
+SOCRATES: First of all, if our city has to ﬁght a city of the sort you mention, won’t it be a case of warrior-athletes ﬁghting rich men?
 
 ADEIMANTUS: Yes, it will.
 
@@ -173,8 +163,7 @@ would choose to ﬁght hard, lean hounds, rather than to join the hounds in
 ﬁghting fat and tender sheep?
 
 ADEIMANTUS: No, I do not. But if the wealth of all other cities were
-(e) amassed by a single one, don’t you think that would endanger your non-
-wealthy city?
+(e) amassed by a single one, don’t you think that would endanger your non-wealthy city?
 
 SOCRATES: You are happily innocent if you think that any city besides the
 one we are constructing deserves to be called a city.
@@ -182,23 +171,16 @@ one we are constructing deserves to be called a city.
 ADEIMANTUS: What should we call them, then?
 
 SOCRATES: We will have to ﬁnd a “greater” title for the others because
-each of them is a great many cities, but not a city, as they say in the game.4
+each of them is a great many cities, but not a city, as they say in the game.[4]
 They contain two, at any rate, which are at war with one another: the city
 (423a) of the poor and that of the rich. And within each of these, there are a great
-many more. So if you treat them as one city, you will be making a big mis-
-take. But if you treat them as many and offer one the money, power, and
-the very inhabitants of another, you will always ﬁnd many allies and few
-[4]: The reference is obscure; it may be to a saying or proverb, or to a game like check-
-ers called poleis, or cities, in which the set of pieces on each side, or perhaps any sub-
-set of them, were called cities, while the individual members of the sets were called
-dogs.
-
+many more. So if you treat them as one city, you will be making a big mistake. But if you treat them as many and offer one the money, power, and the very inhabitants of another, you will always ﬁnd many allies and few
 enemies. And as long as your own city is temperately governed in the way
 we just arranged, it will be the greatest one—not in reputation; I do not
 mean that; but the greatest in fact—even if it has only a thousand soldiers to
 defend it. For you won’t easily ﬁnd one city so great among either Greeks
 or barbarians, though you will ﬁnd many that are reputed to be many times
-(b) greater. Or do you disagree?
+greater. Or do you disagree? (b) 
 
 ADEIMANTUS: No, by Zeus, I do not.
 
@@ -218,8 +200,7 @@ size or great in reputation, rather than adequate in size and one in number.
 
 ADEIMANTUS: No doubt, that will be a trivial instruction for them to follow!
 
-SOCRATES: Here is another that is even more trivial.We mentioned it ear-
-lier as well.5 We said that if an offspring of the guardians is inferior, he must
+SOCRATES: Here is another that is even more trivial.We mentioned it earlier as well.[5] We said that if an offspring of the guardians is inferior, he must
 be sent off to join the other citizens, and that if the others have an excellent
 (d) offspring, he must join the guardians. This was meant to make clear that
 every other citizen, too, must be assigned to what naturally suits him, with
@@ -232,19 +213,13 @@ ADEIMANTUS: Oh, yes, that is a more minor one!
 SOCRATES: Really, my good Adeimantus, the orders we are giving them
 are neither as numerous nor as difﬁcult as one would think. Indeed, they
 are all insigniﬁcant provided, as the saying goes, they safeguard the one
-great thing—or rather not great but adequate.6
+great thing—or rather not great but adequate.[6]
 (e)
 ADEIMANTUS: What’s that?
 
-SOCRATES: Their education and upbringing. For if a good education
-makes them moderate men, they will easily discover all this for them-
-selves—and everything else that we are now omitting, such as the posses-
-sion of women, marriages, and the procreation of children, and how all
-[5]: 415a–c.
-
-[6]: See 423c4.
-
-(424a) these must be governed as far as possible by the old proverb that friends
+(424a) SOCRATES: Their education and upbringing. For if a good education
+makes them moderate men, they will easily discover all this for themselves—and everything else that we are now omitting, such as the possession of women, marriages, and the procreation of children, and how all
+these must be governed as far as possible by the old proverb that friends
 share everything in common.
 
 ADEIMANTUS: Yes, that would be best.
@@ -264,7 +239,7 @@ guard against everything, is this: there must be no innovation in musical or
 physical training that goes against the established order. On the contrary,
 they must guard against that as much as they can. And they should dread to
 hear anyone say that “people think most of the song that ﬂoats newest from
-the singer’s lips,”7 in case someone happens to suppose that the poet means
+the singer’s lips,”[7] in case someone happens to suppose that the poet means
 
 (c) not new songs, but a new way of singing, and praises that. We should not
 praise such a claim, however, or take it to be what the poet meant.You see,
@@ -277,8 +252,7 @@ ADEIMANTUS: You can also count me among those who are convinced.
 (d) SOCRATES: It seems, then, that it is in musical training that the guardhouse
 of our guardians must surely be built.
 
-ADEIMANTUS: At any rate, this sort of lawlessness easily inserts itself unde-
-tected.
+ADEIMANTUS: At any rate, this sort of lawlessness easily inserts itself undetected.
 
 SOCRATES: Yes, because it is supposed to be only part of a game that, as
 such, can do no harm.
@@ -286,15 +260,12 @@ such, can do no harm.
 ADEIMANTUS: And it does not do any—except, of course, that when it has
 established itself there, it slowly and silently ﬂows over into people’s habits
 and practices. From these it travels forth with greater vigor into private
-contracts, and then from private contracts it advances with the utmost inso-
-(e) lence into the laws and constitution, Socrates, until in the end it overthrows
+contracts, and then from private contracts it advances with the utmost insolence (e) into the laws and constitution, Socrates, until in the end it overthrows
 everything public and private.
 
 SOCRATES: Well, is that so?
 
 ADEIMANTUS: I think it is.
-
-[7]: Odyssey 1.351–2. Our text of Homer is slightly different.
 
 SOCRATES: Then, as we were saying at the beginning, our children must
 take part in games that are more law-abiding right from the start, since, if
@@ -328,8 +299,7 @@ or written decrees will never make them come about or last.
 
 ADEIMANTUS: How could they?
 
-SOCRATES: At any rate, Adeimantus, it looks as though the start of some-
-(c) one’s education determines what follows. Or doesn’t like always encourage
+SOCRATES: At any rate, Adeimantus, it looks as though the start of someone’s (c) education determines what follows. Or doesn’t like always encourage
 like?
 
 ADEIMANTUS: It does.
@@ -345,10 +315,8 @@ such things.
 ADEIMANTUS: And with good reason.
 
 SOCRATES: Then, by the gods, what about all that marketplace business,
-the contracts people make with one another in the marketplace, for exam-
-(d) ple, and contracts with handicraftsmen, and slanders, injuries, indictments,
-establishing juries, paying or collecting whatever dues are necessary in mar-
-ketplace and harbors, and, in a word, the entire regulation of marketplace,
+the contracts people make with one another in the marketplace, for example (d), and contracts with handicraftsmen, and slanders, injuries, indictments,
+establishing juries, paying or collecting whatever dues are necessary in marketplace and harbors, and, in a word, the entire regulation of marketplace,
 city, harbor, or what have you—dare we legislate about any of these?
 
 ADEIMANTUS: No, it would not be appropriate to dictate to men who are
@@ -393,14 +361,12 @@ badly governed politically, the citizens are warned not to change the city’s
 penalty. But the one who serves these cities most pleasantly, while they
 remain politically governed in that way; who indulges them, ﬂatters them,
 anticipates their wishes, and is clever at fulﬁlling them; isn’t he, on that
-account, honored by them as a good man who is wise in the most impor-
-tant matters?
+account, honored by them as a good man who is wise in the most important matters?
 
 ADEIMANTUS: Yes, I think their behavior is the same and I do not approve
 of it at all.
 
-SOCRATES: What about those who are willing and eager to provide treat-
-(d) ment for such cities? Don’t you approve of their courage and also their
+SOCRATES: What about those who are willing and eager to provide treatment (d) for such cities? Don’t you approve of their courage and also their
 lighthearted irresponsibility?
 
 ADEIMANTUS: I do indeed—except for those who are actually deluded
@@ -409,7 +375,7 @@ by the masses.
 
 SOCRATES: What do you mean? Have you no sympathy for these men? Or
 do you think it is possible for a man who does not know how to measure
-anything not to believe that he is four cubits tall8 when many others, who
+anything not to believe that he is four cubits tall[8] when many others, who
 (e) are similarly ignorant, tell him that he is?
 
 ADEIMANTUS: No, I do not think that.
@@ -419,7 +385,8 @@ surely the most charming of all.They pass and amend the sorts of laws we
 (a) have just been describing, and are always expecting that they will ﬁnd
 way to put a stop to cheating on contracts, and the other evildoings I
 (a) mentioned just now, not realizing that they are really just cutting off
-Hydra’s head.9
+Hydra’s head.[9]
+
 (427a) ADEIMANTUS: Yet that is all they are really doing.
 
 SOCRATES: I would have thought, then, that a true lawgiver should not
@@ -436,37 +403,27 @@ greatest, ﬁnest, and ﬁrst of legislations.
 ADEIMANTUS: What are they about?
 
 SOCRATES: The establishing of temples and sacriﬁces, and other forms of
-service to gods, daimons, and heroes; the burial of the dead, and the ser-
-vices that ensure the favor of those who have gone to the other world. For
+service to gods, daimons, and heroes; the burial of the dead, and the services that ensure the favor of those who have gone to the other world. For
 we, of course, have no knowledge of these things and so, when we are
 founding a city, we won’t take anyone else’s advice, if we have any sense, or
 (c) employ any interpreter except our ancestral one. And in fact, this god—as
-he delivers his interpretations from his seat at the navel of the earth10—is
+he delivers his interpretations from his seat at the navel of the earth[10]—is
 the ancestral guide on these matters for the whole human race.
 
 ADEIMANTUS: Well put.That is what we must do.
 
-[8]: Roughly seven feet.A cubit is between seventeen and twenty-two inches long.
-
-[9]: The Hydra was a mythical monster.When one of its heads was cut off, two or three
-new heads grew in its place. Heracles (or Hercules) had to slay the Hydra as one of
-his labors.
-
-[10]: The oracle of Apollo at Delphi was traditionally consulted by all Greeks on reli-
-gious and other such matters.A stone there marked the supposed center of the earth.
-
-SOCRATES: So then, son of Ariston, your city would now seem to be
-(d) founded. As the next step, look inside it, having got hold of an adequate
+(d) SOCRATES: So then, son of Ariston, your city would now seem to be founded. As the next step, look inside it, having got hold of an adequate
 light somewhere. Look yourself and invite your brother and Polemarchus
 and the rest of us to help you, to see where justice and injustice might be in
-it, how they differ from one another, and which of the two must be pos-
-sessed by the person who is going to be happy, whether that fact is hidden
+it, how they differ from one another, and which of the two must be possessed by the person who is going to be happy, whether that fact is hidden
 from all gods and humans or not.
 
 > *And Glaucon said:*
+
 That’s nonsense! You promised you would look for them yourself, because
 (e) you said it was impious for you not to defend justice in every way you
-could.11
+could.[11]
+
 SOCRATES: You are right to remind me, and I must do what I promised.
 
 But you will have to help.
@@ -484,6 +441,7 @@ GLAUCON: Clearly.
 
 SOCRATES: Then if we ﬁnd any of these in it, what remains will be what
 we have not found?
+
 (428a) GLAUCON: Of course.
 
 SOCRATES: Therefore, as in the case of any other four things, if we were
@@ -499,14 +457,12 @@ in, mustn’t we look for them in the same way?
 
 GLAUCON: Clearly.
 
-SOCRATES: Now, the ﬁrst thing I think I can see clearly in the city is wis-
-(b) dom. And there seems to be something odd about it.
+SOCRATES: Now, the ﬁrst thing I think I can see clearly in the city is wisdom (b). And there seems to be something odd about it.
 
 GLAUCON: What?
-[11]: 368b7–c3.
 
 SOCRATES: I think that the city we described is really wise. And that is
-because it is prudent,12 isn’t it?
+because it is prudent,[12] isn’t it?
 
 GLAUCON: Yes.
 
@@ -551,15 +507,9 @@ GLAUCON: There is indeed.
 SOCRATES: What is it and who has it?
 
 GLAUCON: It is the craft of guardianship. And the ones who possess it are
-those rulers we just now called complete guardians.13
+those rulers we just now called complete guardians.[13]
 SOCRATES: Because it has this knowledge, then, how do you describe the
 city?
-
-[12]: Euboulos: In Greek cities, the boulê was the council that had day-to-day responsi-
-bility for public affairs. In kingships it served as an advisory body to the kings; in
-democratic Athens it served as an advisory body and steering committee for the
-assembly of all the adult male citizens.
-[13]: 414b1–6.
 
 GLAUCON: As prudent and really wise.
 
@@ -577,9 +527,8 @@ GLAUCON: By far.
 SOCRATES: So, it is because of the smallest group or part of itself, and the
 knowledge that is in it—the part that governs and rules—that a city
 founded according to nature would be wise as a whole. And this class—
-which seems to be, by nature, the smallest—is the one that inherently pos-
-(429a) sesses a share of the knowledge that alone among all the other sorts of
-knowledge should be called wisdom.
+which seems to be, by nature, the smallest—is the one that inherently possesses a share of the knowledge that alone among all the other sorts of
+knowledge should be called wisdom.(429a)  
 
 GLAUCON: That’s absolutely true.
 
@@ -598,8 +547,7 @@ its behalf?
 
 GLAUCON: No one would look at anything else.
 
-SOCRATES: Because, I take it, whether the others are courageous or cow-
-ardly doesn’t make it one or the other.
+SOCRATES: Because, I take it, whether the others are courageous or cowardly doesn’t make it one or the other.
 
 GLAUCON: No, it doesn’t.
 
@@ -625,12 +573,10 @@ something I think it resembles, if you like.
 GLAUCON: I would like that.
 
 SOCRATES: You know, then, that when dyers want to dye wool purple,
-they ﬁrst select from wools of many different colors the ones that are natu-
-rally white.Then they give them an elaborate preparatory treatment, so that
+they ﬁrst select from wools of many different colors the ones that are naturally white.Then they give them an elaborate preparatory treatment, so that
 they will accept the color as well as possible. And only at that point do they
 dip them in the purple dye. When something is dyed in this way, it holds
-(e) the dye fast, and no amount of washing, whether with or without deter-
-gent, can remove the color. But you also know what happens when things
+(e) the dye fast, and no amount of washing, whether with or without detergent, can remove the color. But you also know what happens when things
 are not dyed in this way, when one dyes wools of other colors, or even
 these white ones, without preparatory treatment.
 
@@ -638,14 +584,13 @@ GLAUCON: I know they look washed out and ridiculous.
 
 SOCRATES: You should take it, then, that we too were trying as hard as we
 could to do something similar when we selected our soldiers and educated
-them in musical and physical training. It was contrived, you should sup-
-(430a) pose, for no purpose other than to ensure that—persuaded by us—they
+them in musical and physical training. (430a) It was contrived, you should suppose, for no purpose other than to ensure that—persuaded by us—they
 would absorb the laws in the best possible way, just like wool does a dye;
 that as a result, their beliefs about what things should inspire terror, and
 about everything else, would hold fast because they had the proper nature
 and rearing; so fast that the dye could not be washed out even by those
 detergents that are so terribly effective at scouring—pleasure, which is
-much more terribly effective at this than any chalestrian14 or alkali, and
+much more terribly effective at this than any chalestrian[14] or alkali, and
 (b) pain and fear and appetite, which are worse than any detergent.This power,
 then, to preserve through everything the correct and law-inculcated belief
 about what should inspire terror and what should not is what I, at any rate,
@@ -662,28 +607,23 @@ GLAUCON: Well, then, I accept your account of courage.
 SOCRATES: Yes, do accept it, at any rate, as my account of political courage,
 and you will be right to accept it. If you like, we will discuss that more fully
 some other time.You see, at the moment, our inquiry is not about courage
-[14]: Carbonate of soda from Chalestra, a town and lake in Macedonia.
-
 but about justice. And for the purpose of that inquiry, I think that what we
 have said is sufﬁcient.
 
 GLAUCON: You are right.
 
-SOCRATES: Two things, then, remain for us to ﬁnd in the city: temper-
-ance15 and—the goal of our entire inquiry—justice.
-(d)
-GLAUCON: Yes, indeed.
+SOCRATES: Two things, then, remain for us to ﬁnd in the city: temperance[15] and—the goal of our entire inquiry—justice.
+
+GLAUCON: Yes, indeed. (d)
 
 SOCRATES: How could we ﬁnd justice, then, so we won’t have to bother
 with temperance any further?
 
-GLAUCON: Well I, for my part, do not know of any, nor would I want jus-
-tice to appear ﬁrst if that means that we are not going to investigate tem-
-perance any further. So if you want to please me, look for it before the
+GLAUCON: Well I, for my part, do not know of any, nor would I want justice to appear ﬁrst if that means that we are not going to investigate temperance any further. So if you want to please me, look for it before the
 other.
 
-SOCRATES: Of course I want to. It would be wrong not to.16
-(e)
+SOCRATES: Of course I want to. It would be wrong not to.[16] (e)
+
 GLAUCON: Go ahead and look, then.
 
 SOCRATES: I will.And seen from here, it is more like a sort of concord and
@@ -700,13 +640,11 @@ GLAUCON: Absolutely.
 
 SOCRATES: Isn’t the term “self-mastery” ridiculous, though? For, of
 course, the one who is master of himself is also the one who is weaker, and
-the one who is weaker is also the one who masters. After all, the same per-
-(431a) son is referred to in all these descriptions.
+the one who is weaker is also the one who masters. After all, the same person is referred to in all these descriptions. (431a) 
 
 GLAUCON: Of course.
 
-SOCRATES: It seems to me, however, that what this term is trying to indi-
-cate is that within the same person’s soul, there is a better thing and a worse
+SOCRATES: It seems to me, however, that what this term is trying to indicate is that within the same person’s soul, there is a better thing and a worse
 one. Whenever the naturally better one masters the worse, this is called
 being master of oneself. At any rate, it is praised. But whenever, as a result
 of bad upbringing or associating with bad people, the smaller and better
@@ -714,10 +652,6 @@ one is mastered by the inferior majority, this is blamed as a disgraceful thing
 (b) and is called being weaker than oneself, or being intemperate.
 
 GLAUCON: Yes, that seems plausible.
-
-[15]: See Glossary of Terms s.v. temperance.
-
-[16]: See 427d8–e4.
 
 SOCRATES: Now, then, take a look at our new city and you will ﬁnd one
 of these conditions present in it. For you will say that it is rightly described
@@ -766,8 +700,7 @@ they are in this condition? In the rulers or the subjects?
 
 GLAUCON: In both, I suppose.
 
-SOCRATES: Do you see, then, that the hunch we had just now—that tem-
-perance is like a sort of harmony—was quite plausible?
+SOCRATES: Do you see, then, that the hunch we had just now—that temperance is like a sort of harmony—was quite plausible?
 
 GLAUCON: Why is that?
 
@@ -810,7 +743,7 @@ same, we must go on.
 (d) GLAUCON: Yes, we must.
 
 > *And then I caught sight of something and shouted:*
-SOCRATES: Ah ha!17 Glaucon, it looks as though there is a track here, and
+SOCRATES: Ah ha![17] Glaucon, it looks as though there is a track here, and
 I do not think our quarry will altogether escape us.
 
 GLAUCON: That’s good news.
@@ -819,13 +752,9 @@ SOCRATES: Oh dear, what a stupid condition in which to ﬁnd ourselves!
 
 GLAUCON: How so?
 
-SOCRATES: It seems, blessed though you are, that the thing has been roll-
-ing around at our feet from the very beginning, and yet, like ridiculous
+(e) SOCRATES: It seems, blessed though you are, that the thing has been rolling around at our feet from the very beginning, and yet, like ridiculous
 fools, we could not see it. For just as people who are holding something in
-their hands sometimes search for the very thing they are holding, we did
-[17]: Iou iou: usually a cry of woe in tragedy, not (like iô iô) a cry of joy.
-
-(e) not look in the right direction but gazed off into the distance, and perhaps
+their hands sometimes search for the very thing they are holding, we did not look in the right direction but gazed off into the distance, and perhaps
 that is the very reason we did not notice it.
 
 GLAUCON: What do you mean?
@@ -864,13 +793,11 @@ all of these to arise in it, and that preserves them when they have arisen for
 remained when we had found the other three.18
 GLAUCON: Yes, that must be so.
 
-SOCRATES: Yet, surely, if we had to decide which of these will most con-
-tribute to making our city good by being present in it, it would be difﬁcult
+SOCRATES: Yet, surely, if we had to decide which of these will most contribute to making our city good by being present in it, it would be difﬁcult
 to decide. Is it the agreement in belief between the rulers and the subjects?
 
-The preservation among the soldiers of the law-inculcated belief about
-what should inspire terror and what should not? The wisdom and guardian-
-(d) ship of the rulers? Or is what most contributes to making it good the fact
+(d) The preservation among the soldiers of the law-inculcated belief about
+what should inspire terror and what should not? The wisdom and guardianship of the rulers? Or is what most contributes to making it good the fact
 that every child, woman, slave, free person, craftsman, ruler, and subject
 each does his own work and does not meddle with what is not?
 
@@ -878,8 +805,7 @@ GLAUCON: Of course it’s a difﬁcult decision.
 [18]: 428a2–9.
 
 SOCRATES: It seems, then, that this power—which consists in everyone’s
-doing his own work—rivals wisdom, temperance, and courage in its con-
-tribution to the city’s virtue.
+doing his own work—rivals wisdom, temperance, and courage in its contribution to the city’s virtue.
 
 GLAUCON: It certainly does.
 
@@ -915,11 +841,8 @@ think that does any great harm to the city?
 
 GLAUCON: Not really.
 
-SOCRATES: But I imagine that when someone who is, by nature, a crafts-
-man or some other sort of moneymaker is puffed up by wealth, or by hav-
-(b) ing a majority of votes, or by his own strength, or by some other such
-thing, and attempts to enter the class of soldiers; or when one of the sol-
-diers who is unworthy to do so tries to enter that of judge and guardian,
+(b) SOCRATES: But I imagine that when someone who is, by nature, a craftsman or some other sort of moneymaker is puffed up by wealth, or by having a majority of votes, or by his own strength, or by some other such
+thing, and attempts to enter the class of soldiers; or when one of the soldiers who is unworthy to do so tries to enter that of judge and guardian,
 and these exchange their tools and honors; or when the same person tries
 to do all these things at once, then I imagine you will agree that these
 exchanges and this meddling destroy the city.
@@ -975,8 +898,7 @@ SOCRATES: So a just man won’t differ at all from a just city with respect to
 GLAUCON: Yes, he will be like it.
 
 SOCRATES: But now, the city, at any rate, was thought to be just because
-each of the three natural classes within it did its own job; and to be temper-
-ate, courageous, and wise, in addition, because of certain other conditions
+each of the three natural classes within it did its own job; and to be temperate, courageous, and wise, in addition, because of certain other conditions
 or states of these same classes.
 
 GLAUCON: That’s true.
@@ -999,8 +921,7 @@ SOCRATES: Apparently so. In fact, you should be well aware, Glaucon,
 that it is my belief we will never ever grasp this matter precisely by methods
 (d) of the sort we are now using in our discussions. However, there is in fact
 another longer and more time-consuming road that does lead there.21 But
-perhaps we can manage to come up to the standard of our previous state-
-ments and inquiries.
+perhaps we can manage to come up to the standard of our previous statements and inquiries.
 
 GLAUCON: Shouldn’t we be content with that? It would be enough for
 me, at least for now.
@@ -1012,16 +933,13 @@ GLAUCON: Then do not weary, but go on with the inquiry.
 that the very same kinds of things and conditions exist in each one of us as
 exist in the city? After all, where else would they come from? You see, it
 would be ridiculous for anyone to think that spiritedness did not come to
-be in cities from the private individuals who are reputed to have this qual-
-ity, such as the Thracians, Scythians, and others who live to the north of us;
-or that the same is not true of the love of learning, which is mostly associ-
-(436a) ated with our part of the world; or of the love of money, which is said to be
-found not least among the Phoenicians and Egyptians.
+be in cities from the private individuals who are reputed to have this quality, such as the Thracians, Scythians, and others who live to the north of us;
+or that the same is not true of the love of learning, which is mostly associated with our part of the world; or of the love of money, which is said to be
+found not least among the Phoenicians and Egyptians. (436a) 
 
 GLAUCON: It certainly would.
 
-SOCRATES: We may take that as being so, then, and it was not at all difﬁ-
-cult to discover.
+SOCRATES: We may take that as being so, then, and it was not at all difﬁcult to discover.
 
 GLAUCON: No, it certainly was not.
 
@@ -1060,8 +978,7 @@ same respect, to be standing still and moving?
 
 GLAUCON: Not at all.
 
-SOCRATES: Let’s come to a more precise agreement, in order to avoid dis-
-putes later on.You see, if anyone said of a person who is standing still but
+SOCRATES: Let’s come to a more precise agreement, in order to avoid disputes later on.You see, if anyone said of a person who is standing still but
 moving his hands and head, that the same thing is moving and standing still
 at the same time, we would not consider, I imagine, that he should say that;
 but rather that in one respect the person is standing still, while in another
@@ -1092,11 +1009,9 @@ respect, and in relation to the same thing—undergo, be, or do opposite
 
 GLAUCON: They won’t have that effect on me at least.
 
-SOCRATES: All the same, in order to avoid going through all these objec-
-tions one by one and taking a long time to prove them all untrue, let’s
+SOCRATES: All the same, in order to avoid going through all these objections one by one and taking a long time to prove them all untrue, let’s
 hypothesize that what we have said is correct and carry on—with the
-understanding that if it should ever be shown to be incorrect, all the conse-
-quences we have drawn from it will be invalidated.
+understanding that if it should ever be shown to be incorrect, all the consequences we have drawn from it will be invalidated.
 
 GLAUCON: Yes, that’s what we should do.
 (b) SOCRATES: Now, wouldn’t you consider assent and dissent, wanting to
@@ -1189,8 +1104,7 @@ GLAUCON: Yes, indeed.
 
 SOCRATES: What about the various kinds of knowledge? Aren’t they the
 same way? Knowledge itself is of what can be learned itself (or of whatever
-we should take the object of knowledge to be), whereas a particular knowl-
-edge of a particular sort is of a particular thing of a particular sort. I mean
+we should take the object of knowledge to be), whereas a particular knowledge of a particular sort is of a particular thing of a particular sort. I mean
 
 something like this: when knowledge of building houses was developed, it
 (d) differed from the other kinds of knowledge, and so was called knowledge of
@@ -1214,8 +1128,7 @@ across before—if you understand it now—when I said that whenever things
 are related to something, those that are just themselves are related to things
 that are just themselves, whereas those of a particular sort are related to
 things of a particular sort.And I do not at all mean that the sorts in question
-(e) have to be the same for them both—that the knowledge of health and dis-
-ease is healthy and diseased, or that that of good and bad things is good and
+(e) have to be the same for them both—that the knowledge of health and disease is healthy and diseased, or that that of good and bad things is good and
 bad. On the contrary, I mean that when knowledge occurred that was not
 just knowledge of the thing itself that knowledge is of, but of something of
 (a) particular sort, which in this case was health and disease, the result was
@@ -1248,8 +1161,7 @@ GLAUCON: Clearly.
 SOCRATES: Then if anything in it draws it back when it is thirsty,
 wouldn’t it be something different from what thirsts and, like a beast,
 drives it to drink? For surely, we say, the same thing, in the same respect of
-itself, in relation to the same thing, and at the same time, cannot do oppo-
-site things.
+itself, in relation to the same thing, and at the same time, cannot do opposite things.
 
 GLAUCON: No, it cannot.
 
@@ -1319,8 +1231,7 @@ ever seen that, either in yourself or in anyone else.
 
 GLAUCON: No, by Zeus, I would not.
 
-SOCRATES: And what about when a person thinks he is doing some injus-
-(c) tice? Isn’t it true that the nobler he is, the less capable he is of feeling angry
+(c) SOCRATES: And what about when a person thinks he is doing some injustice? Isn’t it true that the nobler he is, the less capable he is of feeling angry
 if he suffers hunger, cold, or the like at the hands of someone whom he
 believes to be inﬂicting this on him justly; and won’t his spirit, as I say,
 refuse to be aroused?
@@ -1344,24 +1255,18 @@ have you also noticed something else about it?
 
 [22]: A fragment of the comedy Kapêlides by Theopompus (410–370 BCE) tells us that
 (a) certain Leontinus (emended to Leontius because of Plato’s reference here) was
-known for his love of boys as pale as corpses. So his desire is probably sexual in ori-
-gin, and for that reason appetitive.The North and South Walls enclosed an area con-
-necting Athens to Piraeus.
+known for his love of boys as pale as corpses. So his desire is probably sexual in origin, and for that reason appetitive.The North and South Walls enclosed an area connecting Athens to Piraeus.
 
 SOCRATES: That it is the opposite of what we recently thought about the
-kind of thing spirit is.You see, then we thought of it as something appeti-
-tive.23 But now, far from saying that, we say that in the faction that takes
-place in the soul, it is far more likely to take arms on the side of the ratio-
-nally calculating element.
+kind of thing spirit is.You see, then we thought of it as something appetitive.[23] But now, far from saying that, we say that in the faction that takes
+place in the soul, it is far more likely to take arms on the side of the rationally calculating element.
 
 GLAUCON: Absolutely.
 
-SOCRATES: Is it also different from this, then, or is it some kind of ratio-
-nally calculating element, so that there are not three kinds of things in the
+SOCRATES: Is it also different from this, then, or is it some kind of rationally calculating element, so that there are not three kinds of things in the
 soul, but two—the rationally calculating element and the appetitive one?
 
-Or rather, just as there were three classes in the city that held it together—
-(441a) the moneymaking, the auxiliary, and the deliberative—is there also this
+(441a) Or rather, just as there were three classes in the city that held it together the moneymaking, the auxiliary, and the deliberative—is there also this
 third element in the soul, the spirited kind, which is the natural auxiliary of
 the rationally calculating element, if it has not been corrupted by bad
 upbringing?
@@ -1378,8 +1283,7 @@ calculation, some of them seem to me never to possess it, while the masses
 (b) do so quite late.
 
 SOCRATES: Yes, by Zeus, you put that really well. Besides, one can see in
-animals that what you say is true. But, in addition to that, our earlier quota-
-tion from Homer also bears it out: “He struck his chest and spoke to his
+animals that what you say is true. But, in addition to that, our earlier quotation from Homer also bears it out: “He struck his chest and spoke to his
 heart.”24 You see, in it Homer clearly presents what has calculated about
 (c) better and worse, rebuking what is irrationally angry as though it were
 something different.
@@ -1392,8 +1296,7 @@ each individual, and an equal number of them too.
 
 GLAUCON: That’s true.
 
-SOCRATES: Then doesn’t it already necessarily follow that the private indi-
-vidual is wise in the same way and because of the same element as is the
+SOCRATES: Then doesn’t it already necessarily follow that the private individual is wise in the same way and because of the same element as is the
 city?
 
 GLAUCON: Of course.
@@ -1429,9 +1332,7 @@ soul; and for the spirited kind to obey it and be its ally?
 
 GLAUCON: Of course.
 
-SOCRATES: Now, as we were saying, isn’t it a mixture of musical and phys-
-ical training that makes these elements concordant, tightening and nurtur-
-(442a) ing the ﬁrst with ﬁne words and learning, while relaxing, soothing, and
+(442a) SOCRATES: Now, as we were saying, isn’t it a mixture of musical and physical training that makes these elements concordant, tightening and nurturing the ﬁrst with ﬁne words and learning, while relaxing, soothing, and
 making gentle the second by means of harmony and rhythm?
 
 GLAUCON: Yes, exactly.
@@ -1449,8 +1350,7 @@ GLAUCON: Yes, indeed.
 
 SOCRATES: And wouldn’t these two elements also do the ﬁnest job of
 guarding the whole soul and body against external enemies—the one by
-deliberating, the other by ﬁghting, following the ruler, and using its cour-
-age to carry out the things on which the former had decided?
+deliberating, the other by ﬁghting, following the ruler, and using its courage to carry out the things on which the former had decided?
 
 GLAUCON: Yes, they would.
 
@@ -1463,16 +1363,14 @@ about what should inspire terror and what should not.
 GLAUCON: That’s right.
 
 SOCRATES: But we call him wise, surely, because of the small part that
-rules in him, makes those pronouncements, and has within it the knowl-
-edge of what is advantageous—both for each part and for the whole, the
+rules in him, makes those pronouncements, and has within it the knowledge of what is advantageous—both for each part and for the whole, the
 community composed of all three.
 
 GLAUCON: Yes, indeed.
 
-SOCRATES: What about temperance? Isn’t he temperate because of the
+(d) SOCRATES: What about temperance? Isn’t he temperate because of the
 friendly and concordant relations between these same things: namely, when
-both the ruler and its two subjects share the belief that the rationally calcu-
-(d) lating element should rule, and do not engage in faction against it?
+both the ruler and its two subjects share the belief that the rationally calculating element should rule, and do not engage in faction against it?
 
 GLAUCON: Temperance in a city and in a private individual is certainly
 nothing other than that.
@@ -1493,8 +1391,7 @@ SOCRATES: We could make perfectly sure, if there is still anything in our
 GLAUCON: Which ones?
 
 SOCRATES: For example, if we had to come to an agreement about
-whether a man similar in nature and training to this city of ours had embez-
-zled gold or silver he had accepted for deposit, who do you think would
+whether a man similar in nature and training to this city of ours had embezzled gold or silver he had accepted for deposit, who do you think would
 consider him more likely to have done so rather than men of a different
 (443a) sort?
 
@@ -1539,8 +1436,7 @@ GLAUCON: Absolutely.
 
 SOCRATES: So, Glaucon, it really was—which is why it was so helpful—a
 sort of image of justice, this principle that it is right for someone who is, by
-nature, a shoemaker to practice shoemaking and nothing else, for a carpen-
-ter to practice carpentry, and the same for all the others.
+nature, a shoemaker to practice shoemaking and nothing else, for a carpenter to practice carpentry, and the same for all the others.
 
 GLAUCON: Apparently so.
 
@@ -1550,25 +1446,21 @@ contrary, it is concerned with what is inside; with himself, really, and the
 (d) things that are his own. It means that he does not allow the elements in him
 each to do the job of some other, or the three sorts of elements in his soul
 to meddle with one another. Instead, he regulates well what is really his
-own, rules himself, puts himself in order, becomes his own friend, and har-
-monizes the three elements together, just as if they were literally the three
+own, rules himself, puts himself in order, becomes his own friend, and harmonizes the three elements together, just as if they were literally the three
 deﬁning notes of an octave—lowest, highest, and middle—as well as any
 others that may be in between. He binds together all of these and, from
 (e) having been many, becomes entirely one, temperate and harmonious.Then
-and only then should he turn to action, whether it is to do something con-
-cerning the acquisition of wealth or concerning the care of his body, or
+and only then should he turn to action, whether it is to do something concerning the acquisition of wealth or concerning the care of his body, or
 even something political, or concerning private contracts. In all these areas,
-he considers and calls just and ﬁne the action that preserves this inner har-
-mony and helps achieve it,28 and wisdom the knowledge that oversees such
+he considers and calls just and ﬁne the action that preserves this inner harmony and helps achieve it,[28] and wisdom the knowledge that oversees such
 
 [27]: 432d2–433b4.
 
 [28]: Cf. 338e1–339a4.
 
-action; and he considers and calls unjust any action that destroys this har-
-mony, and ignorance the belief that oversees it.29
-(444a)
-GLAUCON: That’s absolutely true, Socrates.
+action; and he considers and calls unjust any action that destroys this harmony, and ignorance the belief that oversees it.[29]
+
+(444a) GLAUCON: That’s absolutely true, Socrates.
 
 SOCRATES: Well, then, if we claim to have found the just man, the just
 city, and what justice really is in them, we won’t, I imagine, be thought to
@@ -1592,9 +1484,7 @@ like that, I imagine, and that their disorder and wandering is injustice,
 licentiousness, cowardice, ignorance, and, in a word, the whole of vice.
 
 GLAUCON: That is precisely what they are.
-(c) SOCRATES: Doing unjust actions, then, and being unjust; and, the oppo-
-site, doing just ones—they all surely become clear at once, don’t they, pro-
-vided that both injustice and justice are also clear?
+(c) SOCRATES: Doing unjust actions, then, and being unjust; and, the opposite, doing just ones—they all surely become clear at once, don’t they, provided that both injustice and justice are also clear?
 
 GLAUCON: What do you mean?
 
@@ -1625,8 +1515,7 @@ being ruled by one another that is contrary to nature.
 GLAUCON: That’s right.
 
 SOCRATES: Doesn’t it follow, then, that to produce justice is to establish
-the elements in the soul in a natural relation of mastering and being mas-
-tered by one another, while to produce injustice is to establish a relation of
+the elements in the soul in a natural relation of mastering and being mastered by one another, while to produce injustice is to establish a relation of
 ruling and being ruled by one another that is contrary to nature?
 
 GLAUCON: Absolutely.
@@ -1649,8 +1538,7 @@ person as a result of being punished.
 
 GLAUCON: But, Socrates, that question seems to me, at least, to have
 become ridiculous, now that the two have been shown to be as we
-described. Life does not seem worth living when the body’s natural consti-
-tution is ruined, not even if one has food and drink of every sort, all the
+described. Life does not seem worth living when the body’s natural constitution is ruined, not even if one has food and drink of every sort, all the
 money in the world, and every political ofﬁce imaginable. So how—even if
 (b) one could do whatever one wished, except what would liberate one from
 vice and injustice and make one acquire justice and virtue—could it be
@@ -1686,8 +1574,7 @@ GLAUCON: How many is that?
 GLAUCON: Tell me what they are.
 
 SOCRATES: I will tell you that one type would be the constitution we have
-been describing. However, there are two ways of referring to it: if one out-
-standing man emerges among the rulers, it is called a kingship; if more than
+been describing. However, there are two ways of referring to it: if one outstanding man emerges among the rulers, it is called a kingship; if more than
 one, it is called an aristocracy.
 
 GLAUCON: That’s true.
