@@ -1,0 +1,10 @@
+# nén file .webp
+
+find . -type f \
+  ! -iname "*.webp" \
+  \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) \
+  | while read -r file; do
+      out="${file%.*}.webp"
+      cwebp -q 30 "$file" -o "$out"
+    done
+    

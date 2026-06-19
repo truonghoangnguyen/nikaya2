@@ -430,6 +430,21 @@ export default defineConfig({
   },
 
   // ignoreDeadLinks: true,
+  transformHtml(code) {
+    function deferStylesheet(html: string, href: string) {
+      const preloadStylesheet = `<link rel="preload stylesheet" href="${href}" as="style">`;
+      const asyncStylesheet = `<link rel="preload" href="${href}" as="style" onload="this.onload=null;this.rel='stylesheet'">\n    <noscript><link rel="stylesheet" href="${href}"></noscript>`;
+      return html.replaceAll(preloadStylesheet, asyncStylesheet);
+    }
+
+    let html = code.replace(
+      /<link rel="preload stylesheet" href="(\/assets\/style\.[^"]+\.css)" as="style">/g,
+      (_, href) => `<link rel="preload" href="${href}" as="style" onload="this.onload=null;this.rel='stylesheet'">\n    <noscript><link rel="stylesheet" href="${href}"></noscript>`,
+    );
+    html = deferStylesheet(html, '/vp-icons.css');
+    return html;
+  },
+
   /**
    * Transforms page data, specifically adding navigation (next/prev) and title
    * information based on the page's relative path within supported books and authors.
