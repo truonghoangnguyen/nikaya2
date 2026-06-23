@@ -27,7 +27,7 @@
           {{ filteredItems.length }} kết quả
           <span class="for-query">cho "{{ query }}"</span>
         </span>
-        <span v-else class="result-count">{{ props.items.length }} kinh văn — nhập từ khóa để tìm kiếm</span>
+        <span v-else class="result-count">Nhập: 'DN' để tìm Trường Bộ, Trung Bộ=MN, Tương Ưng=SN, Tăng Chi=AN, tiểu bộ=KN</span>
       </div>
     </div>
 

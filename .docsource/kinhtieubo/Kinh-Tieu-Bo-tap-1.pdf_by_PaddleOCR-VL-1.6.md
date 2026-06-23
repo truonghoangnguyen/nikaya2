@@ -1236,7 +1236,7 @@ Nhớ việc xưa chúng làm.
 
 12. Nhưng khi vật cứng dường, Khéo đặt vào chư Tăng Ích lợi chúng lâu dài, Bây giờ, về sau nữa.
 
-13 Chánh pháp được giảng bày, Như vậy cho quyến thuộc, Kính trọng biết chừng nào, Đối với người đã khuất, Chư Tăng được cùng dường, Cũng tăng thêm dõng mạnh, Người tích tụ công đức, Thật to lớn biết bao.
+13. Chánh pháp được giảng bày, Như vậy cho quyến thuộc, Kính trọng biết chừng nào, Đối với người đã khuất, Chư Tăng được cùng dường, Cũng tăng thêm dõng mạnh, Người tích tụ công đức, Thật to lớn biết bao.
 
 ### VIII. Kinh Bảo Tàng (Nidhikanda Sutta)
 
@@ -1556,9 +1556,9 @@ Họ không đạt chân thật
 
 Do tà tư tà hạnh
 
-13 "Như ngôi nhà vững lợp, Mưa liền xâm nhập vào. Cũng vậy tâm không tu, Tham dục liền xâm nhập."
+13. "Như ngôi nhà vững lợp, Mưa liền xâm nhập vào. Cũng vậy tâm không tu, Tham dục liền xâm nhập."
 
-15 "Nay sầu, đòi sau sầu,
+15. "Nay sầu, đòi sau sầu,
 
 Kẻ ác, hai đòi sầu;
 
@@ -1566,7 +1566,7 @@ Nó sầu, nó ưu não,
 
 Thấy nghiệp uế mình làm."
 
-17 "Nay than, đòi sau than,
+17. "Nay than, đòi sau than,
 
 Kẻ ác, hai đòi than,
 
@@ -1576,11 +1576,11 @@ than rằng: "Ta làm ác "
 
 19- "Nếu người nói nhiều kinh, Không hành trì, phóng đất; Như kẻ chăn bò người, Không phần Sa môn hạnh." tư chế, sống chọn thực, thật xứng áo cà sa."
 
-12 "Chân thật, biết chân thật, Không chân, biết không chân. Chúng đạt được chân thật, do chánh tư, chánh hạnh."
+12. "Chân thật, biết chân thật, Không chân, biết không chân. Chúng đạt được chân thật, do chánh tư, chánh hạnh."
 
-14 "Như ngôi nhà khéo lợp, Mưa không xâm nhập vào. Cũng vậy tâm khéo tu, Tham dục không xâm nhập."
+14. "Như ngôi nhà khéo lợp, Mưa không xâm nhập vào. Cũng vậy tâm khéo tu, Tham dục không xâm nhập."
 
-16 "Nay vui, đòi sau vui,
+16. "Nay vui, đòi sau vui,
 
 Làm phước, hai đòi vui.
 
@@ -1652,7 +1652,7 @@ Ai điều phục được tâm, Thoát khỏi Ma trói bước"
 
 39. "Tâm không đầy tràn dục, Tâm không (hạn) công phá, Đoạn tuyệt mọi thiện ác, Kế tỉnh không sợ hãi,"
 
-41 "Không bao lâu thân này, Sẽ năm dài trên đất, Bị vật bỏ, vô thức, Như khúc cây vô dụng."
+41. "Không bao lâu thân này, Sẽ năm dài trên đất, Bị vật bỏ, vô thức, Như khúc cây vô dụng."
 
 34. "Như cá quăng trên bờ, Vất ra ngoài thủy giới; Tâm này vũng vây mạnh, Hãy đoạn thế lực Ma."
 
@@ -1876,7 +1876,7 @@ Vì không tìm dục lạc."
 
 100. "Dầu nói ngàn ngàn lời, Nhưng không gì lợi ích, Tốt hơn một câu nghĩa, Nghe xong, được tịnh lạc."
 
-102 "Dầu nói trăm câu kệ
+102. "Dầu nói trăm câu kệ
 
 Nhung không gì lợi ích,
 
@@ -1898,7 +1898,7 @@ Tốt hơn sống một ngày,
 
 Trì giới, tu thiền định.
 
-112 "Ai sống một trăm năm,
+112. "Ai sống một trăm năm,
 
 Lười nhác không tinh tấn,
 
@@ -2024,7 +2024,7 @@ Ngươi không còn phần nộ.
 
 Khi thân hoại mạng chung, Ác tuệ sanh địa ngục."
 
-142 "Ai sống tự trang sức, Nhưng an tịnh, nhiếp phục, Sống kiên trì, phạm hạnh, Không hại mọi sinh lính, Vị ấy là phạm chí, Hay sa môn, khát sĩ."
+142. "Ai sống tự trang sức, Nhưng an tịnh, nhiếp phục, Sống kiên trì, phạm hạnh, Không hại mọi sinh lính, Vị ấy là phạm chí, Hay sa môn, khát sĩ."
 
 144. "Như ngựa hiền chạm roi, Hãy nhiệt tâm, hăng hái, Với tín, giới, tinh tân, Thiền định cùng trạch pháp. Minh hạnh đủ, chánh niệm, Đoạn khổ này vô lượng."
 
@@ -2246,7 +2246,7 @@ Lạc nào bằng tịnh lạc.
 
 207. "Sống chung với người ngu, Lâu dài bị lo buôn. Khổ thay gần người ngu, Như thường sống kẻ thù. Vui thay, gần người trí, Như chung sống bà con."
 
-204 "Không bệnh, lợi tối thượng, Biết đủ, tiên tối thượng, Thành tín đối với nhau, Là bà con tối thượng. Niết Bàn, lạc tối thượng."
+204. "Không bệnh, lợi tối thượng, Biết đủ, tiên tối thượng, Thành tín đối với nhau, Là bà con tối thượng. Niết Bàn, lạc tối thượng."
 
 206. "Lành thay, thấy thánh nhân, Sống chung thường hưởng lạc. Không thấy những người ngu, Thường thường được an lạc."
 
@@ -2350,7 +2350,7 @@ Chư thiên phải khen thưởng, Phạm Thiên cũng tán dương".
 
 233. "Giữ ý đừng phần nộ, Phòng ý, khéo bảo vệ, Từ bỏ ý nghĩ ác, Với ý, nghĩ hạnh lành."
 
-232 "Giữ lời đứng phần nộ,
+232. "Giữ lời đứng phần nộ,
 
 Phòng lời, khéo bảo vệ,
 
@@ -2764,7 +2764,7 @@ Bị chê là thứ ba,
 
 Đọa địa ngục, thứ bốn."
 
-310 "Mắc họa, đọa ác thú,
+310. "Mắc họa, đọa ác thú,
 
 Bị hoảng sợ, ít vui.
 
@@ -2804,7 +2804,7 @@ Tất bị đọa địa ngục."
 
 321. "Voi luyện, đưa dự hội, Ngựa luyện, được vua cưỡi, Người luyện, bậc tối thượng Chịu đựng mọi phỉ báng."
 
-323 "Chẳng phải loài cưỡi ấy, Đưa người đến Niết-Bàn, Chỉ có người tự điều, Đến đích, nhờ điều phục."
+323. "Chẳng phải loài cưỡi ấy, Đưa người đến Niết-Bàn, Chỉ có người tự điều, Đến đích, nhờ điều phục."
 
 325. "Người ua ngủ, ăn lón
 
@@ -2858,7 +2858,7 @@ Khổ này vẫn sanh hoài."
 
 339. "Ba mươi sáu dòng Ái, Trôi người đốn khả ái. Các tư tưởng tham ái. Cuốn trôi người tà kiến."
 
-342 "Người bị ái bước ràng,
+342. "Người bị ái bước ràng,
 
 341. "Người đời nhớ ái dục, Ủa thích các hủ lạc.
 
@@ -3104,7 +3104,7 @@ Phàm không cho không lấy, Ta gọi Bà-la-môn."
 
 411. "Người không còn tham ái, Có trí, không nghi hoặc, Thế nhập vào bất tử, Ta gọi Bà-la-môn."
 
-413 "Như trăng, sạch không uế
+413. "Như trăng, sạch không uế
 
 Sáng trong và tịnh lặng,
 
@@ -3112,7 +3112,7 @@ Hữu ái, được đoạn tận,
 
 Ta gọi Bà là môn."
 
-396 "Ta không gọi Phạm Chí,
+396. "Ta không gọi Phạm Chí,
 
 Vì chỗ sanh, mẹ sanh.
 
@@ -3168,7 +3168,7 @@ Sáng suốt chân giác ngộ,
 
 Ta gọi Bà-la-môn."
 
-421 "Ai quá, hiện, vị lai
+421. "Ai quá, hiện, vị lai
 
 Không một sở hữu gì,
 

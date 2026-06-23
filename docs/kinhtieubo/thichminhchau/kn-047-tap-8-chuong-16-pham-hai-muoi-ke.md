@@ -837,7 +837,7 @@ Vượt qua biển sanh tử,\
 Ngài giúp quần sanh này,\
 Cùng vượt qua bể khổ.
 
-840 Sanh y Ngài vượt qua,\
+840. Sanh y Ngài vượt qua,\
 Lậu hoặc Ngài nghiền nát,\
 Ngài là sư tử chúa,\
 Không chấp, không sợ hãi.

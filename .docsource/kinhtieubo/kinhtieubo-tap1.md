@@ -909,7 +909,7 @@ Khéo đặt vào chư Tăng
 Ích lợi chúng lâu dài,
 Bây giờ, về sau nữa.
 
-13 Chánh pháp được giảng bày,
+13. Chánh pháp được giảng bày,
 Như vậy cho quyền thuộc,
 Kinh trọng biết chừng nào,
 Đối với người đã khuất,
@@ -1206,17 +1206,17 @@ Chân thật, thấy không chân
 Họ không đạt chân thật
 Do tà tự tà hạnh
 
-13 "Như ngôi nhà vụng lợp,
+13. "Như ngôi nhà vụng lợp,
 Mưa liền xâm nhập vào.
 Cũng vậy tâm không tu,
 Tham dục liền xâm nhập."
 
-15 "Nay sầu, đời sau sầu,
+15. "Nay sầu, đời sau sầu,
 Kẻ ắc, hai đời sầu;
 Nó sầu, nó ưu não,
 Thấy nghiệp uế mình làm."
 
-17 "Nay than, đời sau than,
+17. "Nay than, đời sau than,
 Kẻ ắc, hai đời than,
 than rằng: "Ta làm ắc"
 Đọa cõi dữ, than hơn."
@@ -1229,17 +1229,17 @@ Không phán Sa môn hạnh."
 tự chế, sống chơn thực,
 thật xứng ảo cả sa."
 
-12 "Chân thật, biết chân thật,
+12. "Chân thật, biết chân thật,
 Không chân, biết không chân.
 Chúng đạt được chân thật,
 do chánh tư, chánh hạnh."
 
-14 "Như ngôi nhà khéo lợp,
+14. "Như ngôi nhà khéo lợp,
 Mưa không xâm nhập vào.
 Cũng vậy tâm khéo tu,
 Tham dục không xâm nhập."
 
-16 "Nay vui, đời sau vui,
+16. "Nay vui, đời sau vui,
 Làm phước, hai đời vui.
 Người ấy vui, an vui,
 Thấy nghiệp tịnh mình làm."
@@ -1944,7 +1944,7 @@ Bị hỏa tai thiêu đốt.
 Khi thân hoại mạng chung,
 Ác tuệ sanh địa ngục."
 
-142 "Ai sống tự trang sức,
+142. "Ai sống tự trang sức,
 Nhưng an tịnh, nhiếp phục,
 Sống kiên trì, phạm hạnh,
 Không hại mọi sinh linh,
@@ -2299,7 +2299,7 @@ Như chung sống bà con."
 Khổ nào sánh khổ uẩn,
 Lạc nào bằng tịnh lạc."
 
-204 "Không bệnh, lợi tối thượng,
+204. "Không bệnh, lợi tối thượng,
 Biết đủ, tiến tối thượng,
 Thành tín đối với nhau,
 Là bà con tối thượng.
@@ -2446,7 +2446,7 @@ Phòng thân khéo bảo vệ,
 Từ bỏ thân làm ác,
 Với thân làm hạnh lành."
 
-232 "Giữ ý đừng phẫn nộ,
+232. "Giữ ý đừng phẫn nộ,
 Phòng ý, khéo bảo vệ,
 Từ bỏ ý nghĩ ác,
 Với ý, nghĩ hạnh lành."
@@ -2869,7 +2869,7 @@ Cháy đó như lửa hùng,
 Hơn ác giới, buông lung
 Ăn đồ ăn quốc độ."
 
-310 "Mắc họa, đọa ác thú,
+310. "Mắc họa, đọa ác thú,
 Bị hoàng sợ, ít vui.
 Quốc vương phạt trọng hình.
 Vậy chớ theo vợ ngươi."
@@ -2951,7 +2951,7 @@ Ngựa luyện, được vua cưỡi,
 Người luyện, bậc tối thượng
 Chịu đựng mọi phi bảng."
 
-323 "Chẳng phải loài cưỡi ấy,
+323. "Chẳng phải loài cưỡi ấy,
 Đưa ngươi đến Niết-Bàn,
 Chỉ có ngươi tự điều,
 Đến đích, nhờ điều phục."

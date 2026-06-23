@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tìm kiếm Kinh điển Nikaya
-description: Công cụ tra cứu và tìm kiếm nhanh các bài Kinh trong bộ Nikaya (Trường Bộ, Trung Bộ, Tương Ưng, Tăng Chi).
+description: Công cụ tra cứu và tìm kiếm nhanh các bài Kinh trong bộ Nikaya (Trường Bộ DN, Trung Bộ MN, Tương Ưng SN, Tăng Chi AN, tiểu bộ KN).
 ---
 
 <script setup>

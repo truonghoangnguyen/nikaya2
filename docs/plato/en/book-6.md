@@ -1,17 +1,16 @@
 # *Book 6*
+
 SOCRATES’ NARRATION CONTINUES:
 
 SOCRATES: Who the philosophers are, then, Glaucon, and who they aren’t
-(484a) has, through a somewhat lengthy argument and with much effort, some-
-how been made clear.
+(484a) has, through a somewhat lengthy argument and with much effort, somehow been made clear.
 
 GLAUCON: That’s probably because it could not easily have been done
 through a shorter one.
 
-SOCRATES: I suppose not.Yet I, at least, think that the matter would have
+(b) SOCRATES: I suppose not.Yet I, at least, think that the matter would have
 been made even clearer if we had had only that topic to discuss, and not the
-many others that remain for us to explore if we are to discover the differ-
-(b) ence between the just life and the unjust one.
+many others that remain for us to explore if we are to discover the difference between the just life and the unjust one.
 
 GLAUCON: What comes after this one, then?
 
@@ -27,56 +26,48 @@ SOCRATES: Whichever of them seems capable of guarding a city’s laws and
 (c) practices should be established as guardians.
 
 GLAUCON: That’s right.
-(a) SOCRATES: So, is the answer to the following question clear: should
-guardian who is going to keep watch over something be blind or keen-
-sighted?
+
+SOCRATES: So, is the answer to the following question clear: should a
+guardian who is going to keep watch over something be blind or keensighted?
 
 GLAUCON: Of course it is.
 
 SOCRATES: Well, do you think there is any difference, then, between the
 blind and those who are really deprived of the knowledge of each thing
 that is, and have no clear model of it in their souls—those who cannot
-look away, like painters, to what is most true, and cannot, by making con-
-stant reference to it and by studying it as exactly as possible, establish here
-on earth conventional views about beautiful, just, or good things1 when
-(d)
-
-[1]: See 479d3–5 for what happens to conventions not established in this way.
-
+look away, like painters, to what is most true, and cannot, by making constant reference to it and by studying it as exactly as possible, establish here
+on earth conventional views about beautiful, just, or good things[1] when
 they need to be established, or guard and preserve those that have been
-established?
+established? (d)
 
 GLAUCON: No, by Zeus, there is not much difference between them.
 
 SOCRATES: Shall we appoint these blind people as our guardians, then, or
-those who know each thing that is, have no less experience than the oth-
-ers,2 and are not inferior to them in any other part of virtue?
+those who know each thing that is, have no less experience than the others,[2] and are not inferior to them in any other part of virtue?
 
 GLAUCON: It would be absurd to choose anyone but philosophers, if
 indeed they are not inferior in these other things. For the very area in
 which they are superior is just about the most important one.
+
 (485a) SOCRATES: Shouldn’t we explain, then, how the same men can have both
 sets of qualities?
 
 GLAUCON: Certainly.
 
 SOCRATES: Then, as we were saying at the beginning of this discussion, it
-is ﬁrst necessary to understand the nature of philosophers.3 And I think that
-if we can agree sufﬁciently about that, we will also agree that the same peo-
-ple can have both qualities, and that they alone should be leaders in cities.
+is ﬁrst necessary to understand the nature of philosophers.[3] And I think that
+if we can agree sufﬁciently about that, we will also agree that the same people can have both qualities, and that they alone should be leaders in cities.
 
 GLAUCON: How so?
 
-SOCRATES: Let’s agree that philosophic natures always love the sort of
-learning that makes clear to them some feature of the being4 that always is
-(b)
+(b) SOCRATES: Let’s agree that philosophic natures always love the sort of
+learning that makes clear to them some feature of the being[4] that always is
 and does not wander around between coming-to-be and decaying.
 
 GLAUCON: Yes, let’s.
 
-SOCRATES: And further, let’s agree that they love all of it and are not will-
-ing to give up any part, whether large or small, signiﬁcant or insigniﬁcant,
-just like the honor-lovers and passionate men we described before.5
+SOCRATES: And further, let’s agree that they love all of it and are not willing to give up any part, whether large or small, signiﬁcant or insigniﬁcant,
+just like the honor-lovers and passionate men we described before.[5]
 GLAUCON: That’s right.
 
 SOCRATES: Consider next whether there is a further feature they must have
@@ -85,21 +76,12 @@ SOCRATES: Consider next whether there is a further feature they must have
 GLAUCON: What?
 
 SOCRATES: Truthfulness; that is to say they must never willingly tolerate
-falsehood in any form. On the contrary, they must hate it and have a natu-
-ral affection for the truth.
+falsehood in any form. On the contrary, they must hate it and have a natural affection for the truth.
 
 GLAUCON: They probably should have that feature.
 
-[2]: See 539e2–540c2, 581c10–583a11.
-
-[3]: See 474b3–c3.
-
-[4]: See Glossary of Terms s.v. being.
-
-[5]: See 474d3–475b2.
-
 SOCRATES: But it is not only probable, my friend; it is entirely necessary for
-(a) naturally passionate man to love everything akin to or related to the boys
+a naturally passionate man to love everything akin to or related to the boys
 he loves.
 
 GLAUCON: That’s right.
@@ -126,17 +108,16 @@ another channel.
 
 GLAUCON: Of course.
 
-SOCRATES: Then when a person’s desires ﬂow toward learning and every-
-thing of that sort, they will be concerned, I imagine, with the pleasures that
+SOCRATES: Then when a person’s desires ﬂow toward learning and everything of that sort, they will be concerned, I imagine, with the pleasures that
 the soul experiences just by itself, and will be indifferent to those that come
-(a) through the body—if indeed the person is not a counterfeit, but rather
-true, philosopher.6
-(e)
+through the body—if indeed the person is not a counterfeit, but rather a
+true, philosopher.[6] (e)
+
 GLAUCON: That’s entirely inevitable.
-(a) SOCRATES: A person like that will be temperate, then, and in no way
+
+SOCRATES: A person like that will be temperate, then, and in no way a
 lover of money. After all, money and the big expenditures that go along
-with it are sought for the sake of things that other people may take seri-
-ously, but that he does not.
+with it are sought for the sake of things that other people may take seriously, but that he does not.
 
 GLAUCON: That’s right.
 
@@ -151,10 +132,8 @@ always reaching out to grasp all things as a whole, whether divine or human.
 
 GLAUCON: That’s absolutely true.
 
-[6]: See Phaedo 64c10–67c3.
-
 SOCRATES: And do you imagine that a thinker who is high-minded
-(a) enough to look at all time and all being will consider human life to be
+enough to look at all time and all being will consider human life to be a
 very important thing?
 
 GLAUCON: He couldn’t possibly.
@@ -164,17 +143,17 @@ SOCRATES: Then he won’t consider death to be a terrible thing either,
 
 GLAUCON: Not in the least.
 
-SOCRATES: Then a cowardly and illiberal nature could not partake, appar-
-ently, in true philosophy.
+SOCRATES: Then a cowardly and illiberal nature could not partake, apparently, in true philosophy.
 
 GLAUCON: Not in my opinion.
 
 SOCRATES: Well, then, is there any way that an orderly person, who is not
 money-loving, illiberal, a lying imposter, or a coward, could come to drive
-(a) hard bargain or be unjust?
+a hard bargain or be unjust?
 
 GLAUCON: There is not.
-(a) SOCRATES: Moreover, when you are considering whether someone has
+
+SOCRATES: Moreover, when you are considering whether someone has a
 philosophic soul or not, you will consider whether he is just and gentle,
 right from the time he is young, or unsociable and savage.
 
@@ -185,7 +164,7 @@ GLAUCON: What?
 
 SOCRATES: Whether he is a slow learner or a fast one. Or do you expect
 someone to love something sufﬁciently well when it pains him to do it and
-(a) lot of effort brings only a small return?
+a lot of effort brings only a small return?
 
 GLAUCON: No, it could not happen.
 
@@ -216,17 +195,17 @@ or to what is proportionate?
 GLAUCON: To what is proportionate.
 
 SOCRATES: Then, in addition to those other things, let’s look for a mind
-that has a natural sense of proportion and grace, one whose innate disposi-
-tion makes it easy to lead to the form of each thing which is.
+that has a natural sense of proportion and grace, one whose innate disposition makes it easy to lead to the form of each thing which is.
 
 GLAUCON: Indeed.
+
 (e) SOCRATES: Well, then, do you think the properties we have gone through
-(a) aren’t interconnected, or that any of them is in any way unnecessary to
+aren’t interconnected, or that any of them is in any way unnecessary to a
 soul that is going to have a sufﬁciently complete grasp of what is?
 (487a) GLAUCON: No, they are all absolutely necessary.
-(a) SOCRATES: Is there any criticism you can ﬁnd, then, of a pursuit that
-person cannot practice adequately unless he is naturally good at remember-
-ing, quick to learn, high-minded, graceful, and a friend and relative of
+
+SOCRATES: Is there any criticism you can ﬁnd, then, of a pursuit that a
+person cannot practice adequately unless he is naturally good at remembering, quick to learn, high-minded, graceful, and a friend and relative of
 truth, justice, courage, and temperance?
 
 GLAUCON: Not even Momus could criticize a pursuit like that.
@@ -269,24 +248,22 @@ ADEIMANTUS: How, then, can it be right to say that there will be no end
 cities—rule in them?
 
 SOCRATES: The question you ask needs to be answered by means of an
-image.7
+image.[7]
 
 ADEIMANTUS: And you, of course, are not used to speaking in images!
 
-SOCRATES: So! After landing me with a claim that is so difﬁcult to estab-
-(488a) lish, are you mocking me, too? Anyway, listen to my image, and you will
+(488a) SOCRATES: So! After landing me with a claim that is so difﬁcult to establish, are you mocking me, too? Anyway, listen to my image, and you will
 appreciate all the more how I have to strain to make up images.What the
 best philosophers experience in relation to cities is so difﬁcult to bear that
-there is no other single experience like it. On the contrary, one must con-
-struct one’s image and one’s defense of these philosophers from many
-sources, just as painters paint goat-stags by combining the features of differ-
-ent things.
+there is no other single experience like it. On the contrary, one must construct one’s image and one’s defense of these philosophers from many
+sources, just as painters paint goat-stags by combining the features of different things.
 
 Imagine, then, that the following sort of thing happens either on one
 ship or on many. The shipowner is taller and stronger than everyone else
 (b) on board. But he is hard of hearing, he is a bit shortsighted, and his
-knowledge of seafaring is correspondingly deﬁcient. The sailors are quar-
-reling with one another about captaincy.8 Each of them thinks that he
+knowledge of seafaring is correspondingly deﬁcient. The sailors are quarreling with one another about captaincy.[8] 
+
+Each of them thinks that he
 should captain the ship, even though he has not yet learned the craft and
 cannot name his teacher or a time when he was learning it. Indeed, they
 go further and claim that it cannot be taught at all, and are even ready to
@@ -294,20 +271,15 @@ cut to pieces anyone who says it can.They are always crowding around the
 (c) shipowner himself, pleading with him, and doing everything possible to
 get him to turn the rudder over to them. And sometimes, if they fail to
 persuade him and others succeed, they execute those others or throw
-them overboard. Then, having disabled their noble shipowner with man-
-dragora9 or drink or in some other way, they rule the ship, use up its cargo
+them overboard. 
 
-drinking and feasting, and make the sort of voyage you would expect of
+Then, having disabled their noble shipowner with mandragora[9] or drink or in some other way, they rule the ship, use up its cargo drinking and feasting, and make the sort of voyage you would expect of
 such people. In addition, they praise anyone who is clever at persuading or
 forcing the shipowner to let them rule, calling him a “sailor,” a “skilled
 (d) captain,” and “an expert about ships” while dismissing anyone else as a
-[7]: Eikos: also, likeness.
+good-for-nothing. 
 
-[8]: See Glossary of Terms s.v. captain.
-
-[9]: An intoxicant.
-
-good-for-nothing. They do not understand that a true captain must pay
+They do not understand that a true captain must pay
 attention to the seasons of the year, the sky, the stars, the winds, and all that
 pertains to his craft if he is really going to be expert at ruling a ship. As for
 how he is going to become captain of the ship, whether people want him
@@ -340,8 +312,7 @@ at the doors of the rich.The man who came up with that bit of sophistry
 was lying.10 What is truly natural is for the sick person, rich or poor, to go
 (c) to doctors’ doors, and for anyone who needs to be ruled to go to the doors
 of the one who can rule him. It is not for the ruler—if he is truly any
-use—to beg the subjects to accept his rule.Tell him he will make no mis-
-(a) take if he likens our present political rulers to the sailors we mentioned
+use—to beg the subjects to accept his rule.Tell him he will make no mistake if he likens our present political rulers to the sailors we mentioned a
 moment ago, and those who are called useless stargazers by them to the
 true ship’s captains.
 
@@ -352,13 +323,8 @@ easy for the best pursuit to be highly honored by those whose pursuits are its
 very opposites. But by far the greatest and most serious slander is brought
 (d) on philosophy by those who claim to practice it—the ones about whom the
 prosecutor of philosophy declares, as you put it, that the majority of those
-
-[10]: Aristotle, Rhetoric 1391a7–12, says that when Simonides was asked whether it was
-better to be rich or wise, he replied:“Rich—because the wise spend their time at the
-doors of the rich.”
-
 who take it up are completely bad, while the best ones are useless. And I
-admitted that what you said was true, didn’t I?[^11]
+admitted that what you said was true, didn’t I?[11]
 
 ADEIMANTUS: Yes.
 
@@ -372,12 +338,11 @@ greater number are bad, and try to show, if we can, that philosophy is not
 
 ADEIMANTUS: Certainly.
 
-SOCRATES: Then let’s begin our dialogue by recalling the starting point of
-(a) our description of the nature that someone must have if he is to become
-ﬁne and good person. First of all, if you remember, he was led by truth,12
-(490a)
+(490a) SOCRATES: Then let’s begin our dialogue by recalling the starting point of
+our description of the nature that someone must have if he is to become a
+ﬁne and good person. First of all, if you remember, he was led by truth,[12]
 and he had to follow it wholeheartedly and unequivocally, on pain of being
-(a) lying imposter with no share at all in true philosophy.
+a lying imposter with no share at all in true philosophy.
 
 ADEIMANTUS: That’s what we said.
 
@@ -390,8 +355,8 @@ SOCRATES: So, won’t it be reasonable, then, for us to plead in his defense
 that a real lover of learning naturally strives for what is? He does not linger
 (b) over each of the many things that are believed to be, but keeps on going,
 without losing or lessening his passion, until he grasps what the nature of
-each thing itself is13 with the part of his soul that is ﬁtted to grasp a thing of
-that sort because of its kinship with it.14 Once he has drawn near to it, has
+each thing itself is[13] with the part of his soul that is ﬁtted to grasp a thing of
+that sort because of its kinship with it.[14] Once he has drawn near to it, has
 intercourse with what really is, and has begotten understanding and truth,
 he knows, truly lives, is nourished, and—at that point, but not before—is
 relieved from his labor pains.
@@ -401,15 +366,9 @@ ADEIMANTUS: Nothing could be more reasonable.
 SOCRATES: Well, then, will a person of that sort love falsehood or, in
 completely opposite fashion, will he hate it?
 (c) ADEIMANTUS: He will hate it.
-(a) SOCRATES: And if truth led the way, we would never say, I imagine, that
+
+SOCRATES: And if truth led the way, we would never say, I imagine, that a
 chorus of evils could follow it.
-[11]: 487d10.
-[12]: 485c3.
-
-[13]: Autou ho estin hekastou tês phuseôs: literally, “the what it is of the nature of each
-thing itself.” See Glossary of Terms s.v. what it is.
-
-[14]: See 611e1–612a6.
 
 ADEIMANTUS: Of course not.
 
@@ -422,7 +381,7 @@ SOCRATES: What need is there, then, to go back to the beginning and
 compel the rest of the philosophic nature’s chorus to line up all over again?
 
 You surely remember that courage, high-mindedness, ease in learning, and
-(a) good memory all belong to philosophers.Then you objected that anyone
+a good memory all belong to philosophers.Then you objected that anyone
 would be compelled to agree with what we are saying, but that if he left the
 (d) arguments aside and looked at the very people the argument is about, he
 would say that some of those he saw were useless, while the majority of
@@ -431,24 +390,23 @@ we have arrived now at this question: why are the majority of them bad?
 
 And that is why we have again taken up the nature of the true philosophers
 and deﬁned what it necessarily has to be.
+
 (e) ADEIMANTUS: That’s right.
 
 SOCRATES: What we now have to do is look at the ways this nature gets
 corrupted; how it gets completely destroyed in the majority of cases, while
-(a) small number escape—the very ones that are called useless, rather than
+a small number escape—the very ones that are called useless, rather than
 bad. After that, we must next look at those who imitate this nature and
-(a) (491a) adopt its pursuit.We must see what natures the souls have that enter into
+(491a) adopt its pursuit.We must see what natures the souls have that enter into a
 pursuit that is too valuable and too high for them—souls that, by often
 striking false notes, give philosophy the reputation that you said it has with
 everyone everywhere.
 
 ADEIMANTUS: What sorts of corruption do you mean?
 
-SOCRATES: I will try to explain them to you if I can. I imagine that every-
-one would agree with us about this: the sort of nature that possesses all the
-qualities we prescribed just now for the person who is going to be a com-
-(b) plete philosopher, is seldom found among human beings, and there will be
-few who possess it. Or don’t you think so?
+(b) SOCRATES: I will try to explain them to you if I can. I imagine that everyone would agree with us about this: the sort of nature that possesses all the
+qualities we prescribed just now for the person who is going to be a complete philosopher, is seldom found among human beings, and there will be
+few who possess it. Or don’t you think so? 
 
 ADEIMANTUS: I most certainly do.
 
@@ -469,8 +427,7 @@ also corrupt it and drag it away—beauty, wealth, physical strength, powerful
 family connections in the city, and all that goes along with these. You
 understand the general pattern of thing I mean?
 
-ADEIMANTUS: I do, and I would be glad to acquire a more precise under-
-standing of it.
+ADEIMANTUS: I do, and I would be glad to acquire a more precise understanding of it.
 
 SOCRATES: Grasp the general principle correctly and the matter will
 become clear to you, and what I said about it before won’t seem so strange.
@@ -495,32 +452,27 @@ upbringing? Or that a weak nature is ever responsible for great good things
 or great bad ones?
 
 ADEIMANTUS: No, you are right.
-(492a) SOCRATES: Well, then, if the nature we proposed for the philosopher hap-
-pens to receive the proper instruction, I imagine it will inevitably grow to
+(492a) SOCRATES: Well, then, if the nature we proposed for the philosopher happens to receive the proper instruction, I imagine it will inevitably grow to
 attain every virtue. But if it is not sown, planted, and grown in a suitable
 environment, it will develop in entirely the opposite way, unless some god
 comes to its aid. Or do you too believe, as the masses do, that some young
-people are corrupted by sophists—that there are sophists, private individu-
-als, who corrupt them to a signiﬁcant extent? Isn’t it, rather, the very peo-
-ple who say this who are the greatest sophists of all, who educate most
+people are corrupted by sophists—that there are sophists, private individuals, who corrupt them to a signiﬁcant extent? Isn’t it, rather, the very people who say this who are the greatest sophists of all, who educate most
 (b) effectively and produce young and old men and women of just the sort
 they want?
 
 ADEIMANTUS: When do they do that?
 
-SOCRATES: When many of them sit together in assemblies, courts, the-
-aters, army camps, or any other gathering of a majority in public and, with
-(a) loud uproar, object excessively to some of the things that are said or
+(c) SOCRATES: When many of them sit together in assemblies, courts, theaters, army camps, or any other gathering of a majority in public and, with
+a loud uproar, object excessively to some of the things that are said or
 done, then approve excessively of others, shouting and clapping; and
-
-when, in addition to these people themselves, the rocks and the surround-
-(a) (c) ing space itself echo and redouble the uproar of their praise or blame. In
+when, in addition to these people themselves, the rocks and the surrounding space itself echo and redouble the uproar of their praise or blame. In a
 situation like that, how do you think—as the saying goes—a young man’s
-heart is affected?15 How will whatever sort of private education he received
+heart is affected?[15] How will whatever sort of private education he received
 hold up for him, and not get swept away by such praise and blame, and go
 be carried off by the ﬂood wherever it goes, so that he will call the same
 things beautiful or ugly as these people, practice what they practice, and
 become like them?
+
 (d) ADEIMANTUS: The compulsion to do so will be enormous, Socrates.
 
 SOCRATES: And yet we have not mentioned the greatest compulsion of all.
@@ -538,13 +490,10 @@ do you think will oppose these and prove stronger?
 (e) ADEIMANTUS: None, I imagine.
 
 SOCRATES: No, indeed, even to try would be very foolish.You see, there
-is not now, never has been, nor ever will be, a character whose view of vir-
-tue goes contrary to the education these provide. I mean a human charac-
-ter, comrade—the divine, as the saying goes, is an exception to the rule.
+is not now, never has been, nor ever will be, a character whose view of virtue goes contrary to the education these provide. I mean a human character, comrade—the divine, as the saying goes, is an exception to the rule.
 
 You may be sure that if anything is saved and turns out well in the political
-(493a) systems that exist now, you won’t be mistaken in saying that divine provi-
-dence saved it.
+(493a) systems that exist now, you won’t be mistaken in saying that divine providence saved it.
 
 ADEIMANTUS: That is what I think, too.
 
@@ -553,19 +502,14 @@ SOCRATES: Well, then, you should also agree to this.
 ADEIMANTUS: What?
 
 SOCRATES: Each of those private wage-earners—the ones these people
-call sophists and consider to be their rivals in craft16—teaches anything
+call sophists and consider to be their rivals in craft[16]—teaches anything
 other than the convictions the masses hold when they are assembled
 together, and this he calls wisdom. It is just as if someone were learning
 the passions and appetites of a huge, strong beast that he is rearing—how
 (b) to approach and handle it, when it is most difﬁcult to deal with or most
 docile and what makes it so, what sounds it utters in either condition, and
 what tones of voice soothe or anger it. Having learned all this through
-[15]: See Homer, Iliad 24.367.
-
-[16]: I.e., rivals in the craft of teaching virtue. See Apology 24c–25c, Protagoras 317e–
-328d, and Glossary of Terms s.v. sophist.
-
-associating and spending time17 with the beast, he calls this wisdom, gathers
+associating and spending time[17] with the beast, he calls this wisdom, gathers
 his information together as if it were a craft, and starts to teach it. Knowing
 nothing in reality about which of these convictions or appetites is ﬁne or
 (c) shameful, good or bad, just or unjust, he uses all these terms in conformity
@@ -584,11 +528,10 @@ believes that wisdom is understanding the passions and pleasures of the
 painting, music, or politics for that matter? For if a person associates with
 the masses and exhibits his poetry or some other piece of craftsmanship to
 them or his service to the city, and gives them mastery over him to any
-degree beyond what is unavoidable, he will be under Diomedean com-
-pulsion,18 as it is called, to produce the things of which they approve. But
-that such things are truly good and beautiful—have you ever heard any-
-one presenting an argument for that conclusion that was not absolutely
+degree beyond what is unavoidable, he will be under Diomedean compulsion,[18] as it is called, to produce the things of which they approve. But
+that such things are truly good and beautiful—have you ever heard anyone presenting an argument for that conclusion that was not absolutely
 ridiculous?
+
 (e) ADEIMANTUS: No, and I do not suppose I ever will.
 
 SOCRATES: So then, bearing all that in mind, recall our earlier question:
@@ -602,8 +545,7 @@ SOCRATES: It is impossible, then, for the majority to be philosophic.
 
 ADEIMANTUS: It is impossible.
 
-SOCRATES: And so, those who practice philosophy are inevitably dispar-
-aged by them?
+SOCRATES: And so, those who practice philosophy are inevitably disparaged by them?
 
 ADEIMANTUS: Inevitably.
 
@@ -612,16 +554,8 @@ majority and want to please them.
 
 ADEIMANTUS: Clearly.
 
-[17]: Chronou tribê: On the distinction between a craft (technê) and an experience-based
-knack (tribê, empeiria), see Gorgias 462b–465a.
-
-[18]: An inescapable compulsion.The origin of the phrase is uncertain.
-
-SOCRATES: On the basis of these facts, then, do you see any way to pre-
-serve a philosophic nature and ensure that it will continue to practice phi-
-losophy and reach the end? Consider the question in light of what we said
-(b) before.We agreed that ease in learning, a good memory, courage, and high-
-mindedness belong to the philosophic nature.
+SOCRATES: On the basis of these facts, then, do you see any way to preserve a philosophic nature and ensure that it will continue to practice philosophy and reach the end? Consider the question in light of what we said
+(b) before.We agreed that ease in learning, a good memory, courage, and high-mindedness belong to the philosophic nature.
 
 ADEIMANTUS: Yes.
 
@@ -648,7 +582,7 @@ and noble, and if he is good-looking and tall as well? Won’t he be ﬁlled
 with an impractical expectation and think himself capable of managing the
 affairs, not only of the Greeks, but of the barbarians, too? And won’t he
 (d) exalt himself to great heights, as a result, and be brimming with pretension
-and empty, senseless pride?19
+and empty, senseless pride?[19]
 ADEIMANTUS: He certainly will.
 
 SOCRATES: Now, suppose someone gently approaches a young man in
@@ -665,20 +599,18 @@ afﬁnity for such arguments, he somehow sees the point and is turned
 will do if they believe that they are losing his services and companionship?
 
 Is there anything they won’t do or say in his regard to prevent him from
-[19]: Plato seems to have had Alcibiades in mind here and in what follows. See Alcibiades
-104a–c, 105b–c, Symposium 215d–216d. Alcibiades’ extraordinary career is described
-in Thucydides, Books 6–8.
-
 being persuaded? Or anything they won’t do or say in regard to his per-
 suader to prevent him from succeeding, whether it is in private plots or
-public court cases?20
+public court cases?[20]
+
 (495a) ADEIMANTUS: There certainly is not.
 
 SOCRATES: Then is there any chance that such a person will practice phi-
 losophy?
 
 ADEIMANTUS: None at all.
-(a) SOCRATES: Do you see, then, that we weren’t wrong to say that when
+
+SOCRATES: Do you see, then, that we weren’t wrong to say that when a
 philosophic nature is badly brought up, its very components—together
 with the other so-called goods, such as wealth and every provision of that
 sort—are somehow the cause of its falling away from the pursuit?
@@ -690,9 +622,7 @@ the sort of destruction and corruption that the nature best suited for the
 (b) noblest pursuit undergoes. And such a nature is a rare occurrence anyway,
 we claim. Moreover, men who possess it are the ones that do the worst
 things to cities and individuals, and also—if they happen to be swept that
-way by the current21—the greatest good. For a petty nature never does any-
-
-thing great, either to a private individual or a city.
+way by the current[21]—the greatest good. For a petty nature never does anything great, either to a private individual or a city.
 
 ADEIMANTUS: That’s very true.
 
@@ -717,10 +647,6 @@ losophy still has a grander reputation. And that is what many people are
 aiming at, people with defective natures, whose souls are as cramped and
 (e) spoiled by their menial tasks as their bodies are warped by their crafts and
 occupations. Isn’t that inevitably what happens?
-
-[20]: The trial of Socrates in 399 BCE is the obvious case in point.
-
-[21]: See 485d.
 
 ADEIMANTUS: It certainly is.
 
@@ -756,7 +682,7 @@ some might be held back by the bridle that restrains our friend Theages—
 you see, he meets all the other conditions needed to make him fall away
 (c) from philosophy, but his physical illness keeps him out of politics and pre-
 vents it. Finally, my own case is hardly worth mentioning—my daimonic
-(a) sign22—since I don’t suppose it has happened to anyone else or to only
+sign[22]—since I don’t suppose it has happened to anyone else or to only a
 few before. Now, those who have become members of this little group
 have tasted how sweet and blessed a possession philosophy is. At the same
 time, they have also seen the insanity of the masses and realized that there is
@@ -766,11 +692,7 @@ before he could proﬁt either their city or his friends, and be useless both to
 himself and to others—like a man who has fallen among wild animals and
 is neither willing to join them in doing injustice nor sufﬁciently strong to
 oppose the general savagery alone. Taking all this into his calculations, he
-(a) keeps quiet and does his own work, like someone who takes refuge under
-
-[22]: See Plato, Apology 31c–32a, where Socrates explains that his daimonion has kept
-him out of politics.
-
+keeps quiet and does his own work, like someone who takes refuge under a
 little wall from a storm of dust or hail driven by the wind. Seeing others
 ﬁlled with lawlessness, the philosopher is satisﬁed if he can somehow lead
 (e) his present life pure of injustice and impious acts, and depart from it with
@@ -778,7 +700,8 @@ good hope, blameless and content.
 
 ADEIMANTUS: Well, that is no small thing for him to have accomplished
 (497a) before departing.
-(a) SOCRATES: But no very great one either, since he did not chance upon
+
+SOCRATES: But no very great one either, since he did not chance upon a
 suitable constitution. In a suitable one, his own growth will be fuller and he
 will save the community, as well as himself. Anyway, it seems to me that we
 have now said enough about the slander brought against philosophy and
@@ -800,7 +723,7 @@ ADEIMANTUS: You are wrong there.You see, I was not going to ask that,
 but whether it was the constitution we described when we were founding
 our city or a different one.
 
-SOCRATES: In all other respects, it is that one. But we said even then23 that
+SOCRATES: In all other respects, it is that one. But we said even then[23] that
 there must always be some people in the city who have a rational account
 (d) of the constitution, the same one that guided you, the lawgiver, when you
 made the laws.
@@ -819,7 +742,6 @@ SOCRATES: How a city can engage in philosophy without being destroyed.
 You see, all great things are prone to fall and, as the saying goes, beautiful
 things are really difﬁcult.
 
-[23]: See 412a–b, which gives a hint of this need.
 
 ADEIMANTUS: All the same, the demonstration won’t be complete until
 (e) this has been cleared up.
@@ -835,14 +757,14 @@ SOCRATES: At present, those who take it up at all do so as young men, just
 out of childhood, who have yet to take up household management and
 (498a) moneymaking. Then, just when they reach the most difﬁcult part they
 abandon it and are regarded as the most fully trained philosophers. By the
-most difﬁcult part, I mean the one concerned with arguments.24 In later
+most difﬁcult part, I mean the one concerned with arguments.[24] In later
 life, if others are engaged in it and they are invited and deign to listen to
 them, they think they have done a lot, since they think this should only be
-(a) sideline. And, with a few exceptions, by the time they reach old age they
+a sideline. And, with a few exceptions, by the time they reach old age they
 are more thoroughly extinguished than the sun of Heraclitus, since they are
-never rekindled.25
-(b)
-ADEIMANTUS: What should they do instead?
+never rekindled.[25]
+
+(b) ADEIMANTUS: What should they do instead?
 
 SOCRATES: Entirely the opposite. As young men and children, they should
 occupy themselves with an education and philosophy suitable to the young.
@@ -865,12 +787,7 @@ SOCRATES: Please do not try to raise a quarrel between me and Thrasyma-
 chus just as we have become friends—not that we were enemies before.
 (d) You see, we won’t relax our efforts until we convince him and the others—
 or at least do something that may beneﬁt them in a later incarnation when,
-reborn, they happen upon these arguments again.26
-[24]: I.e., dialectic.
-
-[25]: Heraclitus’ sun was extinguished at night but rekindled the next morning.
-
-[26]: See 614b ff.
+reborn, they happen upon these arguments again.[26]
 
 ADEIMANTUS: You are talking about the short term, I see!
 
@@ -878,7 +795,7 @@ SOCRATES: It is certainly nothing compared to the whole of time! How-
 ever, it is no wonder that the masses are not convinced by our arguments. I
 mean, they have never seen a man that matched our plan—though they
 (e) have more often seen words purposely chosen to rhyme with one another
-than just happening to do so as in the present case.27 But a man who, as far
+than just happening to do so as in the present case.[27] But a man who, as far
 as possible, matched and rhymed with virtue in word and deed, and
 wielded dynastic power in a city of the same type—that is something they
 (499a) have never seen even once. Or do you think they have?
@@ -917,10 +834,6 @@ impossible for this to happen, so we are not speaking of impossibilities—
 that it is difﬁcult, we agree ourselves.
 
 ADEIMANTUS: I certainly think so.
-
-[27]: Plato is mocking the rhetoricians who were fond of forced rhyme. His own words
-ou gar pôpote eidon genomenon to nun legomenon—“they’ve never seen anything come
-into existence that matches our account”—exhibit the phenomenon he is mocking.
 
 SOCRATES: But the masses do not—is that what you are going to say?
 
@@ -998,9 +911,10 @@ ADEIMANTUS: Of course.
 SOCRATES: And I suppose that, as they work, they would look often in
 (b) each direction: on the one hand, toward what is in its nature just, beautiful,
 temperate, and all the rest; and, on the other, toward what they are trying
-(a) to put into human beings, mixing and blending pursuits to produce
+to put into human beings, mixing and blending pursuits to produce a
 human likeness, based on the one that Homer too called divine and godly
-when it appeared among human beings.28
+when it appeared among human beings.[28]
+
 ADEIMANTUS: Right.
 
 SOCRATES: They would erase one thing, I suppose, and draw in another,
@@ -1022,8 +936,6 @@ ADEIMANTUS: That would be silly.
 SOCRATES: Or that their nature, as we have described it, is akin to the best?
 
 ADEIMANTUS: They cannot deny that either.
-
-[28]: See, e.g., Iliad 1.131.
 
 SOCRATES: Or that such a nature, when it happens to ﬁnd appropriate
 pursuits, will not be as completely good and philosophic as any other? Or
@@ -1097,7 +1009,7 @@ children, and establishing rulers, because I knew the whole truth would
 provoke resentment and would be difﬁcult to bring about.As it turned out,
 the need to discuss them arose anyway. Now, the subject of women and
 (e) children has already been discussed. But that of the rulers has to be taken
-up again from the beginning. We said,29 if you remember, that they must
+up again from the beginning. We said,[29] if you remember, that they must
 (503a) show themselves to be lovers of the city, when tested by pleasures and
 pains, by not abandoning this conviction through labors, fears, and all other
 adversities. Anyone who was incapable of doing so was to be rejected,
@@ -1119,14 +1031,11 @@ SOCRATES: Bear in mind, then, that there will probably be only a few of
 them.You see, they have to have the nature we described, and its parts
 rarely consent to grow together in one person; rather, its many parts grow
 split off from one another.
+
 (c) ADEIMANTUS: How do you mean?
 
 SOCRATES: Ease of learning, good memory, astuteness, and smartness, as
-you know, and all the other things that go along with them, such as youth-
-ful passion and high-mindedness, are rarely willing to grow together simul-
-taneously with a disposition to live an orderly, quiet, and completely stable
-[29]: At 412b–414a.The conviction referred to is identiﬁed at 412e6.
-
+you know, and all the other things that go along with them, such as youthful passion and high-mindedness, are rarely willing to grow together simultaneously with a disposition to live an orderly, quiet, and completely stable
 life. On the contrary, those who possess the former traits are carried by
 their quick wits wherever chance leads them, and have no stability at all.
 
@@ -1135,9 +1044,7 @@ ADEIMANTUS: That’s true.
 SOCRATES: Those with stable characters, on the other hand, who do not
 change easily, whom one would employ because of their greater reliability,
 (d) and who in battle are not easily moved by fears, act in the same way when
-it comes to their studies.They are hard to get moving and learn with difﬁ-
-culty, as if they are anesthetized, and are constantly falling asleep and yawn-
-ing whenever they have to work hard at such things.
+it comes to their studies.They are hard to get moving and learn with difﬁculty, as if they are anesthetized, and are constantly falling asleep and yawning whenever they have to work hard at such things.
 
 ADEIMANTUS: They are.
 
@@ -1151,8 +1058,7 @@ SOCRATES: Then don’t you think this will rarely occur?
 
 ADEIMANTUS: Of course.
 (e) SOCRATES: He must be tested, then, in the labors, fears, and pleasures we
-mentioned before. He must also be exercised in many other subjects, how-
-ever, which we did not mention but are adding now, to see whether his
+mentioned before. He must also be exercised in many other subjects, however, which we did not mention but are adding now, to see whether his
 nature can endure the most important subjects or will shrink from them
 (504a) like the cowards who shrink from the other tests.
 
@@ -1161,47 +1067,45 @@ mean by the most important subjects?
 
 SOCRATES: Do you remember when we distinguished three kinds of
 things in the soul in order to help bring out what justice, temperance,
-courage, and wisdom each is?30
+courage, and wisdom each is?[30]
 ADEIMANTUS: If I didn’t, I would not deserve to hear the rest.
 
 SOCRATES: Do you also remember what preceded it?
 
 ADEIMANTUS: No, what?
+
 (b) SOCRATES: We said, I believe, that in order to get the ﬁnest view of these
 matters, we would need to take a longer road, which would make them
 plain to anyone who took it, but that it was possible to give demonstrations
-that would be up to the standard of the previous discussion.31 All of you
+that would be up to the standard of the previous discussion.[31] All of you
 said that was enough. The result was that our subsequent discussion, as it
 seemed to me, was less than exact. But whether or not it satisﬁed all of you
 is for you to say.
-[30]: 434d–444e.
-[31]: 435d.
 
 ADEIMANTUS: I, at any rate, thought you gave us good measure. And so,
 apparently, did the others.
+
 (c) SOCRATES: No, my friend, any measure of such things that falls short in
-(a) any way of what is, is not good measure at all, since nothing incomplete is
-measure of anything. Some people, however, are occasionally of the opin-
-ion that an incomplete treatment is already adequate and that there is no
+any way of what is, is not good measure at all, since nothing incomplete is a
+measure of anything. Some people, however, are occasionally of the opinion that an incomplete treatment is already adequate and that there is no
 need for further inquiry.
 
 ADEIMANTUS: Yes, a lot of people feel like that. Laziness is the cause.
-(a) SOCRATES: Well, that is a feeling that is least appropriate in a guardian of
+
+SOCRATES: Well, that is a feeling that is least appropriate in a guardian of a
 city and its laws.
 
 ADEIMANTUS: No doubt.
 
 SOCRATES: He will have to take the longer road then, comrade, and put
 (d) no less effort into learning than into physical training. For otherwise, as we
-were just saying, he will never pursue the most important and most appro-
-priate subject to the end.
+were just saying, he will never pursue the most important and most appropriate subject to the end.
 
 ADEIMANTUS: Why, aren’t these virtues the most important things? Is
 there something yet more important than justice and the other virtues we
 discussed?
 
-SOCRATES: Not only is it more important, but, even in the case of the vir-
-tues themselves, it is not enough to look at a mere sketch as we are doing
+SOCRATES: Not only is it more important, but, even in the case of the virtues themselves, it is not enough to look at a mere sketch as we are doing
 now, while neglecting the most ﬁnished portrait. I mean, it is ridiculous,
 isn’t it, to strain every nerve to attain the utmost exactness and clarity about
 (e) other things of little value, while not treating the most important things as
@@ -1260,16 +1164,14 @@ ADEIMANTUS: Of course.
 
 SOCRATES: Well, isn’t it also clear that many people would choose
 things that are believed to be just or beautiful, even if they are not, and
-would act, acquire things, and form beliefs accordingly? Yet no one is sat-
-isﬁed to acquire things that are believed to be good. On the contrary,
+would act, acquire things, and form beliefs accordingly? Yet no one is satisﬁed to acquire things that are believed to be good. On the contrary,
 everyone seeks the things that are good. In this area, everyone disdains
 mere reputation.
 
 ADEIMANTUS: Right.
 
-SOCRATES: That, then, is what every soul pursues, and for its sake does
-everything.The soul has a hunch that the good is something, but it is puz-
-(e) zled and cannot adequately grasp just what it is or acquire the sort of stable
+(e) SOCRATES: That, then, is what every soul pursues, and for its sake does
+everything.The soul has a hunch that the good is something, but it is puzzled and cannot adequately grasp just what it is or acquire the sort of stable
 belief about it that it has about other things, and so it misses the beneﬁt, if
 any, that even those other things may give. Are we to accept that even the
 (506a) best people in the city, to whom we entrust everything, must remain thus
@@ -1279,12 +1181,12 @@ ADEIMANTUS: That’s the last thing we would do.
 
 SOCRATES: Anyway, I imagine that just and ﬁne things won’t have
 acquired much of a guardian in someone who does not even know why
-they are good. And I have a hunch that no one will have adequate knowl-
-edge of them until he knows this.
+they are good. And I have a hunch that no one will have adequate knowledge of them until he knows this.
 
 ADEIMANTUS: That’s a good hunch.
-(a) SOCRATES: But won’t our constitution be perfectly ordered if such
-(b) guardian, one who knows these things, oversees it?
+
+(b) SOCRATES: But won’t our constitution be perfectly ordered if such a
+guardian, one who knows these things, oversees it?
 
 ADEIMANTUS: It is bound to be. But you yourself, Socrates, do you say the
 good is knowledge or pleasure, or is it something else altogether?
@@ -1314,18 +1216,14 @@ SOCRATES: Do you want to look at shameful, blind, and crooked things,
 
 > *And Glaucon said:*
 By Zeus, Socrates, do not stop now, with the end in sight, so to speak! We
-will be satisﬁed if you discuss the good the way you discussed justice, tem-
-perance, and the rest.
+will be satisﬁed if you discuss the good the way you discussed justice, temperance, and the rest.
 
 SOCRATES: That, comrade, would well satisfy me too, but I am afraid that
 I won’t be up to it and that I will disgrace myself and look ridiculous by
 trying. No, bless you, let’s set aside what the good itself is for the time
 (e) being.You see, even to arrive at my current beliefs about it seems beyond
-the range of our present discussion.32 But I am willing to tell you about
-what seems to be an offspring of the good and most like it, if that is agree-
-able to you; or otherwise to let the matter drop.
-
-[32]: See 532a–534d.
+the range of our present discussion.[32] But I am willing to tell you about
+what seems to be an offspring of the good and most like it, if that is agreeable to you; or otherwise to let the matter drop.
 
 GLAUCON: Tell us, then. The story about the father remains a debt you
 will pay another time.
@@ -1333,7 +1231,7 @@ will pay another time.
 just the interest. So here, then, is this child and offspring of the good itself.
 
 But take care I do not somehow deceive you unintentionally by giving you
-an illegitimate account of the child.33
+an illegitimate account of the child.[33]
 
 GLAUCON: We will take as much care as possible. So speak on.
 
@@ -1343,18 +1241,18 @@ occasions.
 (b) GLAUCON: Which things?
 
 SOCRATES: We say that there are many beautiful, many good, and many
-other such things, thereby distinguishing them in words.34
+other such things, thereby distinguishing them in words.[34]
 GLAUCON: We do.
 
 SOCRATES: We also say there is a beautiful itself and a good itself. And so,
-in the case of all the things that we then posited as many, we reverse our-
-(a) selves and posit a single form belonging to each, since we suppose there is
-single one, and call it what each is.35
+in the case of all the things that we then posited as many, we reverse ourselves and posit a single form belonging to each, since we suppose there is a single one, and call it what each is.[35]
+
 GLAUCON: That’s true.
 
 SOCRATES: And we say that the one class of things is visible but not intelligible, while the forms are intelligible but not visible.
 
 GLAUCON: Absolutely.
+
 (c) SOCRATES: With what of ours do we see visible things?
 
 GLAUCON: With our sight.
@@ -1373,20 +1271,14 @@ SOCRATES: Well, think of it this way. Do hearing and sound need another
 kind of thing in order for the former to hear and the latter to be heard—a
 (d) third thing in whose absence the one won’t hear or the other be heard?
 
-[33]: Throughout, Socrates is punning on the word tokos, which means either a child or
-the interest on capital.
-
-[34]: See 596b5–10.
-
-[35]: See Glossary of Terms s.v. what it is.
-
 GLAUCON: No.
 
 SOCRATES: And I think there cannot be many—not to say any—others
 that need such a thing. Or can you think of one?
 
 GLAUCON: No, I cannot.
-(a) SOCRATES: Aren’t you aware that sight and the visible realm have such
+
+SOCRATES: Aren’t you aware that sight and the visible realm have such a
 need?
 
 GLAUCON: In what way?
@@ -1409,12 +1301,11 @@ something without honor.
 
 GLAUCON: And it is surely far from being without honor.
 
-SOCRATES: Which of the gods in the heavens would you say is the con-
-troller of this—the one whose light makes our sight see best and visible
+SOCRATES: Which of the gods in the heavens would you say is the controller of this—the one whose light makes our sight see best and visible
 things best seen?
 
 GLAUCON: The very one you and others would name. I mean, it is clear
-that what you are asking about is the sun.36
+that what you are asking about is the sun.[36]
 SOCRATES: And isn’t sight naturally related to that god in the following
 way?
 
@@ -1441,9 +1332,8 @@ itself?
 
 GLAUCON: It is.
 
-SOCRATES: Let’s say, then, that this is what I called the offspring of the
-good, which the good begot as its analogue.What the latter is in the intelli-
-(c) gible realm in relation to understanding and intelligible things, the former
+(c) SOCRATES: Let’s say, then, that this is what I called the offspring of the
+good, which the good begot as its analogue.What the latter is in the intelligible realm in relation to understanding and intelligible things, the former
 is in the visible realm in relation to sight and visible things.
 
 GLAUCON: How? Tell me more.
@@ -1454,8 +1344,7 @@ dimmed and seem nearly blind, as if clear sight were no longer in them.
 
 GLAUCON: Of course.
 
-SOCRATES: Yet I suppose that whenever they are turned to things illumi-
-(d) nated by the sun, they see clearly and sight is manifest in those very same
+(d) SOCRATES: Yet I suppose that whenever they are turned to things illuminated by the sun, they see clearly and sight is manifest in those very same
 eyes?
 
 GLAUCON: Indeed.
@@ -1468,15 +1357,14 @@ believes and is dimmed, changes its beliefs this way and that, and seems
 bereft of understanding.
 
 GLAUCON: Yes, it does seem like that.
+
 (e) SOCRATES: You must say, then, that what gives truth to the things known
 and the power to know to the knower is the form of the good. And as the
-cause of knowledge and truth, you must think of it as an object of knowl-
-edge. Both knowledge and truth are beautiful things. But if you are to
+cause of knowledge and truth, you must think of it as an object of knowledge. Both knowledge and truth are beautiful things. But if you are to
 think correctly, you must think of the good as other and more beautiful
-than they. In the visible realm, light and sight are rightly thought to be sun-
-(509a) like, but wrongly thought to be the sun. So, here it is right to think of
+than they. In the visible realm, light and sight are rightly thought to be sunlike, but wrongly thought to be the sun. So, here it is right to think of
 knowledge and truth as goodlike, but wrong to think that either of them is
-the good—for the state of the good is yet more honored.
+the good—for the state of the good is yet more honored. (509a) 
 
 GLAUCON: It is an incredibly beautiful thing you are talking about, if it
 provides both knowledge and truth but is itself superior to them in beauty.
@@ -1500,8 +1388,9 @@ being are also due to it; although the good is not being, but something yet
 beyond being, superior to it in rank and power.
 
 > *And Glaucon quite ridiculously replied:*
-By Apollo, what daimonic hyperbole!37
-(c)
+
+By Apollo, what daimonic hyperbole![37] (c)
+
 SOCRATES: It is your own fault, you forced me to tell my beliefs about it.
 
 GLAUCON: And don’t you stop, either—at least, not until you have ﬁnished
@@ -1517,29 +1406,17 @@ is now possible, I won’t purposely omit anything.
 GLAUCON: Please don’t.
 
 SOCRATES: Then you should think, as we said, that there are these two
-(d) things, one sovereign of the intelligible kind and place, the other of the vis-
-ible—I do not say “of heaven,” so as not to seem to you to be playing the
-sophist with the name.38 In any case, do you understand these two kinds,
+(d) things, one sovereign of the intelligible kind and place, the other of the visible—I do not say “of heaven,” so as not to seem to you to be playing the
+sophist with the name.[38] In any case, do you understand these two kinds,
 visible and intelligible?
 
 GLAUCON: I do.
 
 SOCRATES: Represent them, then, by a line divided into two unequal
 sections.Then divide each section—that of the visible kind and that of the
-intelligible—in the same proportion as the line.39 In terms now of relative
+intelligible—in the same proportion as the line.[39] In terms now of relative
 (e) clarity and opacity, you will have as one subsection of the visible, images.
 (510a) By images I mean, ﬁrst, shadows, then reﬂections in bodies of water and in
-[37]: Socrates’ claim ends with the words dunamei huperechontas (“superior in . . .
-power”), Glaucon responds with the punning daimonias huperbolês. Hence the joke.
-
-[38]: The play seems to be on the similarity of sound between orano (“heaven”) and
-orato (“visible”).
-[39]:
-
-A D C E B
-[4]: 2 2 1
-VISIBLE INTELLIGIBLE
-
 all close-packed, smooth, and shiny materials, and everything of that sort.
 
 Do you understand?
@@ -1563,10 +1440,9 @@ divided.
 GLAUCON: How?
 
 SOCRATES: As follows: in one subsection, the soul, using as images the things
-that were imitated before, is forced to base its inquiry on hypotheses, proceed-
-ing not to a ﬁrst principle, but to a conclusion. In the other subsection, by
+that were imitated before, is forced to base its inquiry on hypotheses, proceeding not to a ﬁrst principle, but to a conclusion. In the other subsection, by
 contrast, it makes its way to an unhypothetical ﬁrst principle, proceeding from
-(a) hypothesis, but without the images used in the previous subsection, using
+a hypothesis, but without the images used in the previous subsection, using
 forms themselves and making its investigation through them.
 
 GLAUCON: I do not fully understand what you are saying.
@@ -1574,12 +1450,10 @@ GLAUCON: I do not fully understand what you are saying.
 SOCRATES: Let’s try again.You see, you will understand it more easily after
 (c) this explanation. I think you know that students of geometry, calculation,
 and the like hypothesize the odd and the even, the various ﬁgures, the three
-kinds of angles, and other things akin to these in each of their investiga-
-tions, regarding them as known.These they treat as hypotheses and do not
+kinds of angles, and other things akin to these in each of their investigations, regarding them as known.These they treat as hypotheses and do not
 think it necessary to give any argument for them, either to themselves or to
-others, as if they were evident to everyone. And going from these ﬁrst prin-
-(d) ciples through the remaining steps, they arrive in full agreement at the
-point they set out to reach in their investigation.
+others, as if they were evident to everyone. And going from these ﬁrst principles through the remaining steps, they arrive in full agreement at the
+point they set out to reach in their investigation. (d) 
 
 GLAUCON: I certainly know that much.
 
@@ -1596,15 +1470,16 @@ GLAUCON: That’s true.
 
 SOCRATES: This, then, is the kind of thing that I said was intelligible.The
 soul is forced to use hypotheses in the investigation of it, not traveling up to
-(a) ﬁrst principle, since it cannot escape or get above its hypotheses, but using
+a ﬁrst principle, since it cannot escape or get above its hypotheses, but using
 as images those very things of which images were made by the things below
 them, and which, by comparison to their images, were thought to be clear
 and to be honored as such.
+
 (b) GLAUCON: I understand that you mean what is dealt with in geometry and
 related crafts.
 
 SOCRATES: Also understand, then, that by the other subsection of the
-intelligible I mean what reason itself 40 grasps by the power of dialectical
+intelligible I mean what reason itself [40] grasps by the power of dialectical
 discussion, treating its hypotheses, not as ﬁrst principles, but as genuine
 hypotheses (that is, stepping stones and links in a chain), in order to arrive
 at what is unhypothetical and the ﬁrst principle of everything. Having
@@ -1615,26 +1490,18 @@ ending in forms.
 
 GLAUCON: I understand, though not adequately—you see, in my opinion
 you are speaking of an enormous task.You want to distinguish the part of
-what is and is intelligible, the part looked at by the science of dialectical dis-
-cussion, as clearer than the part looked at by the so-called sciences—those
+what is and is intelligible, the part looked at by the science of dialectical discussion, as clearer than the part looked at by the so-called sciences—those
 for which hypotheses are ﬁrst principles. And although those who look at
 the latter part are forced to do so by means of thought rather than sense
 perception, still, because they do not go back to a genuine ﬁrst principle in
 considering it, but proceed from hypotheses, you do not think that they
-(d) have true understanding of them, even though—given such a ﬁrst princi-
-ple—they are intelligible. And you seem to me to call the state of mind of
-the geometers—and the others of that sort—thought but not understand-
-ing; thought being intermediate between belief and understanding.
+(d) have true understanding of them, even though—given such a ﬁrst principle—they are intelligible. And you seem to me to call the state of mind of
+the geometers—and the others of that sort—thought but not understanding; thought being intermediate between belief and understanding.
 
-SOCRATES: You have grasped my meaning most adequately. Join me, then,
-in taking these four conditions in the soul as corresponding to the four sub-
-sections of the line: understanding dealing with the highest, thought deal-
-(e) ing with the second; assign belief to the third, and imagination to the last.
+(e) SOCRATES: You have grasped my meaning most adequately. Join me, then,
+in taking these four conditions in the soul as corresponding to the four subsections of the line: understanding dealing with the highest, thought dealing with the second; assign belief to the third, and imagination to the last.
 
 Arrange them in a proportion and consider that each shares in clarity to the
 degree that the subsection it deals with shares in truth.
 
 GLAUCON: I understand, agree, and arrange them as you say.
-
-[40]: Autos ho logos.
-

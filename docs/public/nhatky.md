@@ -33,3 +33,5 @@ Ng2: tôi đã tìm thấy điều gì đó khác biệt
 ### date: 2026-06-05
 Thêm kinh tiểu bộ
 
+### date: 2026-06-20
+Dịch kinh trung bộ pali

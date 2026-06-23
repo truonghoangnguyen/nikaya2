@@ -226,9 +226,7 @@ ADEIMANTUS: No, by Zeus, that does not seem suitable to me.
 
 SOCRATES: On the other hand, if there are any words or deeds of famous
  men that express perseverance in the face of everything, surely they must be
-seen and heard. For example, “He struck his chest and spoke to his heart:
-
-‘Bear up, my heart, you have suffered more shameful things than this.’”[25]
+seen and heard. For example, “He struck his chest and spoke to his heart: ‘Bear up, my heart, you have suffered more shameful things than this.’”[25]
 
 ADEIMANTUS: Absolutely.
 

@@ -300,9 +300,9 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | quán tâm trên tâm | quan sát tâm qua tâm của mình | |
 | quán pháp trên pháp | quan sát Điều dạy qua các Điều | |
 | tuệ tri (pajānāti) | thấy rõ; biết rõ | phân biệt được rõ ràng |
-| tưởng tri (sañjānāti) | hiểu/thấy bề mặt (về) | eg:"hiểu bề mặt về Đất" |
-| thắng tri (abhijānāti) | hiểu hết toàn bộ (về) | "hiểu hết về Đất"|
-| liễu tri (pariññāta) | hiểu biết trọn vẹn (về); nhận biết trọn vẹn (về) | "hiểu biết" nói về kiến thức; "nhận biết" khi nói về cảm giác |
+| tưởng tri (sañjānāti) | hiểu bề mặt (về) | eg:"hiểu bề mặt về Đất" |
+| thắng tri (abhijānāti) | hiểu toàn bộ (về) | "phân tích đối tượng/khái niệm thành nhiều phần nhỏ"|
+| liễu tri (pariññāta) | hiểu biết trọn vẹn (về); nhận biết trọn vẹn (về) | "hiểu biết toàn bộ đến sau khi liễu tri" |
 | chứng ngộ (sacchikātabba) | trực tiếp chứng nghiệm | |
 | vedeti | trải nghiệm trực tiếp | (thiên về cảm nhận) |
 | Tri kiến (Dassanā) | thấy rõ bản chất | |
@@ -352,18 +352,15 @@ phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (sam
 
 ### Input (Văn bản gốc):
 <input>
-# Mūlapariyāyasutta
+# Dasuttarasutta
 
-## 1. Sīlakkhandha
+## 1. Eko dhammo
 
-Āpaṁ āpato sañjānāti; āpaṁ āpato saññatvā āpaṁ maññati, āpasmiṁ maññati, āpato maññati, āpaṁ meti maññati, āpaṁ abhinandati. Taṁ kissa hetu? ‘Apariññātaṁ tassā’ti vadāmi.
+Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo.
 
-## 4. Cattāro dhammā
-
-Katame cattāro dhammā uppādetabbā? Cattāri ñāṇāni—dhamme ñāṇaṁ, anvaye ñāṇaṁ, pariye ñāṇaṁ, sammutiyā ñāṇaṁ. Ime cattāro dhammā uppādetabbā.
+Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu. Ayaṁ eko dhammo bahukāro.
 
 > “Dasuttaraṁ pavakkhāmi, dhammaṁ nibbānapattiyā; Dukkhassantakiriyāya, sabbaganthappamocanaṁ.
-
 </input>
 
 ### Output (Kết quả mong muốn):
@@ -373,31 +370,23 @@ Katame cattāro dhammā uppādetabbā? Cattāri ñāṇāni—dhamme ñāṇaṁ
 
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
-| āpa | thủy | nước | |
-| abhinandati | dục hỷ | vui thú chạy theo | |
-| apariññāta | phi liễu tri | chưa hiểu biết hoàn toàn | |
-| [!] sañjānāti | tưởng tri | nhận thức | hiểu bề mặt, hiểu bằng các tổng hợp |
-| [!] maññati | nghĩ đến | suy diễn | tạo tác trong tâm trí |
-| [BT] vimāna | thiên cung | *lâu đài cõi trời* | Dấu hiệu của văn học Vimānavatthu muộn. |
-| [BT] ñāṇāni | trí | trí | Phân loại 4 loại trí tuệ là đặc trưng của hệ thống hóa muộn. |
-| [BT] sammutiyā ñāṇaṁ | thế tục trí | hiểu biết quy ước | |
+| dhammā | pháp | Điều/quy luật | |
+| [BT] bahukāro | đa tác dụng | mang lại nhiều lợi ích | Dấu hiệu phân loại hệ thống hóa của kinh muộn. |
+| [BT] bhāvetabbo | tu tập | cần được phát triển | |
+| [BT] pariññeyyo | liễu tri | cần được hiểu biết trọn vẹn | |
+| [BT] pahātabbo | đoạn trừ | cần được từ bỏ | |
+| [BT] hānabhāgiyo | phần tổn giảm | dẫn đến suy thoái | |
 
 *Bản dịch:*
-# MN 1. KINH GỐC RỄ CỦA MỌI ĐIỀU
+# DN 34. KINH MƯỜI PHÁP
+*(Dasuttarasutta)*
 
-*(Mūlapariyāyasutta)*
+## 1. Một Điều
+*(Eko dhammo)*
 
-## 1. Nền tảng Giới
-*(Sīlakkhandha)*
+Này các hiền giả, có một *Điều* (pháp / dhammo) *mang lại nhiều lợi ích* (đa hữu ích / bahukāro), một *Điều* *cần được luyện tập* (tu tập / bhāvetabbo), một *Điều* *cần được hiểu biết trọn vẹn* (liễu tri / pariññeyyo), một *Điều* *cần được từ bỏ* (đoạn trừ / pahātabbo), một *Điều* *dẫn đến sự suy thoái* (thuộc phần thoái đọa / hānabhāgiyo), một *Điều* *dẫn đến tiến bộ* (thuộc phần thù thắng / visesabhāgiyo), một *Điều* *khó thâm nhập* (khó thông đạt / duppaṭivijjho), một *Điều* *cần được tạo ra* (sanh khởi / uppādetabbo), một *Điều* *cần được hiểu hết toàn bộ* (thắng tri / abhiññeyyo), một *Điều* *cần được trực tiếp chứng nghiệm* (chứng ngộ / sacchikātabbo).
 
-Người ấy *nhận thức* (tưởng tri / sañjānāti) Nước là Nước. Sau khi *nhận thức* Nước là Nước, người ấy *suy diễn* (nghĩ đến / maññati) về Nước; người ấy *suy diễn* [mình] ở trong Nước; người ấy *suy diễn* [mình] tách rời khỏi nước; người ấy *suy diễn* Nước là 'của tôi'; người ấy *vui thú chạy theo* (dục hỷ / abhinandati) Nước.
-Vì sao vậy? Ta nói rằng: Vì người ấy *chưa hiểu biết hoàn toàn* (phi liễu tri / apariññāta) về nó.
-
-## 4. Bốn Điều
-*(Cattāro dhammā)*
-
-Bốn *Điều* nào cần được *tạo ra* (sanh khởi / uppādetabbā)? Bốn loại *trí* (trí / ñāṇāni): trí về *Quy luật* (pháp trí / dhamme ñāṇaṁ), *trí suy luận [suy luận ra từ những trường hợp tương tự]* (tùy trí / anvaye ñāṇaṁ), *trí về biết bao quát [Hiểu biết toàn diện - thấy rõ toàn bộ một điều]* (tha tâm trí / pariye ñāṇaṁ), *trí quy ước [hiểu về quy ước xã hội]* (thế tục trí / sammutiyā ñāṇaṁ). Đây là bốn *Điều* cần được *tạo ra*.
-
+Một *Điều* nào *mang lại nhiều lợi ích*? Sự *không sao nhãng* (không phóng dật / appamādo) trong những *điều thiện* (thiện pháp / kusalesu dhammesu). Đây là một *Điều* *mang lại nhiều lợi ích*.
 
 > Tôi nói pháp đến Mười ,\
 > Pháp đưa đến Niết-bàn,\

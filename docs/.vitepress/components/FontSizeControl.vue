@@ -4,8 +4,8 @@ import { ref, watch, onMounted } from 'vue'
 // Define font size options
 const fontSizeOptions = [
   { label: 'A', value: '100%', description: 'Normal' },
-  { label: 'A', value: '125%', description: 'Medium' },
-  { label: 'A', value: '150%', description: 'Large' }
+  { label: 'A', value: '110%', description: 'Medium' },
+  { label: 'A', value: '130%', description: 'Large' }
 ]
 
 // Initialize with default font size

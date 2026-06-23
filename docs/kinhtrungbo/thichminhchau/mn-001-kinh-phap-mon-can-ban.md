@@ -129,6 +129,7 @@ bàn, vị ấy không nghĩ đến Niết-bàn, không nghĩ đến (tự ngã)
 ngã) như là Niết-bàn, không nghĩ: "Niết-bàn là của ta" - không dục hỷ Niết-bàn. Vì sao vậy? Vì vị ấy
 không có si mê, nhờ si mê đã được đoạn trừ.
 
+<!--pg-->
 ***(Ðấng Như Lai - I)***
 
 Này các Tỷ-kheo, Như Lai là bậc A-la-hán, Chánh Ðẳng Giác, thắng tri địa đại là địa đại. Vì thắng tri

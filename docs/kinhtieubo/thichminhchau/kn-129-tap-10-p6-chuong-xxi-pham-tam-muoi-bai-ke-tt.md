@@ -1166,7 +1166,7 @@ Bao la, vô hạn trước ông chồng,\
 Chớ tin nàng ấy,vì nhi nữ\
 Chung chạ như bao bến tắm sông!
 
-41 . Sẵn sàng chém giết hoặc phân thây,\
+41. Sẵn sàng chém giết hoặc phân thây,\
 Không có việc gì chẳng nhúng tay,\
 Khi đã diễn xong trò cắt cổ,\
 Chúng còn uống máu của chàng ngay!\
@@ -1214,10 +1214,10 @@ Hoặc gã giữ voi hay giữ ngựa,\
 Tuy nhiên vì bạc tiền, nhi nữ\
 Vẫn chạy theo phường hạ đẳng kia.
 
-*49. Bỏ rơi quý tộc nếu nghèo nàn,\
+49. Bỏ rơi quý tộc nếu nghèo nàn,\
 Nhưng chính tên vô loại, hạ tầng,\
 Ðối với tên này, như xác thối,\
-Nếu giàu, chúng cũng chạy nhanh chân.*
+Nếu giàu, chúng cũng chạy nhanh chân.
 
 Như vậy, Ànanda, vị thứu vương, dựa theo những sự việc do chính ngài biết, đã nói về những tính xấu của nữ giới, rồi giữ im lặng. Còn Nàrada, sau khi nghe những gì Ngài cần phải nói, cũng dựa theo những việc chính mình biết, liền kể ra những tính xấu của họ.
 
@@ -1225,10 +1225,10 @@ Như vậy, Ànanda, vị thứu vương, dựa theo những sự việc do chí
 
 – Thật vậy, lúc ấy Nàrada, khi nghe kể đoạn khởi đầu, đoạn giữa và đoạn cuối của câu chuyệnmà Ànanda, thứu vương cần phải nói ra, đến đây, liền ngâm các vần kệ này:
 
-*50. Bốn vật chẳng hề biết thỏa thuê,\
+50. Bốn vật chẳng hề biết thỏa thuê,\
 Những lời ta nói, lắng tai nghe:\
 Ðại dương, đạo sĩ và vua chúa,\
-Hỡi Ðiểu vương, và bọn nữ nhi.*
+Hỡi Ðiểu vương, và bọn nữ nhi.
 
 51. Mọi dòng trong đất gặp quê hương\
 Cũng chẳng làm đầy đủ đại dương,\
@@ -1279,10 +1279,10 @@ Biết hồng quần, phải chạy nhanh chân!
 Chúng cứ chìm dần, dần xuống mãi,\
 Những ai biết chúng, phải xa bay!
 
-*60. Bất kỳ chúng phục vụ đàn ông\
+60. Bất kỳ chúng phục vụ đàn ông\
 Vì bạc vàng, tham dục thỏa lòng,\
 Chúng đốt gã như nhiên liệu cháy\
-Ðược thả vào trong ngọn lửa hồng!*
+Ðược thả vào trong ngọn lửa hồng!
 
 Khi Nàrada đã nêu ra các tội lỗi của nữ nhân như vậy, bậc Ðại Sĩ một lần nữa dùng những thí dụ đặc biệt chứng minh các tính xấu của họ.
 
@@ -1292,10 +1292,10 @@ Khi Nàrada đã nêu ra các tội lỗi của nữ nhân như vậy, bậc Ð
 
 – Thật vậy, chim chúa Kunàla, sau khi biết phần đầu, phần giữa và phần kết thúc câu chuyện Nàrada kể, đến đây liền ngâm các vần kệ sau:
 
-*61. Người khôn dám nói một đôi lời\
+61. Người khôn dám nói một đôi lời\
 Với quỷ cầm gươm sắc mới mài,\
 Ðánh đập hung xà, song chớ bạo\
-Chuyện trò với gái một mình thôi!*
+Chuyện trò với gái một mình thôi!
 
 62. Nữ sắc làm mờ trí tục nhân,\
 Nói, cười, ca, múa, cánh tay trần\
@@ -1402,10 +1402,10 @@ Các nàng Thiên nữ ở lầu vàng\
 Tái sinh vào cõi A-la-hán,\
 Những vị đã trừ diệt dục tâm.
 
-*79. Cực lạc vượt qua mọi khổ đau,\
+79. Cực lạc vượt qua mọi khổ đau,\
 Không duyên sinh, bất động, thâm sâu,\
 Ðạt thành bởi những người thanh tịnh\
-Ðắc Niết-bàn, ly dục đã lâu.*
+Ðắc Niết-bàn, ly dục đã lâu.
 
 \*
 
@@ -1419,10 +1419,10 @@ Như vậy bậc Ðại Sĩ chấm dứt Pháp thoại sau khi làm cho hội ch
 
 *Ðến đây, bậc Ðạo Sư chấm dứt bài giảng và ngâm vần kệ cuối cùng để nhận diện Tiền thân:*
 
-*80. U-dà-yi ấy chúa Sơn ca,\
+80. U-dà-yi ấy chúa Sơn ca,\
 Linh thứu vương là À-nan-da,\
 Nà-ra-da là Xá-lợi-phất,\
-Ku-nà-la hót chính là Ta.*
+Ku-nà-la hót chính là Ta.
 
 *Các vị phải hiểu Tiền thân này như vậy.*
 

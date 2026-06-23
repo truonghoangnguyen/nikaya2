@@ -4,959 +4,961 @@ title: Quyển 3 - Cộng Hòa Plato
 
 # Quyển 3
 
-SOCRATES TIẾP TỤC KỂ:
+CUỘC TRÒ CHUYỆN CỦA SOCRATES TIẾP TỤC:
 
-(386a) SOCRATES: Vậy thì, về phần các vị thần, có vẻ như đó là những loại câu chuyện mà những người bảo vệ tương lai nên và không nên được nghe từ thuở ấu thơ, nếu chúng ta muốn họ biết tôn kính thần linh và cha mẹ mình, đồng thời coi trọng tình bằng hữu.
+(386a) SOCRATES: Khi nói về các vị thần, nếu ta muốn các vệ binh tương lai biết tôn kính thần linh và cha mẹ mình, đồng thời không xem nhẹ tình bằng hữu, thì dường như ta cần chắt lọc kỹ những câu chuyện họ nên và không nên nghe từ thuở ấu thơ.
 
-ADEIMANTUS: Tôi tin chắc chúng ta đã đúng về điều đó.
+ADEIMANTUS: Tôi tin là chúng ta đang đi đúng hướng.
 
-SOCRATES: Vậy nếu họ cần phải dũng cảm thì sao? Chẳng phải họ nên được nghe những câu chuyện khiến họ không còn e sợ cái chết sao? Hay anh nghĩ có ai đó có thể trở nên dũng cảm nếu trong lòng vẫn mang nặng nỗi sợ đó?
+SOCRATES: Thế còn để nuôi dưỡng lòng dũng cảm thì sao? Chẳng phải ta nên kể cho họ những câu chuyện giúp rũ bỏ nỗi sợ cái chết sao? Hay anh nghĩ một người mang nỗi sợ ấy trong tim lại có thể trở nên dũng cảm?
 
-ADEIMANTUS: Không, nhân danh thần Zeus, tôi không nghĩ vậy.
+ADEIMANTUS: Chắc chắn là không thể rồi.
 
-SOCRATES: Vậy nếu một người tin rằng thế giới Hades (địa ngục) tồn tại và đầy rẫy những điều kinh khủng thì sao? Liệu một người mang nỗi sợ hãi đó có thể đối mặt với cái chết mà không run sợ, và thà chọn cái chết còn hơn là chịu thất bại trong chiến trận và rơi vào cảnh nô lệ không?
+SOCRATES: Vậy nếu một người tin rằng địa ngục Hades thực sự tồn tại và chứa đầy những điều kinh hoàng, thì người đó có thể thản nhiên đối mặt với cái chết, chọn hy sinh chứ không chịu làm nô lệ hay bại trận không? 
 
 ADEIMANTUS: Hoàn toàn không.
 
-SOCRATES: Vậy thì có vẻ như chúng ta cũng phải giám sát những kẻ đang cố kể những câu chuyện như thế. Chúng ta phải yêu cầu họ đừng bôi nhọ cuộc sống ở Hades một cách bừa bãi, mà hãy nói tốt về nó, vì những gì họ đang kể hiện tại vừa không phải là sự thật, lại vừa chẳng mang lại lợi ích gì cho những chiến binh tương lai.
+SOCRATES: Vậy thì có vẻ chúng ta phải giám sát cả những người kể chuyện. Ta phải yêu cầu họ không tô đen cuộc sống ở Hades một cách bừa bãi, mà hãy nói tốt về nó. Bởi lẽ, những gì họ đang thêu dệt hiện nay, vừa không đúng sự thật, vừa chẳng mang lại lợi ích cho các chiến binh tương lai.
 
-ADEIMANTUS: Đúng vậy, chúng ta phải làm thế.
+ADEIMANTUS: Đúng, chúng ta bắt buộc phải làm vậy.
 
-SOCRATES: Thế thì chúng ta sẽ bắt đầu bằng những dòng thơ sau, và gạch bỏ mọi thứ tương tự: "Thà làm người cày thuê cho một kẻ không tấc đất cắm dùi, ăn bữa nay lo bữa mai, còn hơn làm vua cai trị toàn bộ cõi chết";[1] và câu này: "Ngài sợ rằng chốn nương thân của mình sẽ lộ ra trước mắt phàm nhân lẫn thần thánh, một nơi kinh hoàng, ẩm thấp và bị chính các vị thần căm ghét;"[2] và: "Hỡi ôi, dưới sảnh đường Hades vẫn còn sót lại một linh hồn, chỉ là một cái bóng vật vờ, trí khôn đã hoàn toàn tan biến;"[3] và câu này: "Chỉ một mình ngài có thể coi những kẻ khác như những cái bóng chập chờn;"[4] và: "Linh hồn rời bỏ thể xác, tìm đường xuống Hades, than khóc cho số phận, bỏ lại sau lưng cả tuổi thanh xuân và chí nam nhi;"[5] và câu này: (387a) "Linh hồn ngài đi xuống lòng đất như làn khói, vừa đi vừa rít lên;"[6] và:
+SOCRATES: Vậy ta sẽ bắt đầu bằng cách xóa bỏ những dòng thơ kiểu như: "Tôi thà làm kẻ hầu người hạ trên trần gian cho một gã khốn khó, còn hơn làm vua cai trị cả thế giới cõi âm";[1] hay câu: "Ông sợ rằng chốn nương thân của mình sẽ bị phơi bày trước cả thần linh lẫn người phàm là một nơi kinh khủng, ẩm thấp và bị chính các vị thần ghét bỏ";[2] và: "Than ôi, trong Điện Hades chỉ còn lại linh hồn, một bóng ma mờ nhạt mất trí hoàn toàn";[3] hay câu này: "Chỉ mình ông ta là có suy nghĩ, những kẻ khác chỉ là bóng hình vật vờ";[4] và: "Linh hồn lìa khỏi thể xác, bay về Hades, than khóc cho số phận phải bỏ lại tuổi thanh xuân mạnh mẽ";[5] và câu này nữa: "Linh hồn (387a) chìm xuống lòng đất như làn khói, kêu gào thảm thiết";[6] và: 
 
-> Như bầy dơi trong hang sâu tăm tối
-> Bay loạn xạ rít lên khi một con rơi xuống
-> Từ chùm dơi bám chặt lấy nhau trên trần hang,
-> linh hồn họ cũng rít lên như thế.[7]
+> Giống như đàn dơi trong hang sâu tăm tối\
+> Toán loạn bay, ré lên lúc một con rơi\
+> Khỏi bầy đang bám víu trần hang,\
+> linh hồn của họ cũng kêu gào như vậy.[7]
 
-Chúng ta sẽ cầu xin Homer và các nhà thơ khác đừng nổi giận nếu chúng ta gạch bỏ những đoạn này và tất cả những đoạn tương tự—không phải vì chúng thiếu tính thơ hay không làm vui tai quần chúng, mà bởi vì chúng càng giàu chất thơ bao nhiêu, thì càng phải được giữ tránh xa đôi tai của trẻ em và những người đàn ông—những người sinh ra để tự do và phải sợ cảnh nô lệ hơn cả cái chết.
+Chúng ta sẽ phải mong Homer và các nhà thơ khác đừng phật ý nếu ta gạch bỏ những đoạn này. Không phải vì chúng thiếu chất thơ hay không làm đám đông thích thú, mà vì thơ càng hay thì càng phải tránh xa tai của những đứa trẻ và những người đàn ông mang sứ mệnh làm người tự do, những người phải sợ cảnh nô lệ hơn cả cái chết.
 
-ADEIMANTUS: Tuyệt đối đồng ý.
+ADEIMANTUS: Hoàn toàn đồng ý.
 
-SOCRATES: Thêm vào đó, chúng ta cũng phải loại bỏ những cái tên kinh hoàng và đáng sợ xuất hiện trong các đoạn thơ đó: sông Cocytus, sông Styx,[8] "những kẻ dưới cõi âm," "những cái xác không hồn," và tất cả những cái tên cùng kiểu được tạo ra với mục đích khiến bất cứ ai nghe thấy cũng phải rùng mình. Có thể chúng hữu ích cho một mục đích nào đó khác, nhưng nỗi sợ của chúng ta là sự rùng rợn ấy sẽ khiến những người bảo vệ của chúng ta trở nên đa cảm và yếu đuối hơn mức họ cần phải thế.
+SOCRATES: Hơn nữa, ta cũng phải dẹp bỏ những cái tên gieo rắc nỗi kinh hoàng trong các tác phẩm đó: sông Cocytus, sông Styx,[8] "những kẻ cõi âm," "những kẻ cạn kiệt sinh lực," và tất cả những từ ngữ khiến người nghe phải rùng mình. Có thể chúng hữu ích cho mục đích khác, nhưng ta e rằng những sự run rẩy đó sẽ khiến các vệ binh của chúng ta trở nên yếu đuối và ủy mị hơn mức cần thiết.
 
-ADEIMANTUS: Nỗi sợ của chúng ta là hoàn toàn chính đáng.
+ADEIMANTUS: Nỗi lo đó là hoàn toàn chính đáng.
 
-SOCRATES: Vậy chúng ta nên xóa bỏ chúng chứ?
+SOCRATES: Vậy ta nên loại bỏ chúng chứ? 
 
 ADEIMANTUS: Đúng vậy.
 
-SOCRATES: Và làm theo khuôn mẫu ngược lại trong cả lời nói và thi ca?
+SOCRATES: Và ta sẽ yêu cầu lời nói cũng như thi ca phải đi theo hướng ngược lại?
 
 ADEIMANTUS: Rõ ràng rồi.
 
-SOCRATES: Liệu chúng ta cũng sẽ xóa bỏ những lời than khóc và những bài diễn văn bi lụy của các danh nhân chứ?
+SOCRATES: Thế ta có nên loại bỏ luôn những lời than vãn, khóc lóc thảm thương của các bậc vĩ nhân không?
 
-ADEIMANTUS: Nếu những việc trước đây là cần thiết, thì việc này cũng vậy.
+ADEIMANTUS: Nếu ta đã làm bước trước, thì bước này cũng tất yếu thôi.
 
-SOCRATES: Dù sao hãy thử cân nhắc xem chúng ta gạch bỏ chúng là đúng hay sai. Điều chúng ta khẳng định là một người đàn ông tốt sẽ không nghĩ rằng cái chết là một điều kinh khủng đối với một người tốt khác—ngay cả khi người đó tình cờ là bạn của anh ta.
+SOCRATES: Nhưng hãy xem xét kỹ liệu ta làm thế có đúng không nhé. Chúng ta vẫn khẳng định rằng một người tốt sẽ không coi cái chết là một bi kịch đối với một người tốt khác, ngay cả khi người đó là bạn mình.
 
-ADEIMANTUS: Vâng, chúng ta khẳng định điều đó.
+ADEIMANTUS: Đúng, chúng ta đã thống nhất như vậy.
 
-SOCRATES: Vậy nên, anh ta sẽ không than khóc cho bạn mình như thể người đó vừa hứng chịu một số phận bi thảm.
+SOCRATES: Thế thì, anh ta sẽ không khóc than cho người bạn đó như thể người ấy vừa gặp phải một thảm họa kinh hoàng.
 
 ADEIMANTUS: Chắc chắn là không.
 
-SOCRATES: Nhưng chúng ta cũng khẳng định điều này: một người tốt là người tự chủ nhất khi hướng đến một cuộc sống tốt đẹp, và điểm khiến anh ta khác biệt với những người khác là anh ta ít phụ thuộc vào bất kỳ ai hay bất cứ thứ gì khác nhất.
+SOCRATES: Chúng ta cũng từng nhận định: một người tốt là người tự chủ trọn vẹn nhất trong việc sống, và khác biệt với đám đông ở chỗ anh ta ít phải phụ thuộc vào bất cứ ai hay thứ gì khác.
 
-ADEIMANTUS: Đúng vậy.
+ADEIMANTUS: Sự thật là vậy.
 
-SOCRATES: Vì vậy, việc mất đi con trai, anh em, tài sản hay những thứ tương tự đối với anh ta sẽ ít tồi tệ hơn so với bất kỳ ai khác.
+SOCRATES: Do đó, việc mất đi một người con, một người anh em, hay tài sản chẳng phải là bi kịch quá lớn đối với anh ta so với người khác.
 
-ADEIMANTUS: Vâng, ít tồi tệ hơn rất nhiều.
+ADEIMANTUS: Đúng, nhẹ nhàng hơn nhiều.
 
-SOCRATES: Do đó, anh ta sẽ than vãn ít nhất và chịu đựng nó một cách bình tĩnh nhất khi một rủi ro nào đó ập đến.
+SOCRATES: Vì vậy, khi tai ương ập đến, anh ta sẽ ít than vãn nhất và đón nhận nó với thái độ bình thản nhất.
 
-ADEIMANTUS: Đương nhiên rồi.
+ADEIMANTUS: Hiển nhiên rồi.
 
-SOCRATES: Vậy thì chúng ta gạch bỏ những lời than khóc của các danh nhân là đúng. Chúng ta sẽ nhường chúng cho phụ nữ (miễn họ không phải là những phụ nữ xuất sắc) (388a) và những gã đàn ông hèn nhát, để những người mà chúng ta đang rèn luyện để bảo vệ đất nước sẽ cảm thấy xấu hổ khi làm những việc như vậy.
+SOCRATES: Vậy thì ta hoàn toàn đúng khi loại bỏ những tiếng khóc than của các vĩ nhân. Ta sẽ dành việc đó cho phụ nữ (nhưng không phải những người phụ nữ ưu tú) (388a) và những kẻ hèn nhát, để những người được nuôi dạy làm người bảo vệ đất nước sẽ cảm thấy xấu hổ khi hành xử như vậy.
 
-ADEIMANTUS: Đúng là như thế.
+ADEIMANTUS: Chí lý.
 
-SOCRATES: Thêm nữa, chúng ta sẽ phải yêu cầu Homer và các nhà thơ khác không được miêu tả Achilles, con trai của một vị nữ thần, như thế này:
+SOCRATES: Cùng với đó, ta phải yêu cầu Homer và các thi sĩ đừng khắc họa Achilles ,  con trai của một vị nữ thần, trong tình trạng:
 
-> Nay nằm nghiêng, mai nằm ngửa, lúc lại úp sấp; 
-> Rồi đứng dậy đi lang thang điên dại
-> Dọc ngang trên bờ biển không thể thu hoạch;[9]
+> Vật vã hết nghiêng rồi lại ngửa,\
+> Khi úp mặt xuống; đoạn đứng  lang thang\
+> Dọc biển hoang điên loạn tâm tư;[9]
 
-hay bắt cậu ta dùng hai tay bốc tro rắc lên đầu, khóc lóc và than vãn theo mức độ và cách thức mà Homer mô tả;[10] hoặc miêu tả Priam, một người có dòng dõi gần gũi với các vị thần, "lăn lộn trong phân mà van xin, gọi tên từng người lính của mình."[11] Và một cách kiên quyết hơn nữa, chúng ta sẽ yêu cầu họ ít nhất là đừng để các vị thần than khóc và nói: "Khốn khổ thân tôi, kẻ bất hạnh, người mẹ khốn cùng của một đứa con vĩ đại."[12] Nhưng, nếu họ cứ nhất quyết để các vị thần làm những việc như vậy, thì ít nhất họ cũng không được cả gan miêu tả vị thần vĩ đại nhất theo một cách vô lý đến mức khiến ngài thốt lên: "Hỡi ôi, tận mắt ta phải nhìn người đàn ông mà ta yêu quý nhất bị săn đuổi quanh thành, và trái tim ta quặn thắt";[13] hay "Khốn khổ thân ta, Sarpedon, kẻ ta yêu quý nhất, lại bị định mệnh sắp đặt phải chết dưới tay Patroclus, con trai của Menoetius."[14] Anh thấy đấy, Adeimantus thân mến, nếu những người trẻ của chúng ta nghiêm túc lắng nghe những câu chuyện này mà không coi chúng là điều nực cười và không đáng nghe, thì sẽ chẳng có ai trong số họ cho rằng những hành động đó là không xứng đáng với một phàm nhân như mình, hay tự kiểm điểm bản thân nếu lỡ có ý định làm hoặc nói những điều đó. Trái lại, không mảy may xấu hổ hay kiên nhẫn, cậu ta sẽ ca cẩm và than khóc trước những đau khổ dù là nhỏ nhặt nhất.
+hay cảnh anh ta dùng hai tay bốc tro tàn rải lên đầu, khóc lóc thảm thiết như cách Homer miêu tả;[10] hay vẽ nên hình ảnh Priam, người mang dòng máu thần linh, "lăn lộn trong phân, van xin gọi tên từng người lính của mình."[11] Và nghiêm khắc hơn nữa, ta sẽ yêu cầu họ đừng bao giờ để các vị thần phải than thở: "Khốn khổ thân tôi, người mẹ bất hạnh của một đứa con vĩ đại."[12] Giả sử họ có tả các vị thần như vậy, thì ít nhất cũng không được bôi bác vị thần tối cao đến mức để ngài than vãn: "Than ôi, chính mắt ta thấy người ta yêu thương nhất đang bị truy sát quanh thành, lòng ta đau như cắt";[13] hay "Khốn thay, Sarpedon yêu quý của ta lại bị định mệnh sắp đặt phải chết dưới tay Patroclus, con trai của Menoetius."[14] 
 
-ADEIMANTUS: Hoàn toàn đúng như vậy.
+Anh thấy đấy, Adeimantus thân mến, nếu thanh niên coi trọng những câu chuyện như này thay vì cười nhạo chúng, thì chẳng ai trong họ thấy những hành động đó là đáng hổ thẹn với một con người bình thường và cũng chẳng tự chấn chỉnh bản thân khi có ý định làm thế. Thay vào đó, họ sẽ chẳng ngại mà cất lên những lời than vãn, khóc lóc trước những nỗi đau nhỏ nhặt nhất.
 
-SOCRATES: Nhưng điều đó không được phép xảy ra, như lập luận của chúng ta đã chỉ ra—và chúng ta phải giữ vững niềm tin vào nó cho đến khi có ai đó đưa ra một lập luận tốt hơn.
+ADEIMANTUS: Điều đó hoàn toàn chính xác.
 
-ADEIMANTUS: Không, điều đó tuyệt đối không được xảy ra.
+SOCRATES: Theo lập luận của chúng ta, điều đó không được phép xảy ra, và ta phải giữ vững quan điểm này cho đến khi có **ai đó đưa ra được lý lẽ thuyết phục hơn**.
 
-SOCRATES: Hơn nữa, họ cũng không được là những kẻ chuộng tiếng cười. Bởi vì bất cứ khi nào ai đó buông thả mình trong những trận cười ngặt nghẽo, một phản ứng dữ dội tương đương gần như luôn luôn theo sau.
+ADEIMANTUS: Đúng vậy, không thể để chuyện đó xảy ra.
 
-ADEIMANTUS: Tôi đồng ý.
+SOCRATES: Hơn thế nữa, họ không được phép là những kẻ nghiện tiếng cười. Bởi vì hễ ai đắm chìm vào những tràng cười ngặt nghẽo không ngưng, thì một phản ứng ngặt nghẽo không ngưng khác cũng thường theo sau.
 
-SOCRATES: Vậy nên, nếu ai đó miêu tả những con người đức độ bị cơn cười ngự trị, chúng ta không được chấp nhận, và chúng ta càng không thể chấp nhận nếu họ miêu tả các vị thần theo cách đó.
+ADEIMANTUS: Tôi đồng tình.
+
+SOCRATES: Vậy nếu ai đó khắc họa những nhân vật cao quý bị đánh gục bởi tiếng cười, ta phải cự tuyệt. Và ta càng phải cự tuyệt mạnh mẽ hơn nếu họ khắc họa các vị thần trong bộ dạng như vậy.
 (389a)
 
-ADEIMANTUS: Càng không thể.
+ADEIMANTUS: Chắc chắn là phải cự tuyệt mạnh tay hơn.
 
-SOCRATES: Vậy thì chúng ta không được chấp nhận những lời kể sau đây về các vị thần từ Homer: "Và một trận cười không dứt nổ ra giữa các vị thần cao quý khi họ thấy Hephaestus đi tập tễnh qua sảnh đường."[15] Dựa trên lập luận của anh, chúng phải bị loại bỏ.
+SOCRATES: Thế thì ta không thể chấp nhận những câu thơ sau của Homer về thần linh: "Và tiếng cười không dứt nổi lên giữa các vị thần khi họ thấy Hephaestus bước đi khập khễn qua sảnh đường."[15] Theo như lý lẽ của anh, những điều này phải bị bác bỏ.
 
-ADEIMANTUS: Vâng, nếu anh muốn quy lập luận đó cho tôi, nhưng dù sao thì chúng cũng phải bị loại bỏ.
+ADEIMANTUS: Cứ cho là ý của tôi đi, nhưng dù sao thì cũng phải loại bỏ chúng.
 
-SOCRATES: Hơn nữa, chúng ta cũng phải quan tâm đến sự thật. Bởi vì nếu những gì chúng ta vừa nói là chính xác và một lời nói dối thực sự vô dụng với các vị thần, nhưng lại hữu ích với con người như một phương thuốc, thì rõ ràng nó phải được giao phó cho các y bác sĩ, trong khi những cá nhân bình thường tuyệt đối không được đụng đến.
+SOCRATES: Kế tiếp, ta phải bàn về thế nào là sự thật. Nếu như điều ta vừa thảo luận là đúng: dối trá không có giá trị với thần linh, nhưng lại như một loại thuốc trị bệnh hữu ích với con người, thì rõ ràng loại thuốc này chỉ nên giao cho các bác sĩ, còn người dân thường không được phép đụng tới.
 
-ADEIMANTUS: Rõ ràng là thế.
+ADEIMANTUS: Rõ ràng là vậy.
 
-SOCRATES: Vậy thì, nếu có ai đó được phép nói dối, điều đó chỉ phù hợp với những người cai trị, vì đối phó với kẻ thù hoặc vì lợi ích của công dân nhằm mang lại điều tốt đẹp cho thành bang. Nhưng không một ai khác được dính dáng đến nó. Trái lại, chúng ta sẽ tuyên bố rằng việc một cá nhân bình thường nói dối những người cai trị là một sai lầm tồi tệ giống như việc người bệnh không nói thật với bác sĩ, hay vận động viên không báo cáo tình trạng thể chất cho huấn luyện viên, hoặc như việc ai đó giấu giếm thuyền trưởng sự thật về con tàu, các thủy thủ, hay về tình trạng của chính mình và đồng đội—thậm chí nó còn là một sai lầm tồi tệ hơn.
+SOCRATES: Do đó, chỉ những người cai trị mới có quyền nói dối để đối phó với kẻ thù hoặc để bảo vệ lợi ích của thành phố. Không một ai khác được phép làm điều này. Trái lại, nếu một công dân bình thường dám nói dối chính quyền, ta sẽ coi đó là một lỗi lầm nghiêm trọng, còn tệ hơn cả việc bệnh nhân giấu nhẹm tình trạng cơ thể với bác sĩ, hay vận động viên nói dối huấn luyện viên, hoặc thủy thủ giấu thuyền trưởng về tình hình con tàu và các bạn đồng hành.
 
-ADEIMANTUS: Hoàn toàn đúng.
+ADEIMANTUS: Điều đó là chắc chắn.
 
-SOCRATES: Vậy nên, nếu bất kỳ ai khác bị bắt quả tang nói dối trong thành bang—"bất kể là thợ thủ công nào, dù là nhà tiên tri, bác sĩ chữa bệnh, hay thợ mộc làm gỗ"[16]—anh ta sẽ bị trừng phạt vì đã du nhập một thói quen có khả năng lật đổ và phá hoại thành bang y như phá hoại một con tàu.
+SOCRATES: Vậy nên, nếu người cai trị bắt được bất kỳ ai khác trong thành phố nói dối, "dù là thợ thủ công, nhà tiên tri, bác sĩ hay thợ mộc"[16], kẻ đó sẽ bị trừng phạt vì đã dung túng một thói hư có thể đánh chìm và phá hủy cả thành phố giống như phá hủy một con tàu.
 
-ADEIMANTUS: Quả đúng như vậy, ít nhất là nếu hành động của người khác bị ảnh hưởng bởi những lời anh ta nói.
+ADEIMANTUS: Chắc chắn rồi, nhất là khi lời nói dối của hắn dẫn đến những hành động gây hại.
 
-SOCRATES: Thế còn về sự *tiết chế* (temperance)?[17] Chẳng phải những người trẻ của chúng ta cũng cần điều đó sao?
+SOCRATES: Thế còn về *tiết chế* (temperance)?[17] Thanh niên của chúng ta chẳng phải cũng cần điều này sao?
 
 ADEIMANTUS: Tất nhiên rồi.
 
-SOCRATES: Và chẳng phải những khía cạnh quan trọng nhất của sự *tiết chế* đối với đa số mọi người, chính là tuân lệnh những người cai trị và tự làm chủ được những khao khát về chuyện ăn uống và tình dục của bản thân sao?
+SOCRATES: Và đối với đa số mọi người, những biểu hiện quan trọng nhất của sự *tiết chế* chẳng phải là biết vâng lời người cai trị và tự làm chủ được những ham muốn ăn uống, tình dục sao?
 
-ADEIMANTUS: Dù sao thì đó cũng là góc nhìn của tôi.
+ADEIMANTUS: Theo tôi thì đúng là vậy.
 
-SOCRATES: Vậy tôi hình dung chúng ta sẽ cho rằng nói những lời như Diomedes trong sử thi Homer là tốt: "Hãy ngồi im, bạn tôi ơi, và nghe theo lời tôi";[18] và câu tiếp theo: "Người Achaea tiến vào trong im lặng, toát ra dũng khí, kính sợ các vị chỉ huy của mình";[19] và bất cứ điều gì tương tự.
+SOCRATES: Thế thì tôi nghĩ ta sẽ tán thành những câu nói kiểu như của Diomedes trong thơ Homer: “Hãy ngồi xuống trong im lặng, hỡi bạn ta, và nghe theo lời ta nói.”;[18] và đoạn tiếp theo: "Quân Achaea tiến vào trong tĩnh lặng, hít thở khí phách anh hùng, kính sợ các vị chỉ huy của mình";[19] và những câu tương tự thế.
 
-ADEIMANTUS: Vâng, điều đó tốt.
+ADEIMANTUS: Vâng, những câu đó rất tốt.
 
-SOCRATES: Nhưng còn những câu như: "Đồ bợm nhậu, với đôi mắt của chó và trái tim của hươu," và những gì theo sau nó thì sao?[20] Liệu (390a) chúng có phải là những điều tốt đẹp để nói không? Và còn vô số những lời xấc xược khác mà các cá nhân bình thường ném vào mặt những người cai trị trong các tác phẩm văn xuôi hoặc thơ ca thì sao?
+SOCRATES: Nhưng còn những câu như: "Đồ bợm nhậu, mặt chó, gan nai" và phần tiếp theo thì sao?[20] Liệu (390a) chúng có phải là những lời hay ý đẹp không? Hay vô vàn những lời ngỗ ngược khác mà dân thường thốt ra với những người cai trị trong văn xuôi và thơ ca?
 
-ADEIMANTUS: Không, chúng không hề tốt đẹp.
+ADEIMANTUS: Không, chúng chẳng tốt đẹp gì.
 
-SOCRATES: Tôi nghĩ, đó là vì chúng không phù hợp để gieo rắc sự *tiết chế* vào tâm trí những người trẻ nghe chúng. Nhưng sẽ chẳng có gì ngạc nhiên nếu người ta thấy chúng thú vị trong một bối cảnh khác. Anh nghĩ sao?
+SOCRATES: Tôi cho rằng đó là vì chúng không phù hợp để vun đắp sự *tiết chế* cho những người trẻ tuổi. Nhưng cũng chẳng lạ nếu trong những bối cảnh khác, người ta lại thấy chúng thú vị. Anh nghĩ sao?
 
 ADEIMANTUS: Tôi cũng nghĩ như anh.
 
-SOCRATES: Vậy việc để cho người thông thái nhất tuyên bố rằng điều tuyệt vời nhất, theo như ông ta thấy, là khi "những chiếc bàn chất đầy bánh mì và thịt, và người hầu rượu múc rượu từ thạp lớn, mang đến và rót vào những chiếc cúp"?[21] Anh có nghĩ rằng việc nghe những điều như thế là phù hợp để nuôi dưỡng khả năng làm chủ bản thân ở người trẻ không? Hay câu nói "chết đói là số phận đáng thương nhất"?[22] Hay câu chuyện về việc thần Zeus thức trắng đêm một mình để lên kế hoạch trong khi các vị thần và phàm nhân khác đang say giấc, để rồi dễ dàng quên sạch mọi dự tính chỉ vì ham muốn tình dục (*bản năng*), và bị sắc đẹp của Hera lấn át đến mức ngài thậm chí không muốn đợi đến khi vào phòng ngủ, mà muốn chiếm đoạt bà ngay trên mặt đất, và nói rằng ham muốn ngài dành cho bà thậm chí còn lớn hơn cả lần đầu tiên họ ân ái "giấu giếm cha mẹ"?[23] Hay câu chuyện Hephaestus xích Ares và Aphrodite lại với nhau[24] cũng vì những lý do tương tự?
+SOCRATES: Thế còn việc để người đàn ông được xem là khôn ngoan nhất thốt lên rằng điều tuyệt hảo nhất trần đời là khi “bàn tiệc đầy ắp bánh mì và thịt, còn người rót rượu thì múc rượu từ vò pha, mang đến và rót đầy các chén”?[21] Anh có nghĩ nghe những thứ này sẽ giúp người trẻ học cách tự chủ không? Hay câu "chết đói là số phận bi thảm nhất"?[22] Hay chuyện thần Zeus một mình thức trắng đêm toan tính trong khi cả thần và người đều say giấc, nhưng rồi lại vứt bỏ mọi kế hoạch chỉ vì khao khát tình dục, đến mức không thể kìm nén khi thấy Hera mà đòi ái ân ngay trên mặt đất chứ không chịu về phòng ngủ, còn nói rằng dục vọng của ông ta giờ còn cuồng nhiệt hơn cả khi họ lén lút vụng trộm "qua mặt cha mẹ"?[23] Hay chuyện Hephaestus dùng xích trói chặt Ares và Aphrodite[24] cũng vì những lý do tương tự?
 
-ADEIMANTUS: Không, nhân danh thần Zeus, tôi thấy điều đó không hề phù hợp.
+ADEIMANTUS: Không, nhân danh thần Zeus, tôi thấy những thứ đó hoàn toàn không phù hợp.
 
-SOCRATES: Mặt khác, nếu có bất kỳ lời nói hay hành động nào của các danh nhân thể hiện sự kiên cường khi đối mặt với mọi giông bão, thì chắc chắn chúng phải được xem và nghe. Ví dụ như: "Chàng đấm vào ngực mình và cất lời với trái tim: 'Chịu đựng đi, trái tim của ta, mi đã từng chịu đựng những điều còn đáng xấu hổ hơn thế này nhiều.'"[25]
+SOCRATES: Ngược lại, nếu có những lời nói hay hành động của các vĩ nhân thể hiện ý chí kiên cường vượt qua mọi nghịch cảnh, thì chắc chắn phải để chúng được xem và nghe. Ví dụ như: "Ông đấm vào ngực mình và dặn lòng:'Cố lên, trái tim ta, mi từng chịu đựng những điều còn nhục nhã hơn thế này nhiều.'"[25]
 
-ADEIMANTUS: Chắc chắn rồi.
+ADEIMANTUS: Tuyệt đối đồng ý.
 
-SOCRATES: Và dĩ nhiên, chúng ta không được phép để những người đàn ông của mình dễ bị mua chuộc bằng quà cáp hay trở thành những kẻ hám tiền.
+SOCRATES: Và dĩ nhiên, chúng ta không được phép để những người lính của mình trở thành những kẻ ham tiền hay dễ bị mua chuộc.
 
 ADEIMANTUS: Chắc chắn là không.
 
-SOCRATES: Vậy thì họ không được hát: "Quà cáp thuyết phục được thần linh, và quà cáp thuyết phục được những vị vua đáng kính."[26] Chúng ta cũng không được ca ngợi Phoenix, thầy của Achilles, là người chừng mực, khi ông ta khuyên Achilles nhận quà và bảo vệ người Achaea, nhưng không được buông bỏ cơn thịnh nộ nếu không có quà.[27] Chúng ta cũng không nên đồng ý rằng chính Achilles là một kẻ hám tiền đến mức chấp nhận quà của Agamemnon, hay chỉ chịu trả lại thi thể khi được trả tiền, còn không thì từ chối.[28]
+SOCRATES: Vậy thì họ không được phép hát: "Lễ vật thuyết phục được cả thần linh, lễ vật mua chuộc được cả vua chúa."[26] Ta cũng không được ca ngợi Phoenix, người thầy của Achilles, khi ông ta khuyên Achilles chỉ nên nhận quà rồi mới ra trận giúp quân Achaea, chứ đừng nguôi giận nếu không có quà.[27] Ta càng không được đồng tình với việc miêu tả chính Achilles là kẻ tham tiền đến mức nhận quà của Agamemnon, hay chỉ chịu trả lại xác chết khi được trả tiền.[28]
 (391a)
 
-ADEIMANTUS: Không, chắc chắn việc ca ngợi những điều như thế là không đúng.
+ADEIMANTUS: Không, ca ngợi những thứ đó quả là sai lầm.
 
-SOCRATES: Thực tình mà nói, chỉ vì nể trọng Homer mà tôi ngần ngại không nói rằng việc gán cho Achilles những tính xấu như vậy, hoặc tin vào chúng khi người khác kể lại, là một sự bất kính nghiêm trọng. Hoặc tin rằng cậu ta đã nói với thần Apollo: "Ngài đã làm hại ta, Hỡi vị thần Bắn xa, vị thần chết chóc nhất; Và ta sẽ trừng phạt ngài, giá như ta có sức mạnh."[29] Hoặc tin rằng cậu ta đã cãi lại một dòng sông—tức là một vị thần—và sẵn sàng chiến đấu với nó.[30] Hoặc việc cậu ta dâng tặng lọn tóc cho người bạn quá cố Patroclus, thứ lọn tóc mà cậu ta đã hiến tế cho một dòng sông khác là Sphercheius: "Gửi tới người anh hùng Patroclus, ta trao lọn tóc này để anh mang theo."[31] Chúng ta không được tin rằng cậu ta đã làm điều đó. Cũng không có thật chuyện cậu ta kéo lê thi thể Hector quanh mộ Patroclus [32] hay tàn sát các tù binh trên giàn thiêu của bạn mình.[33] Do đó, chúng ta sẽ phủ nhận những điều này. Chúng ta cũng sẽ không cho phép người dân của mình tin rằng Achilles—con trai của một nữ thần và Peleus (người bản thân ông là một người *tiết chế* nhất và là cháu của thần Zeus), và là học trò của thần nhân mã thông thái Cheiron—lại là một kẻ đầy rẫy sự hỗn loạn nội tâm đến mức mang trong mình hai căn bệnh đối nghịch nhau: sự hẹp hòi đi kèm với lòng tham tiền ở một mặt, và sự kiêu ngạo đối với thần linh và con người ở mặt kia.
+SOCRATES: Thực vậy, chỉ vì kính trọng Homer mà tôi ngần ngại không nói thẳng rằng việc gán cho Achilles những hành động như thế là bất kính, hoặc tin những điều ấy khi người khác kể lại. Hay  tin rằng Achilles đã nói với Apollo:
 
-ADEIMANTUS: Đúng như vậy.
+“Ngươi đã làm hại ta, hỡi Xạ Thần Tầm Xa, kẻ chết chóc nhất trong các vị thần; và ta sẽ trừng phạt ngươi, nếu ta có đủ sức mạnh.”[29] Hoặc chuyện anh ta cãi lệnh một vị thần sông và sẵn sàng nghênh chiến.[30] Hay việc anh ta cắt tóc dâng cho người bạn đã khuất Patroclus, dù trước đó đã thề hiến tế chỏm tóc ấy cho vị thần sông Sphercheius:
 
-SOCRATES: Hơn nữa, chúng ta sẽ không tin cũng không cho phép ai nói rằng Theseus, con trai của Poseidon, và Peirithous, con trai của Zeus, đã từng nỗ lực thực hiện những vụ bắt cóc tồi tệ đó,[34] hay bất kỳ đứa con nào của thần linh và anh hùng lại dám làm những việc tàn ác và bất kính đang bị gán ghép sai trái cho họ như hiện nay. Chúng ta sẽ ép các nhà thơ phải làm một trong hai việc: hoặc là phủ nhận việc họ đã làm những điều đó, hoặc là phủ nhận việc họ là con của thần linh. Nhưng các nhà thơ không được nói cả hai, cũng không được cố gắng nhồi nhét vào đầu người trẻ của chúng ta rằng các vị thần sinh ra cái ác, hay các anh hùng chẳng tốt đẹp gì hơn phàm nhân. Rốt cuộc, như chúng ta đã nói trước đó, những điều này vừa không phải là sự tôn kính, vừa không phải là sự thật. Bởi vì chúng ta đã chứng minh, theo tôi hiểu, rằng các vị thần không thể sinh ra cái ác.[35]
+“Ta trao mái tóc này cho người anh hùng Patroclus mang theo.”[31] Chúng ta tuyệt đối không được tin anh ta đã làm thế. Cũng không có chuyện anh ta kéo lê xác Hector quanh mộ Patroclus [32] hay thảm sát tù binh trên giàn thiêu.[33] Chúng ta sẽ bác bỏ toàn bộ những chuyện này. Ta cũng không cho phép dân chúng tin rằng Achilles, con của nữ thần và Peleus (người cháu hiền triết nhất của thần Zeus), học trò của nhà hiền triết Cheiron, lại là kẻ có nội tâm loạn lạc đến mức mang trong mình hai căn bệnh trái ngược: vừa bủn xỉn hám tiền, vừa ngạo mạn coi khinh cả thần linh lẫn con người.
 
-ADEIMANTUS: Chúng ta chắc chắn đã làm thế.
+ADEIMANTUS: Anh nói đúng.
 
-SOCRATES: Và những câu chuyện đó cũng gây hại trực tiếp cho những người nghe chúng. Anh thấy đấy, ai cũng sẽ sẵn sàng tự bào chữa cho bản thân khi làm điều tồi tệ, nếu anh ta đã bị thuyết phục rằng những điều tương tự cũng đang và đã từng được làm bởi "những hậu duệ gần gũi của các vị thần, thân tộc của Zeus, những người có bàn thờ tổ tiên nằm trên bầu trời ở đỉnh Ida," và "những người mà dòng máu tinh linh trong họ chưa hề suy yếu."[36] Đó là lý do chúng ta phải chấm dứt những câu chuyện như vậy; nếu (392a) không, chúng sẽ tạo ra trong giới trẻ một thái độ vô cùng dễ dãi đối với cái ác.
+SOCRATES: Thêm vào đó, ta sẽ không tin và cũng không cho ai được nói rằng Theseus (con thần Poseidon) và Peirithous (con thần Zeus) lại từng cố thực hiện những vụ bắt cóc hiếp dâm kinh tởm,[34] hay bất kỳ đứa con nào của thần linh và các anh hùng lại dám làm những việc tàn ác và vô đạo như người ta đang vu khống họ hiện nay. Ta phải ép các thi sĩ hoặc là phủ nhận những hành động đó, hoặc là phủ nhận gốc gác thần thánh của họ. Không thể có chuyện vừa là con thần linh vừa làm trò đồi bại, cũng không được dụ dỗ thanh niên tin vào thần linh sinh ra cái ác hay các anh hùng chẳng tốt đẹp gì hơn người phàm. Rốt cuộc, như ta đã nói, những điều đó vừa không đúng sự thật vừa là tội báng bổ. Ta đã chứng minh rồi, thần linh không thể nào sinh ra cái ác.[35]
+
+ADEIMANTUS: Chắc chắn là ta đã chứng minh được.
+
+SOCRATES: Hơn nữa, những câu chuyện đó cực kỳ độc hại cho người nghe. Anh thấy đấy, con người sẽ rất dễ dàng tìm cớ bao biện cho sự xấu xa của mình nếu họ tin rằng những việc tương tự đã từng được thực hiện bởi "những giọt máu của thần linh, hậu duệ của Zeus, những người có bàn thờ tổ tiên trên đỉnh Ida" và "những kẻ mà dòng máu thần thánh chưa hề phai nhạt."[36] Đó là lý do ta phải chấm dứt những loại truyện này; nếu (392a) không, chúng sẽ gieo vào đầu thanh niên một thái độ vô cùng bỡn cợt đối với cái ác.
 
 ADEIMANTUS: Chính xác.
 
-SOCRATES: Vậy thì vẫn còn lại loại câu chuyện nào mà chúng ta cần xác định xem có nên kể hay không? Ý tôi là, chúng ta đã thảo luận về cách phác họa các vị thần, các anh hùng, các tinh linh, và những thứ ở thế giới Hades.
-
-ADEIMANTUS: Chúng ta đã bàn xong.
-
-SOCRATES: Vậy chẳng phải còn lại những câu chuyện về con người sao?
-
-ADEIMANTUS: Rõ ràng là thế.
-
-SOCRATES: Nhưng thưa anh bạn, ở đây chúng ta không thể bàn luận về chúng được.
-
-ADEIMANTUS: Tại sao không?
-
-SOCRATES: Bởi vì theo tôi hình dung, chúng ta sẽ nói rằng các nhà thơ và nhà văn đã hiểu sai những điều quan trọng nhất về con người. Họ cho rằng nhiều kẻ *sống sai* (unjust person) lại có cuộc sống hạnh phúc, trong khi nhiều người *sống đúng* (just man) lại khốn khổ, rằng làm *điều sai* (unjust) sẽ sinh lời nếu không bị phát hiện, và rằng *điều đúng* (justice) là cái lợi của người khác nhưng lại là cái thiệt của chính mình. Tôi hình dung rằng chúng ta sẽ cấm họ nói những điều như vậy, và ra lệnh cho họ phải hát và kể những điều ngược lại. Anh có nghĩ thế không?
-
-ADEIMANTUS: Không, tôi biết chắc là thế.
-
-SOCRATES: Vậy thì, nếu anh đồng ý rằng những gì tôi nói là chính xác, chẳng phải tôi sẽ nói với anh rằng anh đã thừa nhận luôn cái luận điểm mà chúng ta đang tìm kiếm bấy lâu nay sao?
-
-ADEIMANTUS: Và lời khẳng định của anh sẽ là chính xác.
-
-SOCRATES: Thế thì chúng ta sẽ không thể đi đến thống nhất về những câu chuyện nên được kể về con người, cho đến khi chúng ta khám phá ra bản chất của *điều đúng* là gì, và xét về bản chất, nó mang lại lợi ích thế nào cho người sở hữu nó, bất kể người đó có được mọi người tin là đang *sống đúng* hay không.
-
-ADEIMANTUS: Hoàn toàn chính xác.
-
-SOCRATES: Vậy là cuộc thảo luận của chúng ta về nội dung của các câu chuyện đã hoàn tất. Nhiệm vụ tiếp theo của chúng ta, theo tôi, là khảo sát phong cách của chúng. Và rồi chúng ta sẽ hoàn thành trọn vẹn việc khảo sát cả việc chúng ta nên nói cái gì và nên nói như thế nào.
-
-ADEIMANTUS: Tôi không hiểu ý anh.
-
-SOCRATES: Vậy thì chúng ta phải làm cho anh hiểu. Có lẽ điều này sẽ giúp anh nắm bắt tốt hơn: chẳng phải mọi thứ được nói bởi các nhà thơ và người kể chuyện đều là sự trần thuật lại các sự kiện trong quá khứ, hiện tại, hoặc tương lai sao?
-
-ADEIMANTUS: Tất nhiên rồi.
-
-SOCRATES: Và chẳng phải họ tiến hành thông qua việc chỉ trần thuật đơn thuần, trần thuật qua sự bắt chước, hoặc cả hai sao?
-
-ADEIMANTUS: Tôi cần hiểu rõ hơn về điều đó nữa.
-
-SOCRATES: Tôi đúng là một người thầy giảng giải tệ hại nực cười! Vậy nên, tôi sẽ làm điều mà những người diễn thuyết kém cỏi hay làm: tôi sẽ không cố gắng giải quyết toàn bộ vấn đề. Thay vào đó, tôi sẽ lấy một ví dụ cụ thể và dùng nó để giải thích ý mình. Nói tôi nghe, anh có biết phần đầu của trường ca Iliad, nơi nhà thơ kể cho chúng ta rằng Chryses đã van xin Agamemnon thả con gái ông ta, rằng Agamemnon đã nổi giận, và rằng Chryses, sau khi không đạt được điều mình muốn, đã cầu nguyện thần linh (393a) trừng phạt người Achaea không?
-
-ADEIMANTUS: Tôi biết.
-
-SOCRATES: Vậy thì anh biết rằng cho đến những dòng, "Ông van nài tất cả người Achaea, nhưng đặc biệt là hai vị chỉ huy quân đội, hai người con trai của Atreus,"[38] chính bản thân nhà thơ đang lên tiếng và không hề cố gắng khiến chúng ta nghĩ rằng người đang nói là một ai khác ngoài ông ấy. Tuy nhiên, sau đó, ông ấy nói như thể chính mình là Chryses, và cố gắng hết sức để khiến chúng ta nghĩ rằng người nói không phải là Homer, mà chính là vị tư tế, một ông lão. Và toàn bộ phần trần thuật còn lại của ông về các sự kiện ở Ilium và Ithaca, cũng như toàn bộ trường ca Odyssey, đều được viết theo cách gần như y hệt.
-
-ADEIMANTUS: Vâng, đúng vậy.
-
-SOCRATES: Bây giờ, mỗi đoạn thoại, cũng như những phần chuyển tiếp giữa chúng, đều là trần thuật, đúng không?
-
-ADEIMANTUS: Tất nhiên.
-
-SOCRATES: Nhưng khi ông ấy viết một đoạn thoại như thể mình là người khác, chẳng phải chúng ta sẽ nói rằng ông ấy cố uốn nắn phong cách của mình sao cho giống nhất với nhân vật mà ông ấy bảo là sắp lên tiếng sao?
-
-ADEIMANTUS: Chắc chắn là vậy.
-
-SOCRATES: Thế thì, việc làm cho bản thân giống với một người khác qua giọng điệu hay diện mạo chính là bắt chước người mà mình đang mô phỏng, đúng không?
-
-ADEIMANTUS: Tất nhiên rồi.
-
-SOCRATES: Vậy trong một đoạn thơ như thế, có vẻ như ông ấy, cũng như các nhà thơ khác, đang tạo ra sự trần thuật thông qua bắt chước.
-
-ADEIMANTUS: Vâng, thực sự là vậy.
-
-SOCRATES: Nhưng nếu nhà thơ không bao giờ hóa thân, toàn bộ bài thơ của ông ấy sẽ chỉ là trần thuật mà không có sự bắt chước. Để anh không phàn nàn rằng mình vẫn chưa hiểu, tôi sẽ cho anh thấy nó sẽ như thế nào. Nếu Homer kể rằng Chryses mang tiền chuộc con gái đến van xin người Achaea, đặc biệt là các vị vua, và nếu sau đó Homer tiếp tục kể, không phải dưới tư cách là Chryses, mà vẫn là Homer, anh sẽ thấy đó không phải là sự bắt chước mà chỉ là lời trần thuật thuần túy. Nó sẽ diễn ra đại loại thế này—tôi sẽ nói mà không cần gieo vần vì tôi không phải nhà thơ: vị tư tế đến và cầu nguyện các vị thần ban cho người Achaea khả năng chiếm được thành Troy và trở về nhà bình an, và ông van nài họ nhận tiền chuộc để giải phóng con gái mình, vì lòng tôn kính thần linh.[39] Khi ông nói xong, những người khác đều đồng tình và ưng thuận. Nhưng Agamemnon nổi giận, ra lệnh cho ông rời đi và không bao giờ được quay lại, nếu không cây trượng tư tế và vòng hoa thần thánh cũng sẽ không bảo vệ nổi ông. Agamemnon nói rằng con gái vị tư tế sẽ già đi ở Argos bên cạnh ông ta chứ không được trả tự do. Ông ta lệnh cho Chryses rời đi và đừng chọc giận ông ta nếu muốn về nhà an toàn. Khi ông lão (394a) nghe vậy, ông hoảng sợ và lẳng lặng rời đi. Và khi đã ra khỏi khu trại, ông cầu nguyện thật dài với thần Apollo, xướng các danh hiệu thờ cúng của ngài, nhắc nhở ngài về những lễ vật trong quá khứ, và xin được đền đáp cho bất cứ điều gì đã làm ngài hài lòng, dù là những đền thờ ông đã xây hay những vật hiến tế ông đã dâng lên. Ông cầu xin rằng, để đổi lại những điều đó, những mũi tên của thần linh sẽ khiến người Achaea phải trả giá cho những giọt nước mắt của ông. Đó, thưa đồng chí, là cách chúng ta có được một lời trần thuật thuần túy mà không có bất kỳ sự bắt chước nào.
-
-ADEIMANTUS: Tôi hiểu rồi.
-
-SOCRATES: Vậy thì cũng hãy hiểu rằng, điều ngược lại sẽ xảy ra khi người ta bỏ đi những lời dẫn chuyện giữa các đoạn thoại và chỉ để lại các câu thoại mà thôi.
-
-ADEIMANTUS: Tôi cũng hiểu điều đó; đó là những gì xảy ra trong các vở bi kịch, chẳng hạn.
-
-SOCRATES: Anh hiểu hoàn toàn chính xác rồi. Và giờ đây tôi nghĩ mình có thể làm rõ cho anh điều mà trước đó tôi không thể. Một loại hình thơ ca và kể chuyện chỉ sử dụng sự bắt chước—đó là bi kịch, như anh nói, và hài kịch. Loại thứ hai, chủ yếu được tìm thấy trong thơ tán ca (dithyrambs),[40] chỉ sử dụng sự trần thuật bởi chính nhà thơ. Loại thứ ba, sử dụng cả hai, là những gì chúng ta thấy trong thơ sử thi và nhiều nơi khác. Anh theo kịp tôi chứ?
-
-ADEIMANTUS: Vâng, giờ thì tôi đã hiểu ý anh.
-
-SOCRATES: Và trước đó, như anh nhớ, chúng ta đã nói rằng chúng ta đã giải quyết xong phần nội dung, nhưng vẫn phải khảo sát phần phong cách.
-
-ADEIMANTUS: Vâng, tôi nhớ.
-
-SOCRATES: Ý tôi lúc đó chính là thế này: chúng ta cần đi đến thống nhất xem có nên cho phép các nhà thơ của chúng ta kể chuyện với tư cách là người bắt chước, hay là chỉ bắt chước một số thứ chứ không phải tất cả—và đó là những loại thứ gì; hay là hoàn toàn không cho phép họ bắt chước.
-
-ADEIMANTUS: Tôi hình dung rằng anh đang cân nhắc xem chúng ta sẽ cho phép bi kịch và hài kịch vào thành bang của mình hay không.
-
-SOCRATES: Có thể là thế, nhưng đây có thể còn là một câu hỏi rộng hơn nữa. Hiện tại tôi thực sự chưa biết. Nhưng ngọn gió của lập luận thổi chúng ta về đâu, thì chúng ta phải đi theo hướng đó.
-
-ADEIMANTUS: Vâng, nói rất hay.
-
-SOCRATES: Vậy điều tôi muốn anh cân nhắc, Adeimantus, là liệu những người bảo vệ của chúng ta có nên là những người bắt chước hay không. Hay câu trả lời đã bắt nguồn từ những gì chúng ta đã nói—cụ thể là, mỗi cá nhân chỉ có thể làm tốt một công việc, anh ta không thể làm tốt nhiều việc, và nếu anh ta cố thử làm thế và nhúng tay vào nhiều thứ, anh ta chắc chắn sẽ thất bại trong việc đạt được sự xuất sắc ở mọi lĩnh vực?
-
-ADEIMANTUS: Đương nhiên rồi. Làm sao mà không thế được?
-
-SOCRATES: Vậy chẳng phải nguyên tắc tương tự cũng áp dụng cho việc bắt chước sao—nghĩa là, một cá nhân không thể bắt chước nhiều thứ tốt như khi anh ta bắt chước một thứ?
-
-ADEIMANTUS: Không, anh ta không thể.
-
-(395a) SOCRATES: Vậy thì anh ta sẽ khó lòng thực hành tốt bất kỳ *kỹ năng* nào đáng nói, nếu cùng lúc đó lại đi bắt chước vô số thứ và làm một kẻ bắt chước. Bởi vì, như anh biết, ngay cả khi hai loại hình bắt chước được cho là có họ hàng gần gũi với nhau, thì những người giống nhau cũng không thể làm tốt cả hai việc cùng một lúc. Việc viết bi kịch và hài kịch là một ví dụ. Chẳng phải anh vừa gọi cả hai đều là sự bắt chước sao?
-
-ADEIMANTUS: Tôi có nói thế, và anh hoàn toàn đúng; một người không thể làm cả hai.
-
-SOCRATES: Họ cũng không thể vừa là người ngâm thơ vừa là diễn viên kịch cùng một lúc.
+SOCRATES: Vậy thì còn loại chuyện nào ta cần phải rà soát xem có được phép kể hay không? Ý tôi là, ta đã bàn xong cách khắc họa thần linh, anh hùng, thần thánh và cõi Hades (địa ngục) rồi.
 
 ADEIMANTUS: Đúng vậy.
 
-SOCRATES: Thật vậy, không thể dùng cùng một nhóm người làm diễn viên cho cả bi kịch lẫn hài kịch. Và tất cả những thứ này đều là sự bắt chước, đúng không?
+SOCRATES: Vậy chỉ còn lại những câu chuyện về con người thôi nhỉ?
 
-ADEIMANTUS: Đúng thế.
+ADEIMANTUS: Hiển nhiên rồi.
 
-SOCRATES: Và bản tính con người, Adeimantus, dường như với tôi còn được đúc thành những đồng tiền nhỏ hơn thế nữa, đến mức một cá nhân không thể bắt chước nhiều thứ tốt, cũng không thể thực hiện tốt chính những hành động mà các sự bắt chước kia đang mô phỏng lại.
+SOCRATES: Nhưng bạn của tôi ơi, ta chưa thể bàn về chúng ngay lúc này được.
 
-ADEIMANTUS: Điều đó hoàn toàn đúng.
+ADEIMANTUS: Tại sao không?
 
-SOCRATES: Vậy nên, nếu chúng ta muốn bảo vệ lập luận đầu tiên của mình, rằng những người bảo vệ của chúng ta phải tránh xa mọi *kỹ năng* khác để trở thành những người thợ tinh thông nhất bảo vệ tự do của thành bang, và không thực hành bất cứ điều gì ngoại trừ những việc đóng góp cho mục đích này, thì họ không được làm hay bắt chước bất cứ thứ gì khác. Nhưng nếu có bắt chước điều gì, họ phải bắt chước ngay từ khi còn nhỏ những gì phù hợp với họ—nghĩa là, những người dũng cảm, có sự *tiết chế*, hiếu kính, tự do, và mọi thứ tương tự. Mặt khác, họ không được phép khôn khéo trong việc thực hiện hay bắt chước những hành động thấp hèn hoặc đáng xấu hổ, để họ không hình thành sở thích làm điều thực sự tệ hại từ việc bắt chước nó. Hay anh chưa nhận ra rằng những thói quen bắt chước, nếu cứ tiếp tục kéo dài qua tuổi thanh xuân, sẽ ăn sâu vào thói quen và bản tính của cơ thể, giọng nói, và tâm trí sao?
+SOCRATES: Bởi vì điều mà chúng ta sẽ nói, theo tôi nghĩ, là các thi sĩ và nhà văn  đã sai lầm về những điều quan trọng nhất liên quan đến con người. Họ nói rằng nhiều kẻ bất chính thì hạnh phúc, còn nhiều người chính trực thì khốn khổ; rằng làm điều bất chính thì có lợi nếu không bị phát hiện; và rằng công lý là lợi ích của kẻ khác nhưng là thiệt hại của chính mình. Theo tôi, chúng ta sẽ cấm họ nói những điều như thế, và sẽ yêu cầu họ ca hát và kể lại điều ngược lại.
+Anh không thấy vậy sao?
 
-ADEIMANTUS: Thực sự tôi đã nhận ra.
+ADEIMANTUS: Không phải thấy, mà tôi biết chắc là vậy.
 
-SOCRATES: Vì những người chúng ta quan tâm là những người đàn ông, và là những người phải trở thành người tốt, nên chúng ta sẽ không cho phép họ bắt chước một người phụ nữ, dù trẻ hay già, đang nhục mạ chồng mình, cãi vã với thần linh, khoác lác vì nghĩ mình hạnh phúc, hay đang gặp xui xẻo và bị bủa vây bởi nỗi buồn cùng những lời than khóc—và lại càng không được bắt chước một người phụ nữ đang ốm đau, đang yêu say đắm, hay đang chuyển dạ.
+SOCRATES: Nếu anh đồng ý rằng điều tôi nói là đúng, chẳng phải tôi có thể nói rằng anh đã thừa nhận chính điểm mà từ đầu đến giờ chúng ta vẫn đang khảo sát hay sao?
 
-ADEIMANTUS: Tuyệt đối không.
+ADEIMANTUS: Anh nói đúng.
 
-SOCRATES: Họ cũng không được bắt chước nô lệ nam hay nữ đang làm những công việc hèn mọn.
+SOCRATES: Chúng ta sẽ không thể nhất trí được nên kể những câu chuyện gì về con người cho đến khi ta tìm ra bản chất thực sự của *điều đúng* là gì, và xem nó mang lại lợi ích tự thân cho người sở hữu nó như thế nào, bất kể người đời có công nhận anh ta là người *sống đúng* hay không.
 
-ADEIMANTUS: Không, họ không được làm thế.
+ADEIMANTUS: Hoàn toàn chính xác.
 
-SOCRATES: Có vẻ như họ cũng không được bắt chước những gã đàn ông tồi tệ, hèn nhát, hoặc những kẻ có hành động trái ngược với những gì chúng ta vừa mô tả—những gã bôi nhọ và chế nhạo lẫn nhau, dùng những lời lẽ thô bỉ khi say sỉn hay thậm chí khi tỉnh táo, hoặc những kẻ làm hại bản thân và người khác bằng lời nói hay hành động theo những cách khác (396a) vốn là đặc trưng của loại người đó. Và họ không được phép nhiễm thói quen hành động hay nói năng như những kẻ điên, tôi cho là thế. Tất nhiên họ phải biết về những người điên rồ và xấu xa, nhưng họ không được làm hay bắt chước bất cứ điều gì những kẻ đó làm.
+SOCRATES: Vậy là xong phần nội dung câu chuyện. Theo tôi, nhiệm vụ tiếp theo là khảo sát hình thức thể hiện (phong cách). Làm xong việc này thì ta sẽ hoàn tất trọn vẹn cả hai mặt: nói cái gì và nói như thế nào.
 
-ADEIMANTUS: Hoàn toàn đúng như vậy.
+ADEIMANTUS: Tôi chưa hiểu ý anh lắm.
 
-SOCRATES: Thế còn thợ rèn hoặc các thợ thủ công khác, hoặc những người chèo thuyền trong đội thuyền ba tầng chèo, hay người chỉ huy của họ, hoặc những việc tương tự—họ có nên bắt chước những người này không?
+SOCRATES: Chà, tôi phải làm cho anh hiểu mới được. Chắc thế này sẽ dễ hình dung hơn: có phải mọi thứ được các nhà thơ và người kể chuyện thốt ra đều là sự tường thuật về quá khứ, hiện tại hoặc tương lai sao?
 
-ADEIMANTUS: Không, họ không nên, vì họ thậm chí còn không được phép bận tâm đến những nghề nghiệp đó.
+ADEIMANTUS: Tất nhiên.
 
-SOCRATES: Và thế còn tiếng ngựa hí, tiếng bò rống, tiếng sông gầm, tiếng biển động, tiếng sấm sét, hay những âm thanh tương tự—họ sẽ bắt chước chúng chứ?
+SOCRATES: Và họ thực hiện việc đó thông qua lối kể chuyện đơn thuần, hay kể thông qua việc *mô phỏng* (imitation), hoặc kết hợp cả hai?
 
-ADEIMANTUS: Không, họ đã bị cấm trở nên điên rồ hay bắt chước những kẻ điên rồ.
+ADEIMANTUS: Tôi cần anh giải thích rõ hơn chút nữa.
 
-SOCRATES: Vậy nếu tôi hiểu đúng ý anh, anh đang nói rằng có một loại phong cách và trần thuật mà một người thực sự tốt và tử tế sẽ sử dụng bất cứ khi nào anh ta cần nói điều gì đó, và một loại khác, trái ngược với loại này, mà kẻ đối nghịch với anh ta về bản tính và giáo dục sẽ luôn ưa thích, và kẻ đó sẽ dùng nó để kể câu chuyện của mình.
+SOCRATES: Ôi, tôi quả là một ông thầy diễn đạt tệ hại! Vậy tôi sẽ làm cách mà mấy kẻ kém ăn nói hay làm: thay vì nói bao quát, tôi sẽ lấy một ví dụ cụ thể để giải thích ý mình. Nói tôi nghe, anh có biết đoạn mở đầu sử thi Iliad không? Chỗ mà nhà thơ kể chuyện Chryses cầu xin Agamemnon thả con gái mình, nhưng Agamemnon lại nổi trận lôi đình, khiến Chryses thất vọng và cầu xin vị thần của ông ta [37] trừng phạt quân Achaea ấy?
+(393a)
 
-ADEIMANTUS: Đó là những loại nào?
+ADEIMANTUS: Tôi biết đoạn đó.
 
-SOCRATES: Theo quan điểm của tôi, khi một người chừng mực tình cờ thuật lại lời nói hoặc hành động của một người tốt trong câu chuyện, anh ta sẽ sẵn lòng báo cáo lại như thể chính mình là người đó, và sẽ không xấu hổ về kiểu bắt chước này. Anh ta sẽ sẵn lòng nhất khi bắt chước người tốt đang hành động một cách hoàn hảo và trí tuệ, nhưng sẽ ít sẵn lòng và miễn cưỡng hơn khi người đó bị xáo trộn bởi bệnh tật, đam mê, say xỉn, hay một tai ương nào đó. Tuy nhiên, khi anh ta gặp một nhân vật thấp kém hơn mình, anh ta sẽ không sẵn lòng hạ mình để giống với nhân vật hạ đẳng này một cách nghiêm túc—ngoại trừ có lẽ trong một khoảnh khắc ngắn ngủi khi nhân vật đó đang làm một việc gì đó tốt. Ngược lại, anh ta sẽ xấu hổ khi làm một việc như thế, vừa vì anh ta không quen bắt chước những loại người đó, vừa vì anh ta không thể chịu đựng nổi việc nhào nặn và đúc kết bản thân theo một khuôn mẫu thấp kém. Trong thâm tâm, anh ta khinh miệt điều đó, ngoại trừ khi làm vậy chỉ để cho vui.
+SOCRATES: Vậy anh cũng nhận ra rằng, câu: "Ông ta cầu xin toàn bộ quân Achaea, nhưng đặc biệt là hai người con của Atreus, những người chỉ huy quân đội,"[38] thì chính nhà thơ Homer đang tự xưng và không hề muốn chúng ta nghĩ người đang nói là ai khác ngoài ông ấy. Nhưng ngay sau đoạn đó, ông ấy lại viết như thể Chryses đang tự nói, làm khán giả tin rằng người đang nói không phải là Homer mà là vị tư tế tự nói. Và gần như toàn bộ phần còn lại của câu chuyện về thành Troy, Ithaca, cũng như trường ca Odyssey đều được viết theo lối đó.
 
-ADEIMANTUS: Chắc là thế.
+ADEIMANTUS: Đúng là thế.
 
-SOCRATES: Vậy chẳng phải anh ta sẽ dùng những cách kể chuyện mà chúng ta vừa mô tả khi bàn về sử thi Homer lúc nãy sao? Và mặc dù phong cách nói của anh ta sẽ bao gồm cả việc bắt chước lẫn lối trần thuật thông thường, chẳng phải sự bắt chước sẽ chỉ chiếm một phần nhỏ ngay cả trong một câu chuyện dài sao? Hay tôi đang nói nhảm?
+SOCRATES: Dù là các đoạn đối thoại hay những dòng dẫn truyện xen kẽ giữa chúng thì vẫn được gọi là kiểu tường thuật lại, đúng không?
 
-ADEIMANTUS: Không hề. Đó chắc chắn phải là khuôn mẫu mà kiểu người nói đó tuân theo.
+ADEIMANTUS: Đương nhiên.
 
-SOCRATES: Còn về kiểu người nói kia, càng thấp kém bao nhiêu, anh ta sẽ (397a) càng sẵn lòng kể về bất cứ thứ gì và không coi thứ gì là quá thấp hèn so với mình. Do đó, anh ta sẽ đảm nhận việc bắt chước mọi thứ mà chúng ta vừa đề cập một cách nghiêm túc trước một lượng lớn khán giả: tiếng sấm và tiếng gió, mưa đá, tiếng trục bánh xe và ròng rọc; tiếng kèn, sáo, ống tiêu, và mọi loại nhạc cụ khác; và thậm chí cả tiếng kêu của chó, cừu, và chim chóc. Và phong cách của anh ta sẽ hoàn toàn là sự bắt chước bằng giọng nói và cử chỉ, phải không, với họa chằn một chút ít trần thuật đơn thuần được ném vào?
+SOCRATES: Nhưng khi nhà thơ đọc thoại dưới vỏ bọc một nhân vật khác, chẳng phải ta sẽ nói rằng ông ta đang cố ép giọng văn của mình sao cho giống với nhân vật mà ông ta đang cho lên tiếng sao?
 
-ADEIMANTUS: Vâng, điều đó cũng phải như vậy.
+ADEIMANTUS: Chắc chắn rồi.
 
-SOCRATES: Chà, vậy thì đó là ý của tôi khi nói rằng có hai loại phong cách.
+SOCRATES: Mà việc biến đổi giọng điệu hay dáng vẻ của mình cho giống với một người khác, chẳng phải chính là *mô phỏng* người đó sao?
 
-ADEIMANTUS: Và anh đã đúng; có hai loại.
+ADEIMANTUS: Dĩ nhiên.
 
-SOCRATES: Bây giờ, một trong hai loại đó có rất ít sự biến tấu.[41] Vì vậy, nếu một sự hài hòa và nhịp điệu phù hợp được cung cấp cho phong cách này, chẳng phải bất cứ ai nói theo phong cách đó một cách chính xác sẽ gần như chỉ nói trong một sự hài hòa duy nhất và hơn thế nữa, trong cùng một nhịp điệu tương tự, vì những sự biến tấu trong đó là rất nhỏ sao?
+SOCRATES: Vậy trong những đoạn như thế, có vẻ như ông ấy và các nhà thơ khác đang thực hiện việc tường thuật thông qua *sự mô phỏng*.
 
-ADEIMANTUS: Vâng, đó chính xác là những gì anh ta sẽ làm.
+ADEIMANTUS: Quả đúng như vậy.
 
-SOCRATES: Còn loại phong cách thứ hai thì sao? Chẳng phải nó sẽ cần điều ngược lại: cụ thể là, mọi sự hài hòa và mọi nhịp điệu, nếu nó cũng muốn được nói một cách thích hợp, vì nó mang tính đa dạng trong các hình thức biến tấu của nó sao?
+SOCRATES: Nhưng nếu nhà thơ không gán giọng nói của mình bằng cách để nhân vật tự nói, thì toàn bộ bài thơ sẽ chỉ là sự tường thuật thuần túy, không có sự *mô phỏng* nào. Để anh khỏi kêu là chưa hiểu, tôi sẽ chỉ cho anh thấy nó sẽ trông như thế nào. Giả sử Homer kể rằng Chryses mang tiền chuộc đến xin quân Achaea và các vị vua thả con gái mình, và sau đó Homer tiếp tục kể câu chuyện dưới danh nghĩa Homer chứ không nhập vai thành Chryses, thì anh hiểu đó là tường thuật đơn thuần, không phải mô phỏng chứ. Nó sẽ diễn ra đại loại thế này, tôi sẽ nói văn xuôi vì tôi không rành thơ: vị tư tế đến và cầu nguyện thần linh sẽ ban cho quân Achaea chiến thắng phá sập thành Troy và trở về nhà an toàn, rồi ông nài nỉ họ nhận tiền chuộc và trả tự do cho con gái ông, vì lòng kính trọng thần linh.[39] Nghe xong, những người khác đều tán thành. Nhưng Agamemnon thì tức giận, đuổi ông đi và cấm không được quay lại, nếu không thì dù có mang gậy tư tế hay vòng hoa thần thánh cũng chẳng cứu nổi mạng. Hắn tuyên bố con gái ông sẽ phải phục dịch hắn tới già ở Argos chứ không có chuyện được thả. Hắn ra lệnh cho Chryses biến đi cho khuất mắt để còn giữ được mạng. Khi (394a) ông lão nghe thấy thế, ông sợ hãi lẳng lặng rời đi. Khi đã ra khỏi doanh trại, ông cầu xin Apollo, gọi các danh xưng của thần linh, nhắc lại những cống phẩm ông từng dâng lên, dù là xây đền hay hiến tế, và xin được báo đáp lại. Ông cầu xin rằng, đổi lại những món đồ lễ đó, những mũi tên của thần linh sẽ bắt quân Achaea phải trả giá cho những giọt nước mắt của ông. Đó, bạn tôi ơi, chính là cách kể chuyện thuần túy không có sự *mô phỏng* nào.
 
-ADEIMANTUS: Vâng, nó rất giống như thế.
+ADEIMANTUS: Tôi hiểu rồi.
 
-SOCRATES: Bây giờ, chẳng phải mọi nhà thơ và người diễn thuyết đều áp dụng một phong cách phù hợp với một trong hai khuôn mẫu này, hoặc pha trộn cả hai sao?
+SOCRATES: Vậy thì anh cũng hiểu điều ngược lại sẽ xảy ra nếu ta cắt bỏ hết các đoạn dẫn chuyện xen kẽ và chỉ giữ lại toàn các đoạn thoại nhân vật.
 
-ADEIMANTUS: Bắt buộc là thế.
+ADEIMANTUS: Điều đó tôi cũng hiểu; như trong các vở bi kịch và hài kịch.
 
-SOCRATES: Vậy chúng ta phải làm gì đây? Chúng ta sẽ chấp nhận tất cả những thứ này vào thành bang của mình, hay chỉ chọn một trong các loại thuần túy, hay là loại pha trộn?
+SOCRATES: Anh nắm bắt hoàn toàn chính xác. Và giờ tôi nghĩ mình đã làm rõ được điều mà ban nãy tôi chưa nói được. Đó là: có một loại hình thơ ca và kể chuyện chỉ dùng sự *mô phỏng* (nội dung thông qua nhân vật nói), như anh vừa nói, như các vở bi kịch và hài kịch. Loại thứ hai chủ yếu xuất hiện trong các bài thánh ca tụng thần (dithyrambs)[40] (nội dung thông qua người kể), chỉ dùng lối kể chuyện thuần túy từ chính tác giả. Loại thứ ba kết hợp cả hai, ta thường thấy ở sử thi và nhiều thể loại khác. Anh theo kịp chứ?
 
-ADEIMANTUS: Nếu theo quan điểm của tôi, chúng ta sẽ chỉ chấp nhận kẻ bắt chước thuần túy về một người tốt.
+ADEIMANTUS: Vâng, giờ tôi đã hiểu ý anh.
 
-SOCRATES: Nhưng mà, Adeimantus, phong cách pha trộn thì lại rất vui tai. Và phong cách làm hài lòng trẻ em, những người thầy của chúng, cùng phần lớn đám đông nhất lại chính là loại trái ngược với loại anh vừa chọn.
+SOCRATES: Và trước đó, anh có nhớ ta đã thống nhất là ta đã giải quyết xong phần nội dung, nhưng vẫn phải xem xét phần hình thức không?
 
-ADEIMANTUS: Vâng, nó là thứ làm vui tai nhất.
+ADEIMANTUS: Vâng, tôi nhớ.
 
-SOCRATES: Nhưng có lẽ anh sẽ nói rằng nó không phù hợp với hiến pháp của chúng ta, bởi vì trong chúng ta không hề có loại người mang hai hay nhiều khuôn mặt, vì mỗi người chỉ làm đúng một việc của mình.
+SOCRATES: Ý tôi chính là: chúng ta cần phải thống nhất xem liệu có cho phép các nhà thơ của thành phố tường thuật bằng cách *mô phỏng* hay không; nếu có thì *mô phỏng* những gì và không được *mô phỏng* những gì; hoặc là cấm tiệt việc *mô phỏng*.
 
-ADEIMANTUS: Quả thực, nó không hề phù hợp.
+ADEIMANTUS: Tôi đoán anh đang cân nhắc xem chúng ta có nên cho phép bi kịch và hài kịch tồn tại trong thành phố hay không.
 
-SOCRATES: Và chẳng phải đó là lý do mà chỉ ở một thành bang như của chúng ta, anh mới có thể tìm thấy một người thợ đóng giày chỉ làm thợ đóng giày, chứ không phải một thuyền trưởng kiêm đóng giày; và một nông dân chỉ làm nông dân, chứ không phải một quan tòa kiêm làm nông; và một người lính chỉ làm người lính, chứ không phải một kẻ kiếm tiền kiêm đi lính, và cứ thế sao?
+SOCRATES: Có thể vậy, nhưng vấn đề có thể còn sâu xa hơn thế. Thực tình tôi cũng chưa biết chắc. Nhưng hễ ngọn gió của lý lẽ thổi ta về hướng nào, ta buộc phải giong buồm theo hướng đó.
 
-ADEIMANTUS: Đúng, sự thật là vậy.
+ADEIMANTUS: Anh nói chí lý.
 
-SOCRATES: Vậy giả sử, có một người mà trí tuệ của anh ta cho phép anh ta (398a) biến hóa đa dạng và bắt chước mọi thứ, đích thân đến thành bang của chúng ta và muốn trình diễn những bài thơ của mình. Có vẻ như chúng ta sẽ cúi rạp trước anh ta như một người thiêng liêng, đáng kinh ngạc và thú vị. Nhưng chúng ta sẽ nói với anh ta rằng không có ai giống anh ta trong thành bang của chúng ta, và luật pháp thần thánh cũng không cho phép có một người như vậy. Rồi chúng ta sẽ xức nước hoa lên đầu anh ta, đội cho anh ta một vòng hoa bằng len,[42] và tiễn anh ta sang một thành bang khác. Tuy nhiên, vì lợi ích của chính mình, chúng ta sẽ thuê một nhà thơ và người kể chuyện nghiêm nghị hơn và bớt giải trí hơn—người sẽ bắt chước lời nói của một người tốt và làm cho câu chuyện của ông ta vừa vặn với những khuôn mẫu mà chúng ta đã thiết lập ngay từ đầu, khi chúng ta bắt tay vào việc giáo dục những người lính của mình.
+SOCRATES: Điều tôi muốn anh cân nhắc, Adeimantus, là liệu các vệ binh của chúng ta có nên trở thành những kẻ *mô phỏng* hay không. Hay câu trả lời đã nằm sẵn trong những gì ta vừa bàn, rằng mỗi người chỉ có thể làm tốt một nghề, không thể làm tốt nhiều việc cùng lúc, và nếu cứ cố ôm đồm mọi thứ, anh ta cầm chắc thất bại trong việc trở nên xuất chúng ở bất cứ lĩnh vực nào?
 
-ADEIMANTUS: Vâng, đó chắc chắn là điều chúng ta sẽ làm, nếu quyền quyết định nằm trong tay chúng ta.
+ADEIMANTUS: Chắc chắn là vậy. Làm sao khác được?
 
-SOCRATES: Và bây giờ, anh bạn, có vẻ như chúng ta đã hoàn tất cuộc thảo luận về nhánh giáo dục âm nhạc liên quan đến lời nói và câu chuyện. Rốt cuộc, chúng ta đã thảo luận cả về việc nên nói cái gì và nên nói như thế nào.
+SOCRATES: Vậy thì nguyên tắc đó cũng áp dụng cho sự *mô phỏng*, nghĩa là một cá nhân không thể mô phỏng nhiều thứ xuất sắc bằng việc chỉ tập trung mô phỏng một thứ?
 
-ADEIMANTUS: Vâng, tôi cũng thấy như vậy.
+ADEIMANTUS: Không thể.
 
-SOCRATES: Vậy phần tiếp theo mà chúng ta cần thảo luận chẳng phải sẽ là những bài ca và bài tụng trữ tình sao?
+(395a) SOCRATES: Thế thì anh ta cũng khó lòng vừa theo đuổi một nghề nghiệp chân chính, lại vừa đóng vai trò của một kẻ *mô phỏng* nhiều thứ. Bởi như anh biết đấy, ngay cả hai hình thức mô phỏng có vẻ rất gần gũi với nhau, một người cũng khó lòng kiêm nhiệm xuất sắc cả hai. Việc viết bi kịch và hài kịch là một ví dụ. Anh vừa gọi cả hai cái đó là sự *mô phỏng* đúng không?
+
+ADEIMANTUS: Đúng thế, và anh hoàn toàn chính xác; một người không thể làm tốt cả hai.
+
+SOCRATES: Họ cũng không thể vừa là người ngâm thơ sử thi vừa là diễn viên kịch.
+
+ADEIMANTUS: Đúng vậy.
+
+SOCRATES: Thậm chí, cùng một diễn viên không thể đóng cả bi kịch lẫn hài kịch. Và tất cả những thứ đó đều là *mô phỏng*, đúng không?
+
+ADEIMANTUS: Chuẩn xác.
+
+SOCRATES: Adeimantus này, tôi thấy bản tính con người được đúc ra thành những khuôn mẫu rất nhỏ hẹp, nhỏ đến mức một người không thể vừa *mô phỏng* nhiều thứ, vừa thực hiện tốt những hành động thực tế mà sự *mô phỏng* đó đang tái tạo lại.
+
+ADEIMANTUS: Quả đúng như vậy.
+
+SOCRATES: Vì vậy, để bảo toàn lập luận ban đầu, rằng vệ binh phải tránh xa mọi nghề nghiệp khác để trở thành những người thợ tinh nhuệ nhất bảo vệ tự do cho thành phố, và không được phép làm bất cứ việc gì không phục vụ cho mục đích này, thì họ không được phép làm hay *mô phỏng* bất cứ thứ gì khác. Giả sử họ có *mô phỏng*, họ chỉ được phép học tập từ nhỏ việc hóa thân vào những hình mẫu phù hợp với họ: những người dũng cảm, biết *tiết chế*, hiếu kính, tự do, và những điều tương tự. Họ tuyệt đối không được tỏ ra tinh ranh trong việc thực hiện hay *mô phỏng* những hành vi đớn hèn, nhục nhã, kẻo việc nhập vai giả sẽ ngấm vào người thành bản tính thật. Anh có để ý rằng, nếu người ta cứ tiếp tục thói quen *mô phỏng* từ thuở thiếu thời, nó sẽ bám rễ thành tập tính và định hình luôn cả ngôn ngữ cơ thể, giọng nói và tư duy không?
+
+ADEIMANTUS: Tôi có thấy điều đó.
+
+SOCRATES: Vì mục tiêu của ta là đào tạo ra những người đàn ông đích thực và xuất chúng, ta sẽ không cho phép họ *mô phỏng* hình ảnh đàn bà, dù già hay trẻ, đang mắng chửi chồng, báng bổ thần linh, kiêu ngạo tự phụ, hay khi đang gặp tai ương mà khóc lóc ỉ ôi, và lại càng cấm kỵ việc mô phỏng một người phụ nữ ốm đau, đang say đắm ái tình hay lúc đang đau đẻ.
+
+ADEIMANTUS: Tuyệt đối không được.
+
+SOCRATES: Họ cũng không được bắt chước hành động hèn mọn của nam nữ nô lệ.
+
+ADEIMANTUS: Chắc chắn là không.
+
+SOCRATES: Có vẻ họ cũng không được đóng vai những gã đàn ông đớn hèn, tồi tệ, hoặc những kẻ có hành xử trái ngược với những hình mẫu ta vừa bàn, những kẻ bôi nhọ, châm chọc lẫn nhau, dùng lời lẽ tục tĩu lúc say xỉn hay cả lúc tỉnh táo, hoặc tự hãm hại mình và người khác bằng cả lời nói lẫn hành động (396a) giống như bản chất của bọn chúng. Tôi cho rằng họ cũng không được rèn thói quen nói năng, hành xử như những kẻ điên. Dĩ nhiên họ phải biết về sự tồn tại của những kẻ điên rồ và độc ác, nhưng họ không được phép làm theo hay *mô phỏng* bất kỳ điều gì lũ đó làm.
+
+ADEIMANTUS: Hoàn toàn đồng ý.
+
+SOCRATES: Thế còn thợ rèn, thợ thủ công, phu chèo thuyền chiến, người chỉ huy nhịp chèo, hay những người tương tự, vệ binh có nên bắt chước họ không?
+
+ADEIMANTUS: Không, họ thậm chí còn không được bận tâm đến những nghề nghiệp đó cơ mà.
+
+SOCRATES: Thế còn tiếng ngựa hí, tiếng bò rống, tiếng sông gầm, biển động, sấm sét hay những thứ tương tự, họ có được *mô phỏng* chúng không?
+
+ADEIMANTUS: Không, họ đã bị cấm nổi điên hay bắt chước những kẻ điên rồi.
+
+SOCRATES: Nếu tôi hiểu đúng ý anh, thì ý anh là có một phong cách văn phong và lối kể chuyện mà một con người thực sự xuất chúng và tao nhã sẽ sử dụng, trong khi kẻ mang bản tính và nền giáo dục tồi tệ sẽ luôn chuộng một phong cách hoàn toàn trái ngược để kể câu chuyện của hắn.
+
+ADEIMANTUS: Đó là những phong cách nào?
+
+SOCRATES: Theo tôi, khi một người chừng mực tường thuật lại lời nói hay hành động của một người tốt, anh ta sẽ sẵn lòng nhập vai kể như thể chính mình là người đó, và không thấy xấu hổ vì sự *mô phỏng* này. Anh ta sẽ thích thú nhất khi hóa thân vào người tốt lúc người đó đang hành xử một cách khôn ngoan và hoàn hảo, nhưng sẽ do dự và miễn cưỡng hơn nếu phải đóng vai người tốt lúc đang bị khuất phục bởi bệnh tật, nhục dục, men say hay tai ương. Tuy nhiên, khi đụng phải một nhân vật hèn kém hơn mình, anh ta sẽ không đời nào chịu hạ mình để bắt chước kẻ hạ lưu đó một cách nghiêm túc, trừ phi chỉ là chốc lát khi kẻ đó tình cờ làm được việc gì tốt. Trái lại, anh ta sẽ cảm thấy hổ thẹn nếu phải làm thế, một phần vì anh ta chưa từng được rèn luyện để đóng vai những kẻ như vậy, phần vì anh ta không thể chịu nổi việc nhào nặn bản thân theo một hình mẫu ti tiện. Trong thâm tâm, anh ta coi khinh điều đó, họa chăng chỉ làm vậy để bỡn cợt cho vui.
+
+ADEIMANTUS: Có lẽ đúng vậy.
+
+SOCRATES: Vậy thì chẳng phải anh ta sẽ dùng kiểu kể chuyện mà ta vừa phân tích trong sử thi Homer sao? Và dù lối diễn đạt của anh ta có pha trộn giữa sự *mô phỏng* và lời kể thuần túy, thì sự *mô phỏng* cũng chỉ chiếm một phần rất nhỏ dẫu trong một câu chuyện dài phải không? Hay là tôi đang nói nhảm?
+
+ADEIMANTUS: Không hề. Đó đích xác phải là khuôn mẫu của một người nói chuyện thuộc tầng lớp ấy.
+
+SOCRATES: Còn về loại người nói chuyện thứ hai, nhân cách hắn càng thấp kém, hắn sẽ (397a) càng sẵn sàng tường thuật đủ thứ hầm bà lằng và chẳng coi điều gì là hạ đẳng. Do đó, hắn sẽ không ngần ngại *mô phỏng* một cách cực kỳ nghiêm túc trước đám đông tất cả những thứ ta vừa nhắc đến: tiếng sấm, tiếng gió, mưa đá, tiếng trục bánh xe, ròng rọc; tiếng kèn, sáo, ống tiêu và đủ loại nhạc cụ; thậm chí cả tiếng sủa của chó, tiếng cừu kêu hay chim hót. Lối nói của hắn sẽ ngập tràn những kỹ xảo thanh âm và điệu bộ, và họa hoằn lắm mới có một chút yếu tố dẫn truyện thuần túy, đúng không?
+
+ADEIMANTUS: Vâng, chắc chắn là như vậy.
+
+SOCRATES: Vậy đó, đấy chính là điều tôi muốn nói khi phân loại hai phong cách kể chuyện.
+
+ADEIMANTUS: Và anh đã phân tích rất đúng; đúng là có hai loại đó.
+
+SOCRATES: Giờ thì, phong cách thứ nhất (của người tốt) có rất ít sự biến đổi.[41] Nên nếu ta tìm được một giai điệu và nhịp điệu phù hợp cho phong cách này, thì chẳng phải bất cứ ai diễn đạt theo nó cũng sẽ chỉ dùng một âm điệu và gần như chung một nhịp điệu duy nhất sao, bởi vì những cung bậc thay đổi trong đó là rất nhỏ?
+
+ADEIMANTUS: Vâng, chính xác là anh ta sẽ làm như thế.
+
+SOCRATES: Còn phong cách thứ hai thì sao? Chẳng phải nó đòi hỏi điều ngược lại: cần dùng đủ mọi loại âm điệu và nhịp điệu sao, bởi vì bản thân hình thức của nó đã bao trùm muôn hình vạn trạng các kiểu biến đổi?
+
+ADEIMANTUS: Đúng, nó đích thị là như vậy.
+
+SOCRATES: Vậy chẳng phải mọi nhà thơ hay người nói chuyện đều áp dụng một trong hai phong cách này, hoặc trộn lẫn cả hai sao?
+
+ADEIMANTUS: Chắc chắn rồi.
+
+SOCRATES: Vậy chúng ta sẽ làm gì đây? Có nên cho phép tất cả các phong cách này vào thành phố của ta, hay chỉ giữ lại một dạng thuần túy, hay là dạng pha trộn?
+
+ADEIMANTUS: Nếu theo ý tôi, chúng ta sẽ chỉ cho phép dạng tường thuật thuần túy của người tốt được tồn tại.
+
+SOCRATES: Ấy thế nhưng, Adeimantus ạ, phong cách pha trộn lại rất cuốn hút. Và phong cách mà trẻ em, người nuôi dạy chúng, cùng đại đa số quần chúng mê mẩn nhất lại chính là cái phong cách trái ngược với lựa chọn của anh.
+
+ADEIMANTUS: Đúng, nó là thứ hấp dẫn nhất.
+
+SOCRATES: Nhưng có lẽ anh sẽ phản biện rằng phong cách đó không phù hợp với thể chế của chúng ta, vì ở đây không tồn tại loại người mang bản tính chắp vá, hai mặt hay đa nhân cách, bởi lẽ mỗi người chỉ chuyên tâm làm một việc duy nhất.
+
+ADEIMANTUS: Đúng vậy, nó không hề phù hợp chút nào.
+
+SOCRATES: Và chẳng phải đó là lý do mà chỉ ở một thành phố như của ta, thợ đóng giày mới thực sự là thợ đóng giày chứ không phải một ông thuyền trưởng kiêm đóng giày; người nông dân là nông dân chứ không phải quan tòa kiêm làm nông; và người lính là lính chứ không phải thương nhân kiêm đi lính, v.v.?
+
+ADEIMANTUS: Đúng là như vậy.
+
+SOCRATES: Vậy giả sử, có một người dùng sự khôn khéo của mình để (398a) biến hóa đa đoan và có thể *mô phỏng* mọi thứ trên đời, trực tiếp đến thành phố của ta để xin trình diễn những bài thơ của anh ta. Tôi nghĩ chúng ta sẽ phải cúi đầu tôn kính anh ta như một sinh thể thiêng liêng, phi thường và quyến rũ. Nhưng ta sẽ phải nói thẳng với anh ta rằng thành phố này không có chỗ cho những người như anh, và luật lệ thần thánh cũng không cho phép điều đó. Sau đó, ta sẽ xức nước hoa lên đầu anh ta, đội cho anh ta một vòng hoa len,[42] rồi tiễn anh ta sang thành phố khác. Còn để phục vụ cho lợi ích của chính mình, ta sẽ dùng một nhà thơ, một người kể chuyện mộc mạc và bớt tính giải trí hơn, người sẽ chỉ *mô phỏng* giọng điệu của người tốt và tuân thủ chặt chẽ những khuôn mẫu mà ta đã vạch ra từ đầu, khi bắt tay vào giáo dục các chiến binh.
+
+ADEIMANTUS: Vâng, chắc chắn chúng ta sẽ làm thế, nếu quyền quyết định nằm trong tay ta.
+
+SOCRATES: Vậy là, bạn của tôi ơi, có vẻ như chúng ta đã chốt xong phần giáo dục nghệ thuật liên quan đến ngôn từ và cốt truyện. Rốt cuộc thì ta đã giải quyết xong cả hai bề mặt: nói cái gì và nói như thế nào.
+
+ADEIMANTUS: Vâng, tôi cũng thấy vậy.
+
+SOCRATES: Vậy phần tiếp theo ta cần phải bàn chẳng phải là các bài thơ trữ tình và bài hát sao?
 
 ADEIMANTUS: Rõ ràng rồi.
 
-SOCRATES: Và đến lúc này, bất cứ ai cũng có thể khám phá ra phải nói gì về việc chúng nên trông như thế nào, nếu muốn chúng đồng nhất với những gì đã được nói trước đó, phải không?
+SOCRATES: Và bây giờ, nếu muốn đồng nhất với những lập luận từ đầu đến giờ, thì bất cứ ai cũng có thể tự suy ra được những nguyên tắc dành cho âm nhạc đúng không?
 
-> *Và Glaucon bật cười, nói:*
+> *Lúc này Glaucon bật cười và xen vào:*
+Socrates, tôi e rằng chữ "bất cứ ai" đó không bao gồm tôi rồi. Ngay lúc này tôi chưa mường tượng rõ được ta sẽ nói gì, dù trong đầu cũng lờ mờ đoán được.
 
-Tôi e rằng, thưa Socrates, chữ "bất cứ ai" không bao gồm tôi. Anh thấy đấy, lúc này đối với tôi vẫn chưa đủ rõ ràng về việc chúng ta phải nói gì, mặc dù tôi cũng lờ mờ đoán được.
+SOCRATES: Ít nhất thì anh cũng nắm được điều này chứ: một bài hát bao gồm ba yếu tố, ca từ, âm điệu, và nhịp điệu.
 
-SOCRATES: Dù sao đi nữa, cậu vẫn đủ rõ ràng về điều này: thứ nhất, bài ca bao gồm ba yếu tố—lời nói, sự hài hòa, và nhịp điệu.
+GLAUCON: Vâng, ít nhất thì tôi biết điều đó.
 
-GLAUCON: Vâng, ít nhất tôi cũng biết điều đó.
+SOCRATES: Giờ thì, về mặt ca từ, nó đâu có gì khác với lời nói không phổ nhạc đúng không? Nó vẫn phải tuân thủ những khuôn mẫu ta vừa thiết lập.
 
-SOCRATES: Bây giờ, xét về khía cạnh lời nói, nó không có gì khác biệt so với lời nói không nằm trong một bài ca, đúng không, ở chỗ nó vẫn phải được thốt lên tuân theo những khuôn mẫu mà chúng ta vừa mới thiết lập?
+GLAUCON: Sự thật là vậy.
 
-GLAUCON: Đúng vậy.
+SOCRATES: Hơn nữa, âm điệu và nhịp điệu phải đi đôi với ca từ.
 
-SOCRATES: Xa hơn nữa, sự hài hòa và nhịp điệu phải phù hợp với lời nói.
+GLAUCON: Đương nhiên.
 
-GLAUCON: Tất nhiên.
+SOCRATES: Nhưng ta đã nói rằng không cần đến những lời than khóc, nỉ non trong từ ngữ nữa.[43]
 
-SOCRATES: Nhưng chúng ta đã nói rằng không còn cần đến những bài ca bi lụy và sự than khóc trong ngôn từ nữa.[43]
+GLAUCON: Đúng, không cần nữa.
 
-GLAUCON: Không, không còn cần nữa.
+SOCRATES: Vậy những âm điệu nào là âm điệu than vãn? Anh nói tôi nghe; anh là người rành âm nhạc mà.
 
-SOCRATES: Vậy thì những sự hài hòa bi lụy là những loại nào? Cậu nói cho tôi nghe đi; cậu là người am hiểu âm nhạc mà.
+GLAUCON: Đó là điệu mixo-Lydian, syntono-Lydian, và một vài điệu tương tự.
 
-GLAUCON: Loại mixo-Lydian, syntono-Lydian, và vài loại khác tương tự.
+SOCRATES: Ta có nên cấm chúng không? Rốt cuộc thì chúng chẳng giúp ích gì cho phụ nữ để họ trở nên tốt đẹp hơn, chứ đừng nói là đàn ông.
 
-SOCRATES: Vậy chẳng phải chúng ta nên loại trừ chúng sao? Rốt cuộc, chúng thậm chí còn vô dụng trong việc giúp phụ nữ trở nên tốt như họ cần, huống hồ là đàn ông.
+GLAUCON: Chắc chắn là phải cấm.
 
-GLAUCON: Chắc chắn chúng ta nên loại bỏ.
-
-SOCRATES: Giờ thì, việc say xỉn chắc chắn cũng hoàn toàn không phù hợp với những người bảo vệ của chúng ta, và sự mềm yếu, ỷ lại cũng vậy.
-
-GLAUCON: Tất nhiên.
-
-SOCRATES: Vậy, những sự hài hòa mềm mỏng, và những loại phù hợp cho các bữa tiệc rượu là gì?
-
-GLAUCON: Có một số loại Ionian được gọi là "thư giãn", và cũng có một số loại Lydian.
-
-SOCRATES: Liệu cậu có thể dùng bất kỳ loại nào trong số chúng, bạn tôi ơi, lên những người đàn ông (399a) đang là chiến binh không?
-
-GLAUCON: Không, không bao giờ. Vậy có vẻ như anh chỉ còn lại loại Dorian và Phrygian.
-
-SOCRATES: Tôi không rành về các sự hài hòa, nên hãy để lại cho tôi loại hài hòa mô phỏng một cách thích hợp thanh âm và giọng điệu [44] của một người dũng cảm đang dấn thân vào chiến trận hoặc một công việc nào đó mà anh ta buộc phải làm, và người mà—ngay cả khi thất bại, đối mặt với thương tích, cái chết hay một vận rủi nào khác—vẫn luôn vật lộn với bất cứ điều gì xảy đến một cách kỷ luật và kiên cường. Và cũng hãy để lại cho tôi một loại hài hòa khác khi anh ta đang tham gia vào các hoạt động hòa bình, hay những việc anh ta không bị ép buộc mà làm một cách tự nguyện; hoặc khi anh ta đang cố gắng thuyết phục ai đó về điều gì, hoặc khẩn cầu thần linh thông qua việc cầu nguyện, hoặc khuyên bảo một con người thông qua sự chỉ dẫn; hoặc khi anh ta làm điều ngược lại—kiên nhẫn lắng nghe người khác đang khẩn cầu hay hướng dẫn anh ta, hoặc đang cố gắng làm anh ta đổi ý thông qua sự thuyết phục. Hãy để lại cho tôi sự hài hòa sẽ bắt chước anh ta, khi anh ta không hành xử kiêu ngạo lúc những việc này diễn ra đúng như ý định; mà trái lại, anh ta có sự *tiết chế* và chừng mực trong mọi nỗ lực, và hài lòng với kết quả. Vậy hãy để lại cho tôi hai sự hài hòa này—loại ép buộc và loại tự nguyện—để bắt chước tốt nhất giọng nói của những người đàn ông có sự *tiết chế* và dũng cảm trong cả lúc vận may hay vận rủi.
-
-GLAUCON: Anh đang yêu cầu để lại chính xác những thứ mà tôi vừa nhắc đến.
-
-SOCRATES: Chà, vậy thì chúng ta sẽ không cần đến các nhạc cụ đa dây hay đa âm để đệm cho các bài ca và bài tụng trữ tình của mình.
-
-GLAUCON: Vâng, tôi thấy là không cần.
-
-SOCRATES: Vậy chúng ta sẽ không nuôi dưỡng những người thợ làm đàn lute tam giác, đàn harp, và tất cả các nhạc cụ đa dây, đa âm tương tự.
-
-GLAUCON: Rõ ràng là không.
-
-SOCRATES: Thế còn thợ làm sáo và người thổi sáo thì sao? Cậu có cho họ vào thành bang không? Hay chẳng phải sáo là thứ nhạc cụ "đa dây" nhất trong tất cả sao?[45] Và chẳng phải các nhạc cụ đa âm đều là bản sao của nó à?
-
-GLAUCON: Rõ ràng là thế.
-
-SOCRATES: Vậy anh chỉ còn đàn lyre và đàn cithara là những thứ hữu ích trong thành bang của chúng ta; và ngược lại ở vùng nông thôn, sẽ có một loại sáo ống dành cho người chăn gia súc thổi.
-
-GLAUCON: Dù sao thì đó là những gì lập luận của chúng ta gợi ý.
-
-SOCRATES: Chà, chắc chắn chúng ta không làm điều gì mới mẻ, bạn tôi ơi, khi ưa chuộng thần Apollo và những nhạc cụ của ngài hơn là Marsyas và nhạc cụ của ông ta.[46]
-
-GLAUCON: Không, nhân danh thần Zeus, tôi cho là không.
-
-SOCRATES: Và, lấy con chó ra thề,[47] chúng ta chắc chắn đã vô tình thanh tẩy lại cái thành bang mà lúc nãy chúng ta còn gọi là xa xỉ.
-
-GLAUCON: Điều đó chỉ chứng tỏ chúng ta có sự *tiết chế* đến mức nào.
-
-SOCRATES: Vậy hãy hoàn tất việc thanh tẩy. Bây giờ, chủ đề tiếp theo sau sự hài hòa là cuộc thảo luận về nhịp điệu. Chúng ta không nên chạy theo sự phức tạp hay đa dạng trong các yếu tố cơ bản.[48] Trái lại, chúng ta nên cố gắng khám phá ra nhịp điệu của một cuộc đời có trật tự và dũng cảm, và rồi áp dụng bước thơ và giai điệu vào lời nói đặc trưng của (400a) nó, chứ không phải gò ép lời nói theo nhịp điệu. Những nhịp điệu đó là gì thì để cậu nói, giống như cậu đã làm trong trường hợp của sự hài hòa.
-
-GLAUCON: Không, nhân danh thần Zeus, tôi không thể nói cho anh điều đó. Tuy nhiên, qua quan sát tôi có thể nói rằng có ba loại bước thơ [49] mà từ đó các loại khác được hình thành, giống như có bốn loại giọng nói tạo nên mọi sự hài hòa.[50] Nhưng tôi không thể nói cho anh biết loại nào bắt chước kiểu sống nào.
-
-SOCRATES: Chà, vậy thì chúng ta cũng sẽ phải tham khảo ý kiến của Damon về điểm này, và hỏi ông ấy xem bước thơ nào phù hợp với sự hẹp hòi, kiêu ngạo, điên rồ, và những thói hư tật xấu khác, và loại nào phù hợp với những điều ngược lại. Tôi nhớ mình từng nghe ông ấy sử dụng các thuật ngữ không rõ ràng như "hiếu chiến", "phức tạp", "giống như ngón tay",[51] và "anh hùng" để mô tả một bước thơ, mà ông ấy sắp xếp, tôi không rõ thế nào, để cân bằng lên xuống trong sự hoán đổi giữa âm dài và âm ngắn.[52] Và tôi nghĩ ông ấy gọi một bước thơ là iamb và một loại khác là trochee, và gán cho chúng các đại lượng dài ngắn. Trong số này, tôi nghĩ ông ấy tán thành hoặc phản đối nhịp độ của bước thơ cũng nhiều như chính nhịp điệu, hoặc sự kết hợp nào đó giữa hai thứ này—tôi không thể nói chính xác. Nhưng như tôi đã nói, chúng ta sẽ nhường việc này cho Damon, vì để quyết định chúng sẽ tốn một cuộc thảo luận dài. Hay cậu nghĩ chúng ta nên thử?
-
-GLAUCON: Không, nhân danh thần Zeus, tôi không nghĩ vậy.
-
-SOCRATES: Nhưng ít nhất cậu có khả năng quyết định điều này, đúng không: sự duyên dáng đi liền với nhịp điệu tốt và sự vô duyên đi liền với nhịp điệu tồi?
+SOCRATES: Giờ thì, sự say xỉn hoàn toàn không phù hợp với các vệ binh của ta, sự ủy mị và lười biếng cũng vậy.
 
 GLAUCON: Tất nhiên.
 
-SOCRATES: Xa hơn nữa, nhịp điệu tốt đi liền với lời nói hay và tương tự như nó, trong khi nhịp điệu tồi đi liền với loại ngược lại, và điều tương tự cũng áp dụng cho sự hài hòa và mất hài hòa; vì, như chúng ta vừa nói, nhịp điệu và sự hài hòa phải tuân theo lời nói, chứ không phải ngược lại.
+SOCRATES: Vậy những âm điệu nào mang tính ủy mị, phù hợp cho những bữa tiệc chè chén?
 
-GLAUCON: Vâng, chắc chắn chúng phải tuân theo lời nói.
+GLAUCON: Có vài điệu Ionian được gọi là "buông lơi," và một vài điệu Lydian.
 
-SOCRATES: Thế còn phong cách nói và nội dung được nói thì sao? Chẳng phải chúng đi liền với tính cách linh hồn của người nói sao?
+SOCRATES: Bạn tôi ơi, liệu anh có thể dùng bất cứ điệu nào trong số đó cho (399a) những chiến binh không?
+
+GLAUCON: Không, không bao giờ. Vậy có vẻ như anh chỉ còn lại điệu Dorian và Phrygian thôi.
+
+SOCRATES: Tôi không sành về các loại âm điệu, nhưng hãy giữ lại cho tôi loại âm điệu nào có thể *mô phỏng* chân thực nhất âm thanh và sắc thái [44] của một người dũng cảm xông pha nơi trận mạc hay khi đang gánh vác một trọng trách gian khổ. Một người mà, ngay cả khi thất bại, đối mặt với vết thương, cái chết hay tai ương, vẫn kiên cường bám trụ và chiến đấu với số phận bằng sự kỷ luật và quyết tâm sắt đá. Và hãy giữ lại cho tôi một âm điệu nữa, dành cho lúc anh ta sống trong cảnh thái bình, hoặc làm những việc tự nguyện chứ không bị ép buộc; như khi anh ta thuyết phục ai đó, hay cầu nguyện thần linh, hoặc chỉ dạy và khuyên nhủ một con người; hoặc khi làm điều ngược lại, lắng nghe một cách kiên nhẫn khi người khác khuyên bảo, chỉ dạy, hay cố gắng thuyết phục anh ta thay đổi quan điểm. Hãy giữ lại âm điệu *mô phỏng* anh ta khi anh ta không kiêu ngạo lúc thành công; mà trái lại, luôn giữ sự *tiết chế*, chừng mực trong mọi việc và hài lòng với kết quả đạt được. Vậy đấy, hãy giữ cho tôi hai loại âm điệu này, một cho sự cưỡng bách (chiến tranh) và một cho sự tự nguyện (thái bình), để có thể *mô phỏng* hoàn hảo nhất tiếng nói của những người dũng cảm và biết *tiết chế* trong cả lúc thịnh vượng lẫn gian nan.
+
+GLAUCON: Anh đang yêu cầu giữ lại chính hai điệu nhạc mà tôi vừa nhắc đến đấy.
+
+SOCRATES: Tốt thôi, vậy thì ta sẽ không cần đến những nhạc cụ đa dây hay đa âm để đệm cho các bài hát của chúng ta.
+
+GLAUCON: Có vẻ là không cần.
+
+SOCRATES: Vậy ta sẽ không nuôi những người thợ làm đàn lute tam giác, đàn hạc, và tất cả các loại nhạc cụ đa dây, đa âm tương tự.
+
+GLAUCON: Chắc chắn là không.
+
+SOCRATES: Thế còn thợ làm sáo và người thổi sáo? Anh có cho phép họ vào thành phố không? Chẳng phải sáo là loại nhạc cụ có âm thanh đa dạng nhất sao?[45] Và chẳng phải mọi nhạc cụ đa âm đều là bản *mô phỏng* của tiếng sáo à?
+
+GLAUCON: Rõ ràng là vậy.
+
+SOCRATES: Vậy anh chỉ còn lại đàn lyre và đàn cithara là hữu dụng trong thành phố; còn ở vùng thôn quê, ta sẽ có loại sáo sậy cho người chăn gia súc thổi.
+
+GLAUCON: Đó là kết luận hợp lý từ lập luận của chúng ta.
+
+SOCRATES: Chà, bạn tôi ơi, chúng ta cũng chẳng làm chuyện gì mới mẻ khi ưu ái thần Apollo và các nhạc cụ của ngài hơn là Marsyas và nhạc cụ của hắn đâu.[46]
+
+GLAUCON: Nhờ thần Zeus, tôi đoán là chúng ta đang làm thế thật.
+
+SOCRATES: Và, lấy con chó ra mà thề,[47] chúng ta đang vô tình gột rửa lại cái thành phố mà ban nãy ta vừa gọi là thành phố xa hoa đấy.
+
+GLAUCON: Điều đó cho thấy chúng ta là những người thật sự biết *tiết chế*.
+
+SOCRATES: Vậy hãy hoàn tất quá trình thanh lọc này. Giờ, chủ đề tiếp theo sau âm điệu sẽ là nhịp điệu. Chúng ta không nên chạy theo sự phức tạp hay sự biến tấu đa dạng trong các yếu tố nền tảng.[48] Thay vào đó, ta nên đi tìm những nhịp điệu phản ánh một lối sống trật tự và dũng cảm, sau đó điều chỉnh phách và giai điệu sao cho khớp với ngôn từ đặc trưng của (400a) lối sống đó, chứ không phải vặn vẹo ngôn từ để chạy theo nhạc. Còn đó là những nhịp điệu nào thì anh sẽ phải chỉ cho tôi, giống như anh đã làm với phần âm điệu.
+
+GLAUCON: Thề có thần Zeus, tôi không nói được đâu. Tuy nhiên, qua quan sát, tôi có thể nói rằng có ba loại phách cơ bản [49] làm nền tảng để cấu thành nên các nhịp điệu khác, giống như việc có bốn nốt giọng làm gốc cho mọi âm điệu.[50] Nhưng tôi không rành việc nhịp điệu nào thì *mô phỏng* loại lối sống nào đâu.
+
+SOCRATES: Thôi được, vậy ta sẽ phải đi tham vấn Damon về điểm này, hỏi ông ấy xem loại phách nào tương ứng với sự nhỏ nhen, ngạo mạn, điên rồ và các thói hư tật xấu khác, và loại phách nào đại diện cho những phẩm chất đối lập. Tôi nhớ mang máng từng nghe ông ấy dùng những thuật ngữ khó hiểu như "hiếu chiến," "phức tạp," "dạng ngón tay,"[51] và "anh hùng" để mô tả một loại phách mà ông ấy sắp xếp sao cho các nhịp dài ngắn cân bằng với nhau khi lên xuống.[52] Tôi cũng nhớ ông ấy gọi một loại phách là iamb và một loại khác là trochee, rồi gán cho chúng các giá trị trường độ dài ngắn. Ở một vài nhịp điệu, tôi nhớ ông ấy tán dương hay chê bai tốc độ của phách ngang với nhịp điệu, hoặc sự kết hợp của cả hai, tôi không nhớ rõ. Nhưng như tôi đã nói, ta cứ để phần này cho Damon, vì muốn làm rõ nó thì sẽ phải bàn luận rất dài dòng. Hay anh muốn chúng ta thử giải quyết nó luôn?
+
+GLAUCON: Không, lạy thần Zeus, tôi không muốn.
+
+SOCRATES: Nhưng ít nhất anh cũng phân định được điều này chứ: sự duyên dáng thì luôn đi kèm với nhịp điệu tốt, còn sự vô duyên thì đi kèm với nhịp điệu tồi?
 
 GLAUCON: Tất nhiên.
 
-SOCRATES: Và chẳng phải tất cả những thứ còn lại đều đi liền với phong cách nói sao?
+SOCRATES: Hơn thế nữa, nhịp điệu tốt thì đồng điệu với lời hay ý đẹp, còn nhịp điệu tồi thì đi đôi với những thứ rác rưởi, và nguyên lý tương tự cũng áp dụng cho sự hòa âm và sự lạc điệu; bởi vì, như ta vừa nói, nhịp điệu và âm điệu phải phục tùng ngôn từ chứ không có chuyện ngược lại.
+
+GLAUCON: Vâng, chắc chắn chúng phải phục tùng ngôn từ.
+
+SOCRATES: Thế còn phong cách nói chuyện và nội dung lời nói thì sao? Chẳng phải chúng cũng phải phản ánh đúng bản tính tâm hồn của người nói sao?
+
+GLAUCON: Chắc chắn rồi.
+
+SOCRATES: Và chẳng phải mọi thứ khác đều tuân theo phong cách nói chuyện đó?
 
 GLAUCON: Vâng.
 
-SOCRATES: Lời nói hay, cũng như sự hài hòa, sự duyên dáng, và nhịp điệu, đi liền với sự thuần khiết. Tôi không có ý nói đến sự ngốc nghếch mà chữ thuần khiết [53] thường được dùng để nói giảm nói tránh, mà là phẩm chất của một tâm trí được trang bị một tính cách thực sự tốt đẹp.
+SOCRATES: Lời hay ý đẹp, cùng với sự hòa âm, duyên dáng và nhịp điệu tốt, luôn đi kèm với sự thuần khiết (naiveté). Ý tôi không phải là cái sự ngốc nghếch mà người đời vẫn hay dùng từ thuần khiết [53] để nói giảm nói tránh đâu, mà là phẩm chất của một tâm hồn được trang bị một nhân cách thực sự tốt đẹp và toàn thiện.
 
-GLAUCON: Tuyệt đối đúng.
+GLAUCON: Hoàn toàn đồng ý.
 
-SOCRATES: Và chẳng phải những người trẻ của chúng ta phải cố gắng đạt được điều này trong mọi dịp, nếu họ muốn thực hiện công việc thực sự là của họ sao?
+SOCRATES: Và chẳng phải những người trẻ của ta phải nỗ lực đạt được những phẩm chất này trong mọi tình huống, nếu họ muốn làm tốt trọng trách của mình sao?
 
-GLAUCON: Vâng, họ thực sự phải làm vậy.
+GLAUCON: Vâng, họ chắc chắn phải làm vậy.
 
-SOCRATES: Giờ đây, chắc chắn hội họa và tất cả các *kỹ năng* tương tự đều tràn ngập (401a) những phẩm chất này—nghề dệt chứa đầy chúng, nghề thêu, kiến trúc, và việc chế tạo công cụ nói chung cũng thế; và hơn thế nữa, bản chất của cơ thể người cũng như vạn vật sinh trưởng đều mang những phẩm chất ấy. Bởi vì trong tất cả những thứ này đều có sự duyên dáng hoặc sự thiếu vắng nó. Và sự vô duyên, nhịp điệu tồi, và sự mất hài hòa có họ hàng với lời nói tồi và tính cách tồi, trong khi những điều ngược lại có họ hàng với—và bắt chước—thứ ngược lại với chúng: một tính cách tốt đẹp và có sự *tiết chế*.
+SOCRATES: Giờ thì, chắc chắn hội họa và tất cả những nghề thủ công tương tự cũng tràn ngập (401a) những phẩm chất này, nghề dệt, nghề thêu, kiến trúc, hay việc chế tác nông cụ nói chung đều vậy; và xa hơn nữa, cấu trúc tự nhiên của cơ thể con người hay muôn loài cỏ cây sinh trưởng cũng vậy. Bởi vì trong tất cả những thứ đó đều tồn tại sự duyên dáng hay vô duyên. Sự vô duyên, lạc nhịp và bất hòa âm là những thứ đồng dạng với lời lẽ tồi tệ và nhân cách xấu xa; trong khi những đặc tính trái ngược lại là bản *mô phỏng* và đồng dạng với thái cực đối lập, một nhân cách tốt đẹp và biết *tiết chế*.
 
-GLAUCON: Hoàn toàn đúng.
+GLAUCON: Tuyệt đối chính xác.
 
-SOCRATES: Vậy liệu chúng ta có chỉ cần giám sát mỗi các nhà thơ, buộc họ phải đưa hình ảnh của một tính cách tốt đẹp vào thơ mình hay là không được hành nghề giữa chúng ta không? Hay chúng ta cũng phải giám sát tất cả các thợ thủ công khác, và cấm họ đưa vào những hình ảnh khắc họa một tính cách tồi tệ, thiếu *tiết chế*, hẹp hòi, và vô duyên, trong các hình mẫu về sinh vật sống, trong các tòa nhà, hay trong bất kỳ sản phẩm nào thuộc *kỹ năng* của họ? Và chẳng phải những ai thấy việc này là bất khả thi thì phải bị cấm hành nghề trong thành bang của chúng ta, để những người bảo vệ của chúng ta không bị nuôi lớn giữa những hình ảnh của cái ác như trong một đồng cỏ toàn cỏ độc, nơi họ bứt và gặm nhấm mỗi ngày từ mọi thứ xung quanh cho đến khi, từng chút một, họ vô tình tích tụ một lượng lớn cái ác trong tâm hồn mình sao? Thay vào đó, chẳng phải chúng ta phải tìm kiếm những người thợ có khả năng bẩm sinh theo đuổi sự tinh tế và duyên dáng trong công việc của mình, để những người trẻ của chúng ta sẽ được sống trong một môi trường lành mạnh và được hưởng lợi từ mọi phía, khi sức ảnh hưởng từ những tác phẩm tuyệt vời đó tác động lên mắt và tai họ như một làn gió mát từ những vùng đất trong lành, và dẫn dắt họ một cách thầm lặng từ thời ấu thơ để trở nên đồng điệu, thân thiện, và hòa hợp với vẻ đẹp của *Lý trí* sao?
+SOCRATES: Vậy liệu chúng ta chỉ phải giám sát mỗi các nhà thơ, buộc họ phải lồng ghép hình ảnh một nhân cách tốt đẹp vào thơ ca, nếu không thì cấm họ hành nghề ở đây? Hay chúng ta cũng phải giám sát cả những người thợ thủ công khác, cấm họ không được phác họa những nhân cách tồi tệ, buông thả, ti tiện và thô thiển vào trong các tác phẩm điêu khắc sinh vật, kiến trúc, hay bất kỳ sản phẩm nào khác của họ? Và nếu kẻ nào không làm được điều này thì sẽ bị cấm hành nghề trong thành phố của ta, để tránh cho các vệ binh phải lớn lên giữa những hình ảnh xấu xa, như thể bị thả vào một cánh đồng cỏ độc, ngày ngày nhấm nháp độc tố xung quanh để rồi từng chút một, vô tình tích tụ một lượng lớn chất độc hắc ám vào tâm hồn mình? Thay vào đó, chẳng phải ta nên tìm những nghệ nhân mang bẩm sinh năng lực cảm nhận cái đẹp và sự thanh tao, để thanh niên của ta được sống trong một môi trường trong lành, tiếp nhận mọi lợi ích từ vạn vật xung quanh; nơi mà năng lượng từ những tác phẩm tuyệt mỹ sẽ chạm đến tai và mắt họ như một làn gió lành thổi từ vùng đất thánh, âm thầm dẫn dắt họ từ thuở ấu thơ đi đến sự đồng điệu, tình ái hữu và sự hòa hợp tuyệt đối với vẻ đẹp của *lý trí* (reason)?
 
-GLAUCON: Vâng, đó sẽ là cách giáo dục tốt nhất cho họ.
+GLAUCON: Vâng, đó chắc chắn là nền giáo dục tuyệt vời nhất dành cho họ.
 
-SOCRATES: Vậy chẳng phải đây là những lý do, thưa Glaucon, khiến việc giáo dục âm nhạc là quan trọng nhất sao? Thứ nhất, bởi vì nhịp điệu và sự hài hòa thấm đẫm vào phần sâu thẳm nhất của tâm hồn, tác động lên nó mạnh mẽ hơn bất cứ thứ gì khác, và mang lại cho nó sự duyên dáng, một nền giáo dục như vậy sẽ khiến một người trở nên duyên dáng nếu được đào tạo đúng cách, và ngược lại nếu không. Thứ hai, bởi vì bất kỳ ai được đào tạo đúng cách sẽ nhanh chóng nhận ra nếu có điều gì đó bị bỏ sót, hoặc nếu một thứ không được chế tác hay phát triển tốt. Và vì thế, khi cảm thấy chán ghét một cách đúng đắn, anh ta sẽ ca ngợi những thứ tốt đẹp, cảm thấy vui sướng vì chúng, đón nhận chúng vào tâm hồn mình, và, thông qua việc được nuôi dưỡng bởi chúng, trở nên tốt đẹp (402a) và *sự hoàn thiện*. Mặt khác, với những thứ xấu xí hoặc đáng hổ thẹn, anh ta sẽ lên án và căm ghét chúng một cách chính xác khi vẫn còn trẻ, trước khi có khả năng nắm bắt được *Lý trí*. Và, nhờ được đào tạo như thế, anh ta sẽ chào đón *Lý trí* khi nó đến và dễ dàng nhận ra nó nhờ vào sự gắn kết máu mủ với bản thân mình.
+SOCRATES: Vậy thì đây chẳng phải là những lý do khiến giáo dục âm nhạc trở nên tối quan trọng sao, Glaucon? Thứ nhất, vì nhịp điệu và âm điệu thẩm thấu vào tận phần cốt lõi nhất của tâm hồn, tác động lên nó mạnh mẽ hơn bất cứ thứ gì khác và mang lại cho nó sự thanh nhã. Một nền giáo dục như vậy sẽ khiến con người trở nên thanh tao nếu được đào tạo đúng cách, và ngược lại nếu đào tạo sai. Thứ hai, vì bất kỳ ai được đào tạo bài bản sẽ có đôi mắt cực kỳ tinh tường để nhận ra sự khiếm khuyết của vạn vật, dù là do chế tác lỗi hay phát triển sai lệch. Và nhờ sở hữu gu thẩm mỹ chuẩn mực, anh ta sẽ tán tụng những thứ tốt đẹp, vui sướng tận hưởng chúng, tiếp nhận chúng vào tâm hồn mình, và nhờ được nuôi dưỡng bởi cái đẹp, anh ta sẽ trở nên hoàn hảo (402a) và tốt đẹp. Trái lại, anh ta sẽ biết bài xích và căm ghét cái xấu xa, ti tiện ngay từ khi còn trẻ, trước cả khi đủ khả năng hiểu được lý do tại sao. Và nhờ được trui rèn như vậy, khi *lý trí* bừng sáng, anh ta sẽ nồng nhiệt chào đón nó và dễ dàng nhận ra nó nhờ sự đồng điệu vốn có trong bản ngã của mình.
 
-GLAUCON: Vâng, đối với tôi có vẻ như đó là những mục tiêu của giáo dục âm nhạc.
+GLAUCON: Vâng, tôi thấy đây đích xác là mục tiêu của giáo dục âm nhạc.
 
-SOCRATES: Vậy nó giống như việc học đọc. Chúng ta chỉ trở nên thành thạo khi một số ít các chữ cái không qua mắt được chúng ta trong bất cứ từ ngữ nào mà chúng xuất hiện rải rác; và khi chúng ta không phớt lờ chúng, dù ở một từ ngắn hay từ dài, như thể chúng không đáng để chú ý; mà cố gắng hết sức để phân biệt chúng ở bất cứ đâu, vì biết rằng chúng ta sẽ không phải là người đọc giỏi cho đến khi thuộc mặt chữ.
+SOCRATES: Nó giống như việc học chữ vậy. Ta chỉ thực sự thành thạo khi nhận diện được vài chữ cái cơ bản nằm rải rác trong các từ vựng khác nhau mà không bị rối; ta không được phớt lờ chúng, dù chúng nằm trong một từ nhỏ xíu hay to lớn, không được cho rằng chúng chẳng đáng bận tâm; mà phải cố gắng hết sức để nhận diện chúng ở bất cứ đâu, bởi ta biết mình sẽ không bao giờ biết đọc cho đến khi nhận diện được các con chữ.
 
-GLAUCON: Đúng vậy.
+GLAUCON: Sự thật là vậy.
 
-SOCRATES: Và chẳng phải cũng đúng là nếu có những hình ảnh của các chữ cái phản chiếu trên mặt nước hay gương, chúng ta sẽ không biết được chúng cho đến khi biết chính các chữ cái đó, bởi vì cả hai khả năng này đều thuộc về cùng một *kỹ năng* và bộ môn sao?
+SOCRATES: Và có đúng là nếu ta nhìn thấy hình ảnh phản chiếu của các chữ cái dưới nước hay trong gương, ta sẽ không thể nhận diện được chúng nếu chưa hiểu tường tận các con chữ gốc, bởi vì cả hai kỹ năng này đều thuộc về cùng một hệ thống tri thức và kỷ luật?
 
-GLAUCON: Tuyệt đối đúng.
+GLAUCON: Hoàn toàn đồng ý.
 
-SOCRATES: Thế thì, nhân danh các vị thần, tôi nói thế này chẳng phải là đúng sao: rằng cả chúng ta lẫn những người bảo vệ mà chúng ta tự nhận là đang giáo dục, sẽ chưa có nền giáo dục âm nhạc cho đến khi chúng ta nhận biết được những hình thức khác nhau của sự *tiết chế*, lòng dũng cảm, sự hào phóng, tư tưởng cao thượng, và tất cả những phẩm chất họ hàng của chúng, cũng như những phẩm chất đối nghịch với chúng, vốn đang được mang đi khắp nơi; và nhận ra chúng trong những thứ chứa đựng chúng, cả bản thân chúng lẫn những hình bóng của chúng; và không phớt lờ chúng, dù trong những thứ nhỏ nhặt hay to lớn, mà chấp nhận rằng kiến thức về cả hai đều thuộc về cùng một *kỹ năng* và bộ môn?
+SOCRATES: Vậy thì, nhân danh các vị thần, chẳng phải tôi đã đúng khi nói rằng cả chúng ta lẫn những vệ binh mà ta đang huấn luyện sẽ không bao giờ thực sự thấu hiểu âm nhạc cho đến khi ta nhận diện được các sắc thái đa dạng của sự *tiết chế*, lòng dũng cảm, sự hào hiệp, tư tưởng cao thượng, cùng tất cả những phẩm chất họ hàng với chúng, và cả những thứ đối lập với chúng đang hiện hữu khắp mọi nơi; và nhìn thấy chúng hòa quyện trong vạn vật, cả bản thể thực lẫn hình ảnh phản chiếu của chúng; và không được phép phớt lờ chúng ở bất cứ đâu dù nhỏ hay lớn, mà phải thừa nhận rằng việc thấu hiểu cả bản thể lẫn hình bóng của chúng đều nằm chung trong một hệ thống nghệ thuật và kỷ luật?
 
-GLAUCON: Vâng, đó là điều tất yếu.
+GLAUCON: Vâng, điều đó là tất yếu.
 
-SOCRATES: Vậy thì, nếu những thói quen tốt đẹp trong tâm hồn ai đó và những đường nét trên hình thể người đó hòa hợp và đồng điệu với nhau, sao cho cả hai chia sẻ chung một khuôn mẫu, chẳng phải đó sẽ là cảnh tượng đẹp đẽ nhất đối với bất cứ ai có khả năng nhìn thấy nó sao?
+SOCRATES: Vậy thì, nếu những thói quen tốt đẹp trong tâm hồn một người hòa hợp và đồng điệu với hình thể bên ngoài của anh ta, tạo nên một khuôn mẫu duy nhất hoàn hảo, thì chẳng phải đó là cảnh tượng tuyệt mỹ nhất đối với bất kỳ ai có khả năng chiêm ngưỡng nó sao?
 
-GLAUCON: Đẹp nhất là đằng khác.
+GLAUCON: Tuyệt mỹ nhất trần đời.
 
-SOCRATES: Và chắc chắn thứ đẹp nhất cũng là thứ đáng yêu nhất, đúng không?
+SOCRATES: Và chắc chắn thứ tuyệt mỹ nhất cũng là thứ đáng yêu nhất, đúng không?
 
 GLAUCON: Tất nhiên.
 
-SOCRATES: Vậy một người thực sự có nền giáo dục âm nhạc sẽ yêu say đắm những người giống như thế nhất. Nhưng một kẻ thiếu hài hòa, anh ta sẽ không thể yêu say đắm được.
+SOCRATES: Vậy nên một người thấu hiểu âm nhạc thực thụ sẽ yêu say đắm những con người đạt được cảnh giới đó. Còn những kẻ có tâm hồn lạc điệu, anh ta sẽ chẳng màng đến.
 
-GLAUCON: Không, anh ta sẽ không—ít nhất là không nếu khuyết điểm nằm ở tâm hồn. Nhưng nếu nó chỉ nằm ở cơ thể, anh ta sẽ chịu đựng được và vẫn sẵn lòng ôm ấp cậu bé mang khuyết điểm đó.
+GLAUCON: Chắc chắn là không, ít nhất là nếu sự khiếm khuyết nằm ở tâm hồn.
 
-SOCRATES: Tôi hiểu rằng cậu đang yêu hoặc đã từng yêu một cậu bé như vậy, và tôi đồng ý với cậu. Nhưng nói tôi nghe điều này: khoái lạc tột độ có chia sẻ điểm chung nào với sự *tiết chế* không?
+Nhưng nếu khiếm khuyết chỉ nằm ở thể xác, anh ta vẫn sẽ bao dung và sẵn lòng ôm ấp cậu thiếu niên mang khiếm khuyết đó.
 
-GLAUCON: Làm sao có thể? Chắc chắn nó khiến người ta phát điên không kém gì nỗi đau đớn.
+SOCRATES: Tôi hiểu anh đang nói vì anh cũng đang hay từng yêu một cậu bé như thế, và tôi đồng ý với anh. Nhưng nói tôi nghe: sự khoái lạc tột độ liệu có dính líu gì đến sự *tiết chế* không?
 
-SOCRATES: Còn với bất kỳ *sự hoàn thiện* nào khác thì sao?
+GLAUCON: Làm sao mà có được? Khoái lạc làm con người ta phát điên chẳng kém gì sự đau đớn.
+
+SOCRATES: Vậy nó có dính líu đến bất kỳ phẩm chất *hoàn thiện* (virtue) nào khác không?
 
 (403a) GLAUCON: Không bao giờ.
 
-SOCRATES: Vậy, còn với sự kiêu ngạo và thiếu *tiết chế*?
+SOCRATES: Vậy nó có đi chung với sự kiêu ngạo và thói buông thả không?
 
-GLAUCON: Vâng, với chúng thì nhiều nhất.
+GLAUCON: Có, rất gần gũi là đằng khác.
 
-SOCRATES: Cậu có thể nghĩ ra bất kỳ khoái lạc nào lớn hơn hay mãnh liệt hơn khoái lạc tình dục (*bản năng*) không?
+SOCRATES: Anh có nghĩ ra được loại khoái lạc nào mãnh liệt và sắc bén hơn khoái lạc tình dục không?
 
-GLAUCON: Không, tôi không thể—và cũng không có loại nào điên rồ hơn thế.
+GLAUCON: Không, tôi không nghĩ ra, và cũng chẳng có thứ nào điên rồ hơn nó.
 
-SOCRATES: Nhưng chẳng phải đam mê đúng đắn là một niềm đam mê có bản chất chừng mực và được giáo dục âm nhạc hướng tới sự trật tự và cái đẹp sao?
+SOCRATES: Nhưng chẳng phải một tình yêu đích thực là một đam mê điềm đạm một cách tự nhiên và được nuôi dưỡng bằng âm nhạc hướng đến trật tự và cái đẹp sao?
 
-GLAUCON: Vâng.
+GLAUCON: Đúng vậy.
 
-SOCRATES: Vậy không một thứ gì điên rồ và có hơi hướng trác táng được phép xen vào một tình yêu đúng đắn?
+SOCRATES: Thế thì chẳng có chỗ cho sự điên rồ và thói dâm đãng trong một tình yêu đích thực?
 
-GLAUCON: Không, không thể.
+GLAUCON: Chắc chắn là không.
 
-SOCRATES: Vậy khoái lạc tình dục (*bản năng*) không được phép xen vào, phải không, và người yêu lẫn cậu bé yêu và được yêu một cách đúng đắn không được dính dáng gì đến nó?
+SOCRATES: Vậy là khoái lạc tình dục không được phép xen vào, đúng không? Một người đàn ông và một cậu thiếu niên khi yêu nhau và được yêu theo cách đích thực sẽ không được phép dính líu gì đến thứ này.
 
-GLAUCON: Không, nhân danh thần Zeus, Socrates, nó không được phép.
+GLAUCON: Không, lạy thần Zeus, Socrates, tuyệt đối không được dính líu đến nó.
 
-SOCRATES: Có vẻ như, cậu sẽ thiết lập thành luật trong thành bang mà chúng ta đang sáng lập rằng một người yêu—nếu anh ta có thể thuyết phục bạn trai mình cho phép—có thể hôn, ở bên cạnh, và chạm vào cậu ấy, như một người cha làm với con trai, vì mục đích của những điều tốt đẹp. Nhưng ở mọi khía cạnh khác, sự gắn bó của anh ta với người mà anh ta quan tâm không bao giờ được phép đi quá giới hạn này. Nếu không, anh ta sẽ bị quở trách là kẻ không được giáo dục âm nhạc, và là kẻ thiếu sự trân trọng đối với những điều tốt đẹp.
+SOCRATES: Có vẻ như anh sẽ phải đặt ra một đạo luật trong thành phố của chúng ta rằng: một người đàn ông yêu một thiếu niên, nếu anh ta thuyết phục được cậu bé, có thể hôn, ở cạnh, và chạm vào cậu như cách một người cha chạm vào con trai mình, vì mục đích hướng đến những điều tốt đẹp. Nhưng trong mọi khía cạnh khác, mối quan hệ của anh ta với người mình quan tâm không bao giờ được đi xa hơn ranh giới đó. Nếu vi phạm, anh ta sẽ bị lên án là kẻ thiếu giáo dục âm nhạc và mù tịt về cái đẹp.
 
-GLAUCON: Đúng là như vậy.
+GLAUCON: Đúng như vậy.
 
-SOCRATES: Cậu có đồng ý rằng, báo cáo của chúng ta về giáo dục âm nhạc đã đi đến hồi kết không? Ít nhất, nó nên kết thúc ở nơi nó vừa kết thúc; vì chắc chắn việc đào tạo các *kỹ năng* âm nhạc phải kết thúc ở niềm đam mê cái đẹp.
+SOCRATES: Vậy anh có đồng ý rằng cuộc thảo luận về giáo dục âm nhạc của chúng ta đã khép lại chưa? Ít nhất thì nó nên dừng lại ở đúng điểm kết thúc lý tưởng của nó; bởi vì cái đích cuối cùng của giáo dục âm nhạc phải là sự say mê cái đẹp.
 
 GLAUCON: Tôi đồng ý.
 
-SOCRATES: Bây giờ, sau giáo dục âm nhạc, những người trẻ của chúng ta phải được giáo dục thể chất.
+SOCRATES: Giờ thì, sau giáo dục âm nhạc, thanh niên của chúng ta phải được giáo dục thể chất.
 
 GLAUCON: Tất nhiên.
 
-SOCRATES: Và trong lĩnh vực này, họ cũng phải được rèn luyện cẩn thận, bắt đầu từ thuở ấu thơ và kéo dài suốt cuộc đời. Tôi tin rằng, nó sẽ giống như thế này—nhưng cậu cũng nên cân nhắc xem cậu nghĩ sao. Cậu thấy đấy, về phần tôi, tôi không tin rằng một cơ thể khỏe mạnh, bằng chính *sự hoàn thiện* của nó, làm cho tâm hồn trở nên tốt đẹp. Trái lại, tôi tin rằng điều ngược lại mới đúng: một tâm hồn tốt đẹp, bằng chính *sự hoàn thiện* của nó, làm cho cơ thể trở nên tốt nhất có thể. Cậu nghĩ sao?
+SOCRATES: Và trong lĩnh vực này, họ cũng phải được huấn luyện bài bản từ thời thơ ấu và duy trì suốt đời. Tôi tin rằng nó sẽ diễn ra đại loại như thế này, nhưng anh cũng nên cân nhắc xem ý anh thế nào. Về phần mình, tôi không tin rằng một cơ thể khỏe mạnh, bằng năng lực tự thân, có thể làm cho tâm hồn trở nên tốt đẹp. Trái lại, tôi tin vào điều ngược lại:
+
+Một tâm hồn tốt đẹp, bằng năng lực *hoàn thiện* của nó, sẽ khiến cơ thể trở nên khỏe mạnh nhất có thể.
+
+Anh nghĩ sao?
 
 GLAUCON: Tôi cũng nghĩ thế.
 
-SOCRATES: Vậy nếu chúng ta chăm sóc đầy đủ cho tâm trí, giao phó cho nó việc giám sát chi tiết cơ thể, và chỉ tự bằng lòng với việc chỉ ra những nguyên tắc chung cần làm theo thay vì nói dài dòng, chẳng phải chúng ta sẽ đi đúng hướng sao?
+SOCRATES: Vậy nếu ta chăm sóc tâm trí một cách đầy đủ, giao cho nó trọng trách giám sát chi tiết cơ thể, và chỉ vạch ra những nguyên tắc chung thay vì phải chỉ bảo từng ly từng tí, thì chẳng phải ta đang đi đúng hướng sao?
 
-GLAUCON: Vâng, thực sự là vậy.
+GLAUCON: Vâng, chắc chắn rồi.
 
-SOCRATES: Bây giờ, chúng ta đã nói rằng những người bảo vệ tương lai của chúng ta phải tránh xa việc say sỉn.[54] Bởi vì một người bảo vệ chắc chắn là người cuối cùng được phép say đến mức không biết mình đang ở chốn nào trên trần đời.
+SOCRATES: Này, ta đã nói rằng các vệ binh tương lai phải tránh xa rượu chè.[54] Bởi một vệ binh phải là người cuối cùng trên đời say xỉn đến mức không biết mình đang ở đâu.
 
-GLAUCON: Vâng, sẽ thật nực cười nếu một người bảo vệ lại cần một người bảo vệ cho chính mình!
+GLAUCON: Vâng, sẽ thật lố bịch nếu một người bảo vệ lại cần người khác bảo vệ mình!
 
-SOCRATES: Còn về thức ăn thì sao? Những người đàn ông này là các vận động viên trong một cuộc tranh tài vĩ đại nhất, đúng không?
+SOCRATES: Thế còn chuyện ăn uống? Những người này là các vận động viên đang thi đấu trong một giải đấu sinh tử nhất, đúng không?
 
-GLAUCON: Vâng.
+GLAUCON: Đúng vậy.
 
-SOCRATES: Vậy thì chế độ của những vận động viên được huấn luyện thông thường có phù hợp với họ không?
+SOCRATES: Thế thì chế độ ăn của các vận động viên thể thao thông thường liệu có phù hợp với họ không?
 (404a)
 
 GLAUCON: Có thể.
 
-SOCRATES: Nhưng đó có vẻ là một chế độ mang tính buồn ngủ và không đáng tin cậy về mặt sức khỏe. Hay cậu chưa nhận ra rằng những vận động viên này ngủ vùi cả đời, và chỉ cần chệch một chút khỏi chế độ trật tự của mình, họ sẽ mắc những căn bệnh nghiêm trọng và dữ dội sao?
+SOCRATES: Nhưng chế độ đó có vẻ khiến người ta dễ buồn ngủ và chẳng đảm bảo sức khỏe chút nào. Anh có để ý rằng những vận động viên kiểu đó thường ngủ vùi cả ngày, và chỉ cần chệch quỹ đạo ăn uống một chút là họ lăn ra ốm thập tử nhất sinh không?
 
-GLAUCON: Tôi có nhận thấy.
+GLAUCON: Tôi có thấy điều đó.
 
-SOCRATES: Vậy chúng ta cần một sự huấn luyện tinh tế hơn cho những chiến binh-vận động viên của mình, vì họ phải giống như những con chó săn không bao giờ ngủ, có thị giác và thính giác nhạy bén nhất, và sức khỏe của họ không được bấp bênh đến mức không chịu nổi những sự thay đổi liên tục về nước và chế độ ăn nói chung, cũng như những đợt nắng nóng hay bão tuyết đặc trưng của chiến tranh.
+SOCRATES: Vậy ta cần một hình thức huấn luyện tinh vi hơn cho những chiến binh-vận động viên của mình. Bởi họ phải giống như những con chó săn không bao giờ ngủ, với thị giác và thính giác sắc bén nhất, và sức khỏe của họ không được mỏng manh đến mức đổ bệnh mỗi khi phải thay đổi nước uống hay thức ăn, hoặc khi đối mặt với nắng gắt và bão tuyết nơi chiến trường.
 
 GLAUCON: Tôi đồng ý.
 
-SOCRATES: Vậy chẳng phải sự huấn luyện thể chất tốt nhất sẽ tương tự với nền giáo dục âm nhạc đơn giản mà chúng ta vừa mô tả sao?
+SOCRATES: Vậy nền giáo dục thể chất tốt nhất chẳng phải sẽ tương đồng với nền giáo dục âm nhạc mộc mạc mà ta vừa vạch ra sao?
 
 GLAUCON: Ý anh là sao?
 
-SOCRATES: Ý tôi là một nền giáo dục thể chất đơn giản và tốt, đặc biệt được tinh chỉnh cho điều kiện chiến tranh.
+SOCRATES: Ý tôi là một chế độ giáo dục thể chất đơn giản, tốt lành, và đặc biệt là phải thích ứng được với điều kiện chiến tranh.
 
-GLAUCON: Theo cách nào?
+GLAUCON: Cụ thể là như thế nào?
 
-SOCRATES: Cậu có thể học được điều đó ngay cả từ Homer. Vì cậu biết rằng khi các anh hùng của ông ra trận, ông không mô tả họ dự tiệc với cá [55]—mặc dù họ đang ở ngay bờ biển Hellespont—hay thịt luộc, mà chỉ có thịt nướng, loại thịt mà lính tráng dễ kiếm nhất. Bởi vì rõ ràng việc dùng lửa ngoài trời lúc nào cũng dễ hơn là mang xoong nồi lỉnh kỉnh đi khắp nơi.
+SOCRATES: Anh có thể học điều này từ thơ Homer. Anh biết đấy, khi các anh hùng của ông ra trận, ông không bao giờ cho họ mở tiệc ăn cá [55], dù họ đang đóng quân ngay bờ biển Hellespont, hay ăn thịt luộc, mà chỉ có thịt nướng, loại thức ăn dễ xoay xở nhất với quân lính. Bởi vì việc nướng trên lửa rơm lúc nào cũng dễ hơn là vác theo lỉnh kỉnh xong nồi đi khắp nơi.
 
 GLAUCON: Rất đúng.
 
-SOCRATES: Tôi cũng không tin là Homer có nhắc đến những loại nước sốt ngậy béo ở bất cứ đâu. Thực tế, chẳng phải bất cứ ai đang trong quá trình luyện tập cũng ý thức được rằng nếu muốn giữ thể trạng tốt, anh ta phải tránh hoàn toàn những thứ đó sao?
+SOCRATES: Tôi tin là Homer cũng chẳng hề đả động đến những loại nước xốt đậm vị ở bất kỳ đâu. Thực tế thì, chẳng phải bất cứ ai đang rèn luyện thân thể cũng ý thức được rằng nếu muốn giữ form, họ phải cấm tiệt mấy thứ đó sao?
 
-GLAUCON: Vâng, và họ chắc chắn đã đúng khi ý thức được và tránh xa chúng.
+GLAUCON: Vâng, họ nhận thức rất rõ và kiên quyết tránh xa.
 
-SOCRATES: Nếu cậu nghĩ họ làm vậy là đúng, Glaucon thân mến, thì hẳn là cậu không tán thành ẩm thực xứ Syracuse hay các món ăn kèm phức tạp kiểu Sicily.
+SOCRATES: Nếu anh nghĩ họ làm thế là đúng, Glaucon thân mến, thì chắc hẳn anh cũng sẽ phản đối nền ẩm thực tinh xảo kiểu Syracuse hay các loại gia vị phức tạp của vùng Sicily.
 
-GLAUCON: Tôi cho là không.
+GLAUCON: Chắc chắn là phản đối.
 
-SOCRATES: Vậy cậu cũng phản đối việc đàn ông có một cô bạn gái người Corinth, nếu họ định duy trì một thể trạng tốt.[56]
+SOCRATES: Thế thì anh cũng phải phản đối việc quân lính cặp kè với gái làng chơi Corinth, nếu họ muốn duy trì thể trạng lý tưởng.[56]
+GLAUCON: Hoàn toàn phản đối.
 
-GLAUCON: Tuyệt đối phản đối.
-
-SOCRATES: Và cũng phản đối việc họ tận hưởng những món bánh ngọt trứ danh của xứ Attic?
+SOCRATES: Và cấm luôn cả việc họ tận hưởng những món bánh ngọt nức tiếng vùng Attic chứ?
 
 GLAUCON: Buộc phải thế thôi.
 
-SOCRATES: Và tôi nghĩ, lý do cho điều đó là chúng ta có quyền so sánh kiểu ăn uống này, và lối sống này, với những bài hát đa âm và các bài tụng trữ tình sử dụng đủ mọi loại nhịp điệu.
+SOCRATES: Lý do cho những lệnh cấm này, theo tôi, là ta hoàn toàn có thể đánh đồng chế độ ăn uống và lối sống đó với các bài hát đa âm, đa dây sử dụng mọi loại nhịp điệu phức tạp.
 
-GLAUCON: Tất nhiên.
+GLAUCON: Đương nhiên rồi.
 
-SOCRATES: Ở đó sự phức tạp sinh ra thói vô *tiết chế*, đúng không, còn ở đây nó sinh ra bệnh tật; trong khi sự đơn giản trong giáo dục âm nhạc sinh ra sự *tiết chế* trong tâm hồn, và trong giáo dục thể chất sinh ra sức khỏe trong cơ thể?
+SOCRATES: Ở phần trước, sự phức tạp sinh ra thói buông thả, đúng không? Còn ở đây, nó sinh ra bệnh tật; trong khi sự tối giản trong giáo dục âm nhạc sẽ sinh ra tính *tiết chế* trong tâm hồn, còn tối giản trong thể chất thì mang lại sức khỏe cho cơ thể.
 
-GLAUCON: Điều đó hoàn toàn đúng.
+GLAUCON: Hoàn toàn chính xác.
 
-(405a) SOCRATES: Và khi thói vô *tiết chế* và bệnh tật sinh sôi trong thành bang, chẳng phải vô số tòa án và phòng phẫu thuật sẽ được mở ra sao? Và chẳng phải giới luật sư và bác sĩ sẽ lên mặt khi ngay cả những người tự do cũng đổ xô đến coi trọng họ sao?
+(405a) SOCRATES: Và khi sự buông thả và bệnh tật sinh sôi nảy nở trong một thành phố, chẳng phải sẽ có vô số tòa án và trạm xá mọc lên sao? Và giới luật sư, bác sĩ chẳng phải sẽ tự lên mặt kiêu ngạo khi thấy ngay cả những người thuộc tầng lớp tự do cũng phải khúm núng cầu cạnh họ?
 
-GLAUCON: Làm sao khác được?
+GLAUCON: Làm sao tránh khỏi điều đó.
 
-SOCRATES: Cậu có thể tìm được bằng chứng nào rõ ràng hơn về việc giáo dục của một thành bang đang ở trong tình trạng tồi tệ và đáng hổ thẹn, khi những bác sĩ và luật sư danh tiếng được cần đến, không chỉ bởi những kẻ hạ đẳng và đám thợ thuyền, mà còn bởi những người tự nhận là được nuôi dạy theo cung cách của những người tự do? Thật vậy, cậu không nghĩ rằng sẽ thật xấu hổ và là bằng chứng đanh thép cho sự vô giáo dục khi buộc phải dùng đến cái *điều đúng* được định đoạt bởi kẻ khác, coi họ như chủ nhân và quan tòa của mình, chỉ vì bản thân thiếu đi những phẩm chất ấy sao?
+SOCRATES: Liệu anh có thể tìm được bằng chứng nào rõ ràng hơn cho sự băng hoại của nền giáo dục trong một thành phố, khi mà những bác sĩ và luật sư danh tiếng được săn đón không chỉ bởi tầng lớp hạ lưu hay thợ thuyền, mà bởi cả những kẻ tự xưng là được nuôi dạy như những người tự do? Thật vậy, anh không nghĩ rằng việc phải đi cầu cạnh công lý từ tay kẻ khác, coi họ như chủ nhân và quan tòa của mình chỉ vì bản thân mình thiếu hụt những phẩm chất tốt đẹp, là một điều đáng hổ thẹn và là minh chứng rành rành cho sự vô giáo dục sao?
 
-GLAUCON: Đó là điều đáng xấu hổ nhất trên đời.
+GLAUCON: Đó là điều đáng nhục nhã nhất trần đời.
 
-SOCRATES: Cậu thực sự nghĩ thế sao? Chẳng phải còn đáng xấu hổ hơn khi không chỉ dành một phần lớn cuộc đời ở tòa để tự bào chữa và truy tố người khác, mà còn trở nên phàm phu đến mức tự hào về điều đó và coi mình là kẻ vô cùng thông minh trong việc làm *điều sai* (unjust), và là kẻ sành sỏi mọi mánh lới thủ đoạn đến mức có thể luồn lách qua mọi lỗ hổng pháp lý, để trốn tránh hình phạt—và làm tất cả những điều đó chỉ vì những thứ vụn vặt vô giá trị, và vì không nhận thức được rằng sẽ tốt đẹp hơn biết bao nếu tự sắp xếp cuộc sống của mình sao cho không cần phải nhờ đến một vị quan tòa [57] đang ngủ gật?
+SOCRATES: Anh thực sự nghĩ thế à? Chẳng phải còn có thứ đáng nhục hơn sao: đó là việc không những dành cả nửa đời người chầu chực ở tòa án để tự biện hộ hay đi kiện cáo kẻ khác, mà còn hèn mạt đến mức tự hào về điều đó, tự cho mình là kẻ khôn ngoan mưu mẹo, giỏi uốn éo lách luật để thoát án, và làm tất cả những điều đó chỉ để tranh giành những thứ phù phiếm, chỉ vì hắn ngu muội không hiểu rằng việc tự thu xếp cuộc đời mình sao cho không cần phải nhờ đến một vị quan tòa [57] ngái ngủ nào phân xử mới là điều tốt đẹp và vinh quang hơn nhiều?
 
-GLAUCON: Vâng, điều đó còn đáng xấu hổ hơn.
+GLAUCON: Vâng, cái đó còn nhục nhã hơn.
 
-SOCRATES: Thế còn việc cần đến *kỹ năng* y khoa cho một thứ gì đó ngoài vết thương hay bệnh giao mùa thì sao? Thế còn việc cần đến nó vì sự lười biếng và chế độ ăn uống mà chúng ta vừa mô tả đã lấp đầy cơ thể người ta bằng khí và đờm, như một vũng lầy tù đọng, khiến cho những bác sĩ theo trường phái Asclepius tinh vi phải chật vật vắt óc nghĩ ra những cái tên như "đầy hơi" và "viêm cấy" để gọi tên các căn bệnh? Cậu không thấy điều đó thật đáng xấu hổ sao?
+SOCRATES: Thế còn việc phải nhờ cậy đến y học cho những bệnh tật không phải do vết thương hay thời tiết thì sao? Chuyện gì xảy ra khi lối sống lười biếng và chế độ ăn uống mà ta vừa bàn biến cơ thể người ta thành một đầm lầy ứ đọng, đầy hơi chướng và dịch nhầy, buộc những vị bác sĩ tinh anh thuộc trường phái Asclepius phải đẻ ra những cái tên như "đầy hơi" hay "viêm chảy" để gọi tên những căn bệnh đó? Anh không thấy chuyện đó thật đáng xấu hổ sao?
 
-GLAUCON: Vâng, đúng thế; và đó thực sự là những cái tên mới mẻ kỳ lạ cho bệnh tật.
+GLAUCON: Đúng là xấu hổ thật; đó quả là những cái tên bệnh tật quái đản.
 
-SOCRATES: Và tôi tưởng tượng rằng đó là thứ thậm chí không hề tồn tại vào thời của chính Asclepius. Bằng chứng của tôi là các con trai của ngài ở thành Troy đã không chỉ trích người phụ nữ điều trị cho Eurypylus đang bị thương bằng rượu Pramneian rắc đầy bột lúa mạch và phô mai bào, mặc (406a) dù kiểu điều trị đó ngày nay bị coi là gây viêm nhiễm. Hơn nữa, họ cũng không chỉ trích Patroclus, người đã kê đơn điều trị đó.[58]
+SOCRATES: Và tôi tin là những căn bệnh kiểu đó thậm chí còn chưa hề tồn tại vào thời của chính Asclepius. Bằng chứng là các con trai ông ở thành Troy đã không hề chê trách người phụ nữ điều trị cho Eurypylus đang bị thương bằng rượu Pramneian trộn một đống bột lúa mạch và phô mai bào, mặc (406a) dù hiện nay liệu pháp này bị cho là gây viêm nhiễm. Hơn nữa, họ cũng chẳng hề trách móc Patroclus, người đã chỉ định phương pháp điều trị đó.[58]
 
-GLAUCON: Thế nhưng, đó chắc chắn là một thứ đồ uống kỳ lạ cho người trong tình trạng đó.
+GLAUCON: Nhưng quả thực đó là một thứ đồ uống kỳ lạ cho người đang bị thương.
 
-SOCRATES: Sẽ không thấy lạ nếu cậu nhớ rằng kiểu y học hiện đại chuyên đi o bế căn bệnh đã không được phe phái Asclepius sử dụng trước thời Herodicus. Herodicus là một huấn luyện viên thể chất ngã bệnh và, thông qua việc kết hợp giữa huấn luyện thể chất và y học, đã hành hạ chính bản thân ông ta là người đầu tiên và nhiều nhất, rồi sau đó là vô số người khác.
+SOCRATES: Sẽ không lạ nếu anh nhớ rằng kiểu y học hiện đại chuyên đi hầu hạ nuông chiều bệnh tật không hề được các đệ tử của Asclepius sử dụng trước thời đại của Herodicus.
+Herodicus vốn là một huấn luyện viên thể lực, sau khi lâm bệnh, ông ta đã kết hợp thể dục và y học để tự đày đọa chính mình trước tiên, và sau đó là đày đọa vô số người khác.
 
 GLAUCON: Ông ta đã làm thế bằng cách nào?
 
-SOCRATES: Bằng cách biến cái chết của mình thành một quá trình dài đằng đẵng. Cậu thấy đấy, mặc dù luôn chăm sóc cho bệnh tình của mình, ông ta không thể chữa khỏi vì đó là bệnh nan y. Thế nên ông ta dành cả phần đời còn lại dưới sự điều trị y tế, chẳng còn chút thời gian rảnh rỗi nào cho bất cứ việc gì khác. Ông ta sẽ phải chịu những cơn đau khổ tột cùng nếu chệch đi dù chỉ một chút khỏi chế độ quen thuộc; nhưng, nhờ vào sự khôn ngoan của mình, ông ta đã vật lộn với tử thần và sống đến già.
+SOCRATES: Bằng cách biến cái chết của mình thành một quá trình hấp hối kéo dài. Anh thấy đấy, dù ông ta lúc nào cũng chăm chăm chữa bệnh, nhưng lại không thể chữa khỏi vì đó là bệnh nan y. Thế là ông ta dành cả phần đời còn lại sống nhờ thuốc thang, chẳng còn chút thời gian rảnh rỗi nào để làm bất cứ việc gì khác. Ông ta đau đớn khổ sở nếu chệch khỏi chế độ ăn uống nghiêm ngặt dù chỉ một chút; nhưng nhờ có "trí tuệ," ông ta giằng co với cái chết và lết được đến tuổi già.
 
-GLAUCON: Thật là một phần thưởng tuyệt vời cho *kỹ năng* của ông ta!
+GLAUCON: Quả là một phần thưởng tuyệt vời cho tay nghề của ông ta!
 
-SOCRATES: Và nó hoàn toàn phù hợp với một người không hề biết rằng việc Asclepius không dạy cho con trai mình loại y học này, không phải vì ngài ngốc nghếch hay thiếu kinh nghiệm, mà vì ngài biết rằng bất cứ ai trong một thành bang có trật tự cũng có công việc riêng phải làm, và không ai có thời gian rảnh để ốm đau và nằm điều trị cả đời. Chúng ta thấy sự vô lý này cực kỳ rõ ràng ở tầng lớp thợ thủ công, nhưng lại không thấy nó ở những người được cho là hạnh phúc—những người giàu có.
+SOCRATES: Và cái kết đó thật xứng đáng cho kẻ không hiểu rằng: việc Asclepius không truyền lại kiểu y học đó cho các con mình không phải vì ông thiếu hiểu biết hay non kém, mà vì ông thừa biết mọi cá nhân trong một thành phố kỷ cương đều có bổn phận công việc riêng, chẳng ai rảnh rỗi để dành cả đời ốm đau và chữa bệnh. Chúng ta dễ dàng nhận thấy sự lố bịch của việc này ở tầng lớp thợ thủ công, nhưng lại mù quáng không nhận ra nó ở những kẻ được cho là sung sướng, tầng lớp người giàu.
 
 GLAUCON: Ý anh là sao?
 
-SOCRATES: Khi một thợ mộc ốm, anh ta kỳ vọng sẽ lấy được một loại thuốc từ bác sĩ khiến anh ta nôn ra thứ gây bệnh hoặc tống nó ra ngoài qua đường tiêu hóa; hoặc loại bỏ bệnh bằng phẫu thuật hoặc đốt nhiệt. Nếu ai đó kê cho anh ta một chế độ điều trị kéo dài và bảo anh ta phải nghỉ ngơi với cái đầu quấn băng này nọ, anh ta sẽ nhanh chóng trả lời rằng mình không có thời gian để ốm, và chẳng có lợi lộc gì khi sống một cuộc đời như thế, lúc nào cũng bận tâm đến bệnh tật và bỏ bê công việc đang làm. Sau đó, anh ta chào tạm biệt vị bác sĩ, quay lại với chế độ ăn uống thường ngày, tiếp tục làm công việc của mình và phục hồi sức khỏe; hoặc nếu cơ thể không chịu đựng nổi căn bệnh, anh ta sẽ chết và thoát khỏi rắc rối.
+SOCRATES: Khi một thợ mộc bị ốm, anh ta hy vọng bác sĩ sẽ cho anh ta một loại thuốc gây nôn hoặc thuốc xổ để tống khứ mầm bệnh ra ngoài; hoặc xử lý nó bằng phẫu thuật hay đốt điện.
 
-GLAUCON: Đó có vẻ là cách dùng *kỹ năng* y học chính xác đối với một người như vậy.
+Nhưng nếu có ai đó bắt anh ta phải theo một phác đồ điều trị dài hạn, bảo anh ta phải quấn băng quanh đầu rồi nghỉ ngơi, anh ta sẽ lập tức đáp trả rằng mình chẳng có thời gian mà ốm, và cuộc sống kiểu đó chẳng có ý nghĩa gì nếu cứ suốt ngày (407a) lo ngay ngáy về bệnh tật mà bỏ bê công việc. Sau đó, anh ta sẽ chào tạm biệt ông bác sĩ, quay lại chế độ sinh hoạt bình thường, tiếp tục làm công việc của mình và tự hồi phục; hoặc nếu cơ thể không chịu nổi, anh ta chết và được giải thoát khỏi mọi phiền toái.
 
-SOCRATES: Chẳng phải là vì anh ta có một công việc phải làm, và nếu không (407a) làm được việc đó, sống tiếp cũng chẳng có lợi ích gì cho anh ta sao?
+GLAUCON: Đó có vẻ là cách dùng y học chuẩn mực nhất cho một người như vậy.
+
+SOCRATES: Chẳng phải vì anh ta có một sứ mệnh phải làm, và nếu không thể làm được thì việc cố sống lây lắt cũng chẳng mang lại lợi ích gì sao?
 
 GLAUCON: Rõ ràng là thế.
 
-SOCRATES: Nhưng một người giàu, người ta thường nói, lại chẳng được giao một công việc nào kiểu như nếu anh ta không làm thì cuộc sống không đáng sống nữa.
+SOCRATES: Nhưng người giàu, như người ta vẫn nói, lại chẳng có sứ mệnh nào buộc họ phải cảm thấy cuộc đời vô nghĩa nếu phải từ bỏ nó.
 
-GLAUCON: Ít nhất người ta đồn thế.
+GLAUCON: Ít nhất thì người đời vẫn nói thế.
 
-SOCRATES: Cái gì, cậu chưa nghe câu nói của Phocylides rằng một khi người ta đã có đủ phương tiện sống, người ta phải thực hành *sự hoàn thiện* sao?[59]
+SOCRATES: Cái gì, anh chưa nghe câu nói của Phocylides rằng ngay khi một người có đủ tư liệu để sống, anh ta phải thực hành sự *hoàn thiện* (virtue) sao?[59]
 
-GLAUCON: Và theo quan điểm của tôi là ngay cả trước lúc đó cơ.
+GLAUCON: Theo tôi thì phải thực hành từ trước đó nữa cơ.
 
-SOCRATES: Thôi đừng cãi nhau với ông ấy về chuyện đó. Nhưng hãy tự mình tìm ra xem liệu *sự hoàn thiện* này có phải là thứ mà người giàu buộc phải thực hành không, và nếu không thực hành nó thì cuộc đời anh ta có đáng sống không; hay liệu việc nuôi dưỡng bệnh tật, tuy là chướng ngại vật đối với nghề mộc hay các *kỹ năng* khác, lại chẳng hề cản trở việc làm theo lời khuyên của Phocylides?
+SOCRATES: Ta đừng tranh cãi với ông ấy về chuyện đó làm gì. Nhưng ta hãy tự tìm hiểu xem liệu sự *hoàn thiện* này có phải là thứ mà một người giàu bắt buộc phải thực hành không, và nếu không làm thế thì đời anh ta có đáng sống không; hay liệu việc nuôi dưỡng mầm bệnh, dù là chướng ngại vật cho nghề mộc và các nghề khác, lại chẳng mảy may ảnh hưởng gì đến việc nghe theo lời khuyên của Phocylides.
 
-GLAUCON: Nhưng nhân danh thần Zeus, nó thực sự cản trở: việc chăm sóc cơ thể quá mức vượt qua giới hạn của giáo dục thể chất đơn giản gần như là rào cản lớn nhất. Bởi nó là một mối phiền toái trong việc quản lý gia đình, trong nghĩa vụ quân sự, và thậm chí cả trong các công việc bàn giấy chính trị.
+GLAUCON: Lạy thần Zeus, nó cản trở kinh khủng là đằng khác: việc chiều chuộng cơ thể thái quá vượt mức rèn luyện thể chất cơ bản là trở ngại lớn nhất trần đời. Nó là sự phiền toái trong việc quản lý gia đình, trong quân ngũ, và cả trong các công việc văn phòng của chính quyền.
 
-SOCRATES: Và chắc chắn điều quan trọng nhất là nó khiến cho bất kỳ loại hình học tập, suy nghĩ, hay suy ngẫm cá nhân nào cũng trở nên khó khăn, vì luôn luôn gây ra những cơn đau đầu hoặc chóng mặt tưởng tượng và đổ lỗi cho triết học là nguyên nhân. Thế nên, bất cứ nơi nào loại *sự hoàn thiện* này được thực hành và đưa vào sự soi xét của triết học, thì việc chăm lo cơ thể quá mức đều cản trở nó. Bởi nó không ngừng làm cậu ảo tưởng rằng mình đang ốm và không bao giờ cho cậu ngừng dằn vặt về cơ thể mình.
+SOCRATES: Và quan trọng nhất, chắc chắn nó gây khó khăn cho mọi việc học tập, tư duy hay suy ngẫm cá nhân, bằng cách liên tục tạo ra những cơn đau đầu ảo hay chóng mặt ảo rồi đổ lỗi cho việc nghiên cứu triết học gây ra. Do đó, bất cứ nơi nào sự *hoàn thiện* này được thực hành và được soi chiếu bằng triết học, thì việc chăm chút cơ thể thái quá sẽ luôn ngáng đường. Bởi nó liên tục làm anh hoang tưởng rằng mình đang ốm và không bao giờ để anh thôi lo âu về cái cơ thể của mình.
 
-GLAUCON: Vâng, có lẽ vậy.
+GLAUCON: Vâng, có lẽ đúng thế.
 
-SOCRATES: Vậy chúng ta sẽ không nói rằng Asclepius cũng biết điều này sao, và rằng ngài đã phát minh ra *kỹ năng* y khoa dành cho những người có cơ thể vốn khỏe mạnh về mặt bản chất và thói quen, nhưng lại mang một căn bệnh cụ thể nào đó? Đó là loại người và loại tình trạng mà ngài hướng đến khi phát minh ra nó. Ngài giúp họ loại bỏ căn bệnh bằng thuốc men hoặc phẫu thuật, và sau đó kê lại chế độ sinh hoạt bình thường cho họ, để công việc chính trị của thành bang không bị ảnh hưởng. Tuy nhiên, ngài không cố gắng kê đơn chế độ điều trị cho những kẻ có cơ thể bị ăn mòn bởi bệnh tật, ngõ hầu bằng cách hút chỗ này một chút, đổ thêm vào chỗ kia một tẹo, ngài có thể biến cuộc đời họ thành một sự khốn khổ kéo dài và giúp họ sinh ra những đứa con nhiều khả năng cũng sẽ giống hệt họ. Ngài không cho rằng mình nên điều trị cho một người không thể sống một cuộc đời bình thường, vì một người như vậy chẳng mang lại lợi ích gì cho cả bản thân anh ta lẫn thành bang.
+SOCRATES: Vậy ta phải công nhận rằng Asclepius thừa hiểu điều này, và ông sáng lập ra y học chỉ dành cho những người có nền tảng thể chất và thói quen sinh hoạt tốt, nhưng lại mắc phải một căn bệnh cụ thể nào đó. Đó là đối tượng và hoàn cảnh mà y học sinh ra để phục vụ. Ông giúp họ loại bỏ mầm bệnh bằng thuốc hoặc phẫu thuật, rồi chỉ định họ quay lại chế độ sinh hoạt bình thường để không làm gián đoạn công việc của thành phố. Tuy nhiên, ông không đời nào đưa ra phác đồ điều trị cho những kẻ có cơ thể mục nát từ bên trong, không cố rút chỗ này bù chỗ kia để biến cuộc đời họ thành một chuỗi bi kịch dai dẳng, rồi để họ đẻ ra những đứa con y hệt mình. Ông không cho rằng mình có trách nhiệm phải chữa trị cho những kẻ không thể sống một cuộc sống bình thường, vì loại người đó chẳng mang lại lợi ích gì cho (408a) chính họ hay cho thành phố.
 
-GLAUCON: Theo góc nhìn của anh, Asclepius quả là một chính trị gia đích thực.
+GLAUCON: Theo anh nói thì Asclepius quả là một nhà chính trị đại tài.
 
-SOCRATES: Rõ ràng là thế. Và cậu không thấy sao, vì ngài là người như vậy, (408a) nên các con trai ngài cũng trở thành những người đàn ông giỏi giang trong cuộc chiến ở Troy, và thực hành *kỹ năng* y học hệt như cách tôi vừa nói. Cậu không nhớ rằng họ "hút máu ra và đắp các loại thuốc êm dịu" lên vết thương do Pandarus gây ra cho Menelaus sao? Nhưng họ cũng không hề kê đơn xem anh ta nên ăn uống thế nào sau đó, giống y như trường hợp của Eurypylus?[60] Đó là vì họ mặc định rằng thuốc của họ đã đủ để chữa khỏi cho những người đàn ông vốn khỏe mạnh và sống có trật tự trước khi bị thương, ngay cả khi họ tình cờ uống rượu pha lúa mạch và phô mai ngay sau đó. Nhưng họ cho rằng cuộc sống của những kẻ bệnh hoạn bẩm sinh và vô *tiết chế* thì chẳng có ích lợi gì cho bản thân hay cho ai khác, rằng *kỹ năng* y học không nên được lãng phí vào họ, và rằng họ không đáng được điều trị, dẫu họ có giàu hơn cả vua Midas đi chăng nữa.
+SOCRATES: Rõ ràng là vậy. Và anh thấy không, chính vì ông ấy như thế nên các con trai ông cũng trở thành những chiến binh dũng cảm trong cuộc chiến ở Troy, và họ cũng hành nghề y y hệt như tôi vừa nói. Anh không nhớ chuyện họ "hút máu độc và rịt thuốc êm dịu" vào vết thương mà Pandarus gây ra cho Menelaus sao? Sau đó họ cũng chẳng quan tâm xem ông ta ăn gì uống gì, y hệt như với Eurypylus?[60] Đó là vì họ mặc định rằng thuốc của họ đã đủ để chữa lành cho những người vốn dĩ khỏe mạnh và sống kỷ luật trước khi bị thương, ngay cả khi người đó lỡ tu nguyên một chậu rượu pha lúa mạch và phô mai ngay sau đó. Nhưng đối với những kẻ mang sẵn mầm bệnh trong bản tính và sống buông thả, họ cho rằng mạng sống của lũ này chẳng mang lại lợi ích gì cho ai, rằng y học không nên lãng phí cho chúng, và tuyệt đối không được chữa trị cho chúng, dù chúng có giàu hơn cả vua Midas.
 
-GLAUCON: Dưới góc nhìn của anh, những người con của Asclepius quả thực rất sành sỏi.
+GLAUCON: Qua lời anh kể, các con trai của Asclepius quả là những người cực kỳ sắc sảo.
 
-SOCRATES: Đó là góc nhìn đúng đắn về họ. Vậy mà ngay ở điểm này Pindar và các nhà viết bi kịch lại không chịu tin chúng ta. Họ nói rằng Asclepius, dù là con của Apollo, đã bị mua chuộc bằng vàng để cứu chữa một người đàn ông giàu có đang hấp hối, và đó là lý do ngài bị sét đánh. Nhưng, xét theo những gì chúng ta đã nói trước đó, chúng ta sẽ không chấp nhận cả hai lập luận từ họ. Trái lại, chúng ta sẽ tuyên bố rằng nếu Asclepius là con của một vị thần, thì ngài không phải là kẻ hám tiền; còn nếu ngài là kẻ hám tiền, ngài không thể là con của một vị thần.
+SOCRATES: Đó là cách nhìn nhận đúng đắn về họ. Ấy thế nhưng chính ở điểm này, Pindar và các tác giả bi kịch lại không đồng tình với chúng ta. Họ rêu rao rằng Asclepius, dù là con của thần Apollo, lại để cho vàng bạc làm mờ mắt mà đi cứu sống một tên nhà giàu đang hấp hối, và đó là lý do ông ta bị sét đánh chết. Nhưng dựa vào những gì ta đã bàn, ta sẽ bác bỏ những lời vu khống này. Trái lại, ta sẽ tuyên bố thẳng thừng rằng: nếu Asclepius là con thần linh, ông không thể là kẻ hám tiền; còn nếu ông là kẻ hám tiền, ông chắc chắn không phải con thần linh.
 
-GLAUCON: Điều đó hoàn toàn đúng. Nhưng anh nói sao về điều sau đây, Socrates? Chẳng lẽ chúng ta sẽ không cần những bác sĩ giỏi trong thành bang sao? Và tôi hình dung những người giỏi nhất sẽ là những người đã điều trị cho số lượng lớn nhất cả những người khỏe mạnh lẫn bệnh tật. Tương tự, những quan tòa [61] tốt nhất sẽ là những người từng tiếp xúc với đủ loại người có bản tính phức tạp đa dạng.
+GLAUCON: Hoàn toàn chính xác. Nhưng anh nghĩ sao về điều sau đây, Socrates? Chẳng lẽ thành phố của ta không cần những bác sĩ giỏi sao? Và tôi cho rằng những bác sĩ giỏi nhất là những người từng tiếp xúc với nhiều bệnh nhân nhất, cả người khỏe lẫn kẻ ốm yếu. Tương tự như vậy, những quan tòa [61] giỏi nhất sẽ là những người từng cọ xát với đủ mọi hạng người mang những bản tính thiên hình vạn trạng.
 
-SOCRATES: Tôi hoàn toàn đồng ý rằng chúng ta cần những người giỏi. Nhưng cậu có biết tôi đánh giá ai là người như vậy không?
+SOCRATES: Tôi hoàn toàn đồng ý là chúng ta cần họ. Nhưng anh có biết tôi định nghĩa thế nào là "giỏi" không?
 
-GLAUCON: Tôi sẽ biết nếu anh nói cho tôi.
+GLAUCON: Tôi sẽ biết nếu anh giải thích.
 
-SOCRATES: Chà, tôi sẽ thử. Tuy nhiên, cậu lại gộp những thứ không giống nhau vào trong cùng một câu hỏi.
+SOCRATES: Tôi sẽ cố. Tuy nhiên, anh đang gộp chung hai khái niệm không tương đồng vào cùng một câu hỏi đấy.
 
 GLAUCON: Ý anh là sao?
 
-SOCRATES: Bác sĩ, đúng là vậy, sẽ trở nên thông minh nhất nếu, ngoài việc học *kỹ năng* y khoa, họ còn tiếp xúc với lượng lớn nhất có thể những cơ thể ốm yếu nhất ngay từ nhỏ,[62] tự mình trải qua mọi thứ bệnh tật, và bản thân họ về bản chất cũng không được khỏe mạnh cho lắm. Xét cho cùng, họ không dùng cơ thể để chữa trị cho cơ thể. Nếu họ làm vậy, chúng ta sẽ không cho phép cơ thể họ tồi tệ hay trở nên tồi tệ. Mà chính bằng tâm hồn mà một cơ thể được chữa trị, và một tâm hồn thì không thể chữa trị tốt bất cứ thứ gì nếu bản thân nó vốn đã tồi tệ hoặc trở nên tồi tệ.
+SOCRATES: Bác sĩ sẽ đạt đến đỉnh cao nghề nghiệp nếu, ngoài việc học y lý, họ được tiếp xúc với cơ số những cơ thể ốm đau bệnh tật ngay từ khi còn nhỏ,[62] bản thân họ cũng từng trải qua mọi thứ bệnh, và bẩm sinh không phải là người quá khỏe mạnh. Rốt cuộc thì họ không dùng cơ thể để chữa cho cơ thể. Nếu họ làm thế, ta sẽ không bao giờ cho phép cơ thể họ được phép yếu kém. Nhưng họ dùng tâm hồn để chữa trị cho cơ thể, và một tâm hồn thì không thể làm tốt việc chữa trị nếu bản thân nó là một thứ tồi tệ hay mục nát.
 
-GLAUCON: Đúng vậy.
+GLAUCON: Anh nói đúng.
 
-SOCRATES: Nhưng một quan tòa, thưa cậu, lại cai quản một tâm hồn bằng một tâm hồn. Và một tâm hồn thì (409a) không thể được nuôi dưỡng giữa những tâm hồn tồi tệ từ khi còn nhỏ, không thể tiếp xúc với chúng và bản thân không thể buông thả vào đủ mọi loại hành vi *điều sai* (unjust), để rồi có thể đưa ra những suy luận chính xác từ chính mình về hành động *điều sai* của kẻ khác, như cách áp dụng trong các căn bệnh của cơ thể. Trái lại, tâm hồn đó không được phép có bất kỳ kinh nghiệm nào và không được vấy bẩn bởi những tính cách xấu khi nó còn trẻ, nếu bản thân nó muốn là một tâm hồn tốt đẹp và *sự hoàn thiện*, và đưa ra các phán xét về *điều đúng* (just) một cách lành mạnh. Thực ra, đó chính xác là lý do tại sao người tốt thường bị coi là ngây thơ khi còn trẻ và dễ bị lừa gạt bởi những kẻ *sống sai*: họ không có những khuôn mẫu bên trong mình về hành vi của kẻ xấu.
+SOCRATES: Nhưng một quan tòa, bạn của tôi ơi, lại dùng tâm hồn để cai trị một tâm hồn. Và một (409a) tâm hồn không thể nào được nuôi dưỡng giữa những tâm hồn đen tối từ thuở ấu thơ, lớn lên cùng chúng, tự mình nhúng chàm vào mọi thể loại bất công, để rồi dùng chính kinh nghiệm đó suy ra sự bất công của kẻ khác, giống như cách bác sĩ quan sát bệnh tật của cơ thể được. Trái lại, tâm hồn vị quan tòa đó phải hoàn toàn trong sạch, không bị vấy bẩn bởi những nhân cách tồi tệ khi còn trẻ, nếu anh ta muốn dùng một tâm hồn thuần khiết và tốt đẹp của mình để đưa ra những phán quyết công bằng và sáng suốt. Chính vì lẽ đó mà người tốt thường bị coi là ngây thơ khi còn trẻ và dễ bị bọn tiểu nhân lừa gạt: bởi trong tâm hồn họ không hề tồn tại khuôn mẫu về hành vi của lũ người xấu.
 
-GLAUCON: Vâng, thực sự đó chính xác là những gì xảy ra với họ.
+GLAUCON: Vâng, điều đó cực kỳ chính xác với họ.
 
-SOCRATES: Đó là lý do tại sao một quan tòa tốt không được phép trẻ tuổi, mà phải già—một người học muộn về bản chất của *điều sai* (injustice), người nhận thức được nó không phải vì coi nó là một phần trong tâm hồn mình, mà là một thứ xa lạ hiện diện trong tâm hồn kẻ khác. Ông ta phải rèn luyện bản thân trong nhiều năm để nhìn thấu bản chất tồi tệ của nó bằng cách sử dụng kiến thức lý thuyết của mình, chứ không phải từ trải nghiệm thân thuộc của chính bản thân về nó.
+SOCRATES: Đó là lý do một quan tòa giỏi không được phép trẻ tuổi, mà phải là người già, một người chỉ được học về khái niệm sự sai trái (injustice) ở độ tuổi xế chiều. Ông ta nhận diện nó không phải như một thứ tồn tại sẵn trong chính tâm hồn mình, mà như một thứ nọc độc ngoại lai sống ký sinh trong tâm hồn kẻ khác. Ông ta phải mất nhiều năm rèn luyện để thấu hiểu sự tàn độc của cái ác thông qua kiến thức lý thuyết, chứ không phải qua trải nghiệm thực tế nhúng chàm.
 
-GLAUCON: Dù sao thì, có vẻ như một vị quan tòa cao quý nhất sẽ giống như thế.
+GLAUCON: Bất luận thế nào, đó mới chính là hình mẫu của một quan tòa cao quý nhất.
 
-SOCRATES: Và ông ta cũng chính là người tốt mà cậu vừa hỏi đến, vì người có tâm hồn tốt đẹp là người tốt. Mặt khác, kẻ láu cá và hay nghi ngờ, người đã tự tay phạm phải nhiều *điều sai* và coi mình là kẻ không từ thủ đoạn và khôn ngoan, sẽ tỏ ra thông minh khi tiếp xúc với những kẻ giống mình, vì hắn luôn đề phòng và nhìn vào các khuôn mẫu bên trong chính hắn. Nhưng khi chạm trán những người tốt lớn tuổi hơn, hắn lại lộ ra là kẻ ngu ngốc, đa nghi không đúng lúc, và mù tịt về thế nào là một tính cách lành mạnh, do hắn không hề có khuôn mẫu đó trong mình. Tuy nhiên, vì hắn gặp kẻ xấu nhiều hơn người tốt, hắn có vẻ thông minh hơn là ngu ngốc, cả trong mắt hắn lẫn trong mắt đồng bọn.
+SOCRATES: Và đó cũng chính là người quan tòa "giỏi" mà anh vừa hỏi, vì người có tâm hồn tốt đẹp chính là người tốt. Ngược lại, cái gã gian xảo, đa nghi, kẻ đã từng làm đủ mọi chuyện ruồi bu và tự đắc cho rằng mình khôn ranh quỷ quyệt, hắn sẽ tỏ ra rất sành sỏi khi chơi với đám người giống hắn, vì hắn luôn cảnh giác và đối chiếu với những mưu mô có sẵn trong đầu mình. Nhưng khi phải đối mặt với những người tốt lớn tuổi hơn, hắn lộ nguyên hình là kẻ ngu xuẩn, đa nghi không đúng lúc, và mù tịt về thế nào là một nhân cách lành mạnh, bởi trong tâm hồn hắn không tồn tại khuôn mẫu nào như thế. Nhưng vì trên đời này hắn gặp kẻ xấu nhiều hơn người tốt, nên hắn trông có vẻ khôn ngoan hơn là ngu xuẩn, trong mắt chính hắn và trong mắt đồng bọn.
 
-GLAUCON: Điều đó hoàn toàn đúng.
+GLAUCON: Hoàn toàn đúng.
 
-SOCRATES: Vậy thì chúng ta không được phép tìm kiếm một quan tòa tốt ở những loại người như thế, mà phải tìm trong kiểu người chúng ta mô tả lúc trước. Bởi vì trong khi một kẻ xấu sẽ không bao giờ có thể biết thấu cả ác tật lẫn *sự hoàn thiện*, thì một người có bản chất *sự hoàn thiện*, khi được giáo dục, theo thời gian sẽ thu nạp được kiến thức về cả *sự hoàn thiện* lẫn ác tật. Và một người như thế, chứ không phải một kẻ xấu xa, mới trở thành một vị quan tòa thông tuệ dưới góc nhìn của tôi.
+SOCRATES: Vậy thì ta không được đi tìm vị quan tòa giỏi ở loại người như thế, mà phải tìm ở hình mẫu ta vừa mô tả. Bởi vì kẻ xấu sẽ không bao giờ có thể hiểu được thế nào là cái ác hay sự *hoàn thiện* (virtue), trong khi một người bẩm sinh đã mang phẩm chất hoàn thiện, khi được giáo dục, theo thời gian sẽ thu nạp được tri thức về cả sự *hoàn thiện* lẫn thói hư tật xấu.
 
-GLAUCON: Và tôi cũng đồng tình với góc nhìn của anh.
+Và theo tôi, chỉ người như vậy mới trở thành một vị quan tòa thông thái, chứ không phải một kẻ tồi tệ.
 
-SOCRATES: Thế cậu sẽ không thiết lập thành luật trong thành bang của cậu cả *kỹ năng* y khoa mà chúng ta vừa nhắc đến cùng với *kỹ năng* xét xử này sao? Và những *kỹ năng* này sẽ chăm sóc cho những công dân có cơ thể và tâm hồn (410a) vốn tốt đẹp tự nhiên; nhưng với những kẻ có cơ thể không được như vậy, họ sẽ để mặc cho chết, trong khi với những kẻ có tâm hồn bản chất đã tồi tệ vô phương cứu chữa, chính họ sẽ đem xử tử.
+GLAUCON: Tôi hoàn toàn chia sẻ góc nhìn này.
 
-GLAUCON: Vâng, chúng ta đã thấy rằng đó là điều tốt nhất cho cả những người nhận sự can thiệp đó lẫn cho thành bang.
+SOCRATES: Vậy thì anh sẽ phải luật hóa cả hai lĩnh vực: y học và hệ thống tư pháp, trong thành phố của anh chứ? Hai hệ thống này sẽ có nhiệm vụ chăm sóc cho những công dân bẩm sinh đã có cơ thể và (410a) tâm hồn khỏe mạnh; đối với những kẻ có cơ thể không cứu vãn nổi, họ sẽ để mặc cho chết, còn những kẻ có tâm hồn mục nát, tồi tệ vô phương cứu chữa, chính quyền sẽ trực tiếp kết liễu chúng.
 
-SOCRATES: Và do đó, rõ ràng những người trẻ của cậu sẽ hết sức thận trọng để không phải nhờ đến một vị quan tòa, vì họ áp dụng loại giáo dục âm nhạc đơn giản, thứ mà chúng ta đã nói sẽ sinh ra sự *tiết chế*.
+GLAUCON: Vâng, ta đã thấy rõ đó là giải pháp tốt nhất cho cả những người phải chịu hình phạt lẫn cho toàn thành phố.
+
+SOCRATES: Và rõ ràng thanh niên của anh sẽ cảnh giác để không bao giờ phải viện đến quan tòa, một khi họ được hấp thụ nền giáo dục âm nhạc mộc mạc mà ta đã khẳng định là sẽ sản sinh ra tính *tiết chế*.
 
 GLAUCON: Tất nhiên.
 
-SOCRATES: Và chẳng phải một người được giáo dục âm nhạc sẽ săn lùng một kiểu rèn luyện thể chất đi theo chính dấu vết này, và nắm lấy nó, nếu anh ta chọn sao? Và chẳng phải kết quả là anh ta sẽ không cần dùng đến *kỹ năng* y khoa, ngoại trừ khi cực kỳ cần thiết sao?
+SOCRATES: Và chẳng phải một người đã thấu hiểu âm nhạc sẽ lần theo chính những dấu vết đó để tìm kiếm một chế độ rèn luyện thể chất phù hợp, và dễ dàng nắm bắt được nó nếu anh ta muốn sao?
 
-GLAUCON: Dù sao thì đó cũng là góc nhìn của tôi.
+Kết quả là anh ta sẽ chẳng bao giờ cần đến y học, ngoại trừ những lúc cực kỳ khẩn cấp?
 
-SOCRATES: Và anh ta thậm chí sẽ đảm nhận cả chế độ ăn kiêng cùng những nỗ lực rèn luyện thể chất với mục tiêu không nhắm nhiều vào sức mạnh cơ bắp cho bằng việc khơi dậy phần *có khí phách* trong bản tính của mình, không như tất cả các vận động viên khác chỉ sử dụng chế độ ăn và sự nỗ lực cốt để tăng cường sức mạnh cơ bắp.
+GLAUCON: Ít nhất thì tôi thấy vậy.
 
-GLAUCON: Điều đó hoàn toàn đúng.
+SOCRATES: Và anh ta sẽ đảm đương các bài tập thể chất hay thói quen sinh hoạt không phải nhằm mục đích luyện cơ bắp như đám vận động viên thông thường, mà mục tiêu hàng đầu là để đánh thức phần *khí phách* (spirited part) trong bản ngã của mình.
 
-SOCRATES: Vậy thì chẳng phải hệ quả theo sau, thưa Glaucon, là những người thiết lập nền giáo dục âm nhạc và giáo dục thể chất đã không làm thế với mục tiêu mà một số người gán cho họ: đó là dùng cái thứ nhất để chữa trị cơ thể và dùng cái thứ hai để chữa trị tâm hồn sao?
+GLAUCON: Cực kỳ chính xác.
 
-GLAUCON: Vậy mục tiêu là gì?
+SOCRATES: Từ đó, Glaucon, ta có thể kết luận rằng những bậc tiền nhân khi sáng tạo ra giáo dục âm nhạc và giáo dục thể chất, họ không hề mang cái mục đích thiển cận như người đời vẫn gán ghép: đó là dùng âm nhạc để chữa tâm hồn và dùng thể dục để chữa cơ thể?
 
-SOCRATES: Có vẻ như họ thiết lập cả hai chủ yếu vì lợi ích của tâm hồn.
+GLAUCON: Vậy mục đích thực sự là gì?
 
-GLAUCON: Bằng cách nào?
+SOCRATES: Có vẻ như họ tạo ra cả hai thứ đó chủ yếu chỉ vì lợi ích của tâm hồn.
 
-SOCRATES: Cậu chưa bao giờ để ý đến tâm thế của những người cả đời gắn bó với giáo dục thể chất nhưng lại tránh xa giáo dục âm nhạc sao? Hoặc ngược lại, của những người làm điều trái ngược?
+GLAUCON: Tại sao lại như thế?
+
+SOCRATES: Anh chưa bao giờ để ý đến tâm lý của những người cả đời chỉ cắm đầu vào tập tành mà phớt lờ giáo dục âm nhạc sao? Hay trường hợp của những người làm điều ngược lại?
 
 GLAUCON: Ý anh là sao?
- SOCRATES: Sự hoang dã và thô ráp, trong trường hợp thứ nhất; sự mềm yếu và thái quá trong sự trau chuốt, ở trường hợp thứ hai.
+SOCRATES: Sự hoang dại và thô lỗ trong trường hợp thứ nhất; sự ủy mị và phù phiếm trong trường hợp thứ hai.
 
-GLAUCON: Tôi chắc chắn đã nhận ra rằng những người chỉ chăm chăm hiến mình cho giáo dục thể chất sẽ trở nên hoang dã hơn mức cần thiết, trong khi những người chuyên chú vào giáo dục âm nhạc lại trở nên mềm yếu hơn mức tốt cho họ.
+GLAUCON: Tôi có thấy. Những người chỉ biết hùng hục rèn luyện thể chất thường trở nên hung hăng quá mức cần thiết, còn những kẻ chỉ đắm chìm trong âm nhạc lại trở nên ẻo lả hơn mức cho phép.
 
-SOCRATES: Và chắc chắn sự hoang dã bắt nguồn từ phần *có khí phách* trong bản tính của họ, thứ mà nếu được nuôi dưỡng đúng cách, sẽ trở nên dũng cảm, nhưng nếu bị căng kéo quá mức, rất dễ trở nên chai sạn và thô bạo.
+SOCRATES: Và chắc chắn sự hung hăng đó bắt nguồn từ phần *khí phách* (spirited element) trong bản tính của họ, thứ mà nếu được nuôi dưỡng đúng cách sẽ hóa thành lòng dũng cảm, nhưng nếu bị đẩy đi quá đà sẽ trở nên thô bạo và tàn nhẫn.
 
 GLAUCON: Có vẻ là vậy.
 
-SOCRATES: Còn về sự trau chuốt thì sao? Chẳng phải nó bắt nguồn từ phần triết học trong bản tính của họ sao, thứ mà nếu thư giãn quá mức, sẽ trở nên mềm yếu hơn nó nên thế, nhưng nếu được nuôi dưỡng tốt, sẽ trở nên thanh lịch và có trật tự?
+SOCRATES: Còn sự phù phiếm thì sao? Chẳng phải nó sinh ra từ phần bản tính triết học (*lý trí*) của họ sao? Nếu bị nới lỏng quá mức, nó sẽ trở nên ủy mị yếu đuối; nhưng nếu được tôi luyện đúng cách, nó sẽ hóa thành sự tao nhã và trật tự?
 
-GLAUCON: Đúng vậy.
+GLAUCON: Anh nói đúng.
 
-SOCRATES: Bây giờ, chúng ta đã nói rằng những người bảo vệ của chúng ta phải sở hữu cả hai bản tính này.[63]
+SOCRATES: Mà ta đã thống nhất rằng các vệ binh bắt buộc phải sở hữu cả hai bản tính này.[63]
 
-GLAUCON: Vâng, họ phải thế.
+GLAUCON: Vâng, họ phải có.
 
-SOCRATES: Và chẳng phải cả hai phải được hài hòa với nhau sao?
-
-GLAUCON: Tất nhiên.
-
-SOCRATES: Và chẳng phải tâm hồn của người được hài hòa như thế sẽ mang tính *tiết chế* (411a) và dũng cảm sao?
+SOCRATES: Và hai bản tính đó phải được hòa âm với nhau?
 
 GLAUCON: Chắc chắn rồi.
 
-SOCRATES: Và tâm hồn của kẻ thiếu hài hòa sẽ là hèn nhát và hoang dã?
+SOCRATES: Và chẳng phải tâm hồn của người đạt được sự hòa âm đó sẽ mang tính (411a) *tiết chế* và dũng cảm sao?
+
+GLAUCON: Hiển nhiên.
+
+SOCRATES: Còn tâm hồn của kẻ lạc nhịp sẽ trở nên hèn nhát và hung tợn?
 
 GLAUCON: Chính xác.
 
-SOCRATES: Vì vậy, khi ai đó giao nộp mình cho nền giáo dục âm nhạc và để cho tiếng sáo rót vào linh hồn qua đôi tai, như thể qua một chiếc phễu, những giai điệu hài hòa ngọt ngào, mềm mại, và bi lụy mà chúng ta đã nhắc đến; và khi anh ta dành cả đời ngâm nga, bị mê hoặc bởi bài hát, thì hệ quả đầu tiên là bất cứ *khí phách* nào anh ta có, anh ta sẽ nhào nặn nó hệt như làm mềm sắt và biến nó thành thứ hữu ích, thay vì vô dụng và giòn gãy. Nhưng nếu anh ta cứ tiếp tục không ngừng nghỉ và bỏ bùa *khí phách* của mình, thì hệ quả tiếp theo là anh ta sẽ nung chảy và hòa tan nó hoàn toàn cho đến khi cắt phăng, nói một cách hình tượng, cả những sợi gân của tâm hồn và biến mình thành "một chiến binh ẻo lả."[64]
+SOCRATES: Do đó, khi một người phó mặc bản thân cho âm nhạc, để tiếng sáo rót vào tâm hồn qua đôi tai những giai điệu ngọt ngào, mềm mại, và than vãn mà ta vừa nhắc tới; khi anh ta dành cả đời ngân nga, chìm đắm trong các khúc ca, thì kết quả đầu tiên là mọi chút *khí phách* anh ta có sẽ bị làm mềm đi như rèn sắt, trở nên hữu dụng thay vì giòn gãy vô dụng. Nhưng nếu anh ta cứ tiếp tục buông thả không ngừng nghỉ và bị âm nhạc thôi miên, kết quả tiếp theo là tâm hồn anh ta sẽ tan chảy và nhão nhoét hoàn toàn cho đến khi nó cắt đứt mọi "gân cốt" của ý chí, biến anh ta thành "một chiến binh ẻo lả."[64]
 
 GLAUCON: Vâng, thực sự là vậy.
 
-SOCRATES: Và nếu ngay từ đầu anh ta đã có một bản tính vô hồn nhu nhược, điều này sẽ xảy ra rất nhanh. Nhưng nếu anh ta mang bản tính *có khí phách*, *khí phách* của anh ta sẽ trở nên yếu ớt và thiếu ổn định, nhanh chóng bùng lên bởi những điều vụn vặt rồi cũng nhanh chóng tàn lụi. Kết quả là, những người như vậy trở nên nóng nảy và dễ nổi cáu, thay vì *có khí phách*, và bị lấp đầy bởi sự cáu kỉnh.
+SOCRATES: Và nếu anh ta vốn dĩ đã là một kẻ thiếu *khí phách*, quá trình này sẽ diễn ra cực nhanh. Nhưng nếu anh ta là người *có khí phách* (spirited), thứ *khí phách* đó sẽ bị làm cho yếu ớt và dao động, dễ dàng bùng lên vì những thứ nhỏ nhặt và cũng dễ dàng bị dập tắt. Hậu quả là, loại người đó sẽ trở nên nóng nảy, dễ cáu gắt và đầy sự bực dọc, thay vì giữ được sự dũng mãnh.
 
-GLAUCON: Tuyệt đối đúng.
+GLAUCON: Hoàn toàn đúng.
 
-SOCRATES: Mặt khác, thế còn người làm việc vất vả trong giáo dục thể chất, ăn uống cực kỳ tốt, nhưng không bao giờ đụng đến giáo dục âm nhạc hay triết học? Thoạt đầu, vì cơ thể anh ta ở trong trạng thái tốt và mạnh mẽ, chẳng phải anh ta tràn trề kiêu hãnh và *khí phách*, và dũng cảm hơn trước sao?
+SOCRATES: Ở thái cực ngược lại, sẽ ra sao với một kẻ chỉ cắm đầu vào tập luyện thể lực, ăn uống phè phỡn, và không bao giờ chạm đến âm nhạc hay triết học? Lúc đầu, vì có cơ thể tráng kiện, chẳng phải hắn sẽ ngập tràn sự kiêu hãnh và *khí phách*, tỏ ra dũng cảm hơn hẳn so với trước kia sao?
 
-GLAUCON: Anh ta chắc chắn là thế.
+GLAUCON: Chắc chắn rồi.
 
-SOCRATES: Nhưng chuyện gì sẽ xảy ra nếu anh ta không làm gì khác ngoài việc này và không bao giờ kết thân với Nàng thơ? Ngay cả khi có chút tình yêu học hỏi trong tâm hồn anh ta, thì vì nó không bao giờ nếm trải bất kỳ sự hướng dẫn hay khám phá nào, và không bao giờ tham gia vào bất kỳ cuộc thảo luận nào hay bất kỳ phần nào của giáo dục âm nhạc, chẳng phải nó sẽ trở nên yếu đuối, điếc lác, và mù lòa, bởi vì nó không bao giờ nhận được bất kỳ sự kích thích hay nuôi dưỡng nào, và các giác quan của nó không bao giờ được thanh lọc sao?
+SOCRATES: Nhưng chuyện gì xảy ra nếu hắn không làm gì khác ngoài việc đó và không bao giờ kết giao với Nữ thần Nghệ thuật? Ngay cả khi trong tâm hồn hắn có tồn tại đôi chút khao khát học hỏi, nhưng vì nó không bao giờ được nếm mùi giảng dạy hay nghiên cứu, không bao giờ tham gia tranh luận hay bất cứ thứ gì thuộc về giáo dục âm nhạc, thì chẳng phải nó sẽ trở nên yếu ớt, điếc lác và mù lòa vì không bao giờ được kích thích, nuôi dưỡng hay được thanh tẩy các giác quan sao?
 
-GLAUCON: Vâng, sẽ như vậy.
+GLAUCON: Vâng, nó sẽ thành ra như vậy.
 
-SOCRATES: Thế thì tôi cho rằng, một người như thế sẽ trở thành một kẻ thù ghét lập luận vô học thuật [65], kẻ không còn dùng lý lẽ để thuyết phục người khác nữa, mà dùng vũ lực và sự hoang dã, cư xử như một con thú hoang, và sống trong sự thiếu hiểu biết vụng về không chút nhịp điệu hay duyên dáng.
+SOCRATES: Vậy thì kẻ đó, tôi chắc mẩm, sẽ trở thành một kẻ thù ghét nghệ thuật và bài xích lý luận [65]. Hắn không còn dùng lý lẽ để thuyết phục người khác nữa, mà chỉ dùng bạo lực và sự man rợ, hành xử y như một con thú hoang, và sống chìm đắm trong sự ngu dốt vụng về, chẳng có chút nhịp điệu hay duyên dáng nào.
 
-GLAUCON: Đó chính xác là những gì sẽ xảy ra.
+GLAUCON: Đó đích xác là những gì sẽ diễn ra.
 
-SOCRATES: Vậy về phần mình, tôi sẽ tuyên bố rằng để giải quyết hai vấn đề này, có vẻ như, một vị thần đã trao hai *kỹ năng* cho con người—giáo dục âm nhạc và giáo dục thể chất—để giải quyết phần triết lý và phần *có khí phách*, chứ không phải, trừ phi là tác dụng phụ, để xử lý linh hồn và cơ thể; mà là dùng hai thứ này, để chúng có thể được hài hòa với nhau thông qua việc (412a) căng ra và nới lỏng ở mức độ phù hợp.
+SOCRATES: Vì vậy, cá nhân tôi sẽ khẳng định rằng: chính để giải quyết hai vấn đề này mà thần linh đã ban cho nhân loại hai bộ môn nghệ thuật, giáo dục âm nhạc và giáo dục thể chất, để nhắm thẳng vào hai thành tố trong con người: tính triết lý (*lý trí*) và phần *khí phách*. Chứ không phải (như người ta lầm tưởng) âm nhạc chữa tâm hồn và thể dục chữa cơ thể, đó chỉ là sản phẩm phụ. Mục đích tối thượng là để hai bản tính này được kéo căng và nới lỏng ở một biên độ chuẩn xác, từ đó (412a) hòa âm hoàn hảo với nhau.
 
-GLAUCON: Vâng, có vẻ là vậy.
+GLAUCON: Vâng, có vẻ đúng là vậy.
 
-SOCRATES: Vậy thì người nào kết hợp tốt nhất giữa giáo dục âm nhạc và thể chất, và áp dụng chúng với tỷ lệ hoàn hảo nhất cho linh hồn mình, mới là người mà chúng ta miêu tả đúng đắn nhất là được đào tạo trọn vẹn trong âm nhạc và có sự hài hòa lớn nhất—hơn hẳn kẻ chỉ đơn thuần biết chỉnh dây đàn cho khớp với nhau.
+SOCRATES: Thế thì người nào kết hợp được âm nhạc và thể chất một cách hoàn mỹ nhất, áp dụng chúng theo một tỷ lệ vàng vào tâm hồn mình, người đó mới xứng đáng được vinh danh là nghệ sĩ vĩ đại nhất, đạt đến cảnh giới hòa âm tuyệt đối, cao siêu hơn nhiều so với việc chỉ biết lên dây đàn sao cho khớp nhau.
 
-GLAUCON: Có lẽ là thế, Socrates.
+GLAUCON: Có lẽ vậy, Socrates.
 
-SOCRATES: Thế thì chúng ta cũng sẽ cần một kiểu người như vậy trong thành bang của mình, Glaucon à, với vai trò là người giám sát thường trực, nếu thực sự hiến pháp của nó muốn được bảo tồn, đúng không?
+SOCRATES: Vậy thì chẳng phải thành phố của ta sẽ luôn cần một người như vậy nắm giữ vị trí tổng giám sát, nếu ta muốn bảo toàn thể chế của nó sao?
 
-GLAUCON: Vâng, chúng ta sẽ cần ông ấy nhất.
+GLAUCON: Vâng, ta cần người đó hơn bất cứ ai.
 
-SOCRATES: Vậy thì, đó là những khuôn mẫu cho sự giáo dục và nuôi dạy của họ. Chứ cớ sao chúng ta lại phải đi liệt kê các điệu nhảy, các cuộc đi săn, săn bằng chó ngoạm, các cuộc thi điền kinh, và đua ngựa của họ? Xét cho cùng, rõ ràng là chúng phải nhất quán với những khuôn mẫu này, thế nên việc khám phá ra chúng không còn gì khó khăn nữa.
+SOCRATES: Vậy đó là toàn bộ khuôn mẫu cho việc giáo dục và nuôi dạy họ. Liệu ta có cần phải liệt kê chi tiết các điệu nhảy, các cuộc đi săn, các bài tập với chó săn, các giải đấu điền kinh hay đua ngựa của họ không? Rốt cuộc thì quá rõ ràng là chúng đều phải tuân theo những khuôn mẫu này, nên việc tìm ra chúng sẽ chẳng có gì khó khăn nữa.
 
-GLAUCON: Không, có lẽ là không khó.
+GLAUCON: Vâng, hẳn là chẳng có gì khó khăn.
 
-SOCRATES: Được rồi. Vậy câu hỏi tiếp theo chúng ta phải giải quyết là gì? Chẳng phải là ai trong số những con người này sẽ cai trị và ai sẽ bị cai trị sao?
+SOCRATES: Được rồi. Giờ thì câu hỏi tiếp theo ta cần giải quyết là gì? Chẳng phải ta cần xác định xem trong số những người này, ai sẽ là người cai trị và ai sẽ là người bị cai trị sao?
 
- GLAUCON: Tất nhiên.
+GLAUCON: Đương nhiên rồi.
 
-SOCRATES: Vậy, chẳng phải rõ ràng những người lớn tuổi hơn phải cai trị, trong khi những người trẻ hơn phải bị cai trị sao?
+SOCRATES: Chà, chẳng phải rõ ràng là người lớn tuổi phải cai trị, còn người trẻ tuổi phải phục tùng sao?
 
-GLAUCON: Vâng, điều đó rõ ràng.
+GLAUCON: Vâng, rõ ràng.
 
-SOCRATES: Và rằng những người cai trị phải là những người xuất sắc nhất trong số họ?
+SOCRATES: Và những người cai trị phải là những người xuất chúng nhất trong số họ?
 
-GLAUCON: Vâng, điều đó cũng rõ ràng.
+GLAUCON: Vâng, cái đó cũng rõ ràng.
 
-SOCRATES: Và chẳng phải những người nông dân xuất sắc nhất là những người làm nông giỏi nhất sao?
-
-GLAUCON: Vâng.
-
-SOCRATES: Vậy trong trường hợp hiện tại, vì những người cai trị phải là những người giỏi nhất trong số những người bảo vệ, chẳng phải họ phải là những người bảo vệ thành bang giỏi nhất sao?
+SOCRATES: Và chẳng phải những nông dân giỏi nhất là những người làm nông xuất sắc nhất sao?
 
 GLAUCON: Vâng.
 
-SOCRATES: Thế thì họ không những phải am hiểu và có khả năng trong vấn đề này, mà thêm vào đó, họ còn phải toàn tâm toàn ý vì thành bang, đúng không?
-
-GLAUCON: Vâng, họ phải vậy.
-
-SOCRATES: Nhưng một người sẽ quan tâm nhất đến thứ mà anh ta yêu thương.
-
-GLAUCON: Chắc chắn là thế.
-
-SOCRATES: Và anh ta sẽ yêu thương một thứ nhất nếu anh ta nghĩ rằng cả anh ta lẫn nó đều chia sẻ chung những lợi ích, và nếu anh ta nghĩ rằng khi nó tốt lên, anh ta cũng sẽ tốt lên; và nếu nó tệ đi, điều ngược lại sẽ xảy ra.
-
-GLAUCON: Đúng vậy.
-
-SOCRATES: Thế thì chúng ta phải chọn từ hàng ngũ những người bảo vệ của mình cái kiểu người mà dựa trên quan sát, dường như họ có khuynh hướng cao nhất trong suốt cuộc đời, sẵn sàng làm những gì họ tin là có lợi cho thành bang, và phản đối kịch liệt việc làm điều ngược lại.
-
-GLAUCON: Vâng, họ sẽ phù hợp với công việc đó.
-
-SOCRATES: Vậy thì tôi nghĩ, chúng ta sẽ phải quan sát họ ở mọi giai đoạn của cuộc đời để đảm bảo rằng họ là những người bảo vệ tốt cho niềm tin này, và rằng không một sự cưỡng ép hay tà thuật nào có thể khiến họ vứt bỏ hay quên đi niềm tin rằng họ phải làm những gì tốt nhất cho thành bang.
-
-GLAUCON: Anh nói vứt bỏ nghĩa là sao?
-
-SOCRATES: Tôi sẽ nói cho cậu nghe. Theo tôi, sự rời bỏ của một niềm tin khỏi tâm trí ai đó hoặc là tự nguyện, hoặc là không tự nguyện—tự nguyện khi (413a) anh ta nhận ra niềm tin đó là sai; không tự nguyện trong trường hợp mọi niềm tin đúng.
-
-GLAUCON: Tôi hiểu loại tự nguyện, nhưng tôi vẫn cần anh chỉ dẫn về loại không tự nguyện.
-
-SOCRATES: Gì cơ? Cậu không biết rằng người ta bị tước đoạt một cách không tự nguyện những điều tốt đẹp, nhưng lại tự nguyện tước đi những điều tồi tệ sao? Và chẳng phải bị lừa dối về sự thật là một điều tồi tệ, trong khi nắm giữ sự thật là một điều tốt đẹp sao? Hay cậu không cho rằng tin vào những thứ tồn tại chính là nắm giữ sự thật?
-
-GLAUCON: Không, anh nói đúng. Và tôi cũng nghĩ rằng người ta bị tước đoạt các niềm tin đúng một cách không tự nguyện.
-
-SOCRATES: Vậy chẳng phải việc này xảy ra thông qua trộm cắp, tà thuật, và sự cưỡng ép sao?
-
-GLAUCON: Giờ thì tôi lại không hiểu rồi.
-
-SOCRATES: Tôi cho là mình đang diễn giải mập mờ y như một nhà thơ bi kịch! [66] Ý tôi ám chỉ những kẻ bị trộm mất niềm tin là những kẻ bị xiêu lòng bởi lời thuyết phục, hay những kẻ lãng quên; bởi vì lý lẽ trong trường hợp này, và thời gian trong trường hợp kia, đã lấy đi niềm tin của họ mà họ không hề hay biết. Cậu hiểu rồi chứ?
+SOCRATES: Trong trường hợp hiện tại, vì những người cai trị phải là những người giỏi nhất trong hàng ngũ vệ binh, nên họ bắt buộc phải là những người bảo vệ thành phố xuất sắc nhất, đúng không?
 
 GLAUCON: Vâng.
 
-SOCRATES: Chà, tiếp theo, ám chỉ những người bị cưỡng ép, ý tôi là những kẻ bị ép phải thay đổi niềm tin bởi một nỗi đau hay sự thống khổ nào đó.
+SOCRATES: Vậy họ bắt buộc phải là những người tinh thông và có năng lực trong việc này, và trên hết, họ phải là những người thực sự tận tâm với thành phố?
 
-GLAUCON: Tôi hiểu điều đó, và anh nói đúng.
+GLAUCON: Vâng, họ phải có đủ các yếu tố đó.
 
-SOCRATES: Và những nạn nhân của tà thuật, tôi nghĩ cậu sẽ đồng ý, là những kẻ thay đổi niềm tin vì bị mê hoặc bởi khoái lạc hoặc bị làm cho khiếp đảm bởi một nỗi sợ hãi nào đó.
+SOCRATES: Mà một người sẽ tận tâm nhất với thứ mà anh ta yêu thương nhất.
 
-GLAUCON: Tôi thấy hình như mọi sự lừa dối đều là một dạng tà thuật.
+GLAUCON: Điều tất yếu là vậy.
 
-SOCRATES: Chà, như tôi vừa nói, chúng ta phải khám phá xem ai trong số họ giỏi nhất trong việc canh giữ bên trong chính mình cái niềm tin rằng họ phải luôn làm những gì họ tin là tốt nhất cho thành bang. Chúng ta phải theo dõi họ từ thời thơ ấu, và giao cho họ những nhiệm vụ mà ở đó một người dễ quên mất niềm tin ấy nhất hoặc dễ bị đánh lừa nhất. Và chúng ta phải chọn ra những người biết ghi nhớ và khó bị lừa gạt, đồng thời loại bỏ những kẻ khác. Cậu đồng ý chứ?
+SOCRATES: Và anh ta sẽ yêu thứ gì đó nhất nếu anh ta tin rằng: lợi ích của thứ đó cũng là lợi ích của chính anh ta; khi thứ đó phát triển thì anh ta cũng hưng thịnh, và nếu nó tàn lụi thì anh ta cũng tiêu vong.
+
+GLAUCON: Hoàn toàn đúng.
+
+SOCRATES: Vậy thì chúng ta phải sàng lọc từ hàng ngũ vệ binh những người đàn ông, những người mà qua quan sát, ta thấy họ luôn có xu hướng, trong suốt cả cuộc đời, chỉ làm những gì họ tin là có lợi cho thành phố, và cực kỳ cự tuyệt làm những điều trái ngược.
+
+GLAUCON: Vâng, những người như vậy sẽ cực kỳ phù hợp cho vị trí này.
+
+SOCRATES: Vậy tôi cho rằng ta sẽ phải giám sát họ ở mọi giai đoạn của cuộc đời, để đảm bảo rằng họ là những người bảo vệ trung thành cho niềm tin đó, và không có sự ép buộc hay ma thuật nào có thể khiến họ vứt bỏ hay lãng quên lý tưởng rập khuôn: "phải làm những gì tốt nhất cho thành phố".
+
+GLAUCON: Anh định nghĩa "vứt bỏ" là như thế nào?
+
+SOCRATES: Tôi sẽ nói anh nghe. Tôi cho rằng việc một niềm tin rời bỏ tâm trí ai đó có thể là tự nguyện hoặc vô thức, tự nguyện là (413a) khi anh ta nhận ra niềm tin đó là sai trái; còn vô thức là khi anh ta đánh mất một niềm tin chân lý.
+
+GLAUCON: Sự tự nguyện thì tôi hiểu, nhưng anh phải giải thích thêm về sự vô thức.
+
+SOCRATES: Cái gì? Anh không biết rằng con người luôn bị cướp mất những điều tốt đẹp một cách vô ý thức, nhưng lại sẵn sàng vứt bỏ những điều xấu xa một cách tự nguyện sao? Và chẳng phải việc bị lừa dối về sự thật là một điều tồi tệ, trong khi nắm giữ chân lý là một điều tốt lành sao? Hay anh không cho rằng "tin vào những thứ hiện hữu thực sự" chính là nắm giữ chân lý?
+
+GLAUCON: Không, anh nói đúng. Và tôi cũng nghĩ con người thường bị tước đoạt mất những niềm tin đúng đắn một cách vô ý thức.
+
+SOCRATES: Vậy chẳng phải điều đó xảy ra thông qua sự đánh cắp, ma thuật, hoặc sự ép buộc sao?
+
+GLAUCON: Giờ thì tôi lại không hiểu gì rồi.
+
+SOCRATES: Có vẻ tôi đang diễn đạt rườm rà như một nhà thơ bi kịch! [66] Bị "đánh cắp niềm tin", ý tôi là những kẻ bị đối phương dùng lý lẽ thao túng tâm lý, hoặc những kẻ bị lãng quên; bởi vì lập luận (trong trường hợp đầu) và thời gian (trong trường hợp sau) đã cướp mất niềm tin của họ lúc nào không hay. Giờ thì anh hiểu rồi chứ?
 
 GLAUCON: Vâng.
 
-SOCRATES: Và chúng ta cũng phải đặt họ vào những công việc cực nhọc, nỗi đau, cùng các cuộc thi tài, và theo dõi những điều tương tự ở đó.
+SOCRATES: Thế còn "bị ép buộc," ý tôi là những kẻ buộc phải thay đổi niềm tin do chịu đựng sự đau đớn hay khổ ải.
 
-GLAUCON: Đúng vậy.
+GLAUCON: Tôi cũng hiểu điều đó, anh nói đúng.
 
-SOCRATES: Sau đó chúng ta cũng phải thiết lập bài kiểm tra loại thứ ba đối với tà thuật. Giống như những người dắt bầy ngựa non vào nơi ồn ào náo động để xem chúng có sợ hãi không, chúng ta phải ném những người trẻ của mình vào nỗi sợ hãi và sau đó dìm họ một lần nữa vào khoái lạc, để thử thách họ kỹ lưỡng hơn cả cách người ta thử vàng trong lửa. Và nếu bất cứ ai dường như miễn nhiễm với tà thuật, giữ được sự điềm tĩnh của mình xuyên suốt, là người tự vệ tốt cho bản thân cũng như cho nền giáo dục âm nhạc mà anh ta đã nhận, và chứng tỏ mình có nhịp điệu và sự hài hòa trong tất cả những phép thử này—anh ta chính là kiểu người hữu dụng nhất, cho cả bản thân anh ta lẫn cho thành bang. Và bất cứ ai vượt qua thử thách với tư cách là trẻ em, thanh niên và người trưởng thành, và luôn bước ra mà không hề có chút tạp chất nào, (414a) phải được phong làm người cai trị của thành bang cũng như là một người bảo vệ, và phải được vinh danh trong cuộc sống cũng như nhận được những lăng mộ và đài tưởng niệm danh giá nhất sau khi chết. Còn những kẻ không đạt thì phải bị loại bỏ. Đó là cái cách, thưa Glaucon, mà tôi nghĩ chúng ta nên lựa chọn và thiết lập những người cai trị và những người bảo vệ. Dù tôi mới chỉ cung cấp một khuôn mẫu chứ chưa đi vào chi tiết chính xác.
+SOCRATES: Và "nạn nhân của ma thuật," tôi nghĩ anh sẽ đồng ý, là những kẻ thay đổi niềm tin vì bị mê hoặc bởi khoái lạc hoặc bị dọa nạt bởi nỗi sợ hãi.
+
+GLAUCON: Tôi cho rằng mọi sự lừa dối đều là một dạng ma thuật.
+
+SOCRATES: Vậy thì, như tôi vừa nói, ta phải đi tìm xem ai trong số họ là những người giỏi nhất trong việc giữ gìn và bảo vệ lý tưởng: "luôn phải làm những gì tốt nhất cho thành phố." Ta phải theo dõi họ từ khi còn nhỏ, đặt họ vào những bài kiểm tra, những tình huống mà một người bình thường rất dễ quên đi lý tưởng hoặc bị lừa dối để từ bỏ nó. Và ta phải lựa chọn những người có trí nhớ tốt, miễn nhiễm với sự lừa gạt, rồi loại bỏ phần còn lại. Anh đồng ý chứ?
+
+GLAUCON: Vâng.
+
+SOCRATES: Và ta cũng phải đẩy họ vào những lao lực, đau đớn, cùng những cuộc thi đấu, và tìm kiếm những phẩm chất tương tự ở đó.
+
+GLAUCON: Rất đúng.
+
+SOCRATES: Sau đó, ta sẽ thiết lập một bài kiểm tra thứ ba, kiểm tra khả năng chống lại ma thuật. Giống như việc người ta lùa những chú ngựa con vào nơi ồn ào hỗn loạn để xem chúng có hoảng sợ không, ta cũng phải ném thanh niên của mình vào những nỗi sợ hãi tột độ, rồi lập tức đẩy họ sang những khoái lạc bủa vây, để thử thách họ khốc liệt hơn cả cách người ta thử vàng trong lửa. Và nếu bất cứ ai tỏ ra miễn nhiễm với ma thuật, giữ vững được sự điềm tĩnh qua mọi cám dỗ, bảo vệ xuất sắc bản ngã cũng như nền giáo dục âm nhạc mình đã tiếp thu, và chứng tỏ được bản lĩnh nhịp nhàng, hòa âm hoàn hảo trong mọi thử thách, người đó chính là người hữu dụng nhất cho chính anh ta và cho thành phố. Và bất cứ ai vượt qua mọi bài kiểm tra từ lúc làm trẻ con, thanh niên, đến khi trưởng thành, luôn trồi lên khỏi ngọn lửa mà (414a) không dính chút tạp chất nào, người đó sẽ được tôn làm người cai trị và vệ binh của thành phố. Anh ta sẽ được vinh danh khi còn sống và nhận được những khu mộ, đài tưởng niệm danh giá nhất sau khi qua đời. Còn kẻ nào thất bại sẽ bị loại. Đó, thưa Glaucon, là cách tôi nghĩ ta nên dùng để tuyển chọn và bổ nhiệm những người cai trị và vệ binh. Dù tôi mới chỉ đưa ra cái khung, chứ chưa đi vào tiểu tiết.
 
 GLAUCON: Tôi cũng nghĩ đại loại như vậy.
 
-SOCRATES: Vậy thì chẳng phải việc gọi những người này là "những người bảo vệ trọn vẹn" là đúng nhất sao—những người vừa chống lại kẻ thù bên ngoài vừa chống lại những người bạn bên trong, sao cho kẻ địch thì không có sức mạnh, còn người nhà thì không có ham muốn làm bất cứ điều ác nào; nhưng ngược lại, sẽ gọi những thanh niên mà lúc nãy chúng ta xưng là người bảo vệ, trở thành "những người hỗ trợ" (auxiliaries) và những kẻ hậu thuẫn cho niềm tin của người cai trị?
+SOCRATES: Thế thì việc gọi những người này là "vệ binh hoàn thiện" (hoặc vệ binh tối cao) mới thực sự chuẩn xác, họ là những người bảo vệ thành phố trước cả kẻ thù bên ngoài lẫn bạn bè bên trong; khiến kẻ thù không có sức để phá hoại, còn người trong nhà thì không có ý định làm phản. Trong khi đó, lớp thanh niên mà ban nãy ta gọi là vệ binh, giờ sẽ đổi thành "đội dự bị" (auxiliaries) với nhiệm vụ hỗ trợ và thực thi các lý tưởng của nhóm cai trị. Anh thấy sao?
 
-GLAUCON: Vâng, tôi nghĩ như thế là đúng.
+GLAUCON: Vâng, tôi nghĩ thế là hợp lý.
 
-SOCRATES: Vậy làm thế nào chúng ta có thể bịa ra một trong những lời nói dối hữu ích mà chúng ta vừa thảo luận lúc trước,[67] một lời nói dối cao quý (noble lie) duy nhất, lý tưởng nhất là có thể thuyết phục được ngay cả chính những người cai trị; còn nếu không, thì cũng thuyết phục được phần còn lại của thành bang?
+SOCRATES: Bây giờ, làm thế nào để ta có thể bịa ra một trong những lời nói dối hữu ích mà ta đã bàn lúc trước,[67] một Lời Nói Dối Cao Cả (Noble Lie) duy nhất mà lý tưởng nhất là có thể tẩy não được cả chính những người cai trị; nhưng nếu không được, thì ít nhất cũng khiến phần còn lại của thành phố tin sái cổ?
 
-GLAUCON: Lời nói dối kiểu gì?
+GLAUCON: Lời nói dối kiểu gì vậy?
 
-SOCRATES: Không có gì mới mẻ cả, chỉ là một kiểu câu chuyện xứ Phoenicia [68] về thứ gì đó từng xảy ra ở rất nhiều nơi trước đây—ít nhất, đó là những gì các nhà thơ kể và đã thuyết phục được người ta tin theo. Nó chưa hề xảy ra vào thời đại chúng ta, và tôi không biết liệu nó có thể xảy ra hay không. Sẽ tốn rất nhiều công sức thuyết phục để khiến người ta tin vào nó.
+SOCRATES: Không có gì mới mẻ, chỉ là một dị bản của truyền thuyết Phoenicia [68] về một sự kiện đã từng xảy ra ở rất nhiều nơi trước đây, ít nhất thì các nhà thơ bảo thế và đã lừa được khối người tin. Việc này chưa từng xảy ra ở thời đại chúng ta, và tôi không biết liệu nó có thể xảy ra được không. Sẽ phải tốn rất nhiều công sức tẩy não để khiến người ta tin vào nó đấy.
 
-GLAUCON: Anh có vẻ ngập ngừng khi kể câu chuyện này.
+GLAUCON: Anh có vẻ ngập ngừng không muốn kể.
 
-SOCRATES: Cậu sẽ nhận ra rằng tôi có mọi lý do để ngập ngừng, khi tôi bắt đầu kể nó.
+SOCRATES: Khi tôi nói ra, anh sẽ thấy tôi có đủ mọi lý do để ngập ngừng.
 
-GLAUCON: Cứ nói ra đi. Đừng sợ.
+GLAUCON: Cứ tuôn ra đi. Đừng sợ.
 
-SOCRATES: Được rồi, tôi sẽ nói—mặc dù tôi không biết mình sẽ lấy đâu ra sự táo bạo hay ngôn từ để kể nó. Trước tiên, tôi sẽ cố gắng thuyết phục những người cai trị và những người lính, rồi sau đó là phần còn lại của thành bang, rằng sự nuôi dưỡng và nền giáo dục mà chúng ta dành cho họ chỉ giống như những giấc mơ; rằng họ chỉ tưởng tượng ra là mình đang trải qua tất cả những điều đã xảy ra với họ, trong khi thực tế bản thân họ lúc đó đang ở sâu dưới lòng đất để được định hình và nuôi dưỡng, và rằng vũ khí cùng toàn bộ trang bị của họ cũng được chế tạo dưới đó. Khi họ đã được hoàn thiện toàn bộ, Trái đất, người mẹ của họ, đã gửi họ lên, để giờ đây, giống như thể vùng đất nơi họ đang sống chính là người mẹ và nhũ mẫu của mình, họ phải suy tính vì lợi ích của nó, bảo vệ nó nếu có ai tấn công, và phải coi những công dân khác như những người anh em cùng sinh ra từ đất mẹ.
+SOCRATES: Được rồi, tôi sẽ nói, mặc dù tôi không biết mình lấy đâu ra sự trơ trẽn hay từ ngữ nào để kể nó. Đầu tiên, tôi sẽ cố gắng thuyết phục nhóm cai trị và binh lính, sau đó là phần còn lại của thành phố, rằng: tất cả quá trình nuôi dưỡng và giáo dục mà chúng ta dành cho họ thực chất chỉ giống như một giấc mơ; họ chỉ tưởng tượng ra là mình đang trải qua những thứ đó, trong khi thực tế lúc bấy giờ, họ đang nằm sâu dưới lòng đất để được nặn hình và thai nghén, và vũ khí cũng như mọi trang bị của họ cũng được rèn giũa dưới đó. Khi đã hoàn thiện, Mẹ Đất phún trào đẩy họ lên mặt đất. Vì vậy, giờ đây, họ phải coi mảnh đất mình đang sống như mẹ và nhũ mẫu của mình, phải suy tính vì lợi ích của nó, bảo vệ nó khỏi mọi thế lực ngoại bang, và coi những công dân khác là anh em ruột thịt cùng sinh ra từ đất mẹ.
 
-GLAUCON: Không phải vô cớ mà lúc nãy anh cảm thấy xấu hổ khi kể ra lời nói dối này.
+GLAUCON: Chẳng trách ban nãy anh thấy xấu hổ khi định thốt ra lời nói dối này.
 
-SOCRATES: Không, đó chỉ là điều đương nhiên thôi. Nhưng dù sao thì, cậu cũng nên (415a) nghe phần còn lại của câu chuyện. "Mặc dù tất cả các ngươi trong thành bang đều là anh em," chúng ta sẽ nói với họ khi kể câu chuyện của mình, "nhưng khi thần linh định hình các ngươi, ngài đã pha trộn vàng vào những ai có khả năng cai trị, đó là lý do vì sao họ danh giá nhất; pha bạc vào những người hỗ trợ; và sắt cùng đồng vào những người nông dân và các thợ thủ công khác. Về cơ bản, các ngươi sẽ sinh ra những đứa trẻ giống hệt mình; nhưng vì tất cả các ngươi đều là họ hàng, một đứa trẻ bằng bạc đôi khi sẽ được sinh ra từ cha mẹ bằng vàng, một đứa trẻ bằng vàng sinh ra từ cha mẹ bằng bạc, và cứ thế. Do đó, mệnh lệnh đầu tiên và quan trọng nhất từ thần linh dành cho những người cai trị là không có điều gì họ phải bảo vệ tốt hơn hay theo dõi cẩn thận hơn là sự pha trộn của các kim loại trong tâm hồn con cái họ. Nếu một đứa con của họ sinh ra với sự pha trộn của sắt hoặc đồng, họ tuyệt đối không được thương xót nó theo bất kỳ cách nào, mà phải gán cho nó một tước vị phù hợp với bản tính của nó và đẩy nó ra ngoài để gia nhập nhóm thợ thủ công hoặc nông dân. Mặt khác, nếu một đứa con của những người này được phát hiện có pha trộn vàng hoặc bạc, họ sẽ vinh danh nó và đưa nó lên để gia nhập những người bảo vệ hoặc những người hỗ trợ. Bởi vì có một lời sấm truyền rằng thành bang sẽ sụp đổ nếu nó có một người bảo vệ bằng sắt hoặc bằng đồng." Thế nào, cậu có mưu kế gì để khiến họ tin vào câu chuyện này không?
+SOCRATES: Ôi, đó là lẽ tự nhiên thôi. Nhưng cứ nán lại (415a) nghe hết đoạn sau đã. "Dù tất cả các công dân trong thành phố đều là anh em," ta sẽ nói với họ khi kể câu chuyện này, "khi Thượng đế nặn ra các người, ngài đã pha Vàng vào máu những kẻ có khả năng cai trị, nên họ là tầng lớp cao quý nhất; ngài pha Bạc vào nhóm dự bị; và pha Sắt, Đồng vào nhóm nông dân, thợ thủ công. Đa phần các người sẽ sinh ra những đứa con giống mình; nhưng vì tất cả đều chung huyết thống, nên thi thoảng cha mẹ Vàng lại đẻ ra con Bạc, cha mẹ Bạc lại đẻ ra con Vàng, và cứ thế hoán đổi. Do đó, mệnh lệnh tối thượng đầu tiên và quan trọng nhất mà Thượng đế giao cho những người cai trị là: không có gì họ phải bảo vệ và giám sát cẩn mật hơn sự pha trộn các kim loại trong tâm hồn con cháu họ. Nếu một đứa trẻ sinh ra mang trong mình Sắt hay Đồng, họ tuyệt đối không được động lòng thương xót, mà phải lạnh lùng đẩy nó xuống làm thợ thủ công hay nông dân, tương xứng với bản chất của nó. Ngược lại, nếu con của nhóm thợ thủ công lộ ra tố chất Vàng hay Bạc, họ phải vinh danh nó và nhấc nó lên làm vệ binh hoặc lính dự bị. Bởi vì có một lời sấm truyền rằng: thành phố sẽ diệt vong nếu nó rơi vào tay một vệ binh bằng Sắt hay Đồng." Vậy đó, anh có chiêu bài nào để khiến họ tin vào cái truyền thuyết này không?
 
-GLAUCON: Không, không có mưu kế nào có thể khiến thế hệ hiện tại tự mình tin vào nó. Nhưng tôi có một cách đối với con cái của họ, đối với những thế hệ sau này, và đối với tất cả những người đến sau họ.
+GLAUCON: Không, không có cách nào khiến thế hệ hiện tại tự dưng tin vào điều này. Nhưng tôi có cách để tẩy não con cháu họ, các thế hệ mai sau, và tất cả những người sinh ra sau này.
 
-SOCRATES: Chà, ngay cả thế cũng sẽ có tác động tốt, vì nó khiến họ quan tâm nhiều hơn đến thành bang và quan tâm đến nhau. Bởi vì tôi nghĩ tôi hiểu ý cậu—cụ thể là, tất cả những điều này sẽ đi đến nơi mà truyền thống dẫn dắt. Tuy nhiên, điều chúng ta có thể làm, khi đã vũ trang cho những con người sinh ra từ đất mẹ, là dẫn họ đi tiên phong với những người cai trị đứng đầu. Họ phải đi và tìm vị trí tốt nhất trong thành bang để dựng trại quân sự, một địa điểm giúp họ dễ dàng kiểm soát bất kỳ ai trong thành bang không chịu tuân thủ pháp luật, hoặc đẩy lùi bất kỳ kẻ thù bên ngoài nào lao vào tấn công bầy cừu y như một con sói. Và khi đã dựng xong trại cũng như dâng lễ tế cho các vị thần thích hợp, họ phải lo đến khu vực nghỉ ngơi của mình, đúng không?
+SOCRATES: Chà, dù chỉ làm được thế cũng đã mang lại tác dụng to lớn rồi, vì nó sẽ khiến họ tận tâm hơn với thành phố và với nhau. Tôi hiểu ý anh, rằng mọi chuyện sẽ diễn ra theo quỹ đạo của truyền thống. Dù sao thì, khi ta đã vũ trang cho những "đứa con của đất," ta sẽ dẫn dắt họ đi theo sau những người cai trị. Họ phải đi thám thính và chọn ra vị trí đắc địa nhất trong thành phố để hạ trại lập đồn bốt. Một vị trí giúp họ dễ dàng khống chế bất cứ kẻ nào bên trong thành phố có ý định chống đối luật pháp, và dễ dàng đánh bật kẻ thù bên ngoài khi chúng lao vào cắn xé bầy cừu như những con sói khát máu. Và sau khi lập trại, hiến tế cho các vị thần tương ứng, họ sẽ phải xây dựng khu vực nghỉ ngơi đúng không?
 
 GLAUCON: Vâng.
 
-SOCRATES: Và chẳng phải những nơi này phải cung cấp đủ chỗ trú ẩn chống lại bão táp mùa đông lẫn cái nóng mùa hè sao?
+SOCRATES: Và những khu vực này phải đủ sức chống chọi với bão tố mùa đông và cái nắng chói chang mùa hè?
 
-GLAUCON: Vâng, tất nhiên. Rốt cuộc thì tôi cho rằng anh đang nói về khu sinh hoạt của họ.
+GLAUCON: Đương nhiên rồi. Tôi đoán anh đang nói đến khu nhà ở của họ.
 
-SOCRATES: Đúng thế, nhưng là dành cho những người lính, chứ không phải cho những kẻ kiếm tiền.
+SOCRATES: Đúng vậy, nhưng là nhà cho binh lính, chứ không phải cho bọn con buôn.
 
-(416a) GLAUCON: Anh nghĩ có sự khác biệt gì giữa hai loại này, nói lại xem?
+(416a) GLAUCON: Anh nghĩ hai thứ đó khác nhau chỗ nào?
 
-SOCRATES: Tôi sẽ cố gắng giải thích cho cậu. Cậu thấy đấy, chắc chắn điều tồi tệ nhất và đáng xấu hổ nhất trên đời đối với người chăn cừu là nuôi dưỡng những con chó làm kẻ hỗ trợ bảo vệ bầy đàn, mà những con chó đó—vì sự thiếu *tiết chế*, vì đói khát, hoặc một tình trạng tồi tệ nào khác—lại cố làm hại những con cừu, hành động không giống như chó chăn cừu mà giống như những con sói.
+SOCRATES: Tôi sẽ giải thích. Anh thấy đấy, trên đời này, điều kinh tởm và đáng hổ thẹn nhất là việc người chăn cừu nuôi lũ chó săn để bảo vệ đàn cừu, nhưng bản thân lũ chó đó, vì sự vô độ, vì đói khát hay một thói hư tật xấu nào đó, lại quay ra cắn xé đàn cừu, hành xử y như những con sói thay vì chó bảo vệ.
 
-GLAUCON: Tất nhiên, điều đó thật tồi tệ.
+GLAUCON: Tất nhiên, điều đó cực kỳ tồi tệ.
 
-SOCRATES: Vậy chẳng phải chúng ta phải dùng mọi biện pháp bảo vệ để ngăn cản những người hỗ trợ của chúng ta đối xử với công dân theo cách đó—chỉ vì họ mạnh hơn—và trở thành những ông chủ hoang dã tàn bạo thay vì những đồng minh dịu dàng sao?
+SOCRATES: Vậy nên ta phải dùng mọi biện pháp phòng ngừa để lũ lính dự bị của ta không giở trò đó với công dân, chỉ vì chúng có vũ trang mạnh hơn, để biến thành những tên bạo chúa khát máu thay vì những đồng minh dịu dàng?
 
-GLAUCON: Vâng, chúng ta phải làm thế.
+GLAUCON: Vâng, bắt buộc phải thế.
 
-SOCRATES: Và chẳng phải họ sẽ được trang bị biện pháp bảo vệ tốt nhất nếu họ thực sự được giáo dục tốt sao?
+SOCRATES: Và chẳng phải họ đã được trang bị lớp khiên bảo vệ vững chắc nhất nhờ vào một nền giáo dục tinh hoa sao?
 
-GLAUCON: Nhưng chắc chắn là họ đã được giáo dục tốt rồi.
+GLAUCON: Chắc chắn là họ đã có được nó.
 
-SOCRATES: Đó không phải là thứ xứng đáng để khẳng định một cách tự tin như thế đâu, Glaucon thân mến. Nhưng điều xứng đáng khẳng định là những gì chúng ta vừa nói, rằng họ phải có một nền giáo dục đúng đắn, bất kể nó là gì, nếu họ muốn có được điều đóng góp nhiều nhất trong việc biến họ trở nên dịu dàng với nhau và với những người họ đang bảo vệ.
+SOCRATES: Đừng quá tự tin vội, Glaucon thân mến. Nhưng điều ta có thể tự tin khẳng định là những gì ta vừa bàn: họ phải được giáo dục chuẩn mực, dù hình thức là gì đi nữa, nếu ta muốn họ sở hữu thứ vũ khí tối thượng giúp họ trở nên hiền hòa với nhau và với những người họ đang bảo vệ.
 
 GLAUCON: Đúng vậy.
 
-SOCRATES: Nhưng bất cứ ai có lý trí cũng sẽ nói với chúng ta rằng, ngoài nền giáo dục này, họ phải được cung cấp khu sinh hoạt và tài sản kiểu không làm cản trở việc họ trở thành những người bảo vệ xuất sắc nhất, cũng như không khuyến khích họ làm điều ác với các công dân khác.
+SOCRATES: Nhưng bất cứ ai có lý trí cũng sẽ nói với ta rằng, ngoài nền giáo dục đó, khu nhà ở và tài sản của họ phải được quy định sao cho nó vừa không cản trở họ trở thành những vệ binh xuất sắc, vừa không dung túng cho họ bắt nạt những công dân khác.
 
-GLAUCON: Và ông ta sẽ đúng.
+GLAUCON: Người đó nói rất đúng.
 
-SOCRATES: Thế thì hãy cân nhắc xem liệu họ có nên sống và được cấp nhà ở theo kiểu như thế này hay không, nếu họ định trở thành kiểu người mà chúng ta đã mô tả. Thứ nhất, không ai trong số họ được sở hữu bất kỳ tài sản cá nhân nào nếu không hoàn toàn cần thiết. Thứ hai, không ai được có khu sinh hoạt hay nhà kho mà không mở cửa cho mọi người tự do ra vào. Về phần những nhu yếu phẩm cần thiết cho những người đàn ông dũng cảm và có sự *tiết chế*, những chiến binh-vận động viên, họ sẽ nhận được chúng từ các công dân khác như một khoản lương cho công việc bảo vệ của mình, với số lượng được ấn định sao cho không bị thiếu hụt cũng như không bị dư thừa vào cuối năm. Họ phải đi ăn chung tại các nhà ăn tập thể, và phải sống cùng nhau như những người lính trong doanh trại. Chúng ta sẽ nói với họ rằng họ có thứ vàng và bạc thần thánh trong tâm hồn như một món quà vĩnh cửu từ các vị thần, và không cần đến thứ vàng của con người thêm vào nữa. Và chúng ta sẽ bổ sung rằng sẽ là bất kính nếu họ làm ô uế món tài sản thần thánh này bằng cách kết hợp nó với thứ vàng trần tục, bởi vì đã có vô vàn những việc làm bất kính xảy ra chỉ vì thứ tiền tệ của đám đông, trong khi thứ tiền của họ thì (417a) thuần khiết. Không, chỉ riêng họ trong toàn bộ cư dân thành bang bị luật pháp thần thánh nghiêm cấm đụng vào, hay thậm chí là chạm tay vào vàng và bạc. Họ không được phép ở chung dưới một mái nhà với các kim loại này, không được đeo chúng như trang sức, hay uống bằng cốc vàng cốc bạc. Và bằng cách cư xử như vậy, họ sẽ tự cứu lấy chính mình cũng như cứu lấy thành bang. Nhưng nếu họ tự mình mua sắm đất đai riêng, nhà cửa riêng, và tiền bạc, họ sẽ trở thành những kẻ quản lý hộ gia đình và nông dân thay vì là những người bảo vệ—trở thành những ông chủ thù địch của các công dân khác, thay vì là đồng minh. Họ sẽ dành trọn cuộc đời mình để ghét bỏ và bị ghét bỏ, lập mưu và bị âm mưu lật đổ, và sẽ sợ hãi kẻ thù bên trong nhiều hơn kẻ thù bên ngoài—trên thực tế, lúc đó họ đã lao thẳng đến bờ vực hủy diệt của chính bản thân mình lẫn phần còn lại của thành bang. Vì tất cả những lý do này, hãy tuyên bố rằng đó là cách mà những người bảo vệ phải được cung cấp nhà ở và những thứ còn lại, và hãy thiết lập nó thành một đạo luật. Hay cậu không đồng ý?
+SOCRATES: Vậy hãy xem xét xem liệu họ có nên sống và sinh hoạt theo cách sau đây không, nếu muốn trở thành hình mẫu người mà ta vừa phác thảo. Thứ nhất, không một ai trong số họ được phép sở hữu bất kỳ tài sản riêng nào ngoài những nhu yếu phẩm tối thiểu. Thứ hai, không ai được có nhà ở hay nhà kho đóng kín cửa cấm người khác ra vào tự do. Với tư cách là những chiến binh-vận động viên biết *tiết chế* và dũng cảm, họ sẽ được các công dân khác chu cấp khẩu phần ăn như một khoản lương cho công việc bảo vệ. Khẩu phần này sẽ được tính toán chi li sao cho không thiếu cũng chẳng thừa vào cuối năm. Họ sẽ phải ăn chung ở các nhà ăn tập thể và sống cùng nhau như quân lính trong doanh trại. Ta sẽ tẩy não họ rằng: trong tâm hồn họ đã có sẵn Vàng và Bạc nguyên chất do thần linh ban tặng, nên họ vĩnh viễn không cần đến số vàng trần tục kia nữa. Ta sẽ dọa họ rằng việc để thứ vàng trần tục (417a) ô uế đó dính dáng đến tài sản thần thánh trong tâm hồn họ là một tội ác tày trời, vì thực tế là tiền bạc của đám đông đã gây ra vô số tội ác dơ bẩn, trong khi thứ kim loại trong tâm hồn họ là thuần khiết tuyệt đối. Không, trong toàn bộ dân số, chỉ có tầng lớp của họ là bị luật thần thánh cấm tiệt việc cầm nắm hay thậm chí là chạm vào vàng bạc. Họ không được phép ở chung một mái nhà với hai loại kim loại này, không được dùng chúng làm đồ trang sức, hay uống bằng cốc chén vàng bạc. Chỉ bằng cách sống như vậy, họ mới tự cứu lấy chính mình và cứu cả thành phố. Nếu họ phá rào, tự thâu tóm đất đai, nhà cửa và tiền bạc riêng, họ sẽ lập tức biến thành bọn quản gia và địa chủ thay vì làm vệ binh, biến thành những kẻ độc tài thù địch với chính đồng bào của mình, thay vì là đồng minh bảo vệ. Họ sẽ dành cả phần đời còn lại để thù ghét và bị thù ghét, âm mưu và bị âm mưu, luôn sống trong nỗi sợ hãi kẻ thù trong nhà lớn hơn vạn lần kẻ thù ngoại bang, và cuối cùng, tự xô đẩy cả chính họ lẫn thành phố xuống bờ vực diệt vong. Vì tất cả những lý do này, ta hãy tuyên bố rằng đó chính là cách thức chu cấp nhà ở và sinh hoạt cho các vệ binh, và phải đóng đinh nó thành luật. Anh có đồng ý không?
 
-GLAUCON: Tất nhiên là tôi đồng ý.
+GLAUCON: Hoàn toàn đồng ý.
 
 ***
 
 ### Hiểu Plato trong đoạn này
 
-Mục tiêu tối thượng của Plato trong Quyển 3 là **thiết kế một chương trình giáo dục (Paideia)** nhằm đúc nặn ra những *vệ binh* (guardians) và *nhà cai trị* (rulers) hoàn hảo. Đối với Plato, con người không tự nhiên mà tốt; tâm hồn họ như những khối đất sét, và "văn hóa đại chúng" (thơ ca, âm nhạc, lối sống) chính là đôi bàn tay nhào nặn nên khối đất sét đó. 
+Trong Sách 3, Plato thông qua lời Socrates hoàn thiện mô hình giáo dục dành cho tầng lớp Vệ binh (Guardians) của quốc gia lý tưởng (Kallipolis). Những điểm cốt lõi mà Plato muốn truyền tải bao gồm:
 
-Quyển 3 của Plato là một bản thiết kế vĩ đại về việc **Kỹ thuật hóa tâm hồn con người**. Đối với Plato, tự do không phải là làm bất cứ điều gì mình thích hay nghe/xem bất cứ thứ gì mình muốn. Tự do thực sự chỉ đạt được khi tâm hồn con người có tính *Trật tự* và *Tiết chế* cao độ, vượt lên trên nỗi sợ hãi và dục vọng thấp hèn. Để làm được điều đó, môi trường văn hóa (thơ ca, âm nhạc) và môi trường vật chất (thể dục, lối sống vô sản của người lãnh đạo) phải được thiết kế và kiểm soát một cách khắt khe và hoàn hảo nhất.
-
-#### 1. Thanh lọc Cảm xúc: Cắt đứt Nỗi sợ và Sự yếu đuối (Về Nội dung Thơ ca)
-*   **Vượt qua nỗi sợ cái chết:** Plato cho rằng cội rễ của sự hèn nhát là nỗi sợ hãi thế giới bên kia. Bằng cách cấm miêu tả thế giới ngầm Hades như một nơi tăm tối, đau khổ, ông muốn triệt tiêu nỗi sợ cái chết. Một người lính tự do phải là người thà chết chứ không chịu sống kiếp nô lệ.
-*   **Triệt tiêu sự ủy mị và mất kiểm soát:** Plato cấm hình ảnh thần thánh hay anh hùng gào khóc thảm thiết khi mất người thân, hoặc cười nghiêng ngả vô độ. Tiếng khóc hay tiếng cười bạo liệt đều là dấu hiệu của việc *lý trí* (reason) bị cảm xúc đánh bại. Một "người tốt" phải có khả năng tự túc về mặt cảm xúc, bình thản trước mọi tai ương.
-*   **Giáo dục tính *Tiết chế* (Temperance):** Các anh hùng không được phép hám tiền, hám ăn uống hay bị nhục dục điều khiển (như Achilles hay Zeus trong sử thi). Nếu thần thánh bị phác họa là đầy dục vọng, con người sẽ lấy đó làm cái cớ để dung túng cho sự tha hóa của chính mình.
-
-#### 2. Quyền lực Tâm lý của Nghệ thuật: Sự nguy hiểm của "Mô phỏng" (Về Hình thức Thơ ca & Âm nhạc)
-*   **Bản chất của việc *Mô phỏng* (Mimesis):** Plato đưa ra một nhận định đi trước thời đại về tâm lý học hành vi: **Chúng ta sẽ trở thành thứ mà chúng ta diễn.** Nếu một vệ binh đóng vai (hoặc bắt chước) kẻ say xỉn, phụ nữ than khóc, hay kẻ điên... những khuôn mẫu hạ đẳng đó sẽ dần ăn sâu vào hệ thần kinh, giọng nói và thói quen của họ. Do đó, ông chỉ cho phép nghệ thuật *tự thuật* (người kể chuyện dùng giọng của chính mình), hoặc chỉ được mô phỏng những bậc vĩ nhân.
-*   **Trục xuất Thi sĩ:** Nghệ thuật càng hay, càng bùi tai, thì càng nguy hiểm cho lý trí. Một nghệ sĩ "đa hình vạn trạng" (hóa thân được muôn mặt) vi phạm nguyên tắc lõi của thành bang: "Mỗi người chỉ làm một việc". Do đó, Plato chọn cách tôn vinh nhà thơ tài ba bằng vòng hoa, nhưng... đuổi ông ta ra khỏi biên giới, chỉ giữ lại những người kể chuyện khô khan nhưng truyền tải đúng đạo đức.
-*   **Thanh lọc Âm nhạc:** Âm nhạc đi thẳng vào phần sâu thẳm nhất của tâm hồn. Plato cấm các giai điệu ỉ ôi, sầu thảm hoặc lả lướt dùng cho tiệc tùng. Ông chỉ giữ lại hai âm điệu: một cho chiến tranh (sự dũng cảm, khắc kỷ) và một cho thời bình (sự tự nguyện, ôn hòa). Nhạc cụ phức tạp như sáo (flute) bị cấm, chỉ giữ lại đàn lyre đơn giản. **Cái đẹp của sự đơn giản sẽ sinh ra sự trật tự trong tâm hồn.**
-
-#### 3. Sự Hài hòa giữa Cơ thể và Tâm trí: Thể dục và Y tế học
-*   **Thể dục không phải để luyện cơ bắp, mà để luyện *Khí phách* (Spirit):** Khác với quan niệm thông thường, Plato cho rằng tập luyện thể chất cực khổ không phải vì lợi ích của thân thể, mà để đánh thức lòng can đảm và sự cứng cỏi của tâm hồn. 
-*   **Sự nguy hiểm của sự cực đoan:** Nếu chỉ tập thể dục mà bỏ bê âm nhạc/triết học, con người sẽ thành kẻ dã man, bạo lực. Nếu chỉ đắm chìm trong âm nhạc mà bỏ bê thể chất, con người sẽ trở nên mềm yếu, ủy mị. Một tâm hồn hoàn thiện phải là sự căn chỉnh hài hòa giữa hai yếu tố này.
-*   **Y tế và Tư pháp như những công cụ thực dụng:** Trong thành bang của Plato, bác sĩ không có nhiệm vụ kéo dài sự sống lắt lay cho những kẻ bệnh tật nan y hay những kẻ tự hủy hoại sức khỏe do thói ăn uống vô độ. Cuộc sống chỉ có giá trị khi con người đóng góp được công việc của mình cho xã hội. Thêm vào đó, ông định nghĩa một quan tòa giỏi phải là người có tâm hồn thuần khiết, học về cái ác qua quan sát thay vì tự mình trải nghiệm nó.
-
-#### 4. Lời nói dối Cao thượng (The Noble Lie) và Nền tảng Thể chế
-*   **Nói dối như một phương thuốc:** Lời nói dối là thứ cấm kỵ với người dân, nhưng lại là công cụ chính trị (phương thuốc) hợp pháp trong tay nhà cai trị thông thái, dùng để bảo vệ cấu trúc xã hội.
-*   **Thần thoại về Kim loại (Myth of the Metals):** Để khiến các tầng lớp chấp nhận vị trí của mình mà không tị nạnh, Plato sáng tạo ra một thần thoại: Mọi công dân đều là anh em sinh ra từ lòng đất (tạo sự đoàn kết). Nhưng thần linh đã pha Vàng vào linh hồn nhà cai trị, Bạc vào vệ binh, và Đồng/Sắt vào thợ thủ công. 
-*   **Tâm thế vô sản của người bảo vệ:** Để những con "chó chăn cừu" (vệ binh) có mang kim loại Vàng trong tâm hồn không cắn lại "đàn cừu" (người dân), Plato tước bỏ hoàn toàn tài sản tư hữu của họ. Họ không có nhà riêng, ăn ở chung trại, không được chạm vào vàng bạc ngoài đời thực. Quyền lực chính trị và sự giàu có vật chất tuyệt đối không được đi chung với nhau.
-
----
+1. **Kiểm duyệt Nghệ thuật và Thuyết Mô phỏng (Mimesis):** Plato nhìn nhận thi ca và nghệ thuật không phải để giải trí, mà là công cụ nhào nặn tâm hồn. Ông cấm các thi sĩ dùng hình thức "mô phỏng" (nhập vai) để kể về những thói hư tật xấu, yếu đuối, hay bất công. Triết lý sâu xa ở đây là sự đồng hóa tâm lý: *Ta trở thành những gì ta mô phỏng và tiêu thụ*. Nếu thanh niên liên tục nhập vai hay nghe/xem những nhân vật hèn kém, mất tự chủ, họ sẽ dần biến thành những kẻ như vậy. Do đó, nghệ thuật ở quốc gia lý tưởng phải tuân thủ nghiêm ngặt tính *tiết chế* và chỉ được ngợi ca cái thiện, lòng dũng cảm.
+2. **Sự hòa hợp giữa Thể chất và Âm nhạc (Tâm hồn):** Plato bẻ gãy quan niệm truyền thống cho rằng thể dục cho cơ thể, âm nhạc cho tâm hồn. Ông lập luận rằng cả hai đều phục vụ tâm hồn. Thể chất đánh thức *Khí phách* (sự cứng rắn, dũng cảm), còn âm nhạc rèn giũa *Lý trí* (sự mềm mại, triết lý, trật tự). Một người thiếu âm nhạc sẽ thành dã thú; thiếu thể chất sẽ ẻo lả. Vệ binh hoàn hảo là sự hòa âm tuyệt đối của hai yếu tố này.
+3. **Y học và Pháp lý phục vụ cho sự sinh tồn của Nhà nước:** Plato có cái nhìn cực đoan nhưng nhất quán: bác sĩ không chữa những kẻ mang sẵn mầm bệnh nan y hoại diệt trong bản tính, và quan tòa không cứu những kẻ có tâm hồn độc ác bẩm sinh. Cuộc sống chỉ có giá trị khi con người đóng góp được chức năng của mình cho xã hội. Ông lên án lối sống xa hoa (sinh ra bệnh tật và kiện cáo), đòi hỏi công dân phải tự quản trị bản thân (sống tối giản).
+4. **Lời nói dối Cao cả (The Noble Lie) và Mô hình Cộng sản sơ khai:** Đây là đỉnh điểm về chính trị của Sách 3. Để củng cố trật tự giai cấp (Vàng, Bạc, Đồng/Sắt), Plato đề xuất một "huyền thoại lập quốc" nhằm tẩy não công dân tin rằng đẳng cấp của họ là do tự nhiên/thần thánh an bài, giúp xã hội không bị đấu tranh giai cấp. Đặc biệt nhất, để chống lại nạn tham nhũng, Plato triệt tiêu hoàn toàn quyền sở hữu tài sản tư nhân, nhà ở kín, và việc sử dụng tiền vàng/bạc đối với tầng lớp cai trị. Họ sống cuộc đời cộng sản tuyệt đối. Ông nhận thức rõ: *quyền lực chính trị cộng với tài sản tư nhân sẽ tất yếu sinh ra bạo chúa*.
 
 ### Từ khóa/thuật ngữ
 
-| English/ Hy Lạp | Vietnamese | Giải nghĩa theo bối cảnh |
+| Tiếng Anh / Hy Lạp | Tiếng Việt | Ghi chú / Trục ý nghĩa |
 | :--- | :--- | :--- |
-| **Justice / Dikaiosynē (δικαιοσύνη)** | *điều đúng* / *tính đúng đắn* | Tình trạng trật tự hài hòa trong tâm hồn và xã hội, nơi mỗi bộ phận làm đúng chức năng của mình. Không chỉ là "công lý" pháp luật, mà là tính đạo đức cốt lõi. |
-| **The Just Man / Dikaios (δίκαιος)** | *sống đúng* | Ám chỉ một cá nhân hành xử dựa trên *Lý trí*, tuân thủ *điều đúng*, tự chủ và không bị cám dỗ bởi *bản năng*. |
-| **Unjust** | *điều sai* / *sống sai* | Trạng thái bất công, phá vỡ trật tự; kẻ để cho dục vọng hoặc thói kiêu ngạo lấn át *lý trí*. |
-| **Temperance / Sōphrosynē** | *tiết chế* | Khả năng tự chủ, kiểm soát sự thúc đẩy của *bản năng* (appetite) như ăn uống, tình dục và sự vâng lời chính đáng đối với nhà cai trị. |
-| **Appetite / Epithumetikon** | *bản năng* | Phần thấp nhất của tâm hồn con người (the tripartite soul), chịu trách nhiệm cho các ham muốn thể xác, tiền tài. |
-| **Virtue / Arete (ἀρετή)** | *Sự hoàn thiện* | Trạng thái ưu việt, phẩm hạnh hoặc sự xuất sắc của một cá nhân khi họ phát huy tối đa tiềm năng đạo đức của mình (Dũng cảm, Tiết chế, Khí phách). |
-| **Verbal lie** | nói dối ngôn từ | Dạng nói dối được Plato coi như một "phương thuốc" hữu ích nếu được dùng bởi đúng người (ruler) vì lợi ích chung, khác với sự dối trá ăn sâu vào tâm hồn (nói dối thực sự). |
+| **Justice / Dikaiosynē (δικαιοσύνη)** | *Điều đúng* / *Sống đúng* | Không chỉ là công lý theo nghĩa pháp luật, mà là trạng thái trật tự nội tại nơi mọi thành tố (trong tâm hồn hay thành phố) làm đúng chức năng của mình, không xâm phạm nhau. |
+| **Temperance / Sōphrosynē (σωφροσύνη)** | *Tiết chế* | Khả năng tự chủ, làm chủ các ham muốn bản năng (ăn, uống, tình dục) và vâng lời sự dẫn dắt của tầng lớp/bản tính cao hơn (lý trí/người cai trị). |
+| **Imitation / Mimesis (μίμησις)** | Mô phỏng | Trong nghệ thuật, nó là việc hóa thân, nhập vai, bắt chước hành vi/lời nói của người khác. Plato coi mimesis là con dao hai lưỡi có khả năng định hình nhân cách vĩnh viễn. |
+| **Spirit / Thymos (θυμός)** | *Khí phách* | Phần tâm hồn nằm giữa lý trí và bản năng. Nó đại diện cho lòng tự trọng, sự giận dữ chính đáng, sự khao khát vinh quang, và là động lực của lòng dũng cảm. |
+| **Reason / Logistikon (λογιστικόν)** | *Lý trí* | Phần tư duy, khao khát chân lý và tri thức của tâm hồn. Đây là năng lực cai trị tối cao giúp con người có tính triết học và sự điềm đạm. |
+| **Appetite / Epithumetikon (ἐπιθυμητικόν)** | *Bản năng* | Phần tâm hồn chứa đựng những ham muốn xác thịt và vật chất (ăn uống, sinh lý, tiền bạc). Plato yêu cầu phần này phải bị lý trí và khí phách quản chế. |
+| **Virtue / Arete (ἀρετή)** | *Sự hoàn thiện* | Sự đạt đến phẩm chất xuất sắc nhất của một sự vật/con người (dũng cảm, tiết chế, trí tuệ...). |
+| **Musical training / Mousikē** | Giáo dục âm nhạc | Bao gồm không chỉ âm nhạc (nhạc cụ, giai điệu) mà là toàn bộ nghệ thuật, thơ ca, văn chương, khiêu vũ phục vụ cho việc nhào nặn Tâm hồn. |
+| **Noble Lie / Gennaion pseudos** | Lời nói dối cao cả | Lời nói dối được tạo ra có chủ đích (như huyền thoại Vàng/Bạc/Đồng) bởi giới cai trị nhằm duy trì sự gắn kết và ổn định của thành phố. |

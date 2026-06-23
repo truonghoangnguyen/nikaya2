@@ -1,6 +1,7 @@
 # *Book 4*
 
 SOCRATES’ NARRATION CONTINUES: Adeimantus interrupted:
+
 (419a) How will you defend yourself, Socrates, he said, if someone objects that
 you are not making these men very happy and, furthermore, that it is their
 own fault that they are not? I mean, the city really belongs to them, yet
@@ -61,8 +62,8 @@ to be, you may be sure that they will destroy the city utterly and, on the
 other hand, that they alone have the opportunity to govern it well and
 make it happy.”
 
-Now, if we are making genuine guardians, the sort least likely to do the
-(a) (b) city evil, and if our critic is making pseudo-farmers—feasters happy at
+(b) Now, if we are making genuine guardians, the sort least likely to do the
+city evil, and if our critic is making pseudo-farmers—feasters happy at a
 festival, so to speak, not in a city—he is not talking about a city, but about
 something else. What we have to consider, then, is whether our aim in
 establishing the guardians is the greatest possible happiness for them, or
@@ -155,6 +156,7 @@ two or three times their number.
 
 ADEIMANTUS: I will have to grant you that, since I think what you say is
 right.
+
 (d) SOCRATES: Well, then, what if they sent an envoy to another city with the
 following true message: “We use no gold or silver. It is against divine law
 for us to do so, but not for you. So join us in this war and you can have the
@@ -213,8 +215,8 @@ ADEIMANTUS: Oh, yes, that is a more minor one!
 SOCRATES: Really, my good Adeimantus, the orders we are giving them
 are neither as numerous nor as difﬁcult as one would think. Indeed, they
 are all insigniﬁcant provided, as the saying goes, they safeguard the one
-great thing—or rather not great but adequate.[6]
-(e)
+great thing—or rather not great but adequate.[6](e)
+
 ADEIMANTUS: What’s that?
 
 (424a) SOCRATES: Their education and upbringing. For if a good education
@@ -233,22 +235,22 @@ every respect—but particularly with respect to their offspring, as in the case
 
 ADEIMANTUS: Yes, probably so.
 
-SOCRATES: To put it brieﬂy, then, what the overseers of our city must
+(c) SOCRATES: To put it brieﬂy, then, what the overseers of our city must
 cling to, not allow to become corrupted without their noticing it, and
 guard against everything, is this: there must be no innovation in musical or
 physical training that goes against the established order. On the contrary,
 they must guard against that as much as they can. And they should dread to
 hear anyone say that “people think most of the song that ﬂoats newest from
 the singer’s lips,”[7] in case someone happens to suppose that the poet means
-
-(c) not new songs, but a new way of singing, and praises that. We should not
-praise such a claim, however, or take it to be what the poet meant.You see,
-(a) change to a new kind of musical training is something to beware of as
+not new songs, but a new way of singing, and praises that. We should not
+praise such a claim, however, or take it to be what the poet meant. You see,
+a change to a new kind of musical training is something to beware of as
 wholly dangerous. For one can never change the ways of training people in
 music without affecting the greatest political laws. That is what Damon
-says, and I am convinced he is right.
+says, and I am convinced he is right. 
 
 ADEIMANTUS: You can also count me among those who are convinced.
+
 (d) SOCRATES: It seems, then, that it is in musical training that the guardhouse
 of our guardians must surely be built.
 
@@ -333,6 +335,7 @@ SOCRATES: You mean they will live like those sick people who, because
 they are intemperate, are not willing to abandon their bad way of life.
 
 ADEIMANTUS: That’s right.
+
 (426a) SOCRATES: Such people really do lead a charming life! Their medical
 treatment achieves nothing, except to make their illnesses worse and more
 complex, and they are always hoping that someone will recommend some
@@ -382,10 +385,10 @@ ADEIMANTUS: No, I do not think that.
 
 SOCRATES: Then do not be too hard on them.You see, such people are
 surely the most charming of all.They pass and amend the sorts of laws we
-(a) have just been describing, and are always expecting that they will ﬁnd
+have just been describing, and are always expecting that they will ﬁnd a
 way to put a stop to cheating on contracts, and the other evildoings I
-(a) mentioned just now, not realizing that they are really just cutting off
-Hydra’s head.[9]
+mentioned just now, not realizing that they are really just cutting off
+a Hydra’s head.[9]
 
 (427a) ADEIMANTUS: Yet that is all they are really doing.
 
@@ -740,9 +743,11 @@ GLAUCON: I will.You have only to lead.
 SOCRATES: And it truly seems to be an impenetrable place and full of
 shadows. It is dark, at any rate, and difﬁcult to search through. But all the
 same, we must go on.
+
 (d) GLAUCON: Yes, we must.
 
 > *And then I caught sight of something and shouted:*
+
 SOCRATES: Ah ha![17] Glaucon, it looks as though there is a track here, and
 I do not think our quarry will altogether escape us.
 
@@ -790,7 +795,8 @@ SOCRATES: After our consideration of temperance, courage, and wisdom,
 I think that what remains in the city is the power that makes it possible for
 all of these to arise in it, and that preserves them when they have arisen for
 (c) as long as it remains there itself. And we did say that justice would be what
-remained when we had found the other three.18
+remained when we had found the other three.[18]
+
 GLAUCON: Yes, that must be so.
 
 SOCRATES: Yet, surely, if we had to decide which of these will most contribute to making our city good by being present in it, it would be difﬁcult
@@ -802,7 +808,6 @@ that every child, woman, slave, free person, craftsman, ruler, and subject
 each does his own work and does not meddle with what is not?
 
 GLAUCON: Of course it’s a difﬁcult decision.
-[18]: 428a2–9.
 
 SOCRATES: It seems, then, that this power—which consists in everyone’s
 doing his own work—rivals wisdom, temperance, and courage in its contribution to the city’s virtue.
@@ -873,7 +878,7 @@ as well, then we can assent to it. For what else will there be for us to say?
 But if it is not, we will have to look for something else. For the moment,
 however, let’s complete the inquiry in which we supposed that if we ﬁrst
 tried to observe justice in some larger thing that possessed it, that would
-make it easier to see what it is like in an individual human being.19 We
+make it easier to see what it is like in an individual human being.[19] We
 (e) agreed that this larger thing is a city, and so we founded the best city we
 could, knowing well that justice would of course be present in one that was
 good. So, let’s apply what has come to light for us there to an individual,
@@ -902,7 +907,6 @@ each of the three natural classes within it did its own job; and to be temperate
 or states of these same classes.
 
 GLAUCON: That’s true.
-[19]: 368c7–369a3.
 
 SOCRATES: Then, my friend, we would expect an individual to have these
 same kinds of things in his soul, and to be correctly called by the same
@@ -910,7 +914,7 @@ same kinds of things in his soul, and to be correctly called by the same
 
 GLAUCON: Inevitably.
 
-SOCRATES: Well, you amazing fellow, here is another trivial investigation20
+SOCRATES: Well, you amazing fellow, here is another trivial investigation[20]
 we have stumbled into: does the soul have these three kinds of things in it
 or not?
 
@@ -920,7 +924,7 @@ some truth in the old saying that everything beautiful is difﬁcult.
 SOCRATES: Apparently so. In fact, you should be well aware, Glaucon,
 that it is my belief we will never ever grasp this matter precisely by methods
 (d) of the sort we are now using in our discussions. However, there is in fact
-another longer and more time-consuming road that does lead there.21 But
+another longer and more time-consuming road that does lead there.[21] But
 perhaps we can manage to come up to the standard of our previous statements and inquiries.
 
 GLAUCON: Shouldn’t we be content with that? It would be enough for
@@ -947,13 +951,9 @@ SOCRATES: But this, now, is difﬁcult. Do we do each of them with the
 same thing or, since there are three, do we do one with one and another
 with another: that is to say, do we learn with one, feel anger with another,
 and with yet a third have an appetite for the pleasures of food, sex, and
-[20]: See 423c5–e2.
-
-[21]: See 504b1–c4 for an explanation.
-
 those closely akin to them? Or do we do each of them with the whole of
 (b) our soul, once we feel the impulse? That is what is difﬁcult to determine in
-(a) way that is up to the standards of our argument.
+a way that is up to the standards of our argument.
 
 GLAUCON: I think so, too.
 
@@ -987,7 +987,7 @@ but rather that in one respect the person is standing still, while in another
 GLAUCON: It is.
 
 SOCRATES: Then, if the one who said this became still more charming and
-(a) made the sophisticated point that spinning tops, at any rate, stand still as
+made the sophisticated point that spinning tops, at any rate, stand still as a
 whole at the same time as they are also in motion, when, with the peg
 ﬁxed in the same place, they revolve, or that the same holds of anything else
 that moves in a circle on the same spot—we would not agree, on the
@@ -1105,7 +1105,6 @@ GLAUCON: Yes, indeed.
 SOCRATES: What about the various kinds of knowledge? Aren’t they the
 same way? Knowledge itself is of what can be learned itself (or of whatever
 we should take the object of knowledge to be), whereas a particular knowledge of a particular sort is of a particular thing of a particular sort. I mean
-
 something like this: when knowledge of building houses was developed, it
 (d) differed from the other kinds of knowledge, and so was called knowledge of
 building. Isn’t that so?
@@ -1131,7 +1130,7 @@ things of a particular sort.And I do not at all mean that the sorts in question
 (e) have to be the same for them both—that the knowledge of health and disease is healthy and diseased, or that that of good and bad things is good and
 bad. On the contrary, I mean that when knowledge occurred that was not
 just knowledge of the thing itself that knowledge is of, but of something of
-(a) particular sort, which in this case was health and disease, the result was
+a particular sort, which in this case was health and disease, the result was
 that it itself became a particular sort of knowledge; and this caused it to be
 no longer called simply knowledge but, with the addition of the particular
 sort, medical knowledge.
@@ -1145,7 +1144,6 @@ thirst is related to. . . .
 GLAUCON: I would. It is related to drink.
 
 SOCRATES: So a particular sort of thirst is for a particular sort of drink.
-
 Thirst itself, however, is not for much or little, good or bad, or, in a word,
 for drink of a particular sort; rather, thirst itself is, by nature, just for drink
 itself. Right?
@@ -1170,6 +1168,7 @@ that his hands at the same time push the bow away and draw it toward him.
 
 On the contrary, we should say that one hand pushes it away, while the
 other draws it toward him.
+
 (c) GLAUCON: Absolutely.
 
 SOCRATES: Now, we would say, wouldn’t we, that some people are thirsty
@@ -1196,8 +1195,7 @@ one with which it feels passion, hungers, thirsts, and is stirred by other
 appetites, the irrational and appetitive element, friend to certain ways of
 being ﬁlled and certain pleasures.
 
-GLAUCON: No, it would not. Indeed, it would be a very natural thing for
-(e) us to do.
+(e) GLAUCON: No, it would not. Indeed, it would be a very natural thing for us to do.
 
 SOCRATES: Let’s assume, then, that we have distinguished these two kinds
 of elements in the soul. Now, is the spirited element—the one with which
@@ -1213,7 +1211,8 @@ appetitive desire to look at them, but at the same time he was disgusted and
 turned himself away. For a while he struggled and put his hand over his eyes,
 (440a) but ﬁnally, mastered by his appetite, he opened his eyes wide and rushed
 toward the corpses, saying: “Look for yourselves, you evil wretches; take
-your ﬁll of the beautiful sight.”22
+your ﬁll of the beautiful sight.”[22]
+
 GLAUCON: I have also heard that story myself.
 
 SOCRATES: Yet, surely, the story suggests that anger sometimes makes war
@@ -1251,11 +1250,8 @@ in our city to be like obedient sheepdogs for the city’s shepherdlike rulers.
 
 SOCRATES: You have understood what I was trying to say very well. But
 have you also noticed something else about it?
-(e) GLAUCON: What?
 
-[22]: A fragment of the comedy Kapêlides by Theopompus (410–370 BCE) tells us that
-(a) certain Leontinus (emended to Leontius because of Plato’s reference here) was
-known for his love of boys as pale as corpses. So his desire is probably sexual in origin, and for that reason appetitive.The North and South Walls enclosed an area connecting Athens to Piraeus.
+(e) GLAUCON: What?
 
 SOCRATES: That it is the opposite of what we recently thought about the
 kind of thing spirit is.You see, then we thought of it as something appetitive.[23] But now, far from saying that, we say that in the faction that takes
@@ -1265,7 +1261,6 @@ GLAUCON: Absolutely.
 
 SOCRATES: Is it also different from this, then, or is it some kind of rationally calculating element, so that there are not three kinds of things in the
 soul, but two—the rationally calculating element and the appetitive one?
-
 (441a) Or rather, just as there were three classes in the city that held it together the moneymaking, the auxiliary, and the deliberative—is there also this
 third element in the soul, the spirited kind, which is the natural auxiliary of
 the rationally calculating element, if it has not been corrupted by bad
@@ -1284,7 +1279,7 @@ calculation, some of them seem to me never to possess it, while the masses
 
 SOCRATES: Yes, by Zeus, you put that really well. Besides, one can see in
 animals that what you say is true. But, in addition to that, our earlier quotation from Homer also bears it out: “He struck his chest and spoke to his
-heart.”24 You see, in it Homer clearly presents what has calculated about
+heart.”[24] You see, in it Homer clearly presents what has calculated about
 (c) better and worse, rebuking what is irrationally angry as though it were
 something different.
 
@@ -1300,9 +1295,6 @@ SOCRATES: Then doesn’t it already necessarily follow that the private individu
 city?
 
 GLAUCON: Of course.
-[23]: 439e5.
-
-[24]: Odyssey 20.17. See 390d.
 
 SOCRATES: And that the city is courageous in the same way and because
 (d) of the same element as is the private individual? And that in everything else
@@ -1356,9 +1348,8 @@ GLAUCON: Yes, they would.
 
 SOCRATES: I imagine, then, that we call each individual courageous
 because of the latter part—that is, when the part of him that is spirited in
-kind preserves through pains and pleasures the pronouncements of reason25
-(c)
-about what should inspire terror and what should not.
+kind preserves through pains and pleasures the pronouncements of reason[25]
+(c) about what should inspire terror and what should not.
 
 GLAUCON: That’s right.
 
@@ -1385,29 +1376,23 @@ look like anything other than the very thing we found in the city?
 
 GLAUCON: It doesn’t seem so to me, at least.
 
-SOCRATES: We could make perfectly sure, if there is still anything in our
-(e) souls that disputes this, by applying everyday tests to it.
+SOCRATES: We could make perfectly sure, if there is still anything in our souls that disputes this, by applying everyday tests to it. (e) 
 
 GLAUCON: Which ones?
 
-SOCRATES: For example, if we had to come to an agreement about
+(443a) SOCRATES: For example, if we had to come to an agreement about
 whether a man similar in nature and training to this city of ours had embezzled gold or silver he had accepted for deposit, who do you think would
-consider him more likely to have done so rather than men of a different
-(443a) sort?
+consider him more likely to have done so rather than men of a different sort?
 
 GLAUCON: No one.
 
-SOCRATES: And would he have anything to do with temple robberies,26
+SOCRATES: And would he have anything to do with temple robberies,[26]
 thefts, or betrayals of friends in private life or of cities in public life?
 
 GLAUCON: No, nothing.
 
 SOCRATES: And he would be in no way untrustworthy when it came to
 promises or other agreements.
-
-[25]: Reading toË lÒgou with Adam.
-
-[26]: See 344b3 note.
 
 GLAUCON: How could he be?
 
@@ -1430,8 +1415,8 @@ GLAUCON: No, by Zeus, I am not.
 SOCRATES: The dream we had has been completely fulﬁlled, then—I
 mean the suspicion we expressed that right from the beginning, when we
 were founding the city, we had, with the help of some god, chanced to hit
-upon the origin and pattern of justice.27
-(c)
+upon the origin and pattern of justice.[27] (c)
+
 GLAUCON: Absolutely.
 
 SOCRATES: So, Glaucon, it really was—which is why it was so helpful—a
@@ -1452,13 +1437,7 @@ others that may be in between. He binds together all of these and, from
 (e) having been many, becomes entirely one, temperate and harmonious.Then
 and only then should he turn to action, whether it is to do something concerning the acquisition of wealth or concerning the care of his body, or
 even something political, or concerning private contracts. In all these areas,
-he considers and calls just and ﬁne the action that preserves this inner harmony and helps achieve it,[28] and wisdom the knowledge that oversees such
-
-[27]: 432d2–433b4.
-
-[28]: Cf. 338e1–339a4.
-
-action; and he considers and calls unjust any action that destroys this harmony, and ignorance the belief that oversees it.[29]
+he considers and calls just and ﬁne the action that preserves this inner harmony and helps achieve it,[28] and wisdom the knowledge that oversees such action; and he considers and calls unjust any action that destroys this harmony, and ignorance the belief that oversees it.[29]
 
 (444a) GLAUCON: That’s absolutely true, Socrates.
 
@@ -1475,15 +1454,16 @@ GLAUCON: Yes, let’s.
 SOCRATES: So be it, then. I take it we must look for injustice next.
 
 GLAUCON: Clearly.
-(b) SOCRATES: Mustn’t it, in turn, be a kind of faction among those three—
-(a) their meddling and interfering with one another’s jobs; the rebellion of
-part of the soul against the whole in order to rule in it inappropriately, since
-its nature suits it to be a slave of the ruling class.30 We will say something
 
+(b) SOCRATES: Mustn’t it, in turn, be a kind of faction among those three 
+their meddling and interfering with one another’s jobs; the rebellion of a
+part of the soul against the whole in order to rule in it inappropriately, since
+its nature suits it to be a slave of the ruling class.[30] We will say something
 like that, I imagine, and that their disorder and wandering is injustice,
 licentiousness, cowardice, ignorance, and, in a word, the whole of vice.
 
 GLAUCON: That is precisely what they are.
+
 (c) SOCRATES: Doing unjust actions, then, and being unjust; and, the opposite, doing just ones—they all surely become clear at once, don’t they, provided that both injustice and justice are also clear?
 
 GLAUCON: What do you mean?
@@ -1506,11 +1486,6 @@ SOCRATES: But to produce health is to put the elements that are in the
 body in their natural relations of mastering and being mastered by one
 another; while to produce disease is to establish a relation of ruling and
 being ruled by one another that is contrary to nature.
-
-[29]: The difference between knowledge (epistêmê) and belief (doxa) is explored at
-475d1–480a13.
-
-[30]: Reading douleÊein t“ toË érxikoË g°nouw with Adam.
 
 GLAUCON: That’s right.
 
@@ -1543,10 +1518,10 @@ money in the world, and every political ofﬁce imaginable. So how—even if
 (b) one could do whatever one wished, except what would liberate one from
 vice and injustice and make one acquire justice and virtue—could it be
 worth living when the natural constitution of the very thing by which we
-live31 is ruined and in turmoil?
+live[31] is ruined and in turmoil?
 
 SOCRATES: Yes, it is ridiculous. All the same, since in fact we have reached
-(a) point from which we can see with the utmost clarity, as it were, that these
+a point from which we can see with the utmost clarity, as it were, that these
 things are so, we must not give up.
 
 GLAUCON: That’s absolutely the last thing we should do.
@@ -1554,14 +1529,11 @@ GLAUCON: That’s absolutely the last thing we should do.
 SOCRATES: Come up here, then, so that you can see how many kinds of
 (c) vice there are—the ones, at any rate, that are worth seeing.
 
-GLAUCON: I am following. Just tell me.32
+GLAUCON: I am following. Just tell me.[32]
+
 SOCRATES: Well, from the vantage point, so to speak, that we have reached
 in our argument, it seems to me that there is one kind of virtue and an
 unlimited number of kinds of vice, four of which are worth mentioning.
-
-[31]: I.e., the soul. See 353d9–10.
-
-[32]: See 432c3–4.
 
 GLAUCON: What do you mean?
 
