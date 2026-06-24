@@ -1,11 +1,11 @@
-# MN 1. KINH NGUỒN GỐC CỦA BẢN NGÃ
+# MN 1. KINH NGUỒN GỐC CỦA MỌI ĐIỀU
 *(Mūlapariyāyasutta)*
 
 Tôi nghe như vầy — một thời Thế Tôn trú tại Ukkaṭṭhā, trong khu rừng Subhaga, dưới gốc cây vương thọ sāla. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo".
 
 "Thưa vâng, bạch Thế Tôn", những tỳ kheo ấy đáp lời Thế Tôn. Thế Tôn nói điều này:
 
-"Này các tỳ kheo, Ta sẽ giảng cho các vị về *trình tự gốc rễ* (pháp môn căn bản / mūlapariyāya) của mọi *Điều* (pháp / dhamma). Hãy lắng nghe điều đó, hãy chú ý kỹ lưỡng, Ta sẽ nói."
+"Này các tỳ kheo, Ta sẽ giảng cho các vị về *nguồn gốc* (pháp môn căn bản / mūlapariyāya) của mọi *Điều* (pháp / dhamma). Hãy lắng nghe điều đó, hãy chú ý kỹ lưỡng, Ta sẽ nói."
 
 "Thưa vâng, bạch Thế Tôn", những tỳ kheo ấy đáp lời Thế Tôn. Thế Tôn nói điều này:
 <!--pg-->
@@ -100,7 +100,9 @@ Kết thúc phần phân định cấp độ phương pháp thứ bảy đối v
 
 Này các tỳ kheo, *Người Đến Như Vậy*, bậc A-la-hán, Bậc Giác Ngộ Hoàn Toàn, cũng *hiểu toàn bộ* về đất; sau khi *hiểu toàn bộ* về đất, Ngài không *suy diễn* [mình là] Đất, không *suy diễn* [mình ở] trong Đất, không *suy diễn* [mình tách rời] khỏi Đất, không *suy diễn* [rằng] Đất là của mình, không *vui thú chạy theo* Đất. Nguyên nhân của điều đó là gì? Vì biết rõ rằng: 'Sự vui thú là gốc rễ của *đau khổ* (khổ / dukkha)', và 'từ *sự lực tồn tại* (hữu / bhava) có *sự Tái sinh* (sinh / jāti), đối với sinh vật đã sinh ra thì có *già-chết* (lão-tử / jarāmaraṇa)'. Do vậy, này các tỳ kheo, Ta nói rằng: '*Người Đến Như Vậy*, nhờ sự *cạn kiệt*, *cạn hết đắm nhiễm* (ly tham / virāgā), *hết sạch* (diệt / nirodhā), *cho đi* (xả ly / cāgā), *hoàn toàn từ bỏ* (xả / paṭinissaggā) đối với mọi *mong muốn* (tham ái / taṇhā) một cách trọn vẹn, đã giác ngộ vô thượng Chánh Đẳng Giác'.
 
-nước [...lặp lại...] lửa ... gió ... sinh vật ... chư thiên ... chúa tể các loài ... Phạm thiên ... cõi Quang Âm thiên ... cõi Biến Tịnh thiên ... cõi Quảng Quả thiên ... Đấng Chiến Thắng ... *cõi Không Gian là Vô Tận* ... *cõi 'Cái Biết' là Vô Tận* ... *cõi Không Có Vật Gì* ... *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* ... cái được thấy ... cái được nghe ... cái được cảm nhận ... cái được nhận biết ... sự đồng nhất ... sự khác biệt ... tất cả ... Ngài *hiểu toàn bộ* Niết-bàn là Niết-bàn; sau khi *hiểu toàn bộ* Niết-bàn là Niết-bàn, Ngài không *suy diễn* [mình là] Niết-bàn, không *suy diễn* [mình ở] trong Niết-bàn, không *suy diễn* [mình tách rời] khỏi Niết-bàn, không *suy diễn* [rằng] Niết-bàn là của mình, không *vui thú chạy theo* Niết-bàn. Nguyên nhân của điều đó là gì? Vì biết rõ rằng: 'Sự vui thú là gốc rễ của *đau khổ*', và 'từ *sự lực tồn tại* có *sự Tái sinh*, đối với sinh vật đã sinh ra thì có *già-chết*'. Do vậy, này các tỳ kheo, Ta nói rằng: '*Người Đến Như Vậy*, nhờ sự *cạn kiệt*, *cạn hết đắm nhiễm*, *hết sạch*, *cho đi*, *hoàn toàn từ bỏ* đối với mọi *mong muốn* một cách trọn vẹn, đã giác ngộ vô thượng Chánh Đẳng Giác'."
+nước [...lặp lại...] lửa ... gió ... sinh vật ... chư thiên ... chúa tể các loài ... Phạm thiên ... cõi Quang Âm thiên ... cõi Biến Tịnh thiên ... cõi Quảng Quả thiên ... Đấng Chiến Thắng ... *cõi Không Gian là Vô Tận* ... *cõi 'Cái Biết' là Vô Tận* ... *cõi Không Có Vật Gì* ... *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* ... cái được thấy ... cái được nghe ... cái được cảm nhận ... cái được nhận biết ... sự đồng nhất ... sự khác biệt ... tất cả ... Ngài *hiểu toàn bộ* Niết-bàn là Niết-bàn; sau khi *hiểu toàn bộ* Niết-bàn là Niết-bàn, Ngài không *suy diễn* [mình là] Niết-bàn, không *suy diễn* [mình ở] trong Niết-bàn, không *suy diễn* [mình tách rời] khỏi Niết-bàn, không *suy diễn* [rằng] Niết-bàn là của mình, không *vui thú chạy theo* Niết-bàn. 
+
+Nguyên nhân của điều đó là gì? Vì biết rõ rằng: 'Mong muốn được vui thú là gốc rễ của *đau khổ*', và 'từ *lực mong muốn tồn tại* (hữu/bhava) sẽ có *sự Tái sinh*, đối với sinh vật đã sinh ra thì có *già-chết*'. Do vậy, này các tỳ kheo, Ta nói rằng: '*Người Đến Như Vậy*, nhờ sự *cạn kiệt*, *cạn hết đắm nhiễm*, *hết sạch*, *cho đi*, *hoàn toàn từ bỏ* đối với mọi *mong muốn* một cách trọn vẹn, đã giác ngộ vô thượng Chánh Đẳng Giác'."
 
 Kết thúc phần phân định cấp độ phương pháp thứ tám đối với *Người Đến Như Vậy*.
 

@@ -5,7 +5,7 @@
   - Cờ `[TL]` (Tranh luận): Cấu trúc bóc tách 24 đối tượng (từ Đất đến Niết-bàn) nhắm thẳng vào hệ thống vũ trụ luận và bản thể luận của Bà-la-môn.
   - Cờ `[KK]` (Khung khái niệm): Các động từ nhận thức được phân lớp: *sañjānāti* (nhận thức bề mặt), *abhijānāti* (hiểu toàn bộ cấu trúc), và *pariññāta* (vượt ra ngoài cấu trúc). Động từ *maññati* là cốt lõi của sự tạo tác bản ngã (ego-making), thường bị dịch chung chung là "tưởng tượng" hay "chấp", thực chất là một quá trình "tự suy diễn".
 
-  - Bài kinh mô tả *đồng hóa* của bản ngã. Từ một nhận thức đơn thuần (sañjānāti), tâm trí vô minh bắt đầu nhào nặn, suy diễn (maññati) để tạo ra sự dính mắc "tôi", "của tôi", "ở trong tôi". Đáng chú ý, ngay cả Niết-bàn (Nibbāna) cũng bị đưa vào danh sách này, cho thấy Niết-bàn có thể bị bản ngã bám chấp và biến thành một khái niệm để thỏa mãn cái tôi.
+  - Bài kinh mô tả *đồng hóa* của bản ngã. Từ một nhận thức đơn thuần (sañjānāti), tâm trí vô minh bắt đầu nhào nặn, suy diễn (maññati) để tạo ra  "tôi", "của tôi", "ở trong tôi". Đáng chú ý, ngay cả Niết-bàn (Nibbāna) cũng bị đưa vào danh sách này, cho thấy Niết-bàn có thể bị bản ngã bám chấp và biến thành một khái niệm để thỏa mãn cái tôi.
 ---
 
 **Bước 2: Bảng thuật ngữ trong bài**

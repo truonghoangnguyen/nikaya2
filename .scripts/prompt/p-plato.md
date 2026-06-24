@@ -44,6 +44,8 @@ BẢNG THUẬT NGỮ ƯU TIÊN (mặc định dùng nếu không có chỉ đạ
 - the form of the good: chuẩn mực của khai sáng
 - verbal lie: nói dối ngôn từ
 - real lie: nói dối thực sự
+- imitation: "mô phỏng"/ "tưởng tượng lời nói"
+- imitating: diễn kịch
 
 5. Ví dụ
 <input>

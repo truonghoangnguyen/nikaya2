@@ -234,7 +234,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | chế định (paññatti) | đặt tên | sự đặt tên, hình thành khái niệm |
 | ái (taṇhā) | yêu thích | |
 | thủ (upādāna) | (sự) Bám giữ | |
-| hữu (bhava) | sự lực tồn tại | dùng trong chuỗi nhân duyên: Thủ (upādāna) > lực tồn tại(bhava) > tái sinh(jāti) |
+| hữu (bhava) | lực tồn tại | dùng trong chuỗi nhân duyên: Thủ (upādāna) > lực tồn tại(bhava) > tái sinh(jāti) |
 | hữu (bhava) | sự tồn tại; cõi tồn tại | "bhavūpapatti->tái sinh vào một cõi" "bhavataṇhā->mong muốn tồn tại"; "bhavadiṭṭhi->quan điểm tồn tại [sau khi chết]"; |
 | phi hữu (vibhava) | sự không tồn tại | "vibhavataṇhā->mong muốn không tồn tại"; "vibhavadiṭṭhi->quan điểm không tồn tại [sau khi chết]"| 
 | dục hữu (kāmabhavo); sắc hữu(rūpabhavo); vô sắc hữu (arūpabhavo) | tồn tại cõi dục , tồn tại cõi vật chất, tồn tại cõi phi vật chất | |

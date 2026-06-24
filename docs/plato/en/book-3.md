@@ -449,8 +449,7 @@ in all of them?
 
 ADEIMANTUS: Of course.Why wouldn’t it?
 
-SOCRATES: Then doesn’t the same principle also apply to imitation—
-namely, that a single individual cannot imitate many things as well as he can
+SOCRATES: Then doesn’t the same principle also apply to imitationnamely, that a single individual cannot imitate many things as well as he can
 imitate one?
 
 ADEIMANTUS: No, he cannot.
@@ -857,7 +856,7 @@ the same craft and discipline?
 
 GLAUCON: Yes, that necessarily follows.
 
- SOCRATES: Then, if the ﬁne habits in someone’s soul and those in his
+SOCRATES: Then, if the ﬁne habits in someone’s soul and those in his
 physical form agree and are in concord with one another, so that both share
 the same pattern, wouldn’t that be the most beautiful sight for anyone capable of seeing it?
 
