@@ -6,36 +6,34 @@
 
 ---
 
-**BƯỚC 2: BẢNG THUẬT NGỮ TRONG BÀI**
+**Bước 1: Khảo sát văn bản**
+- **Bối cảnh kinh**: Kinh Tất Cả Lậu Hoặc (Sabbāsavasutta - MN 2). Đức Phật giảng cho các tỳ kheo tại kỳ viên (Jetavana), phác thảo một hệ thống toàn diện gồm 7 phương pháp thực hành để quản lý và chấm dứt các rỉ rỉ tâm lý/nguồn ác (āsavā).
+- **Khung khái niệm có thể bị áp đặt**: Từ *āsava* (lậu hoặc) thường bị thần bí hóa hoặc trừu tượng hóa trong truyền thống luận giải. Trong ngữ cảnh này, nó chỉ các dòng chảy tâm lý tiêu cực, rò rỉ và ăn mòn tâm trí (như bản năng, khao khát tồn tại, và sự u mê). Cách dịch "nguồn ác" theo từ điển giúp đưa nó về thực tiễn. Tương tự, *yoniso manasikāra* (như lý tác ý) được dịch là "hiểu nguyên nhân gốc rễ" nhấn mạnh khía cạnh tư duy phân tích (first principle thinking) thay vì chỉ là sự chú ý đơn thuần.
+- **Dấu hiệu văn bản**: Bài kinh có cấu trúc danh sách rất rõ ràng (7 phương pháp) và chứa các công thức chuẩn về 6 tà kiến và 3 kiết sử đầu tiên.
+
+**Bước 2: Liệt kê thuật ngữ trong bài**
 
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
-| āsava | lậu hoặc | nguồn ác | Các xung động tâm lý độc hại ngầm rỉ ra. |
+| āsava | lậu hoặc | nguồn ác | Kāmāsava: nguồn ác của bản năng; Bhavāsava: nguồn ác của mong muốn hiện hữu; Avijjāsava: nguồn ác của Không Hiểu Biết. |
 | khaya | đoạn tận | cạn kiệt | |
-| yoniso manasikāra | như lý tác ý | hiểu nguyên nhân gốc rễ | Tư duy đi thẳng vào bản chất, first principle thinking. |
-| ayoniso manasikāra | phi như lý tác ý | không hiểu nguyên nhân gốc rễ | |
-| dassanā | tri kiến | thấy rõ bản chất | |
-| pahātabbā | đoạn trừ | cần được từ bỏ | |
-| [!] saṁvarā | thu thúc | nhờ bảo vệ | Sự kiểm soát, đóng kín các cửa ngõ giác quan. |
-| [!] paṭisevanā | thọ dụng | nhờ sử dụng đúng đắn | Cách tiêu thụ vật chất có ý thức. |
-| [!] adhivāsanā | kham nhẫn | nhờ chịu đựng | Khả năng chịu đựng các kích thích vật lý/tâm lý khó chịu. |
-| [!] parivajjanā | tránh né | nhờ tránh né | Nhận diện và tránh xa môi trường độc hại. |
-| vinodanā | trừ diệt | nhờ loại trừ | |
-| [!] bhāvanā | tu tập | nhờ phát triển | Nuôi dưỡng các trạng thái tâm lý tích cực. |
-| assutavā puthujjano | phàm phu vô văn | người thường không học | Người chưa được huấn luyện về tâm lý/nhận thức. |
-| sutavā ariyasāvako | bậc thánh hữu học | bậc thánh có học | Người đã được huấn luyện nhận thức. |
-| kāmāsavo | dục lậu | nguồn ác của bản năng | |
-| bhavāsavo | hữu lậu | nguồn ác của mong muốn hiện hữu | |
-| avijjāsavo | vô minh lậu | nguồn ác của Không Hiểu Biết | |
-| [TL] diṭṭhi | tà kiến | quan điểm sai | Các lý thuyết siêu hình bị đóng khung. |
-| sakkāyadiṭṭhi | thân kiến | Thấy mình là thật | Ảo tưởng về một cái "tôi" cốt lõi, cố định. |
-| vicikicchā | nghi | nghi ngờ | |
-| sīlabbataparāmāso | giới cấm thủ | Mê tín và giáo điều | Bám víu vào các nghi thức bề ngoài. |
-| [!] vighātapariḷāhā | tuyệt vọng nhiệt não | bực dọc và nóng nảy | Trạng thái tâm lý căng thẳng, bức bối do không kiểm soát được xung động. |
+| yoniso manasikāra | như lý tác ý | hiểu nguyên nhân gốc rễ | |
 | paṭisaṅkhā yoniso | như lý giác sát | thận trọng suy xét | |
-| satisambojjhaṅga | niệm giác chi | dấu hiệu trí nhớ không quên | |
+| dassanā | tri kiến | thấy rõ bản chất | |
+| saṁvarā | thu thúc | bảo vệ | |
+| [!] paṭisevanā | thọ dụng | sử dụng hợp lý | Kỹ năng sử dụng các vật dụng thiết yếu một cách tỉnh táo, không bám víu. |
+| [!] adhivāsanā | kham nhẫn | chịu đựng | |
+| [!] parivajjanā | tránh né | tránh né | |
+| vinodanā | trừ diệt | loại trừ | |
+| [!] bhāvanā | tu tập | phát triển | |
+| [!] vighātapariḷāhā | tàn hại nhiệt não | bực dọc và thiêu đốt | Trạng thái tâm lý căng thẳng, bứt rứt, sinh ra khi không quản lý được các nguồn ác. |
+| saṁyojana | kiết sử | Xiềng Xích | |
+| sakkāyadiṭṭhi | thân kiến | Thấy mình là thật | |
+| vicikicchā | nghi | Nghi ngờ | |
+| sīlabbataparāmāso | giới cấm thủ | Mê tín và giáo điều | |
 | vivekanissitaṁ | y viễn ly | dựa vào sự rời bỏ | |
 | virāganissitaṁ | y ly tham | dựa vào sự cạn hết đắm nhiễm | |
-| nirodhanissitaṁ | y diệt | dựa vào sự làm ngưng | |
-| [!] vossaggapariṇāmiṁ | hướng tâm xả ly | hướng đến sự buông xả | |
+| nirodhanissitaṁ | y niết bàn/diệt | dựa vào sự chặn đứng | |
+| [!] vossaggapariṇāmiṁ | hướng đến xả ly | hướng đến sự hoàn toàn từ bỏ | |
 
+**BƯỚC 2: BẢNG THUẬT NGỮ TRONG BÀI**
