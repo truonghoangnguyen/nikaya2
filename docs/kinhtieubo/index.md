@@ -11,14 +11,20 @@ head:
         "@context": "https://schema.org",
         "@graph": [
           {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtieubo/#webpage",
+            "url": "https://kinhnikaya.org/kinhtieubo/",
+            "mainEntity": {
+              "@id": "https://kinhnikaya.org/kinhtieubo/#book"
+            },
+            "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+          },
+          {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtieubo/#book",
-            "mainEntityOfPage": {
-              "@type": "WebPage",
-              "@id": "https://kinhnikaya.org/kinhtieubo/"
-            },
             "name": "Kinh Tiểu Bộ",
             "alternateName": "Khuddaka Nikāya",
+            "numberOfChapters": 187,
             "url": "https://kinhnikaya.org/kinhtieubo/",
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
@@ -39,7 +45,7 @@ head:
               "name": "Kinh Tiểu Bộ Tỷ kheo Thích Minh Châu & GS Trần Phương Lan dịch",
               "translator": [{
                 "@type": "Person",
-                "name": "Thích Minh Châu",
+                "name": "Tỷ kheo Thích Minh Châu",
                 "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
               },
               {

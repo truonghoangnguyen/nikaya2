@@ -8,16 +8,21 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#webpage",
+              "url": "https://kinhnikaya.org/kinhtangchi/sujato-en/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/"
-              },
-              "name": "Numbered Discourses A sensible translation of the Aṅguttara Nikāya - Bhikkhu Sujato",
+              "name": "Numbered Discourses A sensible translation of the Aṅguttara Nikāya",
               "bookEdition": "Bhikkhu Sujato",
               "url": "https://kinhnikaya.org/kinhtangchi/sujato-en/",
-              "inLanguage": "en",
+              "inLanguage": ["en"],
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"

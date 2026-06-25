@@ -8,16 +8,21 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#webpage",
+              "url": "https://kinhnikaya.org/kinhtangchi/sujato-vi/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/"
-              },
-              "name": "Bhikkhu Sujato (Tiếng Việt)",
+              "name": "Kinh Tăng Chi Bộ",
               "bookEdition": "Bhikkhu Sujato (Tiếng Việt)",
               "url": "https://kinhnikaya.org/kinhtangchi/sujato-vi/",
-              "inLanguage": "vi",
+              "inLanguage": ["vi"],
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -28,11 +33,15 @@ head:
                 "name": "Gotama Buddha",
                 "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
               },
-              "translator": {
+              "translator": [{
                 "@type": "Person",
                 "name": "Bhikkhu Sujato",
                 "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato"
-              },
+              },  {
+                "@type": "Person",
+                "name": "Trương Hoàng Nguyên",
+                "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
+              }],
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/#book"
               },

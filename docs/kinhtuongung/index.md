@@ -11,15 +11,20 @@ head:
         "@context": "https://schema.org",
         "@graph": [
           {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage",
+            "url": "https://kinhnikaya.org/kinhtrungbo/",
+            "mainEntity": {
+              "@id": "https://kinhnikaya.org/kinhtrungbo/#book"
+            },
+            "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+          },
+          {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtuongung/#book",
-            "mainEntityOfPage": {
-              "@type": "WebPage",
-              "@id": "https://kinhnikaya.org/kinhtuongung/"
-            },
             "name": "Kinh Tương Ưng Bộ",
             "alternateName": "Saṃyutta Nikāya",
-            "numberOfChapters":34,
+            "numberOfChapters": 56,
             "url": "https://kinhnikaya.org/kinhtuongung/",
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },

@@ -8,16 +8,22 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#webpage",
+              "url": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/"
-              },
-              "name": "Tỷ kheo Thích Minh Châu & GS Trần Phương Lan",
+            
+              "name": "Kinh Tiểu Bộ",
               "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu & GS Trần Phương Lan",
               "url": "https://kinhnikaya.org/kinhtieubo/thichminhchau/",
-              "inLanguage": "vi",
+              "inLanguage": ["vi"],
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -30,7 +36,7 @@ head:
               },
               "translator": [{
                 "@type": "Person",
-                "name": "Thích Minh Châu",
+                "name": "Tỷ kheo Thích Minh Châu",
                 "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
               },{
                 "@type": "Person",
@@ -491,7 +497,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Tỷ kheo Thích Minh Châu",
+                  "name": "Tỷ kheo Thích Minh Châu & GS Trần Phương Lan",
                   "item": "https://kinhnikaya.org/kinhtieubo/thichminhchau/"
                 }
               ]

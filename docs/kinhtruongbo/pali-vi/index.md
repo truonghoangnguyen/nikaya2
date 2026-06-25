@@ -12,16 +12,21 @@ head:
         "@context": "https://schema.org",
         "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#webpage",
+              "url": "https://kinhnikaya.org/kinhtruongbo/pali-vi/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#book",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/"
-            },
             "name": "Kinh Trường Bộ — Bản dịch từ tiếng Pali",
             "bookEdition": "Bản dịch Trương Hoàng Nguyên",
             "url": "https://kinhnikaya.org/kinhtruongbo/pali-vi/",
-            "inLanguage": "vi",
+            "inLanguage": ["vi"],
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
             "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
@@ -78,7 +83,7 @@ head:
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
                 { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-                { "@type": "ListItem", "position": 3, "name": "Dịch Việt từ tiếng Pali", "item": "https://kinhnikaya.org/kinhtruongbo/pali-vi/"  }
+                { "@type": "ListItem", "position": 3, "name": "Bản dịch từ tiếng Pali", "item": "https://kinhnikaya.org/kinhtruongbo/pali-vi/"  }
             ]
             }
         ]

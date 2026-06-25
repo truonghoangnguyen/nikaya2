@@ -17,7 +17,7 @@ head:
               "name": "Linked Discourses A plain translation of the Saṁyutta Nikāya -  Bhikkhu Sujato",
               "bookEdition": "Bhikkhu Sujato",
               "url": "https://kinhnikaya.org/kinhtuongung/sujato-en/",
-              "inLanguage": "en",
+              "inLanguage": ["en"],
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"

@@ -17,7 +17,7 @@ head:
               "name": "Bản đọc song song: Bhikkhu Sujato - Thích Minh Châu",
               "bookEdition": "Bhikkhu Sujato - Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/",
-              "inLanguage": "vi",
+              "inLanguage": ["vi"],
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -36,7 +36,7 @@ head:
                 },
                 {
                   "@type": "Person",
-                  "name": "Thích Minh Châu",
+                  "name": "Tỷ kheo Thích Minh Châu",
                   "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
                 }
               ],

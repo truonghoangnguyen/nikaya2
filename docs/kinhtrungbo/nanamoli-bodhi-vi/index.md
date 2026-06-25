@@ -7,17 +7,22 @@ head:
        {
           "@context": "https://schema.org",
           "@graph": [
+             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#webpage",
+              "url": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/"
-              },
-              "name": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Việt)",
-              "bookEdition": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
+              "name": "Kinh Trung Bộ — bản Việt dịch từ Anh ngữ Ñāṇamoli-Bodhi",
+              "bookEdition": "Bản Việt dịch từ Anh ngữ Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
               "url": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/",
-              "inLanguage": "vi",
+              "inLanguage": ["vi"],
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -33,85 +38,88 @@ head:
                   "@type": "Person",
                   "name": "Bhikkhu Ñāṇamoli",
                   "sameAs": "https://en.wikipedia.org/wiki/Bhikkhu_Ñāṇamoli"
-                },
-                {
+                },{
                   "@type": "Person",
                   "name": "Bhikkhu Bodhi",
                   "sameAs": "https://en.wikipedia.org/wiki/Bhikkhu_Bodhi"
-                }
+                }, {
+                "@type": "Person",
+                "name": "Trương Hoàng Nguyên",
+                "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
+              }
               ],
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/#book"
               },
               "hasPart": [
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/01.preface.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/01.preface#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/02.introduction.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/02.introduction#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/03.the-buddha-in-the-majjhima-nikaya.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/03.the-buddha-in-the-majjhima-nikaya#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/04.the-four-noble-truths.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/04.the-four-noble-truths#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/05.the-teaching-of-non-self.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/05.the-teaching-of-non-self#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/06.the-origin-and-cessation-of-suffering.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/06.the-origin-and-cessation-of-suffering#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/07.nibbana.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/07.nibbana#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/08.the-way-to-the-cessation-of-suffering.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/08.the-way-to-the-cessation-of-suffering#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/09.the-gradual-training.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/09.the-gradual-training#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/10.approaches-to-meditation.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/10.approaches-to-meditation#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/11.the-four-planes-of-liberation.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/11.the-four-planes-of-liberation#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/12.the-arahant.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/12.the-arahant#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/13.kamma-and-rebirth.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/13.kamma-and-rebirth#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/14.the-buddha-and-his-contemporaries.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/14.the-buddha-and-his-contemporaries#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/15.technical-notes.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/15.technical-notes#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/16.dhamma.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/16.dhamma#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/17.sankhara.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/17.sankhara#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/18.namarupa.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/18.namarupa#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/19.brahma.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/19.brahma#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/20.a-note-on-pronunciation.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/20.a-note-on-pronunciation#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/21.a-summary-of-the-152-suttas.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/21.a-summary-of-the-152-suttas#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/22.part-two-the-middle-fifty-discourses.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/22.part-two-the-middle-fifty-discourses#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/23.part-three-the-final-fifty-discourses.md#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/intro/23.part-three-the-final-fifty-discourses#article"
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/mn-001-the-root-of-all-things#chapter"

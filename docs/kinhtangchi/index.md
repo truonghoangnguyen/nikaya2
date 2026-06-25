@@ -11,15 +11,20 @@ head:
         "@context": "https://schema.org",
         "@graph": [
           {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtangchi/#webpage",
+            "url": "https://kinhnikaya.org/kinhtangchi/",
+            "mainEntity": {
+              "@id": "https://kinhnikaya.org/kinhtangchi/#book"
+            },
+            "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+          },
+          {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtangchi/#book",
-            "mainEntityOfPage": {
-              "@type": "WebPage",
-              "@id": "https://kinhnikaya.org/kinhtangchi/"
-            },
             "name": "Kinh Tăng Chi Bộ",
             "alternateName": "Aṅguttara Nikāya",
-            "numberOfChapters":34,
+            "numberOfChapters": 186,
             "url": "https://kinhnikaya.org/kinhtangchi/",
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },

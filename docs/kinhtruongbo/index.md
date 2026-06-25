@@ -11,15 +11,20 @@ head:
         "@context": "https://schema.org",
         "@graph": [
           {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage",
+            "url": "https://kinhnikaya.org/kinhtruongbo/",
+            "mainEntity": {
+              "@id": "https://kinhnikaya.org/kinhtruongbo/#book"
+            },
+            "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+          },
+          {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtruongbo/#book",
-            "mainEntityOfPage": {
-              "@type": "WebPage",
-              "@id": "https://kinhnikaya.org/kinhtruongbo/"
-            },
             "name": "Kinh Trường Bộ",
             "alternateName": "Dīgha Nikāya",
-            "numberOfChapters":34,
+            "numberOfChapters": 34,
             "url": "https://kinhnikaya.org/kinhtruongbo/",
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },

@@ -12,16 +12,21 @@ head:
         "@context": "https://schema.org",
         "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#webpage",
+              "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#book",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/"
-            },
-            "name": "Kinh Trường Bộ — Bản so sánh Pali-Việt - TH Thích Minh Châu",
-            "bookEdition": "Bản so sánh Kinh Trường Bộ dịch Pali-Việt - TH Thích Minh Châu",
+            "name": "Kinh Trường Bộ — Bản song song Pali-Việt - Thích Minh Châu",
+            "bookEdition": "Bản đọc song song Kinh Trường Bộ dịch Pali-Việt - Thích Minh Châu",
             "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/",
-            "inLanguage": "vi",
+            "inLanguage": ["vi"],
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
             "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
@@ -32,7 +37,7 @@ head:
             },
             "translator": [{
                 "@type": "Person",
-                "name": "Thích Minh Châu",
+                "name": "Tỷ kheo Thích Minh Châu",
                 "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
             },{
                 "@type": "Person",
@@ -82,7 +87,7 @@ head:
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
                 { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-                { "@type": "ListItem", "position": 3, "name": "Bản đọc song song ", "item": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/"  }
+                { "@type": "ListItem", "position": 3, "name": "Kinh Trường Bộ — Bản song song Pali-Việt - Thích Minh Châu", "item": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/"  }
             ]
             }
         ]

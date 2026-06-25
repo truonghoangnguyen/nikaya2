@@ -7,7 +7,7 @@
       "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/gioi-thieu",
       "url": "https://kinhnikaya.org/kinhtruongbo/sujato-en/gioi-thieu",
       "name": "Loạt Ấn Bản SuttaCentral — Giới thiệu",
-      "inLanguage": "en",
+      "inLanguage": ["en"],
       "datePublished": "2026-05-16",
       "dateModified": "2026-05-20",
       "isPartOf": { "@id": "https://kinhnikaya.org/#website" },
@@ -18,7 +18,7 @@
       "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/gioi-thieu#article",
       "name": "Loạt Ấn Bản SuttaCentral",
       "url": "https://kinhnikaya.org/kinhtruongbo/sujato-en/gioi-thieu",
-      "inLanguage": "en",
+      "inLanguage": ["en"],
       "author": {
         "@type": "Person",
         "name": "Bhikkhu Sujato"

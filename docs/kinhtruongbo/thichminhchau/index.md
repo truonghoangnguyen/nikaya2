@@ -12,16 +12,21 @@ head:
         "@context": "https://schema.org",
         "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#webpage",
+              "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"
-            },
-            "name": "Kinh Trường Bộ — Bản dịch Tỷ kheo Thích Minh Châu",
+            "name": "Kinh Trường Bộ",
             "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
             "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/",
-            "inLanguage": "vi",
+            "inLanguage": ["vi"],
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
             "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
@@ -32,11 +37,13 @@ head:
             },
             "translator": {
                 "@type": "Person",
-                "name": "Thích Minh Châu",
-                "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
+                "name": "Tỷ kheo Thích Minh Châu",
+                "sameAs": ["https://vi.wikipedia.org/wiki/Thích_Minh_Châu"]
             },
             "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
             "hasPart": [
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu-tmc#article"},
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong#chapter" },
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-002-kinh-sa-mon-qua#chapter" },
                 { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-003-kinh-ambattha-a-ma-tru#chapter" },
@@ -78,7 +85,7 @@ head:
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
                 { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-                { "@type": "ListItem", "position": 3, "name": "Bản dịch Thích Minh Châu", "item": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"  }
+                { "@type": "ListItem", "position": 3, "name": "Tỷ Kheo Thích Minh Châu", "item": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"  }
             ]
             }
         ]

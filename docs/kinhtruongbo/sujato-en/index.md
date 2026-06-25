@@ -13,16 +13,21 @@ head:
         "@context": "https://schema.org",
         "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#webpage",
+              "url": "https://kinhnikaya.org/kinhtruongbo/sujato-en/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#book",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/"
-            },
             "name": "Dīgha Nikāya in modern English translation by Bhikkhu Sujato.",
-            "bookEdition": "Dīgha Nikāya by Bhikkhu Sujato.",
+            "bookEdition": "Dīgha Nikāya by Bhikkhu Sujato",
             "url": "https://kinhnikaya.org/kinhtruongbo/sujato-en/",
-            "inLanguage": "vi",
+            "inLanguage": ["en"],
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
             "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
@@ -38,6 +43,13 @@ head:
             },
             "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
             "hasPart": [
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/intro/01-the-suttacentral-editions-series#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/intro/02-preface-to-long-discourses#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/intro/03-a-reader-s-guide-to-the-pali-suttas#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/intro/04-the-long-discourses-dhamma-as-literature-and-compilation#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/intro/05-acknowledgements#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/intro/06-summary-of-contents#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/intro/07-colophon#article"},
                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/dn-001-the-divine-net-brahmajalasutta#chapter" },
                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/dn-002-the-fruits-of-the-ascetic-life-samannaphalasutta#chapter" },
                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/dn-003-with-ambattha-ambatthasutta#chapter" },
@@ -79,7 +91,7 @@ head:
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
                 { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-                { "@type": "ListItem", "position": 3, "name": "Dīgha Nikāya by Bhikkhu Sujato.", "item": "https://kinhnikaya.org/kinhtruongbo/sujato-en/"  }
+                { "@type": "ListItem", "position": 3, "name": "Dīgha Nikāya by Bhikkhu Sujato", "item": "https://kinhnikaya.org/kinhtruongbo/sujato-en/"  }
             ]
             }
         ]

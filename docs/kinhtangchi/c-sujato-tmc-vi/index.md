@@ -8,16 +8,21 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#webpage",
+              "url": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/"
-              },
-              "name": "Bản đọc song song Bhikkhu Sujato - Thích Minh Châu",
-              "bookEdition": "Bhikkhu Sujato - Tỷ kheo Thích Minh Châu",
+              "name": "Kinh Tăng Chi Bộ",
+              "bookEdition": "Bản đọc song song Bhikkhu Sujato - Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/",
-              "inLanguage": "vi",
+              "inLanguage": ["vi"],
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -36,9 +41,13 @@ head:
                 },
                 {
                   "@type": "Person",
-                  "name": "Thích Minh Châu",
+                  "name": "Tỷ kheo Thích Minh Châu",
                   "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
-                }
+                }, {
+                "@type": "Person",
+                "name": "Trương Hoàng Nguyên",
+                "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
+              }
               ],
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/#book"

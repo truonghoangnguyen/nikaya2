@@ -13,16 +13,21 @@ head:
         "@context": "https://schema.org",
         "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#webpage",
+              "url": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
             "@type": "Book",
             "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/"
-            },
             "name": "Kinh Trường Bộ — Bhikkhu Sujato (Tiếng Việt)",
-            "bookEdition": "Kinh Trường Bộ Bhikkhu Sujato (Tiếng Việt)",
+            "bookEdition": "Bản Việt dịch từ Anh ngữ Bhikkhu Sujato",
             "url": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/",
-            "inLanguage": "vi",
+            "inLanguage": ["vi"],
             "isAccessibleForFree": true,
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
             "image": "https://kinhnikaya.org/covers/kinhtruongbo-sujato.webp",
@@ -31,13 +36,24 @@ head:
                 "name": "Gotama Buddha",
                 "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
             },
-            "translator": {
+            "translator": [{
                "@type": "Person",
                "name": "Bhikkhu Sujato",
                "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato"
-            },
+            }, {
+               "@type": "Person",
+               "name": "Trương Hoàng Nguyên",
+               "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
+            }],
             "translationOfWork": { "@id": "https://kinhnikaya.org/kinhtruongbo/#book" },
             "hasPart": [
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/intro/01-the-suttacentral-editions-series#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/intro/02-preface-to-long-discourses#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/intro/03-a-reader-s-guide-to-the-pali-suttas#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/intro/04-the-long-discourses-dhamma-as-literature-and-compilation#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/intro/05-acknowledgements#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/intro/06-summary-of-contents#article"},
+                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/intro/07-colophon#article"},
                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/dn-001-the-divine-net-brahmajalasutta#chapter" },
                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/dn-002-the-fruits-of-the-ascetic-life-samannaphalasutta#chapter" },
                { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/dn-003-with-ambattha-ambatthasutta#chapter" },
@@ -79,7 +95,7 @@ head:
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
                 { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-                { "@type": "ListItem", "position": 3, "name": "Kinh Trường Bộ — Bhikkhu Sujato (Tiếng Việt)", "item": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/"  }
+                { "@type": "ListItem", "position": 3, "name": "Bhikkhu Sujato (Tiếng Việt)", "item": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/"  }
             ]
             }
         ]

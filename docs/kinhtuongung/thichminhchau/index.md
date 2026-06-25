@@ -8,16 +8,21 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#webpage",
+              "url": "https://kinhnikaya.org/kinhtuongung/thichminhchau/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book"
+              },
+              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/"
-              },
-              "name": "Tỷ kheo Thích Minh Châu",
+              "name": "Kinh Tương Ưng Bộ",
               "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtuongung/thichminhchau/",
-              "inLanguage": "vi",
+              "inLanguage": ["vi"],
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"

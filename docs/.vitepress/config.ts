@@ -148,11 +148,10 @@ const BOOK_META: Record<string, BookMeta> = {
 
 const TRANSLATOR_META: Record<string, TranslatorMeta> = {
   'thichminhchau': {
-    name: 'Thích Minh Châu',
+    name: 'Tỷ kheo Thích Minh Châu',
     inLanguage: ['vi'],
     sameAs: [
-      'https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u',
-      'https://en.wikipedia.org/wiki/Thich_Minh_Chau',
+      'https://vi.wikipedia.org/wiki/Thích_Minh_Châu'
     ],
   },
   'sujato-vi': {
@@ -198,7 +197,7 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
 
 // Compare-segment → translators + label. Folder convention from .scripts/seo-ai-folder-struct.md
 const COMPARE_META: Record<string, CompareMeta> = {
-  'c-pali-tmc-vi': { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Trương Hoàng Nguyên & Thích Minh Châu', inLanguage: ['vi'] },
+  'c-pali-tmc-vi': { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Pali (Việt) & Thích Minh Châu', inLanguage: ['vi'] },
   'c-sujato-tmc-vi': { translatorKeys: ['sujato-vi', 'thichminhchau'], label: 'Sujato & Thích Minh Châu', inLanguage: ['vi'] },
   'c-nm-tmc-vi': { translatorKeys: ['nanamoli-bodhi-vi', 'thichminhchau'], label: 'Ñāṇamoli-Bodhi & Thích Minh Châu', inLanguage: ['vi'] },
 };
@@ -510,7 +509,7 @@ export default defineConfig({
     if (pageUrl.endsWith('index')) {
       pageUrl = pageUrl.replace(/index$/, '');
     }
-    const dateModified = getDateModified(relativePath);
+    const dateModified = DEFAULT_PUBLISHED;//getDateModified(relativePath);
 
     // --- Compare page branch (e.g. kinhtrungbo/c-pali-tmc-vi/[slug]) ---
     const compareMeta = authorSegment ? COMPARE_META[authorSegment] : undefined;
@@ -561,22 +560,37 @@ export default defineConfig({
       const compareGraph: Record<string, unknown>[] = [
         {
           '@type': 'WebPage',
-          '@id': pageUrl,
+          '@id': `${pageUrl}#webpage`,
           'url': pageUrl,
           'name': pageTitle,
           'inLanguage': compareMeta.inLanguage,
-          'datePublished': DEFAULT_PUBLISHED,
-          'dateModified': dateModified,
           'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
           'mainEntity': { '@id': compareChapterId },
         },
         {
-          '@type': ['Chapter', 'ScholarlyArticle'],
+          '@type': ['Chapter', 'Article'],
           '@id': compareChapterId,
           'name': pageTitle,
+          'headline': pageTitle,
           'url': pageUrl,
           'inLanguage': compareMeta.inLanguage,
           'isPartOf': { '@id': compareBookId },
+          'datePublished': DEFAULT_PUBLISHED,
+          'dateModified': DEFAULT_PUBLISHED,
+          'image': coverUrl,
+          "publisher": {
+            "@type": "Organization",
+            "@id": "https://kinhnikaya.org/#org",
+            "name": "Kinh Nikāya",
+            "url": "https://kinhnikaya.org/",
+            "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Gotama Buddha",
+            "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+          },
+
           ...(isBasedOn.length ? { 'isBasedOn': isBasedOn } : {}),
           ...(translators.length ? { 'translator': translators } : {}),
         },
@@ -585,7 +599,7 @@ export default defineConfig({
           'itemListElement': [
             { '@type': 'ListItem', 'position': 1, 'name': 'Trang chủ', 'item': `${SITE_ORIGIN}/` },
             { '@type': 'ListItem', 'position': 2, 'name': bookMeta.name, 'item': bookMeta.url },
-            { '@type': 'ListItem', 'position': 3, 'name': `Bản so sánh: ${compareMeta.label}`, 'item': `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/mucluc` },
+            { '@type': 'ListItem', 'position': 3, 'name': `Bản so sánh: ${compareMeta.label}`, 'item': `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/` },
             { '@type': 'ListItem', 'position': 4, 'name': pageTitle, 'item': pageUrl },
           ],
         },
@@ -697,12 +711,10 @@ export default defineConfig({
           const articleGraph: Record<string, unknown>[] = isIntro ? [
             {
               '@type': 'WebPage',
-              '@id': pageUrl,
+              '@id': `${pageUrl}#webpage`,
               'url': pageUrl,
               'name': pageTitle,
               'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
-              'datePublished': DEFAULT_PUBLISHED,
-              'dateModified': dateModified,
               'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
               'mainEntity': { '@id': `${pageUrl}#article` },
             },
@@ -710,10 +722,20 @@ export default defineConfig({
               '@type': 'Article',
               '@id': `${pageUrl}#article`,
               'name': bookMeta.name,
+              'headline': pageTitle,
               'url': pageUrl,
               'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
               ...(translatorMeta ? { 'author': { '@type': 'Person', 'name': translatorMeta.name } } : {}),
               'isPartOf': { '@id': bookId },
+              'datePublished': DEFAULT_PUBLISHED,
+              'dateModified': DEFAULT_PUBLISHED,
+              "publisher": {
+                "@type": "Organization",
+                "@id": "https://kinhnikaya.org/#org",
+                "name": "Kinh Nikāya",
+                "url": "https://kinhnikaya.org/",
+                "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
+              },
               'image': coverUrl,
               'about': { '@id': bookId },
             },
@@ -723,29 +745,42 @@ export default defineConfig({
                 { '@type': 'ListItem', 'position': 1, 'name': 'Trang chủ', 'item': `${SITE_ORIGIN}/` },
                 { '@type': 'ListItem', 'position': 2, 'name': bookMeta.name, 'item': bookMeta.url },
                 ...(translatorMeta ? [{ '@type': 'ListItem', 'position': 3, 'name': translatorMeta.name, 'item': `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/` }] : []),
-                { '@type': 'ListItem', 'position': translatorMeta ? 4 : 3, 'name': pageTitle },
+                { '@type': 'ListItem', 'position': translatorMeta ? 4 : 3, 'name': pageTitle, 'item':pageUrl },
               ],
             },
           ] : [
             {
               '@type': 'WebPage',
-              '@id': pageUrl,
+              '@id': `${pageUrl}#webpage`,
               'url': pageUrl,
               'name': pageTitle,
               'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
-              'datePublished': DEFAULT_PUBLISHED,
-              'dateModified': dateModified,
               'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
               'mainEntity': { '@id': `${pageUrl}#chapter` },
             },
             {
-              '@type': ['Chapter', 'ScholarlyArticle'],
+              '@type': ['Chapter', 'Article'],
               '@id': `${pageUrl}#chapter`,
               'name': pageTitle,
-              'position': currentIndex + 1,
+              //'position': currentIndex + 1,
               'url': pageUrl,
+              'headline': pageTitle,
               'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
               'image': coverUrl,
+              'datePublished': DEFAULT_PUBLISHED,
+              'dateModified': DEFAULT_PUBLISHED,
+              "publisher": {
+                "@type": "Organization",
+                "@id": "https://kinhnikaya.org/#org",
+                "name": "Kinh Nikāya",
+                "url": "https://kinhnikaya.org/",
+                "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Gotama Buddha",
+                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              },
               'isPartOf': { '@id': bookId },
               ...(translatorMeta ? { 'translator': makeTranslatorEntity(translatorMeta) } : {}),
             },

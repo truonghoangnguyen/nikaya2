@@ -14,7 +14,8 @@ head:
             "@type": "Organization",
             "@id": "https://kinhnikaya.org/#org",
             "name": "Kinh Nikāya",
-            "url": "https://kinhnikaya.org/"
+            "url": "https://kinhnikaya.org/",
+             "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
             },
             {
             "@type": "WebSite",
@@ -22,36 +23,31 @@ head:
             "name": "Kinh Nikāya",
             "alternateName": "Kinh Nikaya Phật giáo Nguyên thủy đọc online",
             "url": "https://kinhnikaya.org/",
-            "inLanguage": "vi",
+            "inLanguage": ["vi"],
             "publisher": { "@id": "https://kinhnikaya.org/#org" },
             "hasPart": [{
                 "@type": "Book",
                 "@id": "https://kinhnikaya.org/kinhtruongbo/#book",
-                "name": "Kinh Trường Bộ (Dīgha Nikāya)",
                 "url": "https://kinhnikaya.org/kinhtruongbo/"
             },
             {
                 "@type": "Book",
                 "@id": "https://kinhnikaya.org/kinhtrungbo/#book",
-                "name": "Kinh Trung Bộ (Majjhima Nikāya)",
             "url": "https://kinhnikaya.org/kinhtrungbo/"
             },
             {
                 "@type": "Book",
                 "@id": "https://kinhnikaya.org/kinhtuongungbo/#book",
-                "name": "Kinh Tương Ưng Bộ (Saṃyutta Nikāya)",
                 "url": "https://kinhnikaya.org/kinhtuongungbo/"
             },
             {
                 "@type": "Book",
                 "@id": "https://kinhnikaya.org/kinhtangchibo/#book",
-                "name": "Kinh Tăng Chi Bộ (Aṅguttara Nikāya)",
                 "url": "https://kinhnikaya.org/kinhtangchibo/"
             },
             {
                 "@type": "Book",
                 "@id": "https://kinhnikaya.org/kinhtieubo/#book",
-                "name": "Kinh Tiểu Bộ (Khuddaka Nikāya)",
                 "url": "https://kinhnikaya.org/kinhtieubo/"
                 }
             ],
