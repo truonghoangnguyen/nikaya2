@@ -1,3 +1,26 @@
+https://kinhnikaya.org/
+https://kinhnikaya.org/kinhtieubo/
+https://kinhnikaya.org/kinhtrungbo/
+https://kinhnikaya.org/kinhtruongbo/
+https://kinhnikaya.org/kinhtuongung/
+https://kinhnikaya.org/kinhtangchi/
+https://kinhnikaya.org/kinhtieubo/thichminhchau/
+https://kinhnikaya.org/kinhtrungbo/thichminhchau/
+https://kinhnikaya.org/kinhtruongbo/thichminhchau/
+https://kinhnikaya.org/kinhtuongung/thichminhchau/
+https://kinhnikaya.org/kinhtangchi/thichminhchau/
+
+https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/
+https://kinhnikaya.org/kinhtruongbo/sujato-vi/
+https://kinhnikaya.org/kinhtuongung/sujato-vi/
+https://kinhnikaya.org/kinhtangchi/sujato-vi
+
+https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/
+https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi
+https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi
+https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi
+
+
 Level 1: Home 
 {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://kinhnikaya.org/#org","name":"Kinh Nikāya","url":"https://kinhnikaya.org/","logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}},{"@type":"WebSite","@id":"https://kinhnikaya.org/#website","name":"Kinh Nikāya","alternateName":"Kinh Nikaya Phật giáo Nguyên thủy đọc online","url":"https://kinhnikaya.org/","inLanguage":["vi"],"publisher":{"@id":"https://kinhnikaya.org/#org"},"hasPart":[{"@type":"Book","@id":"https://kinhnikaya.org/kinhtruongbo/#book","url":"https://kinhnikaya.org/kinhtruongbo/"},{"@type":"Book","@id":"https://kinhnikaya.org/kinhtrungbo/#book","url":"https://kinhnikaya.org/kinhtrungbo/"},{"@type":"Book","@id":"https://kinhnikaya.org/kinhtuongungbo/#book","url":"https://kinhnikaya.org/kinhtuongungbo/"},{"@type":"Book","@id":"https://kinhnikaya.org/kinhtangchibo/#book","url":"https://kinhnikaya.org/kinhtangchibo/"},{"@type":"Book","@id":"https://kinhnikaya.org/kinhtieubo/#book","url":"https://kinhnikaya.org/kinhtieubo/"}],"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://kinhnikaya.org/search?q={search_term_string}"},"query-input":"required name=search_term_string"}}]}
 
