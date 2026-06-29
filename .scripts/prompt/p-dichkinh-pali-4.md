@@ -161,7 +161,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | dục tham (chandarāga) | tham đắm | |
 | ngũ dục (kāma-guṇa) | sợi dây trói buộc của bản năng | |
 | viễn ly (Viveka) | rời bỏ | |
-| ly (Vivicca)| hoàn toàn rời bỏ khỏi | |
+| ly (Vivicca)| rời bỏ khỏi | |
 | Thiền | Thiền-na |  |
 | phiền não (kilesa) | nhiễm bẩn | |
 | Lậu hoặc (Āsava) | nguồn ác | Kāmāsava(Dục lậu)-> nguồn ác của bản năng; Khīṇāsava(lậu tận) -> hết sạch nguồn ác; Avijjāsav(Vô minh lậu) -> nguồn ác của Không Hiểu Biết; Bhavāsava(Hữu lậu)-> nguồn ác của mong muốn hiện hữu |
@@ -294,7 +294,8 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | Vô sắc ái(Arūpa-rāga) | Đắm nhiễm Cõi phi vật chất | |
 | Mạn(Māna) | Ngạo mạn | |
 | Trạo cử(Uddhacca) | Bồn chồn | |
-| Vô minh(Avijjā) | Không Hiểu Biết | |
+| minh (vijjā) | hiểu biết | |
+| vô minh(Avijjā) | không hiểu biết | |
 | quán thân trên thân | quan sát cơ thể qua cơ thể của mình | |
 | quán thọ trên thọ | quan sát cảm giác qua cảm giác của mình | |
 | quán tâm trên tâm | quan sát tâm qua tâm của mình | |

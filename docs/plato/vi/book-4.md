@@ -1,1701 +1,955 @@
-# *Book 4*
-SOCRATES’ NARRATION CONTINUES: Adeimantus interrupted:
-(419a) How will you defend yourself, Socrates, he said, if someone objects that
-you are not making these men very happy and, furthermore, that it is their
-own fault that they are not? I mean, the city really belongs to them, yet
-they derive no good from the city. Others own land, build ﬁne, big houses,
-acquire furnishings to go along with them, make their own private sacri-
-ﬁces to the gods, entertain guests, and also, of course, possess what you
-were talking about just now: gold and silver and all the things that those
-who are going to be blessedly happy are thought to require. Instead of that,
-he might say, they seem simply to be paid auxiliaries established in the city
-(420a) as a garrison, and nothing else.
-
-SOCRATES: Yes, and what is more, they do it just for upkeep and get no
-wages in addition to their upkeep, as other men do. So, they won’t even be
-able to take a personal trip out of town if they want to, or give presents to
-their girlfriends, or spend money in whatever other ways they might wish,
-as people do who are considered happy.You have omitted these and a host
-of other similar facts from your list of charges.
-
-ADEIMANTUS: Well, let them too be added to the charges.
-(b) SOCRATES: How will we defend ourselves? Is that what you are asking?
-
-ADEIMANTUS: Yes.
-
-SOCRATES: I think we will discover what to say if we follow the same path
-as before.You see, our reply will be this: it would not be at all surprising if
-these people were happiest just as they are. However, in establishing our
-city, we are not looking to make any one group in it outstandingly happy,
-but to make the whole city so as far as possible. For we thought that we
-would be most likely to ﬁnd justice in such a city, and injustice, by contrast,
-in the one that is governed worst. And we thought that by observing both
-cities, we would be able to decide the question we have been inquiring into
-(c) for so long. At the moment, then, we take ourselves to be forming a happy
-city—not separating off a few happy people and putting them in it, but
-making the city as a whole happy. (We will look at the opposite city soon.)1
-[1]: This discussion begins at 445c, but is interrupted and does not resume again until
-Book 8.
-
-Suppose, then, that we were painting a statue2 and someone came up to
-us and started to criticize us, saying that we had not applied the most beau-
-tiful colors to the most beautiful parts of the statue; because the eyes, which
-are the most beautiful part, had been painted black rather than purple.We
-would think it reasonable to offer the following defense: “My amazing fel-
-(d) low, you must not expect us to paint the eyes so beautifully that they no
-longer look like eyes at all, nor the other parts either. On the contrary, you
-must look to see whether, by dealing with each part appropriately, we are
-making the whole thing beautiful. Similarly, in the present case, you must
-not force us to give our guardians the sort of happiness that would make
-(e) them something other than guardians.You see, we know how to clothe the
-farmers in purple robes, festoon them with gold jewelry, and tell them to
-work the land whenever they please.We know we could have our potters
-recline on couches from right to left in front of the ﬁre,3 drinking and
-feasting with their wheel beside them for whenever they have a desire to
-make pots. And we can make all the others happy in the same way, so that
-the whole city is happy. But please do not urge us to do this. For if we are
-persuaded by you, a farmer won’t be a farmer, nor a potter a potter, nor
-(421a) will any of the others from which a city is constituted remain true to type.
-
-But for most of the others, it matters less: cobblers who become inferior
-and corrupt, and claim to be what they are not, do nothing terrible to the
-city. But if the guardians of our laws and city are not really what they seem
-to be, you may be sure that they will destroy the city utterly and, on the
-other hand, that they alone have the opportunity to govern it well and
-make it happy.”
-Now, if we are making genuine guardians, the sort least likely to do the
-(a) (b) city evil, and if our critic is making pseudo-farmers—feasters happy at
-festival, so to speak, not in a city—he is not talking about a city, but about
-something else. What we have to consider, then, is whether our aim in
-establishing the guardians is the greatest possible happiness for them, or
-whether—since our aim is to see this happiness develop for the whole
-(c) city—we should compel or persuade the auxiliaries and guardians to ensure
-that they, and all the others as well, are the best possible craftsmen at their
-own work; and then, with the whole city developing and being governed
-well, leave it to nature to provide each group with its share of happiness.
-
-ADEIMANTUS: Yes, I think what you say is right.
-
-SOCRATES: Well, then, will you also think me reasonable if I say some-
-thing closely related?
-
-[2]: Ancient Greek statues were painted and gilded.
-
-[3]: At formal drinking parties (sumposia), the toastmaster (sumposiarchos) sat at the head
-of the table.The others sat in order of their importance, from his right counterclock-
-wise around the table to his left.
-
-ADEIMANTUS: What exactly?
-
-SOCRATES: Take the rest of the craftsmen again, and consider whether
-(d) these things corrupt them to such an extent that they actually become bad.
-
-ADEIMANTUS: What things?
-
-SOCRATES: Wealth and poverty.
-
-ADEIMANTUS: What do you mean?
-
-SOCRATES: This: do you think that a potter who has become wealthy will
-still be willing to devote himself to his craft?
-
-ADEIMANTUS: Not at all.
+# Quyển 4
 
-SOCRATES: Won’t he become idler and more careless than he was?
+LỜI KỂ CỦA SOCRATES TIẾP TỤC: Adeimantus ngắt lời:
 
-ADEIMANTUS: Much more.
+(419a) Socrates, anh bào chữa thế nào nếu người phản đối, rằng anh đang không làm cho những người bảo vệ thành bang này được hạnh phúc, và hơn nữa sự bất hạnh đó lại do chính họ chuốc lấy? Ý tôi là, *thành bang* (city) thực sự thuộc về họ, nhưng họ chẳng hưởng được chút lợi lộc nào từ nó. Những người khác thì sở hữu đất đai, xây nhà cao cửa rộng, sắm sửa đồ đạc sang trọng, tự bỏ tiền túi ra tế lễ thần linh, thiết đãi khách khứa, và dĩ nhiên là sở hữu cả vàng bạc lẫn mọi thứ mà người ta cho là cần thiết để có một cuộc sống viên mãn. Hơn nữa người ta có thể nói rằng, họ trông chẳng khác gì những *lính thuê* (auxiliaries) làm thuê được bố trí trong *thành bang* (420a) như một đội đồn trú, và không có gì hơn.
 
-SOCRATES: Then won’t he become a worse potter?
+SOCRATES: Đúng vậy, và tệ hơn nữa là họ làm việc chỉ được nuôi ăn ở chứ chẳng nhận được thêm đồng lương nào như những người khác. Vì vậy, họ thậm chí không thể tự bỏ tiền đi du lịch ra khỏi thị trấn nếu muốn, không thể tặng quà cho bạn gái, hay tiêu tiền vào bất cứ việc gì họ thích như những người được coi là hạnh phúc vẫn làm. Anh đã bỏ sót những điều này và vô số sự thật tương tự khác khỏi danh sách những lời buộc tội của mình rồi đấy.
 
-ADEIMANTUS: Yes, much worse.
+ADEIMANTUS: Chà, vậy hãy cứ thêm cả những điều đó vào lời buộc tội đi.
 
-SOCRATES: And surely if poverty prevents him from providing himself with
-tools, or any of the other things he needs for his craft, he will make poorer
-(e) products himself and worse craftsmen of his sons or anyone else he teaches.
+(b) SOCRATES: Anh đang hỏi chúng ta sẽ tự bào chữa thế nào đúng không?
 
-ADEIMANTUS: Of course.
+ADEIMANTUS: Đúng vậy.
 
-SOCRATES: So poverty and wealth make the products and the practitioners
-of the crafts worse.
+SOCRATES: Tôi nghĩ chúng ta sẽ biết phải nói gì nếu tiếp tục đi theo con đường từ trước đến nay. Anh thấy đấy, câu trả lời của chúng ta sẽ là: sẽ chẳng có gì đáng ngạc nhiên nếu những người này lại là những người hạnh phúc nhất khớp với chính hoàn cảnh hiện tại của họ. Hơn nữa, khi thiết lập *thành bang* của mình, mục tiêu là không làm cho bất kỳ một nhóm người cụ thể nào trở nên hạnh phúc vượt hơn, mà là làm cho toàn bộ *thành bang* hạnh phúc nhất có thể. Bởi vì chúng ta giả định mình chỉ có thể tìm được *sự đúng đắn [điều đúng]* (justice) nhất trong một *thành bang* như vậy, và ngược lại, sẽ chỉ thấy *sự sai trái [điều sai]* (injustice), nơi bị cai trị tồi tệ nhất. Chúng ta đã nghĩ rằng bằng cách quan sát cả hai mô hình này, ta sẽ có thể giải quyết được câu hỏi mà chúng ta đã cất công tìm hiểu (c) bấy lâu nay. Do đó, vào lúc này, chúng ta coi như mình đang nhào nặn ra một *thành bang* hạnh phúc, không phải bằng cách tách riêng một vài người hạnh phúc ra và đặt họ vào đó, mà là làm cho tổng thể *thành bang* được hạnh phúc. (Chúng ta sẽ sớm xem xét mô hình đối lập).[1]
 
-ADEIMANTUS: Apparently.
+Hãy tưởng tượng rằng chúng ta đang tô màu một bức tượng[2] và có người đến chỉ trích rằng chúng ta đã không dùng những màu sắc đẹp nhất cho những bộ phận đẹp nhất của bức tượng; chẳng hạn như đôi mắt, phần đẹp nhất, lại bị tô màu đen thay vì màu tím. Chúng ta sẽ thấy hoàn toàn hợp lý khi đưa ra lời bào chữa sau: "Này anh bạn tuyệt vời (d), anh không thể đòi hỏi chúng tôi phải vẽ đôi mắt đẹp đến mức chúng không còn trông giống đôi mắt nữa, và với các bộ phận khác cũng vậy. Ngược lại, anh phải nhìn xem liệu bằng cách xếp đặt từng bộ phận một cách thích hợp, chúng tôi có đang làm cho tổng thể bức tượng trở nên đẹp đẽ hay không." Tương tự như vậy trong trường hợp hiện tại, anh không được ép chúng tôi trao cho các *vệ binh* (guardians) của mình một loại hạnh phúc khiến (e) họ trở thành một thứ gì đó không còn là *vệ binh* nữa. Anh thấy đấy, chúng ta thừa biết cách mặc áo choàng tím cho nông dân, đeo đầy trang sức vàng cho họ và bảo họ chỉ làm ruộng khi nào thấy thích. Chúng ta cũng biết cách để những thợ gốm nằm ườn trên ghế dài quanh đống lửa,[3] chè chén no say với bàn xoay gốm đặt ngay bên cạnh để họ chỉ làm việc khi nào có hứng. Và chúng ta có thể làm cho tất cả những người khác hạnh phúc theo cách tương tự, để toàn bộ *thành bang* đều hạnh phúc. Nhưng xin đừng xúi giục chúng tôi làm điều này. Bởi vì nếu chúng tôi nghe theo anh, nông dân sẽ không còn là nông dân, thợ gốm không còn là thợ gốm, và (421a) sẽ chẳng có thành phần nào cấu tạo nên *thành bang* còn giữ đúng bản chất của mình nữa.
 
-SOCRATES: It seems, then, that we have found other things that our
-guardians must prevent in every way from slipping into the city undetected.
+Đối với hầu hết những nghề khác, hậu quả ít nghiêm trọng hơn: những thợ đóng giày trở nên kém cỏi, tha hóa và tự nhận mình là thứ mà họ không phải, sẽ chẳng gây ra thảm họa gì cho *thành bang*. Nhưng nếu những người bảo vệ luật pháp và *thành bang* của chúng ta không thực sự là như những gì họ thể hiện, anh có thể chắc chắn rằng họ sẽ phá hủy *thành bang* hoàn toàn; và mặt khác, chỉ có họ mới có cơ hội quản lý nó thật tốt và mang lại hạnh phúc cho nó.
 
-ADEIMANTUS: What things?
-(422a) SOCRATES: Wealth and poverty. For the former makes for luxury, idleness,
-and revolution; and the latter for illiberality, bad work, and revolution as
-well.
+(b) Giờ đây, nếu chúng ta đang tạo ra những *vệ binh* - người bảo vệ đích thực, những người ít có khả năng gây hại cho *thành bang* nhất, còn kẻ chỉ trích chúng ta lại đang tạo ra những đồ giả hiệu, giống như những kẻ đang vui vẻ chè chén tại một lễ hội chứ không phải trong một *thành bang*, thì ông ta đang nói về một thứ gì đó khác chứ không phải là một *thành bang*. Do đó, điều chúng ta phải cân nhắc là: liệu mục tiêu của chúng ta khi thiết lập tầng lớp *vệ binh* là mang lại hạnh phúc lớn nhất có thể cho riêng họ, hay là, vì mục tiêu của chúng ta là thấy hạnh phúc này phát triển cho toàn bộ (c) *thành bang*, chúng ta nên bắt buộc hoặc thuyết phục các *trợ thủ* và *vệ binh* đảm bảo rằng họ, cũng như tất cả những người khác, phải trở thành những người thợ giỏi nhất trong chính công việc của mình; và sau đó, khi toàn bộ *thành bang* phát triển và được quản lý tốt, hãy để tự nhiên phân phát cho mỗi nhóm phần hạnh phúc xứng đáng của họ.
 
-ADEIMANTUS: That’s right. But consider this, Socrates: how will our city
-be able to ﬁght a war if it has acquired no wealth—especially if it has to
-ﬁght a great and wealthy city?
+ADEIMANTUS: Vâng, tôi nghĩ những gì anh nói là đúng.
 
-SOCRATES: Obviously, it will be harder to ﬁght one such city, but easier to
-(b) ﬁght two.
+SOCRATES: Vậy thì, anh có cho rằng tôi có lý không nếu tôi nói thêm một điều rất liên quan đến việc này?
 
-ADEIMANTUS: How do you mean?
+ADEIMANTUS: Cụ thể là điều gì?
 
-SOCRATES: First of all, if our city has to ﬁght a city of the sort you men-
-tion, won’t it be a case of warrior-athletes ﬁghting rich men?
+SOCRATES: Hãy xem xét lại những người thợ thủ công khác, và nghĩ xem liệu (d) những thứ này có làm họ tha hóa đến mức thực sự trở nên tồi tệ hay không.
 
-ADEIMANTUS: Yes, it will.
+ADEIMANTUS: Những thứ gì cơ?
 
-SOCRATES: Well, then, Adeimantus, don’t you think that a single boxer
-who has had the best possible training could easily ﬁght two non-boxers
-who are rich and fat?
+SOCRATES: Sự giàu có và sự nghèo đói.
 
-ADEIMANTUS: Maybe not at the same time.
+ADEIMANTUS: Ý anh là sao?
 
-SOCRATES: Not even if he could start to run away and then turn and hit
-(c) the one who caught up with him ﬁrst, and could do this often, out in the
-stiﬂing heat of the sun? Couldn’t a man like that overcome even more than
-two such enemies?
+SOCRATES: Thế này nhé: anh có nghĩ một thợ gốm trở nên giàu có sẽ còn tận tâm với nghề của mình không?
 
-ADEIMANTUS: It certainly would not be surprising if he could.
+ADEIMANTUS: Hoàn toàn không.
 
-SOCRATES: Well, don’t you think that rich people have more knowledge
-and experience of boxing than of how to ﬁght a war?
+SOCRATES: Anh ta sẽ trở nên lười biếng và cẩu thả hơn trước chứ?
 
-ADEIMANTUS: I do.
+ADEIMANTUS: Hơn rất nhiều.
 
-SOCRATES: In all likelihood, then, our athletes will easily be able to ﬁght
-two or three times their number.
+SOCRATES: Vậy anh ta sẽ trở thành một thợ gốm tồi hơn?
 
-ADEIMANTUS: I will have to grant you that, since I think what you say is
-right.
-(d) SOCRATES: Well, then, what if they sent an envoy to another city with the
-following true message: “We use no gold or silver. It is against divine law
-for us to do so, but not for you. So join us in this war and you can have the
-property of our enemy.” Do you think that anyone who heard this message
-would choose to ﬁght hard, lean hounds, rather than to join the hounds in
-ﬁghting fat and tender sheep?
+ADEIMANTUS: Đúng, tồi hơn nhiều.
 
-ADEIMANTUS: No, I do not. But if the wealth of all other cities were
-(e) amassed by a single one, don’t you think that would endanger your non-
-wealthy city?
+SOCRATES: Và ngược lại, chắc chắn nếu sự nghèo đói ngăn cản anh ta sắm sửa dụng cụ, hay bất cứ thứ gì cần thiết cho nghề nghiệp của mình, anh ta sẽ làm ra những (e) sản phẩm kém chất lượng hơn, đồng thời đào tạo con cái hay bất cứ ai theo học mình thành những người thợ tồi hơn.
 
-SOCRATES: You are happily innocent if you think that any city besides the
-one we are constructing deserves to be called a city.
+ADEIMANTUS: Dĩ nhiên rồi.
 
-ADEIMANTUS: What should we call them, then?
+SOCRATES: Vậy là cả sự nghèo đói lẫn sự giàu có đều làm cho sản phẩm và người hành nghề trở nên tồi tệ hơn.
 
-SOCRATES: We will have to ﬁnd a “greater” title for the others because
-each of them is a great many cities, but not a city, as they say in the game.4
-They contain two, at any rate, which are at war with one another: the city
-(423a) of the poor and that of the rich. And within each of these, there are a great
-many more. So if you treat them as one city, you will be making a big mis-
-take. But if you treat them as many and offer one the money, power, and
-the very inhabitants of another, you will always ﬁnd many allies and few
-[4]: The reference is obscure; it may be to a saying or proverb, or to a game like check-
-ers called poleis, or cities, in which the set of pieces on each side, or perhaps any sub-
-set of them, were called cities, while the individual members of the sets were called
-dogs.
+ADEIMANTUS: Rõ ràng là vậy.
 
-enemies. And as long as your own city is temperately governed in the way
-we just arranged, it will be the greatest one—not in reputation; I do not
-mean that; but the greatest in fact—even if it has only a thousand soldiers to
-defend it. For you won’t easily ﬁnd one city so great among either Greeks
-or barbarians, though you will ﬁnd many that are reputed to be many times
-(b) greater. Or do you disagree?
+SOCRATES: Có vẻ như chúng ta lại tìm ra những thứ khác mà các *vệ binh* phải bằng mọi cách ngăn chặn không cho chúng lén lút xâm nhập vào *thành bang*.
 
-ADEIMANTUS: No, by Zeus, I do not.
+ADEIMANTUS: Đó là những thứ gì?
 
-SOCRATES: This, then, would also provide our rulers with the best limit
-for determining the proper size of the city, and how much land they should
-mark off for a city that size, letting the rest go.
+(422a) SOCRATES: Sự giàu có và sự nghèo đói. Bởi vì cái trước tạo ra sự xa hoa, lười biếng và nổi loạn; còn cái sau tạo ra sự bần tiện, công việc kém cỏi, và cũng dẫn đến nổi loạn.
 
-ADEIMANTUS: What limit is that?
+ADEIMANTUS: Đúng vậy. Nhưng hãy nghĩ xem, Socrates: *thành bang* của chúng ta sẽ chiến đấu ra sao nếu nó không tích lũy của cải, đặc biệt là nếu nó phải giao chiến với một *thành bang* lớn và giàu có?
 
-SOCRATES: I think it is this: as long as it is willing to remain one city, it
-may continue to grow, but not beyond that point.
-(c) ADEIMANTUS: And it is a good one.
+SOCRATES: Hiển nhiên là sẽ khó khăn nếu chỉ đánh với một *thành bang* như vậy, nhưng sẽ dễ dàng hơn (b) nếu đánh với hai.
 
-SOCRATES: Then we will also give our guardians this further order, that
-they are to guard in every possible way against the city’s being either small in
-size or great in reputation, rather than adequate in size and one in number.
+ADEIMANTUS: Ý anh là sao?
 
-ADEIMANTUS: No doubt, that will be a trivial instruction for them to follow!
+SOCRATES: Trước hết, nếu *thành bang* của chúng ta phải chiến đấu với kiểu *thành bang* mà anh vừa nhắc đến, thì chẳng phải đó sẽ là cuộc chiến giữa những chiến binh-lực sĩ với những kẻ nhà giàu sao?
 
-SOCRATES: Here is another that is even more trivial.We mentioned it ear-
-lier as well.5 We said that if an offspring of the guardians is inferior, he must
-be sent off to join the other citizens, and that if the others have an excellent
-(d) offspring, he must join the guardians. This was meant to make clear that
-every other citizen, too, must be assigned to what naturally suits him, with
-one person assigned to one job so that, practicing his own pursuit, each of
-them will become not many but one, and the entire city thereby naturally
-grow to be one, not many.
+ADEIMANTUS: Đúng là vậy.
 
-ADEIMANTUS: Oh, yes, that is a more minor one!
+SOCRATES: Vậy thì, Adeimantus, anh không nghĩ rằng một võ sĩ quyền anh duy nhất được huấn luyện bài bản nhất có thể dễ dàng đánh bại hai kẻ không biết võ thuật cộng lại giàu có và béo phệ sao?
 
-SOCRATES: Really, my good Adeimantus, the orders we are giving them
-are neither as numerous nor as difﬁcult as one would think. Indeed, they
-are all insigniﬁcant provided, as the saying goes, they safeguard the one
-great thing—or rather not great but adequate.6
-(e)
-ADEIMANTUS: What’s that?
+ADEIMANTUS: Có thể là không đánh cùng một lúc được.
 
-SOCRATES: Their education and upbringing. For if a good education
-makes them moderate men, they will easily discover all this for them-
-selves—and everything else that we are now omitting, such as the posses-
-sion of women, marriages, and the procreation of children, and how all
-[5]: 415a–c.
+SOCRATES: Kể cả khi anh ta có thể bỏ chạy trước, rồi quay lại giáng đòn (c) vào kẻ nào đuổi kịp mình đầu tiên, và làm điều này liên tục dưới cái nóng ngột ngạt của mặt trời sao? Một người như vậy chẳng lẽ không thể hạ gục nhiều hơn hai kẻ thù như thế?
 
-[6]: See 423c4.
+ADEIMANTUS: Chắc chắn sẽ không có gì đáng ngạc nhiên nếu anh ta làm được.
 
-(424a) these must be governed as far as possible by the old proverb that friends
-share everything in common.
+SOCRATES: Thế thì, anh có thấy rằng người giàu có, sẽ nhiều hiểu biết và kinh nghiệm về võ quyền anh còn [hiểu biết và kinh nghiệm] về cách tiến hành chiến tranh sẽ ít hơn [vì nó phức tạp hơn]?
 
-ADEIMANTUS: Yes, that would be best.
+ADEIMANTUS: Tôi đồng ý.
 
-SOCRATES: And surely once our constitution is well started, it will, as it
-were, go on growing in a circle. For good education and upbringing, if
-they are kept up, produce good natures; and sound natures, which in turn
-receive such an education, grow up even better than their predecessors in
-every respect—but particularly with respect to their offspring, as in the case
-(b) of all the other animals.
+SOCRATES: Vậy thì rất có khả năng, các lực sĩ của chúng ta sẽ dễ dàng đánh bại số lượng kẻ thù đông gấp hai hoặc ba lần họ.
 
-ADEIMANTUS: Yes, probably so.
+ADEIMANTUS: Tôi phải công nhận điều đó, vì tôi nghĩ anh nói đúng.
 
-SOCRATES: To put it brieﬂy, then, what the overseers of our city must
-cling to, not allow to become corrupted without their noticing it, and
-guard against everything, is this: there must be no innovation in musical or
-physical training that goes against the established order. On the contrary,
-they must guard against that as much as they can. And they should dread to
-hear anyone say that “people think most of the song that ﬂoats newest from
-the singer’s lips,”7 in case someone happens to suppose that the poet means
+(d) SOCRATES: Vậy thì, chuyện gì sẽ xảy ra nếu họ cử một sứ giả đến một *thành bang* khác với thông điệp chân thật sau: "Chúng tôi không sử dụng vàng hay bạc. Luật thần thánh cấm chúng tôi làm vậy, nhưng các bạn thì không. Vậy hãy tham gia cuộc chiến này cùng chúng tôi, và các bạn có thể lấy toàn bộ tài sản của kẻ thù." Anh có nghĩ bất cứ ai nghe được thông điệp này lại chọn đi chiến đấu với những con chó săn gầy gò, thiện chiến, thay vì gia nhập phe chó săn để ăn thịt bầy cừu béo ngậy và mềm yếu không?
 
-(c) not new songs, but a new way of singing, and praises that. We should not
-praise such a claim, however, or take it to be what the poet meant.You see,
-(a) change to a new kind of musical training is something to beware of as
-wholly dangerous. For one can never change the ways of training people in
-music without affecting the greatest political laws. That is what Damon
-says, and I am convinced he is right.
+ADEIMANTUS: Không, tôi không nghĩ vậy. Nhưng nếu của cải của tất cả các *thành bang* khác (e) đều được gom vào một nơi duy nhất, anh không nghĩ điều đó sẽ gây nguy hiểm cho *thành bang* không có của cải của anh sao?
 
-ADEIMANTUS: You can also count me among those who are convinced.
-(d) SOCRATES: It seems, then, that it is in musical training that the guardhouse
-of our guardians must surely be built.
+SOCRATES: Anh thật ngây thơ một cách vui vẻ nếu anh nghĩ rằng bất kỳ *thành bang* nào khác ngoài cái mà chúng ta đang xây dựng xứng đáng được gọi là một *thành bang*.
 
-ADEIMANTUS: At any rate, this sort of lawlessness easily inserts itself unde-
-tected.
+ADEIMANTUS: Vậy chúng ta nên gọi chúng là gì?
 
-SOCRATES: Yes, because it is supposed to be only part of a game that, as
-such, can do no harm.
+SOCRATES: Chúng ta sẽ phải tìm một danh xưng "vĩ mô" hơn cho những nơi đó, bởi vì mỗi nơi trong số chúng thực chất là vô số *thành bang* gộp lại chứ không phải là một, như người ta vẫn nói trong trò chơi.[4] Ít nhất thì chúng chứa đựng hai *thành bang* đang có chiến tranh với nhau: *thành bang* (423a) của người nghèo và *thành bang* của người giàu. Và bên trong mỗi cái đó lại có vô số nhóm nhỏ hơn nữa. Vì vậy, nếu anh coi chúng là một *thành bang* duy nhất, anh sẽ phạm sai lầm lớn. Nhưng nếu anh coi chúng là nhiều phe phái, và đề nghị trao cho phe này tiền bạc, quyền lực, và thậm chí cả sinh mạng của phe kia, anh sẽ luôn tìm được rất nhiều đồng minh và cực kỳ ít kẻ thù. Và chừng nào *thành bang* của anh còn được cai trị một cách có *liêm khiết[tiết chế]* (temperance) theo cách chúng ta vừa sắp xếp, nó sẽ là *thành bang* vĩ đại nhất, không phải về danh tiếng, ý tôi không phải vậy; mà là vĩ đại nhất trên thực tế, ngay cả khi nó chỉ có một ngàn binh lính bảo vệ. Bởi vì anh sẽ không dễ gì tìm được một *thành bang* vĩ đại như vậy trong số cả người Hy Lạp lẫn người man di, mặc dù anh sẽ thấy rất nhiều nơi được đồn đại là lớn hơn gấp nhiều lần. Hay anh không đồng ý? (b)
+<!!!!!!!!!!
+ADEIMANTUS: Không, nhân danh thần Zeus, tôi đồng ý.
 
-ADEIMANTUS: And it does not do any—except, of course, that when it has
-established itself there, it slowly and silently ﬂows over into people’s habits
-and practices. From these it travels forth with greater vigor into private
-contracts, and then from private contracts it advances with the utmost inso-
-(e) lence into the laws and constitution, Socrates, until in the end it overthrows
-everything public and private.
+SOCRATES: Vậy thì, điều này cũng sẽ cung cấp cho các nhà cai trị của chúng ta một giới hạn tốt nhất để xác định quy mô phù hợp của *thành bang*, và họ nên khoanh vùng bao nhiêu đất đai cho một *thành bang* cỡ đó, rồi bỏ qua phần còn lại.
 
-SOCRATES: Well, is that so?
+ADEIMANTUS: Giới hạn đó là gì?
 
-ADEIMANTUS: I think it is.
+SOCRATES: Tôi nghĩ là thế này: chừng nào nó còn sẵn sàng duy trì là một *thành bang* thống nhất, nó có thể tiếp tục phát triển, nhưng không được vượt quá giới hạn đó.
+(c) ADEIMANTUS: Một giới hạn rất hay.
 
-[7]: Odyssey 1.351–2. Our text of Homer is slightly different.
+SOCRATES: Vậy chúng ta cũng sẽ ban cho các *vệ binh* mệnh lệnh tiếp theo này: họ phải bằng mọi cách bảo vệ để *thành bang* không quá nhỏ bé về quy mô hay quá phô trương về danh tiếng, mà phải có quy mô vừa đủ và thống nhất là một.
 
-SOCRATES: Then, as we were saying at the beginning, our children must
-take part in games that are more law-abiding right from the start, since, if
-their games become lawless and the children follow suit, isn’t it impossible
-(425a) for them to grow up into excellent and law-abiding men?
+ADEIMANTUS: Không nghi ngờ gì nữa, đó sẽ là một chỉ thị quá đỗi nhỏ nhặt để họ làm theo!
 
-ADEIMANTUS: Of course.
+SOCRATES: Đây là một chỉ thị khác còn nhỏ nhặt hơn. Chúng ta cũng đã nhắc đến nó trước đây.[5] Chúng ta đã nói rằng nếu con cái của các *vệ binh* tỏ ra kém cỏi, nó phải được gửi đi để gia nhập cùng các công dân khác, và nếu những người khác sinh ra một đứa trẻ (d) xuất chúng, nó phải được gia nhập hàng ngũ *vệ binh*. Điều này nhằm làm rõ rằng mọi công dân khác cũng phải được phân công vào công việc phù hợp với bản chất tự nhiên của họ, mỗi người một việc, để khi thực hành nghề nghiệp của mình, mỗi người sẽ không bị phân tán thành nhiều mảnh mà trở thành một thể thống nhất, và nhờ đó toàn bộ *thành bang* cũng tự nhiên phát triển thành một khối thống nhất chứ không bị chia rẽ.
 
-SOCRATES: So whenever children play in a good way right from the start
-and absorb lawfulness from musical training, there is the opposite result:
-lawfulness follows them in everything and fosters their growth, correcting
-anything in the city that may have been neglected before.
+ADEIMANTUS: Ồ vâng, cái đó còn nhỏ nhặt hơn nữa!
 
-ADEIMANTUS: That’s true.
+SOCRATES: Thật ra, Adeimantus tốt bụng của tôi ơi, những mệnh lệnh chúng ta giao cho họ không hề nhiều hay khó khăn như người ta tưởng. Thực chất, tất cả chúng đều chẳng đáng kể gì, miễn là, như tục ngữ có câu, họ bảo vệ được một điều vĩ đại duy nhất, hay đúng hơn, không phải vĩ đại mà là đủ tốt.[6](e)
 
-SOCRATES: And so such people rediscover the seemingly insigniﬁcant
-conventional views their predecessors had destroyed.
+ADEIMANTUS: Đó là điều gì?
 
-ADEIMANTUS: Which sort?
+(424a) SOCRATES: Nền giáo dục và sự nuôi dưỡng của họ. Bởi vì nếu một nền giáo dục tốt tạo ra những con người chừng mực, họ sẽ dễ dàng tự mình khám phá ra tất cả những điều này, và cả mọi thứ khác mà chúng ta hiện đang bỏ qua, chẳng hạn như việc sở hữu phụ nữ, hôn nhân, việc sinh đẻ con cái, và cách tất cả những điều này phải được quản lý tối đa theo câu tục ngữ cổ rằng: bạn bè thì chia sẻ mọi thứ chung với nhau.
 
-SOCRATES: Those dealing with things like this: the silence appropriate for
-(b) younger people in the presence of their elders; the giving up of seats for
-them and standing up in their presence; the care of parents; hairstyles;
-clothing; shoes; the general appearance of the body; and everything else of
-that sort. Don’t you agree?
+ADEIMANTUS: Vâng, thế thì tốt nhất.
 
-ADEIMANTUS: I do.
+SOCRATES: Và chắc chắn một khi hiến pháp của chúng ta có một khởi đầu tốt, nó sẽ, có thể nói, tiếp tục phát triển theo một vòng tròn. Bởi vì nền giáo dục và sự nuôi dưỡng tốt, nếu được duy trì, sẽ tạo ra những bản chất tốt; và những bản chất lành mạnh, khi lại được tiếp nhận một nền giáo dục như vậy, sẽ lớn lên thậm chí còn tốt hơn các thế hệ trước về mọi mặt, đặc biệt là đối với con cái của họ, giống như trường hợp (b) của tất cả các loài động vật khác.
 
-SOCRATES: To legislate about such things is naïve, in my view, since verbal
-or written decrees will never make them come about or last.
+ADEIMANTUS: Vâng, có lẽ là vậy.
 
-ADEIMANTUS: How could they?
+(c) SOCRATES: Nói tóm lại, điều mà những người giám sát *thành bang* của chúng ta phải bám chặt lấy, không được để nó bị tha hóa mà họ không hay biết, và phải bảo vệ trước mọi thứ, chính là điều này: không được có bất kỳ sự đổi mới nào trong âm nhạc hay giáo dục thể chất đi ngược lại trật tự đã được thiết lập. Trái lại, họ phải canh chừng điều đó hết sức có thể. Và họ nên cảm thấy sợ hãi khi nghe ai đó nói rằng "người ta chuộng nhất bài hát mới nhất vừa cất lên từ môi ca sĩ,"[7] phòng khi có ai đó tình cờ cho rằng nhà thơ không ám chỉ những bài hát mới, mà là một cách hát mới, và ca ngợi điều đó. Tuy nhiên, chúng ta không nên ca ngợi một đòi hỏi như vậy, hay coi đó là ý của nhà thơ. Anh thấy đấy, việc thay đổi sang một loại hình giáo dục âm nhạc mới là điều phải hết sức dè chừng vì nó hoàn toàn nguy hiểm. Bởi vì người ta không bao giờ có thể thay đổi cách thức đào tạo âm nhạc mà không làm ảnh hưởng đến những đạo luật chính trị quan trọng nhất. Đó là những gì Damon nói, và tôi tin rằng ông ấy đúng.
 
-SOCRATES: At any rate, Adeimantus, it looks as though the start of some-
-(c) one’s education determines what follows. Or doesn’t like always encourage
-like?
+ADEIMANTUS: Anh cũng có thể coi tôi là một trong những người tin vào điều đó.
 
-ADEIMANTUS: It does.
+(d) SOCRATES: Có vẻ như, chính trong giáo dục âm nhạc mà trạm gác của các *vệ binh* chúng ta chắc chắn phải được xây dựng.
 
-SOCRATES: And the ﬁnal outcome of education, I imagine we would say,
-is a single, complete, and fresh product that is either good or the opposite.
+ADEIMANTUS: Dù sao thì, loại vô pháp luật này cũng rất dễ lén lút len lỏi vào.
 
-ADEIMANTUS: Of course.
+SOCRATES: Đúng vậy, bởi vì người ta tưởng nó chỉ là một phần của trò chơi, và vì thế, không thể gây ra tác hại gì.
 
-SOCRATES: That is why I, for my part, would not try to legislate about
-such things.
+ADEIMANTUS: Và nó đúng là không gây hại gì, ngoại trừ việc, dĩ nhiên, khi nó đã cắm rễ ở đó, nó sẽ từ từ và lặng lẽ chảy vào những thói quen và tập tục của con người. Từ đó, nó tiến tới với sức mạnh lớn hơn vào các hợp đồng tư nhân, và rồi từ các hợp đồng tư nhân, nó tiến công với sự xấc xược tột độ (e) vào luật pháp và hiến pháp, Socrates ạ, cho đến khi cuối cùng nó lật đổ mọi thứ từ công đến tư.
 
-ADEIMANTUS: And with good reason.
+SOCRATES: Chà, thật vậy sao?
 
-SOCRATES: Then, by the gods, what about all that marketplace business,
-the contracts people make with one another in the marketplace, for exam-
-(d) ple, and contracts with handicraftsmen, and slanders, injuries, indictments,
-establishing juries, paying or collecting whatever dues are necessary in mar-
-ketplace and harbors, and, in a word, the entire regulation of marketplace,
-city, harbor, or what have you—dare we legislate about any of these?
+ADEIMANTUS: Tôi nghĩ là vậy.
 
-ADEIMANTUS: No, it would not be appropriate to dictate to men who are
-ﬁne and good. For they will easily ﬁnd out for themselves whatever needs
-(e) to be legislated about such things.
+SOCRATES: Vậy thì, như chúng ta đã nói từ đầu, trẻ em của chúng ta phải tham gia vào những trò chơi tuân thủ luật lệ nghiêm ngặt hơn ngay từ lúc bắt đầu, bởi vì, nếu trò chơi của chúng trở nên vô pháp và lũ trẻ hùa theo, chẳng phải (425a) chúng sẽ không thể lớn lên thành những người đàn ông xuất sắc và tuân thủ pháp luật sao?
 
-SOCRATES: Yes, my friend, provided that a god grants that the laws we
-have already described are preserved intact.
+ADEIMANTUS: Dĩ nhiên rồi.
 
-ADEIMANTUS: If not, they will spend their lives continually enacting and
-amending such laws in the hope of ﬁnding what is best.
+SOCRATES: Vì vậy, bất cứ khi nào trẻ em vui chơi một cách đúng đắn ngay từ đầu và hấp thụ sự tuân thủ luật lệ từ giáo dục âm nhạc, kết quả sẽ ngược lại: sự tuân thủ luật lệ sẽ theo chúng trong mọi việc và nuôi dưỡng sự phát triển của chúng, sửa chữa bất cứ điều gì trong *thành bang* có thể đã bị bỏ bê trước đây.
 
-SOCRATES: You mean they will live like those sick people who, because
-they are intemperate, are not willing to abandon their bad way of life.
+ADEIMANTUS: Đúng là thế.
 
-ADEIMANTUS: That’s right.
-(426a) SOCRATES: Such people really do lead a charming life! Their medical
-treatment achieves nothing, except to make their illnesses worse and more
-complex, and they are always hoping that someone will recommend some
-new drug that will make them healthy.
+SOCRATES: Và nhờ vậy, những người như thế sẽ tái khám phá ra những quan điểm truyền thống tưởng chừng nhỏ nhặt mà thế hệ trước đã phá hủy.
 
-ADEIMANTUS: Yes, that’s exactly what happens to invalids of this sort.
+ADEIMANTUS: Đó là những loại nào?
 
-SOCRATES: And isn’t it another charming feature of theirs that they think
-their worst enemy of all is the one who tells them the truth—that until
-they give up drunkenness, overeating, sexual indulgence, and idleness, then
-(b) no drug, cautery, or surgery, no charms, amulets, or anything else of that
-sort will do them any good?
+SOCRATES: Những thứ liên quan đến các vấn đề như: sự im lặng đúng mực của (b) người trẻ trước mặt người lớn tuổi; việc nhường ghế và đứng lên khi người lớn xuất hiện; việc chăm sóc cha mẹ; kiểu tóc; quần áo; giày dép; diện mạo chung của cơ thể; và mọi thứ khác tương tự. Anh có đồng ý không?
 
-ADEIMANTUS: It is not charming at all. Being harsh to someone who tells
-the truth is not charming.
+ADEIMANTUS: Tôi đồng ý.
 
-SOCRATES: You do not approve of such men, apparently.
+SOCRATES: Theo quan điểm của tôi, việc lập pháp về những thứ như vậy là ngây thơ, vì những sắc lệnh bằng lời nói hay văn bản sẽ không bao giờ tạo ra được chúng hay làm chúng tồn tại lâu dài.
 
-ADEIMANTUS: No, by Zeus, I do not.
+ADEIMANTUS: Làm sao có thể chứ?
 
-SOCRATES: Then nor will you approve of an entire city that behaves in the
-way we were just describing. Or don’t you think that such invalids behave
-in the very same way as cities where the following occurs? Because they are
-badly governed politically, the citizens are warned not to change the city’s
-(c) whole political system, and the one who does is threatened with the death
-penalty. But the one who serves these cities most pleasantly, while they
-remain politically governed in that way; who indulges them, ﬂatters them,
-anticipates their wishes, and is clever at fulﬁlling them; isn’t he, on that
-account, honored by them as a good man who is wise in the most impor-
-tant matters?
+SOCRATES: Dù sao thì, Adeimantus, có vẻ như điểm khởi đầu trong (c) nền giáo dục của một người sẽ quyết định những gì diễn ra sau đó. Hay chẳng phải những thứ giống nhau luôn thu hút lẫn nhau sao?
 
-ADEIMANTUS: Yes, I think their behavior is the same and I do not approve
-of it at all.
+ADEIMANTUS: Đúng vậy.
 
-SOCRATES: What about those who are willing and eager to provide treat-
-(d) ment for such cities? Don’t you approve of their courage and also their
-lighthearted irresponsibility?
+SOCRATES: Và kết quả cuối cùng của giáo dục, tôi hình dung chúng ta sẽ nói, là một sản phẩm duy nhất, hoàn thiện và mới mẻ, có thể là tốt hoặc ngược lại.
 
-ADEIMANTUS: I do indeed—except for those who are actually deluded
-and suppose themselves to be true men of politics because they are praised
-by the masses.
+ADEIMANTUS: Dĩ nhiên.
 
-SOCRATES: What do you mean? Have you no sympathy for these men? Or
-do you think it is possible for a man who does not know how to measure
-anything not to believe that he is four cubits tall8 when many others, who
-(e) are similarly ignorant, tell him that he is?
+SOCRATES: Đó là lý do tại sao, về phần mình, tôi sẽ không cố gắng lập pháp về những thứ như vậy.
 
-ADEIMANTUS: No, I do not think that.
+ADEIMANTUS: Rất có lý.
 
-SOCRATES: Then do not be too hard on them.You see, such people are
-surely the most charming of all.They pass and amend the sorts of laws we
-(a) have just been describing, and are always expecting that they will ﬁnd
-way to put a stop to cheating on contracts, and the other evildoings I
-(a) mentioned just now, not realizing that they are really just cutting off
-Hydra’s head.9
-(427a) ADEIMANTUS: Yet that is all they are really doing.
+SOCRATES: Vậy thì, nhân danh các vị thần, còn tất cả những công việc kinh doanh ngoài chợ, ví dụ như các hợp đồng người ta ký kết với nhau ở chợ (d), và các hợp đồng với thợ thủ công, rồi những vụ vu khống, gây thương tích, khởi kiện, thành lập bồi thẩm đoàn, trả hay thu bất kỳ khoản phí nào cần thiết ở chợ và bến cảng, và nói tóm lại, toàn bộ việc quy định về chợ, *thành bang*, bến cảng, hay bất cứ thứ gì tương tự, chúng ta có dám lập pháp về bất kỳ điều nào trong số này không?
 
-SOCRATES: I would have thought, then, that a true lawgiver should not
-bother with laws or constitutions of this kind, whether in a politically badly
-governed or in a politically well-governed city—in the one because it is
-useless and accomplishes nothing; in the other because some of them are
-discoverable by anyone, while the others follow automatically from the
-practices already described.
-(b) ADEIMANTUS: What remains for us to legislate, then?
+ADEIMANTUS: Không, sẽ không thích hợp nếu ra lệnh cho những người đàn ông tử tế và tốt bụng. Bởi vì họ sẽ dễ dàng tự mình tìm ra bất cứ điều gì cần (e) được lập pháp về những vấn đề đó.
 
-SOCRATES: For us, nothing; but for the Delphic Apollo, there remain the
-greatest, ﬁnest, and ﬁrst of legislations.
+SOCRATES: Đúng vậy, anh bạn, miễn là thần linh ban cho các đạo luật mà chúng ta đã mô tả được giữ gìn nguyên vẹn.
 
-ADEIMANTUS: What are they about?
+ADEIMANTUS: Nếu không, họ sẽ dành cả đời liên tục ban hành và sửa đổi những đạo luật như vậy với hy vọng tìm ra điều tốt nhất.
 
-SOCRATES: The establishing of temples and sacriﬁces, and other forms of
-service to gods, daimons, and heroes; the burial of the dead, and the ser-
-vices that ensure the favor of those who have gone to the other world. For
-we, of course, have no knowledge of these things and so, when we are
-founding a city, we won’t take anyone else’s advice, if we have any sense, or
-(c) employ any interpreter except our ancestral one. And in fact, this god—as
-he delivers his interpretations from his seat at the navel of the earth10—is
-the ancestral guide on these matters for the whole human race.
+SOCRATES: Ý anh là họ sẽ sống giống như những kẻ ốm đau, vì không biết *tiết chế*, nên không chịu từ bỏ lối sống tồi tệ của mình.
 
-ADEIMANTUS: Well put.That is what we must do.
+ADEIMANTUS: Đúng vậy.
 
-[8]: Roughly seven feet.A cubit is between seventeen and twenty-two inches long.
+(426a) SOCRATES: Những người như thế quả thực có một cuộc sống thật "quyến rũ"! Quá trình điều trị y tế của họ chẳng đạt được gì, ngoại trừ việc làm cho bệnh tình của họ tồi tệ và phức tạp hơn, và họ luôn hy vọng rằng ai đó sẽ giới thiệu một loại thuốc mới giúp họ khỏe lại.
 
-[9]: The Hydra was a mythical monster.When one of its heads was cut off, two or three
-new heads grew in its place. Heracles (or Hercules) had to slay the Hydra as one of
-his labors.
+ADEIMANTUS: Vâng, đó chính xác là những gì xảy ra với những bệnh nhân kiểu này.
 
-[10]: The oracle of Apollo at Delphi was traditionally consulted by all Greeks on reli-
-gious and other such matters.A stone there marked the supposed center of the earth.
+SOCRATES: Và chẳng phải một đặc điểm "quyến rũ" khác của họ là họ nghĩ kẻ thù tồi tệ nhất của mình chính là người nói cho họ biết sự thật, rằng cho đến khi họ từ bỏ thói say sưa, ăn uống vô độ, đam mê nhục dục và lười biếng, thì (b) không có loại thuốc, phương pháp đốt điện, hay phẫu thuật nào, không có bùa chú, bùa hộ mệnh, hay bất cứ thứ gì tương tự có thể giúp ích cho họ sao?
 
-SOCRATES: So then, son of Ariston, your city would now seem to be
-(d) founded. As the next step, look inside it, having got hold of an adequate
-light somewhere. Look yourself and invite your brother and Polemarchus
-and the rest of us to help you, to see where justice and injustice might be in
-it, how they differ from one another, and which of the two must be pos-
-sessed by the person who is going to be happy, whether that fact is hidden
-from all gods and humans or not.
+ADEIMANTUS: Chẳng quyến rũ chút nào. Tỏ ra gay gắt với người nói sự thật thì không hề quyến rũ.
 
-> *And Glaucon said:*
-That’s nonsense! You promised you would look for them yourself, because
-(e) you said it was impious for you not to defend justice in every way you
-could.11
-SOCRATES: You are right to remind me, and I must do what I promised.
+SOCRATES: Có vẻ như anh không tán thành những người như vậy.
 
-But you will have to help.
+ADEIMANTUS: Không, nhân danh thần Zeus, tôi không tán thành.
 
-GLAUCON: We will.
+SOCRATES: Vậy thì anh cũng sẽ không tán thành một toàn bộ *thành bang* hành xử theo cách chúng ta vừa mô tả. Hay anh không nghĩ rằng những bệnh nhân như vậy hành xử y hệt như những *thành bang* nơi xảy ra điều sau đây? Bởi vì chúng bị cai trị tồi tệ về mặt chính trị, các công dân bị cảnh báo không được thay đổi toàn bộ hệ thống chính trị của (c) *thành bang*, và kẻ nào làm vậy sẽ bị đe dọa bằng án tử hình. Nhưng kẻ nào phục vụ những *thành bang* này một cách dễ chịu nhất, trong khi chúng vẫn bị cai trị chính trị theo cách đó; kẻ nào nuông chiều họ, tâng bốc họ, đoán trước mong muốn của họ, và khéo léo đáp ứng chúng; chẳng phải kẻ đó, vì lý do ấy, lại được họ tôn vinh là một người tốt và khôn ngoan trong những vấn đề quan trọng nhất sao?
 
-SOCRATES: I expect, then, to ﬁnd justice in the following way. I think our
-city, if indeed it has been correctly founded, is completely good.
+ADEIMANTUS: Vâng, tôi nghĩ hành vi của họ là giống nhau và tôi hoàn toàn không tán thành điều đó.
 
-GLAUCON: Yes, it must be.
+SOCRATES: Còn những kẻ sẵn sàng và háo hức cung cấp phương pháp điều trị (d) cho những *thành bang* như vậy thì sao? Anh không tán thành lòng dũng cảm và cả sự vô trách nhiệm nhẹ dạ của họ sao?
 
-SOCRATES: Clearly, then, it is wise, courageous, temperate, and just.
+ADEIMANTUS: Tôi có tán thành, ngoại trừ những kẻ thực sự bị ảo tưởng và cho rằng mình là những chính trị gia đích thực chỉ vì họ được đám đông ca ngợi.
 
-GLAUCON: Clearly.
+SOCRATES: Ý anh là sao? Anh không có chút thông cảm nào cho những người này ư? Hay anh nghĩ rằng một người không biết cách đo lường bất cứ thứ gì lại có thể không tin rằng mình cao bốn cubit[8] khi có rất nhiều người khác, những kẻ (e) cũng ngu dốt tương tự, nói với anh ta như vậy?
 
-SOCRATES: Then if we ﬁnd any of these in it, what remains will be what
-we have not found?
-(428a) GLAUCON: Of course.
+ADEIMANTUS: Không, tôi không nghĩ thế.
 
-SOCRATES: Therefore, as in the case of any other four things, if we were
-looking for one of them in something and recognized it ﬁrst, that would be
-enough to satisfy us. But if we recognized the other three ﬁrst, that itself
-would enable us to recognize what we were looking for, since clearly it
-could not be anything other than the one that remains.
+SOCRATES: Vậy thì đừng quá khắt khe với họ. Anh thấy đấy, những người như vậy chắc chắn là những kẻ "quyến rũ" nhất. Họ thông qua và sửa đổi các loại luật mà chúng ta vừa mô tả, và luôn mong đợi rằng họ sẽ tìm ra cách chấm dứt nạn gian lận hợp đồng, và những hành vi xấu xa khác mà tôi vừa đề cập, mà không nhận ra rằng họ thực chất chỉ đang chặt đầu một con quái vật Hydra.[9]
 
-GLAUCON: That’s right.
+(427a) ADEIMANTUS: Tuy nhiên, đó là tất cả những gì họ thực sự đang làm.
 
-SOCRATES: So, since there also happen to be four things we are interested
-in, mustn’t we look for them in the same way?
+SOCRATES: Vậy thì, tôi cho rằng, một nhà lập pháp chân chính không nên bận tâm đến những luật lệ hay hiến pháp kiểu này, dù là trong một *thành bang* bị cai trị tồi tệ hay một *thành bang* được cai trị tốt, ở nơi thứ nhất vì nó vô dụng và chẳng giải quyết được gì; ở nơi thứ hai vì một số luật bất kỳ ai cũng có thể tự khám phá ra, trong khi những luật khác sẽ tự động tuân theo các tập tục đã được mô tả.
+(b) ADEIMANTUS: Vậy còn lại gì để chúng ta lập pháp đây?
 
-GLAUCON: Clearly.
+SOCRATES: Đối với chúng ta thì không còn gì; nhưng đối với thần Apollo ở Delphi, vẫn còn những đạo luật vĩ đại nhất, tốt đẹp nhất và quan trọng nhất.
 
-SOCRATES: Now, the ﬁrst thing I think I can see clearly in the city is wis-
-(b) dom. And there seems to be something odd about it.
+ADEIMANTUS: Chúng về vấn đề gì?
 
-GLAUCON: What?
-[11]: 368b7–c3.
+SOCRATES: Việc xây dựng đền thờ và tế lễ, cùng các hình thức phục vụ khác cho thần linh, á thần và các anh hùng; việc chôn cất người chết, và các nghi lễ để đảm bảo sự ưu ái của những người đã sang thế giới bên kia. Bởi vì chúng ta, dĩ nhiên, không có kiến thức về những điều này, vì vậy, khi thành lập một *thành bang*, chúng ta sẽ không nghe theo lời khuyên của bất kỳ ai khác, nếu chúng ta có hiểu biết, hoặc (c) không sử dụng bất kỳ người diễn giải nào ngoại trừ người diễn giải truyền thống của tổ tiên chúng ta. Và trên thực tế, vị thần này, khi ngài đưa ra những lời diễn giải từ ngai vàng của mình tại rốn của trái đất[10], chính là người dẫn đường truyền thống trong những vấn đề này cho toàn thể nhân loại.
 
-SOCRATES: I think that the city we described is really wise. And that is
-because it is prudent,12 isn’t it?
+ADEIMANTUS: Nói rất hay. Đó là những gì chúng ta phải làm.
 
-GLAUCON: Yes.
+(d) SOCRATES: Vậy thì, hỡi con trai của Ariston, *thành bang* của anh giờ đây có vẻ như đã được thành lập. Bước tiếp theo, hãy nhìn vào bên trong nó, sau khi đã kiếm được một nguồn sáng đủ tốt ở đâu đó. Tự anh hãy nhìn và mời anh trai anh, Polemarchus, cùng phần còn lại của chúng tôi giúp anh, để xem *điều đúng* và *điều sai* có thể nằm ở đâu trong đó, chúng khác nhau như thế nào, và người muốn có hạnh phúc thì phải sở hữu điều nào trong hai điều đó, bất kể sự thật ấy có bị che giấu khỏi mọi thần linh và con người hay không.
 
-SOCRATES: And surely it is clear that this very thing, prudence, is some
-sort of knowledge. I mean, it certainly is not through ignorance that people
-do the prudent thing, but through knowledge.
+> *Và Glaucon nói:*
 
-GLAUCON: Clearly.
+Thật vô lý! Anh đã hứa sẽ tự mình tìm kiếm chúng, bởi vì (e) anh nói rằng sẽ là bất kính nếu anh không bảo vệ *điều đúng* bằng mọi cách có thể.[11]
 
-SOCRATES: But there are, of course, many multifarious sorts of knowledge
-in the city.
+SOCRATES: Anh nhắc tôi rất đúng, và tôi phải làm những gì mình đã hứa. Nhưng anh sẽ phải giúp tôi.
 
-GLAUCON: Certainly.
+GLAUCON: Chúng tôi sẽ giúp.
 
-SOCRATES: So, is it because of the knowledge possessed by the carpenters
-that the city deserves to be described as wise and prudent?
-(c) GLAUCON: Not at all. It is called skilled in carpentry because of that.
+SOCRATES: Vậy thì, tôi dự định sẽ tìm ra *điều đúng* theo cách sau. Tôi nghĩ *thành bang* của chúng ta, nếu thực sự nó đã được thành lập một cách đúng đắn, thì nó hoàn toàn tốt đẹp.
 
-SOCRATES: So a city shouldn’t be called wise because it has the knowledge
-that deliberates about how wooden things can be best.
+GLAUCON: Vâng, chắc chắn là vậy.
 
-GLAUCON: Certainly not.
+SOCRATES: Vậy thì rõ ràng, nó khôn ngoan, dũng cảm, có *tiết chế* và có *điều đúng*.
 
-SOCRATES: What about this, then? What about the knowledge of things
-made of bronze, or anything else of that sort?
+GLAUCON: Rõ ràng.
 
-GLAUCON: Not anything of that sort either.
+SOCRATES: Vậy nếu chúng ta tìm thấy bất kỳ phẩm chất nào trong số này ở đó, thì phần còn lại sẽ chính là cái chúng ta chưa tìm thấy?
 
-SOCRATES: And not the knowledge of how to produce crops from the
-soil. On the contrary, it is skilled in farming because of that.
+(428a) GLAUCON: Dĩ nhiên.
 
-GLAUCON: That’s my view.
+SOCRATES: Do đó, giống như trường hợp của bất kỳ bốn thứ nào khác, nếu chúng ta đang tìm kiếm một trong số chúng bên trong một thứ gì đó và nhận ra nó đầu tiên, thế là đủ để chúng ta hài lòng. Nhưng nếu chúng ta nhận ra ba thứ kia trước, thì chính điều đó sẽ cho phép chúng ta nhận ra thứ mình đang tìm kiếm, vì rõ ràng nó không thể là gì khác ngoài cái còn lại.
 
-SOCRATES: Then is there some knowledge in the city we have just
-founded, which some of its citizens have, that does not deliberate about
-(d) some particular thing in the city, but about the city as a whole, and about
-how its internal relations and its relations with other cities will be the best
-possible.
+GLAUCON: Đúng vậy.
 
-GLAUCON: There is indeed.
+SOCRATES: Vậy, vì cũng tình cờ có bốn thứ mà chúng ta đang quan tâm, chẳng phải chúng ta cũng phải tìm kiếm chúng theo cùng một cách sao?
 
-SOCRATES: What is it and who has it?
+GLAUCON: Rõ ràng rồi.
 
-GLAUCON: It is the craft of guardianship. And the ones who possess it are
-those rulers we just now called complete guardians.13
-SOCRATES: Because it has this knowledge, then, how do you describe the
-city?
+SOCRATES: Bây giờ, thứ đầu tiên tôi nghĩ mình có thể nhìn thấy rõ ràng trong *thành bang* là *sự khôn ngoan* (wisdom) (b). Và dường như có điều gì đó kỳ lạ về nó.
 
-[12]: Euboulos: In Greek cities, the boulê was the council that had day-to-day responsi-
-bility for public affairs. In kingships it served as an advisory body to the kings; in
-democratic Athens it served as an advisory body and steering committee for the
-assembly of all the adult male citizens.
-[13]: 414b1–6.
+GLAUCON: Là gì vậy?
 
-GLAUCON: As prudent and really wise.
+SOCRATES: Tôi nghĩ rằng *thành bang* mà chúng ta mô tả thực sự khôn ngoan. Và đó là vì nó thận trọng,[12] đúng không?
 
-SOCRATES: Now, do you think that there will be more metalworkers in
-(e) the city, or more of these true guardians?
+GLAUCON: Vâng.
 
-GLAUCON: There will be far more metalworkers.
+SOCRATES: Và chắc chắn rõ ràng là chính điều này, sự thận trọng, là một loại kiến thức nào đó. Ý tôi là, chắc chắn không phải do ngu dốt mà người ta làm điều thận trọng, mà là nhờ kiến thức.
 
-SOCRATES: Of all those who are called by a certain name because they
-have some sort of knowledge, wouldn’t the true guardians be the fewest in
-number?
+GLAUCON: Rõ ràng.
 
-GLAUCON: By far.
+SOCRATES: Nhưng dĩ nhiên, có rất nhiều loại kiến thức đa dạng trong *thành bang*.
 
-SOCRATES: So, it is because of the smallest group or part of itself, and the
-knowledge that is in it—the part that governs and rules—that a city
-founded according to nature would be wise as a whole. And this class—
-which seems to be, by nature, the smallest—is the one that inherently pos-
-(429a) sesses a share of the knowledge that alone among all the other sorts of
-knowledge should be called wisdom.
+GLAUCON: Chắc chắn rồi.
 
-GLAUCON: That’s absolutely true.
+SOCRATES: Vậy, có phải vì kiến thức mà những người thợ mộc sở hữu mà *thành bang* xứng đáng được miêu tả là khôn ngoan và thận trọng không?
+(c) GLAUCON: Hoàn toàn không. Nó được gọi là giỏi nghề mộc vì điều đó.
 
-SOCRATES: So we have found—though I do not know how—this one of
-the four and its place in the city, too.
+SOCRATES: Vậy một *thành bang* không nên được gọi là khôn ngoan vì nó có kiến thức để cân nhắc xem làm thế nào để các đồ vật bằng gỗ trở nên tốt nhất.
 
-GLAUCON: It seems to me, at least, that it has been well and truly found.
+GLAUCON: Chắc chắn là không.
 
-SOCRATES: But surely courage and the part of the city it is in, and because
-of which the city is described as courageous, is not very difﬁcult to spot.
+SOCRATES: Vậy còn điều này thì sao? Còn kiến thức về những đồ vật làm bằng đồng, hay bất cứ thứ gì khác tương tự?
 
-GLAUCON: How so?
-(b) SOCRATES: Who would describe a city as cowardly or courageous by
-looking at anything other than that part which defends it and wages war on
-its behalf?
+GLAUCON: Cũng không phải bất cứ thứ gì loại đó.
 
-GLAUCON: No one would look at anything else.
+SOCRATES: Và không phải kiến thức về cách tạo ra mùa màng từ đất đai. Trái lại, nó giỏi nghề nông là vì điều đó.
 
-SOCRATES: Because, I take it, whether the others are courageous or cow-
-ardly doesn’t make it one or the other.
+GLAUCON: Tôi cũng nghĩ vậy.
 
-GLAUCON: No, it doesn’t.
+SOCRATES: Vậy có một loại kiến thức nào đó trong *thành bang* chúng ta vừa thành lập, mà một số công dân của nó sở hữu, không dùng để cân nhắc về (d) một thứ cụ thể nào đó trong *thành bang*, mà là về toàn bộ *thành bang*, và về cách thức để các mối quan hệ nội bộ cũng như quan hệ của nó với các *thành bang* khác trở nên tốt nhất có thể không?
 
-SOCRATES: So courage, too, belongs to a city because of a part of itself—
-because it has in that part the power to preserve through everything its
-belief that the things, and the sorts of things, that should inspire terror are
-(c) the very things, and sorts of things, that the lawgiver declared to be such in
-the course of educating it. Or don’t you call that courage?
+GLAUCON: Thực sự là có.
 
-GLAUCON: I do not completely understand what you said. Would you
-mind repeating it?
+SOCRATES: Đó là gì và ai sở hữu nó?
 
-SOCRATES: I mean that courage is a sort of preservation.
+GLAUCON: Đó là kỹ năng của sự bảo vệ. Và những người sở hữu nó chính là những nhà cai trị mà chúng ta vừa gọi là những *vệ binh* hoàn thiện.[13]
 
-GLAUCON: What sort of preservation?
+SOCRATES: Vậy vì nó có kiến thức này, anh miêu tả *thành bang* như thế nào?
 
-SOCRATES: The preservation of the belief, inculcated by the law through
-education, about what things, and what sorts of things, inspire terror. And
-by its preservation “through everything,” I mean preserving it though pains,
-(d) pleasures, appetites, and fears and not abandoning it. I will compare it to
-something I think it resembles, if you like.
+GLAUCON: Là thận trọng và thực sự khôn ngoan.
 
-GLAUCON: I would like that.
+SOCRATES: Bây giờ, anh nghĩ sẽ có nhiều thợ kim loại hơn (e) trong *thành bang*, hay nhiều những *vệ binh* đích thực này hơn?
 
-SOCRATES: You know, then, that when dyers want to dye wool purple,
-they ﬁrst select from wools of many different colors the ones that are natu-
-rally white.Then they give them an elaborate preparatory treatment, so that
-they will accept the color as well as possible. And only at that point do they
-dip them in the purple dye. When something is dyed in this way, it holds
-(e) the dye fast, and no amount of washing, whether with or without deter-
-gent, can remove the color. But you also know what happens when things
-are not dyed in this way, when one dyes wools of other colors, or even
-these white ones, without preparatory treatment.
+GLAUCON: Sẽ có nhiều thợ kim loại hơn rất nhiều.
 
-GLAUCON: I know they look washed out and ridiculous.
+SOCRATES: Trong số tất cả những người được gọi bằng một cái tên nhất định vì họ có một loại kiến thức nào đó, chẳng phải những *vệ binh* đích thực sẽ là nhóm ít người nhất sao?
 
-SOCRATES: You should take it, then, that we too were trying as hard as we
-could to do something similar when we selected our soldiers and educated
-them in musical and physical training. It was contrived, you should sup-
-(430a) pose, for no purpose other than to ensure that—persuaded by us—they
-would absorb the laws in the best possible way, just like wool does a dye;
-that as a result, their beliefs about what things should inspire terror, and
-about everything else, would hold fast because they had the proper nature
-and rearing; so fast that the dye could not be washed out even by those
-detergents that are so terribly effective at scouring—pleasure, which is
-much more terribly effective at this than any chalestrian14 or alkali, and
-(b) pain and fear and appetite, which are worse than any detergent.This power,
-then, to preserve through everything the correct and law-inculcated belief
-about what should inspire terror and what should not is what I, at any rate,
-call courage. And I will assume it is this, unless you object.
+GLAUCON: Ít hơn rất nhiều.
 
-GLAUCON: No, I have no objection. For I presume that the sort of correct
-belief about these same matters that you ﬁnd in animals and slaves, which is
-not the result of education and has nothing at all to do with law, is called
-something other than courage.
-(c) SOCRATES: You are absolutely right.
+SOCRATES: Vậy, chính nhờ nhóm hoặc bộ phận nhỏ nhất của mình, và kiến thức nằm trong đó, bộ phận quản lý và cai trị, mà một *thành bang* được thành lập theo tự nhiên sẽ khôn ngoan về mặt tổng thể. Và giai cấp này, giai cấp dường như, theo tự nhiên, là nhỏ nhất, chính là giai cấp vốn dĩ sở hữu một phần của loại kiến thức mà, duy nhất trong số tất cả các loại kiến thức khác, xứng đáng được gọi là *sự khôn ngoan*.(429a)
 
-GLAUCON: Well, then, I accept your account of courage.
+GLAUCON: Điều đó hoàn toàn đúng.
 
-SOCRATES: Yes, do accept it, at any rate, as my account of political courage,
-and you will be right to accept it. If you like, we will discuss that more fully
-some other time.You see, at the moment, our inquiry is not about courage
-[14]: Carbonate of soda from Chalestra, a town and lake in Macedonia.
+SOCRATES: Vậy là chúng ta đã tìm thấy, dù tôi không biết bằng cách nào, một trong bốn thứ này và cả vị trí của nó trong *thành bang* nữa.
 
-but about justice. And for the purpose of that inquiry, I think that what we
-have said is sufﬁcient.
+GLAUCON: Ít nhất thì đối với tôi, có vẻ như nó đã được tìm thấy một cách tốt đẹp và đích thực.
 
-GLAUCON: You are right.
+SOCRATES: Nhưng chắc chắn *lòng dũng cảm* (courage) và bộ phận của *thành bang* chứa đựng nó, và nhờ đó *thành bang* được miêu tả là dũng cảm, không quá khó để nhận ra.
 
-SOCRATES: Two things, then, remain for us to ﬁnd in the city: temper-
-ance15 and—the goal of our entire inquiry—justice.
-(d)
-GLAUCON: Yes, indeed.
+GLAUCON: Bằng cách nào?
+(b) SOCRATES: Ai lại miêu tả một *thành bang* là hèn nhát hay dũng cảm bằng cách nhìn vào bất cứ thứ gì khác ngoài bộ phận bảo vệ nó và tiến hành chiến tranh thay cho nó?
 
-SOCRATES: How could we ﬁnd justice, then, so we won’t have to bother
-with temperance any further?
+GLAUCON: Sẽ chẳng ai nhìn vào bất cứ thứ gì khác.
 
-GLAUCON: Well I, for my part, do not know of any, nor would I want jus-
-tice to appear ﬁrst if that means that we are not going to investigate tem-
-perance any further. So if you want to please me, look for it before the
-other.
+SOCRATES: Bởi vì, tôi cho rằng, việc những người khác dũng cảm hay hèn nhát không làm cho nó trở thành thế này hay thế kia.
 
-SOCRATES: Of course I want to. It would be wrong not to.16
-(e)
-GLAUCON: Go ahead and look, then.
+GLAUCON: Không, không hề.
 
-SOCRATES: I will.And seen from here, it is more like a sort of concord and
-harmony than the previous ones.
+SOCRATES: Vậy *lòng dũng cảm* cũng thuộc về một *thành bang* nhờ vào một bộ phận của nó, bởi vì trong bộ phận đó, nó có sức mạnh để bảo tồn qua mọi hoàn cảnh niềm tin của mình rằng những thứ, và những loại thứ, nên gây ra sự khiếp sợ chính là (c) những thứ, và những loại thứ, mà nhà lập pháp đã tuyên bố là như vậy trong quá trình giáo dục nó. Hay anh không gọi đó là *lòng dũng cảm*?
 
-GLAUCON: How so?
+GLAUCON: Tôi không hoàn toàn hiểu những gì anh nói. Anh có phiền nhắc lại không?
 
-SOCRATES: Temperance is surely a sort of order, the mastery of certain
-sorts of pleasures and appetites. People indicate as much when they use the
-term “self-mastery”—though I do not know in what way. This and other
-similar things are like tracks that temperance has left. Isn’t that so?
+SOCRATES: Ý tôi là *lòng dũng cảm* là một loại bảo tồn.
 
-GLAUCON: Absolutely.
+GLAUCON: Loại bảo tồn gì?
 
-SOCRATES: Isn’t the term “self-mastery” ridiculous, though? For, of
-course, the one who is master of himself is also the one who is weaker, and
-the one who is weaker is also the one who masters. After all, the same per-
-(431a) son is referred to in all these descriptions.
+SOCRATES: Sự bảo tồn niềm tin, được luật pháp khắc sâu thông qua giáo dục, về những thứ, và những loại thứ gì, gây ra sự khiếp sợ. Và khi nói bảo tồn nó "qua mọi hoàn cảnh," ý tôi là bảo tồn nó qua những nỗi đau, (d) khoái lạc, *bản năng* (appetites), và nỗi sợ hãi mà không từ bỏ nó. Tôi sẽ so sánh nó với một thứ mà tôi nghĩ nó giống, nếu anh muốn.
 
-GLAUCON: Of course.
+GLAUCON: Tôi rất muốn.
 
-SOCRATES: It seems to me, however, that what this term is trying to indi-
-cate is that within the same person’s soul, there is a better thing and a worse
-one. Whenever the naturally better one masters the worse, this is called
-being master of oneself. At any rate, it is praised. But whenever, as a result
-of bad upbringing or associating with bad people, the smaller and better
-one is mastered by the inferior majority, this is blamed as a disgraceful thing
-(b) and is called being weaker than oneself, or being intemperate.
+SOCRATES: Anh biết đấy, khi thợ nhuộm muốn nhuộm len màu tím, trước tiên họ chọn ra từ những loại len có nhiều màu sắc khác nhau những sợi có màu trắng tự nhiên. Sau đó, họ xử lý sơ bộ chúng một cách công phu, để chúng có thể thấm màu tốt nhất có thể. Và chỉ đến lúc đó họ mới nhúng chúng vào thuốc nhuộm tím. Khi một thứ được nhuộm theo cách này, nó giữ (e) màu rất chặt, và không một lượng nước giặt nào, dù có hay không có chất tẩy rửa, có thể làm phai màu. Nhưng anh cũng biết chuyện gì xảy ra khi mọi thứ không được nhuộm theo cách này, khi người ta nhuộm len màu khác, hoặc thậm chí là len trắng, mà không qua xử lý sơ bộ.
 
-GLAUCON: Yes, that seems plausible.
+GLAUCON: Tôi biết chúng trông sẽ nhợt nhạt và nực cười.
 
-[15]: See Glossary of Terms s.v. temperance.
+SOCRATES: Vậy anh nên hiểu rằng, chúng ta cũng đang cố gắng hết sức để làm một điều tương tự khi chúng ta tuyển chọn binh lính và giáo dục họ về âm nhạc và thể chất. (430a) Anh nên cho rằng, điều đó được sắp đặt không vì mục đích nào khác ngoài việc đảm bảo rằng, bị chúng ta thuyết phục, họ sẽ hấp thụ luật pháp một cách tốt nhất có thể, giống như len thấm thuốc nhuộm; để kết quả là, niềm tin của họ về những thứ nên gây khiếp sợ, và về mọi thứ khác, sẽ bám chặt vì họ có bản chất và sự nuôi dưỡng phù hợp; chặt đến mức màu nhuộm đó không thể bị gột rửa ngay cả bởi những chất tẩy rửa có sức mạnh cọ xát khủng khiếp, đó là khoái lạc, thứ tẩy rửa khủng khiếp hơn bất kỳ loại chalestrian[14] hay kiềm nào, và (b) nỗi đau, sự sợ hãi cùng *bản năng*, những thứ còn tệ hơn bất kỳ chất tẩy rửa nào. Sức mạnh này, do đó, để bảo tồn qua mọi hoàn cảnh niềm tin đúng đắn và do luật pháp khắc sâu về những gì nên gây khiếp sợ và những gì không, chính là cái mà ít nhất là tôi, gọi là *lòng dũng cảm*. Và tôi sẽ giả định nó là như vậy, trừ khi anh phản đối.
 
-[16]: See 427d8–e4.
+GLAUCON: Không, tôi không có phản đối nào. Bởi vì tôi cho rằng loại niềm tin đúng đắn về những vấn đề tương tự mà anh tìm thấy ở động vật và nô lệ, vốn không phải là kết quả của giáo dục và hoàn toàn không liên quan gì đến luật pháp, được gọi là một thứ gì đó khác chứ không phải *lòng dũng cảm*.
+(c) SOCRATES: Anh hoàn toàn đúng.
 
-SOCRATES: Now, then, take a look at our new city and you will ﬁnd one
-of these conditions present in it. For you will say that it is rightly described
-as master of itself, if indeed anything in which the better rules the worse is
-to be described as temperate and master of itself.
+GLAUCON: Vậy thì, tôi chấp nhận định nghĩa của anh về *lòng dũng cảm*.
 
-GLAUCON: I am looking, and what you say is true.
+SOCRATES: Vâng, ít nhất hãy chấp nhận nó như là định nghĩa của tôi về *lòng dũng cảm* chính trị, và anh sẽ đúng khi chấp nhận nó. Nếu anh muốn, chúng ta sẽ thảo luận về nó đầy đủ hơn vào một dịp khác. Anh thấy đấy, hiện tại, cuộc điều tra của chúng ta không phải về *lòng dũng cảm* mà là về *điều đúng*. Và cho mục đích của cuộc điều tra đó, tôi nghĩ những gì chúng ta đã nói là đủ.
 
-SOCRATES: Furthermore, pleasures, pains, and appetites that are numerous
-(c) and multifarious are things one would especially ﬁnd in children, women,
-household slaves, and in the so-called free members of the masses—that is,
-the inferior people.
+GLAUCON: Anh đúng.
 
-GLAUCON: Yes.
+SOCRATES: Vậy là còn hai thứ chúng ta phải tìm trong *thành bang*: *tiết chế* (temperance)[15] và, mục tiêu của toàn bộ cuộc điều tra của chúng ta, *điều đúng*.
 
-SOCRATES: But the pleasures, pains, and appetites that are simple and
-moderate, the ones that are led by rational calculation with the aid of
-understanding and correct belief, you would ﬁnd in those few people who
-are born with the best natures and receive the best education.
+GLAUCON: Vâng, đúng vậy. (d)
 
-GLAUCON: That’s true.
+SOCRATES: Làm thế nào chúng ta có thể tìm thấy *điều đúng* để không phải bận tâm đến *tiết chế* nữa?
 
-SOCRATES: Don’t you see, then, that this too is present in your city, and
-that the appetites of the masses—the inferior people—are mastered there by
-(d) the wisdom and appetites of the few—the best people?
+GLAUCON: Chà, về phần tôi, tôi không biết cách nào, và tôi cũng không muốn *điều đúng* xuất hiện trước nếu điều đó có nghĩa là chúng ta sẽ không điều tra về *tiết chế* nữa. Vì vậy, nếu anh muốn làm tôi hài lòng, hãy tìm nó trước cái kia.
 
-GLAUCON: I do.
+SOCRATES: Dĩ nhiên là tôi muốn. Sẽ là sai trái nếu không làm vậy.[16] (e)
 
-SOCRATES: So, if any city is said to be master of its pleasures and appetites
-and of itself, it is this one.
+GLAUCON: Vậy hãy tiến hành tìm kiếm đi.
 
-GLAUCON: Absolutely.
+SOCRATES: Tôi sẽ làm. Và nhìn từ đây, nó giống như một loại hòa hợp và đồng điệu hơn là những thứ trước đó.
 
-SOCRATES: So isn’t it also temperate because of all this?
+GLAUCON: Bằng cách nào?
 
-GLAUCON: Yes, indeed.
+SOCRATES: *Tiết chế* chắc chắn là một loại trật tự, sự làm chủ một số loại khoái lạc và *bản năng*. Người ta cũng ngụ ý như vậy khi sử dụng thuật ngữ "làm chủ bản thân", mặc dù tôi không biết theo cách nào. Điều này và những thứ tương tự khác giống như những dấu vết mà *tiết chế* đã để lại. Có phải vậy không?
 
-SOCRATES: And moreover, if there is any city in which rulers and subjects
-(e) share the same belief about who should rule, it is this one. Or don’t you
-agree?
+GLAUCON: Hoàn toàn đúng.
 
-GLAUCON: Yes, I certainly do.
+SOCRATES: Tuy nhiên, thuật ngữ "làm chủ bản thân" chẳng phải rất nực cười sao? Bởi vì, dĩ nhiên, kẻ làm chủ bản thân cũng chính là kẻ yếu hơn, và kẻ yếu hơn cũng chính là kẻ làm chủ. Rốt cuộc thì, tất cả những mô tả này đều đang chỉ về cùng một người. (431a)
 
-SOCRATES: And in which of them do you say temperance is located when
-they are in this condition? In the rulers or the subjects?
+GLAUCON: Dĩ nhiên.
 
-GLAUCON: In both, I suppose.
+SOCRATES: Tuy nhiên, đối với tôi, có vẻ như những gì thuật ngữ này đang cố gắng chỉ ra là bên trong *linh hồn* (soul) của cùng một người, có một phần tốt hơn và một phần tệ hơn. Bất cứ khi nào phần tốt hơn theo tự nhiên làm chủ phần tệ hơn, điều này được gọi là làm chủ bản thân. Ít nhất thì nó được ca ngợi. Nhưng bất cứ khi nào, do sự nuôi dưỡng tồi tệ hoặc giao du với kẻ xấu, phần nhỏ hơn và tốt hơn bị áp đảo bởi số đông thấp kém, điều này bị chê trách như một sự ô nhục (b) và được gọi là yếu đuối hơn chính mình, hay là thiếu *tiết chế*.
 
-SOCRATES: Do you see, then, that the hunch we had just now—that tem-
-perance is like a sort of harmony—was quite plausible?
+GLAUCON: Vâng, điều đó có vẻ hợp lý.
 
-GLAUCON: Why is that?
+SOCRATES: Bây giờ, hãy nhìn vào *thành bang* mới của chúng ta và anh sẽ thấy một trong những tình trạng này hiện diện trong đó. Bởi vì anh sẽ nói rằng nó được miêu tả một cách đúng đắn là làm chủ chính mình, nếu thực sự bất cứ thứ gì trong đó phần tốt hơn cai trị phần tệ hơn thì được miêu tả là có *tiết chế* và làm chủ chính mình.
 
-SOCRATES: Because its operation is unlike that of courage and wisdom,
-each of which resides in one part and makes the city either courageous or
-(432a) wise. Temperance does not work like that, but has literally been stretched
+GLAUCON: Tôi đang nhìn, và những gì anh nói là đúng.
 
-throughout the whole, making the weakest, the strongest, and those in
-between all sing the same song in unison—whether in wisdom, if you like,
-or in physical strength, if you prefer; or, for that matter, in numbers,
-wealth, or anything else. Hence we would be absolutely right to say that
-this unanimity is temperance—this concord between the naturally worse
-and the naturally better, about which of the two should rule both in the
-city and in each individual.
-(b) GLAUCON: I agree completely.
+SOCRATES: Hơn nữa, những khoái lạc, nỗi đau và *bản năng* (c) đa dạng và đông đảo là những thứ người ta đặc biệt tìm thấy ở trẻ em, phụ nữ, nô lệ trong nhà, và ở những thành viên được gọi là tự do của quần chúng, tức là những kẻ thấp kém.
 
-SOCRATES: All right. We have now spotted three kinds of virtue in our
-city.What kind remains, then, that would give the city yet another share of
-virtue? For it is clear that what remains is justice.
+GLAUCON: Vâng.
 
-GLAUCON: It is clear.
+SOCRATES: Nhưng những khoái lạc, nỗi đau và *bản năng* đơn giản và chừng mực, những thứ được dẫn dắt bởi sự tính toán của *lý trí* (reason) với sự trợ giúp của sự hiểu biết và niềm tin đúng đắn, anh sẽ tìm thấy ở số ít những người sinh ra với bản chất tốt nhất và nhận được nền giáo dục tốt nhất.
 
-SOCRATES: So then, Glaucon, we must now station ourselves like hunters
-surrounding a wood and concentrate our minds, so that justice does not
-escape us and vanish into obscurity. For it is clear that it is around here
-(c) somewhere. Keep your eyes peeled and do your best to catch sight of it,
-and if you happen to see it before I do, show it to me.
+GLAUCON: Đúng vậy.
 
-GLAUCON: I wish I could help. But it is rather the case that if you use me
-as a follower who can see only what you point out to him, you will be
-using me in a more reasonable way.
+SOCRATES: Vậy anh không thấy rằng điều này cũng hiện diện trong *thành bang* của anh, và rằng *bản năng* của đám đông, những kẻ thấp kém, bị làm chủ ở đó bởi (d) sự khôn ngoan và *bản năng* của số ít, những người giỏi nhất sao?
 
-SOCRATES: Pray for success, then, and follow me.
+GLAUCON: Tôi có thấy.
 
-GLAUCON: I will.You have only to lead.
+SOCRATES: Vậy, nếu bất kỳ *thành bang* nào được cho là làm chủ các khoái lạc, *bản năng* và làm chủ chính nó, thì đó chính là *thành bang* này.
 
-SOCRATES: And it truly seems to be an impenetrable place and full of
-shadows. It is dark, at any rate, and difﬁcult to search through. But all the
-same, we must go on.
-(d) GLAUCON: Yes, we must.
+GLAUCON: Hoàn toàn đúng.
 
-> *And then I caught sight of something and shouted:*
-SOCRATES: Ah ha!17 Glaucon, it looks as though there is a track here, and
-I do not think our quarry will altogether escape us.
+SOCRATES: Vậy chẳng phải nó cũng có *tiết chế* nhờ tất cả những điều này sao?
 
-GLAUCON: That’s good news.
+GLAUCON: Vâng, đúng vậy.
 
-SOCRATES: Oh dear, what a stupid condition in which to ﬁnd ourselves!
+SOCRATES: Và hơn nữa, nếu có bất kỳ *thành bang* nào mà cả người cai trị lẫn thần dân (e) đều chia sẻ chung một niềm tin về việc ai nên cai trị, thì đó chính là *thành bang* này. Hay anh không đồng ý?
 
-GLAUCON: How so?
+GLAUCON: Vâng, tôi chắc chắn đồng ý.
 
-SOCRATES: It seems, blessed though you are, that the thing has been roll-
-ing around at our feet from the very beginning, and yet, like ridiculous
-fools, we could not see it. For just as people who are holding something in
-their hands sometimes search for the very thing they are holding, we did
-[17]: Iou iou: usually a cry of woe in tragedy, not (like iô iô) a cry of joy.
+SOCRATES: Và anh cho rằng *tiết chế* nằm ở đâu trong số họ khi họ ở trong tình trạng này? Ở những người cai trị hay ở thần dân?
 
-(e) not look in the right direction but gazed off into the distance, and perhaps
-that is the very reason we did not notice it.
+GLAUCON: Tôi cho là ở cả hai.
 
-GLAUCON: What do you mean?
+SOCRATES: Vậy anh có thấy rằng linh cảm mà chúng ta vừa có, rằng *tiết chế* giống như một loại hòa hợp, là khá hợp lý không?
 
-SOCRATES: This: I think we have been talking and hearing about it all this
-time without understanding ourselves, or realizing that we were, in a way,
-talking about it.
+GLAUCON: Tại sao vậy?
 
-GLAUCON: That was a long prelude! Now I want to hear what you mean!
+SOCRATES: Bởi vì cách thức hoạt động của nó không giống như *lòng dũng cảm* và *sự khôn ngoan*, mỗi thứ cư trú trong một bộ phận và làm cho *thành bang* trở nên dũng cảm hoặc (432a) khôn ngoan. *Tiết chế* không hoạt động như vậy, mà nó thực sự được kéo căng ra khắp toàn bộ tổng thể, khiến cho kẻ yếu nhất, kẻ mạnh nhất, và những kẻ ở giữa tất cả đều hát cùng một bài ca đồng điệu, cho dù là về sự khôn ngoan, nếu anh muốn, hay về sức mạnh thể chất, nếu anh thích; hoặc, về vấn đề đó, về số lượng, của cải, hay bất cứ thứ gì khác. Do đó, chúng ta sẽ hoàn toàn đúng khi nói rằng sự nhất trí này chính là *tiết chế*, sự hòa hợp này giữa phần tệ hơn theo tự nhiên và phần tốt hơn theo tự nhiên, về việc ai trong hai bên nên cai trị cả trong *thành bang* lẫn trong mỗi cá nhân.
+(b) GLAUCON: Tôi hoàn toàn đồng ý.
 
-SOCRATES: Listen, then, and see whether there is anything in what I say.
-(433a) You see, what we laid down at the beginning when we were founding our
-city, about what should be done throughout it—that, I think, or some form
-of that, is justice. And surely what we laid down and often repeated, if you
-remember, is that each person must practice one of the pursuits in the city,
-the one for which he is naturally best suited.
+SOCRATES: Được rồi. Chúng ta hiện đã phát hiện ra ba loại *sự hoàn thiện* (virtue) trong *thành bang* của mình. Vậy loại nào còn lại sẽ mang đến cho *thành bang* thêm một phần *sự hoàn thiện* nữa? Rõ ràng phần còn lại chính là *điều đúng*.
 
-GLAUCON: Yes, we did say that.
+GLAUCON: Rõ ràng.
 
-SOCRATES: Moreover, we have heard many people say, and have often said
-ourselves, that justice is doing one’s own work and not meddling with what
-(b) is not one’s own.
+SOCRATES: Vậy thì, Glaucon, bây giờ chúng ta phải vào vị trí như những thợ săn đang bao vây một khu rừng và tập trung tâm trí, để *điều đúng* không trốn thoát khỏi chúng ta và biến mất vào bóng tối. Bởi vì rõ ràng là nó ở quanh đây (c) đâu đó. Hãy căng mắt ra và cố gắng hết sức để bắt gặp nó, và nếu anh tình cờ thấy nó trước tôi, hãy chỉ cho tôi.
 
-GLAUCON: Yes, we have.
+GLAUCON: Tôi ước gì mình có thể giúp. Nhưng đúng hơn là nếu anh coi tôi như một người đi theo chỉ có thể nhìn thấy những gì anh chỉ ra cho anh ta, anh sẽ sử dụng tôi một cách hợp lý hơn.
 
-SOCRATES: This, then, my friend, provided it is taken in a certain way,
-would seem to be justice—this doing one’s own work. And do you know
-what I take as evidence of that?
+SOCRATES: Vậy hãy cầu nguyện cho sự thành công, và đi theo tôi.
 
-GLAUCON: No, tell me.
+GLAUCON: Tôi sẽ làm vậy. Anh chỉ việc dẫn đường.
 
-SOCRATES: After our consideration of temperance, courage, and wisdom,
-I think that what remains in the city is the power that makes it possible for
-all of these to arise in it, and that preserves them when they have arisen for
-(c) as long as it remains there itself. And we did say that justice would be what
-remained when we had found the other three.18
-GLAUCON: Yes, that must be so.
+SOCRATES: Và đây thực sự có vẻ là một nơi khó thâm nhập và đầy rẫy bóng tối. Ít nhất thì nó rất tối tăm và khó tìm kiếm. Nhưng dù sao đi nữa, chúng ta vẫn phải tiếp tục.
 
-SOCRATES: Yet, surely, if we had to decide which of these will most con-
-tribute to making our city good by being present in it, it would be difﬁcult
-to decide. Is it the agreement in belief between the rulers and the subjects?
+(d) GLAUCON: Vâng, chúng ta phải đi.
 
-The preservation among the soldiers of the law-inculcated belief about
-what should inspire terror and what should not? The wisdom and guardian-
-(d) ship of the rulers? Or is what most contributes to making it good the fact
-that every child, woman, slave, free person, craftsman, ruler, and subject
-each does his own work and does not meddle with what is not?
+> *Và rồi tôi bắt gặp một thứ gì đó và hét lên:*
 
-GLAUCON: Of course it’s a difﬁcult decision.
-[18]: 428a2–9.
+SOCRATES: A ha![17] Glaucon, có vẻ như có một dấu vết ở đây, và tôi không nghĩ con mồi của chúng ta sẽ hoàn toàn trốn thoát được.
 
-SOCRATES: It seems, then, that this power—which consists in everyone’s
-doing his own work—rivals wisdom, temperance, and courage in its con-
-tribution to the city’s virtue.
+GLAUCON: Đó là tin tốt.
 
-GLAUCON: It certainly does.
+SOCRATES: Ôi trời, chúng ta mới thấy mình ở trong một tình trạng ngớ ngẩn làm sao!
 
-SOCRATES: And wouldn’t you say that justice is certainly what rivals them
-(e) in contributing to the city’s virtue?
+GLAUCON: Ngớ ngẩn thế nào?
 
-GLAUCON: Absolutely.
+(e) SOCRATES: Có vẻ như, dù anh có được ban phước đến đâu, thì cái thứ đó đã lăn lóc ngay dưới chân chúng ta ngay từ lúc bắt đầu, vậy mà, giống như những kẻ ngốc nực cười, chúng ta đã không thể nhìn thấy nó. Bởi vì giống như những người đang cầm một vật trong tay đôi khi lại đi tìm chính cái vật họ đang cầm, chúng ta đã không nhìn đúng hướng mà lại phóng tầm mắt ra xa, và có lẽ đó chính là lý do chúng ta không chú ý đến nó.
 
-SOCRATES: Look at it this way, too, if you want to be convinced. Won’t
-you assign to the rulers the job of judging lawsuits in the city?
+GLAUCON: Ý anh là sao?
 
-GLAUCON: Of course.
+SOCRATES: Thế này: Tôi nghĩ chúng ta đã nói và nghe về nó suốt thời gian qua mà không tự hiểu chính mình, hay không nhận ra rằng, theo một cách nào đó, chúng ta đang nói về nó.
 
-SOCRATES: And will they have any aim in judging other than this: that no
-citizen should have what is another’s or be deprived of what is his own?
+GLAUCON: Khúc dạo đầu dài quá! Bây giờ tôi muốn nghe ý anh là gì!
 
-GLAUCON: No, they will have none but that.
+SOCRATES: Vậy hãy lắng nghe, và xem liệu có điều gì trong những gì tôi nói không.
+(433a) Anh thấy đấy, những gì chúng ta đã đặt ra ngay từ đầu khi thành lập *thành bang*, về những gì nên được thực hiện xuyên suốt trong đó, tôi nghĩ điều đó, hoặc một dạng nào đó của nó, chính là *điều đúng*. Và chắc chắn những gì chúng ta đã đặt ra và thường xuyên lặp lại, nếu anh nhớ, là mỗi người phải thực hành một trong những công việc trong *thành bang*, công việc mà anh ta phù hợp nhất theo tự nhiên.
 
-SOCRATES: Because that is just?
+GLAUCON: Vâng, chúng ta đã nói vậy.
 
-GLAUCON: Yes.
+SOCRATES: Hơn nữa, chúng ta đã nghe nhiều người nói, và chính chúng ta cũng thường nói, rằng *điều đúng* là làm công việc của riêng mình và không can thiệp vào (b) những gì không phải của mình.
 
-SOCRATES: So from that point of view, too, having and doing of one’s
-(434a) own, of what belongs to one, would be agreed to be justice.
+GLAUCON: Vâng, chúng ta có nói.
 
-GLAUCON: That’s right.
+SOCRATES: Vậy thì, anh bạn của tôi, điều này, miễn là nó được hiểu theo một cách nhất định, dường như chính là *điều đúng*, cái việc làm công việc của riêng mình này. Và anh có biết tôi lấy gì làm bằng chứng cho điều đó không?
 
-SOCRATES: Now, see whether you agree with me about this: if a carpenter
-attempts to do the work of a shoemaker, or a shoemaker that of a carpenter,
-or they exchange their tools or honors with one another, or if the same
-person tries to do both jobs, and all other such exchanges are made, do you
-think that does any great harm to the city?
+GLAUCON: Không, hãy nói cho tôi biết.
 
-GLAUCON: Not really.
+SOCRATES: Sau khi xem xét *tiết chế*, *lòng dũng cảm*, và *sự khôn ngoan*, tôi nghĩ rằng những gì còn lại trong *thành bang* chính là sức mạnh làm cho tất cả những điều này có thể nảy sinh trong nó, và bảo tồn chúng khi chúng đã nảy sinh trong (c) chừng mực mà bản thân nó vẫn còn ở đó. Và chúng ta đã nói rằng *điều đúng* sẽ là thứ còn lại khi chúng ta đã tìm thấy ba thứ kia.[18]
 
-SOCRATES: But I imagine that when someone who is, by nature, a crafts-
-man or some other sort of moneymaker is puffed up by wealth, or by hav-
-(b) ing a majority of votes, or by his own strength, or by some other such
-thing, and attempts to enter the class of soldiers; or when one of the sol-
-diers who is unworthy to do so tries to enter that of judge and guardian,
-and these exchange their tools and honors; or when the same person tries
-to do all these things at once, then I imagine you will agree that these
-exchanges and this meddling destroy the city.
+GLAUCON: Vâng, hẳn phải là vậy.
 
-GLAUCON: Absolutely.
+SOCRATES: Tuy nhiên, chắc chắn, nếu chúng ta phải quyết định xem cái nào trong số này sẽ đóng góp nhiều nhất vào việc làm cho *thành bang* của chúng ta trở nên tốt đẹp nhờ sự hiện diện của nó, thì đó sẽ là một quyết định khó khăn. Liệu đó là sự đồng thuận trong niềm tin giữa những người cai trị và thần dân?
 
-SOCRATES: So, meddling and exchange among these three classes is the
-(c) greatest harm that can happen to the city and would rightly be called the
-worst evil one could do to it.
+(d) Sự bảo tồn trong binh lính niềm tin do luật pháp khắc sâu về những gì nên gây khiếp sợ và những gì không? Sự khôn ngoan và sự bảo vệ của những người cai trị? Hay điều đóng góp nhiều nhất vào việc làm cho nó tốt đẹp là việc mọi trẻ em, phụ nữ, nô lệ, người tự do, thợ thủ công, người cai trị, và thần dân, mỗi người đều làm công việc của riêng mình và không can thiệp vào việc không phải của mình?
 
-GLAUCON: Exactly.
+GLAUCON: Dĩ nhiên đó là một quyết định khó khăn.
 
-SOCRATES: And wouldn’t you say that the worst evil one could do to one’s
-own city is injustice?
+SOCRATES: Vậy có vẻ như sức mạnh này, bao gồm việc mọi người làm công việc của riêng mình, cạnh tranh với *sự khôn ngoan*, *tiết chế*, và *lòng dũng cảm* trong việc đóng góp vào *sự hoàn thiện* của *thành bang*.
 
-GLAUCON: Of course.
+GLAUCON: Chắc chắn là vậy.
 
-SOCRATES: That, then, is what injustice is. But let’s put it in reverse: the
-opposite of this—when the moneymaking, auxiliary, and guardian class
-each do their own work in the city—is justice, isn’t it, and makes the city
-just?
-(d) GLAUCON: That’s exactly what I think too.
+SOCRATES: Và anh sẽ không nói rằng *điều đúng* chắc chắn là thứ cạnh tranh với chúng (e) trong việc đóng góp vào *sự hoàn thiện* của *thành bang* sao?
 
-SOCRATES: Let’s not state it as ﬁxedly established just yet. But if this kind
-of thing is agreed by us to be justice in the case of individual human beings
-as well, then we can assent to it. For what else will there be for us to say?
+GLAUCON: Hoàn toàn đúng.
 
-But if it is not, we will have to look for something else. For the moment,
-however, let’s complete the inquiry in which we supposed that if we ﬁrst
-tried to observe justice in some larger thing that possessed it, that would
-make it easier to see what it is like in an individual human being.19 We
-(e) agreed that this larger thing is a city, and so we founded the best city we
-could, knowing well that justice would of course be present in one that was
-good. So, let’s apply what has come to light for us there to an individual,
-and if it is conﬁrmed, all will be well. But if something different is found in
-the case of the individual, we will go back to the city and test it there. And
-perhaps by examining them side by side and rubbing them together like
-(435a) ﬁre-sticks, we can make justice blaze forth and, once it has come to light,
-conﬁrm it in our own case.
+SOCRATES: Hãy nhìn theo cách này nữa, nếu anh muốn bị thuyết phục. Chẳng phải anh sẽ giao cho những người cai trị công việc xét xử các vụ kiện trong *thành bang* sao?
 
-GLAUCON: Well, the road you describe is the right one, and we should
-follow it.
+GLAUCON: Dĩ nhiên.
 
-SOCRATES: Well, then, if you call a bigger thing and a smaller thing by the
-same name, are they unalike in the respect in which they are called the
-same, or alike?
+SOCRATES: Và họ sẽ có mục đích nào khác trong việc xét xử ngoài điều này: không một công dân nào được chiếm đoạt những gì của người khác hay bị tước đoạt những gì của chính mình?
 
-GLAUCON: Alike.
+GLAUCON: Không, họ sẽ không có mục đích nào khác ngoài điều đó.
 
-SOCRATES: So a just man won’t differ at all from a just city with respect to
-(b) the form of justice but will be like it.
+SOCRATES: Bởi vì điều đó là đúng?
 
-GLAUCON: Yes, he will be like it.
+GLAUCON: Vâng.
 
-SOCRATES: But now, the city, at any rate, was thought to be just because
-each of the three natural classes within it did its own job; and to be temper-
-ate, courageous, and wise, in addition, because of certain other conditions
-or states of these same classes.
+SOCRATES: Vậy từ quan điểm đó nữa, việc có và làm những gì (434a) của riêng mình, những gì thuộc về mình, sẽ được đồng ý là *điều đúng*.
 
-GLAUCON: That’s true.
-[19]: 368c7–369a3.
+GLAUCON: Đúng vậy.
 
-SOCRATES: Then, my friend, we would expect an individual to have these
-same kinds of things in his soul, and to be correctly called by the same
-(c) names as the city because the same conditions are present in them both.
+SOCRATES: Bây giờ, hãy xem anh có đồng ý với tôi về điều này không: nếu một thợ mộc cố gắng làm công việc của một thợ đóng giày, hoặc một thợ đóng giày làm việc của một thợ mộc, hoặc họ trao đổi dụng cụ hay danh dự cho nhau, hoặc nếu cùng một người cố gắng làm cả hai công việc, và tất cả các sự trao đổi tương tự khác diễn ra, anh có nghĩ điều đó gây ra tác hại lớn nào cho *thành bang* không?
 
-GLAUCON: Inevitably.
+GLAUCON: Không hẳn.
 
-SOCRATES: Well, you amazing fellow, here is another trivial investigation20
-we have stumbled into: does the soul have these three kinds of things in it
-or not?
+(b) SOCRATES: Nhưng tôi hình dung rằng khi một người, theo tự nhiên, là một thợ thủ công hay một kiểu người kiếm tiền nào đó bị thổi phồng bởi sự giàu có, hoặc bởi việc có đa số phiếu bầu, hoặc bởi sức mạnh của chính mình, hay bởi một thứ gì đó tương tự, và cố gắng bước vào giai cấp binh lính; hoặc khi một trong những binh lính không xứng đáng lại cố gắng bước vào giai cấp thẩm phán và *vệ binh*, và những người này trao đổi dụng cụ và danh dự cho nhau; hoặc khi cùng một người cố gắng làm tất cả những việc này cùng một lúc, thì tôi hình dung anh sẽ đồng ý rằng những sự trao đổi và sự can thiệp này sẽ phá hủy *thành bang*.
 
-GLAUCON: It does not look at all trivial to me. Perhaps, Socrates, there is
-some truth in the old saying that everything beautiful is difﬁcult.
+GLAUCON: Hoàn toàn đồng ý.
 
-SOCRATES: Apparently so. In fact, you should be well aware, Glaucon,
-that it is my belief we will never ever grasp this matter precisely by methods
-(d) of the sort we are now using in our discussions. However, there is in fact
-another longer and more time-consuming road that does lead there.21 But
-perhaps we can manage to come up to the standard of our previous state-
-ments and inquiries.
+SOCRATES: Vậy, sự can thiệp và trao đổi giữa ba giai cấp này là (c) tác hại lớn nhất có thể xảy ra cho *thành bang* và sẽ được gọi một cách đúng đắn là tội ác tồi tệ nhất mà người ta có thể làm đối với nó.
 
-GLAUCON: Shouldn’t we be content with that? It would be enough for
-me, at least for now.
+GLAUCON: Chính xác.
 
-SOCRATES: Well, then, it will be quite satisfactory for me, too.
+SOCRATES: Và anh sẽ không nói rằng tội ác tồi tệ nhất mà người ta có thể làm đối với *thành bang* của chính mình là *điều sai* sao?
 
-GLAUCON: Then do not weary, but go on with the inquiry.
-(e) SOCRATES: Well, isn’t it absolutely necessary for us to agree to this much:
-that the very same kinds of things and conditions exist in each one of us as
-exist in the city? After all, where else would they come from? You see, it
-would be ridiculous for anyone to think that spiritedness did not come to
-be in cities from the private individuals who are reputed to have this qual-
-ity, such as the Thracians, Scythians, and others who live to the north of us;
-or that the same is not true of the love of learning, which is mostly associ-
-(436a) ated with our part of the world; or of the love of money, which is said to be
-found not least among the Phoenicians and Egyptians.
+GLAUCON: Dĩ nhiên.
 
-GLAUCON: It certainly would.
+SOCRATES: Vậy đó chính là *điều sai*. Nhưng hãy đảo ngược lại: điều ngược lại với cái này, khi giai cấp kiếm tiền, giai cấp *trợ thủ*, và giai cấp *vệ binh* mỗi người làm công việc của riêng mình trong *thành bang*, chính là *điều đúng*, phải không, và làm cho *thành bang* trở nên đúng đắn?
+(d) GLAUCON: Đó chính xác là những gì tôi cũng nghĩ.
 
-SOCRATES: We may take that as being so, then, and it was not at all difﬁ-
-cult to discover.
+SOCRATES: Chúng ta đừng vội khẳng định nó như một chân lý đã được thiết lập. Nhưng nếu loại điều này được chúng ta đồng ý là *điều đúng* trong trường hợp của từng con người cá nhân, thì chúng ta có thể tán thành nó. Bởi vì chúng ta còn biết nói gì khác nữa?
 
-GLAUCON: No, it certainly was not.
+Nhưng nếu không phải vậy, chúng ta sẽ phải tìm kiếm một thứ khác. Tuy nhiên, trong lúc này, hãy hoàn thành cuộc điều tra mà trong đó chúng ta đã giả định rằng nếu trước tiên chúng ta cố gắng quan sát *điều đúng* trong một thứ gì đó lớn hơn sở hữu nó, điều đó sẽ giúp ta dễ dàng nhìn thấy nó trông như thế nào trong một con người cá nhân.[19] Chúng ta (e) đã đồng ý rằng thứ lớn hơn này là một *thành bang*, và vì vậy chúng ta đã thành lập một *thành bang* tốt nhất có thể, vì biết rõ rằng *điều đúng* dĩ nhiên sẽ hiện diện trong một *thành bang* tốt đẹp. Vậy, hãy áp dụng những gì đã sáng tỏ cho chúng ta ở đó vào một cá nhân, và nếu nó được xác nhận, mọi chuyện sẽ ổn thỏa. Nhưng nếu tìm thấy một điều gì đó khác trong trường hợp của cá nhân, chúng ta sẽ quay lại *thành bang* và kiểm tra nó ở đó. Và có lẽ bằng cách kiểm tra chúng cạnh nhau và cọ xát chúng vào nhau giống như (435a) những thanh củi tạo lửa, chúng ta có thể làm cho *điều đúng* bùng cháy lên và, một khi nó đã sáng tỏ, xác nhận nó trong trường hợp của chính chúng ta.
 
-SOCRATES: But this, now, is difﬁcult. Do we do each of them with the
-same thing or, since there are three, do we do one with one and another
-with another: that is to say, do we learn with one, feel anger with another,
-and with yet a third have an appetite for the pleasures of food, sex, and
-[20]: See 423c5–e2.
+GLAUCON: Chà, con đường anh mô tả là con đường đúng, và chúng ta nên đi theo nó.
 
-[21]: See 504b1–c4 for an explanation.
+SOCRATES: Vậy thì, nếu anh gọi một thứ lớn hơn và một thứ nhỏ hơn bằng cùng một cái tên, chúng có khác nhau ở khía cạnh mà chúng được gọi giống nhau không, hay là giống nhau?
 
-those closely akin to them? Or do we do each of them with the whole of
-(b) our soul, once we feel the impulse? That is what is difﬁcult to determine in
-(a) way that is up to the standards of our argument.
+GLAUCON: Giống nhau.
 
-GLAUCON: I think so, too.
+SOCRATES: Vậy một *người sống đúng* (just man) sẽ không khác gì một *thành bang* đúng đắn về (b) hình thức của *điều đúng* mà sẽ giống nó.
 
-SOCRATES: Well, then, let’s try in this way to determine whether they are
-the same as one another or different.
+GLAUCON: Vâng, anh ta sẽ giống nó.
 
-GLAUCON: What way?
+SOCRATES: Nhưng bây giờ, ít nhất thì *thành bang* được coi là đúng đắn vì mỗi một trong ba giai cấp tự nhiên bên trong nó làm công việc của riêng mình; và nó có *tiết chế*, dũng cảm, và khôn ngoan, ngoài ra, là nhờ vào những điều kiện hoặc trạng thái nhất định khác của chính ba giai cấp này.
 
-SOCRATES: It is clear that the same thing cannot do or undergo opposite
-things; not, at any rate, in the same respect, in relation to the same thing, at
-the same time. So, if we ever ﬁnd that happening here, we will know that
-(c) we are not dealing with one and the same thing, but with many.
+GLAUCON: Đúng vậy.
 
-GLAUCON: All right.
+SOCRATES: Vậy thì, anh bạn, chúng ta sẽ kỳ vọng một cá nhân cũng có những loại thứ tương tự trong *linh hồn* của anh ta, và được gọi một cách chính xác bằng những (c) cái tên giống như *thành bang* vì những điều kiện tương tự hiện diện trong cả hai.
 
-SOCRATES: Consider, then, what I am about to say.
+GLAUCON: Không thể tránh khỏi.
 
-GLAUCON: Say it.
+SOCRATES: Chà, anh bạn tuyệt vời, đây lại là một cuộc điều tra "nhỏ nhặt" khác[20] mà chúng ta vừa vấp phải: liệu *linh hồn* có ba loại thứ này trong nó hay không?
 
-SOCRATES: Is it possible for the same thing, at the same time, and in the
-same respect, to be standing still and moving?
+GLAUCON: Đối với tôi, nó trông không hề nhỏ nhặt chút nào. Có lẽ, Socrates, có phần sự thật trong câu nói cổ rằng mọi thứ đẹp đẽ đều khó khăn.
 
-GLAUCON: Not at all.
+SOCRATES: Rõ ràng là vậy. Thực tế, anh nên biết rõ, Glaucon, rằng tôi tin chúng ta sẽ không bao giờ nắm bắt vấn đề này một cách chính xác bằng những phương pháp (d) thuộc loại chúng ta đang sử dụng trong các cuộc thảo luận của mình. Tuy nhiên, thực tế có một con đường khác dài hơn và tốn nhiều thời gian hơn dẫn đến đó.[21] Nhưng có lẽ chúng ta có thể xoay sở để đạt được tiêu chuẩn của những tuyên bố và cuộc điều tra trước đây của chúng ta.
 
-SOCRATES: Let’s come to a more precise agreement, in order to avoid dis-
-putes later on.You see, if anyone said of a person who is standing still but
-moving his hands and head, that the same thing is moving and standing still
-at the same time, we would not consider, I imagine, that he should say that;
-but rather that in one respect the person is standing still, while in another
-(d) he is moving. Isn’t that so?
+GLAUCON: Chẳng phải chúng ta nên hài lòng với điều đó sao? Đối với tôi, ít nhất là lúc này, thế là đủ.
 
-GLAUCON: It is.
+SOCRATES: Vậy thì, nó cũng sẽ khá thỏa đáng đối với tôi.
 
-SOCRATES: Then, if the one who said this became still more charming and
-(a) made the sophisticated point that spinning tops, at any rate, stand still as
-whole at the same time as they are also in motion, when, with the peg
-ﬁxed in the same place, they revolve, or that the same holds of anything else
-that moves in a circle on the same spot—we would not agree, on the
-grounds that in such situations it is not in the same respects that these
-objects are both moving and standing still. On the contrary, we would say
-(e) that these objects have both a straight axis and a circumference in them, and
-that with respect to the straight axis they stand still—since they do not
-wobble to either side—whereas with respect to the circumference they
-move in a circle. But if their straight axis wobbles to the left or right or
-front or back at the same time as they are spinning, we will say that they are
-not standing still in any way.
+GLAUCON: Vậy đừng mệt mỏi, mà hãy tiếp tục cuộc điều tra.
+(e) SOCRATES: Chà, chẳng phải chúng ta tuyệt đối cần phải đồng ý với điều này sao: rằng chính những loại thứ và điều kiện tương tự tồn tại trong mỗi người chúng ta cũng tồn tại trong *thành bang*? Rốt cuộc thì, chúng có thể đến từ đâu khác chứ? Anh thấy đấy, sẽ thật nực cười nếu ai đó nghĩ rằng *khí phách* (spirit) không xuất hiện trong các *thành bang* từ những cá nhân tư nhân được cho là có phẩm chất này, chẳng hạn như người Thrace, người Scythia, và những người khác sống ở phía bắc chúng ta; hoặc điều tương tự không đúng với tình yêu học hỏi, vốn chủ yếu gắn liền với khu vực của chúng ta trên thế giới; hoặc với lòng ham mê tiền bạc, vốn được cho là (436a) được tìm thấy không ít ở người Phoenicia và người Ai Cập.
 
-GLAUCON: And we would be right.
+GLAUCON: Chắc chắn là sẽ nực cười.
 
-SOCRATES: No such objection will disturb us, then, or make us any more
-likely to believe that the same thing can—at the same time, in the same
-respect, and in relation to the same thing—undergo, be, or do opposite
-(437a) things.
+SOCRATES: Vậy chúng ta có thể coi điều đó là đúng, và nó hoàn toàn không khó để khám phá ra.
 
-GLAUCON: They won’t have that effect on me at least.
+GLAUCON: Vâng, chắc chắn là không.
 
-SOCRATES: All the same, in order to avoid going through all these objec-
-tions one by one and taking a long time to prove them all untrue, let’s
-hypothesize that what we have said is correct and carry on—with the
-understanding that if it should ever be shown to be incorrect, all the conse-
-quences we have drawn from it will be invalidated.
+SOCRATES: Nhưng bây giờ, điều này mới khó. Chúng ta thực hiện mỗi việc đó bằng cùng một thứ hay, vì có ba thứ, chúng ta thực hiện một việc bằng một thứ và việc khác bằng một thứ khác: nghĩa là, chúng ta học bằng một thứ, cảm thấy tức giận bằng một thứ khác, và với thứ thứ ba, chúng ta có *bản năng* đối với những khoái lạc của thức ăn, tình dục, và những thứ liên quan chặt chẽ đến chúng? Hay chúng ta thực hiện mỗi việc đó bằng toàn bộ (b) *linh hồn* của mình, một khi chúng ta cảm thấy sự thôi thúc? Đó mới là điều khó xác định theo cách đạt tiêu chuẩn của lập luận của chúng ta.
 
-GLAUCON: Yes, that’s what we should do.
-(b) SOCRATES: Now, wouldn’t you consider assent and dissent, wanting to
-have something and rejecting it, taking something and pushing it way, as all
-being pairs of mutual opposites—whether of opposite doings or of opposite
-undergoings does not matter?
+GLAUCON: Tôi cũng nghĩ vậy.
 
-GLAUCON: Yes, they are pairs of opposites.
+SOCRATES: Vậy thì, hãy cố gắng theo cách này để xác định xem chúng giống nhau hay khác nhau.
 
-SOCRATES: What about thirst, hunger, and the appetites as a whole, and
-also wishing and willing? Would you include all of them somewhere among
-(c) the kinds of things we just mentioned? For example, wouldn’t you say that
-the soul of someone who has an appetite wants the thing for which it has
-an appetite, and draws toward itself what it wishes to have; and, in addition,
-that insofar as his soul wishes something to be given to it, it nods assent to
-itself as if in answer to a question, and strives toward its attainment?
+GLAUCON: Bằng cách nào?
 
-GLAUCON: I would.
+SOCRATES: Rõ ràng là cùng một thứ không thể làm hoặc chịu đựng những điều đối lập; ít nhất là không ở cùng một khía cạnh, liên quan đến cùng một thứ, vào cùng một thời điểm. Vì vậy, nếu chúng ta từng thấy điều đó xảy ra ở đây, chúng ta sẽ biết rằng (c) chúng ta đang không đối phó với một và cùng một thứ, mà là với nhiều thứ.
 
-SOCRATES: What about not-willing, not-wishing, and not-having an
-appetite? Wouldn’t we include them among the very opposites, cases in
-which the soul pushes and drives things away from itself?
-(d) GLAUCON: Of course.
+GLAUCON: Được rồi.
 
-SOCRATES: Since that is so, won’t we say that there is a kind consisting of
-appetites, and that the most conspicuous examples of them are what we call
-hunger and thirst?
+SOCRATES: Vậy hãy xem xét những gì tôi sắp nói.
 
-GLAUCON: We will.
+GLAUCON: Cứ nói đi.
 
-SOCRATES: Isn’t the one for food, the other for drink?
+SOCRATES: Liệu cùng một thứ, vào cùng một thời điểm, và ở cùng một khía cạnh, có thể vừa đứng yên vừa chuyển động không?
 
-GLAUCON: Yes.
+GLAUCON: Hoàn toàn không.
 
-SOCRATES: Now, insofar as it is thirst, is it an appetite in the soul for more
-than what we say it is for? I mean, is thirst a thirst for hot drink or cold, or
-much drink or little, or—in a word—for drink of a certain sort? Or isn’t it
-rather that if heat is present in addition to thirst, it causes the appetite to be
-(e) for something cold as well, whereas the addition of cold makes it an appetite
+SOCRATES: Hãy đi đến một thỏa thuận chính xác hơn, để tránh những tranh chấp sau này. Anh thấy đấy, nếu có ai nói về một người đang đứng yên nhưng lại cử động tay và đầu, rằng cùng một thứ đang vừa chuyển động vừa đứng yên vào cùng một thời điểm, tôi hình dung chúng ta sẽ không coi rằng anh ta nên nói như vậy; mà đúng hơn là ở một khía cạnh thì người đó đang đứng yên, trong khi ở một khía cạnh khác (d) anh ta đang chuyển động. Có phải vậy không?
 
-for something hot? And if there is much thirst, because of the presence of
-muchness, won’t it cause the desire to be for much drink, and where little
-for little? But thirst itself will never be for anything other than the very
-thing that it is in its nature to be an appetite for: namely, drink itself; and,
-similarly, hunger is for food.
+GLAUCON: Đúng vậy.
 
-GLAUCON: That’s the way it is. By itself, at any rate, each appetite is for its
-natural object only, while an appetite for an object of this or that sort
-depends on additions.
+SOCRATES: Vậy thì, nếu người nói điều này trở nên "quyến rũ" hơn nữa và đưa ra một quan điểm tinh vi rằng những con quay, ít nhất, đứng yên như một tổng thể vào cùng thời điểm chúng cũng đang chuyển động, khi mà, với cái trục cố định ở cùng một chỗ, chúng xoay tròn, hoặc điều tương tự cũng đúng với bất cứ thứ gì khác chuyển động theo vòng tròn tại cùng một điểm, chúng ta sẽ không đồng ý, với lý do là trong những tình huống như vậy, không phải ở cùng một khía cạnh mà những vật thể này vừa chuyển động vừa đứng yên. Trái lại, chúng ta sẽ nói (e) rằng những vật thể này có cả một trục thẳng và một chu vi bên trong chúng, và rằng đối với trục thẳng thì chúng đứng yên, vì chúng không lắc lư sang hai bên, trong khi đối với chu vi thì chúng chuyển động theo vòng tròn. Nhưng nếu trục thẳng của chúng lắc lư sang trái hoặc phải hoặc trước hoặc sau vào cùng thời điểm chúng đang xoay, chúng ta sẽ nói rằng chúng không hề đứng yên theo bất kỳ cách nào.
 
-SOCRATES: No one should catch us unprepared, then, or disturb us by
-(438a) claiming that no one has an appetite for drink but rather for good drink,
-nor for food but rather for good food, since everyone’s appetite is for good
-things. And so, if thirst is an appetite, it will be an appetite for good drink
-or good whatever, and similarly for the other appetites.
+GLAUCON: Và chúng ta sẽ đúng.
 
-GLAUCON: Yes, there might seem to be something in that objection.
+SOCRATES: Vậy sẽ không có sự phản đối nào như thế làm phiền chúng ta, hay khiến chúng ta có khả năng tin rằng cùng một thứ có thể, vào cùng một thời điểm, ở cùng một khía cạnh, và liên quan đến cùng một thứ, chịu đựng, là, hoặc làm những điều (437a) đối lập.
 
-SOCRATES: But surely, whenever things are related to something, those
-that are of a particular sort are related to a particular sort of thing, as it
-(b) seems to me, whereas those that are just themselves are related only to a
-thing that is just itself.
+GLAUCON: Ít nhất thì chúng sẽ không có tác dụng đó với tôi.
 
-GLAUCON: I do not understand.
+SOCRATES: Dù sao đi nữa, để tránh phải xem xét từng sự phản đối một và mất nhiều thời gian để chứng minh tất cả chúng đều sai, hãy giả thuyết rằng những gì chúng ta đã nói là chính xác và tiếp tục, với sự hiểu biết rằng nếu nó từng bị chứng minh là không chính xác, tất cả những hệ quả mà chúng ta đã rút ra từ nó sẽ bị vô hiệu hóa.
 
-SOCRATES: Don’t you understand that the greater is such as to be greater
-than something?
+GLAUCON: Vâng, đó là những gì chúng ta nên làm.
+(b) SOCRATES: Bây giờ, chẳng phải anh sẽ coi việc đồng ý và phản đối, muốn có một thứ gì đó và từ chối nó, lấy một thứ gì đó và đẩy nó ra xa, tất cả đều là những cặp đối lập lẫn nhau, cho dù là những hành động đối lập hay những sự chịu đựng đối lập thì cũng không quan trọng sao?
 
-GLAUCON: Of course.
+GLAUCON: Vâng, chúng là những cặp đối lập.
 
-SOCRATES: Than the less?
+SOCRATES: Còn cơn khát, cơn đói, và các *bản năng* nói chung, cũng như sự ao ước và mong muốn thì sao? Anh có xếp tất cả chúng vào đâu đó trong số (c) những loại thứ chúng ta vừa đề cập không? Ví dụ, chẳng phải anh sẽ nói rằng *linh hồn* của một người có *bản năng* muốn thứ mà nó có *bản năng* hướng tới, và kéo về phía mình những gì nó ao ước có được; và, ngoài ra, trong chừng mực *linh hồn* của anh ta ao ước một thứ gì đó được trao cho nó, nó gật đầu đồng ý với chính nó như thể để trả lời một câu hỏi, và phấn đấu để đạt được nó sao?
 
-GLAUCON: Yes.
+GLAUCON: Tôi sẽ nói vậy.
 
-SOCRATES: And the much greater than the much less. Isn’t that so?
+SOCRATES: Còn việc không-muốn, không-ao ước, và không-có *bản năng* thì sao? Chẳng phải chúng ta sẽ xếp chúng vào chính những điều đối lập, những trường hợp mà *linh hồn* đẩy và xua đuổi mọi thứ ra khỏi chính nó sao?
+(d) GLAUCON: Dĩ nhiên.
 
-GLAUCON: Yes.
+SOCRATES: Vì điều đó là đúng, chẳng phải chúng ta sẽ nói rằng có một loại bao gồm các *bản năng*, và những ví dụ rõ ràng nhất của chúng là những gì chúng ta gọi là cơn đói và cơn khát sao?
 
-SOCRATES: And the once greater than the once less? And the going-to-be
-greater than the going-to-be less?
+GLAUCON: Chúng ta sẽ nói vậy.
 
-GLAUCON: Certainly.
+SOCRATES: Chẳng phải một cái là dành cho thức ăn, cái kia là dành cho đồ uống sao?
 
-SOCRATES: And doesn’t the same hold of the more in relation to the
-(c) fewer, the double to the half, and everything of that sort; and also of
-heavier to lighter and faster to slower; and, in addition, of hot to cold, and
-all other similar things?
+GLAUCON: Vâng.
 
-GLAUCON: Yes, indeed.
+SOCRATES: Bây giờ, trong chừng mực nó là cơn khát, liệu nó có phải là một *bản năng* trong *linh hồn* đối với nhiều hơn những gì chúng ta nói về nó không? Ý tôi là, cơn khát có phải là cơn khát đồ uống nóng hay lạnh, hay nhiều đồ uống hay ít, hoặc, nói tóm lại, đối với một loại đồ uống nhất định nào đó không? Hay chẳng phải là nếu sức nóng hiện diện cùng với cơn khát, nó khiến *bản năng* hướng tới (e) một thứ gì đó lạnh nữa, trong khi sự bổ sung của cái lạnh khiến nó trở thành một *bản năng* đối với một thứ gì đó nóng? Và nếu có nhiều cơn khát, do sự hiện diện của sự nhiều, chẳng phải nó sẽ khiến ham muốn hướng tới nhiều đồ uống, và nơi nào ít thì hướng tới ít sao? Nhưng bản thân cơn khát sẽ không bao giờ hướng tới bất cứ thứ gì khác ngoài chính thứ mà bản chất của nó là một *bản năng* hướng tới: cụ thể là, bản thân đồ uống; và, tương tự, cơn đói là dành cho thức ăn.
 
-SOCRATES: What about the various kinds of knowledge? Aren’t they the
-same way? Knowledge itself is of what can be learned itself (or of whatever
-we should take the object of knowledge to be), whereas a particular knowl-
-edge of a particular sort is of a particular thing of a particular sort. I mean
+GLAUCON: Đúng là như vậy. Ít nhất thì tự bản thân nó, mỗi *bản năng* chỉ dành cho đối tượng tự nhiên của nó, trong khi một *bản năng* đối với một đối tượng loại này hay loại kia phụ thuộc vào những sự bổ sung.
 
-something like this: when knowledge of building houses was developed, it
-(d) differed from the other kinds of knowledge, and so was called knowledge of
-building. Isn’t that so?
+SOCRATES: Vậy không ai có thể bắt gặp chúng ta khi chưa chuẩn bị, hoặc làm phiền chúng ta bằng cách (438a) tuyên bố rằng không ai có *bản năng* đối với đồ uống mà là đối với đồ uống ngon, cũng không phải đối với thức ăn mà là đối với thức ăn ngon, vì *bản năng* của mọi người là hướng tới những thứ tốt đẹp. Và vì vậy, nếu cơn khát là một *bản năng*, nó sẽ là một *bản năng* đối với đồ uống ngon hay bất cứ thứ gì ngon, và tương tự đối với các *bản năng* khác.
 
-GLAUCON: Of course.
+GLAUCON: Vâng, có vẻ như có lý trong sự phản đối đó.
 
-SOCRATES: And wasn’t that because it was a different sort of knowledge
-from all the others?
+SOCRATES: Nhưng chắc chắn, bất cứ khi nào mọi thứ có liên quan đến một thứ gì đó, những thứ thuộc một loại cụ thể có liên quan đến một loại thứ cụ thể, như (b) tôi thấy, trong khi những thứ chỉ là chính chúng thì chỉ liên quan đến một thứ chỉ là chính nó.
 
-GLAUCON: Yes.
+GLAUCON: Tôi không hiểu.
 
-SOCRATES: And wasn’t it because it was of a particular sort of thing that it
-itself became a particular sort of knowledge? And isn’t this true of all the
-crafts and sciences?
+SOCRATES: Anh không hiểu rằng cái lớn hơn là như vậy để lớn hơn một thứ gì đó sao?
 
-GLAUCON: It is.
+GLAUCON: Dĩ nhiên.
 
-SOCRATES: Well, then, you should think of that as what I wanted to get
-across before—if you understand it now—when I said that whenever things
-are related to something, those that are just themselves are related to things
-that are just themselves, whereas those of a particular sort are related to
-things of a particular sort.And I do not at all mean that the sorts in question
-(e) have to be the same for them both—that the knowledge of health and dis-
-ease is healthy and diseased, or that that of good and bad things is good and
-bad. On the contrary, I mean that when knowledge occurred that was not
-just knowledge of the thing itself that knowledge is of, but of something of
-(a) particular sort, which in this case was health and disease, the result was
-that it itself became a particular sort of knowledge; and this caused it to be
-no longer called simply knowledge but, with the addition of the particular
-sort, medical knowledge.
+SOCRATES: Lớn hơn cái nhỏ hơn?
 
-GLAUCON: I understand and I think you are right.
+GLAUCON: Vâng.
 
-SOCRATES: Returning to thirst, then, wouldn’t you include it among the
-(439a) things that are related to something just by being what they are? Surely
-thirst is related to. . . .
+SOCRATES: Và cái lớn hơn nhiều thì lớn hơn cái nhỏ hơn nhiều. Có phải vậy không?
 
-GLAUCON: I would. It is related to drink.
+GLAUCON: Vâng.
 
-SOCRATES: So a particular sort of thirst is for a particular sort of drink.
+SOCRATES: Và cái đã từng lớn hơn thì lớn hơn cái đã từng nhỏ hơn? Và cái sẽ lớn hơn thì lớn hơn cái sẽ nhỏ hơn?
 
-Thirst itself, however, is not for much or little, good or bad, or, in a word,
-for drink of a particular sort; rather, thirst itself is, by nature, just for drink
-itself. Right?
+GLAUCON: Chắc chắn rồi.
 
-GLAUCON: Absolutely.
+SOCRATES: Và chẳng phải điều tương tự cũng đúng với cái nhiều hơn liên quan đến (c) cái ít hơn, cái gấp đôi đối với cái một nửa, và mọi thứ thuộc loại đó; và cũng đúng với nặng hơn đối với nhẹ hơn và nhanh hơn đối với chậm hơn; và, ngoài ra, của nóng đối với lạnh, và tất cả những thứ tương tự khác sao?
 
-SOCRATES: Hence the soul of the thirsty person, insofar as it is simply
-thirsty, does not want anything else except to drink, and this is what it
-(b) longs for and is impelled to do.
+GLAUCON: Vâng, đúng vậy.
 
-GLAUCON: Clearly.
+SOCRATES: Còn các loại kiến thức khác nhau thì sao? Chẳng phải chúng cũng theo cách tương tự sao? Bản thân kiến thức là về bản thân những gì có thể học được (hoặc về bất cứ thứ gì chúng ta nên coi là đối tượng của kiến thức), trong khi một kiến thức cụ thể về một loại cụ thể là về một thứ cụ thể thuộc một loại cụ thể. Ý tôi là một cái gì đó như thế này: khi kiến thức về việc xây nhà được phát triển, nó (d) khác với các loại kiến thức khác, và vì vậy được gọi là kiến thức xây dựng. Có phải vậy không?
 
-SOCRATES: Then if anything in it draws it back when it is thirsty,
-wouldn’t it be something different from what thirsts and, like a beast,
-drives it to drink? For surely, we say, the same thing, in the same respect of
-itself, in relation to the same thing, and at the same time, cannot do oppo-
-site things.
+GLAUCON: Dĩ nhiên.
 
-GLAUCON: No, it cannot.
+SOCRATES: Và chẳng phải đó là vì nó là một loại kiến thức khác với tất cả những loại khác sao?
 
-SOCRATES: In the same way, I imagine, it is not right to say of the archer
-that his hands at the same time push the bow away and draw it toward him.
+GLAUCON: Vâng.
 
-On the contrary, we should say that one hand pushes it away, while the
-other draws it toward him.
-(c) GLAUCON: Absolutely.
+SOCRATES: Và chẳng phải vì nó là về một loại thứ cụ thể mà bản thân nó trở thành một loại kiến thức cụ thể sao? Và chẳng phải điều này đúng với tất cả các nghề thủ công và khoa học sao?
 
-SOCRATES: Now, we would say, wouldn’t we, that some people are thirsty
-sometimes, yet unwilling to drink?
+GLAUCON: Đúng vậy.
 
-GLAUCON: Many people often are.
+SOCRATES: Vậy thì, anh nên nghĩ về điều đó như những gì tôi muốn truyền đạt trước đây, nếu bây giờ anh hiểu nó, khi tôi nói rằng bất cứ khi nào mọi thứ có liên quan đến một thứ gì đó, những thứ chỉ là chính chúng có liên quan đến những thứ chỉ là chính chúng, trong khi những thứ thuộc một loại cụ thể có liên quan đến những thứ thuộc một loại cụ thể. Và tôi hoàn toàn không có ý nói rằng các loại được đề cập (e) phải giống nhau cho cả hai, rằng kiến thức về sức khỏe và bệnh tật là khỏe mạnh và ốm yếu, hoặc kiến thức về những thứ tốt và xấu là tốt và xấu. Trái lại, ý tôi là khi xuất hiện kiến thức không chỉ là kiến thức về bản thân cái thứ mà kiến thức đó hướng tới, mà là về một thứ thuộc một loại cụ thể, trong trường hợp này là sức khỏe và bệnh tật, kết quả là bản thân nó trở thành một loại kiến thức cụ thể; và điều này khiến nó không còn được gọi đơn giản là kiến thức nữa mà, với sự bổ sung của loại cụ thể, được gọi là kiến thức y học.
 
-SOCRATES: What, then, should one say about them? Isn’t it that there is an
-element in their soul urging them to drink, and also one stopping them—
-something different that masters the one doing the urging?
+GLAUCON: Tôi hiểu và tôi nghĩ anh đúng.
 
-GLAUCON: I certainly think so.
+SOCRATES: Vậy quay trở lại với cơn khát, chẳng phải anh sẽ xếp nó vào (439a) những thứ có liên quan đến một thứ gì đó chỉ bằng cách là chính chúng sao? Chắc chắn cơn khát có liên quan đến. . . .
 
-SOCRATES: Doesn’t the element doing the stopping in such cases arise—
-when it does arise—from rational calculation, while the things that drive
-(d) and drag are present because of feelings and diseases?
+GLAUCON: Tôi sẽ làm vậy. Nó có liên quan đến đồ uống.
 
-GLAUCON: Apparently so.
+SOCRATES: Vậy một loại khát cụ thể là dành cho một loại đồ uống cụ thể. Tuy nhiên, bản thân cơn khát không phải là dành cho nhiều hay ít, ngon hay dở, hoặc, nói tóm lại, cho một loại đồ uống cụ thể; thay vào đó, bản thân cơn khát, theo tự nhiên, chỉ dành cho bản thân đồ uống. Đúng không?
 
-SOCRATES: It would not be unreasonable for us to claim, then, that there
-are two elements, different from one another; and to call the element in the
-soul with which it calculates, the rationally calculating element; and the
-one with which it feels passion, hungers, thirsts, and is stirred by other
-appetites, the irrational and appetitive element, friend to certain ways of
-being ﬁlled and certain pleasures.
+GLAUCON: Hoàn toàn đúng.
 
-GLAUCON: No, it would not. Indeed, it would be a very natural thing for
-(e) us to do.
+SOCRATES: Do đó, *linh hồn* của người đang khát, trong chừng mực nó chỉ đơn giản là khát, không muốn bất cứ thứ gì khác ngoài việc uống, và đây là điều nó (b) khao khát và bị thúc đẩy phải làm.
 
-SOCRATES: Let’s assume, then, that we have distinguished these two kinds
-of elements in the soul. Now, is the spirited element—the one with which
-we feel anger—a third kind of thing, or is it the same in nature as one of
-these others?
+GLAUCON: Rõ ràng.
 
-GLAUCON: As the appetitive element, perhaps.
+SOCRATES: Vậy nếu có bất cứ thứ gì trong nó kéo nó lại khi nó đang khát, chẳng phải đó sẽ là một thứ gì đó khác với cái đang khát và, giống như một con thú, đang thúc đẩy nó uống sao? Bởi vì chắc chắn, chúng ta nói, cùng một thứ, ở cùng một khía cạnh của chính nó, liên quan đến cùng một thứ, và vào cùng một thời điểm, không thể làm những điều đối lập.
 
-SOCRATES: But I once heard a story and I believe it. Leontius, the son of
-Aglaeon, was going up from the Piraeus along the outside of the North Wall
-when he saw some corpses with the public executioner nearby. He had an
-appetitive desire to look at them, but at the same time he was disgusted and
-turned himself away. For a while he struggled and put his hand over his eyes,
-(440a) but ﬁnally, mastered by his appetite, he opened his eyes wide and rushed
-toward the corpses, saying: “Look for yourselves, you evil wretches; take
-your ﬁll of the beautiful sight.”22
-GLAUCON: I have also heard that story myself.
+GLAUCON: Không, nó không thể.
 
-SOCRATES: Yet, surely, the story suggests that anger sometimes makes war
-against the appetites as one thing against another.
+SOCRATES: Theo cùng một cách, tôi hình dung, sẽ không đúng nếu nói về người cung thủ rằng đôi tay của anh ta vào cùng một thời điểm vừa đẩy cây cung ra xa vừa kéo nó về phía mình. Trái lại, chúng ta nên nói rằng một tay đẩy nó ra xa, trong khi tay kia kéo nó về phía anh ta.
 
-GLAUCON: Yes, it does suggest that.
+(c) GLAUCON: Hoàn toàn đúng.
 
-SOCRATES: And don’t we often notice on other occasions that when
-(b) appetite forces someone contrary to his rational calculation, he reproaches
-himself and feels anger at the thing in him that is doing the forcing; and just
-as if there were two warring factions, such a person’s spirit becomes the ally
-of his reason? But spirit partnering the appetites to do what reason has
-decided should not be done—I do not imagine you would say that you had
-ever seen that, either in yourself or in anyone else.
+SOCRATES: Bây giờ, chúng ta sẽ nói, phải không, rằng một số người đôi khi khát, nhưng lại không muốn uống?
 
-GLAUCON: No, by Zeus, I would not.
+GLAUCON: Nhiều người thường như vậy.
 
-SOCRATES: And what about when a person thinks he is doing some injus-
-(c) tice? Isn’t it true that the nobler he is, the less capable he is of feeling angry
-if he suffers hunger, cold, or the like at the hands of someone whom he
-believes to be inﬂicting this on him justly; and won’t his spirit, as I say,
-refuse to be aroused?
+SOCRATES: Vậy thì, người ta nên nói gì về họ? Chẳng phải là có một yếu tố trong *linh hồn* họ đang thúc giục họ uống, và cũng có một yếu tố đang ngăn cản họ, một thứ gì đó khác làm chủ cái đang thúc giục sao?
 
-GLAUCON: It is true.
+GLAUCON: Tôi chắc chắn nghĩ vậy.
 
-SOCRATES: But what about when a person believes he is being unjustly
-treated? Doesn’t his spirit boil then, and grow harsh and ﬁght as an ally of
-what he holds to be just? And even if it suffers hunger, cold, and every
-imposition of that sort, doesn’t it stand ﬁrm and win out over them, not
-(d) ceasing its noble efforts until it achieves its purpose, or dies, or, like a dog
-being called to heel by a shepherd, is called back by the reason alongside it
-and becomes gentle?
+SOCRATES: Chẳng phải yếu tố thực hiện việc ngăn cản trong những trường hợp như vậy nảy sinh, khi nó nảy sinh, từ sự tính toán của *lý trí*, trong khi những thứ thúc đẩy (d) và lôi kéo hiện diện là do cảm xúc và bệnh tật sao?
 
-GLAUCON: Your simile is perfect. And, in fact, we did put the auxiliaries
-in our city to be like obedient sheepdogs for the city’s shepherdlike rulers.
+GLAUCON: Có vẻ như vậy.
 
-SOCRATES: You have understood what I was trying to say very well. But
-have you also noticed something else about it?
-(e) GLAUCON: What?
+SOCRATES: Vậy sẽ không vô lý nếu chúng ta tuyên bố rằng có hai yếu tố, khác biệt với nhau; và gọi yếu tố trong *linh hồn* mà nó dùng để tính toán, là yếu tố tính toán bằng *lý trí*; và yếu tố mà nó dùng để cảm nhận đam mê, đói, khát, và bị khuấy động bởi các *bản năng* khác, là yếu tố phi lý trí và thuộc về *bản năng*, vốn là bạn của những cách thức được thỏa mãn và những khoái lạc nhất định.
 
-[22]: A fragment of the comedy Kapêlides by Theopompus (410–370 BCE) tells us that
-(a) certain Leontinus (emended to Leontius because of Plato’s reference here) was
-known for his love of boys as pale as corpses. So his desire is probably sexual in ori-
-gin, and for that reason appetitive.The North and South Walls enclosed an area con-
-necting Athens to Piraeus.
+(e) GLAUCON: Không, sẽ không vô lý. Thực sự, đó sẽ là một điều rất tự nhiên để chúng ta làm.
 
-SOCRATES: That it is the opposite of what we recently thought about the
-kind of thing spirit is.You see, then we thought of it as something appeti-
-tive.23 But now, far from saying that, we say that in the faction that takes
-place in the soul, it is far more likely to take arms on the side of the ratio-
-nally calculating element.
+SOCRATES: Vậy hãy giả định rằng chúng ta đã phân biệt được hai loại yếu tố này trong *linh hồn*. Bây giờ, liệu yếu tố *khí phách*, yếu tố mà chúng ta dùng để cảm thấy tức giận, có phải là một loại thứ ba, hay nó có cùng bản chất với một trong những yếu tố kia?
 
-GLAUCON: Absolutely.
+GLAUCON: Có lẽ là giống yếu tố *bản năng*.
 
-SOCRATES: Is it also different from this, then, or is it some kind of ratio-
-nally calculating element, so that there are not three kinds of things in the
-soul, but two—the rationally calculating element and the appetitive one?
+SOCRATES: Nhưng tôi từng nghe một câu chuyện và tôi tin nó. Leontius, con trai của Aglaeon, đang đi lên từ Piraeus dọc theo bên ngoài Bức Tường Phía Bắc thì anh ta nhìn thấy một vài xác chết với người đao phủ ở gần đó. Anh ta có một ham muốn thuộc về *bản năng* là muốn nhìn chúng, nhưng đồng thời anh ta cũng cảm thấy ghê tởm và quay đi. Trong một lúc, anh ta đấu tranh và lấy tay che mắt lại, (440a) nhưng cuối cùng, bị *bản năng* của mình làm chủ, anh ta mở to mắt và lao về phía những xác chết, nói rằng: "Hãy tự nhìn đi, hỡi những kẻ khốn khổ xấu xa; hãy nhìn cho thỏa thích cảnh tượng đẹp đẽ này."[22]
 
-Or rather, just as there were three classes in the city that held it together—
-(441a) the moneymaking, the auxiliary, and the deliberative—is there also this
-third element in the soul, the spirited kind, which is the natural auxiliary of
-the rationally calculating element, if it has not been corrupted by bad
-upbringing?
+GLAUCON: Chính tôi cũng đã nghe câu chuyện đó.
 
-GLAUCON: There must be a third.
+SOCRATES: Tuy nhiên, chắc chắn, câu chuyện gợi ý rằng sự tức giận đôi khi gây chiến chống lại các *bản năng* như một thứ chống lại một thứ khác.
 
-SOCRATES: Yes, provided, at any rate, that it can be shown to be as distinct
-from the rationally calculating element as it was shown to be from the
-appetitive one.
+GLAUCON: Vâng, nó có gợi ý điều đó.
 
-GLAUCON: But it is not difﬁcult to show that. After all, one can see it even
-in small children: they are full of spirit right from birth, but as for rational
-calculation, some of them seem to me never to possess it, while the masses
-(b) do so quite late.
+SOCRATES: Và chẳng phải chúng ta thường nhận thấy vào những dịp khác rằng khi (b) *bản năng* ép buộc ai đó làm trái với sự tính toán của *lý trí* của anh ta, anh ta tự trách mình và cảm thấy tức giận với thứ bên trong mình đang thực hiện sự ép buộc; và giống như thể có hai phe phái đang giao chiến, *khí phách* của một người như vậy trở thành đồng minh của *lý trí* của anh ta sao? Nhưng *khí phách* hợp tác với *bản năng* để làm những gì *lý trí* đã quyết định là không nên làm, tôi không hình dung anh sẽ nói rằng anh đã từng thấy điều đó, dù là ở bản thân anh hay ở bất kỳ ai khác.
 
-SOCRATES: Yes, by Zeus, you put that really well. Besides, one can see in
-animals that what you say is true. But, in addition to that, our earlier quota-
-tion from Homer also bears it out: “He struck his chest and spoke to his
-heart.”24 You see, in it Homer clearly presents what has calculated about
-(c) better and worse, rebuking what is irrationally angry as though it were
-something different.
+GLAUCON: Không, nhân danh thần Zeus, tôi chưa từng.
 
-GLAUCON: That’s exactly right.
+(c) SOCRATES: Và còn khi một người nghĩ rằng anh ta đang làm một *điều sai* thì sao? Chẳng phải sự thật là anh ta càng cao thượng, anh ta càng ít có khả năng cảm thấy tức giận nếu anh ta phải chịu đựng cơn đói, cái lạnh, hoặc những thứ tương tự dưới tay của một người mà anh ta tin là đang giáng những điều này xuống anh ta một cách đúng đắn; và chẳng phải *khí phách* của anh ta, như tôi nói, sẽ từ chối bị kích động sao?
 
-SOCRATES: Well, we have had a difﬁcult swim through all that, and we are
-pretty much agreed that the same classes as are in the city are in the soul of
-each individual, and an equal number of them too.
+GLAUCON: Điều đó là sự thật.
 
-GLAUCON: That’s true.
+SOCRATES: Nhưng còn khi một người tin rằng anh ta đang bị đối xử một cách sai trái thì sao? Chẳng phải *khí phách* của anh ta sẽ sôi sục lúc đó, và trở nên gay gắt và chiến đấu như một đồng minh của những gì anh ta cho là đúng đắn sao? Và ngay cả khi nó phải chịu đựng cơn đói, cái lạnh, và mọi sự áp đặt loại đó, chẳng phải nó vẫn đứng vững và chiến thắng chúng, không (d) ngừng những nỗ lực cao quý của mình cho đến khi nó đạt được mục đích, hoặc chết, hoặc, giống như một con chó bị người chăn cừu gọi về gót chân, bị gọi lại bởi *lý trí* bên cạnh nó và trở nên ngoan ngoãn sao?
 
-SOCRATES: Then doesn’t it already necessarily follow that the private indi-
-vidual is wise in the same way and because of the same element as is the
-city?
+GLAUCON: Sự so sánh của anh thật hoàn hảo. Và, trên thực tế, chúng ta đã đặt các *trợ thủ* trong *thành bang* của mình giống như những con chó chăn cừu vâng lời đối với những người cai trị giống như người chăn cừu của *thành bang*.
 
-GLAUCON: Of course.
-[23]: 439e5.
+SOCRATES: Anh đã hiểu rất rõ những gì tôi đang cố gắng nói. Nhưng anh có nhận ra một điều gì khác về nó không?
 
-[24]: Odyssey 20.17. See 390d.
+(e) GLAUCON: Điều gì?
 
-SOCRATES: And that the city is courageous in the same way and because
-(d) of the same element as is the private individual? And that in everything else
-that pertains to virtue, both are alike?
+SOCRATES: Rằng nó ngược lại với những gì chúng ta vừa nghĩ về loại thứ mà *khí phách* là. Anh thấy đấy, lúc nãy chúng ta nghĩ về nó như một thứ gì đó thuộc về *bản năng*.[23] Nhưng bây giờ, khác xa với việc nói như vậy, chúng ta nói rằng trong phe phái diễn ra trong *linh hồn*, nó có nhiều khả năng cầm vũ khí đứng về phía yếu tố tính toán bằng *lý trí* hơn nhiều.
 
-GLAUCON: Necessarily.
+GLAUCON: Hoàn toàn đúng.
 
-SOCRATES: And so, Glaucon, I take it we will also say that a man is just in
-exactly the same way as is a city.
+SOCRATES: Vậy nó cũng khác với yếu tố này, hay nó là một loại yếu tố tính toán bằng *lý trí* nào đó, để không có ba loại thứ trong *linh hồn*, mà là hai, yếu tố tính toán bằng *lý trí* và yếu tố *bản năng*?
+(441a) Hay đúng hơn, giống như có ba giai cấp trong *thành bang* đã gắn kết nó lại với nhau, giai cấp kiếm tiền, giai cấp *trợ thủ*, và giai cấp cân nhắc, cũng có yếu tố thứ ba này trong *linh hồn*, loại *khí phách*, vốn là *trợ thủ* tự nhiên của yếu tố tính toán bằng *lý trí*, nếu nó không bị làm tha hóa bởi sự nuôi dưỡng tồi tệ?
 
-GLAUCON: That too follows with absolute necessity.
+GLAUCON: Phải có một yếu tố thứ ba.
 
-SOCRATES: But we surely have not forgotten that the city was just because
-each of the three classes in it does its own work.
+SOCRATES: Vâng, ít nhất là với điều kiện nó có thể được chứng minh là khác biệt với yếu tố tính toán bằng *lý trí* như nó đã được chứng minh là khác biệt với yếu tố *bản năng*.
 
-GLAUCON: I do not think we have.
+GLAUCON: Nhưng điều đó không khó để chứng minh. Rốt cuộc thì, người ta có thể thấy điều đó ngay cả ở trẻ nhỏ: chúng tràn đầy *khí phách* ngay từ lúc sinh ra, nhưng đối với sự tính toán bằng *lý trí*, một số đứa dường như với tôi là không bao giờ sở hữu nó, trong khi đám đông (b) thì sở hữu nó khá muộn.
 
-SOCRATES: We should also bear in mind, then, that in the case of each one
-of us as well, the one in whom each of the elements does its own job will
-(e) be just and do his own job.
+SOCRATES: Vâng, nhân danh thần Zeus, anh nói điều đó thực sự rất hay. Bên cạnh đó, người ta có thể thấy ở động vật rằng những gì anh nói là đúng. Nhưng, ngoài điều đó ra, trích dẫn trước đó của chúng ta từ Homer cũng chứng minh điều đó: "Chàng đấm vào ngực mình và nói với trái tim mình."[24] Anh thấy đấy, trong đó Homer trình bày rõ ràng cái đã tính toán về (c) điều tốt hơn và tệ hơn, đang quở trách cái đang tức giận một cách phi lý trí như thể nó là một thứ gì đó khác biệt.
 
-GLAUCON: Certainly.
+GLAUCON: Điều đó chính xác.
 
-SOCRATES: Then isn’t it appropriate for the rationally calculating element
-to rule, since it is really wise and exercises foresight on behalf of the whole
-soul; and for the spirited kind to obey it and be its ally?
+SOCRATES: Chà, chúng ta đã có một chuyến bơi khó khăn qua tất cả những điều đó, và chúng ta khá đồng ý rằng những giai cấp tương tự như trong *thành bang* cũng ở trong *linh hồn* của mỗi cá nhân, và với một số lượng bằng nhau nữa.
 
-GLAUCON: Of course.
+GLAUCON: Đó là sự thật.
 
-SOCRATES: Now, as we were saying, isn’t it a mixture of musical and phys-
-ical training that makes these elements concordant, tightening and nurtur-
-(442a) ing the ﬁrst with ﬁne words and learning, while relaxing, soothing, and
-making gentle the second by means of harmony and rhythm?
+SOCRATES: Vậy chẳng phải nó đã tất yếu kéo theo rằng cá nhân tư nhân khôn ngoan theo cùng một cách và nhờ vào cùng một yếu tố như *thành bang* sao?
 
-GLAUCON: Yes, exactly.
+GLAUCON: Dĩ nhiên.
 
-SOCRATES: And these two elements, having been trained in this way and
-having truly learned their own jobs and been educated, will be put in
-charge of the appetitive element—the largest one in each person’s soul and,
-by nature, the most insatiable for money.They will watch over it to see that
-it does not get so ﬁlled with the so-called pleasures of the body that it
-becomes big and strong, and no longer does its own job but attempts to
-(b) enslave and rule over the classes it is not ﬁtted to rule, thereby overturning
-the whole life of anyone in whom it occurs.
+SOCRATES: Và rằng *thành bang* dũng cảm theo cùng một cách và nhờ (d) vào cùng một yếu tố như cá nhân tư nhân? Và rằng trong mọi thứ khác liên quan đến *sự hoàn thiện*, cả hai đều giống nhau?
 
-GLAUCON: Yes, indeed.
+GLAUCON: Tất yếu là vậy.
 
-SOCRATES: And wouldn’t these two elements also do the ﬁnest job of
-guarding the whole soul and body against external enemies—the one by
-deliberating, the other by ﬁghting, following the ruler, and using its cour-
-age to carry out the things on which the former had decided?
+SOCRATES: Và vì vậy, Glaucon, tôi cho rằng chúng ta cũng sẽ nói rằng một người đàn ông là *người sống đúng* theo cách chính xác như một *thành bang* là đúng đắn.
 
-GLAUCON: Yes, they would.
+GLAUCON: Điều đó cũng kéo theo với sự tất yếu tuyệt đối.
 
-SOCRATES: I imagine, then, that we call each individual courageous
-because of the latter part—that is, when the part of him that is spirited in
-kind preserves through pains and pleasures the pronouncements of reason25
-(c)
-about what should inspire terror and what should not.
+SOCRATES: Nhưng chắc chắn chúng ta chưa quên rằng *thành bang* đúng đắn vì mỗi một trong ba giai cấp trong nó làm công việc của riêng mình.
 
-GLAUCON: That’s right.
+GLAUCON: Tôi không nghĩ chúng ta đã quên.
 
-SOCRATES: But we call him wise, surely, because of the small part that
-rules in him, makes those pronouncements, and has within it the knowl-
-edge of what is advantageous—both for each part and for the whole, the
-community composed of all three.
+SOCRATES: Vậy chúng ta cũng nên ghi nhớ rằng, trong trường hợp của mỗi người chúng ta cũng vậy, người mà trong đó mỗi yếu tố làm công việc của riêng mình sẽ (e) là *người sống đúng* và làm công việc của riêng mình.
 
-GLAUCON: Yes, indeed.
+GLAUCON: Chắc chắn rồi.
 
-SOCRATES: What about temperance? Isn’t he temperate because of the
-friendly and concordant relations between these same things: namely, when
-both the ruler and its two subjects share the belief that the rationally calcu-
-(d) lating element should rule, and do not engage in faction against it?
+SOCRATES: Vậy chẳng phải là thích hợp để yếu tố tính toán bằng *lý trí* cai trị, vì nó thực sự khôn ngoan và thực thi sự nhìn xa trông rộng thay mặt cho toàn bộ *linh hồn*; và để loại *khí phách* vâng lời nó và làm đồng minh của nó sao?
 
-GLAUCON: Temperance in a city and in a private individual is certainly
-nothing other than that.
+GLAUCON: Dĩ nhiên.
 
-SOCRATES: But surely, now, a person will be just because of what we have
-so often described and in the way we have so often described.
+(442a) SOCRATES: Bây giờ, như chúng ta đã nói, chẳng phải sự kết hợp giữa giáo dục âm nhạc và thể chất sẽ làm cho những yếu tố này hòa hợp, thắt chặt và nuôi dưỡng yếu tố thứ nhất bằng những lời lẽ tốt đẹp và sự học hỏi, trong khi thư giãn, xoa dịu, và làm cho yếu tố thứ hai trở nên hiền hòa bằng phương tiện của sự hòa âm và nhịp điệu sao?
 
-GLAUCON: Necessarily.
+GLAUCON: Vâng, chính xác.
 
-SOCRATES: Well, then, has our justice become in any way blurred? Does it
-look like anything other than the very thing we found in the city?
+SOCRATES: Và hai yếu tố này, sau khi được đào tạo theo cách này và đã thực sự học được công việc của riêng mình cũng như được giáo dục, sẽ được giao phụ trách yếu tố *bản năng*, yếu tố lớn nhất trong *linh hồn* của mỗi người và, theo tự nhiên, là yếu tố vô độ nhất đối với tiền bạc. Chúng sẽ theo dõi nó để đảm bảo rằng nó không bị lấp đầy bởi những cái gọi là khoái lạc của cơ thể đến mức nó trở nên to lớn và mạnh mẽ, và không còn làm công việc của riêng mình nữa mà cố gắng (b) nô dịch và cai trị những giai cấp mà nó không phù hợp để cai trị, từ đó lật đổ toàn bộ cuộc sống của bất kỳ ai mà nó xảy ra bên trong.
 
-GLAUCON: It doesn’t seem so to me, at least.
+GLAUCON: Vâng, đúng vậy.
 
-SOCRATES: We could make perfectly sure, if there is still anything in our
-(e) souls that disputes this, by applying everyday tests to it.
+SOCRATES: Và chẳng phải hai yếu tố này cũng sẽ làm công việc tốt nhất là bảo vệ toàn bộ *linh hồn* và cơ thể chống lại những kẻ thù bên ngoài, một cái bằng cách cân nhắc, cái kia bằng cách chiến đấu, đi theo người cai trị, và sử dụng *lòng dũng cảm* của mình để thực hiện những điều mà cái trước đã quyết định sao?
 
-GLAUCON: Which ones?
+GLAUCON: Vâng, chúng sẽ làm vậy.
 
-SOCRATES: For example, if we had to come to an agreement about
-whether a man similar in nature and training to this city of ours had embez-
-zled gold or silver he had accepted for deposit, who do you think would
-consider him more likely to have done so rather than men of a different
-(443a) sort?
+SOCRATES: Vậy tôi hình dung rằng, chúng ta gọi mỗi cá nhân là dũng cảm nhờ vào phần sau, tức là, khi phần *khí phách* trong anh ta bảo tồn qua những nỗi đau và khoái lạc những tuyên bố của *lý trí*[25] (c) về những gì nên gây khiếp sợ và những gì không.
 
-GLAUCON: No one.
+GLAUCON: Đúng vậy.
 
-SOCRATES: And would he have anything to do with temple robberies,26
-thefts, or betrayals of friends in private life or of cities in public life?
+SOCRATES: Nhưng chắc chắn chúng ta gọi anh ta là khôn ngoan nhờ vào phần nhỏ bé cai trị trong anh ta, đưa ra những tuyên bố đó, và có bên trong nó kiến thức về những gì là có lợi, cả cho mỗi phần và cho toàn thể, tức là cộng đồng bao gồm cả ba phần.
 
-GLAUCON: No, nothing.
+GLAUCON: Vâng, đúng vậy.
 
-SOCRATES: And he would be in no way untrustworthy when it came to
-promises or other agreements.
+(d) SOCRATES: Còn *tiết chế* thì sao? Chẳng phải anh ta có *tiết chế* nhờ vào mối quan hệ thân thiện và hòa hợp giữa chính những thứ này: cụ thể là, khi cả người cai trị và hai thần dân của nó đều chia sẻ niềm tin rằng yếu tố tính toán bằng *lý trí* nên cai trị, và không tham gia vào phe phái chống lại nó sao?
 
-[25]: Reading toË lÒgou with Adam.
+GLAUCON: *Tiết chế* trong một *thành bang* và trong một cá nhân tư nhân chắc chắn không là gì khác ngoài điều đó.
 
-[26]: See 344b3 note.
+SOCRATES: Nhưng chắc chắn, bây giờ, một người sẽ là *người sống đúng* nhờ vào những gì chúng ta đã mô tả rất thường xuyên và theo cách chúng ta đã mô tả rất thường xuyên.
 
-GLAUCON: How could he be?
+GLAUCON: Tất yếu là vậy.
 
-SOCRATES: And surely adultery, disrespect for parents, and neglect of the
-gods would be more characteristic of any other sort of person than of this
-one.
+SOCRATES: Vậy thì, *điều đúng* của chúng ta có bị mờ nhạt đi theo bất kỳ cách nào không? Nó có trông giống bất cứ thứ gì khác ngoài chính cái thứ mà chúng ta đã tìm thấy trong *thành bang* không?
 
-GLAUCON: Of any other sort, indeed.
+GLAUCON: Ít nhất thì đối với tôi, có vẻ là không.
 
-SOCRATES: And isn’t the reason for all this the fact that each element
-(b) within him does its own job where ruling and being ruled are concerned?
+SOCRATES: Chúng ta có thể chắc chắn hoàn toàn, nếu vẫn còn bất cứ điều gì trong *linh hồn* chúng ta tranh cãi về điều này, bằng cách áp dụng các bài kiểm tra hàng ngày cho nó. (e)
 
-GLAUCON: Yes, that and nothing else.
+GLAUCON: Những bài kiểm tra nào?
 
-SOCRATES: Are you still looking for justice to be something besides this
-power that produces men and cities of the sort we have described?
+(443a) SOCRATES: Ví dụ, nếu chúng ta phải đi đến một thỏa thuận về việc liệu một người đàn ông có bản chất và sự đào tạo tương tự như *thành bang* này của chúng ta có biển thủ vàng hay bạc mà anh ta đã nhận để cất giữ hay không, anh nghĩ ai sẽ coi anh ta có nhiều khả năng làm điều đó hơn là những người đàn ông thuộc loại khác?
 
-GLAUCON: No, by Zeus, I am not.
+GLAUCON: Không ai cả.
 
-SOCRATES: The dream we had has been completely fulﬁlled, then—I
-mean the suspicion we expressed that right from the beginning, when we
-were founding the city, we had, with the help of some god, chanced to hit
-upon the origin and pattern of justice.27
-(c)
-GLAUCON: Absolutely.
+SOCRATES: Và anh ta có dính dáng gì đến các vụ cướp đền thờ,[26] trộm cắp, hay phản bội bạn bè trong đời sống tư nhân hoặc phản bội *thành bang* trong đời sống công cộng không?
 
-SOCRATES: So, Glaucon, it really was—which is why it was so helpful—a
-sort of image of justice, this principle that it is right for someone who is, by
-nature, a shoemaker to practice shoemaking and nothing else, for a carpen-
-ter to practice carpentry, and the same for all the others.
+GLAUCON: Không, không có gì.
 
-GLAUCON: Apparently so.
+SOCRATES: Và anh ta sẽ không hề đáng ngờ vực chút nào khi nói đến những lời hứa hay các thỏa thuận khác.
 
-SOCRATES: And in truth, justice is, it seems, something of this sort.Yet it is
-not concerned with someone’s doing his own job on the outside. On the
-contrary, it is concerned with what is inside; with himself, really, and the
-(d) things that are his own. It means that he does not allow the elements in him
-each to do the job of some other, or the three sorts of elements in his soul
-to meddle with one another. Instead, he regulates well what is really his
-own, rules himself, puts himself in order, becomes his own friend, and har-
-monizes the three elements together, just as if they were literally the three
-deﬁning notes of an octave—lowest, highest, and middle—as well as any
-others that may be in between. He binds together all of these and, from
-(e) having been many, becomes entirely one, temperate and harmonious.Then
-and only then should he turn to action, whether it is to do something con-
-cerning the acquisition of wealth or concerning the care of his body, or
-even something political, or concerning private contracts. In all these areas,
-he considers and calls just and ﬁne the action that preserves this inner har-
-mony and helps achieve it,28 and wisdom the knowledge that oversees such
+GLAUCON: Làm sao anh ta có thể như vậy được?
 
-[27]: 432d2–433b4.
+SOCRATES: Và chắc chắn tội ngoại tình, sự thiếu tôn trọng cha mẹ, và sự bỏ bê thần linh sẽ là đặc trưng của bất kỳ loại người nào khác hơn là của người này.
 
-[28]: Cf. 338e1–339a4.
+GLAUCON: Quả thực là của bất kỳ loại người nào khác.
 
-action; and he considers and calls unjust any action that destroys this har-
-mony, and ignorance the belief that oversees it.29
-(444a)
-GLAUCON: That’s absolutely true, Socrates.
+SOCRATES: Và chẳng phải lý do cho tất cả những điều này là thực tế rằng mỗi yếu tố (b) bên trong anh ta làm công việc của riêng mình khi liên quan đến việc cai trị và bị cai trị sao?
 
-SOCRATES: Well, then, if we claim to have found the just man, the just
-city, and what justice really is in them, we won’t, I imagine, be thought to
-be telling a complete lie.
+GLAUCON: Vâng, điều đó và không gì khác.
 
-GLAUCON: No, by Zeus, we certainly won’t.
+SOCRATES: Anh có còn đang tìm kiếm *điều đúng* là một thứ gì đó bên cạnh sức mạnh này, thứ tạo ra những người đàn ông và những *thành bang* thuộc loại chúng ta đã mô tả không?
 
-SOCRATES: Shall we claim it, then?
+GLAUCON: Không, nhân danh thần Zeus, tôi không tìm kiếm.
 
-GLAUCON: Yes, let’s.
+SOCRATES: Vậy giấc mơ chúng ta có đã hoàn toàn ứng nghiệm, ý tôi là sự nghi ngờ mà chúng ta đã bày tỏ rằng ngay từ đầu, khi chúng ta đang thành lập *thành bang*, chúng ta đã, với sự giúp đỡ của một vị thần nào đó, tình cờ chạm trán với nguồn gốc và khuôn mẫu của *điều đúng*.[27] (c)
 
-SOCRATES: So be it, then. I take it we must look for injustice next.
+GLAUCON: Hoàn toàn đúng.
 
-GLAUCON: Clearly.
-(b) SOCRATES: Mustn’t it, in turn, be a kind of faction among those three—
-(a) their meddling and interfering with one another’s jobs; the rebellion of
-part of the soul against the whole in order to rule in it inappropriately, since
-its nature suits it to be a slave of the ruling class.30 We will say something
+SOCRATES: Vì vậy, Glaucon, nó thực sự là, đó là lý do tại sao nó rất hữu ích, một loại hình ảnh của *điều đúng*, nguyên tắc này rằng thật là đúng đắn khi một người, theo tự nhiên, là một thợ đóng giày thì thực hành nghề đóng giày và không làm gì khác, đối với một thợ mộc thì thực hành nghề mộc, và tương tự đối với tất cả những người khác.
 
-like that, I imagine, and that their disorder and wandering is injustice,
-licentiousness, cowardice, ignorance, and, in a word, the whole of vice.
+GLAUCON: Rõ ràng là vậy.
 
-GLAUCON: That is precisely what they are.
-(c) SOCRATES: Doing unjust actions, then, and being unjust; and, the oppo-
-site, doing just ones—they all surely become clear at once, don’t they, pro-
-vided that both injustice and justice are also clear?
+SOCRATES: Và trên thực tế, *điều đúng* là, có vẻ như, một thứ gì đó thuộc loại này. Tuy nhiên, nó không liên quan đến việc ai đó làm công việc của riêng mình ở bên ngoài. Trái lại, nó liên quan đến những gì ở bên trong; thực sự là với chính anh ta, và (d) những thứ là của riêng anh ta. Nó có nghĩa là anh ta không cho phép các yếu tố trong anh ta mỗi cái làm công việc của một cái khác, hoặc ba loại yếu tố trong *linh hồn* anh ta can thiệp vào nhau. Thay vào đó, anh ta điều chỉnh tốt những gì thực sự là của riêng mình, cai trị chính mình, đưa bản thân vào trật tự, trở thành bạn của chính mình, và hòa hợp ba yếu tố lại với nhau, giống như thể chúng đúng nghĩa là ba nốt nhạc xác định của một quãng tám, thấp nhất, cao nhất, và ở giữa, cũng như bất kỳ nốt nào khác có thể ở giữa. Anh ta liên kết tất cả những thứ này lại và, từ (e) chỗ là nhiều, trở nên hoàn toàn là một, có *tiết chế* và hài hòa. Khi đó và chỉ khi đó anh ta mới nên chuyển sang hành động, cho dù đó là làm một việc gì đó liên quan đến việc thu thập của cải hay liên quan đến việc chăm sóc cơ thể mình, hoặc thậm chí là một việc gì đó mang tính chính trị, hay liên quan đến các hợp đồng tư nhân. Trong tất cả những lĩnh vực này, anh ta coi và gọi là đúng đắn và tốt đẹp cái hành động bảo tồn sự hài hòa bên trong này và giúp đạt được nó,[28] và *sự khôn ngoan* là kiến thức giám sát hành động đó; và anh ta coi và gọi là sai trái bất kỳ hành động nào phá hủy sự hài hòa này, và sự ngu dốt là niềm tin giám sát nó.[29]
 
-GLAUCON: What do you mean?
+(444a) GLAUCON: Điều đó hoàn toàn đúng, Socrates.
 
-SOCRATES: That they do not differ in any way from healthy actions and
-unhealthy ones, that what the latter are in the body, they are in the soul.
+SOCRATES: Vậy thì, nếu chúng ta tuyên bố đã tìm thấy *người sống đúng*, *thành bang* đúng đắn, và *điều đúng* thực sự là gì trong chúng, tôi hình dung, chúng ta sẽ không bị coi là đang nói dối hoàn toàn.
 
-GLAUCON: In what respect?
+GLAUCON: Không, nhân danh thần Zeus, chúng ta chắc chắn sẽ không.
 
-SOCRATES: Surely, healthy actions engender health, unhealthy ones disease.
+SOCRATES: Vậy chúng ta sẽ tuyên bố điều đó chứ?
 
-GLAUCON: Yes.
+GLAUCON: Vâng, hãy làm vậy.
 
-SOCRATES: Well, doesn’t doing just actions also engender justice, unjust
-(d) ones injustice?
+SOCRATES: Vậy cứ quyết định thế đi. Tôi cho rằng tiếp theo chúng ta phải tìm kiếm *điều sai*.
 
-GLAUCON: Necessarily.
+GLAUCON: Rõ ràng.
 
-SOCRATES: But to produce health is to put the elements that are in the
-body in their natural relations of mastering and being mastered by one
-another; while to produce disease is to establish a relation of ruling and
-being ruled by one another that is contrary to nature.
+(b) SOCRATES: Chẳng phải nó, đến lượt mình, phải là một loại phe phái giữa ba yếu tố đó, sự can thiệp và xen vào công việc của nhau; sự nổi loạn của một phần *linh hồn* chống lại toàn thể để cai trị trong đó một cách không thích hợp, vì bản chất của nó phù hợp để làm nô lệ cho giai cấp cai trị.[30] Tôi hình dung chúng ta sẽ nói một điều gì đó giống như vậy, và rằng sự rối loạn và lang thang của chúng là *điều sai*, sự phóng túng, sự hèn nhát, sự ngu dốt, và, nói tóm lại, là toàn bộ thói hư tật xấu.
 
-[29]: The difference between knowledge (epistêmê) and belief (doxa) is explored at
-475d1–480a13.
+GLAUCON: Đó chính xác là những gì chúng là.
 
-[30]: Reading douleÊein t“ toË érxikoË g°nouw with Adam.
+(c) SOCRATES: Vậy, việc làm những hành động sai trái, và việc *sống sai* (being unjust); và, ngược lại, việc làm những hành động đúng đắn, chắc chắn tất cả chúng đều trở nên rõ ràng ngay lập tức, phải không, miễn là cả *điều sai* và *điều đúng* cũng đều rõ ràng?
 
-GLAUCON: That’s right.
+GLAUCON: Ý anh là sao?
 
-SOCRATES: Doesn’t it follow, then, that to produce justice is to establish
-the elements in the soul in a natural relation of mastering and being mas-
-tered by one another, while to produce injustice is to establish a relation of
-ruling and being ruled by one another that is contrary to nature?
+SOCRATES: Rằng chúng không khác biệt theo bất kỳ cách nào so với những hành động khỏe mạnh và những hành động ốm yếu, rằng những gì cái sau là trong cơ thể, thì chúng là trong *linh hồn*.
 
-GLAUCON: Absolutely.
+GLAUCON: Ở khía cạnh nào?
 
-SOCRATES: Virtue, then, so it seems, is a sort of health, a ﬁne and good
-(e) state of the soul; whereas vice seems to be a shameful disease and weakness.
+SOCRATES: Chắc chắn, những hành động khỏe mạnh sinh ra sức khỏe, những hành động ốm yếu sinh ra bệnh tật.
 
-GLAUCON: That’s right.
+GLAUCON: Vâng.
 
-SOCRATES: And don’t ﬁne practices lead to the possession of virtue,
-shameful ones to vice?
+SOCRATES: Chà, chẳng phải việc làm những hành động đúng đắn cũng sinh ra *điều đúng*, những hành động sai (d) trái sinh ra *điều sai* sao?
 
-GLAUCON: Necessarily.
+GLAUCON: Tất yếu là vậy.
 
-SOCRATES: So it now remains, it seems, for us to consider whether it is
-(445a) more proﬁtable to do just actions, engage in ﬁne practices, and be just,
-whether one is known to be so or not; or to do injustice and be unjust,
-provided that one does not have to pay the penalty and become a better
-person as a result of being punished.
+SOCRATES: Nhưng tạo ra sức khỏe là đặt các yếu tố trong cơ thể vào những mối quan hệ tự nhiên của việc làm chủ và bị làm chủ bởi nhau; trong khi tạo ra bệnh tật là thiết lập một mối quan hệ cai trị và bị cai trị bởi nhau trái với tự nhiên.
 
-GLAUCON: But, Socrates, that question seems to me, at least, to have
-become ridiculous, now that the two have been shown to be as we
-described. Life does not seem worth living when the body’s natural consti-
-tution is ruined, not even if one has food and drink of every sort, all the
-money in the world, and every political ofﬁce imaginable. So how—even if
-(b) one could do whatever one wished, except what would liberate one from
-vice and injustice and make one acquire justice and virtue—could it be
-worth living when the natural constitution of the very thing by which we
-live31 is ruined and in turmoil?
+GLAUCON: Đúng vậy.
 
-SOCRATES: Yes, it is ridiculous. All the same, since in fact we have reached
-(a) point from which we can see with the utmost clarity, as it were, that these
-things are so, we must not give up.
+SOCRATES: Vậy chẳng phải nó kéo theo rằng tạo ra *điều đúng* là thiết lập các yếu tố trong *linh hồn* vào một mối quan hệ tự nhiên của việc làm chủ và bị làm chủ bởi nhau, trong khi tạo ra *điều sai* là thiết lập một mối quan hệ cai trị và bị cai trị bởi nhau trái với tự nhiên sao?
 
-GLAUCON: That’s absolutely the last thing we should do.
+GLAUCON: Hoàn toàn đúng.
 
-SOCRATES: Come up here, then, so that you can see how many kinds of
-(c) vice there are—the ones, at any rate, that are worth seeing.
+SOCRATES: Vậy, có vẻ như, *sự hoàn thiện* là một loại sức khỏe, một trạng thái tốt đẹp và (e) hoàn hảo của *linh hồn*; trong khi thói hư tật xấu có vẻ là một căn bệnh và sự yếu đuối đáng xấu hổ.
 
-GLAUCON: I am following. Just tell me.32
-SOCRATES: Well, from the vantage point, so to speak, that we have reached
-in our argument, it seems to me that there is one kind of virtue and an
-unlimited number of kinds of vice, four of which are worth mentioning.
+GLAUCON: Đúng vậy.
 
-[31]: I.e., the soul. See 353d9–10.
+SOCRATES: Và chẳng phải những thực hành tốt đẹp dẫn đến việc sở hữu *sự hoàn thiện*, những thực hành đáng xấu hổ dẫn đến thói hư tật xấu sao?
 
-[32]: See 432c3–4.
+GLAUCON: Tất yếu là vậy.
 
-GLAUCON: What do you mean?
+SOCRATES: Vậy có vẻ như bây giờ điều còn lại là chúng ta phải xem xét liệu (445a) sẽ có lợi hơn khi làm những hành động đúng đắn, tham gia vào những thực hành tốt đẹp, và là *người sống đúng*, cho dù người ta có được biết đến là như vậy hay không; hay là làm *điều sai* và *sống sai*, miễn là người ta không phải trả giá và trở thành một người tốt hơn nhờ bị trừng phạt.
 
-SOCRATES: It seems likely that there are as many types of soul as there are
-types of political constitution of a speciﬁc kind.
+GLAUCON: Nhưng, Socrates, câu hỏi đó đối với tôi, ít nhất, dường như đã trở nên nực cười, bây giờ khi cả hai đã được chứng minh là như chúng ta đã mô tả. Cuộc sống dường như không đáng sống khi thể trạng tự nhiên của cơ thể bị hủy hoại, ngay cả khi người ta có mọi loại thức ăn và đồ uống, mọi tiền bạc trên thế giới, và mọi chức vụ chính trị có thể tưởng tượng được. Vậy làm sao, ngay cả khi (b) người ta có thể làm bất cứ điều gì mình muốn, ngoại trừ những gì sẽ giải phóng người ta khỏi thói hư tật xấu và *điều sai* và khiến người ta đạt được *điều đúng* và *sự hoàn thiện*, cuộc sống lại có thể đáng sống khi thể trạng tự nhiên của chính cái thứ mà nhờ đó chúng ta sống[31] bị hủy hoại và rơi vào hỗn loạn?
 
-GLAUCON: How many is that?
-(d) SOCRATES: Five types of constitution, and ﬁve of soul.
+SOCRATES: Vâng, điều đó thật nực cười. Dù sao đi nữa, vì thực tế chúng ta đã đạt đến một điểm mà từ đó chúng ta có thể thấy với sự rõ ràng tột độ, có thể nói như vậy, rằng những điều này là như thế, chúng ta không được bỏ cuộc.
 
-GLAUCON: Tell me what they are.
+GLAUCON: Đó tuyệt đối là điều cuối cùng chúng ta nên làm.
 
-SOCRATES: I will tell you that one type would be the constitution we have
-been describing. However, there are two ways of referring to it: if one out-
-standing man emerges among the rulers, it is called a kingship; if more than
-one, it is called an aristocracy.
+SOCRATES: Vậy hãy lên đây, để anh có thể thấy có bao nhiêu loại (c) thói hư tật xấu, ít nhất là những loại đáng để xem.
 
-GLAUCON: That’s true.
+GLAUCON: Tôi đang theo dõi. Cứ nói cho tôi biết.[32]
 
-SOCRATES: Well, then, that is one of the kinds I had in mind.You see,
-whether many arise or just one, they won’t change any of the laws of the
-(e) city that are worth mentioning, since they will have been brought up and
-educated in the way we described.
+SOCRATES: Chà, từ điểm thuận lợi, có thể nói như vậy, mà chúng ta đã đạt được trong lập luận của mình, đối với tôi dường như có một loại *sự hoàn thiện* và một số lượng không giới hạn các loại thói hư tật xấu, bốn trong số đó đáng được nhắc đến.
 
-GLAUCON: No, they probably won’t.
+GLAUCON: Ý anh là sao?
 
+SOCRATES: Có vẻ như có bao nhiêu loại *linh hồn* thì có bấy nhiêu loại hiến pháp chính trị thuộc một loại cụ thể.
+
+GLAUCON: Đó là bao nhiêu?
+(d) SOCRATES: Năm loại hiến pháp, và năm loại *linh hồn*.
+
+GLAUCON: Hãy nói cho tôi biết chúng là gì.
+
+SOCRATES: Tôi sẽ nói với anh rằng một loại sẽ là hiến pháp mà chúng ta vừa mô tả. Tuy nhiên, có hai cách để gọi nó: nếu có một người đàn ông xuất chúng nổi lên giữa những người cai trị, nó được gọi là chế độ quân chủ; nếu có nhiều hơn một, nó được gọi là chế độ quý tộc.
+
+GLAUCON: Đó là sự thật.
+
+SOCRATES: Vậy thì, đó là một trong những loại tôi đang nghĩ đến. Anh thấy đấy, dù có nhiều người hay chỉ một người nổi lên, họ sẽ không thay đổi bất kỳ đạo luật nào của (e) *thành bang* đáng được nhắc đến, vì họ sẽ được nuôi dưỡng và giáo dục theo cách chúng ta đã mô tả.
+
+GLAUCON: Không, có lẽ họ sẽ không.
+
+***
+
+### Hiểu Plato trong đoạn này
+
+Trong phần này của *Sách 4*, Plato hoàn thiện một trong những lập luận cốt lõi và nổi tiếng nhất của triết học phương Tây: **sự tương đồng giữa Thành bang (City) và Linh hồn (Soul)**. 
+
+1. **Thành bang không vì một cá nhân:** Khi Adeimantus thắc mắc rằng các vệ binh không được hưởng thụ vật chất (tiền bạc, tài sản), Plato (qua lời Socrates) nhấn mạnh rằng mục đích của nhà nước lý tưởng không phải là làm cho một nhóm nhỏ hạnh phúc, mà là tạo ra sự hài hòa và hạnh phúc cho *toàn bộ* thành bang. Hạnh phúc thực sự của một người làm đúng chức năng của mình không nằm ở sự xa hoa, mà ở việc hoàn thành xuất sắc vai trò tự nhiên của họ.
+2. **Định nghĩa về "Điều đúng" (Justice):** Plato từ chối các định nghĩa thông thường (như trả nợ, làm điều thiện). Ông định nghĩa *điều đúng* là **sự chuyên biệt hóa chức năng** (mỗi người làm đúng việc của mình và không can thiệp vào việc của người khác). Trong thành bang, đó là trật tự giữa 3 giai cấp: Người cai trị (khôn ngoan), Vệ binh/Binh lính (dũng cảm), và Người sản xuất (tiết chế).
+3. **Cấu trúc ba phần của Linh hồn:** Bằng cách sử dụng nguyên lý không mâu thuẫn (một vật không thể vừa làm cái này vừa làm cái đối lập cùng một lúc), Plato chứng minh linh hồn con người cũng có 3 phần tương ứng với thành bang:
+   - **Lý trí (Reason):** Phần khôn ngoan, cai trị và tính toán.
+   - **Khí phách (Spirit):** Phần dũng cảm, đồng minh của lý trí (như câu chuyện Leontius tức giận với chính bản năng của mình).
+   - **Bản năng (Appetite):** Phần khao khát ăn uống, tình dục, tiền bạc.
+4. **Sự hoàn thiện (Virtue) là Sức khỏe Tâm lý:** Plato kết luận rằng *điều đúng* (Justice) chính là sự trật tự, hài hòa bên trong linh hồn, nơi Lý trí cai quản Bản năng dưới sự hỗ trợ của Khí phách. Ngược lại, *điều sai* (Injustice) là sự nổi loạn, hỗn loạn bên trong. Bằng cách ví *sự hoàn thiện* như sức khỏe và thói hư tật xấu như bệnh tật, Plato đã trả lời triệt để câu hỏi "Tại sao phải sống đúng?": Bởi vì không ai muốn sống với một cơ thể bệnh tật, thì cũng chẳng ai (dù có nhiều tiền bạc hay quyền lực) lại muốn sống với một linh hồn mục nát, hỗn loạn.
+
+***
+
+### Từ khóa/thuật ngữ
+
+| English/Greek | Vietnamese | Giải thích |
+| :--- | :--- | :--- |
+| **Justice / Dikaiosynē (δικαιοσύνη)** | *điều đúng* | Không chỉ là "công lý" theo nghĩa pháp luật, mà là trạng thái hài hòa, trật tự đúng đắn của thành bang hoặc linh hồn, nơi mỗi thành phần làm đúng chức năng của mình. |
+| **Injustice / Adikia (ἀδικία)** | *điều sai* | Sự can thiệp, lấn quyền, hoặc sự nổi loạn của các phần thấp kém (bản năng) chống lại phần cao cấp (lý trí). |
+| **The Just Man (δίκαιος)** | *người sống đúng* | Người có linh hồn hài hòa, lý trí làm chủ. |
+| **City / Polis (πόλις)** | *thành bang* | Đơn vị chính trị/xã hội của Hy Lạp cổ đại, được Plato dùng làm mô hình phóng to để soi chiếu cấu trúc linh hồn con người. |
+| **Reason / Logistikon** | *lý trí* | Phần cao nhất của linh hồn, yêu thích sự thật và sự khôn ngoan, có nhiệm vụ cai quản toàn bộ linh hồn. |
+| **Spirit / Thymos** | *khí phách* | Phần cảm xúc cao thượng (như danh dự, sự phẫn nộ chính đáng), là đồng minh tự nhiên của lý trí để kiểm soát bản năng. |
+| **Appetite / Epithumetikon** | *bản năng* | Phần thấp nhất và lớn nhất của linh hồn, chứa đựng các ham muốn sinh học (ăn, uống, tình dục) và lòng tham tiền bạc. |
+| **Virtue / Arete (ἀρετή)** | *sự hoàn thiện* | Trạng thái xuất sắc, "sức khỏe" của linh hồn khi các phần hoạt động đúng chức năng. |
+| **Temperance / Sōphrosynē** | *tiết chế* | Sự đồng thuận và hài hòa giữa phần cai trị (lý trí) và phần bị cai trị (bản năng) về việc ai nên nắm quyền. |
+| **Soul / Psychē (ψυχή)** | *linh hồn* | Bản thể tinh thần của con người, nơi diễn ra các cuộc đấu tranh nội tâm và là nơi chứa đựng các phẩm chất đạo đức. |
+| **Guardians / Phylakes** | *vệ binh* | Giai cấp cai trị trong thành bang lý tưởng, đại diện cho *sự khôn ngoan*. (Đôi khi bao gồm cả binh lính, nhưng sau được tách rõ thành người cai trị). |
+| **Auxiliaries / Epikouroi** | *trợ thủ* | Giai cấp binh lính, trợ giúp người cai trị, đại diện cho *khí phách* và *lòng dũng cảm*. |

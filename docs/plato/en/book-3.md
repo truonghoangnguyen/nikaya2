@@ -870,7 +870,6 @@ SOCRATES: A really musical person, then, would passionately love people
 who are most like that. But a disharmonious person, he would not passionately love.
 
 GLAUCON: No, he would not—at least, not if the defect were in the soul.
-
 If it were only in the body, however, he would put up with it and still be
  willing to embrace the boy who had it.
 
@@ -1362,7 +1361,7 @@ doesn’t it become weak, deaf, and blind, because it never receives any stimula
 GLAUCON: Yes, it does.
 
 SOCRATES: Then a person like that, I take it, becomes an unmusical hater
-of argument65 who no longer uses argument to persuade people, but force
+of argument[65] who no longer uses argument to persuade people, but force
  and savagery, behaves like a wild beast, and lives in awkward ignorance
 without rhythm or grace.
 
@@ -1465,7 +1464,7 @@ happens?
 
 GLAUCON: Now I do not understand again.
 
-SOCRATES: I suppose I am making myself as clear as a tragic poet!66 By
+SOCRATES: I suppose I am making myself as clear as a tragic poet![66] By
 those who have their beliefs stolen from them, I mean those who are overpersuaded, or those who forget; because argument, in the one case, and
 time, in the other, takes away their beliefs without their noticing.You
 understand now, don’t you?

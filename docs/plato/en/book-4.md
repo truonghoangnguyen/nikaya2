@@ -116,6 +116,7 @@ SOCRATES: It seems, then, that we have found other things that our
 guardians must prevent in every way from slipping into the city undetected.
 
 ADEIMANTUS: What things?
+
 (422a) SOCRATES: Wealth and poverty. For the former makes for luxury, idleness,
 and revolution; and the latter for illiberality, bad work, and revolution as
 well.
