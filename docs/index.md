@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Kinh Nikaya - Phật Giáo Nguyên Thủy Online 
-description: Đoc Kinh Nikaya trọn bộ online, (Kinh Trường Bộ DN, Kinh Trung Bộ MN, Kinh Tương Ưng SN, Kinh Tăng Chi AN, Kinh Tiểu Bộ KN), Bản dịch Thích Minh Châu, Bhikkhu Sujato, Bhikkhu Nanamobi & Bodhi. Pali - Việt - Anh. Tìm kiếm bài kinh bất kỳ. 
+description: Kinh Nikaya online trọn bộ — Trường Bộ (DN), Trung Bộ (MN), Tương Ưng (SN), Tăng Chi (AN), Tiểu Bộ (KN). Pali–Việt–Anh. Tìm kiếm bài kinh bất kỳ.
+
 head:
   - - script
     - type: application/ld+json
