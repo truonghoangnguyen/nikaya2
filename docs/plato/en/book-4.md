@@ -195,6 +195,7 @@ ADEIMANTUS: What limit is that?
 
 SOCRATES: I think it is this: as long as it is willing to remain one city, it
 may continue to grow, but not beyond that point.
+
 (c) ADEIMANTUS: And it is a good one.
 
 SOCRATES: Then we will also give our guardians this further order, that

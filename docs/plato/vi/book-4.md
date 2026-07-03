@@ -94,22 +94,23 @@ SOCRATES: Anh thật ngây thơ một cách vui vẻ nếu anh nghĩ rằng bấ
 
 ADEIMANTUS: Vậy chúng ta nên gọi chúng là gì?
 
-SOCRATES: Chúng ta sẽ phải tìm một danh xưng "vĩ mô" hơn cho những nơi đó, bởi vì mỗi nơi trong số chúng thực chất là vô số *thành bang* gộp lại chứ không phải là một, như người ta vẫn nói trong trò chơi.[4] Ít nhất thì chúng chứa đựng hai *thành bang* đang có chiến tranh với nhau: *thành bang* (423a) của người nghèo và *thành bang* của người giàu. Và bên trong mỗi cái đó lại có vô số nhóm nhỏ hơn nữa. Vì vậy, nếu anh coi chúng là một *thành bang* duy nhất, anh sẽ phạm sai lầm lớn. Nhưng nếu anh coi chúng là nhiều phe phái, và đề nghị trao cho phe này tiền bạc, quyền lực, và thậm chí cả sinh mạng của phe kia, anh sẽ luôn tìm được rất nhiều đồng minh và cực kỳ ít kẻ thù. Và chừng nào *thành bang* của anh còn được cai trị một cách có *liêm khiết[tiết chế]* (temperance) theo cách chúng ta vừa sắp xếp, nó sẽ là *thành bang* vĩ đại nhất, không phải về danh tiếng, ý tôi không phải vậy; mà là vĩ đại nhất trên thực tế, ngay cả khi nó chỉ có một ngàn binh lính bảo vệ. Bởi vì anh sẽ không dễ gì tìm được một *thành bang* vĩ đại như vậy trong số cả người Hy Lạp lẫn người man di, mặc dù anh sẽ thấy rất nhiều nơi được đồn đại là lớn hơn gấp nhiều lần. Hay anh không đồng ý? (b)
-<!!!!!!!!!!
+SOCRATES: Chúng ta sẽ phải tìm một danh xưng "vĩ mô" hơn cho những nơi đó, bởi vì thực tế trong mỗi thành bang là vô số *thành bang* gộp lại chứ không phải là một, như người ta vẫn nói trong trò chơi.[4] Ít nhất thì chúng cũng chứa hai phe *thành bang* đang có chiến tranh với nhau: *thành bang* (423a) của người nghèo và *thành bang* của người giàu. Và bên trong mỗi cái đó lại có vô số nhóm nhỏ hơn nữa. Vì vậy, nếu anh coi chúng là một *thành bang* duy nhất, anh sẽ phạm sai lầm lớn. Nhưng nếu anh thấy chúng là nhiều phe phái, và đề nghị trao cho phe này tiền bạc, quyền lực, và thậm chí cả sinh mạng của phe kia, anh sẽ luôn tìm được nhiều đồng minh và ít kẻ thù. Và chừng nào *thành bang* của anh còn được cai trị một cách có *liêm khiết [tiết chế]* (temperance) theo cách chúng ta vừa sắp xếp, nó sẽ là *thành bang* vĩ đại nhất, không phải về danh tiếng, ý tôi không phải vậy; mà là vĩ đại nhất trên thực tế, ngay cả khi nó chỉ có một ngàn binh lính bảo vệ. Bởi vì anh sẽ không dễ gì tìm được một *thành bang* vĩ đại như vậy trong số cả người Hy Lạp lẫn người man di, mặc dù anh sẽ thấy rất nhiều nơi được đồn đại là lớn hơn gấp nhiều lần. Hay anh không đồng ý? (b)
+
 ADEIMANTUS: Không, nhân danh thần Zeus, tôi đồng ý.
 
-SOCRATES: Vậy thì, điều này cũng sẽ cung cấp cho các nhà cai trị của chúng ta một giới hạn tốt nhất để xác định quy mô phù hợp của *thành bang*, và họ nên khoanh vùng bao nhiêu đất đai cho một *thành bang* cỡ đó, rồi bỏ qua phần còn lại.
+SOCRATES: Vậy thì, điều này cũng sẽ cung cấp kiến thức cho các nhà cai trị của chúng ta ý niệm về giới hạn tốt nhất để xác định quy mô phù hợp của *thành bang* và họ nên quy hoạch quy mô cho một *thành bang* [thống nhất] như vậy, còn phần đất còn lại thì để mặc [không mở rộng thêm].
 
 ADEIMANTUS: Giới hạn đó là gì?
 
-SOCRATES: Tôi nghĩ là thế này: chừng nào nó còn sẵn sàng duy trì là một *thành bang* thống nhất, nó có thể tiếp tục phát triển, nhưng không được vượt quá giới hạn đó.
+SOCRATES: Tôi nghĩ là thế này: chừng nào thành bang đó còn sẵn sàng duy trì là một *thành bang thống nhất*, nó có thể tiếp tục phát triển, nhưng không được vượt quá điểm đó.
+
 (c) ADEIMANTUS: Một giới hạn rất hay.
 
 SOCRATES: Vậy chúng ta cũng sẽ ban cho các *vệ binh* mệnh lệnh tiếp theo này: họ phải bằng mọi cách bảo vệ để *thành bang* không quá nhỏ bé về quy mô hay quá phô trương về danh tiếng, mà phải có quy mô vừa đủ và thống nhất là một.
 
 ADEIMANTUS: Không nghi ngờ gì nữa, đó sẽ là một chỉ thị quá đỗi nhỏ nhặt để họ làm theo!
 
-SOCRATES: Đây là một chỉ thị khác còn nhỏ nhặt hơn. Chúng ta cũng đã nhắc đến nó trước đây.[5] Chúng ta đã nói rằng nếu con cái của các *vệ binh* tỏ ra kém cỏi, nó phải được gửi đi để gia nhập cùng các công dân khác, và nếu những người khác sinh ra một đứa trẻ (d) xuất chúng, nó phải được gia nhập hàng ngũ *vệ binh*. Điều này nhằm làm rõ rằng mọi công dân khác cũng phải được phân công vào công việc phù hợp với bản chất tự nhiên của họ, mỗi người một việc, để khi thực hành nghề nghiệp của mình, mỗi người sẽ không bị phân tán thành nhiều mảnh mà trở thành một thể thống nhất, và nhờ đó toàn bộ *thành bang* cũng tự nhiên phát triển thành một khối thống nhất chứ không bị chia rẽ.
+SOCRATES: Đây là một chỉ thị khác còn nhỏ nhặt hơn. Chúng ta cũng đã nhắc đến nó trước đây.[5] Chúng ta đã nói rằng nếu con cái của các *vệ binh* tỏ ra kém cỏi, nó phải được gửi đi để gia nhập cùng các công dân khác, và nếu những người khác sinh ra một đứa trẻ (d) xuất chúng, nó phải được gia nhập hàng ngũ *vệ binh*. Điều này nhằm làm rõ rằng mọi công dân khác cũng phải được *phân công vào công việc phù hợp với bản chất tự nhiên của họ*, mỗi người một việc, để khi thực hành nghề nghiệp của mình, mỗi người sẽ không bị phân tán thành nhiều mảnh mà trở thành một thể thống nhất, và nhờ đó toàn bộ *thành bang* cũng tự nhiên phát triển thành một khối thống nhất chứ không bị chia rẽ.
 
 ADEIMANTUS: Ồ vâng, cái đó còn nhỏ nhặt hơn nữa!
 
@@ -117,7 +118,7 @@ SOCRATES: Thật ra, Adeimantus tốt bụng của tôi ơi, những mệnh lệ
 
 ADEIMANTUS: Đó là điều gì?
 
-(424a) SOCRATES: Nền giáo dục và sự nuôi dưỡng của họ. Bởi vì nếu một nền giáo dục tốt tạo ra những con người chừng mực, họ sẽ dễ dàng tự mình khám phá ra tất cả những điều này, và cả mọi thứ khác mà chúng ta hiện đang bỏ qua, chẳng hạn như việc sở hữu phụ nữ, hôn nhân, việc sinh đẻ con cái, và cách tất cả những điều này phải được quản lý tối đa theo câu tục ngữ cổ rằng: bạn bè thì chia sẻ mọi thứ chung với nhau.
+(424a) SOCRATES: Nền *giáo dục tốt* và sự nuôi dưỡng của họ. Bởi vì nếu một nền giáo dục tốt tạo ra những con người chừng mực, họ sẽ dễ dàng tự mình khám phá ra tất cả những điều này, và cả mọi thứ khác mà chúng ta hiện đang bỏ qua, chẳng hạn như việc sở hữu phụ nữ, hôn nhân, việc sinh đẻ con cái, và cách tất cả những điều này phải được quản lý tối đa theo câu tục ngữ cổ rằng: bạn bè thì chia sẻ mọi thứ chung với nhau.
 
 ADEIMANTUS: Vâng, thế thì tốt nhất.
 

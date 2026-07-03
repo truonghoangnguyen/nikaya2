@@ -48,7 +48,7 @@
           <div class="book-cover">
             <picture>
               <source :srcset="book.cover" type="image/webp" />
-              <img :src="getFallbackCover(book.cover)" :alt="book.title" width="300" height="450" loading="lazy" decoding="async">
+              <img :src="getFallbackCover(book.cover)" :alt="book.title + ' - Kinh Nikaya-Phật Giáo Nguyên Thủy Online (Pali - Việt - Anh)'" width="300" height="450" loading="lazy" decoding="async">
             </picture>
           </div>
           <div class="book-info">

@@ -1,3 +1,8 @@
+---
+tags:
+ - Sāriputta
+---
+
 # 5. KINH KHÔNG UẾ NHIỄM
 
 **5. KINH KHÔNG UẾ NHIỄM**

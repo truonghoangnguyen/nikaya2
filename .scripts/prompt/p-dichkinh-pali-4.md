@@ -147,7 +147,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | sinh (samudaya) | sự hình thành | |
 | nirujjhati | làm hết; làm ngưng | "bị chặn đứng hoàn toàn" |
 | diệt (vaya)| sự suy tàn; sự hoại diệt | "vayadhammā->chịu sự suy tàn/tính hoại diệt"; |
-| diệt (atthaṅgama) | tan biến; biến mất | sự phai tàn tự nhiên. "atthaṅgamāya->để đưa đến sự biến mât" |
+| diệt (atthaṅgamā) | tan biến; biến mất | sự phai tàn tự nhiên. "atthaṅgamāya->để đưa đến sự biến mât" |
 | xả ly (cāgā) | cho đi | |
 | xuất ly (nissaraṇa) | thoát khỏi | |
 | đoạn trừ (pajahati) | từ bỏ; loại bỏ | |
