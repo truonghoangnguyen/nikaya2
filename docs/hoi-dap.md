@@ -25,7 +25,7 @@ Trang này tổng hợp các câu hỏi phổ biến về **Kinh Nikaya**, Phậ
 | Kinh Trung Bộ | Majjhima Nikāya | 152 kinh |
 | Kinh Tương Ưng Bộ | Saṃyutta Nikāya | 56 chương với nhiều bài nhỏ |
 | Kinh Tăng Chi Bộ | Aṅguttara Nikāya | 11 chương với nhiều bài nhỏ |
-| Tiểu Bộ | Khuddaka Nikāya | (chưa thực hiện) |
+| Tiểu Bộ | Khuddaka Nikāya | 10 Tập  |
 
 Đây là tập hợp lời dạy của **Đức Phật** được ghi chép và bảo tồn qua nhiều thế kỷ.
 
@@ -35,11 +35,11 @@ Trang này tổng hợp các câu hỏi phổ biến về **Kinh Nikaya**, Phậ
 
 ### Tại sao có trang này?
 
-Xuất phát, tôi đọc kinh Nikaya bản tiếng Việt mà gặp nhiều thuật ngữ không hiểu nổi. *Sắc, thọ, tưởng, hành, thức* là gì? Các chú thích trong sách không đủ, nên tôi mày mò tìm sang các bản tiếng Anh để xem họ giải thích ra sao, trang này ra đời từ quá trình tra cứu đó.
+Xuất phát, tôi đọc kinh Nikaya bản tiếng Việt mà gặp nhiều thuật ngữ không hiểu. *Sắc, thọ, tưởng, hành, thức* là gì? Các chú thích trong sách không đủ, nên tôi mày mò tìm sang các bản tiếng Anh để xem họ giải thích ra sao, trang này ra đời từ quá trình tra cứu đó.
 
 ### Tại sao có nhiều tác giả trong bản dịch?
 
-Ban đầu tôi chỉ dịch **Kinh Trung Bộ** theo bản tiếng Anh của Ñāṇamoli & Bodhi — hai dịch giả mà tôi rất tin tưởng. Dịch xong, tôi mới nhận ra có những bộ kinh khác mà Ñāṇamoli & Bodhi không dịch, hoặc chưa dịch đầy đủ. Lúc đó tôi tìm được bản dịch của **Sujato**, dễ tiếp cận và đầy đủ ở trang [suttacentral](https://suttacentral.net/).
+Ban đầu tôi chỉ dịch **Kinh Trung Bộ** theo bản tiếng Anh của Ñāṇamoli & Bodhi — Bản đọc nổi tiếng nhất. Dịch xong, tôi mới nhận ra có những bộ kinh khác mà Ñāṇamoli & Bodhi không dịch, hoặc chưa dịch đầy đủ. Lúc đó tôi tìm được bản dịch của **Sujato**, dễ tiếp cận và đầy đủ ở trang [suttacentral](https://suttacentral.net/). 
 
 ### Tại sao có bản đọc đối chiếu?
 
@@ -47,7 +47,7 @@ Vì tôi quen đọc kinh Nikaya qua bản dịch của **Hòa thượng Thích 
 
 ### Tại sao dịch trực tiếp từ tiếng Pali?
 
-Lúc mới bắt đầu, tôi dịch hoàn toàn từ các bản tiếng Anh. Nhưng sau một thời gian, khi đọc kỹ hơn, tôi nhận ra rằng ngay cả các bản tiếng Anh khác nhau cũng có những chỗ  khó hiểu theo cách riêng của chúng. Tôi thử  dịch thẳng từ **tiếng Pali**, và tôi thấy hài lòng (có thể là không thể đi xa hơn được). Từ đó, Pali trở thành nguồn tham chiếu chính của tôi.
+Lúc mới bắt đầu, tôi dịch hoàn toàn từ các bản tiếng Anh. Nhưng sau một thời gian, khi đọc kỹ hơn, tôi nhận ra rằng ngay cả các bản tiếng Anh khác nhau cũng có những chỗ  khó hiểu theo cách riêng của chúng. Tôi thử  dịch thẳng từ **tiếng Pali**, và tôi thấy hài lòng (có thể là không thể đi xa hơn được). Từ đó, Pali trở thành nguồn tài liệu chính của tôi.
 
 ---
 

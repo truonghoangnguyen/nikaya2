@@ -225,7 +225,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | sắc (rūpa) | vật chất | ngữ cảnh ngũ uẩn |
 | thọ (Vedanā) | cảm giác |  sắc thái cảm nhận |
 | tưởng (Saññā) | nhận thức | |
-| 12 nhân duyên (dvādasa nidānāni) | Chuỗi 12 nhân quả | |
+| 12 nhân duyên (dvādasa nidānāni) | 12 mắt xích | |
 | thức (viññāṇa) | 'Cái Biết'; 'Cái Biết' (đi tái sinh) | "'Cái Biết' (đi tái sinh)" dùng trong 12 nhân duyên |
 | danh–sắc(Nāma-rūpa) | Danh–sắc | |
 | xứ (āyatana) | trường | |
@@ -337,7 +337,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 </Vocabulary-Mapping>
 
 ### 4.1 Những từ giữ nguyên
-phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (samudayadhamma); tính hoại diệt (vayadhamma); Tôi nghe như vầy; vui mừng đón nhận (abhinandunti); tôi đã nghe như vầy; du sĩ;
+phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (samudayadhamma); tính hoại diệt (vayadhamma); Tôi đã nghe như vầy; vui mừng đón nhận (abhinandunti); du sĩ;
 
 ### 4.2 Những từ chuyển đổi ít:
 - Thánh nhân > bậc thánh;

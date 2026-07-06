@@ -1,255 +1,277 @@
-# Satipaṭṭhānasutta
+# MN 10. KINH BỐN NƠI THIẾT LẬP SỰ CHÚ TÂM
+*(Satipaṭṭhānasutta)*\
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-010){target="_blank" class="note-link"}
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+Tôi đã nghe như vầy — một thời, Thế Tôn đang lưu trú tại vương quốc của người Kuru, tại một thị trấn của người Kuru tên là Kammāsadhamma. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo".
 
-“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
+"Thưa vâng, bạch Thế Tôn", các tỳ kheo ấy đáp lời Thế Tôn. Thế Tôn nói điều này:
 
-“Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.
+"Này các tỳ kheo, đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, để vượt qua sầu não và than khóc, để làm biến mất *đau khổ* (khổ / dukkha) và *ưu phiền* (ưu / domanassa), để đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* (chứng ngộ / sacchikiriyāya) Niết-bàn, đó chính là *bốn nơi chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā).
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), là *người chú tâm* (chánh niệm / satimā), *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* ở đời; vị ấy *sống quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, là *người chú tâm*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī), nhiệt tâm, *nhận biết rõ ràng*, là *người chú tâm*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, là *người chú tâm*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Uddeso niṭṭhito.
+Phần giới thiệu đã xong.
 
-## 1. Kāyānupassanā
+<!--pg-->
+## 1. Quan sát cơ thể (Kāyānupassanā)
 
-### 1.1. Kāyānupassanāānāpānapabba
+### 1.1. Phần Hơi thở trong Quan sát cơ thể (Kāyānupassanāānāpānapabba)
 
-Kathañca, bhikkhave, bhikkhu kāye kāyānupassī viharati?
+Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*?
 
-Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati, pallaṅkaṁ ābhujitvā, ujuṁ kāyaṁ paṇidhāya, parimukhaṁ satiṁ upaṭṭhapetvā. So satova assasati, satova passasati.
+Ở đây, này các tỳ kheo, tỳ kheo đi vào rừng, hay đi đến gốc cây, hay đi đến một ngôi nhà trống và ngồi xuống, khoanh chân chéo nhau, giữ cơ thể thẳng đứng, và thiết lập sự *chú tâm* (niệm / sati) ở ngay phía trước. Vị ấy *chú tâm* thở vào, *chú tâm* thở ra.
 
-Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti,
+Khi thở vào dài, vị ấy *biết rõ* (tuệ tri / pajānāti) 'tôi thở vào dài'; hay khi thở ra dài, vị ấy *biết rõ* 'tôi thở ra dài'.
 
-rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti.
+Khi thở vào ngắn, vị ấy *biết rõ* 'tôi thở vào ngắn'; hay khi thở ra ngắn, vị ấy *biết rõ* 'tôi thở ra ngắn'.
 
-‘Sabbakāyapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṁvedī passasissāmī’ti sikkhati.
+Vị ấy *rèn luyện* (học / sikkhati): 'Tôi sẽ thở vào, cảm nhận toàn bộ cơ thể'; vị ấy *rèn luyện*: 'Tôi sẽ thở ra, cảm nhận toàn bộ cơ thể'.
 
-‘Passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati.
+Vị ấy *rèn luyện*: 'Tôi sẽ thở vào, *làm lắng dịu* (an tịnh / passambhayaṁ) *hoạt động của cơ thể* (thân hành / kāyasaṅkhāraṁ)'; vị ấy *rèn luyện*: 'Tôi sẽ thở ra, *làm lắng dịu* *hoạt động của cơ thể*'.
 
-Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā añchanto ‘dīghaṁ añchāmī’ti pajānāti, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti pajānāti; evameva kho, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; ‘sabbakāyapaṭisaṁvedī assasissāmī’ti sikkhati, ‘sabbakāyapaṭisaṁvedī passasissāmī’ti sikkhati; ‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati.
+Này các tỳ kheo, giống như một người thợ tiện khéo léo hay người học việc của thợ tiện, khi kéo một cú dài, người ấy *biết rõ* 'tôi đang kéo một cú dài'; hay khi kéo một cú ngắn, người ấy *biết rõ* 'tôi đang kéo một cú ngắn'. Chính xác như vậy, này các tỳ kheo, khi thở vào dài, tỳ kheo *biết rõ* 'tôi thở vào dài'... [cho đến] ... vị ấy *rèn luyện*: 'Tôi sẽ thở ra, *làm lắng dịu* *hoạt động của cơ thể*'.
 
-Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati; samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong, hay *sống quan sát cơ thể qua cơ thể của mình* ở bên ngoài, hay *sống quan sát cơ thể qua cơ thể của mình* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* (tập khởi pháp / samudayadhamma) trên cơ thể, hay sống quan sát *tính hoại diệt* (diệt pháp / vayadhamma) trên cơ thể, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên cơ thể. Hay vị ấy *sống quan sát*: 'đây là cơ thể' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* (chấp thủ / upādiyati) bất cứ điều gì trên đời.
 
-Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Ānāpānapabbaṁ niṭṭhitaṁ.
+Phần Hơi thở đã xong.
 
-### 1.2. Kāyānupassanāiriyāpathapabba
+<!--pg-->
+### 1.2. Phần Tư thế trong Quan sát cơ thể (Kāyānupassanāiriyāpathapabba)
 
-Puna caparaṁ, bhikkhave, bhikkhu gacchanto vā ‘gacchāmī’ti pajānāti, ṭhito vā ‘ṭhitomhī’ti pajānāti, nisinno vā ‘nisinnomhī’ti pajānāti, sayāno vā ‘sayānomhī’ti pajānāti. Yathā yathā vā panassa kāyo paṇihito hoti tathā tathā naṁ pajānāti.
+Lại nữa, này các tỳ kheo, khi đang đi, tỳ kheo *biết rõ* 'tôi đang đi'; hay khi đang đứng, vị ấy *biết rõ* 'tôi đang đứng'; hay khi đang ngồi, vị ấy *biết rõ* 'tôi đang ngồi'; hay khi đang nằm, vị ấy *biết rõ* 'tôi đang nằm'. Bất cứ khi nào cơ thể vị ấy được đặt trong *tư thế* (oai nghi / iriyāpatha) nào, vị ấy *biết rõ* nó là như vậy.
 
-Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati; samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong, hay *sống quan sát cơ thể qua cơ thể của mình* ở bên ngoài, hay *sống quan sát cơ thể qua cơ thể của mình* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên cơ thể, hay sống quan sát *tính hoại diệt* trên cơ thể, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên cơ thể. Hay vị ấy *sống quan sát*: 'đây là cơ thể' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Iriyāpathapabbaṁ niṭṭhitaṁ.
+Phần Tư thế đã xong.
 
-### 1.3. Kāyānupassanāsampajānapabba
+<!--pg-->
+### 1.3. Phần Nhận biết rõ ràng trong Quan sát cơ thể (Kāyānupassanāsampajānapabba)
 
-Puna caparaṁ, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.
+Lại nữa, này các tỳ kheo, tỳ kheo thực hành *nhận biết rõ ràng* khi đi tới đi lui; thực hành *nhận biết rõ ràng* khi nhìn thẳng nhìn quanh; thực hành *nhận biết rõ ràng* khi co tay duỗi chân; thực hành *nhận biết rõ ràng* khi mang y tăng-già-lê, bình bát và y phục; thực hành *nhận biết rõ ràng* khi ăn, uống, nhai, nếm; thực hành *nhận biết rõ ràng* khi đại tiện, tiểu tiện; thực hành *nhận biết rõ ràng* khi đi, đứng, ngồi, ngủ, thức, nói chuyện, và giữ im lặng.
 
-Iti ajjhattaṁ vā kāye kāyānupassī viharati …pe…
+Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong [...lặp lại...]
 
-evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Sampajānapabbaṁ niṭṭhitaṁ.
+Phần Nhận biết rõ ràng đã xong.
 
-### 1.4. Kāyānupassanāpaṭikūlamanasikārapabba
+<!--pg-->
+### 1.4. Phần Suy nghĩ về tính không sạch trong Quan sát cơ thể (Kāyānupassanāpaṭikūlamanasikārapabba)
 
-Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā, adho kesamatthakā, tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṁ kāye kesā lomā nakhā dantā taco maṁsaṁ nhāru aṭṭhi aṭṭhimiñjaṁ vakkaṁ hadayaṁ yakanaṁ kilomakaṁ pihakaṁ papphāsaṁ antaṁ antaguṇaṁ udariyaṁ karīsaṁ pittaṁ semhaṁ pubbo lohitaṁ sedo medo assu vasā kheḷo siṅghāṇikā lasikā muttan’ti.
+Lại nữa, này các tỳ kheo, tỳ kheo quan sát chính cơ thể này, từ lòng bàn chân trở lên, từ đỉnh đầu trở xuống, được bao bọc bởi lớp da và chứa đầy đủ loại không sạch: 'Trong cơ thể này có tóc, lông, móng, răng, da, thịt, gân, xương, tủy xương, thận, tim, gan, màng phổi, lá lách, phổi, ruột non, mạc treo, thức ăn trong dạ dày, phân, mật, đờm, mủ, máu, mồ hôi, mỡ đặc, nước mắt, mỡ lỏng, nước bọt, nước mũi, dịch khớp, nước tiểu'.
 
-Seyyathāpi, bhikkhave, ubhatomukhā putoḷi pūrā nānāvihitassa dhaññassa, seyyathidaṁ—sālīnaṁ vīhīnaṁ muggānaṁ māsānaṁ tilānaṁ taṇḍulānaṁ. Tamenaṁ cakkhumā puriso muñcitvā paccavekkheyya: ‘ime sālī ime vīhī ime muggā ime māsā ime tilā ime taṇḍulā’ti.
+Này các tỳ kheo, giống như một chiếc bao tải có miệng ở cả hai đầu, chứa đầy các loại hạt khác nhau, chẳng hạn như: lúa nếp, lúa tẻ, đậu xanh, đậu đen, hạt vừng, gạo. Một người có mắt mở nó ra và quan sát: 'Đây là lúa nếp, đây là lúa tẻ, đây là đậu xanh, đây là đậu đen, đây là hạt vừng, đây là gạo'.
 
-Evameva kho, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā, adho kesamatthakā, tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṁ kāye kesā lomā …pe… muttan’ti.
+Chính xác như vậy, này các tỳ kheo, tỳ kheo quan sát chính cơ thể này, từ lòng bàn chân trở lên, từ đỉnh đầu trở xuống, được bao bọc bởi lớp da và chứa đầy đủ loại không sạch: 'Trong cơ thể này có tóc, lông [...lặp lại...] nước tiểu'.
 
-Iti ajjhattaṁ vā kāye kāyānupassī viharati …pe…
+Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong [...lặp lại...]
 
-evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Paṭikūlamanasikārapabbaṁ niṭṭhitaṁ.
+Phần Suy nghĩ về tính không sạch đã xong.
 
-### 1.5. Kāyānupassanādhātumanasikārapabba
+<!--pg-->
+### 1.5. Phần Suy nghĩ về các đặc tính trong Quan sát cơ thể (Kāyānupassanādhātumanasikārapabba)
 
-Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ yathāṭhitaṁ yathāpaṇihitaṁ dhātuso paccavekkhati: ‘atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti.
+Lại nữa, này các tỳ kheo, tỳ kheo quan sát chính cơ thể này, dù nó đang được đặt hay định vị như thế nào, theo *các đặc tính* (giới / dhātu): 'Trong cơ thể này có *tính cứng* (địa đại / pathavīdhātu), *tính lỏng* (thủy đại / āpodhātu), *tính nhiệt* (hỏa đại / tejodhātu), *tính gió* (phong đại / vāyodhātu)'.
 
-Seyyathāpi, bhikkhave, dakkho goghātako vā goghātakantevāsī vā gāviṁ vadhitvā catumahāpathe bilaso vibhajitvā nisinno assa.
+Này các tỳ kheo, giống như một người thợ mổ bò khéo léo hay người học việc của thợ mổ bò, sau khi giết một con bò, cắt nó thành từng mảnh và ngồi ở ngã tư đường.
 
-Evameva kho, bhikkhave, bhikkhu imameva kāyaṁ yathāṭhitaṁ yathāpaṇihitaṁ dhātuso paccavekkhati: ‘atthi imasmiṁ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū’ti.
+Chính xác như vậy, này các tỳ kheo, tỳ kheo quan sát chính cơ thể này, dù nó đang được đặt hay định vị như thế nào, theo *các đặc tính*: 'Trong cơ thể này có *tính cứng*, *tính lỏng*, *tính nhiệt*, *tính gió*'.
 
-Iti ajjhattaṁ vā kāye kāyānupassī viharati …pe…
+Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong [...lặp lại...]
 
-evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Dhātumanasikārapabbaṁ niṭṭhitaṁ.
+Phần Suy nghĩ về các đặc tính đã xong.
 
-### 1.6. Kāyānupassanānavasivathikapabba
+<!--pg-->
+### 1.6. Phần Chín giai đoạn nghĩa địa trong Quan sát cơ thể (Kāyānupassanānavasivathikapabba)
 
-Puna caparaṁ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ ekāhamataṁ vā dvīhamataṁ vā tīhamataṁ vā uddhumātakaṁ vinīlakaṁ vipubbakajātaṁ. So imameva kāyaṁ upasaṁharati: ‘ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto’ti. Iti ajjhattaṁ vā kāye kāyānupassī viharati …pe…
+Lại nữa, này các tỳ kheo, giống như tỳ kheo nhìn thấy một thi thể bị vứt bỏ trong *nghĩa địa*, chết được một ngày, hai ngày, hay ba ngày, sưng phồng lên, xanh lè, và rỉ mủ. Vị ấy so sánh chính cơ thể này: 'Cơ thể này cũng có cùng bản chất như vậy, sẽ trở thành như vậy, không thể tránh khỏi điều đó'. Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong [...lặp lại...]
 
-evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Puna caparaṁ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ kākehi vā khajjamānaṁ kulalehi vā khajjamānaṁ gijjhehi vā khajjamānaṁ kaṅkehi vā khajjamānaṁ sunakhehi vā khajjamānaṁ byagghehi vā khajjamānaṁ dīpīhi vā khajjamānaṁ siṅgālehi vā khajjamānaṁ vividhehi vā pāṇakajātehi khajjamānaṁ. So imameva kāyaṁ upasaṁharati: ‘ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto’ti. Iti ajjhattaṁ vā kāye kāyānupassī viharati …pe…
+Lại nữa, này các tỳ kheo, giống như tỳ kheo nhìn thấy một thi thể bị vứt bỏ trong *nghĩa địa*, đang bị quạ ăn, hay bị diều hâu ăn, hay bị kền kền ăn, hay bị cò ăn, hay bị chó ăn, hay bị hổ ăn, hay bị báo ăn, hay bị chó rừng ăn, hay bị các loại côn trùng khác nhau ăn. Vị ấy so sánh chính cơ thể này: 'Cơ thể này cũng có cùng bản chất như vậy, sẽ trở thành như vậy, không thể tránh khỏi điều đó'. Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong [...lặp lại...]
 
-evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Puna caparaṁ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ aṭṭhikasaṅkhalikaṁ samaṁsalohitaṁ nhārusambandhaṁ …pe…
+Lại nữa, này các tỳ kheo, giống như tỳ kheo nhìn thấy một thi thể bị vứt bỏ trong *nghĩa địa*, chỉ còn là một bộ xương dính máu thịt, được nối với nhau bằng gân [...lặp lại...]
 
-Aṭṭhikasaṅkhalikaṁ nimaṁsalohitamakkhitaṁ nhārusambandhaṁ …pe…
+Chỉ còn là một bộ xương không còn thịt nhưng dính máu, được nối với nhau bằng gân [...lặp lại...]
 
-Aṭṭhikasaṅkhalikaṁ apagatamaṁsalohitaṁ nhārusambandhaṁ …pe…
+Chỉ còn là một bộ xương không còn máu thịt, được nối với nhau bằng gân [...lặp lại...]
 
-Aṭṭhikāni apagatasambandhāni disā vidisā vikkhittāni, aññena hatthaṭṭhikaṁ aññena pādaṭṭhikaṁ aññena gopphakaṭṭhikaṁ aññena jaṅghaṭṭhikaṁ aññena ūruṭṭhikaṁ aññena kaṭiṭṭhikaṁ aññena phāsukaṭṭhikaṁ aññena piṭṭhiṭṭhikaṁ aññena khandhaṭṭhikaṁ aññena gīvaṭṭhikaṁ aññena hanukaṭṭhikaṁ aññena dantaṭṭhikaṁ aññena sīsakaṭāhaṁ. So imameva kāyaṁ upasaṁharati: ‘ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto’ti. Iti ajjhattaṁ vā kāye kāyānupassī viharati …pe… evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Chỉ còn là những khúc xương rời rạc, văng vãi khắp các hướng: chỗ này là xương tay, chỗ kia là xương chân, chỗ kia là xương mắt cá, chỗ kia là xương ống chân, chỗ kia là xương đùi, chỗ kia là xương chậu, chỗ kia là xương sườn, chỗ kia là xương sống, chỗ kia là xương vai, chỗ kia là xương cổ, chỗ kia là xương hàm, chỗ kia là răng, chỗ kia là hộp sọ. Vị ấy so sánh chính cơ thể này: 'Cơ thể này cũng có cùng bản chất như vậy, sẽ trở thành như vậy, không thể tránh khỏi điều đó'. Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong [...lặp lại...] Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Puna caparaṁ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṁ sivathikāya chaḍḍitaṁ, aṭṭhikāni setāni saṅkhavaṇṇapaṭibhāgāni …pe…
+Lại nữa, này các tỳ kheo, giống như tỳ kheo nhìn thấy một thi thể bị vứt bỏ trong *nghĩa địa*, xương trắng bệch như màu vỏ ốc [...lặp lại...]
 
-Aṭṭhikāni puñjakitāni terovassikāni …pe…
+Xương chất thành đống, đã hơn một năm [...lặp lại...]
 
-Aṭṭhikāni pūtīni cuṇṇakajātāni. So imameva kāyaṁ upasaṁharati: ‘ayampi kho kāyo evaṁdhammo evaṁbhāvī evaṁanatīto’ti.
+Xương mục nát và vỡ vụn thành bụi. Vị ấy so sánh chính cơ thể này: 'Cơ thể này cũng có cùng bản chất như vậy, sẽ trở thành như vậy, không thể tránh khỏi điều đó'.
 
-Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati; samudayadhammānupassī vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati, samudayavayadhammānupassī vā kāyasmiṁ viharati. ‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Như vậy, vị ấy *sống quan sát cơ thể qua cơ thể của mình* ở bên trong, hay *sống quan sát cơ thể qua cơ thể của mình* ở bên ngoài, hay *sống quan sát cơ thể qua cơ thể của mình* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên cơ thể, hay sống quan sát *tính hoại diệt* trên cơ thể, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên cơ thể. Hay vị ấy *sống quan sát*: 'đây là cơ thể' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-Evampi kho, bhikkhave, bhikkhu kāye kāyānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*.
 
-Navasivathikapabbaṁ niṭṭhitaṁ.
+Phần Chín giai đoạn nghĩa địa đã xong.
 
-Cuddasakāyānupassanā niṭṭhitā.
+Mười bốn phần Quan sát cơ thể đã xong.
 
-## 2. Vedanānupassanā
+<!--pg-->
+## 2. Quan sát cảm giác (Vedanānupassanā)
 
-Kathañca, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati?
+Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát cảm giác qua cảm giác của mình*?
 
-Idha, bhikkhave, bhikkhu sukhaṁ vā vedanaṁ vedayamāno ‘sukhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Ở đây, này các tỳ kheo, khi trải nghiệm một *cảm giác dễ chịu* (thọ lạc / sukhaṁ vedanaṁ), tỳ kheo *biết rõ* 'tôi đang trải nghiệm một *cảm giác dễ chịu*'.
 
-Dukkhaṁ vā vedanaṁ vedayamāno ‘dukkhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Khi trải nghiệm một *cảm giác khó chịu* (thọ khổ / dukkhaṁ vedanaṁ), vị ấy *biết rõ* 'tôi đang trải nghiệm một *cảm giác khó chịu*'.
 
-Adukkhamasukhaṁ vā vedanaṁ vedayamāno ‘adukkhamasukhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Khi trải nghiệm một *cảm giác không dễ chịu không khó chịu* (thọ bất khổ bất lạc / adukkhamasukhaṁ vedanaṁ), vị ấy *biết rõ* 'tôi đang trải nghiệm một *cảm giác không dễ chịu không khó chịu*'.
 
-Sāmisaṁ vā sukhaṁ vedanaṁ vedayamāno ‘sāmisaṁ sukhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Khi trải nghiệm một *cảm giác dễ chịu* *thuộc bản năng* (hữu triền / sāmisaṁ), vị ấy *biết rõ* 'tôi đang trải nghiệm một *cảm giác dễ chịu* *thuộc bản năng*'.
 
-Nirāmisaṁ vā sukhaṁ vedanaṁ vedayamāno ‘nirāmisaṁ sukhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Khi trải nghiệm một *cảm giác dễ chịu* *không thuộc bản năng* (vô triền / nirāmisaṁ), vị ấy *biết rõ* 'tôi đang trải nghiệm một *cảm giác dễ chịu* *không thuộc bản năng*'.
 
-Sāmisaṁ vā dukkhaṁ vedanaṁ vedayamāno ‘sāmisaṁ dukkhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Khi trải nghiệm một *cảm giác khó chịu* *thuộc bản năng*, vị ấy *biết rõ* 'tôi đang trải nghiệm một *cảm giác khó chịu* *thuộc bản năng*'.
 
-Nirāmisaṁ vā dukkhaṁ vedanaṁ vedayamāno ‘nirāmisaṁ dukkhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Khi trải nghiệm một *cảm giác khó chịu* *không thuộc bản năng*, vị ấy *biết rõ* 'tôi đang trải nghiệm một *cảm giác khó chịu* *không thuộc bản năng*'.
 
-Sāmisaṁ vā adukkhamasukhaṁ vedanaṁ vedayamāno ‘sāmisaṁ adukkhamasukhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Khi trải nghiệm một *cảm giác không dễ chịu không khó chịu* *thuộc bản năng*, vị ấy *biết rõ* 'tôi đang trải nghiệm một *cảm giác không dễ chịu không khó chịu* *thuộc bản năng*'.
 
-Nirāmisaṁ vā adukkhamasukhaṁ vedanaṁ vedayamāno ‘nirāmisaṁ adukkhamasukhaṁ vedanaṁ vedayāmī’ti pajānāti.
+Khi trải nghiệm một *cảm giác không dễ chịu không khó chịu* *không thuộc bản năng*, vị ấy *biết rõ* 'tôi đang trải nghiệm một *cảm giác không dễ chịu không khó chịu* *không thuộc bản năng*'.
 
-Iti ajjhattaṁ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati; samudayadhammānupassī vā vedanāsu viharati, vayadhammānupassī vā vedanāsu viharati, samudayavayadhammānupassī vā vedanāsu viharati. ‘Atthi vedanā’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Như vậy, vị ấy *sống quan sát cảm giác qua cảm giác của mình* ở bên trong, hay *sống quan sát cảm giác qua cảm giác của mình* ở bên ngoài, hay *sống quan sát cảm giác qua cảm giác của mình* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên các cảm giác, hay sống quan sát *tính hoại diệt* trên các cảm giác, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên các cảm giác. Hay vị ấy *sống quan sát*: 'đây là cảm giác' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-Evampi kho, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát cảm giác qua cảm giác của mình*.
 
-Vedanānupassanā niṭṭhitā.
+Phần Quan sát cảm giác đã xong.
 
-## 3. Cittānupassanā
+<!--pg-->
+## 3. Quan sát tâm (Cittānupassanā)
 
-Kathañca, bhikkhave, bhikkhu citte cittānupassī viharati?
+Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát tâm qua tâm của mình*?
 
-Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti. Vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti. Sadosaṁ vā cittaṁ ‘sadosaṁ cittan’ti pajānāti. Vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānāti. Samohaṁ vā cittaṁ ‘samohaṁ cittan’ti pajānāti. Vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti pajānāti. Saṅkhittaṁ vā cittaṁ ‘saṅkhittaṁ cittan’ti pajānāti. Vikkhittaṁ vā cittaṁ ‘vikkhittaṁ cittan’ti pajānāti. Mahaggataṁ vā cittaṁ ‘mahaggataṁ cittan’ti pajānāti. Amahaggataṁ vā cittaṁ ‘amahaggataṁ cittan’ti pajānāti. Sauttaraṁ vā cittaṁ ‘sauttaraṁ cittan’ti pajānāti. Anuttaraṁ vā cittaṁ ‘anuttaraṁ cittan’ti pajānāti. Samāhitaṁ vā cittaṁ ‘samāhitaṁ cittan’ti pajānāti. Asamāhitaṁ vā cittaṁ ‘asamāhitaṁ cittan’ti pajānāti. Vimuttaṁ vā cittaṁ ‘vimuttaṁ cittan’ti pajānāti. Avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānāti.
+Ở đây, này các tỳ kheo, khi tâm có sự *đắm nhiễm* (hữu tham / sarāgaṁ), tỳ kheo *biết rõ* 'tâm có sự *đắm nhiễm*'. Khi tâm *cạn hết đắm nhiễm* (ly tham / vītarāgaṁ), vị ấy *biết rõ* 'tâm *cạn hết đắm nhiễm*'. Khi tâm có sự ác ý (hữu sân / sadosaṁ), vị ấy *biết rõ* 'tâm có sự ác ý'. Khi tâm không có sự ác ý (ly sân / vītadosaṁ), vị ấy *biết rõ* 'tâm không có sự ác ý'. Khi tâm có *sự u mê* (hữu si / samohaṁ), vị ấy *biết rõ* 'tâm có *sự u mê*'. Khi tâm không có *sự u mê* (ly si / vītamohaṁ), vị ấy *biết rõ* 'tâm không có *sự u mê*'. Khi tâm bị *thu hẹp* (thâu nhiếp / saṅkhittaṁ), vị ấy *biết rõ* 'tâm bị *thu hẹp*'. Khi tâm bị *phân tán* (tán loạn / vikkhittaṁ), vị ấy *biết rõ* 'tâm bị *phân tán*'. Khi tâm được *mở rộng* (đáo đại / mahaggataṁ), vị ấy *biết rõ* 'tâm được *mở rộng*'. Khi tâm không được *mở rộng* (bất đáo đại / amahaggataṁ), vị ấy *biết rõ* 'tâm không được *mở rộng*'. Khi tâm *còn giới hạn* (hữu thượng / sauttaraṁ), vị ấy *biết rõ* 'tâm *còn giới hạn*'. Khi tâm *không giới hạn* (vô thượng / anuttaraṁ), vị ấy *biết rõ* 'tâm *không giới hạn*'. Khi tâm *hợp thành một* (định / samāhitaṁ), vị ấy *biết rõ* 'tâm *hợp thành một*'. Khi tâm không *hợp thành một* (bất định / asamāhitaṁ), vị ấy *biết rõ* 'tâm không *hợp thành một*'. Khi tâm được giải thoát (vimuttaṁ), vị ấy *biết rõ* 'tâm được giải thoát'. Khi tâm không được giải thoát (avimuttaṁ), vị ấy *biết rõ* 'tâm không được giải thoát'.
 
-Iti ajjhattaṁ vā citte cittānupassī viharati, bahiddhā vā citte cittānupassī viharati, ajjhattabahiddhā vā citte cittānupassī viharati; samudayadhammānupassī vā cittasmiṁ viharati, vayadhammānupassī vā cittasmiṁ viharati, samudayavayadhammānupassī vā cittasmiṁ viharati. ‘Atthi cittan’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Như vậy, vị ấy *sống quan sát tâm qua tâm của mình* ở bên trong, hay *sống quan sát tâm qua tâm của mình* ở bên ngoài, hay *sống quan sát tâm qua tâm của mình* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên tâm, hay sống quan sát *tính hoại diệt* trên tâm, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên tâm. Hay vị ấy *sống quan sát*: 'đây là tâm' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-Evampi kho, bhikkhave, bhikkhu citte cittānupassī viharati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát tâm qua tâm của mình*.
 
-Cittānupassanā niṭṭhitā.
+Phần Quan sát tâm đã xong.
 
-## 4. Dhammānupassanā
+<!--pg-->
+## 4. Quan sát Điều dạy (Dhammānupassanā)
 
-### 4.1. Dhammānupassanānīvaraṇapabba
+### 4.1. Phần Năm điều làm mờ yếu trong Quan sát Điều dạy (Dhammānupassanānīvaraṇapabba)
 
-Kathañca, bhikkhave, bhikkhu dhammesu dhammānupassī viharati?
+Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát Điều dạy qua các Điều*?
 
-Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu. Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu?
+Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với năm *điều làm mờ yếu* (triền cái / nīvaraṇesu). Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với năm *điều làm mờ yếu*?
 
-Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ kāmacchandaṁ ‘atthi me ajjhattaṁ kāmacchando’ti pajānāti, asantaṁ vā ajjhattaṁ kāmacchandaṁ ‘natthi me ajjhattaṁ kāmacchando’ti pajānāti; yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti.
+Ở đây, này các tỳ kheo, khi có sự *muốn thỏa mãn bản năng* (dục tham / kāmacchanda) ở bên trong, tỳ kheo *biết rõ* 'có sự *muốn thỏa mãn bản năng* ở bên trong tôi'; hay khi không có sự *muốn thỏa mãn bản năng* ở bên trong, vị ấy *biết rõ* 'không có sự *muốn thỏa mãn bản năng* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào sự *muốn thỏa mãn bản năng* chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào sự *muốn thỏa mãn bản năng* đã sinh khởi bị *từ bỏ* (đoạn trừ / pahānaṁ); và vị ấy *biết rõ* bằng cách nào sự *muốn thỏa mãn bản năng* đã bị *từ bỏ* sẽ *không sinh khởi trở lại* (vô sanh / anuppādo) trong tương lai.
 
-Santaṁ vā ajjhattaṁ byāpādaṁ ‘atthi me ajjhattaṁ byāpādo’ti pajānāti, asantaṁ vā ajjhattaṁ byāpādaṁ ‘natthi me ajjhattaṁ byāpādo’ti pajānāti; yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti, yathā ca uppannassa byāpādassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa byāpādassa āyatiṁ anuppādo hoti tañca pajānāti.
+Khi có sự *ác ý hãm hại* (sân hận / byāpāda) ở bên trong, vị ấy *biết rõ* 'có sự *ác ý hãm hại* ở bên trong tôi'; hay khi không có sự *ác ý hãm hại* ở bên trong, vị ấy *biết rõ* 'không có sự *ác ý hãm hại* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào sự *ác ý hãm hại* chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào sự *ác ý hãm hại* đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào sự *ác ý hãm hại* đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Santaṁ vā ajjhattaṁ thinamiddhaṁ ‘atthi me ajjhattaṁ thinamiddhan’ti pajānāti, asantaṁ vā ajjhattaṁ thinamiddhaṁ ‘natthi me ajjhattaṁ thinamiddhan’ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṁ anuppādo hoti tañca pajānāti.
+Khi có sự *uể oải, buồn ngủ* (hôn trầm thụy miên / thinamiddha) ở bên trong, vị ấy *biết rõ* 'có sự *uể oải, buồn ngủ* ở bên trong tôi'; hay khi không có sự *uể oải, buồn ngủ* ở bên trong, vị ấy *biết rõ* 'không có sự *uể oải, buồn ngủ* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào sự *uể oải, buồn ngủ* chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào sự *uể oải, buồn ngủ* đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào sự *uể oải, buồn ngủ* đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘atthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti, asantaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘natthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti; yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṁ anuppādo hoti tañca pajānāti.
+Khi có sự *bồn chồn, hối hận* (trạo cử hối quá / uddhaccakukkucca) ở bên trong, vị ấy *biết rõ* 'có sự *bồn chồn, hối hận* ở bên trong tôi'; hay khi không có sự *bồn chồn, hối hận* ở bên trong, vị ấy *biết rõ* 'không có sự *bồn chồn, hối hận* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào sự *bồn chồn, hối hận* chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào sự *bồn chồn, hối hận* đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào sự *bồn chồn, hối hận* đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Santaṁ vā ajjhattaṁ vicikicchaṁ ‘atthi me ajjhattaṁ vicikicchā’ti pajānāti, asantaṁ vā ajjhattaṁ vicikicchaṁ ‘natthi me ajjhattaṁ vicikicchā’ti pajānāti; yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti, yathā ca uppannāya vicikicchāya pahānaṁ hoti tañca pajānāti, yathā ca pahīnāya vicikicchāya āyatiṁ anuppādo hoti tañca pajānāti.
+Khi có sự *nghi ngờ* (nghi / vicikicchā) ở bên trong, vị ấy *biết rõ* 'có sự *nghi ngờ* ở bên trong tôi'; hay khi không có sự *nghi ngờ* ở bên trong, vị ấy *biết rõ* 'không có sự *nghi ngờ* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào sự *nghi ngờ* chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào sự *nghi ngờ* đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào sự *nghi ngờ* đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati; samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Như vậy, vị ấy *sống quan sát Điều dạy qua các Điều* ở bên trong, hay *sống quan sát Điều dạy qua các Điều* ở bên ngoài, hay *sống quan sát Điều dạy qua các Điều* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên *các Điều*, hay sống quan sát *tính hoại diệt* trên *các Điều*, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên *các Điều*. Hay vị ấy *sống quan sát*: 'đây là pháp' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với năm *điều làm mờ yếu*.
 
-Nīvaraṇapabbaṁ niṭṭhitaṁ.
+Phần Năm điều làm mờ yếu đã xong.
 
-### 4.2. Dhammānupassanākhandhapabba
+<!--pg-->
+### 4.2. Phần Các tập hợp trong Quan sát Điều dạy (Dhammānupassanākhandhapabba)
 
-Puna caparaṁ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu. Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu? Idha, bhikkhave, bhikkhu: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṁ samudayo, iti saṅkhārānaṁ atthaṅgamo; iti viññāṇaṁ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti;
+Lại nữa, này các tỳ kheo, tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với năm *tập hợp bị bám giữ* (ngũ thủ uẩn / pañcasu upādānakkhandhesu). Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với năm *tập hợp bị bám giữ*? Ở đây, này các tỳ kheo, tỳ kheo quan sát: 'Đây là *vật chất* (sắc / rūpaṁ), đây là *sự hình thành* (tập khởi / samudayo) của *vật chất*, đây là sự *biến mất* (diệt / atthaṅgamo) của *vật chất*; đây là *cảm giác* (thọ / vedanā), đây là *sự hình thành* của *cảm giác*, đây là sự *biến mất* của *cảm giác*; đây là *nhận thức* (tưởng / saññā), đây là *sự hình thành* của *nhận thức*, đây là sự *biến mất* của *nhận thức*; đây là các *hoạt động* (hành / saṅkhārā), đây là *sự hình thành* của các *hoạt động*, đây là sự *biến mất* của các *hoạt động*; đây là *'cái biết'* (thức / viññāṇaṁ), đây là *sự hình thành* của *'cái biết'*, đây là sự *biến mất* của *'cái biết'*';
 
-iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati; samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Như vậy, vị ấy *sống quan sát Điều dạy qua các Điều* ở bên trong, hay *sống quan sát Điều dạy qua các Điều* ở bên ngoài, hay *sống quan sát Điều dạy qua các Điều* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên *các Điều*, hay sống quan sát *tính hoại diệt* trên *các Điều*, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên *các Điều*. Hay vị ấy *sống quan sát*: 'đây là pháp' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu upādānakkhandhesu.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với năm *tập hợp bị bám giữ*.
 
-Khandhapabbaṁ niṭṭhitaṁ.
+Phần Các tập hợp đã xong.
 
-### 4.3. Dhammānupassanāāyatanapabba
+<!--pg-->
+### 4.3. Phần Sáu trường giao tiếp trong Quan sát Điều dạy (Dhammānupassanāāyatanapabba)
 
-Puna caparaṁ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu. Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu?
+Lại nữa, này các tỳ kheo, tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với sáu *trường* (xứ / āyatanesu) bên trong và bên ngoài. Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với sáu *trường* bên trong và bên ngoài?
 
-Idha, bhikkhave, bhikkhu cakkhuñca pajānāti, rūpe ca pajānāti, yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti, yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti.
+Ở đây, này các tỳ kheo, tỳ kheo *biết rõ* con mắt, và *biết rõ* các *hình ảnh* (sắc / rūpe); vị ấy *biết rõ* xiềng xích nào sinh ra *dựa vào* (duyên / paṭicca) cả hai thứ đó. Vị ấy *biết rõ* bằng cách nào xiềng xích chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào xiềng xích đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào xiềng xích đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Sotañca pajānāti, sadde ca pajānāti, yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti, yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti.
+Vị ấy *biết rõ* lỗ tai, và *biết rõ* các âm thanh; vị ấy *biết rõ* xiềng xích nào sinh ra *dựa vào* cả hai thứ đó. Vị ấy *biết rõ* bằng cách nào xiềng xích chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào xiềng xích đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào xiềng xích đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Ghānañca pajānāti, gandhe ca pajānāti, yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti, yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti.
+Vị ấy *biết rõ* cái mũi, và *biết rõ* các mùi hương; vị ấy *biết rõ* xiềng xích nào sinh ra *dựa vào* cả hai thứ đó. Vị ấy *biết rõ* bằng cách nào xiềng xích chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào xiềng xích đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào xiềng xích đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Jivhañca pajānāti, rase ca pajānāti, yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti, yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti.
+Vị ấy *biết rõ* cái lưỡi, và *biết rõ* các vị nếm; vị ấy *biết rõ* xiềng xích nào sinh ra *dựa vào* cả hai thứ đó. Vị ấy *biết rõ* bằng cách nào xiềng xích chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào xiềng xích đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào xiềng xích đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Kāyañca pajānāti, phoṭṭhabbe ca pajānāti, yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti, yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti.
+Vị ấy *biết rõ* cơ thể, và *biết rõ* các xúc chạm; vị ấy *biết rõ* xiềng xích nào sinh ra *dựa vào* cả hai thứ đó. Vị ấy *biết rõ* bằng cách nào xiềng xích chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào xiềng xích đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào xiềng xích đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Manañca pajānāti, dhamme ca pajānāti, yañca tadubhayaṁ paṭicca uppajjati saṁyojanaṁ tañca pajānāti, yathā ca anuppannassa saṁyojanassa uppādo hoti tañca pajānāti, yathā ca uppannassa saṁyojanassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa saṁyojanassa āyatiṁ anuppādo hoti tañca pajānāti.
+Vị ấy *biết rõ* trí não, và *biết rõ* *các Điều*; vị ấy *biết rõ* xiềng xích nào sinh ra *dựa vào* cả hai thứ đó. Vị ấy *biết rõ* bằng cách nào xiềng xích chưa sinh khởi nay sinh khởi; vị ấy *biết rõ* bằng cách nào xiềng xích đã sinh khởi bị *từ bỏ*; và vị ấy *biết rõ* bằng cách nào xiềng xích đã bị *từ bỏ* sẽ *không sinh khởi trở lại* trong tương lai.
 
-Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati; samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati na ca kiñci loke upādiyati.
+Như vậy, vị ấy *sống quan sát Điều dạy qua các Điều* ở bên trong, hay *sống quan sát Điều dạy qua các Điều* ở bên ngoài, hay *sống quan sát Điều dạy qua các Điều* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên *các Điều*, hay sống quan sát *tính hoại diệt* trên *các Điều*, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên *các Điều*. Hay vị ấy *sống quan sát*: 'đây là pháp' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati chasu ajjhattikabāhiresu āyatanesu.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với sáu *trường* bên trong và bên ngoài.
 
-Āyatanapabbaṁ niṭṭhitaṁ.
+Phần Sáu trường giao tiếp đã xong.
 
-### 4.4. Dhammānupassanābojjhaṅgapabba
+<!--pg-->
+### 4.4. Phần Bảy Dấu hiệu Của Giác ngộ trong Quan sát Điều dạy (Dhammānupassanābojjhaṅgapabba)
 
-Puna caparaṁ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu. Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu?
+Lại nữa, này các tỳ kheo, tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với bảy *Dấu hiệu Của Giác ngộ* (Thất giác chi / sattasu bojjhaṅgesu). Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với bảy *Dấu hiệu Của Giác ngộ*?
 
-Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘atthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ satisambojjhaṅgaṁ ‘natthi me ajjhattaṁ satisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa satisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa satisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
+Ở đây, này các tỳ kheo, khi có *dấu hiệu trí nhớ không quên* (niệm giác chi / satisambojjhaṅga) ở bên trong, tỳ kheo *biết rõ* 'có *dấu hiệu trí nhớ không quên* ở bên trong tôi'; hay khi không có *dấu hiệu trí nhớ không quên* ở bên trong, vị ấy *biết rõ* 'không có *dấu hiệu trí nhớ không quên* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào *dấu hiệu trí nhớ không quên* chưa sinh khởi nay sinh khởi; và vị ấy *biết rõ* bằng cách nào *dấu hiệu trí nhớ không quên* đã sinh khởi được phát triển đến mức hoàn thiện.
 
-Santaṁ vā ajjhattaṁ dhammavicayasambojjhaṅgaṁ ‘atthi me ajjhattaṁ dhammavicayasambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ dhammavicayasambojjhaṅgaṁ ‘natthi me ajjhattaṁ dhammavicayasambojjhaṅgo’ti pajānāti, yathā ca anuppannassa dhammavicayasambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa dhammavicayasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. Santaṁ vā ajjhattaṁ vīriyasambojjhaṅgaṁ ‘atthi me ajjhattaṁ vīriyasambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ vīriyasambojjhaṅgaṁ ‘natthi me ajjhattaṁ vīriyasambojjhaṅgo’ti pajānāti, yathā ca anuppannassa vīriyasambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa vīriyasambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. Santaṁ vā ajjhattaṁ pītisambojjhaṅgaṁ ‘atthi me ajjhattaṁ pītisambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ pītisambojjhaṅgaṁ ‘natthi me ajjhattaṁ pītisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa pītisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa pītisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. Santaṁ vā ajjhattaṁ passaddhisambojjhaṅgaṁ ‘atthi me ajjhattaṁ passaddhisambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ passaddhisambojjhaṅgaṁ ‘natthi me ajjhattaṁ passaddhisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa passaddhisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa passaddhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. Santaṁ vā ajjhattaṁ samādhisambojjhaṅgaṁ ‘atthi me ajjhattaṁ samādhisambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ samādhisambojjhaṅgaṁ ‘natthi me ajjhattaṁ samādhisambojjhaṅgo’ti pajānāti, yathā ca anuppannassa samādhisambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa samādhisambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti. Santaṁ vā ajjhattaṁ upekkhāsambojjhaṅgaṁ ‘atthi me ajjhattaṁ upekkhāsambojjhaṅgo’ti pajānāti, asantaṁ vā ajjhattaṁ upekkhāsambojjhaṅgaṁ ‘natthi me ajjhattaṁ upekkhāsambojjhaṅgo’ti pajānāti, yathā ca anuppannassa upekkhāsambojjhaṅgassa uppādo hoti tañca pajānāti, yathā ca uppannassa upekkhāsambojjhaṅgassa bhāvanāya pāripūrī hoti tañca pajānāti.
+Khi có *dấu hiệu khả năng tìm hiểu-phân tích* (trạch pháp giác chi / dhammavicayasambojjhaṅga) ở bên trong, vị ấy *biết rõ* 'có *dấu hiệu khả năng tìm hiểu-phân tích* ở bên trong tôi'; hay khi không có *dấu hiệu khả năng tìm hiểu-phân tích* ở bên trong, vị ấy *biết rõ* 'không có *dấu hiệu khả năng tìm hiểu-phân tích* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào *dấu hiệu khả năng tìm hiểu-phân tích* chưa sinh khởi nay sinh khởi; và vị ấy *biết rõ* bằng cách nào *dấu hiệu khả năng tìm hiểu-phân tích* đã sinh khởi được phát triển đến mức hoàn thiện.
 
-Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati; samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Khi có *dấu hiệu Nỗ Lực* (tinh tấn giác chi / vīriyasambojjhaṅga) ở bên trong, vị ấy *biết rõ* 'có *dấu hiệu Nỗ Lực* ở bên trong tôi'; hay khi không có *dấu hiệu Nỗ Lực* ở bên trong, vị ấy *biết rõ* 'không có *dấu hiệu Nỗ Lực* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào *dấu hiệu Nỗ Lực* chưa sinh khởi nay sinh khởi; và vị ấy *biết rõ* bằng cách nào *dấu hiệu Nỗ Lực* đã sinh khởi được phát triển đến mức hoàn thiện.
 
-Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati sattasu bojjhaṅgesu.
+Khi có *dấu hiệu sự hân hoan* (hỷ giác chi / pītisambojjhaṅga) ở bên trong, vị ấy *biết rõ* 'có *dấu hiệu sự hân hoan* ở bên trong tôi'; hay khi không có *dấu hiệu sự hân hoan* ở bên trong, vị ấy *biết rõ* 'không có *dấu hiệu sự hân hoan* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào *dấu hiệu sự hân hoan* chưa sinh khởi nay sinh khởi; và vị ấy *biết rõ* bằng cách nào *dấu hiệu sự hân hoan* đã sinh khởi được phát triển đến mức hoàn thiện.
 
-Bojjhaṅgapabbaṁ niṭṭhitaṁ.
+Khi có *Dấu hiệu cơ thể lắng dịu* (khinh an giác chi / passaddhisambojjhaṅga) ở bên trong, vị ấy *biết rõ* 'có *Dấu hiệu cơ thể lắng dịu* ở bên trong tôi'; hay khi không có *Dấu hiệu cơ thể lắng dịu* ở bên trong, vị ấy *biết rõ* 'không có *Dấu hiệu cơ thể lắng dịu* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào *Dấu hiệu cơ thể lắng dịu* chưa sinh khởi nay sinh khởi; và vị ấy *biết rõ* bằng cách nào *Dấu hiệu cơ thể lắng dịu* đã sinh khởi được phát triển đến mức hoàn thiện.
 
-### 4.5. Dhammānupassanāsaccapabba
+Khi có *dấu hiệu Định* (định giác chi / samādhisambojjhaṅga) ở bên trong, vị ấy *biết rõ* 'có *dấu hiệu Định* ở bên trong tôi'; hay khi không có *dấu hiệu Định* ở bên trong, vị ấy *biết rõ* 'không có *dấu hiệu Định* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào *dấu hiệu Định* chưa sinh khởi nay sinh khởi; và vị ấy *biết rõ* bằng cách nào *dấu hiệu Định* đã sinh khởi được phát triển đến mức hoàn thiện.
 
-Puna caparaṁ, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu.
+Khi có *dấu hiệu Tâm cân bằng* (xả giác chi / upekkhāsambojjhaṅga) ở bên trong, vị ấy *biết rõ* 'có *dấu hiệu Tâm cân bằng* ở bên trong tôi'; hay khi không có *dấu hiệu Tâm cân bằng* ở bên trong, vị ấy *biết rõ* 'không có *dấu hiệu Tâm cân bằng* ở bên trong tôi'. Vị ấy *biết rõ* bằng cách nào *dấu hiệu Tâm cân bằng* chưa sinh khởi nay sinh khởi; và vị ấy *biết rõ* bằng cách nào *dấu hiệu Tâm cân bằng* đã sinh khởi được phát triển đến mức hoàn thiện.
 
-Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu? Idha, bhikkhave, bhikkhu ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti.
+Như vậy, vị ấy *sống quan sát Điều dạy qua các Điều* ở bên trong, hay *sống quan sát Điều dạy qua các Điều* ở bên ngoài, hay *sống quan sát Điều dạy qua các Điều* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên *các Điều*, hay sống quan sát *tính hoại diệt* trên *các Điều*, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên *các Điều*. Hay vị ấy *sống quan sát*: 'đây là pháp' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati; samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với bảy *Dấu hiệu Của Giác ngộ*.
 
-Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati catūsu ariyasaccesu.
+Phần Bảy Dấu hiệu Của Giác ngộ đã xong.
 
-Saccapabbaṁ niṭṭhitaṁ.
+<!--pg-->
+### 4.5. Phần Bốn Thánh đế trong Quan sát Điều dạy (Dhammānupassanāsaccapabba)
 
-Dhammānupassanā niṭṭhitā.
+Lại nữa, này các tỳ kheo, tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với bốn *Thánh đế* (tứ thánh đế / catūsu ariyasaccesu).
 
-Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṁ bhāveyya satta vassāni, tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ diṭṭheva dhamme aññā; sati vā upādisese anāgāmitā.
+Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với bốn *Thánh đế*? Ở đây, này các tỳ kheo, tỳ kheo *biết rõ* đúng như thật 'đây là *đau khổ*'; vị ấy *biết rõ* đúng như thật 'đây là *sự hình thành* của *đau khổ*'; vị ấy *biết rõ* đúng như thật 'đây là sự *chấm dứt* (diệt / nirodho) *đau khổ*'; vị ấy *biết rõ* đúng như thật 'đây là con đường đưa đến sự *chấm dứt* *đau khổ*'.
 
-Tiṭṭhantu, bhikkhave, satta vassāni. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṁ bhāveyya cha vassāni …pe… pañca vassāni … cattāri vassāni … tīṇi vassāni … dve vassāni … ekaṁ vassaṁ … tiṭṭhatu, bhikkhave, ekaṁ vassaṁ. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṁ bhāveyya satta māsāni, tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ diṭṭheva dhamme aññā; sati vā upādisese anāgāmitā. Tiṭṭhantu, bhikkhave, satta māsāni. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṁ bhāveyya cha māsāni …pe… pañca māsāni … cattāri māsāni … tīṇi māsāni … dve māsāni … ekaṁ māsaṁ … aḍḍhamāsaṁ … tiṭṭhatu, bhikkhave, aḍḍhamāso. Yo hi koci, bhikkhave, ime cattāro satipaṭṭhāne evaṁ bhāveyya sattāhaṁ, tassa dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ diṭṭheva dhamme aññā sati vā upādisese anāgāmitāti.
+Như vậy, vị ấy *sống quan sát Điều dạy qua các Điều* ở bên trong, hay *sống quan sát Điều dạy qua các Điều* ở bên ngoài, hay *sống quan sát Điều dạy qua các Điều* cả bên trong lẫn bên ngoài; hay vị ấy sống quan sát *tính hình thành* trên *các Điều*, hay sống quan sát *tính hoại diệt* trên *các Điều*, hay sống quan sát cả *tính hình thành* và *tính hoại diệt* trên *các Điều*. Hay vị ấy *sống quan sát*: 'đây là pháp' là đủ, chỉ vừa cho sự nhận biết và ghi nhớ. Vị ấy sống không nương tựa, và không *bám giữ* bất cứ điều gì trên đời.
 
-‘Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya yadidaṁ cattāro satipaṭṭhānā’ti. Iti yaṁ taṁ vuttaṁ, idametaṁ paṭicca vuttan”ti.
+Này các tỳ kheo, như vậy tỳ kheo *sống quan sát Điều dạy qua các Điều* đối với bốn *Thánh đế*.
 
-Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+Phần Bốn Thánh đế đã xong.
 
-Satipaṭṭhānasuttaṁ niṭṭhitaṁ dasamaṁ.
+Phần Quan sát Điều dạy đã xong.
 
-Mūlapariyāyavaggo niṭṭhito paṭhamo.
+<!--pg-->
+Này các tỳ kheo, bất cứ ai rèn luyện *bốn nơi chú tâm* này theo cách như vậy trong bảy năm, người ấy có thể mong đợi một trong hai kết quả: *sự hiểu biết trọn vẹn* (A-la-hán / aññā) ngay trong hiện tại; hay nếu *còn dư tàn* (hữu dư y / upādisese) [của sự bám giữ], thì đạt *trạng thái Không Trở Lại* (Bất lai / anāgāmitā).
 
-Tassuddānaṁ
+Này các tỳ kheo, không cần đến bảy năm. Bất cứ ai rèn luyện *bốn nơi chú tâm* này theo cách như vậy trong sáu năm [...lặp lại...] năm năm... bốn năm... ba năm... hai năm... một năm... Này các tỳ kheo, không cần đến một năm. Bất cứ ai rèn luyện *bốn nơi chú tâm* này theo cách như vậy trong bảy tháng, người ấy có thể mong đợi một trong hai kết quả: *sự hiểu biết trọn vẹn* ngay trong hiện tại; hay nếu *còn dư tàn*, thì đạt *trạng thái Không Trở Lại*. Này các tỳ kheo, không cần đến bảy tháng. Bất cứ ai rèn luyện *bốn nơi chú tâm* này theo cách như vậy trong sáu tháng [...lặp lại...] năm tháng... bốn tháng... ba tháng... hai tháng... một tháng... nửa tháng... Này các tỳ kheo, không cần đến nửa tháng. Bất cứ ai rèn luyện *bốn nơi chú tâm* này theo cách như vậy trong bảy ngày, người ấy có thể mong đợi một trong hai kết quả: *sự hiểu biết trọn vẹn* ngay trong hiện tại; hay nếu *còn dư tàn*, thì đạt *trạng thái Không Trở Lại*.
 
-> Mūlasusaṁvaradhammadāyādā, Bheravānaṅgaṇākaṅkheyyavatthaṁ; Sallekhasammādiṭṭhisatipaṭṭhaṁ, Vaggavaro asamo susamatto.
+'Này các tỳ kheo, đây là *con đường trực tiếp* để thanh lọc chúng sinh, để vượt qua sầu não và than khóc, để làm biến mất *đau khổ* và *ưu phiền*, để đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*'. Điều đã được nói đến như vậy, chính là *dựa vào* điều này mà nói."
+
+Thế Tôn đã nói như vậy. Các tỳ kheo ấy hài lòng, vui mừng đón nhận lời Thế Tôn dạy.
+
+Kinh Bốn Nơi Chú Tâm thứ mười đã xong.
+
+Phẩm Căn Bản (Mūlapariyāyavaggo) thứ nhất đã xong.

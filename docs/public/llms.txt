@@ -59,3 +59,10 @@
 - Hỏi & Đáp: https://kinhnikaya.org/hoi-dap
 - Giấy phép: https://kinhnikaya.org/license
 - Mã nguồn: https://github.com/truonghoangnguyen/nikaya2
+
+## markdown content
+Every HTML page has a Markdown equivalent.
+
+Example:
+https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong -> https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong.md
+(add .md to the end of url)

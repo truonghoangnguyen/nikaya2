@@ -4,6 +4,8 @@ Disallow: /c/
 Disallow: /dict/
 Sitemap: https://kinhnikaya.org/sitemap.xml
 
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+
 # AI Context file — see https://llmstxt.org
 # LLMs-txt: https://kinhnikaya.org/llms.txt
 
