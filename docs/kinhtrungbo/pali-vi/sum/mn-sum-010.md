@@ -1,3 +1,5 @@
+Tham khảo: SN 47
+
 Đặt niệm trước mặt = từ đây có thể hiểu là 'đặt "đối tượng/khái niệm" mình muốn quan sát trước mặt; hay "chọn một đề mục thiền"', khác với những đối tượng thiền hiện đại là quan sát chi tiết. Ở đây cũng không bàn về thời lượng ngồi luyện tập là bao lâu.
 
 Câu : `‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.` 

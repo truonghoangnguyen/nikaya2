@@ -583,7 +583,7 @@ export default defineConfig({
             "@id": "https://kinhnikaya.org/#org",
             "name": "Kinh Nikāya",
             "url": "https://kinhnikaya.org/",
-            "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
+            "logo": { "@type": "ImageObject", "url": "https://kinhnikaya.org/favicon.ico" }
           },
           "author": {
             "@type": "Person",
@@ -734,7 +734,7 @@ export default defineConfig({
                 "@id": "https://kinhnikaya.org/#org",
                 "name": "Kinh Nikāya",
                 "url": "https://kinhnikaya.org/",
-                "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
+                "logo": { "@type": "ImageObject", "url": "https://kinhnikaya.org/favicon.ico" }
               },
               'image': coverUrl,
               'about': { '@id': bookId },
@@ -745,7 +745,7 @@ export default defineConfig({
                 { '@type': 'ListItem', 'position': 1, 'name': 'Trang chủ', 'item': `${SITE_ORIGIN}/` },
                 { '@type': 'ListItem', 'position': 2, 'name': bookMeta.name, 'item': bookMeta.url },
                 ...(translatorMeta ? [{ '@type': 'ListItem', 'position': 3, 'name': translatorMeta.name, 'item': `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/` }] : []),
-                { '@type': 'ListItem', 'position': translatorMeta ? 4 : 3, 'name': pageTitle, 'item':pageUrl },
+                { '@type': 'ListItem', 'position': translatorMeta ? 4 : 3, 'name': pageTitle, 'item': pageUrl },
               ],
             },
           ] : [
@@ -774,7 +774,7 @@ export default defineConfig({
                 "@id": "https://kinhnikaya.org/#org",
                 "name": "Kinh Nikāya",
                 "url": "https://kinhnikaya.org/",
-                "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
+                "logo": { "@type": "ImageObject", "url": "https://kinhnikaya.org/favicon.ico" }
               },
               "author": {
                 "@type": "Person",
@@ -818,6 +818,7 @@ export default defineConfig({
 
 
   head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
     //['base', { target: '_blank' }],
     ['script', { type: 'text/javascript' }, `
        (function(c,l,a,r,i,t,y){
