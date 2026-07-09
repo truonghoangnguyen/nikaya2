@@ -6,9 +6,9 @@ Tôi đã nghe như vầy — một thời, Thế Tôn đang lưu trú tại vư
 
 "Thưa vâng, bạch Thế Tôn", các tỳ kheo ấy đáp lời Thế Tôn. Thế Tôn nói điều này:
 
-"Này các tỳ kheo, đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, để vượt qua sầu não và than khóc, để làm biến mất *đau khổ* (khổ / dukkha) và *ưu phiền* (ưu / domanassa), để đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* (chứng ngộ / sacchikiriyāya) Niết-bàn, đó chính là *bốn nơi chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā).
+"Này các tỳ kheo, đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* (khổ / dukkha) và *ưu phiền* (ưu / domanassa), là phương pháp đúng đắn, để *trực tiếp chứng nghiệm* (chứng ngộ / sacchikiriyāya) Niết-bàn, đó chính là *bốn nơi thiết lập sự chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā).
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ýcompa* (người có niệm / satimā), *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* ở đời; vị ấy *sống quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, *chú tâm*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī), nhiệt tâm, *nhận biết rõ ràng*, *chú tâm*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *chú tâm*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā) để *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* ở đời; vị ấy *sống quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Phần giới thiệu đã xong.
 
@@ -19,7 +19,7 @@ Phần giới thiệu đã xong.
 
 Và này các tỳ kheo, làm thế nào tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*?
 
-Ở đây, này các tỳ kheo, tỳ kheo đi vào rừng, hay đi đến gốc cây, hay đi đến một ngôi nhà trống và ngồi xuống, khoanh chân chéo nhau, giữ cơ thể thẳng đứng, và thiết lập sự *chú tâm* (niệm / sati) ở ngay phía trước. Vị ấy *chú tâm* thở vào, *chú tâm* thở ra.
+Ở đây, này các tỳ kheo, tỳ kheo đi vào rừng, hay đi đến gốc cây, hay đi đến một ngôi nhà trống và ngồi xuống, khoanh chân chéo nhau, giữ cơ thể thẳng đứng, và đặt sự *tập trung chú ý* (niệm / sati) ở phía trước mặt. Vị ấy *tập trung chú ý* (niệm/sati) thở vào, *tập trung chú ý* thở ra.
 
 Khi thở vào dài, vị ấy *biết rõ* (tuệ tri / pajānāti) 'tôi thở vào dài'; hay khi thở ra dài, vị ấy *biết rõ* 'tôi thở ra dài'.
 

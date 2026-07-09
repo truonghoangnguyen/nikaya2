@@ -1,6 +1,7 @@
   <template>
   <div class="home-container">
-    <h1 class="visually-hidden">Kinh Nikaya - Kinh Phật giáo</h1>
+    <h1 style="text-align: center;">Kinh Nikaya - Đọc song song Pali, Việt, Anh</h1>
+    <br><br>
     <div class="hero-section">
       <div class="quote-split-layout">
         <div class="quote-content-left">
@@ -41,7 +42,7 @@
         </div>
       </div>
     </div>
-
+    
     <div id="book-collections" class="book-collections">
       <div class="book-grid">
         <a v-for="book in config.books" :key="book.id" :href="book.link" class="book-card">

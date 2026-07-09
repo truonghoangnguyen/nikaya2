@@ -1,5 +1,36 @@
-Tham khảo: SN 47
+### Tham khảo: 
 
+#### SN 47.4 các bước
+1. để biết như thật (liễu tri)
+2. để hiểu biết hoàn toàn 
+3. nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm), tách rời khỏi thân. Họ an trú quan sát cảm giác trên các cảm giác—nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm), tách rời khỏi các cảm giác. Họ an trú quan sát tâm trên tâm—nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm), tách rời khỏi tâm. Họ an trú quan sát pháp trên các pháp—nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm), tách rời khỏi các pháp.
+
+#### SN 47.20
+
+Và một người đàn ông với thanh kiếm đã rút ra sẽ theo ngay sau ông. Bất cứ nơi nào ông làm đổ dù chỉ một giọt, anh ta sẽ chặt đầu ông ngay tại đó.’
+
+Các con nghĩ sao, này các Tỷ kheo? Liệu người đó có mất tập trung vào bát dầu đó, và lơ là bị phân tâm ra bên ngoài không?"
+
+#### SN 47.19:
+
+Đó là cách đúng," Đức Phật nói. "Giống như Medakathālikā đã nói với thầy mình. Nghĩ rằng ‘Ta sẽ tự trông chừng mình,’ các con nên tu tập thiền niệm xứ. Nghĩ rằng ‘Ta sẽ trông chừng người khác,’ các con nên tu tập thiền niệm xứ. Trông chừng chính mình, các con trông chừng người khác; và trông chừng người khác, các con trông chừng chính mình.
+
+Và làm thế nào các con trông chừng người khác bằng cách trông chừng chính mình? Bằng cách phát triển, tu tập, và thực hành thiền định. Và làm thế nào các con trông chừng chính mình bằng cách trông chừng người khác? Bằng sự chấp nhận, sự vô hại, tình thương, và lòng từ bi.
+
+Nghĩ rằng ‘Ta sẽ tự trông chừng mình,’ các con nên tu tập thiền niệm xứ. Nghĩ rằng ‘Ta sẽ trông chừng người khác,’ các con nên tu tập thiền niệm xứ. Trông chừng chính mình, các con trông chừng người khác; và trông chừng người khác, các con trông chừng chính mình."
+
+#### SN 47.15
+
+"Vậy thì, Bāhiya, con nên thanh lọc điểm khởi đầu của các phẩm chất thiện lành. Điểm khởi đầu của các phẩm chất thiện lành là gì? Khéo giới đức trong sạch và chánh kiến. Khi giới đức của con đã được thanh lọc tốt và chánh kiến của con đã đúng đắn, con nên phát triển bốn niệm xứ, dựa trên và có nền tảng từ giới đức.
+
+Bốn pháp đó là gì? Hãy an trú quan sát thân trên thân—nhiệt tâm, biết rõ, và chánh niệm, loại bỏ tham ái và phiền muộn trên đời. Hãy an trú quan sát cảm giác trên các cảm giác… tâm trên tâm… pháp trên các pháp—nhiệt tâm, biết rõ, và chánh niệm, loại bỏ tham ái và phiền muộn trên đời. Khi con phát triển bốn niệm xứ này, dựa trên và có nền tảng từ giới đức, con có thể mong đợi sự tăng trưởng, chứ không phải suy giảm, trong các phẩm chất thiện lành, dù là ngày hay đêm."
+
+#### SN 47.10
+Tỷ kheo đó nên hướng tâm của mình đến một chủ đề truyền cảm hứng làm cơ sở cho thiền định. Khi họ làm như vậy, hân hoan nảy sinh. Khi hân hoan, phấn chấn nảy sinh. Khi tâm tràn đầy phấn chấn, thân trở nên lắng dịu. Khi thân lắng dịu, người ta cảm thấy bình an. Và khi bình an, tâm trở nên đắm chìm trong định. Sau đó, họ suy ngẫm: ‘Ta đã hoàn thành mục tiêu mà ta đã hướng tâm đến. Bây giờ hãy để ta rút lui.’ Họ rút lui, và lặng im không suy nghĩ và không quan sát. Họ hiểu: ‘Ta đang lặng im không suy nghĩ và không quan sát. Chánh niệm trong chính mình, ta hạnh phúc.’ Đó là cách có sự phát triển có định hướng.
+
+Và làm thế nào để có sự phát triển không định hướng? Không hướng tâm ra bên ngoài, một Tỷ kheo hiểu: ‘Tâm ta không hướng ra bên ngoài.’ Và họ hiểu: ‘Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.’ Và họ cũng hiểu: ‘Ta an trú quan sát thân trên thân—nhiệt tâm, biết rõ, chánh niệm; ta hạnh phúc.’ Không hướng tâm ra bên ngoài, một Tỷ kheo hiểu: ‘Tâm ta không hướng ra bên ngoài.’ Và họ hiểu: ‘Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.’ Và họ cũng hiểu: ‘Ta an trú quan sát cảm giác trên các cảm giác—nhiệt tâm, biết rõ, chánh niệm; ta hạnh phúc.’ Không hướng tâm ra bên ngoài, một Tỷ kheo hiểu: ‘Tâm ta không hướng ra bên ngoài.’ Và họ hiểu: ‘Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.’ Và họ cũng hiểu: ‘Ta an trú quan sát tâm trên tâm—nhiệt tâm, biết rõ, chánh niệm; ta hạnh phúc.’ Không hướng tâm ra bên ngoài, một Tỷ kheo hiểu: ‘Tâm ta không hướng ra bên ngoài.’ Và họ hiểu: ‘Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.’ Và họ cũng hiểu: ‘Ta an trú quan sát pháp trên các pháp—nhiệt tâm, biết rõ, chánh niệm; ta hạnh phúc.’ Đó là cách có sự phát triển không định hướng.
+
+---
 Đặt niệm trước mặt = từ đây có thể hiểu là 'đặt "đối tượng/khái niệm" mình muốn quan sát trước mặt; hay "chọn một đề mục thiền"', khác với những đối tượng thiền hiện đại là quan sát chi tiết. Ở đây cũng không bàn về thời lượng ngồi luyện tập là bao lâu.
 
 Câu : `‘Atthi kāyo’ti vā panassa sati paccupaṭṭhitā hoti. Yāvadeva ñāṇamattāya paṭissatimattāya anissito ca viharati, na ca kiñci loke upādiyati.` 

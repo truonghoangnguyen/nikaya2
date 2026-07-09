@@ -119,7 +119,6 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
 | Khīṇāsava | Lậu tận | Người đã sạch nguồn ác | |
-| āpa | thủy | nước | |
 | abhinandati | dục hỷ | vui thú chạy theo | |
 | dhamma | pháp | Quy luật | |
 | [!] abhijānāti | thắng tri | hiểu trực tiếp | biết trực tiếp, hiểu qua kinh nghiệm, tự mình biết |
@@ -244,7 +243,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | tham (lobha) | ám ảnh dễ chịu | |
 | sân (dosa) | ám ảnh khó chịu | |
 | si (moha) | Sự u mê | |
-| niệm (sati/sato) | chú tâm; | "niệm thân(Kāyagatāsati)->chú tâm vào cơ thể" |
+| niệm (sati/sato) | tập trung chú ý; chú tâm;  | "niệm thân(Kāyagatāsati)->tập trung chú ý vào cơ thể" |
 | tứ niệm xứ (satipaṭṭhāna) | bốn nơi chú tâm | |
 | satimant / satimā | người chú tâm | |
 | chánh niệm (sammā-sati)| chú tâm Thiện | |
@@ -394,3 +393,15 @@ Một *Điều* nào *mang lại nhiều lợi ích*? Sự *không sao nhãng* (
 > Diệt trừ mọi khổ đau,\
 > Giải thoát mọi trói buộc.
 </output>
+
+### Ví kinh được dịch tốt
+<input-dịch-tốt>
+“Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.
+
+Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+</input-dịch-tốt>
+<output-dịch-tốt>
+"Này các tỳ kheo, đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* (khổ / dukkha) và *ưu phiền* (ưu / domanassa), là phương pháp đúng đắn, để *trực tiếp chứng nghiệm* (chứng ngộ / sacchikiriyāya) Niết-bàn, đó chính là *bốn nơi thiết lập sự chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā).
+
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā) để *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* ở đời; vị ấy *sống quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+</output-dịch-tốt>

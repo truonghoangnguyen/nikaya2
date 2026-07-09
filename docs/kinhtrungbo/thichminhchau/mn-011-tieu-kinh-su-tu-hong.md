@@ -35,21 +35,35 @@ giữa quý vị và chúng tôi?".
 <!--pg-->
 Chư Tỷ-kheo, nếu được các Du sĩ ngoại đạo nói như vậy, cần phải trả lời họ như sau: "Chư Hiền, cứu
 cánh là một hay cứu cánh là đa diện?" Nếu trả lời đứng đắn, các Du sĩ ngoại đạo phải trả lời: "Chư Hiền,
-cứu cánh là một, cứu cánh không phải đa diện". --"Chư Hiền, cứu cánh ấy cho người có tham, hay cho
+cứu cánh là một, cứu cánh không phải đa diện". 
+
+--"Chư Hiền, cứu cánh ấy cho người có tham, hay cho
 người không tham?" Nếu trả lời đứng đắn, các Du sĩ ngoại đạo phải trả lời: "Chư Hiền, cứu cánh ấy cho
-người không tham, không phải cho người có tham". --"Chư Hiền, cứu cánh ấy cho người có sân, hay cho
+người không tham, không phải cho người có tham". 
+
+--"Chư Hiền, cứu cánh ấy cho người có sân, hay cho
 người không sân?" Nếu trả lời đứng đắn, các Du sĩ ngoại đạo phải trả lời: "Chư Hiền, cứu cánh ấy cho
-người không sân, không phải cho người có sân". --"Chư Hiền, cứu cánh ấy cho người có si hay cho
+người không sân, không phải cho người có sân". 
+
+--"Chư Hiền, cứu cánh ấy cho người có si hay cho
 người không si? Nếu trả lời đứng đắn... phải trả lời: "Chư Hiền, cứu cánh ấy cho người không si, không
-phải cho người có si". --"Chư Hiền, cứu cánh ấy cho người có ái, hay cho người không ái?" Nếu trả lời
-đứng đắn... phải trả lời: "Chư Hiền, cứu cánh ấy cho người không ái, không phải cho người có ái". --
-"Chư Hiền, cứu cánh ấy cho người có chấp thủ, hay cho người không chấp thủ?" Nếu trả lời đứng đắn...
-phải trả lời: "Chư Hiền, cứu cánh ấy cho người không chấp thủ, không phải cho người chấp thủ". --"Chư
-Hiền, cứu cánh ấy cho người có trí, hay cho người không có trí?" Nếu trả lời đứng đắn... phải trả lời:
-"Cứu cánh ấy cho người có trí, không phải cho người không có trí". --"Chư Hiền, cứu cánh ấy cho người
+phải cho người có si". 
+
+--"Chư Hiền, cứu cánh ấy cho người có ái, hay cho người không ái?" Nếu trả lời
+đứng đắn... phải trả lời: "Chư Hiền, cứu cánh ấy cho người không ái, không phải cho người có ái". 
+
+--"Chư Hiền, cứu cánh ấy cho người có chấp thủ, hay cho người không chấp thủ?" Nếu trả lời đứng đắn...
+phải trả lời: "Chư Hiền, cứu cánh ấy cho người không chấp thủ, không phải cho người chấp thủ". 
+
+--"Chư Hiền, cứu cánh ấy cho người có trí, hay cho người không có trí?" Nếu trả lời đứng đắn... phải trả lời:
+"Cứu cánh ấy cho người có trí, không phải cho người không có trí". 
+
+--"Chư Hiền, cứu cánh ấy cho người
 thuận ứng, nghịch ứng hay cho người không thuận ứng, không nghịch ứng?" Nếu trả lời đứng đắn... phải
 trả lời: "Chư Hiền, cứu cánh ấy cho người không thuận ứng, không nghịch ứng, không phải cho người
-thuận ứng, nghịch ứng". --"Chư Hiền, cứu cánh ấy cho người ưa hý luận, thích hý luận hay cho người
+thuận ứng, nghịch ứng". 
+
+--"Chư Hiền, cứu cánh ấy cho người ưa hý luận, thích hý luận hay cho người
 không ưa hý luận, không thích hý luận?" Nếu trả lời đứng đắn, các Du sĩ ngoại đạo cần phải trả lời:
 "Chư Hiền, cứu cánh ấy cho người không ưa hý luận, không thích hý luận, không phải cho người ưa hý
 luận, thích hý luận".

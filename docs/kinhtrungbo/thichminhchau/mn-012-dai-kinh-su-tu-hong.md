@@ -227,6 +227,7 @@ Và này Sariputta, Ta cũng tuệ tri Niết-bàn, con đường đưa đến N
 Tùy theo hành nghiệp, do đoạn trừ các lậu hoặc, sau khi tự mình với thắng trí, chứng ngộ, chứng đạt và
 an trú ngay trong hiện tại vô lậu tâm giải thoát, tuệ giải thoát, sự việc này, Ta cũng tuệ tri.
 
+<!--pg-->
 (1) Này Sariputta, ở đây, với tâm của Ta, Ta tuệ tri tâm của một số người. Do hành nghiệp của người
 này như vậy, cử chỉ như vậy, bước vào đạo lộ như vậy, sau khi thân hoại mạng chung sẽ sanh vào cõi
 dữ, ác thú, đọa xứ, địa ngục như vậy. Sau một thời gian, với thiên nhãn thanh tịnh, siêu nhân, Ta thấy

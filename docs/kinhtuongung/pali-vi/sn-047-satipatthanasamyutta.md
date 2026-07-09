@@ -1,921 +1,1007 @@
-# Satipaṭṭhānasaṁyutta
+# Tương Ưng Bộ 47. Tương Ưng Nơi Chú Tâm (Satipaṭṭhānasaṁyutta)
 
-## * Saṁyutta Nikāya 47.1
+<!--pg-->
+### 47.1 Kinh Ambapāli (Ambapālisutta)
 
-### 47.1 Ambapālisutta
+Tôi đã nghe như vầy—một thời Thế Tôn trú ở Vesāli, tại khu rừng của Ambapāli. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo."
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati ambapālivane. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+"Bạch Thế Tôn," các tỳ kheo ấy vâng đáp Thế Tôn. Thế Tôn nói điều này:
 
-“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
+"Này các tỳ kheo, đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* (diệt / atthaṅgamāya) *đau khổ* (khổ / dukkha) và *ưu phiền* (ưu / domanassa), đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* (chứng ngộ / sacchikiriyāya) Niết-bàn, đó chính là *bốn nơi chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā). Bốn nơi nào?
 
-“Ekāyanvāyaṁ, bhikkhave, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro?
+Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā) để *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* ở đời;
 
-Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ;
+vị ấy sống *quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời;
 
-vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ;
+vị ấy sống *quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời;
 
-citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ;
+vị ấy sống *quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Này các tỳ kheo, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*."
 
-Ekāyanvāyaṁ, bhikkhave, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā”ti.
+Thế Tôn nói điều này. Các tỳ kheo ấy hài lòng, vui mừng đón nhận lời Thế Tôn nói.
 
-Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+Kinh thứ nhất.
 
-Paṭhamaṁ.
+<!--pg-->
+### 47.2 Kinh Tập Trung Chú Ý (Satisutta)
 
-### 47.2 Satisutta
+Một thời Thế Tôn trú ở Vesāli, tại khu rừng của Ambapāli. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo."
 
-Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati ambapālivane. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+"Bạch Thế Tôn," các tỳ kheo ấy vâng đáp Thế Tôn. Thế Tôn nói điều này:
 
-“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
+"Này các tỳ kheo, tỳ kheo nên sống *tập trung chú ý* (chánh niệm / sato) và *nhận biết rõ ràng*. Đây là lời giáo huấn của Ta dành cho các vị.
 
-“Sato, bhikkhave, bhikkhu vihareyya sampajāno. Ayaṁ vo amhākaṁ anusāsanī.
+Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*.
 
-Kathañca, bhikkhave, bhikkhu sato hoti? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ kho, bhikkhave, bhikkhu sato hoti.
+Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở đây, này các tỳ kheo, tỳ kheo thực hành *nhận biết rõ ràng* khi bước tới bước lui; thực hành *nhận biết rõ ràng* khi nhìn thẳng nhìn quanh; thực hành *nhận biết rõ ràng* khi co tay duỗi tay; thực hành *nhận biết rõ ràng* khi mang y Tăng-già-lê, bình bát và y áo; thực hành *nhận biết rõ ràng* khi ăn, uống, nhai, nếm; thực hành *nhận biết rõ ràng* khi đại tiện, tiểu tiện; thực hành *nhận biết rõ ràng* khi đi, đứng, ngồi, ngủ, thức, nói năng, im lặng. Như vậy, này các tỳ kheo, là tỳ kheo *nhận biết rõ ràng*. Này các tỳ kheo, tỳ kheo nên sống *tập trung chú ý* và *nhận biết rõ ràng*. Đây là lời giáo huấn của Ta dành cho các vị."
 
-Kathañca, bhikkhave, bhikkhu sampajāno hoti? Idha, bhikkhave, bhikkhu abhikkante paṭikkante sampajānakārī hoti, ālokite vilokite sampajānakārī hoti, samiñjite pasārite sampajānakārī hoti, saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti, asite pīte khāyite sāyite sampajānakārī hoti, uccārapassāvakamme sampajānakārī hoti, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti. Evaṁ kho, bhikkhave, bhikkhu sampajānakārī hoti. Sato, bhikkhave, bhikkhu vihareyya sampajāno. Ayaṁ vo amhākaṁ anusāsanī”ti.
+Kinh thứ hai.
 
-Dutiyaṁ.
+<!--pg-->
+### 47.3 Kinh Tỳ Kheo (Bhikkhusutta)
 
-### 47.3 Bhikkhusutta
+Một thời Thế Tôn trú ở Sāvatthi, tại rừng Jeta, tu viện của Anāthapiṇḍika.
 
-Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+Rồi một tỳ kheo đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, tỳ kheo ấy nói với Thế Tôn điều này: "Bạch Thế Tôn, thật tốt lành nếu Thế Tôn thuyết giảng cho con một *Điều* (pháp / dhamma) ngắn gọn, để sau khi nghe *Điều dạy* của Thế Tôn, con có thể sống một mình, rút lui, không sao nhãng, nhiệt tâm, quyết chí."
 
-Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
+"Cũng giống như vậy, ở đây có một số kẻ rỗng tuếch chỉ biết yêu cầu Ta, nhưng khi *Điều dạy* được thuyết giảng, họ lại nghĩ rằng họ chỉ cần đi theo Ta [mà không thực hành]."
 
-“Evameva panidhekacce moghapurisā mañceva ajjhesanti, dhamme ca bhāsite mameva anubandhitabbaṁ maññantī”ti.
+"Bạch Thế Tôn, xin Thế Tôn hãy thuyết giảng cho con một *Điều* ngắn gọn, xin Thiện Thệ hãy thuyết giảng một *Điều* ngắn gọn. Biết đâu con có thể hiểu được ý nghĩa lời nói của Thế Tôn, biết đâu con có thể trở thành người thừa tự lời nói của Thế Tôn."
 
-“Desetu me, bhante, bhagavā saṅkhittena dhammaṁ, desetu sugato saṅkhittena dhammaṁ. Appeva nāmāhaṁ bhagavato bhāsitassa atthaṁ jāneyyaṁ, appeva nāmāhaṁ bhagavato bhāsitassa dāyādo assan”ti.
+"Do vậy, này tỳ kheo, trước tiên ông hãy làm cho trong sạch phần cốt lõi của *những điều thiện* (thiện pháp / kusalesu dhammesu). Cốt lõi của *những điều thiện* là gì? Đó là *lối sống đạo đức* (giới / sīla) thật trong sạch và *quan điểm* (kiến / diṭṭhi) ngay thẳng. Này tỳ kheo, khi nào *lối sống đạo đức* của ông thật trong sạch và *quan điểm* ngay thẳng, thì từ đó, này tỳ kheo, nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông hãy phát triển *bốn nơi chú tâm* theo ba cách.
 
-“Tasmātiha tvaṁ, bhikkhu, ādimeva visodhehi kusalesu dhammesu. Ko cādi kusalānaṁ dhammānaṁ? Sīlañca suvisuddhaṁ, diṭṭhi ca ujukā. Yato kho te, bhikkhu, sīlañca suvisuddhaṁ bhavissati diṭṭhi ca ujukā, tato tvaṁ, bhikkhu, sīlaṁ nissāya sīle patiṭṭhāya cattāro satipaṭṭhāne tividhena bhāveyyāsi.
+Bốn nơi nào?
 
-Katame cattāro?
+Bên trong hay bên ngoài, ông hãy sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-ajjhattabahiddhā vā citte cittānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Bên trong các *Điều*, [...lặp lại...] bên ngoài các *Điều*, [...lặp lại...] bên trong hay bên ngoài các *Điều*, ông hãy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này tỳ kheo, khi nào nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông phát triển *bốn nơi chú tâm* theo ba cách như vậy, thì này tỳ kheo, dù đêm hay ngày trôi qua, ông chỉ có thể mong đợi sự tăng trưởng trong *những điều thiện*, không có sự suy thoái."
 
-Ajjhattaṁ vā dhammesu … bahiddhā vā dhammesu … ajjhattabahiddhā vā dhammesu dhammānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yato kho tvaṁ, bhikkhu, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne evaṁ tividhena bhāvessasi, tato tuyhaṁ, bhikkhu, yā ratti vā divaso vā āgamissati vuddhiyeva pāṭikaṅkhā kusalesu dhammesu, no parihānī”ti.
+Ở đây, này tỳ kheo, bên trong ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; bên ngoài ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; bên trong hay bên ngoài ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Idha tvaṁ, bhikkhu, ajjhattaṁ vā kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; bahiddhā vā kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; ajjhattabahiddhā vā kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Bên trong các cảm giác [...lặp lại...] bên ngoài các cảm giác [...lặp lại...] bên trong hay bên ngoài các cảm giác, ông hãy sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Ajjhattaṁ vā vedanāsu …pe… bahiddhā vā vedanāsu … ajjhattabahiddhā vā vedanāsu vedanānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Bên trong tâm [...lặp lại...] bên ngoài tâm [...lặp lại...] Rồi tỳ kheo ấy hài lòng, vui mừng đón nhận lời Thế Tôn nói, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh bên phải rồi rời đi.
 
-Ajjhattaṁ vā citte … bahiddhā vā citte … Atha kho so bhikkhu bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+Rồi tỳ kheo ấy sống một mình, rút lui, không sao nhãng, nhiệt tâm, quyết chí, và không bao lâu sau—mục đích vô thượng mà các thiện nam tử xuất gia từ bỏ gia đình sống không gia đình hướng tới—vị ấy đã tự mình *trực tiếp chứng nghiệm* bằng trí tuệ tối thắng ngay trong hiện tại, đạt đến và an trú trong *cốt lõi đời sống thánh thiện* (phạm hạnh / brahmacariya).
 
-Atha kho so bhikkhu eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati.
+Vị ấy biết rõ: "*Sự Tái sinh* (sinh / jāti) đã *cạn kiệt* (đoạn tận / khīṇā), *cốt lõi đời sống thánh thiện* đã hoàn tất, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa." Và tỳ kheo ấy trở thành một vị A-la-hán.
 
-“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi. Aññataro ca pana so bhikkhu arahataṁ ahosīti.
+Kinh thứ ba.
 
-Tatiyaṁ.
+<!--pg-->
+### 47.4 Kinh Sāla (Sālasutta)*
 
-### 47.4 Sālasutta
+Một thời Thế Tôn trú ở Kosala, tại ngôi làng Bà-la-môn tên là Sālā. Tại đó, Thế Tôn gọi các tỳ kheo [...lặp lại...] và nói điều này:
 
-Ekaṁ samayaṁ bhagavā kosalesu viharati sālāya brāhmaṇagāme. Tatra kho bhagavā bhikkhū āmantesi …pe… etadavoca:
+"Này các tỳ kheo, những tỳ kheo nào mới tu, vừa mới xuất gia, mới đến với *Điều dạy* và Luật này, các vị cần khích lệ, hướng dẫn và thiết lập những tỳ kheo ấy vào việc phát triển *bốn nơi chú tâm*. Bốn nơi nào? 'Đến đây, này các hiền giả, hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một* (nhất tâm / ekodibhūtā), tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* (như thật trí / yathābhūtaṁ ñāṇāya) về cơ thể; hãy sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về các cảm giác; hãy sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về tâm; hãy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về các *Điều*.'
 
-“Ye te, bhikkhave, bhikkhū navā acirapabbajitā adhunāgatā imaṁ dhammavinayaṁ, te vo, bhikkhave, bhikkhū catunnaṁ satipaṭṭhānānaṁ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā. Katamesaṁ catunnaṁ? Etha tumhe, āvuso, kāye kāyānupassino viharatha ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, kāyassa yathābhūtaṁ ñāṇāya; vedanāsu vedanānupassino viharatha ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, vedanānaṁ yathābhūtaṁ ñāṇāya; citte cittānupassino viharatha ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, cittassa yathābhūtaṁ ñāṇāya; dhammesu dhammānupassino viharatha ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, dhammānaṁ yathābhūtaṁ ñāṇāya.
+Này các tỳ kheo, những tỳ kheo nào là bậc hữu học, chưa đạt đến đích tâm trí, đang sống mong cầu sự an ổn vô thượng khỏi các ách trói buộc, các vị ấy cũng sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* (liễu tri / pariññāya) về cơ thể; sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về các cảm giác; sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về tâm; sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về các *Điều*.
 
-Yepi te, bhikkhave, bhikkhū sekhā appattamānasā anuttaraṁ yogakkhemaṁ patthayamānā viharanti, tepi kāye kāyānupassino viharanti ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, kāyassa pariññāya; vedanāsu vedanānupassino viharanti ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, vedanānaṁ pariññāya; citte cittānupassino viharanti ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, cittassa pariññāya; dhammesu dhammānupassino viharanti ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, dhammānaṁ pariññāya.
+Này các tỳ kheo, những tỳ kheo nào là bậc A-la-hán, đã hết sạch *nguồn ác* (lậu hoặc / khīṇāsavā), đã sống trọn vẹn, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích tối hậu, đã phá hủy hoàn toàn các kiết sử của sự tồn tại, được giải thoát nhờ hiểu biết đúng đắn, các vị ấy cũng sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* (ly hệ / visaṁyuttā) khỏi cơ thể; sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi các cảm giác; sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi tâm; sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi các *Điều*.
 
-Yepi te, bhikkhave, bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, tepi kāye kāyānupassino viharanti ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, kāyena visaṁyuttā; vedanāsu vedanānupassino viharanti ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, vedanāhi visaṁyuttā; citte cittānupassino viharanti ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, cittena visaṁyuttā; dhammesu dhammānupassino viharanti ātāpino sampajānā ekodibhūtā vippasannacittā samāhitā ekaggacittā, dhammehi visaṁyuttā.
+Này các tỳ kheo, những tỳ kheo nào mới tu, vừa mới xuất gia, mới đến với *Điều dạy* và Luật này, các vị cần khích lệ, hướng dẫn và thiết lập những tỳ kheo ấy vào việc phát triển *bốn nơi chú tâm* này."
 
-Yepi te, bhikkhave, bhikkhū navā acirapabbajitā adhunāgatā imaṁ dhammavinayaṁ, te vo, bhikkhave, bhikkhū imesaṁ catunnaṁ satipaṭṭhānānaṁ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā”ti.
+Kinh thứ tư.
 
-Catutthaṁ.
+<!--pg-->
+### 47.5 Kinh Đống Bất Thiện (Akusalarāsisutta)
 
-### 47.5 Akusalarāsisutta
+Bối cảnh ở Sāvatthi.
 
-Sāvatthinidānaṁ.
+Tại đó, Thế Tôn nói điều này:
 
-Tatra kho bhagavā etadavoca:
+"Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống không thiện', người ấy nên nói về năm *điều làm mờ yếu* (triền cái / nīvaraṇe). Này các tỳ kheo, toàn bộ đống không thiện này chính là năm *điều làm mờ yếu*. Năm điều nào? *Điều làm mờ yếu* là *muốn thỏa mãn bản năng* (dục tham / kāmacchanda), *điều làm mờ yếu* là *ác ý hãm hại* (sân hận / byāpāda), *điều làm mờ yếu* là *uể oải, buồn ngủ* (hôn trầm thụy miên / thinamiddha), *điều làm mờ yếu* là *bồn chồn, hối hận* (trạo cử hối quá / uddhaccakukkucca), *điều làm mờ yếu* là *nghi ngờ* (nghi / vicikicchā). Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống không thiện', người ấy nên nói về năm *điều làm mờ yếu* này. Này các tỳ kheo, toàn bộ đống không thiện này chính là năm *điều làm mờ yếu*.
 
-“‘akusalarāsī’ti, bhikkhave, vadamāno pañca nīvaraṇe sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, akusalarāsi, yadidaṁ—pañca nīvaraṇā. Katame pañca? Kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ, uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ. ‘Akusalarāsī’ti, bhikkhave, vadamāno ime pañca nīvaraṇe sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, akusalarāsi, yadidaṁ—pañca nīvaraṇā.
+Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống thiện', người ấy nên nói về *bốn nơi chú tâm*. Kinh thứ năm.
 
-‘Kusalarāsī’ti, bhikkhave, vadamāno cattāro satipaṭṭhāne sammā vadamāno vadeyya. Pañcamaṁ.
+Này các tỳ kheo, toàn bộ đống thiện này chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống thiện', người ấy nên nói về *bốn nơi chú tâm* này. Này các tỳ kheo, toàn bộ đống thiện này chính là *bốn nơi chú tâm*."
 
-Kevalo hāyaṁ, bhikkhave, kusalarāsi, yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. ‘Kusalarāsī’ti, bhikkhave, vadamāno ime cattāro satipaṭṭhāne sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, kusalarāsi, yadidaṁ—cattāro satipaṭṭhānā”ti.
+<!--pg-->
+### 47.6 Kinh Chim Cắt (Sakuṇagghisutta)
 
-### 47.6 Sakuṇagghisutta
+"Này các tỳ kheo, chuyện xưa kể rằng, một con chim cắt đột ngột sà xuống vồ lấy một con chim cút. Này các tỳ kheo, khi con chim cút bị chim cắt quắp mang đi, nó than vãn như sau: 'Ta thật vô phước, ta thật thiếu may mắn, vì ta đã đi lang thang ngoài lãnh địa, vào vùng đất của kẻ khác. Nếu hôm nay ta đi trong lãnh địa của mình, vùng đất của tổ tiên, thì con chim cắt này không thể làm gì được ta trong cuộc chiến này.'
 
-“Bhūtapubbaṁ, bhikkhave, sakuṇagghi lāpaṁ sakuṇaṁ sahasā ajjhappattā aggahesi. Atha kho, bhikkhave, lāpo sakuṇo sakuṇagghiyā hariyamāno evaṁ paridevasi: ‘mayamevamha alakkhikā, mayaṁ appapuññā, ye mayaṁ agocare carimha paravisaye. Sacejja mayaṁ gocare careyyāma sake pettike visaye, na myāyaṁ, sakuṇagghi, alaṁ abhavissa, yadidaṁ—yuddhāyā’ti.
+'Nhưng này chim cút, lãnh địa của mi, vùng đất của tổ tiên mi là gì?'
 
-‘Ko pana te, lāpa, gocaro sako pettiko visayo’ti?
+'Đó là mảnh đất cày xới với những cục đất sét.'
 
-‘Yadidaṁ—naṅgalakaṭṭhakaraṇaṁ leḍḍuṭṭhānan’ti.
+Này các tỳ kheo, con chim cắt không ỷ lại vào sức mạnh của mình, không khoe khoang sức mạnh của mình, liền thả con chim cút ra và nói: 'Đi đi, chim cút, nhưng dù mi có đến đó, mi cũng không thoát khỏi ta đâu.'
 
-Atha kho, bhikkhave, sakuṇagghi sake bale apatthaddhā sake bale asaṁvadamānā lāpaṁ sakuṇaṁ pamuñci: ‘gaccha kho tvaṁ, lāpa, tatrapi me gantvā na mokkhasī’ti.
+Này các tỳ kheo, con chim cút đi đến mảnh đất cày xới với những cục đất sét, leo lên một cục đất lớn, đứng đó và nói với con chim cắt: 'Đến đây đi, chim cắt, đến đây đi, chim cắt.'
 
-Atha kho, bhikkhave, lāpo sakuṇo naṅgalakaṭṭhakaraṇaṁ leḍḍuṭṭhānaṁ gantvā mahantaṁ leḍḍuṁ abhiruhitvā sakuṇagghiṁ vadamāno aṭṭhāsi: ‘ehi kho dāni me, sakuṇagghi, ehi kho dāni me, sakuṇagghī’ti.
+Này các tỳ kheo, con chim cắt không ỷ lại vào sức mạnh của mình, không khoe khoang sức mạnh của mình, thu gọn hai cánh lại và đột ngột sà xuống vồ con chim cút. Này các tỳ kheo, khi con chim cút biết rằng 'con chim cắt này đang lao thẳng tới ta', nó liền chui tọt vào giữa cục đất sét đó. Này các tỳ kheo, con chim cắt đập vỡ ngực mình ngay tại đó.
 
-Atha kho sā, bhikkhave, sakuṇagghi sake bale apatthaddhā sake bale asaṁvadamānā ubho pakkhe sannayha lāpaṁ sakuṇaṁ sahasā ajjhappattā. Yadā kho, bhikkhave, aññāsi lāpo sakuṇo ‘bahuāgato kho myāyaṁ sakuṇagghī’ti, atha tasseva leḍḍussa antaraṁ paccupādi. Atha kho, bhikkhave, sakuṇagghi tattheva uraṁ paccatāḷesi.
+Này các tỳ kheo, sự việc là như vậy đối với kẻ đi lang thang ngoài lãnh địa, vào vùng đất của kẻ khác.
 
-Evañhi taṁ, bhikkhave, hoti yo agocare carati paravisaye.
+Do vậy, này các tỳ kheo, đừng đi lang thang ngoài lãnh địa, vào vùng đất của kẻ khác. Những hình ảnh nhận biết bằng mắt, những âm thanh nhận biết bằng tai, những mùi nhận biết bằng mũi, những vị nhận biết bằng lưỡi, những xúc chạm vật lý nhận biết bằng cơ thể—đáng khao khát, hấp dẫn, dễ chịu, đáng yêu, kích thích bản năng, đầy cám dỗ—đây, này các tỳ kheo, là vùng đất của kẻ khác, không phải lãnh địa của tỳ kheo.
 
-Tasmātiha, bhikkhave, mā agocare carittha paravisaye. kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā—ayaṁ, bhikkhave, bhikkhuno agocaro paravisayo.
+Này các tỳ kheo, đối với người đi lang thang ngoài lãnh địa, vào vùng đất của kẻ khác, Ác ma sẽ tìm được kẽ hở, Ác ma sẽ tìm được đối tượng.
 
-Agocare, bhikkhave, carataṁ paravisaye lacchati māro otāraṁ, lacchati māro ārammaṇaṁ.
+Và này các tỳ kheo, vùng đất của kẻ khác, không phải lãnh địa của tỳ kheo là gì? Đó chính là năm *sợi dây trói buộc của bản năng* (ngũ dục / kāmaguṇā). Năm sợi dây nào? Những hình ảnh nhận biết bằng mắt, đáng khao khát, hấp dẫn, dễ chịu, đáng yêu, kích thích bản năng, đầy cám dỗ; những âm thanh nhận biết bằng tai [...lặp lại...] những mùi nhận biết bằng mũi [...lặp lại...] những vị nhận biết bằng lưỡi [...lặp lại...] Này các tỳ kheo, hãy đi trong lãnh địa của mình, vùng đất của tổ tiên. Tỳ kheo sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời—đây, này các tỳ kheo, là lãnh địa của tỳ kheo, vùng đất của tổ tiên."
 
-Ko ca, bhikkhave, bhikkhuno agocaro paravisayo? Yadidaṁ—pañca kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā, sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā …pe… jivhāviññeyyā rasā …pe… Gocare, bhikkhave, caratha sake pettike visaye. dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—ayaṁ, bhikkhave, bhikkhuno gocaro sako pettiko visayo”ti.
+Kinh thứ sáu.
 
-Chaṭṭhaṁ.
+Này các tỳ kheo, đối với người đi trong lãnh địa của mình, vùng đất của tổ tiên, Ác ma sẽ không tìm được kẽ hở, Ác ma sẽ không tìm được đối tượng.
 
-Gocare, bhikkhave, carataṁ sake pettike visaye na lacchati māro otāraṁ, na lacchati māro ārammaṇaṁ.
+Và này các tỳ kheo, lãnh địa của tỳ kheo, vùng đất của tổ tiên là gì? Đó chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...]
 
-Ko ca, bhikkhave, bhikkhuno gocaro sako pettiko visayo? Yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe…
+<!--pg-->
+### 47.7 Kinh Con Khỉ (Makkaṭasutta)
 
-### 47.7 Makkaṭasutta
+"Này các tỳ kheo, ở dãy núi chúa Himalaya có những vùng hiểm trở, gồ ghề, nơi khỉ không thể đi tới và con người cũng không thể đi tới. Này các tỳ kheo, ở dãy núi chúa Himalaya có những vùng hiểm trở, gồ ghề, nơi khỉ có thể đi tới nhưng con người không thể đi tới. Này các tỳ kheo, ở dãy núi chúa Himalaya có những vùng đất bằng phẳng, dễ chịu, nơi cả khỉ và con người đều có thể đi tới. Tại đó, này các tỳ kheo, những người thợ săn đặt bẫy nhựa trên các lối đi của khỉ để bắt khỉ.
 
-“Atthi, bhikkhave, himavato pabbatarājassa duggā visamā desā, yattha neva makkaṭānaṁ cārī na manussānaṁ. Atthi, bhikkhave, himavato pabbatarājassa duggā visamā desā, yattha makkaṭānañhi kho cārī, na manussānaṁ. Atthi, bhikkhave, himavato pabbatarājassa samā bhūmibhāgā ramaṇīyā, yattha makkaṭānañceva cārī manussānañca. Tatra, bhikkhave, luddā makkaṭavīthīsu lepaṁ oḍḍenti makkaṭānaṁ bādhanāya.
+Tại đó, này các tỳ kheo, những con khỉ không ngu ngốc, không tham lam, khi thấy bẫy nhựa đó, chúng tránh xa. 'Ta sẽ gỡ cả hai tay và hai chân ra', nó dùng mõm để cắn. Nó bị dính chặt ở đó.
 
-Tatra, bhikkhave, ye te makkaṭā abālajātikā alolajātikā, te taṁ lepaṁ disvā ārakā parivajjanti. ‘Ubho hatthe mocessāmi pāde cā’ti tuṇḍena gaṇhāti. So tattha bajjhati.
+Như vậy, này các tỳ kheo, con khỉ đó bị dính chặt cả năm điểm, nằm rên rỉ, gặp tai họa, gặp sự hủy diệt, mặc cho người thợ săn muốn làm gì thì làm. Này các tỳ kheo, người thợ săn đâm nó, ném nó lên đống than củi ngay tại đó rồi bỏ đi theo ý muốn.
 
-Evañhi so, bhikkhave, makkaṭo pañcoḍḍito thunaṁ seti anayaṁ āpanno byasanaṁ āpanno yathākāmakaraṇīyo luddassa. Tamenaṁ, bhikkhave, luddo vijjhitvā tasmiṁyeva kaṭṭhakataṅgāre avassajjetvā yena kāmaṁ pakkamati.
+Này các tỳ kheo, sự việc là như vậy đối với kẻ đi lang thang ngoài lãnh địa, vào vùng đất của kẻ khác.
 
-Evaṁ so taṁ, bhikkhave, hoti yo agocare carati paravisaye.
+Nhưng con khỉ nào ngu ngốc, tham lam, nó đi đến bẫy nhựa đó và dùng tay nắm lấy. Nó bị dính chặt ở đó. 'Ta sẽ gỡ tay ra', nó dùng tay kia nắm lấy. Nó bị dính chặt ở đó. 'Ta sẽ gỡ cả hai tay ra', nó dùng chân đạp lên. Nó bị dính chặt ở đó. 'Ta sẽ gỡ cả hai tay và một chân ra', nó dùng chân kia đạp lên. Nó bị dính chặt ở đó. Do vậy, này các tỳ kheo, đừng đi lang thang ngoài lãnh địa, vào vùng đất của kẻ khác. Những vị nhận biết bằng lưỡi [...lặp lại...] những xúc chạm vật lý nhận biết bằng cơ thể, đáng khao khát, hấp dẫn, dễ chịu, đáng yêu, kích thích bản năng, đầy cám dỗ. Đây, này các tỳ kheo, là vùng đất của kẻ khác, không phải lãnh địa của tỳ kheo.
 
-Yo pana so hoti makkaṭo bālajātiko lolajātiko, so taṁ lepaṁ upasaṅkamitvā hatthena gaṇhāti. So tattha bajjhati. ‘Hatthaṁ mocessāmī’ti dutiyena hatthena gaṇhāti. So tattha bajjhati. ‘Ubho hatthe mocessāmī’ti pādena gaṇhāti. So tattha bajjhati. ‘Ubho hatthe mocessāmi pādañcā’ti dutiyena pādena gaṇhāti. So tattha bajjhati. Tasmātiha, bhikkhave, mā agocare carittha paravisaye. jivhāviññeyyā rasā …pe… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Ayaṁ, bhikkhave, bhikkhuno agocaro paravisayo.
+Này các tỳ kheo, đối với người đi lang thang ngoài lãnh địa, vào vùng đất của kẻ khác, Ác ma sẽ tìm được kẽ hở, Ác ma sẽ tìm được đối tượng.
 
-Agocare, bhikkhave, carataṁ paravisaye lacchati māro otāraṁ, lacchati māro ārammaṇaṁ.
+Và này các tỳ kheo, vùng đất của kẻ khác, không phải lãnh địa của tỳ kheo là gì? Đó chính là năm *sợi dây trói buộc của bản năng*. Năm sợi dây nào? Những hình ảnh nhận biết bằng mắt, đáng khao khát, hấp dẫn, dễ chịu, đáng yêu, kích thích bản năng, đầy cám dỗ; những âm thanh nhận biết bằng tai [...lặp lại...] những mùi nhận biết bằng mũi [...lặp lại...] Này các tỳ kheo, hãy đi trong lãnh địa của mình, vùng đất của tổ tiên. Tỳ kheo sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đây, này các tỳ kheo, là lãnh địa của tỳ kheo, vùng đất của tổ tiên."
 
-Ko ca, bhikkhave, bhikkhuno agocaro paravisayo? Yadidaṁ—pañca kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā, sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā …pe… Gocare, bhikkhave, caratha sake pettike visaye. dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ayaṁ, bhikkhave, bhikkhuno gocaro sako pettiko visayo”ti.
+Kinh thứ bảy.
 
-Sattamaṁ.
+Này các tỳ kheo, đối với người đi trong lãnh địa của mình, vùng đất của tổ tiên, Ác ma sẽ không tìm được kẽ hở, Ác ma sẽ không tìm được đối tượng.
 
-Gocare, bhikkhave, carataṁ sake pettike visaye na lacchati māro otāraṁ, na lacchati māro ārammaṇaṁ.
+Và này các tỳ kheo, lãnh địa của tỳ kheo, vùng đất của tổ tiên là gì? Đó chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...]
 
-Ko ca, bhikkhave, bhikkhuno gocaro sako pettiko visayo? Yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe…
+<!--pg-->
+### 47.8 Kinh Người Đầu Bếp (Sūdasutta)*
 
-### 47.8 Sūdasutta
+"Này các tỳ kheo, giả sử có một người đầu bếp ngu ngốc, không khéo léo, không giỏi giang, phục vụ nhà vua hoặc đại thần của vua với nhiều loại món canh khác nhau—có vị chua, vị đắng, vị cay, vị ngọt, vị chát, vị không chát, vị mặn, vị không mặn.
 
-“Seyyathāpi, bhikkhave, bālo abyatto akusalo sūdo rājānaṁ vā rājamahāmattaṁ vā nānaccayehi sūpehi paccupaṭṭhito assa—ambilaggehipi, tittakaggehipi, kaṭukaggehipi, madhuraggehipi, khārikehipi, akhārikehipi, loṇikehipi, aloṇikehipi.
+Này các tỳ kheo, người đầu bếp ngu ngốc, không khéo léo, không giỏi giang đó không nắm bắt *dấu hiệu* (tướng / nimitta) của chủ mình: 'Hôm nay chủ ta thích món canh này, hoặc ngài lấy món này, hoặc ngài ăn nhiều món này, hoặc ngài khen ngợi món này. Hôm nay chủ ta thích món canh chua, hoặc ngài lấy món chua, hoặc ngài ăn nhiều món chua, hoặc ngài khen ngợi món chua. Hôm nay chủ ta thích món đắng... món cay... món ngọt... món chát... món không chát... món mặn... hôm nay chủ ta thích món không mặn, hoặc ngài lấy món không mặn, hoặc ngài ăn nhiều món không mặn, hoặc ngài khen ngợi món không mặn.'
 
-Sa kho so, bhikkhave, bālo abyatto akusalo sūdo sakassa bhattu nimittaṁ na uggaṇhāti: ‘idaṁ vā me ajja bhattu sūpeyyaṁ ruccati, imassa vā abhiharati, imassa vā bahuṁ gaṇhāti, imassa vā vaṇṇaṁ bhāsati. Ambilaggaṁ vā me ajja bhattu sūpeyyaṁ ruccati, ambilaggassa vā abhiharati, ambilaggassa vā bahuṁ gaṇhāti, ambilaggassa vā vaṇṇaṁ bhāsati. Tittakaggaṁ vā me ajja … kaṭukaggaṁ vā me ajja … madhuraggaṁ vā me ajja … khārikaṁ vā me ajja … akhārikaṁ vā me ajja … loṇikaṁ vā me ajja … aloṇikaṁ vā me ajja bhattu sūpeyyaṁ ruccati, aloṇikassa vā abhiharati, aloṇikassa vā bahuṁ gaṇhāti, aloṇikassa vā vaṇṇaṁ bhāsatī’ti.
+Này các tỳ kheo, người đầu bếp ngu ngốc, không khéo léo, không giỏi giang đó không nhận được quần áo, không nhận được tiền lương, không nhận được tiền thưởng. Khi vị ấy sống *quan sát Điều dạy qua các Điều*, tâm không tập trung, các *nhiễm bẩn* (phiền não / upakkilesā) không bị từ bỏ. Vị ấy không nắm bắt *dấu hiệu* đó.
 
-Sa kho so, bhikkhave, bālo abyatto akusalo sūdo na ceva lābhī hoti acchādanassa, na lābhī vetanassa, na lābhī abhihārānaṁ. Tassa dhammesu dhammānupassino viharato cittaṁ na samādhiyati, upakkilesā na pahīyanti. So taṁ nimittaṁ na uggaṇhāti.
+Nguyên nhân là gì? Này các tỳ kheo, vì người đầu bếp ngu ngốc, không khéo léo, không giỏi giang đó không nắm bắt *dấu hiệu* của chủ mình.
 
-Taṁ kissa hetu? Tathā hi so, bhikkhave, bālo abyatto akusalo sūdo sakassa bhattu nimittaṁ na uggaṇhāti.
+Cũng giống như vậy, này các tỳ kheo, ở đây có một tỳ kheo ngu ngốc, không khéo léo, không giỏi giang, sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm không tập trung, các *nhiễm bẩn* không bị từ bỏ. Vị ấy không nắm bắt *dấu hiệu* đó. Vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, tỳ kheo ngu ngốc, không khéo léo, không giỏi giang đó không đạt được trạng thái sống *hạnh phúc* (lạc / sukha) ngay trong hiện tại, không đạt được sự *tập trung chú ý* và *nhận biết rõ ràng*. Nguyên nhân là gì? Này các tỳ kheo, vì tỳ kheo ngu ngốc, không khéo léo, không giỏi giang đó không nắm bắt *dấu hiệu* của chính tâm mình.
 
-Evameva kho, bhikkhave, idhekacco bālo abyatto akusalo bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa kāye kāyānupassino viharato cittaṁ na samādhiyati, upakkilesā na pahīyanti. So taṁ nimittaṁ na uggaṇhāti. Vedanāsu vedanānupassī viharati …pe… citte cittānupassī viharati …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Sa kho so, bhikkhave, bālo abyatto akusalo bhikkhu na ceva lābhī hoti diṭṭheva dhamme sukhavihārānaṁ, na lābhī satisampajaññassa. Taṁ kissa hetu? Tathā hi so, bhikkhave, bālo abyatto akusalo bhikkhu sakassa cittassa nimittaṁ na uggaṇhāti.
+Này các tỳ kheo, giả sử có một người đầu bếp khôn ngoan, khéo léo, giỏi giang, phục vụ nhà vua hoặc đại thần của vua với nhiều loại món canh khác nhau—có vị chua, vị đắng, vị cay, vị ngọt, vị chát, vị không chát, vị mặn, vị không mặn.
 
-Seyyathāpi, bhikkhave, paṇḍito byatto kusalo sūdo rājānaṁ vā rājamahāmattaṁ vā nānaccayehi sūpehi paccupaṭṭhito assa—ambilaggehipi, tittakaggehipi, kaṭukaggehipi, madhuraggehipi, khārikehipi, akhārikehipi, loṇikehipi, aloṇikehipi.
+Này các tỳ kheo, người đầu bếp khôn ngoan, khéo léo, giỏi giang đó nắm bắt *dấu hiệu* của chủ mình: 'Hôm nay chủ ta thích món canh này, hoặc ngài lấy món này, hoặc ngài ăn nhiều món này, hoặc ngài khen ngợi món này. Hôm nay chủ ta thích món canh chua, hoặc ngài lấy món chua, hoặc ngài ăn nhiều món chua, hoặc ngài khen ngợi món chua. Hôm nay chủ ta thích món đắng... món cay... món ngọt... món chát... món không chát... món mặn... hôm nay chủ ta thích món không mặn, hoặc ngài lấy món không mặn, hoặc ngài ăn nhiều món không mặn, hoặc ngài khen ngợi món không mặn.'
 
-Sa kho so, bhikkhave, paṇḍito byatto kusalo sūdo sakassa bhattu nimittaṁ uggaṇhāti: ‘idaṁ vā me ajja bhattu sūpeyyaṁ ruccati, imassa vā abhiharati, imassa vā bahuṁ gaṇhāti, imassa vā vaṇṇaṁ bhāsati. Ambilaggaṁ vā me ajja bhattu sūpeyyaṁ ruccati, ambilaggassa vā abhiharati, ambilaggassa vā bahuṁ gaṇhāti, ambilaggassa vā vaṇṇaṁ bhāsati. Tittakaggaṁ vā me ajja … kaṭukaggaṁ vā me ajja … madhuraggaṁ vā me ajja … khārikaṁ vā me ajja … akhārikaṁ vā me ajja … loṇikaṁ vā me ajja … aloṇikaṁ vā me ajja bhattu sūpeyyaṁ ruccati, aloṇikassa vā abhiharati, aloṇikassa vā bahuṁ gaṇhāti, aloṇikassa vā vaṇṇaṁ bhāsatī’ti.
+Này các tỳ kheo, người đầu bếp khôn ngoan, khéo léo, giỏi giang đó nhận được quần áo, nhận được tiền lương, nhận được tiền thưởng. Khi vị ấy sống *quan sát Điều dạy qua các Điều*, tâm được tập trung, các *nhiễm bẩn* bị từ bỏ. Vị ấy nắm bắt *dấu hiệu* đó.
 
-Sa kho so, bhikkhave, paṇḍito byatto kusalo sūdo lābhī ceva hoti acchādanassa, lābhī vetanassa, lābhī abhihārānaṁ. Tassa dhammesu dhammānupassino viharato cittaṁ samādhiyati, upakkilesā pahīyanti. So taṁ nimittaṁ uggaṇhāti.
+Nguyên nhân là gì? Này các tỳ kheo, vì người đầu bếp khôn ngoan, khéo léo, giỏi giang đó nắm bắt *dấu hiệu* của chủ mình.
 
-Taṁ kissa hetu? Tathā hi so, bhikkhave, paṇḍito byatto kusalo sūdo sakassa bhattu nimittaṁ uggaṇhāti.
+Cũng giống như vậy, này các tỳ kheo, ở đây có một tỳ kheo khôn ngoan, khéo léo, giỏi giang, sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm được tập trung, các *nhiễm bẩn* bị từ bỏ. Vị ấy nắm bắt *dấu hiệu* đó. Vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, tỳ kheo khôn ngoan, khéo léo, giỏi giang đó đạt được trạng thái sống *hạnh phúc* ngay trong hiện tại, đạt được sự *tập trung chú ý* và *nhận biết rõ ràng*. Nguyên nhân là gì? Này các tỳ kheo, vì tỳ kheo khôn ngoan, khéo léo, giỏi giang đó nắm bắt *dấu hiệu* của chính tâm mình."
 
-Evameva kho, bhikkhave, idhekacco paṇḍito byatto kusalo bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa kāye kāyānupassino viharato cittaṁ samādhiyati, upakkilesā pahīyanti. So taṁ nimittaṁ uggaṇhāti. Vedanāsu vedanānupassī viharati …pe… citte cittānupassī viharati …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Sa kho so, bhikkhave, paṇḍito byatto kusalo bhikkhu lābhī ceva hoti diṭṭheva dhamme sukhavihārānaṁ, lābhī hoti satisampajaññassa. Taṁ kissa hetu? Tathā hi so, bhikkhave, paṇḍito byatto kusalo bhikkhu sakassa cittassa nimittaṁ uggaṇhātī”ti.
+Kinh thứ tám.
 
-Aṭṭhamaṁ.
+<!--pg-->
+### 47.9 Kinh Người Bệnh (Gilānasutta)
 
-### 47.9 Gilānasutta
+Tôi đã nghe như vầy—một thời Thế Tôn trú ở Vesāli, tại ngôi làng nhỏ Beḷuva. Tại đó, Thế Tôn gọi các tỳ kheo: "Đến đây, này các tỳ kheo, hãy an cư mùa mưa xung quanh Vesāli, tùy theo chỗ có bạn bè, người quen, người thân thiết. Còn Ta sẽ an cư mùa mưa ngay tại ngôi làng nhỏ Beḷuva này."
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati veḷuvagāmake. Tatra kho bhagavā bhikkhū āmantesi: “etha tumhe, bhikkhave, samantā vesāliyā yathāmittaṁ yathāsandiṭṭhaṁ yathāsambhattaṁ vassaṁ upetha. Idhevāhaṁ veḷuvagāmake vassaṁ upagacchāmī”ti.
+"Vâng, bạch Thế Tôn," các tỳ kheo ấy vâng đáp Thế Tôn và đi an cư mùa mưa xung quanh Vesāli, tùy theo chỗ có bạn bè, người quen, người thân thiết. Còn Thế Tôn an cư mùa mưa ngay tại ngôi làng nhỏ Beḷuva.
 
-“Evaṁ, bhante”ti kho te bhikkhū bhagavato paṭissutvā samantā vesāliyā yathāmittaṁ yathāsandiṭṭhaṁ yathāsambhattaṁ vassaṁ upagacchuṁ. Bhagavā pana tattheva veḷuvagāmake vassaṁ upagacchi.
+Rồi khi Thế Tôn đang an cư mùa mưa, một căn bệnh trầm trọng khởi lên, những cảm giác đau đớn dữ dội, gần như chết người xuất hiện. Tại đó, Thế Tôn *tập trung chú ý*, *nhận biết rõ ràng*, chịu đựng mà không bực dọc. Rồi Thế Tôn nghĩ như sau:
 
-Atha kho bhagavato vassūpagatassa kharo ābādho uppajji, bāḷhā vedanā vattanti māraṇantikā. Tatra sudaṁ bhagavā sato sampajāno adhivāsesi avihaññamāno. Atha kho bhagavato etadahosi:
+"Thật không thích hợp nếu Ta viên tịch mà không báo cho những người thị giả, không từ biệt Tăng chúng. Hay là Ta dùng sức mạnh ý chí để đẩy lùi căn bệnh này, duy trì lực sống và tiếp tục sống." Rồi Thế Tôn dùng sức mạnh ý chí đẩy lùi căn bệnh đó, duy trì lực sống và tiếp tục sống. Sau đó, căn bệnh của Thế Tôn lắng dịu.
 
-“na kho me taṁ patirūpaṁ, yohaṁ anāmantetvā upaṭṭhāke anapaloketvā bhikkhusaṅghaṁ parinibbāyeyyaṁ. Yannūnāhaṁ imaṁ ābādhaṁ vīriyena paṭipaṇāmetvā jīvitasaṅkhāraṁ adhiṭṭhāya vihareyyan”ti. Atha kho bhagavā taṁ ābādhaṁ vīriyena paṭipaṇāmetvā jīvitasaṅkhāraṁ adhiṭṭhāya vihāsi. Atha kho bhagavato so ābādho paṭippassambhi.
+Rồi Thế Tôn vừa mới khỏi bệnh, không lâu sau khi khỏi bệnh, bước ra khỏi chỗ ở và ngồi trên chỗ ngồi đã được dọn sẵn dưới bóng râm phía sau chỗ ở. Rồi Tôn giả Ānanda đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Ānanda nói với Thế Tôn điều này:
 
-Atha kho bhagavā gilānā vuṭṭhito aciravuṭṭhito gelaññā vihārā nikkhamitvā vihārapacchāyāyaṁ paññatte āsane nisīdi. Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:
+"Bạch Thế Tôn, con đã thấy Thế Tôn được thoải mái; bạch Thế Tôn, con đã thấy Thế Tôn chịu đựng được; bạch Thế Tôn, con đã thấy Thế Tôn qua khỏi. Nhưng bạch Thế Tôn, cơ thể con như rã rời, các phương hướng mờ mịt đối với con, các *Điều* không còn rõ ràng trong tâm trí con vì căn bệnh của Thế Tôn. Tuy nhiên, bạch Thế Tôn, con vẫn có một chút an ủi: 'Thế Tôn sẽ chưa viên tịch cho đến khi Thế Tôn để lại một lời dặn dò nào đó cho Tăng chúng.'"
 
-“diṭṭho me, bhante, bhagavato phāsu; diṭṭhaṁ, bhante, bhagavato khamanīyaṁ; diṭṭhaṁ, bhante, bhagavato yāpanīyaṁ. Api ca me, bhante, madhurakajāto viya kāyo, disāpi me na pakkhāyanti, dhammāpi maṁ nappaṭibhanti bhagavato gelaññena. Api ca me, bhante, ahosi kācideva assāsamattā: ‘na tāva bhagavā parinibbāyissati, na yāva bhagavā bhikkhusaṅghaṁ ārabbha kiñcideva udāharatī’”ti.
+"Nhưng này Ānanda, Tăng chúng còn mong đợi gì ở Ta nữa? Ta đã 80 tuổi rồi. Này Ānanda, giống như một cỗ xe cũ kỹ phải dùng dây thừng buộc lại mới chạy được; cũng giống như vậy, này Ānanda, cơ thể của Như Lai dường như phải dùng dây thừng buộc lại mới duy trì được.
 
-“Kiṁ pana dāni, ānanda, bhikkhusaṅgho mayi paccāsīsati? Āsītiko me vayo vattati. Seyyathāpi, ānanda, jajjarasakaṭaṁ veḷamissakena yāpeti; evameva kho, ānanda, veḷamissakena maññe tathāgatassa kāyo yāpeti.
+Này Ānanda, Ta đã thuyết giảng *Điều dạy* không phân biệt trong ngoài. Này Ānanda, đối với các *Điều*, Như Lai không có 'nắm tay của vị đạo sư' [giấu giếm bí quyết].
 
-Desito, ānanda, mayā dhammo anantaraṁ abāhiraṁ karitvā. Natthānanda, tathāgatassa dhammesu ācariyamuṭṭhi.
+Này Ānanda, nếu ai nghĩ rằng: 'Ta sẽ lãnh đạo Tăng chúng' hoặc 'Tăng chúng phụ thuộc vào ta', thì người đó, này Ānanda, mới để lại lời dặn dò cho Tăng chúng. Này Ānanda, Như Lai không nghĩ rằng: 'Ta sẽ lãnh đạo Tăng chúng' hoặc 'Tăng chúng phụ thuộc vào ta'. Vậy thì, này Ānanda, tại sao Như Lai phải để lại lời dặn dò cho Tăng chúng?
 
-Yassa nūna, ānanda, evamassa: ‘ahaṁ bhikkhusaṅghaṁ pariharissāmī’ti vā, ‘mamuddesiko bhikkhusaṅgho’ti vā, so nūna, ānanda, bhikkhusaṅghaṁ ārabbha kiñcideva udāhareyya. Tathāgatassa kho, ānanda, na evaṁ hoti: ‘ahaṁ bhikkhusaṅghaṁ pariharissāmī’ti vā, ‘mamuddesiko bhikkhusaṅgho’ti vā. Sa kiṁ, ānanda, tathāgato bhikkhusaṅghaṁ ārabbha kiñcideva udāharissati.
+Bây giờ, này Ānanda, Ta đã già, đã lớn tuổi, đã đi đến chặng cuối, đã đến tuổi xế chiều. Này Ānanda, khi nào Như Lai không chú ý đến mọi *dấu hiệu*, làm ngưng một số cảm giác, đạt đến và an trú trong trạng thái tâm định không có *dấu hiệu*, thì lúc đó, này Ānanda, cơ thể của Như Lai được thoải mái hơn.
 
-Etarahi kho panāhaṁ, ānanda, jiṇṇo vuddho mahallako addhagato vayoanuppatto. Yasmiṁ, ānanda, samaye tathāgato sabbanimittānaṁ amanasikārā ekaccānaṁ vedanānaṁ nirodhā animittaṁ cetosamādhiṁ upasampajja viharati, phāsutaro, ānanda, tasmiṁ samaye tathāgatassa kāyo hoti.
+Do vậy, này Ānanda, hãy sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác; lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.
+Và này Ānanda, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này Ānanda, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này Ānanda, là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-Kathañcānanda, bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo, dhammadīpo dhammasaraṇo anaññasaraṇo? Idhānanda, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ kho, ānanda, bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo, dhammadīpo dhammasaraṇo anaññasaraṇo.
+Này Ānanda, bất cứ ai, bây giờ hoặc sau khi Ta qua đời, sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác; những tỳ kheo đó, này Ānanda, sẽ là những người đứng đầu trong số những người khao khát học tập."
 
-Ye hi keci, ānanda, etarahi vā mamaccaye vā attadīpā viharissanti attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā; tamatagge mete, ānanda, bhikkhū bhavissanti ye keci sikkhākāmā”ti.
+Kinh thứ chín.
 
-Navamaṁ.
+<!--pg-->
+### 47.10 Kinh Chỗ Ở Của Tỳ Kheo Ni (Bhikkhunupassayasutta)
 
-### 47.10 Bhikkhunupassayasutta
+Rồi Tôn giả Ānanda vào buổi sáng, mặc y, mang bình bát, đi đến một chỗ ở của tỳ kheo ni; sau khi đến, ngồi trên chỗ ngồi đã được dọn sẵn. Rồi nhiều tỳ kheo ni đi đến chỗ Tôn giả Ānanda; sau khi đến, đảnh lễ Tôn giả Ānanda rồi ngồi xuống một bên. Ngồi một bên, các tỳ kheo ni ấy nói với Tôn giả Ānanda điều này:
 
-Atha kho āyasmā ānando pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena aññataro bhikkhunupassayo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho sambahulā bhikkhuniyo yenāyasmā ānando tenupasaṅkamiṁsu; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho tā bhikkhuniyo āyasmantaṁ ānandaṁ etadavocuṁ:
+"Thưa Tôn giả Ānanda, ở đây có nhiều tỳ kheo ni sống với tâm an trú vững chắc trong *bốn nơi chú tâm*, họ nhận biết được sự khác biệt lớn lao giữa trước và sau."
 
-Idamavoca bhagavā. Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti.
+"Đúng vậy, này các chị em, đúng vậy, này các chị em. Bất cứ ai, này các chị em, dù là tỳ kheo hay tỳ kheo ni, sống với tâm an trú vững chắc trong *bốn nơi chú tâm*, người đó có thể mong đợi điều này: 'Họ sẽ nhận biết được sự khác biệt lớn lao giữa trước và sau'."
 
-Dasamaṁ.
+Rồi Tôn giả Ānanda hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ các tỳ kheo ni ấy bằng bài pháp thoại, rồi đứng dậy khỏi chỗ ngồi và rời đi. Rồi Tôn giả Ānanda đi khất thực ở Sāvatthi, sau bữa ăn, trên đường đi khất thực về, đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Ānanda nói với Thế Tôn điều này:
 
-Ambapālivaggo paṭhamo.
+"Bạch Thế Tôn, sáng nay con mặc y, mang bình bát, đi đến một chỗ ở của tỳ kheo ni; sau khi đến, con ngồi trên chỗ ngồi đã được dọn sẵn. Rồi bạch Thế Tôn, nhiều tỳ kheo ni đi đến chỗ con; sau khi đến, đảnh lễ con rồi ngồi xuống một bên. Ngồi một bên, bạch Thế Tôn, các tỳ kheo ni ấy nói với con điều này: 'Thưa Tôn giả Ānanda, ở đây có nhiều tỳ kheo ni sống với tâm an trú vững chắc trong *bốn nơi chú tâm*, họ nhận biết được sự khác biệt lớn lao giữa trước và sau.' Khi được nói như vậy, bạch Thế Tôn, con đã nói với các tỳ kheo ni ấy điều này: 'Đúng vậy, này các chị em, đúng vậy, này các chị em. Bất cứ ai, này các chị em, dù là tỳ kheo hay tỳ kheo ni, sống với tâm an trú vững chắc trong *bốn nơi chú tâm*, người đó có thể mong đợi điều này—họ sẽ nhận biết được sự khác biệt lớn lao giữa trước và sau'."
 
-Tassuddānaṁ
+"Đúng vậy, này Ānanda, đúng vậy, này Ānanda. Bất cứ ai, này Ānanda, dù là tỳ kheo hay tỳ kheo ni, sống với tâm an trú vững chắc trong *bốn nơi chú tâm*, người đó có thể mong đợi điều này: 'Họ sẽ nhận biết được sự khác biệt lớn lao giữa trước và sau'.
 
-> Ambapāli sato bhikkhu, Sālā kusalarāsi ca; Sakuṇagghi makkaṭo sūdo, Gilāno bhikkhunupassayoti.
+Bốn nơi nào? Ở đây, này Ānanda, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. 
 
-“Idha, bhante ānanda, sambahulā bhikkhuniyo catūsu satipaṭṭhānesu suppatiṭṭhitacittā viharantiyo uḷāraṁ pubbenāparaṁ visesaṁ sañjānantī”ti.
+Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, một đối tượng thuộc về cơ thể khởi lên, hoặc sự nóng nảy trong cơ thể, hoặc sự uể oải của tâm, hoặc tâm bị phân tán ra bên ngoài. Khi đó, này Ānanda, tỳ kheo nên hướng tâm vào một *dấu hiệu* gây cảm hứng nào đó. Khi hướng tâm vào một *dấu hiệu* gây cảm hứng nào đó, sự hân hoan sinh khởi. Khi có sự hân hoan, *hân hoan* (hỷ / pīti) sinh khởi. Khi tâm có *hân hoan*, cơ thể trở nên tĩnh lặng. Khi cơ thể tĩnh lặng, vị ấy cảm nhận *hạnh phúc* (lạc / sukha). Khi có *hạnh phúc*, tâm được tập trung. Vị ấy suy xét như sau: 'Mục đích mà ta hướng tâm đến đã đạt được. Bây giờ ta sẽ rút lui.' Vị ấy rút lui, không *chủ động hướng sự chú ý* (tầm / vitakka) và không *nỗ lực duy trì sự chú ý* (tứ / vicāra). Vị ấy biết rõ: 'Ta *không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, ta *tập trung chú ý* vào bên trong và ta đang *hạnh phúc*.'
 
-“Evametaṁ, bhaginiyo, evametaṁ, bhaginiyo. Yo hi koci, bhaginiyo, bhikkhu vā bhikkhunī vā catūsu satipaṭṭhānesu suppatiṭṭhitacitto viharati, tassetaṁ pāṭikaṅkhaṁ: ‘uḷāraṁ pubbenāparaṁ visesaṁ sañjānissatī’”ti.
+Lại nữa, này Ānanda, tỳ kheo sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] Khi có *hạnh phúc*, tâm được tập trung. Vị ấy suy xét như sau: 'Mục đích mà ta hướng tâm đến đã đạt được. Bây giờ ta sẽ rút lui.' Vị ấy rút lui, không *chủ động hướng sự chú ý* và không *nỗ lực duy trì sự chú ý*. Vị ấy biết rõ: 'Ta *không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, ta *tập trung chú ý* vào bên trong và ta đang *hạnh phúc*.' Như vậy, này Ānanda, là *sự rèn luyện có chủ đích* (hướng tâm tu tập / paṇidhāya bhāvanā).
 
-Atha kho āyasmā ānando tā bhikkhuniyo dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkāmi. Atha kho āyasmā ānando sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:
+Vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát Điều dạy qua các Điều*, một đối tượng thuộc về các *Điều* khởi lên, hoặc sự nóng nảy trong cơ thể, hoặc sự uể oải của tâm, hoặc tâm bị phân tán ra bên ngoài. Khi đó, này Ānanda, tỳ kheo nên hướng tâm vào một *dấu hiệu* gây cảm hứng nào đó. Khi hướng tâm vào một *dấu hiệu* gây cảm hứng nào đó, sự hân hoan sinh khởi. Khi có sự hân hoan, *hân hoan* sinh khởi. Khi tâm có *hân hoan*, cơ thể trở nên tĩnh lặng. Khi cơ thể tĩnh lặng, vị ấy cảm nhận *hạnh phúc*.
 
-“Idhāhaṁ, bhante, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena aññataro bhikkhunupassayo tenupasaṅkamiṁ; upasaṅkamitvā paññatte āsane nisīdiṁ. Atha kho, bhante, sambahulā bhikkhuniyo yenāhaṁ tenupasaṅkamiṁsu; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho, bhante, tā bhikkhuniyo maṁ etadavocuṁ: ‘idha, bhante ānanda, sambahulā bhikkhuniyo catūsu satipaṭṭhānesu suppatiṭṭhitacittā viharantiyo uḷāraṁ pubbenāparaṁ visesaṁ sañjānantī’ti. Evaṁ vuttāhaṁ, bhante, tā bhikkhuniyo etadavocaṁ: ‘evametaṁ, bhaginiyo, evametaṁ, bhaginiyo. Yo hi koci, bhaginiyo, bhikkhu vā bhikkhunī vā catūsu satipaṭṭhānesu suppatiṭṭhitacitto viharati, tassetaṁ pāṭikaṅkhaṁ—uḷāraṁ pubbenāparaṁ visesaṁ sañjānissatī’”ti.
+Và này Ānanda, thế nào là *sự rèn luyện không chủ đích* (vô hướng tâm tu tập / appaṇidhāya bhāvanā)? Này Ānanda, tỳ kheo không hướng tâm ra bên ngoài, vị ấy biết rõ: 'Tâm ta không hướng ra bên ngoài.' Rồi vị ấy biết rõ về trước và sau: 'Không bị thu hẹp, được giải thoát, không bị định hướng.' Rồi vị ấy biết rõ: 'Ta đang sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* và ta đang *hạnh phúc*.'
 
-“Evametaṁ, ānanda, evametaṁ, ānanda. Yo hi koci, ānanda, bhikkhu vā bhikkhunī vā catūsu satipaṭṭhānesu suppatiṭṭhitacitto viharati, tassetaṁ pāṭikaṅkhaṁ: ‘uḷāraṁ pubbenāparaṁ visesaṁ sañjānissati’.
+Này Ānanda, tỳ kheo không hướng tâm ra bên ngoài, vị ấy biết rõ: 'Tâm ta không hướng ra bên ngoài.' Rồi vị ấy biết rõ về trước và sau: 'Không bị thu hẹp, được giải thoát, không bị định hướng.' Rồi vị ấy biết rõ: 'Ta đang sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* và ta đang *hạnh phúc*.'
 
-Katamesu catūsu? So iti paṭisañcikkhati: ‘yassa khvāhaṁ atthāya cittaṁ paṇidahiṁ, so me attho abhinipphanno. Handa dāni paṭisaṁharāmī’ti. So paṭisaṁharati ceva na ca vitakketi na ca vicāreti. ‘Avitakkomhi avicāro, ajjhattaṁ satimā sukhamasmī’ti pajānāti.
+Này Ānanda, tỳ kheo không hướng tâm ra bên ngoài, vị ấy biết rõ: 'Tâm ta không hướng ra bên ngoài.' Rồi vị ấy biết rõ về trước và sau: 'Không bị thu hẹp, được giải thoát, không bị định hướng.' Rồi vị ấy biết rõ: 'Ta đang sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* và ta đang *hạnh phúc*.'
 
-Idhānanda, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa kāye kāyānupassino viharato kāyārammaṇo vā uppajjati kāyasmiṁ pariḷāho, cetaso vā līnattaṁ, bahiddhā vā cittaṁ vikkhipati. Tenānanda, bhikkhunā kismiñcideva pasādanīye nimitte cittaṁ paṇidahitabbaṁ. Tassa kismiñcideva pasādanīye nimitte cittaṁ paṇidahato pāmojjaṁ jāyati. Pamuditassa pīti jāyati. Pītimanassa kāyo passambhati. Passaddhakāyo sukhaṁ vedayati. Sukhino cittaṁ samādhiyati. Puna caparaṁ, ānanda, bhikkhu vedanāsu …pe… Sukhino cittaṁ samādhiyati. So iti paṭisañcikkhati: ‘yassa khvāhaṁ atthāya cittaṁ paṇidahiṁ, so me attho abhinipphanno. Handa dāni paṭisaṁharāmī’ti. So paṭisaṁharati ceva na ca vitakketi na ca vicāreti. ‘Avitakkomhi avicāro, ajjhattaṁ satimā sukhamasmī’ti pajānāti. Evaṁ kho, ānanda, paṇidhāya bhāvanā hoti.
+Này Ānanda, tỳ kheo không hướng tâm ra bên ngoài, vị ấy biết rõ: 'Tâm ta không hướng ra bên ngoài.' Rồi vị ấy biết rõ về trước và sau: 'Không bị thu hẹp, được giải thoát, không bị định hướng.' Rồi vị ấy biết rõ: 'Ta đang sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* và ta đang *hạnh phúc*.' Như vậy, này Ānanda, là *sự rèn luyện không chủ đích*.
 
-citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa dhammesu dhammānupassino viharato dhammārammaṇo vā uppajjati kāyasmiṁ pariḷāho, cetaso vā līnattaṁ, bahiddhā vā cittaṁ vikkhipati. Tenānanda, bhikkhunā kismiñcideva pasādanīye nimitte cittaṁ paṇidahitabbaṁ. Tassa kismiñcideva pasādanīye nimitte cittaṁ paṇidahato pāmojjaṁ jāyati. Pamuditassa pīti jāyati. Pītimanassa kāyo passambhati. Passaddhakāyo sukhaṁ vedayati. Kathañcānanda, appaṇidhāya bhāvanā hoti? Atha ca pana ‘citte cittānupassī viharāmi ātāpī sampajāno satimā sukhamasmī’ti pajānāti. Bahiddhā, ānanda, bhikkhu cittaṁ appaṇidhāya ‘appaṇihitaṁ me bahiddhā cittan’ti pajānāti. Atha pacchāpure ‘asaṅkhittaṁ vimuttaṁ appaṇihitan’ti pajānāti. Atha ca pana ‘dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā sukhamasmī’ti pajānāti. Evaṁ kho, ānanda, appaṇidhāya bhāvanā hoti.
+Như vậy, này Ānanda, Ta đã thuyết giảng *sự rèn luyện có chủ đích*, Ta đã thuyết giảng *sự rèn luyện không chủ đích*. Này Ānanda, những gì một bậc Đạo sư cần làm vì lòng thương tưởng, tìm kiếm lợi ích cho các đệ tử, Ta đã làm cho các vị. Này Ānanda, kia là những gốc cây, kia là những ngôi nhà trống. Hãy thực hành Thiền-na, này Ānanda, đừng sao nhãng; đừng để sau này phải hối hận. Đây là lời giáo huấn của Ta dành cho các vị."
 
-Bahiddhā, ānanda, bhikkhu cittaṁ appaṇidhāya ‘appaṇihitaṁ me bahiddhā cittan’ti pajānāti. Atha pacchāpure ‘asaṅkhittaṁ vimuttaṁ appaṇihitan’ti pajānāti. Atha ca pana ‘kāye kāyānupassī viharāmi ātāpī sampajāno satimā sukhamasmī’ti pajānāti. Bahiddhā, ānanda, bhikkhu cittaṁ appaṇidhāya ‘appaṇihitaṁ me bahiddhā cittan’ti pajānāti. Atha pacchāpure ‘asaṅkhittaṁ vimuttaṁ appaṇihitan’ti pajānāti. Atha ca pana ‘vedanāsu vedanānupassī viharāmi ātāpī sampajāno satimā sukhamasmī’ti pajānāti. Bahiddhā, ānanda, bhikkhu cittaṁ appaṇidhāya ‘appaṇihitaṁ me bahiddhā cittan’ti pajānāti. Atha pacchāpure ‘asaṅkhittaṁ vimuttaṁ appaṇihitan’ti pajānāti. Iti kho, ānanda, desitā mayā paṇidhāya bhāvanā, desitā appaṇidhāya bhāvanā. Yaṁ, ānanda, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, ānanda, rukkhamūlāni, etāni suññāgārāni. Jhāyathānanda, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti.
+Thế Tôn nói điều này. Tôn giả Ānanda hài lòng, vui mừng đón nhận lời Thế Tôn nói.
 
-### 47.11 Mahāpurisasutta
+Kinh thứ mười.
 
-Sāvatthinidānaṁ.
+Phẩm Ambapāli thứ nhất.
 
-Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca:
+Tóm tắt phẩm:
 
-“‘mahāpuriso, mahāpuriso’ti, bhante, vuccati. Kittāvatā nu kho, bhante, mahāpuriso hotī”ti?
+> Ambapāli, tỳ kheo tập trung chú ý, Sālā và đống thiện; Chim cắt, con khỉ, người đầu bếp, Người bệnh và chỗ ở của tỳ kheo ni.
 
-“Vimuttacittattā khvāhaṁ, sāriputta, ‘mahāpuriso’ti vadāmi. Avimuttacittattā ‘no mahāpuriso’ti vadāmi.
+<!--pg-->
+### 47.11 Kinh Bậc Đại Nhân (Mahāpurisasutta)
 
-Kathañca, sāriputta, vimuttacitto hoti? Avimuttacittattā ‘no mahāpuriso’ti vadāmī”ti.
+Bối cảnh ở Sāvatthi.
 
-Paṭhamaṁ.
+Rồi Tôn giả Sāriputta đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Sāriputta nói với Thế Tôn điều này:
 
-Idha, sāriputta, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa kāye kāyānupassino viharato cittaṁ virajjati, vimuccati anupādāya āsavehi. Vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa dhammesu dhammānupassino viharato cittaṁ virajjati, vimuccati anupādāya āsavehi. Evaṁ kho, sāriputta, vimuttacitto hoti.
+"'Bậc đại nhân, bậc đại nhân', bạch Thế Tôn, được nói đến như vậy. Bạch Thế Tôn, cho đến mức độ nào thì được gọi là bậc đại nhân?"
 
-Vimuttacittattā khvāhaṁ, sāriputta, ‘mahāpuriso’ti vadāmi.
+"Này Sāriputta, vì tâm được giải thoát, Ta gọi là 'bậc đại nhân'. Vì tâm không được giải thoát, Ta gọi là 'không phải bậc đại nhân'.
 
-### 47.12 Nālandasutta
+Và này Sāriputta, thế nào là tâm được giải thoát?
 
-Ekaṁ samayaṁ bhagavā nālandāyaṁ viharati pāvārikambavane. Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca:
+Ở đây, này Sāriputta, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm trở nên phai nhạt đắm nhiễm, được giải thoát không còn *sự bám giữ* (chấp thủ / upādāna) khỏi các *nguồn ác* (lậu hoặc / āsavehi). Vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát Điều dạy qua các Điều*, tâm trở nên phai nhạt đắm nhiễm, được giải thoát không còn *sự bám giữ* khỏi các *nguồn ác*. Như vậy, này Sāriputta, là tâm được giải thoát.
 
-“evaṁpasanno ahaṁ, bhante, bhagavati. Na cāhu, na ca bhavissati, na cetarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro, yadidaṁ—sambodhiyan”ti.
+Này Sāriputta, vì tâm được giải thoát, Ta gọi là 'bậc đại nhân'. Vì tâm không được giải thoát, Ta gọi là 'không phải bậc đại nhân'."
 
-“Uḷārā kho tyāyaṁ, sāriputta, āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ‘evaṁpasanno ahaṁ, bhante, bhagavati. Na cāhu, na ca bhavissati na cetarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro, yadidaṁ—sambodhiyan’ti.
+Kinh thứ nhất.
 
-Kiṁ nu te, sāriputta, ye te ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, sabbe te bhagavanto cetasā ceto paricca viditā: ‘evaṁsīlā te bhagavanto ahesuṁ’ iti vā, ‘evaṁdhammā te bhagavanto ahesuṁ’ iti vā, ‘evaṁpaññā te bhagavanto ahesuṁ’ iti vā, ‘evaṁvihārino te bhagavanto ahesuṁ’ iti vā, ‘evaṁvimuttā te bhagavanto ahesuṁ’ iti vā”ti?
+<!--pg-->
+### 47.12 Kinh Nālanda (Nālandasutta)
 
-“No hetaṁ, bhante”.
+Một thời Thế Tôn trú ở Nālanda, tại rừng xoài Pāvārika. Rồi Tôn giả Sāriputta đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Sāriputta nói với Thế Tôn điều này:
 
-“Kiṁ pana te, sāriputta, ye te bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā, sabbe te bhagavanto cetasā ceto paricca viditā: ‘evaṁsīlā te bhagavanto bhavissanti’ iti vā, ‘evaṁdhammā te bhagavanto bhavissanti’ iti vā, ‘evaṁpaññā te bhagavanto bhavissanti’ iti vā, ‘evaṁvihārino te bhagavanto bhavissanti’ iti vā, ‘evaṁvimuttā te bhagavanto bhavissanti’ iti vā”ti?
+"Bạch Thế Tôn, con có niềm tin tuyệt đối vào Thế Tôn như thế này. Trong quá khứ không có, trong tương lai sẽ không có, và hiện tại không có một sa-môn hay bà-la-môn nào khác vượt trội hơn Thế Tôn về sự giác ngộ."
 
-“No hetaṁ, bhante”.
+"Này Sāriputta, lời nói của ông thật lớn lao, dũng mãnh, ông đã nắm bắt một cách chắc chắn, đã rống lên tiếng rống của sư tử: 'Bạch Thế Tôn, con có niềm tin tuyệt đối vào Thế Tôn như thế này. Trong quá khứ không có, trong tương lai sẽ không có, và hiện tại không có một sa-môn hay bà-la-môn nào khác vượt trội hơn Thế Tôn về sự giác ngộ.'
 
-“Kiṁ pana tyāhaṁ, sāriputta, etarahi, arahaṁ sammāsambuddho cetasā ceto paricca vidito: ‘evaṁsīlo bhagavā’ iti vā, ‘evaṁdhammo bhagavā’ iti vā, ‘evaṁpañño bhagavā’ iti vā, ‘evaṁvihārī bhagavā’ iti vā, ‘evaṁvimutto bhagavā’ iti vā”ti?
+Thế nào, này Sāriputta, đối với tất cả các bậc A-la-hán, Chánh Đẳng Giác trong quá khứ, ông có dùng tâm mình thấu hiểu tâm của các Thế Tôn ấy: 'Các Thế Tôn ấy có *lối sống đạo đức* như thế này', hoặc 'Các Thế Tôn ấy có các *Điều* như thế này', hoặc 'Các Thế Tôn ấy có trí tuệ như thế này', hoặc 'Các Thế Tôn ấy có cách sống như thế này', hoặc 'Các Thế Tôn ấy có sự giải thoát như thế này' không?"
 
-“No hetaṁ, bhante”.
+"Thưa không, bạch Thế Tôn."
 
-“Ettha ca te, sāriputta, atītānāgatapaccuppannesu arahantesu sammāsambuddhesu cetopariyañāṇaṁ natthi. Atha kiñcarahi tyāyaṁ, sāriputta, uḷārā āsabhī vācā bhāsitā, ekaṁso gahito, sīhanādo nadito: ‘evaṁpasanno ahaṁ, bhante, bhagavati. Na cāhu, na ca bhavissati, na cetarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā’ bhiyyobhiññataro, yadidaṁ—sambodhiyan”ti?
+"Thế nào, này Sāriputta, đối với tất cả các bậc A-la-hán, Chánh Đẳng Giác trong tương lai, ông có dùng tâm mình thấu hiểu tâm của các Thế Tôn ấy: 'Các Thế Tôn ấy sẽ có *lối sống đạo đức* như thế này', hoặc 'Các Thế Tôn ấy sẽ có các *Điều* như thế này', hoặc 'Các Thế Tôn ấy sẽ có trí tuệ như thế này', hoặc 'Các Thế Tôn ấy sẽ có cách sống như thế này', hoặc 'Các Thế Tôn ấy sẽ có sự giải thoát như thế này' không?"
 
-“Na kho me, bhante, atītānāgatapaccuppannesu arahantesu sammāsambuddhesu cetopariyañāṇaṁ atthi, Yepi te, bhante, bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā, sabbe te bhagavanto pañca nīvaraṇe pahāya, cetaso upakkilese paññāya dubbalīkaraṇe, catūsu satipaṭṭhānesu suppatiṭṭhitacittā, satta bojjhaṅge yathābhūtaṁ bhāvetvā, anuttaraṁ sammāsambodhiṁ abhisambujjhissanti. Bhagavāpi, bhante, etarahi arahaṁ sammāsambuddho pañca nīvaraṇe pahāya, cetaso upakkilese paññāya dubbalīkaraṇe, catūsu satipaṭṭhānesu suppatiṭṭhitacitto, satta bojjhaṅge yathābhūtaṁ bhāvetvā, anuttaraṁ sammāsambodhiṁ abhisambuddho’”ti.
+"Thưa không, bạch Thế Tôn."
 
-api ca me dhammanvayo vidito. Seyyathāpi, bhante, rañño paccantimaṁ nagaraṁ daḷhuddhāpaṁ daḷhapākāratoraṇaṁ ekadvāraṁ. Tatrassa dovāriko paṇḍito byatto medhāvī aññātānaṁ nivāretā ñātānaṁ pavesetā. So tassa nagarassa samantā anupariyāyapathaṁ anukkamamāno na passeyya pākārasandhiṁ vā pākāravivaraṁ vā, antamaso biḷāranikkhamanamattampi. Tassa evamassa: ‘ye kho keci oḷārikā pāṇā imaṁ nagaraṁ pavisanti vā nikkhamanti vā, sabbe te imināva dvārena pavisanti vā nikkhamanti vā’ti.
+"Thế nào, này Sāriputta, đối với Ta hiện tại là bậc A-la-hán, Chánh Đẳng Giác, ông có dùng tâm mình thấu hiểu tâm của Ta: 'Thế Tôn có *lối sống đạo đức* như thế này', hoặc 'Thế Tôn có các *Điều* như thế này', hoặc 'Thế Tôn có trí tuệ như thế này', hoặc 'Thế Tôn có cách sống như thế này', hoặc 'Thế Tôn có sự giải thoát như thế này' không?"
 
-Evameva kho me, bhante, dhammanvayo vidito: ‘yepi te, bhante, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, sabbe te bhagavanto pañca nīvaraṇe pahāya, cetaso upakkilese paññāya dubbalīkaraṇe, catūsu satipaṭṭhānesu suppatiṭṭhitacittā, satta bojjhaṅge yathābhūtaṁ bhāvetvā, anuttaraṁ sammāsambodhiṁ abhisambujjhiṁsu. “Sādhu sādhu, sāriputta. Tasmātiha tvaṁ, sāriputta, imaṁ dhammapariyāyaṁ abhikkhaṇaṁ bhāseyyāsi bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānaṁ. Yesampi hi, sāriputta, moghapurisānaṁ bhavissati tathāgate kaṅkhā vā vimati vā, tesampimaṁ dhammapariyāyaṁ sutvā yā tathāgate kaṅkhā vā vimati vā sā pahīyissatī”ti.
+"Thưa không, bạch Thế Tôn."
 
-Dutiyaṁ.
+"Này Sāriputta, ở đây ông không có trí tuệ thấu hiểu tâm của các bậc A-la-hán, Chánh Đẳng Giác trong quá khứ, tương lai và hiện tại. Vậy thì tại sao, này Sāriputta, ông lại nói lời lớn lao, dũng mãnh, nắm bắt một cách chắc chắn, rống lên tiếng rống của sư tử: 'Bạch Thế Tôn, con có niềm tin tuyệt đối vào Thế Tôn như thế này. Trong quá khứ không có, trong tương lai sẽ không có, và hiện tại không có một sa-môn hay bà-la-môn nào khác vượt trội hơn Thế Tôn về sự giác ngộ'?"
 
-### 47.13 Cundasutta
+"Bạch Thế Tôn, con không có trí tuệ thấu hiểu tâm của các bậc A-la-hán, Chánh Đẳng Giác trong quá khứ, tương lai và hiện tại. Nhưng con đã hiểu rõ dòng chảy của quy luật (pháp nhĩ / dhammanvayo). Bạch Thế Tôn, giả sử có một thành phố biên giới của nhà vua, có nền móng vững chắc, có tường thành và cổng tháp vững chắc, chỉ có một cổng duy nhất. Tại đó có một người gác cổng khôn ngoan, khéo léo, thông minh, ngăn chặn những người không quen biết và cho phép những người quen biết đi vào. Khi người đó đi dọc theo con đường vòng quanh thành phố, người đó không thấy một khe hở hay lỗ hổng nào trên tường thành, thậm chí không đủ cho một con mèo chui qua. Người đó nghĩ như sau: 'Bất kỳ sinh vật lớn nào đi vào hay đi ra khỏi thành phố này, tất cả đều phải đi qua cánh cổng này.'
 
-Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā sāriputto magadhesu viharati nālakagāmake ābādhiko dukkhito bāḷhagilāno. Cundo ca samaṇuddeso āyasmato sāriputtassa upaṭṭhāko hoti.
+Cũng giống như vậy, bạch Thế Tôn, con đã hiểu rõ dòng chảy của quy luật: 'Tất cả các bậc A-la-hán, Chánh Đẳng Giác trong quá khứ, tất cả các Thế Tôn ấy đều đã từ bỏ năm *điều làm mờ yếu*, những thứ làm ô nhiễm tâm và làm suy yếu trí tuệ, đã an trú tâm vững chắc trong *bốn nơi chú tâm*, đã phát triển đúng như thật bảy *Dấu hiệu Của Giác ngộ* (thất giác chi / bojjhaṅge), và đã giác ngộ Vô thượng Chánh Đẳng Giác. Tất cả các bậc A-la-hán, Chánh Đẳng Giác trong tương lai, tất cả các Thế Tôn ấy cũng sẽ từ bỏ năm *điều làm mờ yếu*, những thứ làm ô nhiễm tâm và làm suy yếu trí tuệ, sẽ an trú tâm vững chắc trong *bốn nơi chú tâm*, sẽ phát triển đúng như thật bảy *Dấu hiệu Của Giác ngộ*, và sẽ giác ngộ Vô thượng Chánh Đẳng Giác. Thế Tôn hiện tại, bậc A-la-hán, Chánh Đẳng Giác, cũng đã từ bỏ năm *điều làm mờ yếu*, những thứ làm ô nhiễm tâm và làm suy yếu trí tuệ, đã an trú tâm vững chắc trong *bốn nơi chú tâm*, đã phát triển đúng như thật bảy *Dấu hiệu Của Giác ngộ*, và đã giác ngộ Vô thượng Chánh Đẳng Giác'."
 
-Atha kho āyasmā sāriputto teneva ābādhena parinibbāyi. Atha kho cundo samaṇuddeso āyasmato sāriputtassa pattacīvaramādāya yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho cundo samaṇuddeso āyasmantaṁ ānandaṁ etadavoca:
+"Tốt lắm, tốt lắm, này Sāriputta. Do vậy, này Sāriputta, ông nên thường xuyên thuyết giảng phương pháp này cho các tỳ kheo, tỳ kheo ni, nam cư sĩ và nữ cư sĩ. Này Sāriputta, đối với những kẻ rỗng tuếch nào có sự nghi ngờ hay phân vân về Như Lai, sau khi nghe phương pháp này, sự nghi ngờ hay phân vân về Như Lai của họ sẽ bị từ bỏ."
 
-“āyasmā, bhante, sāriputto parinibbuto. Idamassa pattacīvaran”ti.
+Kinh thứ hai.
 
-“Atthi kho idaṁ, āvuso cunda, kathāpābhataṁ bhagavantaṁ dassanāya. Āyāmāvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā bhagavato etamatthaṁ ārocessāmā”ti.
+<!--pg-->
+### 47.13 Kinh Cunda (Cundasutta)
 
-“Evaṁ, bhante”ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi.
+Một thời Thế Tôn trú ở Sāvatthi, tại rừng Jeta, tu viện của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta đang trú ở Magadha, tại ngôi làng nhỏ Nālaka, bị bệnh, đau đớn, ốm nặng. Và sa-di Cunda là thị giả của Tôn giả Sāriputta.
 
-Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:
+Rồi Tôn giả Sāriputta viên tịch vì căn bệnh đó. Rồi sa-di Cunda mang theo bình bát và y của Tôn giả Sāriputta, đi đến Sāvatthi, rừng Jeta, tu viện của Anāthapiṇḍika, đi đến chỗ Tôn giả Ānanda; sau khi đến, đảnh lễ Tôn giả Ānanda rồi ngồi xuống một bên. Ngồi một bên, sa-di Cunda nói với Tôn giả Ānanda điều này:
 
-“ayaṁ, bhante, cundo samaṇuddeso evamāha: ‘āyasmā, bhante, sāriputto parinibbuto; idamassa pattacīvaran’ti. Api ca me, bhante, madhurakajāto viya kāyo, disāpi me na pakkhāyanti, dhammāpi maṁ nappaṭibhanti ‘āyasmā sāriputto parinibbuto’ti sutvā”.
+"Thưa Tôn giả, Tôn giả Sāriputta đã viên tịch. Đây là bình bát và y của ngài."
 
-“Kiṁ nu kho te, ānanda, sāriputto sīlakkhandhaṁ vā ādāya parinibbuto, samādhikkhandhaṁ vā ādāya parinibbuto, paññākkhandhaṁ vā ādāya parinibbuto, vimuttikkhandhaṁ vā ādāya parinibbuto, vimuttiñāṇadassanakkhandhaṁ vā ādāya parinibbuto”ti?
+"Này hiền giả Cunda, đây là lý do để chúng ta đi gặp Thế Tôn. Đi nào hiền giả Cunda, chúng ta hãy đi đến chỗ Thế Tôn; sau khi đến, chúng ta sẽ báo tin này cho Thế Tôn."
 
-“Na ca kho me, bhante, āyasmā sāriputto sīlakkhandhaṁ vā ādāya parinibbuto, samādhikkhandhaṁ vā …pe… paññākkhandhaṁ vā …pe… vimuttikkhandhaṁ vā …pe… vimuttiñāṇadassanakkhandhaṁ vā ādāya parinibbuto. Api ca me, bhante, āyasmā sāriputto ovādako ahosi otiṇṇo viññāpako sandassako samādapako samuttejako sampahaṁsako, akilāsu dhammadesanāya, anuggāhako sabrahmacārīnaṁ. Taṁ mayaṁ āyasmato sāriputtassa dhammojaṁ dhammabhogaṁ dhammānuggahaṁ anussarāmā”ti.
+"Vâng, thưa Tôn giả," sa-di Cunda vâng đáp Tôn giả Ānanda.
 
-“Nanu taṁ, ānanda, mayā paṭikacceva akkhātaṁ: ‘sabbehi piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo. Taṁ kutettha, ānanda, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti—netaṁ ṭhānaṁ vijjati.
+Rồi Tôn giả Ānanda và sa-di Cunda đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Ānanda nói với Thế Tôn điều này:
 
-Seyyathāpi, ānanda, mahato rukkhassa tiṭṭhato sāravato yo mahantataro khandho so palujjeyya; evameva kho ānanda, mahato bhikkhusaṅghassa tiṭṭhato sāravato sāriputto parinibbuto.
+"Bạch Thế Tôn, sa-di Cunda này nói như sau: 'Tôn giả Sāriputta đã viên tịch; đây là bình bát và y của ngài.' Bạch Thế Tôn, khi nghe tin 'Tôn giả Sāriputta đã viên tịch', cơ thể con như rã rời, các phương hướng mờ mịt đối với con, các *Điều* không còn rõ ràng trong tâm trí con."
 
-Taṁ kutettha, ānanda, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjī’ti—netaṁ ṭhānaṁ vijjati.
+"Thế nào, này Ānanda, Sāriputta có mang theo tập hợp *lối sống đạo đức* khi viên tịch không, hay mang theo tập hợp định, hay mang theo tập hợp trí tuệ, hay mang theo tập hợp giải thoát, hay mang theo tập hợp tri kiến giải thoát khi viên tịch không?"
 
-Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.
+"Thưa không, bạch Thế Tôn, Tôn giả Sāriputta không mang theo tập hợp *lối sống đạo đức* khi viên tịch, không mang theo tập hợp định [...lặp lại...] tập hợp trí tuệ [...lặp lại...] tập hợp giải thoát [...lặp lại...] tập hợp tri kiến giải thoát khi viên tịch. Nhưng bạch Thế Tôn, Tôn giả Sāriputta là người khuyên bảo, người hướng dẫn, người chỉ dạy, người khích lệ, người làm cho phấn chấn, người làm cho hoan hỷ, không mệt mỏi trong việc thuyết giảng *Điều dạy*, là người giúp đỡ các bạn đồng tu. Chúng con nhớ đến tinh hoa của *Điều dạy*, sự phong phú của *Điều dạy*, sự giúp đỡ bằng *Điều dạy* của Tôn giả Sāriputta."
 
-Kathañcānanda, bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo, dhammadīpo dhammasaraṇo anaññasaraṇo? Idhānanda, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+"Này Ānanda, Ta đã chẳng từng nói trước rằng: 'Tất cả những gì yêu quý, hấp dẫn đều phải chịu sự chia lìa, xa cách, biến đổi' sao? Này Ānanda, làm sao có thể có chuyện đó ở đây. Bất cứ thứ gì được sinh ra, được hình thành, *thứ hình thành từ lắp ghép* (hữu vi / saṅkhata), có tính hoại diệt, mà mong rằng 'mong sao nó đừng hoại diệt'—điều đó là không thể.
 
-Evaṁ kho, ānanda, bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo, dhammadīpo dhammasaraṇo anaññasaraṇo.
+Này Ānanda, giống như một cái cây lớn đang đứng vững, có lõi cứng, nhánh lớn nhất của nó bị gãy; cũng giống như vậy, này Ānanda, từ Tăng chúng lớn mạnh đang đứng vững, có lõi cứng, Sāriputta đã viên tịch.
 
-Ye hi keci, ānanda, etarahi vā mamaccaye vā attadīpā viharissanti attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā; tamatagge mete, ānanda, bhikkhū bhavissanti ye keci sikkhākāmā”ti.
+Này Ānanda, làm sao có thể có chuyện đó ở đây. Bất cứ thứ gì được sinh ra, được hình thành, *thứ hình thành từ lắp ghép*, có tính hoại diệt, mà mong rằng 'mong sao nó đừng hoại diệt'—điều đó là không thể.
 
-Tatiyaṁ.
+Do vậy, này Ānanda, hãy sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác; lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-### 47.14 Ukkacelasutta
+Và này Ānanda, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này Ānanda, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Ekaṁ samayaṁ bhagavā vajjīsu viharati ukkacelāyaṁ gaṅgāya nadiyā tīre mahatā bhikkhusaṅghena saddhiṁ aciraparinibbutesu sāriputtamoggallānesu. Tena kho pana samayena bhagavā bhikkhusaṅghaparivuto ajjhokāse nisinno hoti.
+Như vậy, này Ānanda, là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-Atha kho bhagavā tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi:
+Này Ānanda, bất cứ ai, bây giờ hoặc sau khi Ta qua đời, sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác; những tỳ kheo đó, này Ānanda, sẽ là những người đứng đầu trong số những người khao khát học tập."
 
-Evarūpepi nāma sāvakayuge parinibbute natthi tathāgatassa soko vā paridevo vā. Taṁ kutettha, bhikkhave, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti—netaṁ ṭhānaṁ vijjati.
+Kinh thứ ba.
 
-Seyyathāpi, bhikkhave, mahato rukkhassa tiṭṭhato sāravato ye mahantatarā khandhā te palujjeyyuṁ; evameva kho, bhikkhave, mahato bhikkhusaṅghassa tiṭṭhato sāravato sāriputtamoggallānā parinibbutā.
+<!--pg-->
+### 47.14 Kinh Ukkacela (Ukkacelasutta)
 
-Taṁ kutettha, bhikkhave, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti—netaṁ ṭhānaṁ vijjati.
+Một thời Thế Tôn trú ở lãnh thổ của người Vajjī, tại Ukkacelā, trên bờ sông Hằng, cùng với một đại chúng tỳ kheo, không lâu sau khi Sāriputta và Moggallāna viên tịch. Lúc bấy giờ, Thế Tôn đang ngồi ngoài trời, được Tăng chúng bao quanh.
 
-Tasmātiha, bhikkhave, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.
+Rồi Thế Tôn nhìn quanh Tăng chúng đang im lặng và gọi các tỳ kheo:
 
-“api myāyaṁ, bhikkhave, parisā suññā viya khāyati parinibbutesu sāriputtamoggallānesu. Asuññā me, bhikkhave, parisā hoti, anapekkhā tassaṁ disāyaṁ hoti, yassaṁ disāyaṁ sāriputtamoggallānā viharanti. Ye hi te, bhikkhave, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, tesampi bhagavantānaṁ etapparamaṁyeva sāvakayugaṁ ahosi—seyyathāpi mayhaṁ sāriputtamoggallānā. Yepi te, bhikkhave, bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā, tesampi bhagavantānaṁ etapparamaṁyeva sāvakayugaṁ bhavissati—seyyathāpi mayhaṁ sāriputtamoggallānā.
+"Này các tỳ kheo, hội chúng này đối với Ta dường như trống vắng sau khi Sāriputta và Moggallāna viên tịch. Này các tỳ kheo, hội chúng của Ta không trống vắng, Ta không có sự luyến tiếc đối với phương hướng nào mà Sāriputta và Moggallāna đang trú ngụ. Này các tỳ kheo, đối với tất cả các bậc A-la-hán, Chánh Đẳng Giác trong quá khứ, các Thế Tôn ấy cũng có một cặp đệ tử tối thắng như vậy—giống như Sāriputta và Moggallāna của Ta. Này các tỳ kheo, đối với tất cả các bậc A-la-hán, Chánh Đẳng Giác trong tương lai, các Thế Tôn ấy cũng sẽ có một cặp đệ tử tối thắng như vậy—giống như Sāriputta và Moggallāna của Ta.
 
-Acchariyaṁ, bhikkhave, sāvakānaṁ, abbhutaṁ, bhikkhave, sāvakānaṁ. Satthu ca nāma sāsanakarā bhavissanti ovādappaṭikarā, catunnañca parisānaṁ piyā bhavissanti manāpā garubhāvanīyā ca.
+Thật kỳ diệu, này các tỳ kheo, đối với các đệ tử, thật phi thường, này các tỳ kheo, đối với các đệ tử. Họ sẽ là những người thực hành theo lời dạy của Đạo sư, làm theo lời khuyên bảo, và họ sẽ được bốn hội chúng yêu mến, quý trọng và tôn kính.
 
-Acchariyaṁ, bhikkhave, tathāgatassa, abbhutaṁ, bhikkhave, tathāgatassa. Kathañca, bhikkhave, bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo, dhammadīpo dhammasaraṇo anaññasaraṇo? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Thật kỳ diệu, này các tỳ kheo, đối với Như Lai, thật phi thường, này các tỳ kheo, đối với Như Lai. Ngay cả khi một cặp đệ tử như vậy viên tịch, Như Lai cũng không có sầu não hay than khóc. Này các tỳ kheo, làm sao có thể có chuyện đó ở đây. Bất cứ thứ gì được sinh ra, được hình thành, *thứ hình thành từ lắp ghép*, có tính hoại diệt, mà mong rằng 'mong sao nó đừng hoại diệt'—điều đó là không thể.
 
-Evaṁ kho, bhikkhave, bhikkhu attadīpo viharati attasaraṇo anaññasaraṇo, dhammadīpo dhammasaraṇo anaññasaraṇo.
+Này các tỳ kheo, giống như một cái cây lớn đang đứng vững, có lõi cứng, những nhánh lớn nhất của nó bị gãy; cũng giống như vậy, này các tỳ kheo, từ Tăng chúng lớn mạnh đang đứng vững, có lõi cứng, Sāriputta và Moggallāna đã viên tịch.
 
-Ye hi keci, bhikkhave, etarahi vā mamaccaye vā attadīpā viharissanti attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā; tamatagge mete, bhikkhave, bhikkhū bhavissanti ye keci sikkhākāmā”ti.
+Này các tỳ kheo, làm sao có thể có chuyện đó ở đây. Bất cứ thứ gì được sinh ra, được hình thành, *thứ hình thành từ lắp ghép*, có tính hoại diệt, mà mong rằng 'mong sao nó đừng hoại diệt'—điều đó là không thể.
 
-Catutthaṁ.
+Do vậy, này các tỳ kheo, hãy sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác; lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-### 47.15 Bāhiyasutta
+Và này các tỳ kheo, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Sāvatthinidānaṁ.
+Như vậy, này các tỳ kheo, là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-Atha kho āyasmā bāhiyo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bāhiyo bhagavantaṁ etadavoca:
+Này các tỳ kheo, bất cứ ai, bây giờ hoặc sau khi Ta qua đời, sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác; những tỳ kheo đó, này các tỳ kheo, sẽ là những người đứng đầu trong số những người khao khát học tập."
 
-“sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
+Kinh thứ tư.
 
-“Tasmātiha tvaṁ, bāhiya, ādimeva visodhehi kusalesu dhammesu. Ko cādi kusalānaṁ dhammānaṁ? Sīlañca suvisuddhaṁ, diṭṭhi ca ujukā. Yato ca kho te, bāhiya, sīlañca suvisuddhaṁ bhavissati, diṭṭhi ca ujukā, tato tvaṁ, bāhiya, sīlaṁ nissāya sīle patiṭṭhāya cattāro satipaṭṭhāne bhāveyyāsi.
+<!--pg-->
+### 47.15 Kinh Bāhiya (Bāhiyasutta)
 
-Katame cattāro? Idha tvaṁ, bāhiya, kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yato kho tvaṁ, bāhiya, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne evaṁ bhāvessasi, tato tuyhaṁ, bāhiya, yā ratti vā divaso vā āgamissati, vuddhiyeva pāṭikaṅkhā kusalesu dhammesu, no parihānī”ti.
+Bối cảnh ở Sāvatthi.
 
-Atha kho āyasmā bāhiyo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. Atha kho āyasmā bāhiyo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi.
+Rồi Tôn giả Bāhiya đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Bāhiya nói với Thế Tôn điều này:
 
-“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi. Aññataro ca panāyasmā bāhiyo arahataṁ ahosīti.
+"Bạch Thế Tôn, thật tốt lành nếu Thế Tôn thuyết giảng cho con một *Điều* ngắn gọn, để sau khi nghe *Điều dạy* của Thế Tôn, con có thể sống một mình, rút lui, không sao nhãng, nhiệt tâm, quyết chí."
 
-Pañcamaṁ.
+"Do vậy, này Bāhiya, trước tiên ông hãy làm cho trong sạch phần cốt lõi của *những điều thiện*. Cốt lõi của *những điều thiện* là gì? Đó là *lối sống đạo đức* thật trong sạch và *quan điểm* ngay thẳng. Này Bāhiya, khi nào *lối sống đạo đức* của ông thật trong sạch và *quan điểm* ngay thẳng, thì từ đó, này Bāhiya, nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông hãy phát triển *bốn nơi chú tâm*.
 
-### 47.16 Uttiyasutta
+Bốn nơi nào? Ở đây, này Bāhiya, ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Bāhiya, khi nào nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông phát triển *bốn nơi chú tâm* như vậy, thì này Bāhiya, dù đêm hay ngày trôi qua, ông chỉ có thể mong đợi sự tăng trưởng trong *những điều thiện*, không có sự suy thoái."
 
-Sāvatthinidānaṁ.
+Rồi Tôn giả Bāhiya hài lòng, vui mừng đón nhận lời Thế Tôn nói, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh bên phải rồi rời đi. Rồi Tôn giả Bāhiya sống một mình, rút lui, không sao nhãng, nhiệt tâm, quyết chí, và không bao lâu sau—mục đích vô thượng mà các thiện nam tử xuất gia từ bỏ gia đình sống không gia đình hướng tới—vị ấy đã tự mình *trực tiếp chứng nghiệm* bằng trí tuệ tối thắng ngay trong hiện tại, đạt đến và an trú trong *cốt lõi đời sống thánh thiện*.
 
-Atha kho āyasmā uttiyo yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisinno kho āyasmā uttiyo bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
+Vị ấy biết rõ: "*Sự Tái sinh* đã *cạn kiệt*, *cốt lõi đời sống thánh thiện* đã hoàn tất, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa." Và Tôn giả Bāhiya trở thành một vị A-la-hán.
 
-“Tasmātiha tvaṁ, uttiya, ādimeva visodhehi kusalesu dhammesu. Ko cādi kusalānaṁ dhammānaṁ? Sīlañca suvisuddhaṁ, diṭṭhi ca ujukā. Yato ca kho te, uttiya, sīlañca suvisuddhaṁ bhavissati, diṭṭhi ca ujukā, tato tvaṁ, uttiya, sīlaṁ nissāya sīle patiṭṭhāya cattāro satipaṭṭhāne bhāveyyāsi.
+Kinh thứ năm.
 
-Katame cattāro? Idha tvaṁ, uttiya, kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yato kho tvaṁ, uttiya, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne evaṁ bhāvessasi, tato tvaṁ, uttiya, gamissasi maccudheyyassa pāran”ti.
+<!--pg-->
+### 47.16 Kinh Uttiya (Uttiyasutta)
 
-Atha kho āyasmā uttiyo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. Atha kho āyasmā uttiyo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi.
+Bối cảnh ở Sāvatthi.
 
-“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi. Aññataro ca panāyasmā uttiyo arahataṁ ahosīti.
+Rồi Tôn giả Uttiya đi đến chỗ Thế Tôn [...lặp lại...] ngồi một bên, Tôn giả Uttiya nói với Thế Tôn điều này: "Bạch Thế Tôn, thật tốt lành nếu Thế Tôn thuyết giảng cho con một *Điều* ngắn gọn, để sau khi nghe *Điều dạy* của Thế Tôn, con có thể sống một mình, rút lui, không sao nhãng, nhiệt tâm, quyết chí."
 
-Chaṭṭhaṁ.
+"Do vậy, này Uttiya, trước tiên ông hãy làm cho trong sạch phần cốt lõi của *những điều thiện*. Cốt lõi của *những điều thiện* là gì? Đó là *lối sống đạo đức* thật trong sạch và *quan điểm* ngay thẳng. Này Uttiya, khi nào *lối sống đạo đức* của ông thật trong sạch và *quan điểm* ngay thẳng, thì từ đó, này Uttiya, nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông hãy phát triển *bốn nơi chú tâm*.
 
-### 47.17 Ariyasutta
+Bốn nơi nào? Ở đây, này Uttiya, ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Uttiya, khi nào nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông phát triển *bốn nơi chú tâm* như vậy, thì này Uttiya, ông sẽ vượt qua bờ bên kia của cõi Chết."
 
-“Cattārome, bhikkhave, satipaṭṭhānā bhāvitā bahulīkatā ariyā niyyānikā niyyanti takkarassa sammā dukkhakkhayāya. Katame cattāro?
+Rồi Tôn giả Uttiya hài lòng, vui mừng đón nhận lời Thế Tôn nói, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh bên phải rồi rời đi. Rồi Tôn giả Uttiya sống một mình, rút lui, không sao nhãng, nhiệt tâm, quyết chí, và không bao lâu sau—mục đích vô thượng mà các thiện nam tử xuất gia từ bỏ gia đình sống không gia đình hướng tới—vị ấy đã tự mình *trực tiếp chứng nghiệm* bằng trí tuệ tối thắng ngay trong hiện tại, đạt đến và an trú trong *cốt lõi đời sống thánh thiện*.
 
-Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Vị ấy biết rõ: "*Sự Tái sinh* đã *cạn kiệt*, *cốt lõi đời sống thánh thiện* đã hoàn tất, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa." Và Tôn giả Uttiya trở thành một vị A-la-hán.
 
-Ime kho, bhikkhave, cattāro satipaṭṭhānā bhāvitā bahulīkatā ariyā niyyānikā niyyanti takkarassa sammā dukkhakkhayāyā”ti.
+Kinh thứ sáu.
 
-Sattamaṁ.
+<!--pg-->
+### 47.17 Kinh Bậc Thánh (Ariyasutta)
 
-### 47.18 Brahmasutta
+"Này các tỳ kheo, *bốn nơi chú tâm* này khi được phát triển, được thực hành nhiều lần, là thuộc về bậc thánh, dẫn đến sự thoát ly, dẫn người thực hành đến sự chấm dứt hoàn toàn *đau khổ*. Bốn nơi nào?
 
-Ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho.
+Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Atha kho bhagavato rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi: “ekāyanvāyaṁ maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā.
+Này các tỳ kheo, *bốn nơi chú tâm* này khi được phát triển, được thực hành nhiều lần, là thuộc về bậc thánh, dẫn đến sự thoát ly, dẫn người thực hành đến sự chấm dứt hoàn toàn *đau khổ*."
 
-Katame cattāro? Kāye vā bhikkhu kāyānupassī vihareyya ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vā bhikkhu …pe… citte vā bhikkhu …pe… dhammesu vā bhikkhu dhammānupassī vihareyya ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ekāyanvāyaṁ maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā”ti.
+Kinh thứ bảy.
 
-Atha kho brahmā sahampati bhagavato cetasā cetoparivitakkamaññāya—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva kho brahmaloke antarahito bhagavato purato pāturahosi. Atha kho brahmā sahampati ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca:
+<!--pg-->
+### 47.18 Kinh Phạm Thiên (Brahmasutta)
 
-“evametaṁ, bhagavā, evametaṁ, sugata. Ekāyanvāyaṁ, bhante, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā.
+Một thời Thế Tôn trú ở Uruvelā, trên bờ sông Nerañjarā, dưới gốc cây đa Ajapāla, ngay sau khi vừa giác ngộ.
 
-Katame cattāro? Kāye vā, bhante, bhikkhu kāyānupassī vihareyya ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vā, bhante, bhikkhu …pe… citte vā, bhante, bhikkhu …pe… dhammesu vā, bhante, bhikkhu dhammānupassī vihareyya ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ekāyanvāyaṁ, bhante, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā”ti.
+Rồi khi Thế Tôn đang ở một mình, rút lui, một suy nghĩ như sau khởi lên trong tâm: "Đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*.
 
-Idamavoca brahmā sahampati. Idaṁ vatvā athāparaṁ etadavoca:
+Bốn nơi nào? Tỳ kheo nên sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; tỳ kheo nên sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] tỳ kheo nên sống *quan sát tâm qua tâm của mình* [...lặp lại...] tỳ kheo nên sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*."
 
-> “Ekāyanaṁ jātikhayantadassī, Maggaṁ pajānāti hitānukampī; Etena maggena tariṁsu pubbe, Tarissanti ye ca taranti oghan”ti.
+Rồi Phạm thiên Sahampati, dùng tâm mình thấu hiểu suy nghĩ trong tâm của Thế Tôn—giống như một người lực lưỡng duỗi cánh tay đang co lại, hoặc co cánh tay đang duỗi ra; cũng giống như vậy, vị ấy biến mất khỏi cõi Phạm thiên và xuất hiện trước mặt Thế Tôn. Rồi Phạm thiên Sahampati đắp y một bên vai, chắp tay hướng về phía Thế Tôn và nói với Thế Tôn điều này:
 
-Aṭṭhamaṁ.
+"Đúng vậy, bạch Thế Tôn, đúng vậy, bạch Thiện Thệ. Bạch Thế Tôn, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*.
 
-### 47.19 Sedakasutta
+Bốn nơi nào? Bạch Thế Tôn, tỳ kheo nên sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; bạch Thế Tôn, tỳ kheo nên sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] bạch Thế Tôn, tỳ kheo nên sống *quan sát tâm qua tâm của mình* [...lặp lại...] bạch Thế Tôn, tỳ kheo nên sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Bạch Thế Tôn, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*."
 
-Ekaṁ samayaṁ bhagavā sumbhesu viharati sedakaṁ nāma sumbhānaṁ nigamo. ‘na kho panetaṁ, ācariya, evaṁ bhavissati. Tvaṁ, ācariya, attānaṁ rakkha, ahaṁ attānaṁ rakkhissāmi. Evaṁ mayaṁ attaguttā attarakkhitā sippāni ceva dassessāma, lābhañca lacchāma, sotthinā ca caṇḍālavaṁsā orohissāmā’”ti.
+Phạm thiên Sahampati nói điều này. Sau khi nói điều này, vị ấy lại nói thêm:
 
-Tatra kho bhagavā bhikkhū āmantesi:
+> "Con đường duy nhất thấy sinh diệt,\
+> Bậc thương xót biết rõ đường này;\
+> Bằng đường này người xưa vượt qua,\
+> Người nay và sau sẽ vượt dòng."
 
-“bhūtapubbaṁ, bhikkhave, caṇḍālavaṁsiko caṇḍālavaṁsaṁ ussāpetvā medakathālikaṁ antevāsiṁ āmantesi: ‘ehi tvaṁ, samma medakathālike, caṇḍālavaṁsaṁ abhiruhitvā mama uparikhandhe tiṭṭhāhī’ti.
+Kinh thứ tám.
 
-‘Evaṁ, ācariyā’ti kho, bhikkhave, medakathālikā antevāsī caṇḍālavaṁsikassa paṭissutvā caṇḍālavaṁsaṁ abhiruhitvā ācariyassa uparikhandhe aṭṭhāsi.
+<!--pg-->
+### 47.19 Kinh Sedaka (Sedakasutta)
 
-Atha kho, bhikkhave, caṇḍālavaṁsiko medakathālikaṁ antevāsiṁ etadavoca: ‘tvaṁ, samma medakathālike, mamaṁ rakkha, ahaṁ taṁ rakkhissāmi. Evaṁ mayaṁ aññamaññaṁ guttā aññamaññaṁ rakkhitā sippāni ceva dassessāma, lābhañca lacchāma, sotthinā ca caṇḍālavaṁsā orohissāmā’ti.
+Một thời Thế Tôn trú ở lãnh thổ của người Sumbha, tại một thị trấn của người Sumbha tên là Sedaka.
 
-Evaṁ vutte, bhikkhave, medakathālikā antevāsī caṇḍālavaṁsikaṁ etadavoca: “So tattha ñāyo”ti bhagavā etadavoca, “yathā medakathālikā antevāsī ācariyaṁ avoca. Attānaṁ, bhikkhave, rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ; paraṁ rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ. Attānaṁ, bhikkhave, rakkhanto paraṁ rakkhati, paraṁ rakkhanto attānaṁ rakkhati.
+Tại đó, Thế Tôn gọi các tỳ kheo:
 
-Kathañca, bhikkhave, attānaṁ rakkhanto paraṁ rakkhati? Navamaṁ.
+"Này các tỳ kheo, chuyện xưa kể rằng, một người làm xiếc nhào lộn dựng cây sào tre lên và gọi người học trò tên là Medakathālika: 'Đến đây, này Medakathālika, hãy leo lên cây sào tre và đứng trên vai ta.'
 
-Āsevanāya, bhāvanāya, bahulīkammena—evaṁ kho, bhikkhave, attānaṁ rakkhanto paraṁ rakkhati. Kathañca, bhikkhave, paraṁ rakkhanto attānaṁ rakkhati? Khantiyā, avihiṁsāya, mettacittatāya, anudayatāya—evaṁ kho, bhikkhave, paraṁ rakkhanto attānaṁ rakkhati.
+'Vâng, thưa thầy', này các tỳ kheo, người học trò Medakathālika vâng đáp người làm xiếc nhào lộn, leo lên cây sào tre và đứng trên vai người thầy.
 
-Attānaṁ, bhikkhave, rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ; paraṁ rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ. Attānaṁ, bhikkhave, rakkhanto paraṁ rakkhati, paraṁ rakkhanto attānaṁ rakkhatī”ti.
+Rồi này các tỳ kheo, người làm xiếc nhào lộn nói với người học trò Medakathālika điều này: 'Này Medakathālika, con hãy bảo vệ ta, ta sẽ bảo vệ con. Như vậy, chúng ta bảo vệ lẫn nhau, che chở cho nhau, chúng ta sẽ biểu diễn các kỹ năng, nhận được tiền thưởng và leo xuống khỏi cây sào tre một cách an toàn.'
 
-### 47.20 Janapadakalyāṇīsutta
+Khi được nói như vậy, này các tỳ kheo, người học trò Medakathālika nói với người làm xiếc nhào lộn điều này: 'Thưa thầy, không thể như vậy được. Thầy hãy tự bảo vệ mình, con sẽ tự bảo vệ con. Như vậy, mỗi người tự bảo vệ mình, tự che chở cho mình, chúng ta sẽ biểu diễn các kỹ năng, nhận được tiền thưởng và leo xuống khỏi cây sào tre một cách an toàn'."
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sumbhesu viharati sedakaṁ nāma sumbhānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+"Đó là phương pháp đúng đắn," Thế Tôn nói, "giống như người học trò Medakathālika đã nói với người thầy. Này các tỳ kheo, 'ta sẽ bảo vệ chính mình', *nơi chú tâm* cần được thực hành như vậy; 'ta sẽ bảo vệ người khác', *nơi chú tâm* cần được thực hành như vậy. Này các tỳ kheo, bảo vệ chính mình là bảo vệ người khác, bảo vệ người khác là bảo vệ chính mình.
 
-“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
+Và này các tỳ kheo, thế nào là bảo vệ chính mình là bảo vệ người khác? Kinh thứ chín.
 
-“Seyyathāpi, bhikkhave, ‘janapadakalyāṇī, janapadakalyāṇī’ti kho, bhikkhave, mahājanakāyo sannipateyya. api nu so puriso amuṁ telapattaṁ amanasikaritvā bahiddhā pamādaṁ āhareyyā”ti?
+Bằng cách thực hành, bằng cách phát triển, bằng cách làm cho nhiều lên—như vậy, này các tỳ kheo, bảo vệ chính mình là bảo vệ người khác. Và này các tỳ kheo, thế nào là bảo vệ người khác là bảo vệ chính mình? Bằng sự nhẫn nhịn, bằng sự không làm hại, bằng tâm yêu thương, bằng sự thông cảm—như vậy, này các tỳ kheo, bảo vệ người khác là bảo vệ chính mình.
 
-“No hetaṁ, bhante”.
+Này các tỳ kheo, 'ta sẽ bảo vệ chính mình', *nơi chú tâm* cần được thực hành như vậy; 'ta sẽ bảo vệ người khác', *nơi chú tâm* cần được thực hành như vậy. Này các tỳ kheo, bảo vệ chính mình là bảo vệ người khác, bảo vệ người khác là bảo vệ chính mình."
 
-‘Sā kho panassa janapadakalyāṇī paramapāsāvinī nacce, paramapāsāvinī gīte. Janapadakalyāṇī naccati gāyatī’ti kho, bhikkhave, bhiyyoso mattāya mahājanakāyo sannipateyya.
+<!--pg-->
+### 47.20 Kinh Người Đẹp Của Xứ Sở (Janapadakalyāṇīsutta)
 
-Atha puriso āgaccheyya jīvitukāmo amaritukāmo sukhakāmo dukkhappaṭikūlo. Tamenaṁ evaṁ vadeyya: ‘ayaṁ te, ambho purisa, samatittiko telapatto antarena ca mahāsamajjaṁ antarena ca janapadakalyāṇiyā pariharitabbo. Puriso ca te ukkhittāsiko piṭṭhito piṭṭhito anubandhissati. Yattheva naṁ thokampi chaḍḍessati tattheva te siro pātessatī’ti.
+Tôi đã nghe như vầy—một thời Thế Tôn trú ở lãnh thổ của người Sumbha, tại một thị trấn của người Sumbha tên là Sedaka. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo."
 
-Taṁ kiṁ maññatha, bhikkhave, “Upamā kho myāyaṁ, bhikkhave, katā atthassa viññāpanāya. Ayaṁ cevettha attho—samatittiko telapattoti kho, bhikkhave, kāyagatāya etaṁ satiyā adhivacanaṁ.
+"Bạch Thế Tôn," các tỳ kheo ấy vâng đáp Thế Tôn. Thế Tôn nói điều này:
 
-Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘kāyagatā sati no bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. Evañhi kho, bhikkhave, sikkhitabban”ti.
+"Này các tỳ kheo, giả sử có một đám đông lớn tụ tập lại và hô to: 'Người đẹp của xứ sở, người đẹp của xứ sở!' Liệu người đàn ông đó có không chú ý đến bát dầu kia mà lại sao nhãng ra bên ngoài không?"
 
-Dasamaṁ.
+"Thưa không, bạch Thế Tôn."
 
-Nālandavaggo dutiyo.
+"Lại nữa, 'Người đẹp của xứ sở đó múa tuyệt đẹp, hát tuyệt hay. Người đẹp của xứ sở đang múa và hát!' Nghe vậy, một đám đông lớn hơn nữa tụ tập lại.
 
-Tassuddānaṁ
+Rồi có một người đàn ông đi đến, muốn sống, không muốn chết, muốn *hạnh phúc*, ghét *đau khổ*. Họ nói với người đó: 'Này anh bạn, đây là một bát dầu đầy tràn đến miệng. Anh phải mang nó đi qua giữa đám đông lớn và người đẹp của xứ sở. Sẽ có một người cầm thanh kiếm tuốt trần đi sát ngay phía sau anh. Bất cứ nơi nào anh làm đổ dù chỉ một giọt, người đó sẽ chém rơi đầu anh ngay tại đó.'
 
-> Mahāpuriso nālandaṁ, Cundo celañca bāhiyo; Uttiyo ariyo brahmā, Sedakaṁ janapadena cāti.
+Các ông nghĩ thế nào, này các tỳ kheo, liệu người đàn ông đó có không chú ý đến bát dầu kia mà lại sao nhãng ra bên ngoài không?"
 
-### 47.21 Sīlasutta
+"Thưa không, bạch Thế Tôn."
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā ca ānando āyasmā ca bhaddo pāṭaliputte viharanti kukkuṭārāme. Atha kho āyasmā bhaddo sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bhaddo āyasmantaṁ ānandaṁ etadavoca:
+"Này các tỳ kheo, Ta đưa ra ví dụ này để giải thích ý nghĩa. Ý nghĩa ở đây là—bát dầu đầy tràn đến miệng, này các tỳ kheo, đây là từ đồng nghĩa với việc *giữ sự chú ý liên tục vào cơ thể* (niệm thân / kāyagatā sati).
 
-“yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā”ti?
+Do vậy, này các tỳ kheo, các vị cần phải học tập như sau: 'Chúng ta sẽ phát triển việc *giữ sự chú ý liên tục vào cơ thể*, thực hành nhiều lần, biến nó thành cỗ xe, biến nó thành nền tảng, thiết lập vững chắc, củng cố và bắt đầu một cách hoàn hảo.' Này các tỳ kheo, các vị cần phải học tập như vậy."
 
-“Sādhu sādhu, āvuso bhadda. Bhaddako kho te, āvuso bhadda, ummaṅgo, bhaddakaṁ paṭibhānaṁ, kalyāṇī paripucchā. Evañhi tvaṁ, āvuso bhadda, pucchasi: ‘yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā’”ti?
+Kinh thứ mười.
 
-“Evamāvuso”ti.
+Phẩm Nālanda thứ hai.
 
-“Yānimāni, āvuso bhadda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni yāvadeva catunnaṁ satipaṭṭhānānaṁ bhāvanāya vuttāni bhagavatā.
+Tóm tắt phẩm:
 
-Katamesaṁ catunnaṁ? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yānimāni, āvuso bhadda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni yāvadeva imesaṁ catunnaṁ satipaṭṭhānānaṁ bhāvanāya vuttāni bhagavatā”ti.
+> Bậc đại nhân, Nālanda, Cunda, Cela và Bāhiya; Uttiya, bậc thánh, Phạm thiên, Sedaka và Người đẹp của xứ sở.
 
-Paṭhamaṁ.
+<!--pg-->
+### 47.21 Kinh Về Nền Tảng Đạo Đức (Sīlasutta)
 
-### 47.22 Ciraṭṭhitisutta
+Tôi đã nghe như vầy—một thời Tôn giả Ānanda và Tôn giả Bhadda trú tại Pāṭaliputta, trong khu vườn Kukkuṭa. Rồi Tôn giả Bhadda, vào buổi chiều, sau khi xuất định, đi đến chỗ Tôn giả Ānanda; sau khi đến, vị ấy trao đổi những lời chào hỏi thân hữu với Tôn giả Ānanda. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Bhadda nói với Tôn giả Ānanda điều này:
 
-Taṁyeva nidānaṁ. Ekamantaṁ nisinno kho āyasmā bhaddo āyasmantaṁ ānandaṁ etadavoca:
+"Này hiền giả Ānanda, những *nền tảng đạo đức thiện* (giới thiện / kusalāni sīlāni) nào đã được Thế Tôn nói đến, những *nền tảng đạo đức thiện* này được Thế Tôn nói đến vì mục đích gì?"
 
-“ko nu kho, āvuso ānanda, hetu, ko paccayo yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti? Ko panāvuso ānanda, hetu, ko paccayo yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti?
+"Tốt lắm, tốt lắm, này hiền giả Bhadda. *Lối suy nghĩ* (tuệ giác / ummaṅgo) của hiền giả thật tốt đẹp, *sự nhạy bén* (biện tài / paṭibhānaṁ) thật tốt đẹp, câu hỏi thật khéo léo. Này hiền giả Bhadda, hiền giả hỏi như thế này: 'Này hiền giả Ānanda, những *nền tảng đạo đức thiện* nào đã được Thế Tôn nói đến, những *nền tảng đạo đức thiện* này được Thế Tôn nói đến vì mục đích gì?' phải không?"
 
-“Sādhu sādhu, āvuso bhadda. Bhaddako kho te, āvuso bhadda, ummaṅgo, bhaddakaṁ paṭibhānaṁ, kalyāṇī paripucchā. Evañhi tvaṁ, āvuso bhadda, pucchasi: ‘ko nu kho, āvuso ānanda, hetu, ko paccayo yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti? Ko panāvuso ānanda, hetu, ko paccayo yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī’”ti?
+"Đúng vậy, thưa hiền giả."
 
-“Evamāvuso”ti.
+"Này hiền giả Bhadda, những *nền tảng đạo đức thiện* nào đã được Thế Tôn nói đến, những *nền tảng đạo đức thiện* này được Thế Tôn nói đến chỉ vì mục đích *luyện tập* (tu tập / bhāvanāya) *bốn nơi chú tâm* (tứ niệm xứ / catunnaṁ satipaṭṭhānānaṁ).
 
-“Catunnaṁ kho, āvuso, satipaṭṭhānānaṁ abhāvitattā abahulīkatattā tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti. Catunnañca kho, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā tathāgate parinibbute saddhammo ciraṭṭhitiko hoti.
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā), *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* (ưu / domanassa) ở đời; đối với các *cảm giác* (thọ / vedanāsu) [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả Bhadda, những *nền tảng đạo đức thiện* nào đã được Thế Tôn nói đến, những *nền tảng đạo đức thiện* này được Thế Tôn nói đến chỉ vì mục đích *luyện tập* *bốn nơi chú tâm* này."
 
-Katamesaṁ catunnaṁ? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ kho, āvuso, catunnaṁ satipaṭṭhānānaṁ abhāvitattā abahulīkatattā tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti. Imesañca kho, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti.
+Kinh thứ nhất.
 
-Dutiyaṁ.
+<!--pg-->
+### 47.22 Kinh Về Sự Tồn Tại Lâu Dài (Ciraṭṭhitisutta)
 
-### 47.23 Parihānasutta
+Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Bhadda nói với Tôn giả Ānanda điều này:
 
-Ekaṁ samayaṁ āyasmā ca ānando āyasmā ca bhaddo pāṭaliputte viharanti kukkuṭārāme. Atha kho āyasmā bhaddo sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bhaddo āyasmantaṁ ānandaṁ etadavoca:
+"Này hiền giả Ānanda, do nguyên nhân nào, do *điều kiện* (duyên / paccayo) nào mà khi *Người Đến Như Vậy* (Như Lai / tathāgate) đã viên tịch, *Điều dạy chân chính* (diệu pháp / saddhammo) không *tồn tại lâu dài* (trụ thế lâu dài / ciraṭṭhitiko)? Và này hiền giả Ānanda, do nguyên nhân nào, do *điều kiện* nào mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*?"
 
-“ko nu kho, āvuso ānanda, hetu, ko paccayo yena saddhammaparihānaṁ hoti? Ko nu kho, āvuso ānanda, hetu, ko paccayo yena saddhammaaparihānaṁ hotī”ti?
+"Tốt lắm, tốt lắm, này hiền giả Bhadda. *Lối suy nghĩ* của hiền giả thật tốt đẹp, *sự nhạy bén* thật tốt đẹp, câu hỏi thật khéo léo. Này hiền giả Bhadda, hiền giả hỏi như thế này: 'Này hiền giả Ānanda, do nguyên nhân nào, do *điều kiện* nào mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*? Và này hiền giả Ānanda, do nguyên nhân nào, do *điều kiện* nào mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*?' phải không?"
 
-“Sādhu sādhu, āvuso bhadda. Bhaddako kho te, āvuso bhadda, ummaṅgo, bhaddakaṁ paṭibhānaṁ, kalyāṇī paripucchā. Evañhi tvaṁ, āvuso bhadda, pucchasi: ‘ko nu kho, āvuso ānanda, hetu, ko paccayo yena saddhammaparihānaṁ hoti? Ko panāvuso ānanda, hetu, ko paccayo yena saddhammaaparihānaṁ hotī’”ti?
+"Đúng vậy, thưa hiền giả."
 
-“Evamāvuso”ti.
+"Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*.
 
-“Catunnaṁ kho, āvuso, satipaṭṭhānānaṁ abhāvitattā abahulīkatattā saddhammaparihānaṁ hoti. Catunnañca kho, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā saddhammaaparihānaṁ hoti.
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*."
 
-Katamesaṁ catunnaṁ? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ kho, āvuso, catunnaṁ satipaṭṭhānānaṁ abhāvitattā abahulīkatattā saddhammaparihānaṁ hoti. Imesañca kho, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā saddhammaaparihānaṁ hotī”ti.
+Kinh thứ hai.
 
-Tatiyaṁ.
+<!--pg-->
+### 47.23 Kinh Về Sự Suy Thoái (Parihānasutta)
 
-### 47.24 Suddhasutta
+Một thời Tôn giả Ānanda và Tôn giả Bhadda trú tại Pāṭaliputta, trong khu vườn Kukkuṭa. Rồi Tôn giả Bhadda, vào buổi chiều, sau khi xuất định, đi đến chỗ Tôn giả Ānanda; sau khi đến, vị ấy trao đổi những lời chào hỏi thân hữu với Tôn giả Ānanda. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Bhadda nói với Tôn giả Ānanda điều này:
 
-Sāvatthinidānaṁ.
+"Này hiền giả Ānanda, do nguyên nhân nào, do *điều kiện* nào dẫn đến sự *suy thoái* (diệt vong / parihānaṁ) của *Điều dạy chân chính*? Và này hiền giả Ānanda, do nguyên nhân nào, do *điều kiện* nào dẫn đến sự không *suy thoái* của *Điều dạy chân chính*?"
 
-“Cattārome, bhikkhave, satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+"Tốt lắm, tốt lắm, này hiền giả Bhadda. *Lối suy nghĩ* của hiền giả thật tốt đẹp, *sự nhạy bén* thật tốt đẹp, câu hỏi thật khéo léo. Này hiền giả Bhadda, hiền giả hỏi như thế này: 'Này hiền giả Ānanda, do nguyên nhân nào, do *điều kiện* nào dẫn đến sự *suy thoái* của *Điều dạy chân chính*? Và này hiền giả Ānanda, do nguyên nhân nào, do *điều kiện* nào dẫn đến sự không *suy thoái* của *Điều dạy chân chính*?' phải không?"
 
-Ime kho, bhikkhave, cattāro satipaṭṭhānā”ti.
+"Đúng vậy, thưa hiền giả."
 
-Catutthaṁ.
+"Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* mà dẫn đến sự *suy thoái* của *Điều dạy chân chính*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* mà dẫn đến sự không *suy thoái* của *Điều dạy chân chính*.
 
-### 47.25 Aññatarabrāhmaṇasutta
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà dẫn đến sự *suy thoái* của *Điều dạy chân chính*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà dẫn đến sự không *suy thoái* của *Điều dạy chân chính*."
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññataro brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so brāhmaṇo bhagavantaṁ etadavoca:
+Kinh thứ ba.
 
-“ko nu kho, bho gotama, hetu, ko paccayo yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti? Ko pana, bho gotama, hetu, ko paccayo yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti?
+<!--pg-->
+### 47.24 Kinh Thuần Túy (Suddhasutta)
 
-“Catunnaṁ kho, brāhmaṇa, satipaṭṭhānānaṁ abhāvitattā abahulīkatattā tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti. Catunnañca kho, brāhmaṇa, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā tathāgate parinibbute saddhammo ciraṭṭhitiko hoti.
+Bối cảnh ở Sāvatthi.
 
-Katamesaṁ catunnaṁ? Idha, brāhmaṇa, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ kho, brāhmaṇa, catunnaṁ satipaṭṭhānānaṁ abhāvitattā abahulīkatattā tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti. Imesañca kho, brāhmaṇa, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti.
+"Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Evaṁ vutte, so brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+Này các tỳ kheo, đây là *bốn nơi chú tâm*."
 
-Pañcamaṁ.
+Kinh thứ tư.
 
-### 47.26 Padesasutta
+<!--pg-->
+### 47.25 Kinh Về Một Bà-la-môn (Aññatarabrāhmaṇasutta)
 
-Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca mahāmoggallāno āyasmā ca anuruddho sākete viharanti kaṇḍakīvane. Atha kho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sāyanhasamayaṁ paṭisallānā vuṭṭhitā yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca:
+Tôi đã nghe như vầy—một thời Thế Tôn trú tại Sāvatthi, trong khu rừng Jeta, tu viện của Anāthapiṇḍika. Rồi một Bà-la-môn đi đến chỗ Thế Tôn; sau khi đến, vị ấy trao đổi những lời chào hỏi thân hữu với Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn ấy nói với Thế Tôn điều này:
 
-“‘sekho, sekho’ti, āvuso anuruddha, vuccati. Kittāvatā nu kho, āvuso, sekho hotī”ti?
+"Thưa tôn giả Gotama, do nguyên nhân nào, do *điều kiện* nào mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*? Và thưa tôn giả Gotama, do nguyên nhân nào, do *điều kiện* nào mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*?"
 
-“Catunnaṁ kho, āvuso, satipaṭṭhānānaṁ padesaṁ bhāvitattā sekho hoti.
+"Này Bà-la-môn, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này Bà-la-môn, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*.
 
-Katamesaṁ catunnaṁ? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ kho, āvuso, catunnaṁ satipaṭṭhānānaṁ padesaṁ bhāvitattā sekho hotī”ti.
+Bốn nơi nào? Ở đây, này Bà-la-môn, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Bà-la-môn, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này Bà-la-môn, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*."
 
-Chaṭṭhaṁ.
+Khi được nói như vậy, Bà-la-môn ấy thưa với Thế Tôn: "Thật tuyệt vời, thưa tôn giả Gotama [...lặp lại...] xin tôn giả Gotama nhận tôi làm nam cư sĩ, từ nay cho đến mạng chung, tôi xin trọn đời quy y."
 
-### 47.27 Samattasutta
+Kinh thứ năm.
 
-Taṁyeva nidānaṁ. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca:
+<!--pg-->
+### 47.26 Kinh Về Một Phần (Padesasutta)
 
-“‘asekho, asekho’ti, āvuso anuruddha, vuccati. Kittāvatā nu kho, āvuso, asekho hotī”ti?
+Một thời Tôn giả Sāriputta, Tôn giả Mahāmoggallāna và Tôn giả Anuruddha trú tại Sāketa, trong khu rừng Kaṇḍakī. Rồi Tôn giả Sāriputta và Tôn giả Mahāmoggallāna, vào buổi chiều, sau khi xuất định, đi đến chỗ Tôn giả Anuruddha; sau khi đến, các vị ấy trao đổi những lời chào hỏi thân hữu với Tôn giả Anuruddha. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, các vị ấy ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Sāriputta nói với Tôn giả Anuruddha điều này:
 
-“Catunnaṁ kho, āvuso, satipaṭṭhānānaṁ samattaṁ bhāvitattā asekho hoti.
+"Này hiền giả Anuruddha, người ta nói là '*người đang học* (hữu học / sekho), *người đang học*'. Này hiền giả, *theo những cách nào* (kittāvatā) thì một người là *người đang học*?"
 
-Katamesaṁ catunnaṁ? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ kho, āvuso, catunnaṁ satipaṭṭhānānaṁ samattaṁ bhāvitattā asekho hotī”ti.
+"Này hiền giả, do *luyện tập* một phần *bốn nơi chú tâm* mà một người là *người đang học*.
 
-Sattamaṁ.
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, do *luyện tập* một phần *bốn nơi chú tâm* này mà một người là *người đang học*."
 
-### 47.28 Lokasutta
+Kinh thứ sáu.
 
-Taṁyeva nidānaṁ. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca: “katamesaṁ, āvuso anuruddha, dhammānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto”ti?
+<!--pg-->
+### 47.27 Kinh Về Sự Trọn Vẹn (Samattasutta)
 
-“Catunnaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto.
+Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Sāriputta nói với Tôn giả Anuruddha điều này:
 
-Katamesaṁ catunnaṁ? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto.
+"Này hiền giả Anuruddha, người ta nói là '*người không còn phải học* (vô học / asekho), *người không còn phải học*'. Này hiền giả, *theo những cách nào* thì một người là *người không còn phải học*?"
 
-Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā sahassaṁ lokaṁ abhijānāmī”ti.
+"Này hiền giả, do *luyện tập* một cách trọn vẹn *bốn nơi chú tâm* mà một người là *người không còn phải học*.
 
-Aṭṭhamaṁ.
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, do *luyện tập* một cách trọn vẹn *bốn nơi chú tâm* này mà một người là *người không còn phải học*."
 
-### 47.29 Sirivaḍḍhasutta
+Kinh thứ bảy.
 
-Ekaṁ samayaṁ āyasmā ānando rājagahe viharati veḷuvane kalandakanivāpe. “sirivaḍḍho, bhante, gahapati ābādhiko dukkhito bāḷhagilāno, so āyasmato ānandassa pāde sirasā vandati. Evañca vadeti: ‘sādhu kira, bhante, āyasmā ānando yena sirivaḍḍhassa gahapatissa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti. Adhivāsesi kho āyasmā ānando tuṇhībhāvena.
+<!--pg-->
+### 47.28 Kinh Về Thế Giới (Lokasutta)
 
-Tena kho pana samayena sirivaḍḍho gahapati ābādhiko hoti dukkhito bāḷhagilāno. Atha kho sirivaḍḍho gahapati aññataraṁ purisaṁ āmantesi:
+Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Sāriputta nói với Tôn giả Anuruddha điều này: "Này hiền giả Anuruddha, do *luyện tập*, do làm cho nhiều lên những *Điều* (pháp / dhammānaṁ) nào mà hiền giả đạt được *sự hiểu biết toàn bộ vĩ đại* (đại thắng tri / mahābhiññataṁ)?"
 
-“ehi tvaṁ, ambho purisa, yenāyasmā ānando tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato ānandassa pāde sirasā vanda: ‘sirivaḍḍho, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So āyasmato ānandassa pāde sirasā vandatī’ti. Evañca vadehi: ‘sādhu kira, bhante, āyasmā ānando yena sirivaḍḍhassa gahapatissa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti.
+"Này hiền giả, chính do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* mà tôi đạt được *sự hiểu biết toàn bộ vĩ đại*.
 
-“Evaṁ, bhante”ti kho so puriso sirivaḍḍhassa gahapatissa paṭissutvā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so puriso āyasmantaṁ ānandaṁ etadavoca: Atha kho āyasmā ānando pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena sirivaḍḍhassa gahapatissa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho āyasmā ānando sirivaḍḍhaṁ gahapatiṁ etadavoca:
+Bốn nơi nào? Ở đây, này hiền giả, tôi *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* này mà tôi đạt được *sự hiểu biết toàn bộ vĩ đại*.
 
-“kacci te, gahapati, khamanīyaṁ kacci yāpanīyaṁ, kacci dukkhā vedanā paṭikkamanti, no abhikkamanti; paṭikkamosānaṁ paññāyati, no abhikkamo”ti?
+Và này hiền giả, chính do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* này mà tôi *hiểu toàn bộ* (thắng tri / abhijānāmī) một ngàn thế giới."
 
-“Na me, bhante, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo”ti.
+Kinh thứ tám.
 
-“Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘kāye kāyānupassī viharissāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharissāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassan’ti. Evañhi te, gahapati, sikkhitabban”ti.
+<!--pg-->
+### 47.29 Kinh Về Sirivaḍḍha (Sirivaḍḍhasutta)
 
-“Yeme, bhante, bhagavatā cattāro satipaṭṭhānā desitā saṁvijjanti, te dhammā mayi, ahañca tesu dhammesu sandissāmi. Ahañhi, bhante, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yāni cimāni, bhante, bhagavatā pañcorambhāgiyāni saṁyojanāni desitāni, nāhaṁ, bhante, tesaṁ kiñci attani appahīnaṁ samanupassāmī”ti.
+Một thời Tôn giả Ānanda trú tại Rājagaha, trong khu rừng Tre, chỗ nuôi dưỡng sóc. Lúc bấy giờ, cư sĩ Sirivaḍḍha bị bệnh, đau đớn, ốm nặng. Ông bảo một người đàn ông:
 
-“Lābhā te, gahapati, suladdhaṁ te, gahapati. Anāgāmiphalaṁ tayā, gahapati, byākatan”ti.
+"Này anh, hãy đến chỗ Tôn giả Ānanda; sau khi đến, nhân danh tôi, hãy cúi đầu đảnh lễ dưới chân Tôn giả Ānanda và nói: 'Thưa Tôn giả, cư sĩ Sirivaḍḍha bị bệnh, đau đớn, ốm nặng. Ông ấy cúi đầu đảnh lễ dưới chân Tôn giả Ānanda.' Và hãy nói như thế này: 'Thưa Tôn giả, thật tốt đẹp biết bao nếu Tôn giả Ānanda vì lòng thương tưởng mà đi đến nhà của cư sĩ Sirivaḍḍha'."
 
-Navamaṁ.
+Tôn giả Ānanda nhận lời bằng sự im lặng.
 
-### 47.30 Mānadinnasutta
+Rồi Tôn giả Ānanda, vào buổi sáng, đắp y, mang bát, đi đến nhà của cư sĩ Sirivaḍḍha; sau khi đến, ngài ngồi trên chỗ đã được soạn sẵn. Ngồi xuống, Tôn giả Ānanda nói với cư sĩ Sirivaḍḍha điều này:
 
-Taṁyeva nidānaṁ. Yāni cimāni, bhante, bhagavatā pañcorambhāgiyāni saṁyojanāni desitāni, nāhaṁ, bhante, tesaṁ kiñci attani appahīnaṁ samanupassāmī”ti.
+"Này cư sĩ, ông có chịu đựng được không, có duy trì được không, những *cảm giác khó chịu* (thọ khổ / dukkhā vedanā) có giảm đi chứ không tăng lên không; sự thuyên giảm có rõ ràng chứ không phải sự gia tăng không?"
 
-“Lābhā te, gahapati, suladdhaṁ te, gahapati. Anāgāmiphalaṁ tayā, gahapati, byākatan”ti.
+"Thưa Tôn giả, tôi không thể chịu đựng được, không thể duy trì được. Những *cảm giác khó chịu* của tôi đang tăng lên kịch liệt chứ không giảm đi; sự gia tăng rất rõ ràng chứ không phải sự thuyên giảm."
 
-Dasamaṁ.
+"Vì vậy, này cư sĩ, ông cần phải học tập như sau: 'Tôi sẽ *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] tôi sẽ *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.' Này cư sĩ, ông cần phải học tập như vậy."
 
-Sīlaṭṭhitivaggo tatiyo.
+"Thưa Tôn giả, *bốn nơi chú tâm* nào đã được Thế Tôn giảng dạy, những *Điều* ấy có mặt ở nơi tôi, và tôi được nhìn thấy trong những *Điều* ấy. Thưa Tôn giả, tôi *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] tôi *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Và thưa Tôn giả, năm *xiềng xích* (kiết sử / saṁyojanāni) bề dưới nào đã được Thế Tôn giảng dạy, tôi không thấy bất kỳ *xiềng xích* nào trong số đó chưa được *từ bỏ* (đoạn trừ / appahīnaṁ) nơi bản thân mình."
 
-Tena kho pana samayena mānadinno gahapati ābādhiko hoti dukkhito bāḷhagilāno. Atha kho mānadinno gahapati aññataraṁ purisaṁ āmantesi:
+"Thật là một lợi ích cho ông, này cư sĩ, ông đã khéo đạt được, này cư sĩ. *Quả vị Không quay trở lại* (A-na-hàm quả / Anāgāmiphalaṁ) đã được ông tuyên bố, này cư sĩ."
 
-“ehi tvaṁ, ambho purisa …pe…
+Kinh thứ chín.
 
-na me, bhante, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamoti. Evarūpāya cāhaṁ, bhante, dukkhāya vedanāya phuṭṭho samāno kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassuddānaṁ
+<!--pg-->
+### 47.30 Kinh Về Mānadinna (Mānadinnasutta)
 
-> Sīlaṁ ṭhiti parihānaṁ, suddhaṁ brāhmaṇapadesaṁ; Samattaṁ loko sirivaḍḍho, mānadinnena te dasāti.
+Cùng một bối cảnh. Lúc bấy giờ, cư sĩ Mānadinna bị bệnh, đau đớn, ốm nặng. Rồi cư sĩ Mānadinna bảo một người đàn ông:
 
-### 47.31 Ananussutasutta
+"Này anh, hãy đến... [...lặp lại...]
 
-Sāvatthinidānaṁ.
+Thưa Tôn giả, tôi không thể chịu đựng được, không thể duy trì được. Những *cảm giác khó chịu* của tôi đang tăng lên kịch liệt chứ không giảm đi; sự gia tăng rất rõ ràng chứ không phải sự thuyên giảm. Và thưa Tôn giả, dù bị xúc chạm bởi *cảm giác khó chịu* như vậy, tôi vẫn *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] tôi *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Và thưa Tôn giả, năm *xiềng xích* bề dưới nào đã được Thế Tôn giảng dạy, tôi không thấy bất kỳ *xiềng xích* nào trong số đó chưa được *từ bỏ* nơi bản thân mình."
 
-“‘Ayaṁ kāye kāyānupassanā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Sā kho panāyaṁ kāye kāyānupassanā bhāvetabbā’ti me, bhikkhave …pe… bhāvitā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
+"Thật là một lợi ích cho ông, này cư sĩ, ông đã khéo đạt được, này cư sĩ. *Quả vị Không quay trở lại* đã được ông tuyên bố, này cư sĩ."
 
-‘Ayaṁ vedanāsu vedanānupassanā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Sā kho panāyaṁ vedanāsu vedanānupassanā bhāvetabbā’ti me, bhikkhave …pe… bhāvitā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
+Kinh thứ mười.
+Phẩm Nền Tảng Đạo Đức thứ ba.
 
-‘Ayaṁ citte cittānupassanā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Sā kho panāyaṁ citte cittānupassanā bhāvetabbā’ti me, bhikkhave …pe… bhāvitā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi.
+Tóm tắt phẩm:
+> Giới, Trụ, và Suy thoái,
+> Thuần túy, Bà-la-môn, Một phần,
+> Trọn vẹn, Thế giới, Sirivaḍḍha,
+> Cùng Mānadinna là mười.
 
-‘Ayaṁ dhammesu dhammānupassanā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādi. ‘Sā kho panāyaṁ dhammesu dhammānupassanā bhāvetabbā’ti me, bhikkhave …pe… bhāvitā’ti me, bhikkhave, pubbe ananussutesu dhammesu cakkhuṁ udapādi, ñāṇaṁ udapādi, paññā udapādi, vijjā udapādi, āloko udapādī”ti.
+<!--pg-->
+### 47.31 Kinh Về Những Điều Chưa Từng Nghe (Ananussutasutta)
 
-Paṭhamaṁ.
+Bối cảnh ở Sāvatthi.
 
-### 47.32 Virāgasutta
+"Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* (minh / vijjā) sinh khởi, ánh sáng sinh khởi trong Ta: 'Đây là sự quan sát cơ thể qua cơ thể'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Sự quan sát cơ thể qua cơ thể này cần được *luyện tập*'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: '[Sự quan sát cơ thể qua cơ thể này] đã được *luyện tập*'.
 
-“Cattārome, bhikkhave, satipaṭṭhānā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti.
+Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Đây là sự quan sát cảm giác qua các cảm giác'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Sự quan sát cảm giác qua các cảm giác này cần được *luyện tập*'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: '[Sự quan sát cảm giác qua các cảm giác này] đã được *luyện tập*'.
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Đây là sự quan sát tâm qua tâm'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Sự quan sát tâm qua tâm này cần được *luyện tập*'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: '[Sự quan sát tâm qua tâm này] đã được *luyện tập*'.
 
-Ime kho, bhikkhave, cattāro satipaṭṭhānā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattantī”ti.
+Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Đây là sự quan sát Điều dạy qua các Điều'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Sự quan sát Điều dạy qua các Điều này cần được *luyện tập*'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: '[Sự quan sát Điều dạy qua các Điều này] đã được *luyện tập*'."
 
-Dutiyaṁ.
+Kinh thứ nhất.
 
-### 47.33 Viraddhasutta
+<!--pg-->
+### 47.32 Kinh Về Sự Cạn Hết Đắm Nhiễm (Virāgasutta)
 
-“Yesaṁ kesañci, bhikkhave, cattāro satipaṭṭhānā viraddhā, viraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Yesaṁ kesañci, bhikkhave, cattāro satipaṭṭhānā āraddhā, āraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī.
+"Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến sự chán ngán hoàn toàn, *cạn hết đắm nhiễm* (ly tham / virāgāya), *chấm dứt* (diệt / nirodhāya), *lắng dịu* (tịch tịnh / upasamāya), *hiểu toàn bộ* (thắng tri / abhiññāya), giác ngộ, Niết-bàn.
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Yesaṁ kesañci, bhikkhave, ime cattāro satipaṭṭhānā viraddhā, viraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Yesaṁ kesañci, bhikkhave, ime cattāro satipaṭṭhānā āraddhā, āraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī”ti.
+Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến sự chán ngán hoàn toàn, *cạn hết đắm nhiễm*, *chấm dứt*, *lắng dịu*, *hiểu toàn bộ*, giác ngộ, Niết-bàn."
 
-Tatiyaṁ.
+Kinh thứ hai.
 
-### 47.34 Bhāvitasutta
+<!--pg-->
+### 47.33 Kinh Về Sự Bỏ Lỡ (Viraddhasutta)
 
-“Cattārome, bhikkhave, satipaṭṭhānā bhāvitā bahulīkatā apārā pāraṁ gamanāya saṁvattanti.
+"Này các tỳ kheo, đối với bất kỳ ai bỏ lỡ *bốn nơi chú tâm*, người đó bỏ lỡ con đường của bậc thánh dẫn đến sự *cạn kiệt* (đoạn tận / khaya) *đau khổ* (khổ / dukkha) một cách đúng đắn. Này các tỳ kheo, đối với bất kỳ ai bắt tay vào *bốn nơi chú tâm*, người đó bắt tay vào con đường của bậc thánh dẫn đến sự *cạn kiệt* *đau khổ* một cách đúng đắn.
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Ime kho, bhikkhave, cattāro satipaṭṭhānā bhāvitā bahulīkatā apārā pāraṁ gamanāya saṁvattantī”ti.
+Này các tỳ kheo, đối với bất kỳ ai bỏ lỡ *bốn nơi chú tâm* này, người đó bỏ lỡ con đường của bậc thánh dẫn đến sự *cạn kiệt* *đau khổ* một cách đúng đắn. Này các tỳ kheo, đối với bất kỳ ai bắt tay vào *bốn nơi chú tâm* này, người đó bắt tay vào con đường của bậc thánh dẫn đến sự *cạn kiệt* *đau khổ* một cách đúng đắn."
 
-Catutthaṁ.
+Kinh thứ ba.
 
-### 47.35 Satisutta
+<!--pg-->
+### 47.34 Kinh Về Sự Luyện Tập (Bhāvitasutta)
 
-Sāvatthinidānaṁ.
+"Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia.
 
-“Sato, bhikkhave, bhikkhu vihareyya sampajāno. Ayaṁ vo amhākaṁ anusāsanī.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Kathañca, bhikkhave, bhikkhu sato hoti? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ kho, bhikkhave, bhikkhu sato hoti.
+Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia."
 
-Kathañca, bhikkhave, bhikkhu sampajāno hoti? Idha, bhikkhave, bhikkhuno viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ gacchanti. Viditā vitakkā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ gacchanti. Viditā saññā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ gacchanti. Evaṁ kho, bhikkhave, bhikkhu sampajāno hoti. Sato, bhikkhave, bhikkhu vihareyya sampajāno. Ayaṁ vo amhākaṁ anusāsanī”ti.
+Kinh thứ tư.
 
-Pañcamaṁ.
+<!--pg-->
+### 47.35 Kinh Về Sự Chú Ý (Satisutta)
 
-### 47.36 Aññāsutta
+Bối cảnh ở Sāvatthi.
 
-“Cattārome, bhikkhave, satipaṭṭhānā. Chaṭṭhaṁ.
+"Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý* (chánh niệm / sato) và *nhận biết rõ ràng* (tỉnh giác / sampajāno). Đây là lời giáo huấn của Ta dành cho các vị.
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ime kho, bhikkhave, cattāro satipaṭṭhānā.
+Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*.
 
-Imesaṁ kho, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
+Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở đây, này các tỳ kheo, đối với tỳ kheo, các *cảm giác* được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến* (diệt / abbhatthaṁ). Các suy nghĩ (tầm / vitakkā) được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến*. Các *nhận thức* (tưởng / saññā) được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến*. Như vậy, này các tỳ kheo, là tỳ kheo *nhận biết rõ ràng*. Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý* và *nhận biết rõ ràng*. Đây là lời giáo huấn của Ta dành cho các vị."
 
-### 47.37 Chandasutta
+Kinh thứ năm.
 
-“Cattārome, bhikkhave, satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa kāye kāyānupassino viharato yo kāyasmiṁ chando so pahīyati. Chandassa pahānā amataṁ sacchikataṁ hoti.
+<!--pg-->
+### 47.36 Kinh Về Sự Hiểu Biết Trọn Vẹn (Aññāsutta)
 
-Vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa vedanāsu vedanānupassino viharato yo vedanāsu chando so pahīyati. Chandassa pahānā amataṁ sacchikataṁ hoti.
+"Này các tỳ kheo, có *bốn nơi chú tâm* này.
 
-Citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa citte cittānupassino viharato yo cittamhi chando so pahīyati. Chandassa pahānā amataṁ sacchikataṁ hoti.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây là *bốn nơi chú tâm*.
 
-Dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa dhammesu dhammānupassino viharato yo dhammesu chando so pahīyati. Chandassa pahānā amataṁ sacchikataṁ hotī”ti.
+Này các tỳ kheo, do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* này, một trong hai quả vị có thể được mong đợi—*hiểu biết trọn vẹn* (chánh trí / aññā) ngay trong hiện tại, hoặc nếu còn dư tàn bám giữ thì đạt *quả vị Không quay trở lại*."
 
-Sattamaṁ.
+Kinh thứ sáu.
 
-### 47.38 Pariññātasutta
+<!--pg-->
+### 47.37 Kinh Về Sự Mong Muốn (Chandasutta)
 
-“Cattārome, bhikkhave, satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa kāye kāyānupassino viharato kāyo pariññāto hoti. Kāyassa pariññātattā amataṁ sacchikataṁ hoti.
+"Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cơ thể qua cơ thể của mình*, bất cứ *mong muốn* (dục / chando) nào đối với cơ thể, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* (bất tử / amataṁ) được *trực tiếp chứng nghiệm* (chứng ngộ / sacchikataṁ).
 
-Vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa vedanāsu vedanānupassino viharato vedanā pariññātā honti. Vedanānaṁ pariññātattā amataṁ sacchikataṁ hoti.
+Vị ấy *sống quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cảm giác qua cảm giác của mình*, bất cứ *mong muốn* nào đối với các *cảm giác*, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
-Citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa citte cittānupassino viharato cittaṁ pariññātaṁ hoti. Cittassa pariññātattā amataṁ sacchikataṁ hoti.
+Vị ấy *sống quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát tâm qua tâm của mình*, bất cứ *mong muốn* nào đối với tâm, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
-Dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa dhammesu dhammānupassino viharato dhammā pariññātā honti. Dhammānaṁ pariññātattā amataṁ sacchikataṁ hotī”ti.
+Vị ấy *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát Điều dạy qua các Điều*, bất cứ *mong muốn* nào đối với các *Điều*, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* được *trực tiếp chứng nghiệm*."
 
-Aṭṭhamaṁ.
+Kinh thứ bảy.
 
-### 47.39 Bhāvanāsutta
+<!--pg-->
+### 47.38 Kinh Về Sự Hiểu Biết Trọn Vẹn (Pariññātasutta)
 
-“Catunnaṁ, bhikkhave, satipaṭṭhānānaṁ bhāvanaṁ desessāmi. Taṁ suṇātha.
+"Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cơ thể qua cơ thể của mình*, cơ thể được *hiểu biết trọn vẹn* (liễu tri / pariññāto). Do cơ thể được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
-Katamā, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvanā? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Vị ấy *sống quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cảm giác qua cảm giác của mình*, các *cảm giác* được *hiểu biết trọn vẹn*. Do các *cảm giác* được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
-Ayaṁ kho, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvanā”ti.
+Vị ấy *sống quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát tâm qua tâm của mình*, tâm được *hiểu biết trọn vẹn*. Do tâm được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
-Navamaṁ.
+Vị ấy *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát Điều dạy qua các Điều*, các *Điều* được *hiểu biết trọn vẹn*. Do các *Điều* được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*."
 
-### 47.40 Vibhaṅgasutta
+Kinh thứ tám.
 
-“Satipaṭṭhānañca vo, bhikkhave, desessāmi satipaṭṭhānabhāvanañca satipaṭṭhānabhāvanāgāminiñca paṭipadaṁ. Taṁ suṇātha.
+<!--pg-->
+### 47.39 Kinh Về Sự Luyện Tập (Bhāvanāsutta)
 
-Katamañca, bhikkhave, satipaṭṭhānaṁ? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati …pe… citte cittānupassī viharati …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Idaṁ vuccati, bhikkhave, satipaṭṭhānaṁ.
+"Này các tỳ kheo, Ta sẽ giảng dạy sự *luyện tập* *bốn nơi chú tâm*. Hãy lắng nghe điều đó.
 
-Katamā ca, bhikkhave, satipaṭṭhānabhāvanā? Idha, bhikkhave, bhikkhu samudayadhammānupassī kāyasmiṁ viharati, vayadhammānupassī kāyasmiṁ viharati, samudayavayadhammānupassī kāyasmiṁ viharati, ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Samudayadhammānupassī vedanāsu viharati …pe… samudayadhammānupassī citte viharati …pe… samudayadhammānupassī dhammesu viharati, vayadhammānupassī dhammesu viharati, samudayavayadhammānupassī dhammesu viharati, ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ayaṁ vuccati, bhikkhave, satipaṭṭhānabhāvanā.
+Và này các tỳ kheo, thế nào là sự *luyện tập* *bốn nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Katamā ca, bhikkhave, satipaṭṭhānabhāvanāgāminī paṭipadā? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi. Ayaṁ vuccati, bhikkhave, satipaṭṭhānabhāvanāgāminī paṭipadā”ti.
+Này các tỳ kheo, đây là sự *luyện tập* *bốn nơi chú tâm*."
 
-Dasamaṁ.
+Kinh thứ chín.
 
-Ananussutavaggo catuttho.
+<!--pg-->
+### 47.40 Kinh Phân Tích (Vibhaṅgasutta)
 
-Tassuddānaṁ
+"Này các tỳ kheo, Ta sẽ giảng dạy cho các vị về *nơi chú tâm*, sự *luyện tập* *nơi chú tâm*, và con đường dẫn đến sự *luyện tập* *nơi chú tâm*. Hãy lắng nghe điều đó.
 
-> Ananussutaṁ virāgo, viraddho bhāvanā sati; Aññā chandaṁ pariññāya, bhāvanā vibhaṅgena cāti.
+Và này các tỳ kheo, thế nào là *nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; *sống quan sát cảm giác qua cảm giác của mình* [...lặp lại...] *sống quan sát tâm qua tâm của mình* [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây được gọi là *nơi chú tâm*.
 
-### 47.41 Amatasutta
+Và này các tỳ kheo, thế nào là sự *luyện tập* *nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo sống quan sát *tính hình thành* (tập pháp / samudayadhamma) trong cơ thể, sống quan sát *tính hoại diệt* (diệt pháp / vayadhamma) trong cơ thể, sống quan sát cả *tính hình thành* và *tính hoại diệt* trong cơ thể, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Sống quan sát *tính hình thành* trong các *cảm giác* [...lặp lại...] sống quan sát *tính hình thành* trong tâm [...lặp lại...] sống quan sát *tính hình thành* trong các *Điều*, sống quan sát *tính hoại diệt* trong các *Điều*, sống quan sát cả *tính hình thành* và *tính hoại diệt* trong các *Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây được gọi là sự *luyện tập* *nơi chú tâm*.
 
-Sāvatthinidānaṁ.
+Và này các tỳ kheo, thế nào là con đường dẫn đến sự *luyện tập* *nơi chú tâm*? Đó chính là *Tám Bước Thiện* (Bát chánh đạo / ariyo aṭṭhaṅgiko maggo), cụ thể là—*Nhìn thấy Thiện* (Chánh kiến / sammādiṭṭhi), *Suy nghĩ Thiện* (Chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (Chánh ngữ / sammāvācā), *Hành động Thiện* (Chánh nghiệp / sammākammanto), *Đời sống Thiện* (Chánh mạng / sammāājīvo), *Nỗ lực Thiện* (Chánh tinh tấn / sammāvāyāmo), *Trí nhớ không quên Thiện* (Chánh niệm / sammāsati), *Định thiện* (Chánh định / sammāsamādhi). Này các tỳ kheo, đây được gọi là con đường dẫn đến sự *luyện tập* *nơi chú tâm*."
 
-Mā vo amataṁ panassā”ti.
+Kinh thứ mười.
+Phẩm Những Điều Chưa Từng Nghe thứ tư.
 
-Paṭhamaṁ.
+Tóm tắt phẩm:
+> Chưa từng nghe, Ly tham,
+> Bỏ lỡ, Luyện tập, Chú ý,
+> Trí tuệ, Mong muốn, Hiểu trọn vẹn,
+> Luyện tập, và Phân tích.
 
-“Catūsu, bhikkhave, satipaṭṭhānesu suppatiṭṭhitacittā viharatha. Mā vo amataṁ panassa. Katamesu catūsu? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Imesu, bhikkhave, catūsu satipaṭṭhānesu suppatiṭṭhitacittā viharatha.
+<!--pg-->
+### 47.41 Kinh Về Cõi Không Chết (Amatasutta)
 
-### 47.42 Samudayasutta
+Bối cảnh ở Sāvatthi.
 
-“Catunnaṁ, bhikkhave, satipaṭṭhānānaṁ samudayañca atthaṅgamañca desessāmi. Manasikārasamudayā dhammānaṁ samudayo; manasikāranirodhā dhammānaṁ atthaṅgamo”ti.
+"Này các tỳ kheo, hãy sống với tâm được thiết lập vững chắc trong *bốn nơi chú tâm*. Đừng để *cõi không chết* của các vị bị mất đi.
 
-Dutiyaṁ.
+Trong bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, hãy sống với tâm được thiết lập vững chắc trong *bốn nơi chú tâm* này. Đừng để *cõi không chết* của các vị bị mất đi."
 
-Taṁ suṇātha.
+Kinh thứ nhất.
 
-Ko ca, bhikkhave, kāyassa samudayo? Āhārasamudayā kāyassa samudayo; āhāranirodhā kāyassa atthaṅgamo.
+<!--pg-->
+### 47.42 Kinh Về Sự Hình Thành (Samudayasutta)
 
-Phassasamudayā vedanānaṁ samudayo; phassanirodhā vedanānaṁ atthaṅgamo.
+"Này các tỳ kheo, Ta sẽ giảng dạy sự hình thành và sự *tan biến* của *bốn nơi chú tâm*. Hãy lắng nghe điều đó.
 
-Nāmarūpasamudayā cittassa samudayo; nāmarūpanirodhā cittassa atthaṅgamo.
+Và này các tỳ kheo, thế nào là sự hình thành của cơ thể? Với sự hình thành của *thức ăn* (đoàn thực / āhāra), cơ thể hình thành; với sự *chấm dứt* của *thức ăn*, cơ thể *tan biến*.
 
-### 47.43 Maggasutta
+Với sự hình thành của *Xúc* (xúc / phassa), các *cảm giác* hình thành; với sự *chấm dứt* của *Xúc*, các *cảm giác* *tan biến*.
 
-Sāvatthinidānaṁ.
+Với sự hình thành của *Danh-sắc* (danh sắc / nāmarūpa), tâm hình thành; với sự *chấm dứt* của *Danh-sắc*, tâm *tan biến*.
 
-Tatra kho bhagavā bhikkhū āmantesi: “ekamidāhaṁ, bhikkhave, samayaṁ uruvelāyaṁ viharāmi najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho. Tassa mayhaṁ, bhikkhave, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi: ‘ekāyanvāyaṁ maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā.
+Với sự hình thành của *sự suy nghĩ* (tác ý / manasikāra), các *Điều* hình thành; với sự *chấm dứt* của *sự suy nghĩ*, các *Điều* *tan biến*."
 
-Katame cattāro? Kāye vā bhikkhu kāyānupassī vihareyya ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vā bhikkhu vedanānupassī vihareyya …pe… citte vā bhikkhu cittānupassī vihareyya …pe… dhammesu vā bhikkhu dhammānupassī vihareyya ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ekāyanvāyaṁ maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā’ti.
+Kinh thứ hai.
 
-Atha kho, bhikkhave, brahmā sahampati mama cetasā cetoparivitakkamaññāya—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—brahmaloke antarahito mama purato pāturahosi. Atha kho, bhikkhave, brahmā sahampati ekaṁsaṁ uttarāsaṅgaṁ karitvā yenāhaṁ tenañjaliṁ paṇāmetvā maṁ etadavoca: ‘evametaṁ, bhagavā, evametaṁ, sugata. Ekāyanvāyaṁ, bhante, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā.
+<!--pg-->
+### 47.43 Kinh Về Con Đường (Maggasutta)
 
-Katame cattāro? Kāye vā, bhante, bhikkhu kāyānupassī vihareyya ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vā …pe… citte vā …pe… dhammesu vā, bhante, bhikkhu dhammānupassī vihareyya ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ekāyanvāyaṁ, bhante, maggo sattānaṁ visuddhiyā sokaparidevānaṁ samatikkamāya dukkhadomanassānaṁ atthaṅgamāya ñāyassa adhigamāya nibbānassa sacchikiriyāya, yadidaṁ—cattāro satipaṭṭhānā’ti.
+Bối cảnh ở Sāvatthi.
 
-Idamavoca, bhikkhave, brahmā sahampati. Idaṁ vatvā athāparaṁ etadavoca:
+Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo, có một thời Ta đang trú tại Uruvelā, trên bờ sông Nerañjarā, dưới gốc cây banyan Ajapāla, khi vừa mới giác ngộ. Này các tỳ kheo, trong khi Ta đang ở một mình, tĩnh cư, một suy nghĩ như thế này đã khởi lên trong tâm: 'Đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.
 
-> ‘Ekāyanaṁ jātikhayantadassī, Maggaṁ pajānāti hitānukampī; Etena maggena tariṁsu pubbe, Tarissanti ye ca taranti oghan’”ti.
+Bốn nơi nào? Tỳ kheo nên *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; hoặc tỳ kheo nên *sống quan sát cảm giác qua cảm giác của mình* [...lặp lại...] hoặc tỳ kheo nên *sống quan sát tâm qua tâm của mình* [...lặp lại...] hoặc tỳ kheo nên *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.'
 
-Tatiyaṁ.
+Rồi này các tỳ kheo, Phạm thiên Sahampati, biết được suy nghĩ trong tâm Ta bằng tâm của mình—giống như một người lực lưỡng có thể co lại cánh tay đang duỗi ra, hoặc duỗi ra cánh tay đang co lại; cũng vậy—đã biến mất khỏi cõi Phạm thiên và xuất hiện trước mặt Ta. Rồi này các tỳ kheo, Phạm thiên Sahampati đắp y hở một bên vai, chắp tay hướng về phía Ta và nói điều này: 'Đúng vậy, thưa Thế Tôn; đúng vậy, thưa Thiện Thệ. Thưa Tôn giả, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.
 
-### 47.44 Satisutta
+Bốn nơi nào? Thưa Tôn giả, tỳ kheo nên *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; hoặc đối với các *cảm giác* [...lặp lại...] hoặc đối với tâm [...lặp lại...] hoặc thưa Tôn giả, tỳ kheo nên *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Thưa Tôn giả, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.'
 
-“Sato, bhikkhave, bhikkhu vihareyya. Ayaṁ vo amhākaṁ anusāsanī”ti.
+Này các tỳ kheo, Phạm thiên Sahampati đã nói điều này. Sau khi nói điều này, vị ấy lại nói thêm:
 
-Catutthaṁ.
+> 'Bậc thấy rõ sự cạn kiệt của tái sinh,
+> Biết rõ con đường trực tiếp, vì lòng thương tưởng;
+> Bằng con đường này, những vị thuở trước đã vượt qua,
+> Những vị tương lai sẽ vượt qua, và những vị hiện tại đang vượt qua dòng nước lũ.'"
 
-Ayaṁ vo amhākaṁ anusāsanī.
+Kinh thứ ba.
 
-Kathañca, bhikkhave, bhikkhu sato hoti? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ kho, bhikkhave, bhikkhu sato hoti. Sato, bhikkhave, bhikkhu vihareyya.
+<!--pg-->
+### 47.44 Kinh Về Sự Chú Ý (Satisutta)
 
-### 47.45 Kusalarāsisutta
+"Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý*. Đây là lời giáo huấn của Ta dành cho các vị.
 
-“‘Kusalarāsī’ti, bhikkhave, vadamāno cattāro satipaṭṭhāne sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, kusalarāsi, yadidaṁ—cattāro satipaṭṭhānā.
+Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*. Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý*."
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Kinh thứ tư.
 
-‘Kusalarāsī’ti, bhikkhave, vadamāno ime cattāro satipaṭṭhāne sammā vadamāno vadeyya. Kevalo hāyaṁ, bhikkhave, kusalarāsi, yadidaṁ—cattāro satipaṭṭhānā”ti.
+<!--pg-->
+### 47.45 Kinh Về Đống Điều Thiện (Kusalarāsisutta)
 
-Pañcamaṁ.
+"Này các tỳ kheo, khi nói 'Đống *điều thiện* (thiện uẩn / kusalarāsi)', người nói đúng đắn sẽ nói về *bốn nơi chú tâm*. Này các tỳ kheo, đây là toàn bộ đống *điều thiện*, đó chính là—*bốn nơi chú tâm*.
 
-### 47.46 Pātimokkhasaṁvarasutta
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
+Này các tỳ kheo, khi nói 'Đống *điều thiện*', người nói đúng đắn sẽ nói về *bốn nơi chú tâm* này. Này các tỳ kheo, đây là toàn bộ đống *điều thiện*, đó chính là—*bốn nơi chú tâm*."
 
-“Sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
+Kinh thứ năm.
 
-“Tasmātiha tvaṁ, bhikkhu, ādimeva visodhehi kusalesu dhammesu. Ko cādi kusalānaṁ dhammānaṁ? Idha tvaṁ, bhikkhu, pātimokkhasaṁvarasaṁvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhassu sikkhāpadesu. Yato kho tvaṁ, bhikkhu, pātimokkhasaṁvarasaṁvuto viharissasi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī samādāya sikkhassu sikkhāpadesu; tato tvaṁ, bhikkhu, sīlaṁ nissāya sīle patiṭṭhāya cattāro satipaṭṭhāne bhāveyyāsi.
+<!--pg-->
+### 47.46 Kinh Về Sự Bảo Vệ Của Giới Luật Pātimokkha (Pātimokkhasaṁvarasutta)
 
-Katame cattāro? Idha tvaṁ, bhikkhu, kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Rồi một tỳ kheo đi đến chỗ Thế Tôn... [...lặp lại...] ngồi xuống một bên, tỳ kheo ấy thưa với Thế Tôn điều này:
 
-Yato kho tvaṁ, bhikkhu, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne evaṁ bhāvessasi, tato tuyhaṁ, bhikkhu, yā ratti vā divaso vā āgamissati vuddhiyeva pāṭikaṅkhā kusalesu dhammesu, no parihānī”ti.
+"Thưa Tôn giả, thật tốt đẹp biết bao nếu Thế Tôn giảng dạy *Điều* cho con một cách tóm tắt, để sau khi nghe *Điều* từ Thế Tôn, con có thể sống một mình, *rời bỏ* (viễn ly / vūpakaṭṭho), *không sao nhãng* (không phóng dật / appamatto), nhiệt tâm, quyết tâm."
 
-Atha kho so bhikkhu bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+"Vì vậy, này tỳ kheo, ông hãy làm trong sạch phần khởi đầu trong các *điều thiện*. Và thế nào là phần khởi đầu của các *điều thiện*? Ở đây, này tỳ kheo, ông hãy sống *được bảo vệ bởi giới luật Pātimokkha* (Ba-la-đề-mộc-xoa thu thúc giới / pātimokkhasaṁvarasaṁvuto), có *cách cư xử đúng đắn* (oai nghi chánh hạnh / ācāragocarasampanno), *thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt* (kiến úy ư vi tế tội / aṇumattesu vajjesu bhayadassāvī), *rèn luyện và học tập theo các điều học* (thọ trì học tập các học giới / samādāya sikkhassu sikkhāpadesu). Này tỳ kheo, khi nào ông sống *được bảo vệ bởi giới luật Pātimokkha*, có *cách cư xử đúng đắn*, *thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt*, *rèn luyện và học tập theo các điều học*; thì từ đó, này tỳ kheo, nương tựa vào giới, thiết lập vững chắc trên giới, ông hãy *luyện tập* *bốn nơi chú tâm*.
 
-Atha kho so bhikkhu eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati.
+Bốn nơi nào? Ở đây, này tỳ kheo, ông hãy *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi. Aññataro ca pana so bhikkhu arahataṁ ahosīti.
+Này tỳ kheo, khi nào ông nương tựa vào giới, thiết lập vững chắc trên giới và *luyện tập* *bốn nơi chú tâm* này như vậy, thì đối với ông, này tỳ kheo, dù đêm hay ngày trôi qua, chỉ có thể mong đợi sự tăng trưởng trong các *điều thiện*, không có sự *suy thoái*."
 
-Chaṭṭhaṁ.
+Rồi tỳ kheo ấy vui mừng đón nhận và hoan hỷ với lời dạy của Thế Tôn, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu về bên phải rồi rời đi.
 
-### 47.47 Duccaritasutta
+Rồi tỳ kheo ấy sống một mình, *rời bỏ*, *không sao nhãng*, nhiệt tâm, quyết tâm, và không bao lâu sau—mục đích vô thượng của đời sống thánh thiện mà các thiện nam tử đã chân chính rời bỏ gia đình sống không gia đình để hướng tới—vị ấy đã tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và đạt được ngay trong hiện tại.
 
-Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe…
+Vị ấy biết rõ: "*Sự Tái sinh* (sanh / jāti) đã *cạn kiệt* (tận / khīṇā), đời sống thánh thiện đã hoàn tất, việc cần làm đã làm xong, không còn quay lại trạng thái này nữa." Và tỳ kheo ấy đã trở thành một vị A-la-hán.
 
-“sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
+Kinh thứ sáu.
 
-“Tasmātiha tvaṁ, bhikkhu, ādimeva visodhehi kusalesu dhammesu. Ko cādi kusalānaṁ dhammānaṁ? Idha tvaṁ, bhikkhu, kāyaduccaritaṁ pahāya kāyasucaritaṁ bhāvessasi. Vacīduccaritaṁ pahāya vacīsucaritaṁ bhāvessasi. Manoduccaritaṁ pahāya manosucaritaṁ bhāvessasi. Yato kho tvaṁ, bhikkhu, kāyaduccaritaṁ pahāya kāyasucaritaṁ bhāvessasi, vacīduccaritaṁ pahāya vacīsucaritaṁ bhāvessasi, manoduccaritaṁ pahāya manosucaritaṁ bhāvessasi, tato tvaṁ, bhikkhu, sīlaṁ nissāya sīle patiṭṭhāya cattāro satipaṭṭhāne bhāveyyāsi.
+<!--pg-->
+### 47.47 Kinh Về Hành Vi Sai Trái (Duccaritasutta)
 
-Katame cattāro? Idha tvaṁ, bhikkhu, kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Yato kho tvaṁ, bhikkhu, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne evaṁ bhāvessasi, tato tuyhaṁ, bhikkhu, yā ratti vā divaso vā āgamissati vuddhiyeva pāṭikaṅkhā kusalesu dhammesu, no parihānī”ti …pe…
+Rồi một tỳ kheo đi đến chỗ Thế Tôn... [...lặp lại...]
 
-aññataro ca pana so bhikkhu arahataṁ ahosīti.
+"Thưa Tôn giả, thật tốt đẹp biết bao nếu Thế Tôn giảng dạy *Điều* cho con một cách tóm tắt, để sau khi nghe *Điều* từ Thế Tôn, con có thể sống một mình, *rời bỏ*, *không sao nhãng*, nhiệt tâm, quyết tâm."
 
-Sattamaṁ.
+"Vì vậy, này tỳ kheo, ông hãy làm trong sạch phần khởi đầu trong các *điều thiện*. Và thế nào là phần khởi đầu của các *điều thiện*? Ở đây, này tỳ kheo, sau khi *từ bỏ* (đoạn trừ / pahāya) hành vi sai trái của cơ thể, ông hãy *luyện tập* hành vi tốt đẹp của cơ thể. Sau khi *từ bỏ* lời nói sai trái, ông hãy *luyện tập* lời nói tốt đẹp. Sau khi *từ bỏ* suy nghĩ sai trái, ông hãy *luyện tập* suy nghĩ tốt đẹp. Này tỳ kheo, khi nào ông *từ bỏ* hành vi sai trái của cơ thể và *luyện tập* hành vi tốt đẹp của cơ thể, *từ bỏ* lời nói sai trái và *luyện tập* lời nói tốt đẹp, *từ bỏ* suy nghĩ sai trái và *luyện tập* suy nghĩ tốt đẹp; thì từ đó, này tỳ kheo, nương tựa vào giới, thiết lập vững chắc trên giới, ông hãy *luyện tập* *bốn nơi chú tâm*.
 
-### 47.48 Mittasutta
+Bốn nơi nào? Ở đây, này tỳ kheo, ông hãy *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này tỳ kheo, khi nào ông nương tựa vào giới, thiết lập vững chắc trên giới và *luyện tập* *bốn nơi chú tâm* này như vậy, thì đối với ông, này tỳ kheo, dù đêm hay ngày trôi qua, chỉ có thể mong đợi sự tăng trưởng trong các *điều thiện*, không có sự *suy thoái*." [...lặp lại...]
 
-“Ye, bhikkhave, anukampeyyātha, ye ca kho sotabbaṁ maññeyyuṁ mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā.
+Và tỳ kheo ấy đã trở thành một vị A-la-hán.
 
-Katamesaṁ, catunnaṁ? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Kinh thứ bảy.
 
-Ye, bhikkhave, anukampeyyātha, ye ca sotabbaṁ maññeyyuṁ mittā vā amaccā vā ñātī vā sālohitā vā, te vo, bhikkhave, imesaṁ catunnaṁ satipaṭṭhānānaṁ bhāvanāya samādapetabbā nivesetabbā patiṭṭhāpetabbā”ti.
+<!--pg-->
+### 47.48 Kinh Về Bạn Bè (Mittasutta)
 
-Aṭṭhamaṁ.
+"Này các tỳ kheo, những ai mà các vị thương tưởng, và những ai nghĩ rằng nên lắng nghe: bạn bè, đồng nghiệp, người thân, hay người cùng huyết thống; này các tỳ kheo, các vị cần khuyến khích, đưa vào, và thiết lập họ vững chắc trong sự *luyện tập* *bốn nơi chú tâm*.
 
-### 47.49 Vedanāsutta
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-“Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, bhikkhave, tisso vedanā. Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ pariññāya cattāro satipaṭṭhānā bhāvetabbā.
+Này các tỳ kheo, những ai mà các vị thương tưởng, và những ai nghĩ rằng nên lắng nghe: bạn bè, đồng nghiệp, người thân, hay người cùng huyết thống; này các tỳ kheo, các vị cần khuyến khích, đưa vào, và thiết lập họ vững chắc trong sự *luyện tập* *bốn nơi chú tâm* này."
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+Kinh thứ tám.
 
-Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ pariññāya ime cattāro satipaṭṭhānā bhāvetabbā”ti.
+<!--pg-->
+### 47.49 Kinh Về Cảm Giác (Vedanāsutta)
 
-Navamaṁ.
+"Này các tỳ kheo, có ba *cảm giác* này. Ba *cảm giác* nào? *Cảm giác dễ chịu* (thọ lạc / sukhā vedanā), *cảm giác khó chịu* (thọ khổ / dukkhā vedanā), *cảm giác không dễ chịu không khó chịu* (bất khổ bất lạc thọ / adukkhamasukhā vedanā)—này các tỳ kheo, đây là ba *cảm giác*. Này các tỳ kheo, để *hiểu biết trọn vẹn* ba *cảm giác* này, *bốn nơi chú tâm* cần được *luyện tập*.
 
-### 47.50 Āsavasutta
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-“Tayome, bhikkhave āsavā. Katame tayo? Kāmāsavo, bhavāsavo, avijjāsavo—ime kho, bhikkhave, tayo āsavā.
+Này các tỳ kheo, để *hiểu biết trọn vẹn* ba *cảm giác* này, *bốn nơi chú tâm* này cần được *luyện tập*."
 
-Imesaṁ kho, bhikkhave, tiṇṇannaṁ āsavānaṁ pahānāya cattāro satipaṭṭhānā bhāvetabbā.
+Kinh thứ chín.
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+<!--pg-->
+### 47.50 Kinh Về Nguồn Ác (Āsavasutta)
 
-Imesaṁ kho, bhikkhave, tiṇṇannaṁ āsavānaṁ pahānāya ime cattāro satipaṭṭhānā bhāvetabbā”ti.
+"Này các tỳ kheo, có ba *nguồn ác* (lậu hoặc / āsavā) này. Ba *nguồn ác* nào? *Nguồn ác của bản năng* (dục lậu / kāmāsavo), *nguồn ác của mong muốn hiện hữu* (hữu lậu / bhavāsavo), *nguồn ác của Không Hiểu Biết* (vô minh lậu / avijjāsavo)—này các tỳ kheo, đây là ba *nguồn ác*.
 
-Dasamaṁ.
+Này các tỳ kheo, để *từ bỏ* ba *nguồn ác* này, *bốn nơi chú tâm* cần được *luyện tập*.
 
-Amatavaggo pañcamo.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Tassuddānaṁ
+Này các tỳ kheo, để *từ bỏ* ba *nguồn ác* này, *bốn nơi chú tâm* này cần được *luyện tập*."
 
-> Amataṁ samudayo maggo, Sati kusalarāsi ca; Pātimokkhaṁ duccaritaṁ, Mittavedanā āsavena cāti.
+Kinh thứ mười.
+Phẩm Cõi Không Chết thứ năm.
 
-### 47.51-62 Gaṅgānadīādisuttadvādasaka
+Tóm tắt phẩm:
+> Cõi không chết, Sự hình thành, Con đường,
+> Chú ý, và Đống điều thiện;
+> Pātimokkha, Hành vi sai trái,
+> Bạn bè, Cảm giác, cùng Nguồn ác.
 
-“Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu cattāro satipaṭṭhāne bhāvento cattāro satipaṭṭhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+<!--pg-->
+### 47.51-62 Mười Hai Kinh Bắt Đầu Bằng Sông Hằng (Gaṅgānadīādisuttadvādasaka)
 
-Kathañca, bhikkhave, bhikkhu cattāro satipaṭṭhāne bhāvento cattāro satipaṭṭhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+"Giống như, này các tỳ kheo, sông Hằng chảy về hướng Đông, hướng về hướng Đông, đổ về hướng Đông; cũng vậy, này các tỳ kheo, tỳ kheo *luyện tập* *bốn nơi chú tâm*, làm cho nhiều lên *bốn nơi chú tâm*, thì chảy về Niết-bàn, hướng về Niết-bàn, đổ về Niết-bàn.
 
-Evaṁ kho, bhikkhave, bhikkhu cattāro satipaṭṭhāne bhāvento cattāro satipaṭṭhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro”ti vitthāretabbaṁ.
+Và này các tỳ kheo, thế nào là tỳ kheo *luyện tập* *bốn nơi chú tâm*, làm cho nhiều lên *bốn nơi chú tâm*, thì chảy về Niết-bàn, hướng về Niết-bàn, đổ về Niết-bàn? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Gaṅgāpeyyālavaggo chaṭṭho.
+Như vậy, này các tỳ kheo, là tỳ kheo *luyện tập* *bốn nơi chú tâm*, làm cho nhiều lên *bốn nơi chú tâm*, thì chảy về Niết-bàn, hướng về Niết-bàn, đổ về Niết-bàn." [Cần được khai triển chi tiết].
 
-Tassuddānaṁ
+Phẩm Lặp Lại Sông Hằng thứ sáu.
 
-> Cha pācīnato ninnā, cha ninnā ca samuddato; Ete dve cha dvādasa honti, vaggo tena pavuccatīti.
+Tóm tắt phẩm:
+> Sáu hướng về phía Đông, Sáu đổ ra đại dương;
+> Hai lần sáu là mười hai, Do đó gọi là phẩm.
 
-### 47.63-72 Tathāgatādisutta
+<!--pg-->
+### 47.63-72 Các Kinh Bắt Đầu Bằng Người Đến Như Vậy (Tathāgatādisutta)
 
-“Yāvatā, bhikkhave, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā”ti
+"Cho đến chừng nào, này các tỳ kheo, có các chúng sinh không chân, hai chân, bốn chân, hay nhiều chân..."
 
-vitthāretabbaṁ.
+[Cần được khai triển chi tiết].
 
-Appamādavaggo sattamo.
+Phẩm Không Sao Nhãng thứ bảy.
 
-Tassuddānaṁ
+Tóm tắt phẩm:
+> Người Đến Như Vậy, Dấu chân, Đỉnh nóc,
+> Rễ, Lõi cây, và Hoa nhài;
+> Vua, Mặt trăng, Mặt trời,
+> Cùng với Vải là mười.
 
-> Tathāgataṁ padaṁ kūṭaṁ, mūlaṁ sāro ca vassikaṁ; Rājā candimasūriyā, vatthena dasamaṁ padanti.
+<!--pg-->
+### 47.73-84 Các Kinh Bắt Đầu Bằng Sức Mạnh (Balādisutta)
 
-### 47.73-84 Balādisutta
+"Giống như, này các tỳ kheo, bất cứ công việc nào cần dùng sức mạnh được thực hiện..."
 
-“Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyantī”ti
+[Cần được khai triển chi tiết].
 
-vitthāretabbaṁ.
+Phẩm Công Việc Cần Sức Mạnh thứ tám.
 
-Balakaraṇīyavaggo aṭṭhamo.
+Tóm tắt phẩm:
+> Sức mạnh, Hạt giống, và Rắn chúa,
+> Cây, Bình nước, Cây có gai;
+> Bầu trời, và Hai đám mây,
+> Thuyền, Khách, cùng với Sông.
 
-Tassuddānaṁ
+<!--pg-->
+### 47.85-94 Các Kinh Bắt Đầu Bằng Sự Tìm Kiếm (Esanādisutta)
 
-> Balaṁ bījañca nāgo ca, rukkho kumbhena sūkiyā; Ākāsena ca dve meghā, nāvā āgantukā nadīti.
+"Này các tỳ kheo, có ba sự tìm kiếm này. Ba sự tìm kiếm nào? Sự tìm kiếm *bản năng* (dục / kāma), sự tìm kiếm sự tồn tại, sự tìm kiếm đời sống thánh thiện..."
 
-### 47.85-94 Esanādisutta
+[Cần được khai triển chi tiết].
 
-“Tisso imā, bhikkhave, esanā. Katamā tisso? Kāmesanā, bhavesanā, brahmacariyesanā”ti
+Phẩm Sự Tìm Kiếm thứ chín.
 
-vitthāretabbaṁ.
+Tóm tắt phẩm:
+> Tìm kiếm, Kiêu mạn, Nguồn ác,
+> Tồn tại, và Ba đau khổ;
+> Cứng nhắc, Cấu uế, và Khổ não,
+> Cảm giác, Mong muốn, cùng Khát ái.
 
-Esanāvaggo navamo.
+<!--pg-->
+### 47.95-104 Các Kinh Bắt Đầu Bằng Xiềng Xích Bề Trên (Uddhambhāgiyādisutta)
 
-Tassuddānaṁ
+"Này các tỳ kheo, có năm *xiềng xích bề trên* (thượng phần kiết sử / uddhambhāgiyāni saṁyojanāni) này. Năm *xiềng xích* nào? *Đắm nhiễm Cõi vật chất* (sắc ái / rūparāgo), *đắm nhiễm Cõi phi vật chất* (vô sắc ái / arūparāgo), *ngạo mạn* (mạn / māno), *bồn chồn* (trạo cử / uddhaccaṁ), *không hiểu biết* (vô minh / avijjā)—này các tỳ kheo, đây là năm *xiềng xích bề trên*.
 
-> Esanā vidhā āsavo, Bhavo ca dukkhatā tisso; Khilaṁ malañca nīgho ca, Vedanā taṇhā tasināya cāti.
+Này các tỳ kheo, để *hiểu toàn bộ*, để *hiểu biết trọn vẹn*, để *cạn kiệt* hoàn toàn, để *từ bỏ* năm *xiềng xích bề trên* này, *bốn nơi chú tâm* cần được *luyện tập*.
 
-### 47.95-104 Uddhambhāgiyādisutta
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-“Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+Này các tỳ kheo, để *hiểu toàn bộ*, để *hiểu biết trọn vẹn*, để *cạn kiệt* hoàn toàn, để *từ bỏ* năm *xiềng xích bề trên* này, *bốn nơi chú tâm* này cần được *luyện tập*."
 
-Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya cattāro satipaṭṭhānā bhāvetabbā.
+Kinh thứ mười.
 
-Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+(Giống như Tương ưng Con đường, Tương ưng Bốn nơi chú tâm cũng cần được khai triển chi tiết như vậy.)
 
-Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya ime cattāro satipaṭṭhānā bhāvetabbā”ti.
+Phẩm Dòng Nước Lũ thứ mười.
 
-Dasamaṁ.
+Tóm tắt phẩm:
+> Dòng lũ, Ách, Bám giữ,
+> Trói buộc, cùng Khuynh hướng ngầm;
+> Sợi dây bản năng, Điều làm mờ yếu,
+> Tập hợp, Xiềng xích bề dưới và bề trên.
 
-(Yathā maggasaṁyuttaṁ tathā satipaṭṭhānasaṁyuttaṁ vitthāretabbaṁ.)
-
-Oghavaggo dasamo.
-
-Tassuddānaṁ
-
-> Ogho yogo upādānaṁ, ganthā anusayena ca; Kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyāti.
-
-Satipaṭṭhānasaṁyuttaṁ tatiyaṁ.
+Tương ưng Bốn nơi chú tâm thứ ba.

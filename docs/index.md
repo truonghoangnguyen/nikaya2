@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Kinh Nikaya - Phật Giáo Nguyên Thủy Online 
-description: Kinh Nikaya online trọn bộ — Trường Bộ (DN), Trung Bộ (MN), Tương Ưng (SN), Tăng Chi (AN), Tiểu Bộ (KN). Pali–Việt–Anh. Tìm kiếm bài kinh bất kỳ.
+title: Kinh Phật Giáo Nguyên Thủy - Pali, Việt, Anh
+description: Kinh Nikaya gồm Kinh Trường Bộ (DN), Trung Bộ (MN), Tương Ưng Bộ (SN), Tăng Chi Bộ (AN), Tiểu Bộ (KN). Pali–Việt–Anh. Tìm kiếm bài kinh bất kỳ.
 
 head:
   - - script
@@ -16,7 +16,7 @@ head:
             "@id": "https://kinhnikaya.org/#org",
             "name": "Kinh Nikāya",
             "url": "https://kinhnikaya.org/",
-             "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
+             "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.ico"}
             },
             {
             "@type": "WebSite",
