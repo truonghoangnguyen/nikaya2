@@ -207,7 +207,7 @@ Lại nữa, thưa các hiền giả, tỳ kheo có thể nói như sau: 'Sự g
 
 Lại nữa, thưa các hiền giả, tỳ kheo có thể nói như sau: 'Sự giải thoát của tâm bằng *Tâm cùng vui* (hỷ / muditā) đã được ta *phát triển* [...lặp lại...] nhưng sự bất mãn vẫn xâm chiếm và an trú trong tâm ta'. Vị ấy cần được nói rằng: 'Đừng nói như vậy, thưa Tôn giả. Đừng nói như vậy [...lặp lại...] Đây chính là sự *thoát khỏi* sự bất mãn, thưa các hiền giả, tức là sự giải thoát của tâm bằng *Tâm cùng vui*'.
 
-Lại nữa, thưa các hiền giả, tỳ kheo có thể nói như sau: 'Sự giải thoát của tâm bằng *Tâm bình thản* (xả / upekkhā) đã được ta *phát triển* [...lặp lại...] nhưng sự *đắm nhiễm* (tham / rāgo) vẫn xâm chiếm và an trú trong tâm ta'. Vị ấy cần được nói rằng: 'Đừng nói như vậy, thưa Tôn giả. Đừng nói như vậy [...lặp lại...] Đây chính là sự *thoát khỏi* sự *đắm nhiễm*, thưa các hiền giả, tức là sự giải thoát của tâm bằng *Tâm bình thản*'.
+Lại nữa, thưa các hiền giả, tỳ kheo có thể nói như sau: 'Sự giải thoát của tâm bằng *tâm quân bình* (xả / upekkhā) đã được ta *phát triển* [...lặp lại...] nhưng sự *đắm nhiễm* (tham / rāgo) vẫn xâm chiếm và an trú trong tâm ta'. Vị ấy cần được nói rằng: 'Đừng nói như vậy, thưa Tôn giả. Đừng nói như vậy [...lặp lại...] Đây chính là sự *thoát khỏi* sự *đắm nhiễm*, thưa các hiền giả, tức là sự giải thoát của tâm bằng *tâm quân bình*'.
 
 Lại nữa, thưa các hiền giả, tỳ kheo có thể nói như sau: 'Sự giải thoát của tâm không chạy theo *hình dáng* (vô tướng / animittā) đã được ta *phát triển* [...lặp lại...] nhưng *'Cái Biết'* chạy theo *hình dáng* vẫn khởi lên trong ta'. Vị ấy cần được nói rằng: 'Đừng nói như vậy, thưa Tôn giả. Đừng nói như vậy [...lặp lại...] Đây chính là sự *thoát khỏi* mọi *hình dáng*, thưa các hiền giả, tức là sự giải thoát của tâm không chạy theo *hình dáng*'.
 
@@ -496,9 +496,9 @@ Mười *Điều* nào *khó thâm nhập*? Mười *trạng thái an trú của
 
 Thế nào, này các bạn, là vị tỳ-kheo đã loại bỏ năm yếu tố? Này các bạn, ở đây, vị tỳ-kheo đã *từ bỏ* *muốn thỏa mãn bản năng* (dục tham / kāmacchanda), đã *từ bỏ* *ác ý hãm hại* (sân hận / byāpāda), đã *từ bỏ* *uể oải, buồn ngủ* (hôn trầm thụy miên / thinamiddhaṁ), đã *từ bỏ* *bồn chồn, hối hận* (trạo cử hối quá / uddhaccakukkuccaṁ), đã *từ bỏ* *nghi ngờ* (nghi / vicikicchā). Như vậy, này các bạn, là vị tỳ-kheo đã loại bỏ năm yếu tố.
 
-Thế nào, này các bạn, là vị tỳ-kheo thành tựu sáu yếu tố? Này các bạn, ở đây, vị tỳ-kheo khi thấy *hình ảnh* bằng mắt, không vui mừng cũng không buồn bã, an trú trong *Tâm bình thản* (xả / upekkhako), *chú tâm* và *nhận biết rõ ràng* (tỉnh giác / sampajāno). Khi nghe âm thanh bằng tai [...lặp lại...] ngửi mùi bằng mũi ... nếm vị bằng lưỡi ...
+Thế nào, này các bạn, là vị tỳ-kheo thành tựu sáu yếu tố? Này các bạn, ở đây, vị tỳ-kheo khi thấy *hình ảnh* bằng mắt, không vui mừng cũng không buồn bã, an trú trong *tâm quân bình* (xả / upekkhako), *chú tâm* và *nhận biết rõ ràng* (tỉnh giác / sampajāno). Khi nghe âm thanh bằng tai [...lặp lại...] ngửi mùi bằng mũi ... nếm vị bằng lưỡi ...
 
-chạm xúc bằng thân ... nhận biết *Điều* bằng não, không vui mừng cũng không buồn bã, an trú trong *Tâm bình thản*, *chú tâm* và *nhận biết rõ ràng*. Như vậy, này các bạn, là vị tỳ-kheo thành tựu sáu yếu tố.
+chạm xúc bằng thân ... nhận biết *Điều* bằng não, không vui mừng cũng không buồn bã, an trú trong *tâm quân bình*, *chú tâm* và *nhận biết rõ ràng*. Như vậy, này các bạn, là vị tỳ-kheo thành tựu sáu yếu tố.
 
 Thế nào, này các bạn, là vị tỳ-kheo có một sự bảo vệ? Này các bạn, ở đây, vị tỳ-kheo được trang bị tâm được bảo vệ bởi sự *chú tâm*. Như vậy, này các bạn, là vị tỳ-kheo có một sự bảo vệ.
 
@@ -510,7 +510,7 @@ Thế nào, này các bạn, là vị tỳ-kheo đã từ bỏ hoàn toàn việ
 
 Thế nào, này các bạn, là vị tỳ-kheo có suy nghĩ không vẩn đục? Này các bạn, ở đây, đối với vị tỳ-kheo, suy nghĩ về *phản ứng bản năng* đã bị *từ bỏ*, suy nghĩ về *ác ý hãm hại* đã bị *từ bỏ*, suy nghĩ về sự hãm hại đã bị *từ bỏ*. Như vậy, này các bạn, là vị tỳ-kheo có suy nghĩ không vẩn đục.
 
-Thế nào, này các bạn, là vị tỳ-kheo có hoạt động cơ thể *lắng dịu*? Này các bạn, ở đây, vị tỳ-kheo do *từ bỏ* *hạnh phúc* và *từ bỏ* *đau khổ*, cùng với sự *tan biến* của *thanh thản* và *ưu phiền* từ trước, đạt đến và an trú trong *Thiền-na* thứ tư, không *đau khổ* không *hạnh phúc*, có sự trong sạch của *chú tâm* nhờ *Tâm bình thản*. Như vậy, này các bạn, là vị tỳ-kheo có hoạt động cơ thể *lắng dịu*.
+Thế nào, này các bạn, là vị tỳ-kheo có hoạt động cơ thể *lắng dịu*? Này các bạn, ở đây, vị tỳ-kheo do *từ bỏ* *hạnh phúc* và *từ bỏ* *đau khổ*, cùng với sự *tan biến* của *thanh thản* và *ưu phiền* từ trước, đạt đến và an trú trong *Thiền-na* thứ tư, không *đau khổ* không *hạnh phúc*, có sự trong sạch của *chú tâm* nhờ *tâm quân bình*. Như vậy, này các bạn, là vị tỳ-kheo có hoạt động cơ thể *lắng dịu*.
 
 Thế nào, này các bạn, là vị tỳ-kheo có tâm khéo giải thoát? Này các bạn, ở đây, đối với vị tỳ-kheo, tâm được giải thoát khỏi sự *đắm nhiễm*, tâm được giải thoát khỏi sự ghét bỏ, tâm được giải thoát khỏi sự *Không Hiểu Biết*. Như vậy, này các bạn, là vị tỳ-kheo có tâm khéo giải thoát.
 

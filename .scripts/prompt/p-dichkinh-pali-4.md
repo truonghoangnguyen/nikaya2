@@ -195,7 +195,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | từ (Mettā)  | Tâm yêu thương | |
 | bi (Karuṇā) | Tâm thông cảm | |
 | hỉ (muditā) | Tâm cùng vui | |
-| xả (upekkhā) | Tâm bình thản | |
+| xả (upekkhā) | Tâm quân bình | |
 | xả (pahānā) | hoàn toàn từ bỏ | |
 | hỷ (pīti) | hân hoan | Cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
 | hỷ (somanassa) | thanh thản | cảm giác tích cực phát ra từ tâm lý |
@@ -276,7 +276,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | Hỷ giác chi(Pīti-sambojjhaṅga) | dấu hiệu sự hân hoan | |
 | Khinh an giác chi(Passaddhi-sambojjhaṅga) | Dấu hiệu cơ thể lắng dịu | |
 | Định giác chi(Samādhi-sambojjhaṅga) | dấu hiệu Định | |
-| Xả giác chi(Upekkhā-sambojjhaṅga) | dấu hiệu Tâm cân bằng | |
+| Xả giác chi(Upekkhā-sambojjhaṅga) | dấu hiệu Tâm quân bình | |
 | 5 triền cái (Pañca Nīvaraṇāni) | Năm điều làm mờ yếu | |
 | dục tham(Kāmacchanda) | muốn thỏa mãn bản năng | |
 | sân hận(Byāpāda) | ác ý hãm hại | |

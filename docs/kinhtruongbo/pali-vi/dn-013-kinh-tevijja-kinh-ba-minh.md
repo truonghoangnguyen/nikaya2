@@ -224,9 +224,9 @@ Lại nữa, này Vāseṭṭha, vị tỳ-kheo với tâm câu hữu với *Tâ
 
 với tâm câu hữu với *Tâm cùng vui* (hỷ / muditā) [...]
 
-vị ấy an trú, biến mãn một phương với tâm câu hữu với *Tâm bình thản* (xả / upekkhā). Cũng vậy phương thứ hai. Cũng vậy phương thứ ba. Cũng vậy phương thứ tư. Như vậy, cùng khắp phía trên, phía dưới, bề ngang, ở mọi nơi, đến mọi loài như đến chính mình, vị ấy an trú, biến mãn toàn bộ thế giới với tâm câu hữu với *Tâm bình thản*, rộng lớn, to lớn, *không giới hạn*, không oán thù, không ác ý.
+vị ấy an trú, biến mãn một phương với tâm câu hữu với *tâm quân bình* (xả / upekkhā). Cũng vậy phương thứ hai. Cũng vậy phương thứ ba. Cũng vậy phương thứ tư. Như vậy, cùng khắp phía trên, phía dưới, bề ngang, ở mọi nơi, đến mọi loài như đến chính mình, vị ấy an trú, biến mãn toàn bộ thế giới với tâm câu hữu với *tâm quân bình*, rộng lớn, to lớn, *không giới hạn*, không oán thù, không ác ý.
 
-Này Vāseṭṭha, giống như một người thổi tù và mạnh mẽ có thể dễ dàng làm cho âm thanh vang xa khắp bốn phương; cũng vậy, này Vāseṭṭha, với sự giải thoát tâm bằng *Tâm bình thản* được tu tập như vậy, bất kỳ nghiệp nào được làm có giới hạn sẽ không thể đọng lại ở đó, không thể tồn tại ở đó. Đây cũng là con đường dẫn đến *sự hòa nhập cùng Phạm thiên*.
+Này Vāseṭṭha, giống như một người thổi tù và mạnh mẽ có thể dễ dàng làm cho âm thanh vang xa khắp bốn phương; cũng vậy, này Vāseṭṭha, với sự giải thoát tâm bằng *tâm quân bình* được tu tập như vậy, bất kỳ nghiệp nào được làm có giới hạn sẽ không thể đọng lại ở đó, không thể tồn tại ở đó. Đây cũng là con đường dẫn đến *sự hòa nhập cùng Phạm thiên*.
 
 Ngươi nghĩ sao, Vāseṭṭha, một vị tỳ-kheo sống như vậy thì *có bám giữ sở hữu* hay *không bám giữ sở hữu*?"
 "Là *không bám giữ sở hữu*, thưa tôn giả Gotama."

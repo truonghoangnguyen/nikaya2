@@ -81,7 +81,7 @@ Tỳ kheo quan sát các hiện tượng tâm lý và quy luật tự nhiên qua
 | vicāra | tứ | *nỗ lực duy trì sự chú ý* | |
 | pīti | hỷ | *hân hoan* | |
 | sukha | lạc | *hạnh phúc* / *cảm giác dễ chịu* | |
-| upekkhā | xả | *Tâm bình thản* | |
+| upekkhā | xả | *tâm quân bình* | |
 | somanassa | hỷ | *thanh thản* | |
 | abhinandunti | hoan hỷ | *vui mừng đón nhận* | |
 | jāti | sinh | *sự Tái sinh* | |

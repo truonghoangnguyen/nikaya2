@@ -62,7 +62,7 @@ Ngài khẳng định, những ai thực hành trọn vẹn con đường này s
 | mettā | từ | *Tâm yêu thương* | |
 | karuṇā | bi | *Tâm thông cảm* | |
 | muditā | hỷ | *Tâm cùng vui* | |
-| upekkhā | xả | *Tâm bình thản* | |
+| upekkhā | xả | *tâm quân bình* | |
 | nibbāna | Niết-bàn | Niết-bàn | |
 | sammādiṭṭhi | Chánh kiến | *Nhìn Thấy Thiện* | |
 | sammāsaṅkappa | Chánh tư duy | *Suy Nghĩ Thiện* | |

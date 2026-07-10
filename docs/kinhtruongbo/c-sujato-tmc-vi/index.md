@@ -87,7 +87,7 @@ head:
             "itemListElement": [
                 { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
                 { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-                { "@type": "ListItem", "position": 3, "name": "Kinh Trường Bộ — Bản song song Sujato-Thích Minh Châu", "item": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/"  }
+                { "@type": "ListItem", "position": 3, "name": "Kinh Trường Bộ - Bản song song Sujato-Thích Minh Châu", "item": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/"  }
             ]
             }
         ]

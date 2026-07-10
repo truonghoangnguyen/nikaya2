@@ -63,10 +63,10 @@ Nhìn bình thản
 -------
 upekkhako satimā sukhavihārī
 "Người có tâm xả, có chánh niệm và an trú trong hạnh phúc".
-"Người trong hạnh phúc, có *Tâm bình thản* và sự *Tự quan sát* "
+"Người trong hạnh phúc, có *tâm quân bình* và sự *Tự quan sát* "
 Xả niệm lạc trú
-"*Tâm bình thản*; có sự *Tự quan sát* trong trạng thái hạnh phúc"
-"Người đang *Tự quan sát* với *Tâm bình thản* trong hạnh phúc"
+"*tâm quân bình*; có sự *Tự quan sát* trong trạng thái hạnh phúc"
+"Người đang *Tự quan sát* với *tâm quân bình* trong hạnh phúc"
 
 ---
 diệt

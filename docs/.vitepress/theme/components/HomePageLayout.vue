@@ -1,6 +1,6 @@
   <template>
   <div class="home-container">
-    <h1 style="text-align: center;">Kinh Nikaya - Đọc song song Pali, Việt, Anh</h1>
+    <h1 style="text-align: center;">Kinh Nikaya, đọc song song Pali, Việt, Anh</h1>
     <br><br>
     <div class="hero-section">
       <div class="quote-split-layout">
