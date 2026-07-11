@@ -820,6 +820,13 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     //['base', { target: '_blank' }],
+    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-WF7YCB87LW' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-WF7YCB87LW');
+    `],
     ['script', { type: 'text/javascript', async: '' }, `
        (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
