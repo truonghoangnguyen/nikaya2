@@ -333,6 +333,8 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | pasanno | niềm tin tuyệt đối | |
 | sammappadhānā | Siêng năng thiện | |
 | kāma-/rūpa-/arūpa | bản năng-vật chất-phi vật chất | |
+| tùy miên (anusaya) | chảy ngầm| |
+| hý luận (papañca) | phóng đại | |
 </Vocabulary-Mapping>
 
 ### 4.1 Những từ giữ nguyên

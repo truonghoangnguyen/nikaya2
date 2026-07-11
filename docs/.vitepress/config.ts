@@ -820,7 +820,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     //['base', { target: '_blank' }],
-    ['script', { type: 'text/javascript' }, `
+    ['script', { type: 'text/javascript', async: '' }, `
        (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;

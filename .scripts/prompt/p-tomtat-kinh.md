@@ -4,7 +4,7 @@
 ```
 # DN 13. KINH TEVIJJA (Tóm lược)
 
-[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-013){class="note-link" }
+[Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-013){class="note-link"}
 
 **Bối cảnh:**
 Khi Đức Phật đang lưu trú tại làng Manasākaṭa, hai thanh niên Bà-la-môn là Vāseṭṭha và Bhāradvāja xảy ra tranh cãi.

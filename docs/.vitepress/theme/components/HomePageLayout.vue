@@ -34,9 +34,19 @@
         <div class="quote-image-right">
           <div class="image-box">
             <picture v-if="currentImage">
-              <source :srcset="currentImage" type="image/webp" />
-              <img :src="currentFallbackImage" alt="Trích dẫn Kinh Nikaya" class="featured-img"
-                width="345" height="460" fetchpriority="high" decoding="async" />
+              <source
+                :srcset="`${currentImage400} 400w, ${currentImage} 700w`"
+                sizes="(max-width: 960px) 100vw, 345px"
+                type="image/webp"
+              />
+              <img
+                :src="currentFallbackImage"
+                alt="Trích dẫn Kinh Nikaya"
+                class="featured-img"
+                width="345" height="460"
+                fetchpriority="high"
+                decoding="async"
+              />
             </picture>
           </div>
         </div>
@@ -48,8 +58,18 @@
         <a v-for="book in config.books" :key="book.id" :href="book.link" class="book-card">
           <div class="book-cover">
             <picture>
-              <source :srcset="book.cover" type="image/webp" />
-              <img :src="getFallbackCover(book.cover)" :alt="book.title + ' - Kinh Nikaya-Phật Giáo Nguyên Thủy Online (Pali - Việt - Anh)'" width="300" height="450" loading="lazy" decoding="async">
+              <source
+                :srcset="`${getCoverVariant(book.cover, 300)} 300w, ${getCoverVariant(book.cover, 600)} 600w`"
+                sizes="(max-width: 640px) calc(100vw - 3rem), (max-width: 960px) calc(50vw - 3rem), 300px"
+                type="image/webp"
+              />
+              <img
+                :src="getFallbackCover(book.cover)"
+                :alt="book.title + ' - Kinh Nikaya-Phật Giáo Nguyên Thủy Online (Pali - Việt - Anh)'"
+                width="300" height="450"
+                loading="lazy"
+                decoding="async"
+              >
             </picture>
           </div>
           <div class="book-info">
@@ -76,6 +96,18 @@ const currentFallbackImage = computed(() => {
   if (!currentImage.value) return ''
   return currentImage.value.replace(/\.webp$/, '.png')
 })
+
+// Responsive image variant: /quote/foo.webp → /quote/foo-400w.webp
+const currentImage400 = computed(() => {
+  if (!currentImage.value) return ''
+  return currentImage.value.replace(/\.webp$/, '-400w.webp')
+})
+
+// /covers/kinhtruongbo.webp → /covers/kinhtruongbo-300w.webp
+const getCoverVariant = (cover, width) => {
+  if (!cover) return ''
+  return cover.replace(/\.webp$/, `-${width}w.webp`)
+}
 
 const getFallbackCover = (cover) => {
   if (!cover) return ''

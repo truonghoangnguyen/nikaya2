@@ -1,9 +1,12 @@
-# 18. KINH MẬT HOÀN
+---
+ tags:
+  - Mahākaccāna
+---
 
-**18. KINH MẬT HOÀN**
+# 18. KINH MẬT HOÀN
 ***(Madhupindika Sutta)***
 
-## Tôi nghe như vầy:
+Tôi nghe như vầy:
 
 Một thời, Thế Tôn sống giữa các vị dòng họ Sakka (Thích-ca), tại Kapilavatthu (Ca-tỳ-la-vệ), ở vườn
 Nigrodharama.
