@@ -26,3 +26,4 @@ scripts
 docs/public/compare-lookup.json
 docs/public/compare-data/
 .hatch-pet-runs/
+.pnpm-store/

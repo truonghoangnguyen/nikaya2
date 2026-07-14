@@ -15,7 +15,7 @@ Phong cảnh này vào thời đức Phật là vùng rừng rậm, trải dài 
 ![Bản đồ ấn độ](images/chuong-1.jpg)
 *Bản đồ 4 thánh tích và nhiệt độ trong năm ở Ấn Độ*
 
-![4-thánh-tich-phật.png](images/4-thánh-tich-phật.png)
+![4-thánh-tich-phật.png](images/4-thanh-tich-phat.png)
 *Bản đồ 4 thánh tích và các địa điểm lịch sử quan trọng liên quan đến cuộc đời Đức Phật và Tăng đoàn (làm rõ bởi AI)*
 
 | English                 | Nghĩa                           | Giải thích                                                                                                                                                              |
