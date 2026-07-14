@@ -107,8 +107,8 @@ Tuy nhiên việc phá hủy Bảo Tháp Dharma-ràjika và khám phá xá-lợi
 
 Từ Lộc Uyển ở Isipatana (Sàrnàth ngày nay), đức Phật ít thích đến viếng thành phố Benares. Ngoài khoảng cách chừng một giờ rưỡi đi bộ, còn phải băng qua sông Varunà, (nay là Barnà) và phải di chuyển bằng phà có trả tiền là thứ mà một khất sĩ không cất giữ! Nhất là dân Benares thường chống đối đám du sĩ hành khất nên khó kiếm được thực phẩm bố thí ở đó.
 
-![khu di tích khảo cổ Sarnath (Lộc Uyển, Isipatana) ở bang Uttar Pradesh, Ấn Độ.](images/sarnath.png)
-*khu di tích khảo cổ Sarnath (Lộc Uyển, Isipatana) ở bang Uttar Pradesh, Ấn Độ.*
+![khu di tích khảo cổ Sarnath (Lộc Uyển, Isipatana) ở bang Uttar Pradesh, Ấn Độ](images/di-tich-sarnath.png)
+*khu di tích khảo cổ Sarnath (Lộc Uyển, Isipatana) ở bang Uttar Pradesh, Ấn Độ*
 
 Tuy nhiên, mối liên lạc với Benares đã được thiết lập sẵn dành cho đức Phật mà không cần ngài phải làm gì cả. Việc đó là do thanh niên Yasa (Da-xá), nam tử của một thương nhân hào phú, chủ tịch một nghiệp đoàn ở Benares, có lẽ là chủ ngân khố hoặc thương nhân tơ lụa bán sỉ. Yasa là một thanh niên được nuông chìu mọi mặt quá thỏa mãn với cuộc sống truy hoan đã làm cho nội tâm chàng trống rỗng. Kinh Ðiển Pàli (Mv1.7) nhắc đến ba ngôi nhà chàng ở theo từng mùa, đám nữ vũ công bao vây chàng, song chàng vẫn hờ hững dửng dưng, cùng đôi hài bằng vàng - có lẽ được thêu chỉ bằng vàng - mà chàng mang thuở đó.
 
