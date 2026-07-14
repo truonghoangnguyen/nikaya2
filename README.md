@@ -129,6 +129,20 @@ Yêu cầu: Node.js + pnpm. Build cần ~4 GB heap (đã set `--max-old-space-si
 
 ---
 
+## dev/ru
+- pnpm dev
+- pnpm build
+- pnpm preview (chạy pnpm build trước)
+- pnpm fulltest (test)
+
+### test môi trường gần production nhất:
+docker run --rm \
+  -e CI=true \
+  -v "$(pwd):/app" \
+  -w /app \
+  node:24 \
+  bash -lc "corepack enable && pnpm install --frozen-lockfile && pnpm build"
+
 ## Đóng góp
 
 Repo: <https://github.com/truonghoangnguyen/nikaya2>. PR và issue đều hoan nghênh — đặc biệt là báo lỗi chính tả, sai chú thích, hay đóng góp bản dịch mới.

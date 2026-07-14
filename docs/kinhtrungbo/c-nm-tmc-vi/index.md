@@ -531,7 +531,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Tỷ kheo Thích Minh Châu",
+                  "name": "Bản đọc song song Ñāṇamoli & Bodhi - Thích Minh Châu",
                   "item": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/"
                 }
               ]

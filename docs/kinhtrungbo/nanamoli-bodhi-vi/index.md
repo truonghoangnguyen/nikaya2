@@ -597,7 +597,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
+                  "name": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Việt)",
                   "item": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/"
                 }
               ]
