@@ -53,8 +53,8 @@ Sau đó nhà vua thỉnh cầu đức Phật cùng chúng Tăng thọ trai ngà
 
 Sáng hôm sau, vua Bimbisàra tự thân phục vụ đức Phật và Tăng chúng - một vinh dự lớn lao hiếm khi được dành cho ai. Song nhà vua còn để dành một ngạc nhiên đầy kỳ thú hơn nữa: nhà vua tuyên bố cúng dường một tặng vật lên "Tăng chúng với đức Phật là bậc thượng thủ", đó là ngự viên Veluvana (Trúc Lâm), nằm ngay trước Bắc môn thành Ràjagaha, để bậc Ðạo Sư có thể an cư tại đó cũng gần kinh thành, nhưng lại ở trong một vùng yên tĩnh, dễ ra vào cho khách vãng lai, mà cũng tiện ẩn dật.
 
-![Veluvana (Trúc Lâm)](images/Veluvana-Trúc-Lâm.png)
-![Veluvana (Trúc Lâm)](images/Veluvana-Trúc-Lâm2.png)
+![Veluvana (Trúc Lâm)](images/veluvana-truc-lam.png)
+![Veluvana (Trúc Lâm)](images/veluvana-truc-lam2.png)
 *Tinh xá Trúc Lâm, thuộc Ma-kiệt-đà, do vua Tần-bà-sa-la (Bimbisāra) hiến cúng cho Phật. Trong Kinh tạng Pāli, địa danh này thường gắn với khu Kalandakanivāpa (thường dịch: 'chỗ cho sóc ăn')*
 
 Sự cúng dường được công bố có hiệu lực pháp lý theo nghi lễ thông thường: thí chủ đổ nước trên tay người nhận vào trong một bình bát (dĩ nhiên trong trường hợp này là bát vàng). Ðức Phật không phát biểu lời tạ ơn long trọng nào cả, vì việc này sẽ có giá trị ngang bằng việc cúng dường kia, như vậy sẽ tiêu hủy phước đức mà phần thí chủ đã nhận được cho mình. Thay vào đó, ngài bày tỏ niềm hoan hỷ bằng cách thuyết một bài Pháp cho vua Bimbisàra. (Mv 1.22.15-18)

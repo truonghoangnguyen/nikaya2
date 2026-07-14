@@ -349,7 +349,8 @@ phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (sam
 - bất thiện pháp > những điều không thiện;
 - thiên nhĩ (dibbāya sotadhātuyā) > tai thần
 - thiên nhãn (dibbāya cakkhunā) > mắt thần
-
+- Khi Phật tự xưng dịch là 'Ta' (in hoa) - không dịch là 'tôi' eg: "khi Ta còn là Bồ-tát";
+ 
 # VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
 
 ### Input (Văn bản gốc):

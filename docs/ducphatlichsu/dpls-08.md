@@ -61,7 +61,7 @@ Chính nhờ sự nghiệp hoằng Pháp thành công viên mãn của Ðại Ð
 Chính Ðại Ðế Asoka phái hoàng tử Mahinda đi giáo hóa đảo quốc Ceylon (Sri Lanka) theo đạo Phật, nên ngài đã bảo đảm cho Phật Pháp an trú trong ngôi nhà tiếp tục tồn tại vượt qua bao cơn khủng hoảng lịch sử. Tại các tinh xá trên đảo quốc này, Kinh Tạng Pàli được bảo trì trong tâm trí chư Tỳ-kheo cho đến thế kỷ thứ nhất trước CN, chư vị viết Kinh Ðiển lên các lá bối-đa khô, talipot (Corypha umbraculifera) (Dv 20. 20f; Mhv 33. 100f).
 
 Ngôi tinh xá xây bằng đá tảng Aluvihàra (P. Àlokavihàra), nơi công trình bối biên này đã được hoàn thành, hiện nằm cách Matale 3km về phía bắc. Người du khách đến Sri Lanka bằng xe hơi từ Kandy lên phía bắc, sau khi đi ngang qua Matale, sẽ không khỏi đưa mắt sang bên trái nhìn về những tảng đá vĩ đại của tinh xá Aluvihàra với niềm thành kính tri ân ngôi cổ tự, nơi mà Giáo Pháp có giá trị bất biến vượt thời gian của đấng Giác Ngộ đã được ghi chép thành văn cách đây hai ngàn năm trước.
-![Aluvihare Rock Temple](images/Aluvihare-Rock-Temple.png)
+![Aluvihare Rock Temple](images/aluvihare-rock-temple.png)
 *Aluvihare Rock Temple*
 
 Dịch giả cẩn bút Trọng Xuân Ðinh Sửu 1997
