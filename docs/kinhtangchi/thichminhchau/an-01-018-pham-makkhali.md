@@ -71,25 +71,3 @@ thán về hiện hữu dầu cho có ít thôi, cho đến chỉ trong thời g
 14-17. Ví như, này các Tỷ-kheo, một ít nước tiểu có mùi hôi thúi...một ít nước miếng có mùi hôi
 thúi......một ít mủ có mùi hôi thúi......một ít máu có mùi hôi thúi. Cũng vậy, này các Tỷ-kheo, Ta không
 tán thán về hiện hữu dầu cho có ít thôi, cho đến chỉ trong thời gian búng ngón tay.
-
-Home (level 1)
-không có
-
-kinh trường bộ (level 2) (nhiều bản dịch)
-{
-"@type": "BreadcrumbList",
-"itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
-    { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/"  }
-]
-}
-
-kinh trường bộ - Kinh Trường Bộ - Bản đọc song song (levle 3)
- {
-"@type": "BreadcrumbList",
-"itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
-    { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/" },
-    { "@type": "ListItem", "position": 3, "name": "Kinh Trường Bộ — Bản song song Pali (Việt) - Thích Minh Châu", "item": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/"  }
-]
-}
