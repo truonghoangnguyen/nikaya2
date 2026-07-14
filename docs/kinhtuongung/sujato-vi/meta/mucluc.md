@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 ### Giới thiệu
 - [Tuyển Tập SuttaCentral Editions](/kinhtuongung/sujato-vi/intro/01-the-suttacentral-editions-series.md)
 - [Lời nói đầu *Kinh Tương Ưng*](/kinhtuongung/sujato-vi/intro/02-preface-to-linked-discourses.md)

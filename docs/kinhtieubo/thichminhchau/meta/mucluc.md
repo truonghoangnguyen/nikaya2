@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [TẬP 1 – KINH TIỂU TỤNG](/kinhtieubo/thichminhchau/kn-001-tap-1-kinh-tieu-tung.md)
 - [TẬP 2 – KINH PHÁP CÚ](/kinhtieubo/thichminhchau/kn-002-tap-2-kinh-phap-cu.md)
 - [TẬP 3 – KINH PHẬT TỰ THUYẾT](/kinhtieubo/thichminhchau/kn-003-tap-3-kinh-phat-tu-thuyet.md)
@@ -43,7 +47,7 @@
     - [Chương 7 – Phẩm Bảy Kệ](/kinhtieubo/thichminhchau/kn-043-tap-8-chuong-7-pham-bay-ke.md)
     - [Chương 8 – Phẩm Tám Kệ](/kinhtieubo/thichminhchau/kn-044-tap-8-chuong-8-pham-tam-ke.md)
     - [Chương 9 – Phẩm Chín Kệ](/kinhtieubo/thichminhchau/kn-045-tap-8-chuong-9-pham-chin-ke.md)
-    - [Chương 19 – Phẩm Mười Kệ](/kinhtieubo/thichminhchau/kn-046-tap-8-chuong-10-pham-muoi-ke.md)
+    - [Chương 10 – Phẩm Mười Kệ](/kinhtieubo/thichminhchau/kn-046-tap-8-chuong-10-pham-muoi-ke.md)
     - [Chương 11 - Phẩm Mười Một Kệ](/kinhtieubo/thichminhchau/kn-046-tap-8-chuong-11-pham-muoi-mot-ke.md)
     - [Chương 12 - Phẩm Mười Hai Kệ](/kinhtieubo/thichminhchau/kn-046-tap-8-chuong-12-pham-muoi-hai-ke.md)
     - [Chương 13 – Phẩm Mười Ba Kệ](/kinhtieubo/thichminhchau/kn-047-tap-8-chuong-13-pham-muoi-ba-ke.md)

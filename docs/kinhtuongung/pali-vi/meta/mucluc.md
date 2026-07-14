@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [Devatāsaṁyutta](/kinhtuongung/pali-vi/sn-001-devatasamyutta.md)
 - [Devaputtasaṁyutta](/kinhtuongung/pali-vi/sn-002-devaputtasamyutta.md)
 - [Kosalasaṁyutta](/kinhtuongung/pali-vi/sn-003-kosalasamyutta.md)

@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [DNC 1. KINH PHẠM VÕNG](/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong)
 - [DNC 2. KINH SA MÔN QỦA](/kinhtruongbo/c-pali-tmc-vi/dnc-002-kinh-sa-mon-qua)
 - [DNC 3. KINH AMBATTHA (A-MA-TRÚ)](/kinhtruongbo/c-pali-tmc-vi/dnc-003-kinh-ambattha-a-ma-tru)

@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 
 - [I. Phẩm Sắc](/kinhtangchi/thichminhchau/an-01-001-pham-sac.md)
 - [II. Phẩm Ðoạn Triền Cái](/kinhtangchi/thichminhchau/an-01-002-pham-doan-trien-cai.md)

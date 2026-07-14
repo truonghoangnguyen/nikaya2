@@ -1,3 +1,7 @@
+---
+tags:
+ - các bước tu tập
+---
 # 107. KINH GANAKA MOGGALLÀNA
 
 **107. KINH GANAKA MOGGALLÀNA**

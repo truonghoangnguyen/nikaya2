@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 ## Giới thiệu
 - [LỜI GIỚI THIỆU](/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu)
 - [LỜI GIỚI THIỆU Tỷ kheo Thích Minh Châu (1972)](/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu-tmc)

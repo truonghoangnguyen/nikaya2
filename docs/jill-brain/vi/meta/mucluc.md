@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [LỜI TỰA](/jill-brain/vi/01-preface.md)
 - [CÂU CHUYỆN CỦA TÔI VÀ BỘ NÃO CỦA CHÚNG TA](/jill-brain/vi/02-mystory-and-our-brain.md)
 - [GIẢI PHẪU NÃO BỘ VÀ TÍNH CÁCH](/jill-brain/vi/03-brain-anatomy-and-personality.md)

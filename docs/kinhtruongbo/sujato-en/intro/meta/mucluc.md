@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [The SuttaCentral Editions Series](/kinhtruongbo/sujato-en/intro/01-the-suttacentral-editions-series.md)
 - [Preface to *Long Discourses*](/kinhtruongbo/sujato-en/intro/02-preface-to-long-discourses.md)
 - [A Reader's Guide to the Pali Suttas](/kinhtruongbo/sujato-en/intro/03-a-reader-s-guide-to-the-pali-suttas.md)

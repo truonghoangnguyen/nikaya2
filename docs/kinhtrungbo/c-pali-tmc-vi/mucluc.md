@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [MNC 1. KINH PHÁP MÔN CĂN BẢN](/kinhtrungbo/c-pali-tmc-vi/mnc-001-kinh-phap-mon-can-ban)
 - [MNC 2. KINH TẤT CẢ CÁC LẬU HOẶC](/kinhtrungbo/c-pali-tmc-vi/mnc-002-kinh-tat-ca-cac-lau-hoac)
 - [MNC 3. KINH THỪA TỰ PHÁP](/kinhtrungbo/c-pali-tmc-vi/mnc-003-kinh-thua-tu-phap)

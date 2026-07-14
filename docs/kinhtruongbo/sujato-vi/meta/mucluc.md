@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [Loạt Ấn Bản SuttaCentral](/kinhtruongbo/sujato-vi/intro/01-the-suttacentral-editions-series.md)
 - [Lời nói đầu *Trường Bộ Kinh*](/kinhtruongbo/sujato-vi/intro/02-preface-to-long-discourses.md)
 - [Hướng Dẫn Độc Giả Về Các Bài Kinh Pāli](/kinhtruongbo/sujato-vi/intro/03-a-reader-s-guide-to-the-pali-suttas.md)

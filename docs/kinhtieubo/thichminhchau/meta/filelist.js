@@ -44,7 +44,7 @@ const kinhtieubo_thichminhchau = [
   { text: "Chương 7 – Phẩm Bảy Kệ", link: "/kinhtieubo/thichminhchau/kn-043-tap-8-chuong-7-pham-bay-ke.md" },
   { text: "Chương 8 – Phẩm Tám Kệ", link: "/kinhtieubo/thichminhchau/kn-044-tap-8-chuong-8-pham-tam-ke.md" },
   { text: "Chương 9 – Phẩm Chín Kệ", link: "/kinhtieubo/thichminhchau/kn-045-tap-8-chuong-9-pham-chin-ke.md" },
-  { text: "Chương 19 – Phẩm Mười Kệ", link: "/kinhtieubo/thichminhchau/kn-046-tap-8-chuong-10-pham-muoi-ke.md" },
+  { text: "Chương 10 – Phẩm Mười Kệ", link: "/kinhtieubo/thichminhchau/kn-046-tap-8-chuong-10-pham-muoi-ke.md" },
   { text: "Chương 11 - Phẩm Mười Một Kệ", link: "/kinhtieubo/thichminhchau/kn-046-tap-8-chuong-11-pham-muoi-mot-ke.md" },
   { text: "Chương 12 - Phẩm Mười Hai Kệ", link: "/kinhtieubo/thichminhchau/kn-046-tap-8-chuong-12-pham-muoi-hai-ke.md" },
   { text: "Chương 13 – Phẩm Mười Ba Kệ", link: "/kinhtieubo/thichminhchau/kn-047-tap-8-chuong-13-pham-muoi-ba-ke.md" },

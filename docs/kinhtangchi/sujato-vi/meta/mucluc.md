@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 ### Giới thiệu
 - [Phẩm Tranh tụng](/kinhtangchi/sujato-vi/intro/00-000-quote.md)
 - [Tuyển Tập Ấn Phẩm SuttaCentral](/kinhtangchi/sujato-vi/intro/00-001-the-suttacentral-editions-series.md)

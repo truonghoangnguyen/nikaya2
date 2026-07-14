@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 
 ### Introduction
 - [The SuttaCentral Editions Series](/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series.md)

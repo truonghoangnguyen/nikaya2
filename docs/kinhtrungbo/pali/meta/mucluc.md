@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [Mūlapariyāyasutta](/kinhtrungbo/pali/mn-001-mulapariyayasutta.md)
 - [Sabbāsavasutta](/kinhtrungbo/pali/mn-002-sabbasavasutta.md)
 - [Dhammadāyādasutta](/kinhtrungbo/pali/mn-003-dhammadayadasutta.md)

@@ -1,4 +1,4 @@
-# Chương 19 – Phẩm Mười Kệ
+# Thag 10. Chương 10 – Phẩm Mười Kệ
 
 ### **(CCXXIII) Kàludàyin (Thera. 56)**
 

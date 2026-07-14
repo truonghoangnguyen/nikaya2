@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 # Index DN
 
 - [Brahmajālasutta](/kinhtruongbo/pali/dn-001-brahmajalasutta.md)

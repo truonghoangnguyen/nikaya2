@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [SNC 1. TƯƠNG ƯNG CHƯ THIÊN](/kinhtuongung/c-pali-tmc-vi/snc-01-tuong-ung-chu-thien)
 - [SNC 2. TƯƠNG ƯNG THIÊN TỬ](/kinhtuongung/c-pali-tmc-vi/snc-02-tuong-ung-thien-tu)
 - [SNC 3. TƯƠNG ƯNG KOSALA](/kinhtuongung/c-pali-tmc-vi/snc-03-tuong-ung-kosala)

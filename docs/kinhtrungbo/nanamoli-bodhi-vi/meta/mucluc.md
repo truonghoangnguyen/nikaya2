@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 ### Mở đầu
 - [Lời Tựa](/kinhtrungbo/nanamoli-bodhi-vi/intro/01.preface.md)
 - [Dẫn nhập](/kinhtrungbo/nanamoli-bodhi-vi/intro/02.introduction.md)

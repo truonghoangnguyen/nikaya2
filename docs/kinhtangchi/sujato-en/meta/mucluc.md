@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 ### Introduction
 - [The Chapter on Disciplinary Issues](/kinhtangchi/sujato-en/intro/00-000-quote.md)
 - [The SuttaCentral Editions Series](/kinhtangchi/sujato-en/intro/00-001-the-suttacentral-editions-series.md)

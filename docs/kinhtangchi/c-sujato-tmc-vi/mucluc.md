@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 
 ### Chương I
 - [ANC I. Phẩm Sắc](/kinhtangchi/c-sujato-tmc-vi/anc-01-001-pham-sac)

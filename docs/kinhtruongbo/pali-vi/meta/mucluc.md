@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [DN 1. KINH LƯỚI TRỜI](/kinhtruongbo/pali-vi/dn-001-kinh-luoi-troi.md)
 - [DN 2. KINH VỀ THÀNH QUẢ CỦA NGƯỜI TU HÀNH](/kinhtruongbo/pali-vi/dn-002-kinh-ve-thanh-qua-cua-nguoi-tu-hanh.md)
 - [DN 3. KINH AMBAṬṬHA](/kinhtruongbo/pali-vi/dn-003-kinh-ambattha.md)

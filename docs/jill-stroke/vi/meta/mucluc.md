@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [**My Stroke of Insight:** **A Brain Scientist's Personal Journey**](/jill-stroke/vi/01-my-stroke-of-insight-a-brain-scientist-s-personal-journey.md)
 - [LỜI GIỚI THIỆU](/jill-stroke/vi/02-introduction.md)
 - [JILL TRƯỚC CƠN ĐỘT QUỴ](/jill-stroke/vi/03-one-jill-s-pre-stroke-life.md)

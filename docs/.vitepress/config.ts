@@ -31,6 +31,7 @@ import jill_whole_brain_vi from '../jill-brain/vi/meta/filelist';
 import jill_stroke_vi from '../jill-stroke/vi/meta/filelist';
 import plato_vi from '../plato/vi/meta/filelist';
 
+import duc_phat_lich_su from '../ducphatlichsu/meta/filelist.js';
 // import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';
 
 //@ts-ignore
@@ -126,7 +127,8 @@ const BOOK_NAV = {
   'jill-stroke/vi': jill_stroke_vi,
   'plato/vi': plato_vi,
   'plato/vi/intro': plato_vi,
-
+  
+  'ducphatlichsu': duc_phat_lich_su,
 };
 
 // --- SEO / Schema constants (PR5) ---
@@ -516,7 +518,7 @@ export default defineConfig({
     if (bookMeta && compareMeta) {
       const pageTitle = (pageData.params?.data?.title as string) || pageData.title || bookMeta.name;
       const pageDescription = pageData.frontmatter.description ||
-        `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName}). Bản đối chiếu ${compareMeta.label} trên Kinh Nikaya.`;
+        `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName}). Bản đọc song song ${compareMeta.label} trên Kinh Nikaya.`;
       const coverUrl = `${SITE_ORIGIN}${bookMeta.cover}`;
 
       pageData.description = pageDescription;
@@ -599,7 +601,7 @@ export default defineConfig({
           'itemListElement': [
             { '@type': 'ListItem', 'position': 1, 'name': 'Trang chủ', 'item': `${SITE_ORIGIN}/` },
             { '@type': 'ListItem', 'position': 2, 'name': bookMeta.name, 'item': bookMeta.url },
-            { '@type': 'ListItem', 'position': 3, 'name': `Bản so sánh: ${compareMeta.label}`, 'item': `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/` },
+            { '@type': 'ListItem', 'position': 3, 'name': `Bản đọc song song ${compareMeta.label}`, 'item': `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/` },
             { '@type': 'ListItem', 'position': 4, 'name': pageTitle, 'item': pageUrl },
           ],
         },

@@ -1,3 +1,7 @@
+---
+title: Mục lục
+---
+
 - [1. KINH PHẠM VÕNG](/kinhtruongbo/c-sujato-tmc-vi/dnc-001-kinh-pham-vong)
 - [2. KINH SA MÔN QỦA](/kinhtruongbo/c-sujato-tmc-vi/dnc-002-kinh-sa-mon-qua)
 - [3. KINH AMBATTHA (A-MA-TRÚ)](/kinhtruongbo/c-sujato-tmc-vi/dnc-003-kinh-ambattha-a-ma-tru)
