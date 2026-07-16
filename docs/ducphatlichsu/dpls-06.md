@@ -83,7 +83,6 @@ Giới chiến sĩ đặc biệt bị thuyết định mệnh này lôi cuốn n
 
 Cùng với sự biến mất của phái Ajìvika vào thế kỷ thứ hai trước CN ở bắc Ấn và thế kỷ thứ mười bốn sau CN ở Nam Ấn, tất cả kinh sách của họ cũng thất lạc luôn; cho nên mọi điều chúng ta hiểu biết về triết lý của phái này đều phát xuất từ các trích đoạn trong thi văn của các phái đối lập. Một số vấn đề cốt yếu như bản chất của linh hồn hay sinh mạng (Jìva) tạo nên mối liên lạc giữa các đời sống với nhau, và bản chất của giải thoát ở chặng cuối cùng của sinh tử lộ dài dằng dặt ấy đều được số phận phát họa sẵn, do vậy, không có câu giải đáp chính xác nào cả.
 
-{#mn1:1.1}
 ### 3) Ajita Kesakambalin:
 
 Không có các chi tiết nào được lưu truyền về tiểu sử của Ajita Kesakambalin (ngoại trừ sự kiện là vị này già hơn đức Phật nhiều. Biệt hiệu trên chứng tỏ là vị ấy mang áo khoác (kambala) bằng tóc (kase) một loại y mà như đức Phật nhận xét (AN 1.135), hết sức bất tiện: lạnh lẽo về mùa lạnh, và nóng nực về mùa nóng, lại hôi hám và ngứa ngáy. Không ai hiểu được tại sao vị ấy mặc y này quanh năm, bởi vì vị ấy phủ nhận giá trị của khổ hạnh , nên vị ấy cũng không hy vọng cái ý này làm gì được cho việc giải thoát.
@@ -94,21 +93,19 @@ Lý thuyết duy vật- hư vô của Ajita tương tự với lý thuyết củ
 
 Thật khó tưởng tượng rằng Ajita, người không đưa ra một tia hy vọng nào về đời sau hay con đường giải thoát, lại có thể được Sa-môn nào theo làm đồ đệ. Hình như vị ấy xuất hiện như một diễn giả đơn độc và chỉ có đám đệ tử tại gia mà thôi.
 
-4) Pakudha Kaccàyana:
+### 4) Pakudha Kaccàyana:
 
-Một lý thuyết về nguyên tử của vật chất được Pakudha Kaccàyana đề xướng, từ đó vị này rút ra những kết luận thô thiển hạ liệt. Ta chỉ đây là một người thuộc giai cấp Bà-la-môn qua danh tánh ấy. Vị này công nhận có bảy yếu tố căn bản hay thân
-
-(kàya) thuộc về bảy loại hoàn toàn khác biệt do đó mọi vật được cấu thành. Chúng không được sáng tạo, thường hiện hữu và bất biến. Bảy yếu tố căn bản ấy là: đất, nước, lửa, gió, lạc, khổ và linh hồn hay mạng căn (Jìva).
+Một lý thuyết về nguyên tử của vật chất được Pakudha Kaccàyana đề xướng, từ đó vị này rút ra những kết luận thô thiển hạ liệt. Ta chỉ đây là một người thuộc giai cấp Bà-la-môn qua danh tánh ấy. Vị này công nhận có bảy yếu tố căn bản hay thân (kàya) thuộc về bảy loại hoàn toàn khác biệt do đó mọi vật được cấu thành. Chúng không được sáng tạo, thường hiện hữu và bất biến. Bảy yếu tố căn bản ấy là: đất, nước, lửa, gió, lạc, khổ và linh hồn hay mạng căn (Jìva).
 
 "Không có người bị giết hay người chết, không có người nghe hay người nói, cũng không có người biết hay người cho biết. Bất kỳ ai chặt đầu người khác với kiếm sắc bén cũng không đoạt mạng sống của ai cả. Kẻ ấy chỉ xuyên lưỡi kiếm vào khoảng hư không nằm giữa bảy yếu tố kia (chứ không làm hại vật gì cả). (DN 2.26)
 
 Sự thật là bảy yếu tố căn bản kia, nếu được phối hợp thành một tổng thể có sức sống, khả dĩ bao hàm một hiện tượng cao quí hơn, vĩ đại hơn con số cọng đơn giản tất cả yếu tố lại, rõ ràng điều này không soi sáng vào lý luận của Pakudha. Tuy nhiên ,về phương diện lịch sử, đạo sư này cũng có địa vị quan trọng như một người chủ trương thuyết nguyên tử vật chất đầu tiên của Ấn Ðộ. Bảy yếu tố căn bản của vị này về sau được phái Ajivika phương nam tiếp nhận, vì vậy đôi khi vị ấy cũng được gọi là một vị Ajivita.
 
-5) Sanojaya Belatthipputta:
+### 5) Sanojaya Belatthipputta:
 
 Kinh điển Phật giáo đưa ra một hình ảnh khá mờ nhạt về vị này, có lẽ đây chính là vị Sanojaya ở Ràjagaha đã có thời là đạo sư của hai tôn giả Sàriputta và Moggallàna. Trong cuộc đàm luận với vua Ajàtasattu, vị này tự xem mình là một người theo thuyết hoài nghi và bất khả tri, bài bác mọi lý thuyết không được thiết lập trên quan sát và kinh nghiệm. Có lẽ triết lý này cũng có một ý nghĩa nội dung tích cực nào đó, song nếu vậy thì nội dung ấy đã không tồn tại qua hai ngàn năm trăm năm kể từ thời sơ khai.
 
-6) Nigantha Nàtaputta
+### 6) Nigantha Nàtaputta
 
 Vardhamàna lớn lên trong hoàn cảnh gia đình hưng thịnh, tiếp nhận một nền giáo dục thông thường của một vị Sát-đế-lỵ. Khi đến tuổi trưởng thành, vị ấy kết hôn và có một con gái. Cha mẹ vị này theo giáo lý của Pàrsva (Nàtha), có lẽ đó là một đạo sư có thật trong lịch sử, tương truyền xuất thân từ Benares, sống vào thế kỷ thứ tám trước CN và đám môn đồ được gọi là Nigantha (Ni-kiền-tử: Ly hệ phược). Họ theo giáo phái khổ hạnh thật nghiệm khắc đến độ, muốn đạt thanh tịnh bản thân để tiêu trừ nghiệp quá khứ (kamma), họ nhịn đói cho đến chết. Theo bước chân cha mẹ, ngoài Vardhamàna, vị huynh trưởng Nandivardhana cũng là một Ni-kiền-tử. Sau khi cha mất, Nandivardhana lãnh nhiệm vụ chính trị của cha và dùng thế lực ở Vesàli để truyền bá đạo Ni-kiền-tử.
 

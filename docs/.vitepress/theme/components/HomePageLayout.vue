@@ -110,17 +110,20 @@ const getCoverVariant = (cover, width) => {
 }
 
 const getFallbackCover = (cover) => {
-  if (!cover) return ''
-  if (cover.includes('kinhtruongbo') || cover.includes('kinhtrungbo')) {
-    return cover.replace(/\.webp$/, '.jpeg')
-  }
-  if (cover.includes('kinhtangchi')) {
-    return cover.replace(/\.webp$/, '.png')
-  }
-  if (cover.includes('kinhtuongung')) {
-    return cover.replace('kinhtuongung.webp', 'kinhtuongung-sujato.jpg')
-  }
-  return cover.replace(/\.webp$/, '.png')
+  console.log(cover);
+  return cover
+
+  // if (!cover) return ''
+  // if (cover.includes('kinhtruongbo') || cover.includes('kinhtrungbo')) {
+  //   return cover.replace(/\.webp$/, '.jpeg')
+  // }
+  // if (cover.includes('kinhtangchi')) {
+  //   return cover.replace(/\.webp$/, '.png')
+  // }
+  // if (cover.includes('kinhtuongung')) {
+  //   return cover.replace('kinhtuongung.webp', 'kinhtuongung-sujato.jpg')
+  // }
+  // return cover.replace(/\.webp$/, '.png')
 }
 
 let intervalId = null

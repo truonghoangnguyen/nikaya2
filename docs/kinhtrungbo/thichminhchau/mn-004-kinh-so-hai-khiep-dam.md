@@ -1,6 +1,6 @@
 ---
 tags:
- - quá trình luyện tập
+ - quá trình tu tập
 ---
 # 4. KINH SỢ HÃI KHIẾP ÐẢM
 

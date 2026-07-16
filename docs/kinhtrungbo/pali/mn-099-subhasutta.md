@@ -1,26 +1,26 @@
-# Subhasutta
+# MN 99. Subhasutta
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
-Tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṁ paṭivasati aññatarassa gahapatissa nivesane kenacideva karaṇīyena. Atha kho subho māṇavo todeyyaputto yassa gahapatissa nivesane paṭivasati taṁ gahapatiṁ etadavoca: “sutaṁ metaṁ, gahapati: ‘avivittā sāvatthī arahantehī’ti. Kaṁ nu khvajja samaṇaṁ vā brāhmaṇaṁ vā payirupāseyyāmā”ti?
+2\. Tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṁ paṭivasati aññatarassa gahapatissa nivesane kenacideva karaṇīyena. Atha kho subho māṇavo todeyyaputto yassa gahapatissa nivesane paṭivasati taṁ gahapatiṁ etadavoca: “sutaṁ metaṁ, gahapati: ‘avivittā sāvatthī arahantehī’ti. Kaṁ nu khvajja samaṇaṁ vā brāhmaṇaṁ vā payirupāseyyāmā”ti?
 
 “Ayaṁ, bhante, bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Taṁ, bhante, bhagavantaṁ payirupāsassū”ti.
 
-Atha kho subho māṇavo todeyyaputto tassa gahapatissa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho subho māṇavo todeyyaputto bhagavantaṁ etadavoca:
+3\. Atha kho subho māṇavo todeyyaputto tassa gahapatissa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho subho māṇavo todeyyaputto bhagavantaṁ etadavoca:
 
-“brāhmaṇā, bho gotama, evamāhaṁsu: ‘gahaṭṭho ārādhako hoti ñāyaṁ dhammaṁ kusalaṁ, na pabbajito ārādhako hoti ñāyaṁ dhammaṁ kusalan’ti. Idha bhavaṁ gotamo kimāhā”ti?
+4\. “brāhmaṇā, bho gotama, evamāhaṁsu: ‘gahaṭṭho ārādhako hoti ñāyaṁ dhammaṁ kusalaṁ, na pabbajito ārādhako hoti ñāyaṁ dhammaṁ kusalan’ti. Idha bhavaṁ gotamo kimāhā”ti?
 
 “Vibhajjavādo kho ahamettha, māṇava; nāhamettha ekaṁsavādo. Gihissa vāhaṁ, māṇava, pabbajitassa vā micchāpaṭipattiṁ na vaṇṇemi. Gihī vā hi, māṇava, pabbajito vā micchāpaṭipanno micchāpaṭipattādhikaraṇahetu na ārādhako hoti ñāyaṁ dhammaṁ kusalaṁ. Gihissa vāhaṁ, māṇava, pabbajitassa vā sammāpaṭipattiṁ vaṇṇemi. Gihī vā hi, māṇava, pabbajito vā sammāpaṭipanno sammāpaṭipattādhikaraṇahetu ārādhako hoti ñāyaṁ dhammaṁ kusalan”ti.
 
-“Brāhmaṇā, bho gotama, evamāhaṁsu: ‘mahaṭṭhamidaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ gharāvāsakammaṭṭhānaṁ mahapphalaṁ hoti; appaṭṭhamidaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ pabbajjā kammaṭṭhānaṁ appaphalaṁ hotī’ti. Idha bhavaṁ gotamo kimāhā”ti.
+5\. “Brāhmaṇā, bho gotama, evamāhaṁsu: ‘mahaṭṭhamidaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ gharāvāsakammaṭṭhānaṁ mahapphalaṁ hoti; appaṭṭhamidaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ pabbajjā kammaṭṭhānaṁ appaphalaṁ hotī’ti. Idha bhavaṁ gotamo kimāhā”ti.
 
 “Etthāpi kho ahaṁ, māṇava, vibhajjavādo; nāhamettha ekaṁsavādo. Atthi, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ, vipajjamānaṁ appaphalaṁ hoti; atthi, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ, sampajjamānaṁ mahapphalaṁ hoti; atthi, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ, vipajjamānaṁ appaphalaṁ hoti; atthi, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti.
 
-Katamañca, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti? Kasi kho, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti? Kasiyeva kho, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti? Vaṇijjā kho, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti? Vaṇijjāyeva kho, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti.
+6\. Katamañca, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti? Kasi kho, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti? Kasiyeva kho, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti? Vaṇijjā kho, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti? Vaṇijjāyeva kho, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti.
 
-Seyyathāpi, māṇava, kasi kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti; evameva kho, māṇava, gharāvāsakammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Seyyathāpi, māṇava, kasiyeva kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti; evameva kho, māṇava, gharāvāsakammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti. Seyyathāpi, māṇava, vaṇijjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti; evameva kho, māṇava, pabbajjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Seyyathāpi, māṇava, vaṇijjāyeva kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti; evameva kho, māṇava, pabbajjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hotī”ti.
+7\. Seyyathāpi, māṇava, kasi kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti; evameva kho, māṇava, gharāvāsakammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Seyyathāpi, māṇava, kasiyeva kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti; evameva kho, māṇava, gharāvāsakammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti. Seyyathāpi, māṇava, vaṇijjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti; evameva kho, māṇava, pabbajjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Seyyathāpi, māṇava, vaṇijjāyeva kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti; evameva kho, māṇava, pabbajjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hotī”ti.
 
-“Brāhmaṇā, bho gotama, pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāyā”ti.
+8\. “Brāhmaṇā, bho gotama, pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāyā”ti.
 
 “Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāya—
 
@@ -30,7 +30,7 @@ sace te agaru—sādhu te pañca dhamme imasmiṁ parisati bhāsassū”ti.
 
 “Tena hi, māṇava, bhāsassū”ti.
 
-“Saccaṁ kho, bho gotama, brāhmaṇā paṭhamaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Tapaṁ kho, bho gotama, brāhmaṇā dutiyaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Brahmacariyaṁ kho, bho gotama, brāhmaṇā tatiyaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Ajjhenaṁ kho, bho gotama, brāhmaṇā catutthaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Cāgaṁ kho, bho gotama, brāhmaṇā pañcamaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Brāhmaṇā, bho gotama, ime pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāyāti. Idha bhavaṁ gotamo kimāhā”ti?
+9\. “Saccaṁ kho, bho gotama, brāhmaṇā paṭhamaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Tapaṁ kho, bho gotama, brāhmaṇā dutiyaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Brahmacariyaṁ kho, bho gotama, brāhmaṇā tatiyaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Ajjhenaṁ kho, bho gotama, brāhmaṇā catutthaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Cāgaṁ kho, bho gotama, brāhmaṇā pañcamaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Brāhmaṇā, bho gotama, ime pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāyāti. Idha bhavaṁ gotamo kimāhā”ti?
 
 “Kiṁ pana, māṇava, atthi koci brāhmaṇānaṁ ekabrāhmaṇopi yo evamāha: ‘ahaṁ imesaṁ pañcannaṁ dhammānaṁ sayaṁ abhiññā sacchikatvā vipākaṁ pavedemī’”ti?
 
@@ -48,19 +48,19 @@ sace te agaru—sādhu te pañca dhamme imasmiṁ parisati bhāsassū”ti.
 
 Seyyathāpi, māṇava, andhaveṇi paramparāsaṁsattā purimopi na passati majjhimopi na passati pacchimopi na passati; evameva kho, māṇava, andhaveṇūpamaṁ maññe brāhmaṇānaṁ bhāsitaṁ sampajjati—purimopi na passati majjhimopi na passati pacchimopi na passatī”ti.
 
-Evaṁ vutte, subho māṇavo todeyyaputto bhagavatā andhaveṇūpamena vuccamāno kupito anattamano bhagavantaṁyeva khuṁsento bhagavantaṁyeva vambhento bhagavantaṁyeva vadamāno: “samaṇo gotamo pāpito bhavissatī”ti bhagavantaṁ etadavoca:
+10\. Evaṁ vutte, subho māṇavo todeyyaputto bhagavatā andhaveṇūpamena vuccamāno kupito anattamano bhagavantaṁyeva khuṁsento bhagavantaṁyeva vambhento bhagavantaṁyeva vadamāno: “samaṇo gotamo pāpito bhavissatī”ti bhagavantaṁ etadavoca:
 
 “brāhmaṇo, bho gotama, pokkharasāti opamañño subhagavaniko evamāha: ‘evameva panidhekacce samaṇabrāhmaṇā uttari manussadhammā alamariyañāṇadassanavisesaṁ paṭijānanti. Tesamidaṁ bhāsitaṁ hassakaṁyeva sampajjati, nāmakaṁyeva sampajjati, rittakaṁyeva sampajjati, tucchakaṁyeva sampajjati. Kathañhi nāma manussabhūto uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjatī’”ti?
 
-“Kiṁ pana, māṇava, brāhmaṇo pokkharasāti opamañño subhagavaniko sabbesaṁyeva samaṇabrāhmaṇānaṁ cetasā ceto paricca pajānātī”ti?
+11\. “Kiṁ pana, māṇava, brāhmaṇo pokkharasāti opamañño subhagavaniko sabbesaṁyeva samaṇabrāhmaṇānaṁ cetasā ceto paricca pajānātī”ti?
 
 “Sakāyapi hi, bho gotama, puṇṇikāya dāsiyā brāhmaṇo pokkharasāti opamañño subhagavaniko cetasā ceto paricca na pajānāti, kuto pana sabbesaṁyeva samaṇabrāhmaṇānaṁ cetasā ceto paricca pajānissatī”ti?
 
-“Seyyathāpi, māṇava, jaccandho puriso na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakarūpāni, na passeyya candimasūriye. So evaṁ vadeyya: ‘natthi kaṇhasukkāni rūpāni, natthi kaṇhasukkānaṁ rūpānaṁ dassāvī; natthi nīlakāni rūpāni, natthi nīlakānaṁ rūpānaṁ dassāvī; natthi pītakāni rūpāni, natthi pītakānaṁ rūpānaṁ dassāvī; natthi lohitakāni rūpāni, natthi lohitakānaṁ rūpānaṁ dassāvī; natthi mañjiṭṭhakāni rūpāni, natthi mañjiṭṭhakānaṁ rūpānaṁ dassāvī; natthi samavisamaṁ, natthi samavisamassa dassāvī; natthi tārakarūpāni, natthi tārakarūpānaṁ dassāvī; natthi candimasūriyā, natthi candimasūriyānaṁ dassāvī. Ahametaṁ na jānāmi, ahametaṁ na passāmi; tasmā taṁ natthī’ti. Sammā nu kho so, māṇava, vadamāno vadeyyā”ti?
+12\. “Seyyathāpi, māṇava, jaccandho puriso na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakarūpāni, na passeyya candimasūriye. So evaṁ vadeyya: ‘natthi kaṇhasukkāni rūpāni, natthi kaṇhasukkānaṁ rūpānaṁ dassāvī; natthi nīlakāni rūpāni, natthi nīlakānaṁ rūpānaṁ dassāvī; natthi pītakāni rūpāni, natthi pītakānaṁ rūpānaṁ dassāvī; natthi lohitakāni rūpāni, natthi lohitakānaṁ rūpānaṁ dassāvī; natthi mañjiṭṭhakāni rūpāni, natthi mañjiṭṭhakānaṁ rūpānaṁ dassāvī; natthi samavisamaṁ, natthi samavisamassa dassāvī; natthi tārakarūpāni, natthi tārakarūpānaṁ dassāvī; natthi candimasūriyā, natthi candimasūriyānaṁ dassāvī. Ahametaṁ na jānāmi, ahametaṁ na passāmi; tasmā taṁ natthī’ti. Sammā nu kho so, māṇava, vadamāno vadeyyā”ti?
 
 “No hidaṁ, bho gotama. Atthi kaṇhasukkāni rūpāni, atthi kaṇhasukkānaṁ rūpānaṁ dassāvī; atthi nīlakāni rūpāni, atthi nīlakānaṁ rūpānaṁ dassāvī; atthi pītakāni rūpāni, atthi pītakānaṁ rūpānaṁ dassāvī; atthi lohitakāni rūpāni, atthi lohitakānaṁ rūpānaṁ dassāvī; atthi mañjiṭṭhakāni rūpāni, atthi mañjiṭṭhakānaṁ rūpānaṁ dassāvī; atthi samavisamaṁ, atthi samavisamassa dassāvī; atthi tārakarūpāni, atthi tārakarūpānaṁ dassāvī; atthi candimasūriyā, atthi candimasūriyānaṁ dassāvī. ‘Ahametaṁ na jānāmi, ahametaṁ na passāmi; tasmā taṁ natthī’ti; na hi so, bho gotama, sammā vadamāno vadeyyā”ti.
 
-“Evameva kho, māṇava, brāhmaṇo pokkharasāti opamañño subhagavaniko andho acakkhuko. So vata uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjati.
+13\. “Evameva kho, māṇava, brāhmaṇo pokkharasāti opamañño subhagavaniko andho acakkhuko. So vata uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjati.
 
 Taṁ kiṁ maññasi, māṇava, ye te kosalakā brāhmaṇamahāsālā, seyyathidaṁ—caṅkī brāhmaṇo tārukkho brāhmaṇo pokkharasāti brāhmaṇo jāṇussoṇi brāhmaṇo pitā ca te todeyyo, katamā nesaṁ seyyo, yaṁ vā te sammuccā vācaṁ bhāseyyuṁ yaṁ vā asammuccā”ti?
 
@@ -78,7 +78,7 @@ Taṁ kiṁ maññasi, māṇava, ye te kosalakā brāhmaṇamahāsālā, seyyat
 
 “Atthasaṁhitaṁ, bho gotama”.
 
-“Taṁ kiṁ maññasi, māṇava, yadi evaṁ sante, brāhmaṇena pokkharasātinā opamaññena subhagavanikena sammuccā vācā bhāsitā asammuccā”ti?
+14\. “Taṁ kiṁ maññasi, māṇava, yadi evaṁ sante, brāhmaṇena pokkharasātinā opamaññena subhagavanikena sammuccā vācā bhāsitā asammuccā”ti?
 
 “Asammuccā, bho gotama”.
 
@@ -94,13 +94,13 @@ Taṁ kiṁ maññasi, māṇava, ye te kosalakā brāhmaṇamahāsālā, seyyat
 
 “Anatthasaṁhitā, bho gotama”.
 
-“Pañca kho ime, māṇava, nīvaraṇā. Katame pañca? Kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ—ime kho, māṇava, pañca nīvaraṇā. Imehi kho, māṇava, pañcahi nīvaraṇehi brāhmaṇo pokkharasāti opamañño subhagavaniko āvuto nivuto ophuṭo pariyonaddho. So vata uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjati.
+15\. “Pañca kho ime, māṇava, nīvaraṇā. Katame pañca? Kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ—ime kho, māṇava, pañca nīvaraṇā. Imehi kho, māṇava, pañcahi nīvaraṇehi brāhmaṇo pokkharasāti opamañño subhagavaniko āvuto nivuto ophuṭo pariyonaddho. So vata uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjati.
 
-Pañca kho ime, māṇava, kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā; sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā … jivhā viññeyyā rasā … kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā—ime kho, māṇava, pañca kāmaguṇā.
+16\. Pañca kho ime, māṇava, kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā; sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā … jivhā viññeyyā rasā … kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā—ime kho, māṇava, pañca kāmaguṇā.
 
 Imehi kho, māṇava, pañcahi kāmaguṇehi brāhmaṇo pokkharasāti opamañño subhagavaniko gathito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjati. So vata uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjati.
 
-Taṁ kiṁ maññasi, māṇava, yaṁ vā tiṇakaṭṭhupādānaṁ paṭicca aggiṁ jāleyya yaṁ vā nissaṭṭhatiṇakaṭṭhupādānaṁ aggiṁ jāleyya, katamo nu khvāssa aggi accimā ceva vaṇṇavā ca pabhassaro cā”ti?
+17\. Taṁ kiṁ maññasi, māṇava, yaṁ vā tiṇakaṭṭhupādānaṁ paṭicca aggiṁ jāleyya yaṁ vā nissaṭṭhatiṇakaṭṭhupādānaṁ aggiṁ jāleyya, katamo nu khvāssa aggi accimā ceva vaṇṇavā ca pabhassaro cā”ti?
 
 “Sace taṁ, bho gotama, ṭhānaṁ nissaṭṭhatiṇakaṭṭhupādānaṁ aggiṁ jāletuṁ, svāssa aggi accimā ceva vaṇṇavā ca pabhassaro cā”ti.
 
@@ -110,11 +110,11 @@ Katamā ca, māṇava, pīti aññatreva kāmehi aññatra akusalehi dhammehi? I
 
 Puna caparaṁ, māṇava, bhikkhu vitakkavicārānaṁ vūpasamā … dutiyaṁ jhānaṁ upasampajja viharati. Ayampi kho, māṇava, pīti aññatreva kāmehi aññatra akusalehi dhammehi.
 
-Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, katamettha brāhmaṇā dhammaṁ mahapphalataraṁ paññapenti puññassa kiriyāya kusalassa ārādhanāyā”ti?
+18\. Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, katamettha brāhmaṇā dhammaṁ mahapphalataraṁ paññapenti puññassa kiriyāya kusalassa ārādhanāyā”ti?
 
 “Yeme, bho gotama, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, cāgamettha brāhmaṇā dhammaṁ mahapphalataraṁ paññapenti puññassa kiriyāya kusalassa ārādhanāyā”ti.
 
-“Taṁ kiṁ maññasi, māṇava, idha aññatarassa brāhmaṇassa mahāyañño paccupaṭṭhito assa. Atha dve brāhmaṇā āgaccheyyuṁ: ‘itthannāmassa brāhmaṇassa mahāyaññaṁ anubhavissāmā’ti. Tatrekassa brāhmaṇassa evamassa: ‘aho vata ahameva labheyyaṁ bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, na añño brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍan’ti. Ṭhānaṁ kho panetaṁ, māṇava, vijjati yaṁ añño brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, na so brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ. ‘Añño brāhmaṇo labhati bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, nāhaṁ labhāmi bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍan’ti—iti so kupito hoti anattamano. Imassa pana, māṇava, brāhmaṇā kiṁ vipākaṁ paññapentī”ti?
+19\. “Taṁ kiṁ maññasi, māṇava, idha aññatarassa brāhmaṇassa mahāyañño paccupaṭṭhito assa. Atha dve brāhmaṇā āgaccheyyuṁ: ‘itthannāmassa brāhmaṇassa mahāyaññaṁ anubhavissāmā’ti. Tatrekassa brāhmaṇassa evamassa: ‘aho vata ahameva labheyyaṁ bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, na añño brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍan’ti. Ṭhānaṁ kho panetaṁ, māṇava, vijjati yaṁ añño brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, na so brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ. ‘Añño brāhmaṇo labhati bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, nāhaṁ labhāmi bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍan’ti—iti so kupito hoti anattamano. Imassa pana, māṇava, brāhmaṇā kiṁ vipākaṁ paññapentī”ti?
 
 “Na khvettha, bho gotama, brāhmaṇā evaṁ dānaṁ denti: ‘iminā paro kupito hotu anattamano’ti. Atha khvettha brāhmaṇā anukampājātikaṁyeva dānaṁ dentī”ti.
 
@@ -122,17 +122,17 @@ Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya k
 
 “Evaṁ sante, bho gotama, brāhmaṇānaṁ idaṁ chaṭṭhaṁ puññakiriyavatthu hoti—yadidaṁ anukampājātikan”ti.
 
-“Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, ime tvaṁ pañca dhamme kattha bahulaṁ samanupassasi—gahaṭṭhesu vā pabbajitesu vā”ti?
+20\. “Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, ime tvaṁ pañca dhamme kattha bahulaṁ samanupassasi—gahaṭṭhesu vā pabbajitesu vā”ti?
 
 “Yeme, bho gotama, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, imāhaṁ pañca dhamme pabbajitesu bahulaṁ samanupassāmi appaṁ gahaṭṭhesu. Gahaṭṭho hi, bho gotama, mahaṭṭho mahākicco mahādhikaraṇo mahāsamārambho, na satataṁ samitaṁ saccavādī hoti; pabbajito kho pana, bho gotama, appaṭṭho appakicco appādhikaraṇo appasamārambho, satataṁ samitaṁ saccavādī hoti. Gahaṭṭho hi, bho gotama, mahaṭṭho mahākicco mahādhikaraṇo mahāsamārambho na satataṁ samitaṁ tapassī hoti … brahmacārī hoti … sajjhāyabahulo hoti … cāgabahulo hoti; pabbajito kho pana, bho gotama, appaṭṭho appakicco appādhikaraṇo appasamārambho satataṁ samitaṁ tapassī hoti … brahmacārī hoti … sajjhāyabahulo hoti … cāgabahulo hoti. Yeme, bho gotama, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, imāhaṁ pañca dhamme pabbajitesu bahulaṁ samanupassāmi appaṁ gahaṭṭhesū”ti.
 
-“Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya cittassāhaṁ ete parikkhāre vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāya.
+21\. “Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya cittassāhaṁ ete parikkhāre vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāya.
 
 Idha, māṇava, bhikkhu saccavādī hoti. So ‘saccavādīmhī’ti labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ. Yaṁ taṁ kusalūpasaṁhitaṁ pāmojjaṁ, cittassāhaṁ etaṁ parikkhāraṁ vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāya.
 
 Idha, māṇava, bhikkhu tapassī hoti …pe… brahmacārī hoti …pe… sajjhāyabahulo hoti …pe… cāgabahulo hoti. So ‘cāgabahulomhī’ti labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ. Yaṁ taṁ kusalūpasaṁhitaṁ pāmojjaṁ, cittassāhaṁ etaṁ parikkhāraṁ vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāya. Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, cittassāhaṁ ete parikkhāre vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāyā”ti.
 
-Evaṁ vutte, subho māṇavo todeyyaputto bhagavantaṁ etadavoca: “sutaṁ metaṁ, bho gotama: ‘samaṇo gotamo brahmānaṁ sahabyatāya maggaṁ jānātī’”ti.
+22\. Evaṁ vutte, subho māṇavo todeyyaputto bhagavantaṁ etadavoca: “sutaṁ metaṁ, bho gotama: ‘samaṇo gotamo brahmānaṁ sahabyatāya maggaṁ jānātī’”ti.
 
 “Taṁ kiṁ maññasi, māṇava, āsanne ito naḷakāragāmo, na yito dūre naḷakāragāmo”ti?
 
@@ -144,25 +144,25 @@ Evaṁ vutte, subho māṇavo todeyyaputto bhagavantaṁ etadavoca: “sutaṁ m
 
 “Siyā nu kho, māṇava, tassa purisassa naḷakāragāme jātavaddhassa naḷakāragāmassa maggaṁ puṭṭhassa dandhāyitattaṁ vā vitthāyitattaṁ vāti, na tveva tathāgatassa brahmalokaṁ vā brahmalokagāminiṁ vā paṭipadaṁ puṭṭhassa dandhāyitattaṁ vā vitthāyitattaṁ vā. Brahmānañcāhaṁ, māṇava, pajānāmi brahmalokañca brahmalokagāminiñca paṭipadaṁ; yathāpaṭipanno ca brahmalokaṁ upapanno tañca pajānāmī”ti.
 
-“Sutaṁ metaṁ, bho gotama: ‘samaṇo gotamo brahmānaṁ sahabyatāya maggaṁ desetī’ti. Sādhu me bhavaṁ gotamo brahmānaṁ sahabyatāya maggaṁ desetū”ti.
+23\. “Sutaṁ metaṁ, bho gotama: ‘samaṇo gotamo brahmānaṁ sahabyatāya maggaṁ desetī’ti. Sādhu me bhavaṁ gotamo brahmānaṁ sahabyatāya maggaṁ desetū”ti.
 
 “Tena hi, māṇava, suṇāhi, sādhukaṁ manasi karohi, bhāsissāmī”ti.
 
 “Evaṁ, bho”ti kho subho māṇavo todeyyaputto bhagavato paccassosi. Bhagavā etadavoca:
 
-“Katamo ca, māṇava, brahmānaṁ sahabyatāya maggo? Idha, māṇava, bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Evaṁ bhāvitāya kho, māṇava, mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Seyyathāpi, māṇava, balavā saṅkhadhamo appakasireneva cātuddisā viññāpeyya; evameva kho, māṇava …pe… evaṁ bhāvitāya kho, māṇava, mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Ayampi kho, māṇava, brahmānaṁ sahabyatāya maggo.
+24\. “Katamo ca, māṇava, brahmānaṁ sahabyatāya maggo? Idha, māṇava, bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Evaṁ bhāvitāya kho, māṇava, mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Seyyathāpi, māṇava, balavā saṅkhadhamo appakasireneva cātuddisā viññāpeyya; evameva kho, māṇava …pe… evaṁ bhāvitāya kho, māṇava, mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Ayampi kho, māṇava, brahmānaṁ sahabyatāya maggo.
 
-“Puna caparaṁ, māṇava, bhikkhu karuṇāsahagatena cetasā …pe…
+25-27\. “Puna caparaṁ, māṇava, bhikkhu karuṇāsahagatena cetasā …pe…
 
 muditāsahagatena cetasā …pe…
 
 upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Evaṁ bhāvitāya kho, māṇava, upekkhāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Seyyathāpi, māṇava, balavā saṅkhadhamo appakasireneva cātuddisā viññāpeyya; evameva kho, māṇava …pe… evaṁ bhāvitāya kho, māṇava, upekkhāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Ayampi kho, māṇava, brahmānaṁ sahabyatāya maggo”ti.
 
-Evaṁ vutte, subho māṇavo todeyyaputto bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gataṁ. Handa ca dāni mayaṁ, bho gotama, gacchāma; bahukiccā mayaṁ bahukaraṇīyā”ti.
+28\. Evaṁ vutte, subho māṇavo todeyyaputto bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gataṁ. Handa ca dāni mayaṁ, bho gotama, gacchāma; bahukiccā mayaṁ bahukaraṇīyā”ti.
 
-“Yassadāni tvaṁ, māṇava, kālaṁ maññasī”ti. Atha kho subho māṇavo todeyyaputto bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+29\. “Yassadāni tvaṁ, māṇava, kālaṁ maññasī”ti. Atha kho subho māṇavo todeyyaputto bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
 
-Tena kho pana samayena jāṇussoṇi brāhmaṇo sabbasetena vaḷavābhirathena sāvatthiyā niyyāti divā divassa. Addasā kho jāṇussoṇi brāhmaṇo subhaṁ māṇavaṁ todeyyaputtaṁ dūratova āgacchantaṁ. Disvāna subhaṁ māṇavaṁ todeyyaputtaṁ etadavoca: “handa kuto nu bhavaṁ bhāradvājo āgacchati divā divassā”ti?
+30\. Tena kho pana samayena jāṇussoṇi brāhmaṇo sabbasetena vaḷavābhirathena sāvatthiyā niyyāti divā divassa. Addasā kho jāṇussoṇi brāhmaṇo subhaṁ māṇavaṁ todeyyaputtaṁ dūratova āgacchantaṁ. Disvāna subhaṁ māṇavaṁ todeyyaputtaṁ etadavoca: “handa kuto nu bhavaṁ bhāradvājo āgacchati divā divassā”ti?
 
 “Ito hi kho ahaṁ, bho, āgacchāmi samaṇassa gotamassa santikā”ti.
 
@@ -174,6 +174,6 @@ Tena kho pana samayena jāṇussoṇi brāhmaṇo sabbasetena vaḷavābhirathen
 
 “Ko cāhaṁ, bho, ko ca samaṇaṁ gotamaṁ pasaṁsissāmi? Pasatthapasatthova so bhavaṁ gotamo seṭṭho devamanussānaṁ. Ye cime, bho, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya; cittassete samaṇo gotamo parikkhāre vadeti—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāyā”ti.
 
-Evaṁ vutte, jāṇussoṇi brāhmaṇo sabbasetā vaḷavābhirathā orohitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā udānaṁ udānesi: “lābhā rañño pasenadissa kosalassa, suladdhalābhā rañño pasenadissa kosalassa yassa vijite tathāgato viharati arahaṁ sammāsambuddho”ti.
+31\. Evaṁ vutte, jāṇussoṇi brāhmaṇo sabbasetā vaḷavābhirathā orohitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā udānaṁ udānesi: “lābhā rañño pasenadissa kosalassa, suladdhalābhā rañño pasenadissa kosalassa yassa vijite tathāgato viharati arahaṁ sammāsambuddho”ti.
 
 Subhasuttaṁ niṭṭhitaṁ navamaṁ.

@@ -350,6 +350,9 @@ phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (sam
 - thiên nhĩ (dibbāya sotadhātuyā) > tai thần
 - thiên nhãn (dibbāya cakkhunā) > mắt thần
 - Khi Phật tự xưng dịch là 'Ta' (in hoa) - không dịch là 'tôi' eg: "khi Ta còn là Bồ-tát";
+
+### 4.3 Những dịch câu mẫu:
+-  `ajjhattameva cittaṁ saṇṭhapemi sannisādemi ekodiṁ karomi samādahāmi` -> `không suy nghĩ nữa, đặt tâm vào bên trong (đưa tâm trở về nội tâm) khiến tâm lắng đọng, [tâm] hợp làm một và tâm được an tịnh`
  
 # VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
 

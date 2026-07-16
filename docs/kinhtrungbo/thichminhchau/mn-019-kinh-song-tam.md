@@ -1,3 +1,8 @@
+---
+tags:
+ - quá trình tu tập
+---
+
 # 19. KINH SONG TẦM
 
 **19. KINH SONG TẦM**

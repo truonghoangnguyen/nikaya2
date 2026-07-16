@@ -35,6 +35,13 @@
       "description": "Khuddaka Nikaya",
       "cover": "/covers/kinhtieubo.webp",
       "link": "/kinhtieubo/"
+    },
+    {
+      "id": "ducphatlichsu",
+      "title": "Đức Phật Lịch Sử",
+      "description": "Đức Phật Lịch Sử H.W. Schumann (1982) M. O'C. Walshe dịch sang Anh ngữ (1989) Nguyên Tâm Trần Phương Lan dịch Việt (1997)",
+      "cover": "/covers/dpls-bia.webp",
+      "link": "/ducphatlichsu/"
     }
   ]
 }

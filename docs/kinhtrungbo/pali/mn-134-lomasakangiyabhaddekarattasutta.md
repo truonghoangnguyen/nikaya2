@@ -1,10 +1,10 @@
-# Lomasakaṅgiyabhaddekarattasutta
+# MN 134. Lomasakaṅgiyabhaddekarattasutta
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tena kho pana samayena āyasmā lomasakaṅgiyo sakkesu viharati kapilavatthusmiṁ nigrodhārāme.
 
-Atha kho candano devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ nigrodhārāmaṁ obhāsetvā yenāyasmā lomasakaṅgiyo tenupasaṅkami; upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho candano devaputto āyasmantaṁ lomasakaṅgiyaṁ etadavoca:
+2\. Atha kho candano devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ nigrodhārāmaṁ obhāsetvā yenāyasmā lomasakaṅgiyo tenupasaṅkami; upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho candano devaputto āyasmantaṁ lomasakaṅgiyaṁ etadavoca:
 
 “dhāresi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañcā”ti?
 
@@ -20,29 +20,44 @@ Atha kho candano devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakapp
 
 “Ekamidaṁ, bhikkhu, samayaṁ bhagavā devesu tāvatiṁsesu viharati pāricchattakamūle paṇḍukambalasilāyaṁ. Tatra bhagavā devānaṁ tāvatiṁsānaṁ bhaddekarattassa uddesañca vibhaṅgañca abhāsi:
 
-> ‘Atītaṁ nānvāgameyya, nappaṭikaṅkhe anāgataṁ; Yadatītaṁ pahīnaṁ taṁ, appattañca anāgataṁ.
->
-> Paccuppannañca yo dhammaṁ, tattha tattha vipassati; Asaṁhīraṁ asaṅkuppaṁ, taṁ vidvā manubrūhaye.
->
-> Ajjeva kiccamātappaṁ, ko jaññā maraṇaṁ suve; Na hi no saṅgaraṁ tena, mahāsenena maccunā.
->
-> Evaṁvihāriṁ ātāpiṁ, ahorattamatanditaṁ; Taṁ ve bhaddekarattoti, santo ācikkhate munī’ti.
+3\. ‘Atītaṁ nānvāgameyya,\
+nappaṭikaṅkhe anāgataṁ;\
+Yadatītaṁ pahīnaṁ taṁ,\
+appattañca anāgataṁ.
 
-Evaṁ kho ahaṁ, bhikkhu, dhāremi bhaddekarattiyo gāthā. Uggaṇhāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca; pariyāpuṇāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca; dhārehi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca. Atthasaṁhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako”ti.
+Paccuppannañca yo dhammaṁ,\
+tattha tattha vipassati;\
+Asaṁhīraṁ asaṅkuppaṁ,\
+taṁ vidvā manubrūhaye.
+
+Ajjeva kiccamātappaṁ,\
+ko jaññā maraṇaṁ suve;\
+Na hi no saṅgaraṁ tena,\
+mahāsenena maccunā.
+
+Evaṁvihāriṁ ātāpiṁ,\
+ahorattamatanditaṁ;\
+Taṁ ve bhaddekarattoti,\
+santo ācikkhate munī’ti.
+
+4\. Evaṁ kho ahaṁ, bhikkhu, dhāremi bhaddekarattiyo gāthā. Uggaṇhāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca; pariyāpuṇāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca; dhārehi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca. Atthasaṁhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako”ti.
 
 Idamavoca candano devaputto. Idaṁ vatvā tatthevantaradhāyi.
 
-Atha kho āyasmā lomasakaṅgiyo tassā rattiyā accayena senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā lomasakaṅgiyo bhagavantaṁ etadavoca:
+5\. Atha kho āyasmā lomasakaṅgiyo tassā rattiyā accayena senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā lomasakaṅgiyo bhagavantaṁ etadavoca:
 
 “Ekamidāhaṁ, bhante, samayaṁ sakkesu viharāmi kapilavatthusmiṁ nigrodhārāme. Atha kho, bhante, aññataro devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ nigrodhārāmaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho, bhante, so devaputto maṁ etadavoca: ‘dhāresi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañcā’ti? Evaṁ vutte, ahaṁ, bhante, taṁ devaputtaṁ etadavocaṁ: ‘na kho ahaṁ, āvuso, dhāremi bhaddekarattassa uddesañca vibhaṅgañca. Tvaṁ panāvuso, dhāresi bhaddekarattassa uddesañca vibhaṅgañcā’ti? ‘Ahampi kho, bhikkhu, na dhāremi bhaddekarattassa uddesañca vibhaṅgañca. Dhāresi pana tvaṁ, bhikkhu, bhaddekarattiyo gāthā’ti? ‘Na kho ahaṁ, āvuso, dhāremi bhaddekarattiyo gāthā. Tvaṁ panāvuso, dhāresi bhaddekarattiyo gāthā’ti? ‘Dhāremi kho ahaṁ, bhikkhu, bhaddekarattiyo gāthā’ti. ‘Yathā kathaṁ pana tvaṁ, āvuso, dhāresi bhaddekarattiyo gāthā’ti? ‘Ekamidaṁ, bhikkhu, samayaṁ bhagavā devesu tāvatiṁsesu viharati pāricchattakamūle paṇḍukambalasilāyaṁ. Tatra kho bhagavā devānaṁ tāvatiṁsānaṁ bhaddekarattassa uddesañca vibhaṅgañca abhāsi:
 
-> “Atītaṁ nānvāgameyya, …pe… Taṁ ve bhaddekarattoti, santo ācikkhate munī”ti.
+“Atītaṁ nānvāgameyya,\
+…pe…\
+Taṁ ve bhaddekarattoti,\
+santo ācikkhate munī”ti.
 
 Evaṁ kho ahaṁ, bhikkhu, dhāremi bhaddekarattiyo gāthā. Uggaṇhāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca; pariyāpuṇāhi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca; dhārehi tvaṁ, bhikkhu, bhaddekarattassa uddesañca vibhaṅgañca. Atthasaṁhito, bhikkhu, bhaddekarattassa uddeso ca vibhaṅgo ca ādibrahmacariyako’ti.
 
 Idamavoca, bhante, so devaputto. Idaṁ vatvā tatthevantaradhāyi. Sādhu me, bhante, bhagavā bhaddekarattassa uddesañca vibhaṅgañca desetū”ti.
 
-“Jānāsi pana tvaṁ, bhikkhu, taṁ devaputtan”ti?
+6\. “Jānāsi pana tvaṁ, bhikkhu, taṁ devaputtan”ti?
 
 “Na kho ahaṁ, bhante, jānāmi taṁ devaputtan”ti.
 
@@ -50,15 +65,27 @@ Idamavoca, bhante, so devaputto. Idaṁ vatvā tatthevantaradhāyi. Sādhu me, b
 
 “Evaṁ, bhante”ti kho āyasmā lomasakaṅgiyo bhagavato paccassosi. Bhagavā etadavoca:
 
-> “Atītaṁ nānvāgameyya, nappaṭikaṅkhe anāgataṁ; Yadatītaṁ pahīnaṁ taṁ, appattañca anāgataṁ.
->
-> Paccuppannañca yo dhammaṁ, tattha tattha vipassati; Asaṁhīraṁ asaṅkuppaṁ, taṁ vidvā manubrūhaye.
->
-> Ajjeva kiccamātappaṁ, ko jaññā maraṇaṁ suve; Na hi no saṅgaraṁ tena, mahāsenena maccunā.
->
-> Evaṁvihāriṁ ātāpiṁ, ahorattamatanditaṁ; Taṁ ve bhaddekarattoti, santo ācikkhate muni.
+7\. “Atītaṁ nānvāgameyya,\
+nappaṭikaṅkhe anāgataṁ;\
+Yadatītaṁ pahīnaṁ taṁ,\
+appattañca anāgataṁ.
 
-Kathañca, bhikkhu, atītaṁ anvāgameti …pe…
+Paccuppannañca yo dhammaṁ,\
+tattha tattha vipassati;\
+Asaṁhīraṁ asaṅkuppaṁ,\
+taṁ vidvā manubrūhaye.
+
+Ajjeva kiccamātappaṁ,\
+ko jaññā maraṇaṁ suve;\
+Na hi no saṅgaraṁ tena,\
+mahāsenena maccunā.
+
+Evaṁvihāriṁ ātāpiṁ,\
+ahorattamatanditaṁ;\
+Taṁ ve bhaddekarattoti,\
+santo ācikkhate muni.
+
+8-13\. Kathañca, bhikkhu, atītaṁ anvāgameti …pe…
 
 evaṁ kho, bhikkhu, atītaṁ anvāgameti.
 
@@ -82,13 +109,25 @@ Kathañca, bhikkhu, paccuppannesu dhammesu na saṁhīrati …pe…
 
 evaṁ kho, bhikkhu, paccuppannesu dhammesu na saṁhīrati.
 
-> Atītaṁ nānvāgameyya, nappaṭikaṅkhe anāgataṁ; Yadatītaṁ pahīnaṁ taṁ, appattañca anāgataṁ.
->
-> Paccuppannañca yo dhammaṁ, tattha tattha vipassati; Asaṁhīraṁ asaṅkuppaṁ, taṁ vidvā manubrūhaye.
->
-> Ajjeva kiccamātappaṁ, ko jaññā maraṇaṁ suve; Na hi no saṅgaraṁ tena, mahāsenena maccunā.
->
-> Evaṁvihāriṁ ātāpiṁ, ahorattamatanditaṁ; Taṁ ve bhaddekarattoti, santo ācikkhate munī”ti.
+14\. Atītaṁ nānvāgameyya,\
+nappaṭikaṅkhe anāgataṁ;\
+Yadatītaṁ pahīnaṁ taṁ,\
+appattañca anāgataṁ.
+
+Paccuppannañca yo dhammaṁ,\
+tattha tattha vipassati;\
+Asaṁhīraṁ asaṅkuppaṁ,\
+taṁ vidvā manubrūhaye.
+
+Ajjeva kiccamātappaṁ,\
+ko jaññā maraṇaṁ suve;\
+Na hi no saṅgaraṁ tena,\
+mahāsenena maccunā.
+
+Evaṁvihāriṁ ātāpiṁ,\
+ahorattamatanditaṁ;\
+Taṁ ve bhaddekarattoti,\
+santo ācikkhate munī”ti.
 
 Idamavoca bhagavā. Attamano āyasmā lomasakaṅgiyo bhagavato bhāsitaṁ abhinandīti.
 

@@ -103,7 +103,7 @@ Trong khi một số đạo sư Ấn Ðộ tự xưng là có khả năng giải
 
 ## TÍNH TÌNH
 
-### ÐẶC TÍNH TÂM LÝ: Từ, Bi, Hỷ, Xả
+*ÐẶC TÍNH TÂM LÝ: Từ, Bi, Hỷ, Xả*
 
 Ðức Phật bài bác niềm tin của giai cấp Sát-đế-lỵ (võ tướng) khi ngài dạy rằng các võ tướng chiến sĩ ngã xuống ngoài mặt trận sẽ phải chịu một tái sanh bất hạnh vì nghiệp lực. Do các hận sân của vị ấy tăng trưởng đối với kẻ thù, một chiến sĩ chết trận có thể tái sanh vào Ðịa ngục Saràjità, ngài tuyên bố như vậy (SN 42. 3). Mặc dù sự trận vong của người anh hùng có ích lợi cho tổ quốc, nó lại đem đến một tái sanh khổ đau cho người tử sĩ.
 

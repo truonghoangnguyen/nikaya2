@@ -1,14 +1,14 @@
-# Madhurasutta
+# MN 84. Madhurasutta
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā mahākaccāno madhurāyaṁ viharati gundāvane.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā mahākaccāno madhurāyaṁ viharati gundāvane.
 
-Assosi kho rājā mādhuro avantiputto: “samaṇo khalu, bho, kaccāno madhurāyaṁ viharati gundāvane. Taṁ kho pana bhavantaṁ kaccānaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘paṇḍito viyatto medhāvī bahussuto cittakathī kalyāṇapaṭibhāno vuddho ceva arahā ca’. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
+2\. Assosi kho rājā mādhuro avantiputto: “samaṇo khalu, bho, kaccāno madhurāyaṁ viharati gundāvane. Taṁ kho pana bhavantaṁ kaccānaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘paṇḍito viyatto medhāvī bahussuto cittakathī kalyāṇapaṭibhāno vuddho ceva arahā ca’. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
 
-Atha kho rājā mādhuro avantiputto bhadrāni bhadrāni yānāni yojāpetvā bhadraṁ yānaṁ abhiruhitvā bhadrehi bhadrehi yānehi madhurāya niyyāsi mahaccarājānubhāvena āyasmantaṁ mahākaccānaṁ dassanāya. Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yenāyasmā mahākaccāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahākaccānena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā mādhuro avantiputto āyasmantaṁ mahākaccānaṁ etadavoca:
+3\. Atha kho rājā mādhuro avantiputto bhadrāni bhadrāni yānāni yojāpetvā bhadraṁ yānaṁ abhiruhitvā bhadrehi bhadrehi yānehi madhurāya niyyāsi mahaccarājānubhāvena āyasmantaṁ mahākaccānaṁ dassanāya. Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yenāyasmā mahākaccāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahākaccānena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā mādhuro avantiputto āyasmantaṁ mahākaccānaṁ etadavoca:
 
-“brāhmaṇā, bho kaccāna, evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo; brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Idha bhavaṁ kaccāno kimakkhāyī”ti?
+4\. “brāhmaṇā, bho kaccāna, evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo; brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Idha bhavaṁ kaccāno kimakkhāyī”ti?
 
-“Ghosoyeva kho eso, mahārāja, lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo; brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Tadamināpetaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’ti.
+5\. “Ghosoyeva kho eso, mahārāja, lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo; brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Tadamināpetaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’ti.
 
 Taṁ kiṁ maññasi, mahārāja, khattiyassa cepi ijjheyya dhanena vā dhaññena vā rajatena vā jātarūpena vā khattiyopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī … brāhmaṇopissāssa … vessopissāssa … suddopissāssa pubbuṭṭhāyī pacchānipātī kiṅkārapaṭissāvī manāpacārī piyavādī”ti?
 
@@ -24,7 +24,7 @@ Taṁ kiṁ maññasi, mahārāja, khattiyassa cepi ijjheyya dhanena vā dhaññ
 
 “Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’ti.
 
-Taṁ kiṁ maññasi, mahārāja, idhassa khattiyo pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya no vā? Kathaṁ vā te ettha hotī”ti?
+6\. Taṁ kiṁ maññasi, mahārāja, idhassa khattiyo pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya no vā? Kathaṁ vā te ettha hotī”ti?
 
 “Khattiyopi hi, bho kaccāna, pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya. Evaṁ me ettha hoti, evañca pana me etaṁ arahataṁ sutan”ti.
 
@@ -38,7 +38,7 @@ Taṁ kiṁ maññasi, mahārāja, idhassa khattiyo pāṇātipātī adinnādāy
 
 “Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
 
-“Taṁ kiṁ maññasi, mahārāja, idhassa khattiyo pāṇātipātā paṭivirato, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato, musāvādā paṭivirato, pisuṇāya vācāya paṭivirato, pharusāya vācāya paṭivirato, samphappalāpā paṭivirato, anabhijjhālu abyāpannacitto sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya no vā? Kathaṁ vā te ettha hotī”ti?
+7\. “Taṁ kiṁ maññasi, mahārāja, idhassa khattiyo pāṇātipātā paṭivirato, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato, musāvādā paṭivirato, pisuṇāya vācāya paṭivirato, pharusāya vācāya paṭivirato, samphappalāpā paṭivirato, anabhijjhālu abyāpannacitto sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya no vā? Kathaṁ vā te ettha hotī”ti?
 
 “Khattiyopi hi, bho kaccāna, pāṇātipātā paṭivirato, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato, musāvādā paṭivirato, pisuṇāya vācāya paṭivirato, pharusāya vācāya paṭivirato, samphappalāpā paṭivirato, anabhijjhālu abyāpannacitto sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya. Evaṁ me ettha hoti, evañca pana me etaṁ arahataṁ sutan”ti.
 
@@ -52,7 +52,7 @@ Taṁ kiṁ maññasi, mahārāja, idhassa khattiyo pāṇātipātī adinnādāy
 
 “Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
 
-“Taṁ kiṁ maññasi, mahārāja, idha khattiyo sandhiṁ vā chindeyya, nillopaṁ vā hareyya, ekāgārikaṁ vā kareyya, paripanthe vā tiṭṭheyya, paradāraṁ vā gaccheyya, tañce te purisā gahetvā dasseyyuṁ: ‘ayaṁ te, deva, coro āgucārī. Imassa yaṁ icchasi taṁ daṇḍaṁ paṇehī’ti. Kinti naṁ kareyyāsī”ti?
+8\. “Taṁ kiṁ maññasi, mahārāja, idha khattiyo sandhiṁ vā chindeyya, nillopaṁ vā hareyya, ekāgārikaṁ vā kareyya, paripanthe vā tiṭṭheyya, paradāraṁ vā gaccheyya, tañce te purisā gahetvā dasseyyuṁ: ‘ayaṁ te, deva, coro āgucārī. Imassa yaṁ icchasi taṁ daṇḍaṁ paṇehī’ti. Kinti naṁ kareyyāsī”ti?
 
 “Ghāteyyāma vā, bho kaccāna, jāpeyyāma vā pabbājeyyāma vā yathāpaccayaṁ vā kareyyāma. Taṁ kissa hetu? Yā hissa, bho kaccāna, pubbe ‘khattiyo’ti samaññā sāssa antarahitā; corotveva saṅkhyaṁ gacchatī”ti.
 
@@ -66,7 +66,7 @@ Taṁ kiṁ maññasi, mahārāja, idhassa khattiyo pāṇātipātī adinnādāy
 
 “Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
 
-“Taṁ kiṁ maññasi, mahārāja, idha khattiyo kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajito assa virato pāṇātipātā, virato adinnādānā, virato musāvādā, rattūparato, ekabhattiko, brahmacārī, sīlavā, kalyāṇadhammo. Kinti naṁ kareyyāsī”ti?
+9\. “Taṁ kiṁ maññasi, mahārāja, idha khattiyo kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajito assa virato pāṇātipātā, virato adinnādānā, virato musāvādā, rattūparato, ekabhattiko, brahmacārī, sīlavā, kalyāṇadhammo. Kinti naṁ kareyyāsī”ti?
 
 “Abhivādeyyāma vā, bho kaccāna, paccuṭṭheyyāma vā āsanena vā nimanteyyāma abhinimanteyyāma vā naṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi dhammikaṁ vā assa rakkhāvaraṇaguttiṁ saṁvidaheyyāma. Taṁ kissa hetu? Yā hissa, bho kaccāna, pubbe ‘khattiyo’ti samaññā sāssa antarahitā; samaṇotveva saṅkhyaṁ gacchatī”ti.
 
@@ -80,7 +80,7 @@ Taṁ kiṁ maññasi, mahārāja, idhassa khattiyo pāṇātipātī adinnādāy
 
 “Imināpi kho etaṁ, mahārāja, pariyāyena veditabbaṁ yathā ghosoyeveso lokasmiṁ: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo; brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’”ti.
 
-Evaṁ vutte, rājā mādhuro avantiputto āyasmantaṁ mahākaccānaṁ etadavoca: “abhikkantaṁ, bho kaccāna, abhikkantaṁ, bho kaccāna. Seyyathāpi, bho kaccāna, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā kaccānena anekapariyāyena dhammo pakāsito. Esāhaṁ bhavantaṁ kaccānaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ kaccāno dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+10\. Evaṁ vutte, rājā mādhuro avantiputto āyasmantaṁ mahākaccānaṁ etadavoca: “abhikkantaṁ, bho kaccāna, abhikkantaṁ, bho kaccāna. Seyyathāpi, bho kaccāna, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā kaccānena anekapariyāyena dhammo pakāsito. Esāhaṁ bhavantaṁ kaccānaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ kaccāno dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
 “Mā kho maṁ tvaṁ, mahārāja, saraṇaṁ agamāsi. Tameva tvaṁ bhagavantaṁ saraṇaṁ gaccha yamahaṁ saraṇaṁ gato”ti.
 
@@ -88,6 +88,6 @@ Evaṁ vutte, rājā mādhuro avantiputto āyasmantaṁ mahākaccānaṁ etadavo
 
 “Parinibbuto kho, mahārāja, etarahi so bhagavā arahaṁ sammāsambuddho”ti.
 
-“Sacepi mayaṁ, bho kaccāna, suṇeyyāma taṁ bhagavantaṁ dasasu yojanesu, dasapi mayaṁ yojanāni gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ. Sacepi mayaṁ, bho kaccāna, suṇeyyāma taṁ bhagavantaṁ vīsatiyā yojanesu, tiṁsāya yojanesu, cattārīsāya yojanesu, paññāsāya yojanesu, paññāsampi mayaṁ yojanāni gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ. Yojanasate cepi mayaṁ bho kaccāna, suṇeyyāma taṁ bhagavantaṁ, yojanasatampi mayaṁ gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ. Yato ca, bho kaccāna, parinibbuto so bhagavā, parinibbutampi mayaṁ bhagavantaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ kaccāno dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+11\. “Sacepi mayaṁ, bho kaccāna, suṇeyyāma taṁ bhagavantaṁ dasasu yojanesu, dasapi mayaṁ yojanāni gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ. Sacepi mayaṁ, bho kaccāna, suṇeyyāma taṁ bhagavantaṁ vīsatiyā yojanesu, tiṁsāya yojanesu, cattārīsāya yojanesu, paññāsāya yojanesu, paññāsampi mayaṁ yojanāni gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ. Yojanasate cepi mayaṁ bho kaccāna, suṇeyyāma taṁ bhagavantaṁ, yojanasatampi mayaṁ gaccheyyāma taṁ bhagavantaṁ dassanāya arahantaṁ sammāsambuddhaṁ. Yato ca, bho kaccāna, parinibbuto so bhagavā, parinibbutampi mayaṁ bhagavantaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ kaccāno dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
 Madhurasuttaṁ niṭṭhitaṁ catutthaṁ.
