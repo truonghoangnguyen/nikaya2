@@ -1,131 +1,137 @@
-# Kakacūpamasutta
+# MN 21. KINH VÍ DỤ CÁI CƯA
+*(Kakacūpamasutta)*
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Tôi đã nghe như vầy: Một thời Thế Tôn trú ở Sāvatthi (Xá-vệ), tại Kỳ Viên, trong tu viện của Anāthapiṇḍika (Cấp Cô Độc).
 
-Tena kho pana samayena āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho viharati. Evaṁ saṁsaṭṭho āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ viharati—sace koci bhikkhu āyasmato moḷiyaphaggunassa sammukhā tāsaṁ bhikkhunīnaṁ avaṇṇaṁ bhāsati, tenāyasmā moḷiyaphagguno kupito anattamano adhikaraṇampi karoti. Sace pana koci bhikkhu tāsaṁ bhikkhunīnaṁ sammukhā āyasmato moḷiyaphaggunassa avaṇṇaṁ bhāsati, tena tā bhikkhuniyo kupitā anattamanā adhikaraṇampi karonti. Evaṁ saṁsaṭṭho āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ viharati.
+2\. Lúc bấy giờ, Tôn giả Moḷiyaphagguna sống *quá thân thiết* (tụ tập / saṁsaṭṭho) với các tỳ-kheo-ni một cách quá mức. Tôn giả Moḷiyaphagguna sống thân thiết với các tỳ-kheo-ni đến mức: nếu có tỳ-kheo nào nói lời chê bai các tỳ-kheo-ni ấy trước mặt Tôn giả Moḷiyaphagguna, thì Tôn giả Moḷiyaphagguna liền tức giận, không hài lòng và *gây ra tranh cãi* (tranh sự / adhikaraṇa). Ngược lại, nếu có tỳ-kheo nào nói lời chê bai Tôn giả Moḷiyaphagguna trước mặt các tỳ-kheo-ni ấy, thì các tỳ-kheo-ni ấy liền tức giận, không hài lòng và *gây ra tranh cãi*. Tôn giả Moḷiyaphagguna sống thân thiết với các tỳ-kheo-ni như vậy.
 
-Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “āyasmā, bhante, moḷiyaphagguno bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho viharati. Evaṁ saṁsaṭṭho, bhante, āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ viharati—sace koci bhikkhu āyasmato moḷiyaphaggunassa sammukhā tāsaṁ bhikkhunīnaṁ avaṇṇaṁ bhāsati, tenāyasmā moḷiyaphagguno kupito anattamano adhikaraṇampi karoti. Sace pana koci bhikkhu tāsaṁ bhikkhunīnaṁ sammukhā āyasmato moḷiyaphaggunassa avaṇṇaṁ bhāsati, tena tā bhikkhuniyo kupitā anattamanā adhikaraṇampi karonti. Evaṁ saṁsaṭṭho, bhante, āyasmā moḷiyaphagguno bhikkhunīhi saddhiṁ viharatī”ti.
+3\. Khi ấy, có một tỳ-kheo đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, tỳ-kheo ấy thưa với Thế Tôn: "Bạch Thế Tôn, Tôn giả Moḷiyaphagguna sống *quá thân thiết* với các tỳ-kheo-ni một cách quá mức. Bạch Thế Tôn, Tôn giả Moḷiyaphagguna sống thân thiết với các tỳ-kheo-ni đến mức: nếu có tỳ-kheo nào nói lời chê bai các tỳ-kheo-ni ấy trước mặt Tôn giả Moḷiyaphagguna, thì Tôn giả Moḷiyaphagguna liền tức giận, không hài lòng và *gây ra tranh cãi*. Ngược lại, nếu có tỳ-kheo nào nói lời chê bai Tôn giả Moḷiyaphagguna trước mặt các tỳ-kheo-ni ấy, thì các tỳ-kheo-ni ấy liền tức giận, không hài lòng và *gây ra tranh cãi*. Bạch Thế Tôn, Tôn giả Moḷiyaphagguna sống thân thiết với các tỳ-kheo-ni như vậy."
 
-Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi: “ehi tvaṁ, bhikkhu, mama vacanena moḷiyaphaggunaṁ bhikkhuṁ āmantehi: ‘satthā taṁ, āvuso phagguna, āmantetī’”ti.
+4\. Khi ấy, Thế Tôn gọi một tỳ-kheo khác bảo: "Này tỳ-kheo, hãy đến đây, nhân danh Ta, hãy gọi tỳ-kheo Moḷiyaphagguna: 'Này hiền giả Phagguna, Đạo sư gọi ông'."
 
-“Evaṁ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yenāyasmā moḷiyaphagguno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ moḷiyaphaggunaṁ etadavoca: “satthā taṁ, āvuso phagguna, āmantetī”ti.
+"Thưa vâng, bạch Thế Tôn", tỳ-kheo ấy vâng đáp Thế Tôn, đi đến chỗ Tôn giả Moḷiyaphagguna; sau khi đến, nói với Tôn giả Moḷiyaphagguna: "Này hiền giả Phagguna, Đạo sư gọi ông."
 
-“Evamāvuso”ti kho āyasmā moḷiyaphagguno tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ moḷiyaphaggunaṁ bhagavā etadavoca:
+"Thưa vâng, hiền giả", Tôn giả Moḷiyaphagguna vâng đáp tỳ-kheo ấy, đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi Tôn giả Moḷiyaphagguna đã ngồi một bên, Thế Tôn nói điều này:
 
-“Saccaṁ kira tvaṁ, phagguna, bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho viharasi? Evaṁ saṁsaṭṭho kira tvaṁ, phagguna, bhikkhunīhi saddhiṁ viharasi—sace koci bhikkhu tuyhaṁ sammukhā tāsaṁ bhikkhunīnaṁ avaṇṇaṁ bhāsati, tena tvaṁ kupito anattamano adhikaraṇampi karosi. Sace pana koci bhikkhu tāsaṁ bhikkhunīnaṁ sammukhā tuyhaṁ avaṇṇaṁ bhāsati, tena tā bhikkhuniyo kupitā anattamanā adhikaraṇampi karonti. Evaṁ saṁsaṭṭho kira tvaṁ, phagguna, bhikkhunīhi saddhiṁ viharasī”ti?
+<!--pg-->
+5\. "Này Phagguna, có thật chăng ông sống *quá thân thiết* với các tỳ-kheo-ni một cách quá mức? Có thật chăng ông sống thân thiết với các tỳ-kheo-ni đến mức: nếu có tỳ-kheo nào nói lời chê bai các tỳ-kheo-ni ấy trước mặt ông, thì ông liền tức giận, không hài lòng và *gây ra tranh cãi*; và nếu có tỳ-kheo nào nói lời chê bai ông trước mặt các tỳ-kheo-ni ấy, thì các tỳ-kheo-ni ấy liền tức giận, không hài lòng và *gây ra tranh cãi*? Có thật chăng ông sống thân thiết với các tỳ-kheo-ni như vậy?"
 
-“Evaṁ, bhante”ti.
+"Thưa vâng, bạch Thế Tôn."
 
-“Nanu tvaṁ, phagguna, kulaputto saddhā agārasmā anagāriyaṁ pabbajito”ti?
+"Này Phagguna, có phải ông là con nhà gia giáo, vì niềm tin mà rời bỏ gia đình, sống không gia đình?"
 
-“Evaṁ, bhante”ti.
+"Thưa vâng, bạch Thế Tôn."
 
-“Na kho te etaṁ, phagguna, patirūpaṁ kulaputtassa saddhā agārasmā anagāriyaṁ pabbajitassa, yaṁ tvaṁ bhikkhunīhi saddhiṁ ativelaṁ saṁsaṭṭho vihareyyāsi. Tasmātiha, phagguna, tava cepi koci sammukhā tāsaṁ bhikkhunīnaṁ avaṇṇaṁ bhāseyya, tatrāpi tvaṁ, phagguna, ye gehasitā chandā ye gehasitā vitakkā te pajaheyyāsi. Tatrāpi te, phagguna, evaṁ sikkhitabbaṁ: ‘na ceva me cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāmi, hitānukampī ca viharissāmi mettacitto, na dosantaro’ti. Evañhi te, phagguna, sikkhitabbaṁ.
+6\. "Này Phagguna, điều đó thật không phù hợp cho ông, một người con nhà gia giáo vì niềm tin mà rời bỏ gia đình sống không gia đình, lại đi sống *quá thân thiết* với các tỳ-kheo-ni một cách quá mức. Do vậy, này Phagguna, nếu có ai chê bai các tỳ-kheo-ni ấy ngay trước mặt ông, ngay tại đó, này Phagguna, ông cần phải *từ bỏ* (đoạn trừ / pajaheyyāsi) những *mong muốn* (dục / chandā) liên quan đến đời sống gia đình và những *chủ động hướng sự chú ý* (tầm / vitakkā) liên quan đến đời sống gia đình. Ngay tại đó, này Phagguna, ông cần phải rèn luyện như sau: 'Tâm của ta sẽ không bị biến đổi, ta sẽ không thốt ra lời ác, ta sẽ sống mong mỏi lợi ích với *tâm yêu thương* (từ tâm / mettacitta), không mang *ám ảnh khó chịu* (sân / dosa) trong lòng'. Này Phagguna, ông cần phải rèn luyện như vậy.
 
-Tasmātiha, phagguna, tava cepi koci sammukhā tāsaṁ bhikkhunīnaṁ pāṇinā pahāraṁ dadeyya, leḍḍunā pahāraṁ dadeyya, daṇḍena pahāraṁ dadeyya, satthena pahāraṁ dadeyya. Tatrāpi tvaṁ, phagguna, ye gehasitā chandā ye gehasitā vitakkā te pajaheyyāsi. Tatrāpi te, phagguna, evaṁ sikkhitabbaṁ ‘na ceva me cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāmi, hitānukampī ca viharissāmi mettacitto, na dosantaro’ti. Evañhi te, phagguna, sikkhitabbaṁ.
+Do vậy, này Phagguna, nếu có ai đánh đập các tỳ-kheo-ni ấy ngay trước mặt ông bằng tay, bằng cục đất, bằng gậy, hay bằng dao. Ngay tại đó, này Phagguna, ông cần phải *từ bỏ* những *mong muốn* liên quan đến đời sống gia đình và những *chủ động hướng sự chú ý* liên quan đến đời sống gia đình. Ngay tại đó, này Phagguna, ông cần phải rèn luyện như sau: 'Tâm của ta sẽ không bị biến đổi, ta sẽ không thốt ra lời ác, ta sẽ sống mong mỏi lợi ích với *tâm yêu thương*, không mang *ám ảnh khó chịu* trong lòng'. Này Phagguna, ông cần phải rèn luyện như vậy.
 
-Tasmātiha, phagguna, tava cepi koci sammukhā avaṇṇaṁ bhāseyya, tatrāpi tvaṁ, phagguna, ye gehasitā chandā ye gehasitā vitakkā te pajaheyyāsi. Tatrāpi te, phagguna, evaṁ sikkhitabbaṁ ‘na ceva me cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāmi, hitānukampī ca viharissāmi mettacitto, na dosantaro’ti. Evañhi te, phagguna, sikkhitabbaṁ.
+Do vậy, này Phagguna, nếu có ai chê bai ông ngay trước mặt ông, ngay tại đó, này Phagguna, ông cần phải *từ bỏ* những *mong muốn* liên quan đến đời sống gia đình và những *chủ động hướng sự chú ý* liên quan đến đời sống gia đình. Ngay tại đó, này Phagguna, ông cần phải rèn luyện như sau: 'Tâm của ta sẽ không bị biến đổi, ta sẽ không thốt ra lời ác, ta sẽ sống mong mỏi lợi ích với *tâm yêu thương*, không mang *ám ảnh khó chịu* trong lòng'. Này Phagguna, ông cần phải rèn luyện như vậy.
 
-Tasmātiha, phagguna, tava cepi koci pāṇinā pahāraṁ dadeyya, leḍḍunā pahāraṁ dadeyya, daṇḍena pahāraṁ dadeyya, satthena pahāraṁ dadeyya, tatrāpi tvaṁ, phagguna, ye gehasitā chandā ye gehasitā vitakkā te pajaheyyāsi. Tatrāpi te, phagguna, evaṁ sikkhitabbaṁ ‘na ceva me cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāmi, hitānukampī ca viharissāmi mettacitto, na dosantaro’ti. Evañhi te, phagguna, sikkhitabban”ti.
+Do vậy, này Phagguna, nếu có ai đánh đập ông bằng tay, bằng cục đất, bằng gậy, hay bằng dao, ngay tại đó, này Phagguna, ông cần phải *từ bỏ* những *mong muốn* liên quan đến đời sống gia đình và những *chủ động hướng sự chú ý* liên quan đến đời sống gia đình. Ngay tại đó, này Phagguna, ông cần phải rèn luyện như sau: 'Tâm của ta sẽ không bị biến đổi, ta sẽ không thốt ra lời ác, ta sẽ sống mong mỏi lợi ích với *tâm yêu thương*, không mang *ám ảnh khó chịu* trong lòng'. Này Phagguna, ông cần phải rèn luyện như vậy."
 
-Atha kho bhagavā bhikkhū āmantesi:
+<!--pg-->
+7\. Khi ấy, Thế Tôn gọi các tỳ-kheo:
 
-“ārādhayiṁsu vata me, bhikkhave, bhikkhū ekaṁ samayaṁ cittaṁ. Idhāhaṁ, bhikkhave, bhikkhū āmantesiṁ—ahaṁ kho, bhikkhave, ekāsanabhojanaṁ bhuñjāmi. Ekāsanabhojanaṁ kho ahaṁ, bhikkhave, bhuñjamāno appābādhatañca sañjānāmi appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañca. Etha tumhepi, bhikkhave, ekāsanabhojanaṁ bhuñjatha. Ekāsanabhojanaṁ kho, bhikkhave, tumhepi bhuñjamānā appābādhatañca sañjānissatha appātaṅkatañca lahuṭṭhānañca balañca phāsuvihārañcāti. Na me, bhikkhave, tesu bhikkhūsu anusāsanī karaṇīyā ahosi; satuppādakaraṇīyameva me, bhikkhave, tesu bhikkhūsu ahosi.
+"Này các tỳ-kheo, đã có một thời các tỳ-kheo làm cho tâm Ta được hài lòng. Ở đây, này các tỳ-kheo, Ta đã bảo các tỳ-kheo: 'Này các tỳ-kheo, Ta chỉ ăn một lần ngồi. Này các tỳ-kheo, nhờ ăn một lần ngồi, Ta cảm thấy ít bệnh tật, ít ốm đau, cơ thể nhẹ nhàng, khỏe mạnh và sống thoải mái. Hãy đến đây, này các tỳ-kheo, các ông cũng hãy ăn một lần ngồi. Này các tỳ-kheo, nhờ ăn một lần ngồi, các ông cũng sẽ cảm thấy ít bệnh tật, ít ốm đau, cơ thể nhẹ nhàng, khỏe mạnh và sống thoải mái'. Này các tỳ-kheo, Ta không cần phải ra chỉ thị cho các tỳ-kheo ấy; Ta chỉ cần khơi gợi *sự chú tâm* (niệm / sati) nơi các tỳ-kheo ấy.
 
-Seyyathāpi, bhikkhave, subhūmiyaṁ catumahāpathe ājaññaratho yutto assa ṭhito odhastapatodo. Tamenaṁ dakkho yoggācariyo assadammasārathi abhiruhitvā, vāmena hatthena rasmiyo gahetvā, dakkhiṇena hatthena patodaṁ gahetvā, yenicchakaṁ yadicchakaṁ sāreyyapi paccāsāreyyapi.
+Này các tỳ-kheo, giống như một cỗ xe ngựa thuần chủng được thắng sẵn, đứng trên mặt đất bằng phẳng ở ngã tư đường, với cây roi đặt sẵn. Một người đánh xe khéo léo, người điều khiển ngựa điêu luyện, bước lên xe, tay trái cầm dây cương, tay phải cầm roi, có thể điều khiển xe tiến tới hay lùi lại theo bất cứ hướng nào mình muốn.
 
-Evameva kho, bhikkhave, na me tesu bhikkhūsu anusāsanī karaṇīyā ahosi, satuppādakaraṇīyameva me, bhikkhave, tesu bhikkhūsu ahosi. Tasmātiha, bhikkhave, tumhepi akusalaṁ pajahatha, kusalesu dhammesu āyogaṁ karotha. Evañhi tumhepi imasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatha.
+Cũng vậy, này các tỳ-kheo, Ta không cần phải ra chỉ thị cho các tỳ-kheo ấy, Ta chỉ cần khơi gợi *sự chú tâm* nơi các tỳ-kheo ấy. Do vậy, này các tỳ-kheo, các ông cũng hãy *từ bỏ* những điều không thiện, nỗ lực thực hành trong những *điều thiện* (pháp thiện / kusalesu dhammesu). Có như vậy, các ông mới đạt được sự tăng trưởng, phát triển và viên mãn trong *Điều dạy* (pháp / dhamma) và kỷ luật này.
 
-Seyyathāpi, bhikkhave, gāmassa vā nigamassa vā avidūre mahantaṁ sālavanaṁ. Tañcassa eḷaṇḍehi sañchannaṁ. Tassa kocideva puriso uppajjeyya atthakāmo hitakāmo yogakkhemakāmo. So yā tā sālalaṭṭhiyo kuṭilā ojāpaharaṇiyo tā chetvā bahiddhā nīhareyya, antovanaṁ suvisodhitaṁ visodheyya. Yā pana tā sālalaṭṭhiyo ujukā sujātā tā sammā parihareyya. Evañhetaṁ, bhikkhave, sālavanaṁ aparena samayena vuddhiṁ virūḷhiṁ vepullaṁ āpajjeyya.
+<!--pg-->
+8\. Này các tỳ-kheo, giống như không xa một ngôi làng hay thị trấn có một khu rừng cây Sāla lớn. Khu rừng ấy bị dây leo eḷaṇḍa bao phủ. Rồi có một người xuất hiện, mong muốn lợi ích, mong muốn điều tốt đẹp, mong muốn sự an toàn cho khu rừng. Người ấy chặt bỏ những cây Sāla non cong queo, hút hết dưỡng chất, đem vứt ra ngoài, dọn dẹp sạch sẽ bên trong khu rừng. Còn những cây Sāla non mọc thẳng tắp, sinh trưởng tốt, người ấy chăm sóc cẩn thận. Như vậy, này các tỳ-kheo, sau một thời gian, khu rừng Sāla ấy sẽ đạt được sự tăng trưởng, phát triển và viên mãn.
 
-Evameva kho, bhikkhave, tumhepi akusalaṁ pajahatha, kusalesu dhammesu āyogaṁ karotha. Evañhi tumhepi imasmiṁ dhammavinaye vuddhiṁ virūḷhiṁ vepullaṁ āpajjissatha.
+Cũng vậy, này các tỳ-kheo, các ông cũng hãy *từ bỏ* những điều không thiện, nỗ lực thực hành trong những *điều thiện*. Có như vậy, các ông mới đạt được sự tăng trưởng, phát triển và viên mãn trong *Điều dạy* và kỷ luật này.
 
-Bhūtapubbaṁ, bhikkhave, imissāyeva sāvatthiyā vedehikā nāma gahapatānī ahosi. Vedehikāya, bhikkhave, gahapatāniyā evaṁ kalyāṇo kittisaddo abbhuggato: ‘soratā vedehikā gahapatānī, nivātā vedehikā gahapatānī, upasantā vedehikā gahapatānī’ti. Vedehikāya kho pana, bhikkhave, gahapatāniyā kāḷī nāma dāsī ahosi dakkhā analasā susaṁvihitakammantā.
+<!--pg-->
+9\. Này các tỳ-kheo, thuở xưa, ngay tại Sāvatthi này, có một nữ gia chủ tên là Vedehikā. Này các tỳ-kheo, tiếng đồn tốt đẹp sau đây về nữ gia chủ Vedehikā được lan truyền: 'Nữ gia chủ Vedehikā hiền lành, nữ gia chủ Vedehikā khiêm tốn, nữ gia chủ Vedehikā điềm đạm'. Này các tỳ-kheo, nữ gia chủ Vedehikā có một người hầu gái tên là Kāḷī, khéo léo, không lười biếng, sắp xếp công việc rất chu toàn.
 
-Atha kho, bhikkhave, kāḷiyā dāsiyā etadahosi: ‘mayhaṁ kho ayyāya evaṁ kalyāṇo kittisaddo abbhuggato: “soratā vedehikā gahapatānī, nivātā vedehikā gahapatānī, upasantā vedehikā gahapatānī”ti. Kiṁ nu kho me ayyā santaṁyeva nu kho ajjhattaṁ kopaṁ na pātukaroti udāhu asantaṁ udāhu mayhamevete kammantā susaṁvihitā yena me ayyā santaṁyeva ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ? Yannūnāhaṁ ayyaṁ vīmaṁseyyan’ti.
+Rồi này các tỳ-kheo, người hầu gái Kāḷī suy nghĩ: 'Tiếng đồn tốt đẹp sau đây về bà chủ của ta được lan truyền: "Nữ gia chủ Vedehikā hiền lành, nữ gia chủ Vedehikā khiêm tốn, nữ gia chủ Vedehikā điềm đạm". Không biết bà chủ của ta có sự tức giận bên trong nhưng không bộc lộ ra, hay là không có sự tức giận? Hay là do ta sắp xếp công việc chu toàn nên bà chủ có sự tức giận bên trong mà không bộc lộ ra, chứ không phải là không có? Hay là ta thử bà chủ xem sao.'
 
-Atha kho, bhikkhave, kāḷī dāsī divā uṭṭhāsi. Atha kho, bhikkhave, vedehikā gahapatānī kāḷiṁ dāsiṁ etadavoca: ‘he je kāḷī’ti.
+Rồi này các tỳ-kheo, người hầu gái Kāḷī thức dậy muộn vào ban ngày. Khi ấy, nữ gia chủ Vedehikā gọi người hầu gái Kāḷī: 'Này con Kāḷī kia!'
 
-‘Kiṁ, ayye’ti?
+'Dạ, thưa bà chủ?'
 
-‘Kiṁ, je, divā uṭṭhāsī’ti?
+'Sao hôm nay mày dậy muộn thế?'
 
-‘Na khvayye, kiñcī’ti.
+'Dạ thưa bà chủ, không có chuyện gì đâu ạ.'
 
-‘No vata re kiñci, pāpi dāsi, divā uṭṭhāsī’ti kupitā anattamanā bhākuṭiṁ akāsi.
+'Không có chuyện gì à, con hầu gái tồi tệ kia, sao mày dậy muộn thế!', bà chủ tức giận, không hài lòng, cau mày nhăn mặt.
 
-Atha kho, bhikkhave, kāḷiyā dāsiyā etadahosi: ‘santaṁyeva kho me ayyā ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ; mayhamevete kammantā susaṁvihitā, yena me ayyā santaṁyeva ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ. Yannūnāhaṁ bhiyyoso mattāya ayyaṁ vīmaṁseyyan’ti.
+Rồi này các tỳ-kheo, người hầu gái Kāḷī suy nghĩ: 'Bà chủ của ta có sự tức giận bên trong nhưng không bộc lộ ra, chứ không phải là không có; chính do ta sắp xếp công việc chu toàn nên bà chủ có sự tức giận bên trong mà không bộc lộ ra, chứ không phải là không có. Hay là ta thử bà chủ thêm mức độ nữa xem sao.'
 
-Atha kho, bhikkhave, kāḷī dāsī divātaraṁyeva uṭṭhāsi. Atha kho, bhikkhave, vedehikā gahapatānī kāḷiṁ dāsiṁ etadavoca: ‘he je kāḷī’ti.
+Rồi này các tỳ-kheo, người hầu gái Kāḷī thức dậy muộn hơn nữa vào ban ngày. Khi ấy, nữ gia chủ Vedehikā gọi người hầu gái Kāḷī: 'Này con Kāḷī kia!'
 
-‘Kiṁ, ayye’ti?
+'Dạ, thưa bà chủ?'
 
-‘Kiṁ, je, divātaraṁ uṭṭhāsī’ti?
+'Sao hôm nay mày dậy muộn hơn thế?'
 
-‘Na khvayye, kiñcī’ti.
+'Dạ thưa bà chủ, không có chuyện gì đâu ạ.'
 
-‘No vata re kiñci, pāpi dāsi, divātaraṁ uṭṭhāsī’ti kupitā anattamanā anattamanavācaṁ nicchāresi.
+'Không có chuyện gì à, con hầu gái tồi tệ kia, sao mày dậy muộn hơn thế!', bà chủ tức giận, không hài lòng, thốt ra những lời khó nghe.
 
-Atha kho, bhikkhave, kāḷiyā dāsiyā etadahosi: ‘santaṁyeva kho me ayyā ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ. Mayhamevete kammantā susaṁvihitā, yena me ayyā santaṁyeva ajjhattaṁ kopaṁ na pātukaroti, no asantaṁ. Yannūnāhaṁ bhiyyoso mattāya ayyaṁ vīmaṁseyyan’ti.
+Rồi này các tỳ-kheo, người hầu gái Kāḷī suy nghĩ: 'Bà chủ của ta có sự tức giận bên trong nhưng không bộc lộ ra, chứ không phải là không có. Chính do ta sắp xếp công việc chu toàn nên bà chủ có sự tức giận bên trong mà không bộc lộ ra, chứ không phải là không có. Hay là ta thử bà chủ thêm mức độ nữa xem sao.'
 
-Atha kho, bhikkhave, kāḷī dāsī divātaraṁyeva uṭṭhāsi. Atha kho, bhikkhave, vedehikā gahapatānī kāḷiṁ dāsiṁ etadavoca: ‘he je kāḷī’ti.
+Rồi này các tỳ-kheo, người hầu gái Kāḷī thức dậy thật muộn vào ban ngày. Khi ấy, nữ gia chủ Vedehikā gọi người hầu gái Kāḷī: 'Này con Kāḷī kia!'
 
-‘Kiṁ, ayye’ti?
+'Dạ, thưa bà chủ?'
 
-‘Kiṁ, je, divā uṭṭhāsī’ti?
+'Sao hôm nay mày dậy muộn thế?'
 
-‘Na khvayye, kiñcī’ti.
+'Dạ thưa bà chủ, không có chuyện gì đâu ạ.'
 
-‘No vata re kiñci, pāpi dāsi, divā uṭṭhāsī’ti kupitā anattamanā aggaḷasūciṁ gahetvā sīse pahāraṁ adāsi, sīsaṁ vobhindi.
+'Không có chuyện gì à, con hầu gái tồi tệ kia, sao mày dậy muộn thế!', bà chủ tức giận, không hài lòng, cầm lấy cái chốt cửa đánh vào đầu Kāḷī, làm vỡ đầu cô.
 
-Atha kho, bhikkhave, kāḷī dāsī bhinnena sīsena lohitena galantena paṭivissakānaṁ ujjhāpesi: ‘passathayye, soratāya kammaṁ; passathayye, nivātāya kammaṁ, passathayye, upasantāya kammaṁ. Kathañhi nāma ekadāsikāya divā uṭṭhāsīti kupitā anattamanā aggaḷasūciṁ gahetvā sīse pahāraṁ dassati, sīsaṁ vobhindissatī’ti.
+Rồi này các tỳ-kheo, người hầu gái Kāḷī với cái đầu bị vỡ, máu chảy ròng ròng, đi lu loa với những người hàng xóm: 'Các vị xem đi, đây là hành động của người hiền lành; các vị xem đi, đây là hành động của người khiêm tốn; các vị xem đi, đây là hành động của người điềm đạm. Làm sao mà chỉ vì một đứa hầu gái thức dậy muộn, lại tức giận, không hài lòng, cầm chốt cửa đánh vào đầu, làm vỡ đầu nó như vậy!'
 
-Atha kho, bhikkhave, vedehikāya gahapatāniyā aparena samayena evaṁ pāpako kittisaddo abbhuggacchi: ‘caṇḍī vedehikā gahapatānī, anivātā vedehikā gahapatānī, anupasantā vedehikā gahapatānī’ti.
+Rồi này các tỳ-kheo, sau một thời gian, tiếng đồn xấu sau đây về nữ gia chủ Vedehikā được lan truyền: 'Nữ gia chủ Vedehikā hung dữ, nữ gia chủ Vedehikā không khiêm tốn, nữ gia chủ Vedehikā không điềm đạm'.
 
-Evameva kho, bhikkhave, idhekacco bhikkhu tāvadeva soratasorato hoti nivātanivāto hoti upasantūpasanto hoti yāva na amanāpā vacanapathā phusanti. Yato ca, bhikkhave, bhikkhuṁ amanāpā vacanapathā phusanti, atha bhikkhu ‘sorato’ti veditabbo, ‘nivāto’ti veditabbo, ‘upasanto’ti veditabbo. Nāhaṁ taṁ, bhikkhave, bhikkhuṁ ‘suvaco’ti vadāmi yo cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārahetu suvaco hoti, sovacassataṁ āpajjati. Taṁ kissa hetu? Tañhi so, bhikkhave, bhikkhu cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṁ alabhamāno na suvaco hoti, na sovacassataṁ āpajjati. Yo ca kho, bhikkhave, bhikkhu dhammaṁyeva sakkaronto, dhammaṁ garuṁ karonto, dhammaṁ mānento, dhammaṁ pūjento, dhammaṁ apacāyamāno suvaco hoti, sovacassataṁ āpajjati, tamahaṁ ‘suvaco’ti vadāmi. Tasmātiha, bhikkhave, ‘dhammaṁyeva sakkarontā, dhammaṁ garuṁ karontā, dhammaṁ mānentā, dhammaṁ pūjentā, dhammaṁ apacāyamānā suvacā bhavissāma, sovacassataṁ āpajjissāmā’ti. Evañhi vo, bhikkhave, sikkhitabbaṁ.
+<!--pg-->
+10\. Cũng vậy, này các tỳ-kheo, ở đây có tỳ-kheo cực kỳ hiền lành, cực kỳ khiêm tốn, cực kỳ điềm đạm, chừng nào những *cách nói năng* (đường lối ngôn ngữ / vacanapathā) không vừa ý chưa chạm đến vị ấy. Nhưng này các tỳ-kheo, khi những *cách nói năng* không vừa ý chạm đến tỳ-kheo ấy, lúc bấy giờ mới biết tỳ-kheo ấy có thực sự 'hiền lành', có thực sự 'khiêm tốn', có thực sự 'điềm đạm' hay không. Này các tỳ-kheo, Ta không gọi tỳ-kheo là *người dễ tiếp thu lời khuyên* (dễ nói / suvaco) nếu vị ấy tỏ ra dễ tiếp thu lời khuyên, đạt được tính dễ tiếp thu lời khuyên chỉ vì lý do y phục, thức ăn, chỗ ở, và *điều kiện vừa đủ* (duyên / paccaya) cho người bệnh là thuốc men. Vì sao vậy? Vì này các tỳ-kheo, khi tỳ-kheo ấy không nhận được y phục, thức ăn, chỗ ở, và *điều kiện vừa đủ* cho người bệnh là thuốc men, vị ấy sẽ không còn là *người dễ tiếp thu lời khuyên*, không đạt được tính dễ tiếp thu lời khuyên. Nhưng này các tỳ-kheo, tỳ-kheo nào tôn trọng *Điều dạy*, xem trọng *Điều dạy*, kính trọng *Điều dạy*, cúng dường *Điều dạy*, tôn kính *Điều dạy* mà trở thành *người dễ tiếp thu lời khuyên*, đạt được tính dễ tiếp thu lời khuyên, thì Ta gọi vị ấy là *người dễ tiếp thu lời khuyên*. Do vậy, này các tỳ-kheo, các ông cần phải rèn luyện như sau: 'Chỉ vì tôn trọng *Điều dạy*, xem trọng *Điều dạy*, kính trọng *Điều dạy*, cúng dường *Điều dạy*, tôn kính *Điều dạy*, chúng ta sẽ trở thành *người dễ tiếp thu lời khuyên*, đạt được tính dễ tiếp thu lời khuyên'. Này các tỳ-kheo, các ông cần phải rèn luyện như vậy.
 
-Pañcime, bhikkhave, vacanapathā yehi vo pare vadamānā vadeyyuṁ—kālena vā akālena vā; bhūtena vā abhūtena vā; saṇhena vā pharusena vā; atthasaṁhitena vā anatthasaṁhitena vā; mettacittā vā dosantarā vā. Kālena vā, bhikkhave, pare vadamānā vadeyyuṁ akālena vā; bhūtena vā, bhikkhave, pare vadamānā vadeyyuṁ abhūtena vā; saṇhena vā, bhikkhave, pare vadamānā vadeyyuṁ pharusena vā; atthasaṁhitena vā, bhikkhave, pare vadamānā vadeyyuṁ anatthasaṁhitena vā; mettacittā vā, bhikkhave, pare vadamānā vadeyyuṁ dosantarā vā. Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ: ‘na ceva no cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāma, hitānukampī ca viharissāma mettacittā, na dosantarā. Tañca puggalaṁ mettāsahagatena cetasā pharitvā viharissāma, tadārammaṇañca sabbāvantaṁ lokaṁ mettāsahagatena cittena vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabbaṁ.
+11\. Này các tỳ-kheo, có năm *cách nói năng* mà người khác có thể dùng khi nói với các ông: đúng lúc hay không đúng lúc; sự thật hay không phải sự thật; nhẹ nhàng hay thô lỗ; có lợi ích hay không có lợi ích; với *tâm yêu thương* hay với ác ý. Này các tỳ-kheo, người khác có thể nói với các ông đúng lúc hay không đúng lúc; này các tỳ-kheo, người khác có thể nói với các ông sự thật hay không phải sự thật; này các tỳ-kheo, người khác có thể nói với các ông nhẹ nhàng hay thô lỗ; này các tỳ-kheo, người khác có thể nói với các ông có lợi ích hay không có lợi ích; này các tỳ-kheo, người khác có thể nói với các ông với *tâm yêu thương* hay với ác ý. Ngay cả khi ấy, này các tỳ-kheo, các ông cần phải rèn luyện như sau: 'Tâm của chúng ta sẽ không bị biến đổi, chúng ta sẽ không thốt ra lời ác, chúng ta sẽ sống mong mỏi lợi ích với *tâm yêu thương*, không mang *ám ảnh khó chịu* trong lòng. Chúng ta sẽ sống lan tỏa đến người đó bằng tâm đi cùng *tâm yêu thương*, và lấy đó làm cơ sở, chúng ta sẽ sống lan tỏa khắp toàn bộ thế giới bằng tâm đi cùng *tâm yêu thương*, rộng lớn, vĩ đại, *không giới hạn* (vô lượng / appamāṇa), không hận thù, không ác ý'. Này các tỳ-kheo, các ông cần phải rèn luyện như vậy.
 
-Seyyathāpi, bhikkhave, puriso āgaccheyya kudālapiṭakaṁ ādāya. So evaṁ vadeyya: ‘ahaṁ imaṁ mahāpathaviṁ apathaviṁ karissāmī’ti. So tatra tatra vikhaṇeyya, tatra tatra vikireyya, tatra tatra oṭṭhubheyya, tatra tatra omutteyya: ‘apathavī bhavasi, apathavī bhavasī’ti.
+12\. Này các tỳ-kheo, giống như một người đi đến, mang theo cái cuốc và cái thúng. Người ấy nói: 'Ta sẽ làm cho quả đất lớn này không còn là đất nữa'. Người ấy đào chỗ này chỗ kia, rải đất chỗ này chỗ kia, nhổ nước bọt chỗ này chỗ kia, đi tiểu chỗ này chỗ kia và nói: 'Mày không còn là đất nữa, mày không còn là đất nữa'.
 
-Taṁ kiṁ maññatha, bhikkhave, api nu so puriso imaṁ mahāpathaviṁ apathaviṁ kareyyā”ti?
+Các ông nghĩ thế nào, này các tỳ-kheo, người ấy có thể làm cho quả đất lớn này không còn là đất nữa được không?"
 
-“No hetaṁ, bhante”. “Taṁ kissa hetu”? “Ayañhi, bhante, mahāpathavī gambhīrā appameyyā. Sā na sukarā apathavī kātuṁ; yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.
+"Thưa không, bạch Thế Tôn." "Vì sao vậy?" "Bạch Thế Tôn, vì quả đất lớn này sâu thẳm và không thể đo lường được. Thật không dễ gì làm cho nó không còn là đất nữa; người ấy chỉ chuốc lấy sự mệt nhọc và bực dọc mà thôi."
 
-“Evameva kho, bhikkhave, pañcime vacanapathā yehi vo pare vadamānā vadeyyuṁ—kālena vā akālena vā; bhūtena vā abhūtena vā; saṇhena vā pharusena vā; atthasaṁhitena vā anatthasaṁhitena vā; mettacittā vā dosantarā vā. Kālena vā, bhikkhave, pare vadamānā vadeyyuṁ akālena vā; bhūtena vā bhikkhave, pare vadamānā vadeyyuṁ abhūtena vā; saṇhena vā, bhikkhave, pare vadamānā vadeyyuṁ pharusena vā; atthasaṁhitena vā, bhikkhave, pare vadamānā vadeyyuṁ anatthasaṁhitena vā; mettacittā vā, bhikkhave, pare vadamānā vadeyyuṁ dosantarā vā. Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ: ‘na ceva no cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāma, hitānukampī ca viharissāma mettacittā na dosantarā. Tañca puggalaṁ mettāsahagatena cetasā pharitvā viharissāma, tadārammaṇañca sabbāvantaṁ lokaṁ pathavisamena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabbaṁ.
+13\. "Cũng vậy, này các tỳ-kheo, có năm *cách nói năng* mà người khác có thể dùng khi nói với các ông: đúng lúc hay không đúng lúc; sự thật hay không phải sự thật; nhẹ nhàng hay thô lỗ; có lợi ích hay không có lợi ích; với *tâm yêu thương* hay với ác ý. Này các tỳ-kheo, người khác có thể nói với các ông đúng lúc hay không đúng lúc; này các tỳ-kheo, người khác có thể nói với các ông sự thật hay không phải sự thật; này các tỳ-kheo, người khác có thể nói với các ông nhẹ nhàng hay thô lỗ; này các tỳ-kheo, người khác có thể nói với các ông có lợi ích hay không có lợi ích; này các tỳ-kheo, người khác có thể nói với các ông với *tâm yêu thương* hay với ác ý. Ngay cả khi ấy, này các tỳ-kheo, các ông cần phải rèn luyện như sau: 'Tâm của chúng ta sẽ không bị biến đổi, chúng ta sẽ không thốt ra lời ác, chúng ta sẽ sống mong mỏi lợi ích với *tâm yêu thương*, không mang *ám ảnh khó chịu* trong lòng. Chúng ta sẽ sống lan tỏa đến người đó bằng tâm đi cùng *tâm yêu thương*, và lấy đó làm cơ sở, chúng ta sẽ sống lan tỏa khắp toàn bộ thế giới bằng tâm giống như quả đất, rộng lớn, vĩ đại, *không giới hạn*, không hận thù, không ác ý'. Này các tỳ-kheo, các ông cần phải rèn luyện như vậy.
 
-Seyyathāpi, bhikkhave, puriso āgaccheyya lākhaṁ vā haliddiṁ vā nīlaṁ vā mañjiṭṭhaṁ vā ādāya. So evaṁ vadeyya: ‘ahaṁ imasmiṁ ākāse rūpaṁ likhissāmi, rūpapātubhāvaṁ karissāmī’ti.
+14\. Này các tỳ-kheo, giống như một người đi đến, mang theo sơn mài, nghệ, màu xanh, hay màu đỏ. Người ấy nói: 'Ta sẽ vẽ hình ảnh trên không gian này, ta sẽ làm cho hình ảnh xuất hiện'.
 
-Taṁ kiṁ maññatha, bhikkhave, api nu so puriso imasmiṁ ākāse rūpaṁ likheyya, rūpapātubhāvaṁ kareyyā”ti?
+Các ông nghĩ thế nào, này các tỳ-kheo, người ấy có thể vẽ hình ảnh trên không gian này, làm cho hình ảnh xuất hiện được không?"
 
-“No hetaṁ, bhante”. “Taṁ kissa hetu”? “Ayañhi, bhante, ākāso arūpī anidassano. Tattha na sukaraṁ rūpaṁ likhituṁ, rūpapātubhāvaṁ kātuṁ; yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.
+"Thưa không, bạch Thế Tôn." "Vì sao vậy?" "Bạch Thế Tôn, vì không gian này không có hình sắc, không thể nhìn thấy. Thật không dễ gì vẽ hình ảnh, làm cho hình ảnh xuất hiện ở đó; người ấy chỉ chuốc lấy sự mệt nhọc và bực dọc mà thôi."
 
-“Evameva kho, bhikkhave, pañcime vacanapathā yehi vo pare vadamānā vadeyyuṁ kālena vā akālena vā …pe… tadārammaṇañca sabbāvantaṁ lokaṁ ākāsasamena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabbaṁ.
+15\. "Cũng vậy, này các tỳ-kheo, có năm *cách nói năng* mà người khác có thể dùng khi nói với các ông: đúng lúc hay không đúng lúc [...lặp lại...] và lấy đó làm cơ sở, chúng ta sẽ sống lan tỏa khắp toàn bộ thế giới bằng tâm giống như không gian, rộng lớn, vĩ đại, *không giới hạn*, không hận thù, không ác ý'. Này các tỳ-kheo, các ông cần phải rèn luyện như vậy.
 
-Seyyathāpi, bhikkhave, puriso āgaccheyya ādittaṁ tiṇukkaṁ ādāya. So evaṁ vadeyya: ‘ahaṁ imāya ādittāya tiṇukkāya gaṅgaṁ nadiṁ santāpessāmi samparitāpessāmī’ti.
+16\. Này các tỳ-kheo, giống như một người đi đến, mang theo một bó đuốc cỏ đang cháy rực. Người ấy nói: 'Ta sẽ dùng bó đuốc cỏ đang cháy rực này để đốt nóng, làm cho sông Hằng sôi lên'.
 
-Taṁ kiṁ maññatha, bhikkhave, api nu so puriso ādittāya tiṇukkāya gaṅgaṁ nadiṁ santāpeyya samparitāpeyyā”ti?
+Các ông nghĩ thế nào, này các tỳ-kheo, người ấy có thể dùng bó đuốc cỏ đang cháy rực để đốt nóng, làm cho sông Hằng sôi lên được không?"
 
-“No hetaṁ, bhante”. “Taṁ kissa hetu”? “Gaṅgā hi, bhante, nadī gambhīrā appameyyā. Sā na sukarā ādittāya tiṇukkāya santāpetuṁ samparitāpetuṁ; yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.
+"Thưa không, bạch Thế Tôn." "Vì sao vậy?" "Bạch Thế Tôn, vì sông Hằng sâu thẳm và không thể đo lường được. Thật không dễ gì dùng bó đuốc cỏ đang cháy rực để đốt nóng, làm cho nó sôi lên; người ấy chỉ chuốc lấy sự mệt nhọc và bực dọc mà thôi."
 
-“Evameva kho, bhikkhave, pañcime vacanapathā yehi vo pare vadamānā vadeyyuṁ kālena vā akālena vā …pe… tadārammaṇañca sabbāvantaṁ lokaṁ gaṅgāsamena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabbaṁ.
+17\. "Cũng vậy, này các tỳ-kheo, có năm *cách nói năng* mà người khác có thể dùng khi nói với các ông: đúng lúc hay không đúng lúc [...lặp lại...] và lấy đó làm cơ sở, chúng ta sẽ sống lan tỏa khắp toàn bộ thế giới bằng tâm giống như sông Hằng, rộng lớn, vĩ đại, *không giới hạn*, không hận thù, không ác ý'. Này các tỳ-kheo, các ông cần phải rèn luyện như vậy.
 
-Seyyathāpi, bhikkhave, biḷārabhastā madditā sumadditā suparimadditā, mudukā tūlinī chinnasassarā chinnabhabbharā. Atha puriso āgaccheyya kaṭṭhaṁ vā kathalaṁ vā ādāya. So evaṁ vadeyya: ‘ahaṁ imaṁ biḷārabhastaṁ madditaṁ sumadditaṁ suparimadditaṁ, mudukaṁ tūliniṁ, chinnasassaraṁ chinnabhabbharaṁ kaṭṭhena vā kathalena vā sarasaraṁ karissāmi bharabharaṁ karissāmī’ti.
+18\. Này các tỳ-kheo, giống như một cái túi da mèo đã được nhồi nặn, nhồi nặn kỹ, nhồi nặn rất kỹ, trở nên mềm mại, mịn màng như bông, không còn tiếng sột soạt, không còn tiếng lạo xạo. Rồi một người đi đến, mang theo một cây gậy hay một mảnh sành. Người ấy nói: 'Ta sẽ dùng cây gậy hay mảnh sành này làm cho cái túi da mèo đã được nhồi nặn, nhồi nặn kỹ, nhồi nặn rất kỹ, mềm mại, mịn màng như bông, không còn tiếng sột soạt, không còn tiếng lạo xạo này phát ra tiếng sột soạt, phát ra tiếng lạo xạo'.
 
-Taṁ kiṁ maññatha, bhikkhave, api nu so puriso amuṁ biḷārabhastaṁ madditaṁ sumadditaṁ suparimadditaṁ, mudukaṁ tūliniṁ, chinnasassaraṁ chinnabhabbharaṁ kaṭṭhena vā kathalena vā sarasaraṁ kareyya, bharabharaṁ kareyyā”ti?
+Các ông nghĩ thế nào, này các tỳ-kheo, người ấy có thể dùng cây gậy hay mảnh sành làm cho cái túi da mèo đã được nhồi nặn, nhồi nặn kỹ, nhồi nặn rất kỹ, mềm mại, mịn màng như bông, không còn tiếng sột soạt, không còn tiếng lạo xạo ấy phát ra tiếng sột soạt, phát ra tiếng lạo xạo được không?"
 
-“No hetaṁ, bhante”. “Taṁ kissa hetu”? “Amu hi, bhante, biḷārabhastā madditā sumadditā suparimadditā, mudukā tūlinī, chinnasassarā chinnabhabbharā. Sā na sukarā kaṭṭhena vā kathalena vā sarasaraṁ kātuṁ bharabharaṁ kātuṁ; yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.
+"Thưa không, bạch Thế Tôn." "Vì sao vậy?" "Bạch Thế Tôn, vì cái túi da mèo ấy đã được nhồi nặn, nhồi nặn kỹ, nhồi nặn rất kỹ, mềm mại, mịn màng như bông, không còn tiếng sột soạt, không còn tiếng lạo xạo. Thật không dễ gì dùng cây gậy hay mảnh sành làm cho nó phát ra tiếng sột soạt, phát ra tiếng lạo xạo; người ấy chỉ chuốc lấy sự mệt nhọc và bực dọc mà thôi."
 
-“Evameva kho, bhikkhave, pañcime vacanapathā yehi vo pare vadamānā vadeyyuṁ kālena vā akālena vā; bhūtena vā abhūtena vā; saṇhena vā pharusena vā; atthasaṁhitena vā anatthasaṁhitena vā; mettacittā vā dosantarā vā. Kālena vā, bhikkhave, pare vadamānā vadeyyuṁ akālena vā; bhūtena vā, bhikkhave, pare vadamānā vadeyyuṁ abhūtena vā; saṇhena vā, bhikkhave, pare vadamānā vadeyyuṁ pharusena vā; atthasaṁhitena vā, bhikkhave, pare vadamānā vadeyyuṁ anatthasaṁhitena vā; mettacittā vā, bhikkhave, pare vadamānā vadeyyuṁ dosantarā vā. Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ: ‘na ceva no cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāma hitānukampī ca viharissāma mettacittā na dosantarā. Tañca puggalaṁ mettāsahagatena cetasā pharitvā viharissāma, tadārammaṇañca sabbāvantaṁ lokaṁ biḷārabhastāsamena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabbaṁ.
+19\. "Cũng vậy, này các tỳ-kheo, có năm *cách nói năng* mà người khác có thể dùng khi nói với các ông: đúng lúc hay không đúng lúc; sự thật hay không phải sự thật; nhẹ nhàng hay thô lỗ; có lợi ích hay không có lợi ích; với *tâm yêu thương* hay với ác ý. Này các tỳ-kheo, người khác có thể nói với các ông đúng lúc hay không đúng lúc; này các tỳ-kheo, người khác có thể nói với các ông sự thật hay không phải sự thật; này các tỳ-kheo, người khác có thể nói với các ông nhẹ nhàng hay thô lỗ; này các tỳ-kheo, người khác có thể nói với các ông có lợi ích hay không có lợi ích; này các tỳ-kheo, người khác có thể nói với các ông với *tâm yêu thương* hay với ác ý. Ngay cả khi ấy, này các tỳ-kheo, các ông cần phải rèn luyện như sau: 'Tâm của chúng ta sẽ không bị biến đổi, chúng ta sẽ không thốt ra lời ác, chúng ta sẽ sống mong mỏi lợi ích với *tâm yêu thương*, không mang *ám ảnh khó chịu* trong lòng. Chúng ta sẽ sống lan tỏa đến người đó bằng tâm đi cùng *tâm yêu thương*, và lấy đó làm cơ sở, chúng ta sẽ sống lan tỏa khắp toàn bộ thế giới bằng tâm giống như túi da mèo, rộng lớn, vĩ đại, *không giới hạn*, không hận thù, không ác ý'. Này các tỳ-kheo, các ông cần phải rèn luyện như vậy.
 
-Ubhatodaṇḍakena cepi, bhikkhave, kakacena corā ocarakā aṅgamaṅgāni okanteyyuṁ, tatrāpi yo mano padūseyya, na me so tena sāsanakaro. Tatrāpi vo, bhikkhave, evaṁ sikkhitabbaṁ: ‘na ceva no cittaṁ vipariṇataṁ bhavissati, na ca pāpikaṁ vācaṁ nicchāressāma, hitānukampī ca viharissāma mettacittā na dosantarā. Tañca puggalaṁ mettāsahagatena cetasā pharitvā viharissāma tadārammaṇañca sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabbaṁ.
+20\. Này các tỳ-kheo, ngay cả khi những tên cướp hung ác dùng cái cưa hai tay cầm cắt đứt từng chi thể của các ông, nếu tại đó có ai để cho tâm mình khởi lên ác ý, thì người ấy không phải là người thực hành theo giáo pháp của Ta. Ngay cả khi ấy, này các tỳ-kheo, các ông cần phải rèn luyện như sau: 'Tâm của chúng ta sẽ không bị biến đổi, chúng ta sẽ không thốt ra lời ác, chúng ta sẽ sống mong mỏi lợi ích với *tâm yêu thương*, không mang *ám ảnh khó chịu* trong lòng. Chúng ta sẽ sống lan tỏa đến người đó bằng tâm đi cùng *tâm yêu thương*, và lấy đó làm cơ sở, chúng ta sẽ sống lan tỏa khắp toàn bộ thế giới bằng tâm đi cùng *tâm yêu thương*, rộng lớn, vĩ đại, *không giới hạn*, không hận thù, không ác ý'. Này các tỳ-kheo, các ông cần phải rèn luyện như vậy.
 
-Imañca tumhe, bhikkhave, kakacūpamaṁ ovādaṁ abhikkhaṇaṁ manasi kareyyātha. Passatha no tumhe, bhikkhave, taṁ vacanapathaṁ, aṇuṁ vā thūlaṁ vā, yaṁ tumhe nādhivāseyyāthā”ti?
+21\. Này các tỳ-kheo, các ông hãy thường xuyên suy nghĩ về lời khuyên ví như cái cưa này. Này các tỳ-kheo, các ông có thấy bất kỳ *cách nói năng* nào, dù nhỏ nhặt hay thô bạo, mà các ông không thể kham nhẫn được không?"
 
-“No hetaṁ, bhante”.
+"Thưa không, bạch Thế Tôn."
 
-“Tasmātiha, bhikkhave, imaṁ kakacūpamaṁ ovādaṁ abhikkhaṇaṁ manasikarotha. Taṁ vo bhavissati dīgharattaṁ hitāya sukhāyā”ti.
+"Do vậy, này các tỳ-kheo, hãy thường xuyên suy nghĩ về lời khuyên ví như cái cưa này. Điều đó sẽ mang lại lợi ích và hạnh phúc lâu dài cho các ông."
 
-Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+Thế Tôn đã thuyết giảng như vậy. Các tỳ-kheo ấy vui mừng đón nhận lời Thế Tôn dạy.
 
-Kakacūpamasuttaṁ niṭṭhitaṁ paṭhamaṁ.
+Kết thúc Kinh Ví Dụ Cái Cưa, bài thứ nhất.

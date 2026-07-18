@@ -1,5 +1,5 @@
 # MN 19. KINH HAI LOẠI SUY NGHĨ (Tóm lược)
-[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mn-019){class="note-link"}
+[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-019-kinh-song-tam){class="note-link"}
 
 **Bối cảnh:**
 Khi Đức Phật đang lưu trú tại tu viện Kỳ Viên (Jetavana), Ngài đã kể lại cho các tỳ kheo nghe về phương pháp thực hành kiểm soát tâm trí của chính Ngài trong giai đoạn trước khi giác ngộ.

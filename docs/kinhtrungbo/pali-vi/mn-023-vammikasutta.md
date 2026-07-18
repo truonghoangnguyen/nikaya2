@@ -1,10 +1,10 @@
-# Vammikasutta
+# MN 23. Vammikasutta
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā kumārakassapo andhavane viharati.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā kumārakassapo andhavane viharati.
 
 Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ andhavanaṁ obhāsetvā yenāyasmā kumārakassapo tenupasaṅkami; upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā āyasmantaṁ kumārakassapaṁ etadavoca:
 
-“Bhikkhu bhikkhu, ayaṁ vammiko rattiṁ dhūmāyati, divā pajjalati. Brāhmaṇo evamāha: ‘abhikkhaṇa, sumedha, satthaṁ ādāyā’ti.
+2\. “Bhikkhu bhikkhu, ayaṁ vammiko rattiṁ dhūmāyati, divā pajjalati. Brāhmaṇo evamāha: ‘abhikkhaṇa, sumedha, satthaṁ ādāyā’ti.
 
 Abhikkhaṇanto sumedho satthaṁ ādāya addasa laṅgiṁ ‘laṅgī, bhadante’ti. Brāhmaṇo evamāha: ‘ukkhipa laṅgiṁ; abhikkhaṇa, sumedha, satthaṁ ādāyā’ti.
 
@@ -26,11 +26,11 @@ Ime kho tvaṁ, bhikkhu, pañhe bhagavantaṁ upasaṅkamitvā puccheyyāsi, yat
 
 Idamavoca sā devatā. Idaṁ vatvā tatthevantaradhāyi.
 
-Atha kho āyasmā kumārakassapo tassā rattiyā accayena yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā kumārakassapo bhagavantaṁ etadavoca: “imaṁ, bhante, rattiṁ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ andhavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho, bhante, sā devatā maṁ etadavoca: ‘bhikkhu bhikkhu, ayaṁ vammiko rattiṁ dhūmāyati, divā pajjalati. Brāhmaṇo evamāha: “abhikkhaṇa, sumedha, satthaṁ ādāyā”ti. Abhikkhaṇanto sumedho satthaṁ ādāya …pe… ito vā pana sutvā’ti.
+3\. Atha kho āyasmā kumārakassapo tassā rattiyā accayena yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā kumārakassapo bhagavantaṁ etadavoca: “imaṁ, bhante, rattiṁ aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ andhavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho, bhante, sā devatā maṁ etadavoca: ‘bhikkhu bhikkhu, ayaṁ vammiko rattiṁ dhūmāyati, divā pajjalati. Brāhmaṇo evamāha: “abhikkhaṇa, sumedha, satthaṁ ādāyā”ti. Abhikkhaṇanto sumedho satthaṁ ādāya …pe… ito vā pana sutvā’ti.
 
 Idamavoca, bhante, sā devatā. Idaṁ vatvā tatthevantaradhāyi. Ko nu kho, bhante, vammiko, kā rattiṁ dhūmāyanā, kā divā pajjalanā, ko brāhmaṇo, ko sumedho, kiṁ satthaṁ, kiṁ abhikkhaṇaṁ, kā laṅgī, kā uddhumāyikā, ko dvidhāpatho, kiṁ caṅgavāraṁ, ko kummo, kā asisūnā, kā maṁsapesi, ko nāgo”ti?
 
-“‘Vammiko’ti kho, bhikkhu, imassetaṁ cātumahābhūtikassa kāyassa adhivacanaṁ, mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādanaparimaddanabhedanaviddhaṁsanadhammassa.
+4\. “‘Vammiko’ti kho, bhikkhu, imassetaṁ cātumahābhūtikassa kāyassa adhivacanaṁ, mātāpettikasambhavassa odanakummāsūpacayassa aniccucchādanaparimaddanabhedanaviddhaṁsanadhammassa.
 
 Yaṁ kho, bhikkhu, divā kammante ārabbha rattiṁ anuvitakketi anuvicāreti—ayaṁ rattiṁ dhūmāyanā. Yaṁ kho, bhikkhu, rattiṁ anuvitakketvā anuvicāretvā divā kammante payojeti kāyena vācāya manasā—ayaṁ divā pajjalanā.
 

@@ -1,16 +1,16 @@
-# Anāthapiṇḍikovādasutta
+# MN 143. Anāthapiṇḍikovādasutta
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
-Tena kho pana samayena anāthapiṇḍiko gahapati ābādhiko hoti dukkhito bāḷhagilāno. Atha kho anāthapiṇḍiko gahapati aññataraṁ purisaṁ āmantesi: “ehi tvaṁ, ambho purisa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi: ‘anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So bhagavato pāde sirasā vandatī’ti. Yena cāyasmā sāriputto tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato sāriputtassa pāde sirasā vandāhi: ‘anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So āyasmato sāriputtassa pāde sirasā vandatī’ti. Evañca vadehi: ‘sādhu kira, bhante, āyasmā sāriputto yena anāthapiṇḍikassa gahapatissa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti.
+2\. Tena kho pana samayena anāthapiṇḍiko gahapati ābādhiko hoti dukkhito bāḷhagilāno. Atha kho anāthapiṇḍiko gahapati aññataraṁ purisaṁ āmantesi: “ehi tvaṁ, ambho purisa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi: ‘anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So bhagavato pāde sirasā vandatī’ti. Yena cāyasmā sāriputto tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato sāriputtassa pāde sirasā vandāhi: ‘anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So āyasmato sāriputtassa pāde sirasā vandatī’ti. Evañca vadehi: ‘sādhu kira, bhante, āyasmā sāriputto yena anāthapiṇḍikassa gahapatissa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti.
 
 “Evaṁ, bhante”ti kho so puriso anāthapiṇḍikassa gahapatissa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so puriso bhagavantaṁ etadavoca: “anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So bhagavato pāde sirasā vandatī”ti. Yena cāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmantaṁ sāriputtaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so puriso āyasmantaṁ sāriputtaṁ etadavoca: “anāthapiṇḍiko, bhante, gahapati ābādhiko dukkhito bāḷhagilāno. So āyasmato sāriputtassa pāde sirasā vandati; evañca vadeti: ‘sādhu kira, bhante, āyasmā sāriputto yena anāthapiṇḍikassa gahapatissa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti. Adhivāsesi kho āyasmā sāriputto tuṇhībhāvena.
 
-Atha kho āyasmā sāriputto nivāsetvā pattacīvaramādāya āyasmatā ānandena pacchāsamaṇena yena anāthapiṇḍikassa gahapatissa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho āyasmā sāriputto anāthapiṇḍikaṁ gahapatiṁ etadavoca: “kacci te, gahapati, khamanīyaṁ, kacci yāpanīyaṁ? Kacci te dukkhā vedanā paṭikkamanti, no abhikkamanti; paṭikkamosānaṁ paññāyati, no abhikkamo”ti?
+3\. Atha kho āyasmā sāriputto nivāsetvā pattacīvaramādāya āyasmatā ānandena pacchāsamaṇena yena anāthapiṇḍikassa gahapatissa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Nisajja kho āyasmā sāriputto anāthapiṇḍikaṁ gahapatiṁ etadavoca: “kacci te, gahapati, khamanīyaṁ, kacci yāpanīyaṁ? Kacci te dukkhā vedanā paṭikkamanti, no abhikkamanti; paṭikkamosānaṁ paññāyati, no abhikkamo”ti?
 
-“Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo. Seyyathāpi, bhante sāriputta, balavā puriso tiṇhena sikharena muddhani abhimattheyya; evameva kho me, bhante sāriputta, adhimattā vātā muddhani ūhananti. Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo. Seyyathāpi, bhante sāriputta, balavā puriso daḷhena varattakhaṇḍena sīse sīsaveṭhaṁ dadeyya; evameva kho me, bhante sāriputta, adhimattā sīse sīsavedanā. Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo. Seyyathāpi, bhante sāriputta, dakkho goghātako vā goghātakantevāsī vā tiṇhena govikantanena kucchiṁ parikanteyya; evameva kho me, bhante sāriputta, adhimattā vātā kucchiṁ parikantanti. Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo. Seyyathāpi, bhante sāriputta, dve balavanto purisā dubbalataraṁ purisaṁ nānābāhāsu gahetvā aṅgārakāsuyā santāpeyyuṁ, samparitāpeyyuṁ; evameva kho me, bhante sāriputta, adhimatto kāyasmiṁ ḍāho. Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo”ti.
+4\. “Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo. Seyyathāpi, bhante sāriputta, balavā puriso tiṇhena sikharena muddhani abhimattheyya; evameva kho me, bhante sāriputta, adhimattā vātā muddhani ūhananti. Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo. Seyyathāpi, bhante sāriputta, balavā puriso daḷhena varattakhaṇḍena sīse sīsaveṭhaṁ dadeyya; evameva kho me, bhante sāriputta, adhimattā sīse sīsavedanā. Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo. Seyyathāpi, bhante sāriputta, dakkho goghātako vā goghātakantevāsī vā tiṇhena govikantanena kucchiṁ parikanteyya; evameva kho me, bhante sāriputta, adhimattā vātā kucchiṁ parikantanti. Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo. Seyyathāpi, bhante sāriputta, dve balavanto purisā dubbalataraṁ purisaṁ nānābāhāsu gahetvā aṅgārakāsuyā santāpeyyuṁ, samparitāpeyyuṁ; evameva kho me, bhante sāriputta, adhimatto kāyasmiṁ ḍāho. Na me, bhante sāriputta, khamanīyaṁ na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti, no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo”ti.
 
-“Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na cakkhuṁ upādiyissāmi, na ca me cakkhunissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+5\. “Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na cakkhuṁ upādiyissāmi, na ca me cakkhunissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
 Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na sotaṁ upādiyissāmi, na ca me sotanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
@@ -22,25 +22,25 @@ Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na kāyaṁ upādiyissāmi, n
 
 Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na manaṁ upādiyissāmi, na ca me manonissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na rūpaṁ upādiyissāmi, na ca me rūpanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na saddaṁ upādiyissāmi …pe… na gandhaṁ upādiyissāmi … na rasaṁ upādiyissāmi … na phoṭṭhabbaṁ upādiyissāmi … na dhammaṁ upādiyissāmi, na ca me dhammanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+6\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na rūpaṁ upādiyissāmi, na ca me rūpanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na saddaṁ upādiyissāmi …pe… na gandhaṁ upādiyissāmi … na rasaṁ upādiyissāmi … na phoṭṭhabbaṁ upādiyissāmi … na dhammaṁ upādiyissāmi, na ca me dhammanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na cakkhuviññāṇaṁ upādiyissāmi, na ca me cakkhuviññāṇanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na sotaviññāṇaṁ upādiyissāmi … na ghānaviññāṇaṁ upādiyissāmi … na jivhāviññāṇaṁ upādiyissāmi … na kāyaviññāṇaṁ upādiyissāmi … na manoviññāṇaṁ upādiyissāmi, na ca me manoviññāṇanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+7\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na cakkhuviññāṇaṁ upādiyissāmi, na ca me cakkhuviññāṇanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na sotaviññāṇaṁ upādiyissāmi … na ghānaviññāṇaṁ upādiyissāmi … na jivhāviññāṇaṁ upādiyissāmi … na kāyaviññāṇaṁ upādiyissāmi … na manoviññāṇaṁ upādiyissāmi, na ca me manoviññāṇanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na cakkhusamphassaṁ upādiyissāmi, na ca me cakkhusamphassanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na sotasamphassaṁ upādiyissāmi … na ghānasamphassaṁ upādiyissāmi … na jivhāsamphassaṁ upādiyissāmi … na kāyasamphassaṁ upādiyissāmi … na manosamphassaṁ upādiyissāmi, na ca me manosamphassanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+8\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na cakkhusamphassaṁ upādiyissāmi, na ca me cakkhusamphassanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na sotasamphassaṁ upādiyissāmi … na ghānasamphassaṁ upādiyissāmi … na jivhāsamphassaṁ upādiyissāmi … na kāyasamphassaṁ upādiyissāmi … na manosamphassaṁ upādiyissāmi, na ca me manosamphassanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na cakkhusamphassajaṁ vedanaṁ upādiyissāmi, na ca me cakkhusamphassajāvedanānissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na sotasamphassajaṁ vedanaṁ upādiyissāmi … na ghānasamphassajaṁ vedanaṁ upādiyissāmi … na jivhāsamphassajaṁ vedanaṁ upādiyissāmi … na kāyasamphassajaṁ vedanaṁ upādiyissāmi … na manosamphassajaṁ vedanaṁ upādiyissāmi, na ca me manosamphassajāvedanānissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+9\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na cakkhusamphassajaṁ vedanaṁ upādiyissāmi, na ca me cakkhusamphassajāvedanānissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na sotasamphassajaṁ vedanaṁ upādiyissāmi … na ghānasamphassajaṁ vedanaṁ upādiyissāmi … na jivhāsamphassajaṁ vedanaṁ upādiyissāmi … na kāyasamphassajaṁ vedanaṁ upādiyissāmi … na manosamphassajaṁ vedanaṁ upādiyissāmi, na ca me manosamphassajāvedanānissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na pathavīdhātuṁ upādiyissāmi, na ca me pathavīdhātunissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na āpodhātuṁ upādiyissāmi … na tejodhātuṁ upādiyissāmi … na vāyodhātuṁ upādiyissāmi … na ākāsadhātuṁ upādiyissāmi … na viññāṇadhātuṁ upādiyissāmi, na ca me viññāṇadhātunissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+10\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na pathavīdhātuṁ upādiyissāmi, na ca me pathavīdhātunissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na āpodhātuṁ upādiyissāmi … na tejodhātuṁ upādiyissāmi … na vāyodhātuṁ upādiyissāmi … na ākāsadhātuṁ upādiyissāmi … na viññāṇadhātuṁ upādiyissāmi, na ca me viññāṇadhātunissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na rūpaṁ upādiyissāmi, na ca me rūpanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na vedanaṁ upādiyissāmi … na saññaṁ upādiyissāmi … na saṅkhāre upādiyissāmi … na viññāṇaṁ upādiyissāmi, na ca me viññāṇanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+11\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na rūpaṁ upādiyissāmi, na ca me rūpanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na vedanaṁ upādiyissāmi … na saññaṁ upādiyissāmi … na saṅkhāre upādiyissāmi … na viññāṇaṁ upādiyissāmi, na ca me viññāṇanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na ākāsānañcāyatanaṁ upādiyissāmi, na ca me ākāsānañcāyatananissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na viññāṇañcāyatanaṁ upādiyissāmi … na ākiñcaññāyatanaṁ upādiyissāmi … na nevasaññānāsaññāyatanaṁ upādiyissāmi, na ca me nevasaññānāsaññāyatananissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+12\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na ākāsānañcāyatanaṁ upādiyissāmi, na ca me ākāsānañcāyatananissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na viññāṇañcāyatanaṁ upādiyissāmi … na ākiñcaññāyatanaṁ upādiyissāmi … na nevasaññānāsaññāyatanaṁ upādiyissāmi, na ca me nevasaññānāsaññāyatananissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na idhalokaṁ upādiyissāmi, na ca me idhalokanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
+13\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na idhalokaṁ upādiyissāmi, na ca me idhalokanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ.
 
-Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na paralokaṁ upādiyissāmi, na ca me paralokanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘yampi me diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anupariyesitaṁ anucaritaṁ manasā tampi na upādiyissāmi, na ca me tannissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabban”ti.
+14\. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na paralokaṁ upādiyissāmi, na ca me paralokanissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabbaṁ. Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘yampi me diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anupariyesitaṁ anucaritaṁ manasā tampi na upādiyissāmi, na ca me tannissitaṁ viññāṇaṁ bhavissatī’ti. Evañhi te, gahapati, sikkhitabban”ti.
 
-Evaṁ vutte, anāthapiṇḍiko gahapati parodi, assūni pavattesi. Atha kho āyasmā ānando anāthapiṇḍikaṁ gahapatiṁ etadavoca: “olīyasi kho tvaṁ, gahapati, saṁsīdasi kho tvaṁ, gahapatī”ti?
+15\. Evaṁ vutte, anāthapiṇḍiko gahapati parodi, assūni pavattesi. Atha kho āyasmā ānando anāthapiṇḍikaṁ gahapatiṁ etadavoca: “olīyasi kho tvaṁ, gahapati, saṁsīdasi kho tvaṁ, gahapatī”ti?
 
 “Nāhaṁ, bhante ānanda, olīyāmi, napi saṁsīdāmi; api ca me dīgharattaṁ satthā payirupāsito manobhāvanīyā ca bhikkhū; na ca me evarūpī dhammī kathā sutapubbā”ti.
 
@@ -48,33 +48,57 @@ Evaṁ vutte, anāthapiṇḍiko gahapati parodi, assūni pavattesi. Atha kho ā
 
 “Tena hi, bhante sāriputta, gihīnampi odātavasanānaṁ evarūpī dhammī kathā paṭibhātu. Santi hi, bhante, kulaputtā apparajakkhajātikā, assavanatā dhammassa parihāyanti; bhavissanti dhammassa aññātāro”ti.
 
-Atha kho āyasmā ca sāriputto āyasmā ca ānando anāthapiṇḍikaṁ gahapatiṁ iminā ovādena ovaditvā uṭṭhāyāsanā pakkamiṁsu. Atha kho anāthapiṇḍiko gahapati, acirapakkante āyasmante ca sāriputte āyasmante ca ānande, kālamakāsi tusitaṁ kāyaṁ upapajji.
+16\. Atha kho āyasmā ca sāriputto āyasmā ca ānando anāthapiṇḍikaṁ gahapatiṁ iminā ovādena ovaditvā uṭṭhāyāsanā pakkamiṁsu. Atha kho anāthapiṇḍiko gahapati, acirapakkante āyasmante ca sāriputte āyasmante ca ānande, kālamakāsi tusitaṁ kāyaṁ upapajji.
 
-Atha kho anāthapiṇḍiko devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho anāthapiṇḍiko devaputto bhagavantaṁ gāthāhi ajjhabhāsi:
+17\. Atha kho anāthapiṇḍiko devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho anāthapiṇḍiko devaputto bhagavantaṁ gāthāhi ajjhabhāsi:
 
-> “Idañhi taṁ jetavanaṁ, isisaṅghanisevitaṁ; Āvutthaṁ dhammarājena, pītisañjananaṁ mama.
->
-> Kammaṁ vijjā ca dhammo ca, sīlaṁ jīvitamuttamaṁ; Etena maccā sujjhanti, na gottena dhanena vā.
->
-> Tasmā hi paṇḍito poso, sampassaṁ atthamattano; Yoniso vicine dhammaṁ, evaṁ tattha visujjhati.
->
-> Sāriputtova paññāya, sīlena upasamena ca; Yopi pāraṅgato bhikkhu, etāvaparamo siyā”ti.
+“Idañhi taṁ jetavanaṁ,\
+isisaṅghanisevitaṁ;\
+Āvutthaṁ dhammarājena,\
+pītisañjananaṁ mama.
 
-Idamavoca anāthapiṇḍiko devaputto. Samanuñño satthā ahosi. Atha kho anāthapiṇḍiko devaputto: “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi.
+Kammaṁ vijjā ca dhammo ca,\
+sīlaṁ jīvitamuttamaṁ;\
+Etena maccā sujjhanti,\
+na gottena dhanena vā.
 
-Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi: “imaṁ, bhikkhave, rattiṁ aññataro devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so devaputto maṁ gāthāhi ajjhabhāsi:
+Tasmā hi paṇḍito poso,\
+sampassaṁ atthamattano;\
+Yoniso vicine dhammaṁ,\
+evaṁ tattha visujjhati.
 
-> ‘Idañhi taṁ jetavanaṁ, isisaṅghanisevitaṁ; Āvutthaṁ dhammarājena, pītisañjananaṁ mama.
->
-> Kammaṁ vijjā ca dhammo ca, sīlaṁ jīvitamuttamaṁ; Etena maccā sujjhanti, na gottena dhanena vā.
->
-> Tasmā hi paṇḍito poso, sampassaṁ atthamattano; Yoniso vicine dhammaṁ, evaṁ tattha visujjhati.
->
-> Sāriputtova paññāya, sīlena upasamena ca; Yopi pāraṅgato bhikkhu, etāvaparamo siyā’ti.
+Sāriputtova paññāya,\
+sīlena upasamena ca;\
+Yopi pāraṅgato bhikkhu,\
+etāvaparamo siyā”ti.
+
+18\. Idamavoca anāthapiṇḍiko devaputto. Samanuñño satthā ahosi. Atha kho anāthapiṇḍiko devaputto: “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi.
+
+19\. Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi: “imaṁ, bhikkhave, rattiṁ aññataro devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so devaputto maṁ gāthāhi ajjhabhāsi:
+
+‘Idañhi taṁ jetavanaṁ,\
+isisaṅghanisevitaṁ;\
+Āvutthaṁ dhammarājena,\
+pītisañjananaṁ mama.
+
+Kammaṁ vijjā ca dhammo ca,\
+sīlaṁ jīvitamuttamaṁ;\
+Etena maccā sujjhanti,\
+na gottena dhanena vā.
+
+Tasmā hi paṇḍito poso,\
+sampassaṁ atthamattano;\
+Yoniso vicine dhammaṁ,\
+evaṁ tattha visujjhati.
+
+Sāriputtova paññāya,\
+sīlena upasamena ca;\
+Yopi pāraṅgato bhikkhu,\
+etāvaparamo siyā’ti.
 
 Idamavoca, bhikkhave, so devaputto. ‘Samanuñño me satthā’ti maṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyī”ti.
 
-Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca:
+20\. Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca:
 
 “so hi nūna so, bhante, anāthapiṇḍiko devaputto bhavissati. Anāthapiṇḍiko, bhante, gahapati āyasmante sāriputte abhippasanno ahosī”ti.
 
