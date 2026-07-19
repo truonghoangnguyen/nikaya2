@@ -1,6 +1,7 @@
 ---
  tags:
   - Mahākaccāna
+  - quan hệ Phụ thuộc (duyên)
 ---
 
 # 18. KINH MẬT HOÀN

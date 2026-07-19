@@ -1,6 +1,7 @@
 ---
 tags:
  - quá trình tu tập
+ - thực hành
 ---
 
 # 19. KINH SONG TẦM

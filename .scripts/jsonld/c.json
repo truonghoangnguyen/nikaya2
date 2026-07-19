@@ -1,0 +1,241 @@
+<nikaya.org>
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia#webpage",
+      "url": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia",
+      "name": "131. KINH NHẤT DẠ HIỀN GIẢ",
+      "inLanguage": [
+        "vi"
+      ],
+      "isPartOf": {
+        "@id": "https://kinhnikaya.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia#chapter"
+      }
+    },
+    {
+      "@type": [
+        "Chapter",
+        "Article"
+      ],
+      "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia#chapter",
+      "name": "131. KINH NHẤT DẠ HIỀN GIẢ",
+      "url": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia",
+      "headline": "131. KINH NHẤT DẠ HIỀN GIẢ",
+      "inLanguage": [
+        "vi"
+      ],
+      "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
+      "datePublished": "2026-01-03",
+      "dateModified": "2026-01-03",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://kinhnikaya.org/#org",
+        "name": "Kinh Nikāya",
+        "url": "https://kinhnikaya.org/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kinhnikaya.org/favicon.ico"
+        }
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Gotama Buddha",
+        "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+      },
+      "isPartOf": {
+        "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book"
+      },
+      "translator": {
+        "@type": "Person",
+        "name": "Tỷ kheo Thích Minh Châu",
+        "sameAs": [
+          "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Trang chủ",
+          "item": "https://kinhnikaya.org/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kinh Trung Bộ",
+          "item": "https://kinhnikaya.org/kinhtrungbo/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Tỷ kheo Thích Minh Châu",
+          "item": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "131. KINH NHẤT DẠ HIỀN GIẢ",
+          "item": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia"
+        }
+      ]
+    }
+  ]
+}
+</nikaya.org>
+<suttacentral>
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "/mn131/vi/minh_chau",
+  "name": "Bhaddekarattasutta",
+  "alternateName": [
+    "MN 131",
+    "One Fine Night "
+  ],
+  "description": "This discourse opens with a short but powerful set of verses extolling the benefits of insight into the here and now, followed by an explanation.",
+  "url": "https://suttacentral.now/mn131/vi/minh_chau",
+  "sameAs": [
+    "https://suttacentral.net/mn131/vi/minh_chau",
+    "https://suttacentral.express/mn131/vi/minh_chau"
+  ],
+  "identifier": "mn131",
+  "inLanguage": {
+    "@type": "Language",
+    "name": "vi",
+    "alternateName": "vi"
+  },
+  "genre": "Translation",
+  "translator": {
+    "@type": "Person",
+    "name": "Thích Minh Châu",
+    "identifier": "minh_chau"
+  },
+  "translationOfWork": {
+    "@type": "CreativeWork",
+    "name": "Bhaddekarattasutta",
+    "inLanguage": "pli",
+    "about": {
+      "@type": "Thing",
+      "name": "Buddhist Teaching",
+      "description": "Ancient Buddhist discourse or text"
+    }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Buddhism",
+      "description": "Buddhist philosophy and teachings"
+    },
+    {
+      "@type": "Thing",
+      "name": "Buddhist Literature",
+      "description": "Ancient Buddhist texts and modern translations"
+    }
+  ],
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "/#website",
+    "name": "SuttaCentral"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://suttacentral.now"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Sutta",
+        "item": "https://suttacentral.now/pitaka/sutta"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Middle",
+        "item": "https://suttacentral.now/pitaka/sutta/middle"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "MN",
+        "item": "https://suttacentral.now/pitaka/sutta/middle/mn"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Uparipaṇṇāsa",
+        "item": "https://suttacentral.now/pitaka/sutta/middle/mn/mn-uparipannasa"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Vibhaṅgavagga",
+        "item": "https://suttacentral.now/mn-vibhangavagga"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "MN 131",
+        "item": "https://suttacentral.now/mn131"
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Thích Minh Châu",
+        "item": "https://suttacentral.nowundefined"
+      }
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "/#organization",
+    "name": "SuttaCentral",
+    "url": "/",
+    "description": "Early Buddhist texts, translations, and parallels",
+    "foundingDate": "2012",
+    "sameAs": [
+      "https://suttacentral.net",
+      "https://github.com/suttacentral"
+    ]
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/mn131/vi/minh_chau"
+  },
+  "hasPreviousItem": {
+    "@type": "CreativeWork",
+    "name": "Messengers of the Gods ",
+    "url": "https://suttacentral.now/mn130/vi/minh_chau",
+    "sameAs": [
+      "https://suttacentral.net/mn130/vi/minh_chau",
+      "https://suttacentral.express/mn130/vi/minh_chau"
+    ]
+  },
+  "hasNextItem": {
+    "@type": "CreativeWork",
+    "name": "Ānanda and One Fine Night ",
+    "url": "https://suttacentral.now/mn132/vi/minh_chau",
+    "sameAs": [
+      "https://suttacentral.net/mn132/vi/minh_chau",
+      "https://suttacentral.express/mn132/vi/minh_chau"
+    ]
+  },
+  "license": {
+    "@type": "CreativeWork",
+    "name": "Public Domain",
+    "description": "This work is in the public domain"
+  }
+}
+</suttacentral>

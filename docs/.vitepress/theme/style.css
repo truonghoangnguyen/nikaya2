@@ -17,6 +17,8 @@
 } */
 
 :root {
+  --vp-font-family-base: system-ui, sans-serif;
+  --vp-font-family-mono: monospace;
   --vp-c-brand: #d15f2e;
   --vp-c-brand-light: #d15f2e;
   --vp-font-family-base: "Noto Serif", system-ui, -apple-system-body, roboto, "SF Pro text", "Segoe UI", serif;
@@ -29,7 +31,6 @@
   --vp-c-brand-1: #ad5c39;
   --vp-c-brand-2: #a0502d;
   --vp-c-brand-3: #d15f2e;
-
 }
 
 body {

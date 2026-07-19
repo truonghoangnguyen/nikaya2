@@ -1,3 +1,7 @@
+---
+tags:
+ - thực hành
+---
 # 20. KINH AN TRÚ TẦM
 
 **20. KINH AN TRÚ TẦM**

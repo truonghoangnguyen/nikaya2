@@ -25,7 +25,7 @@
     "glob": "^13.0.6",
     "markdown-it-footnote": "^4.0.0",
     "vitepress": "^1.6.4",
-    "vue": "^3.5.39"
+    "vue": "^3.5.40"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [
@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@sindresorhus/slugify": "^2.2.1",
-    "fuse.js": "^7.4.2",
+    "fuse.js": "^7.5.0",
     "markdown-it": "^14.3.0",
     "markdown-it-anchor": "^9.2.1",
     "markdown-it-attrs": "^4.5.0"

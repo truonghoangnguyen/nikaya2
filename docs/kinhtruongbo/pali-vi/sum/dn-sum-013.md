@@ -1,5 +1,4 @@
 # DN 13. KINH TEVIJJA (Tóm lược)
-
 [Bản so sánh→](/kinhtruongbo/c-pali-tmc-vi/dnc-013-kinh-tevijja-tam-minh){target="_blank" class="note-link" }
 
 **Bối cảnh:**

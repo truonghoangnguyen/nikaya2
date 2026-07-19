@@ -25,7 +25,7 @@ Trang này tổng hợp các câu hỏi phổ biến về **Kinh Nikaya**, Phậ
 | Kinh Trung Bộ | Majjhima Nikāya | 152 kinh |
 | Kinh Tương Ưng Bộ | Saṃyutta Nikāya | 56 chương với nhiều bài nhỏ |
 | Kinh Tăng Chi Bộ | Aṅguttara Nikāya | 11 chương với nhiều bài nhỏ |
-| Tiểu Bộ | Khuddaka Nikāya | 10 Tập  |
+| Tiểu Bộ | Khuddaka Nikāya | 15 Tập (đã dịch 10 tập)  |
 
 Đây là tập hợp lời dạy của **Đức Phật** được ghi chép và bảo tồn qua nhiều thế kỷ.
 
@@ -41,13 +41,39 @@ Xuất phát, tôi đọc kinh Nikaya bản tiếng Việt mà gặp nhiều thu
 
 Ban đầu tôi chỉ dịch **Kinh Trung Bộ** theo bản tiếng Anh của Ñāṇamoli & Bodhi — Bản đọc nổi tiếng nhất. Dịch xong, tôi mới nhận ra có những bộ kinh khác mà Ñāṇamoli & Bodhi không dịch, hoặc chưa dịch đầy đủ. Lúc đó tôi tìm được bản dịch của **Sujato**, dễ tiếp cận và đầy đủ ở trang [suttacentral](https://suttacentral.net/). 
 
-### Tại sao có bản đọc đối chiếu?
+### Bản đọc song song
 
 Vì tôi quen đọc kinh Nikaya qua bản dịch của **Hòa thượng Thích Minh Châu** từ trước. Mỗi khi dịch một bài kinh, tôi đều dùng bản dịch của Ngài ra để tham khảo vừa giúp tôi kiểm tra lại chỗ mình hiểu, vừa thấy rõ sự khác biệt giữa các cách diễn đạt.
 
-### Tại sao dịch trực tiếp từ tiếng Pali?
+### Dịch từ tiếng Pali
 
 Lúc mới bắt đầu, tôi dịch hoàn toàn từ các bản tiếng Anh. Nhưng sau một thời gian, khi đọc kỹ hơn, tôi nhận ra rằng ngay cả các bản tiếng Anh khác nhau cũng có những chỗ  khó hiểu theo cách riêng của chúng. Tôi thử  dịch thẳng từ **tiếng Pali**, và tôi thấy hài lòng (có thể là không thể đi xa hơn được). Từ đó, Pali trở thành nguồn tài liệu chính của tôi.
+
+### Nguồn gốc các bản kinh trên website
+
+Website tổng hợp các bản kinh từ nhiều nguồn khác nhau nhằm phục vụ việc học tập, tra cứu và đọc song song. Nội dung được giữ nguyên theo nguồn gốc của từng bản kinh, chỉ thực hiện chuẩn hóa định dạng và trình bày lại để thuận tiện cho việc đọc trên nền tảng số.
+
+#### Bản Pāḷi
+
+Văn bản gốc Pāḷi được sử dụng từ dự án **SuttaCentral**. Đây là một trong những kho dữ liệu kinh điển Phật giáo Nguyên thủy lớn nhất hiện nay, được phát triển và duy trì bởi cộng đồng quốc tế.
+
+Nguồn: [suttacentral](https://suttacentral.net/)
+
+#### Bản tiếng Anh của Tỳ kheo Ñāṇamoli & Bodhi
+
+Bản dịch **Kinh Trung Bộ** của **Tỳ kheo Ñāṇamoli & Bodhi** được sưu tầm từ các nguồn trên Internet.
+
+#### Bản tiếng Anh của Bhikkhu Sujato
+
+Bản dịch tiếng Anh của **Bhikkhu Sujato** được lấy từ **SuttaCentral**. 
+
+Nguồn: [suttacentral](https://suttacentral.net/)
+
+#### Bản dịch tiếng Việt (Hòa thượng Thích Minh Châu)
+
+Bản dịch tiếng Việt của **Hòa thượng Thích Minh Châu** được sưu tầm từ **Thư Viện Hoa Sen**. Đây là bản dịch Kinh Nikāya được sử dụng rộng rãi tại Việt Nam và có giá trị lớn trong việc nghiên cứu, học tập Phật giáo Nguyên thủy.
+
+Nguồn: [Thư Viện Hoa Sen](https://thuvienhoasen.org)
 
 ---
 
@@ -58,23 +84,23 @@ Lúc mới bắt đầu, tôi dịch hoàn toàn từ các bản tiếng Anh. Nh
   - [Thích Minh Châu](https://kinhnikaya.org/kinhtruongbo/thichminhchau/)
   - [Sujato (Việt)](https://kinhnikaya.org/kinhtruongbo/sujato-vi/)
   - [Sujato (Anh)]( https://kinhnikaya.org/kinhtruongbo/sujato-en/)
-  - [Đối chiếu Pali - Thích Minh Châu]( https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/)
-  - [Đối chiếu Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/)
+  - [Đọc song song Pali - Thích Minh Châu]( https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/)
+  - [Đọc song song Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/)
 - [Kinh Trung Bộ (MN)](https://kinhnikaya.org/kinhtrungbo/)
   - [Thích Minh Châu](https://kinhnikaya.org/kinhtrungbo/thichminhchau/)
   - [Ñāṇamoli & Bodhi (Việt)](https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/)
   - [Ñāṇamoli & Bodhi (Anh)](https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/)
-  - [Đối chiếu Ñāṇamoli & Bodhi – Thích Minh Châu](https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/)
+  - [Đọc song song Ñāṇamoli & Bodhi – Thích Minh Châu](https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/)
 - [Kinh Tăng Chi Bộ (AN)](https://kinhnikaya.org/kinhtangchi/)
   - [Thích Minh Châu](https://kinhnikaya.org/kinhtangchi/thichminhchau/)
   - [Sujato (Việt)](https://kinhnikaya.org/kinhtangchi/sujato-vi/)
   - [Sujato (Anh)](https://kinhnikaya.org/kinhtangchi/sujato-en/)
-  - [Đối chiếu Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/)
+  - [Đọc song song Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/)
 - [Kinh Tương Ưng Bộ (SN)](https://kinhnikaya.org/kinhtuongung/)
   - [Thích Minh Châu]( https://kinhnikaya.org/kinhtuongung/thichminhchau/)
   - [Sujato (Việt)](https://kinhnikaya.org/kinhtuongung/sujato-vi/)
   - [Sujato (Anh)]( https://kinhnikaya.org/kinhtuongung/sujato-en/)
-  - [Đối chiếu Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/)
+  - [Đọc song song Sujato – Thích Minh Châu](https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/)
 - [Kinh Tiểu Bộ (KN)](https://kinhnikaya.org/kinhtieubo/)
   - [Thích Minh Châu]( https://kinhnikaya.org/kinhtieubo/thichminhchau/)
 - [Tìm kiếm](https://kinhnikaya.org/search)

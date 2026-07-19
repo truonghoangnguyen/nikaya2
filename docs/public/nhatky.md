@@ -35,3 +35,6 @@ Thêm kinh tiểu bộ
 
 ### date: 2026-06-20
 Dịch kinh trung bộ pali
+
+### date: 2026-07-15
+Thêm Đức phật lịch sử, cân nhắc rất lâu

@@ -10,12 +10,14 @@ import kinhtruongbo_sujato_en from '../kinhtruongbo/sujato-en/meta/filelist';
 import kinhtruongbo_sujato_vi from '../kinhtruongbo/sujato-vi/meta/filelist';
 // import kinhtruongbo_pali from '../kinhtruongbo/pali/meta/filelist';
 import kinhtruongbo_pali_vi from '../kinhtruongbo/pali-vi/meta/filelist';
+import kinhtruongbo_pali from '../kinhtruongbo/pali/meta/filelist';
 
 import mn_thichminhchau from '../kinhtrungbo/thichminhchau/meta/filelist';
 import nanamoli_bodhi_en from '../kinhtrungbo/nanamoli-bodhi-en/meta/filelist';
 //import nanamoli_bodhi_en_intro  from '../kinhtrungbo/nanamoli-bodhi-en/intro/filelist';
 import nanamoli_bodhi_vi from '../kinhtrungbo/nanamoli-bodhi-vi/meta/filelist';
 //import nanamoli_bodhi_vi_intro  from '../kinhtrungbo/nanamoli-bodhi-vi/intro/filelist';
+import kinhtrungbo_pali from '../kinhtrungbo/pali/meta/filelist';
 
 import kinhtangchi_thichminhchau from '../kinhtangchi/thichminhchau/meta/filelist';
 import kinhtangchi_sujato_en from '../kinhtangchi/sujato-en/meta/filelist';
@@ -96,6 +98,7 @@ const BOOK_NAV = {
   'kinhtruongbo/sujato-vi': kinhtruongbo_sujato_vi,
   'kinhtruongbo/sujato-vi/intro': kinhtruongbo_sujato_vi,
   'kinhtruongbo/pali-vi': kinhtruongbo_pali_vi,
+  'kinhtruongbo/pali': kinhtruongbo_pali,
 
   'kinhtrungbo/thichminhchau': mn_thichminhchau,
   'kinhtrungbo/thichminhchau/intro': mn_thichminhchau,
@@ -105,6 +108,7 @@ const BOOK_NAV = {
   'kinhtrungbo/nanamoli-bodhi-vi': nanamoli_bodhi_vi,
   'kinhtrungbo/nanamoli-bodhi-vi/intro': nanamoli_bodhi_vi,
   'kinhtrungbo/nanamoli-bodhi-vi/outro': nanamoli_bodhi_vi,
+  'kinhtrungbo/pali': kinhtrungbo_pali,
 
   'kinhtangchi/thichminhchau': kinhtangchi_thichminhchau,
   //  'kinhtangchi/bodhi-vi': kinhtangchi_bodhi_vi,
@@ -127,7 +131,7 @@ const BOOK_NAV = {
   'jill-stroke/vi': jill_stroke_vi,
   'plato/vi': plato_vi,
   'plato/vi/intro': plato_vi,
-  
+
   'ducphatlichsu': duc_phat_lich_su,
 };
 
@@ -145,7 +149,7 @@ const BOOK_META: Record<string, BookMeta> = {
   'kinhtrungbo': { name: 'Kinh Trung Bộ', alternateName: 'Majjhima Nikāya', url: `${SITE_ORIGIN}/kinhtrungbo/`, cover: '/covers/kinhtrungbo.webp' },
   'kinhtangchi': { name: 'Kinh Tăng Chi Bộ', alternateName: 'Aṅguttara Nikāya', url: `${SITE_ORIGIN}/kinhtangchi/`, cover: '/covers/kinhtangchi.webp' },
   'kinhtuongung': { name: 'Kinh Tương Ưng Bộ', alternateName: 'Saṃyutta Nikāya', url: `${SITE_ORIGIN}/kinhtuongung/`, cover: '/covers/kinhtuongung.webp' },
-  'kinhtieubo': { name: 'Kinh Tiểu Bộ', alternateName: 'Khuddaka Nikāya', url: `${SITE_ORIGIN}/kinhtieuung/`, cover: '/covers/kinhtieubo.webp' },
+  'kinhtieubo': { name: 'Kinh Tiểu Bộ', alternateName: 'Khuddaka Nikāya', url: `${SITE_ORIGIN}/kinhtieubo/`, cover: '/covers/kinhtieubo.webp' },
 };
 
 const TRANSLATOR_META: Record<string, TranslatorMeta> = {
@@ -243,6 +247,10 @@ function makeTranslatorEntity(meta: TranslatorMeta) {
   return ent;
 }
 
+function isPaliText(meta: TranslatorMeta): boolean {
+  return meta.inLanguage.includes('pi');
+}
+
 // Public source URL per translator key for the visible footer link.
 // Returns undefined for translators without a canonical external source (e.g. raw Pali).
 function getTranslatorSourceUrl(key: string): string | undefined {
@@ -317,7 +325,7 @@ function addFallbackSocialMeta(
   const title: string = pageData.title || 'Kinh Nikaya';
   const description: string =
     pageData.frontmatter?.description ||
-    'Khám phá bộ sưu tập Kinh điển Nikaya với bản dịch song ngữ Pali - Việt. Thư viện kinh Phật giáo Nguyên thủy.';
+    'Kinh nguyên thủy, kinh Nikaya - bản dịch song ngữ Pali - Việt. Thư viện kinh Phật giáo Nguyên thủy.';
 
   const bookCover = BOOK_META[bookSegment]?.cover;
   const image = bookCover ? `${SITE_ORIGIN}${bookCover}` : `${SITE_ORIGIN}/kinhnikaya.webp`;
@@ -592,7 +600,13 @@ export default defineConfig({
             "name": "Gotama Buddha",
             "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
           },
+          "license": {
+            "@type": "CreativeWork",
+            "name": "Public Domain",
+            "description": "This work is in the public domain"
+          },
 
+          'genre': 'Translation',
           ...(isBasedOn.length ? { 'isBasedOn': isBasedOn } : {}),
           ...(translators.length ? { 'translator': translators } : {}),
         },
@@ -671,7 +685,7 @@ export default defineConfig({
         if (bookMeta) {
           const pageTitle = currentBook[currentIndex].text;
           const pageDescription = pageData.frontmatter.description ||
-            `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName})${translatorMeta ? `, bản dịch ${translatorMeta.name}` : ''}. Đọc trên Kinh Nikaya.`;
+            `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName})${translatorMeta ? `, ${translatorMeta.name}` : ''}. Kinh Nikaya.`;
           const coverUrl = `${SITE_ORIGIN}${bookMeta.cover}`;
 
           pageData.description = pageDescription;
@@ -740,6 +754,11 @@ export default defineConfig({
               },
               'image': coverUrl,
               'about': { '@id': bookId },
+              ...(translatorMeta && isPaliText(translatorMeta)
+                ? { 'genre': 'Root Text' }
+                : translatorMeta
+                  ? { 'genre': 'Translation' }
+                  : {}),
             },
             {
               '@type': 'BreadcrumbList',
@@ -783,8 +802,17 @@ export default defineConfig({
                 "name": "Gotama Buddha",
                 "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
               },
+              "license": {
+                "@type": "CreativeWork",
+                "name": "Public Domain",
+                "description": "This work is in the public domain"
+              },
               'isPartOf': { '@id': bookId },
-              ...(translatorMeta ? { 'translator': makeTranslatorEntity(translatorMeta) } : {}),
+              ...(translatorMeta && isPaliText(translatorMeta)
+                ? { 'genre': 'Root Text' }
+                : translatorMeta
+                  ? { 'genre': 'Translation', 'translator': makeTranslatorEntity(translatorMeta) }
+                  : {}),
             },
             {
               '@type': 'BreadcrumbList',
@@ -806,7 +834,7 @@ export default defineConfig({
           }
         }
       } else {
-        //console.warn(`transformPageData: Could not find file "${fileName}" in navigation data for author "${currentAuthor}" in book "${currentBook}".`);
+        console.warn(`transformPageData: Could not find file "${fileName}" in navigation data.`);
       }
     } else {
       console.warn(`transformPageData: Missing navigation data for "${relativePath}" .`);
