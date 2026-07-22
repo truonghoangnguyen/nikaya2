@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/#work"
               },
-              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Trương Hoàng Nguyên",
@@ -147,14 +147,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/dn-034-kinh-den-muoi#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtruongbo/pali-vi/dn-001-kinh-luoi-troi.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

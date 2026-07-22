@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtrungbo/pali/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/pali/#breadcrumb"
@@ -35,9 +35,6 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
-              },
               "genre": "Root text",
               "hasPart": [
                 {
@@ -496,14 +493,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/pali/mn-152-indriyabhavanasutta#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtrungbo/pali/mn-001-mulapariyayasutta.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

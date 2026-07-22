@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtruongbo-sujato.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/#work"
               },
-              "genre": "Translation",
               "isBasedOn": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#book"
               },
@@ -171,14 +171,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/dn-034-up-to-ten-dasuttarasutta#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtruongbo/sujato-vi/intro/01-the-suttacentral-editions-series.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

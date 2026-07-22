@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtuongung/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtuongung-sujato.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtuongung/#work"
               },
-              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Bhikkhu Sujato",
@@ -246,14 +246,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/sn-56-linked-discourses-on-the-truths#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

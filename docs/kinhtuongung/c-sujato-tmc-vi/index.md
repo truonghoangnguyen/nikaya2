@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtuongung/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#breadcrumb"
@@ -35,9 +35,6 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtuongung.webp",
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtuongung/#work"
-              },
               "genre": "Translation",
               "isBasedOn": [
                 {
@@ -228,14 +225,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/snc-56-tuong-ung-su-that#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtuongung/c-sujato-tmc-vi/snc-01-tuong-ung-chu-thien"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

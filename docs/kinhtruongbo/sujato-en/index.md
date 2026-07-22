@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtruongbo-sujato.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/#work"
               },
-              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Bhikkhu Sujato",
@@ -168,14 +168,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/dn-034-up-to-ten-dasuttarasutta#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtruongbo/sujato-en/intro/01-the-suttacentral-editions-series.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

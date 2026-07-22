@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtangchi/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtangchi.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/#work"
               },
-              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Thích Minh Châu",
@@ -603,14 +603,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/an-11-003-pham-ba-tong-ket#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtangchi/thichminhchau/an-01-001-pham-sac.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

@@ -118,7 +118,7 @@ def make_page(n: dict) -> dict:
                 "name": f"{n['vi_full_name']} - Danh sách các bản dịch",
                 "isPartOf": {"@id": WEBSITE_ID},
                 "breadcrumb": {"@id": f"{base}/#breadcrumb"},
-                "mainEntity": {"@id": f"{base}/#work"},
+                "mainEntity": {"@id": f"{base}/#work"}
             },
             {
                 "@type": "BreadcrumbList",

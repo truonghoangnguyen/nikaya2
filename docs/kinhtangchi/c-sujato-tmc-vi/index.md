@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtangchi/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#breadcrumb"
@@ -35,9 +35,6 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtangchi-sujato.webp",
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtangchi/#work"
-              },
               "genre": "Translation",
               "isBasedOn": [
                 {
@@ -618,14 +615,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/anc-11-003-pham-ba-tong-ket#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtangchi/c-sujato-tmc-vi/anc-01-001-pham-sac"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

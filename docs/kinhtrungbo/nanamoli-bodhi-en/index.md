@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtrungbo-nanamoli.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
               },
-              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Bhikkhu Ñāṇamoli",
@@ -582,14 +582,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/outro/4.pali-english-glossary.md#article"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtangchi/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtangchi-sujato.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/#work"
               },
-              "genre": "Translation",
               "isBasedOn": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#book"
               },
@@ -621,14 +621,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/an-11-003-the-chapter-on-similarity#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtangchi/sujato-vi/intro/00-000-quote.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

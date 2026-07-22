@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtrungbo-nanamoli.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
               },
-              "genre": "Translation",
               "isBasedOn": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#book"
               },
@@ -585,14 +585,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/outro/4.pali-english-glossary.md#article"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtrungbo/nanamoli-bodhi-vi/intro/01.preface.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#breadcrumb"
@@ -35,9 +35,6 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
-              },
               "genre": "Translation",
               "isBasedOn": [
                 {
@@ -521,14 +518,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-152-kinh-can-tu-tap#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

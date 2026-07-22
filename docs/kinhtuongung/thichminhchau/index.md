@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtuongung/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtuongung.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtuongung/#work"
               },
-              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Thích Minh Châu",
@@ -213,14 +213,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/sn-56-tuong-ung-su-that#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtuongung/thichminhchau/sn-01-tuong-ung-chu-thien.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

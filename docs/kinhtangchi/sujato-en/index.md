@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtangchi/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtangchi-sujato.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/#work"
               },
-              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Bhikkhu Sujato",
@@ -618,14 +618,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/an-11-003-the-chapter-on-similarity#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtangchi/sujato-en/intro/00-000-quote.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

@@ -566,16 +566,17 @@ export default defineConfig({
 
       const compareChapterId = `${pageUrl}#chapter`;
       const compareBookId = `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/#book`;
-
+      // json-ld so sánh
       const compareGraph: Record<string, unknown>[] = [
         {
           '@type': 'WebPage',
           '@id': `${pageUrl}#webpage`,
           'url': pageUrl,
           'name': pageTitle,
-          'inLanguage': compareMeta.inLanguage,
+          'inLanguage': compareMeta.inLanguage[0],
           'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
           'mainEntity': { '@id': compareChapterId },
+          'breadcrumb': { '@id': `${pageUrl}#breadcrumb` }
         },
         {
           '@type': ['Chapter', 'Article'],
@@ -583,35 +584,18 @@ export default defineConfig({
           'name': pageTitle,
           'headline': pageTitle,
           'url': pageUrl,
-          'inLanguage': compareMeta.inLanguage,
+          'inLanguage': compareMeta.inLanguage[0],
           'isPartOf': { '@id': compareBookId },
           'datePublished': DEFAULT_PUBLISHED,
           'dateModified': DEFAULT_PUBLISHED,
           'image': coverUrl,
           "publisher": {
-            "@type": "Organization",
             "@id": "https://kinhnikaya.org/#org",
-            "name": "Kinh Nikāya",
-            "url": "https://kinhnikaya.org/",
-            "logo": { "@type": "ImageObject", "url": "https://kinhnikaya.org/favicon.ico" }
-          },
-          "author": {
-            "@type": "Person",
-            "name": "Gotama Buddha",
-            "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-          },
-          "license": {
-            "@type": "CreativeWork",
-            "name": "Public Domain",
-            "description": "This work is in the public domain"
-          },
-
-          'genre': 'Translation',
-          ...(isBasedOn.length ? { 'isBasedOn': isBasedOn } : {}),
-          ...(translators.length ? { 'translator': translators } : {}),
+          }
         },
         {
           '@type': 'BreadcrumbList',
+          '@id': `${pageUrl}#breadcrumb`,
           'itemListElement': [
             { '@type': 'ListItem', 'position': 1, 'name': 'Trang chủ', 'item': `${SITE_ORIGIN}/` },
             { '@type': 'ListItem', 'position': 2, 'name': bookMeta.name, 'item': bookMeta.url },
@@ -723,16 +707,17 @@ export default defineConfig({
 
           const bookId = `${SITE_ORIGIN}/${bookSegment}/${authorSegment}/#book`;
           const isIntro = pathParts[2] === 'intro' || pathParts[2] === 'outro';
-
+          // json-ld bài đơn
           const articleGraph: Record<string, unknown>[] = isIntro ? [
             {
               '@type': 'WebPage',
               '@id': `${pageUrl}#webpage`,
               'url': pageUrl,
               'name': pageTitle,
-              'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              'inLanguage': translatorMeta?.inLanguage[0] ?? 'vi',
               'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
               'mainEntity': { '@id': `${pageUrl}#article` },
+              'breadcrumb': { '@id': `${pageUrl}#breadcrumb` }
             },
             {
               '@type': 'Article',
@@ -740,28 +725,18 @@ export default defineConfig({
               'name': bookMeta.name,
               'headline': pageTitle,
               'url': pageUrl,
-              'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              'inLanguage': translatorMeta?.inLanguage[0] ?? 'vi',
               ...(translatorMeta ? { 'author': { '@type': 'Person', 'name': translatorMeta.name } } : {}),
               'isPartOf': { '@id': bookId },
               'datePublished': DEFAULT_PUBLISHED,
               'dateModified': DEFAULT_PUBLISHED,
-              "publisher": {
-                "@type": "Organization",
-                "@id": "https://kinhnikaya.org/#org",
-                "name": "Kinh Nikāya",
-                "url": "https://kinhnikaya.org/",
-                "logo": { "@type": "ImageObject", "url": "https://kinhnikaya.org/favicon.ico" }
-              },
+              "publisher": { "@id": "https://kinhnikaya.org/#org" },
               'image': coverUrl,
               'about': { '@id': bookId },
-              ...(translatorMeta && isPaliText(translatorMeta)
-                ? { 'genre': 'Root Text' }
-                : translatorMeta
-                  ? { 'genre': 'Translation' }
-                  : {}),
             },
             {
               '@type': 'BreadcrumbList',
+              '@id': `${pageUrl}#breadcrumb`,
               'itemListElement': [
                 { '@type': 'ListItem', 'position': 1, 'name': 'Trang chủ', 'item': `${SITE_ORIGIN}/` },
                 { '@type': 'ListItem', 'position': 2, 'name': bookMeta.name, 'item': bookMeta.url },
@@ -775,9 +750,10 @@ export default defineConfig({
               '@id': `${pageUrl}#webpage`,
               'url': pageUrl,
               'name': pageTitle,
-              'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              'inLanguage': translatorMeta?.inLanguage[0] ?? 'vi',
               'isPartOf': { '@id': `${SITE_ORIGIN}/#website` },
               'mainEntity': { '@id': `${pageUrl}#chapter` },
+              'breadcrumb': { '@id': `${pageUrl}#breadcrumb` }
             },
             {
               '@type': ['Chapter', 'Article'],
@@ -786,36 +762,16 @@ export default defineConfig({
               //'position': currentIndex + 1,
               'url': pageUrl,
               'headline': pageTitle,
-              'inLanguage': translatorMeta?.inLanguage ?? ['vi'],
+              'inLanguage': translatorMeta?.inLanguage[0] ?? 'vi',
               'image': coverUrl,
               'datePublished': DEFAULT_PUBLISHED,
               'dateModified': DEFAULT_PUBLISHED,
-              "publisher": {
-                "@type": "Organization",
-                "@id": "https://kinhnikaya.org/#org",
-                "name": "Kinh Nikāya",
-                "url": "https://kinhnikaya.org/",
-                "logo": { "@type": "ImageObject", "url": "https://kinhnikaya.org/favicon.ico" }
-              },
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-              },
-              "license": {
-                "@type": "CreativeWork",
-                "name": "Public Domain",
-                "description": "This work is in the public domain"
-              },
+              "publisher": { "@id": "https://kinhnikaya.org/#org" },
               'isPartOf': { '@id': bookId },
-              ...(translatorMeta && isPaliText(translatorMeta)
-                ? { 'genre': 'Root Text' }
-                : translatorMeta
-                  ? { 'genre': 'Translation', 'translator': makeTranslatorEntity(translatorMeta) }
-                  : {}),
             },
             {
               '@type': 'BreadcrumbList',
+              '@id': `${pageUrl}#breadcrumb`,
               'itemListElement': breadcrumbItems.map((it, idx) => ({
                 '@type': 'ListItem',
                 'position': idx + 1,

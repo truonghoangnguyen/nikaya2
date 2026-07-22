@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtruongbo/pali/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/pali/#breadcrumb"
@@ -35,9 +35,6 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtruongbo/#work"
-              },
               "genre": "Root text",
               "hasPart": [
                 {
@@ -142,14 +139,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtruongbo/pali/dn-034-dasuttarasutta#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtruongbo/pali/dn-001-brahmajalasutta.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

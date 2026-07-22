@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
               },
-              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Thích Minh Châu",
@@ -507,14 +507,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-152-kinh-can-tu-tap#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

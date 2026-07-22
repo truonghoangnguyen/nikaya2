@@ -1,63 +1,114 @@
 {
-    "@context": "https://schema.org",
-    "@graph": [
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban#webpage",
+      "url": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban",
+      "name": "MNC 1. KINH PHÁP MÔN CĂN BẢN",
+      "inLanguage": [
+        "vi"
+      ],
+      "isPartOf": {
+        "@id": "https://kinhnikaya.org/#website"
+      },
+      "mainEntity": {
+        "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban#chapter"
+      }
+    },
+    {
+      "@type": [
+        "Chapter",
+        "Article"
+      ],
+      "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban#chapter",
+      "name": "MNC 1. KINH PHÁP MÔN CĂN BẢN",
+      "headline": "MNC 1. KINH PHÁP MÔN CĂN BẢN",
+      "url": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban",
+      "inLanguage": [
+        "vi"
+      ],
+      "isPartOf": {
+        "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#book"
+      },
+      "datePublished": "2026-01-03",
+      "dateModified": "2026-01-03",
+      "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://kinhnikaya.org/#org",
+        "name": "Kinh Nikāya",
+        "url": "https://kinhnikaya.org/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://kinhnikaya.org/favicon.ico"
+        }
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Gotama Buddha",
+        "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+      },
+      "license": {
+        "@type": "CreativeWork",
+        "name": "Public Domain",
+        "description": "This work is in the public domain"
+      },
+      "genre": "Translation",
+      "isBasedOn": [
         {
-            "@type": "Book",
-            "@id": "https://kinhnikaya.org/kinhtuongung/#book",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtuongung/"
-            },
-            "name": "Kinh Tương Ưng Bộ",
-            "alternateName": "Saṃyutta Nikāya",
-            "numberOfChapters": 34,
-            "url": "https://kinhnikaya.org/kinhtuongung/",
-            "isAccessibleForFree": true,
-            "publisher": {
-                "@id": "https://kinhnikaya.org/#org"
-            },
-            "image": "https://kinhnikaya.org/covers/kinhtuongung.webp",
-            "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-            },
-            "about": {
-                "@type": "Thing",
-                "name": "Phật giáo Nguyên thủy",
-                "sameAs": "https://en.wikipedia.org/wiki/Theravada"
-            },
-            "workTranslation": [
-                {
-                    "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book"
-                },
-                {
-                    "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#book"
-                },
-                {
-                    "@id": "https://kinhnikaya.org/kinhtuongung/sujato-vi/#book"
-                },
-                {
-                    "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book"
-                }
-            ]
+          "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/mn-001-the-root-of-all-things#chapter"
         },
         {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-                {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Trang chủ",
-                    "item": "https://kinhnikaya.org/"
-                },
-                {
-                    "@type": "ListItem",
-                    "position": 2,
-                    "name": "Kinh Tương Ưng Bộ",
-                    "item": "https://kinhnikaya.org/kinhtuongung/"
-                }
-            ]
+          "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-001-kinh-phap-mon-can-ban#chapter"
         }
-    ]
+      ],
+      "translator": [
+        {
+          "@type": "Person",
+          "name": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
+          "sameAs": [
+            "https://en.wikipedia.org/wiki/Bhikkhu_Bodhi",
+            "https://en.wikipedia.org/wiki/Bhikkhu_Nanamoli"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Tỷ kheo Thích Minh Châu",
+          "sameAs": [
+            "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Trang chủ",
+          "item": "https://kinhnikaya.org/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kinh Trung Bộ",
+          "item": "https://kinhnikaya.org/kinhtrungbo/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bản đọc song song Ñāṇamoli-Bodhi & Thích Minh Châu",
+          "item": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "MNC 1. KINH PHÁP MÔN CĂN BẢN",
+          "item": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban"
+        }
+      ]
+    }
+  ]
 }

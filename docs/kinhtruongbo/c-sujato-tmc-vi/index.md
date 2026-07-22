@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/#breadcrumb"
@@ -35,9 +35,6 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtruongbo/#work"
-              },
               "genre": "Translation",
               "isBasedOn": [
                 {
@@ -162,14 +159,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/dnc-034-kinh-thap-thuong#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtruongbo/c-sujato-tmc-vi/dnc-001-kinh-pham-vong"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",

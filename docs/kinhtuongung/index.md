@@ -37,11 +37,16 @@ head:
               "Linked Discourses",
               "SN"
             ],
-            "author": {
+            "creator": {
               "@type": "Person",
-              "name": "Gotama Buddha",
+              "@id": "https://kinhnikaya.org/#gautama-buddha",
+              "name": "Gautama Buddha",
+              "alternateName": [
+                "Gotama Buddha",
+                "Đức Phật"
+              ],
               "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-            },
+            }
             "about": {
               "@type": "Thing",
               "name": "Phật giáo Nguyên thủy",

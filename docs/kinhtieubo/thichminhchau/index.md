@@ -16,7 +16,7 @@ head:
                 "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#book"
               },
               "isPartOf": {
-                "@id": "https://kinhnikaya.org/#website"
+                "@id": "https://kinhnikaya.org/kinhtieubo/#webpage"
               },
               "breadcrumb": {
                 "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#breadcrumb"
@@ -35,10 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtieubo.webp",
+              "genre": "Translation",
               "translationOfWork": {
                 "@id": "https://kinhnikaya.org/kinhtieubo/#work"
               },
-              "genre": "Translation",
               "translator": [
                 {
                   "@type": "Person",
@@ -481,14 +481,7 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-138-tap-10-p6-chuong-xxii-dai-pham-9#chapter"
                 }
-              ],
-              "potentialAction": {
-                "@type": "ReadAction",
-                "target": {
-                  "@type": "EntryPoint",
-                  "urlTemplate": "/kinhtieubo/thichminhchau/kn-001-tap-1-kinh-tieu-tung.md"
-                }
-              }
+              ]
             },
             {
               "@type": "BreadcrumbList",
