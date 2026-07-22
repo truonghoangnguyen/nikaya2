@@ -7,28 +7,52 @@ head:
     - type: application/ld+json
     - |
 
-        {
+      {
         "@context": "https://schema.org",
         "@graph": [
           {
-            "@type": "WebPage",
+            "@type": "CollectionPage",
             "@id": "https://kinhnikaya.org/kinhtieubo/#webpage",
             "url": "https://kinhnikaya.org/kinhtieubo/",
-            "mainEntity": {
-              "@id": "https://kinhnikaya.org/kinhtieubo/#book"
+            "name": "Kinh Tiểu Bộ - Danh sách các bản dịch",
+            "isPartOf": {
+              "@id": "https://kinhnikaya.org/#website"
             },
-            "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            "breadcrumb": {
+              "@id": "https://kinhnikaya.org/kinhtieubo/#breadcrumb"
+            },
+            "mainEntity": {
+              "@id": "https://kinhnikaya.org/kinhtieubo/#work"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://kinhnikaya.org/kinhtieubo/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Trang chủ",
+                "item": "https://kinhnikaya.org/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Kinh Tiểu Bộ",
+                "item": "https://kinhnikaya.org/kinhtieubo/"
+              }
+            ]
           },
           {
             "@type": "Book",
-            "@id": "https://kinhnikaya.org/kinhtieubo/#book",
-            "name": "Kinh Tiểu Bộ",
-            "alternateName": "Khuddaka Nikāya",
-            "numberOfChapters": 187,
-            "url": "https://kinhnikaya.org/kinhtieubo/",
-            "isAccessibleForFree": true,
-            "publisher": { "@id": "https://kinhnikaya.org/#org" },
-            "image": "https://kinhnikaya.org/covers/kinhtieubo.webp",
+            "@id": "https://kinhnikaya.org/kinhtieubo/#work",
+            "name": "Khuddaka Nikāya",
+            "description": "Khuddaka Nikāya (Kinh Tiểu Bộ) là bộ kinh thứ năm trong Năm Bộ Kinh (Nikàya) thuộc Kinh tạng Pali Nguyên thủy (Pháp Cú, Kinh Tập, Trưởng Lão Tăng Kệ...).",
+            "alternateName": [
+              "Kinh Tiểu Bộ",
+              "Khuddaka Nikāya",
+              "KN"
+            ],
             "author": {
               "@type": "Person",
               "name": "Gotama Buddha",
@@ -39,32 +63,14 @@ head:
               "name": "Phật giáo Nguyên thủy",
               "sameAs": "https://en.wikipedia.org/wiki/Theravada"
             },
-           "workTranslation": [{
-              "@type": "Book",
-              "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#book",
-              "name": "Kinh Tiểu Bộ Tỷ kheo Thích Minh Châu & GS Trần Phương Lan dịch",
-              "translator": [{
-                "@type": "Person",
-                "name": "Tỷ kheo Thích Minh Châu",
-                "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
-              },
+            "workTranslation": [
               {
-                "@type": "Person",
-                "name": "Trần Phương Lan",
-                "sameAs": "https://quangduc.com/author/about/931/gs-tran-phuong-lan"
-              }]
+                "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#book"
               }
-            ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
-              { "@type": "ListItem", "position": 2, "name": "Kinh Tiểu Bộ", "item": "https://kinhnikaya.org/kinhtieubo/"  }
             ]
           }
         ]
-        }
+      }
 ---
 
 <BookLayout

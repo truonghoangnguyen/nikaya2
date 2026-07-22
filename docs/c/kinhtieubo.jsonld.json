@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://kinhnikaya.org/kinhtieubo/#webpage",
+      "url": "https://kinhnikaya.org/kinhtieubo/",
+      "name": "Kinh Tiểu Bộ - Danh sách các bản dịch",
+      "isPartOf": {
+        "@id": "https://kinhnikaya.org/#website"
+      },
+      "breadcrumb": {
+        "@id": "https://kinhnikaya.org/kinhtieubo/#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://kinhnikaya.org/kinhtieubo/#work"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://kinhnikaya.org/kinhtieubo/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Trang chủ",
+          "item": "https://kinhnikaya.org/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kinh Tiểu Bộ",
+          "item": "https://kinhnikaya.org/kinhtieubo/"
+        }
+      ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://kinhnikaya.org/kinhtieubo/#work",
+      "name": "Khuddaka Nikāya",
+      "description": "TODO: Tiểu Bộ gồm nhiều tác phẩm độc lập (Pháp Cú, Kinh Tập, Trưởng Lão Tăng Kệ...). Cân nhắc model riêng thay vì workTranslation phẳng.",
+      "alternateName": [
+        "Kinh Tiểu Bộ",
+        "Minor Collection",
+        "KN"
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "Gotama Buddha",
+        "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "Phật giáo Nguyên thủy",
+        "sameAs": "https://en.wikipedia.org/wiki/Theravada"
+      }
+    }
+  ]
+}

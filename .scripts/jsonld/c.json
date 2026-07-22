@@ -1,65 +1,31 @@
-<nikaya.org>
+<level-1>
+{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://kinhnikaya.org/#website","name":"Kinh Nikāya","alternateName":"Kinh Nikaya kinh Phật giáo Nguyên thủy đọc online","url":"https://kinhnikaya.org/","inLanguage":"vi","publisher":{"@id":"https://kinhnikaya.org/#org"},"potentialAction":{"@type":"SearchAction","target":"https://kinhnikaya.org/search?q={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"Organization","@id":"https://kinhnikaya.org/#org","name":"Kinh Nikāya","url":"https://kinhnikaya.org/","logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}},{"@type":"CollectionPage","@id":"https://kinhnikaya.org/#webpage","url":"https://kinhnikaya.org/","name":"Trang chủ - Danh sách Kinh Nikāya","isPartOf":{"@id":"https://kinhnikaya.org/#website"},"hasPart":[{"@id":"https://kinhnikaya.org/kinhtruongbo/#work"},{"@id":"https://kinhnikaya.org/kinhtrungbo/#work"},{"@id":"https://kinhnikaya.org/kinhtuongung/#work"},{"@id":"https://kinhnikaya.org/kinhtangchi/#work"},{"@id":"https://kinhnikaya.org/kinhtieubo/#work"}]}]}
+</level-1>
+<level-2>
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://kinhnikaya.org/kinhtuongung/#webpage","url":"https://kinhnikaya.org/kinhtuongung/","name":"Kinh Tương Ưng Bộ - Danh sách các bản dịch","isPartOf":{"@id":"https://kinhnikaya.org/#website"},"breadcrumb":{"@id":"https://kinhnikaya.org/kinhtuongung/#breadcrumb"},"mainEntity":{"@id":"https://kinhnikaya.org/kinhtuongung/#work"}},{"@type":"BreadcrumbList","@id":"https://kinhnikaya.org/kinhtuongung/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Trang chủ","item":"https://kinhnikaya.org/"},{"@type":"ListItem","position":2,"name":"Kinh Tương Ưng","item":"https://kinhnikaya.org/kinhtuongung/"}]},{"@type":"Book","@id":"https://kinhnikaya.org/kinhtuongung/#work","name":"Saṃyutta Nikāya","description":"Saṃyutta Nikāya (Kinh Tương Ưng Bộ) gồm các bài kinh được nhóm theo các chủ đề hoặc đối tượng có liên hệ với nhau (saṃyutta, 'tương ưng'), giúp việc tra cứu và ghi nhớ thuận tiện hơn.","alternateName":["Kinh Tương Ưng Bộ","Linked Discourses","SN"],"author":{"@type":"Person","name":"Gotama Buddha","sameAs":"https://en.wikipedia.org/wiki/Gautama_Buddha"},"about":{"@type":"Thing","name":"Phật giáo Nguyên thủy","sameAs":"https://en.wikipedia.org/wiki/Theravada"},"workExample":{"@id":"https://kinhnikaya.org/kinhtuongung/pali/#book"},"workTranslation":[{"@id":"https://kinhnikaya.org/kinhtuongung/thichminhchau/#book"},{"@id":"https://kinhnikaya.org/kinhtuongung/sujato-en/#book"},{"@id":"https://kinhnikaya.org/kinhtuongung/sujato-vi/#book"},{"@id":"https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book"}]}]}  
+</level-2>
+<level-2-code>
 {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "WebPage",
-      "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia#webpage",
-      "url": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia",
-      "name": "131. KINH NHẤT DẠ HIỀN GIẢ",
-      "inLanguage": [
-        "vi"
-      ],
+      "@type": "CollectionPage",
+      "@id": "https://kinhnikaya.org/kinhtangchi/#webpage",
+      "url": "https://kinhnikaya.org/kinhtangchi/",
+      "name": "Kinh Tăng Chi Bộ - Danh sách các bản dịch",
       "isPartOf": {
         "@id": "https://kinhnikaya.org/#website"
       },
+      "breadcrumb": {
+        "@id": "https://kinhnikaya.org/kinhtangchi/#breadcrumb"
+      },
       "mainEntity": {
-        "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia#chapter"
-      }
-    },
-    {
-      "@type": [
-        "Chapter",
-        "Article"
-      ],
-      "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia#chapter",
-      "name": "131. KINH NHẤT DẠ HIỀN GIẢ",
-      "url": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia",
-      "headline": "131. KINH NHẤT DẠ HIỀN GIẢ",
-      "inLanguage": [
-        "vi"
-      ],
-      "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
-      "datePublished": "2026-01-03",
-      "dateModified": "2026-01-03",
-      "publisher": {
-        "@type": "Organization",
-        "@id": "https://kinhnikaya.org/#org",
-        "name": "Kinh Nikāya",
-        "url": "https://kinhnikaya.org/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://kinhnikaya.org/favicon.ico"
-        }
-      },
-      "author": {
-        "@type": "Person",
-        "name": "Gotama Buddha",
-        "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-      },
-      "isPartOf": {
-        "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book"
-      },
-      "translator": {
-        "@type": "Person",
-        "name": "Tỷ kheo Thích Minh Châu",
-        "sameAs": [
-          "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
-        ]
+        "@id": "https://kinhnikaya.org/kinhtangchi/#work"
       }
     },
     {
       "@type": "BreadcrumbList",
+      "@id": "https://kinhnikaya.org/kinhtangchi/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -70,172 +36,104 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Kinh Trung Bộ",
-          "item": "https://kinhnikaya.org/kinhtrungbo/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Tỷ kheo Thích Minh Châu",
-          "item": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 4,
-          "name": "131. KINH NHẤT DẠ HIỀN GIẢ",
-          "item": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-131-kinh-nhat-da-hien-gia"
+          "name": "Kinh Tăng Chi Bộ",
+          "item": "https://kinhnikaya.org/kinhtangchi/"
         }
       ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://kinhnikaya.org/kinhtangchi/#work",
+      "name": "Aṅguttara Nikāya",
+      "description": "Kinh Tăng Chi Bộ  các kinh có nội dung  gom theo số ví dụ 'bảy pháp-những bài nội dung liên quan đến 7 ví dụ 7 giác chi', một cách nhớ tương tự là kinh Tương Ưng",
+      "alternateName": [
+        "Kinh Tăng Chi Bộ",
+        "Numbered Discourses",
+        "AN"
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "Gotama Buddha",
+        "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "Phật giáo Nguyên thủy",
+        "sameAs": "https://en.wikipedia.org/wiki/Theravada"
+      },
+      "workTranslation": [
+        {
+          "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/#book"
+        },
+        {
+          "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#book"
+        },
+        {
+          "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#book"
+        },
+        {
+          "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#book"
+        }
+      ],
+      "workExample": {
+        "@id": "https://kinhnikaya.org/kinhtangchi/pali/#book"
+      }
     }
   ]
 }
-</nikaya.org>
-<suttacentral>
-{
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
-  "@id": "/mn131/vi/minh_chau",
-  "name": "Bhaddekarattasutta",
-  "alternateName": [
-    "MN 131",
-    "One Fine Night "
-  ],
-  "description": "This discourse opens with a short but powerful set of verses extolling the benefits of insight into the here and now, followed by an explanation.",
-  "url": "https://suttacentral.now/mn131/vi/minh_chau",
-  "sameAs": [
-    "https://suttacentral.net/mn131/vi/minh_chau",
-    "https://suttacentral.express/mn131/vi/minh_chau"
-  ],
-  "identifier": "mn131",
-  "inLanguage": {
-    "@type": "Language",
-    "name": "vi",
-    "alternateName": "vi"
-  },
-  "genre": "Translation",
-  "translator": {
-    "@type": "Person",
-    "name": "Thích Minh Châu",
-    "identifier": "minh_chau"
-  },
-  "translationOfWork": {
-    "@type": "CreativeWork",
-    "name": "Bhaddekarattasutta",
-    "inLanguage": "pli",
-    "about": {
-      "@type": "Thing",
-      "name": "Buddhist Teaching",
-      "description": "Ancient Buddhist discourse or text"
-    }
-  },
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Buddhism",
-      "description": "Buddhist philosophy and teachings"
-    },
-    {
-      "@type": "Thing",
-      "name": "Buddhist Literature",
-      "description": "Ancient Buddhist texts and modern translations"
-    }
-  ],
-  "isPartOf": {
-    "@type": "WebSite",
-    "@id": "/#website",
-    "name": "SuttaCentral"
-  },
-  "breadcrumb": {
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://suttacentral.now"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Sutta",
-        "item": "https://suttacentral.now/pitaka/sutta"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Middle",
-        "item": "https://suttacentral.now/pitaka/sutta/middle"
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "name": "MN",
-        "item": "https://suttacentral.now/pitaka/sutta/middle/mn"
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "name": "Uparipaṇṇāsa",
-        "item": "https://suttacentral.now/pitaka/sutta/middle/mn/mn-uparipannasa"
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "name": "Vibhaṅgavagga",
-        "item": "https://suttacentral.now/mn-vibhangavagga"
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "name": "MN 131",
-        "item": "https://suttacentral.now/mn131"
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "name": "Thích Minh Châu",
-        "item": "https://suttacentral.nowundefined"
-      }
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "@id": "/#organization",
-    "name": "SuttaCentral",
-    "url": "/",
-    "description": "Early Buddhist texts, translations, and parallels",
-    "foundingDate": "2012",
-    "sameAs": [
-      "https://suttacentral.net",
-      "https://github.com/suttacentral"
-    ]
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "/mn131/vi/minh_chau"
-  },
-  "hasPreviousItem": {
-    "@type": "CreativeWork",
-    "name": "Messengers of the Gods ",
-    "url": "https://suttacentral.now/mn130/vi/minh_chau",
-    "sameAs": [
-      "https://suttacentral.net/mn130/vi/minh_chau",
-      "https://suttacentral.express/mn130/vi/minh_chau"
-    ]
-  },
-  "hasNextItem": {
-    "@type": "CreativeWork",
-    "name": "Ānanda and One Fine Night ",
-    "url": "https://suttacentral.now/mn132/vi/minh_chau",
-    "sameAs": [
-      "https://suttacentral.net/mn132/vi/minh_chau",
-      "https://suttacentral.express/mn132/vi/minh_chau"
-    ]
-  },
-  "license": {
-    "@type": "CreativeWork",
-    "name": "Public Domain",
-    "description": "This work is in the public domain"
-  }
-}
-</suttacentral>
+</level-2-code>
+<level-2-chuẩn>
+ {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://kinhnikaya.org/kinhtuongung/#webpage",
+            "url": "https://kinhnikaya.org/kinhtuongung/",
+            "name": "Kinh Tương Ưng Bộ - Danh sách các bản dịch",
+            "isPartOf": { "@id": "https://kinhnikaya.org/#website" },
+            "breadcrumb": { "@id": "https://kinhnikaya.org/kinhtuongung/#breadcrumb" },
+            "mainEntity": { "@id": "https://kinhnikaya.org/kinhtuongung/#work" }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://kinhnikaya.org/kinhtuongung/#breadcrumb",
+            "itemListElement": [
+              { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
+              { "@type": "ListItem", "position": 2, "name": "Kinh Tương Ưng", "item": "https://kinhnikaya.org/kinhtuongung/" }
+            ]
+          },
+          {
+            "@type": "Book",
+            "@id": "https://kinhnikaya.org/kinhtuongung/#work",
+            "name": "Saṃyutta Nikāya",
+            "description": "Saṃyutta Nikāya (Kinh Tương Ưng Bộ) gồm các bài kinh được nhóm theo các chủ đề hoặc đối tượng có liên hệ với nhau (saṃyutta, 'tương ưng'), giúp việc tra cứu và ghi nhớ thuận tiện hơn.",
+            "alternateName": [
+              "Kinh Tương Ưng Bộ",
+              "Linked Discourses",
+              "SN"
+            ],
+            "author": {
+              "@type": "Person",
+              "name": "Gotama Buddha",
+              "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+            },
+            "about": {
+              "@type": "Thing",
+              "name": "Phật giáo Nguyên thủy",
+              "sameAs": "https://en.wikipedia.org/wiki/Theravada"
+            },
+            "workExample": {
+              "@id": "https://kinhnikaya.org/kinhtuongung/pali/#book"
+            },
+            "workTranslation": [
+              { "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtuongung/sujato-vi/#book" },
+              { "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book" }
+            ]
+          }
+        ]
+        }
+</level-2-chuẩn>
+

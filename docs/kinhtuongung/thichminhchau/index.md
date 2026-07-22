@@ -1,5 +1,6 @@
 ---
-title: Kinh Tương Ưng - Tỷ kheo Thích Minh Châu
+title: Kinh Tương Ưng Bộ - Kinh Tương Ưng Bộ
+description: Bản dịch tiếng việt Kinh Tương Ưng Bộ Saṁyutta Nikāya của Tỷ kheo Thích Minh Châu
 head:
   - - script
     - type: application/ld+json
@@ -14,32 +15,34 @@ head:
               "mainEntity": {
                 "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book",
               "name": "Kinh Tương Ưng Bộ",
+              "description": "Bản dịch tiếng việt Kinh Tương Ưng Bộ Saṁyutta Nikāya của Tỷ kheo Thích Minh Châu",
               "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtuongung/thichminhchau/",
-              "inLanguage": ["vi"],
+              "inLanguage": "vi",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtuongung.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/#work"
               },
+              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Thích Minh Châu",
                 "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
-              },
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtuongung/#book"
               },
               "hasPart": [
                 {
@@ -210,10 +213,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/sn-56-tuong-ung-su-that#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtuongung/thichminhchau/sn-01-tuong-ung-chu-thien.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -224,7 +235,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 2,
-                  "name": "Kinh Tương Ưng",
+                  "name": "Kinh Tương Ưng Bộ",
                   "item": "https://kinhnikaya.org/kinhtuongung/"
                 },
                 {
@@ -240,12 +251,12 @@ head:
 
 ---
 
-<h1 style="text-align: center;">Kinh Tương Ưng</h1>
-<h2 style="text-align: center;">Tỷ kheo Thích Minh Châu</h2>
+<h1 style="text-align: center;">Kinh Tương Ưng Bộ</h1>
+<h2 style="text-align: center;">Kinh Tương Ưng Bộ</h2>
 <br>
-<a href="/kinhtuongung/thichminhchau/sn-01-tuong-ung-chu-thien">
+<a href= "/kinhtuongung/thichminhchau/sn-01-tuong-ung-chu-thien.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtuongung.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tương Ưng Tỷ kheo Thích Minh Châu">
+    <img src="/covers/kinhtuongung.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Bản dịch tiếng việt Kinh Tương Ưng Bộ Saṁyutta Nikāya của Tỷ kheo Thích Minh Châu">
 </figure>
 </a>
 

@@ -1,5 +1,6 @@
 ---
-title: Kinh Trung Bộ - Bản đọc song song Nanamoli-Bodhi (Việt) & Thích Minh Châu
+title: Kinh Trung Bộ - Bản đọc song song Ñāṇamoli & Bodhi — Thích Minh Châu
+description: Kinh Trung Bộ Majjhima Nikāya - Bản đọc song song Ñāṇamoli & Bodhi - Thích Minh Châu
 head:
   - - script
     - type: application/ld+json
@@ -14,46 +15,55 @@ head:
               "mainEntity": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#book",
-              "name": "Kinh Trung Bộ",
-              "bookEdition": "Bản đọc song song",
+              "name": "Bản đọc song song Ñāṇamoli & Bodhi — Thích Minh Châu",
+              "description": "Kinh Trung Bộ Majjhima Nikāya - Bản đọc song song Ñāṇamoli & Bodhi - Thích Minh Châu",
+              "bookEdition": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi - Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/",
-              "inLanguage": ["vi"],
+              "inLanguage": "vi",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
-              "image": "https://kinhnikaya.org/covers/kinhtrunngbo.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
               },
-              "translator": [{
-                "@type": "Person",
-                "name": "Tỷ kheo Thích Minh Châu",
-                "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
-                }, {
+              "genre": "Translation",
+              "isBasedOn": [
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book"
+                }
+              ],
+              "translator": [
+                {
                   "@type": "Person",
                   "name": "Bhikkhu Ñāṇamoli",
                   "sameAs": "https://en.wikipedia.org/wiki/Bhikkhu_Ñāṇamoli"
-                },{
+                },
+                {
                   "@type": "Person",
                   "name": "Bhikkhu Bodhi",
                   "sameAs": "https://en.wikipedia.org/wiki/Bhikkhu_Bodhi"
-                }, {
-                "@type": "Person",
-                "name": "Trương Hoàng Nguyên",
-                "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
-               }
+                },
+                {
+                  "@type": "Person",
+                  "name": "Thích Minh Châu",
+                  "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
+                }
               ],
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtrungbo/#book"
-              },
               "hasPart": [
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban#chapter"
@@ -511,10 +521,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/mnc-152-kinh-can-tu-tap#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -531,7 +549,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Bản đọc song song Ñāṇamoli & Bodhi - Thích Minh Châu",
+                  "name": "Bản đọc song song Ñāṇamoli & Bodhi — Thích Minh Châu",
                   "item": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/"
                 }
               ]
@@ -542,11 +560,11 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
-<h2 style="text-align: center;">Bản đọc song song Nanamoli-Bodhi (Việt) & Thích Minh Châu</h2>
+<h2 style="text-align: center;">Bản đọc song song Ñāṇamoli & Bodhi — Thích Minh Châu</h2>
 <br>
-<a href="/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban">
+<a href= "/kinhtrungbo/c-nm-tmc-vi/mnc-001-kinh-phap-mon-can-ban">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Tỷ kheo Thích Minh Châu">
+    <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trung Bộ Majjhima Nikāya - Bản đọc song song Ñāṇamoli & Bodhi - Thích Minh Châu">
 </figure>
 </a>
 
@@ -554,5 +572,6 @@ head:
 <hr/>
 <br/>
 <h2 style="text-align: center;">Mục Lục</h2>
+<br/>
 
 <!--@include: ./mucluc.md-->

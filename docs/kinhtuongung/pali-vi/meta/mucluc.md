@@ -1,7 +1,3 @@
----
-title: Mục lục
----
-
 - [Devatāsaṁyutta](/kinhtuongung/pali-vi/sn-001-devatasamyutta.md)
 - [Devaputtasaṁyutta](/kinhtuongung/pali-vi/sn-002-devaputtasamyutta.md)
 - [Kosalasaṁyutta](/kinhtuongung/pali-vi/sn-003-kosalasamyutta.md)
@@ -13,7 +9,7 @@ title: Mục lục
 - [Vanasaṁyutta](/kinhtuongung/pali-vi/sn-009-vanasamyutta.md)
 - [Yakkhasaṁyutta](/kinhtuongung/pali-vi/sn-010-yakkhasamyutta.md)
 - [Sakkasaṁyutta](/kinhtuongung/pali-vi/sn-011-sakkasamyutta.md)
-- [Nidānasaṁyutta](/kinhtuongung/pali-vi/sn-012-nidanasamyutta.md)
+- [Tương Ưng Nhân Duyên](/kinhtuongung/pali-vi/sn-012-nidanasamyutta.md)
 - [Abhisamayasaṁyutta](/kinhtuongung/pali-vi/sn-013-abhisamayasamyutta.md)
 - [Dhātusaṁyutta](/kinhtuongung/pali-vi/sn-014-dhatusamyutta.md)
 - [Anamataggasaṁyutta](/kinhtuongung/pali-vi/sn-015-anamataggasamyutta.md)
@@ -48,13 +44,13 @@ title: Mục lục
 - [Abyākatasaṁyutta](/kinhtuongung/pali-vi/sn-044-abyakatasamyutta.md)
 - [Maggasaṁyutta](/kinhtuongung/pali-vi/sn-045-maggasamyutta.md)
 - [Bojjhaṅgasaṁyutta](/kinhtuongung/pali-vi/sn-046-bojjhangasamyutta.md)
-- [Satipaṭṭhānasaṁyutta](/kinhtuongung/pali-vi/sn-047-satipatthanasamyutta.md)
+- [Tương Ưng Bộ 47. Tương Ưng Nơi Chú Tâm (Satipaṭṭhānasaṁyutta)](/kinhtuongung/pali-vi/sn-047-satipatthanasamyutta.md)
 - [Indriyasaṁyutta](/kinhtuongung/pali-vi/sn-048-indriyasamyutta.md)
 - [Sammappadhānasaṁyutta](/kinhtuongung/pali-vi/sn-049-sammappadhanasamyutta.md)
 - [Balasaṁyutta](/kinhtuongung/pali-vi/sn-050-balasamyutta.md)
 - [Iddhipādasaṁyutta](/kinhtuongung/pali-vi/sn-051-iddhipadasamyutta.md)
 - [Anuruddhasaṁyutta](/kinhtuongung/pali-vi/sn-052-anuruddhasamyutta.md)
 - [Jhānasaṁyutta](/kinhtuongung/pali-vi/sn-053-jhanasamyutta.md)
-- [Ānāpānasaṁyutta](/kinhtuongung/pali-vi/sn-054-anapanasamyutta.md)
+- [Tương Ưng Chú Tâm Về Hơi Thở](/kinhtuongung/pali-vi/sn-054-anapanasamyutta.md)
 - [Sotāpattisaṁyutta](/kinhtuongung/pali-vi/sn-055-sotapattisamyutta.md)
 - [Saccasaṁyutta](/kinhtuongung/pali-vi/sn-056-saccasamyutta.md)

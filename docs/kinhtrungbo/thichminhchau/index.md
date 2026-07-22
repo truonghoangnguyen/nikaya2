@@ -1,5 +1,6 @@
 ---
 title: Kinh Trung Bộ - Tỷ kheo Thích Minh Châu
+description: Bản dịch tiếng việt Kinh Trung Bộ Majjhima Nikāya của Tỷ kheo Thích Minh Châu
 head:
   - - script
     - type: application/ld+json
@@ -14,39 +15,41 @@ head:
               "mainEntity": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book",
-              "name": "Kinh Trung Bộ",
+              "name": "Tỷ kheo Thích Minh Châu",
+              "description": "Bản dịch tiếng việt Kinh Trung Bộ Majjhima Nikāya của Tỷ kheo Thích Minh Châu",
               "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/",
-              "inLanguage": ["vi"],
+              "inLanguage": "vi",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
               },
+              "genre": "Translation",
               "translator": {
                 "@type": "Person",
-                "name": "Tỷ kheo Thích Minh Châu",
-                "sameAs": ["https://vi.wikipedia.org/wiki/Thích_Minh_Châu"]
-              },
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtrungbo/#book"
+                "name": "Thích Minh Châu",
+                "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
               },
               "hasPart": [
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-2#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-2.md#article"
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-001-kinh-phap-mon-can-ban#chapter"
@@ -504,10 +507,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/mn-152-kinh-can-tu-tap#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -537,9 +548,9 @@ head:
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
 <h2 style="text-align: center;">Tỷ kheo Thích Minh Châu</h2>
 <br>
-<a href="/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1">
+<a href= "/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trung Bộ Tỷ kheo Thích Minh Châu">
+    <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Bản dịch tiếng việt Kinh Trung Bộ Majjhima Nikāya của Tỷ kheo Thích Minh Châu">
 </figure>
 </a>
 
@@ -548,4 +559,5 @@ head:
 <br/>
 <h2 style="text-align: center;">Mục Lục</h2>
 <br/>
+
 <!--@include: ./meta/mucluc.md-->

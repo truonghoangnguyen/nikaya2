@@ -1,5 +1,6 @@
 ---
-title: Kinh Tương Ưng - Bản đọc song song Bhikkhu Sujato - Thích Minh Châu
+title: Kinh Tương Ưng Bộ - Bản đọc song song Sujato - Thích Minh Châu
+description: Tương Ưng Bộ Saṁyutta Nikāya - Bản đọc song song Sujato - Thích Minh Châu
 head:
   - - script
     - type: application/ld+json
@@ -8,41 +9,56 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#webpage",
+              "url": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book"
+              },
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#breadcrumb"
+              }
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/"
-              },
-              "name": "Bản đọc song song: Bhikkhu Sujato - Thích Minh Châu",
+              "name": "Bản đọc song song Sujato - Thích Minh Châu",
+              "description": "Tương Ưng Bộ Saṁyutta Nikāya - Bản đọc song song Sujato - Thích Minh Châu",
               "bookEdition": "Bhikkhu Sujato - Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/",
-              "inLanguage": ["vi"],
+              "inLanguage": "vi",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtuongung.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/#work"
               },
+              "genre": "Translation",
+              "isBasedOn": [
+                {
+                  "@id": "https://kinhnikaya.org/kinhtuongung/sujato-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book"
+                }
+              ],
               "translator": [
                 {
                   "@type": "Person",
-                  "name": "Bhikkhu Sujato",
-                  "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato"
+                  "name": "Trương Hoàng Nguyên",
+                  "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
                 },
                 {
                   "@type": "Person",
-                  "name": "Tỷ kheo Thích Minh Châu",
+                  "name": "Thích Minh Châu",
                   "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
                 }
               ],
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtuongung/#book"
-              },
               "hasPart": [
                 {
                   "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/snc-01-tuong-ung-chu-thien#chapter"
@@ -212,10 +228,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/snc-56-tuong-ung-su-that#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtuongung/c-sujato-tmc-vi/snc-01-tuong-ung-chu-thien"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -226,13 +250,13 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 2,
-                  "name": "Kinh Tương Ưng",
+                  "name": "Kinh Tương Ưng Bộ",
                   "item": "https://kinhnikaya.org/kinhtuongung/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Bản đọc song song Bhikkhu Sujato và Thích Minh Châu",
+                  "name": "Bản đọc song song Sujato - Thích Minh Châu",
                   "item": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/"
                 }
               ]
@@ -242,12 +266,12 @@ head:
 
 ---
 
-<h1 style="text-align: center;">Kinh Tương Ưng</h1>
-<h2 style="text-align: center;">Bản đọc song song: Bhikkhu Sujato - Thích Minh Châu</h2>
+<h1 style="text-align: center;">Kinh Tương Ưng Bộ</h1>
+<h2 style="text-align: center;">Bản đọc song song Sujato - Thích Minh Châu</h2>
 <br>
-<a href="/kinhtuongung/c-sujato-tmc-vi/snc-01-tuong-ung-chu-thien">
+<a href= "/kinhtuongung/c-sujato-tmc-vi/snc-01-tuong-ung-chu-thien">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtuongung.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tương Ưng Bản đọc song song: Bhikkhu Sujato - Thích Minh Châu">
+    <img src="/covers/kinhtuongung.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Tương Ưng Bộ Saṁyutta Nikāya - Bản đọc song song Sujato - Thích Minh Châu">
 </figure>
 </a>
 

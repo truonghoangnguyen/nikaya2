@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kinh Tương Ưng Bộ (Saṃyutta Nikāya)
-description: Saṃyutta Nikāya (Kinh Tương Ưng Bộ) gồm khoảng 2.900 bài kinh nhóm theo chủ đề, tập trung vào Duyên khởi, Ngũ uẩn, Lục nhập và Bát chánh đạo.
+description: Saṃyutta Nikāya (Kinh Tương Ưng Bộ) gồm các bài kinh được nhóm theo các chủ đề hoặc đối tượng có liên hệ với nhau (saṃyutta, "tương ưng"), giúp việc tra cứu và ghi nhớ thuận tiện hơn.
 head:
   - - script
     - type: application/ld+json
@@ -11,24 +11,32 @@ head:
         "@context": "https://schema.org",
         "@graph": [
           {
-            "@type": "WebPage",
-            "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage",
-            "url": "https://kinhnikaya.org/kinhtrungbo/",
-            "mainEntity": {
-              "@id": "https://kinhnikaya.org/kinhtrungbo/#book"
-            },
-            "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+            "@type": "CollectionPage",
+            "@id": "https://kinhnikaya.org/kinhtuongung/#webpage",
+            "url": "https://kinhnikaya.org/kinhtuongung/",
+            "name": "Kinh Tương Ưng Bộ - Danh sách các bản dịch",
+            "isPartOf": { "@id": "https://kinhnikaya.org/#website" },
+            "breadcrumb": { "@id": "https://kinhnikaya.org/kinhtuongung/#breadcrumb" },
+            "mainEntity": { "@id": "https://kinhnikaya.org/kinhtuongung/#work" }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://kinhnikaya.org/kinhtuongung/#breadcrumb",
+            "itemListElement": [
+              { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
+              { "@type": "ListItem", "position": 2, "name": "Kinh Tương Ưng", "item": "https://kinhnikaya.org/kinhtuongung/" }
+            ]
           },
           {
             "@type": "Book",
-            "@id": "https://kinhnikaya.org/kinhtuongung/#book",
-            "name": "Kinh Tương Ưng Bộ",
-            "alternateName": "Saṃyutta Nikāya",
-            "numberOfChapters": 56,
-            "url": "https://kinhnikaya.org/kinhtuongung/",
-            "isAccessibleForFree": true,
-            "publisher": { "@id": "https://kinhnikaya.org/#org" },
-            "image": "https://kinhnikaya.org/covers/kinhtuongung.webp",
+            "@id": "https://kinhnikaya.org/kinhtuongung/#work",
+            "name": "Saṃyutta Nikāya",
+            "description": "Saṃyutta Nikāya (Kinh Tương Ưng Bộ) gồm các bài kinh được nhóm theo các chủ đề hoặc đối tượng có liên hệ với nhau (saṃyutta, 'tương ưng'), giúp việc tra cứu và ghi nhớ thuận tiện hơn.",
+            "alternateName": [
+              "Kinh Tương Ưng Bộ",
+              "Linked Discourses",
+              "SN"
+            ],
             "author": {
               "@type": "Person",
               "name": "Gotama Buddha",
@@ -39,18 +47,14 @@ head:
               "name": "Phật giáo Nguyên thủy",
               "sameAs": "https://en.wikipedia.org/wiki/Theravada"
             },
+            "workExample": {
+              "@id": "https://kinhnikaya.org/kinhtuongung/pali/#book"
+            },
             "workTranslation": [
               { "@id": "https://kinhnikaya.org/kinhtuongung/thichminhchau/#book" },
               { "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#book" },
               { "@id": "https://kinhnikaya.org/kinhtuongung/sujato-vi/#book" },
               { "@id": "https://kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/#book" }
-             ]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
-              { "@type": "ListItem", "position": 2, "name": "Kinh Tương Ưng Bộ", "item": "https://kinhnikaya.org/kinhtuongung/"  }
             ]
           }
         ]
@@ -58,7 +62,7 @@ head:
 ---
 
 <BookLayout
-  title="Kinh Tương Ưng"
+  title="Kinh Tương Ưng Bộ"
   description="Samyutta Nikāya - Bộ sưu tập các bài kinh được sắp xếp theo các chủ đề (tương ưng), tập trung sâu vào các giáo lý cốt lõi như Duyên khởi, Ngũ uẩn, Lục nhập và Bát chánh đạo."
   cover="/covers/kinhtuongung.webp"
 >

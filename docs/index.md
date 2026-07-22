@@ -12,54 +12,39 @@ head:
         "@context": "https://schema.org",
         "@graph": [
             {
-            "@type": "Organization",
-            "@id": "https://kinhnikaya.org/#org",
-            "name": "Kinh Nikāya",
-            "url": "https://kinhnikaya.org/",
-             "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.ico"}
-            },
-            {
-            "@type": "WebSite",
-            "@id": "https://kinhnikaya.org/#website",
-            "name": "Kinh Nikāya",
-            "alternateName": "Kinh Nikaya Phật giáo Nguyên thủy đọc online",
-            "url": "https://kinhnikaya.org/",
-            "inLanguage": ["vi"],
-            "publisher": { "@id": "https://kinhnikaya.org/#org" },
-            "hasPart": [{
-                "@type": "Book",
-                "@id": "https://kinhnikaya.org/kinhtruongbo/#book",
-                "url": "https://kinhnikaya.org/kinhtruongbo/"
-            },
-            {
-                "@type": "Book",
-                "@id": "https://kinhnikaya.org/kinhtrungbo/#book",
-            "url": "https://kinhnikaya.org/kinhtrungbo/"
-            },
-            {
-                "@type": "Book",
-                "@id": "https://kinhnikaya.org/kinhtuongungbo/#book",
-                "url": "https://kinhnikaya.org/kinhtuongungbo/"
-            },
-            {
-                "@type": "Book",
-                "@id": "https://kinhnikaya.org/kinhtangchibo/#book",
-                "url": "https://kinhnikaya.org/kinhtangchibo/"
-            },
-            {
-                "@type": "Book",
-                "@id": "https://kinhnikaya.org/kinhtieubo/#book",
-                "url": "https://kinhnikaya.org/kinhtieubo/"
+                "@type": "WebSite",
+                "@id": "https://kinhnikaya.org/#website",
+                "name": "Kinh Nikāya",
+                "alternateName": "Kinh Nikaya kinh Phật giáo Nguyên thủy đọc online",
+                "url": "https://kinhnikaya.org/",
+                "inLanguage": "vi",
+                "publisher": { "@id": "https://kinhnikaya.org/#org" },
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://kinhnikaya.org/search?q={search_term_string}",
+                    "query-input": "required name=search_term_string"
                 }
-            ],
-            "potentialAction": {
-                "@type": "SearchAction",
-                "target": {
-                "@type": "EntryPoint",
-                "urlTemplate": "https://kinhnikaya.org/search?q={search_term_string}"
-                },
-                "query-input": "required name=search_term_string"
-            }
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://kinhnikaya.org/#org",
+              "name": "Kinh Nikāya",
+              "url": "https://kinhnikaya.org/",
+              "logo":{"@type":"ImageObject","url":"https://kinhnikaya.org/favicon.svg"}
+            },
+            {
+              "@type": "CollectionPage",
+              "@id": "https://kinhnikaya.org/#webpage",
+              "url": "https://kinhnikaya.org/",
+              "name": "Trang chủ - Danh sách Kinh Nikāya",
+              "isPartOf": { "@id": "https://kinhnikaya.org/#website" },
+              "hasPart": [
+                {"@id": "https://kinhnikaya.org/kinhtruongbo/#work"},
+                {"@id": "https://kinhnikaya.org/kinhtrungbo/#work"},
+                {"@id": "https://kinhnikaya.org/kinhtuongung/#work"},
+                {"@id": "https://kinhnikaya.org/kinhtangchi/#work"},
+                {"@id": "https://kinhnikaya.org/kinhtieubo/#work"}
+              ]
             }
         ]
         }

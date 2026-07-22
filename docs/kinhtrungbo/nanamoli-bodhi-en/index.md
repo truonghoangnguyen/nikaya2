@@ -1,5 +1,6 @@
 ---
-title: The Middle Length Discourses of the Buddha - Majjhima Nikaya - Ñāṇamoli & Bodhi
+title: Kinh Trung Bộ - The Middle Length Discourses of the Buddha A Translation of the Majjhima Nikaya
+description: The Middle Length Discourses of the Buddha A Translation of the Majjhima Nikāya by Bhikkhu Ñāṇamoli & Bhikkhu Bodhi
 head:
   - - script
     - type: application/ld+json
@@ -7,116 +8,111 @@ head:
        {
           "@context": "https://schema.org",
           "@graph": [
-           {
+            {
               "@type": "WebPage",
               "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#webpage",
               "url": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/",
               "mainEntity": {
                 "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#book",
-              "name": "The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikaya",
+              "name": "The Middle Length Discourses of the Buddha A Translation of the Majjhima Nikaya",
+              "description": "The Middle Length Discourses of the Buddha A Translation of the Majjhima Nikāya by Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
               "bookEdition": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
               "url": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/",
-              "inLanguage": ["en"],
+              "inLanguage": "en",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtrungbo-nanamoli.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-              },
-              "translator": [
-                {
-                  "@type": "Person",
-                  "name": "Bhikkhu Ñāṇamoli",
-                  "sameAs": "https://en.wikipedia.org/wiki/Bhikkhu_Ñāṇamoli"
-                },
-                {
-                  "@type": "Person",
-                  "name": "Bhikkhu Bodhi",
-                  "sameAs": "https://en.wikipedia.org/wiki/Bhikkhu_Bodhi"
-                }
-              ],
               "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtrungbo/#book"
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
+              },
+              "genre": "Translation",
+              "translator": {
+                "@type": "Person",
+                "name": "Bhikkhu Ñāṇamoli",
+                "sameAs": "https://en.wikipedia.org/wiki/Bhikkhu_Ñāṇamoli"
               },
               "hasPart": [
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/02.introduction#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/02.introduction.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/03.the-buddha-in-the-majjhima-nikaya#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/03.the-buddha-in-the-majjhima-nikaya.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/04.the-four-noble-truths#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/04.the-four-noble-truths.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/05.the-teaching-of-non-self#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/05.the-teaching-of-non-self.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/06.the-origin-and-cessation-of-suffering#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/06.the-origin-and-cessation-of-suffering.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/07.nibbana#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/07.nibbana.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/08.the-way-to-the-cessation-of-suffering#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/08.the-way-to-the-cessation-of-suffering.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/09.the-gradual-training#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/09.the-gradual-training.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/10.approaches-to-meditation#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/10.approaches-to-meditation.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/11.the-four-planes-of-liberation#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/11.the-four-planes-of-liberation.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/12.the-arahant#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/12.the-arahant.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/13.kamma-and-rebirth#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/13.kamma-and-rebirth.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/14.the-buddha-and-his-contemporaries#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/14.the-buddha-and-his-contemporaries.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/15.technical-notes#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/15.technical-notes.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/16.dhamma#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/16.dhamma.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/17.sankhara#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/17.sankhara.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/18.namarupa#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/18.namarupa.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/19.brahma#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/19.brahma.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/20.a-note-on-pronunciation#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/20.a-note-on-pronunciation.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/21.a-summary-of-the-152-suttas#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/21.a-summary-of-the-152-suttas.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/22.part-two-the-middle-fifty-discourses#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/22.part-two-the-middle-fifty-discourses.md#article"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/23.part-three-the-final-fifty-discourses#article"
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/intro/23.part-three-the-final-fifty-discourses.md#article"
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/mn-001-the-root-of-all-things#chapter"
@@ -573,11 +569,31 @@ head:
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/mn-152-the-development-of-the-faculties#chapter"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/outro/1.bibliography.md#article"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/outro/2.list-of-abbreviations.md#article"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/outro/3.notes.md#article"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/outro/4.pali-english-glossary.md#article"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -594,7 +610,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
+                  "name": "Ñāṇamoli & Bodhi",
                   "item": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/"
                 }
               ]
@@ -605,11 +621,11 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
-<h2 style="text-align: center;">The Middle Length Discourses of the Buddha: A Translation of the Majjhima Nikaya - Bhikkhu Ñāṇamoli & Bhikkhu Bodhi</h2>
+<h2 style="text-align: center;">The Middle Length Discourses of the Buddha A Translation of the Majjhima Nikaya</h2>
 <br>
-<a href="/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface">
+<a href= "/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtrungbo-nanamoli.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trung Bộ The Middle Length Discourses of the Buddha- Bhikkhu Ñāṇamoli & Bhikkhu Bodhi">
+    <img src="/covers/kinhtrungbo-nanamoli.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="The Middle Length Discourses of the Buddha A Translation of the Majjhima Nikāya by Bhikkhu Ñāṇamoli & Bhikkhu Bodhi">
 </figure>
 </a>
 

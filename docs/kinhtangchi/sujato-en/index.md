@@ -1,5 +1,6 @@
 ---
-title: Kinh Tăng Chi Bộ - Numbered Discourses A sensible translation of the Aṅguttara Nikāya - Bhikkhu Sujato
+title: Kinh Tăng Chi Bộ - Numbered Discourses A sensible translation of the Aṅguttara Nikāya
+description: Numbered Discourses A sensible translation of the Aṅguttara Nikāya by Bhikkhu Sujato
 head:
   - - script
     - type: application/ld+json
@@ -14,32 +15,34 @@ head:
               "mainEntity": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#book",
               "name": "Numbered Discourses A sensible translation of the Aṅguttara Nikāya",
+              "description": "Numbered Discourses A sensible translation of the Aṅguttara Nikāya by Bhikkhu Sujato",
               "bookEdition": "Bhikkhu Sujato",
               "url": "https://kinhnikaya.org/kinhtangchi/sujato-en/",
-              "inLanguage": ["en"],
+              "inLanguage": "en",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtangchi-sujato.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/#work"
               },
+              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Bhikkhu Sujato",
                 "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato"
-              },
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtangchi/#book"
               },
               "hasPart": [
                 {
@@ -615,10 +618,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/an-11-003-the-chapter-on-similarity#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtangchi/sujato-en/intro/00-000-quote.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -646,11 +657,11 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Tăng Chi Bộ</h1>
-<h2 style="text-align: center;">Numbered Discourses A sensible translation of the Aṅguttara Nikāya - Bhikkhu Sujato</h2>
+<h2 style="text-align: center;">Numbered Discourses A sensible translation of the Aṅguttara Nikāya</h2>
 <br>
-<a href="/kinhtangchi/sujato-en/intro/00-000-quote">
+<a href= "/kinhtangchi/sujato-en/intro/00-000-quote.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtangchi-sujato.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tăng Chi Bộ Numbered Discourses A sensible translation of the Aṅguttara Nikāya - Bhikkhu Sujato">
+    <img src="/covers/kinhtangchi-sujato.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Numbered Discourses A sensible translation of the Aṅguttara Nikāya by Bhikkhu Sujato">
 </figure>
 </a>
 

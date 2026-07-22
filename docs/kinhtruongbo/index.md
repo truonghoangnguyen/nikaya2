@@ -8,53 +8,86 @@ head:
     - |
 
         {
-        "@context": "https://schema.org",
-        "@graph": [
-          {
-            "@type": "WebPage",
-            "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage",
-            "url": "https://kinhnikaya.org/kinhtruongbo/",
-            "mainEntity": {
-              "@id": "https://kinhnikaya.org/kinhtruongbo/#book"
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage",
+              "url": "https://kinhnikaya.org/kinhtruongbo/",
+              "name": "Kinh Trường Bộ - Danh sách các bản dịch",
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#work"
+              }
             },
-            "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
-          },
-          {
-            "@type": "Book",
-            "@id": "https://kinhnikaya.org/kinhtruongbo/#book",
-            "name": "Kinh Trường Bộ",
-            "alternateName": "Dīgha Nikāya",
-            "numberOfChapters": 34,
-            "url": "https://kinhnikaya.org/kinhtruongbo/",
-            "isAccessibleForFree": true,
-            "publisher": { "@id": "https://kinhnikaya.org/#org" },
-            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
-            "author": {
-              "@type": "Person",
-              "name": "Gotama Buddha",
-              "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Trang chủ",
+                  "item": "https://kinhnikaya.org/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Kinh Trường Bộ",
+                  "item": "https://kinhnikaya.org/kinhtruongbo/"
+                }
+              ]
             },
-            "about": {
-              "@type": "Thing",
-              "name": "Phật giáo Nguyên thủy",
-              "sameAs": "https://en.wikipedia.org/wiki/Theravada"
-            },
-            "workTranslation": [
-              { "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#book" }]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
-              { "@type": "ListItem", "position": 2, "name": "Kinh Trường Bộ", "item": "https://kinhnikaya.org/kinhtruongbo/"  }
-            ]
-          }
-        ]
+            {
+              "@type": "Book",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/#work",
+              "name": "Dīgha Nikāya",
+              "description": "Kinh Trường Bộ, bộ kinh tập hợp 34 bài kinh có độ dài lớn (khi so với Kinh Trung Bộ)",
+              "alternateName": [
+                "Kinh Trường Bộ",
+                "Long Discourses",
+                "DN"
+              ],
+              "author": {
+                "@type": "Person",
+                "name": "Gotama Buddha",
+                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              },
+              "about": {
+                "@type": "Thing",
+                "name": "Phật giáo Nguyên thủy",
+                "sameAs": "https://en.wikipedia.org/wiki/Theravada"
+              },
+              "workTranslation": [
+                {
+                  "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#book"
+                }
+              ],
+              "workExample": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/pali/#book"
+              }
+            }
+          ]
         }
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: Kinh Trung Bộ - Majjhima Nikaya — tiếng Pali
+title: Kinh Trung Bộ - Majjhima Nikaya-Pali
+description: Nguyên bản tiếng Pali Kinh Trung Bộ Majjhima Nikāya
 head:
   - - script
     - type: application/ld+json
@@ -8,14 +9,25 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/pali/#webpage",
+              "url": "https://kinhnikaya.org/kinhtrungbo/pali/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/pali/#book"
+              },
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/pali/#breadcrumb"
+              }
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtrungbo/pali/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtrungbo/pali/"
-              },
-              "name": "Kinh Trung Bộ — tiếng Pali",
-              "bookEdition": "Majjhima Nikaya",
+              "name": "Majjhima Nikaya-Pali",
+              "description": "Nguyên bản tiếng Pali Kinh Trung Bộ Majjhima Nikāya",
+              "bookEdition": "Tiếng Pali",
               "url": "https://kinhnikaya.org/kinhtrungbo/pali/",
               "inLanguage": "pi",
               "isAccessibleForFree": true,
@@ -23,19 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-              },
-              "translator": {
-                "@type": "Person",
-                "name": "Trương Hoàng Nguyên",
-                "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
-              },
               "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtrungbo/#book"
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
               },
+              "genre": "Root text",
               "hasPart": [
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/pali/mn-001-mulapariyayasutta#chapter"
@@ -493,10 +496,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtrungbo/pali/mn-152-indriyabhavanasutta#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtrungbo/pali/mn-001-mulapariyayasutta.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/pali/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -513,7 +524,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Dịch từ tiếng Pali",
+                  "name": "Tiếng Pali",
                   "item": "https://kinhnikaya.org/kinhtrungbo/pali/"
                 }
               ]
@@ -524,11 +535,11 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
-<h2 style="text-align: center;">Tiếng Pali</h2>
+<h2 style="text-align: center;">Majjhima Nikaya-Pali</h2>
 <br>
-<a href="/kinhtrungbo/pali/mn-001-mulapariyayasutta#chapter">
+<a href= "/kinhtrungbo/pali/mn-001-mulapariyayasutta.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trung Bộ - Majjhima Nikaya — tiếng Pali">
+    <img src="/covers/kinhtrungbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Nguyên bản tiếng Pali Kinh Trung Bộ Majjhima Nikāya">
 </figure>
 </a>
 
@@ -537,6 +548,5 @@ head:
 <br/>
 <h2 style="text-align: center;">Mục Lục</h2>
 <br/>
-
 
 <!--@include: ./meta/mucluc.md-->

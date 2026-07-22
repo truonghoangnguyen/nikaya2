@@ -1,5 +1,6 @@
 ---
 title: Kinh Tăng Chi Bộ - Bản đọc song song Bhikkhu Sujato - Thích Minh Châu
+description: Kinh Tăng Chi Bộ Aṅguttara Nikāya - Bản đọc song song Sujato - Thích Minh Châu
 head:
   - - script
     - type: application/ld+json
@@ -14,44 +15,50 @@ head:
               "mainEntity": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#book",
-              "name": "Kinh Tăng Chi Bộ",
-              "bookEdition": "Bản đọc song song Bhikkhu Sujato - Thích Minh Châu",
+              "name": "Bản đọc song song Bhikkhu Sujato - Thích Minh Châu",
+              "description": "Kinh Tăng Chi Bộ Aṅguttara Nikāya - Bản đọc song song Sujato - Thích Minh Châu",
+              "bookEdition": "Bhikkhu Sujato - Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/",
-              "inLanguage": ["vi"],
+              "inLanguage": "vi",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
-              "image": "https://kinhnikaya.org/covers/kinhtangchi.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "image": "https://kinhnikaya.org/covers/kinhtangchi-sujato.webp",
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/#work"
               },
+              "genre": "Translation",
+              "isBasedOn": [
+                {
+                  "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/#book"
+                }
+              ],
               "translator": [
                 {
                   "@type": "Person",
-                  "name": "Bhikkhu Sujato",
-                  "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato"
+                  "name": "Trương Hoàng Nguyên",
+                  "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
                 },
                 {
                   "@type": "Person",
-                  "name": "Tỷ kheo Thích Minh Châu",
+                  "name": "Thích Minh Châu",
                   "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
-                }, {
-                "@type": "Person",
-                "name": "Trương Hoàng Nguyên",
-                "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
-              }
+                }
               ],
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtangchi/#book"
-              },
               "hasPart": [
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/anc-01-001-pham-sac#chapter"
@@ -611,10 +618,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/anc-11-003-pham-ba-tong-ket#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtangchi/c-sujato-tmc-vi/anc-01-001-pham-sac"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -631,7 +646,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Bản đọc song song Bhikkhu Sujato và Thích Minh Châu",
+                  "name": "Bản đọc song song Bhikkhu Sujato - Thích Minh Châu",
                   "item": "https://kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/"
                 }
               ]
@@ -644,9 +659,9 @@ head:
 <h1 style="text-align: center;">Kinh Tăng Chi Bộ</h1>
 <h2 style="text-align: center;">Bản đọc song song Bhikkhu Sujato - Thích Minh Châu</h2>
 <br>
-<a href="/kinhtangchi/c-sujato-tmc-vi/anc-01-001-pham-sac">
+<a href= "/kinhtangchi/c-sujato-tmc-vi/anc-01-001-pham-sac">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtangchi.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tăng Chi Bộ Bản đọc song song Bhikkhu Sujato - Thích Minh Châu">
+    <img src="/covers/kinhtangchi-sujato.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tăng Chi Bộ Aṅguttara Nikāya - Bản đọc song song Sujato - Thích Minh Châu">
 </figure>
 </a>
 

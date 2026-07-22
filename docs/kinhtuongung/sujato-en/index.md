@@ -1,5 +1,6 @@
 ---
-title: Kinh Tương Ưng - Linked Discourses A plain translation of the Saṁyutta Nikāya - Bhikkhu Sujato
+title: Kinh Tương Ưng Bộ - Linked Discourses A plain translation of the Saṁyutta Nikāya
+description: Linked Discourses A plain translation of the Saṁyutta Nikāya by Bhikkhu Sujato
 head:
   - - script
     - type: application/ld+json
@@ -8,33 +9,40 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#webpage",
+              "url": "https://kinhnikaya.org/kinhtuongung/sujato-en/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#book"
+              },
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#breadcrumb"
+              }
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/"
-              },
-              "name": "Linked Discourses A plain translation of the Saṁyutta Nikāya -  Bhikkhu Sujato",
+              "name": "Linked Discourses A plain translation of the Saṁyutta Nikāya",
+              "description": "Linked Discourses A plain translation of the Saṁyutta Nikāya by Bhikkhu Sujato",
               "bookEdition": "Bhikkhu Sujato",
               "url": "https://kinhnikaya.org/kinhtuongung/sujato-en/",
-              "inLanguage": ["en"],
+              "inLanguage": "en",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtuongung-sujato.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtuongung/#work"
               },
+              "genre": "Translation",
               "translator": {
                 "@type": "Person",
                 "name": "Bhikkhu Sujato",
                 "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato"
-              },
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtuongung/#book"
               },
               "hasPart": [
                 {
@@ -238,10 +246,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/sn-56-linked-discourses-on-the-truths#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtuongung/sujato-en/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -252,7 +268,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 2,
-                  "name": "Kinh Tương Ưng",
+                  "name": "Kinh Tương Ưng Bộ",
                   "item": "https://kinhnikaya.org/kinhtuongung/"
                 },
                 {
@@ -268,12 +284,12 @@ head:
 
 ---
 
-<h1 style="text-align: center;">Kinh Tương Ưng</h1>
-<h2 style="text-align: center;">Linked Discourses A plain translation of the Saṁyutta Nikāya - Bhikkhu Sujato</h2>
+<h1 style="text-align: center;">Kinh Tương Ưng Bộ</h1>
+<h2 style="text-align: center;">Linked Discourses A plain translation of the Saṁyutta Nikāya</h2>
 <br>
-<a href="/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series">
+<a href= "/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtuongung-sujato.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tương Ưng Linked Discourses A plain translation of the Saṁyutta Nikāya -  Bhikkhu Sujato">
+    <img src="/covers/kinhtuongung-sujato.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Linked Discourses A plain translation of the Saṁyutta Nikāya by Bhikkhu Sujato">
 </figure>
 </a>
 

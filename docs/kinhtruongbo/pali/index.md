@@ -1,5 +1,6 @@
 ---
-title: Kinh Trường Bộ - Dīgha Nikāya — tiếng Pali
+title: Kinh Trường Bộ - Dīgha Nikāya (Pali)
+description: Nguyên bản tiếng Pali Kinh Trường Bộ Dīgha Nikāya
 head:
   - - script
     - type: application/ld+json
@@ -8,14 +9,25 @@ head:
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "WebPage",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/pali/#webpage",
+              "url": "https://kinhnikaya.org/kinhtruongbo/pali/",
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/pali/#book"
+              },
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/pali/#breadcrumb"
+              }
+            },
+            {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtruongbo/pali/#book",
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://kinhnikaya.org/kinhtruongbo/pali/"
-              },
-              "name": "Kinh Trường Bộ — tiếng Pali",
-              "bookEdition": "Dīgha Nikāya",
+              "name": "Dīgha Nikāya (Pali)",
+              "description": "Nguyên bản tiếng Pali Kinh Trường Bộ Dīgha Nikāya",
+              "bookEdition": "Tiếng Pali",
               "url": "https://kinhnikaya.org/kinhtruongbo/pali/",
               "inLanguage": "pi",
               "isAccessibleForFree": true,
@@ -23,14 +35,10 @@ head:
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-              },
               "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtruongbo/#book"
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#work"
               },
+              "genre": "Root text",
               "hasPart": [
                 {
                   "@id": "https://kinhnikaya.org/kinhtruongbo/pali/dn-001-brahmajalasutta#chapter"
@@ -134,10 +142,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtruongbo/pali/dn-034-dasuttarasutta#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtruongbo/pali/dn-001-brahmajalasutta.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtruongbo/pali/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -165,11 +181,11 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Trường Bộ</h1>
-<h2 style="text-align: center;">Tiếng Pali</h2>
+<h2 style="text-align: center;">Dīgha Nikāya (Pali)</h2>
 <br>
-<a href="/kinhtruongbo/pali/dn-001-brahmajalasutta">
+<a href= "/kinhtruongbo/pali/dn-001-brahmajalasutta.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtruongbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Trường Bộ - Dīgha Nikāya - tiếng Pali">
+    <img src="/covers/kinhtruongbo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Nguyên bản tiếng Pali Kinh Trường Bộ Dīgha Nikāya">
 </figure>
 </a>
 

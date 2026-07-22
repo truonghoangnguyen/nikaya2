@@ -8,51 +8,86 @@ head:
     - |
 
         {
-        "@context": "https://schema.org",
-        "@graph": [
-           {
-            "@type": "WebPage",
-            "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage",
-            "url": "https://kinhnikaya.org/kinhtrungbo/",
-            "mainEntity": {
-              "@id": "https://kinhnikaya.org/kinhtrungbo/#book"
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/#webpage",
+              "url": "https://kinhnikaya.org/kinhtrungbo/",
+              "name": "Kinh Trung Bộ - Danh sách các bản dịch",
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#breadcrumb"
+              },
+              "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/#work"
+              }
             },
-            "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
-          },
-          {
-            "@type": "Book",
-            "@id": "https://kinhnikaya.org/kinhtrungbo/#book",
-            "name": "Kinh Trung Bộ",
-            "alternateName": "Majjhima Nikāya",
-            "numberOfChapters": 152,
-            "url": "https://kinhnikaya.org/kinhtrungbo/",
-            "isAccessibleForFree": true,
-            "publisher": { "@id": "https://kinhnikaya.org/#org" },
-            "image": "https://kinhnikaya.org/covers/kinhtrungbo.webp",
-            "author": {
-              "@type": "Person",
-              "name": "Gotama Buddha",
-              "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Trang chủ",
+                  "item": "https://kinhnikaya.org/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Kinh Trung Bộ",
+                  "item": "https://kinhnikaya.org/kinhtrungbo/"
+                }
+              ]
             },
-            "about": {
-              "@type": "Thing",
-              "name": "Phật giáo Nguyên thủy",
-              "sameAs": "https://en.wikipedia.org/wiki/Theravada"
-            },
-            "workTranslation": [
-              { "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#book" },
-              { "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#book" }]
-          },
-          {
-            "@type": "BreadcrumbList",
-            "itemListElement": [
-              { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://kinhnikaya.org/" },
-              { "@type": "ListItem", "position": 2, "name": "Kinh Trung Bộ", "item": "https://kinhnikaya.org/kinhtrungbo/"  }
-            ]
-          }
-        ]
+            {
+              "@type": "Book",
+              "@id": "https://kinhnikaya.org/kinhtrungbo/#work",
+              "name": "Majjhima Nikāya",
+              "description": "Kinh Trung Bộ Kinh tập hợp 152 bài kinh có độ dài vừa (khi so với Kinh Trường Bộ)",
+              "alternateName": [
+                "Kinh Trung Bộ",
+                "Middle-length Discourses",
+                "MN"
+              ],
+              "author": {
+                "@type": "Person",
+                "name": "Gotama Buddha",
+                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              },
+              "about": {
+                "@type": "Thing",
+                "name": "Phật giáo Nguyên thủy",
+                "sameAs": "https://en.wikipedia.org/wiki/Theravada"
+              },
+              "workTranslation": [
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/pali-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/#book"
+                },
+                {
+                  "@id": "https://kinhnikaya.org/kinhtrungbo/c-pali-tmc-vi/#book"
+                }
+              ],
+              "workExample": {
+                "@id": "https://kinhnikaya.org/kinhtrungbo/pali/#book"
+              }
+            }
+          ]
         }
 ---
 

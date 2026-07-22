@@ -1,5 +1,6 @@
 ---
 title: Kinh Tăng Chi Bộ - Bhikkhu Sujato (Tiếng Việt)
+description: Bản dịch tiếng việt Kinh Tăng Chi Bộ Aṅguttara Nikāya của Bhikkhu Sujato
 head:
   - - script
     - type: application/ld+json
@@ -14,36 +15,37 @@ head:
               "mainEntity": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#book",
-              "name": "Kinh Tăng Chi Bộ",
+              "name": "Bhikkhu Sujato (Tiếng Việt)",
+              "description": "Bản dịch tiếng việt Kinh Tăng Chi Bộ Aṅguttara Nikāya của Bhikkhu Sujato",
               "bookEdition": "Bhikkhu Sujato (Tiếng Việt)",
               "url": "https://kinhnikaya.org/kinhtangchi/sujato-vi/",
-              "inLanguage": ["vi"],
+              "inLanguage": "vi",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtangchi-sujato.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/#work"
               },
-              "translator": [{
-                "@type": "Person",
-                "name": "Bhikkhu Sujato",
-                "sameAs": "https://en.wikipedia.org/wiki/Bhante_Sujato"
-              },  {
+              "genre": "Translation",
+              "isBasedOn": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/sujato-en/#book"
+              },
+              "translator": {
                 "@type": "Person",
                 "name": "Trương Hoàng Nguyên",
                 "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
-              }],
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtangchi/#book"
               },
               "hasPart": [
                 {
@@ -619,10 +621,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/an-11-003-the-chapter-on-similarity#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtangchi/sujato-vi/intro/00-000-quote.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -652,9 +662,9 @@ head:
 <h1 style="text-align: center;">Kinh Tăng Chi Bộ</h1>
 <h2 style="text-align: center;">Bhikkhu Sujato (Tiếng Việt)</h2>
 <br>
-<a href="/kinhtangchi/sujato-vi/intro/00-000-quote">
+<a href= "/kinhtangchi/sujato-vi/intro/00-000-quote.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtangchi-sujato.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tăng Chi Bộ Bhikkhu Sujato (Tiếng Việt)">
+    <img src="/covers/kinhtangchi-sujato.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Bản dịch tiếng việt Kinh Tăng Chi Bộ Aṅguttara Nikāya của Bhikkhu Sujato">
 </figure>
 </a>
 

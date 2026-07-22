@@ -1,5 +1,6 @@
 ---
 title: Kinh Tăng Chi Bộ - Tỷ kheo Thích Minh Châu
+description: Bản dịch tiếng việt Kinh Tăng Chi Bộ Aṅguttara Nikāya của Tỷ kheo Thích Minh Châu
 head:
   - - script
     - type: application/ld+json
@@ -14,32 +15,34 @@ head:
               "mainEntity": {
                 "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/#book",
-              "name": "Kinh Tăng Chi Bộ",
-              "bookEdition": "Tỷ kheo Thích Minh Châu",
+              "name": "Tỷ kheo Thích Minh Châu",
+              "description": "Bản dịch tiếng việt Kinh Tăng Chi Bộ Aṅguttara Nikāya của Tỷ kheo Thích Minh Châu",
+              "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtangchi/thichminhchau/",
-              "inLanguage": ["vi"],
+              "inLanguage": "vi",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtangchi.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+              "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtangchi/#work"
               },
+              "genre": "Translation",
               "translator": {
                 "@type": "Person",
-                "name": "Tỷ kheo Thích Minh Châu",
+                "name": "Thích Minh Châu",
                 "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
-              },
-              "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtangchi/#book"
               },
               "hasPart": [
                 {
@@ -600,10 +603,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/an-11-003-pham-ba-tong-ket#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtangchi/thichminhchau/an-01-001-pham-sac.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtangchi/thichminhchau/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -633,9 +644,9 @@ head:
 <h1 style="text-align: center;">Kinh Tăng Chi Bộ</h1>
 <h2 style="text-align: center;">Tỷ kheo Thích Minh Châu</h2>
 <br>
-<a href="/kinhtangchi/thichminhchau/an-01-001-pham-sac">
+<a href= "/kinhtangchi/thichminhchau/an-01-001-pham-sac.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtangchi.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tăng Chi Bộ Tỷ kheo Thích Minh Châu">
+    <img src="/covers/kinhtangchi.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Bản dịch tiếng việt Kinh Tăng Chi Bộ Aṅguttara Nikāya của Tỷ kheo Thích Minh Châu">
 </figure>
 </a>
 

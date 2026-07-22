@@ -1,5 +1,6 @@
 ---
-title: Kinh Tiểu Bộ - Tỷ kheo Thích Minh Châu & GS Trần Phương Lan
+title: Kinh Tiểu Bộ - Tỷ kheo Thích Minh Châu
+description: Bản dịch tiếng việt Kinh Tiểu Bộ Khuddaka Nikāya - Tỷ kheo Thích Minh Châu
 head:
   - - script
     - type: application/ld+json
@@ -9,44 +10,47 @@ head:
           "@graph": [
             {
               "@type": "WebPage",
-              "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#webpage",
-              "url": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/",
+              "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#webpage",
+              "url": "https://kinhnikaya.org/kinhtieubo/thichminhchau/",
               "mainEntity": {
-                "@id": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/#book"
+                "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#book"
               },
-              "isPartOf":{"@id":"https://kinhnikaya.org/#website"}
+              "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#breadcrumb"
+              }
             },
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#book",
-            
-              "name": "Kinh Tiểu Bộ",
-              "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu & GS Trần Phương Lan",
+              "name": "Tỷ kheo Thích Minh Châu",
+              "description": "Bản dịch tiếng việt Kinh Tiểu Bộ Khuddaka Nikāya - Tỷ kheo Thích Minh Châu",
+              "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtieubo/thichminhchau/",
-              "inLanguage": ["vi"],
+              "inLanguage": "vi",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
               },
               "image": "https://kinhnikaya.org/covers/kinhtieubo.webp",
-              "author": {
-                "@type": "Person",
-                "name": "Gotama Buddha",
-                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-              },
-              "translator": [{
-                "@type": "Person",
-                "name": "Tỷ kheo Thích Minh Châu",
-                "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
-              },{
-                "@type": "Person",
-                "name": "Trần Phương Lan",
-                "sameAs": "https://quangduc.com/author/about/931/gs-tran-phuong-lan"
-              }
-              ],
               "translationOfWork": {
-                "@id": "https://kinhnikaya.org/kinhtieubo/#book"
+                "@id": "https://kinhnikaya.org/kinhtieubo/#work"
               },
+              "genre": "Translation",
+              "translator": [
+                {
+                  "@type": "Person",
+                  "name": "Trần Phương Lan",
+                  "sameAs": "https://quangduc.com/author/about/931/gs-tran-phuong-lan"
+                },
+                {
+                  "@type": "Person",
+                  "name": "Thích Minh Châu",
+                  "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
+                }
+              ],
               "hasPart": [
                 {
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-001-tap-1-kinh-tieu-tung#chapter"
@@ -477,10 +481,18 @@ head:
                 {
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-138-tap-10-p6-chuong-xxii-dai-pham-9#chapter"
                 }
-              ]
+              ],
+              "potentialAction": {
+                "@type": "ReadAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "/kinhtieubo/thichminhchau/kn-001-tap-1-kinh-tieu-tung.md"
+                }
+              }
             },
             {
               "@type": "BreadcrumbList",
+              "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/#breadcrumb",
               "itemListElement": [
                 {
                   "@type": "ListItem",
@@ -497,7 +509,7 @@ head:
                 {
                   "@type": "ListItem",
                   "position": 3,
-                  "name": "Tỷ kheo Thích Minh Châu & GS Trần Phương Lan",
+                  "name": "Tỷ kheo Thích Minh Châu",
                   "item": "https://kinhnikaya.org/kinhtieubo/thichminhchau/"
                 }
               ]
@@ -508,17 +520,14 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Tiểu Bộ</h1>
-<h2 style="text-align: center;">Tỷ kheo Thích Minh Châu & GS Trần Phương Lan</h2>
+<h2 style="text-align: center;">Tỷ kheo Thích Minh Châu</h2>
 <br>
-<a href="/kinhtieubo/thichminhchau/kn-001-tap-1-kinh-tieu-tung">
+<a href= "/kinhtieubo/thichminhchau/kn-001-tap-1-kinh-tieu-tung.md">
 <figure style="text-align: center;">
-    <img src="/covers/kinhtieubo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tiểu Bộ Tỷ kheo Thích Minh Châu">
+    <img src="/covers/kinhtieubo.webp" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Bản dịch tiếng việt Kinh Tiểu Bộ Khuddaka Nikāya - Tỷ kheo Thích Minh Châu">
 </figure>
 </a>
 
-<blockquote>
-“Này các tỷ kheo, Như Lai nói gì làm vậy, làm gì nói vậy; vì rằng nói gì làm vậy, làm gì nói vậy, nên được gọi Như Lai.
-</blockquote>
 <br/>
 <hr/>
 <br/>
