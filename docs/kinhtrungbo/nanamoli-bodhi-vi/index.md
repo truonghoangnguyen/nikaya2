@@ -1,5 +1,5 @@
 ---
-title: Kinh Trung Bộ - Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Việt)
+title: Kinh Trung Bộ - The Middle Length Discourses
 description: Bản dịch tiếng việt Kinh Trung Bộ Majjhima Nikāya của Bhikkhu Ñāṇamoli & Bhikkhu Bodhi
 head:
   - - script
@@ -25,11 +25,12 @@ head:
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/#book",
-              "name": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Việt)",
+              "name": "The Middle Length Discourses",
               "description": "Bản dịch tiếng việt Kinh Trung Bộ Majjhima Nikāya của Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
-              "bookEdition": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng việt)",
+              "bookEdition": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Việt)",
               "url": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/",
               "inLanguage": "vi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -617,7 +618,8 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
-<h2 style="text-align: center;">Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Việt)</h2>
+<h2 style="text-align: center;">The Middle Length Discourses</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bhikkhu Ñāṇamoli & Bhikkhu Bodhi (Tiếng Việt)</h2>
 <br>
 <a href= "/kinhtrungbo/nanamoli-bodhi-vi/intro/01.preface.md">
 <figure style="text-align: center;">

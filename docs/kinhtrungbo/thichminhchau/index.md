@@ -30,6 +30,7 @@ head:
               "bookEdition": "Bản dịch Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtrungbo/thichminhchau/",
               "inLanguage": "vi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -540,6 +541,7 @@ head:
 
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
 <h2 style="text-align: center;">Tỷ kheo Thích Minh Châu</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bản dịch Tỷ kheo Thích Minh Châu</h2>
 <br>
 <a href= "/kinhtrungbo/thichminhchau/intro/gioi-thieu-kinh-trung-bo-1.md">
 <figure style="text-align: center;">

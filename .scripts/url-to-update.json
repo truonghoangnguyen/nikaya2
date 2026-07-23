@@ -1,0 +1,419 @@
+https: //kinhnikaya.org/
+
+https: //kinhnikaya.org/kinhtrungbo/
+https: //kinhnikaya.org/kinhtruongbo/
+https: //kinhnikaya.org/kinhtuongung/
+https: //kinhnikaya.org/kinhtangchi/
+https: //kinhnikaya.org/kinhtieubo/
+
+https: //kinhnikaya.org/kinhtrungbo/thichminhchau/
+https: //kinhnikaya.org/kinhtruongbo/thichminhchau/
+https: //kinhnikaya.org/kinhtuongung/thichminhchau/
+https: //kinhnikaya.org/kinhtangchi/thichminhchau/
+https: //kinhnikaya.org/kinhtieubo/thichminhchau/
+
+https: //kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-vi/
+https: //kinhnikaya.org/kinhtruongbo/sujato-vi/
+https: //kinhnikaya.org/kinhtuongung/sujato-vi/
+https: //kinhnikaya.org/kinhtangchi/sujato-vi/***
+
+https: //kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/
+https: //kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/
+https: //kinhnikaya.org/kinhtrungbo/c-nm-tmc-vi/
+https: //kinhnikaya.org/kinhtuongung/c-sujato-tmc-vi/
+https: //kinhnikaya.org/kinhtangchi/c-sujato-tmc-vi/
+
+https: //kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/
+https: //kinhnikaya.org/kinhtruongbo/sujato-en/
+https: //kinhnikaya.org/kinhtuongung/sujato-en/
+https: //kinhnikaya.org/kinhtangchi/sujato-en/
+
+
+
+Level 1: Home
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "@id": "https://kinhnikaya.org/#org",
+            "name": "Kinh Nikāya",
+            "url": "https://kinhnikaya.org/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://kinhnikaya.org/favicon.svg"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://kinhnikaya.org/#website",
+            "name": "Kinh Nikāya",
+            "alternateName": "Kinh Nikaya Phật giáo Nguyên thủy đọc online",
+            "url": "https://kinhnikaya.org/",
+            "inLanguage": [
+                "vi"
+            ],
+            "publisher": {
+                "@id": "https://kinhnikaya.org/#org"
+            },
+            "hasPart": [
+                {
+                    "@type": "Book",
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/#book",
+                    "url": "https://kinhnikaya.org/kinhtruongbo/"
+                },
+                {
+                    "@type": "Book",
+                    "@id": "https://kinhnikaya.org/kinhtrungbo/#book",
+                    "url": "https://kinhnikaya.org/kinhtrungbo/"
+                },
+                {
+                    "@type": "Book",
+                    "@id": "https://kinhnikaya.org/kinhtuongungbo/#book",
+                    "url": "https://kinhnikaya.org/kinhtuongungbo/"
+                },
+                {
+                    "@type": "Book",
+                    "@id": "https://kinhnikaya.org/kinhtangchibo/#book",
+                    "url": "https://kinhnikaya.org/kinhtangchibo/"
+                },
+                {
+                    "@type": "Book",
+                    "@id": "https://kinhnikaya.org/kinhtieubo/#book",
+                    "url": "https://kinhnikaya.org/kinhtieubo/"
+                }
+            ],
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://kinhnikaya.org/search?q={search_term_string}"
+                },
+                "query-input": "required name=search_term_string"
+            }
+        }
+    ]
+}
+
+Level 2: kinh trường bộ - danh sách các bản dịch khác nhau
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/#webpage",
+            "url": "https://kinhnikaya.org/kinhtruongbo/",
+            "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#book"
+            },
+            "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+            }
+        },
+        {
+            "@type": "Book",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/#book",
+            "name": "Kinh Trường Bộ",
+            "alternateName": "Dīgha Nikāya",
+            "numberOfChapters": 34,
+            "url": "https://kinhnikaya.org/kinhtruongbo/",
+            "isAccessibleForFree": true,
+            "publisher": {
+                "@id": "https://kinhnikaya.org/#org"
+            },
+            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
+            "author": {
+                "@type": "Person",
+                "name": "Gotama Buddha",
+                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+            },
+            "about": {
+                "@type": "Thing",
+                "name": "Phật giáo Nguyên thủy",
+                "sameAs": "https://en.wikipedia.org/wiki/Theravada"
+            },
+            "workTranslation": [
+                {
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book"
+                },
+                {
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-en/#book"
+                },
+                {
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book"
+                },
+                {
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#book"
+                },
+                {
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/#book"
+                },
+                {
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#book"
+                }
+            ]
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Trang chủ",
+                    "item": "https://kinhnikaya.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Kinh Trường Bộ",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/"
+                }
+            ]
+        }
+    ]
+}
+
+Level 3: kinh trường bộ - bản đọc song song  (đã rút gọn hasPart)
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#webpage",
+            "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/",
+            "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#book"
+            },
+            "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+            }
+        },
+        {
+            "@type": "Book",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/#book",
+            "name": "Kinh Trường Bộ — Bản song song Pali-Việt - Thích Minh Châu",
+            "bookEdition": "Bản đọc song song Kinh Trường Bộ dịch Pali-Việt - Thích Minh Châu",
+            "url": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/",
+            "inLanguage": [
+                "vi"
+            ],
+            "isAccessibleForFree": true,
+            "publisher": {
+                "@id": "https://kinhnikaya.org/#org"
+            },
+            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
+            "author": {
+                "@type": "Person",
+                "name": "Gotama Buddha",
+                "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+            },
+            "translator": [
+                {
+                    "@type": "Person",
+                    "name": "Tỷ kheo Thích Minh Châu",
+                    "sameAs": "https://vi.wikipedia.org/wiki/Thích_Minh_Châu"
+                },
+                {
+                    "@type": "Person",
+                    "name": "Trương Hoàng Nguyên",
+                    "sameAs": "https://github.com/truonghoangnguyen/nikaya2"
+                }
+            ],
+            "translationOfWork": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/#book"
+            },
+            "hasPart": [
+                {
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong#chapter"
+                },
+                {
+                    "@id": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-002-kinh-sa-mon-qua#chapter"
+                }
+            ]
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Trang chủ",
+                    "item": "https://kinhnikaya.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Kinh Trường Bộ",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Kinh Trường Bộ — Bản song song Pali-Việt - Thích Minh Châu",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/"
+                }
+            ]
+        }
+    ]
+}
+
+Level 4: bài kinh đầu tiên của kinh trường bộ : {
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong",
+            "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong",
+            "name": "1. KINH PHẠM VÕNG",
+            "inLanguage": [
+                "vi"
+            ],
+            "datePublished": "2026-01-03",
+            "dateModified": "2026-05-23",
+            "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+            },
+            "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong#chapter"
+            }
+        },
+        {
+            "@type": [
+                "Chapter",
+                "ScholarlyArticle"
+            ],
+            "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong#chapter",
+            "name": "1. KINH PHẠM VÕNG",
+            "position": 3,
+            "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong",
+            "inLanguage": [
+                "vi"
+            ],
+            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
+            "isPartOf": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book"
+            },
+            "translator": {
+                "@type": "Person",
+                "name": "Thích Minh Châu",
+                "sameAs": [
+                    "https://vi.wikipedia.org/wiki/Th%C3%ADch_Minh_Ch%C3%A2u",
+                    "https://en.wikipedia.org/wiki/Thich_Minh_Chau"
+                ]
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Trang chủ",
+                    "item": "https://kinhnikaya.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Kinh Trường Bộ",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Thích Minh Châu",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "1. KINH PHẠM VÕNG",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/dn-001-kinh-pham-vong"
+                }
+            ]
+        }
+    ]
+}
+
+Level 4: bài giới thiệu (không phải bài kinh)
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu#webpage",
+            "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu",
+            "name": "LỜI GIỚI THIỆU",
+            "inLanguage": [
+                "vi"
+            ],
+            "isPartOf": {
+                "@id": "https://kinhnikaya.org/#website"
+            },
+            "mainEntity": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu#article"
+            }
+        },
+        {
+            "@type": "Article",
+            "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu#article",
+            "name": "Kinh Trường Bộ",
+            "headline": "LỜI GIỚI THIỆU",
+            "url": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu",
+            "inLanguage": [
+                "vi"
+            ],
+            "author": {
+                "@type": "Person",
+                "name": "Tỷ kheo Thích Minh Châu"
+            },
+            "isPartOf": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book"
+            },
+            "datePublished": "2026-01-03",
+            "dateModified": "2026-01-03",
+            "publisher": {
+                "@type": "Organization",
+                "@id": "https://kinhnikaya.org/#org",
+                "name": "Kinh Nikāya",
+                "url": "https://kinhnikaya.org/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://kinhnikaya.org/favicon.svg"
+                }
+            },
+            "image": "https://kinhnikaya.org/covers/kinhtruongbo.webp",
+            "about": {
+                "@id": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/#book"
+            }
+        },
+        {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Trang chủ",
+                    "item": "https://kinhnikaya.org/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Kinh Trường Bộ",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Tỷ kheo Thích Minh Châu",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "LỜI GIỚI THIỆU",
+                    "item": "https://kinhnikaya.org/kinhtruongbo/thichminhchau/intro/loi-gioi-thieu"
+                }
+            ]
+        }
+    ]
+}

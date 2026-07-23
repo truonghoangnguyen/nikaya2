@@ -30,6 +30,7 @@ head:
               "bookEdition": "Bhikkhu Sujato (Tiếng Việt)",
               "url": "https://kinhnikaya.org/kinhtuongung/sujato-vi/",
               "inLanguage": "vi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -282,6 +283,7 @@ head:
 
 <h1 style="text-align: center;">Kinh Tương Ưng Bộ</h1>
 <h2 style="text-align: center;">Kinh Tương Ưng Bộ</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bhikkhu Sujato (Tiếng Việt)</h2>
 <br>
 <a href= "/kinhtuongung/sujato-vi/intro/01-the-suttacentral-editions-series.md">
 <figure style="text-align: center;">

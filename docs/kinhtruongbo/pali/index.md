@@ -30,6 +30,7 @@ head:
               "bookEdition": "Tiếng Pali",
               "url": "https://kinhnikaya.org/kinhtruongbo/pali/",
               "inLanguage": "pi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -172,6 +173,7 @@ head:
 
 <h1 style="text-align: center;">Kinh Trường Bộ</h1>
 <h2 style="text-align: center;">Dīgha Nikāya (Pali)</h2>
+<h2 style="text-align: center; padding-top: 0px;">Tiếng Pali</h2>
 <br>
 <a href= "/kinhtruongbo/pali/dn-001-brahmajalasutta.md">
 <figure style="text-align: center;">

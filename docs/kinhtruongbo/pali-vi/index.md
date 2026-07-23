@@ -27,9 +27,12 @@ head:
               "@id": "https://kinhnikaya.org/kinhtruongbo/pali-vi/#book",
               "name": "Dīgha Nikāya (tiếng Việt)",
               "description": "Bản dịch Kinh Trường Bộ Dīgha Nikāya từ tiếng Pali",
-              "bookEdition": "Bản Pali (tiếng Việt)",
+              "bookEdition": [
+                "Bản dịch Việt từ tiếng Pali"
+              ],
               "url": "https://kinhnikaya.org/kinhtruongbo/pali-vi/",
               "inLanguage": "vi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -180,6 +183,7 @@ head:
 
 <h1 style="text-align: center;">Kinh Trường Bộ</h1>
 <h2 style="text-align: center;">Dīgha Nikāya (tiếng Việt)</h2>
+<h2 style="text-align: center; padding-top: 0px;">('Bản dịch Việt từ tiếng Pali',)</h2>
 <br>
 <a href= "/kinhtruongbo/pali-vi/dn-001-kinh-luoi-troi.md">
 <figure style="text-align: center;">

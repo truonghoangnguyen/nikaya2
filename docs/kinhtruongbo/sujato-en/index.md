@@ -30,6 +30,7 @@ head:
               "bookEdition": "Bhikkhu Sujato",
               "url": "https://kinhnikaya.org/kinhtruongbo/sujato-en/",
               "inLanguage": "en",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -201,6 +202,7 @@ head:
 
 <h1 style="text-align: center;">Kinh Trường Bộ</h1>
 <h2 style="text-align: center;">Long Discourses - A faithful translation of the Dīgha Nikāya</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bhikkhu Sujato</h2>
 <br>
 <a href= "/kinhtruongbo/sujato-en/intro/01-the-suttacentral-editions-series.md">
 <figure style="text-align: center;">

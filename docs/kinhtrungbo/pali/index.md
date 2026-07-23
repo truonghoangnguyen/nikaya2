@@ -30,6 +30,7 @@ head:
               "bookEdition": "Tiếng Pali",
               "url": "https://kinhnikaya.org/kinhtrungbo/pali/",
               "inLanguage": "pi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -526,6 +527,7 @@ head:
 
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
 <h2 style="text-align: center;">Majjhima Nikaya-Pali</h2>
+<h2 style="text-align: center; padding-top: 0px;">Tiếng Pali</h2>
 <br>
 <a href= "/kinhtrungbo/pali/mn-001-mulapariyayasutta.md">
 <figure style="text-align: center;">

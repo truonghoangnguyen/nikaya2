@@ -1,5 +1,5 @@
 ---
-title: Kinh Trường Bộ - Bản đọc song song Sujato — Thích Minh Châu
+title: Kinh Trường Bộ - Bản đọc song song
 description: Kinh Trường Bộ Dīgha Nikāya - Bản đọc song song Sujato - Thích Minh Châu
 head:
   - - script
@@ -25,11 +25,12 @@ head:
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/#book",
-              "name": "Bản đọc song song Sujato — Thích Minh Châu",
+              "name": "Bản đọc song song",
               "description": "Kinh Trường Bộ Dīgha Nikāya - Bản đọc song song Sujato - Thích Minh Châu",
               "bookEdition": "Bhikkhu Sujato - Tỷ kheo Thích Minh Châu",
               "url": "https://kinhnikaya.org/kinhtruongbo/c-sujato-tmc-vi/",
               "inLanguage": "vi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -191,7 +192,8 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Trường Bộ</h1>
-<h2 style="text-align: center;">Bản đọc song song Sujato — Thích Minh Châu</h2>
+<h2 style="text-align: center;">Bản đọc song song</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bhikkhu Sujato - Tỷ kheo Thích Minh Châu</h2>
 <br>
 <a href= "/kinhtruongbo/c-sujato-tmc-vi/dnc-001-kinh-pham-vong">
 <figure style="text-align: center;">

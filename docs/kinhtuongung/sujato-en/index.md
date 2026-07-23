@@ -30,6 +30,7 @@ head:
               "bookEdition": "Bhikkhu Sujato",
               "url": "https://kinhnikaya.org/kinhtuongung/sujato-en/",
               "inLanguage": "en",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -279,6 +280,7 @@ head:
 
 <h1 style="text-align: center;">Kinh Tương Ưng Bộ</h1>
 <h2 style="text-align: center;">Linked Discourses A plain translation of the Saṁyutta Nikāya</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bhikkhu Sujato</h2>
 <br>
 <a href= "/kinhtuongung/sujato-en/intro/01-the-suttacentral-editions-series.md">
 <figure style="text-align: center;">

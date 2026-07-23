@@ -1,5 +1,5 @@
 ---
-title: Kinh Tăng Chi Bộ - Bhikkhu Sujato (Tiếng Việt)
+title: Kinh Tăng Chi Bộ - Kinh Theo Số - Numbered Discourses
 description: Bản dịch tiếng việt Kinh Tăng Chi Bộ Aṅguttara Nikāya của Bhikkhu Sujato
 head:
   - - script
@@ -25,11 +25,12 @@ head:
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtangchi/sujato-vi/#book",
-              "name": "Bhikkhu Sujato (Tiếng Việt)",
+              "name": "Kinh Theo Số - Numbered Discourses",
               "description": "Bản dịch tiếng việt Kinh Tăng Chi Bộ Aṅguttara Nikāya của Bhikkhu Sujato",
               "bookEdition": "Bhikkhu Sujato (Tiếng Việt)",
               "url": "https://kinhnikaya.org/kinhtangchi/sujato-vi/",
               "inLanguage": "vi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -653,7 +654,8 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Tăng Chi Bộ</h1>
-<h2 style="text-align: center;">Bhikkhu Sujato (Tiếng Việt)</h2>
+<h2 style="text-align: center;">Kinh Theo Số - Numbered Discourses</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bhikkhu Sujato (Tiếng Việt)</h2>
 <br>
 <a href= "/kinhtangchi/sujato-vi/intro/00-000-quote.md">
 <figure style="text-align: center;">

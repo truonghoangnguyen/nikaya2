@@ -1,5 +1,5 @@
 ---
-title: Kinh Trường Bộ - Bhikkhu Sujato (Tiếng Việt)
+title: Kinh Trường Bộ - Long Discourses
 description: Bản dịch tiếng việt Kinh Trường Bộ Dīgha Nikāya của Bhikkhu Sujato
 head:
   - - script
@@ -25,11 +25,12 @@ head:
             {
               "@type": "Book",
               "@id": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/#book",
-              "name": "Bhikkhu Sujato (Tiếng Việt)",
+              "name": "Long Discourses",
               "description": "Bản dịch tiếng việt Kinh Trường Bộ Dīgha Nikāya của Bhikkhu Sujato",
               "bookEdition": "Bhikkhu Sujato (Tiếng Việt)",
               "url": "https://kinhnikaya.org/kinhtruongbo/sujato-vi/",
               "inLanguage": "vi",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -203,7 +204,8 @@ head:
 ---
 
 <h1 style="text-align: center;">Kinh Trường Bộ</h1>
-<h2 style="text-align: center;">Bhikkhu Sujato (Tiếng Việt)</h2>
+<h2 style="text-align: center;">Long Discourses</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bhikkhu Sujato (Tiếng Việt)</h2>
 <br>
 <a href= "/kinhtruongbo/sujato-vi/intro/01-the-suttacentral-editions-series.md">
 <figure style="text-align: center;">

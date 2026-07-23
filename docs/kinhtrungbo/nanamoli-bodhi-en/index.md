@@ -30,6 +30,7 @@ head:
               "bookEdition": "Bhikkhu Ñāṇamoli & Bhikkhu Bodhi",
               "url": "https://kinhnikaya.org/kinhtrungbo/nanamoli-bodhi-en/",
               "inLanguage": "en",
+              "license": "https://kinhnikaya.org/license",
               "isAccessibleForFree": true,
               "publisher": {
                 "@id": "https://kinhnikaya.org/#org"
@@ -615,6 +616,7 @@ head:
 
 <h1 style="text-align: center;">Kinh Trung Bộ</h1>
 <h2 style="text-align: center;">The Middle Length Discourses of the Buddha A Translation of the Majjhima Nikaya</h2>
+<h2 style="text-align: center; padding-top: 0px;">Bhikkhu Ñāṇamoli & Bhikkhu Bodhi</h2>
 <br>
 <a href= "/kinhtrungbo/nanamoli-bodhi-en/intro/01.preface.md">
 <figure style="text-align: center;">
