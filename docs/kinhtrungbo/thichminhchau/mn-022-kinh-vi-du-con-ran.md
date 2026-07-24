@@ -204,7 +204,6 @@ dụng của chiếc bè chăng?
 -- Chư Tỷ-kheo, người đó phải làm thế nào cho đúng sở dụng của chiếc bè? Ở đây, chư Tỷ-kheo, người
 đó sau khi vượt qua bờ bên kia, có thể suy nghĩ: "Chiếc bè này lợi ích nhiều cho ta. Nhờ chiếc bè này, ta
 tinh tấn dùng tay chân đã vượt qua bờ bên kia một cách an toàn. Nay ta hãy kéo chiếc bè này lên trên bờ
-
 đất khô, hay nhận chìm xuống nước, và đi đến chỗ nào ta muốn". Chư Tỷ-kheo, làm như vậy, người đó
 làm đúng sở dụng chiếc bè ấy. Cũng vậy, này chư Tỷ-kheo, Ta thuyết pháp như chiếc bè để vượt qua,
 không phải để nắm giữ lấy.
@@ -308,7 +307,6 @@ não không?
 -- Bạch Thế Tôn không.
 
 -- Lành thay, này các Tỷ-kheo. Này các Tỷ-kheo, Ta cũng không thấy Ngã luận thủ nào mà Ngã luận thủ
-
 ấy được chấp thủ như vậy lại không khởi lên sầu, bi, khổ, ưu, não. Này các Tỷ-kheo, các Ông có kiến y
 nào, mà kiến y ấy được y chỉ như vậy lại không khởi lên sầu, bi, khổ, ưu, não không? Này các Tỷ-kheo,
 các Ông có thấy kiến y nào, mà kiến y ấy được y chỉ như vậy lại không khởi lên sầu, bi, khổ, ưu, não

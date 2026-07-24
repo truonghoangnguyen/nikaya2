@@ -3,16 +3,16 @@
 
 #### (SETTING)
 
-[130] 1. Thus have I heard. [^248] On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.
+[130] 1. Thus have I heard. [248](/kinhtrungbo/nanamoli-bodhi-en/notes/022#248){.note} On one occasion the Blessed One was living at Sāvatthī in Jeta's Grove, Anāthapiṇ̣ika's Park.
 
-2\. Now on that occasion a pernicious view had arisen in a bhikkhu named Aritṭha, formerly of the vulture killers, thus: "As I understand the Dhamma taught by the Blessed One, those things called obstructions by the Blessed One are not able to obstruct one who engages in them." [^249]
+2\. Now on that occasion a pernicious view had arisen in a bhikkhu named Aritṭha, formerly of the vulture killers, thus: "As I understand the Dhamma taught by the Blessed One, those things called obstructions by the Blessed One are not able to obstruct one who engages in them." [249](/kinhtrungbo/nanamoli-bodhi-en/notes/022#249){.note}
 
 3\. Several bhikkhus, having heard about this, went to the bhikkhu Aritṭha and asked him: "Friend Aritṭha, is it true that such a pernicious view has arisen in you?"
 
 "Exactly so, friends. As I understand the Dhamma taught by the Blessed One, those things called obstructions by the Blessed One are not able to obstruct one who engages in them."
 
 Then these bhikkhus, desiring to detach him from that pernicious view, pressed and questioned and cross-questioned him thus: "Friend Arittha, do not say so. Do not misrepresent the Blessed One; it is not good to misrepresent the Blessed One. The Blessed One would not speak thus. For in many discourses the Blessed One has stated how obstructive things are obstructions, and how they are able to obstruct one who engages in them. The Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them. With the simile of the skeleton...with the simile of the piece of meat... with the simile of the grass torch... with the simile of the pit of coals... with the simile of the dream... with the simile of the borrowed goods... with the simile of the tree laden with fruit... with the simile of the slaughterhouse... with the simile of the sword stake... with the simile of
-the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." [^250]
+the snake's head, the Blessed One has stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them." [250](/kinhtrungbo/nanamoli-bodhi-en/notes/022#250){.note}
 
 Yet although pressed and questioned and cross-questioned by them in this way, the bhikkhu Arittha, formerly of the vulture killers, still obstinately adhered to that pernicious view and continued to insist upon it.
 
@@ -26,7 +26,7 @@ Yet although pressed and questioned and cross-questioned by them in this way, th
 
 <!--pg-->
 6\. "Misguided man, to whom have you ever known me to teach the Dhamma in that way? Misguided man, in many discourses have I not stated how obstructive things are obstructions, and how they are able to obstruct one who engages in them? I have stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them. With the simile of the skeleton... with the simile of the piece of meat... with the simile of the grass torch... with the simile of the pit of coals... with the simile of the dream... with the simile of the borrowed goods... with the simile of the tree laden with fruit... with the simile of the slaughterhouse... with the simile of the sword stake... with the simile of the snake's head, I have stated how sensual pleasures provide little gratification,
-much suffering, and much despair, and how great is the danger in them. But you, misguided man, have misrepresented us by your wrong grasp and injured yourself and stored up much demerit; for this will lead to your harm and suffering for a long time." [^251]
+much suffering, and much despair, and how great is the danger in them. But you, misguided man, have misrepresented us by your wrong grasp and injured yourself and stored up much demerit; for this will lead to your harm and suffering for a long time." [251](/kinhtrungbo/nanamoli-bodhi-en/notes/022#251){.note}
 
 7\. Then the Blessed One addressed the bhikkhus thus: "Bhikkhus, what do you think? Has this bhikkhu Aritṭha, formerly of the vulture killers, kindled even a spark of wisdom in this Dhamma and Discipline?"
 
@@ -40,12 +40,12 @@ When this was said, the bhikkhu Arittha, formerly of the vulture killers, sat si
 
 "Good, bhikkhus. It is good that you understand the Dhamma taught by me thus. For in many discourses I have stated how obstructive things are obstructions, and how they are able to obstruct one who engages in them. I have stated how sensual pleasures provide little gratification, much suffering, and much despair, and how great is the danger in them. With the simile of the skeleton...with the simile of the snake's head, I have stated...how great is the danger in them. But this bhikkhu Aritṭha, formerly of the vulture killers, misrepresents us by his wrong grasp and injures himself and stores up much demerit; for this will lead to this misguided man's harm and suffering for a long time.
 
-9\. "Bhikkhus, that one can engage in sensual pleasures without sensual desires, without perceptions of sensual desire, without thoughts of sensual desire - that is impossible. [^252]
+9\. "Bhikkhus, that one can engage in sensual pleasures without sensual desires, without perceptions of sensual desire, without thoughts of sensual desire - that is impossible. [252](/kinhtrungbo/nanamoli-bodhi-en/notes/022#252){.note}
 
 <!--pg-->
 (THE SIMILE OF THE SNAKE)
 
-10\. "Here, bhikkhus, some misguided men learn the Dhamma discourses, stanzas, expositions, verses, exclamations, sayings, birth stories, marvels, and answers to questions - but having learned the Dhamma, they do not examine the meaning of those teachings with wisdom. Not examining the meaning of those teachings with wisdom, they do not gain a reflective acceptance of them. Instead they learn the Dhamma only for the sake of criticising others and for winning in debates, and they do not experience the good for the sake of which they learned the Dhamma. Those teachings, being wrongly grasped by them, conduce to their harm and suffering for a long time. [^253]
+10\. "Here, bhikkhus, some misguided men learn the Dhamma discourses, stanzas, expositions, verses, exclamations, sayings, birth stories, marvels, and answers to questions - but having learned the Dhamma, they do not examine the meaning of those teachings with wisdom. Not examining the meaning of those teachings with wisdom, they do not gain a reflective acceptance of them. Instead they learn the Dhamma only for the sake of criticising others and for winning in debates, and they do not experience the good for the sake of which they learned the Dhamma. Those teachings, being wrongly grasped by them, conduce to their harm and suffering for a long time. [253](/kinhtrungbo/nanamoli-bodhi-en/notes/022#253){.note}
 
 "Suppose a man needing a snake, seeking a snake, wandering in search of a snake, saw a large snake and grasped its coils or its tail. It would turn back on him and bite his hand or his arm or one of his limbs, [134] and because of that he would come to death or deadly suffering. Why is that? Because of his wrong grasp of the snake. So too, here some misguided men learn the Dhamma...Those teachings, being wrongly grasped by them, conduce to their harm and suffering for a long time.
 
@@ -59,7 +59,7 @@ suffering because of that. Why is that? Because of his right grasp of the snake.
 <!--pg-->
 #### (THE SIMILE OF THE RAFT)
 
-- 13. "Bhikkhus, I shall show you how the Dhamma is similar to a raft, being for the purpose of crossing over, not for the purpose of grasping. [^254] Listen and attend closely to what I shall say." - "Yes, venerable sir," the bhikkhus replied. The Blessed One said this:
+- 13. "Bhikkhus, I shall show you how the Dhamma is similar to a raft, being for the purpose of crossing over, not for the purpose of grasping. [254](/kinhtrungbo/nanamoli-bodhi-en/notes/022#254){.note} Listen and attend closely to what I shall say." - "Yes, venerable sir," the bhikkhus replied. The Blessed One said this:
 
 "Bhikkhus, suppose a man in the course of a journey saw a great expanse of water, whose near shore was dangerous and fearful and whose further shore was safe and free from fear, but there was no ferryboat or bridge going to the far shore. [135] Then he thought: 'There is this great expanse of water, whose near shore is dangerous and fearful and whose further shore is safe and free from fear, but there is no ferryboat or bridge going to the far shore. Suppose I collect grass, twigs, branches, and leaves and bind them together into a raft, and supported by the raft and making an effort with my hands and feet, I got safely across to the far shore.' And then the man collected grass, twigs, branches, and leaves and bound them together into a raft, and supported by the raft and making an effort with his hands and feet, he got safely across to the far shore. Then, when he had got across and had arrived at the far shore, he might think thus: 'This raft has been very helpful to me, since supported by it and making an effort with my hands and feet, I got safely across to the far shore. Suppose  I were to hoist it on my head or load it on my shoulder, and then go wherever I want.' Now, bhikkhus, what do you think? By doing so, would that man be doing what should be done with that raft?"
 
@@ -68,17 +68,17 @@ suffering because of that. Why is that? Because of his right grasp of the snake.
 "By doing what would that man be doing what should be done with that raft? Here, bhikkhus, when that man got across
 and had arrived at the far shore, he might think thus: This raft has been very helpful to me, since supported by it and making an effort with my hands and feet, I got safely across to the far shore. Suppose I were to haul it onto the dry land or set it adrift in the water, and then go wherever I want.' Now, bhikkhus, it is by so doing that that man would be doing what should be done with that raft. So I have shown you how the Dhamma is similar to a raft, being for the purpose of crossing over, not for the purpose of grasping.
 
-14\. "Bhikkhus, when you know the Dhamma to be similar to a raft, you should abandon even good states, how much more so bad states. [^255],
+14\. "Bhikkhus, when you know the Dhamma to be similar to a raft, you should abandon even good states, how much more so bad states. [255](/kinhtrungbo/nanamoli-bodhi-en/notes/022#255){.note},
 
 <!--pg-->
 #### (STANDPOINTS FOR VIEWS)
 
-15\. "Bhikkhus, there are these six standpoints for views. [^256] What are the six? Here, bhikkhus, an untaught ordinary person, who has no regard for noble ones and is unskilled and undisciplined in their Dhamma, who has no regard for true men and is unskilled and undisciplined in their Dhamma, regards material form thus: 'This is mine, this I am, this is my self. [^257] He regards feeling thus: 'This is mine, this I am, this is my self.' He regards perception thus: 'This is mine, this I am, this is my self.' He regards formations thus: 'This is mine, this I am, this is my self.' He regards what is seen, heard, sensed, cognized, encountered, sought, mentally pondered thus: 'This is mine, this I am, this is my self. [^258] And this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; [136] I shall endure as long as eternity' - this too he regards thus: 'This is mine, this I am, this is my self. [^259]
+15\. "Bhikkhus, there are these six standpoints for views. [256](/kinhtrungbo/nanamoli-bodhi-en/notes/022#256){.note} What are the six? Here, bhikkhus, an untaught ordinary person, who has no regard for noble ones and is unskilled and undisciplined in their Dhamma, who has no regard for true men and is unskilled and undisciplined in their Dhamma, regards material form thus: 'This is mine, this I am, this is my self. [257](/kinhtrungbo/nanamoli-bodhi-en/notes/022#257){.note} He regards feeling thus: 'This is mine, this I am, this is my self.' He regards perception thus: 'This is mine, this I am, this is my self.' He regards formations thus: 'This is mine, this I am, this is my self.' He regards what is seen, heard, sensed, cognized, encountered, sought, mentally pondered thus: 'This is mine, this I am, this is my self. [258](/kinhtrungbo/nanamoli-bodhi-en/notes/022#258){.note} And this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; [136] I shall endure as long as eternity' - this too he regards thus: 'This is mine, this I am, this is my self. [259](/kinhtrungbo/nanamoli-bodhi-en/notes/022#259){.note}
 
 16\. "Bhikkhus, a well-taught noble disciple who has regard for noble ones and is skilled and disciplined in their Dhamma, who has regard for true men and is skilled and disciplined in their Dhamma, regards material form thus: 'This is not mine, this I am not, this is not my self.' He regards feeling thus: 'This is not mine, this I am not, this is not my self.' He regards perception thus: 'This is not mine, this I am not, this is not my self.' He regards formations thus: 'This is not mine, this I am not, this is not my self.' He regards what is seen, heard, sensed, cognized,
 encountered, sought, mentally pondered thus: 'This is not mine, this I am not, this is not my self.' And this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; I shall endure as long as eternity' - this too he regards thus: 'This is not mine, this I am not, this is not my self.'
 
-17\. "Since he regards them thus, he is not agitated about what is non-existent. [^260]
+17\. "Since he regards them thus, he is not agitated about what is non-existent. [260](/kinhtrungbo/nanamoli-bodhi-en/notes/022#260){.note}
 
 <!--pg-->
 #### (AGITATION)
@@ -103,11 +103,11 @@ shall be no more!' Then he sorrows, grieves, and laments, he weeps beating his b
 <!--pg-->
 #### (IMPERMANENCE AND NOT SELF)
 
-22\. "Bhikkhus, you may well acquire that possession that is permanent, everlasting, eternal, not subject to change, and that might endure as long as eternity. [^261] But do you see any such possession, bhikkhus?" - "No, venerable sir." - "Good, bhikkhus. I too do not see any possession that is permanent, everlasting, eternal, not subject to change, and that might endure as long as eternity.
+22\. "Bhikkhus, you may well acquire that possession that is permanent, everlasting, eternal, not subject to change, and that might endure as long as eternity. [261](/kinhtrungbo/nanamoli-bodhi-en/notes/022#261){.note} But do you see any such possession, bhikkhus?" - "No, venerable sir." - "Good, bhikkhus. I too do not see any possession that is permanent, everlasting, eternal, not subject to change, and that might endure as long as eternity.
 
-23\. "Bhikkhus, you may well cling to that doctrine of self that would not arouse sorrow, lamentation, pain, grief, and despair in one who clings to it. [^262] But do you see any such doctrine of self, bhikkhus?" - "No, venerable sir." - "Good, bhikkhus. I too do not see any doctrine of self that would not arouse sorrow, lamentation, pain, grief, and despair in one who clings to it.
+23\. "Bhikkhus, you may well cling to that doctrine of self that would not arouse sorrow, lamentation, pain, grief, and despair in one who clings to it. [262](/kinhtrungbo/nanamoli-bodhi-en/notes/022#262){.note} But do you see any such doctrine of self, bhikkhus?" - "No, venerable sir." - "Good, bhikkhus. I too do not see any doctrine of self that would not arouse sorrow, lamentation, pain, grief, and despair in one who clings to it.
 
-24\. "Bhikkhus, you may well take as a support that view that would not arouse sorrow, lamentation, pain, grief, and despair in one who takes it as a support. [^263] But do you see any such support of views, bhikkhus?" - "No, venerable sir." - "Good, bhikkhus. I too do not see any support of views [138] that would not arouse sorrow, lamentation, pain, grief, and despair in one who takes it as a support.
+24\. "Bhikkhus, you may well take as a support that view that would not arouse sorrow, lamentation, pain, grief, and despair in one who takes it as a support. [263](/kinhtrungbo/nanamoli-bodhi-en/notes/022#263){.note} But do you see any such support of views, bhikkhus?" - "No, venerable sir." - "Good, bhikkhus. I too do not see any support of views [138] that would not arouse sorrow, lamentation, pain, grief, and despair in one who takes it as a support.
 
 25\. "Bhikkhus, there being a self, would there be what belongs to my self?"264 - "Yes, venerable sir." - "Or, there being what belongs to a self, would there be my self?" - "Yes, venerable sir." - "Bhikkhus, since a self and what belongs to a self are not apprehended as true and established, then this standpoint for views, namely, 'This is self, this the world; after death I shall be permanent, everlasting, eternal, not subject to change; I shall endure as long as eternity' - would it not be an utterly and completely foolish teaching?"
 
@@ -121,7 +121,7 @@ shall be no more!' Then he sorrows, grieves, and laments, he weeps beating his b
 
 28\. "Seeing thus, bhikkhus, a well-taught noble disciple becomes disenchanted with material form, disenchanted with feeling, disenchanted with perception, disenchanted with formations, disenchanted with consciousness.
 
-29\. "Being disenchanted, he becomes dispassionate. Through dispassion [his mind] is liberated. [^265] When it is liberated there comes the knowledge: 'It is liberated.' He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.'
+29\. "Being disenchanted, he becomes dispassionate. Through dispassion [his mind] is liberated. [265](/kinhtrungbo/nanamoli-bodhi-en/notes/022#265){.note} When it is liberated there comes the knowledge: 'It is liberated.' He understands: 'Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.'
 
 <!--pg-->
 #### (THE ARAHANT)
@@ -139,14 +139,14 @@ shall be no more!' Then he sorrows, grieves, and laments, he weeps beating his b
 35\. "And how is the bhikkhu a noble one whose banner is lowered, whose burden is lowered, who is unfettered? Here a bhikkhu has abandoned the conceit 'I am,' has cut it off at the root [140]...so that it is no longer subject to future arising. That is how the bhikkhu is a noble one whose banner is lowered, whose burden is lowered, who is unfettered.
 
 36\. "Bhikkhus, when the gods with Indra, with Brahmā and with Pajāpati seek a bhikkhu who is thus liberated in mind, they do not find [anything of which they could say]: 'The consciousness
-of one thus gone is supported by this.' Why is that? One thus gone, I say, is untraceable here and now. [^266]
+of one thus gone is supported by this.' Why is that? One thus gone, I say, is untraceable here and now. [266](/kinhtrungbo/nanamoli-bodhi-en/notes/022#266){.note}
 
 <!--pg-->
 (MISREPRESENTATION OF THE TATHĀGATA)
 
-37\. "So saying, bhikkhus, so proclaiming, I have been baselessly, vainly, falsely, and wrongly misrepresented by some recluses and brahmins thus: 'The recluse Gotama is one who leads astray; he teaches the annihilation, the destruction, the extermination of an existing being. [^267] As I am not, as I do not proclaim, so have I been baselessly, vainly, falsely, and wrongly misrepresented by some recluses and brahmins thus: 'The recluse Gotama is one who leads astray; he teaches the annihilation, the destruction, the extermination of an existing being.'
+37\. "So saying, bhikkhus, so proclaiming, I have been baselessly, vainly, falsely, and wrongly misrepresented by some recluses and brahmins thus: 'The recluse Gotama is one who leads astray; he teaches the annihilation, the destruction, the extermination of an existing being. [267](/kinhtrungbo/nanamoli-bodhi-en/notes/022#267){.note} As I am not, as I do not proclaim, so have I been baselessly, vainly, falsely, and wrongly misrepresented by some recluses and brahmins thus: 'The recluse Gotama is one who leads astray; he teaches the annihilation, the destruction, the extermination of an existing being.'
 
-38\. "Bhikkhus, both formerly and now what I teach is suffering and the cessation of suffering. [^268] If others abuse, revile, scold, and harass the Tathāgata for that, the Tathāgata on that account feels no annoyance, bitterness, or dejection of the heart. And if others honour, respect, revere, and venerate the Tathāgata for that, the Tathāgata on that account feels no delight, joy, or elation of the heart. If others honour, respect, revere, and venerate the Tathāgata for that, the Tathāgata on that account thinks thus: 'They perform such services as these for the sake of what had earlier come to be fully understood. [^269]
+38\. "Bhikkhus, both formerly and now what I teach is suffering and the cessation of suffering. [268](/kinhtrungbo/nanamoli-bodhi-en/notes/022#268){.note} If others abuse, revile, scold, and harass the Tathāgata for that, the Tathāgata on that account feels no annoyance, bitterness, or dejection of the heart. And if others honour, respect, revere, and venerate the Tathāgata for that, the Tathāgata on that account feels no delight, joy, or elation of the heart. If others honour, respect, revere, and venerate the Tathāgata for that, the Tathāgata on that account thinks thus: 'They perform such services as these for the sake of what had earlier come to be fully understood. [269](/kinhtrungbo/nanamoli-bodhi-en/notes/022#269){.note}
 
 39\. "Therefore, bhikkhus, if others abuse, revile, scold, and harass you, on that account you should not entertain any annoyance, bitterness, or dejection of the heart. And if others honour, respect, revere, and venerate you, on that account you should not entertain any delight, joy, or elation of the heart. If others honour, respect, revere, and venerate you, on that account you should think thus: 'They perform such services as these for the sake of what had earlier come to be fully understood.'
 
@@ -155,14 +155,14 @@ of one thus gone is supported by this.' Why is that? One thus gone, I say, is un
 
 40\. "Therefore, bhikkhus, whatever is not yours, abandon it; when you have abandoned it, that will lead to your welfare and happiness for a long time. What is it that is not yours? Material form is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time.
 
-Feeling is not yours. [141] Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time. Perception is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time. Formations are not yours. Abandon them. When you have abandoned them, that will lead to your welfare and happiness for a long time. Consciousness is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time. [^270]
+Feeling is not yours. [141] Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time. Perception is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time. Formations are not yours. Abandon them. When you have abandoned them, that will lead to your welfare and happiness for a long time. Consciousness is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time. [270](/kinhtrungbo/nanamoli-bodhi-en/notes/022#270){.note}
 
 41\. "Bhikkhus, what do you think? If people carried off the grass, sticks, branches, and leaves in this Jeta Grove, or burned them, or did what they liked with them, would you think: 'People are carrying us off or burning us or doing what they like with us'?" - "No, venerable sir. Why not? Because that is neither our self nor what belongs to our self." - "So too, bhikkhus, whatever is not yours, abandon it; when you have abandoned it, that will lead to your welfare and happiness for a long time. What is it that is not yours? Material form is not yours...Feeling is not yours...Perception is not yours...Formations are not yours...Consciousness is not yours. Abandon it. When you have abandoned it, that will lead to your welfare and happiness for a long time.
 
 <!--pg-->
 #### (IN THIS DHAMMA)
 
-42\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear, open, evident, and free of patchwork. [^271] In the Dhamma well proclaimed by me thus, which is clear, open, evident, and free of patchwork, there is no [future] round for manifestation in the case of those bhikkhus who are arahants with taints destroyed, who have lived the holy life, done what had to be done, laid down the burden, reached the true goal, destroyed the fetters of being, and are completely liberated through final knowledge. [^272]
+42\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear, open, evident, and free of patchwork. [271](/kinhtrungbo/nanamoli-bodhi-en/notes/022#271){.note} In the Dhamma well proclaimed by me thus, which is clear, open, evident, and free of patchwork, there is no [future] round for manifestation in the case of those bhikkhus who are arahants with taints destroyed, who have lived the holy life, done what had to be done, laid down the burden, reached the true goal, destroyed the fetters of being, and are completely liberated through final knowledge. [272](/kinhtrungbo/nanamoli-bodhi-en/notes/022#272){.note}
 
 43\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear...free of patchwork. In the Dhamma well proclaimed by me thus, which is clear...free of patchwork, those bhikkhus who have abandoned the five lower fetters are all due to reappear spontaneously [in the Pure Abodes] and there attain final Nibbāna, without ever returning from that world.
 
@@ -170,8 +170,8 @@ Feeling is not yours. [141] Abandon it. When you have abandoned it, that will le
 
 45\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear...free of patchwork. In the Dhamma well proclaimed by me thus, which is clear...free of patchwork, those bhikkhus who have abandoned three fetters are all stream-enterers, no longer subject to perdition, [142] bound [for deliverance] and headed for enlightenment.
 
-46\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear...free of patchwork. In the Dhamma well proclaimed by me thus, which is clear...free of patchwork, those bhikkhus who are Dhamma-followers or faith-followers are all headed for enlightenment. [^273]
+46\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear...free of patchwork. In the Dhamma well proclaimed by me thus, which is clear...free of patchwork, those bhikkhus who are Dhamma-followers or faith-followers are all headed for enlightenment. [273](/kinhtrungbo/nanamoli-bodhi-en/notes/022#273){.note}
 
-47\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear, open, evident, and free of patchwork. In the Dhamma well proclaimed by me thus, which is clear, open, evident, and free of patchwork, those bhikkhus who have sufficient faith in me, sufficient love for me, are all headed for heaven." [^274]
+47\. "Bhikkhus, the Dhamma well proclaimed by me thus is clear, open, evident, and free of patchwork. In the Dhamma well proclaimed by me thus, which is clear, open, evident, and free of patchwork, those bhikkhus who have sufficient faith in me, sufficient love for me, are all headed for heaven." [274](/kinhtrungbo/nanamoli-bodhi-en/notes/022#274){.note}
 
 That is what the Blessed One said. The bhikkhus were satisfied and delighted in the Blessed One's words.

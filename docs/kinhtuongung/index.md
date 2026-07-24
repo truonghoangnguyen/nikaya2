@@ -46,7 +46,7 @@ head:
                 "Đức Phật"
               ],
               "sameAs": "https://en.wikipedia.org/wiki/Gautama_Buddha"
-            }
+            },
             "about": {
               "@type": "Thing",
               "name": "Phật giáo Nguyên thủy",

@@ -4,7 +4,7 @@ tags:
  - quan hệ phụ thuộc (duyên)
  - điều kiện (duyên)
  - sự sinh ra qua quan hệ Phụ thuộc (duyên khởi)
- - nơi trú ngụ của sự Nhận biết (thức trú/viññāṇaṭṭhiti)
+ - nơi ở của Cái biết (thức trú/viññāṇaṭṭhiti)
  - Xứ (āyatana)
 ---
 

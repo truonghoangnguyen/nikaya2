@@ -1,3 +1,8 @@
+---
+tags:
+ - nơi ở của Cái biết (thức trú/viññāṇaṭṭhiti)
+---
+
 # V. Phẩm Ðại Tế Ðàn
 
 ### (I) (41) Thức Trú
