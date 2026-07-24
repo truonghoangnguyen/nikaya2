@@ -791,19 +791,37 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     //['base', { target: '_blank' }],
-    ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-WF7YCB87LW' }],
     ['script', {}, `
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-WF7YCB87LW');
-    `],
-    ['script', { type: 'text/javascript', async: '' }, `
-       (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "x22u7izjme");
+      (function() {
+        var loaded = false;
+        function loadAnalytics() {
+          if (loaded) return;
+          loaded = true;
+          ['mousedown','touchstart','keydown','scroll','click'].forEach(function(e) {
+            document.removeEventListener(e, loadAnalytics, { passive: true, capture: true });
+          });
+          // Google Analytics
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-WF7YCB87LW';
+          document.head.appendChild(s);
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-WF7YCB87LW');
+          // Microsoft Clarity
+          (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+          })(window,document,'clarity','script','x22u7izjme');
+        }
+        ['mousedown','touchstart','keydown','scroll','click'].forEach(function(e) {
+          document.addEventListener(e, loadAnalytics, { passive: true, once: true, capture: true });
+        });
+        // Fallback: load after 5s even with no interaction
+        setTimeout(loadAnalytics, 5000);
+      })();
     `],
     ['link', {
       rel: 'preconnect',
@@ -818,7 +836,7 @@ export default defineConfig({
     ],
     ['link', {
       rel: 'stylesheet',
-      href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=optional',
+      href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap',
     }],
 
     ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=optional">'],
