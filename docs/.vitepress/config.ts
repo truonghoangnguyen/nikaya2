@@ -439,21 +439,6 @@ export default defineConfig({
   },
 
   // ignoreDeadLinks: true,
-  transformHtml(code) {
-    function deferStylesheet(html: string, href: string) {
-      const preloadStylesheet = `<link rel="preload stylesheet" href="${href}" as="style">`;
-      const asyncStylesheet = `<link rel="preload" href="${href}" as="style" onload="this.onload=null;this.rel='stylesheet'">\n    <noscript><link rel="stylesheet" href="${href}"></noscript>`;
-      return html.replaceAll(preloadStylesheet, asyncStylesheet);
-    }
-
-    let html = code.replace(
-      /<link rel="preload stylesheet" href="(\/assets\/style\.[^"]+\.css)" as="style">/g,
-      (_, href) => `<link rel="preload" href="${href}" as="style" onload="this.onload=null;this.rel='stylesheet'">\n    <noscript><link rel="stylesheet" href="${href}"></noscript>`,
-    );
-    html = deferStylesheet(html, '/vp-icons.css');
-    return html;
-  },
-
   /**
    * Transforms page data, specifically adding navigation (next/prev) and title
    * information based on the page's relative path within supported books and authors.
@@ -832,13 +817,11 @@ export default defineConfig({
     }
     ],
     ['link', {
-      rel: 'preload',
-      as: 'style',
-      href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap',
-      onload: "this.onload=null;this.rel='stylesheet'"
+      rel: 'stylesheet',
+      href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=optional',
     }],
 
-    ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap">'],
+    ['noscript', {}, '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=optional">'],
 
   ],
 
