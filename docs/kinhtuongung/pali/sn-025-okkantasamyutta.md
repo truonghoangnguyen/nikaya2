@@ -1,10 +1,10 @@
-# Okkantasaṁyutta
+# SN 25. Okkantasaṁyutta
 
-## * Saṁyutta Nikāya 25.1
+## Saṁyutta Nikāya 25.1
 
 ### 25.1 Cakkhusutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti.
 
@@ -12,13 +12,13 @@ abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati—ayaṁ vuccati saddhānusārī, okkanto sammattaniyāmaṁ, sappurisabhūmiṁ okkanto, vītivatto puthujjanabhūmiṁ; abhabbo taṁ kammaṁ kātuṁ, yaṁ kammaṁ katvā nirayaṁ vā tiracchānayoniṁ vā pettivisayaṁ vā upapajjeyya; Yassa kho, bhikkhave, ime dhammā evaṁ paññāya mattaso nijjhānaṁ khamanti, ayaṁ vuccati: ‘dhammānusārī, okkanto sammattaniyāmaṁ, sappurisabhūmiṁ okkanto, vītivatto puthujjanabhūmiṁ; abhabbo taṁ kammaṁ kātuṁ, yaṁ kammaṁ katvā nirayaṁ vā tiracchānayoniṁ vā pettivisayaṁ vā upapajjeyya; abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti’.
 
-Yo, bhikkhave, ime dhamme evaṁ pajānāti evaṁ passati, ayaṁ vuccati: ‘sotāpanno avinipātadhammo niyato sambodhiparāyano’”ti.
+2\. Yo, bhikkhave, ime dhamme evaṁ pajānāti evaṁ passati, ayaṁ vuccati: ‘sotāpanno avinipātadhammo niyato sambodhiparāyano’”ti.
 
 Paṭhamaṁ.
 
 ### 25.2 Rūpasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti.
 
@@ -26,13 +26,13 @@ abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati saddhānusārī, okkanto sammattaniyāmaṁ, sappurisabhūmiṁ okkanto, vītivatto puthujjanabhūmiṁ; abhabbo taṁ kammaṁ kātuṁ, yaṁ kammaṁ katvā nirayaṁ vā tiracchānayoniṁ vā pettivisayaṁ vā upapajjeyya; Yassa kho, bhikkhave, ime dhammā evaṁ paññāya mattaso nijjhānaṁ khamanti, ayaṁ vuccati: ‘dhammānusārī, okkanto sammattaniyāmaṁ, sappurisabhūmiṁ okkanto, vītivatto puthujjanabhūmiṁ; abhabbo taṁ kammaṁ kātuṁ, yaṁ kammaṁ katvā nirayaṁ vā tiracchānayoniṁ vā pettivisayaṁ vā upapajjeyya; abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti’.
 
-Yo, bhikkhave, ime dhamme evaṁ pajānāti evaṁ passati, ayaṁ vuccati: ‘sotāpanno avinipātadhammo niyato sambodhiparāyano’”ti.
+2\. Yo, bhikkhave, ime dhamme evaṁ pajānāti evaṁ passati, ayaṁ vuccati: ‘sotāpanno avinipātadhammo niyato sambodhiparāyano’”ti.
 
 Dutiyaṁ.
 
 ### 25.3 Viññāṇasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Tatiyaṁ.
 
@@ -42,7 +42,7 @@ Yo bhikkhave …pe… sambodhiparāyano”ti.
 
 ### 25.4 Samphassasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Catutthaṁ.
 
@@ -52,7 +52,7 @@ Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddh�
 
 ### 25.5 Samphassajasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Pañcamaṁ.
 
@@ -62,7 +62,7 @@ Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddh�
 
 ### 25.6 Rūpasaññāsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Chaṭṭhaṁ.
 
@@ -72,7 +72,7 @@ Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddh�
 
 ### 25.7 Rūpasañcetanāsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Sattamaṁ.
 
@@ -82,7 +82,7 @@ Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddh�
 
 ### 25.8 Rūpataṇhāsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Aṭṭhamaṁ.
 
@@ -92,7 +92,7 @@ Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddh�
 
 ### 25.9 Pathavīdhātusutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Navamaṁ.
 
@@ -102,13 +102,13 @@ Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddh�
 
 ### 25.10 Khandhasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 “Rūpaṁ, bhikkhave, aniccaṁ vipariṇāmi aññathābhāvi; vedanā aniccā vipariṇāmī aññathābhāvī; saññā … saṅkhārā aniccā vipariṇāmino aññathābhāvino; viññāṇaṁ aniccaṁ vipariṇāmi aññathābhāvi.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati saddhānusārī, okkanto sammattaniyāmaṁ, sappurisabhūmiṁ okkanto, vītivatto puthujjanabhūmiṁ; abhabbo taṁ kammaṁ kātuṁ, yaṁ kammaṁ katvā nirayaṁ vā tiracchānayoniṁ vā pettivisayaṁ vā upapajjeyya; abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti.
 
-Yassa kho, bhikkhave, ime dhammā evaṁ paññāya mattaso nijjhānaṁ khamanti, ayaṁ vuccati: ‘dhammānusārī, okkanto sammattaniyāmaṁ, sappurisabhūmiṁ okkanto, vītivatto puthujjanabhūmiṁ; abhabbo taṁ kammaṁ kātuṁ, yaṁ kammaṁ katvā nirayaṁ vā tiracchānayoniṁ vā pettivisayaṁ vā upapajjeyya; abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti’.
+2\. Yassa kho, bhikkhave, ime dhammā evaṁ paññāya mattaso nijjhānaṁ khamanti, ayaṁ vuccati: ‘dhammānusārī, okkanto sammattaniyāmaṁ, sappurisabhūmiṁ okkanto, vītivatto puthujjanabhūmiṁ; abhabbo taṁ kammaṁ kātuṁ, yaṁ kammaṁ katvā nirayaṁ vā tiracchānayoniṁ vā pettivisayaṁ vā upapajjeyya; abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti’.
 
 Yo, bhikkhave, ime dhamme evaṁ pajānāti evaṁ passati, ayaṁ vuccati: ‘sotāpanno avinipātadhammo niyato sambodhiparāyano’”ti.
 
@@ -116,8 +116,11 @@ Dasamaṁ.
 
 Cakkhuvaggo paṭhamo.
 
-Tassuddānaṁ
+3\. Tassuddānaṁ
 
-> Cakkhu rūpañca viññāṇaṁ, phasso ca vedanāya ca; Saññā ca cetanā taṇhā, dhātu khandhena te dasāti.
+> Cakkhu rūpañca viññāṇaṁ,\
+> phasso ca vedanāya ca;\
+> Saññā ca cetanā taṇhā,\
+> dhātu khandhena te dasāti.
 
 Okkantasaṁyuttaṁ samattaṁ.

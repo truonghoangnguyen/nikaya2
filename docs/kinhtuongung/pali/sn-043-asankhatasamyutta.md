@@ -1,78 +1,78 @@
-# Asaṅkhatasaṁyutta
+# SN 43. Asaṅkhatasaṁyutta
 
-## * Saṁyutta Nikāya 43.1
+## Saṁyutta Nikāya 43.1
 
 ### 43.1 Kāyagatāsatisutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 “Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Taṁ suṇātha.
 
-Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, asaṅkhataṁ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Kāyagatāsati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
+Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, asaṅkhataṁ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Kāyagatāsati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
 
-Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmimaggo. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti.
+2\. Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmimaggo. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti.
 
 Paṭhamaṁ.
 
 ### 43.2 Samathavipassanāsutta
 
-“Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Taṁ suṇātha.
+1\. “Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Taṁ suṇātha.
 
-Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, asaṅkhataṁ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Samatho ca vipassanā ca. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, asaṅkhataṁ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Samatho ca vipassanā ca. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Dutiyaṁ.
 
 ### 43.3 Savitakkasavicārasutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi—ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi—ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Tatiyaṁ.
 
 ### 43.4 Suññatasamādhisutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Suññato samādhi, animitto samādhi, appaṇihito samādhi—ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Suññato samādhi, animitto samādhi, appaṇihito samādhi—ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Catutthaṁ.
 
 ### 43.5 Satipaṭṭhānasutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro satipaṭṭhānā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro satipaṭṭhānā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Pañcamaṁ.
 
 ### 43.6 Sammappadhānasutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro sammappadhānā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro sammappadhānā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Chaṭṭhaṁ.
 
 ### 43.7 Iddhipādasutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro iddhipādā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro iddhipādā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Sattamaṁ.
 
 ### 43.8 Indriyasutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Pañcindriyāni. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Pañcindriyāni. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Aṭṭhamaṁ.
 
 ### 43.9 Balasutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Pañca balāni. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Pañca balāni. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Navamaṁ.
 
 ### 43.10 Bojjhaṅgasutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Satta bojjhaṅgā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Satta bojjhaṅgā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Dasamaṁ.
 
 ### 43.11 Maggaṅgasutta
 
-“Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Ariyo aṭṭhaṅgiko maggo. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
+1\. “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Ariyo aṭṭhaṅgiko maggo. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
 
 Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmimaggo. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti.
 
@@ -80,27 +80,32 @@ Ekādasamaṁ.
 
 Asaṅkhatasaṁyuttassa paṭhamo vaggo.
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Kāyo samatho savitakko, suññato satipaṭṭhānā; Sammappadhānā iddhipādā, indriyabalabojjhaṅgā; Maggena ekādasamaṁ, Tassuddānaṁ pavuccati.
+> Kāyo samatho savitakko,\
+> suññato satipaṭṭhānā;\
+> Sammappadhānā iddhipādā,\
+> indriyabalabojjhaṅgā;\
+> Maggena ekādasamaṁ,\
+> Tassuddānaṁ pavuccati.
 
 ### 43.12 Asaṅkhatasutta
 
-“Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanīti.
+1\. “Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanīti.
 
 Taṁ suṇātha.
 
-Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, asaṅkhataṁ.
+Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, asaṅkhataṁ.
 
 Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Samatho. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
 
 Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmimaggo.
 
-Katamo ca, bhikkhave, asaṅkhatagāmimaggo? upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+10\. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu dhammavicayasambojjhaṅgaṁ bhāveti …pe… vīriyasambojjhaṅgaṁ bhāveti …pe… pītisambojjhaṅgaṁ bhāveti …pe… passaddhisambojjhaṅgaṁ bhāveti …pe… samādhisambojjhaṅgaṁ bhāveti …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo? sammāsatiṁ bhāveti …pe… asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Taṁ suṇātha. Katamañca, bhikkhave, asaṅkhataṁ …pe…? Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu sammāsamādhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ.
 
-Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
+11\. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
 
 Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmimaggo.
 
@@ -110,31 +115,31 @@ Idha, bhikkhave, bhikkhu sammādiṭṭhiṁ bhāveti vivekanissitaṁ virāgani
 
 Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu sammāsaṅkappaṁ bhāveti …pe… sammāvācaṁ bhāveti …pe… sammākammantaṁ bhāveti …pe… sammāājīvaṁ bhāveti …pe… sammāvāyāmaṁ bhāveti …pe… Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. ayaṁ vo amhākaṁ anusāsanīti.
 
-Taṁ suṇātha.
+2\. Taṁ suṇātha.
 
-Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, asaṅkhataṁ.
+Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, asaṅkhataṁ.
 
 Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Vipassanā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo. Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo?
 
-Savitakko savicāro samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Avitakko vicāramatto samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Avitakko avicāro samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+3\. Savitakko savicāro samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Avitakko vicāramatto samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Avitakko avicāro samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
-Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Suññato samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Animitto samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Appaṇihito samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+4\. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Suññato samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Animitto samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Appaṇihito samādhi. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
-Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+5\. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā vineyya loke abhijjhādomanassaṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vedanāsu vedanānupassī viharati …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu citte cittānupassī viharati …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
-Idha, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīmaṁsasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+6\. Idha, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīmaṁsasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
-Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu cittasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu samādhindriyaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu paññindriyaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+7\. Idha, bhikkhave, bhikkhu chandasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu cittasamādhipadhānasaṅkhārasamannāgataṁ iddhipādaṁ bhāveti. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu samādhindriyaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu paññindriyaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
-Idha, bhikkhave, bhikkhu saddhindriyaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyindriyaṁ bhāveti vivekanissitaṁ …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu satindriyaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu samādhibalaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu paññābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+8\. Idha, bhikkhave, bhikkhu saddhindriyaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyindriyaṁ bhāveti vivekanissitaṁ …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu satindriyaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo? katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu samādhibalaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu paññābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
-Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti vivekanissitaṁ …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyabalaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu satibalaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe…
+9\. Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti vivekanissitaṁ …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyabalaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu satibalaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe…
 
 ### 43.13 Anatasutta
 
-“Anatañca vo, bhikkhave, desessāmi, anatagāmiñca maggaṁ. Taṁ suṇātha. Katamañca, bhikkhave, anataṁ …pe…”.
+1\. “Anatañca vo, bhikkhave, desessāmi, anatagāmiñca maggaṁ. Taṁ suṇātha. Katamañca, bhikkhave, anataṁ …pe…”.
 
 (Yathā asaṅkhataṁ tathā vitthāretabbaṁ.)
 
@@ -142,7 +147,7 @@ Dutiyaṁ.
 
 ### 43.14-43 
 
-“Anāsavañca vo, bhikkhave, desessāmi anāsavagāmiñca maggaṁ. Taṁ suṇātha. Katamañca, bhikkhave, anāsavaṁ …pe….
+1\. “Anāsavañca vo, bhikkhave, desessāmi anāsavagāmiñca maggaṁ. Taṁ suṇātha. Katamañca, bhikkhave, anāsavaṁ …pe….
 
 Saccañca vo, bhikkhave, desessāmi saccagāmiñca maggaṁ. Taṁ suṇātha. Katamañca, bhikkhave, saccaṁ …pe….
 
@@ -206,7 +211,7 @@ Bāttiṁsatimaṁ.
 
 ### 43.44 Parāyanasutta
 
-“Parāyanañca vo, bhikkhave, desessāmi parāyanagāmiñca maggaṁ. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti.
+1\. “Parāyanañca vo, bhikkhave, desessāmi parāyanagāmiñca maggaṁ. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti.
 
 (Yathā asaṅkhataṁ tathā vitthāretabbaṁ.)
 
@@ -216,16 +221,25 @@ Dutiyo vaggo.
 
 Taṁ suṇātha.
 
-Katamañca, bhikkhave, parāyanaṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, parāyanaṁ.
+Katamañca, bhikkhave, parāyanaṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, parāyanaṁ.
 
 Katamo ca, bhikkhave, parāyanagāmī maggo? Kāyagatāsati. Ayaṁ vuccati, bhikkhave, parāyanagāmimaggo.
 
 Iti kho, bhikkhave, desitaṁ vo mayā parāyanaṁ, desito parāyanagāmimaggo. Tassuddānaṁ
 
-> Asaṅkhataṁ anataṁ anāsavaṁ, Saccañca pāraṁ nipuṇaṁ sududdasaṁ; Ajajjaraṁ dhuvaṁ apalokitaṁ, Anidassanaṁ nippapañca santaṁ.
+> 2\. Asaṅkhataṁ anataṁ anāsavaṁ,\
+> Saccañca pāraṁ nipuṇaṁ sududdasaṁ;\
+> Ajajjaraṁ dhuvaṁ apalokitaṁ,\
+> Anidassanaṁ nippapañca santaṁ.
 
-> Amataṁ paṇītañca sivañca khemaṁ, Taṇhākkhayo acchariyañca abbhutaṁ; Anītikaṁ anītikadhammaṁ, Nibbānametaṁ sugatena desitaṁ.
+> 3\. Amataṁ paṇītañca sivañca khemaṁ,\
+> Taṇhākkhayo acchariyañca abbhutaṁ;\
+> Anītikaṁ anītikadhammaṁ,\
+> Nibbānametaṁ sugatena desitaṁ.
 
-> Abyābajjho virāgo ca, suddhi mutti anālayo; Dīpo leṇañca tāṇañca, saraṇañca parāyananti.
+> 4\. Abyābajjho virāgo ca,\
+> suddhi mutti anālayo;\
+> Dīpo leṇañca tāṇañca,\
+> saraṇañca parāyananti.
 
 Asaṅkhatasaṁyuttaṁ samattaṁ.

@@ -1,10 +1,10 @@
-# Kilesasaṁyutta
+# SN 27. Kilesasaṁyutta
 
-## * Saṁyutta Nikāya 27.1
+## Saṁyutta Nikāya 27.1
 
 ### 27.1 Cakkhusutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Paṭhamaṁ.
 
@@ -12,7 +12,7 @@ Paṭhamaṁ.
 
 ### 27.2 Rūpasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Dutiyaṁ.
 
@@ -20,7 +20,7 @@ Dutiyaṁ.
 
 ### 27.3 Viññāṇasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Tatiyaṁ.
 
@@ -28,7 +28,7 @@ Tatiyaṁ.
 
 ### 27.4 Samphassasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Catutthaṁ.
 
@@ -36,7 +36,7 @@ Catutthaṁ.
 
 ### 27.5 Samphassajasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Pañcamaṁ.
 
@@ -44,7 +44,7 @@ Pañcamaṁ.
 
 ### 27.6 Saññāsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Chaṭṭhaṁ.
 
@@ -52,7 +52,7 @@ Chaṭṭhaṁ.
 
 ### 27.7 Sañcetanāsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Sattamaṁ.
 
@@ -60,7 +60,7 @@ Sattamaṁ.
 
 ### 27.8 Taṇhāsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Aṭṭhamaṁ.
 
@@ -68,7 +68,7 @@ Aṭṭhamaṁ.
 
 ### 27.9 Dhātusutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Navamaṁ.
 
@@ -76,7 +76,7 @@ Navamaṁ.
 
 ### 27.10 Khandhasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 “Yo, bhikkhave, rūpasmiṁ chandarāgo, cittasseso upakkileso …pe… yo viññāṇasmiṁ chandarāgo, cittasseso upakkileso. Yato kho, bhikkhave, bhikkhuno imesu pañcasu ṭhānesu cetaso upakkileso pahīno hoti, nekkhammaninnañcassa cittaṁ hoti. Nekkhammaparibhāvitaṁ cittaṁ kammaniyaṁ khāyati, abhiññā sacchikaraṇīyesu dhammesū”ti.
 
@@ -84,8 +84,11 @@ Dasamaṁ.
 
 Kilesavaggo paṭhamo.
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Cakkhu rūpañca viññāṇaṁ, phasso ca vedanāya ca; Saññā ca cetanā taṇhā, dhātu khandhena te dasāti.
+> Cakkhu rūpañca viññāṇaṁ,\
+> phasso ca vedanāya ca;\
+> Saññā ca cetanā taṇhā,\
+> dhātu khandhena te dasāti.
 
 Kilesasaṁyuttaṁ samattaṁ.

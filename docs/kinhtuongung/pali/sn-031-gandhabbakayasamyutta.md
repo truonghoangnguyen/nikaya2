@@ -1,10 +1,10 @@
-# Gandhabbakāyasaṁyutta
+# SN 31. Gandhabbakāyasaṁyutta
 
-## * Saṁyutta Nikāya 31.1
+## Saṁyutta Nikāya 31.1
 
 ### 31.1 Suddhikasutta
 
-Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme …pe… Santi, bhikkhave, papaṭikagandhe adhivatthā devā. Santi, bhikkhave, pattagandhe adhivatthā devā. Santi, bhikkhave, pupphagandhe adhivatthā devā. Santi, bhikkhave, phalagandhe adhivatthā devā. Santi, bhikkhave, rasagandhe adhivatthā devā. Santi, bhikkhave, gandhagandhe adhivatthā devā. Ime vuccanti, bhikkhave, gandhabbakāyikā devā”ti.
+1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme …pe… Santi, bhikkhave, papaṭikagandhe adhivatthā devā. Santi, bhikkhave, pattagandhe adhivatthā devā. Santi, bhikkhave, pupphagandhe adhivatthā devā. Santi, bhikkhave, phalagandhe adhivatthā devā. Santi, bhikkhave, rasagandhe adhivatthā devā. Santi, bhikkhave, gandhagandhe adhivatthā devā. Ime vuccanti, bhikkhave, gandhabbakāyikā devā”ti.
 
 Paṭhamaṁ.
 
@@ -16,7 +16,7 @@ Katamā ca, bhikkhave, gandhabbakāyikā devā? Santi, bhikkhave, mūlagandhe ad
 
 ### 31.2 Sucaritasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā gandhabbakāyikānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
 
@@ -30,7 +30,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 ### 31.3 Mūlagandhadātāsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 So kāyassa bhedā paraṁ maraṇā mūlagandhe adhivatthānaṁ devānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu …pe… yena midhekacco kāyassa bhedā paraṁ maraṇā mūlagandhe adhivatthānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
 
@@ -44,7 +44,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 ### 31.4-12 Sāragandhādidātāsuttanavaka
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 rasagandhe adhivatthānaṁ devānaṁ … gandhagandhe adhivatthānaṁ devānaṁ sahabyataṁ upapajjatī”ti?
 
@@ -58,7 +58,7 @@ pheggugandhe adhivatthānaṁ devānaṁ … tacagandhe adhivatthānaṁ devāna
 
 ### 31.13-22 Mūlagandhadānūpakārasuttadasaka
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pānaṁ deti … vatthaṁ deti … yānaṁ deti … mālaṁ deti … gandhaṁ deti … vilepanaṁ deti … seyyaṁ deti … āvasathaṁ deti … padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā mūlagandhe adhivatthānaṁ devānaṁ sahabyataṁ upapajjati. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -72,7 +72,7 @@ Bāvīsatimaṁ.
 
 ### 31.23-112 Sāragandhādidānūpakārasuttanavutika
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 rasagandhe adhivatthānaṁ devānaṁ … gandhagandhe adhivatthānaṁ devānaṁ sahabyataṁ upapajjatī”ti?
 
@@ -82,10 +82,13 @@ yānaṁ deti … mālaṁ deti … gandhaṁ deti … vilepanaṁ deti … seyy
 
 “ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā sāragandhe adhivatthānaṁ devānaṁ …pe… pheggugandhe adhivatthānaṁ devānaṁ … tacagandhe adhivatthānaṁ devānaṁ … papaṭikagandhe adhivatthānaṁ devānaṁ … pattagandhe adhivatthānaṁ devānaṁ … pupphagandhe adhivatthānaṁ devānaṁ … phalagandhe adhivatthānaṁ devānaṁ … (Evaṁ piṇḍakena ekasatañca dvādasa ca suttantā honti.)
 
-Gandhabbavaggo paṭhamo.
+2\. Gandhabbavaggo paṭhamo.
 
-Tassuddānaṁ
+3\. Tassuddānaṁ
 
-> Suddhikañca sucaritaṁ, dātā hi apare dasa; Dānūpakārā satadhā, gandhabbe suppakāsitāti.
+> Suddhikañca sucaritaṁ,\
+> dātā hi apare dasa;\
+> Dānūpakārā satadhā,\
+> gandhabbe suppakāsitāti.
 
 Gandhabbakāyasaṁyuttaṁ samattaṁ.

@@ -1,14 +1,14 @@
-# Lābhasakkārasaṁyutta
+# SN 17. Lābhasakkārasaṁyutta
 
-## * Saṁyutta Nikāya 17.1
+## Saṁyutta Nikāya 17.1
 
 ### 17.1 Dāruṇasutta
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
-“Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.
+2\. “Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.
 
 Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘uppannaṁ lābhasakkārasilokaṁ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṁ pariyādāya ṭhassatī’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
 
@@ -16,13 +16,13 @@ Paṭhamaṁ.
 
 ### 17.2 Baḷisasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.
 
 Seyyathāpi, bhikkhave, bāḷisiko āmisagataṁ baḷisaṁ gambhīre udakarahade pakkhipeyya. Tamenaṁ aññataro āmisacakkhu maccho gileyya. Evañhi so, bhikkhave, maccho gilabaḷiso bāḷisikassa anayaṁ āpanno byasanaṁ āpanno yathākāmakaraṇīyo bāḷisikassa.
 
-Bāḷisikoti kho, bhikkhave, mārassetaṁ pāpimato adhivacanaṁ. Baḷisanti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ. Yo hi koci, bhikkhave, bhikkhu uppannaṁ lābhasakkārasilokaṁ assādeti nikāmeti, ayaṁ vuccati, bhikkhave, bhikkhu gilabaḷiso mārassa anayaṁ āpanno byasanaṁ āpanno yathākāmakaraṇīyo pāpimato.
+2\. Bāḷisikoti kho, bhikkhave, mārassetaṁ pāpimato adhivacanaṁ. Baḷisanti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ. Yo hi koci, bhikkhave, bhikkhu uppannaṁ lābhasakkārasilokaṁ assādeti nikāmeti, ayaṁ vuccati, bhikkhave, bhikkhu gilabaḷiso mārassa anayaṁ āpanno byasanaṁ āpanno yathākāmakaraṇīyo pāpimato.
 
 Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko kaṭuko pharuso antarāyiko anuttarassa yogakkhemassa adhigamāya.
 
@@ -32,7 +32,7 @@ Dutiyaṁ.
 
 ### 17.3 Kummasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 Disvāna taṁ kummaṁ etadavoca: ‘kacci tvaṁ, tāta kumma, na taṁ padesaṁ agamāsī’ti?
 
@@ -52,11 +52,11 @@ Agamāsi kho, bhikkhave, so kummo taṁ padesaṁ. Tamenaṁ luddo papatāya vij
 
 Atha kho, bhikkhave, so kummo yena so kummo tenupasaṅkami. Addasā kho, bhikkhave, so kummo taṁ kummaṁ dūratova āgacchantaṁ. Luddoti kho, bhikkhave, mārassetaṁ pāpimato adhivacanaṁ.
 
-Papatāti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ.
+2\. Papatāti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ.
 
 Suttakanti kho, bhikkhave, nandīrāgassetaṁ adhivacanaṁ.
 
-Yo hi koci, bhikkhave, bhikkhu uppannaṁ lābhasakkārasilokaṁ assādeti nikāmeti—ayaṁ vuccati, bhikkhave, bhikkhu giddho papatāya anayaṁ āpanno byasanaṁ āpanno yathākāmakaraṇīyo pāpimato.
+Yo hi koci, bhikkhave, bhikkhu uppannaṁ lābhasakkārasilokaṁ assādeti nikāmeti— ayaṁ vuccati, bhikkhave, bhikkhu giddho papatāya anayaṁ āpanno byasanaṁ āpanno yathākāmakaraṇīyo pāpimato.
 
 Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… evañhi vo, bhikkhave, sikkhitabban”ti.
 
@@ -64,7 +64,7 @@ Tatiyaṁ.
 
 ### 17.4 Dīghalomikasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya.
 
@@ -78,7 +78,7 @@ Catutthaṁ.
 
 ### 17.5 Mīḷhakasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 So tena lābhasakkārasilokena abhibhūto pariyādiṇṇacitto aññe pesale bhikkhū atimaññati. Tañhi tassa, bhikkhave, moghapurisassa hoti dīgharattaṁ ahitāya dukkhāya.
 
@@ -94,13 +94,13 @@ Evameva kho, bhikkhave, idhekacco bhikkhu lābhasakkārasilokena abhibhūto pari
 
 ### 17.6 Asanisutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya.
 
 Kaṁ, bhikkhave, asanivicakkaṁ āgacchatu, sekhaṁ appattamānasaṁ lābhasakkārasiloko anupāpuṇātu.
 
-Asanivicakkanti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ.
+2\. Asanivicakkanti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ.
 
 Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… evañhi vo, bhikkhave, sikkhitabban”ti.
 
@@ -108,13 +108,13 @@ Chaṭṭhaṁ.
 
 ### 17.7 Diddhasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya.
 
 Kaṁ, bhikkhave, diddhagatena visallena sallena vijjhatu, sekhaṁ appattamānasaṁ lābhasakkārasiloko anupāpuṇātu.
 
-Sallanti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ.
+2\. Sallanti kho, bhikkhave, lābhasakkārasilokassetaṁ adhivacanaṁ.
 
 Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… evañhi vo, bhikkhave, sikkhitabban”ti.
 
@@ -122,7 +122,7 @@ Sattamaṁ.
 
 ### 17.8 Siṅgālasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 evañhi vo, bhikkhave, sikkhitabban”ti.
 
@@ -142,7 +142,7 @@ Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe…
 
 ### 17.9 Verambhasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 Tassa aññe cīvaraṁ haranti, aññe pattaṁ haranti, aññe nisīdanaṁ haranti, aññe sūcigharaṁ haranti, verambhavātakkhittasseva sakuṇassa.
 
@@ -158,7 +158,7 @@ Evameva kho, bhikkhave, idhekacco bhikkhu lābhasakkārasilokena abhibhūto pari
 
 ### 17.10 Sagāthakasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya.
 
@@ -170,23 +170,32 @@ Idha panāhaṁ, bhikkhave, ekaccaṁ puggalaṁ passāmi sakkārena ca asakkār
 
 Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… evañhi vo, bhikkhave, sikkhitabban”ti.
 
-Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
+2\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> “Yassa sakkariyamānassa, asakkārena cūbhayaṁ; Samādhi na vikampati, appamāṇavihārino.
+> 3\. “Yassa sakkariyamānassa,\
+> asakkārena cūbhayaṁ;\
+> Samādhi na vikampati,\
+> appamāṇavihārino.
 
-> Taṁ jhāyinaṁ sātatikaṁ, sukhumaṁ diṭṭhivipassakaṁ; Upādānakkhayārāmaṁ, āhu sappuriso itī”ti.
+> 4\. Taṁ jhāyinaṁ sātatikaṁ,\
+> sukhumaṁ diṭṭhivipassakaṁ;\
+> Upādānakkhayārāmaṁ,\
+> āhu sappuriso itī”ti.
 
 Dasamaṁ.
 
 Paṭhamo vaggo.
 
-Tassuddānaṁ
+5\. Tassuddānaṁ
 
-> Dāruṇo baḷisaṁ kummaṁ, dīghalomi ca mīḷhakaṁ; Asani diddhaṁ siṅgālaṁ, verambhena sagāthakanti.
+> Dāruṇo baḷisaṁ kummaṁ,\
+> dīghalomi ca mīḷhakaṁ;\
+> Asani diddhaṁ siṅgālaṁ,\
+> verambhena sagāthakanti.
 
 ### 17.11 Suvaṇṇapātisutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe… adhigamāya.
 
@@ -198,7 +207,7 @@ Paṭhamaṁ.
 
 ### 17.12 Rūpiyapātisutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe…
 
@@ -210,7 +219,7 @@ Dutiyaṁ.
 
 ### 17.13-20 Suvaṇṇanikkhasuttādiaṭṭhaka
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 janapadakalyāṇiyāpi hetu sampajānamusā bhāseyyā’ti. Tamenaṁ passāmi aparena samayena lābhasakkārasilokena abhibhūtaṁ pariyādiṇṇacittaṁ sampajānamusā bhāsantaṁ.
 
@@ -234,13 +243,16 @@ pathaviyāpi jātarūpaparipūrāya hetu …
 
 jīvitahetupi …
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Dve pāti dve suvaṇṇā ca, Siṅgīhi apare duve; Pathavī kiñcikkhajīvitaṁ, Janapadakalyāṇiyā dasāti.
+> Dve pāti dve suvaṇṇā ca,\
+> Siṅgīhi apare duve;\
+> Pathavī kiñcikkhajīvitaṁ,\
+> Janapadakalyāṇiyā dasāti.
 
 ### 17.21 Mātugāmasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe…
 
@@ -252,7 +264,7 @@ Paṭhamaṁ.
 
 ### 17.22 Kalyāṇīsutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko …pe…
 
@@ -264,7 +276,7 @@ Dutiyaṁ.
 
 ### 17.23 Ekaputtakasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 Tañce, bhikkhave, bhikkhuṁ sekhaṁ appattamānasaṁ lābhasakkārasiloko anupāpuṇāti, so tassa hoti antarāyāya.
 
@@ -286,7 +298,7 @@ Mā ca kho tvaṁ, tāta, sekhaṁ appattamānasaṁ lābhasakkārasiloko anupā
 
 ### 17.24 Ekadhītusutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 Tañce, bhikkhave, bhikkhuniṁ sekhaṁ appattamānasaṁ lābhasakkārasiloko anupāpuṇāti, so tassā hoti antarāyāya.
 
@@ -308,7 +320,7 @@ Mā ca kho tvaṁ, ayye, sekhaṁ appattamānasaṁ lābhasakkārasiloko anupāp
 
 ### 17.25 Samaṇabrāhmaṇasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā lābhasakkārasilokassa assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca pana te āyasmantā sāmaññatthaṁ vā brahmaññatthaṁ vā diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti.
 
@@ -318,7 +330,7 @@ Pañcamaṁ.
 
 ### 17.26 Dutiyasamaṇabrāhmaṇasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā lābhasakkārasilokassa samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānanti …pe…
 
@@ -328,7 +340,7 @@ Chaṭṭhaṁ.
 
 ### 17.27 Tatiyasamaṇabrāhmaṇasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā lābhasakkārasilokaṁ yathābhūtaṁ nappajānanti, lābhasakkārasilokasamudayaṁ nappajānanti, lābhasakkārasilokanirodhaṁ nappajānanti, lābhasakkārasilokanirodhagāminiṁ paṭipadaṁ nappajānanti …pe…
 
@@ -338,7 +350,7 @@ Sattamaṁ.
 
 ### 17.28 Chavisutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko.
 
@@ -350,13 +362,13 @@ Aṭṭhamaṁ.
 
 ### 17.29 Rajjusutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko.
 
 Lābhasakkārasiloko, bhikkhave, chaviṁ chindati, chaviṁ chetvā cammaṁ chindati, cammaṁ chetvā maṁsaṁ chindati, maṁsaṁ chetvā nhāruṁ chindati, nhāruṁ chetvā aṭṭhiṁ chindati, aṭṭhiṁ chetvā aṭṭhimiñjaṁ āhacca tiṭṭhati.
 
-Seyyathāpi, bhikkhave, balavā puriso daḷhāya vāḷarajjuyā jaṅghaṁ veṭhetvā ghaṁseyya. Sā chaviṁ chindeyya, chaviṁ chetvā cammaṁ chindeyya, cammaṁ chetvā maṁsaṁ chindeyya, maṁsaṁ chetvā nhāruṁ chindeyya, nhāruṁ chetvā aṭṭhiṁ chindeyya, aṭṭhiṁ chetvā aṭṭhimiñjaṁ āhacca tiṭṭheyya.
+2\. Seyyathāpi, bhikkhave, balavā puriso daḷhāya vāḷarajjuyā jaṅghaṁ veṭhetvā ghaṁseyya. Sā chaviṁ chindeyya, chaviṁ chetvā cammaṁ chindeyya, cammaṁ chetvā maṁsaṁ chindeyya, maṁsaṁ chetvā nhāruṁ chindeyya, nhāruṁ chetvā aṭṭhiṁ chindeyya, aṭṭhiṁ chetvā aṭṭhimiñjaṁ āhacca tiṭṭheyya.
 
 Evameva kho, bhikkhave, lābhasakkārasiloko chaviṁ chindati, chaviṁ chetvā cammaṁ chindati, cammaṁ chetvā maṁsaṁ chindati, maṁsaṁ chetvā nhāruṁ chindati, nhāruṁ chetvā aṭṭhiṁ chindati, aṭṭhiṁ chetvā aṭṭhimiñjaṁ āhacca tiṭṭhati.
 
@@ -366,7 +378,7 @@ Navamaṁ.
 
 ### 17.30 Bhikkhusutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 Evañhi vo, ānanda, sikkhitabban”ti.
 
@@ -384,11 +396,14 @@ Evaṁ dāruṇo kho, ānanda, lābhasakkārasiloko kaṭuko pharuso antarāyiko
 
 Tasmātihānanda, evaṁ sikkhitabbaṁ: ‘uppannaṁ lābhasakkārasilokaṁ pajahissāma, na ca no uppanno lābhasakkārasiloko cittaṁ pariyādāya ṭhassatī’ti. Tassuddānaṁ
 
-> Mātugāmo ca kalyāṇī, putto ca ekadhītu ca; Samaṇabrāhmaṇā tīṇi, chavi rajju ca bhikkhunāti.
+> 2\. Mātugāmo ca kalyāṇī,\
+> putto ca ekadhītu ca;\
+> Samaṇabrāhmaṇā tīṇi,\
+> chavi rajju ca bhikkhunāti.
 
 ### 17.31 Bhindisutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko.
 
@@ -400,7 +415,7 @@ Paṭhamaṁ.
 
 ### 17.32 Kusalamūlasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko.
 
@@ -412,7 +427,7 @@ Dutiyaṁ.
 
 ### 17.33 Kusaladhammasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko.
 
@@ -424,7 +439,7 @@ Tatiyaṁ.
 
 ### 17.34 Sukkadhammasutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Dāruṇo, bhikkhave, lābhasakkārasiloko.
 
@@ -436,25 +451,28 @@ Catutthaṁ.
 
 ### 17.35 Acirapakkantasutta
 
-Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate acirapakkante devadatte. Tatra kho bhagavā devadattaṁ ārabbha bhikkhū āmantesi:
+1\. Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate acirapakkante devadatte. Tatra kho bhagavā devadattaṁ ārabbha bhikkhū āmantesi:
 
 “attavadhāya, bhikkhave, devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
 
-Seyyathāpi, bhikkhave, kadalī attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi. Seyyathāpi, bhikkhave, veḷu attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi. Seyyathāpi, bhikkhave, naḷo attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
+2\. Seyyathāpi, bhikkhave, kadalī attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi. Seyyathāpi, bhikkhave, veḷu attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi. Seyyathāpi, bhikkhave, naḷo attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
 
-Seyyathāpi, bhikkhave, assatarī attavadhāya gabbhaṁ gaṇhāti, parābhavāya gabbhaṁ gaṇhāti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
+5\. Seyyathāpi, bhikkhave, assatarī attavadhāya gabbhaṁ gaṇhāti, parābhavāya gabbhaṁ gaṇhāti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
 
 Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko. Evañhi vo, bhikkhave, sikkhitabban”ti.
 
-Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
+6\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> “Phalaṁ ve kadaliṁ hanti, phalaṁ veḷuṁ phalaṁ naḷaṁ; Sakkāro kāpurisaṁ hanti, gabbho assatariṁ yathā”ti.
+> 7\. “Phalaṁ ve kadaliṁ hanti,\
+> phalaṁ veḷuṁ phalaṁ naḷaṁ;\
+> Sakkāro kāpurisaṁ hanti,\
+> gabbho assatariṁ yathā”ti.
 
 Pañcamaṁ.
 
 ### 17.36 Pañcarathasatasutta
 
-Rājagahe viharati veḷuvane kalandakanivāpe.
+1\. Rājagahe viharati veḷuvane kalandakanivāpe.
 
 Tena kho pana samayena devadattassa ajātasattukumāro pañcahi rathasatehi sāyaṁ pātaṁ upaṭṭhānaṁ gacchati, pañca ca thālipākasatāni bhattābhihāro abhiharīyati.
 
@@ -462,7 +480,7 @@ Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitv�
 
 “Mā, bhikkhave, devadattassa lābhasakkārasilokaṁ pihayittha. Yāvakīvañca, bhikkhave, devadattassa ajātasattukumāro pañcahi rathasatehi sāyaṁ pātaṁ upaṭṭhānaṁ gamissati, pañca ca thālipākasatāni bhattābhihāro āharīyissati, hāniyeva, bhikkhave, devadattassa pāṭikaṅkhā kusalesu dhammesu, no vuddhi.
 
-Seyyathāpi, bhikkhave, caṇḍassa kukkurassa nāsāya pittaṁ bhindeyyuṁ, evañhi so, bhikkhave, kukkuro bhiyyoso mattāya caṇḍataro assa; evameva, bhikkhave, yāvakīvañca devadattassa ajātasattukumāro pañcahi rathasatehi sāyaṁ pātaṁ upaṭṭhānaṁ gamissati, pañca ca thālipākasatāni bhattābhihāro āharīyissati, hāniyeva, bhikkhave, devadattassa pāṭikaṅkhā kusalesu dhammesu, no vuddhi.
+2\. Seyyathāpi, bhikkhave, caṇḍassa kukkurassa nāsāya pittaṁ bhindeyyuṁ, evañhi so, bhikkhave, kukkuro bhiyyoso mattāya caṇḍataro assa; evameva, bhikkhave, yāvakīvañca devadattassa ajātasattukumāro pañcahi rathasatehi sāyaṁ pātaṁ upaṭṭhānaṁ gamissati, pañca ca thālipākasatāni bhattābhihāro āharīyissati, hāniyeva, bhikkhave, devadattassa pāṭikaṅkhā kusalesu dhammesu, no vuddhi.
 
 Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… evañhi vo, bhikkhave, sikkhitabban”ti.
 
@@ -470,7 +488,7 @@ Chaṭṭhaṁ.
 
 ### 17.37 Mātusutta
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 Evañhi vo, bhikkhave, sikkhitabban”ti.
 
@@ -484,7 +502,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘uppannaṁ lābhasakkārasiloka
 
 ### 17.38-43 Pitusuttādichakka
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 pajāpatiyāpi hetu sampajānamusā bhāseyyā’ti. Tamenaṁ passāmi aparena samayena lābhasakkārasilokena abhibhūtaṁ pariyādiṇṇacittaṁ sampajānamusā bhāsantaṁ.
 
@@ -508,8 +526,11 @@ puttassapi hetu …
 
 dhītuyāpi hetu …
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Bhindi mūlaṁ duve dhammā, pakkantaṁ ratha mātari; Pitā bhātā ca bhaginī, putto dhītā pajāpatīti.
+> Bhindi mūlaṁ duve dhammā,\
+> pakkantaṁ ratha mātari;\
+> Pitā bhātā ca bhaginī,\
+> putto dhītā pajāpatīti.
 
 Lābhasakkārasaṁyuttaṁ samattaṁ.

@@ -1,10 +1,10 @@
-# Jhānasaṁyutta
+# SN 34. Jhānasaṁyutta
 
-## * Saṁyutta Nikāya 34.1
+## Saṁyutta Nikāya 34.1
 
 ### 34.1 Samādhimūlakasamāpattisutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ samāpattikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
 
@@ -26,7 +26,7 @@ Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanīta�
 
 ### 34.2 Samādhimūlakaṭhitisutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ ṭhitikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
 
@@ -48,7 +48,7 @@ Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanīta�
 
 ### 34.3 Samādhimūlakavuṭṭhānasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -60,7 +60,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhis
 
 ### 34.4 Samādhimūlakakallitasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -72,7 +72,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhis
 
 ### 34.5 Samādhimūlakaārammaṇasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -84,7 +84,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhis
 
 ### 34.6 Samādhimūlakagocarasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -96,7 +96,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhis
 
 ### 34.7 Samādhimūlakaabhinīhārasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -108,7 +108,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhis
 
 ### 34.8 Samādhimūlakasakkaccakārīsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -120,7 +120,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhis
 
 ### 34.9 Samādhimūlakasātaccakārīsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -132,7 +132,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhis
 
 ### 34.10 Samādhimūlakasappāyakārīsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -146,7 +146,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhis
 
 ### 34.11 Samāpattimūlakaṭhitisutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pavaro cā”ti.
 
@@ -158,7 +158,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.12 Samāpattimūlakavuṭṭhānasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Dvādasamaṁ.
 
@@ -168,7 +168,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.13 Samāpattimūlakakallitasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Terasamaṁ.
 
@@ -178,7 +178,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.14 Samāpattimūlakaārammaṇasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Cuddasamaṁ.
 
@@ -188,7 +188,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.15 Samāpattimūlakagocarasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Pannarasamaṁ.
 
@@ -198,7 +198,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.16 Samāpattimūlakaabhinīhārasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Soḷasamaṁ.
 
@@ -208,7 +208,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.17 Samāpattimūlakasakkaccasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Sattarasamaṁ.
 
@@ -218,7 +218,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.18 Samāpattimūlakasātaccasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Aṭṭhārasamaṁ.
 
@@ -228,7 +228,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.19 Samāpattimūlakasappāyakārīsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
 
@@ -242,7 +242,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādh
 
 ### 34.20-27 Ṭhitimūlakavuṭṭhānasuttādiaṭṭhaka
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Vīsatimaṁ.
 
@@ -256,7 +256,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo hoti, na samādhism
 
 ### 34.28-34 Vuṭṭhānamūlakakallitasuttādisattaka
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Aṭṭhavīsatimaṁ.
 
@@ -270,7 +270,7 @@ Idha, bhikkhave, ekacco jhāyī samādhismiṁ vuṭṭhānakusalo hoti, na sam�
 
 ### 34.35-40 Kallitamūlakaārammaṇasuttādichakka
 
-Sāvatthinidānaṁ …
+1\. Sāvatthinidānaṁ …
 
 (Kallitamūlakaṁ.)
 
@@ -282,7 +282,7 @@ Pañcatiṁsatimaṁ.
 
 ### 34.41-45 Ārammaṇamūlakagocarasuttādipañcaka
 
-Sāvatthinidānaṁ …
+1\. Sāvatthinidānaṁ …
 
 (Ārammaṇamūlakaṁ.)
 
@@ -294,7 +294,7 @@ Ekacattālīsamaṁ.
 
 ### 34.46-49 
 
-Sāvatthinidānaṁ …
+1\. Sāvatthinidānaṁ …
 
 “samādhismiṁ gocarakusalo hoti, na samādhismiṁ abhinīhārakusalo … samādhismiṁ abhinīhārakusalo hoti, na samādhismiṁ gocarakusalo … neva samādhismiṁ gocarakusalo hoti, na ca samādhismiṁ abhinīhārakusalo … samādhismiṁ gocarakusalo ca hoti, samādhismiṁ abhinīhārakusalo ca … seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati; evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ gocarakusalo ca hoti samādhismiṁ abhinīhārakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ …pe… uttamo ca pavaro cā”ti.
 
@@ -318,7 +318,7 @@ Ekūnapaññāsamaṁ.
 
 ### 34.50-52 
 
-Sāvatthinidānaṁ …
+1\. Sāvatthinidānaṁ …
 
 “samādhismiṁ abhinīhārakusalo hoti, na samādhismiṁ sakkaccakārī … samādhismiṁ sakkaccakārī hoti, na samādhismiṁ abhinīhārakusalo … neva samādhismiṁ abhinīhārakusalo hoti, na ca samādhismiṁ sakkaccakārī … samādhismiṁ abhinīhārakusalo ca hoti, samādhismiṁ sakkaccakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī …pe… uttamo ca pavaro cā”ti.
 
@@ -336,7 +336,7 @@ Dvepaññāsamaṁ.
 
 ### 34.53-54 
 
-Sāvatthinidānaṁ …
+1\. Sāvatthinidānaṁ …
 
 “samādhismiṁ sakkaccakārī hoti, na samādhismiṁ sātaccakārī … samādhismiṁ sātaccakārī hoti, na samādhismiṁ sakkaccakārī … neva samādhismiṁ sakkaccakārī hoti, na ca samādhismiṁ sātaccakārī … samādhismiṁ sakkaccakārī ca hoti, samādhismiṁ sātaccakārī ca. Tatra, bhikkhave, yvāyaṁ …pe… uttamo ca pavaro cā”ti.
 
@@ -348,7 +348,7 @@ Catupaññāsamaṁ.
 
 ### 34.55 Sātaccamūlakasappāyakārīsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ sātaccakārī ca hoti, samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
 
@@ -374,14 +374,22 @@ Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ sātaccakārī ca hoti samād
 
 Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati;
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Samādhi samāpatti ṭhiti ca, Vuṭṭhānaṁ kallitārammaṇena ca; Gocarā abhinīhāro sakkacca, Sātacca athopi sappāyanti.
+> Samādhi samāpatti ṭhiti ca,\
+> Vuṭṭhānaṁ kallitārammaṇena ca;\
+> Gocarā abhinīhāro sakkacca,\
+> Sātacca athopi sappāyanti.
 
 Jhānasaṁyuttaṁ samattaṁ.
 
-Tassuddānaṁ
+3\. Tassuddānaṁ
 
-> Khandha rādhasaṁyuttañca, diṭṭhiokkanta uppādā; Kilesa sāriputtā ca, nāgā supaṇṇa gandhabbā; Valāha vacchajhānanti, khandhavaggamhi terasāti.
+> Khandha rādhasaṁyuttañca,\
+> diṭṭhiokkanta uppādā;\
+> Kilesa sāriputtā ca,\
+> nāgā supaṇṇa gandhabbā;\
+> Valāha vacchajhānanti,\
+> khandhavaggamhi terasāti.
 
 Khandhavaggasaṁyuttapāḷi niṭṭhitā.

@@ -1,18 +1,18 @@
-# Supaṇṇasaṁyutta
+# SN 30. Supaṇṇasaṁyutta
 
-## * Saṁyutta Nikāya 30.1
+## Saṁyutta Nikāya 30.1
 
 ### 30.1 Suddhikasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
-“Catasso imā, bhikkhave, supaṇṇayoniyo. Katamā catasso? Aṇḍajā supaṇṇā, jalābujā supaṇṇā, saṁsedajā supaṇṇā, opapātikā supaṇṇā—imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.
+“Catasso imā, bhikkhave, supaṇṇayoniyo. Katamā catasso? Aṇḍajā supaṇṇā, jalābujā supaṇṇā, saṁsedajā supaṇṇā, opapātikā supaṇṇā— imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.
 
 Paṭhamaṁ.
 
 ### 30.2 Harantisutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.
 
@@ -22,7 +22,7 @@ Dutiyaṁ.
 
 ### 30.3 Dvayakārīsutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti.
 
@@ -36,7 +36,7 @@ Aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ
 
 ### 30.4-6 Dutiyādidvayakārīsuttattika
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjeyyan’ti. So kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti.
 
@@ -50,7 +50,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 ### 30.7-16 Aṇḍajadānūpakārasuttadasaka
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 pānaṁ deti … vatthaṁ deti … yānaṁ deti … mālaṁ deti … gandhaṁ deti … vilepanaṁ deti … seyyaṁ deti … āvasathaṁ deti … padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ supaṇṇānaṁ sahabyataṁ upapajjati. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -64,7 +64,7 @@ Soḷasamaṁ.
 
 ### 30.17-46 Jalābujadānūpakārasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti …pe… pānaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā opapātikānaṁ supaṇṇānaṁ sahabyataṁ upapajjatī”ti.
 
@@ -80,6 +80,9 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī. Tassa sutaṁ hoti: ‘opapātikā supaṇṇā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: Tassuddānaṁ
 
-> Suddhikaṁ haranti ceva, dvayakārī ca caturo; Dānūpakārā tālīsaṁ, supaṇṇe suppakāsitāti.
+> 2\. Suddhikaṁ haranti ceva,\
+> dvayakārī ca caturo;\
+> Dānūpakārā tālīsaṁ,\
+> supaṇṇe suppakāsitāti.
 
 Supaṇṇasaṁyuttaṁ samattaṁ.

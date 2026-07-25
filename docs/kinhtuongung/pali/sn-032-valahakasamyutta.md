@@ -1,10 +1,10 @@
-# Valāhakasaṁyutta
+# SN 32. Valāhakasaṁyutta
 
-## * Saṁyutta Nikāya 32.1
+## Saṁyutta Nikāya 32.1
 
 ### 32.1 Suddhikasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 ime vuccanti, bhikkhave, ‘valāhakakāyikā devā’”ti.
 
@@ -16,7 +16,7 @@ Katame ca, bhikkhave, valāhakakāyikā devā? Santi, bhikkhave, sītavalāhakā
 
 ### 32.2 Sucaritasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā valāhakakāyikānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
 
@@ -30,7 +30,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 ### 32.3-12 Sītavalāhakadānūpakārasuttadasaka
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
 
@@ -44,7 +44,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 ### 32.13-52 Uṇhavalāhakadānūpakārasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
 
@@ -58,7 +58,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 ### 32.53 Sītavalāhakasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -70,7 +70,7 @@ Tepaññāsamaṁ.
 
 ### 32.54 Uṇhavalāhakasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -82,7 +82,7 @@ Catupaññāsamaṁ.
 
 ### 32.55 Abbhavalāhakasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -94,7 +94,7 @@ Pañcapaññāsamaṁ.
 
 ### 32.56 Vātavalāhakasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -104,7 +104,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 ### 32.57 Vassavalāhakasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Valāhakavaggo paṭhamo.
 
@@ -118,8 +118,11 @@ Sattapaññāsamaṁ.
 
 Sattapaññāsasuttantaṁ niṭṭhitaṁ.
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Suddhikaṁ sucaritañca, dānūpakārapaññāsaṁ; Sītaṁ uṇhañca abbhañca, vātavassavalāhakāti.
+> Suddhikaṁ sucaritañca,\
+> dānūpakārapaññāsaṁ;\
+> Sītaṁ uṇhañca abbhañca,\
+> vātavassavalāhakāti.
 
 Valāhakasaṁyuttaṁ samattaṁ.

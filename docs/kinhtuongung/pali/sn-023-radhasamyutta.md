@@ -1,20 +1,20 @@
-# Rādhasaṁyutta
+# SN 23. Rādhasaṁyutta
 
-## * Saṁyutta Nikāya 23.1
+## Saṁyutta Nikāya 23.1
 
 ### 23.1 Mārasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Atha kho āyasmā rādho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
-“‘Māro, māro’ti, bhante, vuccati. Tasmātiha tvaṁ, rādha, viññāṇaṁ māroti passa, māretāti passa, mīyatīti passa, rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, aghabhūtanti passa. Ye naṁ evaṁ passanti, te sammā passantī”ti.
+2\. “‘Māro, māro’ti, bhante, vuccati. Tasmātiha tvaṁ, rādha, viññāṇaṁ māroti passa, māretāti passa, mīyatīti passa, rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, aghabhūtanti passa. Ye naṁ evaṁ passanti, te sammā passantī”ti.
 
 Kittāvatā nu kho, bhante, māro”ti?
 
 “Rūpe kho, rādha, sati māro vā assa māretā vā yo vā pana mīyati. Tasmātiha tvaṁ, rādha, rūpaṁ māroti passa, māretāti passa, mīyatīti passa, rogoti passa, gaṇḍoti passa, sallanti passa, aghanti passa, aghabhūtanti passa. Ye naṁ evaṁ passanti te sammā passanti. Vedanāya sati … saññāya sati … saṅkhāresu sati … viññāṇe sati māro vā assa māretā vā yo vā pana mīyati. “Sammādassanaṁ pana, bhante, kimatthiyan”ti?
 
-“Accayāsi, rādha, pañhaṁ, nāsakkhi pañhassa pariyantaṁ gahetuṁ. Nibbānogadhañhi, rādha, brahmacariyaṁ vussati, nibbānaparāyanaṁ nibbānapariyosānan”ti.
+3\. “Accayāsi, rādha, pañhaṁ, nāsakkhi pañhassa pariyantaṁ gahetuṁ. Nibbānogadhañhi, rādha, brahmacariyaṁ vussati, nibbānaparāyanaṁ nibbānapariyosānan”ti.
 
 Paṭhamaṁ.
 
@@ -36,7 +36,7 @@ Paṭhamaṁ.
 
 ### 23.2 Sattasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -44,7 +44,7 @@ Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
 “Rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā, tatra satto, tatra visatto, tasmā sattoti vuccati. Vedanāya … saññāya … saṅkhāresu … viññāṇe yo chando yo rāgo yā nandī yā taṇhā, tatra satto, tatra visatto, tasmā sattoti vuccati.
 
-Seyyathāpi, rādha, kumārakā vā kumārikāyo vā paṁsvāgārakehi kīḷanti. Dutiyaṁ.
+2\. Seyyathāpi, rādha, kumārakā vā kumārikāyo vā paṁsvāgārakehi kīḷanti. Dutiyaṁ.
 
 Yāvakīvañca tesu paṁsvāgārakesu avigatarāgā honti avigatacchandā avigatapemā avigatapipāsā avigatapariḷāhā avigatataṇhā, tāva tāni paṁsvāgārakāni allīyanti keḷāyanti dhanāyanti mamāyanti. Yato ca kho, rādha, kumārakā vā kumārikāyo vā tesu paṁsvāgārakesu vigatarāgā honti vigatacchandā vigatapemā vigatapipāsā vigatapariḷāhā vigatataṇhā, atha kho tāni paṁsvāgārakāni hatthehi ca pādehi ca vikiranti vidhamanti viddhaṁsenti vikīḷaniyaṁ karonti.
 
@@ -52,9 +52,9 @@ Evameva kho, rādha, tumhepi rūpaṁ vikiratha vidhamatha viddhaṁsetha vikī�
 
 ### 23.3 Bhavanettisutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
-saṅkhāresu … viññāṇe yo chando …pe… adhiṭṭhānābhinivesānusayā—ayaṁ vuccati bhavanetti. Tesaṁ nirodho bhavanettinirodho”ti.
+saṅkhāresu … viññāṇe yo chando …pe… adhiṭṭhānābhinivesānusayā— ayaṁ vuccati bhavanetti. Tesaṁ nirodho bhavanettinirodho”ti.
 
 Tatiyaṁ.
 
@@ -62,19 +62,19 @@ Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
 “‘bhavanettinirodho, bhavanettinirodho’ti, bhante, vuccati. Katamā nu kho, bhante, bhavanetti, katamo bhavanettinirodho”ti?
 
-“Rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā—ayaṁ vuccati bhavanetti. Tesaṁ nirodho bhavanettinirodho.
+“Rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā— ayaṁ vuccati bhavanetti. Tesaṁ nirodho bhavanettinirodho.
 
 Vedanāya … saññāya …
 
 ### 23.4 Pariññeyyasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Āyasmā rādho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
-“Pariññeyye ca, rādha, dhamme desessāmi pariññañca pariññātāviṁ puggalañca. ayaṁ vuccati, rādha, pariññā.
+2\. “Pariññeyye ca, rādha, dhamme desessāmi pariññañca pariññātāviṁ puggalañca. ayaṁ vuccati, rādha, pariññā.
 
-Katamo ca, rādha, pariññātāvī puggalo? ‘Arahā’tissa vacanīyaṁ. Yvāyaṁ āyasmā evaṁnāmo evaṅgotto—ayaṁ vuccati, rādha, pariññātāvī puggalo”ti.
+Katamo ca, rādha, pariññātāvī puggalo? ‘Arahā’tissa vacanīyaṁ. Yvāyaṁ āyasmā evaṁnāmo evaṅgotto— ayaṁ vuccati, rādha, pariññātāvī puggalo”ti.
 
 Catutthaṁ.
 
@@ -88,7 +88,7 @@ Katamā ca, rādha, pariññā? Yo kho, rādha, rāgakkhayo dosakkhayo mohakkhay
 
 ### 23.5 Samaṇasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Pañcamaṁ.
 
@@ -102,7 +102,7 @@ Ye ca kho keci, rādha, samaṇā vā brāhmaṇā vā imesaṁ pañcannaṁ up�
 
 ### 23.6 Dutiyasamaṇasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
@@ -116,27 +116,27 @@ Chaṭṭhaṁ.
 
 ### 23.7 Sotāpannasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
-“pañcime, rādha, upādānakkhandhā. Katame pañca? Rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Yato kho, rādha, ariyasāvako imesaṁ pañcannaṁ upādānakkhandhānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti—ayaṁ vuccati, rādha, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+“pañcime, rādha, upādānakkhandhā. Katame pañca? Rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Yato kho, rādha, ariyasāvako imesaṁ pañcannaṁ upādānakkhandhānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti— ayaṁ vuccati, rādha, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 Sattamaṁ.
 
 ### 23.8 Arahantasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
-“pañcime, rādha, upādānakkhandhā. Katame pañca? Rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Yato kho, rādha, bhikkhu imesaṁ pañcannaṁ upādānakkhandhānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti—ayaṁ vuccati, rādha, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto”ti.
+“pañcime, rādha, upādānakkhandhā. Katame pañca? Rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Yato kho, rādha, bhikkhu imesaṁ pañcannaṁ upādānakkhandhānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti— ayaṁ vuccati, rādha, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto”ti.
 
 Aṭṭhamaṁ.
 
 ### 23.9 Chandarāgasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Viññāṇe yo chando yo rāgo yā nandī yā taṇhā, taṁ pajahatha. Evaṁ taṁ viññāṇaṁ pahīnaṁ bhavissati …pe… anuppādadhamman”ti.
 
@@ -150,7 +150,7 @@ Vedanāya yo chando yo rāgo yā nandī yā taṇhā, taṁ pajahatha. Evaṁ s�
 
 ### 23.10 Dutiyachandarāgasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Viññāṇe yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, te pajahatha. Evaṁ taṁ viññāṇaṁ pahīnaṁ bhavissati ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhamman”ti.
 
@@ -164,11 +164,14 @@ Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
 Vedanāya yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, te pajahatha. Evaṁ sā vedanā pahīnā bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Saññāya … saṅkhāresu yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā, te pajahatha. Evaṁ te saṅkhārā pahīnā bhavissanti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Tassuddānaṁ
 
-> Māro satto bhavanetti, pariññeyyā samaṇā duve; Sotāpanno arahā ca, chandarāgāpare duveti.
+> 2\. Māro satto bhavanetti,\
+> pariññeyyā samaṇā duve;\
+> Sotāpanno arahā ca,\
+> chandarāgāpare duveti.
 
 ### 23.11 Mārasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -184,7 +187,7 @@ Paṭhamaṁ.
 
 ### 23.12 Māradhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -198,7 +201,7 @@ Dutiyaṁ.
 
 ### 23.13 Aniccasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -212,7 +215,7 @@ Tatiyaṁ.
 
 ### 23.14 Aniccadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -226,7 +229,7 @@ Catutthaṁ.
 
 ### 23.15 Dukkhasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -240,7 +243,7 @@ Pañcamaṁ.
 
 ### 23.16 Dukkhadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -254,7 +257,7 @@ Chaṭṭhaṁ.
 
 ### 23.17 Anattasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -268,7 +271,7 @@ Sattamaṁ.
 
 ### 23.18 Anattadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -282,7 +285,7 @@ Aṭṭhamaṁ.
 
 ### 23.19 Khayadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -296,7 +299,7 @@ Navamaṁ.
 
 ### 23.20 Vayadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -310,7 +313,7 @@ Dasamaṁ.
 
 ### 23.21 Samudayadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -324,7 +327,7 @@ Ekādasamaṁ.
 
 ### 23.22 Nirodhadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
@@ -338,19 +341,24 @@ Dvādasamaṁ.
 
 Dutiyamāravaggo.
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Māro ca māradhammo ca, Aniccena apare duve; Dukkhena ca duve vuttā, Anattena tatheva ca; Khayavayasamudayaṁ, Nirodhadhammena dvādasāti.
+> Māro ca māradhammo ca,\
+> Aniccena apare duve;\
+> Dukkhena ca duve vuttā,\
+> Anattena tatheva ca;\
+> Khayavayasamudayaṁ,\
+> Nirodhadhammena dvādasāti.
 
 ### 23.23-33 
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
 “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
 
-“Yo kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. Ko ca, rādha, māro? Rūpaṁ kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo.
+2\. “Yo kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. Ko ca, rādha, māro? Rūpaṁ kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo.
 
 Vedanā māro; tatra te chando pahātabbo …pe…
 
@@ -360,7 +368,7 @@ saṅkhārā māro; tatra te chando pahātabbo …pe…
 
 viññāṇaṁ māro; tatra te chando pahātabbo …pe… yo kho, rādha, māro; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo”ti.
 
-“Yo kho, rādha, māradhammo; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo …pe….
+1\. “Yo kho, rādha, māradhammo; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo …pe….
 
 “Yaṁ kho, rādha, aniccaṁ …pe….
 
@@ -382,13 +390,13 @@ viññāṇaṁ māro; tatra te chando pahātabbo …pe… yo kho, rādha, māro
 
 ### 23.34 Nirodhadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Āyasmā rādho bhagavantaṁ etadavoca:
 
 “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
 
-“Yo kho, rādha, nirodhadhammo; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. Ko ca, rādha, nirodhadhammo? Rūpaṁ kho, rādha, nirodhadhammo; tatra te chando pahātabbo …pe…
+2\. “Yo kho, rādha, nirodhadhammo; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. Ko ca, rādha, nirodhadhammo? Rūpaṁ kho, rādha, nirodhadhammo; tatra te chando pahātabbo …pe…
 
 vedanā nirodhadhammo; tatra te chando pahātabbo …pe…
 
@@ -400,13 +408,18 @@ viññāṇaṁ nirodhadhammo; tatra te chando pahātabbo …pe… yo kho, rādh
 
 Āyācanavaggo tatiyo.
 
-Tassuddānaṁ
+3\. Tassuddānaṁ
 
-> Māro ca māradhammo ca, Aniccena apare duve; Dukkhena ca duve vuttā, Anattena tatheva ca; Khayavayasamudayaṁ, Nirodhadhammena dvādasāti.
+> Māro ca māradhammo ca,\
+> Aniccena apare duve;\
+> Dukkhena ca duve vuttā,\
+> Anattena tatheva ca;\
+> Khayavayasamudayaṁ,\
+> Nirodhadhammena dvādasāti.
 
 ### 23.35-45 
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
@@ -436,7 +449,7 @@ viññāṇaṁ māro; tatra te chando pahātabbo …pe… yo kho, rādha, māro
 
 ### 23.46 Nirodhadhammasutta
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Yo kho, rādha, nirodhadhammo; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo”ti.
 
@@ -454,6 +467,11 @@ saṅkhārā …pe…
 
 viññāṇaṁ nirodhadhammo; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo. Tassuddānaṁ
 
-> Māro ca māradhammo ca, Aniccena apare duve; Dukkhena ca duve vuttā, Anattena tatheva ca; Khayavayasamudayaṁ, Nirodhadhammena dvādasāti.
+> 2\. Māro ca māradhammo ca,\
+> Aniccena apare duve;\
+> Dukkhena ca duve vuttā,\
+> Anattena tatheva ca;\
+> Khayavayasamudayaṁ,\
+> Nirodhadhammena dvādasāti.
 
 Rādhasaṁyuttaṁ samattaṁ.
