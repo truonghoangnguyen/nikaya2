@@ -1,6 +1,5 @@
-# 74. KINH TRƯỜNG TRẢO
+# MN 74. KINH TRƯỜNG TRẢO
 
-**74. KINH TRƯỜNG TRẢO**
 ***(Dìghanakha Sutta)***
 
 **Như vầy tôi nghe.**

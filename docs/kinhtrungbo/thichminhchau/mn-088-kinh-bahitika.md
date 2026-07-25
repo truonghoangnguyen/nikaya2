@@ -1,6 +1,5 @@
-# 88. KINH BÀHITIKA
+# MN 88. KINH BÀHITIKA
 
-**88. KINH BÀHITIKA**
 ***(Bàhitika Sutta)***
 
 **Như vầy tôi nghe.**

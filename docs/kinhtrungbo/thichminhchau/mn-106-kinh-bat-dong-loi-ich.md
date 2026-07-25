@@ -1,6 +1,5 @@
-# 106. KINH BẤT ÐỘNG LỢI ÍCH
+# MN 106. KINH BẤT ÐỘNG LỢI ÍCH
 
-**106. KINH BẤT ÐỘNG LỢI ÍCH**
 ***(Anenjasappàya Sutta)***
 
 **Như vầy tôi nghe.**

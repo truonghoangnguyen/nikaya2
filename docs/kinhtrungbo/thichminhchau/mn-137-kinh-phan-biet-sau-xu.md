@@ -1,6 +1,5 @@
-# 137. KINH PHÂN BIỆT SÁU XỨ
+# MN 137. KINH PHÂN BIỆT SÁU XỨ
 
-**137. KINH PHÂN BIỆT SÁU XỨ**
 ***(Salàyatanavibhanga Sutta)***
 
 **Như vầy tôi nghe.**

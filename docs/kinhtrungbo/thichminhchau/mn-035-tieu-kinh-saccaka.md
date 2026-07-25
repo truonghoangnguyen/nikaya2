@@ -1,6 +1,5 @@
-# 35. TIỂU KINH SACCAKA
+# MN 35. TIỂU KINH SACCAKA
 
-**35. TIỂU KINH SACCAKA**
 ***(Cùlasaccaka Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 25. KINH BẪY MỒI
+# MN 25. KINH BẪY MỒI
 
-**25. KINH BẪY MỒI**
 ***(Nivàpa Sutta)***
 
 **Như vầy tôi nghe.**

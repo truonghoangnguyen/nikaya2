@@ -1,6 +1,5 @@
-# 63. TIỂU KINH MÀLUNKYÀ
+# MN 63. TIỂU KINH MÀLUNKYÀ
 
-**63. TIỂU KINH MÀLUNKYÀ**
 ***(Cula Màlunkyà Sutta)***
 
 **Như vầy tôi nghe.**

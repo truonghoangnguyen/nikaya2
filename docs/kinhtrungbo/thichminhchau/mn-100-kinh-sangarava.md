@@ -1,6 +1,5 @@
-# 100. KINH SANGÀRAVA
+# MN 100. KINH SANGÀRAVA
 
-**100. KINH SANGÀRAVA**
 ***(Sangàrava Sutta)***
 
 **Như vầy tôi nghe.**

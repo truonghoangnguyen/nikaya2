@@ -1,6 +1,5 @@
-# 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA
+# MN 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA
 
-**62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA**
 ***(Mahà Ràhulovàda Sutta)***
 
 **Như vầy tôi nghe.**

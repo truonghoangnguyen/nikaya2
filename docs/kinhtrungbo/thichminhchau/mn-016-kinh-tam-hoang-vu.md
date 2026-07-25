@@ -1,6 +1,5 @@
-# 16. KINH TÂM HOANG VU
+# MN 16. KINH TÂM HOANG VU
 
-**16. KINH TÂM HOANG VU**
 ***(Cetokhila Sutta)***
 
 **Như vầy tôi nghe.**

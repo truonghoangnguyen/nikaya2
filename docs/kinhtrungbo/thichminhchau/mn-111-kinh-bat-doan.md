@@ -1,6 +1,5 @@
-# 111. KINH BẤT ÐOẠN
+# MN 111. KINH BẤT ÐOẠN
 
-**111. KINH BẤT ÐOẠN**
 ***(Anupada Sutta)***
 
 **Như vầy tôi nghe.**

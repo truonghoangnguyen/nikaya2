@@ -1,6 +1,5 @@
-# 146. KINH GIÁO GIỚI NANDAKA
+# MN 146. KINH GIÁO GIỚI NANDAKA
 
-**146. KINH GIÁO GIỚI NANDAKA**
 ***(Nandakovàda Sutta)***
 
 **Như vầy tôi nghe.**

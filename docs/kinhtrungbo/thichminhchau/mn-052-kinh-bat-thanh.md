@@ -1,6 +1,5 @@
-# 52. KINH BÁT THÀNH
+# MN 52. KINH BÁT THÀNH
 
-**52. KINH BÁT THÀNH**
 ***(Atthakanàgara Sutta)***
 
 **Như vầy tôi nghe.**

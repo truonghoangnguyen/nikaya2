@@ -1,6 +1,5 @@
-# 128. KINH TÙY PHIỀN NÃO
+# MN 128. KINH TÙY PHIỀN NÃO
 
-**128. KINH TÙY PHIỀN NÃO**
 ***(Upakkilesa Sutta)***
 
 **Như vầy tôi nghe.**

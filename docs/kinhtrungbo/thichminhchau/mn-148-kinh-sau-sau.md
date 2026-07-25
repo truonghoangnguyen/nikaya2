@@ -1,6 +1,5 @@
-# 148. KINH SÁU SÁU
+# MN 148. KINH SÁU SÁU
 
-**148. KINH SÁU SÁU**
 ***(Chachakka Sutta)***
 
 **Như vầy tôi nghe.**

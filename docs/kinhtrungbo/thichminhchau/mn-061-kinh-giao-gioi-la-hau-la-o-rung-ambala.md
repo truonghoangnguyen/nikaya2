@@ -1,6 +1,5 @@
-# 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA
+# MN 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA
 
-**61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA**
 ***(Ambalatthikà Ràhulovàda Sutta)***
 
 **Như vầy tôi nghe.**

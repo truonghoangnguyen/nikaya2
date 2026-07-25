@@ -1,6 +1,5 @@
-# 27. TIỂU KINH DỤ DẤU CHÂN VOI
+# MN 27. TIỂU KINH DỤ DẤU CHÂN VOI
 
-**27. TIỂU KINH DỤ DẤU CHÂN VOI**
 ***(Cùlahatthipadopama Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 126. KINH PHÙ-DI
+# MN 126. KINH PHÙ-DI
 
-**126. KINH PHÙ-DI**
 ***(Bhùmija Sutta)***
 
 **Như vầy tôi nghe.**

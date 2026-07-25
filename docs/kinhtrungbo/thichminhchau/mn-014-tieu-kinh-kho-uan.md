@@ -1,6 +1,5 @@
-# 14. TIỂU KINH KHỔ UẨN
+# MN 14. TIỂU KINH KHỔ UẨN
 
-**14. TIỂU KINH KHỔ UẨN**
 ***(Cùladukkhakkhanda Sutta)***
 
 **Như vầy tôi nghe.**

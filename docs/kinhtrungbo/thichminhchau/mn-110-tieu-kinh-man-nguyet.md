@@ -1,6 +1,5 @@
-# 110. TIỂU KINH MÃN NGUYỆT
+# MN 110. TIỂU KINH MÃN NGUYỆT
 
-**110. TIỂU KINH MÃN NGUYỆT**
 ***(Cùlapunnama Sutta)***
 
 **Như vầy tôi nghe.**

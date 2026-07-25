@@ -1,6 +1,5 @@
-# 92. KINH SELA
+# MN 92. KINH SELA
 
-**92. KINH SELA**
 ***(Sela Sutta)***
 
 **Như vầy tôi nghe.**

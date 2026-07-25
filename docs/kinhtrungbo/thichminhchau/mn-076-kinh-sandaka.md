@@ -1,6 +1,5 @@
-# 76. KINH SANDAKA
+# MN 76. KINH SANDAKA
 
-**76. KINH SANDAKA**
 ***(Sandaka Sutta)***
 
 **Như vầy tôi nghe.**

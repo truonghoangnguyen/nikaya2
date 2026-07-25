@@ -1,6 +1,5 @@
-# 67. KINH CÀTUMÀ
+# MN 67. KINH CÀTUMÀ
 
-**67. KINH CÀTUMÀ**
 ***(Càtumà Sutta)***
 
 **Như vầy tôi nghe.**

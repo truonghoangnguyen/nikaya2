@@ -1,6 +1,5 @@
-# 15. KINH TƯ LƯỢNG
+# MN 15. KINH TƯ LƯỢNG
 
-**15. KINH TƯ LƯỢNG**
 ***(Anumàna Sutta)***
 
 **Như vầy tôi nghe.**

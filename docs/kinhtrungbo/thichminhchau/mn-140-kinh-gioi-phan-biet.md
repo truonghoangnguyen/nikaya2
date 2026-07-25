@@ -1,6 +1,5 @@
-# 140. KINH GIỚI PHÂN BIỆT
+# MN 140. KINH GIỚI PHÂN BIỆT
 
-**140. KINH GIỚI PHÂN BIỆT**
 ***(Dhàtuvibhanga Sutta)***
 
 **Như vầy tôi nghe.**

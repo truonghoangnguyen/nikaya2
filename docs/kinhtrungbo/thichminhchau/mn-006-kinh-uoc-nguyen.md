@@ -1,6 +1,5 @@
-# 6. KINH ƯỚC NGUYỆN
+# MN 6. KINH ƯỚC NGUYỆN
 
-**6. KINH ƯỚC NGUYỆN**
 ***(Akankheyya Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 32. ÐẠI KINH RỪNG SỪNG BÒ
+# MN 32. ÐẠI KINH RỪNG SỪNG BÒ
 
-**32. ÐẠI KINH RỪNG SỪNG BÒ**
 ***(Mahàgosinga Sutta)***
 
 **Như vầy tôi nghe.**

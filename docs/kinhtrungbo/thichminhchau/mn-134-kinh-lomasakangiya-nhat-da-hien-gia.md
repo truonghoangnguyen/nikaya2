@@ -1,6 +1,5 @@
-# 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ
+# MN 134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ
 
-**134. KINH LOMASAKANGIYA NHẤT DẠ HIỀN GIẢ**
 ***(Lomasakangiyabhaddekaratta Sutta)***
 
 **Như vầy tôi nghe.**

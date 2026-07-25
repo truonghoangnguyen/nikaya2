@@ -4,9 +4,8 @@ tags:
  - 4 thiền-na (tứ thiền)
  - gột rửa (đoạn giảm)
 ---
-# 8. KINH ÐOẠN GIẢM
+# MN 8. KINH ÐOẠN GIẢM
 
-**8. KINH ÐOẠN GIẢM**
 ***(Sallekha Sutta)***
 
 **Như vầy tôi nghe.**

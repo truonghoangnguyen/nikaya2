@@ -1,6 +1,5 @@
-# 99. KINH SUBHA
+# MN 99. KINH SUBHA
 
-**99. KINH SUBHA**
 ***(Subha Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 115. KINH ÐA GIỚI
+# MN 115. KINH ÐA GIỚI
 
-**115. KINH ÐA GIỚI**
 ***(Bahudhàtuka Sutta)***
 
 **Như vầy tôi nghe.**

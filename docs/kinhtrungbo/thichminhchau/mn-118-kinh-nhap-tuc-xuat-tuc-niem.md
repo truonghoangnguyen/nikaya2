@@ -1,6 +1,5 @@
-# 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM
+# MN 118. KINH NHẬP TỨC, XUẤT TỨC NIỆM
 
-**118. KINH NHẬP TỨC, XUẤT TỨC NIỆM**
 ***(Kinh Quán Niệm Hơi Thở)***
 ***(Anàpànasati Sutta)***
 

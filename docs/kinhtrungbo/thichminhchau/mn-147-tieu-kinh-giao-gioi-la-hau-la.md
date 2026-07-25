@@ -1,6 +1,5 @@
-# 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA
+# MN 147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA
 
-**147. TIỂU KINH GIÁO GIỚI LA-HẦU-LA**
 ***(Cùlaràhulovàda Sutta)***
 
 **Như vầy tôi nghe.**

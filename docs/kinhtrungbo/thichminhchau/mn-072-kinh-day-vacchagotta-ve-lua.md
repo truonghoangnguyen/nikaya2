@@ -1,6 +1,5 @@
-# 72. KINH DẠY VACCHAGOTTA VỀ LỬA
+# MN 72. KINH DẠY VACCHAGOTTA VỀ LỬA
 
-**72. KINH DẠY VACCHAGOTTA VỀ LỬA**
 ***(Aggivacchagotta Sutta)***
 
 **Như vầy tôi nghe.**

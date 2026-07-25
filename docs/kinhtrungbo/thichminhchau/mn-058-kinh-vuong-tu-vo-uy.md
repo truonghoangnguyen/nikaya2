@@ -1,6 +1,5 @@
-# 58. KINH VƯƠNG TỬ VÔ ÚY
+# MN 58. KINH VƯƠNG TỬ VÔ ÚY
 
-**58. KINH VƯƠNG TỬ VÔ ÚY**
 ***(Abhayaràjakumàra Sutta)***
 
 **Như vầy tôi nghe.**

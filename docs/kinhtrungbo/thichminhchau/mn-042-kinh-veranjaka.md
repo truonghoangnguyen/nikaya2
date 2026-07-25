@@ -1,6 +1,5 @@
-# 42. KINH VERANJAKA
+# MN 42. KINH VERANJAKA
 
-**42. KINH VERANJAKA**
 ***(Veranjaka Sutta)***
 
 **Như vầy tôi nghe.**

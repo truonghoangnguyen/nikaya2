@@ -1,6 +1,5 @@
-# 98. KINH VÀSETTHA
+# MN 98. KINH VÀSETTHA
 
-**98. KINH VÀSETTHA**
 ***(Vàsettha Sutta)***
 
 **Như vầy tôi nghe.**

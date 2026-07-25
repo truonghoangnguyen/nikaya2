@@ -1,6 +1,5 @@
-# 55. KINH JÌVAKA
+# MN 55. KINH JÌVAKA
 
-**55. KINH JÌVAKA**
 ***(Jìvaka Sutta)***
 
 **Như vầy tôi nghe.**

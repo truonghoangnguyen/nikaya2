@@ -1,6 +1,5 @@
-# 68. KINH NALAKAPÀNA
+# MN 68. KINH NALAKAPÀNA
 
-**68. KINH NALAKAPÀNA**
 ***(Nalakapàna Sutta)***
 
 **Như vầy tôi nghe.**

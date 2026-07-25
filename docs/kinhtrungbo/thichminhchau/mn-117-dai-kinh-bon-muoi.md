@@ -1,6 +1,5 @@
-# 117. ÐẠI KINH BỐN MƯƠI
+# MN 117. ÐẠI KINH BỐN MƯƠI
 
-**117. ÐẠI KINH BỐN MƯƠI**
 ***(Mahàcattàrìsaka Sutta)***
 
 **Như vầy tôi nghe.**

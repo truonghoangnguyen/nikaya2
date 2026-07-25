@@ -1,6 +1,5 @@
-# 108. KINH GOPAKA MOGGALLÀNA
+# MN 108. KINH GOPAKA MOGGALLÀNA
 
-**108. KINH GOPAKA MOGGALLÀNA**
 ***(Gopakamoggallàna Sutta)***
 
 **Như vầy tôi nghe.**

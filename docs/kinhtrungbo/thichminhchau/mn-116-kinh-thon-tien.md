@@ -1,6 +1,5 @@
-# 116. KINH THÔN TIÊN
+# MN 116. KINH THÔN TIÊN
 
-**116. KINH THÔN TIÊN**
 ***(Isigili Sutta)***
 
 **Như vầy tôi nghe.**

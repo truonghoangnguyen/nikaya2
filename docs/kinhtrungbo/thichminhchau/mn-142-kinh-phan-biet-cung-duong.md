@@ -1,6 +1,5 @@
-# 142. KINH PHÂN BIỆT CÚNG DƯỜNG
+# MN 142. KINH PHÂN BIỆT CÚNG DƯỜNG
 
-**142. KINH PHÂN BIỆT CÚNG DƯỜNG**
 ***(Dakkhinàvibhanga Sutta)***
 
 **Như vầy tôi nghe.**

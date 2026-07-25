@@ -1,6 +1,5 @@
-# 131. KINH NHẤT DẠ HIỀN GIẢ
+# MN 131. KINH NHẤT DẠ HIỀN GIẢ
 
-**131. KINH NHẤT DẠ HIỀN GIẢ**
 ***(Bhaddekaratta Sutta)***
 
 **Như vầy tôi nghe.**

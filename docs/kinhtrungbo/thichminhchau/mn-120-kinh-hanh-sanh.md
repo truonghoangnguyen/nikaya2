@@ -1,6 +1,5 @@
-# 120. KINH HÀNH SANH
+# MN 120. KINH HÀNH SANH
 
-**120. KINH HÀNH SANH**
 ***(Sankhàrupapatti Sutta)***
 
 **Như vầy tôi nghe.**

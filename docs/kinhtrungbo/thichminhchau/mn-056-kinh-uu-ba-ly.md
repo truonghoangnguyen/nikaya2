@@ -1,6 +1,5 @@
-# 56. KINH ƯU-BA-LY
+# MN 56. KINH ƯU-BA-LY
 
-**56. KINH ƯU-BA-LY**
 ***(Upàli Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ
+# MN 132. KINH A-NAN NHẤT DẠ HIỀN GIẢ
 
-**132. KINH A-NAN NHẤT DẠ HIỀN GIẢ**
 ***(Anandabhaddekaratta Sutta)***
 
 **Như vầy tôi nghe.**

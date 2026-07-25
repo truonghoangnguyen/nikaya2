@@ -1,6 +1,5 @@
-# 75. KINH MÀGANDIYA
+# MN 75. KINH MÀGANDIYA
 
-**75. KINH MÀGANDIYA**
 ***(Màgandiya Sutta)***
 
 **Như vầy tôi nghe.**

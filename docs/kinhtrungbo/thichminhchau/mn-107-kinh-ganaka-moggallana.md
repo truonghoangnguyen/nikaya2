@@ -2,9 +2,8 @@
 tags:
  - các bước tu tập
 ---
-# 107. KINH GANAKA MOGGALLÀNA
+# MN 107. KINH GANAKA MOGGALLÀNA
 
-**107. KINH GANAKA MOGGALLÀNA**
 ***(Ganakamoggallàna Sutta)***
 
 **Như vầy tôi nghe.**

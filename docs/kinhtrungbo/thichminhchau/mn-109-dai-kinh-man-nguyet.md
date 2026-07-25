@@ -1,6 +1,5 @@
-# 109. ÐẠI KINH MÃN NGUYỆT
+# MN 109. ÐẠI KINH MÃN NGUYỆT
 
-**109. ÐẠI KINH MÃN NGUYỆT**
 ***(Mahàpunnama Sutta)***
 
 **Như vầy tôi nghe.**

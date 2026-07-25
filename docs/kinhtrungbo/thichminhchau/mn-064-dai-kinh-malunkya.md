@@ -3,9 +3,8 @@ tags:
  - 4 thiền-na (tứ thiền)
 ---
 
-# 64. ÐẠI KINH MÀLUNKYA
+# MN 64. ÐẠI KINH MÀLUNKYA
 
-**64. ÐẠI KINH MÀLUNKYA**
 ***(Mahà Màlunkyà Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ
+# MN 114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ
 
-**114. KINH NÊN HÀNH TRÌ, KHÔNG NÊN HÀNH TRÌ**
 ***(Sevitabba-asevitabba Sutta)***
 
 **Như vầy tôi nghe.**

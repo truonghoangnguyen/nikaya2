@@ -1,6 +1,5 @@
-# 101. KINH DEVADAHA
+# MN 101. KINH DEVADAHA
 
-**101. KINH DEVADAHA**
 ***(Devadaha Sutta)***
 
 **Như vầy tôi nghe.**

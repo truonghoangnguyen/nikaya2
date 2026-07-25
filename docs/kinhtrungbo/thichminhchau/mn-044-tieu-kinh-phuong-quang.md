@@ -1,6 +1,5 @@
-# 44. TIỂU KINH PHƯƠNG QUẢNG
+# MN 44. TIỂU KINH PHƯƠNG QUẢNG
 
-**44. TIỂU KINH PHƯƠNG QUẢNG**
 ***(Cùlavedalla Sutta)***
 
 **Như vầy tôi nghe.**

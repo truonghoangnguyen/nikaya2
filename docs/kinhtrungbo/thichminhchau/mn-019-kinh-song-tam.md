@@ -4,9 +4,8 @@ tags:
  - thực hành
 ---
 
-# 19. KINH SONG TẦM
+# MN 19. KINH SONG TẦM
 
-**19. KINH SONG TẦM**
 ***(Dvedhàvitakka Sutta)***
 
 ## Tôi nghe như vầy:

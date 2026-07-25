@@ -1,6 +1,5 @@
-# 112. KINH SÁU THANH TỊNH
+# MN 112. KINH SÁU THANH TỊNH
 
-**112. KINH SÁU THANH TỊNH**
 ***(Chabbisodhana Sutta)***
 
 **Như vầy tôi nghe.**

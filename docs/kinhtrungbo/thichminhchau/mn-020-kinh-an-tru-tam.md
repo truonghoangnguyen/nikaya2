@@ -2,9 +2,8 @@
 tags:
  - thực hành
 ---
-# 20. KINH AN TRÚ TẦM
+# MN 20. KINH AN TRÚ TẦM
 
-**20. KINH AN TRÚ TẦM**
 ***(Vtakkasanthàna Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 37. TIỂU KINH ÐOẠN TẬN ÁI
+# MN 37. TIỂU KINH ÐOẠN TẬN ÁI
 
-**37. TIỂU KINH ÐOẠN TẬN ÁI**
 ***(Cùlatanhàsankhaya Sutta)***
 
 **Như vầy tôi nghe.**

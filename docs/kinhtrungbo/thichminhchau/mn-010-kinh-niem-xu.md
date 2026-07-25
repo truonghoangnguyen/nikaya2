@@ -1,6 +1,5 @@
-# 10. KINH NIỆM XỨ
+# MN 10. KINH NIỆM XỨ
 
-**10. KINH NIỆM XỨ**
 ***(Satipatthàna Sutta)***
 
 **Như vầy tôi nghe.**

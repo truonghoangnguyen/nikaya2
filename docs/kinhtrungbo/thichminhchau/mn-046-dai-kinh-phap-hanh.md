@@ -1,6 +1,5 @@
-# 46. ÐẠI KINH PHÁP HÀNH
+# MN 46. ÐẠI KINH PHÁP HÀNH
 
-**46. ÐẠI KINH PHÁP HÀNH**
 ***(Mahàdhammasamàdàna Sutta)***
 
 **Như vầy tôi nghe.**

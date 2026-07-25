@@ -1,6 +1,5 @@
-# 90. KINH KANNAKATTHALA
+# MN 90. KINH KANNAKATTHALA
 
-**90. KINH KANNAKATTHALA**
 ***(Kannakatthala Sutta)***
 
 **Như vầy tôi nghe.**

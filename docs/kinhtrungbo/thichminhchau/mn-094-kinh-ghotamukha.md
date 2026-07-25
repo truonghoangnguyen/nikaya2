@@ -1,6 +1,5 @@
-# 94. KINH GHOTAMUKHA
+# MN 94. KINH GHOTAMUKHA
 
-**94. KINH GHOTAMUKHA**
 ***(Ghotamukha Sutta)***
 
 **Như vầy tôi nghe.**

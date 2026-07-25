@@ -1,6 +1,5 @@
-# 59. KINH NHIỀU CẢM THỌ
+# MN 59. KINH NHIỀU CẢM THỌ
 
-**59. KINH NHIỀU CẢM THỌ**
 ***(Bahuvedanìya Sutta)***
 
 **Như vầy tôi nghe.**

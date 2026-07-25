@@ -6,9 +6,8 @@ tags:
  - Do Hợp mà Thành (hữu vi)
 ---
 
-# 152. KINH CĂN TU TẬP
+# MN 152. KINH CĂN TU TẬP
 
-**152. KINH CĂN TU TẬP**
 ***(Indriyabhàvanà Sutta)***
 
 **Như vầy tôi nghe.**

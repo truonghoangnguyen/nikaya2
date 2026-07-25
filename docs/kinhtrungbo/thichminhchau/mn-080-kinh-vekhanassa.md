@@ -1,6 +1,5 @@
-# 80. KINH VEKHANASSA
+# MN 80. KINH VEKHANASSA
 
-**80. KINH VEKHANASSA**
 ***(Vekhanassa Sutta)***
 
 **Như vầy tôi nghe.**

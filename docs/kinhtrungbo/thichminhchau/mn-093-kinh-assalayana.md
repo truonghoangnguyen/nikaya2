@@ -1,6 +1,5 @@
-# 93. KINH ASSALÀYANA
+# MN 93. KINH ASSALÀYANA
 
-**93. KINH ASSALÀYANA**
 ***(Assalàyana Sutta)***
 
 **Như vầy tôi nghe.**

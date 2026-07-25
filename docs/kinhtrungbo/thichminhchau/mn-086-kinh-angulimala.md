@@ -1,6 +1,5 @@
-# 86. KINH ANGULIMÀLA
+# MN 86. KINH ANGULIMÀLA
 
-**86. KINH ANGULIMÀLA**
 ***(Angulimàla Sutta)***
 
 **Như vầy tôi nghe.**

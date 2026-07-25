@@ -1,6 +1,5 @@
-# 141. KINH PHÂN BIỆT VỀ SỰ THẬT
+# MN 141. KINH PHÂN BIỆT VỀ SỰ THẬT
 
-**141. KINH PHÂN BIỆT VỀ SỰ THẬT**
 ***(Saccavibhanga Sutta)***
 
 **Như vầy tôi nghe.**

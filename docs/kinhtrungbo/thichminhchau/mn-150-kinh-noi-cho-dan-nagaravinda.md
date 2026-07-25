@@ -1,6 +1,5 @@
-# 150. KINH NÓI CHO DÂN NAGARAVINDA
+# MN 150. KINH NÓI CHO DÂN NAGARAVINDA
 
-**150. KINH NÓI CHO DÂN NAGARAVINDA**
 ***(Nagaravindeyya Sutta)***
 
 **Như vầy tôi nghe.**

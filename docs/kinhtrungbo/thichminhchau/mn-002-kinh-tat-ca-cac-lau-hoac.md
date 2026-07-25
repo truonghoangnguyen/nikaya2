@@ -2,9 +2,8 @@
 tags:
  - nguồn ác
 ---
-# 2. KINH TẤT CẢ CÁC LẬU HOẶC
+# MN 2. KINH TẤT CẢ CÁC LẬU HOẶC
 
-**2. KINH TẤT CẢ CÁC LẬU HOẶC**
 ***(Sabbàsava Sutta)***
 
 **Như vầy tôi nghe.**

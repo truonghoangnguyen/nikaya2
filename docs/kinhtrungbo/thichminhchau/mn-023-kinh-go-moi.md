@@ -1,6 +1,5 @@
-# 23. KINH GÒ MỐI
+# MN 23. KINH GÒ MỐI
 
-**23. KINH GÒ MỐI**
 ***(Vammika Sutta)***
 
 **Như vầy tôi nghe.**

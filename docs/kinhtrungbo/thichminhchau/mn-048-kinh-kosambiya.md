@@ -1,6 +1,5 @@
-# 48. KINH KOSAMBIYA
+# MN 48. KINH KOSAMBIYA
 
-**48. KINH KOSAMBIYA**
 ***(Kosambiya Sutta)***
 
 **Như vầy tôi nghe.**

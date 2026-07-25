@@ -1,6 +1,5 @@
-# 81. KINH GHATÌKÀRA
+# MN 81. KINH GHATÌKÀRA
 
-**81. KINH GHATÌKÀRA**
 ***(Ghatìkàra Sutta)***
 
 **Như vầy tôi nghe.**

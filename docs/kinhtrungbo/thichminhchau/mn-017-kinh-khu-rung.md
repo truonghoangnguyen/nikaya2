@@ -1,6 +1,5 @@
-# 17. KINH KHU RỪNG
+# MN 17. KINH KHU RỪNG
 
-**17. KINH KHU RỪNG**
 ***(Vanapattha Sutta)***
 
 **Như vầy tôi nghe.**

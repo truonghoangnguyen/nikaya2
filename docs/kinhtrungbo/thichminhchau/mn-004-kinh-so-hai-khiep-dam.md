@@ -2,9 +2,8 @@
 tags:
  - quá trình tu tập
 ---
-# 4. KINH SỢ HÃI KHIẾP ÐẢM
+# MN 4. KINH SỢ HÃI KHIẾP ÐẢM
 
-**4. KINH SỢ HÃI KHIẾP ÐẢM**
 ***(Bhayabherava Sutta)***
 
 **Như vầy tôi nghe.**

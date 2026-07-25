@@ -1,6 +1,5 @@
-# 7. KINH VÍ DỤ TẤM VẢI
+# MN 7. KINH VÍ DỤ TẤM VẢI
 
-**7. KINH VÍ DỤ TẤM VẢI**
 ***(Vatthùpama Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 119. KINH THÂN HÀNH NIỆM
+# MN 119. KINH THÂN HÀNH NIỆM
 
-**119. KINH THÂN HÀNH NIỆM**
 ***(Kàyagatàsati Sutta)***
 
 **Như vầy tôi nghe.**

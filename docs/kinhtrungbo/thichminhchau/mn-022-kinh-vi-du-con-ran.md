@@ -1,6 +1,5 @@
-# 22. KINH VÍ DỤ CON RẮN
+# MN 22. KINH VÍ DỤ CON RẮN
 
-**22. KINH VÍ DỤ CON RẮN**
 ***(Alagaddùpama Sutta)***
 
 **Như vầy tôi nghe.**

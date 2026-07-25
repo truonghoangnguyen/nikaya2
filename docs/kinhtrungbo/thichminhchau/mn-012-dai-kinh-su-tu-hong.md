@@ -1,6 +1,5 @@
-# 12. ÐẠI KINH SƯ TỬ HỐNG
+# MN 12. ÐẠI KINH SƯ TỬ HỐNG
 
-**12. ÐẠI KINH SƯ TỬ HỐNG**
 ***(Mahàsìhanàda Sutta)***
 
 **Như vầy tôi nghe.**

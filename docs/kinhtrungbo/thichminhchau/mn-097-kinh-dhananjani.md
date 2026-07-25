@@ -1,6 +1,5 @@
-# 97. KINH DHÀNANJÀNI
+# MN 97. KINH DHÀNANJÀNI
 
-**97. KINH DHÀNANJÀNI**
 ***(Dhànanjàni Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 89. KINH PHÁP TRANG NGHIÊM
+# MN 89. KINH PHÁP TRANG NGHIÊM
 
-**89. KINH PHÁP TRANG NGHIÊM**
 ***(Dhammacetiya Sutta)***
 
 **Như vầy tôi nghe.**

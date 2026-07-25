@@ -1,6 +1,5 @@
-# 136. ÐẠI KINH NGHIỆP PHÂN BIỆT
+# MN 136. ÐẠI KINH NGHIỆP PHÂN BIỆT
 
-**136. ÐẠI KINH NGHIỆP PHÂN BIỆT**
 ***(Mahàkammavibhanga)***
 
 **Như vầy tôi nghe.**

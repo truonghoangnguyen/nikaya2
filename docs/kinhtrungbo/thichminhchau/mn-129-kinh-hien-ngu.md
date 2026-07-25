@@ -1,6 +1,5 @@
-# 129. KINH HIỀN NGU
+# MN 129. KINH HIỀN NGU
 
-**129. KINH HIỀN NGU**
 ***(Bàlapandita Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 66. KINH VÍ DỤ CON CHIM CÁY
+# MN 66. KINH VÍ DỤ CON CHIM CÁY
 
-**66. KINH VÍ DỤ CON CHIM CÁY**
 ***(Latukikopama Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC
+# MN 143. KINH GIÁO GIỚI CẤP CÔ ÐỘC
 
-**143. KINH GIÁO GIỚI CẤP CÔ ÐỘC**
 ***(Anàthapindikovàda Sutta)***
 
 **Như vầy tôi nghe.**

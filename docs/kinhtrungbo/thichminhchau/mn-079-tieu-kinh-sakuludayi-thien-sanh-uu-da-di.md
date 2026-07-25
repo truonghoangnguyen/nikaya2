@@ -1,6 +1,5 @@
-# 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)
+# MN 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)
 
-**79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)**
 ***(Cùlasakuludàyi Sutta)***
 
 **Như vầy tôi nghe.**

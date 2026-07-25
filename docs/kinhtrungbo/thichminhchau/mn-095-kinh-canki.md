@@ -1,6 +1,5 @@
-# 95. KINH CANKÌ
+# MN 95. KINH CANKÌ
 
-**95. KINH CANKÌ**
 ***(Cankì Sutta)***
 
 **Như vầy tôi nghe.**

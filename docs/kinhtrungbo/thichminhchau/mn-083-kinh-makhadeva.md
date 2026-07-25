@@ -1,6 +1,5 @@
-# 83. KINH MAKHÀDEVA
+# MN 83. KINH MAKHÀDEVA
 
-**83. KINH MAKHÀDEVA**
 ***(Makhàdeva Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 69. KINH GULISÀNI
+# MN 69. KINH GULISÀNI
 
-**69. KINH GULISÀNI**
 ***(Gulisàni Sutta)***
 
 **Như vầy tôi nghe.**

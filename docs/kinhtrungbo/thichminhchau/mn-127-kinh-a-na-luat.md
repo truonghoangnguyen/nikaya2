@@ -1,6 +1,5 @@
-# 127. KINH A-NA-LUẬT
+# MN 127. KINH A-NA-LUẬT
 
-**127. KINH A-NA-LUẬT**
 ***(Anuruddha Sutta)***
 
 **Như vầy tôi nghe.**

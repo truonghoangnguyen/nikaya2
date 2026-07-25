@@ -1,6 +1,5 @@
-# 105. KINH THIỆN TINH
+# MN 105. KINH THIỆN TINH
 
-**105. KINH THIỆN TINH**
 ***(Sunakkhatta Sutta)***
 
 **Như vầy tôi nghe.**

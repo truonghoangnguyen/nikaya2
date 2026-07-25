@@ -1,6 +1,5 @@
-# 49. KINH PHẠM THIÊN CẦU THỈNH
+# MN 49. KINH PHẠM THIÊN CẦU THỈNH
 
-**49. KINH PHẠM THIÊN CẦU THỈNH**
 ***(Brahmanimantanika Sutta)***
 
 **Như vầy tôi nghe.**

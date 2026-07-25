@@ -1,6 +1,5 @@
-# 122. KINH ÐẠI THÔNG
+# MN 122. KINH ÐẠI THÔNG
 
-**122. KINH ÐẠI THÔNG**
 ***(Mahàsunnata Sutta)***
 
 **Như vầy tôi nghe.**

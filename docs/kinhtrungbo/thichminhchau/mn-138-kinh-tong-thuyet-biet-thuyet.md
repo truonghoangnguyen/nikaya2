@@ -1,6 +1,5 @@
-# 138. KINH TỔNG THUYẾT & BIỆT THUYẾT
+# MN 138. KINH TỔNG THUYẾT & BIỆT THUYẾT
 
-**138. KINH TỔNG THUYẾT & BIỆT THUYẾT**
 ***(Uddesavibhanga Sutta)***
 
 **Như vầy tôi nghe.**

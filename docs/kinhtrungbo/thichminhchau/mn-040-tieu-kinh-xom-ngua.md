@@ -1,6 +1,5 @@
-# 40. TIỂU KINH XÓM NGỰA
+# MN 40. TIỂU KINH XÓM NGỰA
 
-**40. TIỂU KINH XÓM NGỰA**
 ***(Cùla-Assapura Sutta)***
 
 **Như vầy tôi nghe.**

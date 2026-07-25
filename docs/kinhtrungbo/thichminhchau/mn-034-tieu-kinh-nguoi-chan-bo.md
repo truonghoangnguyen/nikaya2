@@ -1,6 +1,5 @@
-# 34. TIỂU KINH NGƯỜI CHĂN BÒ
+# MN 34. TIỂU KINH NGƯỜI CHĂN BÒ
 
-**34. TIỂU KINH NGƯỜI CHĂN BÒ**
 ***(Cùlagopàlaka Sutta)***
 
 **Như vầy tôi nghe.**

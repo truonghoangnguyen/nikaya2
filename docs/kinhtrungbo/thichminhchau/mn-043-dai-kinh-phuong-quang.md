@@ -1,6 +1,5 @@
-# 43. ÐẠI KINH PHƯƠNG QUẢNG
+# MN 43. ÐẠI KINH PHƯƠNG QUẢNG
 
-**43. ÐẠI KINH PHƯƠNG QUẢNG**
 ***(Mahàvedalla Sutta)***
 
 **Như vầy tôi nghe.**

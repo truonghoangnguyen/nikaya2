@@ -1,6 +1,5 @@
-# 102. KINH NĂM & BA
+# MN 102. KINH NĂM & BA
 
-**102. KINH NĂM & BA**
 ***(Pancattaya Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 78. KINH SAMANAMANDIKÀ
+# MN 78. KINH SAMANAMANDIKÀ
 
-**78. KINH SAMANAMANDIKÀ**
 ***(Samanamandikàputta Sutta)***
 
 **Như vầy tôi nghe.**

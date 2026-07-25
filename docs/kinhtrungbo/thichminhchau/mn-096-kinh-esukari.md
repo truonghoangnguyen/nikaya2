@@ -1,6 +1,5 @@
-# 96. KINH ESUKÀRI
+# MN 96. KINH ESUKÀRI
 
-**96. KINH ESUKÀRI**
 ***(Esukàrì Sutta)***
 
 **Như vầy tôi nghe.**

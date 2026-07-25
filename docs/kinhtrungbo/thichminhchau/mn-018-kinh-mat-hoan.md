@@ -4,7 +4,7 @@
   - quan hệ Phụ thuộc (duyên)
 ---
 
-# 18. KINH MẬT HOÀN
+# MN 18. KINH MẬT HOÀN
 ***(Madhupindika Sutta)***
 
 Tôi nghe như vầy:

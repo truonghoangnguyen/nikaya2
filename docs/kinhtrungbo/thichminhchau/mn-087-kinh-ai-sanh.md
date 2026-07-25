@@ -1,6 +1,5 @@
-# 87. KINH ÁI SANH
+# MN 87. KINH ÁI SANH
 
-**87. KINH ÁI SANH**
 ***(Piyajàtika Sutta)***
 
 **Như vầy tôi nghe.**

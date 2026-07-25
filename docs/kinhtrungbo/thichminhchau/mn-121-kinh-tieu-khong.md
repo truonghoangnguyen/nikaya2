@@ -1,6 +1,5 @@
-# 121. KINH TIỂU KHÔNG
+# MN 121. KINH TIỂU KHÔNG
 
-**121. KINH TIỂU KHÔNG**
 ***(Cùlasunnata Sutta)***
 
 **Như vầy tôi nghe.**

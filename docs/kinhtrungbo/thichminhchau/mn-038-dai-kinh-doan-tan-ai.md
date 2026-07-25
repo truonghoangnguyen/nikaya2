@@ -1,6 +1,5 @@
-# 38. ÐẠI KINH ÐOẠN TẬN ÁI
+# MN 38. ÐẠI KINH ÐOẠN TẬN ÁI
 
-**38. ÐẠI KINH ÐOẠN TẬN ÁI**
 ***(Mahàtanhàsankhaya Sutta)***
 
 **Như vầy tôi nghe.**

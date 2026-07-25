@@ -1,6 +1,5 @@
-# 103. KINH NGHĨ NHƯ THẾ NÀO?
+# MN 103. KINH NGHĨ NHƯ THẾ NÀO?
 
-**103. KINH NGHĨ NHƯ THẾ NÀO?**
 ***(Kinti Sutta)***
 
 **Như vầy tôi nghe.**

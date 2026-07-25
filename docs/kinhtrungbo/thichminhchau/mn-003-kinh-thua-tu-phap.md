@@ -2,9 +2,8 @@
 tags:
  - Sāriputta
 ---
-# 3. KINH THỪA TỰ PHÁP
+# MN 3. KINH THỪA TỰ PHÁP
 
-**3. KINH THỪA TỰ PHÁP**
 ***(Dhammadàyàda Sutta)***
 
 **Như vầy tôi nghe.**

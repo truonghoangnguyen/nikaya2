@@ -1,6 +1,5 @@
-# 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP
+# MN 123. KINH HY HỮU VỊ TẰNG HỮU PHÁP
 
-**123. KINH HY HỮU VỊ TẰNG HỮU PHÁP**
 ***(Acchariya-abbhùtadhamma Sutta)***
 
 **Như vầy tôi nghe.**

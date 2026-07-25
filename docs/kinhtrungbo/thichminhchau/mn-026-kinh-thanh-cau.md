@@ -1,6 +1,5 @@
-# 26. KINH THÁNH CẦU
+# MN 26. KINH THÁNH CẦU
 
-**26. KINH THÁNH CẦU**
 ***(Ariyapariyesanà Sutta)***
 
 ## Tôi nghe như vầy:

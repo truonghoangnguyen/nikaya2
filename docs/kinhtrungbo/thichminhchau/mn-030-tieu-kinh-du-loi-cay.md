@@ -1,6 +1,5 @@
-# 30. TIỂU KINH DỤ LÕI CÂY
+# MN 30. TIỂU KINH DỤ LÕI CÂY
 
-**30. TIỂU KINH DỤ LÕI CÂY**
 ***(Cùlasàropama Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 65. KINH BHADDÀLI
+# MN 65. KINH BHADDÀLI
 
-**65. KINH BHADDÀLI**
 ***(Bhaddàli Sutta)***
 
 **Như vầy tôi nghe.**

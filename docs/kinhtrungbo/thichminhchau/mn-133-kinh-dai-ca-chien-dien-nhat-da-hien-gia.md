@@ -1,6 +1,5 @@
-# 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ
+# MN 133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ
 
-**133. KINH ÐẠI CA-CHIÊN-DIÊN NHẤT DẠ HIỀN GIẢ**
 ***(Mahàkaccànabhaddekaratta Sutta)***
 
 **Như vầy tôi nghe.**

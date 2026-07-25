@@ -1,6 +1,5 @@
-# 91. KINH BRAHMÀYU
+# MN 91. KINH BRAHMÀYU
 
-**91. KINH BRAHMÀYU**
 ***(Brahmàyu Sutta)***
 
 **Như vầy tôi nghe.**

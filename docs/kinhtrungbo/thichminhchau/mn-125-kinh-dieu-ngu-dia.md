@@ -1,6 +1,5 @@
-# 125. KINH ÐIỂU NGỰ ÐỊA
+# MN 125. KINH ÐIỂU NGỰ ÐỊA
 
-**125. KINH ÐIỂU NGỰ ÐỊA**
 ***(Dantabhùmi Sutta)***
 
 **Như vầy tôi nghe.**

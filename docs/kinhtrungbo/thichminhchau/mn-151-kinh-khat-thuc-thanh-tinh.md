@@ -1,6 +1,5 @@
-# 151. KINH KHẤT THỰC THANH TỊNH
+# MN 151. KINH KHẤT THỰC THANH TỊNH
 
-**151. KINH KHẤT THỰC THANH TỊNH**
 ***(Pindapàtapàrisuddhi Sutta)***
 
 **Như vầy tôi nghe.**

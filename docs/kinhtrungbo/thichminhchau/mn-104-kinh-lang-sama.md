@@ -1,6 +1,5 @@
-# 104. KINH LÀNG SAMA
+# MN 104. KINH LÀNG SAMA
 
-**104. KINH LÀNG SAMA**
 ***(Sàmagàma Sutta)***
 
 **Như vầy tôi nghe.**

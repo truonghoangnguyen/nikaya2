@@ -1,6 +1,5 @@
-# 135. TIỂU KINH NGHIỆP PHÂN BIỆT
+# MN 135. TIỂU KINH NGHIỆP PHÂN BIỆT
 
-**135. TIỂU KINH NGHIỆP PHÂN BIỆT**
 ***(Cùlakammavibhanga Sutta)***
 
 **Như vầy tôi nghe.**

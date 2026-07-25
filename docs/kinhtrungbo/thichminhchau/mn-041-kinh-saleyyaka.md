@@ -1,6 +1,5 @@
-# 41. KINH SÀLEYYAKA
+# MN 41. KINH SÀLEYYAKA
 
-**41. KINH SÀLEYYAKA**
 ***(Sàleyyaka Sutta)***
 
 **Như vầy tôi nghe.**

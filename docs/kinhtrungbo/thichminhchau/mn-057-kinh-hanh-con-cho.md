@@ -1,6 +1,5 @@
-# 57. KINH HẠNH CON CHÓ
+# MN 57. KINH HẠNH CON CHÓ
 
-**57. KINH HẠNH CON CHÓ**
 ***(Kukkuravatika Sutta)***
 
 **Như vầy tôi nghe.**

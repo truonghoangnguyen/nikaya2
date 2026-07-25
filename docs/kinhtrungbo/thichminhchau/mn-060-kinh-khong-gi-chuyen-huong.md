@@ -1,6 +1,5 @@
-# 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG
+# MN 60. KINH KHÔNG GÌ CHUYỂN HƯỚNG
 
-**60. KINH KHÔNG GÌ CHUYỂN HƯỚNG**
 ***(Apannaka Sutta)***
 
 **Như vầy tôi nghe.**

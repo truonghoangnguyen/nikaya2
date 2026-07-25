@@ -1,6 +1,5 @@
-# 82. KINH RATTHAPÀLA
+# MN 82. KINH RATTHAPÀLA
 
-**82. KINH RATTHAPÀLA**
 ***(Ratthapàla Sutta)***
 
 **Như vầy tôi nghe.**

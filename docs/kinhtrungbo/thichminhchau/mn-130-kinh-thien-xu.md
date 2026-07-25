@@ -1,6 +1,5 @@
-# 130. KINH THIÊN XỨ
+# MN 130. KINH THIÊN XỨ
 
-**130. KINH THIÊN XỨ**
 ***(Devadùta Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 85. KINH VƯƠNG TỬ BỒ ÐỀ
+# MN 85. KINH VƯƠNG TỬ BỒ ÐỀ
 
-**85. KINH VƯƠNG TỬ BỒ ÐỀ**
 ***(Bodhirajàkumàra Sutta)***
 
 **Như vầy tôi nghe.**

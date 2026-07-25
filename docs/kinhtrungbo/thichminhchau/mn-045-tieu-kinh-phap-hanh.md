@@ -1,6 +1,5 @@
-# 45. TIỂU KINH PHÁP HÀNH
+# MN 45. TIỂU KINH PHÁP HÀNH
 
-**45. TIỂU KINH PHÁP HÀNH**
 ***(Cùladhammasamàdàna Sutta)***
 
 **Như vầy tôi nghe.**

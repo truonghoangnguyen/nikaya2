@@ -1,6 +1,5 @@
-# 28. ÐẠI KINH DỤ DẤU CHÂN VOI
+# MN 28. ÐẠI KINH DỤ DẤU CHÂN VOI
 
-**28. ÐẠI KINH DỤ DẤU CHÂN VOI**
 ***(Mahàhatthipadopama Sutta)***
 
 **Như vầy tôi nghe.**

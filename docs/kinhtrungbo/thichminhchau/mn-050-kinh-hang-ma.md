@@ -1,6 +1,5 @@
-# 50. KINH HÀNG MA
+# MN 50. KINH HÀNG MA
 
-**50. KINH HÀNG MA**
 ***(Màratajjanìya Sutta)***
 
 **Như vầy tôi nghe.**

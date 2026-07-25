@@ -1,6 +1,5 @@
-# 47. KINH TƯ SÁT
+# MN 47. KINH TƯ SÁT
 
-**47. KINH TƯ SÁT**
 ***(Vìmamsaka Sutta)***
 
 **Như vầy tôi nghe.**

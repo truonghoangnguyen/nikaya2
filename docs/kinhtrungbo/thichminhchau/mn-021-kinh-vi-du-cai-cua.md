@@ -1,6 +1,5 @@
-# 21. KINH VÍ DỤ CÁI CƯA
+# MN 21. KINH VÍ DỤ CÁI CƯA
 
-**21. KINH VÍ DỤ CÁI CƯA**
 ***(Kakacùpama Sutta)***
 
 **Như vầy tôi nghe.**

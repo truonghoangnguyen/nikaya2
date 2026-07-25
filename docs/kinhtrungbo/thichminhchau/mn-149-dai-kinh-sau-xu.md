@@ -1,6 +1,5 @@
-# 149. ÐẠI KINH SÁU XỨ
+# MN 149. ÐẠI KINH SÁU XỨ
 
-**149. ÐẠI KINH SÁU XỨ**
 ***(Mahàsalàyatanika Sutta)***
 
 **Như vầy tôi nghe.**

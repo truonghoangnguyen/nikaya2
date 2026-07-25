@@ -1,6 +1,5 @@
-# 39. ÐẠI KINH XÓM NGỰA
+# MN 39. ÐẠI KINH XÓM NGỰA
 
-**39. ÐẠI KINH XÓM NGỰA**
 ***(Mahà-Assapura Sutta)***
 
 **Như vầy tôi nghe.**

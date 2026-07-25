@@ -1,6 +1,5 @@
-# 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH
+# MN 71. KINH DẠY VACCHAGOTTA VỀ TAM MINH
 
-**71. KINH DẠY VACCHAGOTTA VỀ TAM MINH**
 ***(Tevijjavacchagotta Sutta)***
 
 **Như vầy tôi nghe.**

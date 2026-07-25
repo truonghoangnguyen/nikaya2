@@ -1,6 +1,5 @@
-# 77. ÐẠI KINH SAKULUDÀYI
+# MN 77. ÐẠI KINH SAKULUDÀYI
 
-**77. ÐẠI KINH SAKULUDÀYI**
 ***(Mahàsakuludàyin Sutta)***
 
 **Như vầy tôi nghe.**

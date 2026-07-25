@@ -1,6 +1,5 @@
-# 139. KINH VÔ TRÁNH PHÂN BIỆT
+# MN 139. KINH VÔ TRÁNH PHÂN BIỆT
 
-**139. KINH VÔ TRÁNH PHÂN BIỆT**
 ***(Aranavibhanga Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 51. KINH KANDARAKA
+# MN 51. KINH KANDARAKA
 
-**51. KINH KANDARAKA**
 ***(Kandaraka sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 36. ÐẠI KINH SACCAKA
+# MN 36. ÐẠI KINH SACCAKA
 
-**36. ÐẠI KINH SACCAKA**
 ***(Mahàsaccaka Sutta)***
 
 **Như vầy tôi nghe.**

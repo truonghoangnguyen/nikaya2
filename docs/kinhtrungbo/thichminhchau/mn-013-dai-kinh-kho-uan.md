@@ -1,6 +1,5 @@
-# 13. ÐẠI KINH KHỔ UẨN
+# MN 13. ÐẠI KINH KHỔ UẨN
 
-**13. ÐẠI KINH KHỔ UẨN**
 ***(Mahàdukkhakkhanda Sutta)***
 
 Tôi nghe như vầy:

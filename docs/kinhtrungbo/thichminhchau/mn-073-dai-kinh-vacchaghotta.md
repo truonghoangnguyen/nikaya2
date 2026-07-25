@@ -1,6 +1,5 @@
-# 73. ÐẠI KINH VACCHAGHOTTA
+# MN 73. ÐẠI KINH VACCHAGHOTTA
 
-**73. ÐẠI KINH VACCHAGHOTTA**
 ***(Mahàvacchagotta Sutta)***
 
 **Như vầy tôi nghe.**

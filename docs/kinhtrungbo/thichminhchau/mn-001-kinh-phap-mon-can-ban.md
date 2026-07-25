@@ -1,6 +1,5 @@
-# 1. KINH PHÁP MÔN CĂN BẢN
+# MN 1. KINH PHÁP MÔN CĂN BẢN
 
-**1. KINH PHÁP MÔN CĂN BẢN**
 ***(Mùlapariyàya Sutta)***
 
 **Như vầy tôi nghe.**

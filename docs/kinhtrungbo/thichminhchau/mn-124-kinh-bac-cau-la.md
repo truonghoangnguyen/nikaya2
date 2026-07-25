@@ -1,6 +1,5 @@
-# 124. KINH BẠC-CÂU-LA
+# MN 124. KINH BẠC-CÂU-LA
 
-**124. KINH BẠC-CÂU-LA**
 ***(Bakkula Sutta)***
 
 **Như vầy tôi nghe.**

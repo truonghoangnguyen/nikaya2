@@ -1,6 +1,5 @@
-# 84. KINH MADHURÀ
+# MN 84. KINH MADHURÀ
 
-**84. KINH MADHURÀ**
 ***(Madhurà Sutta)***
 
 **Như vầy tôi nghe.**

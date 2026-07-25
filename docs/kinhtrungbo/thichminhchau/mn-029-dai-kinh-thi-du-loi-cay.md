@@ -1,6 +1,5 @@
-# 29. ÐẠI KINH THÍ DỤ LÕI CÂY
+# MN 29. ÐẠI KINH THÍ DỤ LÕI CÂY
 
-**29. ÐẠI KINH THÍ DỤ LÕI CÂY**
 ***(Mahasaropama-Sutta)***
 
 **Như vầy tôi nghe.**

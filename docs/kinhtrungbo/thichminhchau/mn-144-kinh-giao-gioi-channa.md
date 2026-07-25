@@ -1,6 +1,5 @@
-# 144. KINH GIÁO GIỚI CHANNA
+# MN 144. KINH GIÁO GIỚI CHANNA
 
-**144. KINH GIÁO GIỚI CHANNA**
 ***(Channovàda Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 33. ÐẠI KINH NGƯỜI CHĂN BÒ
+# MN 33. ÐẠI KINH NGƯỜI CHĂN BÒ
 
-**33. ÐẠI KINH NGƯỜI CHĂN BÒ**
 ***(Mahàgopàlaka Sutta)***
 
 **Như vầy tôi nghe.**

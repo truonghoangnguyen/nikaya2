@@ -1,6 +1,5 @@
-# 31. TIỂU KINH RỪNG SỪNG BÒ
+# MN 31. TIỂU KINH RỪNG SỪNG BÒ
 
-**31. TIỂU KINH RỪNG SỪNG BÒ**
 ***(Cùlagosinga Sutta)***
 
 **Như vầy tôi nghe.**

@@ -1,6 +1,5 @@
-# 145. KINH GIÁO GIỚI PHÚ-LÂU-NA
+# MN 145. KINH GIÁO GIỚI PHÚ-LÂU-NA
 
-**145. KINH GIÁO GIỚI PHÚ-LÂU-NA**
 ***(Punnovàda Sutta)***
 
 **Như vầy tôi nghe.**

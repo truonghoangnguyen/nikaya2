@@ -1,6 +1,5 @@
-# 113. KINH CHÂN NHÂN
+# MN 113. KINH CHÂN NHÂN
 
-**113. KINH CHÂN NHÂN**
 ***(Sappurisa Sutta)***
 
 **Như vầy tôi nghe.**

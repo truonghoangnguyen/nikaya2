@@ -3,9 +3,8 @@ tags:
  - Sāriputta
 ---
 
-# 5. KINH KHÔNG UẾ NHIỄM
+# MN 5. KINH KHÔNG UẾ NHIỄM
 
-**5. KINH KHÔNG UẾ NHIỄM**
 ***(Anangana Sutta)***
 
 **Như vầy tôi nghe.**

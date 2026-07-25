@@ -1,6 +1,5 @@
-# 70. KINH KÌTÀGIRI
+# MN 70. KINH KÌTÀGIRI
 
-**70. KINH KÌTÀGIRI**
 ***(Kìtàgiri Sutta)***
 
 **Như vầy tôi nghe.**

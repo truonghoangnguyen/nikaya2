@@ -1,6 +1,5 @@
-# 54. KINH POTALIYA
+# MN 54. KINH POTALIYA
 
-**54. KINH POTALIYA**
 ***(Potaliya Sutta)***
 
 **Như vầy tôi nghe.**

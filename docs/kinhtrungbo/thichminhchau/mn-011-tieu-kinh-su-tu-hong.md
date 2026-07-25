@@ -1,6 +1,5 @@
-# 11. TIỂU KINH SƯ TỬ HỐNG
+# MN 11. TIỂU KINH SƯ TỬ HỐNG
 
-**11. TIỂU KINH SƯ TỬ HỐNG**
 ***(Cùlasìhanàda Sutta)***
 
 **Như vầy tôi nghe.**
