@@ -1,5 +1,6 @@
 # MN 23. KINH GÒ MỐI
 *(Vammikasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-023){class="note-link"}
 
 1\. Tôi đã nghe như vầy—một thời Thế Tôn trú ở Sāvatthi, tại rừng Jetavana, trong tu viện của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Kumārakassapa đang trú ở khu rừng Andhavana.
 

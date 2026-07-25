@@ -1,3 +1,8 @@
+---
+tags:
+ - quá trình tu tập
+---
+
 # MN 26. KINH THÁNH CẦU
 
 ***(Ariyapariyesanà Sutta)***

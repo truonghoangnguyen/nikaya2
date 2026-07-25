@@ -1,3 +1,34 @@
+# MN 24. KINH TRẠM XE (Tóm lược)
+
+[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-024-kinh-tram-xe){class="note-link"}
+
+**Bối cảnh:**
+Tại Vương Xá, các tỳ kheo hết lời ca ngợi Tôn giả Puṇṇa Mantāṇiputta (Phú-lâu-na) là một người thực hành phạm hạnh xuất sắc và có khả năng khích lệ, hướng dẫn người khác. Tôn giả Sāriputta (Xá-lợi-phất) nghe vậy liền khởi tâm ngưỡng mộ và mong muốn được gặp gỡ. Sau này, khi Đức Phật di chuyển đến Xá Vệ, Puṇṇa đến thăm Phật rồi vào rừng Andhavana nghỉ ngơi. Sāriputta liền đi theo vào rừng để đàm đạo và khảo nghiệm trí tuệ của vị sư nổi tiếng này.
+
+> "Thật là lợi ích cho Tôn giả Puṇṇa Mantāṇiputta... khi mà các bạn đồng tu có trí tuệ đã hết lời ca ngợi vị ấy ngay trước mặt Bậc Đạo Sư... Mong sao có một lúc nào đó, ta có thể gặp gỡ Tôn giả Puṇṇa Mantāṇiputta, mong sao có một cuộc đàm đạo [giữa chúng ta]."
+
+---
+
+**1. Mục đích thực sự của đời sống tu tập**
+Sāriputta bắt đầu khảo nghiệm bằng cách hỏi Puṇṇa xem mục đích của việc tu tập theo Đức Phật có phải là để đạt được các trạng thái thanh lọc (như thanh lọc về đạo đức, thanh lọc tâm, thanh lọc quan điểm...) hay không. Puṇṇa phủ nhận tất cả và khẳng định rằng, mục đích tối hậu không phải là các trạng thái đó, mà là sự giải thoát hoàn toàn, không còn bám víu vào bất cứ điều gì.
+
+> "Thưa hiền giả, đời sống thánh thiện được sống dưới sự hướng dẫn của Thế Tôn vì mục đích sự dập tắt hoàn toàn không còn bám giữ (anupādāparinibbānatthaṁ)."
+
+**2. Các giai đoạn thanh lọc chỉ là phương tiện, không phải đích đến**
+Sāriputta hỏi tiếp: Vậy sự giải thoát cuối cùng đó giống với các trạng thái thanh lọc [trung gian] kia, hay nó nằm ngoài các trạng thái đó? Puṇṇa giải thích sắc bén rằng: Nếu xem các trạng thái thanh lọc (vốn là những thứ còn sự bám giữ) là đích đến cuối cùng, thì đó là một sai lầm. Ngược lại, nếu đích đến cuối cùng không cần đi qua các trạng thái thanh lọc này, thì một người phàm phu không tu tập gì cũng có thể giải thoát.
+
+> "Thưa hiền giả, nếu Thế Tôn tuyên bố sự thanh lọc về lối sống đạo đức là sự dập tắt hoàn toàn không còn bám giữ, thì Ngài đã tuyên bố *một trạng thái còn bám giữ* là *trạng thái dập tắt hoàn toàn không còn bám giữ*... Và thưa hiền giả, nếu sự dập tắt hoàn toàn không còn bám giữ nằm ngoài những trạng thái này, thì một phàm phu cũng có thể đạt được sự dập tắt hoàn toàn."
+
+**3. Ví dụ về bảy trạm xe ngựa tiếp sức**
+Để làm rõ ý mình, Puṇṇa đưa ra một ví dụ rất thực tế: Giống như Vua Pasenadi cần đi gấp từ Xá Vệ đến Sāketa, nhà vua phải dùng 7 chiếc xe ngựa được bố trí sẵn ở 7 trạm. Vua đi chiếc thứ nhất để đến trạm thứ hai, rồi bỏ chiếc thứ nhất lại để lên chiếc thứ hai, cứ thế tiếp sức cho đến khi tới đích. Không thể nói nhà vua đến đích chỉ bằng một chiếc xe, mà mỗi chiếc xe chỉ là phương tiện để đi đến trạm tiếp theo. Tương tự, 7 giai đoạn thanh lọc trong tu tập chỉ là những bước đệm tiếp sức cho nhau để tiến tới sự giải thoát cuối cùng.
+
+> "Cũng y như vậy, thưa hiền giả, sự thanh lọc về lối sống đạo đức chỉ là vì mục đích sự thanh lọc về tâm; sự thanh lọc về tâm chỉ là vì mục đích sự thanh lọc về quan điểm... sự thanh lọc về thấy rõ bản chất và hiểu biết chỉ là vì mục đích sự dập tắt hoàn toàn không còn bám giữ."
+
+**4. Sự hội ngộ và tán thán lẫn nhau của hai bậc đại trí**
+Sau khi nghe câu trả lời hoàn hảo, Sāriputta hỏi tên người đối diện và Puṇṇa cũng hỏi ngược lại. Khi nhận ra nhau, cả hai vị đại đệ tử đều vô cùng kinh ngạc và vui mừng. Họ dành cho nhau những lời tán thán sâu sắc nhất, trân trọng trí tuệ của đối phương như trí tuệ của chính Bậc Đạo Sư.
+
+> "Ôi, tôi đang đàm đạo với một vị đệ tử được ví như chính Bậc Đạo Sư mà lại không hề hay biết: 'Đây là Tôn giả Sāriputta'... Thật kỳ diệu, thưa hiền giả! Thật phi thường, thưa hiền giả! Giống như một đệ tử có học đã hiểu biết trọn vẹn giáo pháp của Bậc Đạo Sư, Tôn giả Sāriputta đã đặt từng câu hỏi sâu sắc một cách vô cùng sâu sắc."
+
 ### Khảo sát văn bản
 
 - **Bối cảnh kinh**: Đây là bài kinh số 24 thuộc Trung Bộ Kinh (Majjhima Nikāya), mang tên *Rathavinītasutta* (Kinh Trạm xe). Đức Phật đang ở Rājagaha (Vương Xá), sau đó di chuyển đến Sāvatthi (Xá Vệ). Bài kinh ghi lại cuộc gặp gỡ và đối thoại nổi tiếng giữa hai vị đại đệ tử: Tôn giả Sāriputta (Xá-lợi-phất) và Tôn giả Puṇṇa Mantāṇiputta (Phú-lâu-na Di-đa-la-ni Tử).

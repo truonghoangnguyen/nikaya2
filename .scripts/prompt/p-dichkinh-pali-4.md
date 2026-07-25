@@ -100,7 +100,7 @@ Dịch:
 
 Với mỗi văn bản đầu vào, thực hiện tuần tự 3 bước:
 
-## Bước 1: Khảo sát văn bản
+## Khảo sát văn bản
 Trước khi dịch, ghi nhận ngắn gọn:
 - **Bối cảnh kinh**: bài kinh nào (nếu biết), trước/sau nói gì, ai là người nghe?
 - **Bối cảnh tranh luận** (nếu có): Phật đang nói với ai? Phản bác quan điểm nào?
@@ -108,7 +108,7 @@ Trước khi dịch, ghi nhận ngắn gọn:
 - **Mơ hồ ngữ pháp / đa nghĩa**: có chỗ nào cho phép đọc theo nhiều cách không? → cờ `[NG]`.
 - **Khung khái niệm có thể bị áp đặt**: có thuật ngữ nào dễ bị đọc qua Abhidhamma / Đại thừa / triết học phương Tây không? → cờ `[KK]`.
 
-## Bước 2: Liệt kê thuật ngữ trong bài
+## Liệt kê thuật ngữ trong bài
 
 1. Lập *Bảng thuật ngữ trong bài*: liệt kê các thuật ngữ Pali quan trọng xuất hiện trong đoạn văn và phương án dịch của bạn.
 Theo mục "3. Nguyên tắc từ vựng" và Theo mục "4. Hệ thống cờ (FLAGS)"
@@ -127,7 +127,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | [NG] bhavanetti | ... | ... | Từ bhavanetti (sợi dây dẫn đến cõi tồn tại) |
 
 
-## Bước 3: Dịch thuật
+## Dịch thuật
 - Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên những `# NGUYÊN TẮC (GUIDELINES)`.
 - Giữ cấu trúc kinh văn Pali sát nhất , **không rút gọn công thức lặp** — vì cấu trúc lặp là đặc trưng cốt lõi của kinh văn truyền khẩu.
 
@@ -371,14 +371,18 @@ Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu. Ayaṁ eko dhammo bahu
 ### Output (Kết quả mong muốn):
 
 <output>
-**Bảng thuật ngữ**:
+
+### Khảo sát văn bản
+<nội dung khảo sát/>
+
+### Bảng thuật ngữ trong bài
 
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
 | dhammā | pháp | Điều/quy luật | |
 | [BT] bahukāro | đa tác dụng | mang lại nhiều lợi ích | Dấu hiệu phân loại hệ thống hóa của kinh muộn. |
 | [BT] bhāvetabbo | tu tập | cần được phát triển | |
-| [BT] pariññeyyo | liễu tri | cần được hiểu biết trọn vẹn | |
+| ! pariññeyyo | liễu tri | cần được hiểu biết trọn vẹn | |
 | [BT] pahātabbo | đoạn trừ | cần được từ bỏ | |
 | [BT] hānabhāgiyo | phần tổn giảm | dẫn đến suy thoái | |
 
