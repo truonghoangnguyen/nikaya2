@@ -1,6 +1,5 @@
 # 101. KINH DEVADAHA
 
-**TẬP** **III**
 **101. KINH DEVADAHA**
 ***(Devadaha Sutta)***
 

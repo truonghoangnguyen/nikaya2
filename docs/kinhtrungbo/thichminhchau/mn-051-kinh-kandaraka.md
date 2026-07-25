@@ -1,6 +1,5 @@
 # 51. KINH KANDARAKA
 
-**TẬP** **II**
 **51. KINH KANDARAKA**
 ***(Kandaraka sutta)***
 

@@ -1,6 +1,8 @@
+---
+tags:
+ - Sāriputta
+---
 # 24. KINH TRẠM XE
-
-**24. KINH TRẠM XE**
 ***(Rathavinìta Sutta)***
 
 **Như vầy tôi nghe.**

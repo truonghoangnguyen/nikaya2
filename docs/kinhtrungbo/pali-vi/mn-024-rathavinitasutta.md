@@ -1,119 +1,125 @@
-# MN 24. Rathavinītasutta
+# MN 24. KINH TRẠM XE
+*(Rathavinītasutta)*
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+1\. Tôi đã nghe như vầy — một thời Thế Tôn trú ở Rājagaha (Vương Xá), tại Veḷuvana (Trúc Lâm), nơi nuôi dưỡng sóc.
 
-2\. Atha kho sambahulā jātibhūmakā bhikkhū jātibhūmiyaṁ vassaṁvuṭṭhā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho te bhikkhū bhagavā etadavoca:
+2\. Khi ấy, có nhiều tỳ kheo *người cùng quê hương* (đồng hương / jātibhūmakā) đã an cư mùa mưa tại quê hương, đi đến nơi Thế Tôn ở; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi các tỳ kheo ấy đã ngồi một bên, Thế Tôn nói điều này với họ:
 
-“Ko nu kho, bhikkhave, jātibhūmiyaṁ jātibhūmakānaṁ bhikkhūnaṁ sabrahmacārīnaṁ evaṁ sambhāvito: ‘attanā ca appiccho appicchakathañca bhikkhūnaṁ kattā, attanā ca santuṭṭho santuṭṭhikathañca bhikkhūnaṁ kattā, attanā ca pavivitto pavivekakathañca bhikkhūnaṁ kattā, attanā ca asaṁsaṭṭho asaṁsaggakathañca bhikkhūnaṁ kattā, attanā ca āraddhavīriyo vīriyārambhakathañca bhikkhūnaṁ kattā, attanā ca sīlasampanno sīlasampadākathañca bhikkhūnaṁ kattā, attanā ca samādhisampanno samādhisampadākathañca bhikkhūnaṁ kattā, attanā ca paññāsampanno paññāsampadākathañca bhikkhūnaṁ kattā, attanā ca vimuttisampanno vimuttisampadākathañca bhikkhūnaṁ kattā, attanā ca vimuttiñāṇadassanasampanno vimuttiñāṇadassanasampadākathañca bhikkhūnaṁ kattā, ovādako viññāpako sandassako samādapako samuttejako sampahaṁsako sabrahmacārīnan’”ti?
+"Này các tỳ kheo, trong số các tỳ kheo ở quê hương, ai là người được các *bạn đồng tu* (đồng phạm hạnh / sabrahmacārīnaṁ) tôn trọng như thế này: 'Tự mình *ít mong muốn* (thiểu dục / appiccho) và là người nói về sự *ít mong muốn* (appicchakathañca) cho các tỳ kheo; tự mình *bằng lòng* (tri túc / santuṭṭho) và là người nói về sự *bằng lòng* (santuṭṭhikathañca) cho các tỳ kheo; tự mình *sống tách biệt* (viễn ly / pavivitto) và là người nói về sự *sống tách biệt* (pavivekakathañca) cho các tỳ kheo; tự mình *không tụ tập* (vô triền / asaṁsaṭṭho) và là người nói về sự *không tụ tập* (asaṁsaggakathañca) cho các tỳ kheo; tự mình *nỗ lực mạnh mẽ* (tinh cần / āraddhavīriyo) và là người nói về sự *nỗ lực mạnh mẽ* (vīriyārambhakathañca) cho các tỳ kheo; tự mình *thành tựu lối sống đạo đức* (giới cụ túc / sīlasampanno) và là người nói về sự *thành tựu lối sống đạo đức* (sīlasampadākathañca) cho các tỳ kheo; tự mình *thành tựu Định* (định cụ túc / samādhisampanno) và là người nói về sự *thành tựu Định* (samādhisampadākathañca) cho các tỳ kheo; tự mình *thành tựu trí tuệ* (tuệ cụ túc / paññāsampanno) và là người nói về sự *thành tựu trí tuệ* (paññāsampadākathañca) cho các tỳ kheo; tự mình *thành tựu giải thoát* (giải thoát cụ túc / vimuttisampanno) và là người nói về sự *thành tựu giải thoát* (vimuttisampadākathañca) cho các tỳ kheo; tự mình *thành tựu sự thấy rõ bản chất và hiểu biết về giải thoát* (giải thoát tri kiến cụ túc / vimuttiñāṇadassanasampanno) và là người nói về sự *thành tựu sự thấy rõ bản chất và hiểu biết về giải thoát* (vimuttiñāṇadassanasampadākathañca) cho các tỳ kheo; là *người khuyên bảo* (giáo giới / ovādako), *người hướng dẫn* (chỉ giáo / viññāpako), *người làm sáng tỏ* (khích lệ / sandassako), *người thúc đẩy* (samādapako), *người làm phấn chấn* (samuttejako), *người làm hoan hỷ* (sampahaṁsako) cho các *bạn đồng tu*'?"
 
-“Puṇṇo nāma, bhante, āyasmā mantāṇiputto jātibhūmiyaṁ jātibhūmakānaṁ bhikkhūnaṁ sabrahmacārīnaṁ evaṁ sambhāvito: ‘attanā ca appiccho appicchakathañca bhikkhūnaṁ kattā, attanā ca santuṭṭho …pe… ovādako viññāpako sandassako samādapako samuttejako sampahaṁsako sabrahmacārīnan’”ti.
+"Bạch Thế Tôn, có Tôn giả tên là Puṇṇa Mantāṇiputta (Phú-lâu-na Di-đa-la-ni Tử), ở quê hương, được các *bạn đồng tu* tôn trọng như thế này: 'Tự mình *ít mong muốn* và là người nói về sự *ít mong muốn* cho các tỳ kheo; tự mình *bằng lòng* [...lặp lại...] là *người khuyên bảo*, *người hướng dẫn*, *người làm sáng tỏ*, *người thúc đẩy*, *người làm phấn chấn*, *người làm hoan hỷ* cho các *bạn đồng tu*'."
 
-3\. Tena kho pana samayena āyasmā sāriputto bhagavato avidūre nisinno hoti. Atha kho āyasmato sāriputtassa etadahosi:
+3\. Lúc bấy giờ, Tôn giả Sāriputta (Xá-lợi-phất) đang ngồi không xa Thế Tôn. Khi ấy, Tôn giả Sāriputta khởi lên suy nghĩ này:
 
-“lābhā āyasmato puṇṇassa mantāṇiputtassa, suladdhalābhā āyasmato puṇṇassa mantāṇiputtassa, yassa viññū sabrahmacārī satthu sammukhā anumassa anumassa vaṇṇaṁ bhāsanti, tañca satthā abbhanumodati. Appeva nāma mayampi kadāci karahaci āyasmatā puṇṇena mantāṇiputtena saddhiṁ samāgaccheyyāma, appeva nāma siyā kocideva kathāsallāpo”ti.
+"Thật là lợi ích cho Tôn giả Puṇṇa Mantāṇiputta, thật là khéo được lợi ích cho Tôn giả Puṇṇa Mantāṇiputta, khi mà các *bạn đồng tu* có trí tuệ đã hết lời ca ngợi vị ấy ngay trước mặt Bậc Đạo Sư, và Bậc Đạo Sư cũng tán thành điều đó. Mong sao có một lúc nào đó, ta có thể gặp gỡ Tôn giả Puṇṇa Mantāṇiputta, mong sao có một cuộc đàm đạo [giữa chúng ta]."
 
-4\. Atha kho bhagavā rājagahe yathābhirantaṁ viharitvā yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari. Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Assosi kho āyasmā puṇṇo mantāṇiputto: “bhagavā kira sāvatthiṁ anuppatto; sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme”ti.
+4\. Sau đó, Thế Tôn ở lại Rājagaha cho đến khi vừa ý, rồi khởi hành chuyến du hành hướng về Sāvatthi. Đi du hành tuần tự, Ngài đến Sāvatthi. Tại đó, Thế Tôn trú ở Sāvatthi, tại Jetavana (Kỳ Viên), tu viện của Anāthapiṇḍika (Cấp Cô Độc). Tôn giả Puṇṇa Mantāṇiputta nghe tin: "Thế Tôn đã đến Sāvatthi; Ngài đang trú ở Sāvatthi, tại Jetavana, tu viện của Anāthapiṇḍika."
 
-5\. Atha kho āyasmā puṇṇo mantāṇiputto senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho āyasmā puṇṇo mantāṇiputto bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā yena andhavanaṁ tenupasaṅkami divāvihārāya.
+5\. Khi ấy, Tôn giả Puṇṇa Mantāṇiputta thu dọn chỗ ở, mang theo y bát, khởi hành chuyến du hành hướng về Sāvatthi. Đi du hành tuần tự, vị ấy đến Sāvatthi, đến Jetavana, tu viện của Anāthapiṇḍika, đi đến nơi Thế Tôn ở; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi Tôn giả Puṇṇa Mantāṇiputta đang ngồi một bên, Thế Tôn đã dùng bài pháp thoại để *làm sáng tỏ*, *thúc đẩy*, *làm phấn chấn*, *làm hoan hỷ* vị ấy. Sau đó, Tôn giả Puṇṇa Mantāṇiputta, sau khi được Thế Tôn *làm sáng tỏ*, *thúc đẩy*, *làm phấn chấn*, *làm hoan hỷ* bằng bài pháp thoại, đã vui mừng đón nhận và hoan hỷ với lời Thế Tôn dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh Ngài về phía hữu, rồi đi đến Andhavana (Rừng Mù) để nghỉ ngơi ban ngày.
 
-6\. Atha kho aññataro bhikkhu yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmantaṁ sāriputtaṁ etadavoca: “yassa kho tvaṁ, āvuso sāriputta, puṇṇassa nāma bhikkhuno mantāṇiputtassa abhiṇhaṁ kittayamāno ahosi, so bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā yena andhavanaṁ tena pakkanto divāvihārāyā”ti.
+6\. Khi ấy, một tỳ kheo đi đến nơi Tôn giả Sāriputta ở; sau khi đến, nói với Tôn giả Sāriputta điều này: "Thưa hiền giả Sāriputta, vị tỳ kheo tên là Puṇṇa Mantāṇiputta mà hiền giả thường xuyên ca ngợi, vị ấy sau khi được Thế Tôn *làm sáng tỏ*, *thúc đẩy*, *làm phấn chấn*, *làm hoan hỷ* bằng bài pháp thoại, đã vui mừng đón nhận và hoan hỷ với lời Thế Tôn dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh Ngài về phía hữu, rồi đã đi đến Andhavana để nghỉ ngơi ban ngày."
 
-7\. Atha kho āyasmā sāriputto taramānarūpo nisīdanaṁ ādāya āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ piṭṭhito piṭṭhito anubandhi sīsānulokī. Atha kho āyasmā puṇṇo mantāṇiputto andhavanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi. Āyasmāpi kho sāriputto andhavanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi.
+7\. Khi ấy, Tôn giả Sāriputta vội vã lấy tọa cụ, đi theo sát ngay phía sau Tôn giả Puṇṇa Mantāṇiputta, mắt luôn nhìn theo. Sau đó, Tôn giả Puṇṇa Mantāṇiputta đi sâu vào Andhavana và ngồi nghỉ ban ngày dưới gốc một cây nọ. Tôn giả Sāriputta cũng đi sâu vào Andhavana và ngồi nghỉ ban ngày dưới gốc một cây nọ.
 
-8\. Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā puṇṇo mantāṇiputto tenupasaṅkami; upasaṅkamitvā āyasmatā puṇṇena mantāṇiputtena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ etadavoca:
+8\. Khi ấy, vào buổi chiều, Tôn giả Sāriputta xuất định, đi đến nơi Tôn giả Puṇṇa Mantāṇiputta ở; sau khi đến, trao đổi những lời chào hỏi thân hữu với Tôn giả Puṇṇa Mantāṇiputta. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, vị ấy ngồi xuống một bên. Ngồi một bên, Tôn giả Sāriputta nói với Tôn giả Puṇṇa Mantāṇiputta điều này:
 
-9\. “Bhagavati no, āvuso, brahmacariyaṁ vussatī”ti?
+<!--pg-->
+9\. "Thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* (phạm hạnh / brahmacariya) dưới sự hướng dẫn của Thế Tôn chúng ta không?"
 
-“Evamāvuso”ti.
+"Đúng vậy, thưa hiền giả."
 
-“Kiṁ nu kho, āvuso, sīlavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī”ti?
+"Thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về lối sống đạo đức* (giới thanh tịnh / sīlavisuddhatthaṁ) không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ panāvuso, cittavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī”ti?
+"Vậy thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về tâm* (tâm thanh tịnh / cittavisuddhatthaṁ) không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ nu kho, āvuso, diṭṭhivisuddhatthaṁ bhagavati brahmacariyaṁ vussatī”ti?
+"Thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về quan điểm* (kiến thanh tịnh / diṭṭhivisuddhatthaṁ) không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ panāvuso, kaṅkhāvitaraṇavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī”ti?
+"Vậy thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về vượt qua nghi ngờ* (độ nghi thanh tịnh / kaṅkhāvitaraṇavisuddhatthaṁ) không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ nu kho, āvuso, maggāmaggañāṇadassanavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī”ti?
+"Thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về thấy rõ bản chất và hiểu biết đâu là con đường và đâu không phải là con đường* (đạo phi đạo tri kiến thanh tịnh / maggāmaggañāṇadassanavisuddhatthaṁ) không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ panāvuso, paṭipadāñāṇadassanavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī”ti?
+"Vậy thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về thấy rõ bản chất và hiểu biết về phương pháp thực hành* (đạo tịch tri kiến thanh tịnh / paṭipadāñāṇadassanavisuddhatthaṁ) không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ nu kho, āvuso, ñāṇadassanavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī”ti?
+"Thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về thấy rõ bản chất và hiểu biết* (tri kiến thanh tịnh / ñāṇadassanavisuddhatthaṁ) không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-10\. “‘Kiṁ nu kho, āvuso, sīlavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī’ti iti puṭṭho samāno ‘no hidaṁ, āvuso’ti vadesi. ‘Kiṁ panāvuso, cittavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī’ti iti puṭṭho samāno ‘no hidaṁ, āvuso’ti vadesi. ‘Kiṁ nu kho, āvuso, diṭṭhivisuddhatthaṁ …pe… kaṅkhāvitaraṇavisuddhatthaṁ …pe… maggāmaggañāṇadassanavisuddhatthaṁ …pe… paṭipadāñāṇadassanavisuddhatthaṁ …pe… kiṁ nu kho, āvuso, ñāṇadassanavisuddhatthaṁ bhagavati brahmacariyaṁ vussatī’ti iti puṭṭho samāno ‘no hidaṁ āvuso’ti vadesi. Kimatthaṁ carahāvuso, bhagavati brahmacariyaṁ vussatī”ti?
+10\. "Khi được hỏi: 'Thưa hiền giả, khi được hỏi: có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về lối sống đạo đức* không?', hiền giả trả lời: 'Không phải vậy, thưa hiền giả'. Khi được hỏi: 'Vậy thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về tâm* không?', hiền giả trả lời: 'Không phải vậy, thưa hiền giả'. Khi được hỏi: 'Thưa hiền giả, có phải vì mục đích *sự thanh lọc về quan điểm* [...lặp lại...] vì mục đích *sự thanh lọc về vượt qua nghi ngờ* [...lặp lại...] vì mục đích *sự thanh lọc về thấy rõ bản chất và hiểu biết đâu là con đường và đâu không phải là con đường* [...lặp lại...] vì mục đích *sự thanh lọc về thấy rõ bản chất và hiểu biết về phương pháp thực hành* [...lặp lại...] Thưa hiền giả, có phải [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự thanh lọc về thấy rõ bản chất và hiểu biết* không?', hiền giả trả lời: 'Không phải vậy, thưa hiền giả'. Vậy thưa hiền giả, [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] gì?"
 
-“Anupādāparinibbānatthaṁ kho, āvuso, bhagavati brahmacariyaṁ vussatī”ti.
+<!--pg-->
+"Thưa hiền giả, [chúng ta sống] *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn vì mục đích [đạt được] *sự dập tắt hoàn toàn không còn bám giữ* (vô thủ trước bát-niết-bàn / anupādāparinibbānatthaṁ)."
 
-11\. “Kiṁ nu kho, āvuso, sīlavisuddhi anupādāparinibbānan”ti?
+<!--pg-->
+11\. "Thưa hiền giả, có phải *sự thanh lọc về lối sống đạo đức* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ panāvuso, cittavisuddhi anupādāparinibbānan”ti?
+"Vậy thưa hiền giả, có phải *sự thanh lọc về tâm* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ nu kho, āvuso, diṭṭhivisuddhi anupādāparinibbānan”ti?
+"Thưa hiền giả, có phải *sự thanh lọc về quan điểm* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ panāvuso, kaṅkhāvitaraṇavisuddhi anupādāparinibbānan”ti?
+"Vậy thưa hiền giả, có phải *sự thanh lọc về vượt qua nghi ngờ* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ nu kho, āvuso, maggāmaggañāṇadassanavisuddhi anupādāparinibbānan”ti?
+"Thưa hiền giả, có phải *sự thanh lọc về thấy rõ bản chất và hiểu biết đâu là con đường và đâu không phải là con đường* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ panāvuso, paṭipadāñāṇadassanavisuddhi anupādāparinibbānan”ti?
+"Vậy thưa hiền giả, có phải *sự thanh lọc về thấy rõ bản chất và hiểu biết về phương pháp thực hành* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ nu kho, āvuso, ñāṇadassanavisuddhi anupādāparinibbānan”ti?
+"Thưa hiền giả, có phải *sự thanh lọc về thấy rõ bản chất và hiểu biết* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-“Kiṁ panāvuso, aññatra imehi dhammehi anupādāparinibbānan”ti?
+"Vậy thưa hiền giả, có phải *sự dập tắt hoàn toàn không còn bám giữ* nằm ngoài những trạng thái này không?"
 
-“No hidaṁ, āvuso”.
+"Không phải vậy, thưa hiền giả."
 
-12\. “‘Kiṁ nu kho, āvuso, sīlavisuddhi anupādāparinibbānan’ti iti puṭṭho samāno ‘no hidaṁ, āvuso’ti vadesi. ‘Kiṁ panāvuso, cittavisuddhi anupādāparinibbānan’ti iti puṭṭho samāno ‘no hidaṁ, āvuso’ti vadesi. ‘Kiṁ nu kho, āvuso, diṭṭhivisuddhi anupādāparinibbānan’ti …pe… kaṅkhāvitaraṇavisuddhi … maggāmaggañāṇadassanavisuddhi … paṭipadāñāṇadassanavisuddhi … ‘kiṁ nu kho, āvuso, ñāṇadassanavisuddhi anupādāparinibbānan’ti iti puṭṭho samāno ‘no hidaṁ, āvuso’ti vadesi. ‘Kiṁ panāvuso, aññatra imehi dhammehi anupādāparinibbānan’ti iti puṭṭho samāno ‘no hidaṁ, āvuso’ti vadesi. Yathākathaṁ panāvuso, imassa bhāsitassa attho daṭṭhabbo”ti?
+12\. "Khi được hỏi: 'Thưa hiền giả, có phải *sự thanh lọc về lối sống đạo đức* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?', hiền giả trả lời: 'Không phải vậy, thưa hiền giả'. Khi được hỏi: 'Vậy thưa hiền giả, có phải *sự thanh lọc về tâm* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?', hiền giả trả lời: 'Không phải vậy, thưa hiền giả'. Khi được hỏi: 'Thưa hiền giả, có phải *sự thanh lọc về quan điểm* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?' [...lặp lại...] *sự thanh lọc về vượt qua nghi ngờ*... *sự thanh lọc về thấy rõ bản chất và hiểu biết đâu là con đường và đâu không phải là con đường*... *sự thanh lọc về thấy rõ bản chất và hiểu biết về phương pháp thực hành*... Khi được hỏi: 'Thưa hiền giả, có phải *sự thanh lọc về thấy rõ bản chất và hiểu biết* chính là *sự dập tắt hoàn toàn không còn bám giữ* không?', hiền giả trả lời: 'Không phải vậy, thưa hiền giả'. Khi được hỏi: 'Vậy thưa hiền giả, có phải *sự dập tắt hoàn toàn không còn bám giữ* nằm ngoài những trạng thái này không?', hiền giả trả lời: 'Không phải vậy, thưa hiền giả'. Vậy thưa hiền giả, ý nghĩa của lời nói này cần được hiểu như thế nào?"
 
-13\. “Sīlavisuddhiñce, āvuso, bhagavā anupādāparinibbānaṁ paññapeyya, saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya. Cittavisuddhiñce, āvuso, bhagavā anupādāparinibbānaṁ paññapeyya, saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya. Diṭṭhivisuddhiñce, āvuso, bhagavā anupādāparinibbānaṁ paññapeyya, saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya. Kaṅkhāvitaraṇavisuddhiñce, āvuso, bhagavā anupādāparinibbānaṁ paññapeyya, saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya. Maggāmaggañāṇadassanavisuddhiñce, āvuso, bhagavā anupādāparinibbānaṁ paññapeyya, saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya. Paṭipadāñāṇadassanavisuddhiñce, āvuso, bhagavā anupādāparinibbānaṁ paññapeyya, saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya. Ñāṇadassanavisuddhiñce, āvuso, bhagavā anupādāparinibbānaṁ paññapeyya, saupādānaṁyeva samānaṁ anupādāparinibbānaṁ paññapeyya. Aññatra ce, āvuso, imehi dhammehi anupādāparinibbānaṁ abhavissa, puthujjano parinibbāyeyya. Puthujjano hi, āvuso, aññatra imehi dhammehi.
+<!--pg-->
+13\. "Thưa hiền giả, nếu Thế Tôn tuyên bố *sự thanh lọc về lối sống đạo đức* là *sự dập tắt hoàn toàn không còn bám giữ*, thì Ngài đã tuyên bố một trạng thái *còn bám giữ* (hữu thủ / saupādāna) là *sự dập tắt hoàn toàn không còn bám giữ*. Thưa hiền giả, nếu Thế Tôn tuyên bố *sự thanh lọc về tâm* là *sự dập tắt hoàn toàn không còn bám giữ*, thì Ngài đã tuyên bố một trạng thái *còn bám giữ* là *sự dập tắt hoàn toàn không còn bám giữ*. Thưa hiền giả, nếu Thế Tôn tuyên bố *sự thanh lọc về quan điểm* là *sự dập tắt hoàn toàn không còn bám giữ*, thì Ngài đã tuyên bố một trạng thái *còn bám giữ* là *sự dập tắt hoàn toàn không còn bám giữ*. Thưa hiền giả, nếu Thế Tôn tuyên bố *sự thanh lọc về vượt qua nghi ngờ* là *sự dập tắt hoàn toàn không còn bám giữ*, thì Ngài đã tuyên bố một trạng thái *còn bám giữ* là *sự dập tắt hoàn toàn không còn bám giữ*. Thưa hiền giả, nếu Thế Tôn tuyên bố *sự thanh lọc về thấy rõ bản chất và hiểu biết đâu là con đường và đâu không phải là con đường* là *sự dập tắt hoàn toàn không còn bám giữ*, thì Ngài đã tuyên bố một trạng thái *còn bám giữ* là *sự dập tắt hoàn toàn không còn bám giữ*. Thưa hiền giả, nếu Thế Tôn tuyên bố *sự thanh lọc về thấy rõ bản chất và hiểu biết về phương pháp thực hành* là *sự dập tắt hoàn toàn không còn bám giữ*, thì Ngài đã tuyên bố một trạng thái *còn bám giữ* là *sự dập tắt hoàn toàn không còn bám giữ*. Thưa hiền giả, nếu Thế Tôn tuyên bố *sự thanh lọc về thấy rõ bản chất và hiểu biết* là *sự dập tắt hoàn toàn không còn bám giữ*, thì Ngài đã tuyên bố một trạng thái *còn bám giữ* là *sự dập tắt hoàn toàn không còn bám giữ*. Và thưa hiền giả, nếu *sự dập tắt hoàn toàn không còn bám giữ* nằm ngoài những trạng thái này, thì một phàm phu cũng có thể đạt được sự dập tắt hoàn toàn. Bởi vì thưa hiền giả, phàm phu vốn nằm ngoài những trạng thái này.
 
-14\. Tena hāvuso, upamaṁ te karissāmi; upamāyapidhekacce viññū purisā bhāsitassa atthaṁ ājānanti.
+14\. Do đó, thưa hiền giả, tôi sẽ đưa ra một ví dụ cho hiền giả; nhờ ví dụ, một số người có trí ở đời hiểu được ý nghĩa của lời nói.
 
-Seyyathāpi, āvuso, rañño pasenadissa kosalassa sāvatthiyaṁ paṭivasantassa sākete kiñcideva accāyikaṁ karaṇīyaṁ uppajjeyya. Tassa antarā ca sāvatthiṁ antarā ca sāketaṁ satta rathavinītāni upaṭṭhapeyyuṁ. Atha kho, āvuso, rājā pasenadi kosalo sāvatthiyā nikkhamitvā antepuradvārā paṭhamaṁ rathavinītaṁ abhiruheyya, paṭhamena rathavinītena dutiyaṁ rathavinītaṁ pāpuṇeyya, paṭhamaṁ rathavinītaṁ vissajjeyya dutiyaṁ rathavinītaṁ abhiruheyya. Dutiyena rathavinītena tatiyaṁ rathavinītaṁ pāpuṇeyya, dutiyaṁ rathavinītaṁ vissajjeyya, tatiyaṁ rathavinītaṁ abhiruheyya. Tatiyena rathavinītena catutthaṁ rathavinītaṁ pāpuṇeyya, tatiyaṁ rathavinītaṁ vissajjeyya, catutthaṁ rathavinītaṁ abhiruheyya. Catutthena rathavinītena pañcamaṁ rathavinītaṁ pāpuṇeyya, catutthaṁ rathavinītaṁ vissajjeyya, pañcamaṁ rathavinītaṁ abhiruheyya. Pañcamena rathavinītena chaṭṭhaṁ rathavinītaṁ pāpuṇeyya, pañcamaṁ rathavinītaṁ vissajjeyya, chaṭṭhaṁ rathavinītaṁ abhiruheyya. Chaṭṭhena rathavinītena sattamaṁ rathavinītaṁ pāpuṇeyya, chaṭṭhaṁ rathavinītaṁ vissajjeyya, sattamaṁ rathavinītaṁ abhiruheyya. Sattamena rathavinītena sāketaṁ anupāpuṇeyya antepuradvāraṁ. Tamenaṁ antepuradvāragataṁ samānaṁ mittāmaccā ñātisālohitā evaṁ puccheyyuṁ: ‘iminā tvaṁ, mahārāja, rathavinītena sāvatthiyā sāketaṁ anuppatto antepuradvāran’ti? Kathaṁ byākaramāno nu kho, āvuso, rājā pasenadi kosalo sammā byākaramāno byākareyyā”ti?
+Thưa hiền giả, giả sử Vua Pasenadi (Ba-tư-nặc) nước Kosala đang ở Sāvatthi, bỗng có một việc khẩn cấp cần làm ở Sāketa. Giữa Sāvatthi và Sāketa, người ta chuẩn bị sẵn bảy chiếc *xe ngựa trạm* (trạm xe / rathavinītāni). Khi ấy, thưa hiền giả, Vua Pasenadi nước Kosala rời khỏi Sāvatthi, từ cổng nội cung bước lên chiếc *xe ngựa trạm* thứ nhất; bằng chiếc *xe ngựa trạm* thứ nhất, vua đi đến chiếc *xe ngựa trạm* thứ hai; vua bỏ lại chiếc *xe ngựa trạm* thứ nhất và bước lên chiếc *xe ngựa trạm* thứ hai. Bằng chiếc *xe ngựa trạm* thứ hai, vua đi đến chiếc *xe ngựa trạm* thứ ba; vua bỏ lại chiếc *xe ngựa trạm* thứ hai và bước lên chiếc *xe ngựa trạm* thứ ba. Bằng chiếc *xe ngựa trạm* thứ ba, vua đi đến chiếc *xe ngựa trạm* thứ tư; vua bỏ lại chiếc *xe ngựa trạm* thứ ba và bước lên chiếc *xe ngựa trạm* thứ tư. Bằng chiếc *xe ngựa trạm* thứ tư, vua đi đến chiếc *xe ngựa trạm* thứ năm; vua bỏ lại chiếc *xe ngựa trạm* thứ tư và bước lên chiếc *xe ngựa trạm* thứ năm. Bằng chiếc *xe ngựa trạm* thứ năm, vua đi đến chiếc *xe ngựa trạm* thứ sáu; vua bỏ lại chiếc *xe ngựa trạm* thứ năm và bước lên chiếc *xe ngựa trạm* thứ sáu. Bằng chiếc *xe ngựa trạm* thứ sáu, vua đi đến chiếc *xe ngựa trạm* thứ bảy; vua bỏ lại chiếc *xe ngựa trạm* thứ sáu và bước lên chiếc *xe ngựa trạm* thứ bảy. Bằng chiếc *xe ngựa trạm* thứ bảy, vua đến được Sāketa, ngay tại cổng nội cung. Khi vua đã đến cổng nội cung, bạn bè, quan lại, người thân và huyết thống hỏi vua thế này: 'Tâu Đại vương, có phải ngài đã đi từ Sāvatthi đến Sāketa, ngay tại cổng nội cung này, bằng [chỉ một] chiếc *xe ngựa trạm* này không?' Thưa hiền giả, Vua Pasenadi nước Kosala phải trả lời như thế nào để được gọi là trả lời đúng?"
 
-“Evaṁ byākaramāno kho, āvuso, rājā pasenadi kosalo sammā byākaramāno byākareyya: ‘idha me sāvatthiyaṁ paṭivasantassa sākete kiñcideva accāyikaṁ karaṇīyaṁ uppajji. Tassa me antarā ca sāvatthiṁ antarā ca sāketaṁ satta rathavinītāni upaṭṭhapesuṁ. Atha khvāhaṁ sāvatthiyā nikkhamitvā antepuradvārā paṭhamaṁ rathavinītaṁ abhiruhiṁ. Paṭhamena rathavinītena dutiyaṁ rathavinītaṁ pāpuṇiṁ, paṭhamaṁ rathavinītaṁ vissajjiṁ dutiyaṁ rathavinītaṁ abhiruhiṁ. Dutiyena rathavinītena tatiyaṁ rathavinītaṁ pāpuṇiṁ, dutiyaṁ rathavinītaṁ vissajjiṁ, tatiyaṁ rathavinītaṁ abhiruhiṁ. Tatiyena rathavinītena catutthaṁ rathavinītaṁ pāpuṇiṁ, tatiyaṁ rathavinītaṁ vissajjiṁ, catutthaṁ rathavinītaṁ abhiruhiṁ. Catutthena rathavinītena pañcamaṁ rathavinītaṁ pāpuṇiṁ, catutthaṁ rathavinītaṁ vissajjiṁ, pañcamaṁ rathavinītaṁ abhiruhiṁ. Pañcamena rathavinītena chaṭṭhaṁ rathavinītaṁ pāpuṇiṁ, pañcamaṁ rathavinītaṁ vissajjiṁ, chaṭṭhaṁ rathavinītaṁ abhiruhiṁ. Chaṭṭhena rathavinītena sattamaṁ rathavinītaṁ pāpuṇiṁ, chaṭṭhaṁ rathavinītaṁ vissajjiṁ, sattamaṁ rathavinītaṁ abhiruhiṁ. Sattamena rathavinītena sāketaṁ anuppatto antepuradvāran’ti. Evaṁ byākaramāno kho, āvuso, rājā pasenadi kosalo sammā byākaramāno byākareyyā”ti.
+"Thưa hiền giả, Vua Pasenadi nước Kosala trả lời như thế này thì được gọi là trả lời đúng: 'Ở đây, khi ta đang ở Sāvatthi, bỗng có một việc khẩn cấp cần làm ở Sāketa. Giữa Sāvatthi và Sāketa, người ta chuẩn bị sẵn cho ta bảy chiếc *xe ngựa trạm*. Khi ấy, ta rời khỏi Sāvatthi, từ cổng nội cung bước lên chiếc *xe ngựa trạm* thứ nhất. Bằng chiếc *xe ngựa trạm* thứ nhất, ta đi đến chiếc *xe ngựa trạm* thứ hai; ta bỏ lại chiếc *xe ngựa trạm* thứ nhất và bước lên chiếc *xe ngựa trạm* thứ hai. Bằng chiếc *xe ngựa trạm* thứ hai, ta đi đến chiếc *xe ngựa trạm* thứ ba; ta bỏ lại chiếc *xe ngựa trạm* thứ hai và bước lên chiếc *xe ngựa trạm* thứ ba. Bằng chiếc *xe ngựa trạm* thứ ba, ta đi đến chiếc *xe ngựa trạm* thứ tư; ta bỏ lại chiếc *xe ngựa trạm* thứ ba và bước lên chiếc *xe ngựa trạm* thứ tư. Bằng chiếc *xe ngựa trạm* thứ tư, ta đi đến chiếc *xe ngựa trạm* thứ năm; ta bỏ lại chiếc *xe ngựa trạm* thứ tư và bước lên chiếc *xe ngựa trạm* thứ năm. Bằng chiếc *xe ngựa trạm* thứ năm, ta đi đến chiếc *xe ngựa trạm* thứ sáu; ta bỏ lại chiếc *xe ngựa trạm* thứ năm và bước lên chiếc *xe ngựa trạm* thứ sáu. Bằng chiếc *xe ngựa trạm* thứ sáu, ta đi đến chiếc *xe ngựa trạm* thứ bảy; ta bỏ lại chiếc *xe ngựa trạm* thứ sáu và bước lên chiếc *xe ngựa trạm* thứ bảy. Bằng chiếc *xe ngựa trạm* thứ bảy, ta đến được Sāketa, ngay tại cổng nội cung.' Thưa hiền giả, Vua Pasenadi nước Kosala trả lời như thế thì được gọi là trả lời đúng."
 
-15\. “Evameva kho, āvuso, sīlavisuddhi yāvadeva cittavisuddhatthā, cittavisuddhi yāvadeva diṭṭhivisuddhatthā, diṭṭhivisuddhi yāvadeva kaṅkhāvitaraṇavisuddhatthā, kaṅkhāvitaraṇavisuddhi yāvadeva maggāmaggañāṇadassanavisuddhatthā, maggāmaggañāṇadassanavisuddhi yāvadeva paṭipadāñāṇadassanavisuddhatthā, paṭipadāñāṇadassanavisuddhi yāvadeva ñāṇadassanavisuddhatthā, ñāṇadassanavisuddhi yāvadeva anupādāparinibbānatthā. Anupādāparinibbānatthaṁ kho, āvuso, bhagavati brahmacariyaṁ vussatī”ti.
+15\. "Cũng y như vậy, thưa hiền giả, *sự thanh lọc về lối sống đạo đức* chỉ là vì mục đích *sự thanh lọc về tâm*; *sự thanh lọc về tâm* chỉ là vì mục đích *sự thanh lọc về quan điểm*; *sự thanh lọc về quan điểm* chỉ là vì mục đích *sự thanh lọc về vượt qua nghi ngờ*; *sự thanh lọc về vượt qua nghi ngờ* chỉ là vì mục đích *sự thanh lọc về thấy rõ bản chất và hiểu biết đâu là con đường và đâu không phải là con đường*; *sự thanh lọc về thấy rõ bản chất và hiểu biết đâu là con đường và đâu không phải là con đường* chỉ là vì mục đích *sự thanh lọc về thấy rõ bản chất và hiểu biết về phương pháp thực hành*; *sự thanh lọc về thấy rõ bản chất và hiểu biết về phương pháp thực hành* chỉ là vì mục đích *sự thanh lọc về thấy rõ bản chất và hiểu biết*; *sự thanh lọc về thấy rõ bản chất và hiểu biết* chỉ là vì mục đích *sự dập tắt hoàn toàn không còn bám giữ*. Thưa hiền giả, *đời sống thánh thiện* được sống dưới sự hướng dẫn của Thế Tôn chính là vì mục đích *sự dập tắt hoàn toàn không còn bám giữ*."
 
-16\. Evaṁ vutte, āyasmā sāriputto āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ etadavoca: “konāmo āyasmā, kathañca panāyasmantaṁ sabrahmacārī jānantī”ti?
+<!--pg-->
+16\. Khi được nói như vậy, Tôn giả Sāriputta nói với Tôn giả Puṇṇa Mantāṇiputta điều này: "Tôn giả tên là gì, và các *bạn đồng tu* biết đến Tôn giả như thế nào?"
 
-“Puṇṇoti kho me, āvuso, nāmaṁ; mantāṇiputtoti ca pana maṁ sabrahmacārī jānantī”ti.
+"Thưa hiền giả, tên tôi là Puṇṇa; và các *bạn đồng tu* biết đến tôi là Mantāṇiputta."
 
-“Acchariyaṁ, āvuso, abbhutaṁ, āvuso. Yathā taṁ sutavatā sāvakena sammadeva satthusāsanaṁ ājānantena, evameva āyasmatā puṇṇena mantāṇiputtena gambhīrā gambhīrapañhā anumassa anumassa byākatā. Lābhā sabrahmacārīnaṁ, suladdhalābhā sabrahmacārīnaṁ, ye āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ labhanti dassanāya, labhanti payirūpāsanāya. Celaṇḍukena cepi sabrahmacārī āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ muddhanā pariharantā labheyyuṁ dassanāya, labheyyuṁ payirūpāsanāya, tesampi lābhā tesampi suladdhaṁ, amhākampi lābhā amhākampi suladdhaṁ, ye mayaṁ āyasmantaṁ puṇṇaṁ mantāṇiputtaṁ labhāma dassanāya, labhāma payirūpāsanāyā”ti.
+"Thật kỳ diệu, thưa hiền giả! Thật phi thường, thưa hiền giả! Giống như một đệ tử *có học* (sutavatā) đã hiểu biết trọn vẹn giáo pháp của Bậc Đạo Sư, Tôn giả Puṇṇa Mantāṇiputta đã trả lời từng câu hỏi sâu sắc một cách vô cùng sâu sắc. Thật là lợi ích cho các *bạn đồng tu*, thật là khéo được lợi ích cho các *bạn đồng tu*, khi họ được nhìn thấy Tôn giả Puṇṇa Mantāṇiputta, được gần gũi hầu hạ vị ấy. Ngay cả nếu các *bạn đồng tu* phải đội Tôn giả Puṇṇa Mantāṇiputta trên đỉnh đầu với một cuộn vải lót để được nhìn thấy, để được gần gũi hầu hạ, thì đó cũng là lợi ích cho họ, là khéo được lợi ích cho họ. Và đối với chúng tôi cũng là lợi ích, đối với chúng tôi cũng là khéo được lợi ích, khi chúng tôi được nhìn thấy Tôn giả Puṇṇa Mantāṇiputta, được gần gũi hầu hạ vị ấy."
 
-17\. Evaṁ vutte, āyasmā puṇṇo mantāṇiputto āyasmantaṁ sāriputtaṁ etadavoca: “ko nāmo āyasmā, kathañca panāyasmantaṁ sabrahmacārī jānantī”ti?
+17\. Khi được nói như vậy, Tôn giả Puṇṇa Mantāṇiputta nói với Tôn giả Sāriputta điều này: "Tôn giả tên là gì, và các *bạn đồng tu* biết đến Tôn giả như thế nào?"
 
-“Upatissoti kho me, āvuso, nāmaṁ; sāriputtoti ca pana maṁ sabrahmacārī jānantī”ti.
+"Thưa hiền giả, tên tôi là Upatissa; và các *bạn đồng tu* biết đến tôi là Sāriputta."
 
-“Satthukappena vata kira, bho, sāvakena saddhiṁ mantayamānā na jānimha: ‘āyasmā sāriputto’ti. Sace hi mayaṁ jāneyyāma ‘āyasmā sāriputto’ti, ettakampi no nappaṭibhāseyya. Acchariyaṁ, āvuso, abbhutaṁ, āvuso. Yathā taṁ sutavatā sāvakena sammadeva satthusāsanaṁ ājānantena, evameva āyasmatā sāriputtena gambhīrā gambhīrapañhā anumassa anumassa pucchitā. Lābhā sabrahmacārīnaṁ suladdhalābhā sabrahmacārīnaṁ, ye āyasmantaṁ sāriputtaṁ labhanti dassanāya, labhanti payirūpāsanāya. Celaṇḍukena cepi sabrahmacārī āyasmantaṁ sāriputtaṁ muddhanā pariharantā labheyyuṁ dassanāya, labheyyuṁ payirūpāsanāya, tesampi lābhā tesampi suladdhaṁ, amhākampi lābhā amhākampi suladdhaṁ, ye mayaṁ āyasmantaṁ sāriputtaṁ labhāma dassanāya, labhāma payirūpāsanāyā”ti.
+"Ôi, tôi đang đàm đạo với một vị đệ tử được ví như chính Bậc Đạo Sư mà lại không hề hay biết: 'Đây là Tôn giả Sāriputta'. Nếu tôi biết 'Đây là Tôn giả Sāriputta', thì tôi đã không thể nói được nhiều đến thế. Thật kỳ diệu, thưa hiền giả! Thật phi thường, thưa hiền giả! Giống như một đệ tử *có học* đã hiểu biết trọn vẹn giáo pháp của Bậc Đạo Sư, Tôn giả Sāriputta đã đặt từng câu hỏi sâu sắc một cách vô cùng sâu sắc. Thật là lợi ích cho các *bạn đồng tu*, thật là khéo được lợi ích cho các *bạn đồng tu*, khi họ được nhìn thấy Tôn giả Sāriputta, được gần gũi hầu hạ vị ấy. Ngay cả nếu các *bạn đồng tu* phải đội Tôn giả Sāriputta trên đỉnh đầu với một cuộn vải lót để được nhìn thấy, để được gần gũi hầu hạ, thì đó cũng là lợi ích cho họ, là khéo được lợi ích cho họ. Và đối với chúng tôi cũng là lợi ích, đối với chúng tôi cũng là khéo được lợi ích, khi chúng tôi được nhìn thấy Tôn giả Sāriputta, được gần gũi hầu hạ vị ấy."
 
-Itiha te ubhopi mahānāgā aññamaññassa subhāsitaṁ samanumodiṁsūti.
+Như vậy, cả hai vị đại nhân này đều hoan hỷ với những lời nói tốt đẹp của nhau.
 
-Rathavinītasuttaṁ niṭṭhitaṁ catutthaṁ.
+Kinh Trạm Xe kết thúc, là bài kinh thứ tư.
