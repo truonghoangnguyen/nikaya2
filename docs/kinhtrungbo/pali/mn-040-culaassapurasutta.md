@@ -44,9 +44,9 @@ Cūḷaassapurasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Mahāyamakavaggo niṭṭhito catuttho.
 
-Tassuddānaṁ
+15\. Tassuddānaṁ
 
-15\. Giñjakasālavanaṁ pariharituṁ,\
-Paññavato puna saccakanisedho;\
-Mukhavaṇṇapasīdanatāpindo,\
-Kevaṭṭaassapurajaṭilena.
+> Giñjakasālavanaṁ pariharituṁ,\
+> Paññavato puna saccakanisedho;\
+> Mukhavaṇṇapasīdanatāpindo,\
+> Kevaṭṭaassapurajaṭilena.

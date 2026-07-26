@@ -34,37 +34,37 @@ pītisambojjhaṅgaṁ bhāveti …pe…
 
 “Seyyathāpi, bhikkhave, ayaṁ kāyo āhāraṭṭhitiko, āhāraṁ paṭicca tiṭṭhati, anāhāro no tiṭṭhati; evameva kho, bhikkhave, pañca nīvaraṇā āhāraṭṭhitikā, āhāraṁ paṭicca tiṭṭhanti, anāhārā no tiṭṭhanti.
 
-10\. Ko ca, bhikkhave, āhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kusalākusalā dhammā, sāvajjānavajjā dhammā, hīnapaṇītā dhammā, kaṇhasukkasappaṭibhāgā dhammā. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā.
+10\. Ko ca, bhikkhave, āhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kusalākusalā dhammā, sāvajjānavajjā dhammā, hīnapaṇītā dhammā, kaṇhasukkasappaṭibhāgā dhammā. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā.
 
-11\. Ko ca, bhikkhave, āhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā.
+11\. Ko ca, bhikkhave, āhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā.
 
-12\. Ko ca, bhikkhave, āhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, pītisambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā.
+12\. Ko ca, bhikkhave, āhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, pītisambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-13\. Ko ca, bhikkhave, āhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kāyapassaddhi, cittapassaddhi. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā.
+13\. Ko ca, bhikkhave, āhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kāyapassaddhi, cittapassaddhi. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-14\. Ko ca, bhikkhave, āhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā.
+14\. Ko ca, bhikkhave, āhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-15\. Ko ca, bhikkhave, āhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, upekkhāsambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā.
+15\. Ko ca, bhikkhave, āhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, upekkhāsambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā.
 
 16\. Seyyathāpi, bhikkhave, ayaṁ kāyo āhāraṭṭhitiko, āhāraṁ paṭicca tiṭṭhati, anāhāro no tiṭṭhati; evameva kho, bhikkhave, ime satta bojjhaṅgā āhāraṭṭhitikā, āhāraṁ paṭicca tiṭṭhanti, anāhārā no tiṭṭhantī”ti.
 
 Dutiyaṁ.
 
-2\. Ko ca, bhikkhave, āhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, subhanimittaṁ. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya.
+2\. Ko ca, bhikkhave, āhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, subhanimittaṁ. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya.
 
-3\. Ko ca, bhikkhave, āhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, paṭighanimittaṁ. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya.
+3\. Ko ca, bhikkhave, āhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, paṭighanimittaṁ. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya.
 
-4\. Ko ca, bhikkhave, āhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, arati tandi vijambhitā bhattasammado cetaso ca līnattaṁ. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya.
+4\. Ko ca, bhikkhave, āhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, arati tandi vijambhitā bhattasammado cetaso ca līnattaṁ. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya.
 
-5\. Ko ca, bhikkhave, āhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, cetaso avūpasamo. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya.
+5\. Ko ca, bhikkhave, āhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, cetaso avūpasamo. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya.
 
-6\. Ko ca, bhikkhave, āhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya? Atthi, bhikkhave, vicikicchāṭṭhānīyā dhammā. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya.
+6\. Ko ca, bhikkhave, āhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya? Atthi, bhikkhave, vicikicchāṭṭhānīyā dhammā. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya.
 
 7\. Seyyathāpi, bhikkhave, ayaṁ kāyo āhāraṭṭhitiko, āhāraṁ paṭicca tiṭṭhati, anāhāro no tiṭṭhati; evameva kho, bhikkhave, ime pañca nīvaraṇā āhāraṭṭhitikā, āhāraṁ paṭicca tiṭṭhanti, anāhārā no tiṭṭhanti.
 
 8\. Seyyathāpi, bhikkhave, ayaṁ kāyo āhāraṭṭhitiko, āhāraṁ paṭicca tiṭṭhati, anāhāro no tiṭṭhati; evameva kho, bhikkhave, satta bojjhaṅgā āhāraṭṭhitikā, āhāraṁ paṭicca tiṭṭhanti, anāhārā no tiṭṭhanti.
 
-9\. Ko ca, bhikkhave, āhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, satisambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā.
+9\. Ko ca, bhikkhave, āhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, satisambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā.
 
 ### 46.3 Sīlasutta
 
@@ -98,7 +98,7 @@ Katame satta phalā sattānisaṁsā? Diṭṭheva dhamme paṭikacca aññaṁ 
 
 2\. “Sattime, āvuso, bojjhaṅgā. upekkhāsambojjhaṅgo iti ce me, āvuso, hoti, ‘appamāṇo’ti me hoti, ‘susamāraddho’ti me hoti, tiṭṭhantañca naṁ ‘tiṭṭhatī’ti pajānāmi. Sacepi me cavati, ‘idappaccayā me cavatī’ti pajānāmi.
 
-Katame satta? Satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo— ime kho, āvuso, satta bojjhaṅgā.
+Katame satta? Satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo—ime kho, āvuso, satta bojjhaṅgā.
 
 Imesaṁ khvāhaṁ, āvuso, sattannaṁ bojjhaṅgānaṁ yena yena bojjhaṅgena ākaṅkhāmi pubbaṇhasamayaṁ viharituṁ, tena tena bojjhaṅgena pubbaṇhasamayaṁ viharāmi; yena yena bojjhaṅgena ākaṅkhāmi majjhanhikaṁ samayaṁ viharituṁ, tena tena bojjhaṅgena majjhanhikaṁ samayaṁ viharāmi; yena yena bojjhaṅgena ākaṅkhāmi sāyanhasamayaṁ viharituṁ, tena tena bojjhaṅgena sāyanhasamayaṁ viharāmi. Satisambojjhaṅgo iti ce me, āvuso, hoti, ‘appamāṇo’ti me hoti, ‘susamāraddho’ti me hoti, tiṭṭhantañca naṁ ‘tiṭṭhatī’ti pajānāmi. Sacepi me cavati, ‘idappaccayā me cavatī’ti pajānāmi …pe… Seyyathāpi, āvuso, rañño vā rājamahāmattassa vā nānārattānaṁ dussānaṁ dussakaraṇḍako pūro assa. upekkhāsambojjhaṅgo iti ce me, āvuso, hoti, ‘appamāṇo’ti me hoti, ‘susamāraddho’ti me hoti, tiṭṭhantañca naṁ ‘tiṭṭhatī’ti pajānāmi. Sacepi me cavati, ‘idappaccayā me cavatī’ti pajānāmī”ti.
 
@@ -128,7 +128,7 @@ Idha, bhikkhu, satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ
 
 1\. Ekaṁ samayaṁ bhagavā sākete viharati añjanavane migadāye. Atha kho kuṇḍaliyo paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho kuṇḍaliyo paribbājako bhagavantaṁ etadavoca:
 
-“ahamasmi, bho gotama, ārāmanissayī parisāvacaro. Tassa mayhaṁ, bho gotama, pacchābhattaṁ bhuttapātarāsassa ayamācāro hoti— ārāmena ārāmaṁ uyyānena uyyānaṁ anucaṅkamāmi anuvicarāmi. So tattha passāmi eke samaṇabrāhmaṇe itivādappamokkhānisaṁsañceva kathaṁ kathente upārambhānisaṁsañca: ‘bhavaṁ pana gotamo kimānisaṁso viharatī’”ti?
+“ahamasmi, bho gotama, ārāmanissayī parisāvacaro. Tassa mayhaṁ, bho gotama, pacchābhattaṁ bhuttapātarāsassa ayamācāro hoti—ārāmena ārāmaṁ uyyānena uyyānaṁ anucaṅkamāmi anuvicarāmi. So tattha passāmi eke samaṇabrāhmaṇe itivādappamokkhānisaṁsañceva kathaṁ kathente upārambhānisaṁsañca: ‘bhavaṁ pana gotamo kimānisaṁso viharatī’”ti?
 
 “Vijjāvimuttiphalānisaṁso kho, kuṇḍaliya, tathāgato viharatī”ti.
 
@@ -190,13 +190,13 @@ Aṭṭhamaṁ.
 
 ### 46.9 Paṭhamauppannasutta
 
-1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassā”ti.
+1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassa. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra tathāgatassa pātubhāvā arahato sammāsambuddhassā”ti.
 
 Navamaṁ.
 
 ### 46.10 Dutiyauppannasutta
 
-1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā”ti.
+1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā anuppannā uppajjanti, nāññatra sugatavinayā”ti.
 
 Dasamaṁ.
 
@@ -211,7 +211,7 @@ Pabbatavaggo paṭhamo.
 
 ### 46.11 Pāṇasutta
 
-1\. “Seyyathāpi, bhikkhave, ye keci pāṇā cattāro iriyāpathe kappenti— kālena gamanaṁ, kālena ṭhānaṁ, kālena nisajjaṁ, kālena seyyaṁ, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete cattāro iriyāpathe kappenti; evameva kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāveti, satta bojjhaṅge bahulīkaroti.
+1\. “Seyyathāpi, bhikkhave, ye keci pāṇā cattāro iriyāpathe kappenti—kālena gamanaṁ, kālena ṭhānaṁ, kālena nisajjaṁ, kālena seyyaṁ, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete cattāro iriyāpathe kappenti; evameva kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāveti, satta bojjhaṅge bahulīkaroti.
 
 2\. Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāveti satta bojjhaṅge bahulīkaroti? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāveti, satta bojjhaṅge bahulīkarotī”ti.
 
@@ -281,7 +281,7 @@ Chaṭṭhaṁ.
 
 ### 46.17 Pāraṅgamasutta
 
-1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā apārā pāraṁ gamanāya saṁvattanti. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā apārā pāraṁ gamanāya saṁvattantīti.
+1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā apārā pāraṁ gamanāya saṁvattanti. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā apārā pāraṁ gamanāya saṁvattantīti.
 
 > 2\. Appakā te manussesu,\
 > ye janā pāragāmino;\
@@ -314,19 +314,19 @@ Sattamaṁ.
 
 ### 46.18 Viraddhasutta
 
-1\. “Yesaṁ kesañci, bhikkhave, satta bojjhaṅgā viraddhā, viraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Yesaṁ kesañci, bhikkhave, satta bojjhaṅgā āraddhā, āraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— yesaṁ kesañci, bhikkhave, ime satta bojjhaṅgā viraddhā, viraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Yesaṁ kesañci, bhikkhave, ime satta bojjhaṅgā āraddhā, āraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī”ti.
+1\. “Yesaṁ kesañci, bhikkhave, satta bojjhaṅgā viraddhā, viraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Yesaṁ kesañci, bhikkhave, satta bojjhaṅgā āraddhā, āraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—yesaṁ kesañci, bhikkhave, ime satta bojjhaṅgā viraddhā, viraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Yesaṁ kesañci, bhikkhave, ime satta bojjhaṅgā āraddhā, āraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī”ti.
 
 Aṭṭhamaṁ.
 
 ### 46.19 Ariyasutta
 
-1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā ariyā niyyānikā nīyanti takkarassa sammā dukkhakkhayāya. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā ariyā niyyānikā nīyanti takkarassa sammā dukkhakkhayāyā”ti.
+1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā ariyā niyyānikā nīyanti takkarassa sammā dukkhakkhayāya. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā ariyā niyyānikā nīyanti takkarassa sammā dukkhakkhayāyā”ti.
 
 Navamaṁ.
 
 ### 46.20 Nibbidāsutta
 
-1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattantī”ti.
+1\. “Sattime, bhikkhave, bojjhaṅgā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—ime kho, bhikkhave, satta bojjhaṅgā bhāvitā bahulīkatā ekantanibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattantī”ti.
 
 Dasamaṁ.
 
@@ -353,7 +353,7 @@ Paṭhamaṁ.
 
 1\. “Satta vo, bhikkhave, bojjhaṅge desessāmi; taṁ suṇātha.
 
-Katame ca, bhikkhave, satta bojjhaṅgā? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta bojjhaṅgā”ti.
+Katame ca, bhikkhave, satta bojjhaṅgā? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—ime kho, bhikkhave, satta bojjhaṅgā”ti.
 
 Dutiyaṁ.
 
@@ -379,13 +379,13 @@ Catutthaṁ.
 
 1\. “Satta vo, bhikkhave, aparihāniye dhamme desessāmi; taṁ suṇātha.
 
-Katame ca, bhikkhave, satta aparihāniyā dhammā? Yadidaṁ— satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ime kho, bhikkhave, satta aparihāniyā dhammā”ti.
+Katame ca, bhikkhave, satta aparihāniyā dhammā? Yadidaṁ—satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—ime kho, bhikkhave, satta aparihāniyā dhammā”ti.
 
 Pañcamaṁ.
 
 ### 46.26 Taṇhakkhayasutta
 
-1\. “Yo, bhikkhave, maggo yā paṭipadā taṇhakkhayāya saṁvattati, taṁ maggaṁ taṁ paṭipadaṁ bhāvetha. Katamo ca, bhikkhave, maggo katamā ca paṭipadā taṇhakkhayāya saṁvattati? Yadidaṁ— satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo”ti. Evaṁ vutte, āyasmā udāyī bhagavantaṁ etadavoca:
+1\. “Yo, bhikkhave, maggo yā paṭipadā taṇhakkhayāya saṁvattati, taṁ maggaṁ taṁ paṭipadaṁ bhāvetha. Katamo ca, bhikkhave, maggo katamā ca paṭipadā taṇhakkhayāya saṁvattati? Yadidaṁ—satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo”ti. Evaṁ vutte, āyasmā udāyī bhagavantaṁ etadavoca:
 
 “kathaṁ bhāvitā nu kho, bhante, satta bojjhaṅgā, kathaṁ bahulīkatā taṇhakkhayāya saṁvattantī”ti?
 
@@ -399,7 +399,7 @@ Iti kho, udāyi, taṇhakkhayā kammakkhayo, kammakkhayā dukkhakkhayo”ti.
 
 ### 46.27 Taṇhānirodhasutta
 
-1\. “Yo, bhikkhave, maggo yā paṭipadā taṇhānirodhāya saṁvattati, taṁ maggaṁ taṁ paṭipadaṁ bhāvetha. Katamo ca, bhikkhave, maggo katamā ca paṭipadā taṇhānirodhāya saṁvattati? Yadidaṁ— satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo. Kathaṁ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṁ bahulīkatā taṇhānirodhāya saṁvattanti?
+1\. “Yo, bhikkhave, maggo yā paṭipadā taṇhānirodhāya saṁvattati, taṁ maggaṁ taṁ paṭipadaṁ bhāvetha. Katamo ca, bhikkhave, maggo katamā ca paṭipadā taṇhānirodhāya saṁvattati? Yadidaṁ—satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo. Kathaṁ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṁ bahulīkatā taṇhānirodhāya saṁvattanti?
 
 2\. Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā taṇhānirodhāya saṁvattantī”ti.
 
@@ -409,7 +409,7 @@ Sattamaṁ.
 
 1\. “Nibbedhabhāgiyaṁ vo, bhikkhave, maggaṁ desessāmi; taṁ suṇātha.
 
-Katamo ca, bhikkhave, nibbedhabhāgiyo maggo? Yadidaṁ— satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo”ti. Evaṁ vutte, āyasmā udāyī bhagavantaṁ etadavoca:
+Katamo ca, bhikkhave, nibbedhabhāgiyo maggo? Yadidaṁ—satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo”ti. Evaṁ vutte, āyasmā udāyī bhagavantaṁ etadavoca:
 
 “kathaṁ bhāvitā nu kho, bhante, satta bojjhaṅgā kathaṁ bahulīkatā nibbedhāya saṁvattantī”ti?
 
@@ -518,7 +518,7 @@ Aṭṭhamaṁ.
 
 ### 46.39 Rukkhasutta
 
-1\. “Santi, bhikkhave, mahārukkhā aṇubījā mahākāyā rukkhānaṁ ajjhāruhā, yehi rukkhā ajjhārūḷhā obhaggavibhaggā vipatitā senti. Katame ca te, bhikkhave, mahārukkhā aṇubījā mahākāyā rukkhānaṁ ajjhāruhā, yehi rukkhā ajjhārūḷhā obhaggavibhaggā vipatitā senti? Assattho, nigrodho, pilakkho, udumbaro, kacchako, kapitthano— ime kho te, bhikkhave, mahārukkhā aṇubījā mahākāyā rukkhānaṁ ajjhāruhā, yehi rukkhā ajjhārūḷhā obhaggavibhaggā vipatitā senti.
+1\. “Santi, bhikkhave, mahārukkhā aṇubījā mahākāyā rukkhānaṁ ajjhāruhā, yehi rukkhā ajjhārūḷhā obhaggavibhaggā vipatitā senti. Katame ca te, bhikkhave, mahārukkhā aṇubījā mahākāyā rukkhānaṁ ajjhāruhā, yehi rukkhā ajjhārūḷhā obhaggavibhaggā vipatitā senti? Assattho, nigrodho, pilakkho, udumbaro, kacchako, kapitthano—ime kho te, bhikkhave, mahārukkhā aṇubījā mahākāyā rukkhānaṁ ajjhāruhā, yehi rukkhā ajjhārūḷhā obhaggavibhaggā vipatitā senti.
 
 Evameva kho, bhikkhave, idhekacco kulaputto yādisake kāme ohāya agārasmā anagāriyaṁ pabbajito hoti, so tādisakehi kāmehi tato vā pāpiṭṭhatarehi obhaggavibhaggo vipatito seti.
 
@@ -567,7 +567,7 @@ Dutiyaṁ.
 
 1\. “Mārasenappamaddanaṁ vo, bhikkhave, maggaṁ desessāmi; taṁ suṇātha.
 
-Katamo ca, bhikkhave, mārasenappamaddano maggo? Yadidaṁ— satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo— ayaṁ kho, bhikkhave, mārasenappamaddano maggo”ti.
+Katamo ca, bhikkhave, mārasenappamaddano maggo? Yadidaṁ—satta bojjhaṅgā. Katame satta? Satisambojjhaṅgo …pe… upekkhāsambojjhaṅgo—ayaṁ kho, bhikkhave, mārasenappamaddano maggo”ti.
 
 Tatiyaṁ.
 
@@ -575,7 +575,7 @@ Tatiyaṁ.
 
 1\. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca: “‘duppañño eḷamūgo, duppañño eḷamūgo’ti, bhante, vuccati. Kittāvatā nu kho, bhante, ‘duppañño eḷamūgo’ti vuccatī”ti?
 
-“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ abhāvitattā abahulīkatattā ‘duppañño eḷamūgo’ti vuccati. Katamesaṁ sattannaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa— imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ abhāvitattā abahulīkatattā ‘duppañño eḷamūgo’ti vuccatī”ti.
+“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ abhāvitattā abahulīkatattā ‘duppañño eḷamūgo’ti vuccati. Katamesaṁ sattannaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa—imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ abhāvitattā abahulīkatattā ‘duppañño eḷamūgo’ti vuccatī”ti.
 
 Catutthaṁ.
 
@@ -583,7 +583,7 @@ Catutthaṁ.
 
 1\. “‘Paññavā aneḷamūgo, paññavā aneḷamūgo’ti, bhante, vuccati. Kittāvatā nu kho, bhante, ‘paññavā aneḷamūgo’ti vuccatī”ti?
 
-“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘paññavā aneḷamūgo’ti vuccati. Katamesaṁ sattannaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa— imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘paññavā aneḷamūgo’ti vuccatī”ti.
+“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘paññavā aneḷamūgo’ti vuccati. Katamesaṁ sattannaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa—imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘paññavā aneḷamūgo’ti vuccatī”ti.
 
 Pañcamaṁ.
 
@@ -591,7 +591,7 @@ Pañcamaṁ.
 
 1\. “‘Daliddo, daliddo’ti, bhante, vuccati. Kittāvatā nu kho, bhante, ‘daliddo’ti vuccatī”ti?
 
-“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ abhāvitattā abahulīkatattā ‘daliddo’ti vuccati. Katamesaṁ sattannaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa— imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ abhāvitattā abahulīkatattā ‘daliddo’ti vuccatī”ti.
+“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ abhāvitattā abahulīkatattā ‘daliddo’ti vuccati. Katamesaṁ sattannaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa—imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ abhāvitattā abahulīkatattā ‘daliddo’ti vuccatī”ti.
 
 Chaṭṭhaṁ.
 
@@ -599,7 +599,7 @@ Chaṭṭhaṁ.
 
 1\. “‘Adaliddo, adaliddo’ti, bhante, vuccati. Kittāvatā nu kho, bhante, ‘adaliddo’ti vuccatī”ti?
 
-“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘adaliddo’ti vuccati. Katamesaṁ sattannaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa— imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘adaliddo’ti vuccatī”ti.
+“Sattannaṁ kho, bhikkhu, bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘adaliddo’ti vuccati. Katamesaṁ sattannaṁ? Satisambojjhaṅgassa …pe… upekkhāsambojjhaṅgassa—imesaṁ kho, bhikkhu, sattannaṁ bojjhaṅgānaṁ bhāvitattā bahulīkatattā ‘adaliddo’ti vuccatī”ti.
 
 Sattamaṁ.
 
@@ -644,55 +644,55 @@ Cakkavattivaggo pañcamo.
 
 “Pañcannañca, bhikkhave, nīvaraṇānaṁ sattannañca bojjhaṅgānaṁ āhārañca anāhārañca desessāmi; taṁ suṇātha.
 
-Ko ca, bhikkhave, āhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, subhanimittaṁ. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya.
+Ko ca, bhikkhave, āhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, subhanimittaṁ. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya.
 
-10\. Ko ca, bhikkhave, āhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kāyappassaddhi cittappassaddhi. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā.
+10\. Ko ca, bhikkhave, āhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kāyappassaddhi cittappassaddhi. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-11\. Ko ca, bhikkhave, āhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā.
+11\. Ko ca, bhikkhave, āhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-12\. Ko ca, bhikkhave, āhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, upekkhāsambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā.
+12\. Ko ca, bhikkhave, āhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, upekkhāsambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā.
 
-13\. Ko ca, bhikkhave, anāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, asubhanimittaṁ. Tattha yonisomanasikārabahulīkāro— ayamanāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya.
+13\. Ko ca, bhikkhave, anāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, asubhanimittaṁ. Tattha yonisomanasikārabahulīkāro—ayamanāhāro anuppannassa vā kāmacchandassa uppādāya, uppannassa vā kāmacchandassa bhiyyobhāvāya vepullāya.
 
-14\. Ko ca, bhikkhave, anāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, mettācetovimutti. Tattha yonisomanasikārabahulīkāro— ayamanāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya.
+14\. Ko ca, bhikkhave, anāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, mettācetovimutti. Tattha yonisomanasikārabahulīkāro—ayamanāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya.
 
-15\. Ko ca, bhikkhave, anāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Tattha yonisomanasikārabahulīkāro— ayamanāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya.
+15\. Ko ca, bhikkhave, anāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Tattha yonisomanasikārabahulīkāro—ayamanāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya.
 
-16\. Ko ca, bhikkhave, anāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, cetaso vūpasamo. Tattha yonisomanasikārabahulīkāro— ayamanāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya.
+16\. Ko ca, bhikkhave, anāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, cetaso vūpasamo. Tattha yonisomanasikārabahulīkāro—ayamanāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya.
 
-17\. Ko ca, bhikkhave, anāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya? Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā. Tattha yonisomanasikārabahulīkāro— ayamanāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya.
+17\. Ko ca, bhikkhave, anāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya? Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā. Tattha yonisomanasikārabahulīkāro—ayamanāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya.
 
-18\. Ko ca, bhikkhave, anāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, satisambojjhaṅgaṭṭhānīyā dhammā. Tattha amanasikārabahulīkāro— ayamanāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā.
+18\. Ko ca, bhikkhave, anāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, satisambojjhaṅgaṭṭhānīyā dhammā. Tattha amanasikārabahulīkāro—ayamanāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-19\. Ko ca, bhikkhave, anāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā. Tattha amanasikārabahulīkāro— ayamanāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā.
+19\. Ko ca, bhikkhave, anāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā. Tattha amanasikārabahulīkāro—ayamanāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā.
 
-2\. Ko ca, bhikkhave, āhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, paṭighanimittaṁ. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya.
+2\. Ko ca, bhikkhave, āhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, paṭighanimittaṁ. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā byāpādassa uppādāya, uppannassa vā byāpādassa bhiyyobhāvāya vepullāya.
 
-20\. Ko ca, bhikkhave, anāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Tattha amanasikārabahulīkāro— ayamanāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā.
+20\. Ko ca, bhikkhave, anāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Tattha amanasikārabahulīkāro—ayamanāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā.
 
-21\. Ko ca, bhikkhave, anāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, pītisambojjhaṅgaṭṭhānīyā dhammā. Tattha amanasikārabahulīkāro— ayamanāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā.
+21\. Ko ca, bhikkhave, anāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, pītisambojjhaṅgaṭṭhānīyā dhammā. Tattha amanasikārabahulīkāro—ayamanāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-22\. Ko ca, bhikkhave, anāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kāyappassaddhi cittappassaddhi. Tattha amanasikārabahulīkāro— ayamanāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā.
+22\. Ko ca, bhikkhave, anāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kāyappassaddhi cittappassaddhi. Tattha amanasikārabahulīkāro—ayamanāhāro anuppannassa vā passaddhisambojjhaṅgassa uppādāya, uppannassa vā passaddhisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-23\. Ko ca, bhikkhave, anāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. Tattha amanasikārabahulīkāro— ayamanāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā.
+23\. Ko ca, bhikkhave, anāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, samathanimittaṁ abyagganimittaṁ. Tattha amanasikārabahulīkāro—ayamanāhāro anuppannassa vā samādhisambojjhaṅgassa uppādāya, uppannassa vā samādhisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-24\. Ko ca, bhikkhave, anāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, upekkhāsambojjhaṅgaṭṭhānīyā dhammā. Tattha amanasikārabahulīkāro— ayamanāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā”ti.
+24\. Ko ca, bhikkhave, anāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, upekkhāsambojjhaṅgaṭṭhānīyā dhammā. Tattha amanasikārabahulīkāro—ayamanāhāro anuppannassa vā upekkhāsambojjhaṅgassa uppādāya, uppannassa vā upekkhāsambojjhaṅgassa bhāvanāya pāripūriyā”ti.
 
 Paṭhamaṁ.
 
-3\. Ko ca, bhikkhave, āhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, arati tandi vijambhitā bhattasammado cetaso ca līnattaṁ. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya.
+3\. Ko ca, bhikkhave, āhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, arati tandi vijambhitā bhattasammado cetaso ca līnattaṁ. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā thinamiddhassa uppādāya, uppannassa vā thinamiddhassa bhiyyobhāvāya vepullāya.
 
-4\. Ko ca, bhikkhave, āhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, cetaso avūpasamo. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya.
+4\. Ko ca, bhikkhave, āhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya? Atthi, bhikkhave, cetaso avūpasamo. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā uddhaccakukkuccassa uppādāya, uppannassa vā uddhaccakukkuccassa bhiyyobhāvāya vepullāya.
 
-5\. Ko ca, bhikkhave, āhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya? Atthi, bhikkhave, vicikicchāṭṭhānīyā dhammā. Tattha ayonisomanasikārabahulīkāro— ayamāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya.
+5\. Ko ca, bhikkhave, āhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya? Atthi, bhikkhave, vicikicchāṭṭhānīyā dhammā. Tattha ayonisomanasikārabahulīkāro—ayamāhāro anuppannāya vā vicikicchāya uppādāya, uppannāya vā vicikicchāya bhiyyobhāvāya vepullāya.
 
-6\. Ko ca, bhikkhave, āhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, satisambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā.
+6\. Ko ca, bhikkhave, āhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, satisambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā satisambojjhaṅgassa uppādāya, uppannassa vā satisambojjhaṅgassa bhāvanāya pāripūriyā.
 
-7\. Ko ca, bhikkhave, āhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā.
+7\. Ko ca, bhikkhave, āhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, kusalākusalā dhammā sāvajjānavajjā dhammā hīnapaṇītā dhammā kaṇhasukkasappaṭibhāgā dhammā. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā dhammavicayasambojjhaṅgassa uppādāya, uppannassa vā dhammavicayasambojjhaṅgassa bhāvanāya pāripūriyā.
 
-8\. Ko ca, bhikkhave, āhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā.
+8\. Ko ca, bhikkhave, āhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, ārambhadhātu nikkamadhātu parakkamadhātu. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā vīriyasambojjhaṅgassa uppādāya, uppannassa vā vīriyasambojjhaṅgassa bhāvanāya pāripūriyā.
 
-9\. Ko ca, bhikkhave, āhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, pītisambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro— ayamāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā.
+9\. Ko ca, bhikkhave, āhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā? Atthi, bhikkhave, pītisambojjhaṅgaṭṭhānīyā dhammā. Tattha yonisomanasikārabahulīkāro—ayamāhāro anuppannassa vā pītisambojjhaṅgassa uppādāya, uppannassa vā pītisambojjhaṅgassa bhāvanāya pāripūriyā.
 
 ### 46.52 Pariyāyasutta
 
@@ -890,7 +890,7 @@ Evameva kho, brāhmaṇa, yasmiṁ samaye thinamiddhapariyuṭṭhitena cetasā 
 
 ### 46.56 Abhayasutta
 
-1\. Evaṁ me sutaṁ— “Atthi, rājakumāra, hetu, atthi paccayo aññāṇāya adassanāya. Sahetu, sappaccayo aññāṇaṁ adassanaṁ hoti. Atthi, rājakumāra, hetu, atthi paccayo ñāṇāya dassanāya. Sahetu, sappaccayo ñāṇaṁ dassanaṁ hotī”ti.
+1\. Evaṁ me sutaṁ—“Atthi, rājakumāra, hetu, atthi paccayo aññāṇāya adassanāya. Sahetu, sappaccayo aññāṇaṁ adassanaṁ hoti. Atthi, rājakumāra, hetu, atthi paccayo ñāṇāya dassanāya. Sahetu, sappaccayo ñāṇaṁ dassanaṁ hotī”ti.
 
 ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Atha kho abhayo rājakumāro yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho abhayo rājakumāro bhagavantaṁ etadavoca:
 
@@ -898,9 +898,9 @@ ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Atha kho abh
 
 2\. “Katamo pana, bhante, hetu, katamo paccayo aññāṇāya adassanāya? Kathaṁ sahetu, sappaccayo aññāṇaṁ adassanaṁ hotī”ti?
 
-“Yasmiṁ kho, rājakumāra, samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ na jānāti na passati— ayampi kho, rājakumāra, hetu, ayaṁ paccayo aññāṇāya adassanāya. Evampi sahetu sappaccayo aññāṇaṁ adassanaṁ hoti.
+“Yasmiṁ kho, rājakumāra, samaye kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena, uppannassa ca kāmarāgassa nissaraṇaṁ yathābhūtaṁ na jānāti na passati—ayampi kho, rājakumāra, hetu, ayaṁ paccayo aññāṇāya adassanāya. Evampi sahetu sappaccayo aññāṇaṁ adassanaṁ hoti.
 
-3\. Puna caparaṁ, rājakumāra, yasmiṁ samaye byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena …pe… thinamiddhapariyuṭṭhitena …pe… uddhaccakukkuccapariyuṭṭhitena …pe… vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ na jānāti na passati— ayampi kho, rājakumāra, hetu, ayaṁ paccayo aññāṇāya adassanāya. Evampi sahetu sappaccayo aññāṇaṁ adassanaṁ hotī”ti.
+3\. Puna caparaṁ, rājakumāra, yasmiṁ samaye byāpādapariyuṭṭhitena cetasā viharati byāpādaparetena …pe… thinamiddhapariyuṭṭhitena …pe… uddhaccakukkuccapariyuṭṭhitena …pe… vicikicchāpariyuṭṭhitena cetasā viharati vicikicchāparetena, uppannāya ca vicikicchāya nissaraṇaṁ yathābhūtaṁ na jānāti na passati—ayampi kho, rājakumāra, hetu, ayaṁ paccayo aññāṇāya adassanāya. Evampi sahetu sappaccayo aññāṇaṁ adassanaṁ hotī”ti.
 
 4\. “Ko nāmāyaṁ, bhante, dhammapariyāyo”ti?
 
@@ -910,9 +910,9 @@ ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Atha kho abh
 
 5\. Katamo pana, bhante, hetu, katamo paccayo ñāṇāya dassanāya? Kathaṁ sahetu, sappaccayo ñāṇaṁ dassanaṁ hotī”ti?
 
-“Idha, rājakumāra, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. So satisambojjhaṅgaṁ bhāvitena cittena yathābhūtaṁ jānāti passati— ayampi kho, rājakumāra, hetu, ayaṁ paccayo ñāṇāya dassanāya. Evampi sahetu, sappaccayo ñāṇaṁ dassanaṁ hoti.
+“Idha, rājakumāra, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. So satisambojjhaṅgaṁ bhāvitena cittena yathābhūtaṁ jānāti passati—ayampi kho, rājakumāra, hetu, ayaṁ paccayo ñāṇāya dassanāya. Evampi sahetu, sappaccayo ñāṇaṁ dassanaṁ hoti.
 
-6\. Puna caparaṁ, rājakumāra, bhikkhu …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. So upekkhāsambojjhaṅgaṁ bhāvitena cittena yathābhūtaṁ jānāti passati— ayampi kho, rājakumāra, hetu, ayaṁ paccayo ñāṇāya dassanāya. Evaṁ sahetu, sappaccayo ñāṇaṁ dassanaṁ hotī”ti.
+6\. Puna caparaṁ, rājakumāra, bhikkhu …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. So upekkhāsambojjhaṅgaṁ bhāvitena cittena yathābhūtaṁ jānāti passati—ayampi kho, rājakumāra, hetu, ayaṁ paccayo ñāṇāya dassanāya. Evaṁ sahetu, sappaccayo ñāṇaṁ dassanaṁ hotī”ti.
 
 7\. “Ko nāmāyaṁ, bhante, dhammapariyāyo”ti?
 
@@ -1068,7 +1068,7 @@ navamaṁ.
 
 1\. “Nirodhasaññā, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā. Kathaṁ bhāvitā ca, bhikkhave, nirodhasaññā kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā? Idha, bhikkhave, bhikkhu nirodhasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… nirodhasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, nirodhasaññā evaṁ bahulīkatā mahapphalā hoti mahānisaṁsāti.
 
-2\. Nirodhasaññāya, bhikkhave, bhāvitāya bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ— diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā. Kathaṁ bhāvitāya, bhikkhave, nirodhasaññāya kathaṁ bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ— diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā? Idha, bhikkhave, bhikkhu nirodhasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… nirodhasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitāya kho, bhikkhave, nirodhasaññāya evaṁ bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ— diṭṭheva dhamme aññā, sati vā upādisese anāgāmitāti.
+2\. Nirodhasaññāya, bhikkhave, bhāvitāya bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā. Kathaṁ bhāvitāya, bhikkhave, nirodhasaññāya kathaṁ bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā? Idha, bhikkhave, bhikkhu nirodhasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… nirodhasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitāya kho, bhikkhave, nirodhasaññāya evaṁ bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitāti.
 
 3\. Nirodhasaññā, bhikkhave, bhāvitā bahulīkatā mahato atthāya saṁvattati, mahato yogakkhemāya saṁvattati, mahato saṁvegāya saṁvattati, mahato phāsuvihārāya saṁvattati. Kathaṁ bhāvitā ca, bhikkhave, nirodhasaññā kathaṁ bahulīkatā mahato atthāya saṁvattati, mahato yogakkhemāya saṁvattati, mahato saṁvegāya saṁvattati, mahato phāsuvihārāya saṁvattati? Idha, bhikkhave, bhikkhu nirodhasaññāsahagataṁ satisambojjhaṅgaṁ bhāveti …pe… nirodhasaññāsahagataṁ upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, nirodhasaññā evaṁ bahulīkatā mahato atthāya saṁvattati, mahato yogakkhemāya saṁvattati, mahato saṁvegāya saṁvattati, mahato phāsuvihārāya saṁvattatī”ti.
 
@@ -1165,7 +1165,7 @@ Dasamaṁ.
 
 Oghavaggo terasamo.
 
-“Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā— imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni. Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya satta bojjhaṅgā bhāvetabbā.
+“Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni. Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya satta bojjhaṅgā bhāvetabbā.
 
 Katame satta? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ …pe… upekkhāsambojjhaṅgaṁ bhāveti rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ …
 

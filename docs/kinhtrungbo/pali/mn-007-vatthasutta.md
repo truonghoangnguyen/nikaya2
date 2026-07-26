@@ -40,31 +40,31 @@ Evameva kho, bhikkhave, citte asaṅkiliṭṭhe, sugati pāṭikaṅkhā.
 
 20\. Atha kho bhagavā sundarikabhāradvājaṁ brāhmaṇaṁ gāthāhi ajjhabhāsi:
 
-“Bāhukaṁ adhikakkañca,\
-gayaṁ sundarikaṁ mapi;\
-Sarassatiṁ payāgañca,\
-atho bāhumatiṁ nadiṁ;\
-Niccampi bālo pakkhando,\
-kaṇhakammo na sujjhati.
+> “Bāhukaṁ adhikakkañca,\
+> gayaṁ sundarikaṁ mapi;\
+> Sarassatiṁ payāgañca,\
+> atho bāhumatiṁ nadiṁ;\
+> Niccampi bālo pakkhando,\
+> kaṇhakammo na sujjhati.
 
-Kiṁ sundarikā karissati,\
-Kiṁ payāgā kiṁ bāhukā nadī;\
-Veriṁ katakibbisaṁ naraṁ,\
-Na hi naṁ sodhaye pāpakamminaṁ.
+> Kiṁ sundarikā karissati,\
+> Kiṁ payāgā kiṁ bāhukā nadī;\
+> Veriṁ katakibbisaṁ naraṁ,\
+> Na hi naṁ sodhaye pāpakamminaṁ.
 
-Suddhassa ve sadā phaggu,\
-Suddhassuposatho sadā;\
-Suddhassa sucikammassa,\
-Sadā sampajjate vataṁ;\
-Idheva sināhi brāhmaṇa,\
-Sabbabhūtesu karohi khemataṁ.
+> Suddhassa ve sadā phaggu,\
+> Suddhassuposatho sadā;\
+> Suddhassa sucikammassa,\
+> Sadā sampajjate vataṁ;\
+> Idheva sināhi brāhmaṇa,\
+> Sabbabhūtesu karohi khemataṁ.
 
-Sace musā na bhaṇasi,\
-sace pāṇaṁ na hiṁsasi;\
-Sace adinnaṁ nādiyasi,\
-saddahāno amaccharī;\
-Kiṁ kāhasi gayaṁ gantvā,\
-udapānopi te gayā”ti.
+> Sace musā na bhaṇasi,\
+> sace pāṇaṁ na hiṁsasi;\
+> Sace adinnaṁ nādiyasi,\
+> saddahāno amaccharī;\
+> Kiṁ kāhasi gayaṁ gantvā,\
+> udapānopi te gayā”ti.
 
 21\. Evaṁ vutte, sundarikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya—cakkhumanto rūpāni dakkhantīti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Labheyyāhaṁ bhoto gotamassa santike pabbajjaṁ, labheyyaṁ upasampadan”ti.
 

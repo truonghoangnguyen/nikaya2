@@ -1,6 +1,6 @@
 # DN 8. Mahāsīhanādasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā uruññāyaṁ viharati kaṇṇakatthale migadāye.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā uruññāyaṁ viharati kaṇṇakatthale migadāye.
 
 Atha kho acelo kassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho acelo kassapo bhagavantaṁ etadavoca:
 

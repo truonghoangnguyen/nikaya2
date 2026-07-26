@@ -1,8 +1,8 @@
 # DN 13. Tevijjasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena manasākaṭaṁ nāma kosalānaṁ brāhmaṇagāmo tadavasari. Tatra sudaṁ bhagavā manasākaṭe viharati uttarena manasākaṭassa aciravatiyā nadiyā tīre ambavane.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena manasākaṭaṁ nāma kosalānaṁ brāhmaṇagāmo tadavasari. Tatra sudaṁ bhagavā manasākaṭe viharati uttarena manasākaṭassa aciravatiyā nadiyā tīre ambavane.
 
-2\. Tena kho pana samayena sambahulā abhiññātā abhiññātā brāhmaṇamahāsālā manasākaṭe paṭivasanti, seyyathidaṁ— caṅkī brāhmaṇo tārukkho brāhmaṇo pokkharasāti brāhmaṇo jāṇusoṇi brāhmaṇo todeyyo brāhmaṇo aññe ca abhiññātā abhiññātā brāhmaṇamahāsālā.
+2\. Tena kho pana samayena sambahulā abhiññātā abhiññātā brāhmaṇamahāsālā manasākaṭe paṭivasanti, seyyathidaṁ—caṅkī brāhmaṇo tārukkho brāhmaṇo pokkharasāti brāhmaṇo jāṇusoṇi brāhmaṇo todeyyo brāhmaṇo aññe ca abhiññātā abhiññātā brāhmaṇamahāsālā.
 
 3\. Atha kho vāseṭṭhabhāradvājānaṁ māṇavānaṁ jaṅghavihāraṁ anucaṅkamantānaṁ anuvicarantānaṁ maggāmagge kathā udapādi.
 
@@ -90,7 +90,7 @@ Taṁ kiṁ maññasi, vāseṭṭha, nanu evaṁ sante tevijjānaṁ brāhmaṇ
 
 19\. Seyyathāpi, vāseṭṭha, puriso evaṁ vadeyya: ‘ahaṁ yā imasmiṁ janapade janapadakalyāṇī, taṁ icchāmi, taṁ kāmemī’ti.
 
-Tamenaṁ evaṁ vadeyyuṁ: ‘ambho purisa, yaṁ tvaṁ janapadakalyāṇiṁ icchasi kāmesi, jānāsi taṁ janapadakalyāṇiṁ— khattiyī vā brāhmaṇī vā vessī vā suddī vā’ti? Iti puṭṭho ‘no’ti vadeyya.
+Tamenaṁ evaṁ vadeyyuṁ: ‘ambho purisa, yaṁ tvaṁ janapadakalyāṇiṁ icchasi kāmesi, jānāsi taṁ janapadakalyāṇiṁ—khattiyī vā brāhmaṇī vā vessī vā suddī vā’ti? Iti puṭṭho ‘no’ti vadeyya.
 
 Tamenaṁ evaṁ vadeyyuṁ: ‘ambho purisa, yaṁ tvaṁ janapadakalyāṇiṁ icchasi kāmesi, jānāsi taṁ janapadakalyāṇiṁ—evaṁnāmā evaṅgottāti vā, dīghā vā rassā vā majjhimā vā kāḷī vā sāmā vā maṅguracchavī vāti, amukasmiṁ gāme vā nigame vā nagare vā’ti?
 
@@ -126,7 +126,7 @@ Taṁ kiṁ maññasi, vāseṭṭha, nanu evaṁ sante tassa purisassa appāṭ
 
 “Addhā kho, bho gotama, evaṁ sante tassa purisassa appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti.
 
-“Evameva kho, vāseṭṭha, na kira tevijjehi brāhmaṇehi brahmā sakkhidiṭṭho, napi kira tevijjānaṁ brāhmaṇānaṁ ācariyehi brahmā sakkhidiṭṭho, napi kira tevijjānaṁ brāhmaṇānaṁ ācariyapācariyehi brahmā sakkhidiṭṭho, napi kira tevijjānaṁ brāhmaṇānaṁ yāva sattamā ācariyāmahayugehi brahmā sakkhidiṭṭho. Yepi kira tevijjānaṁ brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi tevijjā brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti, tadanubhāsanti, bhāsitamanubhāsanti, vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṁsu— mayametaṁ jānāma, mayametaṁ passāma, yattha vā brahmā, yena vā brahmā, yahiṁ vā brahmāti. Teva tevijjā brāhmaṇā evamāhaṁsu: ‘yaṁ na jānāma, yaṁ na passāma, tassa sahabyatāya maggaṁ desema, ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāyā’ti. Taṁ kiṁ maññasi, vāseṭṭha, nanu evaṁ sante tevijjānaṁ brāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?
+“Evameva kho, vāseṭṭha, na kira tevijjehi brāhmaṇehi brahmā sakkhidiṭṭho, napi kira tevijjānaṁ brāhmaṇānaṁ ācariyehi brahmā sakkhidiṭṭho, napi kira tevijjānaṁ brāhmaṇānaṁ ācariyapācariyehi brahmā sakkhidiṭṭho, napi kira tevijjānaṁ brāhmaṇānaṁ yāva sattamā ācariyāmahayugehi brahmā sakkhidiṭṭho. Yepi kira tevijjānaṁ brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi tevijjā brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti, tadanubhāsanti, bhāsitamanubhāsanti, vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṁsu—mayametaṁ jānāma, mayametaṁ passāma, yattha vā brahmā, yena vā brahmā, yahiṁ vā brahmāti. Teva tevijjā brāhmaṇā evamāhaṁsu: ‘yaṁ na jānāma, yaṁ na passāma, tassa sahabyatāya maggaṁ desema, ayameva ujumaggo ayamañjasāyano niyyāniko niyyāti takkarassa brahmasahabyatāyā’ti. Taṁ kiṁ maññasi, vāseṭṭha, nanu evaṁ sante tevijjānaṁ brāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?
 
 “Addhā kho, bho gotama, evaṁ sante tevijjānaṁ brāhmaṇānaṁ appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti.
 
@@ -296,9 +296,9 @@ Sīlakkhandhavaggo niṭṭhito.
 
 83\. Tassuddānaṁ
 
-Brahmāsāmaññaambaṭṭha,\
-Soṇakūṭamahālijālinī;\
-Sīhapoṭṭhapādasubho kevaṭṭo,\
-Lohiccatevijjā terasāti.
+> Brahmāsāmaññaambaṭṭha,\
+> Soṇakūṭamahālijālinī;\
+> Sīhapoṭṭhapādasubho kevaṭṭo,\
+> Lohiccatevijjā terasāti.
 
 Sīlakkhandhavaggapāḷi niṭṭhitā.

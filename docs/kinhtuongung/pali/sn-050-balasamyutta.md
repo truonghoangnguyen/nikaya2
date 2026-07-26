@@ -10,7 +10,7 @@ Dvādasamaṁ.
 
 Gaṅgāpeyyālavaggo paṭhamo.
 
-Katamāni pañca? Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ— imāni kho, bhikkhave, pañca balānīti. Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+Katamāni pañca? Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ—imāni kho, bhikkhave, pañca balānīti. Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
 Kathañca, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, vīriyabalaṁ …pe… Tassuddānaṁ
 
@@ -60,7 +60,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abh
 
 (Evaṁ vitthāretabbā.)
 
-Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā— imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
 
 Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya pañca balāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu, saddhābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, vīriyabalaṁ …pe… satibalaṁ …
 
@@ -110,7 +110,7 @@ Esanāvaggo navamo.
 
 1\. “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Oghavaggo dasamo.
 
-Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ avijjā— imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
 
 Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya pañca balāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti …pe… paññābalaṁ bhāveti rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ.
 

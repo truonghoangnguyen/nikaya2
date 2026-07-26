@@ -1,12 +1,12 @@
 # DN 3. Ambaṭṭhasutta
 
-1.1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena icchānaṅgalaṁ nāma kosalānaṁ brāhmaṇagāmo tadavasari. Tatra sudaṁ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.
+1.1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena icchānaṅgalaṁ nāma kosalānaṁ brāhmaṇagāmo tadavasari. Tatra sudaṁ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.
 
 ## 1. Pokkharasātivatthu
 
 1.2\. Tena kho pana samayena brāhmaṇo pokkharasāti ukkaṭṭhaṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā pasenadinā kosalena dinnaṁ rājadāyaṁ brahmadeyyaṁ. Assosi kho brāhmaṇo pokkharasāti:
 
-“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi icchānaṅgalaṁ anuppatto icchānaṅgale viharati icchānaṅgalavanasaṇḍe. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato— ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā.’ So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ, sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
+“samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi icchānaṅgalaṁ anuppatto icchānaṅgale viharati icchānaṅgalavanasaṇḍe. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato—‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā.’ So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ, sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
 
 ## 2. Ambaṭṭhamāṇava
 
@@ -52,7 +52,7 @@ Itiha ambaṭṭho māṇavo idaṁ dutiyaṁ sakyesu ibbhavādaṁ nipātesi.
 
 1.14\. “Laṭukikāpi kho, ambaṭṭha, sakuṇikā sake kulāvake kāmalāpinī hoti. Sakaṁ kho panetaṁ, ambaṭṭha, sakyānaṁ yadidaṁ kapilavatthuṁ, nārahatāyasmā ambaṭṭho imāya appamattāya abhisajjitun”ti.
 
-“Cattārome, bho gotama, vaṇṇā— khattiyā brāhmaṇā vessā suddā. Imesañhi, bho gotama, catunnaṁ vaṇṇānaṁ tayo vaṇṇā— khattiyā ca vessā ca suddā ca— aññadatthu brāhmaṇasseva paricārakā sampajjanti. Tayidaṁ, bho gotama, nacchannaṁ, tayidaṁ nappatirūpaṁ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṁ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti.
+“Cattārome, bho gotama, vaṇṇā—khattiyā brāhmaṇā vessā suddā. Imesañhi, bho gotama, catunnaṁ vaṇṇānaṁ tayo vaṇṇā—khattiyā ca vessā ca suddā ca—aññadatthu brāhmaṇasseva paricārakā sampajjanti. Tayidaṁ, bho gotama, nacchannaṁ, tayidaṁ nappatirūpaṁ, yadime sakyā ibbhā santā ibbhā samānā na brāhmaṇe sakkaronti, na brāhmaṇe garuṁ karonti, na brāhmaṇe mānenti, na brāhmaṇe pūjenti, na brāhmaṇe apacāyantī”ti.
 
 Itiha ambaṭṭho māṇavo idaṁ tatiyaṁ sakyesu ibbhavādaṁ nipātesi.
 
@@ -66,7 +66,7 @@ Atha kho bhagavā ambaṭṭhaṁ māṇavaṁ etadavoca: “kathaṁ gottosi, a
 
 “Porāṇaṁ kho pana te, ambaṭṭha, mātāpettikaṁ nāmagottaṁ anussarato ayyaputtā sakyā bhavanti; dāsiputto tvamasi sakyānaṁ. Sakyā kho pana, ambaṭṭha, rājānaṁ okkākaṁ pitāmahaṁ dahanti.
 
-Bhūtapubbaṁ, ambaṭṭha, rājā okkāko yā sā mahesī piyā manāpā, tassā puttassa rajjaṁ pariṇāmetukāmo jeṭṭhakumāre raṭṭhasmā pabbājesi— okkāmukhaṁ karakaṇḍaṁ hatthinikaṁ sinisūraṁ. Te raṭṭhasmā pabbājitā himavantapasse pokkharaṇiyā tīre mahāsākasaṇḍo, tattha vāsaṁ kappesuṁ. Te jātisambhedabhayā sakāhi bhaginīhi saddhiṁ saṁvāsaṁ kappesuṁ.
+Bhūtapubbaṁ, ambaṭṭha, rājā okkāko yā sā mahesī piyā manāpā, tassā puttassa rajjaṁ pariṇāmetukāmo jeṭṭhakumāre raṭṭhasmā pabbājesi—okkāmukhaṁ karakaṇḍaṁ hatthinikaṁ sinisūraṁ. Te raṭṭhasmā pabbājitā himavantapasse pokkharaṇiyā tīre mahāsākasaṇḍo, tattha vāsaṁ kappesuṁ. Te jātisambhedabhayā sakāhi bhaginīhi saddhiṁ saṁvāsaṁ kappesuṁ.
 
 Atha kho, ambaṭṭha, rājā okkāko amacce pārisajje āmantesi: ‘kahaṁ nu kho, bho, etarahi kumārā sammantī’ti?
 
@@ -204,17 +204,18 @@ Mā kho tumhe, māṇavakā, ambaṭṭhaṁ māṇavaṁ atibāḷhaṁ dāsipu
 
 “Ettāvatā kho, ambaṭṭha, khattiyo paramanihīnataṁ patto hoti, yadeva naṁ khattiyā khuramuṇḍaṁ karitvā bhassapuṭena vadhitvā raṭṭhā vā nagarā vā pabbājenti. Iti kho, ambaṭṭha, yadā khattiyo paramanihīnataṁ patto hoti, tadāpi khattiyāva seṭṭhā, hīnā brāhmaṇā. Brahmunā pesā, ambaṭṭha, sanaṅkumārena gāthā bhāsitā:
 
-1.28\. ‘Khattiyo seṭṭho janetasmiṁ,\
-ye gottapaṭisārino;\
-Vijjācaraṇasampanno,\
-so seṭṭho devamānuse’ti.
+1.28\.
+> ‘Khattiyo seṭṭho janetasmiṁ,\
+> ye gottapaṭisārino;\
+> Vijjācaraṇasampanno,\
+> so seṭṭho devamānuse’ti.
 
 Sā kho panesā, ambaṭṭha, brahmunā sanaṅkumārena gāthā sugītā no duggītā, subhāsitā no dubbhāsitā, atthasaṁhitā no anatthasaṁhitā, anumatā mayā. Ahampi hi, ambaṭṭha, evaṁ vadāmi—
 
-Khattiyo seṭṭho janetasmiṁ,\
-ye gottapaṭisārino;\
-Vijjācaraṇasampanno,\
-so seṭṭho devamānuse”ti.
+> Khattiyo seṭṭho janetasmiṁ,\
+> ye gottapaṭisārino;\
+> Vijjācaraṇasampanno,\
+> so seṭṭho devamānuse”ti.
 
 Bhāṇavāro paṭhamo.
 
@@ -282,7 +283,7 @@ Puna caparaṁ, ambaṭṭha, idhekacco samaṇo vā brāhmaṇo vā imaṁ ceva
 
 2.8\. “Evameva kho tvaṁ, ambaṭṭha, ye te ahesuṁ brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu: ‘tyāhaṁ mante adhiyāmi sācariyako’ti, tāvatā tvaṁ bhavissasi isi vā isitthāya vā paṭipannoti netaṁ ṭhānaṁ vijjati.
 
-2.9\. Taṁ kiṁ maññasi, ambaṭṭha, kinti te sutaṁ brāhmaṇānaṁ vuddhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ— ye te ahesuṁ brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, evaṁ su te sunhātā suvilittā kappitakesamassū āmukkamaṇikuṇḍalābharaṇā odātavatthavasanā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārenti, seyyathāpi tvaṁ etarahi sācariyako”ti?
+2.9\. Taṁ kiṁ maññasi, ambaṭṭha, kinti te sutaṁ brāhmaṇānaṁ vuddhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ—ye te ahesuṁ brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, evaṁ su te sunhātā suvilittā kappitakesamassū āmukkamaṇikuṇḍalābharaṇā odātavatthavasanā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārenti, seyyathāpi tvaṁ etarahi sācariyako”ti?
 
 “No hidaṁ, bho gotama”.
 
@@ -306,9 +307,9 @@ Puna caparaṁ, ambaṭṭha, idhekacco samaṇo vā brāhmaṇo vā imaṁ ceva
 
 ## 7. Dvelakkhaṇādassana
 
-2.11\. Atha kho bhagavā vihārā nikkhamma caṅkamaṁ abbhuṭṭhāsi. Ambaṭṭhopi māṇavo vihārā nikkhamma caṅkamaṁ abbhuṭṭhāsi. Atha kho ambaṭṭho māṇavo bhagavantaṁ caṅkamantaṁ anucaṅkamamāno bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi. Addasā kho ambaṭṭho māṇavo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati— kosohite ca vatthaguyhe pahūtajivhatāya ca.
+2.11\. Atha kho bhagavā vihārā nikkhamma caṅkamaṁ abbhuṭṭhāsi. Ambaṭṭhopi māṇavo vihārā nikkhamma caṅkamaṁ abbhuṭṭhāsi. Atha kho ambaṭṭho māṇavo bhagavantaṁ caṅkamantaṁ anucaṅkamamāno bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi. Addasā kho ambaṭṭho māṇavo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya ca.
 
-2.12\. Atha kho bhagavato etadahosi: “passati kho me ayaṁ ambaṭṭho māṇavo dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati— kosohite ca vatthaguyhe pahūtajivhatāya cā”ti. Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi. Yathā addasa ambaṭṭho māṇavo bhagavato kosohitaṁ vatthaguyhaṁ. Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi.
+2.12\. Atha kho bhagavato etadahosi: “passati kho me ayaṁ ambaṭṭho māṇavo dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya cā”ti. Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi. Yathā addasa ambaṭṭho māṇavo bhagavato kosohitaṁ vatthaguyhaṁ. Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi.
 
 Atha kho ambaṭṭhassa māṇavassa etadahosi: “samannāgato kho samaṇo gotamo dvattiṁsamahāpurisalakkhaṇehi paripuṇṇehi, no aparipuṇṇehī”ti.
 
@@ -352,9 +353,9 @@ Evaṁ vutte, brāhmaṇo pokkharasāti bhagavantaṁ etadavoca: “bālo, bho g
 
 “Sukhī hotu, brāhmaṇa, ambaṭṭho māṇavo”ti.
 
-2.18\. Atha kho brāhmaṇo pokkharasāti bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi. Addasā kho brāhmaṇo pokkharasāti bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati— kosohite ca vatthaguyhe pahūtajivhatāya ca.
+2.18\. Atha kho brāhmaṇo pokkharasāti bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi. Addasā kho brāhmaṇo pokkharasāti bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya ca.
 
-Atha kho bhagavato etadahosi: “passati kho me ayaṁ brāhmaṇo pokkharasāti dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati— kosohite ca vatthaguyhe pahūtajivhatāya cā”ti. Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā addasa brāhmaṇo pokkharasāti bhagavato kosohitaṁ vatthaguyhaṁ. Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi.
+Atha kho bhagavato etadahosi: “passati kho me ayaṁ brāhmaṇo pokkharasāti dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya cā”ti. Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā addasa brāhmaṇo pokkharasāti bhagavato kosohitaṁ vatthaguyhaṁ. Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi.
 
 2.19\. Atha kho brāhmaṇassa pokkharasātissa etadahosi: “samannāgato kho samaṇo gotamo dvattiṁsamahāpurisalakkhaṇehi paripuṇṇehi no aparipuṇṇehī”ti.
 
@@ -362,7 +363,7 @@ Bhagavantaṁ etadavoca: “adhivāsetu me bhavaṁ gotamo ajjatanāya bhattaṁ
 
 2.20\. Atha kho brāhmaṇo pokkharasāti bhagavato adhivāsanaṁ viditvā bhagavato kālaṁ ārocesi: “kālo, bho gotama, niṭṭhitaṁ bhattan”ti. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya saddhiṁ bhikkhusaṅghena yena brāhmaṇassa pokkharasātissa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho brāhmaṇo pokkharasāti bhagavantaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi, māṇavakāpi bhikkhusaṅghaṁ. Atha kho brāhmaṇo pokkharasāti bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi.
 
-2.21\. Ekamantaṁ nisinnassa kho brāhmaṇassa pokkharasātissa bhagavā anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ sīlakathaṁ saggakathaṁ; kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ, nekkhamme ānisaṁsaṁ pakāsesi. Yadā bhagavā aññāsi brāhmaṇaṁ pokkharasātiṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi— dukkhaṁ samudayaṁ nirodhaṁ maggaṁ. Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya; evameva brāhmaṇassa pokkharasātissa tasmiññeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi: “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti.
+2.21\. Ekamantaṁ nisinnassa kho brāhmaṇassa pokkharasātissa bhagavā anupubbiṁ kathaṁ kathesi, seyyathidaṁ—dānakathaṁ sīlakathaṁ saggakathaṁ; kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ, nekkhamme ānisaṁsaṁ pakāsesi. Yadā bhagavā aññāsi brāhmaṇaṁ pokkharasātiṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi—dukkhaṁ samudayaṁ nirodhaṁ maggaṁ. Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya; evameva brāhmaṇassa pokkharasātissa tasmiññeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi: “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti.
 
 ## 9. Pokkharasātiupāsakattapaṭivedanā
 

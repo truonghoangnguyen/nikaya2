@@ -6,7 +6,7 @@
 
 1\. Sāvatthinidānaṁ.
 
-“Catasso imā, bhikkhave, supaṇṇayoniyo. Katamā catasso? Aṇḍajā supaṇṇā, jalābujā supaṇṇā, saṁsedajā supaṇṇā, opapātikā supaṇṇā— imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.
+“Catasso imā, bhikkhave, supaṇṇayoniyo. Katamā catasso? Aṇḍajā supaṇṇā, jalābujā supaṇṇā, saṁsedajā supaṇṇā, opapātikā supaṇṇā—imā kho, bhikkhave, catasso supaṇṇayoniyo”ti.
 
 Paṭhamaṁ.
 

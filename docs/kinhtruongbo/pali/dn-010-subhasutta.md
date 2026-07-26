@@ -1,6 +1,6 @@
 # DN 10. Subhasutta
 
-1.1\. Evaṁ me sutaṁ— ekaṁ samayaṁ āyasmā ānando sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme aciraparinibbute bhagavati.
+1.1\. Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā ānando sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme aciraparinibbute bhagavati.
 
 Tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṁ paṭivasati kenacideva karaṇīyena. Atha kho subho māṇavo todeyyaputto aññataraṁ māṇavakaṁ āmantesi: “ehi tvaṁ, māṇavaka, yena samaṇo ānando tenupasaṅkama; upasaṅkamitvā mama vacanena samaṇaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha: ‘subho māṇavo todeyyaputto bhavantaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti. Evañca vadehi: ‘sādhu kira bhavaṁ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti.
 

@@ -1,6 +1,6 @@
 # DN 23. Pāyāsisutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ āyasmā kumārakassapo kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena setabyā nāma kosalānaṁ nagaraṁ tadavasari. Tatra sudaṁ āyasmā kumārakassapo setabyāyaṁ viharati uttarena setabyaṁ siṁsapāvane.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā kumārakassapo kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena setabyā nāma kosalānaṁ nagaraṁ tadavasari. Tatra sudaṁ āyasmā kumārakassapo setabyāyaṁ viharati uttarena setabyaṁ siṁsapāvane.
 
 Tena kho pana samayena pāyāsi rājañño setabyaṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā pasenadinā kosalena dinnaṁ rājadāyaṁ brahmadeyyaṁ.
 
@@ -14,7 +14,7 @@ Assosuṁ kho setabyakā brāhmaṇagahapatikā: “samaṇo khalu bho kumāraka
 
 “Atthi kho, bho, samaṇo kumārakassapo, samaṇassa gotamassa sāvako kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi setabyaṁ anuppatto setabyāyaṁ viharati uttarena setabyaṁ siṁsapāvane. Taṁ kho pana bhavantaṁ kumārakassapaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘paṇḍito byatto medhāvī bahussuto cittakathī kalyāṇapaṭibhāno vuddho ceva arahā cā’ti. Tamete bhavantaṁ kumārakassapaṁ dassanāya upasaṅkamantī”ti.
 
-“Tena hi, bho khatte, yena setabyakā brāhmaṇagahapatikā tenupasaṅkama; upasaṅkamitvā setabyake brāhmaṇagahapatike evaṁ vadehi: ‘pāyāsi, bho, rājañño evamāha— āgamentu kira bhavanto, pāyāsipi rājañño samaṇaṁ kumārakassapaṁ dassanāya upasaṅkamissatī’ti. Purā samaṇo kumārakassapo setabyake brāhmaṇagahapatike bāle abyatte saññāpeti: ‘itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko’ti. Natthi hi, bho khatte, paro loko, natthi sattā opapātikā, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko”ti.
+“Tena hi, bho khatte, yena setabyakā brāhmaṇagahapatikā tenupasaṅkama; upasaṅkamitvā setabyake brāhmaṇagahapatike evaṁ vadehi: ‘pāyāsi, bho, rājañño evamāha—āgamentu kira bhavanto, pāyāsipi rājañño samaṇaṁ kumārakassapaṁ dassanāya upasaṅkamissatī’ti. Purā samaṇo kumārakassapo setabyake brāhmaṇagahapatike bāle abyatte saññāpeti: ‘itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko’ti. Natthi hi, bho khatte, paro loko, natthi sattā opapātikā, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko”ti.
 
 “Evaṁ, bho”ti kho so khattā pāyāsissa rājaññassa paṭissutvā yena setabyakā brāhmaṇagahapatikā tenupasaṅkami; upasaṅkamitvā setabyake brāhmaṇagahapatike etadavoca: “pāyāsi, bho, rājañño evamāha, āgamentu kira bhavanto, pāyāsipi rājañño samaṇaṁ kumārakassapaṁ dassanāya upasaṅkamissatī”ti.
 
@@ -32,7 +32,7 @@ Assosuṁ kho setabyakā brāhmaṇagahapatikā: “samaṇo khalu bho kumāraka
 
 “Ime, bho kassapa, candimasūriyā parasmiṁ loke, na imasmiṁ; devā te na manussā”ti.
 
-“Imināpi kho te, rājañña, pariyāyena evaṁ hotu— itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko”ti.
+“Imināpi kho te, rājañña, pariyāyena evaṁ hotu—itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko”ti.
 
 6\. “Kiñcāpi bhavaṁ kassapo evamāha, atha kho evaṁ me ettha hoti: ‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko’”ti.
 
@@ -86,7 +86,7 @@ yathā kathaṁ viya, rājaññāti?
 
 ### 2.4. Tāvatiṁsadevaupamā
 
-11\. “Tena hi, rājañña, taññevettha paṭipucchissāmi; yathā te khameyya, tathā naṁ byākareyyāsi. Yaṁ kho pana, rājañña, mānussakaṁ vassasataṁ, devānaṁ tāvatiṁsānaṁ eso eko rattindivo, tāya rattiyā tiṁsarattiyo māso, tena māsena dvādasamāsiyo saṁvaccharo, tena saṁvaccharena dibbaṁ vassasahassaṁ devānaṁ tāvatiṁsānaṁ āyuppamāṇaṁ. Ye te mittāmaccā ñātisālohitā pāṇātipātā paṭiviratā adinnādānā paṭiviratā kāmesumicchācārā paṭiviratā musāvādā paṭiviratā surāmerayamajjapamādaṭṭhānā paṭiviratā, te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā devānaṁ tāvatiṁsānaṁ sahabyataṁ. Sace pana tesaṁ evaṁ bhavissati: ‘yāva mayaṁ dve vā tīṇi vā rattindivā dibbehi pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārema, atha mayaṁ pāyāsissa rājaññassa gantvā āroceyyāma: “itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko”ti. Api nu te āgantvā āroceyyuṁ— itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko’”ti?
+11\. “Tena hi, rājañña, taññevettha paṭipucchissāmi; yathā te khameyya, tathā naṁ byākareyyāsi. Yaṁ kho pana, rājañña, mānussakaṁ vassasataṁ, devānaṁ tāvatiṁsānaṁ eso eko rattindivo, tāya rattiyā tiṁsarattiyo māso, tena māsena dvādasamāsiyo saṁvaccharo, tena saṁvaccharena dibbaṁ vassasahassaṁ devānaṁ tāvatiṁsānaṁ āyuppamāṇaṁ. Ye te mittāmaccā ñātisālohitā pāṇātipātā paṭiviratā adinnādānā paṭiviratā kāmesumicchācārā paṭiviratā musāvādā paṭiviratā surāmerayamajjapamādaṭṭhānā paṭiviratā, te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā devānaṁ tāvatiṁsānaṁ sahabyataṁ. Sace pana tesaṁ evaṁ bhavissati: ‘yāva mayaṁ dve vā tīṇi vā rattindivā dibbehi pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricārema, atha mayaṁ pāyāsissa rājaññassa gantvā āroceyyāma: “itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko”ti. Api nu te āgantvā āroceyyuṁ—itipi atthi paro loko, atthi sattā opapātikā, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko’”ti?
 
 “No hidaṁ, bho kassapa. Api hi mayaṁ, bho kassapa, ciraṁ kālaṅkatāpi bhaveyyāma. Ko panetaṁ bhoto kassapassa āroceti: ‘atthi devā tāvatiṁsā’ti vā ‘evaṁdīghāyukā devā tāvatiṁsā’ti vā. Na mayaṁ bhoto kassapassa saddahāma: ‘atthi devā tāvatiṁsā’ti vā ‘evaṁdīghāyukā devā tāvatiṁsā’ti vā”ti.
 
@@ -106,7 +106,7 @@ atthi, bho kassapa, pariyāyo …pe…
 
 yathā kathaṁ viya, rājaññā”ti?
 
-“Idhāhaṁ, bho kassapa, passāmi samaṇabrāhmaṇe sīlavante kalyāṇadhamme jīvitukāme amaritukāme sukhakāme dukkhapaṭikūle. Tassa mayhaṁ, bho kassapa, evaṁ hoti— sace kho ime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā evaṁ jāneyyuṁ: ‘ito no matānaṁ seyyo bhavissatī’ti. Idānime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā visaṁ vā khādeyyuṁ, satthaṁ vā āhareyyuṁ, ubbandhitvā vā kālaṁ kareyyuṁ, papāte vā papateyyuṁ. Yasmā ca kho ime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā na evaṁ jānanti: ‘ito no matānaṁ seyyo bhavissatī’ti, tasmā ime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā jīvitukāmā amaritukāmā sukhakāmā dukkhapaṭikūlā attānaṁ na mārenti. Ayampi kho, bho kassapa, pariyāyo, yena me pariyāyena evaṁ hoti: ‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko’”ti.
+“Idhāhaṁ, bho kassapa, passāmi samaṇabrāhmaṇe sīlavante kalyāṇadhamme jīvitukāme amaritukāme sukhakāme dukkhapaṭikūle. Tassa mayhaṁ, bho kassapa, evaṁ hoti—sace kho ime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā evaṁ jāneyyuṁ: ‘ito no matānaṁ seyyo bhavissatī’ti. Idānime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā visaṁ vā khādeyyuṁ, satthaṁ vā āhareyyuṁ, ubbandhitvā vā kālaṁ kareyyuṁ, papāte vā papateyyuṁ. Yasmā ca kho ime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā na evaṁ jānanti: ‘ito no matānaṁ seyyo bhavissatī’ti, tasmā ime bhonto samaṇabrāhmaṇā sīlavanto kalyāṇadhammā jīvitukāmā amaritukāmā sukhakāmā dukkhapaṭikūlā attānaṁ na mārenti. Ayampi kho, bho kassapa, pariyāyo, yena me pariyāyena evaṁ hoti: ‘itipi natthi paro loko, natthi sattā opapātikā, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko’”ti.
 
 ### 2.6. Gabbhinīupamā
 
@@ -234,7 +234,7 @@ Tassa pekkhamānassa araṇisahitaṁ gahetvā aggiṁ nibbattetvā taṁ dārak
 
 23\. “Tena hi, rājañña, upamaṁ te karissāmi. Upamāya m’idhekacce viññū purisā bhāsitassa atthaṁ ājānanti.
 
-Bhūtapubbaṁ, rājañña, mahāsakaṭasattho sakaṭasahassaṁ puratthimā janapadā pacchimaṁ janapadaṁ agamāsi. So yena yena gacchi, khippaṁyeva pariyādiyati tiṇakaṭṭhodakaṁ haritakapaṇṇaṁ. Tasmiṁ kho pana satthe dve satthavāhā ahesuṁ eko pañcannaṁ sakaṭasatānaṁ, eko pañcannaṁ sakaṭasatānaṁ. Atha kho tesaṁ satthavāhānaṁ etadahosi: ‘ayaṁ kho mahāsakaṭasattho sakaṭasahassaṁ; te mayaṁ yena yena gacchāma, khippameva pariyādiyati tiṇakaṭṭhodakaṁ haritakapaṇṇaṁ. Yannūna mayaṁ imaṁ satthaṁ dvidhā vibhajeyyāma— ekato pañca sakaṭasatāni ekato pañca sakaṭasatānī’ti. Te taṁ satthaṁ dvidhā vibhajiṁsu ekato pañca sakaṭasatāni, ekato pañca sakaṭasatāni.
+Bhūtapubbaṁ, rājañña, mahāsakaṭasattho sakaṭasahassaṁ puratthimā janapadā pacchimaṁ janapadaṁ agamāsi. So yena yena gacchi, khippaṁyeva pariyādiyati tiṇakaṭṭhodakaṁ haritakapaṇṇaṁ. Tasmiṁ kho pana satthe dve satthavāhā ahesuṁ eko pañcannaṁ sakaṭasatānaṁ, eko pañcannaṁ sakaṭasatānaṁ. Atha kho tesaṁ satthavāhānaṁ etadahosi: ‘ayaṁ kho mahāsakaṭasattho sakaṭasahassaṁ; te mayaṁ yena yena gacchāma, khippameva pariyādiyati tiṇakaṭṭhodakaṁ haritakapaṇṇaṁ. Yannūna mayaṁ imaṁ satthaṁ dvidhā vibhajeyyāma—ekato pañca sakaṭasatāni ekato pañca sakaṭasatānī’ti. Te taṁ satthaṁ dvidhā vibhajiṁsu ekato pañca sakaṭasatāni, ekato pañca sakaṭasatāni.
 
 Eko satthavāho bahuṁ tiṇañca kaṭṭhañca udakañca āropetvā satthaṁ payāpesi. Dvīhatīhapayāto kho pana so sattho addasa purisaṁ kāḷaṁ lohitakkhaṁ sannaddhakalāpaṁ kumudamāliṁ allavatthaṁ allakesaṁ kaddamamakkhitehi cakkehi bhadrena rathena paṭipathaṁ āgacchantaṁ, disvā etadavoca: ‘kuto, bho, āgacchasī’ti?
 
@@ -312,10 +312,10 @@ Dutiyampi kho te akkhadhuttā akkhehi dibbiṁsu. Dutiyampi kho so akkhadhutto �
 
 Addasā kho dutiyo akkhadhutto taṁ akkhadhuttaṁ dutiyampi āgatāgataṁ kaliṁ gilantaṁ, disvā taṁ akkhadhuttaṁ etadavoca:
 
-‘Littaṁ paramena tejasā,\
-Gilamakkhaṁ puriso na bujjhati;\
-Gila re gila pāpadhuttaka,\
-Pacchā te kaṭukaṁ bhavissatī’ti.
+> ‘Littaṁ paramena tejasā,\
+> Gilamakkhaṁ puriso na bujjhati;\
+> Gila re gila pāpadhuttaka,\
+> Pacchā te kaṭukaṁ bhavissatī’ti.
 
 Evameva kho tvaṁ, rājañña, akkhadhuttakūpamo maññe paṭibhāsi. Paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ; paṭinissajjetaṁ, rājañña, pāpakaṁ diṭṭhigataṁ. Mā te ahosi dīgharattaṁ ahitāya dukkhāyā”ti.
 
@@ -417,11 +417,11 @@ Mahāvaggo niṭṭhito.
 
 35\. Tassuddānaṁ
 
-Mahāpadāna nidānaṁ,\
-nibbānañca sudassanaṁ;\
-Janavasabha govindaṁ,\
-samayaṁ sakkapañhakaṁ;\
-Mahāsatipaṭṭhānañca,\
-pāyāsi dasamaṁ bhave.
+> Mahāpadāna nidānaṁ,\
+> nibbānañca sudassanaṁ;\
+> Janavasabha govindaṁ,\
+> samayaṁ sakkapañhakaṁ;\
+> Mahāsatipaṭṭhānañca,\
+> pāyāsi dasamaṁ bhave.
 
 Mahāvaggapāḷi niṭṭhitā.

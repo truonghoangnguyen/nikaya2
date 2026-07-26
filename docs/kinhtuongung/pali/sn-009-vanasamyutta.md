@@ -4,7 +4,7 @@
 
 ### 9.1 Vivekasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
 Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi gehanissite. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṁ bhikkhuṁ saṁvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāhi ajjhabhāsi:
 
@@ -230,7 +230,7 @@ Tena kho pana samayena so bhikkhu yaṁ sudaṁ pubbe ativelaṁ sajjhāyabahulo
 
 1\. Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
-Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi, seyyathidaṁ— kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṁ bhikkhuṁ saṁvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāhi ajjhabhāsi:
+Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitakketi, seyyathidaṁ—kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ. Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampikā atthakāmā taṁ bhikkhuṁ saṁvejetukāmā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā taṁ bhikkhuṁ gāthāhi ajjhabhāsi:
 
 > 2\. “Ayoniso manasikārā,\
 > so vitakkehi khajjasi;\

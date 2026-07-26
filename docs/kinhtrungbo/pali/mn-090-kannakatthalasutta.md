@@ -120,11 +120,11 @@ Kaṇṇakatthalasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Rājavaggo niṭṭhito catuttho.
 
-Tassuddānaṁ
+19\. Tassuddānaṁ
 
-19\. Ghaṭikāro raṭṭhapālo,\
-maghadevo madhuriyaṁ;\
-Bodhi aṅgulimālo ca,\
-piyajātaṁ bāhitikaṁ;\
-Dhammacetiyasuttañca,\
-dasamaṁ kaṇṇakatthalaṁ.
+> Ghaṭikāro raṭṭhapālo,\
+> maghadevo madhuriyaṁ;\
+> Bodhi aṅgulimālo ca,\
+> piyajātaṁ bāhitikaṁ;\
+> Dhammacetiyasuttañca,\
+> dasamaṁ kaṇṇakatthalaṁ.

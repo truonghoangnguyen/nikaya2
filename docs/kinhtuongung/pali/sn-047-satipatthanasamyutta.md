@@ -4,7 +4,7 @@
 
 ### 47.1 Ambapālisutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati ambapālivane. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati ambapālivane. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -110,17 +110,17 @@ Atha kho sā, bhikkhave, sakuṇagghi sake bale apatthaddhā sake bale asaṁvad
 
 Evañhi taṁ, bhikkhave, hoti yo agocare carati paravisaye.
 
-3\. Tasmātiha, bhikkhave, mā agocare carittha paravisaye. kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā— ayaṁ, bhikkhave, bhikkhuno agocaro paravisayo.
+3\. Tasmātiha, bhikkhave, mā agocare carittha paravisaye. kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā—ayaṁ, bhikkhave, bhikkhuno agocaro paravisayo.
 
 Agocare, bhikkhave, carataṁ paravisaye lacchati māro otāraṁ, lacchati māro ārammaṇaṁ.
 
-Ko ca, bhikkhave, bhikkhuno agocaro paravisayo? Yadidaṁ—pañca kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā, sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā …pe… jivhāviññeyyā rasā …pe… Gocare, bhikkhave, caratha sake pettike visaye. dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— ayaṁ, bhikkhave, bhikkhuno gocaro sako pettiko visayo”ti.
+Ko ca, bhikkhave, bhikkhuno agocaro paravisayo? Yadidaṁ—pañca kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā, sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā …pe… jivhāviññeyyā rasā …pe… Gocare, bhikkhave, caratha sake pettike visaye. dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—ayaṁ, bhikkhave, bhikkhuno gocaro sako pettiko visayo”ti.
 
 4\. Chaṭṭhaṁ.
 
 Gocare, bhikkhave, carataṁ sake pettike visaye na lacchati māro otāraṁ, na lacchati māro ārammaṇaṁ.
 
-Ko ca, bhikkhave, bhikkhuno gocaro sako pettiko visayo? Yadidaṁ— cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe…
+Ko ca, bhikkhave, bhikkhuno gocaro sako pettiko visayo? Yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe…
 
 ### 47.7 Makkaṭasutta
 
@@ -136,17 +136,17 @@ Yo pana so hoti makkaṭo bālajātiko lolajātiko, so taṁ lepaṁ upasaṅkam
 
 3\. Agocare, bhikkhave, carataṁ paravisaye lacchati māro otāraṁ, lacchati māro ārammaṇaṁ.
 
-Ko ca, bhikkhave, bhikkhuno agocaro paravisayo? Yadidaṁ— pañca kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā, sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā …pe… Gocare, bhikkhave, caratha sake pettike visaye. dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ayaṁ, bhikkhave, bhikkhuno gocaro sako pettiko visayo”ti.
+Ko ca, bhikkhave, bhikkhuno agocaro paravisayo? Yadidaṁ—pañca kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā, sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā …pe… Gocare, bhikkhave, caratha sake pettike visaye. dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ayaṁ, bhikkhave, bhikkhuno gocaro sako pettiko visayo”ti.
 
 4\. Sattamaṁ.
 
 Gocare, bhikkhave, carataṁ sake pettike visaye na lacchati māro otāraṁ, na lacchati māro ārammaṇaṁ.
 
-Ko ca, bhikkhave, bhikkhuno gocaro sako pettiko visayo? Yadidaṁ— cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe…
+Ko ca, bhikkhave, bhikkhuno gocaro sako pettiko visayo? Yadidaṁ—cattāro satipaṭṭhānā. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe…
 
 ### 47.8 Sūdasutta
 
-1\. “Seyyathāpi, bhikkhave, bālo abyatto akusalo sūdo rājānaṁ vā rājamahāmattaṁ vā nānaccayehi sūpehi paccupaṭṭhito assa— ambilaggehipi, tittakaggehipi, kaṭukaggehipi, madhuraggehipi, khārikehipi, akhārikehipi, loṇikehipi, aloṇikehipi.
+1\. “Seyyathāpi, bhikkhave, bālo abyatto akusalo sūdo rājānaṁ vā rājamahāmattaṁ vā nānaccayehi sūpehi paccupaṭṭhito assa—ambilaggehipi, tittakaggehipi, kaṭukaggehipi, madhuraggehipi, khārikehipi, akhārikehipi, loṇikehipi, aloṇikehipi.
 
 2\. Sa kho so, bhikkhave, bālo abyatto akusalo sūdo sakassa bhattu nimittaṁ na uggaṇhāti: ‘idaṁ vā me ajja bhattu sūpeyyaṁ ruccati, imassa vā abhiharati, imassa vā bahuṁ gaṇhāti, imassa vā vaṇṇaṁ bhāsati. Ambilaggaṁ vā me ajja bhattu sūpeyyaṁ ruccati, ambilaggassa vā abhiharati, ambilaggassa vā bahuṁ gaṇhāti, ambilaggassa vā vaṇṇaṁ bhāsati. Tittakaggaṁ vā me ajja … kaṭukaggaṁ vā me ajja … madhuraggaṁ vā me ajja … khārikaṁ vā me ajja … akhārikaṁ vā me ajja … loṇikaṁ vā me ajja … aloṇikaṁ vā me ajja bhattu sūpeyyaṁ ruccati, aloṇikassa vā abhiharati, aloṇikassa vā bahuṁ gaṇhāti, aloṇikassa vā vaṇṇaṁ bhāsatī’ti.
 
@@ -156,7 +156,7 @@ Taṁ kissa hetu? Tathā hi so, bhikkhave, bālo abyatto akusalo sūdo sakassa b
 
 Evameva kho, bhikkhave, idhekacco bālo abyatto akusalo bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Tassa kāye kāyānupassino viharato cittaṁ na samādhiyati, upakkilesā na pahīyanti. So taṁ nimittaṁ na uggaṇhāti. Vedanāsu vedanānupassī viharati …pe… citte cittānupassī viharati …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Sa kho so, bhikkhave, bālo abyatto akusalo bhikkhu na ceva lābhī hoti diṭṭheva dhamme sukhavihārānaṁ, na lābhī satisampajaññassa. Taṁ kissa hetu? Tathā hi so, bhikkhave, bālo abyatto akusalo bhikkhu sakassa cittassa nimittaṁ na uggaṇhāti.
 
-5\. Seyyathāpi, bhikkhave, paṇḍito byatto kusalo sūdo rājānaṁ vā rājamahāmattaṁ vā nānaccayehi sūpehi paccupaṭṭhito assa— ambilaggehipi, tittakaggehipi, kaṭukaggehipi, madhuraggehipi, khārikehipi, akhārikehipi, loṇikehipi, aloṇikehipi.
+5\. Seyyathāpi, bhikkhave, paṇḍito byatto kusalo sūdo rājānaṁ vā rājamahāmattaṁ vā nānaccayehi sūpehi paccupaṭṭhito assa—ambilaggehipi, tittakaggehipi, kaṭukaggehipi, madhuraggehipi, khārikehipi, akhārikehipi, loṇikehipi, aloṇikehipi.
 
 6\. Sa kho so, bhikkhave, paṇḍito byatto kusalo sūdo sakassa bhattu nimittaṁ uggaṇhāti: ‘idaṁ vā me ajja bhattu sūpeyyaṁ ruccati, imassa vā abhiharati, imassa vā bahuṁ gaṇhāti, imassa vā vaṇṇaṁ bhāsati. Ambilaggaṁ vā me ajja bhattu sūpeyyaṁ ruccati, ambilaggassa vā abhiharati, ambilaggassa vā bahuṁ gaṇhāti, ambilaggassa vā vaṇṇaṁ bhāsati. Tittakaggaṁ vā me ajja … kaṭukaggaṁ vā me ajja … madhuraggaṁ vā me ajja … khārikaṁ vā me ajja … akhārikaṁ vā me ajja … loṇikaṁ vā me ajja … aloṇikaṁ vā me ajja bhattu sūpeyyaṁ ruccati, aloṇikassa vā abhiharati, aloṇikassa vā bahuṁ gaṇhāti, aloṇikassa vā vaṇṇaṁ bhāsatī’ti.
 
@@ -170,7 +170,7 @@ Evameva kho, bhikkhave, idhekacco paṇḍito byatto kusalo bhikkhu kāye kāyā
 
 ### 47.9 Gilānasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati veḷuvagāmake. Tatra kho bhagavā bhikkhū āmantesi: “etha tumhe, bhikkhave, samantā vesāliyā yathāmittaṁ yathāsandiṭṭhaṁ yathāsambhattaṁ vassaṁ upetha. Idhevāhaṁ veḷuvagāmake vassaṁ upagacchāmī”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati veḷuvagāmake. Tatra kho bhagavā bhikkhū āmantesi: “etha tumhe, bhikkhave, samantā vesāliyā yathāmittaṁ yathāsandiṭṭhaṁ yathāsambhattaṁ vassaṁ upetha. Idhevāhaṁ veḷuvagāmake vassaṁ upagacchāmī”ti.
 
 “Evaṁ, bhante”ti kho te bhikkhū bhagavato paṭissutvā samantā vesāliyā yathāmittaṁ yathāsandiṭṭhaṁ yathāsambhattaṁ vassaṁ upagacchuṁ. Bhagavā pana tattheva veḷuvagāmake vassaṁ upagacchi.
 
@@ -301,11 +301,11 @@ Evameva kho me, bhante, dhammanvayo vidito: ‘yepi te, bhante, ahesuṁ atītam
 
 “Na ca kho me, bhante, āyasmā sāriputto sīlakkhandhaṁ vā ādāya parinibbuto, samādhikkhandhaṁ vā …pe… paññākkhandhaṁ vā …pe… vimuttikkhandhaṁ vā …pe… vimuttiñāṇadassanakkhandhaṁ vā ādāya parinibbuto. Api ca me, bhante, āyasmā sāriputto ovādako ahosi otiṇṇo viññāpako sandassako samādapako samuttejako sampahaṁsako, akilāsu dhammadesanāya, anuggāhako sabrahmacārīnaṁ. Taṁ mayaṁ āyasmato sāriputtassa dhammojaṁ dhammabhogaṁ dhammānuggahaṁ anussarāmā”ti.
 
-6\. “Nanu taṁ, ānanda, mayā paṭikacceva akkhātaṁ: ‘sabbehi piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo. Taṁ kutettha, ānanda, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti— netaṁ ṭhānaṁ vijjati.
+6\. “Nanu taṁ, ānanda, mayā paṭikacceva akkhātaṁ: ‘sabbehi piyehi manāpehi nānābhāvo vinābhāvo aññathābhāvo. Taṁ kutettha, ānanda, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti—netaṁ ṭhānaṁ vijjati.
 
 Seyyathāpi, ānanda, mahato rukkhassa tiṭṭhato sāravato yo mahantataro khandho so palujjeyya; evameva kho ānanda, mahato bhikkhusaṅghassa tiṭṭhato sāravato sāriputto parinibbuto.
 
-Taṁ kutettha, ānanda, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjī’ti— netaṁ ṭhānaṁ vijjati.
+Taṁ kutettha, ānanda, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjī’ti—netaṁ ṭhānaṁ vijjati.
 
 Tasmātihānanda, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.
 
@@ -323,15 +323,15 @@ Tatiyaṁ.
 
 2\. Atha kho bhagavā tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi:
 
-Evarūpepi nāma sāvakayuge parinibbute natthi tathāgatassa soko vā paridevo vā. Taṁ kutettha, bhikkhave, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti— netaṁ ṭhānaṁ vijjati.
+Evarūpepi nāma sāvakayuge parinibbute natthi tathāgatassa soko vā paridevo vā. Taṁ kutettha, bhikkhave, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti—netaṁ ṭhānaṁ vijjati.
 
 Seyyathāpi, bhikkhave, mahato rukkhassa tiṭṭhato sāravato ye mahantatarā khandhā te palujjeyyuṁ; evameva kho, bhikkhave, mahato bhikkhusaṅghassa tiṭṭhato sāravato sāriputtamoggallānā parinibbutā.
 
-Taṁ kutettha, bhikkhave, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti— netaṁ ṭhānaṁ vijjati.
+Taṁ kutettha, bhikkhave, labbhā. Yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ, taṁ vata mā palujjīti—netaṁ ṭhānaṁ vijjati.
 
 Tasmātiha, bhikkhave, attadīpā viharatha attasaraṇā anaññasaraṇā, dhammadīpā dhammasaraṇā anaññasaraṇā.
 
-“api myāyaṁ, bhikkhave, parisā suññā viya khāyati parinibbutesu sāriputtamoggallānesu. Asuññā me, bhikkhave, parisā hoti, anapekkhā tassaṁ disāyaṁ hoti, yassaṁ disāyaṁ sāriputtamoggallānā viharanti. Ye hi te, bhikkhave, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, tesampi bhagavantānaṁ etapparamaṁyeva sāvakayugaṁ ahosi— seyyathāpi mayhaṁ sāriputtamoggallānā. Yepi te, bhikkhave, bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā, tesampi bhagavantānaṁ etapparamaṁyeva sāvakayugaṁ bhavissati—seyyathāpi mayhaṁ sāriputtamoggallānā.
+“api myāyaṁ, bhikkhave, parisā suññā viya khāyati parinibbutesu sāriputtamoggallānesu. Asuññā me, bhikkhave, parisā hoti, anapekkhā tassaṁ disāyaṁ hoti, yassaṁ disāyaṁ sāriputtamoggallānā viharanti. Ye hi te, bhikkhave, ahesuṁ atītamaddhānaṁ arahanto sammāsambuddhā, tesampi bhagavantānaṁ etapparamaṁyeva sāvakayugaṁ ahosi—seyyathāpi mayhaṁ sāriputtamoggallānā. Yepi te, bhikkhave, bhavissanti anāgatamaddhānaṁ arahanto sammāsambuddhā, tesampi bhagavantānaṁ etapparamaṁyeva sāvakayugaṁ bhavissati—seyyathāpi mayhaṁ sāriputtamoggallānā.
 
 Acchariyaṁ, bhikkhave, sāvakānaṁ, abbhutaṁ, bhikkhave, sāvakānaṁ. Satthu ca nāma sāsanakarā bhavissanti ovādappaṭikarā, catunnañca parisānaṁ piyā bhavissanti manāpā garubhāvanīyā ca.
 
@@ -426,13 +426,13 @@ Evaṁ vutte, bhikkhave, medakathālikā antevāsī caṇḍālavaṁsikaṁ eta
 
 3\. Kathañca, bhikkhave, attānaṁ rakkhanto paraṁ rakkhati? Navamaṁ.
 
-Āsevanāya, bhāvanāya, bahulīkammena— evaṁ kho, bhikkhave, attānaṁ rakkhanto paraṁ rakkhati. Kathañca, bhikkhave, paraṁ rakkhanto attānaṁ rakkhati? Khantiyā, avihiṁsāya, mettacittatāya, anudayatāya— evaṁ kho, bhikkhave, paraṁ rakkhanto attānaṁ rakkhati.
+Āsevanāya, bhāvanāya, bahulīkammena—evaṁ kho, bhikkhave, attānaṁ rakkhanto paraṁ rakkhati. Kathañca, bhikkhave, paraṁ rakkhanto attānaṁ rakkhati? Khantiyā, avihiṁsāya, mettacittatāya, anudayatāya—evaṁ kho, bhikkhave, paraṁ rakkhanto attānaṁ rakkhati.
 
 Attānaṁ, bhikkhave, rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ; paraṁ rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ. Attānaṁ, bhikkhave, rakkhanto paraṁ rakkhati, paraṁ rakkhanto attānaṁ rakkhatī”ti.
 
 ### 47.20 Janapadakalyāṇīsutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sumbhesu viharati sedakaṁ nāma sumbhānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sumbhesu viharati sedakaṁ nāma sumbhānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -444,7 +444,7 @@ Attānaṁ, bhikkhave, rakkhissāmīti satipaṭṭhānaṁ sevitabbaṁ; para�
 
 Atha puriso āgaccheyya jīvitukāmo amaritukāmo sukhakāmo dukkhappaṭikūlo. Tamenaṁ evaṁ vadeyya: ‘ayaṁ te, ambho purisa, samatittiko telapatto antarena ca mahāsamajjaṁ antarena ca janapadakalyāṇiyā pariharitabbo. Puriso ca te ukkhittāsiko piṭṭhito piṭṭhito anubandhissati. Yattheva naṁ thokampi chaḍḍessati tattheva te siro pātessatī’ti.
 
-Taṁ kiṁ maññatha, bhikkhave, “Upamā kho myāyaṁ, bhikkhave, katā atthassa viññāpanāya. Ayaṁ cevettha attho— samatittiko telapattoti kho, bhikkhave, kāyagatāya etaṁ satiyā adhivacanaṁ.
+Taṁ kiṁ maññatha, bhikkhave, “Upamā kho myāyaṁ, bhikkhave, katā atthassa viññāpanāya. Ayaṁ cevettha attho—samatittiko telapattoti kho, bhikkhave, kāyagatāya etaṁ satiyā adhivacanaṁ.
 
 3\. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘kāyagatā sati no bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. Evañhi kho, bhikkhave, sikkhitabban”ti.
 
@@ -461,7 +461,7 @@ Nālandavaggo dutiyo.
 
 ### 47.21 Sīlasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ āyasmā ca ānando āyasmā ca bhaddo pāṭaliputte viharanti kukkuṭārāme. Atha kho āyasmā bhaddo sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bhaddo āyasmantaṁ ānandaṁ etadavoca:
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā ca ānando āyasmā ca bhaddo pāṭaliputte viharanti kukkuṭārāme. Atha kho āyasmā bhaddo sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bhaddo āyasmantaṁ ānandaṁ etadavoca:
 
 “yānimāni, āvuso ānanda, kusalāni sīlāni vuttāni bhagavatā, imāni kusalāni sīlāni kimatthiyāni vuttāni bhagavatā”ti?
 
@@ -519,7 +519,7 @@ Catutthaṁ.
 
 ### 47.25 Aññatarabrāhmaṇasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññataro brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so brāhmaṇo bhagavantaṁ etadavoca:
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññataro brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so brāhmaṇo bhagavantaṁ etadavoca:
 
 “ko nu kho, bho gotama, hetu, ko paccayo yena tathāgate parinibbute saddhammo na ciraṭṭhitiko hoti? Ko pana, bho gotama, hetu, ko paccayo yena tathāgate parinibbute saddhammo ciraṭṭhitiko hotī”ti?
 
@@ -672,7 +672,7 @@ Pañcamaṁ.
 
 Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ime kho, bhikkhave, cattāro satipaṭṭhānā.
 
-Imesaṁ kho, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ— diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
+Imesaṁ kho, bhikkhave, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
 
 ### 47.37 Chandasutta
 
@@ -716,7 +716,7 @@ Katamañca, bhikkhave, satipaṭṭhānaṁ? Idha, bhikkhave, bhikkhu kāye kāy
 
 2\. Katamā ca, bhikkhave, satipaṭṭhānabhāvanā? Idha, bhikkhave, bhikkhu samudayadhammānupassī kāyasmiṁ viharati, vayadhammānupassī kāyasmiṁ viharati, samudayavayadhammānupassī kāyasmiṁ viharati, ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Samudayadhammānupassī vedanāsu viharati …pe… samudayadhammānupassī citte viharati …pe… samudayadhammānupassī dhammesu viharati, vayadhammānupassī dhammesu viharati, samudayavayadhammānupassī dhammesu viharati, ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Ayaṁ vuccati, bhikkhave, satipaṭṭhānabhāvanā.
 
-3\. Katamā ca, bhikkhave, satipaṭṭhānabhāvanāgāminī paṭipadā? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ— sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi. Ayaṁ vuccati, bhikkhave, satipaṭṭhānabhāvanāgāminī paṭipadā”ti.
+3\. Katamā ca, bhikkhave, satipaṭṭhānabhāvanāgāminī paṭipadā? Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi. Ayaṁ vuccati, bhikkhave, satipaṭṭhānabhāvanāgāminī paṭipadā”ti.
 
 Dasamaṁ.
 
@@ -840,7 +840,7 @@ Aṭṭhamaṁ.
 
 ### 47.49 Vedanāsutta
 
-1\. “Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, bhikkhave, tisso vedanā. Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ pariññāya cattāro satipaṭṭhānā bhāvetabbā.
+1\. “Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, bhikkhave, tisso vedanā. Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ pariññāya cattāro satipaṭṭhānā bhāvetabbā.
 
 2\. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
@@ -850,7 +850,7 @@ Navamaṁ.
 
 ### 47.50 Āsavasutta
 
-1\. “Tayome, bhikkhave āsavā. Katame tayo? Kāmāsavo, bhavāsavo, avijjāsavo— ime kho, bhikkhave, tayo āsavā.
+1\. “Tayome, bhikkhave āsavā. Katame tayo? Kāmāsavo, bhavāsavo, avijjāsavo—ime kho, bhikkhave, tayo āsavā.
 
 Imesaṁ kho, bhikkhave, tiṇṇannaṁ āsavānaṁ pahānāya cattāro satipaṭṭhānā bhāvetabbā.
 
@@ -933,7 +933,7 @@ Esanāvaggo navamo.
 
 ### 47.95-104 Uddhambhāgiyādisutta
 
-1\. “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā— imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+1\. “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
 
 Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya cattāro satipaṭṭhānā bhāvetabbā.
 

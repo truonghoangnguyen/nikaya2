@@ -1,6 +1,6 @@
 # MN 25. KINH MỒI NHỬ (Tóm lược)
 
-[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-025){class="note-link"}
+[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-025-kinh-bay-moi){class="note-link"}
 
 **Bối cảnh:**
 Đức Phật đang lưu trú tại tu viện Kỳ Viên. Ngài sử dụng một ẩn dụ sinh động về người thợ săn (đại diện cho Ác ma), mồi nhử (đại diện cho dục lạc thế gian) và bốn bầy nai (đại diện cho bốn hạng người tu tập) để giải thích lý do vì sao nhiều người thất bại trên con đường tâm linh, và cách duy nhất để thực sự thoát khỏi sự kiểm soát của dục vọng.

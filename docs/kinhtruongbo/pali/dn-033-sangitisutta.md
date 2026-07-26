@@ -1,6 +1,6 @@
 # DN 33. Saṅgītisutta
 
-1.1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā mallesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena pāvā nāma mallānaṁ nagaraṁ tadavasari. Tatra sudaṁ bhagavā pāvāyaṁ viharati cundassa kammāraputtassa ambavane.
+1.1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā mallesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena pāvā nāma mallānaṁ nagaraṁ tadavasari. Tatra sudaṁ bhagavā pāvāyaṁ viharati cundassa kammāraputtassa ambavane.
 
 1.2\. Tena kho pana samayena pāveyyakānaṁ mallānaṁ ubbhatakaṁ nāma navaṁ sandhāgāraṁ acirakāritaṁ hoti anajjhāvuṭṭhaṁ samaṇena vā brāhmaṇena vā kenaci vā manussabhūtena. Assosuṁ kho pāveyyakā mallā: “bhagavā kira mallesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi pāvaṁ anuppatto pāvāyaṁ viharati cundassa kammāraputtassa ambavane”ti. Atha kho pāveyyakā mallā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho pāveyyakā mallā bhagavantaṁ etadavocuṁ: “idha, bhante, pāveyyakānaṁ mallānaṁ ubbhatakaṁ nāma navaṁ sandhāgāraṁ acirakāritaṁ hoti anajjhāvuṭṭhaṁ samaṇena vā brāhmaṇena vā kenaci vā manussabhūtena. Tañca kho, bhante, bhagavā paṭhamaṁ paribhuñjatu, bhagavatā paṭhamaṁ paribhuttaṁ pacchā pāveyyakā mallā paribhuñjissanti. Tadassa pāveyyakānaṁ mallānaṁ dīgharattaṁ hitāya sukhāyā”ti. Adhivāsesi kho bhagavā tuṇhībhāvena.
 
@@ -112,125 +112,125 @@ Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dv
 
 1.10\. Atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena tayo dhammā sammadakkhātā. Tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ. Katame tayo?
 
-Tīṇi akusalamūlāni— lobho akusalamūlaṁ, doso akusalamūlaṁ, moho akusalamūlaṁ.
+Tīṇi akusalamūlāni—lobho akusalamūlaṁ, doso akusalamūlaṁ, moho akusalamūlaṁ.
 
-Tīṇi kusalamūlāni— alobho kusalamūlaṁ, adoso kusalamūlaṁ, amoho kusalamūlaṁ.
+Tīṇi kusalamūlāni—alobho kusalamūlaṁ, adoso kusalamūlaṁ, amoho kusalamūlaṁ.
 
-Tīṇi duccaritāni— kāyaduccaritaṁ, vacīduccaritaṁ, manoduccaritaṁ.
+Tīṇi duccaritāni—kāyaduccaritaṁ, vacīduccaritaṁ, manoduccaritaṁ.
 
-Tīṇi sucaritāni— kāyasucaritaṁ, vacīsucaritaṁ, manosucaritaṁ.
+Tīṇi sucaritāni—kāyasucaritaṁ, vacīsucaritaṁ, manosucaritaṁ.
 
-Tayo akusalavitakkā— kāmavitakko, byāpādavitakko, vihiṁsāvitakko.
+Tayo akusalavitakkā—kāmavitakko, byāpādavitakko, vihiṁsāvitakko.
 
-Tayo kusalavitakkā— nekkhammavitakko, abyāpādavitakko, avihiṁsāvitakko.
+Tayo kusalavitakkā—nekkhammavitakko, abyāpādavitakko, avihiṁsāvitakko.
 
-Tayo akusalasaṅkappā— kāmasaṅkappo, byāpādasaṅkappo, vihiṁsāsaṅkappo.
+Tayo akusalasaṅkappā—kāmasaṅkappo, byāpādasaṅkappo, vihiṁsāsaṅkappo.
 
-Tayo kusalasaṅkappā— nekkhammasaṅkappo, abyāpādasaṅkappo, avihiṁsāsaṅkappo.
+Tayo kusalasaṅkappā—nekkhammasaṅkappo, abyāpādasaṅkappo, avihiṁsāsaṅkappo.
 
-Tisso akusalasaññā— kāmasaññā, byāpādasaññā, vihiṁsāsaññā.
+Tisso akusalasaññā—kāmasaññā, byāpādasaññā, vihiṁsāsaññā.
 
-Tisso kusalasaññā— nekkhammasaññā, abyāpādasaññā, avihiṁsāsaññā.
+Tisso kusalasaññā—nekkhammasaññā, abyāpādasaññā, avihiṁsāsaññā.
 
-Tisso akusaladhātuyo— kāmadhātu, byāpādadhātu, vihiṁsādhātu.
+Tisso akusaladhātuyo—kāmadhātu, byāpādadhātu, vihiṁsādhātu.
 
-Tisso kusaladhātuyo— nekkhammadhātu, abyāpādadhātu, avihiṁsādhātu.
+Tisso kusaladhātuyo—nekkhammadhātu, abyāpādadhātu, avihiṁsādhātu.
 
-Aparāpi tisso dhātuyo— kāmadhātu, rūpadhātu, arūpadhātu.
+Aparāpi tisso dhātuyo—kāmadhātu, rūpadhātu, arūpadhātu.
 
-Aparāpi tisso dhātuyo— rūpadhātu, arūpadhātu, nirodhadhātu.
+Aparāpi tisso dhātuyo—rūpadhātu, arūpadhātu, nirodhadhātu.
 
-Aparāpi tisso dhātuyo— hīnadhātu, majjhimadhātu, paṇītadhātu.
+Aparāpi tisso dhātuyo—hīnadhātu, majjhimadhātu, paṇītadhātu.
 
-Tisso taṇhā— kāmataṇhā, bhavataṇhā, vibhavataṇhā.
+Tisso taṇhā—kāmataṇhā, bhavataṇhā, vibhavataṇhā.
 
-Aparāpi tisso taṇhā— kāmataṇhā, rūpataṇhā, arūpataṇhā.
+Aparāpi tisso taṇhā—kāmataṇhā, rūpataṇhā, arūpataṇhā.
 
-Aparāpi tisso taṇhā— rūpataṇhā, arūpataṇhā, nirodhataṇhā.
+Aparāpi tisso taṇhā—rūpataṇhā, arūpataṇhā, nirodhataṇhā.
 
-Tīṇi saṁyojanāni— sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso.
+Tīṇi saṁyojanāni—sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso.
 
-Tayo āsavā— kāmāsavo, bhavāsavo, avijjāsavo.
+Tayo āsavā—kāmāsavo, bhavāsavo, avijjāsavo.
 
-Tayo bhavā— kāmabhavo, rūpabhavo, arūpabhavo.
+Tayo bhavā—kāmabhavo, rūpabhavo, arūpabhavo.
 
-Tisso esanā— kāmesanā, bhavesanā, brahmacariyesanā.
+Tisso esanā—kāmesanā, bhavesanā, brahmacariyesanā.
 
-Tisso vidhā— seyyohamasmīti vidhā, sadisohamasmīti vidhā, hīnohamasmīti vidhā.
+Tisso vidhā—seyyohamasmīti vidhā, sadisohamasmīti vidhā, hīnohamasmīti vidhā.
 
-Tayo addhā— atīto addhā, anāgato addhā, paccuppanno addhā.
+Tayo addhā—atīto addhā, anāgato addhā, paccuppanno addhā.
 
-Tayo antā— sakkāyo anto, sakkāyasamudayo anto, sakkāyanirodho anto.
+Tayo antā—sakkāyo anto, sakkāyasamudayo anto, sakkāyanirodho anto.
 
-Tisso vedanā— sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā.
+Tisso vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā.
 
-Tisso dukkhatā— dukkhadukkhatā, saṅkhāradukkhatā, vipariṇāmadukkhatā.
+Tisso dukkhatā—dukkhadukkhatā, saṅkhāradukkhatā, vipariṇāmadukkhatā.
 
-Tayo rāsī— micchattaniyato rāsi, sammattaniyato rāsi, aniyato rāsi.
+Tayo rāsī—micchattaniyato rāsi, sammattaniyato rāsi, aniyato rāsi.
 
-Tayo tamā— atītaṁ vā addhānaṁ ārabbha kaṅkhati vicikicchati nādhimuccati na sampasīdati, anāgataṁ vā addhānaṁ ārabbha kaṅkhati vicikicchati nādhimuccati na sampasīdati, etarahi vā paccuppannaṁ addhānaṁ ārabbha kaṅkhati vicikicchati nādhimuccati na sampasīdati.
+Tayo tamā—atītaṁ vā addhānaṁ ārabbha kaṅkhati vicikicchati nādhimuccati na sampasīdati, anāgataṁ vā addhānaṁ ārabbha kaṅkhati vicikicchati nādhimuccati na sampasīdati, etarahi vā paccuppannaṁ addhānaṁ ārabbha kaṅkhati vicikicchati nādhimuccati na sampasīdati.
 
-Tīṇi tathāgatassa arakkheyyāni— parisuddhakāyasamācāro āvuso tathāgato, natthi tathāgatassa kāyaduccaritaṁ, yaṁ tathāgato rakkheyya: ‘mā me idaṁ paro aññāsī’ti. Parisuddhavacīsamācāro āvuso, tathāgato, natthi tathāgatassa vacīduccaritaṁ, yaṁ tathāgato rakkheyya: ‘mā me idaṁ paro aññāsī’ti. Parisuddhamanosamācāro, āvuso, tathāgato, natthi tathāgatassa manoduccaritaṁ yaṁ tathāgato rakkheyya: ‘mā me idaṁ paro aññāsī’ti.
+Tīṇi tathāgatassa arakkheyyāni—parisuddhakāyasamācāro āvuso tathāgato, natthi tathāgatassa kāyaduccaritaṁ, yaṁ tathāgato rakkheyya: ‘mā me idaṁ paro aññāsī’ti. Parisuddhavacīsamācāro āvuso, tathāgato, natthi tathāgatassa vacīduccaritaṁ, yaṁ tathāgato rakkheyya: ‘mā me idaṁ paro aññāsī’ti. Parisuddhamanosamācāro, āvuso, tathāgato, natthi tathāgatassa manoduccaritaṁ yaṁ tathāgato rakkheyya: ‘mā me idaṁ paro aññāsī’ti.
 
-Tayo kiñcanā— rāgo kiñcanaṁ, doso kiñcanaṁ, moho kiñcanaṁ.
+Tayo kiñcanā—rāgo kiñcanaṁ, doso kiñcanaṁ, moho kiñcanaṁ.
 
-Tayo aggī— rāgaggi, dosaggi, mohaggi.
+Tayo aggī—rāgaggi, dosaggi, mohaggi.
 
-Aparepi tayo aggī— āhuneyyaggi, gahapataggi, dakkhiṇeyyaggi.
+Aparepi tayo aggī—āhuneyyaggi, gahapataggi, dakkhiṇeyyaggi.
 
-Tividhena rūpasaṅgaho— sanidassanasappaṭighaṁ rūpaṁ, anidassanasappaṭighaṁ rūpaṁ, anidassanaappaṭighaṁ rūpaṁ.
+Tividhena rūpasaṅgaho—sanidassanasappaṭighaṁ rūpaṁ, anidassanasappaṭighaṁ rūpaṁ, anidassanaappaṭighaṁ rūpaṁ.
 
-Tayo saṅkhārā— puññābhisaṅkhāro, apuññābhisaṅkhāro, āneñjābhisaṅkhāro.
+Tayo saṅkhārā—puññābhisaṅkhāro, apuññābhisaṅkhāro, āneñjābhisaṅkhāro.
 
-Tayo puggalā— sekkho puggalo, asekkho puggalo, nevasekkho nāsekkho puggalo.
+Tayo puggalā—sekkho puggalo, asekkho puggalo, nevasekkho nāsekkho puggalo.
 
-Tayo therā— jātithero, dhammathero, sammutithero.
+Tayo therā—jātithero, dhammathero, sammutithero.
 
-Tīṇi puññakiriyavatthūni— dānamayaṁ puññakiriyavatthu, sīlamayaṁ puññakiriyavatthu, bhāvanāmayaṁ puññakiriyavatthu.
+Tīṇi puññakiriyavatthūni—dānamayaṁ puññakiriyavatthu, sīlamayaṁ puññakiriyavatthu, bhāvanāmayaṁ puññakiriyavatthu.
 
-Tīṇi codanāvatthūni— diṭṭhena, sutena, parisaṅkāya.
+Tīṇi codanāvatthūni—diṭṭhena, sutena, parisaṅkāya.
 
-Tisso kāmūpapattiyo— santāvuso sattā paccupaṭṭhitakāmā, te paccupaṭṭhitesu kāmesu vasaṁ vattenti, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā. Ayaṁ paṭhamā kāmūpapatti. Santāvuso, sattā nimmitakāmā, te nimminitvā nimminitvā kāmesu vasaṁ vattenti, seyyathāpi devā nimmānaratī. Ayaṁ dutiyā kāmūpapatti. Santāvuso sattā paranimmitakāmā, te paranimmitesu kāmesu vasaṁ vattenti, seyyathāpi devā paranimmitavasavattī. Ayaṁ tatiyā kāmūpapatti.
+Tisso kāmūpapattiyo—santāvuso sattā paccupaṭṭhitakāmā, te paccupaṭṭhitesu kāmesu vasaṁ vattenti, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā. Ayaṁ paṭhamā kāmūpapatti. Santāvuso, sattā nimmitakāmā, te nimminitvā nimminitvā kāmesu vasaṁ vattenti, seyyathāpi devā nimmānaratī. Ayaṁ dutiyā kāmūpapatti. Santāvuso sattā paranimmitakāmā, te paranimmitesu kāmesu vasaṁ vattenti, seyyathāpi devā paranimmitavasavattī. Ayaṁ tatiyā kāmūpapatti.
 
-Tisso sukhūpapattiyo— santāvuso sattā uppādetvā uppādetvā sukhaṁ viharanti, seyyathāpi devā brahmakāyikā. Ayaṁ paṭhamā sukhūpapatti. Santāvuso, sattā sukhena abhisannā parisannā paripūrā paripphuṭā. Te kadāci karahaci udānaṁ udānenti: ‘aho sukhaṁ, aho sukhan’ti, seyyathāpi devā ābhassarā. Ayaṁ dutiyā sukhūpapatti. Santāvuso, sattā sukhena abhisannā parisannā paripūrā paripphuṭā. Te santaṁyeva tusitā sukhaṁ paṭisaṁvedenti, seyyathāpi devā subhakiṇhā. Ayaṁ tatiyā sukhūpapatti.
+Tisso sukhūpapattiyo—santāvuso sattā uppādetvā uppādetvā sukhaṁ viharanti, seyyathāpi devā brahmakāyikā. Ayaṁ paṭhamā sukhūpapatti. Santāvuso, sattā sukhena abhisannā parisannā paripūrā paripphuṭā. Te kadāci karahaci udānaṁ udānenti: ‘aho sukhaṁ, aho sukhan’ti, seyyathāpi devā ābhassarā. Ayaṁ dutiyā sukhūpapatti. Santāvuso, sattā sukhena abhisannā parisannā paripūrā paripphuṭā. Te santaṁyeva tusitā sukhaṁ paṭisaṁvedenti, seyyathāpi devā subhakiṇhā. Ayaṁ tatiyā sukhūpapatti.
 
-Tisso paññā— sekkhā paññā, asekkhā paññā, nevasekkhānāsekkhā paññā.
+Tisso paññā—sekkhā paññā, asekkhā paññā, nevasekkhānāsekkhā paññā.
 
-Aparāpi tisso paññā— cintāmayā paññā, sutamayā paññā, bhāvanāmayā paññā.
+Aparāpi tisso paññā—cintāmayā paññā, sutamayā paññā, bhāvanāmayā paññā.
 
-Tīṇāvudhāni— sutāvudhaṁ, pavivekāvudhaṁ, paññāvudhaṁ.
+Tīṇāvudhāni—sutāvudhaṁ, pavivekāvudhaṁ, paññāvudhaṁ.
 
-Tīṇindriyāni— anaññātaññassāmītindriyaṁ, aññindriyaṁ, aññātāvindriyaṁ.
+Tīṇindriyāni—anaññātaññassāmītindriyaṁ, aññindriyaṁ, aññātāvindriyaṁ.
 
-Tīṇi cakkhūni— maṁsacakkhu, dibbacakkhu, paññācakkhu.
+Tīṇi cakkhūni—maṁsacakkhu, dibbacakkhu, paññācakkhu.
 
-Tisso sikkhā— adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā.
+Tisso sikkhā—adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā.
 
-Tisso bhāvanā— kāyabhāvanā, cittabhāvanā, paññābhāvanā.
+Tisso bhāvanā—kāyabhāvanā, cittabhāvanā, paññābhāvanā.
 
-Tīṇi anuttariyāni— dassanānuttariyaṁ, paṭipadānuttariyaṁ, vimuttānuttariyaṁ.
+Tīṇi anuttariyāni—dassanānuttariyaṁ, paṭipadānuttariyaṁ, vimuttānuttariyaṁ.
 
-Tayo samādhī— savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi.
+Tayo samādhī—savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi.
 
-Aparepi tayo samādhī— suññato samādhi, animitto samādhi, appaṇihito samādhi.
+Aparepi tayo samādhī—suññato samādhi, animitto samādhi, appaṇihito samādhi.
 
-Tīṇi soceyyāni— kāyasoceyyaṁ, vacīsoceyyaṁ, manosoceyyaṁ.
+Tīṇi soceyyāni—kāyasoceyyaṁ, vacīsoceyyaṁ, manosoceyyaṁ.
 
-Tīṇi moneyyāni— kāyamoneyyaṁ, vacīmoneyyaṁ, manomoneyyaṁ.
+Tīṇi moneyyāni—kāyamoneyyaṁ, vacīmoneyyaṁ, manomoneyyaṁ.
 
-Tīṇi kosallāni— āyakosallaṁ, apāyakosallaṁ, upāyakosallaṁ.
+Tīṇi kosallāni—āyakosallaṁ, apāyakosallaṁ, upāyakosallaṁ.
 
-Tayo madā— ārogyamado, yobbanamado, jīvitamado.
+Tayo madā—ārogyamado, yobbanamado, jīvitamado.
 
-Tīṇi ādhipateyyāni— attādhipateyyaṁ, lokādhipateyyaṁ, dhammādhipateyyaṁ.
+Tīṇi ādhipateyyāni—attādhipateyyaṁ, lokādhipateyyaṁ, dhammādhipateyyaṁ.
 
-Tīṇi kathāvatthūni— atītaṁ vā addhānaṁ ārabbha kathaṁ katheyya: ‘evaṁ ahosi atītamaddhānan’ti; anāgataṁ vā addhānaṁ ārabbha kathaṁ katheyya: ‘evaṁ bhavissati anāgatamaddhānan’ti; etarahi vā paccuppannaṁ addhānaṁ ārabbha kathaṁ katheyya: ‘evaṁ hoti etarahi paccuppannaṁ addhānan’ti.
+Tīṇi kathāvatthūni—atītaṁ vā addhānaṁ ārabbha kathaṁ katheyya: ‘evaṁ ahosi atītamaddhānan’ti; anāgataṁ vā addhānaṁ ārabbha kathaṁ katheyya: ‘evaṁ bhavissati anāgatamaddhānan’ti; etarahi vā paccuppannaṁ addhānaṁ ārabbha kathaṁ katheyya: ‘evaṁ hoti etarahi paccuppannaṁ addhānan’ti.
 
-Tisso vijjā— pubbenivāsānussatiñāṇaṁ vijjā, sattānaṁ cutūpapāteñāṇaṁ vijjā, āsavānaṁ khayeñāṇaṁ vijjā.
+Tisso vijjā—pubbenivāsānussatiñāṇaṁ vijjā, sattānaṁ cutūpapāteñāṇaṁ vijjā, āsavānaṁ khayeñāṇaṁ vijjā.
 
-Tayo vihārā— dibbo vihāro, brahmā vihāro, ariyo vihāro.
+Tayo vihārā—dibbo vihāro, brahmā vihāro, ariyo vihāro.
 
-Tīṇi pāṭihāriyāni— iddhipāṭihāriyaṁ, ādesanāpāṭihāriyaṁ, anusāsanīpāṭihāriyaṁ.
+Tīṇi pāṭihāriyāni—iddhipāṭihāriyaṁ, ādesanāpāṭihāriyaṁ, anusāsanīpāṭihāriyaṁ.
 
 Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena tayo dhammā sammadakkhātā. Tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ.
 
@@ -278,57 +278,57 @@ Katamañcāvuso, bhāvanāpadhānaṁ? Idha, bhikkhave, bhikkhu satisambojjhaṅ
 
 Katamañcāvuso, anurakkhaṇāpadhānaṁ? Idhāvuso, bhikkhu uppannaṁ bhadrakaṁ samādhinimittaṁ anurakkhati—aṭṭhikasaññaṁ, puḷuvakasaññaṁ, vinīlakasaññaṁ, vicchiddakasaññaṁ, uddhumātakasaññaṁ. Idaṁ vuccatāvuso, anurakkhaṇāpadhānaṁ.
 
-Cattāri ñāṇāni— dhamme ñāṇaṁ, anvaye ñāṇaṁ, pariye ñāṇaṁ, sammutiyā ñāṇaṁ.
+Cattāri ñāṇāni—dhamme ñāṇaṁ, anvaye ñāṇaṁ, pariye ñāṇaṁ, sammutiyā ñāṇaṁ.
 
-Aparānipi cattāri ñāṇāni— dukkhe ñāṇaṁ, dukkhasamudaye ñāṇaṁ, dukkhanirodhe ñāṇaṁ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ.
+Aparānipi cattāri ñāṇāni—dukkhe ñāṇaṁ, dukkhasamudaye ñāṇaṁ, dukkhanirodhe ñāṇaṁ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ.
 
-Cattāri sotāpattiyaṅgāni— sappurisasaṁsevo, saddhammassavanaṁ, yonisomanasikāro, dhammānudhammappaṭipatti.
+Cattāri sotāpattiyaṅgāni—sappurisasaṁsevo, saddhammassavanaṁ, yonisomanasikāro, dhammānudhammappaṭipatti.
 
 Cattāri sotāpannassa aṅgāni. Idhāvuso, ariyasāvako buddhe aveccappasādena samannāgato hoti: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho, bhagavā’ti. Dhamme aveccappasādena samannāgato hoti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhī’ti. Saṅghe aveccappasādena samannāgato hoti: ‘suppaṭipanno bhagavato sāvakasaṅgho ujuppaṭipanno bhagavato sāvakasaṅgho ñāyappaṭipanno bhagavato sāvakasaṅgho sāmīcippaṭipanno bhagavato sāvakasaṅgho yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā’ti. Ariyakantehi sīlehi samannāgato hoti akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehi viññuppasatthehi aparāmaṭṭhehi samādhisaṁvattanikehi.
 
-Cattāri sāmaññaphalāni— sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ.
+Cattāri sāmaññaphalāni—sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ.
 
-Catasso dhātuyo— pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu.
+Catasso dhātuyo—pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu.
 
-Cattāro āhārā— kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṁ catutthaṁ.
+Cattāro āhārā—kabaḷīkāro āhāro oḷāriko vā sukhumo vā, phasso dutiyo, manosañcetanā tatiyā, viññāṇaṁ catutthaṁ.
 
 Catasso viññāṇaṭṭhitiyo. Rūpūpāyaṁ vā, āvuso, viññāṇaṁ tiṭṭhamānaṁ tiṭṭhati rūpārammaṇaṁ rūpappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjati; vedanūpāyaṁ vā āvuso … saññūpāyaṁ vā, āvuso …pe… saṅkhārūpāyaṁ vā, āvuso, viññāṇaṁ tiṭṭhamānaṁ tiṭṭhati saṅkhārārammaṇaṁ saṅkhārappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ virūḷhiṁ vepullaṁ āpajjati.
 
-Cattāri agatigamanāni— chandāgatiṁ gacchati, dosāgatiṁ gacchati, mohāgatiṁ gacchati, bhayāgatiṁ gacchati.
+Cattāri agatigamanāni—chandāgatiṁ gacchati, dosāgatiṁ gacchati, mohāgatiṁ gacchati, bhayāgatiṁ gacchati.
 
-Cattāro taṇhuppādā— cīvarahetu vā, āvuso, bhikkhuno taṇhā uppajjamānā uppajjati; piṇḍapātahetu vā, āvuso, bhikkhuno taṇhā uppajjamānā uppajjati; senāsanahetu vā, āvuso, bhikkhuno taṇhā uppajjamānā uppajjati; itibhavābhavahetu vā, āvuso, bhikkhuno taṇhā uppajjamānā uppajjati.
+Cattāro taṇhuppādā—cīvarahetu vā, āvuso, bhikkhuno taṇhā uppajjamānā uppajjati; piṇḍapātahetu vā, āvuso, bhikkhuno taṇhā uppajjamānā uppajjati; senāsanahetu vā, āvuso, bhikkhuno taṇhā uppajjamānā uppajjati; itibhavābhavahetu vā, āvuso, bhikkhuno taṇhā uppajjamānā uppajjati.
 
-Catasso paṭipadā— dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.
+Catasso paṭipadā—dukkhā paṭipadā dandhābhiññā, dukkhā paṭipadā khippābhiññā, sukhā paṭipadā dandhābhiññā, sukhā paṭipadā khippābhiññā.
 
-Aparāpi catasso paṭipadā— akkhamā paṭipadā, khamā paṭipadā, damā paṭipadā, samā paṭipadā.
+Aparāpi catasso paṭipadā—akkhamā paṭipadā, khamā paṭipadā, damā paṭipadā, samā paṭipadā.
 
-Cattāri dhammapadāni— anabhijjhā dhammapadaṁ, abyāpādo dhammapadaṁ, sammāsati dhammapadaṁ, sammāsamādhi dhammapadaṁ.
+Cattāri dhammapadāni—anabhijjhā dhammapadaṁ, abyāpādo dhammapadaṁ, sammāsati dhammapadaṁ, sammāsamādhi dhammapadaṁ.
 
-Cattāri dhammasamādānāni— atthāvuso, dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ. Atthāvuso, dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ. Atthāvuso, dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ. Atthāvuso, dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ.
+Cattāri dhammasamādānāni—atthāvuso, dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ. Atthāvuso, dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ. Atthāvuso, dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ. Atthāvuso, dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ.
 
-Cattāro dhammakkhandhā— sīlakkhandho, samādhikkhandho, paññākkhandho, vimuttikkhandho.
+Cattāro dhammakkhandhā—sīlakkhandho, samādhikkhandho, paññākkhandho, vimuttikkhandho.
 
-Cattāri balāni— vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ.
+Cattāri balāni—vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ.
 
-Cattāri adhiṭṭhānāni— paññādhiṭṭhānaṁ, saccādhiṭṭhānaṁ, cāgādhiṭṭhānaṁ, upasamādhiṭṭhānaṁ.
+Cattāri adhiṭṭhānāni—paññādhiṭṭhānaṁ, saccādhiṭṭhānaṁ, cāgādhiṭṭhānaṁ, upasamādhiṭṭhānaṁ.
 
-Cattāri pañhabyākaraṇāni— ekaṁsabyākaraṇīyo pañho, paṭipucchābyākaraṇīyo pañho, vibhajjabyākaraṇīyo pañho, ṭhapanīyo pañho.
+Cattāri pañhabyākaraṇāni—ekaṁsabyākaraṇīyo pañho, paṭipucchābyākaraṇīyo pañho, vibhajjabyākaraṇīyo pañho, ṭhapanīyo pañho.
 
-Cattāri kammāni— atthāvuso, kammaṁ kaṇhaṁ kaṇhavipākaṁ. Atthāvuso, kammaṁ sukkaṁ sukkavipākaṁ. Atthāvuso, kammaṁ kaṇhasukkaṁ kaṇhasukkavipākaṁ. Atthāvuso, kammaṁ akaṇhaasukkaṁ akaṇhaasukkavipākaṁ kammakkhayāya saṁvattati.
+Cattāri kammāni—atthāvuso, kammaṁ kaṇhaṁ kaṇhavipākaṁ. Atthāvuso, kammaṁ sukkaṁ sukkavipākaṁ. Atthāvuso, kammaṁ kaṇhasukkaṁ kaṇhasukkavipākaṁ. Atthāvuso, kammaṁ akaṇhaasukkaṁ akaṇhaasukkavipākaṁ kammakkhayāya saṁvattati.
 
-Cattāro sacchikaraṇīyā dhammā— pubbenivāso satiyā sacchikaraṇīyo; sattānaṁ cutūpapāto cakkhunā sacchikaraṇīyo; aṭṭha vimokkhā kāyena sacchikaraṇīyā; āsavānaṁ khayo paññāya sacchikaraṇīyo.
+Cattāro sacchikaraṇīyā dhammā—pubbenivāso satiyā sacchikaraṇīyo; sattānaṁ cutūpapāto cakkhunā sacchikaraṇīyo; aṭṭha vimokkhā kāyena sacchikaraṇīyā; āsavānaṁ khayo paññāya sacchikaraṇīyo.
 
-Cattāro oghā— kāmogho, bhavogho, diṭṭhogho, avijjogho.
+Cattāro oghā—kāmogho, bhavogho, diṭṭhogho, avijjogho.
 
-Cattāro yogā— kāmayogo, bhavayogo, diṭṭhiyogo, avijjāyogo.
+Cattāro yogā—kāmayogo, bhavayogo, diṭṭhiyogo, avijjāyogo.
 
-Cattāro visaññogā— kāmayogavisaññogo, bhavayogavisaññogo, diṭṭhiyogavisaññogo, avijjāyogavisaññogo.
+Cattāro visaññogā—kāmayogavisaññogo, bhavayogavisaññogo, diṭṭhiyogavisaññogo, avijjāyogavisaññogo.
 
-Cattāro ganthā— abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṁsaccābhiniveso kāyagantho.
+Cattāro ganthā—abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṁsaccābhiniveso kāyagantho.
 
-Cattāri upādānāni— kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ.
+Cattāri upādānāni—kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ.
 
-Catasso yoniyo— aṇḍajayoni, jalābujayoni, saṁsedajayoni, opapātikayoni.
+Catasso yoniyo—aṇḍajayoni, jalābujayoni, saṁsedajayoni, opapātikayoni.
 
 Catasso gabbhāvakkantiyo. Idhāvuso, ekacco asampajāno mātukucchiṁ okkamati, asampajāno mātukucchismiṁ ṭhāti, asampajāno mātukucchimhā nikkhamati, ayaṁ paṭhamā gabbhāvakkanti. Puna caparaṁ, āvuso, idhekacco sampajāno mātukucchiṁ okkamati, asampajāno mātukucchismiṁ ṭhāti, asampajāno mātukucchimhā nikkhamati, ayaṁ dutiyā gabbhāvakkanti. Puna caparaṁ, āvuso, idhekacco sampajāno mātukucchiṁ okkamati, sampajāno mātukucchismiṁ ṭhāti, asampajāno mātukucchimhā nikkhamati, ayaṁ tatiyā gabbhāvakkanti. Puna caparaṁ, āvuso, idhekacco sampajāno mātukucchiṁ okkamati, sampajāno mātukucchismiṁ ṭhāti, sampajāno mātukucchimhā nikkhamati, ayaṁ catutthā gabbhāvakkanti.
 
@@ -336,27 +336,27 @@ Cattāro attabhāvapaṭilābhā. Atthāvuso, attabhāvapaṭilābho, yasmiṁ a
 
 Catasso dakkhiṇāvisuddhiyo. Atthāvuso, dakkhiṇā dāyakato visujjhati no paṭiggāhakato. Atthāvuso, dakkhiṇā paṭiggāhakato visujjhati no dāyakato. Atthāvuso, dakkhiṇā neva dāyakato visujjhati no paṭiggāhakato. Atthāvuso, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca.
 
-Cattāri saṅgahavatthūni— dānaṁ, peyyavajjaṁ, atthacariyā, samānattatā.
+Cattāri saṅgahavatthūni—dānaṁ, peyyavajjaṁ, atthacariyā, samānattatā.
 
-Cattāro anariyavohārā— musāvādo, pisuṇāvācā, pharusāvācā, samphappalāpo.
+Cattāro anariyavohārā—musāvādo, pisuṇāvācā, pharusāvācā, samphappalāpo.
 
-Cattāro ariyavohārā— musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī.
+Cattāro ariyavohārā—musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī.
 
-Aparepi cattāro anariyavohārā— adiṭṭhe diṭṭhavāditā, assute sutavāditā, amute mutavāditā, aviññāte viññātavāditā.
+Aparepi cattāro anariyavohārā—adiṭṭhe diṭṭhavāditā, assute sutavāditā, amute mutavāditā, aviññāte viññātavāditā.
 
-Aparepi cattāro ariyavohārā— adiṭṭhe adiṭṭhavāditā, assute assutavāditā, amute amutavāditā, aviññāte aviññātavāditā.
+Aparepi cattāro ariyavohārā—adiṭṭhe adiṭṭhavāditā, assute assutavāditā, amute amutavāditā, aviññāte aviññātavāditā.
 
-Aparepi cattāro anariyavohārā— diṭṭhe adiṭṭhavāditā, sute assutavāditā, mute amutavāditā, viññāte aviññātavāditā.
+Aparepi cattāro anariyavohārā—diṭṭhe adiṭṭhavāditā, sute assutavāditā, mute amutavāditā, viññāte aviññātavāditā.
 
-Aparepi cattāro ariyavohārā— diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā.
+Aparepi cattāro ariyavohārā—diṭṭhe diṭṭhavāditā, sute sutavāditā, mute mutavāditā, viññāte viññātavāditā.
 
 Cattāro puggalā. Idhāvuso, ekacco puggalo attantapo hoti attaparitāpanānuyogamanuyutto. Idhāvuso, ekacco puggalo parantapo hoti paraparitāpanānuyogamanuyutto. Idhāvuso, ekacco puggalo attantapo ca hoti attaparitāpanānuyogamanuyutto, parantapo ca paraparitāpanānuyogamanuyutto. Idhāvuso, ekacco puggalo neva attantapo hoti na attaparitāpanānuyogamanuyutto na parantapo na paraparitāpanānuyogamanuyutto. So anattantapo aparantapo diṭṭheva dhamme nicchāto nibbuto sītībhūto sukhappaṭisaṁvedī brahmabhūtena attanā viharati.
 
 Aparepi cattāro puggalā. Idhāvuso, ekacco puggalo attahitāya paṭipanno hoti no parahitāya. Idhāvuso, ekacco puggalo parahitāya paṭipanno hoti no attahitāya. Idhāvuso, ekacco puggalo neva attahitāya paṭipanno hoti no parahitāya. Idhāvuso, ekacco puggalo attahitāya ceva paṭipanno hoti parahitāya ca.
 
-Aparepi cattāro puggalā— tamo tamaparāyano, tamo jotiparāyano, joti tamaparāyano, joti jotiparāyano.
+Aparepi cattāro puggalā—tamo tamaparāyano, tamo jotiparāyano, joti tamaparāyano, joti jotiparāyano.
 
-Aparepi cattāro puggalā— samaṇamacalo, samaṇapadumo, samaṇapuṇḍarīko, samaṇesu samaṇasukhumālo.
+Aparepi cattāro puggalā—samaṇamacalo, samaṇapadumo, samaṇapuṇḍarīko, samaṇesu samaṇasukhumālo.
 
 Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cattāro dhammā sammadakkhātā; tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ.
 
@@ -372,23 +372,23 @@ Pañcupādānakkhandhā. Rūpupādānakkhandho vedanupādānakkhandho saññupā
 
 Pañca kāmaguṇā. Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasañhitā rajanīyā, sotaviññeyyā saddā … ghānaviññeyyā gandhā … jivhāviññeyyā rasā … kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasañhitā rajanīyā.
 
-Pañca gatiyo— nirayo, tiracchānayoni, pettivisayo, manussā, devā.
+Pañca gatiyo—nirayo, tiracchānayoni, pettivisayo, manussā, devā.
 
-Pañca macchariyāni— āvāsamacchariyaṁ, kulamacchariyaṁ, lābhamacchariyaṁ, vaṇṇamacchariyaṁ, dhammamacchariyaṁ.
+Pañca macchariyāni—āvāsamacchariyaṁ, kulamacchariyaṁ, lābhamacchariyaṁ, vaṇṇamacchariyaṁ, dhammamacchariyaṁ.
 
-Pañca nīvaraṇāni— kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ, uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ.
+Pañca nīvaraṇāni—kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ, uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ.
 
-Pañca orambhāgiyāni saṁyojanāni— sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo.
+Pañca orambhāgiyāni saṁyojanāni—sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo.
 
-Pañca uddhambhāgiyāni saṁyojanāni— rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā.
+Pañca uddhambhāgiyāni saṁyojanāni—rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā.
 
-Pañca sikkhāpadāni— pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, surāmerayamajjappamādaṭṭhānā veramaṇī.
+Pañca sikkhāpadāni—pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, surāmerayamajjappamādaṭṭhānā veramaṇī.
 
 Pañca abhabbaṭṭhānāni. Abhabbo, āvuso, khīṇāsavo bhikkhu sañcicca pāṇaṁ jīvitā voropetuṁ. Abhabbo khīṇāsavo bhikkhu adinnaṁ theyyasaṅkhātaṁ ādiyituṁ. Abhabbo khīṇāsavo bhikkhu methunaṁ dhammaṁ paṭisevituṁ. Abhabbo khīṇāsavo bhikkhu sampajānamusā bhāsituṁ. Abhabbo khīṇāsavo bhikkhu sannidhikārakaṁ kāme paribhuñjituṁ, seyyathāpi pubbe āgārikabhūto.
 
-Pañca byasanāni— ñātibyasanaṁ, bhogabyasanaṁ, rogabyasanaṁ, sīlabyasanaṁ, diṭṭhibyasanaṁ. Nāvuso, sattā ñātibyasanahetu vā bhogabyasanahetu vā rogabyasanahetu vā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti. Sīlabyasanahetu vā, āvuso, sattā diṭṭhibyasanahetu vā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti.
+Pañca byasanāni—ñātibyasanaṁ, bhogabyasanaṁ, rogabyasanaṁ, sīlabyasanaṁ, diṭṭhibyasanaṁ. Nāvuso, sattā ñātibyasanahetu vā bhogabyasanahetu vā rogabyasanahetu vā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti. Sīlabyasanahetu vā, āvuso, sattā diṭṭhibyasanahetu vā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti.
 
-Pañca sampadā— ñātisampadā, bhogasampadā, ārogyasampadā, sīlasampadā, diṭṭhisampadā. Nāvuso, sattā ñātisampadāhetu vā bhogasampadāhetu vā ārogyasampadāhetu vā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sīlasampadāhetu vā, āvuso, sattā diṭṭhisampadāhetu vā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
+Pañca sampadā—ñātisampadā, bhogasampadā, ārogyasampadā, sīlasampadā, diṭṭhisampadā. Nāvuso, sattā ñātisampadāhetu vā bhogasampadāhetu vā ārogyasampadāhetu vā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sīlasampadāhetu vā, āvuso, sattā diṭṭhisampadāhetu vā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
 
 Pañca ādīnavā dussīlassa sīlavipattiyā. Idhāvuso, dussīlo sīlavipanno pamādādhikaraṇaṁ mahatiṁ bhogajāniṁ nigacchati, ayaṁ paṭhamo ādīnavo dussīlassa sīlavipattiyā. Puna caparaṁ, āvuso, dussīlassa sīlavipannassa pāpako kittisaddo abbhuggacchati, ayaṁ dutiyo ādīnavo dussīlassa sīlavipattiyā. Puna caparaṁ, āvuso, dussīlo sīlavipanno yaññadeva parisaṁ upasaṅkamati yadi khattiyaparisaṁ yadi brāhmaṇaparisaṁ yadi gahapatiparisaṁ yadi samaṇaparisaṁ, avisārado upasaṅkamati maṅkubhūto, ayaṁ tatiyo ādīnavo dussīlassa sīlavipattiyā. Puna caparaṁ, āvuso, dussīlo sīlavipanno sammūḷho kālaṁ karoti, ayaṁ catuttho ādīnavo dussīlassa sīlavipattiyā. Puna caparaṁ, āvuso, dussīlo sīlavipanno kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati, ayaṁ pañcamo ādīnavo dussīlassa sīlavipattiyā.
 
@@ -398,19 +398,19 @@ Codakena, āvuso, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ upa
 
 Pañca padhāniyaṅgāni. Idhāvuso, bhikkhu saddho hoti, saddahati tathāgatassa bodhiṁ: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato, lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Appābādho hoti appātaṅko, samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya. Asaṭho hoti amāyāvī, yathābhūtaṁ attānaṁ āvikattā satthari vā viññūsu vā sabrahmacārīsu. Āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya kusalānaṁ dhammānaṁ upasampadāya thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu. Paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā.
 
-Pañca suddhāvāsā— avihā, atappā, sudassā, sudassī, akaniṭṭhā.
+Pañca suddhāvāsā—avihā, atappā, sudassā, sudassī, akaniṭṭhā.
 
-Pañca anāgāmino— antarāparinibbāyī, upahaccaparinibbāyī, asaṅkhāraparinibbāyī, sasaṅkhāraparinibbāyī, uddhaṁsotoakaniṭṭhagāmī.
+Pañca anāgāmino—antarāparinibbāyī, upahaccaparinibbāyī, asaṅkhāraparinibbāyī, sasaṅkhāraparinibbāyī, uddhaṁsotoakaniṭṭhagāmī.
 
 Pañca cetokhilā. Idhāvuso, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati. Yo so, āvuso, bhikkhu satthari kaṅkhati vicikicchati nādhimuccati na sampasīdati, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ paṭhamo cetokhilo. Puna caparaṁ, āvuso, bhikkhu dhamme kaṅkhati vicikicchati …pe… saṅghe kaṅkhati vicikicchati … sikkhāya kaṅkhati vicikicchati … sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto. Yo so, āvuso, bhikkhu sabrahmacārīsu kupito hoti anattamano āhatacitto khilajāto, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya, ayaṁ pañcamo cetokhilo.
 
 Pañca cetasovinibandhā. Idhāvuso, bhikkhu kāmesu avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho. Yo so, āvuso, bhikkhu kāmesu avītarāgo hoti avigatacchando avigatapemo avigatapipāso avigatapariḷāho avigatataṇho, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Ayaṁ paṭhamo cetaso vinibandho. Puna caparaṁ, āvuso, bhikkhu kāye avītarāgo hoti …pe… rūpe avītarāgo hoti …pe… puna caparaṁ, āvuso, bhikkhu yāvadatthaṁ udarāvadehakaṁ bhuñjitvā seyyasukhaṁ passasukhaṁ middhasukhaṁ anuyutto viharati …pe… puna caparaṁ, āvuso, bhikkhu aññataraṁ devanikāyaṁ paṇidhāya brahmacariyaṁ carati: ‘imināhaṁ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti. Yo so, āvuso, bhikkhu aññataraṁ devanikāyaṁ paṇidhāya brahmacariyaṁ carati: ‘imināhaṁ sīlena vā vatena vā tapena vā brahmacariyena vā devo vā bhavissāmi devaññataro vā’ti, tassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Yassa cittaṁ na namati ātappāya anuyogāya sātaccāya padhānāya. Ayaṁ pañcamo cetaso vinibandho.
 
-Pañcindriyāni— cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ.
+Pañcindriyāni—cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ.
 
-Aparānipi pañcindriyāni— sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ.
+Aparānipi pañcindriyāni—sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ.
 
-Aparānipi pañcindriyāni— saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ.
+Aparānipi pañcindriyāni—saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ.
 
 Pañca nissaraṇiyā dhātuyo. Idhāvuso, bhikkhuno kāme manasikaroto kāmesu cittaṁ na pakkhandati na pasīdati na santiṭṭhati na vimuccati. Nekkhammaṁ kho panassa manasikaroto nekkhamme cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati. Tassa taṁ cittaṁ sugataṁ subhāvitaṁ suvuṭṭhitaṁ suvimuttaṁ visaṁyuttaṁ kāmehi. Ye ca kāmapaccayā uppajjanti āsavā vighātā pariḷāhā, mutto so tehi, na so taṁ vedanaṁ vedeti. Idamakkhātaṁ kāmānaṁ nissaraṇaṁ.
 
@@ -426,7 +426,7 @@ Pañca vimuttāyatanāni. Idhāvuso, bhikkhuno satthā dhammaṁ deseti aññata
 
 Puna caparaṁ, āvuso, bhikkhuno na heva kho satthā dhammaṁ deseti aññataro vā garuṭṭhāniyo sabrahmacārī, api ca kho yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena paresaṁ deseti …pe… api ca kho yathāsutaṁ yathāpariyattaṁ dhammaṁ vitthārena sajjhāyaṁ karoti …pe… api ca kho yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakketi anuvicāreti manasānupekkhati …pe… api ca khvassa aññataraṁ samādhinimittaṁ suggahitaṁ hoti sumanasikataṁ sūpadhāritaṁ suppaṭividdhaṁ paññāya. Yathā yathā, āvuso, bhikkhuno aññataraṁ samādhinimittaṁ suggahitaṁ hoti sumanasikataṁ sūpadhāritaṁ suppaṭividdhaṁ paññāya tathā tathā so tasmiṁ dhamme atthapaṭisaṁvedī ca hoti dhammapaṭisaṁvedī ca. Tassa atthapaṭisaṁvedino dhammapaṭisaṁvedino pāmojjaṁ jāyati, pamuditassa pīti jāyati, pītimanassa kāyo passambhati, passaddhakāyo sukhaṁ vedeti, sukhino cittaṁ samādhiyati. Idaṁ pañcamaṁ vimuttāyatanaṁ.
 
-Pañca vimuttiparipācanīyā saññā— aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā.
+Pañca vimuttiparipācanīyā saññā—aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā.
 
 Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena pañca dhammā sammadakkhātā; tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ.
 
@@ -434,21 +434,21 @@ Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena pa
 
 2.2\. Atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cha dhammā sammadakkhātā; tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ. Katame cha?
 
-Cha ajjhattikāni āyatanāni— cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ.
+Cha ajjhattikāni āyatanāni—cakkhāyatanaṁ, sotāyatanaṁ, ghānāyatanaṁ, jivhāyatanaṁ, kāyāyatanaṁ, manāyatanaṁ.
 
-Cha bāhirāni āyatanāni— rūpāyatanaṁ, saddāyatanaṁ, gandhāyatanaṁ, rasāyatanaṁ, phoṭṭhabbāyatanaṁ, dhammāyatanaṁ.
+Cha bāhirāni āyatanāni—rūpāyatanaṁ, saddāyatanaṁ, gandhāyatanaṁ, rasāyatanaṁ, phoṭṭhabbāyatanaṁ, dhammāyatanaṁ.
 
-Cha viññāṇakāyā— cakkhuviññāṇaṁ, sotaviññāṇaṁ, ghānaviññāṇaṁ, jivhāviññāṇaṁ, kāyaviññāṇaṁ, manoviññāṇaṁ.
+Cha viññāṇakāyā—cakkhuviññāṇaṁ, sotaviññāṇaṁ, ghānaviññāṇaṁ, jivhāviññāṇaṁ, kāyaviññāṇaṁ, manoviññāṇaṁ.
 
-Cha phassakāyā— cakkhusamphasso, sotasamphasso, ghānasamphasso, jivhāsamphasso, kāyasamphasso, manosamphasso.
+Cha phassakāyā—cakkhusamphasso, sotasamphasso, ghānasamphasso, jivhāsamphasso, kāyasamphasso, manosamphasso.
 
-Cha vedanākāyā— cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manosamphassajā vedanā.
+Cha vedanākāyā—cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manosamphassajā vedanā.
 
-Cha saññākāyā— rūpasaññā, saddasaññā, gandhasaññā, rasasaññā, phoṭṭhabbasaññā, dhammasaññā.
+Cha saññākāyā—rūpasaññā, saddasaññā, gandhasaññā, rasasaññā, phoṭṭhabbasaññā, dhammasaññā.
 
-Cha sañcetanākāyā— rūpasañcetanā, saddasañcetanā, gandhasañcetanā, rasasañcetanā, phoṭṭhabbasañcetanā, dhammasañcetanā.
+Cha sañcetanākāyā—rūpasañcetanā, saddasañcetanā, gandhasañcetanā, rasasañcetanā, phoṭṭhabbasañcetanā, dhammasañcetanā.
 
-Cha taṇhākāyā— rūpataṇhā, saddataṇhā, gandhataṇhā, rasataṇhā, phoṭṭhabbataṇhā, dhammataṇhā.
+Cha taṇhākāyā—rūpataṇhā, saddataṇhā, gandhataṇhā, rasataṇhā, phoṭṭhabbataṇhā, dhammataṇhā.
 
 Cha agāravā. Idhāvuso, bhikkhu satthari agāravo viharati appatisso; dhamme agāravo viharati appatisso; saṅghe agāravo viharati appatisso; sikkhāya agāravo viharati appatisso; appamāde agāravo viharati appatisso; paṭisanthāre agāravo viharati appatisso.
 
@@ -478,7 +478,7 @@ Cha vivādamūlāni. Idhāvuso, bhikkhu kodhano hoti upanāhī. Yo so, āvuso, b
 
 Puna caparaṁ, āvuso, bhikkhu makkhī hoti paḷāsī …pe… issukī hoti maccharī …pe… saṭho hoti māyāvī … pāpiccho hoti micchādiṭṭhī … sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī …pe… yo so, āvuso, bhikkhu sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī, so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṅghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti. Yo so, āvuso, bhikkhu satthari agāravo viharati appatisso, dhamme agāravo viharati appatisso, saṅghe agāravo viharati appatisso, sikkhāya na paripūrakārī, so saṅghe vivādaṁ janeti. Yo hoti vivādo bahujanāhitāya bahujanāsukhāya anatthāya ahitāya dukkhāya devamanussānaṁ. Evarūpañce tumhe, āvuso, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā samanupasseyyātha. Tatra tumhe, āvuso, tasseva pāpakassa vivādamūlassa pahānāya vāyameyyātha. Evarūpañce tumhe, āvuso, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā na samanupasseyyātha. Tatra tumhe, āvuso, tasseva pāpakassa vivādamūlassa āyatiṁ anavassavāya paṭipajjeyyātha. Evametassa pāpakassa vivādamūlassa pahānaṁ hoti. Evametassa pāpakassa vivādamūlassa āyatiṁ anavassavo hoti.
 
-Cha dhātuyo— pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu.
+Cha dhātuyo—pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, ākāsadhātu, viññāṇadhātu.
 
 Cha nissaraṇiyā dhātuyo. Idhāvuso, bhikkhu evaṁ vadeyya: ‘mettā hi kho me cetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, atha ca pana me byāpādo cittaṁ pariyādāya tiṭṭhatī’ti. So ‘mā hevan’tissa vacanīyo, ‘māyasmā evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya. Aṭṭhānametaṁ, āvuso, anavakāso, yaṁ mettāya cetovimuttiyā bhāvitāya bahulīkatāya yānīkatāya vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya. Atha ca panassa byāpādo cittaṁ pariyādāya ṭhassati, netaṁ ṭhānaṁ vijjati. Nissaraṇaṁ hetaṁ, āvuso, byāpādassa, yadidaṁ mettā cetovimuttī’ti.
 
@@ -492,15 +492,15 @@ Idha panāvuso, bhikkhu evaṁ vadeyya: ‘animittā hi kho me cetovimutti bhāv
 
 Idha panāvuso, bhikkhu evaṁ vadeyya: ‘asmīti kho me vigataṁ, ayamahamasmīti na samanupassāmi, atha ca pana me vicikicchākathaṅkathāsallaṁ cittaṁ pariyādāya tiṭṭhatī’ti. So ‘mā hevan’tissa vacanīyo ‘māyasmā evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya. Aṭṭhānametaṁ, āvuso, anavakāso, yaṁ asmīti vigate ayamahamasmīti asamanupassato, atha ca panassa vicikicchākathaṅkathāsallaṁ cittaṁ pariyādāya ṭhassati, netaṁ ṭhānaṁ vijjati. Nissaraṇaṁ hetaṁ, āvuso, vicikicchākathaṅkathāsallassa, yadidaṁ asmimānasamugghāto’ti.
 
-Cha anuttariyāni— dassanānuttariyaṁ, savanānuttariyaṁ, lābhānuttariyaṁ, sikkhānuttariyaṁ, pāricariyānuttariyaṁ, anussatānuttariyaṁ.
+Cha anuttariyāni—dassanānuttariyaṁ, savanānuttariyaṁ, lābhānuttariyaṁ, sikkhānuttariyaṁ, pāricariyānuttariyaṁ, anussatānuttariyaṁ.
 
-Cha anussatiṭṭhānāni— buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati.
+Cha anussatiṭṭhānāni—buddhānussati, dhammānussati, saṅghānussati, sīlānussati, cāgānussati, devatānussati.
 
 Cha satatavihārā. Idhāvuso, bhikkhu cakkhunā rūpaṁ disvā neva sumano hoti na dummano, upekkhako viharati sato sampajāno. Sotena saddaṁ sutvā …pe… manasā dhammaṁ viññāya neva sumano hoti na dummano, upekkhako viharati sato sampajāno.
 
 Chaḷābhijātiyo. Idhāvuso, ekacco kaṇhābhijātiko samāno kaṇhaṁ dhammaṁ abhijāyati. Idha panāvuso, ekacco kaṇhābhijātiko samāno sukkaṁ dhammaṁ abhijāyati. Idha panāvuso, ekacco kaṇhābhijātiko samāno akaṇhaṁ asukkaṁ nibbānaṁ abhijāyati. Idha panāvuso, ekacco sukkābhijātiko samāno sukkaṁ dhammaṁ abhijāyati. Idha panāvuso, ekacco sukkābhijātiko samāno kaṇhaṁ dhammaṁ abhijāyati. Idha panāvuso, ekacco sukkābhijātiko samāno akaṇhaṁ asukkaṁ nibbānaṁ abhijāyati.
 
-Cha nibbedhabhāgiyā saññā— aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā, nirodhasaññā.
+Cha nibbedhabhāgiyā saññā—aniccasaññā, anicce dukkhasaññā, dukkhe anattasaññā, pahānasaññā, virāgasaññā, nirodhasaññā.
 
 Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena cha dhammā sammadakkhātā; tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ.
 
@@ -508,23 +508,23 @@ Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena ch
 
 2.3\. Atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena satta dhammā sammadakkhātā; tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ. Katame satta?
 
-Satta ariyadhanāni— saddhādhanaṁ, sīladhanaṁ, hiridhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ.
+Satta ariyadhanāni—saddhādhanaṁ, sīladhanaṁ, hiridhanaṁ, ottappadhanaṁ, sutadhanaṁ, cāgadhanaṁ, paññādhanaṁ.
 
-Satta bojjhaṅgā— satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo.
+Satta bojjhaṅgā—satisambojjhaṅgo, dhammavicayasambojjhaṅgo, vīriyasambojjhaṅgo, pītisambojjhaṅgo, passaddhisambojjhaṅgo, samādhisambojjhaṅgo, upekkhāsambojjhaṅgo.
 
-Satta samādhiparikkhārā— sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati.
+Satta samādhiparikkhārā—sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati.
 
-Satta asaddhammā— idhāvuso, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti.
+Satta asaddhammā—idhāvuso, bhikkhu assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti.
 
-Satta saddhammā— idhāvuso, bhikkhu saddho hoti, hirimā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, upaṭṭhitassati hoti, paññavā hoti.
+Satta saddhammā—idhāvuso, bhikkhu saddho hoti, hirimā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, upaṭṭhitassati hoti, paññavā hoti.
 
-Satta sappurisadhammā— idhāvuso, bhikkhu dhammaññū ca hoti atthaññū ca attaññū ca mattaññū ca kālaññū ca parisaññū ca puggalaññū ca.
+Satta sappurisadhammā—idhāvuso, bhikkhu dhammaññū ca hoti atthaññū ca attaññū ca mattaññū ca kālaññū ca parisaññū ca puggalaññū ca.
 
 Satta niddasavatthūni. Idhāvuso, bhikkhu sikkhāsamādāne tibbacchando hoti, āyatiñca sikkhāsamādāne avigatapemo. Dhammanisantiyā tibbacchando hoti, āyatiñca dhammanisantiyā avigatapemo. Icchāvinaye tibbacchando hoti, āyatiñca icchāvinaye avigatapemo. Paṭisallāne tibbacchando hoti, āyatiñca paṭisallāne avigatapemo. Vīriyārambhe tibbacchando hoti, āyatiñca vīriyārambhe avigatapemo. Satinepakke tibbacchando hoti, āyatiñca satinepakke avigatapemo. Diṭṭhipaṭivedhe tibbacchando hoti, āyatiñca diṭṭhipaṭivedhe avigatapemo.
 
-Satta saññā— aniccasaññā, anattasaññā, asubhasaññā, ādīnavasaññā, pahānasaññā, virāgasaññā, nirodhasaññā.
+Satta saññā—aniccasaññā, anattasaññā, asubhasaññā, ādīnavasaññā, pahānasaññā, virāgasaññā, nirodhasaññā.
 
-Satta balāni— saddhābalaṁ, vīriyabalaṁ, hiribalaṁ, ottappabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ.
+Satta balāni—saddhābalaṁ, vīriyabalaṁ, hiribalaṁ, ottappabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ.
 
 Satta viññāṇaṭṭhitiyo. Santāvuso, sattā nānattakāyā nānattasaññino, seyyathāpi manussā ekacce ca devā ekacce ca vinipātikā. Ayaṁ paṭhamā viññāṇaṭṭhiti.
 
@@ -540,13 +540,13 @@ Santāvuso, sattā sabbaso ākāsānañcāyatanaṁ samatikkamma ‘anantaṁ vi
 
 Santāvuso, sattā sabbaso viññāṇañcāyatanaṁ samatikkamma ‘natthi kiñcī’ti ākiñcaññāyatanūpagā. Ayaṁ sattamī viññāṇaṭṭhiti.
 
-Satta puggalā dakkhiṇeyyā— ubhatobhāgavimutto, paññāvimutto, kāyasakkhi, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī.
+Satta puggalā dakkhiṇeyyā—ubhatobhāgavimutto, paññāvimutto, kāyasakkhi, diṭṭhippatto, saddhāvimutto, dhammānusārī, saddhānusārī.
 
-Satta anusayā— kāmarāgānusayo, paṭighānusayo, diṭṭhānusayo, vicikicchānusayo, mānānusayo, bhavarāgānusayo, avijjānusayo.
+Satta anusayā—kāmarāgānusayo, paṭighānusayo, diṭṭhānusayo, vicikicchānusayo, mānānusayo, bhavarāgānusayo, avijjānusayo.
 
-Satta saṁyojanāni— anunayasaṁyojanaṁ, paṭighasaṁyojanaṁ, diṭṭhisaṁyojanaṁ, vicikicchāsaṁyojanaṁ, mānasaṁyojanaṁ, bhavarāgasaṁyojanaṁ, avijjāsaṁyojanaṁ.
+Satta saṁyojanāni—anunayasaṁyojanaṁ, paṭighasaṁyojanaṁ, diṭṭhisaṁyojanaṁ, vicikicchāsaṁyojanaṁ, mānasaṁyojanaṁ, bhavarāgasaṁyojanaṁ, avijjāsaṁyojanaṁ.
 
-Satta adhikaraṇasamathā uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya— sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo, paṭiññāya kāretabbaṁ, yebhuyyasikā, tassapāpiyasikā, tiṇavatthārako.
+Satta adhikaraṇasamathā uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya—sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo, paṭiññāya kāretabbaṁ, yebhuyyasikā, tassapāpiyasikā, tiṇavatthārako.
 
 Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena satta dhammā sammadakkhātā; tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ.
 
@@ -556,11 +556,11 @@ Dutiyabhāṇavāro niṭṭhito.
 
 3.1\. Atthi kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena aṭṭha dhammā sammadakkhātā; tattha sabbeheva saṅgāyitabbaṁ …pe… atthāya hitāya sukhāya devamanussānaṁ. Katame aṭṭha?
 
-Aṭṭha micchattā— micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo micchāsati, micchāsamādhi.
+Aṭṭha micchattā—micchādiṭṭhi, micchāsaṅkappo, micchāvācā, micchākammanto, micchāājīvo, micchāvāyāmo micchāsati, micchāsamādhi.
 
-Aṭṭha sammattā— sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi.
+Aṭṭha sammattā—sammādiṭṭhi, sammāsaṅkappo, sammāvācā, sammākammanto, sammāājīvo, sammāvāyāmo, sammāsati, sammāsamādhi.
 
-Aṭṭha puggalā dakkhiṇeyyā— sotāpanno, sotāpattiphalasacchikiriyāya paṭipanno; sakadāgāmī, sakadāgāmiphalasacchikiriyāya paṭipanno; anāgāmī, anāgāmiphalasacchikiriyāya paṭipanno; arahā, arahattaphalasacchikiriyāya paṭipanno.
+Aṭṭha puggalā dakkhiṇeyyā—sotāpanno, sotāpattiphalasacchikiriyāya paṭipanno; sakadāgāmī, sakadāgāmiphalasacchikiriyāya paṭipanno; anāgāmī, anāgāmiphalasacchikiriyāya paṭipanno; arahā, arahattaphalasacchikiriyāya paṭipanno.
 
 Aṭṭha kusītavatthūni. Idhāvuso, bhikkhunā kammaṁ kātabbaṁ hoti. Tassa evaṁ hoti: ‘kammaṁ kho me kātabbaṁ bhavissati, kammaṁ kho pana me karontassa kāyo kilamissati, handāhaṁ nipajjāmī’ti. So nipajjati na vīriyaṁ ārabhati appattassa pattiyā anadhigatassa adhigamāya asacchikatassa sacchikiriyāya. Idaṁ paṭhamaṁ kusītavatthu.
 
@@ -604,13 +604,13 @@ Puna caparaṁ, āvuso, idhekacco dānaṁ deti samaṇassa vā brāhmaṇassa v
 
 Puna caparaṁ, āvuso, idhekacco dānaṁ deti samaṇassa vā brāhmaṇassa vā annaṁ pānaṁ vatthaṁ yānaṁ mālāgandhavilepanaṁ seyyāvasathapadīpeyyaṁ. So yaṁ deti taṁ paccāsīsati. Tassa sutaṁ hoti: ‘brahmakāyikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā brahmakāyikānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So taṁ cittaṁ dahati, taṁ cittaṁ adhiṭṭhāti, taṁ cittaṁ bhāveti, tassa taṁ cittaṁ hīne vimuttaṁ uttari abhāvitaṁ tatrūpapattiyā saṁvattati. Tañca kho sīlavato vadāmi no dussīlassa; vītarāgassa no sarāgassa. Ijjhatāvuso, sīlavato cetopaṇidhi vītarāgattā.
 
-Aṭṭha parisā— khattiyaparisā, brāhmaṇaparisā, gahapatiparisā, samaṇaparisā, cātumahārājikaparisā, tāvatiṁsaparisā, māraparisā, brahmaparisā.
+Aṭṭha parisā—khattiyaparisā, brāhmaṇaparisā, gahapatiparisā, samaṇaparisā, cātumahārājikaparisā, tāvatiṁsaparisā, māraparisā, brahmaparisā.
 
-Aṭṭha lokadhammā— lābho ca, alābho ca, yaso ca, ayaso ca, nindā ca, pasaṁsā ca, sukhañca, dukkhañca.
+Aṭṭha lokadhammā—lābho ca, alābho ca, yaso ca, ayaso ca, nindā ca, pasaṁsā ca, sukhañca, dukkhañca.
 
 Aṭṭha abhibhāyatanāni. Ajjhattaṁ rūpasaññī eko bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, ‘tāni abhibhuyya jānāmi passāmī’ti evaṁsaññī hoti. Idaṁ paṭhamaṁ abhibhāyatanaṁ.
 
-Ajjhattaṁ rūpasaññī eko bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, ‘tāni abhibhuyya jānāmi passāmī’ti— evaṁsaññī hoti. Idaṁ dutiyaṁ abhibhāyatanaṁ.
+Ajjhattaṁ rūpasaññī eko bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, ‘tāni abhibhuyya jānāmi passāmī’ti—evaṁsaññī hoti. Idaṁ dutiyaṁ abhibhāyatanaṁ.
 
 Ajjhattaṁ arūpasaññī eko bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, ‘tāni abhibhuyya jānāmi passāmī’ti evaṁsaññī hoti. Idaṁ tatiyaṁ abhibhāyatanaṁ.
 
@@ -718,9 +718,9 @@ Puna caparaṁ, āvuso, bhikkhu paññavā hoti, udayatthagāminiyā paññāya 
 
 Dasa kasiṇāyatanāni. Pathavīkasiṇameko sañjānāti, uddhaṁ adho tiriyaṁ advayaṁ appamāṇaṁ. Āpokasiṇameko sañjānāti …pe… tejokasiṇameko sañjānāti … vāyokasiṇameko sañjānāti … nīlakasiṇameko sañjānāti … pītakasiṇameko sañjānāti … lohitakasiṇameko sañjānāti … odātakasiṇameko sañjānāti … ākāsakasiṇameko sañjānāti … viññāṇakasiṇameko sañjānāti, uddhaṁ adho tiriyaṁ advayaṁ appamāṇaṁ.
 
-Dasa akusalakammapathā— pāṇātipāto, adinnādānaṁ, kāmesumicchācāro, musāvādo, pisuṇā vācā, pharusā vācā, samphappalāpo, abhijjhā, byāpādo, micchādiṭṭhi.
+Dasa akusalakammapathā—pāṇātipāto, adinnādānaṁ, kāmesumicchācāro, musāvādo, pisuṇā vācā, pharusā vācā, samphappalāpo, abhijjhā, byāpādo, micchādiṭṭhi.
 
-Dasa kusalakammapathā— pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī, anabhijjhā, abyāpādo, sammādiṭṭhi.
+Dasa kusalakammapathā—pāṇātipātā veramaṇī, adinnādānā veramaṇī, kāmesumicchācārā veramaṇī, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī, anabhijjhā, abyāpādo, sammādiṭṭhi.
 
 Dasa ariyavāsā. Idhāvuso, bhikkhu pañcaṅgavippahīno hoti, chaḷaṅgasamannāgato, ekārakkho, caturāpasseno, paṇunnapaccekasacco, samavayasaṭṭhesano, anāvilasaṅkappo, passaddhakāyasaṅkhāro, suvimuttacitto, suvimuttapañño.
 
@@ -744,7 +744,7 @@ Kathañcāvuso, bhikkhu suvimuttacitto hoti? Idhāvuso, bhikkhuno rāgā citta�
 
 Kathañcāvuso, bhikkhu suvimuttapañño hoti? Idhāvuso, bhikkhu ‘rāgo me pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo’ti pajānāti. ‘Doso me pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo’ti pajānāti. ‘Moho me pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo’ti pajānāti. Evaṁ kho, āvuso, bhikkhu suvimuttapañño hoti.
 
-Dasa asekkhā dhammā— asekkhā sammādiṭṭhi, asekkho sammāsaṅkappo, asekkhā sammāvācā, asekkho sammākammanto, asekkho sammāājīvo, asekkho sammāvāyāmo, asekkhā sammāsati, asekkho sammāsamādhi, asekkhaṁ sammāñāṇaṁ, asekkhā sammāvimutti.
+Dasa asekkhā dhammā—asekkhā sammādiṭṭhi, asekkho sammāsaṅkappo, asekkhā sammāvācā, asekkho sammākammanto, asekkho sammāājīvo, asekkho sammāvāyāmo, asekkhā sammāsati, asekkho sammāsamādhi, asekkhaṁ sammāñāṇaṁ, asekkhā sammāvimutti.
 
 Ime kho, āvuso, tena bhagavatā jānatā passatā arahatā sammāsambuddhena dasa dhammā sammadakkhātā. Tattha sabbeheva saṅgāyitabbaṁ na vivaditabbaṁ, yathayidaṁ brahmacariyaṁ addhaniyaṁ assa ciraṭṭhitikaṁ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan”ti.
 

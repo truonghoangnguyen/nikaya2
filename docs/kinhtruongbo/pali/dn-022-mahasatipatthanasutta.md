@@ -1,6 +1,6 @@
 # DN 22. Mahāsatipaṭṭhānasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhaddante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -264,7 +264,7 @@ Idaṁ vuccati, bhikkhave, dukkhaṁ ariyasaccaṁ.
 
 19\. Katamañca, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ?
 
-Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ— kāmataṇhā bhavataṇhā vibhavataṇhā.
+Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ—kāmataṇhā bhavataṇhā vibhavataṇhā.
 
 Sā kho panesā, bhikkhave, taṇhā kattha uppajjamānā uppajjati, kattha nivisamānā nivisati? Yaṁ loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati.
 
@@ -324,7 +324,7 @@ Idaṁ vuccati, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ.
 
 21\. Katamañca, bhikkhave, dukkhanirodhagāminī paṭipadā ariyasaccaṁ?
 
-Ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ— sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.
+Ayameva ariyo aṭṭhaṅgiko maggo seyyathidaṁ—sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.
 
 Katamā ca, bhikkhave, sammādiṭṭhi? Yaṁ kho, bhikkhave, dukkhe ñāṇaṁ, dukkhasamudaye ñāṇaṁ, dukkhanirodhe ñāṇaṁ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṁ. Ayaṁ vuccati, bhikkhave, sammādiṭṭhi.
 

@@ -2,7 +2,7 @@
 
 ## 1. Nigrodhaparibbājakavatthu
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate.
 
 Tena kho pana samayena nigrodho paribbājako udumbarikāya paribbājakārāme paṭivasati mahatiyā paribbājakaparisāya saddhiṁ tiṁsamattehi paribbājakasatehi. Atha kho sandhāno gahapati divā divassa rājagahā nikkhami bhagavantaṁ dassanāya.
 

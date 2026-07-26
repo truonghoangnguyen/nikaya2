@@ -2,7 +2,7 @@
 
 ## 1. Khāṇumatakabrāhmaṇagahapatikā
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā magadhesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena khāṇumataṁ nāma magadhānaṁ brāhmaṇagāmo tadavasari. Tatra sudaṁ bhagavā khāṇumate viharati ambalaṭṭhikāyaṁ.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā magadhesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena khāṇumataṁ nāma magadhānaṁ brāhmaṇagāmo tadavasari. Tatra sudaṁ bhagavā khāṇumate viharati ambalaṭṭhikāyaṁ.
 
 Tena kho pana samayena kūṭadanto brāhmaṇo khāṇumataṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā māgadhena seniyena bimbisārena dinnaṁ rājadāyaṁ brahmadeyyaṁ. Tena kho pana samayena kūṭadantassa brāhmaṇassa mahāyañño upakkhaṭo hoti. Satta ca usabhasatāni satta ca vacchatarasatāni satta ca vacchatarīsatāni satta ca ajasatāni satta ca urabbhasatāni thūṇūpanītāni honti yaññatthāya.
 
@@ -18,7 +18,7 @@ Atha kho khāṇumatakā brāhmaṇagahapatikā khāṇumatā nikkhamitvā saṅ
 
 4\. Atha kho kūṭadantassa brāhmaṇassa etadahosi: “sutaṁ kho pana metaṁ: ‘samaṇo gotamo tividhaṁ yaññasampadaṁ soḷasaparikkhāraṁ jānātī’ti. Na kho panāhaṁ jānāmi tividhaṁ yaññasampadaṁ soḷasaparikkhāraṁ. Icchāmi cāhaṁ mahāyaññaṁ yajituṁ. Yannūnāhaṁ samaṇaṁ gotamaṁ upasaṅkamitvā tividhaṁ yaññasampadaṁ soḷasaparikkhāraṁ puccheyyan”ti.
 
-Atha kho kūṭadanto brāhmaṇo khattaṁ āmantesi: “tena hi, bho khatte, yena khāṇumatakā brāhmaṇagahapatikā tenupasaṅkama. upasaṅkamitvā khāṇumatake brāhmaṇagahapatike evaṁ vadehi: ‘kūṭadanto, bho, brāhmaṇo evamāha— āgamentu kira bhavanto, kūṭadantopi brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī’”ti.
+Atha kho kūṭadanto brāhmaṇo khattaṁ āmantesi: “tena hi, bho khatte, yena khāṇumatakā brāhmaṇagahapatikā tenupasaṅkama. upasaṅkamitvā khāṇumatake brāhmaṇagahapatike evaṁ vadehi: ‘kūṭadanto, bho, brāhmaṇo evamāha—āgamentu kira bhavanto, kūṭadantopi brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī’”ti.
 
 “Evaṁ, bho”ti kho so khattā kūṭadantassa brāhmaṇassa paṭissutvā yena khāṇumatakā brāhmaṇagahapatikā tenupasaṅkami. upasaṅkamitvā khāṇumatake brāhmaṇagahapatike etadavoca: “kūṭadanto, bho, brāhmaṇo evamāha: ‘āgamentu kira bhonto, kūṭadantopi brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī’”ti.
 
@@ -232,7 +232,7 @@ Kūṭadanto pana brāhmaṇo tūṇhībhūtova nisinno hoti. Atha kho te brāhm
 
 “Nāhaṁ, bho, samaṇassa gotamassa subhāsitaṁ subhāsitato nābbhanumodāmi. Muddhāpi tassa vipateyya, yo samaṇassa gotamassa subhāsitaṁ subhāsitato nābbhanumodeyya.
 
-Api ca me, bho, evaṁ hoti— samaṇo gotamo na evamāha: ‘evaṁ me sutan’ti vā ‘evaṁ arahati bhavitun’ti vā; api ca samaṇo gotamo: ‘evaṁ tadā āsi, itthaṁ tadā āsi’ tveva bhāsati.
+Api ca me, bho, evaṁ hoti—samaṇo gotamo na evamāha: ‘evaṁ me sutan’ti vā ‘evaṁ arahati bhavitun’ti vā; api ca samaṇo gotamo: ‘evaṁ tadā āsi, itthaṁ tadā āsi’ tveva bhāsati.
 
 Tassa mayhaṁ bho evaṁ hoti: ‘addhā samaṇo gotamo tena samayena rājā vā ahosi mahāvijito yaññassāmi purohito vā brāhmaṇo tassa yaññassa yājetā’ti.
 
@@ -280,7 +280,7 @@ Ayaṁ kho, brāhmaṇa, hetu ayaṁ paccayo, yena taṁ niccadānaṁ anukulaya
 
 “Katamo pana so, bho gotama, yañño imāya ca tividhāya yaññasampadāya soḷasaparikkhārāya iminā ca niccadānena anukulayaññena iminā ca vihāradānena imehi ca saraṇagamanehi appaṭṭhataro ca appasamārambhataro ca mahapphalataro ca mahānisaṁsataro cā”ti?
 
-“Yo kho, brāhmaṇa, pasannacitto sikkhāpadāni samādiyati— pāṇātipātā veramaṇiṁ, adinnādānā veramaṇiṁ, kāmesumicchācārā veramaṇiṁ, musāvādā veramaṇiṁ, surāmerayamajjapamādaṭṭhānā veramaṇiṁ. Ayaṁ kho, brāhmaṇa, yañño imāya ca tividhāya yaññasampadāya soḷasaparikkhārāya iminā ca niccadānena anukulayaññena iminā ca vihāradānena imehi ca saraṇagamanehi appaṭṭhataro ca appasamārambhataro ca mahapphalataro ca mahānisaṁsataro cā”ti.
+“Yo kho, brāhmaṇa, pasannacitto sikkhāpadāni samādiyati—pāṇātipātā veramaṇiṁ, adinnādānā veramaṇiṁ, kāmesumicchācārā veramaṇiṁ, musāvādā veramaṇiṁ, surāmerayamajjapamādaṭṭhānā veramaṇiṁ. Ayaṁ kho, brāhmaṇa, yañño imāya ca tividhāya yaññasampadāya soḷasaparikkhārāya iminā ca niccadānena anukulayaññena iminā ca vihāradānena imehi ca saraṇagamanehi appaṭṭhataro ca appasamārambhataro ca mahapphalataro ca mahānisaṁsataro cā”ti.
 
 27\. “Atthi pana, bho gotama, añño yañño imāya ca tividhāya yaññasampadāya soḷasaparikkhārāya iminā ca niccadānena anukulayaññena iminā ca vihāradānena imehi ca saraṇagamanehi imehi ca sikkhāpadehi appaṭṭhataro ca appasamārambhataro ca mahapphalataro ca mahānisaṁsataro cā”ti?
 
@@ -304,7 +304,7 @@ Esāhaṁ, bho gotama, satta ca usabhasatāni satta ca vacchatarasatāni satta c
 
 ## 7. Sotāpattiphalasacchikiriyā
 
-29\. Atha kho bhagavā kūṭadantassa brāhmaṇassa anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ sīlakathaṁ saggakathaṁ; kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nekkhamme ānisaṁsaṁ pakāsesi. Yadā bhagavā aññāsi kūṭadantaṁ brāhmaṇaṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi— dukkhaṁ samudayaṁ nirodhaṁ maggaṁ. Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya; evameva kūṭadantassa brāhmaṇassa tasmiññeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi: “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti.
+29\. Atha kho bhagavā kūṭadantassa brāhmaṇassa anupubbiṁ kathaṁ kathesi, seyyathidaṁ—dānakathaṁ sīlakathaṁ saggakathaṁ; kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nekkhamme ānisaṁsaṁ pakāsesi. Yadā bhagavā aññāsi kūṭadantaṁ brāhmaṇaṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi—dukkhaṁ samudayaṁ nirodhaṁ maggaṁ. Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya; evameva kūṭadantassa brāhmaṇassa tasmiññeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi: “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti.
 
 30\. Atha kho kūṭadanto brāhmaṇo diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṁ etadavoca: “adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena.
 

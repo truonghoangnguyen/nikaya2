@@ -1,6 +1,6 @@
 # DN 11. Kevaṭṭasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā nāḷandāyaṁ viharati pāvārikambavane.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā nāḷandāyaṁ viharati pāvārikambavane.
 
 Atha kho kevaṭṭo gahapatiputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho kevaṭṭo gahapatiputto bhagavantaṁ etadavoca: “ayaṁ, bhante, nāḷandā iddhā ceva phītā ca bahujanā ākiṇṇamanussā bhagavati abhippasannā. Sādhu, bhante, bhagavā ekaṁ bhikkhuṁ samādisatu, yo uttari manussadhammā iddhipāṭihāriyaṁ karissati; evāyaṁ nāḷandā bhiyyoso mattāya bhagavati abhippasīdissatī”ti.
 
@@ -90,27 +90,27 @@ Evameva kho tvaṁ, bhikkhu, yato yāva brahmalokā pariyesamāno imassa pañhas
 
 Evañca kho eso, bhikkhu, pañho pucchitabbo:
 
-‘Kattha āpo ca pathavī,\
-tejo vāyo na gādhati;\
-Kattha dīghañca rassañca,\
-aṇuṁ thūlaṁ subhāsubhaṁ;\
-Kattha nāmañca rūpañca,\
-asesaṁ uparujjhatī’ti.
+> ‘Kattha āpo ca pathavī,\
+> tejo vāyo na gādhati;\
+> Kattha dīghañca rassañca,\
+> aṇuṁ thūlaṁ subhāsubhaṁ;\
+> Kattha nāmañca rūpañca,\
+> asesaṁ uparujjhatī’ti.
 
 Tatra veyyākaraṇaṁ bhavati:
 
-‘Viññāṇaṁ anidassanaṁ,\
-anantaṁ sabbatopabhaṁ;
+> ‘Viññāṇaṁ anidassanaṁ,\
+> anantaṁ sabbatopabhaṁ;
 
-Ettha āpo ca pathavī,\
-tejo vāyo na gādhati.\
-Ettha dīghañca rassañca,\
-aṇuṁ thūlaṁ subhāsubhaṁ;
+> Ettha āpo ca pathavī,\
+> tejo vāyo na gādhati.\
+> Ettha dīghañca rassañca,\
+> aṇuṁ thūlaṁ subhāsubhaṁ;
 
-Ettha nāmañca rūpañca,\
-asesaṁ uparujjhati;\
-Viññāṇassa nirodhena,\
-etthetaṁ uparujjhatī’”ti.
+> Ettha nāmañca rūpañca,\
+> asesaṁ uparujjhati;\
+> Viññāṇassa nirodhena,\
+> etthetaṁ uparujjhatī’”ti.
 
 Idamavoca bhagavā. Attamano kevaṭṭo gahapatiputto bhagavato bhāsitaṁ abhinandīti.
 

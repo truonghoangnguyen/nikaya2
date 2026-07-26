@@ -58,7 +58,7 @@ So satova assasati, satova passasati …pe…
 
 ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.
 
-Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā. Evaṁ bhāvitāya kho, bhikkhave, ānāpānassatiyā evaṁ bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ— diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
+Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā. Evaṁ bhāvitāya kho, bhikkhave, ānāpānassatiyā evaṁ bahulīkatāya dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
 
 Catutthaṁ.
 
@@ -74,7 +74,7 @@ So satova assasati, satova passasati …pe…
 
 Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā.
 
-2\. Evaṁ bhāvitāya kho, bhikkhave, ānāpānassatiyā evaṁ bahulīkatāya satta phalā sattānisaṁsā pāṭikaṅkhā. sasaṅkhāraparinibbāyī hoti … uddhaṁsoto hoti akaniṭṭhagāmī— evaṁ bhāvitāya kho, bhikkhave, ānāpānassatiyā evaṁ bahulīkatāya ime satta phalā sattānisaṁsā pāṭikaṅkhā”ti.
+2\. Evaṁ bhāvitāya kho, bhikkhave, ānāpānassatiyā evaṁ bahulīkatāya satta phalā sattānisaṁsā pāṭikaṅkhā. sasaṅkhāraparinibbāyī hoti … uddhaṁsoto hoti akaniṭṭhagāmī—evaṁ bhāvitāya kho, bhikkhave, ānāpānassatiyā evaṁ bahulīkatāya ime satta phalā sattānisaṁsā pāṭikaṅkhā”ti.
 
 Pañcamaṁ.
 
@@ -172,7 +172,7 @@ Aṭṭhamaṁ.
 
 ### 54.9 Vesālīsutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena bhagavā bhikkhūnaṁ anekapariyāyena asubhakathaṁ katheti, asubhāya vaṇṇaṁ bhāsati, asubhabhāvanāya vaṇṇaṁ bhāsati.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena bhagavā bhikkhūnaṁ anekapariyāyena asubhakathaṁ katheti, asubhāya vaṇṇaṁ bhāsati, asubhabhāvanāya vaṇṇaṁ bhāsati.
 
 2\. Atha kho bhagavā bhikkhū āmantesi: “icchāmahaṁ, bhikkhave, aḍḍhamāsaṁ paṭisallīyituṁ. Nāmhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti.
 
@@ -208,7 +208,7 @@ Navamaṁ.
 
 ### 54.10 Kimilasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā kimilāyaṁ viharati veḷuvane. Tatra kho bhagavā āyasmantaṁ kimilaṁ āmantesi: “kathaṁ bhāvito nu kho, kimila, ānāpānassatisamādhi kathaṁ bahulīkato mahapphalo hoti mahānisaṁso”ti?
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kimilāyaṁ viharati veḷuvane. Tatra kho bhagavā āyasmantaṁ kimilaṁ āmantesi: “kathaṁ bhāvito nu kho, kimila, ānāpānassatisamādhi kathaṁ bahulīkato mahapphalo hoti mahānisaṁso”ti?
 
 10\. Tassuddānaṁ
 
@@ -235,13 +235,13 @@ So satova assasati, satova passasati …pe…
 
 ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati. Evaṁ bhāvito kho, ānanda, ānāpānassatisamādhi evaṁ bahulīkato mahapphalo hoti mahānisaṁso.
 
-5\. Yasmiṁ samaye, ānanda, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti; rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; ‘sabbakāyappaṭisaṁvedī assasissāmī’ti sikkhati, ‘sabbakāyappaṭisaṁvedī passasissāmī’ti sikkhati; ‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati— kāye kāyānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Kāyaññatarāhaṁ, ānanda, etaṁ vadāmi yadidaṁ—assāsapassāsaṁ. Tasmātihānanda, kāye kāyānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+5\. Yasmiṁ samaye, ānanda, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti; rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti, rassaṁ vā passasanto ‘rassaṁ passasāmī’ti pajānāti; ‘sabbakāyappaṭisaṁvedī assasissāmī’ti sikkhati, ‘sabbakāyappaṭisaṁvedī passasissāmī’ti sikkhati; ‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati—kāye kāyānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Kāyaññatarāhaṁ, ānanda, etaṁ vadāmi yadidaṁ—assāsapassāsaṁ. Tasmātihānanda, kāye kāyānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-6\. Yasmiṁ samaye, ānanda, bhikkhu ‘pītippaṭisaṁvedī assasissāmī’ti sikkhati, ‘pītippaṭisaṁvedī passasissāmī’ti sikkhati; ‘sukhappaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṁvedī passasissāmī’ti sikkhati; ‘cittasaṅkhārappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārappaṭisaṁvedī passasissāmī’ti sikkhati; ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati— vedanāsu vedanānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Vedanāññatarāhaṁ, ānanda, etaṁ vadāmi, yadidaṁ—assāsapassāsānaṁ sādhukaṁ manasikāraṁ. Tasmātihānanda, vedanāsu vedanānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+6\. Yasmiṁ samaye, ānanda, bhikkhu ‘pītippaṭisaṁvedī assasissāmī’ti sikkhati, ‘pītippaṭisaṁvedī passasissāmī’ti sikkhati; ‘sukhappaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṁvedī passasissāmī’ti sikkhati; ‘cittasaṅkhārappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārappaṭisaṁvedī passasissāmī’ti sikkhati; ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati—vedanāsu vedanānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Vedanāññatarāhaṁ, ānanda, etaṁ vadāmi, yadidaṁ—assāsapassāsānaṁ sādhukaṁ manasikāraṁ. Tasmātihānanda, vedanāsu vedanānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-7\. Yasmiṁ samaye, ānanda, bhikkhu ‘cittappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittappaṭisaṁvedī passasissāmī’ti sikkhati; abhippamodayaṁ cittaṁ …pe… samādahaṁ cittaṁ … ‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati— citte cittānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Nāhaṁ, ānanda, muṭṭhassatissa asampajānassa ānāpānassatisamādhibhāvanaṁ vadāmi. Tasmātihānanda, citte cittānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+7\. Yasmiṁ samaye, ānanda, bhikkhu ‘cittappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittappaṭisaṁvedī passasissāmī’ti sikkhati; abhippamodayaṁ cittaṁ …pe… samādahaṁ cittaṁ … ‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati—citte cittānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Nāhaṁ, ānanda, muṭṭhassatissa asampajānassa ānāpānassatisamādhibhāvanaṁ vadāmi. Tasmātihānanda, citte cittānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-8\. Yasmiṁ samaye, ānanda, bhikkhu ‘aniccānupassī assasissāmī’ti sikkhati …pe… virāgānupassī … nirodhānupassī … ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati— dhammesu dhammānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. So yaṁ taṁ hoti abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti. Tasmātihānanda, dhammesu dhammānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+8\. Yasmiṁ samaye, ānanda, bhikkhu ‘aniccānupassī assasissāmī’ti sikkhati …pe… virāgānupassī … nirodhānupassī … ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati—dhammesu dhammānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. So yaṁ taṁ hoti abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti. Tasmātihānanda, dhammesu dhammānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
 9\. Seyyathāpi, ānanda, catumahāpathe mahāpaṁsupuñjo. Dasamaṁ.
 
@@ -283,9 +283,9 @@ Paṭhamaṁ.
 
 10\. Ye ca kho te, bhikkhave, bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, tesaṁ ānāpānassatisamādhi bhāvito bahulīkato diṭṭheva dhamme sukhavihārāya ceva saṁvattati satisampajaññāya ca.
 
-11\. Yañhi taṁ, bhikkhave, sammā vadamāno vadeyya— ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipi. Ānāpānassatisamādhiṁ sammā vadamāno vadeyya— ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipīti.
+11\. Yañhi taṁ, bhikkhave, sammā vadamāno vadeyya—ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipi. Ānāpānassatisamādhiṁ sammā vadamāno vadeyya—ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipīti.
 
-Iminā kho etaṁ, āvuso mahānāma, pariyāyena veditabbaṁ, yathā— aññova sekho vihāro, añño tathāgatavihāro”ti.
+Iminā kho etaṁ, āvuso mahānāma, pariyāyena veditabbaṁ, yathā—aññova sekho vihāro, añño tathāgatavihāro”ti.
 
 Dutiyaṁ.
 
@@ -295,7 +295,7 @@ Dutiyaṁ.
 
 4\. Ye ca kho te, āvuso mahānāma, bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, tesaṁ pañca nīvaraṇā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Katame pañca? Kāmacchandanīvaraṇaṁ pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ; byāpādanīvaraṇaṁ pahīnaṁ …pe… thinamiddhanīvaraṇaṁ … uddhaccakukkuccanīvaraṇaṁ … vicikicchānīvaraṇaṁ pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ.
 
-5\. Ye te, āvuso mahānāma, bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, tesaṁ ime pañca nīvaraṇā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Tadamināpetaṁ, āvuso mahānāma, pariyāyena veditabbaṁ yathā— aññova sekho vihāro, añño tathāgatavihāro.
+5\. Ye te, āvuso mahānāma, bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, tesaṁ ime pañca nīvaraṇā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Tadamināpetaṁ, āvuso mahānāma, pariyāyena veditabbaṁ yathā—aññova sekho vihāro, añño tathāgatavihāro.
 
 6\. Ekamidaṁ, āvuso mahānāma, samayaṁ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe. Tatra kho, āvuso mahānāma, bhagavā bhikkhū āmantesi: ‘icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. Nāmhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā’ti.
 
@@ -311,7 +311,7 @@ Dīghaṁ assasanto dīghaṁ assasāmīti pajānāmi, dīghaṁ passasanto dīg
 
 paṭinissaggānupassī assasissāmīti pajānāmi, paṭinissaggānupassī passasissāmīti pajānāmi.
 
-8\. Yañhi taṁ, bhikkhave, sammā vadamāno vadeyya— ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipi. Ānāpānassatisamādhiṁ sammā vadamāno vadeyya— ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipi.
+8\. Yañhi taṁ, bhikkhave, sammā vadamāno vadeyya—ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipi. Ānāpānassatisamādhiṁ sammā vadamāno vadeyya—ariyavihāro itipi, brahmavihāro itipi, tathāgatavihāro itipi.
 
 9\. Ye te, bhikkhave, bhikkhū sekhā appattamānasā anuttaraṁ yogakkhemaṁ patthayamānā viharanti, tesaṁ ānāpānassatisamādhi bhāvito bahulīkato āsavānaṁ khayāya saṁvattati.
 
@@ -323,25 +323,25 @@ Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagav
 
 “atthi nu kho, bhante, ekadhammo bhāvito bahulīkato cattāro dhamme paripūreti, cattāro dhammā bhāvitā bahulīkatā satta dhamme paripūrenti, satta dhammā bhāvitā bahulīkatā dve dhamme paripūrentī”ti?
 
-10\. Kathaṁ bhāvitā cānanda, cattāro satipaṭṭhānā kathaṁ bahulīkatā satta bojjhaṅge paripūrenti? Yasmiṁ samaye, ānanda, bhikkhu kāye kāyānupassī viharati— upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, ānanda, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā—satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+10\. Kathaṁ bhāvitā cānanda, cattāro satipaṭṭhānā kathaṁ bahulīkatā satta bojjhaṅge paripūrenti? Yasmiṁ samaye, ānanda, bhikkhu kāye kāyānupassī viharati—upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, ānanda, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā—satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-11\. So tathā sato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati. Yasmiṁ samaye, ānanda, bhikkhu tathā sato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati— dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+11\. So tathā sato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati. Yasmiṁ samaye, ānanda, bhikkhu tathā sato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati—dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-12\. Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. Yasmiṁ samaye, ānanda, bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ— vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+12\. Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. Yasmiṁ samaye, ānanda, bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ—vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-13\. Āraddhavīriyassa uppajjati pīti nirāmisā. Yasmiṁ samaye, ānanda, bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā— pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+13\. Āraddhavīriyassa uppajjati pīti nirāmisā. Yasmiṁ samaye, ānanda, bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā—pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-14\. Pītimanassa kāyopi passambhati, cittampi passambhati. Yasmiṁ samaye, ānanda, bhikkhuno pītimanassa kāyopi passambhati, cittampi passambhati— passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+14\. Pītimanassa kāyopi passambhati, cittampi passambhati. Yasmiṁ samaye, ānanda, bhikkhuno pītimanassa kāyopi passambhati, cittampi passambhati—passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-15\. Passaddhakāyassa sukhino cittaṁ samādhiyati. Yasmiṁ samaye, ānanda, bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati— samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+15\. Passaddhakāyassa sukhino cittaṁ samādhiyati. Yasmiṁ samaye, ānanda, bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati—samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-16\. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, ānanda, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti— upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+16\. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, ānanda, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti—upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-17\. Yasmiṁ samaye, ānanda, bhikkhu vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati— upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, ānanda, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā— satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+17\. Yasmiṁ samaye, ānanda, bhikkhu vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati—upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, ānanda, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā—satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
 (Yathā paṭhamaṁ satipaṭṭhānaṁ, evaṁ vitthāretabbaṁ.)
 
-18\. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, ānanda, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti— upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Evaṁ bhāvitā kho, ānanda, cattāro satipaṭṭhānā evaṁ bahulīkatā satta bojjhaṅge paripūrenti.
+18\. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, ānanda, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti—upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Evaṁ bhāvitā kho, ānanda, cattāro satipaṭṭhānā evaṁ bahulīkatā satta bojjhaṅge paripūrenti.
 
 19\. Kathaṁ bhāvitā, ānanda, satta bojjhaṅgā kathaṁ bahulīkatā vijjāvimuttiṁ paripūrenti? Idhānanda, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, dhammavicayasambojjhaṅgaṁ bhāveti …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, ānanda, satta bojjhaṅgā evaṁ bahulīkatā vijjāvimuttiṁ paripūrentī”ti.
 
@@ -355,13 +355,13 @@ Tatiyaṁ.
 
 4\. Kathaṁ bhāvito, ānanda, ānāpānassatisamādhi kathaṁ bahulīkato cattāro satipaṭṭhāne paripūreti? Idhānanda, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So satova assasati, satova passasati. Dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti …pe… ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.
 
-5\. Yasmiṁ samaye, ānanda, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti; rassaṁ vā …pe… ‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati— kāye kāyānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Kāyaññatarāhaṁ, ānanda, etaṁ vadāmi, yadidaṁ—assāsapassāsaṁ. Tasmātihānanda, kāye kāyānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+5\. Yasmiṁ samaye, ānanda, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti; rassaṁ vā …pe… ‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati—kāye kāyānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Kāyaññatarāhaṁ, ānanda, etaṁ vadāmi, yadidaṁ—assāsapassāsaṁ. Tasmātihānanda, kāye kāyānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-6\. Yasmiṁ samaye, ānanda, bhikkhu ‘pītippaṭisaṁvedī assasissāmī’ti sikkhati, sukhappaṭisaṁvedī …pe… cittasaṅkhārappaṭisaṁvedī … ‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati— vedanāsu vedanānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Vedanāññatarāhaṁ, ānanda, etaṁ vadāmi, yadidaṁ—assāsapassāsānaṁ sādhukaṁ manasikāraṁ. Tasmātihānanda, vedanāsu vedanānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+6\. Yasmiṁ samaye, ānanda, bhikkhu ‘pītippaṭisaṁvedī assasissāmī’ti sikkhati, sukhappaṭisaṁvedī …pe… cittasaṅkhārappaṭisaṁvedī … ‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati—vedanāsu vedanānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Vedanāññatarāhaṁ, ānanda, etaṁ vadāmi, yadidaṁ—assāsapassāsānaṁ sādhukaṁ manasikāraṁ. Tasmātihānanda, vedanāsu vedanānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-7\. Yasmiṁ samaye, ānanda, bhikkhu ‘cittappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittappaṭisaṁvedī passasissāmī’ti sikkhati; abhippamodayaṁ cittaṁ …pe… samādahaṁ cittaṁ … ‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati— citte cittānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Nāhaṁ, ānanda, muṭṭhassatissa asampajānassa ānāpānassatisamādhibhāvanaṁ vadāmi. Tasmātihānanda, citte cittānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+7\. Yasmiṁ samaye, ānanda, bhikkhu ‘cittappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittappaṭisaṁvedī passasissāmī’ti sikkhati; abhippamodayaṁ cittaṁ …pe… samādahaṁ cittaṁ … ‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati—citte cittānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Nāhaṁ, ānanda, muṭṭhassatissa asampajānassa ānāpānassatisamādhibhāvanaṁ vadāmi. Tasmātihānanda, citte cittānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-8\. Yasmiṁ samaye, ānanda, bhikkhu aniccānupassī …pe… virāgānupassī … nirodhānupassī … ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati— dhammesu dhammānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. So yaṁ taṁ hoti abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti. Tasmātihānanda, dhammesu dhammānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+8\. Yasmiṁ samaye, ānanda, bhikkhu aniccānupassī …pe… virāgānupassī … nirodhānupassī … ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati—dhammesu dhammānupassī, ānanda, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. So yaṁ taṁ hoti abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti. Tasmātihānanda, dhammesu dhammānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
 9\. Evaṁ bhāvito kho, ānanda, ānāpānassatisamādhi evaṁ bahulīkato cattāro satipaṭṭhāne paripūreti.
 
@@ -409,21 +409,21 @@ Pañcamaṁ.
 
 “Atthi, bhikkhave, ekadhammo bhāvito bahulīkato cattāro dhamme paripūreti, cattāro dhammā bhāvitā bahulīkatā satta dhamme paripūrenti, satta dhammā bhāvitā bahulīkatā dve dhamme paripūrenti.
 
-10\. So tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati. Yasmiṁ samaye, bhikkhave, bhikkhu tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati— dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+10\. So tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati. Yasmiṁ samaye, bhikkhave, bhikkhu tathāsato viharanto taṁ dhammaṁ paññāya pavicinati pavicarati parivīmaṁsamāpajjati—dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, dhammavicayasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, dhammavicayasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-11\. Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. Yasmiṁ samaye, bhikkhave, bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ— vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+11\. Tassa taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ. Yasmiṁ samaye, bhikkhave, bhikkhuno taṁ dhammaṁ paññāya pavicinato pavicarato parivīmaṁsamāpajjato āraddhaṁ hoti vīriyaṁ asallīnaṁ—vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, vīriyasambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, vīriyasambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-12\. Āraddhavīriyassa uppajjati pīti nirāmisā. Yasmiṁ samaye, bhikkhave, bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā— pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+12\. Āraddhavīriyassa uppajjati pīti nirāmisā. Yasmiṁ samaye, bhikkhave, bhikkhuno āraddhavīriyassa uppajjati pīti nirāmisā—pītisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, pītisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, pītisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-13\. Pītimanassa kāyopi passambhati, cittampi passambhati. Yasmiṁ samaye, bhikkhave, bhikkhuno pītimanassa kāyopi passambhati, cittampi passambhati— passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+13\. Pītimanassa kāyopi passambhati, cittampi passambhati. Yasmiṁ samaye, bhikkhave, bhikkhuno pītimanassa kāyopi passambhati, cittampi passambhati—passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, passaddhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, passaddhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-14\. Passaddhakāyassa sukhino cittaṁ samādhiyati. Yasmiṁ samaye, bhikkhave, bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati— samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+14\. Passaddhakāyassa sukhino cittaṁ samādhiyati. Yasmiṁ samaye, bhikkhave, bhikkhuno passaddhakāyassa sukhino cittaṁ samādhiyati—samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, samādhisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, samādhisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-15\. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, bhikkhave, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti— upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+15\. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, bhikkhave, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti—upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
-16\. Yasmiṁ samaye, bhikkhave, bhikkhu vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati—upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā— satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti—satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati …pe….
+16\. Yasmiṁ samaye, bhikkhave, bhikkhu vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati—upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati hoti asammuṭṭhā—satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti—satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati …pe….
 
-17\. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, bhikkhave, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti— upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Evaṁ bhāvitā kho, bhikkhave, cattāro satipaṭṭhānā evaṁ bahulīkatā satta bojjhaṅge paripūrenti.
+17\. So tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti. Yasmiṁ samaye, bhikkhave, bhikkhu tathāsamāhitaṁ cittaṁ sādhukaṁ ajjhupekkhitā hoti—upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, upekkhāsambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, upekkhāsambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati. Evaṁ bhāvitā kho, bhikkhave, cattāro satipaṭṭhānā evaṁ bahulīkatā satta bojjhaṅge paripūrenti.
 
 18\. Kathaṁ bhāvitā ca, bhikkhave, satta bojjhaṅgā kathaṁ bahulīkatā vijjāvimuttiṁ paripūrenti? Idha, bhikkhave, bhikkhu satisambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ; dhammavicayasambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ …pe… upekkhāsambojjhaṅgaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ bhāvitā kho, bhikkhave, satta bojjhaṅgā evaṁ bahulīkatā vijjāvimuttiṁ paripūrentī”ti.
 
@@ -433,17 +433,17 @@ Chaṭṭhaṁ.
 
 3\. Kathaṁ bhāvito ca, bhikkhave, ānāpānassatisamādhi kathaṁ bahulīkato cattāro satipaṭṭhāne paripūreti? Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So satova assasati, satova passasati …pe… ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati.
 
-4\. Yasmiṁ samaye, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti …pe… sabbakāyappaṭisaṁvedī …pe… ‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati— kāye kāyānupassī, bhikkhave, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Kāyaññatarāhaṁ, bhikkhave, etaṁ vadāmi, yadidaṁ—assāsapassāsaṁ. Tasmātiha, bhikkhave, kāye kāyānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+4\. Yasmiṁ samaye, bhikkhave, bhikkhu dīghaṁ vā assasanto ‘dīghaṁ assasāmī’ti pajānāti, dīghaṁ vā passasanto ‘dīghaṁ passasāmī’ti pajānāti, rassaṁ vā assasanto ‘rassaṁ assasāmī’ti pajānāti …pe… sabbakāyappaṭisaṁvedī …pe… ‘passambhayaṁ kāyasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ kāyasaṅkhāraṁ passasissāmī’ti sikkhati—kāye kāyānupassī, bhikkhave, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Kāyaññatarāhaṁ, bhikkhave, etaṁ vadāmi, yadidaṁ—assāsapassāsaṁ. Tasmātiha, bhikkhave, kāye kāyānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-5\. Yasmiṁ samaye, bhikkhave, bhikkhu pītippaṭisaṁvedī …pe… sukhappaṭisaṁvedī … cittasaṅkhārappaṭisaṁvedī … ‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati— vedanāsu vedanānupassī, bhikkhave, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Vedanāññatarāhaṁ, bhikkhave, etaṁ vadāmi, yadidaṁ—assāsapassāsānaṁ sādhukaṁ manasikāraṁ. Tasmātiha, bhikkhave, vedanāsu vedanānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+5\. Yasmiṁ samaye, bhikkhave, bhikkhu pītippaṭisaṁvedī …pe… sukhappaṭisaṁvedī … cittasaṅkhārappaṭisaṁvedī … ‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati—vedanāsu vedanānupassī, bhikkhave, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Vedanāññatarāhaṁ, bhikkhave, etaṁ vadāmi, yadidaṁ—assāsapassāsānaṁ sādhukaṁ manasikāraṁ. Tasmātiha, bhikkhave, vedanāsu vedanānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-6\. Yasmiṁ samaye, bhikkhave, bhikkhu cittappaṭisaṁvedī …pe… abhippamodayaṁ cittaṁ …pe… ‘samādahaṁ cittaṁ assasissāmī’ti sikkhati, ‘samādahaṁ cittaṁ passasissāmī’ti sikkhati; ‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati— citte cittānupassī, bhikkhave, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Nāhaṁ, bhikkhave, muṭṭhassatissa asampajānassa ānāpānassatisamādhibhāvanaṁ vadāmi. Tasmātiha, bhikkhave, citte cittānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+6\. Yasmiṁ samaye, bhikkhave, bhikkhu cittappaṭisaṁvedī …pe… abhippamodayaṁ cittaṁ …pe… ‘samādahaṁ cittaṁ assasissāmī’ti sikkhati, ‘samādahaṁ cittaṁ passasissāmī’ti sikkhati; ‘vimocayaṁ cittaṁ assasissāmī’ti sikkhati, ‘vimocayaṁ cittaṁ passasissāmī’ti sikkhati—citte cittānupassī, bhikkhave, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Taṁ kissa hetu? Nāhaṁ, bhikkhave, muṭṭhassatissa asampajānassa ānāpānassatisamādhibhāvanaṁ vadāmi. Tasmātiha, bhikkhave, citte cittānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-7\. Yasmiṁ samaye, bhikkhave, bhikkhu aniccānupassī …pe… virāgānupassī …pe… nirodhānupassī …pe… ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati— dhammesu dhammānupassī, bhikkhave, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. So yaṁ taṁ hoti abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti. Tasmātiha, bhikkhave, dhammesu dhammānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+7\. Yasmiṁ samaye, bhikkhave, bhikkhu aniccānupassī …pe… virāgānupassī …pe… nirodhānupassī …pe… ‘paṭinissaggānupassī assasissāmī’ti sikkhati, ‘paṭinissaggānupassī passasissāmī’ti sikkhati—dhammesu dhammānupassī, bhikkhave, bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. So yaṁ taṁ hoti abhijjhādomanassānaṁ pahānaṁ taṁ paññāya disvā sādhukaṁ ajjhupekkhitā hoti. Tasmātiha, bhikkhave, dhammesu dhammānupassī bhikkhu tasmiṁ samaye viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
 8\. Evaṁ bhāvito kho, bhikkhave, ānāpānassatisamādhi evaṁ bahulīkato cattāro satipaṭṭhāne paripūreti.
 
-9\. Kathaṁ bhāvitā ca, bhikkhave, cattāro satipaṭṭhānā kathaṁ bahulīkatā satta bojjhaṅge paripūrenti? Yasmiṁ samaye, bhikkhave, bhikkhu kāye kāyānupassī viharati—upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati asammuṭṭhā— satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
+9\. Kathaṁ bhāvitā ca, bhikkhave, cattāro satipaṭṭhānā kathaṁ bahulīkatā satta bojjhaṅge paripūrenti? Yasmiṁ samaye, bhikkhave, bhikkhu kāye kāyānupassī viharati—upaṭṭhitāssa tasmiṁ samaye bhikkhuno sati hoti asammuṭṭhā. Yasmiṁ samaye, bhikkhave, bhikkhuno upaṭṭhitā sati asammuṭṭhā—satisambojjhaṅgo tasmiṁ samaye bhikkhuno āraddho hoti, satisambojjhaṅgaṁ tasmiṁ samaye bhikkhu bhāveti, satisambojjhaṅgo tasmiṁ samaye bhikkhuno bhāvanāpāripūriṁ gacchati.
 
 ### 54.17 Saṁyojanappahānasutta
 

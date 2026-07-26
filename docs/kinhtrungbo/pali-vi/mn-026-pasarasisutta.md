@@ -4,9 +4,9 @@
 
 1\. Tôi đã nghe như vầy: Một thời, Thế Tôn trú ở Sāvatthi, tại Jetavana, khu vườn của Anāthapiṇḍika.
 
-2\. Vào buổi sáng, Thế Tôn đắp y, mang bát đi vào Sāvatthi để khất thực. Khi ấy, nhiều tỳ kheo đi đến chỗ tôn giả Ānanda; sau khi đến, họ nói với tôn giả Ānanda điều này: "Đã lâu rồi, thưa hiền giả Ānanda, chúng tôi không được nghe một *cuộc nói chuyện về Điều dạy* (pháp thoại / dhammī kathā) trực tiếp từ Thế Tôn. Thật tốt đẹp thay, thưa hiền giả Ānanda, nếu chúng tôi được nghe một *cuộc nói chuyện về Điều dạy* trực tiếp từ Thế Tôn."
+2\. Vào buổi sáng, Thế Tôn đắp y, mang bát đi vào Sāvatthi để khất thực. Khi ấy, nhiều tỳ kheo đi đến chỗ tôn giả Ānanda; sau khi đến, họ nói với tôn giả Ānanda điều này: "Đã lâu rồi, thưa hiền giả Ānanda, chúng tôi không được nghe một *cuộc nói chuyện về Chân lý* (pháp thoại / dhammī kathā) trực tiếp từ Thế Tôn. Thật tốt đẹp thay, thưa hiền giả Ānanda, nếu chúng tôi được nghe một *cuộc nói chuyện về Chân lý* trực tiếp từ Thế Tôn."
 
-"Vậy thì, thưa các hiền giả, hãy đi đến am thất của bà-la-môn Rammaka; rất có thể các vị sẽ được nghe một *cuộc nói chuyện về Điều dạy* trực tiếp từ Thế Tôn."
+"Vậy thì, thưa các hiền giả, hãy đi đến am thất của bà-la-môn Rammaka; rất có thể các vị sẽ được nghe một *cuộc nói chuyện về Chân lý* trực tiếp từ Thế Tôn."
 
 "Vâng, thưa hiền giả," các tỳ kheo ấy vâng đáp tôn giả Ānanda.
 
@@ -18,11 +18,11 @@
 
 Rồi Thế Tôn cùng với tôn giả Ānanda đi đến Đông Các để tắm gội cơ thể. Sau khi tắm gội ở Đông Các và bước lên bờ, Ngài đứng đắp một y, để cho cơ thể khô ráo. Khi ấy, tôn giả Ānanda thưa với Thế Tôn: "Bạch Thế Tôn, am thất của bà-la-môn Rammaka ở không xa đây. Am thất của bà-la-môn Rammaka thật đáng yêu, bạch Thế Tôn; am thất của bà-la-môn Rammaka thật tĩnh lặng, bạch Thế Tôn. Thật tốt đẹp thay, bạch Thế Tôn, nếu Thế Tôn vì lòng thương xót mà đi đến am thất của bà-la-môn Rammaka." Thế Tôn im lặng nhận lời.
 
-4\. Rồi Thế Tôn đi đến am thất của bà-la-môn Rammaka. Lúc bấy giờ, có nhiều tỳ kheo đang ngồi tụ họp tại am thất của bà-la-môn Rammaka để bàn luận về *Điều dạy* (pháp / dhamma). Thế Tôn đứng ngoài cửa chờ cho cuộc bàn luận kết thúc. Khi biết cuộc bàn luận đã kết thúc, Thế Tôn hắng giọng và gõ cửa. Các tỳ kheo ấy mở cửa cho Thế Tôn. Thế Tôn bước vào am thất của bà-la-môn Rammaka và ngồi xuống chỗ đã được dọn sẵn. Sau khi ngồi, Thế Tôn hỏi các tỳ kheo: "Này các tỳ kheo, các vị đang ngồi tụ họp ở đây để bàn luận về chủ đề gì? Và câu chuyện gì đang bị bỏ dở giữa chừng?"
+4\. Rồi Thế Tôn đi đến am thất của bà-la-môn Rammaka. Lúc bấy giờ, có nhiều tỳ kheo đang ngồi tụ họp tại am thất của bà-la-môn Rammaka để bàn luận về *Chân lý* (pháp / dhamma). Thế Tôn đứng ngoài cửa chờ cho cuộc bàn luận kết thúc. Khi biết cuộc bàn luận đã kết thúc, Thế Tôn hắng giọng và gõ cửa. Các tỳ kheo ấy mở cửa cho Thế Tôn. Thế Tôn bước vào am thất của bà-la-môn Rammaka và ngồi xuống chỗ đã được dọn sẵn. Sau khi ngồi, Thế Tôn hỏi các tỳ kheo: "Này các tỳ kheo, các vị đang ngồi tụ họp ở đây để bàn luận về chủ đề gì? Và câu chuyện gì đang bị bỏ dở giữa chừng?"
 
-"Bạch Thế Tôn, *cuộc nói chuyện về Điều dạy* của chúng con đang hướng về chính Thế Tôn thì bị bỏ dở, rồi Thế Tôn quang lâm."
+"Bạch Thế Tôn, *cuộc nói chuyện về Chân lý* của chúng con đang hướng về chính Thế Tôn thì bị bỏ dở, rồi Thế Tôn quang lâm."
 
-"Tốt lắm, này các tỳ kheo. Thật là phù hợp cho các vị, những thiện nam tử vì niềm tin mà xuất gia, từ bỏ gia đình, sống không gia đình, khi các vị ngồi tụ họp lại để bàn luận về *Điều dạy*. Này các tỳ kheo, khi các vị tụ họp lại, có hai việc cần làm: hoặc là *cuộc nói chuyện về Điều dạy*, hoặc là giữ im lặng của bậc thánh.
+"Tốt lắm, này các tỳ kheo. Thật là phù hợp cho các vị, những thiện nam tử vì niềm tin mà xuất gia, từ bỏ gia đình, sống không gia đình, khi các vị ngồi tụ họp lại để bàn luận về *Chân lý*. Này các tỳ kheo, khi các vị tụ họp lại, có hai việc cần làm: hoặc là *cuộc nói chuyện về Chân lý*, hoặc là giữ im lặng của bậc thánh.
 
 <!--pg-->
 5\. Này các tỳ kheo, có hai *sự tìm kiếm* (tầm cầu / pariyesanā): *sự tìm kiếm* cao thượng và *sự tìm kiếm* không cao thượng.
@@ -108,7 +108,7 @@ Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Vùng đất này thật đán
 
 Và tri thức cùng tầm nhìn đã sinh khởi trong Ta: 'Sự giải thoát của Ta là không thể lay chuyển, đây là lần sinh ra cuối cùng, nay không còn sự tái sinh nào nữa.'
 
-19\. Này các tỳ kheo, Ta đã suy nghĩ như sau: '*Điều dạy* mà Ta đã đạt được này thật sâu sắc, khó thấy, khó hiểu, bình an, vi diệu, vượt ngoài phạm vi của lý luận, tinh tế, chỉ những người trí mới có thể trải nghiệm. Nhưng nhân loại này lại thích thú trong sự bám víu, vui vẻ trong sự bám víu, hân hoan trong sự bám víu. Đối với một nhân loại thích thú trong sự bám víu, vui vẻ trong sự bám víu, hân hoan trong sự bám víu, thì điều này thật khó thấy, đó là: *tính Phụ thuộc cùng sinh này* (y tánh duyên khởi / idappaccayatā) và *sự sinh ra qua quan hệ Phụ thuộc* (duyên khởi / paṭiccasamuppādo). Điều này cũng thật khó thấy, đó là: *sự lắng dịu* (tịch chỉ / samatho) của mọi *hoạt động* (hành / saṅkhāra), *sự buông bỏ* (từ bỏ / paṭinissaggo) mọi *nền tảng bám víu*, *sự cạn kiệt mong muốn* (ái tận / taṇhākkhayo), *cạn hết đắm nhiễm*, *bị chặn đứng hoàn toàn*, *Niết-bàn*. Nếu Ta giảng dạy *Điều dạy* này, và những người khác không hiểu Ta, thì đó sẽ là sự mệt mỏi cho Ta, đó sẽ là sự phiền toái cho Ta.'
+19\. Này các tỳ kheo, Ta đã suy nghĩ như sau: '*Chân lý* (pháp) mà Ta đã đạt được này thật sâu sắc, khó thấy, khó hiểu, bình an, vi diệu, vượt ngoài phạm vi của lý luận, tinh tế, chỉ những người trí mới có thể trải nghiệm. Nhưng nhân loại này lại thích thú trong sự bám víu, vui vẻ trong sự bám víu, hân hoan trong sự bám víu. Đối với một nhân loại thích thú trong sự bám víu, vui vẻ trong sự bám víu, hân hoan trong sự bám víu, thì điều này thật khó thấy, đó là: *tính Phụ thuộc cùng sinh này* (y tánh duyên khởi / idappaccayatā) và *sự sinh ra qua quan hệ Phụ thuộc* (duyên khởi / paṭiccasamuppādo). Điều này cũng thật khó thấy, đó là: *sự lắng dịu* (tịch chỉ / samatho) của mọi *hoạt động* (hành / saṅkhāra), *sự buông bỏ* (từ bỏ / paṭinissaggo) mọi *nền tảng bám víu*, *sự cạn kiệt mong muốn* (ái tận / taṇhākkhayo), *cạn hết đắm nhiễm*, *bị chặn đứng hoàn toàn*, *Niết-bàn*. Nếu Ta giảng dạy *Chân lý* này, và những người khác không hiểu Ta, thì đó sẽ là sự mệt mỏi cho Ta, đó sẽ là sự phiền toái cho Ta.'
 
 Và này các tỳ kheo, những vần kệ kỳ diệu này, trước đây chưa từng được nghe, đã hiện lên trong Ta:
 
@@ -122,11 +122,11 @@ Và này các tỳ kheo, những vần kệ kỳ diệu này, trước đây ch�
 > Kẻ đắm nhiễm tham không thể thấy,\
 > Bị khối vô minh che khuất rồi.
 
-Này các tỳ kheo, khi Ta suy xét như vậy, tâm Ta hướng về sự tĩnh lặng, không hướng về việc giảng dạy *Điều dạy*.
+Này các tỳ kheo, khi Ta suy xét như vậy, tâm Ta hướng về sự tĩnh lặng, không hướng về việc giảng dạy *Chân lý*.
 
-20\. Khi ấy, này các tỳ kheo, Phạm thiên Sahampati, sau khi biết được suy nghĩ trong tâm Ta bằng tâm của mình, đã nghĩ như sau: 'Thế giới này sẽ tiêu vong, thế giới này sẽ bị hủy diệt, vì tâm của Như Lai, bậc A-la-hán, Chánh Đẳng Giác, đang hướng về sự tĩnh lặng, không hướng về việc giảng dạy *Điều dạy*.'
+20\. Khi ấy, này các tỳ kheo, Phạm thiên Sahampati, sau khi biết được suy nghĩ trong tâm Ta bằng tâm của mình, đã nghĩ như sau: 'Thế giới này sẽ tiêu vong, thế giới này sẽ bị hủy diệt, vì tâm của Như Lai, bậc A-la-hán, Chánh Đẳng Giác, đang hướng về sự tĩnh lặng, không hướng về việc giảng dạy *Chân lý*.'
 
-Rồi này các tỳ kheo, Phạm thiên Sahampati—nhanh như một người lực lưỡng duỗi cánh tay đang gập lại, hay gập lại cánh tay đang duỗi ra—đã biến mất khỏi cõi Phạm thiên và xuất hiện trước mặt Ta. Khi ấy, này các tỳ kheo, Phạm thiên Sahampati đắp y vắt qua một bên vai, chắp tay hướng về phía Ta và nói điều này: 'Bạch Thế Tôn, xin Thế Tôn hãy giảng dạy *Điều dạy*, xin Thiện Thệ hãy giảng dạy *Điều dạy*. Có những chúng sinh sinh ra với ít bụi trong mắt, họ đang suy tàn vì không được nghe *Điều dạy*. Sẽ có những người hiểu được *Điều dạy*.'
+Rồi này các tỳ kheo, Phạm thiên Sahampati—nhanh như một người lực lưỡng duỗi cánh tay đang gập lại, hay gập lại cánh tay đang duỗi ra—đã biến mất khỏi cõi Phạm thiên và xuất hiện trước mặt Ta. Khi ấy, này các tỳ kheo, Phạm thiên Sahampati đắp y vắt qua một bên vai, chắp tay hướng về phía Ta và nói điều này: 'Bạch Thế Tôn, xin Thế Tôn hãy giảng dạy *Chân lý*, xin Thiện Thệ hãy giảng dạy *Chân lý*. Có những chúng sinh sinh ra với ít bụi trong mắt, họ đang suy tàn vì không được nghe *Chân lý*. Sẽ có những người hiểu được *Chân lý*.'
 
 Phạm thiên Sahampati đã nói điều này, này các tỳ kheo. Sau khi nói điều này, vị ấy lại nói thêm:
 
@@ -140,7 +140,7 @@ Phạm thiên Sahampati đã nói điều này, này các tỳ kheo. Sau khi nó
 > Cũng vậy, bậc Đại Trí,\
 > Trên cao Pháp toàn tri;\
 > Bậc Vô Sầu nhìn thấu, \
-> Thấy rõ chung nhân quần,\
+> Rõ quần chúng sinh linh,\
 > Chìm đắm trong sinh lão.
 >
 > Hãy đứng lên, bậc Anh Hùng,\
@@ -148,7 +148,7 @@ Phạm thiên Sahampati đã nói điều này, này các tỳ kheo. Sau khi nó
 > Xin Thế Tôn hãy tuyên thuyết Chánh Pháp,\
 > Sẽ có người thấu hiểu được Pháp mầu.
 
-21\. Khi ấy, này các tỳ kheo, sau khi hiểu được lời thỉnh cầu của Phạm thiên và vì lòng thương xót đối với chúng sinh, Ta đã quan sát thế giới bằng Phật nhãn. Này các tỳ kheo, khi quan sát thế giới bằng Phật nhãn, Ta thấy những chúng sinh có ít bụi trong mắt, có nhiều bụi trong mắt, có *năm năng lực tinh thần* (ngũ căn / indriya) nhạy bén, có *năm năng lực tinh thần* yếu kém, có tư chất tốt, có tư chất kém, dễ dạy, khó dạy, và một số sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia, một số không sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia. Giống như trong một hồ hoa sen xanh, hoa sen đỏ, hay hoa sen trắng, một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, không vươn lên khỏi mặt nước, được nuôi dưỡng chìm dưới nước; một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, vươn lên ngang bằng mặt nước; một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, vươn lên cao khỏi mặt nước và không bị nước làm ướt; cũng vậy, này các tỳ kheo, khi quan sát thế giới bằng Phật nhãn, Ta thấy những chúng sinh có ít bụi trong mắt, có nhiều bụi trong mắt, có *năm năng lực tinh thần* nhạy bén, có *năm năng lực tinh thần* yếu kém, có tư chất tốt, có tư chất kém, dễ dạy, khó dạy, và một số sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia, một số không sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia.
+21\. Khi ấy, này các tỳ kheo, sau khi hiểu được lời thỉnh cầu của Phạm thiên và vì lòng thương xót đối với chúng sinh, Ta đã quan sát thế giới bằng Phật nhãn. Này các tỳ kheo, khi quan sát thế giới bằng Phật nhãn, Ta thấy những có chúng sinh ít bụi trong mắt, có chúng sinh nhiều bụi trong mắt, có *năng lực tinh thần* (căn / indriya) nhạy bén, có *năng lực tinh thần* yếu kém, có tư chất tốt, có tư chất kém, dễ dạy, khó dạy, và một số sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia, một số không sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia. Giống như trong một hồ hoa sen xanh, hoa sen đỏ, hay hoa sen trắng, một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, không vươn lên khỏi mặt nước, được nuôi dưỡng chìm dưới nước; một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, vươn lên ngang bằng mặt nước; một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, vươn lên cao khỏi mặt nước và không bị nước làm ướt; cũng vậy, này các tỳ kheo, khi quan sát thế giới bằng Phật nhãn, Ta thấy những chúng sinh có ít bụi trong mắt, có nhiều bụi trong mắt, có *năng lực tinh thần* nhạy bén, có *năng lực tinh thần* yếu kém, có tư chất tốt, có tư chất kém, dễ dạy, khó dạy, và một số sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia, một số không sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia.
 
 Rồi này các tỳ kheo, Ta đã đáp lại Phạm thiên Sahampati bằng vần kệ:
 
@@ -157,36 +157,36 @@ Rồi này các tỳ kheo, Ta đã đáp lại Phạm thiên Sahampati bằng v�
 > Tưởng sẽ phiền nhọc, Ta không nói,\
 > Pháp vi diệu giữa chốn nhân quần.
 
-Khi ấy, này các tỳ kheo, Phạm thiên Sahampati nghĩ rằng: 'Thế Tôn đã cho phép ta thỉnh cầu việc giảng dạy *Điều dạy*,' vị ấy đảnh lễ Ta, đi nhiễu quanh Ta về phía bên phải, rồi biến mất ngay tại đó.
+Khi ấy, này các tỳ kheo, Phạm thiên Sahampati nghĩ rằng: 'Thế Tôn đã cho phép ta thỉnh cầu việc giảng dạy *Chân lý*,' vị ấy đảnh lễ Ta, đi nhiễu quanh Ta về phía bên phải, rồi biến mất ngay tại đó.
 
-22\. Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Ta nên giảng dạy *Điều dạy* cho ai đầu tiên? Ai sẽ nhanh chóng hiểu được *Điều dạy* này?'
+22\. Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Ta nên giảng dạy *Chân lý* cho ai đầu tiên? Ai sẽ nhanh chóng hiểu được *Chân lý* này?'
 
-Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Āḷāra Kālāma là người thông thái, sáng suốt, có trí tuệ, từ lâu đã có ít bụi trong mắt. Hay là Ta hãy giảng dạy *Điều dạy* cho Āḷāra Kālāma đầu tiên. Ông ấy sẽ nhanh chóng hiểu được *Điều dạy* này.'
+Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Āḷāra Kālāma là người thông thái, sáng suốt, có trí tuệ, từ lâu đã có ít bụi trong mắt. Hay là Ta hãy giảng dạy *Chân lý* cho Āḷāra Kālāma đầu tiên. Ông ấy sẽ nhanh chóng hiểu được *Chân lý* này.'
 
 Khi ấy, này các tỳ kheo, một vị chư thiên đến gần Ta và nói: 'Bạch Thế Tôn, Āḷāra Kālāma đã qua đời cách đây bảy ngày.'
 
 Và tri thức cùng tầm nhìn đã sinh khởi trong Ta: 'Āḷāra Kālāma đã qua đời cách đây bảy ngày.'
 
-Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Āḷāra Kālāma đã chịu một mất mát lớn. Nếu ông ấy được nghe *Điều dạy* này, ông ấy sẽ nhanh chóng hiểu được.'
+Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Āḷāra Kālāma đã chịu một mất mát lớn. Nếu ông ấy được nghe *Chân lý* này, ông ấy sẽ nhanh chóng hiểu được.'
 
-23\. Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Ta nên giảng dạy *Điều dạy* cho ai đầu tiên? Ai sẽ nhanh chóng hiểu được *Điều dạy* này?'
+23\. Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Ta nên giảng dạy *Chân lý* cho ai đầu tiên? Ai sẽ nhanh chóng hiểu được *Chân lý* này?'
 
-Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Udaka Rāmaputta là người thông thái, sáng suốt, có trí tuệ, từ lâu đã có ít bụi trong mắt. Hay là Ta hãy giảng dạy *Điều dạy* cho Udaka Rāmaputta đầu tiên. Ông ấy sẽ nhanh chóng hiểu được *Điều dạy* này.'
+Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Udaka Rāmaputta là người thông thái, sáng suốt, có trí tuệ, từ lâu đã có ít bụi trong mắt. Hay là Ta hãy giảng dạy *Chân lý* cho Udaka Rāmaputta đầu tiên. Ông ấy sẽ nhanh chóng hiểu được *Chân lý* này.'
 
 Khi ấy, này các tỳ kheo, một vị chư thiên đến gần Ta và nói: 'Bạch Thế Tôn, Udaka Rāmaputta đã qua đời vào tối hôm qua.'
 
 Và tri thức cùng tầm nhìn đã sinh khởi trong Ta: 'Udaka Rāmaputta đã qua đời vào tối hôm qua.'
 
-Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Udaka Rāmaputta đã chịu một mất mát lớn. Nếu ông ấy được nghe *Điều dạy* này, ông ấy sẽ nhanh chóng hiểu được.'
+Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Udaka Rāmaputta đã chịu một mất mát lớn. Nếu ông ấy được nghe *Chân lý* này, ông ấy sẽ nhanh chóng hiểu được.'
 
-24\. Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Ta nên giảng dạy *Điều dạy* cho ai đầu tiên? Ai sẽ nhanh chóng hiểu được *Điều dạy* này?'
+24\. Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Ta nên giảng dạy *Chân lý* cho ai đầu tiên? Ai sẽ nhanh chóng hiểu được *Chân lý* này?'
 
-Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Nhóm năm tỳ kheo đã *mang lại nhiều lợi ích* (đa hữu ích / bahukārā) cho Ta, họ đã phục vụ Ta khi Ta đang nỗ lực tu tập. Hay là Ta hãy giảng dạy *Điều dạy* cho nhóm năm tỳ kheo đầu tiên.'
+Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Nhóm năm tỳ kheo đã *mang lại nhiều lợi ích* (đa hữu ích / bahukārā) cho Ta, họ đã phục vụ Ta khi Ta đang nỗ lực tu tập. Hay là Ta hãy giảng dạy *Chân lý* cho nhóm năm tỳ kheo đầu tiên.'
 
 Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Hiện nay nhóm năm tỳ kheo đang sống ở đâu?' Bằng *mắt thần* (thiên nhãn / dibbena cakkhunā) thanh tịnh, vượt quá khả năng của con người, Ta thấy nhóm năm tỳ kheo đang sống ở Vārāṇasī, tại Vườn Nai ở Isipatana. Rồi này các tỳ kheo, sau khi ở lại Uruvelā bao lâu tùy thích, Ta bắt đầu chuyến du hành hướng về Vārāṇasī.
 
 <!--pg-->
-25\. Này các tỳ kheo, du sĩ Upaka thấy Ta đang đi trên đường cái giữa Gayā và cội Bồ-đề. Thấy Ta, ông ấy nói điều này: 'Thưa hiền giả, các giác quan của ngài thật trong sáng, màu da của ngài thật thanh tịnh và rạng rỡ. Thưa hiền giả, ngài đã xuất gia nhân danh ai, ai là thầy của ngài, hoặc ngài thích *Điều dạy* của ai?'
+25\. Này các tỳ kheo, du sĩ Upaka thấy Ta đang đi trên đường cái giữa Gayā và cội Bồ-đề. Thấy Ta, ông ấy nói điều này: 'Thưa hiền giả, các giác quan của ngài thật trong sáng, màu da của ngài thật thanh tịnh và rạng rỡ. Thưa hiền giả, ngài đã xuất gia nhân danh ai, ai là thầy của ngài, hoặc ngài thích *Chân lý* của ai?'
 
 Khi được nói vậy, này các tỳ kheo, Ta đã đáp lại du sĩ Upaka bằng những vần kệ:
 
@@ -221,11 +221,11 @@ Khi được nói vậy, này các tỳ kheo, du sĩ Upaka nói: 'Có thể là 
 
 26\. Rồi này các tỳ kheo, du hành dần dần, Ta đi đến Vārāṇasī, tại Vườn Nai ở Isipatana, nơi nhóm năm tỳ kheo đang ở. Này các tỳ kheo, nhóm năm tỳ kheo thấy Ta đang đi đến từ đằng xa. Thấy vậy, họ thỏa thuận với nhau: 'Thưa các hiền giả, sa-môn Gotama này đang đi đến, ông ta sống sung túc, đã từ bỏ sự nỗ lực, và quay trở lại đời sống sung túc. Chúng ta không nên chào hỏi ông ta, không nên đứng dậy đón tiếp, không nên nhận bát và y của ông ta. Nhưng chúng ta có thể dọn sẵn một chỗ ngồi, nếu ông ta muốn, ông ta sẽ ngồi.' Nhưng này các tỳ kheo, khi Ta càng đến gần, nhóm năm tỳ kheo càng không thể giữ được thỏa thuận của họ. Một số người tiến ra đón Ta và nhận bát y, một số dọn chỗ ngồi, một số chuẩn bị nước rửa chân. Tuy nhiên, họ vẫn gọi Ta bằng tên và bằng từ 'hiền giả' (āvuso).
 
-27\. Khi được gọi như vậy, này các tỳ kheo, Ta nói với nhóm năm tỳ kheo: 'Này các tỳ kheo, đừng gọi *Người Đến Như Vậy* (Như Lai / tathāgata) bằng tên và bằng từ "hiền giả". Này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, Chánh Đẳng Giác. Hãy lắng tai nghe, này các tỳ kheo, sự bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng dạy *Điều dạy*. Nếu các vị thực hành đúng như những gì được chỉ dạy, không bao lâu nữa—mục đích mà vì đó các thiện nam tử xuất gia, từ bỏ gia đình, sống không gia đình, đó là sự hoàn thiện vô thượng của *đời sống thánh thiện*—các vị sẽ tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và an trú ngay trong hiện tại.'
+27\. Khi được gọi như vậy, này các tỳ kheo, Ta nói với nhóm năm tỳ kheo: 'Này các tỳ kheo, đừng gọi *Người Đến Như Vậy* (Như Lai / tathāgata) bằng tên và bằng từ "hiền giả". Này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, Chánh Đẳng Giác. Hãy lắng tai nghe, này các tỳ kheo, sự bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng dạy *Chân lý*. Nếu các vị thực hành đúng như những gì được chỉ dạy, không bao lâu nữa—mục đích mà vì đó các thiện nam tử xuất gia, từ bỏ gia đình, sống không gia đình, đó là sự hoàn thiện vô thượng của *đời sống thánh thiện*—các vị sẽ tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và an trú ngay trong hiện tại.'
 
 Khi được nói vậy, này các tỳ kheo, nhóm năm tỳ kheo nói với Ta: 'Thưa hiền giả Gotama, với tư thế đó, với lối sống đó, với sự thực hành khổ hạnh đó, ngài đã không đạt được bất kỳ trạng thái siêu nhân nào, không đạt được tri kiến thù thắng xứng đáng với bậc thánh, thì làm sao bây giờ, khi sống sung túc, từ bỏ sự nỗ lực, quay trở lại đời sống sung túc, ngài lại có thể đạt được trạng thái siêu nhân, tri kiến thù thắng xứng đáng với bậc thánh?'
 
-Khi được nói vậy, này các tỳ kheo, Ta nói với nhóm năm tỳ kheo: 'Này các tỳ kheo, *Người Đến Như Vậy* không sống sung túc, không từ bỏ sự nỗ lực, không quay trở lại đời sống sung túc. Này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, Chánh Đẳng Giác. Hãy lắng tai nghe, này các tỳ kheo, sự bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng dạy *Điều dạy*. Nếu các vị thực hành đúng như những gì được chỉ dạy, không bao lâu nữa—mục đích mà vì đó các thiện nam tử xuất gia, từ bỏ gia đình, sống không gia đình, đó là sự hoàn thiện vô thượng của *đời sống thánh thiện*—các vị sẽ tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và an trú ngay trong hiện tại.'
+Khi được nói vậy, này các tỳ kheo, Ta nói với nhóm năm tỳ kheo: 'Này các tỳ kheo, *Người Đến Như Vậy* không sống sung túc, không từ bỏ sự nỗ lực, không quay trở lại đời sống sung túc. Này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, Chánh Đẳng Giác. Hãy lắng tai nghe, này các tỳ kheo, sự bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng dạy *Chân lý*. Nếu các vị thực hành đúng như những gì được chỉ dạy, không bao lâu nữa—mục đích mà vì đó các thiện nam tử xuất gia, từ bỏ gia đình, sống không gia đình, đó là sự hoàn thiện vô thượng của *đời sống thánh thiện*—các vị sẽ tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và an trú ngay trong hiện tại.'
 
 Lần thứ hai, này các tỳ kheo, nhóm năm tỳ kheo nói với Ta: 'Thưa hiền giả Gotama, với tư thế đó, với lối sống đó, với sự thực hành khổ hạnh đó, ngài đã không đạt được bất kỳ trạng thái siêu nhân nào, không đạt được tri kiến thù thắng xứng đáng với bậc thánh, thì làm sao bây giờ, khi sống sung túc, từ bỏ sự nỗ lực, quay trở lại đời sống sung túc, ngài lại có thể đạt được trạng thái siêu nhân, tri kiến thù thắng xứng đáng với bậc thánh?'
 
@@ -237,7 +237,7 @@ Lần thứ ba, này các tỳ kheo, nhóm năm tỳ kheo nói với Ta: 'Thưa 
 
 'Bạch Thế Tôn, chưa từng.'
 
-'Này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, Chánh Đẳng Giác. Hãy lắng tai nghe, này các tỳ kheo, sự bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng dạy *Điều dạy*. Nếu các vị thực hành đúng như những gì được chỉ dạy, không bao lâu nữa—mục đích mà vì đó các thiện nam tử xuất gia, từ bỏ gia đình, sống không gia đình, đó là sự hoàn thiện vô thượng của *đời sống thánh thiện*—các vị sẽ tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và an trú ngay trong hiện tại.'
+'Này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, Chánh Đẳng Giác. Hãy lắng tai nghe, này các tỳ kheo, sự bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng dạy *Chân lý*. Nếu các vị thực hành đúng như những gì được chỉ dạy, không bao lâu nữa—mục đích mà vì đó các thiện nam tử xuất gia, từ bỏ gia đình, sống không gia đình, đó là sự hoàn thiện vô thượng của *đời sống thánh thiện*—các vị sẽ tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và an trú ngay trong hiện tại.'
 
 29\. Này các tỳ kheo, Ta đã có thể thuyết phục được nhóm năm tỳ kheo. Này các tỳ kheo, Ta chỉ dạy cho hai tỳ kheo, trong khi ba tỳ kheo đi khất thực. Những gì ba tỳ kheo mang về sau khi đi khất thực, cả sáu chúng ta cùng ăn để duy trì mạng sống. Này các tỳ kheo, Ta chỉ dạy cho ba tỳ kheo, trong khi hai tỳ kheo đi khất thực. Những gì hai tỳ kheo mang về sau khi đi khất thực, cả sáu chúng ta cùng ăn để duy trì mạng sống.
 

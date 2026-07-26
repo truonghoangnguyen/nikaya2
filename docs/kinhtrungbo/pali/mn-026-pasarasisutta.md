@@ -106,15 +106,15 @@ Tassa mayhaṁ, bhikkhave, etadahosi: ‘ramaṇīyo vata bho bhūmibhāgo, pās
 
 Apissu maṁ, bhikkhave, imā anacchariyā gāthāyo paṭibhaṁsu pubbe assutapubbā:
 
-‘Kicchena me adhigataṁ,\
-halaṁ dāni pakāsituṁ;\
-Rāgadosaparetehi,\
-nāyaṁ dhammo susambudho.
+> ‘Kicchena me adhigataṁ,\
+> halaṁ dāni pakāsituṁ;\
+> Rāgadosaparetehi,\
+> nāyaṁ dhammo susambudho.
 
-Paṭisotagāmiṁ nipuṇaṁ,\
-gambhīraṁ duddasaṁ aṇuṁ;\
-Rāgarattā na dakkhanti,\
-tamokhandhena āvuṭā’ti.
+> Paṭisotagāmiṁ nipuṇaṁ,\
+> gambhīraṁ duddasaṁ aṇuṁ;\
+> Rāgarattā na dakkhanti,\
+> tamokhandhena āvuṭā’ti.
 
 Itiha me, bhikkhave, paṭisañcikkhato appossukkatāya cittaṁ namati, no dhammadesanāya.
 
@@ -124,31 +124,31 @@ Atha kho, bhikkhave, brahmā sahampati—seyyathāpi nāma balavā puriso samiñ
 
 Idamavoca, bhikkhave, brahmā sahampati. Idaṁ vatvā athāparaṁ etadavoca:
 
-‘Pāturahosi magadhesu pubbe,\
-Dhammo asuddho samalehi cintito;\
-Apāpuretaṁ amatassa dvāraṁ,\
-Suṇantu dhammaṁ vimalenānubuddhaṁ.
+> ‘Pāturahosi magadhesu pubbe,\
+> Dhammo asuddho samalehi cintito;\
+> Apāpuretaṁ amatassa dvāraṁ,\
+> Suṇantu dhammaṁ vimalenānubuddhaṁ.
 
-Sele yathā pabbatamuddhaniṭṭhito,\
-Yathāpi passe janataṁ samantato;\
-Tathūpamaṁ dhammamayaṁ sumedha,\
-Pāsādamāruyha samantacakkhu;\
-Sokāvatiṇṇaṁ janatamapetasoko,\
-Avekkhassu jātijarābhibhūtaṁ.
+> Sele yathā pabbatamuddhaniṭṭhito,\
+> Yathāpi passe janataṁ samantato;\
+> Tathūpamaṁ dhammamayaṁ sumedha,\
+> Pāsādamāruyha samantacakkhu;\
+> Sokāvatiṇṇaṁ janatamapetasoko,\
+> Avekkhassu jātijarābhibhūtaṁ.
 
-Uṭṭhehi vīra vijitasaṅgāma,\
-Satthavāha aṇaṇa vicara loke;\
-Desassu bhagavā dhammaṁ,\
-Aññātāro bhavissantī’ti.
+> Uṭṭhehi vīra vijitasaṅgāma,\
+> Satthavāha aṇaṇa vicara loke;\
+> Desassu bhagavā dhammaṁ,\
+> Aññātāro bhavissantī’ti.
 
 21\. Atha kho ahaṁ, bhikkhave, brahmuno ca ajjhesanaṁ viditvā sattesu ca kāruññataṁ paṭicca buddhacakkhunā lokaṁ volokesiṁ. Addasaṁ kho ahaṁ, bhikkhave, buddhacakkhunā lokaṁ volokento satte apparajakkhe mahārajakkhe, tikkhindriye mudindriye, svākāre dvākāre, suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante. Seyyathāpi nāma uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni antonimuggaposīni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni samodakaṁ ṭhitāni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakaṁ accuggamma ṭhitāni anupalittāni udakena; evameva kho ahaṁ, bhikkhave, buddhacakkhunā lokaṁ volokento addasaṁ satte apparajakkhe mahārajakkhe, tikkhindriye mudindriye, svākāre dvākāre, suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante.
 
 Atha khvāhaṁ, bhikkhave, brahmānaṁ sahampatiṁ gāthāya paccabhāsiṁ:
 
-‘Apārutā tesaṁ amatassa dvārā,\
-Ye sotavanto pamuñcantu saddhaṁ;\
-Vihiṁsasaññī paguṇaṁ na bhāsiṁ,\
-Dhammaṁ paṇītaṁ manujesu brahme’ti.
+> ‘Apārutā tesaṁ amatassa dvārā,\
+> Ye sotavanto pamuñcantu saddhaṁ;\
+> Vihiṁsasaññī paguṇaṁ na bhāsiṁ,\
+> Dhammaṁ paṇītaṁ manujesu brahme’ti.
 
 Atha kho, bhikkhave, brahmā sahampati ‘katāvakāso khomhi bhagavatā dhammadesanāyā’ti maṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi.
 
@@ -182,32 +182,32 @@ Tassa mayhaṁ, bhikkhave, etadahosi: ‘kahaṁ nu kho etarahi pañcavaggiyā b
 
 Evaṁ vutte, ahaṁ, bhikkhave, upakaṁ ājīvakaṁ gāthāhi ajjhabhāsiṁ:
 
-‘Sabbābhibhū sabbavidūhamasmi,\
-Sabbesu dhammesu anūpalitto;\
-Sabbañjaho taṇhākkhaye vimutto,\
-Sayaṁ abhiññāya kamuddiseyyaṁ.
+> ‘Sabbābhibhū sabbavidūhamasmi,\
+> Sabbesu dhammesu anūpalitto;\
+> Sabbañjaho taṇhākkhaye vimutto,\
+> Sayaṁ abhiññāya kamuddiseyyaṁ.
 
-Na me ācariyo atthi,\
-sadiso me na vijjati;\
-Sadevakasmiṁ lokasmiṁ,\
-natthi me paṭipuggalo.
+> Na me ācariyo atthi,\
+> sadiso me na vijjati;\
+> Sadevakasmiṁ lokasmiṁ,\
+> natthi me paṭipuggalo.
 
-Ahañhi arahā loke,\
-ahaṁ satthā anuttaro;\
-Ekomhi sammāsambuddho,\
-sītibhūtosmi nibbuto.
+> Ahañhi arahā loke,\
+> ahaṁ satthā anuttaro;\
+> Ekomhi sammāsambuddho,\
+> sītibhūtosmi nibbuto.
 
-Dhammacakkaṁ pavattetuṁ,\
-Gacchāmi kāsinaṁ puraṁ;\
-Andhībhūtasmiṁ lokasmiṁ,\
-Āhañchaṁ amatadundubhin’ti.
+> Dhammacakkaṁ pavattetuṁ,\
+> Gacchāmi kāsinaṁ puraṁ;\
+> Andhībhūtasmiṁ lokasmiṁ,\
+> Āhañchaṁ amatadundubhin’ti.
 
 ‘Yathā kho tvaṁ, āvuso, paṭijānāsi, arahasi anantajino’ti.
 
-‘Mādisā ve jinā honti,\
-ye pattā āsavakkhayaṁ;\
-Jitā me pāpakā dhammā,\
-tasmāhamupaka jino’ti.
+> ‘Mādisā ve jinā honti,\
+> ye pattā āsavakkhayaṁ;\
+> Jitā me pāpakā dhammā,\
+> tasmāhamupaka jino’ti.
 
 Evaṁ vutte, bhikkhave, upako ājīvako ‘hupeyyapāvuso’ti vatvā sīsaṁ okampetvā ummaggaṁ gahetvā pakkāmi.
 

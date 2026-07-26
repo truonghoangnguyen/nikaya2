@@ -2,7 +2,7 @@
 
 ## 1. Campeyyakabrāhmaṇagahapatikā
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā aṅgesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena campā tadavasari. Tatra sudaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā aṅgesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi yena campā tadavasari. Tatra sudaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre.
 
 Tena kho pana samayena soṇadaṇḍo brāhmaṇo campaṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā māgadhena seniyena bimbisārena dinnaṁ rājadāyaṁ brahmadeyyaṁ.
 
@@ -14,7 +14,7 @@ Tena kho pana samayena soṇadaṇḍo brāhmaṇo campaṁ ajjhāvasati sattuss
 
 “Atthi kho, bho, samaṇo gotamo sakyaputto sakyakulā pabbajito aṅgesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi campaṁ anuppatto campāyaṁ viharati gaggarāya pokkharaṇiyā tīre. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Tamete bhavantaṁ gotamaṁ dassanāya upasaṅkamantī”ti.
 
-“Tena hi, bho khatte, yena campeyyakā brāhmaṇagahapatikā tenupasaṅkama, upasaṅkamitvā campeyyake brāhmaṇagahapatike evaṁ vadehi: ‘soṇadaṇḍo, bho, brāhmaṇo evamāha— āgamentu kira bhavanto, soṇadaṇḍopi brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī’”ti.
+“Tena hi, bho khatte, yena campeyyakā brāhmaṇagahapatikā tenupasaṅkama, upasaṅkamitvā campeyyake brāhmaṇagahapatike evaṁ vadehi: ‘soṇadaṇḍo, bho, brāhmaṇo evamāha—āgamentu kira bhavanto, soṇadaṇḍopi brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī’”ti.
 
 “Evaṁ, bho”ti kho so khattā soṇadaṇḍassa brāhmaṇassa paṭissutvā yena campeyyakā brāhmaṇagahapatikā tenupasaṅkami; upasaṅkamitvā campeyyake brāhmaṇagahapatike etadavoca: “soṇadaṇḍo bho brāhmaṇo evamāha: ‘āgamentu kira bhavanto, soṇadaṇḍopi brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī’”ti.
 

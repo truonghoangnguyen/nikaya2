@@ -4,7 +4,7 @@
 
 ### 11.1 Suvīrasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -518,7 +518,7 @@ Yāvajīvaṁ mātāpettibharo assaṁ, yāvajīvaṁ kule jeṭṭhāpacāyī a
 
 ### 11.13 Mahālisutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
 Atha kho mahāli licchavī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mahāli licchavī bhagavantaṁ etadavoca: Sakko, mahāli, devānamindo sahassampi atthānaṁ muhuttena cinteti, tasmā sahassakkhoti vuccati.
 
@@ -867,9 +867,9 @@ Addasā kho, bhikkhave, vepacitti asurindo sakkaṁ devānamindaṁ dūratova ā
 
 Tena kho pana samayena dve bhikkhū sampayojesuṁ. Tatreko bhikkhu accasarā. Atha kho so bhikkhu tassa bhikkhuno santike accayaṁ accayato deseti; so bhikkhu nappaṭiggaṇhāti. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “idha, bhante, dve bhikkhū sampayojesuṁ, tatreko bhikkhu accasarā. Atha kho so, bhante, bhikkhu tassa bhikkhuno santike accayaṁ accayato deseti, so bhikkhu nappaṭiggaṇhātī”ti.
 
-2\. “Dveme, bhikkhave, bālā. Yo ca accayaṁ accayato na passati, yo ca accayaṁ desentassa yathādhammaṁ nappaṭiggaṇhāti— ime kho, bhikkhave, dve bālā.
+2\. “Dveme, bhikkhave, bālā. Yo ca accayaṁ accayato na passati, yo ca accayaṁ desentassa yathādhammaṁ nappaṭiggaṇhāti—ime kho, bhikkhave, dve bālā.
 
-Dveme, bhikkhave, paṇḍitā. Yo ca accayaṁ accayato passati, yo ca accayaṁ desentassa yathādhammaṁ paṭiggaṇhāti— ime kho, bhikkhave, dve paṇḍitā.
+Dveme, bhikkhave, paṇḍitā. Yo ca accayaṁ accayato passati, yo ca accayaṁ desentassa yathādhammaṁ paṭiggaṇhāti—ime kho, bhikkhave, dve paṇḍitā.
 
 3\. Bhūtapubbaṁ, bhikkhave, sakko devānamindo sudhammāyaṁ sabhāyaṁ deve tāvatiṁse anunayamāno tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi:
 
@@ -882,7 +882,7 @@ Dveme, bhikkhave, paṇḍitā. Yo ca accayaṁ accayato passati, yo ca accaya�
 
 ### 11.25 Akkodhasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tatra kho bhagavā bhikkhū …pe… bhagavā etadavoca:
 

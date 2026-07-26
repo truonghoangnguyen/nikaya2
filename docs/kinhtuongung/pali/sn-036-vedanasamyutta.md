@@ -6,7 +6,7 @@
 
 1\. “Tisso imā, bhikkhave, vedanā. Katamā tisso?
 
-Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, bhikkhave, tisso vedanāti.
+Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, bhikkhave, tisso vedanāti.
 
 > 2\. Samāhito sampajāno,\
 > sato buddhassa sāvako;\
@@ -24,7 +24,7 @@ Paṭhamaṁ.
 
 1\. “Tisso imā, bhikkhave, vedanā. Katamā tisso?
 
-Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, bhikkhave, tisso vedanāti.
+Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, bhikkhave, tisso vedanāti.
 
 > 2\. Sukhaṁ vā yadi vā dukkhaṁ,\
 > adukkhamasukhaṁ saha;\
@@ -112,7 +112,7 @@ Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā.
 
 Sukhā, bhikkhave, vedanā dukkhato daṭṭhabbā, dukkhā vedanā sallato daṭṭhabbā, adukkhamasukhā vedanā aniccato daṭṭhabbā.
 
-Yato kho, bhikkhave, bhikkhuno sukhā vedanā dukkhato diṭṭhā hoti, dukkhā vedanā sallato diṭṭhā hoti, adukkhamasukhā vedanā aniccato diṭṭhā hoti— ayaṁ vuccati, bhikkhave, ‘bhikkhu sammaddaso acchecchi taṇhaṁ, vivattayi saṁyojanaṁ, sammā mānābhisamayā antamakāsi dukkhassā’ti.
+Yato kho, bhikkhave, bhikkhuno sukhā vedanā dukkhato diṭṭhā hoti, dukkhā vedanā sallato diṭṭhā hoti, adukkhamasukhā vedanā aniccato diṭṭhā hoti—ayaṁ vuccati, bhikkhave, ‘bhikkhu sammaddaso acchecchi taṇhaṁ, vivattayi saṁyojanaṁ, sammā mānābhisamayā antamakāsi dukkhassā’ti.
 
 > 2\. Yo sukhaṁ dukkhato adda,\
 > dukkhamaddakkhi sallato;\
@@ -132,7 +132,7 @@ Pañcamaṁ.
 
 1\. “Assutavā, bhikkhave, puthujjano sukhampi vedanaṁ vedayati, dukkhampi vedanaṁ vedayati, adukkhamasukhampi vedanaṁ vedayati. Evañhi so, bhikkhave, puriso dvisallena vedanaṁ vedayati.
 
-Evameva kho, bhikkhave, assutavā puthujjano dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. So dve vedanā vedayati— kāyikañca, cetasikañca.
+Evameva kho, bhikkhave, assutavā puthujjano dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. So dve vedanā vedayati—kāyikañca, cetasikañca.
 
 Tassāyeva kho pana dukkhāya vedanāya phuṭṭho samāno paṭighavā hoti. Tamenaṁ dukkhāya vedanāya paṭighavantaṁ, yo dukkhāya vedanāya paṭighānusayo, so anuseti.
 
@@ -148,9 +148,9 @@ Tatra, bhikkhave, ko viseso ko adhippayāso kiṁ nānākaraṇaṁ sutavato ari
 
 Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
-assutavā, bhikkhave, puthujjano dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. So dve vedanā vedayati— kāyikañca, cetasikañca.
+assutavā, bhikkhave, puthujjano dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati. So dve vedanā vedayati—kāyikañca, cetasikañca.
 
-Seyyathāpi, bhikkhave, purisaṁ sallena vijjheyya. Tamenaṁ dutiyena sallena anuvedhaṁ vijjheyya. Sutavā ca kho, bhikkhave, ariyasāvako dukkhāya vedanāya phuṭṭho samāno na socati, na kilamati, na paridevati, na urattāḷiṁ kandati, na sammohaṁ āpajjati. So ekaṁ vedanaṁ vedayati— kāyikaṁ, na cetasikaṁ.
+Seyyathāpi, bhikkhave, purisaṁ sallena vijjheyya. Tamenaṁ dutiyena sallena anuvedhaṁ vijjheyya. Sutavā ca kho, bhikkhave, ariyasāvako dukkhāya vedanāya phuṭṭho samāno na socati, na kilamati, na paridevati, na urattāḷiṁ kandati, na sammohaṁ āpajjati. So ekaṁ vedanaṁ vedayati—kāyikaṁ, na cetasikaṁ.
 
 3\. Seyyathāpi, bhikkhave, purisaṁ sallena vijjheyya. Taṁ kissa hetu? Pajānāti hi so, bhikkhave, sutavā ariyasāvako aññatra kāmasukhā dukkhāya vedanāya nissaraṇaṁ. Tassa kāmasukhaṁ nābhinandato yo sukhāya vedanāya rāgānusayo, so nānuseti.
 
@@ -164,7 +164,7 @@ Ayaṁ kho, bhikkhave, viseso, ayaṁ adhippayāso, idaṁ nānākaraṇaṁ sut
 
 Tamenaṁ dutiyena sallena anuvedhaṁ na vijjheyya. Evañhi so, bhikkhave, puriso ekasallena vedanaṁ vedayati.
 
-Evameva kho, bhikkhave, sutavā ariyasāvako dukkhāya vedanāya phuṭṭho samāno na socati, na kilamati, na paridevati, na urattāḷiṁ kandati, na sammohaṁ āpajjati. So ekaṁ vedanaṁ vedayati— kāyikaṁ, na cetasikaṁ.
+Evameva kho, bhikkhave, sutavā ariyasāvako dukkhāya vedanāya phuṭṭho samāno na socati, na kilamati, na paridevati, na urattāḷiṁ kandati, na sammohaṁ āpajjati. So ekaṁ vedanaṁ vedayati—kāyikaṁ, na cetasikaṁ.
 
 Tassāyeva kho pana dukkhāya vedanāya phuṭṭho samāno paṭighavā na hoti. Tamenaṁ dukkhāya vedanāya appaṭighavantaṁ, yo dukkhāya vedanāya paṭighānusayo, so nānuseti.
 
@@ -248,7 +248,7 @@ Aṭṭhamaṁ.
 
 1\. “Tisso imā, bhikkhave, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. Katamā tisso?
 
-Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, bhikkhave, tisso vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā”ti.
+Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, bhikkhave, tisso vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā”ti.
 
 Navamaṁ.
 
@@ -279,7 +279,7 @@ Sukhavedaniyaṁ, bhikkhave, phassaṁ paṭicca uppajjati sukhā vedanā. Tasse
 
 1\. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
-“idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā tisso vedanā vuttā bhagavatā.
+“idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi—tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā tisso vedanā vuttā bhagavatā.
 
 Vuttaṁ kho panetaṁ bhagavatā: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’ti. Kiṁ nu kho etaṁ bhagavatā sandhāya bhāsitaṁ: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin’”ti?
 
@@ -287,7 +287,7 @@ Vuttaṁ kho panetaṁ bhagavatā: ‘yaṁ kiñci vedayitaṁ taṁ dukkhasmin�
 
 Atha kho pana, bhikkhu, mayā anupubbasaṅkhārānaṁ nirodho akkhāto. Paṭhamaṁ jhānaṁ samāpannassa vācā niruddhā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti. Tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti. Catutthaṁ jhānaṁ samāpannassa assāsapassāsā niruddhā honti. Tisso imā, bhikkhu, vedanā vuttā mayā. Ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti. Viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti. Ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti. Nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti. Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti. Khīṇāsavassa bhikkhuno rāgo niruddho hoti, doso niruddho hoti, moho niruddho hoti.
 
-Atha kho, bhikkhu, mayā anupubbasaṅkhārānaṁ vūpasamo akkhāto. Paṭhamaṁ jhānaṁ samāpannassa vācā vūpasantā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā vūpasantā honti …pe… saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca vūpasantā honti. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— Khīṇāsavassa bhikkhuno rāgo vūpasanto hoti, doso vūpasanto hoti, moho vūpasanto hoti.
+Atha kho, bhikkhu, mayā anupubbasaṅkhārānaṁ vūpasamo akkhāto. Paṭhamaṁ jhānaṁ samāpannassa vācā vūpasantā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā vūpasantā honti …pe… saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca vūpasantā honti. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—Khīṇāsavassa bhikkhuno rāgo vūpasanto hoti, doso vūpasanto hoti, moho vūpasanto hoti.
 
 Chayimā, bhikkhu, passaddhiyo. Paṭhamaṁ jhānaṁ samāpannassa vācā paṭippassaddhā hoti. Dutiyaṁ jhānaṁ samāpannassa vitakkavicārā paṭippassaddhā honti. Tatiyaṁ jhānaṁ samāpannassa pīti paṭippassaddhā hoti. Catutthaṁ jhānaṁ samāpannassa assāsapassāsā paṭippassaddhā honti. Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca paṭippassaddhā honti. Khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī”ti.
 
@@ -370,7 +370,7 @@ Ko vedanāya assādo, ko ādīnavo, kiṁ nissaraṇan”ti?
 
 Pañcamaṁ.
 
-“Tisso imā, ānanda, vedanā— sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā vuccanti, ānanda, vedanā.
+“Tisso imā, ānanda, vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā vuccanti, ānanda, vedanā.
 
 Phassasamudayā vedanāsamudayo; phassanirodhā vedanānirodho.
 
@@ -392,7 +392,7 @@ Chaṭṭhaṁ.
 
 “Evaṁ, bhante”ti kho āyasmā ānando bhagavato paccassosi. Bhagavā etadavoca:
 
-“tisso imā, ānanda, vedanā— sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—
+“tisso imā, ānanda, vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—
 
 ### 36.17 Paṭhamasambahulasutta
 
@@ -404,11 +404,11 @@ Yaṁ vedanaṁ paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ vedanāya ass�
 
 “katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṁ nissaraṇan”ti?
 
-“Tisso imā, bhikkhave, vedanā— sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā vuccanti, bhikkhave, vedanā.
+“Tisso imā, bhikkhave, vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā vuccanti, bhikkhave, vedanā.
 
 Phassasamudayā vedanāsamudayo; phassanirodhā vedanānirodho.
 
-Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṁ— Atha kho pana, bhikkhave, mayā anupubbasaṅkhārānaṁ nirodho akkhāto. Tatiyaṁ jhānaṁ samāpannassa pīti paṭippassaddhā hoti. Catutthaṁ jhānaṁ samāpannassa assāsapassāsā paṭippassaddhā honti. Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca paṭippassaddhā honti.
+Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṁ—Atha kho pana, bhikkhave, mayā anupubbasaṅkhārānaṁ nirodho akkhāto. Tatiyaṁ jhānaṁ samāpannassa pīti paṭippassaddhā hoti. Catutthaṁ jhānaṁ samāpannassa assāsapassāsā paṭippassaddhā honti. Saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca paṭippassaddhā honti.
 
 2\. Khīṇāsavassa bhikkhuno rāgo paṭippassaddho hoti, doso paṭippassaddho hoti, moho paṭippassaddho hotī”ti.
 
@@ -426,7 +426,7 @@ ekamantaṁ nisinnā kho te bhikkhū bhagavā etadavoca:
 
 “Bhagavaṁmūlakā no, bhante, dhammā …pe…”
 
-“tisso imā, bhikkhave, vedanā— sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā vuccanti, bhikkhave, vedanā …pe… phassasamudayā …pe….
+“tisso imā, bhikkhave, vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā vuccanti, bhikkhave, vedanā …pe… phassasamudayā …pe….
 
 (Yathā purimasuttante, tathā vitthāretabbo.)
 
@@ -436,17 +436,17 @@ ekamantaṁ nisinnā kho te bhikkhū bhagavā etadavoca:
 
 “kati nu kho, bhante udāyi, vedanā vuttā bhagavatā”ti?
 
-“Tisso kho, thapati, vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, thapati, tisso vedanā vuttā bhagavatā”ti.
+“Tisso kho, thapati, vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, thapati, tisso vedanā vuttā bhagavatā”ti.
 
-Evaṁ vutte, pañcakaṅgo thapati āyasmantaṁ udāyiṁ etadavoca: “na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā— sukhā vedanā, dukkhā vedanā. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
+Evaṁ vutte, pañcakaṅgo thapati āyasmantaṁ udāyiṁ etadavoca: “na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā—sukhā vedanā, dukkhā vedanā. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
-11\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso rūpasaññānaṁ samatikkamā, paṭighasaññānaṁ atthaṅgamā, nānattasaññānaṁ amanasikārā, ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
+11\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso rūpasaññānaṁ samatikkamā, paṭighasaññānaṁ atthaṅgamā, nānattasaññānaṁ amanasikārā, ‘ananto ākāso’ti ākāsānañcāyatanaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
-12\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma, ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
+12\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma, ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
-13\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma, ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
+13\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma, ‘natthi kiñcī’ti ākiñcaññāyatanaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
-14\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
+14\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
 15\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
@@ -458,15 +458,15 @@ Navamaṁ.
 
 2\. Dutiyampi kho āyasmā udāyī pañcakaṅgaṁ thapatiṁ etadavoca: Yāyaṁ, bhante, adukkhamasukhā vedanā, santasmiṁ esā paṇīte sukhe vuttā bhagavatā”ti.
 
-“na kho, thapati, dve vedanā vuttā bhagavatā. Tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā tisso vedanā vuttā bhagavatā”ti.
+“na kho, thapati, dve vedanā vuttā bhagavatā. Tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā tisso vedanā vuttā bhagavatā”ti.
 
-Dutiyampi kho pañcakaṅgo thapati āyasmantaṁ udāyiṁ etadavoca: “na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā— sukhā vedanā, dukkhā vedanā. Tatiyampi kho āyasmā udāyī pañcakaṅgaṁ thapatiṁ etadavoca: Yāyaṁ, bhante, adukkhamasukhā vedanā, santasmiṁ esā paṇīte sukhe vuttā bhagavatā”ti.
+Dutiyampi kho pañcakaṅgo thapati āyasmantaṁ udāyiṁ etadavoca: “na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā—sukhā vedanā, dukkhā vedanā. Tatiyampi kho āyasmā udāyī pañcakaṅgaṁ thapatiṁ etadavoca: Yāyaṁ, bhante, adukkhamasukhā vedanā, santasmiṁ esā paṇīte sukhe vuttā bhagavatā”ti.
 
 3\. Neva sakkhi āyasmā udāyī pañcakaṅgaṁ thapatiṁ saññāpetuṁ, na panāsakkhi pañcakaṅgo thapati āyasmantaṁ udāyiṁ saññāpetuṁ.
 
-Assosi kho āyasmā ānando āyasmato udāyissa pañcakaṅgena thapatinā saddhiṁ imaṁ kathāsallāpaṁ. “na kho, thapati, dve vedanā vuttā bhagavatā. Tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā tisso vedanā vuttā bhagavatā”ti.
+Assosi kho āyasmā ānando āyasmato udāyissa pañcakaṅgena thapatinā saddhiṁ imaṁ kathāsallāpaṁ. “na kho, thapati, dve vedanā vuttā bhagavatā. Tisso vedanā vuttā bhagavatā. Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā tisso vedanā vuttā bhagavatā”ti.
 
-Tatiyampi kho pañcakaṅgo thapati āyasmantaṁ udāyiṁ etadavoca: “na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā— sukhā vedanā, dukkhā vedanā. Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando yāvatako āyasmato udāyissa pañcakaṅgena thapatinā saddhiṁ ahosi kathāsallāpo taṁ sabbaṁ bhagavato ārocesi.
+Tatiyampi kho pañcakaṅgo thapati āyasmantaṁ udāyiṁ etadavoca: “na kho, bhante udāyi, tisso vedanā vuttā bhagavatā. Dve vedanā vuttā bhagavatā—sukhā vedanā, dukkhā vedanā. Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando yāvatako āyasmato udāyissa pañcakaṅgena thapatinā saddhiṁ ahosi kathāsallāpo taṁ sabbaṁ bhagavato ārocesi.
 
 5\. “Santameva, ānanda, pariyāyaṁ pañcakaṅgo thapati udāyissa bhikkhuno nābbhanumodi; Evaṁ pariyāyadesito kho, ānanda, mayā dhammo. Evaṁ pariyāyadesite kho, ānanda, mayā dhamme ye aññamaññassa subhāsitaṁ sulapitaṁ, na samanumaññissanti, na samanujānissanti, na samanumodissanti, tesaṁ etaṁ pāṭikaṅkhaṁ—bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharissantīti.
 
@@ -478,11 +478,11 @@ Dvepi mayā, ānanda, vedanā vuttā pariyāyena. Tissopi mayā vedanā vuttā p
 
 6\. Pañcime, ānanda, kāmaguṇā. idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
-Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā …pe… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Ime kho, ānanda, pañca kāmaguṇā. Yaṁ kho, ānanda, ime pañca kāmaguṇe paṭicca uppajjati sukhaṁ somanassaṁ— idaṁ vuccati kāmasukhaṁ. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
+Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā …pe… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Ime kho, ānanda, pañca kāmaguṇā. Yaṁ kho, ānanda, ime pañca kāmaguṇe paṭicca uppajjati sukhaṁ somanassaṁ—idaṁ vuccati kāmasukhaṁ. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
-8\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu, vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
+8\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu, vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
-9\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti— idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
+9\. Katamañcānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca? Idhānanda, bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati. Idaṁ kho, ānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca. Ye kho, ānanda, evaṁ vadeyyuṁ: ‘etapparamaṁ santaṁ sukhaṁ somanassaṁ paṭisaṁvedentī’ti—idaṁ nesāhaṁ nānujānāmi. Taṁ kissa hetu? Atthānanda, etamhā sukhā aññaṁ sukhaṁ abhikkantatarañca paṇītatarañca.
 
 ### 36.20 Bhikkhusutta
 
@@ -536,13 +536,13 @@ Paṭhamaṁ.
 
 Taṁ suṇātha.
 
-Katamo ca, bhikkhave, aṭṭhasatapariyāyo, dhammapariyāyo? Dvepi mayā, bhikkhave, vedanā vuttā pariyāyena; tissopi mayā vedanā vuttā pariyāyena; pañcapi mayā vedanā vuttā pariyāyena; chapi mayā vedanā vuttā pariyāyena; aṭṭhārasāpi mayā vedanā vuttā pariyāyena; chattiṁsāpi mayā vedanā vuttā pariyāyena; Katamā ca, bhikkhave, dve vedanā? Katamā ca, bhikkhave, cha vedanā? Cakkhusamphassajā vedanā …pe… manosamphassajā vedanā— imā vuccanti, bhikkhave, cha vedanā.
+Katamo ca, bhikkhave, aṭṭhasatapariyāyo, dhammapariyāyo? Dvepi mayā, bhikkhave, vedanā vuttā pariyāyena; tissopi mayā vedanā vuttā pariyāyena; pañcapi mayā vedanā vuttā pariyāyena; chapi mayā vedanā vuttā pariyāyena; aṭṭhārasāpi mayā vedanā vuttā pariyāyena; chattiṁsāpi mayā vedanā vuttā pariyāyena; Katamā ca, bhikkhave, dve vedanā? Katamā ca, bhikkhave, cha vedanā? Cakkhusamphassajā vedanā …pe… manosamphassajā vedanā—imā vuccanti, bhikkhave, cha vedanā.
 
-2\. Katamā ca, bhikkhave, aṭṭhārasa vedanā? Cha somanassūpavicārā, cha domanassūpavicārā, cha upekkhūpavicārā— imā vuccanti, bhikkhave, aṭṭhārasa vedanā.
+2\. Katamā ca, bhikkhave, aṭṭhārasa vedanā? Cha somanassūpavicārā, cha domanassūpavicārā, cha upekkhūpavicārā—imā vuccanti, bhikkhave, aṭṭhārasa vedanā.
 
-Katamā ca, bhikkhave, chattiṁsa vedanā? Cha gehasitāni somanassāni, cha nekkhammasitāni somanassāni, cha gehasitāni domanassāni, cha nekkhammasitāni domanassāni, cha gehasitā upekkhā, cha nekkhammasitā upekkhā— imā vuccanti, bhikkhave, chattiṁsa vedanā.
+Katamā ca, bhikkhave, chattiṁsa vedanā? Cha gehasitāni somanassāni, cha nekkhammasitāni somanassāni, cha gehasitāni domanassāni, cha nekkhammasitāni domanassāni, cha gehasitā upekkhā, cha nekkhammasitā upekkhā—imā vuccanti, bhikkhave, chattiṁsa vedanā.
 
-Kāyikā ca cetasikā ca— Katamañca, bhikkhave, aṭṭhasataṁ vedanā? Atītā chattiṁsa vedanā, anāgatā chattiṁsa vedanā, paccuppannā chattiṁsa vedanā— imā vuccanti, bhikkhave, aṭṭhasataṁ vedanā.
+Kāyikā ca cetasikā ca—Katamañca, bhikkhave, aṭṭhasataṁ vedanā? Atītā chattiṁsa vedanā, anāgatā chattiṁsa vedanā, paccuppannā chattiṁsa vedanā—imā vuccanti, bhikkhave, aṭṭhasataṁ vedanā.
 
 Ayaṁ, bhikkhave, aṭṭhasatapariyāyo dhammapariyāyo”ti.
 
@@ -550,9 +550,9 @@ Dutiyaṁ.
 
 imā vuccanti, bhikkhave, dve vedanā.
 
-Katamā ca, bhikkhave, tisso vedanā? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā vuccanti, bhikkhave, tisso vedanā.
+Katamā ca, bhikkhave, tisso vedanā? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā vuccanti, bhikkhave, tisso vedanā.
 
-Katamā ca, bhikkhave, pañca vedanā? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ— imā vuccanti, bhikkhave, pañca vedanā.
+Katamā ca, bhikkhave, pañca vedanā? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ—imā vuccanti, bhikkhave, pañca vedanā.
 
 ### 36.23 Aññatarabhikkhusutta
 
@@ -560,7 +560,7 @@ Katamā ca, bhikkhave, pañca vedanā? Sukhindriyaṁ, dukkhindriyaṁ, somanass
 
 “katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamā vedanāsamudayagāminī paṭipadā? Katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṁ nissaraṇan”ti?
 
-2\. “Tisso imā, bhikkhu, vedanā— yaṁ vedanā aniccā dukkhā vipariṇāmadhammā, ayaṁ vedanāya ādīnavo;
+2\. “Tisso imā, bhikkhu, vedanā—yaṁ vedanā aniccā dukkhā vipariṇāmadhammā, ayaṁ vedanāya ādīnavo;
 
 yo vedanāya chandarāgavinayo chandarāgappahānaṁ, idaṁ vedanāya nissaraṇan”ti.
 
@@ -570,7 +570,7 @@ sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti, bhikkhu
 
 Phassasamudayā vedanāsamudayo. Taṇhā vedanāsamudayagāminī paṭipadā.
 
-Phassanirodhā vedanānirodho. Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi.
+Phassanirodhā vedanānirodho. Ayameva ariyo aṭṭhaṅgiko maggo vedanānirodhagāminī paṭipadā, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi.
 
 Yaṁ vedanaṁ paṭicca uppajjati sukhaṁ somanassaṁ, ayaṁ vedanāya assādo;
 
@@ -582,7 +582,7 @@ Catutthaṁ.
 
 ‘katamā nu kho vedanā, katamo vedanāsamudayo, katamā vedanāsamudayagāminī paṭipadā, katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṁ nissaraṇan’ti?
 
-Tassa mayhaṁ, bhikkhave, etadahosi: ‘tisso imā vedanā— sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti vedanā. Phassasamudayā vedanāsamudayo. Taṇhā vedanāsamudayagāminī paṭipadā …pe…
+Tassa mayhaṁ, bhikkhave, etadahosi: ‘tisso imā vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti vedanā. Phassasamudayā vedanāsamudayo. Taṇhā vedanāsamudayagāminī paṭipadā …pe…
 
 ### 36.25 Ñāṇasutta
 
@@ -616,7 +616,7 @@ Chaṭṭhaṁ.
 
 “katamā nu kho, bhante, vedanā, katamo vedanāsamudayo, katamā vedanāsamudayagāminī paṭipadā? Katamo vedanānirodho, katamā vedanānirodhagāminī paṭipadā? Ko vedanāya assādo, ko ādīnavo, kiṁ nissaraṇan”ti?
 
-“Tisso imā, bhikkhave, vedanā— sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti, bhikkhave, vedanā.
+“Tisso imā, bhikkhave, vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā. Imā vuccanti, bhikkhave, vedanā.
 
 Phassasamudayā vedanāsamudayo. Taṇhā vedanāsamudayagāminī paṭipadā.
 
@@ -650,7 +650,7 @@ Navamaṁ.
 
 ### 36.30 Suddhikasutta
 
-1\. “Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, bhikkhave, tisso vedanā”ti.
+1\. “Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, bhikkhave, tisso vedanā”ti.
 
 Dasamaṁ.
 

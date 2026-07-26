@@ -44,39 +44,39 @@ Yaṁ hānanda, puggalo puggalaṁ āgamma dukkhe nikkaṅkho hoti, dukkhasamuda
 
 14\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-“Yo sīlavā dussīlesu dadāti dānaṁ,\
-Dhammena laddhaṁ supasannacitto;\
-Abhisaddahaṁ kammaphalaṁ uḷāraṁ,\
-Sā dakkhiṇā dāyakato visujjhati.
+> “Yo sīlavā dussīlesu dadāti dānaṁ,\
+> Dhammena laddhaṁ supasannacitto;\
+> Abhisaddahaṁ kammaphalaṁ uḷāraṁ,\
+> Sā dakkhiṇā dāyakato visujjhati.
 
-Yo dussīlo sīlavantesu dadāti dānaṁ,\
-Adhammena laddhaṁ appasannacitto;\
-Anabhisaddahaṁ kammaphalaṁ uḷāraṁ,\
-Sā dakkhiṇā paṭiggāhakato visujjhati.
+> Yo dussīlo sīlavantesu dadāti dānaṁ,\
+> Adhammena laddhaṁ appasannacitto;\
+> Anabhisaddahaṁ kammaphalaṁ uḷāraṁ,\
+> Sā dakkhiṇā paṭiggāhakato visujjhati.
 
-Yo dussīlo dussīlesu dadāti dānaṁ,\
-Adhammena laddhaṁ appasannacitto;\
-Anabhisaddahaṁ kammaphalaṁ uḷāraṁ,\
-Na taṁ dānaṁ vipulapphalanti brūmi.
+> Yo dussīlo dussīlesu dadāti dānaṁ,\
+> Adhammena laddhaṁ appasannacitto;\
+> Anabhisaddahaṁ kammaphalaṁ uḷāraṁ,\
+> Na taṁ dānaṁ vipulapphalanti brūmi.
 
-Yo sīlavā sīlavantesu dadāti dānaṁ,\
-Dhammena laddhaṁ supasannacitto;\
-Abhisaddahaṁ kammaphalaṁ uḷāraṁ,\
-Taṁ ve dānaṁ vipulapphalanti brūmi.
+> Yo sīlavā sīlavantesu dadāti dānaṁ,\
+> Dhammena laddhaṁ supasannacitto;\
+> Abhisaddahaṁ kammaphalaṁ uḷāraṁ,\
+> Taṁ ve dānaṁ vipulapphalanti brūmi.
 
-Yo vītarāgo vītarāgesu dadāti dānaṁ,\
-Dhammena laddhaṁ supasannacitto;\
-Abhisaddahaṁ kammaphalaṁ uḷāraṁ,\
-Taṁ ve dānaṁ āmisadānānamaggan”ti.
+> Yo vītarāgo vītarāgesu dadāti dānaṁ,\
+> Dhammena laddhaṁ supasannacitto;\
+> Abhisaddahaṁ kammaphalaṁ uḷāraṁ,\
+> Taṁ ve dānaṁ āmisadānānamaggan”ti.
 
 Dakkhiṇāvibhaṅgasuttaṁ niṭṭhitaṁ dvādasamaṁ.
 
 Vibhaṅgavaggo niṭṭhito catuttho.
 
-Tassuddānaṁ
+15\. Tassuddānaṁ
 
-15\. Bhaddekānandakaccāna,\
-Lomasakaṅgiyāsubho;\
-Mahākammasaḷāyatanavibhaṅgā,\
-Uddesaaraṇā dhātu saccaṁ.\
-Dakkhiṇāvibhaṅgasuttanti.
+> Bhaddekānandakaccāna,\
+> Lomasakaṅgiyāsubho;\
+> Mahākammasaḷāyatanavibhaṅgā,\
+> Uddesaaraṇā dhātu saccaṁ.\
+> Dakkhiṇāvibhaṅgasuttanti.

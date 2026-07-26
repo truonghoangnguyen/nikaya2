@@ -4,7 +4,7 @@
 
 ### 18.1 Cakkhusutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā rāhulo bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
 
@@ -211,7 +211,7 @@ Paṭhamo vaggo.
 
 ### 18.11 Cakkhusutta
 
-1\. Evaṁ me sutaṁ— ‘etaṁ mama, esohamasmi, eso me attā’”ti?
+1\. Evaṁ me sutaṁ—‘etaṁ mama, esohamasmi, eso me attā’”ti?
 
 “No hetaṁ, bhante”.
 

@@ -120,10 +120,10 @@ So sāṇānipi dhāremi, masāṇānipi dhāremi, chavadussānipi dhāremi, pa�
 
 50\. So kho ahaṁ, sāriputta, aññataraṁ bhiṁsanakaṁ vanasaṇḍaṁ ajjhogāhetvā viharāmi. Tatrāssudaṁ, sāriputta, bhiṁsanakassa vanasaṇḍassa bhiṁsanakatasmiṁ hoti—yo koci avītarāgo taṁ vanasaṇḍaṁ pavisati, yebhuyyena lomāni haṁsanti. So kho ahaṁ, sāriputta, yā tā rattiyo sītā hemantikā antaraṭṭhakā himapātasamayā tathārūpāsu rattīsu rattiṁ abbhokāse viharāmi, divā vanasaṇḍe; gimhānaṁ pacchime māse divā abbhokāse viharāmi, rattiṁ vanasaṇḍe. Apissu maṁ, sāriputta, ayaṁ anacchariyagāthā paṭibhāsi pubbe assutapubbā:
 
-‘Sotatto sosinno ceva,\
-eko bhiṁsanake vane;\
-Naggo na caggimāsīno,\
-esanāpasuto munī’ti.
+> ‘Sotatto sosinno ceva,\
+> eko bhiṁsanake vane;\
+> Naggo na caggimāsīno,\
+> esanāpasuto munī’ti.
 
 51\. So kho ahaṁ, sāriputta, susāne seyyaṁ kappemi chavaṭṭhikāni upadhāya. Apissu maṁ, sāriputta, gāmaṇḍalā upasaṅkamitvā oṭṭhubhantipi, omuttentipi, paṁsukenapi okiranti, kaṇṇasotesupi salākaṁ pavesenti. Na kho panāhaṁ, sāriputta, abhijānāmi tesu pāpakaṁ cittaṁ uppādetā. Idaṁsu me, sāriputta, upekkhāvihārasmiṁ hoti.
 

@@ -18,331 +18,338 @@ Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampan
 
 6\. Atha kho vāseṭṭhabhāradvājā māṇavā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho vāseṭṭho māṇavo bhagavantaṁ gāthāhi ajjhabhāsi:
 
-7\. “Anuññātapaṭiññātā,\
-tevijjā mayamasmubho;\
-Ahaṁ pokkharasātissa,\
-tārukkhassāyaṁ māṇavo.
+7\.
+> “Anuññātapaṭiññātā,\
+> tevijjā mayamasmubho;\
+> Ahaṁ pokkharasātissa,\
+> tārukkhassāyaṁ māṇavo.
 
-Tevijjānaṁ yadakkhātaṁ,\
-tatra kevalinosmase;\
-Padakasmā veyyākaraṇā,\
-jappe ācariyasādisā;\
-Tesaṁ no jātivādasmiṁ,\
-vivādo atthi gotama.
+> Tevijjānaṁ yadakkhātaṁ,\
+> tatra kevalinosmase;\
+> Padakasmā veyyākaraṇā,\
+> jappe ācariyasādisā;\
+> Tesaṁ no jātivādasmiṁ,\
+> vivādo atthi gotama.
 
-Jātiyā brāhmaṇo hoti,\
-bhāradvājo iti bhāsati;\
-Ahañca kammunā brūmi,\
-evaṁ jānāhi cakkhuma.
+> Jātiyā brāhmaṇo hoti,\
+> bhāradvājo iti bhāsati;\
+> Ahañca kammunā brūmi,\
+> evaṁ jānāhi cakkhuma.
 
-Te na sakkoma ñāpetuṁ,\
-aññamaññaṁ mayaṁ ubho;\
-Bhavantaṁ puṭṭhumāgamā,\
-sambuddhaṁ iti vissutaṁ.
+> Te na sakkoma ñāpetuṁ,\
+> aññamaññaṁ mayaṁ ubho;\
+> Bhavantaṁ puṭṭhumāgamā,\
+> sambuddhaṁ iti vissutaṁ.
 
-Candaṁ yathā khayātītaṁ,\
-pecca pañjalikā janā;\
-Vandamānā namassanti,\
-lokasmiṁ gotamaṁ.
+> Candaṁ yathā khayātītaṁ,\
+> pecca pañjalikā janā;\
+> Vandamānā namassanti,\
+> lokasmiṁ gotamaṁ.
 
-Cakkhuṁ loke samuppannaṁ,\
-mayaṁ pucchāma gotamaṁ;\
-Jātiyā brāhmaṇo hoti,\
-udāhu bhavati kammunā;\
-Ajānataṁ no pabrūhi,\
-yathā jānemu brāhmaṇan”ti.
+> Cakkhuṁ loke samuppannaṁ,\
+> mayaṁ pucchāma gotamaṁ;\
+> Jātiyā brāhmaṇo hoti,\
+> udāhu bhavati kammunā;\
+> Ajānataṁ no pabrūhi,\
+> yathā jānemu brāhmaṇan”ti.
 
-8\. “Tesaṁ vo ahaṁ byakkhissaṁ,\
-(vāseṭṭhāti bhagavā)\
-Anupubbaṁ yathātathaṁ;\
-Jātivibhaṅgaṁ pāṇānaṁ,\
-Aññamaññāhi jātiyo.
+8\.
+> “Tesaṁ vo ahaṁ byakkhissaṁ,\
+> (vāseṭṭhāti bhagavā)\
+> Anupubbaṁ yathātathaṁ;\
+> Jātivibhaṅgaṁ pāṇānaṁ,\
+> Aññamaññāhi jātiyo.
 
-Tiṇarukkhepi jānātha,\
-na cāpi paṭijānare;\
-Liṅgaṁ jātimayaṁ tesaṁ,\
-aññamaññā hi jātiyo.
+> Tiṇarukkhepi jānātha,\
+> na cāpi paṭijānare;\
+> Liṅgaṁ jātimayaṁ tesaṁ,\
+> aññamaññā hi jātiyo.
 
-Tato kīṭe paṭaṅge ca,\
-yāva kunthakipillike;\
-Liṅgaṁ jātimayaṁ tesaṁ,\
-aññamaññā hi jātiyo.
+> Tato kīṭe paṭaṅge ca,\
+> yāva kunthakipillike;\
+> Liṅgaṁ jātimayaṁ tesaṁ,\
+> aññamaññā hi jātiyo.
 
-Catuppadepi jānātha,\
-khuddake ca mahallake;\
-Liṅgaṁ jātimayaṁ tesaṁ,\
-aññamaññā hi jātiyo.
+> Catuppadepi jānātha,\
+> khuddake ca mahallake;\
+> Liṅgaṁ jātimayaṁ tesaṁ,\
+> aññamaññā hi jātiyo.
 
-Pādudarepi jānātha,\
-urage dīghapiṭṭhike;\
-Liṅgaṁ jātimayaṁ tesaṁ,\
-aññamaññā hi jātiyo.
+> Pādudarepi jānātha,\
+> urage dīghapiṭṭhike;\
+> Liṅgaṁ jātimayaṁ tesaṁ,\
+> aññamaññā hi jātiyo.
 
-Tato macchepi jānātha,\
-udake vārigocare;\
-Liṅgaṁ jātimayaṁ tesaṁ,\
-aññamaññā hi jātiyo.
+> Tato macchepi jānātha,\
+> udake vārigocare;\
+> Liṅgaṁ jātimayaṁ tesaṁ,\
+> aññamaññā hi jātiyo.
 
-Tato pakkhīpi jānātha,\
-pattayāne vihaṅgame;\
-Liṅgaṁ jātimayaṁ tesaṁ,\
-aññamaññā hi jātiyo.
+> Tato pakkhīpi jānātha,\
+> pattayāne vihaṅgame;\
+> Liṅgaṁ jātimayaṁ tesaṁ,\
+> aññamaññā hi jātiyo.
 
-9\. Yathā etāsu jātīsu,\
-liṅgaṁ jātimayaṁ puthu;\
-Evaṁ natthi manussesu,\
-liṅgaṁ jātimayaṁ puthu.
+9\.
+> Yathā etāsu jātīsu,\
+> liṅgaṁ jātimayaṁ puthu;\
+> Evaṁ natthi manussesu,\
+> liṅgaṁ jātimayaṁ puthu.
 
-Na kesehi na sīsehi,\
-na kaṇṇehi na akkhīhi;\
-Na mukhena na nāsāya,\
-na oṭṭhehi bhamūhi vā.
+> Na kesehi na sīsehi,\
+> na kaṇṇehi na akkhīhi;\
+> Na mukhena na nāsāya,\
+> na oṭṭhehi bhamūhi vā.
 
-Na gīvāya na aṁsehi,\
-na udarena na piṭṭhiyā;\
-Na soṇiyā na urasā,\
-na sambādhe na methune.
+> Na gīvāya na aṁsehi,\
+> na udarena na piṭṭhiyā;\
+> Na soṇiyā na urasā,\
+> na sambādhe na methune.
 
-Na hatthehi na pādehi,\
-naṅgulīhi nakhehi vā;\
-Na jaṅghāhi na ūrūhi,\
-na vaṇṇena sarena vā;\
-Liṅgaṁ jātimayaṁ neva,\
-yathā aññāsu jātisu.
+> Na hatthehi na pādehi,\
+> naṅgulīhi nakhehi vā;\
+> Na jaṅghāhi na ūrūhi,\
+> na vaṇṇena sarena vā;\
+> Liṅgaṁ jātimayaṁ neva,\
+> yathā aññāsu jātisu.
 
-Paccattañca sarīresu,\
-manussesvetaṁ na vijjati;\
-Vokārañca manussesu,\
-samaññāya pavuccati.
+> Paccattañca sarīresu,\
+> manussesvetaṁ na vijjati;\
+> Vokārañca manussesu,\
+> samaññāya pavuccati.
 
-10\. Yo hi koci manussesu,\
-gorakkhaṁ upajīvati;\
-Evaṁ vāseṭṭha jānāhi,\
-kassako so na brāhmaṇo.
+10\.
+> Yo hi koci manussesu,\
+> gorakkhaṁ upajīvati;\
+> Evaṁ vāseṭṭha jānāhi,\
+> kassako so na brāhmaṇo.
 
-Yo hi koci manussesu,\
-puthusippena jīvati;\
-Evaṁ vāseṭṭha jānāhi,\
-sippiko so na brāhmaṇo.
+> Yo hi koci manussesu,\
+> puthusippena jīvati;\
+> Evaṁ vāseṭṭha jānāhi,\
+> sippiko so na brāhmaṇo.
 
-Yo hi koci manussesu,\
-vohāraṁ upajīvati;\
-Evaṁ vāseṭṭha jānāhi,\
-vāṇijo so na brāhmaṇo.
+> Yo hi koci manussesu,\
+> vohāraṁ upajīvati;\
+> Evaṁ vāseṭṭha jānāhi,\
+> vāṇijo so na brāhmaṇo.
 
-Yo hi koci manussesu,\
-parapessena jīvati;\
-Evaṁ vāseṭṭha jānāhi,\
-pessako so na brāhmaṇo.
+> Yo hi koci manussesu,\
+> parapessena jīvati;\
+> Evaṁ vāseṭṭha jānāhi,\
+> pessako so na brāhmaṇo.
 
-Yo hi koci manussesu,\
-adinnaṁ upajīvati;\
-Evaṁ vāseṭṭha jānāhi,\
-coro eso na brāhmaṇo.
+> Yo hi koci manussesu,\
+> adinnaṁ upajīvati;\
+> Evaṁ vāseṭṭha jānāhi,\
+> coro eso na brāhmaṇo.
 
-Yo hi koci manussesu,\
-issatthaṁ upajīvati;\
-Evaṁ vāseṭṭha jānāhi,\
-yodhājīvo na brāhmaṇo.
+> Yo hi koci manussesu,\
+> issatthaṁ upajīvati;\
+> Evaṁ vāseṭṭha jānāhi,\
+> yodhājīvo na brāhmaṇo.
 
-Yo hi koci manussesu,\
-porohiccena jīvati;\
-Evaṁ vāseṭṭha jānāhi,\
-yājako so na brāhmaṇo.
+> Yo hi koci manussesu,\
+> porohiccena jīvati;\
+> Evaṁ vāseṭṭha jānāhi,\
+> yājako so na brāhmaṇo.
 
-Yo hi koci manussesu,\
-gāmaṁ raṭṭhañca bhuñjati;\
-Evaṁ vāseṭṭha jānāhi,\
-rājā eso na brāhmaṇo.
+> Yo hi koci manussesu,\
+> gāmaṁ raṭṭhañca bhuñjati;\
+> Evaṁ vāseṭṭha jānāhi,\
+> rājā eso na brāhmaṇo.
 
-11\. Na cāhaṁ brāhmaṇaṁ brūmi,\
-yonijaṁ mattisambhavaṁ;\
-Bhovādi nāma so hoti,\
-sace hoti sakiñcano;\
-Akiñcanaṁ anādānaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+11\.
+> Na cāhaṁ brāhmaṇaṁ brūmi,\
+> yonijaṁ mattisambhavaṁ;\
+> Bhovādi nāma so hoti,\
+> sace hoti sakiñcano;\
+> Akiñcanaṁ anādānaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Sabbasaṁyojanaṁ chetvā,\
-yo ve na paritassati;\
-Saṅgātigaṁ visaṁyuttaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Sabbasaṁyojanaṁ chetvā,\
+> yo ve na paritassati;\
+> Saṅgātigaṁ visaṁyuttaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Chetvā naddhiṁ varattañca,\
-sandānaṁ sahanukkamaṁ;\
-Ukkhittapalighaṁ buddhaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Chetvā naddhiṁ varattañca,\
+> sandānaṁ sahanukkamaṁ;\
+> Ukkhittapalighaṁ buddhaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Akkosaṁ vadhabandhañca,\
-aduṭṭho yo titikkhati;\
-Khantībalaṁ balānīkaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Akkosaṁ vadhabandhañca,\
+> aduṭṭho yo titikkhati;\
+> Khantībalaṁ balānīkaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Akkodhanaṁ vatavantaṁ,\
-sīlavantaṁ anussadaṁ;\
-Dantaṁ antimasārīraṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Akkodhanaṁ vatavantaṁ,\
+> sīlavantaṁ anussadaṁ;\
+> Dantaṁ antimasārīraṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Vāripokkharapatteva,\
-āraggeriva sāsapo;\
-Yo na limpati kāmesu,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Vāripokkharapatteva,\
+> āraggeriva sāsapo;\
+> Yo na limpati kāmesu,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yo dukkhassa pajānāti,\
-idheva khayamattano;\
-Pannabhāraṁ visaṁyuttaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yo dukkhassa pajānāti,\
+> idheva khayamattano;\
+> Pannabhāraṁ visaṁyuttaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Gambhīrapaññaṁ medhāviṁ,\
-maggāmaggassa kovidaṁ;\
-Uttamatthamanuppattaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Gambhīrapaññaṁ medhāviṁ,\
+> maggāmaggassa kovidaṁ;\
+> Uttamatthamanuppattaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Asaṁsaṭṭhaṁ gahaṭṭhehi,\
-anāgārehi cūbhayaṁ;\
-Anokasārimappicchaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Asaṁsaṭṭhaṁ gahaṭṭhehi,\
+> anāgārehi cūbhayaṁ;\
+> Anokasārimappicchaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Nidhāya daṇḍaṁ bhūtesu,\
-tasesu thāvaresu ca;\
-Yo na hanti na ghāteti,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Nidhāya daṇḍaṁ bhūtesu,\
+> tasesu thāvaresu ca;\
+> Yo na hanti na ghāteti,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Aviruddhaṁ viruddhesu,\
-attadaṇḍesu nibbutaṁ;\
-Sādānesu anādānaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Aviruddhaṁ viruddhesu,\
+> attadaṇḍesu nibbutaṁ;\
+> Sādānesu anādānaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yassa rāgo ca doso ca,\
-māno makkho ca ohito;\
-Sāsaporiva āraggā,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yassa rāgo ca doso ca,\
+> māno makkho ca ohito;\
+> Sāsaporiva āraggā,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Akakkasaṁ viññāpaniṁ,\
-giraṁ saccaṁ udīraye;\
-Yāya nābhisajje kiñci,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Akakkasaṁ viññāpaniṁ,\
+> giraṁ saccaṁ udīraye;\
+> Yāya nābhisajje kiñci,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yo ca dīghaṁ va rassaṁ vā,\
-aṇuṁ thūlaṁ subhāsubhaṁ;\
-Loke adinnaṁ nādeti,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yo ca dīghaṁ va rassaṁ vā,\
+> aṇuṁ thūlaṁ subhāsubhaṁ;\
+> Loke adinnaṁ nādeti,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Āsā yassa na vijjanti,\
-asmiṁ loke paramhi ca;\
-Nirāsāsaṁ visaṁyuttaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Āsā yassa na vijjanti,\
+> asmiṁ loke paramhi ca;\
+> Nirāsāsaṁ visaṁyuttaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yassālayā na vijjanti,\
-aññāya akathaṅkathiṁ;\
-Amatogadhaṁ anuppattaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yassālayā na vijjanti,\
+> aññāya akathaṅkathiṁ;\
+> Amatogadhaṁ anuppattaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yodhapuññañca pāpañca,\
-ubho saṅgaṁ upaccagā;\
-Asokaṁ virajaṁ suddhaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yodhapuññañca pāpañca,\
+> ubho saṅgaṁ upaccagā;\
+> Asokaṁ virajaṁ suddhaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Candaṁ va vimalaṁ suddhaṁ,\
-vippasannaṁ anāvilaṁ;\
-Nandībhavaparikkhīṇaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Candaṁ va vimalaṁ suddhaṁ,\
+> vippasannaṁ anāvilaṁ;\
+> Nandībhavaparikkhīṇaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yo imaṁ palipathaṁ duggaṁ,\
-saṁsāraṁ mohamaccagā;\
-Tiṇṇo pāraṅgato jhāyī,\
-anejo akathaṅkathī;\
-Anupādāya nibbuto,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yo imaṁ palipathaṁ duggaṁ,\
+> saṁsāraṁ mohamaccagā;\
+> Tiṇṇo pāraṅgato jhāyī,\
+> anejo akathaṅkathī;\
+> Anupādāya nibbuto,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yodhakāme pahantvāna,\
-anāgāro paribbaje;\
-Kāmabhavaparikkhīṇaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yodhakāme pahantvāna,\
+> anāgāro paribbaje;\
+> Kāmabhavaparikkhīṇaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yodhataṇhaṁ pahantvāna,\
-anāgāro paribbaje;\
-Taṇhābhavaparikkhīṇaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yodhataṇhaṁ pahantvāna,\
+> anāgāro paribbaje;\
+> Taṇhābhavaparikkhīṇaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Hitvā mānusakaṁ yogaṁ,\
-dibbaṁ yogaṁ upaccagā;\
-Sabbayogavisaṁyuttaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Hitvā mānusakaṁ yogaṁ,\
+> dibbaṁ yogaṁ upaccagā;\
+> Sabbayogavisaṁyuttaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Hitvā ratiñca aratiṁ,\
-sītībhūtaṁ nirūpadhiṁ;\
-Sabbalokābhibhuṁ vīraṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Hitvā ratiñca aratiṁ,\
+> sītībhūtaṁ nirūpadhiṁ;\
+> Sabbalokābhibhuṁ vīraṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Cutiṁ yo vedi sattānaṁ,\
-upapattiñca sabbaso;\
-Asattaṁ sugataṁ buddhaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Cutiṁ yo vedi sattānaṁ,\
+> upapattiñca sabbaso;\
+> Asattaṁ sugataṁ buddhaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yassa gatiṁ na jānanti,\
-devā gandhabbamānusā;\
-Khīṇāsavaṁ arahantaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yassa gatiṁ na jānanti,\
+> devā gandhabbamānusā;\
+> Khīṇāsavaṁ arahantaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Yassa pure ca pacchā ca,\
-majjhe ca natthi kiñcanaṁ;\
-Akiñcanaṁ anādānaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Yassa pure ca pacchā ca,\
+> majjhe ca natthi kiñcanaṁ;\
+> Akiñcanaṁ anādānaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Usabhaṁ pavaraṁ vīraṁ,\
-mahesiṁ vijitāvinaṁ;\
-Anejaṁ nhātakaṁ buddhaṁ,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Usabhaṁ pavaraṁ vīraṁ,\
+> mahesiṁ vijitāvinaṁ;\
+> Anejaṁ nhātakaṁ buddhaṁ,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-Pubbenivāsaṁ yo vedi,\
-saggāpāyañca passati;\
-Atho jātikkhayaṁ patto,\
-tamahaṁ brūmi brāhmaṇaṁ.
+> Pubbenivāsaṁ yo vedi,\
+> saggāpāyañca passati;\
+> Atho jātikkhayaṁ patto,\
+> tamahaṁ brūmi brāhmaṇaṁ.
 
-12\. Samaññā hesā lokasmiṁ,\
-nāmagottaṁ pakappitaṁ;\
-Sammuccā samudāgataṁ,\
-tattha tattha pakappitaṁ.
+12\.
+> Samaññā hesā lokasmiṁ,\
+> nāmagottaṁ pakappitaṁ;\
+> Sammuccā samudāgataṁ,\
+> tattha tattha pakappitaṁ.
 
-Dīgharattānusayitaṁ,\
-diṭṭhigatamajānataṁ;\
-Ajānantā no pabrunti,\
-jātiyā hoti brāhmaṇo.
+> Dīgharattānusayitaṁ,\
+> diṭṭhigatamajānataṁ;\
+> Ajānantā no pabrunti,\
+> jātiyā hoti brāhmaṇo.
 
-Na jaccā brāhmaṇo hoti,\
-na jaccā hoti abrāhmaṇo;\
-Kammunā brāhmaṇo hoti,\
-kammunā hoti abrāhmaṇo.
+> Na jaccā brāhmaṇo hoti,\
+> na jaccā hoti abrāhmaṇo;\
+> Kammunā brāhmaṇo hoti,\
+> kammunā hoti abrāhmaṇo.
 
-Kassako kammunā hoti,\
-sippiko hoti kammunā;\
-Vāṇijo kammunā hoti,\
-pessako hoti kammunā.
+> Kassako kammunā hoti,\
+> sippiko hoti kammunā;\
+> Vāṇijo kammunā hoti,\
+> pessako hoti kammunā.
 
-Coropi kammunā hoti,\
-yodhājīvopi kammunā;\
-Yājako kammunā hoti,\
-rājāpi hoti kammunā.
+> Coropi kammunā hoti,\
+> yodhājīvopi kammunā;\
+> Yājako kammunā hoti,\
+> rājāpi hoti kammunā.
 
-13\. Evametaṁ yathābhūtaṁ,\
-kammaṁ passanti paṇḍitā;\
-Paṭiccasamuppādadassā,\
-kammavipākakovidā.
+13\.
+> Evametaṁ yathābhūtaṁ,\
+> kammaṁ passanti paṇḍitā;\
+> Paṭiccasamuppādadassā,\
+> kammavipākakovidā.
 
-Kammunā vattati loko,\
-kammunā vattati pajā;\
-Kammanibandhanā sattā,\
-rathassāṇīva yāyato.
+> Kammunā vattati loko,\
+> kammunā vattati pajā;\
+> Kammanibandhanā sattā,\
+> rathassāṇīva yāyato.
 
-Tapena brahmacariyena,\
-saṁyamena damena ca;\
-Etena brāhmaṇo hoti,\
-etaṁ brāhmaṇamuttamaṁ.
+> Tapena brahmacariyena,\
+> saṁyamena damena ca;\
+> Etena brāhmaṇo hoti,\
+> etaṁ brāhmaṇamuttamaṁ.
 
-Tīhi vijjāhi sampanno,\
-santo khīṇapunabbhavo;\
-Evaṁ vāseṭṭha jānāhi,\
-brahmā sakko vijānatan”ti.
+> Tīhi vijjāhi sampanno,\
+> santo khīṇapunabbhavo;\
+> Evaṁ vāseṭṭha jānāhi,\
+> brahmā sakko vijānatan”ti.
 
 14\. Evaṁ vutte, vāseṭṭhabhāradvājā māṇavā bhagavantaṁ etadavocuṁ: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Ete mayaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca. Upāsake no bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gate”ti.
 

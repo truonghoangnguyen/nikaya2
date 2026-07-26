@@ -1,6 +1,6 @@
 # DN 29. Pāsādikasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sakkesu viharati vedhaññā nāma sakyā, tesaṁ ambavane pāsāde.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati vedhaññā nāma sakyā, tesaṁ ambavane pāsāde.
 
 Tena kho pana samayena nigaṇṭho nāṭaputto pāvāyaṁ adhunākālaṅkato hoti. Tassa kālaṅkiriyāya bhinnā nigaṇṭhā dvedhikajātā bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharanti:
 

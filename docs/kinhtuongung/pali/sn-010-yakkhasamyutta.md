@@ -4,7 +4,7 @@
 
 ### 10.1 Indakasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati indakūṭe pabbate, indakassa yakkhassa bhavane.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati indakūṭe pabbate, indakassa yakkhassa bhavane.
 
 Atha kho indako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya ajjhabhāsi:
 
@@ -342,7 +342,7 @@ Tena kho pana samayena aññataro upāsako sukkāya bhikkhuniyā bhojanaṁ adā
 
 ### 10.11 Cīrāsutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
 Tena kho pana samayena aññataro upāsako cīrāya bhikkhuniyā cīvaraṁ adāsi. Atha kho cīrāya bhikkhuniyā abhippasanno yakkho rājagahe rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā tāyaṁ velāyaṁ imaṁ gāthaṁ abhāsi:
 
@@ -353,7 +353,7 @@ Tena kho pana samayena aññataro upāsako cīrāya bhikkhuniyā cīvaraṁ adā
 
 ### 10.12 Āḷavakasutta
 
-1\. Evaṁ me sutaṁ— “Sādhāvuso”ti bhagavā nikkhami.
+1\. Evaṁ me sutaṁ—“Sādhāvuso”ti bhagavā nikkhami.
 
 “Pavisa, samaṇā”ti.
 

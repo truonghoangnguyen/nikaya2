@@ -52,7 +52,7 @@ Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘na vātā vāyanti, na najjo sandanti, na gabbhiniyo vijāyanti, na candimasūriyā udenti vā apenti vā esikaṭṭhāyiṭṭhitā’”ti?
 
-5\. “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+5\. “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 Paṭhamaṁ.
 
@@ -88,7 +88,7 @@ rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 “Aniccaṁ, bhante” …pe…
 
-api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 3\. Dutiyaṁ.
 
@@ -122,7 +122,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: rūpaṁ niccaṁ vā ani
 
 api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘so attā …pe… avipariṇāmadhammo’”ti? “No hetaṁ, bhante”.
 
-“Vedanā … saññā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+“Vedanā … saññā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 4\. Tatiyaṁ.
 
@@ -156,7 +156,7 @@ rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘no cassaṁ, no ca me siyā, nābhavissa, na me bhavissatī’”ti? “No hetaṁ, bhante”.
 
-“Vedanā … saññā … saṅkhārā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+“Vedanā … saññā … saṅkhārā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 4\. Catutthaṁ.
 
@@ -190,7 +190,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: rūpaṁ niccaṁ vā ani
 
 api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘natthi dinnaṁ, natthi yiṭṭhaṁ …pe… kāyassa bhedā ucchijjanti vinassanti na honti paraṁ maraṇā’”ti? “No hetaṁ, bhante”.
 
-“Vedanā … saññā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+“Vedanā … saññā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 4\. Pañcamaṁ.
 
@@ -224,7 +224,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: rūpaṁ niccaṁ vā ani
 
 api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘karoto …pe… natthi puññaṁ natthi puññassa āgamo”ti? “No hetaṁ, bhante”.
 
-“Vedanā … saññā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+“Vedanā … saññā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 4\. Chaṭṭhaṁ.
 
@@ -256,7 +256,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: rūpaṁ niccaṁ vā ani
 
 “Aniccaṁ, bhante …pe… vipariṇāmadhammaṁ, api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘natthi hetu, natthi paccayo …pe… sukhadukkhaṁ paṭisaṁvedentī’”ti? “No hetaṁ, bhante”.
 
-“Vedanā … saññā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+“Vedanā … saññā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 4\. Sattamaṁ.
 
@@ -284,7 +284,7 @@ rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 “Aniccaṁ, bhante …pe…
 
-4\. “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+4\. “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 Aṭṭhamaṁ.
 
@@ -308,7 +308,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘sassato loko’”ti? 
 
 “No hetaṁ, bhante”.
 
-“Aniccaṁ, bhante” …pe… vipariṇāmadhammaṁ, api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘sassato loko’”ti? “No hetaṁ, bhante”. “Vedanā … saññā … saṅkhārā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+“Aniccaṁ, bhante” …pe… vipariṇāmadhammaṁ, api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘sassato loko’”ti? “No hetaṁ, bhante”. “Vedanā … saññā … saṅkhārā … “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 4\. Navamaṁ.
 
@@ -328,7 +328,7 @@ viññāṇaṁ niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante” …pe�
 
 api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘asassato loko’”ti? “No hetaṁ, bhante”. “Yampidaṁ diṭṭhaṁ sutaṁ mutaṁ viññātaṁ pattaṁ pariyesitaṁ anuvicaritaṁ manasā tampi niccaṁ vā aniccaṁ vā”ti? “Aniccaṁ, bhante …pe…
 
-api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti …pe… dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 3\. Dasamaṁ.
 
@@ -430,7 +430,7 @@ rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 “Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?
 
-4\. “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti— ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti. Aṭṭhārasamaṁ.
+4\. “Yato kho, bhikkhave, ariyasāvakassa imesu ca ṭhānesu kaṅkhā pahīnā hoti, dukkhepissa kaṅkhā pahīnā hoti, dukkhasamudayepissa kaṅkhā pahīnā hoti, dukkhanirodhepissa kaṅkhā pahīnā hoti, dukkhanirodhagāminiyā paṭipadāyapissa kaṅkhā pahīnā hoti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti. Aṭṭhārasamaṁ.
 
 Sotāpattivaggo.
 
@@ -478,7 +478,7 @@ rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 “Aniccaṁ, bhante” …pe… vipariṇāmadhammaṁ,
 
-api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya— na vātā vāyanti …pe… esikaṭṭhāyiṭṭhitā”ti?
+api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya—na vātā vāyanti …pe… esikaṭṭhāyiṭṭhitā”ti?
 
 “No hetaṁ, bhante”.
 
@@ -624,7 +624,7 @@ Dutiyapeyyālo.
 
 “Bhagavaṁmūlakā no, bhante, dhammā …pe….
 
-2\. “Rūpe kho, bhikkhave, sati, rūpaṁ upādāya, rūpaṁ abhinivissa evaṁ diṭṭhi uppajjati— na vātā vāyanti …pe… vedanāya sati … saññāya sati … saṅkhāresu sati … viññāṇe sati, viññāṇaṁ upādāya, viññāṇaṁ abhinivissa evaṁ diṭṭhi uppajjati: ‘na vātā vāyanti …pe… esikaṭṭhāyiṭṭhitā’ti.
+2\. “Rūpe kho, bhikkhave, sati, rūpaṁ upādāya, rūpaṁ abhinivissa evaṁ diṭṭhi uppajjati—na vātā vāyanti …pe… vedanāya sati … saññāya sati … saṅkhāresu sati … viññāṇe sati, viññāṇaṁ upādāya, viññāṇaṁ abhinivissa evaṁ diṭṭhi uppajjati: ‘na vātā vāyanti …pe… esikaṭṭhāyiṭṭhitā’ti.
 
 3\. Taṁ kiṁ maññatha, bhikkhave, “Vedanā … saññā … saṅkhārā … viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?
 

@@ -146,9 +146,9 @@ Thinamiddhapariyuṭṭhitassa purisapuggalassa vigatathinamiddhatā hoti parini
 
 Idamavoca bhagavā. Attamano āyasmā mahācundo bhagavato bhāsitaṁ abhinandīti.
 
-Catuttālīsapadā vuttā,\
-sandhayo pañca desitā;\
-Sallekho nāma suttanto,\
-gambhīro sāgarūpamoti.
+> Catuttālīsapadā vuttā,\
+> sandhayo pañca desitā;\
+> Sallekho nāma suttanto,\
+> gambhīro sāgarūpamoti.
 
 Sallekhasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.

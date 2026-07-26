@@ -54,7 +54,7 @@ Evameva kho, rādha, tumhepi rūpaṁ vikiratha vidhamatha viddhaṁsetha vikī�
 
 1\. Sāvatthinidānaṁ.
 
-saṅkhāresu … viññāṇe yo chando …pe… adhiṭṭhānābhinivesānusayā— ayaṁ vuccati bhavanetti. Tesaṁ nirodho bhavanettinirodho”ti.
+saṅkhāresu … viññāṇe yo chando …pe… adhiṭṭhānābhinivesānusayā—ayaṁ vuccati bhavanetti. Tesaṁ nirodho bhavanettinirodho”ti.
 
 Tatiyaṁ.
 
@@ -62,7 +62,7 @@ Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
 “‘bhavanettinirodho, bhavanettinirodho’ti, bhante, vuccati. Katamā nu kho, bhante, bhavanetti, katamo bhavanettinirodho”ti?
 
-“Rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā— ayaṁ vuccati bhavanetti. Tesaṁ nirodho bhavanettinirodho.
+“Rūpe kho, rādha, yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso adhiṭṭhānābhinivesānusayā—ayaṁ vuccati bhavanetti. Tesaṁ nirodho bhavanettinirodho.
 
 Vedanāya … saññāya …
 
@@ -74,7 +74,7 @@ Vedanāya … saññāya …
 
 2\. “Pariññeyye ca, rādha, dhamme desessāmi pariññañca pariññātāviṁ puggalañca. ayaṁ vuccati, rādha, pariññā.
 
-Katamo ca, rādha, pariññātāvī puggalo? ‘Arahā’tissa vacanīyaṁ. Yvāyaṁ āyasmā evaṁnāmo evaṅgotto— ayaṁ vuccati, rādha, pariññātāvī puggalo”ti.
+Katamo ca, rādha, pariññātāvī puggalo? ‘Arahā’tissa vacanīyaṁ. Yvāyaṁ āyasmā evaṁnāmo evaṅgotto—ayaṁ vuccati, rādha, pariññātāvī puggalo”ti.
 
 Catutthaṁ.
 
@@ -120,7 +120,7 @@ Chaṭṭhaṁ.
 
 Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
-“pañcime, rādha, upādānakkhandhā. Katame pañca? Rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Yato kho, rādha, ariyasāvako imesaṁ pañcannaṁ upādānakkhandhānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti— ayaṁ vuccati, rādha, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
+“pañcime, rādha, upādānakkhandhā. Katame pañca? Rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Yato kho, rādha, ariyasāvako imesaṁ pañcannaṁ upādānakkhandhānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti—ayaṁ vuccati, rādha, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyano”ti.
 
 Sattamaṁ.
 
@@ -130,7 +130,7 @@ Sattamaṁ.
 
 Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
-“pañcime, rādha, upādānakkhandhā. Katame pañca? Rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Yato kho, rādha, bhikkhu imesaṁ pañcannaṁ upādānakkhandhānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti— ayaṁ vuccati, rādha, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto”ti.
+“pañcime, rādha, upādānakkhandhā. Katame pañca? Rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Yato kho, rādha, bhikkhu imesaṁ pañcannaṁ upādānakkhandhānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti—ayaṁ vuccati, rādha, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto”ti.
 
 Aṭṭhamaṁ.
 

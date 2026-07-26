@@ -1,6 +1,6 @@
 # DN 27. Aggaññasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde.
 
 Tena kho pana samayena vāseṭṭhabhāradvājā bhikkhūsu parivasanti bhikkhubhāvaṁ ākaṅkhamānā. Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito pāsādā orohitvā pāsādapacchāyāyaṁ abbhokāse caṅkamati.
 
@@ -22,7 +22,7 @@ Atha kho vāseṭṭhabhāradvājā yena bhagavā tenupasaṅkamiṁsu; upasaṅ
 
 ## 1. Catuvaṇṇasuddhi
 
-5\. Cattārome, vāseṭṭha, vaṇṇā— khattiyā, brāhmaṇā, vessā, suddā. Khattiyopi kho, vāseṭṭha, idhekacco pāṇātipātī hoti adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhī. Iti kho, vāseṭṭha, yeme dhammā akusalā akusalasaṅkhātā sāvajjā sāvajjasaṅkhātā asevitabbā asevitabbasaṅkhātā naalamariyā naalamariyasaṅkhātā kaṇhā kaṇhavipākā viññugarahitā, khattiyepi te idhekacce sandissanti. Brāhmaṇopi kho, vāseṭṭha …pe… vessopi kho, vāseṭṭha …pe… suddopi kho, vāseṭṭha, idhekacco pāṇātipātī hoti adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhī. Iti kho, vāseṭṭha, yeme dhammā akusalā akusalasaṅkhātā …pe… kaṇhā kaṇhavipākā viññugarahitā; suddepi te idhekacce sandissanti.
+5\. Cattārome, vāseṭṭha, vaṇṇā—khattiyā, brāhmaṇā, vessā, suddā. Khattiyopi kho, vāseṭṭha, idhekacco pāṇātipātī hoti adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhī. Iti kho, vāseṭṭha, yeme dhammā akusalā akusalasaṅkhātā sāvajjā sāvajjasaṅkhātā asevitabbā asevitabbasaṅkhātā naalamariyā naalamariyasaṅkhātā kaṇhā kaṇhavipākā viññugarahitā, khattiyepi te idhekacce sandissanti. Brāhmaṇopi kho, vāseṭṭha …pe… vessopi kho, vāseṭṭha …pe… suddopi kho, vāseṭṭha, idhekacco pāṇātipātī hoti adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhī. Iti kho, vāseṭṭha, yeme dhammā akusalā akusalasaṅkhātā …pe… kaṇhā kaṇhavipākā viññugarahitā; suddepi te idhekacce sandissanti.
 
 6\. Khattiyopi kho, vāseṭṭha, idhekacco pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato, musāvādā paṭivirato, pisuṇāya vācāya paṭivirato, pharusāya vācāya paṭivirato, samphappalāpā paṭivirato, anabhijjhālu abyāpannacitto, sammādiṭṭhī. Iti kho, vāseṭṭha, yeme dhammā kusalā kusalasaṅkhātā anavajjā anavajjasaṅkhātā sevitabbā sevitabbasaṅkhātā alamariyā alamariyasaṅkhātā sukkā sukkavipākā viññuppasatthā, khattiyepi te idhekacce sandissanti. Brāhmaṇopi kho, vāseṭṭha …pe… vessopi kho, vāseṭṭha …pe… suddopi kho, vāseṭṭha, idhekacco pāṇātipātā paṭivirato hoti …pe… anabhijjhālu, abyāpannacitto, sammādiṭṭhī. Iti kho, vāseṭṭha, yeme dhammā kusalā kusalasaṅkhātā anavajjā anavajjasaṅkhātā sevitabbā sevitabbasaṅkhātā alamariyā alamariyasaṅkhātā sukkā sukkavipākā viññuppasatthā; suddepi te idhekacce sandissanti.
 
@@ -166,17 +166,17 @@ Imehi kho, vāseṭṭha, catūhi maṇḍalehi samaṇamaṇḍalassa abhinibba
 
 32\. Brahmunā pesā, vāseṭṭha, sanaṅkumārena gāthā bhāsitā:
 
-‘Khattiyo seṭṭho janetasmiṁ,\
-ye gottapaṭisārino;\
-Vijjācaraṇasampanno,\
-so seṭṭho devamānuse’ti.
+> ‘Khattiyo seṭṭho janetasmiṁ,\
+> ye gottapaṭisārino;\
+> Vijjācaraṇasampanno,\
+> so seṭṭho devamānuse’ti.
 
 Sā kho panesā, vāseṭṭha, brahmunā sanaṅkumārena gāthā sugītā, no duggītā. Subhāsitā, no dubbhāsitā. Atthasaṁhitā, no anatthasaṁhitā. Anumatā mayā. Ahampi, vāseṭṭha, evaṁ vadāmi—
 
-Khattiyo seṭṭho janetasmiṁ,\
-ye gottapaṭisārino;\
-Vijjācaraṇasampanno,\
-so seṭṭho devamānuse”ti.
+> Khattiyo seṭṭho janetasmiṁ,\
+> ye gottapaṭisārino;\
+> Vijjācaraṇasampanno,\
+> so seṭṭho devamānuse”ti.
 
 Idamavoca bhagavā. Attamanā vāseṭṭhabhāradvājā bhagavato bhāsitaṁ abhinandunti.
 

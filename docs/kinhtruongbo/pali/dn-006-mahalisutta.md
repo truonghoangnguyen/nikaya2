@@ -2,7 +2,7 @@
 
 ## 1. Brāhmaṇadūtavatthu
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena sambahulā kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā vesāliyaṁ paṭivasanti kenacideva karaṇīyena. Assosuṁ kho te kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā:
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena sambahulā kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā vesāliyaṁ paṭivasanti kenacideva karaṇīyena. Assosuṁ kho te kosalakā ca brāhmaṇadūtā māgadhakā ca brāhmaṇadūtā:
 
 “samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
 
@@ -84,7 +84,7 @@ Ime kho te, mahāli, dhammā uttaritarā ca paṇītatarā ca, yesaṁ sacchikir
 
 ### 2.4. Dvepabbajitavatthu
 
-15\. Ekamidāhaṁ, mahāli, samayaṁ kosambiyaṁ viharāmi ghositārāme. Atha kho dve pabbajitā— muṇḍiyo ca paribbājako jāliyo ca dārupattikantevāsī yenāhaṁ tenupasaṅkamiṁsu. upasaṅkamitvā mayā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho te dve pabbajitā maṁ etadavocuṁ: ‘kiṁ nu kho, āvuso gotama, taṁ jīvaṁ taṁ sarīraṁ, udāhu aññaṁ jīvaṁ aññaṁ sarīran’ti?
+15\. Ekamidāhaṁ, mahāli, samayaṁ kosambiyaṁ viharāmi ghositārāme. Atha kho dve pabbajitā—muṇḍiyo ca paribbājako jāliyo ca dārupattikantevāsī yenāhaṁ tenupasaṅkamiṁsu. upasaṅkamitvā mayā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho te dve pabbajitā maṁ etadavocuṁ: ‘kiṁ nu kho, āvuso gotama, taṁ jīvaṁ taṁ sarīraṁ, udāhu aññaṁ jīvaṁ aññaṁ sarīran’ti?
 
 16\. ‘Tena hāvuso, suṇātha sādhukaṁ manasi karotha bhāsissāmī’ti.
 

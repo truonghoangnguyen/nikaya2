@@ -4,7 +4,7 @@
 
 ### 8.1 Nikkhantasutta
 
-1\. Evaṁ me sutaṁ— Atha kho āyasmā vaṅgīso attanāva attano anabhiratiṁ vinodetvā abhiratiṁ uppādetvā tāyaṁ velāyaṁ imā gāthāyo abhāsi:
+1\. Evaṁ me sutaṁ—Atha kho āyasmā vaṅgīso attanāva attano anabhiratiṁ vinodetvā abhiratiṁ uppādetvā tāyaṁ velāyaṁ imā gāthāyo abhāsi:
 
 ekaṁ samayaṁ āyasmā vaṅgīso āḷaviyaṁ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṁ.
 

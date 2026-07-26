@@ -4,7 +4,7 @@
 
 ### 6.1 Brahmāyācanasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho.
 
 Atha kho bhagavato rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi: “adhigato kho myāyaṁ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. Ālayarāmā kho panāyaṁ pajā ālayaratā ālayasammuditā. Ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṁ idaṁ ṭhānaṁ yadidaṁ idappaccayatāpaṭiccasamuppādo. Idampi kho ṭhānaṁ duddasaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. Ahañceva kho pana dhammaṁ deseyyaṁ; pare ca me na ājāneyyuṁ; so mamassa kilamatho, sā mamassa vihesā”ti.
 
@@ -64,7 +64,7 @@ Disvāna brahmānaṁ sahampatiṁ gāthāya paccabhāsi:
 
 ### 6.2 Gāravasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho.
 
 Atha kho bhagavato rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi: “dukkhaṁ kho agāravo viharati appatisso, kaṁ nu khvāhaṁ samaṇaṁ vā brāhmaṇaṁ vā sakkatvā garuṁ katvā upanissāya vihareyyan”ti?
 
@@ -103,7 +103,7 @@ Idamavoca brahmā sahampati, idaṁ vatvā athāparaṁ etadavoca:
 
 ### 6.3 Brahmadevasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tena kho pana samayena aññatarissā brāhmaṇiyā brahmadevo nāma putto bhagavato santike agārasmā anagāriyaṁ pabbajito hoti.
 
@@ -156,7 +156,7 @@ Atha kho brahmā sahampati—seyyathāpi nāma balavā puriso samiñjitaṁ vā 
 
 ### 6.4 Bakabrahmasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tena kho pana samayena bakassa brahmuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: “idaṁ niccaṁ, idaṁ dhuvaṁ, idaṁ sassataṁ, idaṁ kevalaṁ, idaṁ acavanadhammaṁ, idañhi na jāyati na jīyati na mīyati na cavati na upapajjati, ito ca panaññaṁ uttari nissaraṇaṁ natthī”ti.
 
@@ -444,7 +444,7 @@ khippataraṁ kho so, bhikkhu, vīsatikhāriko kosalako tilavāho iminā upakkam
 
 ### 6.11 Sanaṅkumārasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati sappinītīre.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati sappinītīre.
 
 Atha kho brahmā sanaṅkumāro abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ sappinītīraṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho brahmā sanaṅkumāro bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -457,7 +457,7 @@ Atha kho brahmā sanaṅkumāro abhikkantāya rattiyā abhikkantavaṇṇo keval
 
 ### 6.12 Devadattasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate acirapakkante devadatte.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate acirapakkante devadatte.
 
 Atha kho brahmā sahampati abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ gijjhakūṭaṁ pabbataṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho brahmā sahampati devadattaṁ ārabbha bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -506,7 +506,7 @@ Atha kho brahmā sahampati abhikkantāya rattiyā abhikkantavaṇṇo kevalakapp
 
 ### 6.14 Aruṇavatīsutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati …pe… tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati …pe… tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -533,13 +533,13 @@ Atha kho, bhikkhave, sikhī bhagavā arahaṁ sammāsambuddho abhibhuṁ bhikkhu
 
 Tatra sudaṁ, bhikkhave, brahmā ca brahmaparisā ca brahmapārisajjā ca ujjhāyanti khiyyanti vipācenti: ‘acchariyaṁ vata, bho, abbhutaṁ vata bho, kathañhi nāma satthari sammukhībhūte sāvako dhammaṁ desessatī’ti.
 
-4\. Atha kho, bhikkhave, sikhī bhagavā arahaṁ sammāsambuddho abhibhuṁ bhikkhuṁ āmantesi: ‘ujjhāyanti kho te, brāhmaṇa, brahmā ca brahmaparisā ca brahmapārisajjā ca— acchariyaṁ vata bho, abbhutaṁ vata bho, kathañhi nāma satthari sammukhībhūte sāvako dhammaṁ desessatīti. Tena hi tvaṁ, brāhmaṇa, bhiyyoso mattāya brahmānañca brahmaparisañca brahmapārisajje ca saṁvejehī’ti.
+4\. Atha kho, bhikkhave, sikhī bhagavā arahaṁ sammāsambuddho abhibhuṁ bhikkhuṁ āmantesi: ‘ujjhāyanti kho te, brāhmaṇa, brahmā ca brahmaparisā ca brahmapārisajjā ca—acchariyaṁ vata bho, abbhutaṁ vata bho, kathañhi nāma satthari sammukhībhūte sāvako dhammaṁ desessatīti. Tena hi tvaṁ, brāhmaṇa, bhiyyoso mattāya brahmānañca brahmaparisañca brahmapārisajje ca saṁvejehī’ti.
 
 ‘Evaṁ, bhante’ti kho, bhikkhave, abhibhū bhikkhu sikhissa bhagavato arahato sammāsambuddhassa paṭissutvā dissamānenapi kāyena dhammaṁ desesi, adissamānenapi kāyena dhammaṁ desesi, dissamānenapi heṭṭhimena upaḍḍhakāyena adissamānena uparimena upaḍḍhakāyena dhammaṁ desesi, dissamānenapi uparimena upaḍḍhakāyena adissamānena heṭṭhimena upaḍḍhakāyena dhammaṁ desesi.
 
 Tatra sudaṁ, bhikkhave, brahmā ca brahmaparisā ca brahmapārisajjā ca acchariyabbhutacittajātā ahesuṁ: ‘acchariyaṁ vata bho, abbhutaṁ vata bho, samaṇassa mahiddhikatā mahānubhāvatā’ti.
 
-5\. Atha kho abhibhū bhikkhu sikhiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca: ‘abhijānāmi khvāhaṁ, bhante, bhikkhusaṅghassa majjhe evarūpiṁ vācaṁ bhāsitā— pahomi khvāhaṁ, āvuso, brahmaloke ṭhito sahassilokadhātuṁ sarena viññāpetun’ti.
+5\. Atha kho abhibhū bhikkhu sikhiṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca: ‘abhijānāmi khvāhaṁ, bhante, bhikkhusaṅghassa majjhe evarūpiṁ vācaṁ bhāsitā—pahomi khvāhaṁ, āvuso, brahmaloke ṭhito sahassilokadhātuṁ sarena viññāpetun’ti.
 
 ‘Etassa, brāhmaṇa, kālo, etassa, brāhmaṇa, kālo; yaṁ tvaṁ, brāhmaṇa, brahmaloke ṭhito sahassilokadhātuṁ sarena viññāpeyyāsī’ti.
 
@@ -555,7 +555,7 @@ Tatra sudaṁ, bhikkhave, brahmā ca brahmaparisā ca brahmapārisajjā ca accha
 > Pahāya jātisaṁsāraṁ,\
 > dukkhassantaṁ karissatī’ti.
 
-8\. Atha kho, bhikkhave, sikhī ca bhagavā arahaṁ sammāsambuddho abhibhū ca bhikkhu brahmānañca brahmaparisañca brahmapārisajje ca saṁvejetvā— seyyathāpi nāma …pe… tasmiṁ brahmaloke antarahitā aruṇavatiyā rājadhāniyā pāturahesuṁ.
+8\. Atha kho, bhikkhave, sikhī ca bhagavā arahaṁ sammāsambuddho abhibhū ca bhikkhu brahmānañca brahmaparisañca brahmapārisajje ca saṁvejetvā—seyyathāpi nāma …pe… tasmiṁ brahmaloke antarahitā aruṇavatiyā rājadhāniyā pāturahesuṁ.
 
 Atha kho, bhikkhave, sikhī bhagavā arahaṁ sammāsambuddho bhikkhū āmantesi: ‘assuttha no tumhe, bhikkhave, abhibhussa bhikkhuno brahmaloke ṭhitassa gāthāyo bhāsamānassā’ti?
 

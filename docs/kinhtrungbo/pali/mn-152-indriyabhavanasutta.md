@@ -48,21 +48,21 @@ Indriyabhāvanāsuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Saḷāyatanavaggo niṭṭhito pañcamo.
 
-Tassuddānaṁ
+19\. Tassuddānaṁ
 
-19\. Anāthapiṇḍiko channo,\
-puṇṇo nandakarāhulā;\
-Chachakkaṁ saḷāyatanikaṁ,\
-nagaravindeyyasuddhikā;\
-Indriyabhāvanā cāpi,\
-vaggo ovādapañcamoti.
+> Anāthapiṇḍiko channo,\
+> puṇṇo nandakarāhulā;\
+> Chachakkaṁ saḷāyatanikaṁ,\
+> nagaravindeyyasuddhikā;\
+> Indriyabhāvanā cāpi,\
+> vaggo ovādapañcamoti.
 
-Idaṁ vaggānamuddānaṁ
+20\. Idaṁ vaggānamuddānaṁ
 
-20\. Devadahonupado ca,\
-Suññato ca vibhaṅgako;\
-Saḷāyatanoti vaggā,\
-Uparipaṇṇāsake ṭhitāti.
+> Devadahonupado ca,\
+> Suññato ca vibhaṅgako;\
+> Saḷāyatanoti vaggā,\
+> Uparipaṇṇāsake ṭhitāti.
 
 Uparipaṇṇāsakaṁ samattaṁ.
 

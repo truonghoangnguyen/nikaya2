@@ -4,7 +4,7 @@
 
 ### 1.1 Oghataraṇasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ etadavoca: “kathaṁ nu tvaṁ, mārisa, oghamatarī”ti?
 
@@ -179,7 +179,7 @@ Naḷavaggo paṭhamo.
 
 ### 1.11 Nandanasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -325,7 +325,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 ### 1.20 Samiddhisutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati tapodārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati tapodārāme.
 
 Atha kho āyasmā samiddhi rattiyā paccūsasamayaṁ paccuṭṭhāya yena tapodā tenupasaṅkami gattāni parisiñcituṁ. Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsi gattāni pubbāpayamāno.
 
@@ -612,7 +612,7 @@ Sattivaggo tatiyo.
 
 ### 1.31 Sabbhisutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho ekā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -955,7 +955,7 @@ Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkant
 
 ### 1.37 Samayasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca.
 
 Atha kho catunnaṁ suddhāvāsakāyikānaṁ devatānaṁ etadahosi: “ayaṁ kho bhagavā sakkesu viharati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca. Yannūna mayampi yena bhagavā tenupasaṅkameyyāma; upasaṅkamitvā bhagavato santike paccekaṁ gāthaṁ bhāseyyāmā”ti.
 
@@ -989,7 +989,7 @@ Atha kho catunnaṁ suddhāvāsakāyikānaṁ devatānaṁ etadahosi: “ayaṁ 
 
 ### 1.38 Sakalikasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati maddakucchismiṁ migadāye.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati maddakucchismiṁ migadāye.
 
 Tena kho pana samayena bhagavato pādo sakalikāya khato hoti. Bhusā sudaṁ bhagavato vedanā vattanti sārīrikā vedanā dukkhā tibbā kharā kaṭukā asātā amanāpā; tā sudaṁ bhagavā sato sampajāno adhivāseti avihaññamāno. Atha kho bhagavā catugguṇaṁ saṅghāṭiṁ paññāpetvā dakkhiṇena passena sīhaseyyaṁ kappeti pāde pādaṁ accādhāya sato sampajāno.
 
@@ -1031,7 +1031,7 @@ Ekamantaṁ ṭhitā kho ekā devatā bhagavato santike imaṁ udānaṁ udānes
 
 ### 1.39 Paṭhamapajjunnadhītusutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
 Atha kho kokanadā pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ mahāvanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā kokanadā pajjunnassa dhītā bhagavato santike imā gāthāyo abhāsi:
 
@@ -1057,7 +1057,7 @@ Atha kho kokanadā pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇ
 
 ### 1.40 Dutiyapajjunnadhītusuttaṁ
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
 Atha kho cūḷakokanadā pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ mahāvanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā cūḷakokanadā pajjunnassa dhītā bhagavato santike imā gāthāyo abhāsi:
 
@@ -1087,7 +1087,7 @@ Satullapakāyikavaggo catuttho.
 
 ### 1.41 Ādittasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imā gāthāyo abhāsi:
 

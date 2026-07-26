@@ -1,8 +1,8 @@
 # DN 7. Jāliyasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā kosambiyaṁ viharati ghositārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kosambiyaṁ viharati ghositārāme.
 
-Tena kho pana samayena dve pabbajitā— muṇḍiyo ca paribbājako jāliyo ca dārupattikantevāsī yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho te dve pabbajitā bhagavantaṁ etadavocuṁ: “kiṁ nu kho, āvuso gotama, taṁ jīvaṁ taṁ sarīraṁ, udāhu aññaṁ jīvaṁ aññaṁ sarīran”ti?
+Tena kho pana samayena dve pabbajitā—muṇḍiyo ca paribbājako jāliyo ca dārupattikantevāsī yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho te dve pabbajitā bhagavantaṁ etadavocuṁ: “kiṁ nu kho, āvuso gotama, taṁ jīvaṁ taṁ sarīraṁ, udāhu aññaṁ jīvaṁ aññaṁ sarīran”ti?
 
 “Tena hāvuso, suṇātha sādhukaṁ manasi karotha, bhāsissāmī”ti.
 

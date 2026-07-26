@@ -1,6 +1,6 @@
 # DN 30. Lakkhaṇasutta
 
-1.1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1.1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhaddante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -84,30 +84,30 @@ Imāni kho, bhikkhave, dvattiṁsa mahāpurisassa mahāpurisalakkhaṇāni bāhi
 
 1.6\. Tatthetaṁ vuccati:
 
-“Sacce ca dhamme ca dame ca saṁyame,\
-Soceyyasīlālayuposathesu ca;\
-Dāne ahiṁsāya asāhase rato,\
-Daḷhaṁ samādāya samattamācari.
+> “Sacce ca dhamme ca dame ca saṁyame,\
+> Soceyyasīlālayuposathesu ca;\
+> Dāne ahiṁsāya asāhase rato,\
+> Daḷhaṁ samādāya samattamācari.
 
-So tena kammena divaṁ samakkami,\
-Sukhañca khiḍḍāratiyo ca anvabhi;\
-Tato cavitvā punarāgato idha,\
-Samehi pādehi phusī vasundharaṁ.
+> So tena kammena divaṁ samakkami,\
+> Sukhañca khiḍḍāratiyo ca anvabhi;\
+> Tato cavitvā punarāgato idha,\
+> Samehi pādehi phusī vasundharaṁ.
 
-Byākaṁsu veyyañjanikā samāgatā,\
-Samappatiṭṭhassa na hoti khambhanā;\
-Gihissa vā pabbajitassa vā puna,\
-Taṁ lakkhaṇaṁ bhavati tadatthajotakaṁ.
+> Byākaṁsu veyyañjanikā samāgatā,\
+> Samappatiṭṭhassa na hoti khambhanā;\
+> Gihissa vā pabbajitassa vā puna,\
+> Taṁ lakkhaṇaṁ bhavati tadatthajotakaṁ.
 
-Akkhambhiyo hoti agāramāvasaṁ,\
-Parābhibhū sattubhi nappamaddano;\
-Manussabhūtenidha hoti kenaci,\
-Akkhambhiyo tassa phalena kammuno.
+> Akkhambhiyo hoti agāramāvasaṁ,\
+> Parābhibhū sattubhi nappamaddano;\
+> Manussabhūtenidha hoti kenaci,\
+> Akkhambhiyo tassa phalena kammuno.
 
-Sace ca pabbajjamupeti tādiso,\
-Nekkhammachandābhirato vicakkhaṇo;\
-Aggo na so gacchati jātu khambhanaṁ,\
-Naruttamo esa hi tassa dhammatā”ti.
+> Sace ca pabbajjamupeti tādiso,\
+> Nekkhammachandābhirato vicakkhaṇo;\
+> Aggo na so gacchati jātu khambhanaṁ,\
+> Naruttamo esa hi tassa dhammatā”ti.
 
 ## 2. Pādatalacakkalakkhaṇaṁ
 
@@ -117,34 +117,34 @@ Naruttamo esa hi tassa dhammatā”ti.
 
 1.9\. Tatthetaṁ vuccati:
 
-“Pure puratthā purimāsu jātisu,\
-Manussabhūto bahunaṁ sukhāvaho;\
-Ubbhegauttāsabhayāpanūdano,\
-Guttīsu rakkhāvaraṇesu ussuko.
+> “Pure puratthā purimāsu jātisu,\
+> Manussabhūto bahunaṁ sukhāvaho;\
+> Ubbhegauttāsabhayāpanūdano,\
+> Guttīsu rakkhāvaraṇesu ussuko.
 
-So tena kammena divaṁ samakkami,\
-Sukhañca khiḍḍāratiyo ca anvabhi;\
-Tato cavitvā punarāgato idha,\
-Cakkāni pādesu duvesu vindati.
+> So tena kammena divaṁ samakkami,\
+> Sukhañca khiḍḍāratiyo ca anvabhi;\
+> Tato cavitvā punarāgato idha,\
+> Cakkāni pādesu duvesu vindati.
 
-Samantanemīni sahassarāni ca,\
-Byākaṁsu veyyañjanikā samāgatā;\
-Disvā kumāraṁ satapuññalakkhaṇaṁ,\
-Parivāravā hessati sattumaddano.
+> Samantanemīni sahassarāni ca,\
+> Byākaṁsu veyyañjanikā samāgatā;\
+> Disvā kumāraṁ satapuññalakkhaṇaṁ,\
+> Parivāravā hessati sattumaddano.
 
-Tathā hi cakkāni samantanemini,\
-Sace na pabbajjamupeti tādiso;\
-Vatteti cakkaṁ pathaviṁ pasāsati,\
-Tassānuyantādha bhavanti khattiyā.
+> Tathā hi cakkāni samantanemini,\
+> Sace na pabbajjamupeti tādiso;\
+> Vatteti cakkaṁ pathaviṁ pasāsati,\
+> Tassānuyantādha bhavanti khattiyā.
 
-Mahāyasaṁ samparivārayanti naṁ,\
-Sace ca pabbajjamupeti tādiso;\
-Nekkhammachandābhirato vicakkhaṇo,\
-Devā manussāsurasakkarakkhasā.
+> Mahāyasaṁ samparivārayanti naṁ,\
+> Sace ca pabbajjamupeti tādiso;\
+> Nekkhammachandābhirato vicakkhaṇo,\
+> Devā manussāsurasakkarakkhasā.
 
-Gandhabbanāgā vihagā catuppadā,\
-Anuttaraṁ devamanussapūjitaṁ;\
-Mahāyasaṁ samparivārayanti nan”ti.
+> Gandhabbanāgā vihagā catuppadā,\
+> Anuttaraṁ devamanussapūjitaṁ;\
+> Mahāyasaṁ samparivārayanti nan”ti.
 
 ## 3–5. Āyatapaṇhitāditilakkhaṇaṁ
 
@@ -154,25 +154,25 @@ Mahāyasaṁ samparivārayanti nan”ti.
 
 1.12\. Tatthetaṁ vuccati:
 
-“Māraṇavadhabhayattano viditvā,\
-Paṭivirato paraṁ māraṇāyahosi;\
-Tena sucaritena saggamagamā,\
-Sukataphalavipākamanubhosi.
+> “Māraṇavadhabhayattano viditvā,\
+> Paṭivirato paraṁ māraṇāyahosi;\
+> Tena sucaritena saggamagamā,\
+> Sukataphalavipākamanubhosi.
 
-Caviya punaridhāgato samāno,\
-Paṭilabhati idha tīṇi lakkhaṇāni;\
-Bhavati vipuladīghapāsaṇhiko,\
-Brahmāva suju subho sujātagatto.
+> Caviya punaridhāgato samāno,\
+> Paṭilabhati idha tīṇi lakkhaṇāni;\
+> Bhavati vipuladīghapāsaṇhiko,\
+> Brahmāva suju subho sujātagatto.
 
-Subhujo susu susaṇṭhito sujāto,\
-Mudutalunaṅguliyassa honti;\
-Dīghā tībhi purisavaraggalakkhaṇehi,\
-Cirayapanāya kumāramādisanti.
+> Subhujo susu susaṇṭhito sujāto,\
+> Mudutalunaṅguliyassa honti;\
+> Dīghā tībhi purisavaraggalakkhaṇehi,\
+> Cirayapanāya kumāramādisanti.
 
-Bhavati yadi gihī ciraṁ yapeti,\
-Cirataraṁ pabbajati yadi tato hi;\
-Yāpayati ca vasiddhibhāvanāya,\
-Iti dīghāyukatāya taṁ nimittan”ti.
+> Bhavati yadi gihī ciraṁ yapeti,\
+> Cirataraṁ pabbajati yadi tato hi;\
+> Yāpayati ca vasiddhibhāvanāya,\
+> Iti dīghāyukatāya taṁ nimittan”ti.
 
 ## 6. Sattussadatālakkhaṇaṁ
 
@@ -182,48 +182,48 @@ Iti dīghāyukatāya taṁ nimittan”ti.
 
 1.15\. Tatthetaṁ vuccati:
 
-“Khajjabhojjamatha leyya sāyiyaṁ,\
-Uttamaggarasadāyako ahu;\
-Tena so sucaritena kammunā,\
-Nandane ciramabhippamodati.
+> “Khajjabhojjamatha leyya sāyiyaṁ,\
+> Uttamaggarasadāyako ahu;\
+> Tena so sucaritena kammunā,\
+> Nandane ciramabhippamodati.
 
-Satta cussade idhādhigacchati,\
-Hatthapādamudutañca vindati;\
-Āhu byañjananimittakovidā,\
-Khajjabhojjarasalābhitāya naṁ.
+> Satta cussade idhādhigacchati,\
+> Hatthapādamudutañca vindati;\
+> Āhu byañjananimittakovidā,\
+> Khajjabhojjarasalābhitāya naṁ.
 
-Yaṁ gihissapi tadatthajotakaṁ,\
-Pabbajjampi ca tadādhigacchati;\
-Khajjabhojjarasalābhiruttamaṁ,\
-Āhu sabbagihibandhanacchidan”ti.
+> Yaṁ gihissapi tadatthajotakaṁ,\
+> Pabbajjampi ca tadādhigacchati;\
+> Khajjabhojjarasalābhiruttamaṁ,\
+> Āhu sabbagihibandhanacchidan”ti.
 
 ## 7–8. Karacaraṇamudujālatālakkhaṇāni
 
-1.16\. “Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno catūhi saṅgahavatthūhi janaṁ saṅgāhako ahosi— dānena peyyavajjena atthacariyāya samānattatāya. So tassa kammassa kaṭattā …pe… so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Mudutalunahatthapādo ca hoti jālahatthapādo ca.
+1.16\. “Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno catūhi saṅgahavatthūhi janaṁ saṅgāhako ahosi—dānena peyyavajjena atthacariyāya samānattatāya. So tassa kammassa kaṭattā …pe… so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Mudutalunahatthapādo ca hoti jālahatthapādo ca.
 
 1.17\. So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… rājā samāno kiṁ labhati? Susaṅgahitaparijano hoti, susaṅgahitāssa honti brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṁ labhati … buddho samāno kiṁ labhati? Susaṅgahitaparijano hoti, susaṅgahitāssa honti bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṁ labhati”. Etamatthaṁ bhagavā avoca.
 
 1.18\. Tatthetaṁ vuccati:
 
-“Dānampi catthacariyatañca,\
-Piyavāditañca samānattatañca;\
-Kariyacariyasusaṅgahaṁ bahūnaṁ,\
-Anavamatena guṇena yāti saggaṁ.
+> “Dānampi catthacariyatañca,\
+> Piyavāditañca samānattatañca;\
+> Kariyacariyasusaṅgahaṁ bahūnaṁ,\
+> Anavamatena guṇena yāti saggaṁ.
 
-Caviya punaridhāgato samāno,\
-Karacaraṇamudutañca jālino ca;\
-Atirucirasuvaggudassaneyyaṁ,\
-Paṭilabhati daharo susu kumāro.
+> Caviya punaridhāgato samāno,\
+> Karacaraṇamudutañca jālino ca;\
+> Atirucirasuvaggudassaneyyaṁ,\
+> Paṭilabhati daharo susu kumāro.
 
-Bhavati parijanassavo vidheyyo,\
-Mahimaṁ āvasito susaṅgahito;\
-Piyavadū hitasukhataṁ jigīsamāno,\
-Abhirucitāni guṇāni ācarati.
+> Bhavati parijanassavo vidheyyo,\
+> Mahimaṁ āvasito susaṅgahito;\
+> Piyavadū hitasukhataṁ jigīsamāno,\
+> Abhirucitāni guṇāni ācarati.
 
-Yadi ca jahati sabbakāmabhogaṁ,\
-Kathayati dhammakathaṁ jino janassa;\
-Vacanapaṭikarassābhippasannā,\
-Sutvāna dhammānudhammamācarantī”ti.
+> Yadi ca jahati sabbakāmabhogaṁ,\
+> Kathayati dhammakathaṁ jino janassa;\
+> Vacanapaṭikarassābhippasannā,\
+> Sutvāna dhammānudhammamācarantī”ti.
 
 ## 9–10. Ussaṅkhapāda-uddhaggalomatālakkhaṇāni
 
@@ -233,30 +233,30 @@ Sutvāna dhammānudhammamācarantī”ti.
 
 1.21\. Tatthetaṁ vuccati:
 
-“Atthadhammasahitaṁ pure giraṁ,\
-Erayaṁ bahujanaṁ nidaṁsayi;\
-Pāṇinaṁ hitasukhāvaho ahu,\
-Dhammayāgamayajī amaccharī.
+> “Atthadhammasahitaṁ pure giraṁ,\
+> Erayaṁ bahujanaṁ nidaṁsayi;\
+> Pāṇinaṁ hitasukhāvaho ahu,\
+> Dhammayāgamayajī amaccharī.
 
-Tena so sucaritena kammunā,\
-Suggatiṁ vajati tattha modati;\
-Lakkhaṇāni ca duve idhāgato,\
-Uttamappamukhatāya vindati.
+> Tena so sucaritena kammunā,\
+> Suggatiṁ vajati tattha modati;\
+> Lakkhaṇāni ca duve idhāgato,\
+> Uttamappamukhatāya vindati.
 
-Ubbhamuppatitalomavā saso,\
-Pādagaṇṭhirahu sādhusaṇṭhitā;\
-Maṁsalohitācitā tacotthatā,\
-Uparicaraṇasobhanā ahu.
+> Ubbhamuppatitalomavā saso,\
+> Pādagaṇṭhirahu sādhusaṇṭhitā;\
+> Maṁsalohitācitā tacotthatā,\
+> Uparicaraṇasobhanā ahu.
 
-Gehamāvasati ce tathāvidho,\
-Aggataṁ vajati kāmabhoginaṁ;\
-Tena uttaritaro na vijjati,\
-Jambudīpamabhibhuyya iriyati.
+> Gehamāvasati ce tathāvidho,\
+> Aggataṁ vajati kāmabhoginaṁ;\
+> Tena uttaritaro na vijjati,\
+> Jambudīpamabhibhuyya iriyati.
 
-Pabbajampi ca anomanikkamo,\
-Aggataṁ vajati sabbapāṇinaṁ;\
-Tena uttaritaro na vijjati,\
-Sabbalokamabhibhuyya viharatī”ti.
+> Pabbajampi ca anomanikkamo,\
+> Aggataṁ vajati sabbapāṇinaṁ;\
+> Tena uttaritaro na vijjati,\
+> Sabbalokamabhibhuyya viharatī”ti.
 
 ## 11. Eṇijaṅghalakkhaṇaṁ
 
@@ -266,25 +266,25 @@ Sabbalokamabhibhuyya viharatī”ti.
 
 1.24\. Tatthetaṁ vuccati:
 
-“Sippesu vijjācaraṇesu kammesu,\
-Kathaṁ vijāneyyuṁ lahunti icchati;\
-Yadūpaghātāya na hoti kassaci,\
-Vāceti khippaṁ na ciraṁ kilissati.
+> “Sippesu vijjācaraṇesu kammesu,\
+> Kathaṁ vijāneyyuṁ lahunti icchati;\
+> Yadūpaghātāya na hoti kassaci,\
+> Vāceti khippaṁ na ciraṁ kilissati.
 
-Taṁ kammaṁ katvā kusalaṁ sukhudrayaṁ,\
-Jaṅghā manuññā labhate susaṇṭhitā;\
-Vaṭṭā sujātā anupubbamuggatā,\
-Uddhaggalomā sukhumattacotthatā.
+> Taṁ kammaṁ katvā kusalaṁ sukhudrayaṁ,\
+> Jaṅghā manuññā labhate susaṇṭhitā;\
+> Vaṭṭā sujātā anupubbamuggatā,\
+> Uddhaggalomā sukhumattacotthatā.
 
-Eṇeyyajaṅghoti tamāhu puggalaṁ,\
-Sampattiyā khippamidhāhu lakkhaṇaṁ;\
-Gehānulomāni yadābhikaṅkhati,\
-Apabbajaṁ khippamidhādhigacchati.
+> Eṇeyyajaṅghoti tamāhu puggalaṁ,\
+> Sampattiyā khippamidhāhu lakkhaṇaṁ;\
+> Gehānulomāni yadābhikaṅkhati,\
+> Apabbajaṁ khippamidhādhigacchati.
 
-Sace ca pabbajjamupeti tādiso,\
-Nekkhammachandābhirato vicakkhaṇo;\
-Anucchavikassa yadānulomikaṁ,\
-Taṁ vindati khippamanomavikkamo”ti.
+> Sace ca pabbajjamupeti tādiso,\
+> Nekkhammachandābhirato vicakkhaṇo;\
+> Anucchavikassa yadānulomikaṁ,\
+> Taṁ vindati khippamanomavikkamo”ti.
 
 ## 12. Sukhumacchavilakkhaṇaṁ
 
@@ -294,25 +294,25 @@ Taṁ vindati khippamanomavikkamo”ti.
 
 1.27\. Tatthetaṁ vuccati:
 
-“Pure puratthā purimāsu jātisu,\
-Aññātukāmo paripucchitā ahu;\
-Sussūsitā pabbajitaṁ upāsitā,\
-Atthantaro atthakathaṁ nisāmayi.
+> “Pure puratthā purimāsu jātisu,\
+> Aññātukāmo paripucchitā ahu;\
+> Sussūsitā pabbajitaṁ upāsitā,\
+> Atthantaro atthakathaṁ nisāmayi.
 
-Paññāpaṭilābhagatena kammunā,\
-Manussabhūto sukhumacchavī ahu;\
-Byākaṁsu uppādanimittakovidā,\
-Sukhumāni atthāni avecca dakkhiti.
+> Paññāpaṭilābhagatena kammunā,\
+> Manussabhūto sukhumacchavī ahu;\
+> Byākaṁsu uppādanimittakovidā,\
+> Sukhumāni atthāni avecca dakkhiti.
 
-Sace na pabbajjamupeti tādiso,\
-Vatteti cakkaṁ pathaviṁ pasāsati;\
-Atthānusiṭṭhīsu pariggahesu ca,\
-Na tena seyyo sadiso ca vijjati.
+> Sace na pabbajjamupeti tādiso,\
+> Vatteti cakkaṁ pathaviṁ pasāsati;\
+> Atthānusiṭṭhīsu pariggahesu ca,\
+> Na tena seyyo sadiso ca vijjati.
 
-Sace ca pabbajjamupeti tādiso,\
-Nekkhammachandābhirato vicakkhaṇo;\
-Paññāvisiṭṭhaṁ labhate anuttaraṁ,\
-Pappoti bodhiṁ varabhūrimedhaso”ti.
+> Sace ca pabbajjamupeti tādiso,\
+> Nekkhammachandābhirato vicakkhaṇo;\
+> Paññāvisiṭṭhaṁ labhate anuttaraṁ,\
+> Pappoti bodhiṁ varabhūrimedhaso”ti.
 
 ## 13. Suvaṇṇavaṇṇalakkhaṇaṁ
 
@@ -322,53 +322,53 @@ Pappoti bodhiṁ varabhūrimedhaso”ti.
 
 1.30\. Tatthetaṁ vuccati:
 
-“Akkodhañca adhiṭṭhahi adāsi,\
-Dānañca vatthāni sukhumāni succhavīni;\
-Purimatarabhave ṭhito abhivissaji,\
-Mahimiva suro abhivassaṁ.
+> “Akkodhañca adhiṭṭhahi adāsi,\
+> Dānañca vatthāni sukhumāni succhavīni;\
+> Purimatarabhave ṭhito abhivissaji,\
+> Mahimiva suro abhivassaṁ.
 
-Taṁ katvāna ito cuto dibbaṁ,\
-Upapajji sukataphalavipākamanubhutvā;\
-Kanakatanusannibho idhābhibhavati,\
-Suravarataroriva indo.
+> Taṁ katvāna ito cuto dibbaṁ,\
+> Upapajji sukataphalavipākamanubhutvā;\
+> Kanakatanusannibho idhābhibhavati,\
+> Suravarataroriva indo.
 
-Gehañcāvasati naro apabbajja,\
-Micchaṁ mahatimahiṁ anusāsati;\
-Pasayha sahidha sattaratanaṁ,\
-Paṭilabhati vimalasukhumacchaviṁ suciñca.
+> Gehañcāvasati naro apabbajja,\
+> Micchaṁ mahatimahiṁ anusāsati;\
+> Pasayha sahidha sattaratanaṁ,\
+> Paṭilabhati vimalasukhumacchaviṁ suciñca.
 
-Lābhī acchādanavatthamokkhapāvuraṇānaṁ,\
-Bhavati yadi anāgāriyataṁ upeti;\
-Sahito purimakataphalaṁ anubhavati,\
-Na bhavati katassa panāso”ti.
+> Lābhī acchādanavatthamokkhapāvuraṇānaṁ,\
+> Bhavati yadi anāgāriyataṁ upeti;\
+> Sahito purimakataphalaṁ anubhavati,\
+> Na bhavati katassa panāso”ti.
 
 ## 14. Kosohitavatthaguyhalakkhaṇaṁ
 
-1.31\. “Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno cirappanaṭṭhe sucirappavāsino ñātimitte suhajje sakhino samānetā ahosi. Mātarampi puttena samānetā ahosi, puttampi mātarā samānetā ahosi, pitarampi puttena samānetā ahosi, puttampi pitarā samānetā ahosi, bhātarampi bhātarā samānetā ahosi, bhātarampi bhaginiyā samānetā ahosi, bhaginimpi bhātarā samānetā ahosi, bhaginimpi bhaginiyā samānetā ahosi, samaṅgīkatvā ca abbhanumoditā ahosi. So tassa kammassa kaṭattā …pe… so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati— kosohitavatthaguyho hoti.
+1.31\. “Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno cirappanaṭṭhe sucirappavāsino ñātimitte suhajje sakhino samānetā ahosi. Mātarampi puttena samānetā ahosi, puttampi mātarā samānetā ahosi, pitarampi puttena samānetā ahosi, puttampi pitarā samānetā ahosi, bhātarampi bhātarā samānetā ahosi, bhātarampi bhaginiyā samānetā ahosi, bhaginimpi bhātarā samānetā ahosi, bhaginimpi bhaginiyā samānetā ahosi, samaṅgīkatvā ca abbhanumoditā ahosi. So tassa kammassa kaṭattā …pe… so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati—kosohitavatthaguyho hoti.
 
 1.32\. So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… rājā samāno kiṁ labhati? Pahūtaputto hoti, parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. Rājā samāno idaṁ labhati …pe… buddho samāno kiṁ labhati? Pahūtaputto hoti, anekasahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. Buddho samāno idaṁ labhati”. Etamatthaṁ bhagavā avoca.
 
 1.33\. Tatthetaṁ vuccati:
 
-“Pure puratthā purimāsu jātisu,\
-Cirappanaṭṭhe sucirappavāsino;\
-Ñātī suhajje sakhino samānayi,\
-Samaṅgikatvā anumoditā ahu.
+> “Pure puratthā purimāsu jātisu,\
+> Cirappanaṭṭhe sucirappavāsino;\
+> Ñātī suhajje sakhino samānayi,\
+> Samaṅgikatvā anumoditā ahu.
 
-So tena kammena divaṁ samakkami,\
-Sukhañca khiḍḍāratiyo ca anvabhi;\
-Tato cavitvā punarāgato idha,\
-Kosohitaṁ vindati vatthachādiyaṁ.
+> So tena kammena divaṁ samakkami,\
+> Sukhañca khiḍḍāratiyo ca anvabhi;\
+> Tato cavitvā punarāgato idha,\
+> Kosohitaṁ vindati vatthachādiyaṁ.
 
-Pahūtaputto bhavatī tathāvidho,\
-Parosahassañca bhavanti atrajā;\
-Sūrā ca vīrā ca amittatāpanā,\
-Gihissa pītiṁ jananā piyaṁvadā.
+> Pahūtaputto bhavatī tathāvidho,\
+> Parosahassañca bhavanti atrajā;\
+> Sūrā ca vīrā ca amittatāpanā,\
+> Gihissa pītiṁ jananā piyaṁvadā.
 
-Bahūtarā pabbajitassa iriyato,\
-Bhavanti puttā vacanānusārino;\
-Gihissa vā pabbajitassa vā puna,\
-Taṁ lakkhaṇaṁ jāyati tadatthajotakan”ti.
+> Bahūtarā pabbajitassa iriyato,\
+> Bhavanti puttā vacanānusārino;\
+> Gihissa vā pabbajitassa vā puna,\
+> Taṁ lakkhaṇaṁ jāyati tadatthajotakan”ti.
 
 Paṭhamabhāṇavāro niṭṭhito.
 
@@ -376,29 +376,29 @@ Paṭhamabhāṇavāro niṭṭhito.
 
 2.1\. “Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno mahājanasaṅgahaṁ samekkhamāno samaṁ jānāti sāmaṁ jānāti, purisaṁ jānāti purisavisesaṁ jānāti: ‘ayamidamarahati ayamidamarahatī’ti tattha tattha purisavisesakaro ahosi. So tassa kammassa kaṭattā …pe… so tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati. Nigrodhaparimaṇḍalo ca hoti, ṭhitakoyeva ca anonamanto ubhohi pāṇitalehi jaṇṇukāni parimasati parimajjati.
 
-2.2\. So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… rājā samāno kiṁ labhati? Aḍḍho hoti mahaddhano mahābhogo pahūtajātarūparajato pahūtavittūpakaraṇo pahūtadhanadhañño paripuṇṇakosakoṭṭhāgāro. Rājā samāno idaṁ labhati …pe… buddho samāno kiṁ labhati? Aḍḍho hoti mahaddhano mahābhogo. Tassimāni dhanāni honti, seyyathidaṁ— saddhādhanaṁ sīladhanaṁ hiridhanaṁ ottappadhanaṁ sutadhanaṁ cāgadhanaṁ paññādhanaṁ. Buddho samāno idaṁ labhati”. Etamatthaṁ bhagavā avoca.
+2.2\. So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… rājā samāno kiṁ labhati? Aḍḍho hoti mahaddhano mahābhogo pahūtajātarūparajato pahūtavittūpakaraṇo pahūtadhanadhañño paripuṇṇakosakoṭṭhāgāro. Rājā samāno idaṁ labhati …pe… buddho samāno kiṁ labhati? Aḍḍho hoti mahaddhano mahābhogo. Tassimāni dhanāni honti, seyyathidaṁ—saddhādhanaṁ sīladhanaṁ hiridhanaṁ ottappadhanaṁ sutadhanaṁ cāgadhanaṁ paññādhanaṁ. Buddho samāno idaṁ labhati”. Etamatthaṁ bhagavā avoca.
 
 2.3\. Tatthetaṁ vuccati:
 
-“Tuliya paṭivicaya cintayitvā,\
-Mahājanasaṅgahanaṁ samekkhamāno;\
-Ayamidamarahati tattha tattha,\
-Purisavisesakaro pure ahosi.
+> “Tuliya paṭivicaya cintayitvā,\
+> Mahājanasaṅgahanaṁ samekkhamāno;\
+> Ayamidamarahati tattha tattha,\
+> Purisavisesakaro pure ahosi.
 
-Mahiñca pana ṭhito anonamanto,\
-Phusati karehi ubhohi jaṇṇukāni;\
-Mahiruhaparimaṇḍalo ahosi,\
-Sucaritakammavipākasesakena.
+> Mahiñca pana ṭhito anonamanto,\
+> Phusati karehi ubhohi jaṇṇukāni;\
+> Mahiruhaparimaṇḍalo ahosi,\
+> Sucaritakammavipākasesakena.
 
-Bahuvividhanimittalakkhaṇaññū,\
-Atinipuṇā manujā byākariṁsu;\
-Bahuvividhā gihīnaṁ arahāni,\
-Paṭilabhati daharo susu kumāro.
+> Bahuvividhanimittalakkhaṇaññū,\
+> Atinipuṇā manujā byākariṁsu;\
+> Bahuvividhā gihīnaṁ arahāni,\
+> Paṭilabhati daharo susu kumāro.
 
-Idha ca mahīpatissa kāmabhogī,\
-Gihipatirūpakā bahū bhavanti;\
-Yadi ca jahati sabbakāmabhogaṁ,\
-Labhati anuttaraṁ uttamadhanaggan”ti.
+> Idha ca mahīpatissa kāmabhogī,\
+> Gihipatirūpakā bahū bhavanti;\
+> Yadi ca jahati sabbakāmabhogaṁ,\
+> Labhati anuttaraṁ uttamadhanaggan”ti.
 
 ## 17–19. Sīhapubbaddhakāyāditilakkhaṇaṁ
 
@@ -408,25 +408,25 @@ Labhati anuttaraṁ uttamadhanaggan”ti.
 
 2.6\. Tatthetaṁ vuccati:
 
-“Saddhāya sīlena sutena buddhiyā,\
-Cāgena dhammena bahūhi sādhuhi;\
-Dhanena dhaññena ca khettavatthunā,\
-Puttehi dārehi catuppadehi ca.
+> “Saddhāya sīlena sutena buddhiyā,\
+> Cāgena dhammena bahūhi sādhuhi;\
+> Dhanena dhaññena ca khettavatthunā,\
+> Puttehi dārehi catuppadehi ca.
 
-Ñātīhi mittehi ca bandhavehi ca,\
-Balena vaṇṇena sukhena cūbhayaṁ;\
-Kathaṁ na hāyeyyuṁ pareti icchati,\
-Atthassa middhī ca panābhikaṅkhati.
+> Ñātīhi mittehi ca bandhavehi ca,\
+> Balena vaṇṇena sukhena cūbhayaṁ;\
+> Kathaṁ na hāyeyyuṁ pareti icchati,\
+> Atthassa middhī ca panābhikaṅkhati.
 
-Sa sīhapubbaddhasusaṇṭhito ahu,\
-Samavaṭṭakhandho ca citantaraṁso;\
-Pubbe suciṇṇena katena kammunā,\
-Ahāniyaṁ pubbanimittamassa taṁ.
+> Sa sīhapubbaddhasusaṇṭhito ahu,\
+> Samavaṭṭakhandho ca citantaraṁso;\
+> Pubbe suciṇṇena katena kammunā,\
+> Ahāniyaṁ pubbanimittamassa taṁ.
 
-Gihīpi dhaññena dhanena vaḍḍhati,\
-Puttehi dārehi catuppadehi ca;\
-Akiñcano pabbajito anuttaraṁ,\
-Pappoti bodhiṁ asahānadhammatan”ti.
+> Gihīpi dhaññena dhanena vaḍḍhati,\
+> Puttehi dārehi catuppadehi ca;\
+> Akiñcano pabbajito anuttaraṁ,\
+> Pappoti bodhiṁ asahānadhammatan”ti.
 
 ## 20. Rasaggasaggitālakkhaṇaṁ
 
@@ -436,20 +436,20 @@ Pappoti bodhiṁ asahānadhammatan”ti.
 
 2.9\. Tatthetaṁ vuccati:
 
-“Na pāṇidaṇḍehi panātha leḍḍunā,\
-Satthena vā maraṇavadhena vā pana;\
-Ubbādhanāya paritajjanāya vā,\
-Na heṭhayī janatamaheṭhako ahu.
+> “Na pāṇidaṇḍehi panātha leḍḍunā,\
+> Satthena vā maraṇavadhena vā pana;\
+> Ubbādhanāya paritajjanāya vā,\
+> Na heṭhayī janatamaheṭhako ahu.
 
-Teneva so sugatimupecca modati,\
-Sukhapphalaṁ kariya sukhāni vindati;\
-Samojasā rasaharaṇī susaṇṭhitā,\
-Idhāgato labhati rasaggasaggitaṁ.
+> Teneva so sugatimupecca modati,\
+> Sukhapphalaṁ kariya sukhāni vindati;\
+> Samojasā rasaharaṇī susaṇṭhitā,\
+> Idhāgato labhati rasaggasaggitaṁ.
 
-Tenāhu naṁ atinipuṇā vicakkhaṇā,\
-Ayaṁ naro sukhabahulo bhavissati;\
-Gihissa vā pabbajitassa vā puna,\
-Taṁ lakkhaṇaṁ bhavati tadatthajotakan”ti.
+> Tenāhu naṁ atinipuṇā vicakkhaṇā,\
+> Ayaṁ naro sukhabahulo bhavissati;\
+> Gihissa vā pabbajitassa vā puna,\
+> Taṁ lakkhaṇaṁ bhavati tadatthajotakan”ti.
 
 ## 21–22. Abhinīlanettagopakhumalakkhaṇāni
 
@@ -459,53 +459,53 @@ Taṁ lakkhaṇaṁ bhavati tadatthajotakan”ti.
 
 2.12\. Tatthetaṁ vuccati:
 
-“Na ca visaṭaṁ na ca visāci,\
-Na ca pana viceyyapekkhitā;\
-Ujuṁ tathā pasaṭamujumano,\
-Piyacakkhunā bahujanaṁ udikkhitā.
+> “Na ca visaṭaṁ na ca visāci,\
+> Na ca pana viceyyapekkhitā;\
+> Ujuṁ tathā pasaṭamujumano,\
+> Piyacakkhunā bahujanaṁ udikkhitā.
 
-Sugatīsu so phalavipākaṁ,\
-Anubhavati tattha modati;\
-Idha ca pana bhavati gopakhumo,\
-Abhinīlanettanayano sudassano.
+> Sugatīsu so phalavipākaṁ,\
+> Anubhavati tattha modati;\
+> Idha ca pana bhavati gopakhumo,\
+> Abhinīlanettanayano sudassano.
 
-Abhiyogino ca nipuṇā,\
-Bahū pana nimittakovidā;\
-Sukhumanayanakusalā manujā,\
-Piyadassanoti abhiniddisanti naṁ.
+> Abhiyogino ca nipuṇā,\
+> Bahū pana nimittakovidā;\
+> Sukhumanayanakusalā manujā,\
+> Piyadassanoti abhiniddisanti naṁ.
 
-Piyadassano gihīpi santo ca,\
-Bhavati bahujanapiyāyito;\
-Yadi ca na bhavati gihī samaṇo hoti,\
-Piyo bahūnaṁ sokanāsano”ti.
+> Piyadassano gihīpi santo ca,\
+> Bhavati bahujanapiyāyito;\
+> Yadi ca na bhavati gihī samaṇo hoti,\
+> Piyo bahūnaṁ sokanāsano”ti.
 
 ## 23. Uṇhīsasīsalakkhaṇaṁ
 
-2.13\. “Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno bahujanapubbaṅgamo ahosi kusalesu dhammesu bahujanapāmokkho kāyasucarite vacīsucarite manosucarite dānasaṁvibhāge sīlasamādāne uposathupavāse matteyyatāya petteyyatāya sāmaññatāya brahmaññatāya kule jeṭṭhāpacāyitāya aññataraññataresu ca adhikusalesu dhammesu. So tassa kammassa kaṭattā …pe… so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati— uṇhīsasīso hoti.
+2.13\. “Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno bahujanapubbaṅgamo ahosi kusalesu dhammesu bahujanapāmokkho kāyasucarite vacīsucarite manosucarite dānasaṁvibhāge sīlasamādāne uposathupavāse matteyyatāya petteyyatāya sāmaññatāya brahmaññatāya kule jeṭṭhāpacāyitāya aññataraññataresu ca adhikusalesu dhammesu. So tassa kammassa kaṭattā …pe… so tato cuto itthattaṁ āgato samāno imaṁ mahāpurisalakkhaṇaṁ paṭilabhati—uṇhīsasīso hoti.
 
 2.14\. So tena lakkhaṇena samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī …pe… rājā samāno kiṁ labhati? Mahāssa jano anvāyiko hoti, brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṁ labhati …pe… buddho samāno kiṁ labhati? Mahāssa jano anvāyiko hoti, bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṁ labhati”. Etamatthaṁ bhagavā avoca.
 
 2.15\. Tatthetaṁ vuccati:
 
-“Pubbaṅgamo sucaritesu ahu,\
-Dhammesu dhammacariyābhirato;\
-Anvāyiko bahujanassa ahu,\
-Saggesu vedayittha puññaphalaṁ.
+> “Pubbaṅgamo sucaritesu ahu,\
+> Dhammesu dhammacariyābhirato;\
+> Anvāyiko bahujanassa ahu,\
+> Saggesu vedayittha puññaphalaṁ.
 
-Veditvā so sucaritassa phalaṁ,\
-Uṇhīsasīsattamidhajjhagamā;\
-Byākaṁsu byañjananimittadharā,\
-Pubbaṅgamo bahujanaṁ hessati.
+> Veditvā so sucaritassa phalaṁ,\
+> Uṇhīsasīsattamidhajjhagamā;\
+> Byākaṁsu byañjananimittadharā,\
+> Pubbaṅgamo bahujanaṁ hessati.
 
-Paṭibhogiyā manujesu idha,\
-Pubbeva tassa abhiharanti tadā;\
-Yadi khattiyo bhavati bhūmipati,\
-Paṭihārakaṁ bahujane labhati.
+> Paṭibhogiyā manujesu idha,\
+> Pubbeva tassa abhiharanti tadā;\
+> Yadi khattiyo bhavati bhūmipati,\
+> Paṭihārakaṁ bahujane labhati.
 
-Atha cepi pabbajati so manujo,\
-Dhammesu hoti paguṇo visavī;\
-Tassānusāsaniguṇābhirato,\
-Anvāyiko bahujano bhavatī”ti.
+> Atha cepi pabbajati so manujo,\
+> Dhammesu hoti paguṇo visavī;\
+> Tassānusāsaniguṇābhirato,\
+> Anvāyiko bahujano bhavatī”ti.
 
 ## 24–25. Ekekalomatāuṇṇālakkhaṇāni
 
@@ -515,25 +515,25 @@ Anvāyiko bahujano bhavatī”ti.
 
 2.18\. Tatthetaṁ vuccati:
 
-“Saccappaṭiñño purimāsu jātisu,\
-Advejjhavāco alikaṁ vivajjayi;\
-Na so visaṁvādayitāpi kassaci,\
-Bhūtena tacchena tathena bhāsayi.
+> “Saccappaṭiñño purimāsu jātisu,\
+> Advejjhavāco alikaṁ vivajjayi;\
+> Na so visaṁvādayitāpi kassaci,\
+> Bhūtena tacchena tathena bhāsayi.
 
-Setā susukkā mudutūlasannibhā,\
-Uṇṇā sujātā bhamukantare ahu;\
-Na lomakūpesu duve ajāyisuṁ,\
-Ekekalomūpacitaṅgavā ahu.
+> Setā susukkā mudutūlasannibhā,\
+> Uṇṇā sujātā bhamukantare ahu;\
+> Na lomakūpesu duve ajāyisuṁ,\
+> Ekekalomūpacitaṅgavā ahu.
 
-Taṁ lakkhaṇaññū bahavo samāgatā,\
-Byākaṁsu uppādanimittakovidā;\
-Uṇṇā ca lomā ca yathā susaṇṭhitā,\
-Upavattatī īdisakaṁ bahujjano.
+> Taṁ lakkhaṇaññū bahavo samāgatā,\
+> Byākaṁsu uppādanimittakovidā;\
+> Uṇṇā ca lomā ca yathā susaṇṭhitā,\
+> Upavattatī īdisakaṁ bahujjano.
 
-Gihimpi santaṁ upavattatī jano,\
-Bahu puratthāpakatena kammunā;\
-Akiñcanaṁ pabbajitaṁ anuttaraṁ,\
-Buddhampi santaṁ upavattati jano”ti.
+> Gihimpi santaṁ upavattatī jano,\
+> Bahu puratthāpakatena kammunā;\
+> Akiñcanaṁ pabbajitaṁ anuttaraṁ,\
+> Buddhampi santaṁ upavattati jano”ti.
 
 ## 26–27. Cattālīsaaviraḷadantalakkhaṇāni
 
@@ -543,25 +543,25 @@ Buddhampi santaṁ upavattati jano”ti.
 
 2.21\. Tatthetaṁ vuccati:
 
-“Vebhūtiyaṁ sahitabhedakāriṁ,\
-Bhedappavaḍḍhanavivādakāriṁ;\
-Kalahappavaḍḍhanaākiccakāriṁ,\
-Sahitānaṁ bhedajananiṁ na bhaṇi.
+> “Vebhūtiyaṁ sahitabhedakāriṁ,\
+> Bhedappavaḍḍhanavivādakāriṁ;\
+> Kalahappavaḍḍhanaākiccakāriṁ,\
+> Sahitānaṁ bhedajananiṁ na bhaṇi.
 
-Avivādavaḍḍhanakariṁ sugiraṁ,\
-Bhinnānusandhijananiṁ abhaṇi;\
-Kalahaṁ janassa panudī samaṅgī,\
-Sahitehi nandati pamodati ca.
+> Avivādavaḍḍhanakariṁ sugiraṁ,\
+> Bhinnānusandhijananiṁ abhaṇi;\
+> Kalahaṁ janassa panudī samaṅgī,\
+> Sahitehi nandati pamodati ca.
 
-Sugatīsu so phalavipākaṁ,\
-Anubhavati tattha modati;\
-Dantā idha honti aviraḷā sahitā,\
-Caturo dasassa mukhajā susaṇṭhitā.
+> Sugatīsu so phalavipākaṁ,\
+> Anubhavati tattha modati;\
+> Dantā idha honti aviraḷā sahitā,\
+> Caturo dasassa mukhajā susaṇṭhitā.
 
-Yadi khattiyo bhavati bhūmipati,\
-Avibhediyāssa parisā bhavati;\
-Samaṇo ca hoti virajo vimalo,\
-Parisāssa hoti anugatā acalā”ti.
+> Yadi khattiyo bhavati bhūmipati,\
+> Avibhediyāssa parisā bhavati;\
+> Samaṇo ca hoti virajo vimalo,\
+> Parisāssa hoti anugatā acalā”ti.
 
 ## 28–29. Pahūtajivhābrahmassaralakkhaṇāni
 
@@ -571,25 +571,25 @@ Parisāssa hoti anugatā acalā”ti.
 
 2.24\. Tatthetaṁ vuccati:
 
-“Akkosabhaṇḍanavihesakāriṁ,\
-Ubbādhikaṁ bahujanappamaddanaṁ;\
-Abāḷhaṁ giraṁ so na bhaṇi pharusaṁ,\
-Madhuraṁ bhaṇi susaṁhitaṁ sakhilaṁ.
+> “Akkosabhaṇḍanavihesakāriṁ,\
+> Ubbādhikaṁ bahujanappamaddanaṁ;\
+> Abāḷhaṁ giraṁ so na bhaṇi pharusaṁ,\
+> Madhuraṁ bhaṇi susaṁhitaṁ sakhilaṁ.
 
-Manaso piyā hadayagāminiyo,\
-Vācā so erayati kaṇṇasukhā;\
-Vācāsuciṇṇaphalamanubhavi,\
-Saggesu vedayatha puññaphalaṁ.
+> Manaso piyā hadayagāminiyo,\
+> Vācā so erayati kaṇṇasukhā;\
+> Vācāsuciṇṇaphalamanubhavi,\
+> Saggesu vedayatha puññaphalaṁ.
 
-Veditvā so sucaritassa phalaṁ,\
-Brahmassarattamidhamajjhagamā;\
-Jivhāssa hoti vipulā puthulā,\
-Ādeyyavākyavacano bhavati.
+> Veditvā so sucaritassa phalaṁ,\
+> Brahmassarattamidhamajjhagamā;\
+> Jivhāssa hoti vipulā puthulā,\
+> Ādeyyavākyavacano bhavati.
 
-Gihinopi ijjhati yathā bhaṇato,\
-Atha ce pabbajati so manujo;\
-Ādiyantissa vacanaṁ janatā,\
-Bahuno bahuṁ subhaṇitaṁ bhaṇato”ti.
+> Gihinopi ijjhati yathā bhaṇato,\
+> Atha ce pabbajati so manujo;\
+> Ādiyantissa vacanaṁ janatā,\
+> Bahuno bahuṁ subhaṇitaṁ bhaṇato”ti.
 
 ## 30. Sīhahanulakkhaṇaṁ
 
@@ -599,70 +599,70 @@ Bahuno bahuṁ subhaṇitaṁ bhaṇato”ti.
 
 2.27\. Tatthetaṁ vuccati:
 
-“Na samphappalāpaṁ na muddhataṁ,\
-Avikiṇṇavacanabyappatho ahosi;\
-Ahitamapi ca apanudi,\
-Hitamapi ca bahujanasukhañca abhaṇi.
+> “Na samphappalāpaṁ na muddhataṁ,\
+> Avikiṇṇavacanabyappatho ahosi;\
+> Ahitamapi ca apanudi,\
+> Hitamapi ca bahujanasukhañca abhaṇi.
 
-Taṁ katvā ito cuto divamupapajji,\
-Sukataphalavipākamanubhosi;\
-Caviya punaridhāgato samāno,\
-Dvidugamavaratarahanuttamalattha.
+> Taṁ katvā ito cuto divamupapajji,\
+> Sukataphalavipākamanubhosi;\
+> Caviya punaridhāgato samāno,\
+> Dvidugamavaratarahanuttamalattha.
 
-Rājā hoti suduppadhaṁsiyo,\
-Manujindo manujādhipati mahānubhāvo;\
-Tidivapuravarasamo bhavati,\
-Suravarataroriva indo.
+> Rājā hoti suduppadhaṁsiyo,\
+> Manujindo manujādhipati mahānubhāvo;\
+> Tidivapuravarasamo bhavati,\
+> Suravarataroriva indo.
 
-Gandhabbāsurayakkharakkhasebhi,\
-Surehi na hi bhavati suppadhaṁsiyo;\
-Tathatto yadi bhavati tathāvidho,\
-Idha disā ca paṭidisā ca vidisā cā”ti.
+> Gandhabbāsurayakkharakkhasebhi,\
+> Surehi na hi bhavati suppadhaṁsiyo;\
+> Tathatto yadi bhavati tathāvidho,\
+> Idha disā ca paṭidisā ca vidisā cā”ti.
 
 ## 31–32. Samadantasusukkadāṭhālakkhaṇāni
 
 2.28\. “Yampi, bhikkhave, tathāgato purimaṁ jātiṁ purimaṁ bhavaṁ purimaṁ niketaṁ pubbe manussabhūto samāno micchājīvaṁ pahāya sammāājīvena jīvikaṁ kappesi, tulākūṭakaṁsakūṭamānakūṭaukkoṭanavañcananikatisāciyogachedanavadhabandhanaviparāmosaālopasahasākārā paṭivirato ahosi. So tassa kammassa kaṭattā upacitattā ussannattā vipulattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. So tattha aññe deve dasahi ṭhānehi adhigaṇhāti dibbena āyunā dibbena vaṇṇena dibbena sukhena dibbena yasena dibbena ādhipateyyena dibbehi rūpehi dibbehi saddehi dibbehi gandhehi dibbehi rasehi dibbehi phoṭṭhabbehi. So tato cuto itthattaṁ āgato samāno imāni dve mahāpurisalakkhaṇāni paṭilabhati, samadanto ca hoti susukkadāṭho ca.
 
-2.29\. So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. Tassimāni satta ratanāni bhavanti, seyyathidaṁ— cakkaratanaṁ hatthiratanaṁ assaratanaṁ maṇiratanaṁ itthiratanaṁ gahapatiratanaṁ pariṇāyakaratanameva sattamaṁ. Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. So imaṁ pathaviṁ sāgarapariyantaṁ akhilamanimittamakaṇṭakaṁ iddhaṁ phītaṁ khemaṁ sivaṁ nirabbudaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati. Rājā samāno kiṁ labhati? Suciparivāro hoti sucissa honti parivārā brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṁ labhati.
+2.29\. So tehi lakkhaṇehi samannāgato sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. Tassimāni satta ratanāni bhavanti, seyyathidaṁ—cakkaratanaṁ hatthiratanaṁ assaratanaṁ maṇiratanaṁ itthiratanaṁ gahapatiratanaṁ pariṇāyakaratanameva sattamaṁ. Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. So imaṁ pathaviṁ sāgarapariyantaṁ akhilamanimittamakaṇṭakaṁ iddhaṁ phītaṁ khemaṁ sivaṁ nirabbudaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati. Rājā samāno kiṁ labhati? Suciparivāro hoti sucissa honti parivārā brāhmaṇagahapatikā negamajānapadā gaṇakamahāmattā anīkaṭṭhā dovārikā amaccā pārisajjā rājāno bhogiyā kumārā. Rājā samāno idaṁ labhati.
 
 2.30\. Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho loke vivaṭṭacchado. Buddho samāno kiṁ labhati? Suciparivāro hoti, sucissa honti parivārā, bhikkhū bhikkhuniyo upāsakā upāsikāyo devā manussā asurā nāgā gandhabbā. Buddho samāno idaṁ labhati”. Etamatthaṁ bhagavā avoca.
 
 2.31\. Tatthetaṁ vuccati:
 
-“Micchājīvañca avassaji samena vuttiṁ,\
-Sucinā so janayittha dhammikena;\
-Ahitamapi ca apanudi,\
-Hitamapi ca bahujanasukhañca acari.
+> “Micchājīvañca avassaji samena vuttiṁ,\
+> Sucinā so janayittha dhammikena;\
+> Ahitamapi ca apanudi,\
+> Hitamapi ca bahujanasukhañca acari.
 
-Sagge vedayati naro sukhapphalāni,\
-Karitvā nipuṇebhi vidūhi sabbhi;\
-Vaṇṇitāni tidivapuravarasamo,\
-Abhiramati ratikhiḍḍāsamaṅgī.
+> Sagge vedayati naro sukhapphalāni,\
+> Karitvā nipuṇebhi vidūhi sabbhi;\
+> Vaṇṇitāni tidivapuravarasamo,\
+> Abhiramati ratikhiḍḍāsamaṅgī.
 
-Laddhāna mānusakaṁ bhavaṁ tato,\
-Cavitvāna sukataphalavipākaṁ;\
-Sesakena paṭilabhati lapanajaṁ,\
-Samamapi sucisusukkaṁ.
+> Laddhāna mānusakaṁ bhavaṁ tato,\
+> Cavitvāna sukataphalavipākaṁ;\
+> Sesakena paṭilabhati lapanajaṁ,\
+> Samamapi sucisusukkaṁ.
 
-Taṁ veyyañjanikā samāgatā bahavo,\
-Byākaṁsu nipuṇasammatā manujā;\
-Sucijanaparivāragaṇo bhavati,\
-Dijasamasukkasucisobhanadanto.
+> Taṁ veyyañjanikā samāgatā bahavo,\
+> Byākaṁsu nipuṇasammatā manujā;\
+> Sucijanaparivāragaṇo bhavati,\
+> Dijasamasukkasucisobhanadanto.
 
-Rañño hoti bahujano,\
-Suciparivāro mahatiṁ mahiṁ anusāsato;\
-Pasayha na ca janapadatudanaṁ,\
-Hitamapi ca bahujanasukhañca caranti.
+> Rañño hoti bahujano,\
+> Suciparivāro mahatiṁ mahiṁ anusāsato;\
+> Pasayha na ca janapadatudanaṁ,\
+> Hitamapi ca bahujanasukhañca caranti.
 
-Atha ce pabbajati bhavati vipāpo,\
-Samaṇo samitarajo vivaṭṭacchado;\
-Vigatadarathakilamatho,\
-Imamapi ca paramapi ca passati lokaṁ.
+> Atha ce pabbajati bhavati vipāpo,\
+> Samaṇo samitarajo vivaṭṭacchado;\
+> Vigatadarathakilamatho,\
+> Imamapi ca paramapi ca passati lokaṁ.
 
-Tassovādakarā bahugihī ca pabbajitā ca,\
-Asuciṁ garahitaṁ dhunanti pāpaṁ;\
-Sa hi sucibhi parivuto bhavati,\
-Malakhilakalikilese panudehī”ti.
+> Tassovādakarā bahugihī ca pabbajitā ca,\
+> Asuciṁ garahitaṁ dhunanti pāpaṁ;\
+> Sa hi sucibhi parivuto bhavati,\
+> Malakhilakalikilese panudehī”ti.
 
 Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 

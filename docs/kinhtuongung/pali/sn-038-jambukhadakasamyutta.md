@@ -14,7 +14,7 @@ Paṭhamaṁ.
 
 Katamaṁ nu kho, āvuso, nibbānan”ti?
 
-“Yo kho, āvuso, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati nibbānan”ti.
+“Yo kho, āvuso, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati nibbānan”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā etassa nibbānassa sacchikiriyāyā”ti?
 
@@ -22,7 +22,7 @@ Katamaṁ nu kho, āvuso, nibbānan”ti?
 
 “Katamo panāvuso, maggo katamā paṭipadā etassa nibbānassa sacchikiriyāyā”ti?
 
-“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa nibbānassa sacchikiriyāya, seyyathidaṁ— sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.
+“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa nibbānassa sacchikiriyāya, seyyathidaṁ—sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi.
 
 ### 38.2 Arahattapañhāsutta
 
@@ -34,7 +34,7 @@ Dutiyaṁ.
 
 Katamaṁ nu kho, āvuso, arahattan”ti?
 
-“Yo kho, āvuso, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati arahattan”ti.
+“Yo kho, āvuso, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati arahattan”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā etassa arahattassa sacchikiriyāyā”ti?
 
@@ -42,7 +42,7 @@ Katamaṁ nu kho, āvuso, arahattan”ti?
 
 “Katamo panāvuso, maggo katamā paṭipadā etassa arahattassa sacchikiriyāyā”ti?
 
-“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa arahattassa sacchikiriyāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi.
+“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa arahattassa sacchikiriyāya, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi.
 
 ### 38.3 Dhammavādīpañhāsutta
 
@@ -56,7 +56,7 @@ Katamaṁ nu kho, āvuso, arahattan”ti?
 
 “Katamo panāvuso, maggo katamā paṭipadā etassa rāgassa dosassa mohassa pahānāyā”ti?
 
-“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa rāgassa dosassa mohassa pahānāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā etassa rāgassa dosassa mohassa pahānāyā”ti.
+“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa rāgassa dosassa mohassa pahānāya, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā etassa rāgassa dosassa mohassa pahānāyā”ti.
 
 “Bhaddako, āvuso, maggo bhaddikā paṭipadā, etassa rāgassa dosassa mohassa pahānāya. Alañca panāvuso sāriputta, appamādāyā”ti.
 
@@ -74,7 +74,7 @@ Tatiyaṁ.
 
 “Katamo panāvuso, maggo katamā paṭipadā, etassa dukkhassa pariññāyā”ti?
 
-2\. “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etassa dukkhassa pariññāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā etassa dukkhassa pariññāyā”ti. “Bhaddako, āvuso, maggo bhaddikā paṭipadā, etassa dukkhassa pariññāya. Alañca panāvuso sāriputta, appamādāyā”ti.
+2\. “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etassa dukkhassa pariññāya, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā etassa dukkhassa pariññāyā”ti. “Bhaddako, āvuso, maggo bhaddikā paṭipadā, etassa dukkhassa pariññāya. Alañca panāvuso sāriputta, appamādāyā”ti.
 
 Catutthaṁ.
 
@@ -92,7 +92,7 @@ Kittāvatā nu kho, āvuso, assāsappatto hotī”ti?
 
 “Atthi kho, āvuso, maggo atthi paṭipadā, etassa assāsassa sacchikiriyāyā”ti.
 
-“Katamo panāvuso, maggo katamā paṭipadā, etassa assāsassa sacchikiriyāyā”ti? “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa assāsassa sacchikiriyāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etassa assāsassa sacchikiriyāyā”ti.
+“Katamo panāvuso, maggo katamā paṭipadā, etassa assāsassa sacchikiriyāyā”ti? “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa assāsassa sacchikiriyāya, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etassa assāsassa sacchikiriyāyā”ti.
 
 ### 38.6 Paramassāsappattasutta
 
@@ -108,17 +108,17 @@ Kittāvatā nu kho, āvuso, paramassāsappatto hotī”ti?
 
 “Atthi kho, āvuso, maggo atthi paṭipadā, etassa paramassāsassa sacchikiriyāyā”ti.
 
-“Katamo pana, āvuso, maggo katamā paṭipadā, etassa paramassāsassa sacchikiriyāyā”ti? “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa paramassāsassa sacchikiriyāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etassa paramassāsassa sacchikiriyāyā”ti.
+“Katamo pana, āvuso, maggo katamā paṭipadā, etassa paramassāsassa sacchikiriyāyā”ti? “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo etassa paramassāsassa sacchikiriyāya, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etassa paramassāsassa sacchikiriyāyā”ti.
 
 ### 38.7 Vedanāpañhāsutta
 
-1\. “‘Vedanā, vedanā’ti, āvuso sāriputta, vuccati. “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etāsaṁ tissannaṁ vedanānaṁ pariññāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etāsaṁ tissannaṁ vedanānaṁ pariññāyā”ti. “Bhaddako, āvuso, maggo bhaddikā paṭipadā, etāsaṁ tissannaṁ vedanānaṁ pariññāya. Alañca panāvuso sāriputta, appamādāyā”ti.
+1\. “‘Vedanā, vedanā’ti, āvuso sāriputta, vuccati. “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etāsaṁ tissannaṁ vedanānaṁ pariññāya, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etāsaṁ tissannaṁ vedanānaṁ pariññāyā”ti. “Bhaddako, āvuso, maggo bhaddikā paṭipadā, etāsaṁ tissannaṁ vedanānaṁ pariññāya. Alañca panāvuso sāriputta, appamādāyā”ti.
 
 Sattamaṁ.
 
 Katamā nu kho, āvuso, vedanā”ti?
 
-“Tisso imāvuso, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā— imā kho, āvuso, tisso vedanā”ti.
+“Tisso imāvuso, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, āvuso, tisso vedanā”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā, etāsaṁ tissannaṁ vedanānaṁ pariññāyā”ti?
 
@@ -134,7 +134,7 @@ Aṭṭhamaṁ.
 
 Katamo nu kho, āvuso, āsavo”ti?
 
-“Tayo me, āvuso, āsavā. Kāmāsavo, bhavāsavo, avijjāsavo— ime kho, āvuso, tayo āsavā”ti.
+“Tayo me, āvuso, āsavā. Kāmāsavo, bhavāsavo, avijjāsavo—ime kho, āvuso, tayo āsavā”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā etesaṁ āsavānaṁ pahānāyā”ti?
 
@@ -150,13 +150,13 @@ Navamaṁ.
 
 Katamā nu kho, āvuso, avijjā”ti?
 
-“Yaṁ kho, āvuso, dukkhe aññāṇaṁ, dukkhasamudaye aññāṇaṁ, dukkhanirodhe aññāṇaṁ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ— ayaṁ vuccatāvuso, avijjā”ti.
+“Yaṁ kho, āvuso, dukkhe aññāṇaṁ, dukkhasamudaye aññāṇaṁ, dukkhanirodhe aññāṇaṁ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṁ—ayaṁ vuccatāvuso, avijjā”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā, etissā avijjāya pahānāyā”ti?
 
 “Atthi kho, āvuso, maggo atthi paṭipadā, etissā avijjāya pahānāyā”ti.
 
-“Katamo panāvuso, maggo katamā paṭipadā, etissā avijjāya pahānāyā”ti? “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etissā avijjāya pahānāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi.
+“Katamo panāvuso, maggo katamā paṭipadā, etissā avijjāya pahānāyā”ti? “Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etissā avijjāya pahānāya, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi.
 
 ### 38.10 Taṇhāpañhāsutta
 
@@ -166,7 +166,7 @@ Dasamaṁ.
 
 Katamā nu kho, āvuso, taṇhā”ti?
 
-“Tisso imā, āvuso, taṇhā. Kāmataṇhā, bhavataṇhā, vibhavataṇhā— imā kho, āvuso, tisso taṇhā”ti.
+“Tisso imā, āvuso, taṇhā. Kāmataṇhā, bhavataṇhā, vibhavataṇhā—imā kho, āvuso, tisso taṇhā”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā, etāsaṁ taṇhānaṁ pahānāyā”ti?
 
@@ -182,7 +182,7 @@ Ekādasamaṁ.
 
 Katamo nu kho, āvuso, ogho”ti?
 
-“Cattārome, āvuso, oghā. Kāmogho, bhavogho, diṭṭhogho, avijjogho— ime kho, āvuso, cattāro oghā”ti.
+“Cattārome, āvuso, oghā. Kāmogho, bhavogho, diṭṭhogho, avijjogho—ime kho, āvuso, cattāro oghā”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā, etesaṁ oghānaṁ pahānāyā”ti?
 
@@ -198,7 +198,7 @@ Dvādasamaṁ.
 
 Katamaṁ nu kho, āvuso, upādānan”ti?
 
-“Cattārimāni, āvuso, upādānāni. Kāmupādānaṁ, diṭṭhupādānaṁ sīlabbatupādānaṁ, attavādupādānaṁ— imāni kho, āvuso, cattāri upādānānī”ti.
+“Cattārimāni, āvuso, upādānāni. Kāmupādānaṁ, diṭṭhupādānaṁ sīlabbatupādānaṁ, attavādupādānaṁ—imāni kho, āvuso, cattāri upādānānī”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā, etesaṁ upādānānaṁ pahānāyā”ti?
 
@@ -214,7 +214,7 @@ Terasamaṁ.
 
 Katamo nu kho, āvuso, bhavo”ti?
 
-“Tayome, āvuso, bhavā. Kāmabhavo, rūpabhavo, arūpabhavo— ime kho, āvuso, tayo bhavā”ti.
+“Tayome, āvuso, bhavā. Kāmabhavo, rūpabhavo, arūpabhavo—ime kho, āvuso, tayo bhavā”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā, etesaṁ bhavānaṁ pariññāyā”ti?
 
@@ -230,7 +230,7 @@ Cuddasamaṁ.
 
 Katamaṁ nu kho, āvuso, dukkhan”ti?
 
-“Tisso imā, āvuso, dukkhatā. Dukkhadukkhatā, saṅkhāradukkhatā, vipariṇāmadukkhatā— imā kho, āvuso, tisso dukkhatā”ti.
+“Tisso imā, āvuso, dukkhatā. Dukkhadukkhatā, saṅkhāradukkhatā, vipariṇāmadukkhatā—imā kho, āvuso, tisso dukkhatā”ti.
 
 “Atthi panāvuso maggo atthi paṭipadā, etāsaṁ dukkhatānaṁ pariññāyā”ti?
 
@@ -246,7 +246,7 @@ Pannarasamaṁ.
 
 Katamo nu kho, āvuso, sakkāyo”ti?
 
-“Pañcime, āvuso, upādānakkhandhā sakkāyo vutto bhagavatā, seyyathidaṁ— rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime kho, āvuso, pañcupādānakkhandhā sakkāyo vutto bhagavatā”ti.
+“Pañcime, āvuso, upādānakkhandhā sakkāyo vutto bhagavatā, seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime kho, āvuso, pañcupādānakkhandhā sakkāyo vutto bhagavatā”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā, etassa sakkāyassa pariññāyā”ti?
 

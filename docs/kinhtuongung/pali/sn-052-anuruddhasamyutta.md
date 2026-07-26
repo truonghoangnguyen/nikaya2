@@ -4,7 +4,7 @@
 
 ### 52.1 Paṭhamarahogatasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmato anuruddhassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmato anuruddhassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:
 
 “yesaṁ kesañci cattāro satipaṭṭhānā viraddhā, viraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī. Yesaṁ kesañci cattāro satipaṭṭhānā āraddhā, āraddho tesaṁ ariyo maggo sammā dukkhakkhayagāmī”ti.
 
@@ -60,7 +60,7 @@ Dutiyaṁ.
 
 “katamesaṁ āyasmā anuruddho dhammānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto”ti?
 
-2\. “Catunnaṁ khvāhaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. Katamesaṁ catunnaṁ? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto.
+2\. “Catunnaṁ khvāhaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. Katamesaṁ catunnaṁ? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto.
 
 Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā hīnaṁ dhammaṁ hīnato abbhaññāsiṁ, majjhimaṁ dhammaṁ majjhimato abbhaññāsiṁ, paṇītaṁ dhammaṁ paṇītato abbhaññāsin”ti.
 
@@ -72,7 +72,7 @@ Tatiyaṁ.
 
 “sekhenāvuso anuruddha, bhikkhunā katame dhammā upasampajja vihātabbā”ti?
 
-2\. “Sekhenāvuso sāriputta, bhikkhunā cattāro satipaṭṭhānā upasampajja vihātabbā. Katame cattāro? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— sekhenāvuso sāriputta, bhikkhunā ime cattāro satipaṭṭhānā upasampajja vihātabbā”ti.
+2\. “Sekhenāvuso sāriputta, bhikkhunā cattāro satipaṭṭhānā upasampajja vihātabbā. Katame cattāro? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—sekhenāvuso sāriputta, bhikkhunā ime cattāro satipaṭṭhānā upasampajja vihātabbā”ti.
 
 Catutthaṁ.
 
@@ -110,7 +110,7 @@ Tatra kho āyasmā anuruddho bhikkhū āmantesi: “āvuso bhikkhavo”ti.
 
 “Āvuso”ti kho te bhikkhū āyasmato anuruddhassa paccassosuṁ. Āyasmā anuruddho etadavoca:
 
-2\. “Cattārome, āvuso, satipaṭṭhānā bhāvitā bahulīkatā taṇhākkhayāya saṁvattanti. Katame cattāro? Idhāvuso, bhikkhu kāye kāyānupassī viharati …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— ime kho, āvuso, cattāro satipaṭṭhānā bhāvitā bahulīkatā taṇhākkhayāya saṁvattantī”ti.
+2\. “Cattārome, āvuso, satipaṭṭhānā bhāvitā bahulīkatā taṇhākkhayāya saṁvattanti. Katame cattāro? Idhāvuso, bhikkhu kāye kāyānupassī viharati …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—ime kho, āvuso, cattāro satipaṭṭhānā bhāvitā bahulīkatā taṇhākkhayāya saṁvattantī”ti.
 
 Sattamaṁ.
 
@@ -136,7 +136,7 @@ Kathañcāvuso, bhikkhu cattāro satipaṭṭhāne bhāveti, cattāro satipaṭ�
 
 Katamenāyasmā anuruddho vihārena etarahi bahulaṁ viharatī”ti?
 
-“Catūsu khvāhaṁ, āvuso, satipaṭṭhānesu suppatiṭṭhitacitto etarahi bahulaṁ viharāmi. Katamesu catūsu? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— imesu khvāhaṁ, āvuso, catūsu satipaṭṭhānesu suppatiṭṭhitacitto etarahi bahulaṁ viharāmi. “Lābhā vata no, āvuso, suladdhaṁ vata no, āvuso. Ye mayaṁ āyasmato anuruddhassa sammukhāva assumha āsabhiṁ vācaṁ bhāsamānassā”ti.
+“Catūsu khvāhaṁ, āvuso, satipaṭṭhānesu suppatiṭṭhitacitto etarahi bahulaṁ viharāmi. Katamesu catūsu? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—imesu khvāhaṁ, āvuso, catūsu satipaṭṭhānesu suppatiṭṭhitacitto etarahi bahulaṁ viharāmi. “Lābhā vata no, āvuso, suladdhaṁ vata no, āvuso. Ye mayaṁ āyasmato anuruddhassa sammukhāva assumha āsabhiṁ vācaṁ bhāsamānassā”ti.
 
 3\. Navamaṁ.
 
@@ -148,7 +148,7 @@ Katamenāyasmā anuruddho vihārena etarahi bahulaṁ viharatī”ti?
 
 Rahogatavaggo paṭhamo.
 
-“Catūsu kho me, āvuso, satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhanti. Katamesu catūsu? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— imesu kho me, āvuso, catūsu satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhantī”ti.
+“Catūsu kho me, āvuso, satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhanti. Katamesu catūsu? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—imesu kho me, āvuso, catūsu satipaṭṭhānesu suppatiṭṭhitacittassa viharato uppannā sārīrikā dukkhā vedanā cittaṁ na pariyādāya tiṭṭhantī”ti.
 
 Dasamaṁ.
 
@@ -167,7 +167,7 @@ Dasamaṁ.
 
 Paṭhamaṁ.
 
-“Catunnaṁ khvāhaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. Katamesaṁ catunnaṁ? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ— imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto.
+“Catunnaṁ khvāhaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. Katamesaṁ catunnaṁ? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto.
 
 Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā kappasahassaṁ anussarāmī”ti.
 
@@ -185,7 +185,7 @@ Tatiyaṁ.
 
 ### 52.14 Cetopariyasutta
 
-1\. “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāmi— sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāmi …pe… avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānāmī”ti.
+1\. “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāmi—sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāmi …pe… avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānāmī”ti.
 
 Catutthaṁ.
 

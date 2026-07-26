@@ -8,7 +8,7 @@
 
 2\. “‘Nibbānaṁ, nibbānan’ti, āvuso sāriputta, vuccati. Katamaṁ nu kho, āvuso, nibbānan”ti?
 
-“Yo kho, āvuso, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati nibbānan”ti.
+“Yo kho, āvuso, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati nibbānan”ti.
 
 “Atthi panāvuso, maggo atthi paṭipadā, etassa nibbānassa sacchikiriyāyā”ti?
 
@@ -16,7 +16,7 @@
 
 3\. “Katamo panāvuso, maggo katamā paṭipadā etassa nibbānassa sacchikiriyāyā”ti?
 
-“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etassa nibbānassa sacchikiriyāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etassa nibbānassa sacchikiriyāyā”ti.
+“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etassa nibbānassa sacchikiriyāya, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ kho, āvuso, maggo ayaṁ paṭipadā, etassa nibbānassa sacchikiriyāyā”ti.
 
 “Bhaddako, āvuso, maggo bhaddikā paṭipadā, etassa nibbānassa sacchikiriyāya. Alañca panāvuso sāriputta, appamādāyā”ti.
 

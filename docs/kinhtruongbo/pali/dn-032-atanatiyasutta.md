@@ -2,7 +2,7 @@
 
 ## 1. Paṭhamabhāṇavāra
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Atha kho cattāro mahārājā mahatiyā ca yakkhasenāya mahatiyā ca gandhabbasenāya mahatiyā ca kumbhaṇḍasenāya mahatiyā ca nāgasenāya catuddisaṁ rakkhaṁ ṭhapetvā catuddisaṁ gumbaṁ ṭhapetvā catuddisaṁ ovaraṇaṁ ṭhapetvā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ gijjhakūṭaṁ pabbataṁ obhāsetvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Tepi kho yakkhā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu, appekacce bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu, appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu, appekacce nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu, appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Atha kho cattāro mahārājā mahatiyā ca yakkhasenāya mahatiyā ca gandhabbasenāya mahatiyā ca kumbhaṇḍasenāya mahatiyā ca nāgasenāya catuddisaṁ rakkhaṁ ṭhapetvā catuddisaṁ gumbaṁ ṭhapetvā catuddisaṁ ovaraṇaṁ ṭhapetvā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ gijjhakūṭaṁ pabbataṁ obhāsetvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Tepi kho yakkhā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu, appekacce bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu, appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu, appekacce nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu, appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu.
 
 2\. Ekamantaṁ nisinno kho vessavaṇo mahārājā bhagavantaṁ etadavoca: “santi hi, bhante, uḷārā yakkhā bhagavato appasannā. Santi hi, bhante, uḷārā yakkhā bhagavato pasannā. Santi hi, bhante, majjhimā yakkhā bhagavato appasannā. Santi hi, bhante, majjhimā yakkhā bhagavato pasannā. Santi hi, bhante, nīcā yakkhā bhagavato appasannā. Santi hi, bhante, nīcā yakkhā bhagavato pasannā. Yebhuyyena kho pana, bhante, yakkhā appasannāyeva bhagavato. Taṁ kissa hetu? Bhagavā hi, bhante, pāṇātipātā veramaṇiyā dhammaṁ deseti, adinnādānā veramaṇiyā dhammaṁ deseti, kāmesumicchācārā veramaṇiyā dhammaṁ deseti, musāvādā veramaṇiyā dhammaṁ deseti, surāmerayamajjappamādaṭṭhānā veramaṇiyā dhammaṁ deseti. Yebhuyyena kho pana, bhante, yakkhā appaṭiviratāyeva pāṇātipātā, appaṭiviratā adinnādānā, appaṭiviratā kāmesumicchācārā, appaṭiviratā musāvādā, appaṭiviratā surāmerayamajjappamādaṭṭhānā. Tesaṁ taṁ hoti appiyaṁ amanāpaṁ.
 
@@ -10,272 +10,276 @@ Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni
 
 3\. Atha kho vessavaṇo mahārājā bhagavato adhivāsanaṁ viditvā tāyaṁ velāyaṁ imaṁ āṭānāṭiyaṁ rakkhaṁ abhāsi:
 
-“Vipassissa ca namatthu,\
-cakkhumantassa sirīmato;\
-Sikhissapi ca namatthu,\
-sabbabhūtānukampino.
+> “Vipassissa ca namatthu,\
+> cakkhumantassa sirīmato;\
+> Sikhissapi ca namatthu,\
+> sabbabhūtānukampino.
 
-Vessabhussa ca namatthu,\
-nhātakassa tapassino;\
-Namatthu kakusandhassa,\
-mārasenāpamaddino.
+> Vessabhussa ca namatthu,\
+> nhātakassa tapassino;\
+> Namatthu kakusandhassa,\
+> mārasenāpamaddino.
 
-Koṇāgamanassa namatthu,\
-brāhmaṇassa vusīmato;\
-Kassapassa ca namatthu,\
-vippamuttassa sabbadhi.
+> Koṇāgamanassa namatthu,\
+> brāhmaṇassa vusīmato;\
+> Kassapassa ca namatthu,\
+> vippamuttassa sabbadhi.
 
-Aṅgīrasassa namatthu,\
-sakyaputtassa sirīmato;\
-Yo imaṁ dhammaṁ desesi,\
-sabbadukkhāpanūdanaṁ.
+> Aṅgīrasassa namatthu,\
+> sakyaputtassa sirīmato;\
+> Yo imaṁ dhammaṁ desesi,\
+> sabbadukkhāpanūdanaṁ.
 
-Ye cāpi nibbutā loke,\
-yathābhūtaṁ vipassisuṁ;\
-Te janā apisuṇātha,\
-mahantā vītasāradā.
+> Ye cāpi nibbutā loke,\
+> yathābhūtaṁ vipassisuṁ;\
+> Te janā apisuṇātha,\
+> mahantā vītasāradā.
 
-Hitaṁ devamanussānaṁ,\
-yaṁ namassanti gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-mahantaṁ vītasāradaṁ.
+> Hitaṁ devamanussānaṁ,\
+> yaṁ namassanti gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> mahantaṁ vītasāradaṁ.
 
-4\. Yato uggacchati sūriyo,\
-ādicco maṇḍalī mahā;\
-Yassa cuggacchamānassa,\
-saṁvarīpi nirujjhati;\
-Yassa cuggate sūriye,\
-‘divaso’ti pavuccati.
+4\.
+> Yato uggacchati sūriyo,\
+> ādicco maṇḍalī mahā;\
+> Yassa cuggacchamānassa,\
+> saṁvarīpi nirujjhati;\
+> Yassa cuggate sūriye,\
+> ‘divaso’ti pavuccati.
 
-Rahadopi tattha gambhīro,\
-samuddo saritodako;\
-Evaṁ taṁ tattha jānanti,\
-‘samuddo saritodako’.
+> Rahadopi tattha gambhīro,\
+> samuddo saritodako;\
+> Evaṁ taṁ tattha jānanti,\
+> ‘samuddo saritodako’.
 
-Ito ‘sā purimā disā’,\
-iti naṁ ācikkhatī jano;\
-Yaṁ disaṁ abhipāleti,\
-mahārājā yasassi so.
+> Ito ‘sā purimā disā’,\
+> iti naṁ ācikkhatī jano;\
+> Yaṁ disaṁ abhipāleti,\
+> mahārājā yasassi so.
 
-Gandhabbānaṁ adhipati,\
-‘dhataraṭṭho’ti nāmaso;\
-Ramatī naccagītehi,\
-gandhabbehi purakkhato.
+> Gandhabbānaṁ adhipati,\
+> ‘dhataraṭṭho’ti nāmaso;\
+> Ramatī naccagītehi,\
+> gandhabbehi purakkhato.
 
-Puttāpi tassa bahavo,\
-ekanāmāti me sutaṁ;\
-Asīti dasa eko ca,\
-indanāmā mahabbalā.
+> Puttāpi tassa bahavo,\
+> ekanāmāti me sutaṁ;\
+> Asīti dasa eko ca,\
+> indanāmā mahabbalā.
 
-Te cāpi buddhaṁ disvāna,\
-buddhaṁ ādiccabandhunaṁ;\
-Dūratova namassanti,\
-mahantaṁ vītasāradaṁ.
+> Te cāpi buddhaṁ disvāna,\
+> buddhaṁ ādiccabandhunaṁ;\
+> Dūratova namassanti,\
+> mahantaṁ vītasāradaṁ.
 
-Namo te purisājañña,\
-namo te purisuttama;\
-Kusalena samekkhasi,\
-amanussāpi taṁ vandanti;\
-Sutaṁ netaṁ abhiṇhaso,\
-tasmā evaṁ vademase.
+> Namo te purisājañña,\
+> namo te purisuttama;\
+> Kusalena samekkhasi,\
+> amanussāpi taṁ vandanti;\
+> Sutaṁ netaṁ abhiṇhaso,\
+> tasmā evaṁ vademase.
 
-‘Jinaṁ vandatha gotamaṁ’,\
-‘jinaṁ vandāma gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-buddhaṁ vandāma gotamaṁ’.
+> ‘Jinaṁ vandatha gotamaṁ’,\
+> ‘jinaṁ vandāma gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> buddhaṁ vandāma gotamaṁ’.
 
-5\. Yena petā pavuccanti,\
-pisuṇā piṭṭhimaṁsikā;\
-Pāṇātipātino luddā,\
-corā nekatikā janā.
+5\.
+> Yena petā pavuccanti,\
+> pisuṇā piṭṭhimaṁsikā;\
+> Pāṇātipātino luddā,\
+> corā nekatikā janā.
 
-Ito ‘sā dakkhiṇā disā’,\
-iti naṁ ācikkhatī jano;\
-Yaṁ disaṁ abhipāleti,\
-mahārājā yasassi so.
+> Ito ‘sā dakkhiṇā disā’,\
+> iti naṁ ācikkhatī jano;\
+> Yaṁ disaṁ abhipāleti,\
+> mahārājā yasassi so.
 
-Kumbhaṇḍānaṁ adhipati,\
-‘virūḷho’ iti nāmaso;\
-Ramatī naccagītehi,\
-kumbhaṇḍehi purakkhato.
+> Kumbhaṇḍānaṁ adhipati,\
+> ‘virūḷho’ iti nāmaso;\
+> Ramatī naccagītehi,\
+> kumbhaṇḍehi purakkhato.
 
-Puttāpi tassa bahavo,\
-ekanāmāti me sutaṁ;\
-Asīti dasa eko ca,\
-indanāmā mahabbalā.
+> Puttāpi tassa bahavo,\
+> ekanāmāti me sutaṁ;\
+> Asīti dasa eko ca,\
+> indanāmā mahabbalā.
 
-Te cāpi buddhaṁ disvāna,\
-buddhaṁ ādiccabandhunaṁ;\
-Dūratova namassanti,\
-mahantaṁ vītasāradaṁ.
+> Te cāpi buddhaṁ disvāna,\
+> buddhaṁ ādiccabandhunaṁ;\
+> Dūratova namassanti,\
+> mahantaṁ vītasāradaṁ.
 
-Namo te purisājañña,\
-namo te purisuttama;\
-Kusalena samekkhasi,\
-amanussāpi taṁ vandanti;\
-Sutaṁ netaṁ abhiṇhaso,\
-tasmā evaṁ vademase.
+> Namo te purisājañña,\
+> namo te purisuttama;\
+> Kusalena samekkhasi,\
+> amanussāpi taṁ vandanti;\
+> Sutaṁ netaṁ abhiṇhaso,\
+> tasmā evaṁ vademase.
 
-‘Jinaṁ vandatha gotamaṁ’,\
-‘jinaṁ vandāma gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-buddhaṁ vandāma gotamaṁ’.
+> ‘Jinaṁ vandatha gotamaṁ’,\
+> ‘jinaṁ vandāma gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> buddhaṁ vandāma gotamaṁ’.
 
-6\. Yattha coggacchati sūriyo,\
-ādicco maṇḍalī mahā;\
-Yassa coggacchamānassa,\
-divasopi nirujjhati;\
-Yassa coggate sūriye,\
-‘saṁvarī’ti pavuccati.
+6\.
+> Yattha coggacchati sūriyo,\
+> ādicco maṇḍalī mahā;\
+> Yassa coggacchamānassa,\
+> divasopi nirujjhati;\
+> Yassa coggate sūriye,\
+> ‘saṁvarī’ti pavuccati.
 
-Rahadopi tattha gambhīro,\
-samuddo saritodako;\
-Evaṁ taṁ tattha jānanti,\
-‘samuddo saritodako’.
+> Rahadopi tattha gambhīro,\
+> samuddo saritodako;\
+> Evaṁ taṁ tattha jānanti,\
+> ‘samuddo saritodako’.
 
-Ito ‘sā pacchimā disā’,\
-iti naṁ ācikkhatī jano;\
-Yaṁ disaṁ abhipāleti,\
-mahārājā yasassi so.
+> Ito ‘sā pacchimā disā’,\
+> iti naṁ ācikkhatī jano;\
+> Yaṁ disaṁ abhipāleti,\
+> mahārājā yasassi so.
 
-Nāgānañca adhipati,\
-‘virūpakkho’ti nāmaso;\
-Ramatī naccagītehi,\
-nāgeheva purakkhato.
+> Nāgānañca adhipati,\
+> ‘virūpakkho’ti nāmaso;\
+> Ramatī naccagītehi,\
+> nāgeheva purakkhato.
 
-Puttāpi tassa bahavo,\
-ekanāmāti me sutaṁ;\
-Asīti dasa eko ca,\
-indanāmā mahabbalā.
+> Puttāpi tassa bahavo,\
+> ekanāmāti me sutaṁ;\
+> Asīti dasa eko ca,\
+> indanāmā mahabbalā.
 
-Te cāpi buddhaṁ disvāna,\
-buddhaṁ ādiccabandhunaṁ;\
-Dūratova namassanti,\
-mahantaṁ vītasāradaṁ.
+> Te cāpi buddhaṁ disvāna,\
+> buddhaṁ ādiccabandhunaṁ;\
+> Dūratova namassanti,\
+> mahantaṁ vītasāradaṁ.
 
-Namo te purisājañña,\
-namo te purisuttama;\
-Kusalena samekkhasi,\
-amanussāpi taṁ vandanti;\
-Sutaṁ netaṁ abhiṇhaso,\
-tasmā evaṁ vademase.
+> Namo te purisājañña,\
+> namo te purisuttama;\
+> Kusalena samekkhasi,\
+> amanussāpi taṁ vandanti;\
+> Sutaṁ netaṁ abhiṇhaso,\
+> tasmā evaṁ vademase.
 
-‘Jinaṁ vandatha gotamaṁ’,\
-‘jinaṁ vandāma gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-buddhaṁ vandāma gotamaṁ’.
+> ‘Jinaṁ vandatha gotamaṁ’,\
+> ‘jinaṁ vandāma gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> buddhaṁ vandāma gotamaṁ’.
 
-7\. Yena uttarakuruvho,\
-mahāneru sudassano;\
-Manussā tattha jāyanti,\
-amamā apariggahā.
+7\.
+> Yena uttarakuruvho,\
+> mahāneru sudassano;\
+> Manussā tattha jāyanti,\
+> amamā apariggahā.
 
-Na te bījaṁ pavapanti,\
-napi nīyanti naṅgalā;\
-Akaṭṭhapākimaṁ sāliṁ,\
-paribhuñjanti mānusā.
+> Na te bījaṁ pavapanti,\
+> napi nīyanti naṅgalā;\
+> Akaṭṭhapākimaṁ sāliṁ,\
+> paribhuñjanti mānusā.
 
-Akaṇaṁ athusaṁ suddhaṁ,\
-sugandhaṁ taṇḍulapphalaṁ;\
-Tuṇḍikīre pacitvāna,\
-tato bhuñjanti bhojanaṁ.
+> Akaṇaṁ athusaṁ suddhaṁ,\
+> sugandhaṁ taṇḍulapphalaṁ;\
+> Tuṇḍikīre pacitvāna,\
+> tato bhuñjanti bhojanaṁ.
 
-Gāviṁ ekakhuraṁ katvā,\
-anuyanti disodisaṁ;\
-Pasuṁ ekakhuraṁ katvā,\
-anuyanti disodisaṁ.
+> Gāviṁ ekakhuraṁ katvā,\
+> anuyanti disodisaṁ;\
+> Pasuṁ ekakhuraṁ katvā,\
+> anuyanti disodisaṁ.
 
-Itthiṁ vā vāhanaṁ katvā,\
-anuyanti disodisaṁ;\
-Purisaṁ vāhanaṁ katvā,\
-anuyanti disodisaṁ.
+> Itthiṁ vā vāhanaṁ katvā,\
+> anuyanti disodisaṁ;\
+> Purisaṁ vāhanaṁ katvā,\
+> anuyanti disodisaṁ.
 
-Kumāriṁ vāhanaṁ katvā,\
-anuyanti disodisaṁ;\
-Kumāraṁ vāhanaṁ katvā,\
-anuyanti disodisaṁ.
+> Kumāriṁ vāhanaṁ katvā,\
+> anuyanti disodisaṁ;\
+> Kumāraṁ vāhanaṁ katvā,\
+> anuyanti disodisaṁ.
 
-Te yāne abhiruhitvā,\
-Sabbā disā anupariyāyanti;\
-Pacārā tassa rājino.
+> Te yāne abhiruhitvā,\
+> Sabbā disā anupariyāyanti;\
+> Pacārā tassa rājino.
 
-Hatthiyānaṁ assayānaṁ,\
-dibbaṁ yānaṁ upaṭṭhitaṁ;\
-Pāsādā sivikā ceva,\
-mahārājassa yasassino.
+> Hatthiyānaṁ assayānaṁ,\
+> dibbaṁ yānaṁ upaṭṭhitaṁ;\
+> Pāsādā sivikā ceva,\
+> mahārājassa yasassino.
 
-Tassa ca nagarā ahu,\
-Antalikkhe sumāpitā;\
-Āṭānāṭā kusināṭā parakusināṭā,\
-Nāṭasuriyā parakusiṭanāṭā.
+> Tassa ca nagarā ahu,\
+> Antalikkhe sumāpitā;\
+> Āṭānāṭā kusināṭā parakusināṭā,\
+> Nāṭasuriyā parakusiṭanāṭā.
 
-Uttarena kasivanto,\
-Janoghamaparena ca;\
-Navanavutiyo ambaraambaravatiyo,\
-Āḷakamandā nāma rājadhānī.
+> Uttarena kasivanto,\
+> Janoghamaparena ca;\
+> Navanavutiyo ambaraambaravatiyo,\
+> Āḷakamandā nāma rājadhānī.
 
-Kuverassa kho pana mārisa,\
-Mahārājassa visāṇā nāma rājadhānī;\
-Tasmā kuvero mahārājā,\
-‘Vessavaṇo’ti pavuccati.
+> Kuverassa kho pana mārisa,\
+> Mahārājassa visāṇā nāma rājadhānī;\
+> Tasmā kuvero mahārājā,\
+> ‘Vessavaṇo’ti pavuccati.
 
-Paccesanto pakāsenti,\
-Tatolā tattalā tatotalā;\
-Ojasi tejasi tatojasī,\
-Sūro rājā ariṭṭho nemi.
+> Paccesanto pakāsenti,\
+> Tatolā tattalā tatotalā;\
+> Ojasi tejasi tatojasī,\
+> Sūro rājā ariṭṭho nemi.
 
-Rahadopi tattha dharaṇī nāma,\
-Yato meghā pavassanti;\
-Vassā yato patāyanti,\
-Sabhāpi tattha sālavatī nāma.
+> Rahadopi tattha dharaṇī nāma,\
+> Yato meghā pavassanti;\
+> Vassā yato patāyanti,\
+> Sabhāpi tattha sālavatī nāma.
 
-Yattha yakkhā payirupāsanti,\
-Tattha niccaphalā rukkhā;\
-Nānā dijagaṇā yutā,\
-Mayūrakoñcābhirudā;\
-Kokilādīhi vagguhi.
+> Yattha yakkhā payirupāsanti,\
+> Tattha niccaphalā rukkhā;\
+> Nānā dijagaṇā yutā,\
+> Mayūrakoñcābhirudā;\
+> Kokilādīhi vagguhi.
 
-Jīvañjīvakasaddettha,\
-atho oṭṭhavacittakā;\
-Kukkuṭakā kuḷīrakā,\
-vane pokkharasātakā.
+> Jīvañjīvakasaddettha,\
+> atho oṭṭhavacittakā;\
+> Kukkuṭakā kuḷīrakā,\
+> vane pokkharasātakā.
 
-Sukasāḷikasaddettha,\
-daṇḍamāṇavakāni ca;\
-Sobhati sabbakālaṁ sā,\
-kuveranaḷinī sadā.
+> Sukasāḷikasaddettha,\
+> daṇḍamāṇavakāni ca;\
+> Sobhati sabbakālaṁ sā,\
+> kuveranaḷinī sadā.
 
-Ito ‘sā uttarā disā’,\
-iti naṁ ācikkhatī jano;\
-Yaṁ disaṁ abhipāleti,\
-mahārājā yasassi so.
+> Ito ‘sā uttarā disā’,\
+> iti naṁ ācikkhatī jano;\
+> Yaṁ disaṁ abhipāleti,\
+> mahārājā yasassi so.
 
-Yakkhānañca adhipati,\
-‘kuvero’ iti nāmaso;\
-Ramatī naccagītehi,\
-yakkheheva purakkhato.
+> Yakkhānañca adhipati,\
+> ‘kuvero’ iti nāmaso;\
+> Ramatī naccagītehi,\
+> yakkheheva purakkhato.
 
-Puttāpi tassa bahavo,\
-ekanāmāti me sutaṁ;\
-Asīti dasa eko ca,\
-indanāmā mahabbalā.
+> Puttāpi tassa bahavo,\
+> ekanāmāti me sutaṁ;\
+> Asīti dasa eko ca,\
+> indanāmā mahabbalā.
 
-Te cāpi buddhaṁ disvāna,\
-buddhaṁ ādiccabandhunaṁ;\
-Dūratova namassanti,\
-mahantaṁ vītasāradaṁ.
+> Te cāpi buddhaṁ disvāna,\
+> buddhaṁ ādiccabandhunaṁ;\
+> Dūratova namassanti,\
+> mahantaṁ vītasāradaṁ.
 
-Namo te purisājañña,\
-namo te purisuttama;\
-Kusalena samekkhasi,\
-amanussāpi taṁ vandanti;\
-Sutaṁ netaṁ abhiṇhaso,\
-tasmā evaṁ vademase.
+> Namo te purisājañña,\
+> namo te purisuttama;\
+> Kusalena samekkhasi,\
+> amanussāpi taṁ vandanti;\
+> Sutaṁ netaṁ abhiṇhaso,\
+> tasmā evaṁ vademase.
 
-‘Jinaṁ vandatha gotamaṁ’,\
-‘jinaṁ vandāma gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-buddhaṁ vandāma gotaman’ti.
+> ‘Jinaṁ vandatha gotamaṁ’,\
+> ‘jinaṁ vandāma gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> buddhaṁ vandāma gotaman’ti.
 
 8\. Ayaṁ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānaṁ guttiyā rakkhāya avihiṁsāya phāsuvihārāya.
 
@@ -287,27 +291,27 @@ Evameva kho, mārisa, santi amanussā caṇḍā ruddhā rabhasā, te neva mahā
 
 10\. Katamesaṁ yakkhānaṁ mahāyakkhānaṁ senāpatīnaṁ mahāsenāpatīnaṁ?
 
-Indo somo varuṇo ca,\
-bhāradvājo pajāpati;\
-Candano kāmaseṭṭho ca,\
-kinnughaṇḍu nighaṇḍu ca.
+> Indo somo varuṇo ca,\
+> bhāradvājo pajāpati;\
+> Candano kāmaseṭṭho ca,\
+> kinnughaṇḍu nighaṇḍu ca.
 
-Panādo opamañño ca,\
-devasūto ca mātali;\
-Cittaseno ca gandhabbo,\
-naḷo rājā janesabho.
+> Panādo opamañño ca,\
+> devasūto ca mātali;\
+> Cittaseno ca gandhabbo,\
+> naḷo rājā janesabho.
 
-Sātāgiro hemavato,\
-puṇṇako karatiyo guḷo;\
-Sivako mucalindo ca,\
-vessāmitto yugandharo.
+> Sātāgiro hemavato,\
+> puṇṇako karatiyo guḷo;\
+> Sivako mucalindo ca,\
+> vessāmitto yugandharo.
 
-Gopālo supparodho ca,\
-Hiri netti ca mandiyo;\
-Pañcālacaṇḍo āḷavako,\
-Pajjunno sumano sumukho;\
-Dadhimukho maṇi māṇivaro dīgho,\
-Atho serīsako saha.
+> Gopālo supparodho ca,\
+> Hiri netti ca mandiyo;\
+> Pañcālacaṇḍo āḷavako,\
+> Pajjunno sumano sumukho;\
+> Dadhimukho maṇi māṇivaro dīgho,\
+> Atho serīsako saha.
 
 Imesaṁ yakkhānaṁ mahāyakkhānaṁ senāpatīnaṁ mahāsenāpatīnaṁ ujjhāpetabbaṁ vikkanditabbaṁ viravitabbaṁ: ‘ayaṁ yakkho gaṇhāti, ayaṁ yakkho āvisati, ayaṁ yakkho heṭheti, ayaṁ yakkho viheṭheti, ayaṁ yakkho hiṁsati, ayaṁ yakkho vihiṁsati, ayaṁ yakkho na muñcatī’ti.
 
@@ -325,272 +329,272 @@ Paṭhamabhāṇavāro niṭṭhito.
 
 Ekamantaṁ nisinno kho, bhikkhave, vessavaṇo mahārājā maṁ etadavoca: ‘santi hi, bhante, uḷārā yakkhā bhagavato appasannā …pe… santi hi, bhante, nīcā yakkhā bhagavato pasannā. Yebhuyyena kho pana, bhante, yakkhā appasannāyeva bhagavato. Taṁ kissa hetu? Bhagavā hi, bhante, pāṇātipātā veramaṇiyā dhammaṁ deseti … surāmerayamajjappamādaṭṭhānā veramaṇiyā dhammaṁ deseti. Yebhuyyena kho pana, bhante, yakkhā appaṭiviratāyeva pāṇātipātā … appaṭiviratā surāmerayamajjappamādaṭṭhānā. Tesaṁ taṁ hoti appiyaṁ amanāpaṁ. Santi hi, bhante, bhagavato sāvakā araññavanapatthāni pantāni senāsanāni paṭisevanti appasaddāni appanigghosāni vijanavātāni manussarāhasseyyakāni paṭisallānasāruppāni. Tattha santi uḷārā yakkhā nivāsino, ye imasmiṁ bhagavato pāvacane appasannā, tesaṁ pasādāya uggaṇhātu, bhante, bhagavā āṭānāṭiyaṁ rakkhaṁ bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānaṁ guttiyā rakkhāya avihiṁsāya phāsuvihārāyā’ti. Adhivāsesiṁ kho ahaṁ, bhikkhave, tuṇhībhāvena. Atha kho, bhikkhave, vessavaṇo mahārājā me adhivāsanaṁ viditvā tāyaṁ velāyaṁ imaṁ āṭānāṭiyaṁ rakkhaṁ abhāsi:
 
-‘Vipassissa ca namatthu,\
-cakkhumantassa sirīmato;\
-Sikhissapi ca namatthu,\
-sabbabhūtānukampino.
+> ‘Vipassissa ca namatthu,\
+> cakkhumantassa sirīmato;\
+> Sikhissapi ca namatthu,\
+> sabbabhūtānukampino.
 
-Vessabhussa ca namatthu,\
-nhātakassa tapassino;\
-Namatthu kakusandhassa,\
-mārasenāpamaddino.
+> Vessabhussa ca namatthu,\
+> nhātakassa tapassino;\
+> Namatthu kakusandhassa,\
+> mārasenāpamaddino.
 
-Koṇāgamanassa namatthu,\
-brāhmaṇassa vusīmato;\
-Kassapassa ca namatthu,\
-vippamuttassa sabbadhi.
+> Koṇāgamanassa namatthu,\
+> brāhmaṇassa vusīmato;\
+> Kassapassa ca namatthu,\
+> vippamuttassa sabbadhi.
 
-Aṅgīrasassa namatthu,\
-sakyaputtassa sirīmato;\
-Yo imaṁ dhammaṁ desesi,\
-sabbadukkhāpanūdanaṁ.
+> Aṅgīrasassa namatthu,\
+> sakyaputtassa sirīmato;\
+> Yo imaṁ dhammaṁ desesi,\
+> sabbadukkhāpanūdanaṁ.
 
-Ye cāpi nibbutā loke,\
-yathābhūtaṁ vipassisuṁ;\
-Te janā apisuṇātha,\
-mahantā vītasāradā.
+> Ye cāpi nibbutā loke,\
+> yathābhūtaṁ vipassisuṁ;\
+> Te janā apisuṇātha,\
+> mahantā vītasāradā.
 
-Hitaṁ devamanussānaṁ,\
-yaṁ namassanti gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-mahantaṁ vītasāradaṁ.
+> Hitaṁ devamanussānaṁ,\
+> yaṁ namassanti gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> mahantaṁ vītasāradaṁ.
 
-Yato uggacchati sūriyo,\
-ādicco maṇḍalī mahā;\
-Yassa cuggacchamānassa,\
-saṁvarīpi nirujjhati;\
-Yassa cuggate sūriye,\
-“divaso”ti pavuccati.
+> Yato uggacchati sūriyo,\
+> ādicco maṇḍalī mahā;\
+> Yassa cuggacchamānassa,\
+> saṁvarīpi nirujjhati;\
+> Yassa cuggate sūriye,\
+> “divaso”ti pavuccati.
 
-Rahadopi tattha gambhīro,\
-samuddo saritodako;\
-Evaṁ taṁ tattha jānanti,\
-“samuddo saritodako”.
+> Rahadopi tattha gambhīro,\
+> samuddo saritodako;\
+> Evaṁ taṁ tattha jānanti,\
+> “samuddo saritodako”.
 
-Ito “sā purimā disā”,\
-iti naṁ ācikkhatī jano;\
-Yaṁ disaṁ abhipāleti,\
-mahārājā yasassi so.
+> Ito “sā purimā disā”,\
+> iti naṁ ācikkhatī jano;\
+> Yaṁ disaṁ abhipāleti,\
+> mahārājā yasassi so.
 
-Gandhabbānaṁ adhipati,\
-“dhataraṭṭho”ti nāmaso;\
-Ramatī naccagītehi,\
-gandhabbehi purakkhato.
+> Gandhabbānaṁ adhipati,\
+> “dhataraṭṭho”ti nāmaso;\
+> Ramatī naccagītehi,\
+> gandhabbehi purakkhato.
 
-Puttāpi tassa bahavo,\
-ekanāmāti me sutaṁ;\
-Asīti dasa eko ca,\
-indanāmā mahabbalā.
+> Puttāpi tassa bahavo,\
+> ekanāmāti me sutaṁ;\
+> Asīti dasa eko ca,\
+> indanāmā mahabbalā.
 
-Te cāpi buddhaṁ disvāna,\
-buddhaṁ ādiccabandhunaṁ;\
-Dūratova namassanti,\
-mahantaṁ vītasāradaṁ.
+> Te cāpi buddhaṁ disvāna,\
+> buddhaṁ ādiccabandhunaṁ;\
+> Dūratova namassanti,\
+> mahantaṁ vītasāradaṁ.
 
-Namo te purisājañña,\
-namo te purisuttama;\
-Kusalena samekkhasi,\
-amanussāpi taṁ vandanti;\
-Sutaṁ netaṁ abhiṇhaso,\
-tasmā evaṁ vademase.
+> Namo te purisājañña,\
+> namo te purisuttama;\
+> Kusalena samekkhasi,\
+> amanussāpi taṁ vandanti;\
+> Sutaṁ netaṁ abhiṇhaso,\
+> tasmā evaṁ vademase.
 
-“Jinaṁ vandatha gotamaṁ,\
-jinaṁ vandāma gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-buddhaṁ vandāma gotamaṁ”.
+> “Jinaṁ vandatha gotamaṁ,\
+> jinaṁ vandāma gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> buddhaṁ vandāma gotamaṁ”.
 
-Yena petā pavuccanti,\
-pisuṇā piṭṭhimaṁsikā;\
-Pāṇātipātino luddā,\
-corā nekatikā janā.
+> Yena petā pavuccanti,\
+> pisuṇā piṭṭhimaṁsikā;\
+> Pāṇātipātino luddā,\
+> corā nekatikā janā.
 
-Ito “sā dakkhiṇā disā”,\
-iti naṁ ācikkhatī jano;\
-Yaṁ disaṁ abhipāleti,\
-mahārājā yasassi so.
+> Ito “sā dakkhiṇā disā”,\
+> iti naṁ ācikkhatī jano;\
+> Yaṁ disaṁ abhipāleti,\
+> mahārājā yasassi so.
 
-Kumbhaṇḍānaṁ adhipati,\
-“virūḷho” iti nāmaso;\
-Ramatī naccagītehi,\
-kumbhaṇḍehi purakkhato.
+> Kumbhaṇḍānaṁ adhipati,\
+> “virūḷho” iti nāmaso;\
+> Ramatī naccagītehi,\
+> kumbhaṇḍehi purakkhato.
 
-Puttāpi tassa bahavo,\
-ekanāmāti me sutaṁ;\
-Asīti dasa eko ca,\
-indanāmā mahabbalā.
+> Puttāpi tassa bahavo,\
+> ekanāmāti me sutaṁ;\
+> Asīti dasa eko ca,\
+> indanāmā mahabbalā.
 
-Te cāpi buddhaṁ disvāna,\
-buddhaṁ ādiccabandhunaṁ;\
-Dūratova namassanti,\
-mahantaṁ vītasāradaṁ.
+> Te cāpi buddhaṁ disvāna,\
+> buddhaṁ ādiccabandhunaṁ;\
+> Dūratova namassanti,\
+> mahantaṁ vītasāradaṁ.
 
-Namo te purisājañña,\
-namo te purisuttama;\
-Kusalena samekkhasi,\
-amanussāpi taṁ vandanti;\
-Sutaṁ netaṁ abhiṇhaso,\
-tasmā evaṁ vademase.
+> Namo te purisājañña,\
+> namo te purisuttama;\
+> Kusalena samekkhasi,\
+> amanussāpi taṁ vandanti;\
+> Sutaṁ netaṁ abhiṇhaso,\
+> tasmā evaṁ vademase.
 
-“Jinaṁ vandatha gotamaṁ,\
-jinaṁ vandāma gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-buddhaṁ vandāma gotamaṁ”.
+> “Jinaṁ vandatha gotamaṁ,\
+> jinaṁ vandāma gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> buddhaṁ vandāma gotamaṁ”.
 
-Yattha coggacchati sūriyo,\
-ādicco maṇḍalī mahā;\
-Yassa coggacchamānassa,\
-divasopi nirujjhati;\
-Yassa coggate sūriye,\
-“saṁvarī”ti pavuccati.
+> Yattha coggacchati sūriyo,\
+> ādicco maṇḍalī mahā;\
+> Yassa coggacchamānassa,\
+> divasopi nirujjhati;\
+> Yassa coggate sūriye,\
+> “saṁvarī”ti pavuccati.
 
-Rahadopi tattha gambhīro,\
-samuddo saritodako;\
-Evaṁ taṁ tattha jānanti,\
-samuddo saritodako.
+> Rahadopi tattha gambhīro,\
+> samuddo saritodako;\
+> Evaṁ taṁ tattha jānanti,\
+> samuddo saritodako.
 
-Ito “sā pacchimā disā”,\
-iti naṁ ācikkhatī jano;\
-Yaṁ disaṁ abhipāleti,\
-mahārājā yasassi so.
+> Ito “sā pacchimā disā”,\
+> iti naṁ ācikkhatī jano;\
+> Yaṁ disaṁ abhipāleti,\
+> mahārājā yasassi so.
 
-Nāgānañca adhipati,\
-“virūpakkho”ti nāmaso;\
-Ramatī naccagītehi,\
-nāgeheva purakkhato.
+> Nāgānañca adhipati,\
+> “virūpakkho”ti nāmaso;\
+> Ramatī naccagītehi,\
+> nāgeheva purakkhato.
 
-Puttāpi tassa bahavo,\
-ekanāmāti me sutaṁ;\
-Asīti dasa eko ca,\
-indanāmā mahabbalā.
+> Puttāpi tassa bahavo,\
+> ekanāmāti me sutaṁ;\
+> Asīti dasa eko ca,\
+> indanāmā mahabbalā.
 
-Te cāpi buddhaṁ disvāna,\
-buddhaṁ ādiccabandhunaṁ;\
-Dūratova namassanti,\
-mahantaṁ vītasāradaṁ.
+> Te cāpi buddhaṁ disvāna,\
+> buddhaṁ ādiccabandhunaṁ;\
+> Dūratova namassanti,\
+> mahantaṁ vītasāradaṁ.
 
-Namo te purisājañña,\
-namo te purisuttama;\
-Kusalena samekkhasi,\
-amanussāpi taṁ vandanti;\
-Sutaṁ netaṁ abhiṇhaso,\
-tasmā evaṁ vademase.
+> Namo te purisājañña,\
+> namo te purisuttama;\
+> Kusalena samekkhasi,\
+> amanussāpi taṁ vandanti;\
+> Sutaṁ netaṁ abhiṇhaso,\
+> tasmā evaṁ vademase.
 
-“Jinaṁ vandatha gotamaṁ,\
-jinaṁ vandāma gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-buddhaṁ vandāma gotamaṁ”.
+> “Jinaṁ vandatha gotamaṁ,\
+> jinaṁ vandāma gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> buddhaṁ vandāma gotamaṁ”.
 
-Yena uttarakuruvho,\
-mahāneru sudassano;\
-Manussā tattha jāyanti,\
-amamā apariggahā.
+> Yena uttarakuruvho,\
+> mahāneru sudassano;\
+> Manussā tattha jāyanti,\
+> amamā apariggahā.
 
-Na te bījaṁ pavapanti,\
-nāpi nīyanti naṅgalā;\
-Akaṭṭhapākimaṁ sāliṁ,\
-paribhuñjanti mānusā.
+> Na te bījaṁ pavapanti,\
+> nāpi nīyanti naṅgalā;\
+> Akaṭṭhapākimaṁ sāliṁ,\
+> paribhuñjanti mānusā.
 
-Akaṇaṁ athusaṁ suddhaṁ,\
-sugandhaṁ taṇḍulapphalaṁ;\
-Tuṇḍikīre pacitvāna,\
-tato bhuñjanti bhojanaṁ.
+> Akaṇaṁ athusaṁ suddhaṁ,\
+> sugandhaṁ taṇḍulapphalaṁ;\
+> Tuṇḍikīre pacitvāna,\
+> tato bhuñjanti bhojanaṁ.
 
-Gāviṁ ekakhuraṁ katvā,\
-anuyanti disodisaṁ;\
-Pasuṁ ekakhuraṁ katvā,\
-anuyanti disodisaṁ.
+> Gāviṁ ekakhuraṁ katvā,\
+> anuyanti disodisaṁ;\
+> Pasuṁ ekakhuraṁ katvā,\
+> anuyanti disodisaṁ.
 
-Itthiṁ vā vāhanaṁ katvā,\
-anuyanti disodisaṁ;\
-Purisaṁ vāhanaṁ katvā,\
-anuyanti disodisaṁ.
+> Itthiṁ vā vāhanaṁ katvā,\
+> anuyanti disodisaṁ;\
+> Purisaṁ vāhanaṁ katvā,\
+> anuyanti disodisaṁ.
 
-Kumāriṁ vāhanaṁ katvā,\
-anuyanti disodisaṁ;\
-Kumāraṁ vāhanaṁ katvā,\
-anuyanti disodisaṁ.
+> Kumāriṁ vāhanaṁ katvā,\
+> anuyanti disodisaṁ;\
+> Kumāraṁ vāhanaṁ katvā,\
+> anuyanti disodisaṁ.
 
-Te yāne abhiruhitvā,\
-Sabbā disā anupariyāyanti;\
-Pacārā tassa rājino.
+> Te yāne abhiruhitvā,\
+> Sabbā disā anupariyāyanti;\
+> Pacārā tassa rājino.
 
-Hatthiyānaṁ assayānaṁ,\
-dibbaṁ yānaṁ upaṭṭhitaṁ;\
-Pāsādā sivikā ceva,\
-mahārājassa yasassino.
+> Hatthiyānaṁ assayānaṁ,\
+> dibbaṁ yānaṁ upaṭṭhitaṁ;\
+> Pāsādā sivikā ceva,\
+> mahārājassa yasassino.
 
-Tassa ca nagarā ahu,\
-Antalikkhe sumāpitā;\
-Āṭānāṭā kusināṭā parakusināṭā,\
-Nāṭasuriyā parakusiṭanāṭā.
+> Tassa ca nagarā ahu,\
+> Antalikkhe sumāpitā;\
+> Āṭānāṭā kusināṭā parakusināṭā,\
+> Nāṭasuriyā parakusiṭanāṭā.
 
-Uttarena kasivanto,\
-Janoghamaparena ca;\
-Navanavutiyo ambaraambaravatiyo,\
-Āḷakamandā nāma rājadhānī.
+> Uttarena kasivanto,\
+> Janoghamaparena ca;\
+> Navanavutiyo ambaraambaravatiyo,\
+> Āḷakamandā nāma rājadhānī.
 
-Kuverassa kho pana mārisa,\
-Mahārājassa visāṇā nāma rājadhānī;\
-Tasmā kuvero mahārājā,\
-“Vessavaṇo”ti pavuccati.
+> Kuverassa kho pana mārisa,\
+> Mahārājassa visāṇā nāma rājadhānī;\
+> Tasmā kuvero mahārājā,\
+> “Vessavaṇo”ti pavuccati.
 
-Paccesanto pakāsenti,\
-Tatolā tattalā tatotalā;\
-Ojasi tejasi tatojasī,\
-Sūro rājā ariṭṭho nemi.
+> Paccesanto pakāsenti,\
+> Tatolā tattalā tatotalā;\
+> Ojasi tejasi tatojasī,\
+> Sūro rājā ariṭṭho nemi.
 
-Rahadopi tattha dharaṇī nāma,\
-Yato meghā pavassanti;\
-Vassā yato patāyanti,\
-Sabhāpi tattha sālavatī nāma.
+> Rahadopi tattha dharaṇī nāma,\
+> Yato meghā pavassanti;\
+> Vassā yato patāyanti,\
+> Sabhāpi tattha sālavatī nāma.
 
-Yattha yakkhā payirupāsanti,\
-Tattha niccaphalā rukkhā;\
-Nānā dijagaṇā yutā,\
-Mayūrakoñcābhirudā;\
-Kokilādīhi vagguhi.
+> Yattha yakkhā payirupāsanti,\
+> Tattha niccaphalā rukkhā;\
+> Nānā dijagaṇā yutā,\
+> Mayūrakoñcābhirudā;\
+> Kokilādīhi vagguhi.
 
-Jīvañjīvakasaddettha,\
-atho oṭṭhavacittakā;\
-Kukkuṭakā kuḷīrakā,\
-vane pokkharasātakā.
+> Jīvañjīvakasaddettha,\
+> atho oṭṭhavacittakā;\
+> Kukkuṭakā kuḷīrakā,\
+> vane pokkharasātakā.
 
-Sukasāḷika saddettha,\
-daṇḍamāṇavakāni ca;\
-Sobhati sabbakālaṁ sā,\
-kuveranaḷinī sadā.
+> Sukasāḷika saddettha,\
+> daṇḍamāṇavakāni ca;\
+> Sobhati sabbakālaṁ sā,\
+> kuveranaḷinī sadā.
 
-Ito “sā uttarā disā”,\
-iti naṁ ācikkhatī jano;\
-Yaṁ disaṁ abhipāleti,\
-mahārājā yasassi so.
+> Ito “sā uttarā disā”,\
+> iti naṁ ācikkhatī jano;\
+> Yaṁ disaṁ abhipāleti,\
+> mahārājā yasassi so.
 
-Yakkhānañca adhipati,\
-“kuvero” iti nāmaso;\
-Ramatī naccagītehi,\
-yakkheheva purakkhato.
+> Yakkhānañca adhipati,\
+> “kuvero” iti nāmaso;\
+> Ramatī naccagītehi,\
+> yakkheheva purakkhato.
 
-Puttāpi tassa bahavo,\
-ekanāmāti me sutaṁ;\
-Asīti dasa eko ca,\
-indanāmā mahabbalā.
+> Puttāpi tassa bahavo,\
+> ekanāmāti me sutaṁ;\
+> Asīti dasa eko ca,\
+> indanāmā mahabbalā.
 
-Te cāpi buddhaṁ disvāna,\
-buddhaṁ ādiccabandhunaṁ;\
-Dūratova namassanti,\
-mahantaṁ vītasāradaṁ.
+> Te cāpi buddhaṁ disvāna,\
+> buddhaṁ ādiccabandhunaṁ;\
+> Dūratova namassanti,\
+> mahantaṁ vītasāradaṁ.
 
-Namo te purisājañña,\
-namo te purisuttama;\
-Kusalena samekkhasi,\
-amanussāpi taṁ vandanti;\
-Sutaṁ netaṁ abhiṇhaso,\
-tasmā evaṁ vademase.
+> Namo te purisājañña,\
+> namo te purisuttama;\
+> Kusalena samekkhasi,\
+> amanussāpi taṁ vandanti;\
+> Sutaṁ netaṁ abhiṇhaso,\
+> tasmā evaṁ vademase.
 
-“Jinaṁ vandatha gotamaṁ,\
-jinaṁ vandāma gotamaṁ;\
-Vijjācaraṇasampannaṁ,\
-buddhaṁ vandāma gotaman”ti.
+> “Jinaṁ vandatha gotamaṁ,\
+> jinaṁ vandāma gotamaṁ;\
+> Vijjācaraṇasampannaṁ,\
+> buddhaṁ vandāma gotaman”ti.
 
 Ayaṁ kho sā, mārisa, āṭānāṭiyā rakkhā bhikkhūnaṁ bhikkhunīnaṁ upāsakānaṁ upāsikānaṁ guttiyā rakkhāya avihiṁsāya phāsuvihārāya. Yassa kassaci, mārisa, bhikkhussa vā bhikkhuniyā vā upāsakassa vā upāsikāya vā ayaṁ āṭānāṭiyā rakkhā suggahitā bhavissati samattā pariyāputā tañce amanusso yakkho vā yakkhinī vā …pe… gandhabbo vā gandhabbī vā …pe… kumbhaṇḍo vā kumbhaṇḍī vā …pe… nāgo vā nāgī vā nāgapotako vā nāgapotikā vā nāgamahāmatto vā nāgapārisajjo vā nāgapacāro vā, paduṭṭhacitto bhikkhuṁ vā bhikkhuniṁ vā upāsakaṁ vā upāsikaṁ vā gacchantaṁ vā anugaccheyya, ṭhitaṁ vā upatiṭṭheyya, nisinnaṁ vā upanisīdeyya, nipannaṁ vā upanipajjeyya. Na me so, mārisa, amanusso labheyya gāmesu vā nigamesu vā sakkāraṁ vā garukāraṁ vā. Na me so, mārisa, amanusso labheyya āḷakamandāya nāma rājadhāniyā vatthuṁ vā vāsaṁ vā. Na me so, mārisa, amanusso labheyya yakkhānaṁ samitiṁ gantuṁ. Apissu naṁ, mārisa, amanussā anāvayhampi naṁ kareyyuṁ avivayhaṁ. Apissu naṁ, mārisa, amanussā attāhi paripuṇṇāhi paribhāsāhi paribhāseyyuṁ. Apissu naṁ, mārisa, amanussā rittampissa pattaṁ sīse nikkujjeyyuṁ. Apissu naṁ, mārisa, amanussā sattadhāpissa muddhaṁ phāleyyuṁ.
 
@@ -600,27 +604,27 @@ Evameva kho, mārisa, santi amanussā caṇḍā ruddhā rabhasā, te neva mahā
 
 Katamesaṁ yakkhānaṁ mahāyakkhānaṁ senāpatīnaṁ mahāsenāpatīnaṁ?
 
-Indo somo varuṇo ca,\
-bhāradvājo pajāpati;\
-Candano kāmaseṭṭho ca,\
-kinnughaṇḍu nighaṇḍu ca.
+> Indo somo varuṇo ca,\
+> bhāradvājo pajāpati;\
+> Candano kāmaseṭṭho ca,\
+> kinnughaṇḍu nighaṇḍu ca.
 
-Panādo opamañño ca,\
-devasūto ca mātali;\
-Cittaseno ca gandhabbo,\
-naḷo rājā janesabho.
+> Panādo opamañño ca,\
+> devasūto ca mātali;\
+> Cittaseno ca gandhabbo,\
+> naḷo rājā janesabho.
 
-Sātāgiro hemavato,\
-puṇṇako karatiyo guḷo;\
-Sivako mucalindo ca,\
-vessāmitto yugandharo.
+> Sātāgiro hemavato,\
+> puṇṇako karatiyo guḷo;\
+> Sivako mucalindo ca,\
+> vessāmitto yugandharo.
 
-Gopālo supparodho ca,\
-Hiri netti ca mandiyo;\
-Pañcālacaṇḍo āḷavako,\
-Pajjunno sumano sumukho;\
-Dadhimukho maṇi māṇivaro dīgho,\
-Atho serīsako saha.
+> Gopālo supparodho ca,\
+> Hiri netti ca mandiyo;\
+> Pañcālacaṇḍo āḷavako,\
+> Pajjunno sumano sumukho;\
+> Dadhimukho maṇi māṇivaro dīgho,\
+> Atho serīsako saha.
 
 Imesaṁ yakkhānaṁ mahāyakkhānaṁ senāpatīnaṁ mahāsenāpatīnaṁ ujjhāpetabbaṁ vikkanditabbaṁ viravitabbaṁ: “ayaṁ yakkho gaṇhāti, ayaṁ yakkho āvisati, ayaṁ yakkho heṭheti, ayaṁ yakkho viheṭheti, ayaṁ yakkho hiṁsati, ayaṁ yakkho vihiṁsati, ayaṁ yakkho na muñcatī”ti.
 

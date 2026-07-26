@@ -10,7 +10,7 @@
 
 “Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
-2\. “Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu rūpadhātu cakkhuviññāṇadhātu, sotadhātu saddadhātu sotaviññāṇadhātu, ghānadhātu gandhadhātu ghānaviññāṇadhātu, jivhādhātu rasadhātu jivhāviññāṇadhātu, kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu, manodhātu dhammadhātu manoviññāṇadhātu— idaṁ vuccati, bhikkhave, dhātunānattan”ti.
+2\. “Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu rūpadhātu cakkhuviññāṇadhātu, sotadhātu saddadhātu sotaviññāṇadhātu, ghānadhātu gandhadhātu ghānaviññāṇadhātu, jivhādhātu rasadhātu jivhāviññāṇadhātu, kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu, manodhātu dhammadhātu manoviññāṇadhātu—idaṁ vuccati, bhikkhave, dhātunānattan”ti.
 
 Paṭhamaṁ.
 
@@ -18,7 +18,7 @@ Paṭhamaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu manodhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ.
+“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu sotadhātu ghānadhātu jivhādhātu kāyadhātu manodhātu—idaṁ vuccati, bhikkhave, dhātunānattaṁ.
 
 2\. Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ? Cakkhudhātuṁ, bhikkhave, paṭicca uppajjati cakkhusamphasso. Sotadhātuṁ paṭicca … ghānadhātuṁ paṭicca … jivhādhātuṁ paṭicca … kāyadhātuṁ paṭicca … manodhātuṁ paṭicca uppajjati manosamphasso. Evaṁ kho, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattan”ti.
 
@@ -28,7 +28,7 @@ Dutiyaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ, no phassanānattaṁ paṭicca uppajjati dhātunānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu …pe… manodhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ.
+“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ, no phassanānattaṁ paṭicca uppajjati dhātunānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu …pe… manodhātu—idaṁ vuccati, bhikkhave, dhātunānattaṁ.
 
 2\. Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, no phassanānattaṁ paṭicca uppajjati dhātunānattaṁ? Cakkhudhātuṁ, bhikkhave, paṭicca uppajjati cakkhusamphasso, no cakkhusamphassaṁ paṭicca uppajjati cakkhudhātu …pe… manodhātuṁ paṭicca uppajjati manosamphasso, no manosamphassaṁ paṭicca uppajjati manodhātu. Evaṁ kho, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, no phassanānattaṁ paṭicca uppajjati dhātunānattan”ti.
 
@@ -38,7 +38,7 @@ Tatiyaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu …pe… manodhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ.
+“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu …pe… manodhātu—idaṁ vuccati, bhikkhave, dhātunānattaṁ.
 
 2\. Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ? Cakkhudhātuṁ, bhikkhave, paṭicca uppajjati cakkhusamphasso, cakkhusamphassaṁ paṭicca uppajjati cakkhusamphassajā vedanā …pe… manodhātuṁ paṭicca uppajjati manosamphasso, manosamphassaṁ paṭicca uppajjati manosamphassajā vedanā. Evaṁ kho, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattan”ti.
 
@@ -48,7 +48,7 @@ Catutthaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ, no vedanānānattaṁ paṭicca uppajjati phassanānattaṁ, no phassanānattaṁ paṭicca uppajjati dhātunānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu …pe… manodhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ.
+“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ, no vedanānānattaṁ paṭicca uppajjati phassanānattaṁ, no phassanānattaṁ paṭicca uppajjati dhātunānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Cakkhudhātu …pe… manodhātu—idaṁ vuccati, bhikkhave, dhātunānattaṁ.
 
 2\. Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ, no vedanānānattaṁ paṭicca uppajjati phassanānattaṁ, no phassanānattaṁ paṭicca uppajjati dhātunānattaṁ? Cakkhudhātuṁ, bhikkhave, paṭicca uppajjati cakkhusamphasso, cakkhusamphassaṁ paṭicca uppajjati cakkhusamphassajā vedanā, no cakkhusamphassajaṁ vedanaṁ paṭicca uppajjati cakkhusamphasso, no cakkhusamphassaṁ paṭicca uppajjati cakkhudhātu …pe… manodhātuṁ paṭicca uppajjati manosamphasso, manosamphassaṁ paṭicca uppajjati manosamphassajā vedanā, no manosamphassajaṁ vedanaṁ paṭicca uppajjati manosamphasso, no manosamphassaṁ paṭicca uppajjati manodhātu. Evaṁ kho, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ, no vedanānānattaṁ paṭicca uppajjati phassanānattaṁ, no phassanānattaṁ paṭicca uppajjati dhātunānattan”ti.
 
@@ -58,7 +58,7 @@ Pañcamaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Dhātunānattaṁ vo, bhikkhave, desessāmi. Taṁ suṇātha …pe… katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu dhammadhātu— idaṁ vuccati, bhikkhave, dhātunānattan”ti.
+“Dhātunānattaṁ vo, bhikkhave, desessāmi. Taṁ suṇātha …pe… katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu saddadhātu gandhadhātu rasadhātu phoṭṭhabbadhātu dhammadhātu—idaṁ vuccati, bhikkhave, dhātunānattan”ti.
 
 Chaṭṭhaṁ.
 
@@ -66,7 +66,7 @@ Chaṭṭhaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, saṅkappanānattaṁ paṭicca uppajjati chandanānattaṁ, chandanānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, pariḷāhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu …pe… dhammadhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ.
+“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, saṅkappanānattaṁ paṭicca uppajjati chandanānattaṁ, chandanānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, pariḷāhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu …pe… dhammadhātu—idaṁ vuccati, bhikkhave, dhātunānattaṁ.
 
 2\. Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, saṅkappanānattaṁ paṭicca uppajjati chandanānattaṁ, chandanānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, pariḷāhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ?
 
@@ -80,7 +80,7 @@ Sattamaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, saṅkappanānattaṁ paṭicca uppajjati chandanānattaṁ, chandanānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, pariḷāhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ; no pariyesanānānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, no pariḷāhanānattaṁ paṭicca uppajjati chandanānattaṁ, no chandanānattaṁ paṭicca uppajjati saṅkappanānattaṁ, no saṅkappanānattaṁ paṭicca uppajjati saññānānattaṁ, no saññānānattaṁ paṭicca uppajjati dhātunānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu …pe… dhammadhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ.
+“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, saṅkappanānattaṁ paṭicca uppajjati chandanānattaṁ, chandanānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, pariḷāhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ; no pariyesanānānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, no pariḷāhanānattaṁ paṭicca uppajjati chandanānattaṁ, no chandanānattaṁ paṭicca uppajjati saṅkappanānattaṁ, no saṅkappanānattaṁ paṭicca uppajjati saññānānattaṁ, no saññānānattaṁ paṭicca uppajjati dhātunānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu …pe… dhammadhātu—idaṁ vuccati, bhikkhave, dhātunānattaṁ.
 
 2\. Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati …pe… pariyesanānānattaṁ; no pariyesanānānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, no pariḷāhanānattaṁ paṭicca uppajjati chandanānattaṁ, no chandanānattaṁ paṭicca uppajjati saṅkappanānattaṁ, no saṅkappanānattaṁ paṭicca uppajjati saññānānattaṁ, no saññānānattaṁ paṭicca uppajjati dhātunānattaṁ?
 
@@ -94,7 +94,7 @@ Aṭṭhamaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, saṅkappanānattaṁ paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ, vedanānānattaṁ paṭicca uppajjati chandanānattaṁ, chandanānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, pariḷāhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ, pariyesanānānattaṁ paṭicca uppajjati lābhanānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu …pe… dhammadhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ.
+“Dhātunānattaṁ, bhikkhave, paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, saṅkappanānattaṁ paṭicca uppajjati phassanānattaṁ, phassanānattaṁ paṭicca uppajjati vedanānānattaṁ, vedanānānattaṁ paṭicca uppajjati chandanānattaṁ, chandanānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, pariḷāhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ, pariyesanānānattaṁ paṭicca uppajjati lābhanānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu …pe… dhammadhātu—idaṁ vuccati, bhikkhave, dhātunānattaṁ.
 
 2\. Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati …pe… lābhanānattaṁ?
 
@@ -108,7 +108,7 @@ Navamaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-no pariyesanānānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, no pariḷāhanānattaṁ paṭicca uppajjati …pe… chanda … vedanā … phassa … saṅkappa … saññānānattaṁ, no saññānānattaṁ paṭicca uppajjati dhātunānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu …pe… dhammadhātu— idaṁ vuccati, bhikkhave, dhātunānattaṁ.
+no pariyesanānānattaṁ paṭicca uppajjati pariḷāhanānattaṁ, no pariḷāhanānattaṁ paṭicca uppajjati …pe… chanda … vedanā … phassa … saṅkappa … saññānānattaṁ, no saññānānattaṁ paṭicca uppajjati dhātunānattaṁ. Katamañca, bhikkhave, dhātunānattaṁ? Rūpadhātu …pe… dhammadhātu—idaṁ vuccati, bhikkhave, dhātunānattaṁ.
 
 “Dhātunānattaṁ, bhikkhave, paṭicca uppajjati saññānānattaṁ, saññānānattaṁ paṭicca uppajjati saṅkappanānattaṁ, phassa … vedanā … chanda … pariḷāha … pariyesanānānattaṁ paṭicca uppajjati lābhanānattaṁ; no lābhanānattaṁ paṭicca uppajjati pariyesanānānattaṁ, Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati saññānānattaṁ, no pariyesanānānattaṁ paṭicca uppajjati pariḷāha … chanda … vedanā … phassa … no saṅkappanānattaṁ paṭicca uppajjati saññānānattaṁ, no saññānānattaṁ paṭicca uppajjati dhātunānattaṁ?
 
@@ -133,7 +133,7 @@ saṅkappa … phassa … vedanā … chanda … pariḷāha … pariyesanā …
 
 1\. Sāvatthiyaṁ viharati.
 
-“Sattimā, bhikkhave, dhātuyo. Katamā satta? Ābhādhātu, subhadhātu, ākāsānañcāyatanadhātu, viññāṇañcāyatanadhātu, ākiñcaññāyatanadhātu, nevasaññānāsaññāyatanadhātu, saññāvedayitanirodhadhātu— imā kho, bhikkhave, satta dhātuyo”ti.
+“Sattimā, bhikkhave, dhātuyo. Katamā satta? Ābhādhātu, subhadhātu, ākāsānañcāyatanadhātu, viññāṇañcāyatanadhātu, ākiñcaññāyatanadhātu, nevasaññānāsaññāyatanadhātu, saññāvedayitanirodhadhātu—imā kho, bhikkhave, satta dhātuyo”ti.
 
 2\. Evaṁ vutte, aññataro bhikkhu bhagavantaṁ etadavoca: “yā cāyaṁ, bhante, ābhādhātu yā ca subhadhātu yā ca ākāsānañcāyatanadhātu yā ca viññāṇañcāyatanadhātu yā ca ākiñcaññāyatanadhātu yā ca nevasaññānāsaññāyatanadhātu yā ca saññāvedayitanirodhadhātu—imā nu kho, bhante, dhātuyo kiṁ paṭicca paññāyantī”ti?
 
@@ -478,7 +478,7 @@ Kammapathavaggo tatiyo.
 
 ### 14.30 Catudhātusutta
 
-1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme … “catasso imā, bhikkhave, dhātuyo. Katamā catasso? Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu— imā kho, bhikkhave, catasso dhātuyo”ti.
+1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme … “catasso imā, bhikkhave, dhātuyo. Katamā catasso? Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu—imā kho, bhikkhave, catasso dhātuyo”ti.
 
 Paṭhamaṁ.
 

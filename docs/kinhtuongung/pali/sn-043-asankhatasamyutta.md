@@ -8,7 +8,7 @@
 
 “Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Taṁ suṇātha.
 
-Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, asaṅkhataṁ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Kāyagatāsati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
+Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, asaṅkhataṁ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Kāyagatāsati. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
 
 2\. Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmimaggo. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti.
 
@@ -18,7 +18,7 @@ Paṭhamaṁ.
 
 1\. “Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Taṁ suṇātha.
 
-Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, asaṅkhataṁ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Samatho ca vipassanā ca. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
+Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, asaṅkhataṁ. Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Samatho ca vipassanā ca. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Dutiyaṁ.
 
@@ -95,7 +95,7 @@ Asaṅkhatasaṁyuttassa paṭhamo vaggo.
 
 Taṁ suṇātha.
 
-Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, asaṅkhataṁ.
+Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, asaṅkhataṁ.
 
 Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Samatho. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
 
@@ -117,7 +117,7 @@ Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, 
 
 2\. Taṁ suṇātha.
 
-Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, asaṅkhataṁ.
+Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, asaṅkhataṁ.
 
 Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Vipassanā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo. Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ …pe… Katamo ca, bhikkhave, asaṅkhatagāmimaggo?
 
@@ -221,7 +221,7 @@ Dutiyo vaggo.
 
 Taṁ suṇātha.
 
-Katamañca, bhikkhave, parāyanaṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo— idaṁ vuccati, bhikkhave, parāyanaṁ.
+Katamañca, bhikkhave, parāyanaṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—idaṁ vuccati, bhikkhave, parāyanaṁ.
 
 Katamo ca, bhikkhave, parāyanagāmī maggo? Kāyagatāsati. Ayaṁ vuccati, bhikkhave, parāyanagāmimaggo.
 

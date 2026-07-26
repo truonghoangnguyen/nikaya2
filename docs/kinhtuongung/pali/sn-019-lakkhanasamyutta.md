@@ -4,7 +4,7 @@
 
 ### 19.1 Aṭṭhisutta
 
-1\. Evaṁ me sutaṁ— “Akālo kho, āvuso lakkhaṇa, etassa pañhassa. Bhagavato maṁ santike etaṁ pañhaṁ pucchā”ti.
+1\. Evaṁ me sutaṁ—“Akālo kho, āvuso lakkhaṇa, etassa pañhassa. Bhagavato maṁ santike etaṁ pañhaṁ pucchā”ti.
 
 ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -117,7 +117,7 @@ Paṭhamo vaggo.
 
 ### 19.11 Sasīsakasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ rājagahe veḷuvane.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ rājagahe veḷuvane.
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ purisaṁ gūthakūpe sasīsakaṁ nimuggaṁ …pe…
 
@@ -129,7 +129,7 @@ Paṭhamaṁ.
 
 1\. “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ purisaṁ gūthakūpe nimuggaṁ ubhohi hatthehi gūthaṁ khādantaṁ …pe…
 
-eso, bhikkhave, satto imasmiṁyeva rājagahe duṭṭhabrāhmaṇo ahosi. So kassapassa sammāsambuddhassa pāvacane bhikkhusaṅghaṁ bhattena nimantetvā doṇiyo gūthassa pūrāpetvā etadavoca— aho bhonto yāvadatthaṁ bhuñjantu ceva harantu cā’ti …pe….
+eso, bhikkhave, satto imasmiṁyeva rājagahe duṭṭhabrāhmaṇo ahosi. So kassapassa sammāsambuddhassa pāvacane bhikkhusaṅghaṁ bhattena nimantetvā doṇiyo gūthassa pūrāpetvā etadavoca—aho bhonto yāvadatthaṁ bhuñjantu ceva harantu cā’ti …pe….
 
 Dutiyaṁ.
 

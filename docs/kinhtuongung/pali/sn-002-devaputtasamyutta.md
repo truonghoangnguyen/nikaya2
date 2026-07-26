@@ -4,7 +4,7 @@
 
 ### 2.1 Paṭhamakassapasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Atha kho kassapo devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho kassapo devaputto bhagavantaṁ etadavoca: “bhikkhuṁ bhagavā pakāsesi, no ca bhikkhuno anusāsan”ti.
 
@@ -316,7 +316,7 @@ Atha kho candimaso devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalaka
 
 ### 2.13 Dīghalaṭṭhisutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
 Atha kho dīghalaṭṭhi devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ veḷuvanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho dīghalaṭṭhi devaputto bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -399,7 +399,7 @@ Atha kho dīghalaṭṭhi devaputto abhikkantāya rattiyā abhikkantavaṇṇo k
 
 ### 2.18 Kakudhasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sākete viharati añjanavane migadāye.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sākete viharati añjanavane migadāye.
 
 Atha kho kakudho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ añjanavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho kakudho devaputto bhagavantaṁ etadavoca: “nandasi, samaṇā”ti?
 
@@ -519,7 +519,7 @@ Anāthapiṇḍikavaggo dutiyo.
 
 ### 2.21 Sivasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Atha kho sivo devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho sivo devaputto bhagavato santike imā gāthāyo abhāsi:
 
@@ -602,7 +602,7 @@ Atha kho sivo devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappa�
 
 11\. Atha kho maṁ, bhante, brāhmaṇagahapatikā upasaṅkamitvā etadavocuṁ: ‘devassa kho dānaṁ dīyati; itthāgārassa dānaṁ dīyati; khattiyānaṁ anuyantānaṁ dānaṁ dīyati; balakāyassa dānaṁ dīyati; amhākaṁ dānaṁ na dīyati. Sādhu mayampi devaṁ nissāya dānāni dadeyyāma, puññāni kareyyāmā’ti. Tassa mayhaṁ, bhante, etadahosi: ‘ahaṁ khosmi dāyako dānapati dānassa vaṇṇavādī. Dānaṁ dassāmāti vadante kinti vadeyyan’ti? So khvāhaṁ, bhante, catutthaṁ dvāraṁ brāhmaṇagahapatikānaṁ adāsiṁ. Tattha brāhmaṇagahapatikānaṁ dānaṁ dīyittha, mama dānaṁ paṭikkami.
 
-12\. Atha kho maṁ, bhante, purisā upasaṅkamitvā etadavocuṁ: ‘na kho dāni devassa koci dānaṁ dīyatī’ti. Evaṁ vuttāhaṁ, bhante, te purise etadavocaṁ: ‘tena hi, bhaṇe, yo bāhiresu janapadesu āyo sañjāyati tato upaḍḍhaṁ antepure pavesetha, upaḍḍhaṁ tattheva dānaṁ detha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānan’ti. So khvāhaṁ, bhante, evaṁ dīgharattaṁ katānaṁ puññānaṁ evaṁ dīgharattaṁ katānaṁ kusalānaṁ dhammānaṁ pariyantaṁ nādhigacchāmi— ettakaṁ puññanti vā ettako puññavipākoti vā ettakaṁ sagge ṭhātabbanti vāti. Acchariyaṁ, bhante, abbhutaṁ, bhante. Yāvasubhāsitamidaṁ, bhante, bhagavatā:
+12\. Atha kho maṁ, bhante, purisā upasaṅkamitvā etadavocuṁ: ‘na kho dāni devassa koci dānaṁ dīyatī’ti. Evaṁ vuttāhaṁ, bhante, te purise etadavocaṁ: ‘tena hi, bhaṇe, yo bāhiresu janapadesu āyo sañjāyati tato upaḍḍhaṁ antepure pavesetha, upaḍḍhaṁ tattheva dānaṁ detha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānan’ti. So khvāhaṁ, bhante, evaṁ dīgharattaṁ katānaṁ puññānaṁ evaṁ dīgharattaṁ katānaṁ kusalānaṁ dhammānaṁ pariyantaṁ nādhigacchāmi—ettakaṁ puññanti vā ettako puññavipākoti vā ettakaṁ sagge ṭhātabbanti vāti. Acchariyaṁ, bhante, abbhutaṁ, bhante. Yāvasubhāsitamidaṁ, bhante, bhagavatā:
 
 > 13\. ‘Ye naṁ dadanti saddhāya,\
 > vippasannena cetasā;\
@@ -844,7 +844,7 @@ Paṇḍito, bhante, āyasmā sāriputto. Mahāpañño, bhante, āyasmā sāripu
 
 ### 2.30 Nānātitthiyasāvakasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
 Atha kho sambahulā nānātitthiyasāvakā devaputtā asamo ca sahali ca nīko ca ākoṭako ca vegabbhari ca māṇavagāmiyo ca abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ veḷuvanaṁ obhāsetvā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu.
 

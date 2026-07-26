@@ -26,9 +26,9 @@ Vitakkasaṇṭhānasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Sīhanādavaggo niṭṭhito dutiyo.
 
-Tassuddānaṁ
+9\. Tassuddānaṁ
 
-9\. Cūḷasīhanādalomahaṁsavaro,\
-Mahācūḷadukkhakkhandhaanumānikasuttaṁ;\
-Khilapatthamadhupiṇḍikadvidhāvitakka,\
-Pañcanimittakathā puna vaggo.
+> Cūḷasīhanādalomahaṁsavaro,\
+> Mahācūḷadukkhakkhandhaanumānikasuttaṁ;\
+> Khilapatthamadhupiṇḍikadvidhāvitakka,\
+> Pañcanimittakathā puna vaggo.

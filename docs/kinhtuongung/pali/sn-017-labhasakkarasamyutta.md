@@ -4,7 +4,7 @@
 
 ### 17.1 Dāruṇasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -56,7 +56,7 @@ Atha kho, bhikkhave, so kummo yena so kummo tenupasaṅkami. Addasā kho, bhikkh
 
 Suttakanti kho, bhikkhave, nandīrāgassetaṁ adhivacanaṁ.
 
-Yo hi koci, bhikkhave, bhikkhu uppannaṁ lābhasakkārasilokaṁ assādeti nikāmeti— ayaṁ vuccati, bhikkhave, bhikkhu giddho papatāya anayaṁ āpanno byasanaṁ āpanno yathākāmakaraṇīyo pāpimato.
+Yo hi koci, bhikkhave, bhikkhu uppannaṁ lābhasakkārasilokaṁ assādeti nikāmeti—ayaṁ vuccati, bhikkhave, bhikkhu giddho papatāya anayaṁ āpanno byasanaṁ āpanno yathākāmakaraṇīyo pāpimato.
 
 Evaṁ dāruṇo kho, bhikkhave, lābhasakkārasiloko …pe… evañhi vo, bhikkhave, sikkhitabban”ti.
 

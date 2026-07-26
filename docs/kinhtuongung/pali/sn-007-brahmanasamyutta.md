@@ -4,7 +4,7 @@
 
 ### 7.1 Dhanañjānīsutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
 Tena kho pana samayena aññatarassa bhāradvājagottassa brāhmaṇassa dhanañjānī nāma brāhmaṇī abhippasannā hoti buddhe ca dhamme ca saṅghe ca. Atha kho dhanañjānī brāhmaṇī bhāradvājagottassa brāhmaṇassa bhattaṁ upasaṁharantī upakkhalitvā tikkhattuṁ udānaṁ udānesi:
 
@@ -424,7 +424,7 @@ Arahantavaggo paṭhamo.
 
 ### 7.11 Kasibhāradvājasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā magadhesu viharati dakkhiṇāgirismiṁ ekanāḷāyaṁ brāhmaṇagāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā magadhesu viharati dakkhiṇāgirismiṁ ekanāḷāyaṁ brāhmaṇagāme.
 
 Tena kho pana samayena kasibhāradvājassa brāhmaṇassa pañcamattāni naṅgalasatāni payuttāni honti vappakāle. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena kasibhāradvājassa brāhmaṇassa kammanto tenupasaṅkami.
 
@@ -823,7 +823,7 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 ### 7.22 Khomadussasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sakkesu viharati khomadussaṁ nāmaṁ sakyānaṁ nigamo.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati khomadussaṁ nāmaṁ sakyānaṁ nigamo.
 
 Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya khomadussaṁ nigamaṁ piṇḍāya pāvisi. Tena kho pana samayena khomadussakā brāhmaṇagahapatikā sabhāyaṁ sannipatitā honti kenacideva karaṇīyena, devo ca ekamekaṁ phusāyati.
 

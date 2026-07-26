@@ -68,15 +68,23 @@ Ví dụ: Pali: "Katamehi catūhi ṭhānehi pāpakammaṁ na karoti ?"
 
 #### Dịch thể thơ
 
-- Trong kinh có những thể thơ (nhận dạng với ký hiệu `>` (quote)) thì dịch dùng từ cổ, thuần hán-việt và bỏ qua chú thích, giải thích. Lý do: thơ cần sự mượt mà, ngắn, không cần chính xác.
+- Trong kinh có những thể thơ (nhận dạng với ký hiệu `>` (quote)) thì dịch dùng từ cổ, thuần hán-việt và bỏ qua chú thích, giải thích. Lý do: thơ cần sự mượt mà, không cần chính xác.
+-Thể thơ theo 5 chữ, nếu câu thơ cần nhiều ý thì chia thành 2 dòng (tổng 2 dòng là 10 chữ).
 
-Eg:
+Eg:```
+Sele yathā pabbatamuddhaniṭṭhito,\
+Yathāpi passe janataṁ samantato;\
+Tathūpamaṁ dhammamayaṁ sumedha,\
+Pāsādamāruyha samantacakkhu;\
+Sokāvatiṇṇaṁ janatamapetasoko,\
+Avekkhassu jātijarābhibhūtaṁ.
+```
 
-```> “Dasuttaraṁ pavakkhāmi, dhammaṁ nibbānapattiyā; Dukkhassantakiriyāya, sabbaganthappamocanaṁ.```
 Dịch:
+
 ```
 > Tôi nói pháp đến Mười ,\
-> Pháp đưa đến Niết-bàn,\
+> Pháp đưa đến Niết-bàn;\
 > Diệt trừ mọi khổ đau,\
 > Giải thoát mọi trói buộc.
 ```

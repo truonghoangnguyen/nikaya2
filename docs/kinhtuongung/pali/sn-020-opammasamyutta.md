@@ -4,7 +4,7 @@
 
 ### 20.1 Kūṭasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tatra kho bhagavā …pe… etadavoca:
 
@@ -96,7 +96,7 @@ Sattamaṁ.
 
 ### 20.8 Kaliṅgarasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
@@ -110,7 +110,7 @@ Aṭṭhamaṁ.
 
 ### 20.9 Nāgasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññataro navo bhikkhu ativelaṁ kulāni upasaṅkamati.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññataro navo bhikkhu ativelaṁ kulāni upasaṅkamati.
 
 Tamenaṁ bhikkhū evamāhaṁsu: “māyasmā ativelaṁ kulāni upasaṅkamī”ti.
 

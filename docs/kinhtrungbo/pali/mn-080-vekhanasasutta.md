@@ -82,9 +82,9 @@ Vekhanasasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Paribbājakavaggo niṭṭhito tatiyo.
 
-Tassuddānaṁ
+18\. Tassuddānaṁ
 
-18\. Puṇḍarī aggisaha kathināmo,\
-Dīghanakho puna bhāradvājagotto;\
-Sandakaudāyimuṇḍikaputto,\
-Maṇiko tathākaccāno varavaggo.
+> Puṇḍarī aggisaha kathināmo,\
+> Dīghanakho puna bhāradvājagotto;\
+> Sandakaudāyimuṇḍikaputto,\
+> Maṇiko tathākaccāno varavaggo.

@@ -4,7 +4,7 @@
 
 ### 13.1 Nakhasikhāsutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Atha kho bhagavā parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā bhikkhū āmantesi: “Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yo vāyaṁ mayā paritto nakhasikhāyaṁ paṁsu āropito, ayaṁ vā mahāpathavī”ti?
 
@@ -32,7 +32,7 @@ Dutiyaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Seyyathāpi, bhikkhave, yatthimā mahānadiyo saṁsandanti samenti, seyyathidaṁ— gaṅgā yamunā aciravatī sarabhū mahī, tato puriso dve vā tīṇi vā udakaphusitāni uddhareyya.
+“Seyyathāpi, bhikkhave, yatthimā mahānadiyo saṁsandanti samenti, seyyathidaṁ—gaṅgā yamunā aciravatī sarabhū mahī, tato puriso dve vā tīṇi vā udakaphusitāni uddhareyya.
 
 Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yāni vā dve vā tīṇi vā udakaphusitāni ubbhatāni yaṁ vā sambhejjaudakan”ti?
 
@@ -46,7 +46,7 @@ Tatiyaṁ.
 
 1\. Sāvatthiyaṁ viharati.
 
-“Seyyathāpi, bhikkhave, yatthimā mahānadiyo saṁsandanti samenti, seyyathidaṁ— gaṅgā yamunā aciravatī sarabhū mahī, taṁ udakaṁ parikkhayaṁ pariyādānaṁ gaccheyya ṭhapetvā dve vā tīṇi vā udakaphusitāni.
+“Seyyathāpi, bhikkhave, yatthimā mahānadiyo saṁsandanti samenti, seyyathidaṁ—gaṅgā yamunā aciravatī sarabhū mahī, taṁ udakaṁ parikkhayaṁ pariyādānaṁ gaccheyya ṭhapetvā dve vā tīṇi vā udakaphusitāni.
 
 Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā sambhejjaudakaṁ parikkhīṇaṁ pariyādiṇṇaṁ yāni vā dve vā tīṇi vā udakaphusitāni avasiṭṭhānī”ti?
 

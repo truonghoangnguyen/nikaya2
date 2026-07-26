@@ -2,7 +2,7 @@
 
 ## 1. Poṭṭhapādaparibbājakavatthu
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tena kho pana samayena poṭṭhapādo paribbājako samayappavādake tindukācīre ekasālake mallikāya ārāme paṭivasati mahatiyā paribbājakaparisāya saddhiṁ tiṁsamattehi paribbājakasatehi. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi.
 
@@ -74,7 +74,7 @@ Kā ca sikkhā”ti? Bhagavā avoca.
 
 20\. “Saññā nu kho, bhante, paṭhamaṁ uppajjati, pacchā ñāṇaṁ, udāhu ñāṇaṁ paṭhamaṁ uppajjati, pacchā saññā, udāhu saññā ca ñāṇañca apubbaṁ acarimaṁ uppajjantī”ti?
 
-“Saññā kho, poṭṭhapāda, paṭhamaṁ uppajjati, pacchā ñāṇaṁ, saññuppādā ca pana ñāṇuppādo hoti. So evaṁ pajānāti: ‘idappaccayā kira me ñāṇaṁ udapādī’ti. Iminā kho etaṁ, poṭṭhapāda, pariyāyena veditabbaṁ— yathā saññā paṭhamaṁ uppajjati, pacchā ñāṇaṁ, saññuppādā ca pana ñāṇuppādo hotī”ti.
+“Saññā kho, poṭṭhapāda, paṭhamaṁ uppajjati, pacchā ñāṇaṁ, saññuppādā ca pana ñāṇuppādo hoti. So evaṁ pajānāti: ‘idappaccayā kira me ñāṇaṁ udapādī’ti. Iminā kho etaṁ, poṭṭhapāda, pariyāyena veditabbaṁ—yathā saññā paṭhamaṁ uppajjati, pacchā ñāṇaṁ, saññuppādā ca pana ñāṇuppādo hotī”ti.
 
 ### 1.3. Saññāattakathā
 
@@ -194,7 +194,7 @@ Taṁ kiṁ maññasi, poṭṭhapāda, nanu evaṁ sante tesaṁ samaṇabrāhm
 
 ### 2.2. Tayoattapaṭilābha
 
-39\. “Tayo kho me, poṭṭhapāda, attapaṭilābhā— oḷāriko attapaṭilābho, manomayo attapaṭilābho, arūpo attapaṭilābho. Katamo ca, poṭṭhapāda, oḷāriko attapaṭilābho? Rūpī cātumahābhūtiko kabaḷīkārāhārabhakkho, ayaṁ oḷāriko attapaṭilābho. Katamo manomayo attapaṭilābho? Rūpī manomayo sabbaṅgapaccaṅgī ahīnindriyo, ayaṁ manomayo attapaṭilābho. Katamo arūpo attapaṭilābho? Arūpī saññāmayo, ayaṁ arūpo attapaṭilābho.
+39\. “Tayo kho me, poṭṭhapāda, attapaṭilābhā—oḷāriko attapaṭilābho, manomayo attapaṭilābho, arūpo attapaṭilābho. Katamo ca, poṭṭhapāda, oḷāriko attapaṭilābho? Rūpī cātumahābhūtiko kabaḷīkārāhārabhakkho, ayaṁ oḷāriko attapaṭilābho. Katamo manomayo attapaṭilābho? Rūpī manomayo sabbaṅgapaccaṅgī ahīnindriyo, ayaṁ manomayo attapaṭilābho. Katamo arūpo attapaṭilābho? Arūpī saññāmayo, ayaṁ arūpo attapaṭilābho.
 
 40\. Oḷārikassapi kho ahaṁ, poṭṭhapāda, attapaṭilābhassa pahānāya dhammaṁ desemi: ‘yathāpaṭipannānaṁ vo saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti. Siyā kho pana te, poṭṭhapāda, evamassa: ‘saṅkilesikā dhammā pahīyissanti, vodāniyā dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, dukkho ca kho vihāro’ti. Na kho panetaṁ, poṭṭhapāda, evaṁ daṭṭhabbaṁ. Saṅkilesikā ceva dhammā pahīyissanti, vodāniyā ca dhammā abhivaḍḍhissanti, paññāpāripūriṁ vepullattañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissati, pāmujjañceva bhavissati pīti ca passaddhi ca sati ca sampajaññañca sukho ca vihāro.
 

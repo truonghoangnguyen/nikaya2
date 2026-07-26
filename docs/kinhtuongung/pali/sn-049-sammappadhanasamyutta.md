@@ -85,7 +85,7 @@ Dasamaṁ.
 
 Esanāvaggo catuttho.
 
-Katamā tisso? Kāmesanā, bhavesanā, brahmacariyesanā— imā kho, bhikkhave, tisso esanā.
+Katamā tisso? Kāmesanā, bhavesanā, brahmacariyesanā—imā kho, bhikkhave, tisso esanā.
 
 Imāsaṁ kho, bhikkhave, tissannaṁ esanānaṁ abhiññāya pariññāya parikkhayāya pahānāya cattāro sammappadhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu anuppannānaṁ …pe… uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati.
 
@@ -106,7 +106,7 @@ Dasamaṁ.
 
 Oghavaggo pañcamo.
 
-Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā— imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
 
 Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya cattāro sammappadhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu anuppannānaṁ …pe… uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati.
 

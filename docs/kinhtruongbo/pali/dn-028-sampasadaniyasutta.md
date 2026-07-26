@@ -2,7 +2,7 @@
 
 ## 1. Sāriputtasīhanāda
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā nāḷandāyaṁ viharati pāvārikambavane. Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca:
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā nāḷandāyaṁ viharati pāvārikambavane. Atha kho āyasmā sāriputto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca:
 
 “evaṁpasanno ahaṁ, bhante, bhagavati, na cāhu na ca bhavissati na cetarahi vijjati añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro yadidaṁ sambodhiyan”ti.
 
@@ -30,7 +30,7 @@ Idhāhaṁ, bhante, yena bhagavā tenupasaṅkamiṁ dhammassavanāya. Tassa me,
 
 ### 1.1. Kusaladhammadesanā
 
-3\. Aparaṁ pana, bhante, etadānuttariyaṁ, yathā bhagavā dhammaṁ deseti kusalesu dhammesu. Tatrime kusalā dhammā seyyathidaṁ— cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo. Idha, bhante, bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati. Etadānuttariyaṁ, bhante, kusalesu dhammesu. Taṁ bhagavā asesamabhijānāti, taṁ bhagavato asesamabhijānato uttari abhiññeyyaṁ natthi, yadabhijānaṁ añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro assa, yadidaṁ kusalesu dhammesu.
+3\. Aparaṁ pana, bhante, etadānuttariyaṁ, yathā bhagavā dhammaṁ deseti kusalesu dhammesu. Tatrime kusalā dhammā seyyathidaṁ—cattāro satipaṭṭhānā, cattāro sammappadhānā, cattāro iddhipādā, pañcindriyāni, pañca balāni, satta bojjhaṅgā, ariyo aṭṭhaṅgiko maggo. Idha, bhante, bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati. Etadānuttariyaṁ, bhante, kusalesu dhammesu. Taṁ bhagavā asesamabhijānāti, taṁ bhagavato asesamabhijānato uttari abhiññeyyaṁ natthi, yadabhijānaṁ añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro assa, yadidaṁ kusalesu dhammesu.
 
 ### 1.2. Āyatanapaṇṇattidesanā
 
@@ -134,7 +134,7 @@ etadānuttariyaṁ, bhante, sassatavādesu.
 
 ### 1.15. Iddhividhadesanā
 
-18\. Aparaṁ pana, bhante, etadānuttariyaṁ, yathā bhagavā dhammaṁ deseti iddhividhāsu. Dvemā, bhante, iddhividhāyo— atthi, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati. Atthi, bhante, iddhi anāsavā anupadhikā ‘ariyā’ti vuccati. Katamā ca, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati? idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya …pe… tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte anekavihitaṁ iddhividhaṁ paccanubhoti— ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṁ tirobhāvaṁ tirokuṭṭaṁ tiropākāraṁ tiropabbataṁ asajjamāno gacchati seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṁ karoti seyyathāpi udake; udakepi abhijjamāne gacchati seyyathāpi pathaviyaṁ; ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṁmahiddhike evaṁmahānubhāve pāṇinā parāmasati parimajjati; yāva brahmalokāpi kāyena vasaṁ vatteti. Ayaṁ, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati.
+18\. Aparaṁ pana, bhante, etadānuttariyaṁ, yathā bhagavā dhammaṁ deseti iddhividhāsu. Dvemā, bhante, iddhividhāyo—atthi, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati. Atthi, bhante, iddhi anāsavā anupadhikā ‘ariyā’ti vuccati. Katamā ca, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati? idha, bhante, ekacco samaṇo vā brāhmaṇo vā ātappamanvāya …pe… tathārūpaṁ cetosamādhiṁ phusati, yathāsamāhite citte anekavihitaṁ iddhividhaṁ paccanubhoti—ekopi hutvā bahudhā hoti, bahudhāpi hutvā eko hoti; āvibhāvaṁ tirobhāvaṁ tirokuṭṭaṁ tiropākāraṁ tiropabbataṁ asajjamāno gacchati seyyathāpi ākāse; pathaviyāpi ummujjanimujjaṁ karoti seyyathāpi udake; udakepi abhijjamāne gacchati seyyathāpi pathaviyaṁ; ākāsepi pallaṅkena kamati seyyathāpi pakkhī sakuṇo; imepi candimasūriye evaṁmahiddhike evaṁmahānubhāve pāṇinā parāmasati parimajjati; yāva brahmalokāpi kāyena vasaṁ vatteti. Ayaṁ, bhante, iddhi sāsavā saupadhikā, ‘no ariyā’ti vuccati.
 
 Katamā pana, bhante, iddhi anāsavā anupadhikā, ‘ariyā’ti vuccati? Idha, bhante, bhikkhu sace ākaṅkhati: ‘paṭikūle appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati. Sace ākaṅkhati: ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati. Sace ākaṅkhati: ‘paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati. Sace ākaṅkhati: ‘paṭikūle ca appaṭikūle ca paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati. Sace ākaṅkhati: ‘paṭikūlañca appaṭikūlañca tadubhayaṁ abhinivajjetvā upekkhako vihareyyaṁ sato sampajāno’ti, upekkhako tattha viharati sato sampajāno. Ayaṁ, bhante, iddhi anāsavā anupadhikā ‘ariyā’ti vuccati. Etadānuttariyaṁ, bhante, iddhividhāsu. Taṁ bhagavā asesamabhijānāti, taṁ bhagavato asesamabhijānato uttari abhiññeyyaṁ natthi, yadabhijānaṁ añño samaṇo vā brāhmaṇo vā bhagavatā bhiyyobhiññataro assa yadidaṁ iddhividhāsu.
 

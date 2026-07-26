@@ -60,9 +60,9 @@ Cūḷasāropamasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Opammavaggo niṭṭhito tatiyo.
 
-Tassuddānaṁ
+25\. Tassuddānaṁ
 
-25\. Moḷiyaphaggunariṭṭhañca nāmo,\
-Andhavane kathipuṇṇaṁ nivāpo;\
-Rāsikaṇerumahāgajanāmo,\
-Sārūpamo puna piṅgalakoccho.
+> Moḷiyaphaggunariṭṭhañca nāmo,\
+> Andhavane kathipuṇṇaṁ nivāpo;\
+> Rāsikaṇerumahāgajanāmo,\
+> Sārūpamo puna piṅgalakoccho.

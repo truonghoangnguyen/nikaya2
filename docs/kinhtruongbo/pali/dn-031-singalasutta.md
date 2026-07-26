@@ -1,10 +1,10 @@
 # DN 31. Siṅgālasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena siṅgālako gahapatiputto kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassati— puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disaṁ.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena siṅgālako gahapatiputto kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassati—puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disaṁ.
 
-2\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisi. Addasā kho bhagavā siṅgālakaṁ gahapatiputtaṁ kālasseva vuṭṭhāya rājagahā nikkhamitvā allavatthaṁ allakesaṁ pañjalikaṁ puthudisā namassantaṁ— puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disaṁ. Disvā siṅgālakaṁ gahapatiputtaṁ etadavoca: “kiṁ nu kho tvaṁ, gahapatiputta, kālasseva vuṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassasi— puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disan”ti?
+2\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisi. Addasā kho bhagavā siṅgālakaṁ gahapatiputtaṁ kālasseva vuṭṭhāya rājagahā nikkhamitvā allavatthaṁ allakesaṁ pañjalikaṁ puthudisā namassantaṁ—puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disaṁ. Disvā siṅgālakaṁ gahapatiputtaṁ etadavoca: “kiṁ nu kho tvaṁ, gahapatiputta, kālasseva vuṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassasi—puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disan”ti?
 
-“Pitā maṁ, bhante, kālaṁ karonto evaṁ avaca: ‘disā, tāta, namasseyyāsī’ti. So kho ahaṁ, bhante, pituvacanaṁ sakkaronto garuṁ karonto mānento pūjento kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassāmi— puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disan”ti.
+“Pitā maṁ, bhante, kālaṁ karonto evaṁ avaca: ‘disā, tāta, namasseyyāsī’ti. So kho ahaṁ, bhante, pituvacanaṁ sakkaronto garuṁ karonto mānento pūjento kālasseva uṭṭhāya rājagahā nikkhamitvā allavattho allakeso pañjaliko puthudisā namassāmi—puratthimaṁ disaṁ dakkhiṇaṁ disaṁ pacchimaṁ disaṁ uttaraṁ disaṁ heṭṭhimaṁ disaṁ uparimaṁ disan”ti.
 
 ## 1. Cha disā
 
@@ -24,10 +24,11 @@
 
 Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-4\. “Pāṇātipāto adinnādānaṁ,\
-Musāvādo ca vuccati;\
-Paradāragamanañceva,\
-Nappasaṁsanti paṇḍitā”ti.
+4\.
+> “Pāṇātipāto adinnādānaṁ,\
+> Musāvādo ca vuccati;\
+> Paradāragamanañceva,\
+> Nappasaṁsanti paṇḍitā”ti.
 
 ## 3. Catuṭhānaṁ
 
@@ -35,15 +36,16 @@ Nappasaṁsanti paṇḍitā”ti.
 
 Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-6\. “Chandā dosā bhayā mohā,\
-yo dhammaṁ ativattati;\
-Nihīyati yaso tassa,\
-kāḷapakkheva candimā.
+6\.
+> “Chandā dosā bhayā mohā,\
+> yo dhammaṁ ativattati;\
+> Nihīyati yaso tassa,\
+> kāḷapakkheva candimā.
 
-Chandā dosā bhayā mohā,\
-yo dhammaṁ nātivattati;\
-Āpūrati yaso tassa,\
-sukkapakkheva candimā”ti.
+> Chandā dosā bhayā mohā,\
+> yo dhammaṁ nātivattati;\
+> Āpūrati yaso tassa,\
+> sukkapakkheva candimā”ti.
 
 ## 4. Cha apāyamukhāni
 
@@ -75,50 +77,51 @@ sukkapakkheva candimā”ti.
 
 Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-14\. “Hoti pānasakhā nāma,\
-hoti sammiyasammiyo;\
-Yo ca atthesu jātesu,\
-sahāyo hoti so sakhā.
+14\.
+> “Hoti pānasakhā nāma,\
+> hoti sammiyasammiyo;\
+> Yo ca atthesu jātesu,\
+> sahāyo hoti so sakhā.
 
-Ussūraseyyā paradārasevanā,\
-Verappasavo ca anatthatā ca;\
-Pāpā ca mittā sukadariyatā ca,\
-Ete cha ṭhānā purisaṁ dhaṁsayanti.
+> Ussūraseyyā paradārasevanā,\
+> Verappasavo ca anatthatā ca;\
+> Pāpā ca mittā sukadariyatā ca,\
+> Ete cha ṭhānā purisaṁ dhaṁsayanti.
 
-Pāpamitto pāpasakho,\
-pāpaācāragocaro;\
-Asmā lokā paramhā ca,\
-ubhayā dhaṁsate naro.
+> Pāpamitto pāpasakho,\
+> pāpaācāragocaro;\
+> Asmā lokā paramhā ca,\
+> ubhayā dhaṁsate naro.
 
-Akkhitthiyo vāruṇī naccagītaṁ,\
-Divā soppaṁ pāricariyā akāle;\
-Pāpā ca mittā sukadariyatā ca,\
-Ete cha ṭhānā purisaṁ dhaṁsayanti.
+> Akkhitthiyo vāruṇī naccagītaṁ,\
+> Divā soppaṁ pāricariyā akāle;\
+> Pāpā ca mittā sukadariyatā ca,\
+> Ete cha ṭhānā purisaṁ dhaṁsayanti.
 
-Akkhehi dibbanti suraṁ pivanti,\
-Yantitthiyo pāṇasamā paresaṁ;\
-Nihīnasevī na ca vuddhasevī,\
-Nihīyate kāḷapakkheva cando.
+> Akkhehi dibbanti suraṁ pivanti,\
+> Yantitthiyo pāṇasamā paresaṁ;\
+> Nihīnasevī na ca vuddhasevī,\
+> Nihīyate kāḷapakkheva cando.
 
-Yo vāruṇī addhano akiñcano,\
-Pipāso pivaṁ papāgato;\
-Udakamiva iṇaṁ vigāhati,\
-Akulaṁ kāhiti khippamattano.
+> Yo vāruṇī addhano akiñcano,\
+> Pipāso pivaṁ papāgato;\
+> Udakamiva iṇaṁ vigāhati,\
+> Akulaṁ kāhiti khippamattano.
 
-Na divā soppasīlena,\
-rattimuṭṭhānadessinā;\
-Niccaṁ mattena soṇḍena,\
-sakkā āvasituṁ gharaṁ.
+> Na divā soppasīlena,\
+> rattimuṭṭhānadessinā;\
+> Niccaṁ mattena soṇḍena,\
+> sakkā āvasituṁ gharaṁ.
 
-Atisītaṁ atiuṇhaṁ,\
-atisāyamidaṁ ahu;\
-Iti vissaṭṭhakammante,\
-atthā accenti māṇave.
+> Atisītaṁ atiuṇhaṁ,\
+> atisāyamidaṁ ahu;\
+> Iti vissaṭṭhakammante,\
+> atthā accenti māṇave.
 
-Yodha sītañca uṇhañca,\
-tiṇā bhiyyo na maññati;\
-Karaṁ purisakiccāni,\
-so sukhaṁ na vihāyatī”ti.
+> Yodha sītañca uṇhañca,\
+> tiṇā bhiyyo na maññati;\
+> Karaṁ purisakiccāni,\
+> so sukhaṁ na vihāyatī”ti.
 
 ## 11. Mittapatirūpaka
 
@@ -126,10 +129,10 @@ so sukhaṁ na vihāyatī”ti.
 
 16\. Catūhi kho, gahapatiputta, ṭhānehi aññadatthuharo amitto mittapatirūpako veditabbo.
 
-Aññadatthuharo hoti,\
-appena bahumicchati;\
-Bhayassa kiccaṁ karoti,\
-sevati atthakāraṇā.
+> Aññadatthuharo hoti,\
+> appena bahumicchati;\
+> Bhayassa kiccaṁ karoti,\
+> sevati atthakāraṇā.
 
 Imehi kho, gahapatiputta, catūhi ṭhānehi aññadatthuharo amitto mittapatirūpako veditabbo.
 
@@ -141,15 +144,16 @@ Imehi kho, gahapatiputta, catūhi ṭhānehi aññadatthuharo amitto mittapatir�
 
 Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-20\. “Aññadatthuharo mitto,\
-yo ca mitto vacīparo;\
-Anuppiyañca yo āha,\
-apāyesu ca yo sakhā.
+20\.
+> “Aññadatthuharo mitto,\
+> yo ca mitto vacīparo;\
+> Anuppiyañca yo āha,\
+> apāyesu ca yo sakhā.
 
-Ete amitte cattāro,\
-iti viññāya paṇḍito;\
-Ārakā parivajjeyya,\
-maggaṁ paṭibhayaṁ yathā”ti.
+> Ete amitte cattāro,\
+> iti viññāya paṇḍito;\
+> Ārakā parivajjeyya,\
+> maggaṁ paṭibhayaṁ yathā”ti.
 
 ## 12. Suhadamitta
 
@@ -165,92 +169,94 @@ maggaṁ paṭibhayaṁ yathā”ti.
 
 Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-26\. “Upakāro ca yo mitto,\
-sukhe dukkhe ca yo sakhā;\
-Atthakkhāyī ca yo mitto,\
-yo ca mittānukampako.
+26\.
+> “Upakāro ca yo mitto,\
+> sukhe dukkhe ca yo sakhā;\
+> Atthakkhāyī ca yo mitto,\
+> yo ca mittānukampako.
 
-Etepi mitte cattāro,\
-iti viññāya paṇḍito;\
-Sakkaccaṁ payirupāseyya,\
-mātā puttaṁva orasaṁ;\
-Paṇḍito sīlasampanno,\
-jalaṁ aggīva bhāsati.
+> Etepi mitte cattāro,\
+> iti viññāya paṇḍito;\
+> Sakkaccaṁ payirupāseyya,\
+> mātā puttaṁva orasaṁ;\
+> Paṇḍito sīlasampanno,\
+> jalaṁ aggīva bhāsati.
 
-Bhoge saṁharamānassa,\
-bhamarasseva irīyato;\
-Bhogā sannicayaṁ yanti,\
-vammikovupacīyati.
+> Bhoge saṁharamānassa,\
+> bhamarasseva irīyato;\
+> Bhogā sannicayaṁ yanti,\
+> vammikovupacīyati.
 
-Evaṁ bhoge samāhatvā,\
-alamatto kule gihī;\
-Catudhā vibhaje bhoge,\
-sa ve mittāni ganthati.
+> Evaṁ bhoge samāhatvā,\
+> alamatto kule gihī;\
+> Catudhā vibhaje bhoge,\
+> sa ve mittāni ganthati.
 
-Ekena bhoge bhuñjeyya,\
-dvīhi kammaṁ payojaye;\
-Catutthañca nidhāpeyya,\
-āpadāsu bhavissatī”ti.
+> Ekena bhoge bhuñjeyya,\
+> dvīhi kammaṁ payojaye;\
+> Catutthañca nidhāpeyya,\
+> āpadāsu bhavissatī”ti.
 
 ## 13. Chaddisāpaṭicchādanakaṇḍa
 
 27\. “Kathañca, gahapatiputta, ariyasāvako chaddisāpaṭicchādī hoti? Cha imā, gahapatiputta, disā veditabbā. Puratthimā disā mātāpitaro veditabbā, dakkhiṇā disā ācariyā veditabbā, pacchimā disā puttadārā veditabbā, uttarā disā mittāmaccā veditabbā, heṭṭhimā disā dāsakammakarā veditabbā, uparimā disā samaṇabrāhmaṇā veditabbā.
 
-28\. Pañcahi kho, gahapatiputta, ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhātabbā— bhato ne bharissāmi, kiccaṁ nesaṁ karissāmi, kulavaṁsaṁ ṭhapessāmi, dāyajjaṁ paṭipajjāmi, atha vā pana petānaṁ kālaṅkatānaṁ dakkhiṇaṁ anuppadassāmīti. Imehi kho, gahapatiputta, pañcahi ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhitā pañcahi ṭhānehi puttaṁ anukampanti. Pāpā nivārenti, kalyāṇe nivesenti, sippaṁ sikkhāpenti, patirūpena dārena saṁyojenti, samaye dāyajjaṁ niyyādenti. Imehi kho, gahapatiputta, pañcahi ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhitā imehi pañcahi ṭhānehi puttaṁ anukampanti. Evamassa esā puratthimā disā paṭicchannā hoti khemā appaṭibhayā.
+28\. Pañcahi kho, gahapatiputta, ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhātabbā—bhato ne bharissāmi, kiccaṁ nesaṁ karissāmi, kulavaṁsaṁ ṭhapessāmi, dāyajjaṁ paṭipajjāmi, atha vā pana petānaṁ kālaṅkatānaṁ dakkhiṇaṁ anuppadassāmīti. Imehi kho, gahapatiputta, pañcahi ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhitā pañcahi ṭhānehi puttaṁ anukampanti. Pāpā nivārenti, kalyāṇe nivesenti, sippaṁ sikkhāpenti, patirūpena dārena saṁyojenti, samaye dāyajjaṁ niyyādenti. Imehi kho, gahapatiputta, pañcahi ṭhānehi puttena puratthimā disā mātāpitaro paccupaṭṭhitā imehi pañcahi ṭhānehi puttaṁ anukampanti. Evamassa esā puratthimā disā paṭicchannā hoti khemā appaṭibhayā.
 
-29\. Pañcahi kho, gahapatiputta, ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhātabbā— uṭṭhānena upaṭṭhānena sussusāya pāricariyāya sakkaccaṁ sippapaṭiggahaṇena. Imehi kho, gahapatiputta, pañcahi ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhitā pañcahi ṭhānehi antevāsiṁ anukampanti— suvinītaṁ vinenti, suggahitaṁ gāhāpenti, sabbasippassutaṁ samakkhāyino bhavanti, mittāmaccesu paṭiyādenti, disāsu parittāṇaṁ karonti. Imehi kho, gahapatiputta, pañcahi ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhitā imehi pañcahi ṭhānehi antevāsiṁ anukampanti. Evamassa esā dakkhiṇā disā paṭicchannā hoti khemā appaṭibhayā.
+29\. Pañcahi kho, gahapatiputta, ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhātabbā—uṭṭhānena upaṭṭhānena sussusāya pāricariyāya sakkaccaṁ sippapaṭiggahaṇena. Imehi kho, gahapatiputta, pañcahi ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhitā pañcahi ṭhānehi antevāsiṁ anukampanti—suvinītaṁ vinenti, suggahitaṁ gāhāpenti, sabbasippassutaṁ samakkhāyino bhavanti, mittāmaccesu paṭiyādenti, disāsu parittāṇaṁ karonti. Imehi kho, gahapatiputta, pañcahi ṭhānehi antevāsinā dakkhiṇā disā ācariyā paccupaṭṭhitā imehi pañcahi ṭhānehi antevāsiṁ anukampanti. Evamassa esā dakkhiṇā disā paṭicchannā hoti khemā appaṭibhayā.
 
-30\. Pañcahi kho, gahapatiputta, ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhātabbā— sammānanāya anavamānanāya anaticariyāya issariyavossaggena alaṅkārānuppadānena. Imehi kho, gahapatiputta, pañcahi ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhitā pañcahi ṭhānehi sāmikaṁ anukampati— susaṁvihitakammantā ca hoti, saṅgahitaparijanā ca, anaticārinī ca, sambhatañca anurakkhati, dakkhā ca hoti analasā sabbakiccesu. Imehi kho, gahapatiputta, pañcahi ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhitā imehi pañcahi ṭhānehi sāmikaṁ anukampati. Evamassa esā pacchimā disā paṭicchannā hoti khemā appaṭibhayā.
+30\. Pañcahi kho, gahapatiputta, ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhātabbā—sammānanāya anavamānanāya anaticariyāya issariyavossaggena alaṅkārānuppadānena. Imehi kho, gahapatiputta, pañcahi ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhitā pañcahi ṭhānehi sāmikaṁ anukampati—susaṁvihitakammantā ca hoti, saṅgahitaparijanā ca, anaticārinī ca, sambhatañca anurakkhati, dakkhā ca hoti analasā sabbakiccesu. Imehi kho, gahapatiputta, pañcahi ṭhānehi sāmikena pacchimā disā bhariyā paccupaṭṭhitā imehi pañcahi ṭhānehi sāmikaṁ anukampati. Evamassa esā pacchimā disā paṭicchannā hoti khemā appaṭibhayā.
 
-31\. Pañcahi kho, gahapatiputta, ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhātabbā— dānena peyyavajjena atthacariyāya samānattatāya avisaṁvādanatāya. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhitā pañcahi ṭhānehi kulaputtaṁ anukampanti— pamattaṁ rakkhanti, pamattassa sāpateyyaṁ rakkhanti, bhītassa saraṇaṁ honti, āpadāsu na vijahanti, aparapajā cassa paṭipūjenti. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhitā imehi pañcahi ṭhānehi kulaputtaṁ anukampanti. Evamassa esā uttarā disā paṭicchannā hoti khemā appaṭibhayā.
+31\. Pañcahi kho, gahapatiputta, ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhātabbā—dānena peyyavajjena atthacariyāya samānattatāya avisaṁvādanatāya. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhitā pañcahi ṭhānehi kulaputtaṁ anukampanti—pamattaṁ rakkhanti, pamattassa sāpateyyaṁ rakkhanti, bhītassa saraṇaṁ honti, āpadāsu na vijahanti, aparapajā cassa paṭipūjenti. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uttarā disā mittāmaccā paccupaṭṭhitā imehi pañcahi ṭhānehi kulaputtaṁ anukampanti. Evamassa esā uttarā disā paṭicchannā hoti khemā appaṭibhayā.
 
-32\. Pañcahi kho, gahapatiputta, ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhātabbā— yathābalaṁ kammantasaṁvidhānena bhattavetanānuppadānena gilānupaṭṭhānena acchariyānaṁ rasānaṁ saṁvibhāgena samaye vossaggena. Imehi kho, gahapatiputta, pañcahi ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhitā pañcahi ṭhānehi ayyirakaṁ anukampanti— pubbuṭṭhāyino ca honti, pacchā nipātino ca, dinnādāyino ca, sukatakammakarā ca, kittivaṇṇaharā ca. Imehi kho, gahapatiputta, pañcahi ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhitā imehi pañcahi ṭhānehi ayyirakaṁ anukampanti. Evamassa esā heṭṭhimā disā paṭicchannā hoti khemā appaṭibhayā.
+32\. Pañcahi kho, gahapatiputta, ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhātabbā—yathābalaṁ kammantasaṁvidhānena bhattavetanānuppadānena gilānupaṭṭhānena acchariyānaṁ rasānaṁ saṁvibhāgena samaye vossaggena. Imehi kho, gahapatiputta, pañcahi ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhitā pañcahi ṭhānehi ayyirakaṁ anukampanti—pubbuṭṭhāyino ca honti, pacchā nipātino ca, dinnādāyino ca, sukatakammakarā ca, kittivaṇṇaharā ca. Imehi kho, gahapatiputta, pañcahi ṭhānehi ayyirakena heṭṭhimā disā dāsakammakarā paccupaṭṭhitā imehi pañcahi ṭhānehi ayyirakaṁ anukampanti. Evamassa esā heṭṭhimā disā paṭicchannā hoti khemā appaṭibhayā.
 
-33\. Pañcahi kho, gahapatiputta, ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhātabbā— mettena kāyakammena mettena vacīkammena mettena manokammena anāvaṭadvāratāya āmisānuppadānena. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhitā chahi ṭhānehi kulaputtaṁ anukampanti— pāpā nivārenti, kalyāṇe nivesenti, kalyāṇena manasā anukampanti, assutaṁ sāventi, sutaṁ pariyodāpenti, saggassa maggaṁ ācikkhanti. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhitā imehi chahi ṭhānehi kulaputtaṁ anukampanti. Evamassa esā uparimā disā paṭicchannā hoti khemā appaṭibhayā”ti.
+33\. Pañcahi kho, gahapatiputta, ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhātabbā—mettena kāyakammena mettena vacīkammena mettena manokammena anāvaṭadvāratāya āmisānuppadānena. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhitā chahi ṭhānehi kulaputtaṁ anukampanti—pāpā nivārenti, kalyāṇe nivesenti, kalyāṇena manasā anukampanti, assutaṁ sāventi, sutaṁ pariyodāpenti, saggassa maggaṁ ācikkhanti. Imehi kho, gahapatiputta, pañcahi ṭhānehi kulaputtena uparimā disā samaṇabrāhmaṇā paccupaṭṭhitā imehi chahi ṭhānehi kulaputtaṁ anukampanti. Evamassa esā uparimā disā paṭicchannā hoti khemā appaṭibhayā”ti.
 
 Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-34\. “Mātāpitā disā pubbā,\
-ācariyā dakkhiṇā disā;\
-Puttadārā disā pacchā,\
-mittāmaccā ca uttarā.
+34\.
+> “Mātāpitā disā pubbā,\
+> ācariyā dakkhiṇā disā;\
+> Puttadārā disā pacchā,\
+> mittāmaccā ca uttarā.
 
-Dāsakammakarā heṭṭhā,\
-uddhaṁ samaṇabrāhmaṇā;\
-Etā disā namasseyya,\
-alamatto kule gihī.
+> Dāsakammakarā heṭṭhā,\
+> uddhaṁ samaṇabrāhmaṇā;\
+> Etā disā namasseyya,\
+> alamatto kule gihī.
 
-Paṇḍito sīlasampanno,\
-saṇho ca paṭibhānavā;\
-Nivātavutti atthaddho,\
-tādiso labhate yasaṁ.
+> Paṇḍito sīlasampanno,\
+> saṇho ca paṭibhānavā;\
+> Nivātavutti atthaddho,\
+> tādiso labhate yasaṁ.
 
-Uṭṭhānako analaso,\
-āpadāsu na vedhati;\
-Acchinnavutti medhāvī,\
-tādiso labhate yasaṁ.
+> Uṭṭhānako analaso,\
+> āpadāsu na vedhati;\
+> Acchinnavutti medhāvī,\
+> tādiso labhate yasaṁ.
 
-Saṅgāhako mittakaro,\
-vadaññū vītamaccharo;\
-Netā vinetā anunetā,\
-tādiso labhate yasaṁ.
+> Saṅgāhako mittakaro,\
+> vadaññū vītamaccharo;\
+> Netā vinetā anunetā,\
+> tādiso labhate yasaṁ.
 
-Dānañca peyyavajjañca,\
-atthacariyā ca yā idha;\
-Samānattatā ca dhammesu,\
-tattha tattha yathārahaṁ;\
-Ete kho saṅgahā loke,\
-rathassāṇīva yāyato.
+> Dānañca peyyavajjañca,\
+> atthacariyā ca yā idha;\
+> Samānattatā ca dhammesu,\
+> tattha tattha yathārahaṁ;\
+> Ete kho saṅgahā loke,\
+> rathassāṇīva yāyato.
 
-Ete ca saṅgahā nāssu,\
-na mātā puttakāraṇā;\
-Labhetha mānaṁ pūjaṁ vā,\
-pitā vā puttakāraṇā.
+> Ete ca saṅgahā nāssu,\
+> na mātā puttakāraṇā;\
+> Labhetha mānaṁ pūjaṁ vā,\
+> pitā vā puttakāraṇā.
 
-Yasmā ca saṅgahā ete,\
-sammapekkhanti paṇḍitā;\
-Tasmā mahattaṁ papponti,\
-pāsaṁsā ca bhavanti te”ti.
+> Yasmā ca saṅgahā ete,\
+> sammapekkhanti paṇḍitā;\
+> Tasmā mahattaṁ papponti,\
+> pāsaṁsā ca bhavanti te”ti.
 
 35\. Evaṁ vutte, siṅgālako gahapatiputto bhagavantaṁ etadavoca: “abhikkantaṁ, bhante, abhikkantaṁ, bhante. Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhagavā dhāretu, ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 

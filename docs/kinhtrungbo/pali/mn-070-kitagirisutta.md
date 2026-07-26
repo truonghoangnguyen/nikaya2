@@ -102,9 +102,9 @@ Kīṭāgirisuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Bhikkhuvaggo niṭṭhito dutiyo.
 
-Tassuddānaṁ
+28\. Tassuddānaṁ
 
-28\. Kuñjara rāhula sassataloko,\
-Mālukyaputto ca bhaddāli nāmo;\
-Khudda dijātha sahampatiyācaṁ,\
-Nāḷaka raññikiṭāgirināmo.
+> Kuñjara rāhula sassataloko,\
+> Mālukyaputto ca bhaddāli nāmo;\
+> Khudda dijātha sahampatiyācaṁ,\
+> Nāḷaka raññikiṭāgirināmo.

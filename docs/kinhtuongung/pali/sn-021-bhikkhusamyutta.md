@@ -4,7 +4,7 @@
 
 ### 21.1 Kolitasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi: “āvuso bhikkhave”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi: “āvuso bhikkhave”ti.
 
 “Āvuso”ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṁ.
 
@@ -46,7 +46,7 @@ Dutiyaṁ.
 
 ### 21.3 Ghaṭasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno rājagahe viharanti veḷuvane kalandakanivāpe ekavihāre. Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahāmoggallānena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ mahāmoggallānaṁ etadavoca:
 
@@ -66,7 +66,7 @@ parisuddho mukhavaṇṇo pariyodāto santena nūnāyasmā mahāmoggallāno ajja
 
 3\. “Idhāhaṁ, āvuso, bhagavantaṁ etadavocaṁ: ‘āraddhavīriyo āraddhavīriyoti, bhante, vuccati. Kittāvatā nu kho, bhante, āraddhavīriyo hotī’ti?
 
-Evaṁ vutte, maṁ, āvuso, bhagavā etadavoca: ‘idha, moggallāna, bhikkhu āraddhavīriyo viharati— kāmaṁ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṁsalohitaṁ, yaṁ taṁ purisathāmena purisavīriyena purisaparakkamena pattabbaṁ na taṁ apāpuṇitvā vīriyassa saṇṭhānaṁ bhavissatīti. Evaṁ kho, moggallāna, āraddhavīriyo hotī’ti.
+Evaṁ vutte, maṁ, āvuso, bhagavā etadavoca: ‘idha, moggallāna, bhikkhu āraddhavīriyo viharati—kāmaṁ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṁsalohitaṁ, yaṁ taṁ purisathāmena purisavīriyena purisaparakkamena pattabbaṁ na taṁ apāpuṇitvā vīriyassa saṇṭhānaṁ bhavissatīti. Evaṁ kho, moggallāna, āraddhavīriyo hotī’ti.
 
 Evaṁ kho me, āvuso, bhagavatā saddhiṁ ahosi dhammī kathā”ti.
 
@@ -121,7 +121,7 @@ Catutthaṁ.
 
 Atha kho āyasmā sujāto yena bhagavā tenupasaṅkami.
 
-Addasā kho bhagavā āyasmantaṁ sujātaṁ dūratova āgacchantaṁ. Disvāna bhikkhū āmantesi: “ubhayenevāyaṁ, bhikkhave, kulaputto sobhati— yañca abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato, yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti tadanuttaraṁ brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti.
+Addasā kho bhagavā āyasmantaṁ sujātaṁ dūratova āgacchantaṁ. Disvāna bhikkhū āmantesi: “ubhayenevāyaṁ, bhikkhave, kulaputto sobhati—yañca abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato, yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti tadanuttaraṁ brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti.
 
 Idamavoca bhagavā …pe… satthā:
 
@@ -163,7 +163,7 @@ Chaṭṭhaṁ.
 
 ### 21.7 Visākhasutta
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
 Tena kho pana samayena āyasmā visākho pañcālaputto upaṭṭhānasālāyaṁ bhikkhū dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṁseti, poriyā vācāya vissaṭṭhāya anelagalāya atthassa viññāpaniyā pariyāpannāya anissitāya.
 

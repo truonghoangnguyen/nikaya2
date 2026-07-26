@@ -2,7 +2,7 @@
 
 ## 1. Paṭiccasamuppāda
 
-1\. Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kurūsu viharati kammāsadhammaṁ nāma kurūnaṁ nigamo.
 
 Atha kho āyasmā ānando yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca: “acchariyaṁ, bhante, abbhutaṁ, bhante. Yāva gambhīro cāyaṁ, bhante, paṭiccasamuppādo gambhīrāvabhāso ca, atha ca pana me uttānakuttānako viya khāyatī”ti.
 
@@ -28,31 +28,31 @@ Atha kho āyasmā ānando yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagav
 
 3\. Iti kho, ānanda, nāmarūpapaccayā viññāṇaṁ, viññāṇapaccayā nāmarūpaṁ, nāmarūpapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṁ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṁ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.
 
-4\. ‘Jātipaccayā jarāmaraṇan’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā jātipaccayā jarāmaraṇaṁ. Jāti ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ— devānaṁ vā devattāya, gandhabbānaṁ vā gandhabbattāya, yakkhānaṁ vā yakkhattāya, bhūtānaṁ vā bhūtattāya, manussānaṁ vā manussattāya, catuppadānaṁ vā catuppadattāya, pakkhīnaṁ vā pakkhittāya, sarīsapānaṁ vā sarīsapattāya, tesaṁ tesañca hi, ānanda, sattānaṁ tadattāya jāti nābhavissa. Sabbaso jātiyā asati jātinirodhā api nu kho jarāmaraṇaṁ paññāyethā”ti?
+4\. ‘Jātipaccayā jarāmaraṇan’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā jātipaccayā jarāmaraṇaṁ. Jāti ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—devānaṁ vā devattāya, gandhabbānaṁ vā gandhabbattāya, yakkhānaṁ vā yakkhattāya, bhūtānaṁ vā bhūtattāya, manussānaṁ vā manussattāya, catuppadānaṁ vā catuppadattāya, pakkhīnaṁ vā pakkhittāya, sarīsapānaṁ vā sarīsapattāya, tesaṁ tesañca hi, ānanda, sattānaṁ tadattāya jāti nābhavissa. Sabbaso jātiyā asati jātinirodhā api nu kho jarāmaraṇaṁ paññāyethā”ti?
 
 “No hetaṁ, bhante”.
 
 “Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo jarāmaraṇassa, yadidaṁ jāti.
 
-5\. ‘Bhavapaccayā jātī’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā bhavapaccayā jāti. Bhavo ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ— kāmabhavo vā rūpabhavo vā arūpabhavo vā, sabbaso bhave asati bhavanirodhā api nu kho jāti paññāyethā”ti?
+5\. ‘Bhavapaccayā jātī’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā bhavapaccayā jāti. Bhavo ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—kāmabhavo vā rūpabhavo vā arūpabhavo vā, sabbaso bhave asati bhavanirodhā api nu kho jāti paññāyethā”ti?
 
 “No hetaṁ, bhante”.
 
 “Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo jātiyā, yadidaṁ bhavo.
 
-6\. ‘Upādānapaccayā bhavo’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā upādānapaccayā bhavo. Upādānañca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ— kāmupādānaṁ vā diṭṭhupādānaṁ vā sīlabbatupādānaṁ vā attavādupādānaṁ vā, sabbaso upādāne asati upādānanirodhā api nu kho bhavo paññāyethā”ti?
+6\. ‘Upādānapaccayā bhavo’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā upādānapaccayā bhavo. Upādānañca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—kāmupādānaṁ vā diṭṭhupādānaṁ vā sīlabbatupādānaṁ vā attavādupādānaṁ vā, sabbaso upādāne asati upādānanirodhā api nu kho bhavo paññāyethā”ti?
 
 “No hetaṁ, bhante”.
 
 “Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo bhavassa, yadidaṁ upādānaṁ.
 
-7\. ‘Taṇhāpaccayā upādānan’ti iti kho panetaṁ vuttaṁ tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā taṇhāpaccayā upādānaṁ. Taṇhā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ— rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā, sabbaso taṇhāya asati taṇhānirodhā api nu kho upādānaṁ paññāyethā”ti?
+7\. ‘Taṇhāpaccayā upādānan’ti iti kho panetaṁ vuttaṁ tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā taṇhāpaccayā upādānaṁ. Taṇhā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā, sabbaso taṇhāya asati taṇhānirodhā api nu kho upādānaṁ paññāyethā”ti?
 
 “No hetaṁ, bhante”.
 
 “Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo upādānassa, yadidaṁ taṇhā.
 
-8\. ‘Vedanāpaccayā taṇhā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā vedanāpaccayā taṇhā. Vedanā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ— cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā, sabbaso vedanāya asati vedanānirodhā api nu kho taṇhā paññāyethā”ti?
+8\. ‘Vedanāpaccayā taṇhā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā vedanāpaccayā taṇhā. Vedanā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—cakkhusamphassajā vedanā sotasamphassajā vedanā ghānasamphassajā vedanā jivhāsamphassajā vedanā kāyasamphassajā vedanā manosamphassajā vedanā, sabbaso vedanāya asati vedanānirodhā api nu kho taṇhā paññāyethā”ti?
 
 “No hetaṁ, bhante”.
 
@@ -108,13 +108,13 @@ Atha kho āyasmā ānando yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagav
 
 “Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo lābhassa, yadidaṁ pariyesanā.
 
-18\. ‘Taṇhaṁ paṭicca pariyesanā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā taṇhaṁ paṭicca pariyesanā. Taṇhā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ— kāmataṇhā bhavataṇhā vibhavataṇhā, sabbaso taṇhāya asati taṇhānirodhā api nu kho pariyesanā paññāyethā”ti?
+18\. ‘Taṇhaṁ paṭicca pariyesanā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā taṇhaṁ paṭicca pariyesanā. Taṇhā ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—kāmataṇhā bhavataṇhā vibhavataṇhā, sabbaso taṇhāya asati taṇhānirodhā api nu kho pariyesanā paññāyethā”ti?
 
 “No hetaṁ, bhante”.
 
 “Tasmātihānanda, eseva hetu etaṁ nidānaṁ esa samudayo esa paccayo pariyesanāya, yadidaṁ taṇhā. Iti kho, ānanda, ime dve dhammā dvayena vedanāya ekasamosaraṇā bhavanti.
 
-19\. ‘Phassapaccayā vedanā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā phassapaccayā vedanā. Phasso ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ— cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso manosamphasso, sabbaso phasse asati phassanirodhā api nu kho vedanā paññāyethā”ti?
+19\. ‘Phassapaccayā vedanā’ti iti kho panetaṁ vuttaṁ, tadānanda, imināpetaṁ pariyāyena veditabbaṁ, yathā phassapaccayā vedanā. Phasso ca hi, ānanda, nābhavissa sabbena sabbaṁ sabbathā sabbaṁ kassaci kimhici, seyyathidaṁ—cakkhusamphasso sotasamphasso ghānasamphasso jivhāsamphasso kāyasamphasso manosamphasso, sabbaso phasse asati phassanirodhā api nu kho vedanā paññāyethā”ti?
 
 “No hetaṁ, bhante”.
 
@@ -176,7 +176,7 @@ Tatrānanda, yo so rūpiṁ anantaṁ attānaṁ paññapento paññapeti. Etara
 
 27\. Kittāvatā ca, ānanda, attānaṁ samanupassamāno samanupassati? Vedanaṁ vā hi, ānanda, attānaṁ samanupassamāno samanupassati: ‘vedanā me attā’ti. ‘Na heva kho me vedanā attā, appaṭisaṁvedano me attā’ti iti vā hi, ānanda, attānaṁ samanupassamāno samanupassati. ‘Na heva kho me vedanā attā, nopi appaṭisaṁvedano me attā, attā me vediyati, vedanādhammo hi me attā’ti iti vā hi, ānanda, attānaṁ samanupassamāno samanupassati.
 
-28\. Tatrānanda, yo so evamāha: ‘vedanā me attā’ti, so evamassa vacanīyo: ‘tisso kho imā, āvuso, vedanā— sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā. Imāsaṁ kho tvaṁ tissannaṁ vedanānaṁ katamaṁ attato samanupassasī’ti? Yasmiṁ, ānanda, samaye sukhaṁ vedanaṁ vedeti, neva tasmiṁ samaye dukkhaṁ vedanaṁ vedeti, na adukkhamasukhaṁ vedanaṁ vedeti; sukhaṁyeva tasmiṁ samaye vedanaṁ vedeti. Yasmiṁ, ānanda, samaye dukkhaṁ vedanaṁ vedeti, neva tasmiṁ samaye sukhaṁ vedanaṁ vedeti, na adukkhamasukhaṁ vedanaṁ vedeti; dukkhaṁyeva tasmiṁ samaye vedanaṁ vedeti. Yasmiṁ, ānanda, samaye adukkhamasukhaṁ vedanaṁ vedeti, neva tasmiṁ samaye sukhaṁ vedanaṁ vedeti, na dukkhaṁ vedanaṁ vedeti; adukkhamasukhaṁyeva tasmiṁ samaye vedanaṁ vedeti.
+28\. Tatrānanda, yo so evamāha: ‘vedanā me attā’ti, so evamassa vacanīyo: ‘tisso kho imā, āvuso, vedanā—sukhā vedanā dukkhā vedanā adukkhamasukhā vedanā. Imāsaṁ kho tvaṁ tissannaṁ vedanānaṁ katamaṁ attato samanupassasī’ti? Yasmiṁ, ānanda, samaye sukhaṁ vedanaṁ vedeti, neva tasmiṁ samaye dukkhaṁ vedanaṁ vedeti, na adukkhamasukhaṁ vedanaṁ vedeti; sukhaṁyeva tasmiṁ samaye vedanaṁ vedeti. Yasmiṁ, ānanda, samaye dukkhaṁ vedanaṁ vedeti, neva tasmiṁ samaye sukhaṁ vedanaṁ vedeti, na adukkhamasukhaṁ vedanaṁ vedeti; dukkhaṁyeva tasmiṁ samaye vedanaṁ vedeti. Yasmiṁ, ānanda, samaye adukkhamasukhaṁ vedanaṁ vedeti, neva tasmiṁ samaye sukhaṁ vedanaṁ vedeti, na dukkhaṁ vedanaṁ vedeti; adukkhamasukhaṁyeva tasmiṁ samaye vedanaṁ vedeti.
 
 29\. Sukhāpi kho, ānanda, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. Dukkhāpi kho, ānanda, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. Adukkhamasukhāpi kho, ānanda, vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. Tassa sukhaṁ vedanaṁ vediyamānassa ‘eso me attā’ti hoti. Tassāyeva sukhāya vedanāya nirodhā ‘byagā me attā’ti hoti. Dukkhaṁ vedanaṁ vediyamānassa ‘eso me attā’ti hoti. Tassāyeva dukkhāya vedanāya nirodhā ‘byagā me attā’ti hoti. Adukkhamasukhaṁ vedanaṁ vediyamānassa ‘eso me attā’ti hoti. Tassāyeva adukkhamasukhāya vedanāya nirodhā ‘byagā me attā’ti hoti. Iti so diṭṭheva dhamme aniccasukhadukkhavokiṇṇaṁ uppādavayadhammaṁ attānaṁ samanupassamāno samanupassati, yo so evamāha: ‘vedanā me attā’ti. Tasmātihānanda, etena petaṁ nakkhamati: ‘vedanā me attā’ti samanupassituṁ.
 
@@ -186,7 +186,7 @@ Tatrānanda, yo so rūpiṁ anantaṁ attānaṁ paññapento paññapeti. Etara
 
 “Tasmātihānanda, etena petaṁ nakkhamati: ‘na heva kho me vedanā attā, appaṭisaṁvedano me attā’ti samanupassituṁ.
 
-31\. Tatrānanda, yo so evamāha: ‘na heva kho me vedanā attā, nopi appaṭisaṁvedano me attā, attā me vediyati, vedanādhammo hi me attā’ti. So evamassa vacanīyo— vedanā ca hi, āvuso, sabbena sabbaṁ sabbathā sabbaṁ aparisesā nirujjheyyuṁ. Sabbaso vedanāya asati vedanānirodhā api nu kho tattha ‘ayamahamasmī’ti siyā”ti?
+31\. Tatrānanda, yo so evamāha: ‘na heva kho me vedanā attā, nopi appaṭisaṁvedano me attā, attā me vediyati, vedanādhammo hi me attā’ti. So evamassa vacanīyo—vedanā ca hi, āvuso, sabbena sabbaṁ sabbathā sabbaṁ aparisesā nirujjheyyuṁ. Sabbaso vedanāya asati vedanānirodhā api nu kho tattha ‘ayamahamasmī’ti siyā”ti?
 
 “No hetaṁ, bhante”.
 

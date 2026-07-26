@@ -96,7 +96,7 @@ Dutiyampi kho citto gahapati …pe…
 
 tatiyampi kho citto gahapati āyasmantaṁ theraṁ etadavoca:
 
-“yā imā, bhante thera, anekavihitā diṭṭhiyo loke uppajjanti— sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā. Yāni cimāni dvāsaṭṭhi diṭṭhigatāni brahmajāle bhaṇitāni; imā nu kho, bhante, diṭṭhiyo kismiṁ sati honti, kismiṁ asati na hontī”ti?
+“yā imā, bhante thera, anekavihitā diṭṭhiyo loke uppajjanti—sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā. Yāni cimāni dvāsaṭṭhi diṭṭhigatāni brahmajāle bhaṇitāni; imā nu kho, bhante, diṭṭhiyo kismiṁ sati honti, kismiṁ asati na hontī”ti?
 
 Tatiyampi kho āyasmā thero tuṇhī ahosi.
 
@@ -108,7 +108,7 @@ Atha kho āyasmā isidatto āyasmantaṁ theraṁ etadavoca: “byākaromahaṁ,
 
 “Byākarohi tvaṁ, āvuso isidatta, cittassa gahapatino etaṁ pañhan”ti.
 
-“Evañhi tvaṁ, gahapati, pucchasi: ‘yā imā, bhante thera, anekavihitā diṭṭhiyo loke uppajjanti— sassato lokoti vā …pe…; imā nu kho, bhante, diṭṭhiyo kismiṁ sati honti, kismiṁ asati na hontī’”ti? “Evaṁ, bhante”.
+“Evañhi tvaṁ, gahapati, pucchasi: ‘yā imā, bhante thera, anekavihitā diṭṭhiyo loke uppajjanti—sassato lokoti vā …pe…; imā nu kho, bhante, diṭṭhiyo kismiṁ sati honti, kismiṁ asati na hontī’”ti? “Evaṁ, bhante”.
 
 5\. “Kathaṁ pana, bhante, sakkāyadiṭṭhi hotī”ti?
 
@@ -252,7 +252,7 @@ Pañcamaṁ.
 
 “kati nu kho, bhante, saṅkhārā”ti?
 
-“Tayo kho, gahapati, saṅkhārā— kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro”ti.
+“Tayo kho, gahapati, saṅkhārā—kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro”ti.
 
 “Sādhu, bhante”ti kho citto gahapati āyasmato kāmabhussa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ kāmabhuṁ uttariṁ pañhaṁ apucchi:
 
@@ -264,7 +264,7 @@ Pañcamaṁ.
 
 “saññāvedayitanirodhasamāpattiyā pana, bhante, kati dhammā bahūpakārā”ti?
 
-“Addhā kho tvaṁ, gahapati, yaṁ paṭhamaṁ pucchitabbaṁ taṁ pucchasi. Api ca tyāhaṁ byākarissāmi. Saññāvedayitanirodhasamāpattiyā kho, gahapati, dve dhammā bahūpakārā— samatho ca vipassanā cā”ti.
+“Addhā kho tvaṁ, gahapati, yaṁ paṭhamaṁ pucchitabbaṁ taṁ pucchasi. Api ca tyāhaṁ byākarissāmi. Saññāvedayitanirodhasamāpattiyā kho, gahapati, dve dhammā bahūpakārā—samatho ca vipassanā cā”ti.
 
 Chaṭṭhaṁ.
 
@@ -308,7 +308,7 @@ Chaṭṭhaṁ.
 
 “saññāvedayitanirodhasamāpattiyā vuṭṭhitaṁ pana, bhante, bhikkhuṁ kati phassā phusanti”?
 
-“Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṁ kho, gahapati, bhikkhuṁ tayo phassā phusanti— suññato phasso, animitto phasso, appaṇihito phasso”ti.
+“Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṁ kho, gahapati, bhikkhuṁ tayo phassā phusanti—suññato phasso, animitto phasso, appaṇihito phasso”ti.
 
 9\. “Sādhu …pe… uttariṁ pañhaṁ apucchi:
 
@@ -356,7 +356,7 @@ Rāgo kho, bhante, kiñcanaṁ, doso kiñcanaṁ, moho kiñcanaṁ. Te khīṇā
 
 Assosi kho citto gahapati: “nigaṇṭho kira nāṭaputto macchikāsaṇḍaṁ anuppatto mahatiyā nigaṇṭhaparisāya saddhin”ti. Atha kho citto gahapati sambahulehi upāsakehi saddhiṁ yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhena nāṭaputtena saddhiṁ sammodi.
 
-Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho cittaṁ gahapatiṁ nigaṇṭho nāṭaputto etadavoca: “saddahasi tvaṁ, gahapati, samaṇassa gotamassa— atthi avitakko avicāro samādhi, atthi vitakkavicārānaṁ nirodho”ti?
+Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho cittaṁ gahapatiṁ nigaṇṭho nāṭaputto etadavoca: “saddahasi tvaṁ, gahapati, samaṇassa gotamassa—atthi avitakko avicāro samādhi, atthi vitakkavicārānaṁ nirodho”ti?
 
 2\. “Na khvāhaṁ ettha, bhante, bhagavato saddhāya gacchāmi. Atthi avitakko avicāro samādhi, atthi vitakkavicārānaṁ nirodho”ti.
 
@@ -430,7 +430,7 @@ Atha kho sambahulā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappa
 
 “Kiṁ pana tā, ayyaputta, ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṁ sampassamānā evamāhaṁsu: ‘paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī’”ti?
 
-“Tāsaṁ kho ārāmadevatānaṁ vanadevatānaṁ rukkhadevatānaṁ osadhitiṇavanappatīsu adhivatthānaṁ devatānaṁ evaṁ hoti: ‘ayaṁ kho citto gahapati, sīlavā kalyāṇadhammo. Sace paṇidahissati— anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti, ‘tassa kho ayaṁ ijjhissati, sīlavato cetopaṇidhi visuddhattā dhammiko dhammikaṁ phalaṁ anupassatī’ti. Imaṁ kho tā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṁ sampassamānā evamāhaṁsu: “tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyan”ti.
+“Tāsaṁ kho ārāmadevatānaṁ vanadevatānaṁ rukkhadevatānaṁ osadhitiṇavanappatīsu adhivatthānaṁ devatānaṁ evaṁ hoti: ‘ayaṁ kho citto gahapati, sīlavā kalyāṇadhammo. Sace paṇidahissati—anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti, ‘tassa kho ayaṁ ijjhissati, sīlavato cetopaṇidhi visuddhattā dhammiko dhammikaṁ phalaṁ anupassatī’ti. Imaṁ kho tā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṁ sampassamānā evamāhaṁsu: “tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyan”ti.
 
 ‘paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti. Tāhaṁ evaṁ vadāmi: ‘tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyan’”ti.
 

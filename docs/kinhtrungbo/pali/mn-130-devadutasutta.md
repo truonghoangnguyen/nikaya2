@@ -94,15 +94,15 @@ Tamenaṁ, bhikkhave, yamo rājā evamāha: ‘ambho purisa, pamādavatāya na k
 
 16\. Tamenaṁ, bhikkhave, nirayapālā mahāniraye pakkhipanti. So kho pana, bhikkhave, mahānirayo—
 
-Catukkaṇṇo catudvāro,\
-vibhatto bhāgaso mito;\
-Ayopākārapariyanto,\
-ayasā paṭikujjito.
+> Catukkaṇṇo catudvāro,\
+> vibhatto bhāgaso mito;\
+> Ayopākārapariyanto,\
+> ayasā paṭikujjito.
 
-Tassa ayomayā bhūmi,\
-jalitā tejasāyutā;\
-Samantā yojanasataṁ,\
-pharitvā tiṭṭhati sabbadā.
+> Tassa ayomayā bhūmi,\
+> jalitā tejasāyutā;\
+> Samantā yojanasataṁ,\
+> pharitvā tiṭṭhati sabbadā.
 
 17\. Tassa kho pana, bhikkhave, mahānirayassa puratthimāya bhittiyā acci uṭṭhahitvā pacchimāya bhittiyā paṭihaññati, pacchimāya bhittiyā acci uṭṭhahitvā puratthimāya bhittiyā paṭihaññati, uttarāya bhittiyā acci uṭṭhahitvā dakkhiṇāya bhittiyā paṭihaññati, dakkhiṇāya bhittiyā acci uṭṭhahitvā uttarāya bhittiyā paṭihaññati, heṭṭhā acci uṭṭhahitvā upari paṭihaññati, uparito acci uṭṭhahitvā heṭṭhā paṭihaññati. So tattha dukkhā tibbā kharā kaṭukā vedanā vedeti, na ca tāva kālaṁ karoti yāva na taṁ pāpakammaṁ byantīhoti.
 
@@ -142,34 +142,34 @@ Tamenaṁ, bhikkhave, nirayapālā tattena ayosaṅkunā mukhaṁ vivaritvā ād
 
 30\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-“Coditā devadūtehi,\
-ye pamajjanti māṇavā;\
-Te dīgharattaṁ socanti,\
-hīnakāyūpagā narā.
+> “Coditā devadūtehi,\
+> ye pamajjanti māṇavā;\
+> Te dīgharattaṁ socanti,\
+> hīnakāyūpagā narā.
 
-Ye ca kho devadūtehi,\
-santo sappurisā idha;\
-Coditā nappamajjanti,\
-ariyadhamme kudācanaṁ.
+> Ye ca kho devadūtehi,\
+> santo sappurisā idha;\
+> Coditā nappamajjanti,\
+> ariyadhamme kudācanaṁ.
 
-Upādāne bhayaṁ disvā,\
-jātimaraṇasambhave;\
-Anupādā vimuccanti,\
-jātimaraṇasaṅkhaye.
+> Upādāne bhayaṁ disvā,\
+> jātimaraṇasambhave;\
+> Anupādā vimuccanti,\
+> jātimaraṇasaṅkhaye.
 
-Te khemappattā sukhino,\
-diṭṭhadhammābhinibbutā;\
-Sabbaverabhayātītā,\
-sabbadukkhaṁ upaccagun”ti.
+> Te khemappattā sukhino,\
+> diṭṭhadhammābhinibbutā;\
+> Sabbaverabhayātītā,\
+> sabbadukkhaṁ upaccagun”ti.
 
 Devadūtasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Suññatavaggo niṭṭhito tatiyo.
 
-Tassuddānaṁ
+31\. Tassuddānaṁ
 
-31\. Dvidhāva suññatā hoti,\
-Abbhutadhammabākulaṁ;\
-Aciravatabhūmijanāmo,\
-Anuruddhupakkilesaṁ;\
-Bālapaṇḍito devadūtañca te dasāti.
+> Dvidhāva suññatā hoti,\
+> Abbhutadhammabākulaṁ;\
+> Aciravatabhūmijanāmo,\
+> Anuruddhupakkilesaṁ;\
+> Bālapaṇḍito devadūtañca te dasāti.

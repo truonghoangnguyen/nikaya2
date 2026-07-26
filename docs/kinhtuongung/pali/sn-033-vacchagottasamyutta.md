@@ -4,71 +4,71 @@
 
 ### 33.1 Rūpaaññāṇasutta
 
-1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Paṭhamaṁ.
 
 Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
-“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
+“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Rūpe kho, vaccha, aññāṇā, rūpasamudaye aññāṇā, rūpanirodhe aññāṇā, rūpanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
+“Rūpe kho, vaccha, aññāṇā, rūpasamudaye aññāṇā, rūpanirodhe aññāṇā, rūpanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
 ### 33.2 Vedanāaññāṇasutta
 
 1\. Sāvatthinidānaṁ.
 
-Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Dutiyaṁ.
 
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
-“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
+“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Vedanāya kho, vaccha, aññāṇā, vedanāsamudaye aññāṇā, vedanānirodhe aññāṇā, vedanānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
+“Vedanāya kho, vaccha, aññāṇā, vedanāsamudaye aññāṇā, vedanānirodhe aññāṇā, vedanānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
 ### 33.3 Saññāaññāṇasutta
 
 1\. Sāvatthinidānaṁ.
 
-Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Tatiyaṁ.
 
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
-“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
+“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Saññāya kho, vaccha, aññāṇā, saññāsamudaye aññāṇā, saññānirodhe aññāṇā, saññānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
+“Saññāya kho, vaccha, aññāṇā, saññāsamudaye aññāṇā, saññānirodhe aññāṇā, saññānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
 ### 33.4 Saṅkhāraaññāṇasutta
 
 1\. Sāvatthinidānaṁ.
 
-Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Catutthaṁ.
 
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
-“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
+“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Saṅkhāresu kho, vaccha, aññāṇā, saṅkhārasamudaye aññāṇā, saṅkhāranirodhe aññāṇā, saṅkhāranirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
+“Saṅkhāresu kho, vaccha, aññāṇā, saṅkhārasamudaye aññāṇā, saṅkhāranirodhe aññāṇā, saṅkhāranirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
 ### 33.5 Viññāṇaaññāṇasutta
 
 1\. Sāvatthinidānaṁ.
 
-Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Pañcamaṁ.
 
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
-“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
+“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Viññāṇe kho, vaccha, aññāṇā, viññāṇasamudaye aññāṇā, viññāṇanirodhe aññāṇā, viññāṇanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
+“Viññāṇe kho, vaccha, aññāṇā, viññāṇasamudaye aññāṇā, viññāṇanirodhe aññāṇā, viññāṇanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
 ### 33.6-10 Rūpaadassanādisuttapañcaka
 
@@ -80,7 +80,7 @@ Dasamaṁ.
 
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
-“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
+“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
 “Rūpe kho, vaccha, adassanā …pe… rūpanirodhagāminiyā paṭipadāya adassanā …pe… vedanāya … saññāya …
 
@@ -104,7 +104,7 @@ Pannarasamaṁ.
 
 1\. Sāvatthinidānaṁ.
 
-Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca— ko nu kho, bho gotama, hetu, ko paccayo …pe… rūpe kho, vaccha, ananubodhā …pe… “rūpanirodhagāminiyā paṭipadāya ananubodhā …pe….
+Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca—ko nu kho, bho gotama, hetu, ko paccayo …pe… rūpe kho, vaccha, ananubodhā …pe… “rūpanirodhagāminiyā paṭipadāya ananubodhā …pe….
 
 Sāvatthinidānaṁ. “Vedanāya kho, vaccha …pe….
 
@@ -164,7 +164,7 @@ Paññāsamaṁ.
 
 Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
-“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
+“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
 “Rūpe kho, vaccha, appaccakkhakammā, rūpasamudaye appaccakkhakammā, rūpanirodhe appaccakkhakammā, rūpanirodhagāminiyā paṭipadāya appaccakkhakammā …pe….
 
@@ -180,7 +180,7 @@ Catupaññāsamaṁ.
 
 1\. Sāvatthinidānaṁ.
 
-“Viññāṇe kho, vaccha, appaccakkhakammā, viññāṇasamudaye appaccakkhakammā, viññāṇanirodhe appaccakkhakammā, viññāṇanirodhagāminiyā paṭipadāya appaccakkhakammā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti— sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+“Viññāṇe kho, vaccha, appaccakkhakammā, viññāṇasamudaye appaccakkhakammā, viññāṇanirodhe appaccakkhakammā, viññāṇanirodhagāminiyā paṭipadāya appaccakkhakammā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Pañcapaññāsamaṁ.
 

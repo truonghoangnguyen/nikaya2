@@ -8,7 +8,11 @@
 
 3\. Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-Uddeso niṭṭhito. 1. Kāyānupassanā 1.1. Kāyānupassanāānāpānapabba
+Uddeso niṭṭhito.
+
+## 1. Kāyānupassanā
+
+### 1.1. Kāyānupassanāānāpānapabba
 
 4\. Kathañca, bhikkhave, bhikkhu kāye kāyānupassī viharati?
 
@@ -148,7 +152,11 @@ Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajā
 
 Evampi kho, bhikkhave, bhikkhu citte cittānupassī viharati.
 
-Cittānupassanā niṭṭhitā. 4. Dhammānupassanā 4.1. Dhammānupassanānīvaraṇapabba
+Cittānupassanā niṭṭhitā.
+
+## 4. Dhammānupassanā
+
+### 4.1. Dhammānupassanānīvaraṇapabba
 
 36\. Kathañca, bhikkhave, bhikkhu dhammesu dhammānupassī viharati?
 
@@ -242,9 +250,9 @@ Satipaṭṭhānasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Mūlapariyāyavaggo niṭṭhito paṭhamo.
 
-Tassuddānaṁ
+48\. Tassuddānaṁ
 
-48\. Mūlasusaṁvaradhammadāyādā,\
-Bheravānaṅgaṇākaṅkheyyavatthaṁ;\
-Sallekhasammādiṭṭhisatipaṭṭhaṁ,\
-Vaggavaro asamo susamatto.
+> Mūlasusaṁvaradhammadāyādā,\
+> Bheravānaṅgaṇākaṅkheyyavatthaṁ;\
+> Sallekhasammādiṭṭhisatipaṭṭhaṁ,\
+> Vaggavaro asamo susamatto.
