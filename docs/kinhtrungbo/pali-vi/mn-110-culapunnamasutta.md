@@ -64,9 +64,9 @@ Cūḷapuṇṇamasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Devadahavaggo niṭṭhito paṭhamo.
 
-Tassuddānaṁ
+26\. Tassuddānaṁ
 
-26\. Devadahaṁ pañcattayaṁ,\
-Kinti sāma sunakkhattaṁ;\
-Sappāya gaṇa gopaka—\
-Mahāpuṇṇa cūḷapuṇṇañcāti.
+> Devadahaṁ pañcattayaṁ,\
+> Kinti sāma sunakkhattaṁ;\
+> Sappāya gaṇa gopaka—\
+> Mahāpuṇṇa cūḷapuṇṇañcāti.

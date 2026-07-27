@@ -34,9 +34,9 @@ Saṅkhārupapattisuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Anupadavaggo niṭṭhito dutiyo.
 
-Tassuddānaṁ
+38\. Tassuddānaṁ
 
-38\. Anupada sodhana porisadhammo,\
-Sevitabba bahudhātu vibhatti;\
-Buddhassa kittināma cattārīsena,\
-Ānāpāno kāyagato upapatti.
+> Anupada sodhana porisadhammo,\
+> Sevitabba bahudhātu vibhatti;\
+> Buddhassa kittināma cattārīsena,\
+> Ānāpāno kāyagato upapatti.

@@ -52,49 +52,49 @@ Tasmātiha te, gahapati, evaṁ sikkhitabbaṁ: ‘na manaṁ upādiyissāmi, na
 
 17\. Atha kho anāthapiṇḍiko devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho anāthapiṇḍiko devaputto bhagavantaṁ gāthāhi ajjhabhāsi:
 
-“Idañhi taṁ jetavanaṁ,\
-isisaṅghanisevitaṁ;\
-Āvutthaṁ dhammarājena,\
-pītisañjananaṁ mama.
+> “Idañhi taṁ jetavanaṁ,\
+> isisaṅghanisevitaṁ;\
+> Āvutthaṁ dhammarājena,\
+> pītisañjananaṁ mama.
 
-Kammaṁ vijjā ca dhammo ca,\
-sīlaṁ jīvitamuttamaṁ;\
-Etena maccā sujjhanti,\
-na gottena dhanena vā.
+> Kammaṁ vijjā ca dhammo ca,\
+> sīlaṁ jīvitamuttamaṁ;\
+> Etena maccā sujjhanti,\
+> na gottena dhanena vā.
 
-Tasmā hi paṇḍito poso,\
-sampassaṁ atthamattano;\
-Yoniso vicine dhammaṁ,\
-evaṁ tattha visujjhati.
+> Tasmā hi paṇḍito poso,\
+> sampassaṁ atthamattano;\
+> Yoniso vicine dhammaṁ,\
+> evaṁ tattha visujjhati.
 
-Sāriputtova paññāya,\
-sīlena upasamena ca;\
-Yopi pāraṅgato bhikkhu,\
-etāvaparamo siyā”ti.
+> Sāriputtova paññāya,\
+> sīlena upasamena ca;\
+> Yopi pāraṅgato bhikkhu,\
+> etāvaparamo siyā”ti.
 
 18\. Idamavoca anāthapiṇḍiko devaputto. Samanuñño satthā ahosi. Atha kho anāthapiṇḍiko devaputto: “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi.
 
 19\. Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi: “imaṁ, bhikkhave, rattiṁ aññataro devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappaṁ jetavanaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so devaputto maṁ gāthāhi ajjhabhāsi:
 
-‘Idañhi taṁ jetavanaṁ,\
-isisaṅghanisevitaṁ;\
-Āvutthaṁ dhammarājena,\
-pītisañjananaṁ mama.
+> ‘Idañhi taṁ jetavanaṁ,\
+> isisaṅghanisevitaṁ;\
+> Āvutthaṁ dhammarājena,\
+> pītisañjananaṁ mama.
 
-Kammaṁ vijjā ca dhammo ca,\
-sīlaṁ jīvitamuttamaṁ;\
-Etena maccā sujjhanti,\
-na gottena dhanena vā.
+> Kammaṁ vijjā ca dhammo ca,\
+> sīlaṁ jīvitamuttamaṁ;\
+> Etena maccā sujjhanti,\
+> na gottena dhanena vā.
 
-Tasmā hi paṇḍito poso,\
-sampassaṁ atthamattano;\
-Yoniso vicine dhammaṁ,\
-evaṁ tattha visujjhati.
+> Tasmā hi paṇḍito poso,\
+> sampassaṁ atthamattano;\
+> Yoniso vicine dhammaṁ,\
+> evaṁ tattha visujjhati.
 
-Sāriputtova paññāya,\
-sīlena upasamena ca;\
-Yopi pāraṅgato bhikkhu,\
-etāvaparamo siyā’ti.
+> Sāriputtova paññāya,\
+> sīlena upasamena ca;\
+> Yopi pāraṅgato bhikkhu,\
+> etāvaparamo siyā’ti.
 
 Idamavoca, bhikkhave, so devaputto. ‘Samanuñño me satthā’ti maṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyī”ti.
 

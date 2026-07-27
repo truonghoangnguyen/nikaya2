@@ -52,140 +52,148 @@ Ye kho pana, pāpima, tena samayena manussā kālaṁ karonti yebhuyyena kāyass
 
 23\. So kho ahaṁ, pāpima, bahūni vassāni bahūni vassasatāni bahūni vassasahassāni tasmiṁ mahāniraye apacciṁ. Dasavassasahassāni tasseva mahānirayassa ussade apacciṁ vuṭṭhānimaṁ nāma vedanaṁ vediyamāno. Tassa mayhaṁ, pāpima, evarūpo kāyo hoti, seyyathāpi manussassa. Evarūpaṁ sīsaṁ hoti, seyyathāpi macchassa.
 
-24\. Kīdiso nirayo āsi,\
-yattha dūsī apaccatha;\
-Vidhuraṁ sāvakamāsajja,\
-kakusandhañca brāhmaṇaṁ.
+24\.
+> Kīdiso nirayo āsi,\
+> yattha dūsī apaccatha;\
+> Vidhuraṁ sāvakamāsajja,\
+> kakusandhañca brāhmaṇaṁ.
 
-Sataṁ āsi ayosaṅkū,\
-sabbe paccattavedanā;\
-Īdiso nirayo āsi,\
-yattha dūsī apaccatha;\
-Vidhuraṁ sāvakamāsajja,\
-kakusandhañca brāhmaṇaṁ.
+> Sataṁ āsi ayosaṅkū,\
+> sabbe paccattavedanā;\
+> Īdiso nirayo āsi,\
+> yattha dūsī apaccatha;\
+> Vidhuraṁ sāvakamāsajja,\
+> kakusandhañca brāhmaṇaṁ.
 
-Yo etamabhijānāti,\
-bhikkhu buddhassa sāvako;\
-Tādisaṁ bhikkhumāsajja,\
-kaṇha dukkhaṁ nigacchasi.
+> Yo etamabhijānāti,\
+> bhikkhu buddhassa sāvako;\
+> Tādisaṁ bhikkhumāsajja,\
+> kaṇha dukkhaṁ nigacchasi.
 
-25\. Majjhe sarassa tiṭṭhanti,\
-vimānā kappaṭṭhāyino;\
-Veḷuriyavaṇṇā rucirā,\
-accimanto pabhassarā;\
-Accharā tattha naccanti,\
-puthu nānattavaṇṇiyo.
+25\.
+> Majjhe sarassa tiṭṭhanti,\
+> vimānā kappaṭṭhāyino;\
+> Veḷuriyavaṇṇā rucirā,\
+> accimanto pabhassarā;\
+> Accharā tattha naccanti,\
+> puthu nānattavaṇṇiyo.
 
-Yo etamabhijānāti,\
-bhikkhu buddhassa sāvako;\
-Tādisaṁ bhikkhumāsajja,\
-kaṇha dukkhaṁ nigacchasi.
+> Yo etamabhijānāti,\
+> bhikkhu buddhassa sāvako;\
+> Tādisaṁ bhikkhumāsajja,\
+> kaṇha dukkhaṁ nigacchasi.
 
-26\. Yo ve buddhena codito,\
-bhikkhu saṅghassa pekkhato;\
-Migāramātupāsādaṁ,\
-pādaṅguṭṭhena kampayi.
+26\.
+> Yo ve buddhena codito,\
+> bhikkhu saṅghassa pekkhato;\
+> Migāramātupāsādaṁ,\
+> pādaṅguṭṭhena kampayi.
 
-Yo etamabhijānāti,\
-bhikkhu buddhassa sāvako;\
-Tādisaṁ bhikkhumāsajja,\
-kaṇha dukkhaṁ nigacchasi.
+> Yo etamabhijānāti,\
+> bhikkhu buddhassa sāvako;\
+> Tādisaṁ bhikkhumāsajja,\
+> kaṇha dukkhaṁ nigacchasi.
 
-27\. Yo vejayantaṁ pāsādaṁ,\
-pādaṅguṭṭhena kampayi;\
-Iddhibalenupatthaddho,\
-saṁvejesi ca devatā.
+27\.
+> Yo vejayantaṁ pāsādaṁ,\
+> pādaṅguṭṭhena kampayi;\
+> Iddhibalenupatthaddho,\
+> saṁvejesi ca devatā.
 
-Yo etamabhijānāti,\
-bhikkhu buddhassa sāvako;\
-Tādisaṁ bhikkhumāsajja,\
-kaṇha dukkhaṁ nigacchasi.
+> Yo etamabhijānāti,\
+> bhikkhu buddhassa sāvako;\
+> Tādisaṁ bhikkhumāsajja,\
+> kaṇha dukkhaṁ nigacchasi.
 
-28\. Yo vejayantapāsāde,\
-sakkaṁ so paripucchati;\
-Api vāsava jānāsi,\
-taṇhākkhayavimuttiyo;\
-Tassa sakko viyākāsi,\
-pañhaṁ puṭṭho yathātathaṁ.
+28\.
+> Yo vejayantapāsāde,\
+> sakkaṁ so paripucchati;\
+> Api vāsava jānāsi,\
+> taṇhākkhayavimuttiyo;\
+> Tassa sakko viyākāsi,\
+> pañhaṁ puṭṭho yathātathaṁ.
 
-Yo etamabhijānāti,\
-bhikkhu buddhassa sāvako;\
-Tādisaṁ bhikkhumāsajja,\
-kaṇha dukkhaṁ nigacchasi.
+> Yo etamabhijānāti,\
+> bhikkhu buddhassa sāvako;\
+> Tādisaṁ bhikkhumāsajja,\
+> kaṇha dukkhaṁ nigacchasi.
 
-29\. Yo brahmaṁ paripucchati,\
-sudhammāyābhito sabhaṁ;\
-Ajjāpi tyāvuso diṭṭhi,\
-yā te diṭṭhi pure ahu;\
-Passasi vītivattantaṁ,\
-brahmaloke pabhassaraṁ.
+29\.
+> Yo brahmaṁ paripucchati,\
+> sudhammāyābhito sabhaṁ;\
+> Ajjāpi tyāvuso diṭṭhi,\
+> yā te diṭṭhi pure ahu;\
+> Passasi vītivattantaṁ,\
+> brahmaloke pabhassaraṁ.
 
-Tassa brahmā viyākāsi,\
-anupubbaṁ yathātathaṁ;\
-Na me mārisa sā diṭṭhi,\
-yā me diṭṭhi pure ahu.
+> Tassa brahmā viyākāsi,\
+> anupubbaṁ yathātathaṁ;\
+> Na me mārisa sā diṭṭhi,\
+> yā me diṭṭhi pure ahu.
 
-Passāmi vītivattantaṁ,\
-brahmaloke pabhassaraṁ;\
-Sohaṁ ajja kathaṁ vajjaṁ,\
-ahaṁ niccomhi sassato.
+> Passāmi vītivattantaṁ,\
+> brahmaloke pabhassaraṁ;\
+> Sohaṁ ajja kathaṁ vajjaṁ,\
+> ahaṁ niccomhi sassato.
 
-Yo etamabhijānāti,\
-bhikkhu buddhassa sāvako;\
-Tādisaṁ bhikkhumāsajja,\
-kaṇha dukkhaṁ nigacchasi.
+> Yo etamabhijānāti,\
+> bhikkhu buddhassa sāvako;\
+> Tādisaṁ bhikkhumāsajja,\
+> kaṇha dukkhaṁ nigacchasi.
 
-30\. Yo mahāmeruno kūṭaṁ,\
-vimokkhena aphassayi;\
-Vanaṁ pubbavidehānaṁ,\
-ye ca bhūmisayā narā.
+30\.
+> Yo mahāmeruno kūṭaṁ,\
+> vimokkhena aphassayi;\
+> Vanaṁ pubbavidehānaṁ,\
+> ye ca bhūmisayā narā.
 
-Yo etamabhijānāti,\
-bhikkhu buddhassa sāvako;\
-Tādisaṁ bhikkhumāsajja,\
-kaṇha dukkhaṁ nigacchasi.
+> Yo etamabhijānāti,\
+> bhikkhu buddhassa sāvako;\
+> Tādisaṁ bhikkhumāsajja,\
+> kaṇha dukkhaṁ nigacchasi.
 
-31\. Na ve aggi cetayati,\
-‘ahaṁ bālaṁ ḍahāmī’ti;\
-Bālo ca jalitaṁ aggiṁ,\
-āsajja naṁ sa ḍayhati.
+31\.
+> Na ve aggi cetayati,\
+> ‘ahaṁ bālaṁ ḍahāmī’ti;\
+> Bālo ca jalitaṁ aggiṁ,\
+> āsajja naṁ sa ḍayhati.
 
-Evameva tuvaṁ māra,\
-āsajja naṁ tathāgataṁ;\
-Sayaṁ ḍahissasi attānaṁ,\
-bālo aggiṁva samphusaṁ.
+> Evameva tuvaṁ māra,\
+> āsajja naṁ tathāgataṁ;\
+> Sayaṁ ḍahissasi attānaṁ,\
+> bālo aggiṁva samphusaṁ.
 
-Apuññaṁ pasavī māro,\
-āsajja naṁ tathāgataṁ;\
-Kiṁ nu maññasi pāpima,\
-na me pāpaṁ vipaccati.
+> Apuññaṁ pasavī māro,\
+> āsajja naṁ tathāgataṁ;\
+> Kiṁ nu maññasi pāpima,\
+> na me pāpaṁ vipaccati.
 
-Karoto cīyati pāpaṁ,\
-cirarattāya antaka;\
-Māra nibbinda buddhamhā,\
-āsaṁ mākāsi bhikkhusu.
+> Karoto cīyati pāpaṁ,\
+> cirarattāya antaka;\
+> Māra nibbinda buddhamhā,\
+> āsaṁ mākāsi bhikkhusu.
 
-Iti māraṁ atajjesi,\
-bhikkhu bhesakaḷāvane;\
-Tato so dummano yakkho,\
-tatthevantaradhāyathā”ti.
+> Iti māraṁ atajjesi,\
+> bhikkhu bhesakaḷāvane;\
+> Tato so dummano yakkho,\
+> tatthevantaradhāyathā”ti.
 
 Māratajjanīyasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Cūḷayamakavaggo niṭṭhito pañcamo.
 
-Tassuddānaṁ
+32\. Tassuddānaṁ
 
-32\. Sāleyya verañjaduve ca tuṭṭhi,\
-Cūḷamahādhammasamādānañca;\
-Vīmaṁsakā kosambi ca brāhmaṇo,\
-Dūsī ca māro dasamo ca vaggo.
+> Sāleyya verañjaduve ca tuṭṭhi,\
+> Cūḷamahādhammasamādānañca;\
+> Vīmaṁsakā kosambi ca brāhmaṇo,\
+> Dūsī ca māro dasamo ca vaggo.
 
-Idaṁ vaggānamuddānaṁ
+33\. Idaṁ vaggānamuddānaṁ
 
-33\. Mūlapariyāyo ceva,\
-sīhanādo ca uttamo;\
-Kakaco ceva gosiṅgo,\
-sāleyyo ca ime pañca.
+> Mūlapariyāyo ceva,\
+> sīhanādo ca uttamo;\
+> Kakaco ceva gosiṅgo,\
+> sāleyyo ca ime pañca.
 
 Mūlapaṇṇāsakaṁ samattaṁ.

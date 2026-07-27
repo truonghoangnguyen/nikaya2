@@ -28,19 +28,19 @@ Evameva kho, bhikkhave, ye hi keci samaṇā vā brāhmaṇā vā kusalā imassa
 
 12\. Idamavoca bhagavā. Idaṁ vatvā sugato athāparaṁ etadavoca satthā:
 
-“Ayaṁ loko paro loko,\
-jānatā suppakāsito;\
-Yañca mārena sampattaṁ,\
-appattaṁ yañca maccunā.
+> “Ayaṁ loko paro loko,\
+> jānatā suppakāsito;\
+> Yañca mārena sampattaṁ,\
+> appattaṁ yañca maccunā.
 
-Sabbaṁ lokaṁ abhiññāya,\
-sambuddhena pajānatā;\
-Vivaṭaṁ amatadvāraṁ,\
-khemaṁ nibbānapattiyā.
+> Sabbaṁ lokaṁ abhiññāya,\
+> sambuddhena pajānatā;\
+> Vivaṭaṁ amatadvāraṁ,\
+> khemaṁ nibbānapattiyā.
 
-Chinnaṁ pāpimato sotaṁ,\
-Viddhastaṁ vinaḷīkataṁ;\
-Pāmojjabahulā hotha,\
-Khemaṁ pattattha bhikkhavo”ti.
+> Chinnaṁ pāpimato sotaṁ,\
+> Viddhastaṁ vinaḷīkataṁ;\
+> Pāmojjabahulā hotha,\
+> Khemaṁ pattattha bhikkhavo”ti.
 
 Cūḷagopālakasuttaṁ niṭṭhitaṁ catutthaṁ.

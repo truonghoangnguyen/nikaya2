@@ -80,10 +80,10 @@ Taṁ kiṁ maññasi, māgaṇḍiya, api nu so puriso iti citiceva kāyaṁ sa
 
 19\. Atha kho bhagavā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:
 
-“Ārogyaparamā lābhā,\
-nibbānaṁ paramaṁ sukhaṁ;\
-Aṭṭhaṅgiko ca maggānaṁ,\
-khemaṁ amatagāminan”ti.
+> “Ārogyaparamā lābhā,\
+> nibbānaṁ paramaṁ sukhaṁ;\
+> Aṭṭhaṅgiko ca maggānaṁ,\
+> khemaṁ amatagāminan”ti.
 
 Evaṁ vutte, māgaṇḍiyo paribbājako bhagavantaṁ etadavoca: “acchariyaṁ, bho gotama, abbhutaṁ, bho gotama. Yāva subhāsitañcidaṁ bhotā gotamena: ‘ārogyaparamā lābhā, nibbānaṁ paramaṁ sukhan’ti. Mayāpi kho etaṁ, bho gotama, sutaṁ pubbakānaṁ paribbājakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ: ‘ārogyaparamā lābhā, nibbānaṁ paramaṁ sukhan’ti; tayidaṁ, bho gotama, sametī”ti.
 
@@ -99,10 +99,10 @@ Taṁ kiṁ maññasi, māgaṇḍiya, api nu so jaccandho puriso jānanto passa
 
 21\. “Evameva kho, māgaṇḍiya, aññatitthiyā paribbājakā andhā acakkhukā ajānantā ārogyaṁ, apassantā nibbānaṁ, atha ca panimaṁ gāthaṁ bhāsanti: ‘ārogyaparamā lābhā, nibbānaṁ paramaṁ sukhan’ti. Pubbakehesā, māgaṇḍiya, arahantehi sammāsambuddhehi gāthā bhāsitā:
 
-‘Ārogyaparamā lābhā,\
-nibbānaṁ paramaṁ sukhaṁ;\
-Aṭṭhaṅgiko ca maggānaṁ,\
-khemaṁ amatagāminan’ti.
+> ‘Ārogyaparamā lābhā,\
+> nibbānaṁ paramaṁ sukhaṁ;\
+> Aṭṭhaṅgiko ca maggānaṁ,\
+> khemaṁ amatagāminan’ti.
 
 Sā etarahi anupubbena puthujjanagāthā. Ayaṁ kho pana, māgaṇḍiya, kāyo rogabhūto gaṇḍabhūto sallabhūto aghabhūto ābādhabhūto, so tvaṁ imaṁ kāyaṁ rogabhūtaṁ gaṇḍabhūtaṁ sallabhūtaṁ aghabhūtaṁ ābādhabhūtaṁ: ‘idantaṁ, bho gotama, ārogyaṁ, idantaṁ nibbānan’ti vadesi. Tañhi te, māgaṇḍiya, ariyaṁ cakkhuṁ natthi yena tvaṁ ariyena cakkhunā ārogyaṁ jāneyyāsi, nibbānaṁ passeyyāsī”ti.
 

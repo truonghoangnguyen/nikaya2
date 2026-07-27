@@ -71,23 +71,33 @@ Ví dụ: Pali: "Katamehi catūhi ṭhānehi pāpakammaṁ na karoti ?"
 - Trong kinh có những thể thơ (nhận dạng với ký hiệu `>` (quote)) thì dịch dùng từ cổ, thuần hán-việt và bỏ qua chú thích, giải thích. Lý do: thơ cần sự mượt mà, không cần chính xác.
 -Thể thơ theo 5 chữ, nếu câu thơ cần nhiều ý thì chia thành 2 dòng (tổng 2 dòng là 10 chữ).
 
-Eg:```
-Sele yathā pabbatamuddhaniṭṭhito,\
-Yathāpi passe janataṁ samantato;\
-Tathūpamaṁ dhammamayaṁ sumedha,\
-Pāsādamāruyha samantacakkhu;\
-Sokāvatiṇṇaṁ janatamapetasoko,\
-Avekkhassu jātijarābhibhūtaṁ.
-```
+Eg:
+
+`
+> ‘Kicchena me adhigataṁ,\
+> halaṁ dāni pakāsituṁ;\
+> Rāgadosaparetehi,\
+> nāyaṁ dhammo susambudho.
+
+> Paṭisotagāmiṁ nipuṇaṁ,\
+> gambhīraṁ duddasaṁ aṇuṁ;\
+> Rāgarattā na dakkhanti,\
+> tamokhandhena āvuṭā’ti.
+`
 
 Dịch:
 
-```
-> Tôi nói pháp đến Mười ,\
-> Pháp đưa đến Niết-bàn;\
-> Diệt trừ mọi khổ đau,\
-> Giải thoát mọi trói buộc.
-```
+`
+> Khó khăn Ta đạt được,\
+> Có cần nên nói ra;\
+> Kẻ tham sân chi phối,\
+> Pháp khó để nhận ra.
+>
+> Ngược dòng và mong manh,\
+> Sâu thẩm và tinh tê;\
+> Đắm nhiễm không thể thấy,\
+> Che khuất bởi vô minh.
+`
 
 ### 4. Hệ thống cờ (FLAGS)
 
@@ -265,7 +275,8 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | Diệt đế(Nirodha-sacca) | Thánh đế về sự chấm dứt đau khổ | |
 | Đạo đế(Magga-sacca) | Thánh đế về con đường đưa đến chấm dứt đau khổ | |
 | Bát chánh đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
-| pháp (dhamma) | Điều; mọi Điều; Điều dạy; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Điều dạy' của bậc thánh"; "ý với các pháp->não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
+| pháp (dhamma) | Điều; mọi Điều; Giáo pháp; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Giáo pháp' của bậc thánh"; "ý với các pháp->não với các Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
+| pháp thoại (dhammiyā kathāya) | giảng về Chân lý | |
 | phi pháp (adhammā) | Điều sai | hoặc "những Điều sai"|
 | pháp thiện và bất thiện (Kusalākusalā dhammā) | những điều thiện và không thiện | |
 | Chánh kiến(Sammā-diṭṭhi) | Nhìn thấy Thiện | |
@@ -369,11 +380,12 @@ phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (sam
 
 ## 1. Eko dhammo
 
-Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo.
+1\. Eko, āvuso, dhammo bahukāro, eko dhammo bhāvetabbo, eko dhammo pariññeyyo, eko dhammo pahātabbo, eko dhammo hānabhāgiyo, eko dhammo visesabhāgiyo, eko dhammo duppaṭivijjho, eko dhammo uppādetabbo, eko dhammo abhiññeyyo, eko dhammo sacchikātabbo.
 
 Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu. Ayaṁ eko dhammo bahukāro.
 
-> “Dasuttaraṁ pavakkhāmi, dhammaṁ nibbānapattiyā; Dukkhassantakiriyāya, sabbaganthappamocanaṁ.
+> “Dasuttaraṁ pavakkhāmi, dhammaṁ nibbānapattiyā;\
+> Dukkhassantakiriyāya, sabbaganthappamocanaṁ.
 </input>
 
 ### Output (Kết quả mong muốn):
@@ -401,7 +413,7 @@ Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu. Ayaṁ eko dhammo bahu
 ## 1. Một Điều
 *(Eko dhammo)*
 
-Này các hiền giả, có một *Điều* (pháp / dhammo) *mang lại nhiều lợi ích* (đa hữu ích / bahukāro), một *Điều* *cần được luyện tập* (tu tập / bhāvetabbo), một *Điều* *cần được hiểu biết trọn vẹn* (liễu tri / pariññeyyo), một *Điều* *cần được từ bỏ* (đoạn trừ / pahātabbo), một *Điều* *dẫn đến sự suy thoái* (thuộc phần thoái đọa / hānabhāgiyo), một *Điều* *dẫn đến tiến bộ* (thuộc phần thù thắng / visesabhāgiyo), một *Điều* *khó thâm nhập* (khó thông đạt / duppaṭivijjho), một *Điều* *cần được tạo ra* (sanh khởi / uppādetabbo), một *Điều* *cần được hiểu hết toàn bộ* (thắng tri / abhiññeyyo), một *Điều* *cần được trực tiếp chứng nghiệm* (chứng ngộ / sacchikātabbo).
+1\. Này các hiền giả, có một *Điều* (pháp / dhammo) *mang lại nhiều lợi ích* (đa hữu ích / bahukāro), một *Điều* *cần được luyện tập* (tu tập / bhāvetabbo), một *Điều* *cần được hiểu biết trọn vẹn* (liễu tri / pariññeyyo), một *Điều* *cần được từ bỏ* (đoạn trừ / pahātabbo), một *Điều* *dẫn đến sự suy thoái* (thuộc phần thoái đọa / hānabhāgiyo), một *Điều* *dẫn đến tiến bộ* (thuộc phần thù thắng / visesabhāgiyo), một *Điều* *khó thâm nhập* (khó thông đạt / duppaṭivijjho), một *Điều* *cần được tạo ra* (sanh khởi / uppādetabbo), một *Điều* *cần được hiểu hết toàn bộ* (thắng tri / abhiññeyyo), một *Điều* *cần được trực tiếp chứng nghiệm* (chứng ngộ / sacchikātabbo).
 
 Một *Điều* nào *mang lại nhiều lợi ích*? Sự *không sao nhãng* (không phóng dật / appamādo) trong những *điều thiện* (thiện pháp / kusalesu dhammesu). Đây là một *Điều* *mang lại nhiều lợi ích*.
 
@@ -412,11 +424,13 @@ Một *Điều* nào *mang lại nhiều lợi ích*? Sự *không sao nhãng* (
 </output>
 
 ### Ví kinh được dịch tốt
+
 <input-dịch-tốt>
 “Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.
 
 Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 </input-dịch-tốt>
+
 <output-dịch-tốt>
 "Này các tỳ kheo, đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* (khổ / dukkha) và *ưu phiền* (ưu / domanassa), là phương pháp đúng đắn, để *trực tiếp chứng nghiệm* (chứng ngộ / sacchikiriyāya) Niết-bàn, đó chính là *bốn nơi thiết lập sự chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā).
 

@@ -30,15 +30,16 @@ Iti kho maṁ, bhikkhave, māro pāpimā brahmaparisaṁ upanesi.
 
 Yathākathaṁ pana me tvaṁ, mārisa, gatiñca pajānāsi, jutiñca pajānāsi: “evaṁ mahiddhiko bako brahmā, evaṁ mahānubhāvo bako brahmā, evaṁ mahesakkho bako brahmā”’ti?
 
-9\. ‘Yāvatā candimasūriyā,\
-Pariharanti disā bhanti virocanā;\
-Tāva sahassadhā loko,\
-Ettha te vattate vaso.
+9\.
+> ‘Yāvatā candimasūriyā,\
+> Pariharanti disā bhanti virocanā;\
+> Tāva sahassadhā loko,\
+> Ettha te vattate vaso.
 
-Paroparañca jānāsi,\
-atho rāgavirāginaṁ;\
-Itthabhāvaññathābhāvaṁ,\
-sattānaṁ āgatiṁ gatinti.
+> Paroparañca jānāsi,\
+> atho rāgavirāginaṁ;\
+> Itthabhāvaññathābhāvaṁ,\
+> sattānaṁ āgatiṁ gatinti.
 
 Evaṁ kho te ahaṁ, brahme, gatiñca pajānāmi jutiñca pajānāmi: “evaṁ mahiddhiko bako brahmā, evaṁ mahānubhāvo bako brahmā, evaṁ mahesakkho bako brahmā”ti.
 
@@ -52,8 +53,9 @@ Atthi kho, brahme, subhakiṇho nāma kāyo, vehapphalo nāma kāyo, abhibhū n�
 
 24\. ‘Sace kho, mārisa, sabbassa sabbattena ananubhūtaṁ, tadabhiññāya mā heva te rittakameva ahosi, tucchakameva ahosīti.
 
-25\. Viññāṇaṁ anidassanaṁ\
-anantaṁ sabbato pabhaṁ.
+25\.
+> Viññāṇaṁ anidassanaṁ\
+> anantaṁ sabbato pabhaṁ.
 
 Taṁ pathaviyā pathavattena ananubhūtaṁ, āpassa āpattena ananubhūtaṁ, tejassa tejattena ananubhūtaṁ, vāyassa vāyattena ananubhūtaṁ, bhūtānaṁ bhūtattena ananubhūtaṁ, devānaṁ devattena ananubhūtaṁ, pajāpatissa pajāpatittena ananubhūtaṁ, brahmānaṁ brahmattena ananubhūtaṁ, ābhassarānaṁ ābhassarattena ananubhūtaṁ, subhakiṇhānaṁ subhakiṇhattena ananubhūtaṁ, vehapphalānaṁ vehapphalattena ananubhūtaṁ, abhibhussa abhibhuttena ananubhūtaṁ, sabbassa sabbattena ananubhūtaṁ.
 
@@ -69,10 +71,11 @@ Evaṁ vutte, ahaṁ, bhikkhave, bakaṁ brahmānaṁ etadavocaṁ: ‘handa car
 
 Atha kho ahaṁ, bhikkhave, tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsiṁ: ‘ettāvatā brahmā ca brahmaparisā ca brahmapārisajjā ca saddañca me sossanti, na ca maṁ dakkhantī’ti. Antarahito imaṁ gāthaṁ abhāsiṁ:
 
-27\. ‘Bhavevāhaṁ bhayaṁ disvā,\
-bhavañca vibhavesinaṁ;\
-Bhavaṁ nābhivadiṁ kiñci,\
-nandiñca na upādiyin’ti.
+27\.
+> ‘Bhavevāhaṁ bhayaṁ disvā,\
+> bhavañca vibhavesinaṁ;\
+> Bhavaṁ nābhivadiṁ kiñci,\
+> nandiñca na upādiyin’ti.
 
 28\. Atha kho, bhikkhave, brahmā ca brahmaparisā ca brahmapārisajjā ca acchariyabbhutacittajātā ahesuṁ: ‘acchariyaṁ vata bho, abbhutaṁ vata bho. Samaṇassa gotamassa mahiddhikatā mahānubhāvatā, na ca vata no ito pubbe diṭṭho vā, suto vā, añño samaṇo vā brāhmaṇo vā evaṁ mahiddhiko evaṁ mahānubhāvo yathāyaṁ samaṇo gotamo sakyaputto sakyakulā pabbajito. Bhavarāmāya vata, bho, pajāya bhavaratāya bhavasammuditāya samūlaṁ bhavaṁ udabbahī’ti.
 

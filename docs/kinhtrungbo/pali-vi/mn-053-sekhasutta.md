@@ -60,10 +60,10 @@ Evameva kho, mahānāma, yato ariyasāvako evaṁ sīlasampanno hoti, evaṁ ind
 
 Brahmunāpesā, mahānāma, sanaṅkumārena gāthā bhāsitā:
 
-‘Khattiyo seṭṭho janetasmiṁ,\
-ye gottapaṭisārino;\
-Vijjācaraṇasampanno,\
-so seṭṭho devamānuse’ti.
+> ‘Khattiyo seṭṭho janetasmiṁ,\
+> ye gottapaṭisārino;\
+> Vijjācaraṇasampanno,\
+> so seṭṭho devamānuse’ti.
 
 Sā kho panesā, mahānāma, brahmunā sanaṅkumārena gāthā sugītā no duggītā, subhāsitā no dubbhāsitā, atthasaṁhitā no anatthasaṁhitā, anumatā bhagavatā”ti.
 

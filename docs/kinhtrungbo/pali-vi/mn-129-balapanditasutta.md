@@ -48,15 +48,15 @@ Taṁ kiṁ maññatha, bhikkhave, api nu so puriso tīhi sattisatehi haññamā
 
 16\. Tamenaṁ, bhikkhave, nirayapālā mahāniraye pakkhipanti. So kho pana, bhikkhave, mahānirayo—
 
-Catukkaṇṇo catudvāro,\
-vibhatto bhāgaso mito;\
-Ayopākārapariyanto,\
-ayasā paṭikujjito.
+> Catukkaṇṇo catudvāro,\
+> vibhatto bhāgaso mito;\
+> Ayopākārapariyanto,\
+> ayasā paṭikujjito.
 
-Tassa ayomayā bhūmi,\
-jalitā tejasā yutā;\
-Samantā yojanasataṁ,\
-pharitvā tiṭṭhati sabbadā.
+> Tassa ayomayā bhūmi,\
+> jalitā tejasā yutā;\
+> Samantā yojanasataṁ,\
+> pharitvā tiṭṭhati sabbadā.
 
 17\. Anekapariyāyenapi kho ahaṁ, bhikkhave, nirayakathaṁ katheyyaṁ; yāvañcidaṁ, bhikkhave, na sukarā akkhānena pāpuṇituṁ yāva dukkhā nirayā.
 

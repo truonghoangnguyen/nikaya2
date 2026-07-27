@@ -122,9 +122,9 @@ Apaṇṇakasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Gahapativaggo niṭṭhito paṭhamo.
 
-Tassuddānaṁ
+58\. Tassuddānaṁ
 
-58\. Kandaranāgarasekhavato ca,\
-Potaliyo puna jīvakabhacco;\
-Upālidamatho kukkuraabhayo,\
-Bahuvedanīyāpaṇṇakato dasamo.
+> Kandaranāgarasekhavato ca,\
+> Potaliyo puna jīvakabhacco;\
+> Upālidamatho kukkuraabhayo,\
+> Bahuvedanīyāpaṇṇakato dasamo.

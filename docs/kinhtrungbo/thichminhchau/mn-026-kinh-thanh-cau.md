@@ -1,6 +1,7 @@
 ---
 tags:
- - quá trình tu tập
+ - (quá trình tu tập)
+ - (chân lý và quy luật)
 ---
 
 # MN 26. KINH THÁNH CẦU

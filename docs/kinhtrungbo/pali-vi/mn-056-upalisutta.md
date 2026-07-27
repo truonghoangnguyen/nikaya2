@@ -252,75 +252,75 @@ Evameva kho, bhante, tassa bhagavato vādo arahato sammāsambuddhassa raṅgakkh
 
 29\. Evaṁ vutte, upāli gahapati uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā nigaṇṭhaṁ nāṭaputtaṁ etadavoca: “tena hi, bhante, suṇohi yassāhaṁ sāvako”ti:
 
-“Dhīrassa vigatamohassa,\
-Pabhinnakhīlassa vijitavijayassa;\
-Anīghassa susamacittassa,\
-Vuddhasīlassa sādhupaññassa;\
-Vesamantarassa vimalassa,\
-Bhagavato tassa sāvakohamasmi.
+> “Dhīrassa vigatamohassa,\
+> Pabhinnakhīlassa vijitavijayassa;\
+> Anīghassa susamacittassa,\
+> Vuddhasīlassa sādhupaññassa;\
+> Vesamantarassa vimalassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Akathaṅkathissa tusitassa,\
-Vantalokāmisassa muditassa;\
-Katasamaṇassa manujassa,\
-Antimasārīrassa narassa;\
-Anopamassa virajassa,\
-Bhagavato tassa sāvakohamasmi.
+> Akathaṅkathissa tusitassa,\
+> Vantalokāmisassa muditassa;\
+> Katasamaṇassa manujassa,\
+> Antimasārīrassa narassa;\
+> Anopamassa virajassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Asaṁsayassa kusalassa,\
-Venayikassa sārathivarassa;\
-Anuttarassa ruciradhammassa,\
-Nikkaṅkhassa pabhāsakassa;\
-Mānacchidassa vīrassa,\
-Bhagavato tassa sāvakohamasmi.
+> Asaṁsayassa kusalassa,\
+> Venayikassa sārathivarassa;\
+> Anuttarassa ruciradhammassa,\
+> Nikkaṅkhassa pabhāsakassa;\
+> Mānacchidassa vīrassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Nisabhassa appameyyassa,\
-Gambhīrassa monapattassa;\
-Khemaṅkarassa vedassa,\
-Dhammaṭṭhassa saṁvutattassa;\
-Saṅgātigassa muttassa,\
-Bhagavato tassa sāvakohamasmi.
+> Nisabhassa appameyyassa,\
+> Gambhīrassa monapattassa;\
+> Khemaṅkarassa vedassa,\
+> Dhammaṭṭhassa saṁvutattassa;\
+> Saṅgātigassa muttassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Nāgassa pantasenassa,\
-Khīṇasaṁyojanassa muttassa;\
-Paṭimantakassa dhonassa,\
-Pannadhajassa vītarāgassa;\
-Dantassa nippapañcassa,\
-Bhagavato tassa sāvakohamasmi.
+> Nāgassa pantasenassa,\
+> Khīṇasaṁyojanassa muttassa;\
+> Paṭimantakassa dhonassa,\
+> Pannadhajassa vītarāgassa;\
+> Dantassa nippapañcassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Isisattamassa akuhassa,\
-Tevijjassa brahmapattassa;\
-Nhātakassa padakassa,\
-Passaddhassa viditavedassa;\
-Purindadassa sakkassa,\
-Bhagavato tassa sāvakohamasmi.
+> Isisattamassa akuhassa,\
+> Tevijjassa brahmapattassa;\
+> Nhātakassa padakassa,\
+> Passaddhassa viditavedassa;\
+> Purindadassa sakkassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Ariyassa bhāvitattassa,\
-Pattipattassa veyyākaraṇassa;\
-Satimato vipassissa,\
-Anabhinatassa no apanatassa;\
-Anejassa vasippattassa,\
-Bhagavato tassa sāvakohamasmi.
+> Ariyassa bhāvitattassa,\
+> Pattipattassa veyyākaraṇassa;\
+> Satimato vipassissa,\
+> Anabhinatassa no apanatassa;\
+> Anejassa vasippattassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Samuggatassa jhāyissa,\
-Ananugatantarassa suddhassa;\
-Asitassa hitassa,\
-Pavivittassa aggappattassa;\
-Tiṇṇassa tārayantassa,\
-Bhagavato tassa sāvakohamasmi.
+> Samuggatassa jhāyissa,\
+> Ananugatantarassa suddhassa;\
+> Asitassa hitassa,\
+> Pavivittassa aggappattassa;\
+> Tiṇṇassa tārayantassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Santassa bhūripaññassa,\
-Mahāpaññassa vītalobhassa;\
-Tathāgatassa sugatassa,\
-Appaṭipuggalassa asamassa;\
-Visāradassa nipuṇassa,\
-Bhagavato tassa sāvakohamasmi.
+> Santassa bhūripaññassa,\
+> Mahāpaññassa vītalobhassa;\
+> Tathāgatassa sugatassa,\
+> Appaṭipuggalassa asamassa;\
+> Visāradassa nipuṇassa,\
+> Bhagavato tassa sāvakohamasmi.
 
-Taṇhacchidassa buddhassa,\
-Vītadhūmassa anupalittassa;\
-Āhuneyyassa yakkhassa,\
-Uttamapuggalassa atulassa;\
-Mahato yasaggapattassa,\
-Bhagavato tassa sāvakohamasmī”ti.
+> Taṇhacchidassa buddhassa,\
+> Vītadhūmassa anupalittassa;\
+> Āhuneyyassa yakkhassa,\
+> Uttamapuggalassa atulassa;\
+> Mahato yasaggapattassa,\
+> Bhagavato tassa sāvakohamasmī”ti.
 
 30\. “Kadā saññūḷhā pana te, gahapati, ime samaṇassa gotamassa vaṇṇā”ti?
 

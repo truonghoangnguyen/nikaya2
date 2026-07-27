@@ -1,3 +1,8 @@
+---
+tags:
+ - (chân lý và quy luật)
+---
+
 # MN 25. KINH BẪY MỒI
 
 ***(Nivàpa Sutta)***

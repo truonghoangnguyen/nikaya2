@@ -164,18 +164,18 @@ Saṅgāravasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Brāhmaṇavaggo niṭṭhito pañcamo.
 
-Tassuddānaṁ
+44\. Tassuddānaṁ
 
-44\. Brahmāyu selassalāyano,\
-ghoṭamukho ca brāhmaṇo;\
-Caṅkī esu dhanañjāni,\
-vāseṭṭho subhagāravoti.
+> Brahmāyu selassalāyano,\
+> ghoṭamukho ca brāhmaṇo;\
+> Caṅkī esu dhanañjāni,\
+> vāseṭṭho subhagāravoti.
 
-Idaṁ vaggānamuddānaṁ
+45\. Idaṁ vaggānamuddānaṁ
 
-45\. Vaggo gahapati bhikkhu,\
-paribbājakanāmako;\
-Rājavaggo brāhmaṇoti,\
-pañca majjhimaāgame.
+> Vaggo gahapati bhikkhu,\
+> paribbājakanāmako;\
+> Rājavaggo brāhmaṇoti,\
+> pañca majjhimaāgame.
 
 Majjhimapaṇṇāsakaṁ samattaṁ.

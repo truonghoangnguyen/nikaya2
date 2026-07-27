@@ -150,25 +150,25 @@ Atha kho brahmāyu brāhmaṇo taṁ parisaṁ etadavoca: “alaṁ, bho. Nisīd
 
 29\. Atha kho brahmāyu brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho brahmāyu brāhmaṇo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi. Addasā kho brahmāyu brāhmaṇo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya ca. Atha kho brahmāyu brāhmaṇo bhagavantaṁ gāthāhi ajjhabhāsi:
 
-“Ye me dvattiṁsāti sutā,\
-mahāpurisalakkhaṇā;\
-Duve tesaṁ na passāmi,\
-bhoto kāyasmiṁ gotama.
+> “Ye me dvattiṁsāti sutā,\
+> mahāpurisalakkhaṇā;\
+> Duve tesaṁ na passāmi,\
+> bhoto kāyasmiṁ gotama.
 
-Kacci kosohitaṁ bhoto,\
-vatthaguyhaṁ naruttama;\
-Nārīsamānasavhayā,\
-kacci jivhā na dassakā.
+> Kacci kosohitaṁ bhoto,\
+> vatthaguyhaṁ naruttama;\
+> Nārīsamānasavhayā,\
+> kacci jivhā na dassakā.
 
-Kacci pahūtajivhosi,\
-yathā taṁ jāniyāmase;\
-Ninnāmayetaṁ pahūtaṁ,\
-kaṅkhaṁ vinaya no ise.
+> Kacci pahūtajivhosi,\
+> yathā taṁ jāniyāmase;\
+> Ninnāmayetaṁ pahūtaṁ,\
+> kaṅkhaṁ vinaya no ise.
 
-Diṭṭhadhammahitatthāya,\
-samparāyasukhāya ca;\
-Katāvakāsā pucchāma,\
-yaṁ kiñci abhipatthitan”ti.
+> Diṭṭhadhammahitatthāya,\
+> samparāyasukhāya ca;\
+> Katāvakāsā pucchāma,\
+> yaṁ kiñci abhipatthitan”ti.
 
 30\. Atha kho bhagavato etadahosi: “passati kho me ayaṁ brahmāyu brāhmaṇo dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya cā”ti.
 
@@ -176,20 +176,21 @@ Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā 
 
 Atha kho bhagavā brahmāyuṁ brāhmaṇaṁ gāthāhi paccabhāsi:
 
-31\. “Ye te dvattiṁsāti sutā,\
-mahāpurisalakkhaṇā;\
-Sabbe te mama kāyasmiṁ,\
-mā te kaṅkhāhu brāhmaṇa.
+31\.
+> “Ye te dvattiṁsāti sutā,\
+> mahāpurisalakkhaṇā;\
+> Sabbe te mama kāyasmiṁ,\
+> mā te kaṅkhāhu brāhmaṇa.
 
-Abhiññeyyaṁ abhiññātaṁ,\
-bhāvetabbañca bhāvitaṁ;\
-Pahātabbaṁ pahīnaṁ me,\
-tasmā buddhosmi brāhmaṇa.
+> Abhiññeyyaṁ abhiññātaṁ,\
+> bhāvetabbañca bhāvitaṁ;\
+> Pahātabbaṁ pahīnaṁ me,\
+> tasmā buddhosmi brāhmaṇa.
 
-Diṭṭhadhammahitatthāya,\
-samparāyasukhāya ca;\
-Katāvakāso pucchassu,\
-yaṁ kiñci abhipatthitan”ti.
+> Diṭṭhadhammahitatthāya,\
+> samparāyasukhāya ca;\
+> Katāvakāso pucchassu,\
+> yaṁ kiñci abhipatthitan”ti.
 
 32\. Atha kho brahmāyussa brāhmaṇassa etadahosi:
 
@@ -197,29 +198,29 @@ yaṁ kiñci abhipatthitan”ti.
 
 Atha kho brahmāyu brāhmaṇo bhagavantaṁ gāthāhi ajjhabhāsi:
 
-“Kathaṁ kho brāhmaṇo hoti,\
-kathaṁ bhavati vedagū;\
-Tevijjo bho kathaṁ hoti,\
-sotthiyo kinti vuccati.
+> “Kathaṁ kho brāhmaṇo hoti,\
+> kathaṁ bhavati vedagū;\
+> Tevijjo bho kathaṁ hoti,\
+> sotthiyo kinti vuccati.
 
-Arahaṁ bho kathaṁ hoti,\
-kathaṁ bhavati kevalī;\
-Muni ca bho kathaṁ hoti,\
-buddho kinti pavuccatī”ti.
+> Arahaṁ bho kathaṁ hoti,\
+> kathaṁ bhavati kevalī;\
+> Muni ca bho kathaṁ hoti,\
+> buddho kinti pavuccatī”ti.
 
 33\. Atha kho bhagavā brahmāyuṁ brāhmaṇaṁ gāthāhi paccabhāsi:
 
-“Pubbenivāsaṁ yo vedi,\
-saggāpāyañca passati;\
-Atho jātikkhayaṁ patto,\
-abhiññā vosito muni.
+> “Pubbenivāsaṁ yo vedi,\
+> saggāpāyañca passati;\
+> Atho jātikkhayaṁ patto,\
+> abhiññā vosito muni.
 
-Cittaṁ visuddhaṁ jānāti,\
-muttaṁ rāgehi sabbaso;\
-Pahīnajātimaraṇo,\
-brahmacariyassa kevalī;\
-Pāragū sabbadhammānaṁ,\
-buddho tādī pavuccatī”ti.
+> Cittaṁ visuddhaṁ jānāti,\
+> muttaṁ rāgehi sabbaso;\
+> Pahīnajātimaraṇo,\
+> brahmacariyassa kevalī;\
+> Pāragū sabbadhammānaṁ,\
+> buddho tādī pavuccatī”ti.
 
 34\. Evaṁ vutte, brahmāyu brāhmaṇo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā bhagavato pādesu sirasā nipatitvā bhagavato pādāni mukhena ca paricumbati, pāṇīhi ca parisambāhati, nāmañca sāveti: “brahmāyu ahaṁ, bho gotama, brāhmaṇo; brahmāyu ahaṁ, bho gotama, brāhmaṇo”ti.
 

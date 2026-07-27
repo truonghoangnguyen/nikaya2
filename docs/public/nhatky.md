@@ -38,3 +38,19 @@ Dịch kinh trung bộ pali
 
 ### date: 2026-07-15
 Thêm Đức phật lịch sử, cân nhắc rất lâu
+
+### data 2026-07-26
+Thêm kinh pali
+
+### data 2026-07-26
+Chỉnh sửa cách viết thể thơ, dùng 5 từ như Tỷ kheo Thích Minh Châu.
+
+### data 2026-07-26
+Các bài kinh đều xoay quanh những vấn đề sau:
+Đã có 
+- thực hành: những bài thực hành theo Phật (nguyên thủy)
+- quá trình tu tập: những kinh nói về quá trình tu tập của Phật
+- khái niệm : các khái niệm
+Cân nhắc nên thêm:
+- chân lý và quy luật : những cái nhìn của Phật về thế giới (MN 26)
+- các bước tu tập: chương trình huấn luyện của Phật, hay các đệ tử trong kinh (đặc biệt là Sāriputta)

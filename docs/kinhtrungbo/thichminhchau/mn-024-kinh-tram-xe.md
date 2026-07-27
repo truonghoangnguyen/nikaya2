@@ -1,6 +1,7 @@
 ---
 tags:
  - Sāriputta
+ - (các bước tu tập)
 ---
 # MN 24. KINH TRẠM XE
 ***(Rathavinìta Sutta)***

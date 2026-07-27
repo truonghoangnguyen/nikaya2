@@ -112,15 +112,15 @@ Và tri thức cùng tầm nhìn đã sinh khởi trong Ta: 'Sự giải thoát 
 
 Và này các tỳ kheo, những vần kệ kỳ diệu này, trước đây chưa từng được nghe, đã hiện lên trong Ta:
 
-> Khó khăn thay Ta mới đạt được,\
-> Nay đâu cần phải tuyên thuyết ra;\
-> Những kẻ bị tham sân chi phối,\
-> Pháp này thật khó để nhận ra.
+> Khó khăn Ta đạt được,\
+> Có cần nên nói ra;\
+> Kẻ tham sân chi phối,\
+> Pháp khó để nhận ra.
 >
-> Đi ngược dòng đời, thật tinh tế,\
-> Sâu thẳm, khó thấy, rất vi tế;\
-> Kẻ đắm nhiễm tham không thể thấy,\
-> Bị khối vô minh che khuất rồi.
+> Ngược dòng và mong manh,\
+> Sâu thẩm và tinh tê;\
+> Đắm nhiễm không thể thấy,\
+> Che khuất bởi vô minh.
 
 Này các tỳ kheo, khi Ta suy xét như vậy, tâm Ta hướng về sự tĩnh lặng, không hướng về việc giảng dạy *Chân lý*.
 
@@ -130,32 +130,44 @@ Rồi này các tỳ kheo, Phạm thiên Sahampati—nhanh như một người l
 
 Phạm thiên Sahampati đã nói điều này, này các tỳ kheo. Sau khi nói điều này, vị ấy lại nói thêm:
 
-> Xưa kia tại xứ Ma-kiệt-đà,\
-> Kẻ uế ra pháp xấu;\
-> Xin mở cửa bất tử,\
-> Chánh Pháp bậc Vô Cấu ngộ.
+> Xưa kia tại Ma-kiệt,\
+> Pháp bất tịnh khởi lên;\
+> Do kẻ mang cấu uế,\
+> Suy nghĩ và tạo ra.
 >
-> Trên đỉnh cao nhìn xuống,\
-> Thấy dân ở bốn bề;\
-> Cũng vậy, bậc Đại Trí,\
-> Trên cao Pháp toàn tri;\
-> Bậc Vô Sầu nhìn thấu, \
-> Rõ quần chúng sinh linh,\
-> Chìm đắm trong sinh lão.
+> Hãy mở cửa Bất tử,\
+> Lắng nghe Pháp thanh tịnh;\
+> Bậc Vô cấu ngộ ra.
 >
-> Hãy đứng lên, bậc Anh Hùng,\
-> Bậc Đạo Sư không nợ, đi khắp đời;\
-> Xin Thế Tôn hãy tuyên thuyết Chánh Pháp,\
-> Sẽ có người thấu hiểu được Pháp mầu.
+> Như đứng trên đỉnh núi,\
+> Nhìn quần chúng xung quanh;\
+> Bậc Vô ưu sáng suốt,\
+> Lên lầu gác Chánh pháp.
+>
+> Nhìn chúng sinh sầu muộn,\
+> Bị sinh già áp bức;\
+> Đứng lên bậc Anh hùng,\
+> Bậc Chiến thắng vinh quang.
+>
+> Bậc Trưởng toán lữ hành,\
+> Bậc Không mang nợ nần;\
+> Hãy đi khắp thế gian,\
+> Xin Thế Tôn thuyết Pháp;\
+> Sẽ có người hiểu ra.
 
 21\. Khi ấy, này các tỳ kheo, sau khi hiểu được lời thỉnh cầu của Phạm thiên và vì lòng thương xót đối với chúng sinh, Ta đã quan sát thế giới bằng Phật nhãn. Này các tỳ kheo, khi quan sát thế giới bằng Phật nhãn, Ta thấy những có chúng sinh ít bụi trong mắt, có chúng sinh nhiều bụi trong mắt, có *năng lực tinh thần* (căn / indriya) nhạy bén, có *năng lực tinh thần* yếu kém, có tư chất tốt, có tư chất kém, dễ dạy, khó dạy, và một số sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia, một số không sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia. Giống như trong một hồ hoa sen xanh, hoa sen đỏ, hay hoa sen trắng, một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, không vươn lên khỏi mặt nước, được nuôi dưỡng chìm dưới nước; một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, vươn lên ngang bằng mặt nước; một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, vươn lên cao khỏi mặt nước và không bị nước làm ướt; cũng vậy, này các tỳ kheo, khi quan sát thế giới bằng Phật nhãn, Ta thấy những chúng sinh có ít bụi trong mắt, có nhiều bụi trong mắt, có *năng lực tinh thần* nhạy bén, có *năng lực tinh thần* yếu kém, có tư chất tốt, có tư chất kém, dễ dạy, khó dạy, và một số sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia, một số không sống thấy rõ sự nguy hiểm và lỗi lầm ở thế giới bên kia.
 
 Rồi này các tỳ kheo, Ta đã đáp lại Phạm thiên Sahampati bằng vần kệ:
 
-> Cửa bất tử đã mở cho họ,\
-> Ai có tai hãy buông niềm tin;\
-> Tưởng sẽ phiền nhọc, Ta không nói,\
-> Pháp vi diệu giữa chốn nhân quần.
+> Cửa Bất tử đã mở,\
+> Ai có tai hãy nghe;\
+> Hãy giải phóng niềm tin,
+> Theo những điều sai lạc
+>note
+> Nghĩ rằng đầy phiền toái,\
+> Không muốn giản là ta;\
+> Pháp thù thắng tinh tế,\
+> Giữa nhân gian, Phạm thiên.
 
 Khi ấy, này các tỳ kheo, Phạm thiên Sahampati nghĩ rằng: 'Thế Tôn đã cho phép ta thỉnh cầu việc giảng dạy *Chân lý*,' vị ấy đảnh lễ Ta, đi nhiễu quanh Ta về phía bên phải, rồi biến mất ngay tại đó.
 
@@ -190,32 +202,37 @@ Này các tỳ kheo, Ta đã suy nghĩ như sau: 'Hiện nay nhóm năm tỳ khe
 
 Khi được nói vậy, này các tỳ kheo, Ta đã đáp lại du sĩ Upaka bằng những vần kệ:
 
-> Ta vượt qua tất cả, biết tất cả,\
-> Không bị vấy bẩn bởi mọi pháp;\
-> Từ bỏ tất cả, giải thoát ái tận,\
-> Tự mình thắng tri, gọi ai là thầy?
+> Ta vượt qua tất cả,\
+> Ta hiểu biết tất cả;\
+> Không dính mắc pháp nào,\
+> Từ bỏ mọi tất cả.
 >
-> Ta không có bậc đạo sư nào,\
-> Người giống như Ta không tồn tại;\
-> Trong thế giới cùng với chư thiên,\
-> Không có ai sánh bằng Ta cả.
+> Ái diệt được giải thoát,\
+> Tự mình chứng ngộ lấy;\
+> Còn gọi ai đạo sư?
 >
-> Ta là bậc A-la-hán trên đời,\
-> Ta là bậc Đạo Sư vô thượng;\
-> Ta là bậc Chánh Đẳng Giác duy nhất,\
-> Đã trở nên mát mẻ, tịch diệt.
+> Ta không có đạo sư,\
+> Người như Ta không có;\
+> Giữa thế giới chư thiên,\
+> Không ai sánh bằng Ta.
 >
-> Để chuyển bánh xe Chánh Pháp này,\
-> Ta đi đến thành phố Kāsi;\
-> Trong thế giới đang bị mù lòa,\
-> Ta gióng lên tiếng trống bất tử.
+> Ta A-la-hán đời,\
+> Đạo sư bậc Vô thượng;\
+> Chánh Đẳng Giác một mình,\
+> Tịch tịnh và mát mẻ.
+>
+> Chuyển bánh xe Chánh pháp,\
+> Ta đi đến Kasi;\
+> Giữa thế giới mù lòa,\
+> Gióng lên trống Bất tử.
+
 
 'Theo như ngài tự nhận, thưa hiền giả, ngài xứng đáng là bậc chiến thắng vô tận.'
 
-> Những ai đạt đến lậu hoặc tận,\
-> Chính là những bậc chiến thắng như Ta;\
-> Ta đã chiến thắng các ác pháp,\
-> Do vậy, Upaka, Ta là người chiến thắng.
+> Những ai diệt lậu hoặc,\
+> Là Chiến thắng như Ta;\
+> Ta thắng mọi ác pháp,\
+> Nên Upaka, Ta thắng.
 
 Khi được nói vậy, này các tỳ kheo, du sĩ Upaka nói: 'Có thể là như vậy, thưa hiền giả,' rồi lắc đầu, rẽ sang một con đường khác và bỏ đi.
 

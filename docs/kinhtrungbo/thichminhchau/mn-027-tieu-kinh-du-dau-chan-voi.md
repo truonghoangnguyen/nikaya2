@@ -1,3 +1,8 @@
+---
+tags:
+ - (các bước tu tập I)
+---
+
 # MN 27. TIỂU KINH DỤ DẤU CHÂN VOI
 
 ***(Cùlahatthipadopama Sutta)***

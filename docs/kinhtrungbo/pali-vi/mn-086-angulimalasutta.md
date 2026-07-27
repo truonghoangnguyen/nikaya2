@@ -26,30 +26,30 @@ Atha kho corassa aṅgulimālassa etadahosi: “ime kho samaṇā sakyaputtiyā 
 
 6\. Atha kho coro aṅgulimālo bhagavantaṁ gāthāya ajjhabhāsi:
 
-“Gacchaṁ vadesi samaṇa ṭhitomhi,\
-Mamañca brūsi ṭhitamaṭṭhitoti;\
-Pucchāmi taṁ samaṇa etamatthaṁ,\
-Kathaṁ ṭhito tvaṁ ahamaṭṭhitomhī”ti.
+> “Gacchaṁ vadesi samaṇa ṭhitomhi,\
+> Mamañca brūsi ṭhitamaṭṭhitoti;\
+> Pucchāmi taṁ samaṇa etamatthaṁ,\
+> Kathaṁ ṭhito tvaṁ ahamaṭṭhitomhī”ti.
 
-“Ṭhito ahaṁ aṅgulimāla sabbadā,\
-Sabbesu bhūtesu nidhāya daṇḍaṁ;\
-Tuvañca pāṇesu asaññatosi,\
-Tasmā ṭhitohaṁ tuvamaṭṭhitosī”ti.
+> “Ṭhito ahaṁ aṅgulimāla sabbadā,\
+> Sabbesu bhūtesu nidhāya daṇḍaṁ;\
+> Tuvañca pāṇesu asaññatosi,\
+> Tasmā ṭhitohaṁ tuvamaṭṭhitosī”ti.
 
-“Cirassaṁ vata me mahito mahesī,\
-Mahāvanaṁ pāpuṇi saccavādī;\
-Sohaṁ carissāmi pahāya pāpaṁ,\
-Sutvāna gāthaṁ tava dhammayuttaṁ”.
+> “Cirassaṁ vata me mahito mahesī,\
+> Mahāvanaṁ pāpuṇi saccavādī;\
+> Sohaṁ carissāmi pahāya pāpaṁ,\
+> Sutvāna gāthaṁ tava dhammayuttaṁ”.
 
-Itveva coro asimāvudhañca,\
-Sobbhe papāte narake akiri;\
-Avandi coro sugatassa pāde,\
-Tattheva naṁ pabbajjaṁ ayāci.
+> Itveva coro asimāvudhañca,\
+> Sobbhe papāte narake akiri;\
+> Avandi coro sugatassa pāde,\
+> Tattheva naṁ pabbajjaṁ ayāci.
 
-Buddho ca kho kāruṇiko mahesi,\
-Yo satthā lokassa sadevakassa;\
-“Tamehi bhikkhū”ti tadā avoca,\
-Eseva tassa ahu bhikkhubhāvoti.
+> Buddho ca kho kāruṇiko mahesi,\
+> Yo satthā lokassa sadevakassa;\
+> “Tamehi bhikkhū”ti tadā avoca,\
+> Eseva tassa ahu bhikkhubhāvoti.
 
 7\. Atha kho bhagavā āyasmatā aṅgulimālena pacchāsamaṇena yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari. Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -113,84 +113,84 @@ Addasā kho bhagavā āyasmantaṁ aṅgulimālaṁ dūratova āgacchantaṁ. Di
 
 18\. Atha kho āyasmā aṅgulimālo rahogato paṭisallīno vimuttisukhaṁ paṭisaṁvedi; tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:
 
-“Yo pubbeva pamajjitvā,\
-pacchā so nappamajjati;\
-Somaṁ lokaṁ pabhāseti,\
-abbhā muttova candimā.
+> “Yo pubbeva pamajjitvā,\
+> pacchā so nappamajjati;\
+> Somaṁ lokaṁ pabhāseti,\
+> abbhā muttova candimā.
 
-Yassa pāpaṁ kataṁ kammaṁ,\
-kusalena pidhīyati;\
-Somaṁ lokaṁ pabhāseti,\
-abbhā muttova candimā.
+> Yassa pāpaṁ kataṁ kammaṁ,\
+> kusalena pidhīyati;\
+> Somaṁ lokaṁ pabhāseti,\
+> abbhā muttova candimā.
 
-Yo have daharo bhikkhu,\
-yuñjati buddhasāsane;\
-Somaṁ lokaṁ pabhāseti,\
-abbhā muttova candimā.
+> Yo have daharo bhikkhu,\
+> yuñjati buddhasāsane;\
+> Somaṁ lokaṁ pabhāseti,\
+> abbhā muttova candimā.
 
-Disā hi me dhammakathaṁ suṇantu,\
-Disā hi me yuñjantu buddhasāsane;\
-Disā hi me te manujā bhajantu,\
-Ye dhammamevādapayanti santo.
+> Disā hi me dhammakathaṁ suṇantu,\
+> Disā hi me yuñjantu buddhasāsane;\
+> Disā hi me te manujā bhajantu,\
+> Ye dhammamevādapayanti santo.
 
-Disā hi me khantivādānaṁ,\
-avirodhappasaṁsīnaṁ;\
-Suṇantu dhammaṁ kālena,\
-tañca anuvidhīyantu.
+> Disā hi me khantivādānaṁ,\
+> avirodhappasaṁsīnaṁ;\
+> Suṇantu dhammaṁ kālena,\
+> tañca anuvidhīyantu.
 
-Na hi jātu so mamaṁ hiṁse,\
-aññaṁ vā pana kiñci naṁ;\
-Pappuyya paramaṁ santiṁ,\
-rakkheyya tasathāvare.
+> Na hi jātu so mamaṁ hiṁse,\
+> aññaṁ vā pana kiñci naṁ;\
+> Pappuyya paramaṁ santiṁ,\
+> rakkheyya tasathāvare.
 
-Udakañhi nayanti nettikā,\
-Usukārā namayanti tejanaṁ;\
-Dāruṁ namayanti tacchakā,\
-Attānaṁ damayanti paṇḍitā.
+> Udakañhi nayanti nettikā,\
+> Usukārā namayanti tejanaṁ;\
+> Dāruṁ namayanti tacchakā,\
+> Attānaṁ damayanti paṇḍitā.
 
-Daṇḍeneke damayanti,\
-aṅkusehi kasāhi ca;\
-Adaṇḍena asatthena,\
-ahaṁ dantomhi tādinā.
+> Daṇḍeneke damayanti,\
+> aṅkusehi kasāhi ca;\
+> Adaṇḍena asatthena,\
+> ahaṁ dantomhi tādinā.
 
-Ahiṁsakoti me nāmaṁ,\
-hiṁsakassa pure sato;\
-Ajjāhaṁ saccanāmomhi,\
-na naṁ hiṁsāmi kiñci naṁ.
+> Ahiṁsakoti me nāmaṁ,\
+> hiṁsakassa pure sato;\
+> Ajjāhaṁ saccanāmomhi,\
+> na naṁ hiṁsāmi kiñci naṁ.
 
-Coro ahaṁ pure āsiṁ,\
-aṅgulimāloti vissuto;\
-Vuyhamāno mahoghena,\
-buddhaṁ saraṇamāgamaṁ.
+> Coro ahaṁ pure āsiṁ,\
+> aṅgulimāloti vissuto;\
+> Vuyhamāno mahoghena,\
+> buddhaṁ saraṇamāgamaṁ.
 
-Lohitapāṇi pure āsiṁ,\
-aṅgulimāloti vissuto;\
-Saraṇagamanaṁ passa,\
-bhavanetti samūhatā.
+> Lohitapāṇi pure āsiṁ,\
+> aṅgulimāloti vissuto;\
+> Saraṇagamanaṁ passa,\
+> bhavanetti samūhatā.
 
-Tādisaṁ kammaṁ katvāna,\
-bahuṁ duggatigāminaṁ;\
-Phuṭṭho kammavipākena,\
-aṇaṇo bhuñjāmi bhojanaṁ.
+> Tādisaṁ kammaṁ katvāna,\
+> bahuṁ duggatigāminaṁ;\
+> Phuṭṭho kammavipākena,\
+> aṇaṇo bhuñjāmi bhojanaṁ.
 
-Pamādamanuyuñjanti,\
-bālā dummedhino janā;\
-Appamādañca medhāvī,\
-dhanaṁ seṭṭhaṁva rakkhati.
+> Pamādamanuyuñjanti,\
+> bālā dummedhino janā;\
+> Appamādañca medhāvī,\
+> dhanaṁ seṭṭhaṁva rakkhati.
 
-Mā pamādamanuyuñjetha,\
-mā kāmarati santhavaṁ;\
-Appamatto hi jhāyanto,\
-pappoti vipulaṁ sukhaṁ.
+> Mā pamādamanuyuñjetha,\
+> mā kāmarati santhavaṁ;\
+> Appamatto hi jhāyanto,\
+> pappoti vipulaṁ sukhaṁ.
 
-Svāgataṁ nāpagataṁ,\
-nayidaṁ dummantitaṁ mama;\
-Saṁvibhattesu dhammesu,\
-yaṁ seṭṭhaṁ tadupāgamaṁ.
+> Svāgataṁ nāpagataṁ,\
+> nayidaṁ dummantitaṁ mama;\
+> Saṁvibhattesu dhammesu,\
+> yaṁ seṭṭhaṁ tadupāgamaṁ.
 
-Svāgataṁ nāpagataṁ,\
-nayidaṁ dummantitaṁ mama;\
-Tisso vijjā anuppattā,\
-kataṁ buddhassa sāsanan”ti.
+> Svāgataṁ nāpagataṁ,\
+> nayidaṁ dummantitaṁ mama;\
+> Tisso vijjā anuppattā,\
+> kataṁ buddhassa sāsanan”ti.
 
 Aṅgulimālasuttaṁ niṭṭhitaṁ chaṭṭhaṁ.

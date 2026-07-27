@@ -16,56 +16,57 @@ Tatiyampi kho so bhikkhu bhagavantaṁ etadavoca: “āgametu, bhante. Bhagavā 
 
 5\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya kosambiṁ piṇḍāya pāvisi. Kosambiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto senāsanaṁ saṁsāmetvā pattacīvaramādāya ṭhitakova imā gāthā abhāsi:
 
-6\. “Puthusaddo samajano,\
-na bālo koci maññatha;\
-Saṅghasmiṁ bhijjamānasmiṁ,\
-nāññaṁ bhiyyo amaññaruṁ.
+6\.
+> “Puthusaddo samajano,\
+> na bālo koci maññatha;\
+> Saṅghasmiṁ bhijjamānasmiṁ,\
+> nāññaṁ bhiyyo amaññaruṁ.
 
-Parimuṭṭhā paṇḍitābhāsā,\
-vācāgocarabhāṇino;\
-Yāvicchanti mukhāyāmaṁ,\
-yena nītā na taṁ vidū.
+> Parimuṭṭhā paṇḍitābhāsā,\
+> vācāgocarabhāṇino;\
+> Yāvicchanti mukhāyāmaṁ,\
+> yena nītā na taṁ vidū.
 
-Akkocchi maṁ avadhi maṁ,\
-ajini maṁ ahāsi me;\
-Ye ca taṁ upanayhanti,\
-veraṁ tesaṁ na sammati.
+> Akkocchi maṁ avadhi maṁ,\
+> ajini maṁ ahāsi me;\
+> Ye ca taṁ upanayhanti,\
+> veraṁ tesaṁ na sammati.
 
-Akkocchi maṁ avadhi maṁ,\
-ajini maṁ ahāsi me;\
-Ye ca taṁ nupanayhanti,\
-veraṁ tesūpasammati.
+> Akkocchi maṁ avadhi maṁ,\
+> ajini maṁ ahāsi me;\
+> Ye ca taṁ nupanayhanti,\
+> veraṁ tesūpasammati.
 
-Na hi verena verāni,\
-sammantīdha kudācanaṁ;\
-Averena ca sammanti,\
-esa dhammo sanantano.
+> Na hi verena verāni,\
+> sammantīdha kudācanaṁ;\
+> Averena ca sammanti,\
+> esa dhammo sanantano.
 
-Pare ca na vijānanti,\
-mayamettha yamāmase;\
-Ye ca tattha vijānanti,\
-tato sammanti medhagā.
+> Pare ca na vijānanti,\
+> mayamettha yamāmase;\
+> Ye ca tattha vijānanti,\
+> tato sammanti medhagā.
 
-Aṭṭhicchinnā pāṇaharā,\
-gavassadhanahārino;\
-Raṭṭhaṁ vilumpamānānaṁ,\
-tesampi hoti saṅgati;\
-Kasmā tumhākaṁ no siyā.
+> Aṭṭhicchinnā pāṇaharā,\
+> gavassadhanahārino;\
+> Raṭṭhaṁ vilumpamānānaṁ,\
+> tesampi hoti saṅgati;\
+> Kasmā tumhākaṁ no siyā.
 
-Sace labhetha nipakaṁ sahāyaṁ,\
-Saddhiṁ caraṁ sādhuvihāri dhīraṁ;\
-Abhibhuyya sabbāni parissayāni,\
-Careyya tenattamano satīmā.
+> Sace labhetha nipakaṁ sahāyaṁ,\
+> Saddhiṁ caraṁ sādhuvihāri dhīraṁ;\
+> Abhibhuyya sabbāni parissayāni,\
+> Careyya tenattamano satīmā.
 
-No ce labhetha nipakaṁ sahāyaṁ,\
-Saddhiṁ caraṁ sādhuvihāri dhīraṁ;\
-Rājāva raṭṭhaṁ vijitaṁ pahāya,\
-Eko care mātaṅgaraññeva nāgo.
+> No ce labhetha nipakaṁ sahāyaṁ,\
+> Saddhiṁ caraṁ sādhuvihāri dhīraṁ;\
+> Rājāva raṭṭhaṁ vijitaṁ pahāya,\
+> Eko care mātaṅgaraññeva nāgo.
 
-Ekassa caritaṁ seyyo,\
-Natthi bāle sahāyatā;\
-Eko care na ca pāpāni kayirā,\
-Appossukko mātaṅgaraññeva nāgo”ti.
+> Ekassa caritaṁ seyyo,\
+> Natthi bāle sahāyatā;\
+> Eko care na ca pāpāni kayirā,\
+> Appossukko mātaṅgaraññeva nāgo”ti.
 
 7\. Atha kho bhagavā ṭhitakova imā gāthā bhāsitvā yena bālakaloṇakāragāmo tenupasaṅkami. Tena kho pana samayena āyasmā bhagu bālakaloṇakāragāme viharati. Addasā kho āyasmā bhagu bhagavantaṁ dūratova āgacchantaṁ. Disvāna āsanaṁ paññapesi udakañca pādānaṁ dhovanaṁ. Nisīdi bhagavā paññatte āsane. Nisajja pāde pakkhālesi. Āyasmāpi kho bhagu bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.
 

@@ -35,7 +35,7 @@
           <div class="image-box">
             <picture v-if="currentImage">
               <source
-                :srcset="`${currentImage400} 400w, ${currentImage} 700w`"
+                :srcset="`${currentImage400} 400w, ${currentImage700} 700w`"
                 sizes="(max-width: 960px) 100vw, 345px"
                 type="image/webp"
               />
@@ -92,15 +92,17 @@ const currentIndex = ref(0)
 const currentImage = ref('')
 const currentQuote = computed(() => (quotes && quotes.length > 0) ? quotes[currentIndex.value] : { quote: 'Đang tải...' })
 
-const currentFallbackImage = computed(() => {
-  if (!currentImage.value) return ''
-  return currentImage.value.replace(/\.webp$/, '.png')
-})
+const currentFallbackImage = computed(() => currentImage.value)
 
-// Responsive image variant: /quote/foo.webp → /quote/foo-400w.webp
+// Responsive image variants: /quote/foo.webp → /quote/foo-400w.webp, /quote/foo-700w.webp
 const currentImage400 = computed(() => {
   if (!currentImage.value) return ''
   return currentImage.value.replace(/\.webp$/, '-400w.webp')
+})
+
+const currentImage700 = computed(() => {
+  if (!currentImage.value) return ''
+  return currentImage.value.replace(/\.webp$/, '-700w.webp')
 })
 
 // /covers/kinhtruongbo.webp → /covers/kinhtruongbo-300w.webp

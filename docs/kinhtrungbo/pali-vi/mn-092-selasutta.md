@@ -50,107 +50,115 @@ Atha kho bhagavato etadahosi: “passati kho me ayaṁ selo brāhmaṇo dvatti�
 
 Atha kho selo brāhmaṇo bhagavantaṁ sammukhā sāruppāhi gāthāhi abhitthavi:
 
-16\. “Paripuṇṇakāyo suruci,\
-Sujāto cārudassano;\
-Suvaṇṇavaṇṇosi bhagavā,\
-Susukkadāṭhosi vīriyavā.
+16\.
+> “Paripuṇṇakāyo suruci,\
+> Sujāto cārudassano;\
+> Suvaṇṇavaṇṇosi bhagavā,\
+> Susukkadāṭhosi vīriyavā.
 
-Narassa hi sujātassa,\
-ye bhavanti viyañjanā;\
-Sabbe te tava kāyasmiṁ,\
-mahāpurisalakkhaṇā.
+> Narassa hi sujātassa,\
+> ye bhavanti viyañjanā;\
+> Sabbe te tava kāyasmiṁ,\
+> mahāpurisalakkhaṇā.
 
-Pasannanetto sumukho,\
-brahā uju patāpavā;\
-Majjhe samaṇasaṅghassa,\
-ādiccova virocasi.
+> Pasannanetto sumukho,\
+> brahā uju patāpavā;\
+> Majjhe samaṇasaṅghassa,\
+> ādiccova virocasi.
 
-Kalyāṇadassano bhikkhu,\
-kañcanasannibhattaco;\
-Kiṁ te samaṇabhāvena,\
-evaṁ uttamavaṇṇino.
+> Kalyāṇadassano bhikkhu,\
+> kañcanasannibhattaco;\
+> Kiṁ te samaṇabhāvena,\
+> evaṁ uttamavaṇṇino.
 
-Rājā arahasi bhavituṁ,\
-cakkavattī rathesabho;\
-Cāturanto vijitāvī,\
-jambusaṇḍassa issaro.
+> Rājā arahasi bhavituṁ,\
+> cakkavattī rathesabho;\
+> Cāturanto vijitāvī,\
+> jambusaṇḍassa issaro.
 
-Khattiyā bhogirājāno,\
-anuyantā bhavantu te;\
-Rājābhirājā manujindo,\
-rajjaṁ kārehi gotama”.
+> Khattiyā bhogirājāno,\
+> anuyantā bhavantu te;\
+> Rājābhirājā manujindo,\
+> rajjaṁ kārehi gotama”.
 
-17\. “Rājāhamasmi selāti,\
-dhammarājā anuttaro;\
-Dhammena cakkaṁ vattemi,\
-cakkaṁ appaṭivattiyaṁ”.
+17\.
+> “Rājāhamasmi selāti,\
+> dhammarājā anuttaro;\
+> Dhammena cakkaṁ vattemi,\
+> cakkaṁ appaṭivattiyaṁ”.
 
-18\. “Sambuddho paṭijānāsi,\
-dhammarājā anuttaro;\
-‘Dhammena cakkaṁ vattemi’,\
-iti bhāsasi gotama.
+18\.
+> “Sambuddho paṭijānāsi,\
+> dhammarājā anuttaro;\
+> ‘Dhammena cakkaṁ vattemi’,\
+> iti bhāsasi gotama.
 
-Ko nu senāpati bhoto,\
-sāvako satthuranvayo;\
-Ko tetamanuvatteti,\
-dhammacakkaṁ pavattitaṁ”.
+> Ko nu senāpati bhoto,\
+> sāvako satthuranvayo;\
+> Ko tetamanuvatteti,\
+> dhammacakkaṁ pavattitaṁ”.
 
-19\. “Mayā pavattitaṁ cakkaṁ,\
-(selāti bhagavā)\
-Dhammacakkaṁ anuttaraṁ;\
-Sāriputto anuvatteti,\
-Anujāto tathāgataṁ.
+19\.
+> “Mayā pavattitaṁ cakkaṁ,\
+> (selāti bhagavā)\
+> Dhammacakkaṁ anuttaraṁ;\
+> Sāriputto anuvatteti,\
+> Anujāto tathāgataṁ.
 
-Abhiññeyyaṁ abhiññātaṁ,\
-bhāvetabbañca bhāvitaṁ;\
-Pahātabbaṁ pahīnaṁ me,\
-tasmā buddhosmi brāhmaṇa.
+> Abhiññeyyaṁ abhiññātaṁ,\
+> bhāvetabbañca bhāvitaṁ;\
+> Pahātabbaṁ pahīnaṁ me,\
+> tasmā buddhosmi brāhmaṇa.
 
-Vinayassu mayi kaṅkhaṁ,\
-adhimuccassu brāhmaṇa;\
-Dullabhaṁ dassanaṁ hoti,\
-sambuddhānaṁ abhiṇhaso.
+> Vinayassu mayi kaṅkhaṁ,\
+> adhimuccassu brāhmaṇa;\
+> Dullabhaṁ dassanaṁ hoti,\
+> sambuddhānaṁ abhiṇhaso.
 
-Yesaṁ ve dullabho loke,\
-pātubhāvo abhiṇhaso;\
-Sohaṁ brāhmaṇa sambuddho,\
-sallakatto anuttaro.
+> Yesaṁ ve dullabho loke,\
+> pātubhāvo abhiṇhaso;\
+> Sohaṁ brāhmaṇa sambuddho,\
+> sallakatto anuttaro.
 
-Brahmabhūto atitulo,\
-mārasenappamaddano;\
-Sabbāmitte vasī katvā,\
-modāmi akutobhayo”.
+> Brahmabhūto atitulo,\
+> mārasenappamaddano;\
+> Sabbāmitte vasī katvā,\
+> modāmi akutobhayo”.
 
-20\. “Imaṁ bhonto nisāmetha,\
-yathā bhāsati cakkhumā;\
-Sallakatto mahāvīro,\
-sīhova nadatī vane.
+20\.
+> “Imaṁ bhonto nisāmetha,\
+> yathā bhāsati cakkhumā;\
+> Sallakatto mahāvīro,\
+> sīhova nadatī vane.
 
-Brahmabhūtaṁ atitulaṁ,\
-mārasenappamaddanaṁ;\
-Ko disvā nappasīdeyya,\
-api kaṇhābhijātiko.
+> Brahmabhūtaṁ atitulaṁ,\
+> mārasenappamaddanaṁ;\
+> Ko disvā nappasīdeyya,\
+> api kaṇhābhijātiko.
 
-Yo maṁ icchati anvetu,\
-yo vā nicchati gacchatu;\
-Idhāhaṁ pabbajissāmi,\
-varapaññassa santike”.
+> Yo maṁ icchati anvetu,\
+> yo vā nicchati gacchatu;\
+> Idhāhaṁ pabbajissāmi,\
+> varapaññassa santike”.
 
-21\. “Etañce ruccati bhoto,\
-sammāsambuddhasāsanaṁ;\
-Mayampi pabbajissāma,\
-varapaññassa santike”.
+21\.
+> “Etañce ruccati bhoto,\
+> sammāsambuddhasāsanaṁ;\
+> Mayampi pabbajissāma,\
+> varapaññassa santike”.
 
-22\. Brāhmaṇā tisatā ime,\
-yācanti pañjalīkatā;\
-“Brahmacariyaṁ carissāma,\
-bhagavā tava santike”.
+22\.
+> Brāhmaṇā tisatā ime,\
+> yācanti pañjalīkatā;\
+> “Brahmacariyaṁ carissāma,\
+> bhagavā tava santike”.
 
-23\. “Svākkhātaṁ brahmacariyaṁ,\
-(selāti bhagavā)\
-Sandiṭṭhikamakālikaṁ;\
-Yattha amoghā pabbajjā,\
-Appamattassa sikkhato”ti.
+23\.
+> “Svākkhātaṁ brahmacariyaṁ,\
+> (selāti bhagavā)\
+> Sandiṭṭhikamakālikaṁ;\
+> Yattha amoghā pabbajjā,\
+> Appamattassa sikkhato”ti.
 
 24\. Alattha kho selo brāhmaṇo sapariso bhagavato santike pabbajjaṁ, alattha upasampadaṁ.
 
@@ -158,15 +166,16 @@ Appamattassa sikkhato”ti.
 
 Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena keṇiyassa jaṭilassa assamo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. Atha kho keṇiyo jaṭilo buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi, sampavāresi. Atha kho keṇiyo jaṭilo bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho keṇiyaṁ jaṭilaṁ bhagavā imāhi gāthāhi anumodi:
 
-26\. “Aggihuttamukhā yaññā,\
-sāvittī chandaso mukhaṁ;\
-Rājā mukhaṁ manussānaṁ,\
-nadīnaṁ sāgaro mukhaṁ.
+26\.
+> “Aggihuttamukhā yaññā,\
+> sāvittī chandaso mukhaṁ;\
+> Rājā mukhaṁ manussānaṁ,\
+> nadīnaṁ sāgaro mukhaṁ.
 
-Nakkhattānaṁ mukhaṁ cando,\
-ādicco tapataṁ mukhaṁ;\
-Puññaṁ ākaṅkhamānānaṁ,\
-saṅgho ve yajataṁ mukhan”ti.
+> Nakkhattānaṁ mukhaṁ cando,\
+> ādicco tapataṁ mukhaṁ;\
+> Puññaṁ ākaṅkhamānānaṁ,\
+> saṅgho ve yajataṁ mukhan”ti.
 
 Atha kho bhagavā keṇiyaṁ jaṭilaṁ imāhi gāthāhi anumoditvā uṭṭhāyāsanā pakkāmi.
 
@@ -176,24 +185,24 @@ Atha kho bhagavā keṇiyaṁ jaṭilaṁ imāhi gāthāhi anumoditvā uṭṭh�
 
 28\. Atha kho āyasmā selo sapariso yena bhagavā tenupasaṅkami; upasaṅkamitvā ekaṁsaṁ cīvaraṁ katvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ gāthāhi ajjhabhāsi:
 
-“Yaṁ taṁ saraṇamāgamma,\
-ito aṭṭhami cakkhumā;\
-Sattarattena bhagavā,\
-dantamha tava sāsane.
+> “Yaṁ taṁ saraṇamāgamma,\
+> ito aṭṭhami cakkhumā;\
+> Sattarattena bhagavā,\
+> dantamha tava sāsane.
 
-Tuvaṁ buddho tuvaṁ satthā,\
-tuvaṁ mārābhibhū muni;\
-Tuvaṁ anusaye chetvā,\
-tiṇṇo tāresimaṁ pajaṁ.
+> Tuvaṁ buddho tuvaṁ satthā,\
+> tuvaṁ mārābhibhū muni;\
+> Tuvaṁ anusaye chetvā,\
+> tiṇṇo tāresimaṁ pajaṁ.
 
-Upadhī te samatikkantā,\
-āsavā te padālitā;\
-Sīhova anupādāno,\
-pahīnabhayabheravo.
+> Upadhī te samatikkantā,\
+> āsavā te padālitā;\
+> Sīhova anupādāno,\
+> pahīnabhayabheravo.
 
-Bhikkhavo tisatā ime,\
-tiṭṭhanti pañjalīkatā;\
-Pāde vīra pasārehi,\
-nāgā vandantu satthuno”ti.
+> Bhikkhavo tisatā ime,\
+> tiṭṭhanti pañjalīkatā;\
+> Pāde vīra pasārehi,\
+> nāgā vandantu satthuno”ti.
 
 Selasuttaṁ niṭṭhitaṁ dutiyaṁ.

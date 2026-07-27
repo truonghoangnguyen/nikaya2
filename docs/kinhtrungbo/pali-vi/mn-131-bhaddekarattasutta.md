@@ -8,25 +8,26 @@
 
 “Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
-3\. “Atītaṁ nānvāgameyya,\
-nappaṭikaṅkhe anāgataṁ;\
-Yadatītaṁ pahīnaṁ taṁ,\
-appattañca anāgataṁ.
+3\.
+> “Atītaṁ nānvāgameyya,\
+> nappaṭikaṅkhe anāgataṁ;\
+> Yadatītaṁ pahīnaṁ taṁ,\
+> appattañca anāgataṁ.
 
-Paccuppannañca yo dhammaṁ,\
-Tattha tattha vipassati;\
-Asaṁhīraṁ asaṅkuppaṁ,\
-Taṁ vidvā manubrūhaye.
+> Paccuppannañca yo dhammaṁ,\
+> Tattha tattha vipassati;\
+> Asaṁhīraṁ asaṅkuppaṁ,\
+> Taṁ vidvā manubrūhaye.
 
-Ajjeva kiccamātappaṁ,\
-ko jaññā maraṇaṁ suve;\
-Na hi no saṅgaraṁ tena,\
-mahāsenena maccunā.
+> Ajjeva kiccamātappaṁ,\
+> ko jaññā maraṇaṁ suve;\
+> Na hi no saṅgaraṁ tena,\
+> mahāsenena maccunā.
 
-Evaṁvihāriṁ ātāpiṁ,\
-ahorattamatanditaṁ;\
-Taṁ ve bhaddekarattoti,\
-santo ācikkhate muni.
+> Evaṁvihāriṁ ātāpiṁ,\
+> ahorattamatanditaṁ;\
+> Taṁ ve bhaddekarattoti,\
+> santo ācikkhate muni.
 
 4\. Kathañca, bhikkhave, atītaṁ anvāgameti? ‘Evaṁrūpo ahosiṁ atītamaddhānan’ti tattha nandiṁ samanvāneti, ‘evaṁvedano ahosiṁ atītamaddhānan’ti tattha nandiṁ samanvāneti, ‘evaṁsañño ahosiṁ atītamaddhānan’ti tattha nandiṁ samanvāneti, ‘evaṁsaṅkhāro ahosiṁ atītamaddhānan’ti tattha nandiṁ samanvāneti, ‘evaṁviññāṇo ahosiṁ atītamaddhānan’ti tattha nandiṁ samanvāneti—evaṁ kho, bhikkhave, atītaṁ anvāgameti.
 
@@ -40,25 +41,26 @@ santo ācikkhate muni.
 
 9\. Kathañca, bhikkhave, paccuppannesu dhammesu na saṁhīrati? Idha, bhikkhave, sutavā ariyasāvako ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto na rūpaṁ attato samanupassati, na rūpavantaṁ vā attānaṁ, na attani vā rūpaṁ, na rūpasmiṁ vā attānaṁ; na vedanaṁ … na saññaṁ … na saṅkhāre … na viññāṇaṁ attato samanupassati, na viññāṇavantaṁ vā attānaṁ, na attani vā viññāṇaṁ, na viññāṇasmiṁ vā attānaṁ—evaṁ kho, bhikkhave, paccuppannesu dhammesu na saṁhīrati.
 
-10\. Atītaṁ nānvāgameyya,\
-nappaṭikaṅkhe anāgataṁ;\
-Yadatītaṁ pahīnaṁ taṁ,\
-appattañca anāgataṁ.
+10\.
+> Atītaṁ nānvāgameyya,\
+> nappaṭikaṅkhe anāgataṁ;\
+> Yadatītaṁ pahīnaṁ taṁ,\
+> appattañca anāgataṁ.
 
-Paccuppannañca yo dhammaṁ,\
-tattha tattha vipassati;\
-Asaṁhīraṁ asaṅkuppaṁ,\
-taṁ vidvā manubrūhaye.
+> Paccuppannañca yo dhammaṁ,\
+> tattha tattha vipassati;\
+> Asaṁhīraṁ asaṅkuppaṁ,\
+> taṁ vidvā manubrūhaye.
 
-Ajjeva kiccamātappaṁ,\
-ko jaññā maraṇaṁ suve;\
-Na hi no saṅgaraṁ tena,\
-mahāsenena maccunā.
+> Ajjeva kiccamātappaṁ,\
+> ko jaññā maraṇaṁ suve;\
+> Na hi no saṅgaraṁ tena,\
+> mahāsenena maccunā.
 
-Evaṁvihāriṁ ātāpiṁ,\
-ahorattamatanditaṁ;\
-Taṁ ve bhaddekarattoti,\
-santo ācikkhate munīti.
+> Evaṁvihāriṁ ātāpiṁ,\
+> ahorattamatanditaṁ;\
+> Taṁ ve bhaddekarattoti,\
+> santo ācikkhate munīti.
 
 11\. ‘Bhaddekarattassa vo, bhikkhave, uddesañca vibhaṅgañca desessāmī’ti—iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttan”ti.
 

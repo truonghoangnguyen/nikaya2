@@ -106,35 +106,36 @@ Atha kho āyasmato raṭṭhapālassa mātā yenāyasmato raṭṭhapālassa pit
 
 Atha kho āyasmā raṭṭhapālo bhuttāvī onītapattapāṇī ṭhitakova imā gāthā abhāsi:
 
-25\. “Passa cittīkataṁ bimbaṁ,\
-arukāyaṁ samussitaṁ;\
-Āturaṁ bahusaṅkappaṁ,\
-yassa natthi dhuvaṁ ṭhiti.
+25\.
+> “Passa cittīkataṁ bimbaṁ,\
+> arukāyaṁ samussitaṁ;\
+> Āturaṁ bahusaṅkappaṁ,\
+> yassa natthi dhuvaṁ ṭhiti.
 
-Passa cittīkataṁ rūpaṁ,\
-maṇinā kuṇḍalena ca;\
-Aṭṭhi tacena onaddhaṁ,\
-saha vatthebhi sobhati.
+> Passa cittīkataṁ rūpaṁ,\
+> maṇinā kuṇḍalena ca;\
+> Aṭṭhi tacena onaddhaṁ,\
+> saha vatthebhi sobhati.
 
-Alattakakatā pādā,\
-mukhaṁ cuṇṇakamakkhitaṁ;\
-Alaṁ bālassa mohāya,\
-no ca pāragavesino.
+> Alattakakatā pādā,\
+> mukhaṁ cuṇṇakamakkhitaṁ;\
+> Alaṁ bālassa mohāya,\
+> no ca pāragavesino.
 
-Aṭṭhāpadakatā kesā,\
-nettā añjanamakkhitā;\
-Alaṁ bālassa mohāya,\
-no ca pāragavesino.
+> Aṭṭhāpadakatā kesā,\
+> nettā añjanamakkhitā;\
+> Alaṁ bālassa mohāya,\
+> no ca pāragavesino.
 
-Añjanīva navā cittā,\
-pūtikāyo alaṅkato;\
-Alaṁ bālassa mohāya,\
-no ca pāragavesino.
+> Añjanīva navā cittā,\
+> pūtikāyo alaṅkato;\
+> Alaṁ bālassa mohāya,\
+> no ca pāragavesino.
 
-Odahi migavo pāsaṁ,\
-nāsadā vākaraṁ migo;\
-Bhutvā nivāpaṁ gacchāma,\
-kandante migabandhake”ti.
+> Odahi migavo pāsaṁ,\
+> nāsadā vākaraṁ migo;\
+> Bhutvā nivāpaṁ gacchāma,\
+> kandante migabandhake”ti.
 
 26\. Atha kho āyasmā raṭṭhapālo ṭhitakova imā gāthā bhāsitvā yena rañño korabyassa migacīraṁ tenupasaṅkami; upasaṅkamitvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi.
 
@@ -236,69 +237,69 @@ Katame cattāro?
 
 42\. Idamavoca āyasmā raṭṭhapālo. Idaṁ vatvā athāparaṁ etadavoca:
 
-“Passāmi loke sadhane manusse,\
-Laddhāna vittaṁ na dadanti mohā;\
-Luddhā dhanaṁ sannicayaṁ karonti,\
-Bhiyyova kāme abhipatthayanti.
+> “Passāmi loke sadhane manusse,\
+> Laddhāna vittaṁ na dadanti mohā;\
+> Luddhā dhanaṁ sannicayaṁ karonti,\
+> Bhiyyova kāme abhipatthayanti.
 
-Rājā pasayhā pathaviṁ vijitvā,\
-Sasāgarantaṁ mahimāvasanto;\
-Oraṁ samuddassa atittarūpo,\
-Pāraṁ samuddassapi patthayetha.
+> Rājā pasayhā pathaviṁ vijitvā,\
+> Sasāgarantaṁ mahimāvasanto;\
+> Oraṁ samuddassa atittarūpo,\
+> Pāraṁ samuddassapi patthayetha.
 
-Rājā ca aññe ca bahū manussā,\
-Avītataṇhā maraṇaṁ upenti;\
-Ūnāva hutvāna jahanti dehaṁ,\
-Kāmehi lokamhi na hatthi titti.
+> Rājā ca aññe ca bahū manussā,\
+> Avītataṇhā maraṇaṁ upenti;\
+> Ūnāva hutvāna jahanti dehaṁ,\
+> Kāmehi lokamhi na hatthi titti.
 
-Kandanti naṁ ñātī pakiriya kese,\
-Ahovatā no amarāti cāhu;\
-Vatthena naṁ pārutaṁ nīharitvā,\
-Citaṁ samādāya tatoḍahanti.
+> Kandanti naṁ ñātī pakiriya kese,\
+> Ahovatā no amarāti cāhu;\
+> Vatthena naṁ pārutaṁ nīharitvā,\
+> Citaṁ samādāya tatoḍahanti.
 
-So ḍayhati sūlehi tujjamāno,\
-Ekena vatthena pahāya bhoge;\
-Na mīyamānassa bhavanti tāṇā,\
-Ñātīdha mittā atha vā sahāyā.
+> So ḍayhati sūlehi tujjamāno,\
+> Ekena vatthena pahāya bhoge;\
+> Na mīyamānassa bhavanti tāṇā,\
+> Ñātīdha mittā atha vā sahāyā.
 
-Dāyādakā tassa dhanaṁ haranti,\
-Satto pana gacchati yena kammaṁ;\
-Na mīyamānaṁ dhanamanveti kiñci,\
-Puttā ca dārā ca dhanañca raṭṭhaṁ.
+> Dāyādakā tassa dhanaṁ haranti,\
+> Satto pana gacchati yena kammaṁ;\
+> Na mīyamānaṁ dhanamanveti kiñci,\
+> Puttā ca dārā ca dhanañca raṭṭhaṁ.
 
-Na dīghamāyuṁ labhate dhanena,\
-Na cāpi vittena jaraṁ vihanti;\
-Appaṁ hidaṁ jīvitamāhu dhīrā,\
-Asassataṁ vippariṇāmadhammaṁ.
+> Na dīghamāyuṁ labhate dhanena,\
+> Na cāpi vittena jaraṁ vihanti;\
+> Appaṁ hidaṁ jīvitamāhu dhīrā,\
+> Asassataṁ vippariṇāmadhammaṁ.
 
-Aḍḍhā daliddā ca phusanti phassaṁ,\
-Bālo ca dhīro ca tatheva phuṭṭho;\
-Bālo ca bālyā vadhitova seti,\
-Dhīro ca na vedhati phassaphuṭṭho.
+> Aḍḍhā daliddā ca phusanti phassaṁ,\
+> Bālo ca dhīro ca tatheva phuṭṭho;\
+> Bālo ca bālyā vadhitova seti,\
+> Dhīro ca na vedhati phassaphuṭṭho.
 
-Tasmā hi paññāva dhanena seyyo,\
-Yāya vosānamidhādhigacchati;\
-Abyositattā hi bhavābhavesu,\
-Pāpāni kammāni karonti mohā.
+> Tasmā hi paññāva dhanena seyyo,\
+> Yāya vosānamidhādhigacchati;\
+> Abyositattā hi bhavābhavesu,\
+> Pāpāni kammāni karonti mohā.
 
-Upeti gabbhañca parañca lokaṁ,\
-Saṁsāramāpajja paramparāya;\
-Tassappapañño abhisaddahanto,\
-Upeti gabbhañca parañca lokaṁ.
+> Upeti gabbhañca parañca lokaṁ,\
+> Saṁsāramāpajja paramparāya;\
+> Tassappapañño abhisaddahanto,\
+> Upeti gabbhañca parañca lokaṁ.
 
-Coro yathā sandhimukhe gahito,\
-Sakammunā haññati pāpadhammo;\
-Evaṁ pajā pecca paramhi loke,\
-Sakammunā haññati pāpadhammo.
+> Coro yathā sandhimukhe gahito,\
+> Sakammunā haññati pāpadhammo;\
+> Evaṁ pajā pecca paramhi loke,\
+> Sakammunā haññati pāpadhammo.
 
-Kāmāhi citrā madhurā manoramā,\
-Virūparūpena mathenti cittaṁ;\
-Ādīnavaṁ kāmaguṇesu disvā,\
-Tasmā ahaṁ pabbajitomhi rāja.
+> Kāmāhi citrā madhurā manoramā,\
+> Virūparūpena mathenti cittaṁ;\
+> Ādīnavaṁ kāmaguṇesu disvā,\
+> Tasmā ahaṁ pabbajitomhi rāja.
 
-Dumapphalāneva patanti māṇavā,\
-Daharā ca vuḍḍhā ca sarīrabhedā;\
-Etampi disvā pabbajitomhi rāja,\
-Apaṇṇakaṁ sāmaññameva seyyo”ti.
+> Dumapphalāneva patanti māṇavā,\
+> Daharā ca vuḍḍhā ca sarīrabhedā;\
+> Etampi disvā pabbajitomhi rāja,\
+> Apaṇṇakaṁ sāmaññameva seyyo”ti.
 
 Raṭṭhapālasuttaṁ niṭṭhitaṁ dutiyaṁ.
