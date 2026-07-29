@@ -1,3 +1,8 @@
+---
+tags:
+ - (các bước tu tập I)
+---
+
 # MN 30. TIỂU KINH DỤ LÕI CÂY
 
 ***(Cùlasàropama Sutta)***

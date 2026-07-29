@@ -1,46 +1,54 @@
-# MN 34. Cūḷagopālakasutta
+# MN 34. KINH NGẮN NGƯỜI CHĂN BÒ
+*(Cūḷagopālakasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-034){class="note-link"}
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vajjīsu viharati ukkacelāyaṁ gaṅgāya nadiyā tīre. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Tôi đã nghe như vầy: Một thời Thế Tôn trú ở Vajjī, tại Ukkacelā, trên bờ sông Gaṅgā. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo".
 
-“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
+"Bạch Thế Tôn", các tỳ kheo ấy vâng đáp Thế Tôn. Thế Tôn nói điều này:
 
-2\. “Bhūtapubbaṁ, bhikkhave, māgadhako gopālako duppaññajātiko, vassānaṁ pacchime māse saradasamaye, asamavekkhitvā gaṅgāya nadiyā orimaṁ tīraṁ, asamavekkhitvā pārimaṁ tīraṁ, atittheneva gāvo patāresi uttaraṁ tīraṁ suvidehānaṁ.
+<!--pg-->
+2\. "Thuở xưa, này các tỳ kheo, có một người chăn bò xứ Māgadha, bản tính ngu ngốc, vào tháng cuối của mùa mưa, lúc tiết thu, đã không xem xét bờ bên này của sông Gaṅgā, không xem xét bờ bên kia, lùa đàn bò qua bờ phía bắc của dân Suvideha ở nơi không thể lội qua.
 
-3\. Atha kho, bhikkhave, gāvo majjhegaṅgāya nadiyā sote āmaṇḍaliyaṁ karitvā tattheva anayabyasanaṁ āpajjiṁsu. Taṁ kissa hetu? Tathā hi so, bhikkhave, māgadhako gopālako duppaññajātiko, vassānaṁ pacchime māse saradasamaye, asamavekkhitvā gaṅgāya nadiyā orimaṁ tīraṁ, asamavekkhitvā pārimaṁ tīraṁ, atittheneva gāvo patāresi uttaraṁ tīraṁ suvidehānaṁ. Evameva kho, bhikkhave, ye hi keci samaṇā vā brāhmaṇā vā akusalā imassa lokassa akusalā parassa lokassa, akusalā māradheyyassa akusalā amāradheyyassa, akusalā maccudheyyassa akusalā amaccudheyyassa, tesaṁ ye sotabbaṁ saddahātabbaṁ maññissanti, tesaṁ taṁ bhavissati dīgharattaṁ ahitāya dukkhāya.
+3\. Rồi thì, này các tỳ kheo, đàn bò tụm vòng quanh ở giữa dòng sông Gaṅgā và gặp phải tai họa diệt vong ngay tại đó. Vì nguyên nhân nào? Đúng là như vậy, này các tỳ kheo, người chăn bò xứ Māgadha ấy, bản tính ngu ngốc, vào tháng cuối của mùa mưa, lúc tiết thu, đã không xem xét bờ bên này của sông Gaṅgā, không xem xét bờ bên kia, lùa đàn bò qua bờ phía bắc của dân Suvideha ở nơi không thể lội qua. 
 
-4\. Bhūtapubbaṁ, bhikkhave, māgadhako gopālako sappaññajātiko, vassānaṁ pacchime māse saradasamaye, samavekkhitvā gaṅgāya nadiyā orimaṁ tīraṁ, samavekkhitvā pārimaṁ tīraṁ, tittheneva gāvo patāresi uttaraṁ tīraṁ suvidehānaṁ.
+Cũng vậy, này các tỳ kheo, bất kỳ những sa-môn hay bà-la-môn nào *không hiểu biết về* (bất thiện / akusalā) thế giới này, *không hiểu biết về* thế giới kia, *không hiểu biết về* *cõi của Ma vương* (ma giới / māradheyyassa), *không hiểu biết về* cõi không phải của Ma vương, *không hiểu biết về* *cõi của Thần chết* (tử giới / maccudheyyassa), *không hiểu biết về* cõi không phải của Thần chết; những ai nghĩ rằng cần phải nghe theo, cần phải tin tưởng họ, thì điều đó sẽ dẫn đến sự bất lợi và *đau khổ* (khổ / dukkhāya) lâu dài cho những người ấy.
 
-5\. So paṭhamaṁ patāresi ye te usabhā gopitaro gopariṇāyakā. Te tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamaṁsu. Athāpare patāresi balavagāvo dammagāvo. Tepi tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamaṁsu. Athāpare patāresi vacchatare vacchatariyo. Tepi tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamaṁsu. Athāpare patāresi vacchake kisābalake. Tepi tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamaṁsu. Bhūtapubbaṁ, bhikkhave, vacchako taruṇako tāvadeva jātako mātugoravakena vuyhamāno, sopi tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamāsi. Taṁ kissa hetu? Tathā hi so, bhikkhave, māgadhako gopālako sappaññajātiko, vassānaṁ pacchime māse saradasamaye, samavekkhitvā gaṅgāya nadiyā orimaṁ tīraṁ, samavekkhitvā pārimaṁ tīraṁ, tittheneva gāvo patāresi uttaraṁ tīraṁ suvidehānaṁ.
+<!--pg-->
+4\. Thuở xưa, này các tỳ kheo, có một người chăn bò xứ Māgadha, bản tính thông minh, vào tháng cuối của mùa mưa, lúc tiết thu, đã xem xét bờ bên này của sông Gaṅgā, đã xem xét bờ bên kia, lùa đàn bò qua bờ phía bắc của dân Suvideha ngay tại bến lội.
 
-Evameva kho, bhikkhave, ye hi keci samaṇā vā brāhmaṇā vā kusalā imassa lokassa kusalā parassa lokassa, kusalā māradheyyassa kusalā amāradheyyassa, kusalā maccudheyyassa kusalā amaccudheyyassa, tesaṁ ye sotabbaṁ saddahātabbaṁ maññissanti, tesaṁ taṁ bhavissati dīgharattaṁ hitāya sukhāya.
+5\. Người ấy trước tiên lùa qua những con bò đực, là cha của bầy bò, là những con dẫn đường. Chúng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn. Tiếp theo, người ấy lùa qua những con bò khỏe mạnh, những con bò đã được thuần hóa. Chúng cũng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn. Tiếp theo, người ấy lùa qua những con bò đực tơ, những con bò cái tơ. Chúng cũng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn. Tiếp theo, người ấy lùa qua những con bê ốm yếu. Chúng cũng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn. Thuở xưa, này các tỳ kheo, có một con bê non mới sinh ngay lúc đó, trôi theo tiếng rống của bò mẹ, nó cũng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn. 
 
-6\. Seyyathāpi, bhikkhave, ye te usabhā gopitaro gopariṇāyakā te tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamaṁsu; evameva kho, bhikkhave, ye te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā, te tiriyaṁ mārassa sotaṁ chetvā sotthinā pāraṅgatā.
+Vì nguyên nhân nào? Đúng là như vậy, này các tỳ kheo, người chăn bò xứ Māgadha ấy, bản tính thông minh, vào tháng cuối của mùa mưa, lúc tiết thu, đã xem xét bờ bên này của sông Gaṅgā, đã xem xét bờ bên kia, lùa đàn bò qua bờ phía bắc của dân Suvideha ngay tại bến lội.
 
-7\. Seyyathāpi te, bhikkhave, balavagāvo dammagāvo tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamaṁsu; evameva kho, bhikkhave, ye te bhikkhū pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyino anāvattidhammā tasmā lokā, tepi tiriyaṁ mārassa sotaṁ chetvā sotthinā pāraṁ gamissanti.
+Cũng vậy, này các tỳ kheo, bất kỳ những sa-môn hay bà-la-môn nào *hiểu biết về* (thiện / kusalā) thế giới này, *hiểu biết về* thế giới kia, *hiểu biết về* *cõi của Ma vương*, *hiểu biết về* cõi không phải của Ma vương, *hiểu biết về* *cõi của Thần chết*, *hiểu biết về* cõi không phải của Thần chết; những ai nghĩ rằng cần phải nghe theo, cần phải tin tưởng họ, thì điều đó sẽ dẫn đến lợi ích và *hạnh phúc* (lạc / sukhāya) lâu dài cho những người ấy.
 
-8\. Seyyathāpi te, bhikkhave, vacchatarā vacchatariyo tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamaṁsu; evameva kho, bhikkhave, ye te bhikkhū tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmino sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissanti, tepi tiriyaṁ mārassa sotaṁ chetvā sotthinā pāraṁ gamissanti.
+6\. Giống như, này các tỳ kheo, những con bò đực, là cha của bầy bò, là những con dẫn đường, chúng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn; cũng vậy, này các tỳ kheo, những tỳ kheo là A-la-hán, *người đã sạch nguồn ác* (lậu tận / khīṇāsavā), đã sống trọn vẹn, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích tối cao, đã cắt đứt *xiềng xích của lực tồn tại* (hữu kiết sử / bhavasaṁyojanā), đã được giải thoát nhờ hiểu biết đúng đắn, các vị ấy đã cắt ngang dòng chảy của Ma vương và đã đi sang bờ bên kia một cách an toàn.
 
-9\. Seyyathāpi te, bhikkhave, vacchakā kisābalakā tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamaṁsu; evameva kho, bhikkhave, ye te bhikkhū tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyanā, tepi tiriyaṁ mārassa sotaṁ chetvā sotthinā pāraṁ gamissanti.
+7\. Giống như, này các tỳ kheo, những con bò khỏe mạnh, những con bò đã được thuần hóa, chúng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn; cũng vậy, này các tỳ kheo, những tỳ kheo do sự cạn kiệt của năm *xiềng xích trói buộc cõi dưới* (hạ phần kiết sử / orambhāgiyānaṁ saṁyojanānaṁ), *sinh ra tự nhiên* (hóa sanh / opapātikā), đạt Niết-bàn tại đó, không còn quay trở lại từ thế giới ấy, các vị ấy cũng sẽ cắt ngang dòng chảy của Ma vương và đi sang bờ bên kia một cách an toàn.
 
-10\. Seyyathāpi so, bhikkhave, vacchako taruṇako tāvadeva jātako mātugoravakena vuyhamāno tiriyaṁ gaṅgāya sotaṁ chetvā sotthinā pāraṁ agamāsi; evameva kho, bhikkhave, ye te bhikkhū dhammānusārino saddhānusārino, tepi tiriyaṁ mārassa sotaṁ chetvā sotthinā pāraṁ gamissanti.
+8\. Giống như, này các tỳ kheo, những con bò đực tơ, những con bò cái tơ, chúng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn; cũng vậy, này các tỳ kheo, những tỳ kheo do sự cạn kiệt của ba xiềng xích, làm mỏng nhẹ *đắm nhiễm* (tham / rāga), *ám ảnh khó chịu* (sân / dosa) và *sự u mê* (si / moha), là *người chỉ quay lại một lần* (nhất lai / sakadāgāmino), chỉ đến thế giới này một lần nữa rồi sẽ làm chấm dứt *đau khổ*, các vị ấy cũng sẽ cắt ngang dòng chảy của Ma vương và đi sang bờ bên kia một cách an toàn.
 
-11\. Ahaṁ kho pana, bhikkhave, kusalo imassa lokassa kusalo parassa lokassa, kusalo māradheyyassa kusalo amāradheyyassa, kusalo maccudheyyassa kusalo amaccudheyyassa. Tassa mayhaṁ, bhikkhave, ye sotabbaṁ saddahātabbaṁ maññissanti, tesaṁ taṁ bhavissati dīgharattaṁ hitāya sukhāyā”ti.
+9\. Giống như, này các tỳ kheo, những con bê ốm yếu, chúng cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn; cũng vậy, này các tỳ kheo, những tỳ kheo do sự cạn kiệt của ba xiềng xích, là *người bước vào dòng chảy* (dự lưu / sotāpannā), không thể rơi vào cõi khổ, chắc chắn hướng đến sự Giác ngộ, các vị ấy cũng sẽ cắt ngang dòng chảy của Ma vương và đi sang bờ bên kia một cách an toàn.
 
-12\. Idamavoca bhagavā. Idaṁ vatvā sugato athāparaṁ etadavoca satthā:
+10\. Giống như, này các tỳ kheo, con bê non mới sinh ngay lúc đó, trôi theo tiếng rống của bò mẹ, nó cắt ngang dòng sông Gaṅgā và đi sang bờ bên kia một cách an toàn; cũng vậy, này các tỳ kheo, những tỳ kheo là *người đi theo Quy luật* (tùy pháp hành / dhammānusārino), *người đi theo niềm tin* (tùy tín hành / saddhānusārino), các vị ấy cũng sẽ cắt ngang dòng chảy của Ma vương và đi sang bờ bên kia một cách an toàn.
 
-> “Ayaṁ loko paro loko,\
-> jānatā suppakāsito;\
-> Yañca mārena sampattaṁ,\
-> appattaṁ yañca maccunā.
+11\. Còn Ta, này các tỳ kheo, là người *hiểu biết về* thế giới này, *hiểu biết về* thế giới kia, *hiểu biết về* *cõi của Ma vương*, *hiểu biết về* cõi không phải của Ma vương, *hiểu biết về* *cõi của Thần chết*, *hiểu biết về* cõi không phải của Thần chết. Những ai nghĩ rằng cần phải nghe theo, cần phải tin tưởng Ta, thì điều đó sẽ dẫn đến lợi ích và *hạnh phúc* lâu dài cho những người ấy."
 
-> Sabbaṁ lokaṁ abhiññāya,\
-> sambuddhena pajānatā;\
-> Vivaṭaṁ amatadvāraṁ,\
-> khemaṁ nibbānapattiyā.
+12\. Thế Tôn đã nói điều này. Sau khi nói điều này, Bậc Thiện Thệ, Bậc Đạo Sư lại nói thêm điều này:
 
-> Chinnaṁ pāpimato sotaṁ,\
-> Viddhastaṁ vinaḷīkataṁ;\
-> Pāmojjabahulā hotha,\
-> Khemaṁ pattattha bhikkhavo”ti.
+> "Đời này và đời sau,\
+> Bậc trí khéo hiển bày;\
+> Chỗ Ma vương đi tới,\
+> Chỗ Thần chết không đến.
+>
+> Thấu suốt mọi thế gian,\
+> Bậc Chánh Giác tỏ tường;\
+> Mở tung cửa Bất tử,\
+> An ổn đến Niết-bàn.
+>
+> Dòng Ác ma đã đứt,\
+> Phá hủy và tiêu tan;\
+> Hãy tràn đầy hân hoan,\
+> Đạt an ổn, tỳ kheo."
 
-Cūḷagopālakasuttaṁ niṭṭhitaṁ catutthaṁ.
+Kinh Tiểu Người Chăn Bò thứ tư đã kết thúc.

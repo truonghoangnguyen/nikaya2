@@ -1,3 +1,8 @@
+---
+tags:
+ - đời sống tu hành
+---
+
 # MN 31. TIỂU KINH RỪNG SỪNG BÒ
 
 ***(Cùlagosinga Sutta)***

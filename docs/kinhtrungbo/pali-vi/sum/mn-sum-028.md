@@ -1,10 +1,8 @@
-# MN 28. KINH ĐẠI DẤU CHÂN VOI (Tóm lược)
+# MN 28. KINH DÀI DẤU CHÂN VOI (Tóm lược)
 [Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-028-dai-kinh-du-dau-chan-voi){class="note-link"}
 
 **Bối cảnh:**
 Tại tịnh xá của Cấp Cô Độc, Tôn giả Sāriputta (Xá-lợi-phất) thuyết giảng cho các tỳ kheo. Bằng hình ảnh ẩn dụ về dấu chân voi, ngài hệ thống hóa toàn bộ giáo pháp, phân tích sâu sắc về cấu tạo vật lý của cơ thể để phá vỡ sự bám víu vào cái tôi, đồng thời đưa ra phương pháp thực hành giữ tâm quân bình khi đối mặt với nghịch cảnh.
-
----
 
 **1. Mọi giáo lý đều quy tụ về Bốn Thánh Đế**
 Mọi điều thiện, mọi phương pháp tu tập cuối cùng đều nằm gọn trong Bốn Thánh Đế, giống như mọi dấu chân của các loài vật đều lọt thỏm vào dấu chân voi. Về bản chất, mọi đau khổ của con người đều xuất phát từ việc bám víu vào năm tập hợp tạo nên sự tồn tại (ngũ thủ uẩn).

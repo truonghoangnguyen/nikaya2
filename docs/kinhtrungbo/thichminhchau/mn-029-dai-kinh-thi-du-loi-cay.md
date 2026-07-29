@@ -1,4 +1,4 @@
-# MN 29. ÐẠI KINH THÍ DỤ LÕI CÂY
+# MN 29. KINH DÀI THÍ DỤ LÕI CÂY
 
 ***(Mahasaropama-Sutta)***
 
@@ -9,7 +9,7 @@ Một thời Thế Tôn ở tại Rajagaha (Vương Xá), núi Gijjhakuta (Linh 
 và dạy như sau:
 
 <!--pg-->
--- Ÿ đây, này các Tỷ-kheo, có Thiện nam tử do lòng tin xuất gia, từ bỏ gia đình, sống không gia đình:
+-- Ở đây, này các Tỷ-kheo, có Thiện nam tử do lòng tin xuất gia, từ bỏ gia đình, sống không gia đình:
 "Ta bị chìm đắm trong sanh, già, chết, sầu, bi, khổ, ưu, não, bị chìm đắm trong đau khổ, bị chi phối bởi
 đau khổ. Rất có thể, toàn bộ khổ uẩn này có thể chấm dứt được". Vị ấy xuất gia như vậy, được lợi
 dưỡng, tôn kính, danh vọng. Do lợi dưỡng, tôn kính, danh vọng này, vị ấy hoan hỷ, mãn nguyện. Do lợi
