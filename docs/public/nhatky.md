@@ -54,3 +54,6 @@ Các bài kinh đều xoay quanh những vấn đề sau:
 Cân nhắc nên thêm:
 - chân lý và quy luật : những cái nhìn của Phật về thế giới (MN 26)
 - các bước tu tập: chương trình huấn luyện của Phật, hay các đệ tử trong kinh (đặc biệt là Sāriputta)
+
+### data 2026-07-28
+Không dịch kāya là 'cơ thể' mà giữ nguyên chữ 'thân'; vì chữ kāya có nghĩa là ngoài cơ thể vật lý  còn có hơi thở, cảm giác ... nghĩa là những hoạt động sinh lý khác mà chữ cơ thể không gánh được. MN 38.8 

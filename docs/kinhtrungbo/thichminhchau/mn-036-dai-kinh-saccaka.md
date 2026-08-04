@@ -1,3 +1,11 @@
+---
+tags:
+ - (quá trình tu tập)
+ - đời sống tu hành
+ - tu thân và tu tâm
+ - chú ý, nhớ (niệm)
+ - Cái biết (thức)
+---
 # MN 36. ÐẠI KINH SACCAKA
 
 ***(Mahàsaccaka Sutta)***
