@@ -1,3 +1,9 @@
+---
+tags:
+ - (các bước tu tập I)
+ - chuỗi 12 phụ thuộc (12 nhân duyên)
+ - 4 thức ăn (thực) 
+---
 # MN 38. ÐẠI KINH ÐOẠN TẬN ÁI
 
 ***(Mahàtanhàsankhaya Sutta)***

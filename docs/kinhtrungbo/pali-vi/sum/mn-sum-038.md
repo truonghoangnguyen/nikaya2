@@ -1,35 +1,43 @@
 ### Khảo sát văn bản
-
-- **Bối cảnh kinh**: Đây là bài kinh số 38 thuộc Trung Bộ Kinh (Majjhima Nikāya), mang tên Đại Kinh Đoạn Tận Ái (Mahātaṇhāsaṅkhayasutta). Đức Phật đang ở Sāvatthi (Xá-vệ). Người nghe ban đầu là một nhóm tỳ-kheo, sau đó Đức Phật gọi tỳ-kheo Sāti đến để trực tiếp chất vấn và giảng dạy.
-- **Bối cảnh tranh luận**: Tỳ-kheo Sāti (con của một người đánh cá) khởi lên một tà kiến nghiêm trọng: cho rằng chính cái "Thức" (Viññāṇa) này luân hồi chuyển kiếp, không thay đổi. Đây là sự áp đặt tư tưởng Vệ-đà (Brahmanical) về một linh hồn bất tử (Ātman) vào khái niệm Thức của Phật giáo. Đức Phật phản bác mạnh mẽ, khẳng định Thức chỉ là một hiện tượng phát sinh do điều kiện (duyên sinh), giống như ngọn lửa bốc cháy phụ thuộc vào nhiên liệu.
-- **Dấu hiệu văn bản**: Bài kinh chứa chuỗi 12 nhân duyên (Paṭiccasamuppāda) theo cả chiều thuận (tập khởi) và chiều nghịch (đoạn diệt). Nó cũng chứa một phân tích chi tiết về tâm lý học nhận thức (căn + cảnh -> thức -> xúc -> thọ -> ái) và tiến trình tu tập tuần tự (Giới - Định - Tuệ) rất đặc trưng của lớp kinh Sutta sơ kỳ.
-- **Khung khái niệm có thể bị áp đặt**: Khái niệm *Viññāṇa* rất dễ bị hiểu nhầm thành "linh hồn" (như chính Sāti đã nhầm). Do đó, cần dịch là "'Cái Biết'" để nhấn mạnh tính chức năng nhận thức, thay vì một thực thể tồn tại độc lập. Khái niệm *Gandhabba* trong ngữ cảnh thụ thai thường bị chú giải sau này (Abhidhamma) giải thích thành "thức tái sinh" (paṭisandhi-viññāṇa) hay "thân trung ấm" (antarābhava) của Đại thừa; ở đây dịch sát nghĩa hiện tượng là "thức đi tìm chỗ sinh".
-
----
+- **Bối cảnh kinh**: Bài kinh số 38 thuộc Trung Bộ Kinh (Majjhima Nikāya), được Đức Phật giảng tại tu viện Jetavana, Sāvatthī. Người nghe là tỳ kheo Sāti và sau đó là hội chúng tỳ kheo.
+- **Bối cảnh tranh luận**: Tỳ kheo Sāti (con của một người đánh cá) khởi lên một tà kiến mang đậm tính chất của đạo Bà-la-môn (Upanishad): cho rằng chính *viññāṇa* (thức) là một thực thể cố định, một "linh hồn" đi luân hồi từ kiếp này sang kiếp khác. Đức Phật phản bác mạnh mẽ quan điểm này, khẳng định *viññāṇa* chỉ là một quá trình phát sinh có điều kiện (duyên sinh), phụ thuộc vào các yếu tố khác để tồn tại.
+- **Dấu hiệu văn bản**: Bài kinh chứa các công thức cốt lõi của Phật giáo sơ kỳ: 12 nhân duyên (chiều sinh khởi và chiều hoại diệt), 4 loại thức ăn (āhāra), và lộ trình tu tập tuần tự (giới, thu thúc lục căn, thiền na, đoạn tận ái). 
+- **Khung khái niệm có thể bị áp đặt**: Khái niệm *viññāṇa* rất dễ bị hiểu nhầm thành "linh hồn" hoặc "bản thể" theo lăng kính Đại thừa hoặc ngoại đạo. Bản dịch cần bám sát định nghĩa của Nikāya: *viññāṇa* chỉ là 'Cái Biết' phát sinh khi có sự tương tác giữa giác quan và đối tượng.
 
 ### Bảng thuật ngữ trong bài
 
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
-| viññāṇa | thức | 'Cái Biết' | Chức năng nhận biết của tâm trí, phát sinh do điều kiện. |
+| [TL] viññāṇa | thức | 'Cái Biết' | Trong bài này, Sāti hiểu sai nó là linh hồn cố định. Phật định nghĩa nó là quá trình nhận thức sinh diệt theo điều kiện. |
+| taṇhā | tham ái | mong muốn | |
+| diṭṭhigata | tà kiến | quan điểm sai | |
 | paṭiccasamuppanna | duyên sinh | thứ sinh qua quan hệ Phụ thuộc | |
 | paccaya | duyên | Điều kiện | |
-| dhamma | pháp | Điều / quy luật | |
-| taṇhā | ái | mong muốn | |
-| vedanā | thọ | cảm giác | |
-| phassa | xúc | Xúc | Sự va chạm giữa giác quan, đối tượng và 'cái biết'. |
-| saḷāyatana | lục nhập | sáu Trường giao tiếp | |
-| nāmarūpa | danh-sắc | Danh-sắc | |
-| saṅkhārā | hành | hoạt động | |
-| avijjā | vô minh | không hiểu biết | |
-| upādāna | thủ | sự bám giữ | |
+| [!] sandhāvati saṁsarati | luân chuyển, tuần hoàn | lang thang và trôi lăn | |
+| [!] moghapurisa | kẻ ngu si | kẻ rỗng tuếch | Lời quở trách mạnh mẽ của Phật. |
+| āhāra | thực | thức ăn | Nguồn nuôi dưỡng (cả vật lý lẫn tâm lý). |
+| [BT] kabaḷīkāro āhāro | đoàn thực | thức ăn vật lý | |
+| [!] manosañcetanā | tư niệm thực | ý chí của trí não | |
+| upādāna | thủ | sự Bám giữ | |
 | bhava | hữu | lực tồn tại | |
-| jāti | sinh | sự Tái sinh | |
-| āhārā | thực | nguồn nuôi dưỡng | |
-| [!] gandhabba | hương ấm / thác thai | thức đi tìm chỗ sinh | Yếu tố thứ ba cần thiết cho sự thụ thai (bên cạnh tinh cha và trứng mẹ). |
-| nandī | hỷ | vui thú chạy theo | Sự dính mắc, thích thú vào cảm giác. |
+| jāti | sanh | sự Tái sinh | |
+| jarāmaraṇa | lão tử | già-chết | |
+| dukkha | khổ | đau khổ | |
+| nirodha | diệt | bị chặn / làm ngưng | |
+| samudaya | tập | sự hình thành | |
+| avijjā | vô minh | không hiểu biết | |
+| saṅkhārā | hành | hoạt động | |
+| nāmarūpa | danh sắc | Danh-sắc | |
+| saḷāyatana | lục nhập | sáu Trường giao tiếp | |
+| phassa | xúc | Xúc | |
+| vedanā | thọ | cảm giác | |
+| khandha | uẩn | tập hợp | |
+| nandī | hỷ | vui thú chạy theo | |
+| [!] gabbhassāvakkanti | nhập thai | sự hình thành bào thai | |
+| [!] gandhabbo | hương ấm / thức tái sinh | thực thể đi tái sinh | Đóng vai trò như 'Cái Biết' đi tái sinh trong chuỗi duyên khởi. |
 | kāmaguṇa | ngũ dục | sợi dây trói buộc của bản năng | |
-| anupaṭṭhitakāyasati | thất niệm thân | không tập trung chú ý vào cơ thể | |
-| [!] anurodhavirodha | thuận nghịch / ái ố | sự thuận tình và chống đối | Phản ứng tâm lý thích và ghét. |
-| [TL] vado vedeyyo | người nói, người thọ nhận | người trải nghiệm trực tiếp | Quan điểm của Sāti cho rằng có một "ngã" cố định để trải nghiệm. |
+| sati | chánh niệm | tập trung chú ý | |
+| sampajāna | tỉnh giác | nhận biết rõ ràng | |
+| nīvaraṇa | triền cái | điều làm mờ yếu | |
+| jhāna | thiền | Thiền-na | |
 

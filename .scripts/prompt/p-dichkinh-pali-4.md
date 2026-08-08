@@ -284,7 +284,7 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | Diệt đế(Nirodha-sacca) | Thánh đế về sự chấm dứt đau khổ | |
 | Đạo đế(Magga-sacca) | Thánh đế về con đường đưa đến chấm dứt đau khổ | |
 | Bát chánh đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
-| pháp (dhamma) | Điều; mọi Điều; Giáo pháp; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Giáo pháp' của bậc thánh"; "ý với các pháp->não với các Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
+| pháp (dhamma) | Điều; mọi Điều; Giáo pháp; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Giáo pháp' của bậc thánh"; "ý với các pháp->não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
 | pháp thoại (dhammiyā kathāya) | giảng về Chân lý | |
 | phi pháp (adhammā) | Điều sai | hoặc "những Điều sai"|
 | pháp thiện và bất thiện (Kusalākusalā dhammā) | những điều thiện và không thiện | |
