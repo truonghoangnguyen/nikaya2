@@ -1,5 +1,6 @@
-# MN 38. ĐẠI KINH CẠN KIỆT MONG MUỐN
+# MN 38. KINH DÀI CẠN KIỆT MONG MUỐN
 *(Mahātaṇhāsaṅkhayasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-038){class="note-link"}
 
 1\. Tôi đã nghe như vầy: Một thời Thế Tôn trú ở Sāvatthī, tại tu viện Jetavana, khu vườn của Anāthapiṇḍika.
 

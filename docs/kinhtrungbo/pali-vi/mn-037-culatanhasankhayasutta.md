@@ -1,5 +1,6 @@
 # MN 37. KINH NGẮN ÁI TẬN
 *(Cūḷataṇhāsaṅkhayasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-037){class="note-link"}
 
 1\. Tôi đã nghe như vầy: Một thời, Thế Tôn trú ở Sāvatthī (Xá-vệ), tại Đông Viên (Pubbārāma), trong lâu đài của mẹ Migāra.
 

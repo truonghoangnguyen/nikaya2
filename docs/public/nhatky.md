@@ -39,13 +39,13 @@ Dịch kinh trung bộ pali
 ### date: 2026-07-15
 Thêm Đức phật lịch sử, cân nhắc rất lâu
 
-### data 2026-07-26
+### date 2026-07-26
 Thêm kinh pali
 
-### data 2026-07-26
+### date 2026-07-26
 Chỉnh sửa cách viết thể thơ, dùng 5 từ như Tỷ kheo Thích Minh Châu.
 
-### data 2026-07-26
+### date 2026-07-26
 Các bài kinh đều xoay quanh những vấn đề sau:
 Đã có 
 - thực hành: những bài thực hành theo Phật (nguyên thủy)
@@ -55,5 +55,14 @@ Cân nhắc nên thêm:
 - chân lý và quy luật : những cái nhìn của Phật về thế giới (MN 26)
 - các bước tu tập: chương trình huấn luyện của Phật, hay các đệ tử trong kinh (đặc biệt là Sāriputta)
 
-### data 2026-07-28
+### date 2026-07-28
 Không dịch kāya là 'cơ thể' mà giữ nguyên chữ 'thân'; vì chữ kāya có nghĩa là ngoài cơ thể vật lý  còn có hơi thở, cảm giác ... nghĩa là những hoạt động sinh lý khác mà chữ cơ thể không gánh được. MN 38.8 
+
+### date 2026-08-09
+Di chuyển Plato, jill sang nguyenbooks. 
+
+Tổng hợp những cách tu trong kinh nikaya
+1. Phật (5 triều cái -> 4 thiền)
+2. 4 tâm (từ bi hỉ xả)
+3. Tu Theo giáo trình thấy nhiều với Sāriputta
+4. Thiền quán - xuất hiện sau với trưởng lão ni/tăng kệ
