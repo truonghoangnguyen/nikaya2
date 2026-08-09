@@ -25,7 +25,7 @@
 
 12\. "Và các trạng thái trong Không Vô Biên Xứ – tưởng về Không Vô Biên Xứ và nhất tâm; xúc, thọ, tưởng, tư, và tâm; dục, thắng giải, tinh tấn, niệm, xả, và tác ý – những trạng thái này được ngài xác định rõ ràng từng cái một khi chúng khởi lên; ngài biết rõ các trạng thái ấy sinh khởi, biết rõ chúng hiện hữu, biết rõ chúng diệt đi. Ngài hiểu rằng:... và với sự tu tập tầng [thiền] đó, ngài xác nhận rằng có sự thoát ly ấy.
 
-13\. "Lại nữa, này các tỳ kheo, bằng cách vượt hoàn toàn Không Vô Biên Xứ, nhận biết rằng 'thức là vô biên,' Xá-lợi-phất chứng và trú Thức Vô Biên Xứ (base of infinite consciousness - tầng thiền dựa trên nhận thức thức vô biên).
+13\. "Lại nữa, này các tỳ kheo, bằng cách vượt hoàn toàn Không Vô Biên Xứ, nhận biết rằng 'thức là vô biên,' Xá-lợi-phất chứng và trú Thức Vô Biên Xứ (base of infinite consciousness - tầng thiền dựa trên nhận thức: thức là vô biên).
 
 14\. "Và các trạng thái trong Thức Vô Biên Xứ – tưởng về Thức Vô Biên Xứ và nhất tâm; xúc, thọ, tưởng, tư, và tâm; dục, thắng giải, tinh tấn, niệm, xả, và tác ý – những trạng thái này được ngài xác định rõ ràng từng cái một khi chúng khởi lên; ngài biết rõ các trạng thái ấy sinh khởi, biết rõ chúng hiện hữu, biết rõ chúng diệt đi. Ngài hiểu rằng:... và với sự tu tập tầng [thiền] đó, ngài xác nhận rằng có sự thoát ly ấy. [28]
 

@@ -1,5 +1,6 @@
 # MN 36. KINH DÀI SACCACA
 *(Mahāsaccakasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-036){class="note-link"}
 
 1\. Tôi đã nghe như vầy — một thời, Thế Tôn đang trú tại Vesāli, trong Đại Lâm, tại Trùng Các Giảng Đường.
 
