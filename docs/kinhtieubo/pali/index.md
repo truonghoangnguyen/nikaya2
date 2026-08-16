@@ -1,0 +1,24 @@
+---
+title: Mục lục
+---
+
+- [01. Tiểu Tụng (Khuddakapāṭha)](/kinhtieubo/pali/kp/)
+- [02. Pháp Cú (Dhammapada)](/kinhtieubo/pali/dhp/)
+- [03. Phật Tự Thuyết (Udāna)](/kinhtieubo/pali/ud/)
+- [04. Phật Thuyết Như Vậy (Itivuttaka)](/kinhtieubo/pali/iti/)
+- [05. Kinh Tập (Suttanipāta)](/kinhtieubo/pali/snp/)
+- [06. Chuyện Thiên Cung (Vimānavatthu)](/kinhtieubo/pali/vv/)
+- [07. Chuyện Ngạ Quỷ (Petavatthu)](/kinhtieubo/pali/pv/)
+- [08. Trưởng Lão Tăng Kệ (Theragāthā)](/kinhtieubo/pali/thag/)
+- [09. Trưởng Lão Ni Kệ (Therīgāthā)](/kinhtieubo/pali/thig/)
+- [10. Thánh Nhân Ký Sự - Phần Tăng (Apadāna I)](/kinhtieubo/pali/tha-ap/)
+- [11. Thánh Nhân Ký Sự - Phần Ni (Apadāna II)](/kinhtieubo/pali/thi-ap/)
+- [12. Phật Sử (Buddhavaṃsa)](/kinhtieubo/pali/bv/)
+- [13. Hạnh Tạng (Cariyāpiṭaka)](/kinhtieubo/pali/cp/)
+- [14. Bổn Sanh (Jātaka)](/kinhtieubo/pali/ja/)
+- [15. Đại Diễn Giải (Mahāniddesa)](/kinhtieubo/pali/mnd/)
+- [16. Tiểu Diễn Giải (Cūḷaniddesa)](/kinhtieubo/pali/cnd/)
+- [17. Phân Tích Đạo (Paṭisambhidāmagga)](/kinhtieubo/pali/ps/)
+- [18. Đạo Luận (Nettippakaraṇa)](/kinhtieubo/pali/ne/)
+- [19. Mi Tiên Vấn Đáp (Milindapañhā)](/kinhtieubo/pali/mil/)
+- [20. Chú Thích Kinh Tạng (Peṭakopadesa)](/kinhtieubo/pali/pe/)

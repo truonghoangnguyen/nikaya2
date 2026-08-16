@@ -228,7 +228,7 @@ Trú tại Sāvatthī.
 
 Rồi Tôn giả Kaccānagotta đi đến nơi Đức Thế Tôn; sau khi đến, đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Kaccānagotta nói với Đức Thế Tôn điều này:
 
-"Bạch Thế Tôn, người ta nói '*Nhìn thấy Thiện* (chánh kiến / sammādiṭṭhi), *Nhìn thấy Thiện*'. Bạch Thế Tôn, *theo những cách nào* (cho đến thế nào / kittāvatā) thì được gọi là *Nhìn thấy Thiện*?"
+"Bạch Thế Tôn, người ta nói '*Thấy Thiện* (chánh kiến / sammādiṭṭhi), *Thấy Thiện*'. Bạch Thế Tôn, *theo những cách nào* (cho đến thế nào / kittāvatā) thì được gọi là *Thấy Thiện*?"
 
 "Này Kaccāna, thế giới này phần lớn dựa vào hai cực—sự tồn tại và sự không tồn tại.
 
@@ -238,7 +238,7 @@ Này Kaccāna, thế giới này phần lớn bị trói buộc bởi sự tiế
 
 Nhưng người này không tiếp cận, không *bám giữ*, không xác lập sự tiếp cận và *sự bám giữ* ấy, vốn là sự quyết định của tâm trí và xu hướng thiên kiến, rằng: 'Đây là tự ngã của tôi'. Người ấy không nghi ngờ, không do dự rằng: 'Chỉ có *đau khổ* đang sinh ra khi sinh ra, chỉ có *đau khổ* đang *chấm dứt* (diệt / nirujjhamānaṁ) khi *chấm dứt*'. Ở đây, trí tuệ của người ấy không phụ thuộc vào người khác.
 
-Này Kaccāna, *theo những cách nào* đó thì được gọi là *Nhìn thấy Thiện*.
+Này Kaccāna, *theo những cách nào* đó thì được gọi là *Thấy Thiện*.
 
 Này Kaccāna, 'Tất cả đều tồn tại' là một cực đoan.
 
@@ -619,11 +619,11 @@ Trú tại Sāvatthī.
 
 *Phụ thuộc* vào *hoạt động*, *'Cái Biết'* [được sinh ra] [...lặp lại...] như vậy là *sự hình thành* của toàn bộ khối *đau khổ* này.
 
-Này các tỳ kheo, thế nào là *già-chết*? Chính là *Tám Bước Thiện* (Bát chánh đạo / ariyo aṭṭhaṅgiko maggo) này là con đường đưa đến sự *bị chặn* *già-chết*. Đó là—*Nhìn thấy Thiện*, *Suy nghĩ Thiện* (chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (chánh ngữ / sammāvācā), *Hành động Thiện* (chánh nghiệp / sammākammanto), *Đời sống Thiện* (chánh mạng / sammāājīvo), *Nỗ lực Thiện* (chánh tinh tấn / sammāvāyāmo), *Trí nhớ không quên Thiện* (chánh niệm / sammāsati), *Định thiện* (chánh định / sammāsamādhi).
+Này các tỳ kheo, thế nào là *già-chết*? Chính là *Tám Bước Thiện* (Bát chánh đạo / ariyo aṭṭhaṅgiko maggo) này là con đường đưa đến sự *bị chặn* *già-chết*. Đó là—*Thấy Thiện*, *Suy nghĩ Thiện* (chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (chánh ngữ / sammāvācā), *Hành động Thiện* (chánh nghiệp / sammākammanto), *Đời sống Thiện* (chánh mạng / sammāājīvo), *Nỗ lực Thiện* (chánh tinh tấn / sammāvāyāmo), *Trí nhớ không quên Thiện* (chánh niệm / sammāsati), *Định thiện* (chánh định / sammāsamādhi).
 
 Sự già yếu, sự suy tàn, răng rụng, tóc bạc, da nhăn nheo, tuổi thọ cạn kiệt, *năm giác quan* chín muồi của các chúng sinh trong từng nhóm chúng sinh—đây được gọi là già. Sự rơi rụng, sự biến mất, sự tan vỡ, sự tàng hình, cái chết, sự tử vong, sự kết thúc thời gian, sự tan rã của các *tập hợp*, sự vứt bỏ xác chết của các chúng sinh từ từng nhóm chúng sinh; đây được gọi là chết. Như vậy, đây là già và đây là chết. Này các tỳ kheo, đây được gọi là *già-chết*. Từ *sự hình thành* của *sự Tái sinh* dẫn đến *sự hình thành* của *già-chết*; từ sự *bị chặn* của *sự Tái sinh* dẫn đến sự *bị chặn* của *già-chết*. Này các tỳ kheo, thế nào là *sự Tái sinh*... [...lặp lại...] này các tỳ kheo, thế nào là *lực tồn tại*... này các tỳ kheo, thế nào là *sự bám giữ*... này các tỳ kheo, thế nào là *sự thèm khát*... này các tỳ kheo, thế nào là *cảm giác*... này các tỳ kheo, thế nào là *Xúc*... này các tỳ kheo, thế nào là *sáu Trường giao tiếp*... này các tỳ kheo, thế nào là *Danh–sắc*... này các tỳ kheo, thế nào là *'Cái Biết'*...?
 
-Này các tỳ kheo, thế nào là các *hoạt động*? Này các tỳ kheo, có ba *hoạt động*—hoạt động của cơ thể, hoạt động của lời nói, hoạt động của tâm trí. Này các tỳ kheo, đây được gọi là các *hoạt động*. Từ *sự hình thành* của *Không Hiểu Biết* dẫn đến *sự hình thành* của các *hoạt động*; từ sự *bị chặn* của *Không Hiểu Biết* dẫn đến sự *bị chặn* của các *hoạt động*. Chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* các *hoạt động*. Đó là—*Nhìn thấy Thiện*... [...lặp lại...] *Định thiện*.
+Này các tỳ kheo, thế nào là các *hoạt động*? Này các tỳ kheo, có ba *hoạt động*—hoạt động của cơ thể, hoạt động của lời nói, hoạt động của tâm trí. Này các tỳ kheo, đây được gọi là các *hoạt động*. Từ *sự hình thành* của *Không Hiểu Biết* dẫn đến *sự hình thành* của các *hoạt động*; từ sự *bị chặn* của *Không Hiểu Biết* dẫn đến sự *bị chặn* của các *hoạt động*. Chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* các *hoạt động*. Đó là—*Thấy Thiện*... [...lặp lại...] *Định thiện*.
 
 Này các tỳ kheo, khi một vị đệ tử bậc thánh *biết rõ* điều kiện như vậy, *biết rõ* *sự hình thành* của điều kiện như vậy, *biết rõ* sự *bị chặn* của điều kiện như vậy, *biết rõ* con đường đưa đến sự *bị chặn* điều kiện như vậy. Này các tỳ kheo, vị đệ tử bậc thánh này được gọi là người đã hoàn thiện quan điểm, người đã hoàn thiện sự thấy rõ, người đã đến với *Quy luật* chân chính này, người nhìn thấy *Quy luật* chân chính này, người được trang bị trí tuệ của bậc hữu học, người được trang bị minh của bậc hữu học, người đã bước vào dòng chảy *Quy luật*, bậc thánh có trí tuệ xuyên thấu, người đứng gõ cửa sự bất tử."
 
@@ -637,11 +637,11 @@ Trú tại Sāvatthī.
 
 "...*biết rõ* *Danh–sắc*... *biết rõ* *'Cái Biết'*... *biết rõ* các *hoạt động*, *biết rõ* *sự hình thành* của các *hoạt động*, *biết rõ* sự *bị chặn* của các *hoạt động*, *biết rõ* con đường đưa đến sự *bị chặn* các *hoạt động*.
 
-"Ở đây... [...lặp lại...] này các tỳ kheo, ở đây một tỳ kheo *biết rõ* *già-chết*, *biết rõ* *sự hình thành* của *già-chết*, *biết rõ* sự *bị chặn* của *già-chết*, *biết rõ* con đường đưa đến sự *bị chặn* *già-chết*, *biết rõ* *sự Tái sinh*... [...lặp lại...] *biết rõ* *lực tồn tại*... *biết rõ* *sự bám giữ*... *biết rõ* *sự thèm khát*... *biết rõ* *cảm giác*... *biết rõ* *Xúc*... *biết rõ* *sáu Trường giao tiếp*... Này các tỳ kheo, thế nào là *già-chết*? Chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* *già-chết*. Đó là—*Nhìn thấy Thiện*... [...lặp lại...] *Định thiện*.
+"Ở đây... [...lặp lại...] này các tỳ kheo, ở đây một tỳ kheo *biết rõ* *già-chết*, *biết rõ* *sự hình thành* của *già-chết*, *biết rõ* sự *bị chặn* của *già-chết*, *biết rõ* con đường đưa đến sự *bị chặn* *già-chết*, *biết rõ* *sự Tái sinh*... [...lặp lại...] *biết rõ* *lực tồn tại*... *biết rõ* *sự bám giữ*... *biết rõ* *sự thèm khát*... *biết rõ* *cảm giác*... *biết rõ* *Xúc*... *biết rõ* *sáu Trường giao tiếp*... Này các tỳ kheo, thế nào là *già-chết*? Chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* *già-chết*. Đó là—*Thấy Thiện*... [...lặp lại...] *Định thiện*.
 
 Sự già yếu, sự suy tàn, răng rụng, tóc bạc, da nhăn nheo, tuổi thọ cạn kiệt, *năm giác quan* chín muồi của các chúng sinh trong từng nhóm chúng sinh—đây được gọi là già. Sự rơi rụng, sự biến mất, sự tan vỡ, sự tàng hình, cái chết, sự tử vong, sự kết thúc thời gian, sự tan rã của các *tập hợp*, sự vứt bỏ xác chết của các chúng sinh từ từng nhóm chúng sinh; đây được gọi là chết. Như vậy, đây là già và đây là chết. Này các tỳ kheo, đây được gọi là *già-chết*. Từ *sự hình thành* của *sự Tái sinh* dẫn đến *sự hình thành* của *già-chết*; từ sự *bị chặn* của *sự Tái sinh* dẫn đến sự *bị chặn* của *già-chết*. Này các tỳ kheo, thế nào là *sự Tái sinh*... [...lặp lại...] này các tỳ kheo, thế nào là *lực tồn tại*... này các tỳ kheo, thế nào là *sự bám giữ*... này các tỳ kheo, thế nào là *sự thèm khát*... *cảm giác*... *Xúc*... *sáu Trường giao tiếp*... *Danh–sắc*... *'Cái Biết'*....
 
-Này các tỳ kheo, thế nào là các *hoạt động*? Này các tỳ kheo, có ba *hoạt động*—hoạt động của cơ thể, hoạt động của lời nói, hoạt động của tâm trí. Này các tỳ kheo, đây được gọi là các *hoạt động*. Từ *sự hình thành* của *Không Hiểu Biết* dẫn đến *sự hình thành* của các *hoạt động*; từ sự *bị chặn* của *Không Hiểu Biết* dẫn đến sự *bị chặn* của các *hoạt động*. Chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* các *hoạt động*. Đó là—*Nhìn thấy Thiện*... [...lặp lại...] *Định thiện*.
+Này các tỳ kheo, thế nào là các *hoạt động*? Này các tỳ kheo, có ba *hoạt động*—hoạt động của cơ thể, hoạt động của lời nói, hoạt động của tâm trí. Này các tỳ kheo, đây được gọi là các *hoạt động*. Từ *sự hình thành* của *Không Hiểu Biết* dẫn đến *sự hình thành* của các *hoạt động*; từ sự *bị chặn* của *Không Hiểu Biết* dẫn đến sự *bị chặn* của các *hoạt động*. Chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* các *hoạt động*. Đó là—*Thấy Thiện*... [...lặp lại...] *Định thiện*.
 
 Này các tỳ kheo, khi một tỳ kheo *biết rõ* *già-chết* như vậy, *biết rõ* *sự hình thành* của *già-chết* như vậy, *biết rõ* sự *bị chặn* của *già-chết* như vậy, *biết rõ* con đường đưa đến sự *bị chặn* *già-chết* như vậy, *biết rõ* *sự Tái sinh* như vậy... [...lặp lại...] các *hoạt động*... *sự hình thành* của các *hoạt động*... sự *bị chặn* của các *hoạt động*... *biết rõ* con đường đưa đến sự *bị chặn* các *hoạt động* như vậy. Này các tỳ kheo, tỳ kheo này được gọi là người đã hoàn thiện quan điểm, người đã hoàn thiện sự thấy rõ, người đã đến với *Quy luật* chân chính này, người nhìn thấy *Quy luật* chân chính này, người được trang bị trí tuệ của bậc hữu học, người được trang bị minh của bậc hữu học, người đã bước vào dòng chảy *Quy luật*, bậc thánh có trí tuệ xuyên thấu, người đứng gõ cửa sự bất tử."
 
@@ -814,7 +814,7 @@ Tại Sāvatthī...
 
 "Thưa vâng, bạch Thế Tôn," các tỳ kheo ấy vâng đáp Đức Thế Tôn. Đức Thế Tôn nói điều này:
 
-Từ *sự hình thành* của *Không Hiểu Biết* dẫn đến *sự hình thành* của các *hoạt động*; từ sự *bị chặn* của *Không Hiểu Biết* dẫn đến sự *bị chặn* của các *hoạt động*; chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* các *hoạt động*, đó là—*Nhìn thấy Thiện*... [...lặp lại...] *Định thiện*.
+Từ *sự hình thành* của *Không Hiểu Biết* dẫn đến *sự hình thành* của các *hoạt động*; từ sự *bị chặn* của *Không Hiểu Biết* dẫn đến sự *bị chặn* của các *hoạt động*; chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* các *hoạt động*, đó là—*Thấy Thiện*... [...lặp lại...] *Định thiện*.
 
 Này các tỳ kheo, khi một vị đệ tử bậc thánh *biết rõ* các *hoạt động* như vậy, *biết rõ* *sự hình thành* của các *hoạt động* như vậy, *biết rõ* sự *bị chặn* của các *hoạt động* như vậy, *biết rõ* con đường đưa đến sự *bị chặn* các *hoạt động* như vậy, đây là trí của người ấy về *Quy luật*. Bằng *Quy luật* này, đã được nhìn thấy, được biết, không bị giới hạn bởi thời gian, đã đạt được, đã thấu triệt, người ấy suy luận ra nguyên lý cho quá khứ và tương lai.
 
@@ -830,7 +830,7 @@ Kinh thứ ba.
 
 Trí về *già-chết*, trí về *sự hình thành* của *già-chết*, trí về sự *bị chặn* của *già-chết*, trí về con đường đưa đến sự *bị chặn* *già-chết*; trí về *sự Tái sinh*, trí về *sự hình thành* của *sự Tái sinh*, trí về sự *bị chặn* của *sự Tái sinh*, trí về con đường đưa đến sự *bị chặn* *sự Tái sinh*; trí về *lực tồn tại*, trí về *sự hình thành* của *lực tồn tại*, trí về sự *bị chặn* của *lực tồn tại*, trí về con đường đưa đến sự *bị chặn* *lực tồn tại*; trí về *sự bám giữ*, trí về *sự hình thành* của *sự bám giữ*, trí về sự *bị chặn* của *sự bám giữ*, trí về con đường đưa đến sự *bị chặn* *sự bám giữ*; trí về *sự thèm khát*, trí về *sự hình thành* của *sự thèm khát*, trí về sự *bị chặn* của *sự thèm khát*, trí về con đường đưa đến sự *bị chặn* *sự thèm khát*; trí về *cảm giác*, trí về *sự hình thành* của *cảm giác*, trí về sự *bị chặn* của *cảm giác*, trí về con đường đưa đến sự *bị chặn* *cảm giác*; trí về *Xúc*... [...lặp lại...] trí về *sáu Trường giao tiếp*... Này các tỳ kheo, thế nào là *già-chết*? Sự già yếu, sự suy tàn, răng rụng, tóc bạc, da nhăn nheo, tuổi thọ cạn kiệt, *năm giác quan* chín muồi của các chúng sinh trong từng nhóm chúng sinh, đây được gọi là già. Sự rơi rụng, sự biến mất, sự tan vỡ, sự tàng hình, cái chết, sự tử vong, sự kết thúc thời gian, sự tan rã của các *tập hợp*, sự vứt bỏ xác chết của các chúng sinh từ từng nhóm chúng sinh. Đây được gọi là chết. Như vậy, đây là già và đây là chết; này các tỳ kheo, đây được gọi là *già-chết*.
 
-Từ *sự hình thành* của *sự Tái sinh* dẫn đến *sự hình thành* của *già-chết*; từ sự *bị chặn* của *sự Tái sinh* dẫn đến sự *bị chặn* của *già-chết*; chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* *già-chết*, đó là—*Nhìn thấy Thiện*... [...lặp lại...] *Định thiện*.
+Từ *sự hình thành* của *sự Tái sinh* dẫn đến *sự hình thành* của *già-chết*; từ sự *bị chặn* của *sự Tái sinh* dẫn đến sự *bị chặn* của *già-chết*; chính là *Tám Bước Thiện* này là con đường đưa đến sự *bị chặn* *già-chết*, đó là—*Thấy Thiện*... [...lặp lại...] *Định thiện*.
 
 Này các tỳ kheo, khi một vị đệ tử bậc thánh *biết rõ* *già-chết* như vậy, *biết rõ* *sự hình thành* của *già-chết* như vậy, *biết rõ* sự *bị chặn* của *già-chết* như vậy, *biết rõ* con đường đưa đến sự *bị chặn* *già-chết* như vậy, đây là trí của người ấy về *Quy luật*. Bằng *Quy luật* này, đã được nhìn thấy, được biết, không bị giới hạn bởi thời gian, đã đạt được, đã thấu triệt, người ấy suy luận ra nguyên lý cho quá khứ và tương lai.
 
@@ -1578,7 +1578,7 @@ Người ấy đi theo con đường đó. Khi đi theo con đường đó, ngư
 
 Sau khi hiểu biết trực tiếp điều đó, Ta đã giảng dạy cho các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ. Này các tỳ kheo, đời sống thánh thiện này đã trở nên thịnh vượng, trù phú, lan rộng, được nhiều người biết đến, phổ biến rộng rãi, được công bố rõ ràng cho đến cả chư thiên và loài người."
 
-*Nhìn thấy Thiện* (Chánh kiến / sammādiṭṭhi) [...lặp lại...] *Định thiện* (Chánh định / sammāsamādhi). Này các tỳ kheo, đó chính là con đường cổ, lối đi cổ xưa mà các vị Chánh Đẳng Giác thời xưa đã từng đi qua, Ta đã đi theo con đường đó;
+*Thấy Thiện* (Chánh kiến / sammādiṭṭhi) [...lặp lại...] *Định thiện* (Chánh định / sammāsamādhi). Này các tỳ kheo, đó chính là con đường cổ, lối đi cổ xưa mà các vị Chánh Đẳng Giác thời xưa đã từng đi qua, Ta đã đi theo con đường đó;
 
 khi đi theo con đường đó, Ta đã hiểu biết trực tiếp *già-chết*; Ta đã hiểu biết trực tiếp *sự hình thành* của *già-chết*; Ta đã hiểu biết trực tiếp sự *chấm dứt* của *già-chết*; Ta đã hiểu biết trực tiếp con đường thực hành đưa đến sự *chấm dứt* *già-chết*. Ta đã đi theo con đường đó;
 

@@ -63,7 +63,7 @@ Tuy nhiên, khi bố thí, Pāyāsi lại cho đồ ăn ôi thiu và vải thô 
 | phala | quả | *kết quả* | |
 | vipāka | dị thục | *sự chín muồi* | |
 | micchādiṭṭhi | tà kiến | *quan điểm sai* | |
-| sammādiṭṭhi | chánh kiến | *Nhìn Thấy Thiện* | |
+| sammādiṭṭhi | chánh kiến | *Thấy Thiện* | |
 | [TL] jīva | mạng / linh hồn | *sinh mạng* | Khái niệm linh hồn/mạng sống vật lý mà Pāyāsi cố gắng cân đo đong đếm. |
 | viññāṇa | thức | *'cái biết'* | |
 | kāmaguṇa | ngũ dục | *sợi dây trói buộc của bản năng* | |
@@ -338,7 +338,7 @@ Ví dụ: **Bảng thuật ngữ**:
 | pháp (dhamma) | Điều; mọi Điều; Điều dạy; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Điều dạy' của bậc thánh"; "ý với các pháp->não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
 | phi pháp (adhammā) | Điều sai | hoặc "những Điều sai"|
 | pháp thiện và bất thiện(Kusalākusalā dhammā) | những điều thiện và không thiện | |
-| Chánh kiến(Sammā-diṭṭhi) | Nhìn Thấy Thiện | |
+| Chánh kiến(Sammā-diṭṭhi) | Thấy Thiện | |
 | Chánh tư duy(Sammā-saṅkappa) | Suy Nghĩ Thiện | |
 | Chánh ngữ(Sammā-vācā) | Lời Nói Thiện | |
 | Chánh nghiệp(Sammā-kammanta) | Hành Động Thiện | |

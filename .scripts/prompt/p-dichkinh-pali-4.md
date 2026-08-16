@@ -16,9 +16,9 @@ Khi dịch, bạn sẽ gặp những từ ngữ chuyên môn (gọi là thuật-
 #### 1.1 Cách dịch thuật-ngữ (keyword/term):
 Áp dụng với những thuật ngữ(keyword/term) trong kinh nikaya:
 
-1. Tra trong "Bảng thuật ngữ được Định Nghĩa <Vocabulary-Mapping>" - nếu có, dùng theo cột "Từ mới (Hiện đại)".
+1. Tra trong "Bảng thuật ngữ được Định Nghĩa <vocabulary-mapping>" - nếu có, dùng theo cột "Từ mới (Hiện đại)".
 
-2. Nếu không có Thuật-ngữ Nikāy trong "Bảng thuật ngữ được Định Nghĩa <Vocabulary-Mapping>" thì dịch theo Hán-Việt cũ (HT Thích Minh Châu), thêm vào thuật ngữ này vào  "Liệt kê thuật ngữ" và gắn cờ `[!]`, ở cột Ghi chú giải thích nghĩa Pali gốc.
+2. Nếu không có Thuật-ngữ Nikāy trong "Bảng thuật ngữ được Định Nghĩa <vocabulary-mapping>" thì dịch theo Hán-Việt cũ (HT Thích Minh Châu), thêm vào thuật ngữ này vào  "Liệt kê thuật ngữ" và gắn cờ `[!]`, ở cột Ghi chú giải thích nghĩa Pali gốc.
 
 #### 1.2 Cách dịch câu-văn (word/sentence):
 Áp dụng với những câu-từ(word/sentence) trong câu văn:
@@ -31,7 +31,7 @@ Khi dịch, bạn sẽ gặp những từ ngữ chuyên môn (gọi là thuật-
 Ví dụ: "kāyagatāsati"
 - BAD: "*chú ý* (niệm/sati) vào thân"
 - GOOD:"*chú ý vào thân* (niệm/kāyagatāsati)";
-  - lý do: table <Vocabulary-Mapping> có định nghĩa `sati` mà không định nghĩa `kāyagatāsati` nhưng ở đây `kāyagatāsati` là từ mang ý nghĩa.
+  - lý do: table <vocabulary-mapping> có định nghĩa `sati` mà không định nghĩa `kāyagatāsati` nhưng ở đây `kāyagatāsati` là từ mang ý nghĩa.
 
 #### 1.3 Nguyên tắc Ngữ-Pháp-Thuần-việt:
 
@@ -145,7 +145,7 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
 | Khīṇāsava | Lậu tận | Người đã sạch nguồn ác | |
-| abhinandati | dục hỷ | vui thú chạy theo | |
+| abhinandati | dục hỷ | chạy theo vui thú | |
 | dhamma | pháp | Quy luật | |
 | [!] abhijānāti | thắng tri | hiểu trực tiếp | biết trực tiếp, hiểu qua kinh nghiệm, tự mình biết |
 | [!] opapātika | hóa sanh | sinh ra tự nhiên | Sinh ra không qua thai nghén, thường dùng cho chư thiên. |
@@ -162,7 +162,7 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 
 *Lưu ý: Tra cứu từ Pali(Hán-Việt) trong bảng này và sử dụng từ trong column [Từ mới (Hiện đại)] để dịch.*
 
-<Vocabulary-Mapping>
+<vocabulary-mapping>
 | Từ cũ (Hán-Việt hoặc pali) | Từ mới (Hiện đại) | Ghi chú |
 | --- | --- | --- |
 | đoạn tận (khaya) | cạn kiệt; hao mòn | dùng trong tâm lý, cảm xúc; "khayadhamma->chịu sự hao mòn" |
@@ -187,24 +187,24 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | ngũ dục (kāma-guṇa) | sợi dây trói buộc của bản năng | |
 | viễn ly (Viveka) | rời bỏ | |
 | ly (Vivicca)| rời bỏ khỏi | |
-| Thiền | Thiền-na |  |
+| thiền | Thiền-na |  |
 | phiền não (kilesa) | nhiễm bẩn | |
-| Lậu hoặc (Āsava) | nguồn ác | Kāmāsava(Dục lậu)-> nguồn ác của bản năng; Khīṇāsava(lậu tận) -> hết sạch nguồn ác; Avijjāsav(Vô minh lậu) -> nguồn ác của Không Hiểu Biết; Bhavāsava(Hữu lậu)-> nguồn ác của mong muốn hiện hữu |
-| Tầm và Tứ (có tầm có tứ) | chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý  |  |
+| lậu hoặc (Āsava) | nguồn ác | Kāmāsava(Dục lậu)-> nguồn ác của bản năng; Khīṇāsava(lậu tận) -> hết sạch nguồn ác; Avijjāsav(vô minh lậu) -> nguồn ác của Không Hiểu Biết; Bhavāsava(Hữu lậu)-> nguồn ác của mong muốn hiện hữu |
+| tầm và tứ (có tầm có tứ) | chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý  |  |
 | Không tầm không tứ | Không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý |  |
 | Thọ lạc, khổ, bất lạc bất khổ | cảm giác dễ chịu, khó chịu, không dễ chịu không khó chịu |  |
 | ý (mano) | trí não | |
 | ý căn (manindriya) | giác quan trí não | |
 | nhãn căn | giác quan mắt | |
-| ý thức (manoviññāṇa)| 'Cái biết' ở trí não | |
-| nhãn thức | 'Cái biết' ở mắt | |
+| ý thức (manoviññāṇa)| sự nhận biết ở trí não | |
+| nhãn thức | Nhận biết ở mắt | |
 | ngũ căn (pañcindriyāni) | năm giác quan | ở trong: mắt, tai, mũi, miệng, thân |
 | ngũ căn (pañcindriyāni) | năm năng lực tinh thần | ở trong: tín, tấn, niệm, định, tuệ |
 | ngũ lực (pañcabalāni ) | năm sức mạnh | |
-| không vô biên xứ  (Ākāsānañcāyatana) | cõi Không Gian là Vô Tận | |
-| thức vô biên xứ | cõi 'Cái Biết' là Vô Tận | |
-| vô sở hữu xứ  | cõi Không Có Vật Gì | |
-| phi tưởng phi phi tưởng xứ | xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" |  |
+| không vô biên xứ  (Ākāsānañcāyatana) | tầng Không Gian là Vô Tận | |
+| thức vô biên xứ | tầng Nhận Biết Là Vô Tận | |
+| vô sở hữu xứ  | tầng Không Có Vật Gì | |
+| phi tưởng phi phi tưởng xứ | tầng Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" | |
 | hành (saṅkhārā) | hoạt động | "thân hành, khẩu hành, ý hành = hoạt động của thân, khẩu, ý" |
 | hữu vi (saṅkhata) | thứ hình thành từ lắp ghép | "saṅkhata-dhamma->những điều 'hình thành từ lắp ghép'"|
 | vô vi (asaṅkhata) | thứ hình thành không từ lắp ghép | |
@@ -214,18 +214,20 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | duyên (paṭicca) | Phụ thuộc; sự Phụ thuộc cùng sinh; dựa vào | "Taṇhaṁ paṭicca pariyesanā->*Phụ thuộc* vào ái có sự tìm cầu"; "Cakkhuñcā, paṭicca rūpe ca->sự *Phụ thuộc cùng sinh* của con mắt và các sắc"; "...idametaṁ paṭicca vuttaṁ->điều này nói *dựa vào* điều kia" |
 | duyên khởi (paṭiccasamuppāda) | sự sinh ra qua quan hệ *Phụ thuộc* | |
 | duyên sinh (paṭiccasamuppanna) | thứ sinh qua quan hệ *Phụ thuộc* | |
-| tướng | hình dáng | |
-| vô tướng | không chạy theo hình dáng | |
-| vô tướng tâm định | Định trong trạng thái tâm không chạy theo hình dáng | |
-| vô tướng tâm giải thoát | Giải thoát qua tâm không chạy theo hình dáng | |
-| vô lượng (appamāṇa) | không giới hạn | |
-| từ (Mettā)  | Tâm yêu thương | |
-| bi (Karuṇā) | Tâm thông cảm | |
-| hỉ (muditā) | Tâm cùng vui | |
-| xả (upekkhā) | Tâm quân bình | |
-| xả (pahānā) | hoàn toàn từ bỏ | |
-| hỷ (pīti) | hân hoan | Cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
-| hỷ (somanassa) | thanh thản | cảm giác tích cực phát ra từ tâm lý |
+| tướng (nimitta) | tướng | |
+| vô tướng | không tướng | |
+| vô tướng tâm định | Định trong trạng thái tâm không tướng | |
+| vô lượng tâm giải thoát ( appamāṇā cetovimutti) | giả thoát qua tâm vô lượng | |
+| vô sở hữu tâm giải thoát (ākiñcaññā cetovimutti) | giải thoát qua tâm nhập vào trạng thái không có vật gì (thiền 3) | |
+| không tâm giải thoát (suññatā cetovimutti) | giải thoát qua tâm nhận thức về sự trống rỗng | |
+| vô tướng tâm giải thoát (animittā cetovimutti) | giải thoát qua tâm không tướng | |
+| từ (Mettā)  | yêu thương | |
+| bi (Karuṇā) | bảo bọc | |
+| hỉ (muditā) | cùng vui | |
+| xả (upekkhā) | bình thản | |
+| xả (pahānā) | từ bỏ; hoàn toàn từ bỏ | |
+| hỷ (pīti) | hân hoan | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
+| hỷ (somanassa) | thư thái | cảm giác tích cực phát ra từ tâm lý |
 | ưu (domanassa) | ưu phiền | cảm giác tiêu cực phát ra từ tâm lý |
 | lạc (sukha) | hạnh phúc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
 | khổ (dukkha) | đau khổ | sự đau khổ nói chung, cho cả thân và tinh thần |
@@ -237,21 +239,20 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | quán | quan sát | |
 | nội tĩnh (ajjhattaṁ sampasādanaṁ) | sự lắng trong nội tại | |
 | nhất tâm (cetaso ekodibhāvaṁ) | tâm hợp thành một | |
-| thủ uẩn(upādānakkhandhā) | các tập hợp bị bám giữ | |
+| thủ uẩn (upādānakkhandhā) | tập hợp bám giữ | |
 | chấp thủ (Upādāna) | sự bám giữ | |
 | uẩn (khandhā) | tập hợp | "Sīlakkhandha->nền tảng Giới" |
 | ngũ uẩn (pañca-khandhā) | Năm tập hợp | |
-| sắc uẩn (rūpa-kkhandha) | tập vật chất | |
-| thọ uẩn (vedanā-kkhandha) | tập cảm giác | |
-| tưởng uẩn (saññā-kkhandha) | tập nhận thức | |
-| hành uẩn (saṅkhāra-kkhandha) | tập hoạt động | |
-| thức uẩn (viññāṇa-kkhandha) | tập 'cái biết' | |
-| sắc thủ uẩn (rūpupādānakkhandho) | bám giữ vào *tập vật chất* | |
+| sắc uẩn (rūpa-kkhandha) | tập hợp vật chất | |
+| thọ uẩn (vedanā-kkhandha) | tập hợp Cảm Giác | |
+| tưởng uẩn (saññā-kkhandha) | tập hợp Nhận Thức | |
+| hành uẩn (saṅkhāra-kkhandha) | tập hợp hoạt động | |
+| thức uẩn (viññāṇa-kkhandha) | tập hợp Nhận Biết | |
+| sắc thủ uẩn (rūpupādānakkhandho) | bám giữ vào 'tập vật chất' | |
 | sắc (rūpa) | vật chất | default |
 | sắc (rūpa) | hình ảnh | liên quan đến thị giác |
-| thọ (Vedanā) | cảm giác | sắc thái cảm nhận |
-| tưởng (Saññā) | nhận thức | |
-| thức (viññāṇa) | 'Cái Biết'; 'Cái Biết' (đi tái sinh) | "'Cái Biết' (đi tái sinh)" dùng trong 12 nhân duyên |
+| thọ (Vedanā) | Cảm Giác | sắc thái cảm nhận |
+| tưởng (Saññā) | Nhận Thức | |
 | danh–sắc(Nāma-rūpa) | Danh–sắc | |
 | xứ (āyatana) | trường | |
 | lục nhập (saḷāyatana) | sáu Trường giao tiếp | "Lục nội xứ->sáu trường bên trong" |
@@ -278,71 +279,70 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | chánh niệm tỉnh giác (satisampajañña) | chú tâm và nhận biết rõ ràng | "sampajāna->người chú tâm và nhận biết rõ ràng" |
 | tùy niệm (anussatiṭṭhāna) | lập lại không quên |
 | ái dục (abhijjhā) | lòng tham |
-| Tứ Thánh Đế (Cattāri Ariya-saccāni) | Bốn Thánh Đế | |
-| Khổ đế(Dukkha-sacca) | Thánh đế về đau khổ | |
-| Tập đế(Samudaya-sacca) | Thánh đế về sự hình thành của đau khổ | |
-| Diệt đế(Nirodha-sacca) | Thánh đế về sự chấm dứt đau khổ | |
-| Đạo đế(Magga-sacca) | Thánh đế về con đường đưa đến chấm dứt đau khổ | |
-| Bát chánh đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
+| tứ Thánh Đế (Cattāri Ariya-saccāni) | Bốn Thánh Đế | |
+| khổ đế(Dukkha-sacca) | Thánh đế về đau khổ | |
+| tập đế(Samudaya-sacca) | Thánh đế về sự hình thành của đau khổ | |
+| diệt đế(Nirodha-sacca) | Thánh đế về sự chấm dứt đau khổ | |
+| đạo đế(Magga-sacca) | Thánh đế về con đường đưa đến chấm dứt đau khổ | |
+| bát chánh đạo (Ariya Aṭṭhaṅgika Magga) | Tám Bước Thiện | |
 | pháp (dhamma) | Điều; mọi Điều; Giáo pháp; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Giáo pháp' của bậc thánh"; "ý với các pháp->não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
 | pháp thoại (dhammiyā kathāya) | giảng về Chân lý | |
 | phi pháp (adhammā) | Điều sai | hoặc "những Điều sai"|
 | pháp thiện và bất thiện (Kusalākusalā dhammā) | những điều thiện và không thiện | |
-| Chánh kiến(Sammā-diṭṭhi) | Nhìn thấy Thiện | |
-| Chánh tư duy(Sammā-saṅkappa) | Suy nghĩ Thiện | |
-| Chánh ngữ(Sammā-vācā) | Lời nói Thiện | |
-| Chánh nghiệp(Sammā-kammanta) | Hành động Thiện | |
-| Chánh mạng(Sammā-ājīva) | Đời sống Thiện | |
-| Chánh tinh tấn(Sammā-vāyāma) | Nỗ lực Thiện | |
-| Chánh niệm (Sammā-sati) | Trí nhớ không quên Thiện | |
-| Chánh định(Sammā-samādhi) | Định thiện | |
-| Thất Giác Chi (Satta Bojjhaṅgā) | Bảy Dấu hiệu Của Giác ngộ | |
-| Niệm giác chi(Sati-sambojjhaṅga) | dấu hiệu trí nhớ không quên  | |
-| Trạch pháp giác chi(Dhamma-vicaya-sambojjhaṅga) | dấu hiệu khả năng tìm hiểu-phân tích | |
-| Tinh tấn giác chi(Viriya-sambojjhaṅga) | dấu hiệu Nỗ Lực | |
-| Hỷ giác chi(Pīti-sambojjhaṅga) | dấu hiệu sự hân hoan | |
-| Khinh an giác chi(Passaddhi-sambojjhaṅga) | Dấu hiệu thân lắng dịu | |
-| Định giác chi(Samādhi-sambojjhaṅga) | dấu hiệu Định | |
-| Xả giác chi(Upekkhā-sambojjhaṅga) | dấu hiệu Tâm quân bình | |
-| 5 triền cái (Pañca Nīvaraṇāni) | Năm điều làm mờ yếu | |
-| dục tham(Kāmacchanda) | muốn thỏa mãn bản năng | |
+| chánh kiến(Sammā-diṭṭhi) | Thấy Thiện | |
+| chánh tư duy(Sammā-saṅkappa) | Suy nghĩ Thiện | |
+| chánh ngữ(Sammā-vācā) | Lời nói Thiện | |
+| chánh nghiệp(Sammā-kammanta) | Hành động Thiện | |
+| chánh mạng(Sammā-ājīva) | Đời sống Thiện | |
+| chánh tinh tấn(Sammā-vāyāma) | Nỗ lực Thiện | |
+| chánh niệm (Sammā-sati) | Trí nhớ không quên Thiện | |
+| chánh định(Sammā-samādhi) | Định thiện | |
+| thất Giác Chi (Satta Bojjhaṅgā) | Bảy Dấu hiệu Của Giác ngộ | |
+| niệm giác chi(Sati-sambojjhaṅga) | dấu hiệu trí nhớ không quên  | |
+| trạch pháp giác chi(dhamma-vicaya-sambojjhaṅga) | dấu hiệu khả năng tìm hiểu-phân tích | |
+| tinh tấn giác chi(viriya-sambojjhaṅga) | dấu hiệu Nỗ Lực | |
+| hỷ giác chi(pīti-sambojjhaṅga) | dấu hiệu sự hân hoan | |
+| khinh an giác chi(passaddhi-sambojjhaṅga) | Dấu hiệu thân lắng dịu | |
+| định giác chi (samādhi-sambojjhaṅga) | dấu hiệu Định | |
+| xả giác chi (upekkhā-sambojjhaṅga) | dấu hiệu Tâm quân bình | |
+| 5 triền cái (pañca Nīvaraṇāni) | Năm điều làm mờ yếu | |
+| dục tham (kāmacchanda) | muốn thỏa mãn bản năng | |
 | sân hận(Byāpāda) | ác ý hãm hại | |
-| hôn trầm, thụy miên(Thīna-middha) | uể oải, buồn ngủ | |
-| trạo cử, hối quá(Uddhacca-kukkucca) | bồn chồn, hối hận | |
-| nghi(Vicikicchā) | nghi ngờ | |
-| Thập kiết sử (Dasa Saṃyojanāni) | 10 Xiềng Xích | |
-| Thân kiến(Sakkāya-diṭṭhi) | Thấy mình là thật | |
-| Nghi(Vicikicchā) | Nghi ngờ | |
-| Giới cấm thủ(Sīlabbata-parāmāsa) | Mê tín và giáo điều | |
-| Dục ái(Kāma-rāga) | Đắm nhiễm trong bản năng | |
-| Sân(Paṭigha) | Ghét bỏ và hận thù | |
-| Sắc ái(Rūpa-rāga) | Đắm nhiễm Cõi vật chất | |
-| Vô sắc ái(Arūpa-rāga) | Đắm nhiễm Cõi phi vật chất | |
-| Mạn(Māna) | Ngạo mạn | |
-| Trạo cử(Uddhacca) | Bồn chồn | |
+| hôn trầm, thụy miên (thīna-middha) | uể oải, buồn ngủ | |
+| trạo cử, hối quá (uddhacca-kukkucca) | bồn chồn, hối hận | |
+| nghi (vicikicchā) | nghi ngờ | |
+| thập kiết sử (dasa saṃyojanāni) | 10 Xiềng Xích | |
+| thân kiến (sakkāya-diṭṭhi) | Thấy mình là thật | |
+| nghi (vicikicchā) | Nghi ngờ | |
+| giới cấm thủ(Sīlabbata-parāmāsa) | Mê tín và giáo điều | |
+| dục ái (kāma-rāga) | đắm nhiễm trong bản năng | |
+| sân (paṭigha) | ghét bỏ và hận thù | |
+| sắc ái (rūpa-rāga) | đắm nhiễm Cõi vật chất | |
+| vô sắc ái (arūpa-rāga) | đắm nhiễm Cõi phi vật chất | |
+| mạn (māna) | ngạo mạn | |
+| trạo cử (uddhacca) | bồn chồn | |
 | minh (vijjā) | hiểu biết | |
-| vô minh(Avijjā) | không hiểu biết | |
+| vô minh (Avijjā) | không hiểu biết | |
 | quán thân trên thân | quan sát thân qua thân của mình | |
 | quán thọ trên thọ | quan sát cảm giác qua cảm giác của mình | |
 | quán tâm trên tâm | quan sát tâm qua tâm của mình | |
 | quán pháp trên pháp | quan sát Giáo pháp qua mọi Điều | |
-| tuệ tri (pajānāti) | thấy rõ; biết rõ | phân biệt được rõ ràng |
-| tưởng tri (sañjānāti) | hiểu bề mặt (về) | eg:"hiểu bề mặt về Đất" |
-| thắng tri (abhijānāti) | hiểu toàn bộ (về) | "phân tích đối tượng/khái niệm thành nhiều phần nhỏ"|
+| thức tri (vijānāti) | nhận biết bằng phân biệt; nhận biết | Jānāti="biết, hay"; vi = "tách ra, phân biệt |
+| tuệ tri (pajānāti) | biết rõ | phân biệt |
+| tưởng tri (sañjānāti) | nhận biết bằng gộp chung; hiểu tổng hợp | eg:"hiểu bề mặt về Đất" - khả năng tổng hợp |
+| thắng tri (abhijānāti) | vượt lên sự hiểu; hiểu toàn bộ (về) | |
 | liễu tri (pariññāta) | hiểu biết trọn vẹn (về); nhận biết trọn vẹn (về) | "hiểu biết toàn bộ đến sau khi liễu tri" |
 | chứng ngộ (sacchikātabba) | trực tiếp chứng nghiệm | |
 | vedeti | trải nghiệm trực tiếp | (thiên về cảm nhận) |
-| Tri kiến (Dassanā) | thấy rõ bản chất | |
+| tri kiến (Dassanā) | thấy rõ bản chất | |
 | tác ý (manasikāra) | suy nghĩ; suy nghĩ | |
 | tà kiến (diṭṭhi) | quan điểm sai | |
 | trừ diệt (vinodanā) | loại trừ | |
 | Như Lai (Tathāgata) | Người Đến Như Vậy | |
-| đại (dhātu) | tính; đặc tính | |
 | địa đại (pathavīdhātu) | tính cứng (địa đại) | nước: tính lỏng, lửa: tính nhiệt, gió: tính gió |
 | tứ đại (attāro mahābhūtā) | bốn đặc tính lớn | |
-| giới (dhātu) | loại | "saṅkhata dhātu->loại hình thành do lắp ghép lại"; "asaṅkhata dhātu->loại hình thành không do lắp ghép lại"; |
-| giới (dhātu) | thành phần [của hệ thống nhận thức] | "aṭṭhārasa dhātuyo->18 thành phần [của hệ thống nhận thức]" |
-| thu thúc (saṁvara) | bảo vệ | "Indriyasaṁvara->bảo vệ các giác quan"; "Pātimokkhasaṁvara->được bảo vệ bởi giới luật Pātimokkha"|
+| giới (dhātu) | loại; tính; đặc tính; thành phần | "saṅkhata dhātu->loại hình thành do lắp ghép lại"; "asaṅkhata dhātu->loại hình thành không do lắp ghép lại"; "aṭṭhārasa dhātuyo->18 thành phần [của hệ thống nhận thức]"|
+| thu thúc (saṁvara) | bảo vệ | "Indriyasaṁvara->bảo vệ các giác quan"; "Pātimokkhasaṁvara->được bảo vệ bởi giới luật Pātimokkha" |
 | oai nghi chánh hạnh (ācāragocarasampanno) | cách cư xử đúng đắn | |
 | anumattesu vajjesu bhayadassāvī | thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt | |
 | samādāya sikkhati sikkhāpadesu | rèn luyện và học tập theo các điều học | (thọ trì và học tập các điều học)|
@@ -362,7 +362,9 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | kāma-/rūpa-/arūpa | bản năng-vật chất-phi vật chất | |
 | tùy miên (anusaya) | chảy ngầm| |
 | hý luận (papañca) | phóng đại | |
-</Vocabulary-Mapping>
+| tâm giải thoát (cetovimutti) | tâm được giải thoát | |
+| tuệ giải thoát (paññāvimutti) | giải thoát bằng trí tuệ | | 
+</vocabulary-mapping>
 
 ### 4.1 Những từ giữ nguyên
 phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (samudayadhamma); tính hoại diệt (vayadhamma); Tôi đã nghe như vầy; vui mừng đón nhận (abhinandunti); du sĩ;
@@ -376,17 +378,13 @@ phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (sam
 - bất thiện pháp > những điều không thiện;
 - thiên nhĩ (dibbāya sotadhātuyā) > tai thần
 - thiên nhãn (dibbāya cakkhunā) > mắt thần
-- Phật tự xưng dịch là: 'Ta' (in hoa) - không dịch là 'tôi' eg: "khi Ta còn là Bồ-tát";
+- Phật tự xưng dịch là: 'Ta' (in hoa, không dịch là 'tôi') eg: "khi Ta còn là Bồ-tát";
 
 ### 4.3 Những dịch câu mẫu:
 1.  
-```
-ajjhattameva cittaṁ saṇṭhapemi sannisādemi ekodiṁ karomi samādahāmi
-``` 
+`ajjhattameva cittaṁ saṇṭhapemi sannisādemi ekodiṁ karomi samādahāmi` 
 -> 
-```
-không suy nghĩ nữa, đặt tâm vào bên trong (đưa tâm trở về nội tâm) khiến tâm lắng đọng, [tâm] hợp làm một và tâm được an tịnh
-```
+`không suy nghĩ nữa, đặt tâm vào bên trong (đưa tâm trở về nội tâm) khiến tâm lắng đọng, [tâm] hợp làm một và tâm được an tịnh`
  
 2. 
 ```
@@ -397,9 +395,9 @@ Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī
 ->
 
 ```
-"Này các tỳ kheo, đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* (khổ / dukkha) và *ưu phiền* (ưu / domanassa), là phương pháp đúng đắn, để *trực tiếp chứng nghiệm* (chứng ngộ / sacchikiriyāya) Niết-bàn, đó chính là *bốn nơi thiết lập sự chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā).
+"Này các tỳ kheo, đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) [để] thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* (khổ / dukkha) và *ưu phiền* (ưu / domanassa), là phương pháp đúng đắn, *trực tiếp chứng nghiệm* (chứng ngộ / sacchikiriyāya) Niết-bàn, đó là *bốn nơi thiết lập sự chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā).
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát thân qua thân của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā) để *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* ở đời; vị ấy *sống quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát Giáo pháp qua mọi Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát thân qua thân của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā) [để] *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* ở đời; vị ấy *sống quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* [để] *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát Giáo pháp qua mọi Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 ```
 
 # VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
@@ -423,7 +421,10 @@ Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu. Ayaṁ eko dhammo bahu
 <output>
 
 ### Khảo sát văn bản
-...nội dung khảo sát...
+- **Bối cảnh kinh**:...
+- **Bối cảnh tranh luận**:... 
+- **Dấu hiệu văn bản**:...
+- **Mơ hồ ngữ pháp / đa nghĩa**:... 
 
 ### Bảng thuật ngữ trong bài
 
@@ -431,12 +432,14 @@ Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu. Ayaṁ eko dhammo bahu
 | :--- | :--- | :--- | :--- |
 | dhammā | pháp | Điều/quy luật | |
 | [BT] bahukāro | đa tác dụng | mang lại nhiều lợi ích | Dấu hiệu phân loại hệ thống hóa của kinh muộn. |
-| [BT] bhāvetabbo | tu tập | cần được phát triển | |
 | ! pariññeyyo | liễu tri | cần được hiểu biết trọn vẹn | |
 | [BT] pahātabbo | đoạn trừ | cần được từ bỏ | |
-| [BT] hānabhāgiyo | phần tổn giảm | dẫn đến suy thoái | |
+
 
 *Bản dịch:*
+---
+description: <lấy nội dung của 'Bối cảnh kinh' ở mục khảo sát văn bản>
+---
 # DN 34. KINH MƯỜI PHÁP
 *(Dasuttarasutta)*
 
@@ -445,7 +448,7 @@ Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu. Ayaṁ eko dhammo bahu
 
 1\. Này các hiền giả, có một *Điều* (pháp / dhammo) *mang lại nhiều lợi ích* (đa hữu ích / bahukāro), một *Điều* *cần được luyện tập* (tu tập / bhāvetabbo), một *Điều* *cần được hiểu biết trọn vẹn* (liễu tri / pariññeyyo), một *Điều* *cần được từ bỏ* (đoạn trừ / pahātabbo), một *Điều* *dẫn đến sự suy thoái* (thuộc phần thoái đọa / hānabhāgiyo), một *Điều* *dẫn đến tiến bộ* (thuộc phần thù thắng / visesabhāgiyo), một *Điều* *khó thâm nhập* (khó thông đạt / duppaṭivijjho), một *Điều* *cần được tạo ra* (sanh khởi / uppādetabbo), một *Điều* *cần được hiểu hết toàn bộ* (thắng tri / abhiññeyyo), một *Điều* *cần được trực tiếp chứng nghiệm* (chứng ngộ / sacchikātabbo).
 
-Một *Điều* nào *mang lại nhiều lợi ích*? Sự *không sao nhãng* (không phóng dật / appamādo) trong những *điều thiện* (thiện pháp / kusalesu dhammesu). Đây là một *Điều* *mang lại nhiều lợi ích*.
+Một *Điều* [mà] *mang lại nhiều lợi ích*? Sự *không sao nhãng* (không phóng dật / appamādo) trong những *điều thiện* (thiện pháp / kusalesu dhammesu). Đây là một *Điều* *mang lại nhiều lợi ích*.
 
 > Tôi nói pháp đến Mười ,\
 > Pháp đưa đến Niết-bàn,\

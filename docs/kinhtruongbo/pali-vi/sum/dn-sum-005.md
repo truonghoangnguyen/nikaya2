@@ -62,7 +62,7 @@ Sau đó, Đức Phật giảng thêm cho ông về Tứ Thánh Đế. Kūṭada
 | abhijjhā | ái dục | *lòng tham* | |
 | byāpāda | sân hận | *ác ý hãm hại* | |
 | micchādiṭṭhi | tà kiến | *quan điểm sai* | |
-| sammādiṭṭhi | chánh kiến | *Nhìn Thấy Thiện* | |
+| sammādiṭṭhi | chánh kiến | *Thấy Thiện* | |
 | Tathāgata | Như Lai | *Người Đến Như Vậy* | |
 | dukkha | khổ | *đau khổ* | |
 | samudaya | tập | *sự hình thành* | |

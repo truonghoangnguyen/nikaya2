@@ -48,7 +48,7 @@ Nghe xong, bà-la-môn Lohicca bừng tỉnh. Ông ví mình như người đang
 | metta citta | từ tâm | Tâm yêu thương | |
 | [!] sapattaka | thù nghịch | tâm thù địch | tâm trạng thù địch, đối nghịch |
 | micchādiṭṭhi | tà kiến | quan điểm sai | |
-| sammādiṭṭhi | chánh kiến | Nhìn Thấy Thiện | |
+| sammādiṭṭhi | chánh kiến | Thấy Thiện | |
 | tathāgata | Như Lai | Người Đến Như Vậy | |
 | [!] sotāpattiphala | quả Tu-đà-hoàn | quả Tu-đà-hoàn | quả vị Nhập lưu |
 | [!] sakadāgāmiphala | quả Tư-đà-hàm | quả Tư-đà-hàm | quả vị Nhất lai |

@@ -1,0 +1,22 @@
+const kn_snp_vagga5 = [
+  { text: "SNP 5.1. Vatthugāthā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-1-vatthugatha.md" },
+  { text: "SNP 5.10. Todeyyamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-10-todeyyamanavapuccha.md" },
+  { text: "SNP 5.11. Kappamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-11-kappamanavapuccha.md" },
+  { text: "SNP 5.12. Jatukaṇṇimāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-12-jatukannimanavapuccha.md" },
+  { text: "SNP 5.13. Bhadrāvudhamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-13-bhadravudhamanavapuccha.md" },
+  { text: "SNP 5.14. Udayamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-14-udayamanavapuccha.md" },
+  { text: "SNP 5.15. Posālamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-15-posalamanavapuccha.md" },
+  { text: "SNP 5.16. Mogharājamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-16-mogharajamanavapuccha.md" },
+  { text: "SNP 5.17. Piṅgiyamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-17-pingiyamanavapuccha.md" },
+  { text: "SNP 5.18. Pārāyanatthutigāthā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-18-parayanatthutigatha.md" },
+  { text: "SNP 5.19. Pārāyanānugītigāthā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-19-parayananugitigatha.md" },
+  { text: "SNP 5.2. Ajitamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-2-ajitamanavapuccha.md" },
+  { text: "SNP 5.3. Tissametteyyamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-3-tissametteyyamanavapuccha.md" },
+  { text: "SNP 5.4. Puṇṇakamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-4-punnakamanavapuccha.md" },
+  { text: "SNP 5.5. Mettagūmāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-5-mettagumanavapuccha.md" },
+  { text: "SNP 5.6. Dhotakamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-6-dhotakamanavapuccha.md" },
+  { text: "SNP 5.7. Upasīvamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-7-upasivamanavapuccha.md" },
+  { text: "SNP 5.8. Nandamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-8-nandamanavapuccha.md" },
+  { text: "SNP 5.9. Hemakamāṇavapucchā", link: "/kinhtieubo/pali/snp/vagga5/snp-5-9-hemakamanavapuccha.md" },
+];
+export default kn_snp_vagga5;

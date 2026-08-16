@@ -1,0 +1,20 @@
+const kn_mil = [
+  { text: "MIL 1. 1. Ārambhakathā", link: "/kinhtieubo/pali/mil/mil-001-1-arambhakatha.md" },
+  { text: "MIL 2. Bāhirakathā", link: "/kinhtieubo/pali/mil/mil-002-bahirakatha.md" },
+  { text: "MIL 3. 8. Milindapañhapucchāvisajjanā", link: "/kinhtieubo/pali/mil/mil-003-8-milindapanhapucchavisajjana.md" },
+  { text: "MIL 3. Addhānavagga", link: "/kinhtieubo/pali/mil/mil-003-addhanavagga.md" },
+  { text: "MIL 3. Arūpadhammavavatthānavagga", link: "/kinhtieubo/pali/mil/mil-003-arupadhammavavatthanavagga.md" },
+  { text: "MIL 3. Buddhavagga", link: "/kinhtieubo/pali/mil/mil-003-buddhavagga.md" },
+  { text: "MIL 3. Mahāvagga", link: "/kinhtieubo/pali/mil/mil-003-mahavagga.md" },
+  { text: "MIL 3. Nibbānavagga", link: "/kinhtieubo/pali/mil/mil-003-nibbanavagga.md" },
+  { text: "MIL 3. Sativagga", link: "/kinhtieubo/pali/mil/mil-003-sativagga.md" },
+  { text: "MIL 3. Vicāravagga", link: "/kinhtieubo/pali/mil/mil-003-vicaravagga.md" },
+  { text: "MIL 4. Meṇḍakapañhārambhakathā", link: "/kinhtieubo/pali/mil/mil-004-mendakapanharambhakatha.md" },
+  { text: "MIL 5. Meṇḍakapañha", link: "/kinhtieubo/pali/mil/mil-005-mendakapanha.md" },
+  { text: "MIL 6. Anumānapañha", link: "/kinhtieubo/pali/mil/mil-006-anumanapanha.md" },
+  { text: "MIL 6. Anumānavagga", link: "/kinhtieubo/pali/mil/mil-006-anumanavagga.md" },
+  { text: "MIL 7. 7 Opammakathāpañha", link: "/kinhtieubo/pali/mil/mil-007-7-opammakathapanha.md" },
+  { text: "MIL 7. Opammakathāpañha", link: "/kinhtieubo/pali/mil/mil-007-opammakathapanha.md" },
+  { text: "MIL 8. Nigamana", link: "/kinhtieubo/pali/mil/mil-008-nigamana.md" },
+];
+export default kn_mil;

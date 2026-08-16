@@ -1,4 +1,4 @@
-# MN 9. KINH NHÌN THẤY THIỆN (Tóm Lược)
+# MN 9. KINH THẤY ĐIÊU THIỆN (Tóm Lược)
 **(Sammādiṭṭhisutta)**\
 [Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-009-kinh-chanh-tri-kien){class="note-link" }
 
@@ -33,7 +33,7 @@
 
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
-| sammādiṭṭhi | chánh kiến | Nhìn thấy Thiện | |
+| sammādiṭṭhi | chánh kiến | Thấy Thiện | |
 | ariyasāvako | thánh đệ tử | đệ tử bậc thánh | |
 | akusala / kusala | bất thiện / thiện | điều không thiện / điều thiện | |
 | mūla | căn / bản | gốc rễ | |

@@ -1,151 +1,163 @@
-# MN 44. Cūḷavedallasutta
+---
+description: Cư sĩ Visākha đến thưa hỏi tỳ-kheo-ni Dhammadinnā về các vấn đề giáo lý cốt lõi. Cuối kinh, Đức Phật xác nhận và tán thán trí tuệ của Dhammadinnā.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+# MN 44. KINH NGẮN HỎI ĐÁP
+*(Cūḷavedallasutta)*
 
-Atha kho visākho upāsako yena dhammadinnā bhikkhunī tenupasaṅkami; upasaṅkamitvā dhammadinnaṁ bhikkhuniṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho visākho upāsako dhammadinnaṁ bhikkhuniṁ etadavoca:
+1\. Tôi đã nghe như vầy—một thời Đức Thế Tôn trú ở Rājagaha (Vương Xá), tại Veḷuvana (Trúc Lâm), nơi nuôi dưỡng sóc.
 
-2\. “‘sakkāyo sakkāyo’ti, ayye, vuccati. Katamo nu kho, ayye, sakkāyo vutto bhagavatā”ti?
+Khi ấy, cư sĩ Visākha đi đến nơi tỳ-kheo-ni Dhammadinnā ở; sau khi đến, đảnh lễ tỳ-kheo-ni Dhammadinnā rồi ngồi xuống một bên. Ngồi một bên, cư sĩ Visākha thưa với tỳ-kheo-ni Dhammadinnā điều này:
 
-“Pañca kho ime, āvuso visākha, upādānakkhandhā sakkāyo vutto bhagavatā, seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime kho, āvuso visākha, pañcupādānakkhandhā sakkāyo vutto bhagavatā”ti.
+<!--pg-->
+2\. "Thưa ni sư, người ta nói '*thân ngã* (thân kiến / sakkāya), *thân ngã*'. Thưa ni sư, Đức Thế Tôn đã gọi cái gì là *thân ngã*?"
 
-“Sādhayye”ti kho visākho upāsako dhammadinnāya bhikkhuniyā bhāsitaṁ abhinanditvā anumoditvā dhammadinnaṁ bhikkhuniṁ uttariṁ pañhaṁ apucchi:
+"Này hiền giả Visākha, năm *tập hợp bị bám giữ* (thủ uẩn / upādānakkhandhā) này được Đức Thế Tôn gọi là *thân ngã*, đó là—bám giữ vào 'tập hợp vật chất' (sắc thủ uẩn / rūpupādānakkhandho), bám giữ vào 'tập hợp Cảm Giác' (thọ thủ uẩn / vedanupādānakkhandho), bám giữ vào 'tập hợp Nhận Thức' (tưởng thủ uẩn / saññupādānakkhandho), bám giữ vào 'tập hợp hoạt động' (hành thủ uẩn / saṅkhārupādānakkhandho), bám giữ vào 'tập hợp Nhận Biết' (thức thủ uẩn / viññāṇupādānakkhandho). Này hiền giả Visākha, năm *tập hợp bị bám giữ* này được Đức Thế Tôn gọi là *thân ngã*."
 
-3\. “‘sakkāyasamudayo sakkāyasamudayo’ti, ayye, vuccati. Katamo nu kho, ayye, sakkāyasamudayo vutto bhagavatā”ti?
+"Lành thay, thưa ni sư", cư sĩ Visākha vui mừng đón nhận và tán thán lời nói của tỳ-kheo-ni Dhammadinnā, rồi hỏi thêm câu hỏi khác:
 
-“Yāyaṁ, āvuso visākha, taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ—kāmataṇhā bhavataṇhā vibhavataṇhā; ayaṁ kho, āvuso visākha, sakkāyasamudayo vutto bhagavatā”ti.
+3\. "Thưa ni sư, người ta nói 'sự hình thành của *thân ngã*, sự hình thành của *thân ngã*'. Thưa ni sư, Đức Thế Tôn đã gọi cái gì là sự hình thành của *thân ngã*?"
 
-4\. “‘Sakkāyanirodho sakkāyanirodho’ti, ayye, vuccati. Katamo nu kho, ayye, sakkāyanirodho vutto bhagavatā”ti?
+"Này hiền giả Visākha, chính *mong muốn* (tham ái / taṇhā) này *dẫn đến tồn tại trở lại* (tái hữu / ponobbhavikā), *đi kèm với vui thú và đắm nhiễm* (hỷ tham câu hữu / nandīrāgasahagatā), *vui thú chạy theo chỗ này chỗ kia* (bỉ bỉ hỷ lạc / tatratatrābhinandinī), đó là—*mong muốn bản năng* (dục ái / kāmataṇhā), *mong muốn tồn tại* (hữu ái / bhavataṇhā), *mong muốn không tồn tại* (phi hữu ái / vibhavataṇhā); này hiền giả Visākha, điều này được Đức Thế Tôn gọi là sự hình thành của *thân ngã*."
 
-“Yo kho, āvuso visākha, tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo; ayaṁ kho, āvuso visākha, sakkāyanirodho vutto bhagavatā”ti.
+4\. "Thưa ni sư, người ta nói 'sự *chấm dứt* (diệt / nirodha) của *thân ngã*, sự *chấm dứt* của *thân ngã*'. Thưa ni sư, Đức Thế Tôn đã gọi cái gì là sự *chấm dứt* của *thân ngã*?"
 
-5\. “‘Sakkāyanirodhagāminī paṭipadā sakkāyanirodhagāminī paṭipadā’ti, ayye, vuccati. Katamā nu kho, ayye, sakkāyanirodhagāminī paṭipadā vuttā bhagavatā”ti?
+"Này hiền giả Visākha, sự chặn sạch hết đắm nhiễm, sự *từ bỏ* (xả ly / cāgo), sự từ bỏ hoàn toàn, sự giải thoát, sự không bám víu đối với chính *mong muốn* ấy; này hiền giả Visākha, điều này được Đức Thế Tôn gọi là sự *chấm dứt* của *thân ngã*."
 
-“Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo sakkāyanirodhagāminī paṭipadā vuttā bhagavatā, seyyathidaṁ—sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī”ti.
+5\. "Thưa ni sư, người ta nói 'con đường dẫn đến sự *chấm dứt* của *thân ngã*, con đường dẫn đến sự *chấm dứt* của *thân ngã*'. Thưa ni sư, Đức Thế Tôn đã gọi cái gì là con đường dẫn đến sự *chấm dứt* của *thân ngã*?"
 
-6\. “Taññeva nu kho, ayye, upādānaṁ te pañcupādānakkhandhā udāhu aññatra pañcahupādānakkhandhehi upādānan”ti?
+"Này hiền giả Visākha, chính *Tám Bước Thiện* (bát chánh đạo / ariyo aṭṭhaṅgiko maggo) này được Đức Thế Tôn gọi là con đường dẫn đến sự *chấm dứt* của *thân ngã*, đó là—*Thấy Thiện* (chánh kiến / sammādiṭṭhi), *Suy nghĩ Thiện* (chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (chánh ngữ / sammāvācā), *Hành động Thiện* (chánh nghiệp / sammākammanto), *Đời sống Thiện* (chánh mạng / sammāājīvo), *Nỗ lực Thiện* (chánh tinh tấn / sammāvāyāmo), *Trí nhớ không quên Thiện* (chánh niệm / sammāsati), *Định thiện* (chánh định / sammāsamādhī)."
 
-“Na kho, āvuso visākha, taññeva upādānaṁ te pañcupādānakkhandhā, nāpi aññatra pañcahupādānakkhandhehi upādānaṁ. Yo kho, āvuso visākha, pañcasu upādānakkhandhesu chandarāgo taṁ tattha upādānan”ti.
+6\. "Thưa ni sư, sự *Bám giữ* (thủ / upādāna) ấy có phải chính là năm *tập hợp bị bám giữ* không, hay sự *Bám giữ* nằm ngoài năm *tập hợp bị bám giữ*?"
 
-7\. “Kathaṁ panāyye, sakkāyadiṭṭhi hotī”ti?
+"Này hiền giả Visākha, sự *Bám giữ* ấy không phải chính là năm *tập hợp bị bám giữ*, sự *Bám giữ* cũng không nằm ngoài năm *tập hợp bị bám giữ*. Này hiền giả Visākha, sự *tham đắm* (dục tham / chandarāgo) nào đối với năm *tập hợp bị bám giữ*, đó chính là sự *Bám giữ* ở trong ấy."
 
-“Idhāvuso visākha, assutavā puthujjano, ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto, sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto, rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ, attani vā rūpaṁ, rūpasmiṁ vā attānaṁ. Vedanaṁ …pe… saññaṁ … saṅkhāre … viññāṇaṁ attato samanupassati, viññāṇavantaṁ vā attānaṁ, attani vā viññāṇaṁ, viññāṇasmiṁ vā attānaṁ. Evaṁ kho, āvuso visākha, sakkāyadiṭṭhi hotī”ti.
+<!--pg-->
+7\. "Thưa ni sư, thế nào là *Thấy mình là thật* (thân kiến / sakkāyadiṭṭhi)?"
 
-8\. “Kathaṁ panāyye, sakkāyadiṭṭhi na hotī”ti?
+"Ở đây, này hiền giả Visākha, *người thường không được học* (vô văn phàm phu / assutavā puthujjano), không thấy rõ các bậc thánh, không am hiểu *Giáo pháp* (pháp / dhamma) của các bậc thánh, không được rèn luyện trong *Giáo pháp* của các bậc thánh, không thấy rõ các *chân nhân*, không am hiểu *Giáo pháp* của các *chân nhân*, không được rèn luyện trong *Giáo pháp* của các *chân nhân*, quan sát *vật chất* (sắc / rūpa) như là chính mình, hoặc chính mình sở hữu *vật chất*, hoặc *vật chất* nằm trong chính mình, hoặc chính mình nằm trong *vật chất*. Quan sát *Cảm Giác* (thọ / vedanā) [...lặp lại...] quan sát *Nhận Thức* (tưởng / saññā) ... quan sát *hoạt động* (hành / saṅkhāre) ... quan sát *Nhận Biết* (thức / viññāṇa) như là chính mình, hoặc chính mình sở hữu *Nhận Biết*, hoặc *Nhận Biết* nằm trong chính mình, hoặc chính mình nằm trong *Nhận Biết*. Này hiền giả Visākha, như vậy là có *Thấy mình là thật*."
 
-“Idhāvuso visākha, sutavā ariyasāvako, ariyānaṁ dassāvī ariyadhammassa kovido ariyadhamme suvinīto, sappurisānaṁ dassāvī sappurisadhammassa kovido sappurisadhamme suvinīto, na rūpaṁ attato samanupassati, na rūpavantaṁ vā attānaṁ, na attani vā rūpaṁ, na rūpasmiṁ vā attānaṁ. Na vedanaṁ …pe… na saññaṁ … na saṅkhāre …pe… na viññāṇaṁ attato samanupassati, na viññāṇavantaṁ vā attānaṁ, na attani vā viññāṇaṁ, na viññāṇasmiṁ vā attānaṁ. Evaṁ kho, āvuso visākha, sakkāyadiṭṭhi na hotī”ti.
+8\. "Thưa ni sư, thế nào là không *Thấy mình là thật*?"
 
-9\. “Katamo panāyye, ariyo aṭṭhaṅgiko maggo”ti?
+"Ở đây, này hiền giả Visākha, đệ tử bậc thánh *có học* (hữu học / sutavā), thấy rõ các bậc thánh, am hiểu *Giáo pháp* của các bậc thánh, được rèn luyện tốt trong *Giáo pháp* của các bậc thánh, thấy rõ các *chân nhân*, am hiểu *Giáo pháp* của các *chân nhân*, được rèn luyện tốt trong *Giáo pháp* của các *chân nhân*, không quan sát *vật chất* như là chính mình, không quan sát chính mình sở hữu *vật chất*, không quan sát *vật chất* nằm trong chính mình, không quan sát chính mình nằm trong *vật chất*. Không quan sát *Cảm Giác* [...lặp lại...] không quan sát *Nhận Thức* ... không quan sát *hoạt động* [...lặp lại...] không quan sát *Nhận Biết* như là chính mình, không quan sát chính mình sở hữu *Nhận Biết*, không quan sát *Nhận Biết* nằm trong chính mình, không quan sát chính mình nằm trong *Nhận Biết*. Này hiền giả Visākha, như vậy là không *Thấy mình là thật*."
 
-“Ayameva kho, āvuso visākha, ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhī”ti.
+<!--pg-->
+9\. "Thưa ni sư, thế nào là *Tám Bước Thiện*?"
 
-10\. “Ariyo panāyye, aṭṭhaṅgiko maggo saṅkhato udāhu asaṅkhato”ti?
+"Này hiền giả Visākha, đây chính là *Tám Bước Thiện*, đó là—*Thấy Thiện*, *Suy nghĩ Thiện*, *Lời nói Thiện*, *Hành động Thiện*, *Đời sống Thiện*, *Nỗ lực Thiện*, *Trí nhớ không quên Thiện*, *Định thiện*."
 
-“Ariyo kho, āvuso visākha, aṭṭhaṅgiko maggo saṅkhato”ti.
+10\. "Thưa ni sư, *Tám Bước Thiện* là *thứ hình thành từ lắp ghép* (hữu vi / saṅkhato) hay *thứ hình thành không từ lắp ghép* (vô vi / asaṅkhato)?"
 
-11\. “Ariyena nu kho, ayye, aṭṭhaṅgikena maggena tayo khandhā saṅgahitā udāhu tīhi khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito”ti?
+"Này hiền giả Visākha, *Tám Bước Thiện* là *thứ hình thành từ lắp ghép*."
 
-“Na kho, āvuso visākha, ariyena aṭṭhaṅgikena maggena tayo khandhā saṅgahitā; tīhi ca kho, āvuso visākha, khandhehi ariyo aṭṭhaṅgiko maggo saṅgahito. Yā cāvuso visākha, sammāvācā yo ca sammākammanto yo ca sammāājīvo ime dhammā sīlakkhandhe saṅgahitā. Yo ca sammāvāyāmo yā ca sammāsati yo ca sammāsamādhi ime dhammā samādhikkhandhe saṅgahitā. Yā ca sammādiṭṭhi yo ca sammāsaṅkappo, ime dhammā paññākkhandhe saṅgahitā”ti.
+11\. "Thưa ni sư, *Tám Bước Thiện* bao gồm ba *tập hợp* (uẩn / khandhā), hay ba *tập hợp* bao gồm *Tám Bước Thiện*?"
 
-12\. “Katamo panāyye, samādhi, katame dhammā samādhinimittā, katame dhammā samādhiparikkhārā, katamā samādhibhāvanā”ti?
+"Này hiền giả Visākha, *Tám Bước Thiện* không bao gồm ba *tập hợp*; mà này hiền giả Visākha, ba *tập hợp* bao gồm *Tám Bước Thiện*. Này hiền giả Visākha, *Lời nói Thiện*, *Hành động Thiện* và *Đời sống Thiện*, những *Điều* (pháp / dhammā) này được bao gồm trong *tập hợp giới*. *Nỗ lực Thiện*, *Trí nhớ không quên Thiện* và *Định thiện*, những *Điều* này được bao gồm trong *tập hợp định*. *Thấy Thiện* và *Suy nghĩ Thiện*, những *Điều* này được bao gồm trong *tập hợp tuệ*."
 
-“Yā kho, āvuso visākha, cittassa ekaggatā ayaṁ samādhi; cattāro satipaṭṭhānā samādhinimittā; cattāro sammappadhānā samādhiparikkhārā. Yā tesaṁyeva dhammānaṁ āsevanā bhāvanā bahulīkammaṁ, ayaṁ ettha samādhibhāvanā”ti.
+<!--pg-->
+12\. "Thưa ni sư, thế nào là Định, những *Điều* nào là *dấu hiệu của Định* (định tướng / samādhinimittā), những *Điều* nào là *yếu tố hỗ trợ Định* (định tư cụ / samādhiparikkhārā), thế nào là *sự rèn luyện Định* (định tu tập / samādhibhāvanā)?"
 
-13\. “Kati panāyye, saṅkhārā”ti?
+"Này hiền giả Visākha, *tâm hợp thành một* (nhất tâm / cittassa ekaggatā) chính là Định; *bốn nơi chú tâm* (tứ niệm xứ / cattāro satipaṭṭhānā) là *dấu hiệu của Định*; bốn *Siêng năng thiện* (tứ chánh cần / cattāro sammappadhānā) là *yếu tố hỗ trợ Định*. Sự thực hành, sự rèn luyện, sự làm cho sung mãn chính những *Điều* này, ở đây gọi là *sự rèn luyện Định*."
 
-“Tayome, āvuso visākha, saṅkhārā—kāyasaṅkhāro, vacīsaṅkhāro, cittasaṅkhāro”ti.
+<!--pg-->
+13\. "Thưa ni sư, có bao nhiêu *hoạt động* (hành / saṅkhārā)?"
 
-14\. “Katamo panāyye, kāyasaṅkhāro, katamo vacīsaṅkhāro, katamo cittasaṅkhāro”ti?
+"Này hiền giả Visākha, có ba *hoạt động* này—*hoạt động của thân* (thân hành / kāyasaṅkhāro), *hoạt động của ngôn ngữ* (khẩu hành / vacīsaṅkhāro), *hoạt động của tâm* (tâm hành / cittasaṅkhāro)."
 
-“Assāsapassāsā kho, āvuso visākha, kāyasaṅkhāro, vitakkavicārā vacīsaṅkhāro, saññā ca vedanā ca cittasaṅkhāro”ti.
+14\. "Thưa ni sư, thế nào là *hoạt động của thân*, thế nào là *hoạt động của ngôn ngữ*, thế nào là *hoạt động của tâm*?"
 
-15\. “Kasmā panāyye, assāsapassāsā kāyasaṅkhāro, kasmā vitakkavicārā vacīsaṅkhāro, kasmā saññā ca vedanā ca cittasaṅkhāro”ti?
+"Này hiền giả Visākha, hơi thở ra hơi thở vào là *hoạt động của thân*, *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (tầm và tứ / vitakkavicārā) là *hoạt động của ngôn ngữ*, *Nhận Thức* và *Cảm Giác* là *hoạt động của tâm*."
 
-“Assāsapassāsā kho, āvuso visākha, kāyikā ete dhammā kāyappaṭibaddhā, tasmā assāsapassāsā kāyasaṅkhāro. Pubbe kho, āvuso visākha, vitakketvā vicāretvā pacchā vācaṁ bhindati, tasmā vitakkavicārā vacīsaṅkhāro. Saññā ca vedanā ca cetasikā ete dhammā cittappaṭibaddhā, tasmā saññā ca vedanā ca cittasaṅkhāro”ti.
+15\. "Thưa ni sư, vì sao hơi thở ra hơi thở vào là *hoạt động của thân*, vì sao *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* là *hoạt động của ngôn ngữ*, vì sao *Nhận Thức* và *Cảm Giác* là *hoạt động của tâm*?"
 
-16\. “Kathaṁ panāyye, saññāvedayitanirodhasamāpatti hotī”ti?
+"Này hiền giả Visākha, hơi thở ra hơi thở vào thuộc về thân, những *Điều* này gắn liền với thân, do đó hơi thở ra hơi thở vào là *hoạt động của thân*. Này hiền giả Visākha, trước tiên người ta *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, sau đó mới phát ra lời nói, do đó *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* là *hoạt động của ngôn ngữ*. *Nhận Thức* và *Cảm Giác* thuộc về tâm, những *Điều* này gắn liền với tâm, do đó *Nhận Thức* và *Cảm Giác* là *hoạt động của tâm*."
 
-“Na kho, āvuso visākha, saññāvedayitanirodhaṁ samāpajjantassa bhikkhuno evaṁ hoti: ‘ahaṁ saññāvedayitanirodhaṁ samāpajjissan’ti vā, ‘ahaṁ saññāvedayitanirodhaṁ samāpajjāmī’ti vā, ‘ahaṁ saññāvedayitanirodhaṁ samāpanno’ti vā. Atha khvāssa pubbeva tathā cittaṁ bhāvitaṁ hoti yaṁ taṁ tathattāya upanetī”ti.
+<!--pg-->
+16\. "Thưa ni sư, làm thế nào để đạt được *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác* (diệt thọ tưởng định / saññāvedayitanirodhasamāpatti)?"
 
-17\. “Saññāvedayitanirodhaṁ samāpajjantassa panāyye, bhikkhuno katame dhammā paṭhamaṁ nirujjhanti—yadi vā kāyasaṅkhāro, yadi vā vacīsaṅkhāro, yadi vā cittasaṅkhāro”ti?
+"Này hiền giả Visākha, đối với tỳ kheo đang đi vào *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, vị ấy không có suy nghĩ: 'Tôi sẽ đi vào *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*', hoặc 'Tôi đang đi vào *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*', hoặc 'Tôi đã đi vào *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*'. Thay vào đó, tâm của vị ấy đã được rèn luyện từ trước theo cách dẫn dắt đến trạng thái như vậy."
 
-“Saññāvedayitanirodhaṁ samāpajjantassa kho, āvuso visākha, bhikkhuno paṭhamaṁ nirujjhati vacīsaṅkhāro, tato kāyasaṅkhāro, tato cittasaṅkhāro”ti.
+17\. "Thưa ni sư, đối với tỳ kheo đang đi vào *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, những *Điều* nào *chấm dứt* trước tiên—*hoạt động của thân*, *hoạt động của ngôn ngữ* hay *hoạt động của tâm*?"
 
-18\. “Kathaṁ panāyye, saññāvedayitanirodhasamāpattiyā vuṭṭhānaṁ hotī”ti?
+"Này hiền giả Visākha, đối với tỳ kheo đang đi vào *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, *hoạt động của ngôn ngữ* *chấm dứt* trước tiên, sau đó là *hoạt động của thân*, sau đó là *hoạt động của tâm*."
 
-“Na kho, āvuso visākha, saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa bhikkhuno evaṁ hoti: ‘ahaṁ saññāvedayitanirodhasamāpattiyā vuṭṭhahissan’ti vā, ‘ahaṁ saññāvedayitanirodhasamāpattiyā vuṭṭhahāmī’ti vā, ‘ahaṁ saññāvedayitanirodhasamāpattiyā vuṭṭhito’ti vā. Atha khvāssa pubbeva tathā cittaṁ bhāvitaṁ hoti yaṁ taṁ tathattāya upanetī”ti.
+18\. "Thưa ni sư, làm thế nào để xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*?"
 
-19\. “Saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa panāyye, bhikkhuno katame dhammā paṭhamaṁ uppajjanti—yadi vā kāyasaṅkhāro, yadi vā vacīsaṅkhāro, yadi vā cittasaṅkhāro”ti?
+"Này hiền giả Visākha, đối với tỳ kheo đang xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, vị ấy không có suy nghĩ: 'Tôi sẽ xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*', hoặc 'Tôi đang xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*', hoặc 'Tôi đã xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*'. Thay vào đó, tâm của vị ấy đã được rèn luyện từ trước theo cách dẫn dắt đến trạng thái như vậy."
 
-“Saññāvedayitanirodhasamāpattiyā vuṭṭhahantassa kho, āvuso visākha, bhikkhuno paṭhamaṁ uppajjati cittasaṅkhāro, tato kāyasaṅkhāro, tato vacīsaṅkhāro”ti.
+19\. "Thưa ni sư, đối với tỳ kheo đang xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, những *Điều* nào sinh khởi trước tiên—*hoạt động của thân*, *hoạt động của ngôn ngữ* hay *hoạt động của tâm*?"
 
-20\. “Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṁ panāyye, bhikkhuṁ kati phassā phusantī”ti?
+"Này hiền giả Visākha, đối với tỳ kheo đang xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, *hoạt động của tâm* sinh khởi trước tiên, sau đó là *hoạt động của thân*, sau đó là *hoạt động của ngôn ngữ*."
 
-“Saññāvedayitanirodhasamāpattiyā vuṭṭhitaṁ kho, āvuso visākha, bhikkhuṁ tayo phassā phusanti—suññato phasso, animitto phasso, appaṇihito phasso”ti.
+20\. "Thưa ni sư, đối với tỳ kheo đã xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, có bao nhiêu loại *Xúc* (xúc / phassā) chạm đến vị ấy?"
 
-21\. “Saññāvedayitanirodhasamāpattiyā vuṭṭhitassa panāyye, bhikkhuno kiṁninnaṁ cittaṁ hoti kiṁpoṇaṁ kiṁpabbhāran”ti?
+"Này hiền giả Visākha, đối với tỳ kheo đã xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, có ba loại *Xúc* chạm đến vị ấy—*Xúc trống rỗng* (không xúc / suññato phasso), *Xúc không tướng* (vô tướng xúc / animitto phasso), *Xúc không mong cầu* (vô tác xúc / appaṇihito phasso)."
 
-“Saññāvedayitanirodhasamāpattiyā vuṭṭhitassa kho, āvuso visākha, bhikkhuno vivekaninnaṁ cittaṁ hoti, vivekapoṇaṁ vivekapabbhāran”ti.
+21\. "Thưa ni sư, đối với tỳ kheo đã xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, tâm của vị ấy hướng về đâu, nghiêng về đâu, dốc về đâu?"
 
-22\. “Kati panāyye, vedanā”ti?
+"Này hiền giả Visākha, đối với tỳ kheo đã xuất ra khỏi *trạng thái đạt đến sự ngưng bặt Nhận Thức và Cảm Giác*, tâm của vị ấy hướng về sự *rời bỏ* (viễn ly / viveka), nghiêng về sự *rời bỏ*, dốc về sự *rời bỏ*."
 
-“Tisso kho imā, āvuso visākha, vedanā—sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā”ti.
+<!--pg-->
+22\. "Thưa ni sư, có bao nhiêu loại *Cảm Giác*?"
 
-23\. “Katamā panāyye, sukhā vedanā, katamā dukkhā vedanā, katamā adukkhamasukhā vedanā”ti?
+"Này hiền giả Visākha, có ba loại *Cảm Giác* này—*cảm giác dễ chịu* (thọ lạc / sukhā vedanā), *cảm giác khó chịu* (thọ khổ / dukkhā vedanā), *cảm giác không dễ chịu không khó chịu* (thọ bất khổ bất lạc / adukkhamasukhā vedanā)."
 
-“Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā sukhaṁ sātaṁ vedayitaṁ—ayaṁ sukhā vedanā. Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā dukkhaṁ asātaṁ vedayitaṁ—ayaṁ dukkhā vedanā. Yaṁ kho, āvuso visākha, kāyikaṁ vā cetasikaṁ vā neva sātaṁ nāsātaṁ vedayitaṁ—ayaṁ adukkhamasukhā vedanā”ti.
+23\. "Thưa ni sư, thế nào là *cảm giác dễ chịu*, thế nào là *cảm giác khó chịu*, thế nào là *cảm giác không dễ chịu không khó chịu*?"
 
-24\. “Sukhā panāyye, vedanā kiṁsukhā kiṁdukkhā, dukkhā vedanā kiṁsukhā kiṁdukkhā, adukkhamasukhā vedanā kiṁsukhā kiṁdukkhā”ti?
+"Này hiền giả Visākha, bất cứ cảm nhận nào thuộc về thân hay thuộc về tâm mà hạnh phúc, vừa ý—đây là *cảm giác dễ chịu*. Này hiền giả Visākha, bất cứ cảm nhận nào thuộc về thân hay thuộc về tâm mà *đau khổ* (khổ / dukkha), không vừa ý—đây là *cảm giác khó chịu*. Này hiền giả Visākha, bất cứ cảm nhận nào thuộc về thân hay thuộc về tâm mà không vừa ý cũng không không vừa ý—đây là *cảm giác không dễ chịu không khó chịu*."
 
-“Sukhā kho, āvuso visākha, vedanā ṭhitisukhā vipariṇāmadukkhā; dukkhā vedanā ṭhitidukkhā vipariṇāmasukhā; adukkhamasukhā vedanā ñāṇasukhā aññāṇadukkhā”ti.
+24\. "Thưa ni sư, *cảm giác dễ chịu* mang lại hạnh phúc trong điều kiện nào và mang lại *đau khổ* trong điều kiện nào; *cảm giác khó chịu* mang lại hạnh phúc trong điều kiện nào và mang lại *đau khổ* trong điều kiện nào; *cảm giác không dễ chịu không khó chịu* mang lại hạnh phúc trong điều kiện nào và mang lại *đau khổ* trong điều kiện nào?"
 
-25\. “Sukhāya panāyye, vedanāya kiṁ anusayo anuseti, dukkhāya vedanāya kiṁ anusayo anuseti, adukkhamasukhāya vedanāya kiṁ anusayo anusetī”ti?
+"Này hiền giả Visākha, *cảm giác dễ chịu* mang lại hạnh phúc khi tồn tại, mang lại *đau khổ* khi biến đổi; *cảm giác khó chịu* mang lại *đau khổ* khi tồn tại, mang lại hạnh phúc khi biến đổi; *cảm giác không dễ chịu không khó chịu* mang lại hạnh phúc khi được nhận biết, mang lại *đau khổ* khi không được nhận biết."
 
-“Sukhāya kho, āvuso visākha, vedanāya rāgānusayo anuseti, dukkhāya vedanāya paṭighānusayo anuseti, adukkhamasukhāya vedanāya avijjānusayo anusetī”ti.
+<!--pg-->
+25\. "Thưa ni sư, đối với *cảm giác dễ chịu*, sự *chảy ngầm* (tùy miên / anusayo) nào nằm ẩn chứa; đối với *cảm giác khó chịu*, sự *chảy ngầm* nào nằm ẩn chứa; đối với *cảm giác không dễ chịu không khó chịu*, sự *chảy ngầm* nào nằm ẩn chứa?"
 
-26\. “Sabbāya nu kho, ayye, sukhāya vedanāya rāgānusayo anuseti, sabbāya dukkhāya vedanāya paṭighānusayo anuseti, sabbāya adukkhamasukhāya vedanāya avijjānusayo anusetī”ti?
+"Này hiền giả Visākha, đối với *cảm giác dễ chịu*, sự *chảy ngầm* của *đắm nhiễm* (tham / rāga) nằm ẩn chứa; đối với *cảm giác khó chịu*, sự *chảy ngầm* của *ghét bỏ và hận thù* (sân / paṭigha) nằm ẩn chứa; đối với *cảm giác không dễ chịu không khó chịu*, sự *chảy ngầm* của *không hiểu biết* (vô minh / avijjā) nằm ẩn chứa."
 
-“Na kho, āvuso visākha, sabbāya sukhāya vedanāya rāgānusayo anuseti, na sabbāya dukkhāya vedanāya paṭighānusayo anuseti, na sabbāya adukkhamasukhāya vedanāya avijjānusayo anusetī”ti.
+26\. "Thưa ni sư, có phải đối với tất cả *cảm giác dễ chịu*, sự *chảy ngầm* của *đắm nhiễm* đều nằm ẩn chứa; đối với tất cả *cảm giác khó chịu*, sự *chảy ngầm* của *ghét bỏ và hận thù* đều nằm ẩn chứa; đối với tất cả *cảm giác không dễ chịu không khó chịu*, sự *chảy ngầm* của *không hiểu biết* đều nằm ẩn chứa?"
 
-27\. “Sukhāya panāyye, vedanāya kiṁ pahātabbaṁ, dukkhāya vedanāya kiṁ pahātabbaṁ, adukkhamasukhāya vedanāya kiṁ pahātabban”ti?
+"Này hiền giả Visākha, không phải đối với tất cả *cảm giác dễ chịu*, sự *chảy ngầm* của *đắm nhiễm* đều nằm ẩn chứa; không phải đối với tất cả *cảm giác khó chịu*, sự *chảy ngầm* của *ghét bỏ và hận thù* đều nằm ẩn chứa; không phải đối với tất cả *cảm giác không dễ chịu không khó chịu*, sự *chảy ngầm* của *không hiểu biết* đều nằm ẩn chứa."
 
-“Sukhāya kho, āvuso visākha, vedanāya rāgānusayo pahātabbo, dukkhāya vedanāya paṭighānusayo pahātabbo, adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti.
+27\. "Thưa ni sư, đối với *cảm giác dễ chịu*, điều gì cần được từ bỏ; đối với *cảm giác khó chịu*, điều gì cần được từ bỏ; đối với *cảm giác không dễ chịu không khó chịu*, điều gì cần được từ bỏ?"
 
-28\. “Sabbāya nu kho, ayye, sukhāya vedanāya rāgānusayo pahātabbo, sabbāya dukkhāya vedanāya paṭighānusayo pahātabbo, sabbāya adukkhamasukhāya vedanāya avijjānusayo pahātabbo”ti?
+"Này hiền giả Visākha, đối với *cảm giác dễ chịu*, sự *chảy ngầm* của *đắm nhiễm* cần được từ bỏ; đối với *cảm giác khó chịu*, sự *chảy ngầm* của *ghét bỏ và hận thù* cần được từ bỏ; đối với *cảm giác không dễ chịu không khó chịu*, sự *chảy ngầm* của *không hiểu biết* cần được từ bỏ."
 
-“Na kho, āvuso visākha, sabbāya sukhāya vedanāya rāgānusayo pahātabbo, na sabbāya dukkhāya vedanāya paṭighānusayo pahātabbo, na sabbāya adukkhamasukhāya vedanāya avijjānusayo pahātabbo. Idhāvuso visākha, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Rāgaṁ tena pajahati, na tattha rāgānusayo anuseti. Idhāvuso visākha, bhikkhu iti paṭisañcikkhati: ‘kudāssu nāmāhaṁ tadāyatanaṁ upasampajja viharissāmi yadariyā etarahi āyatanaṁ upasampajja viharantī’ti? Iti anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato uppajjati pihāppaccayā domanassaṁ. Paṭighaṁ tena pajahati, na tattha paṭighānusayo anuseti. Idhāvuso visākha, bhikkhu sukhassa ca pahānā, dukkhassa ca pahānā, pubbeva somanassadomanassānaṁ atthaṅgamā, adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. Avijjaṁ tena pajahati, na tattha avijjānusayo anusetī”ti.
+28\. "Thưa ni sư, có phải đối với tất cả *cảm giác dễ chịu*, sự *chảy ngầm* của *đắm nhiễm* đều cần được từ bỏ; đối với tất cả *cảm giác khó chịu*, sự *chảy ngầm* của *ghét bỏ và hận thù* đều cần được từ bỏ; đối với tất cả *cảm giác không dễ chịu không khó chịu*, sự *chảy ngầm* của *không hiểu biết* đều cần được từ bỏ?"
 
-29\. “Sukhāya panāyye, vedanāya kiṁ paṭibhāgo”ti?
+"Này hiền giả Visākha, không phải đối với tất cả *cảm giác dễ chịu*, sự *chảy ngầm* của *đắm nhiễm* đều cần được từ bỏ; không phải đối với tất cả *cảm giác khó chịu*, sự *chảy ngầm* của *ghét bỏ và hận thù* đều cần được từ bỏ; không phải đối với tất cả *cảm giác không dễ chịu không khó chịu*, sự *chảy ngầm* của *không hiểu biết* đều cần được từ bỏ. Ở đây, này hiền giả Visākha, tỳ kheo *rời bỏ khỏi* (ly / vivicca) *bản năng* (dục / kāmehi), *rời bỏ khỏi* *những điều không thiện* (bất thiện pháp / akusalehi dhammehi), đạt đến và an trú trong *Thiền-na* (thiền / jhāna) thứ nhất, một trạng thái có *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, có *hân hoan* (hỷ / pīti) và hạnh phúc sinh ra từ sự *rời bỏ*. Nhờ đó vị ấy từ bỏ *đắm nhiễm*, *chảy ngầm của đắm nhiễm* nằm ẩn chứa. 
 
-“Sukhāya kho, āvuso visākha, vedanāya dukkhā vedanā paṭibhāgo”ti.
+Ở đây, này hiền giả Visākha, tỳ kheo suy tư như vầy: 'khi nào ta mới đạt đến và an trú trong xứ (āyatana) ấy, nơi mà các bậc thánh hiện đang chứng và an trú?' Do lòng khởi lên sự khao khát hướng đến sự giải thoát vô thượng như vậy, do *Điều kiện* (duyên / paccaya) ấy mà *ưu phiền* (ưu / domanassa) sinh ra. Nhờ đó vị ấy từ bỏ *ghét bỏ và hận thù*, *chảy ngầm của ghét bỏ và hận thù* nằm ẩn chứa. 
 
-“Dukkhāya pannāyye, vedanāya kiṁ paṭibhāgo”ti?
+Ở đây, này hiền giả Visākha, tỳ kheo do từ bỏ hạnh phúc và từ bỏ *đau khổ*, cùng với sự biến mất từ trước của *thanh thản* (hỷ / somanassa) và *ưu phiền*, đạt đến và an trú trong *Thiền-na* thứ tư, một trạng thái không *đau khổ* không hạnh phúc, có sự thanh tịnh của *Tâm quân bình* (xả / upekkhā) và *tập trung chú ý* (niệm / sati). Nhờ đó vị ấy từ bỏ *không hiểu biết*, *chảy ngầm của không hiểu biết* nằm ẩn chứa."
 
-“Dukkhāya kho, āvuso visākha, vedanāya sukhā vedanā paṭibhāgo”ti.
+<!--pg-->
+29\. "Thưa ni sư, đối với *cảm giác dễ chịu*, cái gì là *phần đối lập* (đối phần / paṭibhāgo)?"
+"Này hiền giả Visākha, đối với *cảm giác dễ chịu*, *cảm giác khó chịu* là *phần đối lập*."
 
-“Adukkhamasukhāya panāyye, vedanāya kiṁ paṭibhāgo”ti?
+"Thưa ni sư, đối với *cảm giác khó chịu*, cái gì là *phần đối lập*?"
+"Này hiền giả Visākha, đối với *cảm giác khó chịu*, *cảm giác dễ chịu* là *phần đối lập*."
 
-“Adukkhamasukhāya kho, āvuso visākha, vedanāya avijjā paṭibhāgo”ti.
+"Thưa ni sư, đối với *cảm giác không dễ chịu không khó chịu*, cái gì là *phần đối lập*?"
+"Này hiền giả Visākha, đối với *cảm giác không dễ chịu không khó chịu*, *không hiểu biết* là *phần đối lập*."
 
-“Avijjāya panāyye, kiṁ paṭibhāgo”ti?
+"Thưa ni sư, đối với *không hiểu biết*, cái gì là *phần đối lập*?"
+"Này hiền giả Visākha, đối với *không hiểu biết*, *hiểu biết* (minh / vijjā) là *phần đối lập*."
 
-“Avijjāya kho, āvuso visākha, vijjā paṭibhāgo”ti.
+"Thưa ni sư, đối với *hiểu biết*, cái gì là *phần tương đương* (đối phần / paṭibhāgo)?"
+"Này hiền giả Visākha, đối với *hiểu biết*, giải thoát là *phần tương đương*."
 
-“Vijjāya panāyye, kiṁ paṭibhāgo”ti?
+"Thưa ni sư, đối với giải thoát, cái gì là *phần tương đương*?"
+"Này hiền giả Visākha, đối với giải thoát, Niết-bàn là *phần tương đương*."
 
-“Vijjāya kho, āvuso visākha, vimutti paṭibhāgo”ti.
+"Thưa ni sư, đối với Niết-bàn, cái gì là *phần tương đương*?"
+"Hiền giả Visākha, ông đã đi quá xa với câu hỏi, ông không thể nắm bắt được giới hạn của các câu hỏi. Này hiền giả Visākha, đời sống thánh thiện đắm mình trong Niết-bàn, có Niết-bàn là đích đến, có Niết-bàn là điểm kết thúc. Này hiền giả Visākha, nếu ông muốn, hãy đi đến Đức Thế Tôn và hỏi Ngài về ý nghĩa này, Đức Thế Tôn trả lời cho ông như thế nào, hãy ghi nhớ như thế ấy."
 
-“Vimuttiyā panāyye, kiṁ paṭibhāgo”ti?
+<!--pg-->
+30\. Khi ấy, cư sĩ Visākha *vui mừng đón nhận* và tán thán lời nói của tỳ-kheo-ni Dhammadinnā, đứng dậy khỏi chỗ ngồi, đảnh lễ tỳ-kheo-ni Dhammadinnā, đi nhiễu quanh bên phải rồi đi đến nơi Đức Thế Tôn ở; sau khi đến, đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, cư sĩ Visākha kể lại toàn bộ cuộc trò chuyện đã diễn ra với tỳ-kheo-ni Dhammadinnā cho Đức Thế Tôn nghe.
 
-“Vimuttiyā kho, āvuso visākha, nibbānaṁ paṭibhāgo”ti.
+Khi được nói như vậy, Đức Thế Tôn bảo cư sĩ Visākha điều này: "Này Visākha, tỳ-kheo-ni Dhammadinnā là người trí; này Visākha, tỳ-kheo-ni Dhammadinnā là người có trí tuệ lớn. Này Visākha, nếu ông hỏi Ta về ý nghĩa này, Ta cũng sẽ trả lời ông y như cách tỳ-kheo-ni Dhammadinnā đã trả lời. Đó chính là ý nghĩa của điều này. Ông hãy ghi nhớ như vậy."
 
-“Nibbānassa panāyye, kiṁ paṭibhāgo”ti?
+Đức Thế Tôn đã nói điều này. Cư sĩ Visākha hài lòng, *vui mừng đón nhận* lời Đức Thế Tôn dạy.
 
-“Accayāsi, āvuso visākha, pañhaṁ, nāsakkhi pañhānaṁ pariyantaṁ gahetuṁ. Nibbānogadhañhi, āvuso visākha, brahmacariyaṁ, nibbānaparāyanaṁ nibbānapariyosānaṁ. Ākaṅkhamāno ca tvaṁ, āvuso visākha, bhagavantaṁ upasaṅkamitvā etamatthaṁ puccheyyāsi, yathā ca te bhagavā byākaroti tathā naṁ dhāreyyāsī”ti.
-
-30\. Atha kho visākho upāsako dhammadinnāya bhikkhuniyā bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā dhammadinnaṁ bhikkhuniṁ abhivādetvā padakkhiṇaṁ katvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho visākho upāsako yāvatako ahosi dhammadinnāya bhikkhuniyā saddhiṁ kathāsallāpo taṁ sabbaṁ bhagavato ārocesi.
-
-Evaṁ vutte, bhagavā visākhaṁ upāsakaṁ etadavoca: “paṇḍitā, visākha, dhammadinnā bhikkhunī, mahāpaññā, visākha, dhammadinnā bhikkhunī. Mañcepi tvaṁ, visākha, etamatthaṁ puccheyyāsi, ahampi taṁ evamevaṁ byākareyyaṁ, yathā taṁ dhammadinnāya bhikkhuniyā byākataṁ. Eso cevetassa attho. Evañca naṁ dhārehī”ti.
-
-Idamavoca bhagavā. Attamano visākho upāsako bhagavato bhāsitaṁ abhinandīti.
-
-Cūḷavedallasuttaṁ niṭṭhitaṁ catutthaṁ.
+Kinh Tiểu Phương Quảng kết thúc, là bài kinh thứ tư.
