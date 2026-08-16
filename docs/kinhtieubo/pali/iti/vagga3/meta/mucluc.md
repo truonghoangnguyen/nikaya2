@@ -1,0 +1,7 @@
+- [ITI 21. Ekakanipāta](/kinhtieubo/pali/iti/vagga3/iti-21-ekakanipata.md)
+- [ITI 22. Ekakanipāta](/kinhtieubo/pali/iti/vagga3/iti-22-ekakanipata.md)
+- [ITI 23. Ekakanipāta](/kinhtieubo/pali/iti/vagga3/iti-23-ekakanipata.md)
+- [ITI 24. Ekakanipāta](/kinhtieubo/pali/iti/vagga3/iti-24-ekakanipata.md)
+- [ITI 25. Ekakanipāta](/kinhtieubo/pali/iti/vagga3/iti-25-ekakanipata.md)
+- [ITI 26. Ekakanipāta](/kinhtieubo/pali/iti/vagga3/iti-26-ekakanipata.md)
+- [ITI 27. Ekakanipāta](/kinhtieubo/pali/iti/vagga3/iti-27-ekakanipata.md)

@@ -1,6 +1,6 @@
 # MN 38. KINH DÀI CẠN KIỆT MONG MUỐN (Tóm lược)
 
-[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-038){class="note-link"}
+[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-038-dai-kinh-doan-tan-ai){class="note-link"}
 
 **Bối cảnh:**
 Tỳ kheo Sāti (con của một người đánh cá) hiểu sai lời Phật dạy, cho rằng chính cái "thức" ('Cái Biết') là một thực thể cố định, không thay đổi, cứ thế đi tái sinh từ kiếp này sang kiếp khác. Các tỳ kheo khác khuyên can không được nên đã báo cáo sự việc lên Đức Phật.

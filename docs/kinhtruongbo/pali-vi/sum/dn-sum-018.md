@@ -37,7 +37,7 @@ Trước hội chúng chư thiên, Phạm thiên Sanaṅkumāra đã tóm tắt 
     2. Lắng dịu các hoạt động thô tháo của cơ thể, lời nói và suy nghĩ để đạt được niềm vui sâu sắc hơn.
     3. Xóa bỏ sự u mê, nhận biết rõ ràng đâu là điều thiện/ác, tốt/xấu. Khi hiểu biết sinh khởi, niềm vui tột cùng sẽ xuất hiện.
 *   **Bốn nơi Tự Quan Sát (Tứ niệm xứ):** Liên tục quan sát Cơ thể, Cảm giác, Tâm trí và Các quy luật vận hành bên trong mình một cách rõ ràng. Việc này giúp loại bỏ lòng tham và ưu phiền, đạt được sự tập trung và thấu hiểu vạn vật.
-*   **Bảy yếu tố hỗ trợ Định (Bát Thánh Đạo):** Một tiến trình nhân quả liên tục: Từ *Nhìn Thấy Thiện* dẫn đến *Suy Nghĩ Thiện*, sinh ra *Lời Nói Thiện*, *Hành Động Thiện*, *Đời Sống Thiện*, *Nỗ Lực Thiện*, và *Tự Quan Sát Thiện*. Bảy yếu tố này hợp nhất lại tạo thành *Định thiện*, từ đó sinh ra Hiểu biết đúng đắn và Giải thoát hoàn toàn.
+*   **Bảy yếu tố hỗ trợ Định (Bát Thánh Đạo):** Một tiến trình nhân quả liên tục: Từ *Thấy Thiện* dẫn đến *Suy Nghĩ Thiện*, sinh ra *Lời Nói Thiện*, *Hành Động Thiện*, *Đời Sống Thiện*, *Nỗ Lực Thiện*, và *Tự Quan Sát Thiện*. Bảy yếu tố này hợp nhất lại tạo thành *Định thiện*, từ đó sinh ra Hiểu biết đúng đắn và Giải thoát hoàn toàn.
 
 **5. Lời kết**
 Cuối cùng, Phạm thiên Sanaṅkumāra tiết lộ để giải đáp thắc mắc ban đầu: Đã có hơn 2,4 triệu đệ tử ở Magadha qua đời và đạt được trạng thái an toàn, không còn rơi vào cõi thấp (Tu-đà-hoàn), trong đó có cả những người đạt quả vị cao hơn.

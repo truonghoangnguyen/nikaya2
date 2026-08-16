@@ -44,7 +44,7 @@ Sau khi nghe lời giải thích vô cùng rõ ràng, logic và thực tế về
 | kāma | dục | bản năng | |
 | abhijjhā | tham / tham dục | lòng tham | |
 | diṭṭhi | tà kiến | quan điểm sai | |
-| Sammā-diṭṭhi | Chánh kiến | Nhìn thấy Thiện | |
+| Sammā-diṭṭhi | Chánh kiến | Thấy Thiện | |
 | āsava | lậu hoặc | nguồn ác | |
 | khaya | đoạn tận | cạn kiệt | |
 | abhiññā | thắng tri | hiểu toàn bộ | |

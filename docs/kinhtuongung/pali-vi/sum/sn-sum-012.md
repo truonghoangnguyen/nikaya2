@@ -563,7 +563,7 @@ Người ấy đi theo con đường đó. Khi đi theo con đường đó, ngư
 
 Sau khi hiểu biết trực tiếp điều đó, Ta đã giảng dạy cho các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ. Này các tỳ kheo, đời sống thánh thiện này đã trở nên thịnh vượng, trù phú, lan rộng, được nhiều người biết đến, phổ biến rộng rãi, được công bố rõ ràng cho đến cả chư thiên và loài người."
 
-*Nhìn thấy Thiện* (Chánh kiến / sammādiṭṭhi) [...lặp lại...] *Định thiện* (Chánh định / sammāsamādhi). Này các tỳ kheo, đó chính là con đường cổ, lối đi cổ xưa mà các vị Chánh Đẳng Giác thời xưa đã từng đi qua, Ta đã đi theo con đường đó;
+*Thấy Thiện* (Chánh kiến / sammādiṭṭhi) [...lặp lại...] *Định thiện* (Chánh định / sammāsamādhi). Này các tỳ kheo, đó chính là con đường cổ, lối đi cổ xưa mà các vị Chánh Đẳng Giác thời xưa đã từng đi qua, Ta đã đi theo con đường đó;
 
 khi đi theo con đường đó, Ta đã hiểu biết trực tiếp *già-chết*; Ta đã hiểu biết trực tiếp *sự hình thành* của *già-chết*; Ta đã hiểu biết trực tiếp sự *chấm dứt* của *già-chết*; Ta đã hiểu biết trực tiếp con đường thực hành đưa đến sự *chấm dứt* *già-chết*. Ta đã đi theo con đường đó;
 

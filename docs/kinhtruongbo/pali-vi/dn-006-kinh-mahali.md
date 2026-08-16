@@ -87,7 +87,7 @@ Này Mahāli, đây là những pháp cao thượng hơn và thù thắng hơn, 
 
 "Bạch Thế Tôn, con đường đó là gì, phương pháp thực hành đó là gì để chứng ngộ những pháp này?"
 
-"Đó chính là *Tám Bước Thiện* (Bát Thánh Đạo / Ariya Aṭṭhaṅgika Magga). Cụ thể là — *Nhìn Thấy Thiện* (Chánh kiến / sammādiṭṭhi), *Suy Nghĩ Thiện* (Chánh tư duy / sammāsaṅkappa), *Lời Nói Thiện* (Chánh ngữ / sammāvācā), *Hành Động Thiện* (Chánh nghiệp / sammākammanta), *Đời Sống Thiện* (Chánh mạng / sammāājīva), *Nỗ lực Thiện* (Chánh tinh tấn / sammāvāyāma), *Tự Quan Sát Thiện* (Chánh niệm / sammāsati), *Định thiện* (Chánh định / sammāsamādhi). Này Mahāli, đây là con đường, đây là phương pháp thực hành để chứng ngộ những pháp này.
+"Đó chính là *Tám Bước Thiện* (Bát Thánh Đạo / Ariya Aṭṭhaṅgika Magga). Cụ thể là — *Thấy Thiện* (Chánh kiến / sammādiṭṭhi), *Suy Nghĩ Thiện* (Chánh tư duy / sammāsaṅkappa), *Lời Nói Thiện* (Chánh ngữ / sammāvācā), *Hành Động Thiện* (Chánh nghiệp / sammākammanta), *Đời Sống Thiện* (Chánh mạng / sammāājīva), *Nỗ lực Thiện* (Chánh tinh tấn / sammāvāyāma), *Tự Quan Sát Thiện* (Chánh niệm / sammāsati), *Định thiện* (Chánh định / sammāsamādhi). Này Mahāli, đây là con đường, đây là phương pháp thực hành để chứng ngộ những pháp này.
 
 <!--pg-->
 ### 2.4. Câu chuyện về hai người xuất gia (Dvepabbajitavatthu)

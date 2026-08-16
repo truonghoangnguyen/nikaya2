@@ -375,7 +375,7 @@ Ví dụ: *Bảng thuật ngữ trong bài*:
 | pháp (dhamma) | Điều; mọi Điều; Điều dạy; Quy luật | "pháp ác->Điều ác";"pháp của bực thánh->'Điều dạy' của bậc thánh"; "ý với các pháp->não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các quy luật trên sáu trường";|
 | phi pháp (adhammā) | Điều sai | hoặc "những Điều sai"|
 | pháp thiện và bất thiện (Kusalākusalā dhammā) | những điều thiện và không thiện | |
-| Chánh kiến(Sammā-diṭṭhi) | Nhìn thấy Thiện | |
+| Chánh kiến(Sammā-diṭṭhi) | Thấy Thiện | |
 | Chánh tư duy(Sammā-saṅkappa) | Suy nghĩ Thiện | |
 | Chánh ngữ(Sammā-vācā) | Lời nói Thiện | |
 | Chánh nghiệp(Sammā-kammanta) | Hành động Thiện | |

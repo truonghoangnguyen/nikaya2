@@ -66,3 +66,13 @@ Tổng hợp những cách tu trong kinh nikaya
 2. 4 tâm (từ bi hỉ xả)
 3. Tu Theo giáo trình thấy nhiều với Sāriputta
 4. Thiền quán - xuất hiện sau với trưởng lão ni/tăng kệ
+
+### date 2026-08-12
+Nhận định: 
+- 'thức' = 'sự nhận biết bằng cách tách biệt (vật này với vật kia, giữa các tín hiệu thần kinh)'
+- 'tưởng' = 'sự nhận biết bằng cách tổng hợp, gom nhóm thành một đối tượng'
+paññā = tuệ; pajānāti = tuệ tri
+viññāṇaṁ = thức; vijānāti = thức tri
+
+### date 2026-08-16
+- không có chữ tâm trong từ bi hỉ xả - có lẽ 4 từ này cùng kiểu với thanh thản và ưu phiền

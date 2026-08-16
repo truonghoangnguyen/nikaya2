@@ -17,7 +17,7 @@ Nếu những người có trí tuệ xem xét một cách khách quan, họ s�
 
 **3. Con đường chứng thực chân lý**
 
-Để tự mình kiểm chứng những lời Thế Tôn dạy là chân lý, người tu cần thực hành theo **Tám Bước Thiện** (Bát Thánh Đạo), bao gồm: Nhìn Thấy Thiện, Suy Nghĩ Thiện, Lời Nói Thiện, Hành Động Thiện, Đời Sống Thiện, Nỗ lực Thiện, Tự Quan Sát Thiện, và Định Thiện.
+Để tự mình kiểm chứng những lời Thế Tôn dạy là chân lý, người tu cần thực hành theo **Tám Bước Thiện** (Bát Thánh Đạo), bao gồm: Thấy Thiện, Suy Nghĩ Thiện, Lời Nói Thiện, Hành Động Thiện, Đời Sống Thiện, Nỗ lực Thiện, Tự Quan Sát Thiện, và Định Thiện.
 
 **4. Khổ hạnh thể xác so với sự chuyển hóa nội tâm**
 
@@ -61,7 +61,7 @@ Sau khi được nhận vào tăng đoàn, tôn giả Kassapa nỗ lực tu tậ
 | [!] sāvajjā | hữu tội | có lỗi | mang lại hậu quả xấu |
 | [!] anavajjā | vô tội | không có lỗi | không mang lại hậu quả xấu |
 | Ariya Aṭṭhaṅgika Magga | Bát Thánh Đạo | Tám Bước Thiện | |
-| Sammā-diṭṭhi | Chánh kiến | Nhìn Thấy Thiện | |
+| Sammā-diṭṭhi | Chánh kiến | Thấy Thiện | |
 | Sammā-saṅkappa | Chánh tư duy | Suy Nghĩ Thiện | |
 | Sammā-vācā | Chánh ngữ | Lời Nói Thiện | |
 | Sammā-kammanta | Chánh nghiệp | Hành Động Thiện | |

@@ -54,7 +54,7 @@ Thế Tôn nói với bà-la-môn Lohicca đang ngồi một bên: "Này Lohicca
 
 "*Tâm thù địch*, thưa Tôn giả Gotama."
 
-"Khi *tâm thù địch* được thiết lập, đó là *quan điểm sai* (tà kiến / micchādiṭṭhi) hay *Nhìn Thấy Thiện* (chánh kiến / sammādiṭṭhi)?"
+"Khi *tâm thù địch* được thiết lập, đó là *quan điểm sai* (tà kiến / micchādiṭṭhi) hay *Thấy Thiện* (chánh kiến / sammādiṭṭhi)?"
 
 "*Quan điểm sai*, thưa Tôn giả Gotama."
 
@@ -77,7 +77,7 @@ Taṁ kiṁ maññasi, lohicca, nanu rājā pasenadi kosalo kāsikosalaṁ ajjh�
 
 "*Tâm thù địch*, thưa Tôn giả Gotama."
 
-"Khi *tâm thù địch* được thiết lập, đó là *quan điểm sai* hay *Nhìn Thấy Thiện*?"
+"Khi *tâm thù địch* được thiết lập, đó là *quan điểm sai* hay *Thấy Thiện*?"
 
 "*Quan điểm sai*, thưa Tôn giả Gotama."
 

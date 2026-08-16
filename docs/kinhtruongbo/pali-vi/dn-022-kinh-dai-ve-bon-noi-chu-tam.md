@@ -364,9 +364,9 @@ Này các tỳ kheo, đây gọi là *Thánh đế về sự chấm dứt đau k
 
 Và này các tỳ kheo, thế nào là *Thánh đế về con đường đưa đến chấm dứt đau khổ* (dukkhanirodhagāminī paṭipadā ariyasacca)?
 
-Đó chính là *Tám Bước Thiện* (Bát Thánh Đạo / ariyo aṭṭhaṅgiko maggo) này, đó là — *Nhìn Thấy Thiện* (Chánh kiến / sammādiṭṭhi), *Suy Nghĩ Thiện* (Chánh tư duy / sammāsaṅkappo), *Lời Nói Thiện* (Chánh ngữ / sammāvācā), *Hành Động Thiện* (Chánh nghiệp / sammākammanto), *Đời Sống Thiện* (Chánh mạng / sammāājīvo), *Nỗ lực Thiện* (Chánh tinh tấn / sammāvāyāmo), *Sự chú tâm Thiện* (Chánh niệm / sammāsati), *Định thiện* (Chánh định / sammāsamādhi).
+Đó chính là *Tám Bước Thiện* (Bát Thánh Đạo / ariyo aṭṭhaṅgiko maggo) này, đó là — *Thấy Thiện* (Chánh kiến / sammādiṭṭhi), *Suy Nghĩ Thiện* (Chánh tư duy / sammāsaṅkappo), *Lời Nói Thiện* (Chánh ngữ / sammāvācā), *Hành Động Thiện* (Chánh nghiệp / sammākammanto), *Đời Sống Thiện* (Chánh mạng / sammāājīvo), *Nỗ lực Thiện* (Chánh tinh tấn / sammāvāyāmo), *Sự chú tâm Thiện* (Chánh niệm / sammāsati), *Định thiện* (Chánh định / sammāsamādhi).
 
-Và này các tỳ kheo, thế nào là *Nhìn Thấy Thiện*? Này các tỳ kheo, sự hiểu biết về *đau khổ*, sự hiểu biết về *sự hình thành* của *đau khổ*, sự hiểu biết về sự *chấm dứt* *đau khổ*, sự hiểu biết về con đường đưa đến *chấm dứt* *đau khổ*. Này các tỳ kheo, đây gọi là *Nhìn Thấy Thiện*.
+Và này các tỳ kheo, thế nào là *Thấy Thiện*? Này các tỳ kheo, sự hiểu biết về *đau khổ*, sự hiểu biết về *sự hình thành* của *đau khổ*, sự hiểu biết về sự *chấm dứt* *đau khổ*, sự hiểu biết về con đường đưa đến *chấm dứt* *đau khổ*. Này các tỳ kheo, đây gọi là *Thấy Thiện*.
 
 Và này các tỳ kheo, thế nào là *Suy Nghĩ Thiện*? Suy nghĩ về sự buông bỏ, suy nghĩ về sự không *ác ý hãm hại*, suy nghĩ về sự không làm hại. Này các tỳ kheo, đây gọi là *Suy Nghĩ Thiện*.
 

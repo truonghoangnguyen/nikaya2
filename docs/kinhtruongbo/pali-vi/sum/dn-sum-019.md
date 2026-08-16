@@ -64,7 +64,7 @@ Ngài khẳng định, những ai thực hành trọn vẹn con đường này s
 | muditā | hỷ | *Tâm cùng vui* | |
 | upekkhā | xả | *tâm quân bình* | |
 | nibbāna | Niết-bàn | Niết-bàn | |
-| sammādiṭṭhi | Chánh kiến | *Nhìn Thấy Thiện* | |
+| sammādiṭṭhi | Chánh kiến | *Thấy Thiện* | |
 | sammāsaṅkappa | Chánh tư duy | *Suy Nghĩ Thiện* | |
 | sammāvācā | Chánh ngữ | *Lời Nói Thiện* | |
 | sammākammanta | Chánh nghiệp | *Hành Động Thiện* | |

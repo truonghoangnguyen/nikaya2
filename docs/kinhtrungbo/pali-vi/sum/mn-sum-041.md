@@ -23,7 +23,7 @@ Khi các gia chủ xin giải thích chi tiết, Đức Phật phân loại các
 
 **3. Mười hành vi đúng đắn dẫn đến cõi lành (Thập thiện nghiệp)**
 Ngược lại với những điều trên, một người sống đạo đức là người chủ động từ bỏ 10 hành vi sai trái. Sự tự chủ này mang lại sự hòa hợp cho xã hội và hạnh phúc cho chính họ.
-> *"Có người từ bỏ việc giết hại sinh mạng... từ bỏ việc lấy của không cho... từ bỏ hành vi sai trái trong bản năng... từ bỏ việc nói dối... là kẻ Nhìn thấy Thiện (chánh kiến)..."*
+> *"Có người từ bỏ việc giết hại sinh mạng... từ bỏ việc lấy của không cho... từ bỏ hành vi sai trái trong bản năng... từ bỏ việc nói dối... là kẻ Thấy Thiện (chánh kiến)..."*
 
 **4. Sức mạnh tự quyết định tương lai của lối sống đạo đức**
 Đức Phật nhấn mạnh rằng, một người thực hành trọn vẹn 10 điều đạo đức này không chỉ chắc chắn không bị đọa đày, mà họ còn có năng lực tự quyết định nơi mình sẽ tái sinh. Tùy theo ước nguyện, họ có thể sinh ra làm người giàu sang có địa vị, hoặc sinh lên các tầng trời từ thấp đến cao.
@@ -62,7 +62,7 @@ Vô cùng hoan hỷ trước lời giảng thực tế, rõ ràng và phá tan n
 | abhijjhālu | tham lam | kẻ có lòng tham | Dùng từ `lòng tham` theo định nghĩa `abhijjhā`. |
 | [!] byāpannacitto | sân hận | kẻ có tâm ác ý | |
 | micchādiṭṭhiko | tà kiến | kẻ có quan điểm sai | |
-| sammādiṭṭhiko | chánh kiến | kẻ Nhìn thấy Thiện | |
+| sammādiṭṭhiko | chánh kiến | kẻ Thấy Thiện | |
 | [!] opapātika | hóa sanh | sinh ra tự nhiên | Sinh ra không qua thai nghén, thường dùng cho chư thiên hoặc chúng sinh cõi ngạ quỷ/địa ngục. |
 | āsava | lậu hoặc | nguồn ác | |
 | khaya | đoạn tận | cạn kiệt | |

@@ -48,7 +48,7 @@ Chỗ ấy chế ngự ý.`,
     "link": "/kinhtruongbo/pali-vi/dn-022#4-5-1-the-nao-la-thanh-de-ve-dau-kho"
   },
   {
-    "quote": `Và này các tỳ kheo, thế nào là Nhìn Thấy Thiện? Này các tỳ kheo, sự hiểu biết về đau khổ, sự hiểu biết về sự hình thành của đau khổ, sự hiểu biết về sự chấm dứt đau khổ, sự hiểu biết về con đường đưa đến chấm dứt đau khổ. Này các tỳ kheo, đây gọi là Nhìn Thấy Thiện.`,
+    "quote": `Và này các tỳ kheo, thế nào là Thấy Thiện? Này các tỳ kheo, sự hiểu biết về đau khổ, sự hiểu biết về sự hình thành của đau khổ, sự hiểu biết về sự chấm dứt đau khổ, sự hiểu biết về con đường đưa đến chấm dứt đau khổ. Này các tỳ kheo, đây gọi là Thấy Thiện.`,
     "title": "Kinh Trường Bộ",
     "name": "4.5.4. Thế nào là Thánh đế về con đường",
     "link": "/kinhtruongbo/c-pali-tmc-vi/dnc-022-kinh-dai-niem-xu.html#4-5-4-the-nao-la-thanh-de-ve-con-duong"

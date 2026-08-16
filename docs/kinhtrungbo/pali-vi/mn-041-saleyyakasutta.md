@@ -68,7 +68,7 @@ Người ấy *từ bỏ* việc *nói lời phù phiếm*, tránh xa việc *n�
 
 Người ấy không phải là *kẻ có tâm ác ý*, không có suy nghĩ độc ác: 'Mong sao những chúng sinh này không có hận thù, không bị áp bức, không bị rắc rối, được giữ gìn bản thân trong *hạnh phúc* (lạc / sukhī)'.
 
-Người ấy là *kẻ Nhìn thấy Thiện* (chánh kiến / sammādiṭṭhiko), có cái nhìn không đảo ngược: 'Có bố thí, có cúng dường, có tế lễ; có quả báo và kết quả của những hành động thiện và ác; có thế giới này, có thế giới khác; có mẹ, có cha; có chúng sinh *sinh ra tự nhiên*; trên đời có những Sa-môn, Bà-la-môn đi đúng đường, thực hành đúng đắn, những người tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và tuyên bố về thế giới này và thế giới khác'. Này các gia chủ, như vậy là ba loại *hành vi đúng đắn và công bằng* qua *ý nghĩ*.
+Người ấy là *kẻ Thấy Thiện* (chánh kiến / sammādiṭṭhiko), có cái nhìn không đảo ngược: 'Có bố thí, có cúng dường, có tế lễ; có quả báo và kết quả của những hành động thiện và ác; có thế giới này, có thế giới khác; có mẹ, có cha; có chúng sinh *sinh ra tự nhiên*; trên đời có những Sa-môn, Bà-la-môn đi đúng đường, thực hành đúng đắn, những người tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và tuyên bố về thế giới này và thế giới khác'. Này các gia chủ, như vậy là ba loại *hành vi đúng đắn và công bằng* qua *ý nghĩ*.
 
 Này các gia chủ, do nguyên nhân là *hành vi đúng đắn và công bằng* như vậy mà một số chúng sinh ở đây, sau khi thân hoại mạng chung, tái sinh vào *cõi lành*, *thế giới thiên giới*.
 

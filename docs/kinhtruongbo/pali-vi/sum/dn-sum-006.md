@@ -25,7 +25,7 @@ Thế Tôn phủ nhận. Ngài khẳng định mục đích tu tập *lối số
 3.  **Hóa sinh (Bất lai):** Phá bỏ 5 *Xiềng Xích* trói buộc thế gian, sinh về cõi trời tịnh cư và giác ngộ tại đó.
 4.  **A-la-hán:** *Cạn sạch* mọi *nguồn ác* (lậu hoặc), đạt được sự giải thoát hoàn toàn ngay trong hiện tại bằng sự *hiểu biết trực tiếp*.
 
-Để đạt được những mục tiêu này, con đường duy nhất là thực hành **Tám Bước Thiện** (Bát Thánh Đạo): *Nhìn Thấy Thiện, Suy Nghĩ Thiện, Lời Nói Thiện, Hành Động Thiện, Đời Sống Thiện, Nỗ lực Thiện, Tự Quan Sát Thiện, và Định thiện.*
+Để đạt được những mục tiêu này, con đường duy nhất là thực hành **Tám Bước Thiện** (Bát Thánh Đạo): *Thấy Thiện, Suy Nghĩ Thiện, Lời Nói Thiện, Hành Động Thiện, Đời Sống Thiện, Nỗ lực Thiện, Tự Quan Sát Thiện, và Định thiện.*
 
 **4. Vấn đề triết học: Sinh mạng và Cơ thể**
 Thế Tôn kể lại một sự kiện trong quá khứ, khi có hai du sĩ ngoại đạo đến hỏi Ngài một câu hỏi mang tính triết học: *"Sinh mạng (linh hồn) và cơ thể là một, hay sinh mạng và cơ thể là hai thứ khác nhau?"*
@@ -51,7 +51,7 @@ Nghe xong những lời giảng giải sáng tỏ này, Oṭṭhaddha vô cùng 
 | āsava | lậu hoặc | nguồn ác | |
 | abhiññā | thắng tri | hiểu biết trực tiếp | |
 | Ariya Aṭṭhaṅgika Magga | Bát Thánh Đạo | Tám Bước Thiện | |
-| sammādiṭṭhi | Chánh kiến | Nhìn Thấy Thiện | |
+| sammādiṭṭhi | Chánh kiến | Thấy Thiện | |
 | sammāsaṅkappa | Chánh tư duy | Suy Nghĩ Thiện | |
 | sammāvācā | Chánh ngữ | Lời Nói Thiện | |
 | sammākammanta | Chánh nghiệp | Hành Động Thiện | |

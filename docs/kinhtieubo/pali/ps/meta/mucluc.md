@@ -1,0 +1,6 @@
+- [PS 1. 1 Mahāvagga](/kinhtieubo/pali/ps/ps-001-1-mahavagga.md)
+- [PS 1. 1Mahāvagga](/kinhtieubo/pali/ps/ps-001-1mahavagga.md)
+- [PS 2. 2 Yuganaddhavagga](/kinhtieubo/pali/ps/ps-002-2-yuganaddhavagga.md)
+- [PS 2. Yuganaddhavagga](/kinhtieubo/pali/ps/ps-002-yuganaddhavagga.md)
+- [PS 3. 3 Paññāvagga](/kinhtieubo/pali/ps/ps-003-3-pannavagga.md)
+- [PS 3. Paññāvagga](/kinhtieubo/pali/ps/ps-003-pannavagga.md)

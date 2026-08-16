@@ -30,7 +30,7 @@
 | upasamā | tịch tịnh | lắng dịu | |
 | abhiññā | thắng tri | hiểu toàn bộ | |
 | ariyo aṭṭhaṅgiko maggo | Bát chánh đạo | Tám Bước Thiện | |
-| sammādiṭṭhi | Chánh kiến | Nhìn thấy Thiện | |
+| sammādiṭṭhi | Chánh kiến | Thấy Thiện | |
 | sammāsaṅkappo | Chánh tư duy | Suy nghĩ Thiện | |
 | sammāvācā | Chánh ngữ | Lời nói Thiện | |
 | sammākammanto | Chánh nghiệp | Hành động Thiện | |

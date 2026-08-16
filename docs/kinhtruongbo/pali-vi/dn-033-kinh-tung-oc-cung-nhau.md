@@ -556,7 +556,7 @@ Bảy tài sản của bậc thánh (ariyadhanāni) — tài sản niềm tin, t
 
 Bảy *Dấu hiệu Của Giác ngộ* (giác chi / bojjhaṅgā) — *dấu hiệu trí nhớ không quên*, *dấu hiệu khả năng tìm hiểu-phân tích*, *dấu hiệu Nỗ Lực*, *dấu hiệu sự hân hoan*, *Dấu hiệu cơ thể lắng dịu*, *dấu hiệu Định*, *dấu hiệu Tâm cân bằng*.
 
-Bảy *yếu tố hỗ trợ Định* (định tư cụ / samādhiparikkhārā) — *Nhìn thấy Thiện* (chánh kiến / sammādiṭṭhi), *Suy nghĩ Thiện* (chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (chánh ngữ / sammāvācā), *Hành động Thiện* (chánh nghiệp / sammākammanto), *Đời sống Thiện* (chánh mạng / sammāājīvo), *Nỗ lực Thiện* (chánh tinh tấn / sammāvāyāmo), *chú tâm Thiện* (chánh niệm / sammāsati).
+Bảy *yếu tố hỗ trợ Định* (định tư cụ / samādhiparikkhārā) — *Thấy Thiện* (chánh kiến / sammādiṭṭhi), *Suy nghĩ Thiện* (chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (chánh ngữ / sammāvācā), *Hành động Thiện* (chánh nghiệp / sammākammanto), *Đời sống Thiện* (chánh mạng / sammāājīvo), *Nỗ lực Thiện* (chánh tinh tấn / sammāvāyāmo), *chú tâm Thiện* (chánh niệm / sammāsati).
 
 <!--pg-->
 Bảy *Điều* của người không tốt (asaddhammā) — này các hiền giả, ở đây, Tỳ-kheo không có niềm tin, không biết xấu hổ, không biết sợ lỗi, ít nghe học, lười biếng, quên lãng, thiếu sự hiểu biết.
@@ -607,7 +607,7 @@ Này các hiền giả, có tám *Điều* (pháp / dhammā) đã được tuyê
 <!--pg-->
 Tám sự sai trái (micchattā) — *quan điểm sai* (tà kiến / micchādiṭṭhi), *suy nghĩ* sai, lời nói sai, hành động sai, đời sống sai, nỗ lực sai, *chú tâm* sai, *Định* sai.
 
-Tám sự đúng đắn (sammattā) — *Nhìn thấy Thiện* (chánh kiến / sammādiṭṭhi), *Suy nghĩ Thiện* (chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (chánh ngữ / sammāvācā), *Hành động Thiện* (chánh nghiệp / sammākammanto), *Đời sống Thiện* (chánh mạng / sammāājīvo), *Nỗ lực Thiện* (chánh tinh tấn / sammāvāyāmo), *chú tâm Thiện* (chánh niệm / sammāsati), *Định thiện* (chánh định / sammāsamādhi).
+Tám sự đúng đắn (sammattā) — *Thấy Thiện* (chánh kiến / sammādiṭṭhi), *Suy nghĩ Thiện* (chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (chánh ngữ / sammāvācā), *Hành động Thiện* (chánh nghiệp / sammākammanto), *Đời sống Thiện* (chánh mạng / sammāājīvo), *Nỗ lực Thiện* (chánh tinh tấn / sammāvāyāmo), *chú tâm Thiện* (chánh niệm / sammāsati), *Định thiện* (chánh định / sammāsamādhi).
 
 Tám hạng người đáng nhận phẩm vật (puggalā dakkhiṇeyyā) — người đã Nhập dòng, người đang thực hành để chứng nghiệm quả Nhập dòng; người Nhất lai, người đang thực hành để chứng nghiệm quả Nhất lai; người Bất lai, người đang thực hành để chứng nghiệm quả Bất lai; bậc A-la-hán, người đang thực hành để chứng nghiệm quả A-la-hán.
 
@@ -786,7 +786,7 @@ Mười *trường* Kasiṇa (kasiṇāyatanāni). Một người *nhận thức
 
 Mười con đường hành động không thiện (akusalakammapathā) — tước đoạt mạng sống, lấy của không cho, hành vi sai trái trong *sự dễ chịu giác quan*, nói dối, nói lời chia rẽ, nói lời thô ác, nói lời phù phiếm, *lòng tham*, ác ý, *quan điểm sai*.
 
-Mười con đường hành động thiện (kusalakammapathā) — tránh xa việc tước đoạt mạng sống, tránh xa việc lấy của không cho, tránh xa hành vi sai trái trong *sự dễ chịu giác quan*, tránh xa việc nói dối, tránh xa việc nói lời chia rẽ, tránh xa việc nói lời thô ác, tránh xa việc nói lời phù phiếm, không có *lòng tham*, không ác ý, *Nhìn thấy Thiện*.
+Mười con đường hành động thiện (kusalakammapathā) — tránh xa việc tước đoạt mạng sống, tránh xa việc lấy của không cho, tránh xa hành vi sai trái trong *sự dễ chịu giác quan*, tránh xa việc nói dối, tránh xa việc nói lời chia rẽ, tránh xa việc nói lời thô ác, tránh xa việc nói lời phù phiếm, không có *lòng tham*, không ác ý, *Thấy Thiện*.
 
 <!--pg-->
 Mười trạng thái trú ngụ của bậc thánh (ariyavāsā). Này các hiền giả, ở đây, Tỳ-kheo đã *từ bỏ* năm yếu tố, được trang bị sáu yếu tố, có một sự *bảo vệ*, có bốn *chỗ nương tựa*, đã *loại trừ* các sự thật cá nhân, đã *hoàn toàn từ bỏ* các sự tìm kiếm, có *suy nghĩ* không vẩn đục, có *hoạt động* của cơ thể được *lắng dịu*, có tâm được giải thoát tốt đẹp, có sự hiểu biết được giải thoát tốt đẹp.
@@ -812,7 +812,7 @@ Và này các hiền giả, thế nào là Tỳ-kheo có tâm được giải th
 Và này các hiền giả, thế nào là Tỳ-kheo có sự hiểu biết được giải thoát tốt đẹp? Này các hiền giả, ở đây, Tỳ-kheo biết rõ: '*Đắm nhiễm* đã được ta *từ bỏ*, cắt đứt tận gốc rễ, làm cho như thân cây cọ bị chặt đứt, làm cho không thể tồn tại, không còn khả năng sinh ra trong tương lai'. Biết rõ: '*Ám ảnh khó chịu* đã được ta *từ bỏ*, cắt đứt tận gốc rễ, làm cho như thân cây cọ bị chặt đứt, làm cho không thể tồn tại, không còn khả năng sinh ra trong tương lai'. Biết rõ: '*Sự u mê* đã được ta *từ bỏ*, cắt đứt tận gốc rễ, làm cho như thân cây cọ bị chặt đứt, làm cho không thể tồn tại, không còn khả năng sinh ra trong tương lai'. Như vậy, này các hiền giả, là Tỳ-kheo có sự hiểu biết được giải thoát tốt đẹp.
 
 <!--pg-->
-Mười *Điều* của người không còn phải học (asekkhā dhammā) — *Nhìn thấy Thiện* của người không còn phải học, *Suy nghĩ Thiện* của người không còn phải học, *Lời nói Thiện* của người không còn phải học, *Hành động Thiện* của người không còn phải học, *Đời sống Thiện* của người không còn phải học, *Nỗ lực Thiện* của người không còn phải học, *chú tâm Thiện* của người không còn phải học, *Định thiện* của người không còn phải học, sự hiểu biết đúng đắn của người không còn phải học, sự giải thoát đúng đắn của người không còn phải học.
+Mười *Điều* của người không còn phải học (asekkhā dhammā) — *Thấy Thiện* của người không còn phải học, *Suy nghĩ Thiện* của người không còn phải học, *Lời nói Thiện* của người không còn phải học, *Hành động Thiện* của người không còn phải học, *Đời sống Thiện* của người không còn phải học, *Nỗ lực Thiện* của người không còn phải học, *chú tâm Thiện* của người không còn phải học, *Định thiện* của người không còn phải học, sự hiểu biết đúng đắn của người không còn phải học, sự giải thoát đúng đắn của người không còn phải học.
 
 Này các hiền giả, đây là mười *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau*, không nên *tranh cãi*, để *đời sống thánh thiện* này được kéo dài và tồn tại lâu dài, điều đó sẽ đem lại lợi ích cho số đông, hạnh phúc cho số đông, vì lòng thương tưởng đối với thế gian, vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người."
 
