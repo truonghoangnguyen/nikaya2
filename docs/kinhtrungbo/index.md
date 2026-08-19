@@ -113,6 +113,10 @@ head:
       <div class="section-title"><a href="/kinhtrungbo/nanamoli-bodhi-en/">Bhikkhu Nanamoli & Bhikkhu Bodhi (English)</a></div>
       <div class="section-subtitle">"The Middle Length Discourses of the Buddha" by Nanamoli and Bodhi.</div>
     </div>
+    <div class="section-item">
+      <div class="section-title"><a href="/kinhtrungbo/pali/">Pali</a></div>
+      <div class="section-subtitle">Majjhima Nikāya - Pali language.</div>
+    </div>
   </template>
 
   <div class="closing-quote">

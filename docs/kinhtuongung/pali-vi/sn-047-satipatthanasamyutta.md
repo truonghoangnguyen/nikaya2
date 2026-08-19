@@ -11,7 +11,7 @@ Tôi đã nghe như vầy—một thời Thế Tôn trú ở Vesāli, tại khu 
 
 Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā) để *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* ở đời;
 
-vị ấy sống *quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời;
+vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* (quán thọ trên thọ / vedanāsu vedanānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời;
 
 vị ấy sống *quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời;
 
@@ -32,7 +32,7 @@ Một thời Thế Tôn trú ở Vesāli, tại khu rừng của Ambapāli. Tạ
 
 "Này các tỳ kheo, tỳ kheo nên sống *tập trung chú ý* (chánh niệm / sato) và *nhận biết rõ ràng*. Đây là lời giáo huấn của Ta dành cho các vị.
 
-Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*.
+Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*.
 
 Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở đây, này các tỳ kheo, tỳ kheo thực hành *nhận biết rõ ràng* khi bước tới bước lui; thực hành *nhận biết rõ ràng* khi nhìn thẳng nhìn quanh; thực hành *nhận biết rõ ràng* khi co tay duỗi tay; thực hành *nhận biết rõ ràng* khi mang y Tăng-già-lê, bình bát và y áo; thực hành *nhận biết rõ ràng* khi ăn, uống, nhai, nếm; thực hành *nhận biết rõ ràng* khi đại tiện, tiểu tiện; thực hành *nhận biết rõ ràng* khi đi, đứng, ngồi, ngủ, thức, nói năng, im lặng. Như vậy, này các tỳ kheo, là tỳ kheo *nhận biết rõ ràng*. Này các tỳ kheo, tỳ kheo nên sống *tập trung chú ý* và *nhận biết rõ ràng*. Đây là lời giáo huấn của Ta dành cho các vị."
 
@@ -59,7 +59,7 @@ Bên trong các *Điều*, [...lặp lại...] bên ngoài các *Điều*, [...l
 
 Ở đây, này tỳ kheo, bên trong ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; bên ngoài ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; bên trong hay bên ngoài ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Bên trong các cảm giác [...lặp lại...] bên ngoài các cảm giác [...lặp lại...] bên trong hay bên ngoài các cảm giác, ông hãy sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bên trong các cảm thọ [...lặp lại...] bên ngoài các cảm thọ [...lặp lại...] bên trong hay bên ngoài các cảm thọ, ông hãy sống *quan sát cảm thọ qua cảm thọ của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Bên trong tâm [...lặp lại...] bên ngoài tâm [...lặp lại...] Rồi tỳ kheo ấy hài lòng, vui mừng đón nhận lời Thế Tôn nói, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh bên phải rồi rời đi.
 
@@ -74,11 +74,11 @@ Kinh thứ ba.
 
 Một thời Thế Tôn trú ở Kosala, tại ngôi làng Bà-la-môn tên là Sālā. Tại đó, Thế Tôn gọi các tỳ kheo [...lặp lại...] và nói điều này:
 
-"Này các tỳ kheo, những tỳ kheo nào mới tu, vừa mới xuất gia, mới đến với *Điều dạy* và Luật này, các vị cần khích lệ, hướng dẫn và thiết lập những tỳ kheo ấy vào việc phát triển *bốn nơi chú tâm*. Bốn nơi nào? 'Đến đây, này các hiền giả, hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một* (nhất tâm / ekodibhūtā), tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* (như thật trí / yathābhūtaṁ ñāṇāya) về cơ thể; hãy sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về các cảm giác; hãy sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về tâm; hãy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về các *Điều*.'
+"Này các tỳ kheo, những tỳ kheo nào mới tu, vừa mới xuất gia, mới đến với *Điều dạy* và Luật này, các vị cần khích lệ, hướng dẫn và thiết lập những tỳ kheo ấy vào việc phát triển *bốn nơi chú tâm*. Bốn nơi nào? 'Đến đây, này các hiền giả, hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một* (nhất tâm / ekodibhūtā), tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* (như thật trí / yathābhūtaṁ ñāṇāya) về cơ thể; hãy sống *quan sát cảm thọ qua cảm thọ của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về các cảm thọ; hãy sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về tâm; hãy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *biết rõ đúng như sự thật* về các *Điều*.'
 
-Này các tỳ kheo, những tỳ kheo nào là bậc hữu học, chưa đạt đến đích tâm trí, đang sống mong cầu sự an ổn vô thượng khỏi các ách trói buộc, các vị ấy cũng sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* (liễu tri / pariññāya) về cơ thể; sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về các cảm giác; sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về tâm; sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về các *Điều*.
+Này các tỳ kheo, những tỳ kheo nào là bậc hữu học, chưa đạt đến đích tâm trí, đang sống mong cầu sự an ổn vô thượng khỏi các ách trói buộc, các vị ấy cũng sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* (liễu tri / pariññāya) về cơ thể; sống *quan sát cảm thọ qua cảm thọ của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về các cảm thọ; sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về tâm; sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, để *hiểu biết trọn vẹn* về các *Điều*.
 
-Này các tỳ kheo, những tỳ kheo nào là bậc A-la-hán, đã hết sạch *nguồn ác* (lậu hoặc / khīṇāsavā), đã sống trọn vẹn, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích tối hậu, đã phá hủy hoàn toàn các kiết sử của sự tồn tại, được giải thoát nhờ hiểu biết đúng đắn, các vị ấy cũng sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* (ly hệ / visaṁyuttā) khỏi cơ thể; sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi các cảm giác; sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi tâm; sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi các *Điều*.
+Này các tỳ kheo, những tỳ kheo nào là bậc A-la-hán, đã hết sạch *nguồn ác* (lậu hoặc / khīṇāsavā), đã sống trọn vẹn, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích tối hậu, đã phá hủy hoàn toàn các kiết sử của sự tồn tại, được giải thoát nhờ hiểu biết đúng đắn, các vị ấy cũng sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* (ly hệ / visaṁyuttā) khỏi cơ thể; sống *quan sát cảm thọ qua cảm thọ của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi các cảm thọ; sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi tâm; sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tâm hợp thành một*, tâm tĩnh lặng, tập trung, tâm chuyên nhất, *tách rời* khỏi các *Điều*.
 
 Này các tỳ kheo, những tỳ kheo nào mới tu, vừa mới xuất gia, mới đến với *Điều dạy* và Luật này, các vị cần khích lệ, hướng dẫn và thiết lập những tỳ kheo ấy vào việc phát triển *bốn nơi chú tâm* này."
 
@@ -95,7 +95,7 @@ Tại đó, Thế Tôn nói điều này:
 
 Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống thiện', người ấy nên nói về *bốn nơi chú tâm*. Kinh thứ năm.
 
-Này các tỳ kheo, toàn bộ đống thiện này chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống thiện', người ấy nên nói về *bốn nơi chú tâm* này. Này các tỳ kheo, toàn bộ đống thiện này chính là *bốn nơi chú tâm*."
+Này các tỳ kheo, toàn bộ đống thiện này chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống thiện', người ấy nên nói về *bốn nơi chú tâm* này. Này các tỳ kheo, toàn bộ đống thiện này chính là *bốn nơi chú tâm*."
 
 <!--pg-->
 ### 47.6 Kinh Chim Cắt (Sakuṇagghisutta)
@@ -124,7 +124,7 @@ Kinh thứ sáu.
 
 Này các tỳ kheo, đối với người đi trong lãnh địa của mình, vùng đất của tổ tiên, Ác ma sẽ không tìm được kẽ hở, Ác ma sẽ không tìm được đối tượng.
 
-Và này các tỳ kheo, lãnh địa của tỳ kheo, vùng đất của tổ tiên là gì? Đó chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...]
+Và này các tỳ kheo, lãnh địa của tỳ kheo, vùng đất của tổ tiên là gì? Đó chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...]
 
 <!--pg-->
 ### 47.7 Kinh Con Khỉ (Makkaṭasutta)
@@ -147,7 +147,7 @@ Kinh thứ bảy.
 
 Này các tỳ kheo, đối với người đi trong lãnh địa của mình, vùng đất của tổ tiên, Ác ma sẽ không tìm được kẽ hở, Ác ma sẽ không tìm được đối tượng.
 
-Và này các tỳ kheo, lãnh địa của tỳ kheo, vùng đất của tổ tiên là gì? Đó chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...]
+Và này các tỳ kheo, lãnh địa của tỳ kheo, vùng đất của tổ tiên là gì? Đó chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...]
 
 <!--pg-->
 ### 47.8 Kinh Người Đầu Bếp (Sūdasutta)*
@@ -160,7 +160,7 @@ Này các tỳ kheo, người đầu bếp ngu ngốc, không khéo léo, không
 
 Nguyên nhân là gì? Này các tỳ kheo, vì người đầu bếp ngu ngốc, không khéo léo, không giỏi giang đó không nắm bắt *dấu hiệu* của chủ mình.
 
-Cũng giống như vậy, này các tỳ kheo, ở đây có một tỳ kheo ngu ngốc, không khéo léo, không giỏi giang, sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm không tập trung, các *nhiễm bẩn* không bị từ bỏ. Vị ấy không nắm bắt *dấu hiệu* đó. Vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, tỳ kheo ngu ngốc, không khéo léo, không giỏi giang đó không đạt được trạng thái sống *hạnh phúc* (lạc / sukha) ngay trong hiện tại, không đạt được sự *tập trung chú ý* và *nhận biết rõ ràng*. Nguyên nhân là gì? Này các tỳ kheo, vì tỳ kheo ngu ngốc, không khéo léo, không giỏi giang đó không nắm bắt *dấu hiệu* của chính tâm mình.
+Cũng giống như vậy, này các tỳ kheo, ở đây có một tỳ kheo ngu ngốc, không khéo léo, không giỏi giang, sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm không tập trung, các *nhiễm bẩn* không bị từ bỏ. Vị ấy không nắm bắt *dấu hiệu* đó. Vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, tỳ kheo ngu ngốc, không khéo léo, không giỏi giang đó không đạt được trạng thái sống *hạnh phúc* (lạc / sukha) ngay trong hiện tại, không đạt được sự *tập trung chú ý* và *nhận biết rõ ràng*. Nguyên nhân là gì? Này các tỳ kheo, vì tỳ kheo ngu ngốc, không khéo léo, không giỏi giang đó không nắm bắt *dấu hiệu* của chính tâm mình.
 
 Này các tỳ kheo, giả sử có một người đầu bếp khôn ngoan, khéo léo, giỏi giang, phục vụ nhà vua hoặc đại thần của vua với nhiều loại món canh khác nhau—có vị chua, vị đắng, vị cay, vị ngọt, vị chát, vị không chát, vị mặn, vị không mặn.
 
@@ -170,7 +170,7 @@ Này các tỳ kheo, người đầu bếp khôn ngoan, khéo léo, giỏi giang
 
 Nguyên nhân là gì? Này các tỳ kheo, vì người đầu bếp khôn ngoan, khéo léo, giỏi giang đó nắm bắt *dấu hiệu* của chủ mình.
 
-Cũng giống như vậy, này các tỳ kheo, ở đây có một tỳ kheo khôn ngoan, khéo léo, giỏi giang, sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm được tập trung, các *nhiễm bẩn* bị từ bỏ. Vị ấy nắm bắt *dấu hiệu* đó. Vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, tỳ kheo khôn ngoan, khéo léo, giỏi giang đó đạt được trạng thái sống *hạnh phúc* ngay trong hiện tại, đạt được sự *tập trung chú ý* và *nhận biết rõ ràng*. Nguyên nhân là gì? Này các tỳ kheo, vì tỳ kheo khôn ngoan, khéo léo, giỏi giang đó nắm bắt *dấu hiệu* của chính tâm mình."
+Cũng giống như vậy, này các tỳ kheo, ở đây có một tỳ kheo khôn ngoan, khéo léo, giỏi giang, sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm được tập trung, các *nhiễm bẩn* bị từ bỏ. Vị ấy nắm bắt *dấu hiệu* đó. Vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, tỳ kheo khôn ngoan, khéo léo, giỏi giang đó đạt được trạng thái sống *hạnh phúc* ngay trong hiện tại, đạt được sự *tập trung chú ý* và *nhận biết rõ ràng*. Nguyên nhân là gì? Này các tỳ kheo, vì tỳ kheo khôn ngoan, khéo léo, giỏi giang đó nắm bắt *dấu hiệu* của chính tâm mình."
 
 Kinh thứ tám.
 
@@ -181,7 +181,7 @@ Tôi đã nghe như vầy—một thời Thế Tôn trú ở Vesāli, tại ngô
 
 "Vâng, bạch Thế Tôn," các tỳ kheo ấy vâng đáp Thế Tôn và đi an cư mùa mưa xung quanh Vesāli, tùy theo chỗ có bạn bè, người quen, người thân thiết. Còn Thế Tôn an cư mùa mưa ngay tại ngôi làng nhỏ Beḷuva.
 
-Rồi khi Thế Tôn đang an cư mùa mưa, một căn bệnh trầm trọng khởi lên, những cảm giác đau đớn dữ dội, gần như chết người xuất hiện. Tại đó, Thế Tôn *tập trung chú ý*, *nhận biết rõ ràng*, chịu đựng mà không bực dọc. Rồi Thế Tôn nghĩ như sau:
+Rồi khi Thế Tôn đang an cư mùa mưa, một căn bệnh trầm trọng khởi lên, những cảm thọ đau đớn dữ dội, gần như chết người xuất hiện. Tại đó, Thế Tôn *tập trung chú ý*, *nhận biết rõ ràng*, chịu đựng mà không bực dọc. Rồi Thế Tôn nghĩ như sau:
 
 "Thật không thích hợp nếu Ta viên tịch mà không báo cho những người thị giả, không từ biệt Tăng chúng. Hay là Ta dùng sức mạnh ý chí để đẩy lùi căn bệnh này, duy trì lực sống và tiếp tục sống." Rồi Thế Tôn dùng sức mạnh ý chí đẩy lùi căn bệnh đó, duy trì lực sống và tiếp tục sống. Sau đó, căn bệnh của Thế Tôn lắng dịu.
 
@@ -195,11 +195,11 @@ Này Ānanda, Ta đã thuyết giảng *Điều dạy* không phân biệt trong
 
 Này Ānanda, nếu ai nghĩ rằng: 'Ta sẽ lãnh đạo Tăng chúng' hoặc 'Tăng chúng phụ thuộc vào ta', thì người đó, này Ānanda, mới để lại lời dặn dò cho Tăng chúng. Này Ānanda, Như Lai không nghĩ rằng: 'Ta sẽ lãnh đạo Tăng chúng' hoặc 'Tăng chúng phụ thuộc vào ta'. Vậy thì, này Ānanda, tại sao Như Lai phải để lại lời dặn dò cho Tăng chúng?
 
-Bây giờ, này Ānanda, Ta đã già, đã lớn tuổi, đã đi đến chặng cuối, đã đến tuổi xế chiều. Này Ānanda, khi nào Như Lai không chú ý đến mọi *dấu hiệu*, làm ngưng một số cảm giác, đạt đến và an trú trong trạng thái tâm định không có *dấu hiệu*, thì lúc đó, này Ānanda, cơ thể của Như Lai được thoải mái hơn.
+Bây giờ, này Ānanda, Ta đã già, đã lớn tuổi, đã đi đến chặng cuối, đã đến tuổi xế chiều. Này Ānanda, khi nào Như Lai không chú ý đến mọi *dấu hiệu*, làm ngưng một số cảm thọ, đạt đến và an trú trong trạng thái tâm định không có *dấu hiệu*, thì lúc đó, này Ānanda, cơ thể của Như Lai được thoải mái hơn.
 
 Do vậy, này Ānanda, hãy sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác; lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-Và này Ānanda, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này Ānanda, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này Ānanda, là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
+Và này Ānanda, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này Ānanda, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này Ānanda, là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
 Này Ānanda, bất cứ ai, bây giờ hoặc sau khi Ta qua đời, sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác; những tỳ kheo đó, này Ānanda, sẽ là những người đứng đầu trong số những người khao khát học tập."
 
@@ -224,13 +224,13 @@ Bốn nơi nào? Ở đây, này Ānanda, tỳ kheo sống *quan sát cơ thể 
 
 Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, một đối tượng thuộc về cơ thể khởi lên, hoặc sự nóng nảy trong cơ thể, hoặc sự uể oải của tâm, hoặc tâm bị phân tán ra bên ngoài. Khi đó, này Ānanda, tỳ kheo nên hướng tâm vào một *dấu hiệu* gây cảm hứng nào đó. Khi hướng tâm vào một *dấu hiệu* gây cảm hứng nào đó, sự hân hoan sinh khởi. Khi có sự hân hoan, *hân hoan* (hỷ / pīti) sinh khởi. Khi tâm có *hân hoan*, cơ thể trở nên tĩnh lặng. Khi cơ thể tĩnh lặng, vị ấy cảm nhận *hạnh phúc* (lạc / sukha). Khi có *hạnh phúc*, tâm được tập trung. Vị ấy suy xét như sau: 'Mục đích mà ta hướng tâm đến đã đạt được. Bây giờ ta sẽ rút lui.' Vị ấy rút lui, không *chủ động hướng sự chú ý* (tầm / vitakka) và không *nỗ lực duy trì sự chú ý* (tứ / vicāra). Vị ấy biết rõ: 'Ta *không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, ta *tập trung chú ý* vào bên trong và ta đang *hạnh phúc*.'
 
-Lại nữa, này Ānanda, tỳ kheo sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] Khi có *hạnh phúc*, tâm được tập trung. Vị ấy suy xét như sau: 'Mục đích mà ta hướng tâm đến đã đạt được. Bây giờ ta sẽ rút lui.' Vị ấy rút lui, không *chủ động hướng sự chú ý* và không *nỗ lực duy trì sự chú ý*. Vị ấy biết rõ: 'Ta *không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, ta *tập trung chú ý* vào bên trong và ta đang *hạnh phúc*.' Như vậy, này Ānanda, là *sự rèn luyện có chủ đích* (hướng tâm tu tập / paṇidhāya bhāvanā).
+Lại nữa, này Ānanda, tỳ kheo sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] Khi có *hạnh phúc*, tâm được tập trung. Vị ấy suy xét như sau: 'Mục đích mà ta hướng tâm đến đã đạt được. Bây giờ ta sẽ rút lui.' Vị ấy rút lui, không *chủ động hướng sự chú ý* và không *nỗ lực duy trì sự chú ý*. Vị ấy biết rõ: 'Ta *không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, ta *tập trung chú ý* vào bên trong và ta đang *hạnh phúc*.' Như vậy, này Ānanda, là *sự rèn luyện có chủ đích* (hướng tâm tu tập / paṇidhāya bhāvanā).
 
 Vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát Điều dạy qua các Điều*, một đối tượng thuộc về các *Điều* khởi lên, hoặc sự nóng nảy trong cơ thể, hoặc sự uể oải của tâm, hoặc tâm bị phân tán ra bên ngoài. Khi đó, này Ānanda, tỳ kheo nên hướng tâm vào một *dấu hiệu* gây cảm hứng nào đó. Khi hướng tâm vào một *dấu hiệu* gây cảm hứng nào đó, sự hân hoan sinh khởi. Khi có sự hân hoan, *hân hoan* sinh khởi. Khi tâm có *hân hoan*, cơ thể trở nên tĩnh lặng. Khi cơ thể tĩnh lặng, vị ấy cảm nhận *hạnh phúc*.
 
 Và này Ānanda, thế nào là *sự rèn luyện không chủ đích* (vô hướng tâm tu tập / appaṇidhāya bhāvanā)? Này Ānanda, tỳ kheo không hướng tâm ra bên ngoài, vị ấy biết rõ: 'Tâm ta không hướng ra bên ngoài.' Rồi vị ấy biết rõ về trước và sau: 'Không bị thu hẹp, được giải thoát, không bị định hướng.' Rồi vị ấy biết rõ: 'Ta đang sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* và ta đang *hạnh phúc*.'
 
-Này Ānanda, tỳ kheo không hướng tâm ra bên ngoài, vị ấy biết rõ: 'Tâm ta không hướng ra bên ngoài.' Rồi vị ấy biết rõ về trước và sau: 'Không bị thu hẹp, được giải thoát, không bị định hướng.' Rồi vị ấy biết rõ: 'Ta đang sống *quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* và ta đang *hạnh phúc*.'
+Này Ānanda, tỳ kheo không hướng tâm ra bên ngoài, vị ấy biết rõ: 'Tâm ta không hướng ra bên ngoài.' Rồi vị ấy biết rõ về trước và sau: 'Không bị thu hẹp, được giải thoát, không bị định hướng.' Rồi vị ấy biết rõ: 'Ta đang sống *quan sát cảm thọ qua cảm thọ của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* và ta đang *hạnh phúc*.'
 
 Này Ānanda, tỳ kheo không hướng tâm ra bên ngoài, vị ấy biết rõ: 'Tâm ta không hướng ra bên ngoài.' Rồi vị ấy biết rõ về trước và sau: 'Không bị thu hẹp, được giải thoát, không bị định hướng.' Rồi vị ấy biết rõ: 'Ta đang sống *quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* và ta đang *hạnh phúc*.'
 
@@ -261,7 +261,7 @@ Rồi Tôn giả Sāriputta đi đến chỗ Thế Tôn; sau khi đến, đảnh
 
 Và này Sāriputta, thế nào là tâm được giải thoát?
 
-Ở đây, này Sāriputta, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm trở nên phai nhạt đắm nhiễm, được giải thoát không còn *sự bám giữ* (chấp thủ / upādāna) khỏi các *nguồn ác* (lậu hoặc / āsavehi). Vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát Điều dạy qua các Điều*, tâm trở nên phai nhạt đắm nhiễm, được giải thoát không còn *sự bám giữ* khỏi các *nguồn ác*. Như vậy, này Sāriputta, là tâm được giải thoát.
+Ở đây, này Sāriputta, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát cơ thể qua cơ thể của mình*, tâm trở nên phai nhạt đắm nhiễm, được giải thoát không còn *sự bám giữ* (chấp thủ / upādāna) khỏi các *nguồn ác* (lậu hoặc / āsavehi). Vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Khi vị ấy sống *quan sát Điều dạy qua các Điều*, tâm trở nên phai nhạt đắm nhiễm, được giải thoát không còn *sự bám giữ* khỏi các *nguồn ác*. Như vậy, này Sāriputta, là tâm được giải thoát.
 
 Này Sāriputta, vì tâm được giải thoát, Ta gọi là 'bậc đại nhân'. Vì tâm không được giải thoát, Ta gọi là 'không phải bậc đại nhân'."
 
@@ -327,7 +327,7 @@ Này Ānanda, làm sao có thể có chuyện đó ở đây. Bất cứ thứ g
 
 Do vậy, này Ānanda, hãy sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác; lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-Và này Ānanda, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này Ānanda, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Và này Ānanda, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này Ānanda, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Như vậy, này Ānanda, là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
@@ -354,7 +354,7 @@ Này các tỳ kheo, làm sao có thể có chuyện đó ở đây. Bất cứ 
 
 Do vậy, này các tỳ kheo, hãy sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác; lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
-Và này các tỳ kheo, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Và này các tỳ kheo, thế nào là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Như vậy, này các tỳ kheo, là tỳ kheo sống tự mình làm hòn đảo, tự mình làm nơi nương tựa, không nương tựa ai khác, lấy *Điều dạy* làm hòn đảo, lấy *Điều dạy* làm nơi nương tựa, không nương tựa gì khác.
 
@@ -373,7 +373,7 @@ Rồi Tôn giả Bāhiya đi đến chỗ Thế Tôn; sau khi đến, đảnh l�
 
 "Do vậy, này Bāhiya, trước tiên ông hãy làm cho trong sạch phần cốt lõi của *những điều thiện*. Cốt lõi của *những điều thiện* là gì? Đó là *lối sống đạo đức* thật trong sạch và *quan điểm* ngay thẳng. Này Bāhiya, khi nào *lối sống đạo đức* của ông thật trong sạch và *quan điểm* ngay thẳng, thì từ đó, này Bāhiya, nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông hãy phát triển *bốn nơi chú tâm*.
 
-Bốn nơi nào? Ở đây, này Bāhiya, ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Bāhiya, khi nào nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông phát triển *bốn nơi chú tâm* như vậy, thì này Bāhiya, dù đêm hay ngày trôi qua, ông chỉ có thể mong đợi sự tăng trưởng trong *những điều thiện*, không có sự suy thoái."
+Bốn nơi nào? Ở đây, này Bāhiya, ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Bāhiya, khi nào nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông phát triển *bốn nơi chú tâm* như vậy, thì này Bāhiya, dù đêm hay ngày trôi qua, ông chỉ có thể mong đợi sự tăng trưởng trong *những điều thiện*, không có sự suy thoái."
 
 Rồi Tôn giả Bāhiya hài lòng, vui mừng đón nhận lời Thế Tôn nói, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh bên phải rồi rời đi. Rồi Tôn giả Bāhiya sống một mình, rút lui, không sao nhãng, nhiệt tâm, quyết chí, và không bao lâu sau—mục đích vô thượng mà các thiện nam tử xuất gia từ bỏ gia đình sống không gia đình hướng tới—vị ấy đã tự mình *trực tiếp chứng nghiệm* bằng trí tuệ tối thắng ngay trong hiện tại, đạt đến và an trú trong *cốt lõi đời sống thánh thiện*.
 
@@ -390,7 +390,7 @@ Rồi Tôn giả Uttiya đi đến chỗ Thế Tôn [...lặp lại...] ngồi m
 
 "Do vậy, này Uttiya, trước tiên ông hãy làm cho trong sạch phần cốt lõi của *những điều thiện*. Cốt lõi của *những điều thiện* là gì? Đó là *lối sống đạo đức* thật trong sạch và *quan điểm* ngay thẳng. Này Uttiya, khi nào *lối sống đạo đức* của ông thật trong sạch và *quan điểm* ngay thẳng, thì từ đó, này Uttiya, nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông hãy phát triển *bốn nơi chú tâm*.
 
-Bốn nơi nào? Ở đây, này Uttiya, ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Uttiya, khi nào nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông phát triển *bốn nơi chú tâm* như vậy, thì này Uttiya, ông sẽ vượt qua bờ bên kia của cõi Chết."
+Bốn nơi nào? Ở đây, này Uttiya, ông hãy sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Uttiya, khi nào nương tựa vào *lối sống đạo đức*, đứng vững trên *lối sống đạo đức*, ông phát triển *bốn nơi chú tâm* như vậy, thì này Uttiya, ông sẽ vượt qua bờ bên kia của cõi Chết."
 
 Rồi Tôn giả Uttiya hài lòng, vui mừng đón nhận lời Thế Tôn nói, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh bên phải rồi rời đi. Rồi Tôn giả Uttiya sống một mình, rút lui, không sao nhãng, nhiệt tâm, quyết chí, và không bao lâu sau—mục đích vô thượng mà các thiện nam tử xuất gia từ bỏ gia đình sống không gia đình hướng tới—vị ấy đã tự mình *trực tiếp chứng nghiệm* bằng trí tuệ tối thắng ngay trong hiện tại, đạt đến và an trú trong *cốt lõi đời sống thánh thiện*.
 
@@ -403,7 +403,7 @@ Kinh thứ sáu.
 
 "Này các tỳ kheo, *bốn nơi chú tâm* này khi được phát triển, được thực hành nhiều lần, là thuộc về bậc thánh, dẫn đến sự thoát ly, dẫn người thực hành đến sự chấm dứt hoàn toàn *đau khổ*. Bốn nơi nào?
 
-Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, *bốn nơi chú tâm* này khi được phát triển, được thực hành nhiều lần, là thuộc về bậc thánh, dẫn đến sự thoát ly, dẫn người thực hành đến sự chấm dứt hoàn toàn *đau khổ*."
 
@@ -416,13 +416,13 @@ Một thời Thế Tôn trú ở Uruvelā, trên bờ sông Nerañjarā, dưới
 
 Rồi khi Thế Tôn đang ở một mình, rút lui, một suy nghĩ như sau khởi lên trong tâm: "Đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*.
 
-Bốn nơi nào? Tỳ kheo nên sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; tỳ kheo nên sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] tỳ kheo nên sống *quan sát tâm qua tâm của mình* [...lặp lại...] tỳ kheo nên sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*."
+Bốn nơi nào? Tỳ kheo nên sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; tỳ kheo nên sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] tỳ kheo nên sống *quan sát tâm qua tâm của mình* [...lặp lại...] tỳ kheo nên sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*."
 
 Rồi Phạm thiên Sahampati, dùng tâm mình thấu hiểu suy nghĩ trong tâm của Thế Tôn—giống như một người lực lưỡng duỗi cánh tay đang co lại, hoặc co cánh tay đang duỗi ra; cũng giống như vậy, vị ấy biến mất khỏi cõi Phạm thiên và xuất hiện trước mặt Thế Tôn. Rồi Phạm thiên Sahampati đắp y một bên vai, chắp tay hướng về phía Thế Tôn và nói với Thế Tôn điều này:
 
 "Đúng vậy, bạch Thế Tôn, đúng vậy, bạch Thiện Thệ. Bạch Thế Tôn, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*.
 
-Bốn nơi nào? Bạch Thế Tôn, tỳ kheo nên sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; bạch Thế Tôn, tỳ kheo nên sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] bạch Thế Tôn, tỳ kheo nên sống *quan sát tâm qua tâm của mình* [...lặp lại...] bạch Thế Tôn, tỳ kheo nên sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Bạch Thế Tôn, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*."
+Bốn nơi nào? Bạch Thế Tôn, tỳ kheo nên sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; bạch Thế Tôn, tỳ kheo nên sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] bạch Thế Tôn, tỳ kheo nên sống *quan sát tâm qua tâm của mình* [...lặp lại...] bạch Thế Tôn, tỳ kheo nên sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Bạch Thế Tôn, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, làm *tan biến* *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, để *trực tiếp chứng nghiệm* Niết-bàn, đó chính là *bốn nơi chú tâm*."
 
 Phạm thiên Sahampati nói điều này. Sau khi nói điều này, vị ấy lại nói thêm:
 
@@ -500,7 +500,7 @@ Tôi đã nghe như vầy—một thời Tôn giả Ānanda và Tôn giả Bhadd
 
 "Này hiền giả Bhadda, những *nền tảng đạo đức thiện* nào đã được Thế Tôn nói đến, những *nền tảng đạo đức thiện* này được Thế Tôn nói đến chỉ vì mục đích *luyện tập* (tu tập / bhāvanāya) *bốn nơi chú tâm* (tứ niệm xứ / catunnaṁ satipaṭṭhānānaṁ).
 
-Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā), *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* (ưu / domanassa) ở đời; đối với các *cảm giác* (thọ / vedanāsu) [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả Bhadda, những *nền tảng đạo đức thiện* nào đã được Thế Tôn nói đến, những *nền tảng đạo đức thiện* này được Thế Tôn nói đến chỉ vì mục đích *luyện tập* *bốn nơi chú tâm* này."
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), *tập trung chú ý* (chánh niệm / satimā), *loại bỏ* (nhiếp phục / vineyya) *lòng tham* (tham / abhijjhā) và *ưu phiền* (ưu / domanassa) ở đời; đối với các *cảm thọ* (thọ / vedanāsu) [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả Bhadda, những *nền tảng đạo đức thiện* nào đã được Thế Tôn nói đến, những *nền tảng đạo đức thiện* này được Thế Tôn nói đến chỉ vì mục đích *luyện tập* *bốn nơi chú tâm* này."
 
 Kinh thứ nhất.
 
@@ -517,7 +517,7 @@ Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Bhadda nói vớ
 
 "Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*.
 
-Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*."
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*."
 
 Kinh thứ hai.
 
@@ -534,7 +534,7 @@ Một thời Tôn giả Ānanda và Tôn giả Bhadda trú tại Pāṭaliputta,
 
 "Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* mà dẫn đến sự *suy thoái* của *Điều dạy chân chính*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* mà dẫn đến sự không *suy thoái* của *Điều dạy chân chính*.
 
-Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà dẫn đến sự *suy thoái* của *Điều dạy chân chính*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà dẫn đến sự không *suy thoái* của *Điều dạy chân chính*."
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà dẫn đến sự *suy thoái* của *Điều dạy chân chính*. Và này hiền giả, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà dẫn đến sự không *suy thoái* của *Điều dạy chân chính*."
 
 Kinh thứ ba.
 
@@ -543,7 +543,7 @@ Kinh thứ ba.
 
 Bối cảnh ở Sāvatthi.
 
-"Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+"Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, đây là *bốn nơi chú tâm*."
 
@@ -558,7 +558,7 @@ Tôi đã nghe như vầy—một thời Thế Tôn trú tại Sāvatthi, trong 
 
 "Này Bà-la-môn, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này Bà-la-môn, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*.
 
-Bốn nơi nào? Ở đây, này Bà-la-môn, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Bà-la-môn, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này Bà-la-môn, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*."
+Bốn nơi nào? Ở đây, này Bà-la-môn, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này Bà-la-môn, chính do không *luyện tập*, không làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* không *tồn tại lâu dài*. Và này Bà-la-môn, chính do có *luyện tập*, có làm cho nhiều lên *bốn nơi chú tâm* này mà khi *Người Đến Như Vậy* đã viên tịch, *Điều dạy chân chính* *tồn tại lâu dài*."
 
 Khi được nói như vậy, Bà-la-môn ấy thưa với Thế Tôn: "Thật tuyệt vời, thưa tôn giả Gotama [...lặp lại...] xin tôn giả Gotama nhận tôi làm nam cư sĩ, từ nay cho đến mạng chung, tôi xin trọn đời quy y."
 
@@ -573,7 +573,7 @@ Một thời Tôn giả Sāriputta, Tôn giả Mahāmoggallāna và Tôn giả A
 
 "Này hiền giả, do *luyện tập* một phần *bốn nơi chú tâm* mà một người là *người đang học*.
 
-Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, do *luyện tập* một phần *bốn nơi chú tâm* này mà một người là *người đang học*."
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, do *luyện tập* một phần *bốn nơi chú tâm* này mà một người là *người đang học*."
 
 Kinh thứ sáu.
 
@@ -586,7 +586,7 @@ Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Sāriputta nói 
 
 "Này hiền giả, do *luyện tập* một cách trọn vẹn *bốn nơi chú tâm* mà một người là *người không còn phải học*.
 
-Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, do *luyện tập* một cách trọn vẹn *bốn nơi chú tâm* này mà một người là *người không còn phải học*."
+Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, do *luyện tập* một cách trọn vẹn *bốn nơi chú tâm* này mà một người là *người không còn phải học*."
 
 Kinh thứ bảy.
 
@@ -597,7 +597,7 @@ Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Sāriputta nói 
 
 "Này hiền giả, chính do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* mà tôi đạt được *sự hiểu biết toàn bộ vĩ đại*.
 
-Bốn nơi nào? Ở đây, này hiền giả, tôi *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* này mà tôi đạt được *sự hiểu biết toàn bộ vĩ đại*.
+Bốn nơi nào? Ở đây, này hiền giả, tôi *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này hiền giả, chính do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* này mà tôi đạt được *sự hiểu biết toàn bộ vĩ đại*.
 
 Và này hiền giả, chính do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* này mà tôi *hiểu toàn bộ* (thắng tri / abhijānāmī) một ngàn thế giới."
 
@@ -614,13 +614,13 @@ Tôn giả Ānanda nhận lời bằng sự im lặng.
 
 Rồi Tôn giả Ānanda, vào buổi sáng, đắp y, mang bát, đi đến nhà của cư sĩ Sirivaḍḍha; sau khi đến, ngài ngồi trên chỗ đã được soạn sẵn. Ngồi xuống, Tôn giả Ānanda nói với cư sĩ Sirivaḍḍha điều này:
 
-"Này cư sĩ, ông có chịu đựng được không, có duy trì được không, những *cảm giác khó chịu* (thọ khổ / dukkhā vedanā) có giảm đi chứ không tăng lên không; sự thuyên giảm có rõ ràng chứ không phải sự gia tăng không?"
+"Này cư sĩ, ông có chịu đựng được không, có duy trì được không, những *cảm thọ khó chịu* (thọ khổ / dukkhā vedanā) có giảm đi chứ không tăng lên không; sự thuyên giảm có rõ ràng chứ không phải sự gia tăng không?"
 
-"Thưa Tôn giả, tôi không thể chịu đựng được, không thể duy trì được. Những *cảm giác khó chịu* của tôi đang tăng lên kịch liệt chứ không giảm đi; sự gia tăng rất rõ ràng chứ không phải sự thuyên giảm."
+"Thưa Tôn giả, tôi không thể chịu đựng được, không thể duy trì được. Những *cảm thọ khó chịu* của tôi đang tăng lên kịch liệt chứ không giảm đi; sự gia tăng rất rõ ràng chứ không phải sự thuyên giảm."
 
-"Vì vậy, này cư sĩ, ông cần phải học tập như sau: 'Tôi sẽ *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] tôi sẽ *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.' Này cư sĩ, ông cần phải học tập như vậy."
+"Vì vậy, này cư sĩ, ông cần phải học tập như sau: 'Tôi sẽ *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] tôi sẽ *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.' Này cư sĩ, ông cần phải học tập như vậy."
 
-"Thưa Tôn giả, *bốn nơi chú tâm* nào đã được Thế Tôn giảng dạy, những *Điều* ấy có mặt ở nơi tôi, và tôi được nhìn thấy trong những *Điều* ấy. Thưa Tôn giả, tôi *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] tôi *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Và thưa Tôn giả, năm *xiềng xích* (kiết sử / saṁyojanāni) bề dưới nào đã được Thế Tôn giảng dạy, tôi không thấy bất kỳ *xiềng xích* nào trong số đó chưa được *từ bỏ* (đoạn trừ / appahīnaṁ) nơi bản thân mình."
+"Thưa Tôn giả, *bốn nơi chú tâm* nào đã được Thế Tôn giảng dạy, những *Điều* ấy có mặt ở nơi tôi, và tôi được nhìn thấy trong những *Điều* ấy. Thưa Tôn giả, tôi *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] tôi *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Và thưa Tôn giả, năm *xiềng xích* (kiết sử / saṁyojanāni) bề dưới nào đã được Thế Tôn giảng dạy, tôi không thấy bất kỳ *xiềng xích* nào trong số đó chưa được *từ bỏ* (đoạn trừ / appahīnaṁ) nơi bản thân mình."
 
 "Thật là một lợi ích cho ông, này cư sĩ, ông đã khéo đạt được, này cư sĩ. *Quả vị Không quay trở lại* (A-na-hàm quả / Anāgāmiphalaṁ) đã được ông tuyên bố, này cư sĩ."
 
@@ -633,7 +633,7 @@ Cùng một bối cảnh. Lúc bấy giờ, cư sĩ Mānadinna bị bệnh, đau
 
 "Này anh, hãy đến... [...lặp lại...]
 
-Thưa Tôn giả, tôi không thể chịu đựng được, không thể duy trì được. Những *cảm giác khó chịu* của tôi đang tăng lên kịch liệt chứ không giảm đi; sự gia tăng rất rõ ràng chứ không phải sự thuyên giảm. Và thưa Tôn giả, dù bị xúc chạm bởi *cảm giác khó chịu* như vậy, tôi vẫn *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] tôi *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Và thưa Tôn giả, năm *xiềng xích* bề dưới nào đã được Thế Tôn giảng dạy, tôi không thấy bất kỳ *xiềng xích* nào trong số đó chưa được *từ bỏ* nơi bản thân mình."
+Thưa Tôn giả, tôi không thể chịu đựng được, không thể duy trì được. Những *cảm thọ khó chịu* của tôi đang tăng lên kịch liệt chứ không giảm đi; sự gia tăng rất rõ ràng chứ không phải sự thuyên giảm. Và thưa Tôn giả, dù bị xúc chạm bởi *cảm thọ khó chịu* như vậy, tôi vẫn *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] tôi *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Và thưa Tôn giả, năm *xiềng xích* bề dưới nào đã được Thế Tôn giảng dạy, tôi không thấy bất kỳ *xiềng xích* nào trong số đó chưa được *từ bỏ* nơi bản thân mình."
 
 "Thật là một lợi ích cho ông, này cư sĩ, ông đã khéo đạt được, này cư sĩ. *Quả vị Không quay trở lại* đã được ông tuyên bố, này cư sĩ."
 
@@ -653,7 +653,7 @@ Bối cảnh ở Sāvatthi.
 
 "Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* (minh / vijjā) sinh khởi, ánh sáng sinh khởi trong Ta: 'Đây là sự quan sát cơ thể qua cơ thể'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Sự quan sát cơ thể qua cơ thể này cần được *luyện tập*'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: '[Sự quan sát cơ thể qua cơ thể này] đã được *luyện tập*'.
 
-Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Đây là sự quan sát cảm giác qua các cảm giác'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Sự quan sát cảm giác qua các cảm giác này cần được *luyện tập*'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: '[Sự quan sát cảm giác qua các cảm giác này] đã được *luyện tập*'.
+Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Đây là sự quan sát cảm thọ qua các cảm thọ'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Sự quan sát cảm thọ qua các cảm thọ này cần được *luyện tập*'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: '[Sự quan sát cảm thọ qua các cảm thọ này] đã được *luyện tập*'.
 
 Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Đây là sự quan sát tâm qua tâm'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: 'Sự quan sát tâm qua tâm này cần được *luyện tập*'. Này các tỳ kheo, đối với những *Điều* chưa từng được nghe trước đây, con mắt sinh khởi, kiến thức sinh khởi, trí tuệ sinh khởi, *hiểu biết* sinh khởi, ánh sáng sinh khởi trong Ta: '[Sự quan sát tâm qua tâm này] đã được *luyện tập*'.
 
@@ -666,7 +666,7 @@ Kinh thứ nhất.
 
 "Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến sự chán ngán hoàn toàn, *cạn hết đắm nhiễm* (ly tham / virāgāya), *chấm dứt* (diệt / nirodhāya), *lắng dịu* (tịch tịnh / upasamāya), *hiểu toàn bộ* (thắng tri / abhiññāya), giác ngộ, Niết-bàn.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến sự chán ngán hoàn toàn, *cạn hết đắm nhiễm*, *chấm dứt*, *lắng dịu*, *hiểu toàn bộ*, giác ngộ, Niết-bàn."
 
@@ -677,7 +677,7 @@ Kinh thứ hai.
 
 "Này các tỳ kheo, đối với bất kỳ ai bỏ lỡ *bốn nơi chú tâm*, người đó bỏ lỡ con đường của bậc thánh dẫn đến sự *cạn kiệt* (đoạn tận / khaya) *đau khổ* (khổ / dukkha) một cách đúng đắn. Này các tỳ kheo, đối với bất kỳ ai bắt tay vào *bốn nơi chú tâm*, người đó bắt tay vào con đường của bậc thánh dẫn đến sự *cạn kiệt* *đau khổ* một cách đúng đắn.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, đối với bất kỳ ai bỏ lỡ *bốn nơi chú tâm* này, người đó bỏ lỡ con đường của bậc thánh dẫn đến sự *cạn kiệt* *đau khổ* một cách đúng đắn. Này các tỳ kheo, đối với bất kỳ ai bắt tay vào *bốn nơi chú tâm* này, người đó bắt tay vào con đường của bậc thánh dẫn đến sự *cạn kiệt* *đau khổ* một cách đúng đắn."
 
@@ -688,7 +688,7 @@ Kinh thứ ba.
 
 "Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia."
 
@@ -701,9 +701,9 @@ Bối cảnh ở Sāvatthi.
 
 "Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý* (chánh niệm / sato) và *nhận biết rõ ràng* (tỉnh giác / sampajāno). Đây là lời giáo huấn của Ta dành cho các vị.
 
-Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*.
+Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*.
 
-Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở đây, này các tỳ kheo, đối với tỳ kheo, các *cảm giác* được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến* (diệt / abbhatthaṁ). Các suy nghĩ (tầm / vitakkā) được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến*. Các *nhận thức* (tưởng / saññā) được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến*. Như vậy, này các tỳ kheo, là tỳ kheo *nhận biết rõ ràng*. Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý* và *nhận biết rõ ràng*. Đây là lời giáo huấn của Ta dành cho các vị."
+Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở đây, này các tỳ kheo, đối với tỳ kheo, các *cảm thọ* được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến* (diệt / abbhatthaṁ). Các suy nghĩ (tầm / vitakkā) được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến*. Các *nhận thức* (tưởng / saññā) được biết rõ khi chúng sinh khởi, được biết rõ khi chúng hiện hữu, được biết rõ khi chúng *tan biến*. Như vậy, này các tỳ kheo, là tỳ kheo *nhận biết rõ ràng*. Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý* và *nhận biết rõ ràng*. Đây là lời giáo huấn của Ta dành cho các vị."
 
 Kinh thứ năm.
 
@@ -712,7 +712,7 @@ Kinh thứ năm.
 
 "Này các tỳ kheo, có *bốn nơi chú tâm* này.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây là *bốn nơi chú tâm*.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây là *bốn nơi chú tâm*.
 
 Này các tỳ kheo, do *luyện tập*, do làm cho nhiều lên *bốn nơi chú tâm* này, một trong hai quả vị có thể được mong đợi—*hiểu biết trọn vẹn* (chánh trí / aññā) ngay trong hiện tại, hoặc nếu còn dư tàn bám giữ thì đạt *quả vị Không quay trở lại*."
 
@@ -723,7 +723,7 @@ Kinh thứ sáu.
 
 "Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cơ thể qua cơ thể của mình*, bất cứ *mong muốn* (dục / chando) nào đối với cơ thể, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* (bất tử / amataṁ) được *trực tiếp chứng nghiệm* (chứng ngộ / sacchikataṁ).
 
-Vị ấy *sống quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cảm giác qua cảm giác của mình*, bất cứ *mong muốn* nào đối với các *cảm giác*, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
+Vị ấy *sống quan sát cảm thọ qua cảm thọ của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cảm thọ qua cảm thọ của mình*, bất cứ *mong muốn* nào đối với các *cảm thọ*, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
 Vị ấy *sống quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát tâm qua tâm của mình*, bất cứ *mong muốn* nào đối với tâm, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
@@ -736,7 +736,7 @@ Kinh thứ bảy.
 
 "Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cơ thể qua cơ thể của mình*, cơ thể được *hiểu biết trọn vẹn* (liễu tri / pariññāto). Do cơ thể được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
-Vị ấy *sống quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cảm giác qua cảm giác của mình*, các *cảm giác* được *hiểu biết trọn vẹn*. Do các *cảm giác* được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
+Vị ấy *sống quan sát cảm thọ qua cảm thọ của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cảm thọ qua cảm thọ của mình*, các *cảm thọ* được *hiểu biết trọn vẹn*. Do các *cảm thọ* được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
 Vị ấy *sống quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát tâm qua tâm của mình*, tâm được *hiểu biết trọn vẹn*. Do tâm được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
@@ -749,7 +749,7 @@ Kinh thứ tám.
 
 "Này các tỳ kheo, Ta sẽ giảng dạy sự *luyện tập* *bốn nơi chú tâm*. Hãy lắng nghe điều đó.
 
-Và này các tỳ kheo, thế nào là sự *luyện tập* *bốn nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Và này các tỳ kheo, thế nào là sự *luyện tập* *bốn nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, đây là sự *luyện tập* *bốn nơi chú tâm*."
 
@@ -760,9 +760,9 @@ Kinh thứ chín.
 
 "Này các tỳ kheo, Ta sẽ giảng dạy cho các vị về *nơi chú tâm*, sự *luyện tập* *nơi chú tâm*, và con đường dẫn đến sự *luyện tập* *nơi chú tâm*. Hãy lắng nghe điều đó.
 
-Và này các tỳ kheo, thế nào là *nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; *sống quan sát cảm giác qua cảm giác của mình* [...lặp lại...] *sống quan sát tâm qua tâm của mình* [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây được gọi là *nơi chú tâm*.
+Và này các tỳ kheo, thế nào là *nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; *sống quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] *sống quan sát tâm qua tâm của mình* [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây được gọi là *nơi chú tâm*.
 
-Và này các tỳ kheo, thế nào là sự *luyện tập* *nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo sống quan sát *tính hình thành* (tập pháp / samudayadhamma) trong cơ thể, sống quan sát *tính hoại diệt* (diệt pháp / vayadhamma) trong cơ thể, sống quan sát cả *tính hình thành* và *tính hoại diệt* trong cơ thể, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Sống quan sát *tính hình thành* trong các *cảm giác* [...lặp lại...] sống quan sát *tính hình thành* trong tâm [...lặp lại...] sống quan sát *tính hình thành* trong các *Điều*, sống quan sát *tính hoại diệt* trong các *Điều*, sống quan sát cả *tính hình thành* và *tính hoại diệt* trong các *Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây được gọi là sự *luyện tập* *nơi chú tâm*.
+Và này các tỳ kheo, thế nào là sự *luyện tập* *nơi chú tâm*? Ở đây, này các tỳ kheo, tỳ kheo sống quan sát *tính hình thành* (tập pháp / samudayadhamma) trong cơ thể, sống quan sát *tính hoại diệt* (diệt pháp / vayadhamma) trong cơ thể, sống quan sát cả *tính hình thành* và *tính hoại diệt* trong cơ thể, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Sống quan sát *tính hình thành* trong các *cảm thọ* [...lặp lại...] sống quan sát *tính hình thành* trong tâm [...lặp lại...] sống quan sát *tính hình thành* trong các *Điều*, sống quan sát *tính hoại diệt* trong các *Điều*, sống quan sát cả *tính hình thành* và *tính hoại diệt* trong các *Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, đây được gọi là sự *luyện tập* *nơi chú tâm*.
 
 Và này các tỳ kheo, thế nào là con đường dẫn đến sự *luyện tập* *nơi chú tâm*? Đó chính là *Tám Bước Thiện* (Bát chánh đạo / ariyo aṭṭhaṅgiko maggo), cụ thể là—*Thấy Thiện* (Chánh kiến / sammādiṭṭhi), *Suy nghĩ Thiện* (Chánh tư duy / sammāsaṅkappo), *Lời nói Thiện* (Chánh ngữ / sammāvācā), *Hành động Thiện* (Chánh nghiệp / sammākammanto), *Đời sống Thiện* (Chánh mạng / sammāājīvo), *Nỗ lực Thiện* (Chánh tinh tấn / sammāvāyāmo), *Trí nhớ không quên Thiện* (Chánh niệm / sammāsati), *Định thiện* (Chánh định / sammāsamādhi). Này các tỳ kheo, đây được gọi là con đường dẫn đến sự *luyện tập* *nơi chú tâm*."
 
@@ -782,7 +782,7 @@ Bối cảnh ở Sāvatthi.
 
 "Này các tỳ kheo, hãy sống với tâm được thiết lập vững chắc trong *bốn nơi chú tâm*. Đừng để *cõi không chết* của các vị bị mất đi.
 
-Trong bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, hãy sống với tâm được thiết lập vững chắc trong *bốn nơi chú tâm* này. Đừng để *cõi không chết* của các vị bị mất đi."
+Trong bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, hãy sống với tâm được thiết lập vững chắc trong *bốn nơi chú tâm* này. Đừng để *cõi không chết* của các vị bị mất đi."
 
 Kinh thứ nhất.
 
@@ -793,7 +793,7 @@ Kinh thứ nhất.
 
 Và này các tỳ kheo, thế nào là sự hình thành của cơ thể? Với sự hình thành của *thức ăn* (đoàn thực / āhāra), cơ thể hình thành; với sự *chấm dứt* của *thức ăn*, cơ thể *tan biến*.
 
-Với sự hình thành của *Xúc* (xúc / phassa), các *cảm giác* hình thành; với sự *chấm dứt* của *Xúc*, các *cảm giác* *tan biến*.
+Với sự hình thành của *Xúc* (xúc / phassa), các *cảm thọ* hình thành; với sự *chấm dứt* của *Xúc*, các *cảm thọ* *tan biến*.
 
 Với sự hình thành của *Danh-sắc* (danh sắc / nāmarūpa), tâm hình thành; với sự *chấm dứt* của *Danh-sắc*, tâm *tan biến*.
 
@@ -808,11 +808,11 @@ Bối cảnh ở Sāvatthi.
 
 Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo, có một thời Ta đang trú tại Uruvelā, trên bờ sông Nerañjarā, dưới gốc cây banyan Ajapāla, khi vừa mới giác ngộ. Này các tỳ kheo, trong khi Ta đang ở một mình, tĩnh cư, một suy nghĩ như thế này đã khởi lên trong tâm: 'Đây là *con đường trực tiếp* (nhất hướng đạo / ekāyano maggo) để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.
 
-Bốn nơi nào? Tỳ kheo nên *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; hoặc tỳ kheo nên *sống quan sát cảm giác qua cảm giác của mình* [...lặp lại...] hoặc tỳ kheo nên *sống quan sát tâm qua tâm của mình* [...lặp lại...] hoặc tỳ kheo nên *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.'
+Bốn nơi nào? Tỳ kheo nên *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; hoặc tỳ kheo nên *sống quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] hoặc tỳ kheo nên *sống quan sát tâm qua tâm của mình* [...lặp lại...] hoặc tỳ kheo nên *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.'
 
 Rồi này các tỳ kheo, Phạm thiên Sahampati, biết được suy nghĩ trong tâm Ta bằng tâm của mình—giống như một người lực lưỡng có thể co lại cánh tay đang duỗi ra, hoặc duỗi ra cánh tay đang co lại; cũng vậy—đã biến mất khỏi cõi Phạm thiên và xuất hiện trước mặt Ta. Rồi này các tỳ kheo, Phạm thiên Sahampati đắp y hở một bên vai, chắp tay hướng về phía Ta và nói điều này: 'Đúng vậy, thưa Thế Tôn; đúng vậy, thưa Thiện Thệ. Thưa Tôn giả, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.
 
-Bốn nơi nào? Thưa Tôn giả, tỳ kheo nên *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; hoặc đối với các *cảm giác* [...lặp lại...] hoặc đối với tâm [...lặp lại...] hoặc thưa Tôn giả, tỳ kheo nên *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Thưa Tôn giả, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.'
+Bốn nơi nào? Thưa Tôn giả, tỳ kheo nên *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; hoặc đối với các *cảm thọ* [...lặp lại...] hoặc đối với tâm [...lặp lại...] hoặc thưa Tôn giả, tỳ kheo nên *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Thưa Tôn giả, đây là *con đường trực tiếp* để thanh lọc chúng sinh, vượt qua sầu não và than khóc, chấm dứt *đau khổ* và *ưu phiền*, đạt được phương pháp đúng đắn, *trực tiếp chứng nghiệm* Niết-bàn, đó chính là—*bốn nơi chú tâm*.'
 
 Này các tỳ kheo, Phạm thiên Sahampati đã nói điều này. Sau khi nói điều này, vị ấy lại nói thêm:
 
@@ -828,7 +828,7 @@ Kinh thứ ba.
 
 "Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý*. Đây là lời giáo huấn của Ta dành cho các vị.
 
-Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*. Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý*."
+Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *tập trung chú ý*. Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý*."
 
 Kinh thứ tư.
 
@@ -837,7 +837,7 @@ Kinh thứ tư.
 
 "Này các tỳ kheo, khi nói 'Đống *điều thiện* (thiện uẩn / kusalarāsi)', người nói đúng đắn sẽ nói về *bốn nơi chú tâm*. Này các tỳ kheo, đây là toàn bộ đống *điều thiện*, đó chính là—*bốn nơi chú tâm*.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, khi nói 'Đống *điều thiện*', người nói đúng đắn sẽ nói về *bốn nơi chú tâm* này. Này các tỳ kheo, đây là toàn bộ đống *điều thiện*, đó chính là—*bốn nơi chú tâm*."
 
@@ -852,7 +852,7 @@ Rồi một tỳ kheo đi đến chỗ Thế Tôn... [...lặp lại...] ngồi 
 
 "Vì vậy, này tỳ kheo, ông hãy làm trong sạch phần khởi đầu trong các *điều thiện*. Và thế nào là phần khởi đầu của các *điều thiện*? Ở đây, này tỳ kheo, ông hãy sống *được bảo vệ bởi giới luật Pātimokkha* (Ba-la-đề-mộc-xoa thu thúc giới / pātimokkhasaṁvarasaṁvuto), có *cách cư xử đúng đắn* (oai nghi chánh hạnh / ācāragocarasampanno), *thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt* (kiến úy ư vi tế tội / aṇumattesu vajjesu bhayadassāvī), *rèn luyện và học tập theo các điều học* (thọ trì học tập các học giới / samādāya sikkhassu sikkhāpadesu). Này tỳ kheo, khi nào ông sống *được bảo vệ bởi giới luật Pātimokkha*, có *cách cư xử đúng đắn*, *thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt*, *rèn luyện và học tập theo các điều học*; thì từ đó, này tỳ kheo, nương tựa vào giới, thiết lập vững chắc trên giới, ông hãy *luyện tập* *bốn nơi chú tâm*.
 
-Bốn nơi nào? Ở đây, này tỳ kheo, ông hãy *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này tỳ kheo, ông hãy *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này tỳ kheo, khi nào ông nương tựa vào giới, thiết lập vững chắc trên giới và *luyện tập* *bốn nơi chú tâm* này như vậy, thì đối với ông, này tỳ kheo, dù đêm hay ngày trôi qua, chỉ có thể mong đợi sự tăng trưởng trong các *điều thiện*, không có sự *suy thoái*."
 
@@ -873,7 +873,7 @@ Rồi một tỳ kheo đi đến chỗ Thế Tôn... [...lặp lại...]
 
 "Vì vậy, này tỳ kheo, ông hãy làm trong sạch phần khởi đầu trong các *điều thiện*. Và thế nào là phần khởi đầu của các *điều thiện*? Ở đây, này tỳ kheo, sau khi *từ bỏ* (đoạn trừ / pahāya) hành vi sai trái của cơ thể, ông hãy *luyện tập* hành vi tốt đẹp của cơ thể. Sau khi *từ bỏ* lời nói sai trái, ông hãy *luyện tập* lời nói tốt đẹp. Sau khi *từ bỏ* suy nghĩ sai trái, ông hãy *luyện tập* suy nghĩ tốt đẹp. Này tỳ kheo, khi nào ông *từ bỏ* hành vi sai trái của cơ thể và *luyện tập* hành vi tốt đẹp của cơ thể, *từ bỏ* lời nói sai trái và *luyện tập* lời nói tốt đẹp, *từ bỏ* suy nghĩ sai trái và *luyện tập* suy nghĩ tốt đẹp; thì từ đó, này tỳ kheo, nương tựa vào giới, thiết lập vững chắc trên giới, ông hãy *luyện tập* *bốn nơi chú tâm*.
 
-Bốn nơi nào? Ở đây, này tỳ kheo, ông hãy *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này tỳ kheo, khi nào ông nương tựa vào giới, thiết lập vững chắc trên giới và *luyện tập* *bốn nơi chú tâm* này như vậy, thì đối với ông, này tỳ kheo, dù đêm hay ngày trôi qua, chỉ có thể mong đợi sự tăng trưởng trong các *điều thiện*, không có sự *suy thoái*." [...lặp lại...]
+Bốn nơi nào? Ở đây, này tỳ kheo, ông hãy *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này tỳ kheo, khi nào ông nương tựa vào giới, thiết lập vững chắc trên giới và *luyện tập* *bốn nơi chú tâm* này như vậy, thì đối với ông, này tỳ kheo, dù đêm hay ngày trôi qua, chỉ có thể mong đợi sự tăng trưởng trong các *điều thiện*, không có sự *suy thoái*." [...lặp lại...]
 
 Và tỳ kheo ấy đã trở thành một vị A-la-hán.
 
@@ -884,20 +884,20 @@ Kinh thứ bảy.
 
 "Này các tỳ kheo, những ai mà các vị thương tưởng, và những ai nghĩ rằng nên lắng nghe: bạn bè, đồng nghiệp, người thân, hay người cùng huyết thống; này các tỳ kheo, các vị cần khuyến khích, đưa vào, và thiết lập họ vững chắc trong sự *luyện tập* *bốn nơi chú tâm*.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, những ai mà các vị thương tưởng, và những ai nghĩ rằng nên lắng nghe: bạn bè, đồng nghiệp, người thân, hay người cùng huyết thống; này các tỳ kheo, các vị cần khuyến khích, đưa vào, và thiết lập họ vững chắc trong sự *luyện tập* *bốn nơi chú tâm* này."
 
 Kinh thứ tám.
 
 <!--pg-->
-### 47.49 Kinh Về Cảm Giác (Vedanāsutta)
+### 47.49 Kinh Về Cảm Thọ (Vedanāsutta)
 
-"Này các tỳ kheo, có ba *cảm giác* này. Ba *cảm giác* nào? *Cảm giác dễ chịu* (thọ lạc / sukhā vedanā), *cảm giác khó chịu* (thọ khổ / dukkhā vedanā), *cảm giác không dễ chịu không khó chịu* (bất khổ bất lạc thọ / adukkhamasukhā vedanā)—này các tỳ kheo, đây là ba *cảm giác*. Này các tỳ kheo, để *hiểu biết trọn vẹn* ba *cảm giác* này, *bốn nơi chú tâm* cần được *luyện tập*.
+"Này các tỳ kheo, có ba *cảm thọ* này. Ba *cảm thọ* nào? *Cảm Thọ dễ chịu* (thọ lạc / sukhā vedanā), *cảm thọ khó chịu* (thọ khổ / dukkhā vedanā), *cảm thọ không dễ chịu không khó chịu* (bất khổ bất lạc thọ / adukkhamasukhā vedanā)—này các tỳ kheo, đây là ba *cảm thọ*. Này các tỳ kheo, để *hiểu biết trọn vẹn* ba *cảm thọ* này, *bốn nơi chú tâm* cần được *luyện tập*.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
-Này các tỳ kheo, để *hiểu biết trọn vẹn* ba *cảm giác* này, *bốn nơi chú tâm* này cần được *luyện tập*."
+Này các tỳ kheo, để *hiểu biết trọn vẹn* ba *cảm thọ* này, *bốn nơi chú tâm* này cần được *luyện tập*."
 
 Kinh thứ chín.
 
@@ -908,7 +908,7 @@ Kinh thứ chín.
 
 Này các tỳ kheo, để *từ bỏ* ba *nguồn ác* này, *bốn nơi chú tâm* cần được *luyện tập*.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, để *từ bỏ* ba *nguồn ác* này, *bốn nơi chú tâm* này cần được *luyện tập*."
 
@@ -919,14 +919,14 @@ Tóm tắt phẩm:
 > Cõi không chết, Sự hình thành, Con đường,
 > Chú ý, và Đống điều thiện;
 > Pātimokkha, Hành vi sai trái,
-> Bạn bè, Cảm giác, cùng Nguồn ác.
+> Bạn bè, Cảm Thọ, cùng Nguồn ác.
 
 <!--pg-->
 ### 47.51-62 Mười Hai Kinh Bắt Đầu Bằng Sông Hằng (Gaṅgānadīādisuttadvādasaka)
 
 "Giống như, này các tỳ kheo, sông Hằng chảy về hướng Đông, hướng về hướng Đông, đổ về hướng Đông; cũng vậy, này các tỳ kheo, tỳ kheo *luyện tập* *bốn nơi chú tâm*, làm cho nhiều lên *bốn nơi chú tâm*, thì chảy về Niết-bàn, hướng về Niết-bàn, đổ về Niết-bàn.
 
-Và này các tỳ kheo, thế nào là tỳ kheo *luyện tập* *bốn nơi chú tâm*, làm cho nhiều lên *bốn nơi chú tâm*, thì chảy về Niết-bàn, hướng về Niết-bàn, đổ về Niết-bàn? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Và này các tỳ kheo, thế nào là tỳ kheo *luyện tập* *bốn nơi chú tâm*, làm cho nhiều lên *bốn nơi chú tâm*, thì chảy về Niết-bàn, hướng về Niết-bàn, đổ về Niết-bàn? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Như vậy, này các tỳ kheo, là tỳ kheo *luyện tập* *bốn nơi chú tâm*, làm cho nhiều lên *bốn nơi chú tâm*, thì chảy về Niết-bàn, hướng về Niết-bàn, đổ về Niết-bàn." [Cần được khai triển chi tiết].
 
@@ -979,7 +979,7 @@ Tóm tắt phẩm:
 > Tìm kiếm, Kiêu mạn, Nguồn ác,
 > Tồn tại, và Ba đau khổ;
 > Cứng nhắc, Cấu uế, và Khổ não,
-> Cảm giác, Mong muốn, cùng Khát ái.
+> Cảm Thọ, Mong muốn, cùng Khát ái.
 
 <!--pg-->
 ### 47.95-104 Các Kinh Bắt Đầu Bằng Xiềng Xích Bề Trên (Uddhambhāgiyādisutta)
@@ -988,7 +988,7 @@ Tóm tắt phẩm:
 
 Này các tỳ kheo, để *hiểu toàn bộ*, để *hiểu biết trọn vẹn*, để *cạn kiệt* hoàn toàn, để *từ bỏ* năm *xiềng xích bề trên* này, *bốn nơi chú tâm* cần được *luyện tập*.
 
-Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm giác* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
+Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời; đối với các *cảm thọ* [...lặp lại...] đối với tâm [...lặp lại...] *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
 
 Này các tỳ kheo, để *hiểu toàn bộ*, để *hiểu biết trọn vẹn*, để *cạn kiệt* hoàn toàn, để *từ bỏ* năm *xiềng xích bề trên* này, *bốn nơi chú tâm* này cần được *luyện tập*."
 

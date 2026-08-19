@@ -168,7 +168,7 @@ Bạch Thế Tôn, Phạm thiên Sanaṅkumāra đã nói ý nghĩa này. Sau kh
 
 Ở đây, thưa các ngài, vị tỳ kheo *quan sát Cơ thể qua Cơ thể của mình* (quán thân trên thân / kāye kāyānupassī) ở bên trong, nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), có *Tự Quan Sát* (chánh niệm / satimā), loại bỏ *lòng tham* (ái dục / abhijjhā) và *ưu phiền* (ưu / domanassa) ở đời. Trong khi *quan sát Cơ thể qua Cơ thể của mình* ở bên trong, vị ấy đạt được *Định* (samādhi) đúng đắn, trở nên hoàn toàn trong sáng. Nhờ đạt được *Định* đúng đắn và hoàn toàn trong sáng ở đó, vị ấy làm phát sinh tri kiến về cơ thể của người khác ở bên ngoài.
 
-Vị ấy *quan sát Cảm Giác qua Cảm Giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī) ở bên trong... làm phát sinh tri kiến về cảm giác của người khác ở bên ngoài.
+Vị ấy *quan sát Cảm Thọ qua Cảm Thọ của mình* (quán thọ trên thọ / vedanāsu vedanānupassī) ở bên trong... làm phát sinh tri kiến về cảm thọ của người khác ở bên ngoài.
 
 Vị ấy *quan sát Tâm qua Tâm của mình* (quán tâm trên tâm / citte cittānupassī) ở bên trong... làm phát sinh tri kiến về tâm của người khác ở bên ngoài.
 

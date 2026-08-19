@@ -103,29 +103,29 @@ Như vậy, vị ấy quan sát một phương diện cơ thể bên trong, hay 
 
 Này các Tỷ kheo, Tỷ kheo *quán thân trên thân* cũng là như vậy.
 
-## 2. Quan sát Cảm Giác
+## 2. Quan sát Cảm Thọ
 
-Và này các Tỷ kheo, thế nào là Tỷ kheo *quán thọ trên các thọ - quan sát thọ bằng thọ trên cơ thể của mình*? [871](/kinhtruongbo/sujato-vi/notes/22#871){.note} (meditate observing an aspect of feelings/ quan sát một phương diện cảm giác)
+Và này các Tỷ kheo, thế nào là Tỷ kheo *quán thọ trên các thọ - quan sát thọ bằng thọ trên cơ thể của mình*? [871](/kinhtruongbo/sujato-vi/notes/22#871){.note} (meditate observing an aspect of feelings/ quan sát một phương diện cảm thọ)
 
-Ở đây, này các Tỷ kheo, khi thấy một *cảm giác dễ chịu* (pleasant feeling / cảm giác thoải mái, vui thích), Tỷ kheo biết: 'Tôi có một cảm giác dễ chịu.' [872](/kinhtruongbo/sujato-vi/notes/22#872){.note}
+Ở đây, này các Tỷ kheo, khi thấy một *cảm thọ dễ chịu* (pleasant feeling / cảm thọ thoải mái, vui thích), Tỷ kheo biết: 'Tôi có một cảm thọ dễ chịu.' [872](/kinhtruongbo/sujato-vi/notes/22#872){.note}
 
-Khi thấy một *cảm giác khó chịu* (painful feeling / cảm giác đau đớn, không thoải mái), vị ấy biết: 'Tôi có một cảm giác khó chịu.'
+Khi thấy một *cảm thọ khó chịu* (painful feeling / cảm thọ đau đớn, không thoải mái), vị ấy biết: 'Tôi có một cảm thọ khó chịu.'
 
-Khi cảm giác một *cảm giác trung tính* (neutral feeling / cảm giác không dễ chịu cũng không khó chịu), vị ấy biết: 'Tôi có một cảm giác trung tính.'
+Khi cảm thọ một *cảm thọ trung tính* (neutral feeling / cảm thọ không dễ chịu cũng không khó chịu), vị ấy biết: 'Tôi có một cảm thọ trung tính.'
 
-Khi thấy một cảm giác dễ chịu *thuộc về vật chất* (of the flesh / liên quan đến thân thể, vật lý), vị ấy biết: 'Tôi có một cảm giác dễ chịu thuộc về vật chất.' [873](/kinhtruongbo/sujato-vi/notes/22#873){.note}
+Khi thấy một cảm thọ dễ chịu *thuộc về vật chất* (of the flesh / liên quan đến thân thể, vật lý), vị ấy biết: 'Tôi có một cảm thọ dễ chịu thuộc về vật chất.' [873](/kinhtruongbo/sujato-vi/notes/22#873){.note}
 
-Khi thấy một cảm giác dễ chịu *không thuộc về vật chất* (not of the flesh / không liên quan đến thân thể, thuộc về tinh thần), vị ấy biết: 'Tôi có một cảm giác dễ chịu không thuộc về vật chất.' [874](/kinhtruongbo/sujato-vi/notes/22#874){.note}
+Khi thấy một cảm thọ dễ chịu *không thuộc về vật chất* (not of the flesh / không liên quan đến thân thể, thuộc về tinh thần), vị ấy biết: 'Tôi có một cảm thọ dễ chịu không thuộc về vật chất.' [874](/kinhtruongbo/sujato-vi/notes/22#874){.note}
 
-Khi thấy một cảm giác khó chịu thuộc về vật chất, vị ấy biết: 'Tôi có một cảm giác khó chịu thuộc về vật chất.'
+Khi thấy một cảm thọ khó chịu thuộc về vật chất, vị ấy biết: 'Tôi có một cảm thọ khó chịu thuộc về vật chất.'
 
-Khi thấy một cảm giác khó chịu không thuộc về vật chất, vị ấy biết: 'Tôi có một cảm giác khó chịu không thuộc về vật chất.' [875](/kinhtruongbo/sujato-vi/notes/22#875){.note}
+Khi thấy một cảm thọ khó chịu không thuộc về vật chất, vị ấy biết: 'Tôi có một cảm thọ khó chịu không thuộc về vật chất.' [875](/kinhtruongbo/sujato-vi/notes/22#875){.note}
 
-Khi thấy một cảm giác trung tính thuộc về vật chất, vị ấy biết: 'Tôi có một cảm giác trung tính thuộc về vật chất.'
+Khi thấy một cảm thọ trung tính thuộc về vật chất, vị ấy biết: 'Tôi có một cảm thọ trung tính thuộc về vật chất.'
 
-Khi cảm giác một cảm giác trung tính không thuộc về vật chất, vị ấy biết: 'Tôi có một cảm giác trung tính không thuộc về vật chất.' [876](/kinhtruongbo/sujato-vi/notes/22#876){.note}
+Khi cảm thọ một cảm thọ trung tính không thuộc về vật chất, vị ấy biết: 'Tôi có một cảm thọ trung tính không thuộc về vật chất.' [876](/kinhtruongbo/sujato-vi/notes/22#876){.note}
 
-Như vậy, vị ấy quan sát một phương diện cảm giác bên trong, hay quan sát một phương diện cảm giác bên ngoài, hay cả ở trong và ngoài. Vị ấy quan sát hiện tượng cảm giác được sinh ra, hay quan sát hiện tượng cảm giác bị biến mất, hay quan sát hiện tượng cảm giác sinh-mât của cảm giác. *Chánh niệm* của vị ấy được thiết lập bằng sự nhận biết *cảm giác*, đủ cho sự phát sinh chánh trí, chánh niệm. Vị ấy sống tự tại, không phụ thuộc một vật gì trên đời.
+Như vậy, vị ấy quan sát một phương diện cảm thọ bên trong, hay quan sát một phương diện cảm thọ bên ngoài, hay cả ở trong và ngoài. Vị ấy quan sát hiện tượng cảm thọ được sinh ra, hay quan sát hiện tượng cảm thọ bị biến mất, hay quan sát hiện tượng cảm thọ sinh-mât của cảm thọ. *Chánh niệm* của vị ấy được thiết lập bằng sự nhận biết *cảm thọ*, đủ cho sự phát sinh chánh trí, chánh niệm. Vị ấy sống tự tại, không phụ thuộc một vật gì trên đời.
 
 Này các Tỷ kheo, Tỷ kheo quán thọ trên các cảm thọ là như vậy.
 
@@ -185,11 +185,11 @@ Này các Tỷ kheo, Tỷ kheo quán pháp trên các pháp đối với năm tr
 
 <!--pg-->
 ### 4.2. Thủ Uẩn
-> Uẩn là tập hợp. Con người được tạo từ 5 uẩn là cơ thể, cảm giác, nhận thức, hành động, thức (sắc, thọ, tưởng, hành, thức).
+> Uẩn là tập hợp. Con người được tạo từ 5 uẩn là cơ thể, cảm thọ, nhận thức, hành động, thức (sắc, thọ, tưởng, hành, thức).
 
 Lại nữa, Tỷ kheo quán pháp trên các pháp đối với năm *thủ uẩn* (grasping aggregates / tập hợp của năm thủ uẩn mà con người nghĩ là cái 'tôi'). Và này các Tỷ kheo, thế nào là Tỷ kheo quán pháp trên các pháp đối với năm thủ uẩn?
 
-Ở đây, Tỷ kheo quán: 'Đây là *sắc* (form / hình thể, vật chất), đây là nguồn gốc của sắc, đây là sự hoại tận của sắc (such is the origin of form, such is the ending of form). [883](/kinhtruongbo/sujato-vi/notes/22#883){.note} Đây là *thọ* (feeling / cảm giác), đây là nguồn gốc của thọ, đây là sự hoại tận của thọ. Đây là *nhận thức* (perceptions / *tưởng*, nhận biết-phân biệt và gắn nhãn), đây là nguồn gốc của nhận thức, đây là sự hoại tận của nhận thức. [884](/kinhtruongbo/sujato-vi/notes/22#884){.note} Đây là *hành* (choices / các hoạt động của ý chí, sự tạo tác), đây là nguồn gốc của hành, đây là sự hoại tận của hành. [885](/kinhtruongbo/sujato-vi/notes/22#885){.note} Đây là *thức* (consciousness / sự nhận biết của tâm), đây là nguồn gốc của thức, đây là sự hoại tận của thức.' Như vậy, vị ấy quán pháp trên các pháp ở nội phần ...
+Ở đây, Tỷ kheo quán: 'Đây là *sắc* (form / hình thể, vật chất), đây là nguồn gốc của sắc, đây là sự hoại tận của sắc (such is the origin of form, such is the ending of form). [883](/kinhtruongbo/sujato-vi/notes/22#883){.note} Đây là *thọ* (feeling / cảm thọ), đây là nguồn gốc của thọ, đây là sự hoại tận của thọ. Đây là *nhận thức* (perceptions / *tưởng*, nhận biết-phân biệt và gắn nhãn), đây là nguồn gốc của nhận thức, đây là sự hoại tận của nhận thức. [884](/kinhtruongbo/sujato-vi/notes/22#884){.note} Đây là *hành* (choices / các hoạt động của ý chí, sự tạo tác), đây là nguồn gốc của hành, đây là sự hoại tận của hành. [885](/kinhtruongbo/sujato-vi/notes/22#885){.note} Đây là *thức* (consciousness / sự nhận biết của tâm), đây là nguồn gốc của thức, đây là sự hoại tận của thức.' Như vậy, vị ấy quán pháp trên các pháp ở nội phần ...
 
 Này các Tỷ kheo, Tỷ kheo quán pháp trên các pháp đối với năm thủ uẩn là như vậy.
 
@@ -251,9 +251,9 @@ Và sầu là gì? Sự sầu muộn, buồn rầu, trạng thái sầu muộn, 
 
 Và bi là gì? Tiếng than, lời than, sự than khóc, sự than vãn, trạng thái than khóc và than vãn của người đã trải qua bất hạnh, đã nếm trải khổ đau. Đây được gọi là bi.
 
-Và khổ là gì? Nỗi đau thể xác, sự khó chịu về thể xác, cảm giác đau đớn, khó chịu sanh ra từ sự tiếp xúc của thân.[^894](/kinhtruongbo/sujato-vi/notes/22#894) Đây được gọi là khổ.
+Và khổ là gì? Nỗi đau thể xác, sự khó chịu về thể xác, cảm thọ đau đớn, khó chịu sanh ra từ sự tiếp xúc của thân.[^894](/kinhtruongbo/sujato-vi/notes/22#894) Đây được gọi là khổ.
 
-Và ưu là gì?[^895](/kinhtruongbo/sujato-vi/notes/22#895) Nỗi đau tinh thần, sự không hài lòng về tinh thần, cảm giác đau đớn, khó chịu sanh ra từ sự tiếp xúc của ý. Đây được gọi là ưu.
+Và ưu là gì?[^895](/kinhtruongbo/sujato-vi/notes/22#895) Nỗi đau tinh thần, sự không hài lòng về tinh thần, cảm thọ đau đớn, khó chịu sanh ra từ sự tiếp xúc của ý. Đây được gọi là ưu.
 
 Và não là gì? Sự căng thẳng, phiền não, trạng thái căng thẳng và phiền não của người đã trải qua bất hạnh, đã nếm trải khổ đau. Đây được gọi là não.
 
@@ -301,7 +301,7 @@ Nhận thức (perception / *Tưởng*) về các hình sắc ... [901](/kinhtru
 
 > *Chúng tôi viết lại theo tuần tự của bài kinh và thêm các chú giải theo sự hiểu biết của chúng tôi*\
 **I. Quá Trình Nhận Thức Nền Tảng (tức thời và tự động)**\
-1\. Nhãn (Eye/mắt):  Các cơ quan cảm giác (mắt, tai, mũi...) tiếp nhận kích thích vật lý và chuyển nó thành tín hiệu thần kinh, giống như ống kính máy ảnh  \
+1\. Nhãn (Eye/mắt):  Các cơ quan cảm thọ (mắt, tai, mũi...) tiếp nhận kích thích vật lý và chuyển nó thành tín hiệu thần kinh, giống như ống kính máy ảnh  \
 2\. Sắc (Stimulus/ kích thích): Đây là yếu tố vật lý khách quan bên ngoài. (Quả táo)\
 3\. Nhãn thức (Eye Consciousness/Ý thức của mắt): Tín hiệu được truyền đến các vùng xử lý sơ cấp trong não (ví dụ: vỏ não thị giác). Đây là lúc "ý thức" về sự tồn tại của tín hiệu hình thành. Là nhận biết thuần túy của não về quả táo đến não, tái hiện hình ảnh quả táo trong não, biết đơn thuần, không có cảm xúc. \
 4\. Nhãn xúc (Eye Contact): Não bộ tích hợp các thông tin: "tín hiệu này đến từ mắt" và "đây là một đối tượng thị giác". Một sự kiện nhận thức hoàn chỉnh được tạo ra: "việc nhìn thấy một vật thể". Là 'Sự kiện' hội tụ 3 thứ  Măt + Nhãn Căn+ Quả táo\
@@ -309,7 +309,7 @@ Nhận thức (perception / *Tưởng*) về các hình sắc ... [901](/kinhtru
 6\. Nhận thức(Perception/*Tưởng*): Nhận dạng & Gán nhãn Khái niệm. Vỏ não cấp cao hơn (như thùy thái dương) truy cập vào bộ nhớ để nhận dạng và đặt tên cho đối tượng:"Đây là quả táo đỏ".\
 **II. Củng cố Vòng Lặp Nhận Thức** \
 7\. Tư (Intention/Chủ ý): là ý định hay sự thôi thúc đi kèm với mọi hành động. Nó là "động lực" hướng tâm trí về một đối tượng. Dưới góc độ khoa học thần kinh, nó có thể tương ứng với hoạt động ở vỏ não trước trán (prefrontal cortex) liên quan đến việc ra quyết định và định hướng sự chú ý. Nó không chỉ là "muốn tìm sự vui vẻ" mà là sự thôi thúc hướng đến bất kỳ đối tượng nào (kể cả khó chịu).\
-8\. Ái (Craving / Thèm muốn): sự kích hoạt của hệ thống khen thưởng (reward system) trong não, đặc biệt là con đường dopamine. Khi "Thọ" (Feeling) ghi nhận một cảm giác dễ chịu, hệ thống này sẽ được kích hoạt. Nó tạo ra một tín hiệu mạnh mẽ: "Cái này thật tuyệt! Hãy làm lại! Hãy có được nó!". Đây không phải là một suy nghĩ có cấu trúc, mà là một cơn bốc đồng, một sự thôi thúc mang tính sinh học sâu sắc để tìm kiếm sự tồn tại hoặc lặp lại của trải nghiệm thú vị đó. Nó là gốc rễ của nghiện ngập.\
+8\. Ái (Craving / Thèm muốn): sự kích hoạt của hệ thống khen thưởng (reward system) trong não, đặc biệt là con đường dopamine. Khi "Thọ" (Feeling) ghi nhận một cảm thọ dễ chịu, hệ thống này sẽ được kích hoạt. Nó tạo ra một tín hiệu mạnh mẽ: "Cái này thật tuyệt! Hãy làm lại! Hãy có được nó!". Đây không phải là một suy nghĩ có cấu trúc, mà là một cơn bốc đồng, một sự thôi thúc mang tính sinh học sâu sắc để tìm kiếm sự tồn tại hoặc lặp lại của trải nghiệm thú vị đó. Nó là gốc rễ của nghiện ngập.\
 9\. Tầm (Thought / Khởi phát Dòng suy nghĩ): Tâm trí bắt đầu suy nghĩ có chủ đích về đối tượng: "Bông hoa này đẹp thật. Nó làm mình nhớ đến...". Đây là ý nghĩ đầu tiên nảy sinh, bám vào đối tượng của sự ham muốn.\
 10\. Tứ (Consideration / Duy trì & Xây dựng Dòng suy nghĩ): Dòng suy nghĩ ban đầu được duy trì, phát triển và đào sâu. Bạn bắt đầu lên kế hoạch, tưởng tượng, so sánh: "Mình nên trồng hoa hồng ở nhà. Trồng ở đâu nhỉ? Cần mua những gì? Nếu có nó thì khu vườn sẽ đẹp biết bao...". Đây là quá trình suy tư, nghiền ngẫm, làm cho sự bám chấp vào đối tượng trở nên sâu sắc hơn.\
 

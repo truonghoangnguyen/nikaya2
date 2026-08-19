@@ -293,7 +293,7 @@ Tại đó, Thế Tôn gọi các tỳ kheo:
 
 "Này các tỳ kheo, tỳ kheo hãy sống với *sự tự quan sát* (chánh niệm / sato) và *nhận biết rõ ràng* (tỉnh giác / sampajāno), đây là lời dạy của Ta dành cho các vị.
 
-Và này các tỳ kheo, thế nào là tỳ kheo *có sự tự quan sát*? Ở đây, này các tỳ kheo, tỳ kheo *quan sát Cơ thể qua Cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng*, *có sự tự quan sát*, loại bỏ *lòng tham* (ái dục / abhijjhā) và *ưu phiền* (ưu / domanassa) ở đời. Vị ấy *quan sát Cảm Giác qua Cảm Giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī)... *quan sát Tâm qua Tâm của mình* (quán tâm trên tâm / citte cittānupassī)... *quan sát quy-luật qua các-quy-luật* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *có sự tự quan sát*, loại bỏ *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *có sự tự quan sát*.
+Và này các tỳ kheo, thế nào là tỳ kheo *có sự tự quan sát*? Ở đây, này các tỳ kheo, tỳ kheo *quan sát Cơ thể qua Cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng*, *có sự tự quan sát*, loại bỏ *lòng tham* (ái dục / abhijjhā) và *ưu phiền* (ưu / domanassa) ở đời. Vị ấy *quan sát Cảm Thọ qua Cảm Thọ của mình* (quán thọ trên thọ / vedanāsu vedanānupassī)... *quan sát Tâm qua Tâm của mình* (quán tâm trên tâm / citte cittānupassī)... *quan sát quy-luật qua các-quy-luật* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *có sự tự quan sát*, loại bỏ *lòng tham* và *ưu phiền* ở đời. Như vậy, này các tỳ kheo, là tỳ kheo *có sự tự quan sát*.
 
 Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở đây, này các tỳ kheo, tỳ kheo khi bước tới bước lui đều *nhận biết rõ ràng*; khi nhìn thẳng nhìn quanh đều *nhận biết rõ ràng*; khi co tay duỗi tay đều *nhận biết rõ ràng*; khi mang y Tăng-già-lê, bình bát và y áo đều *nhận biết rõ ràng*; khi ăn, uống, nhai, nếm đều *nhận biết rõ ràng*; khi đại tiện tiểu tiện đều *nhận biết rõ ràng*; khi đi, đứng, ngồi, ngủ, thức, nói, im lặng đều *nhận biết rõ ràng*. Như vậy, này các tỳ kheo, là tỳ kheo *nhận biết rõ ràng*. Này các tỳ kheo, tỳ kheo hãy sống *có sự tự quan sát* và *nhận biết rõ ràng*, đây là lời dạy của Ta dành cho các vị."
 
@@ -353,7 +353,7 @@ Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo, các vị hã
 
 "Thưa vâng, bạch Thế Tôn," các tỳ kheo đáp lời Thế Tôn và đi an cư mùa mưa xung quanh Vesālī, tùy theo chỗ có bạn bè, người quen, người thân thiết. Còn Thế Tôn an cư mùa mưa ngay tại làng Veḷuva.
 
-Khi Thế Tôn đang an cư mùa mưa, một căn bệnh trầm trọng khởi lên, những *cảm giác khó chịu* (thọ khổ / dukkha-vedanā) dữ dội, gần như chết, xuất hiện. Thế Tôn với *sự tự quan sát* (sato) và *nhận biết rõ ràng* (sampajāno), chịu đựng chúng mà không phiền não. Rồi Thế Tôn suy nghĩ: "Thật không thích hợp nếu Ta đến *hoàn toàn chấm dứt* (parinibbāyeyyaṁ) mà không báo cho những người thị giả, không từ biệt đại chúng tỳ kheo. Hay là Ta hãy dùng nỗ lực để kìm hãm căn bệnh này, duy trì *hoạt động duy trì sự sống* (mạng hành / āyusaṅkhāra) và tiếp tục sống."
+Khi Thế Tôn đang an cư mùa mưa, một căn bệnh trầm trọng khởi lên, những *cảm thọ khó chịu* (thọ khổ / dukkha-vedanā) dữ dội, gần như chết, xuất hiện. Thế Tôn với *sự tự quan sát* (sato) và *nhận biết rõ ràng* (sampajāno), chịu đựng chúng mà không phiền não. Rồi Thế Tôn suy nghĩ: "Thật không thích hợp nếu Ta đến *hoàn toàn chấm dứt* (parinibbāyeyyaṁ) mà không báo cho những người thị giả, không từ biệt đại chúng tỳ kheo. Hay là Ta hãy dùng nỗ lực để kìm hãm căn bệnh này, duy trì *hoạt động duy trì sự sống* (mạng hành / āyusaṅkhāra) và tiếp tục sống."
 
 Rồi Thế Tôn dùng nỗ lực kìm hãm căn bệnh đó, duy trì *hoạt động duy trì sự sống* và tiếp tục sống. Rồi căn bệnh của Thế Tôn lắng dịu.
 
@@ -361,9 +361,9 @@ Rồi Thế Tôn, sau khi khỏi bệnh không lâu, bước ra khỏi chỗ ở
 
 "Này Ānanda, đại chúng tỳ kheo còn mong đợi gì ở Ta nữa? Này Ānanda, Ta đã giảng Pháp không phân biệt trong ngoài. Này Ānanda, đối với các Pháp, Như Lai không có 'nắm tay của vị đạo sư' (giấu giếm). Này Ānanda, ai nghĩ rằng: 'Ta sẽ lãnh đạo đại chúng tỳ kheo' hoặc 'Đại chúng tỳ kheo phụ thuộc vào ta', thì người đó mới cần để lại lời dặn dò cho đại chúng tỳ kheo. Này Ānanda, Như Lai không nghĩ rằng: 'Ta sẽ lãnh đạo đại chúng tỳ kheo' hoặc 'Đại chúng tỳ kheo phụ thuộc vào ta'. Vậy tại sao Như Lai lại phải để lại lời dặn dò cho đại chúng tỳ kheo?
 
-Này Ānanda, nay Ta đã già, đã lớn tuổi, đã đi qua nhiều năm tháng, đã đến tuổi xế chiều. Tuổi của Ta đã tám mươi. Này Ānanda, giống như một cỗ xe cũ kỹ phải nhờ những dây chằng buộc mới chạy được; cũng vậy, này Ānanda, cơ thể của Như Lai dường như phải nhờ những dây chằng buộc mới duy trì được. Này Ānanda, chỉ khi nào Như Lai không chú ý đến mọi hình tướng, *chấm dứt* (nirodha) một số cảm giác, đạt đến và an trú trong *Định trong trạng thái tâm không chạy theo hình dáng* (vô tướng tâm định), thì khi đó cơ thể của Như Lai mới được thoải mái.
+Này Ānanda, nay Ta đã già, đã lớn tuổi, đã đi qua nhiều năm tháng, đã đến tuổi xế chiều. Tuổi của Ta đã tám mươi. Này Ānanda, giống như một cỗ xe cũ kỹ phải nhờ những dây chằng buộc mới chạy được; cũng vậy, này Ānanda, cơ thể của Như Lai dường như phải nhờ những dây chằng buộc mới duy trì được. Này Ānanda, chỉ khi nào Như Lai không chú ý đến mọi hình tướng, *chấm dứt* (nirodha) một số cảm thọ, đạt đến và an trú trong *Định trong trạng thái tâm không chạy theo hình dáng* (vô tướng tâm định), thì khi đó cơ thể của Như Lai mới được thoải mái.
 
-Do đó, này Ānanda, hãy *tự làm hòn đảo cho chính mình* (tự làm ngọn đèn / attadīpā), *tự làm nơi nương tựa cho chính mình* (tự quy y / attasaraṇā), không nương tựa vào ai khác; *lấy Pháp làm hòn đảo* (dhammadīpā), lấy Pháp làm nơi nương tựa, không nương tựa vào ai khác. Và này Ānanda, thế nào là tỳ kheo *tự làm hòn đảo cho chính mình*, *tự làm nơi nương tựa cho chính mình*, không nương tựa vào ai khác; *lấy Pháp làm hòn đảo*, lấy Pháp làm nơi nương tựa, không nương tựa vào ai khác? Ở đây, này Ānanda, tỳ kheo *quan sát Cơ thể qua Cơ thể của mình* (kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (sampajāno), *có sự tự quan sát* (satimā), loại bỏ *lòng tham* (abhijjhā) và *ưu phiền* (domanassa) ở đời. *Quan sát Cảm Giác qua Cảm Giác của mình* (vedanāsu vedanānupassī)... *quan sát Tâm qua Tâm của mình* (citte cittānupassī)... *quan sát quy-luật qua các-quy-luật* (dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *có sự tự quan sát*, loại bỏ *lòng tham* và *ưu phiền* ở đời. Như vậy, này Ānanda, là tỳ kheo *tự làm hòn đảo cho chính mình*, *tự làm nơi nương tựa cho chính mình*, không nương tựa vào ai khác; *lấy Chân lý(Pháp) làm hòn đảo*, lấy Chân lý làm nơi nương tựa, không nương tựa vào ai khác.
+Do đó, này Ānanda, hãy *tự làm hòn đảo cho chính mình* (tự làm ngọn đèn / attadīpā), *tự làm nơi nương tựa cho chính mình* (tự quy y / attasaraṇā), không nương tựa vào ai khác; *lấy Pháp làm hòn đảo* (dhammadīpā), lấy Pháp làm nơi nương tựa, không nương tựa vào ai khác. Và này Ānanda, thế nào là tỳ kheo *tự làm hòn đảo cho chính mình*, *tự làm nơi nương tựa cho chính mình*, không nương tựa vào ai khác; *lấy Pháp làm hòn đảo*, lấy Pháp làm nơi nương tựa, không nương tựa vào ai khác? Ở đây, này Ānanda, tỳ kheo *quan sát Cơ thể qua Cơ thể của mình* (kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (sampajāno), *có sự tự quan sát* (satimā), loại bỏ *lòng tham* (abhijjhā) và *ưu phiền* (domanassa) ở đời. *Quan sát Cảm Thọ qua Cảm Thọ của mình* (vedanāsu vedanānupassī)... *quan sát Tâm qua Tâm của mình* (citte cittānupassī)... *quan sát quy-luật qua các-quy-luật* (dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *có sự tự quan sát*, loại bỏ *lòng tham* và *ưu phiền* ở đời. Như vậy, này Ānanda, là tỳ kheo *tự làm hòn đảo cho chính mình*, *tự làm nơi nương tựa cho chính mình*, không nương tựa vào ai khác; *lấy Chân lý(Pháp) làm hòn đảo*, lấy Chân lý làm nơi nương tựa, không nương tựa vào ai khác.
 
 Này Ānanda, hiện tại hay sau khi Ta qua đời, những ai *tự làm hòn đảo cho chính mình*, *tự làm nơi nương tựa cho chính mình*, không nương tựa vào ai khác; *lấy Chân lý làm hòn đảo*, lấy *Chân lý* làm nơi nương tựa, không nương tựa vào ai khác, những tỳ kheo đó sẽ là những người đứng đầu trong số những người mong muốn học tập."
 
@@ -501,7 +501,7 @@ Vượt qua hoàn toàn *cõi 'Cái Biết' là Vô Tận*, vị ấy đạt đ�
 
 Vượt qua hoàn toàn *cõi Không Có Vật Gì*, vị ấy đạt đến và an trú trong *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* (phi tưởng phi phi tưởng xứ / nevasaññānāsaññāyatana), đây là *sự giải thoát* thứ bảy.
 
-Vượt qua hoàn toàn *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*, vị ấy đạt đến và an trú trong *định làm ngưng Cảm giác và Nhận thức* (diệt thọ tưởng định / saññāvedayitanirodha), đây là *sự giải thoát* thứ tám.
+Vượt qua hoàn toàn *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*, vị ấy đạt đến và an trú trong *định làm ngưng Cảm Thọ và Nhận thức* (diệt thọ tưởng định / saññāvedayitanirodha), đây là *sự giải thoát* thứ tám.
 
 Này Ānanda, đây là tám *sự giải thoát*.
 
@@ -667,7 +667,7 @@ Rồi Thế Tôn gọi Cunda: "Này Cunda, *món sūkaramaddava* còn lại, hã
 
 (...)
 
-Rồi Thế Tôn, sau khi dùng bữa ăn của Cunda, một căn bệnh trầm trọng khởi lên, bệnh kiết lỵ ra máu, những *cảm giác khó chịu* (dukkha-vedanā) dữ dội, gần như chết, xuất hiện. Thế Tôn *có sự tự quan sát* (sato), *nhận biết rõ ràng* (sampajāno), chịu đựng chúng mà không bị phiền não. Rồi Thế Tôn gọi tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến Kusinārā."
+Rồi Thế Tôn, sau khi dùng bữa ăn của Cunda, một căn bệnh trầm trọng khởi lên, bệnh kiết lỵ ra máu, những *cảm thọ khó chịu* (dukkha-vedanā) dữ dội, gần như chết, xuất hiện. Thế Tôn *có sự tự quan sát* (sato), *nhận biết rõ ràng* (sampajāno), chịu đựng chúng mà không bị phiền não. Rồi Thế Tôn gọi tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến Kusinārā."
 
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn.
 
@@ -1018,12 +1018,12 @@ Sau đó, Thế Tôn nói với các tỳ-kheo: "Này các tỳ-kheo, ta khuyên
 <!--pg-->
 ## 36. Câu chuyện về sự chấm dứt hoàn toàn
 
-Khi ấy, Thế Tôn nhập vào tầng *Thiền-na* (Thiền / jhāna) thứ nhất; xuất khỏi tầng *Thiền-na* thứ nhất, ngài nhập vào tầng *Thiền-na* thứ hai; xuất khỏi tầng *Thiền-na* thứ hai, ngài nhập vào tầng *Thiền-na* thứ ba; xuất khỏi tầng *Thiền-na* thứ ba, ngài nhập vào tầng *Thiền-na* thứ tư; xuất khỏi tầng *Thiền-na* thứ tư, ngài nhập vào *cõi Không Gian là Vô Tận* (không vô biên xứ / ākāsānañcāyatana); xuất khỏi *cõi Không Gian là Vô Tận*, ngài nhập vào *cõi 'Cái Biết' là Vô Tận* (thức vô biên xứ / viññāṇañcāyatana); xuất khỏi *cõi 'Cái Biết' là Vô Tận*, ngài nhập vào *cõi Không Có Vật Gì* (vô sở hữu xứ / ākiñcaññāyatana); xuất khỏi *cõi Không Có Vật Gì*, ngài nhập vào *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* (phi tưởng phi phi tưởng xứ / nevasaññānāsaññāyatana); xuất khỏi *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*, ngài nhập vào *Định làm ngưng Cảm Giác và Nhận Thức* (diệt thọ tưởng định / saññāvedayitanirodha).
+Khi ấy, Thế Tôn nhập vào tầng *Thiền-na* (Thiền / jhāna) thứ nhất; xuất khỏi tầng *Thiền-na* thứ nhất, ngài nhập vào tầng *Thiền-na* thứ hai; xuất khỏi tầng *Thiền-na* thứ hai, ngài nhập vào tầng *Thiền-na* thứ ba; xuất khỏi tầng *Thiền-na* thứ ba, ngài nhập vào tầng *Thiền-na* thứ tư; xuất khỏi tầng *Thiền-na* thứ tư, ngài nhập vào *cõi Không Gian là Vô Tận* (không vô biên xứ / ākāsānañcāyatana); xuất khỏi *cõi Không Gian là Vô Tận*, ngài nhập vào *cõi 'Cái Biết' là Vô Tận* (thức vô biên xứ / viññāṇañcāyatana); xuất khỏi *cõi 'Cái Biết' là Vô Tận*, ngài nhập vào *cõi Không Có Vật Gì* (vô sở hữu xứ / ākiñcaññāyatana); xuất khỏi *cõi Không Có Vật Gì*, ngài nhập vào *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* (phi tưởng phi phi tưởng xứ / nevasaññānāsaññāyatana); xuất khỏi *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*, ngài nhập vào *Định làm ngưng Cảm Thọ và Nhận Thức* (diệt thọ tưởng định / saññāvedayitanirodha).
 
 Lúc đó, tôn giả Ānanda nói với tôn giả Anuruddha: "Thưa tôn giả Anuruddha, Thế Tôn đã *chấm dứt hoàn toàn* rồi."
-"Không, hiền giả Ānanda, Thế Tôn chưa *chấm dứt hoàn toàn*, ngài đang nhập vào *Định làm ngưng Cảm Giác và Nhận Thức*."
+"Không, hiền giả Ānanda, Thế Tôn chưa *chấm dứt hoàn toàn*, ngài đang nhập vào *Định làm ngưng Cảm Thọ và Nhận Thức*."
 
-Sau đó, Thế Tôn xuất khỏi *Định làm ngưng Cảm Giác và Nhận Thức*, nhập vào *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*; xuất khỏi đó, ngài nhập vào *cõi Không Có Vật Gì*; xuất khỏi đó, ngài nhập vào *cõi 'Cái Biết' là Vô Tận*; xuất khỏi đó, ngài nhập vào *cõi Không Gian là Vô Tận*; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ tư; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ ba; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ hai; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ nhất. Xuất khỏi tầng *Thiền-na* thứ nhất, ngài nhập vào tầng *Thiền-na* thứ hai; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ ba; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ tư. Ngay sau khi xuất khỏi tầng *Thiền-na* thứ tư, Thế Tôn *chấm dứt hoàn toàn*.
+Sau đó, Thế Tôn xuất khỏi *Định làm ngưng Cảm Thọ và Nhận Thức*, nhập vào *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*; xuất khỏi đó, ngài nhập vào *cõi Không Có Vật Gì*; xuất khỏi đó, ngài nhập vào *cõi 'Cái Biết' là Vô Tận*; xuất khỏi đó, ngài nhập vào *cõi Không Gian là Vô Tận*; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ tư; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ ba; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ hai; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ nhất. Xuất khỏi tầng *Thiền-na* thứ nhất, ngài nhập vào tầng *Thiền-na* thứ hai; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ ba; xuất khỏi đó, ngài nhập vào tầng *Thiền-na* thứ tư. Ngay sau khi xuất khỏi tầng *Thiền-na* thứ tư, Thế Tôn *chấm dứt hoàn toàn*.
 
 Cùng lúc Thế Tôn *chấm dứt hoàn toàn*, một trận động đất lớn xảy ra, đáng sợ, dựng tóc gáy. Trống trời vang lên.
 Cùng lúc Thế Tôn *chấm dứt hoàn toàn*, Phạm thiên Sahampati đọc bài kệ này:
@@ -1050,7 +1050,7 @@ Cùng lúc Thế Tôn *chấm dứt hoàn toàn*, tôn giả Anuruddha đọc nh
 > Bậc hiền triết đã qua đời.
 >
 > Với tâm trí không nao núng,\
-> Ngài chịu đựng mọi *Cảm Giác*.\
+> Ngài chịu đựng mọi *Cảm Thọ*.\
 > Như ngọn đèn tắt lịm,\
 > Tâm ngài đã hoàn toàn giải thoát."
 

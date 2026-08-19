@@ -24,7 +24,7 @@ nhận biết, phân biệt
 <!--pg-->
 4\. "Này hiền giả, người ta nói là '*Nhận Biết*, *Nhận Biết*' (thức/viññāṇa). Này hiền giả, do đâu mà được gọi là *Nhận Biết*?"
 
-"Này hiền giả, vì '*nhận biết [một điều] bằng sự phân biệt [với điều khác]* (thức tri / vijānāti (vi=tách ra, phân biệt; jānāti=biết, hiểu)), *nhận biết bằng sự phân biệt*', do đó được gọi là *Nhận Biết*. Và *nhận biết bằng phân biệt* điều gì? *Nhận biết bằng phân biệt* *cảm giác dễ chịu* (thọ lạc / sukha), *nhận biết bằng phân biệt* *cảm giác khó chịu* (thọ khổ / dukkha), *nhận biết bằng phân biệt* *cảm giác không dễ chịu không khó chịu* (bất lạc bất khổ / adukkhamasukha). Này hiền giả, vì '*nhận biết bằng phân biệt*, *nhận biết bằng phân biệt*', do đó được gọi là *Nhận Biết*."
+"Này hiền giả, vì '*nhận biết [một điều] bằng sự phân biệt [với điều khác]* (thức tri / vijānāti (vi=tách ra, phân biệt; jānāti=biết, hiểu)), *nhận biết bằng sự phân biệt*', do đó được gọi là *Nhận Biết*. Và *nhận biết bằng phân biệt* điều gì? *Nhận biết bằng phân biệt* *cảm thọ dễ chịu* (thọ lạc / sukha), *nhận biết bằng phân biệt* *cảm thọ khó chịu* (thọ khổ / dukkha), *nhận biết bằng phân biệt* *cảm thọ không dễ chịu không khó chịu* (bất lạc bất khổ / adukkhamasukha). Này hiền giả, vì '*nhận biết bằng phân biệt*, *nhận biết bằng phân biệt*', do đó được gọi là *Nhận Biết*."
 
 5\. "Này hiền giả, trí tuệ (paññā) và *Nhận Biết*—những điều này *hòa quyện* (câu hữu / saṁsaṭṭhā) hay *tách rời* (bất câu hữu / visaṁsaṭṭhā)? Và có thể nào *bóc tách* (phân tích / vinibbhujitvā), *bóc tách* những điều này để chỉ ra sự khác biệt của chúng không?"
 
@@ -35,9 +35,9 @@ nhận biết, phân biệt
 "Này hiền giả, trí tuệ và *Nhận Biết*—những điều này *hòa quyện* không *tách rời*, [thì] trí tuệ cần được luyện tập, *Nhận Biết* *cần được hiểu biết trọn vẹn* (liễu tri / pariññeyya). Đây là sự khác biệt giữa chúng."
 
 <!--pg-->
-7\. "Này hiền giả, người ta nói là '*Cảm Giác*, *Cảm Giác*' (thọ / vedanā). Này hiền giả, do đâu mà được gọi là *Cảm Giác*?"
+7\. "Này hiền giả, người ta nói là '*Cảm Thọ*, *Cảm Thọ*' (thọ / vedanā). Này hiền giả, do đâu mà được gọi là *Cảm Thọ*?"
 
-"Này hiền giả, vì '*cảm nhận* (thọ tri / vedeti), *cảm nhận*', do đó được gọi là *Cảm Giác*. Và *cảm nhận* điều gì? *cảm nhận* *cảm giác dễ chịu*, *cảm nhận* *cảm giác khó chịu*, *cảm nhận* *cảm giác không dễ chịu không khó chịu*. Này hiền giả, vì '*cảm nhận*, *cảm nhận*', do đó được gọi là *Cảm Giác*."
+"Này hiền giả, vì '*cảm nhận* (thọ tri / vedeti), *cảm nhận*', do đó được gọi là *Cảm Thọ*. Và *cảm nhận* điều gì? *cảm nhận* *cảm thọ dễ chịu*, *cảm nhận* *cảm thọ khó chịu*, *cảm nhận* *cảm thọ không dễ chịu không khó chịu*. Này hiền giả, vì '*cảm nhận*, *cảm nhận*', do đó được gọi là *Cảm Thọ*."
 
 <!--pg-->
 8\. "Này hiền giả, người ta nói là '*Nhận Thức*, *Nhận Thức*' (tưởng / saññā). Này hiền giả, do đâu mà được gọi là *Nhận Thức*?"
@@ -45,9 +45,9 @@ nhận biết, phân biệt
 "Này hiền giả, vì '*nhận biết bằng liên hệ tổng thể* (tưởng tri / sañjānāti (sañ=cùng nhau; jānāti=biết, hiểu / gộp các đặc điểm của một 'điều gì đó' lại để NHẬN RA nó là gì và GỌI TÊN nó)), *nhận biết bằng liên hệ tổng thể*', do đó được gọi là *Nhận Thức*. Và *nhận biết bằng liên hệ tổng thể* điều gì? *nhận biết bằng liên hệ tổng thể* màu xanh, *nhận biết bằng liên hệ tổng thể* màu vàng, *nhận biết bằng liên hệ tổng thể* màu đỏ, *nhận biết bằng liên hệ tổng thể* màu trắng. Này hiền giả, vì '*nhận biết bằng liên hệ tổng thể*, *nhận biết bằng liên hệ tổng thể*', do đó được gọi là *Nhận Thức*."
 
 
-9\. "Này hiền giả, *Cảm Giác*, *Nhận Thức* và *Nhận Biết* (thọ, tưởng, thức) —những điều này *hòa quyện* hay *tách rời*? Và có thể nào *bóc tách*, *bóc tách* những điều này để chỉ ra sự khác biệt của chúng không?"
+9\. "Này hiền giả, *Cảm Thọ*, *Nhận Thức* và *Nhận Biết* (thọ, tưởng, thức) —những điều này *hòa quyện* hay *tách rời*? Và có thể nào *bóc tách*, *bóc tách* những điều này để chỉ ra sự khác biệt của chúng không?"
 
-"Này hiền giả, *Cảm Giác*, *Nhận Thức* và *Nhận Biết*—những điều này *hòa quyện*, không *tách rời*. Và không thể *bóc tách*, *bóc tách* những điều này để chỉ ra sự khác biệt của chúng. Này hiền giả, điều gì người ta *cảm nhận*, điều đó người ta [cần] *nhận biết bằng liên hệ tổng thể*; điều gì người ta *nhận biết bằng liên hệ tổng thể*, điều đó người ta [cần] *nhận biết bằng phân biệt*. Do đó, những điều này *hòa quyện*, không *tách rời*. Và không thể *bóc tách*, *bóc tách* những điều này để chỉ ra sự khác biệt của chúng."
+"Này hiền giả, *Cảm Thọ*, *Nhận Thức* và *Nhận Biết*—những điều này *hòa quyện*, không *tách rời*. Và không thể *bóc tách*, *bóc tách* những điều này để chỉ ra sự khác biệt của chúng. Này hiền giả, điều gì người ta *cảm nhận*, điều đó người ta [cần] *nhận biết bằng liên hệ tổng thể*; điều gì người ta *nhận biết bằng liên hệ tổng thể*, điều đó người ta [cần] *nhận biết bằng phân biệt*. Do đó, những điều này *hòa quyện*, không *tách rời*. Và không thể *bóc tách*, *bóc tách* những điều này để chỉ ra sự khác biệt của chúng."
 
 <!--pg-->
 10\. "Này hiền giả, bằng *sự nhận biết ở trí não* (ý thức / manoviññāṇa) [đã] hoàn toàn trong sạch, *thoát khỏi* (xuất ly / nissaṭṭhena) *năm giác quan* (ngũ căn / pañcahi indriyehi), thì có thể nhận biết được điều gì?"
@@ -121,15 +121,15 @@ nhận biết, phân biệt
 <!--pg-->
 23\. "Này hiền giả, các *hoạt động duy trì mạng sống* (pháp thọ hành /āyusaṅkhārā) có phải chính là những *điều cảm nhận* (thọ pháp/vedaniyā dhammā), hay các *hoạt động duy trì mạng sống* là khác và những *điều cảm nhận* được là khác?"
 
-"Này hiền giả, các *hoạt động duy trì mạng sống* không phải là những *điều cảm nhận* được. Này hiền giả, nếu các *hoạt động duy trì mạng sống* là những *điều cảm nhận* được, thì sẽ không thể thấy sự xuất ra của một tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm giác* (diệt thọ tưởng định / saññāvedayitanirodha). Nhưng này hiền giả, vì *hoạt động duy trì mạng sống*  và những *Điều cảm nhận* được là khác, do đó mới có thể thấy sự xuất ra của một tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm giác*."
+"Này hiền giả, các *hoạt động duy trì mạng sống* không phải là những *điều cảm nhận* được. Này hiền giả, nếu các *hoạt động duy trì mạng sống* là những *điều cảm nhận* được, thì sẽ không thể thấy sự xuất ra của một tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm thọ* (diệt thọ tưởng định / saññāvedayitanirodha). Nhưng này hiền giả, vì *hoạt động duy trì mạng sống*  và những *Điều cảm nhận* được là khác, do đó mới có thể thấy sự xuất ra của một tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm thọ*."
 
 24\. "Này hiền giả, khi bao nhiêu *điều* rời bỏ thân này, thì thân này bị vứt bỏ, quăng đi, nằm đó như một khúc gỗ vô tri?"
 
 "Này hiền giả, khi ba *Điều* rời bỏ thân này: *mạng sống*, *hơi ấm* và *Nhận Biết*; thì thân này bị vứt bỏ, quăng đi, nằm đó như một khúc gỗ vô tri."
 
-25\. "Này hiền giả, đối với người đã chết, đã qua đời, và tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm giác*—giữa họ có sự khác biệt gì?"
+25\. "Này hiền giả, đối với người đã chết, đã qua đời, và tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm thọ*—giữa họ có sự khác biệt gì?"
 
-"Này hiền giả, đối với người đã chết, đã qua đời, các *hoạt động* của thân đã *chấm dứt*, đã *lắng dịu*; các *hoạt động* của ngôn ngữ đã *chấm dứt*, đã *lắng dịu*; các *hoạt động* của tâm đã *chấm dứt*, đã *lắng dịu*; *mạng sống* đã *cạn kiệt*, *hơi ấm* đã tiêu tan, các *giác quan* đã bị phá vỡ. Còn đối với tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm giác*, các *hoạt động* của thân đã *chấm dứt*, đã *lắng dịu*; các *hoạt động* của ngôn ngữ đã *chấm dứt*, đã *lắng dịu*; các *hoạt động* của tâm đã *chấm dứt*, đã *lắng dịu*; nhưng *mạng sống* chưa *cạn kiệt*, *hơi ấm* chưa tiêu tan, các *giác quan* vô cùng trong trẻo. Này hiền giả, đối với người đã chết, đã qua đời, và tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm giác*—đây là sự khác biệt giữa họ."
+"Này hiền giả, đối với người đã chết, đã qua đời, các *hoạt động* của thân đã *chấm dứt*, đã *lắng dịu*; các *hoạt động* của ngôn ngữ đã *chấm dứt*, đã *lắng dịu*; các *hoạt động* của tâm đã *chấm dứt*, đã *lắng dịu*; *mạng sống* đã *cạn kiệt*, *hơi ấm* đã tiêu tan, các *giác quan* đã bị phá vỡ. Còn đối với tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm thọ*, các *hoạt động* của thân đã *chấm dứt*, đã *lắng dịu*; các *hoạt động* của ngôn ngữ đã *chấm dứt*, đã *lắng dịu*; các *hoạt động* của tâm đã *chấm dứt*, đã *lắng dịu*; nhưng *mạng sống* chưa *cạn kiệt*, *hơi ấm* chưa tiêu tan, các *giác quan* vô cùng trong trẻo. Này hiền giả, đối với người đã chết, đã qua đời, và tỳ kheo đã nhập vào *định chấm dứt nhận thức và cảm thọ*—đây là sự khác biệt giữa họ."
 
 <!--pg-->
 26\. "Này hiền giả, có bao nhiêu *Điều kiện hỗ trợ* để đạt được *tâm được giải thoát* *không dễ chịu không khó chịu*?"

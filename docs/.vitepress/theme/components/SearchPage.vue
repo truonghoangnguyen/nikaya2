@@ -115,6 +115,7 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
+  clearTimeout(debounceTimer)
   window.removeEventListener('keydown', handleGlobalEscape)
 })
 

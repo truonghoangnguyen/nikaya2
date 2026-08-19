@@ -12,7 +12,7 @@ Sự khác biệt căn bản giữa một người có trí tuệ và người t
 
 **2. Chức năng cốt lõi của Thức, Thọ và Tưởng**
 Các tiến trình nhận thức trong tâm trí được định nghĩa trực tiếp qua hành động của chúng: Thức (viññāṇa) là khả năng phân biệt sự khác nhau; Thọ (vedanā) là sự cảm nhận trực tiếp; Tưởng (saññā) là khả năng gộp các đặc điểm lại để nhận dạng và gọi tên.
-> "vì 'nhận biết [một điều] bằng sự phân biệt [với điều khác]... do đó được gọi là Nhận Biết (Thức) ... vì 'cảm nhận, cảm nhận', do đó được gọi là Cảm Giác (Thọ) ... vì 'nhận biết bằng liên hệ tổng thể... do đó được gọi là Nhận Thức (Tưởng)."
+> "vì 'nhận biết [một điều] bằng sự phân biệt [với điều khác]... do đó được gọi là Nhận Biết (Thức) ... vì 'cảm nhận, cảm nhận', do đó được gọi là Cảm Thọ (Thọ) ... vì 'nhận biết bằng liên hệ tổng thể... do đó được gọi là Nhận Thức (Tưởng)."
 
 **3. Sự hòa quyện của các tiến trình nhận thức**
 Trí tuệ, Thức, Thọ và Tưởng không hoạt động độc lập như những cỗ máy riêng biệt mà đan xen, hòa quyện vào nhau trong cùng một khoảnh khắc. Không thể bóc tách chúng ra để phân tích độc lập. Tuy nhiên, về mặt thực hành, Trí tuệ là thứ cần được rèn luyện phát triển, còn Thức là thứ cần được quan sát để hiểu trọn vẹn.
@@ -39,8 +39,8 @@ Năm giác quan (mắt, tai, mũi, lưỡi, thân) hoạt động độc lập, 
 > "đối với năm giác quan có phạm vi khác nhau, đối tượng khác nhau... trí não (ý) là nơi nương tựa, và trí não trải nghiệm phạm vi và đối tượng của chúng... mạng sống dựa vào hơi ấm để tồn tại, hơi ấm dựa vào mạng sống để tồn tại."
 
 **9. Sự khác biệt giữa người chết và người nhập Diệt thọ tưởng định**
-Một người chết thì mạng sống cạn kiệt, thân nhiệt mất và các giác quan bị phá vỡ. Ngược lại, một thiền giả nhập vào định sâu (chấm dứt hoàn toàn nhận thức và cảm giác) thì các hoạt động của thân, ngôn ngữ và tâm trí dừng hẳn, nhưng mạng sống và thân nhiệt vẫn còn, các giác quan vẫn vô cùng trong trẻo.
-> "đối với người đã chết... mạng sống đã cạn kiệt, hơi ấm đã tiêu tan, các giác quan đã bị phá vỡ. Còn đối với tỳ kheo đã nhập vào định chấm dứt nhận thức và cảm giác... mạng sống chưa cạn kiệt, hơi ấm chưa tiêu tan, các giác quan vô cùng trong trẻo."
+Một người chết thì mạng sống cạn kiệt, thân nhiệt mất và các giác quan bị phá vỡ. Ngược lại, một thiền giả nhập vào định sâu (chấm dứt hoàn toàn nhận thức và cảm thọ) thì các hoạt động của thân, ngôn ngữ và tâm trí dừng hẳn, nhưng mạng sống và thân nhiệt vẫn còn, các giác quan vẫn vô cùng trong trẻo.
+> "đối với người đã chết... mạng sống đã cạn kiệt, hơi ấm đã tiêu tan, các giác quan đã bị phá vỡ. Còn đối với tỳ kheo đã nhập vào định chấm dứt nhận thức và cảm thọ... mạng sống chưa cạn kiệt, hơi ấm chưa tiêu tan, các giác quan vô cùng trong trẻo."
 
 **10. Bản chất cốt lõi của các trạng thái Tâm giải thoát**
 Các trạng thái tâm giải thoát (như tâm vô lượng, tâm vô sở hữu, tâm không, tâm vô tướng) có thể khác nhau về phương pháp thực hành và đối tượng tập trung. Tuy nhiên, xét về bản chất tối hậu, chúng đều chung một ý nghĩa: đó là trạng thái tâm bất động, hoàn toàn sạch bóng tham, sân, si. Bởi vì tham, sân, si chính là những thứ tạo ra giới hạn, tạo ra sự vướng bận và tạo ra hình tướng để tâm trí bám víu.
@@ -91,7 +91,7 @@ Tu tập bốn phạm trú [nơi ở của các vị thần] (từ, bi, hỷ, x�
 | vinibbhujitvā | phân tích | bóc tách | |
 | āyu | thọ mạng | mạng sống | |
 | usmā | noãn | thân nhiệt | |
-| saññāvedayitanirodha | diệt thọ tưởng định | sự chấm dứt nhận thức và cảm giác | |
+| saññāvedayitanirodha | diệt thọ tưởng định | sự chấm dứt nhận thức và cảm thọ | |
 | cetovimutti | tâm giải thoát | sự giải thoát của tâm | |
 | [!] pamāṇakaraṇo | tác lượng | tạo ra giới hạn | |
 | [!] kiñcano | tác vô sở hữu | tạo ra sự vướng bận | |

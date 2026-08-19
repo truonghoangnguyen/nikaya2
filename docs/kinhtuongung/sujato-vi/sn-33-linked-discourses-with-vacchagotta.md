@@ -12,7 +12,7 @@ Một thời Đức Phật trú tại Xá-vệ, trong Rừng Jeta, tu viện c�
 "Này Vaccha, chính vì không biết về *sắc* (form / *sắc* / hình thức vật chất), sự sinh khởi của nó, sự đoạn diệt của nó, và con đường thực hành đưa đến sự đoạn diệt của nó mà các loại tà kiến này phát sinh trên thế gian. Đây là nguyên nhân, đây là lý do."
 
 <!--pg-->
-### SN 33.2 Không Biết về Cảm Giác *Vedanāaññāṇasutta*
+### SN 33.2 Không Biết về Cảm Thọ *Vedanāaññāṇasutta*
 
 Tại Xá-vệ.
 
@@ -20,7 +20,7 @@ Khi ấy, du sĩ Vacchagotta thưa với Đức Phật:
 
 "Thưa Tôn giả Gotama, do đâu, vì sao mà các loại tà kiến này lại phát sinh trên thế gian? Đó là: vũ trụ là thường hằng, hay không thường hằng ... sau khi chết, một người đã chứng ngộ không tồn tại cũng không không tồn tại."
 
-"Này Vaccha, chính vì không biết về *cảm giác* (feeling / *thọ*), sự sinh khởi của nó, sự đoạn diệt của nó, và con đường thực hành đưa đến sự đoạn diệt của nó mà các loại tà kiến này phát sinh trên thế gian. Đây là nguyên nhân, đây là lý do."
+"Này Vaccha, chính vì không biết về *cảm thọ* (feeling / *thọ*), sự sinh khởi của nó, sự đoạn diệt của nó, và con đường thực hành đưa đến sự đoạn diệt của nó mà các loại tà kiến này phát sinh trên thế gian. Đây là nguyên nhân, đây là lý do."
 
 <!--pg-->
 ### SN 33.3 Không Biết về Nhận Thức *Saññāaññāṇasutta*
@@ -64,7 +64,7 @@ Khi ấy, du sĩ Vacchagotta thưa với Đức Phật:
 
 "Thưa Tôn giả Gotama, do đâu, vì sao mà các loại tà kiến này lại phát sinh trên thế gian? ..."
 
-"Này Vaccha, chính vì không thấy Sắc ..." "... cảm giác ..." "... nhận thức ..." "... hành ..." "... thức, sự sinh khởi của nó, sự đoạn diệt của nó, và con đường thực hành đưa đến sự đoạn diệt của nó ..."
+"Này Vaccha, chính vì không thấy Sắc ..." "... cảm thọ ..." "... nhận thức ..." "... hành ..." "... thức, sự sinh khởi của nó, sự đoạn diệt của nó, và con đường thực hành đưa đến sự đoạn diệt của nó ..."
 
 <!--pg-->
 ### SN 33.11--15 Năm Bài Kinh về Không Thấu Hiểu Sắc, v.v. *Rūpaanabhisamayādisuttapañcaka*
@@ -73,7 +73,7 @@ Tại Xá-vệ.
 
 "Này Vaccha, chính vì không thấu hiểu Sắc ...
 
-cảm giác ...
+cảm thọ ...
 
 nhận thức ...
 
@@ -88,7 +88,7 @@ Tại Xá-vệ.
 
 "Này Vaccha, chính vì không hiểu rõ Sắc ...
 
-cảm giác ...
+cảm thọ ...
 
 nhận thức ...
 
@@ -149,7 +149,7 @@ Khi ấy, du sĩ Vacchagotta đến gặp Đức Phật và chào hỏi Ngài. S
 
 "Này Vaccha, chính vì không trực tiếp trải nghiệm Sắc ...
 
-cảm giác ...
+cảm thọ ...
 
 nhận thức ...
 

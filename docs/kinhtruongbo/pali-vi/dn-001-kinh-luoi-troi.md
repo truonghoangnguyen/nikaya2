@@ -142,7 +142,7 @@ Thứ tư, những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu, căn c
 
 Này các tỳ kheo, chính nhờ bốn cơ sở này mà những sa-môn, bà-la-môn ấy theo *thuyết vĩnh hằng*, tuyên bố rằng *bản ngã* và *thế giới* là vĩnh hằng. Này các tỳ kheo, bất kỳ sa-môn hay bà-la-môn nào theo *thuyết vĩnh hằng*, tuyên bố rằng *bản ngã* và *thế giới* là vĩnh hằng, tất cả họ đều dựa vào bốn cơ sở này, hoặc một trong số đó; không có cơ sở nào khác ngoài những điều này.
 
-Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* (tuệ tri / pajānāti) điều này: 'Những lập trường *quan điểm sai* này, nếu được nắm giữ như vậy, bám víu như vậy, sẽ dẫn đến những cõi đến như vậy, sẽ dẫn đến những kết cục ở đời sau như vậy'. *Người Đến Như Vậy* *thấy rõ* điều đó, và còn *thấy rõ* xa hơn thế nữa; nhưng vị ấy không bám víu vào sự *thấy rõ* đó, và nhờ không bám víu, vị ấy tự mình trải nghiệm sự tịch diệt. Này các tỳ kheo, sau khi *thấy rõ* đúng như thật *sự hình thành* (sinh / samudaya), sự *tan biến* (diệt / atthaṅgama), vị ngọt, sự nguy hiểm và sự thoát khỏi của các *Cảm Giác* (thọ / vedanā), *Người Đến Như Vậy* được *giải thoát không bám giữ* (vô thủ giải thoát / anupādāvimutto).
+Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* (tuệ tri / pajānāti) điều này: 'Những lập trường *quan điểm sai* này, nếu được nắm giữ như vậy, bám víu như vậy, sẽ dẫn đến những cõi đến như vậy, sẽ dẫn đến những kết cục ở đời sau như vậy'. *Người Đến Như Vậy* *thấy rõ* điều đó, và còn *thấy rõ* xa hơn thế nữa; nhưng vị ấy không bám víu vào sự *thấy rõ* đó, và nhờ không bám víu, vị ấy tự mình trải nghiệm sự tịch diệt. Này các tỳ kheo, sau khi *thấy rõ* đúng như thật *sự hình thành* (sinh / samudaya), sự *tan biến* (diệt / atthaṅgama), vị ngọt, sự nguy hiểm và sự thoát khỏi của các *Cảm Thọ* (thọ / vedanā), *Người Đến Như Vậy* được *giải thoát không bám giữ* (vô thủ giải thoát / anupādāvimutto).
 
 Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, khó hiểu, bình an, cao tột, vượt ngoài tầm lý luận, tinh tế, chỉ những bậc trí mới có thể trải nghiệm, mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp*, chứng ngộ và thuyết giảng, và chính những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ là nói một cách đúng đắn.
 
@@ -186,7 +186,7 @@ Thứ tư, những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... tuy�
 
 Này các tỳ kheo, chính nhờ bốn cơ sở này mà những sa-môn, bà-la-môn ấy tuyên bố rằng *bản ngã* và *thế giới* một phần là vĩnh hằng, một phần không vĩnh hằng. Bất kỳ ai tuyên bố như vậy đều dựa vào bốn cơ sở này, hoặc một trong số đó; không có cơ sở nào khác.
 
-Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này: 'Những lập trường *quan điểm sai* này... sẽ dẫn đến những kết cục ở đời sau như vậy'. *Người Đến Như Vậy* *thấy rõ* điều đó... và nhờ không bám víu, vị ấy tự mình trải nghiệm sự tịch diệt. Sau khi *thấy rõ* đúng như thật *sự hình thành*, sự *tan biến*, vị ngọt, sự nguy hiểm và sự xuất ly của các *Cảm Giác*, *Người Đến Như Vậy* được *giải thoát không bám giữ*.
+Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này: 'Những lập trường *quan điểm sai* này... sẽ dẫn đến những kết cục ở đời sau như vậy'. *Người Đến Như Vậy* *thấy rõ* điều đó... và nhờ không bám víu, vị ấy tự mình trải nghiệm sự tịch diệt. Sau khi *thấy rõ* đúng như thật *sự hình thành*, sự *tan biến*, vị ngọt, sự nguy hiểm và sự xuất ly của các *Cảm Thọ*, *Người Đến Như Vậy* được *giải thoát không bám giữ*.
 
 Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, khó hiểu... mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp*, chứng ngộ và thuyết giảng...
 
@@ -244,7 +244,7 @@ Này các tỳ kheo, chính nhờ hai cơ sở này mà những sa-môn, bà-la-
 <!--pg-->
 Này các tỳ kheo, chính nhờ mười tám cơ sở này mà những sa-môn, bà-la-môn là những *người suy đoán về quá khứ*, có những *quan điểm sai* về quá khứ, đưa ra nhiều lập luận khác nhau về quá khứ. Bất kỳ ai làm như vậy đều dựa vào mười tám cơ sở này, hoặc một trong số đó; không có cơ sở nào khác.
 
-Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này: 'Những lập trường *quan điểm sai* này... sẽ dẫn đến những kết cục ở đời sau như vậy'. *Người Đến Như Vậy* *thấy rõ* điều đó... và nhờ không bám víu, vị ấy tự mình trải nghiệm sự tịch diệt. Sau khi *thấy rõ* đúng như thật *sự hình thành*, sự *tan biến*, vị ngọt, sự nguy hiểm và sự xuất ly của các *Cảm Giác*, *Người Đến Như Vậy* được *giải thoát không bám giữ*.
+Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này: 'Những lập trường *quan điểm sai* này... sẽ dẫn đến những kết cục ở đời sau như vậy'. *Người Đến Như Vậy* *thấy rõ* điều đó... và nhờ không bám víu, vị ấy tự mình trải nghiệm sự tịch diệt. Sau khi *thấy rõ* đúng như thật *sự hình thành*, sự *tan biến*, vị ngọt, sự nguy hiểm và sự xuất ly của các *Cảm Thọ*, *Người Đến Như Vậy* được *giải thoát không bám giữ*.
 
 Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, khó hiểu... mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp*, chứng ngộ và thuyết giảng...
 
@@ -384,7 +384,7 @@ Này các tỳ kheo, chính nhờ sáu mươi hai cơ sở này mà những sa-m
 <!--pg-->
 Này các tỳ kheo, bất kỳ sa-môn hay bà-la-môn nào là *người suy đoán về quá khứ*, *người suy đoán về tương lai*, hoặc suy đoán về cả quá khứ lẫn tương lai... đưa ra nhiều lập luận khác nhau, tất cả họ đều dựa vào sáu mươi hai cơ sở này, hoặc một trong số đó; không có cơ sở nào khác ngoài những điều này.
 
-Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này: 'Những lập trường *quan điểm sai* này, nếu được nắm giữ như vậy, bám víu như vậy, sẽ dẫn đến những cõi đến như vậy, sẽ dẫn đến những kết cục ở đời sau như vậy'. *Người Đến Như Vậy* *thấy rõ* điều đó, và còn *thấy rõ* xa hơn thế nữa; nhưng vị ấy không bám víu vào sự *thấy rõ* đó, và nhờ không bám víu, vị ấy tự mình trải nghiệm sự tịch diệt. Này các tỳ kheo, sau khi *thấy rõ* đúng như thật *sự hình thành*, sự *tan biến*, vị ngọt, sự nguy hiểm và sự xuất ly của các *Cảm Giác*, *Người Đến Như Vậy* được *giải thoát không bám giữ*.
+Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này: 'Những lập trường *quan điểm sai* này, nếu được nắm giữ như vậy, bám víu như vậy, sẽ dẫn đến những cõi đến như vậy, sẽ dẫn đến những kết cục ở đời sau như vậy'. *Người Đến Như Vậy* *thấy rõ* điều đó, và còn *thấy rõ* xa hơn thế nữa; nhưng vị ấy không bám víu vào sự *thấy rõ* đó, và nhờ không bám víu, vị ấy tự mình trải nghiệm sự tịch diệt. Này các tỳ kheo, sau khi *thấy rõ* đúng như thật *sự hình thành*, sự *tan biến*, vị ngọt, sự nguy hiểm và sự xuất ly của các *Cảm Thọ*, *Người Đến Như Vậy* được *giải thoát không bám giữ*.
 
 Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, khó hiểu, bình an, cao tột, vượt ngoài tầm lý luận, tinh tế, chỉ những bậc trí mới có thể trải nghiệm, mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp*, chứng ngộ và thuyết giảng, và chính những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ là nói một cách đúng đắn.
 
@@ -393,31 +393,31 @@ Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, 
 
 ### 4.1. Phần về Sự lo âu và dao động (Paritassitavipphanditavāra)
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu* (thường kiến / sassatavādā), tuyên bố bản ngã và thế giới là vĩnh cửu dựa trên bốn cơ sở; điều đó chỉ là *Cảm Giác* (thọ / vedayita) của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao* (tham ái / taṇhā), nó chỉ là *sự lo âu và dao động* (khát ái dao động / paritassitavipphandita).
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu* (thường kiến / sassatavādā), tuyên bố bản ngã và thế giới là vĩnh cửu dựa trên bốn cơ sở; điều đó chỉ là *Cảm Thọ* (thọ / vedayita) của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao* (tham ái / taṇhā), nó chỉ là *sự lo âu và dao động* (khát ái dao động / paritassitavipphandita).
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu* (một phần thường kiến / ekaccasassatikā), tuyên bố bản ngã và thế giới một phần là vĩnh cửu, một phần không vĩnh cửu dựa trên bốn cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu* (một phần thường kiến / ekaccasassatikā), tuyên bố bản ngã và thế giới một phần là vĩnh cửu, một phần không vĩnh cửu dựa trên bốn cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương thế giới có giới hạn hay không giới hạn* (hữu biên vô biên kiến / antānantikā), tuyên bố về thế giới dựa trên bốn cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương thế giới có giới hạn hay không giới hạn* (hữu biên vô biên kiến / antānantikā), tuyên bố về thế giới dựa trên bốn cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người ngụy biện trốn tránh* (ngụy biện như con lươn / amarāvikkhepikā), khi được hỏi các câu hỏi khác nhau đã rơi vào sự ngụy biện trốn tránh dựa trên bốn cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người ngụy biện trốn tránh* (ngụy biện như con lươn / amarāvikkhepikā), khi được hỏi các câu hỏi khác nhau đã rơi vào sự ngụy biện trốn tránh dựa trên bốn cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương sinh ra ngẫu nhiên* (vô nhân sinh / adhiccasamuppannikā), tuyên bố bản ngã và thế giới sinh ra ngẫu nhiên dựa trên hai cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương sinh ra ngẫu nhiên* (vô nhân sinh / adhiccasamuppannikā), tuyên bố bản ngã và thế giới sinh ra ngẫu nhiên dựa trên hai cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* (bản tế trạch / pubbantakappikā), có quan điểm về quá khứ, dựa vào quá khứ để tuyên bố nhiều lập luận khác nhau dựa trên mười tám cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* (bản tế trạch / pubbantakappikā), có quan điểm về quá khứ, dựa vào quá khứ để tuyên bố nhiều lập luận khác nhau dựa trên mười tám cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương có nhận thức sau khi chết* (hữu tưởng luận / uddhamāghātanikā saññīvādā), tuyên bố bản ngã có nhận thức sau khi chết dựa trên mười sáu cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương có nhận thức sau khi chết* (hữu tưởng luận / uddhamāghātanikā saññīvādā), tuyên bố bản ngã có nhận thức sau khi chết dựa trên mười sáu cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương không có nhận thức sau khi chết* (vô tưởng luận / uddhamāghātanikā asaññīvādā), tuyên bố bản ngã không có nhận thức sau khi chết dựa trên tám cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương không có nhận thức sau khi chết* (vô tưởng luận / uddhamāghātanikā asaññīvādā), tuyên bố bản ngã không có nhận thức sau khi chết dựa trên tám cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương không phải có nhận thức cũng không phải không có nhận thức sau khi chết* (phi tưởng phi phi tưởng luận / uddhamāghātanikā nevasaññīnāsaññīvādā), tuyên bố bản ngã không phải có nhận thức cũng không phải không có nhận thức sau khi chết dựa trên tám cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương không phải có nhận thức cũng không phải không có nhận thức sau khi chết* (phi tưởng phi phi tưởng luận / uddhamāghātanikā nevasaññīnāsaññīvādā), tuyên bố bản ngã không phải có nhận thức cũng không phải không có nhận thức sau khi chết dựa trên tám cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương hủy diệt* (đoạn kiến / ucchedavādā), tuyên bố sự cắt đứt, sự phá hủy, sự biến mất của một chúng sinh đang tồn tại dựa trên bảy cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương hủy diệt* (đoạn kiến / ucchedavādā), tuyên bố sự cắt đứt, sự phá hủy, sự biến mất của một chúng sinh đang tồn tại dựa trên bảy cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương Niết-bàn ngay trong hiện tại* (hiện tại niết bàn luận / diṭṭhadhammanibbānavādā), tuyên bố Niết-bàn tối thượng ngay trong hiện tại cho một chúng sinh đang tồn tại dựa trên năm cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương Niết-bàn ngay trong hiện tại* (hiện tại niết bàn luận / diṭṭhadhammanibbānavādā), tuyên bố Niết-bàn tối thượng ngay trong hiện tại cho một chúng sinh đang tồn tại dựa trên năm cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về tương lai* (hậu tế trạch / aparantakappikā), có quan điểm về tương lai, dựa vào tương lai để tuyên bố nhiều lập luận khác nhau dựa trên bốn mươi bốn cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về tương lai* (hậu tế trạch / aparantakappikā), có quan điểm về tương lai, dựa vào tương lai để tuyên bố nhiều lập luận khác nhau dựa trên bốn mươi bốn cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*, có quan điểm về cả quá khứ và tương lai, dựa vào cả quá khứ và tương lai để tuyên bố nhiều lập luận khác nhau dựa trên sáu mươi hai cơ sở; điều đó chỉ là *Cảm Giác* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*, có quan điểm về cả quá khứ và tương lai, dựa vào cả quá khứ và tương lai để tuyên bố nhiều lập luận khác nhau dựa trên sáu mươi hai cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
 <!--pg-->
 ### 4.2. Phần về phát sinh từ Xúc mà có (Phassapaccayāvāra)
@@ -451,36 +451,36 @@ Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người
 <!--pg-->
 ### 4.3. Phần về Không có trường hợp đó (Netaṁṭhānaṁvijjativāra)
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu*, tuyên bố bản ngã và thế giới là vĩnh cửu dựa trên bốn cơ sở; rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu*, tuyên bố bản ngã và thế giới là vĩnh cửu dựa trên bốn cơ sở; rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương thế giới có giới hạn hay không giới hạn*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương thế giới có giới hạn hay không giới hạn*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người ngụy biện trốn tránh*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người ngụy biện trốn tránh*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương sinh ra ngẫu nhiên*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương sinh ra ngẫu nhiên*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương có nhận thức sau khi chết*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương có nhận thức sau khi chết*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương không có nhận thức sau khi chết*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương không có nhận thức sau khi chết*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương không phải có nhận thức cũng không phải không có nhận thức sau khi chết*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương không phải có nhận thức cũng không phải không có nhận thức sau khi chết*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương hủy diệt*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương hủy diệt*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương Niết-bàn ngay trong hiện tại*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương Niết-bàn ngay trong hiện tại*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về tương lai*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về tương lai*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*... rằng họ có thể trải nghiệm [những cảm giác ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
 <!--pg-->
 ### 4.4. Lời giảng về Vòng luân hồi của các tà kiến (Diṭṭhigatikādhiṭṭhānavaṭṭakathā)
 
-Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu*... những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu*... những sa-môn, bà-la-môn nào là *người chủ trương thế giới có giới hạn hay không giới hạn*... những sa-môn, bà-la-môn nào là *người ngụy biện trốn tránh*... những sa-môn, bà-la-môn nào là *người chủ trương sinh ra ngẫu nhiên*... những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ*... những sa-môn, bà-la-môn nào là *người chủ trương có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương không có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương không phải có nhận thức cũng không phải không có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương hủy diệt*... những sa-môn, bà-la-môn nào là *người chủ trương Niết-bàn ngay trong hiện tại*... những sa-môn, bà-la-môn nào là *người suy đoán về tương lai*... những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*, có quan điểm về cả quá khứ và tương lai, dựa vào cả quá khứ và tương lai để tuyên bố nhiều lập luận khác nhau dựa trên sáu mươi hai cơ sở; tất cả họ đều trải nghiệm thông qua *Xúc* lặp đi lặp lại ở sáu *trường tiếp xúc* (xúc xứ / phassāyatana). Đối với họ, *do Điều Kiện* *Cảm Giác* nên sinh ra *sự khát khao*; *do Điều Kiện* của *sự khát khao* nên có *nắm giữ* (thủ / upādāna); *do Điều Kiện* của *nắm giữ* nên có *cõi tồn tại* (hữu / bhava); *do Điều Kiện* của *cõi tồn tại* nên có *sinh* (sinh / jāti); *do Điều Kiện* của *sinh* nên *già chết* (lão tử / jarāmaraṇa), sầu muộn, than khóc, *đau khổ* (khổ / dukkha), *ưu phiền* (ưu / domanassa) và tuyệt vọng được *sự hình thành* (sinh / sambhavanti).
+Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu*... những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu*... những sa-môn, bà-la-môn nào là *người chủ trương thế giới có giới hạn hay không giới hạn*... những sa-môn, bà-la-môn nào là *người ngụy biện trốn tránh*... những sa-môn, bà-la-môn nào là *người chủ trương sinh ra ngẫu nhiên*... những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ*... những sa-môn, bà-la-môn nào là *người chủ trương có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương không có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương không phải có nhận thức cũng không phải không có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương hủy diệt*... những sa-môn, bà-la-môn nào là *người chủ trương Niết-bàn ngay trong hiện tại*... những sa-môn, bà-la-môn nào là *người suy đoán về tương lai*... những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*, có quan điểm về cả quá khứ và tương lai, dựa vào cả quá khứ và tương lai để tuyên bố nhiều lập luận khác nhau dựa trên sáu mươi hai cơ sở; tất cả họ đều trải nghiệm thông qua *Xúc* lặp đi lặp lại ở sáu *trường tiếp xúc* (xúc xứ / phassāyatana). Đối với họ, *do Điều Kiện* *Cảm Thọ* nên sinh ra *sự khát khao*; *do Điều Kiện* của *sự khát khao* nên có *nắm giữ* (thủ / upādāna); *do Điều Kiện* của *nắm giữ* nên có *cõi tồn tại* (hữu / bhava); *do Điều Kiện* của *cõi tồn tại* nên có *sinh* (sinh / jāti); *do Điều Kiện* của *sinh* nên *già chết* (lão tử / jarāmaraṇa), sầu muộn, than khóc, *đau khổ* (khổ / dukkha), *ưu phiền* (ưu / domanassa) và tuyệt vọng được *sự hình thành* (sinh / sambhavanti).
 
 <!--pg-->
 ## 5. Lời giảng về Sự thoát ly khỏi vòng luân hồi (Vivaṭṭakathādi)

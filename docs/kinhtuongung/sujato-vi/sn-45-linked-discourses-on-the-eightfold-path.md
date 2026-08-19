@@ -150,7 +150,7 @@ Và sống đúng là gì? Đó là khi một đệ tử cao quý từ bỏ các
 
 Và nỗ lực đúng là gì? Đó là khi một Tỷ kheo tạo ra sự nhiệt tình, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các phẩm chất xấu, bất thiện không nảy sinh. Họ tạo ra sự nhiệt tình, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các phẩm chất xấu, bất thiện đã nảy sinh được từ bỏ. Họ tạo ra sự nhiệt tình, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các phẩm chất thiện chưa nảy sinh được nảy sinh. Họ tạo ra sự nhiệt tình, cố gắng, nỗ lực, vận dụng tâm trí, và phấn đấu để các phẩm chất thiện đã nảy sinh được duy trì, không bị mất đi, mà tăng trưởng, chín muồi, và được hoàn thiện bởi sự phát triển. Đây được gọi là nỗ lực đúng.
 
-Và niệm đúng là gì? Đó là khi một Tỷ kheo thiền định bằng cách quan sát một khía cạnh của thân—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ lòng tham và sự bất mãn đối với thế gian. Họ thiền định bằng cách quan sát một khía cạnh của cảm giác—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ lòng tham và sự bất mãn đối với thế gian. Họ thiền định bằng cách quan sát một khía cạnh của tâm—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ lòng tham và sự bất mãn đối với thế gian. Họ thiền định bằng cách quan sát một khía cạnh của các nguyên tắc (pháp)—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ lòng tham và sự bất mãn đối với thế gian. Đây được gọi là niệm đúng.
+Và niệm đúng là gì? Đó là khi một Tỷ kheo thiền định bằng cách quan sát một khía cạnh của thân—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ lòng tham và sự bất mãn đối với thế gian. Họ thiền định bằng cách quan sát một khía cạnh của cảm thọ—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ lòng tham và sự bất mãn đối với thế gian. Họ thiền định bằng cách quan sát một khía cạnh của tâm—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ lòng tham và sự bất mãn đối với thế gian. Họ thiền định bằng cách quan sát một khía cạnh của các nguyên tắc (pháp)—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ lòng tham và sự bất mãn đối với thế gian. Đây được gọi là niệm đúng.
 
 Và định đúng là gì? Đó là khi một Tỷ kheo, hoàn toàn xa lánh các *tham dục* (sensual desire / các ham muốn thuộc giác quan), xa lánh các phẩm chất bất thiện, nhập và an trú trong *tầng thiền thứ nhất* (first absorption / *sơ thiền*), có sự hân hoan và an vui sinh ra từ sự ly dục, trong khi *hướng ý nghĩ đến một đề tài và quan sát đề tài đó* (placing the mind and keeping it connected / *có tầm có tứ* / có quá trình hướng ý nghĩ(chủ động) và im lặng quan sát (thụ động) một đề tài). Khi việc hướng ý nghĩ và quan sát lắng xuống, họ nhập và an trú trong *tầng thiền thứ hai* (second absorption / *nhị thiền*), có sự hân hoan và an vui sinh ra từ sự tập trung, với sự trong sáng nội tâm và tâm hợp nhất, *lặng im không suy nghĩ, chỉ có quan sát* (without placing the mind and keeping it connected / *không tầm, có tứ* / không có sự suy nghĩ, chỉ có sự im lặng để quan sát). Và với sự phai nhạt của hân hoan, họ nhập và an trú trong *tầng thiền thứ ba* (third absorption / *tam thiền*), nơi họ thiền định với sự bình thản, chánh niệm và tỉnh giác, tự mình trải nghiệm sự an vui mà các bậc cao quý tuyên bố: 'Bình thản và chánh niệm, người ta thiền định trong an vui.' Từ bỏ sự dễ chịu và khó chịu, và chấm dứt hạnh phúc và buồn bã trước đây, họ nhập và an trú trong *tầng thiền thứ tư* (fourth absorption / *tứ thiền*), không dễ chịu không khó chịu, với sự bình thản và chánh niệm trong sạch. Đây được gọi là định đúng."
 
@@ -195,11 +195,11 @@ Tại Xá-vệ.
 
 Sau đó, sau nửa tháng trôi qua, Đức Phật ra khỏi nơi nhập thất và nói với các Tỷ kheo:
 
-"Này các Tỷ kheo, ta đã thực hành một phần của thiền định mà ta đã thực hành khi mới giác ngộ. Ta hiểu rằng có cảm giác do cái nhìn sai điều kiện hóa và cảm giác do cái nhìn đúng điều kiện hóa. ... Có cảm giác do sự tập trung sai điều kiện hóa, và cảm giác do sự tập trung đúng điều kiện hóa.
+"Này các Tỷ kheo, ta đã thực hành một phần của thiền định mà ta đã thực hành khi mới giác ngộ. Ta hiểu rằng có cảm thọ do cái nhìn sai điều kiện hóa và cảm thọ do cái nhìn đúng điều kiện hóa. ... Có cảm thọ do sự tập trung sai điều kiện hóa, và cảm thọ do sự tập trung đúng điều kiện hóa.
 
-Có cảm giác do ham muốn, do suy nghĩ, và do nhận thức điều kiện hóa. Chừng nào ham muốn, suy nghĩ, và nhận thức chưa lắng xuống, thì còn có cảm giác do đó điều kiện hóa. Khi ham muốn, suy nghĩ, và nhận thức lắng xuống, thì có cảm giác do đó điều kiện hóa.
+Có cảm thọ do ham muốn, do suy nghĩ, và do nhận thức điều kiện hóa. Chừng nào ham muốn, suy nghĩ, và nhận thức chưa lắng xuống, thì còn có cảm thọ do đó điều kiện hóa. Khi ham muốn, suy nghĩ, và nhận thức lắng xuống, thì có cảm thọ do đó điều kiện hóa.
 
-Có sự nỗ lực để đạt được điều chưa đạt được. Khi trạng thái đó đã được đạt đến, cũng có cảm giác do đó điều kiện hóa."
+Có sự nỗ lực để đạt được điều chưa đạt được. Khi trạng thái đó đã được đạt đến, cũng có cảm thọ do đó điều kiện hóa."
 
 <!--pg-->
 ### SN 45.12 Thiền Định (Thứ Hai) *Dutiyavihārasutta*
@@ -214,11 +214,11 @@ Sau đó, sau ba tháng trôi qua, Đức Phật ra khỏi nơi nhập thất v�
 
 "Này các Tỷ kheo, ta đã thực hành một phần của thiền định mà ta đã thực hành khi mới giác ngộ.
 
-Ta hiểu rằng có cảm giác do cái nhìn sai và do sự lắng xuống của cái nhìn sai điều kiện hóa, do cái nhìn đúng và do sự lắng xuống của cái nhìn đúng điều kiện hóa. ... Có cảm giác do sự tập trung sai và do sự lắng xuống của sự tập trung sai điều kiện hóa, do sự tập trung đúng và do sự lắng xuống của sự tập trung đúng điều kiện hóa.
+Ta hiểu rằng có cảm thọ do cái nhìn sai và do sự lắng xuống của cái nhìn sai điều kiện hóa, do cái nhìn đúng và do sự lắng xuống của cái nhìn đúng điều kiện hóa. ... Có cảm thọ do sự tập trung sai và do sự lắng xuống của sự tập trung sai điều kiện hóa, do sự tập trung đúng và do sự lắng xuống của sự tập trung đúng điều kiện hóa.
 
-Có cảm giác do ham muốn và do sự lắng xuống của ham muốn điều kiện hóa, do suy nghĩ và do sự lắng xuống của suy nghĩ điều kiện hóa, do nhận thức và do sự lắng xuống của nhận thức điều kiện hóa. Chừng nào ham muốn, suy nghĩ, và nhận thức chưa lắng xuống, thì còn có cảm giác do đó điều kiện hóa. Khi ham muốn, suy nghĩ, và nhận thức lắng xuống, thì có cảm giác do đó điều kiện hóa.
+Có cảm thọ do ham muốn và do sự lắng xuống của ham muốn điều kiện hóa, do suy nghĩ và do sự lắng xuống của suy nghĩ điều kiện hóa, do nhận thức và do sự lắng xuống của nhận thức điều kiện hóa. Chừng nào ham muốn, suy nghĩ, và nhận thức chưa lắng xuống, thì còn có cảm thọ do đó điều kiện hóa. Khi ham muốn, suy nghĩ, và nhận thức lắng xuống, thì có cảm thọ do đó điều kiện hóa.
 
-Có sự nỗ lực để đạt được điều chưa đạt được. Khi trạng thái đó đã được đạt đến, cũng có cảm giác do đó điều kiện hóa."
+Có sự nỗ lực để đạt được điều chưa đạt được. Khi trạng thái đó đã được đạt đến, cũng có cảm thọ do đó điều kiện hóa."
 
 <!--pg-->
 ### SN 45.13 Một Người Đang Tu Học *Sekkhasutta*
@@ -397,15 +397,15 @@ Và định đúng cao quý cùng với các điều kiện thiết yếu và c�
 Sự hợp nhất của tâm với bảy yếu tố này làm điều kiện tiên quyết được gọi là định đúng cao quý 'cùng với các điều kiện thiết yếu' và 'cùng với các điều kiện tiên quyết' của nó."
 
 <!--pg-->
-### SN 45.29 Cảm Giác *Vedanāsutta*
+### SN 45.29 Cảm Thọ *Vedanāsutta*
 
 Tại Xá-vệ.
 
-"Này các Tỷ kheo, có ba loại cảm giác này. Ba loại nào? Cảm giác dễ chịu, khó chịu, và trung tính. Đây là ba loại cảm giác.
+"Này các Tỷ kheo, có ba loại cảm thọ này. Ba loại nào? Cảm Thọ dễ chịu, khó chịu, và trung tính. Đây là ba loại cảm thọ.
 
-Con đường tám nhánh cao quý nên được phát triển để *hiểu biết hoàn toàn* ba loại cảm giác này. Con đường tám nhánh cao quý là gì? Đó là nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng.
+Con đường tám nhánh cao quý nên được phát triển để *hiểu biết hoàn toàn* ba loại cảm thọ này. Con đường tám nhánh cao quý là gì? Đó là nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng.
 
-Con đường tám nhánh cao quý này nên được phát triển để *hiểu biết hoàn toàn* ba loại cảm giác này."
+Con đường tám nhánh cao quý này nên được phát triển để *hiểu biết hoàn toàn* ba loại cảm thọ này."
 
 <!--pg-->
 ### SN 45.30 Với Uttiya *Uttiyasutta*
@@ -1097,7 +1097,7 @@ Và làm thế nào họ phát triển và tu tập con đường tám nhánh ca
 
 "Này các Tỷ kheo, giả sử có một nhà trọ. Khách trọ đến từ phía đông, tây, bắc, và nam. Quý tộc, bà-la-môn, nông dân, và tiện dân đều ở đó. Tương tự như vậy, một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý sẽ *hiểu biết hoàn toàn* bằng *hiểu biết trực tiếp* những điều cần được *hiểu biết hoàn toàn* bằng *hiểu biết trực tiếp*. Họ từ bỏ bằng *hiểu biết trực tiếp* những điều cần được từ bỏ bằng *hiểu biết trực tiếp*. Họ nhận ra bằng *hiểu biết trực tiếp* những điều cần được nhận ra bằng *hiểu biết trực tiếp*. Họ phát triển bằng *hiểu biết trực tiếp* những điều cần được phát triển bằng *hiểu biết trực tiếp*.
 
-Và những điều cần được *hiểu biết hoàn toàn* bằng *hiểu biết trực tiếp* là gì? Nên nói rằng: năm uẩn bám giữ. Năm uẩn nào? Đó là: *Cơ thể, cảm giác, nhận thức, hành động, và thức* (Form, feeling, perception, choices, and consciousness / *Sắc, thọ, tưởng, hành, và thức*). Đây là những điều cần được *hiểu biết hoàn toàn* bằng *hiểu biết trực tiếp*. Và những điều cần được từ bỏ bằng *hiểu biết trực tiếp* là gì? Vô minh và *mong muốn tồn tại* (craving for continued existence / *Hữu ái*). Đây là những điều cần được từ bỏ bằng *hiểu biết trực tiếp*. Và những điều cần được nhận ra bằng *hiểu biết trực tiếp* là gì? Minh và *sự giải thoát* (freedom / *giải thoát*). Đây là những điều cần được nhận ra bằng *hiểu biết trực tiếp*. Và những điều cần được phát triển bằng *hiểu biết trực tiếp* là gì? *Thiền Định và Thiền Quán* (Serenity and Discernment / *samatha và vipassanā*/ *chỉ và quán* / sự tĩnh lặng và sự quan sát sáng suốt). Đây là những điều cần được phát triển bằng *hiểu biết trực tiếp*.
+Và những điều cần được *hiểu biết hoàn toàn* bằng *hiểu biết trực tiếp* là gì? Nên nói rằng: năm uẩn bám giữ. Năm uẩn nào? Đó là: *Cơ thể, cảm thọ, nhận thức, hành động, và thức* (Form, feeling, perception, choices, and consciousness / *Sắc, thọ, tưởng, hành, và thức*). Đây là những điều cần được *hiểu biết hoàn toàn* bằng *hiểu biết trực tiếp*. Và những điều cần được từ bỏ bằng *hiểu biết trực tiếp* là gì? Vô minh và *mong muốn tồn tại* (craving for continued existence / *Hữu ái*). Đây là những điều cần được từ bỏ bằng *hiểu biết trực tiếp*. Và những điều cần được nhận ra bằng *hiểu biết trực tiếp* là gì? Minh và *sự giải thoát* (freedom / *giải thoát*). Đây là những điều cần được nhận ra bằng *hiểu biết trực tiếp*. Và những điều cần được phát triển bằng *hiểu biết trực tiếp* là gì? *Thiền Định và Thiền Quán* (Serenity and Discernment / *samatha và vipassanā*/ *chỉ và quán* / sự tĩnh lặng và sự quan sát sáng suốt). Đây là những điều cần được phát triển bằng *hiểu biết trực tiếp*.
 
 Và làm thế nào một Tỷ kheo phát triển con đường tám nhánh cao quý theo cách này? Đó là khi một Tỷ kheo phát triển nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, và định đúng, vốn dựa trên sự ly dục, sự ly tham, và sự đoạn diệt, và chín muồi trong sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập con đường tám nhánh cao quý theo cách này."
 
@@ -1220,11 +1220,11 @@ Con đường tám nhánh cao quý nên được phát triển để *hiểu bi�
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba phiền não này."
 
 <!--pg-->
-### SN 45.169 Cảm Giác *Vedanāsutta*
+### SN 45.169 Cảm Thọ *Vedanāsutta*
 
-"Này các Tỷ kheo, có ba cảm giác này: Ba cảm giác nào? Dễ chịu, khó chịu, và trung tính. Đây là ba cảm giác.
+"Này các Tỷ kheo, có ba cảm thọ này: Ba cảm thọ nào? Dễ chịu, khó chịu, và trung tính. Đây là ba cảm thọ.
 
-Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba cảm giác này."
+Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ ba cảm thọ này."
 
 <!--pg-->
 ### SN 45.170 Ái Dục *Taṇhāsutta*
@@ -1302,7 +1302,7 @@ Con đường tám nhánh cao quý nên được phát triển để *hiểu bi�
 <!--pg-->
 ### SN 45.178 Các Uẩn Bám Giữ *Upādānakkhandhasutta*
 
-"Này các Tỷ kheo, có năm uẩn bám giữ này. Năm uẩn nào? Các uẩn bám giữ của cơ thể, cảm giác, nhận thức, hành động, và thức. Đây là năm uẩn bám giữ.
+"Này các Tỷ kheo, có năm uẩn bám giữ này. Năm uẩn nào? Các uẩn bám giữ của cơ thể, cảm thọ, nhận thức, hành động, và thức. Đây là năm uẩn bám giữ.
 
 Con đường tám nhánh cao quý nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, kết thúc, và từ bỏ năm uẩn bám giữ này."
 

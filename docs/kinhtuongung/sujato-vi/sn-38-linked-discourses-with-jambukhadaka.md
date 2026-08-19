@@ -89,13 +89,13 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 "Có." ...
 
 <!--pg-->
-### SN 38.7 Câu Hỏi về Cảm Giác *Vedanāpañhāsutta*
+### SN 38.7 Câu Hỏi về Cảm Thọ *Vedanāpañhāsutta*
 
-"Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'cảm giác'. Cảm giác là gì?"
+"Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'cảm thọ'. Cảm Thọ là gì?"
 
-"Thưa ngài, có ba loại *cảm giác* (feeling / *thọ*). Ba loại đó là gì? Cảm giác *dễ chịu, khó chịu, và trung tính* (Pleasant, painful, and neutral feeling / *lạc thọ, khổ thọ, và không khổ không lạc thọ*). Đó là ba loại cảm giác."
+"Thưa ngài, có ba loại *cảm thọ* (feeling / *thọ*). Ba loại đó là gì? Cảm Thọ *dễ chịu, khó chịu, và trung tính* (Pleasant, painful, and neutral feeling / *lạc thọ, khổ thọ, và không khổ không lạc thọ*). Đó là ba loại cảm thọ."
 
-"Nhưng thưa Tôn giả, có con đường và phương pháp thực hành nào để hiểu biết hoàn toàn về ba loại cảm giác này không?"
+"Nhưng thưa Tôn giả, có con đường và phương pháp thực hành nào để hiểu biết hoàn toàn về ba loại cảm thọ này không?"
 
 "Có." ...
 
@@ -181,7 +181,7 @@ Một thời, Tôn giả Xá Lợi Phất đang ở tại vùng đất của ng�
 
 "Thưa Tôn giả Xá Lợi Phất, người ta nói về một thứ gọi là 'thân kiến'. Thân kiến là gì?"
 
-"Thưa ngài, Đức Phật đã nói rằng năm uẩn bám giữ này là *thân kiến* (substantial reality / sakkāya / quan niệm sai lầm về một thực thể 'tôi' hay 'của tôi' tồn tại bền vững). Đó là, *Cơ thể, cảm giác, nhận thức, hành động, và thức* (Form, feeling, perception, choices, and consciousness / *Sắc, thọ, tưởng, hành, và thức*). Đức Phật đã nói rằng năm uẩn bám giữ này là thân kiến."
+"Thưa ngài, Đức Phật đã nói rằng năm uẩn bám giữ này là *thân kiến* (substantial reality / sakkāya / quan niệm sai lầm về một thực thể 'tôi' hay 'của tôi' tồn tại bền vững). Đó là, *Cơ thể, cảm thọ, nhận thức, hành động, và thức* (Form, feeling, perception, choices, and consciousness / *Sắc, thọ, tưởng, hành, và thức*). Đức Phật đã nói rằng năm uẩn bám giữ này là thân kiến."
 
 "Nhưng, thưa Tôn giả, có con đường và phương pháp thực hành nào để hiểu biết hoàn toàn về thân kiến này không?"
 

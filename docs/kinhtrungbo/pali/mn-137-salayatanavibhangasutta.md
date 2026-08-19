@@ -20,7 +20,7 @@
 
 8\. ‘Aṭṭhārasa manopavicārā veditabbā’ti—iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? ‘Cakkhunā rūpaṁ disvā somanassaṭṭhānīyaṁ rūpaṁ upavicarati, domanassaṭṭhānīyaṁ rūpaṁ upavicarati, upekkhāṭṭhānīyaṁ rūpaṁ upavicarati. Sotena saddaṁ sutvā …pe… ghānena gandhaṁ ghāyitvā … jivhāya rasaṁ sāyitvā …
 
-kāyena phoṭṭhabbaṁ phusitvā … manasā dhammaṁ viññāya somanassaṭṭhānīyaṁ dhammaṁ upavicarati, domanassaṭṭhānīyaṁ dhammaṁ upavicarati, upekkhāṭṭhānīyaṁ dhammaṁ upavicarati. Iti cha somanassūpavicārā, cha domanassūpavicārā, cha upekkhūpavicārā, aṭṭhārasa manopavicārā veditabbā’ti—iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ.
+kāyena phoṭṭhabbaṁ phusitvā … manasā dhammaṁ viññāya somanassaṭṭhānīyaṁ dhammaṁ upavicaratai, domanassaṭṭhānīyaṁ dhammaṁ upavicarati, upekkhāṭṭhānīyaṁ dhammaṁ upavicarati. Iti cha somanassūpavicārā, cha domanassūpavicārā, cha upekkhūpavicārā, aṭṭhārasa manopavicārā veditabbā’ti—iti yaṁ taṁ vuttaṁ idametaṁ paṭicca vuttaṁ.
 
 9\. ‘Chattiṁsa sattapadā veditabbā’ti—iti kho panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? Cha gehasitāni somanassāni, cha nekkhammasitāni somanassāni, cha gehasitāni domanassāni, cha nekkhammasitāni domanassāni, cha gehasitā upekkhā, cha nekkhammasitā upekkhā.
 

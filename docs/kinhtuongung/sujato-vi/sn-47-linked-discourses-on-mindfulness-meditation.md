@@ -13,7 +13,7 @@ Tôi nghe như vầy. Một thời Đức Phật trú tại Vesālī, trong Vư�
 
 Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm* (*quan sát và ghi nhớ về sự thật* trên bốn đề tài thân, thọ, tâm, pháp), loại bỏ *tham ái và phiền muộn* (covetousness and displeasure / abhijjhā-domanassa / sự tham lam và buồn phiền đối với thế gian) trên đời.
 
-Vị ấy *an trú quan sát cảm giác trên các cảm giác*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Vị ấy *an trú quan sát tâm trên tâm*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
@@ -32,7 +32,7 @@ Một thời Đức Phật trú tại Vesālī, trong vườn xoài của Ambap�
 
 "Này các *Tỷ kheo*, một *Tỷ kheo* nên sống có *chánh niệm* và *nhận biết rõ ràng* (tỉnh giác). Đây là lời chỉ dạy của ta cho các con.
 
-Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* có *chánh niệm*.
+Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* có *chánh niệm*.
 
 Và thế nào là một *Tỷ kheo* có *nhận biết rõ ràng*? Đó là khi một *Tỷ kheo* hành động với *nhận biết rõ ràng* khi đi ra và đi vào; khi nhìn thẳng và nhìn nghiêng; khi co và duỗi các chi; khi mang y bát; khi ăn, uống, nhai, và nếm; khi đi tiểu và đại tiện; khi đi, đứng, ngồi, ngủ, thức, nói, và giữ im lặng. Đó là cách một *Tỷ kheo* hành động với *nhận biết rõ ràng*. Một *Tỷ kheo* nên sống có *chánh niệm* và *nhận biết rõ ràng*. Đây là lời chỉ dạy của ta cho các con."
 
@@ -53,7 +53,7 @@ Bốn pháp đó là gì?
 
 Hãy *an trú quan sát thân trên thân* ở bên trong—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc *an trú quan sát thân trên thân* ở bên ngoài—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc *an trú quan sát thân trên thân* cả bên trong lẫn bên ngoài—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
-Hoặc *an trú quan sát cảm giác trên các cảm giác* ở bên trong... bên ngoài... cả bên trong lẫn bên ngoài—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Hoặc *an trú quan sát cảm thọ trên các cảm thọ* ở bên trong... bên ngoài... cả bên trong lẫn bên ngoài—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Hoặc *an trú quan sát tâm trên tâm* ở bên trong... bên ngoài... cả bên trong lẫn bên ngoài—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
@@ -70,11 +70,11 @@ Vị ấy hiểu rằng: "Tái sinh đã chấm dứt; hành trình tâm linh đ
 
 Một thời Đức Phật đang ở tại xứ Kosala, gần làng Bà-la-môn tên là Sālā. Tại đó, Đức Phật gọi các *Tỷ kheo*:
 
-"Này các *Tỷ kheo*, những *Tỷ kheo* còn trẻ tuổi—mới xuất gia, mới đến với giáo pháp và sự rèn luyện này—nên được khuyến khích, hỗ trợ, và thiết lập trong *bốn niệm xứ*. Bốn pháp đó là gì? Xin các vị tôn giả, hãy *an trú quan sát thân trên thân*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* (liễu tri) về thân. Hãy *an trú quan sát cảm giác trên các cảm giác*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về các *cảm giác* (feeling / vedanā / thọ). Hãy *an trú quan sát tâm trên tâm*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về *tâm* (mind / citta / ý thức, trạng thái tinh thần). Hãy *an trú quan sát pháp trên các pháp*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về các *pháp* (principles / dhamma / các hiện tượng, các đối tượng của tâm, các lời dạy của Đức Phật).
+"Này các *Tỷ kheo*, những *Tỷ kheo* còn trẻ tuổi—mới xuất gia, mới đến với giáo pháp và sự rèn luyện này—nên được khuyến khích, hỗ trợ, và thiết lập trong *bốn niệm xứ*. Bốn pháp đó là gì? Xin các vị tôn giả, hãy *an trú quan sát thân trên thân*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* (liễu tri) về thân. Hãy *an trú quan sát cảm thọ trên các cảm thọ*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về các *cảm thọ* (feeling / vedanā / thọ). Hãy *an trú quan sát tâm trên tâm*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về *tâm* (mind / citta / ý thức, trạng thái tinh thần). Hãy *an trú quan sát pháp trên các pháp*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về các *pháp* (principles / dhamma / các hiện tượng, các đối tượng của tâm, các lời dạy của Đức Phật).
 
-Những *Tỷ kheo* là bậc *hữu học* (trainees / sekha / những người vẫn còn đang trên con đường tu học, chưa phải là A-la-hán)—những người chưa đạt được mục đích của tâm, nhưng sống với khát vọng hướng đến *sự an ổn khỏi các khổ ách* (sanctuary from the yoke / yogakkhema / trạng thái an toàn tối thượng, thoát khỏi gánh nặng của các ràng buộc) tối thượng—cũng *an trú quan sát thân trên thân*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *hiểu biết hoàn toàn* (complete understanding / pariññā / liễu tri) về thân. Họ *an trú quan sát cảm giác trên các cảm giác*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *hiểu biết hoàn toàn* về các *cảm giác*. Họ *an trú quan sát tâm trên tâm*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *hiểu biết hoàn toàn* về *tâm*. Họ *an trú quan sát pháp trên các pháp*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *hiểu biết hoàn toàn* về các *pháp*.
+Những *Tỷ kheo* là bậc *hữu học* (trainees / sekha / những người vẫn còn đang trên con đường tu học, chưa phải là A-la-hán)—những người chưa đạt được mục đích của tâm, nhưng sống với khát vọng hướng đến *sự an ổn khỏi các khổ ách* (sanctuary from the yoke / yogakkhema / trạng thái an toàn tối thượng, thoát khỏi gánh nặng của các ràng buộc) tối thượng—cũng *an trú quan sát thân trên thân*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *hiểu biết hoàn toàn* (complete understanding / pariññā / liễu tri) về thân. Họ *an trú quan sát cảm thọ trên các cảm thọ*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *hiểu biết hoàn toàn* về các *cảm thọ*. Họ *an trú quan sát tâm trên tâm*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *hiểu biết hoàn toàn* về *tâm*. Họ *an trú quan sát pháp trên các pháp*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *hiểu biết hoàn toàn* về các *pháp*.
 
-Những *Tỷ kheo* là bậc *A-la-hán*—những người đã đoạn tận các *lậu hoặc* (defilements / āsava / những ô nhiễm sâu kín làm rò rỉ năng lượng tâm linh), hoàn tất hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục đích của mình, hoàn toàn chấm dứt *xiềng xích của sự tồn tại* (fetter of continued existence / bhavasaṃyojana / sự ràng buộc vào vòng luân hồi do mong muốn được tiếp tục tồn tại), và được giải thoát chân chánh nhờ *giác ngộ* (enlightenment / bodhi / sự tỉnh thức, sự hiểu biết trọn vẹn về bản chất của thực tại)—cũng *an trú quan sát thân trên thân*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, tách rời khỏi thân. Họ *an trú quan sát cảm giác trên các cảm giác*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, tách rời khỏi các *cảm giác*. Họ *an trú quan sát tâm trên tâm*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, tách rời khỏi *tâm*. Họ *an trú quan sát pháp trên các pháp*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, tách rời khỏi các *pháp*.
+Những *Tỷ kheo* là bậc *A-la-hán*—những người đã đoạn tận các *lậu hoặc* (defilements / āsava / những ô nhiễm sâu kín làm rò rỉ năng lượng tâm linh), hoàn tất hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục đích của mình, hoàn toàn chấm dứt *xiềng xích của sự tồn tại* (fetter of continued existence / bhavasaṃyojana / sự ràng buộc vào vòng luân hồi do mong muốn được tiếp tục tồn tại), và được giải thoát chân chánh nhờ *giác ngộ* (enlightenment / bodhi / sự tỉnh thức, sự hiểu biết trọn vẹn về bản chất của thực tại)—cũng *an trú quan sát thân trên thân*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, tách rời khỏi thân. Họ *an trú quan sát cảm thọ trên các cảm thọ*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, tách rời khỏi các *cảm thọ*. Họ *an trú quan sát tâm trên tâm*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, tách rời khỏi *tâm*. Họ *an trú quan sát pháp trên các pháp*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, tách rời khỏi các *pháp*.
 
 Những *Tỷ kheo* còn trẻ tuổi—mới xuất gia, mới đến với giáo pháp và sự rèn luyện này—nên được khuyến khích, hỗ trợ, và thiết lập trong *bốn niệm xứ* này."
 
@@ -87,7 +87,7 @@ Tại đó, Đức Phật dạy:
 
 "Nói một cách đúng đắn, này các *Tỷ kheo*, các con nên gọi năm *Phiền nhiễu* (hindrances / nīvaraṇa / triền cái / chướng ngại, là trạng thái bất an, bồn chồn gây khó tập trung trong hiện tại) này là một 'đống bất thiện'. Vì năm *Phiền nhiễu* này hoàn toàn là một đống bất thiện. Năm pháp đó là gì? Đó là *Phiền nhiễu* của *theo đuổi thú vui* (dục tham), *thù hận* (sân hận), *uể oải và buồn ngủ* (Hôn trầm và thụy miên), *bồn chồn và hối hận* (trạo cử và hối quá), và *hoài nghi* (doubt / vicikicchā / sự nghi ngờ làm tê liệt, một trong năm phiền nhiễu). Nói một cách đúng đắn, các con nên gọi năm *Phiền nhiễu* này là một 'đống bất thiện'. Vì năm *Phiền nhiễu* này hoàn toàn là một đống bất thiện.
 
-Nói một cách đúng đắn, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... Vị ấy *an trú quan sát tâm trên tâm*... Vị ấy *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Nói một cách đúng đắn, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện."
+Nói một cách đúng đắn, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... Vị ấy *an trú quan sát tâm trên tâm*... Vị ấy *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Nói một cách đúng đắn, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện."
 
 <!--pg-->
 ### SN 47.6 Chim Ưng *Kinh Sakuṇagghi*
@@ -112,7 +112,7 @@ Và đâu không phải là lãnh địa của một *Tỷ kheo* mà là lãnh �
 
 Các con nên đi trong lãnh địa của mình, lãnh địa của tổ tiên các con. Nếu các con đi trong lãnh địa của mình, lãnh địa của tổ tiên các con, *Ma vương* sẽ không tìm thấy điểm yếu hay tóm lấy các con.
 
-Và đâu là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên? Đó là *bốn niệm xứ*. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên."
+Và đâu là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên? Đó là *bốn niệm xứ*. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên."
 
 <!--pg-->
 ### SN 47.7 Con Khỉ *Kinh Makkaṭa*
@@ -131,7 +131,7 @@ Và đâu không phải là lãnh địa của một *Tỷ kheo* mà là lãnh �
 
 Các con nên đi trong lãnh địa của mình, lãnh địa của tổ tiên các con. Nếu các con đi trong lãnh địa của mình, lãnh địa của tổ tiên các con, *Ma vương* sẽ không tìm thấy điểm yếu hay tóm lấy các con.
 
-Và đâu là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên? Đó là *bốn niệm xứ*. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên."
+Và đâu là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên? Đó là *bốn niệm xứ*. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên."
 
 <!--pg-->
 ### SN 47.8 Người Đầu Bếp *Kinh Sūda*
@@ -142,7 +142,7 @@ Nhưng người đầu bếp đó không nhận ra gợi ý của chủ nhân m�
 
 Người đầu bếp ngu ngốc, bất tài, không khéo léo đó không được tặng quần áo, tiền lương, hay tiền thưởng. Tại sao vậy? Bởi vì họ không nhận ra gợi ý của chủ nhân mình.
 
-Tương tự như vậy, một *Tỷ kheo* ngu ngốc, bất tài, không khéo léo *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát thân trên thân*, *tâm* của họ không nhập *Định* (Immersion / samādhi / định / Trạng thái tâm tụ trên một điểm), và các *phiền não phụ* (corruptions / upakkilesa / những ô nhiễm của tâm trí, làm cản trở sự định tĩnh) của họ không được từ bỏ. Nhưng họ không nhận ra gợi ý. Họ *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát pháp trên các pháp*, *tâm* không nhập *Định*, và các *phiền não phụ* không được từ bỏ. Nhưng họ không nhận ra gợi ý.
+Tương tự như vậy, một *Tỷ kheo* ngu ngốc, bất tài, không khéo léo *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát thân trên thân*, *tâm* của họ không nhập *Định* (Immersion / samādhi / định / Trạng thái tâm tụ trên một điểm), và các *phiền não phụ* (corruptions / upakkilesa / những ô nhiễm của tâm trí, làm cản trở sự định tĩnh) của họ không được từ bỏ. Nhưng họ không nhận ra gợi ý. Họ *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát pháp trên các pháp*, *tâm* không nhập *Định*, và các *phiền não phụ* không được từ bỏ. Nhưng họ không nhận ra gợi ý.
 
 *Tỷ kheo* ngu ngốc, bất tài, không khéo léo đó không có được những trạng thái thiền an lạc trong đời này, cũng không có được *chánh niệm* và *nhận biết rõ ràng*. Tại sao vậy? Bởi vì họ không nhận ra gợi ý của *tâm* mình.
 
@@ -152,7 +152,7 @@ Và người đầu bếp đó nhận ra gợi ý của chủ nhân mình: 'Hôm
 
 Người đầu bếp sáng suốt, tài năng, khéo léo đó được tặng quần áo, tiền lương, và tiền thưởng. Tại sao vậy? Bởi vì họ nhận ra gợi ý của chủ nhân mình.
 
-Tương tự như vậy, một *Tỷ kheo* sáng suốt, tài năng, khéo léo *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát thân trên thân*, *tâm* của họ nhập *Định*, và các *phiền não phụ* của họ được từ bỏ. Họ nhận ra gợi ý. Họ *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát pháp trên các pháp*, *tâm* của họ nhập *Định*, và các *phiền não phụ* của họ được từ bỏ. Họ nhận ra gợi ý.
+Tương tự như vậy, một *Tỷ kheo* sáng suốt, tài năng, khéo léo *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát thân trên thân*, *tâm* của họ nhập *Định*, và các *phiền não phụ* của họ được từ bỏ. Họ nhận ra gợi ý. Họ *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát pháp trên các pháp*, *tâm* của họ nhập *Định*, và các *phiền não phụ* của họ được từ bỏ. Họ nhận ra gợi ý.
 
 *Tỷ kheo* sáng suốt, tài năng, khéo léo đó có được những trạng thái thiền an lạc trong đời này, và họ có được *chánh niệm* và *nhận biết rõ ràng*. Tại sao vậy? Bởi vì họ nhận ra gợi ý của *tâm* mình."
 
@@ -177,11 +177,11 @@ Nếu có ai nghĩ rằng: 'Ta sẽ lãnh đạo Tăng đoàn *Tỷ kheo*,' ho�
 
 Bây giờ ta đã già, cao tuổi và là bậc trưởng thượng. Ta đã cao niên và đã đến giai đoạn cuối của cuộc đời. Ta hiện đã tám mươi tuổi. Giống như một chiếc xe cũ nát tiếp tục chạy bằng cách dựa vào dây buộc, cũng vậy, thân của *Như Lai* tiếp tục tồn tại như thể dựa vào dây buộc.
 
-Đôi khi *Như Lai*, không chú tâm vào bất kỳ hình tướng nào, và với sự chấm dứt của một số *cảm giác* nhất định, nhập và an trú trong *Định Vượt qua hình tướng* (Signless immersion / animitta-samādhi / Tập trung nhận thức về việc buông bỏ mọi dấu hiệu hay hình dạng của các hiện tượng (ngưng đọc nhãn hiệu)) của tâm. Chỉ khi đó thân của *Như Lai* mới trở nên thoải mái hơn.
+Đôi khi *Như Lai*, không chú tâm vào bất kỳ hình tướng nào, và với sự chấm dứt của một số *cảm thọ* nhất định, nhập và an trú trong *Định Vượt qua hình tướng* (Signless immersion / animitta-samādhi / Tập trung nhận thức về việc buông bỏ mọi dấu hiệu hay hình dạng của các hiện tượng (ngưng đọc nhãn hiệu)) của tâm. Chỉ khi đó thân của *Như Lai* mới trở nên thoải mái hơn.
 
 Vì vậy, Ānanda, hãy sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác. Hãy để giáo pháp là hòn đảo và nơi nương tựa của con, không có nơi nương tựa nào khác.
 
-Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác. Đó là cách giáo pháp là hòn đảo và nơi nương tựa của họ, không có nơi nương tựa nào khác.
+Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác. Đó là cách giáo pháp là hòn đảo và nơi nương tựa của họ, không có nơi nương tựa nào khác.
 
 Dù là bây giờ hay sau khi ta đã qua đời, bất kỳ ai sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác; với giáo pháp là hòn đảo và nơi nương tựa của họ, không có nơi nương tựa nào khác—những *Tỷ kheo* của ta muốn rèn luyện sẽ là những người giỏi nhất trong những người giỏi nhất."
 
@@ -200,9 +200,9 @@ Sau đó, Ānanda đã giáo huấn, khuyến khích, khơi dậy, và truyền 
 
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát thân trên thân*, dựa trên thân thể, phát sinh sự căng thẳng thể chất, hoặc sự uể oải tinh thần, hoặc *tâm* bị phân tán ra bên ngoài. *Tỷ kheo* đó nên hướng *tâm* của mình đến một chủ đề truyền cảm hứng làm cơ sở cho thiền định. Khi họ làm như vậy, *phấn chấn* (joy / pāmojja / sự vui mừng kích thích mạnh) nảy sinh. Khi có *phấn chấn*, *hân hoan* (Rapture / pīti / Hỷ / niềm vui có thể cảm nhận được từ ngoài) nảy sinh. Khi *tâm* tràn đầy *hân hoan*, thân trở nên *lắng dịu* (Tranquility / passaddhi / khinh an / trạng thái dịu lại của hân hoan). Khi thân *lắng dịu*, người ta cảm thấy *bình an* (bliss / Sukhaṁ / lạc / hạnh phúc, bền vững và tinh tế). Và khi *bình an*, *tâm* trở nên *đắm chìm trong định* (*immersed in samādhi* / Samāhitā / định tĩnh). Sau đó, họ suy ngẫm: 'Ta đã hoàn thành mục tiêu mà ta đã hướng *tâm* đến. Bây giờ hãy để ta rút lui.' Họ rút lui, và *lặng im không suy nghĩ và không quan sát* (without placing the mind or keeping it connected / avitakka-avicāra / không tầm không tứ / không còn suy nghĩ và không còn quan sát (chỉ có sự tồn tại ý thức mà không có nội dung)). Họ hiểu: 'Ta đang *lặng im không suy nghĩ và không quan sát*. *Chánh niệm* trong chính mình, ta hạnh phúc.'
 
-Hơn nữa, một *Tỷ kheo* *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát pháp trên các pháp*, dựa trên các *pháp*, phát sinh sự căng thẳng thể chất, hoặc sự uể oải tinh thần, hoặc *tâm* bị phân tán ra bên ngoài. *Tỷ kheo* đó nên hướng *tâm* của mình đến một chủ đề truyền cảm hứng làm cơ sở cho thiền định. Khi họ làm như vậy, *hân hoan* nảy sinh. Khi *hân hoan*, *phấn chấn* nảy sinh. Khi *tâm* tràn đầy *phấn chấn*, thân trở nên *lắng dịu*. Khi thân *lắng dịu*, người ta cảm thấy *bình an*. Và khi *bình an*, *tâm* trở nên *đắm chìm trong định*. Sau đó, họ suy ngẫm: 'Ta đã hoàn thành mục tiêu mà ta đã hướng *tâm* đến. Bây giờ hãy để ta rút lui.' Họ rút lui, và *lặng im không suy nghĩ và không quan sát*. Họ hiểu: 'Ta đang *lặng im không suy nghĩ và không quan sát*. *Chánh niệm* trong chính mình, ta hạnh phúc.' Đó là cách có sự phát triển có định hướng.
+Hơn nữa, một *Tỷ kheo* *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát pháp trên các pháp*, dựa trên các *pháp*, phát sinh sự căng thẳng thể chất, hoặc sự uể oải tinh thần, hoặc *tâm* bị phân tán ra bên ngoài. *Tỷ kheo* đó nên hướng *tâm* của mình đến một chủ đề truyền cảm hứng làm cơ sở cho thiền định. Khi họ làm như vậy, *hân hoan* nảy sinh. Khi *hân hoan*, *phấn chấn* nảy sinh. Khi *tâm* tràn đầy *phấn chấn*, thân trở nên *lắng dịu*. Khi thân *lắng dịu*, người ta cảm thấy *bình an*. Và khi *bình an*, *tâm* trở nên *đắm chìm trong định*. Sau đó, họ suy ngẫm: 'Ta đã hoàn thành mục tiêu mà ta đã hướng *tâm* đến. Bây giờ hãy để ta rút lui.' Họ rút lui, và *lặng im không suy nghĩ và không quan sát*. Họ hiểu: 'Ta đang *lặng im không suy nghĩ và không quan sát*. *Chánh niệm* trong chính mình, ta hạnh phúc.' Đó là cách có sự phát triển có định hướng.
 
-Và làm thế nào để có sự phát triển không định hướng? Không hướng *tâm* ra bên ngoài, một *Tỷ kheo* hiểu: '*Tâm* ta không hướng ra bên ngoài.' Và họ hiểu: 'Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.' Và họ cũng hiểu: 'Ta *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, *chánh niệm*; ta hạnh phúc.' Không hướng *tâm* ra bên ngoài, một *Tỷ kheo* hiểu: '*Tâm* ta không hướng ra bên ngoài.' Và họ hiểu: 'Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.' Và họ cũng hiểu: 'Ta *an trú quan sát cảm giác trên các cảm giác*—nhiệt tâm, biết rõ, *chánh niệm*; ta hạnh phúc.' Không hướng *tâm* ra bên ngoài, một *Tỷ kheo* hiểu: '*Tâm* ta không hướng ra bên ngoài.' Và họ hiểu: 'Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.' Và họ cũng hiểu: 'Ta *an trú quan sát tâm trên tâm*—nhiệt tâm, biết rõ, *chánh niệm*; ta hạnh phúc.' Không hướng *tâm* ra bên ngoài, một *Tỷ kheo* hiểu: '*Tâm* ta không hướng ra bên ngoài.' Và họ hiểu: 'Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.' Và họ cũng hiểu: 'Ta *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, *chánh niệm*; ta hạnh phúc.' Đó là cách có sự phát triển không định hướng.
+Và làm thế nào để có sự phát triển không định hướng? Không hướng *tâm* ra bên ngoài, một *Tỷ kheo* hiểu: '*Tâm* ta không hướng ra bên ngoài.' Và họ hiểu: 'Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.' Và họ cũng hiểu: 'Ta *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, *chánh niệm*; ta hạnh phúc.' Không hướng *tâm* ra bên ngoài, một *Tỷ kheo* hiểu: '*Tâm* ta không hướng ra bên ngoài.' Và họ hiểu: 'Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.' Và họ cũng hiểu: 'Ta *an trú quan sát cảm thọ trên các cảm thọ*—nhiệt tâm, biết rõ, *chánh niệm*; ta hạnh phúc.' Không hướng *tâm* ra bên ngoài, một *Tỷ kheo* hiểu: '*Tâm* ta không hướng ra bên ngoài.' Và họ hiểu: 'Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.' Và họ cũng hiểu: 'Ta *an trú quan sát tâm trên tâm*—nhiệt tâm, biết rõ, *chánh niệm*; ta hạnh phúc.' Không hướng *tâm* ra bên ngoài, một *Tỷ kheo* hiểu: '*Tâm* ta không hướng ra bên ngoài.' Và họ hiểu: 'Trước và sau, nó không bị gò bó, được giải thoát, và không định hướng.' Và họ cũng hiểu: 'Ta *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, *chánh niệm*; ta hạnh phúc.' Đó là cách có sự phát triển không định hướng.
 
 Vậy, Ānanda, ta đã dạy con sự phát triển có định hướng và sự phát triển không định hướng. Vì lòng từ bi, ta đã làm những gì một người thầy nên làm, người muốn điều tốt nhất cho các đệ tử của mình. Đây là những gốc cây, và đây là những túp lều trống. Hãy thực hành thiền định, Ānanda! Đừng lơ là! Đừng hối tiếc sau này! Đây là lời chỉ dạy của ta cho con."
 
@@ -221,7 +221,7 @@ Bấy giờ, Sāriputta đến gặp Đức Phật, đảnh lễ, ngồi sang m�
 
 "Sāriputta, người có *tâm* giải thoát là một *bậc đại nhân*, ta nói vậy. Nếu *tâm* của họ không giải thoát, ta nói họ không phải là một *bậc đại nhân*.
 
-Và làm thế nào một người có *tâm* giải thoát? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát thân trên thân*, *tâm* của họ trở nên *ly tham* (dispassionate / virajjati / trạng thái không còn tham ái, dính mắc), và được giải thoát khỏi các *lậu hoặc* nhờ *không bám giữ* (not grasping / anupādāya / không chấp thủ, không dính mắc vào bất cứ điều gì). Họ *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát pháp trên các pháp*, *tâm* của họ trở nên *ly tham*, và được giải thoát khỏi các *lậu hoặc* nhờ *không bám giữ*. Đó là cách một người có *tâm* giải thoát.
+Và làm thế nào một người có *tâm* giải thoát? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát thân trên thân*, *tâm* của họ trở nên *ly tham* (dispassionate / virajjati / trạng thái không còn tham ái, dính mắc), và được giải thoát khỏi các *lậu hoặc* nhờ *không bám giữ* (not grasping / anupādāya / không chấp thủ, không dính mắc vào bất cứ điều gì). Họ *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi họ *an trú quan sát pháp trên các pháp*, *tâm* của họ trở nên *ly tham*, và được giải thoát khỏi các *lậu hoặc* nhờ *không bám giữ*. Đó là cách một người có *tâm* giải thoát.
 
 Người có *tâm* giải thoát là một *bậc đại nhân*, ta nói vậy. Nếu *tâm* của họ không giải thoát, ta nói họ không phải là một *bậc đại nhân*."
 
@@ -283,7 +283,7 @@ Làm sao có thể xảy ra chuyện những gì được sinh ra, được tạ
 
 Vì vậy, Ānanda, hãy sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác. Hãy để giáo pháp là hòn đảo và nơi nương tựa của con, không có nơi nương tựa nào khác.
 
-Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Đó là cách một *Tỷ kheo* sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác. Đó là cách giáo pháp là hòn đảo và nơi nương tựa của họ, không có nơi nương tựa nào khác.
 
@@ -308,7 +308,7 @@ Làm sao có thể xảy ra chuyện những gì được sinh ra, được tạ
 
 Vì vậy, này các *Tỷ kheo*, hãy sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác. Hãy để giáo pháp là hòn đảo và nơi nương tựa của con, không có nơi nương tựa nào khác.
 
-Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Đó là cách một *Tỷ kheo* sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác. Đó là cách giáo pháp là hòn đảo và nơi nương tựa của họ, không có nơi nương tựa nào khác.
 
@@ -325,7 +325,7 @@ Bấy giờ, Tôn giả Bāhiya đến gặp Đức Phật, đảnh lễ, ngồi
 
 "Vậy thì, Bāhiya, con nên thanh lọc điểm khởi đầu của các *phẩm chất thiện lành*. Điểm khởi đầu của các *phẩm chất thiện lành* là gì? *Khéo giới đức trong sạch* và *chánh kiến*. Khi *giới đức* của con đã được thanh lọc tốt và *chánh kiến* của con đã đúng đắn, con nên phát triển *bốn niệm xứ*, dựa trên và có nền tảng từ *giới đức*.
 
-Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hãy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi con phát triển *bốn niệm xứ* này, dựa trên và có nền tảng từ *giới đức*, con có thể mong đợi sự tăng trưởng, chứ không phải suy giảm, trong các *phẩm chất thiện lành*, dù là ngày hay đêm."
+Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hãy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi con phát triển *bốn niệm xứ* này, dựa trên và có nền tảng từ *giới đức*, con có thể mong đợi sự tăng trưởng, chứ không phải suy giảm, trong các *phẩm chất thiện lành*, dù là ngày hay đêm."
 
 Và rồi Tôn giả Bāhiya hoan hỷ và đồng ý với những gì Đức Phật đã dạy. Ngài đứng dậy khỏi chỗ ngồi, đảnh lễ, và đi quanh Đức Phật theo chiều kim đồng hồ một cách kính cẩn trước khi rời đi. Sau đó, Bāhiya, sống một mình, ẩn dật, *tinh cần*, nhiệt tâm, và quyết chí, chẳng bao lâu đã chứng ngộ được mục đích tối thượng của con đường tâm linh ngay trong đời này. Ngài sống, đã đạt được bằng chính tuệ giác của mình mục tiêu mà vì đó những người con trai của gia đình từ bỏ đời sống thế tục để sống không nhà.
 
@@ -340,7 +340,7 @@ Bấy giờ, Tôn giả Uttiya đến gặp Đức Phật... và hỏi ngài: "B
 
 "Vậy thì, Uttiya, con nên thanh lọc điểm khởi đầu của các *phẩm chất thiện lành*. Điểm khởi đầu của các *phẩm chất thiện lành* là gì? *Khéo giới đức trong sạch* và *chánh kiến*. Khi *giới đức* của con đã được thanh lọc tốt và *chánh kiến* của con đã đúng đắn, con nên phát triển *bốn niệm xứ*, dựa trên và có nền tảng từ *giới đức*.
 
-Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hãy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi con phát triển *bốn niệm xứ* này, dựa trên và có nền tảng từ *giới đức*, con sẽ vượt qua được sự thống trị của Thần Chết."
+Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hãy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi con phát triển *bốn niệm xứ* này, dựa trên và có nền tảng từ *giới đức*, con sẽ vượt qua được sự thống trị của Thần Chết."
 
 Và rồi Tôn giả Uttiya hoan hỷ và đồng ý với những gì Đức Phật đã dạy. Ngài đứng dậy khỏi chỗ ngồi, đảnh lễ, và đi quanh Đức Phật theo chiều kim đồng hồ một cách kính cẩn trước khi rời đi. Sau đó, Uttiya, sống một mình, ẩn dật, *tinh cần*, nhiệt tâm, và quyết chí, chẳng bao lâu đã chứng ngộ được mục đích tối thượng của con đường tâm linh ngay trong đời này. Ngài sống, đã đạt được bằng chính tuệ giác của mình mục tiêu mà vì đó những người con trai của gia đình từ bỏ đời sống thế tục để sống không nhà.
 
@@ -351,7 +351,7 @@ Ngài hiểu rằng: "Tái sinh đã chấm dứt; hành trình tâm linh đã h
 
 "Này các *Tỷ kheo*, khi *bốn niệm xứ* này được phát triển và tu tập, chúng trở nên *thánh thiện* (noble / ariya / cao quý, thuộc về các bậc thánh) và *dẫn đến giải thoát* (emancipating / niyyānika / có khả năng đưa đến sự thoát khỏi khổ đau), và đưa người thực hành đến sự chấm dứt hoàn toàn khổ đau. Bốn pháp đó là gì?
 
-Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Khi *bốn niệm xứ* này được phát triển và tu tập, chúng trở nên *thánh thiện* và *dẫn đến giải thoát*, và đưa người thực hành đến sự chấm dứt hoàn toàn khổ đau."
 
@@ -362,13 +362,13 @@ Một thời, khi mới giác ngộ, Đức Phật đang ở Uruvelā tại cây
 
 Bấy giờ, khi đang ở một mình, ý nghĩ này nảy sinh trong *tâm* Ngài: "*Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.
 
-Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc họ sẽ *an trú quan sát cảm giác trên các cảm giác*... hoặc *tâm trên tâm*... hoặc *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. *Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*."
+Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc họ sẽ *an trú quan sát cảm thọ trên các cảm thọ*... hoặc *tâm trên tâm*... hoặc *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. *Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*."
 
 Bấy giờ, vị Phạm thiên Sahampati biết được ý nghĩ của Đức Phật. Dễ dàng như một người mạnh mẽ duỗi hay co cánh tay, vị ấy biến mất khỏi cõi Phạm thiên và hiện ra trước mặt Đức Phật. Vị ấy vắt áo choàng qua một vai, chắp tay hướng về Đức Phật và nói:
 
 "Đúng vậy, bạch Thế Tôn! Đúng vậy, bạch Đấng Thiện Thệ! Bạch Thế Tôn, *bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.
 
-Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc họ sẽ *an trú quan sát cảm giác trên các cảm giác*... hoặc *tâm trên tâm*... hoặc *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. *Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*."
+Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc họ sẽ *an trú quan sát cảm thọ trên các cảm thọ*... hoặc *tâm trên tâm*... hoặc *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. *Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*."
 
 Đó là những gì vị Phạm thiên Sahampati đã nói. Sau đó, vị ấy tiếp tục nói:
 
@@ -431,7 +431,7 @@ Tôi nghe như vầy. Một thời, các tôn giả Ānanda và Bhadda đang ở
 
 "Đức Phật đã nói về *thiện giới* đến mức độ cần thiết để phát triển *bốn niệm xứ*.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đức Phật đã nói về *thiện giới* đến mức độ cần thiết để phát triển *bốn niệm xứ*."
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đức Phật đã nói về *thiện giới* đến mức độ cần thiết để phát triển *bốn niệm xứ*."
 
 <!--pg-->
 ### SN 47.22 Lâu Dài *Kinh Ciraṭṭhiti*
@@ -446,7 +446,7 @@ Cùng bối cảnh.
 
 "Chính vì không phát triển và tu tập *bốn niệm xứ* mà chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn. Chính vì phát triển và tu tập *bốn niệm xứ* mà chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Chính vì không phát triển và tu tập *bốn niệm xứ* này mà chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn. Chính vì phát triển và tu tập *bốn niệm xứ* này mà chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn."
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Chính vì không phát triển và tu tập *bốn niệm xứ* này mà chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn. Chính vì phát triển và tu tập *bốn niệm xứ* này mà chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn."
 
 <!--pg-->
 ### SN 47.23 Suy Tàn *Kinh Parihāna*
@@ -461,14 +461,14 @@ Một thời, các tôn giả Ānanda và Bhadda đang ở gần Pāṭaliputta,
 
 "Chính vì không phát triển và tu tập *bốn niệm xứ* mà chánh pháp suy tàn. Chính vì phát triển và tu tập *bốn niệm xứ* mà chánh pháp không suy tàn.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Chính vì không phát triển và tu tập *bốn niệm xứ* này mà chánh pháp suy tàn. Và chính vì phát triển và tu tập *bốn niệm xứ* này mà chánh pháp không suy tàn."
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Chính vì không phát triển và tu tập *bốn niệm xứ* này mà chánh pháp suy tàn. Và chính vì phát triển và tu tập *bốn niệm xứ* này mà chánh pháp không suy tàn."
 
 <!--pg-->
 ### SN 47.24 Phiên Bản Đơn Giản *Kinh Suddha*
 
 Tại Sāvatthī.
 
-"Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+"Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Đây là *bốn niệm xứ*."
 
@@ -481,7 +481,7 @@ Tôi nghe như vầy. Một thời Đức Phật đang ở gần Sāvatthī tron
 
 "Này Bà-la-môn, chính vì không phát triển và tu tập *bốn niệm xứ* mà chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn. Chính vì phát triển và tu tập *bốn niệm xứ* mà chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Chính vì không phát triển và tu tập *bốn niệm xứ* này mà chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn. Chính vì phát triển và tu tập *bốn niệm xứ* này mà chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn."
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Chính vì không phát triển và tu tập *bốn niệm xứ* này mà chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn. Chính vì phát triển và tu tập *bốn niệm xứ* này mà chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn."
 
 Khi ngài nói điều này, vị Bà-la-môn nói với Đức Phật: "Tuyệt vời, thưa Tôn giả Gotama! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Gotama hãy nhớ đến tôi như một người cư sĩ đã quy y trọn đời."
 
@@ -494,7 +494,7 @@ Một thời, các tôn giả Sāriputta, Mahāmoggallāna, và Anuruddha đang 
 
 "Thưa các Tôn giả, bậc *hữu học* là người đã phát triển một phần *bốn niệm xứ*.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Bậc *hữu học* là người đã phát triển một phần *bốn niệm xứ*."
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Bậc *hữu học* là người đã phát triển một phần *bốn niệm xứ*."
 
 <!--pg-->
 ### SN 47.27 Hoàn Toàn *Kinh Samatta*
@@ -505,7 +505,7 @@ Cùng bối cảnh.
 
 "Thưa các Tôn giả, bậc *vô học* là người đã phát triển hoàn toàn *bốn niệm xứ*.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Bậc *vô học* là người đã phát triển hoàn toàn *bốn niệm xứ*."
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Bậc *vô học* là người đã phát triển hoàn toàn *bốn niệm xứ*."
 
 <!--pg-->
 ### SN 47.28 Thế Giới *Kinh Loka*
@@ -514,7 +514,7 @@ Cùng bối cảnh. "Thưa Tôn giả Anuruddha, ngài đã phát triển và tu
 
 "Thưa Tôn giả, tôi đã đạt được *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ*.
 
-Bốn pháp đó là gì? Đó là khi tôi *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi đã đạt được *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ* này.
+Bốn pháp đó là gì? Đó là khi tôi *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi đã đạt được *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ* này.
 
 Và chính vì phát triển và tu tập *bốn niệm xứ* này mà tôi *hiểu biết trực tiếp* về ngàn thiên hà."
 
@@ -533,9 +533,9 @@ Bấy giờ, Tôn giả Ānanda đắp y vào buổi sáng, mang bát và y, đ�
 
 "Bạch Tôn giả, tôi không khỏe, tôi không qua khỏi. Cơn đau rất khủng khiếp và đang tăng lên, không giảm đi; sự tăng của nó là rõ ràng, chứ không phải sự giảm của nó."
 
-"Vậy ông nên rèn luyện như thế này: 'Tôi sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi sẽ thiền định về một khía cạnh của *cảm giác*... *tâm*... *pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.' Đó là cách ông nên rèn luyện."
+"Vậy ông nên rèn luyện như thế này: 'Tôi sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi sẽ thiền định về một khía cạnh của *cảm thọ*... *tâm*... *pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.' Đó là cách ông nên rèn luyện."
 
-"*Bốn niệm xứ* này mà Đức Phật đã dạy đều có trong tôi, và tôi thể hiện chúng. Vì tôi *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Và trong *năm xiềng xích thấp* (five lower fetters / pañca orambhāgiyāni saṃyojanāni / năm ràng buộc đầu tiên trói buộc chúng sinh vào các cõi thấp: thân kiến, hoài nghi, giới cấm thủ, tham dục, và sân hận) mà Đức Phật đã dạy, tôi không thấy có cái nào mà tôi chưa từ bỏ."
+"*Bốn niệm xứ* này mà Đức Phật đã dạy đều có trong tôi, và tôi thể hiện chúng. Vì tôi *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Và trong *năm xiềng xích thấp* (five lower fetters / pañca orambhāgiyāni saṃyojanāni / năm ràng buộc đầu tiên trói buộc chúng sinh vào các cõi thấp: thân kiến, hoài nghi, giới cấm thủ, tham dục, và sân hận) mà Đức Phật đã dạy, tôi không thấy có cái nào mà tôi chưa từ bỏ."
 
 "Ông thật may mắn, gia chủ, thật vô cùng may mắn! Ông đã tuyên bố quả vị *bất lai* (non-return / anāgāmitā / quả vị không còn quay trở lại cõi dục, quả vị A-na-hàm)."
 
@@ -546,7 +546,7 @@ Cùng bối cảnh. Bấy giờ, gia chủ Mānadinna bị bệnh, đau đớn, 
 
 "Xin ông, người đáng kính, hãy đến gặp Tôn giả Ānanda..." ...
 
-"Bạch Tôn giả, tôi không khỏe, tôi không qua khỏi. Cơn đau rất khủng khiếp và đang tăng lên, không giảm đi; sự tăng của nó là rõ ràng, chứ không phải sự giảm của nó. Khi tôi trải qua những *cảm giác* đau đớn như vậy, tôi *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Và trong *năm xiềng xích thấp* mà Đức Phật đã dạy, tôi không thấy có cái nào mà tôi chưa từ bỏ."
+"Bạch Tôn giả, tôi không khỏe, tôi không qua khỏi. Cơn đau rất khủng khiếp và đang tăng lên, không giảm đi; sự tăng của nó là rõ ràng, chứ không phải sự giảm của nó. Khi tôi trải qua những *cảm thọ* đau đớn như vậy, tôi *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Tôi *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Và trong *năm xiềng xích thấp* mà Đức Phật đã dạy, tôi không thấy có cái nào mà tôi chưa từ bỏ."
 
 "Ông thật may mắn, gia chủ, thật vô cùng may mắn! Ông đã tuyên bố quả vị *bất lai*."
 
@@ -559,7 +559,7 @@ Tại Sāvatthī.
 
 "'Đây là sự quan sát một khía cạnh của thân.' Như vậy, này các *Tỷ kheo*, là cái thấy, cái biết, *trí tuệ*, sự chứng ngộ, và ánh sáng đã nảy sinh trong ta về những giáo pháp chưa từng được học từ ai khác trước đây. 'Sự quan sát một khía cạnh của thân này nên được phát triển.' ... 'Sự quan sát một khía cạnh của thân này đã được phát triển.' Như vậy là cái thấy, cái biết, *trí tuệ*, sự chứng ngộ, và ánh sáng đã nảy sinh trong ta về những giáo pháp chưa từng được học từ ai khác trước đây.
 
-'Đây là sự quan sát một khía cạnh của *cảm giác*.' ... 'Sự quan sát một khía cạnh của *cảm giác* này nên được phát triển.' ... 'Sự quan sát một khía cạnh của *cảm giác* này đã được phát triển.' ...
+'Đây là sự quan sát một khía cạnh của *cảm thọ*.' ... 'Sự quan sát một khía cạnh của *cảm thọ* này nên được phát triển.' ... 'Sự quan sát một khía cạnh của *cảm thọ* này đã được phát triển.' ...
 
 'Đây là sự quan sát một khía cạnh của *tâm*.' ... 'Sự quan sát một khía cạnh của *tâm* này nên được phát triển.' ... 'Sự quan sát một khía cạnh của *tâm* này đã được phát triển.' ...
 
@@ -570,7 +570,7 @@ Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, *bốn niệm xứ* này, khi được phát triển và tu tập, chỉ dẫn đến *sự nhàm chán* (disillusionment / nibbidā / sự chán ngán, không còn hứng thú với các pháp hữu vi), *sự ly tham* (dispassion / virāga / sự phai nhạt và chấm dứt tham ái), *sự chấm dứt* (cessation / nirodha / sự diệt tận khổ đau và nguyên nhân của nó), *sự an tịnh* (peace / vupasama / sự lắng dịu, bình yên), *hiểu biết trực tiếp*, *sự tỉnh thức*, và *Niết bàn*.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 *Bốn niệm xứ* này, khi được phát triển và tu tập, chỉ dẫn đến *sự nhàm chán*, *sự ly tham*, *sự chấm dứt*, *sự an tịnh*, *hiểu biết trực tiếp*, *sự tỉnh thức*, và *Niết bàn*."
 
@@ -579,7 +579,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 
 "Này các *Tỷ kheo*, ai đã bỏ lỡ *bốn niệm xứ* thì đã bỏ lỡ con đường *thánh thiện* dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành *bốn niệm xứ* thì đã thực hành con đường *thánh thiện* dẫn đến sự chấm dứt hoàn toàn khổ đau.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Ai đã bỏ lỡ *bốn niệm xứ* này thì đã bỏ lỡ con đường *thánh thiện* dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành *bốn niệm xứ* này thì đã thực hành con đường *thánh thiện* dẫn đến sự chấm dứt hoàn toàn khổ đau."
 
@@ -588,7 +588,7 @@ Ai đã bỏ lỡ *bốn niệm xứ* này thì đã bỏ lỡ con đường *th
 
 "Này các *Tỷ kheo*, khi *bốn niệm xứ* này được phát triển và tu tập, chúng dẫn đến việc đi từ bờ bên này sang bờ bên kia.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Khi *bốn niệm xứ* này được phát triển và tu tập, chúng dẫn đến việc đi từ bờ bên này sang bờ bên kia."
 
@@ -599,14 +599,14 @@ Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, một *Tỷ kheo* nên sống có *chánh niệm* và *nhận biết rõ ràng*. Đây là lời chỉ dạy của ta cho các con.
 
-Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* có *chánh niệm*.
+Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* có *chánh niệm*.
 
-Và thế nào là một *Tỷ kheo* có *nhận biết rõ ràng*? Đó là khi một *Tỷ kheo* biết các *cảm giác* khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Họ biết các suy nghĩ khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Họ biết các *nhận thức* (perception / saññā / tưởng / nhận thức, suy nghĩ) khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Đó là cách một *Tỷ kheo* có *nhận biết rõ ràng*. Một *Tỷ kheo* nên sống có *chánh niệm* và *nhận biết rõ ràng*. Đây là lời chỉ dạy của ta cho các con."
+Và thế nào là một *Tỷ kheo* có *nhận biết rõ ràng*? Đó là khi một *Tỷ kheo* biết các *cảm thọ* khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Họ biết các suy nghĩ khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Họ biết các *nhận thức* (perception / saññā / tưởng / nhận thức, suy nghĩ) khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Đó là cách một *Tỷ kheo* có *nhận biết rõ ràng*. Một *Tỷ kheo* nên sống có *chánh niệm* và *nhận biết rõ ràng*. Đây là lời chỉ dạy của ta cho các con."
 
 <!--pg-->
 ### SN 47.36 Giác Ngộ *Kinh Aññā*
 
-"Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là *bốn niệm xứ*.
+"Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là *bốn niệm xứ*.
 
 Nhờ phát triển và tu tập *bốn niệm xứ* này, một trong hai kết quả có thể được mong đợi: *giác ngộ* ngay trong đời này, hoặc nếu còn lại gì đó, thì là quả vị *bất lai*."
 
@@ -615,7 +615,7 @@ Nhờ phát triển và tu tập *bốn niệm xứ* này, một trong hai kết
 
 "Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ từ bỏ ham muốn đối với thân. Khi ham muốn được từ bỏ, họ chứng ngộ sự giải thoát khỏi cái chết.
 
-Họ *an trú quan sát cảm giác trên các cảm giác*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ từ bỏ ham muốn đối với *cảm giác*. Khi ham muốn được từ bỏ, họ chứng ngộ sự giải thoát khỏi cái chết.
+Họ *an trú quan sát cảm thọ trên các cảm thọ*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ từ bỏ ham muốn đối với *cảm thọ*. Khi ham muốn được từ bỏ, họ chứng ngộ sự giải thoát khỏi cái chết.
 
 Họ *an trú quan sát tâm trên tâm*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ từ bỏ ham muốn đối với *tâm*. Khi ham muốn được từ bỏ, họ chứng ngộ sự giải thoát khỏi cái chết.
 
@@ -626,7 +626,7 @@ Họ *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, và 
 
 "Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ *hiểu biết hoàn toàn* về thân. Khi thân được *hiểu biết hoàn toàn*, họ chứng ngộ sự giải thoát khỏi cái chết.
 
-Họ *an trú quan sát cảm giác trên các cảm giác*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ *hiểu biết hoàn toàn* về *cảm giác*. Khi *cảm giác* được *hiểu biết hoàn toàn*, họ chứng ngộ sự giải thoát khỏi cái chết.
+Họ *an trú quan sát cảm thọ trên các cảm thọ*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ *hiểu biết hoàn toàn* về *cảm thọ*. Khi *cảm thọ* được *hiểu biết hoàn toàn*, họ chứng ngộ sự giải thoát khỏi cái chết.
 
 Họ *an trú quan sát tâm trên tâm*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ *hiểu biết hoàn toàn* về *tâm*. Khi *tâm* được *hiểu biết hoàn toàn*, họ chứng ngộ sự giải thoát khỏi cái chết.
 
@@ -637,7 +637,7 @@ Họ *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, và 
 
 "Này các *Tỷ kheo*, ta sẽ dạy các con về sự phát triển của *bốn niệm xứ*. Hãy lắng nghe...
 
-Và sự phát triển của *bốn niệm xứ* là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Và sự phát triển của *bốn niệm xứ* là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Đây là sự phát triển của *bốn niệm xứ*."
 
@@ -646,9 +646,9 @@ Và sự phát triển của *bốn niệm xứ* là gì? Đó là khi một *T�
 
 "Này các *Tỷ kheo*, ta sẽ dạy các con về thiền niệm xứ, sự phát triển của thiền niệm xứ, và thực hành dẫn đến sự phát triển của thiền niệm xứ. Hãy lắng nghe...
 
-Và thiền niệm xứ là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây được gọi là thiền niệm xứ.
+Và thiền niệm xứ là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây được gọi là thiền niệm xứ.
 
-Và sự phát triển của thiền niệm xứ là gì? Đó là khi một *Tỷ kheo* quan sát thân có khả năng khởi sinh, có khả năng biến mất, và có khả năng khởi sinh và biến mất—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Họ quan sát *cảm giác*... *tâm*... *pháp* có khả năng khởi sinh, có khả năng biến mất, và có khả năng khởi sinh và biến mất—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây được gọi là sự phát triển của thiền niệm xứ.
+Và sự phát triển của thiền niệm xứ là gì? Đó là khi một *Tỷ kheo* quan sát thân có khả năng khởi sinh, có khả năng biến mất, và có khả năng khởi sinh và biến mất—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Họ quan sát *cảm thọ*... *tâm*... *pháp* có khả năng khởi sinh, có khả năng biến mất, và có khả năng khởi sinh và biến mất—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây được gọi là sự phát triển của thiền niệm xứ.
 
 Và thực hành dẫn đến sự phát triển của thiền niệm xứ là gì? Đó chính là *Bát Chánh Đạo* (noble eightfold path / ariyo aṭṭhaṅgiko maggo / con đường tám nhánh dẫn đến giải thoát) này, tức là: *chánh kiến, chánh tư duy, chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định (tầm nhìn đúng, suy nghĩ đúng, lời nói đúng, hành động đúng, sống đúng, nỗ lực đúng, niệm đúng, định đúng)*. Đây được gọi là thực hành dẫn đến sự phát triển của thiền niệm xứ."
 
@@ -659,7 +659,7 @@ Và thực hành dẫn đến sự phát triển của thiền niệm xứ là g
 
 Tại Sāvatthī.
 
-"Này các *Tỷ kheo*, các con nên thiền định với *tâm* được thiết lập vững chắc trong *bốn niệm xứ*. Đừng để sự bất tử thoát khỏi tay các con. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Các con nên thiền định với *tâm* được thiết lập vững chắc trong *bốn niệm xứ*. Đừng để sự bất tử thoát khỏi tay các con."
+"Này các *Tỷ kheo*, các con nên thiền định với *tâm* được thiết lập vững chắc trong *bốn niệm xứ*. Đừng để sự bất tử thoát khỏi tay các con. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Các con nên thiền định với *tâm* được thiết lập vững chắc trong *bốn niệm xứ*. Đừng để sự bất tử thoát khỏi tay các con."
 
 <!--pg-->
 ### SN 47.42 Nguồn Gốc *Kinh Samudaya*
@@ -668,7 +668,7 @@ Tại Sāvatthī.
 
 Và nguồn gốc của thân là gì? Thân bắt nguồn từ thức ăn. Khi thức ăn chấm dứt, thân cũng chấm dứt.
 
-*Cảm giác* bắt nguồn từ sự tiếp xúc. Khi sự tiếp xúc chấm dứt, *cảm giác* cũng chấm dứt.
+*Cảm Thọ* bắt nguồn từ sự tiếp xúc. Khi sự tiếp xúc chấm dứt, *cảm thọ* cũng chấm dứt.
 
 *Tâm* bắt nguồn từ *danh và sắc* (name and form / nāmarūpa / các yếu tố tâm lý (danh) và vật lý (sắc) cấu thành một cá nhân). Khi *danh và sắc* chấm dứt, *tâm* cũng chấm dứt.
 
@@ -681,11 +681,11 @@ Tại Sāvatthī.
 
 Tại đó, Đức Phật gọi các *Tỷ kheo*: "Này các *Tỷ kheo*, một lần nọ, khi ta mới giác ngộ, ta đang ở Uruvelā tại cây bàng của người chăn dê bên bờ sông Nerañjarā. Khi đang ở một mình, ý nghĩ này nảy sinh trong *tâm*: '*Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.
 
-Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc họ sẽ *an trú quan sát cảm giác trên các cảm giác*... hoặc *tâm trên tâm*... hoặc *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. *Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.'
+Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc họ sẽ *an trú quan sát cảm thọ trên các cảm thọ*... hoặc *tâm trên tâm*... hoặc *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. *Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.'
 
 Và rồi vị Phạm thiên Sahampati, biết được dòng suy nghĩ của ta, dễ dàng như một người mạnh mẽ duỗi hay co cánh tay, biến mất khỏi cõi Phạm thiên và hiện ra trước mặt ta. Vị ấy vắt áo choàng qua một vai, chắp tay hướng về Đức Phật và nói: 'Đúng vậy, bạch Thế Tôn! Đúng vậy, bạch Đấng Thiện Thệ! Bạch Thế Tôn, *bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.
 
-Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc họ sẽ *an trú quan sát cảm giác trên các cảm giác*... hoặc *tâm trên tâm*... hoặc *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. *Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.'
+Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hoặc họ sẽ *an trú quan sát cảm thọ trên các cảm thọ*... hoặc *tâm trên tâm*... hoặc *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. *Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.'
 
 Đó là những gì vị Phạm thiên Sahampati đã nói. Sau đó, vị ấy tiếp tục nói:
 
@@ -700,14 +700,14 @@ Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên 
 
 "Này các *Tỷ kheo*, một *Tỷ kheo* nên sống có *chánh niệm*. Đây là lời chỉ dạy của ta cho các con.
 
-Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* có *chánh niệm*. Một *Tỷ kheo* nên sống có *chánh niệm*. Đây là lời chỉ dạy của ta cho các con."
+Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* có *chánh niệm*. Một *Tỷ kheo* nên sống có *chánh niệm*. Đây là lời chỉ dạy của ta cho các con."
 
 <!--pg-->
 ### SN 47.45 Một Đống Thiện *Kinh Kusalarāsi*
 
 "Nói một cách đúng đắn, này các *Tỷ kheo*, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Nói một cách đúng đắn, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện."
 
@@ -720,7 +720,7 @@ Bấy giờ, một *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi 
 
 "Vậy thì, *Tỷ kheo*, con nên thanh lọc điểm khởi đầu của các *phẩm chất thiện lành*. Điểm khởi đầu của các *phẩm chất thiện lành* là gì? Hãy sống có giới luật trong tu viện, hành xử tốt và đi khất thực ở những nơi thích hợp. Thấy nguy hiểm trong lỗi lầm nhỏ nhất, hãy giữ gìn các giới luật con đã thọ nhận. Khi con đã làm được điều này, con nên phát triển *bốn niệm xứ*, dựa trên và có nền tảng từ *giới đức*.
 
-Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hãy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hãy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Khi con phát triển *bốn niệm xứ* theo cách này, dựa trên và có nền tảng từ *giới đức*, con có thể mong đợi sự tăng trưởng, chứ không phải suy giảm, trong các *phẩm chất thiện lành*, dù là ngày hay đêm."
 
@@ -739,7 +739,7 @@ Bấy giờ, một *Tỷ kheo* đến gặp Đức Phật... và nói:
 
 "Vậy thì, *Tỷ kheo*, con nên thanh lọc điểm khởi đầu của các *phẩm chất thiện lành*. Khởi đầu của các *phẩm chất thiện lành* là gì? Hãy từ bỏ hành vi xấu qua thân, khẩu, và ý và phát triển hành vi tốt qua thân, khẩu, và ý. Khi con đã làm được điều này, con nên phát triển *bốn niệm xứ*, dựa trên và có nền tảng từ *giới đức*.
 
-Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hãy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi con phát triển *bốn niệm xứ* theo cách này, dựa trên và có nền tảng từ *giới đức*, con có thể mong đợi sự tăng trưởng, chứ không phải suy giảm, trong các *phẩm chất thiện lành*, dù là ngày hay đêm." ...
+Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Hãy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi con phát triển *bốn niệm xứ* theo cách này, dựa trên và có nền tảng từ *giới đức*, con có thể mong đợi sự tăng trưởng, chứ không phải suy giảm, trong các *phẩm chất thiện lành*, dù là ngày hay đêm." ...
 
 Và vị *Tỷ kheo* ấy đã trở thành một trong những bậc *A-la-hán*.
 
@@ -748,18 +748,18 @@ Và vị *Tỷ kheo* ấy đã trở thành một trong những bậc *A-la-hán
 
 "Này các *Tỷ kheo*, những người mà các con có lòng từ bi, và những người đáng để lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong sự phát triển của *bốn niệm xứ*.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Những người mà các con có lòng từ bi, và những người đáng để lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong sự phát triển của *bốn niệm xứ*."
 
 <!--pg-->
-### SN 47.49 Cảm Giác *Kinh Vedanā*
+### SN 47.49 Cảm Thọ *Kinh Vedanā*
 
-"Này các *Tỷ kheo*, có ba loại *cảm giác* này. Ba loại đó là gì? *Dễ chịu, khó chịu, và trung tính* (Pleasant, painful, and neutral feeling / sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā / lạc thọ, khổ thọ, và không khổ không lạc thọ). Đây là ba loại *cảm giác*. *Bốn niệm xứ* nên được phát triển để *hiểu biết hoàn toàn* về ba loại *cảm giác* này.
+"Này các *Tỷ kheo*, có ba loại *cảm thọ* này. Ba loại đó là gì? *Dễ chịu, khó chịu, và trung tính* (Pleasant, painful, and neutral feeling / sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā / lạc thọ, khổ thọ, và không khổ không lạc thọ). Đây là ba loại *cảm thọ*. *Bốn niệm xứ* nên được phát triển để *hiểu biết hoàn toàn* về ba loại *cảm thọ* này.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
-*Bốn niệm xứ* này nên được phát triển để *hiểu biết hoàn toàn* về ba loại *cảm giác* này."
+*Bốn niệm xứ* này nên được phát triển để *hiểu biết hoàn toàn* về ba loại *cảm thọ* này."
 
 <!--pg-->
 ### SN 47.50 Lậu Hoặc *Kinh Āsava*
@@ -768,7 +768,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 
 *Bốn niệm xứ* nên được phát triển để từ bỏ ba loại *lậu hoặc* này.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 *Bốn niệm xứ* này nên được phát triển để từ bỏ ba loại *lậu hoặc* này."
 
@@ -779,7 +779,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 
 "Này các *Tỷ kheo*, sông Hằng nghiêng, dốc, và hướng về phía đông. Tương tự như vậy, một *Tỷ kheo* phát triển và tu tập *bốn niệm xứ* sẽ nghiêng, dốc, và hướng về *Niết bàn*.
 
-Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại nghiêng, dốc, và hướng về *Niết bàn*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại nghiêng, dốc, và hướng về *Niết bàn*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 Đó là cách một *Tỷ kheo* phát triển và tu tập *bốn niệm xứ* sẽ nghiêng, dốc, và hướng về *Niết bàn*."
 
@@ -830,7 +830,7 @@ Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại ng
 > Tìm kiếm, phân biệt, *lậu hoặc*,\
 > các trạng thái tồn tại, ba loại khổ đau,\
 > sự cằn cỗi, vết nhơ, và phiền não,\
-> *cảm giác*, *mong muốn tồn tại*, và khát ái.
+> *cảm thọ*, *mong muốn tồn tại*, và khát ái.
 
 <!--pg-->
 ## Chương về Lũ Lụt
@@ -841,7 +841,7 @@ Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại ng
 
 *Bốn niệm xứ* nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ *năm xiềng xích cao* này.
 
-Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm giác trên các cảm giác*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
+Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
 
 *Bốn niệm xứ* này nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ *năm xiềng xích cao* này."
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kinh Trường Bộ (Dīgha Nikāya)
-description: Dīgha Nikāya (Kinh Trường Bộ) gồm 34 bài kinh dài nhất của Đức Phật. Đọc song ngữ Pali - Việt, bản dịch Thích Minh Châu, Bhikkhu Sujato và Pali (Việt).
+description: Dīgha Nikāya (Kinh Trường Bộ) gồm 34 bài kinh dài của Đức Phật. Đọc song ngữ Pali - Việt, bản dịch Thích Minh Châu, Bhikkhu Sujato và Pali (Việt).
 head:
   - - script
     - type: application/ld+json
@@ -116,6 +116,14 @@ head:
     <div class="section-item">
       <div class="section-title"><a href="/kinhtruongbo/sujato-en/">Bhikkhu Sujato (English)</a></div>
       <div class="section-subtitle">The complete Dīgha Nikāya in modern English translation by Bhikkhu Sujato.</div>
+    </div>
+    <div class="section-item">
+      <div class="section-title"><a href="/kinhtruongbo/pali-vi/">Kinh Trường Bộ dịch từ tiếng Pali</a></div>
+      <div class="section-subtitle">Kinh Trường Bộ dịch từ tiếng Pali.</div>
+    </div>
+    <div class="section-item">
+      <div class="section-title"><a href="/kinhtruongbo/pali/">Pali</a></div>
+      <div class="section-subtitle">Dīgha Nikāya Pali language.</div>
     </div>
   </template>
 

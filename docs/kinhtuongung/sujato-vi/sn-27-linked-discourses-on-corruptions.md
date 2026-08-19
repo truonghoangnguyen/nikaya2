@@ -31,11 +31,11 @@ Tại Sāvatthī.
 "Này các Tỷ kheo, sự ham muốn và tham lam đối với *sự tiếp xúc* (contact / *xúc*) của mắt, sự tiếp xúc của tai, sự tiếp xúc của mũi, sự tiếp xúc của lưỡi, sự tiếp xúc của thân, hay sự tiếp xúc của ý là một tâm ô nhiễm. ..."
 
 <!--pg-->
-### SN 27.5 Cảm Giác *Samphassajasutta*
+### SN 27.5 Cảm Thọ *Samphassajasutta*
 
 Tại Sāvatthī.
 
-"Này các Tỷ kheo, sự ham muốn và tham lam đối với *cảm giác* (feeling / *thọ*) sinh ra từ sự tiếp xúc của mắt, cảm giác sinh ra từ sự tiếp xúc của tai, cảm giác sinh ra từ sự tiếp xúc của mũi, cảm giác sinh ra từ sự tiếp xúc của lưỡi, cảm giác sinh ra từ sự tiếp xúc của thân, hay cảm giác sinh ra từ sự tiếp xúc của ý là một tâm ô nhiễm. ..."
+"Này các Tỷ kheo, sự ham muốn và tham lam đối với *cảm thọ* (feeling / *thọ*) sinh ra từ sự tiếp xúc của mắt, cảm thọ sinh ra từ sự tiếp xúc của tai, cảm thọ sinh ra từ sự tiếp xúc của mũi, cảm thọ sinh ra từ sự tiếp xúc của lưỡi, cảm thọ sinh ra từ sự tiếp xúc của thân, hay cảm thọ sinh ra từ sự tiếp xúc của ý là một tâm ô nhiễm. ..."
 
 <!--pg-->
 ### SN 27.6 Nhận Thức *Saññāsutta*
@@ -70,4 +70,4 @@ Tại Sāvatthī.
 
 Tại Sāvatthī.
 
-"Này các Tỷ kheo, sự ham muốn và tham lam đối với *Cơ thể, cảm giác, nhận thức, hành động, hay thức* (Form, feeling, perception, choices, and consciousness / *Sắc, thọ, tưởng, hành, và thức*) là một tâm ô nhiễm. Khi một Tỷ kheo đã từ bỏ được tâm ô nhiễm trong năm trường hợp này, tâm của vị ấy hướng về sự xuất ly. Một tâm đã thấm nhuần sự xuất ly được xem là có khả năng hiểu biết trực tiếp bất cứ điều gì có thể chứng ngộ."
+"Này các Tỷ kheo, sự ham muốn và tham lam đối với *Cơ thể, cảm thọ, nhận thức, hành động, hay thức* (Form, feeling, perception, choices, and consciousness / *Sắc, thọ, tưởng, hành, và thức*) là một tâm ô nhiễm. Khi một Tỷ kheo đã từ bỏ được tâm ô nhiễm trong năm trường hợp này, tâm của vị ấy hướng về sự xuất ly. Một tâm đã thấm nhuần sự xuất ly được xem là có khả năng hiểu biết trực tiếp bất cứ điều gì có thể chứng ngộ."

@@ -52,7 +52,7 @@ title: Mục lục
 - [Tương Ưng Vacchagotta](/kinhtuongung/sujato-vi/sn-33-linked-discourses-with-vacchagotta.md)
 - [Tương Ưng về Thiền Định](/kinhtuongung/sujato-vi/sn-34-linked-discourses-on-absorption.md)
 - [Tương Ưng về Sáu Trường Giác Quan](/kinhtuongung/sujato-vi/sn-35-linked-discourses-on-the-six-sense-fields.md)
-- [Tương Ưng Về Cảm Giác](/kinhtuongung/sujato-vi/sn-36-linked-discourses-on-feelings.md)
+- [Tương Ưng Về Cảm Thọ](/kinhtuongung/sujato-vi/sn-36-linked-discourses-on-feelings.md)
 - [Các Bài Kinh Liên Quan Đến Phụ Nữ](/kinhtuongung/sujato-vi/sn-37-linked-discourses-on-females.md)
 - [Các Bài Kinh Tương Ưng với Jambukhādaka](/kinhtuongung/sujato-vi/sn-38-linked-discourses-with-jambukhadaka.md)
 - [Các Bài Kinh Liên Quan đến Sāmaṇḍaka](/kinhtuongung/sujato-vi/sn-39-linked-discourses-with-samandaka.md)

@@ -88,6 +88,10 @@ head:
       <div class="section-title"><a href="/kinhtuongung/sujato-en/">Bhikkhu Sujato (English)</a></div>
       <div class="section-subtitle">The Linked Discourses of the Buddha translation by Bhikkhu Sujato.</div>
     </div>
+    <div class="section-item">
+      <div class="section-title"><a href="/kinhtuongung/pali/">Pali</a></div>
+      <div class="section-subtitle">Saṃyutta Nikāya Pali language.</div>
+    </div>
   </template>
 
   <div class="closing-quote">
