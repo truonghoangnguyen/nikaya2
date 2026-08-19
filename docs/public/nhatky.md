@@ -76,3 +76,15 @@ viññāṇaṁ = thức; vijānāti = thức tri
 
 ### date 2026-08-16
 - không có chữ tâm trong từ bi hỉ xả - có lẽ 4 từ này cùng kiểu với thanh thản và ưu phiền
+- MN 137 MN 43 nói khái niệm xả và 4 thiền, liên quan đến xả, hỷ, ưu 
+- đổi Cảm giác (thọ) thành Cảm Thọ
+
+### date 2026-08-17
+- Uẩn = sắc, thọ, tưởng hành thức (khandhā)
+- Thủ Uẩn = Uẩn có khả năng bị bám giữ  (upādānak-khandhā)
+- Uẩn không có khái niệm tương tự trong tiếng việt nên đầu tiên mình dịch là 'tập hợp', sau khi cân nhắc thì dịch lại là Uẩn 
+SN 22.48
+
+### date 2026-08-19
+- MN44 dịch xong
+

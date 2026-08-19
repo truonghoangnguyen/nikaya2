@@ -27,7 +27,7 @@
 | Viññāṇañcāyatana | Thức vô biên xứ | cõi 'Cái Biết' là Vô Tận | |
 | Ākiñcaññāyatana | Vô sở hữu xứ | cõi Không Có Vật Gì | |
 | Nevasaññānāsaññāyatana | Phi tưởng phi phi tưởng xứ | xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" | |
-| Saññāvedayitanirodha | Diệt thọ tưởng định | Định làm ngưng Cảm Giác và Nhận Thức | |
+| Saññāvedayitanirodha | Diệt thọ tưởng định | Định làm ngưng Cảm Thọ và Nhận Thức | |
 | Cakkavattī | Chuyển luân vương | Vua cai trị toàn cầu | |
 | Thūpa | Tháp | tháp tưởng niệm | |
 | [BT] Dasasu lokadhātūsu | Mười phương thế giới | mười hệ thống thế giới | Dấu hiệu thần thoại hóa muộn |

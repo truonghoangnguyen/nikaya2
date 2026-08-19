@@ -359,7 +359,8 @@ export default defineConfig({
   srcExclude: [
     '**/jill-brain/**',
     '**/jill-stroke/**',
-    '**/plato/**'
+    '**/plato/**',
+    '**/kinhtieubo/pali/**',
   ],
 
   vite: {

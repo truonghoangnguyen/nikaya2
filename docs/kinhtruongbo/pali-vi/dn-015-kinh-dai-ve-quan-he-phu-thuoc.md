@@ -20,9 +20,9 @@ Khi ấy, Tôn giả Ānanda đi đến chỗ Thế Tôn, sau khi đến, đản
 
 '*Điều kiện* cần nào để có *Bám chặt* không?', nếu được hỏi như vậy, này Ānanda, cần phải trả lời là 'Có'. 'Do *Điều kiện* gì mà có sự *Giữ chặt*?', nếu được hỏi như vậy, cần phải trả lời là 'Do *yêu thích* (ái / taṇhā) làm *Điều kiện* cần, mà có sự *Giữ chặt*'.
 
-'*Điều kiện* cần nào để có sự *yêu thích* không?', nếu được hỏi như vậy, này Ānanda, cần phải trả lời là 'Có'. 'Do *Điều kiện* gì mà có sự *yêu thích*?', nếu được hỏi như vậy, cần phải trả lời là 'Do *Cảm Giác* (thọ / vedanā) làm *Điều kiện* cần, mà có *yêu thích*'.
+'*Điều kiện* cần nào để có sự *yêu thích* không?', nếu được hỏi như vậy, này Ānanda, cần phải trả lời là 'Có'. 'Do *Điều kiện* gì mà có sự *yêu thích*?', nếu được hỏi như vậy, cần phải trả lời là 'Do *Cảm Thọ* (thọ / vedanā) làm *Điều kiện* cần, mà có *yêu thích*'.
 
-'*Điều kiện* cần nào để có *Cảm Giác* không?', nếu được hỏi như vậy, này Ānanda, cần phải trả lời là 'Có'. 'Do *Điều kiện* gì mà có *Cảm Giác*?', nếu được hỏi như vậy, cần phải trả lời là 'Do *Xúc* (xúc / phassa) làm *Điều kiện* cần, mà có *Cảm Giác*'.
+'*Điều kiện* cần nào để có *Cảm Thọ* không?', nếu được hỏi như vậy, này Ānanda, cần phải trả lời là 'Có'. 'Do *Điều kiện* gì mà có *Cảm Thọ*?', nếu được hỏi như vậy, cần phải trả lời là 'Do *Xúc* (xúc / phassa) làm *Điều kiện* cần, mà có *Cảm Thọ*'.
 
 '*Điều kiện* cần nào để có *Xúc* không?', nếu được hỏi như vậy, này Ānanda, cần phải trả lời là 'Có'. 'Do *Điều kiện* gì mà có *Xúc*?', nếu được hỏi như vậy, cần phải trả lời là 'Do *Danh–sắc* (danh-sắc / nāmarūpa) làm *Điều kiện* cần, mà có *Xúc*'.
 
@@ -31,7 +31,7 @@ Khi ấy, Tôn giả Ānanda đi đến chỗ Thế Tôn, sau khi đến, đản
 '*Điều kiện* cần nào để có *'Cái Biết' (đi tái sinh)* không?', nếu được hỏi như vậy, này Ānanda, cần phải trả lời là 'Có'. 'Do *Điều kiện* gì mà có *'Cái Biết' (đi tái sinh)*?', nếu được hỏi như vậy, cần phải trả lời là 'Do *Danh–sắc* làm *Điều kiện* cần, mà có *'Cái Biết' (đi tái sinh)*'.
 
 <!--pg-->
-Như vậy, này Ānanda, với *Danh–sắc* làm *Điều kiện* cần, có *'Cái Biết' (đi tái sinh)*; với *'Cái Biết' (đi tái sinh)* làm *Điều kiện* cần, có *Danh–sắc*; với *Danh–sắc* làm *Điều kiện* cần, có *Xúc*; với *Xúc* làm *Điều kiện* cần, có *Cảm Giác*; với *Cảm Giác* làm *Điều kiện* cần, có *yêu thích*; với *yêu thích* làm *Điều kiện* cần, có sự *Giữ chặt*; với sự *Giữ chặt* làm *Điều kiện* cần, có *Mầm sinh*; với *Mầm sinh* làm *Điều kiện* cần, có *sự Tái sinh*; với *sự Tái sinh* làm *Điều kiện*, *già-chết*, sầu, bi, *đau khổ* (khổ / dukkha), *ưu phiền* (ưu / domanassa), tuyệt vọng *được hình thành* (sinh / sambhavanti). Như vậy là *sự hình thành* (tập / samudaya) của toàn bộ khối *đau khổ* này.
+Như vậy, này Ānanda, với *Danh–sắc* làm *Điều kiện* cần, có *'Cái Biết' (đi tái sinh)*; với *'Cái Biết' (đi tái sinh)* làm *Điều kiện* cần, có *Danh–sắc*; với *Danh–sắc* làm *Điều kiện* cần, có *Xúc*; với *Xúc* làm *Điều kiện* cần, có *Cảm Thọ*; với *Cảm Thọ* làm *Điều kiện* cần, có *yêu thích*; với *yêu thích* làm *Điều kiện* cần, có sự *Giữ chặt*; với sự *Giữ chặt* làm *Điều kiện* cần, có *Mầm sinh*; với *Mầm sinh* làm *Điều kiện* cần, có *sự Tái sinh*; với *sự Tái sinh* làm *Điều kiện*, *già-chết*, sầu, bi, *đau khổ* (khổ / dukkha), *ưu phiền* (ưu / domanassa), tuyệt vọng *được hình thành* (sinh / sambhavanti). Như vậy là *sự hình thành* (tập / samudaya) của toàn bộ khối *đau khổ* này.
 
 <!--pg-->
 'Do *sự Tái sinh* làm *Điều kiện* cần, mà có sự *già-chết*', điều này đã được nói đến, này Ānanda, cần phải được hiểu theo cách này, như thế nào do *sự Tái sinh* làm *Điều kiện* cần, mà có *già-chết*. Này Ānanda, nếu hoàn toàn không có *sự Tái sinh* dưới bất kỳ hình thức nào, ở bất kỳ đâu, của bất kỳ ai, vào bất kỳ cõi nào, cụ thể là—sự tái sinh của chư thiên vào cõi chư thiên, của càn thát bà vào cõi càn thát bà, của dạ xoa vào cõi dạ xoa, của chúng sinh vào cõi chúng sinh, của loài người vào cõi người, của loài bốn chân vào cõi bốn chân, của loài chim vào cõi chim, của loài bò sát vào cõi bò sát; này Ānanda, nếu không có *sự Tái sinh* của những chúng sinh ấy vào các cõi ấy. Khi hoàn toàn không có *sự Tái sinh*, do *sự Tái sinh* *bị chặn* (diệt / jātinirodhā), liệu *già-chết* có thể xuất hiện được không?"
@@ -58,16 +58,16 @@ Như vậy, này Ānanda, với *Danh–sắc* làm *Điều kiện* cần, có 
 
 "Do đó, này Ānanda, đây chính là nguyên nhân, đây là nguồn gốc, đây là *sự hình thành*, đây là *Điều kiện* của sự *Giữ chặt*, tức là *yêu thích*.
 
-'Do *Cảm Giác* làm *Điều kiện* cần, mà có *yêu thích*', điều này đã được nói đến, này Ānanda, cần phải được hiểu theo cách này, như thế nào do *Cảm Giác* làm *Điều kiện* cần, mà có *yêu thích*. Này Ānanda, nếu hoàn toàn không có *Cảm Giác* dưới bất kỳ hình thức nào, ở bất kỳ đâu, của bất kỳ ai, vào bất kỳ cõi nào, cụ thể là—*Cảm Giác* sinh ra từ *Xúc* của mắt, *Cảm Giác* sinh ra từ *Xúc* của tai, *Cảm Giác* sinh ra từ *Xúc* của mũi, *Cảm Giác* sinh ra từ *Xúc* của lưỡi, *Cảm Giác* sinh ra từ *Xúc* của thân, *Cảm Giác* sinh ra từ *Xúc* của *giác quan Suy Nghĩ* (ý căn / mano). Khi hoàn toàn không có *Cảm Giác*, do *Cảm Giác* *bị chặn*, liệu *yêu thích* có thể xuất hiện được không?"
+'Do *Cảm Thọ* làm *Điều kiện* cần, mà có *yêu thích*', điều này đã được nói đến, này Ānanda, cần phải được hiểu theo cách này, như thế nào do *Cảm Thọ* làm *Điều kiện* cần, mà có *yêu thích*. Này Ānanda, nếu hoàn toàn không có *Cảm Thọ* dưới bất kỳ hình thức nào, ở bất kỳ đâu, của bất kỳ ai, vào bất kỳ cõi nào, cụ thể là—*Cảm Thọ* sinh ra từ *Xúc* của mắt, *Cảm Thọ* sinh ra từ *Xúc* của tai, *Cảm Thọ* sinh ra từ *Xúc* của mũi, *Cảm Thọ* sinh ra từ *Xúc* của lưỡi, *Cảm Thọ* sinh ra từ *Xúc* của thân, *Cảm Thọ* sinh ra từ *Xúc* của *giác quan Suy Nghĩ* (ý căn / mano). Khi hoàn toàn không có *Cảm Thọ*, do *Cảm Thọ* *bị chặn*, liệu *yêu thích* có thể xuất hiện được không?"
 
 "Thưa không, bạch Thế Tôn."
 
-"Do đó, này Ānanda, đây chính là nguyên nhân, đây là nguồn gốc, đây là *sự hình thành*, đây là *Điều kiện* của *yêu thích*, tức là *Cảm Giác*.
+"Do đó, này Ānanda, đây chính là nguyên nhân, đây là nguồn gốc, đây là *sự hình thành*, đây là *Điều kiện* của *yêu thích*, tức là *Cảm Thọ*.
 
 <!--pg-->
 <đoạn-không-đúng-vị-trí>
 
-Như vậy, này Ānanda, *Phụ thuộc* (duyên / paṭicca) vào *Cảm Giác* có *yêu thích*; *Phụ thuộc* vào *yêu thích* có *sự tìm kiếm* (tầm cầu / pariyesanā); *Phụ thuộc* vào *sự tìm kiếm* có *sự đạt được* (lợi đắc / lābha); *Phụ thuộc* vào *sự đạt được* có *sự đánh giá* (thẩm lự / vinicchaya); *Phụ thuộc* vào *sự đánh giá* có *tham đắm* (dục tham / chandarāga); *Phụ thuộc* vào *tham đắm* có *sự trói buộc* (đắm trước / ajjhosāna); *Phụ thuộc* vào *sự trói buộc* có *sự chiếm hữu* (chấp thủ / pariggaha); *Phụ thuộc* vào *sự chiếm hữu* có *sự keo kiệt* (xan tham / macchariya); *Phụ thuộc* vào *sự keo kiệt* có *sự bảo vệ* (thủ hộ / ārakkha). Do *sự bảo vệ* làm nguyên nhân, nhiều *những điều không thiện* (bất thiện pháp / akusalā dhammā) và ác phát sinh: cầm gậy, cầm kiếm, tranh cãi, cãi vã, tranh chấp, nói 'mày mày', nói đâm thọc, nói dối.
+Như vậy, này Ānanda, *Phụ thuộc* (duyên / paṭicca) vào *Cảm Thọ* có *yêu thích*; *Phụ thuộc* vào *yêu thích* có *sự tìm kiếm* (tầm cầu / pariyesanā); *Phụ thuộc* vào *sự tìm kiếm* có *sự đạt được* (lợi đắc / lābha); *Phụ thuộc* vào *sự đạt được* có *sự đánh giá* (thẩm lự / vinicchaya); *Phụ thuộc* vào *sự đánh giá* có *tham đắm* (dục tham / chandarāga); *Phụ thuộc* vào *tham đắm* có *sự trói buộc* (đắm trước / ajjhosāna); *Phụ thuộc* vào *sự trói buộc* có *sự chiếm hữu* (chấp thủ / pariggaha); *Phụ thuộc* vào *sự chiếm hữu* có *sự keo kiệt* (xan tham / macchariya); *Phụ thuộc* vào *sự keo kiệt* có *sự bảo vệ* (thủ hộ / ārakkha). Do *sự bảo vệ* làm nguyên nhân, nhiều *những điều không thiện* (bất thiện pháp / akusalā dhammā) và ác phát sinh: cầm gậy, cầm kiếm, tranh cãi, cãi vã, tranh chấp, nói 'mày mày', nói đâm thọc, nói dối.
 
 'Do *sự bảo vệ* làm nguyên nhân, nhiều *những điều không thiện* và ác phát sinh: cầm gậy, cầm kiếm, tranh cãi, cãi vã, tranh chấp, nói 'mày mày', nói đâm thọc, nói dối', điều này đã được nói đến, này Ānanda, cần phải được hiểu theo cách này, như thế nào do *sự bảo vệ* làm nguyên nhân, nhiều *những điều không thiện* và ác phát sinh. Này Ānanda, nếu hoàn toàn không có *sự bảo vệ* dưới bất kỳ hình thức nào, ở bất kỳ đâu, của bất kỳ ai. Khi hoàn toàn không có *sự bảo vệ*, do *sự bảo vệ* *bị chặn*, liệu các *những điều không thiện* và ác như cầm gậy, cầm kiếm, tranh cãi, cãi vã, tranh chấp, nói 'mày mày', nói đâm thọc, nói dối có thể phát sinh được không?"
 
@@ -122,17 +122,17 @@ Như vậy, này Ānanda, *Phụ thuộc* (duyên / paṭicca) vào *Cảm Giác
 
 "Thưa không, bạch Thế Tôn."
 
-"Do đó, này Ānanda, đây chính là nguyên nhân, đây là nguồn gốc, đây là *sự hình thành*, đây là *Điều kiện* của *sự tìm kiếm*, tức là *yêu thích*. Như vậy, này Ānanda, hai *Điều* này thông qua hai ngã rẽ hội tụ lại thành một tại *Cảm Giác*.
+"Do đó, này Ānanda, đây chính là nguyên nhân, đây là nguồn gốc, đây là *sự hình thành*, đây là *Điều kiện* của *sự tìm kiếm*, tức là *yêu thích*. Như vậy, này Ānanda, hai *Điều* này thông qua hai ngã rẽ hội tụ lại thành một tại *Cảm Thọ*.
 
 </đoạn-không-đúng-vị-trí>
 <!--pg-->
-'Do *Xúc* làm *Điều kiện* cần, mà có *Cảm Giác*', điều này đã được nói đến, này Ānanda, cần phải được hiểu theo cách này, như thế nào do *Xúc* làm *Điều kiện* cần, mà có *Cảm Giác*.
+'Do *Xúc* làm *Điều kiện* cần, mà có *Cảm Thọ*', điều này đã được nói đến, này Ānanda, cần phải được hiểu theo cách này, như thế nào do *Xúc* làm *Điều kiện* cần, mà có *Cảm Thọ*.
 
-Này Ānanda, nếu hoàn toàn không có *Xúc* dưới bất kỳ hình thức nào, ở bất kỳ đâu, của bất kỳ ai, cụ thể là—*Xúc* của mắt, *Xúc* của tai, *Xúc* của mũi, *Xúc* của lưỡi, *Xúc* của thân, *Xúc* của *giác quan Suy Nghĩ*. Khi hoàn toàn không có *Xúc*, do *Xúc* *bị chặn*, liệu *Cảm Giác* có thể xuất hiện được không?"
+Này Ānanda, nếu hoàn toàn không có *Xúc* dưới bất kỳ hình thức nào, ở bất kỳ đâu, của bất kỳ ai, cụ thể là—*Xúc* của mắt, *Xúc* của tai, *Xúc* của mũi, *Xúc* của lưỡi, *Xúc* của thân, *Xúc* của *giác quan Suy Nghĩ*. Khi hoàn toàn không có *Xúc*, do *Xúc* *bị chặn*, liệu *Cảm Thọ* có thể xuất hiện được không?"
 
 "Thưa không, bạch Thế Tôn."
 
-"Do đó, này Ānanda, đây chính là nguyên nhân, đây là nguồn gốc, đây là *sự hình thành*, đây là *Điều kiện* của *Cảm Giác*, tức là *Xúc*.
+"Do đó, này Ānanda, đây chính là nguyên nhân, đây là nguồn gốc, đây là *sự hình thành*, đây là *Điều kiện* của *Cảm Thọ*, tức là *Xúc*.
 
 'Do *Danh–sắc* làm *Điều kiện* cần, mà có *Xúc*', điều này đã được nói đến, này Ānanda, cần phải được hiểu theo cách này, như thế nào do *Danh–sắc* làm *Điều kiện* cần, mà có *Xúc*.
 
@@ -214,28 +214,28 @@ Này Ānanda, đó là những hình thức mà một người *không tin* và 
 
 Này Ānanda, *theo những cách nào* một người *quan niệm* (quán / samanupassati)về tự ngã?
 
-Này Ānanda, khi *quan niệm* về tự ngã, người ta có *quan niệm* *cảm giác* (thọ / vedanā) là tự ngã: '*cảm giác* là tự ngã của tôi.' Hoặc này Ānanda, khi *quan niệm* về tự ngã, người ta *quan niệm*: '*cảm giác* không phải là tự ngã của tôi, tự ngã của tôi là *vô cảm* (vô giác / appaṭisaṁvedana).' Hoặc này Ānanda, khi *quan niệm* về tự ngã, người ta *quan niệm*: '*cảm giác* không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là *vô cảm*; tự ngã của tôi là thứ nhận ra *cảm nhận* (thọ lãnh / vediyati), vì tự ngã của tôi chính là *năng lực cảm nhận*' (thọ pháp / vedanādhamma).'
+Này Ānanda, khi *quan niệm* về tự ngã, người ta có *quan niệm* *cảm thọ* (thọ / vedanā) là tự ngã: '*cảm thọ* là tự ngã của tôi.' Hoặc này Ānanda, khi *quan niệm* về tự ngã, người ta *quan niệm*: '*cảm thọ* không phải là tự ngã của tôi, tự ngã của tôi là *vô cảm* (vô giác / appaṭisaṁvedana).' Hoặc này Ānanda, khi *quan niệm* về tự ngã, người ta *quan niệm*: '*cảm thọ* không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là *vô cảm*; tự ngã của tôi là thứ nhận ra *cảm nhận* (thọ lãnh / vediyati), vì tự ngã của tôi chính là *năng lực cảm nhận*' (thọ pháp / vedanādhamma).'
 
-Này Ānanda, trong trường hợp, với người nói rằng: '*cảm giác* là tự ngã của tôi', nên nói với người ấy thế này: 'Này bạn, có ba *cảm giác*: *cảm giác dễ chịu* (thọ lạc / sukhā vedanā), *cảm giác khó chịu* (thọ khổ / dukkhā vedanā), và *cảm giác không dễ chịu không khó chịu* (thọ bất khổ bất lạc / adukkhamasukhā vedanā). Trong ba *cảm giác* này, bạn *quan niệm* điều nào là tự ngã?' Này Ānanda, trong lúc một người *cảm nhận* một *cảm giác dễ chịu*, thì trong lúc đó người ấy không *cảm nhận* một *cảm giác khó chịu*, không *cảm nhận* một *cảm giác không dễ chịu không khó chịu*; trong lúc đó người ấy chỉ *cảm nhận* *cảm giác dễ chịu*. Này Ānanda, trong lúc một người *cảm nhận* một *cảm giác khó chịu*, thì trong lúc đó người ấy không *cảm nhận* một *cảm giác dễ chịu*, không *cảm nhận* một *cảm giác không dễ chịu không khó chịu*; trong lúc đó người ấy chỉ *cảm nhận* *cảm giác khó chịu*. Này Ānanda, trong lúc một người *cảm nhận* một *cảm giác không dễ chịu không khó chịu*, thì trong lúc đó người ấy không *cảm nhận* một *cảm giác dễ chịu*, không *cảm nhận* một *cảm giác khó chịu*; trong lúc đó người ấy chỉ *cảm nhận* *cảm giác không dễ chịu không khó chịu*.
+Này Ānanda, trong trường hợp, với người nói rằng: '*cảm thọ* là tự ngã của tôi', nên nói với người ấy thế này: 'Này bạn, có ba *cảm thọ*: *cảm thọ dễ chịu* (thọ lạc / sukhā vedanā), *cảm thọ khó chịu* (thọ khổ / dukkhā vedanā), và *cảm thọ không dễ chịu không khó chịu* (thọ bất khổ bất lạc / adukkhamasukhā vedanā). Trong ba *cảm thọ* này, bạn *quan niệm* điều nào là tự ngã?' Này Ānanda, trong lúc một người *cảm nhận* một *cảm thọ dễ chịu*, thì trong lúc đó người ấy không *cảm nhận* một *cảm thọ khó chịu*, không *cảm nhận* một *cảm thọ không dễ chịu không khó chịu*; trong lúc đó người ấy chỉ *cảm nhận* *cảm thọ dễ chịu*. Này Ānanda, trong lúc một người *cảm nhận* một *cảm thọ khó chịu*, thì trong lúc đó người ấy không *cảm nhận* một *cảm thọ dễ chịu*, không *cảm nhận* một *cảm thọ không dễ chịu không khó chịu*; trong lúc đó người ấy chỉ *cảm nhận* *cảm thọ khó chịu*. Này Ānanda, trong lúc một người *cảm nhận* một *cảm thọ không dễ chịu không khó chịu*, thì trong lúc đó người ấy không *cảm nhận* một *cảm thọ dễ chịu*, không *cảm nhận* một *cảm thọ khó chịu*; trong lúc đó người ấy chỉ *cảm nhận* *cảm thọ không dễ chịu không khó chịu*.
 
-Này Ānanda, *cảm giác dễ chịu* là *không cố định* (vô thường / anicca), *do Hợp mà thành* (hữu vi / saṅkhata), là *thứ sinh qua quan hệ Phụ thuộc* (duyên sinh / paṭiccasamuppanna), *chịu sự hao mòn* (hoại diệt pháp / khayadhamma), *chịu sự suy tàn* (diệt pháp / vayadhamma), *chịu sự phai nhạt* (ly tham pháp / virāgadhamma), và *chịu sự cạn khô* (đoạn diệt pháp / nirodhadhamma). Này Ānanda, *cảm giác khó chịu* là *không cố định*, *do Hợp mà thành*, là *thứ sinh qua quan hệ Phụ thuộc*,  *chịu sự hao mòn*, *chịu sự suy tàn*, *chịu sự phai nhạt* và *chịu sự cạn khô*. Này Ānanda, *cảm giác không dễ chịu không khó chịu* là *không cố định*, *do Hợp mà thành*, là *thứ sinh qua quan hệ Phụ thuộc*, *chịu sự hao mòn*, *chịu sự suy tàn*, *chịu sự phai nhạt* và *chịu sự cạn khô*.
+Này Ānanda, *cảm thọ dễ chịu* là *không cố định* (vô thường / anicca), *do Hợp mà thành* (hữu vi / saṅkhata), là *thứ sinh qua quan hệ Phụ thuộc* (duyên sinh / paṭiccasamuppanna), *chịu sự hao mòn* (hoại diệt pháp / khayadhamma), *chịu sự suy tàn* (diệt pháp / vayadhamma), *chịu sự phai nhạt* (ly tham pháp / virāgadhamma), và *chịu sự cạn khô* (đoạn diệt pháp / nirodhadhamma). Này Ānanda, *cảm thọ khó chịu* là *không cố định*, *do Hợp mà thành*, là *thứ sinh qua quan hệ Phụ thuộc*,  *chịu sự hao mòn*, *chịu sự suy tàn*, *chịu sự phai nhạt* và *chịu sự cạn khô*. Này Ānanda, *cảm thọ không dễ chịu không khó chịu* là *không cố định*, *do Hợp mà thành*, là *thứ sinh qua quan hệ Phụ thuộc*, *chịu sự hao mòn*, *chịu sự suy tàn*, *chịu sự phai nhạt* và *chịu sự cạn khô*.
 
-Đối với người đang *cảm nhận* một *cảm giác dễ chịu*, người ấy nghĩ: 'Đây là tự ngã của tôi.' Khi chính *cảm giác dễ chịu* ấy biến mất, người ấy lại nghĩ: 'Tự ngã của tôi đã rời bỏ tôi.' Đối với người đang *cảm nhận* một *cảm giác khó chịu*, người ấy nghĩ: 'Đây là tự ngã của tôi.' Khi chính *cảm giác khó chịu* ấy biến mất, người ấy lại nghĩ: 'Tự ngã của tôi đã rời bỏ tôi.' Đối với người đang *cảm nhận* một *cảm giác không dễ chịu không khó chịu*, người ấy nghĩ: 'Đây là tự ngã của tôi.' Khi chính *cảm giác không dễ chịu không khó chịu* ấy biến mất, người ấy lại nghĩ: 'Tự ngã của tôi đã rời bỏ tôi.' Như vậy, người nào nói '*cảm giác* là tự ngã của tôi', người ấy đang *quan niệm* một tự ngã bị xáo trộn bởi sự dễ chịu và khó chịu ngay trong đời sống hiện tại, có bản chất sinh ra và tan biến. Do đó, này Ānanda, điều này không thích hợp để *quan niệm*: '*cảm giác* là tự ngã của tôi.'
+Đối với người đang *cảm nhận* một *cảm thọ dễ chịu*, người ấy nghĩ: 'Đây là tự ngã của tôi.' Khi chính *cảm thọ dễ chịu* ấy biến mất, người ấy lại nghĩ: 'Tự ngã của tôi đã rời bỏ tôi.' Đối với người đang *cảm nhận* một *cảm thọ khó chịu*, người ấy nghĩ: 'Đây là tự ngã của tôi.' Khi chính *cảm thọ khó chịu* ấy biến mất, người ấy lại nghĩ: 'Tự ngã của tôi đã rời bỏ tôi.' Đối với người đang *cảm nhận* một *cảm thọ không dễ chịu không khó chịu*, người ấy nghĩ: 'Đây là tự ngã của tôi.' Khi chính *cảm thọ không dễ chịu không khó chịu* ấy biến mất, người ấy lại nghĩ: 'Tự ngã của tôi đã rời bỏ tôi.' Như vậy, người nào nói '*cảm thọ* là tự ngã của tôi', người ấy đang *quan niệm* một tự ngã bị xáo trộn bởi sự dễ chịu và khó chịu ngay trong đời sống hiện tại, có bản chất sinh ra và tan biến. Do đó, này Ānanda, điều này không thích hợp để *quan niệm*: '*cảm thọ* là tự ngã của tôi.'
 
-Này Ānanda, trong trường hợp, với người nói rằng: '*cảm giác* không phải là tự ngã của tôi, tự ngã của tôi là *vô cảm*', nên nói với người ấy thế này: 'Này bạn, ở nơi nào hoàn toàn không có một sự *cảm nhận* nào, liệu ở đó có thể có suy nghĩ "Ta là thế này" không?'
-
-"Dạ không, bạch Thế Tôn."
-
-"Do đó, này Ānanda, điều này không thích hợp để *quan niệm*: '*cảm giác* không phải là tự ngã của tôi, tự ngã của tôi là *vô cảm*.'
-
-Này Ānanda, trong trường hợp, với người nói rằng: '*cảm giác* không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là *vô cảm*; tự ngã của tôi là thứ nhận ra *cảm nhận*, vì tự ngã của tôi chính là *năng lực cảm nhận*', nên nói với người ấy thế này: 'Này bạn, nếu mọi *cảm nhận* ở mọi khía cạnh, không sót một cái nào, theo mọi phương diện — đều hoàn toàn chấm dứt và tan biến. Thì khi đó, trong trạng thái hoàn toàn không còn *cảm nhận*, liệu ở đó có thể có suy nghĩ "Ta là thế này" không?'
+Này Ānanda, trong trường hợp, với người nói rằng: '*cảm thọ* không phải là tự ngã của tôi, tự ngã của tôi là *vô cảm*', nên nói với người ấy thế này: 'Này bạn, ở nơi nào hoàn toàn không có một sự *cảm nhận* nào, liệu ở đó có thể có suy nghĩ "Ta là thế này" không?'
 
 "Dạ không, bạch Thế Tôn."
 
-"Do đó, này Ānanda, điều này không thích hợp để *quan niệm*: '*cảm giác* không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là *vô cảm*; tự ngã của tôi là *thứ nhận ra cảm nhận*, vì tự ngã của tôi chính là *năng lực cảm nhận*'
+"Do đó, này Ānanda, điều này không thích hợp để *quan niệm*: '*cảm thọ* không phải là tự ngã của tôi, tự ngã của tôi là *vô cảm*.'
+
+Này Ānanda, trong trường hợp, với người nói rằng: '*cảm thọ* không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là *vô cảm*; tự ngã của tôi là thứ nhận ra *cảm nhận*, vì tự ngã của tôi chính là *năng lực cảm nhận*', nên nói với người ấy thế này: 'Này bạn, nếu mọi *cảm nhận* ở mọi khía cạnh, không sót một cái nào, theo mọi phương diện — đều hoàn toàn chấm dứt và tan biến. Thì khi đó, trong trạng thái hoàn toàn không còn *cảm nhận*, liệu ở đó có thể có suy nghĩ "Ta là thế này" không?'
+
+"Dạ không, bạch Thế Tôn."
+
+"Do đó, này Ānanda, điều này không thích hợp để *quan niệm*: '*cảm thọ* không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là *vô cảm*; tự ngã của tôi là *thứ nhận ra cảm nhận*, vì tự ngã của tôi chính là *năng lực cảm nhận*'
 
 <!--pg-->
-Này Ānanda, khi một Tỳ-kheo không *quan niệm* *cảm giác* là tự ngã, cũng không *quan niệm* *vô cảm* là tự ngã, cũng không *quan niệm* 'tự ngã của tôi là thứ nhận ra *cảm nhận*, vì tự ngã của tôi chính là *năng lực cảm nhận*'. Do không *quan niệm* như vậy, vị ấy không *bám giữ* (chấp thủ / upādiyati) bất cứ điều gì ở đời; không *bám giữ*, vị ấy không *lo âu* (sợ hãi / paritassati); không *lo âu*, vị ấy tự mình *hoàn toàn tịch diệt* (viên tịch / parinibbāyati). Vị ấy *biết rõ* (tuệ tri / pajānāti): '*sự Tái sinh* (sinh / jāti) đã *cạn sạch* (tận / khīṇā), đời sống thanh tịnh đã hoàn tất, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
+Này Ānanda, khi một Tỳ-kheo không *quan niệm* *cảm thọ* là tự ngã, cũng không *quan niệm* *vô cảm* là tự ngã, cũng không *quan niệm* 'tự ngã của tôi là thứ nhận ra *cảm nhận*, vì tự ngã của tôi chính là *năng lực cảm nhận*'. Do không *quan niệm* như vậy, vị ấy không *bám giữ* (chấp thủ / upādiyati) bất cứ điều gì ở đời; không *bám giữ*, vị ấy không *lo âu* (sợ hãi / paritassati); không *lo âu*, vị ấy tự mình *hoàn toàn tịch diệt* (viên tịch / parinibbāyati). Vị ấy *biết rõ* (tuệ tri / pajānāti): '*sự Tái sinh* (sinh / jāti) đã *cạn sạch* (tận / khīṇā), đời sống thanh tịnh đã hoàn tất, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'
 
 Này Ānanda, đối với vị Tỳ-kheo có *tâm được giải thoát* (giải thoát tâm / vimuttacitta) như vậy, nếu ai nói: '*Người Đến Như Vậy* (Như Lai / Tathāgata) tồn tại sau khi chết, đó là quan điểm của vị ấy' – điều đó không thích hợp. 'Không tồn tại *Người Đến Như Vậy* sau khi chết, đó là quan điểm của vị ấy' – điều đó không thích hợp. 'Vừa tồn tại vừa không tồn tại *Người Đến Như Vậy* sau khi chết, đó là quan điểm của vị ấy' – điều đó không thích hợp. 'Cũng không phải tồn tại, cũng không phải không tồn tại *Người Đến Như Vậy* sau khi chết, đó là quan điểm của vị ấy' – điều đó không thích hợp.
 
@@ -292,7 +292,7 @@ Hoàn toàn vượt qua *cõi 'Cái Biết' là Vô Tận*, thấy được rằ
 
 Hoàn toàn vượt qua *cõi Không Có Vật Gì*, vị ấy đạt đến và an trú trong *cõi Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*, đây là *sự giải thoát* thứ bảy.
 
-Hoàn toàn vượt qua *cõi Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*, vị ấy đi vào và an trú trong *sự làm ngưng Cảm Giác và Nhận Thức* (diệt thọ tưởng định / saññāvedayitanirodha), đây là *sự giải thoát* thứ tám.
+Hoàn toàn vượt qua *cõi Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*, vị ấy đi vào và an trú trong *sự làm ngưng Cảm Thọ và Nhận Thức* (diệt thọ tưởng định / saññāvedayitanirodha), đây là *sự giải thoát* thứ tám.
 
 Này Ānanda, đây là tám *sự giải thoát*.
 

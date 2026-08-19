@@ -75,7 +75,7 @@ Có những vị theo *thuyết thường hằng* (thường kiến / sassatavā
 
 4\.  **Cơ sở thứ tư:** Một vị không dựa trên thiền định mà dựa trên lý luận và suy diễn logic để tự mình đưa ra kết luận rằng bản ngã và thế giới là vĩnh cửu.
 
-Bất kỳ ai tuyên bố *thuyết thường hằng* đều không nằm ngoài bốn cơ sở này. *Người Đến Như Vậy* *biết rõ* cơ chế hình thành của những quan điểm này và hệ quả tương lai của chúng. Ngài thấu hiểu những điều vượt trội hơn thế, nhưng không bám víu vào sự hiểu biết đó. Nhờ thấu suốt *sự hình thành* (sinh / samudaya), sự *tan biến* (diệt / atthaṅgama), *sự hấp dẫn* (vị ngọt / assāda), *mặt trái* (sự nguy hiểm / ādīnava) và *sự thoát ly* (xuất ly / nissaraṇa) của các *Cảm Giác* (thọ / vedanā), *Người Đến Như Vậy* đạt được sự giải thoát hoàn toàn do không còn *nắm chặt* (thủ / upādāna).
+Bất kỳ ai tuyên bố *thuyết thường hằng* đều không nằm ngoài bốn cơ sở này. *Người Đến Như Vậy* *biết rõ* cơ chế hình thành của những quan điểm này và hệ quả tương lai của chúng. Ngài thấu hiểu những điều vượt trội hơn thế, nhưng không bám víu vào sự hiểu biết đó. Nhờ thấu suốt *sự hình thành* (sinh / samudaya), sự *tan biến* (diệt / atthaṅgama), *sự hấp dẫn* (vị ngọt / assāda), *mặt trái* (sự nguy hiểm / ādīnava) và *sự thoát ly* (xuất ly / nissaraṇa) của các *Cảm Thọ* (thọ / vedanā), *Người Đến Như Vậy* đạt được sự giải thoát hoàn toàn do không còn *nắm chặt* (thủ / upādāna).
 
 #### 3.1.2. Thuyết thường hằng một phần (Ekaccasassatavāda)
 
@@ -172,7 +172,7 @@ Có những vị theo *thuyết Niết-bàn ngay trong hiện tại* (hiện t�
 
 5\.  Bác bỏ điều trên vì tâm vẫn hướng đến ý nghĩ về hạnh phúc. Họ cho rằng đạt được *Thiền-na* thứ tư (trạng thái *Không Dễ Chịu Không Khó Chịu* / bất lạc bất khổ / adukkhamasukha) mới là Niết-bàn tối hậu.
 
-Thưa các tỳ kheo, tất cả những ai đưa ra các lý thuyết về quá khứ hay tương lai đều không nằm ngoài sáu mươi hai cơ sở này. *Người Đến Như Vậy* thấu hiểu toàn bộ cơ chế này, không bám víu vào chúng, và nhờ thấu suốt bản chất của các *Cảm Giác*, Ngài đã đạt được sự giải thoát hoàn toàn.
+Thưa các tỳ kheo, tất cả những ai đưa ra các lý thuyết về quá khứ hay tương lai đều không nằm ngoài sáu mươi hai cơ sở này. *Người Đến Như Vậy* thấu hiểu toàn bộ cơ chế này, không bám víu vào chúng, và nhờ thấu suốt bản chất của các *Cảm Thọ*, Ngài đã đạt được sự giải thoát hoàn toàn.
 
 ## 4. Bản chất tâm lý của các quan điểm (Attālokapaññattivatthu)
 
@@ -190,7 +190,7 @@ Việc những sa-môn và bà-la-môn này cho rằng họ có thể cảm nh�
 
 ### 4.4. Vòng lặp tâm lý của sự bám víu (Diṭṭhigatikādhiṭṭhānavaṭṭakathā)
 
-Thưa các tỳ kheo, tất cả những người bám víu vào sáu mươi hai quan điểm này đều cảm nhận thế giới thông qua sáu trường *tiếp xúc*. Đối với họ, vòng lặp tâm lý diễn ra như sau: *do Điều Kiện* *Cảm Giác* nên sinh ra *thèm khát*; *do Điều Kiện* *thèm khát* nên sinh ra sự *nắm chặt*; *do Điều Kiện* *nắm chặt* nên sinh ra *cõi tồn tại* (hữu / bhava); *do Điều Kiện* *cõi tồn tại* nên *Sinh* (jāti) xuất hiện; và *do Điều Kiện* *Sinh* nên *Già chết* (lão-tử / jarāmaraṇa), đau buồn, than khóc, *đau khổ*, *ưu phiền* và tuyệt vọng bắt đầu *sự hình thành*.
+Thưa các tỳ kheo, tất cả những người bám víu vào sáu mươi hai quan điểm này đều cảm nhận thế giới thông qua sáu trường *tiếp xúc*. Đối với họ, vòng lặp tâm lý diễn ra như sau: *do Điều Kiện* *Cảm Thọ* nên sinh ra *thèm khát*; *do Điều Kiện* *thèm khát* nên sinh ra sự *nắm chặt*; *do Điều Kiện* *nắm chặt* nên sinh ra *cõi tồn tại* (hữu / bhava); *do Điều Kiện* *cõi tồn tại* nên *Sinh* (jāti) xuất hiện; và *do Điều Kiện* *Sinh* nên *Già chết* (lão-tử / jarāmaraṇa), đau buồn, than khóc, *đau khổ*, *ưu phiền* và tuyệt vọng bắt đầu *sự hình thành*.
 
 ## 5. Kết luận: Tháo gỡ mạng lưới triết học (Vivaṭṭakathādi)
 
@@ -217,7 +217,7 @@ Thế Tôn đã thuyết giảng như vậy. Các tỳ kheo vô cùng hoan hỷ 
 | Tathāgata | Như Lai | Người Đến Như Vậy | |
 | Dhamma | Pháp | Điều | Mọi điều, nguyên lý, lời dạy |
 | Pajānāti | Tuệ tri | Thấy rõ | Phân biệt được rõ ràng |
-| Vedanā | Thọ | Cảm Giác | |
+| Vedanā | Thọ | Cảm Thọ | |
 | Samudaya | Sinh | Sự hình thành | |
 | Atthaṅgama | Diệt | Tan biến | Sự phai tàn tự nhiên |
 | Taṇhā | Tham ái | Sự khát khao | |
@@ -226,7 +226,7 @@ Thế Tôn đã thuyết giảng như vậy. Các tỳ kheo vô cùng hoan hỷ 
 | Jāti | Sinh | Sinh | |
 | Jarāmaraṇa | Lão tử | Già chết | |
 | Dukkha | Khổ | Đau khổ | |
-| Domanassa | Ưu | Ưu phiền | Cảm giác tiêu cực phát ra từ tâm lý |
+| Domanassa | Ưu | Ưu phiền | Cảm Thọ tiêu cực phát ra từ tâm lý |
 | Phassa | Xúc | Tiếp xúc | |
 | Abhinandunti | Hoan hỷ | Vui mừng đón nhận | |
 | [!] sassatavādā | Thường kiến | những người chủ trương thường hằng | Cho rằng bản ngã và thế giới là vĩnh cửu |

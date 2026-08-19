@@ -83,6 +83,10 @@ head:
       <div class="section-title"><a href="/kinhtieubo/thichminhchau/">Tỷ kheo Thích Minh Châu & GS Trần Phương Lan</a></div>
       <div class="section-subtitle">Bản dịch của Tỷ kheo Thích Minh Châu & GS Trần Phương Lan.</div>
     </div>
+    <div class="section-item">
+      <div class="section-title"><a href="/kinhtieubo/pali/">Pali</a></div>
+      <div class="section-subtitle">Khuddaka Nikāya in Pali language.</div>
+    </div>
   </template>
 
   <div class="closing-quote">

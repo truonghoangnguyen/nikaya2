@@ -31,13 +31,13 @@ Tại Sāvatthī.
 "Này các Tỷ kheo, sự sinh khởi của nhãn *xúc* (contact / sự tiếp xúc) ... ý xúc ... là sự biểu hiện của già và chết. Sự chấm dứt của nhãn xúc ... ý xúc ... là sự kết thúc của già và chết."
 
 <!--pg-->
-### SN 26.5 Cảm Giác *Samphassajasutta*
+### SN 26.5 Cảm Thọ *Samphassajasutta*
 
 Tại Sāvatthī.
 
-"Này các Tỷ kheo, sự sinh khởi của *cảm giác* (feeling / *thọ*) sinh ra từ sự tiếp xúc của mắt ...
+"Này các Tỷ kheo, sự sinh khởi của *cảm thọ* (feeling / *thọ*) sinh ra từ sự tiếp xúc của mắt ...
 
-sự sinh khởi của cảm giác sinh ra từ sự tiếp xúc của ý ... là sự biểu hiện của già và chết. Sự chấm dứt của cảm giác sinh ra từ sự tiếp xúc của mắt ... sự chấm dứt của cảm giác sinh ra từ sự tiếp xúc của ý ... là sự kết thúc của già và chết."
+sự sinh khởi của cảm thọ sinh ra từ sự tiếp xúc của ý ... là sự biểu hiện của già và chết. Sự chấm dứt của cảm thọ sinh ra từ sự tiếp xúc của mắt ... sự chấm dứt của cảm thọ sinh ra từ sự tiếp xúc của ý ... là sự kết thúc của già và chết."
 
 <!--pg-->
 ### SN 26.6 Nhận Thức *Saññāsutta*
@@ -72,4 +72,4 @@ Tại Sāvatthī.
 
 Tại Sāvatthī.
 
-"Này các Tỷ kheo, sự sinh khởi, tồn tại, tái sinh, và biểu hiện của *cơ thể* (form / *sắc* / hình thức vật chất) là sự sinh khởi của khổ, sự tồn tại của bệnh tật, và sự biểu hiện của già và chết. Sự sinh khởi, tồn tại, tái sinh, và biểu hiện của cảm giác, nhận thức, *hành* (choices(lựa chọn) / các hành động, sự lựa chọn), và thức là sự sinh khởi của khổ, sự tồn tại của bệnh tật, và sự biểu hiện của già và chết. Sự chấm dứt, lắng dịu, và kết thúc của cơ thể là sự chấm dứt của khổ, sự lắng dịu của bệnh tật, và sự kết thúc của già và chết. Sự chấm dứt, lắng dịu, và kết thúc của cảm giác, nhận thức, hành, và thức là sự chấm dứt của khổ, sự lắng dịu của bệnh tật, và sự kết thúc của già và chết."
+"Này các Tỷ kheo, sự sinh khởi, tồn tại, tái sinh, và biểu hiện của *cơ thể* (form / *sắc* / hình thức vật chất) là sự sinh khởi của khổ, sự tồn tại của bệnh tật, và sự biểu hiện của già và chết. Sự sinh khởi, tồn tại, tái sinh, và biểu hiện của cảm thọ, nhận thức, *hành* (choices(lựa chọn) / các hành động, sự lựa chọn), và thức là sự sinh khởi của khổ, sự tồn tại của bệnh tật, và sự biểu hiện của già và chết. Sự chấm dứt, lắng dịu, và kết thúc của cơ thể là sự chấm dứt của khổ, sự lắng dịu của bệnh tật, và sự kết thúc của già và chết. Sự chấm dứt, lắng dịu, và kết thúc của cảm thọ, nhận thức, hành, và thức là sự chấm dứt của khổ, sự lắng dịu của bệnh tật, và sự kết thúc của già và chết."

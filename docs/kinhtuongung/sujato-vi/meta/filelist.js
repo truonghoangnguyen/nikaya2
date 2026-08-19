@@ -48,7 +48,7 @@ const kinhtuongung_sujato_vi = [
   { text: "Tương Ưng Vacchagotta", link: "/kinhtuongung/sujato-vi/sn-33-linked-discourses-with-vacchagotta.md" },
   { text: "Tương Ưng về Thiền Định", link: "/kinhtuongung/sujato-vi/sn-34-linked-discourses-on-absorption.md" },
   { text: "Tương Ưng về Sáu Trường Giác Quan", link: "/kinhtuongung/sujato-vi/sn-35-linked-discourses-on-the-six-sense-fields.md" },
-  { text: "Tương Ưng Về Cảm Giác", link: "/kinhtuongung/sujato-vi/sn-36-linked-discourses-on-feelings.md" },
+  { text: "Tương Ưng Về Cảm Thọ", link: "/kinhtuongung/sujato-vi/sn-36-linked-discourses-on-feelings.md" },
   { text: "Các Bài Kinh Liên Quan Đến Phụ Nữ", link: "/kinhtuongung/sujato-vi/sn-37-linked-discourses-on-females.md" },
   { text: "Các Bài Kinh Tương Ưng với Jambukhādaka", link: "/kinhtuongung/sujato-vi/sn-38-linked-discourses-with-jambukhadaka.md" },
   { text: "Các Bài Kinh Liên Quan đến Sāmaṇḍaka", link: "/kinhtuongung/sujato-vi/sn-39-linked-discourses-with-samandaka.md" },

@@ -65,7 +65,7 @@
 5. Đi vào tầng **Nhận Biết Là Vô Tận**.
 6. Đi vào tầng **Không Có Vật Gì**.
 7. Đi vào tầng **Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"**.
-8. Đi vào sự **Chấm dứt Nhận Thức và Cảm Giác** (Diệt thọ tưởng định - Đỉnh cao tối thượng).
+8. Đi vào sự **Chấm dứt Nhận Thức và Cảm Thọ** (Diệt thọ tưởng định - Đỉnh cao tối thượng).
 
 ---
 

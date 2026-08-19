@@ -56,7 +56,7 @@ Nghe xong câu chuyện, các tỳ-kheo vô cùng hoan hỷ và ghi nhớ lời 
 | bhava | hữu | mầm sinh | dùng trong Duyên khởi |
 | upādāna | thủ | sự bám giữ | |
 | taṇhā | ái | sự thèm khát | |
-| vedanā | thọ | Cảm Giác | |
+| vedanā | thọ | Cảm Thọ | |
 | phassa | xúc | Xúc | |
 | saḷāyatana | lục nhập | sáu Xứ | |
 | nāmarūpa | danh sắc | Danh-sắc | |
