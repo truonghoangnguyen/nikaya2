@@ -1,3 +1,7 @@
+---
+tags:
+ - các bươc tu tập I
+---
 # MN 51. KINH KANDARAKA
 
 ***(Kandaraka sutta)***
@@ -49,7 +53,6 @@ chúng con sống quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chá
 được hạnh phúc và sự bất hạnh của chúng sanh trong khi loài người sống trong sự rối ren như vậy, trong
 sự cặn bã như vậy, trong sự xảo quyệt như vậy. Bạch Thế Tôn, rối ren thay như loài người. Bạch Thế
 Tôn, cởi mở thay như loài thú vật. Bạch Thế Tôn, con có thể nhiếp phục con voi, một cách khiến con voi
-
 ấy mỗi khi đi hay đến Campa, liền trình bày mọi sự gian dối, giả dối, xảo trá, xảo quyệt. Nhưng bạch
 Thế Tôn, những người đầy tớ của chúng con, những người phục dịch, những người làm công, thân hành
 họ làm một cách, khẩu hành họ làm một cách khác, ý hành họ làm một cách khác nữa. Thật vi diệu thay,
@@ -57,6 +60,7 @@ bạch Thế Tôn! Thật hy hữu thay, bạch Thế Tôn! Thế Tôn biết đ
 sanh, trong khi loài người sống trong sự rối ren như vậy, trong sự cặn bã như vậy, trong sự xảo quyệt
 như vậy. Bạch Thế Tôn, rối ren thay như loài người! Bạch Thế Tôn, cởi mở thay, như loài thú vật!
 
+<!--pg-->
 -- Thật như vậy, này Pessa! Thật như vậy, này Pessa! Này Pessa, rối ren thay, như loài người! Cởi mở
 thay, như loài thú vật! Này Pessa, có bốn hạng người này có mặt ở trên đời. Thế nào là bốn? Ở đây, này
 Pessa, có người tự hành khổ mình, chuyên tâm tự hành khổ mình. Ở đây, này Pessa, có người hành khổ
@@ -115,6 +119,7 @@ bốn hạng người này. Sau khi nghe Thế Tôn, các Tỷ-kheo sẽ thọ t
 
 Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
+<!--pg-->
 -- Này các Tỷ-kheo, thế nào là hạng người hành khổ mình, chuyên tâm hành khổ mình? Ở đây, này các
 Tỷ-kheo, có người sống lõa thể sống phóng túng không theo lễ nghi, liếm tay cho sạch, đi khất thực
 không chịu bước tới, đi khất thực không chịu đứng một chỗ, không nhận đồ ăn mang đến, không nhận
@@ -165,6 +170,7 @@ mình, vừa không hành khổ người, không chuyên tâm hành khổ ngư�
 khổ mình, không hành khổ người, hiện tại sống không tham dục, tịch tịnh, cảm thấy mát lạnh, cảm thấy
 lạc thọ, tự ngã trú vào Phạm thể?
 
+<!--pg-->
 Ở đây, này các Tỷ-kheo, Như Lai xuất hiện ở đời là bậc A-la-hán, Chánh Biến Tri, Minh Hạnh Túc,
 Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Như
 Lai sau khi riêng tự chứng ngộ với thượng trí, thế giới này là Thiên giới, Ma giới, Phạm thiên giới, gồm
@@ -230,6 +236,7 @@ Vị ấy thành tựu Thánh giới uẩn này, thành tựu Thánh hộ trì c
 tỉnh giác này, lựa một trú xứ thanh vắng, như khu rừng, gốc cây, khe núi, hang đá, bãi tha ma, lùm cây
 ngoài trời, đống rơm.
 
+<!--pg-->
 Sau khi ăn xong và đi khất thực trở về, vị ấy ngồi kiết-già, lưng thẳng tại chỗ nói trên, và an trú chánh
 niệm trước mặt. Vị ấy từ bỏ dục tham ở đời, sống với tâm thoát ly dục tham, gột rửa tâm hết dục tham.
 Từ bỏ sân hận, vị ấy sống với tâm không sân hận, lòng từ mẫn thương xót tất cả chúng sanh hữu tình,

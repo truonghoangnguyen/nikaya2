@@ -32,6 +32,9 @@ Ví dụ: "kāyagatāsati"
 - BAD: "*chú ý* (niệm/sati) vào thân"
 - GOOD:"*chú ý vào thân* (niệm/kāyagatāsati)";
   - lý do: table <vocabulary-mapping> có định nghĩa `sati` mà không định nghĩa `kāyagatāsati` nhưng ở đây `kāyagatāsati` là từ mang ý nghĩa.
+Ví dụ 2: "dhammanandiyā"
+- BAD: "sự *vui thú chạy theo* (hỷ lạc / nandiyā) trạng thái đó"
+- GOOD:"*vui thú với pháp [ấy]* (pháp hỷ/ dhammanandiyā)";
 
 #### 1.3 Nguyên tắc Ngữ-Pháp-Thuần-việt:
 
@@ -145,9 +148,9 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | Thuật ngữ Pali | Từ cũ (Hán-Việt) | Từ mới (Hiện đại) | Ghi chú |
 | :--- | :--- | :--- | :--- |
 | Khīṇāsava | Lậu tận | Người đã sạch nguồn ác | |
-| abhinandati | dục hỷ | chạy theo vui thú | |
+| abhinandati | dục hỷ |  vui thú chạy theo | |
 | dhamma | pháp | Quy luật | |
-| [!] abhijānāti | thắng tri | hiểu trực tiếp | biết trực tiếp, hiểu qua kinh nghiệm, tự mình biết |
+| [!] dhammarāga | tham luyến pháp | đắm nhiễm với pháp [ấy] |  |
 | [!] opapātika | hóa sanh | sinh ra tự nhiên | Sinh ra không qua thai nghén, thường dùng cho chư thiên. |
 | [BT] samādhiparikkhārā | định tư cụ | yếu tố hỗ trợ Định | Cách hệ thống hóa Bát Thánh Đạo thành các yếu tố xoay quanh Định. |
 | [NG] bhavanetti | ... | ... | Từ bhavanetti (sợi dây dẫn đến cõi tồn tại) |
@@ -156,7 +159,6 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 ## Dịch thuật
 - Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên những `# I. NGUYÊN TẮC (GUIDELINES)` và bản draft.
 - Giữ cấu trúc kinh văn Pali sát nhất, **không rút gọn công thức lặp** - vì cấu trúc lặp là đặc trưng cốt lõi của kinh văn truyền khẩu.
-
 
 ## Bảng thuật ngữ được Định Nghĩa (Vocabulary Mapping/dictionary)
 
@@ -223,8 +225,8 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | không tâm giải thoát (suññatā cetovimutti) | giải thoát qua tâm nhận thức về sự trống rỗng | |
 | vô tướng tâm giải thoát (animittā cetovimutti) | giải thoát qua tâm không tướng | |
 | từ (Mettā)  | yêu thương | |
-| bi (Karuṇā) | bảo bọc | |
-| hỉ (muditā) | cùng vui | |
+| bi (Karuṇā) | che chở | |
+| hỉ (muditā) | hân hoan | |
 | xả (upekkhā) | bình thản | |
 | xả (pahānā) | từ bỏ; hoàn toàn từ bỏ | |
 | hỷ (pīti) | hân hoan | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
@@ -366,6 +368,7 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | hý luận (papañca) | phóng đại | |
 | tâm giải thoát (cetovimutti) | tâm được giải thoát | |
 | tuệ giải thoát (paññāvimutti) | giải thoát bằng trí tuệ | | 
+| mettāsahagatena cetasā | tâm đi với lòng từ | | 
 </vocabulary-mapping>
 
 ### 4.1 Những từ giữ nguyên

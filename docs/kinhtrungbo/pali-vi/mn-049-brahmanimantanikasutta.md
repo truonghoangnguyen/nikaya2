@@ -1,96 +1,110 @@
-# MN 49. Brahmanimantanikasutta
+---
+description: Đức Phật kể lại cuộc đối thoại tại cõi Phạm thiên, nơi Ngài phá bỏ quan điểm sai lầm của Phạm thiên Baka về sự vĩnh cửu của cõi này, đồng thời hàng phục Ác ma đang cố gắng ngăn cản Ngài giảng dạy.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+# MN 49. KINH PHẠM THIÊN CẦU THỈNH
+*(Brahmanimantanikasutta)*[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-049){class="note-link"}
 
-“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
+1\. Tôi đã nghe như vầy—một thời Thế Tôn trú tại Sāvatthī, trong rừng Jeta, tu viện của Anāthapiṇḍika. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo".
 
-2\. “Ekamidāhaṁ, bhikkhave, samayaṁ ukkaṭṭhāyaṁ viharāmi subhagavane sālarājamūle. Tena kho pana, bhikkhave, samayena bakassa brahmuno evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ‘idaṁ niccaṁ, idaṁ dhuvaṁ, idaṁ sassataṁ, idaṁ kevalaṁ, idaṁ acavanadhammaṁ, idañhi na jāyati na jīyati na mīyati na cavati na upapajjati, ito ca panaññaṁ uttari nissaraṇaṁ natthī’ti.
+"Thưa vâng, bạch Thế Tôn", các tỳ kheo ấy đáp lời Thế Tôn. Thế Tôn nói điều này:
 
-3\. Atha khvāhaṁ, bhikkhave, bakassa brahmuno cetasā cetoparivitakkamaññāya—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—ukkaṭṭhāyaṁ subhagavane sālarājamūle antarahito tasmiṁ brahmaloke pāturahosiṁ.
+2\. "Này các tỳ kheo, một thời Ta đang trú tại Ukkaṭṭhā, trong khu rừng Subhaga, dưới gốc cây vương thọ Sāla. Này các tỳ kheo, vào lúc bấy giờ, Phạm thiên Baka khởi lên một *quan điểm sai lầm* (tà kiến / diṭṭhigata) ác hại như sau: 'Điều này là *thường hằng* (thường / nicca), điều này là *bền vững* (hằng / dhuva), điều này là *vĩnh cửu* (vĩnh cửu / sassata), điều này là *trọn vẹn* (trọn vẹn / kevala), điều này *không chịu sự suy tàn* (bất hoại pháp / acavanadhamma), vì điều này không sinh ra, không già đi, không chết đi, không suy tàn, không *tái sinh* (sinh / upapajjati), và không có *sự thoát khỏi* (xuất ly / nissaraṇa) nào khác cao hơn điều này'.
 
-Addasā kho maṁ, bhikkhave, bako brahmā dūratova āgacchantaṁ; disvāna maṁ etadavoca: ‘ehi kho, mārisa, svāgataṁ, mārisa. Cirassaṁ kho, mārisa, imaṁ pariyāyamakāsi yadidaṁ idhāgamanāya. Idañhi, mārisa, niccaṁ, idaṁ dhuvaṁ, idaṁ sassataṁ, idaṁ kevalaṁ, idaṁ acavanadhammaṁ, idañhi na jāyati na jīyati na mīyati na cavati na upapajjati. Ito ca panaññaṁ uttari nissaraṇaṁ natthī’ti.
+3\. Này các tỳ kheo, rồi Ta biết được suy nghĩ trong tâm của Phạm thiên Baka bằng tâm của mình—giống như một người lực lưỡng duỗi ra cánh tay đang co lại hoặc co lại cánh tay đang duỗi ra; cũng vậy—Ta biến mất khỏi gốc cây vương thọ Sāla trong rừng Subhaga ở Ukkaṭṭhā và xuất hiện tại cõi Phạm thiên ấy.
 
-4\. Evaṁ vutte, ahaṁ, bhikkhave, bakaṁ brahmānaṁ etadavocaṁ: ‘avijjāgato vata bho bako brahmā, avijjāgato vata bho bako brahmā; yatra hi nāma aniccaṁyeva samānaṁ niccanti vakkhati, addhuvaṁyeva samānaṁ dhuvanti vakkhati, asassataṁyeva samānaṁ sassatanti vakkhati, akevalaṁyeva samānaṁ kevalanti vakkhati, cavanadhammaṁyeva samānaṁ acavanadhammanti vakkhati; yattha ca pana jāyati jīyati mīyati cavati upapajjati tañca vakkhati: “idañhi na jāyati na jīyati na mīyati na cavati na upapajjatī”ti; santañca panaññaṁ uttari nissaraṇaṁ “natthaññaṁ uttari nissaraṇan”ti vakkhatī’ti.
+Này các tỳ kheo, Phạm thiên Baka thấy Ta đang đi đến từ đằng xa; thấy vậy liền nói với Ta điều này: 'Hãy đến đây, thưa ngài, chào mừng ngài đã đến. Đã lâu lắm rồi ngài mới có dịp đến đây. Thưa ngài, điều này là *thường hằng*, điều này là *bền vững*, điều này là *vĩnh cửu*, điều này là *trọn vẹn*, điều này *không chịu sự suy tàn*, vì điều này không sinh ra, không già đi, không chết đi, không suy tàn, không *tái sinh*. Và không có *sự thoát khỏi* nào khác cao hơn điều này'.
 
-5\. Atha kho, bhikkhave, māro pāpimā aññataraṁ brahmapārisajjaṁ anvāvisitvā maṁ etadavoca: ‘bhikkhu bhikkhu, metamāsado metamāsado, eso hi, bhikkhu, brahmā mahābrahmā abhibhū anabhibhūto aññadatthudaso vasavattī issaro kattā nimmātā seṭṭho sajitā vasī pitā bhūtabhabyānaṁ.
+4\. Khi được nói vậy, này các tỳ kheo, Ta nói với Phạm thiên Baka điều này: 'Phạm thiên Baka thật đã *rơi vào sự không hiểu biết* (vô minh / avijjāgato), Phạm thiên Baka thật đã *rơi vào sự không hiểu biết*; khi mà điều vốn không *thường hằng* lại nói là "*thường hằng*", điều vốn không *bền vững* lại nói là "*bền vững*", điều vốn không *vĩnh cửu* lại nói là "*vĩnh cửu*", điều vốn không *trọn vẹn* lại nói là "*trọn vẹn*", điều vốn chịu sự suy tàn lại nói là "*không chịu sự suy tàn*"; và nơi có sinh ra, già đi, chết đi, suy tàn, *tái sinh* thì lại nói rằng: "điều này không sinh ra, không già đi, không chết đi, không suy tàn, không *tái sinh*"; và khi có một *sự thoát khỏi* khác cao hơn thì lại nói rằng "không có *sự thoát khỏi* nào khác cao hơn"'.
 
-Ahesuṁ kho ye, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṁ pathavīgarahakā pathavījigucchakā, āpagarahakā āpajigucchakā, tejagarahakā tejajigucchakā, vāyagarahakā vāyajigucchakā, bhūtagarahakā bhūtajigucchakā, devagarahakā devajigucchakā, pajāpatigarahakā pajāpatijigucchakā, brahmagarahakā brahmajigucchakā—te kāyassa bhedā pāṇupacchedā hīne kāye patiṭṭhitā ahesuṁ.
+5\. Này các tỳ kheo, rồi *Ác ma* (Māra / māro pāpimā) nhập vào một vị trong quyến thuộc của Phạm thiên và nói với Ta điều này: 'Này tỳ kheo, này tỳ kheo, chớ có xúc phạm vị này, chớ có xúc phạm vị này, vì này tỳ kheo, vị này là Phạm thiên, Đại Phạm thiên, Đấng Chiến thắng, Đấng Bất bại, Đấng Toàn tri, Đấng Tối cao, Đấng Tự tại, Đấng Sáng tạo, Đấng Hóa sinh, Đấng Tối thắng, Đấng Điều ngự, Người Cha của những chúng sinh đã sinh và sẽ sinh.
 
-Ye pana, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṁ pathavīpasaṁsakā pathavābhinandino, āpapasaṁsakā āpābhinandino, tejapasaṁsakā tejābhinandino, vāyapasaṁsakā vāyābhinandino, bhūtapasaṁsakā bhūtābhinandino, devapasaṁsakā devābhinandino, pajāpatipasaṁsakā pajāpatābhinandino, brahmapasaṁsakā brahmābhinandino—te kāyassa bhedā pāṇupacchedā paṇīte kāye patiṭṭhitā.
+Này tỳ kheo, trước ngài đã từng có những sa-môn và bà-la-môn ở đời chê bai đất, ghê tởm đất; chê bai nước, ghê tởm nước; chê bai lửa, ghê tởm lửa; chê bai gió, ghê tởm gió; chê bai chúng sinh, ghê tởm chúng sinh; chê bai chư thiên, ghê tởm chư thiên; chê bai chúa tể chúng sinh, ghê tởm chúa tể chúng sinh; chê bai Phạm thiên, ghê tởm Phạm thiên—những vị ấy sau khi thân hoại mạng chung đã bị an lập vào một thân thấp kém.
 
-Taṁ tāhaṁ, bhikkhu, evaṁ vadāmi: “iṅgha tvaṁ, mārisa, yadeva te brahmā āha tadeva tvaṁ karohi, mā tvaṁ brahmuno vacanaṁ upātivattittho”. Sace kho tvaṁ, bhikkhu, brahmuno vacanaṁ upātivattissasi, seyyathāpi nāma puriso siriṁ āgacchantiṁ daṇḍena paṭippaṇāmeyya, seyyathāpi vā pana, bhikkhu, puriso narakappapāte papatanto hatthehi ca pādehi ca pathaviṁ virādheyya, evaṁ sampadamidaṁ, bhikkhu, tuyhaṁ bhavissati. Iṅgha tvaṁ, mārisa, yadeva te brahmā āha tadeva tvaṁ karohi, mā tvaṁ brahmuno vacanaṁ upātivattittho. Nanu tvaṁ, bhikkhu, passasi brahmaparisaṁ sannipatitan’ti?
+Nhưng này tỳ kheo, trước ngài đã từng có những sa-môn và bà-la-môn ở đời ca ngợi đất, *vui thú chạy theo* (hỷ / abhinandino) đất; ca ngợi nước, *vui thú chạy theo* nước; ca ngợi lửa, *vui thú chạy theo* lửa; ca ngợi gió, *vui thú chạy theo* gió; ca ngợi chúng sinh, *vui thú chạy theo* chúng sinh; ca ngợi chư thiên, *vui thú chạy theo* chư thiên; ca ngợi chúa tể chúng sinh, *vui thú chạy theo* chúa tể chúng sinh; ca ngợi Phạm thiên, *vui thú chạy theo* Phạm thiên—những vị ấy sau khi thân hoại mạng chung đã được an lập vào một thân thù thắng.
 
-Iti kho maṁ, bhikkhave, māro pāpimā brahmaparisaṁ upanesi.
+Này tỳ kheo, do vậy ta nói với ngài điều này: "Thưa ngài, Phạm thiên nói với ngài điều gì, ngài hãy làm đúng điều đó, ngài chớ có vượt qua lời của Phạm thiên". Này tỳ kheo, nếu ngài vượt qua lời của Phạm thiên, giống như một người dùng gậy xua đuổi vận may đang đến với mình, hay này tỳ kheo, giống như một người đang rơi xuống vực thẳm địa ngục mà tay chân lại trượt khỏi mặt đất, này tỳ kheo, hậu quả sẽ như vậy đối với ngài. Thưa ngài, Phạm thiên nói với ngài điều gì, ngài hãy làm đúng điều đó, ngài chớ có vượt qua lời của Phạm thiên. Này tỳ kheo, ngài không thấy hội chúng Phạm thiên đang tụ họp sao?'
 
-6\. Evaṁ vutte, ahaṁ, bhikkhave, māraṁ pāpimantaṁ etadavocaṁ: ‘jānāmi kho tāhaṁ, pāpima; mā tvaṁ maññittho: “na maṁ jānātī”ti. Māro tvamasi, pāpima. Yo ceva, pāpima, brahmā, yā ca brahmaparisā, ye ca brahmapārisajjā, sabbeva tava hatthagatā sabbeva tava vasaṅgatā. Tuyhañhi, pāpima, evaṁ hoti: “esopi me assa hatthagato, esopi me assa vasaṅgato”ti. Ahaṁ kho pana, pāpima, neva tava hatthagato neva tava vasaṅgato’ti.
+Này các tỳ kheo, như vậy *Ác ma* đã dẫn Ta đến trước hội chúng Phạm thiên.
 
-7\. Evaṁ vutte, bhikkhave, bako brahmā maṁ etadavoca: ‘ahañhi, mārisa, niccaṁyeva samānaṁ “niccan”ti vadāmi, dhuvaṁyeva samānaṁ “dhuvan”ti vadāmi, sassataṁyeva samānaṁ “sassatan”ti vadāmi, kevalaṁyeva samānaṁ “kevalan”ti vadāmi, acavanadhammaṁyeva samānaṁ “acavanadhamman”ti vadāmi, yattha ca pana na jāyati na jīyati na mīyati na cavati na upapajjati tadevāhaṁ vadāmi: “idañhi na jāyati na jīyati na mīyati na cavati na upapajjatī”ti. Asantañca panaññaṁ uttari nissaraṇaṁ “natthaññaṁ uttari nissaraṇan”ti vadāmi. Ahesuṁ kho, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṁ yāvatakaṁ tuyhaṁ kasiṇaṁ āyu tāvatakaṁ tesaṁ tapokammameva ahosi. Te kho evaṁ jāneyyuṁ santañca panaññaṁ uttari nissaraṇaṁ “atthaññaṁ uttari nissaraṇan”ti, asantaṁ vā aññaṁ uttari nissaraṇaṁ “natthaññaṁ uttari nissaraṇan”ti. Taṁ tāhaṁ, bhikkhu, evaṁ vadāmi: “na cevaññaṁ uttari nissaraṇaṁ dakkhissasi, yāvadeva ca pana kilamathassa vighātassa bhāgī bhavissasi. Sace kho tvaṁ, bhikkhu, pathaviṁ ajjhosissasi, opasāyiko me bhavissasi vatthusāyiko, yathākāmakaraṇīyo bāhiteyyo. Sace āpaṁ … tejaṁ … vāyaṁ … bhūte … deve … pajāpatiṁ … brahmaṁ ajjhosissasi, opasāyiko me bhavissasi vatthusāyiko, yathākāmakaraṇīyo bāhiteyyo”’ti.
+<!--pg-->
+6\. Khi được nói vậy, này các tỳ kheo, Ta nói với *Ác ma* điều này: 'Ta biết ngươi, hỡi kẻ ác; ngươi chớ có nghĩ: "Ông ấy không biết ta". Ngươi là *Ác ma*, hỡi kẻ ác. Hỡi kẻ ác, Phạm thiên, hội chúng Phạm thiên và quyến thuộc Phạm thiên, tất cả đều nằm trong tay ngươi, tất cả đều nằm dưới quyền lực của ngươi. Hỡi kẻ ác, ngươi nghĩ rằng: "Mong sao vị này cũng nằm trong tay ta, mong sao vị này cũng nằm dưới quyền lực của ta". Nhưng hỡi kẻ ác, Ta không nằm trong tay ngươi, Ta không nằm dưới quyền lực của ngươi'.
 
-8\. ‘Ahampi kho evaṁ, brahme, jānāmi: “sace pathaviṁ ajjhosissāmi, opasāyiko te bhavissāmi vatthusāyiko, yathākāmakaraṇīyo bāhiteyyo. Sace āpaṁ … tejaṁ … vāyaṁ … bhūte … deve … pajāpatiṁ … brahmaṁ ajjhosissāmi, opasāyiko te bhavissāmi vatthusāyiko, yathākāmakaraṇīyo bāhiteyyo”ti api ca te ahaṁ, brahme, gatiñca pajānāmi, jutiñca pajānāmi: “evaṁ mahiddhiko bako brahmā, evaṁ mahānubhāvo bako brahmā, evaṁ mahesakkho bako brahmā”ti.
+7\. Khi được nói vậy, này các tỳ kheo, Phạm thiên Baka nói với Ta điều này: 'Thưa ngài, điều vốn *thường hằng* thì ta nói là "*thường hằng*", điều vốn *bền vững* thì ta nói là "*bền vững*", điều vốn *vĩnh cửu* thì ta nói là "*vĩnh cửu*", điều vốn *trọn vẹn* thì ta nói là "*trọn vẹn*", điều vốn *không chịu sự suy tàn* thì ta nói là "*không chịu sự suy tàn*", và nơi không sinh ra, không già đi, không chết đi, không suy tàn, không *tái sinh* thì ta nói rằng: "điều này không sinh ra, không già đi, không chết đi, không suy tàn, không *tái sinh*". Và khi không có *sự thoát khỏi* nào khác cao hơn thì ta nói rằng "không có *sự thoát khỏi* nào khác cao hơn". Này tỳ kheo, trước ngài đã từng có những sa-môn và bà-la-môn ở đời mà tuổi thọ của họ dài bằng toàn bộ sự thực hành khổ hạnh của ngài. Họ biết rõ khi có một *sự thoát khỏi* khác cao hơn thì nói "có một *sự thoát khỏi* khác cao hơn", hoặc khi không có một *sự thoát khỏi* khác cao hơn thì nói "không có một *sự thoát khỏi* khác cao hơn". Này tỳ kheo, do vậy ta nói với ngài điều này: "Ngài sẽ không thấy một *sự thoát khỏi* nào khác cao hơn, và ngài sẽ chỉ chuốc lấy sự mệt mỏi và phiền não. Này tỳ kheo, nếu ngài *bám giữ* (chấp thủ / ajjhosissasi) vào đất, ngài sẽ nằm dưới quyền lực của ta, nằm trong lãnh địa của ta, ta có thể làm theo ý muốn và xua đuổi ngài. Nếu ngài *bám giữ* vào nước... vào lửa... vào gió... vào chúng sinh... vào chư thiên... vào chúa tể chúng sinh... vào Phạm thiên, ngài sẽ nằm dưới quyền lực của ta, nằm trong lãnh địa của ta, ta có thể làm theo ý muốn và xua đuổi ngài"'.
 
-Yathākathaṁ pana me tvaṁ, mārisa, gatiñca pajānāsi, jutiñca pajānāsi: “evaṁ mahiddhiko bako brahmā, evaṁ mahānubhāvo bako brahmā, evaṁ mahesakkho bako brahmā”’ti?
+8\. 'Này Phạm thiên, Ta cũng biết điều này: "Nếu Ta *bám giữ* vào đất, Ta sẽ nằm dưới quyền lực của ông, nằm trong lãnh địa của ông, ông có thể làm theo ý muốn và xua đuổi Ta. Nếu Ta *bám giữ* vào nước... vào lửa... vào gió... vào chúng sinh... vào chư thiên... vào chúa tể chúng sinh... vào Phạm thiên, Ta sẽ nằm dưới quyền lực của ông, nằm trong lãnh địa của ông, ông có thể làm theo ý muốn và xua đuổi Ta". Nhưng này Phạm thiên, Ta *biết rõ* (tuệ tri / pajānāmi) phạm vi của ông và Ta *biết rõ* hào quang của ông: "Phạm thiên Baka có thần lực lớn như vậy, Phạm thiên Baka có uy lực lớn như vậy, Phạm thiên Baka có oai phong lớn như vậy"'.
+
+'Thưa ngài, ngài *biết rõ* phạm vi của ta và *biết rõ* hào quang của ta như thế nào: "Phạm thiên Baka có thần lực lớn như vậy, Phạm thiên Baka có uy lực lớn như vậy, Phạm thiên Baka có oai phong lớn như vậy"?'
 
 9\.
-> ‘Yāvatā candimasūriyā,\
-> Pariharanti disā bhanti virocanā;\
-> Tāva sahassadhā loko,\
-> Ettha te vattate vaso.
+> 'Mặt trăng và mặt trời,\
+> Chiếu sáng khắp các hướng;\
+> Một ngàn thế giới ấy,\
+> Nằm trong quyền của ông.
+>
+> Ông biết kẻ thấp cao,\
+> Kẻ tham và ly tham;\
+> Trạng thái này trạng thái khác,\
+> Đường đi của chúng sinh.'
 
-> Paroparañca jānāsi,\
-> atho rāgavirāginaṁ;\
-> Itthabhāvaññathābhāvaṁ,\
-> sattānaṁ āgatiṁ gatinti.
+'Này Phạm thiên, như vậy Ta *biết rõ* phạm vi của ông và *biết rõ* hào quang của ông: "Phạm thiên Baka có thần lực lớn như vậy, Phạm thiên Baka có uy lực lớn như vậy, Phạm thiên Baka có oai phong lớn như vậy".
 
-Evaṁ kho te ahaṁ, brahme, gatiñca pajānāmi jutiñca pajānāmi: “evaṁ mahiddhiko bako brahmā, evaṁ mahānubhāvo bako brahmā, evaṁ mahesakkho bako brahmā”ti.
+<!--pg-->
+10\. Này Phạm thiên, có một thân khác mà ông không biết, không thấy; còn Ta thì biết, thì thấy. Này Phạm thiên, có một thân tên là Ābhassarā (Quang Âm thiên), từ đó ông đã suy tàn và *tái sinh* đến đây. Do ông cư trú ở đây quá lâu nên ký ức đó đã bị lãng quên, vì thế ông không biết, không thấy điều đó; còn Ta thì biết, thì thấy. Này Phạm thiên, như vậy Ta không chỉ ngang bằng ông về *sự hiểu hết toàn bộ* (thắng tri / abhiññā), huống hồ là thấp hơn? Trái lại, chính Ta vượt trội hơn ông.
 
-10\. Atthi kho, brahme, añño kāyo, taṁ tvaṁ na jānāsi na passasi; tamahaṁ jānāmi passāmi. Atthi kho, brahme, ābhassarā nāma kāyo yato tvaṁ cuto idhūpapanno. Tassa te aticiranivāsena sā sati pamuṭṭhā, tena taṁ tvaṁ na jānāsi na passasi; tamahaṁ jānāmi passāmi. Evampi kho ahaṁ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṁ? Atha kho ahameva tayā bhiyyo.
+Này Phạm thiên, có một thân tên là Subhakiṇhā (Biến Tịnh thiên), một thân tên là Vehapphalā (Quảng Quả thiên), một thân tên là Abhibhū (Thắng Giả thiên), mà ông không biết, không thấy; còn Ta thì biết, thì thấy. Này Phạm thiên, như vậy Ta không chỉ ngang bằng ông về *sự hiểu hết toàn bộ*, huống hồ là thấp hơn? Trái lại, chính Ta vượt trội hơn ông.
 
-Atthi kho, brahme, subhakiṇho nāma kāyo, vehapphalo nāma kāyo, abhibhū nāma kāyo, taṁ tvaṁ na jānāsi na passasi; tamahaṁ jānāmi passāmi. Evampi kho ahaṁ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṁ? Atha kho ahameva tayā bhiyyo.
+11\. Này Phạm thiên, sau khi *hiểu hết toàn bộ* đất từ đất, sau khi *hiểu hết toàn bộ* điều không được trải nghiệm qua đặc tính đất của đất, Ta không tự đồng hóa mình với đất, Ta không tự đồng hóa mình trong đất, Ta không tự đồng hóa mình từ đất, Ta không tự đồng hóa rằng "đất là của Ta", Ta không ca ngợi đất. Này Phạm thiên, như vậy Ta không chỉ ngang bằng ông về *sự hiểu hết toàn bộ*, huống hồ là thấp hơn? Trái lại, chính Ta vượt trội hơn ông.
 
-11\. Pathaviṁ kho ahaṁ, brahme, pathavito abhiññāya yāvatā pathaviyā pathavattena ananubhūtaṁ tadabhiññāya pathaviṁ nāpahosiṁ, pathaviyā nāpahosiṁ, pathavito nāpahosiṁ, pathaviṁ meti nāpahosiṁ, pathaviṁ nābhivadiṁ. Evampi kho ahaṁ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṁ? Atha kho ahameva tayā bhiyyo.
+12\. Này Phạm thiên, sau khi *hiểu hết toàn bộ* nước... [...lặp lại...]... lửa... [...lặp lại...]... gió... [...lặp lại...]... chúng sinh... [...lặp lại...]... chư thiên... [...lặp lại...]... chúa tể chúng sinh... [...lặp lại...]... Phạm thiên... [...lặp lại...]... Ābhassarā... [...lặp lại...]... Subhakiṇhā... [...lặp lại...]... Vehapphalā... [...lặp lại...]... Abhibhū... [...lặp lại...]... Này Phạm thiên, sau khi *hiểu hết toàn bộ* tất cả từ tất cả, sau khi *hiểu hết toàn bộ* điều không được trải nghiệm qua đặc tính tất cả của tất cả, Ta không tự đồng hóa mình với tất cả, Ta không tự đồng hóa mình trong tất cả, Ta không tự đồng hóa mình từ tất cả, Ta không tự đồng hóa rằng "tất cả là của Ta", Ta không ca ngợi tất cả. Này Phạm thiên, như vậy Ta không chỉ ngang bằng ông về *sự hiểu hết toàn bộ*, huống hồ là thấp hơn? Trái lại, chính Ta vượt trội hơn ông'.
 
-12\. Āpaṁ kho ahaṁ, brahme …pe… tejaṁ kho ahaṁ, brahme …pe… vāyaṁ kho ahaṁ, brahme …pe… bhūte kho ahaṁ, brahme …pe… deve kho ahaṁ, brahme …pe… pajāpatiṁ kho ahaṁ, brahme …pe… brahmaṁ kho ahaṁ, brahme …pe… ābhassare kho ahaṁ, brahme …pe… subhakiṇhe kho ahaṁ, brahme …pe… vehapphale kho ahaṁ, brahme …pe… abhibhuṁ kho ahaṁ, brahme …pe… sabbaṁ kho ahaṁ, brahme, sabbato abhiññāya yāvatā sabbassa sabbattena ananubhūtaṁ tadabhiññāya sabbaṁ nāpahosiṁ sabbasmiṁ nāpahosiṁ sabbato nāpahosiṁ sabbaṁ meti nāpahosiṁ, sabbaṁ nābhivadiṁ. Evampi kho ahaṁ, brahme, neva te samasamo abhiññāya, kuto nīceyyaṁ? Atha kho ahameva tayā bhiyyo’ti.
-
-24\. ‘Sace kho, mārisa, sabbassa sabbattena ananubhūtaṁ, tadabhiññāya mā heva te rittakameva ahosi, tucchakameva ahosīti.
+24\. 'Thưa ngài, nếu ngài đã *hiểu hết toàn bộ* điều không được trải nghiệm qua đặc tính tất cả của tất cả, mong rằng điều đó không trở thành trống rỗng, không trở thành vô nghĩa đối với ngài.
 
 25\.
-> Viññāṇaṁ anidassanaṁ\
-> anantaṁ sabbato pabhaṁ.
+> *Thức* không hiện tướng \
+> Vô biên, sáng khắp nơi.
 
-Taṁ pathaviyā pathavattena ananubhūtaṁ, āpassa āpattena ananubhūtaṁ, tejassa tejattena ananubhūtaṁ, vāyassa vāyattena ananubhūtaṁ, bhūtānaṁ bhūtattena ananubhūtaṁ, devānaṁ devattena ananubhūtaṁ, pajāpatissa pajāpatittena ananubhūtaṁ, brahmānaṁ brahmattena ananubhūtaṁ, ābhassarānaṁ ābhassarattena ananubhūtaṁ, subhakiṇhānaṁ subhakiṇhattena ananubhūtaṁ, vehapphalānaṁ vehapphalattena ananubhūtaṁ, abhibhussa abhibhuttena ananubhūtaṁ, sabbassa sabbattena ananubhūtaṁ.
+“Cái ấy không được *trải nghiệm/nếm trải* (lãnh thọ/ananubhūtaṁ) như là đất theo tính chất của đất; không được *trải nghiệm* như là nước theo tính chất của nước; không được *trải nghiệm* như là lửa theo tính chất của lửa; không được *trải nghiệm* như là gió theo tính chất của gió;
 
-26\. Handa carahi te, mārisa, passa antaradhāyāmī’ti.
+không được *trải nghiệm* như là các loài hữu tình theo tính chất của các loài hữu tình; không được *trải nghiệm* như là chư thiên theo tính chất của chư thiên; không được *trải nghiệm* như là Pajāpati theo tính chất của Pajāpati; không được *trải nghiệm* như là Phạm thiên theo tính chất của Phạm thiên;
 
-‘Handa carahi me tvaṁ, brahme, antaradhāyassu, sace visahasī’ti.
+không được *trải nghiệm* như là các vị Ābhassara theo tính chất của Ābhassara; không được *trải nghiệm* như là các vị Subhakiṇha theo tính chất của Subhakiṇha; không được *trải nghiệm* như là các vị Vehapphala theo tính chất của Vehapphala; không được *trải nghiệm* như là Abhibhū theo tính chất của Abhibhū;
 
-Atha kho, bhikkhave, bako brahmā: ‘antaradhāyissāmi samaṇassa gotamassa, antaradhāyissāmi samaṇassa gotamassā’ti nevassu me sakkoti antaradhāyituṁ.
+không được *trải nghiệm* như là tất cả theo tính chất của tất cả.”
 
-Evaṁ vutte, ahaṁ, bhikkhave, bakaṁ brahmānaṁ etadavocaṁ: ‘handa carahi te brahme antaradhāyāmī’ti.
+<!--pg-->
+26\. Này ngài, bây giờ ta sẽ biến mất khỏi ngài'.
 
-‘Handa carahi me tvaṁ, mārisa, antaradhāyassu sace visahasī’ti.
+'Này Phạm thiên, bây giờ ông hãy biến mất khỏi Ta, nếu ông có thể'.
 
-Atha kho ahaṁ, bhikkhave, tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsiṁ: ‘ettāvatā brahmā ca brahmaparisā ca brahmapārisajjā ca saddañca me sossanti, na ca maṁ dakkhantī’ti. Antarahito imaṁ gāthaṁ abhāsiṁ:
+Này các tỳ kheo, rồi Phạm thiên Baka nghĩ: 'Ta sẽ biến mất khỏi sa-môn Gotama, ta sẽ biến mất khỏi sa-môn Gotama', nhưng ông ta không thể biến mất khỏi Ta.
+
+Khi được nói vậy, này các tỳ kheo, Ta nói với Phạm thiên Baka điều này: 'Này Phạm thiên, bây giờ Ta sẽ biến mất khỏi ông'.
+
+'Này ngài, bây giờ ngài hãy biến mất khỏi ta, nếu ngài có thể'.
+
+Này các tỳ kheo, rồi Ta thực hiện một thần thông như sau: 'Phạm thiên, hội chúng Phạm thiên và quyến thuộc Phạm thiên sẽ nghe tiếng của Ta, nhưng họ sẽ không thấy Ta'. Sau khi biến mất, Ta đọc bài kệ này:
 
 27\.
-> ‘Bhavevāhaṁ bhayaṁ disvā,\
-> bhavañca vibhavesinaṁ;\
-> Bhavaṁ nābhivadiṁ kiñci,\
-> nandiñca na upādiyin’ti.
+> 'Thấy nguy trong *sự tồn tại* (hữu / bhava),\
+> Và kẻ tìm *không tồn tại* (phi hữu / vibhava);\
+> Ta không khen *sự tồn tại*,\
+> Không *bám giữ* *vui thú* nào.'
 
-28\. Atha kho, bhikkhave, brahmā ca brahmaparisā ca brahmapārisajjā ca acchariyabbhutacittajātā ahesuṁ: ‘acchariyaṁ vata bho, abbhutaṁ vata bho. Samaṇassa gotamassa mahiddhikatā mahānubhāvatā, na ca vata no ito pubbe diṭṭho vā, suto vā, añño samaṇo vā brāhmaṇo vā evaṁ mahiddhiko evaṁ mahānubhāvo yathāyaṁ samaṇo gotamo sakyaputto sakyakulā pabbajito. Bhavarāmāya vata, bho, pajāya bhavaratāya bhavasammuditāya samūlaṁ bhavaṁ udabbahī’ti.
+28\. Này các tỳ kheo, rồi Phạm thiên, hội chúng Phạm thiên và quyến thuộc Phạm thiên đều kinh ngạc và kỳ diệu trong tâm: 'Thật kỳ diệu thay, thật hy hữu thay. Thần lực lớn lao, uy lực lớn lao của sa-môn Gotama; từ trước đến nay chúng ta chưa từng thấy, chưa từng nghe có một sa-môn hay bà-la-môn nào khác có thần lực lớn như vậy, có uy lực lớn như vậy, giống như sa-môn Gotama, Thích tử, xuất gia từ gia tộc Thích-ca. Đối với quần chúng vốn thích thú trong *sự tồn tại*, vui mừng trong *sự tồn tại*, hoan hỷ trong *sự tồn tại*, ngài đã nhổ tận gốc rễ của *sự tồn tại*'.
 
-29\. Atha kho, bhikkhave, māro pāpimā aññataraṁ brahmapārisajjaṁ anvāvisitvā maṁ etadavoca: ‘sace kho tvaṁ, mārisa, evaṁ pajānāsi, sace tvaṁ evaṁ anubuddho, mā sāvake upanesi, mā pabbajite; mā sāvakānaṁ dhammaṁ desesi, mā pabbajitānaṁ; mā sāvakesu gedhimakāsi, mā pabbajitesu.
+29\. Này các tỳ kheo, rồi *Ác ma* nhập vào một vị trong quyến thuộc của Phạm thiên và nói với Ta điều này: 'Thưa ngài, nếu ngài *biết rõ* như vậy, nếu ngài đã giác ngộ như vậy, ngài chớ có hướng dẫn các đệ tử, chớ có hướng dẫn những người xuất gia; ngài chớ có giảng *Giáo pháp* (pháp / dhamma) cho các đệ tử, chớ có giảng cho những người xuất gia; ngài chớ có tạo ra sự dính mắc vào các đệ tử, chớ có tạo ra sự dính mắc vào những người xuất gia.
 
-Ahesuṁ kho, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṁ arahanto sammāsambuddhā paṭijānamānā. Te sāvake upanesuṁ pabbajite, sāvakānaṁ dhammaṁ desesuṁ pabbajitānaṁ, sāvakesu gedhimakaṁsu pabbajitesu, te sāvake upanetvā pabbajite, sāvakānaṁ dhammaṁ desetvā pabbajitānaṁ, sāvakesu gedhitacittā pabbajitesu, kāyassa bhedā pāṇupacchedā hīne kāye patiṭṭhitā.
+Này tỳ kheo, trước ngài đã từng có những sa-môn và bà-la-môn ở đời tự xưng là bậc A-la-hán, Chánh Đẳng Giác. Họ đã hướng dẫn các đệ tử và những người xuất gia, đã giảng *Giáo pháp* cho các đệ tử và những người xuất gia, đã tạo ra sự dính mắc vào các đệ tử và những người xuất gia; sau khi hướng dẫn các đệ tử và những người xuất gia, sau khi giảng *Giáo pháp* cho các đệ tử và những người xuất gia, với tâm dính mắc vào các đệ tử và những người xuất gia, khi thân hoại mạng chung họ đã bị an lập vào một thân thấp kém.
 
-Ahesuṁ ye pana, bhikkhu, tayā pubbe samaṇabrāhmaṇā lokasmiṁ arahanto sammāsambuddhā paṭijānamānā. Te na sāvake upanesuṁ na pabbajite, na sāvakānaṁ dhammaṁ desesuṁ na pabbajitānaṁ, na sāvakesu gedhimakaṁsu na pabbajitesu, te na sāvake upanetvā na pabbajite, na sāvakānaṁ dhammaṁ desetvā na pabbajitānaṁ, na sāvakesu gedhitacittā na pabbajitesu, kāyassa bhedā pāṇupacchedā paṇīte kāye patiṭṭhitā.
+Nhưng này tỳ kheo, trước ngài đã từng có những sa-môn và bà-la-môn ở đời tự xưng là bậc A-la-hán, Chánh Đẳng Giác. Họ không hướng dẫn các đệ tử và những người xuất gia, không giảng *Giáo pháp* cho các đệ tử và những người xuất gia, không tạo ra sự dính mắc vào các đệ tử và những người xuất gia; sau khi không hướng dẫn các đệ tử và những người xuất gia, sau khi không giảng *Giáo pháp* cho các đệ tử và những người xuất gia, với tâm không dính mắc vào các đệ tử và những người xuất gia, khi thân hoại mạng chung họ đã được an lập vào một thân thù thắng.
 
-Taṁ tāhaṁ, bhikkhu, evaṁ vadāmi—iṅgha tvaṁ, mārisa, appossukko diṭṭhadhammasukhavihāramanuyutto viharassu, anakkhātaṁ kusalañhi, mārisa, mā paraṁ ovadāhī’ti.
+Này tỳ kheo, do vậy ta nói với ngài điều này—thưa ngài, ngài hãy *không can dự* (ít dục / appossukko), sống chuyên tâm vào sự an lạc trong hiện tại, vì thưa ngài, điều thiện không được nói ra [là tốt hơn], ngài chớ có khuyên bảo người khác'.
 
-30\. Evaṁ vutte, ahaṁ, bhikkhave, māraṁ pāpimantaṁ etadavocaṁ: ‘jānāmi kho tāhaṁ, pāpima, mā tvaṁ maññittho: “na maṁ jānātī”ti. Māro tvamasi, pāpima. Na maṁ tvaṁ, pāpima, hitānukampī evaṁ vadesi; ahitānukampī maṁ tvaṁ, pāpima, evaṁ vadesi. Tuyhañhi, pāpima, evaṁ hoti: “yesaṁ samaṇo gotamo dhammaṁ desessati, te me visayaṁ upātivattissantī”ti.
+30\. Khi được nói vậy, này các tỳ kheo, Ta nói với *Ác ma* điều này: 'Ta biết ngươi, hỡi kẻ ác, ngươi chớ có nghĩ: "Ông ấy không biết ta". Ngươi là *Ác ma*, hỡi kẻ ác. Hỡi kẻ ác, không phải vì lòng thương tưởng đến lợi ích của Ta mà ngươi nói như vậy; hỡi kẻ ác, chính vì không có lòng thương tưởng đến lợi ích của Ta mà ngươi nói như vậy. Hỡi kẻ ác, ngươi nghĩ rằng: "Sa-môn Gotama giảng *Giáo pháp* cho những ai, những người ấy sẽ vượt khỏi lãnh địa của ta".
 
-Asammāsambuddhāva pana te, pāpima, samānā sammāsambuddhāmhāti paṭijāniṁsu. Ahaṁ kho pana, pāpima, sammāsambuddhova samāno sammāsambuddhomhīti paṭijānāmi. Desentopi hi, pāpima, tathāgato sāvakānaṁ dhammaṁ tādisova adesentopi hi, pāpima, tathāgato sāvakānaṁ dhammaṁ tādisova. Upanentopi hi, pāpima, tathāgato sāvake tādisova, anupanentopi hi, pāpima, tathāgato sāvake tādisova. Taṁ kissa hetu? Tathāgatassa, pāpima, ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā—te pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Seyyathāpi, pāpima, tālo matthakacchinno abhabbo puna virūḷhiyā; evameva kho, pāpima, tathāgatassa ye āsavā saṅkilesikā ponobbhavikā sadarā dukkhavipākā āyatiṁ jātijarāmaraṇiyā—te pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā’ti.
+Hỡi kẻ ác, những vị ấy không phải là Chánh Đẳng Giác mà lại tự xưng là Chánh Đẳng Giác. Còn Ta, hỡi kẻ ác, là bậc Chánh Đẳng Giác và Ta tuyên bố là bậc Chánh Đẳng Giác. Hỡi kẻ ác, dù Như Lai có giảng *Giáo pháp* cho các đệ tử thì Ngài vẫn là như vậy; hỡi kẻ ác, dù Như Lai không giảng *Giáo pháp* cho các đệ tử thì Ngài vẫn là như vậy. Hỡi kẻ ác, dù Như Lai có hướng dẫn các đệ tử thì Ngài vẫn là như vậy; hỡi kẻ ác, dù Như Lai không hướng dẫn các đệ tử thì Ngài vẫn là như vậy. Vì nguyên nhân nào? Hỡi kẻ ác, đối với Như Lai, những *nguồn ác* (lậu hoặc / āsavā) gây ra sự ô nhiễm, dẫn đến *tái sinh*, đi kèm với sợ hãi, mang lại quả báo *đau khổ* (khổ / dukkha), dẫn đến sinh, già, chết trong tương lai—chúng đã bị *từ bỏ* (đoạn trừ / pahīnā), bị cắt đứt tận gốc rễ, làm cho như thân cây cọ bị chặt đứt, làm cho không thể tồn tại, *không sinh khởi trở lại* (vô sanh / anuppāda) trong tương lai. Hỡi kẻ ác, giống như một cây cọ bị chặt đứt ngọn thì không thể mọc lại được nữa; cũng vậy hỡi kẻ ác, đối với Như Lai, những *nguồn ác* gây ra sự ô nhiễm, dẫn đến *tái sinh*, đi kèm với sợ hãi, mang lại quả báo *đau khổ*, dẫn đến sinh, già, chết trong tương lai—chúng đã bị *từ bỏ*, bị cắt đứt tận gốc rễ, làm cho như thân cây cọ bị chặt đứt, làm cho không thể tồn tại, *không sinh khởi trở lại* trong tương lai'.
 
-31\. Iti hidaṁ mārassa ca anālapanatāya brahmuno ca abhinimantanatāya, tasmā imassa veyyākaraṇassa brahmanimantanikantveva adhivacanan”ti.
+31\. Như vậy, vì Ác ma không thể nói lại được và vì sự thỉnh cầu của Phạm thiên, nên bài kinh này có tên là 'Kinh Phạm thiên cầu thỉnh'.
 
-Brahmanimantanikasuttaṁ niṭṭhitaṁ navamaṁ.
+Kinh Phạm thiên cầu thỉnh thứ chín đã kết thúc.

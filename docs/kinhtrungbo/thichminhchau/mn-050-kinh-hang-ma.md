@@ -40,6 +40,7 @@ giả Maha Moggallana thấy Ác ma đứng dựa nơi cửa thấy vậy, bèn 
 Ngươi đang đứng dựa nơi cửa (miệng?). Này Ác ma, thuở xưa, ta-là Ác ma tên là Dusi, và chị ta tên là
 Kali. Ngươi là con trai chị ta. Như vậy Ngươi là cháu ta.
 
+<!--pg-->
 Này Ác ma, lúc bấy giờ, Thế Tôn Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác ra đời. Thế Tôn
 Kakusandha, bậc A-la-hán Chánh Ðẳng Giác có hai vị đệ tử tên là Vidhura, và Sanjiva, hai bậc tối
 thượng, hai bậc Hiền giả. Này Ác ma, đối với các vị đệ tử của Thế Tôn Kakusandha, bậc A-la-hán,
@@ -147,6 +148,8 @@ Chánh Ðẳng Giác nhìn xung quanh với cái nhìn con voi chúa và suy ngh
 Dusi không biết sự vừa phải". Này Ác ma, khi Thế Tôn nhìn xung quanh, thì Ác ma Dusi liền từ chỗ ấy
 từ trần và sinh vào cõi địa ngục.
 
+<!--pg-->
+
 Này Ác ma, địa ngục ấy được ba tên gọi: Sáu xúc xứ địa ngục, Thiết qua địa ngục, Biệt thọ khổ địa
 ngục. Rồi các người giữ địa ngục đến ta và nói như sau: "Này Tôn giả, khi cọc sắt sẽ gặp cọc sắt trong
 tim của Ngươi, Ngươi mới hiểu như sau: "Ta sẽ bị trụng nước sôi một ngàn năm ở địa ngục.''
@@ -155,118 +158,118 @@ Và ta, này Ác ma, ta bị trụng nước sôi, trải nhiều năm, nhiều 
 Trải qua một vạn năm trong đại địa ngục ấy, ta bị nấu sôi và cảm thọ cảm giác gọi là Vutthanima. Do
 vậy, này Ác ma, thân của ta là như vậy, thân như con người, và đầu ta là như vậy, đầu như con cá.
 
-*1. Ðịa ngục ấy thế nào*
-*Dusi bị nấu sôi*
-*Vì đánh Vidhura,*
-*Ðệ tử Kakusandha.*
-*Có trăm loại cọc sắt,*
-*Tự cảm thọ riêng biệt*
-*Ðịa ngục là như vậy,*
-*Dusi bị nấu sôi.*
-*Vì đánh Vidhura,*
+*1. Ðịa ngục ấy thế nào*\
+*Dusi bị nấu sôi*\
+*Vì đánh Vidhura,*\
+*Ðệ tử Kakusandha.*\
+*Có trăm loại cọc sắt,*\
+*Tự cảm thọ riêng biệt*\
+*Ðịa ngục là như vậy,*\
+*Dusi bị nấu sôi.*\
+*Vì đánh Vidhura,*\
 *Ðệ tử Kakusandha*
 
-*Tỷ-kheo đệ tử Phật,*
-*Hiểu biết rõ như vậy.*
-*Vì Ngươi đánh Tỷ-kheo,*
+*Tỷ-kheo đệ tử Phật,*\
+*Hiểu biết rõ như vậy.*\
+*Vì Ngươi đánh Tỷ-kheo,*\
 *Kanha chịu khổ thọ,*
 
-*2. Dựng lên giữa biển cả,*
-*Cung điện trải nhiều kiếp,*
-*Bằng ngọc chói lưu ly,*
-*Huy hoàng cùng chiếu diệu.*
-*Tiên nữ múa tại đây,*
+*2. Dựng lên giữa biển cả,*\
+*Cung điện trải nhiều kiếp,*\
+*Bằng ngọc chói lưu ly,*\
+*Huy hoàng cùng chiếu diệu.*\
+*Tiên nữ múa tại đây,*\
 *Trang sức màu dị biệt.*
 
-*Tỷ-kheo đệ tử Phật,*
-*Hiểu biết rõ như vậy.*
-*Vì Ngươi đánh Tỷ-kheo,*
+*Tỷ-kheo đệ tử Phật,*\
+*Hiểu biết rõ như vậy.*\
+*Vì Ngươi đánh Tỷ-kheo,*\
 *Kanha chịu khổ Thọ,*
 
-*3. Ai Thế Tôn khuyến khích,*
-*Ðược chư Tăng chứng kiến,*
-*Với ngón chân rung chuyển,*
+*3. Ai Thế Tôn khuyến khích,*\
+*Ðược chư Tăng chứng kiến,*\
+*Với ngón chân rung chuyển,*\
 *Lâu đài Vijayanta!*
 
-*Tỷ-kheo đệ tử Phật,*
-*Hiểu biết rõ như vậy.*
-*Vì Ngươi đánh Tỷ-kheo,*
+*Tỷ-kheo đệ tử Phật,*\
+*Hiểu biết rõ như vậy.*\
+*Vì Ngươi đánh Tỷ-kheo,*\
 *Kanha chịu khổ thọ,*
 
-*4. Với ngón chân rung chuyển*
-*Lâu đài Vijayanta?*
-*Ðầy đủ thần thông lực,*
+*4. Với ngón chân rung chuyển*\
+*Lâu đài Vijayanta?*\
+*Ðầy đủ thần thông lực,*\
 *Chư thiên cũng hoảng sợ.*
 
-*Tỷ-kheo đệ tử Phật,*
-*Hiểu biết rõ như vậy.*
-*Vì Ngươi đánh Tỷ-kheo,*
+*Tỷ-kheo đệ tử Phật,*\
+*Hiểu biết rõ như vậy.*\
+*Vì Ngươi đánh Tỷ-kheo,*\
 
 *Kanha chịu khổ thọ,!*
 
-*5. Ai hỏi vị Sakka,*
-*Tại lầu Vijayanta,*
-*Hiền giả, Người có biết,*
-*Chứng ái tận giải thoát?*
-*Sakka đã chân thành,*
+*5. Ai hỏi vị Sakka,*\
+*Tại lầu Vijayanta,*\
+*Hiền giả, Người có biết,*\
+*Chứng ái tận giải thoát?*\
+*Sakka đã chân thành,*\
 *Trả lời câu được hỏi.*
 
-*Tỷ-kheo đệ tử Phật,*
-*Hiểu biết rõ như vậy.*
-*Vì Ngươi đánh Tỷ-kheo,*
+*Tỷ-kheo đệ tử Phật,*\
+*Hiểu biết rõ như vậy.*\
+*Vì Ngươi đánh Tỷ-kheo,*\
 *Kanha chịu khổ thọ,*
 
-*6. Ai từng hỏi Phạm thiên,*
-*Tại hội chúng Thiện pháp,*
-*Hiền giả nay vẫn chấp,*
-*Các tà kiến thuở xưa,*
-*Có thấy cảnh huy hoàng,*
-*Phạm thiên cảnh Thiên giới?*
-*Brahmà đã chân thành,*
-*Tiếp tục đáp câu hỏi:*
-*Tôn giả, tôi không chấp,*
-*Các tà kiến thuở xưa!*
-*Tôi thấy sự huy hoàng,*
-*Phạm thiên cảnh Thiên ơi!*
-*Sao nay tôi nói được,*
+*6. Ai từng hỏi Phạm thiên,*\
+*Tại hội chúng Thiện pháp,*\
+*Hiền giả nay vẫn chấp,*\
+*Các tà kiến thuở xưa,*\
+*Có thấy cảnh huy hoàng,*\
+*Phạm thiên cảnh Thiên giới?*\
+*Brahmà đã chân thành,*\
+*Tiếp tục đáp câu hỏi:*\
+*Tôn giả, tôi không chấp,*\
+*Các tà kiến thuở xưa!*\
+*Tôi thấy sự huy hoàng,*\
+*Phạm thiên cảnh Thiên ơi!*\
+*Sao nay tôi nói được,*\
 *Tôi thường hằng thường tại?*
 
-*Tỷ-kheo đệ tử Phật,*
-*Hiểu biết rõ như vậy.*
-*Vì Ngươi đánh Tỷ-kheo,*
+*Tỷ-kheo đệ tử Phật,*\
+*Hiểu biết rõ như vậy.*\
+*Vì Ngươi đánh Tỷ-kheo,*\
 *Kanha chịu khổ thọ!*
 
-*7. Ai với sự giải thoát,*
-*Cảm xúc Cao sơn đảnh,*
-*Rừng Ðông Videha,*
+*7. Ai với sự giải thoát,*\
+*Cảm xúc Cao sơn đảnh,*\
+*Rừng Ðông Videha,*\
 *Và người nằm trên đất,*
 
-*Tỷ-kheo đệ tử Phật,*
-*Hiểu biết rõ như vậy.*
-*Vì Ngươi đánh Tỷ-kheo,*
+*Tỷ-kheo đệ tử Phật,*\
+*Hiểu biết rõ như vậy.*\
+*Vì Ngươi đánh Tỷ-kheo,*\
 *Kanha chịu khổ thọ.*
 
-*8. Thật sự lửa không nghĩ:*
-*"Ta đốt cháy kẻ ngu",*
-*Kẻ ngu đột kích lửa,*
-*Tự mình bị thiêu cháy.*
-*Cũng vậy, này Ác ma,*
+*8. Thật sự lửa không nghĩ:*\
+*"Ta đốt cháy kẻ ngu",*\
+*Kẻ ngu đột kích lửa,*\
+*Tự mình bị thiêu cháy.*\
+*Cũng vậy, này Ác ma,*\
 *Ngươi đột kích Như Lai.*
 
-*Tự mình đốt cháy mình*
-*Như kẻ ngu chạm lửa,*
-*Ác ma tạo ác nghiệp,*
-*Do nhiễu hại Như Lai,*
-*Ngươi nghĩ chăng, Ác ma,*
-*"Ác quả không đến ta".*
-*Ðiều ác Ác ma làm,*
-*Chất chứa đã lâu rồi,*
-*Ác ma, hãy tránh Phật,*
+*Tự mình đốt cháy mình*\
+*Như kẻ ngu chạm lửa,*\
+*Ác ma tạo ác nghiệp,*\
+*Do nhiễu hại Như Lai,*\
+*Ngươi nghĩ chăng, Ác ma,*\
+*"Ác quả không đến ta".*\
+*Ðiều ác Ác ma làm,*\
+*Chất chứa đã lâu rồi,*\
+*Ác ma, hãy tránh Phật,*\
 *Chớ vọng tưởng Tỷ-kheo!*
 
-*Tỷ-kheo chống Ác ma,*
-*Tại rừng Bhesakala,*
-*Vị Dạ xoa, thất vọng,*
+*Tỷ-kheo chống Ác ma,*\
+*Tại rừng Bhesakala,*\
+*Vị Dạ xoa, thất vọng,*\
 *Biến mất tại chỗ ấy.*
 
 **-ooOoo-**
