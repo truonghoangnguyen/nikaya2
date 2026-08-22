@@ -1,3 +1,8 @@
+---
+tags:
+ - đời sống tăng đoàn
+---
+
 # MN 48. KINH KOSAMBIYA
 
 ***(Kosambiya Sutta)***
@@ -49,7 +54,6 @@ trước mặt lẫn sau lưng không?
 đấu tranh, đả thương nhau bằng binh khí miệng lưỡi, trong khi ấy, không có an trú từ thân hành đối với
 các vị đồng phạm hạnh cả trước mặt lẫn sau lưng, không có an trú từ khẩu hành đối với các vị đồng
 phạm hạnh cả trước mặt lẫn sanh lưng, không có an trú từ ý hành đối với các vị đồng phạm hạnh cả
-
 trước mặt lẫn sau lưng. Như vậy, này các kẻ mê mờ kia, do biết gì, do thấy gì, các Ông sống cạnh tranh,
 luận tranh, đấu tranh, đả thương nhau với những binh khí miệng lưỡi; và các Ông không tự thông cảm
 nhau, không chấp nhận thông cảm, không tự hòa giải nhau, không chấp nhận hòa giải. Như vậy, này các
@@ -100,7 +104,6 @@ thực hành chân chánh diệt tận khổ đau.
 Này các Tỷ-kheo, thế nào là tri kiến thuộc về bậc Thánh, có khả năng hướng thượng, khiến người thực
 hành chân chánh diệt tận khổ đau? Ở đây, này các Tỷ-kheo, Tỷ-kheo đi đến ngôi rừng, hay đi đến dưới
 gốc cây, hay đi đến chỗ trống vắng và suy nghĩ như sau: "Không biết ta có nội triền nào chưa đoạn trừ
-
 không? Do nội triền này nếu tâm ta bị triền phược, thì ta không thể biết như thật, không thể thấy như
 thật?" Này các Tỷ-kheo, nếu Tỷ-kheo bị tham dục triền phược, cho đến như vậy, tâm (của vị này) bị
 triền phược. Này các Tỷ-kheo, nếu Tỷ-kheo bị sân triền phược, cho đến như vậy, tâm (của vị này) bị
@@ -128,6 +131,7 @@ sau: "Tri kiến như ta đã thành tựu không có một Sa-môn hay Bà-la-m
 thành tựu tri kiến như vậy". Ðó là tri thứ ba mà vị này chứng được, thuộc các bậc Thánh, siêu thế, các
 phàm phu không thể cọng chứng.
 
+<!--pg-->
 Lại nữa, này các Tỷ-kheo, vị Thánh đệ tử suy nghĩ như sau: "Pháp tánh (Dhammata) mà một vị chứng
 được tri kiến thành tựu, pháp tánh như vậy ta có thành tựu hay không?" Và này các Tỷ-kheo, pháp tánh
 ấy là gì mà một vị chứng được tri kiến thành tựu? Ðây là pháp tánh, này các Tỷ-kheo, mà một vị chứng

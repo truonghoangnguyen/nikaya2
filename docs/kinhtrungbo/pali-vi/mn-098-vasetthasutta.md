@@ -1,356 +1,371 @@
-# MN 98. Vāseṭṭhasutta
+---
+description: Đức Phật đang lưu trú tại khu rừng Icchānaṅgala. Hai thanh niên Bà-la-môn là Vāseṭṭha và Bhāradvāja nảy sinh tranh luận về việc điều gì thực sự tạo nên một người Bà-la-môn, do huyết thống sinh ra hay do hành động và đạo đức. Không ai thuyết phục được ai, họ quyết định đến hỏi Đức Phật.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.
+# MN 98. KINH VĀSEṬṬHA
+*(Vāseṭṭhasutta)*
 
-2\. Tena kho pana samayena sambahulā abhiññātā abhiññātā brāhmaṇamahāsālā icchānaṅgale paṭivasanti, seyyathidaṁ—caṅkī brāhmaṇo, tārukkho brāhmaṇo, pokkharasāti brāhmaṇo, jāṇussoṇi brāhmaṇo, todeyyo brāhmaṇo, aññe ca abhiññātā abhiññātā brāhmaṇamahāsālā.
+1\. Tôi đã nghe như vầy—một thời Thế Tôn lưu trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala.
 
-3\. Atha kho vāseṭṭhabhāradvājānaṁ māṇavānaṁ jaṅghāvihāraṁ anucaṅkamantānaṁ anuvicarantānaṁ ayamantarākathā udapādi: “kathaṁ, bho, brāhmaṇo hotī”ti?
+2\. Lúc bấy giờ, có nhiều Bà-la-môn đại gia danh tiếng đang cư ngụ tại Icchānaṅgala, đó là Bà-la-môn Caṅkī, Bà-la-môn Tārukkha, Bà-la-môn Pokkharasāti, Bà-la-môn Jāṇussoṇi, Bà-la-môn Todeyya và nhiều Bà-la-môn đại gia danh tiếng khác.
 
-Bhāradvājo māṇavo evamāha: “yato kho, bho, ubhato sujāto mātito ca pitito ca saṁsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena—ettāvatā kho, bho, brāhmaṇo hotī”ti.
+3\. Khi ấy, trong lúc hai thanh niên Vāseṭṭha và Bhāradvāja đang đi dạo và tản bộ, một cuộc thảo luận sau đây khởi lên: "Thưa tôn giả, làm thế nào để trở thành một *Bà-la-môn* (brāhmaṇo)?"
 
-Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampanno ca—ettāvatā kho, bho, brāhmaṇo hotī”ti.
+Thanh niên Bhāradvāja nói như sau: "Thưa tôn giả, khi một người được sinh ra tốt đẹp từ cả hai phía mẹ và cha, có huyết thống trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích về *dòng dõi* (jāti)—cho đến mức độ đó, thưa tôn giả, người ấy là một *Bà-la-môn*."
 
-4\. Neva kho asakkhi bhāradvājo māṇavo vāseṭṭhaṁ māṇavaṁ saññāpetuṁ, na pana asakkhi vāseṭṭho māṇavo bhāradvājaṁ māṇavaṁ saññāpetuṁ.
+Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *có đạo đức* (trì giới / sīlavā) và *cư xử đúng đắn* (thành tựu cấm giới / vattasampanno)—cho đến mức độ đó, thưa tôn giả, người ấy là một *Bà-la-môn*."
 
-5\. Atha kho vāseṭṭho māṇavo bhāradvājaṁ māṇavaṁ āmantesi: “ayaṁ kho, bho bhāradvāja, samaṇo gotamo sakyaputto sakyakulā pabbajito icchānaṅgale viharati icchānaṅgalavanasaṇḍe. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Āyāma, bho bhāradvāja, yena samaṇo gotamo tenupasaṅkamissāma; upasaṅkamitvā samaṇaṁ gotamaṁ etamatthaṁ pucchissāma. Yathā no samaṇo gotamo byākarissati tathā naṁ dhāressāmā”ti.
+4\. Thanh niên Bhāradvāja không thể thuyết phục được thanh niên Vāseṭṭha, và thanh niên Vāseṭṭha cũng không thể thuyết phục được thanh niên Bhāradvāja.
 
-“Evaṁ, bho”ti kho bhāradvājo māṇavo vāseṭṭhassa māṇavassa paccassosi.
+5\. Sau đó, thanh niên Vāseṭṭha nói với thanh niên Bhāradvāja: "Thưa tôn giả Bhāradvāja, Sa-môn Gotama là con trai dòng Sakya, xuất gia từ gia tộc Sakya, đang lưu trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, đầy đủ minh và hạnh, bậc Thiện Thệ, người hiểu rõ thế gian, bậc Vô thượng, người điều phục những ai đáng được điều phục, bậc Thầy của chư thiên và loài người, bậc Giác ngộ, Thế Tôn.' Này tôn giả Bhāradvāja, chúng ta hãy đi đến chỗ Sa-môn Gotama; sau khi đến, chúng ta sẽ hỏi Sa-môn Gotama về vấn đề này. Sa-môn Gotama trả lời chúng ta như thế nào, chúng ta sẽ ghi nhớ như vậy."
 
-6\. Atha kho vāseṭṭhabhāradvājā māṇavā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho vāseṭṭho māṇavo bhagavantaṁ gāthāhi ajjhabhāsi:
+"Vâng, thưa tôn giả," thanh niên Bhāradvāja đồng ý với thanh niên Vāseṭṭha.
+
+6\. Sau đó, hai thanh niên Vāseṭṭha và Bhāradvāja đi đến chỗ Thế Tôn; sau khi đến, họ chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu, họ ngồi xuống một bên. Ngồi một bên, thanh niên Vāseṭṭha thưa với Thế Tôn bằng những vần kệ:
 
 7\.
-> “Anuññātapaṭiññātā,\
-> tevijjā mayamasmubho;\
-> Ahaṁ pokkharasātissa,\
-> tārukkhassāyaṁ māṇavo.
-
-> Tevijjānaṁ yadakkhātaṁ,\
-> tatra kevalinosmase;\
-> Padakasmā veyyākaraṇā,\
-> jappe ācariyasādisā;\
-> Tesaṁ no jātivādasmiṁ,\
-> vivādo atthi gotama.
-
-> Jātiyā brāhmaṇo hoti,\
-> bhāradvājo iti bhāsati;\
-> Ahañca kammunā brūmi,\
-> evaṁ jānāhi cakkhuma.
-
-> Te na sakkoma ñāpetuṁ,\
-> aññamaññaṁ mayaṁ ubho;\
-> Bhavantaṁ puṭṭhumāgamā,\
-> sambuddhaṁ iti vissutaṁ.
-
-> Candaṁ yathā khayātītaṁ,\
-> pecca pañjalikā janā;\
-> Vandamānā namassanti,\
-> lokasmiṁ gotamaṁ.
-
-> Cakkhuṁ loke samuppannaṁ,\
-> mayaṁ pucchāma gotamaṁ;\
-> Jātiyā brāhmaṇo hoti,\
-> udāhu bhavati kammunā;\
-> Ajānataṁ no pabrūhi,\
-> yathā jānemu brāhmaṇan”ti.
+> "Được chấp nhận, công nhận,\
+> Chúng tôi thông ba kinh;\
+> Tôi trò Pokkharasāti,\
+> Anh kia của Tārukkha.
+>
+> Những gì người Ba minh,\
+> Tuyên bố và giảng dạy;\
+> Chúng tôi đều thông đạt,\
+> Rành rẽ mọi ngữ pháp;\
+> Tranh luận như đạo sư.
+>
+> Về vấn đề dòng dõi,\
+> Chúng tôi có tranh luận;\
+> Thưa tôn giả Gotama.
+>
+> Do sinh ra dòng dõi,\
+> Mới là Bà-la-môn;\
+> Bhāradvāja nói vậy.\
+> Còn tôi nói do nghiệp,\
+> Xin bậc có Mắt biết.
+>
+> Chúng tôi không thể nào,\
+> Thuyết phục được lẫn nhau;\
+> Nên đến hỏi tôn giả,\
+> Bậc Giác ngộ danh vang.
+>
+> Như vầng trăng tròn sáng,\
+> Mọi người chắp tay vái;\
+> Tôn kính và đảnh lễ,\
+> Gotama trên đời.
+>
+> Bậc có Mắt xuất hiện,\
+> Chúng tôi xin được hỏi;\
+> Do sinh ra dòng dõi,\
+> Hay do nghiệp tạo thành;\
+> Mới là Bà-la-môn?\
+> Xin giải thích chúng tôi,\
+> Kẻ chưa biết được rõ."
 
 8\.
-> “Tesaṁ vo ahaṁ byakkhissaṁ,\
-> (vāseṭṭhāti bhagavā)\
-> Anupubbaṁ yathātathaṁ;\
-> Jātivibhaṅgaṁ pāṇānaṁ,\
-> Aññamaññāhi jātiyo.
-
-> Tiṇarukkhepi jānātha,\
-> na cāpi paṭijānare;\
-> Liṅgaṁ jātimayaṁ tesaṁ,\
-> aññamaññā hi jātiyo.
-
-> Tato kīṭe paṭaṅge ca,\
-> yāva kunthakipillike;\
-> Liṅgaṁ jātimayaṁ tesaṁ,\
-> aññamaññā hi jātiyo.
-
-> Catuppadepi jānātha,\
-> khuddake ca mahallake;\
-> Liṅgaṁ jātimayaṁ tesaṁ,\
-> aññamaññā hi jātiyo.
-
-> Pādudarepi jānātha,\
-> urage dīghapiṭṭhike;\
-> Liṅgaṁ jātimayaṁ tesaṁ,\
-> aññamaññā hi jātiyo.
-
-> Tato macchepi jānātha,\
-> udake vārigocare;\
-> Liṅgaṁ jātimayaṁ tesaṁ,\
-> aññamaññā hi jātiyo.
-
-> Tato pakkhīpi jānātha,\
-> pattayāne vihaṅgame;\
-> Liṅgaṁ jātimayaṁ tesaṁ,\
-> aññamaññā hi jātiyo.
+> "Ta sẽ giải thích rõ,\
+> (Thế Tôn nói Vāseṭṭha)\
+> Theo thứ tự chân thật;\
+> Sự phân chia các loài,\
+> Khác biệt do sinh ra.
+>
+> Cây cỏ các ngươi biết,\
+> Dù chúng không tự nhận;\
+> Tướng sinh loại của chúng,\
+> Khác biệt do sinh ra.
+>
+> Rồi đến các côn trùng,\
+> Cho đến loài kiến nhỏ;\
+> Tướng sinh loại của chúng,\
+> Khác biệt do sinh ra.
+>
+> Thú bốn chân cũng vậy,\
+> Từ nhỏ đến to lớn;\
+> Tướng sinh loại của chúng,\
+> Khác biệt do sinh ra.
+>
+> Loài bò sát trườn bụng,\
+> Rắn rết lưng dài ngoẵng;\
+> Tướng sinh loại của chúng,\
+> Khác biệt do sinh ra.
+>
+> Rồi đến các loài cá,\
+> Sống bơi lội trong nước;\
+> Tướng sinh loại của chúng,\
+> Khác biệt do sinh ra.
+>
+> Rồi đến các loài chim,\
+> Dùng cánh bay trên trời;\
+> Tướng sinh loại của chúng,\
+> Khác biệt do sinh ra.
 
 9\.
-> Yathā etāsu jātīsu,\
-> liṅgaṁ jātimayaṁ puthu;\
-> Evaṁ natthi manussesu,\
-> liṅgaṁ jātimayaṁ puthu.
-
-> Na kesehi na sīsehi,\
-> na kaṇṇehi na akkhīhi;\
-> Na mukhena na nāsāya,\
-> na oṭṭhehi bhamūhi vā.
-
-> Na gīvāya na aṁsehi,\
-> na udarena na piṭṭhiyā;\
-> Na soṇiyā na urasā,\
-> na sambādhe na methune.
-
-> Na hatthehi na pādehi,\
-> naṅgulīhi nakhehi vā;\
-> Na jaṅghāhi na ūrūhi,\
-> na vaṇṇena sarena vā;\
-> Liṅgaṁ jātimayaṁ neva,\
-> yathā aññāsu jātisu.
-
-> Paccattañca sarīresu,\
-> manussesvetaṁ na vijjati;\
-> Vokārañca manussesu,\
-> samaññāya pavuccati.
+> Như trong các loài kia,\
+> Tướng sinh loại khác biệt;\
+> Trong loài người không có,\
+> Tướng sinh loại khác biệt.
+>
+> Không khác ở mái tóc,\
+> Không đầu, tai hay mắt;\
+> Không miệng hay là mũi,\
+> Không môi hay chân mày.
+>
+> Không cổ hay là vai,\
+> Không bụng hay là lưng;\
+> Không mông hay là ngực,\
+> Không nam căn, nữ căn.
+>
+> Không tay hay là chân,\
+> Không ngón hay là móng;\
+> Không bắp chân hay đùi,\
+> Không màu da, giọng nói;\
+> Tướng sinh loại không có,\
+> Như ở các loài khác.
+>
+> Đặc điểm riêng trên thân,\
+> Ở người không tìm thấy;\
+> Sự khác biệt loài người,\
+> Chỉ là do danh xưng.
 
 10\.
-> Yo hi koci manussesu,\
-> gorakkhaṁ upajīvati;\
-> Evaṁ vāseṭṭha jānāhi,\
-> kassako so na brāhmaṇo.
-
-> Yo hi koci manussesu,\
-> puthusippena jīvati;\
-> Evaṁ vāseṭṭha jānāhi,\
-> sippiko so na brāhmaṇo.
-
-> Yo hi koci manussesu,\
-> vohāraṁ upajīvati;\
-> Evaṁ vāseṭṭha jānāhi,\
-> vāṇijo so na brāhmaṇo.
-
-> Yo hi koci manussesu,\
-> parapessena jīvati;\
-> Evaṁ vāseṭṭha jānāhi,\
-> pessako so na brāhmaṇo.
-
-> Yo hi koci manussesu,\
-> adinnaṁ upajīvati;\
-> Evaṁ vāseṭṭha jānāhi,\
-> coro eso na brāhmaṇo.
-
-> Yo hi koci manussesu,\
-> issatthaṁ upajīvati;\
-> Evaṁ vāseṭṭha jānāhi,\
-> yodhājīvo na brāhmaṇo.
-
-> Yo hi koci manussesu,\
-> porohiccena jīvati;\
-> Evaṁ vāseṭṭha jānāhi,\
-> yājako so na brāhmaṇo.
-
-> Yo hi koci manussesu,\
-> gāmaṁ raṭṭhañca bhuñjati;\
-> Evaṁ vāseṭṭha jānāhi,\
-> rājā eso na brāhmaṇo.
+> Ai trong loài người này,\
+> Sống bằng nghề chăn nuôi;\
+> Vāseṭṭha nên biết,\
+> Nông phu, không Bà-la-môn. 
+>
+> Ai trong loài người này;\
+> Sống bằng nghề thủ công;\
+> Vāseṭṭha nên biết;\
+> Thợ thuyền, không Bà-la-môn.
+>
+> Ai trong loài người này;\
+> Sống bằng nghề buôn bán;\
+> Vāseṭṭha nên biết;\
+> Thương nhân, không Bà-la-môn.
+>
+> Ai trong loài người này;\
+> Sống bằng nghề hầu hạ;\
+> Vāseṭṭha nên biết;\
+> Tôi tớ, không Bà-la-môn.
+>
+> Ai trong loài người này;\
+> Sống bằng nghề trộm cắp;\
+> Vāseṭṭha nên biết;\
+> Kẻ trộm, không Bà-la-môn.
+>
+> Ai trong loài người này;\
+> Sống bằng nghề binh đao;\
+> Vāseṭṭha nên biết;\
+> Binh lính, không Bà-la-môn.
+>
+> Ai trong loài người này;\
+> Sống bằng nghề tế tự;\
+> Vāseṭṭha nên biết;\
+> Tế sư, không Bà-la-môn.
+>
+> Ai trong loài người này;\
+> Hưởng thụ làng và nước;\
+> Vāseṭṭha nên biết;\
+> Quốc vương, không Bà-la-môn.
 
 11\.
-> Na cāhaṁ brāhmaṇaṁ brūmi,\
-> yonijaṁ mattisambhavaṁ;\
-> Bhovādi nāma so hoti,\
-> sace hoti sakiñcano;\
-> Akiñcanaṁ anādānaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Sabbasaṁyojanaṁ chetvā,\
-> yo ve na paritassati;\
-> Saṅgātigaṁ visaṁyuttaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Chetvā naddhiṁ varattañca,\
-> sandānaṁ sahanukkamaṁ;\
-> Ukkhittapalighaṁ buddhaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Akkosaṁ vadhabandhañca,\
-> aduṭṭho yo titikkhati;\
-> Khantībalaṁ balānīkaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Akkodhanaṁ vatavantaṁ,\
-> sīlavantaṁ anussadaṁ;\
-> Dantaṁ antimasārīraṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Vāripokkharapatteva,\
-> āraggeriva sāsapo;\
-> Yo na limpati kāmesu,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yo dukkhassa pajānāti,\
-> idheva khayamattano;\
-> Pannabhāraṁ visaṁyuttaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Gambhīrapaññaṁ medhāviṁ,\
-> maggāmaggassa kovidaṁ;\
-> Uttamatthamanuppattaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Asaṁsaṭṭhaṁ gahaṭṭhehi,\
-> anāgārehi cūbhayaṁ;\
-> Anokasārimappicchaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Nidhāya daṇḍaṁ bhūtesu,\
-> tasesu thāvaresu ca;\
-> Yo na hanti na ghāteti,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Aviruddhaṁ viruddhesu,\
-> attadaṇḍesu nibbutaṁ;\
-> Sādānesu anādānaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yassa rāgo ca doso ca,\
-> māno makkho ca ohito;\
-> Sāsaporiva āraggā,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Akakkasaṁ viññāpaniṁ,\
-> giraṁ saccaṁ udīraye;\
-> Yāya nābhisajje kiñci,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yo ca dīghaṁ va rassaṁ vā,\
-> aṇuṁ thūlaṁ subhāsubhaṁ;\
-> Loke adinnaṁ nādeti,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Āsā yassa na vijjanti,\
-> asmiṁ loke paramhi ca;\
-> Nirāsāsaṁ visaṁyuttaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yassālayā na vijjanti,\
-> aññāya akathaṅkathiṁ;\
-> Amatogadhaṁ anuppattaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yodhapuññañca pāpañca,\
-> ubho saṅgaṁ upaccagā;\
-> Asokaṁ virajaṁ suddhaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Candaṁ va vimalaṁ suddhaṁ,\
-> vippasannaṁ anāvilaṁ;\
-> Nandībhavaparikkhīṇaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yo imaṁ palipathaṁ duggaṁ,\
-> saṁsāraṁ mohamaccagā;\
-> Tiṇṇo pāraṅgato jhāyī,\
-> anejo akathaṅkathī;\
-> Anupādāya nibbuto,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yodhakāme pahantvāna,\
-> anāgāro paribbaje;\
-> Kāmabhavaparikkhīṇaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yodhataṇhaṁ pahantvāna,\
-> anāgāro paribbaje;\
-> Taṇhābhavaparikkhīṇaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Hitvā mānusakaṁ yogaṁ,\
-> dibbaṁ yogaṁ upaccagā;\
-> Sabbayogavisaṁyuttaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Hitvā ratiñca aratiṁ,\
-> sītībhūtaṁ nirūpadhiṁ;\
-> Sabbalokābhibhuṁ vīraṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Cutiṁ yo vedi sattānaṁ,\
-> upapattiñca sabbaso;\
-> Asattaṁ sugataṁ buddhaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yassa gatiṁ na jānanti,\
-> devā gandhabbamānusā;\
-> Khīṇāsavaṁ arahantaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Yassa pure ca pacchā ca,\
-> majjhe ca natthi kiñcanaṁ;\
-> Akiñcanaṁ anādānaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Usabhaṁ pavaraṁ vīraṁ,\
-> mahesiṁ vijitāvinaṁ;\
-> Anejaṁ nhātakaṁ buddhaṁ,\
-> tamahaṁ brūmi brāhmaṇaṁ.
-
-> Pubbenivāsaṁ yo vedi,\
-> saggāpāyañca passati;\
-> Atho jātikkhayaṁ patto,\
-> tamahaṁ brūmi brāhmaṇaṁ.
+> Ta không gọi Bà-la-môn;\
+> Vì sinh từ thai mẹ;\
+> Chỉ là kẻ xưng hô;\
+> Nếu còn nhiều vướng bận;\
+> Không bám víu, sở hữu;\
+> Ta gọi Bà-la-môn.
+>
+> Cắt đứt mọi kiết sử;\
+> Không còn gì lo sợ;\
+> Vượt trói buộc, tháo gỡ;\
+> Ta gọi Bà-la-môn.
+>
+> Cắt đứt mọi dây cương;\
+> Dây da và dây thừng;\
+> Nhổ chốt, bậc Giác ngộ;\
+> Ta gọi Bà-la-môn.
+>
+> Chịu mắng chửi, đánh đập;\
+> Không móng tâm sân hận;\
+> Lấy nhẫn làm sức mạnh;\
+> Ta gọi Bà-la-môn.
+>
+> Không giận, giữ giới hạnh;\
+> Đạo đức, không kiêu mạn;\
+> Nhiếp phục, thân cuối cùng;\
+> Ta gọi Bà-la-môn.
+>
+> Như nước trên lá sen;\
+> Hạt cải trên đầu kim;\
+> Không đắm nhiễm dục lạc;\
+> Ta gọi Bà-la-môn.
+>
+> Ai hiểu rõ khổ đau;\
+> Ngay đây tự chấm dứt;\
+> Bỏ gánh nặng, tháo gỡ;\
+> Ta gọi Bà-la-môn.
+>
+> Trí tuệ sâu, thông minh;\
+> Biết rõ đường, phi đường;\
+> Đạt đến đích tối thượng;\
+> Ta gọi Bà-la-môn.
+>
+> Không giao du thân cận;\
+> Cả gia chủ, xuất gia;\
+> Sống không nhà, ít dục;\
+> Ta gọi Bà-la-môn.
+>
+> Bỏ trượng, không hại vật;\
+> Kẻ yếu hay kẻ mạnh;\
+> Không giết, không bảo giết;\
+> Ta gọi Bà-la-môn.
+>
+> Không chống giữa người chống;\
+> Tịch tịnh giữa đao trượng;\
+> Không bám giữa người bám;\
+> Ta gọi Bà-la-môn.
+>
+> Người dứt bỏ tham sân;\
+> Kiêu mạn và gièm pha;\
+> Như hạt cải đầu kim;\
+> Ta gọi Bà-la-môn.
+>
+> Nói lời không thô ác;\
+> Lời chân thật, ý nghĩa;\
+> Không làm ai phật lòng;\
+> Ta gọi Bà-la-môn.
+>
+> Vật dài hay vật ngắn;\
+> Nhỏ to, đẹp hay xấu;\
+> Không cho, không lấy trộm;\
+> Ta gọi Bà-la-môn.
+>
+> Không còn những mong cầu;\
+> Đời này và đời sau;\
+> Không mong, được tháo gỡ;\
+> Ta gọi Bà-la-môn.
+>
+> Không còn sự bám víu;\
+> Hiểu biết, không nghi ngờ;\
+> Đạt đến cõi Bất tử;\
+> Ta gọi Bà-la-môn.
+>
+> Vượt qua cả thiện ác;\
+> Cả hai sự trói buộc;\
+> Không sầu, sạch, thanh tịnh;\
+> Ta gọi Bà-la-môn.
+>
+> Như trăng sáng không vết;\
+> Trong trẻo và tĩnh lặng;\
+> Dứt sạch mọi vui thú;\
+> Ta gọi Bà-la-môn.
+>
+> Vượt qua đường lầy lội;\
+> Luân hồi và si mê;\
+> Qua bờ, bậc thiền định;\
+> Không động, không nghi ngờ;\
+> Không bám, được tịch diệt;\
+> Ta gọi Bà-la-môn.
+>
+> Ai từ bỏ dục lạc;\
+> Sống không nhà, xuất gia;\
+> Dứt sạch dục và hữu;\
+> Ta gọi Bà-la-môn.
+>
+> Ai từ bỏ tham ái;\
+> Sống không nhà, xuất gia;\
+> Dứt sạch ái và hữu;\
+> Ta gọi Bà-la-môn.
+>
+> Bỏ trói buộc cõi người;\
+> Vượt trói buộc cõi trời;\
+> Thoát mọi sự trói buộc;\
+> Ta gọi Bà-la-môn.
+>
+> Bỏ thích và không thích;\
+> Mát mẻ, không sinh y;\
+> Bậc hùng thắng thế gian;\
+> Ta gọi Bà-la-môn.
+>
+> Biết rõ sự chết đi;\
+> Tái sinh của chúng sinh;\
+> Không dính, Thiện Thệ, Giác;\
+> Ta gọi Bà-la-môn.
+>
+> Chư thiên, Càn-thát-bà;\
+> Hay loài người không biết;\
+> Đường đi bậc Lậu tận;\
+> Ta gọi Bà-la-môn.
+>
+> Quá khứ và vị lai;\
+> Hiện tại không sở hữu;\
+> Không bám víu, sở hữu;\
+> Ta gọi Bà-la-môn.
+>
+> Bậc ngưu vương, dũng mãnh;\
+> Đại tiên, bậc chiến thắng;\
+> Không động, sạch, Giác ngộ;\
+> Ta gọi Bà-la-môn.
+>
+> Biết rõ kiếp quá khứ;\
+> Thấy thiên giới, đọa xứ;\
+> Đạt đến tận cùng sinh;\
+> Ta gọi Bà-la-môn.
 
 12\.
-> Samaññā hesā lokasmiṁ,\
-> nāmagottaṁ pakappitaṁ;\
-> Sammuccā samudāgataṁ,\
-> tattha tattha pakappitaṁ.
-
-> Dīgharattānusayitaṁ,\
-> diṭṭhigatamajānataṁ;\
-> Ajānantā no pabrunti,\
-> jātiyā hoti brāhmaṇo.
-
-> Na jaccā brāhmaṇo hoti,\
-> na jaccā hoti abrāhmaṇo;\
-> Kammunā brāhmaṇo hoti,\
-> kammunā hoti abrāhmaṇo.
-
-> Kassako kammunā hoti,\
-> sippiko hoti kammunā;\
-> Vāṇijo kammunā hoti,\
-> pessako hoti kammunā.
-
-> Coropi kammunā hoti,\
-> yodhājīvopi kammunā;\
-> Yājako kammunā hoti,\
-> rājāpi hoti kammunā.
+> Danh xưng trên thế gian;\
+> Chỉ là tên giả lập;\
+> Phát sinh do quy ước;\
+> Được đặt ra khắp nơi.
+>
+> Ngủ ngầm từ lâu đời;\
+> Quan điểm kẻ không biết;\
+> Kẻ không biết tuyên bố;\
+> Sinh ra Bà-la-môn.
+>
+> Không do sinh dòng dõi;\
+> Trở thành Bà-la-môn;\
+> Không do sinh dòng dõi;\
+> Không là Bà-la-môn.
+> Do hành động (nghiệp) tạo;\
+> Trở thành Bà-la-môn;\
+> Do hành động (nghiệp) tạo;\
+> Không là Bà-la-môn.
+>
+> Nông phu do hành động;\
+> Thợ thuyền do hành động;\
+> Thương nhân do hành động;\
+> Tôi tớ do hành động.
+>
+> Kẻ trộm do hành động;\
+> Binh lính do hành động;\
+> Tế sư do hành động;\
+> Quốc vương do hành động.
 
 13\.
-> Evametaṁ yathābhūtaṁ,\
-> kammaṁ passanti paṇḍitā;\
-> Paṭiccasamuppādadassā,\
-> kammavipākakovidā.
+> Bậc trí thấy như thật;\
+> Hành động và kết quả;\
+> Thấy rõ lý duyên khởi;\
+> Hiểu thấu rõ nghiệp báo.
+>
+> Thế gian xoay do nghiệp;\
+> Chúng sinh xoay do nghiệp;\
+> Chúng sinh buộc vào nghiệp;\
+> Như chốt giữ bánh xe.
+>
+> Khổ hạnh, sống phạm hạnh;\
+> Tự chủ và nhiếp phục;\
+> Nhờ vậy Bà-la-môn;\
+> Bà-la-môn tối thượng.
+>
+> Đầy đủ cả Ba minh;\
+> Tịch tịnh, dứt tái sinh;\
+> Vāseṭṭha nên biết;\
+> Là Phạm thiên, Đế Thích;\
+> Đối với người hiểu biết."
 
-> Kammunā vattati loko,\
-> kammunā vattati pajā;\
-> Kammanibandhanā sattā,\
-> rathassāṇīva yāyato.
+14\. Khi được nói như vậy, hai thanh niên Vāseṭṭha và Bhāradvāja thưa với Thế Tôn: "Thật tuyệt vời, thưa tôn giả Gotama, thật tuyệt vời, thưa tôn giả Gotama. Thưa tôn giả Gotama, như người dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc hướng, hoặc cầm ngọn đèn sáng mang vào bóng tối để những ai có mắt có thể thấy được hình ảnh; cũng vậy, *Giáo pháp* (pháp / dhammo) đã được tôn giả Gotama làm sáng tỏ qua nhiều phương tiện. Chúng con xin quy y tôn giả Gotama, quy y *Giáo pháp* và quy y Tăng chúng. Xin tôn giả Gotama nhận chúng con làm cư sĩ, từ nay cho đến mạng chung, chúng con xin trọn đời quy y."
 
-> Tapena brahmacariyena,\
-> saṁyamena damena ca;\
-> Etena brāhmaṇo hoti,\
-> etaṁ brāhmaṇamuttamaṁ.
-
-> Tīhi vijjāhi sampanno,\
-> santo khīṇapunabbhavo;\
-> Evaṁ vāseṭṭha jānāhi,\
-> brahmā sakko vijānatan”ti.
-
-14\. Evaṁ vutte, vāseṭṭhabhāradvājā māṇavā bhagavantaṁ etadavocuṁ: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Ete mayaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca. Upāsake no bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gate”ti.
-
-Vāseṭṭhasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
+Kinh Vāseṭṭha thứ tám kết thúc.

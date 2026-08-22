@@ -11,7 +11,6 @@ việc. Rồi gia chủ Dasama, người ở thành Atthaka (Bát thành) đi đ
 Tỷ-kheo, đảnh lễ vị này, rồi ngồi xuống một bên. Sau khi ngồi xuống một bên, gia chủ Dasama, người ở
 thành Atthaka thưa với Tỷ-kheo ấy:
 
-<!--pg-->
 -- Bạch Tôn giả, Tôn giả Ananda nay an trú ở đâu? Chúng con muốn gặp Tôn giả Ananda.
 
 -- Này Gia chủ, Tôn giả Ananda nay ở Vesali, tại ấp Beluvagamaka.

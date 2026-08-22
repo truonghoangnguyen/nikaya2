@@ -49,7 +49,6 @@ tiện. Này các Tỷ-kheo, còn những Sa-môn, Bà-la-môn ở đời xưa k
 tán thán thủy đại, hoan hỷ thủy đại, tán thán hỏa đại, hoan hỷ hỏa đại, tán thán phong đại, hoan hỷ phong
 đại, tán thán chúng sanh, hoan hỷ chúng sanh, tán thán chư Thiên, hoan hỷ chư Thiên, tán thán Sanh
 chủ, hoan hỷ Sanh chủ, tán thán Phạm thiên, hoan hỷ Phạm thiên, sau khi thân hoại, mạng sống bi cắt
-
 đứt, những vị này được an trú vào các thân vi diệu. Này các Tỷ-kheo, vì vấn đề này, ta nói như sau:
 "Phàm Phạm thiên nói với Ông những gì, Ông hãy làm như vậy. Ông chớ có đi quá xa lời Phạm thiên
 nói. Này các Tỷ-kheo, nếu Ông đi quá xa lời Phạm thiên nói, thì giống như người dùng gậy đánh đập
@@ -61,6 +60,7 @@ Phạm thiên đang ngồi chăng?"
 Rồi này các Tỷ-kheo, Ác ma dắt Ta đến chúng Phạm thiên. Này các Tỷ-kheo, khi nghe nói vậy, Ta nói
 với Ác ma như sau:
 
+<!--pg-->
 "-- Này Ác ma, Ta biết Ngươi. Chớ có nghĩ rằng: "Vị ấy không biết ta". Người là Ác ma. Này Ác ma,
 phàm là Phạm thiên, phàm là Phạm thiên chúng, phàm là Phạm thiên quyến thuộc, tất cả đều nằm trong
 tay của Ngươi, tất cả đều nằm trong quyền lực của Ngươi. Này Ác ma, nếu Ngươi nghĩ rằng: "Mong vị
@@ -92,18 +92,19 @@ vậy; Phạm thiên Baka có uy lực như vậy.
 "-- Này Tỷ-kheo, Như Ông biết sanh thú, Ông biết sự quang vinh của ta: "Phạm thiên Baka có thần lực
 như vậy; Phạm thiên Baka có quyền lực như vậy; Phạm thiên Baka có uy lực như vậy".
 
-*"- Như nhật nguyệt lưu chuyển,*
-*Sáng chói khắp mười phương,*
-*Như vậy mười Thiên giới,*
-*Dưới uy lực của Ông.*
-*Ông biết chỗ cao thấp,*
-*Có dục và không dục,*
-*Hữu này và hữu kia,*
+*"- Như nhật nguyệt lưu chuyển,*\
+*Sáng chói khắp mười phương,*\
+*Như vậy mười Thiên giới,*\
+*Dưới uy lực của Ông.*\
+*Ông biết chỗ cao thấp,*\
+*Có dục và không dục,*\
+*Hữu này và hữu kia,*\
 *Chỗ đến, đi hữu tình.*
 
 Như vậy, này Phạm thiên, Ta biết chỗ sanh thú và sự quang vinh của Ông: "Phạm thiên Baka có thần lực
 như vậy; Phạm thiên Baka có quyền lực như vậy; Phạm thiên Baka có uy lực như vậy".
 
+<!--pg-->
 Này Phạm thiên, có ba loại chư Thiên mà Ông không biết, không thấy, nhưng Ta biết, Ta thấy. Này
 Phạm thiên, có loại chư Thiên tên là Abhassara (Quang âm thiên), từ chư Thiên này, Ông mạng chung,
 và sanh ở nơi đây. Nhưng vì Ông an trú ở đấy quá lâu, nên Ông không nhớ được. Do đó, Ông không
@@ -141,6 +142,7 @@ qua Biến tịnh thiên tánh, không thể lãnh thọ Quảng quả thiên ng
 thể lãnh thọ Abhibhu (Thắng giả) ngang qua Abhibhu tánh, không thể lãnh thọ nhứt thiết ngang qua
 nhứt thiết tánh. Này Tôn giả, nay ta sẽ biến mất trước mặt Tôn giả.
 
+<!--pg-->
 "-- Này Phạm thiên, hãy biến đi trước mặt Ta, nếu Ông có thể biến được.
 
 Rồi này các Tỷ-kheo, Phạm thiên Baka nói:
@@ -157,9 +159,9 @@ Phạm thiên Baka:
 Rồi này các Tỷ-kheo, Ta thực hiện thần thông như sau: "Hãy để cho Phạm thiên, Phạm thiên chúng và
 Phạm thiên quyến thuộc nghe tiếng Ta chớ không thấy Ta", Ta biến mất và nói lên bài kệ như sau:
 
-*"Thấy nguy hiểm trong hữu,*
-*Từ hữu, tìm phi hữu,*
-*Ta không tôn trọng hữu,*
+*"Thấy nguy hiểm trong hữu,*\
+*Từ hữu, tìm phi hữu,*\
+*Ta không tôn trọng hữu,*\
 *Không hỷ, không chấp trước".*
 
 Rồi này các Tỷ-kheo, Phạm thiên, Phạm thiên chúng và Phạm thiên quyến thuộc, tâm sanh vi diệu hy

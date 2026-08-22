@@ -49,11 +49,11 @@ cận, biết rõ các pháp không nên thân cận. Vì biết rõ các pháp 
 phục vụ, biết rõ các pháp nên thân cận, biết rõ các pháp không nên thân cận, vị này phục vụ các pháp
 nên phục vụ, không phục vụ các pháp không nên phục vụ, thân cận các pháp nên thân cận, không thân
 cận các pháp không nên thân cận. Vị này vì phục vụ các pháp nên phục vụ, không phục vụ các pháp
-
 không nên phục vụ, thân cận các pháp nên thân cận, không thân cận các pháp không nên thân cận, cho
 nên các pháp bất khả ái, bất khả lạc, bất khả ý bị tiêu diệt; các pháp khả ái, khả lạc, khả ý được tăng
 trưởng. Vì sao vậy? Như vậy này các Tỷ-kheo, là vì vị ấy có trí đối với pháp này.
 
+<!--pg-->
 Này các Tỷ-kheo, có bốn pháp hành. Thế nào là bốn? Này các Tỷ-kheo, có pháp hành hiện tại khổ,
 tương lai quả báo cũng khổ. Này các Tỷ-kheo, các pháp hành hiện tại khổ, tương lai quả báo lạc. Này
 các Tỷ-kheo, có pháp hành hiện tại lạc, tương lai quả báo khổ. Này các Tỷ-kheo, có pháp hành hiện tại
@@ -89,6 +89,7 @@ này. vì không phục vụ pháp này, vì tránh né pháp này, nên đối 
 lạc, bất khả ý tăng trưởng; các pháp khả ái, khả lạc, khả ý bị tiêu diệt. Vì sao vậy? Như vậy, này các Tỷ-
 kheo, là vì vị ấy không có trí đối với pháp này.
 
+<!--pg-->
 ***(Người trí)***
 
 Ở đây, này các Tỷ-kheo, đây là pháp hành hiện tại khổ và tương lai quả báo cũng khổ. Do có trí với
@@ -120,6 +121,7 @@ né pháp này. Do phục vụ pháp này, do không tránh né pháp này, các
 ý tiêu diệt; các pháp khả ái, khả lạc, khả ý tăng trưởng. Vì sao vậy? Như vậy, này các Tỷ-kheo, là vì vị
 ấy có trí đối với pháp này.
 
+<!--pg-->
 ***(Bốn pháp)***
 
 Này các Tỷ-kheo, thế nào là pháp hành hiện tại khổ và tương lai quả báo cũng khổ? Ở đây, này các Tỷ-
@@ -153,7 +155,6 @@ hạnh trong các dục, và do duyên từ bỏ tà hạnh trong các dục, c�
 lời vọng ngữ và do duyên từ bỏ nói lời vọng ngữ cảm thọ khổ ưu; với khổ, với ưu, từ bỏ nói lời hai lưỡi,
 và do duyên từ bỏ nói lời hai lưỡi, cảm thọ khổ ưu; với khổ, với ưu, từ bỏ nói lời ác ngữ, và do duyên từ
 bỏ nói lời ác ngữ, cảm thọ khổ ưu; với khổ, với ưu, từ bỏ nói lời phù phiếm, và do duyên từ bỏ nói lời
-
 phù phiếm, cảm thọ khổ ưu; với khổ, với ưu, từ bỏ tâm tham ái, và do duyên từ bỏ tâm tham ái, cảm thọ
 khổ ưu; với khổ, với ưu, từ bỏ tâm sân hận, và do duyên từ bỏ tâm sân hận, cảm thọ khổ ưu; với khổ, với
 ưu, từ bỏ tà kiến, và do duyên từ bỏ tà kiến, cảm thọ khổ ưu. Vị ấy sau khi thân hoại mạng chung, sanh
@@ -173,6 +174,7 @@ và hỷ; với lạc, với hỷ, có chánh kiến và do duyên chánh kiến
 mạng chung, sanh lên thiện thú, Thiên giới, cõi đời này. Như vậy, này các Tỷ-kheo, gọi là pháp hành
 hiện tại lạc và tương lai quả báo cũng lạc.
 
+<!--pg-->
 ***(Ví dụ)***
 
 Này các Tỷ-kheo, ví như trái bí đắng có tẩm thuốc độc. Rồi một người đến muốn sống, muốn không

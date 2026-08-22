@@ -15,6 +15,7 @@
 
 4\. "Vị thánh đệ tử (noble disciple - đệ tử đã chứng đắc các đạo quả) đã được khéo dạy, kính trọng các bậc thánh nhân và thuần thục, được rèn luyện trong Pháp của các ngài, kính trọng bậc chân nhân và thuần thục, được rèn luyện trong Pháp của các ngài, thì biết pháp nào nên tu tập và pháp nào không nên tu tập, biết pháp nào nên theo và pháp nào không nên theo. Vì biết điều này, vị ấy tu tập những pháp nên tu tập và không tu tập những pháp không nên tu tập, vị ấy theo những pháp nên theo và không theo những pháp không nên theo. Chính vì làm như vậy mà những điều không mong muốn, không ưa thích, không hài lòng giảm bớt đối với vị ấy, còn những điều mong muốn, ưa thích, hài lòng lại tăng thêm. Tại sao vậy? Đó là điều xảy ra cho người thấy (sees - có trí tuệ, thấy sự thật).
 
+<!--pg-->
 5\. "Này các tỳ kheo, có bốn cách thực hành các pháp (ways of undertaking things - dhamma-samādāna - cách thức tiếp nhận và thực hành giáo pháp hoặc hành động). Bốn cách đó là gì? Có cách thực hành pháp khổ bây giờ và kết quả (ripens - trổ quả, chín muồi) là khổ trong tương lai. Có [311] cách thực hành pháp vui bây giờ và kết quả là khổ trong tương lai. Có cách thực hành pháp khổ bây giờ và kết quả là vui trong tương lai. Có cách thực hành pháp vui bây giờ và kết quả là vui trong tương lai.
 
 #### (NGƯỜI VÔ MINH)
@@ -27,6 +28,7 @@
 
 9\. (4) "Này các tỳ kheo, người vô minh, không biết cách thực hành pháp vui bây giờ và kết quả là vui trong tương lai này, không hiểu nó đúng như thật rằng: 'Cách thực hành pháp này vui bây giờ và kết quả là vui trong tương lai.' Vì không biết, không hiểu nó đúng như thật, người vô minh không tu tập nó mà tránh né nó; vì làm như vậy, [312] những điều không mong muốn... tăng thêm đối với người ấy và những điều mong muốn... lại giảm bớt. Tại sao vậy? Đó là điều xảy ra cho người không thấy.
 
+<!--pg-->
 #### (NGƯỜI TRÍ TUỆ)
 
 10\. (1) "Này các tỳ kheo, người có trí tuệ (wise - người hiểu biết, có trí tuệ), biết cách thực hành pháp khổ bây giờ và kết quả là khổ trong tương lai này, hiểu nó đúng như thật rằng: 'Cách thực hành pháp này khổ bây giờ và kết quả là khổ trong tương lai.' Vì biết, hiểu nó đúng như thật, người trí không tu tập nó mà tránh né nó; vì làm như vậy, những điều không mong muốn, không ưa thích, không hài lòng giảm bớt đối với người ấy, còn những điều mong muốn, ưa thích, hài lòng lại tăng thêm. Tại sao vậy? Đó là điều xảy ra cho người thấy.
@@ -37,6 +39,7 @@
 
 13\. (4) "Này các tỳ kheo, người có trí tuệ, biết cách thực hành pháp vui bây giờ và kết quả là vui trong tương lai này, hiểu nó đúng như thật rằng: 'Cách thực hành pháp này vui bây giờ và kết quả là vui trong tương lai.' Vì biết, hiểu nó đúng như thật, người trí không tránh né nó mà tu tập nó; vì làm như vậy, những điều không mong muốn... giảm bớt đối với người ấy và những điều mong muốn... lại tăng thêm. Tại sao vậy? Đó là điều xảy ra cho người thấy. [313]
 
+<!--pg-->
 #### (BỐN CÁCH THỰC HÀNH)
 
 14\. (1) "Này các tỳ kheo, thế nào là cách thực hành pháp khổ bây giờ và kết quả là khổ trong tương lai? Này các tỳ kheo, ở đây, có người đang đau khổ và sầu muộn mà sát sinh (kills living beings - hành động giết hại chúng sinh), và người ấy cảm nghiệm đau khổ và sầu muộn với việc sát sinh làm duyên (condition - nhân duyên, điều kiện). Trong đau khổ và sầu muộn, người ấy lấy của không cho... tà dâm trong các dục lạc... nói dối... nói lời đâm thọc... nói lời thô ác... nói lời phù phiếm... tham lam... có tâm sân hận (ill will - ác ý, mong muốn hại người khác)... giữ tà kiến (wrong view - quan điểm sai lầm về thực tại, về nghiệp báo...), và người ấy cảm nghiệm đau khổ và sầu muộn với tà kiến làm duyên. Sau khi thân hoại mạng chung (dissolution of the body, after death - khi cơ thể tan rã, sau khi chết), người ấy tái sinh (reappears - sinh trở lại) vào cõi thiếu thốn, khổ cảnh, đọa xứ, thậm chí địa ngục. Đây được gọi là cách thực hành pháp khổ bây giờ và kết quả là khổ trong tương lai.
@@ -47,7 +50,8 @@
 
 17\. (4) "Này các tỳ kheo, thế nào là cách thực hành pháp vui bây giờ và kết quả là vui trong tương lai? Này các tỳ kheo, ở đây, có người đang vui vẻ và hoan hỷ mà từ bỏ sát sinh, và người ấy cảm nghiệm vui vẻ và hoan hỷ với việc từ bỏ sát sinh làm duyên. Trong vui vẻ và hoan hỷ, người ấy từ bỏ lấy của không cho... giữ chánh kiến, và người ấy cảm nghiệm vui vẻ và hoan hỷ với chánh kiến làm duyên. Sau khi thân hoại mạng chung, người ấy tái sinh vào cõi an vui, thậm chí cõi trời. Đây được gọi là cách thực hành pháp vui bây giờ và kết quả là vui trong tương lai.
 
-(CÁC VÍ DỤ)
+<!--pg-->
+#### (CÁC VÍ DỤ)
 
 18\. (1) "Này các tỳ kheo, ví như có một quả bầu đắng trộn lẫn thuốc độc, và có người muốn sống, không muốn chết, muốn vui và sợ khổ đi đến, và người ta bảo anh ta: 'Này bạn, quả bầu đắng này có trộn thuốc độc. Nếu muốn, bạn cứ uống; [316] khi uống, màu sắc, mùi, và vị của nó sẽ không làm bạn hài lòng, và sau khi uống, bạn sẽ chết hoặc chịu đau khổ gần chết.' Rồi người đó uống mà không suy xét (without reflecting - không cân nhắc, thiếu trí tuệ) và không từ bỏ nó. Khi uống, màu sắc, mùi, và vị của nó không làm người ấy hài lòng, và sau khi uống, người ấy chết hoặc chịu đau khổ gần chết. Ta nói rằng, cách thực hành pháp khổ bây giờ và kết quả là khổ trong tương lai cũng tương tự như vậy.
 

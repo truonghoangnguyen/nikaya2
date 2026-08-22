@@ -45,11 +45,11 @@ pháp hoàn toàn thanh tịnh do mắt, tai nhận thức, những pháp ấy c
 hiểu như vậy và biết được như sau: "Những pháp hoàn toàn thanh tịnh do mắt, tai nhận thức; những
 pháp ấy có hiện khởi ở Như Lai".
 
+<!--pg-->
 Vị ấy tìm hiểu thêm: "Vị Tôn giả này thành tựu thiện pháp này trong một thời gian lâu dài hay trong một
 thời gian ngắn?" Sau khi tìm hiểu như vậy, vị Tỷ-kheo biết được như sau: "Vị Tôn giả này thành tựu
 thiện pháp này trong một thời gian lâu dài, vị Tôn giả này thành tựu thiện pháp này không phải trong
 một thời gian ngắn". Sau khi tìm hiểu như vậy và biết được như sau: "Vị Tôn giả này thành tựu thiện
-
 pháp này trong một thời gian lâu dài, vị Tôn giả này thành tựu thiên pháp này không phải trong một thời
 gian ngắn".
 
@@ -89,6 +89,7 @@ Như Lai hay không có hiện khởi?" Ðược hỏi vậy, này các Tỷ-khe
 pháp hoàn toàn thanh tịnh do mắt, tai nhận thức; những pháp ấy có hiện khởi ở Như Lai. Ta lấy như vậy
 làm đạo lộ, làm hành giới. Không có ai giống Ta như vậy. "
 
+<!--pg-->
 Này các Tỷ-kheo, một đệ tử phải đến gần bậc Ðạo Sư có nói như vậy để được nghe pháp. Vị Ðạo Sư
 thuyết pháp cho vị ấy từ vấn đề này đến vấn đề khác, từ vi diệu này đến vi diệu khác, các pháp hắc bạch
 cùng với các pháp tương đương (Sappatibhaga). Này các Tỷ-kheo, tùy theo vị Ðạo Sư thuyết pháp cho
