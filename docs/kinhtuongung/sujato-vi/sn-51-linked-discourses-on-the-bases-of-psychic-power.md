@@ -3,54 +3,45 @@
 <!--pg-->
 ## Chương tại Điện Cāpāla
 
-### SN 51.1 Từ Bờ Bên Này (*Apārasutta*){#1}
-
+### SN 51.1 Từ Bờ Bên Này (*Apārasutta*) {#1}
 "Này các *Tỷ kheo*, khi bốn *cửa thần thông* (bases of psychic power / Iddhipādā / thần túc / *cánh cửa* đi vào thần thông, chứ không phải thần thông) này được phát triển và trau dồi, chúng sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện* và *ý chí bền bỉ*. Vị ấy phát triển *cửa thần thông* được thành tựu bởi *Định do Nỗ lực* (Energy / Tinh tấn(viriya)) và *ý chí bền bỉ*. Vị ấy phát triển *cửa thần thông* được thành tựu bởi *Định do sự phát triển tâm* (mental development / citta / tâm / sự tu tập và phát triển các phẩm chất của tâm) và *ý chí bền bỉ*. Vị ấy phát triển *cửa thần thông* được thành tựu bởi *Định do điều tra phân tích* (inquiry / Vīmaṁsā/quán) và *ý chí bền bỉ*. Khi bốn *cửa thần thông* này được phát triển và trau dồi, chúng sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia."
 
 <!--pg-->
-### SN 51.2 Bỏ Lỡ (*Viraddhasutta*){#2}
-
+### SN 51.2 Bỏ Lỡ (*Viraddhasutta*) {#2}
 "Này các *Tỷ kheo*, bất cứ ai đã bỏ lỡ bốn *cửa thần thông* là đã bỏ lỡ con đường thánh thiện (noble path / ariya magga / thánh đạo / con đường dẫn đến giải thoát) dẫn đến sự chấm dứt hoàn toàn khổ đau. Bất cứ ai đã thực hành bốn *cửa thần thông* là đã thực hành con đường thánh thiện dẫn đến sự chấm dứt hoàn toàn khổ đau. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Bất cứ ai đã bỏ lỡ bốn *cửa thần thông* này là đã bỏ lỡ con đường thánh thiện dẫn đến sự chấm dứt hoàn toàn khổ đau. Bất cứ ai đã thực hành bốn *cửa thần thông* này là đã thực hành con đường thánh thiện dẫn đến sự chấm dứt hoàn toàn khổ đau."
 
 <!--pg-->
-### SN 51.3 Bậc Thánh (*Ariyasutta*){#3}
-
+### SN 51.3 Bậc Thánh (*Ariyasutta*) {#3}
 "Này các *Tỷ kheo*, khi bốn *cửa thần thông* này được phát triển và trau dồi, chúng trở nên cao quý và giải thoát, và đưa người thực hành chúng đến sự chấm dứt hoàn toàn khổ đau. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Khi bốn *cửa thần thông* này được phát triển và trau dồi, chúng trở nên cao quý và giải thoát, và đưa người thực hành chúng đến sự chấm dứt hoàn toàn khổ đau."
 
 <!--pg-->
-### SN 51.4 Nhàm Chán (*Nibbidāsutta*){#4}
-
+### SN 51.4 Nhàm Chán (*Nibbidāsutta*) {#4}
 "Này các *Tỷ kheo*, bốn *cửa thần thông* này, khi được phát triển và trau dồi, chỉ dẫn đến sự *nhàm chán* (disillusionment / nibbidā / yếm ly / sự chán ngán, không còn hứng thú với các pháp duyên hợp), *ly tham* (dispassion / virāga / ly tham / sự dứt bỏ tham ái), *chấm dứt* (cessation / nirodha / diệt / sự chấm dứt hoàn toàn khổ đau), *an tịnh* (peace / upasama / an tịnh / sự lắng dịu, bình yên), *tuệ giác* (insight / paññā / trí tuệ / sự hiểu biết sâu sắc, trực tiếp về bản chất của sự vật), *giác ngộ* (awakening / bodhi / bồ đề / sự tỉnh thức hoàn toàn), và *dập tắt* (extinguishment / nibbāna / niết bàn / sự dập tắt hoàn toàn tham, sân, si và khổ đau). Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Bốn *cửa thần thông* này, khi được phát triển và trau dồi, chỉ dẫn đến sự *nhàm chán*, *ly tham*, *chấm dứt*, *an tịnh*, *tuệ giác*, *giác ngộ*, và *dập tắt*."
 
 <!--pg-->
-### SN 51.5 Một Phần (*Iddhipadesasutta*){#5}
-
+### SN 51.5 Một Phần (*Iddhipadesasutta*) {#5}
 "Này các *Tỷ kheo*, tất cả các tu sĩ và bà-la-môn trong quá khứ đã biểu hiện một phần *thần thông* (psychic powers / iddhi / thần thông / các năng lực siêu nhiên có được qua tu tập thiền định) đều đã làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông*. Tất cả các tu sĩ và bà-la-môn trong tương lai sẽ biểu hiện một phần *thần thông* cũng sẽ làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông*. Tất cả các tu sĩ và bà-la-môn trong hiện tại đang biểu hiện một phần *thần thông* cũng làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông*.
 
 Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Tất cả các tu sĩ và bà-la-môn trong quá khứ đã biểu hiện một phần *thần thông* đều đã làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông* này. Tất cả các tu sĩ và bà-la-môn trong tương lai sẽ biểu hiện một phần *thần thông* cũng sẽ làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông* này. Tất cả các tu sĩ và bà-la-môn trong hiện tại đang biểu hiện một phần *thần thông* cũng làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông* này."
 
 <!--pg-->
-### SN 51.6 Hoàn Toàn (*Samattasutta*){#6}
-
+### SN 51.6 Hoàn Toàn (*Samattasutta*) {#6}
 "Này các *Tỷ kheo*, tất cả các tu sĩ và bà-la-môn trong quá khứ đã biểu hiện hoàn toàn *thần thông* đều đã làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông*. Tất cả các tu sĩ và bà-la-môn trong tương lai sẽ biểu hiện hoàn toàn *thần thông* cũng sẽ làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông*. Tất cả các tu sĩ và bà-la-môn trong hiện tại đang biểu hiện hoàn toàn *thần thông* cũng làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông*.
 
 Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Tất cả các tu sĩ và bà-la-môn trong quá khứ đã biểu hiện hoàn toàn *thần thông* đều đã làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông* này. Tất cả các tu sĩ và bà-la-môn trong tương lai sẽ biểu hiện hoàn toàn *thần thông* cũng sẽ làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông* này. Tất cả các tu sĩ và bà-la-môn trong hiện tại đang biểu hiện hoàn toàn *thần thông* cũng làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông* này."
 
 <!--pg-->
-### SN 51.7 Một Vị Tỷ Kheo (*Bhikkhusutta*){#7}
-
+### SN 51.7 Một Vị Tỷ Kheo (*Bhikkhusutta*) {#7}
 "Này các *Tỷ kheo*, tất cả các *Tỷ kheo* trong quá khứ... tương lai... hiện tại, những người chứng ngộ *tâm giải thoát* (freedom of heart / cetovimutti / tâm giải thoát / sự giải thoát của tâm khỏi tham ái) không *ô nhiễm* (defilements / āsava / lậu hoặc / những ô nhiễm tinh thần làm rò rỉ năng lượng tâm linh) và *tuệ giải thoát* (freedom by wisdom / paññāvimutti / tuệ giải thoát / sự giải thoát nhờ trí tuệ, đoạn trừ vô minh) ngay trong đời này, và sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*, đều làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông*.
 
 Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực* ... *Sự phát triên tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Tất cả các *Tỷ kheo* trong quá khứ... tương lai... hiện tại, những người chứng ngộ *tâm giải thoát* không *ô nhiễm* và *tuệ giải thoát* ngay trong đời này, và sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*, đều làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông* này."
 
 <!--pg-->
-### SN 51.8 Bậc Giác Ngộ (*Buddhasutta*){#8}
-
+### SN 51.8 Bậc Giác Ngộ (*Buddhasutta*) {#8}
 "Này các *Tỷ kheo*, có bốn *cửa thần thông* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực* ... *Sự phát triên tâm* ... *điều tra phân tích*, và với *ý chí bền bỉ*. Đây là bốn *cửa thần thông*. Chính vì đã phát triển và trau dồi bốn *cửa thần thông* này mà *Bậc Giác Ngộ* (Realized One / Tathāgata / Như Lai / người đã đến và đi như vậy, một danh hiệu của Đức Phật) được gọi là 'bậc hoàn thiện (perfected one / arahaṃ / A-la-hán / người đã đạt đến sự hoàn thiện tâm linh, chấm dứt ô nhiễm), Đức Phật toàn giác'."
 
 <!--pg-->
-### SN 51.9 Tri Thức (*Ñāṇasutta*){#9}
-
+### SN 51.9 Tri Thức (*Ñāṇasutta*) {#9}
 "Này các *Tỷ kheo*: 'Đây là *cửa thần thông* được thành tựu bởi *định do ý nguyện* và *ý chí bền bỉ*.' Tầm nhìn, tri thức, trí tuệ, sự chứng ngộ và ánh sáng như vậy đã khởi lên trong ta về những giáo lý chưa từng được học từ ai trước đây. '*Cửa thần thông* này... nên được phát triển.'... '*Cửa thần thông* này... đã được phát triển.' Tầm nhìn, tri thức, trí tuệ, sự chứng ngộ và ánh sáng như vậy đã khởi lên trong ta về những giáo lý chưa từng được học từ ai trước đây.
 
 'Đây là *cửa thần thông* được thành tựu bởi *Định do tinh tấn* và *ý chí bền bỉ*.'... '*Cửa thần thông* này... nên được phát triển.'... '*Cửa thần thông* này... đã được phát triển.' Tầm nhìn, tri thức, trí tuệ, sự chứng ngộ và ánh sáng như vậy đã khởi lên trong ta về những giáo lý chưa từng được học từ ai trước đây.
@@ -60,8 +51,7 @@ Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa 
 'Đây là *cửa thần thông* được thành tựu bởi *Định do điều tra phân tích* và *ý chí bền bỉ*.'... '*Cửa thần thông* này... nên được phát triển.'... '*Cửa thần thông* này... đã được phát triển.' Tầm nhìn, tri thức, trí tuệ, sự chứng ngộ và ánh sáng như vậy đã khởi lên trong ta về những giáo lý chưa từng được học từ ai trước đây."
 
 <!--pg-->
-### SN 51.10 Tại Điện Cāpāla (*Cetiyasutta*){#10}
-
+### SN 51.10 Tại Điện Cāpāla (*Cetiyasutta*) {#10}
 Tôi nghe như vầy. Một thời, Đức Phật trú tại Vesālī, trong khu Rừng Lớn, tại giảng đường có mái nhọn. Bấy giờ, vào buổi sáng, Đức Phật đắp y, mang bát và y, vào thành Vesālī để khất thực. Sau bữa ăn, khi trở về từ chuyến khất thực, Ngài nói với Tôn giả Ānanda: "Này Ānanda, hãy lấy tọa cụ của con. Chúng ta hãy đến Điện Cāpāla để hành thiền trong ngày."
 
 "Vâng, thưa Tôn giả," Ānanda đáp. Lấy tọa cụ, ông đi theo sau Đức Phật.
@@ -111,8 +101,7 @@ Vậy là tại Điện Cāpāla, Đức Phật, với tâm *niệm* và tỉnh 
 <!--pg-->
 ## Chương Rung Chuyển Nhà Sàn
 
-### SN 51.11 Trước Kia (*Pubbasutta*){#11}
-
+### SN 51.11 Trước Kia (*Pubbasutta*) {#11}
 Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, trước khi ta *giác ngộ*—khi ta vẫn chưa *giác ngộ* nhưng quyết tâm *giác ngộ*—ta đã nghĩ: 'Nguyên nhân nào, lý do nào cho sự phát triển các *cửa thần thông*?' Rồi ta nghĩ: 'Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện* và *ý chí bền bỉ*. Vị ấy nghĩ: "Ý nguyện của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không bị co cụm bên trong hay phân tán ra bên ngoài." Và vị ấy hành thiền với *nhận thức* trước và sau: trước nào, sau vậy; sau nào, trước vậy; dưới nào, trên vậy; trên nào, dưới vậy; ban ngày nào, ban đêm vậy; ban đêm nào, ban ngày vậy. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
@@ -132,8 +121,7 @@ Khi bốn *cửa thần thông* đã được phát triển và trau dồi theo 
 Khi bốn *cửa thần thông* đã được phát triển và trau dồi theo cách này, họ chứng ngộ *tâm giải thoát* không *ô nhiễm* và *tuệ giải thoát* ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### SN 51.12 Quả Báo Lớn (*Mahapphalasutta*){#12}
-
+### SN 51.12 Quả Báo Lớn (*Mahapphalasutta*) {#12}
 "Này các *Tỷ kheo*, khi bốn *cửa thần thông* được phát triển và trau dồi, chúng mang lại rất nhiều quả báo và lợi ích. Như thế nào? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện* và *ý chí bền bỉ*. Vị ấy nghĩ: 'Ý nguyện của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không bị co cụm bên trong hay phân tán ra bên ngoài.' Và vị ấy hành thiền với *nhận thức* trước và sau: trước nào, sau vậy; sau nào, trước vậy; dưới nào, trên vậy; trên nào, dưới vậy; ban ngày nào, ban đêm vậy; ban đêm nào, ban ngày vậy. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
 
 Vị ấy phát triển *cửa thần thông* được thành tựu bởi *Định do Tinh tấn*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Vị ấy nghĩ: '*Điều tra phân tích* của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không bị co cụm bên trong hay phân tán ra bên ngoài.' Và vị ấy hành thiền với *nhận thức* trước và sau: trước nào, sau vậy; sau nào, trước vậy; dưới nào, trên vậy; trên nào, dưới vậy; ban ngày nào, ban đêm vậy; ban đêm nào, ban ngày vậy. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng. Khi bốn *cửa thần thông* đã được phát triển và trau dồi theo cách này, chúng mang lại rất nhiều quả báo và lợi ích.
@@ -143,8 +131,7 @@ Khi bốn *cửa thần thông* đã được phát triển và trau dồi theo 
 Khi bốn *cửa thần thông* đã được phát triển và trau dồi theo cách này, họ chứng ngộ *tâm giải thoát* không *ô nhiễm* và *tuệ giải thoát* ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### SN 51.13 Định Do Ý Nguyện (*Chandasamādhisutta*){#13}
-
+### SN 51.13 Định Do Ý Nguyện (*Chandasamādhisutta*) {#13}
 >Bài kinh quan trọng định nghĩa về **cổng thần thông** và **ý chí bền bỉ (hành tinh cần)**:
 >
 >"Này các Tỳ-kheo, vị Tỳ-kheo nương vào **ý nguyện** (chanda), đạt được định, đạt được sự nhất tâm; đây được gọi là **định do ý nguyện** (chandasamādhi).
@@ -175,8 +162,7 @@ Nếu một *Tỷ kheo* dựa vào sự phát triển tâm để đạt được
 Nếu một *Tỷ kheo* dựa vào *điều tra phân tích* để đạt được *Định*, đạt được sự hợp nhất của tâm, thì đây được gọi là *Định do điều tra phân tích*. Vị ấy khởi lên mong muốn, cố gắng, nỗ lực, *hướng dẫn và đông viên tâm (sách tấn tâm)*, và *nỗ lực* để các phẩm chất xấu, bất thiện không phát sinh... để các phẩm chất thiện đã phát sinh được duy trì, không bị mất đi, mà tăng trưởng, chín muồi, và được hoàn thiện qua sự phát triển. Đây được gọi là các *ý chí bền bỉ*. Và như vậy, có *điều tra phân tích* này, *Định do điều tra phân tích* này, và những *ý chí bền bỉ* này. Đây được gọi là *cửa thần thông* được thành tựu bởi *Định do điều tra phân tích* và *ý chí bền bỉ*."
 
 <!--pg-->
-### SN 51.14 Với Moggallāna (*Moggallānasutta*){#14}
-
+### SN 51.14 Với Moggallāna (*Moggallānasutta*) {#14}
 Tôi nghe như vầy. Một thời, Đức Phật trú tại Sāvatthī trong nhà sàn của mẹ Migāra ở Tu viện phía Đông. Bấy giờ, có một số *Tỷ kheo* đang ở dưới nhà sàn. Họ bồn chồn, xấc xược, hay thay đổi, nói lời thô tục, nói năng bừa bãi, không có *niệm*, thiếu *nhận biết rõ ràng* và *Định*, với tâm trí lang thang và các giác quan không được kiểm soát.
 
 Bấy giờ, Đức Phật nói với Tôn giả Mahāmoggallāna: "Những người bạn đồng tu của con đang ở dưới nhà sàn kia bồn chồn, xấc xược, hay thay đổi, nói lời thô tục, nói năng bừa bãi, không có *niệm*, thiếu *nhận biết rõ ràng* và *Định*, với tâm trí lang thang và các giác quan không được kiểm soát. Hãy đi, Moggallāna, và làm cho các *Tỷ kheo* đó kinh sợ!"
@@ -204,8 +190,7 @@ Và bằng cách phát triển và trau dồi bốn *cửa thần thông* này, 
 Và bằng cách phát triển và trau dồi bốn *cửa thần thông* này, *Tỷ kheo* Moggallāna chứng ngộ *tâm giải thoát* không *ô nhiễm* và *tuệ giải thoát* ngay trong đời này. Và vị ấy sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### SN 51.15 Bà-la-môn Uṇṇābha (*Uṇṇābhabrāhmaṇasutta*){#15}
-
+### SN 51.15 Bà-la-môn Uṇṇābha (*Uṇṇābhabrāhmaṇasutta*) {#15}
 Tôi nghe như vầy. Một thời, Tôn giả Ānanda trú tại Kosambī, trong Tu viện của Ghosita. Bấy giờ, bà-la-môn Uṇṇābha đến gặp Tôn giả Ānanda và chào hỏi ông. Sau khi chào hỏi và trò chuyện lịch sự, ông ngồi xuống một bên và nói với Tôn giả: "Thưa Tôn giả Ānanda, mục đích của việc sống đời phạm hạnh dưới sự hướng dẫn của tu sĩ Gotama là gì?"
 
 "Mục đích của việc sống đời phạm hạnh dưới sự hướng dẫn của Đức Phật, thưa bà-la-môn, là để từ bỏ ham muốn."
@@ -241,29 +226,25 @@ Tôi nghe như vầy. Một thời, Tôn giả Ānanda trú tại Kosambī, tron
 "Rõ ràng, thưa Tôn giả Ānanda, nếu vậy, con đường này là có hồi kết, không phải vô tận. Tuyệt vời, thưa Tôn giả Ānanda! Tuyệt vời! Như thể ngài đang dựng lại vật bị lật ngửa, hay phơi bày điều bị che giấu, hay chỉ đường cho người lạc lối, hay thắp đèn trong bóng tối để người có mắt sáng có thể thấy những gì ở đó, Tôn giả Ānanda đã làm rõ giáo pháp bằng nhiều cách. Tôi xin quy y Tôn giả Gotama, quy y giáo pháp, và quy y Tăng đoàn *Tỷ kheo*. Từ hôm nay trở đi, xin Tôn giả Ānanda hãy ghi nhớ tôi là một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 51.16 Tu Sĩ và Bà-la-môn (Thứ Nhất) (*Paṭhamasamaṇabrāhmaṇasutta*){#16}
-
+### SN 51.16 Tu Sĩ và Bà-la-môn (Thứ Nhất) (*Paṭhamasamaṇabrāhmaṇasutta*) {#16}
 "Này các *Tỷ kheo*, tất cả các tu sĩ và bà-la-môn trong quá khứ, tương lai, hay hiện tại, những người có sức mạnh và quyền năng, đều đã trở nên như vậy nhờ phát triển và trau dồi bốn *cửa thần thông*.
 
 Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Tất cả các tu sĩ và bà-la-môn trong quá khứ, tương lai, hay hiện tại, những người có sức mạnh và quyền năng, đều đã trở nên như vậy nhờ phát triển và trau dồi bốn *cửa thần thông*."
 
 <!--pg-->
-### SN 51.17 Tu Sĩ và Bà-la-môn (Thứ Hai) (*Dutiyasamaṇabrāhmaṇasutta*){#17}
-
+### SN 51.17 Tu Sĩ và Bà-la-môn (Thứ Hai) (*Dutiyasamaṇabrāhmaṇasutta*) {#17}
 "Này các *Tỷ kheo*, tất cả các tu sĩ và bà-la-môn trong quá khứ, tương lai, hay hiện tại, những người sử dụng được nhiều loại *thần thông*—tự nhân bản và trở lại thành một; hiện ra và biến mất; đi xuyên qua tường, thành lũy, hoặc núi không bị cản trở như đi trong không gian; lặn xuống và trồi lên khỏi mặt đất như thể đó là nước; đi trên mặt nước như thể đó là đất; bay ngồi chéo chân trên trời như một con chim; chạm và vuốt ve mặt trời và mặt trăng bằng tay, thật hùng mạnh và quyền năng; điều khiển cơ thể đến tận cõi trời—đều làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông*.
 
 Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Này các *Tỷ kheo*, tất cả các tu sĩ và bà-la-môn trong quá khứ, tương lai, hay hiện tại, những người sử dụng được nhiều loại *thần thông*—tự nhân bản và trở lại thành một... điều khiển cơ thể đến tận cõi trời—đều làm như vậy bằng cách phát triển và trau dồi bốn *cửa thần thông* này."
 
 <!--pg-->
-### SN 51.18 Một Vị Tỷ Kheo (*Bhikkhusutta*){#18}
-
+### SN 51.18 Một Vị Tỷ Kheo (*Bhikkhusutta*) {#18}
 "Này các *Tỷ kheo*, bằng cách phát triển và trau dồi bốn *cửa thần thông*, một *Tỷ kheo* chứng ngộ *tâm giải thoát* không *ô nhiễm* và *tuệ giải thoát* ngay trong đời này. Và vị ấy sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*.
 
 Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Bằng cách phát triển và trau dồi bốn *cửa thần thông* này, một *Tỷ kheo* chứng ngộ *tâm giải thoát* không *ô nhiễm* và *tuệ giải thoát* ngay trong đời này. Và vị ấy sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### SN 51.19 Một Bài Giảng về Thần Thông, v.v. (*Iddhādidesanāsutta*){#19}
-
+### SN 51.19 Một Bài Giảng về Thần Thông, v.v. (*Iddhādidesanāsutta*) {#19}
 "Này các *Tỷ kheo*, ta sẽ dạy các con về *thần thông*, các *cửa thần thông*, sự phát triển các *cửa thần thông*, và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông*. Hãy lắng nghe...
 
 Và *thần thông* là gì? Đó là khi một *Tỷ kheo* sử dụng được nhiều loại *thần thông*: tự nhân bản và trở lại thành một... điều khiển cơ thể đến tận cõi trời. Đây được gọi là *thần thông*.
@@ -275,8 +256,7 @@ Và sự phát triển các *cửa thần thông* là gì? Đó là khi một *T
 Và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông* là gì? Đó chính là con đường thánh thiện tám nhánh này, tức là: *tầm nhìn thiện, suy nghĩ thiện, lời nói thiện, hành động thiện, nghề nghiệp thiện, sự nỗ lực thiện, niệm thiện, định thiện* (chánh kiến, chánh tư duy , chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định). Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông*."
 
 <!--pg-->
-### SN 51.20 Phân Tích (*Vibhaṅgasutta*){#20}
-
+### SN 51.20 Phân Tích (*Vibhaṅgasutta*) {#20}
 "Này các *Tỷ kheo*, khi bốn *cửa thần thông* được phát triển và trau dồi, chúng mang lại rất nhiều quả báo và lợi ích.
 
 Như thế nào? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện* và *ý chí bền bỉ*. Vị ấy nghĩ: 'Ý nguyện của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không bị co cụm bên trong hay phân tán ra bên ngoài.' Và vị ấy hành thiền với *nhận thức* trước và sau: trước nào, sau vậy; sau nào, trước vậy; dưới nào, trên vậy; trên nào, dưới vậy; ban ngày nào, ban đêm vậy; ban đêm nào, ban ngày vậy. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
@@ -317,8 +297,7 @@ Khi bốn *cửa thần thông* đã được phát triển và trau dồi theo 
 <!--pg-->
 ## Chương Quả Cầu Sắt
 
-### SN 51.21 Con Đường (*Maggasutta*){#21}
-
+### SN 51.21 Con Đường (*Maggasutta*) {#21}
 Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, trước khi ta *giác ngộ*—khi ta vẫn chưa *giác ngộ* nhưng quyết tâm *giác ngộ*—ta đã nghĩ: 'Con đường và phương pháp thực hành để phát triển các *cửa thần thông* là gì?' Rồi ta nghĩ: 'Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện* và *ý chí bền bỉ*. Vị ấy nghĩ: "Ý nguyện của ta sẽ không quá lỏng lẻo hay quá căng thẳng. Và nó sẽ không bị co cụm bên trong hay phân tán ra bên ngoài." Và vị ấy hành thiền với *nhận thức* trước và sau: trước nào, sau vậy; sau nào, trước vậy; dưới nào, trên vậy; trên nào, dưới vậy; ban ngày nào, ban đêm vậy; ban đêm nào, ban ngày vậy. Và như vậy, với một trái tim rộng mở và không bị che lấp, vị ấy phát triển một tâm trí tràn đầy ánh sáng.
@@ -332,8 +311,7 @@ Khi bốn *cửa thần thông* đã được phát triển và trau dồi theo 
 **(Sáu loại thắng tri nên được kể đầy đủ.)**
 
 <!--pg-->
-### SN 51.22 Quả Cầu Sắt (*Ayoguḷasutta*){#22}
-
+### SN 51.22 Quả Cầu Sắt (*Ayoguḷasutta*) {#22}
 Tại Sāvatthī.
 
 Bấy giờ, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và nói với Ngài:
@@ -359,30 +337,25 @@ Này Ānanda, vào lúc nào Như Lai *thân hòa vào tâm và tâm hòa vào t
 Giả sử có một túm bông gòn hoặc bông gạo nhẹ. Được gió cuốn đi, nó sẽ dễ dàng bay lên khỏi mặt đất vào không trung. Tương tự như vậy, khi *Như lai* thân hòa vào tâm và tâm hòa vào thân. an trú vào sự *nhận thức bình an* trên tâm và sự nhẹ nhàng trên thân. Lúc đó, thân của Như lai dễ dàng bay lên khỏi mặt đất vào không trung. Ta sử dụng được nhiều loại *thần thông*: tự nhân bản và trở lại thành một... điều khiển cơ thể đến tận cõi trời."
 
 <!--pg-->
-### SN 51.23 Một Vị Tỷ Kheo (*Bhikkhusutta*){#23}
-
+### SN 51.23 Một Vị Tỷ Kheo (*Bhikkhusutta*) {#23}
 "Này các *Tỷ kheo*, có bốn *cửa thần thông* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Đây là bốn *cửa thần thông*. Bằng cách phát triển và trau dồi bốn *cửa thần thông* này, một *Tỷ kheo* chứng ngộ *tâm giải thoát* không *ô nhiễm* và *tuệ giải thoát* ngay trong đời này. Và vị ấy sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### SN 51.24 Phiên Bản Đơn Giản (*Suddhikasutta*){#24}
-
+### SN 51.24 Phiên Bản Đơn Giản (*Suddhikasutta*) {#24}
 "Này các *Tỷ kheo*, có bốn *cửa thần thông* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Đây là bốn *cửa thần thông*."
 
 <!--pg-->
-### SN 51.25 Quả Báo (Thứ Nhất) (*Paṭhamaphalasutta*){#25}
-
+### SN 51.25 Quả Báo (Thứ Nhất) (*Paṭhamaphalasutta*) {#25}
 "Này các *Tỷ kheo*, có bốn *cửa thần thông* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Đây là bốn *cửa thần thông*. Nhờ phát triển và trau dồi bốn *cửa thần thông* này, một trong hai kết quả có thể được mong đợi: *giác ngộ* ngay trong đời này, hoặc nếu còn sót lại điều gì, sẽ đạt đến trạng thái *bất lai* (non-return / anāgāmitā / bất lai / trạng thái không còn quay trở lại cõi dục)."
 
 <!--pg-->
-### SN 51.26 Quả Báo (Thứ Hai) (*Dutiyaphalasutta*){#26}
-
+### SN 51.26 Quả Báo (Thứ Hai) (*Dutiyaphalasutta*) {#26}
 "Này các *Tỷ kheo*, có bốn *cửa thần thông* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Đây là bốn *cửa thần thông*. Nhờ phát triển và trau dồi bốn *cửa thần thông* này, bảy quả báo và lợi ích có thể được mong đợi.
 
 Bảy điều đó là gì? Họ đạt được *giác ngộ* sớm ngay trong đời này. Nếu không, họ đạt được *giác ngộ* vào lúc lâm chung. Nếu không, với sự chấm dứt của năm hạ phần kiết sử (five lower fetters / orambhāgiya-saṃyojana / hạ phần kiết sử / năm xiềng xích đầu tiên ràng buộc chúng sinh vào cõi dục), họ sẽ nhập diệt giữa kiếp này và kiếp sau... họ sẽ nhập diệt ngay khi tái sinh... họ sẽ nhập diệt mà không cần nỗ lực thêm... họ sẽ nhập diệt với nỗ lực thêm... họ sẽ đi ngược dòng, đến cõi Akaniṭṭha. Nhờ phát triển và trau dồi bốn *cửa thần thông* này, bảy quả báo và lợi ích này có thể được mong đợi."
 
 <!--pg-->
-### SN 51.27 Với Ānanda (Thứ Nhất) (*Paṭhamaānandasutta*){#27}
-
+### SN 51.27 Với Ānanda (Thứ Nhất) (*Paṭhamaānandasutta*) {#27}
 Tại Sāvatthī.
 
 Bấy giờ, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và nói với Ngài:
@@ -398,8 +371,7 @@ Và sự phát triển các *cửa thần thông* là gì? Đó là khi một *T
 Và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông* là gì? Đó chính là con đường thánh thiện tám nhánh này, tức là: *tầm nhìn thiện, suy nghĩ thiện, lời nói thiện, hành động thiện, nghề nghiệp thiện, sự nỗ lực thiện, niệm thiện, định thiện* (chánh kiến, chánh tư duy , chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định). Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông*."
 
 <!--pg-->
-### SN 51.28 Với Ānanda (Thứ Hai) (*Dutiyaānandasutta*){#28}
-
+### SN 51.28 Với Ānanda (Thứ Hai) (*Dutiyaānandasutta*) {#28}
 Đức Phật nói với Tôn giả Ānanda: "Này Ānanda, *thần thông* là gì? *Cửa thần thông* là gì? Sự phát triển các *cửa thần thông* là gì? Và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông* là gì?"
 
 "Giáo lý của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con...."
@@ -413,8 +385,7 @@ Và sự phát triển các *cửa thần thông* là gì? Đó là khi một *T
 Và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông* là gì? Đó chính là con đường thánh thiện tám nhánh này, tức là: *tầm nhìn thiện, suy nghĩ thiện, lời nói thiện, hành động thiện, nghề nghiệp thiện, sự nỗ lực thiện, niệm thiện, định thiện* (chánh kiến, chánh tư duy , chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định). Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông*."
 
 <!--pg-->
-### SN 51.29 Một Vài Vị Tỷ Kheo (Thứ Nhất) (*Paṭhamabhikkhusutta*){#29}
-
+### SN 51.29 Một Vài Vị Tỷ Kheo (Thứ Nhất) (*Paṭhamabhikkhusutta*) {#29}
 Bấy giờ, một vài *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và nói với Ngài:
 
 "Bạch Thế Tôn, *thần thông* là gì? *Cửa thần thông* là gì? Sự phát triển các *cửa thần thông* là gì? Và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông* là gì?"
@@ -428,8 +399,7 @@ Và sự phát triển các *cửa thần thông* là gì? Đó là khi một *T
 Và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông* là gì? Đó chính là con đường thánh thiện tám nhánh này, tức là: *tầm nhìn thiện, suy nghĩ thiện, lời nói thiện, hành động thiện, nghề nghiệp thiện, sự nỗ lực thiện, niệm thiện, định thiện* (chánh kiến, chánh tư duy , chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định). Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông*."
 
 <!--pg-->
-### SN 51.30 Một Vài Vị Tỷ Kheo (Thứ Hai) (*Dutiyabhikkhusutta*){#30}
-
+### SN 51.30 Một Vài Vị Tỷ Kheo (Thứ Hai) (*Dutiyabhikkhusutta*) {#30}
 Bấy giờ, một vài *Tỷ kheo* đến gặp Đức Phật... Đức Phật nói với họ:
 
 "Này các *Tỷ kheo*, *thần thông* là gì? *Cửa thần thông* là gì? Sự phát triển các *cửa thần thông* là gì? Và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông* là gì?"
@@ -445,8 +415,7 @@ Và sự phát triển các *cửa thần thông* là gì? Đó là khi một *T
 Và phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông* là gì? Đó chính là con đường thánh thiện tám nhánh này, tức là: *tầm nhìn thiện, suy nghĩ thiện, lời nói thiện, hành động thiện, nghề nghiệp thiện, sự nỗ lực thiện, niệm thiện, định thiện* (chánh kiến, chánh tư duy , chánh ngôn, chánh nghiệp, chánh tinh tấn, chánh niệm, chánh định). Đây được gọi là phương pháp thực hành dẫn đến sự phát triển các *cửa thần thông*."
 
 <!--pg-->
-### SN 51.31 Về Moggallāna (*Moggallānasutta*){#31}
-
+### SN 51.31 Về Moggallāna (*Moggallānasutta*) {#31}
 Tại đó, Đức Phật nói với các *Tỷ kheo*: "Các con nghĩ sao, các *Tỷ kheo*? *Tỷ kheo* Moggallāna đã phát triển và trau dồi những điều gì để có được sức mạnh và quyền năng như vậy?"
 
 "Giáo lý của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con...."
@@ -462,8 +431,7 @@ Và bằng cách phát triển và trau dồi bốn *cửa thần thông* này, 
 Và bằng cách phát triển và trau dồi bốn *cửa thần thông* này, *Tỷ kheo* Moggallāna chứng ngộ *tâm giải thoát* không *ô nhiễm* và *tuệ giải thoát* ngay trong đời này. Và vị ấy sống sau khi đã chứng ngộ điều đó bằng *tuệ giác* của chính mình nhờ sự chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### SN 51.32 Bậc Giác Ngộ (*Tathāgatasutta*){#32}
-
+### SN 51.32 Bậc Giác Ngộ (*Tathāgatasutta*) {#32}
 Tại đó, Đức Phật nói với các *Tỷ kheo*: "Các con nghĩ sao, các *Tỷ kheo*? *Bậc Giác Ngộ* đã phát triển và trau dồi những điều gì để có được sức mạnh và quyền năng như vậy?"
 
 "Giáo lý của chúng con bắt nguồn từ Đức Phật...."
@@ -485,8 +453,7 @@ Và bằng cách phát triển và trau dồi bốn *cửa thần thông* này, 
 <!--pg-->
 ## Chương Tóm Tắt về Sông Hằng
 
-### SN 51.33--44 Sông Hằng, v.v. (*Gaṅgāpeyyālavagga*){#33-44}
-
+### SN 51.33--44 Sông Hằng, v.v. (*Gaṅgāpeyyālavagga*) {#33-44}
 "Này các *Tỷ kheo*, sông Hằng nghiêng, dốc, và xuôi về phía đông. Tương tự như vậy, một *Tỷ kheo* phát triển và trau dồi bốn *cửa thần thông* sẽ nghiêng, dốc, và xuôi về sự *dập tắt*.
 
 Và làm thế nào một *Tỷ kheo* phát triển bốn *cửa thần thông* lại nghiêng, dốc, và xuôi về sự *dập tắt*? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*.
@@ -501,8 +468,7 @@ Và làm thế nào một *Tỷ kheo* phát triển bốn *cửa thần thông* 
 <!--pg-->
 ## Chương về Tinh Cần
 
-### SN 51.45--54 Tinh Cần (*Appamādavagga*){#45-54}
-
+### SN 51.45--54 Tinh Cần (*Appamādavagga*) {#45-54}
 **(Kể đầy đủ như trong chương về tinh cần tại SN 45.139--148.)**
 
 > *Bậc Giác Ngộ*, dấu chân, nóc nhà,\
@@ -513,8 +479,7 @@ Và làm thế nào một *Tỷ kheo* phát triển bốn *cửa thần thông* 
 <!--pg-->
 ## Chương về Nỗ Lực
 
-### SN 51.55--66 Nỗ Lực (*Balakaraṇīyavagga*){#55-66}
-
+### SN 51.55--66 Nỗ Lực (*Balakaraṇīyavagga*) {#55-66}
 **(Kể đầy đủ như trong chương về nỗ lực tại SN 45.149--160.)**
 
 > Nỗ lực, hạt giống, và rồng,\
@@ -525,8 +490,7 @@ Và làm thế nào một *Tỷ kheo* phát triển bốn *cửa thần thông* 
 <!--pg-->
 ## Chương về Tìm Kiếm
 
-### SN 51.67--76 Tìm Kiếm (*Esanāvagga*){#67-76}
-
+### SN 51.67--76 Tìm Kiếm (*Esanāvagga*) {#67-76}
 **(Kể đầy đủ như trong chương về tìm kiếm tại SN 45.161--170.)**
 
 > Tìm kiếm, phân biệt, *ô nhiễm*,\
@@ -537,8 +501,7 @@ Và làm thế nào một *Tỷ kheo* phát triển bốn *cửa thần thông* 
 <!--pg-->
 ## Chương về Lũ Lụt
 
-### SN 51.77--86 Lũ Lụt, v.v. (*Oghavagga*){#77-86}
-
+### SN 51.77--86 Lũ Lụt, v.v. (*Oghavagga*) {#77-86}
 "Này các *Tỷ kheo*, có năm *thượng phần kiết sử* (higher fetters / uddhambhāgiya-saṃyojana / thượng phần kiết sử / năm xiềng xích vi tế hơn ràng buộc chúng sinh vào các cõi sắc và vô sắc). Năm điều đó là gì? Ham muốn tái sinh vào cõi sắc giới, ham muốn tái sinh vào cõi vô sắc, ngã mạn, bồn chồn, và vô minh. Đây là năm *thượng phần kiết sử*.
 
 Bốn *cửa thần thông* nên được phát triển để *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri / sự hiểu biết thông qua kinh nghiệm trực tiếp, không qua suy luận), *hiểu biết hoàn toàn* (complete understanding / pariññā / liễu tri / sự hiểu biết thấu đáo, trọn vẹn), chấm dứt, và từ bỏ năm *thượng phần kiết sử* này. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* phát triển *cửa thần thông* được thành tựu bởi *định do ý nguyện*... *Nỗ lực*... *sự phát triển tâm*... *điều tra phân tích*, và với *ý chí bền bỉ*. Bốn *cửa thần thông* này nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *thượng phần kiết sử* này."

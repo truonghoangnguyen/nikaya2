@@ -1,7 +1,6 @@
 # Phẩm Về Tâm Chưa Thuần Phục
 
-### AN 1.31--40 *Adantavagga*{#31-40}
-
+### AN 1.31--40 *Adantavagga* {#31-40}
 31\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *thuần phục* (not tamed / không được rèn luyện hay điều phục), lại nguy hại nhiều như tâm. Tâm không được *thuần phục* thì rất nguy hại."
 
 <!--pg-->

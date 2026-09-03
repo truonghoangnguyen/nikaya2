@@ -1,7 +1,6 @@
 # Phẩm tại Andhakavinda
 
-### AN 5.111 Thăm Viếng Gia Đình *Kulūpakasutta*{#111}
-
+### AN 5.111 Thăm Viếng Gia Đình *Kulūpakasutta* {#111}
 "Này các Tỳ kheo, một vị Tỳ kheo có năm phẩm chất khi thăm viếng các gia đình thì
 không được yêu mến và không được ưa thích, không được kính trọng hay ngưỡng mộ. Năm phẩm chất đó là gì? Vị ấy
 hành xử như thể thân thiết với những người họ hầu như không quen biết. Vị ấy cho đi
@@ -19,8 +18,7 @@ phẩm chất này khi thăm viếng các gia đình thì được quý mến v�
 ngưỡng mộ."
 
 <!--pg-->
-### AN 5.112 Vị Sa Môn Đi Theo Sau Khi Khất Thực *Pacchāsamaṇasutta*{#112}
-
+### AN 5.112 Vị Sa Môn Đi Theo Sau Khi Khất Thực *Pacchāsamaṇasutta* {#112}
 "Này các Tỳ kheo, các vị không nên nhận một vị Sa môn có năm phẩm chất để đi
 theo sau khi khất thực. Năm phẩm chất đó là gì? Vị ấy đi quá xa hoặc quá gần
 phía sau. Vị ấy không nhận lấy bát của vị kia khi đã đầy. Vị ấy không cảnh báo
@@ -37,8 +35,7 @@ vị ấy có trí tuệ, sáng suốt, và lanh lợi. Các vị nên nhận m�
 phẩm chất này để đi theo sau khi khất thực."
 
 <!--pg-->
-### AN 5.113 Chánh Định *Sammāsamādhisutta*{#113}
-
+### AN 5.113 Chánh Định *Sammāsamādhisutta* {#113}
 "Này các Tỳ kheo, một vị Tỳ kheo có năm phẩm chất không thể nhập và an trú
 trong *chánh định* (right immersion / sự tập trung đúng đắn). Năm phẩm chất đó là gì? Đó là khi một vị Tỳ kheo không thể chịu đựng
 được các cảnh sắc, âm thanh, mùi hương, vị nếm, và xúc chạm. Một vị Tỳ kheo có
@@ -50,8 +47,7 @@ mùi hương, vị nếm, và xúc chạm. Một vị Tỳ kheo có năm phẩm 
 có thể nhập và an trú trong *chánh định*."
 
 <!--pg-->
-### AN 5.114 Tại Andhakavinda *Andhakavindasutta*{#114}
-
+### AN 5.114 Tại Andhakavinda *Andhakavindasutta* {#114}
 Một thời Thế Tôn trú tại xứ Ma-kiệt-đà ở
 Andhakavinda. Bấy giờ Tôn giả Ānanda đi đến Thế Tôn, đảnh lễ
 rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả:
@@ -76,8 +72,7 @@ Những vị Tỳ kheo mới tu, mới xuất gia, mới đến với Pháp và 
 trong năm điều này."
 
 <!--pg-->
-### AN 5.115 Keo Kiệt *Maccharinīsutta*{#115}
-
+### AN 5.115 Keo Kiệt *Maccharinīsutta* {#115}
 "Này các Tỳ kheo, một vị Tỳ kheo ni có năm phẩm chất sẽ bị rơi vào địa ngục. Năm phẩm chất đó là gì?
 Vị ấy keo kiệt về trú xứ, gia đình (hộ độ), *vật thí* (material things / vật phẩm cúng dường), lời khen, và giáo pháp. Một vị Tỳ kheo ni có năm phẩm chất này sẽ bị rơi vào địa ngục.
 
@@ -85,8 +80,7 @@ Một vị Tỳ kheo ni có năm phẩm chất sẽ được sinh lên cõi tr�
 Vị ấy không keo kiệt về trú xứ, gia đình (hộ độ), vật thí, lời khen, hay giáo pháp. Một vị Tỳ kheo ni có năm phẩm chất này sẽ được sinh lên cõi trời."
 
 <!--pg-->
-### AN 5.116 Khen Ngợi *Vaṇṇanāsutta*{#116}
-
+### AN 5.116 Khen Ngợi *Vaṇṇanāsutta* {#116}
 "Này các Tỳ kheo, một vị Tỳ kheo ni có năm phẩm chất sẽ bị rơi vào địa ngục. Năm phẩm chất đó là gì?
 Không xem xét hay thẩm tra kỹ lưỡng, vị ấy khen ngợi người đáng bị
 chỉ trích, và chỉ trích người đáng được khen ngợi. Vị ấy khơi dậy niềm tin
@@ -102,8 +96,7 @@ tin. Và vị ấy không phung phí *tín thí*. Một vị Tỳ kheo ni có n�
 sẽ được sinh lên cõi trời."
 
 <!--pg-->
-### AN 5.117 Ganh Tị *Issukinīsutta*{#117}
-
+### AN 5.117 Ganh Tị *Issukinīsutta* {#117}
 "Này các Tỳ kheo, một vị Tỳ kheo ni có năm phẩm chất sẽ bị rơi vào địa ngục. Năm phẩm chất đó là gì?
 Không xem xét hay thẩm tra kỹ lưỡng, vị ấy khen ngợi người đáng bị
 chỉ trích, và chỉ trích người đáng được khen ngợi. Vị ấy ganh tị,
@@ -117,8 +110,7 @@ và không phung phí tín thí. Một vị Tỳ kheo ni có năm phẩm chất 
 sẽ được sinh lên cõi trời."
 
 <!--pg-->
-### AN 5.118 Tà Kiến *Micchādiṭṭhikasutta*{#118}
-
+### AN 5.118 Tà Kiến *Micchādiṭṭhikasutta* {#118}
 "Này các Tỳ kheo, một vị Tỳ kheo ni có năm phẩm chất sẽ bị rơi vào địa ngục. Năm phẩm chất đó là gì?
 Không xem xét hay thẩm tra kỹ lưỡng, vị ấy khen ngợi người đáng bị
 chỉ trích, và chỉ trích người đáng được khen ngợi. Vị ấy có *tà kiến* (wrong view / cái nhìn sai lệch)
@@ -132,8 +124,7 @@ và không phung phí tín thí. Một vị Tỳ kheo ni có năm phẩm chất 
 sẽ được sinh lên cõi trời."
 
 <!--pg-->
-### AN 5.119 Tà Ngữ *Micchāvācāsutta*{#119}
-
+### AN 5.119 Tà Ngữ *Micchāvācāsutta* {#119}
 "Này các Tỳ kheo, một vị Tỳ kheo ni có năm phẩm chất sẽ bị rơi vào địa ngục. Năm phẩm chất đó là gì?
 Không xem xét hay thẩm tra kỹ lưỡng, vị ấy khen ngợi người đáng bị
 chỉ trích, và chỉ trích người đáng được khen ngợi. Vị ấy có *tà ngữ* (wrong speech / lời nói sai lệch)
@@ -147,8 +138,7 @@ và không phung phí tín thí. Một vị Tỳ kheo ni có năm phẩm chất 
 sẽ được sinh lên cõi trời."
 
 <!--pg-->
-### AN 5.120 Tà Tinh Tấn *Micchāvāyāmasutta*{#120}
-
+### AN 5.120 Tà Tinh Tấn *Micchāvāyāmasutta* {#120}
 "Này các Tỳ kheo, một vị Tỳ kheo ni có năm phẩm chất sẽ bị rơi vào địa ngục. Năm phẩm chất đó là gì?
 Không xem xét hay thẩm tra kỹ lưỡng, vị ấy khen ngợi người đáng bị
 chỉ trích, và chỉ trích người đáng được khen ngợi. Vị ấy có *tà tinh tấn* (wrong effort / sự cố gắng sai lệch)

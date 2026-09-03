@@ -3,8 +3,7 @@
 <!--pg-->
 ## Phẩm Xá Lợi Phất
 
-### SN 28.1 Kinh Sinh Ra Từ Ly Dục *Vivekajasutta*{#1}
-
+### SN 28.1 Kinh Sinh Ra Từ Ly Dục *Vivekajasutta* {#1}
 Một thời Tôn giả Xá Lợi Phất đang ở gần
 thành Xá Vệ, tại Kỳ Viên, tu viện của ông Cấp Cô Độc.
 Khi ấy, Tôn giả Xá Lợi Phất vào buổi sáng đắp y,
@@ -32,8 +31,7 @@ thiền' hay 'Tôi đã nhập sơ thiền' hay 'Tôi đang xả
 sơ thiền'."
 
 <!--pg-->
-### SN 28.2 Kinh Không Tầm *Avitakkasutta*{#2}
-
+### SN 28.2 Kinh Không Tầm *Avitakkasutta* {#2}
 Tại Xá Vệ.
 
 Tôn giả A Nan thấy Tôn giả Xá Lợi Phất và nói với ngài:
@@ -50,8 +48,7 @@ thiền' hay 'Tôi đã nhập nhị thiền' hay 'Tôi đang xả
 nhị thiền'."
 
 <!--pg-->
-### SN 28.3 Kinh Hân Hoan *Pītisutta*{#3}
-
+### SN 28.3 Kinh Hân Hoan *Pītisutta* {#3}
 Tại Xá Vệ.
 
 Tôn giả A Nan thấy Tôn giả Xá Lợi Phất và nói với ngài:
@@ -72,8 +69,7 @@ thiền' hay 'Tôi đã nhập tam thiền' hay 'Tôi đang xả
 tam thiền'."
 
 <!--pg-->
-### SN 28.4 Kinh Xả *Upekkhāsutta*{#4}
-
+### SN 28.4 Kinh Xả *Upekkhāsutta* {#4}
 Tại Xá Vệ.
 
 Tôn giả A Nan thấy Tôn giả Xá Lợi Phất và nói với ngài:
@@ -94,8 +90,7 @@ thiền' hay 'Tôi đã nhập tứ thiền' hay 'Tôi đang xả
 tứ thiền'."
 
 <!--pg-->
-### SN 28.5 Kinh Không Vô Biên Xứ *Ākāsānañcāyatanasutta*{#5}
-
+### SN 28.5 Kinh Không Vô Biên Xứ *Ākāsānañcāyatanasutta* {#5}
 Tại Xá Vệ.
 
 Tôn giả A Nan thấy Tôn giả Xá Lợi Phất ...
@@ -105,8 +100,7 @@ nhận thức về chướng ngại, không chú ý đến các nhận thức v�
 nhận biết rằng 'không gian là vô biên', tôi đã nhập và an trú trong không vô biên xứ. ..." ...
 
 <!--pg-->
-### SN 28.6 Kinh Thức Vô Biên Xứ *Viññāṇañcāyatanasutta*{#6}
-
+### SN 28.6 Kinh Thức Vô Biên Xứ *Viññāṇañcāyatanasutta* {#6}
 Tại Xá Vệ.
 
 Tôn giả A Nan thấy Tôn giả Xá Lợi Phất ...
@@ -116,8 +110,7 @@ rằng '*thức* (consciousness / thức phát sinh từ thân và tâm, là m�
 thức vô biên xứ. ..." ...
 
 <!--pg-->
-### SN 28.7 Kinh Vô Sở Hữu Xứ *Ākiñcaññāyatanasutta*{#7}
-
+### SN 28.7 Kinh Vô Sở Hữu Xứ *Ākiñcaññāyatanasutta* {#7}
 Tại Xá Vệ.
 
 Tôn giả A Nan thấy Tôn giả Xá Lợi Phất ...
@@ -127,8 +120,7 @@ nhận biết rằng 'không có gì cả', tôi đã nhập và an trú trong
 vô sở hữu xứ. ..." ...
 
 <!--pg-->
-### SN 28.8 Kinh Phi Tưởng Phi Phi Tưởng Xứ *Nevasaññānāsaññāyatanasutta*{#8}
-
+### SN 28.8 Kinh Phi Tưởng Phi Phi Tưởng Xứ *Nevasaññānāsaññāyatanasutta* {#8}
 Tại Xá Vệ.
 
 Tôn giả A Nan thấy Tôn giả Xá Lợi Phất ...
@@ -138,8 +130,7 @@ và an trú trong phi tưởng phi phi tưởng xứ.
 ..." ...
 
 <!--pg-->
-### SN 28.9 Kinh Diệt Thọ Tưởng Định *Nirodhasamāpattisutta*{#9}
-
+### SN 28.9 Kinh Diệt Thọ Tưởng Định *Nirodhasamāpattisutta* {#9}
 Tại Xá Vệ.
 
 Tôn giả A Nan thấy Tôn giả Xá Lợi Phất ...
@@ -155,8 +146,7 @@ thọ tưởng định' hay 'Tôi đã nhập diệt thọ tưởng định' hay
 diệt thọ tưởng định'."
 
 <!--pg-->
-### SN 28.10 Kinh Sucimukhī *Sucimukhīsutta*{#10}
-
+### SN 28.10 Kinh Sucimukhī *Sucimukhīsutta* {#10}
 Một thời Tôn giả Xá Lợi Phất đang ở gần
 thành Vương Xá, tại Trúc Lâm, nơi các con sóc được cho ăn.
 Khi ấy, ngài vào buổi sáng đắp y, mang bát và y,

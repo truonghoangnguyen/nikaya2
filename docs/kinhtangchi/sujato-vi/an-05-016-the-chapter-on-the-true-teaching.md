@@ -1,35 +1,30 @@
 # Phẩm về Chánh Pháp
 
-### AN 5.151 Chắc Chắn Đi Vào Chánh Đạo (1) *Paṭhamasammattaniyāmasutta*{#151}
-
+### AN 5.151 Chắc Chắn Đi Vào Chánh Đạo (1) *Paṭhamasammattaniyāmasutta* {#151}
 "Này các Tỳ kheo, người có năm phẩm chất thì không thể đi vào *chánh đạo* (sure path / con đường đúng đắn) đối với các *thiện pháp* (skillful qualities / phẩm chất tốt lành) ngay cả khi lắng nghe *chánh pháp* (true teaching / lời dạy đúng đắn). Năm phẩm chất đó là gì? Họ coi thường bài pháp, người thuyết pháp, hoặc chính bản thân mình. Họ lắng nghe với tâm phân tán và không hợp nhất. Họ *không như lý tác ý* (apply the mind irrationally / hướng tâm sai pháp). Người có năm phẩm chất này thì không thể đi vào chánh đạo đối với các thiện pháp, ngay cả khi lắng nghe chánh pháp.
 
 Người có năm phẩm chất thì có thể đi vào chánh đạo đối với các thiện pháp khi lắng nghe chánh pháp. Năm phẩm chất đó là gì? Họ không coi thường bài pháp, người thuyết pháp, hay chính bản thân mình. Họ lắng nghe với tâm không phân tán và hợp nhất. Họ *như lý tác ý* (apply the mind rationally / hướng tâm đúng pháp). Người có năm phẩm chất này thì có thể đi vào chánh đạo đối với các thiện pháp khi lắng nghe chánh pháp."
 
 <!--pg-->
-### AN 5.152 Chắc Chắn Đi Vào Chánh Đạo (2) *Dutiyasammattaniyāmasutta*{#152}
-
+### AN 5.152 Chắc Chắn Đi Vào Chánh Đạo (2) *Dutiyasammattaniyāmasutta* {#152}
 "Này các Tỳ kheo, người có năm phẩm chất thì không thể đi vào chánh đạo đối với các thiện pháp ngay cả khi lắng nghe chánh pháp. Năm phẩm chất đó là gì? Họ coi thường bài pháp, người thuyết pháp, hoặc chính bản thân mình. Họ ngu si, đần độn, và ngốc nghếch. Họ nghĩ rằng mình biết điều mình không biết. Người có năm phẩm chất này thì không thể đi vào chánh đạo đối với các thiện pháp, ngay cả khi lắng nghe chánh pháp.
 
 Người có năm phẩm chất thì có thể đi vào chánh đạo đối với các thiện pháp khi lắng nghe chánh pháp. Năm phẩm chất đó là gì? Họ không coi thường bài pháp, người thuyết pháp, hay chính bản thân mình. Họ có trí tuệ, sáng suốt, và lanh lợi. Họ không nghĩ rằng mình biết điều mình không biết. Người có năm phẩm chất này thì có thể đi vào chánh đạo đối với các thiện pháp khi lắng nghe chánh pháp."
 
 <!--pg-->
-### AN 5.153 Chắc Chắn Đi Vào Chánh Đạo (3) *Tatiyasammattaniyāmasutta*{#153}
-
+### AN 5.153 Chắc Chắn Đi Vào Chánh Đạo (3) *Tatiyasammattaniyāmasutta* {#153}
 "Này các Tỳ kheo, người có năm phẩm chất thì không thể đi vào chánh đạo đối với các thiện pháp ngay cả khi lắng nghe chánh pháp. Năm phẩm chất đó là gì? Họ lắng nghe pháp chỉ chăm chăm vào việc bác bỏ. Họ lắng nghe pháp với tâm thù địch, tìm lỗi. Họ chống đối vị thầy, có ý định công kích họ. Họ ngu si, đần độn, và ngốc nghếch. Và họ nghĩ rằng mình biết điều mình không biết. Người có năm phẩm chất này thì không thể đi vào chánh đạo đối với các thiện pháp, ngay cả khi lắng nghe chánh pháp.
 
 Người có năm phẩm chất thì có thể đi vào chánh đạo đối với các thiện pháp khi lắng nghe chánh pháp. Năm phẩm chất đó là gì? Họ không lắng nghe pháp chỉ chăm chăm vào việc bác bỏ. Họ không lắng nghe pháp với tâm thù địch, tìm lỗi. Họ không chống đối vị thầy, và không có ý định công kích họ. Họ có trí tuệ, sáng suốt, và lanh lợi. Và họ không nghĩ rằng mình biết điều mình không biết. Người có năm phẩm chất này thì có thể đi vào chánh đạo đối với các thiện pháp khi lắng nghe chánh pháp."
 
 <!--pg-->
-### AN 5.154 Sự Suy Tàn Của Chánh Pháp (1) *Paṭhamasaddhammasammosasutta*{#154}
-
+### AN 5.154 Sự Suy Tàn Của Chánh Pháp (1) *Paṭhamasaddhammasammosasutta* {#154}
 "Này các Tỳ kheo, năm điều này dẫn đến sự suy tàn và biến mất của chánh pháp. Năm điều đó là gì? Đó là khi các Tỳ kheo không lắng nghe cẩn thận lời dạy, không ghi nhớ chúng, và không nhớ lại chúng. Họ không xem xét cẩn thận ý nghĩa của những lời dạy mà họ nhớ. Và họ không cẩn thận thực hành phù hợp với ý nghĩa và lời dạy mà họ đã hiểu. Năm điều này dẫn đến sự suy tàn và biến mất của chánh pháp.
 
 Năm điều này dẫn đến sự tiếp nối, tồn tại, và lâu dài của chánh pháp. Năm điều đó là gì? Đó là khi các Tỳ kheo lắng nghe cẩn thận lời dạy, ghi nhớ chúng, và nhớ lại chúng. Họ xem xét cẩn thận ý nghĩa của những lời dạy mà họ nhớ. Và họ cẩn thận thực hành phù hợp với ý nghĩa và lời dạy mà họ đã hiểu. Năm điều này dẫn đến sự tiếp nối, tồn tại, và lâu dài của chánh pháp."
 
 <!--pg-->
-### AN 5.155 Sự Suy Tàn Của Chánh Pháp (2) *Dutiyasaddhammasammosasutta*{#155}
-
+### AN 5.155 Sự Suy Tàn Của Chánh Pháp (2) *Dutiyasaddhammasammosasutta* {#155}
 "Này các Tỳ kheo, năm điều này dẫn đến sự suy tàn và biến mất của chánh pháp. Năm điều đó là gì?
 
 Đó là khi các Tỳ kheo không ghi nhớ lời dạy—bao gồm *kinh* (statements / lời dạy), *ứng tụng* (mixed prose & verse / kệ xen văn xuôi), *ký thuyết* (discussions / giải thích), *kệ* (verses / thơ), *cảm hứng ngữ* (inspired exclamations / lời cảm thán), *bổn sự* (legends / chuyện quá khứ), *bổn sanh* (stories of past lives / chuyện tiền thân), *vị tằng hữu pháp* (amazing stories / chuyện hy hữu), và *phương quảng* (elaborations / luận giải rộng). Đây là điều thứ nhất dẫn đến sự suy tàn và biến mất của chánh pháp.
@@ -59,8 +54,7 @@ Hơn nữa, các Tỳ kheo suy ngẫm và quán xét lời dạy trong tâm, xem
 Năm điều này dẫn đến sự tiếp nối, tồn tại, và lâu dài của chánh pháp."
 
 <!--pg-->
-### AN 5.156 Sự Suy Tàn Của Chánh Pháp (3) *Tatiyasaddhammasammosasutta*{#156}
-
+### AN 5.156 Sự Suy Tàn Của Chánh Pháp (3) *Tatiyasaddhammasammosasutta* {#156}
 "Này các Tỳ kheo, năm điều này dẫn đến sự suy tàn và biến mất của chánh pháp. Năm điều đó là gì?
 
 Đó là khi các Tỳ kheo ghi nhớ *kinh điển* (discourses / các bài kinh) mà họ đã học sai, với từ ngữ và câu cú sai vị trí. Khi từ ngữ và câu cú bị sai vị trí, ý nghĩa bị hiểu sai. Đây là điều thứ nhất dẫn đến sự suy tàn và biến mất của chánh pháp.
@@ -88,8 +82,7 @@ Hơn nữa, Tăng đoàn sống thoải mái, hòa hợp, quý mến lẫn nhau,
 Năm điều này dẫn đến sự tiếp nối, tồn tại, và lâu dài của chánh pháp."
 
 <!--pg-->
-### AN 5.157 Nói Chuyện Không Thích Hợp *Dukkathāsutta*{#157}
-
+### AN 5.157 Nói Chuyện Không Thích Hợp *Dukkathāsutta* {#157}
 "Này các Tỳ kheo, không thích hợp để nói chuyện với năm loại người về một phẩm chất nào đó. Năm loại đó là gì?
 
 Không thích hợp để nói chuyện với người không có *niềm tin* (faith / sự tin tưởng) về niềm tin. Không thích hợp để nói chuyện với người không có *đạo đức* (ethics / phẩm hạnh) về đạo đức. Không thích hợp để nói chuyện với người ít học về *học vấn* (learning / sự hiểu biết giáo pháp). Không thích hợp để nói chuyện với người keo kiệt về *sự rộng rãi* (generosity / lòng hào phóng). Không thích hợp để nói chuyện với người ngu si về *trí tuệ* (wisdom / sự hiểu biết đúng đắn).
@@ -123,15 +116,13 @@ Và tại sao thích hợp để nói chuyện với người có trí tuệ v�
 Thích hợp để nói chuyện với năm loại người này về những phẩm chất đó."
 
 <!--pg-->
-### AN 5.158 Sự Rụt Rè *Sārajjasutta*{#158}
-
+### AN 5.158 Sự Rụt Rè *Sārajjasutta* {#158}
 "Này các Tỳ kheo, một Tỳ kheo có năm phẩm chất thì bị *sự rụt rè* (timidity / sự e sợ, thiếu tự tin) chi phối. Năm phẩm chất đó là gì? Đó là khi một Tỳ kheo không có niềm tin, không có đạo đức, ít học, lười biếng, và ngu si. Một Tỳ kheo có năm phẩm chất này thì bị sự rụt rè chi phối.
 
 Một Tỳ kheo có năm phẩm chất thì *tự tin* (self-assured / vững vàng, không e sợ). Năm phẩm chất đó là gì? Đó là khi một Tỳ kheo có niềm tin, có đạo đức, có học vấn, siêng năng, và có trí tuệ. Một Tỳ kheo có năm phẩm chất này thì tự tin."
 
 <!--pg-->
-### AN 5.159 Với Udāyī *Udāyīsutta*{#159}
-
+### AN 5.159 Với Udāyī *Udāyīsutta* {#159}
 *Như vầy tôi nghe*. Một thời Thế Tôn trú gần Kosambi, tại tu viện Ghosita. Lúc bấy giờ, Tôn giả Udāyī đang ngồi thuyết giảng *Pháp* (Dhamma / lời dạy của Đức Phật), xung quanh là một hội chúng đông đảo gồm cư sĩ tại gia. Thấy vậy, Tôn giả Ānanda đi đến Thế Tôn, đảnh lễ, rồi ngồi xuống một bên và bạch rằng:
 
 "Bạch Thế Tôn, Tôn giả Udāyī đang thuyết giảng Pháp, xung quanh là một hội chúng đông đảo gồm cư sĩ tại gia."
@@ -151,6 +142,5 @@ Con nên thuyết giảng Pháp cho người khác với suy nghĩ: 'Ta sẽ gi�
 Không dễ để thuyết giảng Pháp cho người khác. Con nên tự mình thiết lập năm điều này trước khi thuyết giảng Pháp cho người khác."
 
 <!--pg-->
-### AN 5.160 Khó Loại Bỏ *Duppaṭivinodayasutta*{#160}
-
+### AN 5.160 Khó Loại Bỏ *Duppaṭivinodayasutta* {#160}
 "Này các Tỳ kheo, năm điều này khó loại bỏ một khi chúng đã sinh khởi. Năm điều đó là gì? *Tham lam* (Greed / lòng ham muốn), *tức giận* (Hate / lòng căm ghét, tức giận), *si mê* (Delusion / sự mê lầm, không thấy rõ sự thật), *sự thích nói chuyện phù phiếm* (feeling of being inspired to speak out / niềm vui thích nói lời vô ích), và *ý nghĩ muốn du hành* (thoughts of traveling / tâm muốn đi lại). Năm điều này khó loại bỏ một khi chúng đã sinh khởi."

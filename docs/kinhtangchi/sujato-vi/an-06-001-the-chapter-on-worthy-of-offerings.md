@@ -1,7 +1,6 @@
 # Phẩm về Xứng Đáng Được Cúng Dường
 
-### AN 6.1 Xứng Đáng Được Cúng Dường (1) *Paṭhamaāhuneyyasutta*{#1}
-
+### AN 6.1 Xứng Đáng Được Cúng Dường (1) *Paṭhamaāhuneyyasutta* {#1}
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần
 Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika.
 Tại đó, Đức Phật gọi các *khất sĩ* (mendicant / người tu sĩ sống bằng khất thực): "Này các khất sĩ!"
@@ -28,8 +27,7 @@ Một vị khất sĩ có sáu phẩm chất này thì xứng đáng được c�
 Đó là những gì Đức Phật đã dạy. Các vị khất sĩ hoan hỷ, tín thọ lời Đức Phật dạy.
 
 <!--pg-->
-### AN 6.2 Xứng Đáng Được Cúng Dường (2) *Dutiyaāhuneyyasutta*{#2}
-
+### AN 6.2 Xứng Đáng Được Cúng Dường (2) *Dutiyaāhuneyyasutta* {#2}
 "Này các khất sĩ, một vị khất sĩ có sáu phẩm chất thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Sáu phẩm chất nào?
 
 Đó là vị khất sĩ thể hiện được nhiều loại *thần thông* (psychic power / năng lực siêu nhiên): từ một thân hiện ra nhiều thân, rồi từ nhiều thân hiện lại một thân; hiện hình, biến mất; đi xuyên qua tường, qua thành lũy, qua núi không bị trở ngại như đi trong hư không; độn thổ trồi lên như ở trong nước; đi trên nước không chìm như đi trên đất liền; ngồi kiết già bay giữa hư không như chim; dùng tay chạm và rờ mặt trăng, mặt trời, những vật có đại thần lực, đại uy lực như vậy. Vị ấy có thể dùng thân điều khiển mọi thứ cho đến cõi Phạm thiên.
@@ -47,18 +45,15 @@ Vị ấy chứng ngộ *tâm giải thoát* (freedom of heart / sự giải tho
 Một vị khất sĩ có sáu phẩm chất này thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 6.3 Các Căn *Indriyasutta*{#3}
-
+### AN 6.3 Các Căn *Indriyasutta* {#3}
 "Này các khất sĩ, một vị khất sĩ có sáu phẩm chất thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Sáu phẩm chất nào? Các *căn* (faculties / khả năng tiềm ẩn của tâm): *niềm tin* (faith / lòng tin), *siêng năng* (energy / sự nỗ lực, tinh tấn), *tỉnh thức* (mindfulness / sự chú tâm), *định* (immersion / sự tập trung tâm), và *trí tuệ* (wisdom / sự hiểu biết đúng đắn). Và vị ấy chứng ngộ tâm giải thoát và tuệ giải thoát không còn lậu hoặc ngay trong đời này, và an trú trong sự chứng ngộ đó bằng thắng trí của mình do sự đoạn tận các lậu hoặc. Một vị khất sĩ có sáu phẩm chất này thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 6.4 Các Lực *Balasutta*{#4}
-
+### AN 6.4 Các Lực *Balasutta* {#4}
 "Này các khất sĩ, một vị khất sĩ có sáu phẩm chất thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Sáu phẩm chất nào? Các *lực* (powers / sức mạnh nội tâm): lực niềm tin, lực siêng năng, lực tỉnh thức, lực định, và lực trí tuệ. Và vị ấy chứng ngộ tâm giải thoát và tuệ giải thoát không còn lậu hoặc ngay trong đời này, và an trú trong sự chứng ngộ đó bằng thắng trí của mình do sự đoạn tận các lậu hoặc. Một vị khất sĩ có sáu phẩm chất này thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 6.5 Ngựa Thuần Chủng (1) *Paṭhamaājānīyasutta*{#5}
-
+### AN 6.5 Ngựa Thuần Chủng (1) *Paṭhamaājānīyasutta* {#5}
 "Này các khất sĩ, một con *ngựa thuần chủng* (thoroughbred / giống ngựa tốt) của hoàng gia có sáu yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền.
 
 Sáu yếu tố nào? Đó là khi một con ngựa thuần chủng của hoàng gia có thể chịu đựng được sắc, thanh, hương, vị, và xúc. Và nó đẹp. Một con ngựa thuần chủng của hoàng gia có sáu yếu tố này thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền.
@@ -66,31 +61,26 @@ Sáu yếu tố nào? Đó là khi một con ngựa thuần chủng của hoàng
 Tương tự như vậy, một vị khất sĩ có sáu phẩm chất thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Sáu phẩm chất nào? Đó là khi một vị khất sĩ có thể chịu đựng được sắc, thanh, hương, vị, xúc, và pháp. Một vị khất sĩ có sáu phẩm chất này thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 6.6 Ngựa Thuần Chủng (2) *Dutiyaājānīyasutta*{#6}
-
+### AN 6.6 Ngựa Thuần Chủng (2) *Dutiyaājānīyasutta* {#6}
 "Này các khất sĩ, một con ngựa thuần chủng của hoàng gia có sáu yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền. Sáu yếu tố nào? Đó là khi một con ngựa thuần chủng của hoàng gia có thể chịu đựng được sắc, thanh, hương, vị, và xúc. Và nó mạnh mẽ. Một con ngựa thuần chủng của hoàng gia có sáu yếu tố này thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền.
 
 Tương tự như vậy, một vị khất sĩ có sáu phẩm chất thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Sáu phẩm chất nào? Đó là khi một vị khất sĩ có thể chịu đựng được sắc, thanh, hương, vị, xúc, và pháp. Một vị khất sĩ có sáu phẩm chất này thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
-### AN 6.7 Ngựa Thuần Chủng (3) *Tatiyaājānīyasutta*{#7}
-
+### AN 6.7 Ngựa Thuần Chủng (3) *Tatiyaājānīyasutta* {#7}
 "Này các khất sĩ, một con ngựa thuần chủng của hoàng gia có sáu yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền. Sáu yếu tố nào? Đó là khi một con ngựa thuần chủng của hoàng gia có thể chịu đựng được sắc, thanh, hương, vị, và xúc. Và nó nhanh nhẹn. Một con ngựa thuần chủng của hoàng gia có sáu yếu tố này thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền.
 
 Tương tự như vậy, một vị khất sĩ có sáu phẩm chất thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Sáu phẩm chất nào? Đó là khi một vị khất sĩ có thể chịu đựng được sắc, thanh, hương, vị, xúc, và pháp. Một vị khất sĩ có sáu phẩm chất này thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 6.8 Vô Thượng *Anuttariyasutta*{#8}
-
+### AN 6.8 Vô Thượng *Anuttariyasutta* {#8}
 "Này các khất sĩ, có sáu điều *vô thượng* (unsurpassable / không gì hơn được) này. Sáu điều nào? Cái thấy vô thượng, cái nghe vô thượng, sự *thu hoạch* (acquisition / sự đạt được lợi ích) vô thượng, sự *rèn luyện* (training / sự thực hành, tu tập) vô thượng, sự *phục vụ* (service / sự chăm sóc, hầu hạ) vô thượng, và sự *tùy niệm* (recollection / sự nhớ lại, quán niệm) vô thượng. Đây là sáu điều vô thượng."
 
 <!--pg-->
-### AN 6.9 Các Đề Mục Tùy Niệm *Anussatiṭṭhānasutta*{#9}
-
+### AN 6.9 Các Đề Mục Tùy Niệm *Anussatiṭṭhānasutta* {#9}
 "Này các khất sĩ, có sáu *đề mục tùy niệm* (topics for recollection / các đối tượng để quán niệm) này. Sáu đề mục nào? Tùy niệm *Đức Phật* (Buddha / Bậc Giác Ngộ), tùy niệm *Pháp* (teaching / lời dạy của Đức Phật), tùy niệm *Tăng đoàn* (Saṅgha / cộng đồng tu sĩ Phật giáo), tùy niệm *giới hạnh* (ethics / phẩm hạnh đạo đức), tùy niệm *bố thí* (generosity / lòng rộng rãi, cho đi), và tùy niệm *chư thiên* (deities / các vị trời). Đây là sáu đề mục tùy niệm."
 
 <!--pg-->
-### AN 6.10 Với Mahānāma *Mahānāmasutta*{#10}
-
+### AN 6.10 Với Mahānāma *Mahānāmasutta* {#10}
 Một thời Đức Phật trú tại xứ của dòng họ Sakya, gần Kapilavatthu, trong Tu viện Cây Bàng (Nigrodhārāma). Bấy giờ, Mahānāma thuộc dòng họ Sakya đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
 
 "Bạch Thế Tôn, khi một *Thánh đệ tử* (noble disciple / người đệ tử đã chứng Thánh quả) đã *chứng quả* (reached the fruit / đạt được kết quả tu tập) và *thông hiểu giáo pháp* (understood the instructions / hiểu rõ lời dạy), vị ấy thường xuyên thực hành loại *thiền định* (meditation / phương pháp tu tập tâm) nào?"

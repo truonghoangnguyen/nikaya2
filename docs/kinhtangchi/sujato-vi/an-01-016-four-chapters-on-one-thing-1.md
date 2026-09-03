@@ -1,6 +1,5 @@
 # Bốn Phẩm Về Một Pháp (1-Phẩm Thứ Nhất)
-### AN 1.296--305 *Phẩm Thứ Nhất*{#296-305}
-
+### AN 1.296--305 *Phẩm Thứ Nhất* {#296-305}
 296\. "*Này các Tỳ kheo*, có *một pháp* (one thing / một pháp, một thực hành) này, khi được *tu tập và thực hành* (developed and cultivated / rèn luyện và phát triển), chỉ đưa đến *sự nhàm chán* (disillusionment / sự nhận ra tính vô vị của thế gian), *ly tham* (dispassion / sự buông bỏ ham muốn), *sự đoạn diệt* (cessation / sự chấm dứt khổ đau), *sự an tịnh* (peace / sự bình lặng của tâm), *thắng trí* (insight / trí tuệ thấy rõ sự thật), *giác ngộ* (awakening / sự tỉnh thức hoàn toàn), và *Niết bàn*. Một pháp đó là gì? *Niệm Phật.* (Recollection of the Buddha / nhớ nghĩ đến ân đức Phật). Pháp này, khi được tu tập và thực hành, chỉ đưa đến sự nhàm chán, ly tham, sự đoạn diệt, sự an tịnh, thắng trí, giác ngộ, và Niết bàn."
 
 <!--pg-->

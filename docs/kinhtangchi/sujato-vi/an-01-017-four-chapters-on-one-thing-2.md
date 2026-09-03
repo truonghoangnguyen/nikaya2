@@ -1,7 +1,6 @@
 # Bốn Bài Kinh Về Một Pháp (Phẩm Thứ Hai)
 
-### AN 1.306–315 *Phẩm Thứ Hai*{#306-315}
-
+### AN 1.306–315 *Phẩm Thứ Hai* {#306-315}
 306\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác làm cho các *pháp bất thiện* (unskillful qualities / điều xấu, điều không tốt) chưa sinh khởi thì sinh khởi, hay đã sinh khởi thì làm cho chúng tăng trưởng, như là *tà kiến* (wrong view / thấy biết sai lầm). Khi có tà kiến, các pháp bất thiện chưa sinh khởi thì sinh khởi, hay đã sinh khởi thì chúng tăng trưởng."
 
 <!--pg-->

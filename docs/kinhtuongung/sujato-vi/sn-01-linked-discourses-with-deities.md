@@ -4,8 +4,7 @@
 <!--pg-->
 ## Phẩm Cây Sậy
 
-### SN 1.1 Vượt Qua Bộc Lưu *Oghataraṇasutta*{#1}
-
+### SN 1.1 Vượt Qua Bộc Lưu *Oghataraṇasutta* {#1}
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 thành Xá-vệ, tại vườn ông Cấp Cô Độc, trong rừng cây Kỳ-đà.
 
@@ -31,8 +30,7 @@ một cách kính cẩn, trước khi biến mất ngay tại đó.
 
 
 <!--pg-->
-### SN 1.2 Giải Thoát *Nimokkhasutta*{#2}
-
+### SN 1.2 Giải Thoát *Nimokkhasutta* {#2}
 Tại thành Xá-vệ.
 
 Rồi, vào lúc đêm khuya, một vị trời rực rỡ, soi sáng toàn bộ rừng cây Kỳ-đà,
@@ -51,8 +49,7 @@ cho chúng sanh."
 
 
 <!--pg-->
-### SN 1.3 Bị Dẫn Dắt *Upanīyasutta*{#3}
-
+### SN 1.3 Bị Dẫn Dắt *Upanīyasutta* {#3}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -76,8 +73,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.4 Thời Gian Trôi *Accentisutta*{#4}
-
+### SN 1.4 Thời Gian Trôi *Accentisutta* {#4}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -94,8 +90,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.5 Cắt Bao Nhiêu? *Katichindasutta*{#5}
-
+### SN 1.5 Cắt Bao Nhiêu? *Katichindasutta* {#5}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -112,8 +107,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.6 Thức Tỉnh *Jāgarasutta*{#6}
-
+### SN 1.6 Thức Tỉnh *Jāgarasutta* {#6}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -130,8 +124,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.7 Không Thông Suốt *Appaṭividitasutta*{#7}
-
+### SN 1.7 Không Thông Suốt *Appaṭividitasutta* {#7}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -148,8 +141,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.8 Rất Mơ Hồ *Susammuṭṭhasutta*{#8}
-
+### SN 1.8 Rất Mơ Hồ *Susammuṭṭhasutta* {#8}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -166,8 +158,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.9 Ưa Thích Ngã Mạn *Mānakāmasutta*{#9}
-
+### SN 1.9 Ưa Thích Ngã Mạn *Mānakāmasutta* {#9}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -184,8 +175,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.10 Nơi Hoang Dã *Araññasutta*{#10}
-
+### SN 1.10 Nơi Hoang Dã *Araññasutta* {#10}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy thưa với Đức Phật bằng một bài kệ:
@@ -209,8 +199,7 @@ Tại thành Xá-vệ.
 <!--pg-->
 ## Phẩm Vườn Hoan Hỷ
 
-### SN 1.11 Vườn Hoan Hỷ *Nandanasutta*{#11}
-
+### SN 1.11 Vườn Hoan Hỷ *Nandanasutta* {#11}
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 thành Xá-vệ, tại vườn ông Cấp Cô Độc, trong tu viện
 Kỳ-đà. Ở đó, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
@@ -238,8 +227,7 @@ Khi vị trời ấy nói xong, một vị trời khác đáp lại bằng bài 
 
 
 <!--pg-->
-### SN 1.12 Hỷ Lạc *Nandatisutta*{#12}
-
+### SN 1.12 Hỷ Lạc *Nandatisutta* {#12}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -256,8 +244,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.13 Không Gì Bằng Con Cái *Natthiputtasamasutta*{#13}
-
+### SN 1.13 Không Gì Bằng Con Cái *Natthiputtasamasutta* {#13}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -274,8 +261,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.14 Giai Cấp Vương Giả *Khattiyasutta*{#14}
-
+### SN 1.14 Giai Cấp Vương Giả *Khattiyasutta* {#14}
 > "Bậc vương giả là tốt nhất trong loài hai chân,\
 > con bò là tốt nhất trong loài bốn chân,\
 > thiếu nữ là tốt nhất trong các người vợ,\
@@ -288,8 +274,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.15 Lời Thì Thầm *Saṇamānasutta*{#15}
-
+### SN 1.15 Lời Thì Thầm *Saṇamānasutta* {#15}
 > "Giữa trưa tĩnh lặng,\
 > khi chim chóc đã yên vị,\
 > khu rừng rậm đáng sợ tự thì thầm:\
@@ -302,8 +287,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.16 Buồn Ngủ và Lười Biếng *Niddātandīsutta*{#16}
-
+### SN 1.16 Buồn Ngủ và Lười Biếng *Niddātandīsutta* {#16}
 > "Buồn ngủ, lười biếng, và ngáp,\
 > bất mãn, và uể oải sau khi ăn:\
 > vì điều này mà thánh đạo\
@@ -316,8 +300,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.17 Khó Làm *Dukkarasutta*{#17}
-
+### SN 1.17 Khó Làm *Dukkarasutta* {#17}
 > "Khó làm, khó chịu đựng,\
 > là đời sống tu khổ hạnh đối với người không khéo léo,\
 > vì nó có nhiều lối đi hẹp\
@@ -335,8 +318,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.18 Lương Tri *Hirīsutta*{#18}
-
+### SN 1.18 Lương Tri *Hirīsutta* {#18}
 > "Có thể tìm thấy trên đời\
 > một người bị ràng buộc bởi *tàm* (conscience / sự xấu hổ với tội lỗi) không?\
 > Ai tránh xa sự chỉ trích,\
@@ -349,8 +331,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.19 Túp Lều Nhỏ *Kuṭikāsutta*{#19}
-
+### SN 1.19 Túp Lều Nhỏ *Kuṭikāsutta* {#19}
 > "Ngươi không có một túp lều nhỏ sao?\
 > Ngươi không có một cái tổ nhỏ sao?\
 > Ngươi không có mạng lưới nào sao?\
@@ -378,8 +359,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.20 Cùng Tôn Giả Samiddhi *Samiddhisutta*{#20}
-
+### SN 1.20 Cùng Tôn Giả Samiddhi *Samiddhisutta* {#20}
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 thành Vương Xá, tại tu viện suối nước nóng.
 
@@ -487,8 +467,7 @@ Hãy nói cho ta biết nếu ngươi hiểu, này vị trời."
 <!--pg-->
 ## Phẩm Thanh Gươm
 
-### SN 1.21 Thanh Gươm *Sattisutta*{#21}
-
+### SN 1.21 Thanh Gươm *Sattisutta* {#21}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy đọc bài kệ này trước sự hiện diện của Đức Phật:
@@ -505,8 +484,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.22 Tác Động *Phusatisutta*{#22}
-
+### SN 1.22 Tác Động *Phusatisutta* {#22}
 > "Nó không tác động đến người không tác động đến người khác.\
 > Nó tác động đến một người vì họ tác động đến người khác.\
 > Đó là lý do tại sao nó tác động đến người tác động,\
@@ -519,8 +497,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.23 Đám Rối *Jaṭāsutta*{#23}
-
+### SN 1.23 Đám Rối *Jaṭāsutta* {#23}
 > "Rối ở bên trong, rối ở bên ngoài:\
 > những người này bị rối trong những đám rối.\
 > Tôi hỏi ngài điều này, Gotama:\
@@ -543,8 +520,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.24 Phòng Hộ Tâm *Manonivāraṇasutta*{#24}
-
+### SN 1.24 Phòng Hộ Tâm *Manonivāraṇasutta* {#24}
 > "Bất cứ điều gì ngươi đã phòng hộ tâm khỏi\
 > không thể gây cho ngươi đau khổ.\
 > Vì vậy, ngươi nên phòng hộ tâm khỏi mọi thứ,\
@@ -557,8 +533,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.25 Bậc A-la-hán *Arahantasutta*{#25}
-
+### SN 1.25 Bậc A-la-hán *Arahantasutta* {#25}
 > "Khi một Tỷ kheo là bậc A-la-hán, đã hoàn thành phận sự,\
 > lậu hoặc đã tận, mang thân cuối cùng:\
 > liệu họ có nói, 'tôi nói',\
@@ -588,8 +563,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.26 Những Ngọn Đèn *Pajjotasutta*{#26}
-
+### SN 1.26 Những Ngọn Đèn *Pajjotasutta* {#26}
 > "Có bao nhiêu ngọn đèn\
 > soi sáng thế gian?\
 > Chúng tôi đến để hỏi ngài:\
@@ -607,8 +581,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.27 Những Dòng Sông *Sarasutta*{#27}
-
+### SN 1.27 Những Dòng Sông *Sarasutta* {#27}
 > "Từ đâu những dòng sông quay trở lại?\
 > Nơi đâu vòng luân hồi không còn quay?\
 > Nơi đâu danh và sắc\
@@ -624,8 +597,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.28 Giàu Có *Mahaddhanasutta*{#28}
-
+### SN 1.28 Giàu Có *Mahaddhanasutta* {#28}
 > "Những người giàu có và sung túc,\
 > ngay cả những bậc vương giả cai trị đất nước,\
 > cũng ghen tị lẫn nhau,\
@@ -645,8 +617,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.29 Bốn Bánh Xe *Catucakkasutta*{#29}
-
+### SN 1.29 Bốn Bánh Xe *Catucakkasutta* {#29}
 > "Bốn là bánh xe, và chín là cửa;\
 > nó chứa đầy, bị trói buộc bởi tham lam,\
 > và sinh ra từ vũng lầy.\
@@ -659,8 +630,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.30 Bắp Chân Linh Dương *Eṇijaṅghasutta*{#30}
-
+### SN 1.30 Bắp Chân Linh Dương *Eṇijaṅghasutta* {#30}
 > "Ôi bậc anh hùng gầy gò, với bắp chân như của linh dương,\
 > không tham lam, ăn ít,\
 > một con voi, lang thang một mình như sư tử,\
@@ -677,8 +647,7 @@ Tại thành Xá-vệ.
 <!--pg-->
 ## Phẩm Nhóm Thiên Thần Satullapa
 
-### SN 1.31 Bậc Chân Nhân *Sabbhisutta*{#31}
-
+### SN 1.31 Bậc Chân Nhân *Sabbhisutta* {#31}
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 thành Xá-vệ, tại vườn ông Cấp Cô Độc, trong tu viện
 Kỳ-đà.
@@ -742,8 +711,7 @@ trước khi biến mất ngay tại đó.
 
 
 <!--pg-->
-### SN 1.32 Sự Keo Kiệt *Maccharisutta*{#32}
-
+### SN 1.32 Sự Keo Kiệt *Maccharisutta* {#32}
 Một thời Đức Phật ở gần thành Xá-vệ, tại vườn ông Cấp Cô Độc,
 trong tu viện Kỳ-đà.
 
@@ -826,8 +794,7 @@ Sau đó, một vị trời khác thưa với Đức Phật bằng một bài k�
 
 
 <!--pg-->
-### SN 1.33 Tốt Lành *Sādhusutta*{#33}
-
+### SN 1.33 Tốt Lành *Sādhusutta* {#33}
 Tại thành Xá-vệ.
 
 Rồi, vào lúc đêm khuya, một vài vị trời rực rỡ thuộc Nhóm Satullapa,
@@ -912,8 +879,7 @@ Sau đó, một vị trời khác thưa với Đức Phật: "Bạch Thế Tôn,
 
 
 <!--pg-->
-### SN 1.34 Không Có *Nasantisutta*{#34}
-
+### SN 1.34 Không Có *Nasantisutta* {#34}
 Một thời Đức Phật ở gần thành Xá-vệ, tại vườn ông Cấp Cô Độc,
 trong tu viện Kỳ-đà.
 
@@ -966,8 +932,7 @@ soi sáng toàn bộ rừng cây Kỳ-đà, đến gặp Đức Phật, đảnh 
 
 
 <!--pg-->
-### SN 1.35 Khinh Miệt *Ujjhānasaññisutta*{#35}
-
+### SN 1.35 Khinh Miệt *Ujjhānasaññisutta* {#35}
 Một thời Đức Phật ở gần thành Xá-vệ, tại vườn ông Cấp Cô Độc,
 trong tu viện Kỳ-đà.
 
@@ -1038,8 +1003,7 @@ Một vị trời đọc bài kệ này trước sự hiện diện của Đức
 
 
 <!--pg-->
-### SN 1.36 Niềm Tin *Saddhāsutta*{#36}
-
+### SN 1.36 Niềm Tin *Saddhāsutta* {#36}
 Một thời Đức Phật ở gần thành Xá-vệ, tại vườn ông Cấp Cô Độc,
 trong tu viện Kỳ-đà.
 
@@ -1071,8 +1035,7 @@ Sau đó, một vị trời khác đọc những bài kệ này trước sự hi
 
 
 <!--pg-->
-### SN 1.37 Đại Hội *Samayasutta*{#37}
-
+### SN 1.37 Đại Hội *Samayasutta* {#37}
 Như vầy tôi nghe. Một thời Đức Phật ở trong
 xứ Thích-ca, tại Đại Lâm gần thành Ca-tỳ-la-vệ, cùng với
 một Tăng đoàn lớn gồm năm trăm Tỷ kheo, tất cả đều là
@@ -1115,8 +1078,7 @@ Sau đó, một vị trời khác đọc bài kệ này trước sự hiện di�
 
 
 <!--pg-->
-### SN 1.38 Mảnh Đá Vụn *Sakalikasutta*{#38}
-
+### SN 1.38 Mảnh Đá Vụn *Sakalikasutta* {#38}
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 thành Vương Xá, tại vườn nai Maddakucchi.
 
@@ -1186,8 +1148,7 @@ như mãnh thú, một người đã được thuần hóa---đó chẳng phải
 
 
 <!--pg-->
-### SN 1.39 Với Con Gái Của Pajjunna (Thứ Nhất) *Paṭhamapajjunnadhītusutta*{#39}
-
+### SN 1.39 Với Con Gái Của Pajjunna (Thứ Nhất) *Paṭhamapajjunnadhītusutta* {#39}
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 thành Vesālī, tại Đại Lâm, trong ngôi nhà có mái nhọn.
 
@@ -1218,8 +1179,7 @@ soi sáng toàn bộ Đại Lâm, đến gặp Đức Phật,
 
 
 <!--pg-->
-### SN 1.40 Với Con Gái Của Pajjunna (Thứ Hai) *Dutiyapajjunnadhītusuttaṁ*{#40}
-
+### SN 1.40 Với Con Gái Của Pajjunna (Thứ Hai) *Dutiyapajjunnadhītusuttaṁ* {#40}
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 thành Vesālī, tại Đại Lâm, trong ngôi nhà có mái nhọn.
 
@@ -1248,8 +1208,7 @@ con gái của Pajjunna, soi sáng toàn bộ Đại Lâm, đến gặp
 <!--pg-->
 ## Phẩm Lửa Cháy
 
-### SN 1.41 Lửa Cháy *Ādittasutta*{#41}
-
+### SN 1.41 Lửa Cháy *Ādittasutta* {#41}
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 thành Xá-vệ, tại vườn ông Cấp Cô Độc, trong tu viện
 Kỳ-đà.
@@ -1282,8 +1241,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.42 Cho Gì? *Kiṁdadasutta*{#42}
-
+### SN 1.42 Cho Gì? *Kiṁdadasutta* {#42}
 > "Cho gì thì ngươi cho sức mạnh?\
 > Cho gì thì ngươi cho vẻ đẹp?\
 > Cho gì thì ngươi cho hạnh phúc?\
@@ -1303,8 +1261,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.43 Thức Ăn *Annasutta*{#43}
-
+### SN 1.43 Thức Ăn *Annasutta* {#43}
 > "Cả chư thiên và loài người\
 > đều thích thức ăn của họ.\
 > Vậy tên của vị trời\
@@ -1322,8 +1279,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.44 Một Gốc Rễ *Ekamūlasutta*{#44}
-
+### SN 1.44 Một Gốc Rễ *Ekamūlasutta* {#44}
 > "Một là gốc rễ, hai là xoáy nước,\
 > ba là vết nhơ, năm là sự lan rộng,\
 > mười hai là xoáy nước đại dương:\
@@ -1331,8 +1287,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.45 Vô Song *Anomasutta*{#45}
-
+### SN 1.45 Vô Song *Anomasutta* {#45}
 > Hãy nhìn ngài với danh xưng vô song\
 > － người thấy được ý nghĩa vi diệu,\
 > người ban tặng trí tuệ,\
@@ -1342,8 +1297,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.46 Các Tiên Nữ *Accharāsutta*{#46}
-
+### SN 1.46 Các Tiên Nữ *Accharāsutta* {#46}
 > "Nó vang dội với một nhóm tiên nữ,\
 > nhưng bị ám bởi một băng đảng yêu tinh!\
 > Khu rừng này được gọi là 'Si Mê'.\
@@ -1366,8 +1320,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.47 Những Người Trồng Cây *Vanaropasutta*{#47}
-
+### SN 1.47 Những Người Trồng Cây *Vanaropasutta* {#47}
 > "Phước báu của ai luôn tăng trưởng\
 > cả ngày lẫn đêm?\
 > Vững vàng trong nguyên tắc, thành tựu trong hành vi,\
@@ -1385,8 +1338,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.48 Rừng Kỳ-đà *Jetavanasutta*{#48}
-
+### SN 1.48 Rừng Kỳ-đà *Jetavanasutta* {#48}
 > "Đây quả thực là rừng Kỳ-đà,\
 > nơi Tăng đoàn của các bậc kiến giả thường lui tới,\
 > nơi Pháp Vương đã ở:\
@@ -1409,8 +1361,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.49 Keo Kiệt *Maccharisutta*{#49}
-
+### SN 1.49 Keo Kiệt *Maccharisutta* {#49}
 > "Những người trên thế gian keo kiệt,\
 > bủn xỉn và lăng mạ,\
 > tạo ra những trở ngại\
@@ -1469,8 +1420,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.50 Với Ghaṭīkāra *Ghaṭīkārasutta*{#50}
-
+### SN 1.50 Với Ghaṭīkāra *Ghaṭīkārasutta* {#50}
 > "Bảy Tỷ kheo tái sanh ở cõi Vô Phiền\
 > đã được giải thoát.\
 > Với sự chấm dứt hoàn toàn của tham và sân,\
@@ -1544,8 +1494,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 <!--pg-->
 ## Phẩm Tuổi Già
 
-### SN 1.51 Tuổi Già *Jarāsutta*{#51}
-
+### SN 1.51 Tuổi Già *Jarāsutta* {#51}
 > "Điều gì vẫn tốt trong tuổi già?\
 > Điều gì tốt khi vững chắc?\
 > Kho báu của con người là gì?\
@@ -1558,8 +1507,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.52 Già Đi *Ajarasāsutta*{#52}
-
+### SN 1.52 Già Đi *Ajarasāsutta* {#52}
 > "Điều gì tốt vì nó không bao giờ già đi?\
 > Điều gì tốt khi đã cam kết?\
 > Kho báu của con người là gì?\
@@ -1572,8 +1520,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.53 Một Người Bạn *Mittasutta*{#53}
-
+### SN 1.53 Một Người Bạn *Mittasutta* {#53}
 > "Ai là bạn của ngươi ở xứ người?\
 > Ai là bạn của ngươi ở nhà?\
 > Ai là bạn của ngươi khi cần?\
@@ -1588,8 +1535,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.54 Nền Tảng *Vatthusutta*{#54}
-
+### SN 1.54 Nền Tảng *Vatthusutta* {#54}
 > "Nền tảng của con người là gì?\
 > Người bạn đồng hành tốt nhất ở đây là gì?\
 > Nhờ vào đâu mà các sinh vật sống trên trái đất\
@@ -1602,8 +1548,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.55 Sinh Ra (Thứ Nhất) *Paṭhamajanasutta*{#55}
-
+### SN 1.55 Sinh Ra (Thứ Nhất) *Paṭhamajanasutta* {#55}
 > "Điều gì sinh ra một con người?\
 > Họ có gì mà chạy loanh quanh?\
 > Điều gì đi vào luân hồi?\
@@ -1616,8 +1561,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.56 Sinh Ra (Thứ Hai) *Dutiyajanasutta*{#56}
-
+### SN 1.56 Sinh Ra (Thứ Hai) *Dutiyajanasutta* {#56}
 > "Điều gì sinh ra một con người?\
 > Họ có gì mà chạy loanh quanh?\
 > Điều gì đi vào luân hồi?\
@@ -1630,8 +1574,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.57 Sinh Ra (Thứ Ba) *Tatiyajanasutta*{#57}
-
+### SN 1.57 Sinh Ra (Thứ Ba) *Tatiyajanasutta* {#57}
 > "Điều gì sinh ra một con người?\
 > Họ có gì mà chạy loanh quanh?\
 > Điều gì đi vào luân hồi?\
@@ -1644,8 +1587,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.58 Lệch Đường *Uppathasutta*{#58}
-
+### SN 1.58 Lệch Đường *Uppathasutta* {#58}
 > "Điều gì được tuyên bố là lệch đường?\
 > Điều gì đang kết thúc ngày và đêm?\
 > Vết nhơ của đời sống phạm hạnh là gì?\
@@ -1660,8 +1602,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.59 Một Người Bạn Đồng Hành *Dutiyasutta*{#59}
-
+### SN 1.59 Một Người Bạn Đồng Hành *Dutiyasutta* {#59}
 > "Bạn đồng hành của một người là gì?\
 > Điều gì hướng dẫn họ?\
 > Hưởng thụ điều gì thì một người trần thế\
@@ -1674,8 +1615,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.60 Một Nhà Thơ *Kavisutta*{#60}
-
+### SN 1.60 Một Nhà Thơ *Kavisutta* {#60}
 > "Nền tảng của thơ ca là gì?\
 > Sự diễn đạt chi tiết của chúng là gì?\
 > Thơ ca phụ thuộc vào điều gì?\
@@ -1690,8 +1630,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 <!--pg-->
 ## Phẩm Bị Đè Nén
 
-### SN 1.61 Danh *Nāmasutta*{#61}
-
+### SN 1.61 Danh *Nāmasutta* {#61}
 > "Điều gì đè nén mọi thứ?\
 > Điều gì không có gì lớn hơn?\
 > Điều gì là một thứ duy nhất\
@@ -1704,8 +1643,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.62 Tâm *Cittasutta*{#62}
-
+### SN 1.62 Tâm *Cittasutta* {#62}
 > "Điều gì dẫn dắt thế gian?\
 > Điều gì kéo lê nó đi khắp nơi?\
 > Điều gì là một thứ duy nhất\
@@ -1718,8 +1656,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.63 Ái Dục *Taṇhāsutta*{#63}
-
+### SN 1.63 Ái Dục *Taṇhāsutta* {#63}
 > "Điều gì dẫn dắt thế gian?\
 > Điều gì kéo lê nó đi khắp nơi?\
 > Điều gì là một thứ duy nhất\
@@ -1732,8 +1669,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.64 Xiềng Xích *Saṁyojanasutta*{#64}
-
+### SN 1.64 Xiềng Xích *Saṁyojanasutta* {#64}
 > "Điều gì xiềng xích thế gian?\
 > Nó đi lại như thế nào?\
 > Với sự từ bỏ điều gì\
@@ -1746,8 +1682,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.65 Sự Trói Buộc *Bandhanasutta*{#65}
-
+### SN 1.65 Sự Trói Buộc *Bandhanasutta* {#65}
 > "Điều gì trói buộc thế gian?\
 > Nó đi lại như thế nào?\
 > Với sự từ bỏ điều gì\
@@ -1760,8 +1695,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.66 Bị Đánh Gục *Attahatasutta*{#66}
-
+### SN 1.66 Bị Đánh Gục *Attahatasutta* {#66}
 > "Thế gian bị đánh gục bởi điều gì?\
 > Nó bị bao quanh bởi điều gì?\
 > Mũi tên nào đã hạ gục nó?\
@@ -1774,8 +1708,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.67 Bị Mắc Bẫy *Uḍḍitasutta*{#67}
-
+### SN 1.67 Bị Mắc Bẫy *Uḍḍitasutta* {#67}
 > "Điều gì đã mắc bẫy thế gian?\
 > Nó bị bao quanh bởi điều gì?\
 > Điều gì đã khóa chặt thế gian?\
@@ -1788,8 +1721,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.68 Bị Khóa Chặt *Pihitasutta*{#68}
-
+### SN 1.68 Bị Khóa Chặt *Pihitasutta* {#68}
 > "Điều gì đã khóa chặt thế gian?\
 > Thế gian đặt nền tảng trên điều gì?\
 > Điều gì đã mắc bẫy thế gian?\
@@ -1802,8 +1734,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.69 Mong Muốn *Icchāsutta*{#69}
-
+### SN 1.69 Mong Muốn *Icchāsutta* {#69}
 > "Điều gì trói buộc thế gian?\
 > Bằng cách loại bỏ điều gì mà nó được giải thoát?\
 > Với sự từ bỏ điều gì\
@@ -1816,8 +1747,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 
 
 <!--pg-->
-### SN 1.70 Thế Gian *Lokasutta*{#70}
-
+### SN 1.70 Thế Gian *Lokasutta* {#70}
 > "Thế gian đã khởi sinh trong điều gì?\
 > Nó tiếp cận với điều gì?\
 > Bằng cách chấp thủ vào điều gì\
@@ -1832,8 +1762,7 @@ những bài kệ này trước sự hiện diện của Đức Phật:
 <!--pg-->
 ## Phẩm Thiêu Đốt
 
-### SN 1.71 Thiêu Đốt *Chetvāsutta*{#71}
-
+### SN 1.71 Thiêu Đốt *Chetvāsutta* {#71}
 Tại thành Xá-vệ.
 
 Đứng sang một bên, vị trời ấy thưa với Đức Phật bằng một bài kệ:
@@ -1852,8 +1781,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.72 Một Cỗ Xe *Rathasutta*{#72}
-
+### SN 1.72 Một Cỗ Xe *Rathasutta* {#72}
 > "Dấu hiệu của một cỗ xe là gì?\
 > Dấu hiệu của lửa là gì?\
 > Dấu hiệu của một quốc gia là gì?\
@@ -1866,8 +1794,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.73 Của Cải *Vittasutta*{#73}
-
+### SN 1.73 Của Cải *Vittasutta* {#73}
 > "Của cải tốt nhất của một người là gì?\
 > Điều gì mang lại hạnh phúc khi được thực hành tốt?\
 > Vị ngọt ngào nhất trong tất cả là gì?\
@@ -1880,8 +1807,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.74 Mưa *Vuṭṭhisutta*{#74}
-
+### SN 1.74 Mưa *Vuṭṭhisutta* {#74}
 > "Điều gì là tốt nhất trong những thứ mọc lên?\
 > Và điều gì là tốt nhất trong những thứ rơi xuống?\
 > Và điều gì trong những thứ đi tới?\
@@ -1899,8 +1825,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.75 Sợ Hãi *Bhītāsutta*{#75}
-
+### SN 1.75 Sợ Hãi *Bhītāsutta* {#75}
 > "Tại sao có quá nhiều người ở đây sợ hãi,\
 > khi con đường đã được dạy\
 > － với rất nhiều khía cạnh?\
@@ -1917,8 +1842,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.76 Già Đi *Najīratisutta*{#76}
-
+### SN 1.76 Già Đi *Najīratisutta* {#76}
 > "Điều gì già đi, điều gì không già đi?\
 > Điều gì được gọi là lệch đường?\
 > Điều gì là chướng ngại cho các phẩm chất thiện lành?\
@@ -1951,8 +1875,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.77 Quyền Lực *Issariyasutta*{#77}
-
+### SN 1.77 Quyền Lực *Issariyasutta* {#77}
 > "Quyền lực trên thế gian là gì?\
 > Vật quý giá nhất là gì?\
 > Thanh gươm rỉ sét trên thế gian là gì?\
@@ -1975,8 +1898,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.78 Ham Muốn *Kāmasutta*{#78}
-
+### SN 1.78 Ham Muốn *Kāmasutta* {#78}
 > "Người mong muốn điều tốt\
 > － không nên cho đi điều gì?\
 > Một người trần thế không nên từ bỏ điều gì?\
@@ -1990,8 +1912,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.79 Lương Thực *Pātheyyasutta*{#79}
-
+### SN 1.79 Lương Thực *Pātheyyasutta* {#79}
 > "Lương thực nên được buộc lại như thế nào?\
 > Hang ổ của cải là gì?\
 > Điều gì kéo lê một người đi khắp nơi?\
@@ -2008,8 +1929,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.80 Ngọn Đèn *Pajjotasutta*{#80}
-
+### SN 1.80 Ngọn Đèn *Pajjotasutta* {#80}
 > "Ngọn đèn cho thế gian là gì?\
 > Điều gì trên thế gian là tỉnh thức?\
 > Ai là đồng nghiệp của một người?\
@@ -2032,8 +1952,7 @@ Tại thành Xá-vệ.
 
 
 <!--pg-->
-### SN 1.81 Không Xung Đột *Araṇasutta*{#81}
-
+### SN 1.81 Không Xung Đột *Araṇasutta* {#81}
 > "Ai trên thế gian không có xung đột?\
 > Cuộc sống của ai không bị mất đi?\
 > Ai ở đây hoàn toàn hiểu được ham muốn?\

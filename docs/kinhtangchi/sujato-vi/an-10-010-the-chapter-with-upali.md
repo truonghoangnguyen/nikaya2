@@ -1,7 +1,6 @@
 # Phẩm Upāli
 
-### AN 10.91 Người Tìm Kiếm Dục Lạc *Kāmabhogīsutta*{#91}
-
+### AN 10.91 Người Tìm Kiếm Dục Lạc *Kāmabhogīsutta* {#91}
 Một thời Đức Phật trú gần Sāvatthī, tại Kỳ Viên, tu viện của ông Anāthapiṇḍika. Bấy giờ, gia chủ Anāthapiṇḍika đến đảnh lễ Đức Phật rồi ngồi xuống một bên. Khi ông đã ngồi xuống, Đức Phật nói với gia chủ Anāthapiṇḍika:
 
 "Có mười loại người tìm kiếm dục lạc này được tìm thấy trên thế gian. Mười loại nào? Thứ nhất, một người tìm kiếm dục lạc tìm kiếm của cải bằng những phương tiện phi pháp, cưỡng ép. Họ không làm cho bản thân hạnh phúc và vui vẻ, cũng không chia sẻ và tạo phước.
@@ -49,8 +48,7 @@ Bây giờ, hãy xem xét người tìm kiếm dục lạc tìm kiếm của c�
 Cũng vậy, người tìm kiếm dục lạc tìm kiếm của cải bằng những phương tiện hợp pháp, không cưỡng ép, làm cho bản thân hạnh phúc và vui vẻ, chia sẻ và tạo phước, và sử dụng của cải đó một cách không bị trói buộc, không say đắm, không dính mắc, thấy rõ những nguy hại, và hiểu rõ sự thoát ly là người đứng đầu, tốt nhất, chủ yếu, cao nhất, và ưu tú nhất trong mười loại."
 
 <!--pg-->
-### AN 10.92 Những Mối Nguy Hiểm *Bhayasutta*{#92}
-
+### AN 10.92 Những Mối Nguy Hiểm *Bhayasutta* {#92}
 Bấy giờ, gia chủ Anāthapiṇḍika đến đảnh lễ Đức Phật rồi ngồi xuống một bên. Đức Phật nói với ông:
 
 "Này gia chủ, khi một *thánh đệ tử* (noble disciple / đệ tử bậc thánh, người đã đạt được một trong các Thánh đạo Thánh quả) đã dập tắt năm mối nguy hiểm và đe dọa, có được bốn *yếu tố của sự nhập lưu* (factors of stream-entry / các điều kiện cần có để chứng đắc quả vị Tu-đà-hoàn), và đã thấy rõ và hiểu thấu *pháp cao quý* (noble system / hệ thống giáo lý cao thượng, ở đây chỉ Lý Duyên Khởi) bằng trí tuệ, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt tái sinh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, những nơi xấu xa, cõi đọa lạc. Ta là một *người nhập lưu* (stream-enterer / *Tu-đà-hoàn*, người đã bước vào dòng Thánh, không còn tái sinh vào các cõi khổ)! Ta không còn bị tái sinh vào cõi đọa lạc, và chắc chắn sẽ giác ngộ.'
@@ -66,8 +64,7 @@ Và pháp cao quý nào mà vị ấy đã thấy rõ và hiểu thấu bằng t
 Khi một thánh đệ tử đã dập tắt năm mối nguy hiểm và đe dọa, có được bốn yếu tố của sự nhập lưu, và đã thấy rõ và hiểu thấu *pháp duyên khởi cao quý* (noble cycle / vòng quay nhân duyên cao thượng) bằng trí tuệ, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt tái sinh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, những nơi xấu xa, cõi đọa lạc. Ta là một người nhập lưu! Ta không còn bị tái sinh vào cõi đọa lạc, và chắc chắn sẽ giác ngộ.'"
 
 <!--pg-->
-### AN 10.93 Quan Điểm Của Ông Là Gì? *Kiṁdiṭṭhikasutta*{#93}
-
+### AN 10.93 Quan Điểm Của Ông Là Gì? *Kiṁdiṭṭhikasutta* {#93}
 Một thời Đức Phật trú gần Sāvatthī, tại Kỳ Viên, tu viện của ông Anāthapiṇḍika.
 
 Bấy giờ, gia chủ Anāthapiṇḍika rời Sāvatthī vào giữa ngày để đến gặp Đức Phật. Rồi ông nghĩ: "Đây không phải là lúc thích hợp để gặp Đức Phật, vì Ngài đang nhập thất. Và đây cũng không phải là lúc thích hợp để gặp các vị Tỳ-khưu đáng kính, vì họ đang nhập thất. Sao mình không đến thăm tu viện của các *du sĩ ngoại đạo* (wanderers of other religions / những người tu hành theo các tôn giáo khác ngoài Phật giáo)?"
@@ -117,8 +114,7 @@ Sau đó, Đức Phật đã giáo huấn, khuyến khích, khích lệ và truy
 Rồi, không lâu sau khi Anāthapiṇḍika rời đi, Đức Phật nói với các vị Tỳ-khưu: "Này các Tỳ-khưu, ngay cả một vị Tỳ-khưu đã xuất gia một trăm năm trong *giáo pháp và luật* (teaching and training / giáo lý và giới luật) này cũng sẽ bác bỏ những du sĩ ngoại đạo đó một cách hợp lý và hoàn toàn như gia chủ Anāthapiṇḍika đã làm."
 
 <!--pg-->
-### AN 10.94 Với Vajjiyamāhita *Vajjiyamāhitasutta*{#94}
-
+### AN 10.94 Với Vajjiyamāhita *Vajjiyamāhitasutta* {#94}
 Một thời Đức Phật trú gần Campā, bên bờ hồ sen Gaggarā.
 
 Bấy giờ, gia chủ Vajjiyamāhita rời Sāvatthī vào giữa ngày để đến gặp Đức Phật. Rồi ông nghĩ: "Đây không phải là lúc thích hợp để gặp Đức Phật, vì Ngài đang nhập thất. Và đây cũng không phải là lúc thích hợp để gặp các vị Tỳ-khưu đáng kính, vì họ đang nhập thất. Sao mình không đến thăm tu viện của các du sĩ ngoại đạo?"
@@ -156,8 +152,7 @@ Sau khi Vajjiyamāhita được Đức Phật giáo huấn, khuyến khích, kh�
 Rồi, không lâu sau khi Vajjiyamāhita rời đi, Đức Phật nói với các vị Tỳ-khưu: "Này các Tỳ-khưu, ngay cả một vị Tỳ-khưu lâu ngày ít bụi trong mắt (ý nói người có trí tuệ, ít phiền não) trong giáo pháp và luật này cũng sẽ bác bỏ những du sĩ ngoại đạo đó một cách hợp lý và hoàn toàn như gia chủ Vajjiyamāhita đã làm."
 
 <!--pg-->
-### AN 10.95 Với Uttiya *Uttiyasutta*{#95}
-
+### AN 10.95 Với Uttiya *Uttiyasutta* {#95}
 Bấy giờ, du sĩ Uttiya đến gặp Đức Phật và trao đổi lời chào hỏi với Ngài.
 
 Khi những lời chào hỏi và cuộc trò chuyện lịch sự kết thúc, ông ngồi xuống một bên và nói với Đức Phật: "Thưa ngài Gotama, có đúng là: 'Vũ trụ là thường hằng. Chỉ có điều này là sự thật, ngoài ra đều vô ích' không?"
@@ -187,8 +182,7 @@ Rồi Tôn giả Ānanda nói với du sĩ Uttiya: "Này Tôn giả Uttiya, tôi
 Cũng vậy, Như Lai không bận tâm liệu toàn bộ thế giới có được cứu độ bằng cách này, hay một nửa, hay một phần ba. Nhưng Như Lai biết rằng bất cứ ai được cứu độ khỏi thế gian---dù trong quá khứ, tương lai, hay hiện tại---tất cả đều đã từ bỏ *năm triền cái* (five hindrances / năm chướng ngại tinh thần: tham dục, sân hận, hôn trầm-thụy miên, trạo cử-hối quá, nghi), những ô nhiễm của tâm làm suy yếu trí tuệ. Họ đã thiết lập vững chắc tâm mình trong *Tứ Niệm Xứ* (four kinds of mindfulness meditation / bốn lĩnh vực quán niệm: thân, thọ, tâm, pháp). Và họ đã thực sự phát triển *thất giác chi* (seven awakening factors / bảy yếu tố giác ngộ: niệm, trạch pháp, tinh tấn, hỷ, khinh an, định, xả). Đó là cách họ được cứu độ khỏi thế gian, trong quá khứ, tương lai, hay hiện tại. Uttiya, ngài vừa hỏi Đức Phật cùng một câu hỏi như trước đây nhưng theo một cách khác. Đó là lý do tại sao Ngài không trả lời."
 
 <!--pg-->
-### AN 10.96 Với Kokanada *Kokanudasutta*{#96}
-
+### AN 10.96 Với Kokanada *Kokanudasutta* {#96}
 Một thời Tôn giả Ānanda trú gần Rājagaha, tại Tu viện Suối Nước Nóng. Bấy giờ, Tôn giả Ānanda thức dậy lúc rạng đông và đến suối nước nóng để tắm. Sau khi tắm xong và lên khỏi mặt nước, ngài đứng mặc một y để làm khô chân tay. Du sĩ Kokanada cũng thức dậy lúc rạng đông và đến suối nước nóng để tắm.
 
 Ông thấy Tôn giả Ānanda từ xa đi tới và nói với ngài: "Ai ở đây vậy, thưa tôn giả?"
@@ -234,8 +228,7 @@ Tôi biết và thấy phạm vi của các xác tín, phạm vi của các cơ 
 "Trời ơi! Tôi không hề biết mình đang tham vấn một bậc thầy vĩ đại như Tôn giả Ānanda! Nếu tôi biết ngài là ai, tôi đã không nói nhiều như vậy. Xin Tôn giả Ānanda hãy tha thứ cho tôi."
 
 <!--pg-->
-### AN 10.97 Xứng Đáng Nhận Lễ Vật Cúng Dường *Āhuneyyasutta*{#97}
-
+### AN 10.97 Xứng Đáng Nhận Lễ Vật Cúng Dường *Āhuneyyasutta* {#97}
 "Này các Tỷ-kheo, một vị Tỷ-kheo có mười phẩm chất thì xứng đáng được cúng dường (*āhuneyya* / xứng đáng được cúng dường), xứng đáng được nghênh đón, xứng đáng nhận vật phẩm cúng dường, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng ở đời. Mười phẩm chất ấy là gì?
 
 Đó là khi một vị Tỷ-kheo có *giới đức* (ethical conduct / hành vi đạo đức), được hộ trì bởi sự thu thúc của giới bổn Ba-la-đề-mộc-xoa (*Pātimokkha saṁvarasaṁvuto* / được hộ trì bởi sự thu thúc của giới bổn Ba-la-đề-mộc-xoa), có đầy đủ oai nghi và nơi hành xứ thích hợp, thấy sự nguy hiểm trong những lỗi nhỏ nhặt nhất, chấp nhận và thực hành các học giới.
@@ -261,8 +254,7 @@ Vị ấy chứng ngộ tâm giải thoát không còn lậu hoặc và tuệ gi
 Một vị Tỷ-kheo có mười phẩm chất này thì xứng đáng được cúng dường, xứng đáng được nghênh đón, xứng đáng nhận vật phẩm cúng dường, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng ở đời."
 
 <!--pg-->
-### AN 10.98 Một Vị Tỷ-kheo Trưởng Lão *Therasutta*{#98}
-
+### AN 10.98 Một Vị Tỷ-kheo Trưởng Lão *Therasutta* {#98}
 "Này các Tỷ-kheo, một vị Tỷ-kheo trưởng lão có mười phẩm chất thì sống thoải mái ở bất cứ vùng nào vị ấy ở. Mười phẩm chất ấy là gì?
 
 Vị ấy là trưởng lão, có tuổi hạ cao, xuất gia đã lâu.
@@ -288,8 +280,7 @@ Vị ấy chứng ngộ tâm giải thoát không còn lậu hoặc và tuệ gi
 Một vị Tỷ-kheo trưởng lão có mười phẩm chất này thì sống thoải mái ở bất cứ vùng nào vị ấy ở."
 
 <!--pg-->
-### AN 10.99 Với Upāli *Upālisutta*{#99}
-
+### AN 10.99 Với Upāli *Upālisutta* {#99}
 Bấy giờ, Tôn giả Upāli đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài: "Bạch Thế Tôn, con muốn thường xuyên lui tới những trú xứ xa xôi hẻo lánh trong rừng núi."
 
 "Upāli, những trú xứ xa xôi hẻo lánh trong rừng núi rất thử thách. Khó để duy trì *sự độc cư* (seclusion / sống một mình, xa lánh) và khó tìm thấy niềm vui trong đó. Sống một mình, rừng núi dường như cướp đi tâm trí của một vị Tỳ-khưu không nhập định. Nếu ai đó nói rằng: 'Mặc dù ta không có định, ta sẽ thường xuyên lui tới những trú xứ xa xôi hẻo lánh trong rừng núi.' Con có thể đoán rằng họ sẽ chìm xuống hoặc trôi giạt (ý nói thất bại trong tu tập).
@@ -389,8 +380,7 @@ Con nghĩ sao, Upāli? Trạng thái này có tốt hơn những gì họ đã c
 "Khi các đệ tử của Ta thấy phẩm chất này bên trong mình, họ thường xuyên lui tới những trú xứ xa xôi hẻo lánh trong rừng núi. Và họ đã đạt được mục tiêu của mình. Thôi nào, Upāli, hãy ở lại với Tăng đoàn. Nếu con ở lại với Tăng đoàn, con sẽ được thoải mái."
 
 <!--pg-->
-### AN 10.100 Không Thể *Abhabbasutta*{#100}
-
+### AN 10.100 Không Thể *Abhabbasutta* {#100}
 "Này các Tỳ-khưu, không từ bỏ mười điều, các ông không thể chứng đắc *A-la-hán quả* (perfection / sự hoàn thiện, trạng thái giải thoát cuối cùng). Mười điều nào? *Tham lam* (greed / lòng ham muốn), *tức giận* (hate / *sân hận*), *si mê* (delusion / sự mê mờ, không sáng suốt), *phẫn nộ* (anger / sự giận dữ), *hiềm hận* (acrimony / sự cay nghiệt, oán giận), *gièm pha* (disdain / sự khinh miệt, coi thường), *khinh thường* (contempt / sự coi rẻ), *ganh tỵ* (jealousy / sự đố kỵ), *keo kiệt* (stinginess / sự bủn xỉn), và *kiêu mạn* (conceit / sự tự cao tự đại). Không từ bỏ mười điều này, các ông không thể chứng đắc A-la-hán quả.
 
 Sau khi từ bỏ mười điều, các ông có thể chứng đắc A-la-hán quả. Mười điều nào? Tham lam, tức giận, si mê, phẫn nộ, hiềm hận, gièm pha, khinh thường, ganh tỵ, keo kiệt, và kiêu mạn. Sau khi từ bỏ mười điều này, các ông có thể chứng đắc A-la-hán quả."

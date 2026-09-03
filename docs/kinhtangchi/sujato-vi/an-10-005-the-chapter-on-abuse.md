@@ -1,7 +1,6 @@
 # Phẩm Về Sự Lạm Dụng
 
-### AN 10.41 Tranh Luận *Vivādasutta*{#41}
-
+### AN 10.41 Tranh Luận *Vivādasutta* {#41}
 Khi ấy, Tôn giả Upāli đến gần Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
 
 "Bạch Thế Tôn, do đâu, vì sao mà tranh luận, cãi vã, và tranh chấp khởi lên trong *Tăng đoàn* (Saṅgha / cộng đồng tu sĩ Phật giáo), và các *tỳ kheo* (mendicants / vị tu sĩ khất thực) không sống an lạc?"
@@ -9,21 +8,18 @@ Khi ấy, Tôn giả Upāli đến gần Đức Phật, đảnh lễ, rồi ng�
 "Này Upāli, ấy là khi một vị tỳ kheo giải thích điều không phải là *pháp* (teaching / lời dạy của Đức Phật) thành pháp, và điều là pháp thành không phải là pháp. Họ giải thích điều không phải là *luật* (training / giới luật và các quy tắc tu tập) thành luật, và điều là luật thành không phải là luật. Họ giải thích điều không được *Như Lai* (Realized One / bậc đã chứng ngộ, một danh xưng của Đức Phật) nói và tuyên bố thành điều được Như Lai nói và tuyên bố, và điều được Như Lai nói và tuyên bố thành điều không được Như Lai nói và tuyên bố. Họ giải thích điều không được Như Lai thực hành thành điều được Như Lai thực hành, và điều được Như Lai thực hành thành điều không được Như Lai thực hành. Họ giải thích điều không được Như Lai quy định thành điều được Như Lai quy định, và điều được Như Lai quy định thành điều không được Như Lai quy định. Đây là nguyên nhân, đây là lý do khiến tranh luận, cãi vã, và tranh chấp khởi lên trong Tăng đoàn, và các tỳ kheo không sống an lạc."
 
 <!--pg-->
-### AN 10.42 Căn Nguyên Của Tranh Luận (1) *Paṭhamavivādamūlasutta*{#42}
-
+### AN 10.42 Căn Nguyên Của Tranh Luận (1) *Paṭhamavivādamūlasutta* {#42}
 "Bạch Thế Tôn, có bao nhiêu căn nguyên của tranh luận?"
 
 "Này Upāli, có mười căn nguyên của tranh luận. Mười điều đó là gì? Ấy là khi một vị tỳ kheo giải thích điều không phải là pháp thành pháp, và điều là pháp thành không phải là pháp. Họ giải thích điều không phải là luật thành luật, và điều là luật thành không phải là luật. Họ giải thích điều không được Như Lai nói và tuyên bố thành điều được Như Lai nói và tuyên bố, và điều được Như Lai nói và tuyên bố thành điều không được Như Lai nói và tuyên bố. Họ giải thích điều không được Như Lai thực hành thành điều được Như Lai thực hành, và điều được Như Lai thực hành thành điều không được Như Lai thực hành. Họ giải thích điều không được Như Lai quy định thành điều được Như Lai quy định, và điều được Như Lai quy định thành điều không được Như Lai quy định. Đây là mười căn nguyên của tranh luận."
 
-### AN 10.43 Căn Nguyên Của Tranh Luận (2) *Dutiyavivādamūlasutta*{#43}
-
+### AN 10.43 Căn Nguyên Của Tranh Luận (2) *Dutiyavivādamūlasutta* {#43}
 "Bạch Thế Tôn, có bao nhiêu căn nguyên của tranh luận?"
 
 "Này Upāli, có mười căn nguyên của tranh luận. Mười điều đó là gì? Đó là khi một vị tỳ kheo giải thích điều không phải là *phi phạm* (offense / điều vi phạm giới luật) thành phi phạm, và điều là phi phạm thành không phải là phi phạm. Họ giải thích một phi phạm nhẹ thành một phi phạm nặng, và một phi phạm nặng thành một phi phạm nhẹ. Họ giải thích một phi phạm phạm phải với *ý đồ xấu xa* (corrupt intention / ý định không trong sạch, bất thiện) thành một phi phạm không phạm phải với ý đồ xấu xa, và một phi phạm không phạm phải với ý đồ xấu xa thành một phi phạm phạm phải với ý đồ xấu xa. Họ giải thích một phi phạm cần *sự sám hối phục hồi* (rehabilitation / quá trình sửa chữa lỗi lầm và phục hồi giới thể) thành một phi phạm không cần sự sám hối phục hồi, và một phi phạm không cần sự sám hối phục hồi thành một phi phạm cần sự sám hối phục hồi. Họ giải thích một phi phạm có *sự sửa chữa* (redress / hành động khắc phục, đền bù lỗi lầm) thành một phi phạm không có sự sửa chữa, và một phi phạm không có sự sửa chữa thành một phi phạm có sự sửa chữa. Đây là mười căn nguyên của tranh luận."
 
 <!--pg-->
-### AN 10.44 Tại Kusinārā *Kusinārasutta*{#44}
-
+### AN 10.44 Tại Kusinārā *Kusinārasutta* {#44}
 Một thời Đức Phật trú gần Kusinārā, trong Rừng Dâng Cúng. Tại đây, Đức Phật gọi các tỳ kheo: "Này các tỳ kheo!"
 
 "Bạch Thế Tôn," họ đáp. Đức Phật nói điều này:
@@ -41,8 +37,7 @@ Hơn nữa, một vị tỳ kheo muốn khiển trách người khác nên kiể
 Năm điều nào họ nên tự thiết lập? ‘Ta sẽ nói đúng lúc, không nói sai lúc. Ta sẽ nói thật, không nói dối. Ta sẽ nói lời hòa nhã, không nói lời thô ác. Ta sẽ nói lời lợi ích, không nói lời vô ích. Ta sẽ nói với tâm từ, không phải từ *sân hận ngấm ngầm* (secret hate / lòng căm ghét che giấu).’ Đây là năm điều họ nên tự thiết lập. Một vị tỳ kheo muốn khiển trách người khác trước tiên nên tự kiểm tra năm điều này và tự thiết lập năm điều này."
 
 <!--pg-->
-### AN 10.45 Vào Cung Vua *Rājantepurappavesanasutta*{#45}
-
+### AN 10.45 Vào Cung Vua *Rājantepurappavesanasutta* {#45}
 "Này các tỳ kheo, có mười điều bất lợi khi vào cung vua. Mười điều đó là gì?
 
 Thứ nhất, một vị vua đang ngồi với hoàng hậu khi một vị sư vào. Khi hoàng hậu thấy vị sư, bà mỉm cười, hoặc khi vị sư thấy hoàng hậu, ông mỉm cười. Nhà vua liền nghĩ: ‘Chắc chắn họ đã làm chuyện đó rồi, hoặc họ sẽ làm.’ Đây là điều bất lợi thứ nhất khi vào cung vua.
@@ -68,8 +63,7 @@ Hơn nữa, trong cung vua có sự giẫm đạp của voi, ngựa, và xe ng�
 Đây là mười điều bất lợi khi vào cung vua."
 
 <!--pg-->
-### AN 10.46 Với Dòng Họ Thích Ca *Sakkasutta*{#46}
-
+### AN 10.46 Với Dòng Họ Thích Ca *Sakkasutta* {#46}
 Một thời Đức Phật trú tại xứ của dòng họ Thích Ca, gần Ca-tỳ-la-vệ, trong Tu viện Cây Bàng. Khi ấy, vào *ngày trai giới* (sabbath / ngày Bát quan trai, ngày tu tập đặc biệt của cư sĩ), một vài *cư sĩ tại gia* (lay followers / Phật tử tại gia) dòng Thích Ca đến gần Đức Phật, đảnh lễ, rồi ngồi xuống một bên. Đức Phật nói với họ:
 
 "Này các vị Thích Ca, quý vị có giữ ngày trai giới với *tám yếu tố* (eight factors / tám giới của ngày Bát quan trai) của nó không?"
@@ -109,8 +103,7 @@ Huống nữa là hai ngày, hãy xem một đệ tử của Ta, người sống
 "Bạch Thế Tôn, kể từ hôm nay, chúng con sẽ giữ ngày trai giới với tám yếu tố của nó."
 
 <!--pg-->
-### AN 10.47 Với Mahāli *Mahālisutta*{#47}
-
+### AN 10.47 Với Mahāli *Mahālisutta* {#47}
 Một thời Đức Phật trú gần Vesālī, tại Rừng Lớn, trong giảng đường có mái nhọn. Khi ấy, Mahāli người Licchavi đến gần Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
 
 "Bạch Thế Tôn, do đâu, vì sao lại làm *ác nghiệp* (bad deeds / hành động xấu ác), lại thực hiện ác nghiệp?"
@@ -122,8 +115,7 @@ Một thời Đức Phật trú gần Vesālī, tại Rừng Lớn, trong giản
 "Này Mahāli, *thiểu dục tri túc* (contentment / ít ham muốn, biết đủ) là một nguyên nhân, thiểu dục tri túc là một lý do để làm thiện nghiệp, để thực hiện thiện nghiệp. *Từ ái* (love / lòng thương yêu, nhân ái) là một nguyên nhân của thiện nghiệp... *Minh* (understanding / sự hiểu biết sáng suốt, trí tuệ) là một nguyên nhân của thiện nghiệp... *Như lý tác ý* (apply the mind rationally / suy tư với trí tuệ) là một nguyên nhân của thiện nghiệp... *Tâm hướng chánh* (rightly directed mind / tâm ý hướng về điều đúng đắn) là một nguyên nhân của thiện nghiệp... Đây là nguyên nhân, này Mahāli, đây là lý do để làm thiện nghiệp, để thực hiện thiện nghiệp. Nếu mười điều này không có mặt trên đời, chúng ta sẽ không thấy *hành vi vô đạo đức và phi luân* (unprincipled and immoral conduct / cách cư xử không theo nguyên tắc đạo lý và trái với luân thường), cũng như *hành vi có đạo đức và hợp luân lý* (principled and moral conduct / cách cư xử theo nguyên tắc đạo lý và phù hợp luân thường). Nhưng vì mười điều này có mặt trên đời, nên chúng ta thấy cả hành vi vô đạo đức và phi luân, lẫn hành vi có đạo đức và hợp luân lý."
 
 <!--pg-->
-### AN 10.48 Mười Điều Quán Xét Thường Xuyên Của Người Xuất Gia *Pabbajitaabhiṇhasutta*{#48}
-
+### AN 10.48 Mười Điều Quán Xét Thường Xuyên Của Người Xuất Gia *Pabbajitaabhiṇhasutta* {#48}
 "Này các tỳ kheo, người đã *xuất gia* (gone forth / từ bỏ đời sống thế tục để tu hành) nên thường xuyên quán xét mười điều này. Mười điều đó là gì?
 
 Người đã xuất gia nên thường xuyên quán xét điều này: ‘Ta đã đạt được sự tự do thoát khỏi giai cấp.’
@@ -149,13 +141,11 @@ Người đã xuất gia nên thường xuyên quán xét điều này: ‘Ta đ
 Người đã xuất gia nên thường xuyên quán xét mười điều này."
 
 <!--pg-->
-### AN 10.49 Tồn Tại Do Thân *Sarīraṭṭhadhammasutta*{#49}
-
+### AN 10.49 Tồn Tại Do Thân *Sarīraṭṭhadhammasutta* {#49}
 "Này các tỳ kheo, mười điều này tồn tại do thân. Mười điều đó là gì? Lạnh, nóng, đói, khát, phân, nước tiểu, *sự thu thúc thân, khẩu, và mạng sống* (restraint of body, speech, and livelihood / sự kiểm soát hành vi thân thể, lời nói và cách nuôi mạng), và *ý muốn sinh tồn đưa đến tái sinh* (will to live that leads to future lives / khát vọng sống tiếp tục dẫn đến các kiếp sau). Mười điều này tồn tại do thân."
 
 <!--pg-->
-### AN 10.50 Tranh Luận *Bhaṇḍanasutta*{#50}
-
+### AN 10.50 Tranh Luận *Bhaṇḍanasutta* {#50}
 Một thời Đức Phật trú gần Sāvatthī, trong Rừng Jeta, Tu viện của Anāthapiṇḍika. Lúc bấy giờ, sau bữa ăn, khi đi khất thực về, một vài vị tỳ kheo ngồi cùng nhau trong *giảng đường* (assembly hall / nơi hội họp, thuyết pháp). Họ đang tranh luận, cãi vã, và tranh chấp, làm tổn thương nhau bằng *lời nói sắc nhọn* (barbed words / lời lẽ cay độc, gây tổn thương).
 
 Rồi vào cuối buổi chiều, Đức Phật ra khỏi *thiền định độc cư* (retreat / thời gian tĩnh tu, nhập thất) và đi đến giảng đường. Ngài ngồi xuống trên chỗ đã soạn sẵn, và gọi các tỳ kheo: "Này các tỳ kheo, các con vừa ngồi nói chuyện gì vậy? Câu chuyện nào còn dang dở?"

@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương Một
 
-### SN 6.1 Lời Thỉnh Cầu của Phạm Thiên *Brahmāyācanasutta*{#1}
-
+### SN 6.1 Lời Thỉnh Cầu của Phạm Thiên *Brahmāyācanasutta* {#1}
 Như vầy tôi nghe. Một thời, khi ngài mới giác ngộ,
 Đức Phật đang ở tại Uruvelā, dưới gốc cây
 bàng của người chăn dê, bên bờ sông Nerañjarā.
@@ -75,8 +74,7 @@ Khi đã thấy vậy, ngài đáp lại Phạm thiên Sahampati bằng một b�
 Khi ấy, Phạm thiên Sahampati, biết rằng lời thỉnh cầu của mình để Đức Phật thuyết giảng Chánh pháp đã được chấp thuận, liền cúi lạy và đi quanh Đức Phật theo chiều kim đồng hồ, trước khi biến mất ngay tại đó.
 
 <!--pg-->
-### SN 6.2 Sự Tôn Kính *Gāravasutta*{#2}
-
+### SN 6.2 Sự Tôn Kính *Gāravasutta* {#2}
 Như vầy tôi nghe. Một thời, khi ngài mới giác ngộ,
 Đức Phật đang ở tại Uruvelā, dưới gốc cây
 bàng của người chăn dê, bên bờ sông Nerañjarā.
@@ -117,8 +115,7 @@ Khi ấy, Phạm thiên Sahampati biết được suy nghĩ của Đức Phật.
 > ghi nhớ lời dạy của Chư Phật."
 
 <!--pg-->
-### SN 6.3 Cùng với Brahmadeva *Brahmadevasutta*{#3}
-
+### SN 6.3 Cùng với Brahmadeva *Brahmadevasutta* {#3}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần
 Sāvatthī, tại Tịnh xá Anāthapiṇḍika trong
 Rừng Jeta.
@@ -182,8 +179,7 @@ Rồi, nhanh như một người mạnh duỗi hay co cánh tay, vị ấy biế
 > đã tạo phước đức vì hạnh phúc tương lai.
 
 <!--pg-->
-### SN 6.4 Cùng với Phạm Thiên Baka *Bakabrahmasutta*{#4}
-
+### SN 6.4 Cùng với Phạm Thiên Baka *Bakabrahmasutta* {#4}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần
 Sāvatthī, tại Tịnh xá Anāthapiṇḍika trong
 Rừng Jeta.
@@ -246,8 +242,7 @@ Khi vị ấy nói xong, Đức Phật nói với vị ấy: "Than ôi, Phạm t
 > chiếu sáng cả cõi trời Phạm thiên."
 
 <!--pg-->
-### SN 6.5 Một Vị Phạm Thiên Nào Đó *Aññatarabrahmasutta*{#5}
-
+### SN 6.5 Một Vị Phạm Thiên Nào Đó *Aññatarabrahmasutta* {#5}
 Tại Sāvatthī.
 
 Lúc bấy giờ, một vị Phạm thiên nào đó có tà kiến như sau: "Không có sa-môn hay bà-la-môn nào có thể đến đây!"
@@ -304,8 +299,7 @@ Khi ấy, thành viên tùy tùng của vị Phạm thiên đó, sau khi tán th
 Đó là những gì thành viên tùy tùng của vị Phạm thiên đó đã nói. Hài lòng, vị Phạm thiên đó đã tán thành những gì thành viên tùy tùng của mình nói.
 
 <!--pg-->
-### SN 6.6 Vị Phạm Thiên Sao Nhãng *Brahmalokasutta*{#6}
-
+### SN 6.6 Vị Phạm Thiên Sao Nhãng *Brahmalokasutta* {#6}
 Tại Sāvatthī.
 
 Lúc bấy giờ, Đức Phật đã nhập thất để thiền định ban ngày.
@@ -354,8 +348,7 @@ Subrahmā và Suddhāvāsa biến mất ngay tại đó.
 Và sau một thời gian, vị Phạm thiên đó đã đến hầu cận Đức Phật.
 
 <!--pg-->
-### SN 6.7 Về Kokālika *Kokālikasutta*{#7}
-
+### SN 6.7 Về Kokālika *Kokālikasutta* {#7}
 Tại Sāvatthī.
 
 Lúc bấy giờ, Đức Phật đã nhập thất để thiền định ban ngày. Khi ấy, các vị trời độc lập Subrahmā và
@@ -370,8 +363,7 @@ Kokālika trước sự hiện diện của Đức Phật:
 > hẳn là một kẻ phàm phu, bị vô minh che lấp."
 
 <!--pg-->
-### SN 6.8 Về Katamorakatissaka *Katamodakatissasutta*{#8}
-
+### SN 6.8 Về Katamorakatissaka *Katamodakatissasutta* {#8}
 Tại Sāvatthī.
 
 Lúc bấy giờ, Đức Phật đã nhập thất để thiền định ban ngày. Khi ấy, các vị trời độc lập Subrahmā và
@@ -386,8 +378,7 @@ Katamorakatissaka trước sự hiện diện của Đức Phật:
 > hẳn là một kẻ ngu ngốc, bị vô minh che lấp."
 
 <!--pg-->
-### SN 6.9 Cùng với Phạm Thiên Tudu *Turūbrahmasutta*{#9}
-
+### SN 6.9 Cùng với Phạm Thiên Tudu *Turūbrahmasutta* {#9}
 Tại Sāvatthī.
 
 Lúc bấy giờ, Tỷ kheo Kokālika đang bị bệnh,
@@ -426,8 +417,7 @@ Moggallāna, họ là những vị sư tốt."
 > vì đã nhắm những lời nói và suy nghĩ xấu xa vào họ."
 
 <!--pg-->
-### SN 6.10 Cùng với Kokālika *Kokālikasutta*{#10}
-
+### SN 6.10 Cùng với Kokālika *Kokālikasutta* {#10}
 Tại Sāvatthī.
 
 Khi ấy, Tỷ kheo Kokālika đến gặp Đức Phật, cúi lạy,
@@ -505,8 +495,7 @@ Tỷ kheo Kokālika đã tái sinh vào địa ngục Sen Hồng vì lòng oán 
 <!--pg-->
 ## Chương Hai
 
-### SN 6.11 Cùng với Sanaṅkumāra *Sanaṅkumārasutta*{#11}
-
+### SN 6.11 Cùng với Sanaṅkumāra *Sanaṅkumārasutta* {#11}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần
 Rājagaha, bên bờ sông Sappinī.
 
@@ -520,8 +509,7 @@ Khi ấy, vào lúc đêm khuya, vị trời xinh đẹp Sanaṅkumāra, chiếu
 Đó là những gì vị trời Sanaṅkumāra đã nói, và bậc Đạo Sư đã tán thành. Khi ấy, vị trời Sanaṅkumāra, biết rằng bậc Đạo Sư đã tán thành, liền cúi lạy và đi quanh Đức Phật theo chiều kim đồng hồ, trước khi biến mất ngay tại đó.
 
 <!--pg-->
-### SN 6.12 Về Devadatta *Devadattasutta*{#12}
-
+### SN 6.12 Về Devadatta *Devadattasutta* {#12}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần
 Rājagaha, trên núi Linh Thứu, không lâu sau
 khi Devadatta đã rời đi.
@@ -534,8 +522,7 @@ Khi ấy, vào lúc đêm khuya, Phạm thiên Sahampati xinh đẹp, chiếu s�
 > như việc mang thai hủy hoại con la."
 
 <!--pg-->
-### SN 6.13 Tại Andhakavinda *Andhakavindasutta*{#13}
-
+### SN 6.13 Tại Andhakavinda *Andhakavindasutta* {#13}
 Một thời Đức Phật đang ở tại xứ Magadha, tại
 Andhakavinda.
 
@@ -574,8 +561,7 @@ Khi ấy, vào lúc đêm khuya, Phạm thiên Sahampati xinh đẹp, chiếu s�
 > vì sợ nói sai sự thật."
 
 <!--pg-->
-### SN 6.14 Về Aruṇavatī *Aruṇavatīsutta*{#14}
-
+### SN 6.14 Về Aruṇavatī *Aruṇavatīsutta* {#14}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần
 Sāvatthī. Ở đó, ngài nói với các Tỷ kheo: "Này các Tỷ kheo!"
 
@@ -669,8 +655,7 @@ trời Phạm thiên.'"
 Đức Phật nói.
 
 <!--pg-->
-### SN 6.15 Đại Bát Niết Bàn *Parinibbānasutta*{#15}
-
+### SN 6.15 Đại Bát Niết Bàn *Parinibbānasutta* {#15}
 Một thời, Đức Phật đang ở giữa hai cây sala trong
 rừng sala của người Malla tại Upavattana gần Kusinārā vào
 thời điểm ngài nhập *Đại Bát Niết-bàn* (full extinguishment / sự tịch diệt hoàn toàn).

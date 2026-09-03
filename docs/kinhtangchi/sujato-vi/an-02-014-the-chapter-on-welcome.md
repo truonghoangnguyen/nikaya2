@@ -1,7 +1,6 @@
 # Phẩm Tiếp Đãi
 
-### AN 2.151--162 *Santhāravagga*{#151-162}
-
+### AN 2.151--162 *Santhāravagga* {#151-162}
 151\. "Có hai loại *tiếp đãi* (welcome / sự chào đón, tiếp đãi) này. Thế nào là hai? Tiếp đãi bằng *tài vật* (things of the flesh / vật chất, lợi dưỡng) và tiếp đãi bằng *Pháp* (teaching / Giáo Pháp, lời dạy của Đức Phật). Đây là hai loại tiếp đãi. Trong hai loại tiếp đãi này, tiếp đãi bằng Pháp là cao thượng hơn."
 
 152\. "Có hai loại *nhiếp thọ* (hospitality / sự giúp đỡ, thu phục) này. Thế nào là hai? Nhiếp thọ bằng tài vật và nhiếp thọ bằng Pháp. Đây là hai loại nhiếp thọ. Trong hai loại nhiếp thọ này, nhiếp thọ bằng Pháp là cao thượng hơn."

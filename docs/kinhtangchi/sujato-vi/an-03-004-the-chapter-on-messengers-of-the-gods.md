@@ -1,7 +1,6 @@
 # Phẩm về Sứ Giả Chư Thiên
 
-### AN 3.31 Với Phạm Thiên *Sabrahmakasutta*{#31}
-
+### AN 3.31 Với Phạm Thiên *Sabrahmakasutta* {#31}
 Này các Tỳ-kheo, một gia đình mà con cái biết tôn kính cha mẹ trong nhà mình được xem là sống cùng với *Phạm Thiên* (divinity/brahmā). Một gia đình mà con cái biết tôn kính cha mẹ trong nhà mình được xem là sống cùng với các vị thầy đầu tiên. Một gia đình mà con cái biết tôn kính cha mẹ trong nhà mình được xem là sống cùng với những người đáng nhận lễ vật cúng dường chư thiên.
 
 'Phạm Thiên' là một danh từ chỉ cha mẹ các con.
@@ -31,8 +30,7 @@ Tại sao vậy? Cha mẹ giúp đỡ con cái rất nhiều, họ nuôi nấng,
 > và sau khi chết, họ vui hưởng trên cõi trời.
 
 <!--pg-->
-### AN 3.32 Với Ānanda *Ānandasutta*{#32}
-
+### AN 3.32 Với Ānanda *Ānandasutta* {#32}
 Khi ấy, Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên và bạch Đức Phật:
 
 "Bạch Thế Tôn, liệu có thể nào một vị Tỳ-kheo đạt được một *trạng thái nhập định* (state of immersion/samādhi) đến mức không còn *tạo ra cái tôi* (I-making/ahaṅkāra), *tạo ra cái của tôi* (mine-making/mamaṅkāra), hay *khuynh hướng ngầm của ngã mạn* (underlying tendency to conceit/mānānusaya) đối với *thân có thức* (conscious body/saviññāṇaka kāya) này; và không còn tạo ra cái tôi, tạo ra cái của tôi, hay khuynh hướng ngầm của ngã mạn đối với tất cả *kích thích bên ngoài* (external stimuli/bahiddhā nimitta); và vị ấy sống, đã đạt được *tâm giải thoát* (freedom of heart/cetovimutti) và *tuệ giải thoát* (freedom by wisdom/paññāvimutti), nơi mà tạo ra cái tôi, tạo ra cái của tôi, và khuynh hướng ngầm của ngã mạn không còn nữa không?"
@@ -54,8 +52,7 @@ Và này Ānanda, đây là điều Ta đã đề cập trong 'Con Đường đ�
 > họ đã vượt qua tái sinh và tuổi già, Ta tuyên bố.'"
 
 <!--pg-->
-### AN 3.33 Với Sāriputta *Sāriputtasutta*{#33}
-
+### AN 3.33 Với Sāriputta *Sāriputtasutta* {#33}
 Khi ấy, Tôn giả Sāriputta đi đến chỗ Đức Phật, đảnh lễ và ngồi xuống một bên. Đức Phật nói với ông: "Có lẽ Ta sẽ giảng Pháp tóm tắt, có lẽ chi tiết, có lẽ cả tóm tắt lẫn chi tiết. Nhưng thật khó tìm được người hiểu."
 
 "Bạch Thế Tôn, nay là thời điểm thích hợp! Bạch Đấng Thiện Thệ, nay là thời điểm thích hợp! Xin Đức Phật hãy giảng Pháp tóm tắt, chi tiết, và cả tóm tắt lẫn chi tiết. Sẽ có những người hiểu được giáo pháp!"
@@ -77,8 +74,7 @@ Và này Sāriputta, đây là điều Ta đã đề cập trong 'Con Đường 
 > sự đập tan *vô minh* (ignorance/avijjā).'"
 
 <!--pg-->
-### AN 3.34 Các Nguồn Gốc *Nidānasutta*{#34}
-
+### AN 3.34 Các Nguồn Gốc *Nidānasutta* {#34}
 "Này các Tỳ-kheo, có ba nguồn gốc này làm phát sinh *hành động* (deeds/kamma). Ba nguồn gốc nào? *Tham lam* (Greed/lobha), *sân hận* (hate/dosa), và *si mê* (delusion/moha) là những nguồn gốc làm phát sinh hành động.
 
 Bất kỳ hành động nào phát sinh từ tham lam---sinh ra, có nguồn gốc, và bắt nguồn từ tham lam---sẽ chín muồi ở nơi mà sự tái sinh mới đó được sinh ra. Và bất cứ nơi nào hành động đó chín muồi, kết quả của nó sẽ được trải nghiệm---hoặc trong đời sống hiện tại, hoặc trong đời sống kế tiếp, hoặc trong một giai đoạn nào đó sau này.
@@ -124,8 +120,7 @@ Bất kỳ hành động nào phát sinh từ sự không sân... Bất kỳ hà
 > sẽ loại bỏ mọi cảnh giới xấu."
 
 <!--pg-->
-### AN 3.35 Với Hatthaka *Hatthakasutta*{#35}
-
+### AN 3.35 Với Hatthaka *Hatthakasutta* {#35}
 Tôi nghe như vầy. Một thời Đức Phật trú gần Āḷavī, trên một tấm lót bằng lá cây bên lối đi của bò trong một khu rừng Simsapā (Indian Rosewood).
 
 Khi ấy, Hatthaka ở Āḷavī đang đi dạo thì thấy Đức Phật ngồi trên tấm lót bằng lá cây đó. Ông đến gần Đức Phật, đảnh lễ, ngồi xuống một bên và nói: "Bạch Thế Tôn, con tin rằng Đức Phật đã ngủ ngon?"
@@ -161,8 +156,7 @@ Khi ấy, Hatthaka ở Āḷavī đang đi dạo thì thấy Đức Phật ngồ
 > đã tìm thấy sự bình an trong tâm trí."
 
 <!--pg-->
-### AN 3.36 Sứ Giả Chư Thiên *Devadūtasutta*{#36}
-
+### AN 3.36 Sứ Giả Chư Thiên *Devadūtasutta* {#36}
 "Này các Tỳ-kheo, có ba *sứ giả chư thiên* (messengers of the gods/devadūta) này. Ba vị nào?
 
 Thứ nhất, có người làm điều xấu qua thân, khẩu, ý. Khi thân hoại mạng chung, sau khi chết, họ tái sinh vào *cõi mất mát* (place of loss/apāya), *cõi xấu* (bad place/duggati), *cõi đọa xứ* (underworld/vinipāta), *địa ngục* (hell/niraya). Các *ngục tốt địa ngục* (wardens of hell/nirayapāla) tóm lấy tay họ và dẫn đến trình diện *Vua Yama* (King Yama/Yama Rājā), nói rằng: 'Thưa Đại Vương, người này đã không tôn kính cha mẹ, sa-môn và bà-la-môn, hoặc không tôn trọng những người lớn tuổi trong gia đình. Xin Đại Vương hãy trừng phạt họ!'
@@ -256,8 +250,7 @@ Này, Ta không nói điều này vì đã nghe từ một sa-môn hay bà-la-m�
 > và vượt lên trên mọi khổ đau."
 
 <!--pg-->
-### AN 3.37 Tứ Đại Thiên Vương (1) *Catumahārājasutta*{#37}
-
+### AN 3.37 Tứ Đại Thiên Vương (1) *Catumahārājasutta* {#37}
 "Vào ngày thứ tám của nửa tháng, này các Tỳ-kheo, các vị bộ trưởng và cố vấn của *Tứ Đại Thiên Vương* (four great kings/Cattāro Mahārājāno) đi khắp thế gian, suy nghĩ: 'Hy vọng hầu hết loài người đang tôn kính cha mẹ, sa-môn và bà-la-môn, tôn trọng những người lớn tuổi trong gia đình, tuân thủ và giữ gìn *ngày trai giới* (sabbath/uposatha), và làm các việc công đức.'
 
 Và vào ngày thứ mười bốn của nửa tháng, các con trai của Tứ Đại Thiên Vương đi khắp thế gian, suy nghĩ: 'Hy vọng hầu hết loài người đang tôn kính cha mẹ... và làm các việc công đức.'
@@ -291,8 +284,7 @@ Nhưng đối với một vị Tỳ-kheo là *bậc hoàn thiện* (perfected/ar
 Tại sao vậy? Bởi vì vị Tỳ-kheo đó đã thoát khỏi tham lam, sân hận, và si mê."
 
 <!--pg-->
-### AN 3.38 Tứ Đại Thiên Vương (2) *Dutiyacatumahārājasutta*{#38}
-
+### AN 3.38 Tứ Đại Thiên Vương (2) *Dutiyacatumahārājasutta* {#38}
 "Ngày xưa, này các Tỳ-kheo, Đế Thích, vua của chư thiên, khi hướng dẫn chư thiên cõi Ba Mươi Ba, đã đọc bài kệ này:
 
 > 'Ai muốn được như ta\
@@ -316,8 +308,7 @@ Nhưng đối với một vị Tỳ-kheo là bậc hoàn thiện---đã đoạn 
 Tại sao vậy? Bởi vì vị Tỳ-kheo đó đã thoát khỏi tái sinh, tuổi già, và cái chết, khỏi sầu, bi, khổ, ưu, não. Vị ấy đã thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### AN 3.39 Lối Sống Tinh Tế *Sukhumālasutta*{#39}
-
+### AN 3.39 Lối Sống Tinh Tế *Sukhumālasutta* {#39}
 "Lối sống của Ta rất tinh tế, này các Tỳ-kheo, cực kỳ tinh tế, vô cùng tinh tế.
 
 Trong nhà của phụ thân Ta, người ta đã làm những hồ sen chỉ dành riêng cho Ta. Trong một số hồ, hoa súng xanh nở rộ, trong khi ở những hồ khác, có hoa sen hồng hoặc trắng, chỉ vì lợi ích của Ta. Ta chỉ dùng gỗ đàn hương từ Kāsi. Khăn xếp, áo khoác, xà rông và áo choàng của Ta cũng đến từ Kāsi. Và một cây dù trắng được che trên đầu Ta cả ngày lẫn đêm, với ý nghĩ: 'Đừng để lạnh, nóng, cỏ, bụi, hay ẩm ướt làm phiền hoàng tử.'
@@ -369,8 +360,7 @@ Say sưa với sự kiêu hãnh về tuổi trẻ, sức khỏe, hay sự sống
 > Ta quyết tâm với đời sống phạm hạnh."
 
 <!--pg-->
-### AN 3.40 Quyền Tự Chủ *Ādhipateyyasutta*{#40}
-
+### AN 3.40 Quyền Tự Chủ *Ādhipateyyasutta* {#40}
 "Này các Tỳ-kheo, có ba điều này cần đặt lên hàng đầu. Ba điều nào? Đặt bản thân, thế gian, hoặc giáo pháp lên hàng đầu.
 
 Và này các Tỳ-kheo, thế nào là *đặt bản thân lên hàng đầu* (putting oneself in charge/attādhipateyya)? Đó là khi một vị Tỳ-kheo đã đi đến nơi hoang dã, hoặc gốc cây, hoặc căn lều trống, và suy ngẫm như thế này: 'Ta xuất gia từ đời sống thế tục sang đời sống không nhà không phải vì y phục, thức ăn khất thực, chỗ ở, hay tái sinh vào cảnh giới này hay cảnh giới khác. Mà ta bị nhấn chìm bởi tái sinh, tuổi già, và cái chết; bởi sầu, bi, khổ, ưu, não. Ta bị nhấn chìm bởi khổ đau, sa lầy trong khổ đau. Và ta đã nghĩ: "Hy vọng ta có thể tìm thấy sự chấm dứt cho toàn bộ khối khổ đau này." Nhưng sẽ không thích hợp nếu ta tìm kiếm những thú vui dục lạc giống như những gì ta đã từ bỏ khi xuất gia, hoặc thậm chí tệ hơn.' Sau đó, vị ấy suy ngẫm: 'Năng lượng của ta sẽ được khơi dậy và không mệt mỏi, chánh niệm sẽ được thiết lập và sáng suốt, thân thể ta sẽ yên tĩnh và không bị xáo trộn, và tâm trí ta sẽ nhập vào *định* (samādhi/samādhi).' Đặt bản thân lên hàng đầu, vị ấy từ bỏ điều bất thiện và phát triển điều thiện, từ bỏ điều đáng trách và phát triển điều không đáng trách, và giữ cho mình thanh tịnh. Đây được gọi là đặt bản thân lên hàng đầu.

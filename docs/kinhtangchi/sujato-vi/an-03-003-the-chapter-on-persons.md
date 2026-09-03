@@ -1,7 +1,6 @@
 # Phẩm về Các Hạng Người
 
-### AN 3.21 Với Saviṭṭha (Kinh Samiddha) *Samiddhasutta*{#21}
-
+### AN 3.21 Với Saviṭṭha (Kinh Samiddha) *Samiddhasutta* {#21}
 Tôi nghe như vầy. Một thời Thế Tôn trú ở Sāvatthī, tại Rừng Jeta, vườn ông Anāthapiṇḍika (Cấp Cô Độc).
 
 Bấy giờ, Tôn giả Saviṭṭha và Tôn giả Mahākoṭṭhita đi đến chỗ Tôn giả Sāriputta (Xá-lợi-phất), và chào hỏi Tôn giả.
@@ -31,8 +30,7 @@ Trong vấn đề này, không dễ để tuyên bố một cách dứt khoát r
 Này Sāriputta, trong vấn đề này, không dễ để tuyên bố một cách dứt khoát rằng một trong ba hạng người này là cao quý nhất."
 
 <!--pg-->
-### AN 3.22 Bệnh Nhân (Kinh Bệnh Nhân) *Gilānasutta*{#22}
-
+### AN 3.22 Bệnh Nhân (Kinh Bệnh Nhân) *Gilānasutta* {#22}
 "Có ba hạng bệnh nhân này được tìm thấy ở trên đời. Ba hạng nào?
 
 Trong một số trường hợp, có bệnh nhân sẽ không hồi phục khỏi bệnh tật, dù có hay không có được thức ăn và thuốc men phù hợp, và người chăm sóc có khả năng.
@@ -56,8 +54,7 @@ Này các Tỳ-kheo, chính vì hạng người cuối cùng này mà việc gi�
 Đó là ba hạng người giống như bệnh nhân được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 3.23 Sự Lựa Chọn (Kinh Hành) *Saṅkhārasutta*{#23}
-
+### AN 3.23 Sự Lựa Chọn (Kinh Hành) *Saṅkhārasutta* {#23}
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào?
 
 Thứ nhất, có người *chọn lựa những thứ* (choices/hành) gây đau khổ qua thân, khẩu, và ý. Sau khi theo những lựa chọn này, họ tái sinh vào một thế giới đau khổ, nơi những sự tiếp xúc đau khổ chạm đến họ. Bị chạm bởi những sự tiếp xúc đau khổ, họ trải nghiệm những cảm giác đau khổ hoàn toàn là đau đớn---giống như chúng sinh trong địa ngục.
@@ -69,8 +66,7 @@ Thứ ba, có người chọn lựa cả những sự gây đau khổ lẫn ni�
 Đó là ba hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 3.24 Rất Hữu Ích (Kinh Nhiều Lợi Ích) *Bahukārasutta*{#24}
-
+### AN 3.24 Rất Hữu Ích (Kinh Nhiều Lợi Ích) *Bahukārasutta* {#24}
 "Này các Tỳ-kheo, có ba hạng người này rất hữu ích cho người khác. Ba hạng nào?
 
 Người đã giúp các thầy *quy y* (go for refuge/quy y) Phật, Pháp, và *Tăng đoàn* (Saṅgha/Tăng già). Người này rất hữu ích cho người khác.
@@ -84,8 +80,7 @@ Hơn nữa, người đã giúp các thầy chứng ngộ *sự giải thoát t�
 Và Ta nói rằng không có ai hữu ích cho người khác hơn ba hạng người này. Và Ta cũng nói rằng không dễ để đền đáp công ơn của ba hạng người này bằng cách đảnh lễ họ, đứng dậy chào đón họ, chắp tay chào họ, và giữ đúng lễ nghi đối với họ; hoặc bằng cách cúng dường họ y phục, vật thực khất thực, chỗ ở, và thuốc men cùng vật dụng cho người bệnh."
 
 <!--pg-->
-### AN 3.25 Giống Như Kim Cương (Kinh Kim Cương Dụ) *Vajirūpamasutta*{#25}
-
+### AN 3.25 Giống Như Kim Cương (Kinh Kim Cương Dụ) *Vajirūpamasutta* {#25}
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Người có tâm như vết thương hở, người có tâm như tia chớp, và người có tâm như kim cương.
 
 Và ai là người có tâm như vết thương hở? Đó là người hay cáu kỉnh và nóng nảy. Ngay cả khi bị chỉ trích nhẹ nhàng, họ cũng nổi giận, trở nên bực bội, thù địch, và cứng lòng, và họ biểu lộ sự bực bội, căm ghét, và cay đắng. Họ giống như một vết thương đang mưng mủ, khi bạn dùng gậy hay đá đánh vào, nó càng chảy mủ nhiều hơn. Tương tự như vậy, có người hay cáu kỉnh và nóng nảy. Ngay cả khi bị chỉ trích nhẹ nhàng, họ cũng nổi giận, trở nên bực bội, thù địch, và cứng lòng, và họ biểu lộ sự bực bội, căm ghét, và cay đắng. Đây được gọi là người có tâm như vết thương hở.
@@ -97,8 +92,7 @@ Và ai là người có tâm như kim cương? Đó là người chứng ngộ s
 Đó là ba hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 3.26 Người Nên Gần Gũi (Kinh Thân Cận) *Sevitabbasutta*{#26}
-
+### AN 3.26 Người Nên Gần Gũi (Kinh Thân Cận) *Sevitabbasutta* {#26}
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Có người mà các thầy không nên kết giao, đồng hành, hay phục vụ. Có người mà các thầy nên kết giao, đồng hành, và phục vụ. Có người mà các thầy nên kết giao, đồng hành, và phục vụ với sự tôn kính và tôn trọng.
 
 Ai là người mà các thầy không nên kết giao, đồng hành, hay phục vụ? Đó là người thua kém về *giới hạnh* (ethics/giới), *định tâm* (immersion/định), và *trí tuệ* (wisdom/tuệ). Các thầy không nên kết giao, đồng hành, hay phục vụ một người như vậy, trừ khi vì lòng từ bi và thương xót.
@@ -118,8 +112,7 @@ Ai là người mà các thầy nên kết giao, đồng hành, và phục vụ 
 > Với những người tốt hơn mình."
 
 <!--pg-->
-### AN 3.27 Người Nên Chán Ghét (Kinh Chán Ghét) *Jigucchitabbasutta*{#27}
-
+### AN 3.27 Người Nên Chán Ghét (Kinh Chán Ghét) *Jigucchitabbasutta* {#27}
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Có người mà các thầy nên chán ghét, và không nên kết giao, đồng hành, hay phục vụ họ. Có người mà các thầy nên nhìn với *tâm xả* (equanimity/xả), và không nên kết giao, đồng hành, hay phục vụ họ. Có người mà các thầy nên kết giao, đồng hành, và phục vụ.
 
 Ai là người mà các thầy nên chán ghét, và không kết giao, đồng hành, hay phục vụ? Đó là người không có giới hạnh, có phẩm chất xấu xa, ô uế, hành vi đáng ngờ, lén lút, không phải là *sa-môn* (ascetic/sa-môn) hay *người tu hành chân chính* (spiritual practitioner/phạm hạnh) thực sự---mặc dù tự nhận là như vậy---bên trong thối rữa, mưng mủ, và đồi bại. Các thầy nên chán ghét một người như vậy, và không nên kết giao, đồng hành, hay phục vụ họ. Tại sao vậy? Ngay cả khi các thầy không noi theo gương xấu của người đó, các thầy vẫn bị mang tiếng xấu: 'Người này có bạn bè, người đồng hành, và người giao du xấu.' Họ giống như một con rắn sống trong đống phân. Ngay cả khi nó không cắn, nó vẫn làm bẩn bạn. Tương tự như vậy, ngay cả khi các thầy không noi theo gương xấu của người đó, các thầy vẫn bị mang tiếng xấu: 'Người này có bạn bè, người đồng hành, và người giao du xấu.' Đó là lý do tại sao các thầy nên chán ghét một người như vậy, và không nên kết giao, đồng hành, hay phục vụ họ.
@@ -139,8 +132,7 @@ Ai là người mà các thầy nên kết giao, đồng hành, và phục vụ?
 > Với những người tốt hơn mình."
 
 <!--pg-->
-### AN 3.28 Lời Nói Như Phân (Kinh Lời Nói Như Phân) *Gūthabhāṇīsutta*{#28}
-
+### AN 3.28 Lời Nói Như Phân (Kinh Lời Nói Như Phân) *Gūthabhāṇīsutta* {#28}
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Người có lời nói như phân, người có lời nói như hoa, và người có lời nói như mật.
 
 Và ai là người có lời nói như phân? Đó là người được triệu tập đến một hội đồng, một cuộc họp, một cuộc họp gia đình, một phường hội, hoặc đến triều đình, và được yêu cầu làm chứng: 'Thưa ông, xin hãy nói những gì ông biết.' Không biết, họ nói 'Tôi biết.' Biết, họ nói 'Tôi không biết.' Không thấy, họ nói 'Tôi thấy.' Và thấy, họ nói 'Tôi không thấy.' Vì vậy, họ cố ý nói dối vì lợi ích của bản thân hoặc người khác, hoặc vì một lý do thế tục tầm thường nào đó. Đây được gọi là người có lời nói như phân.
@@ -152,8 +144,7 @@ Và ai là người có lời nói như mật? Đó là người từ bỏ lời
 Đó là ba hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 3.29 Người Mù (Kinh Người Mù) *Andhasutta*{#29}
-
+### AN 3.29 Người Mù (Kinh Người Mù) *Andhasutta* {#29}
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Người mù, người một mắt, và người hai mắt.
 
 Ai là người mù? Đó là người không có loại thị kiến cần thiết để kiếm thêm của cải hoặc để làm tăng trưởng của cải họ đã có. Họ cũng không có loại thị kiến cần thiết để biết sự khác biệt giữa các phẩm chất thiện và bất thiện, đáng trách và không đáng trách, thấp kém và cao thượng, và những phẩm chất thuộc về phía tối tăm và sáng sủa. Đây được gọi là người mù.
@@ -198,8 +189,7 @@ Ai là người hai mắt? Đó là người có loại thị kiến cần thi�
 > Hạng người tốt nhất."
 
 <!--pg-->
-### AN 3.30 Úp Ngược (Kinh Úp Ngược) *Avakujjasutta*{#30}
-
+### AN 3.30 Úp Ngược (Kinh Úp Ngược) *Avakujjasutta* {#30}
 "Có ba hạng người này được tìm thấy ở trên đời. Ba hạng nào? Người có trí tuệ úp ngược, người có trí tuệ trên đùi, và người có trí tuệ rộng khắp.
 
 Và ai là người có trí tuệ úp ngược? Đó là người thường đến tu viện để nghe pháp trước sự hiện diện của các Tỳ-kheo. Các Tỳ-kheo giảng cho họ Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, và tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ rõ ràng. Và các vị ấy trình bày một đời sống tu hành hoàn toàn đầy đủ và thanh tịnh. Nhưng ngay cả khi đang ngồi đó, người ấy không chú tâm vào phần đầu, phần giữa, hay phần cuối của bài pháp. Và khi đứng dậy khỏi chỗ ngồi, họ cũng không chú tâm vào phần đầu, phần giữa, hay phần cuối của bài pháp. Giống như khi một cái nồi đầy nước bị úp ngược, nước chảy hết ra ngoài và không còn lại gì. Tương tự như vậy, có người thường đến tu viện để nghe pháp trước sự hiện diện của các Tỳ-kheo. Các Tỳ-kheo giảng cho họ Pháp tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, và tốt đẹp ở đoạn cuối, có ý nghĩa và lời lẽ rõ ràng. Và các vị ấy trình bày một đời sống tu hành hoàn toàn đầy đủ và thanh tịnh. Nhưng ngay cả khi đang ngồi đó, người ấy không chú tâm vào bài pháp ở phần đầu, phần giữa, hay phần cuối. Và khi đứng dậy khỏi chỗ ngồi, họ cũng không chú tâm vào phần đầu, phần giữa, hay phần cuối của bài pháp. Đây được gọi là người có trí tuệ úp ngược.

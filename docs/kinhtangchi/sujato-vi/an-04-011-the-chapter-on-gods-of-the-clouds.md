@@ -1,7 +1,6 @@
 # Phẩm về Các Vị Trời Mây
 
-### AN 4.101 Mây (1) *Paṭhamavalāhakasutta*{#101}
-
+### AN 4.101 Mây (1) *Paṭhamavalāhakasutta* {#101}
 Như vầy tôi nghe. Một thời Thế Tôn trú ở Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông Anāthapiṇḍika (Cấp Cô Độc). Tại đấy, Thế Tôn gọi các Tỷ kheo: "Này các Tỷ kheo!"
 
 "Bạch Thế Tôn," các vị Tỷ kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
@@ -31,8 +30,7 @@ Và này các Tỷ kheo, thế nào là hạng người vừa sấm vang vừa m
 Này các Tỷ kheo, có bốn hạng người giống như mây này được tìm thấy ở đời."
 
 <!--pg-->
-### AN 4.102 Mây (2) *Dutiyavalāhakasutta*{#102}
-
+### AN 4.102 Mây (2) *Dutiyavalāhakasutta* {#102}
 "Này các Tỷ kheo, có bốn loại mây này. Thế nào là bốn?
 
 1\. Loại chỉ sấm vang mà không mưa,\
@@ -58,8 +56,7 @@ Và này các Tỷ kheo, thế nào là hạng người vừa sấm vang vừa m
 Này các Tỷ kheo, có bốn hạng người giống như mây này được tìm thấy ở đời."
 
 <!--pg-->
-### AN 4.103 Bình *Kumbhasutta*{#103}
-
+### AN 4.103 Bình *Kumbhasutta* {#103}
 "Này các Tỷ kheo, có bốn cái bình này. Thế nào là bốn?
 
 1\. Đậy kín nhưng rỗng không,\
@@ -85,8 +82,7 @@ Và này các Tỷ kheo, thế nào là hạng người đậy kín và đầy? 
 Này các Tỷ kheo, có bốn hạng người giống như bình này được tìm thấy ở đời."
 
 <!--pg-->
-### AN 4.104 Hồ Nước *Udakarahadasutta*{#104}
-
+### AN 4.104 Hồ Nước *Udakarahadasutta* {#104}
 "Này các Tỷ kheo, có bốn hồ nước này. Thế nào là bốn?
 
 1\. Loại cạn mà trông như sâu,\
@@ -112,8 +108,7 @@ Và này các Tỷ kheo, thế nào là hạng người sâu và trông như sâ
 Này các Tỷ kheo, có bốn hạng người giống như hồ nước này được tìm thấy ở đời."
 
 <!--pg-->
-### AN 4.105 Xoài *Ambasutta*{#105}
-
+### AN 4.105 Xoài *Ambasutta* {#105}
 "Này các Tỷ kheo, có bốn loại xoài này. Thế nào là bốn?
 
 1\. Loại sống mà có vẻ chín,\
@@ -141,15 +136,13 @@ Và này các Tỷ kheo, thế nào là hạng người chín và có vẻ chín
 Này các Tỷ kheo, có bốn hạng người giống như xoài này được tìm thấy ở đời."
 
 <!--pg-->
-### AN 4.106 Xoài (2) *(Dutiyaambasutta)*{#106}
-
+### AN 4.106 Xoài (2) *(Dutiyaambasutta)* {#106}
 ::: small
 *(Đây là một kinh không có văn bản nào cho kinh này trong bất kỳ ấn bản nào hiện có.)*
 :::
 
 <!--pg-->
-### AN 4.107 Chuột *Mūsikasutta*{#107}
-
+### AN 4.107 Chuột *Mūsikasutta* {#107}
 "Này các Tỷ kheo, có bốn loại chuột này. Thế nào là bốn?
 
 1\. Loại đào hang mà không ở,\
@@ -175,8 +168,7 @@ Và này các Tỷ kheo, thế nào là hạng người vừa đào hang vừa �
 Này các Tỷ kheo, có bốn hạng người giống như chuột này được tìm thấy ở đời."
 
 <!--pg-->
-### AN 4.108 Bò Đực *Balībaddasutta*{#108}
-
+### AN 4.108 Bò Đực *Balībaddasutta* {#108}
 "Này các Tỷ kheo, có bốn loại bò đực này. Thế nào là bốn?
 
 1\. Loại hung dữ với đàn mình, không hung dữ với đàn khác;\
@@ -202,8 +194,7 @@ Và này các Tỷ kheo, thế nào là hạng người không hung dữ với �
 Này các Tỷ kheo, có bốn hạng người giống như bò đực này được tìm thấy ở đời."
 
 <!--pg-->
-### AN 4.109 Cây *Rukkhasutta*{#109}
-
+### AN 4.109 Cây *Rukkhasutta* {#109}
 "Này các Tỷ kheo, có bốn loại cây này. Thế nào là bốn?
 
 1\. Loại cây lõi mềm được bao quanh bởi cây lõi mềm,\
@@ -229,8 +220,7 @@ Và này các Tỷ kheo, thế nào là hạng người lõi cứng được bao
 Này các Tỷ kheo, có bốn hạng người giống như cây này được tìm thấy ở đời."
 
 <!--pg-->
-### AN 4.110 Rắn Độc *Āsīvisasutta*{#110}
-
+### AN 4.110 Rắn Độc *Āsīvisasutta* {#110}
 "Này các Tỷ kheo, có bốn loại rắn độc này. Thế nào là bốn?
 
 1\. Loại có nọc độc phát tác nhanh nhưng không gây chết người,\

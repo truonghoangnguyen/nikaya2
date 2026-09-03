@@ -1,7 +1,6 @@
 # Phẩm Không Phạm Tội
 
-### AN 1.150--169 *Anāpattivagga*{#150-169}
-
+### AN 1.150--169 *Anāpattivagga* {#150-169}
 150\. "Này các *Tỳ kheo* (Mendicants / những vị tu sĩ khất thực), những Tỳ kheo nào giải thích *điều không phạm tội* (non-offense / việc không vi phạm giới luật, không có lỗi) là *điều phạm tội* (offense / việc vi phạm giới luật, có lỗi) thì đang hành động vì sự *bất lợi* (detriment / sự tổn hại, điều không tốt) và *khổ đau* (suffering / sự đau khổ, phiền não) cho dân chúng, chống lại dân chúng, vì sự *tổn hại* (harm / sự gây hại, thiệt hại), bất lợi, và khổ đau của chư thiên và loài người. Họ tạo ra nhiều *điều ác* (wickedness / việc làm xấu xa, tội lỗi) và làm cho *Chánh pháp* (true teaching / giáo lý chân chính của Đức Phật) biến mất."
 
 <!--pg-->

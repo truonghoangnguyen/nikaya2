@@ -3,8 +3,7 @@
 <!--pg-->
 ## Phẩm về các Bài Kinh Tóm Tắt Sông Hằng
 
-### SN 50.1--12 Hướng về Phía Đông, v.v. *Gaṅgāpeyyālavagga*{#1-12}
-
+### SN 50.1--12 Hướng về Phía Đông, v.v. *Gaṅgāpeyyālavagga* {#1-12}
 Này các *Tỷ kheo*, có năm *sức mạnh* này. Năm *sức mạnh* đó là gì? *Sức mạnh* của *tín*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *sức mạnh*. Sông Hằng nghiêng, dốc và xuôi về phía đông. Cũng vậy, một *Tỷ kheo* phát triển và tu tập năm *sức mạnh* sẽ nghiêng, dốc và xuôi về *Niết bàn*.
 
 Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại nghiêng, dốc và xuôi về *Niết bàn*? Đó là khi một *Tỷ kheo* phát triển *sức mạnh* của *tín* (faith / saddhā / niềm tin vững chắc vào sự thật, không phải niềm tin mù quáng), *nghị lực* (Energy / viriya / Tinh tấn / Nỗ lực, nghị lực, sức mạnh tinh thần), *niệm* (quan sát và ghi nhớ), *Định* (Immersion / samādhi / định / Trạng thái tâm tụ trên một điểm), và *trí tuệ* (wisdom / paññā / tuệ / sự hiểu biết sâu sắc về bản chất của thực tại), dựa trên *viễn ly* (seclusion / viveka / sự xa lánh, tách biệt khỏi các chướng ngại về thân và tâm), *ly tham* (fading away / virāga / sự phai nhạt của ham muốn, tham ái), và *diệt* (cessation / nirodha / sự chấm dứt hoàn toàn của khổ đau), và chín muồi thành *buông bỏ* (letting go / vossagga / sự từ bỏ, xả ly, giải thoát khỏi mọi bám chấp). Đó là cách một *Tỷ kheo* phát triển và tu tập năm *sức mạnh* nghiêng, dốc và xuôi về *Niết bàn* (extinguishment / nibbāna / sự dập tắt, chấm dứt khổ đau và vòng luân hồi).
@@ -17,8 +16,7 @@ Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại ng
 <!--pg-->
 ## Phẩm về Tinh Cần
 
-### SN 50.13--22 Tinh Cần *Appamādavagga*{#13-22}
-
+### SN 50.13--22 Tinh Cần *Appamādavagga* {#13-22}
 **(Tụng đọc đầy đủ như trong phẩm về *tinh cần* tại SN 45.139--148.)**
 *tinh cần* (Diligence / appamāda / chuyên cần, kỷ luật, tự chủ).
 
@@ -30,8 +28,7 @@ Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại ng
 <!--pg-->
 ## Phẩm về Việc Cần Làm
 
-### SN 50.23--34 Việc Cần Làm *Balakaraṇīyavagga*{#23-34}
-
+### SN 50.23--34 Việc Cần Làm *Balakaraṇīyavagga* {#23-34}
 **(Tụng đọc đầy đủ như trong phẩm về việc cần làm tại SN 45.149--160.)**
 
 > Việc cần làm, hạt giống, và loài rồng,
@@ -42,8 +39,7 @@ Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại ng
 <!--pg-->
 ## Phẩm về Sự Tìm Kiếm
 
-### SN 50.35--44 Sự Tìm Kiếm *Esanāvagga*{#35-44}
-
+### SN 50.35--44 Sự Tìm Kiếm *Esanāvagga* {#35-44}
 **(Tụng đọc đầy đủ như trong phẩm về sự tìm kiếm tại SN 45.161--170.)**
 
 > Sự tìm kiếm, sự phân biệt, các ô nhiễm,
@@ -54,8 +50,7 @@ Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại ng
 <!--pg-->
 ## Phẩm về Các Cơn Lũ
 
-### SN 50.45--54 Các Cơn Lũ, v.v. *Oghavagga*{#45-54}
-
+### SN 50.45--54 Các Cơn Lũ, v.v. *Oghavagga* {#45-54}
 Này các *Tỷ kheo*, có năm *xiềng xích bậc cao*. Năm thứ đó là gì? *Ham muốn tái sinh vào cõi sắc giới*, *ham muốn tái sinh vào cõi vô sắc giới*, *ngã mạn*, *bồn chồn*, và *vô minh*. Đây là năm *xiềng xích bậc cao*.
 *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm).
 *ham muốn tái sinh vào cõi sắc giới* (Desire for rebirth in the realm of luminous form / rūparāga / sự tham ái, dính mắc vào các trạng thái thiền định của cõi sắc).
@@ -75,8 +70,7 @@ Năm *sức mạnh* này cần được phát triển để *hiểu biết trự
 <!--pg-->
 ## Một Phẩm Khác về các Bài Kinh Tóm Tắt Sông Hằng
 
-### SN 50.55--66 Hướng về Phía Đông, v.v. *Punagaṅgāpeyyālavagga*{#55-66}
-
+### SN 50.55--66 Hướng về Phía Đông, v.v. *Punagaṅgāpeyyālavagga* {#55-66}
 Này các *Tỷ kheo*, sông Hằng nghiêng, dốc và xuôi về phía đông. Cũng vậy, một *Tỷ kheo* phát triển và tu tập năm *sức mạnh* sẽ nghiêng, dốc và xuôi về *Niết bàn*.
 
 Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại nghiêng, dốc và xuôi về *Niết bàn*? Đó là khi một *Tỷ kheo* phát triển *sức mạnh* của *tín*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, với mục đích tối hậu là loại bỏ *tham*, *sân*, và *si*.
@@ -97,8 +91,7 @@ Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại ng
 <!--pg-->
 ## Một Phẩm Khác về Tinh Cần
 
-### SN 50.67--76 Một Phẩm Khác về Tinh Cần *Punaappamādavagga*{#67-76}
-
+### SN 50.67--76 Một Phẩm Khác về Tinh Cần *Punaappamādavagga* {#67-76}
 ::: small
 *(Văn bản này chỉ có tiêu đề. Tụng đọc đầy đủ như trong SN 45.139--148, phiên bản loại bỏ tham.)*
 :::
@@ -106,15 +99,13 @@ Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại ng
 <!--pg-->
 ## Một Phẩm Khác về Việc Cần Làm
 
-### SN 50.77--88 Một Phẩm Khác về Việc Cần Làm *Punabalakaraṇīyavagga*{#77-88}
-
+### SN 50.77--88 Một Phẩm Khác về Việc Cần Làm *Punabalakaraṇīyavagga* {#77-88}
 **(Tụng đọc đầy đủ như trong SN 45.149--160, phiên bản loại bỏ tham.)**
 
 <!--pg-->
 ## Một Phẩm Khác về Sự Tìm Kiếm
 
-### SN 50.89--98 Một Loạt Khác về Sự Tìm Kiếm, v.v. *Punaesanāvagga*{#89-98}
-
+### SN 50.89--98 Một Loạt Khác về Sự Tìm Kiếm, v.v. *Punaesanāvagga* {#89-98}
 **(Tụng đọc đầy đủ như trong SN 45.161--170, phiên bản loại bỏ tham.)**
 
 > Sự tìm kiếm, sự phân biệt, các ô nhiễm,
@@ -125,8 +116,7 @@ Và làm thế nào một *Tỷ kheo* phát triển năm *sức mạnh* lại ng
 <!--pg-->
 ## Một Phẩm Khác về Các Cơn Lũ
 
-### SN 50.99--108 Một Loạt Khác về Các Cơn Lũ, v.v. *Punaoghavagga*{#99-108}
-
+### SN 50.99--108 Một Loạt Khác về Các Cơn Lũ, v.v. *Punaoghavagga* {#99-108}
 Này các *Tỷ kheo*, có năm *xiềng xích bậc cao*. Năm thứ đó là gì? *Ham muốn tái sinh vào cõi sắc giới*, *ham muốn tái sinh vào cõi vô sắc giới*, *ngã mạn*, *bồn chồn*, và *vô minh*. Đây là năm *xiềng xích bậc cao*.
 
 Năm *sức mạnh* cần được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *xiềng xích bậc cao* này. Năm *sức mạnh* đó là gì? Một *Tỷ kheo* phát triển *sức mạnh* của *tín*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, với mục đích tối hậu là loại bỏ *tham*, *sân*, và *si*.

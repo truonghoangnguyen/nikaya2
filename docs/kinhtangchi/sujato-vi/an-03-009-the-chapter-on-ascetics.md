@@ -1,15 +1,13 @@
 # Phẩm về Sa Môn
 
-### AN 3.81 Sa Môn  *Samaṇasutta*{#81}
-
+### AN 3.81 Sa Môn  *Samaṇasutta* {#81}
 "Này các Tỳ kheo, có ba phận sự của một vị *sa môn* (ascetic / người tu hành). Thế nào là ba?
 Thực hành việc học tập về *tăng thượng giới* (higher ethics / giới hạnh cao thượng), *tăng thượng tâm* (higher mind / tâm cao thượng), và *tăng thượng tuệ* (higher wisdom / tuệ giác cao thượng). Đây là ba phận sự của một vị sa môn.
 
 Vì vậy, các thầy nên tu tập như sau: 'Chúng ta sẽ có *nhiệt tâm* (keen enthusiasm / lòng sốt sắng) để thực hành việc học tập về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ.' Đó là cách các thầy nên tu tập."
 
 <!--pg-->
-### AN 3.82 Con Lừa  *Gadrabhasutta*{#82}
-
+### AN 3.82 Con Lừa  *Gadrabhasutta* {#82}
 "Này các Tỳ kheo, giả sử có một con lừa đi theo sau một đàn bò,
 nghĩ rằng: 'Ta cũng có thể rống! Ta cũng có thể rống!' Nhưng hình dáng nó không giống bò, tiếng kêu không giống bò, dấu chân cũng không giống bò. Vậy mà nó vẫn đi theo sau đàn bò, nghĩ rằng: 'Ta cũng có thể rống! Ta cũng có thể rống!'
 
@@ -19,8 +17,7 @@ vị ấy không có cùng nhiệt tâm thực hành việc học tập về tă
 Vì vậy, các thầy nên tu tập như sau: 'Chúng ta sẽ có nhiệt tâm để thực hành việc học tập về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ.' Đó là cách các thầy nên tu tập."
 
 <!--pg-->
-### AN 3.83 Ruộng Đồng  *Khettasutta*{#83}
-
+### AN 3.83 Ruộng Đồng  *Khettasutta* {#83}
 "Này các Tỳ kheo, người nông dân có ba phận sự chính. Thế nào là ba? Trước hết, người nông dân phải đảm bảo ruộng được cày bừa kỹ lưỡng. Tiếp theo, họ gieo hạt đúng mùa. Khi đến thời điểm thích hợp, họ dẫn nước vào ruộng rồi tháo nước ra. Đây là ba phận sự chính của người nông dân.
 
 Cũng vậy, một Tỳ kheo có ba phận sự chính. Thế nào là ba?
@@ -29,8 +26,7 @@ Thực hành việc học tập về tăng thượng giới, tăng thượng tâ
 Vì vậy, các thầy nên tu tập như sau: 'Chúng ta sẽ có nhiệt tâm để thực hành việc học tập về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ.' Đó là cách các thầy nên tu tập."
 
 <!--pg-->
-### AN 3.84 Vị Tỳ Kheo Vajjī  *Vajjiputtasutta*{#84}
-
+### AN 3.84 Vị Tỳ Kheo Vajjī  *Vajjiputtasutta* {#84}
 Một thời Thế Tôn trú gần Vesālī, tại Đại Lâm, trong ngôi nhà có mái nhọn. Bấy giờ, một Tỳ kheo Vajjī đi đến chỗ Thế Tôn, đảnh lễ, rồi ngồi xuống một bên và bạch rằng:
 
 "Bạch Thế Tôn, mỗi nửa tháng có hơn một trăm năm mươi *học giới* (training rules / điều luật cần tu học) được tụng đọc. Con không thể tu tập theo tất cả các giới ấy."
@@ -46,8 +42,7 @@ Khi thầy tu tập như vậy, thầy sẽ từ bỏ *tham* (greed / lòng tham
 Sau một thời gian, vị Tỳ kheo ấy đã tu tập tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ. Vị ấy đã từ bỏ tham, sân, và si. Khi đó, vị ấy không làm điều gì bất thiện, không thực hành điều gì ác.
 
 <!--pg-->
-### AN 3.85 Bậc Hữu Học  *Sekkhasutta*{#85}
-
+### AN 3.85 Bậc Hữu Học  *Sekkhasutta* {#85}
 Bấy giờ, một Tỳ kheo đi đến chỗ Thế Tôn, đảnh lễ, rồi ngồi xuống một bên và bạch rằng:
 
 "Bạch Thế Tôn, người ta nói đến người được gọi là '*hữu học*' (trainee / người còn đang tu học). Thế nào là định nghĩa của một bậc hữu học?"
@@ -65,8 +60,7 @@ Bấy giờ, một Tỳ kheo đi đến chỗ Thế Tôn, đảnh lễ, rồi ng
 > 'Sự giải thoát của ta là *bất động* (unshakable / không thể lay chuyển).'"
 
 <!--pg-->
-### AN 3.86 Tu Học (1)  *Paṭhamasikkhāsutta*{#86}
-
+### AN 3.86 Tu Học (1)  *Paṭhamasikkhāsutta* {#86}
 "Này các Tỳ kheo, mỗi nửa tháng có hơn một trăm năm mươi học giới được tụng đọc, mà trong đó các thiện nam tử quan tâm đến lợi ích của mình tu tập. Tất cả những điều này đều được bao gồm trong ba sự tu học. Thế nào là ba? Sự tu học về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ. Đây là ba sự tu học bao gồm tất cả các học giới ấy.
 
 Hãy xét trường hợp một Tỳ kheo đã hoàn thiện giới hạnh của mình, nhưng có *định* (immersion / sự tập trung, thiền định) và *tuệ* (wisdom / trí tuệ) còn giới hạn. Vị ấy vi phạm một số *học giới nhỏ nhặt, phụ tùy* (lesser and minor training rules / các điều luật không phải cốt lõi), nhưng được phục hồi. Tại sao vậy? Vì Ta không nói rằng vị ấy không có khả năng làm điều đó (tức không phải là không thể sửa chữa). Nhưng vị ấy *kiên trì, vững chắc* (constant and steady / giữ gìn không thay đổi) trong các *giới* (precepts / quy tắc đạo đức) liên quan đến các học giới *căn bản* (fundamental / cốt lõi), *phù hợp phạm hạnh* (befitting the spiritual path / xứng đáng với đời sống tu hành). Vị ấy giữ gìn các giới luật đã thọ trì. Với sự đoạn tận *ba kiết sử* (three fetters / ba trói buộc đầu tiên: thân kiến, hoài nghi, giới cấm thủ), vị ấy là bậc *nhập lưu* (stream-enterer / người dự vào dòng thánh), *không còn tái sinh vào cõi dữ* (not liable to be reborn in the underworld / không bị đọa vào các cảnh giới khổ), *chắc chắn giác ngộ* (bound for awakening / nhất định sẽ đạt giác ngộ).
@@ -80,8 +74,7 @@ Hãy xét một trường hợp khác, một Tỳ kheo đã hoàn thiện giới
 Vậy nên, này các Tỳ kheo, nếu các thầy *thực hành một phần* (practice partially / tu tập không trọn vẹn) thì các thầy *thành công một phần* (succeed partially / đạt kết quả tương ứng). Nếu các thầy *thực hành đầy đủ* (practice fully / tu tập trọn vẹn) thì các thầy *thành công đầy đủ* (succeed fully / đạt kết quả viên mãn). Các học giới này *không phải là vô ích* (not a waste / không hề uổng phí), Ta nói vậy."
 
 <!--pg-->
-### AN 3.87 Tu Học (2)  *Dutiyasikkhāsutta*{#87}
-
+### AN 3.87 Tu Học (2)  *Dutiyasikkhāsutta* {#87}
 "Này các Tỳ kheo, mỗi nửa tháng có hơn một trăm năm mươi học giới được tụng đọc, mà trong đó các thiện nam tử quan tâm đến lợi ích của mình tu tập. Tất cả những điều này đều được bao gồm trong ba sự tu học. Thế nào là ba? Sự tu học về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ. Đây là ba sự tu học bao gồm tất cả các học giới ấy.
 
 Hãy xét trường hợp một Tỳ kheo đã hoàn thiện giới hạnh của mình, nhưng có định và tuệ còn giới hạn. Vị ấy vi phạm một số học giới nhỏ nhặt, phụ tùy, nhưng được phục hồi. Tại sao vậy? Vì Ta không nói rằng vị ấy không có khả năng làm điều đó. Nhưng vị ấy kiên trì, vững chắc trong các giới liên quan đến các học giới căn bản, phù hợp phạm hạnh. Vị ấy giữ gìn các giới luật đã thọ trì. Với sự đoạn tận ba kiết sử, vị ấy có *tối đa bảy lần tái sinh* (at most seven rebirths / nhiều nhất là bảy kiếp nữa). Vị ấy sẽ *luân chuyển* (transmigrate / tái sinh) tối đa bảy lần giữa *chư thiên và loài người* (gods and humans / các cõi trời và cõi người) rồi chấm dứt khổ đau. Với sự đoạn tận ba kiết sử, vị ấy đi *gia đình đáo gia đình* (go from family to family / tái sinh từ hai đến ba gia đình tốt). Vị ấy sẽ luân chuyển giữa hai hoặc ba gia đình rồi chấm dứt khổ đau. Với sự đoạn tận ba kiết sử, vị ấy là bậc *nhất chủng* (one-seeder / người chỉ tái sinh một lần nữa). Vị ấy sẽ tái sinh chỉ một lần nữa trong cõi người, rồi chấm dứt khổ đau. Với sự đoạn tận ba kiết sử, và sự làm suy yếu tham, sân, si, vị ấy là bậc nhất lai. Vị ấy chỉ trở lại thế giới này một lần nữa, rồi chấm dứt khổ đau.
@@ -93,8 +86,7 @@ Hãy xét một trường hợp khác, một Tỳ kheo đã hoàn thiện giới
 Vậy nên, này các Tỳ kheo, nếu các thầy thực hành một phần thì các thầy thành công một phần. Nếu các thầy thực hành đầy đủ thì các thầy thành công đầy đủ. Các học giới này không phải là vô ích, Ta nói vậy."
 
 <!--pg-->
-### AN 3.88 Tu Học (3)  *Tatiyasikkhāsutta*{#88}
-
+### AN 3.88 Tu Học (3)  *Tatiyasikkhāsutta* {#88}
 "Này các Tỳ kheo, mỗi nửa tháng có hơn một trăm năm mươi học giới được tụng đọc, mà trong đó các thiện nam tử quan tâm đến lợi ích của mình tu tập. Tất cả những điều này đều được bao gồm trong ba sự tu học. Thế nào là ba? Sự tu học về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ. Đây là ba sự tu học bao gồm tất cả các học giới ấy.
 
 Hãy xét trường hợp một Tỳ kheo đã hoàn thiện giới hạnh, định, và tuệ của mình. Vị ấy vi phạm một số học giới nhỏ nhặt, phụ tùy, nhưng được phục hồi. Tại sao vậy? Vì Ta không nói rằng vị ấy không có khả năng làm điều đó. Nhưng vị ấy kiên trì, vững chắc trong các giới liên quan đến các học giới căn bản, phù hợp phạm hạnh. Vị ấy giữ gìn các giới luật đã thọ trì.
@@ -122,8 +114,7 @@ Nếu vị ấy không chứng đạt đến mức đó, với sự đoạn tậ
 Vậy nên, này các Tỳ kheo, nếu các thầy thực hành đầy đủ thì các thầy thành công đầy đủ. Nếu các thầy thực hành một phần thì các thầy thành công một phần. Các học giới này không phải là vô ích, Ta nói vậy."
 
 <!--pg-->
-### AN 3.89 Ba Sự Tu Học (1)  *Paṭhamasikkhattayasutta*{#89}
-
+### AN 3.89 Ba Sự Tu Học (1)  *Paṭhamasikkhattayasutta* {#89}
 "Này các Tỳ kheo, đây là ba sự tu học. Thế nào là ba? Sự tu học về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ.
 
 Và thế nào là sự tu học về tăng thượng giới? Đó là khi một Tỳ kheo *có giới hạnh* (ethical / sống đạo đức), *thu thúc trong giới bổn* (*giới bổn* (monastic code / Pātimokkha, bộ luật của Tỳ kheo)), *hành xử đúng mực* (conducting themselves well / có cách cư xử tốt đẹp) và *đi khất thực ở nơi thích hợp* (resorting for alms in suitable places / tìm đến những nơi phù hợp để nhận vật thực). *Thấy sự nguy hiểm trong những lỗi nhỏ nhặt nhất* (Seeing danger in the slightest fault / nhận ra mối hại ngay cả trong lỗi lầm nhỏ), vị ấy *thọ trì các học giới đã lãnh nhận* (keep the rules they've undertaken / giữ gìn những điều đã học và cam kết). Đây được gọi là sự tu học về tăng thượng giới.
@@ -133,8 +124,7 @@ Và thế nào là sự tu học về tăng thượng tâm? Đó là khi một T
 Và thế nào là sự tu học về tăng thượng tuệ? Vị ấy *hiểu như thật* (truly understand / hiểu đúng bản chất sự việc): '*Đây là Khổ*' (This is suffering / Đây là sự thật về khổ đau)... '*Đây là Nguồn gốc của Khổ*' (This is the origin of suffering / Đây là sự thật về nguyên nhân gây ra khổ đau)... '*Đây là Sự diệt Khổ*' (This is the cessation of suffering / Đây là sự thật về sự chấm dứt khổ đau)... '*Đây là Con đường đưa đến Sự diệt Khổ*' (This is the practice that leads to the cessation of suffering / Đây là sự thật về con đường thực hành dẫn đến chấm dứt khổ đau). Đây được gọi là sự tu học về tăng thượng tuệ. Đây là ba sự tu học."
 
 <!--pg-->
-### AN 3.90 Ba Sự Tu Học (2)  *Dutiyasikkhattayasutta*{#90}
-
+### AN 3.90 Ba Sự Tu Học (2)  *Dutiyasikkhattayasutta* {#90}
 "Này các Tỳ kheo, đây là ba sự tu học. Thế nào là ba? Sự tu học về tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ.
 
 Và thế nào là sự tu học về tăng thượng giới? Đó là khi một Tỳ kheo có giới hạnh, thu thúc trong giới bổn, hành xử đúng mực và đi khất thực ở nơi thích hợp. Thấy sự nguy hiểm trong những lỗi nhỏ nhặt nhất, vị ấy thọ trì các học giới đã lãnh nhận. Đây được gọi là sự tu học về tăng thượng giới.
@@ -169,8 +159,7 @@ Và thế nào là sự tu học về tăng thượng tuệ? Đó là khi một 
 > Như *ngọn đèn tắt lịm* (lamp going out / hình ảnh chỉ Niết Bàn)."
 
 <!--pg-->
-### AN 3.91 Tại Paṅkadhā  *Saṅkavāsutta*{#91}
-
+### AN 3.91 Tại Paṅkadhā  *Saṅkavāsutta* {#91}
 Một thời Thế Tôn đang du hành trong xứ Kosala cùng với đại chúng Tỳ kheo. Ngài đến một thị trấn của xứ Kosala tên là Paṅkadhā, và ở lại đó.
 
 Bấy giờ, có một Tỳ kheo tên là Kassapagotta đang cư trú tại Paṅkadhā. Tại đó, Thế Tôn đã giáo huấn, khuyến khích, sách tấn, và làm phấn khởi các Tỳ kheo bằng một bài pháp thoại về các học giới. Kassapagotta trở nên khá *khó chịu và bực bội* (impatient and bitter / không hài lòng và phiền muộn), nghĩ rằng: "Vị sa môn này *quá khắt khe* (much too strict / nghiêm khắc quá mức)."

@@ -1,7 +1,6 @@
 # Phẩm về Đọa Xứ
 
-### AN 3.113 Đọa Xứ *Āpāyikasutta*{#113}
-
+### AN 3.113 Đọa Xứ *Āpāyikasutta* {#113}
 "Này các Tỳ kheo, có ba hạng người này, nếu không từ bỏ lỗi lầm này, chắc chắn sẽ rơi vào *đọa xứ* (place of loss / nơi khổ đau, cảnh giới thấp), chắc chắn sẽ rơi vào *địa ngục* (hell / cõi địa ngục). Ba hạng người nào?
 
 Người không sống phạm hạnh nhưng tự nhận là sống phạm hạnh; người vu khống vô căn cứ về tội không phạm hạnh đối với người sống phạm hạnh thanh tịnh; và người có quan điểm rằng: 'Không có gì sai trái trong các thú vui dục lạc', rồi lao mình vào các thú vui dục lạc.
@@ -9,13 +8,11 @@ Người không sống phạm hạnh nhưng tự nhận là sống phạm hạnh
 Đó là ba hạng người, nếu không từ bỏ lỗi lầm này, chắc chắn sẽ rơi vào đọa xứ, chắc chắn sẽ rơi vào địa ngục."
 
 <!--pg-->
-### AN 3.114 Hiếm Có *Dullabhasutta*{#114}
-
+### AN 3.114 Hiếm Có *Dullabhasutta* {#114}
 "Này các Tỳ kheo, sự xuất hiện của ba hạng người này là hiếm có trên đời. Ba hạng người nào? Bậc *Như Lai* (Realized One / bậc đã đến như vậy, bậc Giác Ngộ), bậc *A-la-hán* (perfected one / bậc đã hoàn thiện, không còn tái sinh), bậc *Chánh Đẳng Chánh Giác* (fully awakened Buddha / bậc Giác Ngộ hoàn toàn). Người giảng dạy giáo pháp và giới luật do Như Lai tuyên thuyết. Người biết ơn và nhớ ơn. Sự xuất hiện của ba hạng người này là hiếm có trên đời."
 
 <!--pg-->
-### AN 3.115 Vô Lượng *Appameyyasutta*{#115}
-
+### AN 3.115 Vô Lượng *Appameyyasutta* {#115}
 "Này các Tỳ kheo, có ba hạng người này hiện hữu trên đời. Ba hạng người nào? Người dễ đo lường, người khó đo lường, và người không thể đo lường.
 
 Và ai là người dễ đo lường? Đó là người có tâm *trạo cử* (restlessness / bồn chồn, không yên), ngạo mạn, hay thay đổi, nói lời thô tục, nói năng bừa bãi, *thất niệm* (unmindful / thiếu chánh niệm, không chú tâm), thiếu *tỉnh giác* (situational awareness / sự nhận biết rõ ràng hoàn cảnh) và thiếu *định* (immersion / sự tập trung tâm ý, thiền định), tâm trí lang thang và các *căn* (faculties / giác quan) không được chế ngự. Đây gọi là 'người dễ đo lường'.
@@ -27,8 +24,7 @@ Và ai là người không thể đo lường? Đó là vị Tỳ kheo đã là 
 Đó là ba hạng người hiện hữu trên đời."
 
 <!--pg-->
-### AN 3.116 Bất Động *Āneñjasutta*{#116}
-
+### AN 3.116 Bất Động *Āneñjasutta* {#116}
 "Này các Tỳ kheo, có ba hạng người này hiện hữu trên đời. Ba hạng người nào?
 
 Thứ nhất, một người, vượt hoàn toàn các *sắc tưởng* (perceptions of form / nhận thức về hình sắc), chấm dứt các *đối ngại tưởng* (perceptions of impingement / nhận thức về sự va chạm, chướng ngại), không chú tâm đến các *đa tưởng* (perceptions of diversity / nhận thức về sự khác biệt, đa dạng), nhận thức rằng 'không gian là vô biên', nhập và an trú vào *Không vô biên xứ* (dimension of infinite space / cõi trời không gian vô tận). Họ thích thú, ưa thích và hài lòng với cảnh giới đó. Nếu họ quyết tâm với cảnh giới đó, chuyên chú vào đó, và thường xuyên thiền định về nó mà không đánh mất, khi chết, họ sẽ tái sinh vào cõi chư thiên Không vô biên xứ. Tuổi thọ của chư thiên ở Không vô biên xứ là hai mươi ngàn *kiếp* (eons / thời gian rất dài, đại kiếp). Một *phàm phu* (ordinary person / người thường, chưa giác ngộ) ở đó cho đến khi hết tuổi thọ của chư thiên ấy, rồi họ sẽ đi vào địa ngục, cõi *súc sanh* (animal realm / cõi thú) hoặc cõi *ngạ quỷ* (ghost realm / cõi quỷ đói). Nhưng một *thánh đệ tử* (noble disciple / đệ tử bậc thánh) của Đức Phật ở đó cho đến khi hết tuổi thọ của chư thiên ấy, rồi họ *nhập Niết-bàn* (extinguished / đạt đến sự tịch diệt cuối cùng) ngay trong đời sống đó. Đây là sự khác biệt giữa một thánh đệ tử có học và một phàm phu không có học về nơi tái sinh của họ.
@@ -40,8 +36,7 @@ Lại nữa, một người, vượt hoàn toàn Thức vô biên xứ, nhận t
 Đó là ba hạng người hiện hữu trên đời."
 
 <!--pg-->
-### AN 3.117 Thất Bại và Thành Tựu *Vipattisampadāsutta*{#117}
-
+### AN 3.117 Thất Bại và Thành Tựu *Vipattisampadāsutta* {#117}
 "Này các Tỳ kheo, có ba sự thất bại. Ba sự nào? Thất bại về *giới* (ethics / các quy tắc đạo đức), thất bại về *tâm* (mind / tâm trí, ý thức), và thất bại về *kiến* (view / quan điểm, nhận thức). Và thế nào là thất bại về giới? Đó là khi một người sát sinh, trộm cắp, tà dâm, nói dối, nói lời chia rẽ, nói lời độc ác, hoặc nói lời vô ích. Đây gọi là 'thất bại về giới'.
 
 Và thế nào là thất bại về tâm? Đó là khi một người *tham lam* (covetous / lòng tham muốn) và *sân độc* (malicious / lòng ác ý, căm ghét). Đây gọi là 'thất bại về tâm'.
@@ -61,8 +56,7 @@ Và thế nào là thành tựu về kiến? Đó là khi một người có *ch
 Đó là ba sự thành tựu."
 
 <!--pg-->
-### AN 3.118 Con Súc Sắc Chắc Thắng *Apaṇṇakasutta*{#118}
-
+### AN 3.118 Con Súc Sắc Chắc Thắng *Apaṇṇakasutta* {#118}
 "Này các Tỳ kheo, có ba sự thất bại. Ba sự nào? Thất bại về giới, tâm, và kiến.
 
 Và thế nào là thất bại về giới? Đó là khi một người sát sinh, trộm cắp, tà dâm, nói dối, nói lời chia rẽ, nói lời độc ác, hoặc nói lời vô ích. Đây gọi là 'thất bại về giới'.
@@ -84,8 +78,7 @@ Và thế nào là thành tựu về kiến? Đó là khi một người có ch�
 Đó là ba sự thành tựu."
 
 <!--pg-->
-### AN 3.119 Nghiệp *Kammantasutta*{#119}
-
+### AN 3.119 Nghiệp *Kammantasutta* {#119}
 "Này các Tỳ kheo, có ba sự thất bại. Ba sự nào? Thất bại về *nghiệp* (action / hành động, tạo tác), thất bại về *mạng* (livelihood / cách sinh sống, nghề nghiệp), và thất bại về kiến.
 
 Và thế nào là thất bại về nghiệp? Đó là khi một người sát sinh, trộm cắp, tà dâm, nói dối, nói lời chia rẽ, nói lời độc ác, hoặc nói lời vô ích. Đây gọi là 'thất bại về nghiệp'.
@@ -105,8 +98,7 @@ Và thế nào là thành tựu về kiến? Đó là khi một người có ch�
 Đó là ba sự thành tựu."
 
 <!--pg-->
-### AN 3.120 Thanh Tịnh (1) *Paṭhamasoceyyasutta*{#120}
-
+### AN 3.120 Thanh Tịnh (1) *Paṭhamasoceyyasutta* {#120}
 "Này các Tỳ kheo, có ba loại *thanh tịnh* (purity / sự trong sạch) này. Ba loại nào? Thanh tịnh về thân, thanh tịnh về lời nói, và thanh tịnh về ý.
 
 Và thế nào là thanh tịnh về thân? Đó là khi một người không sát sinh, không trộm cắp, không tà dâm. Đây gọi là 'thanh tịnh về thân'.
@@ -118,8 +110,7 @@ Và thế nào là thanh tịnh về ý? Đó là khi một người biết đ�
 Đó là ba loại thanh tịnh."
 
 <!--pg-->
-### AN 3.121 Thanh Tịnh (2) *Dutiyasoceyyasutta*{#121}
-
+### AN 3.121 Thanh Tịnh (2) *Dutiyasoceyyasutta* {#121}
 "Này các Tỳ kheo, có ba loại thanh tịnh này. Ba loại nào? Thanh tịnh về thân, thanh tịnh về lời nói, và thanh tịnh về ý.
 
 Và thế nào là thanh tịnh về thân? Đó là khi một vị Tỳ kheo không sát sinh, không trộm cắp, không hành dâm. Đây gọi là 'thanh tịnh về thân'.
@@ -148,8 +139,7 @@ Khi có *nghi* (doubt / sự hoài nghi) trong mình, vị ấy hiểu rõ: 'Ta 
 > Đã gột sạch mọi điều xấu xa, họ nói vậy."\
 
 <!--pg-->
-### AN 3.122 Mâu-ni *Moneyyasutta*{#122}
-
+### AN 3.122 Mâu-ni *Moneyyasutta* {#122}
 "Này các Tỳ kheo, có ba loại *mâu-ni* (sagacity / sự thông thái, trí tuệ của bậc ẩn sĩ/thánh nhân) này. Ba loại nào? Mâu-ni về thân, mâu-ni về lời nói, và mâu-ni về ý.
 
 Và thế nào là mâu-ni về thân? Đó là khi một vị Tỳ kheo không sát sinh, không trộm cắp, không hành dâm. Đây gọi là 'mâu-ni về thân'.

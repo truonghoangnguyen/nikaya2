@@ -1,7 +1,6 @@
 # Phẩm về các Vấn đề Tranh tụng
 
-### AN 2.11--20 Phẩm Tranh tụng{#11-20}
-
+### AN 2.11--20 Phẩm Tranh tụng {#11-20}
 11\. "Này các Tỷ-kheo, có hai loại năng lực này. Thế nào là hai? *Phản tỉnh lực* (power of reflection / năng lực quán xét) và *tu tập lực* (power of development / năng lực tu tập). Và này các Tỷ-kheo, thế nào là *phản tỉnh lực*? Đó là khi một người quán xét như sau: 'Ác hạnh về thân, khẩu, hay ý có kết quả xấu ác, đau khổ trong đời này và đời sau.' Quán xét như vậy, vị ấy từ bỏ ác hạnh về thân, khẩu, ý, và tu tập thiện hạnh về thân, khẩu, ý, giữ cho tự thân trong sạch. Đây gọi là *phản tỉnh lực*.
 
 Và này các Tỷ-kheo, thế nào là *tu tập lực*? Trong trường hợp này, *tu tập lực* là năng lực của các bậc *hữu học* (trainees / người còn đang tu học). Vì khi nương tựa vào năng lực của bậc *hữu học*, vị ấy từ bỏ tham, sân, và si. Khi ấy, vị ấy không làm điều gì *bất thiện* (unskillful / điều không tốt, không thiện lành), hay thực hành điều gì xấu ác. Đây gọi là *tu tập lực*. Đó là hai loại năng lực."

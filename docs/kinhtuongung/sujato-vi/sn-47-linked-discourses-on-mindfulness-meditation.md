@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương về Kỹ Nữ Ambapālī
 
-### SN 47.1 Tại Vườn Xoài của Ambapālī *Kinh Ambapālī*{#1}
-
+### SN 47.1 Tại Vườn Xoài của Ambapālī *Kinh Ambapālī* {#1}
 Tôi nghe như vầy. Một thời Đức Phật trú tại Vesālī, trong Vườn Xoài của Ambapālī. Tại đó, Đức Phật gọi các *Tỷ kheo*, "Này các *Tỷ kheo*!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật dạy rằng:
@@ -24,8 +23,7 @@ Vị ấy *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ,
 Đó là những gì Đức Phật đã dạy. Các *Tỷ kheo* hoan hỷ, tín thọ lời Phật dạy.
 
 <!--pg-->
-### SN 47.2 Chánh Niệm *Kinh Sati*{#2}
-
+### SN 47.2 Chánh Niệm *Kinh Sati* {#2}
 Một thời Đức Phật trú tại Vesālī, trong vườn xoài của Ambapālī. Tại đó, Đức Phật gọi các *Tỷ kheo*, "Này các *Tỷ kheo*!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật dạy rằng:
@@ -37,8 +35,7 @@ Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *T�
 Và thế nào là một *Tỷ kheo* có *nhận biết rõ ràng*? Đó là khi một *Tỷ kheo* hành động với *nhận biết rõ ràng* khi đi ra và đi vào; khi nhìn thẳng và nhìn nghiêng; khi co và duỗi các chi; khi mang y bát; khi ăn, uống, nhai, và nếm; khi đi tiểu và đại tiện; khi đi, đứng, ngồi, ngủ, thức, nói, và giữ im lặng. Đó là cách một *Tỷ kheo* hành động với *nhận biết rõ ràng*. Một *Tỷ kheo* nên sống có *chánh niệm* và *nhận biết rõ ràng*. Đây là lời chỉ dạy của ta cho các con."
 
 <!--pg-->
-### SN 47.3 Một Vị Sư *Kinh Bhikkhu*{#3}
-
+### SN 47.3 Một Vị Sư *Kinh Bhikkhu* {#3}
 Một thời Đức Phật trú tại Sāvatthī, trong Vườn Jeta, tu viện của Anāthapiṇḍika.
 
 Bấy giờ, một *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, rồi ngồi sang một bên và thưa rằng: "Bạch Thế Tôn, xin Đức Phật hãy dạy cho con giáo pháp một cách ngắn gọn. Sau khi nghe xong, con sẽ sống một mình, ẩn dật, *tinh cần* (Diligence / appamāda / chuyên cần, kỷ luật, tự chủ), nhiệt tâm, và quyết chí."
@@ -66,8 +63,7 @@ Sau đó, vị *Tỷ kheo* ấy, sống một mình, ẩn dật, *tinh cần*, n
 Vị ấy hiểu rằng: "Tái sinh đã chấm dứt; hành trình tâm linh đã hoàn tất; những gì cần làm đã được làm; không còn gì nữa ở nơi này." Và vị *Tỷ kheo* ấy đã trở thành một trong những bậc *A-la-hán* (perfected / Arahant / bậc đã hoàn thiện, đã chấm dứt các lậu hoặc).
 
 <!--pg-->
-### SN 47.4 Tại Sālā *Kinh Sālā*{#4}
-
+### SN 47.4 Tại Sālā *Kinh Sālā* {#4}
 Một thời Đức Phật đang ở tại xứ Kosala, gần làng Bà-la-môn tên là Sālā. Tại đó, Đức Phật gọi các *Tỷ kheo*:
 
 "Này các *Tỷ kheo*, những *Tỷ kheo* còn trẻ tuổi—mới xuất gia, mới đến với giáo pháp và sự rèn luyện này—nên được khuyến khích, hỗ trợ, và thiết lập trong *bốn niệm xứ*. Bốn pháp đó là gì? Xin các vị tôn giả, hãy *an trú quan sát thân trên thân*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* (liễu tri) về thân. Hãy *an trú quan sát cảm thọ trên các cảm thọ*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về các *cảm thọ* (feeling / vedanā / thọ). Hãy *an trú quan sát tâm trên tâm*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về *tâm* (mind / citta / ý thức, trạng thái tinh thần). Hãy *an trú quan sát pháp trên các pháp*—*nhiệt tâm, biết rõ, một hướng, với tâm trong sáng, ngăn nắp và bền vững (định tĩnh), tâm tụ trên một điểm (nhất tâm)*, để *biết như thật* về các *pháp* (principles / dhamma / các hiện tượng, các đối tượng của tâm, các lời dạy của Đức Phật).
@@ -79,8 +75,7 @@ Những *Tỷ kheo* là bậc *A-la-hán*—những người đã đoạn tận 
 Những *Tỷ kheo* còn trẻ tuổi—mới xuất gia, mới đến với giáo pháp và sự rèn luyện này—nên được khuyến khích, hỗ trợ, và thiết lập trong *bốn niệm xứ* này."
 
 <!--pg-->
-### SN 47.5 Một Đống Bất Thiện *Kinh Akusalarāsi*{#5}
-
+### SN 47.5 Một Đống Bất Thiện *Kinh Akusalarāsi* {#5}
 Tại Sāvatthī.
 
 Tại đó, Đức Phật dạy:
@@ -90,8 +85,7 @@ Tại đó, Đức Phật dạy:
 Nói một cách đúng đắn, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... Vị ấy *an trú quan sát tâm trên tâm*... Vị ấy *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Nói một cách đúng đắn, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện."
 
 <!--pg-->
-### SN 47.6 Chim Ưng *Kinh Sakuṇagghi*{#6}
-
+### SN 47.6 Chim Ưng *Kinh Sakuṇagghi* {#6}
 "Ngày xửa ngày xưa, này các *Tỷ kheo*, một con chim ưng bất ngờ sà xuống và bắt một con chim cút. Khi con chim cút bị tha đi, nó than khóc: 'Ta thật xui xẻo, thật bất hạnh, vì đã đi lạc ra khỏi lãnh địa của mình để vào lãnh địa của kẻ khác. Nếu hôm nay ta đi trong lãnh địa của mình, lãnh địa của tổ tiên ta, thì con chim ưng này đã không thể thắng được ta trong cuộc chiến.'
 
 'Vậy, chim cút ơi, lãnh địa của ngươi, lãnh địa của tổ tiên ngươi là gì?'
@@ -115,8 +109,7 @@ Các con nên đi trong lãnh địa của mình, lãnh địa của tổ tiên 
 Và đâu là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên? Đó là *bốn niệm xứ*. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên."
 
 <!--pg-->
-### SN 47.7 Con Khỉ *Kinh Makkaṭa*{#7}
-
+### SN 47.7 Con Khỉ *Kinh Makkaṭa* {#7}
 "Này các *Tỷ kheo*, ở dãy Himalaya có những vùng hiểm trở và khó đi. Ở một số vùng như vậy, cả khỉ và người đều không thể đến, trong khi ở những vùng khác, khỉ có thể đến nhưng người thì không. Cũng có những nơi bằng phẳng, dễ chịu mà cả khỉ và người đều có thể đến. Ở đó, những người thợ săn đặt bẫy nhựa đường trên các lối đi của khỉ để bắt chúng.
 
 Những con khỉ không liều lĩnh và khinh suất sẽ nhìn thấy nhựa đường và tránh xa. Nhưng một con khỉ ngu ngốc và liều lĩnh lại đến gần nhựa đường và dùng một tay tóm lấy nó. Nó bị dính chặt ở đó. Nghĩ rằng sẽ gỡ tay ra, nó dùng tay kia tóm lấy. Nó bị dính chặt ở đó. Nghĩ rằng sẽ gỡ cả hai tay, nó dùng một chân tóm lấy. Nó bị dính chặt ở đó. Nghĩ rằng sẽ gỡ cả hai tay và một chân, nó dùng chân kia tóm lấy. Nó bị dính chặt ở đó. Nghĩ rằng sẽ gỡ cả hai tay và hai chân, nó dùng mõm tóm lấy. Nó bị dính chặt ở đó.
@@ -134,8 +127,7 @@ Các con nên đi trong lãnh địa của mình, lãnh địa của tổ tiên 
 Và đâu là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên? Đó là *bốn niệm xứ*. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là lãnh địa của một *Tỷ kheo*, lãnh địa của tổ tiên."
 
 <!--pg-->
-### SN 47.8 Người Đầu Bếp *Kinh Sūda*{#8}
-
+### SN 47.8 Người Đầu Bếp *Kinh Sūda* {#8}
 "Này các *Tỷ kheo*, giả sử một người đầu bếp ngu ngốc, bất tài, không khéo léo phục vụ một vị vua hoặc quan đại thần của họ với đủ loại cà ri xa hoa: cực kỳ chua, đắng, cay, và ngọt; nóng và dịu, mặn và nhạt.
 
 Nhưng người đầu bếp đó không nhận ra gợi ý của chủ nhân mình: 'Hôm nay chủ nhân của ta thích món sốt này, hoặc ông ấy đã với lấy nó, hoặc ông ấy đã lấy rất nhiều, hoặc ông ấy đã khen ngợi nó. Hôm nay chủ nhân của ta thích món sốt chua hoặc đắng hoặc cay hoặc ngọt hoặc nóng hoặc dịu hoặc mặn. Hoặc ông ấy thích món sốt nhạt, hoặc ông ấy đã với lấy món nhạt, hoặc ông ấy đã lấy rất nhiều, hoặc ông ấy đã khen ngợi nó.'
@@ -157,8 +149,7 @@ Tương tự như vậy, một *Tỷ kheo* sáng suốt, tài năng, khéo léo 
 *Tỷ kheo* sáng suốt, tài năng, khéo léo đó có được những trạng thái thiền an lạc trong đời này, và họ có được *chánh niệm* và *nhận biết rõ ràng*. Tại sao vậy? Bởi vì họ nhận ra gợi ý của *tâm* mình."
 
 <!--pg-->
-### SN 47.9 Bệnh *Kinh Gilāna*{#9}
-
+### SN 47.9 Bệnh *Kinh Gilāna* {#9}
 Tôi nghe như vầy. Một thời Đức Phật đang ở gần Vesālī, tại làng nhỏ Beluva. Tại đó, Đức Phật gọi các *Tỷ kheo*: "Này các *Tỷ kheo*, hãy vào mùa an cư mưa với bất kỳ bạn bè hay người quen nào các con có quanh Vesālī. Ta sẽ bắt đầu mùa an cư mưa ngay tại đây, trong làng nhỏ Beluva."
 
 "Vâng, bạch Thế Tôn," các *Tỷ kheo* ấy đáp lời. Họ làm theo lời Đức Phật dạy, trong khi Đức Phật bắt đầu mùa an cư mưa ngay tại làng nhỏ Beluva.
@@ -186,8 +177,7 @@ Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi m
 Dù là bây giờ hay sau khi ta đã qua đời, bất kỳ ai sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác; với giáo pháp là hòn đảo và nơi nương tựa của họ, không có nơi nương tựa nào khác—những *Tỷ kheo* của ta muốn rèn luyện sẽ là những người giỏi nhất trong những người giỏi nhất."
 
 <!--pg-->
-### SN 47.10 Khu Ni Viện *Kinh Bhikkhunupassaya*{#10}
-
+### SN 47.10 Khu Ni Viện *Kinh Bhikkhunupassaya* {#10}
 Bấy giờ, Tôn giả Ānanda đắp y vào buổi sáng, mang bát và y, đi đến khu ni viện, và ngồi xuống chiếc ghế đã được trải sẵn. Sau đó, một vài ni cô đến gặp Tôn giả Ānanda, đảnh lễ, ngồi sang một bên và thưa rằng:
 
 "Thưa Tôn giả Ānanda, một vài ni cô thiền định với tâm trí vững chắc trong *bốn niệm xứ*. Họ đã nhận ra một sự khác biệt cao hơn so với trước đây."
@@ -211,8 +201,7 @@ Vậy, Ānanda, ta đã dạy con sự phát triển có định hướng và s�
 <!--pg-->
 ## Chương tại Nālandā
 
-### SN 47.11 Bậc Đại Nhân *Kinh Mahāpurisa*{#11}
-
+### SN 47.11 Bậc Đại Nhân *Kinh Mahāpurisa* {#11}
 Tại Sāvatthī.
 
 Bấy giờ, Sāriputta đến gặp Đức Phật, đảnh lễ, ngồi sang một bên và thưa với Đức Phật:
@@ -226,8 +215,7 @@ Và làm thế nào một người có *tâm* giải thoát? Đó là khi một 
 Người có *tâm* giải thoát là một *bậc đại nhân*, ta nói vậy. Nếu *tâm* của họ không giải thoát, ta nói họ không phải là một *bậc đại nhân*."
 
 <!--pg-->
-### SN 47.12 Tại Nāḷandā *Kinh Nāḷandā*{#12}
-
+### SN 47.12 Tại Nāḷandā *Kinh Nāḷandā* {#12}
 Một thời Đức Phật đang ở gần Nāḷandā trong vườn xoài của Pāvārika. Bấy giờ, Sāriputta đến gặp Đức Phật, đảnh lễ, ngồi sang một bên và thưa rằng:
 
 "Bạch Thế Tôn, con có niềm tin vào Đức Phật đến nỗi con tin rằng không có vị tu sĩ khổ hạnh hay Bà-la-môn nào khác—dù là quá khứ, tương lai, hay hiện tại—mà *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri) lại vượt trội hơn Đức Phật khi nói về *sự tỉnh thức* (awakening / sambodhi / sự giác ngộ, sự hiểu biết hoàn toàn)."
@@ -255,8 +243,7 @@ Tương tự như vậy, con hiểu điều này bằng cách suy luận từ gi
 "Tốt lắm, tốt lắm, Sāriputta! Vậy Sāriputta, con nên thường xuyên nói bài giảng giáo pháp này cho các vị tăng, ni, nam cư sĩ, và nữ cư sĩ. Mặc dù sẽ có một số người ngốc nghếch có *hoài nghi* hay không chắc chắn về *Như Lai*, khi họ nghe bài giảng giáo pháp này, họ sẽ từ bỏ *hoài nghi* hay sự không chắc chắn đó."
 
 <!--pg-->
-### SN 47.13 Với Cunda *Kinh Cunda*{#13}
-
+### SN 47.13 Với Cunda *Kinh Cunda* {#13}
 Một thời Đức Phật đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika. Lúc đó, Tôn giả Sāriputta đang ở tại vùng Magadha gần làng nhỏ Nālaka, và ngài bị bệnh, đau đớn, bệnh rất nặng. Và sa di Cunda là người chăm sóc ngài.
 
 Sau đó, Tôn giả Sāriputta đã nhập diệt hoàn toàn do cơn bệnh đó. Rồi Cunda lấy bát và y của Sāriputta và lên đường đến Sāvatthī. Ngài đến gặp Tôn giả Ānanda tại Vườn Jeta, tu viện của Anāthapiṇḍika, đảnh lễ, ngồi sang một bên và thưa rằng:
@@ -290,8 +277,7 @@ Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi m
 Dù là bây giờ hay sau khi ta đã qua đời, bất kỳ ai sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác; với giáo pháp là hòn đảo và nơi nương tựa của họ, không có nơi nương tựa nào khác—những *Tỷ kheo* của ta muốn rèn luyện sẽ là những người giỏi nhất trong những người giỏi nhất."
 
 <!--pg-->
-### SN 47.14 Tại Ukkacelā *Kinh Ukkacela*{#14}
-
+### SN 47.14 Tại Ukkacelā *Kinh Ukkacela* {#14}
 Một thời Đức Phật đang ở tại xứ Vajji gần Ukkacelā bên bờ sông Hằng, cùng với một Tăng đoàn *Tỷ kheo* đông đảo. Đó là không lâu sau khi Sāriputta và Moggallāna đã nhập diệt hoàn toàn. Bấy giờ, Đức Phật đang ngồi ngoài trời, được Tăng đoàn *Tỷ kheo* vây quanh.
 
 Sau đó, Đức Phật nhìn quanh Tăng đoàn *Tỷ kheo*, những người đang im lặng. Ngài gọi họ:
@@ -315,8 +301,7 @@ Và làm thế nào một *Tỷ kheo* làm được điều này? Đó là khi m
 Dù là bây giờ hay sau khi ta đã qua đời, bất kỳ ai sống như hòn đảo của chính mình, nơi nương tựa của chính mình, không có nơi nương tựa nào khác; với giáo pháp là hòn đảo và nơi nương tựa của họ, không có nơi nương tựa nào khác—những *Tỷ kheo* của ta muốn rèn luyện sẽ là những người giỏi nhất trong những người giỏi nhất."
 
 <!--pg-->
-### SN 47.15 Với Bāhiya *Kinh Bāhiya*{#15}
-
+### SN 47.15 Với Bāhiya *Kinh Bāhiya* {#15}
 Tại Sāvatthī.
 
 Bấy giờ, Tôn giả Bāhiya đến gặp Đức Phật, đảnh lễ, ngồi sang một bên và thưa rằng:
@@ -332,8 +317,7 @@ Và rồi Tôn giả Bāhiya hoan hỷ và đồng ý với những gì Đức P
 Ngài hiểu rằng: "Tái sinh đã chấm dứt; hành trình tâm linh đã hoàn tất; những gì cần làm đã được làm; không còn gì nữa ở nơi này." Và Tôn giả Bāhiya đã trở thành một trong những bậc *A-la-hán*.
 
 <!--pg-->
-### SN 47.16 Với Uttiya *Kinh Uttiya*{#16}
-
+### SN 47.16 Với Uttiya *Kinh Uttiya* {#16}
 Tại Sāvatthī.
 
 Bấy giờ, Tôn giả Uttiya đến gặp Đức Phật... và hỏi ngài: "Bạch Thế Tôn, xin Đức Phật hãy dạy cho con giáo pháp một cách ngắn gọn. Sau khi nghe xong, con sẽ sống một mình, ẩn dật, *tinh cần*, nhiệt tâm, và quyết chí."
@@ -347,8 +331,7 @@ Và rồi Tôn giả Uttiya hoan hỷ và đồng ý với những gì Đức Ph
 Ngài hiểu rằng: "Tái sinh đã chấm dứt; hành trình tâm linh đã hoàn tất; những gì cần làm đã được làm; không còn gì nữa ở nơi này." Và Tôn giả Uttiya đã trở thành một trong những bậc *A-la-hán*.
 
 <!--pg-->
-### SN 47.17 Thánh Thiện *Kinh Ariya*{#17}
-
+### SN 47.17 Thánh Thiện *Kinh Ariya* {#17}
 "Này các *Tỷ kheo*, khi *bốn niệm xứ* này được phát triển và tu tập, chúng trở nên *thánh thiện* (noble / ariya / cao quý, thuộc về các bậc thánh) và *dẫn đến giải thoát* (emancipating / niyyānika / có khả năng đưa đến sự thoát khỏi khổ đau), và đưa người thực hành đến sự chấm dứt hoàn toàn khổ đau. Bốn pháp đó là gì?
 
 Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -356,8 +339,7 @@ Ngài hiểu rằng: "Tái sinh đã chấm dứt; hành trình tâm linh đã h
 Khi *bốn niệm xứ* này được phát triển và tu tập, chúng trở nên *thánh thiện* và *dẫn đến giải thoát*, và đưa người thực hành đến sự chấm dứt hoàn toàn khổ đau."
 
 <!--pg-->
-### SN 47.18 Phạm Thiên *Kinh Brahma*{#18}
-
+### SN 47.18 Phạm Thiên *Kinh Brahma* {#18}
 Một thời, khi mới giác ngộ, Đức Phật đang ở Uruvelā tại cây bàng của người chăn dê bên bờ sông Nerañjarā.
 
 Bấy giờ, khi đang ở một mình, ý nghĩ này nảy sinh trong *tâm* Ngài: "*Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.
@@ -379,8 +361,7 @@ Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên 
 > sẽ vượt qua, và đang vượt qua."
 
 <!--pg-->
-### SN 47.19 Tại Sedaka *Kinh Sedaka*{#19}
-
+### SN 47.19 Tại Sedaka *Kinh Sedaka* {#19}
 Một thời Đức Phật đang ở tại xứ Sumbha, gần thị trấn Sedaka của người Sumbha. Tại đó, Đức Phật gọi các *Tỷ kheo*:
 
 "Ngày xửa ngày xưa, này các *Tỷ kheo*, một người nhào lộn trên sào của bộ tộc làm nghề với xác chết đã dựng cây sào tre của bộ tộc mình lên và nói với người học trò Medakathālikā của mình: 'Nào, Medakathālikā thân mến, hãy trèo lên cây sào tre và đứng trên vai ta.'
@@ -398,8 +379,7 @@ Và làm thế nào các con trông chừng người khác bằng cách trông c
 Nghĩ rằng 'Ta sẽ tự trông chừng mình,' các con nên tu tập thiền niệm xứ. Nghĩ rằng 'Ta sẽ trông chừng người khác,' các con nên tu tập thiền niệm xứ. Trông chừng chính mình, các con trông chừng người khác; và trông chừng người khác, các con trông chừng chính mình."
 
 <!--pg-->
-### SN 47.20 Người Phụ Nữ Đẹp Nhất Xứ *Kinh Janapadakalyāṇī*{#20}
-
+### SN 47.20 Người Phụ Nữ Đẹp Nhất Xứ *Kinh Janapadakalyāṇī* {#20}
 Tôi nghe như vầy. Một thời Đức Phật đang ở tại xứ Sumbha, gần thị trấn Sedaka của người Sumbha. Tại đó, Đức Phật gọi các *Tỷ kheo*, "Này các *Tỷ kheo*!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật dạy rằng:
@@ -419,8 +399,7 @@ Vì vậy, các con nên rèn luyện như thế này: 'Chúng ta sẽ phát tri
 <!--pg-->
 ## Chương về Giới Đức và Thời Gian
 
-### SN 47.21 Giới Đức *Kinh Sīla*{#21}
-
+### SN 47.21 Giới Đức *Kinh Sīla* {#21}
 Tôi nghe như vầy. Một thời, các tôn giả Ānanda và Bhadda đang ở gần Pāṭaliputta, trong Tu viện Gà. Bấy giờ, vào cuối buổi chiều, Tôn giả Bhadda ra khỏi nơi ẩn tu, đến gặp Tôn giả Ānanda, và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ngài ngồi sang một bên và nói với Ānanda:
 
 "Thưa Tôn giả Ānanda, Đức Phật đã nói về *thiện giới* (skillful ethics / kusala sīla / ứng dụng đạo đức một cách khéo léo, mang lại lợi ích). Mục đích của chúng là gì?"
@@ -434,8 +413,7 @@ Tôi nghe như vầy. Một thời, các tôn giả Ānanda và Bhadda đang ở
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đức Phật đã nói về *thiện giới* đến mức độ cần thiết để phát triển *bốn niệm xứ*."
 
 <!--pg-->
-### SN 47.22 Lâu Dài *Kinh Ciraṭṭhiti*{#22}
-
+### SN 47.22 Lâu Dài *Kinh Ciraṭṭhiti* {#22}
 Cùng bối cảnh.
 
 "Nguyên nhân là gì, thưa Tôn giả Ānanda, lý do gì khiến chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn? Nguyên nhân là gì, lý do gì khiến chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn?"
@@ -449,8 +427,7 @@ Cùng bối cảnh.
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Chính vì không phát triển và tu tập *bốn niệm xứ* này mà chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn. Chính vì phát triển và tu tập *bốn niệm xứ* này mà chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn."
 
 <!--pg-->
-### SN 47.23 Suy Tàn *Kinh Parihāna*{#23}
-
+### SN 47.23 Suy Tàn *Kinh Parihāna* {#23}
 Một thời, các tôn giả Ānanda và Bhadda đang ở gần Pāṭaliputta, trong Tu viện Gà. Bấy giờ, vào cuối buổi chiều, Tôn giả Bhadda ra khỏi nơi ẩn tu, đến gặp Tôn giả Ānanda, và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ngài ngồi sang một bên và nói với Ānanda:
 
 "Nguyên nhân là gì, thưa Tôn giả Ānanda, lý do gì khiến chánh pháp suy tàn? Và nguyên nhân là gì, lý do gì khiến chánh pháp không suy tàn?"
@@ -464,8 +441,7 @@ Một thời, các tôn giả Ānanda và Bhadda đang ở gần Pāṭaliputta,
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Chính vì không phát triển và tu tập *bốn niệm xứ* này mà chánh pháp suy tàn. Và chính vì phát triển và tu tập *bốn niệm xứ* này mà chánh pháp không suy tàn."
 
 <!--pg-->
-### SN 47.24 Phiên Bản Đơn Giản *Kinh Suddha*{#24}
-
+### SN 47.24 Phiên Bản Đơn Giản *Kinh Suddha* {#24}
 Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -473,8 +449,7 @@ Tại Sāvatthī.
 Đây là *bốn niệm xứ*."
 
 <!--pg-->
-### SN 47.25 Một Vị Bà-la-môn Nào Đó *Kinh Aññatarabrāhmaṇa*{#25}
-
+### SN 47.25 Một Vị Bà-la-môn Nào Đó *Kinh Aññatarabrāhmaṇa* {#25}
 Tôi nghe như vầy. Một thời Đức Phật đang ở gần Sāvatthī trong Vườn Jeta, tu viện của Anāthapiṇḍika. Bấy giờ, một vị Bà-la-môn nào đó đến gặp Đức Phật, và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ông ngồi sang một bên và nói với Đức Phật:
 
 "Nguyên nhân là gì, thưa Tôn giả Gotama, lý do gì khiến chánh pháp không tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn? Và nguyên nhân là gì, lý do gì khiến chánh pháp tồn tại lâu dài sau khi *Như Lai* nhập diệt hoàn toàn?"
@@ -486,8 +461,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 Khi ngài nói điều này, vị Bà-la-môn nói với Đức Phật: "Tuyệt vời, thưa Tôn giả Gotama! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Gotama hãy nhớ đến tôi như một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 47.26 Một Phần *Kinh Padesa*{#26}
-
+### SN 47.26 Một Phần *Kinh Padesa* {#26}
 Một thời, các tôn giả Sāriputta, Mahāmoggallāna, và Anuruddha đang ở gần Sāketa, trong Rừng Gai. Bấy giờ, vào cuối buổi chiều, Sāriputta và Mahāmoggallāna ra khỏi nơi ẩn tu, đến gặp Anuruddha, và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, họ ngồi sang một bên. Sāriputta nói với Anuruddha:
 
 "Thưa Tôn giả, người ta nói về người được gọi là 'bậc *hữu học*'. Bậc *hữu học* được định nghĩa như thế nào?"
@@ -497,8 +471,7 @@ Một thời, các tôn giả Sāriputta, Mahāmoggallāna, và Anuruddha đang 
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Bậc *hữu học* là người đã phát triển một phần *bốn niệm xứ*."
 
 <!--pg-->
-### SN 47.27 Hoàn Toàn *Kinh Samatta*{#27}
-
+### SN 47.27 Hoàn Toàn *Kinh Samatta* {#27}
 Cùng bối cảnh.
 
 "Thưa Tôn giả, người ta nói về người được gọi là 'bậc *vô học* (adept / asekha / người đã hoàn tất việc tu học, một vị A-la-hán)'. Bậc *vô học* được định nghĩa như thế nào?"
@@ -508,8 +481,7 @@ Cùng bối cảnh.
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Bậc *vô học* là người đã phát triển hoàn toàn *bốn niệm xứ*."
 
 <!--pg-->
-### SN 47.28 Thế Giới *Kinh Loka*{#28}
-
+### SN 47.28 Thế Giới *Kinh Loka* {#28}
 Cùng bối cảnh. "Thưa Tôn giả Anuruddha, ngài đã phát triển và tu tập những điều gì để đạt được *hiểu biết trực tiếp* vĩ đại?"
 
 "Thưa Tôn giả, tôi đã đạt được *hiểu biết trực tiếp* vĩ đại bằng cách phát triển và tu tập *bốn niệm xứ*.
@@ -519,8 +491,7 @@ Bốn pháp đó là gì? Đó là khi tôi *an trú quan sát thân trên thân
 Và chính vì phát triển và tu tập *bốn niệm xứ* này mà tôi *hiểu biết trực tiếp* về ngàn thiên hà."
 
 <!--pg-->
-### SN 47.29 Với Sirivaḍḍha *Kinh Sirivaḍḍha*{#29}
-
+### SN 47.29 Với Sirivaḍḍha *Kinh Sirivaḍḍha* {#29}
 Một thời Tôn giả Ānanda đang ở gần Rājagaha, trong Rừng Trúc, nơi nuôi sóc. Bấy giờ, gia chủ Sirivaḍḍha bị bệnh, đau đớn, bệnh rất nặng. Sau đó, ông gọi một người đàn ông:
 
 "Xin ông, người đáng kính, hãy đến gặp Tôn giả Ānanda, và nhân danh tôi cúi đầu đảnh lễ dưới chân ngài. Hãy thưa với ngài: 'Bạch Tôn giả, gia chủ Sirivaḍḍha bị bệnh, đau đớn, bệnh rất nặng. Ông ấy cúi đầu đảnh lễ dưới chân ngài.' Và sau đó nói: 'Bạch Tôn giả, xin ngài hãy đến thăm ông ấy tại nhà vì lòng từ bi.'"
@@ -540,8 +511,7 @@ Bấy giờ, Tôn giả Ānanda đắp y vào buổi sáng, mang bát và y, đ�
 "Ông thật may mắn, gia chủ, thật vô cùng may mắn! Ông đã tuyên bố quả vị *bất lai* (non-return / anāgāmitā / quả vị không còn quay trở lại cõi dục, quả vị A-na-hàm)."
 
 <!--pg-->
-### SN 47.30 Với Mānadinna *Kinh Mānadinna*{#30}
-
+### SN 47.30 Với Mānadinna *Kinh Mānadinna* {#30}
 Cùng bối cảnh. Bấy giờ, gia chủ Mānadinna bị bệnh, đau đớn, bệnh rất nặng. Sau đó, ông gọi một người đàn ông:
 
 "Xin ông, người đáng kính, hãy đến gặp Tôn giả Ānanda..." ...
@@ -553,8 +523,7 @@ Cùng bối cảnh. Bấy giờ, gia chủ Mānadinna bị bệnh, đau đớn, 
 <!--pg-->
 ## Chương về Không Học Từ Ai Khác
 
-### SN 47.31 Không Học Từ Ai Khác *Kinh Ananussuta*{#31}
-
+### SN 47.31 Không Học Từ Ai Khác *Kinh Ananussuta* {#31}
 Tại Sāvatthī.
 
 "'Đây là sự quan sát một khía cạnh của thân.' Như vậy, này các *Tỷ kheo*, là cái thấy, cái biết, *trí tuệ*, sự chứng ngộ, và ánh sáng đã nảy sinh trong ta về những giáo pháp chưa từng được học từ ai khác trước đây. 'Sự quan sát một khía cạnh của thân này nên được phát triển.' ... 'Sự quan sát một khía cạnh của thân này đã được phát triển.' Như vậy là cái thấy, cái biết, *trí tuệ*, sự chứng ngộ, và ánh sáng đã nảy sinh trong ta về những giáo pháp chưa từng được học từ ai khác trước đây.
@@ -566,8 +535,7 @@ Tại Sāvatthī.
 'Đây là sự quan sát một khía cạnh của *pháp*.' ... 'Sự quan sát một khía cạnh của *pháp* này nên được phát triển.' ... 'Sự quan sát một khía cạnh của *pháp* này đã được phát triển.' Như vậy là cái thấy, cái biết, *trí tuệ*, sự chứng ngộ, và ánh sáng đã nảy sinh trong ta về những giáo pháp chưa từng được học từ ai khác trước đây."
 
 <!--pg-->
-### SN 47.32 Phai Nhạt *Kinh Virāga*{#32}
-
+### SN 47.32 Phai Nhạt *Kinh Virāga* {#32}
 "Này các *Tỷ kheo*, *bốn niệm xứ* này, khi được phát triển và tu tập, chỉ dẫn đến *sự nhàm chán* (disillusionment / nibbidā / sự chán ngán, không còn hứng thú với các pháp hữu vi), *sự ly tham* (dispassion / virāga / sự phai nhạt và chấm dứt tham ái), *sự chấm dứt* (cessation / nirodha / sự diệt tận khổ đau và nguyên nhân của nó), *sự an tịnh* (peace / vupasama / sự lắng dịu, bình yên), *hiểu biết trực tiếp*, *sự tỉnh thức*, và *Niết bàn*.
 
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -575,8 +543,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 *Bốn niệm xứ* này, khi được phát triển và tu tập, chỉ dẫn đến *sự nhàm chán*, *sự ly tham*, *sự chấm dứt*, *sự an tịnh*, *hiểu biết trực tiếp*, *sự tỉnh thức*, và *Niết bàn*."
 
 <!--pg-->
-### SN 47.33 Bỏ Lỡ *Kinh Viraddha*{#33}
-
+### SN 47.33 Bỏ Lỡ *Kinh Viraddha* {#33}
 "Này các *Tỷ kheo*, ai đã bỏ lỡ *bốn niệm xứ* thì đã bỏ lỡ con đường *thánh thiện* dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành *bốn niệm xứ* thì đã thực hành con đường *thánh thiện* dẫn đến sự chấm dứt hoàn toàn khổ đau.
 
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -584,8 +551,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 Ai đã bỏ lỡ *bốn niệm xứ* này thì đã bỏ lỡ con đường *thánh thiện* dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành *bốn niệm xứ* này thì đã thực hành con đường *thánh thiện* dẫn đến sự chấm dứt hoàn toàn khổ đau."
 
 <!--pg-->
-### SN 47.34 Phát Triển *Kinh Bhāvita*{#34}
-
+### SN 47.34 Phát Triển *Kinh Bhāvita* {#34}
 "Này các *Tỷ kheo*, khi *bốn niệm xứ* này được phát triển và tu tập, chúng dẫn đến việc đi từ bờ bên này sang bờ bên kia.
 
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -593,8 +559,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 Khi *bốn niệm xứ* này được phát triển và tu tập, chúng dẫn đến việc đi từ bờ bên này sang bờ bên kia."
 
 <!--pg-->
-### SN 47.35 Chánh Niệm *Kinh Sati*{#35}
-
+### SN 47.35 Chánh Niệm *Kinh Sati* {#35}
 Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, một *Tỷ kheo* nên sống có *chánh niệm* và *nhận biết rõ ràng*. Đây là lời chỉ dạy của ta cho các con.
@@ -604,15 +569,13 @@ Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *T�
 Và thế nào là một *Tỷ kheo* có *nhận biết rõ ràng*? Đó là khi một *Tỷ kheo* biết các *cảm thọ* khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Họ biết các suy nghĩ khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Họ biết các *nhận thức* (perception / saññā / tưởng / nhận thức, suy nghĩ) khi chúng khởi sinh, khi chúng tồn tại, và khi chúng qua đi. Đó là cách một *Tỷ kheo* có *nhận biết rõ ràng*. Một *Tỷ kheo* nên sống có *chánh niệm* và *nhận biết rõ ràng*. Đây là lời chỉ dạy của ta cho các con."
 
 <!--pg-->
-### SN 47.36 Giác Ngộ *Kinh Aññā*{#36}
-
+### SN 47.36 Giác Ngộ *Kinh Aññā* {#36}
 "Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây là *bốn niệm xứ*.
 
 Nhờ phát triển và tu tập *bốn niệm xứ* này, một trong hai kết quả có thể được mong đợi: *giác ngộ* ngay trong đời này, hoặc nếu còn lại gì đó, thì là quả vị *bất lai*."
 
 <!--pg-->
-### SN 47.37 Ham Muốn *Kinh Chanda*{#37}
-
+### SN 47.37 Ham Muốn *Kinh Chanda* {#37}
 "Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ từ bỏ ham muốn đối với thân. Khi ham muốn được từ bỏ, họ chứng ngộ sự giải thoát khỏi cái chết.
 
 Họ *an trú quan sát cảm thọ trên các cảm thọ*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ từ bỏ ham muốn đối với *cảm thọ*. Khi ham muốn được từ bỏ, họ chứng ngộ sự giải thoát khỏi cái chết.
@@ -622,8 +585,7 @@ Họ *an trú quan sát tâm trên tâm*—nhiệt tâm, biết rõ, và *chánh
 Họ *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ từ bỏ ham muốn đối với *pháp*. Khi ham muốn được từ bỏ, họ chứng ngộ sự giải thoát khỏi cái chết."
 
 <!--pg-->
-### SN 47.38 Hiểu Biết Hoàn Toàn *Kinh Pariññāta*{#38}
-
+### SN 47.38 Hiểu Biết Hoàn Toàn *Kinh Pariññāta* {#38}
 "Này các *Tỷ kheo*, có *bốn niệm xứ* này. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ *hiểu biết hoàn toàn* về thân. Khi thân được *hiểu biết hoàn toàn*, họ chứng ngộ sự giải thoát khỏi cái chết.
 
 Họ *an trú quan sát cảm thọ trên các cảm thọ*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ *hiểu biết hoàn toàn* về *cảm thọ*. Khi *cảm thọ* được *hiểu biết hoàn toàn*, họ chứng ngộ sự giải thoát khỏi cái chết.
@@ -633,8 +595,7 @@ Họ *an trú quan sát tâm trên tâm*—nhiệt tâm, biết rõ, và *chánh
 Họ *an trú quan sát pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Khi làm như vậy, họ *hiểu biết hoàn toàn* về *pháp*. Khi *pháp* được *hiểu biết hoàn toàn*, họ chứng ngộ sự giải thoát khỏi cái chết."
 
 <!--pg-->
-### SN 47.39 Phát Triển *Kinh Bhāvanā*{#39}
-
+### SN 47.39 Phát Triển *Kinh Bhāvanā* {#39}
 "Này các *Tỷ kheo*, ta sẽ dạy các con về sự phát triển của *bốn niệm xứ*. Hãy lắng nghe...
 
 Và sự phát triển của *bốn niệm xứ* là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -642,8 +603,7 @@ Và sự phát triển của *bốn niệm xứ* là gì? Đó là khi một *T�
 Đây là sự phát triển của *bốn niệm xứ*."
 
 <!--pg-->
-### SN 47.40 Phân Tích *Kinh Vibhaṅga*{#40}
-
+### SN 47.40 Phân Tích *Kinh Vibhaṅga* {#40}
 "Này các *Tỷ kheo*, ta sẽ dạy các con về thiền niệm xứ, sự phát triển của thiền niệm xứ, và thực hành dẫn đến sự phát triển của thiền niệm xứ. Hãy lắng nghe...
 
 Và thiền niệm xứ là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đây được gọi là thiền niệm xứ.
@@ -655,15 +615,13 @@ Và thực hành dẫn đến sự phát triển của thiền niệm xứ là g
 <!--pg-->
 ## Chương về Bất Tử
 
-### SN 47.41 Bất Tử *Kinh Amata*{#41}
-
+### SN 47.41 Bất Tử *Kinh Amata* {#41}
 Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, các con nên thiền định với *tâm* được thiết lập vững chắc trong *bốn niệm xứ*. Đừng để sự bất tử thoát khỏi tay các con. Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Các con nên thiền định với *tâm* được thiết lập vững chắc trong *bốn niệm xứ*. Đừng để sự bất tử thoát khỏi tay các con."
 
 <!--pg-->
-### SN 47.42 Nguồn Gốc *Kinh Samudaya*{#42}
-
+### SN 47.42 Nguồn Gốc *Kinh Samudaya* {#42}
 "Này các *Tỷ kheo*, ta sẽ dạy các con về nguồn gốc và sự chấm dứt của *bốn niệm xứ*. Hãy lắng nghe...
 
 Và nguồn gốc của thân là gì? Thân bắt nguồn từ thức ăn. Khi thức ăn chấm dứt, thân cũng chấm dứt.
@@ -675,8 +633,7 @@ Và nguồn gốc của thân là gì? Thân bắt nguồn từ thức ăn. Khi 
 *Pháp* bắt nguồn từ *sự chú tâm* (application of mind / manasikāra / tác ý, sự hướng tâm đến một đối tượng). Khi *sự chú tâm* chấm dứt, *pháp* cũng chấm dứt."
 
 <!--pg-->
-### SN 47.43 Con Đường *Kinh Magga*{#43}
-
+### SN 47.43 Con Đường *Kinh Magga* {#43}
 Tại Sāvatthī.
 
 Tại đó, Đức Phật gọi các *Tỷ kheo*: "Này các *Tỷ kheo*, một lần nọ, khi ta mới giác ngộ, ta đang ở Uruvelā tại cây bàng của người chăn dê bên bờ sông Nerañjarā. Khi đang ở một mình, ý nghĩ này nảy sinh trong *tâm*: '*Bốn niệm xứ* là *con đường duy nhất*. Con đường này nhằm thanh lọc chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, *chứng ngộ chánh pháp*, và thực chứng *Niết bàn*.
@@ -696,15 +653,13 @@ Bốn pháp đó là gì? Một *Tỷ kheo* sẽ *an trú quan sát thân trên 
 > sẽ vượt qua, và đang vượt qua.'"
 
 <!--pg-->
-### SN 47.44 Chánh Niệm *Kinh Sati*{#44}
-
+### SN 47.44 Chánh Niệm *Kinh Sati* {#44}
 "Này các *Tỷ kheo*, một *Tỷ kheo* nên sống có *chánh niệm*. Đây là lời chỉ dạy của ta cho các con.
 
 Và thế nào là một *Tỷ kheo* có *chánh niệm*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Đó là cách một *Tỷ kheo* có *chánh niệm*. Một *Tỷ kheo* nên sống có *chánh niệm*. Đây là lời chỉ dạy của ta cho các con."
 
 <!--pg-->
-### SN 47.45 Một Đống Thiện *Kinh Kusalarāsi*{#45}
-
+### SN 47.45 Một Đống Thiện *Kinh Kusalarāsi* {#45}
 "Nói một cách đúng đắn, này các *Tỷ kheo*, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện.
 
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -712,8 +667,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 Nói một cách đúng đắn, các con nên gọi *bốn niệm xứ* này là một 'đống thiện'. Vì *bốn niệm xứ* này hoàn toàn là một đống thiện."
 
 <!--pg-->
-### SN 47.46 Giới Luật Tu Viện *Kinh Pātimokkhasaṁvara*{#46}
-
+### SN 47.46 Giới Luật Tu Viện *Kinh Pātimokkhasaṁvara* {#46}
 Bấy giờ, một *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi sang một bên và thưa rằng:
 
 "Bạch Thế Tôn, xin Đức Phật hãy dạy cho con giáo pháp một cách ngắn gọn. Sau khi nghe xong, con sẽ sống một mình, ẩn dật, *tinh cần*, nhiệt tâm, và quyết chí."
@@ -731,8 +685,7 @@ Sau đó, vị *Tỷ kheo* ấy, sống một mình, ẩn dật, *tinh cần*, n
 Vị ấy hiểu rằng: "Tái sinh đã chấm dứt; hành trình tâm linh đã hoàn tất; những gì cần làm đã được làm; không còn gì nữa ở nơi này." Và vị *Tỷ kheo* ấy đã trở thành một trong những bậc *A-la-hán*.
 
 <!--pg-->
-### SN 47.47 Hành Vi Xấu *Kinh Duccarita*{#47}
-
+### SN 47.47 Hành Vi Xấu *Kinh Duccarita* {#47}
 Bấy giờ, một *Tỷ kheo* đến gặp Đức Phật... và nói:
 
 "Bạch Thế Tôn, xin Đức Phật hãy dạy cho con giáo pháp một cách ngắn gọn. Sau khi nghe xong, con sẽ sống một mình, ẩn dật, *tinh cần*, nhiệt tâm, và quyết chí."
@@ -744,8 +697,7 @@ Bốn pháp đó là gì? Hãy *an trú quan sát thân trên thân*—nhiệt t
 Và vị *Tỷ kheo* ấy đã trở thành một trong những bậc *A-la-hán*.
 
 <!--pg-->
-### SN 47.48 Bạn Bè *Kinh Mitta*{#48}
-
+### SN 47.48 Bạn Bè *Kinh Mitta* {#48}
 "Này các *Tỷ kheo*, những người mà các con có lòng từ bi, và những người đáng để lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong sự phát triển của *bốn niệm xứ*.
 
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -753,8 +705,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 Những người mà các con có lòng từ bi, và những người đáng để lắng nghe—bạn bè và đồng nghiệp, họ hàng và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong sự phát triển của *bốn niệm xứ*."
 
 <!--pg-->
-### SN 47.49 Cảm Thọ *Kinh Vedanā*{#49}
-
+### SN 47.49 Cảm Thọ *Kinh Vedanā* {#49}
 "Này các *Tỷ kheo*, có ba loại *cảm thọ* này. Ba loại đó là gì? *Dễ chịu, khó chịu, và trung tính* (Pleasant, painful, and neutral feeling / sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā / lạc thọ, khổ thọ, và không khổ không lạc thọ). Đây là ba loại *cảm thọ*. *Bốn niệm xứ* nên được phát triển để *hiểu biết hoàn toàn* về ba loại *cảm thọ* này.
 
 Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -762,8 +713,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 *Bốn niệm xứ* này nên được phát triển để *hiểu biết hoàn toàn* về ba loại *cảm thọ* này."
 
 <!--pg-->
-### SN 47.50 Lậu Hoặc *Kinh Āsava*{#50}
-
+### SN 47.50 Lậu Hoặc *Kinh Āsava* {#50}
 "Này các *Tỷ kheo*, có ba loại *lậu hoặc* này. Ba loại đó là gì? *Lậu hoặc của dục vọng* (defilements of sensuality / kāmāsava / sự ô nhiễm sâu kín của ham muốn giác quan), *lậu hoặc của sự tồn tại* (desire to be reborn / bhavāsava / sự ô nhiễm sâu kín của việc mong muốn được tái sinh), và *vô minh* (ignorance / avijjā / sự không hiểu biết về Tứ Diệu Đế, sự thiếu sáng suốt). Đây là ba loại *lậu hoặc*.
 
 *Bốn niệm xứ* nên được phát triển để từ bỏ ba loại *lậu hoặc* này.
@@ -775,8 +725,7 @@ Bốn pháp đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát thâ
 <!--pg-->
 ## Chương về các Bài Kinh Tóm Tắt về Sông Hằng
 
-### SN 47.51--62 Mười Hai Bài Kinh về Sông Hằng, v.v. *Phẩm Gaṅgāpeyyāla*{#51-62}
-
+### SN 47.51--62 Mười Hai Bài Kinh về Sông Hằng, v.v. *Phẩm Gaṅgāpeyyāla* {#51-62}
 "Này các *Tỷ kheo*, sông Hằng nghiêng, dốc, và hướng về phía đông. Tương tự như vậy, một *Tỷ kheo* phát triển và tu tập *bốn niệm xứ* sẽ nghiêng, dốc, và hướng về *Niết bàn*.
 
 Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại nghiêng, dốc, và hướng về *Niết bàn*? Đó là khi một *Tỷ kheo* *an trú quan sát thân trên thân*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời. Vị ấy *an trú quan sát cảm thọ trên các cảm thọ*... *tâm trên tâm*... *pháp trên các pháp*—nhiệt tâm, biết rõ, và *chánh niệm*, loại bỏ *tham ái và phiền muộn* trên đời.
@@ -791,8 +740,7 @@ Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại ng
 <!--pg-->
 ## Chương về Tinh Cần
 
-### SN 47.63--72 Như Lai *Phẩm Appamāda*{#63-72}
-
+### SN 47.63--72 Như Lai *Phẩm Appamāda* {#63-72}
 "Này các *Tỷ kheo*, *Như Lai*, bậc *A-la-hán*, vị Phật toàn giác, được cho là bậc cao nhất trong tất cả chúng sanh—dù là không chân, hai chân, bốn chân, hay nhiều chân..."
 
 **(Kể đầy đủ như trong SN 45.139–148.)**
@@ -805,8 +753,7 @@ Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại ng
 <!--pg-->
 ## Chương về Công Việc Khó Nhọc
 
-### SN 47.73--84 Công Việc Khó Nhọc, v.v. *Phẩm Balakaraṇīya*{#73-84}
-
+### SN 47.73--84 Công Việc Khó Nhọc, v.v. *Phẩm Balakaraṇīya* {#73-84}
 "Này các *Tỷ kheo*, tất cả công việc khó nhọc được thực hiện đều phụ thuộc vào đất và có nền tảng trên đất. ..."
 
 **(Kể đầy đủ như trong SN 45.149–160.)**
@@ -820,8 +767,7 @@ Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại ng
 <!--pg-->
 ## Chương về Tìm Kiếm
 
-### SN 47.85--94 Tìm Kiếm, v.v. *Phẩm Esanā*{#85-94}
-
+### SN 47.85--94 Tìm Kiếm, v.v. *Phẩm Esanā* {#85-94}
 "Này các *Tỷ kheo*, có ba sự tìm kiếm này. Ba sự tìm kiếm đó là gì? Sự tìm kiếm thú vui giác quan, sự tìm kiếm sự tồn tại tiếp diễn, và sự tìm kiếm con đường tâm linh. ..."
 
 **(Kể đầy đủ như trong SN 45.161–170.)**
@@ -835,8 +781,7 @@ Và làm thế nào một *Tỷ kheo* phát triển *bốn niệm xứ* lại ng
 <!--pg-->
 ## Chương về Lũ Lụt
 
-### SN 47.95--104 Các Xiềng Xích Cao Hơn, v.v. *Phẩm Ogha*{#95-104}
-
+### SN 47.95--104 Các Xiềng Xích Cao Hơn, v.v. *Phẩm Ogha* {#95-104}
 "Này các *Tỷ kheo*, có *năm xiềng xích cao* (five higher fetters / pañca uddhambhāgiyāni saṃyojanāni / năm ràng buộc cuối cùng trói buộc chúng sinh vào các cõi sắc và vô sắc: tham ái cõi sắc, tham ái cõi vô sắc, ngã mạn, trạo cử, và vô minh) này. Năm pháp đó là gì? Ham muốn tái sinh trong cõi sắc giới, ham muốn tái sinh trong cõi vô sắc giới, ngã mạn, *bồn chồn và hối hận*, và *vô minh*. Đây là *năm xiềng xích cao*.
 
 *Bốn niệm xứ* nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ *năm xiềng xích cao* này.

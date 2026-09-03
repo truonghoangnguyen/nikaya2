@@ -1,7 +1,6 @@
 # Phẩm về Chiến Sĩ
 
-### AN 5.71 Quả là Tâm Giải Thoát (1) *Paṭhamacetovimuttiphalasutta*{#71}
-
+### AN 5.71 Quả là Tâm Giải Thoát (1) *Paṭhamacetovimuttiphalasutta* {#71}
 "Này các Tỳ kheo, năm pháp này, khi được tu tập và làm cho sung mãn, sẽ có *tâm giải thoát* (freedom of heart / sự giải thoát của tâm) và *tuệ giải thoát* (freedom by wisdom / sự giải thoát bằng trí tuệ) là quả và lợi ích.
 
 Năm pháp gì? Một vị Tỳ kheo quán *sự bất tịnh của thân* (ugliness of the body / sự không sạch sẽ của thân), quán *sự ghê tởm trong vật thực* (repulsiveness of food / sự đáng ghê tởm của thức ăn), quán *sự không hài lòng với toàn thế giới* (dissatisfaction with the whole world / sự không vui thích với mọi thứ trên đời), quán *vô thường của mọi pháp hữu vi* (impermanence of all conditions / sự không bền vững của mọi sự vật hiện tượng được tạo tác), và an trú vững chắc *tưởng về cái chết của chính mình* (perception of their own death / nhận thức về cái chết của bản thân). Năm pháp này, khi được tu tập và làm cho sung mãn, sẽ có tâm giải thoát và tuệ giải thoát là quả và lợi ích. Khi một vị Tỳ kheo có tâm giải thoát và tuệ giải thoát, vị Tỳ kheo ấy được gọi là 'người đã nhổ then cài', 'người đã lấp hào sâu', 'người đã nhổ trụ cột', 'người không bị cản trở', và cũng là 'bậc Thánh đã hạ cờ, đặt gánh nặng xuống, không còn vướng mắc'.
@@ -17,8 +16,7 @@ Và thế nào là vị Tỳ kheo không bị cản trở? Đó là khi vị T�
 Và thế nào là vị Tỳ kheo bậc Thánh đã hạ cờ, đặt gánh nặng xuống, không còn vướng mắc? Đó là khi vị Tỳ kheo đã từ bỏ *ngã mạn* (conceit 'I am' / sự kiêu ngạo 'tôi là'), đoạn tận gốc rễ, làm cho như thân cây ta-la bị chặt ngọn, làm cho không thể tái sinh trong tương lai. Như vậy là vị Tỳ kheo bậc Thánh đã hạ cờ, đặt gánh nặng xuống, không còn vướng mắc."
 
 <!--pg-->
-### AN 5.72 Quả là Tâm Giải Thoát (2) *Dutiyacetovimuttiphalasutta*{#72}
-
+### AN 5.72 Quả là Tâm Giải Thoát (2) *Dutiyacetovimuttiphalasutta* {#72}
 "Này các Tỳ kheo, năm pháp này, khi được tu tập và làm cho sung mãn, sẽ có tâm giải thoát và tuệ giải thoát là quả và lợi ích. Năm pháp gì?
 
 *Nhận thức về vô thường* (perception of impermanence / nhận thức về sự không bền vững), *nhận thức về khổ trong cái vô thường* (perception of suffering in impermanence / nhận thức về sự đau khổ trong cái không bền vững), *nhận thức về vô ngã trong cái khổ* (perception of not-self in suffering / nhận thức về sự không có tự ngã trong cái đau khổ), *nhận thức về sự từ bỏ* (perception of giving up / nhận thức về việc buông bỏ), và *nhận thức về sự ly tham* (perception of fading away / nhận thức về sự phai nhạt ham muốn).
@@ -28,8 +26,7 @@ Năm pháp này, khi được tu tập và làm cho sung mãn, sẽ có tâm gi�
 Khi một vị Tỳ kheo có tâm giải thoát và tuệ giải thoát, vị Tỳ kheo ấy được gọi là 'người đã nhổ then cài', 'người đã lấp hào sâu', 'người đã nhổ trụ cột', 'người không bị cản trở', và cũng là 'bậc Thánh đã hạ cờ, đặt gánh nặng xuống, không còn vướng mắc'. ..."
 
 <!--pg-->
-### AN 5.73 Người Sống Theo Pháp (1) *Paṭhamadhammavihārīsutta*{#73}
-
+### AN 5.73 Người Sống Theo Pháp (1) *Paṭhamadhammavihārīsutta* {#73}
 Rồi một vị Tỳ kheo đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và thưa:
 
 "Bạch Thế Tôn, người ta nói về 'người sống theo Pháp'. Thế nào là một vị Tỳ kheo được định nghĩa là người sống theo Pháp?"
@@ -47,8 +44,7 @@ Có vị Tỳ kheo học thuộc lòng Pháp—kinh văn xuôi, kinh văn vần 
 Vậy, này Tỳ kheo, Ta đã dạy cho con về người học nhiều, người thuyết giảng nhiều, người tụng đọc nhiều, người suy tư nhiều, và người sống theo Pháp. Vì lòng thương tưởng, Ta đã làm những gì một vị đạo sư nên làm cho các đệ tử mong cầu lợi ích. Đây là những gốc cây, đây là những căn lều trống. Hãy *hành thiền* (practice absorption / thực hành thiền định), này Tỳ kheo! Đừng bất cẩn! Chớ để hối tiếc về sau! Đây là lời chỉ dạy của Ta cho các con."
 
 <!--pg-->
-### AN 5.74 Người Sống Theo Pháp (2) *Dutiyadhammavihārīsutta*{#74}
-
+### AN 5.74 Người Sống Theo Pháp (2) *Dutiyadhammavihārīsutta* {#74}
 Rồi một vị Tỳ kheo đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và thưa:
 
 "Bạch Thế Tôn, người ta nói về 'người sống theo Pháp'. Thế nào là một vị Tỳ kheo được định nghĩa là người sống theo Pháp?"
@@ -66,8 +62,7 @@ Có vị Tỳ kheo học thuộc lòng Pháp—kinh văn xuôi, kinh văn vần 
 Vậy, này Tỳ kheo, Ta đã dạy cho con về người học nhiều, người thuyết giảng nhiều, người tụng đọc nhiều, người suy tư nhiều, và người sống theo Pháp. Vì lòng thương tưởng, Ta đã làm những gì một vị đạo sư nên làm cho các đệ tử mong cầu lợi ích. Đây là những gốc cây, đây là những căn lều trống. Hãy hành thiền, này Tỳ kheo! Đừng bất cẩn! Chớ để hối tiếc về sau! Đây là lời chỉ dạy của Ta cho các con."
 
 <!--pg-->
-### AN 5.75 Chiến Sĩ (1) *Paṭhamayodhājīvasutta*{#75}
-
+### AN 5.75 Chiến Sĩ (1) *Paṭhamayodhājīvasutta* {#75}
 "Này các Tỳ kheo, có năm hạng chiến sĩ này được tìm thấy trên thế gian. Năm hạng nào?
 
 Thứ nhất, có chiến sĩ chỉ mới thấy đám bụi đã nao núng và chùn bước. Anh ta không đứng vững, và không thể xông vào trận chiến. Có những chiến sĩ như vậy. Đây là hạng chiến sĩ thứ nhất được tìm thấy trên thế gian.
@@ -113,8 +108,7 @@ Ta nói rằng người này giống như chiến sĩ có thể vượt qua đá
 Năm hạng người giống như chiến sĩ này được tìm thấy giữa các Tỳ kheo."
 
 <!--pg-->
-### AN 5.76 Chiến Sĩ (2) *Dutiyayodhājīvasutta*{#76}
-
+### AN 5.76 Chiến Sĩ (2) *Dutiyayodhājīvasutta* {#76}
 "Này các Tỳ kheo, có năm hạng chiến sĩ này được tìm thấy trên thế gian. Năm hạng nào?
 
 Thứ nhất, có chiến sĩ mang gươm và khiên, đeo cung tên, và xông vào giữa trận chiến. Anh ta nỗ lực và chiến đấu trong trận chiến, nhưng kẻ thù giết chết và kết liễu anh ta. Có những chiến sĩ như vậy. Đây là hạng chiến sĩ thứ nhất được tìm thấy trên thế gian.
@@ -166,8 +160,7 @@ Ta nói rằng người này giống như chiến sĩ mang gươm và khiên, đ
 Năm hạng người giống như chiến sĩ này được tìm thấy giữa các Tỳ kheo."
 
 <!--pg-->
-### AN 5.77 Những Nguy Hiểm Trong Tương Lai (1) *Paṭhamaanāgatabhayasutta*{#77}
-
+### AN 5.77 Những Nguy Hiểm Trong Tương Lai (1) *Paṭhamaanāgatabhayasutta* {#77}
 "Này các Tỳ kheo, thấy rõ năm nguy hiểm trong tương lai này là đủ để một *Tỳ kheo sống nơi rừng núi* (wilderness mendicant / vị Tỳ kheo tu tập ở nơi hoang dã) thiền định một cách tinh cần, nhiệt tâm, và quyết chí để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ.
 
 Năm nguy hiểm gì? Thứ nhất, một Tỳ kheo sống nơi rừng núi suy xét: 'Hiện tại ta đang sống một mình nơi hoang dã. Khi sống một mình ở đây, ta có thể bị rắn, bọ cạp, hay rết cắn. Và nếu ta chết vì điều đó, nó sẽ là một trở ngại cho sự tiến bộ của ta. Tốt hơn hết ta nên khơi dậy *siêng năng* (energy / sự nỗ lực) để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ.' Đây là nguy hiểm tương lai thứ nhất...
@@ -183,8 +176,7 @@ Lại nữa, một Tỳ kheo sống nơi rừng núi suy xét: 'Hiện tại ta 
 Đó là năm nguy hiểm trong tương lai, thấy rõ chúng là đủ để một Tỳ kheo sống nơi rừng núi thiền định một cách tinh cần, nhiệt tâm, và quyết chí để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ."
 
 <!--pg-->
-### AN 5.78 Những Nguy Hiểm Trong Tương Lai (2) *Dutiyaanāgatabhayasutta*{#78}
-
+### AN 5.78 Những Nguy Hiểm Trong Tương Lai (2) *Dutiyaanāgatabhayasutta* {#78}
 "Này các Tỳ kheo, thấy rõ năm nguy hiểm trong tương lai này là đủ để một vị Tỳ kheo thiền định một cách tinh cần, nhiệt tâm, và quyết chí để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ. Năm nguy hiểm gì?
 
 Một vị Tỳ kheo suy xét: 'Hiện tại ta còn trẻ, thanh niên, tóc đen nhánh, đang độ xuân xanh, trong thời kỳ sung mãn nhất của cuộc đời. Nhưng sẽ đến lúc thân này bị tuổi già xâm chiếm. Khi già yếu, bị tuổi già khuất phục, thật không dễ để chú tâm vào lời dạy của chư Phật, và không dễ để thường lui tới những nơi ở xa xôi trong rừng núi hoang dã. Trước khi điều không mong muốn, không ưa thích, và khó chịu đó xảy ra, tốt hơn hết ta nên đón đầu nó bằng cách khơi dậy siêng năng để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ. Bằng cách đó, khi điều đó xảy ra, ta vẫn sống thoải mái dù đã già.' Đây là nguy hiểm tương lai thứ nhất...
@@ -200,8 +192,7 @@ Lại nữa, một vị Tỳ kheo suy xét: 'Hiện tại, *Tăng đoàn* (Saṅ
 Đó là năm nguy hiểm trong tương lai, thấy rõ chúng là đủ để một vị Tỳ kheo thiền định một cách tinh cần, nhiệt tâm, và quyết chí để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ."
 
 <!--pg-->
-### AN 5.79 Những Nguy Hiểm Trong Tương Lai (3) *Tatiyaanāgatabhayasutta*{#79}
-
+### AN 5.79 Những Nguy Hiểm Trong Tương Lai (3) *Tatiyaanāgatabhayasutta* {#79}
 "Này các Tỳ kheo, năm nguy hiểm trong tương lai này hiện chưa phát sinh, nhưng chúng sẽ phát sinh trong tương lai. Các con nên đề phòng chúng và cố gắng từ bỏ chúng.
 
 Năm nguy hiểm gì? Trong tương lai sẽ có những Tỳ kheo chưa *phát triển về thân, giới, tâm, và trí tuệ* (developed physical endurance, ethics, mind, and wisdom / tu tập về thân thể, đạo đức, tâm định, và trí tuệ). Họ sẽ *truyền giới cụ túc* (ordain / làm lễ xuất gia chính thức cho người khác) cho người khác, nhưng không thể hướng dẫn họ trong *tăng thượng giới, tăng thượng tâm, tăng thượng tuệ* (higher ethics, mind, and wisdom / giới hạnh cao hơn, tâm định cao hơn, trí tuệ cao hơn). Những người được truyền giới đó cũng sẽ không phát triển về thân, giới, tâm, và trí tuệ. Họ cũng sẽ truyền giới cụ túc cho người khác, nhưng không thể hướng dẫn họ trong tăng thượng giới, tăng thượng tâm, tăng thượng tuệ. Những người này cũng sẽ không phát triển về thân, giới, tâm, và trí tuệ. Và đó là cách sự tu tập hư hoại đến từ giáo pháp hư hoại, và giáo pháp hư hoại đến từ sự tu tập hư hoại. Đây là nguy hiểm tương lai thứ nhất hiện chưa phát sinh, nhưng sẽ phát sinh trong tương lai...
@@ -217,8 +208,7 @@ Lại nữa, trong tương lai sẽ có những Tỳ kheo chưa phát triển v�
 Đó là năm nguy hiểm trong tương lai hiện chưa phát sinh, nhưng sẽ phát sinh trong tương lai. Các con nên đề phòng chúng, và cố gắng từ bỏ chúng."
 
 <!--pg-->
-### AN 5.80 Những Nguy Hiểm Trong Tương Lai (4) *Catutthaanāgatabhayasutta*{#80}
-
+### AN 5.80 Những Nguy Hiểm Trong Tương Lai (4) *Catutthaanāgatabhayasutta* {#80}
 "Này các Tỳ kheo, năm nguy hiểm trong tương lai này hiện chưa phát sinh, nhưng chúng sẽ phát sinh trong tương lai. Các con nên đề phòng chúng và cố gắng từ bỏ chúng.
 
 Năm nguy hiểm gì? Trong tương lai sẽ có những Tỳ kheo thích y phục đẹp. Họ sẽ sao lãng hạnh mặc *y phấn tảo* (rag robes / y may từ vải vụn nhặt ở đống rác hoặc nghĩa địa) và hạnh thường lui tới những nơi ở xa xôi trong rừng núi hoang dã. Họ sẽ xuống các làng mạc, thị trấn, và kinh đô và định cư ở đó. Và họ sẽ cố gắng kiếm y phục bằng nhiều cách sai trái và không phù hợp. Đây là nguy hiểm tương lai thứ nhất hiện chưa phát sinh, nhưng sẽ phát sinh trong tương lai...

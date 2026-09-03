@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương về Các Vị Trưởng Làng
 
-### SN 42.1 Kinh Caṇḍa (Nóng Nảy){#1}
-
+### SN 42.1 Kinh Caṇḍa (Nóng Nảy) {#1}
 Tại Sāvatthī.
 
 Khi ấy, vị trưởng làng tên là Caṇḍa (Nóng Nảy) đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
@@ -18,8 +17,7 @@ Nhưng hãy xem một người đã từ bỏ *tham* (greed / lòng tham). Vì v
 Khi Ngài nói vậy, vị trưởng làng tên là Caṇḍa thưa với Đức Phật: "Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời! Như thể lật ngửa vật bị úp, hay phơi bày vật bị che giấu, hay chỉ đường cho người lạc lối, hay thắp đèn trong bóng tối để người có mắt sáng có thể thấy được vật ở đó, Đức Phật đã làm sáng tỏ giáo pháp bằng nhiều cách. Con xin quy y Phật, quy y Pháp, và quy y Tăng đoàn Tỷ kheo. Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.2 Kinh Tālapuṭa{#2}
-
+### SN 42.2 Kinh Tālapuṭa {#2}
 Một thời, Đức Phật đang ở gần Rājagaha (Vương Xá), trong Trúc Lâm, nơi nuôi dưỡng các con sóc. Khi ấy, Tālapuṭa, một trưởng đoàn kịch, đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Đức Phật:
 
 "Bạch Thế Tôn, con đã nghe các nghệ sĩ kịch đời trước, những người thầy của các bậc thầy, nói rằng: 'Giả sử một nghệ sĩ kịch làm cho mọi người vui vẻ và giải trí trên sân khấu hay tại một lễ hội bằng sự thật và dối trá. Khi thân hoại mạng chung, sau khi chết, họ được tái sanh cùng với các vị chư thiên hay cười.' Đức Phật nói gì về điều này?"
@@ -49,8 +47,7 @@ Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời! Như thể lật 
 Và trưởng đoàn kịch Tālapuṭa đã được xuất gia, thọ giới trước sự hiện diện của Đức Phật. Không lâu sau khi xuất gia, Tôn giả Tālapuṭa đã trở thành một trong những vị *A-la-hán* (perfected / người đã giác ngộ hoàn toàn).
 
 <!--pg-->
-### SN 42.3 Kinh Một Chiến Binh{#3}
-
+### SN 42.3 Kinh Một Chiến Binh {#3}
 Khi ấy, Yodhājīva, vị trưởng làng chiến binh, đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
 
 "Bạch Thế Tôn, con đã nghe các chiến binh đời trước, những người thầy của các bậc thầy, nói rằng: 'Giả sử một chiến binh, trong khi nỗ lực và chiến đấu trên chiến trường, bị kẻ thù giết chết và kết liễu. Khi thân hoại mạng chung, sau khi chết, anh ta được tái sanh cùng với các vị chư thiên của những người tử trận.' Đức Phật nói gì về điều này?"
@@ -78,20 +75,17 @@ Khi Ngài nói vậy, Yodhājīva, vị trưởng làng chiến binh, khóc và 
 Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời! ... Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.4 Kinh Một Chiến Binh Cưỡi Voi{#4}
-
+### SN 42.4 Kinh Một Chiến Binh Cưỡi Voi {#4}
 Khi ấy, một vị trưởng làng nài voi đến gặp Đức Phật... "Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.5 Kinh Một Kỵ Binh{#5}
-
+### SN 42.5 Kinh Một Kỵ Binh {#5}
 Khi ấy, một vị trưởng làng kỵ binh đến gặp Đức Phật...
 
 "Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.6 Kinh với Con Trai của Asibandhaka{#6}
-
+### SN 42.6 Kinh với Con Trai của Asibandhaka {#6}
 Một thời, Đức Phật đang ở gần Nāḷandā, trong vườn xoài của Pāvārika.
 
 Khi ấy, vị trưởng làng, con trai của Asibandhaka, đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
@@ -123,8 +117,7 @@ Khi ấy, vị trưởng làng, con trai của Asibandhaka, đến gặp Đức 
 Khi Ngài nói vậy, vị trưởng làng, con trai của Asibandhaka, thưa với Đức Phật: "Thật tuyệt vời, bạch Thế Tôn! ... Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.7 Kinh Ví Dụ về Cánh Đồng{#7}
-
+### SN 42.7 Kinh Ví Dụ về Cánh Đồng {#7}
 Một thời, Đức Phật đang ở gần Nāḷandā, trong vườn xoài của Pāvārika. Khi ấy, vị trưởng làng, con trai của Asibandhaka, đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
 
 "Bạch Thế Tôn, chẳng phải Đức Phật sống với lòng bi mẫn với tất cả chúng sanh sao?"
@@ -156,8 +149,7 @@ Giả sử một người có ba cái bình nước: một cái không nứt và
 Khi Ngài nói vậy, vị trưởng làng, con trai của Asibandhaka, thưa với Đức Phật: "Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời! ... Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.8 Kinh Người Thổi Tù Và{#8}
-
+### SN 42.8 Kinh Người Thổi Tù Và {#8}
 Một thời, Đức Phật đang ở gần Nāḷandā, trong vườn xoài của Pāvārika.
 
 Khi ấy, vị trưởng làng, con trai của Asibandhaka, là một đệ tử của Kỳ-na giáo, đến gặp Đức Phật, và ngồi xuống một bên. Đức Phật hỏi ông: "Này trưởng làng, vị tu sĩ Kỳ-na giáo thuộc dòng họ Ñātika dạy các đệ tử của mình như thế nào?"
@@ -201,8 +193,7 @@ Khi ấy, vị thánh đệ tử đó ly dục, ly sân, không mê mờ, tỉnh
 Khi Ngài nói vậy, vị trưởng làng, con trai của Asibandhaka, thưa với Đức Phật: "Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời! ... Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.9 Kinh Các Gia Đình{#9}
-
+### SN 42.9 Kinh Các Gia Đình {#9}
 Một thời, Đức Phật đang du hành trong xứ Kosala cùng với một Tăng đoàn Tỷ kheo đông đảo thì Ngài đến Nāḷandā. Ở đó, Ngài ở gần Nāḷandā trong vườn xoài của Pāvārika.
 
 Lúc bấy giờ ở Nāḷandā đang có nạn đói và khan hiếm, mùa màng thất bát, chỉ còn rơm rạ. Lúc đó, vị tu sĩ Kỳ-na giáo thuộc dòng họ Ñātika đang cư ngụ tại Nāḷandā cùng với một hội chúng đông đảo các tu sĩ Kỳ-na giáo. Khi ấy, vị trưởng làng, con trai của Asibandhaka, là một đệ tử của Kỳ-na giáo, đến gặp vị tu sĩ Kỳ-na giáo Ñātika, đảnh lễ, và ngồi xuống một bên. Vị tu sĩ Kỳ-na giáo Ñātika nói với ông:
@@ -230,8 +221,7 @@ Với tám lý do này được tìm thấy, giả sử có người nói rằng
 Khi Ngài nói vậy, vị trưởng làng, con trai của Asibandhaka, thưa với Đức Phật: "Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời! ... Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.10 Kinh với Maṇicūḷaka{#10}
-
+### SN 42.10 Kinh với Maṇicūḷaka {#10}
 Một thời, Đức Phật đang ở gần Rājagaha, trong Trúc Lâm, nơi nuôi dưỡng các con sóc. Lúc bấy giờ, trong khi đoàn tùy tùng của nhà vua đang ngồi cùng nhau trong hoàng cung, cuộc thảo luận này đã nảy sinh giữa họ: "Vàng và tiền là thích hợp cho các vị sa-môn theo dòng họ Thích Ca. Họ chấp nhận và nhận vàng và tiền."
 
 Lúc bấy giờ, vị trưởng làng Maṇicūḷaka đang ngồi trong hội chúng đó. Ông nói với đoàn tùy tùng đó: "Thưa các vị, đừng nói vậy. Vàng và tiền không thích hợp cho các vị sa-môn theo dòng họ Thích Ca. Họ không chấp nhận cũng không nhận vàng và tiền. Họ đã từ bỏ châu báu và vàng, và từ chối vàng và tiền." Ông đã có thể thuyết phục được hội chúng đó.
@@ -247,8 +237,7 @@ Nếu vàng và tiền là thích hợp cho họ, thì năm loại dục lạc g
 Thay vào đó, trưởng làng, ta nói điều này: Rơm có thể được tìm kiếm bởi người cần rơm; gỗ có thể được tìm kiếm bởi người cần gỗ; xe có thể được tìm kiếm bởi người cần xe; thợ có thể được tìm kiếm bởi người cần thợ. Nhưng ta nói rằng không có cách nào họ có thể chấp nhận hay tìm kiếm vàng và tiền."
 
 <!--pg-->
-### SN 42.11 Kinh với Bhadraka{#11}
-
+### SN 42.11 Kinh với Bhadraka {#11}
 Một thời, Đức Phật đang ở trong xứ của người Malla, gần thị trấn Uruvelakappa của người Malla. Khi ấy, Bhadraka, vị trưởng làng, đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và thưa với Ngài:
 
 "Bạch Thế Tôn, xin hãy dạy cho con về sự sanh khởi và đoạn diệt của khổ."
@@ -296,8 +285,7 @@ Con có một cậu con trai tên là Ciravāsi, đang ở trong một ngôi nh�
 "Đây cũng là một cách để hiểu: 'Tất cả những khổ đau phát sinh đều bắt nguồn và có nguồn gốc từ ham muốn. Vì ham muốn là gốc rễ của khổ đau.'"
 
 <!--pg-->
-### SN 42.12 Kinh với Rāsiya{#12}
-
+### SN 42.12 Kinh với Rāsiya {#12}
 Khi ấy, Rāsiya, vị trưởng làng, đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và thưa với Ngài:
 
 "Bạch Thế Tôn, con đã nghe điều này: 'Sa-môn Gotama chỉ trích mọi hình thức khổ hạnh. Ngài dứt khoát lên án và tố cáo những người khổ hạnh nhiệt thành sống khắc khổ.' Những người nói như vậy có lặp lại những gì Đức Phật đã nói, và không xuyên tạc Ngài bằng một điều không thật không? Lời giải thích của họ có phù hợp với giáo pháp không? Có bất kỳ cơ sở chính đáng nào để bác bỏ và chỉ trích không?"
@@ -365,8 +353,7 @@ Một người si mê, vì sự si mê, có ý định làm hại chính mình, 
 Khi Ngài nói vậy, Rāsiya, vị trưởng làng, thưa với Đức Phật: "Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời! ... Kể từ hôm nay, xin Đức Phật ghi nhận con là một người cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 42.13 Kinh với Pāṭaliya{#13}
-
+### SN 42.13 Kinh với Pāṭaliya {#13}
 Một thời, Đức Phật đang ở trong xứ của người Koliya, nơi họ có một thị trấn tên là Uttara. Khi ấy, Pāṭaliya, vị trưởng làng, đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và thưa với Ngài:
 
 "Bạch Thế Tôn, con đã nghe điều này: 'Sa-môn Gotama biết ma thuật.' Những người nói như vậy có lặp lại những gì Đức Phật đã nói, và không xuyên tạc Ngài bằng một điều không thật không? Lời giải thích của họ có phù hợp với giáo pháp không? Có bất kỳ cơ sở chính đáng nào để bác bỏ và chỉ trích không? Vì chúng con không muốn xuyên tạc Đức Thế Tôn."

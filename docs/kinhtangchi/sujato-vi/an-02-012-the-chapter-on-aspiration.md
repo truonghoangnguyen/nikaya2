@@ -1,7 +1,6 @@
 # Phẩm Mong Ước
 
-### AN 2.130--140 *Āyācanavagga*{#130-140}
-
+### AN 2.130--140 *Āyācanavagga* {#130-140}
 130\. "Một vị Tỳ kheo có *tín* (faith / niềm tin) nên mong ước một cách đúng đắn rằng: 'Mong sao ta được như Sāriputta và Moggallāna!' Đây là thước đo và chuẩn mực cho các đệ tử Tỳ kheo của ta, tức là Sāriputta và Moggallāna."
 
 <!--pg-->

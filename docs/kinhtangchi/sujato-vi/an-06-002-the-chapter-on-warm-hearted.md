@@ -1,7 +1,6 @@
 # Phẩm về Pháp Đáng Nhớ Tưởng
 
-### AN 6.11 Pháp Đáng Nhớ Tưởng (1)  *Paṭhamasāraṇīyasutta*{#11}
-
+### AN 6.11 Pháp Đáng Nhớ Tưởng (1)  *Paṭhamasāraṇīyasutta* {#11}
 "Này các Tỳ kheo, có sáu *pháp đáng nhớ tưởng* (warm-hearted qualities / những phẩm chất đáng nhớ, tạo sự hòa hợp) này. Sáu là gì?
 
 Thứ nhất, vị Tỳ kheo luôn đối xử với các *bạn đồng tu* (spiritual companions / người cùng tu học) bằng *thân hành từ ái* (bodily kindness / hành động thân thể với lòng từ), cả khi công khai lẫn kín đáo. Đây là một pháp đáng nhớ tưởng.
@@ -19,8 +18,7 @@ Lại nữa, vị Tỳ kheo sống theo *tri kiến* (view / thấy biết, quan
 Đó là sáu pháp đáng nhớ tưởng."
 
 <!--pg-->
-### AN 6.12 Pháp Đáng Nhớ Tưởng (2)  *Dutiyasāraṇīyasutta*{#12}
-
+### AN 6.12 Pháp Đáng Nhớ Tưởng (2)  *Dutiyasāraṇīyasutta* {#12}
 "Này các Tỳ kheo, sáu pháp đáng nhớ tưởng này tạo ra *sự quý mến và kính trọng* (fondness and respect / lòng yêu mến và tôn trọng), đưa đến *sự hòa hợp, đoàn kết và thống nhất* (inclusion, harmony, and unity / sự chấp nhận lẫn nhau, sống hòa thuận và đoàn kết), không tranh cãi. Sáu là gì?
 
 Thứ nhất, vị Tỳ kheo luôn đối xử với các bạn đồng tu bằng thân hành từ ái, cả khi công khai lẫn kín đáo. Pháp đáng nhớ tưởng này tạo ra sự quý mến và kính trọng, đưa đến sự hòa hợp, đoàn kết và thống nhất, không tranh cãi.
@@ -38,8 +36,7 @@ Lại nữa, vị Tỳ kheo sống theo tri kiến được chia sẻ cùng các
 Sáu pháp đáng nhớ tưởng này tạo ra sự quý mến và kính trọng, đưa đến sự hòa hợp, đoàn kết và thống nhất, không tranh cãi."
 
 <!--pg-->
-### AN 6.13 Pháp Đưa Đến Xuất Ly  *Nissāraṇīyasutta*{#13}
-
+### AN 6.13 Pháp Đưa Đến Xuất Ly  *Nissāraṇīyasutta* {#13}
 "Này các Tỳ kheo, có sáu *pháp đưa đến xuất ly* (elements of escape / những yếu tố dẫn đến sự thoát khỏi) này. Sáu là gì?
 
 Giả sử có vị Tỳ kheo nói: 'Tôi đã phát triển *tâm giải thoát bằng từ* (heart's release by love / sự giải thoát của tâm nhờ lòng từ). Tôi đã *tu tập, làm cho sung mãn, làm thành cỗ xe, làm thành căn cứ địa, thực hành vững chắc, tích lũy, khéo thực hành* (cultivated it, made it my vehicle and my basis, kept it up, consolidated it, and properly implemented it / phát triển, làm cho lớn mạnh, làm phương tiện, làm nền tảng, duy trì, củng cố, thực hành đúng đắn) nó. Thế mà không hiểu sao *tức giận* (ill will / tức giận) vẫn chiếm ngự tâm tôi.' Vị ấy nên được bảo: 'Không phải vậy, thưa Tôn giả! Đừng nói thế. Đừng xuyên tạc Đức Phật, vì xuyên tạc Đức Phật là không tốt. Và Đức Phật sẽ không nói như vậy. Thưa Hiền giả, điều đó là không thể, không thể xảy ra rằng tâm giải thoát bằng từ đã được phát triển và thực hành đúng đắn, mà tức giận vẫn chiếm ngự tâm trí. Vì chính tâm giải thoát bằng từ là sự xuất ly khỏi tức giận.'
@@ -57,8 +54,7 @@ Giả sử có vị Tỳ kheo khác nói: 'Tôi đã thoát khỏi *ngã mạn "
 Đó là sáu pháp đưa đến xuất ly."
 
 <!--pg-->
-### AN 6.14 Cái Chết Tốt Đẹp  *Bhaddakasutta*{#14}
-
+### AN 6.14 Cái Chết Tốt Đẹp  *Bhaddakasutta* {#14}
 Tại đó, Tôn giả Xá-lợi-phất nói với các Tỳ kheo: "Thưa các Hiền giả Tỳ kheo!"
 
 "Thưa Hiền giả," họ đáp. Tôn giả Xá-lợi-phất nói điều này:
@@ -82,8 +78,7 @@ Giả sử có vị Tỳ kheo không ưa thích công việc, nói chuyện, ng�
 > Nơi an ổn khỏi các ách缚 tối thượng."
 
 <!--pg-->
-### AN 6.15 Hối Hận  *Anutappiyasutta*{#15}
-
+### AN 6.15 Hối Hận  *Anutappiyasutta* {#15}
 Tại đó, Tôn giả Xá-lợi-phất nói với các Tỳ kheo:
 
 "Như vị Tỳ kheo dọn giường mình thế nào, họ phải nằm trên đó như vậy, và chết đi trong sự dày vò của *hối hận* (regret / ăn năn). Và làm thế nào họ chết đi trong sự dày vò của hối hận?
@@ -105,8 +100,7 @@ Giả sử có vị Tỳ kheo không ưa thích công việc, nói chuyện, ng�
 > Nơi an ổn khỏi các ách缚 tối thượng."
 
 <!--pg-->
-### AN 6.16 Cha của Nakula  *Nakulapitusutta*{#16}
-
+### AN 6.16 Cha của Nakula  *Nakulapitusutta* {#16}
 Một thời Đức Phật trú ở xứ Bhagga, tại đồi Cá Sấu, trong vườn nai Bhesakaḷā. Bấy giờ, gia chủ Nakulapitā (cha của Nakula) bị bệnh, đau đớn, bệnh tình nguy kịch. Khi ấy, nữ gia chủ Nakulamātā (mẹ của Nakula) nói với ông:
 
 "Thưa gia chủ, xin đừng qua đời với những lo lắng. Sự lo lắng như vậy là khổ đau, và nó bị Đức Phật quở trách. Thưa gia chủ, có thể ông nghĩ: 'Khi tôi mất đi, nữ gia chủ Nakulamātā sẽ không thể nuôi nấng con cái và trông nom nhà cửa.' Nhưng ông không nên thấy như vậy. Tôi rất giỏi kéo sợi bông và chải len. Tôi có thể nuôi nấng con cái và trông nom nhà cửa. Vì vậy, thưa gia chủ, xin đừng qua đời với những lo lắng...
@@ -134,8 +128,7 @@ Bà ấy là một trong những đệ tử áo trắng của Đức Phật đã
 Ông thật may mắn, gia chủ, thật vô cùng may mắn, khi có nữ gia chủ Nakulamātā khuyên bảo và chỉ dẫn ông với lòng từ ái và cảm thông."
 
 <!--pg-->
-### AN 6.17 Ngủ Nghỉ  *Soppasutta*{#17}
-
+### AN 6.17 Ngủ Nghỉ  *Soppasutta* {#17}
 Một thời Đức Phật trú gần Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika.
 
 Rồi vào buổi chiều muộn, Đức Phật ra khỏi nơi tĩnh tu, đi đến giảng đường, và ngồi xuống trên chỗ đã soạn sẵn. Tôn giả Xá-lợi-phất cũng ra khỏi nơi tĩnh tu, đi đến giảng đường, đảnh lễ Đức Phật và ngồi xuống một bên. Các Tôn giả Đại Mục-kiền-liên, Đại Ca-diếp, Đại Ca-chiên-diên, Đại Câu-hi-la, Đại Thuần-đà, Đại Ca-na-tỳ-na, A-nậu-lâu-đà, Ly-bà-đa, và A-nan cũng làm như vậy. Đức Phật dành phần lớn đêm ngồi thiền, sau đó đứng dậy khỏi chỗ ngồi và vào tịnh thất của Ngài. Và ngay sau khi Đức Phật rời đi, các vị Tôn giả đó mỗi người đều trở về trú xứ của mình.
@@ -169,8 +162,7 @@ Các ngươi nghĩ sao, này các Tỳ kheo? Các ngươi đã từng thấy hay
 Vì vậy, các ngươi nên tu tập như thế này: 'Chúng ta sẽ phòng hộ các căn, *ăn điều độ* (eat in moderation / ăn uống chừng mực), chú tâm cảnh giác, phân biệt thiện pháp, và theo đuổi sự phát triển các pháp đưa đến giác ngộ vào buổi tối và lúc rạng đông.' Đó là cách các ngươi nên tu tập."
 
 <!--pg-->
-### AN 6.18 Người Bán Cá  *Macchabandhasutta*{#18}
-
+### AN 6.18 Người Bán Cá  *Macchabandhasutta* {#18}
 Một thời Đức Phật đang du hành ở xứ Kosala cùng với một đại Tăng đoàn Tỳ kheo.
 
 Khi đang đi trên đường, Ngài thấy một người bán cá ở một nơi nọ đang bán cá do chính tay mình giết. Thấy vậy, Ngài rời khỏi con đường, ngồi dưới gốc cây trên chỗ đã soạn sẵn, và nói với các Tỳ kheo: "Này các Tỳ kheo, các ngươi có thấy người bán cá kia đang bán cá do chính tay mình giết không?"
@@ -198,8 +190,7 @@ Các ngươi nghĩ sao, này các Tỳ kheo? Các ngươi đã từng thấy hay
 Chỉ vì nhìn các loài vật bị dẫn đến chỗ giết mổ với ác ý mà người đó đã không được đi voi, ngựa, xe ngựa, hay xe cộ, hoặc được hưởng thụ của cải, hoặc sống nhờ vào tài sản lớn. Huống chi là người nhìn những con người bị dẫn đến chỗ giết mổ với ác ý! Điều này sẽ mang lại tai hại và đau khổ lâu dài cho họ. Khi thân hoại mạng chung, sau khi chết, họ sẽ tái sinh vào cõi dữ, nơi xấu xa, địa ngục."
 
 <!--pg-->
-### AN 6.19 Tỉnh Thức về Cái Chết (1)  *Paṭhamamaraṇassatisutta*{#19}
-
+### AN 6.19 Tỉnh Thức về Cái Chết (1)  *Paṭhamamaraṇassatisutta* {#19}
 Một thời Đức Phật trú tại Ñātika trong ngôi nhà gạch. Tại đó, Đức Phật nói với các Tỳ kheo: "Này các Tỳ kheo!"
 
 "Bạch Thế Tôn," họ đáp. Đức Phật nói điều này:
@@ -251,8 +242,7 @@ Nhưng đối với những Tỳ kheo phát triển tỉnh thức về cái ch�
 Vì vậy, các ngươi nên tu tập như thế này: 'Chúng ta sẽ sống tinh tấn. Chúng ta sẽ phát triển tỉnh thức về cái chết một cách sắc bén để đoạn tận các lậu hoặc.' Đó là cách các ngươi nên tu tập."
 
 <!--pg-->
-### AN 6.20 Tỉnh Thức về Cái Chết (2)  *Dutiyamaraṇassatisutta*{#20}
-
+### AN 6.20 Tỉnh Thức về Cái Chết (2)  *Dutiyamaraṇassatisutta* {#20}
 Một thời Đức Phật trú tại Ñātika trong ngôi nhà gạch. Tại đó, Đức Phật nói với các Tỳ kheo:
 
 "Này các Tỳ kheo, khi tỉnh thức về cái chết được phát triển và tu tập, nó mang lại kết quả và lợi ích lớn lao. Nó đạt đến đỉnh cao là bất tử và kết thúc trong bất tử. Và làm thế nào tỉnh thức về cái chết được phát triển và tu tập để mang lại kết quả và lợi ích lớn lao, để đạt đến đỉnh cao là bất tử và kết thúc trong bất tử?

@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương về các Ví Dụ
 
-### SN 20.1 Nóc Nhà *Kūṭasutta*{#1}
-
+### SN 20.1 Nóc Nhà *Kūṭasutta* {#1}
 Như vầy tôi nghe. Một thời, Đức Phật trú tại tu viện của ông Anāthapiṇḍika (Cấp Cô Độc) trong Vườn cây Jeta (Kỳ-đà), gần thành Sāvatthī (Xá-vệ).
 
 Tại đó, Đức Phật... đã nói:
@@ -14,8 +13,7 @@ Tại đó, Đức Phật... đã nói:
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ sống tinh tấn.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.2 Móng Tay *Nakhasikhasutta*{#2}
-
+### SN 20.2 Móng Tay *Nakhasikhasutta* {#2}
 Tại thành Xá-vệ.
 
 Bấy giờ, Đức Phật lấy một ít đất dưới móng tay và nói với các Tỷ kheo: "Này các Tỷ kheo, các vị nghĩ sao? Cái nào nhiều hơn: một ít đất dưới móng tay của Ta, hay quả đất vĩ đại này?"
@@ -27,8 +25,7 @@ Bấy giờ, Đức Phật lấy một ít đất dưới móng tay và nói v�
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ sống tinh tấn.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.3 Gia Đình *Kulasutta*{#3}
-
+### SN 20.3 Gia Đình *Kulasutta* {#3}
 Tại thành Xá-vệ.
 
 "Này các Tỷ kheo, những gia đình có nhiều phụ nữ và ít đàn ông thì dễ bị bọn cướp và trộm cắp tấn công. Cũng vậy, bất kỳ Tỷ kheo nào chưa phát triển và tu tập tâm giải thoát bằng tình thương thì dễ bị các loài phi nhân tấn công. Những gia đình có ít phụ nữ và nhiều đàn ông thì khó bị bọn cướp và trộm cắp tấn công. Cũng vậy, một Tỷ kheo đã phát triển và tu tập tâm giải thoát bằng tình thương thì khó bị các loài phi nhân tấn công.
@@ -36,8 +33,7 @@ Tại thành Xá-vệ.
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ phát triển tâm giải thoát bằng tình thương. Chúng ta sẽ tu tập nó, biến nó thành cỗ xe kiên cố của mình, duy trì, củng cố và thực hành nó một cách đúng đắn.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.4 Nồi Cơm *Okkhāsutta*{#4}
-
+### SN 20.4 Nồi Cơm *Okkhāsutta* {#4}
 Tại thành Xá-vệ.
 
 "Này các Tỷ kheo, giả sử có người cúng dường một trăm nồi cơm vào buổi sáng, buổi trưa và buổi tối. Và có người khác phát triển tâm từ ái, dù chỉ trong khoảng thời gian vắt sữa một con bò cái. Việc sau sẽ mang lại nhiều quả phúc hơn.
@@ -45,8 +41,7 @@ Tại thành Xá-vệ.
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ phát triển tâm giải thoát bằng tình thương. Chúng ta sẽ tu tập nó, biến nó thành cỗ xe kiên cố của mình, duy trì, củng cố và thực hành nó một cách đúng đắn.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.5 Ngọn Giáo *Sattisutta*{#5}
-
+### SN 20.5 Ngọn Giáo *Sattisutta* {#5}
 Tại thành Xá-vệ.
 
 "Này các Tỷ kheo, giả sử có một ngọn giáo sắc bén. Và một người đàn ông đến và nghĩ, 'Với bàn tay hoặc nắm đấm của mình, ta sẽ gấp ngọn giáo sắc bén này lại, làm nó nhàu nát, và uốn cong nó lại!'
@@ -60,8 +55,7 @@ Các vị nghĩ sao, này các Tỷ kheo? Người đàn ông đó có khả nă
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ phát triển tâm giải thoát bằng tình thương. Chúng ta sẽ tu tập nó, biến nó thành cỗ xe kiên cố của mình, duy trì, củng cố và thực hành nó một cách đúng đắn.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.6 Các Cung Thủ *Dhanuggahasutta*{#6}
-
+### SN 20.6 Các Cung Thủ *Dhanuggahasutta* {#6}
 Tại thành Xá-vệ.
 
 "Này các Tỷ kheo, giả sử có bốn cung thủ thiện xạ, được huấn luyện kỹ càng với những cây cung mạnh, đứng ở bốn phương. Và một người đàn ông đến và nghĩ, 'Khi bốn cung thủ thiện xạ này bắn tên về bốn phương, ta sẽ bắt lấy chúng trước khi chúng chạm đất, và rồi ta sẽ mang chúng trở lại.'
@@ -75,8 +69,7 @@ Các vị nghĩ sao, này các Tỷ kheo? Người đó có đủ tư cách đ�
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ sống tinh tấn.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.7 Cái Chốt Trống *Āṇisutta*{#7}
-
+### SN 20.7 Cái Chốt Trống *Āṇisutta* {#7}
 Tại thành Xá-vệ.
 
 "Ngày xưa, này các Tỷ kheo, người Dasāraha có một cái trống đất sét tên là Chỉ Huy. Mỗi khi trống Chỉ Huy bị nứt, họ lại sửa nó bằng cách đóng thêm một cái chốt khác. Nhưng rồi đến một lúc, vành gỗ ban đầu của cái trống Chỉ Huy đã biến mất và chỉ còn lại một khối toàn là chốt.
@@ -88,8 +81,7 @@ Nhưng khi những bài kinh do các nhà thơ sáng tác—thơ ca, với nhữ
 Vì vậy, các vị nên rèn luyện như sau: 'Khi những bài kinh do Như Lai thuyết giảng—sâu sắc, thâm thúy, siêu việt, nói về tánh không—được tụng đọc, chúng ta sẽ muốn lắng nghe. Chúng ta sẽ chủ động lắng nghe và cố gắng để hiểu, và chúng ta sẽ cho rằng những lời dạy đó đáng để học hỏi và ghi nhớ.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.8 Khúc Gỗ *Kaliṅgarasutta*{#8}
-
+### SN 20.8 Khúc Gỗ *Kaliṅgarasutta* {#8}
 Như vầy tôi nghe. Một thời, Đức Phật trú tại Đại Lâm, trong ngôi giảng đường có mái nhọn, gần thành Vesālī. Tại đó, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật nói điều này:
@@ -101,8 +93,7 @@ Ngày nay, các Tỷ kheo sống dùng những khúc gỗ làm gối, và họ t
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ sống dùng những khúc gỗ làm gối, và chúng ta sẽ thiền định một cách siêng năng và nhiệt thành.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.9 Voi Đầu Đàn *Nāgasutta*{#9}
-
+### SN 20.9 Voi Đầu Đàn *Nāgasutta* {#9}
 Như vầy tôi nghe. Một thời, Đức Phật trú tại tu viện của ông Anāthapiṇḍika trong Vườn cây Jeta, gần thành Xá-vệ. Bấy giờ, có một Tỷ kheo trẻ tuổi nào đó đã đi thăm các gia đình quá thường xuyên.
 
 Các Tỷ kheo nói với vị ấy: "Thưa Tôn giả, đừng đi thăm các gia đình quá thường xuyên."
@@ -122,8 +113,7 @@ Các Tỷ kheo trẻ tuổi, bắt chước các Tỷ kheo lớn tuổi, vào bu
 Vì vậy, các vị nên rèn luyện như sau: 'Khi nhận được vật phẩm, chúng ta sẽ sử dụng chúng mà không bị trói buộc, không say đắm, không dính mắc, thấy được những nguy hại và hiểu rõ sự thoát ly.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.10 Con Mèo *Biḷārasutta*{#10}
-
+### SN 20.10 Con Mèo *Biḷārasutta* {#10}
 Tại thành Xá-vệ.
 
 Bấy giờ, có một Tỷ kheo nào đó giao du với các gia đình quá thường xuyên.
@@ -143,8 +133,7 @@ Vì đó là cái chết trong sự tu tập của bậc Thánh khi từ bỏ vi
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ vào làng hoặc thị trấn để khất thực với sự phòng hộ thân, khẩu, ý, thiết lập chánh niệm, và thu thúc các giác quan.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.11 Con Chó Rừng *Siṅgālasutta*{#11}
-
+### SN 20.11 Con Chó Rừng *Siṅgālasutta* {#11}
 Tại thành Xá-vệ.
 
 "Này các Tỷ kheo, các vị có nghe thấy một con chó rừng già đang tru lên lúc rạng đông không?"
@@ -156,8 +145,7 @@ Tại thành Xá-vệ.
 Vì vậy, các vị nên rèn luyện như sau: 'Chúng ta sẽ sống tinh tấn.' Đó là cách các vị nên rèn luyện."
 
 <!--pg-->
-### SN 20.12 Con Chó Rừng (2) *Dutiyasiṅgālasutta*{#12}
-
+### SN 20.12 Con Chó Rừng (2) *Dutiyasiṅgālasutta* {#12}
 Tại thành Xá-vệ.
 
 "Này các Tỷ kheo, các vị có nghe thấy một con chó rừng già đang tru lên lúc rạng đông không?"

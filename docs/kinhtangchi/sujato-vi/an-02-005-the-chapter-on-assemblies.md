@@ -1,7 +1,6 @@
 # Phẩm về Hội Chúng
 
-### AN 2.42--51 *Parisavagga*{#42-51}
-
+### AN 2.42--51 *Parisavagga* {#42-51}
 42\. "Này các Tỳ kheo, có hai loại hội chúng này. Thế nào là hai? Hội chúng nông cạn và hội chúng sâu sắc. Và thế nào là hội chúng nông cạn? Đó là hội chúng nơi các Tỳ kheo *trạo cử* (restlessness / bồn chồn, không yên), ngạo mạn, dao động, lắm lời, ba hoa, *thất niệm* (unmindful / không có chánh niệm), không *tỉnh giác* (situational awareness / sự nhận biết rõ ràng về hoàn cảnh), không có *định* (immersion / sự tập trung tâm ý, thiền định), *tâm phóng dật* (straying minds / tâm trí lang thang, không tập trung) và *các căn không được phòng hộ* (undisciplined faculties / các giác quan không được kiểm soát, bảo vệ). Đây gọi là hội chúng nông cạn.
 
 Và thế nào là hội chúng sâu sắc? Đó là hội chúng nơi các Tỳ kheo không trạo cử, không ngạo mạn, không dao động, không lắm lời, không ba hoa, mà *an trú chánh niệm* (established mindfulness / giữ vững sự chú tâm đúng đắn), tỉnh giác, có định, *tâm nhất điểm* (unified minds / tâm trí hợp nhất, chuyên chú), và *các căn được thu thúc* (restrained faculties / các giác quan được kiểm soát, bảo vệ). Đây gọi là hội chúng sâu sắc. Đây là hai loại hội chúng. Trong hai loại hội chúng này, hội chúng sâu sắc là tốt hơn."

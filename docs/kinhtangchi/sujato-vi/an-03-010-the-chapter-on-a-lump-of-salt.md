@@ -1,7 +1,6 @@
 # Phẩm về Cục Muối
 
-### AN 3.92 Khẩn cấp *Accāyikasutta*{#92}
-
+### AN 3.92 Khẩn cấp *Accāyikasutta* {#92}
 "Này các Tỳ kheo, người nông dân có ba việc khẩn cấp. Thế nào là ba? Người nông dân nhanh chóng cày bừa kỹ lưỡng thửa ruộng. Tiếp theo, họ nhanh chóng gieo hạt đúng mùa vụ. Khi thời điểm thích hợp, họ nhanh chóng tưới nước hoặc tháo nước cho ruộng. Đó là ba việc khẩn cấp của người nông dân. Người nông dân ấy không có thần thông hay năng lực đặc biệt nào để nói rằng: 'Mong cho lúa mọc mầm hôm nay! Mong cho chúng trổ bông ngày mai! Mong cho chúng chín ngày kia!' Nhưng sẽ đến lúc, khi mùa vụ thay đổi, lúa của người nông dân ấy sẽ mọc mầm, trổ bông và chín.
 
 Cũng vậy, vị Tỳ kheo có ba việc khẩn cấp. Thế nào là ba? Thực hành *tăng thượng giới* (higher ethics / giới học cao hơn), *tăng thượng tâm* (higher mind / tâm học cao hơn), và *tăng thượng tuệ* (higher wisdom / tuệ học cao hơn). Đó là ba việc khẩn cấp của vị Tỳ kheo. Vị Tỳ kheo ấy không có thần thông hay năng lực đặc biệt nào để nói rằng: 'Mong cho tâm ta được giải thoát khỏi *phiền não* (defilements / các ô nhiễm tâm) nhờ không *chấp thủ* (grasping / sự bám víu, dính mắc) ngay hôm nay! Hay ngày mai! Hay ngày kia!' Nhưng sẽ đến lúc—khi vị Tỳ kheo ấy tu tập tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ—tâm của vị ấy sẽ được giải thoát khỏi phiền não nhờ không chấp thủ.
@@ -9,8 +8,7 @@ Cũng vậy, vị Tỳ kheo có ba việc khẩn cấp. Thế nào là ba? Thự
 Vậy các ngươi nên tu tập như sau: 'Chúng ta sẽ nhiệt tâm thực hành tăng thượng giới, tăng thượng tâm, và tăng thượng tuệ.' Đó là cách các ngươi nên tu tập."
 
 <!--pg-->
-### AN 3.93 Độc cư *Pavivekasutta*{#93}
-
+### AN 3.93 Độc cư *Pavivekasutta* {#93}
 "Này các Tỳ kheo, các *du sĩ ngoại đạo* (wanderers of other religions / những người tu khổ hạnh thuộc tôn giáo khác) chủ trương ba loại *độc cư* (seclusion / sự sống một mình, ẩn dật). Thế nào là ba? Độc cư về y phục, độc cư về vật thực, và độc cư về chỗ ở.
 
 Các du sĩ ngoại đạo chủ trương loại độc cư về y phục như thế này. Họ mặc y làm bằng vỏ cây gai dầu, gai dầu trộn lẫn, vải liệm xác chết, vải vụn, vỏ cây lodh, da linh dương (nguyên miếng hoặc cắt thành dải), cỏ kusa, vỏ cây, vụn gỗ, tóc người, lông đuôi ngựa, hoặc cánh cú. Đó là những gì các du sĩ ngoại đạo chủ trương về độc cư y phục.
@@ -26,8 +24,7 @@ Khi ruộng lúa của người nông dân đã chín, họ sẽ nhanh chóng g�
 Cũng vậy, khi một vị Tỳ kheo có giới hạnh, từ bỏ phi giới hạnh, sống độc cư khỏi nó; khi vị ấy có chánh kiến, từ bỏ tà kiến, sống độc cư khỏi nó; khi vị ấy đã chấm dứt phiền não, từ bỏ phiền não, sống độc cư khỏi chúng: vị ấy được gọi là Tỳ kheo đã đạt đến đỉnh cao và cốt lõi, thanh tịnh và vững chắc trong cốt lõi."
 
 <!--pg-->
-### AN 3.94 Mùa Thu *Saradasutta*{#94}
-
+### AN 3.94 Mùa Thu *Saradasutta* {#94}
 "Vào mùa thu, bầu trời trong xanh và không một gợn mây. Và khi mặt trời lên cao trên vòm trời, xua tan mọi bóng tối của không gian, nó chiếu sáng, rực rỡ và tỏa rạng.
 
 Cũng vậy, khi cái thấy trong sạch, không tì vết về Giáo pháp khởi lên trong một *Thánh đệ tử* (noble disciple / vị đệ tử bậc Thánh), ba *kiết sử* (fetters / những trói buộc) được từ bỏ: *thân kiến* (substantialist view / niềm tin sai lầm về một cái 'ta' thường hằng), *nghi* (doubt / sự hoài nghi), và *giới cấm thủ* (misapprehension of precepts and observances / sự chấp thủ sai lầm vào giới luật và nghi lễ).
@@ -35,8 +32,7 @@ Cũng vậy, khi cái thấy trong sạch, không tì vết về Giáo pháp kh�
 Sau đó, vị ấy loại bỏ hai điều: *tham ái* (covetousness / lòng tham lam) và *sân hận* (ill will / lòng căm ghét, ác ý). Hoàn toàn ly khai khỏi *dục lạc* (sensual pleasures / thú vui giác quan), ly khai khỏi các *bất thiện pháp* (unskillful qualities / các trạng thái tâm tiêu cực, có hại), vị ấy nhập và an trú *sơ thiền* (first absorption / tầng thiền thứ nhất), một trạng thái có *hỷ* (rapture / niềm vui thích, phấn khởi) và *lạc* (bliss / sự an lạc, hạnh phúc) sinh ra từ sự ly dục, trong khi vẫn còn *tầm và tứ* (placing the mind and keeping it connected / sự hướng tâm và duy trì tâm trên đối tượng thiền). Nếu vị Thánh đệ tử đó mệnh chung vào lúc ấy, vị ấy không còn bị ràng buộc bởi bất kỳ kiết sử nào có thể khiến vị ấy quay trở lại thế giới này."
 
 <!--pg-->
-### AN 3.95 Hội Chúng *Parisāsutta*{#95}
-
+### AN 3.95 Hội Chúng *Parisāsutta* {#95}
 "Này các Tỳ kheo, có ba loại hội chúng này. Thế nào là ba? Hội chúng ưu tú, hội chúng chia rẽ, và hội chúng hòa hợp.
 
 Và thế nào là hội chúng ưu tú? Một hội chúng nơi các Tỳ kheo trưởng lão không buông thả hay lười biếng, cũng không thối lui. Thay vào đó, họ đi đầu trong việc độc cư, khơi dậy tinh tấn để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ. Và những người đến sau noi gương họ. Họ cũng không buông thả hay lười biếng, cũng không thối lui. Thay vào đó, họ đi đầu trong việc độc cư, khơi dậy tinh tấn để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ. Đây được gọi là hội chúng ưu tú.
@@ -54,8 +50,7 @@ Cũng vậy, khi các Tỳ kheo hòa hợp, quý mến lẫn nhau, không cãi v
 Đó là ba loại hội chúng."
 
 <!--pg-->
-### AN 3.96 Ngựa Thuần Chủng (1) *Paṭhamaājānīyasutta*{#96}
-
+### AN 3.96 Ngựa Thuần Chủng (1) *Paṭhamaājānīyasutta* {#96}
 "Này các Tỳ kheo, một con ngựa quý thuần chủng của hoàng gia có ba yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được coi là một yếu tố của vương quyền. Thế nào là ba? Đó là khi một con ngựa quý thuần chủng của hoàng gia đẹp đẽ, mạnh mẽ và nhanh nhẹn. Một con ngựa quý thuần chủng của hoàng gia với ba yếu tố này thì xứng đáng với vua...
 
 Cũng vậy, một vị Tỳ kheo có ba phẩm chất thì xứng đáng nhận vật cúng dường dành cho chư Thiên, xứng đáng được tiếp đãi, xứng đáng nhận vật bố thí tôn giáo, xứng đáng được đảnh lễ chắp tay, và là ruộng phước tối thượng cho thế gian. Thế nào là ba? Đó là khi một vị Tỳ kheo đẹp đẽ, mạnh mẽ và nhanh nhẹn.
@@ -69,8 +64,7 @@ Và thế nào là một vị Tỳ kheo nhanh nhẹn? Đó là khi một vị T�
 Một vị Tỳ kheo với ba phẩm chất này thì xứng đáng nhận vật cúng dường dành cho chư Thiên, xứng đáng được tiếp đãi, xứng đáng nhận vật bố thí tôn giáo, xứng đáng được đảnh lễ chắp tay, và là ruộng phước tối thượng cho thế gian."
 
 <!--pg-->
-### AN 3.97 Ngựa Thuần Chủng (2) *Dutiyaājānīyasutta*{#97}
-
+### AN 3.97 Ngựa Thuần Chủng (2) *Dutiyaājānīyasutta* {#97}
 "Này các Tỳ kheo, một con ngựa quý thuần chủng của hoàng gia có ba yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được coi là một yếu tố của vương quyền. Thế nào là ba? Đó là khi một con ngựa quý thuần chủng của hoàng gia đẹp đẽ, mạnh mẽ và nhanh nhẹn. Một con ngựa quý thuần chủng của hoàng gia với ba yếu tố này thì xứng đáng với vua,...
 
 Cũng vậy, một vị Tỳ kheo có ba phẩm chất thì xứng đáng nhận vật cúng dường dành cho chư Thiên, xứng đáng được tiếp đãi, xứng đáng nhận vật bố thí tôn giáo, xứng đáng được đảnh lễ chắp tay, và là ruộng phước tối thượng cho thế gian. Thế nào là ba? Đó là khi một vị Tỳ kheo đẹp đẽ, mạnh mẽ và nhanh nhẹn.
@@ -84,8 +78,7 @@ Và thế nào là một vị Tỳ kheo nhanh nhẹn? Đó là khi một vị T�
 Một vị Tỳ kheo với ba phẩm chất này thì xứng đáng nhận vật cúng dường dành cho chư Thiên, xứng đáng được tiếp đãi, xứng đáng nhận vật bố thí tôn giáo, xứng đáng được đảnh lễ chắp tay, và là ruộng phước tối thượng cho thế gian."
 
 <!--pg-->
-### AN 3.98 Ngựa Thuần Chủng (3) *Tatiyaājānīyasutta*{#98}
-
+### AN 3.98 Ngựa Thuần Chủng (3) *Tatiyaājānīyasutta* {#98}
 "Này các Tỳ kheo, một con ngựa quý thuần chủng của hoàng gia có ba yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được coi là một yếu tố của vương quyền. Thế nào là ba? Đó là khi một con ngựa quý thuần chủng của hoàng gia đẹp đẽ, mạnh mẽ và nhanh nhẹn. Một con ngựa quý thuần chủng của hoàng gia với ba yếu tố này thì xứng đáng với vua,...
 
 Cũng vậy, một vị Tỳ kheo có ba phẩm chất thì xứng đáng nhận vật cúng dường dành cho chư Thiên, xứng đáng được tiếp đãi, xứng đáng nhận vật bố thí tôn giáo, xứng đáng được đảnh lễ chắp tay, và là ruộng phước tối thượng cho thế gian. Thế nào là ba? Đó là khi một vị Tỳ kheo đẹp đẽ, mạnh mẽ và nhanh nhẹn.
@@ -99,8 +92,7 @@ Và thế nào là một vị Tỳ kheo nhanh nhẹn? Đó là khi một vị T�
 Một vị Tỳ kheo với ba phẩm chất này thì xứng đáng nhận vật cúng dường dành cho chư Thiên, xứng đáng được tiếp đãi, xứng đáng nhận vật bố thí tôn giáo, xứng đáng được đảnh lễ chắp tay, và là ruộng phước tối thượng cho thế gian."
 
 <!--pg-->
-### AN 3.99 Vải Gai *Potthakasutta*{#99}
-
+### AN 3.99 Vải Gai *Potthakasutta* {#99}
 "Vải gai thì xấu xí, sờ vào khó chịu, và vô giá trị dù là mới, đã dùng hay đã cũ mòn. Người ta dùng vải gai cũ mòn để cọ nồi, hoặc vứt nó vào đống rác.
 
 Cũng vậy, nếu một Tỳ kheo hạ tọa (mới tu) mà phi giới hạnh, có phẩm hạnh xấu xa, thì đó là cách vị ấy xấu xí, Ta nói vậy. Người đó cũng xấu xí như vải gai. Nếu ngươi giao du, đồng hành, và phục vụ người đó, noi theo gương xấu của họ, điều đó sẽ dẫn đến tổn hại và đau khổ lâu dài cho ngươi. Đó là cách họ khó chịu khi tiếp xúc, Ta nói vậy. Người đó cũng khó chịu khi tiếp xúc như vải gai. Bất kỳ y phục, vật thực, chỗ ở, thuốc men và vật dụng cho người bệnh mà họ nhận được đều không mang lại nhiều kết quả hay lợi ích cho người cúng dường. Đó là cách họ vô giá trị, Ta nói vậy. Người đó cũng vô giá trị như vải gai.
@@ -125,8 +117,7 @@ Nếu một vị thượng tọa như vậy nói năng giữa Tăng đoàn, các
 Vậy các ngươi nên tu tập như sau: 'Chúng ta sẽ giống như vải lụa Kāsi, không giống như vải gai.' Đó là cách các ngươi nên tu tập."
 
 <!--pg-->
-### AN 3.100 Cục Muối *Loṇakapallasutta*{#100}
-
+### AN 3.100 Cục Muối *Loṇakapallasutta* {#100}
 "Này các Tỳ kheo, giả sử các ngươi nói: 'Dù người này thực hiện một *nghiệp* (deed / hành động và kết quả của nó) như thế nào, họ cũng trải nghiệm nó theo cùng một cách.' Nếu vậy, *phạm hạnh* (spiritual life / đời sống tu hành thanh tịnh) không có giá trị, và sẽ không có cơ hội để chấm dứt hoàn toàn khổ đau.
 
 Giả sử các ngươi nói: 'Dù người này thực hiện một nghiệp như thế nào, họ sẽ trải nghiệm kết quả phù hợp.' Nếu vậy, phạm hạnh có thể có giá trị, và có cơ hội để chấm dứt hoàn toàn khổ đau.
@@ -168,8 +159,7 @@ Này các Tỳ kheo, giả sử các ngươi nói: 'Dù người này thực hi�
 Giả sử các ngươi nói: 'Dù người này thực hiện một nghiệp như thế nào, họ cũng trải nghiệm kết quả như phù hợp.' Nếu vậy, phạm hạnh có thể được sống, và có cơ hội để chấm dứt hoàn toàn khổ đau."
 
 <!--pg-->
-### AN 3.101 Người Đãi Vàng *Paṁsudhovakasutta*{#101}
-
+### AN 3.101 Người Đãi Vàng *Paṁsudhovakasutta* {#101}
 "*Vàng nguyên khai* (native gold / vàng chưa tinh luyện) có những *cấu uế* (corruptions / tạp chất, ô nhiễm) thô: cát, đất, và sỏi. *Người đãi vàng* (panner / người làm nghề đãi vàng) hoặc người học việc của họ đổ vàng vào máng đãi, nơi họ rửa, đãi và làm sạch nó. Khi những thứ đó đã được loại bỏ, còn lại những cấu uế trung bình trong vàng nguyên khai: sạn mịn và cát thô. Người đãi vàng lại rửa nó lần nữa. Khi những thứ đó đã được loại bỏ, còn lại những cấu uế tinh vi trong vàng nguyên khai: cát mịn và bụi đen. Người đãi vàng lại rửa nó lần nữa. Khi những thứ đó đã được loại bỏ, chỉ còn lại vàng cám. *Thợ kim hoàn* (goldsmith / người làm đồ vàng bạc) hoặc người học việc của họ đặt vàng nguyên khai vào *nồi nấu kim loại* (crucible / dụng cụ để nung chảy kim loại), nơi họ thổi, nấu chảy và luyện nó. Vàng nguyên khai vẫn chưa lắng đọng và xỉ vẫn chưa hoàn toàn biến mất. Nó chưa *mềm dẻo, dễ uốn nắn, sáng chói, nhưng còn giòn* (pliable, workable, radiant, brittle / các tính chất của vàng sau khi luyện) và chưa hoàn toàn sẵn sàng để chế tác. Nhưng người thợ kim hoàn tiếp tục thổi, nấu chảy và luyện nó. Vàng nguyên khai trở nên mềm dẻo, dễ uốn nắn, sáng chói, không còn giòn, và sẵn sàng để chế tác. Sau đó, người thợ kim hoàn có thể chế tác thành công bất kỳ loại trang sức nào họ muốn, dù là vòng tay, hoa tai, dây chuyền, hay vòng hoa vàng.
 
 Cũng vậy, một vị Tỳ kheo chuyên tâm tu tập *tăng thượng tâm* (higher mind / tâm học cao hơn, sự phát triển tâm) có những cấu uế thô: *thân ác hành, khẩu ác hành, ý ác hành* (bad bodily, verbal, and mental conduct / hành vi xấu ác qua thân, lời, ý). Một vị Tỳ kheo chân thành, có năng lực sẽ từ bỏ, loại bỏ, tiêu trừ và xóa sạch chúng.
@@ -195,8 +185,7 @@ Nếu vị ấy muốn: 'Với *thiên nhãn thông* (clairvoyance / khả năng
 Nếu vị ấy muốn: 'Mong rằng ta chứng ngộ tâm giải thoát và tuệ giải thoát không còn ô nhiễm ngay trong đời này, và an trú, tự mình chứng ngộ bằng thắng trí do sự đoạn tận các lậu hoặc.' Vị ấy có khả năng chứng ngộ những điều này, vì mỗi điều đều nằm trong tầm khả năng."
 
 <!--pg-->
-### AN 3.102 Nền Tảng *Nimittasutta*{#102}
-
+### AN 3.102 Nền Tảng *Nimittasutta* {#102}
 "Này các Tỳ kheo, một vị Tỳ kheo chuyên tâm tu tập tăng thượng tâm nên thỉnh thoảng chú tâm vào ba *nền tảng* (basis / đối tượng, nền tảng): *nền tảng định* (basis of immersion / nền tảng của sự tập trung), *nền tảng tinh tấn* (basis of exertion / nền tảng của sự nỗ lực), và *nền tảng xả* (basis of equanimity / nền tảng của sự bình tâm). *Xả* (equanimity / sự giữ tâm quân bình, không dao động).
 
 Nếu một vị Tỳ kheo chuyên tâm tu tập tăng thượng tâm chỉ chú tâm vào nền tảng định, tâm của vị ấy có khả năng nghiêng về *giải đãi* (laziness / sự lười biếng, thụ động).

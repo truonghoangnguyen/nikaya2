@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương Một Về Ma
 
-### SN 23.1 Về Ma *Māra*{#1}
-
+### SN 23.1 Về Ma *Māra* {#1}
 Tại Sāvatthī.
 
 Rồi Tôn giả Rādha đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống
@@ -44,8 +43,7 @@ giới hạn của các câu hỏi. Vì Niết bàn là đỉnh cao,
 đích đến, và điểm kết thúc của đời sống phạm hạnh."
 
 <!--pg-->
-### SN 23.2 Chúng Sanh *Satta*{#2}
-
+### SN 23.2 Chúng Sanh *Satta* {#2}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -72,8 +70,7 @@ nên phá tan, đập nát, và hủy hoại thọ... nhận thức... hành
 ái. Vì sự chấm dứt của ái là Niết bàn."
 
 <!--pg-->
-### SN 23.3 Dây Dẫn Đến Tái Sanh *Bhavanetti*{#3}
-
+### SN 23.3 Dây Dẫn Đến Tái Sanh *Bhavanetti* {#3}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -92,8 +89,7 @@ sự khăng khăng, và sự ngầm hướng về nó---đây được gọi là
 Sự chấm dứt của chúng là sự chấm dứt của dây dẫn đến tái sanh."
 
 <!--pg-->
-### SN 23.4 Cần Được Hiểu Biết Toàn Diện *Pariññeyya*{#4}
-
+### SN 23.4 Cần Được Hiểu Biết Toàn Diện *Pariññeyya* {#4}
 Tại Sāvatthī.
 
 Rồi Tôn giả Rādha đến gặp Đức Phật, đảnh lễ, và ngồi
@@ -116,8 +112,7 @@ một vị *A-la-hán*, một tôn giả có tên và dòng tộc như thế nà
 gọi là người đã hiểu biết toàn diện."
 
 <!--pg-->
-### SN 23.5 Sa-môn và Bà-la-môn *Samaṇa*{#5}
-
+### SN 23.5 Sa-môn và Bà-la-môn *Samaṇa* {#5}
 Tại Sāvatthī.
 
 Khi Tôn giả Rādha đang ngồi một bên, Đức Phật
@@ -137,8 +132,7 @@ Sa-môn hay Bà-la-môn, và sống sau khi đã nhận ra nó bằng chính
 tuệ giác của mình."
 
 <!--pg-->
-### SN 23.6 Sa-môn và Bà-la-môn (2) *Dutiyasamaṇa*{#6}
-
+### SN 23.6 Sa-môn và Bà-la-môn (2) *Dutiyasamaṇa* {#6}
 Tại Sāvatthī.
 
 Khi Tôn giả Rādha đang ngồi một bên, Đức Phật
@@ -155,8 +149,7 @@ tôn giả đó nhận ra mục đích của đời sống Sa-môn hay Bà-la-m�
 sau khi đã nhận ra nó bằng chính tuệ giác của mình."
 
 <!--pg-->
-### SN 23.7 Một Vị Nhập Lưu *Sotāpanna*{#7}
-
+### SN 23.7 Một Vị Nhập Lưu *Sotāpanna* {#7}
 Tại Sāvatthī.
 
 Khi Tôn giả Rādha đang ngồi một bên, Đức Phật
@@ -166,8 +159,7 @@ nói với ông:
 Các uẩn chấp thủ về *Cơ thể, cảm giác, nhận thức, hành động, và thức*. Khi một vị thánh đệ tử thực sự hiểu rõ sự khởi sanh, sự đoạn diệt, vị ngọt, sự nguy hại, và sự thoát ly của năm uẩn chấp thủ này, vị ấy được gọi là một thánh đệ tử, một vị *Tu-đà-hoàn* (stream-enterer / sotāpanna / người nhập dòng), không còn bị tái sanh vào cõi dữ, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
-### SN 23.8 Một Vị A-la-hán *Arahanta*{#8}
-
+### SN 23.8 Một Vị A-la-hán *Arahanta* {#8}
 Tại Sāvatthī.
 
 Khi Tôn giả Rādha đang ngồi một bên, Đức Phật
@@ -177,8 +169,7 @@ nói với ông:
 Các uẩn chấp thủ về *Cơ thể, cảm giác, nhận thức, hành động, và thức*. Một Tỷ kheo được giải thoát nhờ không còn chấp thủ sau khi thực sự hiểu rõ sự khởi sanh, sự đoạn diệt, vị ngọt, sự nguy hại, và sự thoát ly của năm uẩn chấp thủ này. Một Tỷ kheo như vậy được gọi là một vị A-la-hán, với các *lậu hoặc* (defilements / āsava / những ô nhiễm tiềm ẩn) đã tận, đã hoàn thành đời sống phạm hạnh, việc cần làm đã làm xong, đã đặt gánh nặng xuống, đã đạt được mục đích tối hậu của bản thân, đã hoàn toàn chấm dứt *hữu kiết sử* (fetter of continued existence / xiềng xích của sự tồn tại), và được giải thoát một cách đúng đắn nhờ *chánh trí* (enlightenment / trí tuệ đúng đắn)."
 
 <!--pg-->
-### SN 23.9 Ham Muốn và Tham Lam *Chandarāga*{#9}
-
+### SN 23.9 Ham Muốn và Tham Lam *Chandarāga* {#9}
 Tại Sāvatthī.
 
 Khi Tôn giả Rādha đang ngồi một bên, Đức Phật
@@ -193,8 +184,7 @@ sẽ được từ bỏ, được đoạn tận gốc rễ, làm cho như một 
 bị xóa sổ, và không thể phát sinh trong tương lai."
 
 <!--pg-->
-### SN 23.10 Ham Muốn và Tham Lam (2) *Dutiyachandarāga*{#10}
-
+### SN 23.10 Ham Muốn và Tham Lam (2) *Dutiyachandarāga* {#10}
 Tại Sāvatthī.
 
 Khi Tôn giả Rādha đang ngồi một bên, Đức Phật
@@ -214,8 +204,7 @@ bị xóa sổ, và không thể phát sinh trong tương lai."
 <!--pg-->
 ## Chương Hai Về Ma
 
-### SN 23.11 Về Ma *Māra*{#11}
-
+### SN 23.11 Về Ma *Māra* {#11}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -234,8 +223,7 @@ giải thoát, vị ấy biết rằng mình đã được giải thoát.
 Vị ấy hiểu rõ: 'Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm xong, không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.12 Thuộc Về Ma *Māradhamma*{#12}
-
+### SN 23.12 Thuộc Về Ma *Māradhamma* {#12}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -250,8 +238,7 @@ Ma.
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.13 Vô Thường *Anicca*{#13}
-
+### SN 23.13 Vô Thường *Anicca* {#13}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -264,8 +251,7 @@ vô thường ạ?"
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.14 Có Tính Chất Vô Thường *Aniccadhamma*{#14}
-
+### SN 23.14 Có Tính Chất Vô Thường *Aniccadhamma* {#14}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -278,8 +264,7 @@ có tính chất vô thường ạ?
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.15 Khổ *Dukkha*{#15}
-
+### SN 23.15 Khổ *Dukkha* {#15}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -291,8 +276,7 @@ Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.16 Có Tính Chất Khổ *Dukkhadhamma*{#16}
-
+### SN 23.16 Có Tính Chất Khổ *Dukkhadhamma* {#16}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -304,8 +288,7 @@ Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.17 Vô Ngã *Anatta*{#17}
-
+### SN 23.17 Vô Ngã *Anatta* {#17}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -317,8 +300,7 @@ Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.18 Có Tính Chất Vô Ngã *Anattadhamma*{#18}
-
+### SN 23.18 Có Tính Chất Vô Ngã *Anattadhamma* {#18}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -331,8 +313,7 @@ có tính chất vô ngã ạ?"
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.19 Có Tính Chất Đoạn Diệt *Khayadhamma*{#19}
-
+### SN 23.19 Có Tính Chất Đoạn Diệt *Khayadhamma* {#19}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -344,8 +325,7 @@ Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.20 Có Tính Chất Tàn Lụi *Vayadhamma*{#20}
-
+### SN 23.20 Có Tính Chất Tàn Lụi *Vayadhamma* {#20}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -357,8 +337,7 @@ Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.21 Có Tính Chất Khởi Sanh *Samudayadhamma*{#21}
-
+### SN 23.21 Có Tính Chất Khởi Sanh *Samudayadhamma* {#21}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -370,8 +349,7 @@ Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
 Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 23.22 Có Tính Chất Chấm Dứt *Nirodhadhamma*{#22}
-
+### SN 23.22 Có Tính Chất Chấm Dứt *Nirodhadhamma* {#22}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -385,8 +363,7 @@ Thấy vậy ... Vị ấy hiểu rõ: '... không còn trở lui trạng thái 
 <!--pg-->
 ## Chương Về Khát Vọng
 
-### SN 23.23--33 Mười một Kinh về Ma, v.v. *Mārādisuttaekādasaka*{#23-33}
-
+### SN 23.23--33 Mười một Kinh về Ma, v.v. *Mārādisuttaekādasaka* {#23-33}
 Tại Sāvatthī.
 
 Ngồi một bên, Tôn giả Rādha thưa với Đức Phật:
@@ -431,8 +408,7 @@ bất cứ thứ gì thuộc về Ma ..."
 "... có tính chất khởi sanh ..."
 
 <!--pg-->
-### SN 23.34 Có Tính Chất Chấm Dứt *Nirodhadhamma*{#34}
-
+### SN 23.34 Có Tính Chất Chấm Dứt *Nirodhadhamma* {#34}
 Tại Sāvatthī.
 
 Tôn giả Rādha thưa với Đức Phật:
@@ -458,8 +434,7 @@ tham lam nào, bất kỳ ham muốn và tham lam nào đối với bất cứ t
 <!--pg-->
 ## Chương Về Việc Ngồi Gần
 
-### SN 23.35--45 Mười một Kinh về Ma, v.v. *Mārādisuttaekādasaka*{#35-45}
-
+### SN 23.35--45 Mười một Kinh về Ma, v.v. *Mārādisuttaekādasaka* {#35-45}
 Tại Sāvatthī.
 
 Khi Tôn giả Rādha đang ngồi một bên, Đức Phật
@@ -496,8 +471,7 @@ bất cứ thứ gì thuộc về Ma ..."
 "... có tính chất khởi sanh ..."
 
 <!--pg-->
-### SN 23.46 Có Tính Chất Chấm Dứt *Nirodhadhamma*{#46}
-
+### SN 23.46 Có Tính Chất Chấm Dứt *Nirodhadhamma* {#46}
 Tại Sāvatthī.
 
 Khi Tôn giả Rādha đang ngồi một bên, Đức Phật

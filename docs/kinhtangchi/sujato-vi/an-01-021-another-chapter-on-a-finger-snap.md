@@ -1,7 +1,6 @@
 # Phẩm Khác về Búng Ngón Tay
 
-### AN 1.394--574 *Aparaaccharāsaṅghātavagga* (Phẩm Búng Ngón Tay Khác){#394-574}
-
+### AN 1.394--574 *Aparaaccharāsaṅghātavagga* (Phẩm Búng Ngón Tay Khác) {#394-574}
 394\. "Này các Tỷ kheo, nếu một Tỷ kheo tu tập *sơ thiền* (first absorption / thiền thứ nhất), dù chỉ trong thời gian một cái búng ngón tay, vị ấy được gọi là Tỷ kheo không thiếu thiền định, người làm theo lời dạy của bậc Đạo Sư, người làm theo lời khuyên bảo, và không phải là người ăn của đàn na tín thí một cách vô ích. Huống nữa là những vị tu tập nhiều về pháp ấy!"
 
 <!--pg-->

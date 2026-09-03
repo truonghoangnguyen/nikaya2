@@ -1,7 +1,6 @@
 # Phẩm Về Sự Tương Tự
 
-### AN 9.42 Chật Hẹp *Sambādhasutta*{#42}
-
+### AN 9.42 Chật Hẹp *Sambādhasutta* {#42}
 Một thời Tôn giả Ānanda trú gần Kosambī, tại tu viện Ghosita. Khi ấy, Tôn giả Udāyī đến gặp Tôn giả Ānanda, chào hỏi Tôn giả. Sau khi chào hỏi và nói chuyện thân mật, Tôn giả Udāyī ngồi xuống một bên và nói với Tôn giả Ānanda: "Thưa Tôn giả, vị trời Pañcālacaṇḍa đã nói thế này:
 
 > ‘Lối thoát giữa chốn chật hẹp\
@@ -32,8 +31,7 @@ Lại nữa, một vị khất sĩ, vượt hoàn toàn Vô Sở Hữu Xứ, ch�
 Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tưởng Xứ, chứng và trú Diệt Thọ Tưởng Định. Và, sau khi thấy bằng Trí tuệ (wisdom / *Tuệ* / sự hiểu biết đúng đắn, thấu suốt thực tại), các *lậu hoặc* (defilements / *āsava*, những ô nhiễm tiềm ẩn làm rỉ chảy tâm, khiến chúng sinh luân hồi) của vị ấy được đoạn tận. Đến mức độ này, Đức Phật nói về một lối thoát giữa chốn chật hẹp một cách dứt khoát."
 
 <!--pg-->
-### AN 9.43 Người Thân Chứng *Kāyasakkhīsutta*{#43}
-
+### AN 9.43 Người Thân Chứng *Kāyasakkhīsutta* {#43}
 "Thưa Tôn giả, người ta nói về một người được gọi là ‘người thân chứng’. Thế nào là người thân chứng mà Đức Phật đã nói đến?"
 
 "Trước hết, một vị khất sĩ, hoàn toàn ly dục… chứng và trú Sơ thiền. Vị ấy thiền quán, trực tiếp trải nghiệm cảnh giới đó về mọi phương diện. Đến mức độ này, Đức Phật nói về người thân chứng một cách tương đối.
@@ -45,8 +43,7 @@ Lại nữa, một vị khất sĩ, vượt hoàn toàn các nhận thức về 
 Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tưởng Xứ, chứng và trú Diệt Thọ Tưởng Định. Và, sau khi thấy bằng Trí tuệ, các lậu hoặc của vị ấy được đoạn tận. Vị ấy thiền quán, trực tiếp trải nghiệm cảnh giới đó về mọi phương diện. Đến mức độ này, Đức Phật nói về người thân chứng một cách dứt khoát."
 
 <!--pg-->
-### AN 9.44 Giải Thoát Bằng Trí Tuệ *Paññāvimuttasutta*{#44}
-
+### AN 9.44 Giải Thoát Bằng Trí Tuệ *Paññāvimuttasutta* {#44}
 "Thưa Tôn giả, người ta nói về một người được gọi là ‘người giải thoát bằng trí tuệ’. Thế nào là người giải thoát bằng trí tuệ mà Đức Phật đã nói đến?"
 
 "Trước hết, một vị khất sĩ, hoàn toàn ly dục… chứng và trú Sơ thiền. Và vị ấy hiểu điều đó bằng Trí tuệ. Đến mức độ này, Đức Phật nói về người giải thoát bằng trí tuệ một cách tương đối. …
@@ -54,8 +51,7 @@ Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tư
 Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tưởng Xứ, chứng và trú Diệt Thọ Tưởng Định. Và, sau khi thấy bằng Trí tuệ, các lậu hoặc của vị ấy được đoạn tận. Và vị ấy hiểu điều đó bằng Trí tuệ. Đến mức độ này, Đức Phật nói về người giải thoát bằng trí tuệ một cách dứt khoát."
 
 <!--pg-->
-### AN 9.45 Giải Thoát Hai Phần *Ubhatobhāgavimuttasutta*{#45}
-
+### AN 9.45 Giải Thoát Hai Phần *Ubhatobhāgavimuttasutta* {#45}
 "Thưa Tôn giả, người ta nói về một người được gọi là ‘người giải thoát hai phần’. Thế nào là người giải thoát hai phần mà Đức Phật đã nói đến?"
 
 "Trước hết, một vị khất sĩ, hoàn toàn ly dục… chứng và trú Sơ thiền. Vị ấy thiền quán, trực tiếp trải nghiệm cảnh giới đó về mọi phương diện. Và vị ấy hiểu điều đó bằng Trí tuệ. Đến mức độ này, Đức Phật nói về người giải thoát hai phần một cách tương đối. …
@@ -63,8 +59,7 @@ Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tư
 Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tưởng Xứ, chứng và trú Diệt Thọ Tưởng Định. Và, sau khi thấy bằng Trí tuệ, các lậu hoặc của vị ấy được đoạn tận. Vị ấy thiền quán, trực tiếp trải nghiệm cảnh giới đó về mọi phương diện. Và vị ấy hiểu điều đó bằng Trí tuệ. Đến mức độ này, Đức Phật nói về người giải thoát hai phần một cách dứt khoát."
 
 <!--pg-->
-### AN 9.46 Giáo Pháp Hiện Tại *Sandiṭṭhikadhammasutta*{#46}
-
+### AN 9.46 Giáo Pháp Hiện Tại *Sandiṭṭhikadhammasutta* {#46}
 "Thưa Tôn giả, người ta nói về ‘một giáo pháp hiện chứng trong hiện tại’. Đức Phật đã nói về một giáo pháp hiện chứng trong hiện tại theo cách nào?"
 
 "Trước hết, một vị khất sĩ, hoàn toàn ly dục… chứng và trú Sơ thiền. Đến mức độ này, Đức Phật nói về giáo pháp hiện chứng trong hiện tại một cách tương đối. …
@@ -72,8 +67,7 @@ Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tư
 Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tưởng Xứ, chứng và trú Diệt Thọ Tưởng Định. Và, sau khi thấy bằng Trí tuệ, các lậu hoặc của vị ấy được đoạn tận. Đến mức độ này, Đức Phật nói về giáo pháp hiện chứng trong hiện tại một cách dứt khoát."
 
 <!--pg-->
-### AN 9.47 Niết Bàn Hiện Tại *Sandiṭṭhikanibbānasutta*{#47}
-
+### AN 9.47 Niết Bàn Hiện Tại *Sandiṭṭhikanibbānasutta* {#47}
 "Thưa Tôn giả, người ta nói rằng ‘*niết bàn* (extinguishment / *Nibbāna*, sự dập tắt hoàn toàn khổ đau và nguyên nhân của khổ đau) hiện chứng trong hiện tại’. Đức Phật đã nói niết bàn hiện chứng trong hiện tại theo cách nào?"
 
 "Trước hết, một vị khất sĩ, hoàn toàn ly dục… chứng và trú Sơ thiền. Đến mức độ này, Đức Phật nói rằng niết bàn hiện chứng trong hiện tại một cách tương đối. …
@@ -81,23 +75,19 @@ Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tư
 Lại nữa, một vị khất sĩ, vượt hoàn toàn Phi Tưởng Phi Phi Tưởng Xứ, chứng và trú Diệt Thọ Tưởng Định. Và, sau khi thấy bằng Trí tuệ, các lậu hoặc của vị ấy được đoạn tận. Đến mức độ này, Đức Phật nói rằng niết bàn hiện chứng trong hiện tại một cách dứt khoát."
 
 <!--pg-->
-### AN 9.48 Niết Bàn *Nibbānasutta*{#48}
-
+### AN 9.48 Niết Bàn *Nibbānasutta* {#48}
 "Thưa Tôn giả, người ta nói về ‘niết bàn’. …"
 
 <!--pg-->
-### AN 9.49 Viên Tịch *Parinibbānasutta*{#49}
-
+### AN 9.49 Viên Tịch *Parinibbānasutta* {#49}
 "Thưa Tôn giả, người ta nói về ‘*parinibbāna* (full extinguishment / viên tịch, sự tịch diệt hoàn toàn, không còn tái sinh sau khi một vị Phật hoặc A-la-hán qua đời)’. …"
 
 <!--pg-->
-### AN 9.50 Niết Bàn Từng Phần *Tadaṅganibbānasutta*{#50}
-
+### AN 9.50 Niết Bàn Từng Phần *Tadaṅganibbānasutta* {#50}
 "Thưa Tôn giả, người ta nói về ‘*tadaṅganibbāna* (extinguishment in a certain respect / niết bàn từng phần, sự dập tắt phiền não tạm thời bằng cách đối trị với các pháp đối nghịch)’. …"
 
 <!--pg-->
-### AN 9.51 Niết Bàn Trong Đời Này *Diṭṭhadhammanibbānasutta*{#51}
-
+### AN 9.51 Niết Bàn Trong Đời Này *Diṭṭhadhammanibbānasutta* {#51}
 "Thưa Tôn giả, người ta nói về ‘niết bàn trong đời này’. Đức Phật đã nói về niết bàn trong đời này theo cách nào?"
 
 "Trước hết, một vị khất sĩ, hoàn toàn ly dục… chứng và trú Sơ thiền. Đến mức độ này, Đức Phật nói về niết bàn trong đời này một cách tương đối. …

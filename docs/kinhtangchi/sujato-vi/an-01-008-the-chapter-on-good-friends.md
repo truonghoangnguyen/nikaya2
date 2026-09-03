@@ -1,7 +1,6 @@
 # Phẩm Bạn Lành
 
-### AN 1.71--81 *Kalyāṇamittādivagga*{#71-81}
-
+### AN 1.71--81 *Kalyāṇamittādivagga* {#71-81}
 71\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác mà nhờ đó các *thiện pháp* (skillful qualities / phẩm chất tốt lành) chưa sinh thì sinh khởi, và các *bất thiện pháp* (unskillful qualities / phẩm chất xấu ác) đã sinh thì suy giảm, như là bạn lành. Này các Tỳ kheo, người có bạn lành, các thiện pháp chưa sinh thì sinh khởi, và các bất thiện pháp đã sinh thì suy giảm."
 
 <!--pg-->

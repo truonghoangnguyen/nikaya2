@@ -3,8 +3,7 @@
 <!--pg-->
 ## Phẩm về Các Vị Thần Mây
 
-### SN 32.1 Kinh Thuần Túy *Suddhikasutta*{#1}
-
+### SN 32.1 Kinh Thuần Túy *Suddhikasutta* {#1}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, Ta sẽ giảng cho các ông về các vị thần mây. Hãy lắng nghe ...
@@ -12,8 +11,7 @@ Tại Sāvatthī.
 Và thế nào là các vị thần mây? Có các vị thần mây lạnh, mây nóng, mây sấm, mây gió, và mây mưa. Đây được gọi là các vị thần mây."
 
 <!--pg-->
-### SN 32.2 Kinh Hành Vi Tốt *Sucaritasutta*{#2}
-
+### SN 32.2 Kinh Hành Vi Tốt *Sucaritasutta* {#2}
 Tại Sāvatthī.
 
 Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
@@ -23,8 +21,7 @@ Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
 "Này Tỷ kheo, đó là khi có người làm những điều tốt lành qua thân, khẩu, và ý. Và họ đã nghe rằng: 'Các vị thần mây sống lâu, xinh đẹp, và rất hạnh phúc.' Họ nghĩ: 'Mong sao, sau khi thân hoại mạng chung, ta được tái sinh vào cõi của các vị thần mây!' Khi thân hoại mạng chung, họ được tái sinh vào cõi của các vị thần mây. Đây là nhân, đây là duyên tại sao có người, sau khi thân hoại mạng chung, được tái sinh vào cõi của các vị thần mây."
 
 <!--pg-->
-### SN 32.3–12 Mười Kinh Về Việc Bố Thí Giúp Trở Thành Thần Mây Lạnh *Sītavalāhakadānūpakārasuttadasaka*{#3-12}
-
+### SN 32.3–12 Mười Kinh Về Việc Bố Thí Giúp Trở Thành Thần Mây Lạnh *Sītavalāhakadānūpakārasuttadasaka* {#3-12}
 Tại Sāvatthī.
 
 Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
@@ -34,8 +31,7 @@ Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
 "Này Tỷ kheo, đó là khi có người làm những điều tốt lành qua thân, khẩu, và ý. Và họ đã nghe rằng: 'Các vị thần mây lạnh sống lâu, xinh đẹp, và rất hạnh phúc.' Họ nghĩ: 'Mong sao, sau khi thân hoại mạng chung, ta được tái sinh vào cõi của các vị thần mây lạnh!' Họ bố thí thức ăn ... một ngọn đèn. Khi thân hoại mạng chung, họ được tái sinh vào cõi của các vị thần mây lạnh. Đây là nhân, đây là duyên tại sao có người, sau khi thân hoại mạng chung, được tái sinh vào cõi của các vị thần mây lạnh."
 
 <!--pg-->
-### SN 32.13–52 Việc Bố Thí Giúp Trở Thành Thần Mây Nóng, v.v. *Uṇhavalāhakadānūpakārasutta*{#13-52}
-
+### SN 32.13–52 Việc Bố Thí Giúp Trở Thành Thần Mây Nóng, v.v. *Uṇhavalāhakadānūpakārasutta* {#13-52}
 Tại Sāvatthī.
 
 Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
@@ -45,8 +41,7 @@ Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
 "Này Tỷ kheo, đó là khi có người làm những điều tốt lành qua thân, khẩu, và ý. Và họ đã nghe rằng: 'Các vị thần mây mưa sống lâu, xinh đẹp, và rất hạnh phúc.' Họ nghĩ: 'Mong sao, sau khi thân hoại mạng chung, ta được tái sinh vào cõi của các vị thần mây mưa!' Họ bố thí thức ăn ... một ngọn đèn. Khi thân hoại mạng chung, họ được tái sinh vào cõi của các vị thần mây mưa. Đây là nhân, đây là duyên tại sao có người, sau khi thân hoại mạng chung, được tái sinh vào cõi của các vị thần mây mưa."
 
 <!--pg-->
-### SN 32.53 Kinh Thần Mây Lạnh *Sītavalāhakasutta*{#53}
-
+### SN 32.53 Kinh Thần Mây Lạnh *Sītavalāhakasutta* {#53}
 Tại Sāvatthī.
 
 Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
@@ -56,8 +51,7 @@ Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
 "Này Tỷ kheo, có những vị được gọi là thần mây lạnh. Đôi khi họ nghĩ: 'Tại sao chúng ta không tận hưởng niềm vui theo cách riêng của mình nhỉ?' Rồi, theo ý muốn của họ, trời trở lạnh. Đây là nhân, đây là duyên tại sao đôi khi trời trở lạnh."
 
 <!--pg-->
-### SN 32.54 Kinh Thần Mây Nóng *Uṇhavalāhakasutta*{#54}
-
+### SN 32.54 Kinh Thần Mây Nóng *Uṇhavalāhakasutta* {#54}
 Tại Sāvatthī.
 
 Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
@@ -67,8 +61,7 @@ Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
 "Này Tỷ kheo, có những vị được gọi là thần mây nóng. Đôi khi họ nghĩ: 'Tại sao chúng ta không tận hưởng niềm vui theo cách riêng của mình nhỉ?' Rồi, theo ý muốn của họ, trời trở nóng. Đây là nhân, đây là duyên tại sao đôi khi trời trở nóng."
 
 <!--pg-->
-### SN 32.55 Kinh Thần Mây Bão *Abbhavalāhakasutta*{#55}
-
+### SN 32.55 Kinh Thần Mây Bão *Abbhavalāhakasutta* {#55}
 Tại Sāvatthī.
 
 Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
@@ -78,8 +71,7 @@ Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
 "Này Tỷ kheo, có những vị được gọi là thần mây bão. Đôi khi họ nghĩ: 'Tại sao chúng ta không tận hưởng niềm vui theo cách riêng của mình nhỉ?' Rồi, theo ý muốn của họ, trời nổi bão. Đây là nhân, đây là duyên tại sao đôi khi trời nổi bão."
 
 <!--pg-->
-### SN 32.56 Kinh Thần Mây Gió *Vātavalāhakasutta*{#56}
-
+### SN 32.56 Kinh Thần Mây Gió *Vātavalāhakasutta* {#56}
 Tại Sāvatthī.
 
 Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
@@ -89,8 +81,7 @@ Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:
 "Này Tỷ kheo, có những vị được gọi là thần mây gió. Đôi khi họ nghĩ: 'Tại sao chúng ta không tận hưởng niềm vui theo cách riêng của mình nhỉ?' Rồi, theo ý muốn của họ, trời nổi gió. Đây là nhân, đây là duyên tại sao đôi khi trời nổi gió."
 
 <!--pg-->
-### SN 32.57 Kinh Thần Mây Mưa *Vassavalāhakasutta*{#57}
-
+### SN 32.57 Kinh Thần Mây Mưa *Vassavalāhakasutta* {#57}
 Tại Sāvatthī.
 
 Ngồi một bên, vị Tỷ kheo ấy bạch với Đức Phật:

@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương Về Núi
 
-### SN 46.1 Dãy Himalaya *Kinh Himavanta*{#1}
-
+### SN 46.1 Dãy Himalaya *Kinh Himavanta* {#1}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, loài rồng lớn lên và trở nên mạnh mẽ nhờ nương tựa vào dãy Himalaya, vua của các loài núi. Khi đã mạnh mẽ, chúng lặn xuống các ao. Rồi chúng lặn xuống các hồ, các suối, các sông, và cuối cùng là đại dương. Ở đó, chúng có được một thân hình to lớn và dồi dào.
@@ -28,8 +27,7 @@ Họ phát triển yếu tố giác ngộ là *Xả* (Equanimity / Upekkhā / S�
 Đó là cách một Tỷ kheo phát triển và tu tập bảy yếu tố của giác ngộ, dựa trên và có nền tảng là giới đức, đạt được những phẩm chất tốt đẹp to lớn và dồi dào."
 
 <!--pg-->
-### SN 46.2 Thân *Kinh Kāya*{#2}
-
+### SN 46.2 Thân *Kinh Kāya* {#2}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, thân này được duy trì bằng thức ăn. Nó phụ thuộc vào thức ăn để tiếp tục, và không có thức ăn thì nó không tiếp tục. Tương tự như vậy, năm *Phiền nhiễu* (hindrances / *triền cái* / chướng ngại, là trạng thái bất an, bồn chồn gây khó tập trung trong hiện tại) được duy trì bằng nhiên liệu. Chúng phụ thuộc vào nhiên liệu để tiếp tục, và không có nhiên liệu thì chúng không tiếp tục.
@@ -65,8 +63,7 @@ Và điều gì là nhiên liệu cho sự phát sinh của yếu tố giác ng�
 Thân này được duy trì bằng thức ăn. Nó phụ thuộc vào thức ăn để tiếp tục, và không có thức ăn thì nó không tiếp tục. Tương tự như vậy, bảy yếu tố của giác ngộ được duy trì bằng nhiên liệu. Chúng phụ thuộc vào nhiên liệu để tiếp tục, và không có nhiên liệu thì chúng không tiếp tục."
 
 <!--pg-->
-### SN 46.3 Giới Đức *Kinh Sīla*{#3}
-
+### SN 46.3 Giới Đức *Kinh Sīla* {#3}
 "Này các Tỷ kheo, khi một Tỷ kheo thành tựu về giới đức, Định, trí tuệ, giải thoát, hoặc tri kiến và sự thấy biết về giải thoát, ngay cả việc nhìn thấy họ cũng rất hữu ích, Ta nói. Ngay cả việc nghe họ, đến gần họ, đảnh lễ họ, nhớ nghĩ về họ, hoặc xuất gia theo họ cũng rất hữu ích, Ta nói. Tại sao vậy? Bởi vì sau khi nghe giáo pháp của những Tỷ kheo như vậy, một Tỷ kheo sẽ sống ẩn dật cả về thân và tâm, khi họ nhớ nghĩ và suy ngẫm về giáo pháp đó.
 
 Vào lúc đó, một Tỷ kheo đã kích hoạt yếu tố giác ngộ là chánh niệm; họ phát triển nó và hoàn thiện nó. Khi sống có chánh niệm theo cách này, họ điều tra, khám phá, và tìm hiểu giáo pháp đó bằng trí tuệ.
@@ -86,8 +83,7 @@ Vào lúc đó, một Tỷ kheo đã kích hoạt yếu tố giác ngộ là X�
 Khi bảy yếu tố của giác ngộ được phát triển và tu tập theo cách này, họ có thể mong đợi bảy quả và lợi ích. Bảy là gì? Họ đạt được giác ngộ sớm trong chính đời này. Nếu không, họ đạt được giác ngộ vào lúc chết. Nếu không, với sự chấm dứt của năm *xiềng xích* (The fetters / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm) thấp hơn, họ được tịch diệt giữa một đời và đời tiếp theo. Nếu không, với sự chấm dứt của năm xiềng xích thấp hơn, họ được tịch diệt khi vừa tái sinh. Nếu không, với sự chấm dứt của năm xiềng xích thấp hơn, họ được tịch diệt mà không cần nỗ lực thêm. Nếu không, với sự chấm dứt của năm xiềng xích thấp hơn, họ được tịch diệt với nỗ lực thêm. Nếu không, với sự chấm dứt của năm xiềng xích thấp hơn, họ đi ngược dòng, đến cõi Akaniṭṭha. Khi bảy yếu tố của giác ngộ được phát triển và tu tập theo cách này, đây là bảy quả và lợi ích mà họ có thể mong đợi."
 
 <!--pg-->
-### SN 46.4 Y Phục *Kinh Vattha*{#4}
-
+### SN 46.4 Y Phục *Kinh Vattha* {#4}
 Một thời, Tôn giả Sāriputta đang ở gần Sāvatthī trong Rừng Jeta, tu viện của Anāthapiṇḍika. Tại đó, Tôn giả Sāriputta nói với các Tỷ kheo: "Thưa các hiền giả, các Tỷ kheo!"
 
 "Thưa hiền giả," họ đáp. Tôn giả Sāriputta nói điều này:
@@ -101,8 +97,7 @@ Giả sử một vị vua hoặc vị đại thần của họ có một cái r�
 Tương tự như vậy, vào buổi sáng, giữa trưa, và buổi tối, tôi thiền định về bất kỳ yếu tố nào trong bảy yếu tố giác ngộ này mà tôi muốn. Nếu đó là yếu tố giác ngộ là chánh niệm, tôi biết rằng nó là vô hạn và nó được thực hành đúng cách. Khi nó còn tồn tại, tôi hiểu rằng nó còn tồn tại. Và nếu nó lắng xuống, tôi hiểu lý do cụ thể nó lắng xuống. ... Nếu đó là yếu tố giác ngộ là Xả, tôi biết rằng nó là vô hạn và nó được thực hành đúng cách. Khi nó còn tồn tại, tôi hiểu rằng nó còn tồn tại. Và nếu nó lắng xuống, tôi hiểu lý do cụ thể nó lắng xuống."
 
 <!--pg-->
-### SN 46.5 Một Vị Tăng *Kinh Bhikkhu*{#5}
-
+### SN 46.5 Một Vị Tăng *Kinh Bhikkhu* {#5}
 Tại Sāvatthī.
 
 Rồi một Tỷ kheo đến gặp Đức Phật... và hỏi Ngài: "Bạch Thế Tôn, người ta nói về 'các yếu tố của giác ngộ'. Các yếu tố của giác ngộ được định nghĩa như thế nào?"
@@ -114,8 +109,7 @@ Một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Ph�
 Chúng được gọi là các yếu tố của giác ngộ vì chúng dẫn đến giác ngộ."
 
 <!--pg-->
-### SN 46.6 Kuṇḍaliya *Kinh Kuṇḍaliya*{#6}
-
+### SN 46.6 Kuṇḍaliya *Kinh Kuṇḍaliya* {#6}
 Một thời, Đức Phật đang ở gần Sāketa trong công viên nai tại Rừng Añjana. Rồi du sĩ Kuṇḍaliya đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ông ngồi xuống một bên và nói với Đức Phật:
 
 "Thưa ngài Gotama, tôi thích đi lang thang quanh các tu viện và thăm các hội chúng. Sau khi ăn sáng xong, tôi có thói quen đi từ tu viện này sang tu viện khác, từ công viên này sang công viên khác. Ở đó, tôi thấy một số tu sĩ và bà-la-môn nói chuyện với mục đích chiến thắng các cuộc tranh luận và tìm lỗi. Nhưng ngài Gotama sống vì lợi ích gì?"
@@ -153,15 +147,13 @@ Và làm thế nào bảy yếu tố của giác ngộ được phát triển v�
 Khi Ngài nói điều này, du sĩ Kuṇḍaliya nói với Đức Phật: "Tuyệt vời, thưa ngài Gotama! Tuyệt vời! Như thể Ngài dựng lại vật bị lật ngửa, hoặc tiết lộ điều bị che giấu, hoặc chỉ đường cho người lạc lối, hoặc thắp đèn trong bóng tối để người có mắt sáng có thể thấy những gì ở đó, ngài Gotama đã làm cho giáo pháp trở nên rõ ràng bằng nhiều cách. Con xin quy y ngài Gotama, quy y giáo pháp, và quy y Tăng đoàn Tỷ kheo. Từ hôm nay trở đi, xin ngài Gotama hãy ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 46.7 Một Ngôi Nhà Gỗ *Kinh Kūṭāgāra*{#7}
-
+### SN 46.7 Một Ngôi Nhà Gỗ *Kinh Kūṭāgāra* {#7}
 "Này các Tỷ kheo, các kèo của một ngôi nhà gỗ đều nghiêng, dốc, và hướng về đỉnh. Tương tự như vậy, một Tỷ kheo phát triển và tu tập bảy yếu tố của giác ngộ sẽ nghiêng, dốc, và hướng về sự tịch diệt.
 
 Và làm thế nào một Tỷ kheo phát triển bảy yếu tố của giác ngộ lại nghiêng, dốc, và hướng về sự tịch diệt? Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập bảy yếu tố của giác ngộ nghiêng, dốc, và hướng về sự tịch diệt."
 
 <!--pg-->
-### SN 46.8 Với Upavāna *Kinh Upavāna*{#8}
-
+### SN 46.8 Với Upavāna *Kinh Upavāna* {#8}
 Một thời, các tôn giả Upavāna và Sāriputta đang ở gần Kosambī, trong Tu viện của Ghosita. Rồi vào cuối buổi chiều, Tôn giả Sāriputta ra khỏi nơi ẩn tu, đến gặp Tôn giả Upavāna và chào hỏi ông. Sau khi chào hỏi và trò chuyện lịch sự xong, ông ngồi xuống một bên và nói với Upavāna:
 
 "Thưa hiền giả Upavāna, một Tỷ kheo có thể biết bằng cách tự điều tra bên trong mình rằng bảy yếu tố của giác ngộ được thực hành tốt để dẫn đến cuộc sống an lạc không?"
@@ -175,41 +167,35 @@ Khi họ khơi dậy yếu tố giác ngộ là Xả, họ hiểu: 'Tâm ta đã
 Đó là cách một Tỷ kheo có thể biết bằng cách tự điều tra bên trong mình rằng bảy yếu tố của giác ngộ được thực hành tốt để dẫn đến cuộc sống an lạc."
 
 <!--pg-->
-### SN 46.9 Phát Sinh (Thứ nhất) *Kinh Paṭhamauppanna*{#9}
-
+### SN 46.9 Phát Sinh (Thứ nhất) *Kinh Paṭhamauppanna* {#9}
 "Này các Tỷ kheo, bảy yếu tố của giác ngộ này không phát sinh để được phát triển và tu tập trừ khi một Như Lai, một bậc A-la-hán, một vị Phật toàn giác đã xuất hiện. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Bảy yếu tố của giác ngộ này không phát sinh để được phát triển và tu tập trừ khi một Như Lai, một bậc A-la-hán, một vị Phật toàn giác đã xuất hiện."
 
 <!--pg-->
-### SN 46.10 Phát Sinh (Thứ hai) *Kinh Dutiyauppanna*{#10}
-
+### SN 46.10 Phát Sinh (Thứ hai) *Kinh Dutiyauppanna* {#10}
 "Này các Tỷ kheo, bảy yếu tố của giác ngộ này không phát sinh để được phát triển và tu tập ngoài sự huấn luyện của bậc Thánh. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Bảy yếu tố của giác ngộ này không phát sinh để được phát triển và tu tập ngoài sự huấn luyện của bậc Thánh."
 
 <!--pg-->
 ## Chương Về Bệnh
 
-### SN 46.11 Chúng Sinh *Kinh Pāṇa*{#11}
-
+### SN 46.11 Chúng Sinh *Kinh Pāṇa* {#11}
 "Này các Tỷ kheo, chúng sinh thực hiện bốn tư thế: đôi khi đi, đôi khi đứng, đôi khi ngồi, đôi khi nằm. Chúng làm vậy dựa trên mặt đất và có nền tảng là mặt đất. Tương tự như vậy, một Tỷ kheo phát triển và tu tập bảy yếu tố của giác ngộ dựa trên và có nền tảng là giới đức.
 
 Và làm thế nào một Tỷ kheo phát triển bảy yếu tố của giác ngộ dựa trên và có nền tảng là giới đức? Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập bảy yếu tố của giác ngộ dựa trên và có nền tảng là giới đức."
 
 <!--pg-->
-### SN 46.12 Ví Dụ Về Mặt Trời (Thứ nhất) *Kinh Paṭhamasūriyūpama*{#12}
-
+### SN 46.12 Ví Dụ Về Mặt Trời (Thứ nhất) *Kinh Paṭhamasūriyūpama* {#12}
 "Này các Tỷ kheo, bình minh là điềm báo và tiền thân của mặt trời mọc. Tương tự như vậy, đối với một Tỷ kheo, tình bạn tốt là điềm báo và tiền thân của sự phát sinh của bảy yếu tố của giác ngộ. Một Tỷ kheo có bạn tốt có thể mong đợi phát triển và tu tập bảy yếu tố của giác ngộ.
 
 Và làm thế nào một Tỷ kheo có bạn tốt lại phát triển và tu tập bảy yếu tố của giác ngộ? Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách một Tỷ kheo có bạn tốt phát triển và tu tập bảy yếu tố của giác ngộ."
 
 <!--pg-->
-### SN 46.13 Ví Dụ Về Mặt Trời (Thứ hai) *Kinh Dutiyasūriyūpama*{#13}
-
+### SN 46.13 Ví Dụ Về Mặt Trời (Thứ hai) *Kinh Dutiyasūriyūpama* {#13}
 "Này các Tỷ kheo, bình minh là điềm báo và tiền thân của mặt trời mọc. Tương tự như vậy, đối với một Tỷ kheo, suy ngẫm đến gốc rễ là điềm báo và tiền thân của sự phát sinh của bảy yếu tố của giác ngộ. Một Tỷ kheo thành tựu trong việc suy ngẫm đến gốc rễ có thể mong đợi phát triển và tu tập bảy yếu tố của giác ngộ.
 
 Và làm thế nào một Tỷ kheo có suy ngẫm đến gốc rễ lại phát triển và tu tập bảy yếu tố của giác ngộ? Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách một Tỷ kheo có suy ngẫm đến gốc rễ phát triển và tu tập bảy yếu tố của giác ngộ."
 
 <!--pg-->
-### SN 46.14 Bệnh (Thứ nhất) *Kinh Paṭhamagilāna*{#14}
-
+### SN 46.14 Bệnh (Thứ nhất) *Kinh Paṭhamagilāna* {#14}
 Một thời, Đức Phật đang ở gần Rājagaha, trong Rừng Trúc, nơi nuôi sóc. Lúc đó, Tôn giả Mahākassapa đang ở trong hang Pipphali, và ngài bị bệnh, đau đớn, bệnh nặng. Rồi vào cuối buổi chiều, Đức Phật ra khỏi nơi ẩn tu, đến gặp Tôn giả Mahākassapa, ngồi xuống trên chỗ đã trải sẵn, và nói với ngài:
 
 "Ta hy vọng con vẫn khỏe, Kassapa; Ta hy vọng con ổn. Và Ta hy vọng cơn đau đang giảm dần, không tăng lên, rằng sự giảm của nó là rõ ràng, không phải sự tăng lên."
@@ -223,8 +209,7 @@ Một thời, Đức Phật đang ở gần Rājagaha, trong Rừng Trúc, nơi 
 Đó là những gì Đức Phật đã nói. Hài lòng, Tôn giả Mahākassapa tán thành những gì Đức Phật nói. Và đó là cách ngài đã bình phục khỏi cơn bệnh đó.
 
 <!--pg-->
-### SN 46.15 Bệnh (Thứ hai) *Kinh Dutiyagilāna*{#15}
-
+### SN 46.15 Bệnh (Thứ hai) *Kinh Dutiyagilāna* {#15}
 Một thời, Đức Phật đang ở gần Rājagaha, trong Rừng Trúc, nơi nuôi sóc. Lúc đó, Tôn giả Mahāmoggallāna đang ở trên núi Linh Thứu, và ngài bị bệnh, đau đớn, bệnh nặng. Rồi vào cuối buổi chiều, Đức Phật ra khỏi nơi ẩn tu, đến gặp Tôn giả Moggallāna, ngồi xuống trên chỗ đã trải sẵn, và nói với ngài:
 
 "Ta hy vọng con vẫn khỏe, Moggallāna; Ta hy vọng con ổn. Và Ta hy vọng cơn đau đang giảm dần, không tăng lên, rằng sự giảm của nó là rõ ràng, không phải sự tăng lên."
@@ -238,8 +223,7 @@ Một thời, Đức Phật đang ở gần Rājagaha, trong Rừng Trúc, nơi 
 Đó là những gì Đức Phật đã nói. Hài lòng, Tôn giả Mahāmoggallāna tán thành những gì Đức Phật nói. Và đó là cách ngài đã bình phục khỏi cơn bệnh đó.
 
 <!--pg-->
-### SN 46.16 Bệnh (Thứ ba) *Kinh Tatiyagilāna*{#16}
-
+### SN 46.16 Bệnh (Thứ ba) *Kinh Tatiyagilāna* {#16}
 Một thời, Đức Phật đang ở gần Rājagaha, trong Rừng Trúc, nơi nuôi sóc. Lúc đó, Ngài bị bệnh, đau đớn, bệnh nặng. Rồi Tôn giả Mahācunda đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông:
 
 "Cunda, hãy bày tỏ sự hiểu biết của con về các yếu tố của giác ngộ."
@@ -251,8 +235,7 @@ Một thời, Đức Phật đang ở gần Rājagaha, trong Rừng Trúc, nơi 
 Đây là những gì Cunda đã nói, và bậc Thầy đã tán thành. Và đó là cách Đức Phật đã bình phục khỏi cơn bệnh đó.
 
 <!--pg-->
-### SN 46.17 Đi Đến Bờ Bên Kia *Kinh Pāraṅgama*{#17}
-
+### SN 46.17 Đi Đến Bờ Bên Kia *Kinh Pāraṅgama* {#17}
 "Này các Tỷ kheo, khi bảy yếu tố của giác ngộ này được phát triển và tu tập, chúng dẫn đến việc đi từ bờ bên này sang bờ bên kia. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Bảy yếu tố của giác ngộ này, khi được phát triển và tu tập, dẫn đến việc đi từ bờ bên này sang bờ bên kia.
 
 > Ít người trong nhân loại\
@@ -283,25 +266,21 @@ Một thời, Đức Phật đang ở gần Rājagaha, trong Rừng Trúc, nơi 
 > họ được tịch diệt trong thế giới này."
 
 <!--pg-->
-### SN 46.18 Bỏ Lỡ *Kinh Viraddha*{#18}
-
+### SN 46.18 Bỏ Lỡ *Kinh Viraddha* {#18}
 "Này các Tỷ kheo, ai đã bỏ lỡ bảy yếu tố của giác ngộ thì đã bỏ lỡ con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành bảy yếu tố của giác ngộ thì đã thực hành con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Ai đã bỏ lỡ bảy yếu tố của giác ngộ này thì đã bỏ lỡ con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành bảy yếu tố của giác ngộ này thì đã thực hành con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau."
 
 <!--pg-->
-### SN 46.19 Cao Quý *Kinh Ariya*{#19}
-
+### SN 46.19 Cao Quý *Kinh Ariya* {#19}
 "Này các Tỷ kheo, khi bảy yếu tố của giác ngộ này được phát triển và tu tập, chúng là cao quý và giải thoát, và đưa người thực hành chúng đến sự chấm dứt hoàn toàn khổ đau. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Khi bảy yếu tố của giác ngộ này được phát triển và tu tập, chúng là cao quý và giải thoát, và đưa người thực hành chúng đến sự chấm dứt hoàn toàn khổ đau."
 
 <!--pg-->
-### SN 46.20 Chán Nản *Kinh Nibbidā*{#20}
-
+### SN 46.20 Chán Nản *Kinh Nibbidā* {#20}
 "Này các Tỷ kheo, bảy yếu tố của giác ngộ, khi được phát triển và tu tập, chỉ dẫn đến sự chán nản, ly tham, đoạn diệt, bình an, tuệ giác, giác ngộ, và tịch diệt. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Bảy yếu tố của giác ngộ này, khi được phát triển và tu tập, chỉ dẫn đến sự chán nản, ly tham, đoạn diệt, bình an, tuệ giác, giác ngộ, và tịch diệt."
 
 <!--pg-->
 ## Chương với Udāyī
 
-### SN 46.21 Đến Giác Ngộ *Kinh Bodhāya*{#21}
-
+### SN 46.21 Đến Giác Ngộ *Kinh Bodhāya* {#21}
 Rồi một Tỷ kheo đến gặp Đức Phật... và nói với Ngài:
 
 "Bạch Thế Tôn, người ta nói về 'các yếu tố của giác ngộ'. Các yếu tố của giác ngộ được định nghĩa như thế nào?"
@@ -309,22 +288,19 @@ Rồi một Tỷ kheo đến gặp Đức Phật... và nói với Ngài:
 "Này Tỷ kheo, chúng được gọi là các yếu tố của giác ngộ vì chúng dẫn đến giác ngộ. Một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Chúng được gọi là các yếu tố của giác ngộ vì chúng dẫn đến giác ngộ."
 
 <!--pg-->
-### SN 46.22 Một Bài Giảng về Các Yếu Tố Giác Ngộ *Kinh Bojjhaṅgadesanā*{#22}
-
+### SN 46.22 Một Bài Giảng về Các Yếu Tố Giác Ngộ *Kinh Bojjhaṅgadesanā* {#22}
 "Này các Tỷ kheo, Ta sẽ dạy các con bảy yếu tố của giác ngộ. Hãy lắng nghe...
 
 Và bảy yếu tố của giác ngộ là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Đây là bảy yếu tố của giác ngộ."
 
 <!--pg-->
-### SN 46.23 Nền Tảng *Kinh Ṭhāniya*{#23}
-
+### SN 46.23 Nền Tảng *Kinh Ṭhāniya* {#23}
 "Này các Tỷ kheo, khi các con thường xuyên chú tâm vào những điều là nền tảng cho lòng tham dục, lòng tham dục phát sinh, và một khi đã phát sinh, nó tăng trưởng và lớn mạnh. Khi các con thường xuyên chú tâm vào những điều là nền tảng cho tức giận, tức giận phát sinh, và một khi đã phát sinh, nó tăng trưởng và lớn mạnh. Khi các con thường xuyên chú tâm vào những điều là nền tảng cho tâm trí đờ đẫn và buồn ngủ, tâm trí đờ đẫn và buồn ngủ phát sinh, và một khi đã phát sinh, chúng tăng trưởng và lớn mạnh. Khi các con thường xuyên chú tâm vào những điều là nền tảng cho tâm bất an và hối tiếc, tâm bất an và hối tiếc phát sinh, và một khi đã phát sinh, chúng tăng trưởng và lớn mạnh. Khi các con thường xuyên chú tâm vào những điều là nền tảng cho nghi ngờ, nghi ngờ phát sinh, và một khi đã phát sinh, nó tăng trưởng và lớn mạnh.
 
 Khi các con thường xuyên chú tâm vào những điều là nền tảng cho yếu tố giác ngộ là chánh niệm, yếu tố giác ngộ là chánh niệm phát sinh, và một khi đã phát sinh, nó được phát triển đầy đủ. ... Khi các con thường xuyên chú tâm vào những điều là nền tảng cho yếu tố giác ngộ là Xả, yếu tố giác ngộ là Xả phát sinh, và một khi đã phát sinh, nó được phát triển đầy đủ."
 
 <!--pg-->
-### SN 46.24 Suy ngẫm không đến gốc rễ *Kinh Ayonisomanasikāra*{#24}
-
+### SN 46.24 Suy ngẫm không đến gốc rễ *Kinh Ayonisomanasikāra* {#24}
 "Này các Tỷ kheo, khi các con suy ngẫm không đến gốc rễ, theo đuổi thú vui, tức giận, tâm trí đờ đẫn và buồn ngủ, tâm bất an và hối tiếc, và nghi ngờ phát sinh, và một khi đã phát sinh, chúng tăng trưởng và lớn mạnh. Và các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả không phát sinh, hoặc nếu chúng đã phát sinh, chúng sẽ chấm dứt.
 
 Khi các con suy ngẫm đến gốc rễ, theo đuổi thú vui, tức giận, tâm trí đờ đẫn và buồn ngủ, tâm bất an và hối tiếc, và nghi ngờ không phát sinh, hoặc nếu chúng đã phát sinh, chúng sẽ được từ bỏ.
@@ -332,15 +308,13 @@ Khi các con suy ngẫm đến gốc rễ, theo đuổi thú vui, tức giận, 
 Và các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả phát sinh, và một khi chúng đã phát sinh, chúng được phát triển đầy đủ."
 
 <!--pg-->
-### SN 46.25 Không Suy Thoái *Kinh Aparihāniya*{#25}
-
+### SN 46.25 Không Suy Thoái *Kinh Aparihāniya* {#25}
 "Này các Tỷ kheo, Ta sẽ dạy các con bảy nguyên tắc ngăn chặn sự suy thoái. Hãy lắng nghe...
 
 Và bảy nguyên tắc ngăn chặn sự suy thoái là gì? Đó là bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Đây là bảy nguyên tắc ngăn chặn sự suy thoái."
 
 <!--pg-->
-### SN 46.26 Sự Chấm Dứt Của Ái Dục *Kinh Taṇhakkhaya*{#26}
-
+### SN 46.26 Sự Chấm Dứt Của Ái Dục *Kinh Taṇhakkhaya* {#26}
 "Này các Tỷ kheo, các con nên phát triển con đường và thực hành dẫn đến sự chấm dứt của ái dục. Và con đường và thực hành dẫn đến sự chấm dứt của ái dục là gì? Đó là bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả." Khi Ngài nói điều này, Udāyī nói với Ngài:
 
 "Bạch Thế Tôn, làm thế nào bảy yếu tố của giác ngộ được phát triển và tu tập để dẫn đến sự chấm dứt của ái dục?"
@@ -352,8 +326,7 @@ Một Tỷ kheo phát triển yếu tố giác ngộ là Xả, dựa trên sự 
 Và như vậy, Udāyī, khi ái dục chấm dứt, các hành động chấm dứt; khi các hành động chấm dứt, khổ đau chấm dứt."
 
 <!--pg-->
-### SN 46.27 Sự Đoạn Diệt Của Ái Dục *Kinh Taṇhānirodha*{#27}
-
+### SN 46.27 Sự Đoạn Diệt Của Ái Dục *Kinh Taṇhānirodha* {#27}
 "Này các Tỷ kheo, các con nên phát triển con đường và thực hành dẫn đến sự đoạn diệt của ái dục. Và con đường và thực hành dẫn đến sự đoạn diệt của ái dục là gì? Đó là bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Và làm thế nào bảy yếu tố của giác ngộ được phát triển và tu tập để dẫn đến sự đoạn diệt của ái dục?
 
 Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định,
@@ -361,8 +334,7 @@ Và như vậy, Udāyī, khi ái dục chấm dứt, các hành động chấm d
 và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đây là cách bảy yếu tố của giác ngộ được phát triển và tu tập để dẫn đến sự đoạn diệt của ái dục."
 
 <!--pg-->
-### SN 46.28 Giúp Thâm Nhập *Kinh Nibbedhabhāgiya*{#28}
-
+### SN 46.28 Giúp Thâm Nhập *Kinh Nibbedhabhāgiya* {#28}
 "Này các Tỷ kheo, Ta sẽ dạy các con một con đường giúp thâm nhập. Hãy lắng nghe...
 
 Và con đường giúp thâm nhập là gì? Đó là bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả." Khi Ngài nói điều này, Udāyī nói với Ngài:
@@ -376,8 +348,7 @@ Một Tỷ kheo phát triển yếu tố giác ngộ là Xả, dựa trên sự 
 Đây là cách bảy yếu tố của giác ngộ được phát triển và tu tập để dẫn đến sự thâm nhập."
 
 <!--pg-->
-### SN 46.29 Một Điều *Kinh Ekadhamma*{#29}
-
+### SN 46.29 Một Điều *Kinh Ekadhamma* {#29}
 "Này các Tỷ kheo, Ta không thấy một điều duy nhất nào, khi được phát triển và tu tập như thế này, lại dẫn đến việc từ bỏ những thứ dễ bị trói buộc như bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Và làm thế nào bảy yếu tố của giác ngộ được phát triển và tu tập để dẫn đến việc từ bỏ những thứ dễ bị trói buộc?
 
 Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách bảy yếu tố của giác ngộ được phát triển và tu tập để dẫn đến việc từ bỏ những thứ dễ bị trói buộc.
@@ -385,8 +356,7 @@ Một Tỷ kheo phát triển yếu tố giác ngộ là Xả, dựa trên sự 
 Và những thứ dễ bị trói buộc là gì? Mắt là thứ dễ bị trói buộc. Đây là nơi những xiềng xích, gông cùm, và chấp trước này phát sinh. Tai... mũi... lưỡi... thân... trí não là thứ dễ bị trói buộc. Đây là nơi những xiềng xích, gông cùm, và chấp trước này phát sinh. Đây được gọi là những thứ dễ bị trói buộc."
 
 <!--pg-->
-### SN 46.30 Với Udāyī *Kinh Udāyi*{#30}
-
+### SN 46.30 Với Udāyī *Kinh Udāyi* {#30}
 Một thời, Đức Phật đang ở tại xứ Sumbha, gần một thị trấn của người Sumbha tên là Sedaka. Rồi Tôn giả Udāyī đến gặp Đức Phật... và nói với Ngài:
 
 "Thật không thể tin được, bạch Thế Tôn, thật tuyệt vời! Lòng yêu thương và kính trọng của con đối với Đức Phật, cùng với ý thức xấu hổ và sợ điều ác của con đã hữu ích biết bao. Vì khi con còn là một cư sĩ, con không được giáo pháp hay Tăng đoàn giúp đỡ nhiều. Nhưng khi con suy xét về lòng yêu thương và kính trọng của mình đối với Đức Phật, cùng với ý thức xấu hổ và sợ điều ác, con đã xuất gia từ đời sống tại gia vào đời sống không nhà. Đức Phật đã dạy con Pháp: 'Đây là *Cơ thể, cảm giác, nhận thức, hành động, và thức* (Form, feeling, perception, choices, and consciousness / *Sắc, thọ, tưởng, hành, và thức*), đây là nguồn gốc của sắc, đây là sự chấm dứt của sắc. Đây là cảm giác... Đây là nhận thức... Đây là hành... Đây là thức, đây là nguồn gốc của thức, đây là sự chấm dứt của thức.'
@@ -400,53 +370,45 @@ Con đã đạt được các yếu tố giác ngộ là chánh niệm, Phân t�
 <!--pg-->
 ## Chương Về Các Phiền Nhiễu
 
-### SN 46.31 Thiện (Thứ nhất) *Kinh Paṭhamakusala*{#31}
-
+### SN 46.31 Thiện (Thứ nhất) *Kinh Paṭhamakusala* {#31}
 "Này các Tỷ kheo, bất kỳ phẩm chất nào là thiện, thuộc về phần thiện, ở bên phía thiện, tất cả chúng đều bắt nguồn từ *tinh cần* (Diligence/ chuyên cần, kỷ luật, tự chủ) và quy tụ tại tinh cần, và tinh cần được cho là tốt nhất trong số chúng. Một Tỷ kheo tinh cần có thể mong đợi phát triển và tu tập bảy yếu tố của giác ngộ.
 
 Và làm thế nào một Tỷ kheo tinh cần lại phát triển và tu tập bảy yếu tố của giác ngộ? Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách một Tỷ kheo tinh cần phát triển và tu tập bảy yếu tố của giác ngộ."
 
 <!--pg-->
-### SN 46.32 Thiện (Thứ hai) *Kinh Dutiyakusala*{#32}
-
+### SN 46.32 Thiện (Thứ hai) *Kinh Dutiyakusala* {#32}
 "Này các Tỷ kheo, bất kỳ phẩm chất nào là thiện, thuộc về phần thiện, ở bên phía thiện, tất cả chúng đều bắt nguồn từ suy ngẫm đến gốc rễ và quy tụ tại suy ngẫm đến gốc rễ, và suy ngẫm đến gốc rễ được cho là tốt nhất trong số chúng. Một Tỷ kheo thành tựu trong việc suy ngẫm đến gốc rễ có thể mong đợi phát triển và tu tập bảy yếu tố của giác ngộ.
 
 Và làm thế nào một Tỷ kheo có suy ngẫm đến gốc rễ lại phát triển và tu tập bảy yếu tố của giác ngộ? Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách một Tỷ kheo có suy ngẫm đến gốc rễ phát triển và tu tập bảy yếu tố của giác ngộ."
 
 <!--pg-->
-### SN 46.33 Ô Nhiễm *Kinh Upakkilesa*{#33}
-
+### SN 46.33 Ô Nhiễm *Kinh Upakkilesa* {#33}
 "Này các Tỷ kheo, có năm loại ô nhiễm này của vàng nguyên chất. Khi vàng nguyên chất bị ô nhiễm bởi những thứ này, nó không dẻo, không dễ gia công, không sáng bóng, mà giòn và chưa hoàn toàn sẵn sàng để chế tác. Năm là gì? Sắt, đồng, thiếc, chì, và bạc. Khi vàng nguyên chất bị ô nhiễm bởi năm loại ô nhiễm này, nó không dẻo, không dễ gia công, không sáng bóng, mà giòn và chưa hoàn toàn sẵn sàng để chế tác.
 
 Tương tự như vậy, có năm loại ô nhiễm này của tâm. Khi tâm bị ô nhiễm bởi những thứ này, nó không dẻo, không dễ gia công, không sáng bóng. Nó giòn, và không được nhập Định đúng đắn để chấm dứt các ô nhiễm. Năm là gì? Theo đuổi thú vui, tức giận, tâm trí đờ đẫn và buồn ngủ, tâm bất an và hối tiếc, và nghi ngờ. Đây là năm loại ô nhiễm của tâm. Khi tâm bị ô nhiễm bởi những thứ này, nó không dẻo, không dễ gia công, không sáng bóng. Nó giòn, và không được nhập Định đúng đắn để chấm dứt các ô nhiễm."
 
 <!--pg-->
-### SN 46.34 Không Ô Nhiễm *Kinh Anupakkilesa*{#34}
-
+### SN 46.34 Không Ô Nhiễm *Kinh Anupakkilesa* {#34}
 "Này các Tỷ kheo, bảy yếu tố của giác ngộ này không phải là chướng ngại, phiền nhiễu, hay ô nhiễm của tâm. Khi được phát triển và tu tập, chúng dẫn đến sự chứng ngộ quả của minh và giải thoát. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Bảy yếu tố của giác ngộ này không phải là chướng ngại, phiền nhiễu, hay ô nhiễm của tâm. Khi được phát triển và tu tập, chúng dẫn đến sự chứng ngộ quả của minh và giải thoát."
 
 <!--pg-->
-### SN 46.35 Suy ngẫm không đến gốc rễ *Kinh Yonisomanasikāra*{#35}
-
+### SN 46.35 Suy ngẫm không đến gốc rễ *Kinh Yonisomanasikāra* {#35}
 "Này các Tỷ kheo, khi các con suy ngẫm không đến gốc rễ, theo đuổi thú vui, tức giận, tâm trí đờ đẫn và buồn ngủ, tâm bất an và hối tiếc, và nghi ngờ phát sinh, và một khi đã phát sinh, chúng tăng trưởng và lớn mạnh."
 
 "Này các Tỷ kheo, khi các con suy ngẫm đến gốc rễ, các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả phát sinh, và một khi chúng đã phát sinh, chúng được phát triển đầy đủ."
 
 <!--pg-->
-### SN 46.36 Tăng Trưởng *Kinh Buddhi*{#36}
-
+### SN 46.36 Tăng Trưởng *Kinh Buddhi* {#36}
 "Này các Tỷ kheo, khi bảy yếu tố của giác ngộ được phát triển và tu tập, chúng dẫn đến sự tăng trưởng và tiến bộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Khi bảy yếu tố của giác ngộ này được phát triển và tu tập, chúng dẫn đến sự tăng trưởng và tiến bộ."
 
 <!--pg-->
-### SN 46.37 Chướng Ngại *Kinh Āvaraṇanīvaraṇa*{#37}
-
+### SN 46.37 Chướng Ngại *Kinh Āvaraṇanīvaraṇa* {#37}
 "Này các Tỷ kheo, có năm chướng ngại và phiền nhiễu này, những ô nhiễm của tâm làm suy yếu trí tuệ. Năm là gì? Theo đuổi thú vui, tức giận, tâm trí đờ đẫn và buồn ngủ, tâm bất an và hối tiếc, và nghi ngờ. Đây là năm chướng ngại và phiền nhiễu, những ô nhiễm của tâm làm suy yếu trí tuệ.
 
 Có bảy yếu tố của giác ngộ này không phải là chướng ngại, phiền nhiễu, hay ô nhiễm của tâm. Khi được phát triển và tu tập, chúng dẫn đến sự chứng ngộ quả của minh và giải thoát. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Bảy yếu tố của giác ngộ này không phải là chướng ngại, phiền nhiễu, hay ô nhiễm của tâm. Khi được phát triển và tu tập, chúng dẫn đến sự chứng ngộ quả của minh và giải thoát."
 
 <!--pg-->
-### SN 46.38 Không Chướng Ngại *Kinh Anīvaraṇa*{#38}
-
+### SN 46.38 Không Chướng Ngại *Kinh Anīvaraṇa* {#38}
 "Này các Tỷ kheo, đôi khi một đệ tử cao quý chú ý, vận dụng tâm, tập trung toàn tâm, và tích cực lắng nghe giáo pháp. Vào lúc đó, năm Phiền nhiễu vắng mặt, và bảy yếu tố của giác ngộ được phát triển đầy đủ.
 
 Năm Phiền nhiễu vắng mặt là gì? Theo đuổi thú vui, tức giận, tâm trí đờ đẫn và buồn ngủ, tâm bất an và hối tiếc, và nghi ngờ. Đây là năm Phiền nhiễu vắng mặt.
@@ -454,8 +416,7 @@ Năm Phiền nhiễu vắng mặt là gì? Theo đuổi thú vui, tức giận, 
 Và bảy yếu tố của giác ngộ được phát triển đầy đủ là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Đây là bảy yếu tố của giác ngộ được phát triển đầy đủ. Đôi khi một đệ tử cao quý chú ý, vận dụng tâm, tập trung toàn tâm, và tích cực lắng nghe giáo pháp. Vào lúc đó, năm Phiền nhiễu vắng mặt, và bảy yếu tố của giác ngộ được phát triển đầy đủ."
 
 <!--pg-->
-### SN 46.39 Cây *Kinh Rukkha*{#39}
-
+### SN 46.39 Cây *Kinh Rukkha* {#39}
 "Này các Tỷ kheo, có những cây lớn có hạt nhỏ và thân to, chúng mọc lên và quấn quanh các cây khác như những loài ký sinh. Những cây bị chúng bao bọc sẽ gãy vỡ, sụp đổ, và ngã xuống. Và những cây lớn có hạt nhỏ và thân to đó là gì? Cây bồ đề, cây đa, cây si, cây sung, cây gừa, và cây tra. Đây là những cây lớn có hạt nhỏ và thân to, chúng mọc lên và quấn quanh các cây khác như những loài ký sinh. Những cây bị chúng bao bọc sẽ gãy vỡ, sụp đổ, và ngã xuống.
 
 Tương tự như vậy, hãy xem một người thiện nam nào đó đã xuất gia từ đời sống tại gia vào đời sống không nhà, từ bỏ những thú vui giác quan. Nhưng bị những thú vui giác quan tương tự, hoặc thậm chí tệ hơn, vây bủa, anh ta gãy vỡ, sụp đổ, và ngã xuống.
@@ -465,8 +426,7 @@ Có năm chướng ngại và phiền nhiễu này, những loài ký sinh của
 Bảy yếu tố của giác ngộ này không phải là chướng ngại, phiền nhiễu, hay ký sinh của tâm. Khi được phát triển và tu tập, chúng dẫn đến sự chứng ngộ quả của minh và giải thoát. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Bảy yếu tố của giác ngộ này không phải là chướng ngại, phiền nhiễu, hay ký sinh của tâm. Khi được phát triển và tu tập, chúng dẫn đến sự chứng ngộ quả của minh và giải thoát."
 
 <!--pg-->
-### SN 46.40 Phiền Nhiễu *Kinh Nīvaraṇa*{#40}
-
+### SN 46.40 Phiền Nhiễu *Kinh Nīvaraṇa* {#40}
 "Này các Tỷ kheo, năm phiền nhiễu này là những kẻ hủy diệt cái thấy, thị kiến, và tri kiến. Chúng ngăn chặn trí tuệ, chúng thuộc về phía đau khổ, và chúng không dẫn đến sự tịch diệt. Năm là gì? Theo đuổi thú vui, tức giận, tâm trí đờ đẫn và buồn ngủ, tâm bất an và hối tiếc, và nghi ngờ. Năm phiền nhiễu này là những kẻ hủy diệt cái thấy, thị kiến, và tri kiến. Chúng ngăn chặn trí tuệ, chúng thuộc về phía đau khổ, và chúng không dẫn đến sự tịch diệt.
 
 Bảy yếu tố của giác ngộ này là những người tạo ra thị kiến và tri kiến. Chúng làm tăng trưởng trí tuệ, chúng thuộc về phía an ủi, và chúng dẫn đến sự tịch diệt. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Bảy yếu tố của giác ngộ này là những người tạo ra thị kiến và tri kiến. Chúng làm tăng trưởng trí tuệ, chúng thuộc về phía an ủi, và chúng dẫn đến sự tịch diệt."
@@ -474,8 +434,7 @@ Bảy yếu tố của giác ngộ này là những người tạo ra thị ki�
 <!--pg-->
 ## Chương Về Chuyển Luân Vương
 
-### SN 46.41 Phân Biệt *Kinh Vidhā*{#41}
-
+### SN 46.41 Phân Biệt *Kinh Vidhā* {#41}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, tất cả các tu sĩ và bà-la-môn trong quá khứ đã từ bỏ ba sự phân biệt đều đã làm vậy bằng cách phát triển và tu tập bảy yếu tố của giác ngộ. Tất cả các tu sĩ và bà-la-môn trong tương lai sẽ từ bỏ ba sự phân biệt cũng sẽ làm vậy bằng cách phát triển và tu tập bảy yếu tố của giác ngộ. Tất cả các tu sĩ và bà-la-môn trong hiện tại đang từ bỏ ba sự phân biệt cũng làm vậy bằng cách phát triển và tu tập bảy yếu tố của giác ngộ.
@@ -483,50 +442,43 @@ Tại Sāvatthī.
 Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Tất cả các tu sĩ và bà-la-môn trong quá khứ... tương lai... và hiện tại từ bỏ ba sự phân biệt đều làm vậy bằng cách phát triển và tu tập bảy yếu tố của giác ngộ."
 
 <!--pg-->
-### SN 46.42 Một Vị Chuyển Luân Vương *Kinh Cakkavatti*{#42}
-
+### SN 46.42 Một Vị Chuyển Luân Vương *Kinh Cakkavatti* {#42}
 "Này các Tỷ kheo, khi một vị Chuyển Luân Vương xuất hiện, bảy báu vật xuất hiện. Bảy là gì? Bánh xe, voi, ngựa, ngọc, người phụ nữ, gia chủ, và vị tướng. Khi một vị Chuyển Luân Vương xuất hiện, bảy báu vật này xuất hiện.
 
 Khi một Như Lai, một bậc A-la-hán, một vị Phật toàn giác xuất hiện, bảy báu vật của các yếu tố giác ngộ xuất hiện. Bảy là gì? Các báu vật của các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Khi một Như Lai, một bậc A-la-hán, một vị Phật toàn giác xuất hiện, bảy báu vật của các yếu tố giác ngộ này xuất hiện."
 
 <!--pg-->
-### SN 46.43 Về Māra *Kinh Māra*{#43}
-
+### SN 46.43 Về Māra *Kinh Māra* {#43}
 "Này các Tỷ kheo, Ta sẽ dạy các con một con đường để đè bẹp quân đội của Māra. Hãy lắng nghe...
 
 Và con đường đó là gì? Đó là bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Đây là con đường để đè bẹp quân đội của Māra."
 
 <!--pg-->
-### SN 46.44 Kẻ Ngu Đần *Kinh Duppañña*{#44}
-
+### SN 46.44 Kẻ Ngu Đần *Kinh Duppañña* {#44}
 Rồi một Tỷ kheo đến gặp Đức Phật... và hỏi Ngài: "Bạch Thế Tôn, người ta nói về 'một kẻ ngu đần ngốc nghếch'. Một kẻ ngu đần ngốc nghếch được định nghĩa như thế nào?"
 
 "Này Tỷ kheo, họ được gọi là một kẻ ngu đần ngốc nghếch vì họ chưa phát triển và tu tập bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Họ được gọi là một kẻ ngu đần ngốc nghếch vì họ chưa phát triển và tu tập bảy yếu tố của giác ngộ này."
 
 <!--pg-->
-### SN 46.45 Người Trí *Kinh Paññavanta*{#45}
-
+### SN 46.45 Người Trí *Kinh Paññavanta* {#45}
 "Bạch Thế Tôn, người ta nói về một người 'trí tuệ và thông minh'. Một người trí tuệ và thông minh được định nghĩa như thế nào?"
 
 "Này Tỷ kheo, họ được gọi là trí tuệ và thông minh vì họ đã phát triển và tu tập bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Họ được gọi là trí tuệ và thông minh vì họ đã phát triển và tu tập bảy yếu tố của giác ngộ này."
 
 <!--pg-->
-### SN 46.46 Người Nghèo *Kinh Dalidda*{#46}
-
+### SN 46.46 Người Nghèo *Kinh Dalidda* {#46}
 "Bạch Thế Tôn, người ta nói về một người 'nghèo'. Một người nghèo được định nghĩa như thế nào?"
 
 "Này Tỷ kheo, họ được gọi là nghèo vì họ chưa phát triển và tu tập bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Họ được gọi là nghèo vì họ chưa phát triển và tu tập bảy yếu tố của giác ngộ này."
 
 <!--pg-->
-### SN 46.47 Người Giàu Có *Kinh Adalidda*{#47}
-
+### SN 46.47 Người Giàu Có *Kinh Adalidda* {#47}
 "Bạch Thế Tôn, người ta nói về một người 'giàu có'. Một người giàu có được định nghĩa như thế nào?"
 
 "Này Tỷ kheo, họ được gọi là giàu có vì họ đã phát triển và tu tập bảy yếu tố của giác ngộ. Bảy là gì? Các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả. Họ được gọi là giàu có vì họ đã phát triển và tu tập bảy yếu tố của giác ngộ này."
 
 <!--pg-->
-### SN 46.48 Mặt Trời *Kinh Ādicca*{#48}
-
+### SN 46.48 Mặt Trời *Kinh Ādicca* {#48}
 "Này các Tỷ kheo, bình minh là điềm báo và tiền thân của mặt trời mọc.
 
 Tương tự như vậy, đối với một Tỷ kheo, tình bạn tốt là điềm báo và tiền thân của sự phát sinh của bảy yếu tố của giác ngộ. Một Tỷ kheo có bạn tốt có thể mong đợi phát triển và tu tập bảy yếu tố của giác ngộ.
@@ -534,20 +486,17 @@ Tương tự như vậy, đối với một Tỷ kheo, tình bạn tốt là đi
 Và làm thế nào một Tỷ kheo có bạn tốt lại phát triển và tu tập bảy yếu tố của giác ngộ? Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách một Tỷ kheo có bạn tốt phát triển và tu tập bảy yếu tố của giác ngộ."
 
 <!--pg-->
-### SN 46.49 Yếu Tố Nội Tại *Kinh Ajjhattikaṅga*{#49}
-
+### SN 46.49 Yếu Tố Nội Tại *Kinh Ajjhattikaṅga* {#49}
 "Xét đến các yếu tố nội tại, này các Tỷ kheo, Ta không thấy một yếu tố nào duy nhất có thể làm phát sinh bảy yếu tố của giác ngộ như là suy ngẫm đến gốc rễ. ..."
 
 <!--pg-->
-### SN 46.50 Yếu Tố Bên Ngoài *Kinh Bāhiraṅga*{#50}
-
+### SN 46.50 Yếu Tố Bên Ngoài *Kinh Bāhiraṅga* {#50}
 "Xét đến các yếu tố bên ngoài, này các Tỷ kheo, Ta không thấy một yếu tố nào duy nhất có thể làm phát sinh bảy yếu tố của giác ngộ như là tình bạn tốt. ..."
 
 <!--pg-->
 ## Chương Về Thảo Luận
 
-### SN 46.51 Nuôi Dưỡng *Kinh Āhāra*{#51}
-
+### SN 46.51 Nuôi Dưỡng *Kinh Āhāra* {#51}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, Ta sẽ dạy các con điều gì nuôi dưỡng và điều gì làm suy yếu năm Phiền nhiễu và bảy yếu tố của giác ngộ. Hãy lắng nghe...
@@ -601,8 +550,7 @@ Và điều gì làm suy yếu sự phát sinh của yếu tố giác ngộ là 
 Và điều gì làm suy yếu sự phát sinh của yếu tố giác ngộ là Xả, hoặc, khi nó đã phát sinh, làm suy yếu sự phát triển đầy đủ của nó? Đó là những điều là cơ sở cho yếu tố giác ngộ là Xả. Không thường xuyên chú tâm vào điều đó làm suy yếu sự phát sinh của yếu tố giác ngộ là Xả, hoặc, khi nó đã phát sinh, làm suy yếu sự phát triển đầy đủ của nó."
 
 <!--pg-->
-### SN 46.52 Có Cách Nào Không? *Kinh Pariyāya*{#52}
-
+### SN 46.52 Có Cách Nào Không? *Kinh Pariyāya* {#52}
 Rồi một vài Tỷ kheo mặc y vào buổi sáng, mang bát và y, vào Sāvatthī để khất thực. Rồi họ nghĩ: "Còn quá sớm để đi khất thực ở Sāvatthī. Tại sao chúng ta không đến thăm tu viện của các du sĩ ngoại đạo?"
 
 Rồi họ đến tu viện của các du sĩ ngoại đạo và chào hỏi các du sĩ ở đó. Sau khi chào hỏi và trò chuyện lịch sự xong, họ ngồi xuống một bên. Các du sĩ nói với họ:
@@ -632,8 +580,7 @@ Bình an thể chất là yếu tố giác ngộ là bình an; và bình an tinh
 Xả đối với những điều bên trong là yếu tố giác ngộ là Xả; và Xả đối với những điều bên ngoài cũng là yếu tố giác ngộ là Xả. Theo cách này, điều được gọi ngắn gọn là 'yếu tố giác ngộ là Xả' trở thành hai. Đây là cách mà bảy yếu tố của giác ngộ trở thành mười bốn."
 
 <!--pg-->
-### SN 46.53 Lửa *Kinh Aggi*{#53}
-
+### SN 46.53 Lửa *Kinh Aggi* {#53}
 Rồi một vài Tỷ kheo mặc y vào buổi sáng, mang bát và y, vào Sāvatthī để khất thực.
 
 **(Tương tự như bài kinh trước.)**
@@ -675,8 +622,7 @@ Giả sử có người muốn dập tắt một đám lửa lớn. Nếu họ n
 "Tương tự như vậy, khi tâm bồn chồn, đó là thời điểm đúng để phát triển các yếu tố giác ngộ là bình an, Định, và Xả. Tại sao vậy? Bởi vì dễ dàng làm lắng dịu một tâm bồn chồn bằng những điều này. Nhưng chánh niệm thì luôn hữu ích, Ta nói."
 
 <!--pg-->
-### SN 46.54 Tràn Đầy Tình Thương *Kinh Mettāsahagata*{#54}
-
+### SN 46.54 Tràn Đầy Tình Thương *Kinh Mettāsahagata* {#54}
 Một thời, Đức Phật đang ở tại xứ Koliya, nơi có một thị trấn tên là Haliddavasana. Rồi một vài Tỷ kheo mặc y vào buổi sáng, mang bát và y, vào Haliddavasana để khất thực. Rồi họ nghĩ: "Còn quá sớm để đi khất thực ở Haliddavasana. Tại sao chúng ta không đến thăm tu viện của các du sĩ ngoại đạo?"
 
 Rồi họ đến tu viện của các du sĩ ngoại đạo và chào hỏi các du sĩ ở đó. Sau khi chào hỏi và trò chuyện lịch sự xong, họ ngồi xuống một bên. Các du sĩ nói với họ:
@@ -700,8 +646,7 @@ Và tâm giải thoát bằng niềm vui hỷ xả được phát triển như t
 Và tâm giải thoát bằng Xả được phát triển như thế nào? Đích đến, đỉnh cao, quả, và kết thúc của nó là gì? Đó là khi một Tỷ kheo phát triển tâm giải thoát bằng Xả cùng với các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Nếu họ muốn: 'Mong rằng tôi thiền định nhận thức điều đáng ghê tởm trong cái không đáng ghê tởm,' đó là những gì họ làm. Nếu họ muốn: 'Mong rằng tôi thiền định nhận thức điều không đáng ghê tởm trong cái đáng ghê tởm,' đó là những gì họ làm. Nếu họ muốn: 'Mong rằng tôi thiền định nhận thức điều đáng ghê tởm trong cái không đáng ghê tởm và cái đáng ghê tởm,' đó là những gì họ làm. Nếu họ muốn: 'Mong rằng tôi thiền định nhận thức điều không đáng ghê tởm trong cái đáng ghê tởm và cái không đáng ghê tởm,' đó là những gì họ làm. Nếu họ muốn: 'Mong rằng tôi thiền định giữ tâm Xả, có chánh niệm và tỉnh giác, từ bỏ cả cái đáng ghê tởm và cái không đáng ghê tởm,' đó là những gì họ làm. Hoặc là, vượt qua hoàn toàn cảnh giới thức vô hạn, nhận biết rằng 'không có gì cả', họ nhập và trú trong cảnh giới vô sở hữu. Đỉnh cao của tâm giải thoát bằng Xả là cảnh giới vô sở hữu, Ta nói, đối với một Tỷ kheo chưa thâm nhập đến một sự giải thoát cao hơn."
 
 <!--pg-->
-### SN 46.55 Với Saṅgārava *Kinh Saṅgārava*{#55}
-
+### SN 46.55 Với Saṅgārava *Kinh Saṅgārava* {#55}
 Tại Sāvatthī.
 
 Rồi bà-la-môn Saṅgārava đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ông ngồi xuống một bên và nói với Đức Phật:
@@ -773,8 +718,7 @@ Bảy yếu tố của giác ngộ này không phải là chướng ngại, phi�
 Khi Ngài nói điều này, Saṅgārava nói với Đức Phật: "Tuyệt vời, thưa ngài Gotama! ... Từ hôm nay trở đi, xin ngài Gotama hãy ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 46.56 Với Hoàng Tử Abhaya *Kinh Abhaya*{#56}
-
+### SN 46.56 Với Hoàng Tử Abhaya *Kinh Abhaya* {#56}
 Như vầy tôi nghe. Một thời, Đức Phật đang ở gần Rājagaha, trên núi Linh Thứu. Rồi Hoàng tử Abhaya đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
 "Bạch Thế Tôn, Pūraṇa Kassapa nói rằng: 'Không có nguyên nhân hay lý do nào cho việc không biết và không thấy. Không biết và không thấy không có nguyên nhân hay lý do. Không có nguyên nhân hay lý do nào cho việc biết và thấy. Biết và thấy không có nguyên nhân hay lý do.' Đức Phật nói gì về điều này?"
@@ -808,8 +752,7 @@ Hơn nữa, một Tỷ kheo phát triển yếu tố giác ngộ là Phân tích
 <!--pg-->
 ## Chương Về Hơi Thở
 
-### SN 46.57 Một Bộ Xương *Kinh Aṭṭhikamahapphala*{#57}
-
+### SN 46.57 Một Bộ Xương *Kinh Aṭṭhikamahapphala* {#57}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, khi nhận thức về một bộ xương được phát triển và tu tập, nó rất có kết quả và lợi ích. Làm thế nào vậy? Đó là khi một Tỷ kheo phát triển nhận thức về một bộ xương cùng với các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách nhận thức về một bộ xương, khi được phát triển và tu tập, rất có kết quả và lợi ích."
@@ -825,100 +768,81 @@ Tại Sāvatthī.
 "Này các Tỷ kheo, khi nhận thức về một bộ xương được phát triển và tu tập, nó dẫn đến việc sống trong sự an lạc lớn. Làm thế nào vậy?..."
 
 <!--pg-->
-### SN 46.58 Bị Giòi Bọ Ăn *Kinh Puḷavaka*{#58}
-
+### SN 46.58 Bị Giòi Bọ Ăn *Kinh Puḷavaka* {#58}
 "Này các Tỷ kheo, khi nhận thức về một xác chết bị giòi bọ ăn được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.59 Tím Tái *Kinh Vinīlaka*{#59}
-
+### SN 46.59 Tím Tái *Kinh Vinīlaka* {#59}
 "Này các Tỷ kheo, khi nhận thức về một xác chết tím tái được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.60 Nứt Nẻ *Kinh Vicchiddaka*{#60}
-
+### SN 46.60 Nứt Nẻ *Kinh Vicchiddaka* {#60}
 "Này các Tỷ kheo, khi nhận thức về một xác chết nứt nẻ được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.61 Trương Phình *Kinh Uddhumātaka*{#61}
-
+### SN 46.61 Trương Phình *Kinh Uddhumātaka* {#61}
 "Này các Tỷ kheo, khi nhận thức về một xác chết trương phình được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.62 Tình Thương *Kinh Mettā*{#62}
-
+### SN 46.62 Tình Thương *Kinh Mettā* {#62}
 "Này các Tỷ kheo, khi tình thương được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.63 Lòng Bi *Kinh Karuṇā*{#63}
-
+### SN 46.63 Lòng Bi *Kinh Karuṇā* {#63}
 "Này các Tỷ kheo, khi lòng bi được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.64 Hỷ Xả *Kinh Muditā*{#64}
-
+### SN 46.64 Hỷ Xả *Kinh Muditā* {#64}
 "Này các Tỷ kheo, khi hỷ xả được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.65 Xả *Kinh Upekkhā*{#65}
-
+### SN 46.65 Xả *Kinh Upekkhā* {#65}
 "Này các Tỷ kheo, khi Xả được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.66 Hơi Thở *Kinh Ānāpāna*{#66}
-
+### SN 46.66 Hơi Thở *Kinh Ānāpāna* {#66}
 "Này các Tỷ kheo, khi chánh niệm về hơi thở được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
 ## Chương Về Đoạn Diệt
 
-### SN 46.67 Sự Xấu Xí *Kinh Asubha*{#67}
-
+### SN 46.67 Sự Xấu Xí *Kinh Asubha* {#67}
 "Này các Tỷ kheo, khi nhận thức về sự xấu xí được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.68 Cái Chết *Kinh Maraṇa*{#68}
-
+### SN 46.68 Cái Chết *Kinh Maraṇa* {#68}
 "Này các Tỷ kheo, khi nhận thức về cái chết được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.69 Sự Ghê Tởm Của Thức Ăn *Kinh Āhārepaṭikūla*{#69}
-
+### SN 46.69 Sự Ghê Tởm Của Thức Ăn *Kinh Āhārepaṭikūla* {#69}
 "Này các Tỷ kheo, khi nhận thức về sự ghê tởm của thức ăn được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.70 Bất Mãn *Kinh Anabhirati*{#70}
-
+### SN 46.70 Bất Mãn *Kinh Anabhirati* {#70}
 "Này các Tỷ kheo, khi nhận thức về sự bất mãn với toàn thế giới được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.71 Vô Thường *Kinh Anicca*{#71}
-
+### SN 46.71 Vô Thường *Kinh Anicca* {#71}
 "Này các Tỷ kheo, khi nhận thức về vô thường được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.72 Khổ Trong Vô Thường *Kinh Dukkha*{#72}
-
+### SN 46.72 Khổ Trong Vô Thường *Kinh Dukkha* {#72}
 "Này các Tỷ kheo, khi nhận thức về khổ trong vô thường được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.73 Vô Ngã Trong Khổ *Kinh Anatta*{#73}
-
+### SN 46.73 Vô Ngã Trong Khổ *Kinh Anatta* {#73}
 "Này các Tỷ kheo, khi nhận thức về vô ngã trong khổ được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.74 Từ Bỏ *Kinh Pahāna*{#74}
-
+### SN 46.74 Từ Bỏ *Kinh Pahāna* {#74}
 "Này các Tỷ kheo, khi nhận thức về sự từ bỏ được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.75 Ly Tham *Kinh Virāga*{#75}
-
+### SN 46.75 Ly Tham *Kinh Virāga* {#75}
 "Này các Tỷ kheo, khi nhận thức về ly tham được phát triển và tu tập, nó rất có kết quả và lợi ích. ..."
 
 <!--pg-->
-### SN 46.76 Đoạn Diệt *Kinh Nirodha*{#76}
-
+### SN 46.76 Đoạn Diệt *Kinh Nirodha* {#76}
 "Này các Tỷ kheo, khi nhận thức về đoạn diệt được phát triển và tu tập, nó rất có kết quả và lợi ích. Làm thế nào vậy? Đó là khi một Tỷ kheo phát triển nhận thức về đoạn diệt cùng với các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách, khi nhận thức về đoạn diệt được phát triển và tu tập, nó rất có kết quả và lợi ích.
 
 Khi nhận thức về đoạn diệt được phát triển và tu tập, các con có thể mong đợi một trong hai kết quả: giác ngộ trong chính đời này, hoặc nếu còn sót lại điều gì, sẽ không trở lại. Làm thế nào vậy? Đó là khi một Tỷ kheo phát triển nhận thức về đoạn diệt cùng với các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Khi nhận thức về đoạn diệt được phát triển và tu tập theo cách này, các con có thể mong đợi một trong hai kết quả: giác ngộ trong chính đời này, hoặc nếu còn sót lại điều gì, sẽ không trở lại."
@@ -928,8 +852,7 @@ Khi nhận thức về đoạn diệt được phát triển và tu tập, các 
 <!--pg-->
 ## Chương Về Các Bài Kinh Tóm Tắt Về Sông Hằng
 
-### SN 46.77--88 Sông Hằng, V.v. *Phẩm Gaṅgāpeyyāla*{#77-88}
-
+### SN 46.77--88 Sông Hằng, V.v. *Phẩm Gaṅgāpeyyāla* {#77-88}
 "Này các Tỷ kheo, sông Hằng nghiêng, dốc, và hướng về phía đông. Tương tự như vậy, một Tỷ kheo phát triển và tu tập bảy yếu tố của giác ngộ sẽ nghiêng, dốc, và hướng về sự tịch diệt.
 
 Và làm thế nào một Tỷ kheo phát triển bảy yếu tố của giác ngộ lại nghiêng, dốc, và hướng về sự tịch diệt? Đó là khi một Tỷ kheo phát triển các yếu tố giác ngộ là chánh niệm, Phân tích pháp, nghị lực, hứng khởi, bình an, Định, và Xả, dựa trên sự ly dục, phai nhạt, và đoạn diệt, và chín muồi thành sự buông bỏ. Đó là cách một Tỷ kheo phát triển và tu tập bảy yếu tố của giác ngộ nghiêng, dốc, và hướng về sự tịch diệt."
@@ -939,8 +862,7 @@ Và làm thế nào một Tỷ kheo phát triển bảy yếu tố của giác n
 <!--pg-->
 ## Chương Về Tinh Cần
 
-### SN 46.89--98 Một Như Lai, V.v. *Phẩm Appamāda*{#89-98}
-
+### SN 46.89--98 Một Như Lai, V.v. *Phẩm Appamāda* {#89-98}
 "Này các Tỷ kheo, Như Lai, bậc A-la-hán, vị Phật toàn giác, được cho là bậc tối thượng trong tất cả chúng sinh—dù là không chân, hai chân, bốn chân, hay nhiều chân..."
 
 **(Kể đầy đủ như trong SN 45.139--148.)**
@@ -948,8 +870,7 @@ Và làm thế nào một Tỷ kheo phát triển bảy yếu tố của giác n
 <!--pg-->
 ## Chương Về Công Việc Khó Nhọc
 
-### SN 46.99--110 Công Việc Khó Nhọc, V.v. *Phẩm Balakaraṇīya*{#99-110}
-
+### SN 46.99--110 Công Việc Khó Nhọc, V.v. *Phẩm Balakaraṇīya* {#99-110}
 "Này các Tỷ kheo, tất cả công việc khó nhọc được thực hiện đều phụ thuộc vào mặt đất và có nền tảng là mặt đất. ..."
 
 **(Kể đầy đủ như trong SN 45.149--160.)**
@@ -957,8 +878,7 @@ Và làm thế nào một Tỷ kheo phát triển bảy yếu tố của giác n
 <!--pg-->
 ## Chương Về Tìm Kiếm
 
-### SN 46.111--120 Tìm Kiếm, V.v. *Phẩm Esanā*{#111-120}
-
+### SN 46.111--120 Tìm Kiếm, V.v. *Phẩm Esanā* {#111-120}
 "Này các Tỷ kheo, có ba sự tìm kiếm này. Ba là gì? Sự tìm kiếm những thú vui giác quan, sự tìm kiếm sự tồn tại tiếp diễn, và sự tìm kiếm một con đường tâm linh. ..."
 
 **(Kể đầy đủ như trong SN 45.161--170.)**
@@ -966,15 +886,13 @@ Và làm thế nào một Tỷ kheo phát triển bảy yếu tố của giác n
 <!--pg-->
 ## Chương Về Lũ Lụt
 
-### SN 46.121--129 Lũ Lụt *Kinh Oghādi*{#121-129}
-
+### SN 46.121--129 Lũ Lụt *Kinh Oghādi* {#121-129}
 "Này các Tỷ kheo, có bốn *cơn lũ* (floods / *bộc lưu*) này. Bốn là gì? Cơn lũ của dục vọng, mong muốn tái sinh, các quan điểm, và vô minh."
 
 **(Kể đầy đủ như trong SN 45.171--179.)**
 
 <!--pg-->
-### SN 46.130 Các Xiềng Xích Cao Hơn *Kinh Uddhambhāgiya*{#130}
-
+### SN 46.130 Các Xiềng Xích Cao Hơn *Kinh Uddhambhāgiya* {#130}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, có năm xiềng xích cao hơn. Năm là gì? Ham muốn tái sinh trong cõi sắc giới, ham muốn tái sinh trong cõi vô sắc, ngã mạn, bồn chồn lo lắng, và vô minh. Đây là năm xiềng xích cao hơn. Bảy yếu tố của giác ngộ nên được phát triển để hiểu biết trực tiếp, *hiểu biết hoàn toàn* (complete understanding / *liễu tri*), chấm dứt, và từ bỏ năm xiềng xích cao hơn này.
@@ -990,36 +908,31 @@ Bảy yếu tố của giác ngộ nên được phát triển để hiểu bi�
 <!--pg-->
 ## Một Chương Khác Về Các Bài Kinh Tóm Tắt Về Sông Hằng
 
-### SN 46.131--142 Thêm Về Sông Hằng, V.v. *Phẩm Punagaṅgāpeyyāla*{#131-142}
-
+### SN 46.131--142 Thêm Về Sông Hằng, V.v. *Phẩm Punagaṅgāpeyyāla* {#131-142}
 **(Kể đầy đủ như trong SN 45.103--114, phiên bản loại bỏ tham.)**
 
 <!--pg-->
 ## Một Chương Khác Về Tinh Cần
 
-### SN 46.143--152 Một Loạt Bài Khác Về Một Như Lai, V.v. *Phẩm Punaappamāda*{#143-152}
-
+### SN 46.143--152 Một Loạt Bài Khác Về Một Như Lai, V.v. *Phẩm Punaappamāda* {#143-152}
 **(Kể đầy đủ như trong SN 45.139--148, phiên bản loại bỏ tham.)**
 
 <!--pg-->
 ## Một Chương Khác Về Công Việc Khó Nhọc
 
-### SN 46.153--164 Công Việc Khó Nhọc, V.v. *Phẩm Punabalakaraṇīya*{#153-164}
-
+### SN 46.153--164 Công Việc Khó Nhọc, V.v. *Phẩm Punabalakaraṇīya* {#153-164}
 **(Kể đầy đủ như trong SN 45.149--160, phiên bản loại bỏ tham.)**
 
 <!--pg-->
 ## Một Chương Khác Về Tìm Kiếm
 
-### SN 46.165--174 Một Loạt Bài Khác Về Tìm Kiếm, V.v. *Phẩm Punaesanā*{#165-174}
-
+### SN 46.165--174 Một Loạt Bài Khác Về Tìm Kiếm, V.v. *Phẩm Punaesanā* {#165-174}
 **(Kể đầy đủ như trong SN 45.161--170.)**
 
 <!--pg-->
 ## Một Chương Khác Về Lũ Lụt
 
-### SN 46.175--184 Một Loạt Bài Khác Về Lũ Lụt, V.v. *Phẩm Punaogha*{#175-184}
-
+### SN 46.175--184 Một Loạt Bài Khác Về Lũ Lụt, V.v. *Phẩm Punaogha* {#175-184}
 **(Kể đầy đủ như trong SN 45.171--180.)**
 
 ::: small

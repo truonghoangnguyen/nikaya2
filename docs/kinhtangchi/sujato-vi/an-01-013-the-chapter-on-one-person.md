@@ -1,7 +1,6 @@
 # Phẩm Về Một Người
 
-### AN 1.170--187 *Ekapuggalavagga*{#170-187}
-
+### AN 1.170--187 *Ekapuggalavagga* {#170-187}
 170\. "Này các *Tỳ kheo* (mendicants / các vị khất sĩ), có một người xuất hiện trên đời vì lợi ích và an vui cho số đông, vì lòng thương tưởng đối với thế gian, vì lợi ích, vì an vui, vì hạnh phúc cho chư thiên và loài người. Một người ấy là ai? Đó là *Như Lai* (Realized One / bậc đã đạt đến chân lý), bậc *A-la-hán* (perfected one / bậc đã hoàn thiện), bậc *Chánh Đẳng Chánh Giác* (fully awakened Buddha / bậc giác ngộ hoàn toàn). Này các Tỳ kheo, đây là một người xuất hiện trên đời vì lợi ích và an vui cho số đông, vì lòng thương tưởng đối với thế gian, vì lợi ích, vì an vui, vì hạnh phúc cho chư thiên và loài người."
 
 <!--pg-->

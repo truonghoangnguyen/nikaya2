@@ -1,7 +1,6 @@
 # Phẩm về Hoàn Cảnh
 
-### AN 4.31 Hoàn Cảnh *Cakkasutta*{#31}
-
+### AN 4.31 Hoàn Cảnh *Cakkasutta* {#31}
 "Này các Tỳ kheo, có bốn hoàn cảnh này. Khi những hoàn cảnh này xảy ra, bất kỳ chư thiên hay loài người nào tận dụng chúng sẽ sớm đạt được tài sản lớn lao và dồi dào. Bốn hoàn cảnh đó là gì? Sống ở *xứ sở thích hợp*, nương tựa *bậc chân nhân*, tự mình có *chí hướng chân chánh*, và có *phước đức quá khứ* (past merit / phước báu đã tạo trong đời trước).
 
 Đây là bốn hoàn cảnh. Khi những hoàn cảnh này xảy ra, bất kỳ chư thiên hay loài người nào tận dụng chúng sẽ sớm đạt được tài sản lớn lao và dồi dào.
@@ -14,8 +13,7 @@
 > Và hạnh phúc sẽ đến với họ."
 
 <!--pg-->
-### AN 4.32 Nhiếp Phục *Saṅgahasutta*{#32}
-
+### AN 4.32 Nhiếp Phục *Saṅgahasutta* {#32}
 "Này các Tỳ kheo, có bốn *tứ nhiếp pháp* (four ways of being inclusive / bốn pháp thu phục lòng người) này. Bốn pháp đó là gì? *Bố thí* (Giving / cho đi), *ái ngữ* (kindly words / lời nói dễ thương), *lợi hành* (taking care / hành động vì lợi ích người khác), và *đồng sự* (equality / cùng làm việc và chia sẻ).
 
 Đây là bốn pháp nhiếp phục.
@@ -38,8 +36,7 @@
 > Và được tán dương."
 
 <!--pg-->
-### AN 4.33 Sư Tử *Sīhasutta*{#33}
-
+### AN 4.33 Sư Tử *Sīhasutta* {#33}
 "Này các Tỳ kheo, vào buổi chiều, sư tử, vua loài thú, ra khỏi hang, ngáp, nhìn khắp bốn phương, và rống lên tiếng rống sư tử ba lần. Sau đó, nó lên đường săn mồi. Và những con thú nghe tiếng rống của sư tử, vua loài thú, thường tràn đầy sợ hãi, kinh hoàng và khiếp đảm. Chúng trở về hang ổ của mình, dù ở trong hang, dưới nước, hay trong rừng; và các loài chim bay lên không trung. Ngay cả những con voi của hoàng gia, bị trói bằng dây cương chắc chắn trong các làng, thị trấn và kinh thành, cũng bứt đứt dây trói, và kinh hoàng đến mức tiểu tiện, đại tiện rồi chạy trốn tán loạn. Oai lực của sư tử, vua loài thú, đối với các loài vật là như vậy đó, thật lừng lẫy và hùng mạnh.
 
 Tương tự như vậy, khi một *Như Lai* (Realized One / bậc đã đến và đi như vậy, danh hiệu của Phật) xuất hiện trên thế gian—là bậc *A-la-hán* (perfected / bậc đã hoàn thiện), *Chánh Đẳng Giác* (fully awakened Buddha / bậc giác ngộ hoàn toàn), *Minh Hạnh Túc* (accomplished in knowledge and conduct / người đầy đủ trí tuệ và đức hạnh), *Thiện Thệ* (holy / bậc khéo đi), *Thế Gian Giải* (knower of the world / người hiểu biết thế gian), *Vô Thượng Sĩ Điều Ngự Trượng Phu* (supreme guide for those who wish to train / bậc tối cao hướng dẫn người cần điều phục), *Thiên Nhân Sư* (teacher of gods and humans / thầy của trời và người), *Phật* (awakened / bậc tỉnh thức), *Thế Tôn* (blessed / bậc được tôn kính)—Ngài thuyết giảng *Pháp* (Dhamma / giáo lý): 'Đây là *thân kiến* (substantial reality / quan niệm về một cái tôi thực thể), đây là *thân kiến tập khởi* (origin of substantial reality / nguồn gốc của thân kiến), đây là *thân kiến đoạn diệt* (cessation of substantial reality / sự chấm dứt thân kiến), đây là *con đường đưa đến thân kiến đoạn diệt* (practice that leads to the cessation of substantial reality / pháp hành dẫn đến sự chấm dứt thân kiến).'
@@ -69,8 +66,7 @@ Oai lực của Như Lai trong thế giới cùng với chư thiên là như v�
 > Của bậc A-la-hán, tự tại và vô nhiễm."
 
 <!--pg-->
-### AN 4.34 Niềm Tin Tối Thượng *Aggappasādasutta*{#34}
-
+### AN 4.34 Niềm Tin Tối Thượng *Aggappasādasutta* {#34}
 "Này các Tỳ kheo, bốn loại *tín* (confidence / niềm tin) này là tối thượng. Bốn loại đó là gì?
 
 Như Lai, bậc A-la-hán, Chánh Đẳng Giác, được xem là tối thượng trong tất cả *chúng sanh* (sentient beings / các loài hữu tình)—dù không chân, hai chân, bốn chân, hay nhiều chân; dù có sắc hay không sắc; dù có tưởng, không tưởng, hay phi tưởng phi phi tưởng. Những ai có niềm tin vào Đức Phật là có niềm tin vào bậc tối thượng. Có niềm tin vào bậc tối thượng, kết quả là tối thượng.
@@ -104,8 +100,7 @@ Sự *ly tham* (fading away / sự phai nhạt tham ái) được xem là tối 
 > Họ hoan hỷ đạt đến điều tối thượng."
 
 <!--pg-->
-### AN 4.35 Với Vassakāra *Vassakārasutta*{#35}
-
+### AN 4.35 Với Vassakāra *Vassakārasutta* {#35}
 Một thời Thế Tôn trú gần thành Rājagaha (Vương Xá), trong Trúc Lâm, nơi nuôi dưỡng các con sóc. Bấy giờ, Bà-la-môn Vassakāra, một đại thần của xứ Magadha (Ma-kiệt-đà), đến gặp Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, khi một người có bốn phẩm chất, chúng tôi gọi người đó là *bậc đại nhân* (great man / người vĩ đại) có *đại trí tuệ* (great wisdom / trí tuệ lớn). Bốn phẩm chất đó là gì?
@@ -151,8 +146,7 @@ Này Bà-la-môn, Ta không đồng ý cũng không phản đối ông, nhưng k
 > Được gọi là 'bậc đại nhân, đại trí tuệ'."
 
 <!--pg-->
-### AN 4.36 Doṇa *Doṇasutta*{#36}
-
+### AN 4.36 Doṇa *Doṇasutta* {#36}
 Một thời Thế Tôn đang đi trên con đường giữa Ukkaṭṭhā và Setavyā, Bà-la-môn Doṇa cũng vậy.
 
 Doṇa nhìn thấy dấu chân của Thế Tôn có hình *bánh xe ngàn căm* (thousand-spoked wheels / bánh xe có ngàn nan hoa), với vành và trục, đầy đủ mọi chi tiết. Ông nghĩ: "Ồ, thật không thể tin được, thật tuyệt vời! Chắc chắn đây không thể là dấu chân của một con người?"
@@ -198,8 +192,7 @@ Này Bà-la-môn, hãy ghi nhớ Ta là một vị *Phật* (Buddha / bậc giá
 > Vì vậy, Bà-la-môn, Ta là Phật."
 
 <!--pg-->
-### AN 4.37 Không Suy Thoái *Aparihāniyasutta*{#37}
-
+### AN 4.37 Không Suy Thoái *Aparihāniyasutta* {#37}
 "Này các Tỳ kheo, một Tỳ kheo có bốn pháp này thì không thể suy thoái, và đã đến gần *Niết-bàn* (extinguishment / sự tịch diệt). Bốn pháp đó là gì? Một Tỳ kheo *thành tựu giới hạnh* (accomplished in ethics / giữ gìn giới luật trọn vẹn), *hộ trì các căn* (guards the sense doors / bảo vệ các giác quan), *tiết độ trong ăn uống* (eats in moderation / ăn uống có chừng mực), và *chú tâm tỉnh thức* (dedicated to wakefulness / chuyên tâm vào sự tỉnh táo).
 
 Và thế nào là một Tỳ kheo thành tựu giới hạnh? Đó là khi một Tỳ kheo có giới hạnh, sống chế ngự trong *giới luật* (monastic code / các quy tắc của tu sĩ), có hạnh kiểm tốt và khất thực ở những nơi thích hợp. Thấy nguy hiểm trong lỗi nhỏ nhặt nhất, họ giữ gìn các giới luật đã thọ nhận. Đó là cách một Tỳ kheo thành tựu giới hạnh.
@@ -226,8 +219,7 @@ Và thế nào là một Tỳ kheo chú tâm tỉnh thức? Đó là khi một T
 > Và đã đến gần Niết-bàn."
 
 <!--pg-->
-### AN 4.38 Ẩn Dật *Patilīnasutta*{#38}
-
+### AN 4.38 Ẩn Dật *Patilīnasutta* {#38}
 "Này các Tỳ kheo, một Tỳ kheo đã loại bỏ các *tà kiến* (idiosyncratic interpretations of the truth / các quan điểm sai lệch), đã hoàn toàn từ bỏ sự *tìm cầu* (searching / sự mong muốn, theo đuổi), đã *an tịnh thân hành* (stilled the physical process / làm lắng dịu các hoạt động của thân, đặc biệt là hơi thở), và được gọi là người '*ẩn dật*' (withdrawn / sống xa lánh, không dính mắc).
 
 Và thế nào là một Tỳ kheo đã loại bỏ các tà kiến? Các đạo sĩ và Bà-la-môn khác nhau có những tà kiến khác nhau. Ví dụ: vũ trụ là thường hằng, hay không thường hằng, hay hữu biên, hay vô biên; linh hồn và thân thể là một, hay là khác nhau; sau khi chết, một bậc giác ngộ vẫn tồn tại, hay không còn tồn tại, hay vừa tồn tại vừa không tồn tại, hay không tồn tại cũng không không tồn tại. Một Tỳ kheo đã xua tan, loại bỏ, vứt bỏ, từ khước, buông bỏ, từ bỏ, và xả ly tất cả những điều này. Đó là cách một Tỳ kheo đã loại bỏ các tà kiến.
@@ -255,8 +247,7 @@ Và thế nào là một Tỳ kheo ẩn dật? Đó là khi họ đã từ bỏ 
 > Họ được gọi là 'ẩn dật'."
 
 <!--pg-->
-### AN 4.39 Với Ujjaya *Ujjayasutta*{#39}
-
+### AN 4.39 Với Ujjaya *Ujjayasutta* {#39}
 Bấy giờ Bà-la-môn Ujjaya đến gặp Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và thưa với Thế Tôn:
 
 "Tôn giả Gotama có tán dương *tế lễ* (sacrifice / nghi thức cúng tế) không?"
@@ -289,8 +280,7 @@ Nhưng hãy xem loại tế lễ mà trong đó bò, dê và cừu, gà và heo,
 > Và ngay cả *chư thiên* (deities / các vị trời) cũng hài lòng."
 
 <!--pg-->
-### AN 4.40 Với Udāyī *Udāyīsutta*{#40}
-
+### AN 4.40 Với Udāyī *Udāyīsutta* {#40}
 Bấy giờ Bà-la-môn Udāyī đến gặp Thế Tôn, ... và hỏi Ngài, "Tôn giả Gotama có tán dương tế lễ không?"
 
 "Này Bà-la-môn, Ta không tán dương mọi loại tế lễ. Ta cũng không chỉ trích mọi loại tế lễ. ... Hãy xem loại tế lễ mà trong đó bò, dê và cừu, gà và heo, cùng nhiều loại động vật khác bị giết hại. Ta không tán dương loại tế lễ bạo động đó.

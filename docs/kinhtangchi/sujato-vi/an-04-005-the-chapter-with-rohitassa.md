@@ -1,7 +1,6 @@
 # Phẩm về Rohitassa
 
-### AN 4.41 Các Cách Phát Triển Định Thêm Nữa *Samādhibhāvanāsutta*{#41}
-
+### AN 4.41 Các Cách Phát Triển Định Thêm Nữa *Samādhibhāvanāsutta* {#41}
 "Này các Tỳ kheo, có bốn cách phát triển *định* (immersion / sự tập trung tâm ý) thêm nữa này.
 Bốn cách nào? Có cách phát triển định thêm nữa đưa đến *hiện tại lạc trú* (blissful meditation in this life / sự an trú hạnh phúc trong hiện tại). Có cách phát triển định thêm nữa đưa đến chứng đắc *tri kiến* (knowledge and vision / thấy và biết). Có cách phát triển định thêm nữa đưa đến *niệm và tỉnh giác* (mindfulness and awareness / sự ghi nhớ và biết rõ). Có cách phát triển định thêm nữa đưa đến *đoạn tận các lậu hoặc* (ending of defilements / sự chấm dứt các phiền não tiềm ẩn).
 
@@ -22,8 +21,7 @@ Và thế nào là cách phát triển định thêm nữa đưa đến đoạn 
 > Họ đã vượt qua *tái sinh* (rebirth / sự sinh lại) và *già* (old age / sự già nua), Ta tuyên bố.'"
 
 <!--pg-->
-### AN 4.42 Các Cách Trả Lời Câu Hỏi *Pañhabyākaraṇasutta*{#42}
-
+### AN 4.42 Các Cách Trả Lời Câu Hỏi *Pañhabyākaraṇasutta* {#42}
 "Này các Tỳ kheo, có bốn cách trả lời câu hỏi này. Bốn cách nào? Có câu hỏi nên được trả lời *dứt khoát* (categorically / trả lời thẳng, một mực). Có câu hỏi nên được trả lời bằng cách *phân tích* (analytically / giải thích chi tiết). Có câu hỏi nên được trả lời bằng cách *vấn đáp ngược lại* (counter-question / hỏi lại). Có câu hỏi nên được *im lặng bỏ qua* (set aside / không trả lời, để qua một bên).
 
 Đây là bốn cách trả lời câu hỏi.
@@ -49,8 +47,7 @@ Và thế nào là cách phát triển định thêm nữa đưa đến đoạn 
 > Được gọi là người trí."
 
 <!--pg-->
-### AN 4.43 Coi Trọng Sân Hận *Paṭhamakodhagarusutta*{#43}
-
+### AN 4.43 Coi Trọng Sân Hận *Paṭhamakodhagarusutta* {#43}
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy trên đời. Bốn hạng nào? Người coi trọng *sân hận* (anger / sự tức giận, căm ghét), hay *phỉ báng* (denigration / sự chê bai, gièm pha), hay *lợi lộc* (material things / của cải vật chất), hay *danh vọng* (honor / sự tôn kính, địa vị) hơn là *Chánh pháp* (true teaching / giáo lý chân chính). Đây là bốn hạng người được tìm thấy trên đời.
 
 Có bốn hạng người này được tìm thấy trên đời. Bốn hạng nào? Người coi trọng Chánh pháp hơn là sân hận, hay phỉ báng, hay lợi lộc, hay danh vọng. Đây là bốn hạng người được tìm thấy trên đời.
@@ -66,8 +63,7 @@ Có bốn hạng người này được tìm thấy trên đời. Bốn hạng n
 > Mà Đức Phật Chánh Đẳng Giác đã dạy."
 
 <!--pg-->
-### AN 4.44 Coi Trọng Sân Hận (2) *Dutiyakodhagarusutta*{#44}
-
+### AN 4.44 Coi Trọng Sân Hận (2) *Dutiyakodhagarusutta* {#44}
 "Này các Tỳ kheo, có bốn điều này *chống lại* (oppose / đi ngược lại) Chánh pháp. Bốn điều nào? Coi trọng sân hận, phỉ báng, lợi lộc, và danh vọng hơn là Chánh pháp. Đây là bốn điều chống lại Chánh pháp.
 
 Có bốn điều này là Chánh pháp. Bốn điều nào? Coi trọng Chánh pháp hơn là sân hận, phỉ báng, lợi lộc, và danh vọng. Đây là bốn điều là Chánh pháp.
@@ -83,8 +79,7 @@ Có bốn điều này là Chánh pháp. Bốn điều nào? Coi trọng Chánh 
 > Như *cây thuốc được tưới đủ nước* (well-watered herbs / cây thảo dược được chăm sóc tốt)."
 
 <!--pg-->
-### AN 4.45 Với Rohitassa *Rohitassasutta*{#45}
-
+### AN 4.45 Với Rohitassa *Rohitassasutta* {#45}
 Một thời Đức Phật trú gần Sāvatthī, tại vườn ông Jeta, tu viện ông Anāthapiṇḍika.
 
 Bấy giờ, vào cuối đêm, thiên tử Rohitassa quang minh rực rỡ, chiếu sáng toàn bộ vườn ông Jeta, đi đến Đức Phật, đảnh lễ, đứng sang một bên, và bạch rằng:
@@ -113,15 +108,13 @@ Thật hy hữu, bạch Thế Tôn, thật kỳ diệu, lời này Đức Phật
 > Không *mong cầu* (hope / hy vọng, ước muốn) đời này hay đời sau."
 
 <!--pg-->
-### AN 4.46 Với Rohitassa (2) *Dutiyarohitassasutta*{#46}
-
+### AN 4.46 Với Rohitassa (2) *Dutiyarohitassasutta* {#46}
 Rồi, khi đêm đã qua, Đức Phật bảo các Tỳ kheo: "Đêm nay, thiên tử Rohitassa quang minh rực rỡ, chiếu sáng toàn bộ vườn ông Jeta, đã đến gặp Ta, đảnh lễ, đứng sang một bên, và bạch với Ta rằng: 'Bạch Thế Tôn, có thể nào biết, thấy, hay đạt đến tận cùng thế gian bằng cách đi đến một nơi không có sinh, già, chết, diệt mất, hay tái sinh không?' ..."
 
 *(Phần còn lại giống như bài kinh trước, AN 4.45.)*
 
 <!--pg-->
-### AN 4.47 Rất Xa Cách *Suvidūrasutta*{#47}
-
+### AN 4.47 Rất Xa Cách *Suvidūrasutta* {#47}
 "Này các Tỳ kheo, có bốn thứ này rất xa cách nhau. Bốn thứ nào? *Bầu trời* (firmament / vòm trời) và *mặt đất* (earth / trái đất). ... *Bờ bên này* (near shore / bờ gần) và *bờ bên kia* (far shore / bờ xa) của đại dương. ... Nơi *mặt trời mọc* (sun rises / nơi mặt trời mọc) và nơi *mặt trời lặn* (sun sets / nơi mặt trời lặn). ... Giáo pháp của *người hiền* (virtuous / người có đạo đức) và giáo pháp của *kẻ ác* (wicked / người xấu xa). ... Đây là bốn thứ rất xa cách nhau.
 
 > Bầu trời xa mặt đất;\
@@ -138,8 +131,7 @@ Rồi, khi đêm đã qua, Đức Phật bảo các Tỳ kheo: "Đêm nay, thiê
 > \>Thì xa cách kẻ ác."
 
 <!--pg-->
-### AN 4.48 Với Visākha, Con Trai Bà Pañcāli *Visākhasutta*{#48}
-
+### AN 4.48 Với Visākha, Con Trai Bà Pañcāli *Visākhasutta* {#48}
 Một thời Đức Phật trú gần Sāvatthī, tại vườn ông Jeta, tu viện ông Anāthapiṇḍika.
 
 Bấy giờ, Tôn giả Visākha, con trai bà Pañcāli, đang *giảng dạy* (educating / dạy dỗ), *khuyến khích* (encouraging / động viên), *làm phấn khởi* (firing up / khích lệ tinh thần), và *truyền cảm hứng* (inspiring / gợi lên lòng nhiệt thành) cho các Tỳ kheo trong *giảng đường* (assembly hall / nơi hội họp nghe pháp) bằng một *bài pháp thoại* (Dhamma talk / bài giảng về giáo lý). Lời của ngài *trau chuốt* (polished / gãy gọn, hay), *rõ ràng* (clear / dễ hiểu), *mạch lạc* (articulate / khúc chiết, lưu loát), *diễn đạt ý nghĩa* (expressing the meaning / làm rõ nghĩa lý), *đầy đủ* (comprehensive / bao quát, không thiếu sót), và *không phụ thuộc* (independent / không dựa vào người khác, tự mình trình bày).
@@ -161,8 +153,7 @@ Rồi Đức Phật nói với Visākha: "Lành thay, lành thay, Visākha! Th�
 > Vì giáo pháp là ngọn cờ của bậc tiên tri."
 
 <!--pg-->
-### AN 4.49 Điên Đảo *Vipallāsasutta*{#49}
-
+### AN 4.49 Điên Đảo *Vipallāsasutta* {#49}
 "Này các Tỳ kheo, có bốn sự *điên đảo* (perversions / sự thấy biết sai lệch, lộn ngược) này của *tưởng* (perception / tri giác), *tâm* (mind / tâm trí), và *kiến* (view / quan điểm, nhận thức). Bốn sự nào?
 
 1.  Cho rằng *vô thường* (impermanence / tính không thường còn) là *thường* (permanence / tính thường còn).
@@ -215,8 +206,7 @@ Có bốn sự *không điên đảo* (corrections / sự thấy biết đúng �
 > Họ đã *vượt thoát mọi khổ đau* (risen above all suffering / thoát khỏi tất cả sự khổ)."
 
 <!--pg-->
-### AN 4.50 Phiền Não Cấu Uế *Upakkilesasutta*{#50}
-
+### AN 4.50 Phiền Não Cấu Uế *Upakkilesasutta* {#50}
 "Này các Tỳ kheo, có bốn *phiền não cấu uế* (corruptions / những điều làm ô nhiễm tâm) này *che mờ* (obscure / làm lu mờ) *mặt trời và mặt trăng* (sun and moon / mặt trời và mặt trăng), khiến chúng không *chiếu sáng* (shine / tỏa sáng), *rực rỡ* (glow / phát quang) và *tỏa rạng* (radiate / lan tỏa ánh sáng). Bốn thứ nào? *Mây* (clouds / mây mù)... *Sương mù* (fog / sương)... *Khói bụi* (smoke / khói và bụi)... *Thiên thực* (eclipse / hiện tượng nhật thực, nguyệt thực) của *A-tu-la Rāhu* (Rāhu, lord of titans / vua A-tu-la tên Rāhu)... Đây là bốn phiền não cấu uế che mờ mặt trời và mặt trăng, khiến chúng không chiếu sáng, rực rỡ và tỏa rạng.
 
 Cũng vậy, có bốn điều này làm ô uế các *sa-môn và bà-la-môn* (ascetics and brahmins / những người tu khổ hạnh và tu sĩ Bà-la-môn giáo), khiến họ không chiếu sáng, rực rỡ và tỏa rạng. Bốn điều nào?
