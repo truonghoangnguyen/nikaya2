@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Indaka
 
-### SN 10.1 Kinh Indaka *Indakasutta*
+### SN 10.1 Kinh Indaka *Indakasutta*{#1}
 
 Như vầy tôi nghe. Một thời Đức Phật trú tại thành Vương Xá, trên núi Đỉnh Indra, nơi ở của dạ xoa Indaka.
 
@@ -27,7 +27,7 @@ Lúc ấy, dạ xoa Indaka đến gặp Đức Phật và nói lên những vầ
 > con người trong bụng mẹ."
 
 <!--pg-->
-### SN 10.2 Kinh Dạ Xoa Tên Sakka *Sakkanāmasutta*
+### SN 10.2 Kinh Dạ Xoa Tên Sakka *Sakkanāmasutta*{#2}
 
 Một thời Đức Phật trú tại thành Vương Xá, trên núi Linh Thứu.
 
@@ -49,7 +49,7 @@ Lúc ấy, một dạ xoa tên Sakka đến gặp Đức Phật và nói lên nh
 > không tạo ra sự dính mắc."
 
 <!--pg-->
-### SN 10.3 Kinh Sūciloma (Tóc Nhọn) *Sūcilomasutta*
+### SN 10.3 Kinh Sūciloma (Tóc Nhọn) *Sūcilomasutta*{#3}
 
 Một thời Đức Phật trú gần Gayā, trên phiến đá ở nơi ở của dạ xoa Sūciloma (Tóc Nhọn).
 
@@ -91,7 +91,7 @@ Lúc ấy, Sūciloma nói với Đức Phật: "Ngài sợ sao, Sa-môn?"
 > chưa từng được vượt qua, để không còn tái sinh."
 
 <!--pg-->
-### SN 10.4 Kinh Maṇibhadda *Maṇibhaddasutta*
+### SN 10.4 Kinh Maṇibhadda *Maṇibhaddasutta*{#4}
 
 Một thời Đức Phật trú tại xứ Ma-kiệt-đà, tại miếu cây Maṇimālika, nơi ở của dạ xoa Maṇibhadda.
 
@@ -113,7 +113,7 @@ Lúc ấy, dạ xoa Maṇibhadda đến gặp Đức Phật và đọc lên vầ
 > họ không có hận thù với bất kỳ ai."
 
 <!--pg-->
-### SN 10.5 Kinh Sānu *Sānusutta*
+### SN 10.5 Kinh Sānu *Sānusutta*{#5}
 
 Một thời Đức Phật trú gần thành Xá-vệ, tại Tịnh xá Kỳ Viên, tu viện của ông Cấp Cô Độc.
 
@@ -174,7 +174,7 @@ Lúc bấy giờ, có một nữ cư sĩ có con trai tên là Sānu bị một 
 > con có muốn chúng bị cháy lần nữa không?"
 
 <!--pg-->
-### SN 10.6 Kinh Piyaṅkara *Piyaṅkarasutta*
+### SN 10.6 Kinh Piyaṅkara *Piyaṅkarasutta*{#6}
 
 Một thời, Tôn giả Xá-lợi-phất trú gần thành Xá-vệ, tại Tịnh xá Kỳ Viên, tu viện của ông Cấp Cô Độc.
 
@@ -191,7 +191,7 @@ Lúc bấy giờ, Tôn giả A-nậu-lâu-đà thức dậy lúc rạng đông v
 > và hy vọng sẽ được giải thoát khỏi cõi ngạ quỷ."
 
 <!--pg-->
-### SN 10.7 Kinh Punabbasu *Punabbasusutta*
+### SN 10.7 Kinh Punabbasu *Punabbasusutta*{#7}
 
 Một thời Đức Phật trú gần thành Xá-vệ, tại Tịnh xá Kỳ Viên, tu viện của ông Cấp Cô Độc.
 
@@ -249,7 +249,7 @@ Lúc ấy, mẹ của dạ xoa Punabbasu dỗ những đứa con nhỏ của mì
 > Mẹ đã thấy các sự thật cao quý!"
 
 <!--pg-->
-### SN 10.8 Kinh Sudatta *Sudattasutta*
+### SN 10.8 Kinh Sudatta *Sudattasutta*{#8}
 
 Một thời Đức Phật trú gần thành Vương Xá, trong Rừng Lạnh.
 
@@ -310,7 +310,7 @@ Lúc ấy, Anāthapiṇḍika nghĩ: "Đức Phật gọi tên ta!" Mỉm cườ
 > đã tìm thấy sự bình an trong tâm."
 
 <!--pg-->
-### SN 10.9 Kinh Tỷ-kheo-ni Sukkā (thứ nhất) *Paṭhamasukkāsutta*
+### SN 10.9 Kinh Tỷ-kheo-ni Sukkā (thứ nhất) *Paṭhamasukkāsutta*{#9}
 
 Một thời Đức Phật trú gần thành Vương Xá, tại Trúc Lâm, nơi các con sóc được cho ăn.
 
@@ -327,7 +327,7 @@ Lúc bấy giờ, Tỷ-kheo-ni Sukkā đang giảng Pháp, được một hội 
 > như những người lữ hành tận hưởng một đám mây mát."
 
 <!--pg-->
-### SN 10.10 Kinh Tỷ-kheo-ni Sukkā (thứ hai) *Dutiyasukkāsutta*
+### SN 10.10 Kinh Tỷ-kheo-ni Sukkā (thứ hai) *Dutiyasukkāsutta*{#10}
 
 Một thời Đức Phật trú gần thành Vương Xá, tại Trúc Lâm, nơi các con sóc được cho ăn.
 
@@ -339,7 +339,7 @@ Lúc bấy giờ, một cư sĩ cúng dường thức ăn cho Tỷ-kheo-ni Sukk�
 > người đã giải thoát khỏi mọi ràng buộc."
 
 <!--pg-->
-### SN 10.11 Kinh Tỷ-kheo-ni Cīrā *Cīrāsutta*
+### SN 10.11 Kinh Tỷ-kheo-ni Cīrā *Cīrāsutta*{#11}
 
 Như vầy tôi nghe. Một thời Đức Phật trú gần thành Vương Xá, tại Trúc Lâm, nơi các con sóc được cho ăn.
 
@@ -351,7 +351,7 @@ Lúc bấy giờ, một cư sĩ cúng dường một chiếc y cho Tỷ-kheo-ni 
 > người đã giải thoát khỏi mọi *ách trói buộc* (yokes / những thứ ràng buộc)."
 
 <!--pg-->
-### SN 10.12 Kinh Āḷavaka *Āḷavakasutta*
+### SN 10.12 Kinh Āḷavaka *Āḷavakasutta*{#12}
 
 Như vầy tôi nghe. Một thời Đức Phật trú gần Āḷavī, tại nơi ở của dạ xoa Āḷavaka.
 

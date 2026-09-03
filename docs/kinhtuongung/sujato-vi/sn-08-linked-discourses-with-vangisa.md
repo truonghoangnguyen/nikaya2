@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương về Thi Sĩ Vaṅgīsa
 
-### SN 8.1 Xuất Gia *Nikkhantasutta*
+### SN 8.1 Xuất Gia *Nikkhantasutta*{#1}
 
 Như vầy tôi nghe. Một thời Tôn giả Vaṅgīsa trú ở gần Āḷavī, tại đền cây Aggāḷava, cùng với thầy tế độ là Tôn giả Nigrodhakappa.
 
@@ -41,7 +41,7 @@ Rồi, nhân dịp tự mình xua tan nỗi bất mãn và làm phát sinh sự 
 > sẽ không thể thấy được con đường ta đi."
 
 <!--pg-->
-### SN 8.2 Bất Mãn *Aratīsutta*
+### SN 8.2 Bất Mãn *Aratīsutta*{#2}
 
 Một thời Tôn giả Vaṅgīsa trú ở gần Āḷavī, tại đền cây Aggāḷava, cùng với thầy tế độ là Tôn giả Nigrodhakappa.
 
@@ -80,7 +80,7 @@ Rồi, nhân dịp tự mình xua tan nỗi bất mãn và làm phát sinh sự 
 > đã dập tắt, ngài chờ đợi thời khắc của mình."
 
 <!--pg-->
-### SN 8.3 Thiện Tâm *Pesalasutta*
+### SN 8.3 Thiện Tâm *Pesalasutta*{#3}
 
 Một thời Tôn giả Vaṅgīsa trú ở gần Āḷavī, tại đền cây Aggāḷava, cùng với thầy tế độ là Tôn giả Nigrodhakappa.
 
@@ -111,7 +111,7 @@ Rồi, nhân dịp tự làm dấy lên lòng hối hận trong mình, ngài đ�
 > hãy dùng trí tuệ để chấm dứt khổ đau, và được an tịnh."
 
 <!--pg-->
-### SN 8.4 Với Ānanda *Ānandasutta*
+### SN 8.4 Với Ānanda *Ānandasutta*{#4}
 
 Một thời Tôn giả Ānanda trú ở gần Sāvatthī, tại Tịnh xá Kỳ-viên, tu viện của ông Anāthapiṇḍika.
 
@@ -145,7 +145,7 @@ Và lúc ấy, Tôn giả Vaṅgīsa trở nên bất mãn, khi dục vọng xâ
 > thầy sẽ sống trong an lạc."
 
 <!--pg-->
-### SN 8.5 Lời Hay Ý Đẹp *Subhāsitasutta*
+### SN 8.5 Lời Hay Ý Đẹp *Subhāsitasutta*{#5}
 
 Tại Sāvatthī.
 
@@ -189,7 +189,7 @@ Rồi Tôn giả Vaṅgīsa tán thán Đức Phật trước sự hiện diện
 > đây thực sự là loại lời nói tốt nhất."
 
 <!--pg-->
-### SN 8.6 Với Sāriputta *Sāriputtasutta*
+### SN 8.6 Với Sāriputta *Sāriputtasutta*{#6}
 
 Một thời Tôn giả Sāriputta trú ở gần Sāvatthī, tại Tịnh xá Kỳ-viên, tu viện của ông Anāthapiṇḍika.
 
@@ -222,7 +222,7 @@ Rồi Tôn giả Vaṅgīsa tán thán Tôn giả Sāriputta trước sự hiệ
 > tâm họ hân hoan."
 
 <!--pg-->
-### SN 8.7 Lễ Tự Tứ *Pavāraṇāsutta*
+### SN 8.7 Lễ Tự Tứ *Pavāraṇāsutta*{#7}
 
 Một thời Đức Phật trú ở gần Sāvatthī, trong ngôi nhà sàn của bà Migāra ở Tu viện phía Đông, cùng với một Tăng đoàn lớn khoảng năm trăm vị Tỷ kheo, tất cả đều là những bậc *A-la-hán* (perfected ones / những người đã đạt được sự giải thoát hoàn toàn). Lúc bấy giờ, đó là *ngày Bố-tát* (sabbath / ngày sám hối và tụng giới của Tăng đoàn)—ngày rằm trăng tròn—và Đức Phật đang ngồi ngoài trời, được Tăng đoàn các Tỷ kheo vây quanh để làm *lễ Tự tứ* (invitation to admonish / một nghi lễ trong đó các Tỷ kheo mời người khác chỉ ra lỗi lầm của mình).
 
@@ -265,7 +265,7 @@ Rồi Tôn giả Vaṅgīsa tán thán Đức Phật trước sự hiện diện
 > người hủy diệt mũi tên ái dục."
 
 <!--pg-->
-### SN 8.8 Hơn Một Ngàn *Parosahassasutta*
+### SN 8.8 Hơn Một Ngàn *Parosahassasutta*{#8}
 
 Một thời Đức Phật trú ở gần Sāvatthī, tại Tịnh xá Kỳ-viên, tu viện của ông Anāthapiṇḍika, cùng với một Tăng đoàn lớn gồm 1.250 Tỷ kheo.
 
@@ -328,7 +328,7 @@ Rồi Tôn giả Vaṅgīsa tán thán Đức Phật trước sự hiện diện
 > một cách kính trọng trong giáo pháp của Đức Phật."
 
 <!--pg-->
-### SN 8.9 Với Koṇḍañña *Koṇḍaññasutta*
+### SN 8.9 Với Koṇḍañña *Koṇḍaññasutta*{#9}
 
 Một thời Đức Phật trú ở gần Rājagaha, tại Trúc Lâm, nơi các con sóc được cho ăn.
 
@@ -359,7 +359,7 @@ Rồi Tôn giả Vaṅgīsa tán thán Tôn giả Koṇḍañña trước sự h
 > cúi đầu dưới chân Bậc Đạo Sư."
 
 <!--pg-->
-### SN 8.10 Với Moggallāna *Moggallānasutta*
+### SN 8.10 Với Moggallāna *Moggallānasutta*{#10}
 
 Một thời Đức Phật trú trên sườn núi Isigili tại Hắc Thạch, cùng với một Tăng đoàn lớn gồm năm trăm Tỷ kheo, tất cả đều là những bậc A-la-hán. Khi ấy, bằng tâm của mình, Tôn giả Mahāmoggallāna kiểm tra xem tâm của ai đã được giải thoát và không còn chấp trước.
 
@@ -387,7 +387,7 @@ Rồi Tôn giả Vaṅgīsa tán thán Tôn giả Mahāmoggallāna trước sự
 > và với vô số thuộc tính."
 
 <!--pg-->
-### SN 8.11 Tại Gaggarā *Gaggarāsutta*
+### SN 8.11 Tại Gaggarā *Gaggarāsutta*{#11}
 
 Một thời Đức Phật trú ở gần Campā, bên bờ hồ sen Gaggarā, cùng với một Tăng đoàn lớn gồm năm trăm Tỷ kheo, bảy trăm nam và bảy trăm nữ cư sĩ, và nhiều ngàn vị chư thiên. Nhưng Đức Phật vượt trội hơn tất cả họ về vẻ đẹp và sự huy hoàng.
 
@@ -405,7 +405,7 @@ Rồi Tôn giả Vaṅgīsa tán thán Đức Phật trước sự hiện diện
 > sự huy hoàng của ngài vượt trội hơn toàn thế giới."
 
 <!--pg-->
-### SN 8.12 Với Vaṅgīsa *Vaṅgīsasutta*
+### SN 8.12 Với Vaṅgīsa *Vaṅgīsasutta*{#12}
 
 Một thời Tôn giả Vaṅgīsa trú ở gần Sāvatthī, tại Tịnh xá Kỳ-viên, tu viện của ông Anāthapiṇḍika.
 

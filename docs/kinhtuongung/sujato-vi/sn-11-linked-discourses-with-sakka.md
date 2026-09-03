@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Một
 
-### SN 11.1 Với Suvīra *Suvīra*
+### SN 11.1 Với Suvīra *Suvīra*{#1}
 
 Như vầy tôi nghe. Một thời Thế Tôn trú ở gần
 Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika.
@@ -65,7 +65,7 @@ Vậy nên, này các Tỷ kheo, ngay cả Sakka, vua của chư thiên—trong 
 của các nghiệp thiện và ác của mình, và cai trị như một vị chúa tể của các vị trời ở cõi Ba Mươi Ba—cũng tán thán sự khởi xướng và năng lực. Huống nữa là các ông, đã xuất gia trong một giáo pháp và giới luật được khéo giảng dạy như vậy, thật là tốt đẹp biết bao nếu các ông cố gắng, nỗ lực, và tinh tấn để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ!"
 
 <!--pg-->
-### SN 11.2 Với Susīma *Susīma*
+### SN 11.2 Với Susīma *Susīma*{#2}
 
 Tại Sāvatthī.
 
@@ -117,7 +117,7 @@ Vậy nên, này các Tỷ kheo, ngay cả Sakka, vua của chư thiên—trong 
 của các nghiệp thiện và ác của mình, và cai trị như một vị chúa tể của các vị trời ở cõi Ba Mươi Ba—cũng tán thán sự khởi xướng và năng lực. Huống nữa là các ông, đã xuất gia trong một giáo pháp và giới luật được khéo giảng dạy như vậy, thật là tốt đẹp biết bao nếu các ông cố gắng, nỗ lực, và tinh tấn để đạt được những gì chưa đạt, thành tựu những gì chưa thành tựu, và chứng ngộ những gì chưa chứng ngộ!"
 
 <!--pg-->
-### SN 11.3 Ngọn Cờ *Dhajagga*
+### SN 11.3 Ngọn Cờ *Dhajagga*{#3}
 
 Tại Sāvatthī.
 
@@ -185,7 +185,7 @@ Tại sao vậy? Bởi vì *Như Lai* (Realized One / bậc đã đến và đi 
 > và sự rùng mình sẽ không còn nữa."
 
 <!--pg-->
-### SN 11.4 Với Vepacitti *Vepacitti*
+### SN 11.4 Với Vepacitti *Vepacitti*{#4}
 
 Tại Sāvatthī.
 
@@ -268,7 +268,7 @@ của các nghiệp thiện và ác của mình, và cai trị như một vị c
 Huống nữa là các ông, đã xuất gia trong một giáo pháp và giới luật được khéo giảng dạy như vậy, thật là tốt đẹp biết bao nếu các ông nhẫn nại và hiền hòa!"
 
 <!--pg-->
-### SN 11.5 Chiến Thắng Bằng Lời Hay Ý Đẹp *Subhāsitajaya*
+### SN 11.5 Chiến Thắng Bằng Lời Hay Ý Đẹp *Subhāsitajaya*{#5}
 
 Tại Sāvatthī.
 
@@ -357,7 +357,7 @@ Sakka, vua của chư thiên, đã chiến thắng bằng lời hay ý đẹp!'
 Và đó là cách Sakka đã chiến thắng bằng lời hay ý đẹp."
 
 <!--pg-->
-### SN 11.6 Tổ Chim *Kulāvaka*
+### SN 11.6 Tổ Chim *Kulāvaka*{#6}
 
 Tại Sāvatthī.
 
@@ -383,7 +383,7 @@ lập tức rút lui về thành trì của các a-tu-la.
 Và đó là cách Sakka đã chiến thắng bằng chánh pháp."
 
 <!--pg-->
-### SN 11.7 Không Phản Bội *Nadubbhiya*
+### SN 11.7 Không Phản Bội *Nadubbhiya*{#7}
 
 Tại Sāvatthī.
 
@@ -409,7 +409,7 @@ Vepacitti, ngươi đã bị bắt!'
 > bất cứ ai phản bội ngài, hỡi phu quân của Sujā.'"
 
 <!--pg-->
-### SN 11.8 Verocana, Vua Của Các A-tu-la *Verocanaasurinda*
+### SN 11.8 Verocana, Vua Của Các A-tu-la *Verocanaasurinda*{#8}
 
 Gần Sāvatthī trong Rừng Jeta.
 
@@ -444,7 +444,7 @@ Khi ấy, Sakka, vua của chư thiên, và Verocana, vua của các a-tu-la, đ
 > không có gì tốt hơn sự nhẫn nại."
 
 <!--pg-->
-### SN 11.9 Các Ẩn Sĩ Trong Rừng Hoang *Araññāyatanaisi*
+### SN 11.9 Các Ẩn Sĩ Trong Rừng Hoang *Araññāyatanaisi*{#9}
 
 Tại Sāvatthī.
 
@@ -472,7 +472,7 @@ Khi ấy, các ẩn sĩ đó đã nói với Sakka bằng thơ kệ:
 > Chư thiên không thấy nó đáng ghê tởm.'"
 
 <!--pg-->
-### SN 11.10 Các Ẩn Sĩ Bên Bờ Biển *Samuddaka*
+### SN 11.10 Các Ẩn Sĩ Bên Bờ Biển *Samuddaka*{#10}
 
 Tại Sāvatthī.
 
@@ -521,7 +521,7 @@ Nhưng sau khi bị các ẩn sĩ nguyền rủa, Sambara đã thức giấc tro
 <!--pg-->
 ## Chương Hai
 
-### SN 11.11 Các Lời Nguyện *Vatapada*
+### SN 11.11 Các Lời Nguyện *Vatapada*{#11}
 
 Tại Sāvatthī.
 
@@ -550,7 +550,7 @@ Và chính nhờ việc phát những lời nguyện này mà ông đã đạt �
 > nói rằng họ thực sự là một chân nhân."
 
 <!--pg-->
-### SN 11.12 Các Tên Của Sakka *Sakkanāma*
+### SN 11.12 Các Tên Của Sakka *Sakkanāma*{#12}
 
 Gần Sāvatthī trong Rừng Jeta. Tại đó, Đức Phật nói với các
 Tỷ kheo:
@@ -600,7 +600,7 @@ Và chính nhờ việc phát những lời nguyện này mà ông đã đạt �
 > nói rằng họ thực sự là một chân nhân."
 
 <!--pg-->
-### SN 11.13 Với Mahāli *Mahāli*
+### SN 11.13 Với Mahāli *Mahāli*{#13}
 
 Như vầy tôi nghe. Một thời Thế Tôn trú ở gần
 Vesālī, tại Rừng Lớn, trong giảng đường có mái nhọn.
@@ -663,7 +663,7 @@ Và chính nhờ việc phát những lời nguyện này mà ông đã đạt �
 > nói rằng họ thực sự là một chân nhân."
 
 <!--pg-->
-### SN 11.14 Người Nghèo *Dalidda*
+### SN 11.14 Người Nghèo *Dalidda*{#14}
 
 Một thời, Đức Phật đang trú ở gần Rājagaha, trong
 Trúc Lâm, nơi các con sóc được cho ăn. Tại đó, Đức Phật gọi
@@ -713,7 +713,7 @@ bài kệ này:
 > ghi nhớ lời dạy của các vị Phật.'"
 
 <!--pg-->
-### SN 11.15 Nơi Đáng Vui Thích *Rāmaṇeyyaka*
+### SN 11.15 Nơi Đáng Vui Thích *Rāmaṇeyyaka*{#15}
 
 Gần Sāvatthī trong Rừng Jeta.
 
@@ -731,7 +731,7 @@ bên, và nói với Ngài: "Bạch Thế Tôn, thế nào là một nơi đáng
 > đều là một nơi đáng vui thích."
 
 <!--pg-->
-### SN 11.16 Cúng Dường Tế Lễ *Yajamāna*
+### SN 11.16 Cúng Dường Tế Lễ *Yajamāna*{#16}
 
 Một thời, Đức Phật đang trú ở gần Rājagaha, trên
 núi Linh Thứu.
@@ -755,7 +755,7 @@ bên, và nói với Ngài bằng thơ kệ:
 > những gì được cúng dường cho Tăng đoàn thì có quả báu lớn."
 
 <!--pg-->
-### SN 11.17 Đảnh Lễ Đức Phật *Buddhavandanā*
+### SN 11.17 Đảnh Lễ Đức Phật *Buddhavandanā*{#17}
 
 Gần Sāvatthī trong Rừng Jeta.
 
@@ -777,7 +777,7 @@ Sau đó, Sakka đã đọc bài kệ này trước sự hiện diện của Đ�
 > Sẽ có những người hiểu được!'"
 
 <!--pg-->
-### SN 11.18 Sakka Thờ Phụng Ai *Gahaṭṭhavandanā*
+### SN 11.18 Sakka Thờ Phụng Ai *Gahaṭṭhavandanā*{#18}
 
 Tại Sāvatthī.
 
@@ -828,7 +828,7 @@ Vì vậy, Mātali, người đánh xe, đã nói với Sakka bằng thơ kệ:
 > đã leo lên cỗ xe của mình."
 
 <!--pg-->
-### SN 11.19 Sakka Thờ Phụng Ai *Satthāravandanā*
+### SN 11.19 Sakka Thờ Phụng Ai *Satthāravandanā*{#19}
 
 Gần Sāvatthī trong Rừng Jeta.
 
@@ -878,7 +878,7 @@ Vì vậy, Mātali, người đánh xe, đã nói với Sakka bằng thơ kệ:
 > đã leo lên cỗ xe của mình."
 
 <!--pg-->
-### SN 11.20 Sakka Thờ Phụng Ai *Saṁghavandanā*
+### SN 11.20 Sakka Thờ Phụng Ai *Saṁghavandanā*{#20}
 
 Gần Sāvatthī trong Rừng Jeta.
 
@@ -939,7 +939,7 @@ Vì vậy, Mātali, người đánh xe, đã nói với Sakka bằng thơ kệ:
 <!--pg-->
 ## Chương Ba
 
-### SN 11.21 Thiêu Đốt *Chetva*
+### SN 11.21 Thiêu Đốt *Chetva*{#21}
 
 Gần Sāvatthī trong Rừng Jeta.
 
@@ -959,7 +959,7 @@ bên, và nói với Ngài bằng thơ kệ:
 > vì khi nó được thiêu đốt thì không còn sầu muộn."
 
 <!--pg-->
-### SN 11.22 Xấu Xí *Dubbaṇṇiya*
+### SN 11.22 Xấu Xí *Dubbaṇṇiya*{#22}
 
 Gần Sāvatthī trong Rừng Jeta.
 
@@ -994,7 +994,7 @@ bài kệ này:
 > vì lợi ích của chính mình.'"
 
 <!--pg-->
-### SN 11.23 Ma Thuật Sambari *Sambarimāyā*
+### SN 11.23 Ma Thuật Sambari *Sambarimāyā*{#23}
 
 Tại Sāvatthī.
 
@@ -1024,7 +1024,7 @@ Vì vậy, Vepacitti đã nói với Sakka bằng thơ kệ:
 > như Sambara, trong một trăm năm.'"
 
 <!--pg-->
-### SN 11.24 Sự Phạm Lỗi *Accaya*
+### SN 11.24 Sự Phạm Lỗi *Accaya*{#24}
 
 Tại Sāvatthī.
 
@@ -1052,7 +1052,7 @@ cõi Ba Mươi Ba, đã đọc bài kệ này:
 > như một ngọn núi.'"
 
 <!--pg-->
-### SN 11.25 Đừng Tức Giận *Akkodha*
+### SN 11.25 Đừng Tức Giận *Akkodha*{#25}
 
 Như vầy tôi nghe. Một thời Thế Tôn trú ở gần
 Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika.

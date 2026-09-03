@@ -2,7 +2,7 @@
 
 ## Chương Một
 
-### SN 4.1 Khổ Hạnh *Tapokammasutta*
+### SN 4.1 Khổ Hạnh *Tapokammasutta*{#1}
 
 Như vầy tôi nghe. Một thời, khi vừa mới giác ngộ,
 Đức Phật trú tại Uruvelā, dưới gốc cây bàng của người chăn dê, bên bờ sông Nerañjarā.
@@ -32,7 +32,7 @@ liền đáp lại bằng những vần kệ:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.2 Dưới Hình Dạng Vua Voi *Hatthirājavaṇṇasutta*
+### SN 4.2 Dưới Hình Dạng Vua Voi *Hatthirājavaṇṇasutta*{#2}
 
 Như vầy tôi nghe. Một thời, khi vừa mới giác ngộ,
 Đức Phật trú tại Uruvelā, dưới gốc cây bàng của người chăn dê, bên bờ sông Nerañjarā.
@@ -54,7 +54,7 @@ liền nói với hắn bằng những vần kệ:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.3 Đẹp Đẽ *Subhasutta*
+### SN 4.3 Đẹp Đẽ *Subhasutta*{#3}
 
 Như vầy tôi nghe. Một thời, khi vừa mới giác ngộ,
 Đức Phật trú tại Uruvelā, dưới gốc cây bàng của người chăn dê, bên bờ sông Nerañjarā.
@@ -80,7 +80,7 @@ liền đáp lại bằng những vần kệ:
 Bấy giờ, Māra... liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.4 Cạm Bẫy Của Māra (Thứ Nhất) *Paṭhamamārapāsasutta*
+### SN 4.4 Cạm Bẫy Của Māra (Thứ Nhất) *Paṭhamamārapāsasutta*{#4}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại gần
 Varanasi, trong vườn Lộc Uyển ở Isipatana. Tại đây, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
@@ -105,7 +105,7 @@ Ngài bằng những vần kệ:
 Bấy giờ, Māra... liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.5 Cạm Bẫy Của Māra (Thứ Hai) *Dutiyamārapāsasutta*
+### SN 4.5 Cạm Bẫy Của Māra (Thứ Hai) *Dutiyamārapāsasutta*{#5}
 
 Một thời, Đức Phật trú tại gần Varanasi, trong vườn Lộc Uyển ở
 Isipatana. Tại đây, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
@@ -140,7 +140,7 @@ Ngài bằng những vần kệ:
 Bấy giờ, Māra... liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.6 Một Con Rắn *Sappasutta*
+### SN 4.6 Một Con Rắn *Sappasutta*{#6}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại gần
 Rājagaha, trong Trúc Lâm, nơi các con sóc được cho ăn.
@@ -173,7 +173,7 @@ liền đáp lại bằng những vần kệ:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.7 Ngủ *Supatisutta*
+### SN 4.7 Ngủ *Supatisutta*{#7}
 
 Một thời, Đức Phật trú tại gần Rājagaha, trong
 Trúc Lâm, nơi các con sóc được cho ăn.
@@ -201,7 +201,7 @@ Ngài bằng những vần kệ:
 Bấy giờ, Māra... liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.8 Vui Thích *Nandatisutta*
+### SN 4.8 Vui Thích *Nandatisutta*{#8}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại gần
 Sāvatthī trong Rừng Jeta, tu viện của Anāthapiṇḍika.
@@ -222,7 +222,7 @@ bài kệ này trước sự hiện diện của Đức Phật:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.9 Tuổi Thọ (Thứ Nhất) *Paṭhamaāyusutta*
+### SN 4.9 Tuổi Thọ (Thứ Nhất) *Paṭhamaāyusutta*{#9}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại gần
 Rājagaha, trong Trúc Lâm, nơi các con sóc được cho ăn. Tại đây, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
@@ -247,7 +247,7 @@ Ngài bằng những vần kệ:
 Bấy giờ, Māra... liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.10 Tuổi Thọ (Thứ Hai) *Dutiyaāyusutta*
+### SN 4.10 Tuổi Thọ (Thứ Hai) *Dutiyaāyusutta*{#10}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại gần
 Rājagaha, trong Trúc Lâm, nơi các con sóc được cho ăn. Tại đây, Đức Phật... nói:
@@ -272,7 +272,7 @@ Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện 
 <!--pg-->
 ## Chương Hai
 
-### SN 4.11 Những Tảng Đá *Pāsāṇasutta*
+### SN 4.11 Những Tảng Đá *Pāsāṇasutta*{#11}
 
 Một thời, Đức Phật trú tại gần Rājagaha, trên
 núi Linh Thứu. Lúc bấy giờ, Đức Phật đang thiền định ngoài trời trong đêm tối, giữa cơn mưa phùn lất phất.
@@ -291,7 +291,7 @@ liền nói với hắn bằng những vần kệ:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.12 Sư Tử *Kinnusīhasutta*
+### SN 4.12 Sư Tử *Kinnusīhasutta*{#12}
 
 Một thời, Đức Phật trú tại gần Sāvatthī trong Rừng
 Jeta, tu viện của Anāthapiṇḍika. Lúc bấy giờ,
@@ -316,7 +316,7 @@ Ngài bằng những vần kệ:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.13 Một Mảnh Vỡ *Sakalikasutta*
+### SN 4.13 Một Mảnh Vỡ *Sakalikasutta*{#13}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại gần
 Rājagaha trong vườn Lộc Uyển Maddakucchi.
@@ -351,7 +351,7 @@ Ngài bằng những vần kệ:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.14 Thích Hợp *Patirūpasutta*
+### SN 4.14 Thích Hợp *Patirūpasutta*{#14}
 
 Một thời, Đức Phật trú tại xứ Kosala gần làng
 brahmin Ekasālā.
@@ -377,7 +377,7 @@ Ngài bằng những vần kệ:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.15 Cạm Bẫy Tinh Thần *Mānasasutta*
+### SN 4.15 Cạm Bẫy Tinh Thần *Mānasasutta*{#15}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại gần
 Sāvatthī trong Rừng Jeta, tu viện của Anāthapiṇḍika.
@@ -398,7 +398,7 @@ Ngài bằng những vần kệ:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.16 Những Bình Bát *Pattasutta*
+### SN 4.16 Những Bình Bát *Pattasutta*{#16}
 
 Tại Sāvatthī.
 
@@ -436,7 +436,7 @@ liền nói với hắn bằng những vần kệ:
 Bấy giờ, Māra... liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.17 Sáu Xứ Tiếp Xúc *Chaphassāyatanasutta*
+### SN 4.17 Sáu Xứ Tiếp Xúc *Chaphassāyatanasutta*{#17}
 
 Một thời, Đức Phật trú tại gần Vesālī, tại
 Đại Lâm, trong giảng đường có mái nhọn.
@@ -472,7 +472,7 @@ liền nói với hắn bằng những vần kệ:
 Bấy giờ, Māra... liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.18 Thức Ăn Khất Thực *Piṇḍasutta*
+### SN 4.18 Thức Ăn Khất Thực *Piṇḍasutta*{#18}
 
 Một thời, Đức Phật trú tại xứ Magadha gần
 làng brahmin Pañcasālā.
@@ -507,7 +507,7 @@ Bấy giờ, Ác ma Māra đến gặp Đức Phật và nói với Ngài:
 Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện Thệ biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.19 Một Người Nông Dân *Kassakasutta*
+### SN 4.19 Một Người Nông Dân *Kassakasutta*{#19}
 
 Tại Sāvatthī.
 
@@ -542,7 +542,7 @@ field of eye contact consciousness/ ngươi là *trường ý thức* qua mắt 
 Bấy giờ, Māra... liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.20 Cai Trị *Rajjasutta*
+### SN 4.20 Cai Trị *Rajjasutta*{#20}
 
 Một thời, Đức Phật trú tại xứ Kosala, trong
 một túp lều hoang dã trên sườn núi Himalaya.
@@ -573,7 +573,7 @@ Bấy giờ, Ác ma Māra nghĩ rằng: "Đức Phật biết ta! Bậc Thiện 
 <!--pg-->
 ## Chương Ba
 
-### SN 4.21 Một Vài Vị *Sambahulasutta*
+### SN 4.21 Một Vài Vị *Sambahulasutta*{#21}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại
 xứ của những người Sakya gần Silāvatī.
@@ -604,7 +604,7 @@ bài kệ này:
 > một người sẽ rèn luyện để loại bỏ nó."
 
 <!--pg-->
-### SN 4.22 Với Samiddhi *Samiddhisutta*
+### SN 4.22 Với Samiddhi *Samiddhisutta*{#22}
 
 Một thời, Đức Phật trú tại xứ của những người Sakya gần
 Silāvatī.
@@ -639,7 +639,7 @@ Bấy giờ, Ác ma Māra nghĩ rằng: "Tỷ kheo Samiddhi
 biết ta!", buồn rầu, thất vọng, liền biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.23 Với Godhika *Godhikasutta*
+### SN 4.23 Với Godhika *Godhikasutta*{#23}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại gần
 Rājagaha, trong Trúc Lâm, nơi các con sóc được cho ăn.
@@ -728,7 +728,7 @@ Bấy giờ, Māra, mang theo cây đàn hạc cong làm từ gỗ táo rừng n
 > biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 4.24 Bảy Năm Theo Dõi *Sattavassānubandhasutta*
+### SN 4.24 Bảy Năm Theo Dõi *Sattavassānubandhasutta*{#24}
 
 Như vầy tôi nghe. Một thời, Đức Phật trú tại
 Uruvelā dưới gốc cây bàng của người chăn dê bên bờ sông
@@ -792,7 +792,7 @@ trước sự hiện diện của Đức Phật:
 > ta rời khỏi Gotama trong thất vọng."
 
 <!--pg-->
-### SN 4.25 Các Con Gái Của Māra *Māradhītusutta*
+### SN 4.25 Các Con Gái Của Māra *Māradhītusutta*{#25}
 
 Và rồi Ác ma Māra, sau khi đọc những vần kệ
 thất vọng này trước sự hiện diện của Đức Phật, đã rời khỏi nơi đó. Hắn ngồi xếp bằng trên mặt đất không xa Đức Phật, im lặng, kinh ngạc,

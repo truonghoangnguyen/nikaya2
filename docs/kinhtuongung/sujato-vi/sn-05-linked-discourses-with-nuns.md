@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm Về Chư Tỷ Kheo Ni
 
-### SN 5.1 Kinh Āḷavikā *Āḷavikāsutta*
+### SN 5.1 Kinh Āḷavikā *Āḷavikāsutta*{#1}
 
 Như vầy tôi nghe. Một thời Đức Phật trú tại Sāvatthī, trong vườn của ông Jeta, tu viện của ông Anāthapiṇḍika.
 
@@ -35,7 +35,7 @@ Biết rằng đó là Ác ma Māra, Tỷ kheo ni Āḷavikā đáp lại bằng
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Āḷavikā đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.2 Kinh Somā *Somāsutta*
+### SN 5.2 Kinh Somā *Somāsutta*{#2}
 
 Tại Sāvatthī.
 
@@ -67,7 +67,7 @@ Biết rằng đó là Ác ma Māra, Tỷ kheo ni Somā đáp lại bằng nhữ
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Somā đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.3 Kinh Kisāgotamī *Kisāgotamīsutta*
+### SN 5.3 Kinh Kisāgotamī *Kisāgotamīsutta*{#3}
 
 Tại Sāvatthī.
 
@@ -99,7 +99,7 @@ Biết rằng đó là Ác ma Māra, Tỷ kheo ni Kisāgotamī đáp lại bằn
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Kisāgotamī đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.4 Kinh Vijayā *Vijayāsutta*
+### SN 5.4 Kinh Vijayā *Vijayāsutta*{#4}
 
 Tại Sāvatthī.
 
@@ -136,7 +136,7 @@ Biết rằng đó là Ác ma Māra, Tỷ kheo ni Vijayā đáp lại bằng nh�
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Vijayā đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.5 Kinh Uppalavaṇṇā *Uppalavaṇṇāsutta*
+### SN 5.5 Kinh Uppalavaṇṇā *Uppalavaṇṇāsutta*{#5}
 
 Tại Sāvatthī.
 
@@ -173,7 +173,7 @@ Biết rằng đó là Ác ma Māra, Tỷ kheo ni Uppalavaṇṇā đáp lại b
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Uppalavaṇṇā đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.6 Kinh Cālā *Cālāsutta*
+### SN 5.6 Kinh Cālā *Cālāsutta*{#6}
 
 Tại Sāvatthī.
 
@@ -206,7 +206,7 @@ Lúc đó, Ác ma Māra đến gần Cālā và nói với cô: "Tỷ kheo ni, c
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Cālā đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.7 Kinh Upacālā *Upacālāsutta*
+### SN 5.7 Kinh Upacālā *Upacālāsutta*{#7}
 
 Tại Sāvatthī.
 
@@ -245,7 +245,7 @@ Lúc đó, Ác ma Māra đến gần Upacālā và nói với cô: "Tỷ kheo ni
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Upacālā đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.8 Kinh Sīsupacālā *Sīsupacālāsutta*
+### SN 5.8 Kinh Sīsupacālā *Sīsupacālāsutta*{#8}
 
 Tại Sāvatthī.
 
@@ -280,7 +280,7 @@ Lúc đó, Ác ma Māra đến gần Sīsupacālā và nói với cô: "Tỷ khe
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Sīsupacālā đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.9 Kinh Selā *Selāsutta*
+### SN 5.9 Kinh Selā *Selāsutta*{#9}
 
 Tại Sāvatthī.
 
@@ -317,7 +317,7 @@ Biết rằng đó là Ác ma Māra, Tỷ kheo ni Selā đáp lại bằng nhữ
 Lúc đó, Ác ma Māra nghĩ rằng: "Tỷ kheo ni Selā đã biết ta!" liền buồn bã, sầu não, và biến mất ngay tại chỗ.
 
 <!--pg-->
-### SN 5.10 Kinh Vajirā *Vajirāsutta*
+### SN 5.10 Kinh Vajirā *Vajirāsutta*{#10}
 
 Tại Sāvatthī.
 

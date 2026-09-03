@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm về Mắt
 
-### SN 25.1 Mắt *Cakkhusutta*
+### SN 25.1 Mắt *Cakkhusutta*{#1}
 
 Tại Sāvatthī.
 
@@ -16,7 +16,7 @@ Người nào chấp nhận những lời dạy này sau khi suy xét chúng v�
 Người nào hiểu và thấy những nguyên lý này được gọi là bậc *Dự lưu* (stream-enterer / người đã nhập dòng), không còn bị tái sinh vào cõi thấp, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
-### SN 25.2 Sắc *Rūpasutta*
+### SN 25.2 Sắc *Rūpasutta*{#2}
 
 Tại Sāvatthī.
 
@@ -29,7 +29,7 @@ Người nào chấp nhận những lời dạy này sau khi suy xét chúng v�
 Người nào hiểu và thấy những nguyên lý này được gọi là bậc Dự lưu, không còn bị tái sinh vào cõi thấp, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
-### SN 25.3 Thức *Viññāṇasutta*
+### SN 25.3 Thức *Viññāṇasutta*{#3}
 
 Tại Sāvatthī.
 
@@ -38,7 +38,7 @@ Tại Sāvatthī.
 Người nào có niềm tin và tín nhiệm vào những lời dạy này được gọi là người tùy tín hành. ..."
 
 <!--pg-->
-### SN 25.4 Xúc *Samphassasutta*
+### SN 25.4 Xúc *Samphassasutta*{#4}
 
 Tại Sāvatthī.
 
@@ -47,7 +47,7 @@ Tại Sāvatthī.
 Người nào có niềm tin và tín nhiệm vào những lời dạy này được gọi là người tùy tín hành. ..."
 
 <!--pg-->
-### SN 25.5 Cảm giác *Samphassajasutta*
+### SN 25.5 Cảm giác *Samphassajasutta*{#5}
 
 Tại Sāvatthī.
 
@@ -56,7 +56,7 @@ Tại Sāvatthī.
 Người nào có niềm tin và tín nhiệm vào những lời dạy này được gọi là người tùy tín hành. ..."
 
 <!--pg-->
-### SN 25.6 Nhận thức *Rūpasaññāsutta*
+### SN 25.6 Nhận thức *Rūpasaññāsutta*{#6}
 
 Tại Sāvatthī.
 
@@ -65,7 +65,7 @@ Tại Sāvatthī.
 Người nào có niềm tin và tín nhiệm vào những lời dạy này được gọi là người tùy tín hành. ..."
 
 <!--pg-->
-### SN 25.7 Tư *Rūpasañcetanāsutta*
+### SN 25.7 Tư *Rūpasañcetanāsutta*{#7}
 
 Tại Sāvatthī.
 
@@ -74,7 +74,7 @@ Tại Sāvatthī.
 Người nào có niềm tin và tín nhiệm vào những lời dạy này được gọi là người tùy tín hành. ..."
 
 <!--pg-->
-### SN 25.8 Ái đối với Sắc *Rūpataṇhāsutta*
+### SN 25.8 Ái đối với Sắc *Rūpataṇhāsutta*{#8}
 
 Tại Sāvatthī.
 
@@ -83,7 +83,7 @@ Tại Sāvatthī.
 Người nào có niềm tin và tín nhiệm vào những lời dạy này được gọi là người tùy tín hành. ..."
 
 <!--pg-->
-### SN 25.9 Các Yếu Tố *Pathavīdhātusutta*
+### SN 25.9 Các Yếu Tố *Pathavīdhātusutta*{#9}
 
 Tại Sāvatthī.
 
@@ -92,7 +92,7 @@ Tại Sāvatthī.
 Người nào có niềm tin và tín nhiệm vào những lời dạy này được gọi là người tùy tín hành. ..."
 
 <!--pg-->
-### SN 25.10 Các Uẩn *Khandhasutta*
+### SN 25.10 Các Uẩn *Khandhasutta*{#10}
 
 Tại Sāvatthī.
 

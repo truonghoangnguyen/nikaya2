@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương về Kassapa
 
-### SN 16.1 Hài Lòng *Santuṭṭha*
+### SN 16.1 Hài Lòng *Santuṭṭha*{#1}
 
 Tại Sāvatthī.
 
@@ -22,7 +22,7 @@ Vậy các ngươi nên tu tập như thế này: 'Chúng ta sẽ hài lòng v�
 'Chúng ta sẽ hài lòng với bất kỳ loại vật thực khất thực nào...' 'Chúng ta sẽ hài lòng với bất kỳ loại chỗ ở nào...' 'Chúng ta sẽ hài lòng với bất kỳ loại thuốc men và vật dụng cho người bệnh nào...' Đó là cách các ngươi nên tu tập. Ta sẽ khuyên nhủ các ngươi bằng tấm gương của Kassapa hoặc người nào giống như ông. Các ngươi nên thực hành theo đó."
 
 <!--pg-->
-### SN 16.2 Không Cẩn Trọng *Anottappī*
+### SN 16.2 Không Cẩn Trọng *Anottappī*{#2}
 
 Như vầy tôi nghe. Một thời, Tôn giả Mahākassapa và Tôn giả Sāriputta đang ở gần Varanasi, tại vườn Lộc Uyển ở Isipatana.
 
@@ -41,7 +41,7 @@ Và làm thế nào ngài có nhiệt tâm? Hãy xem một Tỷ kheo nuôi dư�
 Và làm thế nào ngài khéo tinh tường? Hãy xem một Tỷ kheo nuôi dưỡng sự khéo tinh tường bằng cách suy nghĩ: 'Nếu các bất thiện pháp chưa sinh khởi trong ta, chúng sẽ dẫn đến tai hại.' 'Nếu ta không từ bỏ các bất thiện pháp đã sinh, chúng sẽ dẫn đến tai hại.' 'Nếu ta không làm sinh khởi các thiện pháp chưa sinh, điều đó sẽ dẫn đến tai hại.' 'Nếu các thiện pháp đã sinh trong ta bị chấm dứt, điều đó sẽ dẫn đến tai hại.' Đó là cách ngài khéo tinh tường. Đó là cách mà nếu có nhiệt tâm và khéo tinh tường thì có thể đạt được giác ngộ, Niết-bàn, và nơi nương tựa tối thượng khỏi các khổ ách."
 
 <!--pg-->
-### SN 16.3 Như Mặt Trăng *Candūpama*
+### SN 16.3 Như Mặt Trăng *Candūpama*{#3}
 
 Tại Sāvatthī.
 
@@ -76,7 +76,7 @@ Kassapa giảng Pháp cho người khác với ý nghĩ: 'Giáo pháp đã đư�
 Như vậy, ông dạy người khác vì sự tuyệt vời tự nhiên của giáo pháp, vì lòng cảm thông, lòng nhân ái và sự cảm thông. Ta sẽ khuyên nhủ các ngươi bằng tấm gương của Kassapa hoặc người nào giống như ông. Các ngươi nên thực hành theo đó."
 
 <!--pg-->
-### SN 16.4 Thăm Viếng Các Gia Đình *Kulūpaka*
+### SN 16.4 Thăm Viếng Các Gia Đình *Kulūpaka*{#4}
 
 Tại Sāvatthī.
 
@@ -95,7 +95,7 @@ Kassapa thăm viếng các gia đình với ý nghĩ: 'Khi ở giữa các gia �
 "Mong họ sẽ cúng dường cho ta, mong họ đừng không cúng dường. Mong họ cúng dường nhiều, không ít. Mong họ cúng dường cho ta những thứ tốt đẹp, không phải thô xấu. Mong họ cúng dường nhanh chóng, không chậm trễ. Mong họ cúng dường cẩn thận, không cẩu thả."' Với ý nghĩ như vậy, nếu ông đến một gia đình và họ không cúng dường, ông không cảm thấy bị xem thường. Và ông không trải qua đau khổ và buồn rầu vì điều đó. Nếu họ chỉ cúng dường một ít... nếu họ cúng dường những thứ thô xấu... nếu họ cúng dường chậm trễ... nếu họ cúng dường cẩu thả, ông không cảm thấy bị xem thường. Và ông không trải qua đau khổ và buồn rầu vì điều đó. Ta sẽ khuyên nhủ các ngươi bằng tấm gương của Kassapa hoặc người nào giống như ông. Các ngươi nên thực hành theo đó."
 
 <!--pg-->
-### SN 16.5 Tuổi Già *Jiṇṇa*
+### SN 16.5 Tuổi Già *Jiṇṇa*{#5}
 
 Như vầy tôi nghe. Gần Rājagaha, trong Trúc Lâm. Bấy giờ Tôn giả Mahākassapa đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với Kassapa:
 
@@ -114,7 +114,7 @@ Thấy được hai lợi ích này, con đã thực hành những điều này 
 "Tốt lắm, tốt lắm, Kassapa! Ông đang hành động vì lợi ích và hạnh phúc của mọi người, vì lòng thương cảm đối với thế gian, vì lợi ích, phúc lợi và hạnh phúc của chư thiên và loài người. Vậy Kassapa, hãy mặc y phấn tảo bằng vải gai sờn cũ, đi khất thực, và ở trong rừng."
 
 <!--pg-->
-### SN 16.6 Lời Khuyên *Ovāda*
+### SN 16.6 Lời Khuyên *Ovāda*{#6}
 
 Gần Rājagaha, trong Trúc Lâm. Bấy giờ Tôn giả Mahākassapa đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với Kassapa:
 
@@ -145,7 +145,7 @@ Rồi các Tỷ kheo đó cúi đầu sát chân Đức Phật và nói, "Chúng
 "Quả thật, các Tỷ kheo, các ngươi đã phạm lỗi. Thật là ngu ngốc, dại dột, và không khéo tinh tường khi các ngươi hành động như vậy. Nhưng vì các ngươi đã nhận ra lỗi lầm của mình đúng như bản chất của nó, và đã xử lý nó một cách đúng đắn, Ta chấp nhận. Vì đó là sự tăng trưởng trong giới luật của bậc Thánh khi nhận ra một lỗi lầm đúng như bản chất của nó, xử lý nó một cách đúng đắn, và cam kết tự kiềm chế trong tương lai."
 
 <!--pg-->
-### SN 16.7 Lời Khuyên (thứ 2) *Dutiyaovāda*
+### SN 16.7 Lời Khuyên (thứ 2) *Dutiyaovāda*{#7}
 
 Gần Rājagaha, trong Trúc Lâm. Bấy giờ Tôn giả Mahākassapa đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên.
 
@@ -178,7 +178,7 @@ Bất cứ ai có niềm tin, lòng xấu hổ, sự khéo tinh tường, sự s
 Khi có các Tỷ kheo cố vấn thì không có sự suy giảm."
 
 <!--pg-->
-### SN 16.8 Lời Khuyên (thứ 3) *Tatiyaovāda*
+### SN 16.8 Lời Khuyên (thứ 3) *Tatiyaovāda*{#8}
 
 Gần Rājagaha, tại nơi cho sóc ăn. Bấy giờ Tôn giả Mahākassapa đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -199,7 +199,7 @@ Khi một Tỷ kheo nổi tiếng và có danh vọng, nhận được y, vật 
 Rồi các Tỷ kheo trẻ tuổi nghĩ: 'Dường như khi một Tỷ kheo nổi tiếng và có danh vọng, nhận được y, vật thực khất thực, chỗ ở, và thuốc men và vật dụng cho người bệnh, các Tỷ kheo trưởng lão mời họ ngồi...' Họ thực hành theo đó. Điều đó mang lại tai hại và đau khổ lâu dài cho họ. Và nếu có thể nói một cách đúng đắn rằng người tu hành bị nguy hiểm bởi chính sự nguy hiểm của một người tu hành, và bị đánh bại bởi sự thất bại của một người tu hành, thì chính là trong thời đại này điều đó có thể được nói một cách đúng đắn."
 
 <!--pg-->
-### SN 16.9 Thiền Định và Thắng Trí *Jhānābhiñña*
+### SN 16.9 Thiền Định và Thắng Trí *Jhānābhiñña*{#9}
 
 Tại Sāvatthī.
 
@@ -234,7 +234,7 @@ Bất cứ khi nào Ta muốn, với thiên nhãn thông thanh tịnh và siêu 
 Ta đã chứng ngộ *tâm giải thoát* (freedom of heart / sự giải thoát của tâm) và *tuệ giải thoát* (freedom by wisdom / sự giải thoát bằng trí tuệ) không còn *lậu hoặc* (defilements / những ô nhiễm tinh thần sâu kín) trong chính đời này. Và Ta sống sau khi đã chứng ngộ điều đó bằng chính tuệ giác của mình do sự đoạn tận các lậu hoặc. Và Kassapa cũng vậy."
 
 <!--pg-->
-### SN 16.10 Khu Nhà của các Ni Sư *Upassaya*
+### SN 16.10 Khu Nhà của các Ni Sư *Upassaya*{#10}
 
 Như vầy tôi nghe. Một thời, Tôn giả Mahākassapa đang ở gần Sāvatthī trong vườn của Jeta, tu viện của Anāthapiṇḍika. Bấy giờ, Tôn giả Ānanda đắp y vào buổi sáng, mang bát và y, đến gặp Mahākassapa và nói, "Kassapa, thưa ngài, chúng ta hãy đến một trong các khu nhà của ni sư."
 
@@ -273,7 +273,7 @@ Thưa Tôn giả, ngài có thể nghĩ đến việc giấu một con voi đự
 Nhưng ni sư Thullatissā đã từ bỏ đời sống phạm hạnh.
 
 <!--pg-->
-### SN 16.11 Y Phục *Cīvara*
+### SN 16.11 Y Phục *Cīvara*{#11}
 
 Một thời, Tôn giả Mahākassapa đang ở gần Rājagaha, trong Trúc Lâm, nơi cho sóc ăn. Lúc đó, Tôn giả Ānanda đang du hành ở vùng Đồi Phía Nam cùng với một Tăng đoàn Tỷ kheo đông đảo.
 
@@ -340,7 +340,7 @@ Thưa Tôn giả, ngài có thể nghĩ đến việc giấu một con voi đự
 Nhưng ni sư Thullanandā đã từ bỏ đời sống phạm hạnh.
 
 <!--pg-->
-### SN 16.12 Như Lai Sau Khi Chết *Paraṁmaraṇa*
+### SN 16.12 Như Lai Sau Khi Chết *Paraṁmaraṇa*{#12}
 
 Một thời, Tôn giả Mahākassapa và Tôn giả Sāriputta đang ở gần Varanasi, tại vườn Lộc Uyển ở Isipatana.
 
@@ -373,7 +373,7 @@ Rồi vào buổi chiều, Tôn giả Sāriputta ra khỏi nơi độc cư, đ�
 "Bởi vì nó lợi ích và liên quan đến những nền tảng của đời sống phạm hạnh. Nó dẫn đến sự nhàm chán, ly tham, đoạn diệt, an tịnh, tuệ giác, giác ngộ, và Niết-bàn. Đó là lý do tại sao nó đã được Đức Phật tuyên bố."
 
 <!--pg-->
-### SN 16.13 Sự Giả Mạo của Chánh Pháp *Saddhammappatirūpaka*
+### SN 16.13 Sự Giả Mạo của Chánh Pháp *Saddhammappatirūpaka*{#13}
 
 Như vầy tôi nghe. Một thời, Đức Phật đang ở gần Sāvatthī trong vườn của Jeta, tu viện của Anāthapiṇḍika. Bấy giờ, Tôn giả Mahākassapa đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
