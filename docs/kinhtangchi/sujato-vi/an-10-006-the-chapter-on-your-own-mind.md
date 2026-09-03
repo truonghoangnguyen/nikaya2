@@ -1,7 +1,6 @@
 # Phẩm Về Tâm Của Chính Mình
 
-### AN 10.51 Tâm Của Chính Mình *Sacittasutta*{#51}
-
+### AN 10.51 Tâm Của Chính Mình *Sacittasutta* {#51}
 Một thời Đức Phật trú tại Sāvatthī, trong khu vườn của Jeta, tu viện của Anāthapiṇḍika. Tại đó, Đức Phật gọi các Tỳ kheo: "Này các Tỳ kheo!"
 
 "Bạch Thế Tôn," họ đáp. Đức Phật dạy điều này:
@@ -15,8 +14,7 @@ Giả sử rằng, khi kiểm tra, một Tỳ kheo biết điều này: 'Ta thư
 Nhưng giả sử rằng, khi kiểm tra, một Tỳ kheo biết điều này: 'Ta thường *tri túc* (content / biết đủ), *tâm từ* (kind-hearted / lòng nhân ái), không bị tâm trí đờ đẫn và buồn ngủ, *tĩnh lặng* (calm / yên bình), *tự tin* (confident / tin tưởng vào bản thân), *tâm ái* (loving / lòng yêu thương), *tâm thanh tịnh* (pure in mind / tâm trong sạch), thân không dao động, siêng năng, và nhập định.' Dựa trên những thiện pháp đó, vị ấy nên thực hành thiền định thêm để đoạn tận các *lậu hoặc* (defilements / những ô nhiễm, phiền não tiềm ẩn làm rỉ chảy trong tâm)."
 
 <!--pg-->
-### AN 10.52 Với Sāriputta *Sāriputtasutta*{#52}
-
+### AN 10.52 Với Sāriputta *Sāriputtasutta* {#52}
 Tại đó, Tôn giả Sāriputta gọi các Tỳ kheo: "Này chư Hiền, các Tỳ kheo!"
 
 "Thưa Hiền giả," họ đáp. Tôn giả Sāriputta nói điều này:
@@ -32,8 +30,7 @@ Giả sử rằng, khi kiểm tra, một Tỳ kheo biết điều này: 'Ta thư
 Nhưng giả sử rằng, khi kiểm tra, một Tỳ kheo biết điều này: 'Ta thường tri túc, tâm từ, thoát khỏi tâm trí đờ đẫn và buồn ngủ, tĩnh lặng, tự tin, tâm ái, tâm thanh tịnh, thân không dao động, siêng năng, và nhập định.' Dựa trên những thiện pháp đó, vị ấy nên thực hành thiền định thêm để đoạn tận các lậu hoặc."
 
 <!--pg-->
-### AN 10.53 Trì Trệ *Ṭhitisutta*{#53}
-
+### AN 10.53 Trì Trệ *Ṭhitisutta* {#53}
 "Này các Tỳ kheo, Ta không tán thán sự *trì trệ* (stagnation / sự đình đốn, không tiến triển) trong các thiện pháp, huống chi là sự *suy thoái* (decline / sự đi xuống, kém đi). Ta tán thán sự *tăng trưởng* (growth / sự phát triển, đi lên) trong các thiện pháp, không phải sự trì trệ hay suy thoái.
 
 Và thế nào là có sự suy thoái trong các thiện pháp, không phải trì trệ hay tăng trưởng? Đó là khi một Tỳ kheo có một mức độ nhất định về niềm tin, *giới* (ethics / các quy tắc đạo đức), *thí* (generosity / sự bố thí, cho đi), trí tuệ, và *biện tài* (eloquence / khả năng diễn đạt lưu loát, thuyết phục). Những phẩm chất đó không trì trệ cũng không tăng trưởng trong vị ấy. Ta gọi đây là sự suy thoái trong các thiện pháp, không phải trì trệ hay tăng trưởng. Đây là cách có sự suy thoái trong các thiện pháp, không phải trì trệ hay tăng trưởng.
@@ -51,8 +48,7 @@ Giả sử rằng, khi kiểm tra, một Tỳ kheo biết điều này: 'Ta thư
 Nhưng giả sử rằng, khi kiểm tra, một Tỳ kheo biết điều này: 'Ta thường tri túc, tâm từ, thoát khỏi tâm trí đờ đẫn và buồn ngủ, tĩnh lặng, tự tin, tâm ái, tâm thanh tịnh, thân không dao động, siêng năng, và nhập định.' Dựa trên những thiện pháp đó, vị ấy nên thực hành thiền định thêm để đoạn tận các lậu hoặc."
 
 <!--pg-->
-### AN 10.54 Tĩnh Lặng *Samathasutta*{#54}
-
+### AN 10.54 Tĩnh Lặng *Samathasutta* {#54}
 "Này các Tỳ kheo, nếu một Tỳ kheo không khéo léo trong cách thức của tâm người khác, thì vị ấy nên tự rèn luyện: 'Ta sẽ khéo léo trong cách thức của tâm mình.'
 
 Và làm thế nào một Tỳ kheo khéo léo trong cách thức của tâm mình? Giả sử có một người phụ nữ hay đàn ông trẻ tuổi, thanh xuân, thích trang sức, và họ soi bóng mình trong một tấm gương trong sáng hoặc một chậu nước trong. Nếu họ thấy bất kỳ bụi bẩn hay vết nhơ nào ở đó, họ sẽ cố gắng loại bỏ nó. Nhưng nếu họ không thấy bất kỳ bụi bẩn hay vết nhơ nào ở đó, họ hài lòng với điều đó, vì họ đã có tất cả những gì họ mong muốn: 'May mắn thay, ta thật sạch sẽ!' Tương tự như vậy, việc kiểm tra rất hữu ích cho các thiện pháp của một Tỳ kheo. 'Ta có sự tĩnh lặng nội tâm (*samatha* (serenity / sự vắng lặng của tâm, chỉ)) hay không? Ta có *trí tuệ cao hơn về sự quán chiếu các pháp* (*adhipaññā-dhammavipassanā* (higher wisdom of discernment of principles / trí tuệ cao hơn về sự quán chiếu các pháp)) hay không?' (*Adhipaññā* (higher wisdom / trí tuệ vượt trội, trí tuệ cao hơn); *Dhammavipassanā* (discernment of principles / sự thấy rõ các pháp, minh sát pháp)).
@@ -80,8 +76,7 @@ Ta nói rằng có hai loại *y phục* (robes / áo cà sa): loại nên mặc
 'Ta nói rằng có hai loại người: loại nên thân cận và loại không nên thân cận.' Đó là điều Ta đã nói, nhưng tại sao Ta lại nói vậy? Chà, nếu bạn biết về một người: 'Khi ta thân cận người này, các bất thiện pháp tăng trưởng, và các thiện pháp suy giảm.' Bạn không nên thân cận loại người đó. Trong khi đó, nếu bạn biết về một người: 'Khi ta thân cận người này, các bất thiện pháp suy giảm, và các thiện pháp tăng trưởng.' Bạn nên thân cận loại người đó. 'Ta nói rằng có hai loại người: loại nên thân cận và loại không nên thân cận.' Đó là điều Ta đã nói, và đây là lý do tại sao Ta nói vậy."
 
 <!--pg-->
-### AN 10.55 Suy Thoái *Parihānasutta*{#55}
-
+### AN 10.55 Suy Thoái *Parihānasutta* {#55}
 Tại đó, Tôn giả Sāriputta gọi các Tỳ kheo: "Này chư Hiền, các Tỳ kheo!"
 
 "Thưa Hiền giả," họ đáp. Tôn giả Sāriputta nói điều này:
@@ -111,18 +106,15 @@ Giả sử một Tỳ kheo, trong khi kiểm tra, thấy một số phẩm chấ
 Nhưng giả sử một Tỳ kheo, trong khi kiểm tra, thấy tất cả những phẩm chất thiện lành này trong chính mình. Dựa trên tất cả những thiện pháp này, vị ấy nên thực hành thiền định thêm để đoạn tận các lậu hoặc."
 
 <!--pg-->
-### AN 10.56 Nhận Thức (Thứ Nhất) *Paṭhamasaññāsutta*{#56}
-
+### AN 10.56 Nhận Thức (Thứ Nhất) *Paṭhamasaññāsutta* {#56}
 "Này các Tỳ kheo, mười *nhận thức* (perceptions / *tưởng*, nhận biết-phân biệt và gắn nhãn) này, khi được *tu tập và làm cho sung mãn*, thì có *quả lớn, lợi ích lớn*. Chúng *đưa đến bất tử* và *kết thúc nơi bất tử*. Mười nhận thức đó là gì? *Nhận thức về sự bất tịnh* (*Bất tịnh tưởng* (perception of ugliness / nhận thức về sự không trong sạch, không đẹp đẽ của thân)), *nhận thức về cái chết* (*Tử tưởng* (perception of death / nhận thức về sự chết)), *nhận thức về sự ghê tởm của thức ăn* (*Aahāre paṭikūlasaññā* (perception of repulsiveness of food / nhận thức về sự đáng ghê của vật thực)), *nhận thức về sự không ham thích đối với toàn thế gian* (*Sabbaloke anabhiratasaññā* (perception of dissatisfaction with the whole world / nhận thức về sự không vui thích trong tất cả thế giới)), *nhận thức về sự vô thường* (*Aniccasaññā* (perception of impermanence / nhận thức về tính không bền vững, luôn thay đổi)), *nhận thức về khổ trong vô thường* (*Anicce dukkhasaññā* (perception of suffering in impermanence / nhận thức về sự đau khổ trong cái vô thường)), và *nhận thức về vô ngã trong khổ* (*Dukkhe anattasaññā* (perception of not-self in suffering / nhận thức về tính không có tự ngã, không có cái tôi thường hằng trong sự đau khổ)), *nhận thức về sự từ bỏ* (*Pahānasaññā* (perception of giving up / nhận thức về sự đoạn trừ, buông bỏ)), *nhận thức về sự phai nhạt* (*Virāgasaññā* (perception of fading away / nhận thức về sự ly tham, nhạt phai ham muốn)), và *nhận thức về sự chấm dứt* (*Nirodhasaññā* (perception of cessation / nhận thức về sự diệt tận khổ đau, Niết-bàn)). Mười nhận thức này, khi được tu tập và làm cho sung mãn, thì có quả lớn, lợi ích lớn. Chúng đưa đến bất tử và kết thúc nơi bất tử."
 
 <!--pg-->
-### AN 10.57 Nhận Thức (Thứ Hai) *Dutiyasaññāsutta*{#57}
-
+### AN 10.57 Nhận Thức (Thứ Hai) *Dutiyasaññāsutta* {#57}
 "Này các Tỳ kheo, mười nhận thức này, khi được tu tập và làm cho sung mãn, thì có quả lớn, lợi ích lớn. Chúng đưa đến bất tử và kết thúc nơi bất tử. Mười nhận thức đó là gì? Nhận thức về sự vô thường, *nhận thức về vô ngã* (*Anattasaññā* (perception of not-self / nhận thức về tính không có tự ngã, không có cái tôi thường hằng)), nhận thức về cái chết, nhận thức về sự ghê tởm của thức ăn, nhận thức về sự không ham thích đối với toàn thế gian, *nhận thức về bộ xương* (*Aṭṭhikasaññā* (perception of a skeleton / nhận thức về hình ảnh bộ xương)), *nhận thức về tử thi bị dòi bọ rúc rỉa* (*Puḷavakasaññā* (perception of a worm-infested corpse / nhận thức về tử thi đầy dòi)), *nhận thức về tử thi tái xanh* (*Vinīlakasaññā* (perception of a livid corpse / nhận thức về tử thi có màu xanh tím)), *nhận thức về tử thi nứt vỡ* (*Vicchiddakasaññā* (perception of a split open corpse / nhận thức về tử thi bị rách, nứt toác)), và *nhận thức về tử thi sình trương* (*Uddhumātakasaññā* (perception of a bloated corpse / nhận thức về tử thi phồng lên)). Mười nhận thức này, khi được tu tập và làm cho sung mãn, thì có quả lớn, lợi ích lớn. Chúng đưa đến bất tử và kết thúc nơi bất tử."
 
 <!--pg-->
-### AN 10.58 Cội Rễ *Mūlakasutta*{#58}
-
+### AN 10.58 Cội Rễ *Mūlakasutta* {#58}
 "Này các Tỳ kheo, nếu các *du sĩ ngoại đạo* (wanderers of other religions / những người tu hành theo các tôn giáo khác không phải Phật giáo) hỏi: 'Thưa chư Hiền, *tất cả các pháp* có *cội rễ* là gì? Điều gì *sinh khởi từ đâu* chúng? *Nguồn gốc* của chúng là gì? *Nơi hội tụ* của chúng là gì? *Đầu não* của chúng là gì? *Người cai quản* của chúng là gì? *Người giám sát* của chúng là gì? *Cốt lõi* của chúng là gì? *Đỉnh cao* của chúng là gì? *Kết thúc cuối cùng* của chúng là gì?' Các vị sẽ trả lời họ như thế nào?"
 
 "Giáo pháp của chúng con lấy Đức Phật làm gốc, lấy Đức Phật làm người dẫn đường, lấy Đức Phật làm nơi nương tựa. Bạch Thế Tôn, mong Đức Phật vui lòng làm rõ ý nghĩa của điều này. Các Tỳ kheo sẽ lắng nghe và ghi nhớ."
@@ -134,15 +126,13 @@ Nhưng giả sử một Tỳ kheo, trong khi kiểm tra, thấy tất cả nhữ
 "Này các Tỳ kheo, nếu các du sĩ ngoại đạo hỏi: 'Thưa chư Hiền, tất cả các pháp có cội rễ là gì? Điều gì sinh khởi từ đâu chúng? Nguồn gốc của chúng là gì? Nơi hội tụ của chúng là gì? Đầu não của chúng là gì? Người cai quản của chúng là gì? Người giám sát của chúng là gì? Cốt lõi của chúng là gì? Đỉnh cao của chúng là gì? Kết thúc cuối cùng của chúng là gì?' Các vị nên trả lời họ: 'Thưa chư Hiền, tất cả các pháp đều bắt nguồn từ *dục* (*Chanda* (desire / ý muốn, ước muốn làm)). Chúng được sinh khởi bởi *tác ý* (*Manasikāra* (attention / sự chú tâm, tác ý)). *Xúc* (*Phassa* (contact / sự chạm, tiếp xúc)) là nguồn gốc của chúng. *Thọ* (*Vedanā* (feeling / cảm giác, cảm thọ)) là nơi hội tụ của chúng. *Định* (*Samādhi* (concentration / định, sự tập trung tâm ý)) là đầu não của chúng. Tỉnh thức (*Sati* (mindfulness / niệm, sự nhớ, tỉnh thức)) là người cai quản của chúng. Trí tuệ (*Paññā* (wisdom / trí tuệ)) là người giám sát của chúng. *Giải thoát* (*Vimutti* (liberation / sự giải thoát)) là cốt lõi của chúng. Chúng đạt đến đỉnh cao là *bất tử* (*Amata* (deathless / bất tử)). Và *Niết-bàn* (*Nibbāna* (extinguishment / Niết-bàn)) là kết thúc cuối cùng của chúng.' Khi bị các du sĩ ngoại đạo chất vấn, đó là cách các vị nên trả lời họ."
 
 <!--pg-->
-### AN 10.59 Xuất Gia *Pabbajjāsutta*{#59}
-
+### AN 10.59 Xuất Gia *Pabbajjāsutta* {#59}
 "Vậy các thầy nên tu tập như sau: 'Tâm của chúng ta sẽ được củng cố như khi chúng ta mới *xuất gia* (going forth / từ bỏ đời sống thế tục để tu hành), và các pháp bất thiện đã sinh khởi sẽ không chiếm hữu tâm chúng ta. Tâm của chúng ta sẽ được củng cố trong các nhận thức về vô thường, vô ngã, bất tịnh và *sự nguy hại* (*Ādīnavasaññā* (perception of drawbacks / nhận thức về những điều bất lợi, nguy hiểm)). Biết điều gì là công bằng và không công bằng trên thế gian, tâm của chúng ta sẽ được củng cố trong nhận thức đó. Biết sự tiếp diễn và sự chấm dứt của hiện hữu trên thế gian, tâm của chúng ta sẽ được củng cố trong nhận thức đó. Biết sự sinh khởi và sự chấm dứt của thế gian, tâm của chúng ta sẽ được củng cố trong nhận thức đó. Tâm của chúng ta sẽ được củng cố trong các nhận thức về sự từ bỏ, sự phai nhạt và sự chấm dứt.' Đó là cách các thầy nên tu tập.
 
 Khi tâm của các thầy được củng cố trong mười nhận thức này, các thầy có thể mong đợi một trong hai kết quả: *giác ngộ* (*Aññā* (final knowledge / thắng trí, sự hiểu biết cuối cùng)) ngay trong đời này, hoặc nếu còn dư sót, thì chứng quả *Bất Lai* (non-return / *anāgāmitā*, tầng thánh thứ ba, không còn trở lại cõi dục)."
 
 <!--pg-->
-### AN 10.60 Với Girimānanda *Girimānandasutta*{#60}
-
+### AN 10.60 Với Girimānanda *Girimānandasutta* {#60}
 Một thời Đức Phật trú tại Sāvatthī, trong khu vườn của Jeta, tu viện của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Girimānanda bị bệnh, đau đớn, bệnh nặng. Khi ấy, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và thưa với Ngài:
 
 "Bạch Thế Tôn, Tôn giả Girimānanda bị bệnh, đau đớn, bệnh nặng. Bạch Thế Tôn, xin Ngài hãy đến thăm Tôn giả Girimānanda vì lòng từ mẫn."

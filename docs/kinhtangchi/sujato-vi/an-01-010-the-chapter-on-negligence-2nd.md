@@ -1,6 +1,5 @@
 # Phẩm Sao Nhãng (2)
-### AN 1.98--139 *Dutiyapamādādivagga*{#98-139}
-
+### AN 1.98--139 *Dutiyapamādādivagga* {#98-139}
 98\. "Này các Tỷ-kheo, xét về các yếu tố bên trong, Ta không thấy một pháp nào khác lại có hại đến như vậy như là *sự sao nhãng* (negligence / sự lơ là, không chú tâm). Sự sao nhãng rất có hại."
 
 <!--pg-->

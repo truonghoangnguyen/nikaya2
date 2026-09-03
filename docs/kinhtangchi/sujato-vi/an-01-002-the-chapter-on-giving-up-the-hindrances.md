@@ -1,6 +1,6 @@
 # Phẩm Đoạn Trừ Các Triền Cái
 
-### AN 1.11--20 *Nīvaraṇappahānavagga*{#11-20}
+### AN 1.11--20 *Nīvaraṇappahānavagga* {#11-20}
 11\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác làm *dục tham* (sensual desire / ham muốn dục lạc) chưa sinh sẽ sinh hay đã sinh thì tăng trưởng, như là *tịnh tướng* (feature of beauty / vẻ đẹp).
 Khi các ông *không như lý tác ý* (apply the mind irrationally / hướng tâm sai pháp) đến *tịnh tướng*, *dục tham* chưa sinh khởi thì sinh khởi, và một khi đã sinh khởi thì nó tăng trưởng và lớn mạnh."
 

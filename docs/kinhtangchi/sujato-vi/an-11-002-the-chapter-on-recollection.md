@@ -1,7 +1,6 @@
 # Phẩm Về Sự Tùy Niệm
 
-### AN 11.11 Với Mahānāma (Thứ Nhất) *Paṭhamamahānāmasutta*{#11}
-
+### AN 11.11 Với Mahānāma (Thứ Nhất) *Paṭhamamahānāmasutta* {#11}
 Một thời Đức Phật trú ở xứ của những người Thích Ca (Sakya), gần Ca-tỳ-la-vệ (Kapilavatthu) tại Tu viện Cây Bàng (Nigrodhārāma).
 
 Lúc bấy giờ, một số vị Tỷ-kheo đang may y cho Đức Phật, với ý nghĩ rằng khi y của ngài được hoàn tất và ba tháng *an cư mùa mưa* (rains residence / kỳ nhập hạ ba tháng mùa mưa) đã qua, Đức Phật sẽ lên đường du hành.
@@ -27,8 +26,7 @@ Hơn nữa, ông nên tùy niệm lòng *thí* (generosity / sự cho đi, lòng
 Hơn nữa, ông nên tùy niệm *chư thiên* (deities / các vị trời): 'Có các vị trời ở cõi Tứ Đại Thiên Vương, các vị trời ở cõi Ba Mươi Ba (Đao Lợi), các vị trời Dạ Ma, các vị trời Đâu Suất, các vị *Hóa Lạc Thiên* (gods who love to imagine / Nimmānaratī devas, chư thiên ở cõi Hóa Lạc, vui với những gì tự mình hóa hiện), các vị *Tha Hóa Tự Tại Thiên* (gods who control what is imagined by others / Paranimmitavasavattī devas, chư thiên ở cõi Tha Hóa Tự Tại, vui với những gì người khác hóa hiện cho mình), các vị trời cõi Phạm Chúng, và các vị trời còn cao hơn nữa. Khi những vị trời ấy từ đây mệnh chung, họ được tái sinh đến đó là nhờ có Niềm tin (faith / *Tín*), giới đức, sự *văn* (learning / sự học hỏi giáo pháp), lòng quảng đại, và Trí tuệ (wisdom / *Tuệ*). Ta cũng có cùng loại Niềm tin, giới đức, sự học hỏi, lòng quảng đại, và Trí tuệ như vậy.' Khi một thánh đệ tử tùy niệm Niềm tin, giới đức, sự học hỏi, lòng quảng đại, và Trí tuệ của cả bản thân mình và của chư thiên, tâm vị ấy không tràn đầy tham, sân, và si. Lúc ấy, tâm vị ấy không lay chuyển, đặt nền tảng trên chư thiên. Một thánh đệ tử có tâm không lay chuyển sẽ tìm thấy niềm cảm hứng trong ý nghĩa và giáo pháp, và tìm thấy niềm vui liên hệ đến giáo pháp. Khi vị ấy hân hoan, Niềm vui khởi lên. Khi tâm tràn đầy Niềm vui, thân trở nên khinh an. Khi thân khinh an, vị ấy cảm thấy An ổn. Và khi vị ấy An ổn, tâm nhập định. Đây được gọi là một thánh đệ tử sống quân bình giữa những người không quân bình, và sống không phiền não giữa những người phiền não. Vị ấy đã nhập vào pháp lưu và phát triển sự *niệm thiên* (recollection of the deities / sự nhớ nghĩ đến các vị trời và phẩm chất của họ)."
 
 <!--pg-->
-### AN 11.12 Với Mahānāma (Thứ Hai) *Dutiyamahānāmasutta*{#12}
-
+### AN 11.12 Với Mahānāma (Thứ Hai) *Dutiyamahānāmasutta* {#12}
 Một thời Đức Phật trú ở xứ của những người Thích Ca, gần Ca-tỳ-la-vệ tại Tu viện Cây Bàng. Lúc bấy giờ, Mahānāma người Thích Ca vừa mới khỏi bệnh.
 Lúc ấy, một số vị Tỷ-kheo đang may y cho Đức Phật...
 
@@ -43,8 +41,7 @@ Thứ nhất, ông nên tùy niệm Như Lai: 'Đức Thế Tôn đó là bậc 
 Hơn nữa, ông nên tùy niệm Pháp... Tăng đoàn... giới đức của chính mình... lòng quảng đại của chính mình... chư thiên... Khi một thánh đệ tử tùy niệm Niềm tin, giới đức, sự học hỏi, lòng quảng đại, và Trí tuệ của cả bản thân mình và của chư thiên, tâm vị ấy không tràn đầy tham, sân, và si. Lúc ấy, tâm vị ấy không lay chuyển, đặt nền tảng trên chư thiên. Một thánh đệ tử có tâm không lay chuyển sẽ tìm thấy niềm cảm hứng trong ý nghĩa và giáo pháp, và tìm thấy niềm vui liên hệ đến giáo pháp. Khi vị ấy hân hoan, Niềm vui khởi lên. Khi tâm tràn đầy Niềm vui, thân trở nên khinh an. Khi thân khinh an, vị ấy cảm thấy An ổn. Và khi vị ấy An ổn, tâm nhập định. Ông nên phát triển sự niệm thiên này khi đi, đứng, ngồi, nằm, khi làm việc, và khi ở nhà với con cái."
 
 <!--pg-->
-### AN 11.13 Với Nandiya *Nandiyasutta*{#13}
-
+### AN 11.13 Với Nandiya *Nandiyasutta* {#13}
 Một thời Đức Phật trú ở xứ của những người Thích Ca, gần Ca-tỳ-la-vệ tại Tu viện Cây Bàng.
 
 Lúc bấy giờ, Đức Phật muốn nhập hạ tại Xá-vệ (Sāvatthī).
@@ -74,8 +71,7 @@ Hơn nữa, ông nên tùy niệm chư thiên: 'Có những vị trời, vượt
 Một thánh đệ tử có mười một phẩm chất này sẽ từ bỏ các *pháp ác bất thiện* (bad, unskillful qualities / những điều xấu, không tốt) và không còn bám víu vào chúng. Giống như khi một cái nồi đầy nước bị nghiêng đổ, nước chảy ra hết và không quay trở lại. Giả sử có một đám cháy không kiểm soát được. Nó lan tới đốt cháy những khu rừng khô và không quay lại những gì nó đã đốt. Cũng vậy, một thánh đệ tử có mười một phẩm chất này sẽ từ bỏ các pháp ác bất thiện và không còn bám víu vào chúng."
 
 <!--pg-->
-### AN 11.14 Với Subhūti *Subhūtisutta*{#14}
-
+### AN 11.14 Với Subhūti *Subhūtisutta* {#14}
 Rồi Tôn giả Tu-bồ-đề (Subhūti) cùng với vị Tỷ-kheo Saddha đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên. Đức Phật hỏi ngài: "Tu-bồ-đề, vị Tỷ-kheo này tên là gì?"
 
 "Bạch Thế Tôn, vị Tỷ-kheo này tên là Saddha (Niềm Tin). Vị ấy là con trai của cư sĩ Sudatta (Cấp Cô Độc), và đã do niềm tin mà xuất gia, từ bỏ đời sống tại gia, sống không gia đình."
@@ -141,15 +137,13 @@ Những dấu hiệu của niềm tin khác nhau dành cho một người có ni
 "Lành thay, lành thay, Tu-bồ-đề! Vậy thì, Tu-bồ-đề, ông nên sống cùng với vị Tỷ-kheo Saddha này. Và khi ông muốn gặp Như Lai, ông nên đến cùng với vị ấy."
 
 <!--pg-->
-### AN 11.15 Lợi Ích Của Từ Ái *Mettāsutta*{#15}
-
+### AN 11.15 Lợi Ích Của Từ Ái *Mettāsutta* {#15}
 "các Tỷ-kheo, các ông có thể mong đợi mười một lợi ích khi *tâm giải thoát bằng từ ái* (heart's release by love / sự giải thoát của tâm nhờ thực hành lòng từ) đã được tu tập, phát triển, và thực hành, làm thành cỗ xe và làm thành nền tảng, duy trì, củng cố, và thực hiện đúng cách.
 
 Mười một lợi ích đó là gì? Ngủ an lạc. Thức dậy vui vẻ. Không gặp ác mộng. Loài người yêu mến. Phi nhân yêu mến. Chư thiên bảo hộ. Không bị hại bởi lửa, độc dược, hay đao kiếm. Tâm nhanh chóng nhập định. Gương mặt trong sáng, tươi tắn. Khi chết không mê mờ. Nếu không chứng ngộ cao hơn, sẽ được tái sinh vào *Phạm thiên giới* (realm of divinity / cõi trời Phạm Thiên, cõi của các vị trời cao cấp). Các ông có thể mong đợi mười một lợi ích khi tâm giải thoát bằng từ ái đã được tu tập, phát triển, và thực hành, làm thành cỗ xe và làm thành nền tảng, duy trì, củng cố, và thực hiện đúng cách."
 
 <!--pg-->
-### AN 11.16 Công Dân Giàu Có (Ở Aṭṭhaka) *Aṭṭhakanāgarasutta*{#16}
-
+### AN 11.16 Công Dân Giàu Có (Ở Aṭṭhaka) *Aṭṭhakanāgarasutta* {#16}
 Một thời Tôn giả A-nan (Ānanda) trú gần Tỳ-xá-ly (Vesālī) trong ngôi làng nhỏ Beluva.
 
 Lúc bấy giờ, gia chủ Dasama, một công dân giàu có ở Aṭṭhaka, đã đến Hoa Thị Thành (Pāṭaliputta) vì một vài công việc. Ông đến tu viện Kukkuta (Gà), lại gần một vị Tỷ-kheo và hỏi: "Thưa ngài, Tôn giả A-nan hiện đang ở đâu? Vì tôi muốn gặp ngài."
@@ -183,8 +177,7 @@ Khi ngài nói xong, gia chủ Dasama thưa với Tôn giả A-nan:
 Sau đó, gia chủ Dasama, sau khi tập hợp Tăng đoàn từ Tỳ-xá-ly và Hoa Thị Thành, đã tự tay phục vụ và làm hài lòng họ bằng những món ăn tươi ngon và đã nấu chín. Ông cúng dường mỗi vị Tỷ-kheo một cặp y, và Tôn giả A-nan một bộ ba y. Và ông đã cho xây một trú xứ trị giá năm trăm (xu) cho Tôn giả A-nan.
 
 <!--pg-->
-### AN 11.17 Người Chăn Bò *Gopālasutta*{#17}
-
+### AN 11.17 Người Chăn Bò *Gopālasutta* {#17}
 "các Tỷ-kheo, một người chăn bò với mười một yếu tố không thể duy trì và mở rộng đàn bò. Mười một yếu tố đó là gì? Đó là khi người chăn bò không biết về sắc (hình tướng của bò), không khéo léo về các đặc điểm (của bò tốt xấu), không loại bỏ trứng ruồi (cho bò), không băng bó vết thương (cho bò), không xông khói (đuổi muỗi cho đàn bò), không biết chỗ lội qua sông, không biết sự hài lòng (của bò khi ăn no), không biết con đường (dẫn đến đồng cỏ tốt), không khéo léo về đồng cỏ, vắt sữa đến cạn kiệt, và không tỏ lòng kính trọng đặc biệt đối với những con bò đực đầu đàn, cha của đàn. Một người chăn bò với mười một yếu tố này không thể duy trì và mở rộng đàn bò.
 
 Cũng vậy, một vị Tỷ-kheo với mười một phẩm chất không thể đạt được sự tăng trưởng, tiến bộ, hay trưởng thành trong Pháp và Luật này. Mười một phẩm chất đó là gì? Đó là khi một vị Tỷ-kheo không biết về sắc (rūpa), không khéo léo về các đặc điểm (để phân biệt người ngu kẻ trí), không loại bỏ trứng ruồi (ẩn dụ cho các tư tưởng xấu bất thiện), không băng bó vết thương (ẩn dụ cho việc không chế ngự các giác quan), không xông khói (ẩn dụ cho việc không giảng dạy Pháp rộng rãi), không biết chỗ lội qua sông (ẩn dụ cho việc không học hỏi từ các bậc đa văn), không biết sự hoan hỷ (trong Pháp), không biết con đường (Bát Chánh Đạo), không khéo léo về đồng cỏ (Tứ Niệm Xứ), vắt sữa đến cạn kiệt (ẩn dụ cho việc không biết tiết độ khi nhận cúng dường), và không tỏ lòng kính trọng đặc biệt đối với các vị Tỷ-kheo trưởng lão, xuất gia lâu năm, là những người cha, người lãnh đạo của Tăng đoàn.
@@ -242,8 +235,7 @@ Và làm thế nào một vị Tỷ-kheo tỏ lòng kính trọng đặc biệt 
 Một vị Tỷ-kheo với mười một phẩm chất này có thể đạt được sự tăng trưởng, tiến bộ, hay trưởng thành trong Pháp và Luật này."
 
 <!--pg-->
-### AN 11.18 Định (Thứ Nhất) *Paṭhamasamādhisutta*{#18}
-
+### AN 11.18 Định (Thứ Nhất) *Paṭhamasamādhisutta* {#18}
 Rồi một số vị Tỷ-kheo đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với ngài:
 
 "Bạch Thế Tôn, liệu có thể nào một vị Tỷ-kheo đạt được một trạng thái định như thế này không? Vị ấy sẽ không nhận thức đất trong đất, nước trong nước, lửa trong lửa, hay gió trong gió. Và vị ấy sẽ không nhận thức Không Vô Biên Xứ trong Không Vô Biên Xứ, Thức Vô Biên Xứ trong Thức Vô Biên Xứ, Vô Sở Hữu Xứ trong Vô Sở Hữu Xứ, hay *Phi Tưởng Phi Phi Tưởng Xứ* (dimension of neither perception nor non-perception / cõi thiền vô sắc nơi nhận thức không phải có cũng không phải không) trong Phi Tưởng Phi Phi Tưởng Xứ. Vị ấy sẽ không nhận thức thế giới này trong thế giới này, hay thế giới khác trong thế giới khác. Và vị ấy sẽ không nhận thức những gì được thấy, nghe, suy nghĩ, biết, đạt được, tìm kiếm, hay khám phá bởi tâm. Và tuy nhiên vị ấy vẫn nhận thức."
@@ -255,8 +247,7 @@ Rồi một số vị Tỷ-kheo đến gặp Đức Phật, đảnh lễ, rồi 
 "Đó là khi một vị Tỷ-kheo nhận thức: 'Đây là sự an tịnh; đây là sự cao thượng—nghĩa là, sự lắng dịu của mọi *hành* (activities / các pháp hữu vi, các hoạt động tạo tác, các pháp được điều kiện hóa), sự từ bỏ mọi *sanh y* (attachments / những nền tảng của sự tái sanh, những chấp thủ), sự chấm dứt của *ái* (craving / sự khao khát, ham muốn), sự *ly tham* (fading away / sự xa lìa tham ái), sự *đoạn diệt* (cessation / sự chấm dứt), *Niết Bàn* (extinguishment / sự dập tắt hoàn toàn phiền não và khổ đau).' Đó là cách một vị Tỷ-kheo có thể đạt được một trạng thái định như thế này. Vị ấy sẽ không nhận thức đất trong đất, nước trong nước, lửa trong lửa, hay gió trong gió. Và vị ấy sẽ không nhận thức Không Vô Biên Xứ trong Không Vô Biên Xứ, Thức Vô Biên Xứ trong Thức Vô Biên Xứ, Vô Sở Hữu Xứ trong Vô Sở Hữu Xứ, hay Phi Tưởng Phi Phi Tưởng Xứ trong Phi Tưởng Phi Phi Tưởng Xứ. Vị ấy sẽ không nhận thức thế giới này trong thế giới này, hay thế giới khác trong thế giới khác. Và vị ấy sẽ không nhận thức những gì được thấy, nghe, suy nghĩ, biết, đạt được, tìm kiếm, hay khám phá bởi tâm. Và tuy nhiên vị ấy vẫn nhận thức."
 
 <!--pg-->
-### AN 11.19 Định (Thứ Hai) *Dutiyasamādhisutta*{#19}
-
+### AN 11.19 Định (Thứ Hai) *Dutiyasamādhisutta* {#19}
 Tại đó, Đức Phật gọi các vị Tỷ-kheo: "các Tỷ-kheo!"
 
 "Bạch Thế Tôn," họ đáp. Đức Phật dạy như sau:
@@ -276,8 +267,7 @@ Tại đó, Đức Phật gọi các vị Tỷ-kheo: "các Tỷ-kheo!"
 "Đó là khi một vị Tỷ-kheo nhận thức: 'Đây là sự an tịnh; đây là sự cao thượng—nghĩa là, sự lắng dịu của mọi hành, sự từ bỏ mọi sanh y, sự chấm dứt của ái, sự ly tham, sự đoạn diệt, Niết Bàn.' Đó là cách một vị Tỷ-kheo có thể đạt được một trạng thái định như thế này. Vị ấy sẽ không nhận thức đất trong đất, nước trong nước, lửa trong lửa, hay gió trong gió. Và vị ấy sẽ không nhận thức Không Vô Biên Xứ trong Không Vô Biên Xứ, Thức Vô Biên Xứ trong Thức Vô Biên Xứ, Vô Sở Hữu Xứ trong Vô Sở Hữu Xứ, hay Phi Tưởng Phi Phi Tưởng Xứ trong Phi Tưởng Phi Phi Tưởng Xứ. Vị ấy sẽ không nhận thức thế giới này trong thế giới này, hay thế giới khác trong thế giới khác. Và vị ấy sẽ không nhận thức những gì được thấy, nghe, suy nghĩ, biết, đạt được, tìm kiếm, hay khám phá bởi tâm. Và tuy nhiên vị ấy vẫn nhận thức."
 
 <!--pg-->
-### AN 11.20 Định (Thứ Ba) *Tatiyasamādhisutta*{#20}
-
+### AN 11.20 Định (Thứ Ba) *Tatiyasamādhisutta* {#20}
 Rồi một số vị Tỷ-kheo đến gặp Tôn giả Xá-lợi-phất (Sāriputta), và chào hỏi ngài. Sau khi chào hỏi và nói chuyện xã giao xong, họ ngồi xuống một bên và thưa với ngài:
 
 "Thưa Tôn giả, liệu có thể nào một vị Tỷ-kheo đạt được một trạng thái định như thế này không? Vị ấy sẽ không nhận thức đất trong đất, nước trong nước, lửa trong lửa, hay gió trong gió. Và vị ấy sẽ không nhận thức Không Vô Biên Xứ trong Không Vô Biên Xứ, Thức Vô Biên Xứ trong Thức Vô Biên Xứ, Vô Sở Hữu Xứ trong Vô Sở Hữu Xứ, hay Phi Tưởng Phi Phi Tưởng Xứ trong Phi Tưởng Phi Phi Tưởng Xứ. Vị ấy sẽ không nhận thức thế giới này trong thế giới này, hay thế giới khác trong thế giới khác. Và vị ấy sẽ không nhận thức những gì được thấy, nghe, suy nghĩ, biết, đạt được, tìm kiếm, hay khám phá bởi tâm. Và tuy nhiên vị ấy vẫn nhận thức."
@@ -289,8 +279,7 @@ Rồi một số vị Tỷ-kheo đến gặp Tôn giả Xá-lợi-phất (Sārip
 "Đó là khi một vị Tỷ-kheo nhận thức: 'Đây là sự an tịnh; đây là sự cao thượng—nghĩa là, sự lắng dịu của mọi hành, sự từ bỏ mọi sanh y, sự chấm dứt của ái, sự ly tham, sự đoạn diệt, Niết Bàn.' Đó là cách một vị Tỷ-kheo có thể đạt được một trạng thái định như thế này. Vị ấy sẽ không nhận thức đất trong đất, nước trong nước, lửa trong lửa, hay gió trong gió. Và vị ấy sẽ không nhận thức Không Vô Biên Xứ trong Không Vô Biên Xứ, Thức Vô Biên Xứ trong Thức Vô Biên Xứ, Vô Sở Hữu Xứ trong Vô Sở Hữu Xứ, hay Phi Tưởng Phi Phi Tưởng Xứ trong Phi Tưởng Phi Phi Tưởng Xứ. Vị ấy sẽ không nhận thức thế giới này trong thế giới này, hay thế giới khác trong thế giới khác. Và vị ấy sẽ không nhận thức những gì được thấy, nghe, suy nghĩ, biết, đạt được, tìm kiếm, hay khám phá bởi tâm. Và tuy nhiên vị ấy vẫn nhận thức."
 
 <!--pg-->
-### AN 11.21 Định (Thứ Tư) *Catutthasamādhisutta*{#21}
-
+### AN 11.21 Định (Thứ Tư) *Catutthasamādhisutta* {#21}
 Tại đó, Tôn giả Xá-lợi-phất gọi các vị Tỷ-kheo:
 
 "Liệu có thể nào, thưa chư hiền giả, một vị Tỷ-kheo đạt được một trạng thái định như thế này không? Vị ấy sẽ không nhận thức đất trong đất, nước trong nước, lửa trong lửa, hay gió trong gió. Và vị ấy sẽ không nhận thức Không Vô Biên Xứ trong Không Vô Biên Xứ, Thức Vô Biên Xứ trong Thức Vô Biên Xứ, Vô Sở Hữu Xứ trong Vô Sở Hữu Xứ, hay Phi Tưởng Phi Phi Tưởng Xứ trong Phi Tưởng Phi Phi Tưởng Xứ. Vị ấy sẽ không nhận thức thế giới này trong thế giới này, hay thế giới khác trong thế giới khác. Và vị ấy sẽ không nhận thức những gì được thấy, nghe, suy nghĩ, biết, đạt được, tìm kiếm, hay khám phá bởi tâm. Và tuy nhiên vị ấy vẫn nhận thức."

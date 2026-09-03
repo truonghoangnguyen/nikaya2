@@ -1,7 +1,6 @@
 # Phẩm về các Vị Vua
 
-### AN 5.131 Vận Hành Quyền Lực (1) *Paṭhamacakkānuvattanasutta*{#131}
-
+### AN 5.131 Vận Hành Quyền Lực (1) *Paṭhamacakkānuvattanasutta* {#131}
 "Này các Tỳ kheo, sở hữu năm yếu tố, một vị *chuyển luân vương* (wheel-turning monarch / vị vua cai trị bằng bánh xe pháp) vận hành quyền lực chỉ theo đúng pháp. Và quyền lực này không thể bị lật đổ bởi bất kỳ kẻ thù nào là con người.
 
 Năm yếu tố đó là gì? Một vị chuyển luân vương biết điều gì là đúng, biết nguyên tắc, biết điều độ, biết đúng thời điểm, và biết hội chúng. Một vị chuyển luân vương sở hữu năm yếu tố này vận hành quyền lực chỉ theo đúng pháp. Và quyền lực này không thể bị lật đổ bởi bất kỳ kẻ thù nào là con người.
@@ -11,8 +10,7 @@ Tương tự như vậy, sở hữu năm phẩm chất, một bậc *Như Lai* (
 Năm phẩm chất đó là gì? Một bậc Như Lai biết điều gì là đúng, biết nguyên tắc, biết điều độ, biết đúng thời điểm, và biết hội chúng. Sở hữu năm phẩm chất này, một bậc Như Lai, một bậc A-la-hán, một bậc Chánh Đẳng Giác chuyển vận Bánh Xe Pháp tối thượng chỉ theo đúng pháp. Và bánh xe đó không thể bị quay ngược lại bởi bất kỳ sa môn, bà la môn, chư thiên, Ma vương, thiên thần nào, hay bởi bất kỳ ai trên thế gian."
 
 <!--pg-->
-### AN 5.132 Vận Hành Quyền Lực (2) *Dutiyacakkānuvattanasutta*{#132}
-
+### AN 5.132 Vận Hành Quyền Lực (2) *Dutiyacakkānuvattanasutta* {#132}
 "Này các Tỳ kheo, sở hữu năm yếu tố, con trưởng của một vị chuyển luân vương tiếp tục vận hành quyền lực do cha mình khởi xướng chỉ theo đúng pháp. Và quyền lực này không thể bị lật đổ bởi bất kỳ kẻ thù nào là con người.
 
 Năm yếu tố đó là gì? Con trưởng của một vị chuyển luân vương biết điều gì là đúng, biết nguyên tắc, biết điều độ, biết đúng thời điểm, và biết hội chúng. Con trưởng của một vị chuyển luân vương sở hữu năm yếu tố này tiếp tục vận hành quyền lực do cha mình khởi xướng chỉ theo đúng pháp. Và quyền lực này không thể bị lật đổ bởi bất kỳ kẻ thù nào là con người.
@@ -22,8 +20,7 @@ Tương tự như vậy, sở hữu năm phẩm chất, Tôn giả Sāriputta (X
 Năm phẩm chất đó là gì? Tôn giả Sāriputta biết điều gì là đúng, biết nguyên tắc, biết điều độ, biết đúng thời điểm, và biết hội chúng. Sở hữu năm phẩm chất này, Tôn giả Sāriputta tiếp tục chuyển vận đúng đắn Bánh Xe Pháp tối thượng đã được bậc Như Lai chuyển vận. Và bánh xe đó không thể bị quay ngược lại bởi bất kỳ sa môn, bà la môn, chư thiên, Ma vương, thiên thần nào, hay bởi bất kỳ ai trên thế gian."
 
 <!--pg-->
-### AN 5.133 Vị Vua Đúng Pháp *Dhammarājāsutta*{#133}
-
+### AN 5.133 Vị Vua Đúng Pháp *Dhammarājāsutta* {#133}
 "Này các Tỳ kheo, ngay cả một vị chuyển luân vương, một vị vua công chính và đúng pháp, cũng không vận hành quyền lực mà không có vị vua của riêng mình."
 
 Khi Ngài nói điều này, một trong các Tỳ kheo hỏi Đức Phật: "Bạch Thế Tôn, vậy ai là vua của vị chuyển luân vương, vị vua công chính và đúng pháp?"
@@ -41,8 +38,7 @@ Tương tự như vậy, này Tỳ kheo, một bậc Như Lai, một bậc A-la-
 Khi một bậc Như Lai, một bậc A-la-hán, một bậc Chánh Đẳng Giác đã cung cấp sự bảo vệ và an ninh đúng đắn cho các Tỳ kheo, Tỳ kheo ni, nam cư sĩ và nữ cư sĩ, Ngài chuyển vận Bánh Xe Pháp tối thượng chỉ theo đúng pháp. Và bánh xe đó không thể bị quay ngược lại bởi bất kỳ sa môn, bà la môn, chư thiên, Ma vương, thiên thần nào, hay bởi bất kỳ ai trên thế gian."
 
 <!--pg-->
-### AN 5.134 Ở Bất Cứ Vùng Đất Nào *Yassaṁdisaṁsutta*{#134}
-
+### AN 5.134 Ở Bất Cứ Vùng Đất Nào *Yassaṁdisaṁsutta* {#134}
 "Này các Tỳ kheo, với năm yếu tố, một vị vua Sát-đế-lỵ đã làm lễ đăng quang sống trong lãnh địa của mình, bất kể vị ấy sống ở vùng đất nào.
 
 Năm yếu tố đó là gì?
@@ -74,8 +70,7 @@ Bốn phẩm chất này mang lại sự giải thoát cho vị ấy.
 Với năm phẩm chất này, bao gồm cả sự giải thoát, vị ấy sống trong lãnh địa của mình, bất kể vị ấy sống ở vùng đất nào. Tại sao vậy? Bởi vì đó là cách của những người có tâm giải thoát."
 
 <!--pg-->
-### AN 5.135 Khát Vọng (1) *Paṭhamapatthanāsutta*{#135}
-
+### AN 5.135 Khát Vọng (1) *Paṭhamapatthanāsutta* {#135}
 "Này các Tỳ kheo, con trưởng của một vị vua Sát-đế-lỵ đã làm lễ đăng quang với năm yếu tố sẽ khát vọng ngôi vua. Năm yếu tố đó là gì?
 
 Đó là khi con trưởng của một vị vua Sát-đế-lỵ đã làm lễ đăng quang thuộc dòng dõi thuần khiết cả hai bên cha mẹ, huyết thống trong sạch, không thể bị nghi ngờ hay chê trách cho đến bảy đời tổ tiên.
@@ -107,8 +102,7 @@ Vị ấy nghĩ: 'Ta là người có niềm tin; ta có niềm tin vào sự gi
 Một Tỳ kheo với năm phẩm chất này sẽ khát vọng đoạn trừ các phiền não."
 
 <!--pg-->
-### AN 5.136 Khát Vọng (2) *Dutiyapatthanāsutta*{#136}
-
+### AN 5.136 Khát Vọng (2) *Dutiyapatthanāsutta* {#136}
 "Này các Tỳ kheo, con trưởng của một vị vua Sát-đế-lỵ đã làm lễ đăng quang với năm yếu tố sẽ khát vọng trở thành thái tử nhiếp chính. Năm yếu tố đó là gì?
 
 Đó là khi con trưởng của một vị vua Sát-đế-lỵ đã làm lễ đăng quang thuộc dòng dõi thuần khiết cả hai bên cha mẹ, huyết thống trong sạch, không thể bị nghi ngờ hay chê trách cho đến bảy đời tổ tiên.
@@ -138,20 +132,17 @@ Vị ấy có trí tuệ. Vị ấy có trí tuệ về sự sinh diệt, là th
 Vị ấy nghĩ: 'Ta có đạo đức... đa văn... tỉnh thức... siêng năng... có trí tuệ. Ta có trí tuệ về sự sinh diệt, là thánh thiện, có khả năng thâm nhập, đưa đến sự chấm dứt hoàn toàn khổ đau. Tại sao ta không nên khát vọng đoạn trừ các phiền não?' Một Tỳ kheo với năm phẩm chất này sẽ khát vọng đoạn trừ các phiền não."
 
 <!--pg-->
-### AN 5.137 Ít Ngủ *Appaṁsupatisutta*{#137}
-
+### AN 5.137 Ít Ngủ *Appaṁsupatisutta* {#137}
 "Này các Tỳ kheo, năm hạng người này ngủ ít vào ban đêm, phần lớn là thức. Năm hạng người đó là gì? Một người phụ nữ khao khát một người đàn ông. Một người đàn ông khao khát một người phụ nữ. Một tên trộm khao khát của cải. Một vị vua bận rộn với công việc. Một Tỳ kheo khao khát giải thoát khỏi ách缚. Năm hạng người này ngủ ít vào ban đêm, phần lớn là thức."
 
 <!--pg-->
-### AN 5.138 Ăn Thức Ăn *Bhattādakasutta*{#138}
-
+### AN 5.138 Ăn Thức Ăn *Bhattādakasutta* {#138}
 "Này các Tỳ kheo, một con voi chúa với năm yếu tố ăn thức ăn, chiếm chỗ, thải phân, và nhận phần ăn, nhưng vẫn được coi là một con voi chúa. Năm yếu tố đó là gì? Đó là khi một con voi chúa không thể chịu đựng được các cảnh sắc, âm thanh, mùi hương, vị nếm, và xúc chạm. Một con voi chúa với năm yếu tố này ăn thức ăn, chiếm chỗ, thải phân, và nhận phần ăn, nhưng vẫn được coi là một con voi chúa.
 
 Tương tự như vậy, một Tỳ kheo với năm phẩm chất ăn thức ăn, chiếm chỗ, làm hư giường ghế, và nhận phần ăn, nhưng vẫn được coi là một Tỳ kheo. Năm phẩm chất đó là gì? Đó là khi một Tỳ kheo không thể chịu đựng được các cảnh sắc, âm thanh, mùi hương, vị nếm, và xúc chạm. Một Tỳ kheo với năm phẩm chất này ăn thức ăn, chiếm chỗ, làm hư giường ghế, và nhận phần ăn, nhưng vẫn được coi là một Tỳ kheo."
 
 <!--pg-->
-### AN 5.139 Không Thể Chịu Đựng *Akkhamasutta*{#139}
-
+### AN 5.139 Không Thể Chịu Đựng *Akkhamasutta* {#139}
 "Này các Tỳ kheo, một con voi chúa với năm yếu tố không xứng đáng với vua, không phù hợp để phục vụ vua, và không được coi là một yếu tố của vương quyền. Năm yếu tố đó là gì? Đó là khi một con voi chúa không thể chịu đựng được các cảnh sắc, âm thanh, mùi hương, vị nếm, và xúc chạm.
 
 Và làm thế nào mà một con voi chúa không thể chịu đựng được cảnh sắc? Đó là khi một con voi chúa ra trận bị nao núng và chùn bước khi nhìn thấy đội tượng binh, kỵ binh, xa binh, hay bộ binh. Nó không đứng vững, và không thể lao vào trận chiến. Đó là cách một con voi chúa không thể chịu đựng được cảnh sắc.
@@ -209,8 +200,7 @@ Và làm thế nào mà một Tỳ kheo có thể chịu đựng được xúc c
 Một Tỳ kheo với năm phẩm chất này xứng đáng nhận vật cúng dường, xứng đáng được tiếp đón, xứng đáng nhận vật bố thí, xứng đáng được chắp tay tôn kính, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 5.140 Người Lắng Nghe *Sotasutta*{#140}
-
+### AN 5.140 Người Lắng Nghe *Sotasutta* {#140}
 "Này các Tỳ kheo, một con voi chúa với năm yếu tố xứng đáng với vua, phù hợp để phục vụ vua, và được coi là một yếu tố của vương quyền. Năm yếu tố đó là gì? Một con voi chúa biết lắng nghe, biết phá hủy, biết bảo vệ, biết chịu đựng, và đi nhanh.
 
 Và làm thế nào một con voi chúa biết lắng nghe? Đó là khi một con voi chúa chú ý, hướng tâm, tập trung toàn tâm, và tích cực lắng nghe bất kỳ nhiệm vụ nào mà người huấn luyện voi giao cho nó, dù nó đã từng làm hay chưa. Đó là cách một con voi chúa biết lắng nghe.

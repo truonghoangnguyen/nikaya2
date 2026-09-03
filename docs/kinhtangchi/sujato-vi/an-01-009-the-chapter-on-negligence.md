@@ -1,7 +1,6 @@
 # Phẩm về Sao Nhãng
 
-### AN 1.82--97 *Phẩm Sao Nhãng, v.v.*{#82-97}
-
+### AN 1.82--97 *Phẩm Sao Nhãng, v.v.* {#82-97}
 82\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác tai hại đến như vậy như là *sao nhãng* (negligence / sự lơ là, thiếu chú tâm). Sao nhãng thật tai hại."
 
 <!--pg-->

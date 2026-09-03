@@ -1,7 +1,6 @@
 # Phẩm về Vua Muṇḍa
 
-### AN 5.41 Làm Giàu *Ādiyasutta*{#41}
-
+### AN 5.41 Làm Giàu *Ādiyasutta* {#41}
 Một thời Đức Phật trú gần Sāvatthī, tại vườn ông Jeta, tu viện ông Anāthapiṇḍika. Rồi gia chủ Anāthapiṇḍika đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên. Đức Phật nói với ông:
 
 "Này gia chủ, có năm lý do này để làm giàu. Năm lý do nào?
@@ -41,8 +40,7 @@ Nhưng nếu tài sản mà một thánh đệ tử có được vì năm lý do
 > và họ ra đi để vui hưởng ở cõi trời."
 
 <!--pg-->
-### AN 5.42 Bậc Chân Nhân *Sappurisasutta*{#42}
-
+### AN 5.42 Bậc Chân Nhân *Sappurisasutta* {#42}
 "Này các Tỳ kheo, một *bậc chân nhân* (true person / người chân chính) sinh ra trong một gia đình vì *lợi ích, phúc lợi, và hạnh phúc* (benefit, welfare, and happiness / điều tốt, sự an vui, và niềm vui) của mọi người. Vì lợi ích, phúc lợi, và hạnh phúc của cha mẹ; con cái và vợ/chồng; người hầu, công nhân, và nhân viên; bạn bè và đồng nghiệp; và các sa môn và bà la môn.
 
 Giống như một đám mây mưa lớn, nuôi dưỡng tất cả mùa màng vì lợi ích, phúc lợi, và hạnh phúc của mọi người. Cũng vậy, một bậc chân nhân sinh ra trong một gia đình vì lợi ích, phúc lợi, và hạnh phúc của mọi người...
@@ -61,8 +59,7 @@ Giống như một đám mây mưa lớn, nuôi dưỡng tất cả mùa màng v
 > và bởi *Phạm Thiên* nữa, họ cũng được ca ngợi."
 
 <!--pg-->
-### AN 5.43 Đáng Ưa Thích *Iṭṭhasutta*{#43}
-
+### AN 5.43 Đáng Ưa Thích *Iṭṭhasutta* {#43}
 Rồi gia chủ Anāthapiṇḍika đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông:
 
 "Này gia chủ, có năm điều này, *đáng ưa thích, đáng mong muốn, và đáng hài lòng* (likable, desirable, and agreeable / điều được yêu thích, mong đợi, và chấp nhận) nhưng *khó được* (hard to get / khó đạt được) trên thế gian. Năm điều nào? *Trường thọ*, *sắc đẹp*, *hạnh phúc*, *danh tiếng*, và *cõi trời*. Đây là năm điều, đáng ưa thích, đáng mong muốn, và đáng hài lòng, nhưng khó được trên thế gian.
@@ -95,8 +92,7 @@ Một thánh đệ tử muốn lên cõi trời không nên cầu nguyện cho �
 > được gọi là 'người sáng suốt'."
 
 <!--pg-->
-### AN 5.44 Đáng Hài Lòng *Manāpadāyīsutta*{#44}
-
+### AN 5.44 Đáng Hài Lòng *Manāpadāyīsutta* {#44}
 Một thời Đức Phật trú gần Vesālī, tại Rừng Lớn, trong giảng đường có mái nhọn. Rồi Đức Phật đắp y vào buổi sáng, mang bát và y, đi đến nhà gia chủ Ugga ở Vesālī, nơi ngài ngồi trên chỗ đã soạn sẵn.
 
 Rồi Ugga đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với ngài: "Bạch Thế Tôn, con đã nghe và học điều này trước sự hiện diện của Đức Phật: 'Người cho vật *đáng hài lòng* (agreeable / làm vui lòng) sẽ nhận được vật đáng hài lòng.' Món *cháo hoa sala* của con là đáng hài lòng: xin Đức Phật hãy nhận lấy từ con vì *lòng bi mẫn* (sympathy / lòng thương xót)." Vậy Đức Phật đã nhận lấy vì lòng bi mẫn.
@@ -142,8 +138,7 @@ Rồi, vào lúc đêm khuya, vị trời Ugga huy hoàng, chiếu sáng toàn b
 > bất cứ nơi nào họ tái sinh."
 
 <!--pg-->
-### AN 5.45 Dòng Phước *Puññābhisandasutta*{#45}
-
+### AN 5.45 Dòng Phước *Puññābhisandasutta* {#45}
 "Này các Tỳ kheo, có năm loại *dòng phước* (overflowing merit / phước báu tuôn chảy), *dòng thiện lành* (overflowing goodness / điều tốt lành tuôn chảy) này. Chúng *nuôi dưỡng hạnh phúc* và đưa đến cõi trời, trổ quả hạnh phúc và dẫn đến cõi trời. Chúng dẫn đến những gì đáng ưa thích, đáng mong muốn, đáng hài lòng, đến *phúc lợi và hạnh phúc*.
 
 Năm loại nào? Khi một Tỳ kheo nhập và an trú trong *tâm giải thoát vô lượng* (limitless immersion of heart / trạng thái tâm không giới hạn) trong khi sử dụng: *y áo*... *vật thực khất thực*... *chỗ ở*... *giường và ghế*... *dược phẩm và vật dụng cho người bệnh*, dòng phước cho *người cúng dường* là vô lượng...
@@ -167,13 +162,11 @@ Cũng vậy, khi một thánh đệ tử có được năm loại dòng phước
 > như các dòng sông mang nước về biển."
 
 <!--pg-->
-### AN 5.46 Thành Tựu *Sampadāsutta*{#46}
-
+### AN 5.46 Thành Tựu *Sampadāsutta* {#46}
 "Này các Tỳ kheo, có năm *thành tựu* (accomplishments / sự đạt được). Năm thành tựu nào? Thành tựu về *niềm tin*, *giới hạnh*, *học hỏi*, *bố thí*, và *trí tuệ*. Đây là năm thành tựu."
 
 <!--pg-->
-### AN 5.47 Tài Sản *Dhanasutta*{#47}
-
+### AN 5.47 Tài Sản *Dhanasutta* {#47}
 "Này các Tỳ kheo, có năm loại *tài sản* này. Năm loại nào? Tài sản *niềm tin*, *giới hạnh*, *học hỏi*, *bố thí*, và *trí tuệ*.
 
 Và tài sản niềm tin là gì? Đó là khi một thánh đệ tử có niềm tin vào *sự giác ngộ* của *Đấng Như Lai* (Realized One / người đã nhận ra chân lý): '*Đức Thế Tôn đó là bậc A La Hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn*.' Đây được gọi là tài sản niềm tin.
@@ -204,8 +197,7 @@ Và tài sản trí tuệ là gì? Đó là khi một thánh đệ tử có trí
 > *ghi nhớ lời dạy của chư Phật*."
 
 <!--pg-->
-### AN 5.48 Những Điều Không Thể Có Được *Alabbhanīyaṭhānasutta*{#48}
-
+### AN 5.48 Những Điều Không Thể Có Được *Alabbhanīyaṭhānasutta* {#48}
 "Này các Tỳ kheo, có năm điều *không thể có được* bởi bất kỳ *sa môn, bà la môn, chư thiên, Ma vương, Phạm thiên* nào hay bởi bất kỳ ai trên thế gian. Năm điều nào? Rằng người *phải chịu già* sẽ không già đi. ... Rằng người *phải chịu bệnh* sẽ không bị bệnh. ... Rằng người *phải chịu chết* sẽ không chết. ... Rằng người *phải chịu chấm dứt* sẽ không chấm dứt. ... Rằng người *phải chịu hoại diệt* sẽ không hoại diệt. ...
 
 Một *kẻ phàm phu ít học* (unlearned ordinary person / người thường không hiểu biết) có người phải chịu già mà người đó già đi. Nhưng họ không suy ngẫm về tuổi già: 'Không chỉ riêng ta có người phải chịu già mà người đó già đi. Chừng nào *chúng sinh* (sentient beings / các loài hữu tình) còn *đến và đi, chết đi và tái sinh*, tất cả họ đều có người phải chịu già mà người đó già đi. Nếu ta *sầu muộn, than khóc, đấm ngực và rơi vào hoang mang*, chỉ vì người phải chịu già già đi, ta sẽ *chán ăn và vẻ ngoài tiều tụy*. *Công việc không hoàn thành, kẻ thù được khuyến khích, bạn bè nản lòng*.' Và vì thế, khi người phải chịu già già đi, họ sầu muộn, than khóc, đấm ngực và rơi vào hoang mang. Đây được gọi là kẻ phàm phu ít học bị trúng *mũi tên độc của sầu muộn*, kẻ chỉ *tự hành hạ mình*.
@@ -239,8 +231,7 @@ Lại nữa, một thánh đệ tử có học có người phải chịu bệnh
 > '*Nghiệp thật mạnh mẽ. Ta có thể làm gì bây giờ?*'"
 
 <!--pg-->
-### AN 5.49 Vua Nước Kosala *Kosalasutta*{#49}
-
+### AN 5.49 Vua Nước Kosala *Kosalasutta* {#49}
 Một thời Đức Phật trú gần Sāvatthī, tại vườn ông Jeta, tu viện ông Anāthapiṇḍika. Rồi Vua Pasenadi nước Kosala đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên.
 
 Rồi một người đàn ông đến gần vua và thì thầm vào tai ông, "Tâu Bệ hạ, Hoàng hậu Mallikā đã băng hà."
@@ -250,8 +241,7 @@ Khi nghe điều này, Vua Pasenadi đau khổ và buồn bã. Ông ngồi với
 Biết được điều này, Đức Phật nói với ông: "Đại vương, có năm điều không thể có được bởi bất kỳ sa môn, bà la môn, chư thiên, Ma vương, Phạm thiên nào hay bởi bất kỳ ai trên thế gian. Năm điều nào? Rằng người phải chịu già sẽ không già đi. ... Sầu muộn và than khóc không mang lại chút lợi ích nào ... 'Nghiệp thật mạnh mẽ. Ta có thể làm gì bây giờ?'"
 
 <!--pg-->
-### AN 5.50 Cùng Nārada *Nāradasutta*{#50}
-
+### AN 5.50 Cùng Nārada *Nāradasutta* {#50}
 Một thời Tôn giả Nārada trú gần Pāṭaliputta, tại Tu viện Kê Viên (Chicken Monastery).
 
 Bấy giờ, Hoàng hậu Bhaddā *thân yêu và quý mến* của Vua Muṇḍa vừa mới qua đời. Và kể từ đó, nhà vua không *tắm rửa, xức dầu thơm, ăn uống, hay lo việc triều chính*. Ngày đêm ông *đau buồn bên thi hài Hoàng hậu Bhaddā*.

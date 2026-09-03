@@ -1,7 +1,6 @@
 # Phẩm về Người Chiến Sĩ
 
-### AN 3.133 Người Chiến Sĩ  *Yodhājīvasutta*{#133}
-
+### AN 3.133 Người Chiến Sĩ  *Yodhājīvasutta* {#133}
 "Này các Tỳ kheo, một chiến sĩ có ba yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một phần của vương quyền. Ba yếu tố nào? Người ấy là xạ thủ bắn xa, xạ thủ bắn trúng đích, người phá vỡ được các vật thể lớn. Một chiến sĩ có ba yếu tố này thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một phần của vương quyền.
 
 Cũng vậy, một Tỳ kheo có ba yếu tố thì xứng đáng được cúng dường, xứng đáng được tiếp đón, xứng đáng được bố thí, xứng đáng được chắp tay tôn kính, và là ruộng phước vô thượng cho đời. Ba yếu tố nào? Họ là người bắn xa, người bắn trúng đích, và người phá vỡ được các vật thể lớn.
@@ -15,18 +14,15 @@ Và thế nào là một Tỳ kheo phá vỡ được các vật thể lớn? Đ
 Một Tỳ kheo có ba phẩm chất này thì xứng đáng được cúng dường, xứng đáng được tiếp đón, xứng đáng được bố thí, xứng đáng được chắp tay tôn kính, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 3.134 Hội Chúng  *Parisāsutta*{#134}
-
+### AN 3.134 Hội Chúng  *Parisāsutta* {#134}
 "Này các Tỳ kheo, có ba loại hội chúng này. Ba loại nào? Hội chúng giỏi nói lời hoa mỹ, hội chúng giỏi chất vấn, và hội chúng được giáo dục đến mức độ cao nhất. Đó là ba loại hội chúng."
 
 <!--pg-->
-### AN 3.135 Người Bạn  *Mittasutta*{#135}
-
+### AN 3.135 Người Bạn  *Mittasutta* {#135}
 "Này các Tỳ kheo, các con nên kết giao với người bạn có ba yếu tố. Ba yếu tố nào? Họ cho những gì khó cho, họ làm những gì khó làm, và họ chịu đựng những gì khó chịu đựng. Các con nên kết giao với người bạn có ba yếu tố này."
 
 <!--pg-->
-### AN 3.136 Sự Xuất Hiện  *Uppādāsutta*{#136}
-
+### AN 3.136 Sự Xuất Hiện  *Uppādāsutta* {#136}
 "Này các Tỳ kheo, dù các bậc *Như Lai* (Realized Ones / bậc giác ngộ) có xuất hiện hay không, quy luật tự nhiên này vẫn tồn tại, sự ổn định của các nguyên lý tự nhiên này, tính bất biến của các nguyên lý tự nhiên này: tất cả *các pháp hữu vi* (conditions / các pháp do duyên tạo) là *vô thường* (impermanent / không thường còn). Một bậc Như Lai hiểu rõ và thấu suốt điều này, rồi Ngài giải thích, giảng dạy, khẳng định, thiết lập, làm rõ, phân tích và tiết lộ rằng: 'Tất cả các pháp hữu vi là vô thường.'
 
 Dù các bậc Như Lai có xuất hiện hay không, quy luật tự nhiên này vẫn tồn tại, sự ổn định của các nguyên lý tự nhiên này, tính bất biến của các nguyên lý tự nhiên này: tất cả các pháp hữu vi là *khổ*. Một bậc Như Lai hiểu rõ và thấu suốt điều này, rồi Ngài giải thích, giảng dạy, khẳng định, thiết lập, làm rõ, phân tích và tiết lộ rằng: 'Tất cả các pháp hữu vi là khổ.'
@@ -34,8 +30,7 @@ Dù các bậc Như Lai có xuất hiện hay không, quy luật tự nhiên nà
 Dù các bậc Như Lai có xuất hiện hay không, quy luật tự nhiên này vẫn tồn tại, sự ổn định của các nguyên lý tự nhiên này, tính bất biến của các nguyên lý tự nhiên này: tất cả các pháp là *vô ngã* (not-self / không có tự ngã). Một bậc Như Lai hiểu rõ và thấu suốt điều này, rồi Ngài giải thích, giảng dạy, khẳng định, thiết lập, làm rõ, phân tích và tiết lộ rằng: 'Tất cả các pháp là vô ngã.'"
 
 <!--pg-->
-### AN 3.137 Áo Choàng Lông  *Kesakambalasutta*{#137}
-
+### AN 3.137 Áo Choàng Lông  *Kesakambalasutta* {#137}
 "Này các Tỳ kheo, áo choàng làm bằng lông được cho là loại vải dệt tệ nhất. Nó lạnh khi trời lạnh, nóng khi trời nóng, xấu xí, hôi hám và khó chịu khi chạm vào. Cũng vậy, giáo lý của nhà tu khổ hạnh cầm gậy tre được cho là tệ nhất trong tất cả các học thuyết của các nhà tu khổ hạnh và Bà-la-môn khác nhau.
 
 Nhà tu khổ hạnh cầm gậy tre, kẻ ngu ngốc đó, có học thuyết và quan điểm này: 'Không có sức mạnh trong *nghiệp, hành động, và nỗ lực*' (deeds, action, or energy / hành động, việc làm, và sự nỗ lực).
@@ -49,17 +44,14 @@ Ta cũng vậy, bậc A-la-hán, bậc Chánh Đẳng Giác trong hiện tại, 
 Giống như một cái bẫy đặt ở cửa sông, sẽ mang lại tổn hại, đau khổ, tai họa và thảm họa cho nhiều loài cá. Cũng vậy, kẻ vô ích là nhà tu khổ hạnh cầm gậy tre kia, đối với Ta, dường như là một cái bẫy cho con người. Hắn đã xuất hiện trên thế gian này vì sự tổn hại, đau khổ, tai họa và thảm họa của nhiều chúng sinh."
 
 <!--pg-->
-### AN 3.138 Sự Thành Tựu  *Sampadāsutta*{#138}
-
+### AN 3.138 Sự Thành Tựu  *Sampadāsutta* {#138}
 "Này các Tỳ kheo, có ba sự thành tựu. Ba sự nào? Thành tựu về *tín* (faith / niềm tin), *giới* (ethics / đạo đức, giới hạnh), và *tuệ* (wisdom / trí tuệ). Đó là ba sự thành tựu."
 
-### AN 3.139 Sự Tăng Trưởng  *Vuddhisutta*{#139}
-
+### AN 3.139 Sự Tăng Trưởng  *Vuddhisutta* {#139}
 "Này các Tỳ kheo, có ba loại tăng trưởng. Ba loại nào? Tăng trưởng về tín, giới, và tuệ. Đó là ba loại tăng trưởng."
 
 <!--pg-->
-### AN 3.140 Ngựa Hoang  *Assakhaḷuṅkasutta*{#140}
-
+### AN 3.140 Ngựa Hoang  *Assakhaḷuṅkasutta* {#140}
 "Này các Tỳ kheo, Ta sẽ dạy các con về ba con ngựa hoang và ba hạng người hoang dã. Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 
 "Vâng, thưa Thế Tôn," họ đáp. Đức Phật nói điều này:
@@ -79,8 +71,7 @@ Và thế nào là một người hoang dã nhanh nhạy, đẹp và cân đối
 Đó là ba hạng người hoang dã."
 
 <!--pg-->
-### AN 3.141 Ngựa Giỏi  *Assaparassasutta*{#141}
-
+### AN 3.141 Ngựa Giỏi  *Assaparassasutta* {#141}
 "Này các Tỳ kheo, Ta sẽ dạy các con về ba con ngựa giỏi và ba hạng người xuất sắc. Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 
 "Vâng, thưa Thế Tôn," họ đáp. Đức Phật nói điều này:
@@ -100,8 +91,7 @@ Và thế nào là một người xuất sắc nhanh nhạy, đẹp và cân đ�
 Đó là ba hạng người xuất sắc."
 
 <!--pg-->
-### AN 3.142 Ngựa Thuần Chủng  *Assājānīyasutta*{#142}
-
+### AN 3.142 Ngựa Thuần Chủng  *Assājānīyasutta* {#142}
 "Này các Tỳ kheo, Ta sẽ dạy các con về ba con ngựa thuần chủng tốt, và ba hạng người thuần chủng tốt. Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 
 "Vâng, thưa Thế Tôn," họ đáp. Đức Phật nói điều này:
@@ -117,8 +107,7 @@ Và thế nào là một người thuần chủng tốt... nhanh nhạy, đẹp 
 Đó là ba hạng người thuần chủng tốt."
 
 <!--pg-->
-### AN 3.143 Tại Nơi Nuôi Công (1)  *Paṭhamamoranivāpasutta*{#143}
-
+### AN 3.143 Tại Nơi Nuôi Công (1)  *Paṭhamamoranivāpasutta* {#143}
 Một thời Đức Phật trú gần Rājagaha (Vương Xá), tại tu viện của các du sĩ ở nơi nuôi công. Tại đó, Đức Phật gọi các Tỳ kheo: "Này các Tỳ kheo!"
 
 "Bạch Thế Tôn," họ đáp. Đức Phật nói điều này:
@@ -128,15 +117,13 @@ Một thời Đức Phật trú gần Rājagaha (Vương Xá), tại tu viện c
 Một Tỳ kheo có ba phẩm chất này đã đạt đến mục đích tối hậu, vô thượng an ổn khỏi các ách, phạm hạnh tối hậu, mục tiêu tối hậu. Họ là bậc tối thượng giữa chư thiên và loài người."
 
 <!--pg-->
-### AN 3.144 Tại Nơi Nuôi Công (2)  *Dutiyamoranivāpasutta*{#144}
-
+### AN 3.144 Tại Nơi Nuôi Công (2)  *Dutiyamoranivāpasutta* {#144}
 "Này các Tỳ kheo, một Tỳ kheo có ba phẩm chất đã đạt đến mục đích tối hậu, vô thượng an ổn khỏi các ách, phạm hạnh tối hậu, mục tiêu tối hậu. Họ là bậc tối thượng giữa chư thiên và loài người. Ba phẩm chất nào? Biểu hiện *thần thông* (psychic power / năng lực siêu nhiên), biểu hiện *ký thuyết thần thông* (demonstration of revealing / biểu hiện khả năng đọc tâm, giải thích), và biểu hiện *giáo giới thần thông* (demonstration of instruction / biểu hiện khả năng giáo huấn).
 
 Một Tỳ kheo có ba phẩm chất này đã đạt đến mục đích tối hậu, vô thượng an ổn khỏi các ách, phạm hạnh tối hậu, mục tiêu tối hậu. Họ là bậc tối thượng giữa chư thiên và loài người."
 
 <!--pg-->
-### AN 3.145 Tại Nơi Nuôi Công (3)  *Tatiyamoranivāpasutta*{#145}
-
+### AN 3.145 Tại Nơi Nuôi Công (3)  *Tatiyamoranivāpasutta* {#145}
 "Này các Tỳ kheo, một Tỳ kheo có ba phẩm chất đã đạt đến mục đích tối hậu, vô thượng an ổn khỏi các ách, phạm hạnh tối hậu, mục tiêu tối hậu. Họ là bậc tối thượng giữa chư thiên và loài người. Ba phẩm chất nào? *Chánh kiến* (right view / thấy biết đúng đắn), *chánh trí* (right knowledge / hiểu biết đúng đắn), và *chánh giải thoát* (right freedom / sự giải thoát đúng đắn).
 
 Một Tỳ kheo có ba phẩm chất này đã đạt đến mục đích tối hậu, vô thượng an ổn khỏi các ách, phạm hạnh tối hậu, mục tiêu tối hậu. Họ là bậc tối thượng giữa chư thiên và loài người."

@@ -1,7 +1,6 @@
 # Phẩm về Những Mối Nguy Hiểm
 
-### AN 4.121 Tự Trách *Attānuvādasutta*{#121}
-
+### AN 4.121 Tự Trách *Attānuvādasutta* {#121}
 "Này các Tỳ kheo, có bốn nỗi sợ hãi này. Bốn nỗi sợ hãi nào? Sợ bị tự trách, sợ bị người khác chê trách, sợ bị trừng phạt, và sợ bị tái sinh vào cõi dữ.
 
 Và này các Tỳ kheo, thế nào là sợ bị tự trách? Đó là khi một người suy xét: 'Nếu ta làm những điều xấu ác qua thân, khẩu, ý, chẳng phải ta sẽ tự trách mình về hành vi của mình sao?' Vì sợ bị tự trách, người ấy từ bỏ hành vi xấu ác qua thân, khẩu, ý, và phát triển hành vi tốt đẹp qua thân, khẩu, ý, giữ cho mình trong sạch. Đây gọi là sợ bị tự trách.
@@ -17,8 +16,7 @@ Và này các Tỳ kheo, thế nào là sợ bị tái sinh vào cõi dữ? Đó
 Đó là bốn nỗi sợ hãi."
 
 <!--pg-->
-### AN 4.122 Nguy Hiểm Từ Sóng *Ūmibhayasutta*{#122}
-
+### AN 4.122 Nguy Hiểm Từ Sóng *Ūmibhayasutta* {#122}
 "Này các Tỳ kheo, bất cứ ai xuống nước nên lường trước bốn mối nguy hiểm. Bốn mối nguy hiểm nào? Nguy hiểm từ sóng, nguy hiểm từ cá sấu, nguy hiểm từ xoáy nước, và nguy hiểm từ cá mập.
 
 Đó là bốn mối nguy hiểm mà bất cứ ai xuống nước nên lường trước. Cũng vậy, một người thiện gia nam tử xuất gia từ bỏ đời sống thế tục, sống đời không gia đình trong giáo pháp và giới luật này nên lường trước bốn mối nguy hiểm. Bốn mối nguy hiểm nào? Nguy hiểm từ sóng, nguy hiểm từ cá sấu, nguy hiểm từ xoáy nước, và nguy hiểm từ cá mập.
@@ -34,8 +32,7 @@ Và này các Tỳ kheo, thế nào là nguy hiểm từ cá mập? Đó là khi
 Đó là bốn mối nguy hiểm mà một người thiện gia nam tử xuất gia từ bỏ đời sống thế tục, sống đời không gia đình trong giáo pháp và giới luật này nên lường trước."
 
 <!--pg-->
-### AN 4.123 Khác Biệt (1) *Paṭhamamānākaraṇasutta*{#123}
-
+### AN 4.123 Khác Biệt (1) *Paṭhamamānākaraṇasutta* {#123}
 "Này các Tỳ kheo, bốn hạng người này có mặt ở trên đời. Bốn hạng người nào?
 
 Có người, ly dục, ly *bất thiện pháp* (unskillful qualities / những trạng thái tâm tiêu cực, có hại), chứng và trú *thiền* (absorption / trạng thái nhập định) thứ nhất, một trạng thái hỷ lạc do ly dục sinh, có *tầm và tứ* (placing the mind and keeping it connected / sự hướng tâm đến đối tượng và sự duy trì tâm trên đối tượng). Người ấy thích thú, ưa thích và cảm thấy thỏa mãn với trạng thái đó. Nếu người ấy an trú trong đó, chuyên tâm vào đó, thường xuyên hành thiền về nó mà không để mất đi, khi mệnh chung, người ấy được tái sinh làm bạn đồng hành với chư Thiên cõi Phạm Chúng Thiên. Tuổi thọ của chư Thiên cõi Phạm Chúng Thiên là một kiếp. Một *phàm phu* (ordinary person / người chưa giác ngộ) ở lại đó cho đến khi hết tuổi thọ của chư Thiên ấy, rồi họ đi vào địa ngục, súc sinh hay ngạ quỷ. Nhưng một đệ tử của Đức Phật ở lại đó cho đến khi hết tuổi thọ của chư Thiên ấy, rồi vị ấy nhập Niết Bàn ngay trong đời sống ấy. Đây là sự khác biệt giữa một vị Thánh đệ tử đa văn và một kẻ phàm phu ít nghe, nghĩa là, khi có một cảnh giới tái sinh.
@@ -49,8 +46,7 @@ Lại nữa, có người, do xả lạc, xả khổ, chấm dứt hỷ ưu đã
 Đó là bốn hạng người có mặt ở trên đời."
 
 <!--pg-->
-### AN 4.124 Khác Biệt (2) *Dutiyanānākaraṇasutta*{#124}
-
+### AN 4.124 Khác Biệt (2) *Dutiyanānākaraṇasutta* {#124}
 "Này các Tỳ kheo, bốn hạng người này có mặt ở trên đời. Bốn hạng người nào?
 
 Có người, ly dục, ly bất thiện pháp, chứng và trú thiền thứ nhất... Người ấy quán các pháp ở đó—thuộc *sắc, thọ, tưởng, hành, thức* (form, feeling, perception, choices, and consciousness / năm nhóm yếu tố cấu thành con người: vật chất, cảm giác, tri giác, tâm hành, nhận thức)—là *vô thường, khổ, vô ngã* (impermanent, suffering, not-self / ba đặc tính chung của mọi hiện hữu: không thường còn, khổ đau, không có tự ngã), là bệnh, là ung nhọt, là mũi tên, là bất hạnh, là phiền não, là ngoại vật, là hoại diệt, là trống không, là vô ngã. Khi thân hoại mạng chung, sau khi chết, người ấy được tái sinh làm bạn đồng hành với chư Thiên cõi Tịnh Cư. Sự tái sinh này không chung với hàng phàm phu.
@@ -60,8 +56,7 @@ Lại nữa, có người, sau khi làm lắng dịu tầm và tứ, chứng và
 Đó là bốn hạng người có mặt ở trên đời."
 
 <!--pg-->
-### AN 4.125 Từ Tâm (1) *Paṭhamamettāsutta*{#125}
-
+### AN 4.125 Từ Tâm (1) *Paṭhamamettāsutta* {#125}
 "Này các Tỳ kheo, bốn hạng người này có mặt ở trên đời. Bốn hạng người nào?
 
 Thứ nhất, một người hành thiền biến mãn tâm *từ* (love / lòng yêu thương, mong muốn chúng sinh được an lạc) đến một phương, rồi phương thứ hai, phương thứ ba, phương thứ tư. Cũng vậy, hướng lên trên, xuống dưới, bề ngang, khắp nơi, cùng khắp, người ấy biến mãn cả thế giới với tâm từ—dồi dào, rộng lớn, vô lượng, không hận, không sân. Người ấy thích thú, ưa thích và cảm thấy thỏa mãn với trạng thái đó. Nếu người ấy an trú trong đó, chuyên tâm vào đó, thường xuyên hành thiền về nó mà không để mất đi, khi mệnh chung, người ấy được tái sinh làm bạn đồng hành với chư Thiên cõi Phạm Chúng Thiên. Tuổi thọ của chư Thiên cõi Phạm Chúng Thiên là một kiếp. Một phàm phu ở lại đó cho đến khi hết tuổi thọ của chư Thiên ấy, rồi họ đi vào địa ngục, súc sinh hay ngạ quỷ. Nhưng một đệ tử của Đức Phật ở lại đó cho đến khi hết tuổi thọ của chư Thiên ấy, rồi vị ấy nhập Niết Bàn ngay trong đời sống ấy. Đây là sự khác biệt giữa một vị Thánh đệ tử đa văn và một kẻ phàm phu ít nghe, nghĩa là, khi có một cảnh giới tái sinh.
@@ -71,8 +66,7 @@ Lại nữa, một người hành thiền biến mãn tâm *bi* (compassion / l�
 Đó là bốn hạng người có mặt ở trên đời."
 
 <!--pg-->
-### AN 4.126 Từ Tâm (2) *Dutiyamettāsutta*{#126}
-
+### AN 4.126 Từ Tâm (2) *Dutiyamettāsutta* {#126}
 "Này các Tỳ kheo, bốn hạng người này có mặt ở trên đời. Bốn hạng người nào?
 
 Thứ nhất, một người hành thiền biến mãn tâm từ đến một phương, rồi phương thứ hai, phương thứ ba, phương thứ tư. Cũng vậy, hướng lên trên, xuống dưới, bề ngang, khắp nơi, cùng khắp, người ấy biến mãn cả thế giới với tâm từ—dồi dào, rộng lớn, vô lượng, không hận, không sân. Người ấy quán các pháp ở đó—thuộc sắc, thọ, tưởng, hành, thức—là vô thường, là khổ, là bệnh, là ung nhọt, là mũi tên, là bất hạnh, là phiền não, là ngoại vật, là hoại diệt, là trống không, là vô ngã. Khi thân hoại mạng chung, sau khi chết, người ấy được tái sinh làm bạn đồng hành với chư Thiên cõi Tịnh Cư. Sự tái sinh này không chung với hàng phàm phu.
@@ -82,8 +76,7 @@ Lại nữa, một người hành thiền biến mãn tâm bi... hỷ... xả (*
 Đó là bốn hạng người có mặt ở trên đời."
 
 <!--pg-->
-### AN 4.127 Điều Phi Thường về Như Lai (1) *Paṭhamatathāgataacchariyasutta*{#127}
-
+### AN 4.127 Điều Phi Thường về Như Lai (1) *Paṭhamatathāgataacchariyasutta* {#127}
 "Này các Tỳ kheo, với sự xuất hiện của một vị Như Lai, bậc *A-la-hán* (perfected one / bậc đã giác ngộ hoàn toàn, thoát khỏi sinh tử luân hồi), bậc *Chánh Đẳng Giác* (fully awakened Buddha / bậc tự mình giác ngộ hoàn toàn và chỉ dạy cho chúng sinh), bốn điều phi thường và kỳ diệu xuất hiện. Bốn điều nào?
 
 Khi vị *Bồ-tát* (being intent on awakening / chúng sinh đang trên đường tu tập để thành Phật) từ cõi trời Đâu Suất mệnh chung, ngài nhập vào bụng mẹ, chánh niệm và tỉnh giác. Và khi ấy—trong thế giới này cùng với chư Thiên, Ma vương, Phạm thiên, cùng quần chúng *Sa-môn* (ascetics / những người tu hành, khất sĩ), *Bà-la-môn* (brahmins / giai cấp tu sĩ, trí thức trong xã hội Ấn Độ cổ), chư Thiên và loài người—một ánh sáng vô lượng, huy hoàng xuất hiện, vượt xa uy quang của chư Thiên. Ngay cả trong khoảng không gian giữa các thế giới, trống rỗng, tăm tối—nơi mà ánh sáng của mặt trăng và mặt trời, dù mãnh liệt và quyền năng đến đâu, cũng không thể chiếu tới—một ánh sáng vô lượng, huy hoàng xuất hiện, vượt xa uy quang của chư Thiên. Và các chúng sinh tái sinh ở đó nhận ra nhau nhờ ánh sáng ấy: 'Ồ, hóa ra có những chúng sinh khác đã tái sinh ở đây!' Đây là điều phi thường và kỳ diệu thứ nhất xuất hiện với sự xuất hiện của một vị Như Lai.
@@ -97,8 +90,7 @@ Lại nữa, Như Lai chuyển *Bánh xe Pháp* (Wheel of Dhamma / sự giảng 
 Với sự xuất hiện của một vị Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác, bốn điều phi thường và kỳ diệu này xuất hiện."
 
 <!--pg-->
-### AN 4.128 Điều Phi Thường về Như Lai (2) *Dutiyatathāgataacchariyasutta*{#128}
-
+### AN 4.128 Điều Phi Thường về Như Lai (2) *Dutiyatathāgataacchariyasutta* {#128}
 "Này các Tỳ kheo, với sự xuất hiện của một vị Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác, bốn điều phi thường và kỳ diệu xuất hiện. Bốn điều nào?
 
 Chúng sinh ưa thích *chấp thủ* (clinging / sự bám víu, dính mắc vào các đối tượng), yêu thích và vui hưởng sự chấp thủ. Tuy nhiên, khi Như Lai giảng Pháp về sự không chấp thủ, họ muốn lắng nghe, chú tâm lắng nghe, và nỗ lực để hiểu. Đây là điều phi thường và kỳ diệu thứ nhất xuất hiện với sự xuất hiện của một vị Như Lai.
@@ -112,8 +104,7 @@ Quần chúng này bị *vô minh* (ignorance / sự không hiểu biết về T
 Với sự xuất hiện của một vị Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác, bốn điều phi thường và kỳ diệu này xuất hiện."
 
 <!--pg-->
-### AN 4.129 Điều Phi Thường về Ngài Ānanda *Ānandaacchariyasutta*{#129}
-
+### AN 4.129 Điều Phi Thường về Ngài Ānanda *Ānandaacchariyasutta* {#129}
 "Này các Tỳ kheo, có bốn điều phi thường và kỳ diệu này về Ngài Ānanda. Bốn điều nào?
 
 Nếu chúng Tỳ kheo đến gặp Ngài Ānanda, họ hoan hỷ khi được thấy ngài và hoan hỷ khi nghe ngài nói pháp. Và khi ngài im lặng, họ vẫn chưa thấy đủ.
@@ -123,8 +114,7 @@ Nếu chúng Tỳ kheo ni... nam cư sĩ... hay nữ cư sĩ đến gặp Ngài 
 Đó là bốn điều phi thường và kỳ diệu về Ngài Ānanda."
 
 <!--pg-->
-### AN 4.130 Điều Phi Thường về Vua Chuyển Luân *Cakkavattiacchariyasutta*{#130}
-
+### AN 4.130 Điều Phi Thường về Vua Chuyển Luân *Cakkavattiacchariyasutta* {#130}
 "Này các Tỳ kheo, có bốn điều phi thường và kỳ diệu này về một vị vua Chuyển Luân. Bốn điều nào?
 
 Nếu chúng *Sát-đế-lỵ* (aristocrats / giai cấp vua chúa, quý tộc chiến binh trong xã hội Ấn Độ cổ) đến gặp một vị vua Chuyển Luân, họ hoan hỷ khi được thấy vua và hoan hỷ khi nghe vua nói. Và khi vua im lặng, họ vẫn chưa thấy đủ.

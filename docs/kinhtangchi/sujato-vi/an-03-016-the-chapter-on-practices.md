@@ -1,7 +1,6 @@
 # Phẩm về Các Pháp Hành
 
-### AN 3.156--162 Các Bài Kinh Không Có Tựa Đề về Ba Pháp Hành *Phẩm Acelaka*{#156-162}
-
+### AN 3.156--162 Các Bài Kinh Không Có Tựa Đề về Ba Pháp Hành *Phẩm Acelaka* {#156-162}
 "Này các Tỳ kheo, có ba pháp hành này. Thế nào là ba? Say đắm hạnh, khổ hạnh, và trung đạo.
 
 Và thế nào là say đắm hạnh? Ở đây, có người theo giáo lý và quan điểm này: 'Không có lỗi gì trong *các dục* (sensual pleasures / các thú vui giác quan)'; người ấy lao mình vào các dục. Đây gọi là say đắm hạnh.
@@ -38,8 +37,7 @@ Vị ấy tu tập *chánh kiến* (right view / thấy biết đúng đắn)...
 <!--pg-->
 # Phẩm về Các Con Đường Hành Động
 
-### AN 3.163--182 Các Bài Kinh Không Có Tựa Đề về Ba Pháp *Kammapathapeyyāla*{#163-182}
-
+### AN 3.163--182 Các Bài Kinh Không Có Tựa Đề về Ba Pháp *Kammapathapeyyāla* {#163-182}
 "Người có ba pháp này sẽ bị rơi vào địa ngục. Ba pháp nào? Tự mình *sát sinh* (killing living creatures / giết hại chúng sinh). Khuyến khích người khác *sát sinh*. Và tán thành việc *sát sinh*.
 
 Người có ba pháp này sẽ bị rơi vào địa ngục.
@@ -88,8 +86,7 @@ Người có ba pháp này sẽ được sinh lên cõi trời."
 <!--pg-->
 # Phẩm về các Bài Kinh Tóm Tắt Bắt Đầu với Tham
 
-### AN 3.183--352 Các Bài Kinh Không Có Tựa Đề về Tham, v.v. *Rāgapeyyāla*{#183-352}
-
+### AN 3.183--352 Các Bài Kinh Không Có Tựa Đề về Tham, v.v. *Rāgapeyyāla* {#183-352}
 "Để có *tuệ quán* (insight / sự hiểu biết sâu sắc, trí tuệ) về *tham* (greed / lòng tham), ba pháp cần được phát triển. Ba pháp đó là gì?
 *Không định* (emptiness immersion / sự tập trung vào tánh không); *vô tướng định* (signless immersion / sự tập trung vào tánh vô tướng); và *vô nguyện định* (undirected immersion / sự tập trung vào tánh vô nguyện). Để có tuệ quán về tham, ba pháp này cần được phát triển.
 

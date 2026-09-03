@@ -1,7 +1,6 @@
 # Phẩm Về Điều Mong Muốn
 
-### AN 10.71 Nếu Ai Mong Ước *Ākaṅkhasutta*{#71}
-
+### AN 10.71 Nếu Ai Mong Ước *Ākaṅkhasutta* {#71}
 Một thời Đức Phật trú gần Sāvatthī, tại Kỳ Viên, tu viện của ông Anāthapiṇḍika. Tại đây, Đức Phật gọi các vị tỳ kheo: "Này các thầy tỳ kheo!"
 
 "Bạch Thế Tôn," họ đáp. Đức Phật dạy điều này:
@@ -31,8 +30,7 @@ Một vị tỳ kheo có thể mong muốn: 'Mong sao ta chứng ngộ được 
 'Hãy sống theo giới đức và giới bổn Pātimokkha. Hãy sống thu thúc trong giới bổn Pātimokkha, có hạnh kiểm tốt đẹp và hành xứ đúng đắn. Thấy sự nguy hiểm trong những lỗi nhỏ nhặt nhất, hãy thọ trì các học giới mà các thầy đã nguyện giữ.' Đó là những gì Ta đã nói, và đây là lý do Ta nói điều đó."
 
 <!--pg-->
-### AN 10.72 Những Cái Gai *Kaṇṭakasutta*{#72}
-
+### AN 10.72 Những Cái Gai *Kaṇṭakasutta* {#72}
 Một thời Đức Phật trú gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn, cùng với một số vị trưởng lão đệ tử nổi tiếng. Trong số đó có các Tôn giả Cāla, Upacāla, Kakkaṭa, Kaṭimbha, Kaṭa, Kaṭissaṅga, và các vị trưởng lão đệ tử nổi tiếng khác.
 
 Lúc bấy giờ, một số người Licchavi nổi tiếng đi sâu vào Đại Lâm để yết kiến Đức Phật. Họ lái những cỗ xe sang trọng nối đuôi nhau, gây ra tiếng động kinh khủng. Bấy giờ, các vị tôn giả ấy nghĩ:
@@ -52,8 +50,7 @@ Này các thầy tỳ kheo, có mười cái gai này. Mười cái gai nào? Ư
 Này các thầy tỳ kheo, hãy sống không có gai! Hãy sống thoát khỏi gai! Này các thầy tỳ kheo, hãy sống không có gai và thoát khỏi gai! Các bậc *A-la-hán* (perfected ones / người đã đạt được sự giải thoát hoàn toàn) sống không có gai, thoát khỏi gai, tự do và thoát khỏi gai."
 
 <!--pg-->
-### AN 10.73 Những Điều Đáng Ưa Thích *Iṭṭhadhammasutta*{#73}
-
+### AN 10.73 Những Điều Đáng Ưa Thích *Iṭṭhadhammasutta* {#73}
 "Này các thầy tỳ kheo, mười điều đáng ưa thích, đáng mong muốn, và đáng hài lòng này hiếm có trên đời. Mười điều nào? Tài sản, sắc đẹp, sức khỏe, *giới đức* (ethical conduct / hành vi đạo đức), đời sống phạm hạnh, bạn bè, học vấn, *trí tuệ* (wisdom / *tuệ*, sự hiểu biết đúng đắn), những phẩm chất tốt đẹp, và cõi trời là những điều đáng ưa thích, đáng mong muốn, và đáng hài lòng hiếm có trên đời.
 
 Mười điều là những chướng ngại đối với mười điều đáng ưa thích, đáng mong muốn, và đáng hài lòng hiếm có trên đời này. Sự lười biếng và thiếu chủ động là chướng ngại đối với tài sản. Thiếu sự tô điểm và trang hoàng là chướng ngại đối với sắc đẹp. Hoạt động không phù hợp là chướng ngại đối với sức khỏe. Tình bạn xấu là chướng ngại đối với giới đức. Thiếu sự thu thúc các giác quan là chướng ngại đối với đời sống phạm hạnh. Sự không trung thực là chướng ngại đối với bạn bè. Không trì tụng là chướng ngại đối với học vấn. Không muốn lắng nghe và đặt câu hỏi là chướng ngại đối với trí tuệ. Thiếu sự tận tâm và xem xét lại là chướng ngại đối với những phẩm chất tốt đẹp. Thực hành sai lầm cản trở cõi trời. Mười điều này là những chướng ngại đối với mười điều đáng ưa thích, đáng mong muốn, và đáng hài lòng hiếm có trên đời này.
@@ -61,8 +58,7 @@ Mười điều là những chướng ngại đối với mười điều đáng
 Mười điều nuôi dưỡng mười điều đáng ưa thích, đáng mong muốn, và đáng hài lòng hiếm có trên đời này. Sự chuyên cần và chủ động nuôi dưỡng tài sản. Sự tô điểm và trang hoàng nuôi dưỡng sắc đẹp. Hoạt động phù hợp nuôi dưỡng sức khỏe. Tình bạn tốt nuôi dưỡng giới đức. Sự thu thúc các giác quan nuôi dưỡng đời sống phạm hạnh. Sự trung thực nuôi dưỡng bạn bè. Trì tụng nuôi dưỡng học vấn. Sự ham thích lắng nghe và đặt câu hỏi nuôi dưỡng trí tuệ. Sự tận tâm và xem xét lại nuôi dưỡng những phẩm chất tốt đẹp. Thực hành đúng đắn nuôi dưỡng cõi trời. Mười điều này nuôi dưỡng mười điều đáng ưa thích, đáng mong muốn, và đáng hài lòng hiếm có trên đời này."
 
 <!--pg-->
-### AN 10.74 Sự Tăng Trưởng *Vaḍḍhisutta*{#74}
-
+### AN 10.74 Sự Tăng Trưởng *Vaḍḍhisutta* {#74}
 "Này các thầy tỳ kheo, một vị thánh đệ tử tăng trưởng theo mười cách là tăng trưởng một cách cao thượng, thâu nhận những gì tinh túy và ưu việt trong đời này. Mười cách nào? Vị ấy tăng trưởng về ruộng đất, tiền bạc và ngũ cốc, vợ con, tôi tớ, người làm công, nhân viên, và gia súc. Và vị ấy tăng trưởng về *niềm tin* (faith / *tín*, sự tin tưởng vững chắc), giới hạnh, học vấn, sự rộng lượng, và *trí tuệ* (wisdom / *tuệ*, sự hiểu biết đúng đắn). Một vị thánh đệ tử tăng trưởng theo mười cách là tăng trưởng một cách cao thượng, thâu nhận những gì tinh túy và ưu việt trong đời này.
 
 > Người tăng trưởng tiền bạc, lúa thóc,\
@@ -76,8 +72,7 @@ Mười điều nuôi dưỡng mười điều đáng ưa thích, đáng mong mu
 > Ngay đời này, vị ấy tăng trưởng cả hai."
 
 <!--pg-->
-### AN 10.75 Với Migasālā *Migasālāsutta*{#75}
-
+### AN 10.75 Với Migasālā *Migasālāsutta* {#75}
 Một thời Đức Phật trú gần Sāvatthī, tại Kỳ Viên, tu viện của ông Anāthapiṇḍika. Bấy giờ, Tôn giả Ānanda vào buổi sáng, đắp y, mang bát, đến nhà nữ cư sĩ Migasālā, và ngồi vào chỗ đã soạn sẵn. Rồi nữ cư sĩ Migasālā đến gần Tôn giả Ānanda, đảnh lễ, ngồi xuống một bên, và thưa:
 
 "Kính bạch Tôn giả Ānanda, làm sao chúng con có thể hiểu được giáo pháp do Đức Phật giảng dạy, khi người sống phạm hạnh và người không sống phạm hạnh đều tái sinh vào cùng một nơi trong đời sau? Cha con là Purāṇa sống độc thân, tách biệt, tránh xa hành vi tình dục thô tục. Khi ông qua đời, Đức Phật tuyên bố rằng, vì ông là bậc *nhất lai* (once-returner / người chỉ còn tái sinh một lần nữa vào cõi dục giới trước khi đạt Niết-bàn), ông đã tái sinh vào *chúng thiên Tusita* (host of joyful gods / cõi trời Đâu Suất, nơi các vị Bồ Tát thường tái sinh trước khi thành Phật). Nhưng chú của con là Isidatta không sống độc thân; ông ấy sống hạnh phúc với vợ mình. Khi ông qua đời, Đức Phật cũng tuyên bố rằng, vì ông là bậc nhất lai, ông đã tái sinh vào chúng thiên Tusita.
@@ -129,8 +124,7 @@ Ai là nữ cư sĩ Migasālā này, một người đàn bà ngu dốt, kém c�
 Nếu Isidatta đạt được trình độ giới đức của Purāṇa, thì Purāṇa thậm chí không thể biết được cảnh giới tái sinh của Isidatta. Và nếu Purāṇa đạt được trình độ trí tuệ của Isidatta, thì Isidatta thậm chí không thể biết được cảnh giới tái sinh của Purāṇa. Vì vậy, cả hai người đều thiếu sót ở một khía cạnh."
 
 <!--pg-->
-### AN 10.76 Ba Điều *Tayodhammasutta*{#76}
-
+### AN 10.76 Ba Điều *Tayodhammasutta* {#76}
 "Này các thầy tỳ kheo, nếu ba điều này không được tìm thấy, *Như Lai* (Realized One / Tathāgata, một danh hiệu của Đức Phật, có nghĩa là "Người đã đến như vậy" hoặc "Người đã đi như vậy"), bậc A-la-hán, bậc *Chánh Đẳng Chánh Giác* (fully awakened Buddha / người tự mình giác ngộ hoàn toàn chân lý) sẽ không xuất hiện trên thế gian, và giáo pháp cùng sự huấn luyện do Như Lai công bố sẽ không tỏa sáng trên thế gian.
 
 Ba điều nào? Sanh, già, và chết. Nếu ba điều này không được tìm thấy, Như Lai, bậc A-la-hán, bậc Chánh Đẳng Chánh Giác sẽ không xuất hiện trên thế gian, và giáo pháp cùng sự huấn luyện do Như Lai công bố sẽ không tỏa sáng trên thế gian. Nhưng vì ba điều này được tìm thấy, Như Lai, bậc A-la-hán, bậc Chánh Đẳng Chánh Giác xuất hiện trên thế gian, và giáo pháp cùng sự huấn luyện do Như Lai công bố tỏa sáng trên thế gian.
@@ -176,21 +170,17 @@ Sau khi từ bỏ ba điều này, bạn có thể từ bỏ không coi thườn
 Này các thầy tỳ kheo, người có xấu hổ và sợ điều ác thì sẽ siêng năng (không sao nhãng). Khi bạn siêng năng (không sao nhãng), bạn có thể từ bỏ sự coi thường, khó khuyên bảo, và có bạn xấu. Khi bạn có bạn tốt, bạn có thể từ bỏ không có niềm tin, không rộng lượng, và lười biếng. Khi bạn siêng năng, bạn có thể từ bỏ bồn chồn lo lắng, thiếu sự thu thúc, và hành vi phi giới đức. Khi bạn có giới đức, bạn có thể từ bỏ việc không muốn gặp các bậc thánh, không muốn nghe giáo pháp của các bậc thánh, và tâm hay bắt lỗi. Khi bạn không có tâm hay bắt lỗi, bạn có thể từ bỏ thất niệm, thiếu tỉnh giác, và tâm tán loạn. Khi tâm bạn không tán loạn, bạn có thể từ bỏ không như lý tác ý, đi theo con đường sai lầm, và tâm trí uể oải. Khi tâm bạn không uể oải, bạn có thể từ bỏ thân kiến, hoài nghi, và sùng tín và giáo điều. Khi bạn không có hoài nghi, bạn có thể từ bỏ tham, sân, và si. Sau khi từ bỏ tham, sân, và si, bạn có thể từ bỏ sanh, già, và chết."
 
 <!--pg-->
-### AN 10.77 Con Quạ *Kākasutta*{#77}
-
+### AN 10.77 Con Quạ *Kākasutta* {#77}
 "Này các thầy tỳ kheo, con quạ có mười phẩm chất xấu. Mười phẩm chất nào? Chúng thô lỗ và trơ tráo, tham ăn và phàm tục, tàn nhẫn và không thương xót, yếu đuối và ồn ào, thất niệm và ham tích trữ. Con quạ có mười phẩm chất xấu này. Tương tự như vậy, một vị tỳ kheo xấu có mười phẩm chất xấu này. Mười phẩm chất nào? Vị ấy thô lỗ và trơ tráo, tham ăn và phàm tục, tàn nhẫn và không thương xót, yếu đuối và ồn ào, thất niệm và ham tích trữ. Một vị tỳ kheo xấu có mười phẩm chất xấu này."
 
 <!--pg-->
-### AN 10.78 Những Người Ni-kiền-tử *Nigaṇṭhasutta*{#78}
-
+### AN 10.78 Những Người Ni-kiền-tử *Nigaṇṭhasutta* {#78}
 "Này các thầy tỳ kheo, những người tu khổ hạnh *Ni-kiền-tử* (Jains / *Nigaṇṭha*, một trường phái triết học và tôn giáo cổ ở Ấn Độ, cùng thời với Đức Phật) có mười phẩm chất xấu. Mười phẩm chất nào? Họ không có niềm tin và phi giới đức, không xấu hổ và không sợ điều ác, và tận tâm với những người không chân thật. Họ tự tôn vinh mình và hạ thấp người khác. Họ chấp chặt vào quan điểm của mình, nắm giữ chúng một cách cứng nhắc, và không chịu từ bỏ. Họ lừa dối, có những mong muốn xấu xa và bạn bè xấu. Những người tu khổ hạnh Ni-kiền-tử có mười phẩm chất xấu này."
 
 <!--pg-->
-### AN 10.79 Những Cơ Sở Để Oán Hận *Āghātavatthusutta*{#79}
-
+### AN 10.79 Những Cơ Sở Để Oán Hận *Āghātavatthusutta* {#79}
 "Này các thầy tỳ kheo, có mười cơ sở để *oán hận* (resentment / *āghāta*, sự căm ghét, thù hằn). Mười cơ sở nào? Nghĩ rằng: 'Họ đã làm điều sai trái với tôi,' bạn nuôi dưỡng oán hận. Nghĩ rằng: 'Họ đang làm điều sai trái với tôi' ... 'Họ sẽ làm điều sai trái với tôi' ... 'Họ đã làm điều sai trái với người tôi yêu quý' ... 'Họ đang làm điều sai trái với người tôi yêu quý' ... 'Họ sẽ làm điều sai trái với người tôi yêu quý' ... 'Họ đã giúp đỡ người tôi không thích' ... 'Họ đang giúp đỡ người tôi không thích' ... Nghĩ rằng: 'Họ sẽ giúp đỡ người tôi không thích,' bạn nuôi dưỡng oán hận. Bạn tức giận vô cớ. Đây là mười cơ sở để oán hận."
 
 <!--pg-->
-### AN 10.80 Loại Bỏ Oán Hận *Āghātapaṭivinayasutta*{#80}
-
+### AN 10.80 Loại Bỏ Oán Hận *Āghātapaṭivinayasutta* {#80}
 "Này các thầy tỳ kheo, có mười phương pháp này để loại bỏ oán hận. Mười phương pháp nào? Nghĩ rằng: 'Họ đã làm hại tôi, nhưng tôi có thể làm gì được chứ?' bạn loại bỏ oán hận. Nghĩ rằng: 'Họ đang làm hại tôi ...' ... 'Họ sẽ làm hại tôi ...' ... 'Họ đã làm hại người tôi yêu quý ...' ... 'Họ đang làm hại người tôi yêu quý ...' 'Họ sẽ làm hại người tôi yêu quý ...' ... Họ đã giúp đỡ người tôi không thích ...' ... 'Họ đang giúp đỡ người tôi không thích ...' ... Nghĩ rằng: 'Họ sẽ giúp đỡ người tôi không thích, nhưng tôi có thể làm gì được chứ?' bạn loại bỏ oán hận. Và bạn không tức giận vô cớ. Đây là mười cách để loại bỏ oán hận."

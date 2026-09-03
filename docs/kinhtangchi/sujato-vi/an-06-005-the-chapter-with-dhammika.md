@@ -1,7 +1,6 @@
 # Phẩm về Dhammika
 
-### AN 6.43 Kinh Voi Chúa (*Nāgasutta*){#43}
-
+### AN 6.43 Kinh Voi Chúa (*Nāgasutta*) {#43}
 Một thời Đức Phật trú tại Sāvatthī, trong Rừng Jeta, tu viện của Anāthapiṇḍika.
 
 Rồi vào buổi sáng, Đức Phật đắp y, mang bát và y, vào Sāvatthī để khất thực. Sau bữa ăn, khi trở về từ chuyến khất thực, Ngài nói với Tôn giả Ānanda: "Này Ānanda, chúng ta hãy đến nhà sàn của mẹ Migāra trong Tu viện phía Đông để thiền tọa ban ngày."
@@ -116,8 +115,7 @@ Nhưng này Udāyī, người không làm điều gì quái dị qua thân, kh�
 > Không còn ô nhiễm, sẽ hoàn toàn tịch diệt."
 
 <!--pg-->
-### AN 6.44 Với Migasālā (*Migasālāsutta*){#44}
-
+### AN 6.44 Với Migasālā (*Migasālāsutta*) {#44}
 Rồi Tôn giả Ānanda vào buổi sáng đắp y, mang bát và y, đến nhà nữ cư sĩ Migasālā, và ngồi vào chỗ đã soạn sẵn.
 
 Rồi nữ cư sĩ Migasālā đến gần Ānanda, đảnh lễ, ngồi xuống một bên và thưa: "Thưa Tôn giả Ānanda, làm sao chúng con có thể hiểu được giáo pháp do Đức Phật giảng dạy, khi mà người sống phạm hạnh và người không sống phạm hạnh đều tái sinh vào cùng một nơi trong đời sau?
@@ -167,8 +165,7 @@ Ai là nữ cư sĩ Migasālā này, một người phụ nữ ngu dốt, kém c
 Nếu Isidatta đạt được trình độ *giới hạnh* (ethical conduct / sự giữ gìn giới luật, phẩm hạnh đạo đức) của Purāṇa, thì Purāṇa thậm chí không thể biết được cảnh giới tái sinh của Isidatta. Và nếu Purāṇa đạt được trình độ trí tuệ của Isidatta, thì Isidatta thậm chí không thể biết được cảnh giới tái sinh của Purāṇa. Vì vậy, cả hai người đều thiếu sót ở một khía cạnh."
 
 <!--pg-->
-### AN 6.45 Nợ Nần (*Iṇasutta*){#45}
-
+### AN 6.45 Nợ Nần (*Iṇasutta*) {#45}
 "Này các Tỳ kheo, đối với người hưởng thụ dục lạc, sự nghèo khổ có phải là đau khổ trên thế gian không?"
 
 "Vâng, thưa Thế Tôn."
@@ -288,8 +285,7 @@ Người nghèo khổ, không một xu dính túi đó đã làm những điều
 > Đây là sự giải thoát khỏi nợ nần cao nhất."
 
 <!--pg-->
-### AN 6.46 Bởi Mahācunda (*Mahācundasutta*){#46}
-
+### AN 6.46 Bởi Mahācunda (*Mahācundasutta*) {#46}
 TÔI NGHE NHƯ VẦY. Một thời Tôn giả Mahācunda trú tại xứ Ceti, ở Sahajāti. Tại đó, ngài nói với các Tỳ kheo: "Chư hiền, các Tỳ kheo!"
 
 "Thưa Hiền giả," họ đáp. Tôn giả Mahācunda nói điều này:
@@ -307,8 +303,7 @@ Vì vậy, các vị nên tu tập như thế này: 'Là những Tỳ kheo thự
 Vì vậy, các vị nên tu tập như thế này: 'Là những Tỳ kheo thực hành thiền định, chúng ta sẽ ca ngợi các Tỳ kheo thực hành quán pháp.' Đó là cách các vị nên tu tập. Tại sao vậy? Bởi vì thật vô cùng hiếm hoi để tìm thấy những cá nhân trên thế gian thấy được ý nghĩa của một lời nói sâu sắc bằng trí tuệ thâm nhập."
 
 <!--pg-->
-### AN 6.47 Hiện Tiền (1) (*Paṭhamasandiṭṭhikasutta*){#47}
-
+### AN 6.47 Hiện Tiền (1) (*Paṭhamasandiṭṭhikasutta*) {#47}
 Rồi du sĩ Moḷiyasīvaka đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và thưa với Đức Phật:
 
 "Bạch Thế Tôn, người ta nói về 'giáo pháp hiện tiền'. Giáo pháp hiện tiền, có hiệu quả tức thì, mời gọi đến để thấy, có liên quan, để người trí tự mình biết được là như thế nào?"
@@ -328,8 +323,7 @@ Rồi du sĩ Moḷiyasīvaka đến gặp Đức Phật và chào hỏi Ngài. S
 "Thật tuyệt vời, thưa Thế Tôn! Tuyệt vời! Kể từ hôm nay, xin Đức Phật ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 6.48 Hiện Tiền (2) (*Dutiyasandiṭṭhikasutta*){#48}
-
+### AN 6.48 Hiện Tiền (2) (*Dutiyasandiṭṭhikasutta*) {#48}
 Rồi một vị Bà-la-môn đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và thưa với Đức Phật:
 
 "Thưa ngài Gotama, người ta nói về 'giáo pháp hiện tiền'. Giáo pháp hiện tiền, có hiệu quả tức thì, mời gọi đến để thấy, có liên quan, để người trí tự mình biết được là như thế nào?"
@@ -349,8 +343,7 @@ Rồi một vị Bà-la-môn đến gặp Đức Phật và chào hỏi Ngài. S
 "Thật tuyệt vời, thưa ngài Gotama! Tuyệt vời! ... Kể từ hôm nay, xin ngài Gotama ghi nhớ tôi là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 6.49 Với Khema (*Khemasutta*){#49}
-
+### AN 6.49 Với Khema (*Khemasutta*) {#49}
 Một thời Đức Phật trú tại Sāvatthī, trong Rừng Jeta, tu viện của Anāthapiṇḍika.
 
 Lúc bấy giờ, Tôn giả Khema và Tôn giả Sumana đang trú gần Sāvatthī trong Rừng Tối. Rồi họ đến gặp Đức Phật, đảnh lễ và ngồi xuống một bên. Tôn giả Khema thưa với Đức Phật:
@@ -374,8 +367,7 @@ Và rồi, ngay sau khi Khema và Sumana rời đi, Đức Phật nói với cá
 > Họ sống giải thoát khỏi các kiết sử."
 
 <!--pg-->
-### AN 6.50 Thu Thúc Lục Căn (*Indriyasaṁvarasutta*){#50}
-
+### AN 6.50 Thu Thúc Lục Căn (*Indriyasaṁvarasutta*) {#50}
 "Này các Tỳ kheo, khi không có *thu thúc lục căn* (sense restraint / sự kiểm soát, giữ gìn sáu giác quan), người thiếu thu thúc lục căn đã phá hủy một điều kiện thiết yếu cho *giới hạnh*. Khi không có giới hạnh, người thiếu giới hạnh đã phá hủy một điều kiện thiết yếu cho *chánh định* (right immersion / sự tập trung đúng đắn). Khi không có chánh định, người thiếu chánh định đã phá hủy một điều kiện thiết yếu cho *chánh tri kiến* (true knowledge and vision / sự hiểu biết và thấy đúng như thật). Khi không có chánh tri kiến, người thiếu chánh tri kiến đã phá hủy một điều kiện thiết yếu cho sự *nhàm chán và ly tham* (disillusionment and dispassion / sự chán ngán và từ bỏ ham muốn). Khi không có sự nhàm chán và ly tham, người thiếu sự nhàm chán và ly tham đã phá hủy một điều kiện thiết yếu cho *tri kiến giải thoát* (knowledge and vision of freedom / sự hiểu biết và thấy rõ con đường giải thoát).
 
 Giả sử có một cái cây thiếu cành và lá. Chồi, vỏ, giác cây và lõi cây của nó sẽ không phát triển đầy đủ.
@@ -389,8 +381,7 @@ Giả sử có một cái cây đầy đủ cành và lá. Chồi, vỏ, giác c
 Tương tự như vậy, khi có thu thúc lục căn, người đã hoàn thành thu thúc lục căn đã hoàn thành một điều kiện thiết yếu cho giới hạnh. ... Người đã hoàn thành sự nhàm chán và ly tham đã hoàn thành một điều kiện thiết yếu cho tri kiến giải thoát."
 
 <!--pg-->
-### AN 6.51 Với Ānanda (*Ānandasutta*){#51}
-
+### AN 6.51 Với Ānanda (*Ānandasutta*) {#51}
 Rồi Tôn giả Ānanda đến gặp Tôn giả Sāriputta và chào hỏi ngài. Sau khi chào hỏi và nói chuyện xã giao xong, Ānanda ngồi xuống một bên và thưa với Sāriputta:
 
 "Thưa Hiền giả Sāriputta, làm thế nào một Tỳ kheo có thể nghe được một giáo pháp mà họ chưa từng nghe trước đây? Làm thế nào họ ghi nhớ những giáo pháp họ đã nghe? Làm thế nào họ tiếp tục thực hành những giáo pháp mà họ đã quen thuộc? Và làm thế nào họ hiểu được những gì họ chưa hiểu trước đây?"
@@ -414,8 +405,7 @@ Họ nhập hạ trong một tu viện với các vị Tỳ kheo trưởng lão 
 Vì Ānanda ghi nhớ giáo pháp... kinh, ứng tụng, ký thuyết, kệ, cảm hứng ngữ, bổn sự, bổn sinh, vị tằng hữu pháp, và phương quảng. Các vị tôn giả đó làm rõ cho Ānanda những gì chưa rõ ràng, tiết lộ những gì còn ẩn khuất, và xua tan nghi ngờ về nhiều vấn đề còn nghi vấn."
 
 <!--pg-->
-### AN 6.52 Giai Cấp Sát-đế-lỵ (*Khattiyasutta*){#52}
-
+### AN 6.52 Giai Cấp Sát-đế-lỵ (*Khattiyasutta*) {#52}
 Rồi Bà-la-môn Jānussoṇi đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và thưa với Đức Phật:
 
 "Thưa ngài Gotama, giai cấp Sát-đế-lỵ có tham vọng gì? Mối bận tâm của họ là gì? Họ cố chấp vào điều gì? Họ khăng khăng điều gì? Mục tiêu cuối cùng của họ là gì?"
@@ -445,8 +435,7 @@ Rồi Bà-la-môn Jānussoṇi đến gặp Đức Phật và chào hỏi Ngài.
 "Thật khó tin, thưa ngài Gotama, thật kỳ diệu! Ngài Gotama biết tham vọng, mối bận tâm, sự cố chấp, sự khăng khăng và mục tiêu cuối cùng của giai cấp Sát-đế-lỵ, Bà-la-môn, Gia chủ, phụ nữ, kẻ cướp và các vị Sa-môn. Thật tuyệt vời, thưa ngài Gotama! Tuyệt vời! ... Kể từ hôm nay, xin ngài Gotama ghi nhớ tôi là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 6.53 Không Sao nhãng (*Appamādasutta*){#53}
-
+### AN 6.53 Không Sao nhãng (*Appamādasutta*) {#53}
 Rồi một vị Bà-la-môn đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và thưa với Đức Phật:
 
 "Thưa ngài Gotama, có một pháp nào, khi được phát triển và tu tập, đảm bảo lợi ích cho cả đời này và các đời sau không?"
@@ -474,8 +463,7 @@ Tất cả các vị vua nhỏ hơn đều là chư hầu của một vị vua c
 "Thật tuyệt vời, thưa ngài Gotama! Tuyệt vời! ... Kể từ hôm nay, xin ngài Gotama ghi nhớ tôi là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 6.54 Về Dhammika (*Dhammikasutta*){#54}
-
+### AN 6.54 Về Dhammika (*Dhammikasutta*) {#54}
 Một thời Đức Phật trú tại Rājagaha, trên Núi Linh Thứu.
 
 Lúc bấy giờ, Tôn giả Dhammika là cư dân trong cả bảy tu viện ở quê hương ngài. Ở đó, ngài lăng mạ các Tỳ kheo đến thăm; ngài xúc phạm, làm hại, tấn công và quấy rối họ. Các Tỳ kheo đến thăm bị đối xử như vậy đã không ở lại. Họ rời đi, bỏ lại tu viện.

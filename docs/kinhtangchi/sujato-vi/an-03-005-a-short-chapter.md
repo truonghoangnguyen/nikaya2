@@ -1,12 +1,10 @@
 # Phẩm Ngắn
 
-### AN 3.41 Hiện Diện  *Sammukhībhāvasutta*{#41}
-
+### AN 3.41 Hiện Diện  *Sammukhībhāvasutta* {#41}
 Này các Tỳ-kheo, khi có ba điều này hiện diện, một người nam cư sĩ có *tín tâm* (faith/lòng tin) tạo được nhiều *công đức* (merit/phước báu). Ba điều đó là gì? Khi có tín tâm hiện diện, khi có vật để cho hiện diện, và khi có những người xứng đáng nhận của cúng dường hiện diện. Khi ba điều này hiện diện, một người nam cư sĩ có tín tâm tạo được nhiều công đức.
 
 <!--pg-->
-### AN 3.42 Ba Nền Tảng  *Tiṭhānasutta*{#42}
-
+### AN 3.42 Ba Nền Tảng  *Tiṭhānasutta* {#42}
 Này các Tỳ-kheo, có ba nền tảng để nhận biết một người có tín tâm và lòng tin vững chắc. Ba điều đó là gì? Họ thích gặp gỡ những người có *giới hạnh* (ethical people/người đức hạnh). Họ thích nghe *Chánh pháp* (true teaching/giáo pháp chân chính). Và họ sống tại gia, tâm không còn vết nhơ của *sự keo kiệt* (stain of stinginess/vết nhơ bỏn xẻn), rộng rãi cho đi, tay luôn mở rộng, thích từ bỏ, chuyên tâm làm từ thiện, thích cho đi và chia sẻ. Đây là ba nền tảng để nhận biết một người có tín tâm và lòng tin vững chắc.
 
 > Thích gặp người đức hạnh;\
@@ -15,20 +13,17 @@ Này các Tỳ-kheo, có ba nền tảng để nhận biết một người có 
 > người như vậy gọi là người có tín tâm.
 
 <!--pg-->
-### AN 3.43 Lý Do Chính Đáng  *Atthavasasutta*{#43}
-
+### AN 3.43 Lý Do Chính Đáng  *Atthavasasutta* {#43}
 Này các Tỳ-kheo, xem xét ba lý do này là đủ động lực để giảng *Pháp* (Dhamma/Giáo pháp) cho người khác. Ba lý do đó là gì? Khi người giảng hiểu rõ ý nghĩa và giáo pháp. Khi người nghe hiểu rõ ý nghĩa và giáo pháp. Khi cả người giảng và người nghe đều hiểu rõ ý nghĩa và giáo pháp.
 
 Xem xét ba lý do này là đủ động lực để giảng Pháp cho người khác.
 
 <!--pg-->
-### AN 3.44 Khi Cuộc Trò Chuyện Trôi Chảy  *Kathāpavattisutta*{#44}
-
+### AN 3.44 Khi Cuộc Trò Chuyện Trôi Chảy  *Kathāpavattisutta* {#44}
 Này các Tỳ-kheo, trong ba trường hợp, cuộc trò chuyện sẽ trôi chảy. Ba trường hợp đó là gì? Khi người giảng hiểu rõ ý nghĩa và giáo pháp. Khi người nghe hiểu rõ ý nghĩa và giáo pháp. Khi cả người giảng và người nghe đều hiểu rõ ý nghĩa và giáo pháp. Đây là ba trường hợp mà cuộc trò chuyện sẽ trôi chảy.
 
 <!--pg-->
-### AN 3.45 Được Người Trí Khuyến Khích  *Paṇḍitasutta*{#45}
-
+### AN 3.45 Được Người Trí Khuyến Khích  *Paṇḍitasutta* {#45}
 Này các Tỳ-kheo, ba điều này được những *bậc trí* (astute true persons/bậc thiện trí, bậc chân nhân) khuyến khích. Ba điều đó là gì? *Bố thí* (giving/cho đi), *xuất gia* (going forth/từ bỏ đời sống thế tục), và chăm sóc cha mẹ. Đây là ba điều được những bậc trí khuyến khích.
 
 > Người đức hạnh khuyên nên bố thí,\
@@ -42,13 +37,11 @@ Này các Tỳ-kheo, ba điều này được những *bậc trí* (astute true 
 > sẽ hưởng cảnh giới an lành.
 
 <!--pg-->
-### AN 3.46 Người Có Giới Hạnh  *Sīlavantasutta*{#46}
-
+### AN 3.46 Người Có Giới Hạnh  *Sīlavantasutta* {#46}
 Này các Tỳ-kheo, khi những *người xuất gia* (renunciates/người sống đời phạm hạnh) có giới hạnh được một thị trấn hay làng mạc hộ trì, người dân ở đó tạo được nhiều công đức qua ba cách. Ba cách đó là gì? Qua thân, khẩu và ý. Khi những người xuất gia có giới hạnh được một thị trấn hay làng mạc hộ trì, người dân ở đó tạo được nhiều công đức qua ba cách này.
 
 <!--pg-->
-### AN 3.47 Đặc Tính Của Pháp Hữu Vi  *Saṅkhatalakkhaṇasutta*{#47}
-
+### AN 3.47 Đặc Tính Của Pháp Hữu Vi  *Saṅkhatalakkhaṇasutta* {#47}
 Này các Tỳ-kheo, pháp *hữu vi* (conditioned/pháp do duyên tạo) có ba đặc tính này. Ba đặc tính đó là gì? Sự *sinh khởi* (arising/sanh) hiện rõ, sự *diệt đi* (vanishing/diệt) hiện rõ, và sự biến đổi trong khi tồn tại hiện rõ. Đây là ba đặc tính của pháp hữu vi.
 
 #### Đặc Tính Của Pháp Vô Vi
@@ -56,8 +49,7 @@ Này các Tỳ-kheo, pháp *hữu vi* (conditioned/pháp do duyên tạo) có ba
 Pháp *vô vi* (unconditioned/pháp không do duyên tạo) có ba đặc tính này. Ba đặc tính đó là gì? Không có sự sinh khởi hiện rõ, không có sự diệt đi hiện rõ, và không có sự biến đổi trong khi tồn tại hiện rõ. Đây là ba đặc tính của pháp vô vi.
 
 <!--pg-->
-### AN 3.48 Vua Của Các Loài Núi  *Pabbatarājasutta*{#48}
-
+### AN 3.48 Vua Của Các Loài Núi  *Pabbatarājasutta* {#48}
 Này các Tỳ-kheo, những cây Sa-la lớn nhờ dựa vào Hy-mã-lạp sơn, vua của các loài núi, mà tăng trưởng theo ba cách. Ba cách đó là gì? Cành, lá và tán lá; vỏ cây và chồi non; và giác cây và lõi cây. Những cây Sa-la lớn nhờ dựa vào Hy-mã-lạp sơn, vua của các loài núi, mà tăng trưởng theo ba cách này.
 
 Cũng vậy, một gia đình nhờ dựa vào người chủ gia đình có tín tâm mà tăng trưởng theo ba cách. Ba cách đó là gì? Tín tâm, giới hạnh, và *trí tuệ* (wisdom/tuệ). Một gia đình nhờ dựa vào người chủ gia đình có tín tâm mà tăng trưởng theo ba cách này.
@@ -85,15 +77,13 @@ Cũng vậy, một gia đình nhờ dựa vào người chủ gia đình có tí
 > hưởng thụ mọi lạc thú mong muốn.
 
 <!--pg-->
-### AN 3.49 Nhiệt Tâm  *Ātappakaraṇīyasutta*{#49}
-
+### AN 3.49 Nhiệt Tâm  *Ātappakaraṇīyasutta* {#49}
 Này các Tỳ-kheo, trong ba trường hợp, các thầy nên *nhiệt tâm* (keen/tinh cần, nỗ lực). Ba trường hợp đó là gì? Các thầy nên nhiệt tâm ngăn chặn các *pháp bất thiện* (bad, unskillful qualities/điều xấu ác) chưa sinh khởi không cho sinh khởi. Các thầy nên nhiệt tâm làm phát sinh các *pháp thiện* (skillful qualities/điều tốt lành). Và các thầy nên nhiệt tâm chịu đựng những cơn đau thể xác—như dao cắt, dữ dội, cấp tính, khó chịu, không vừa ý, đe dọa tính mạng. Trong ba trường hợp này, các thầy nên nhiệt tâm.
 
 Một vị Tỳ-kheo nhiệt tâm ngăn chặn các pháp bất thiện chưa sinh khởi không cho sinh khởi. Họ nhiệt tâm làm phát sinh các pháp thiện. Và họ nhiệt tâm chịu đựng những cơn đau thể xác—như dao cắt, dữ dội, cấp tính, khó chịu, không vừa ý, đe dọa tính mạng. Vị ấy được gọi là Tỳ-kheo nhiệt tâm, tỉnh giác, và *chánh niệm* (mindful/luôn ghi nhớ) để chân chính chấm dứt khổ đau.
 
 <!--pg-->
-### AN 3.50 Tên Đại Trộm  *Mahācorasutta*{#50}
-
+### AN 3.50 Tên Đại Trộm  *Mahācorasutta* {#50}
 Này các Tỳ-kheo, một tên đại trộm có ba yếu tố sẽ đột nhập nhà cửa, cướp đoạt tài sản, trộm cắp ở những ngôi nhà biệt lập, và chặn đường cướp bóc. Ba yếu tố đó là gì?
 
 Một tên đại trộm dựa vào địa hình hiểm trở, nơi ẩn nấp kín đáo, và những người có quyền thế. Và làm thế nào một tên đại trộm dựa vào địa hình hiểm trở? Đó là khi tên đại trộm dựa vào những vùng ven sông khó tiếp cận hoặc núi non hiểm trở. Đó là cách một tên đại trộm dựa vào địa hình hiểm trở.

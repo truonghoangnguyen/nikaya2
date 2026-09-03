@@ -3,8 +3,7 @@
 <!--pg-->
 ## Phẩm về Sự Thông Hiểu
 
-### SN 13.1 Kinh Móng Tay *Nakhasikhāsutta*{#1}
-
+### SN 13.1 Kinh Móng Tay *Nakhasikhāsutta* {#1}
 Như vầy tôi nghe. Một thời Thế Tôn ở gần
 Sāvatthī, tại Kỳ-đà Lâm, trong tịnh xá của ông Cấp Cô Độc.
 
@@ -22,8 +21,7 @@ Lợi ích của việc thông hiểu giáo pháp và có được cái thấy v
 
 
 <!--pg-->
-### SN 13.2 Kinh Hồ Sen *Pokkharaṇīsutta*{#2}
-
+### SN 13.2 Kinh Hồ Sen *Pokkharaṇīsutta* {#2}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, giả sử có một hồ sen dài năm mươi *do tuần* (league / một đơn vị đo lường cổ),
@@ -45,8 +43,7 @@ một phần trăm nghìn, vì chỉ còn tối đa bảy kiếp sống nữa.
 Lợi ích của việc thông hiểu giáo pháp và có được cái thấy về giáo pháp là lớn lao đến như vậy."
 
 <!--pg-->
-### SN 13.3 Kinh Nơi Nước Giao Thoa *Sambhejjaudakasutta*{#3}
-
+### SN 13.3 Kinh Nơi Nước Giao Thoa *Sambhejjaudakasutta* {#3}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, có những nơi mà các con sông lớn—sông Hằng,
@@ -64,8 +61,7 @@ không bằng một phần trăm, một phần nghìn, hay một phần trăm ng
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.4 Kinh Nơi Nước Giao Thoa (Thứ Hai) *Dutiyasambhejjaudakasutta*{#4}
-
+### SN 13.4 Kinh Nơi Nước Giao Thoa (Thứ Hai) *Dutiyasambhejjaudakasutta* {#4}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, có những nơi mà các con sông lớn—sông Hằng,
@@ -85,8 +81,7 @@ không bằng một phần trăm, một phần nghìn, hay một phần trăm ng
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.5 Kinh Trái Đất *Pathavīsutta*{#5}
-
+### SN 13.5 Kinh Trái Đất *Pathavīsutta* {#5}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, giả sử một người đặt bảy viên đất sét cỡ bằng
@@ -102,8 +97,7 @@ phần trăm, một phần nghìn, hay một phần trăm nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.6 Kinh Trái Đất (Thứ Hai) *Dutiyapathavīsutta*{#6}
-
+### SN 13.6 Kinh Trái Đất (Thứ Hai) *Dutiyapathavīsutta* {#6}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, giả sử quả đất vĩ đại bị bào mòn và xói lở, chỉ còn lại
@@ -121,8 +115,7 @@ phần trăm, một phần nghìn, hay một phần trăm nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.7 Kinh Đại Dương *Samuddasutta*{#7}
-
+### SN 13.7 Kinh Đại Dương *Samuddasutta* {#7}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, giả sử một người múc lên hai hoặc ba giọt nước
@@ -138,8 +131,7 @@ phần trăm, một phần nghìn, hay một phần trăm nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.8 Kinh Đại Dương (Thứ Hai) *Dutiyasamuddasutta*{#8}
-
+### SN 13.8 Kinh Đại Dương (Thứ Hai) *Dutiyasamuddasutta* {#8}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, giả sử nước trong đại dương cạn khô và bốc hơi
@@ -156,8 +148,7 @@ phần trăm, một phần nghìn, hay một phần trăm nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.9 Kinh Ngọn Núi *Pabbatasutta*{#9}
-
+### SN 13.9 Kinh Ngọn Núi *Pabbatasutta* {#9}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, giả sử một người đặt bảy viên sỏi cỡ bằng
@@ -174,8 +165,7 @@ nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.10 Kinh Ngọn Núi (Thứ Hai) *Dutiyapabbatasutta*{#10}
-
+### SN 13.10 Kinh Ngọn Núi (Thứ Hai) *Dutiyapabbatasutta* {#10}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, giả sử Hy Mã Lạp Sơn, vua của các loài núi, bị bào mòn
@@ -197,8 +187,7 @@ một phần trăm nghìn, vì chỉ còn tối đa bảy kiếp sống nữa.
 Lợi ích của việc thông hiểu giáo pháp và có được cái thấy về giáo pháp là lớn lao đến như vậy."
 
 <!--pg-->
-### SN 13.11 Kinh Ngọn Núi (Thứ Ba) *Tatiyapabbatasutta*{#11}
-
+### SN 13.11 Kinh Ngọn Núi (Thứ Ba) *Tatiyapabbatasutta* {#11}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, giả sử một người đặt lên núi Tu Di, vua của các loài

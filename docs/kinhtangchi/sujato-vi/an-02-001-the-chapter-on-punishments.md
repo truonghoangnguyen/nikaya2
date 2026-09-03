@@ -1,7 +1,6 @@
 # Phẩm Hình Phạt
 
-### AN 2.1–10 *Kammakaraṇavagga*{#1-10}
-
+### AN 2.1–10 *Kammakaraṇavagga* {#1-10}
 1\. Những Điều Nguy Hại
 
 Như vầy tôi nghe. Một thời Thế Tôn trú ở Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông Anāthapiṇḍika (Cấp Cô Độc). Tại đấy, Thế Tôn gọi các Tỳ kheo: "Này các Tỳ kheo!"

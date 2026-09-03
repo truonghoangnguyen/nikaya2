@@ -1,7 +1,6 @@
 # Phẩm về Tu Tập
 
-### AN 4.161 Tóm Tắt *Saṁkhittasutta*{#161}
-
+### AN 4.161 Tóm Tắt *Saṁkhittasutta* {#161}
 "Này các Tỳ kheo, có bốn *pháp hành* này (ways of practice / con đường tu tập). Bốn pháp hành nào?
 
 1\. *Khổ hành* (Painful practice / tu tập khổ hạnh) với *chứng đắc chậm* (slow insight / sự giác ngộ chậm),\
@@ -12,8 +11,7 @@
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.162 Chi Tiết *Vitthārasutta*{#162}
-
+### AN 4.162 Chi Tiết *Vitthārasutta* {#162}
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào?
 
 1\. Khổ hành với chứng đắc chậm,\
@@ -32,8 +30,7 @@ Và thế nào là lạc hành với chứng đắc nhanh? Đó là trường h�
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.163 Bất Tịnh *Asubhasutta*{#163}
-
+### AN 4.163 Bất Tịnh *Asubhasutta* {#163}
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào?
 
 1\. Khổ hành với chứng đắc chậm,\
@@ -52,8 +49,7 @@ Và thế nào là lạc hành với chứng đắc nhanh? Đó là trường h�
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.164 Kham Nhẫn (1) *Paṭhamakhamasutta*{#164}
-
+### AN 4.164 Kham Nhẫn (1) *Paṭhamakhamasutta* {#164}
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào? *Pháp hành không kham nhẫn* (Impatient practice / tu tập thiếu kiên nhẫn), *pháp hành kham nhẫn* (Patient practice / tu tập kiên nhẫn), *pháp hành điều phục* (Taming practice / tu tập chế ngự), và *pháp hành an tịnh* (Calming practice / tu tập làm lắng dịu).
 
 Và thế nào là pháp hành không kham nhẫn? Đó là khi có người mắng nhiếc, làm phiền, hay tranh cãi với vị ấy, vị ấy liền mắng nhiếc, làm phiền, hay tranh cãi lại họ. Đây gọi là pháp hành không kham nhẫn.
@@ -67,8 +63,7 @@ Và thế nào là pháp hành an tịnh? Đó là trường hợp một vị T�
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.165 Kham Nhẫn (2) *Dutiyakhamasutta*{#165}
-
+### AN 4.165 Kham Nhẫn (2) *Dutiyakhamasutta* {#165}
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào? Pháp hành không kham nhẫn, pháp hành kham nhẫn, pháp hành điều phục, và pháp hành an tịnh.
 
 Và thế nào là pháp hành không kham nhẫn? Đó là khi một người không thể chịu đựng được lạnh, nóng, đói, và khát. Họ không thể chịu đựng được sự xúc chạm của ruồi, muỗi, gió, nắng, và loài bò sát. Họ không thể chịu đựng được những lời chỉ trích thô lỗ và không mong muốn. Và họ không thể chịu đựng được nỗi đau thể xác---nhói buốt, dữ dội, cấp tính, khó chịu, không vừa ý, và nguy hiểm đến tính mạng. Đây gọi là pháp hành không kham nhẫn.
@@ -82,8 +77,7 @@ Và thế nào là pháp hành an tịnh? Đó là trường hợp một vị T�
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.166 Cả Hai *Ubhayasutta*{#166}
-
+### AN 4.166 Cả Hai *Ubhayasutta* {#166}
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào?
 
 1\. Khổ hành với chứng đắc chậm,\
@@ -102,8 +96,7 @@ Lạc hành với chứng đắc nhanh được cho là ưu việt về cả hai
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.167 Pháp Hành của Moggallāna *Mahāmoggallānasutta*{#167}
-
+### AN 4.167 Pháp Hành của Moggallāna *Mahāmoggallānasutta* {#167}
 Khi ấy, Tôn giả Sāriputta đi đến chỗ Tôn giả Mahāmoggallāna, và chào hỏi xã giao với ngài. Sau khi chào hỏi và nói chuyện thân mật xong, Tôn giả Sāriputta ngồi xuống một bên và nói với Tôn giả Mahāmoggallāna:
 
 "Thưa Hiền giả Moggallāna, có bốn pháp hành. Bốn pháp hành nào?
@@ -118,8 +111,7 @@ Khi ấy, Tôn giả Sāriputta đi đến chỗ Tôn giả Mahāmoggallāna, v�
 "Thưa Hiền giả Sāriputta... Tôi đã nương tựa vào khổ hành với chứng đắc nhanh để giải thoát tâm khỏi các lậu hoặc do không còn chấp thủ."
 
 <!--pg-->
-### AN 4.168 Pháp Hành của Sāriputta *Sāriputtasutta*{#168}
-
+### AN 4.168 Pháp Hành của Sāriputta *Sāriputtasutta* {#168}
 Khi ấy, Tôn giả Mahāmoggallāna đi đến chỗ Tôn giả Sāriputta, và chào hỏi xã giao với ngài. Sau khi chào hỏi và nói chuyện thân mật xong, Tôn giả Mahāmoggallāna ngồi xuống một bên, và nói với Tôn giả Sāriputta:
 
 "Thưa Hiền giả Sāriputta, có bốn pháp hành. Bốn pháp hành nào?
@@ -134,8 +126,7 @@ Khi ấy, Tôn giả Mahāmoggallāna đi đến chỗ Tôn giả Sāriputta, v�
 "Thưa Hiền giả Moggallāna... Tôi đã nương tựa vào lạc hành với chứng đắc nhanh để giải thoát tâm khỏi các lậu hoặc do không còn chấp thủ."
 
 <!--pg-->
-### AN 4.169 Có Nỗ Lực Gia Công *Sasaṅkhārasutta*{#169}
-
+### AN 4.169 Có Nỗ Lực Gia Công *Sasaṅkhārasutta* {#169}
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy trên đời. Bốn hạng người nào?
 
 1\. Người *viên tịch* (fully extinguished / đạt Niết-bàn hoàn toàn) *ngay trong đời này* (in this very life / ngay trong kiếp sống hiện tại) *có hành* (by making extra effort / cần nỗ lực gia công).\
@@ -154,8 +145,7 @@ Và thế nào là người viên tịch sau khi thân hoại mạng chung vô h
 Đó là bốn hạng người được tìm thấy trên đời."
 
 <!--pg-->
-### AN 4.170 Song Hành *Yuganaddhasutta*{#170}
-
+### AN 4.170 Song Hành *Yuganaddhasutta* {#170}
 Tôi nghe như vầy. Một thời Tôn giả Ānanda trú gần Kosambī, tại Tu viện Ghosita. Tại đó, Tôn giả Ānanda gọi các Tỳ kheo: "Này các Hiền giả Tỳ kheo!"
 
 "Thưa Hiền giả," họ đáp. Tôn giả Ānanda nói điều này:

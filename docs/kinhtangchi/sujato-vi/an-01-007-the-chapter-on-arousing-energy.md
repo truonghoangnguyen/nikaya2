@@ -1,7 +1,6 @@
 # Phẩm Về Khởi Phát Siêng Năng
 
-### AN 1.61--70 *Vīriyārambhādivagga* (Phẩm Khởi Phát Siêng Năng, v.v.){#61-70}
-
+### AN 1.61--70 *Vīriyārambhādivagga* (Phẩm Khởi Phát Siêng Năng, v.v.) {#61-70}
 61\. "Này các Tỷ kheo, Ta không thấy một pháp nào khác làm cho các *thiện pháp* (skillful qualities / các phẩm chất tốt lành, thiện lành) sanh khởi, hay làm cho các *bất thiện pháp* (unskillful qualities / các phẩm chất xấu ác, không tốt lành) suy giảm, như là *khởi phát siêng năng* (arousing energy / sự nỗ lực, tinh tấn)."
 "Khi các ngươi siêng năng, các *thiện pháp* sanh khởi và các *bất thiện pháp* suy giảm."
 <!--pg-->

@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương về các Đức Phật
 
-### SN 12.1 Duyên Khởi *Paṭiccasamuppādasutta*{#1}
-
+### SN 12.1 Duyên Khởi *Paṭiccasamuppādasutta* {#1}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Xá-vệ, tại Tịnh xá Kỳ-viên của ông Cấp Cô Độc. Tại đó, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật nói điều này:
@@ -20,8 +19,7 @@ Khi vô minh phai nhạt và chấm dứt không còn dư tàn, hành diệt. Kh
 Đó là những gì Đức Phật đã nói. Các Tỷ kheo hoan hỷ, tín thọ lời Đức Phật dạy.
 
 <!--pg-->
-### SN 12.2 Phân Tích *Vibhaṅgasutta*{#2}
-
+### SN 12.2 Phân Tích *Vibhaṅgasutta* {#2}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Ta sẽ giảng và phân tích cho các ngươi về duyên khởi. Hãy lắng nghe và chú tâm, Ta sẽ nói."
@@ -59,8 +57,7 @@ Và như vậy, vô minh là điều kiện cho hành sinh khởi.
 Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ khối khổ đau này phát sinh. Khi vô minh phai nhạt và chấm dứt không còn dư tàn, hành diệt. Khi hành diệt, thức diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.3 Thực Hành *Paṭipadāsutta*{#3}
-
+### SN 12.3 Thực Hành *Paṭipadāsutta* {#3}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Ta sẽ giảng cho các ngươi về con đường sai và con đường đúng. Hãy lắng nghe và chú tâm, Ta sẽ nói."
@@ -74,8 +71,7 @@ Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ k
 Và thế nào là con đường đúng? Khi vô minh phai nhạt và chấm dứt không còn dư tàn, hành diệt. Khi hành diệt, thức diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt. Đây được gọi là con đường đúng."
 
 <!--pg-->
-### SN 12.4 Về Phật Tỳ-bà-thi *Vipassīsutta*{#4}
-
+### SN 12.4 Về Phật Tỳ-bà-thi *Vipassīsutta* {#4}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Đức Phật Tỳ-bà-thi, bậc Thế Tôn, bậc *A-la-hán* (perfected one / bậc đã giác ngộ hoàn toàn), bậc *Chánh Đẳng Giác* (fully awakened Buddha / bậc giác ngộ hoàn toàn và viên mãn) đã có suy nghĩ này trước khi giác ngộ, khi Ngài vẫn chưa giác ngộ nhưng đang hướng tâm đến giác ngộ: 'Than ôi, thế giới này đã rơi vào phiền não. Nó sinh ra, già đi, chết đi, qua đời, và được tái sinh, nhưng lại không hiểu làm thế nào để thoát khỏi khổ đau này, khỏi sự già và chết. Ôi, khi nào mới tìm thấy được lối thoát khỏi khổ đau này, khỏi sự già và chết?'
@@ -133,33 +129,27 @@ Và như vậy, khi vô minh diệt, hành diệt. Khi hành diệt, thức di�
 **(Kể đầy đủ cho mỗi vị trong bảy vị Phật.)**
 
 <!--pg-->
-### SN 12.5 Thi-khí *Sikhīsutta*{#5}
-
+### SN 12.5 Thi-khí *Sikhīsutta* {#5}
 "Đức Phật Thi-khí, bậc Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ..."
 
 <!--pg-->
-### SN 12.6 Tỳ-xá-phù *Vessabhūsutta*{#6}
-
+### SN 12.6 Tỳ-xá-phù *Vessabhūsutta* {#6}
 "Đức Phật Tỳ-xá-phù, bậc Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ..."
 
 <!--pg-->
-### SN 12.7 Câu-lưu-tôn *Kakusandhasutta*{#7}
-
+### SN 12.7 Câu-lưu-tôn *Kakusandhasutta* {#7}
 "Đức Phật Câu-lưu-tôn, bậc Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ..."
 
 <!--pg-->
-### SN 12.8 Câu-na-hàm *Koṇāgamanasutta*{#8}
-
+### SN 12.8 Câu-na-hàm *Koṇāgamanasutta* {#8}
 "Đức Phật Câu-na-hàm, bậc Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ..."
 
 <!--pg-->
-### SN 12.9 Ca-diếp *Kassapasutta*{#9}
-
+### SN 12.9 Ca-diếp *Kassapasutta* {#9}
 "Đức Phật Ca-diếp, bậc Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ..."
 
 <!--pg-->
-### SN 12.10 Cồ-đàm *Gotamasutta*{#10}
-
+### SN 12.10 Cồ-đàm *Gotamasutta* {#10}
 "Này các Tỷ kheo, trước khi giác ngộ—khi Ta vẫn chưa giác ngộ nhưng đang hướng tâm đến giác ngộ—Ta đã suy nghĩ: 'Than ôi, thế giới này đã rơi vào phiền não. Nó sinh ra, già đi, chết đi, qua đời, và được tái sinh, nhưng lại không hiểu làm thế nào để thoát khỏi khổ đau này, khỏi sự già và chết. Ôi, khi nào mới tìm thấy được lối thoát khỏi khổ đau này, khỏi sự già và chết?'
 
 Rồi Ta khởi lên ý nghĩ: 'Khi cái gì tồn tại thì có lão tử? Cái gì là điều kiện cho lão tử?' Rồi, qua như lý tác ý, Ta liễu tri bằng trí tuệ: 'Khi sinh tồn tại thì có lão tử. Sinh là điều kiện cho lão tử.'
@@ -179,8 +169,7 @@ Và như vậy, khi vô minh diệt, hành diệt. Khi hành diệt, thức di�
 <!--pg-->
 ## Chương về Vật Thực
 
-### SN 12.11 Vật Thực *Āhārasutta*{#11}
-
+### SN 12.11 Vật Thực *Āhārasutta* {#11}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Xá-vệ, tại Tịnh xá Kỳ-viên của ông Cấp Cô Độc. ...
 
 "Này các Tỷ kheo, có bốn loại *vật thực* (fuels / thức ăn nuôi dưỡng) này. Chúng duy trì các chúng sanh đã được sinh ra và giúp đỡ những chúng sanh sắp được sinh ra. Bốn loại đó là gì? *Đoàn thực* (Solid food / thức ăn dạng vật chất), dù thô hay tế; *xúc thực* (contact as fuel / sự tiếp xúc làm thức ăn) là thứ hai, *ý tư niệm thực* (mental intention as fuel / ý định làm thức ăn) là thứ ba, và *thức thực* (consciousness as fuel / sự nhận biết làm thức ăn) là thứ tư. Đây là bốn loại vật thực duy trì các chúng sanh đã được sinh ra và giúp đỡ những chúng sanh sắp được sinh ra.
@@ -192,8 +181,7 @@ Và như vậy, vô minh là điều kiện cho hành sinh khởi.
 Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ khối khổ đau này phát sinh. Khi vô minh phai nhạt và chấm dứt không còn dư tàn, hành diệt. Khi hành diệt, thức diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.12 Phagguna Búi Tóc *Moḷiyaphaggunasutta*{#12}
-
+### SN 12.12 Phagguna Búi Tóc *Moḷiyaphaggunasutta* {#12}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, có bốn loại vật thực này. Chúng duy trì các chúng sanh đã được sinh ra và giúp đỡ những chúng sanh sắp được sinh ra. Bốn loại đó là gì? Đoàn thực, dù thô hay tế; xúc thực là thứ hai, ý tư niệm thực là thứ ba, và thức thực là thứ tư. Đây là bốn loại vật thực duy trì các chúng sanh đã được sinh ra và giúp đỡ những chúng sanh sắp được sinh ra."
@@ -231,8 +219,7 @@ Khi Ngài nói điều này, Tôn giả Moḷiyaphagguna thưa với Đức Ph�
 Khi sáu xứ của xúc phai nhạt và chấm dứt không còn dư tàn, xúc diệt. Khi xúc diệt, thọ diệt. Khi thọ diệt, ái diệt. Khi ái diệt, thủ diệt. Khi thủ diệt, hữu diệt. Khi hữu diệt, sinh diệt. Khi sinh diệt, lão tử, sầu, bi, khổ, ưu, não diệt. Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.13 Sa-môn và Bà-la-môn *Samaṇabrāhmaṇasutta*{#13}
-
+### SN 12.13 Sa-môn và Bà-la-môn *Samaṇabrāhmaṇasutta* {#13}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, có những vị sa-môn và bà-la-môn không hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Họ không hiểu về sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... Họ không hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Ta không xem họ là những sa-môn và bà-la-môn chân chính. Những vị tôn giả đó không nhận ra mục đích của đời sống sa-môn hay bà-la-môn, và không sống với sự chứng ngộ đó bằng chính tuệ giác của mình.
@@ -240,8 +227,7 @@ Tại Xá-vệ.
 Có những vị sa-môn và bà-la-môn hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Họ hiểu về sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... Họ hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Ta xem họ là những sa-môn và bà-la-môn chân chính. Những vị tôn giả đó nhận ra mục đích của đời sống sa-môn hay bà-la-môn, và sống với sự chứng ngộ đó bằng chính tuệ giác của mình."
 
 <!--pg-->
-### SN 12.14 Sa-môn và Bà-la-môn (thứ 2) *Dutiyasamaṇabrāhmaṇasutta*{#14}
-
+### SN 12.14 Sa-môn và Bà-la-môn (thứ 2) *Dutiyasamaṇabrāhmaṇasutta* {#14}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, có những vị sa-môn và bà-la-môn không hiểu những điều này, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của chúng. Họ không hiểu những điều gì?
@@ -253,8 +239,7 @@ Có những vị sa-môn và bà-la-môn hiểu những điều này, nguồn g�
 Họ hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Họ hiểu về sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... Họ hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Họ hiểu những điều này, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của chúng. Ta xem họ là những sa-môn và bà-la-môn chân chính. Những vị tôn giả đó nhận ra mục đích của đời sống sa-môn hay bà-la-môn, và sống với sự chứng ngộ đó bằng chính tuệ giác của mình."
 
 <!--pg-->
-### SN 12.15 Ca-chiên-diên *Kaccānagottasutta*{#15}
-
+### SN 12.15 Ca-chiên-diên *Kaccānagottasutta* {#15}
 Tại Xá-vệ.
 
 Rồi Tôn giả Ca-chiên-diên đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
@@ -282,8 +267,7 @@ Tránh hai cực đoan này, *Như Lai* (Realized One / bậc đã đến và đ
 Khi vô minh phai nhạt và chấm dứt không còn dư tàn, hành diệt. Khi hành diệt, thức diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt.'"
 
 <!--pg-->
-### SN 12.16 Người Thuyết Pháp *Dhammakathikasutta*{#16}
-
+### SN 12.16 Người Thuyết Pháp *Dhammakathikasutta* {#16}
 Tại Xá-vệ.
 
 Rồi một Tỷ kheo đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
@@ -295,8 +279,7 @@ Rồi một Tỷ kheo đến gặp Đức Phật, đảnh lễ, rồi ngồi xu�
 Nếu một Tỷ kheo giảng Pháp vì sự yếm ly đối với sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... hành ... Nếu một Tỷ kheo giảng Pháp vì sự yếm ly, ly tham, và đoạn diệt đối với vô minh, vị ấy xứng đáng được gọi là 'Tỷ kheo thuyết giảng về Pháp'. Nếu vị ấy thực hành vì sự yếm ly, ly tham, và đoạn diệt đối với vô minh, vị ấy xứng đáng được gọi là 'Tỷ kheo thực hành đúng theo giáo pháp'. Nếu vị ấy được giải thoát do không chấp thủ, do yếm ly, ly tham, và đoạn diệt đối với vô minh, vị ấy xứng đáng được gọi là 'Tỷ kheo đã đạt được Niết-bàn ngay trong đời này'."
 
 <!--pg-->
-### SN 12.17 Với Ca-diếp, Du Sĩ Lõa Thể *Acelakassapasutta*{#17}
-
+### SN 12.17 Với Ca-diếp, Du Sĩ Lõa Thể *Acelakassapasutta* {#17}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Vương-xá, trong Trúc Lâm, nơi các con sóc được cho ăn.
 
 Rồi vào buổi sáng, Đức Phật đắp y, mang bát và y, vào thành Vương-xá để khất thực. Du sĩ lõa thể Ca-diếp thấy Đức Phật từ xa đi tới. Ông đến gần Đức Phật và chào hỏi Ngài.
@@ -354,8 +337,7 @@ Và du sĩ lõa thể Ca-diếp đã được xuất gia, thọ giới trước 
 Ngài hiểu rằng: "Tái sinh đã chấm dứt; đời sống phạm hạnh đã hoàn thành; những gì cần làm đã được làm; không còn gì nữa cho nơi này." Và Tôn giả Ca-diếp đã trở thành một trong những bậc A-la-hán.
 
 <!--pg-->
-### SN 12.18 Với Timbaruka *Timbarukasutta*{#18}
-
+### SN 12.18 Với Timbaruka *Timbarukasutta* {#18}
 Tại Xá-vệ.
 
 Rồi *du sĩ* (wanderer / người tu hành đi lang thang, không có nơi ở cố định) Timbaruka đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ông ngồi xuống một bên và thưa với Đức Phật:
@@ -393,8 +375,7 @@ Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ k
 Khi Ngài nói điều này, du sĩ Timbaruka thưa với Đức Phật: "Thật tuyệt vời, Tôn giả Cồ-đàm! Tuyệt vời! ... Con xin quy y Tôn giả Cồ-đàm, quy y Pháp, và quy y Tăng đoàn Tỷ kheo. Kể từ hôm nay, xin Tôn giả Cồ-đàm hãy ghi nhớ con là một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 12.19 Người Trí và Kẻ Ngu *Bālapaṇḍitasutta*{#19}
-
+### SN 12.19 Người Trí và Kẻ Ngu *Bālapaṇḍitasutta* {#19}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, đối với một kẻ ngu bị vô minh che lấp và bị ái dục trói buộc, thân này đã được tạo ra. Vì vậy có sự nhị nguyên của thân này và danh sắc bên ngoài. Xúc phụ thuộc vào sự nhị nguyên này. Khi tiếp xúc qua một trong sáu căn xứ, kẻ ngu trải nghiệm lạc và khổ.
@@ -414,8 +395,7 @@ Vậy, sự khác biệt giữa kẻ ngu và người trí là gì?"
 Đối với một người trí bị vô minh che lấp và bị ái dục trói buộc, thân này đã được tạo ra. Nhưng người trí đã từ bỏ vô minh đó và chấm dứt ái dục đó. Tại sao vậy? Người trí đã hoàn thành con đường tâm linh để chấm dứt hoàn toàn khổ đau. Do đó, khi thân họ tan rã, người trí không được tái sinh trong một thân khác. Không được tái sinh trong một thân khác, họ được giải thoát khỏi sinh, lão, và tử, khỏi sầu, bi, khổ, ưu, và não. Họ được giải thoát khỏi khổ đau, Ta nói vậy. Đây là sự khác biệt ở đây giữa kẻ ngu và người trí, đó là, việc sống đời sống phạm hạnh."
 
 <!--pg-->
-### SN 12.20 Các Điều Kiện *Paccayasutta*{#20}
-
+### SN 12.20 Các Điều Kiện *Paccayasutta* {#20}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Ta sẽ giảng cho các ngươi về duyên khởi và các *pháp duyên sinh* (dependently originated phenomena / các hiện tượng sinh khởi do duyên). Hãy lắng nghe và chú tâm, Ta sẽ nói."
@@ -445,8 +425,7 @@ Khi một *thánh đệ tử* (noble disciple / người đệ tử đã chứng
 <!--pg-->
 ## Chương về Mười Lực
 
-### SN 12.21 Mười Lực *Dasabalasutta*{#21}
-
+### SN 12.21 Mười Lực *Dasabalasutta* {#21}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, một bậc Như Lai có mười lực và bốn loại tự tín. Với những điều này, Ngài chiếm vị trí của con bò đầu đàn, rống lên tiếng rống sư tử trong các hội chúng, và chuyển bánh xe pháp thiêng liêng.
@@ -460,8 +439,7 @@ Vô minh là điều kiện cho hành sinh khởi.
 Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ khối khổ đau này phát sinh. Khi vô minh phai nhạt và chấm dứt không còn dư tàn, hành diệt. Khi hành diệt, thức diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.22 Mười Lực (thứ 2) *Dutiyadasabalasutta*{#22}
-
+### SN 12.22 Mười Lực (thứ 2) *Dutiyadasabalasutta* {#22}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, một bậc Như Lai có mười lực và bốn loại tự tín. Với những điều này, Ngài chiếm vị trí của con bò đầu đàn, rống lên tiếng rống sư tử trong các hội chúng, và chuyển bánh xe pháp thiêng liêng.
@@ -485,8 +463,7 @@ Vì vậy, các ngươi nên khơi dậy năng lực để đạt được nhữ
 Xem xét những gì tốt cho chính mình, này các Tỷ kheo, là đủ để các ngươi kiên trì với sự siêng năng. Xem xét những gì tốt cho người khác là đủ để các ngươi kiên trì với sự siêng năng. Xem xét những gì tốt cho cả hai là đủ để các ngươi kiên trì với sự siêng năng."
 
 <!--pg-->
-### SN 12.23 Các Điều Kiện Thiết Yếu *Upanisasutta*{#23}
-
+### SN 12.23 Các Điều Kiện Thiết Yếu *Upanisasutta* {#23}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Ta nói rằng sự đoạn tận các *lậu hoặc* (defilements / những ô nhiễm, phiền não sâu kín) là dành cho người biết và thấy, không phải cho người không biết và không thấy. Dành cho người biết và thấy điều gì? 'Như vậy là sắc, như vậy là nguồn gốc của sắc, như vậy là sự chấm dứt của sắc. Như vậy là thọ ... Như vậy là tưởng ... Như vậy là hành ... Như vậy là thức, như vậy là nguồn gốc của thức, như vậy là sự chấm dứt của thức.' Sự đoạn tận các lậu hoặc là dành cho người biết và thấy điều này.
@@ -506,8 +483,7 @@ Giống như khi trời mưa lớn trên đỉnh núi, và nước chảy xuốn
 Cũng vậy, vô minh là điều kiện thiết yếu cho hành. ... Giải thoát là điều kiện thiết yếu cho tri kiến về sự đoạn tận."
 
 <!--pg-->
-### SN 12.24 Tín Đồ Các Tôn Giáo Khác *Aññatitthiyasutta*{#24}
-
+### SN 12.24 Tín Đồ Các Tôn Giáo Khác *Aññatitthiyasutta* {#24}
 Gần thành Vương-xá, trong Trúc Lâm. Rồi Tôn giả Xá-lợi-phất đắp y vào buổi sáng, mang bát và y, vào thành Vương-xá để khất thực. Rồi ngài khởi lên ý nghĩ: "Còn quá sớm để đi khất thực ở Vương-xá. Tại sao mình không đến thăm tu viện của các du sĩ ngoại đạo?"
 
 Rồi ngài đến tu viện của các du sĩ ngoại đạo và chào hỏi các du sĩ ở đó. Sau khi chào hỏi và trò chuyện lịch sự xong, ngài ngồi xuống một bên. Các du sĩ nói với ngài:
@@ -547,8 +523,7 @@ Giả sử họ hỏi con: 'Nguồn gốc của hữu là gì?' Con sẽ trả l
 Giả sử họ hỏi con: 'Nguồn gốc của thủ là gì?' ... ái ... thọ ... Giả sử họ hỏi con: 'Nguồn gốc của xúc là gì?' Con sẽ trả lời như thế này: 'Lục nhập là nguồn gốc, khởi điểm, nơi sinh, và sự bắt đầu của xúc.' 'Khi sáu xứ của xúc phai nhạt và chấm dứt không còn dư tàn, xúc diệt. Khi xúc diệt, thọ diệt. Khi thọ diệt, ái diệt. Khi ái diệt, thủ diệt. Khi thủ diệt, hữu diệt. Khi hữu diệt, sinh diệt. Khi sinh diệt, lão tử, sầu, bi, khổ, ưu, não diệt. Đó là cách toàn bộ khối khổ đau này chấm dứt.' Đó là cách con sẽ trả lời một câu hỏi như vậy."
 
 <!--pg-->
-### SN 12.25 Với Bhūmija *Bhūmijasutta*{#25}
-
+### SN 12.25 Với Bhūmija *Bhūmijasutta* {#25}
 Tại Xá-vệ.
 
 Rồi vào cuối buổi chiều, Tôn giả Bhūmija ra khỏi nơi ẩn tu, đến gặp Tôn giả Xá-lợi-phất, và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ngài ngồi xuống một bên và nói với Tôn giả Xá-lợi-phất:
@@ -576,8 +551,7 @@ Tự mình khởi xướng hành động của thân, lời nói, và tâm, do �
 Vô minh bao gồm trong tất cả những điều này. Nhưng khi vô minh phai nhạt và chấm dứt không còn dư tàn, không còn thân, không còn lời nói, và không còn tâm, do đó mà lạc và khổ không còn phát sinh trong chính mình. Không còn trường, không còn đất, không còn phạm vi, không còn cơ sở, do đó mà lạc và khổ không còn phát sinh trong chính mình."
 
 <!--pg-->
-### SN 12.26 Với Upavāna *Upavāṇasutta*{#26}
-
+### SN 12.26 Với Upavāna *Upavāṇasutta* {#26}
 Tại Xá-vệ.
 
 Rồi Tôn giả Upavāna đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và thưa với Ngài:
@@ -593,8 +567,7 @@ Trong trường hợp những sa-môn và bà-la-môn tuyên bố rằng khổ �
 Trong trường hợp những sa-môn và bà-la-môn tuyên bố rằng khổ đau là do tự mình làm ra, không thể nào họ sẽ trải nghiệm điều đó mà không có xúc. ... Trong trường hợp những người tuyên bố rằng khổ đau phát sinh ngẫu nhiên, không do mình cũng không do người khác làm ra, không thể nào họ sẽ trải nghiệm điều đó mà không có xúc."
 
 <!--pg-->
-### SN 12.27 Các Điều Kiện *Paccayasutta*{#27}
-
+### SN 12.27 Các Điều Kiện *Paccayasutta* {#27}
 Tại Xá-vệ.
 
 "Vô minh là điều kiện cho hành sinh khởi.
@@ -610,8 +583,7 @@ Và thế nào là hành? Có ba loại hành: thân hành, khẩu hành, và ý
 Một thánh đệ tử hiểu các điều kiện, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của chúng. Một thánh đệ tử như vậy được gọi là 'người thành tựu về kiến', 'người thành tựu về thị kiến', 'người đã đến với chánh pháp', 'người thấy được chánh pháp này', 'người có tri kiến của bậc hữu học', 'người đã nhập vào dòng thánh', 'bậc thánh có trí tuệ thâm nhập', và cũng là 'người đang đứng đẩy mở cánh cửa đến sự bất tử'."
 
 <!--pg-->
-### SN 12.28 Một Tỷ Kheo *Bhikkhusutta*{#28}
-
+### SN 12.28 Một Tỷ Kheo *Bhikkhusutta* {#28}
 Tại Xá-vệ.
 
 "Một Tỷ kheo hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Họ hiểu về sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... Họ hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó.
@@ -625,8 +597,7 @@ Và thế nào là hành? Có ba loại hành: thân hành, khẩu hành, và ý
 Một Tỷ kheo hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Họ hiểu về sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... Họ hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Một Tỷ kheo như vậy được gọi là 'người thành tựu về kiến', 'người thành tựu về thị kiến', 'người đã đến với chánh pháp', 'người thấy được chánh pháp này', 'người có tri kiến của bậc hữu học', 'người đã nhập vào dòng thánh', 'bậc thánh có trí tuệ thâm nhập', và cũng là 'người đang đứng đẩy mở cánh cửa đến sự bất tử'."
 
 <!--pg-->
-### SN 12.29 Sa-môn và Bà-la-môn *Samaṇabrāhmaṇasutta*{#29}
-
+### SN 12.29 Sa-môn và Bà-la-môn *Samaṇabrāhmaṇasutta* {#29}
 Tại Xá-vệ.
 
 "Có những vị sa-môn và bà-la-môn không hoàn toàn hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Họ không hoàn toàn hiểu về sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... Họ không hoàn toàn hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Ta không xem họ là những sa-môn và bà-la-môn chân chính. Những vị tôn giả đó không nhận ra mục đích của đời sống sa-môn hay bà-la-môn, và không sống với sự chứng ngộ đó bằng chính tuệ giác của mình.
@@ -634,8 +605,7 @@ Tại Xá-vệ.
 Có những vị sa-môn và bà-la-môn hoàn toàn hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Họ hoàn toàn hiểu về sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... Họ hoàn toàn hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Ta xem họ là những sa-môn và bà-la-môn chân chính. Những vị tôn giả đó nhận ra mục đích của đời sống sa-môn hay bà-la-môn, và sống với sự chứng ngộ đó bằng chính tuệ giác của mình."
 
 <!--pg-->
-### SN 12.30 Sa-môn và Bà-la-môn (thứ 2) *Dutiyasamaṇabrāhmaṇasutta*{#30}
-
+### SN 12.30 Sa-môn và Bà-la-môn (thứ 2) *Dutiyasamaṇabrāhmaṇasutta* {#30}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, có những vị sa-môn và bà-la-môn không hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Không thể nào họ sẽ an trú vượt qua được lão tử. Họ không hiểu về sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... Họ không hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Không thể nào họ sẽ an trú vượt qua được hành.
@@ -645,8 +615,7 @@ Có những vị sa-môn và bà-la-môn hiểu về lão tử, nguồn gốc, s
 <!--pg-->
 ## Chương với Kaḷāra, người Quý tộc
 
-### SN 12.31 Cái Đã Thành *Bhūtasutta*{#31}
-
+### SN 12.31 Cái Đã Thành *Bhūtasutta* {#31}
 Một thời Đức Phật đang ở gần Xá-vệ.
 
 Rồi Đức Phật nói với Tôn giả Xá-lợi-phất: "Này Xá-lợi-phất, điều này đã được nói trong 'Con Đường đến Bờ Kia', trong 'Những Câu Hỏi của Ajita':
@@ -686,8 +655,7 @@ Bạch Thế Tôn, về những gì đã được nói trong 'Con Đường đ�
 Đây là cách để hiểu ý nghĩa chi tiết của những gì đã được nói ngắn gọn."
 
 <!--pg-->
-### SN 12.32 Với Kaḷāra, người Quý tộc *Kaḷārasutta*{#32}
-
+### SN 12.32 Với Kaḷāra, người Quý tộc *Kaḷārasutta* {#32}
 Tại Xá-vệ.
 
 Rồi Tỷ kheo Kaḷāra, người quý tộc, đến gặp Tôn giả Xá-lợi-phất và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ngài ngồi xuống một bên và nói với Tôn giả Xá-lợi-phất: "Thưa Tôn giả Xá-lợi-phất, Tỷ kheo Moḷiyaphagguna đã từ bỏ việc tu học và trở về đời sống thấp kém hơn."
@@ -753,8 +721,7 @@ Rồi Kaḷāra, người quý tộc, đến gặp Đức Phật, đảnh lễ, 
 "Này Tỷ kheo, Xá-lợi-phất đã liễu tri rõ ràng nguyên lý của giáo pháp, đến nỗi ông ấy có thể trả lời bất kỳ câu hỏi nào Ta có thể hỏi ông ấy bằng những từ ngữ và cách thức khác nhau cho đến ngày và đêm thứ bảy."
 
 <!--pg-->
-### SN 12.33 Nền Tảng của Tri Kiến *Ñāṇavatthusutta*{#33}
-
+### SN 12.33 Nền Tảng của Tri Kiến *Ñāṇavatthusutta* {#33}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Ta sẽ giảng bốn mươi bốn nền tảng của tri kiến. Hãy lắng nghe và chú tâm, Ta sẽ nói."
@@ -788,8 +755,7 @@ Bất kỳ sa-môn và bà-la-môn nào trong tương lai sẽ trực tiếp bi�
 Một thánh đệ tử đã thanh lọc và làm trong sạch hai tri kiến này—tri kiến về các hiện tượng hiện tại, và tri kiến suy luận. Khi một thánh đệ tử đã làm điều này, họ được gọi là 'người thành tựu về kiến', 'người thành tựu về thị kiến', 'người đã đến với chánh pháp', 'người thấy được chánh pháp này', 'người có tri kiến của bậc hữu học', 'người đã nhập vào dòng thánh', 'bậc thánh có trí tuệ thâm nhập', và cũng là 'người đang đứng đẩy mở cánh cửa đến sự bất tử'."
 
 <!--pg-->
-### SN 12.34 Nền Tảng của Tri Kiến (thứ 2) *Dutiyañāṇavatthusutta*{#34}
-
+### SN 12.34 Nền Tảng của Tri Kiến (thứ 2) *Dutiyañāṇavatthusutta* {#34}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Ta sẽ giảng bảy mươi bảy nền tảng của tri kiến. Hãy lắng nghe và chú tâm, Ta sẽ nói."
@@ -801,8 +767,7 @@ Tại Xá-vệ.
 Tri kiến rằng hữu là điều kiện cho sinh ... Tri kiến rằng vô minh là điều kiện cho hành, và tri kiến rằng khi vô minh không tồn tại, không có hành. Cũng về quá khứ: tri kiến rằng vô minh là điều kiện cho hành, và tri kiến rằng khi vô minh không tồn tại, không có hành. Cũng về tương lai: tri kiến rằng vô minh là điều kiện cho hành, và tri kiến rằng khi vô minh không tồn tại, không có hành. Và cũng là tri kiến của họ rằng ngay cả tri kiến về sự ổn định của các nguyên lý tự nhiên này cũng có khả năng kết thúc, tan biến, phai nhạt, và đoạn diệt. Đây được gọi là bảy mươi bảy nền tảng của tri kiến."
 
 <!--pg-->
-### SN 12.35 Vô Minh là Điều Kiện *Avijjāpaccayasutta*{#35}
-
+### SN 12.35 Vô Minh là Điều Kiện *Avijjāpaccayasutta* {#35}
 Tại Xá-vệ.
 
 "Vô minh là điều kiện cho hành sinh khởi.
@@ -834,8 +799,7 @@ Khi vô minh phai nhạt và chấm dứt không còn dư tàn, thì bất kỳ 
 Khi vô minh phai nhạt và chấm dứt không còn dư tàn, thì bất kỳ sự lắt léo, lẩn tránh, và né tránh nào cũng được từ bỏ: 'Hành là gì, và chúng thuộc về ai?' hoặc 'hành là một chuyện, người sở hữu chúng là một chuyện khác', hoặc 'linh hồn và thân xác là một', hoặc 'linh hồn và thân xác là khác nhau.' Tất cả những điều này đều bị cắt đứt tận gốc, làm cho giống như một gốc cây cọ, bị xóa sổ, và không thể phát sinh trong tương lai."
 
 <!--pg-->
-### SN 12.36 Vô Minh là Điều Kiện (thứ 2) *Dutiyaavijjāpaccayasutta*{#36}
-
+### SN 12.36 Vô Minh là Điều Kiện (thứ 2) *Dutiyaavijjāpaccayasutta* {#36}
 Tại Xá-vệ.
 
 "Vô minh là điều kiện cho hành sinh khởi.
@@ -851,8 +815,7 @@ Khi vô minh phai nhạt và chấm dứt không còn dư tàn, thì bất kỳ 
 Khi vô minh phai nhạt và chấm dứt không còn dư tàn, thì bất kỳ sự lắt léo, lẩn tránh, và né tránh nào cũng được từ bỏ: 'Sinh là gì ...' 'Hữu là gì ...' 'Thủ là gì ...' 'Ái là gì ...' 'Thọ là gì ...' 'Xúc là gì ...' 'Lục nhập là gì ...' 'Danh sắc là gì ...' 'Thức là gì ...' 'Hành là gì, và chúng thuộc về ai?' hoặc 'hành là một chuyện, người sở hữu chúng là một chuyện khác', hoặc 'linh hồn và thân xác là đồng nhất', hoặc 'linh hồn và thân xác là khác nhau'. Tất cả những điều này đều bị cắt đứt tận gốc, làm cho giống như một gốc cây cọ, bị xóa sổ, và không thể phát sinh trong tương lai."
 
 <!--pg-->
-### SN 12.37 Không Phải Của Ngươi *Natumhasutta*{#37}
-
+### SN 12.37 Không Phải Của Ngươi *Natumhasutta* {#37}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, thân này không phải của các ngươi hay của bất kỳ ai khác. Nó là nghiệp cũ, và cần được xem là được tạo ra bởi các hành và ý định, là thứ để được cảm thọ.
@@ -862,8 +825,7 @@ Một thánh đệ tử có học cẩn thận và như lý tác ý về chính 
 Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ khối khổ đau này phát sinh. Khi vô minh phai nhạt và chấm dứt không còn dư tàn, hành diệt. Khi hành diệt, thức diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt.'"
 
 <!--pg-->
-### SN 12.38 Ý Định *Cetanāsutta*{#38}
-
+### SN 12.38 Ý Định *Cetanāsutta* {#38}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, những gì các ngươi chủ ý hay hoạch định, và những gì các ngươi có khuynh hướng ngủ ngầm, sẽ trở thành một điểm tựa cho sự tiếp nối của thức. Khi điểm tựa này tồn tại, thức được thiết lập. Khi thức được thiết lập và tăng trưởng, có sự tái sinh vào một trạng thái tồn tại mới trong tương lai. Khi có sự tái sinh vào một trạng thái tồn tại mới trong tương lai, sinh, lão, và tử trong tương lai sẽ đến, cũng như sầu, bi, khổ, ưu, và não. Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -873,8 +835,7 @@ Nếu các ngươi không chủ ý hay hoạch định, nhưng vẫn có khuynh 
 Nếu các ngươi không chủ ý, không hoạch định, hay không có khuynh hướng ngủ ngầm, điều này không trở thành một điểm tựa cho sự tiếp nối của thức. Không có điểm tựa, thức không được thiết lập. Khi thức không được thiết lập và không tăng trưởng, không có sự tái sinh vào một trạng thái tồn tại mới trong tương lai. Khi không có sự tái sinh vào một trạng thái tồn tại mới trong tương lai, sinh, lão, và tử trong tương lai sẽ diệt, cũng như sầu, bi, khổ, ưu, và não. Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.39 Ý Định (thứ 2) *Dutiyacetanāsutta*{#39}
-
+### SN 12.39 Ý Định (thứ 2) *Dutiyacetanāsutta* {#39}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, những gì các ngươi chủ ý hay hoạch định, và những gì các ngươi có khuynh hướng ngủ ngầm, sẽ trở thành một điểm tựa cho sự tiếp nối của thức. Khi điểm tựa này tồn tại, thức được thiết lập. Khi thức được thiết lập, danh sắc được hình thành. Danh sắc là điều kiện cho lục nhập. Lục nhập là điều kiện cho xúc. Xúc là điều kiện cho thọ. ... ái ... thủ ... hữu ... sinh ... lão tử, sầu, bi, khổ, ưu, và não đến. Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -884,8 +845,7 @@ Nếu các ngươi không chủ ý hay hoạch định, nhưng vẫn có khuynh 
 Nếu các ngươi không chủ ý, không hoạch định, hay không có khuynh hướng ngủ ngầm, điều này không trở thành một điểm tựa cho sự tiếp nối của thức. Không có điểm tựa, thức không được thiết lập. Khi thức không được thiết lập và không tăng trưởng, danh sắc không được hình thành. Khi danh sắc diệt, lục nhập diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.40 Ý Định (thứ 3) *Tatiyacetanāsutta*{#40}
-
+### SN 12.40 Ý Định (thứ 3) *Tatiyacetanāsutta* {#40}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, những gì các ngươi chủ ý hay hoạch định, và những gì các ngươi có khuynh hướng ngủ ngầm, sẽ trở thành một điểm tựa cho sự tiếp nối của thức. Khi điểm tựa này tồn tại, thức được thiết lập. Khi thức được thiết lập và tăng trưởng, có một khuynh hướng. Khi có một khuynh hướng, có sự đến và đi. Khi có sự đến và đi, có sự qua đời và tái hiện. Khi có sự qua đời và tái hiện, sinh, lão, và tử trong tương lai sẽ đến, cũng như sầu, bi, khổ, ưu, và não. Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -897,8 +857,7 @@ Nếu các ngươi không chủ ý, không hoạch định, hay không có khuyn
 <!--pg-->
 ## Chương về Gia Chủ
 
-### SN 12.41 Nguy Hiểm và Đe Dọa *Pañcaverabhayasutta*{#41}
-
+### SN 12.41 Nguy Hiểm và Đe Dọa *Pañcaverabhayasutta* {#41}
 Tại Xá-vệ.
 
 Rồi gia chủ Cấp Cô Độc đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Khi đã ngồi xuống một bên, Đức Phật nói với gia chủ Cấp Cô Độc:
@@ -930,8 +889,7 @@ Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ k
 Khi một thánh đệ tử đã dẹp tan năm mối nguy hiểm và đe dọa, có bốn yếu tố của bậc nhập lưu, và đã thấy rõ và liễu tri pháp cao quý bằng trí tuệ, họ có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt tái sinh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả các nơi đọa lạc, các nơi xấu, các cõi thấp. Ta là một bậc nhập lưu! Ta không còn bị tái sinh vào các cõi thấp, và chắc chắn sẽ đạt được giác ngộ.'"
 
 <!--pg-->
-### SN 12.42 Nguy Hiểm và Đe Dọa (thứ 2) *Dutiyapañcaverabhayasutta*{#42}
-
+### SN 12.42 Nguy Hiểm và Đe Dọa (thứ 2) *Dutiyapañcaverabhayasutta* {#42}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, khi một thánh đệ tử đã dẹp tan năm mối nguy hiểm và đe dọa, có bốn yếu tố của bậc nhập lưu, và đã thấy rõ và liễu tri pháp cao quý bằng trí tuệ, họ có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt tái sinh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả các nơi đọa lạc, các nơi xấu, các cõi thấp. Ta là một bậc nhập lưu! Ta không còn bị tái sinh vào các cõi thấp, và chắc chắn sẽ đạt được giác ngộ.'
@@ -945,8 +903,7 @@ Và pháp cao quý mà họ đã thấy rõ và liễu tri bằng trí tuệ là
 Khi một thánh đệ tử đã dẹp tan năm mối nguy hiểm và đe dọa, có bốn yếu tố của bậc nhập lưu, và đã thấy rõ và liễu tri pháp cao quý bằng trí tuệ, họ có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt tái sinh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả các nơi đọa lạc, các nơi xấu, các cõi thấp. Ta là một bậc nhập lưu! Ta không còn bị tái sinh vào các cõi thấp, và chắc chắn sẽ đạt được giác ngộ.'"
 
 <!--pg-->
-### SN 12.43 Khổ *Dukkhasutta*{#43}
-
+### SN 12.43 Khổ *Dukkhasutta* {#43}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Ta sẽ giảng cho các ngươi về nguồn gốc và sự chấm dứt của khổ. Hãy lắng nghe và chú tâm, Ta sẽ nói."
@@ -962,8 +919,7 @@ Và sự chấm dứt của khổ là gì? Nhãn thức khởi sinh phụ thuộ
 Nhĩ thức khởi sinh phụ thuộc vào tai và âm thanh. ... Tỷ thức khởi sinh phụ thuộc vào mũi và mùi hương. ... Thiệt thức khởi sinh phụ thuộc vào lưỡi và vị. ... Thân thức khởi sinh phụ thuộc vào thân và sự chạm. ... Ý thức khởi sinh phụ thuộc vào ý và các ý niệm. Sự gặp gỡ của ba yếu tố này là xúc. Xúc là điều kiện cho thọ. Thọ là điều kiện cho ái. Khi ái đó phai nhạt và chấm dứt không còn dư tàn, thủ diệt. Khi thủ diệt, hữu diệt. Khi hữu diệt, sinh diệt. Khi sinh diệt, lão tử, sầu, bi, khổ, ưu, não diệt. Đó là cách toàn bộ khối khổ đau này chấm dứt. Đây là sự chấm dứt của khổ."
 
 <!--pg-->
-### SN 12.44 Thế Giới *Lokasutta*{#44}
-
+### SN 12.44 Thế Giới *Lokasutta* {#44}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, Ta sẽ giảng cho các ngươi về nguồn gốc và sự chấm dứt của thế giới. Hãy lắng nghe và chú tâm, Ta sẽ nói."
@@ -979,8 +935,7 @@ Và sự chấm dứt của thế giới là gì? Nhãn thức khởi sinh phụ
 Nhĩ thức khởi sinh phụ thuộc vào tai và âm thanh. ... Tỷ thức khởi sinh phụ thuộc vào mũi và mùi hương. ... Thiệt thức khởi sinh phụ thuộc vào lưỡi và vị. ... Thân thức khởi sinh phụ thuộc vào thân và sự chạm. ... Ý thức khởi sinh phụ thuộc vào ý và các ý niệm. Sự gặp gỡ của ba yếu tố này là xúc. Xúc là điều kiện cho thọ. Thọ là điều kiện cho ái. Khi ái đó phai nhạt và chấm dứt không còn dư tàn, thủ diệt. Khi thủ diệt, hữu diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt. Đây là sự chấm dứt của thế giới."
 
 <!--pg-->
-### SN 12.45 Tại Ñātika *Ñātikasutta*{#45}
-
+### SN 12.45 Tại Ñātika *Ñātikasutta* {#45}
 Như vầy tôi nghe. Một thời Đức Phật đang ở tại Ñātika trong ngôi nhà gạch. Rồi trong khi Đức Phật đang nhập thất riêng, Ngài đã nói bài giảng pháp này:
 
 "Nhãn thức khởi sinh phụ thuộc vào mắt và sắc. Sự gặp gỡ của ba yếu tố này là xúc. Xúc là điều kiện cho thọ. Thọ là điều kiện cho ái. Ái là điều kiện cho thủ. ... Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -998,8 +953,7 @@ Lúc bấy giờ, có một vị Tỷ kheo đang đứng nghe lén Đức Phật
 "Hãy học bài giảng pháp đó, ghi nhớ nó, và nhớ kỹ nó. Bài giảng pháp đó có lợi ích và liên quan đến những nền tảng của đời sống phạm hạnh."
 
 <!--pg-->
-### SN 12.46 Một Vị Bà-la-môn *Aññatarabrāhmaṇasutta*{#46}
-
+### SN 12.46 Một Vị Bà-la-môn *Aññatarabrāhmaṇasutta* {#46}
 Tại Xá-vệ.
 
 Rồi một vị bà-la-môn đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ông ngồi xuống một bên và thưa với Đức Phật:
@@ -1019,8 +973,7 @@ Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ k
 Khi Ngài nói điều này, vị bà-la-môn thưa với Đức Phật: "Thật tuyệt vời, Tôn giả Cồ-đàm! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Cồ-đàm hãy ghi nhớ con là một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 12.47 Jānussoṇi *Jāṇussoṇisutta*{#47}
-
+### SN 12.47 Jānussoṇi *Jāṇussoṇisutta* {#47}
 Tại Xá-vệ.
 
 Rồi bà-la-môn Jānussoṇi đến gặp Đức Phật và chào hỏi Ngài. Ngồi xuống một bên, ông thưa với Đức Phật:
@@ -1040,8 +993,7 @@ Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ k
 Khi Ngài nói điều này, bà-la-môn Jānussoṇi thưa với Đức Phật: "Thật tuyệt vời, Tôn giả Cồ-đàm! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Cồ-đàm hãy ghi nhớ con là một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 12.48 Một Nhà Vũ Trụ Học *Lokāyatikasutta*{#48}
-
+### SN 12.48 Một Nhà Vũ Trụ Học *Lokāyatikasutta* {#48}
 Tại Xá-vệ.
 
 Rồi một bà-la-môn nhà vũ trụ học đến gặp Đức Phật ... Ngồi xuống một bên, ông thưa với Đức Phật:
@@ -1069,8 +1021,7 @@ Hành là điều kiện cho thức sinh khởi. ... Đó là cách toàn bộ k
 Khi Ngài nói điều này, bà-la-môn nhà vũ trụ học thưa với Đức Phật: "Thật tuyệt vời, Tôn giả Cồ-đàm! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Cồ-đàm hãy ghi nhớ con là một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 12.49 Một Thánh Đệ Tử *Ariyasāvakasutta*{#49}
-
+### SN 12.49 Một Thánh Đệ Tử *Ariyasāvakasutta* {#49}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, một thánh đệ tử có học không nghĩ rằng: 'Khi cái gì tồn tại, cái gì có? Do sự sinh khởi của cái gì, cái gì sinh khởi? Khi cái gì tồn tại thì danh sắc sinh khởi? Khi cái gì tồn tại thì lục nhập ... xúc ... thọ ... ái ... thủ ... hữu ... sinh ... lão tử sinh khởi?'
@@ -1084,8 +1035,7 @@ Thay vào đó, một thánh đệ tử có học chỉ có tri kiến về đi�
 Một thánh đệ tử hiểu được thế giới, nguồn gốc, sự đoạn diệt, và con đường đưa đến sự đoạn diệt của nó. Một thánh đệ tử như vậy được gọi là 'người thành tựu về kiến', 'người thành tựu về thị kiến', 'người đã đến với chánh pháp', 'người thấy được chánh pháp này', 'người có tri kiến của bậc hữu học', 'người đã nhập vào dòng thánh', 'bậc thánh có trí tuệ thâm nhập', và cũng là 'người đang đứng gõ cửa đến sự bất tử'."
 
 <!--pg-->
-### SN 12.50 Một Thánh Đệ Tử (thứ 2) *Dutiyaariyasāvakasutta*{#50}
-
+### SN 12.50 Một Thánh Đệ Tử (thứ 2) *Dutiyaariyasāvakasutta* {#50}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, một thánh đệ tử có học không nghĩ rằng: 'Khi cái gì tồn tại, cái gì có? Do sự sinh khởi của cái gì, cái gì sinh khởi? Khi cái gì tồn tại thì hành sinh khởi? Khi cái gì tồn tại thì thức sinh khởi? Khi cái gì tồn tại thì danh sắc ... lục nhập ... xúc ... thọ ... ái ... thủ ... hữu ... sinh ... lão tử sinh khởi?'
@@ -1101,8 +1051,7 @@ Một thánh đệ tử hiểu được thế giới, nguồn gốc, sự đoạ
 <!--pg-->
 ## Chương về Khổ
 
-### SN 12.51 Một Cuộc Điều Tra *Parivīmaṁsanasutta*{#51}
-
+### SN 12.51 Một Cuộc Điều Tra *Parivīmaṁsanasutta* {#51}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Xá-vệ, tại Tịnh xá Kỳ-viên của ông Cấp Cô Độc. Tại đó, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật nói điều này:
@@ -1186,8 +1135,7 @@ Các ngươi nghĩ sao, này các Tỷ kheo? Một Tỷ kheo đã đoạn tận 
 "Tốt lắm, tốt lắm, này các Tỷ kheo! Đúng là như vậy, không khác. Hãy tin Ta về điều này, này các Tỷ kheo; hãy tin chắc. Đừng có nghi ngờ hay bất định trong vấn đề này. Chỉ có điều này là sự chấm dứt của khổ."
 
 <!--pg-->
-### SN 12.52 Chấp Thủ *Upādānasutta*{#52}
-
+### SN 12.52 Chấp Thủ *Upādānasutta* {#52}
 Tại Xá-vệ.
 
 "Có những thứ là nhiên liệu cho chấp thủ. Khi các ngươi tập trung vào sự thỏa mãn mà những thứ này mang lại, ái của các ngươi tăng trưởng. Ái là điều kiện cho thủ. Thủ là điều kiện cho hữu. Hữu là điều kiện cho sinh. Sinh là điều kiện cho lão tử, sầu, bi, khổ, ưu, não sinh khởi. Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -1203,8 +1151,7 @@ Giả sử có một khối lửa lớn đang cháy với mười, hai mươi, b
 Cũng vậy, có những thứ là nhiên liệu cho chấp thủ. Khi các ngươi tập trung vào những nhược điểm của những thứ này, ái của các ngươi diệt. Khi ái diệt, thủ diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.53 Các Kiết Sử *Saṁyojanasutta*{#53}
-
+### SN 12.53 Các Kiết Sử *Saṁyojanasutta* {#53}
 Tại Xá-vệ.
 
 "Có những thứ dễ bị trói buộc bởi *kiết sử* (fetters / những sợi dây trói buộc tâm). Khi các ngươi tập trung vào sự thỏa mãn mà những thứ này mang lại, ái của các ngươi tăng trưởng. Ái là điều kiện cho thủ. Thủ là điều kiện cho hữu. Hữu là điều kiện cho sinh. Sinh là điều kiện cho lão tử, sầu, bi, khổ, ưu, não sinh khởi. Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -1220,8 +1167,7 @@ Giả sử một ngọn đèn dầu phụ thuộc vào dầu và bấc để ch�
 Cũng vậy, có những thứ dễ bị trói buộc bởi kiết sử. Khi các ngươi tập trung vào những nhược điểm của những thứ này, ái của các ngươi diệt. Khi ái diệt, thủ diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.54 Các Kiết Sử (thứ 2) *Dutiyasaṁyojanasutta*{#54}
-
+### SN 12.54 Các Kiết Sử (thứ 2) *Dutiyasaṁyojanasutta* {#54}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, giả sử một ngọn đèn dầu phụ thuộc vào dầu và bấc để cháy. Và thỉnh thoảng có người đổ thêm dầu và điều chỉnh bấc. Được nuôi dưỡng và cung cấp nhiên liệu bởi những thứ đó, ngọn đèn dầu sẽ cháy trong một thời gian dài.
@@ -1233,8 +1179,7 @@ Giả sử một ngọn đèn dầu phụ thuộc vào dầu và bấc để ch�
 Cũng vậy, có những thứ dễ bị trói buộc bởi kiết sử. Khi các ngươi tập trung vào những nhược điểm của những thứ này, ái của các ngươi diệt. Khi ái diệt, thủ diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.55 Một Cây Lớn *Mahārukkhasutta*{#55}
-
+### SN 12.55 Một Cây Lớn *Mahārukkhasutta* {#55}
 Tại Xá-vệ.
 
 "Có những thứ là nhiên liệu cho chấp thủ. Khi các ngươi tập trung vào sự thỏa mãn mà những thứ này mang lại, ái của các ngươi tăng trưởng. Ái là điều kiện cho thủ. Thủ là điều kiện cho hữu. ... Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -1250,8 +1195,7 @@ Giả sử có một cây lớn. Rồi một người đến với một cái x�
 Cũng vậy, có những thứ là nhiên liệu cho chấp thủ. Khi các ngươi tập trung vào những nhược điểm của những thứ này, ái của các ngươi diệt. Khi ái diệt, thủ diệt. Khi thủ diệt, hữu diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.56 Một Cây Lớn (thứ 2) *Dutiyamahārukkhasutta*{#56}
-
+### SN 12.56 Một Cây Lớn (thứ 2) *Dutiyamahārukkhasutta* {#56}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, giả sử có một cây lớn. Và rễ của nó đâm xuống dưới và lan ra khắp nơi đều hút nhựa cây lên. Được nuôi dưỡng và cung cấp nhiên liệu bởi những thứ đó, cây lớn sẽ đứng vững trong một thời gian dài.
@@ -1263,8 +1207,7 @@ Giả sử có một cây lớn. Rồi một người đến với một cái x�
 Cũng vậy, có những thứ là nhiên liệu cho chấp thủ. Khi các ngươi tập trung vào những nhược điểm của những thứ này, ái của các ngươi diệt. Khi ái diệt, thủ diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.57 Một Cây Non *Taruṇarukkhasutta*{#57}
-
+### SN 12.57 Một Cây Non *Taruṇarukkhasutta* {#57}
 Tại Xá-vệ.
 
 "Có những thứ dễ bị trói buộc bởi kiết sử. Khi các ngươi tập trung vào sự thỏa mãn mà những thứ này mang lại, ái của các ngươi tăng trưởng. Ái là điều kiện cho thủ. ... Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -1280,8 +1223,7 @@ Giả sử có một cây non. Rồi một người đến với một cái xẻ
 Cũng vậy, có những thứ dễ bị trói buộc bởi kiết sử. Khi các ngươi tập trung vào những nhược điểm của những thứ này, ái của các ngươi diệt. Khi ái diệt, thủ diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.58 Danh và Sắc *Nāmarūpasutta*{#58}
-
+### SN 12.58 Danh và Sắc *Nāmarūpasutta* {#58}
 Tại Xá-vệ.
 
 "Có những thứ dễ bị trói buộc bởi kiết sử. Khi các ngươi tập trung vào sự thỏa mãn mà những thứ này mang lại, danh sắc được hình thành. Danh sắc là điều kiện cho lục nhập. ... Đó là cách toàn bộ khối khổ đau này phát sinh.
@@ -1297,8 +1239,7 @@ Giả sử có một cây lớn. Rồi một người đến với một cái x�
 Cũng vậy, có những thứ dễ bị trói buộc bởi kiết sử. Khi các ngươi tập trung vào những nhược điểm của những thứ này, danh sắc không được hình thành. Khi danh sắc diệt, lục nhập diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.59 Thức *Viññāṇasutta*{#59}
-
+### SN 12.59 Thức *Viññāṇasutta* {#59}
 Tại Xá-vệ.
 
 "Có những thứ dễ bị trói buộc bởi kiết sử. Khi các ngươi tập trung vào sự thỏa mãn mà những thứ này mang lại, thức được hình thành.
@@ -1316,8 +1257,7 @@ Giả sử có một cây lớn. Rồi một người đến với một cái x�
 Cũng vậy, có những thứ dễ bị trói buộc bởi kiết sử. Khi các ngươi tập trung vào những nhược điểm của những thứ này, thức không được hình thành. Khi thức diệt, danh sắc diệt. ... Đó là cách toàn bộ khối khổ đau này chấm dứt."
 
 <!--pg-->
-### SN 12.60 Các Nguồn Gốc *Nidānasutta*{#60}
-
+### SN 12.60 Các Nguồn Gốc *Nidānasutta* {#60}
 Một thời Đức Phật đang ở tại xứ Kuru, gần thị trấn Kammāsadamma của người Kuru. Rồi Tôn giả A-nan đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và thưa với Đức Phật:
 
 "Thật không thể tin được, bạch Thế Tôn! Thật đáng kinh ngạc, duyên khởi này thật sâu sắc và có vẻ sâu sắc, nhưng đối với con nó lại có vẻ rõ ràng như ban ngày."
@@ -1339,8 +1279,7 @@ Cũng vậy, có những thứ là nhiên liệu cho chấp thủ. Khi các ngư
 <!--pg-->
 ## Chương Lớn
 
-### SN 12.61 Người Không Học *Assutavāsutta*{#61}
-
+### SN 12.61 Người Không Học *Assutavāsutta* {#61}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Xá-vệ, tại Tịnh xá Kỳ-viên của ông Cấp Cô Độc. ...
 
 "Này các Tỷ kheo, khi nói đến thân này được tạo thành từ tứ đại, một người phàm phu không được học hỏi có thể trở nên yếm ly, ly tham, và được giải thoát. Tại sao vậy? Thân này được tạo thành từ tứ đại được thấy là tích tụ và tan rã, được tiếp nhận và đặt xuống. Đó là lý do tại sao, khi nói đến thân này, một người phàm phu không được học hỏi có thể trở nên yếm ly, ly tham, và được giải thoát.
@@ -1360,8 +1299,7 @@ Thấy điều này, một thánh đệ tử có học trở nên yếm ly với
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### SN 12.62 Người Không Học (thứ 2) *Dutiyaassutavāsutta*{#62}
-
+### SN 12.62 Người Không Học (thứ 2) *Dutiyaassutavāsutta* {#62}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, khi nói đến thân này được tạo thành từ tứ đại, một người phàm phu không được học hỏi có thể trở nên yếm ly, ly tham, và được giải thoát. Tại sao vậy? Thân này được tạo thành từ tứ đại được thấy là tích tụ và tan rã, được tiếp nhận và đặt xuống. Đó là lý do tại sao, khi nói đến thân này, một người phàm phu không được học hỏi có thể trở nên yếm ly, ly tham, và được giải thoát. Nhưng khi nói đến cái được gọi là 'tâm', cũng là 'ý', cũng là 'thức', một người phàm phu không được học hỏi không thể trở nên yếm ly, ly tham, hoặc được giải thoát. Tại sao vậy? Bởi vì trong một thời gian dài, họ đã dính mắc vào nó, coi nó là của mình, và lầm tưởng nó: 'Đây là của tôi, tôi là cái này, đây là tự ngã của tôi.' Đó là lý do tại sao, khi nói đến tâm này, một người phàm phu không được học hỏi không thể trở nên yếm ly, ly tham, và được giải thoát.
@@ -1377,8 +1315,7 @@ Thấy điều này, một thánh đệ tử có học trở nên yếm ly với
 Họ hiểu: 'Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này.'"
 
 <!--pg-->
-### SN 12.63 Thịt Con *Puttamaṁsasutta*{#63}
-
+### SN 12.63 Thịt Con *Puttamaṁsasutta* {#63}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, có bốn loại vật thực này. Chúng duy trì các chúng sanh đã được sinh ra và giúp đỡ những chúng sanh sắp được sinh ra. Bốn loại đó là gì? Đoàn thực, dù thô hay tế; xúc thực là thứ hai, ý tư niệm thực là thứ ba, và thức thực là thứ tư. Đây là bốn loại vật thực duy trì các chúng sanh đã được sinh ra và giúp đỡ những chúng sanh sắp được sinh ra.
@@ -1408,8 +1345,7 @@ Các ngươi nghĩ sao, này các Tỷ kheo? Người đàn ông đó có trải
 "Ta nói rằng đây là cách các ngươi nên xem thức thực. Khi thức thực được hiểu hoàn toàn, danh sắc được hiểu hoàn toàn. Khi danh sắc được hiểu hoàn toàn, một thánh đệ tử không còn gì phải làm nữa, Ta nói vậy."
 
 <!--pg-->
-### SN 12.64 Nếu Có Ham Muốn *Atthirāgasutta*{#64}
-
+### SN 12.64 Nếu Có Ham Muốn *Atthirāgasutta* {#64}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, có bốn loại vật thực này. Chúng duy trì các chúng sanh đã được sinh ra và giúp đỡ những chúng sanh sắp được sinh ra. Bốn loại đó là gì? Đoàn thực, dù thô hay tế; xúc thực là thứ hai, ý tư niệm thực là thứ ba, và thức thực là thứ tư. Đây là bốn loại vật thực duy trì các chúng sanh đã được sinh ra và giúp đỡ những chúng sanh sắp được sinh ra.
@@ -1449,8 +1385,7 @@ Giả sử có một ngôi nhà gỗ hoặc một hội trường có mái nhọ
 Nếu không có ham muốn, thưởng thức, và ái đối với xúc thực ... Nếu không có ham muốn, thưởng thức, và ái đối với ý tư niệm thực ... Nếu không có ham muốn, thưởng thức, và ái đối với thức thực, thức không được thiết lập ở đó và không tăng trưởng. Nơi nào thức không được thiết lập và không tăng trưởng, danh sắc không được hình thành. Nơi nào danh sắc không được hình thành, không có sự tăng trưởng của hành. Nơi nào hành không tăng trưởng, không có sự tái sinh vào một trạng thái tồn tại mới trong tương lai. Nơi nào không có sự tái sinh vào một trạng thái tồn tại mới trong tương lai, không có sinh, lão, và tử trong tương lai. Nơi nào không có sinh, lão, và tử trong tương lai, Ta nói rằng không có sầu, muộn, và khổ não."
 
 <!--pg-->
-### SN 12.65 Thành Phố *Nagarasutta*{#65}
-
+### SN 12.65 Thành Phố *Nagarasutta* {#65}
 Tại Xá-vệ.
 
 "Này các Tỷ kheo, trước khi giác ngộ—khi Ta vẫn chưa giác ngộ nhưng đang hướng tâm đến giác ngộ—Ta đã suy nghĩ: 'Than ôi, thế giới này đã rơi vào phiền não. Nó sinh ra, già đi, chết đi, qua đời, và được tái sinh, nhưng lại không hiểu làm thế nào để thoát khỏi khổ đau này, khỏi sự già và chết. Ôi, khi nào mới tìm thấy được lối thoát khỏi khổ đau này, khỏi sự già và chết?' Rồi Ta khởi lên ý nghĩ: 'Khi cái gì tồn tại thì có lão tử? Cái gì là điều kiện cho lão tử?' Rồi, qua như lý tác ý, Ta liễu tri bằng trí tuệ: 'Khi sinh tồn tại thì có lão tử. Sinh là điều kiện cho lão tử.'
@@ -1474,8 +1409,7 @@ Và con đường cổ đó, con đường cổ xưa mà các vị Phật toàn 
 Sau khi đã trực tiếp biết điều này, Ta đã nói với các Tỷ kheo, Tỷ kheo ni, nam cư sĩ, và nữ cư sĩ. Và đó là cách đời sống phạm hạnh này đã trở nên thành công và thịnh vượng, rộng lớn, phổ biến, lan rộng, và được tuyên bố rõ ràng ở bất cứ nơi nào có trời và người."
 
 <!--pg-->
-### SN 12.66 Tự Vấn *Sammasasutta*{#66}
-
+### SN 12.66 Tự Vấn *Sammasasutta* {#66}
 Như vầy tôi nghe. Một thời Đức Phật đang ở tại xứ Kuru, gần thị trấn Kammāsadamma của người Kuru. Tại đó, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật nói điều này:
@@ -1521,8 +1455,7 @@ Cũng vậy, có những sa-môn và bà-la-môn trong quá khứ đã thấy nh
 Sẽ có những sa-môn và bà-la-môn trong tương lai ... Có những sa-môn và bà-la-môn trong hiện tại thấy những thứ có vẻ tốt đẹp và dễ chịu trên thế gian là vô thường, là khổ, là vô ngã, là bệnh hoạn, và là nguy hiểm. Họ từ bỏ ái. Từ bỏ ái, họ từ bỏ sự dính mắc. Từ bỏ sự dính mắc, họ từ bỏ khổ đau. Từ bỏ khổ đau, họ được giải thoát khỏi sinh, lão, và tử, khỏi sầu, bi, khổ, ưu, và não. Họ được giải thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### SN 12.67 Bó Sậy *Naḷakalāpīsutta*{#67}
-
+### SN 12.67 Bó Sậy *Naḷakalāpīsutta* {#67}
 Một thời Tôn giả Xá-lợi-phất và Tôn giả Đại-ca-chiên-diên đang ở gần Varanasi, trong vườn Lộc Uyển tại Isipatana.
 
 Rồi vào cuối buổi chiều, Tôn giả Đại-ca-chiên-diên ra khỏi nơi ẩn tu, đến gặp Tôn giả Xá-lợi-phất, và chào hỏi ngài. Sau khi chào hỏi và trò chuyện lịch sự xong, ngài ngồi xuống một bên và nói với Xá-lợi-phất:
@@ -1560,8 +1493,7 @@ Cũng vậy, khi danh sắc diệt, thức diệt. Khi thức diệt, danh sắc
 Nếu một Tỷ kheo giảng Pháp vì sự yếm ly, ly tham, và đoạn diệt đối với lão tử, vị ấy xứng đáng được gọi là 'Tỷ kheo thuyết giảng về Pháp'. Nếu vị ấy thực hành vì sự yếm ly, ly tham, và đoạn diệt đối với lão tử, vị ấy xứng đáng được gọi là 'Tỷ kheo thực hành đúng theo giáo pháp'. Nếu vị ấy được giải thoát do không chấp thủ qua sự yếm ly, ly tham, và đoạn diệt đối với lão tử, vị ấy xứng đáng được gọi là 'Tỷ kheo đã đạt được Niết-bàn ngay trong đời này'. Nếu một Tỷ kheo giảng Pháp vì sự yếm ly đối với sinh ... hữu ... thủ ... ái ... thọ ... xúc ... lục nhập ... danh sắc ... thức ... hành ... Nếu một Tỷ kheo giảng Pháp vì sự yếm ly, ly tham, và đoạn diệt đối với vô minh, vị ấy xứng đáng được gọi là 'Tỷ kheo thuyết giảng về Pháp'. Nếu vị ấy thực hành vì sự yếm ly, ly tham, và đoạn diệt đối với vô minh, vị ấy xứng đáng được gọi là 'Tỷ kheo thực hành đúng theo giáo pháp'. Nếu vị ấy được giải thoát do không chấp thủ qua sự yếm ly, ly tham, và đoạn diệt đối với vô minh, vị ấy xứng đáng được gọi là 'Tỷ kheo đã đạt được Niết-bàn ngay trong đời này'."
 
 <!--pg-->
-### SN 12.68 Tại Kosambī *Kosambisutta*{#68}
-
+### SN 12.68 Tại Kosambī *Kosambisutta* {#68}
 Một thời các tôn giả Musīla, Saviṭṭha, Nārada, và A-nan đang ở gần Kosambī trong tu viện của Ghosita. Rồi Tôn giả Saviṭṭha nói với Tôn giả Musīla:
 
 "Thưa Tôn giả Musīla, ngoài niềm tin, sự tán thành, sự truyền khẩu, dòng suy luận hợp lý, hoặc sự chấp nhận một quan điểm sau khi cân nhắc, ngài có tự mình biết rằng sinh là điều kiện cho lão tử không?"
@@ -1607,8 +1539,7 @@ Khi ông nói điều này, Tôn giả A-nan nói với Tôn giả Saviṭṭha:
 "Thưa Tôn giả A-nan, tôi không có gì để nói với Tôn giả Nārada khi ông ấy nói như vậy, ngoại trừ những điều tốt đẹp và lành mạnh."
 
 <!--pg-->
-### SN 12.69 Dâng Trào *Upayantisutta*{#69}
-
+### SN 12.69 Dâng Trào *Upayantisutta* {#69}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Xá-vệ, tại Tịnh xá Kỳ-viên của ông Cấp Cô Độc.
 
 "Này các Tỷ kheo, khi đại dương dâng trào, nó làm cho các con sông dâng trào. Khi các con sông dâng trào, chúng làm cho các dòng suối dâng trào. Khi các dòng suối dâng trào, chúng làm cho các hồ dâng trào. Khi các hồ dâng trào, chúng làm cho các ao dâng trào.
@@ -1620,8 +1551,7 @@ Khi đại dương rút xuống, nó làm cho các con sông rút xuống. Khi c
 Cũng vậy, khi vô minh rút xuống, nó làm cho hành rút xuống. Khi hành rút xuống, chúng làm cho thức rút xuống. Khi thức rút xuống, nó làm cho danh sắc rút xuống. Khi danh sắc rút xuống, chúng làm cho lục nhập rút xuống. Khi lục nhập rút xuống, chúng làm cho xúc rút xuống. Khi xúc rút xuống, nó làm cho thọ rút xuống. Khi thọ rút xuống, nó làm cho ái rút xuống. Khi ái rút xuống, nó làm cho thủ rút xuống. Khi thủ rút xuống, nó làm cho hữu rút xuống. Khi hữu rút xuống, nó làm cho sinh rút xuống. Khi sinh rút xuống, nó làm cho lão tử rút xuống."
 
 <!--pg-->
-### SN 12.70 Du Sĩ Susīma *Susimaparibbājakasutta*{#70}
-
+### SN 12.70 Du Sĩ Susīma *Susimaparibbājakasutta* {#70}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Vương-xá, trong Trúc Lâm, nơi các con sóc được cho ăn.
 
 Lúc bấy giờ, Đức Phật được tôn kính, kính trọng, tôn thờ, sùng bái, và quý mến. Và Ngài nhận được y phục, vật thực khất thực, chỗ ở, và thuốc men và vật dụng cho người bệnh. Và Tăng đoàn Tỷ kheo cũng được tôn kính, kính trọng, tôn thờ, sùng bái, và quý mến. Và họ nhận được y phục, vật thực khất thực, chỗ ở, và thuốc men và vật dụng cho người bệnh. Nhưng các du sĩ theo các tôn giáo khác không được tôn kính, kính trọng, tôn thờ, sùng bái, và quý mến. Và họ không nhận được y phục, vật thực khất thực, chỗ ở, và thuốc men và vật dụng cho người bệnh.
@@ -1809,8 +1739,7 @@ Rồi Tôn giả Susīma cúi đầu dưới chân Đức Phật và nói: "Con 
 <!--pg-->
 ## Phẩm Sa-môn và Bà-la-môn
 
-### SN 12.71 Già và Chết *Jarāmaraṇasutta*{#71}
-
+### SN 12.71 Già và Chết *Jarāmaraṇasutta* {#71}
 Như vầy tôi nghe. Một thời Thế Tôn ở gần Sāvatthī, tại tu viện của ông Anāthapiṇḍika, trong rừng Jeta.
 
 "Này các Tỷ kheo, có những *Sa-môn và Bà-la-môn* (ascetics and brahmins / tu sĩ và giáo sĩ) không hiểu rõ về *già và chết* (old age and death / jarāmaraṇa), không hiểu rõ về sự sinh khởi của chúng, sự chấm dứt của chúng, và con đường đưa đến sự chấm dứt của chúng. Ta không xem họ là những Sa-môn và Bà-la-môn chân chính. Những vị tôn giả ấy không nhận ra mục đích của đời sống Sa-môn hay Bà-la-môn, và không sống sau khi đã tự mình chứng ngộ điều đó bằng trí tuệ của mình.
@@ -1818,8 +1747,7 @@ Như vầy tôi nghe. Một thời Thế Tôn ở gần Sāvatthī, tại tu vi�
 Có những Sa-môn và Bà-la-môn hiểu rõ về già và chết, sự sinh khởi của chúng, sự chấm dứt của chúng, và con đường đưa đến sự chấm dứt của chúng. Ta xem họ là những Sa-môn và Bà-la-môn chân chính. Những vị tôn giả ấy nhận ra mục đích của đời sống Sa-môn hay Bà-la-môn, và sống sau khi đã tự mình chứng ngộ điều đó bằng trí tuệ của mình."
 
 <!--pg-->
-### SN 12.72--81 Mười Kinh về Sanh, v.v. *Jātisuttādidasaka*{#72-81}
-
+### SN 12.72--81 Mười Kinh về Sanh, v.v. *Jātisuttādidasaka* {#72-81}
 Tại Sāvatthī.
 
 "... họ không hiểu rõ về *Sanh* (Rebirth / jāti / sự tái sinh) ..."
@@ -1849,8 +1777,7 @@ Tại Sāvatthī.
 <!--pg-->
 ## Bậc Đạo Sư, v.v.
 
-### SN 12.82 Bậc Đạo Sư *Satthusutta*{#82}
-
+### SN 12.82 Bậc Đạo Sư *Satthusutta* {#82}
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, người nào không thật sự biết hay thấy về già và chết thì nên tìm đến *Bậc Đạo Sư* (The Teacher / vị thầy) để thật sự biết về già và chết. Người nào không thật sự biết hay thấy về sự sinh khởi của già và chết thì nên tìm đến Bậc Đạo Sư để thật sự biết về sự sinh khởi của già và chết. Người nào không thật sự biết hay thấy về sự chấm dứt của già và chết thì nên tìm đến Bậc Đạo Sư để thật sự biết về sự chấm dứt của già và chết. Người nào không thật sự biết hay thấy về con đường đưa đến sự chấm dứt của già và chết thì nên tìm đến Bậc Đạo Sư để thật sự biết về con đường đưa đến sự chấm dứt của già và chết."
@@ -1858,8 +1785,7 @@ Tại Sāvatthī.
 **(Tất cả các bản kinh rút gọn nên được nói đầy đủ.)**
 
 <!--pg-->
-### SN 12.83--92 Bậc Đạo Sư (Thứ hai) *Dutiyasatthusuttādidasaka*{#83-92}
-
+### SN 12.83--92 Bậc Đạo Sư (Thứ hai) *Dutiyasatthusuttādidasaka* {#83-92}
 "Này các Tỷ kheo, người nào không thật sự biết hay thấy về Sanh ..."
 
 "... Hữu ..."
@@ -1885,8 +1811,7 @@ Tại Sāvatthī.
 <!--pg-->
 ## Mười một Phẩm về Tu tập, v.v.
 
-### SN 12.93--213 Mười một Phẩm về Tu tập, v.v. *Sikkhāsuttādipeyyālaekādasaka*{#93-213}
-
+### SN 12.93--213 Mười một Phẩm về Tu tập, v.v. *Sikkhāsuttādipeyyālaekādasaka* {#93-213}
 "Này các Tỷ kheo, người nào không thật sự biết hay thấy về già và chết thì nên *tu tập* (train / rèn luyện) để thật sự biết về già và chết. ..."
 
 "... *hành thiền* (practice meditation / thực hành thiền định) ..."

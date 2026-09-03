@@ -1,7 +1,6 @@
 # Bảy Chương Về Các Vị Đệ Nhất
 
-### AN 1.188--197 *Paṭhamavagga*{#188-197}
-
+### AN 1.188--197 *Paṭhamavagga* {#188-197}
 "Người đứng đầu trong các đệ tử tỳ kheo của Ta về thâm niên là Kiều Trần Như Người Đã Hiểu.
 
 ... về trí tuệ vĩ đại là Xá Lợi Phất.
@@ -23,8 +22,7 @@
 ... về giảng giải chi tiết ý nghĩa của một lời nói ngắn gọn là Đại Ca Chiên Diên."
 
 <!--pg-->
-### AN 1.198--208 *Dutiyavagga*{#198-208}
-
+### AN 1.198--208 *Dutiyavagga* {#198-208}
 "Người đứng đầu trong các đệ tử tỳ kheo của Ta về tạo ra *ý sinh thân* (mind-made body / thân được tạo ra bằng năng lực của tâm ý) là Châu Lợi Bàn Đà Già.
 
 ... khéo léo trong sự chuyển hóa tâm thức là Châu Lợi Bàn Đà Già.
@@ -48,8 +46,7 @@
 ... hết lòng với niềm tin là Vakkalī."
 
 <!--pg-->
-### AN 1.209--218 *Tatiyavagga*{#209-218}
-
+### AN 1.209--218 *Tatiyavagga* {#209-218}
 "Người đứng đầu trong các đệ tử tỳ kheo của Ta mong muốn tu học là La Hầu La.
 
 ... xuất gia vì niềm tin là Raṭṭhapāla.
@@ -71,8 +68,7 @@
 ... đạt được các phương pháp phân tích văn bản là Đại Câu Hy La."
 
 <!--pg-->
-### AN 1.219--234 *Catutthavagga*{#219-234}
-
+### AN 1.219--234 *Catutthavagga* {#219-234}
 "Người đứng đầu trong các đệ tử tỳ kheo của Ta về *đa văn* (very learned / người học rộng, nghe nhiều và ghi nhớ giáo pháp) là A Nan.
 
 ... có trí nhớ tốt là A Nan.
@@ -106,8 +102,7 @@
 ... mặc y phục thô xấu là Mogharājā."
 
 <!--pg-->
-### AN 1.235--247 *Pañcamavagga*{#235-247}
-
+### AN 1.235--247 *Pañcamavagga* {#235-247}
 "Người đứng đầu trong các đệ tử tỳ kheo ni của Ta về thâm niên là Ma Ha Ba Xà Ba Đề Kiều Đàm Di.
 
 ... về trí tuệ vĩ đại là Khemā.
@@ -135,8 +130,7 @@
 ... hết lòng với niềm tin là Mẹ của Siṅgāla."
 
 <!--pg-->
-### AN 1.248--257 *Chaṭṭhavagga*{#248-257}
-
+### AN 1.248--257 *Chaṭṭhavagga* {#248-257}
 "Người đứng đầu trong các nam cư sĩ của Ta về việc đầu tiên *quy y* (going for refuge / sự nương tựa vào Tam Bảo: Phật, Pháp, Tăng) là hai thương gia Tapussa và Bhallika.
 
 ... là thí chủ thì có gia chủ Tu Đạt Đa Anāthapiṇḍika.
@@ -158,8 +152,7 @@
 ... thân thiết là cha của Nakula."
 
 <!--pg-->
-### AN 1.258--267 *Sattamavagga*{#258-267}
-
+### AN 1.258--267 *Sattamavagga* {#258-267}
 "Người đứng đầu trong các nữ cư sĩ của Ta về việc đầu tiên quy y là Sujātā con gái vị tướng.
 
 ... là thí chủ thì có Visākhā, mẹ của Migāra.

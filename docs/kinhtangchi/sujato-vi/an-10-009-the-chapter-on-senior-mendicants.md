@@ -1,7 +1,6 @@
 # Phẩm về các Trưởng Lão Tỳ Kheo
 
-### AN 10.81 Với Bāhuna *Vāhanasutta* (Kinh Vāhana){#81}
-
+### AN 10.81 Với Bāhuna *Vāhanasutta* (Kinh Vāhana) {#81}
 Một thời Đức Phật trú gần Campā, bên bờ hồ sen Gaggarā.
 Khi ấy, Tôn giả Bāhuna đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên
 và thưa:
@@ -19,8 +18,7 @@ mọc lên và lớn lên trong nước, nó vẫn vươn lên khỏi mặt nư�
 đã thoát khỏi mười pháp ấy, do đó Ngài sống ly tham, giải thoát, với tâm vô hạn lượng."
 
 <!--pg-->
-### AN 10.82 Với Ānanda *Ānandasutta* (Kinh Ānanda){#82}
-
+### AN 10.82 Với Ānanda *Ānandasutta* (Kinh Ānanda) {#82}
 Khi ấy, Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ và ngồi xuống một
 bên. Đức Phật dạy:
 
@@ -75,8 +73,7 @@ Một vị tỳ kheo có mười phẩm chất này thì hoàn toàn có thể �
 sự tăng trưởng, tiến bộ hay trưởng thành trong giáo pháp và giới luật này."
 
 <!--pg-->
-### AN 10.83 Với Puṇṇiya *Puṇṇiyasutta* (Kinh Puṇṇiya){#83}
-
+### AN 10.83 Với Puṇṇiya *Puṇṇiyasutta* (Kinh Puṇṇiya) {#83}
 Khi ấy, Tôn giả Puṇṇiya đến gặp Đức Phật, đảnh lễ,
 ngồi xuống một bên và thưa:
 
@@ -109,8 +106,7 @@ Khi một người có mười phẩm chất này, Như Lai cảm thấy hoàn t
 có cảm hứng thuyết pháp."
 
 <!--pg-->
-### AN 10.84 Tuyên Bố *Byākaraṇasutta* (Kinh Tuyên Bố){#84}
-
+### AN 10.84 Tuyên Bố *Byākaraṇasutta* (Kinh Tuyên Bố) {#84}
 Tại đó, Tôn giả Mahāmoggallāna (Đại Mục Kiền Liên) nói với các vị tỳ kheo:
 "Thưa các Hiền giả, các tỳ kheo!"
 
@@ -158,8 +154,7 @@ tiến bộ, hay trưởng thành trong giáo pháp và giới luật này sau k
 phẩm chất này."
 
 <!--pg-->
-### AN 10.85 Kẻ Khoe Khoang *Katthīsutta* (Kinh Kẻ Khoe Khoang){#85}
-
+### AN 10.85 Kẻ Khoe Khoang *Katthīsutta* (Kinh Kẻ Khoe Khoang) {#85}
 Một thời Tôn giả Mahācunda (Đại Ca Chiên Diên) trú tại xứ
 Cetī, ở Sahajāti. Tại đó, ngài nói với các
 vị tỳ kheo: "Thưa các Hiền giả, các tỳ kheo!"
@@ -244,8 +239,7 @@ tiến bộ, hay trưởng thành trong giáo pháp và giới luật này sau k
 phẩm chất này."
 
 <!--pg-->
-### AN 10.86 Tự Đánh Giá Quá Cao *Adhimānasutta* (Kinh Tự Mãn){#86}
-
+### AN 10.86 Tự Đánh Giá Quá Cao *Adhimānasutta* (Kinh Tự Mãn) {#86}
 Một thời Tôn giả Mahākassapa (Đại Ca Diếp) trú gần
 thành Rājagaha (Vương Xá), tại Veluvana (Trúc Lâm), nơi các con sóc được cho
 ăn. Tại đó, ngài nói với các vị tỳ kheo: "Thưa các Hiền giả, các tỳ kheo!"
@@ -313,8 +307,7 @@ tiến bộ, hay trưởng thành trong giáo pháp và giới luật này sau k
 phẩm chất này."
 
 <!--pg-->
-### AN 10.87 Các Vấn Đề Giới Luật *Nappiyasutta* (Kinh Không Đáng Yêu Mến){#87}
-
+### AN 10.87 Các Vấn Đề Giới Luật *Nappiyasutta* (Kinh Không Đáng Yêu Mến) {#87}
 Khi ấy, Đức Phật nói với các vị tỳ kheo về tỳ kheo
 Kalandaka:
 
@@ -424,8 +417,7 @@ Bởi vì các bạn đồng tu có hiểu biết của họ thấy rằng vị 
 những phẩm chất xấu xa, bất thiện đó."
 
 <!--pg-->
-### AN 10.88 Kẻ Mắng Nhiếc *Akkosakasutta* (Kinh Kẻ Mắng Nhiếc){#88}
-
+### AN 10.88 Kẻ Mắng Nhiếc *Akkosakasutta* (Kinh Kẻ Mắng Nhiếc) {#88}
 "Này các tỳ kheo, bất kỳ tỳ kheo nào mắng nhiếc và xúc phạm các bạn đồng tu của mình,
 chỉ trích các *bậc thánh* (noble ones / những người đã đạt được các cấp độ giác ngộ), chắc chắn sẽ
 rơi vào một trong mười tai họa này. Mười tai họa đó là gì? Họ không đạt được
@@ -439,8 +431,7 @@ mắng nhiếc và xúc phạm các bạn đồng tu của mình, chỉ trích c
 chắc chắn sẽ rơi vào một trong mười tai họa này."
 
 <!--pg-->
-### AN 10.89 Với Kokālika *Kokālikasutta* (Kinh Kokālika){#89}
-
+### AN 10.89 Với Kokālika *Kokālikasutta* (Kinh Kokālika) {#89}
 Khi ấy, tỳ kheo Kokālika đến gặp Đức Phật, đảnh lễ,
 ngồi xuống một bên và thưa: "Bạch Thế Tôn, Tôn giả Sāriputta (Xá Lợi Phất) và
 Moggallāna (Mục Kiền Liên) có ước muốn xấu xa. Các ngài đã bị
@@ -580,8 +571,7 @@ Moggallāna."
 > vì đã hướng những lời nói và ý nghĩ xấu xa đến các ngài."
 
 <!--pg-->
-### AN 10.90 Các Năng Lực Của Người Đã Đoạn Tận Lậu Hoặc *Khīṇāsavabalasutta* (Kinh Các Lực Của Bậc Lậu Tận){#90}
-
+### AN 10.90 Các Năng Lực Của Người Đã Đoạn Tận Lậu Hoặc *Khīṇāsavabalasutta* (Kinh Các Lực Của Bậc Lậu Tận) {#90}
 Khi ấy, Tôn giả Sāriputta đến gặp Đức Phật, đảnh lễ, và
 ngồi xuống một bên. Đức Phật nói với ngài:
 

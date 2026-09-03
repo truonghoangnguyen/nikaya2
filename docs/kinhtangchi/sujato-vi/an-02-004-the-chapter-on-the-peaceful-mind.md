@@ -1,7 +1,6 @@
 # Phẩm về Tâm An Tịnh
 
-### AN 2.32--41 *Samacittavagga* (Phẩm Tâm An Tịnh){#32-41}
-
+### AN 2.32--41 *Samacittavagga* (Phẩm Tâm An Tịnh) {#32-41}
 32\. "Này các *Tỳ kheo* (Mendicants / vị khất sĩ, vị sư), Ta sẽ giảng cho các thầy về *cảnh giới của phi chân nhân và cảnh giới của chân nhân* (level of the untrue person and the level of the true person / trạng thái của người xấu và trạng thái của người tốt). Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 
 "Vâng, bạch Thế Tôn," các vị Tỳ kheo ấy vâng đáp Đức Phật. Đức Phật dạy điều này:

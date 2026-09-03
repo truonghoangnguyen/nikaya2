@@ -1,7 +1,6 @@
 # Phẩm Mũi Nhọn
 
-### AN 1.41–50 *Paṇihitaacchavagga*{#41-50}
-
+### AN 1.41–50 *Paṇihitaacchavagga* {#41-50}
 41\. "Này các Tỷ kheo, giả sử một mũi nhọn của lúa hay lúa mạch bị đặt sai hướng. Nếu quý vị dùng tay hay chân đạp lên nó, không thể nào nó đâm thủng da và làm chảy máu được. Vì sao vậy? Vì mũi nhọn ấy bị đặt sai hướng. Cũng vậy, một Tỷ kheo có tâm hướng sai thì không thể nào phá tan *vô minh* (ignorance / sự không sáng suốt, không thấy rõ sự thật), làm sinh khởi *minh* (knowledge / sự sáng suốt, trí tuệ thấy rõ sự thật), và chứng ngộ *Niết-bàn* (extinguishment / sự kết thúc hoàn toàn khổ đau, trạng thái giải thoát cuối cùng) được. Vì sao vậy? Vì tâm của vị ấy hướng sai."
 
 <!--pg-->

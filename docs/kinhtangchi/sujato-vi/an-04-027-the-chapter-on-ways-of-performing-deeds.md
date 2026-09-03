@@ -1,7 +1,6 @@
 # Phẩm Về Cách Thực Hiện Các Hành Vi
 
-### AN 4.264 Kinh Sát Sinh (*Pāṇātipātīsutta*){#264}
-
+### AN 4.264 Kinh Sát Sinh (*Pāṇātipātīsutta*) {#264}
 "Này các *Tỳ kheo* (Mendicants / vị tu sĩ khất thực), người có bốn pháp này sẽ bị đọa vào địa ngục. Bốn pháp gì?
 Tự mình sát sinh; khuyến khích người khác sát sinh; tán thành việc sát sinh; và ca ngợi việc sát sinh. Người có bốn pháp này sẽ bị đọa vào địa ngục.
 
@@ -9,65 +8,56 @@ Người có bốn pháp này sẽ được sinh lên cõi trời. Bốn pháp g
 Tự mình không sát sinh; khuyến khích người khác không sát sinh; tán thành việc không sát sinh; và ca ngợi việc không sát sinh. Người có bốn pháp này sẽ được sinh lên cõi trời."
 
 <!--pg-->
-### AN 4.265 Kinh Lấy Của Không Cho (*Adinnādāyīsutta*){#265}
-
+### AN 4.265 Kinh Lấy Của Không Cho (*Adinnādāyīsutta*) {#265}
 "Này các Tỳ kheo, người có bốn pháp này sẽ bị đọa vào địa ngục. Bốn pháp gì?
 Tự mình *lấy của không cho* (stealing / trộm cắp) ... Người có bốn pháp này sẽ được sinh lên cõi trời. ...
 
 Tự mình không lấy của không cho ..."
 
 <!--pg-->
-### AN 4.266 Kinh Tà Hạnh (*Micchācārīsutta*){#266}
-
+### AN 4.266 Kinh Tà Hạnh (*Micchācārīsutta*) {#266}
 "... Tự mình *tà dâm* (commit sexual misconduct / hành vi tình dục sai trái) ...
 
 Tự mình không tà dâm ..."
 
 <!--pg-->
-### AN 4.267 Kinh Nói Dối (*Musāvādīsutta*){#267}
-
+### AN 4.267 Kinh Nói Dối (*Musāvādīsutta*) {#267}
 "... Tự mình *nói dối* (lie / nói không thật) ...
 
 ... Tự mình không nói dối ..."
 
 <!--pg-->
-### AN 4.268 Kinh Nói Lời Chia Rẽ (*Pisuṇavācāsutta*){#268}
-
+### AN 4.268 Kinh Nói Lời Chia Rẽ (*Pisuṇavācāsutta*) {#268}
 "... Tự mình *nói lời chia rẽ* (speak divisively / nói đâm thọc) ...
 
 ... Tự mình không nói lời chia rẽ ..."
 
 <!--pg-->
-### AN 4.269 Kinh Nói Lời Thô Ác (*Pharusavācāsutta*){#269}
-
+### AN 4.269 Kinh Nói Lời Thô Ác (*Pharusavācāsutta*) {#269}
 "... Tự mình *nói lời thô ác* (speak harshly / nói lời mắng nhiếc, cộc cằn) ...
 
 ... Tự mình không nói lời thô ác ..."
 
 <!--pg-->
-### AN 4.270 Kinh Nói Lời Phù Phiếm (*Samphappalāpasutta*){#270}
-
+### AN 4.270 Kinh Nói Lời Phù Phiếm (*Samphappalāpasutta*) {#270}
 "... Tự mình *nói lời phù phiếm* (talk nonsense / nói chuyện vô ích, nhảm nhí) ...
 
 ... Tự mình không nói lời phù phiếm ..."
 
 <!--pg-->
-### AN 4.271 Kinh Tham Lam (*Abhijjhālusutta*){#271}
-
+### AN 4.271 Kinh Tham Lam (*Abhijjhālusutta*) {#271}
 "... Tự mình *tham lam* (covetous / mong muốn chiếm đoạt) ...
 
 ... Tự mình không tham lam ..."
 
 <!--pg-->
-### AN 4.272 Kinh Sân Hận (*Byāpannacittasutta*){#272}
-
+### AN 4.272 Kinh Sân Hận (*Byāpannacittasutta*) {#272}
 "... Tự mình có *sân hận* (ill will / tâm thù ghét) ...
 
 ... Tự mình không có sân hận ..."
 
 <!--pg-->
-### AN 4.273 Kinh Tà Kiến (*Micchādiṭṭhisutta*){#273}
-
+### AN 4.273 Kinh Tà Kiến (*Micchādiṭṭhisutta*) {#273}
 "... Tự mình có *tà kiến* (wrong view / thấy biết sai lệch) ...
 
 Tự mình có *chánh kiến* (right view / thấy biết đúng đắn); khuyến khích người khác có chánh kiến; tán thành chánh kiến; và ca ngợi chánh kiến. Người có bốn pháp này sẽ được sinh lên cõi trời."

@@ -1,7 +1,6 @@
 # Phẩm về Thợ Làm Xe (The Chariot-maker)
 
-### AN 3.11 Nổi Tiếng (Well-known / Ñātasutta){#11}
-
+### AN 3.11 Nổi Tiếng (Well-known / Ñātasutta) {#11}
 "Này các Tỳ-kheo, một Tỳ-kheo nổi tiếng có ba phẩm chất sau thì hành động sẽ gây ra sự tổn hại và khổ đau của mọi người, chống lại mọi người, nguy hại, tổn hại và khổ đau của chư Thiên và loài người. Ba phẩm chất đó là gì? Họ khuyến khích các hành động thân và khẩu, cũng như các nguyên tắc, không củng cố các phẩm chất tốt.
 
 Một Tỳ-kheo nổi tiếng có ba phẩm chất này thì hành động vì sự tổn hại và khổ đau của mọi người, chống lại mọi người, vì sự nguy hại, tổn hại và khổ đau của chư Thiên và loài người.
@@ -11,8 +10,7 @@ Một Tỳ-kheo nổi tiếng có ba phẩm chất sau thì hành động sẽ t
 Một Tỳ-kheo nổi tiếng có ba phẩm chất này thì hành động vì sự an lạc và hạnh phúc của mọi người, vì mọi người, vì lợi ích, an lạc và hạnh phúc của chư Thiên và loài người."
 
 <!--pg-->
-### AN 3.12 Kỷ Niệm (Commemoration / Sāraṇīyasutta){#12}
-
+### AN 3.12 Kỷ Niệm (Commemoration / Sāraṇīyasutta) {#12}
 "Một vị vua Sát-đế-lỵ được tấn phong nên kỷ niệm ba nơi chốn trong suốt cuộc đời mình. Ba nơi đó là gì? Nơi ngài được sinh ra. Đây là nơi thứ nhất.
 
 Nơi ngài được tấn phong làm vua. Đây là nơi thứ hai.
@@ -26,8 +24,7 @@ Nơi Tỳ-kheo thực sự hiểu rõ: 'Đây là khổ' ... 'Đây là nguyên 
 Nơi Tỳ-kheo chứng đạt sự giải thoát tâm vô nhiễm và giải thoát bằng tuệ ngay trong đời này. Và họ sống sau khi đã chứng đạt điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các phiền não. Đây là nơi thứ ba. Đây là ba nơi mà một Tỳ-kheo nên kỷ niệm trong suốt cuộc đời mình."
 
 <!--pg-->
-### AN 3.13 Hy Vọng (Hopes / Āsaṁsasutta){#13}
-
+### AN 3.13 Hy Vọng (Hopes / Āsaṁsasutta) {#13}
 "Này các Tỳ-kheo, có ba hạng người được tìm thấy trên thế gian này. Ba hạng đó là gì? Người không có hy vọng, người có hy vọng, và người vượt qua hy vọng. Và này các Tỳ-kheo, thế nào là người không có hy vọng? Đó là khi một người được tái sinh vào một gia đình thấp kém—một gia đình làm nghề xử lý xác chết, làm nghề tre, làm nghề săn bắn, làm nghề thợ làm xe, hoặc làm nghề nhặt rác—nghèo khó, ít thức ăn thức uống, cuộc sống khó khăn, và khó tìm được thức ăn và chỗ ở. Và họ xấu xí, khó coi, dị dạng, ốm yếu—một mắt, què quặt, đi khập khiễng, hoặc bị liệt nửa người. Họ không có được thức ăn, thức uống, quần áo, và xe cộ; vòng hoa, hương liệu, và đồ trang điểm; hoặc giường, nhà, và ánh sáng. Họ nghe điều này: 'Họ nói rằng các vị Sát-đế-lỵ đã tấn phong vị Sát-đế-lỵ tên là X làm vua.' Họ không bao giờ nghĩ: 'Ôi, khi nào các vị Sát-đế-lỵ cũng sẽ tấn phong mình làm vua?' Đây gọi là người không có hy vọng.
 
 Và này các Tỳ-kheo, thế nào là người có hy vọng? Đó là khi một người nào đó là con trai trưởng của một vị vua Sát-đế-lỵ được tấn phong. Ngài chưa được tấn phong, nhưng đủ điều kiện, và đã được xác nhận trong danh sách kế vị. Ngài nghe điều này: 'Họ nói rằng các vị Sát-đế-lỵ đã tấn phong vị Sát-đế-lỵ tên là X làm vua.' Ngài nghĩ: 'Ôi, khi nào các vị Sát-đế-lỵ cũng sẽ tấn phong mình làm vua?' Đây gọi là người có hy vọng.
@@ -45,8 +42,7 @@ Và này các Tỳ-kheo, thế nào là người vượt qua hy vọng? Đó là
 Đây là ba hạng người được tìm thấy trong hàng Tỳ-kheo."
 
 <!--pg-->
-### AN 3.14 Chuyển Luân Thánh Vương (The Wheel-Turning Monarch / Cakkavattisutta){#14}
-
+### AN 3.14 Chuyển Luân Thánh Vương (The Wheel-Turning Monarch / Cakkavattisutta) {#14}
 "Này các Tỳ-kheo, ngay cả một vị Chuyển Luân Thánh Vương là một vị vua công bằng và có nguyên tắc, vị ấy cũng không là người nắm giữ quyền lực mà có vua của riêng mình." Khi Đức Phật nói điều này, một Tỳ-kheo hỏi Ngài:
 
 "Nhưng ai là vua của vị Chuyển Luân Thánh Vương, vị vua công bằng và có nguyên tắc?"
@@ -64,8 +60,7 @@ Hơn nữa, một bậc Như Lai ... cung cấp sự bảo vệ và an ninh côn
 Và khi một bậc Như Lai, bậc Ứng Cúng, một Đức Phật Chánh Đẳng Giác đã cung cấp sự bảo vệ và an ninh công bằng đối với các hành động thân, khẩu, và ý, ngài chuyển bánh xe Pháp tối thượng. Và bánh xe đó không thể bị đẩy lùi bởi bất kỳ Sa-môn hay Bà-la-môn hay chư Thiên hay Ma vương hay thần linh hay bất kỳ ai trên thế gian này."
 
 <!--pg-->
-### AN 3.15 Về Pacetana (About Pacetana / Sacetanasutta){#15}
-
+### AN 3.15 Về Pacetana (About Pacetana / Sacetanasutta) {#15}
 Một thời, Đức Phật đang ở gần thành Ba-la-nại, trong vườn Lộc Uyển tại Isipatana. Tại đó, Đức Phật gọi các Tỳ-kheo, "Này các Tỳ-kheo!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật nói điều này:
@@ -101,8 +96,7 @@ Bất kỳ Tỳ-kheo hay Tỳ-kheo-ni nào đã từ bỏ sự cong, vênh, và 
 Vì vậy, các thầy nên tu tập như thế này: 'Chúng ta sẽ từ bỏ sự cong, vênh, và lỗi của thân, khẩu, và ý.' Đó là cách các thầy nên tu tập."
 
 <!--pg-->
-### AN 3.16 Không Sai Lầm (Unfailing / Apaṇṇakasutta){#16}
-
+### AN 3.16 Không Sai Lầm (Unfailing / Apaṇṇakasutta) {#16}
 "Này các Tỳ-kheo, khi một Tỳ-kheo có ba điều, sự tu tập của họ không sai lầm, và họ đã đặt nền tảng cho sự chấm dứt các phiền não. Ba điều đó là gì? Đó là khi một Tỳ-kheo hộ trì các căn(sense doors/giác quan), tiết độ trong ăn uống, và chuyên chú vào sự tỉnh thức.
 
 Và thế nào là một Tỳ-kheo hộ trì các căn? Khi một Tỳ-kheo thấy một cảnh sắc bằng mắt, họ không bị mắc kẹt vào các đặc điểm và chi tiết. Nếu nhãn căn bị bỏ mặc không chế ngự, các ác bất thiện pháp tham và ưu sẽ trở nên lấn át. Vì lý do này, họ thực hành chế ngự, bảo vệ nhãn căn, và đạt được sự chế ngự của nó. Khi họ nghe một âm thanh bằng tai ... Khi họ ngửi một mùi hương bằng mũi ... Khi họ nếm một vị bằng lưỡi ... Khi họ cảm nhận một sự xúc chạm bằng thân ... Khi họ biết một ý niệm bằng ý, họ không bị mắc kẹt vào các đặc điểm và chi tiết. Nếu ý căn bị bỏ mặc không chế ngự, các ác bất thiện pháp tham và ưu sẽ trở nên lấn át. Vì lý do này, họ thực hành chế ngự, bảo vệ ý căn, và đạt được sự chế ngự của nó. Đó là cách một Tỳ-kheo hộ trì các căn.
@@ -114,8 +108,7 @@ Và thế nào là một Tỳ-kheo chuyên chú vào sự tỉnh thức? Đó l�
 Khi một Tỳ-kheo có ba điều này, sự tu tập của họ không sai lầm, và họ đã đặt nền tảng cho sự chấm dứt các phiền não."
 
 <!--pg-->
-### AN 3.17 Tự Làm Tổn Thương (Hurting Yourself / Attabyābādhasutta){#17}
-
+### AN 3.17 Tự Làm Tổn Thương (Hurting Yourself / Attabyābādhasutta) {#17}
 "Này các Tỳ-kheo, ba điều này dẫn đến việc tự làm tổn thương mình, làm tổn thương người khác, và làm tổn thương cả hai. Ba điều đó là gì? Ác hạnh về thân, khẩu, và ý.
 
 Đây là ba điều dẫn đến việc tự làm tổn thương mình, làm tổn thương người khác, và làm tổn thương cả hai.
@@ -125,8 +118,7 @@ Ba điều này, này các Tỳ-kheo, không dẫn đến việc tự làm tổn
 Đây là ba điều không dẫn đến việc tự làm tổn thương mình, làm tổn thương người khác, hoặc làm tổn thương cả hai."
 
 <!--pg-->
-### AN 3.18 Cõi Trời (The Realm of the Gods / Devalokasutta){#18}
-
+### AN 3.18 Cõi Trời (The Realm of the Gods / Devalokasutta) {#18}
 "Này các Tỳ-kheo, nếu những người du sĩ theo tôn giáo khác hỏi các thầy: 'Thưa Tôn giả, các vị có sống đời phạm hạnh với Sa-môn Cồ-đàm để được tái sinh vào cõi trời không?' Khi bị hỏi như vậy, các thầy có kinh hãi, ghê tởm, và nhàm chán không?"
 
 "Bạch Thế Tôn, có."
@@ -134,8 +126,7 @@ Ba điều này, này các Tỳ-kheo, không dẫn đến việc tự làm tổn
 "Vậy thì, dường như các thầy kinh hãi, ghê tởm, và nhàm chán với tuổi thọ, sắc đẹp, hạnh phúc, vinh quang, và quyền lực trên trời. Vậy thì các thầy càng nên kinh hãi, xấu hổ, và ghê tởm biết bao đối với ác hạnh về thân, khẩu, và ý."
 
 <!--pg-->
-### AN 3.19 Người Bán Hàng (1) (A Shopkeeper (1st) / Paṭhamapāpaṇikasutta){#19}
-
+### AN 3.19 Người Bán Hàng (1) (A Shopkeeper (1st) / Paṭhamapāpaṇikasutta) {#19}
 "Này các Tỳ-kheo, một người bán hàng có ba yếu tố thì không thể kiếm thêm tài sản hoặc gia tăng tài sản đã có. Ba yếu tố đó là gì? Đó là khi một người bán hàng không chú tâm cẩn thận vào công việc của mình vào buổi sáng, buổi trưa, và buổi chiều. Một người bán hàng có ba yếu tố này thì không thể kiếm thêm tài sản hoặc gia tăng tài sản đã có.
 
 Cũng vậy, một Tỳ-kheo có ba phẩm chất thì không thể kiếm thêm thiện pháp hoặc gia tăng thiện pháp đã có. Ba phẩm chất đó là gì? Đó là khi một Tỳ-kheo không chú tâm cẩn thận vào một đề mục thiền định làm nền tảng cho sự nhập định vào buổi sáng, buổi trưa, và buổi chiều.
@@ -149,8 +140,7 @@ Cũng vậy, một Tỳ-kheo có ba phẩm chất thì có thể kiếm thêm th
 Một Tỳ-kheo có ba phẩm chất này thì có thể kiếm thêm thiện pháp hoặc gia tăng thiện pháp đã có."
 
 <!--pg-->
-### AN 3.20 Người Bán Hàng (2) (A Shopkeeper (2nd) / Dutiyapāpaṇikasutta){#20}
-
+### AN 3.20 Người Bán Hàng (2) (A Shopkeeper (2nd) / Dutiyapāpaṇikasutta) {#20}
 "Này các Tỳ-kheo, một người bán hàng có ba yếu tố thì sớm kiếm được tài sản lớn và dồi dào. Ba yếu tố đó là gì? Đó là khi một người bán hàng thấy rõ, không mệt mỏi, và có người hỗ trợ.
 
 Và thế nào là một người bán hàng thấy rõ? Đó là khi một người bán hàng biết về một sản phẩm: 'Sản phẩm này được mua với giá này và bán với giá này. Với số vốn đầu tư này, nó sẽ mang lại lợi nhuận chừng này.' Đó là cách một người bán hàng thấy rõ.

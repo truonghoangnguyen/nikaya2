@@ -1,25 +1,21 @@
 # Phẩm về Bố Thí
 
-### AN 8.31 Bố Thí (1) *Paṭhamadānasutta*{#31}
-
+### AN 8.31 Bố Thí (1) *Paṭhamadānasutta* {#31}
 "Này các Tỷ kheo, có tám cách bố thí này. Tám cách nào? Một người có thể bố thí sau khi xúc phạm người nhận. Hoặc họ bố thí vì sợ hãi. Hoặc họ bố thí với suy nghĩ, ‘Họ đã cho mình.’ Hoặc họ bố thí với suy nghĩ, ‘Họ sẽ cho mình.’ Hoặc họ bố thí với suy nghĩ, ‘Bố thí là tốt.’ Hoặc họ bố thí với suy nghĩ, ‘Ta nấu ăn, họ thì không. Sẽ không phải nếu ta không cho họ.’ Hoặc họ bố thí với suy nghĩ, ‘Khi bố thí món này, ta sẽ có tiếng tốt.’ Hoặc họ bố thí với suy nghĩ, ‘Đây là *sự trang nghiêm và vật trợ cho tâm* (adornment and requisite for the mind / vật trang điểm và vật dụng cần thiết cho tâm).’ Đây là tám cách bố thí."
 
 <!--pg-->
-### AN 8.32 Bố Thí (2) *Dutiyadānasutta*{#32}
-
+### AN 8.32 Bố Thí (2) *Dutiyadānasutta* {#32}
 > "Niềm tin, xấu hổ và sợ điều ác, và bố thí thiện xảo\
 > là những phẩm chất người chân chánh noi theo.\
 > Vì đây, họ nói, là con đường của chư thiên,\
 > dẫn đến cõi trời."
 
 <!--pg-->
-### AN 8.33 Lý Do Bố Thí *Dānavatthusutta*{#33}
-
+### AN 8.33 Lý Do Bố Thí *Dānavatthusutta* {#33}
 "Này các Tỷ kheo, có tám lý do để bố thí này. Tám lý do nào? Một người có thể bố thí vì thiên vị, hoặc thù địch, hoặc ngu si, hoặc nhút nhát. Hoặc họ bố thí với suy nghĩ, ‘Việc bố thí đã được cha và ông nội ta thực hành. Sẽ không phải nếu ta từ bỏ truyền thống gia đình này.’ Hoặc họ bố thí với suy nghĩ, ‘Sau khi ta bố thí món này, khi thân hoại mạng chung, sau khi chết, ta sẽ được tái sinh ở một nơi tốt đẹp, một cõi trời.’ Hoặc họ bố thí với suy nghĩ, ‘Khi bố thí món này, tâm ta trở nên trong sáng, và ta trở nên vui vẻ và hân hoan.’ Hoặc họ bố thí với suy nghĩ, ‘Đây là sự trang nghiêm và vật trợ cho tâm.’ Đây là tám lý do để bố thí."
 
 <!--pg-->
-### AN 8.34 Mảnh Ruộng *Khettasutta*{#34}
-
+### AN 8.34 Mảnh Ruộng *Khettasutta* {#34}
 "Này các Tỷ kheo, khi một mảnh ruộng có tám yếu tố, hạt giống gieo vào đó không mang lại nhiều kết quả, nhiều lợi ích, hay nhiều năng suất. Tám yếu tố đó là gì? Đó là khi một mảnh ruộng có gò và rãnh. Nó có đá và sỏi. Nó bị nhiễm mặn. Nó không có luống cày sâu. Và nó không được trang bị cửa dẫn nước vào, cửa thoát nước ra, kênh mương thủy lợi, và bờ bao. Khi một mảnh ruộng có tám yếu tố này, hạt giống gieo vào đó không mang lại nhiều kết quả, nhiều lợi ích, hay nhiều năng suất."
 
 "Cũng vậy, khi một Sa môn hay Bà la môn có tám yếu tố, vật cúng dường cho họ không mang lại nhiều kết quả, nhiều lợi ích, nhiều phước báu, hay nhiều sự dồi dào. Tám yếu tố đó là gì? Đó là khi một Sa môn hay Bà la môn có *tà kiến* (wrong view / thấy biết sai lầm), *tà tư duy* (wrong thought / suy nghĩ sai lầm), *tà ngữ* (wrong speech / lời nói sai lầm), *tà nghiệp* (wrong action / hành động sai lầm), *tà mạng* (wrong livelihood / nuôi mạng sai lầm), *tà tinh tấn* (wrong effort / cố gắng sai lầm), *tà niệm* (wrong mindfulness / sự tỉnh thức sai lầm), và *tà định* (wrong immersion / sự tập trung sai lầm). Khi một Sa môn hay Bà la môn có tám yếu tố này, vật cúng dường cho họ không mang lại nhiều kết quả, nhiều lợi ích, nhiều phước báu, hay nhiều sự dồi dào."
@@ -64,8 +60,7 @@
 > đây là sự tuyệt hảo hoàn toàn."
 
 <!--pg-->
-### AN 8.35 Tái Sinh Do Bố Thí *Dānūpapattisutta*{#35}
-
+### AN 8.35 Tái Sinh Do Bố Thí *Dānūpapattisutta* {#35}
 "Này các Tỷ kheo, có tám sự tái sinh do bố thí này. Tám sự nào?"
 
 "Thứ nhất, có người cúng dường cho các Sa môn hay Bà la môn những thứ như đồ ăn, thức uống, y phục, xe cộ; tràng hoa, hương liệu, và vật trang điểm; và giường, nhà cửa, và đèn đuốc. Bất cứ thứ gì họ cho đi, họ đều mong cầu được đền đáp. Họ thấy một vị Sát đế lỵ, Bà la môn, hay gia chủ giàu có đang vui hưởng, được cung phụng và thỏa mãn với năm loại *dục lạc* (sensual stimulation / sự kích thích giác quan, niềm vui giác quan). Họ khởi lên ý nghĩ: ‘Mong sao, khi thân hoại mạng chung, sau khi chết, ta được tái sinh cùng với các vị Sát đế lỵ, Bà la môn, hay gia chủ giàu có!’ Họ an trú vào ý nghĩ đó, làm cho nó vững chắc, và phát triển nó. Vì họ đã an trú vào điều thấp kém và không phát triển thêm, ý nghĩ đó dẫn đến tái sinh ở đó. Khi thân hoại mạng chung, sau khi chết, họ được tái sinh cùng với các vị Sát đế lỵ, Bà la môn, hay gia chủ giàu có. Nhưng Ta nói rằng điều này chỉ dành cho những người có giới hạnh, không phải cho người không có giới hạnh. Ước nguyện trong tâm của một người có giới hạnh thành tựu là nhờ sự trong sạch của họ."
@@ -87,8 +82,7 @@
 "Đây là tám sự tái sinh do bố thí."
 
 <!--pg-->
-### AN 8.36 Nền Tảng Tạo Phước *Puññakiriyavatthusutta*{#36}
-
+### AN 8.36 Nền Tảng Tạo Phước *Puññakiriyavatthusutta* {#36}
 "Này các Tỷ kheo, có ba *nền tảng tạo phước* (grounds for making merit / cơ sở để làm việc phước thiện) này. Ba nền tảng nào? Bố thí, *giới đức*(ethical conduct / hành vi đạo đức), và *thiền định* (meditation / sự phát triển tâm) đều là nền tảng tạo phước."
 
 "Thứ nhất, có người đã thực hành một ít việc bố thí và giới đức làm nền tảng tạo phước, nhưng họ chưa đạt đến thiền định làm nền tảng tạo phước. Khi thân hoại mạng chung, sau khi chết, họ được tái sinh giữa loài người kém may mắn."
@@ -110,8 +104,7 @@
 "Đây là ba nền tảng tạo phước."
 
 <!--pg-->
-### AN 8.37 Bố Thí Của Bậc Chân Nhân *Sappurisadānasutta*{#37}
-
+### AN 8.37 Bố Thí Của Bậc Chân Nhân *Sappurisadānasutta* {#37}
 "Này các Tỷ kheo, có tám cách bố thí của bậc chân nhân này. Tám cách nào? Vật bố thí của họ trong sạch, chất lượng tốt, đúng thời, thích hợp, có trí tuệ, và thường xuyên. Khi bố thí, tâm họ tín thành, và sau đó họ hân hoan. Đây là tám cách bố thí của bậc chân nhân."
 
 > Họ bố thí những vật trong sạch, chất lượng tốt, và đúng thời\
@@ -130,8 +123,7 @@
 > trong một thế giới an vui, đẹp đẽ."
 
 <!--pg-->
-### AN 8.38 Bậc Chân Nhân *Sappurisasutta*{#38}
-
+### AN 8.38 Bậc Chân Nhân *Sappurisasutta* {#38}
 "Này các Tỷ kheo, một bậc chân nhân sinh ra trong một gia đình vì lợi ích, phúc lợi, và an vui của nhiều người. Vì lợi ích, phúc lợi, và an vui của cha mẹ; con cái và vợ chồng; người hầu kẻ hạ, công nhân, và nhân viên; bạn bè và đồng nghiệp; tổ tiên đã khuất; nhà vua; chư thiên; và các Sa môn cùng Bà la môn."
 
 "Ví như một đám mây mưa lớn, nuôi dưỡng tất cả mùa màng vì lợi ích, phúc lợi, và an vui của nhiều người. Cũng vậy, một bậc chân nhân sinh ra trong một gia đình vì lợi ích, phúc lợi, và an vui của nhiều người. ..."
@@ -157,8 +149,7 @@
 > họ sẽ hưởng một thế giới ân phước."
 
 <!--pg-->
-### AN 8.39 Phước Báu Tràn Đầy *Abhisandasutta*{#39}
-
+### AN 8.39 Phước Báu Tràn Đầy *Abhisandasutta* {#39}
 "Này các Tỷ kheo, có tám loại *phước báu tràn đầy, thiện lành tràn đầy* (overflowing merit, overflowing goodness / công đức dồi dào, điều tốt lành dồi dào) này. Chúng nuôi dưỡng an vui và đưa đến cõi trời, chín muồi trong an vui và dẫn đến cõi trời. Chúng dẫn đến điều đáng ưa thích, đáng mong muốn, đáng hài lòng, đến phúc lợi và an vui. Tám loại nào?"
 
 "Thứ nhất, một *thánh đệ tử* (noble disciple / người học trò cao quý của Phật) đã quy y Phật. Đây là loại phước báu tràn đầy thứ nhất..."
@@ -182,8 +173,7 @@
 "Đây là tám loại phước báu tràn đầy, thiện lành tràn đầy. Chúng nuôi dưỡng an vui và đưa đến cõi trời, chín muồi trong an vui và dẫn đến cõi trời. Chúng dẫn đến điều đáng ưa thích, đáng mong muốn, đáng hài lòng, đến phúc lợi và an vui."
 
 <!--pg-->
-### AN 8.40 Quả Báo Của Ác Hạnh *Duccaritavipākasutta*{#40}
-
+### AN 8.40 Quả Báo Của Ác Hạnh *Duccaritavipākasutta* {#40}
 "Này các Tỷ kheo, việc sát sinh, khi được thực hành, phát triển, và làm cho thuần thục, sẽ dẫn đến địa ngục, cõi súc sinh, hay cõi ngạ quỷ. Quả báo nhẹ nhất mà nó mang lại cho một con người là tuổi thọ ngắn ngủi."
 
 "Việc trộm cắp, khi được thực hành, phát triển, và làm cho thuần thục, sẽ dẫn đến địa ngục, cõi súc sinh, hay cõi ngạ quỷ. Quả báo nhẹ nhất mà nó mang lại cho một con người là mất mát tài sản."

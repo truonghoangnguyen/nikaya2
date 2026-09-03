@@ -1,7 +1,6 @@
 # Phẩm về Bà-la-môn
 
-### AN 3.51 Hai Vị Bà-la-môn (Thứ nhất) *Paṭhamadvebrāhmaṇasutta*{#51}
-
+### AN 3.51 Hai Vị Bà-la-môn (Thứ nhất) *Paṭhamadvebrāhmaṇasutta* {#51}
 Khi ấy, có hai vị Bà-la-môn già, cao niên, trưởng thượng, tuổi đã cao, đi đến giai đoạn cuối của cuộc đời, đã một trăm hai mươi tuổi, đi đến Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, họ ngồi xuống một bên và thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, chúng tôi là những Bà-la-môn già, cao niên, trưởng thượng, tuổi đã cao và đã đến giai đoạn cuối của cuộc đời; chúng tôi đã một trăm hai mươi tuổi. Và chúng tôi chưa làm điều lành, điều thiện, cũng chưa tạo nơi nương tựa khỏi sợ hãi. Xin Tôn giả Gotama khuyên dạy chúng tôi, xin Tôn giả Gotama chỉ bảo chúng tôi! Điều đó sẽ vì lợi ích và hạnh phúc lâu dài cho chúng tôi."
@@ -20,8 +19,7 @@ Khi ấy, có hai vị Bà-la-môn già, cao niên, trưởng thượng, tuổi 
 > như các việc lành đã làm khi còn sống."
 
 <!--pg-->
-### AN 3.52 Hai Vị Bà-la-môn (Thứ hai) *Dutiyadvebrāhmaṇasutta*{#52}
-
+### AN 3.52 Hai Vị Bà-la-môn (Thứ hai) *Dutiyadvebrāhmaṇasutta* {#52}
 Khi ấy, có hai vị Bà-la-môn già---cao niên, trưởng thượng, tuổi đã cao, đi đến giai đoạn cuối của cuộc đời, đã một trăm hai mươi tuổi---đi đến Thế Tôn, đảnh lễ, rồi ngồi xuống một bên và thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, chúng tôi là những Bà-la-môn già, cao niên, trưởng thượng, tuổi đã cao và đã đến giai đoạn cuối của cuộc đời; chúng tôi đã một trăm hai mươi tuổi. Và chúng tôi chưa làm điều lành, điều thiện, cũng chưa tạo nơi nương tựa khỏi sợ hãi. Xin Tôn giả Gotama khuyên dạy chúng tôi, xin Tôn giả Gotama chỉ bảo chúng tôi! Điều đó sẽ vì lợi ích và hạnh phúc lâu dài cho chúng tôi."
@@ -44,8 +42,7 @@ Khi ấy, có hai vị Bà-la-môn già---cao niên, trưởng thượng, tuổi
 > như các việc lành đã làm khi còn sống."
 
 <!--pg-->
-### AN 3.53 Một Vị Bà-la-môn Nào Đó *Aññatarabrāhmaṇasutta*{#53}
-
+### AN 3.53 Một Vị Bà-la-môn Nào Đó *Aññatarabrāhmaṇasutta* {#53}
 Khi ấy, một vị Bà-la-môn đi đến Thế Tôn và chào hỏi Ngài. Ngồi xuống một bên, ông thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, người ta nói về 'một giáo pháp *thiết thực hiện tại* (a teaching apparent in the present life/sanditthika dhamma)'. Giáo pháp thiết thực hiện tại, có hiệu quả tức thì, đến để thấy, có tính hướng thượng, để người trí tự mình liễu tri là như thế nào?"
@@ -59,8 +56,7 @@ Người si mê, bị si mê chi phối, khởi ý làm hại mình, làm hại 
 "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! Như người dựng lại những gì bị đổ, bày ra những gì bị che kín, chỉ đường cho người lạc lối, hay cầm đèn trong bóng tối để người có mắt có thể thấy các vật, Tôn giả Gotama đã làm sáng tỏ giáo pháp bằng nhiều cách. Con xin quy y Tôn giả Gotama, quy y Pháp, quy y Tăng đoàn Tỳ-kheo (mendicant Saṅgha/Tỳ-kheo Tăng). Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một *cư sĩ* (lay follower/upasaka) đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.54 Một Vị Du Sĩ *Paribbājakasutta*{#54}
-
+### AN 3.54 Một Vị Du Sĩ *Paribbājakasutta* {#54}
 Khi ấy, một vị *du sĩ* (wanderer/paribbājaka) Bà-la-môn đi đến Thế Tôn... Ngồi xuống một bên, ông thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, người ta nói về 'một giáo pháp thiết thực hiện tại'. Giáo pháp thiết thực hiện tại, có hiệu quả tức thì, đến để thấy, có tính hướng thượng, để người trí tự mình liễu tri là như thế nào?"
@@ -80,8 +76,7 @@ Người si mê không thực sự hiểu rõ lợi ích của mình, lợi ích
 "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.55 Tịch Diệt *Nibbutasutta*{#55}
-
+### AN 3.55 Tịch Diệt *Nibbutasutta* {#55}
 Khi ấy, Bà-la-môn Jānussoṇi đi đến Thế Tôn, đảnh lễ, ngồi xuống một bên và thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, người ta nói rằng '*sự tịch diệt* (extinguishment/nibbāna/niết-bàn) là thiết thực hiện tại'. Sự tịch diệt thiết thực hiện tại, có hiệu quả tức thì, đến để thấy, có tính hướng thượng, để người trí tự mình liễu tri là như thế nào?"
@@ -97,8 +92,7 @@ Khi ông kinh nghiệm được sự đoạn tận hoàn toàn tham, sân, si, �
 "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.56 Tan Rã *Palokasutta*{#56}
-
+### AN 3.56 Tan Rã *Palokasutta* {#56}
 Khi ấy, một vị Bà-la-môn giàu có đi đến Thế Tôn, và ngồi xuống một bên, ông thưa với Ngài:
 
 "Thưa Tôn giả Gotama, tôi nghe các vị Bà-la-môn quá khứ, những người cao niên, trưởng thượng, thầy của các bậc thầy, nói rằng: 'Ngày xưa, thế giới này đông đúc người đến nỗi tưởng như chen chúc nhau. Các làng mạc, thị trấn và kinh thành chỉ cách nhau một tầm gà bay.' Thưa Ngài, nguyên nhân nào, lý do gì mà ngày nay số lượng người đã suy giảm, sự sụt giảm dân số là rõ ràng, và toàn bộ làng mạc, thị trấn, thành phố, và quốc gia đã biến mất?"
@@ -112,8 +106,7 @@ Hơn nữa, vì ngày nay con người chỉ yêu thích ham muốn phi pháp...
 "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.57 Với Vacchagotta *Vacchagottasutta*{#57}
-
+### AN 3.57 Với Vacchagotta *Vacchagottasutta* {#57}
 Khi ấy, du sĩ Vacchagotta đi đến Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, tôi nghe nói rằng Sa-môn Gotama nói thế này: 'Chỉ nên cúng dường cho ta, không nên cho người khác. Chỉ nên cúng dường cho đệ tử của ta, không nên cho đệ tử của người khác. Chỉ những gì cúng dường cho ta mới có quả lớn, không phải những gì cúng dường cho người khác. Chỉ những gì cúng dường cho đệ tử của ta mới có quả lớn, không phải những gì cúng dường cho đệ tử của người khác.'
@@ -183,8 +176,7 @@ Ta nói rằng cúng dường cho bất kỳ ai đã từ bỏ năm yếu tố n
 > đạt đến Niết-bàn."
 
 <!--pg-->
-### AN 3.58 Với Tikaṇṇa *Tikaṇṇasutta*{#58}
-
+### AN 3.58 Với Tikaṇṇa *Tikaṇṇasutta* {#58}
 Khi ấy, Bà-la-môn Tikaṇṇa đi đến Thế Tôn và chào hỏi Ngài. Ngồi xuống một bên, trước mặt Thế Tôn, Tikaṇṇa ca ngợi các vị Bà-la-môn thông thạo Tam Veda, "Những vị Bà-la-môn như vậy là bậc thầy Tam Veda! Các vị Bà-la-môn như thế là bậc thầy Tam Veda!"
 
 "Nhưng này Bà-la-môn, các vị Bà-la-môn mô tả một vị Bà-la-môn là bậc thầy Tam Veda như thế nào?"
@@ -242,8 +234,7 @@ Vị ấy hiểu: 'Tái sinh đã chấm dứt, phạm hạnh đã hoàn thành,
 Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.59 Với Jānussoṇi *Jāṇussoṇisutta*{#59}
-
+### AN 3.59 Với Jānussoṇi *Jāṇussoṇisutta* {#59}
 Khi ấy, Bà-la-môn Jānussoṇi đi đến Thế Tôn và chào hỏi Ngài. Ngồi xuống một bên, ông thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, bất cứ ai có lễ tế, lễ cúng dường tổ tiên, món cơm sữa chuẩn bị cho nghi lễ tốt lành, hoặc quà tặng để cho đi, nên cúng dường cho các vị Bà-la-môn đã thông thạo Tam Veda."
@@ -293,8 +284,7 @@ Vị ấy hiểu: 'Tái sinh đã chấm dứt, phạm hạnh đã hoàn thành,
 Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.60 Với Saṅgārava *Saṅgāravasutta*{#60}
-
+### AN 3.60 Với Saṅgārava *Saṅgāravasutta* {#60}
 Khi ấy, Bà-la-môn Saṅgārava đi đến Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và thưa với Thế Tôn:
 
 "Thưa Tôn giả Gotama, chúng tôi, những người được gọi là Bà-la-môn, thực hiện các lễ tế và khuyến khích người khác thực hiện lễ tế. Này Tôn giả Gotama, cả hai hạng người này---người thực hiện lễ tế và người khuyến khích người khác thực hiện lễ tế---đều đang làm điều tốt cho nhiều người nhờ vào lễ tế đó. Nhưng, thưa Tôn giả Gotama, khi một người từ bỏ đời sống tại gia để sống không nhà cửa, họ tự mình điều phục, làm lắng dịu, và tịch diệt. Như vậy, họ chỉ làm điều tốt cho một người nhờ vào sự xuất gia đó."

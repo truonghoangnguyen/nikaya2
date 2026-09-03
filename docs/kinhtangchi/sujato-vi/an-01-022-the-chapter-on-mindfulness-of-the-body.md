@@ -1,7 +1,6 @@
 # Phẩm về Niệm Thân
 
-### AN 1.575--615 Phẩm Niệm Thân{#575-615}
-
+### AN 1.575--615 Phẩm Niệm Thân {#575-615}
 575\. "Này các Tỳ kheo, người nào hướng tâm đến đại dương thì bao gồm tất cả các dòng sông chảy vào đó. Cũng vậy, người nào đã tu tập và phát triển *niệm thân* (mindfulness of the body / sự tỉnh thức về thân) thì bao gồm tất cả các *thiện pháp* (skillful qualities / các phẩm chất tốt lành, thiện lành) thuộc phần giác ngộ."
 
 <!--pg-->

@@ -1,8 +1,7 @@
 # Phẩm với Ānanda
 
 
-### AN 3.71 Với Channa (Channasutta){#71}
-
+### AN 3.71 Với Channa (Channasutta) {#71}
 Một thời, Đức Phật trú tại Sāvatthī, trong rừng Jeta, tịnh xá của ông Anāthapiṇḍika. Rồi du sĩ Channa đi đến chỗ Tôn giả Ānanda, chào hỏi. Sau khi trao đổi những lời chào hỏi xã giao thân mật, ông ngồi xuống một bên và nói với Tôn giả Ānanda:
 
 "Thưa Tôn giả Ānanda, các vị có chủ trương từ bỏ *tham* (greed/tham), *sân* (hate/sân), và *si* (delusion/si) không?"
@@ -30,8 +29,7 @@ Người có si, bị si chế ngự, có ý làm hại chính mình, làm hại
 "Đây là một đạo lộ tốt đẹp, một sự thực hành tốt đẹp, để từ bỏ tham, sân, và si đó. Chỉ cần như vậy là đủ để tinh tấn."
 
 <!--pg-->
-### AN 3.72 Một Đệ Tử Của Ngoại Đạo Ājīvaka (Ājīvakasutta){#72}
-
+### AN 3.72 Một Đệ Tử Của Ngoại Đạo Ājīvaka (Ājīvakasutta) {#72}
 Một thời, Tôn giả Ānanda trú tại Kosambī, trong tịnh xá Ghosita. Rồi một *gia chủ* (householder/gia chủ) là đệ tử của *khổ hạnh giả Ājīvaka* (Ājīvaka ascetics/ngoại đạo Ājīvaka) đi đến chỗ Tôn giả Ānanda, đảnh lễ, ngồi xuống một bên, và nói với Tôn giả Ānanda:
 
 "Thưa Tôn giả Ānanda, giáo pháp của ai được trình bày khéo léo? Ai trong thế gian đang thực hành tốt? Ai trong thế gian đã làm tốt?"
@@ -55,8 +53,7 @@ Một thời, Tôn giả Ānanda trú tại Kosambī, trong tịnh xá Ghosita. 
 *Lành thay* (Excellent/Lành thay), thưa Ngài! Lành thay! Như thể *dựng lại những gì bị lật đổ* (righting the overturned/dựng lại những gì bị lật đổ), hoặc *phơi bày những gì bị che giấu* (revealing the hidden/phơi bày những gì bị che giấu), hoặc *chỉ đường cho người lạc lối* (pointing out the path to the lost/chỉ đường cho người lạc lối), hoặc *thắp đèn trong bóng tối* (lighting a lamp in the dark/thắp đèn trong bóng tối) để *người có mắt sáng* (people with clear eyes/người có mắt sáng) có thể thấy những gì ở đó, Sư Ānanda đã làm cho giáo pháp trở nên rõ ràng bằng nhiều cách. Tôi *quy y* (go for refuge/quy y) Phật, quy y Pháp, và quy y *Tăng đoàn Tỳ-kheo* (mendicant Saṅgha/Tăng đoàn Tỳ-kheo). Từ nay trở đi, xin Sư Ānanda hãy nhớ đến tôi như một *cư sĩ tại gia* (lay follower/cư sĩ tại gia) đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.73 Với Mahānāma Người Thích Ca (Mahānāmasakkasutta){#73}
-
+### AN 3.73 Với Mahānāma Người Thích Ca (Mahānāmasakkasutta) {#73}
 Tôi nghe như vầy. Một thời, Đức Phật trú tại xứ của dòng Thích Ca, gần Kapilavatthu, trong Tịnh xá Cây Đa. Bấy giờ, Đức Phật mới *khỏi bệnh* (recovered from an illness/khỏi bệnh). Rồi Mahānāma người Thích Ca đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
 "Thưa Ngài, từ lâu con đã hiểu giáo pháp của Ngài như thế này: '*Tuệ* (knowledge/tuệ) dành cho người có *định* (immersion/định), không phải người không có định.' Nhưng, thưa Ngài, định đến trước, rồi tuệ đến sau? Hay tuệ đến trước, rồi định đến sau?"
@@ -74,8 +71,7 @@ Rồi một *Thánh đệ tử* (noble disciple/Thánh đệ tử)—*thành t�
 Theo cách này, Đức Phật đã nói về giới, định, và tuệ của cả học giả và bậc đã thành tựu."
 
 <!--pg-->
-### AN 3.74 Ngoại Đạo Ni-kiền-tử (Nigaṇṭhasutta){#74}
-
+### AN 3.74 Ngoại Đạo Ni-kiền-tử (Nigaṇṭhasutta) {#74}
 Một thời, Tôn giả Ānanda trú tại Vesālī, trong Đại Lâm, tại Hội trường có mái nhọn. Rồi hai người dòng Licchavi là Abhaya và Paṇḍitakumāra đi đến chỗ Tôn giả Ānanda, đảnh lễ, ngồi xuống một bên, và nói với ông ấy:
 
 "Thưa Ngài, *khổ hạnh giả Ni-kiền-tử thuộc dòng Ñātika* (Jain ascetic of the Ñātika clan/khổ hạnh giả Ni-kiền-tử thuộc dòng Ñātika) tự xưng là *biết tất cả, thấy tất cả* (all-knowing and all-seeing/biết tất cả, thấy tất cả), biết và thấy mọi thứ không trừ một điều gì, như thế này: '*Tri kiến* (knowledge and vision/tri kiến) luôn luôn và liên tục hiện hữu nơi tôi, khi đi, đứng, nằm, ngồi.' Ông ấy chủ trương *diệt trừ nghiệp cũ bằng sự khổ hạnh mãnh liệt* (elimination of past deeds by fervent mortification/diệt trừ nghiệp cũ bằng sự khổ hạnh mãnh liệt), và *phá cầu bằng cách không tạo nghiệp mới* (breaking the bridge by not doing any new deeds/phá cầu bằng cách không tạo nghiệp mới). Như vậy, với *nghiệp tận* (ending of deeds/nghiệp tận), *khổ tận* (suffering ends/khổ tận); với khổ tận, *thọ tận* (feeling ends/thọ tận); và với thọ tận, mọi khổ đau sẽ bị làm mòn. Đây là cách để vượt qua khổ đau bằng *sự tịnh hóa bằng cách làm mòn* (purification by wearing away/sự tịnh hóa bằng cách làm mòn) ngay trong đời này. Thưa Ngài, Đức Phật nói gì về điều này?"
@@ -95,8 +91,7 @@ Khi nói điều này, Paṇḍitakumāra nói với Abhaya: "Này Abhaya thân 
 "Làm sao tôi lại không đồng ý với những gì Tôn giả Ānanda đã nói rất hay được? Nếu ai không đồng ý với ông ấy, *đầu họ sẽ vỡ tung* (their head would explode/đầu họ sẽ vỡ tung)!"
 
 <!--pg-->
-### AN 3.75 Nương Tựa (Nivesakasutta){#75}
-
+### AN 3.75 Nương Tựa (Nivesakasutta) {#75}
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông ấy:
 
 "Này Ānanda, những người mà con *thương xót* (sympathy for/thương xót), và những người *đáng nghe* (worth listening to/đáng nghe)—bạn bè và đồng nghiệp, bà con và gia đình—nên được *khuyến khích, hỗ trợ, và thiết lập* (encouraged, supported, and established/khuyến khích, hỗ trợ, và thiết lập) trong ba điều. Ba điều gì?
@@ -114,8 +109,7 @@ Có thể có sự thay đổi trong tứ đại—đất, nước, gió, và l�
 Những người mà con thương xót, và những người đáng nghe—bạn bè và đồng nghiệp, bà con và gia đình—nên được khuyến khích, hỗ trợ, và thiết lập trong ba điều này."
 
 <!--pg-->
-### AN 3.76 Hữu (1) (Paṭhamabhavasutta){#76}
-
+### AN 3.76 Hữu (1) (Paṭhamabhavasutta) {#76}
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
 "Thưa Ngài, người ta nói về điều gọi là '*hữu*' (continued existence/hữu). Hữu được định nghĩa như thế nào?"
@@ -139,8 +133,7 @@ Nếu không có nghiệp đưa đến kết quả trong *vô sắc giới* (for
 "Vậy thì, này Ānanda, nghiệp là ruộng, thức là hạt giống, và ái là chất ẩm. Thức của chúng sinh—bị vô minh che lấp và bị ái kiết sử trói buộc—được thiết lập trong một cảnh giới cao. Đó là cách có tái sinh vào một trạng thái tồn tại mới trong tương lai. Đó là cách hữu được định nghĩa."
 
 <!--pg-->
-### AN 3.77 Hữu (2) (Dutiyabhavasutta){#77}
-
+### AN 3.77 Hữu (2) (Dutiyabhavasutta) {#77}
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
 "Thưa Ngài, người ta nói về điều gọi là 'hữu'. Hữu được định nghĩa như thế nào?"
@@ -164,8 +157,7 @@ Nếu không có nghiệp đưa đến kết quả trong vô sắc giới, thì 
 "Vậy thì, nghiệp là ruộng, thức là hạt giống, và ái là chất ẩm. Ý định và mục đích của chúng sinh—bị vô minh che lấp và bị ái kiết sử trói buộc—được thiết lập trong một cảnh giới cao. Đó là cách có tái sinh vào một trạng thái tồn tại mới trong tương lai. Đó là cách hữu được định nghĩa."
 
 <!--pg-->
-### AN 3.78 Giới Cấm Thủ (Sīlabbatasutta){#78}
-
+### AN 3.78 Giới Cấm Thủ (Sīlabbatasutta) {#78}
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với ông ấy: "Này Ānanda, tất cả *giới cấm thủ* (precepts and observances/giới cấm thủ), *lối sống* (lifestyles/lối sống), và *đạo lộ tu tập* (spiritual paths/đạo lộ tu tập) đều *có kết quả* (fruitful/có kết quả) khi được xem là cốt lõi chăng?"
 
 "Điều này không *tuyệt đối* (categorical/tuyệt đối), thưa Ngài."
@@ -179,8 +171,7 @@ Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, và ngồ
 Rồi Tôn giả Ānanda, biết rằng Đức Đạo Sư tán thành, đứng dậy khỏi chỗ ngồi, đảnh lễ, và đi nhiễu quanh Đức Phật theo chiều bên phải một cách cung kính trước khi rời đi. Rồi, không lâu sau khi Tôn giả Ānanda rời đi, Đức Phật nói với các Tỳ-kheo: "Này các Tỳ-kheo, Ānanda là một học giả, nhưng không dễ tìm được người *ngang bằng* (equal/ngang bằng) với trí tuệ của ông ấy."
 
 <!--pg-->
-### AN 3.79 Các Loại Hương (Gandhajātasutta){#79}
-
+### AN 3.79 Các Loại Hương (Gandhajātasutta) {#79}
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
 "Thưa Ngài, có ba loại *hương* (fragrance/hương) này chỉ lan tỏa theo chiều gió, không ngược gió. Ba loại gì? Hương của rễ, hương của lõi cây, và hương của hoa. Đây là ba loại hương chỉ lan tỏa theo chiều gió, không ngược gió. Có loại hương nào lan tỏa theo chiều gió, ngược gió, và cả hai chiều không?"
@@ -201,8 +192,7 @@ Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xu
 > *đức hạnh* (virtue/đức hạnh) của một *bậc chân nhân* (true person/bậc chân nhân) lan tỏa khắp mọi hướng."
 
 <!--pg-->
-### AN 3.80 Nhỏ (Cūḷanikāsutta){#80}
-
+### AN 3.80 Nhỏ (Cūḷanikāsutta) {#80}
 Rồi Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
 "Thưa Ngài, con đã nghe và học điều này *trước mặt Đức Phật* (in the presence of the Buddha/trước mặt Đức Phật): 'Này Ānanda, Đức Phật Sikhī có một đệ tử tên là Abhibhū. Đứng trong *cảnh giới chư thiên* (realm of divinity/cảnh giới chư thiên), ông ấy có thể làm cho giọng nói của mình được nghe thấy khắp *thiên thế giới* (thousandfold galaxy/thiên thế giới).' Con tự hỏi một Thế Tôn, một bậc A-la-hán, một bậc Chánh Đẳng Giác có thể làm cho giọng nói của mình được nghe thấy xa đến mức nào?"

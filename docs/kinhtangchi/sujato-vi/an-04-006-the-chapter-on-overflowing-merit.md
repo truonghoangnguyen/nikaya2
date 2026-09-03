@@ -1,7 +1,6 @@
 # Phẩm về Phước Tuôn Chảy
 
-### AN 4.51 Phước Tuôn Chảy (1) *Paṭhamapuññābhisandasutta*{#51}
-
+### AN 4.51 Phước Tuôn Chảy (1) *Paṭhamapuññābhisandasutta* {#51}
 Tại Sāvatthī.
 
 "Này các Tỳ kheo, có bốn loại *dòng phước* (overflowing merit / phước báu tuôn chảy), *dòng thiện* (overflowing goodness / thiện pháp tuôn chảy) này. Chúng nuôi dưỡng an lạc, đưa đến cõi trời, chín muồi trong an lạc và dẫn đến cõi trời. Chúng dẫn đến những gì đáng ưa thích, đáng mong muốn, đáng hài lòng, đến lợi ích và an lạc. Bốn loại đó là gì?
@@ -34,8 +33,7 @@ Cũng vậy, khi một thánh đệ tử có được bốn loại dòng phướ
 > Như sông ngòi mang nước về biển cả."
 
 <!--pg-->
-### AN 4.52 Phước Tuôn Chảy (2) *Dutiyapuññābhisandasutta*{#52}
-
+### AN 4.52 Phước Tuôn Chảy (2) *Dutiyapuññābhisandasutta* {#52}
 "Này các Tỳ kheo, có bốn loại dòng phước, dòng thiện này. Chúng nuôi dưỡng an lạc, đưa đến cõi trời, chín muồi trong an lạc và dẫn đến cõi trời. Chúng dẫn đến những gì đáng ưa thích, đáng mong muốn, đáng hài lòng, đến lợi ích và an lạc. Bốn loại đó là gì?
 
 Đó là khi một thánh đệ tử có *tịnh tín bất động* (experiential confidence / niềm tin vững chắc dựa trên kinh nghiệm) nơi *Đức Phật* (Buddha): 'Vị *Thế Tôn* (blessed / bậc được tôn kính) ấy là bậc *A-la-hán* (perfected / bậc đã hoàn thiện), *Phật Toàn Giác* (fully awakened Buddha / bậc giác ngộ hoàn toàn), *minh hạnh túc* (accomplished in knowledge and conduct / đầy đủ trí tuệ và đức hạnh), *Thiện Thệ* (holy / bậc khéo đi), *Thế Gian Giải* (knower of the world / bậc hiểu biết thế gian), *Vô Thượng Sĩ điều ngự trượng phu* (supreme guide for those who wish to train / bậc tối cao dẫn dắt người cần được huấn luyện), *Thiên Nhân Sư* (teacher of gods and humans / thầy của trời và người), *Phật* (awakened / bậc giác ngộ), Thế Tôn.' Đây là loại dòng phước thứ nhất...
@@ -64,8 +62,7 @@ Lại nữa, *giới hạnh* (ethical conduct / hành vi đạo đức) của m�
 > Nhớ lời dạy của chư Phật."
 
 <!--pg-->
-### AN 4.53 Chung Sống (1) *Paṭhamasaṁvāsasutta*{#53}
-
+### AN 4.53 Chung Sống (1) *Paṭhamasaṁvāsasutta* {#53}
 Có một thời Đức Phật đang đi trên con đường giữa Madhurā và Verañjā, cùng lúc đó cũng có nhiều *gia chủ* (householders / chủ nhà, người tại gia), cả nam lẫn nữ. Đức Phật rời khỏi con đường và ngồi dưới gốc cây, nơi các gia chủ nhìn thấy Ngài.
 
 Họ đến gần Đức Phật, đảnh lễ và ngồi xuống một bên. Đức Phật nói với họ:
@@ -122,8 +119,7 @@ Và thế nào là một nam thiên sống với một nữ thiên? Đó là khi
 > Hưởng thụ mọi lạc thú mong muốn."
 
 <!--pg-->
-### AN 4.54 Chung Sống (2) *Dutiyasaṁvāsasutta*{#54}
-
+### AN 4.54 Chung Sống (2) *Dutiyasaṁvāsasutta* {#54}
 "Này các Tỳ kheo, có bốn cách chung sống. Bốn cách đó là gì?
 
 1.  Một ngạ quỷ nam sống với một ngạ quỷ nữ;
@@ -142,8 +138,7 @@ Và thế nào là một nam thiên sống với một nữ thiên? Đó là khi
 Đây là bốn cách chung sống." ...
 
 <!--pg-->
-### AN 4.55 Đồng Đẳng (1) *Paṭhamasamajīvīsutta*{#55}
-
+### AN 4.55 Đồng Đẳng (1) *Paṭhamasamajīvīsutta* {#55}
 Như vầy tôi nghe. Một thời Đức Phật trú ở xứ Bhagga, tại Đồi Cá Sấu, trong vườn nai ở Rừng Bhesakaḷā.
 
 Khi ấy, vào buổi sáng, Đức Phật đắp y, mang bát và y, đi đến nhà *gia chủ Nakulapitā* (householder Nakula's father), rồi ngồi trên chỗ đã soạn sẵn.
@@ -170,13 +165,11 @@ Rồi Nakulamātā thưa với Đức Phật: "Bạch Thế Tôn, từ khi chún
 > Hưởng thụ mọi lạc thú mong muốn."
 
 <!--pg-->
-### AN 4.56 Đồng Đẳng (2) *Dutiyasamajīvīsutta*{#56}
-
+### AN 4.56 Đồng Đẳng (2) *Dutiyasamajīvīsutta* {#56}
 "Này các Tỳ kheo, nếu vợ chồng muốn gặp lại nhau cả trong đời này và đời sau, họ nên đồng đẳng về tín, giới, thí, tuệ. ..."
 
 <!--pg-->
-### AN 4.57 Suppavāsā *Suppavāsāsutta*{#57}
-
+### AN 4.57 Suppavāsā *Suppavāsāsutta* {#57}
 Một thời Đức Phật trú ở xứ Koliya, tại một thị trấn tên là Pajjanika.
 
 Khi ấy, vào buổi sáng, Đức Phật đắp y, mang bát và y, đi đến nhà của Suppavāsā người Koliya, rồi ngồi trên chỗ đã soạn sẵn. Sau đó, Suppavāsā tự tay dâng cúng và làm Đức Phật hài lòng với các món ăn tươi ngon đã nấu chín. Khi Đức Phật đã thọ thực xong, rửa tay và bát, bà ngồi xuống một bên. Đức Phật nói với bà:
@@ -197,8 +190,7 @@ Khi ấy, vào buổi sáng, Đức Phật đắp y, mang bát và y, đi đến
 > Không bị chê trách, họ đi đến cõi trời."
 
 <!--pg-->
-### AN 4.58 Sudatta *Sudattasutta*{#58}
-
+### AN 4.58 Sudatta *Sudattasutta* {#58}
 Khi ấy, *gia chủ Anāthapiṇḍika* (householder Anāthapiṇḍika / Cấp Cô Độc) đến gần Đức Phật, đảnh lễ và ngồi xuống một bên. Đức Phật nói với ông:
 
 "Này gia chủ, khi một thánh đệ tử cúng dường vật thực, họ trao cho người nhận bốn điều. Bốn điều đó là gì? Sống lâu, dung sắc, an lạc, và sức mạnh. Khi cúng dường sự sống lâu, họ sẽ được sống lâu như chư thiên hoặc loài người. ... Khi cúng dường dung sắc ... an lạc ... sức mạnh ... Khi một thánh đệ tử cúng dường vật thực, họ trao cho người nhận bốn điều này.
@@ -215,13 +207,11 @@ Khi ấy, *gia chủ Anāthapiṇḍika* (householder Anāthapiṇḍika / Cấp
 > Bất cứ nơi nào họ tái sinh."
 
 <!--pg-->
-### AN 4.59 Vật Thực *Bhojanasutta*{#59}
-
+### AN 4.59 Vật Thực *Bhojanasutta* {#59}
 "Này các Tỳ kheo, khi một người thí chủ cúng dường vật thực, họ trao cho người nhận bốn điều. Bốn điều đó là gì? Sống lâu, dung sắc, an lạc, và sức mạnh. ..."
 
 <!--pg-->
-### AN 4.60 Phận Sự Cư Sĩ *Gihisāmīcisutta*{#60}
-
+### AN 4.60 Phận Sự Cư Sĩ *Gihisāmīcisutta* {#60}
 Khi ấy, gia chủ Anāthapiṇḍika đến gần Đức Phật, đảnh lễ và ngồi xuống một bên. Đức Phật nói với ông:
 
 "Này gia chủ, khi một thánh đệ tử làm bốn điều, họ đang *thực hành phận sự người cư sĩ* (practicing appropriately for a layperson / làm đúng trách nhiệm của người tại gia), điều này mang lại danh tiếng và dẫn đến cõi trời. Bốn điều đó là gì? Đó là khi một thánh đệ tử phục vụ *Tăng đoàn Tỳ kheo* (mendicant Saṅgha / cộng đồng các vị sư khất sĩ) với *y phục* (robes / áo cà sa), *vật thực khất thực* (almsfood / đồ ăn xin được), *chỗ ở* (lodgings / nơi trú ngụ), và *dược phẩm trị bệnh* (medicines and supplies for the sick / thuốc men và vật dụng cho người bệnh). Khi một thánh đệ tử làm bốn điều này, họ đang thực hành phận sự người cư sĩ, điều này mang lại danh tiếng và dẫn đến cõi trời.

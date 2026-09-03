@@ -1,32 +1,26 @@
 # Phẩm Kakudha
 
-### AN 5.91 Thành Tựu (1) *Paṭhamasampadāsutta*{#91}
-
+### AN 5.91 Thành Tựu (1) *Paṭhamasampadāsutta* {#91}
 "Này các Tỳ kheo, có năm sự thành tựu này. Thế nào là năm? Thành tựu về *niềm tin* (faith / niềm tin vững chắc vào Tam Bảo và nghiệp báo), thành tựu về *giới* (ethics / đạo đức, các quy tắc hành vi), thành tựu về *văn* (learning / sự học hỏi giáo pháp), thành tựu về *thí* (generosity / sự bố thí, cho đi), và thành tựu về *trí tuệ* (wisdom / sự hiểu biết đúng đắn về bản chất sự vật). Đó là năm sự thành tựu."
 
 <!--pg-->
-### AN 5.92 Thành Tựu (2) *Dutiyasampadāsutta*{#92}
-
+### AN 5.92 Thành Tựu (2) *Dutiyasampadāsutta* {#92}
 "Này các Tỳ kheo, có năm sự thành tựu này. Thế nào là năm? Thành tựu về giới, thành tựu về *định* (immersion / sự tập trung tâm ý vào một đối tượng), thành tựu về trí tuệ, thành tựu về *giải thoát* (freedom / sự thoát khỏi khổ đau và vòng luân hồi), và thành tựu về *giải thoát tri kiến* (knowledge and vision of freedom / sự thấy biết rõ ràng về trạng thái giải thoát đã đạt được). Đó là năm sự thành tựu."
 
 <!--pg-->
-### AN 5.93 Tuyên Bố *Byākaraṇasutta*{#93}
-
+### AN 5.93 Tuyên Bố *Byākaraṇasutta* {#93}
 "Này các Tỳ kheo, có năm cách tuyên bố *chứng đắc A-la-hán* (enlightenment / sự đạt được quả vị A-la-hán, giác ngộ hoàn toàn). Thế nào là năm? Do ngu si, khờ dại mà tuyên bố chứng đắc A-la-hán. Hoặc do ước muốn xấu xa, có tâm đầy tham vọng. Hoặc do điên cuồng, loạn tâm. Hoặc do quá tự mãn. Hoặc tuyên bố chứng đắc A-la-hán một cách đúng đắn. Đó là năm cách tuyên bố chứng đắc A-la-hán."
 
 <!--pg-->
-### AN 5.94 Sống An Lạc *Phāsuvihārasutta*{#94}
-
+### AN 5.94 Sống An Lạc *Phāsuvihārasutta* {#94}
 "Này các Tỳ kheo, có năm cách sống an lạc này. Thế nào là năm? Đó là khi một vị Tỳ kheo, hoàn toàn ly *dục lạc* (sensual pleasures / niềm vui thích qua năm giác quan), ly *bất thiện pháp* (unskillful qualities / các trạng thái tâm bất lợi, gây khổ đau), chứng và trú *sơ thiền* (first absorption / tầng thiền định thứ nhất, có tầm, tứ, vui vẻ, an vui, nhất tâm), một trạng thái có *vui vẻ* (rapture / trạng thái hân hoan, phấn khởi của tâm) và *an vui* (bliss / trạng thái hạnh phúc, dễ chịu của thân và tâm) do *ly* (seclusion / sự xa lánh các dục lạc và pháp bất thiện) sanh, với *tầm* (placing the mind / sự hướng tâm ban đầu đến đối tượng thiền) và *tứ* (keeping it connected / sự duy trì tâm trên đối tượng thiền một cách liên tục). Khi tầm và tứ lắng dịu, vị ấy chứng và trú *nhị thiền* (second absorption / tầng thiền định thứ hai, không tầm, không tứ, có nội tĩnh nhất tâm, vui vẻ, an vui, định sanh)... *tam thiền* (third absorption / tầng thiền định thứ ba, ly vui vẻ, trú xả, tỉnh thức, biết rõ, thân cảm giác an vui)... *tứ thiền* (fourth absorption / tầng thiền định thứ tư, xả an vui, xả khổ, diệt hỷ ưu đã cảm thọ trước, không khổ không an vui, xả niệm thanh tịnh)... Vị ấy tự mình với *thắng trí* (insight / sự hiểu biết trực tiếp, sâu sắc thông qua tuệ quán) chứng ngộ, đạt đến và an trú ngay trong hiện tại *vô lậu tâm giải thoát* (undefiled freedom of heart / sự giải thoát của tâm khỏi mọi phiền não ô nhiễm), *tuệ giải thoát* (freedom by wisdom / sự giải thoát đạt được nhờ trí tuệ thấy rõ Tứ Thánh Đế) do sự đoạn tận các *lậu hoặc* (defilements / những phiền não làm chúng sinh trôi lăn trong luân hồi). Đó là năm cách sống an lạc."
 
 <!--pg-->
-### AN 5.95 Bất Động *Akuppasutta*{#95}
-
+### AN 5.95 Bất Động *Akuppasutta* {#95}
 "Này các Tỳ kheo, vị Tỳ kheo nào có năm pháp này sẽ sớm chứng đạt được trạng thái *bất động* (unshakable / trạng thái tâm không còn lay chuyển bởi bất cứ điều gì). Thế nào là năm? Đó là khi vị Tỳ kheo đạt được sự *phân tích nghĩa* (textual analysis of meaning / sự hiểu rõ ý nghĩa của giáo pháp), *pháp* (text / lời dạy của Phật, giáo pháp), *từ ngữ* (terminology / các thuật ngữ chuyên môn trong giáo pháp), và *biện tài* (eloquence / khả năng trình bày, giải thích giáo pháp một cách lưu loát, rõ ràng), và vị ấy quán xét mức độ *tâm giải thoát* (mind's freedom / trạng thái tâm đã được giải thoát) của mình. Vị Tỳ kheo nào có năm pháp này sẽ sớm chứng đạt được trạng thái bất động."
 
 <!--pg-->
-### AN 5.96 Ghi Nhớ Những Gì Đã Học *Sutadharasutta*{#96}
-
+### AN 5.96 Ghi Nhớ Những Gì Đã Học *Sutadharasutta* {#96}
 "Này các Tỳ kheo, vị Tỳ kheo tu tập *niệm hơi thở* (mindfulness of breathing / phương pháp thiền định chú tâm vào hơi thở ra vào) mà có năm pháp này sẽ sớm chứng đạt được trạng thái bất động. Thế nào là năm?
 
 Đó là khi vị Tỳ kheo ít có yêu cầu và phận sự, sống nhẹ nhàng và biết đủ với các *vật dụng cần thiết* (life's necessities / bốn món vật dụng cơ bản của tu sĩ: y, vật thực, chỗ ở, thuốc men).
@@ -42,8 +36,7 @@ Vị ấy quán xét mức độ tâm giải thoát của mình.
 Vị Tỳ kheo tu tập niệm hơi thở mà có năm pháp này sẽ sớm chứng đạt được trạng thái bất động."
 
 <!--pg-->
-### AN 5.97 Pháp Đàm *Kathāsutta*{#97}
-
+### AN 5.97 Pháp Đàm *Kathāsutta* {#97}
 "Này các Tỳ kheo, vị Tỳ kheo phát triển niệm hơi thở mà có năm pháp này sẽ sớm chứng đạt được trạng thái bất động. Thế nào là năm?
 
 Đó là khi vị Tỳ kheo ít có yêu cầu và phận sự, sống nhẹ nhàng và biết đủ với các vật dụng cần thiết.
@@ -59,20 +52,17 @@ Vị ấy quán xét mức độ tâm giải thoát của mình.
 Vị Tỳ kheo phát triển niệm hơi thở mà có năm pháp này sẽ sớm chứng đạt được trạng thái bất động."
 
 <!--pg-->
-### AN 5.98 Ở Nơi Rừng Sâu *Āraññakasutta*{#98}
-
+### AN 5.98 Ở Nơi Rừng Sâu *Āraññakasutta* {#98}
 "Này các Tỳ kheo, vị Tỳ kheo thực hành niệm hơi thở mà có năm pháp này sẽ sớm chứng đạt được trạng thái bất động. Thế nào là năm? Đó là khi vị Tỳ kheo ít có yêu cầu và phận sự, sống nhẹ nhàng và biết đủ với các vật dụng cần thiết. Vị ấy ăn ít, không chú trọng việc làm đầy bụng. Vị ấy ít buồn ngủ, chuyên tâm vào sự tỉnh giác. Vị ấy sống ở *rừng sâu* (wilderness / nơi hoang vắng, thích hợp cho tu tập ẩn dật), tại những *chỗ ở xa vắng* (remote lodgings / nơi ở yên tĩnh, cách xa khu dân cư). Vị ấy quán xét mức độ tâm giải thoát của mình. Vị Tỳ kheo thực hành niệm hơi thở mà có năm pháp này sẽ sớm chứng đạt được trạng thái bất động."
 
 <!--pg-->
-### AN 5.99 Sư Tử *Sīhasutta*{#99}
-
+### AN 5.99 Sư Tử *Sīhasutta* {#99}
 "Này các Tỳ kheo, vào buổi chiều, sư tử, vua của các loài thú, ra khỏi hang, ngáp, nhìn khắp bốn phương, và rống lên tiếng rống sư tử ba lần. Rồi nó lên đường đi săn. Nếu nó tấn công một con voi, nó làm điều đó cẩn thận, không bất cẩn. Nếu nó tấn công một con trâu... một con bò... một con báo... hay bất kỳ sinh vật nhỏ hơn nào—ngay cả một con thỏ hay một con mèo—nó cũng làm điều đó cẩn thận, không bất cẩn. Tại sao vậy? Vì nghĩ rằng: 'Mong rằng ta không mất phương hướng.'
 
 'Sư tử' là một thuật ngữ chỉ *Như Lai* (Realized One / bậc đã đạt đến chân lý như thật, một danh hiệu của Phật), bậc *A-la-hán* (perfected one / bậc thánh đã diệt tận phiền não, xứng đáng được cúng dường), bậc *Chánh Đẳng Giác* (fully awakened Buddha / bậc tự mình giác ngộ chân lý một cách hoàn toàn và đúng đắn). Khi Như Lai thuyết *Pháp* (Dhamma / giáo pháp, lời dạy của Phật) cho một *hội chúng* (assembly / đoàn thể, tăng đoàn), đó là *tiếng rống sư tử* (lion's roar / ẩn dụ cho lời tuyên bố chân lý mạnh mẽ) của Ngài. Khi Như Lai thuyết pháp cho các *Tỳ kheo* (monks / nam tu sĩ Phật giáo đã thọ giới cụ túc)... các *Tỳ kheo ni* (nuns / nữ tu sĩ Phật giáo đã thọ giới cụ túc)... các *cư sĩ nam* (laymen / nam Phật tử tại gia)... các *cư sĩ nữ* (laywomen / nữ Phật tử tại gia)... hay những *người thường* (ordinary people / dân thường)—ngay cả những *người gánh đồ ăn* (food-carriers / người phục vụ) và *thợ săn* (hunters / người săn bắn)—Ngài cũng thuyết giảng cho họ một cách cẩn thận, không bất cẩn. Tại sao vậy? Bởi vì Như Lai có lòng *tôn trọng* (respect / sự kính trọng) và *kính ngưỡng* (reverence / sự tôn kính sâu sắc) đối với giáo pháp."
 
 <!--pg-->
-### AN 5.100 Với Kakudha *Kakudhatherasutta*{#100}
-
+### AN 5.100 Với Kakudha *Kakudhatherasutta* {#100}
 TÔI NGHE NHƯ VẦY. Một thời Thế Tôn trú gần Kosambī, tại tu viện Ghosita.
 
 Lúc bấy giờ, người thuộc dòng Koliyan tên là Kakudha—vị *thí chủ* (supporter / người cúng dường, hỗ trợ vật chất cho Tăng đoàn) của Tôn giả Mahāmoggallāna—vừa mới qua đời và được tái sanh vào một *ý sanh thân thiên chúng* (host of mind-made gods / một cõi trời nơi chúng sinh được hóa sinh bằng ý nghĩ) nào đó. Vị ấy tái sanh với một *tự thể* (life-form / hình dạng thân thể) lớn gấp hai hoặc ba lần một ngôi làng ở Magadha cùng với ruộng đất của nó. Nhưng với tự thể đó, vị ấy không gây trở ngại cho mình hay cho người khác.

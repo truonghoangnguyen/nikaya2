@@ -1,7 +1,6 @@
 # Phẩm về Động Đất
 
-### AN 8.61 Kinh Ước Muốn (*Icchāsutta*){#61}
-
+### AN 8.61 Kinh Ước Muốn (*Icchāsutta*) {#61}
 "Này các Tỷ kheo, có tám hạng người này được tìm thấy ở đời. Tám hạng người nào?
 
 Thứ nhất, khi một vị Tỷ kheo sống độc cư, biệt lập, một ước muốn khởi lên đối với *lợi dưỡng* (material things / của cải vật chất, sự cúng dường). Vị ấy cố gắng, nỗ lực, và gắng sức để có được chúng. Nhưng lợi dưỡng không đến với vị ấy. Và do đó vị ấy sầu muộn, than khóc, đấm ngực và rơi vào hoang mang vì không có được những lợi dưỡng ấy. Đây gọi là một vị Tỷ kheo sống ước muốn lợi dưỡng. Vị ấy cố gắng, nỗ lực, và gắng sức để có được chúng. Nhưng khi không đạt được lợi dưỡng, vị ấy sầu muộn và than khóc. Vị ấy đã rời xa *Chánh pháp* (true teaching / giáo pháp chân chính).
@@ -23,8 +22,7 @@ Tiếp theo, khi một vị Tỷ kheo sống độc cư, biệt lập, một ư�
 Đó là tám hạng người được tìm thấy ở đời."
 
 <!--pg-->
-### AN 8.62 Kinh Vừa Đủ (*Alaṁsutta*){#62}
-
+### AN 8.62 Kinh Vừa Đủ (*Alaṁsutta*) {#62}
 "Này các Tỷ kheo, một vị Tỷ kheo với sáu phẩm chất là đủ cho chính mình và cho người khác. Sáu phẩm chất nào? Một vị Tỷ kheo nhanh trí đối với các *thiện pháp* (skillful teachings / các pháp lành, các lời dạy thiện xảo). Vị ấy dễ dàng ghi nhớ những lời dạy đã nghe. Vị ấy quán xét ý nghĩa của những lời dạy đã ghi nhớ. Hiểu rõ ý nghĩa và giáo pháp, vị ấy thực hành theo đúng như vậy. Vị ấy là người nói giỏi, phát âm rõ ràng. Giọng nói của vị ấy trau chuốt, trong sáng, mạch lạc và diễn đạt được ý nghĩa. Vị ấy giáo huấn, khích lệ, làm phấn chấn và truyền cảm hứng cho các *bạn đồng tu* (spiritual companions / những người bạn cùng thực hành tâm linh). Một vị Tỷ kheo với sáu phẩm chất này là đủ cho chính mình và cho người khác.
 
 Một vị Tỷ kheo với năm phẩm chất là đủ cho chính mình và cho người khác. Năm phẩm chất nào? Một vị Tỷ kheo không nhanh trí đối với các thiện pháp. Vị ấy dễ dàng ghi nhớ những lời dạy đã nghe. Vị ấy quán xét ý nghĩa của những lời dạy đã ghi nhớ. Hiểu rõ ý nghĩa và giáo pháp, vị ấy thực hành theo đúng như vậy. Vị ấy là người nói giỏi. Giọng nói của vị ấy trau chuốt, trong sáng, mạch lạc và diễn đạt được ý nghĩa. Vị ấy giáo huấn, khích lệ, làm phấn chấn và truyền cảm hứng cho các bạn đồng tu. Một vị Tỷ kheo với năm phẩm chất này là đủ cho chính mình và cho người khác.
@@ -42,8 +40,7 @@ Một vị Tỷ kheo với hai phẩm chất là đủ cho chính mình nhưng k
 Một vị Tỷ kheo với hai phẩm chất là đủ cho người khác nhưng không đủ cho chính mình. Hai phẩm chất nào? Một vị Tỷ kheo không nhanh trí đối với các thiện pháp. Và vị ấy không dễ dàng ghi nhớ những lời dạy đã nghe. Vị ấy cũng không quán xét ý nghĩa của những lời dạy đã ghi nhớ. Không hiểu rõ ý nghĩa và giáo pháp, vị ấy không thực hành theo đúng như vậy. Nhưng vị ấy là người nói giỏi, phát âm rõ ràng. Giọng nói của vị ấy trau chuốt, trong sáng, mạch lạc và diễn đạt được ý nghĩa. Vị ấy giáo huấn, khích lệ, làm phấn chấn và truyền cảm hứng cho các bạn đồng tu. Một vị Tỷ kheo với hai phẩm chất này là đủ cho người khác nhưng không đủ cho chính mình."
 
 <!--pg-->
-### AN 8.63 Kinh Giảng Vắn Tắt (*Saṁkhittasutta*){#63}
-
+### AN 8.63 Kinh Giảng Vắn Tắt (*Saṁkhittasutta*) {#63}
 Khi ấy, một vị Tỷ kheo đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa rằng: "Bạch Thế Tôn, mong Thế Tôn giảng *Pháp* (Dhamma / Giáo pháp, sự thật) cho con một cách vắn tắt. Sau khi nghe xong, con sẽ sống một mình, ẩn dật, *siêng năng* (diligent / cần mẫn, chuyên cần), nhiệt tâm và quyết chí."
 
 "Này Tỷ kheo, đây chính là cách một số kẻ ngốc yêu cầu Ta điều gì đó. Nhưng khi giáo pháp đã được giải thích, họ chỉ nghĩ đến việc đi theo Ta mà thôi."
@@ -77,8 +74,7 @@ Rồi vị Tỷ kheo ấy, sống một mình, ẩn dật, siêng năng, nhiệt
 Vị ấy hiểu rõ: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa." Và vị Tỷ kheo ấy trở thành một trong những bậc *A-la-hán* (perfected / người đã đạt được giải thoát hoàn toàn, bậc xứng đáng).
 
 <!--pg-->
-### AN 8.64 Tại Đỉnh Gayā (*Gayāsīsasutta*){#64}
-
+### AN 8.64 Tại Đỉnh Gayā (*Gayāsīsasutta*) {#64}
 Một thời Đức Phật trú gần Gayā, trên đỉnh Gayā. Tại đó, Đức Phật nói với các Tỷ kheo:
 
 "Này các Tỷ kheo, trước khi Ta *giác ngộ* (awakening / sự tỉnh thức hoàn toàn) —khi Ta vẫn chưa giác ngộ nhưng đang là *Bồ-tát* (intent on awakening / người đang trên con đường giác ngộ, vị Phật tương lai)—Ta cảm nhận các ánh sáng nhưng không thấy các hình dạng.
@@ -110,8 +106,7 @@ Chừng nào tri kiến của Ta về chư thiên chưa hoàn toàn thanh tịnh
 Nhưng khi tri kiến của Ta về chư thiên đã hoàn toàn thanh tịnh trong tám phương diện này, Ta đã tuyên bố sự vô thượng chánh đẳng chánh giác của mình trong thế giới này cùng với chư thiên, Ma vương và Phạm thiên, với chúng Sa-môn và Bà-la-môn, với chư thiên và loài người. Tri kiến khởi lên trong Ta: 'Sự giải thoát của Ta là bất động; đây là lần tái sanh cuối cùng của Ta; bây giờ sẽ không còn đời sống nào trong tương lai nữa.'"
 
 <!--pg-->
-### AN 8.65 Kinh Thắng Xứ (*Abhibhāyatanasutta*){#65}
-
+### AN 8.65 Kinh Thắng Xứ (*Abhibhāyatanasutta*) {#65}
 "Này các Tỷ kheo, có tám *thắng xứ* (dimensions of mastery / các cảnh giới làm chủ, các trạng thái vượt trội) này. Tám thắng xứ nào?
 
 Người có tưởng về sắc bên trong, thấy các sắc bên ngoài, có giới hạn, cả đẹp lẫn xấu. Chế ngự chúng, vị ấy nhận thức: 'Tôi biết và tôi thấy.' Đây là thắng xứ thứ nhất.
@@ -133,8 +128,7 @@ Người không có tưởng về sắc bên trong, thấy các sắc bên ngoà
 Đó là tám thắng xứ."
 
 <!--pg-->
-### AN 8.66 Kinh Giải Thoát (*Vimokkhasutta*){#66}
-
+### AN 8.66 Kinh Giải Thoát (*Vimokkhasutta*) {#66}
 "Này các Tỷ kheo, có tám sự *giải thoát* (liberations / các trạng thái giải thoát tâm) này. Tám sự giải thoát nào? Có sắc thân, thấy các sắc. Đây là sự giải thoát thứ nhất.
 
 Không có tưởng về sắc bên trong, thấy các sắc bên ngoài. Đây là sự giải thoát thứ hai.
@@ -154,18 +148,15 @@ Vượt hoàn toàn phi tưởng phi phi tưởng xứ, họ nhập và an trú 
 Đó là tám sự giải thoát."
 
 <!--pg-->
-### AN 8.67 Kinh Lời Nói Không Cao Thượng (*Anariyavohārasutta*){#67}
-
+### AN 8.67 Kinh Lời Nói Không Cao Thượng (*Anariyavohārasutta*) {#67}
 "Này các Tỷ kheo, có tám *lời nói không cao thượng* (ignoble expressions / những cách nói không xứng đáng với bậc thánh) này. Tám lời nào? Nói rằng mình đã thấy, nghe, suy nghĩ, hay biết điều gì đó, nhưng thực ra không phải vậy. Và nói rằng mình không thấy, nghe, suy nghĩ, hay biết điều gì đó, nhưng thực ra lại có. Đó là tám lời nói không cao thượng."
 
 <!--pg-->
-### AN 8.68 Kinh Lời Nói Cao Thượng (*Ariyavohārasutta*){#68}
-
+### AN 8.68 Kinh Lời Nói Cao Thượng (*Ariyavohārasutta*) {#68}
 "Này các Tỷ kheo, có tám *lời nói cao thượng* (noble expressions / những cách nói xứng đáng với bậc thánh) này. Tám lời nào? Nói rằng mình không thấy, nghe, suy nghĩ, hay biết điều gì đó, và thực sự là không phải vậy. Và nói rằng mình đã thấy, nghe, suy nghĩ, hay biết điều gì đó, và thực sự là như vậy. Đó là tám lời nói cao thượng."
 
 <!--pg-->
-### AN 8.69 Kinh Hội Chúng (*Parisāsutta*){#69}
-
+### AN 8.69 Kinh Hội Chúng (*Parisāsutta*) {#69}
 "Này các Tỷ kheo, có tám *hội chúng* (assemblies / các nhóm, các cuộc tụ họp) này. Tám hội chúng nào? Hội chúng Sát-đế-lỵ, Bà-la-môn, gia chủ và Sa-môn. Hội chúng chư thiên Tứ Đại Thiên Vương. Hội chúng chư thiên Ba Mươi Ba (Đao Lợi). Hội chúng Ma vương. Hội chúng Phạm thiên.
 
 Ta nhớ đã từng đến một hội chúng gồm hàng trăm vị Sát-đế-lỵ. Ở đó Ta thường ngồi với họ, trò chuyện và tham gia thảo luận. Và dung sắc cùng giọng nói của Ta trở nên giống hệt họ. Ta giáo huấn, khích lệ, làm phấn chấn và truyền cảm hứng cho họ bằng một bài Pháp thoại. Nhưng khi Ta nói, họ không biết: 'Ai đang nói đây? Là trời hay người?' Và khi bài Pháp thoại của Ta kết thúc, Ta biến mất. Nhưng khi Ta biến mất, họ không biết: 'Ai đã biến mất vậy? Là trời hay người?'
@@ -173,8 +164,7 @@ Ta nhớ đã từng đến một hội chúng gồm hàng trăm vị Sát-đế
 Ta nhớ đã từng đến một hội chúng gồm hàng trăm vị Bà-la-môn... gia chủ... Sa-môn... chư thiên Tứ Đại Thiên Vương... chư thiên Ba Mươi Ba... Ma vương... Phạm thiên. Ở đó Ta cũng thường ngồi với họ, trò chuyện và tham gia thảo luận. Và dung sắc cùng giọng nói của Ta trở nên giống hệt họ. Ta giáo huấn, khích lệ, làm phấn chấn và truyền cảm hứng cho họ bằng một bài Pháp thoại. Nhưng khi Ta nói, họ không biết: 'Ai đang nói đây? Là trời hay người?' Và khi bài Pháp thoại của Ta kết thúc, Ta biến mất. Nhưng khi Ta biến mất, họ không biết: 'Ai đã biến mất vậy? Là trời hay người?' Đó là tám hội chúng."
 
 <!--pg-->
-### AN 8.70 Kinh Động Đất (*Bhūmicālasutta*){#70}
-
+### AN 8.70 Kinh Động Đất (*Bhūmicālasutta*) {#70}
 Một thời Đức Phật trú gần Vesālī, tại Đại Lâm, trong *Trùng Các Giảng Đường* (hall with the peaked roof / giảng đường có mái nhọn hoặc nhiều tầng).
 
 Khi ấy, Đức Phật đắp y vào buổi sáng, mang theo bát và y, vào thành Vesālī để khất thực. Rồi, sau bữa ăn, trên đường từ nơi khất thực trở về, Ngài nói với Tôn giả A Nan: "A Nan, hãy lấy *tọa cụ* (sitting cloth / tấm vải để ngồi) của con. Chúng ta hãy đến *miếu thờ* (shrine / nơi thờ cúng, thường là một cây hoặc một cấu trúc nhỏ) Cāpāla để thiền định ban ngày."

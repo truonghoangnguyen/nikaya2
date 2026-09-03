@@ -1,7 +1,6 @@
 # Phẩm Bảy Pháp Vajjī
 
-### AN 7.21 Tại Sārandada *Sārandadasutta*{#21}
-
+### AN 7.21 Tại Sārandada *Sārandadasutta* {#21}
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Vesālī, tại đền cây Sārandada. Khi ấy,
 một số người Licchavi đến đảnh lễ Thế Tôn, rồi ngồi xuống một bên,
 và Thế Tôn nói với những người Licchavi ấy:
@@ -27,8 +26,7 @@ Cho đến khi nào dân Vajjī sắp đặt sự bảo vệ, che chở và an n
 Cho đến khi nào bảy pháp không suy thoái này còn tồn tại giữa dân Vajjī, và cho đến khi nào dân Vajjī còn được thấy thực hành theo chúng, họ có thể mong đợi sự thịnh vượng, không suy thoái."
 
 <!--pg-->
-### AN 7.22 Với Vassakāra *Vassakārasutta*{#22}
-
+### AN 7.22 Với Vassakāra *Vassakārasutta* {#22}
 Như vầy tôi nghe. Một thời Thế Tôn trú gần
 Rājagaha (Vương Xá), trên núi Linh Thứu.
 
@@ -134,8 +132,7 @@ vị Bà-la-môn, sau khi tán thành và đồng ý với những gì Thế Tô
 chỗ ngồi đứng dậy và ra về.
 
 <!--pg-->
-### AN 7.23 Bảy Pháp Không Suy Thoái Cho Tỷ-kheo (Thứ Nhất) *Paṭhamasattakasutta*{#23}
-
+### AN 7.23 Bảy Pháp Không Suy Thoái Cho Tỷ-kheo (Thứ Nhất) *Paṭhamasattakasutta* {#23}
 Như vầy tôi nghe. Một thời Thế Tôn trú gần
 Rājagaha, trên núi Linh Thứu. Tại đây, Thế Tôn
 gọi các *Tỷ-kheo* (mendicants / vị khất sĩ, người tu hành):
@@ -176,8 +173,7 @@ Tỷ-kheo, và cho đến khi nào các Tỷ-kheo còn được thấy thực h�
 mong đợi sự tăng trưởng, không suy thoái."
 
 <!--pg-->
-### AN 7.24 Bảy Pháp Không Suy Thoái Cho Tỷ-kheo (Thứ Hai) *Dutiyasattakasutta*{#24}
-
+### AN 7.24 Bảy Pháp Không Suy Thoái Cho Tỷ-kheo (Thứ Hai) *Dutiyasattakasutta* {#24}
 "Này các Tỷ-kheo, Ta sẽ giảng cho các ông bảy pháp không suy thoái.
 Hãy lắng nghe và khéo tác ý... Và thế nào là bảy pháp
 không suy thoái?
@@ -191,8 +187,7 @@ Tỷ-kheo, và cho đến khi nào các Tỷ-kheo còn được thấy thực h�
 mong đợi sự tăng trưởng, không suy thoái."
 
 <!--pg-->
-### AN 7.25 Bảy Pháp Không Suy Thoái Cho Tỷ-kheo (Thứ Ba) *Tatiyasattakasutta*{#25}
-
+### AN 7.25 Bảy Pháp Không Suy Thoái Cho Tỷ-kheo (Thứ Ba) *Tatiyasattakasutta* {#25}
 "Này các Tỷ-kheo, Ta sẽ giảng cho các ông bảy pháp không suy thoái.
 Hãy lắng nghe và khéo tác ý... Và thế nào là bảy pháp
 không suy thoái? Cho đến khi nào các Tỷ-kheo có *niềm tin* (faithful / lòng tin)... *xấu hổ* (conscientious / hổ thẹn tội lỗi)... *sợ điều ác* (prudent / ghê sợ tội lỗi)... đa văn... *siêng năng* (energetic / tinh tấn)... tỉnh thức... có *trí tuệ* (wise / sáng suốt), họ có thể mong đợi sự tăng trưởng, không suy thoái.
@@ -202,8 +197,7 @@ Tỷ-kheo, và cho đến khi nào các Tỷ-kheo còn được thấy thực h�
 mong đợi sự tăng trưởng, không suy thoái."
 
 <!--pg-->
-### AN 7.26 Các Yếu Tố Giác Ngộ *Bojjhaṅgasutta*{#26}
-
+### AN 7.26 Các Yếu Tố Giác Ngộ *Bojjhaṅgasutta* {#26}
 "Này các Tỷ-kheo, Ta sẽ giảng cho các ông bảy pháp không suy thoái.
 Hãy lắng nghe và khéo tác ý... Và thế nào là bảy pháp
 không suy thoái? Cho đến khi nào các Tỷ-kheo tu tập *niệm giác chi* (awakening factor of mindfulness / yếu tố giác ngộ là tỉnh thức)... *trạch pháp giác chi* (awakening factor of investigation of principles / yếu tố giác ngộ là phân tích các pháp)... *tinh tấn giác chi* (awakening factor of energy / yếu tố giác ngộ là siêng năng)... *hỷ giác chi* (awakening factor of rapture / yếu tố giác ngộ là vui vẻ)... *khinh an giác chi* (awakening factor of tranquility / yếu tố giác ngộ là sự nhẹ nhàng, an tịnh)... *định giác chi* (awakening factor of immersion / yếu tố giác ngộ là sự tập trung tâm)... *xả giác chi* (awakening factor of equanimity / yếu tố giác ngộ là sự bình thản), họ có thể mong đợi sự tăng trưởng, không suy thoái.
@@ -213,8 +207,7 @@ Tỷ-kheo, và cho đến khi nào các Tỷ-kheo còn được thấy thực h�
 mong đợi sự tăng trưởng, không suy thoái."
 
 <!--pg-->
-### AN 7.27 Nhận Thức *Saññāsutta*{#27}
-
+### AN 7.27 Nhận Thức *Saññāsutta* {#27}
 "Này các Tỷ-kheo, Ta sẽ giảng cho các ông bảy pháp không suy thoái.
 Hãy lắng nghe và khéo tác ý... Và thế nào là bảy pháp
 không suy thoái? Cho đến khi nào các Tỷ-kheo tu tập *nhận thức* (perceptions / tưởng, nhận ra) về vô thường...
@@ -226,8 +219,7 @@ các Tỷ-kheo còn được thấy thực hành theo chúng, họ có thể mon
 suy thoái."
 
 <!--pg-->
-### AN 7.28 Không Suy Thoái Cho Tỷ-kheo Đang Tu Học (Thứ Nhất) *Paṭhamaparihānisutta*{#28}
-
+### AN 7.28 Không Suy Thoái Cho Tỷ-kheo Đang Tu Học (Thứ Nhất) *Paṭhamaparihānisutta* {#28}
 Như vầy tôi nghe. Một thời Thế Tôn trú gần
 Sāvatthī (Xá-vệ), tại Kỳ-đà Lâm, tịnh xá của ông Anāthapiṇḍika
 (Cấp Cô Độc). Tại đây, Thế Tôn gọi các Tỷ-kheo:
@@ -249,8 +241,7 @@ không cố gắng tự mình làm. Bảy điều này không dẫn đến sự
 suy thoái của một Tỷ-kheo đang tu học."
 
 <!--pg-->
-### AN 7.29 Không Suy Thoái Cho Cư Sĩ Tại Gia *Dutiyaparihānisutta*{#29}
-
+### AN 7.29 Không Suy Thoái Cho Cư Sĩ Tại Gia *Dutiyaparihānisutta* {#29}
 "Bảy điều này dẫn đến sự suy thoái của một *cư sĩ tại gia* (lay follower / người Phật tử tại gia). Bảy điều gì?
 Họ bỏ lỡ việc gặp gỡ các Tỷ-kheo. Họ lơ là việc lắng nghe *Chánh pháp* (true teaching / lời dạy chân chính của Đức Phật).
 Họ không rèn luyện *đạo đức cao hơn* (higher ethical conduct / giới hạnh cao thượng). Họ rất
@@ -312,15 +303,13 @@ Bảy điều này không dẫn đến sự suy thoái của một cư sĩ tại
 > không xa rời Chánh pháp."
 
 <!--pg-->
-### AN 7.30 Thất Bại Của Cư Sĩ Tại Gia *Vipattisutta*{#30}
-
+### AN 7.30 Thất Bại Của Cư Sĩ Tại Gia *Vipattisutta* {#30}
 "Này các Tỷ-kheo, có bảy sự thất bại này đối với một cư sĩ tại gia...
 
 Có bảy sự thành tựu này đối với một cư sĩ tại gia..."
 
 <!--pg-->
-### AN 7.31 Suy Sụp Của Cư Sĩ Tại Gia *Parābhavasutta*{#31}
-
+### AN 7.31 Suy Sụp Của Cư Sĩ Tại Gia *Parābhavasutta* {#31}
 "Này các Tỷ-kheo, có bảy sự suy sụp này đối với một cư sĩ tại gia...
 Có bảy sự thành công này đối với một cư sĩ tại gia. Bảy điều gì?
 

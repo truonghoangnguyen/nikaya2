@@ -1,7 +1,6 @@
 # Phẩm Về Ngày Trai Giới
 
-### AN 8.41 Ngày Trai Giới Tám Yếu Tố, Tóm Tắt *Saṁkhittūposathasutta*{#41}
-
+### AN 8.41 Ngày Trai Giới Tám Yếu Tố, Tóm Tắt *Saṁkhittūposathasutta* {#41}
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), tu viện của Anāthapiṇḍika (Cấp Cô Độc). Tại đây, Thế Tôn gọi các *Tỳ kheo*: "Này các Tỳ kheo!"
 
 "Bạch Thế Tôn," các Tỳ kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
@@ -25,8 +24,7 @@ Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī (Xá-vệ), 
 Việc thực hành ngày trai giới với tám yếu tố theo cách này mang lại quả lớn, lợi ích lớn, huy hoàng lớn, và phước báu lớn."
 
 <!--pg-->
-### AN 8.42 Ngày Trai Giới Tám Yếu Tố, Chi Tiết *Vitthatūposathasutta*{#42}
-
+### AN 8.42 Ngày Trai Giới Tám Yếu Tố, Chi Tiết *Vitthatūposathasutta* {#42}
 "Này các Tỳ kheo, việc thực hành ngày trai giới với tám yếu tố mang lại quả lớn, lợi ích lớn, huy hoàng lớn, và phước báu lớn. Và thực hành như thế nào?
 
 Đó là khi một vị Thánh đệ tử suy ngẫm như sau: 'Trọn đời, các bậc A-la-hán từ bỏ sát sinh, từ bỏ gậy gộc và đao kiếm. Các ngài có lòng sợ điều ác và từ ái, sống với lòng thương xót tất cả chúng sinh. Tôi cũng vậy, trong ngày và đêm này, sẽ từ bỏ sát sinh, từ bỏ gậy gộc và đao kiếm. Tôi sẽ có lòng sợ điều ác và từ ái, sống với lòng thương xót tất cả chúng sinh. Tôi sẽ thực hành ngày trai giới bằng cách làm theo các bậc A-la-hán về phương diện này.' Đây là yếu tố thứ nhất. ...
@@ -79,8 +77,7 @@ Một ngàn sáu trăm năm ở cõi người là một ngày một đêm đối
 > Không bị chê trách, họ đến cõi trời."
 
 <!--pg-->
-### AN 8.43 Với Visākhā Về Ngày Trai Giới *Visākhāsutta*{#43}
-
+### AN 8.43 Với Visākhā Về Ngày Trai Giới *Visākhāsutta* {#43}
 Một thời Thế Tôn trú gần Sāvatthī, tại giảng đường trên nhà sàn của mẹ Migāra ở Tu viện phía Đông. Khi ấy, Visākhā, mẹ của Migāra, đến đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế Tôn nói với bà:
 
 "Này Visākhā, việc thực hành ngày trai giới với tám yếu tố mang lại quả lớn, lợi ích lớn, huy hoàng lớn, và phước báu lớn. Và thực hành như thế nào? Đó là khi một vị Thánh đệ tử suy ngẫm như sau: 'Trọn đời, các bậc A-la-hán từ bỏ sát sinh, từ bỏ gậy gộc và đao kiếm. Các ngài có lòng sợ điều ác và từ ái, sống với lòng thương xót tất cả chúng sinh. Tôi cũng vậy, trong ngày và đêm này, sẽ từ bỏ sát sinh, từ bỏ gậy gộc và đao kiếm. Tôi sẽ có lòng sợ điều ác và từ ái, sống với lòng thương xót tất cả chúng sinh. Tôi sẽ thực hành ngày trai giới bằng cách làm theo các bậc A-la-hán về phương diện này.' Đây là yếu tố thứ nhất. ...
@@ -133,8 +130,7 @@ Một ngàn sáu trăm năm ở cõi người là một ngày một đêm đối
 > Không bị chê trách, họ đến cõi trời."
 
 <!--pg-->
-### AN 8.44 Với Vāseṭṭha Về Ngày Trai Giới *Vāseṭṭhasutta*{#44}
-
+### AN 8.44 Với Vāseṭṭha Về Ngày Trai Giới *Vāseṭṭhasutta* {#44}
 Một thời Thế Tôn trú gần Vesālī (Vệ-xá-ly), tại Đại Lâm, trong giảng đường có mái nhọn. Khi ấy, *cư sĩ* (layman / người tại gia theo Phật) Vāseṭṭha đến đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế Tôn nói với ông:
 
 "Này Vāseṭṭha, việc thực hành ngày trai giới với tám yếu tố mang lại quả lớn, lợi ích lớn, huy hoàng lớn, và phước báu lớn ... không bị chê trách, họ đến cõi trời."
@@ -146,8 +142,7 @@ Khi Thế Tôn nói vậy, Vāseṭṭha bạch Thế Tôn:
 "Đúng vậy, Vāseṭṭha! Đúng vậy, Vāseṭṭha! Nếu tất cả giới quý tộc Sát-đế-lợi, giới Bà-la-môn, giới thường dân Vệ-xá, và giới lao động Thủ-đà-la thực hành ngày trai giới tám yếu tố này, điều đó sẽ mang lại lợi ích và hạnh phúc lâu dài cho họ. Nếu toàn thể thế giới—với chư thiên, *Ma vương* (Māras / các vị vua của cõi ma, tượng trưng cho cám dỗ và trở ngại), và các vị trời, dân chúng này với các *ẩn sĩ* (ascetics / người tu khổ hạnh) và Bà-la-môn, chư thiên và loài người—thực hành ngày trai giới tám yếu tố này, điều đó sẽ mang lại lợi ích và hạnh phúc lâu dài cho họ. Nếu những cây Sa-la lớn này thực hành ngày trai giới tám yếu tố này, điều đó sẽ mang lại lợi ích và hạnh phúc lâu dài cho chúng—nếu chúng có *tình thức* (sentient / có khả năng cảm nhận, có ý thức). Huống nữa là con người!"
 
 <!--pg-->
-### AN 8.45 Với Bojjhā Về Ngày Trai Giới *Bojjhasutta*{#45}
-
+### AN 8.45 Với Bojjhā Về Ngày Trai Giới *Bojjhasutta* {#45}
 Một thời Thế Tôn trú gần Sāvatthī, tại Jetavana, tu viện của Anāthapiṇḍika. Khi ấy, *nữ cư sĩ* (laywoman / người phụ nữ tại gia theo Phật) Bojjhā đến đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế Tôn nói với bà:
 
 "Này Bojjhā, việc thực hành ngày trai giới với tám yếu tố mang lại quả lớn, lợi ích lớn, huy hoàng lớn, và phước báu lớn. Và thực hành như thế nào?
@@ -202,8 +197,7 @@ Một ngàn sáu trăm năm ở cõi người là một ngày một đêm đối
 > Không bị chê trách, họ đến cõi trời."
 
 <!--pg-->
-### AN 8.46 Anuruddha và Chư Thiên Khả Ái *Anuruddhasutta*{#46}
-
+### AN 8.46 Anuruddha và Chư Thiên Khả Ái *Anuruddhasutta* {#46}
 Một thời Thế Tôn trú gần Kosambī (Câu-diệm-di), tại tu viện Ghosita.
 
 Khi ấy, Tôn giả Anuruddha (A-nậu-lâu-đà) đã nhập thất để thiền định ban ngày. Bấy giờ, một số vị trời thuộc *Chúng Thiên Khả Ái* (Agreeable Host / nhóm chư thiên có ngoại hình và âm thanh dễ chịu, đáng ưa thích) đến gặp Tôn giả Anuruddha, đảnh lễ, đứng sang một bên và nói với ngài:
@@ -265,8 +259,7 @@ Khi có tám phẩm chất này, người nữ—khi thân hoại mạng chung�
 > Được gọi là 'Khả Ái'."
 
 <!--pg-->
-### AN 8.47 Với Visākhā Về Chư Thiên Khả Ái *Dutiyavisākhāsutta*{#47}
-
+### AN 8.47 Với Visākhā Về Chư Thiên Khả Ái *Dutiyavisākhāsutta* {#47}
 Một thời Thế Tôn trú gần Sāvatthī, tại giảng đường trên nhà sàn của mẹ Migāra ở Tu viện phía Đông. Khi ấy, Visākhā, mẹ của Migāra, đến đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế Tôn nói với bà:
 
 "Này Visākhā, khi có tám phẩm chất, người nữ—khi thân hoại mạng chung—sẽ được tái sinh cùng với Chúng Thiên Khả Ái. Tám phẩm chất đó là gì? Trường hợp một người nữ được cha mẹ gả cho một người chồng, vì muốn điều tốt nhất cho cô, xuất phát từ lòng tốt và sự cảm thông. Cô ấy sẽ dậy trước chồng và đi ngủ sau chồng, biết chiều ý, cư xử tốt đẹp và nói năng lịch sự. ...
@@ -294,8 +287,7 @@ Cô ấy rộng lượng. Cô ấy sống ở nhà không còn vết nhơ của 
 > Được gọi là 'Khả Ái'."
 
 <!--pg-->
-### AN 8.48 Với Mẹ Của Nakula Về Chư Thiên Khả Ái *Nakulamātāsutta*{#48}
-
+### AN 8.48 Với Mẹ Của Nakula Về Chư Thiên Khả Ái *Nakulamātāsutta* {#48}
 Một thời Thế Tôn trú tại xứ Bhagga, ở Đồi Cá Sấu, trong vườn nai tại rừng Bhesakaḷā. Khi ấy, bà nội trợ mẹ của Nakula đến đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế Tôn nói với bà:
 
 "Này mẹ của Nakula, khi có tám phẩm chất, người nữ—khi thân hoại mạng chung—sẽ được tái sinh cùng với Chúng Thiên Khả Ái. Tám phẩm chất đó là gì?
@@ -339,8 +331,7 @@ Khi có tám phẩm chất này, người nữ—khi thân hoại mạng chung�
 > Được gọi là 'Khả Ái'."
 
 <!--pg-->
-### AN 8.49 Thành Công Trong Đời Này (Thứ Nhất) *Paṭhamaidhalokikasutta*{#49}
-
+### AN 8.49 Thành Công Trong Đời Này (Thứ Nhất) *Paṭhamaidhalokikasutta* {#49}
 Một thời Thế Tôn trú gần Sāvatthī, tại giảng đường trên nhà sàn của mẹ Migāra ở Tu viện phía Đông. Khi ấy, Visākhā, mẹ của Migāra, đến đảnh lễ Thế Tôn, rồi ngồi xuống một bên. Thế Tôn nói với bà:
 
 "Này Visākhā, một người nữ có bốn phẩm chất là đang thực hành để thành công trong đời này, và cô ấy thành công. Bốn phẩm chất đó là gì? Đó là khi một người nữ giỏi tổ chức công việc, quản lý người giúp việc, cư xử yêu thương với chồng, và gìn giữ tài sản của chồng.
@@ -388,8 +379,7 @@ Một người nữ có bốn phẩm chất này là đang thực hành để th
 > Sẽ tái sinh trong cõi Chư Thiên Khả Ái."
 
 <!--pg-->
-### AN 8.50 Thành Công Trong Đời Này (Thứ Hai) *Dutiyaidhalokikasutta*{#50}
-
+### AN 8.50 Thành Công Trong Đời Này (Thứ Hai) *Dutiyaidhalokikasutta* {#50}
 "Này các Tỳ kheo, một người nữ có bốn phẩm chất là đang thực hành để thành công trong đời này, và cô ấy thành công. Bốn phẩm chất đó là gì?
 
 Đó là khi một người nữ giỏi tổ chức công việc, quản lý người giúp việc, cư xử yêu thương với chồng, và gìn giữ tài sản của chồng.

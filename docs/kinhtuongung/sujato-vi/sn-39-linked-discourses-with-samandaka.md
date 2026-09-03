@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương về Sāmaṇḍaka
 
-### SN 39.1--15 Kinh Sāmaṇḍaka về Sự Dập Tắt *Sāmaṇḍakasutta*{#1-15}
-
+### SN 39.1--15 Kinh Sāmaṇḍaka về Sự Dập Tắt *Sāmaṇḍakasutta* {#1-15}
 Một thời, Tôn giả Xá-lợi-phất đang ở tại xứ Vajji, gần Ukkacelā, bên bờ sông Hằng.
 Khi ấy, du sĩ Sāmaṇḍaka đến gặp Tôn giả
 Xá-lợi-phất và chào hỏi. Sau khi chào hỏi và trò chuyện thân mật, ông ngồi xuống một bên và
@@ -35,8 +34,7 @@ Jambukhādaka.)*
 :::
 
 <!--pg-->
-### SN 39.16 Kinh về Điều Khó Làm *Dukkarasutta*{#16}
-
+### SN 39.16 Kinh về Điều Khó Làm *Dukkarasutta* {#16}
 "Thưa Tôn giả Xá-lợi-phất, trong *giáo pháp và giới luật* (teaching and training / *pháp và luật*) này, điều gì
 là khó làm?"
 

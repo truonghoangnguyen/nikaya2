@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương về Phiên Bản Đơn Giản
 
-### SN 48.1 Phiên Bản Đơn Giản *Suddhikasutta*{#1}
-
+### SN 48.1 Phiên Bản Đơn Giản *Suddhikasutta* {#1}
 Tại Sāvatthī.
 
 Tại đó, Đức Phật dạy:
@@ -18,28 +17,23 @@ Tại đó, Đức Phật dạy:
 *   **trí tuệ** (wisdom / paññā / sự hiểu biết sâu sắc về bản chất của thực tại)
 
 <!--pg-->
-### SN 48.2 Người Nhập Dòng (thứ nhất) *Paṭhamasotāpannasutta*{#2}
-
+### SN 48.2 Người Nhập Dòng (thứ nhất) *Paṭhamasotāpannasutta* {#2}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Một vị thánh đệ tử *biết như thật* về *sự hài lòng* (gratification / assāda / vị ngọt, sự hấp dẫn tạm thời), *sự nguy hại* (drawback / ādīnava / mặt trái, sự bất lợi, sự khổ đau tiềm ẩn), và *lối thoát* (escape / nissaraṇa / sự giải thoát, con đường thoát ra khỏi sự ràng buộc) của năm *năng lực* này. Một vị thánh đệ tử như vậy được gọi là *người nhập dòng* (stream-enterer / sotāpanna / *Dự lưu* / người đã bước vào dòng thánh, không còn tái sinh vào các cõi khổ, chắc chắn sẽ giác ngộ), không còn bị tái sinh vào cảnh giới thấp, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
-### SN 48.3 Người Nhập Dòng (thứ hai) *Dutiyasotāpannasutta*{#3}
-
+### SN 48.3 Người Nhập Dòng (thứ hai) *Dutiyasotāpannasutta* {#3}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Một vị thánh đệ tử *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của năm *năng lực* này. Một vị thánh đệ tử như vậy được gọi là *người nhập dòng*, không còn bị tái sinh vào cảnh giới thấp, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
-### SN 48.4 Bậc Toàn Thiện (thứ nhất) *Paṭhamaarahantasutta*{#4}
-
+### SN 48.4 Bậc Toàn Thiện (thứ nhất) *Paṭhamaarahantasutta* {#4}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Một vị thánh đệ tử được giải thoát nhờ không *bám giữ* (grasping / upādāna / *chấp thủ* / dựa vào, khăng khăng vào) sau khi *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* của năm *năng lực* này. Một *Tỷ kheo* như vậy được gọi là một bậc *A-la-hán* (perfected one / arahant / người đã hoàn thiện, đã chấm dứt các ô nhiễm và hoàn thành con đường tu tập), với các *ô nhiễm* (defilements / āsava / *lậu hoặc* / những ô nhiễm tinh thần sâu kín làm tâm rò rỉ, chảy ra ngoài) đã được chấm dứt, người đã hoàn thành hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm) của *mong muốn tồn tại*, và được giải thoát một cách đúng đắn nhờ giác ngộ."
 
 <!--pg-->
-### SN 48.5 Bậc Toàn Thiện (thứ hai) *Dutiyaarahantasutta*{#5}
-
+### SN 48.5 Bậc Toàn Thiện (thứ hai) *Dutiyaarahantasutta* {#5}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Một *Tỷ kheo* được giải thoát nhờ không *bám giữ* sau khi *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của năm *năng lực* này. Một *Tỷ kheo* như vậy được gọi là một bậc *A-la-hán*, với các *ô nhiễm* đã được chấm dứt, người đã hoàn thành hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt *xiềng xích* của *mong muốn tồn tại*, và được giải thoát một cách đúng đắn nhờ giác ngộ."
 
 <!--pg-->
-### SN 48.6 Sa Môn và Bà La Môn (thứ nhất) *Paṭhamasamaṇabrāhmaṇasutta*{#6}
-
+### SN 48.6 Sa Môn và Bà La Môn (thứ nhất) *Paṭhamasamaṇabrāhmaṇasutta* {#6}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*.
 
 Có những vị sa môn và bà la môn không *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với năm *năng lực* này. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
@@ -47,15 +41,13 @@ Có những vị sa môn và bà la môn không *biết như thật* về *sự 
 Có những vị sa môn và bà la môn *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với năm *năng lực* này. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
 
 <!--pg-->
-### SN 48.7 Sa Môn và Bà La Môn (thứ hai) *Dutiyasamaṇabrāhmaṇasutta*{#7}
-
+### SN 48.7 Sa Môn và Bà La Môn (thứ hai) *Dutiyasamaṇabrāhmaṇasutta* {#7}
 "Này các *Tỷ kheo*, có những vị sa môn và bà la môn không hiểu *năng lực của* *đức tin*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Họ không hiểu *năng lực của* *nghị lực*... *niệm*... *Định*... *trí tuệ*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
 
 Có những vị sa môn và bà la môn hiểu *năng lực của* *đức tin*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Họ hiểu *năng lực của* *nghị lực*... *niệm*... *Định*... *trí tuệ*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
 
 <!--pg-->
-### SN 48.8 Cần Được Thấy *Daṭṭhabbasutta*{#8}
-
+### SN 48.8 Cần Được Thấy *Daṭṭhabbasutta* {#8}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*.
 
 Và *năng lực của* *đức tin* nên được thấy ở đâu? Trong *bốn yếu tố của việc nhập dòng* (four factors of stream-entry / sotāpattiyaṅga / bốn yếu tố dẫn đến quả vị Dự lưu, bao gồm niềm tin bất động vào Phật, Pháp, Tăng và giữ giới đức trong sạch).
@@ -71,8 +63,7 @@ Và *năng lực của* *trí tuệ* nên được thấy ở đâu? Trong *bố
 Đây là năm *năng lực*."
 
 <!--pg-->
-### SN 48.9 Phân Tích (thứ nhất) *Paṭhamavibhaṅgasutta*{#9}
-
+### SN 48.9 Phân Tích (thứ nhất) *Paṭhamavibhaṅgasutta* {#9}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*.
 
 Và *năng lực của* *đức tin* là gì? Đó là khi một vị thánh đệ tử có *đức tin* vào sự giác ngộ của *Như Lai* (Realized One / Tathāgata / một danh hiệu của Đức Phật, có nghĩa là "người đã đến như vậy" hoặc "người đã đi như vậy", chỉ người đã đạt đến chân lý tối hậu): 'Đức Thế Tôn đó là bậc toàn thiện, một vị Phật giác ngộ hoàn toàn, thành tựu về tri thức và hành vi, thánh thiện, người biết thế gian, bậc hướng dẫn tối cao cho những ai muốn tu tập, thầy của chư thiên và loài người, bậc giác ngộ, được tôn kính.' Đây được gọi là *năng lực của* *đức tin*.
@@ -88,8 +79,7 @@ Và *năng lực của* *trí tuệ* là gì? Đó là khi một vị thánh đ�
 Đây là năm *năng lực*."
 
 <!--pg-->
-### SN 48.10 Phân Tích (thứ hai) *Dutiyavibhaṅgasutta*{#10}
-
+### SN 48.10 Phân Tích (thứ hai) *Dutiyavibhaṅgasutta* {#10}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*.
 
 Và *năng lực của* *đức tin* là gì? Đó là khi một vị thánh đệ tử có *đức tin* vào sự giác ngộ của *Như Lai*: 'Đức Thế Tôn đó là bậc toàn thiện, một vị Phật giác ngộ hoàn toàn, thành tựu về tri thức và hành vi, thánh thiện, người biết thế gian, bậc hướng dẫn tối cao cho những ai muốn tu tập, thầy của chư thiên và loài người, bậc giác ngộ, được tôn kính.' Đây được gọi là *năng lực của* *đức tin*.
@@ -107,8 +97,7 @@ Và *năng lực của* *trí tuệ* là gì? Đó là khi một vị thánh đ�
 <!--pg-->
 ## Chương về Yếu Hơn
 
-### SN 48.11 Đạt Được *Paṭilābhasutta*{#11}
-
+### SN 48.11 Đạt Được *Paṭilābhasutta* {#11}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*.
 
 Và *năng lực của* *đức tin* là gì? Đó là khi một vị thánh đệ tử có *đức tin* vào sự giác ngộ của *Như Lai*: 'Đức Thế Tôn đó là bậc toàn thiện, một vị Phật giác ngộ hoàn toàn, thành tựu về tri thức và hành vi, thánh thiện, người biết thế gian, bậc hướng dẫn tối cao cho những ai muốn tu tập, thầy của chư thiên và loài người, bậc giác ngộ, được tôn kính.' Đây được gọi là *năng lực của* *đức tin*.
@@ -124,15 +113,13 @@ Và *năng lực của* *trí tuệ* là gì? Đó là khi một vị thánh đ�
 Đây là năm *năng lực*."
 
 <!--pg-->
-### SN 48.12 Tóm Tắt (thứ nhất) *Paṭhamasaṁkhittasutta*{#12}
-
+### SN 48.12 Tóm Tắt (thứ nhất) *Paṭhamasaṁkhittasutta* {#12}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Người nào đã hoàn thành và viên mãn năm *năng lực* này là một bậc *A-la-hán*. Nếu yếu hơn thế, họ là một *người không trở lại* (non-returner / anāgāmī / *Bất lai* / người sẽ không quay trở lại cõi dục sau khi chết). Nếu yếu hơn nữa, họ là một *người trở lại một lần* (once-returner / sakadāgāmī / *Nhất lai* / người sẽ chỉ quay trở lại cõi dục một lần nữa). Nếu yếu hơn nữa, họ là một *người nhập dòng*. Nếu yếu hơn nữa, họ là một *người theo Pháp* (follower of teachings / dhammānusārī / người thực hành theo giáo pháp chủ yếu bằng trí tuệ). Nếu yếu hơn nữa, họ là một *người theo đức tin* (follower by faith / saddhānusārī / người thực hành theo giáo pháp chủ yếu bằng niềm tin)."
 
 <!--pg-->
-### SN 48.13 Tóm Tắt (thứ hai) *Dutiyasaṁkhittasutta*{#13}
-
+### SN 48.13 Tóm Tắt (thứ hai) *Dutiyasaṁkhittasutta* {#13}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Người nào đã hoàn thành và viên mãn năm *năng lực* này là một bậc *A-la-hán*. Nếu yếu hơn thế, họ là một *người không trở lại*... một *người trở lại một lần*... một *người nhập dòng*... một *người theo Pháp*... một *người theo đức tin*.
@@ -140,8 +127,7 @@ Người nào đã hoàn thành và viên mãn năm *năng lực* này là một
 Vì vậy, từ sự đa dạng của các *năng lực* có sự đa dạng của các kết quả. Và từ sự đa dạng của các kết quả có sự đa dạng của các cá nhân."
 
 <!--pg-->
-### SN 48.14 Tóm Tắt (thứ ba) *Tatiyasaṁkhittasutta*{#14}
-
+### SN 48.14 Tóm Tắt (thứ ba) *Tatiyasaṁkhittasutta* {#14}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Người nào đã hoàn thành và viên mãn năm *năng lực* này là một bậc *A-la-hán*. Nếu yếu hơn thế, họ là một *người không trở lại*... một *người trở lại một lần*... một *người nhập dòng*... một *người theo Pháp*... một *người theo đức tin*.
@@ -149,15 +135,13 @@ Người nào đã hoàn thành và viên mãn năm *năng lực* này là một
 Vì vậy, này các *Tỷ kheo*, nếu các vị thực hành một phần, các vị thành công một phần. Nếu các vị thực hành đầy đủ, các vị thành công đầy đủ. Năm *năng lực* này không phải là vô ích, Ta nói vậy."
 
 <!--pg-->
-### SN 48.15 Chi Tiết (thứ nhất) *Paṭhamavitthārasutta*{#15}
-
+### SN 48.15 Chi Tiết (thứ nhất) *Paṭhamavitthārasutta* {#15}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Người nào đã hoàn thành và viên mãn năm *năng lực* này là một bậc *A-la-hán*. Nếu yếu hơn thế, họ là *người đạt Niết-bàn giữa hai kiếp sống* (one who is extinguished between one life and the next / antarāparinibbāyī)... *người đạt Niết-bàn khi vừa tái sinh* (one who is extinguished upon landing / upahaccaparinibbāyī)... *người đạt Niết-bàn không cần nỗ lực nhiều* (one who is extinguished without extra effort / asaṅkhāraparinibbāyī)... *người đạt Niết-bàn cần nỗ lực nhiều* (one who is extinguished with extra effort / sasaṅkhāraparinibbāyī)... *người đi ngược dòng, đến cõi Sắc Cứu Cánh* (one who heads upstream, going to the Akaniṭṭha realm / uddhaṁsoto akaniṭṭhagāmī)... một *người trở lại một lần*... một *người nhập dòng*... một *người theo Pháp*... một *người theo đức tin*."
 
 <!--pg-->
-### SN 48.16 Chi Tiết (thứ hai) *Dutiyavitthārasutta*{#16}
-
+### SN 48.16 Chi Tiết (thứ hai) *Dutiyavitthārasutta* {#16}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Người nào đã hoàn thành và viên mãn năm *năng lực* này là một bậc *A-la-hán*. Nếu yếu hơn thế, họ là *người đạt Niết-bàn giữa hai kiếp sống*... *người đạt Niết-bàn khi vừa tái sinh*... *người đạt Niết-bàn không cần nỗ lực nhiều*... *người đạt Niết-bàn cần nỗ lực nhiều*... *người đi ngược dòng, đến cõi Sắc Cứu Cánh*... một *người trở lại một lần*... một *người nhập dòng*... một *người theo Pháp*... một *người theo đức tin*.
@@ -165,8 +149,7 @@ Người nào đã hoàn thành và viên mãn năm *năng lực* này là một
 Vì vậy, từ sự đa dạng của các *năng lực* có sự đa dạng của các kết quả. Và từ sự đa dạng của các kết quả có sự đa dạng của các cá nhân."
 
 <!--pg-->
-### SN 48.17 Chi Tiết (thứ ba) *Tatiyavitthārasutta*{#17}
-
+### SN 48.17 Chi Tiết (thứ ba) *Tatiyavitthārasutta* {#17}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Người nào đã hoàn thành và viên mãn năm *năng lực* này là một bậc *A-la-hán*. Nếu yếu hơn thế, họ là *người đạt Niết-bàn giữa hai kiếp sống*... *người đạt Niết-bàn khi vừa tái sinh*... *người đạt Niết-bàn không cần nỗ lực nhiều*... *người đạt Niết-bàn cần nỗ lực nhiều*... *người đi ngược dòng, đến cõi Sắc Cứu Cánh*... một *người trở lại một lần*... một *người nhập dòng*... một *người theo Pháp*... một *người theo đức tin*.
@@ -174,15 +157,13 @@ Người nào đã hoàn thành và viên mãn năm *năng lực* này là một
 Vì vậy, này các *Tỷ kheo*, nếu các vị thực hành đầy đủ, các vị thành công đầy đủ. Nếu các vị thực hành một phần, các vị thành công một phần. Năm *năng lực* này không phải là vô ích, Ta nói vậy."
 
 <!--pg-->
-### SN 48.18 Thực Hành *Paṭipannasutta*{#18}
-
+### SN 48.18 Thực Hành *Paṭipannasutta* {#18}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Người nào đã hoàn thành và viên mãn năm *năng lực* này là một bậc *A-la-hán*. Nếu yếu hơn thế, họ đang thực hành để nhận ra quả vị toàn thiện... một *người không trở lại*... đang thực hành để nhận ra quả vị không trở lại... một *người trở lại một lần*... đang thực hành để nhận ra quả vị trở lại một lần... một *người nhập dòng*... đang thực hành để nhận ra quả vị nhập dòng. Người nào hoàn toàn và tuyệt đối thiếu năm *năng lực* này là một người ngoài cuộc, thuộc về những người phàm phu, Ta nói vậy."
 
 <!--pg-->
-### SN 48.19 Được Trang Bị *Sampannasutta*{#19}
-
+### SN 48.19 Được Trang Bị *Sampannasutta* {#19}
 Rồi một *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên và nói với Ngài:
 
 "Thưa Ngài, người ta nói về một người 'thành tựu về các *năng lực*'. Một người thành tựu về các *năng lực* được định nghĩa như thế nào?"
@@ -190,8 +171,7 @@ Rồi một *Tỷ kheo* đến gặp Đức Phật, đảnh lễ, ngồi xuống
 "Này *Tỷ kheo*, đó là khi một *Tỷ kheo* phát triển *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* dẫn đến sự bình an và giác ngộ. Đây là cách một người thành tựu về các *năng lực* được định nghĩa."
 
 <!--pg-->
-### SN 48.20 Sự Chấm Dứt của các Ô Nhiễm *Āsavakkhayasutta*{#20}
-
+### SN 48.20 Sự Chấm Dứt của các Ô Nhiễm *Āsavakkhayasutta* {#20}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Chính nhờ phát triển và tu dưỡng năm *năng lực* này mà một *Tỷ kheo* nhận ra *sự giải thoát* (freedom / vimutti / sự giải thoát khỏi khổ đau và vòng luân hồi) không ô nhiễm của tâm và *sự giải thoát* bằng *trí tuệ* ngay trong đời này. Và họ sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình do sự chấm dứt của các *ô nhiễm*."
@@ -199,8 +179,7 @@ Chính nhờ phát triển và tu dưỡng năm *năng lực* này mà một *T�
 <!--pg-->
 ## Chương về Sáu Giác quan
 
-### SN 48.21 Các Kiếp Sống Tương Lai *Punabbhavasutta*{#21}
-
+### SN 48.21 Các Kiếp Sống Tương Lai *Punabbhavasutta* {#21}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Chừng nào Ta chưa *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* của năm *năng lực* này, Ta chưa tuyên bố sự giác ngộ hoàn hảo tối thượng của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
 
 Nhưng khi Ta đã *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* của năm *năng lực* này, Ta đã tuyên bố sự giác ngộ hoàn hảo tối thượng của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
@@ -208,42 +187,35 @@ Nhưng khi Ta đã *biết như thật* về *sự hài lòng*, *sự nguy hại
 Tri kiến và tuệ giác đã khởi lên trong Ta: '*Sự giải thoát* của Ta là không thể lay chuyển; đây là lần tái sinh cuối cùng của Ta; bây giờ sẽ không còn kiếp sống tương lai nào nữa.'"
 
 <!--pg-->
-### SN 48.22 Năng lực của Sự Sống *Jīvitindriyasutta*{#22}
-
+### SN 48.22 Năng lực của Sự Sống *Jīvitindriyasutta* {#22}
 "Này các *Tỷ kheo*, có ba *năng lực* này. Ba *năng lực* đó là gì? *Năng lực của nữ tính* (faculty of femininity / itthindriya), *năng lực của nam tính* (faculty of masculinity / purisindriya), và *năng lực của sự sống* (faculty of life / jīvitindriya / mạng căn). Đây là ba *năng lực*."
 
 <!--pg-->
-### SN 48.23 Năng lực của Giác Ngộ *Aññindriyasutta*{#23}
-
+### SN 48.23 Năng lực của Giác Ngộ *Aññindriyasutta* {#23}
 "Này các *Tỷ kheo*, có ba *năng lực* này. Ba *năng lực* đó là gì? *Năng lực* hiểu rằng sự giác ngộ của mình sắp xảy ra. *Năng lực* của giác ngộ. *Năng lực* của người đã giác ngộ. Đây là ba *năng lực*."
 
 <!--pg-->
-### SN 48.24 Người Gieo Một Hạt Giống *Ekabījīsutta*{#24}
-
+### SN 48.24 Người Gieo Một Hạt Giống *Ekabījīsutta* {#24}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Người nào đã hoàn thành và viên mãn năm *năng lực* này là một bậc *A-la-hán*. Nếu yếu hơn thế, họ là *người đạt Niết-bàn giữa hai kiếp sống*... *người đạt Niết-bàn khi vừa tái sinh*... *người đạt Niết-bàn không cần nỗ lực nhiều*... *người đạt Niết-bàn cần nỗ lực nhiều*... *người đi ngược dòng, đến cõi Sắc Cứu Cánh*... một *người trở lại một lần*... một *người gieo một hạt giống* (one-seeder / ekabījī / người chỉ cần tái sinh một lần nữa để đạt giác ngộ)... *người đi từ gia đình này sang gia đình khác* (one who goes from family to family / kolaṅkola / người tái sinh hai hoặc ba lần nữa)... *người có tối đa bảy lần tái sinh* (one who has seven rebirths at most / sattakkhattuparama)... một *người theo Pháp*... một *người theo đức tin*."
 
 <!--pg-->
-### SN 48.25 Phiên Bản Đơn Giản *Suddhakasutta*{#25}
-
+### SN 48.25 Phiên Bản Đơn Giản *Suddhakasutta* {#25}
 "Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì? *mắt, tai, mũi, lưỡi, thân*, và *trí não*. Đây là sáu *giác quan*."
 
 <!--pg-->
-### SN 48.26 Người Nhập Dòng *Sotāpannasutta*{#26}
-
+### SN 48.26 Người Nhập Dòng *Sotāpannasutta* {#26}
 "Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì?  *mắt, tai, mũi, lưỡi, thân*, và *trí não*. Một vị thánh đệ tử *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *giác quan* này. Một vị thánh đệ tử như vậy được gọi là *người nhập dòng*, không còn bị tái sinh vào cảnh giới thấp, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
-### SN 48.27 Bậc Toàn Thiện *Arahantasutta*{#27}
-
+### SN 48.27 Bậc Toàn Thiện *Arahantasutta* {#27}
 "Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì? *mắt, tai, mũi, lưỡi, thân*, và *trí não*. Một *Tỷ kheo* được giải thoát nhờ không *bám giữ* sau khi *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *giác quan* này.
 
 Một *Tỷ kheo* như vậy được gọi là một bậc *A-la-hán*, với các *ô nhiễm* đã được chấm dứt, người đã hoàn thành hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt *xiềng xích* của *mong muốn tồn tại*, và được giải thoát một cách đúng đắn nhờ giác ngộ."
 
 <!--pg-->
-### SN 48.28 Giác Ngộ *Sambuddhasutta*{#28}
-
+### SN 48.28 Giác Ngộ *Sambuddhasutta* {#28}
 "Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì? *mắt, tai, mũi, lưỡi, thân*, và *trí não*.
 
 Chừng nào Ta chưa *biết như thật* về *sự hài lòng*, *sự nguy hại*, và *lối thoát* của sáu *giác quan* này, Ta chưa tuyên bố sự giác ngộ hoàn hảo tối thượng của mình trong thế giới này với các vị trời, Ma vương, và Phạm thiên, trong quần chúng này với các sa môn và bà la môn, các vị trời và loài người.
@@ -253,8 +225,7 @@ Nhưng khi Ta đã *biết như thật* về *sự hài lòng*, *sự nguy hại
 Tri kiến và tuệ giác đã khởi lên trong Ta: '*Sự giải thoát* của Ta là không thể lay chuyển; đây là lần tái sinh cuối cùng của Ta; bây giờ sẽ không còn kiếp sống tương lai nào nữa.'"
 
 <!--pg-->
-### SN 48.29 Sa Môn và Bà La Môn (thứ nhất) *Paṭhamasamaṇabrāhmaṇasutta*{#29}
-
+### SN 48.29 Sa Môn và Bà La Môn (thứ nhất) *Paṭhamasamaṇabrāhmaṇasutta* {#29}
 "Này các *Tỷ kheo*, có sáu *giác quan* này. Sáu *giác quan* đó là gì? *giác quan* *mắt, tai, mũi, lưỡi, thân*, và *trí não*.
 
 Có những vị sa môn và bà la môn không *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với sáu *giác quan* này. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
@@ -262,8 +233,7 @@ Có những vị sa môn và bà la môn không *biết như thật* về sự k
 Có những vị sa môn và bà la môn *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với sáu *giác quan* này. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
 
 <!--pg-->
-### SN 48.30 Sa Môn và Bà La Môn (thứ hai) *Dutiyasamaṇabrāhmaṇasutta*{#30}
-
+### SN 48.30 Sa Môn và Bà La Môn (thứ hai) *Dutiyasamaṇabrāhmaṇasutta* {#30}
 "Này các *Tỷ kheo*, có những vị sa môn và bà la môn không hiểu *giác quan mắt*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Họ không hiểu *giác quan tai*... *giác quan mũi*... *giác quan lưỡi*... *giác quan thân*... *giác quan trí não*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
 
 Có những vị sa môn và bà la môn hiểu *giác quan mắt*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Họ hiểu *giác quan tai*... *giác quan mũi*... *giác quan lưỡi*... *giác quan thân*... *giác quan trí não*, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
@@ -271,25 +241,21 @@ Có những vị sa môn và bà la môn hiểu *giác quan mắt*, sự khởi 
 <!--pg-->
 ## Chương về Năng lực của Lạc
 
-### SN 48.31 Phiên Bản Đơn Giản *Suddhikasutta*{#31}
-
+### SN 48.31 Phiên Bản Đơn Giản *Suddhikasutta* {#31}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả. Đây là năm *năng lực*."
 
 <!--pg-->
-### SN 48.32 Người Nhập Dòng *Sotāpannasutta*{#32}
-
+### SN 48.32 Người Nhập Dòng *Sotāpannasutta* {#32}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả. Một vị thánh đệ tử *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của năm *năng lực* này. Một vị thánh đệ tử như vậy được gọi là *người nhập dòng*, không còn bị tái sinh vào cảnh giới thấp, chắc chắn sẽ giác ngộ."
 
 <!--pg-->
-### SN 48.33 Bậc Toàn Thiện *Arahantasutta*{#33}
-
+### SN 48.33 Bậc Toàn Thiện *Arahantasutta* {#33}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả. Một *Tỷ kheo* được giải thoát nhờ không *bám giữ* sau khi *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* của năm *năng lực* này.
 
 Một *Tỷ kheo* như vậy được gọi là một bậc *A-la-hán*, với các *ô nhiễm* đã được chấm dứt, người đã hoàn thành hành trình tâm linh, làm những gì cần làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt *xiềng xích* của *mong muốn tồn tại*, và được giải thoát một cách đúng đắn nhờ giác ngộ."
 
 <!--pg-->
-### SN 48.34 Sa Môn và Bà La Môn (thứ nhất) *Paṭhamasamaṇabrāhmaṇasutta*{#34}
-
+### SN 48.34 Sa Môn và Bà La Môn (thứ nhất) *Paṭhamasamaṇabrāhmaṇasutta* {#34}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả.
 
 Có những vị sa môn và bà la môn không *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với năm *năng lực* này. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
@@ -297,8 +263,7 @@ Có những vị sa môn và bà la môn không *biết như thật* về sự k
 Có những vị sa môn và bà la môn *biết như thật* về sự khởi sinh, sự chấm dứt, *sự hài lòng*, *sự nguy hại*, và *lối thoát* đối với năm *năng lực* này. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
 
 <!--pg-->
-### SN 48.35 Sa Môn và Bà La Môn (thứ hai) *Dutiyasamaṇabrāhmaṇasutta*{#35}
-
+### SN 48.35 Sa Môn và Bà La Môn (thứ hai) *Dutiyasamaṇabrāhmaṇasutta* {#35}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả.
 
 Này các *Tỷ kheo*, có những vị sa môn và bà la môn không hiểu *năng lực của* lạc, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Có những vị sa môn và bà la môn không hiểu *năng lực của* khổ... hỷ... ưu... xả, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta không coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó không nhận ra mục tiêu của đời sống sa môn hay bà la môn, và không sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình.
@@ -306,8 +271,7 @@ Này các *Tỷ kheo*, có những vị sa môn và bà la môn không hiểu *n
 Có những vị sa môn và bà la môn hiểu *năng lực của* lạc, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Có những vị sa môn và bà la môn hiểu *năng lực của* khổ... hỷ... ưu... xả, sự khởi sinh, sự chấm dứt của nó, và con đường thực hành dẫn đến sự chấm dứt của nó. Ta coi họ là những sa môn và bà la môn chân chính. Những vị tôn giả đó nhận ra mục tiêu của đời sống sa môn hay bà la môn, và sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình."
 
 <!--pg-->
-### SN 48.36 Phân Tích (thứ nhất) *Paṭhamavibhaṅgasutta*{#36}
-
+### SN 48.36 Phân Tích (thứ nhất) *Paṭhamavibhaṅgasutta* {#36}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả.
 
 Và *năng lực của* lạc là gì? Sự hưởng thụ thể chất, niềm vui thể chất, *cảm giác* (feeling / vedanā / thọ) thú vị, dễ chịu sinh ra từ sự tiếp xúc thể chất. Đây được gọi là *năng lực của* lạc.
@@ -323,8 +287,7 @@ Và *năng lực của* xả là gì? *Cảm giác* không dễ chịu cũng kh�
 Đây là năm *năng lực*."
 
 <!--pg-->
-### SN 48.37 Phân Tích (thứ hai) *Dutiyavibhaṅgasutta*{#37}
-
+### SN 48.37 Phân Tích (thứ hai) *Dutiyavibhaṅgasutta* {#37}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả.
 
 Và *năng lực của* lạc là gì? Sự hưởng thụ thể chất, niềm vui thể chất, *cảm giác* thú vị, dễ chịu sinh ra từ sự tiếp xúc thể chất. Đây được gọi là *năng lực của* lạc.
@@ -342,8 +305,7 @@ Trong bối cảnh này, *năng lực của* lạc và hỷ nên được xem l�
 Đây là năm *năng lực*."
 
 <!--pg-->
-### SN 48.38 Phân Tích (thứ ba) *Tatiyavibhaṅgasutta*{#38}
-
+### SN 48.38 Phân Tích (thứ ba) *Tatiyavibhaṅgasutta* {#38}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả.
 
 Và *năng lực của* lạc là gì? Sự hưởng thụ thể chất, niềm vui thể chất, *cảm giác* thú vị, dễ chịu sinh ra từ sự tiếp xúc thể chất. Đây được gọi là *năng lực của* lạc.
@@ -361,8 +323,7 @@ Trong bối cảnh này, *năng lực của* lạc và hỷ nên được xem l�
 Đó là cách năm *năng lực* này, tùy thuộc vào cách giải thích, từ năm trở thành ba, và từ ba trở thành năm."
 
 <!--pg-->
-### SN 48.39 Ví Dụ về Que Củi *Kaṭṭhopamasutta*{#39}
-
+### SN 48.39 Ví Dụ về Que Củi *Kaṭṭhopamasutta* {#39}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* lạc, khổ, hỷ, ưu, và xả.
 
 *Năng lực của* lạc phát sinh phụ thuộc vào một sự tiếp xúc được trải nghiệm là dễ chịu. Khi ở trong trạng thái lạc, bạn hiểu: 'Tôi đang ở trong trạng thái lạc.' Với sự chấm dứt của sự tiếp xúc được trải nghiệm là dễ chịu đó, bạn hiểu rằng *năng lực của* lạc tương ứng sẽ chấm dứt và dừng lại.
@@ -382,8 +343,7 @@ Tương tự như vậy, *năng lực của* lạc phát sinh phụ thuộc vào
 *Năng lực của* khổ... hỷ... ưu... xả phát sinh phụ thuộc vào một sự tiếp xúc được trải nghiệm là trung tính. Khi ở trong trạng thái xả, bạn hiểu: 'Tôi đang ở trong trạng thái xả.' Với sự chấm dứt của sự tiếp xúc được trải nghiệm là trung tính đó, bạn hiểu rằng *năng lực của* xả tương ứng sẽ chấm dứt và dừng lại."
 
 <!--pg-->
-### SN 48.40 Trật Tự Ngược *Uppaṭipāṭikasutta*{#40}
-
+### SN 48.40 Trật Tự Ngược *Uppaṭipāṭikasutta* {#40}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* khổ, ưu, lạc, hỷ, và xả.
 
 Trong khi một *Tỷ kheo* đang thiền định—*tinh cần* (Diligence / appamāda / chuyên cần, kỷ luật, tự chủ), nhiệt tâm, và quyết đoán—*năng lực của* khổ phát sinh. Vị ấy hiểu: '*Năng lực của* khổ đã phát sinh trong tôi. Và điều đó có một cơ sở, một nguồn gốc, một điều kiện, và một lý do. Không thể có chuyện *năng lực của* khổ phát sinh mà không có cơ sở, nguồn gốc, điều kiện, hay lý do.' Vị ấy hiểu *năng lực của* khổ, sự khởi sinh, sự chấm dứt của nó, và nơi mà *năng lực của* khổ đã phát sinh đó chấm dứt không còn dư sót. Và *năng lực của* khổ đã phát sinh đó chấm dứt không còn dư sót ở đâu? Đó là khi một *Tỷ kheo*, hoàn toàn xa lìa các thú vui giác quan, xa lìa các phẩm chất bất thiện, nhập và an trú trong *tầng thiền* thứ nhất, có *hân hoan* và *bình an* sinh ra từ sự xa lìa, trong khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó*. Đó là nơi *năng lực của* khổ đã phát sinh chấm dứt không còn dư sót. Vị ấy được gọi là một *Tỷ kheo* hiểu được sự chấm dứt của *năng lực của* khổ, và người hướng tâm mình đến mục đích đó.
@@ -399,8 +359,7 @@ Trong khi một *Tỷ kheo* đang thiền định—*tinh cần*, nhiệt tâm, 
 <!--pg-->
 ## Chương về Tuổi Già
 
-### SN 48.41 Tuổi Già *Jarādhammasutta*{#41}
-
+### SN 48.41 Tuổi Già *Jarādhammasutta* {#41}
 Tôi nghe như vầy. Một thời Đức Phật đang ở gần Sāvatthī trong ngôi nhà sàn của mẹ Migāra ở Tu viện phía Đông. Rồi vào cuối buổi chiều, Đức Phật ra khỏi nơi ẩn tu và ngồi sưởi lưng dưới những tia nắng cuối cùng của mặt trời.
 
 Rồi Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, và trong khi xoa bóp chân tay của Đức Phật, ông nói:
@@ -422,8 +381,7 @@ Rồi Tôn giả Ānanda đến gặp Đức Phật, đảnh lễ, và trong khi
 > mà nghiền nát tất cả dưới chân."
 
 <!--pg-->
-### SN 48.42 Bà La Môn Uṇṇābha *Uṇṇābhabrāhmaṇasutta*{#42}
-
+### SN 48.42 Bà La Môn Uṇṇābha *Uṇṇābhabrāhmaṇasutta* {#42}
 Tại Sāvatthī.
 
 Rồi bà la môn Uṇṇābha đến gặp Đức Phật, và trao đổi lời chào với Ngài. Khi những lời chào và cuộc trò chuyện lịch sự kết thúc, ông ngồi xuống một bên và nói với Đức Phật:
@@ -457,8 +415,7 @@ Rồi, không lâu sau khi ông rời đi, Đức Phật nói với các *Tỷ k
 "Tương tự như vậy, *đức tin* của bà la môn Uṇṇābha vào *Như Lai* đã được thiết lập, bén rễ, và cắm sâu. Nó mạnh mẽ và không thể bị lay chuyển bởi bất kỳ sa môn hay bà la môn hay vị trời hay Ma vương hay phạm thiên hay bất kỳ ai trên thế giới. Nếu ông ấy qua đời vào lúc này, ông ấy sẽ không bị ràng buộc bởi bất kỳ *xiềng xích* nào có thể khiến ông ấy trở lại thế giới này."
 
 <!--pg-->
-### SN 48.43 Tại Sāketa *Sāketasutta*{#43}
-
+### SN 48.43 Tại Sāketa *Sāketasutta* {#43}
 Tôi nghe như vầy. Một thời Đức Phật đang ở gần Sāketa trong công viên nai ở Rừng Añjana. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, có phương pháp nào mà năm *năng lực tinh thần* trở thành năm *sức mạnh tinh thần* (powers / bala / lực), và năm *sức mạnh tinh thần* trở thành năm *năng lực tinh thần* không?"
 
 "Giáo pháp của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con. Thưa Ngài, xin Đức Phật hãy làm rõ ý nghĩa của điều này. Các *Tỷ kheo* sẽ lắng nghe và ghi nhớ nó."
@@ -478,8 +435,7 @@ Bằng phương pháp tương tự, *Năng lực của* *đức tin* là *sức 
 Chính nhờ phát triển và tu dưỡng năm *năng lực* này mà một *Tỷ kheo* nhận ra *sự giải thoát* không ô nhiễm của tâm và *sự giải thoát* bằng *trí tuệ* ngay trong đời này. Và họ sống sau khi đã nhận ra điều đó bằng tuệ giác của chính mình do sự chấm dứt của các *ô nhiễm*."
 
 <!--pg-->
-### SN 48.44 Tại Cổng Phía Đông *Pubbakoṭṭhakasutta*{#44}
-
+### SN 48.44 Tại Cổng Phía Đông *Pubbakoṭṭhakasutta* {#44}
 Tôi nghe như vầy. Một thời Đức Phật đang ở Sāvatthī tại cổng phía đông. Rồi Đức Phật nói với Tôn giả Sāriputta:
 
 "Sāriputta, ông có *đức tin* rằng *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, khi được phát triển và tu dưỡng, sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết không?"
@@ -489,8 +445,7 @@ Tôi nghe như vầy. Một thời Đức Phật đang ở Sāvatthī tại cổ
 "Tốt lắm, tốt lắm, Sāriputta! Có những người chưa biết, chưa thấy, chưa hiểu, chưa nhận ra, hoặc chưa trải nghiệm điều này bằng *trí tuệ*. Họ có thể dựa vào *đức tin* trong vấn đề này. Nhưng có những người đã biết, đã thấy, đã hiểu, đã nhận ra, và đã trải nghiệm điều này bằng *trí tuệ*. Họ không có nghi ngờ hay bất định nào rằng *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, khi được phát triển và tu dưỡng, sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết."
 
 <!--pg-->
-### SN 48.45 Tại Tu Viện Phía Đông (thứ nhất) *Paṭhamapubbārāmasutta*{#45}
-
+### SN 48.45 Tại Tu Viện Phía Đông (thứ nhất) *Paṭhamapubbārāmasutta* {#45}
 Tôi nghe như vầy. Một thời Đức Phật đang ở gần Sāvatthī trong ngôi nhà sàn của mẹ Migāra ở Tu viện phía Đông. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, một *Tỷ kheo* phải phát triển và tu dưỡng bao nhiêu *năng lực* để có thể tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này"'?"
 
 "Giáo pháp của chúng con bắt nguồn từ Đức Phật. ..."
@@ -498,8 +453,7 @@ Tôi nghe như vầy. Một thời Đức Phật đang ở gần Sāvatthī tron
 "Một *Tỷ kheo* phải phát triển và tu dưỡng một *năng lực* để có thể tuyên bố giác ngộ. Một *năng lực* nào? *Năng lực của* *trí tuệ*. Khi một vị thánh đệ tử có *trí tuệ*, thì *đức tin*, *nghị lực*, *niệm*, và *Định* đi theo đó sẽ trở nên ổn định. Đây là một *năng lực* mà một *Tỷ kheo* phải phát triển và tu dưỡng để có thể tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này"'."
 
 <!--pg-->
-### SN 48.46 Tại Tu Viện Phía Đông (thứ hai) *Dutiyapubbārāmasutta*{#46}
-
+### SN 48.46 Tại Tu Viện Phía Đông (thứ hai) *Dutiyapubbārāmasutta* {#46}
 Cùng bối cảnh.
 
 "Này các *Tỷ kheo*, một *Tỷ kheo* phải phát triển và tu dưỡng bao nhiêu *năng lực* để có thể tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này"'?"
@@ -511,8 +465,7 @@ Cùng bối cảnh.
 Đây là hai *năng lực* mà một *Tỷ kheo* phải phát triển và tu dưỡng để có thể tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này"'."
 
 <!--pg-->
-### SN 48.47 Tại Tu Viện Phía Đông (thứ ba) *Tatiyapubbārāmasutta*{#47}
-
+### SN 48.47 Tại Tu Viện Phía Đông (thứ ba) *Tatiyapubbārāmasutta* {#47}
 Cùng bối cảnh.
 
 "Này các *Tỷ kheo*, một *Tỷ kheo* phải phát triển và tu dưỡng bao nhiêu *năng lực* để có thể tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này"'?"
@@ -524,8 +477,7 @@ Cùng bối cảnh.
 Đây là bốn *năng lực* mà một *Tỷ kheo* phải phát triển và tu dưỡng để có thể tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này"'."
 
 <!--pg-->
-### SN 48.48 Tại Tu Viện Phía Đông (thứ tư) *Catutthapubbārāmasutta*{#48}
-
+### SN 48.48 Tại Tu Viện Phía Đông (thứ tư) *Catutthapubbārāmasutta* {#48}
 Cùng bối cảnh.
 
 "Này các *Tỷ kheo*, một *Tỷ kheo* phải phát triển và tu dưỡng bao nhiêu *năng lực* để có thể tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này"'?"
@@ -537,8 +489,7 @@ Cùng bối cảnh.
 Đây là năm *năng lực* mà một *Tỷ kheo* phải phát triển và tu dưỡng để có thể tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này"'."
 
 <!--pg-->
-### SN 48.49 Về Bhāradvāja Người Khất Thực *Piṇḍolabhāradvājasutta*{#49}
-
+### SN 48.49 Về Bhāradvāja Người Khất Thực *Piṇḍolabhāradvājasutta* {#49}
 Tôi nghe như vầy. Một thời Đức Phật đang ở gần Kosambī, trong Tu viện của Ghosita.
 
 Lúc bấy giờ, Tôn giả Bhāradvāja Người Khất Thực đã tuyên bố giác ngộ: "Tôi hiểu: 'Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này.'"
@@ -556,8 +507,7 @@ Chính vì Tôn giả Bhāradvāja Người Khất Thực đã phát triển và
 Chính vì ông ấy thấy rằng chúng đạt đến đỉnh cao trong sự chấm dứt của tái sinh, tuổi già, và cái chết mà Tôn giả Bhāradvāja Người Khất Thực tuyên bố giác ngộ: 'Tôi hiểu: "Tái sinh đã chấm dứt, hành trình tâm linh đã hoàn thành, những gì cần làm đã được làm, không còn gì nữa cho nơi này."'"
 
 <!--pg-->
-### SN 48.50 Tại Āpaṇa *Āpaṇasutta*{#50}
-
+### SN 48.50 Tại Āpaṇa *Āpaṇasutta* {#50}
 Tôi nghe như vầy. Một thời Đức Phật đang ở xứ Aṅga, gần thị trấn Āpaṇa của người Aṅga. Rồi Đức Phật nói với Tôn giả Sāriputta:
 
 "Sāriputta, một vị thánh đệ tử chắc chắn và tận tâm với *Như Lai* có bất kỳ nghi ngờ hay bất định nào về *Như Lai* hay giáo huấn của Ngài không?"
@@ -583,15 +533,13 @@ Sāriputta, một vị thánh đệ tử chắc chắn và tận tâm với *Nh�
 <!--pg-->
 ## Chương về Hang Heo Rừng
 
-### SN 48.51 Tại Sālā *Sālasutta*{#51}
-
+### SN 48.51 Tại Sālā *Sālasutta* {#51}
 Tôi nghe như vầy. Một thời Đức Phật đang ở xứ Kosala gần làng bà la môn Sālā. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, sư tử, vua của các loài thú, được cho là tốt nhất trong các loài vật về năng lực, tốc độ, và lòng dũng cảm. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ.
 
 Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những phẩm chất dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ. Sư tử, vua của các loài thú, được cho là tốt nhất trong các loài vật về năng lực, tốc độ, và lòng dũng cảm. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ."
 
 <!--pg-->
-### SN 48.52 Tại Xứ Malla *Mallikasutta*{#52}
-
+### SN 48.52 Tại Xứ Malla *Mallikasutta* {#52}
 Tôi nghe như vầy. Một thời Đức Phật đang ở xứ Malla, gần thị trấn Uruvelakappa của người Malla. Tại đó, Đức Phật nói với các *Tỷ kheo*:
 
 "Này các *Tỷ kheo*, chừng nào tri kiến cao quý chưa phát sinh cho một vị thánh đệ tử thì bốn *năng lực* không ổn định và cố định. Nhưng khi tri kiến cao quý đã phát sinh cho một vị thánh đệ tử thì bốn *năng lực* trở nên ổn định và cố định.
@@ -603,8 +551,7 @@ Tương tự như vậy, chừng nào tri kiến cao quý chưa phát sinh cho m
 Bốn *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, và *Định*. Khi một vị thánh đệ tử có *trí tuệ*, thì *đức tin*, *nghị lực*, *niệm*, và *Định* đi theo đó sẽ trở nên ổn định."
 
 <!--pg-->
-### SN 48.53 Một Vị Hữu Học *Sekhasutta*{#53}
-
+### SN 48.53 Một Vị Hữu Học *Sekhasutta* {#53}
 Tôi nghe như vầy. Một thời Đức Phật đang ở gần Kosambī, trong Tu viện của Ghosita. Tại đó, Đức Phật nói với các *Tỷ kheo*: "Này các *Tỷ kheo*, có cách nào để một *Tỷ kheo* là một vị hữu học, đang ở cấp độ của một vị hữu học, có thể hiểu rằng mình là một vị hữu học không? Và một *Tỷ kheo* là một vị vô học, đang ở cấp độ của một vị vô học, có thể hiểu rằng mình là một vị vô học không?"
 
 "Giáo pháp của chúng con bắt nguồn từ Đức Phật. ..."
@@ -622,8 +569,7 @@ Và cách nào để một *Tỷ kheo* là một vị vô học có thể hiểu
 Hơn nữa, một *Tỷ kheo* là một vị vô học hiểu sáu *giác quan*: mắt, tai, mũi, lưỡi, thân, và trí não. Họ hiểu: 'Sáu *giác quan* này sẽ hoàn toàn và tuyệt đối chấm dứt không còn dư sót. Và không có sáu *giác quan* nào khác sẽ phát sinh ở bất cứ đâu, bất cứ cách nào.' Đây cũng là một cách để một *Tỷ kheo* là một vị vô học có thể hiểu rằng mình là một vị vô học."
 
 <!--pg-->
-### SN 48.54 Dấu Chân *Padasutta*{#54}
-
+### SN 48.54 Dấu Chân *Padasutta* {#54}
 "Dấu chân của tất cả các sinh vật đi bộ có thể nằm gọn trong dấu chân của một con voi, vì vậy dấu chân của một con voi được cho là lớn nhất trong số đó. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các bước dẫn đến giác ngộ về mặt trở nên giác ngộ.
 
 Và những bước dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những bước dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ.
@@ -631,8 +577,7 @@ Và những bước dẫn đến giác ngộ là gì? *Năng lực của* *đứ
 Dấu chân của tất cả các sinh vật đi bộ có thể nằm gọn trong dấu chân của một con voi, vì vậy dấu chân của một con voi được cho là lớn nhất trong số đó. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các bước dẫn đến giác ngộ về mặt trở nên giác ngộ."
 
 <!--pg-->
-### SN 48.55 Lõi Cây *Sārasutta*{#55}
-
+### SN 48.55 Lõi Cây *Sārasutta* {#55}
 "Trong tất cả các loại lõi cây thơm, gỗ đàn hương đỏ được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ.
 
 Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những phẩm chất dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ.
@@ -640,13 +585,11 @@ Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* 
 Trong tất cả các loại lõi cây thơm, gỗ đàn hương đỏ được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ."
 
 <!--pg-->
-### SN 48.56 Nền Tảng *Patiṭṭhitasutta*{#56}
-
+### SN 48.56 Nền Tảng *Patiṭṭhitasutta* {#56}
 "Này các *Tỷ kheo*, khi một *Tỷ kheo* có nền tảng vững chắc trong một điều thì năm *năng lực* trở nên được phát triển, phát triển tốt. Một điều gì? *Tinh cần*. Và *tinh cần* là gì? Đó là khi một *Tỷ kheo* chăm sóc tâm mình khi đối mặt với các *ô nhiễm* và những thứ kích thích *ô nhiễm*. Khi làm như vậy, *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* được phát triển đầy đủ. Đó là cách khi một *Tỷ kheo* có nền tảng vững chắc trong một điều thì năm *năng lực* trở nên được phát triển, phát triển tốt."
 
 <!--pg-->
-### SN 48.57 Với Phạm Thiên Sahampati *Sahampatibrahmasutta*{#57}
-
+### SN 48.57 Với Phạm Thiên Sahampati *Sahampatibrahmasutta* {#57}
 Một thời, khi mới giác ngộ, Đức Phật đang ở Uruvelā tại cây đa của người chăn dê bên bờ sông Nerañjarā.
 
 Rồi khi đang ẩn tu riêng, ý nghĩ này nảy ra trong tâm Ngài, "Khi năm *năng lực* này được phát triển và tu dưỡng, chúng sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết. Năm *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Khi năm *năng lực* này được phát triển và tu dưỡng, chúng sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết."
@@ -660,8 +603,7 @@ Ngày xưa, thưa Ngài, con đã sống đời sống phạm hạnh dưới th�
 Đúng vậy, thưa Đức Thế Tôn! Đúng vậy, thưa Đấng Thánh! Con biết và thấy rằng khi năm *năng lực* này được phát triển và tu dưỡng, chúng sẽ đạt đến đỉnh cao, kết thúc, và chấm dứt trong *sự giải thoát* khỏi cái chết."
 
 <!--pg-->
-### SN 48.58 Hang Heo Rừng *Sūkarakhatasutta*{#58}
-
+### SN 48.58 Hang Heo Rừng *Sūkarakhatasutta* {#58}
 Một thời Đức Phật đang ở gần Rājagaha, trên núi Linh Thứu trong Hang Heo Rừng. Rồi Đức Phật nói với Tôn giả Sāriputta:
 
 "Sāriputta, xét đến lợi ích nào mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện lòng tận tâm tối đa đối với *Như Lai* hoặc giáo huấn của Ngài?"
@@ -683,53 +625,45 @@ Và lòng tận tâm tối đa mà một *Tỷ kheo* đã chấm dứt các *ô 
 "Tốt lắm, tốt lắm, Sāriputta! Vì đây chính là lòng tận tâm tối đa mà một *Tỷ kheo* đã chấm dứt các *ô nhiễm*, trong khi vẫn còn sống, tiếp tục thể hiện đối với *Như Lai* hoặc giáo huấn của Ngài."
 
 <!--pg-->
-### SN 48.59 Sự Khởi Sinh (thứ nhất) *Paṭhamauppādasutta*{#59}
-
+### SN 48.59 Sự Khởi Sinh (thứ nhất) *Paṭhamauppādasutta* {#59}
 Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, năm *năng lực* này không khởi sinh để được phát triển và tu dưỡng trừ khi một *Như Lai*, một bậc toàn thiện, một vị Phật giác ngộ hoàn toàn đã xuất hiện. Năm *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Năm *năng lực* này không khởi sinh để được phát triển và tu dưỡng trừ khi một *Như Lai*, một bậc toàn thiện, một vị Phật giác ngộ hoàn toàn đã xuất hiện."
 
 <!--pg-->
-### SN 48.60 Sự Khởi Sinh (thứ hai) *Dutiyauppādasutta*{#60}
-
+### SN 48.60 Sự Khởi Sinh (thứ hai) *Dutiyauppādasutta* {#60}
 "Này các *Tỷ kheo*, năm *năng lực* này không khởi sinh để được phát triển và tu dưỡng ngoài sự tu tập của Đấng Thánh. Năm *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Năm *năng lực* này không khởi sinh để được phát triển và tu dưỡng ngoài sự tu tập của Đấng Thánh."
 
 <!--pg-->
 ## Chương về Dẫn đến Giác Ngộ
 
-### SN 48.61 Các Xiềng Xích *Saṁyojanasutta*{#61}
-
+### SN 48.61 Các Xiềng Xích *Saṁyojanasutta* {#61}
 Tại Sāvatthī.
 
 "Này các *Tỷ kheo*, khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến việc từ bỏ các *xiềng xích*. Năm *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến việc từ bỏ các *xiềng xích*."
 
 <!--pg-->
-### SN 48.62 Các Khuynh Hướng *Anusayasutta*{#62}
-
+### SN 48.62 Các Khuynh Hướng *Anusayasutta* {#62}
 "Này các *Tỷ kheo*, khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến việc nhổ bật gốc các *ngầm hướng về* (underlying tendencies / anusaya / tùy miên / ngủ ngầm, chiều hướng cơ bản). Năm *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến việc nhổ bật gốc các *ngầm hướng về*."
 
 <!--pg-->
-### SN 48.63 Sự Hiểu Biết Hoàn Toàn *Pariññāsutta*{#63}
-
+### SN 48.63 Sự Hiểu Biết Hoàn Toàn *Pariññāsutta* {#63}
 "Này các *Tỷ kheo*, khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến *hiểu biết hoàn toàn* (complete understanding / pariññā / liễu tri) về dòng thời gian. Năm *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến *hiểu biết hoàn toàn* về dòng thời gian."
 
 <!--pg-->
-### SN 48.64 Sự Chấm Dứt của các Ô Nhiễm *Āsavakkhayasutta*{#64}
-
+### SN 48.64 Sự Chấm Dứt của các Ô Nhiễm *Āsavakkhayasutta* {#64}
 "Này các *Tỷ kheo*, khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến sự chấm dứt của các *ô nhiễm*. Năm *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến sự chấm dứt của các *ô nhiễm*."
 
 "Này các *Tỷ kheo*, khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến việc từ bỏ các *xiềng xích*, nhổ bật gốc các *ngầm hướng về*, *hiểu biết hoàn toàn* về dòng thời gian, và chấm dứt các *ô nhiễm*. Năm *năng lực* nào? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Khi năm *năng lực* này được phát triển và tu dưỡng, chúng dẫn đến việc từ bỏ các *xiềng xích*, nhổ bật gốc các *ngầm hướng về*, *hiểu biết hoàn toàn* về dòng thời gian, và chấm dứt các *ô nhiễm*."
 
 <!--pg-->
-### SN 48.65 Hai Kết Quả *Paṭhamaphalasutta*{#65}
-
+### SN 48.65 Hai Kết Quả *Paṭhamaphalasutta* {#65}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Nhờ phát triển và tu dưỡng năm *năng lực* này, một trong hai kết quả có thể được mong đợi: giác ngộ ngay trong đời này, hoặc nếu còn sót lại điều gì, sẽ là *người không trở lại*."
 
 <!--pg-->
-### SN 48.66 Bảy Lợi Ích *Dutiyaphalasutta*{#66}
-
+### SN 48.66 Bảy Lợi Ích *Dutiyaphalasutta* {#66}
 "Này các *Tỷ kheo*, có năm *năng lực* này. Năm *năng lực* đó là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*. Đây là năm *năng lực*.
 
 Nhờ phát triển và tu dưỡng năm *năng lực* này, bảy kết quả và lợi ích có thể được mong đợi. Bảy điều gì? Họ đạt được giác ngộ sớm ngay trong đời này. Nếu không, họ đạt được giác ngộ vào lúc chết. Nếu không, với sự chấm dứt của năm *xiềng xích* thấp hơn, họ là *người đạt Niết-bàn giữa hai kiếp sống*... họ là *người đạt Niết-bàn khi vừa tái sinh*... họ là *người đạt Niết-bàn không cần nỗ lực nhiều*... họ là *người đạt Niết-bàn cần nỗ lực nhiều*... họ *đi ngược dòng, đến cõi Sắc Cứu Cánh*.
@@ -737,13 +671,11 @@ Nhờ phát triển và tu dưỡng năm *năng lực* này, bảy kết quả v
 Nhờ phát triển và tu dưỡng năm *năng lực* này, bảy kết quả và lợi ích này có thể được mong đợi."
 
 <!--pg-->
-### SN 48.67 Một Cái Cây (thứ nhất) *Paṭhamarukkhasutta*{#67}
-
+### SN 48.67 Một Cái Cây (thứ nhất) *Paṭhamarukkhasutta* {#67}
 "Này các *Tỷ kheo*, trong tất cả các loại cây ở Vùng Đất Cây Mận Đen, cây mận đen được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ. Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những phẩm chất dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ. Trong tất cả các loại cây ở Vùng Đất Cây Mận Đen, cây mận đen được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ."
 
 <!--pg-->
-### SN 48.68 Một Cái Cây (thứ hai) *Dutiyarukkhasutta*{#68}
-
+### SN 48.68 Một Cái Cây (thứ hai) *Dutiyarukkhasutta* {#68}
 "Này các *Tỷ kheo*, trong tất cả các loại cây thuộc về các vị trời của cõi Ba Mươi Ba, Cây Lan Râm Mát được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ.
 
 Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những phẩm chất dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ.
@@ -751,20 +683,17 @@ Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* 
 Trong tất cả các loại cây thuộc về các vị trời của cõi Ba Mươi Ba, Cây Lan Râm Mát được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ."
 
 <!--pg-->
-### SN 48.69 Một Cái Cây (thứ ba) *Tatiyarukkhasutta*{#69}
-
+### SN 48.69 Một Cái Cây (thứ ba) *Tatiyarukkhasutta* {#69}
 "Này các *Tỷ kheo*, trong tất cả các loại cây thuộc về các vị a-tu-la, cây patala rực rỡ được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ. Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những phẩm chất dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ. Trong tất cả các loại cây thuộc về các vị a-tu-la, cây patala rực rỡ được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ."
 
 <!--pg-->
-### SN 48.70 Một Cái Cây (thứ tư) *Catuttharukkhasutta*{#70}
-
+### SN 48.70 Một Cái Cây (thứ tư) *Catuttharukkhasutta* {#70}
 "Này các *Tỷ kheo*, trong tất cả các loại cây thuộc về các loài phượng hoàng, cây gạo đỏ được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ. Và những phẩm chất dẫn đến giác ngộ là gì? *Năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ* là những phẩm chất dẫn đến giác ngộ, ở chỗ chúng dẫn đến việc trở nên giác ngộ. Trong tất cả các loại cây thuộc về các loài phượng hoàng, cây gạo đỏ được cho là tốt nhất. Tương tự như vậy, *năng lực của* *trí tuệ* được cho là tốt nhất trong các phẩm chất dẫn đến giác ngộ về mặt trở nên giác ngộ."
 
 <!--pg-->
 ## Chương về các Đoạn Kinh Tóm Tắt về Sông Hằng
 
-### SN 48.71--82 Hướng về Phía Đông, v.v. *Gaṅgāpeyyālavagga*{#71-82}
-
+### SN 48.71--82 Hướng về Phía Đông, v.v. *Gaṅgāpeyyālavagga* {#71-82}
 "Này các *Tỷ kheo*, sông Hằng nghiêng, dốc, và chảy về phía đông. Tương tự như vậy, một *Tỷ kheo* phát triển và tu dưỡng năm *năng lực* sẽ nghiêng, dốc, và hướng về *sự dập tắt*.
 
 Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, mà dựa vào sự xa lìa, sự phai nhạt, và sự chấm dứt, và chín muồi thành sự buông bỏ. Đó là cách một *Tỷ kheo* phát triển và tu dưỡng năm *năng lực* sẽ nghiêng, dốc, và hướng về *sự dập tắt*."
@@ -777,8 +706,7 @@ Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của
 <!--pg-->
 ## Chương về Tinh Cần
 
-### SN 48.83--92 Chương về Tinh Cần *Appamādavagga*{#83-92}
-
+### SN 48.83--92 Chương về Tinh Cần *Appamādavagga* {#83-92}
 **(Kể đầy đủ như trong chương về tinh cần tại SN 45.139--148.)**
 
 > *Như Lai*, dấu chân, đỉnh mái,\
@@ -789,8 +717,7 @@ Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của
 <!--pg-->
 ## Chương về Nỗ Lực
 
-### SN 48.93--104 Chương về Nỗ Lực *Balakaraṇīyavagga*{#93-104}
-
+### SN 48.93--104 Chương về Nỗ Lực *Balakaraṇīyavagga* {#93-104}
 **(Kể đầy đủ như trong chương về nỗ lực tại SN 45.149--160.)**
 
 > Nỗ lực, hạt giống, và rồng,\
@@ -801,8 +728,7 @@ Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của
 <!--pg-->
 ## Chương về Tìm Kiếm
 
-### SN 48.105--114 Chương về Tìm Kiếm *Esanāvagga*{#105-114}
-
+### SN 48.105--114 Chương về Tìm Kiếm *Esanāvagga* {#105-114}
 **(Kể đầy đủ như trong chương về tìm kiếm tại SN 45.161--170.)**
 
 > Tìm kiếm, phân biệt, *ô nhiễm*,\
@@ -813,8 +739,7 @@ Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của
 <!--pg-->
 ## Chương về các Cơn Lũ
 
-### SN 48.115--124 Các Cơn Lũ, v.v. *Oghavagga*{#115-124}
-
+### SN 48.115--124 Các Cơn Lũ, v.v. *Oghavagga* {#115-124}
 "Này các *Tỷ kheo*, có năm *xiềng xích* cao hơn. Năm điều gì? Ham muốn tái sinh trong cõi sắc giới, ham muốn tái sinh trong cõi vô sắc, ngã mạn, *bồn chồn và hối hận*, và vô minh. Đây là năm *xiềng xích* cao hơn.
 
 Năm *năng lực* nên được phát triển để *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri), *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *xiềng xích* cao hơn này. Năm *năng lực* nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, mà dựa vào sự xa lìa, sự phai nhạt, và sự chấm dứt, và chín muồi thành sự buông bỏ.
@@ -831,8 +756,7 @@ Năm *năng lực* này nên được phát triển để *hiểu biết trực 
 <!--pg-->
 ## Một Chương Khác về các Đoạn Kinh Tóm Tắt về Sông Hằng
 
-### SN 48.125--136 Một Bài Khác về Hướng về Phía Đông, v.v. *Punagaṅgāpeyyālavagga*{#125-136}
-
+### SN 48.125--136 Một Bài Khác về Hướng về Phía Đông, v.v. *Punagaṅgāpeyyālavagga* {#125-136}
 "Này các *Tỷ kheo*, sông Hằng nghiêng, dốc, và chảy về phía đông. Tương tự như vậy, một *Tỷ kheo* phát triển và tu dưỡng năm *năng lực* sẽ nghiêng, dốc, và hướng về *sự dập tắt*.
 
 Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, mà đạt đến đỉnh cao trong việc loại bỏ tham, sân, và si. Đó là cách một *Tỷ kheo* phát triển và tu dưỡng năm *năng lực* sẽ nghiêng, dốc, và hướng về *sự dập tắt*."
@@ -846,31 +770,27 @@ Làm thế nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của
 <!--pg-->
 ## Một Chương Khác về Tinh Cần
 
-### SN 48.137--146 Một Chương Khác về Tinh Cần *Punaappamādavagga*{#137-146}
-
+### SN 48.137--146 Một Chương Khác về Tinh Cần *Punaappamādavagga* {#137-146}
 *(Văn bản này chỉ bao gồm tiêu đề. Kể đầy đủ như trong SN 45.139--148, phiên bản loại bỏ tham.)*
 
 
 <!--pg-->
 ## Một Chương Khác về Nỗ Lực
 
-### SN 48.147--158 Một Chương Khác về Nỗ Lực *Punagaṅgāpeyyālavagga*{#147-158}
-
+### SN 48.147--158 Một Chương Khác về Nỗ Lực *Punagaṅgāpeyyālavagga* {#147-158}
 *(Văn bản này chỉ bao gồm tiêu đề. Kể đầy đủ như trong SN 45.149--160, phiên bản loại bỏ tham.)*
 
 
 <!--pg-->
 ## Một Chương Khác về Tìm Kiếm
 
-### SN 48.159--168 Một Chương Khác về Tìm Kiếm *Punaesanāvagga*{#159-168}
-
+### SN 48.159--168 Một Chương Khác về Tìm Kiếm *Punaesanāvagga* {#159-168}
 **(Kể đầy đủ như trong SN 45.161--170, phiên bản loại bỏ tham.)**
 
 <!--pg-->
 ## Một Chương Khác về các Cơn Lũ
 
-### SN 48.169--178 Một Loạt Bài Khác về các Cơn Lũ, v.v. *Punaoghavagga*{#169-178}
-
+### SN 48.169--178 Một Loạt Bài Khác về các Cơn Lũ, v.v. *Punaoghavagga* {#169-178}
 "Này các *Tỷ kheo*, có năm *xiềng xích* cao hơn. Năm điều gì? Ham muốn tái sinh trong cõi sắc giới, ham muốn tái sinh trong cõi vô sắc, ngã mạn, *bồn chồn và hối hận*, và vô minh. Đây là năm *xiềng xích* cao hơn.
 
 Năm *năng lực* nên được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, chấm dứt, và từ bỏ năm *xiềng xích* cao hơn này. Năm *năng lực* nào? Đó là khi một *Tỷ kheo* phát triển *năng lực của* *đức tin*, *nghị lực*, *niệm*, *Định*, và *trí tuệ*, mà đạt đến đỉnh cao trong việc loại bỏ tham, sân, và si.

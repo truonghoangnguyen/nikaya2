@@ -1,7 +1,6 @@
 # Phẩm Về Sự Phụ Thuộc
 
-### AN 11.1 Mục Đích Gì? *Kimatthiyasutta*{#1}
-
+### AN 11.1 Mục Đích Gì? *Kimatthiyasutta* {#1}
 TÔI NGHE NHƯ VẦY. Một thời Thế Tôn trú gần
 Sāvatthī, tại Kỳ Viên, tu viện của ông Anāthapiṇḍika
 (Cấp Cô Độc).
@@ -53,8 +52,7 @@ và bạch rằng:
 Vậy nên, Ānanda, mục đích và lợi ích của *thiện giới* là không hối hận. *Hân hoan* là mục đích và lợi ích của không hối hận. *Niềm vui* là mục đích và lợi ích của *hân hoan*. *Khinh an* là mục đích và lợi ích của *niềm vui*. *An lạc* là mục đích và lợi ích của *khinh an*. *Định* là mục đích và lợi ích của *an lạc*. *Tri kiến như thật* là mục đích và lợi ích của *định*. *Nhàm chán* là mục đích và lợi ích của *tri kiến như thật*. *Ly tham* là mục đích và lợi ích của *nhàm chán*. Và *tri kiến giải thoát* là mục đích và lợi ích của *ly tham*. Vậy nên, Ānanda, *thiện giới* tuần tự đưa dần lên đến mục tiêu tối thượng."
 
 <!--pg-->
-### AN 11.2 Ước Nguyện *Cetanākaraṇīyasutta*{#2}
-
+### AN 11.2 Ước Nguyện *Cetanākaraṇīyasutta* {#2}
 "Này các *Tỳ khưu* (mendicants / vị khất sĩ, tu sĩ Phật giáo nam), người có *giới đức* (ethical conduct / hành vi đạo đức), đã hoàn thiện *giới đức*, không
 cần phải ước nguyện: 'Mong rằng tôi không hối hận!' Điều tự nhiên là người có *giới đức* thì không hối hận.
 
@@ -88,8 +86,7 @@ Khi *ly tham*, vị ấy không cần phải ước nguyện: 'Mong rằng tôi 
 Và như vậy, này các Tỳ khưu, *tri kiến giải thoát* là mục đích và lợi ích của *ly tham*. *Ly tham* là mục đích và lợi ích của *nhàm chán*. *Nhàm chán* là mục đích và lợi ích của *tri kiến như thật*. *Tri kiến như thật* là mục đích và lợi ích của *định*. *Định* là mục đích và lợi ích của *an lạc*. *An lạc* là mục đích và lợi ích của *khinh an*. *Khinh an* là mục đích và lợi ích của *niềm vui*. *Niềm vui* là mục đích và lợi ích của *hân hoan*. *Hân hoan* là mục đích và lợi ích của không hối hận. Không hối hận là mục đích và lợi ích của *thiện giới*. Và như vậy, này các Tỳ khưu, các thiện pháp tuần tự tiếp nối và làm viên mãn lẫn nhau, để đi từ *bờ bên này* (near shore / bờ sinh tử luân hồi) đến *bờ bên kia* (far shore / bờ Niết-bàn, giải thoát)."
 
 <!--pg-->
-### AN 11.3 Điều Kiện Hỗ Trợ (Thứ Nhất) *Paṭhamaupanisāsutta*{#3}
-
+### AN 11.3 Điều Kiện Hỗ Trợ (Thứ Nhất) *Paṭhamaupanisāsutta* {#3}
 "Này các Tỳ khưu, người không có *giới đức*, thiếu *giới đức*, đã phá hủy một *upanisā* (vital condition / điều kiện hỗ trợ, nhân duyên gần) cho việc không hối hận. Khi có hối hận, người có hối hận đã phá hủy một điều kiện hỗ trợ cho *hân hoan*. Khi không có *hân hoan*, người thiếu *hân hoan* đã phá hủy một điều kiện hỗ trợ cho *niềm vui*. Khi không có *niềm vui*, người thiếu *niềm vui* đã phá hủy một điều kiện hỗ trợ cho *khinh an*. Khi không có *khinh an*, người thiếu *khinh an* đã phá hủy một điều kiện hỗ trợ cho *an lạc*. Khi không có *an lạc*, người thiếu *an lạc* đã phá hủy một điều kiện hỗ trợ cho *chánh định* (right immersion / *sammāsamādhi*, sự định tâm chân chính). Khi không có *chánh định*, người thiếu *chánh định* đã phá hủy một điều kiện hỗ trợ cho *tri kiến như thật*. Khi không có *tri kiến như thật*, người thiếu *tri kiến như thật* đã phá hủy một điều kiện hỗ trợ cho *nhàm chán*. Khi không có *nhàm chán*, người thiếu *nhàm chán* đã phá hủy một điều kiện hỗ trợ cho *ly tham*. Khi không có *ly tham*, người thiếu *ly tham* đã phá hủy một điều kiện hỗ trợ cho *tri kiến giải thoát*.
 
 Ví như một cái cây thiếu cành lá. *Chồi non*, *vỏ ngoài*, *giác cây* (softwood / phần gỗ mềm bên ngoài lõi), và *lõi cây* (heartwood / phần gỗ cứng ở trung tâm) của nó sẽ không phát triển viên mãn.
@@ -103,8 +100,7 @@ Ví như một cái cây đầy đủ cành lá. *Chồi non*, *vỏ ngoài*, *g
 Cũng vậy, người có *giới đức*, đã hoàn thiện *giới đức*, đã hoàn thiện một điều kiện hỗ trợ cho việc không hối hận. Khi không có hối hận, người không hối hận đã hoàn thiện một điều kiện hỗ trợ cho *hân hoan*. ... Khi có *ly tham*, người đã hoàn thiện *ly tham* đã hoàn thiện một điều kiện hỗ trợ cho *tri kiến giải thoát*."
 
 <!--pg-->
-### AN 11.4 Điều Kiện Hỗ Trợ (Thứ Hai) *Dutiyaupanisāsutta*{#4}
-
+### AN 11.4 Điều Kiện Hỗ Trợ (Thứ Hai) *Dutiyaupanisāsutta* {#4}
 Khi ấy Tôn giả Sāriputta (Xá Lợi Phất) nói với các Tỳ khưu:
 "Thưa các Hiền giả Tỳ khưu!"
 
@@ -123,8 +119,7 @@ Ví như một cái cây đầy đủ cành lá. *Chồi non*, *vỏ ngoài*, *g
 Cũng vậy, người có *giới đức*, đã hoàn thiện *giới đức*, đã hoàn thiện một điều kiện hỗ trợ cho việc không hối hận. Khi không có hối hận, người không hối hận đã hoàn thiện một điều kiện hỗ trợ cho *hân hoan*. ... Khi có *ly tham*, người đã hoàn thiện *ly tham* đã hoàn thiện một điều kiện hỗ trợ cho *tri kiến giải thoát*."
 
 <!--pg-->
-### AN 11.5 Điều Kiện Hỗ Trợ (Thứ Ba) *Tatiyaupanisāsutta*{#5}
-
+### AN 11.5 Điều Kiện Hỗ Trợ (Thứ Ba) *Tatiyaupanisāsutta* {#5}
 Khi ấy Tôn giả Ānanda nói với các Tỳ khưu ...
 
 "Người không có *giới đức*, thiếu *giới đức*, đã phá hủy một điều kiện hỗ trợ cho việc không hối hận. Khi có hối hận, người có hối hận đã phá hủy một điều kiện hỗ trợ cho *hân hoan*. Khi không có *hân hoan*, người thiếu *hân hoan* đã phá hủy một điều kiện hỗ trợ cho *niềm vui*. Khi không có *niềm vui*, người thiếu *niềm vui* đã phá hủy một điều kiện hỗ trợ cho *khinh an*. Khi không có *khinh an*, người thiếu *khinh an* đã phá hủy một điều kiện hỗ trợ cho *an lạc*. Khi không có *an lạc*, người thiếu *an lạc* đã phá hủy một điều kiện hỗ trợ cho *chánh định*. Khi không có *chánh định*, người thiếu *chánh định* đã phá hủy một điều kiện hỗ trợ cho *tri kiến như thật*. Khi không có *tri kiến như thật*, người thiếu *tri kiến như thật* đã phá hủy một điều kiện hỗ trợ cho *nhàm chán*. Khi không có *nhàm chán*, người thiếu *nhàm chán* đã phá hủy một điều kiện hỗ trợ cho *ly tham*. Khi không có *ly tham*, người thiếu *ly tham* đã phá hủy một điều kiện hỗ trợ cho *tri kiến giải thoát*.
@@ -140,8 +135,7 @@ Ví như một cái cây đầy đủ cành lá. *Chồi non*, *vỏ ngoài*, *g
 Cũng vậy, người có *giới đức*, đã hoàn thiện *giới đức*, đã hoàn thiện một điều kiện hỗ trợ cho việc không hối hận. Khi không có hối hận, người không hối hận đã hoàn thiện một điều kiện hỗ trợ cho *hân hoan*. ... Khi có *ly tham*, người đã hoàn thiện *ly tham* đã hoàn thiện một điều kiện hỗ trợ cho *tri kiến giải thoát*."
 
 <!--pg-->
-### AN 11.6 Tai Họa *Byasanasutta*{#6}
-
+### AN 11.6 Tai Họa *Byasanasutta* {#6}
 "Này các Tỳ khưu, bất kỳ Tỳ khưu nào mắng nhiếc và phỉ báng bạn đồng tu, chê bai các *ariya* (noble ones / các bậc Thánh nhân), chắc chắn sẽ rơi vào một trong mười một tai họa này. Mười một tai họa đó là gì?
 
 Vị ấy không đạt được những gì chưa đạt được. Những gì đã đạt được thì bị suy giảm. Các thiện pháp của vị ấy không được trau dồi. Vị ấy đánh giá quá cao các thiện pháp của mình. Hoặc vị ấy sống đời phạm hạnh không hài lòng. Hoặc vị ấy phạm phải một tội lỗi xấu xa. Hoặc vị ấy từ bỏ việc tu học và trở lại đời sống thấp kém. Hoặc vị ấy mắc phải bệnh nặng. Hoặc vị ấy trở nên điên loạn, mất trí. Vị ấy mê muội khi lâm chung. Và sau khi thân hoại mạng chung, vị ấy tái sinh vào *apāya* (place of loss / cõi khổ, đọa xứ), *duggati* (bad place / ác thú, nơi đến xấu), *vinipāta* (underworld / nơi sa đọa), *niraya* (hell / địa ngục).
@@ -155,8 +149,7 @@ Vị ấy không đạt được những gì chưa đạt được. Những gì 
 Bất kỳ Tỳ khưu nào không mắng nhiếc và phỉ báng bạn đồng tu, không chê bai các bậc Thánh, chắc chắn sẽ không rơi vào một trong mười một tai họa này."
 
 <!--pg-->
-### AN 11.7 Người Có Nhận Thức *Saññāsutta*{#7}
-
+### AN 11.7 Người Có Nhận Thức *Saññāsutta* {#7}
 Khi ấy, Tôn giả Ānanda đến gặp Thế Tôn, sau khi đảnh lễ, liền ngồi xuống một bên
 và bạch rằng:
 
@@ -186,8 +179,7 @@ Và rồi Ānanda tán đồng và hoan hỷ với những gì Thế Tôn nói. 
 Sāriputta. Thật không thể tin được, thật kỳ diệu! Ý nghĩa và văn cú của bậc Đạo sư và đệ tử lại khớp nhau và đồng nhất không mâu thuẫn khi nói về vấn đề chính yếu!"
 
 <!--pg-->
-### AN 11.8 Sự Chú Tâm *Manasikārasutta*{#8}
-
+### AN 11.8 Sự Chú Tâm *Manasikārasutta* {#8}
 Khi ấy, Tôn giả Ānanda đến gặp Thế Tôn, sau khi đảnh lễ, liền ngồi xuống một bên
 và bạch rằng:
 
@@ -202,8 +194,7 @@ và bạch rằng:
 Đó là cách một vị Tỳ khưu có thể đạt được một trạng thái *định* như thế này. Vị ấy sẽ không *tác ý* đến mắt hay các đối tượng của mắt, tai hay các đối tượng của tai, mũi hay các đối tượng của mũi, lưỡi hay các đối tượng của lưỡi, hay thân hay các đối tượng của thân. ... Và vị ấy sẽ không *tác ý* đến những gì được thấy, nghe, suy nghĩ, biết, đạt được, tìm cầu, hay được tâm ý quán sát. Tuy vậy vị ấy vẫn *tác ý*."
 
 <!--pg-->
-### AN 11.9 Với Sandha *Saddhasutta*{#9}
-
+### AN 11.9 Với Sandha *Saddhasutta* {#9}
 Một thời Thế Tôn trú tại Ñātika, trong *gạch đường* (brick hall / giảng đường bằng gạch).
 
 Khi ấy, Tôn giả Sandha đến gặp Thế Tôn, đảnh lễ, và ngồi xuống một bên. Thế Tôn nói với Tôn giả:
@@ -237,8 +228,7 @@ Khi một người thuần thục như ngựa quý thiền quán như thế này
 > *Nền tảng *thiền* của Ngài.*'"
 
 <!--pg-->
-### AN 11.10 Tại Nơi Nuôi Công *Moranivāpasutta*{#10}
-
+### AN 11.10 Tại Nơi Nuôi Công *Moranivāpasutta* {#10}
 Một thời Thế Tôn trú gần *thành Vương Xá* (Rājagaha), tại *tu viện của các du sĩ ngoại đạo ở nơi nuôi công (Moranivāpa)*. Ở đó, Thế Tôn nói với các Tỳ khưu: "Này các Tỳ khưu!"
 
 "Bạch Thế Tôn," họ đáp. Thế Tôn nói điều này:

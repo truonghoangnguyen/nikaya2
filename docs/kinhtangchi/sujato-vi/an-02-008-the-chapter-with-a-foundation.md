@@ -1,7 +1,6 @@
 # Phẩm Có Cơ Sở
 
-### AN 2.77--86 *Phẩm Sanimitta*{#77-86}
-
+### AN 2.77--86 *Phẩm Sanimitta* {#77-86}
 77\. "Này các Tỳ kheo, các *bất thiện pháp* (bad, unskillful qualities / những trạng thái tâm xấu, không tốt) sinh khởi có *cơ sở* (basis / nền tảng), không phải không có cơ sở. Do từ bỏ cơ sở ấy, các bất thiện pháp ấy không hiện hữu."
 
 <!--pg-->

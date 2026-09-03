@@ -1,7 +1,6 @@
 # Phẩm Về Tiếng Rống Sư Tử
 
-### AN 9.11 Tiếng Rống Sư Tử của Sāriputta *Sīhanādasutta*{#11}
-
+### AN 9.11 Tiếng Rống Sư Tử của Sāriputta *Sīhanādasutta* {#11}
 Một thời Thế Tôn trú gần Sāvatthī, tại Jetavana, khu vườn của ông Anāthapiṇḍika.
 
 Khi ấy, Tôn giả Sāriputta đến đảnh lễ Thế Tôn, ngồi xuống một bên và bạch rằng: "Bạch Thế Tôn, con đã hoàn tất kỳ *an cư mùa mưa* (rainy season residence / hạ an cư, kỳ nhập hạ) tại Sāvatthī. Con muốn ra đi để du hành trong xứ."
@@ -51,8 +50,7 @@ Rồi Thế Tôn nói với Tôn giả Sāriputta: "Này Sāriputta, hãy tha th
 "Con sẽ tha thứ cho vị tôn giả ấy nếu vị ấy thỉnh cầu con: ‘Mong Tôn giả cũng hãy tha thứ cho tôi.’"
 
 <!--pg-->
-### AN 9.12 Với Dư Y *Saupādisesasutta*{#12}
-
+### AN 9.12 Với Dư Y *Saupādisesasutta* {#12}
 Một thời Thế Tôn trú gần Sāvatthī, tại Jetavana, khu vườn của ông Anāthapiṇḍika.
 
 Khi ấy, Tôn giả Sāriputta vào buổi sáng đắp y, mang bát và y, vào Sāvatthī để khất thực. Rồi Tôn giả nghĩ: "Còn quá sớm để đi khất thực ở Sāvatthī. Sao ta không đến tu viện của các du sĩ ngoại đạo?" Rồi Tôn giả đến tu viện của các du sĩ ngoại đạo và chào hỏi các du sĩ ở đó. Sau khi chào hỏi và nói chuyện xã giao xong, Tôn giả ngồi xuống một bên.
@@ -92,8 +90,7 @@ Những du sĩ ngu si, bất tài theo các tôn giáo khác kia: họ là ai m�
 Cho đến nay, này Sāriputta, Ta chưa thấy cần thiết phải giảng giải giáo pháp này cho các Tỳ kheo, Tỳ kheo ni, nam cư sĩ, và nữ cư sĩ. Tại sao vậy? Vì Ta không muốn những người nghe nó lại sinh tâm *sao nhãng* (negligence / *phóng dật*, sự lơ là, không chú tâm). Tuy nhiên, Ta đã nói ra điều này để trả lời câu hỏi của Thầy."
 
 <!--pg-->
-### AN 9.13 Với Koṭṭhita *Koṭṭhikasutta*{#13}
-
+### AN 9.13 Với Koṭṭhita *Koṭṭhikasutta* {#13}
 Khi ấy, Tôn giả Mahākoṭṭhita đến gặp Tôn giả Sāriputta, và chào hỏi Tôn giả. Sau khi chào hỏi và nói chuyện xã giao xong, Tôn giả ngồi xuống một bên và nói với Tôn giả Sāriputta:
 
 "Thưa Tôn giả Sāriputta, có phải đời sống phạm hạnh dưới sự hướng dẫn của Đức Phật là vì mục đích này: ‘Mong sao những nghiệp sẽ được cảm nghiệm trong đời này lại được tôi cảm nghiệm trong các đời sau’?"
@@ -163,8 +160,7 @@ Khi được hỏi liệu đời sống phạm hạnh có phải được sống
 "‘Đây là khổ.’ ... ‘Đây là nguồn gốc của khổ.’ ... ‘Đây là sự diệt khổ.’ ... ‘Đây là con đường đưa đến sự diệt khổ.’ ... Đây là những gì chưa được biết, chưa được thấy, chưa đạt được, chưa chứng ngộ, và chưa liễu tri. Đời sống phạm hạnh được sống dưới sự hướng dẫn của Đức Phật là để biết, thấy, đạt được, chứng ngộ, và liễu tri điều này."
 
 <!--pg-->
-### AN 9.14 Với Samiddhi *Samiddhisutta*{#14}
-
+### AN 9.14 Với Samiddhi *Samiddhisutta* {#14}
 Khi ấy, Tôn giả Samiddhi đến gặp Tôn giả Sāriputta, đảnh lễ và ngồi xuống một bên. Tôn giả Sāriputta nói với Tôn giả:
 
 "Này Samiddhi, dựa vào đâu mà các tư tưởng khởi lên trong một người?"
@@ -206,27 +202,23 @@ Khi ấy, Tôn giả Samiddhi đến gặp Tôn giả Sāriputta, đảnh lễ v
 "Này Samiddhi, khi được hỏi dựa vào đâu mà các tư tưởng khởi lên trong một người, Thầy đã trả lời ‘danh và sắc’. Khi được hỏi ... đỉnh cao của chúng là gì, Thầy đã trả lời ‘bất tử’. Tốt lắm, tốt lắm, Samiddhi! Thật tốt khi Thầy đã trả lời từng câu hỏi. Nhưng đừng vì thế mà kiêu mạn."
 
 <!--pg-->
-### AN 9.15 Thí Dụ Về Cái Nhọt *Gaṇḍasutta*{#15}
-
+### AN 9.15 Thí Dụ Về Cái Nhọt *Gaṇḍasutta* {#15}
 "Này các Tỳ kheo, giả sử có một cái nhọt đã nhiều năm tuổi. Và cái nhọt đó có chín lỗ hở là những vết thương hở liên tục. Bất cứ thứ gì rỉ ra từ đó đều dơ bẩn, hôi thối, và đáng ghê tởm. Bất cứ thứ gì chảy ra từ đó đều dơ bẩn, hôi thối, và đáng ghê tởm.
 
 ‘Cái nhọt’ là một thuật ngữ chỉ cái thân này được tạo thành từ *tứ đại* (four principal states / bốn yếu tố chính: đất, nước, lửa, gió), do cha mẹ sinh ra, được nuôi dưỡng bằng cơm cháo, chịu sự vô thường, sự mài mòn và bào mòn, sự tan rã và hủy diệt. Và cái nhọt đó có chín lỗ hở là những vết thương hở liên tục. Bất cứ thứ gì rỉ ra từ đó đều dơ bẩn, hôi thối, và đáng ghê tởm. Bất cứ thứ gì chảy ra từ đó đều dơ bẩn, hôi thối, và đáng ghê tởm. Vì vậy, này các Tỳ kheo, đừng có ảo tưởng về thân này."
 
 <!--pg-->
-### AN 9.16 Các Nhận Thức *Saññāsutta*{#16}
-
+### AN 9.16 Các Nhận Thức *Saññāsutta* {#16}
 "Này các Tỳ kheo, chín *nhận thức* (perceptions / *tưởng*, nhận biết-phân biệt và gắn nhãn) này, khi được tu tập và làm cho sung mãn, thì rất có kết quả và lợi ích lớn. Chúng đạt đến đỉnh cao là bất tử và kết thúc trong bất tử. Chín nhận thức nào? Nhận thức về sự bất tịnh, về cái chết, về sự ghê tởm của thức ăn, về sự không hài lòng với toàn thế giới, về vô thường, về khổ trong vô thường, về vô ngã trong khổ, về sự từ bỏ, và về sự phai nhạt. Chín nhận thức này, khi được tu tập và làm cho sung mãn, thì rất có kết quả và lợi ích lớn. Chúng đạt đến đỉnh cao là bất tử và kết thúc trong bất tử."
 
 <!--pg-->
-### AN 9.17 Các Gia Đình *Kulasutta*{#17}
-
+### AN 9.17 Các Gia Đình *Kulasutta* {#17}
 "Này các Tỳ kheo, thăm một gia đình có chín yếu tố thì không đáng giá, hoặc nếu quý vị đã đến rồi, thì ngồi xuống cũng không đáng giá. Chín yếu tố nào? Họ không lịch sự đứng dậy, cúi chào, hay mời ngồi. Họ giấu giếm những gì họ có. Ngay cả khi có nhiều, họ cũng cho ít. Ngay cả khi có đồ tốt, họ cũng cho đồ thô. Họ cho một cách cẩu thả, không cẩn thận. Họ không ngồi gần để nghe pháp. Khi quý vị nói, họ không lắng nghe kỹ. Thăm một gia đình có chín yếu tố này thì không đáng giá, hoặc nếu quý vị đã đến rồi, thì ngồi xuống cũng không đáng giá.
 
 Thăm một gia đình có chín yếu tố thì đáng giá, hoặc nếu quý vị đã đến rồi, thì ngồi xuống cũng đáng giá. Chín yếu tố nào? Họ lịch sự đứng dậy, cúi chào, và mời ngồi. Họ không giấu giếm những gì họ có. Khi có nhiều, họ cho nhiều. Khi có đồ tinh tế, họ cho đồ tinh tế. Họ cho một cách cẩn thận, không cẩu thả. Họ ngồi gần để nghe pháp. Khi quý vị nói, họ lắng nghe kỹ. Thăm một gia đình có chín yếu tố này thì đáng giá, hoặc nếu quý vị đã đến rồi, thì ngồi xuống cũng đáng giá."
 
 <!--pg-->
-### AN 9.18 Ngày Trai Giới Với Chín Yếu Tố *Navaṅguposathasutta*{#18}
-
+### AN 9.18 Ngày Trai Giới Với Chín Yếu Tố *Navaṅguposathasutta* {#18}
 "Này các Tỳ kheo, việc giữ *ngày trai giới* (Sabbath / Uposatha, ngày thực hành các giới luật đặc biệt) với chín yếu tố của nó thì rất có kết quả và lợi ích lớn, huy hoàng và dồi dào. Và nên giữ như thế nào?
 
 Đó là khi một vị Thánh đệ tử suy ngẫm: ‘Cho đến khi còn sống, các bậc A-la-hán từ bỏ sát sinh, từ bỏ gậy và kiếm. Các ngài cẩn trọng và tử tế, và sống đầy lòng trắc ẩn đối với tất cả chúng sinh. Con cũng vậy, trong ngày và đêm này sẽ từ bỏ sát sinh, từ bỏ gậy và kiếm. Con sẽ cẩn trọng và tử tế, và sống đầy lòng trắc ẩn đối với tất cả chúng sinh. Con sẽ giữ ngày trai giới bằng cách làm theo các bậc A-la-hán trong phương diện này.’ Đây là yếu tố thứ nhất của nó. ...
@@ -238,8 +230,7 @@ Họ thiền định, lan tỏa tâm từ đến một phương, rồi đến ph
 Việc giữ ngày trai giới với chín yếu tố theo cách này thì rất có kết quả và lợi ích lớn, huy hoàng và dồi dào."
 
 <!--pg-->
-### AN 9.19 Một Vị Trời *Devatāsutta*{#19}
-
+### AN 9.19 Một Vị Trời *Devatāsutta* {#19}
 "Này các Tỳ kheo, đêm nay, một vài vị thiên nhân rực rỡ, chiếu sáng toàn bộ Kỳ Viên Tịnh Xá, đã đến gặp Ta, đảnh lễ, đứng sang một bên, và nói với Ta: ‘Bạch Thế Tôn, trước kia khi chúng con còn là người, những người xuất gia đã đến nhà chúng con. Chúng con đã lịch sự đứng dậy chào đón họ, nhưng chúng con đã không cúi đầu. Và vì vậy, vì không hoàn thành phận sự của mình, đầy hối hận và tiếc nuối, chúng con đã tái sinh vào một cõi thấp hơn.’
 
 Rồi một vài vị thiên nhân khác đến gặp Ta và nói: ‘Bạch Thế Tôn, trước kia khi chúng con còn là người, những người xuất gia đã đến nhà chúng con. Chúng con đã lịch sự đứng dậy chào đón họ và cúi đầu, nhưng chúng con đã không mời ngồi. Và vì vậy, vì không hoàn thành phận sự của mình, đầy hối hận và tiếc nuối, chúng con đã tái sinh vào một cõi thấp hơn.’
@@ -261,8 +252,7 @@ Rồi một vài vị thiên nhân khác đến gặp Ta và nói: ‘Bạch Th�
 Này các Tỳ kheo, đây là những gốc cây, và đây là những căn lều trống. Hãy thực hành thiền định, này các Tỳ kheo! Đừng sao nhãng! Đừng hối tiếc sau này, như những vị thiên nhân trước kia."
 
 <!--pg-->
-### AN 9.20 Về Velāma *Velāmasutta*{#20}
-
+### AN 9.20 Về Velāma *Velāmasutta* {#20}
 Một thời Thế Tôn trú gần Sāvatthī, tại Jetavana, khu vườn của ông Anāthapiṇḍika. Khi ấy, gia chủ Anāthapiṇḍika đến đảnh lễ Thế Tôn và ngồi xuống một bên. Thế Tôn nói với ông: "Này gia chủ, Ta tự hỏi liệu gia đình ông có cúng dường bố thí không?"
 
 "Có, bạch Thế Tôn. Nhưng chỉ là cháo loãng thô với dưa muối."

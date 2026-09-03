@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương Về Nơi Vắng Vẻ
 
-### SN 52.1 Nơi Vắng Vẻ (Thứ nhất) *Paṭhamarahogatasutta*{#1}
-
+### SN 52.1 Nơi Vắng Vẻ (Thứ nhất) *Paṭhamarahogatasutta* {#1}
 Như vầy tôi nghe. Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika. Khi ấy, trong lúc Tôn giả Anuruddha đang độc cư, một ý nghĩ nảy lên trong tâm ngài:
 
 "Ai bỏ lỡ *bốn niệm xứ* (the four kinds of mindfulness meditation / cattāro satipaṭṭhānā / *tứ niệm xứ* / bốn chủ đề để thực hành sự quan sát và ghi nhớ) này là đã bỏ lỡ con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau. Ai đã thực hành *bốn niệm xứ* này là đã thực hành con đường cao quý dẫn đến sự chấm dứt hoàn toàn khổ đau."
@@ -28,8 +27,7 @@ Nếu vị ấy muốn: ‘Mong rằng tôi sẽ an trú nhận thức cái bấ
 Đó là cách định nghĩa việc thực hành *bốn niệm xứ* của một *Tỷ kheo*."
 
 <!--pg-->
-### SN 52.2 Nơi Vắng Vẻ (Thứ hai) *Dutiyarahogatasutta*{#2}
-
+### SN 52.2 Nơi Vắng Vẻ (Thứ hai) *Dutiyarahogatasutta* {#2}
 Tại Sāvatthī.
 
 Khi ấy, trong lúc Tôn giả Anuruddha đang độc cư, một ý nghĩ nảy lên trong tâm ngài:
@@ -49,8 +47,7 @@ Vị ấy *an trú quan sát một khía cạnh của tâm trên tâm* bên tron
 Vị ấy *an trú quan sát một khía cạnh của pháp trên pháp* bên trong... bên ngoài... cả bên trong và bên ngoài—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Đó là cách định nghĩa việc thực hành *bốn niệm xứ* của một *Tỷ kheo*."
 
 <!--pg-->
-### SN 52.3 Bên Bờ Sông Sutanu *Sutanusutta*{#3}
-
+### SN 52.3 Bên Bờ Sông Sutanu *Sutanusutta* {#3}
 Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, bên bờ sông Sutanu. Khi ấy, một vài vị *Tỷ kheo* đến gặp Tôn giả Anuruddha và chào hỏi ngài. Sau khi chào hỏi và trò chuyện thân mật, họ ngồi xuống một bên và nói với ngài:
 
 "Tôn giả Anuruddha đã phát triển và tu tập những điều gì để đạt được sự *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri) vĩ đại?"
@@ -60,8 +57,7 @@ Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, bên bờ sông Su
 Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi đã trực tiếp biết cõi thấp là cõi thấp, cõi trung là cõi trung, và cõi cao là cõi cao."
 
 <!--pg-->
-### SN 52.4 Tại Rừng Gai (Thứ nhất) *Paṭhamakaṇḍakīsutta*{#4}
-
+### SN 52.4 Tại Rừng Gai (Thứ nhất) *Paṭhamakaṇḍakīsutta* {#4}
 Một thời, các Tôn giả Anuruddha, Sāriputta, và Mahāmoggallāna đang ở gần Sāketa, trong Rừng Gai. Chiều hôm đó, Tôn giả Sāriputta và Mahāmoggallāna ra khỏi nơi độc cư, đến gặp Tôn giả Anuruddha và chào hỏi ngài. Sau khi chào hỏi và trò chuyện thân mật, họ ngồi xuống một bên. Tôn giả Sāriputta nói với Tôn giả Anuruddha:
 
 "Thưa Tôn giả Anuruddha, một vị Tỷ kheo hữu học nên nhập và an trú vào những điều gì?"
@@ -69,8 +65,7 @@ Một thời, các Tôn giả Anuruddha, Sāriputta, và Mahāmoggallāna đang 
 "Thưa Tôn giả Sāriputta, một vị Tỷ kheo hữu học nên nhập và an trú vào *bốn niệm xứ*. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Vị ấy *an trú quan sát một khía cạnh của cảm giác trên cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Một vị Tỷ kheo hữu học nên nhập và an trú vào *bốn niệm xứ* này."
 
 <!--pg-->
-### SN 52.5 Tại Rừng Gai (Thứ hai) *Dutiyakaṇḍakīsutta*{#5}
-
+### SN 52.5 Tại Rừng Gai (Thứ hai) *Dutiyakaṇḍakīsutta* {#5}
 Tại Sāketa. Tôn giả Sāriputta nói với Tôn giả Anuruddha:
 
 "Thưa Tôn giả Anuruddha, một vị *Tỷ kheo* đã là bậc vô học nên nhập và an trú vào những điều gì?"
@@ -78,8 +73,7 @@ Tại Sāketa. Tôn giả Sāriputta nói với Tôn giả Anuruddha:
 "Thưa Tôn giả Sāriputta, một vị *Tỷ kheo* đã là bậc vô học nên nhập và an trú vào *bốn niệm xứ*. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Vị ấy *an trú quan sát một khía cạnh của cảm giác trên cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Một vị *Tỷ kheo* đã là bậc vô học nên nhập và an trú vào *bốn niệm xứ* này."
 
 <!--pg-->
-### SN 52.6 Tại Rừng Gai (Thứ ba) *Tatiyakaṇḍakīsutta*{#6}
-
+### SN 52.6 Tại Rừng Gai (Thứ ba) *Tatiyakaṇḍakīsutta* {#6}
 Tại Sāketa. Tôn giả Sāriputta nói với Tôn giả Anuruddha:
 
 "Tôn giả Anuruddha đã phát triển và tu tập những điều gì để đạt được sự *hiểu biết trực tiếp* vĩ đại?"
@@ -89,8 +83,7 @@ Tại Sāketa. Tôn giả Sāriputta nói với Tôn giả Anuruddha:
 Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi trực tiếp biết được hệ một ngàn thiên hà."
 
 <!--pg-->
-### SN 52.7 Sự Chấm Dứt Ái Dục *Taṇhākkhayasutta*{#7}
-
+### SN 52.7 Sự Chấm Dứt Ái Dục *Taṇhākkhayasutta* {#7}
 Tại Sāvatthī.
 
 Tại đó, Tôn giả Anuruddha nói với các vị *Tỷ kheo*: "Này các Tôn giả, các *Tỷ kheo*!"
@@ -100,8 +93,7 @@ Tại đó, Tôn giả Anuruddha nói với các vị *Tỷ kheo*: "Này các T�
 "Này các Tôn giả, khi *bốn niệm xứ* này được phát triển và tu tập, chúng sẽ dẫn đến sự chấm dứt ái dục. Bốn điều đó là gì? Đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân*... *cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Khi *bốn niệm xứ* này được phát triển và tu tập, chúng sẽ dẫn đến sự chấm dứt ái dục."
 
 <!--pg-->
-### SN 52.8 Cốc Cây Trầm Hương *Salaḷāgārasutta*{#8}
-
+### SN 52.8 Cốc Cây Trầm Hương *Salaḷāgārasutta* {#8}
 Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, trong cốc cây trầm hương. Tại đó, Tôn giả Anuruddha nói với các vị *Tỷ kheo*: "Này các Tôn giả, giả sử sông Hằng chảy nghiêng, dốc và xuôi về phía đông, rồi một đám đông lớn mang theo cuốc và thúng đến, nói rằng: ‘Chúng ta sẽ làm cho sông Hằng này chảy nghiêng, dốc và xuôi về phía tây!’ Các Tôn giả nghĩ sao? Liệu họ có thành công không?"
 
 "Thưa không, Tôn giả. Tại sao vậy? Sông Hằng vốn chảy nghiêng, dốc và xuôi về phía đông. Không dễ gì làm cho nó chảy nghiêng, dốc và xuôi về phía tây. Đám đông lớn đó cuối cùng sẽ mệt mỏi và nản lòng."
@@ -113,8 +105,7 @@ Hoàn toàn không thể có chuyện một *Tỷ kheo* đang phát triển và 
 Và một *Tỷ kheo* phát triển và tu tập *bốn niệm xứ* như thế nào? Đó là khi một *Tỷ kheo* *an trú quan sát một khía cạnh của thân trên thân*... *cảm giác*... *tâm*... *pháp*—nhiệt tâm, tỉnh giác, và chánh niệm, loại bỏ tham ái và ưu phiền đối với thế gian. Đó là cách một *Tỷ kheo* phát triển và tu tập *bốn niệm xứ*."
 
 <!--pg-->
-### SN 52.9 Trong Vườn Xoài của Ambapālī *Ambapālivanasutta*{#9}
-
+### SN 52.9 Trong Vườn Xoài của Ambapālī *Ambapālivanasutta* {#9}
 Một thời, các Tôn giả Anuruddha và Sāriputta đang ở gần Vesālī, trong Vườn Xoài của Ambapālī. Chiều hôm đó, Tôn giả Sāriputta ra khỏi nơi độc cư, đến gặp Tôn giả Anuruddha và nói:
 
 "Thưa Tôn giả Anuruddha, các giác quan của ngài thật trong sáng, và sắc diện của ngài thật thanh tịnh và rạng rỡ. Dạo này ngài thường thực hành loại thiền định nào?"
@@ -124,8 +115,7 @@ Một thời, các Tôn giả Anuruddha và Sāriputta đang ở gần Vesālī,
 "Chúng tôi thật may mắn, thưa Tôn giả, thật vô cùng may mắn, khi được nghe một lời tuyên bố hùng hồn như vậy trước sự hiện diện của Tôn giả Anuruddha."
 
 <!--pg-->
-### SN 52.10 Bệnh Nặng *Bāḷhagilānasutta*{#10}
-
+### SN 52.10 Bệnh Nặng *Bāḷhagilānasutta* {#10}
 Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, trong Rừng Tối. Và ngài bị bệnh, đau đớn, bệnh rất nặng. Khi ấy, một vài vị *Tỷ kheo* đến gặp Tôn giả Anuruddha và nói với ngài:
 
 "Tôn giả Anuruddha thực hành thiền định nào để những cơn đau thể xác không chiếm lĩnh được tâm trí ngài?"
@@ -135,8 +125,7 @@ Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, trong Rừng Tối
 <!--pg-->
 ## Chương Hai
 
-### SN 52.11 Một Ngàn Kiếp *Kappasahassasutta*{#11}
-
+### SN 52.11 Một Ngàn Kiếp *Kappasahassasutta* {#11}
 Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika. Khi ấy, một vài vị *Tỷ kheo* đến gặp Tôn giả Anuruddha, chào hỏi ngài... và nói:
 
 "Tôn giả Anuruddha đã phát triển và tu tập những điều gì để đạt được sự *hiểu biết trực tiếp* vĩ đại?"
@@ -146,66 +135,53 @@ Một thời Tôn giả Anuruddha đang ở gần Sāvatthī, tại Rừng Jeta,
 Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi nhớ lại được một ngàn kiếp."
 
 <!--pg-->
-### SN 52.12 Các Năng Lực Thần Thông *Iddhividhasutta*{#12}
-
+### SN 52.12 Các Năng Lực Thần Thông *Iddhividhasutta* {#12}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi vận dụng được nhiều loại năng lực thần thông: tự nhân bản thân mình rồi trở lại thành một... điều khiển thân thể cho đến tận cõi Phạm thiên."
 
 <!--pg-->
-### SN 52.13 Thiên Nhĩ Thông *Dibbasotasutta*{#13}
-
+### SN 52.13 Thiên Nhĩ Thông *Dibbasotasutta* {#13}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà, với thiên nhĩ thông thanh tịnh và siêu phàm, tôi nghe được cả hai loại âm thanh, của người và của trời, dù ở gần hay xa."
 
 <!--pg-->
-### SN 52.14 Thấu Hiểu Tâm Trí *Cetopariyasutta*{#14}
-
+### SN 52.14 Thấu Hiểu Tâm Trí *Cetopariyasutta* {#14}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi hiểu được tâm trí của các chúng sanh và cá nhân khác, sau khi đã thấu hiểu chúng bằng tâm trí của mình. Tôi hiểu tâm có tham là ‘tâm có tham’... Tôi hiểu tâm chưa giải thoát là ‘tâm chưa giải thoát’."
 
 <!--pg-->
-### SN 52.15 Điều Có Thể *Ṭhānasutta*{#15}
-
+### SN 52.15 Điều Có Thể *Ṭhānasutta* {#15}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu điều có thể là có thể và điều không thể là không thể."
 
 <!--pg-->
-### SN 52.16 Kết Quả Của Các Hành Động Đã Làm *Kammasamādānasutta*{#16}
-
+### SN 52.16 Kết Quả Của Các Hành Động Đã Làm *Kammasamādānasutta* {#16}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu kết quả của các hành động đã làm trong quá khứ, tương lai và hiện tại về mặt cơ sở và nguyên nhân."
 
 <!--pg-->
-### SN 52.17 Nơi Mọi Con Đường Thực Hành Dẫn Đến *Sabbatthagāminisutta*{#17}
-
+### SN 52.17 Nơi Mọi Con Đường Thực Hành Dẫn Đến *Sabbatthagāminisutta* {#17}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu nơi mọi con đường thực hành dẫn đến."
 
 <!--pg-->
-### SN 52.18 Các Yếu Tố Đa Dạng *Nānādhātusutta*{#18}
-
+### SN 52.18 Các Yếu Tố Đa Dạng *Nānādhātusutta* {#18}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu thế giới với nhiều yếu tố đa dạng của nó."
 
 <!--pg-->
-### SN 52.19 Các Niềm Tin Đa Dạng *Nānādhimuttisutta*{#19}
-
+### SN 52.19 Các Niềm Tin Đa Dạng *Nānādhimuttisutta* {#19}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu các niềm tin đa dạng của chúng sanh."
 
 <!--pg-->
-### SN 52.20 Thấu Hiểu Các Giác Quan Của Người Khác *Indriyaparopariyattasutta*{#20}
-
+### SN 52.20 Thấu Hiểu Các Giác Quan Của Người Khác *Indriyaparopariyattasutta* {#20}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu các giác quan của các chúng sanh khác và các cá nhân khác sau khi đã thấu hiểu chúng bằng tâm trí của mình."
 
 <!--pg-->
-### SN 52.21 Các Tầng Thiền, V.v. *Jhānādisutta*{#21}
-
+### SN 52.21 Các Tầng Thiền, V.v. *Jhānādisutta* {#21}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi thực sự hiểu sự ô nhiễm, sự thanh lọc, và sự xuất khởi liên quan đến các tầng thiền, các sự giải thoát, các trạng thái định, và các sự chứng đắc."
 
 <!--pg-->
-### SN 52.22 Các Đời Sống Quá Khứ *Pubbenivāsasutta*{#22}
-
+### SN 52.22 Các Đời Sống Quá Khứ *Pubbenivāsasutta* {#22}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi nhớ lại được nhiều đời sống quá khứ của mình, với các đặc điểm và chi tiết."
 
 <!--pg-->
-### SN 52.23 Thiên Nhãn Thông *Dibbacakkhusutta*{#23}
-
+### SN 52.23 Thiên Nhãn Thông *Dibbacakkhusutta* {#23}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà, với thiên nhãn thông thanh tịnh và siêu phàm, tôi hiểu được chúng sanh tái sinh như thế nào tùy theo nghiệp của họ."
 
 <!--pg-->
-### SN 52.24 Sự Chấm Dứt Các Ô Nhiễm *Āsavakkhayasutta*{#24}
-
+### SN 52.24 Sự Chấm Dứt Các Ô Nhiễm *Āsavakkhayasutta* {#24}
 "... Và chính nhờ phát triển và tu tập *bốn niệm xứ* này mà tôi đã chứng ngộ sự giải thoát tâm và giải thoát bằng trí tuệ không còn ô nhiễm ngay trong đời này. Và tôi sống sau khi đã tự mình chứng ngộ điều đó bằng tuệ giác của mình nhờ sự chấm dứt các ô nhiễm."

@@ -1,7 +1,6 @@
 # Phẩm về Jānussoṇi
 
-### AN 10.167 Nghi Lễ Hạ Giáng của Bà-la-môn *Brāhmaṇapaccorohaṇīsutta*{#167}
-
+### AN 10.167 Nghi Lễ Hạ Giáng của Bà-la-môn *Brāhmaṇapaccorohaṇīsutta* {#167}
 Khi ấy, nhằm *ngày trai giới* (sabbath / ngày lễ định kỳ để thực hành các nghi lễ tôn giáo hoặc giữ giới). Bà-la-môn Jānussoṇi
 đã gội đầu và vận một cặp y phục bằng vải lanh mới. Tay cầm một nắm cỏ tươi, ông đứng sang một bên không xa Đức Phật.
 
@@ -59,8 +58,7 @@ của nghi lễ hạ giáng được thực hành trong sự tu tập của Bậ
 Thật vi diệu, thưa Tôn giả Gotama, thật vi diệu thay! ... Từ hôm nay trở đi, xin Tôn giả Gotama hãy ghi nhớ con là một *cư sĩ* (lay follower / người Phật tử tại gia tu tập theo giáo pháp) đã *quy y* (gone for refuge / nương tựa vào Tam Bảo: Phật, Pháp, Tăng) trọn đời."
 
 <!--pg-->
-### AN 10.168 Sự Hạ Giáng Cao Quý *Ariyapaccorohaṇīsutta*{#168}
-
+### AN 10.168 Sự Hạ Giáng Cao Quý *Ariyapaccorohaṇīsutta* {#168}
 "Này các *Tỳ-khưu* (mendicants / những vị khất sĩ, tu sĩ Phật giáo đã thọ cụ túc giới), Ta sẽ dạy các con về *sự hạ giáng cao quý* (noble descent / sự từ bỏ các điều ác một cách cao thượng, sự thanh lọc bản thân theo con đường Thánh). Hãy lắng nghe và suy ngẫm kỹ, Ta sẽ nói."
 
 "Vâng, thưa Thế Tôn," họ đáp. Đức Phật nói điều này:
@@ -86,8 +84,7 @@ Thật vi diệu, thưa Tôn giả Gotama, thật vi diệu thay! ... Từ hôm 
 ... ‘Tà kiến có quả báo xấu trong cả đời này và trong các đời sau.’ Suy xét như vậy, họ từ bỏ tà kiến, họ hạ giáng khỏi tà kiến. Đây được gọi là sự hạ giáng cao quý."
 
 <!--pg-->
-### AN 10.169 Với Saṅgārava *Saṅgāravasutta*{#169}
-
+### AN 10.169 Với Saṅgārava *Saṅgāravasutta* {#169}
 Rồi Bà-la-môn Saṅgārava đến gặp Đức Phật, và
 chào hỏi Người. Sau khi chào hỏi và chuyện trò thân mật
 xong, ông ngồi xuống một bên và nói với Đức Phật:
@@ -125,8 +122,7 @@ Tham ái là bờ bên này, và sự không tham ái là bờ bên kia. Tức g
 > họ *tịch diệt Niết-bàn* (quenched / sự dập tắt hoàn toàn mọi khổ đau, phiền não) ngay trong đời này."
 
 <!--pg-->
-### AN 10.170 Bờ Bên Này *Orimasutta*{#170}
-
+### AN 10.170 Bờ Bên Này *Orimasutta* {#170}
 "Này các Tỳ-khưu, Ta sẽ dạy các con về bờ bên này và bờ bên kia. Hãy lắng nghe
 và suy ngẫm kỹ, Ta sẽ nói. ... Và này các Tỳ-khưu, thế nào là
 bờ bên này? Thế nào là bờ bên kia? Sát sanh là bờ bên này, này các Tỳ-khưu, và không sát sanh là bờ bên kia.
@@ -160,8 +156,7 @@ Trộm cắp là bờ bên này, và không trộm cắp là bờ bên kia. Tà 
 > họ tịch diệt Niết-bàn ngay trong đời này."
 
 <!--pg-->
-### AN 10.171 Các Nguyên Tắc Xấu (Thứ Nhất) *Paṭhamaadhammasutta*{#171}
-
+### AN 10.171 Các Nguyên Tắc Xấu (Thứ Nhất) *Paṭhamaadhammasutta* {#171}
 "Này các Tỳ-khưu, các con nên biết các *pháp xấu* (bad principles / những điều, những nguyên tắc không tốt, dẫn đến khổ đau) cùng với các *quả xấu* (bad results / kết quả không tốt đẹp từ hành động bất thiện). Và các con
 nên biết các *pháp tốt* (good principles / những điều, những nguyên tắc tốt, dẫn đến an vui) cùng với các *quả tốt* (good results / kết quả tốt đẹp từ hành động thiện lành). Biết những điều này, sự thực hành của các con nên theo các pháp tốt cùng với các quả tốt.
 
@@ -179,8 +174,7 @@ các pháp tốt cùng với các quả tốt. Biết những điều này, sự
 nên theo các pháp tốt cùng với các quả tốt.’ Đó là những gì Ta đã nói, và đây là lý do vì sao Ta nói vậy."
 
 <!--pg-->
-### AN 10.172 Các Nguyên Tắc Xấu (Thứ Hai) *Dutiyaadhammasutta*{#172}
-
+### AN 10.172 Các Nguyên Tắc Xấu (Thứ Hai) *Dutiyaadhammasutta* {#172}
 "Này các Tỳ-khưu, các con nên biết các pháp xấu và các pháp tốt. Và các con
 nên biết các quả xấu và các quả tốt. Biết những điều này, sự thực hành của các con nên theo các pháp tốt cùng với các quả tốt."
 
@@ -276,8 +270,7 @@ theo cách này, với những lời lẽ và cụm từ này."
 hoàn toàn giống như Mahākaccāna. Đó chính là ý nghĩa, và các con nên ghi nhớ như vậy."
 
 <!--pg-->
-### AN 10.173 Các Nguyên Tắc Xấu (Thứ Ba) *Tatiyaadhammasutta*{#173}
-
+### AN 10.173 Các Nguyên Tắc Xấu (Thứ Ba) *Tatiyaadhammasutta* {#173}
 "Này các Tỳ-khưu, các con nên biết các pháp xấu và các pháp tốt. Và các con
 nên biết các quả xấu và các quả tốt. Biết những điều này, sự thực hành của các con nên theo các pháp tốt cùng với các quả tốt.
 
@@ -298,8 +291,7 @@ các quả xấu và các quả tốt. Biết những điều này, sự thực 
 nên theo các pháp tốt cùng với các quả tốt.’ Đó là những gì Ta đã nói, và đây là lý do vì sao Ta nói vậy."
 
 <!--pg-->
-### AN 10.174 Nguồn Gốc Của Nghiệp *Kammanidānasutta*{#174}
-
+### AN 10.174 Nguồn Gốc Của Nghiệp *Kammanidānasutta* {#174}
 "Này các Tỳ-khưu, Ta nói rằng sát sanh có ba loại: do *tham* (greed / lòng tham lam, ham muốn), *sân* (hate / lòng căm ghét, thù hận), hoặc *si* (delusion / sự mê lầm, không thấy rõ sự thật) gây ra.
 
 Ta nói rằng trộm cắp có ba loại: do tham, sân, hoặc si gây ra.
@@ -322,14 +314,12 @@ Ta nói rằng tà kiến có ba loại: do tham, sân, hoặc si gây ra.
 Và như vậy, tham, sân, và si là *nguồn gốc của nghiệp* (sources of deeds / nguyên nhân sinh ra các hành động có chủ ý tạo ra quả báo). Với sự chấm dứt của tham, sân, và si, nguồn gốc của *nghiệp* (deeds / hành động có chủ ý tạo ra quả báo) cũng chấm dứt."
 
 <!--pg-->
-### AN 10.175 Con Đường Tránh *Parikkamanasutta*{#175}
-
+### AN 10.175 Con Đường Tránh *Parikkamanasutta* {#175}
 "Này các Tỳ-khưu, giáo pháp này cung cấp một *con đường tránh* (bypass / phương cách để tránh né, vượt qua điều xấu), nó không thiếu con đường tránh.
 Và làm thế nào giáo pháp này cung cấp một con đường tránh, không thiếu con đường tránh? Không sát sanh là tránh được sát sanh. Không trộm cắp là tránh được trộm cắp. Tránh tà dâm là tránh được tà dâm. Không nói dối là tránh được nói dối. Tránh nói hai lưỡi là tránh được nói hai lưỡi. Tránh nói lời thô ác là tránh được nói lời thô ác. Tránh nói lời vô ích là tránh được nói lời vô ích. Sự không tham ái là tránh được tham ái. Thiện ý là tránh được tức giận. Chánh kiến là tránh được tà kiến. Đó là cách giáo pháp này cung cấp một con đường tránh, nó không thiếu con đường tránh."
 
 <!--pg-->
-### AN 10.176 Với Cunda *Cundasutta*{#176}
-
+### AN 10.176 Với Cunda *Cundasutta* {#176}
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần
 Pāvā trong vườn xoài của Cunda người *thợ rèn* (smith / người làm nghề chế tác kim loại). Khi ấy Cunda người thợ rèn
 đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với
@@ -435,8 +425,7 @@ Chính vì những người làm mười loại nghiệp thiện này mà có *c
 Khi ngài nói xong, Cunda người thợ rèn nói với Đức Phật: "Thật vi diệu, bạch Thế Tôn! Thật vi diệu thay! ... Từ hôm nay trở đi, xin Đức Phật hãy ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 10.177 Với Jānussoṇi *Jāṇussoṇisutta*{#177}
-
+### AN 10.177 Với Jānussoṇi *Jāṇussoṇisutta* {#177}
 Rồi Bà-la-môn Jānussoṇi đến gặp Đức Phật, và
 chào hỏi Người.
 

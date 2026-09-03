@@ -3,8 +3,7 @@
 <!--pg-->
 ## Chương về các Bài Kinh Tóm Tắt Sông Hằng
 
-### SN 53.1--12 Thiền Định, v.v. *Gaṅgāpeyyālavagga*{#1-12}
-
+### SN 53.1--12 Thiền Định, v.v. *Gaṅgāpeyyālavagga* {#1-12}
 Tại Sāvatthī.
 
 "*Tỷ kheo*, có bốn *tầng thiền* (absorptions / jhāna / sự tập trung sâu vào một đối tượng thiền định, dẫn đến trạng thái tâm vắng lặng) này. Bốn tầng thiền đó là gì?
@@ -37,8 +36,7 @@ Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* l�
 <!--pg-->
 ## Chương về Sự Tinh Cần
 
-### SN 53.13--22 Sự Tinh Cần *Appamādavagga*{#13-22}
-
+### SN 53.13--22 Sự Tinh Cần *Appamādavagga* {#13-22}
 **(Kể đầy đủ như trong chương về sự tinh cần tại SN 45.139--148.)**
 
 > Như Lai, dấu chân, nóc nhà,\
@@ -49,8 +47,7 @@ Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* l�
 <!--pg-->
 ## Chương về Sự Nỗ Lực
 
-### SN 53.23--34 Sự Nỗ Lực *Balakaraṇīyavagga*{#23-34}
-
+### SN 53.23--34 Sự Nỗ Lực *Balakaraṇīyavagga* {#23-34}
 **(Kể đầy đủ như trong chương về sự nỗ lực tại SN 45.149--160.)**
 
 > Sự nỗ lực, hạt giống, và loài rồng,\
@@ -61,8 +58,7 @@ Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* l�
 <!--pg-->
 ## Chương về Sự Tìm Kiếm
 
-### SN 53.35--44 Sự Tìm Kiếm *Esanāvagga*{#35-44}
-
+### SN 53.35--44 Sự Tìm Kiếm *Esanāvagga* {#35-44}
 **(Kể đầy đủ như trong chương về sự tìm kiếm tại SN 45.161--170.)**
 
 > Sự tìm kiếm, sự phân biệt, các ô nhiễm,\
@@ -73,8 +69,7 @@ Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* l�
 <!--pg-->
 ## Chương về các Cơn Lũ
 
-### SN 53.45--54 Cơn Lũ, v.v. *Oghavagga*{#45-54}
-
+### SN 53.45--54 Cơn Lũ, v.v. *Oghavagga* {#45-54}
 "*Tỷ kheo*, có năm *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm, ràng buộc con người vào vòng luân hồi) cao hơn. Năm loại đó là gì? Mong muốn tái sinh vào cõi sắc giới, mong muốn tái sinh vào cõi vô sắc, *ngã mạn* (conceit / māna / sự kiêu ngạo, tự cho mình là hơn, là kém, hoặc là bằng người khác), *bồn chồn và hối hận*, và *vô minh* (ignorance / avijjā / sự không biết, không hiểu về bản chất thực của sự vật, đặc biệt là Tứ Diệu Đế). Đây là năm *xiềng xích* cao hơn.
 
 Bốn *tầng thiền* cần được phát triển để *hiểu biết trực tiếp* (direct knowledge / abhiññā / thắng tri / sự hiểu biết thông qua kinh nghiệm trực tiếp, không qua suy luận), *hiểu biết hoàn toàn* (complete understanding / pariññā / liễu tri / sự hiểu biết thấu đáo, toàn diện), *sự chấm dứt* (finishing / parikkhayāya / sự đoạn tận, làm cho cạn kiệt), và *sự từ bỏ* (giving up / pahānāya / sự vứt bỏ, buông bỏ) năm *xiềng xích* cao hơn này. Bốn tầng thiền đó là gì? Đó là khi một *Tỷ kheo*, hoàn toàn tách biệt khỏi *thú vui giác quan*, tách biệt khỏi *phẩm chất bất thiện*, chứng và an trú trong tầng thiền thứ nhất, một trạng thái có *hân hoan* và *bình an* sinh ra từ sự tách biệt, trong khi vẫn *có sự suy nghĩ về một đề tài và quan sát đề tài đó*. Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* lắng xuống, họ chứng và an trú trong tầng thiền thứ hai ... tầng thiền thứ ba ... tầng thiền thứ tư. Bốn *tầng thiền* này cần được phát triển để *hiểu biết trực tiếp*, *hiểu biết hoàn toàn*, *sự chấm dứt*, và *sự từ bỏ* năm *xiềng xích* cao hơn này."

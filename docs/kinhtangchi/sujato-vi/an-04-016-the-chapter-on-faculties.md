@@ -1,32 +1,26 @@
 # Phẩm về các Căn
 
-### AN 4.151 Kinh Căn (*Indriyasutta*){#151}
-
+### AN 4.151 Kinh Căn (*Indriyasutta*) {#151}
 "Này các Tỳ kheo, có bốn *căn* (faculties / khả năng, quyền năng của tâm) này. Bốn là gì? *Tín* (faith / niềm tin) căn, *tấn* (energy / sự tinh tấn, nỗ lực) căn, *niệm* (mindfulness / sự chú tâm, ghi nhớ) căn, và *định* (immersion / sự tập trung tâm) căn. Đó là bốn căn."
 
 <!--pg-->
-### AN 4.152 Kinh Tín Lực (*Saddhābalasutta*){#152}
-
+### AN 4.152 Kinh Tín Lực (*Saddhābalasutta*) {#152}
 "Này các Tỳ kheo, có bốn *lực* (powers / sức mạnh) này. Bốn là gì? Tín lực, tấn lực, niệm lực, và định lực. Đó là bốn lực."
 
 <!--pg-->
-### AN 4.153 Kinh Tuệ Lực (*Paññābalasutta*){#153}
-
+### AN 4.153 Kinh Tuệ Lực (*Paññābalasutta*) {#153}
 "Này các Tỳ kheo, có bốn lực này. Bốn là gì? *Tuệ* (wisdom / trí tuệ) lực, tấn lực, *vô tội* (blamelessness / không có lỗi lầm, không đáng trách) lực, và *nhiếp trì* (inclusiveness / sự thu phục, bao gồm) lực. Đó là bốn lực."
 
 <!--pg-->
-### AN 4.154 Kinh Niệm Lực (*Satibalasutta*){#154}
-
+### AN 4.154 Kinh Niệm Lực (*Satibalasutta*) {#154}
 "Này các Tỳ kheo, có bốn lực này. Bốn là gì? Niệm lực, định lực, vô tội lực, và nhiếp trì lực. Đó là bốn lực."
 
 <!--pg-->
-### AN 4.155 Kinh Thẩm Sát Lực (*Paṭisaṅkhānabalasutta*){#155}
-
+### AN 4.155 Kinh Thẩm Sát Lực (*Paṭisaṅkhānabalasutta*) {#155}
 "Này các Tỳ kheo, có bốn lực này. Bốn là gì? *Thẩm sát* (reflection / sự quán xét, suy xét kỹ lưỡng) lực, *tu tập* (development / sự rèn luyện, phát triển tâm) lực, vô tội lực, và nhiếp trì lực. Đó là bốn lực."
 
 <!--pg-->
-### AN 4.156 Kinh Kiếp (*Kappasutta*){#156}
-
+### AN 4.156 Kinh Kiếp (*Kappasutta*) {#156}
 "Này các Tỳ kheo, một *kiếp* (eon / một khoảng thời gian rất dài, một chu kỳ thế giới) có bốn *a-tăng-kỳ* (uncountable periods / khoảng thời gian không thể đếm được). Bốn là gì?
 
 Khi một kiếp đang *hoại* (contracts / giai đoạn thế giới tan rã), không dễ để tính toán mất bao nhiêu năm, bao nhiêu trăm hay ngàn hay trăm ngàn năm.
@@ -40,8 +34,7 @@ Khi một kiếp đang trong giai đoạn *trụ* (remains fully expanded / giai
 Đó là bốn a-tăng-kỳ của một kiếp."
 
 <!--pg-->
-### AN 4.157 Kinh Bệnh (*Rogasutta*){#157}
-
+### AN 4.157 Kinh Bệnh (*Rogasutta*) {#157}
 "Này các Tỳ kheo, có hai loại bệnh. Hai là gì? *Thân bệnh và tâm bệnh* (Mental and physical / bệnh về thể xác và bệnh về tinh thần). Có thể thấy những *chúng sanh* (sentient beings / các loài hữu tình) có thể tuyên bố mình không bị thân bệnh trong một năm, hoặc hai, hoặc ba năm... thậm chí đến một trăm năm hoặc hơn. Nhưng rất khó tìm thấy bất kỳ chúng sanh nào trên thế gian có thể tuyên bố mình không bị tâm bệnh dù chỉ trong một giờ, ngoại trừ những vị đã đoạn tận các *lậu hoặc* (defilements / những ô nhiễm, phiền não làm tâm ô uế).
 
 Có bốn loại bệnh đối với những người *xuất gia* (gone forth / người rời bỏ đời sống gia đình để tu hành). Bốn là gì?
@@ -59,8 +52,7 @@ Họ có *ý đồ riêng* (ulterior motive / mục đích che giấu) khi đi �
 Vậy các con nên tu tập như thế này: 'Chúng ta sẽ không có nhiều mong muốn hay bị thất vọng. Chúng ta sẽ hài lòng với bất kỳ loại y phục, vật thực khất thực, chỗ ở, và dược phẩm trị bệnh nào. Chúng ta sẽ không hướng những ác dục của mình vào địa vị, và vào việc có được lợi dưỡng, cung kính, danh tiếng. Chúng ta sẽ không cố gắng, nỗ lực, và phấn đấu để đạt được những thứ này. Chúng ta sẽ chịu đựng lạnh, nóng, đói, và khát. Chúng ta sẽ chịu đựng sự xúc chạm của ruồi, muỗi, gió, nắng, và các loài bò sát. Chúng ta sẽ chịu đựng những lời chỉ trích khó nghe, không mong muốn. Chúng ta sẽ chịu đựng những cảm giác đau đớn trên thân—như cắt, dữ dội, cấp tính, khó chịu, không vừa ý, và nguy hiểm đến tính mạng.' Đó là cách các con nên tu tập."
 
 <!--pg-->
-### AN 4.158 Kinh Suy Giảm (*Parihānisutta*){#158}
-
+### AN 4.158 Kinh Suy Giảm (*Parihānisutta*) {#158}
 Tại đó, Tôn giả Xá-lợi-phất nói với các Tỳ kheo: "Thưa các Hiền giả Tỳ kheo!"
 
 "Thưa Hiền giả," họ đáp. Tôn giả Xá-lợi-phất nói điều này:
@@ -70,8 +62,7 @@ Tại đó, Tôn giả Xá-lợi-phất nói với các Tỳ kheo: "Thưa các H
 Bất kỳ Tỳ kheo hay Tỳ kheo ni nào thấy bốn điều này bên trong mình thì nên kết luận: 'Các thiện pháp của tôi không suy giảm. Vì đây là điều Đức Phật gọi là sự không suy giảm.' Bốn là gì? Lòng tham, sân, và si của họ giảm bớt; và tuệ nhãn của họ thâm nhập được vào nhiều vấn đề sâu xa. Bất kỳ Tỳ kheo hay Tỳ kheo ni nào thấy bốn điều này bên trong mình thì nên kết luận: 'Các thiện pháp của tôi không suy giảm. Vì đây là điều Đức Phật gọi là sự không suy giảm.'"
 
 <!--pg-->
-### AN 4.159 Kinh Tỳ Kheo Ni (*Bhikkhunīsutta*){#159}
-
+### AN 4.159 Kinh Tỳ Kheo Ni (*Bhikkhunīsutta*) {#159}
 Tôi nghe như vầy. Một thời Tôn giả A-nan đang ở gần Kosambi, tại tu viện Ghosita.
 
 Bấy giờ, một Tỳ kheo ni nói với một người đàn ông: "Xin ông vui lòng đến gặp Tôn giả A-nan, và nhân danh tôi, đảnh lễ dưới chân ngài. Hãy thưa với ngài: 'Thưa Tôn giả, Tỳ kheo ni tên là... đang bị bệnh, đau đớn, và bệnh nặng. Bà ấy xin đảnh lễ dưới chân ngài.' Và sau đó nói: 'Thưa Tôn giả, xin ngài hãy đến khu nhà của Tỳ kheo ni để thăm vị Tỳ kheo ni ấy vì lòng bi mẫn.'"
@@ -95,8 +86,7 @@ Bấy giờ, vị Tỳ kheo ni ấy ngồi dậy khỏi giường, vắt y qua m
 "Đúng vậy, Sư tỷ, Sư tỷ đã phạm lỗi. Thật là dại dột, ngu xuẩn, và bất thiện khi Sư tỷ đã hành động như vậy. Nhưng vì Sư tỷ đã nhận ra lỗi lầm của mình, và đã sám hối đúng pháp, ta chấp nhận điều đó. Vì đó là sự tăng trưởng trong giới luật của bậc Thánh khi nhận ra lỗi lầm của mình, sám hối đúng pháp, và cam kết phòng hộ trong tương lai."
 
 <!--pg-->
-### AN 4.160 Kinh Pháp và Luật của Bậc Thiện Thệ (*Sugatavinayasutta*){#160}
-
+### AN 4.160 Kinh Pháp và Luật của Bậc Thiện Thệ (*Sugatavinayasutta*) {#160}
 "Này các Tỳ kheo, một *Bậc Thiện Thệ* (Holy One / Bậc đã đi đến tốt đẹp, một danh hiệu của Đức Phật) hoặc Pháp và Luật của Bậc Thiện Thệ tồn tại trên thế gian vì lợi ích và hạnh phúc cho số đông, vì lòng bi mẫn đối với thế gian, vì lợi ích, phúc lợi, và hạnh phúc cho chư thiên và loài người.
 
 Và ai là Bậc Thiện Thệ? Đó là khi một *Như Lai* (Realized One / Bậc đã đến như vậy, một danh hiệu của Đức Phật) xuất hiện trên thế gian, bậc *A-la-hán* (perfected / Bậc xứng đáng cúng dường, đã đoạn tận phiền não), bậc *Chánh Đẳng Giác* (fully awakened Buddha / Bậc giác ngộ hoàn toàn và đúng đắn), bậc *Minh Hạnh Túc* (accomplished in knowledge and conduct / đầy đủ trí tuệ và đức hạnh), bậc Thiện Thệ, bậc *Thế Gian Giải* (knower of the world / Bậc hiểu biết thế gian), bậc *Vô Thượng Sĩ Điều Ngự Trượng Phu* (supreme guide for those who wish to train / Bậc tối cao dẫn dắt những người cần được huấn luyện), bậc *Thiên Nhân Sư* (teacher of gods and humans / Bậc thầy của trời và người), bậc *Phật* (awakened / Bậc giác ngộ), bậc *Thế Tôn* (blessed / Bậc được tôn kính nhất trên đời). Đây là Bậc Thiện Thệ.
