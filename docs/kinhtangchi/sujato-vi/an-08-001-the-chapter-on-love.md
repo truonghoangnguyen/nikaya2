@@ -1,6 +1,6 @@
 # Phẩm Về Tình Thương
 
-### AN 8.1 Lợi Ích Của Tình Thương *Mettāsutta*
+### AN 8.1 Lợi Ích Của Tình Thương *Mettāsutta*{#1}
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), tu viện của Anāthapiṇḍika (Cấp Cô Độc). Tại đấy Thế Tôn gọi các vị *Tỳ-kheo* (mendicants / khất sĩ, người tu hành sống bằng khất thực): "Này các Tỳ-kheo!"
 
@@ -35,7 +35,7 @@ Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī (Xá-vệ), 
 > bạn sẽ không có oán thù với bất kỳ ai."
 
 <!--pg-->
-### AN 8.2 Trí Tuệ *Paññāsutta*
+### AN 8.2 Trí Tuệ *Paññāsutta*{#2}
 
 "Này các Tỳ-kheo, có tám nhân và tám duyên này đưa đến việc đạt được *trí tuệ căn bản* (wisdom fundamental to the spiritual life / trí tuệ nền tảng cho đời sống phạm hạnh) cho đời sống phạm hạnh, và làm cho trí tuệ ấy, một khi đã đạt được, được tăng trưởng, phát triển và viên mãn. Tám điều ấy là gì?
 
@@ -74,21 +74,21 @@ Các bạn đồng tu quý mến vị ấy: 'Vị tôn giả này sống nương
 Đây là tám nhân và tám duyên đưa đến việc đạt được trí tuệ căn bản cho đời sống phạm hạnh, và làm cho trí tuệ ấy, một khi đã đạt được, được tăng trưởng, phát triển và viên mãn."
 
 <!--pg-->
-### AN 8.3 Bị Ghét (Thứ Nhất) *Paṭhamaappiyasutta*
+### AN 8.3 Bị Ghét (Thứ Nhất) *Paṭhamaappiyasutta*{#3}
 
 "Này các Tỳ-kheo, một Tỳ-kheo có tám phẩm chất sẽ bị các bạn đồng tu không ưa thích và không chấp nhận, không được kính trọng hay ngưỡng mộ. Tám điều ấy là gì? Đó là khi một Tỳ-kheo tán dương người không đáng tán dương và chỉ trích người đáng tán dương. Vị ấy ham muốn vật chất và danh vọng. Vị ấy thiếu sự sợ điều ác và sự xấu hổ. Vị ấy có những *mong muốn xấu xa* (corrupt wishes / những ước muốn không trong sạch, bất thiện) và *tà kiến* (wrong view / cái thấy sai lầm, không đúng Chánh pháp). Một Tỳ-kheo có tám phẩm chất này sẽ bị các bạn đồng tu không ưa thích và không chấp nhận, không được kính trọng hay ngưỡng mộ.
 
 Một Tỳ-kheo có tám phẩm chất sẽ được các bạn đồng tu ưa thích và chấp nhận, được kính trọng và ngưỡng mộ. Tám điều ấy là gì? Đó là khi một Tỳ-kheo không tán dương người không đáng tán dương và không chỉ trích người đáng tán dương. Vị ấy không ham muốn vật chất và danh vọng. Vị ấy có sự sợ điều ác và sự xấu hổ. Vị ấy có ít ham muốn và *chánh kiến* (right view / cái thấy đúng đắn, phù hợp Chánh pháp). Một Tỳ-kheo có tám phẩm chất này sẽ được các bạn đồng tu ưa thích và chấp nhận, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### AN 8.4 Bị Ghét (Thứ Hai) *Dutiyaappiyasutta*
+### AN 8.4 Bị Ghét (Thứ Hai) *Dutiyaappiyasutta*{#4}
 
 "Này các Tỳ-kheo, một Tỳ-kheo có tám phẩm chất sẽ bị các bạn đồng tu không ưa thích và không chấp nhận, không được kính trọng hay ngưỡng mộ. Tám điều ấy là gì? Đó là khi một Tỳ-kheo ham muốn vật chất, danh vọng và địa vị. Vị ấy không biết *tiết độ* (moderation / sự chừng mực, điều độ) cũng không biết đúng thời. Hạnh kiểm của vị ấy không trong sạch, nói nhiều, và xúc phạm, lăng mạ các bạn đồng tu. Một Tỳ-kheo có tám phẩm chất này sẽ bị các bạn đồng tu không ưa thích và không chấp nhận, không được kính trọng hay ngưỡng mộ.
 
 Một Tỳ-kheo có tám phẩm chất sẽ được các bạn đồng tu ưa thích và chấp nhận, được kính trọng và ngưỡng mộ. Tám điều ấy là gì? Đó là khi một Tỳ-kheo không ham muốn vật chất, danh vọng và địa vị. Vị ấy biết tiết độ và đúng thời. Hạnh kiểm của vị ấy trong sạch, không nói nhiều, và không xúc phạm, lăng mạ các bạn đồng tu. Một Tỳ-kheo có tám phẩm chất này sẽ được các bạn đồng tu ưa thích và chấp nhận, được kính trọng và ngưỡng mộ."
 
 <!--pg-->
-### AN 8.5 Điều Kiện Thế Gian (Thứ Nhất) *Paṭhamalokadhammasutta*
+### AN 8.5 Điều Kiện Thế Gian (Thứ Nhất) *Paṭhamalokadhammasutta*{#5}
 
 "Này các Tỳ-kheo, tám *pháp thế gian* (worldly conditions / những điều kiện của thế gian, thường được gọi là bát phong) xoay vần theo thế gian, và thế gian xoay vần theo tám pháp thế gian. Tám điều ấy là gì? Được và mất, danh và không danh, chê và khen, vui và khổ. Tám pháp thế gian này xoay vần theo thế gian, và thế gian xoay vần theo tám pháp thế gian này.
 
@@ -109,7 +109,7 @@ Một Tỳ-kheo có tám phẩm chất sẽ được các bạn đồng tu ưa t
 > \>hiểu biết một cách đúng đắn."
 
 <!--pg-->
-### AN 8.6 Điều Kiện Thế Gian (Thứ Hai) *Dutiyalokadhammasutta*
+### AN 8.6 Điều Kiện Thế Gian (Thứ Hai) *Dutiyalokadhammasutta*{#6}
 
 "Này các Tỳ-kheo, tám pháp thế gian xoay vần theo thế gian, và thế gian xoay vần theo tám pháp thế gian. Tám điều ấy là gì? Được và mất, danh và không danh, chê và khen, vui và khổ. Tám pháp thế gian này xoay vần theo thế gian, và thế gian xoay vần theo tám pháp thế gian này.
 
@@ -146,7 +146,7 @@ Vì vậy, được và mất, danh và không danh, chê và khen, vui và kh�
 > \>hiểu biết một cách đúng đắn."
 
 <!--pg-->
-### AN 8.7 Thất Bại Của Devadatta *Devadattavipattisutta*
+### AN 8.7 Thất Bại Của Devadatta *Devadattavipattisutta*{#7}
 
 Một thời Thế Tôn trú gần Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu), không lâu sau khi Devadatta (Đề-bà-đạt-đa) đã rời đi. Tại đấy Thế Tôn nói với các Tỳ-kheo về Devadatta:
 
@@ -163,7 +163,7 @@ Những *phiền não* (defilements / những ô nhiễm tâm làm khổ đau v�
 Vì vậy, này các Tỳ-kheo, các con nên tu tập như vầy: 'Bất cứ khi nào chúng ta gặp phải, chúng ta sẽ vượt qua được... mất... danh... không danh... sự tôn kính... sự không tôn kính... mong muốn xấu xa... tình bạn xấu.' Đó là cách các con nên tu tập."
 
 <!--pg-->
-### AN 8.8 Uttara Về Thất Bại *Uttaravipattisutta*
+### AN 8.8 Uttara Về Thất Bại *Uttaravipattisutta*{#8}
 
 Một thời Tôn giả Uttara trú trên núi Saṅkheyyaka, vùng Mahisa, gần Dhavajālikā. Tại đấy Tôn giả Uttara nói với các Tỳ-kheo: "Này các Tỳ-kheo, thật tốt cho một Tỳ-kheo thỉnh thoảng kiểm tra những thất bại của chính mình. Thật tốt cho một Tỳ-kheo thỉnh thoảng kiểm tra những thất bại của người khác. Thật tốt cho một Tỳ-kheo thỉnh thoảng kiểm tra những thành công của chính mình. Thật tốt cho một Tỳ-kheo thỉnh thoảng kiểm tra những thành công của người khác."
 
@@ -206,7 +206,7 @@ Vì vậy, các con nên tu tập như vầy:
 Tôn giả Uttara, bài giảng Pháp này chưa được thiết lập ở bất cứ đâu trong *bốn chúng* (four assemblies / Tỳ-kheo, Tỳ-kheo-ni, nam cư sĩ, nữ cư sĩ) – Tỳ-kheo, Tỳ-kheo-ni, nam cư sĩ, và nữ cư sĩ. Thưa ngài, hãy học bài giảng Pháp này! Hãy ghi nhớ bài giảng Pháp này! Hãy nhớ bài giảng Pháp này! Thưa ngài, bài giảng Pháp này có lợi ích và liên quan đến những điều căn bản của đời sống phạm hạnh."
 
 <!--pg-->
-### AN 8.9 Nanda *Nandasutta*
+### AN 8.9 Nanda *Nandasutta*{#9}
 
 "Này các Tỳ-kheo, các con có thể gọi Nanda một cách đúng đắn là 'người lịch lãm', 'mạnh mẽ', 'đáng yêu', và 'tham ái'. Làm sao vị ấy có thể sống đời sống phạm hạnh đầy đủ và thanh tịnh nếu không *hộ trì các căn* (guards the sense doors / bảo vệ các giác quan khỏi các đối tượng gây phiền não), ăn uống tiết độ, chuyên tâm tỉnh thức, và có *tỉnh thức và nhận biết rõ ràng* (mindfulness and situational awareness / sự chú tâm và hiểu biết rõ ràng về tình huống hiện tại)?
 
@@ -223,7 +223,7 @@ Nếu phải nhìn về hướng tây... bắc... nam... lên... xuống... Nế
 Làm sao Nanda có thể sống đời sống phạm hạnh đầy đủ và thanh tịnh nếu không hộ trì các căn, ăn uống tiết độ, chuyên tâm tỉnh thức, và có tỉnh thức và nhận biết rõ ràng?"
 
 <!--pg-->
-### AN 8.10 Rác Rưởi *Kāraṇḍavasutta*
+### AN 8.10 Rác Rưởi *Kāraṇḍavasutta*{#10}
 
 Một thời Thế Tôn trú gần Campā, bên bờ hồ sen Gaggarā. Lúc bấy giờ, các Tỳ-kheo buộc tội một Tỳ-kheo về một *vi phạm* (offense / lỗi lầm, sự phạm giới). Vị Tỳ-kheo bị buộc tội đã lảng tránh vấn đề, làm xao lãng cuộc thảo luận bằng những điểm không liên quan, và biểu lộ sự bực bội, căm ghét, và cay đắng.
 

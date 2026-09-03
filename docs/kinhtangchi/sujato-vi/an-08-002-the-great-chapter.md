@@ -1,6 +1,6 @@
 # Đại Phẩm
 
-### AN 8.11 Tại Verañjā *Verañjasutta*
+### AN 8.11 Tại Verañjā *Verañjasutta*{#11}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú tại Verañjā, dưới gốc cây neem của Naḷeru. Khi ấy, Bà-la-môn Verañja đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao, ông ngồi xuống một bên và thưa với Đức Phật:
 
@@ -67,7 +67,7 @@ Khi Ngài nói điều này, Bà-la-môn Verañja thưa với Đức Phật:
 "Ông Gotama là bậc trưởng thượng! Ông Gotama là bậc tối thắng! Tuyệt vời thay, thưa ông Gotama! Tuyệt vời thay! Như người lật ngửa vật bị úp, hay phơi bày vật bị che kín, hay chỉ đường cho người lạc lối, hay thắp đèn trong bóng tối để người có mắt sáng có thể thấy những gì ở đó, ông Gotama đã làm sáng tỏ giáo pháp bằng nhiều cách. Con xin quy y ông Gotama, quy y Pháp, và quy y Tăng đoàn Tỳ-kheo. Từ hôm nay, xin ông Gotama ghi nhớ con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 8.12 Với Sīha *Sīhasutta*
+### AN 8.12 Với Sīha *Sīhasutta*{#12}
 
 Một thời Đức Phật trú gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn. Lúc bấy giờ, nhiều vị Licchavi nổi tiếng đang ngồi họp tại công hội, tán thán Đức Phật, giáo pháp của Ngài, và Tăng đoàn bằng nhiều cách.
 
@@ -148,7 +148,7 @@ Rồi một người nào đó đến gần Sīha và thì thầm vào tai ông:
 Sau đó, Sīha tự tay phục vụ và làm hài lòng Tăng đoàn Tỳ-kheo do Đức Phật dẫn đầu bằng những món ăn tươi ngon đã nấu chín. Khi Đức Phật đã dùng bữa xong và rửa tay và bát, Sīha ngồi xuống một bên. Sau đó, Đức Phật đã giáo huấn, khuyến khích, làm phấn khởi, và truyền cảm hứng cho ông bằng một bài pháp thoại, sau đó Ngài đứng dậy từ chỗ ngồi và rời đi.
 
 <!--pg-->
-### AN 8.13 Ngựa Thuần Chủng *Assājānīyasutta*
+### AN 8.13 Ngựa Thuần Chủng *Assājānīyasutta*{#13}
 
 "Này các Tỳ-kheo, một con ngựa quý thuần chủng của hoàng gia có tám yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được coi là một yếu tố của vương quyền. Tám yếu tố nào?
 
@@ -191,7 +191,7 @@ Họ siêng năng: 'Mong sao da, gân, và xương của ta còn lại! Mong sao
 Một vị Tỳ-kheo có tám phẩm chất này thì xứng đáng được cúng dường, xứng đáng được tiếp đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho thế gian."
 
 <!--pg-->
-### AN 8.14 Ngựa Hoang *Assakhaḷuṅkasutta*
+### AN 8.14 Ngựa Hoang *Assakhaḷuṅkasutta*{#14}
 
 "Này các Tỳ-kheo, Ta sẽ dạy các ông về tám loại ngựa non hoang dã và tám tật xấu của ngựa, và về tám loại người hoang dã và tám tật xấu của người. Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 
@@ -236,7 +236,7 @@ Hơn nữa, các Tỳ-kheo cáo buộc một vị Tỳ-kheo về một tội/l�
 Đây là tám loại người hoang dã và tám tật xấu của người."
 
 <!--pg-->
-### AN 8.15 Cấu Uế *Malasutta*
+### AN 8.15 Cấu Uế *Malasutta*{#15}
 
 "Này các Tỳ-kheo, có tám loại *cấu uế* (stains / những vết nhơ, điều làm ô nhiễm) này. Tám loại nào? Không tụng đọc là cấu uế của kinh kệ. Bỏ bê là cấu uế của nhà cửa. Lười biếng là cấu uế của sắc đẹp (vẻ bề ngoài). Sao nhãng là cấu uế của người canh gác. Hành vi sai trái là cấu uế của người phụ nữ. Keo kiệt là cấu uế của người bố thí. Các pháp ác, bất thiện là cấu uế ở đời này và đời sau. Tệ hơn bất kỳ cấu uế nào trong số này là vô minh, cấu uế tồi tệ nhất. Đây là tám loại cấu uế.
 
@@ -253,7 +253,7 @@ Hơn nữa, các Tỳ-kheo cáo buộc một vị Tỳ-kheo về một tội/l�
 > là vô minh, cấu uế tồi tệ nhất."
 
 <!--pg-->
-### AN 8.16 Đi Làm Sứ Giả *Dūteyyasutta*
+### AN 8.16 Đi Làm Sứ Giả *Dūteyyasutta*{#16}
 
 "Này các Tỳ-kheo, một vị Tỳ-kheo có tám phẩm chất thì xứng đáng đi làm sứ giả (đi truyền bá). Tám phẩm chất nào? Đó là một vị Tỳ-kheo tự mình học và dạy lại người khác. Họ ghi nhớ và không quên. Họ tự mình hiểu và giúp người khác hiểu. Họ khéo léo biết điều gì đúng chủ đề, điều gì lạc đề. Và họ không gây tranh cãi. Một vị Tỳ-kheo có tám phẩm chất này thì xứng đáng đi làm sứ giả.
 
@@ -270,17 +270,17 @@ Có tám phẩm chất, Sāriputta xứng đáng đi làm sứ giả. Tám phẩ
 > xứng đáng đi làm sứ giả."
 
 <!--pg-->
-### AN 8.17 Trói Buộc (1) *Paṭhamabandhanasutta*
+### AN 8.17 Trói Buộc (1) *Paṭhamabandhanasutta*{#17}
 
 "Này các Tỳ-kheo, người nữ trói buộc người nam bằng tám đặc điểm. Tám đặc điểm nào? Bằng cách khóc, cười, nói năng, dáng vẻ, tặng hoa dại, hương thơm, vị nếm, và sự đụng chạm. Người nữ trói buộc người nam bằng tám đặc điểm này. Nhưng những chúng sinh bị trói buộc bởi sự đụng chạm thì thực sự bị trói buộc chặt chẽ."
 
 <!--pg-->
-### AN 8.18 Trói Buộc (2) *Dutiyabandhanasutta*
+### AN 8.18 Trói Buộc (2) *Dutiyabandhanasutta*{#18}
 
 "Này các Tỳ-kheo, người nam trói buộc người nữ bằng tám đặc điểm. Tám đặc điểm nào? Bằng cách khóc, cười, nói năng, dáng vẻ, tặng hoa dại, hương thơm, vị nếm, và sự đụng chạm. Người nam trói buộc người nữ bằng tám đặc điểm này. Nhưng những chúng sinh bị trói buộc bởi sự đụng chạm thì thực sự bị trói buộc chặt chẽ."
 
 <!--pg-->
-### AN 8.19 Với Pahārāda *Pahārādasutta*
+### AN 8.19 Với Pahārāda *Pahārādasutta*{#19}
 
 Một thời Đức Phật trú tại Verañjā, dưới gốc cây neem của Naḷeru.
 
@@ -335,7 +335,7 @@ Nhiều chúng sinh to lớn sống trong biển cả, như cá kình, cá nuố
 Thấy được tám điều kỳ diệu và đáng kinh ngạc này, này Pahārāda, các vị Tỳ-kheo yêu thích Giáo pháp và Giới luật này."
 
 <!--pg-->
-### AN 8.20 Ngày Bố-tát *Uposathasutta*
+### AN 8.20 Ngày Bố-tát *Uposathasutta*{#20}
 
 Một thời Đức Phật trú gần Sāvatthī, tại Lộc Mẫu giảng đường (Lâu đài của bà Migāramātā) ở Tu viện phía Đông (Pubbārāma).
 

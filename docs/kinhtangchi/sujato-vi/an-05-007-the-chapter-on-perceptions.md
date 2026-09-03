@@ -1,16 +1,16 @@
 # Phẩm về Nhận Thức
 
-### AN 5.61 Nhận Thức (1) *Paṭhamasaññāsutta*
+### AN 5.61 Nhận Thức (1) *Paṭhamasaññāsutta*{#61}
 
 "Này các Tỷ-kheo, năm *nhận thức* (perceptions / tưởng, nhận ra) này, khi được phát triển và thực hành nhuần nhuyễn, mang lại quả lớn, lợi ích lớn. Chúng đưa đến *bất tử* (freedom from death / không chết), kết thúc nơi bất tử. Năm loại nào? Nhận thức về *bất tịnh* (ugliness / sự không sạch sẽ, không đẹp), nhận thức về *sự chết* (death / cái chết), nhận thức về *sự nguy hại* (drawbacks / tác hại, điều bất lợi), nhận thức về *sự ghê tởm trong vật thực* (repulsiveness of food / sự đáng ghê trong thức ăn), và nhận thức về *sự không hài lòng với toàn thế giới* (dissatisfaction with the whole world / sự nhàm chán với tất cả thế gian). Năm nhận thức này, khi được phát triển và thực hành nhuần nhuyễn, mang lại quả lớn, lợi ích lớn. Chúng đưa đến bất tử, kết thúc nơi bất tử."
 
 <!--pg-->
-### AN 5.62 Nhận Thức (2) *Dutiyasaññāsutta*
+### AN 5.62 Nhận Thức (2) *Dutiyasaññāsutta*{#62}
 
 "Này các Tỷ-kheo, năm nhận thức này, khi được phát triển và thực hành nhuần nhuyễn, mang lại quả lớn, lợi ích lớn. Chúng đưa đến bất tử, kết thúc nơi bất tử. Năm loại nào? Nhận thức về *vô thường* (impermanence / sự không bền vững, luôn thay đổi), nhận thức về *vô ngã* (not-self / không có cái tôi cố định), nhận thức về sự chết, nhận thức về sự ghê tởm trong vật thực, và nhận thức về sự không hài lòng với toàn thế giới. Năm nhận thức này, khi được phát triển và thực hành nhuần nhuyễn, mang lại quả lớn, lợi ích lớn. Chúng đưa đến bất tử, kết thúc nơi bất tử."
 
 <!--pg-->
-### AN 5.63 Tăng Trưởng (1) *Paṭhamavaḍḍhisutta*
+### AN 5.63 Tăng Trưởng (1) *Paṭhamavaḍḍhisutta*{#63}
 
 "Này các Tỷ-kheo, một nam Thánh đệ tử tăng trưởng theo năm cách là tăng trưởng một cách cao thượng, nắm bắt được điều cốt lõi và tốt đẹp trong đời này. Năm cách nào? Vị ấy tăng trưởng về *niềm tin* (faith / lòng tin), *đạo đức* (ethics / giới hạnh), *học hỏi* (learning / sự nghe nhiều, học rộng), *rộng rãi* (generosity / bố thí, cho đi), và *trí tuệ* (wisdom / sự hiểu biết đúng đắn). Một nam Thánh đệ tử tăng trưởng theo năm cách này là tăng trưởng một cách cao thượng, nắm bắt được điều cốt lõi và tốt đẹp trong đời này.
 
@@ -20,7 +20,7 @@
 > Và nắm bắt điều cốt lõi cho mình trong đời này."
 
 <!--pg-->
-### AN 5.64 Tăng Trưởng (2) *Dutiyavaḍḍhisutta*
+### AN 5.64 Tăng Trưởng (2) *Dutiyavaḍḍhisutta*{#64}
 
 "Này các Tỷ-kheo, một nữ Thánh đệ tử tăng trưởng theo năm cách là tăng trưởng một cách cao thượng, nắm bắt được điều cốt lõi và tốt đẹp trong đời này. Năm cách nào? Vị ấy tăng trưởng về niềm tin, đạo đức, học hỏi, rộng rãi, và trí tuệ. Một nữ Thánh đệ tử tăng trưởng theo năm cách này là tăng trưởng một cách cao thượng, nắm bắt được điều cốt lõi và tốt đẹp trong đời này.
 
@@ -30,7 +30,7 @@
 > Nắm bắt điều cốt lõi cho mình trong đời này."
 
 <!--pg-->
-### AN 5.65 Thảo Luận *Sākacchasutta*
+### AN 5.65 Thảo Luận *Sākacchasutta*{#65}
 
 "Này các Tỷ-kheo, một vị Tỷ-kheo có năm phẩm chất thì xứng đáng để thảo luận với các *bạn đồng tu* (spiritual companions / bạn cùng tu hành). Năm phẩm chất nào?
 
@@ -47,7 +47,7 @@ Vị ấy tự mình thành tựu *tri kiến giải thoát* (knowledge and visi
 Một vị Tỷ-kheo có năm phẩm chất này thì xứng đáng để thảo luận với các bạn đồng tu."
 
 <!--pg-->
-### AN 5.66 Chung Sống *Sājīvasutta*
+### AN 5.66 Chung Sống *Sājīvasutta*{#66}
 
 "Này các Tỷ-kheo, một vị Tỷ-kheo có năm phẩm chất thì xứng đáng để chung sống với các bạn đồng tu. Năm phẩm chất nào?
 
@@ -64,7 +64,7 @@ Vị ấy tự mình thành tựu tri kiến giải thoát, và trả lời các
 Một vị Tỷ-kheo có năm phẩm chất này thì xứng đáng để chung sống với các bạn đồng tu."
 
 <!--pg-->
-### AN 5.67 Nền Tảng Thần Thông (1) *Paṭhamaiddhipādasutta*
+### AN 5.67 Nền Tảng Thần Thông (1) *Paṭhamaiddhipādasutta*{#67}
 
 "Này các Tỷ-kheo, bất kỳ *vị Tỷ-kheo hay Tỷ-kheo-ni* (monk or nun / thầy tu nam hay nữ) nào phát triển và thực hành nhuần nhuyễn năm phẩm chất này có thể mong đợi một trong hai kết quả: *giác ngộ* (enlightenment / sự tỉnh thức hoàn toàn) ngay trong đời này, hoặc nếu còn dư sót, chứng quả *bất lai* (non-return / không còn quay lại cõi dục).
 
@@ -83,7 +83,7 @@ Và thứ năm là *nghị lực* (vigor / nghị lực, sự kiên trì) thuầ
 Bất kỳ vị Tỷ-kheo hay Tỷ-kheo-ni nào phát triển và thực hành nhuần nhuyễn năm phẩm chất này có thể mong đợi một trong hai kết quả: giác ngộ ngay trong đời này, hoặc nếu còn dư sót, chứng quả bất lai."
 
 <!--pg-->
-### AN 5.68 Nền Tảng Thần Thông (2) *Dutiyaiddhipādasutta*
+### AN 5.68 Nền Tảng Thần Thông (2) *Dutiyaiddhipādasutta*{#68}
 
 "Này các Tỷ-kheo, trước khi ta *tỉnh thức* (awakening / sự giác ngộ)---khi ta vẫn chưa tỉnh thức nhưng quyết tâm hướng đến sự tỉnh thức---ta đã phát triển và thực hành nhuần nhuyễn năm điều. Năm điều nào?
 
@@ -96,7 +96,7 @@ Nếu ta muốn: 'Mong rằng ta có thể tự nhân bản mình lên và trở
 Nếu ta muốn: ... 'Mong rằng ta có thể chứng ngộ sự giải thoát tâm và giải thoát nhờ trí tuệ không còn *lậu hoặc* (defilements / phiền não, những thứ làm ô nhiễm tâm) ngay trong đời này, và sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình nhờ sự chấm dứt các lậu hoặc.' Ta có khả năng thực hiện điều đó, vì mỗi một và tất cả đều nằm trong tầm khả năng."
 
 <!--pg-->
-### AN 5.69 Sự Nhàm Chán *Nibbidāsutta*
+### AN 5.69 Sự Nhàm Chán *Nibbidāsutta*{#69}
 
 "Này các Tỷ-kheo, năm pháp này, khi được phát triển và thực hành nhuần nhuyễn, chỉ đưa đến *sự nhàm chán* (disillusionment / yểm ly), *ly tham* (dispassion / sự không còn ham muốn), *sự đoạn diệt* (cessation / sự chấm dứt khổ đau), *sự an tịnh* (peace / sự tịch tịnh), tuệ giác, tỉnh thức, và *Niết-bàn* (extinguishment / sự dập tắt hoàn toàn khổ đau).
 
@@ -105,6 +105,6 @@ Năm pháp nào? Một vị Tỷ-kheo thiền quán sát sự bất tịnh của
 Năm pháp này, khi được phát triển và thực hành nhuần nhuyễn, chỉ đưa đến sự nhàm chán, ly tham, sự đoạn diệt, sự an tịnh, tuệ giác, tỉnh thức, và Niết-bàn."
 
 <!--pg-->
-### AN 5.70 Đoạn Tận Lậu Hoặc *Āsavakkhayasutta*
+### AN 5.70 Đoạn Tận Lậu Hoặc *Āsavakkhayasutta*{#70}
 
 "Này các Tỷ-kheo, năm pháp này, khi được phát triển và thực hành nhuần nhuyễn, đưa đến sự đoạn tận các lậu hoặc. Năm pháp nào? Một vị Tỷ-kheo thiền quán sát sự bất tịnh của thân, nhận thức sự ghê tởm trong vật thực, nhận thức sự không hài lòng với toàn thế giới, quán sát sự vô thường của tất cả các pháp hữu vi, và đã thiết lập vững chắc nhận thức về cái chết của chính mình. Năm pháp này, khi được phát triển và thực hành nhuần nhuyễn, đưa đến sự đoạn tận các lậu hoặc."

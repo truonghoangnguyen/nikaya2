@@ -1,6 +1,6 @@
 # Phẩm về Tỉnh Thức
 
-### AN 8.81 Tỉnh Thức và Tỉnh Giác *Satisampajaññasutta*
+### AN 8.81 Tỉnh Thức và Tỉnh Giác *Satisampajaññasutta*{#81}
 
 "Này các Tỳ kheo, khi không có *tỉnh thức* (mindfulness / *niệm*, sự chú tâm, ghi nhớ) và *tỉnh giác* (situational awareness / *sampajañña*, sự hiểu biết rõ ràng, sự nhận biết tỉnh táo những gì đang xảy ra với thân, thọ, tâm, pháp), người thiếu tỉnh thức và tỉnh giác đã phá hủy một điều kiện thiết yếu cho *xấu hổ* (conscience / *tàm*, sự hổ thẹn với tội lỗi) và *sợ điều ác* (prudence / *quý*, sự ghê sợ tội lỗi). Khi không có xấu hổ và sợ điều ác, người thiếu xấu hổ và sợ điều ác đã phá hủy một điều kiện thiết yếu cho *thu thúc các giác quan* (sense restraint / *indriyasaṃvara*, sự kiểm soát, gìn giữ các giác quan không để chúng chạy theo các đối tượng bên ngoài). Khi không có thu thúc các giác quan, người thiếu thu thúc các giác quan đã phá hủy một điều kiện thiết yếu cho *giới đức* (ethical conduct / hành vi đạo đức). Khi không có giới đức, người thiếu giới đức đã phá hủy một điều kiện thiết yếu cho *chánh định* (right immersion / *sammāsamādhi*, sự tập trung tâm ý một cách đúng đắn, trạng thái thiền định chân chính). Khi không có chánh định, người thiếu chánh định đã phá hủy một điều kiện thiết yếu cho *như thật tri kiến* (true knowledge and vision / *yathābhūtañāṇadassana*, sự thấy biết các pháp đúng như bản chất thật của chúng). Khi không có như thật tri kiến, người thiếu như thật tri kiến đã phá hủy một điều kiện thiết yếu cho *nhàm chán* (disillusionment / *nibbidā*, sự chán ngán, không còn hứng thú đối với các pháp hữu vi do thấy rõ tính vô thường, khổ, vô ngã của chúng) và *ly tham* (dispassion / *virāga*, sự lìa bỏ tham ái, không còn dính mắc). Khi không có nhàm chán và ly tham, người thiếu nhàm chán và ly tham đã phá hủy một điều kiện thiết yếu cho *giải thoát tri kiến* (knowledge and vision of freedom / *vimuttiñāṇadassana*, sự thấy biết rõ ràng về trạng thái giải thoát, sự chấm dứt khổ đau).
 
@@ -15,7 +15,7 @@ Ví như có một cái cây đầy đủ cành và lá. Chồi non, vỏ cây, 
 Cũng vậy, khi có tỉnh thức và tỉnh giác, người đã hoàn thiện tỉnh thức và tỉnh giác đã hoàn thiện một điều kiện thiết yếu cho xấu hổ và sợ điều ác. Khi có xấu hổ và sợ điều ác ... Người đã hoàn thiện nhàm chán và ly tham đã hoàn thiện một điều kiện thiết yếu cho giải thoát tri kiến."
 
 <!--pg-->
-### AN 8.82 Với Puṇṇiya *Puṇṇiyasutta*
+### AN 8.82 Với Puṇṇiya *Puṇṇiyasutta*{#82}
 
 Khi ấy, Tôn giả Puṇṇiya đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên và thưa với Ngài:
 
@@ -26,7 +26,7 @@ Khi ấy, Tôn giả Puṇṇiya đến gặp Đức Phật, đảnh lễ rồi 
 Nhưng khi một Tỳ kheo có niềm tin, đến gần, đảnh lễ, đặt câu hỏi, chủ động lắng nghe Pháp, ghi nhớ Pháp, suy ngẫm ý nghĩa, và thực hành theo, Như Lai cảm thấy có cảm hứng thuyết Pháp. Khi một người có tám phẩm chất này, Như Lai cảm thấy hoàn toàn có cảm hứng thuyết Pháp."
 
 <!--pg-->
-### AN 8.83 Cội Rễ *Mūlakasutta*
+### AN 8.83 Cội Rễ *Mūlakasutta*{#83}
 
 "Này các Tỳ kheo, nếu các du sĩ ngoại đạo hỏi các ông: 'Chư hiền, tất cả các pháp lấy gì làm cội rễ? Điều gì tạo ra chúng? Đâu là nguồn gốc của chúng? Đâu là nơi hội tụ của chúng? Đâu là điều chủ yếu của chúng? Ai là người cai quản chúng? Ai là người giám sát chúng? Đâu là lõi cây của chúng?' Các ông sẽ trả lời họ như thế nào?"
 
@@ -39,14 +39,14 @@ Nhưng khi một Tỳ kheo có niềm tin, đến gần, đảnh lễ, đặt c�
 "Này các Tỳ kheo, nếu các du sĩ ngoại đạo hỏi các ông: 'Chư hiền, tất cả các pháp lấy gì làm cội rễ? Điều gì tạo ra chúng? Đâu là nguồn gốc của chúng? Đâu là nơi hội tụ của chúng? Đâu là điều chủ yếu của chúng? Ai là người cai quản chúng? Ai là người giám sát chúng? Đâu là lõi cây của chúng?' Các ông nên trả lời họ: 'Chư hiền, tất cả các pháp lấy *ước muốn* (desire / *chanda*, ý muốn, sự mong muốn làm điều gì đó, có thể thiện hoặc bất thiện) làm cội rễ. Chúng được tạo ra bởi *tác ý* (application of mind / *manasikāra*, sự chú ý, sự hướng tâm đến đối tượng một cách có chủ đích). *Xúc* (contact / *phassa*, sự tiếp xúc giữa căn (giác quan), cảnh (đối tượng) và thức (ý thức), làm phát sinh cảm thọ) là nguồn gốc của chúng. *Thọ* (feeling / *vedanā*, cảm giác dễ chịu (lạc), khó chịu (khổ) hoặc trung tính (không khổ không lạc) phát sinh từ xúc) là nơi hội tụ của chúng. *Định* (immersion / *samādhi*, sự tập trung tâm ý vào một đối tượng duy nhất, trạng thái tâm vắng lặng) là điều chủ yếu của chúng. Tỉnh thức là người cai quản chúng. *Trí tuệ* (wisdom / *tuệ*, sự hiểu biết đúng đắn, sáng suốt) là người giám sát chúng. *Giải thoát* (freedom / *vimutti*, sự giải thoát hoàn toàn khỏi khổ đau, phiền não và vòng luân hồi) là lõi cây của chúng.' Khi bị các du sĩ ngoại đạo chất vấn, đó là cách các ông nên trả lời họ."
 
 <!--pg-->
-### AN 8.84 Siêu Trộm *Corasutta*
+### AN 8.84 Siêu Trộm *Corasutta*{#84}
 
 "Này các Tỳ kheo, một tên siêu trộm có tám yếu tố thì sớm bị hành quyết, và không sống được bao lâu. Tám yếu tố nào? Hắn tấn công vô cớ. Hắn trộm cắp mọi thứ không chừa thứ gì. Hắn giết phụ nữ. Hắn hãm hiếp thiếu nữ. Hắn cướp của tu sĩ. Hắn cướp kho vua. Hắn hành nghề gần nhà. Hắn không khéo léo trong việc cất giấu của gian. Một tên siêu trộm có tám yếu tố này thì sớm bị hành quyết, và không sống được bao lâu.
 
 Một tên siêu trộm có tám yếu tố thì không sớm bị hành quyết, và sống lâu. Tám yếu tố nào? Hắn không tấn công vô cớ. Hắn không trộm cắp mọi thứ không chừa thứ gì. Hắn không giết phụ nữ. Hắn không hãm hiếp thiếu nữ. Hắn không cướp của tu sĩ. Hắn không cướp kho vua. Hắn không hành nghề gần nhà. Hắn khéo léo trong việc cất giấu của gian. Một tên siêu trộm có tám yếu tố này thì không sớm bị hành quyết, và sống lâu."
 
 <!--pg-->
-### AN 8.85 Các Danh Xưng Của Bậc Như Lai *Samaṇasutta*
+### AN 8.85 Các Danh Xưng Của Bậc Như Lai *Samaṇasutta*{#85}
 
 "'*Sa-môn*' (Ascetic / *samaṇa*, người tu hành, người xuất gia cố gắng dập tắt phiền não) là một danh xưng của bậc Như Lai, bậc *A-la-hán* (perfected one / *arahant*, bậc đã hoàn thiện, đã diệt trừ mọi phiền não, xứng đáng được cúng dường), Đức *Chánh Đẳng Chánh Giác* (fully awakened Buddha / *sammāsambuddha*, bậc tự mình giác ngộ hoàn toàn và đúng đắn tất cả các pháp). '*Bà-la-môn*' (Brahmin / *brāhmaṇa*, theo truyền thống là người thuộc giai cấp tu sĩ Bà-la-môn giáo; trong Phật giáo, từ này cũng được dùng để chỉ người có phẩm hạnh thanh tịnh, người đã loại trừ các điều ác), '*Bậc Thông suốt Vệ-đà*' (Knowledge Master / *vedagū*, người đã đạt đến sự hiểu biết hoàn hảo, bậc trí giả, người đã vượt qua mọi kiến thức thế gian), '*Y sĩ*' (Healer / *bhisakka*, người chữa bệnh, bậc lương y; Đức Phật thường được ví như một đại y vương chữa bệnh khổ cho chúng sinh), '*Người đã tắm gội*' (Unstained / *nahātaka*, người đã gột rửa mọi phiền não, thanh tịnh như người đã tắm sạch bụi bẩn), '*Vô cấu*' (Immaculate / *vimala*, thanh tịnh, không tỳ vết, không còn ô nhiễm bởi phiền não), '*Bậc hiểu biết*' (Knower / *jāniya*, người có trí tuệ, người biết rõ các pháp), và '*Người giải thoát*' (Freed / *vimutta*, người đã được giải thoát khỏi mọi ràng buộc) là những danh xưng của bậc Như Lai, bậc A-la-hán, Đức Chánh Đẳng Chánh Giác.
 
@@ -66,7 +66,7 @@ Một tên siêu trộm có tám yếu tố thì không sớm bị hành quyết
 > một bậc thiện xảo, Ta đã tịch tịnh."
 
 <!--pg-->
-### AN 8.86 Với Nāgita *Yasasutta*
+### AN 8.86 Với Nāgita *Yasasutta*{#86}
 
 Một thời Đức Phật đang du hành trong xứ Kosala cùng với một Tăng đoàn đông đảo các Tỳ kheo thì Ngài đến một ngôi làng của các Bà-la-môn xứ Kosala tên là Icchānaṅgala. Ngài trú tại một khu rừng gần Icchānaṅgala. Các Bà-la-môn và gia chủ ở Icchānaṅgala nghe tin:
 
@@ -106,34 +106,34 @@ Hãy xem một Tỳ kheo mà Ta thấy ở nơi hoang dã nhận y, vật thực
 Này Nāgita, khi Ta đi trên đường và không thấy ai ở phía trước hay phía sau, Ta cảm thấy thư thái, ngay cả khi Ta cần tiểu tiện hay đại tiện."
 
 <!--pg-->
-### AN 8.87 Úp Bát *Pattanikujjanasutta*
+### AN 8.87 Úp Bát *Pattanikujjanasutta*{#87}
 
 "Này các Tỳ kheo, Tăng đoàn có thể, nếu muốn, thực hiện việc *úp bát* (turning the bowl upside down / *pattanikkujjana*, một hình thức kỷ luật của Tăng đoàn, theo đó các Tỳ kheo không nhận vật thực cúng dường từ một cư sĩ đã có hành vi sai trái nghiêm trọng đối với Tam Bảo hoặc Tăng đoàn, nhằm giúp người đó nhận ra lỗi lầm và sửa đổi) đối với một cư sĩ tại gia dựa trên tám lý do. Tám lý do nào? Họ cố gắng ngăn cản các Tỳ kheo nhận được vật phẩm cúng dường. Họ cố gắng làm hại các Tỳ kheo. Họ cố gắng đuổi các Tỳ kheo ra khỏi một tu viện. Họ sỉ nhục và lăng mạ các Tỳ kheo. Họ chia rẽ các Tỳ kheo. Họ phê phán Phật, Pháp, và Tăng. Tăng đoàn có thể, nếu muốn, thực hiện việc úp bát đối với một cư sĩ tại gia dựa trên tám lý do này.
 
 Tăng đoàn có thể, nếu muốn, thực hiện việc *ngửa bát* (turning the bowl upright / *pattamukujjana*, Tăng đoàn chấp nhận lại sự cúng dường của một cư sĩ sau khi người đó đã sám hối và sửa đổi lỗi lầm đã khiến họ bị úp bát) đối với một cư sĩ tại gia dựa trên tám lý do. Tám lý do nào? Họ không cố gắng ngăn cản các Tỳ kheo nhận được vật phẩm cúng dường. Họ không cố gắng làm hại các Tỳ kheo. Họ không cố gắng đuổi các Tỳ kheo ra khỏi một tu viện. Họ không sỉ nhục và lăng mạ các Tỳ kheo. Họ không chia rẽ các Tỳ kheo. Họ không phê phán Phật, Pháp, và Tăng. Tăng đoàn có thể, nếu muốn, thực hiện việc ngửa bát đối với một cư sĩ tại gia dựa trên tám lý do này."
 
 <!--pg-->
-### AN 8.88 Tuyên Bố Bất Tín Nhiệm *Appasādapavedanīyasutta*
+### AN 8.88 Tuyên Bố Bất Tín Nhiệm *Appasādapavedanīyasutta*{#88}
 
 "Này các Tỳ kheo, các cư sĩ tại gia có thể, nếu muốn, đưa ra *tuyên bố bất tín nhiệm* (proclamation of no confidence / *appasādappavedana*, một thông báo chính thức từ các cư sĩ rằng họ không còn tin tưởng, không còn kính trọng một vị Tỳ kheo do những hành vi không phù hợp của vị ấy) đối với một Tỳ kheo có tám phẩm chất. Tám phẩm chất nào? Vị ấy cố gắng ngăn cản các cư sĩ nhận được vật phẩm. Vị ấy cố gắng làm hại các cư sĩ. Vị ấy sỉ nhục và lăng mạ các cư sĩ. Vị ấy chia rẽ các cư sĩ. Vị ấy phê phán Phật, Pháp, và Tăng. Vị ấy bị thấy ở nơi không thích hợp để khất thực. Các cư sĩ tại gia có thể, nếu muốn, đưa ra tuyên bố bất tín nhiệm đối với một Tỳ kheo có tám phẩm chất này.
 
 Các cư sĩ tại gia có thể, nếu muốn, đưa ra *tuyên bố tín nhiệm* (proclamation of confidence / *pasādappavedana*, một thông báo chính thức từ các cư sĩ rằng họ tín nhiệm, kính trọng một vị Tỳ kheo) đối với một Tỳ kheo có tám phẩm chất. Tám phẩm chất nào? Vị ấy không cố gắng ngăn cản các cư sĩ nhận được vật phẩm. Vị ấy không cố gắng làm hại các cư sĩ. Vị ấy không sỉ nhục và lăng mạ các cư sĩ. Vị ấy không chia rẽ các cư sĩ. Vị ấy không phê phán Phật, Pháp, và Tăng. Vị ấy không bị thấy ở nơi không thích hợp để khất thực. Các cư sĩ tại gia có thể, nếu muốn, đưa ra tuyên bố tín nhiệm đối với một Tỳ kheo có tám phẩm chất này."
 
 <!--pg-->
-### AN 8.89 Hòa Giải *Paṭisāraṇīyasutta*
+### AN 8.89 Hòa Giải *Paṭisāraṇīyasutta*{#89}
 
 "Này các Tỳ kheo, Tăng đoàn có thể, nếu muốn, thực hiện *hành động yêu cầu hòa giải* (act requiring reconciliation / *paṭisāraṇīyakamma*, một thủ tục của Tăng đoàn yêu cầu một Tỳ kheo phải xin lỗi và làm cho cư sĩ mà vị ấy đã xúc phạm hoặc gây tổn hại được hài lòng) đối với một Tỳ kheo có tám phẩm chất. Tám phẩm chất nào? Vị ấy cố gắng ngăn cản các cư sĩ nhận được vật phẩm. Vị ấy cố gắng làm hại các cư sĩ. Vị ấy sỉ nhục và lăng mạ các cư sĩ. Vị ấy chia rẽ các cư sĩ. Vị ấy phê phán Phật, Pháp, và Tăng. Vị ấy không giữ một lời hứa chính đáng đã hứa với một cư sĩ. Tăng đoàn có thể, nếu muốn, thực hiện hành động yêu cầu hòa giải đối với một Tỳ kheo có tám phẩm chất này.
 
 Tăng đoàn có thể, nếu muốn, thu hồi hành động yêu cầu hòa giải đối với một Tỳ kheo có tám phẩm chất. Tám phẩm chất nào? Vị ấy không cố gắng ngăn cản các cư sĩ nhận được vật phẩm. Vị ấy không cố gắng làm hại các cư sĩ. Vị ấy không sỉ nhục và lăng mạ các cư sĩ. Vị ấy không chia rẽ các cư sĩ. Vị ấy không phê phán Phật, Pháp, và Tăng. Vị ấy giữ một lời hứa chính đáng đã hứa với một cư sĩ. Tăng đoàn có thể, nếu muốn, thu hồi hành động yêu cầu hòa giải đối với một Tỳ kheo có tám phẩm chất này."
 
 <!--pg-->
-### AN 8.90 Hành Vi Đúng Mực Trong Trường Hợp Sai Trái Nghiêm Trọng *Sammāvattanasutta*
+### AN 8.90 Hành Vi Đúng Mực Trong Trường Hợp Sai Trái Nghiêm Trọng *Sammāvattanasutta*{#90}
 
 "Này các Tỳ kheo, một Tỳ kheo đã bị kết tội vì hành vi sai trái nghiêm trọng phải hành xử đúng mực về tám phương diện. Vị ấy không được truyền giới cụ túc, không được cho *y chỉ* (dependence / *nissaya*, sự nương tựa của một Tỳ kheo mới tu vào một vị Tỳ kheo trưởng thượng có kinh nghiệm để được dạy dỗ và hướng dẫn trong đời sống phạm hạnh), không được Sa-di hầu hạ. Vị ấy không được đồng ý được bổ nhiệm làm người giáo giới cho các Tỳ kheo ni, và nếu được bổ nhiệm cũng không nên giáo giới cho các Tỳ kheo ni. Vị ấy không được đồng ý với bất kỳ sự bổ nhiệm nào của Tăng đoàn. Vị ấy không được đặt ở vị trí trưởng thượng. Vị ấy không được giải tội cho người khác về bất kỳ lỗi nào tương tự như lỗi mà mình đã phạm. Một Tỳ kheo đã bị kết tội vì hành vi sai trái nghiêm trọng phải hành xử đúng mực về tám phương diện này."
 
 # Phẩm Tương Tự
 
-### AN 8.91--117 Các Bài Kinh Không Tên Với Nhiều Nữ Cư Sĩ Vào Ngày Bố Tát  *Sāmaññavagga*
+### AN 8.91--117 Các Bài Kinh Không Tên Với Nhiều Nữ Cư Sĩ Vào Ngày Bố Tát  *Sāmaññavagga*{#91-117}
 
 Rồi nữ cư sĩ Bojjhā ... Sirīmā ...
 Padumā ... Sutanā ... Manujā ...

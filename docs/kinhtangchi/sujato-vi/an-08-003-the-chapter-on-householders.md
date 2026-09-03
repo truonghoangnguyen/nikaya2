@@ -1,6 +1,6 @@
 # Phẩm về các Cư sĩ
 
-### AN 8.21 Cùng Ugga ở Vesālī *Paṭhamauggasutta*
+### AN 8.21 Cùng Ugga ở Vesālī *Paṭhamauggasutta*{#21}
 
 Một thời Đức Phật trú gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn. Tại đây, Đức Phật gọi các Tỳ kheo: "Này các Tỳ kheo, các con nên ghi nhớ gia chủ Ugga ở Vesālī là người có tám phẩm chất kỳ diệu và phi thường."
 
@@ -37,7 +37,7 @@ Sau đó, vị Tỳ kheo ấy, sau khi dùng vật thực khất thực tại nh
 "Lành thay, lành thay, Tỳ kheo! Khi Ta tuyên bố gia chủ Ugga ở Vesālī là người có tám phẩm chất kỳ diệu và phi thường, Ta muốn nói đến chính tám phẩm chất mà ông ấy đã giải thích đúng đắn cho con. Con nên ghi nhớ gia chủ Ugga ở Vesālī là người có tám phẩm chất kỳ diệu và phi thường này."
 
 <!--pg-->
-### AN 8.22 Cùng Ugga ở Làng Voi *Dutiyauggasutta*
+### AN 8.22 Cùng Ugga ở Làng Voi *Dutiyauggasutta*{#22}
 
 Một thời Đức Phật trú tại xứ Vajji, ở Làng Voi. Tại đây, Đức Phật gọi các Tỳ kheo: "Này các Tỳ kheo, các con nên ghi nhớ gia chủ Ugga ở Làng Voi là người có tám phẩm chất kỳ diệu và phi thường."
 
@@ -74,7 +74,7 @@ Sau đó, vị Tỳ kheo ấy, sau khi dùng vật thực khất thực tại nh
 "Lành thay, lành thay, Tỳ kheo! Khi Ta tuyên bố gia chủ Ugga ở Làng Voi là người có tám phẩm chất kỳ diệu và phi thường, Ta muốn nói đến chính tám phẩm chất mà ông ấy đã giải thích đúng đắn cho con. Con nên ghi nhớ gia chủ Ugga ở Làng Voi là người có tám phẩm chất kỳ diệu và phi thường này."
 
 <!--pg-->
-### AN 8.23 Cùng Hatthaka (Thứ nhất) *Paṭhamahatthakasutta*
+### AN 8.23 Cùng Hatthaka (Thứ nhất) *Paṭhamahatthakasutta*{#23}
 
 Một thời Đức Phật trú gần Āḷavī, tại điện thờ cây Aggāḷava. Tại đây, Đức Phật gọi các Tỳ kheo:
 
@@ -97,7 +97,7 @@ Sau đó, vị Tỳ kheo ấy, sau khi dùng vật thực khất thực tại nh
 "Lành thay, lành thay, Tỳ kheo! Vị thiện nam tử đó ít mong muốn. Ông ấy không muốn những phẩm chất tốt đẹp của mình được người khác biết đến. Vậy thì, Tỳ kheo, con nên ghi nhớ gia chủ Hatthaka ở Āḷavī là người có thêm phẩm chất kỳ diệu và phi thường thứ tám này, đó là, sự ít mong muốn."
 
 <!--pg-->
-### AN 8.24 Cùng Hatthaka (Thứ hai) *Dutiyahatthakasutta*
+### AN 8.24 Cùng Hatthaka (Thứ hai) *Dutiyahatthakasutta*{#24}
 
 Một thời Đức Phật trú gần Āḷavī, tại điện thờ cây Aggāḷava. Bấy giờ, gia chủ Hatthaka ở Āḷavī, cùng với khoảng năm trăm vị cư sĩ tại gia, đến gặp Đức Phật, đảnh lễ, rồi ngồi xuống một bên. Đức Phật nói với Hatthaka:
 
@@ -110,7 +110,7 @@ Một thời Đức Phật trú gần Āḷavī, tại điện thờ cây Aggā�
 Sau đó, Đức Phật đã giáo huấn, khuyến khích, làm phấn khởi và truyền cảm hứng cho Hatthaka ở Āḷavī bằng một bài Pháp thoại, sau đó ông đứng dậy từ chỗ ngồi, đảnh lễ, và đi nhiễu quanh Đức Phật một cách kính cẩn trước khi rời đi. Rồi, không lâu sau khi Hatthaka rời đi, Đức Phật gọi các Tỳ kheo: "Này các Tỳ kheo, các con nên ghi nhớ gia chủ Hatthaka ở Āḷavī là người có tám phẩm chất kỳ diệu và phi thường. Tám phẩm chất đó là gì? Ông ấy có niềm tin, có đạo đức, biết xấu hổ, biết sợ điều ác, học rộng, rộng rãi, có trí tuệ, và ít mong muốn. Các con nên ghi nhớ gia chủ Hatthaka ở Āḷavī là người có tám phẩm chất kỳ diệu và phi thường này."
 
 <!--pg-->
-### AN 8.25 Cùng Mahānāma *Mahānāmasutta*
+### AN 8.25 Cùng Mahānāma *Mahānāmasutta*{#25}
 
 Một thời Đức Phật trú tại xứ của dòng họ Thích Ca, gần Ca-tỳ-la-vệ trong tu viện Cây Bàng. Bấy giờ Mahānāma dòng Thích Ca đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài:
 
@@ -131,7 +131,7 @@ Một thời Đức Phật trú tại xứ của dòng họ Thích Ca, gần Ca-
 "Một cư sĩ tại gia thành tựu niềm tin và khuyến khích người khác làm như vậy. Họ thành tựu giới hạnh và khuyến khích người khác làm như vậy. Họ thành tựu sự rộng rãi và khuyến khích người khác làm như vậy. Họ thích gặp gỡ các Tỳ kheo và khuyến khích người khác làm như vậy. Họ thích nghe Chánh Pháp và khuyến khích người khác làm như vậy. Họ dễ dàng ghi nhớ những lời dạy đã nghe và khuyến khích người khác làm như vậy. Họ suy xét ý nghĩa của những lời dạy đã ghi nhớ và khuyến khích người khác làm như vậy. Hiểu rõ ý nghĩa và lời dạy, họ thực hành theo đó và họ khuyến khích người khác làm như vậy. Đó là cách chúng ta định nghĩa một cư sĩ tại gia đang thực hành vì lợi ích của cả bản thân và người khác."
 
 <!--pg-->
-### AN 8.26 Cùng Jīvaka *Jīvakasutta*
+### AN 8.26 Cùng Jīvaka *Jīvakasutta*{#26}
 
 Một thời Đức Phật trú gần Vương Xá trong Vườn Xoài của Jīvaka. Bấy giờ Jīvaka Komārabhacca đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và nói với Ngài: "Thưa Thế Tôn, một cư sĩ tại gia được định nghĩa như thế nào?"
 
@@ -150,12 +150,12 @@ Một thời Đức Phật trú gần Vương Xá trong Vườn Xoài của Jīv
 "Một cư sĩ tại gia thành tựu niềm tin và khuyến khích người khác làm như vậy. Họ thành tựu giới hạnh và khuyến khích người khác làm như vậy. Họ thành tựu sự rộng rãi và khuyến khích người khác làm như vậy. Họ thích gặp gỡ các Tỳ kheo và khuyến khích người khác làm như vậy. Họ thích nghe Chánh Pháp và khuyến khích người khác làm như vậy. Họ dễ dàng ghi nhớ những lời dạy đã nghe và khuyến khích người khác làm như vậy. Họ suy xét ý nghĩa của những lời dạy đã ghi nhớ và khuyến khích người khác làm như vậy. Hiểu rõ ý nghĩa và lời dạy, họ thực hành theo đó và họ khuyến khích người khác làm như vậy. Đó là cách chúng ta định nghĩa một cư sĩ tại gia đang thực hành vì lợi ích của cả bản thân và người khác."
 
 <!--pg-->
-### AN 8.27 Các loại sức mạnh (Thứ nhất) *Paṭhamabalasutta*
+### AN 8.27 Các loại sức mạnh (Thứ nhất) *Paṭhamabalasutta*{#27}
 
 "Này các Tỳ kheo, có tám loại sức mạnh này. Tám loại đó là gì? Tiếng khóc là sức mạnh của trẻ con. Sự tức giận là sức mạnh của phụ nữ. Vũ khí là sức mạnh của kẻ cướp. Quyền lực là sức mạnh của vua chúa. Than phiền là sức mạnh của kẻ ngu. Lý lẽ là sức mạnh của người khôn ngoan. Sự suy ngẫm là sức mạnh của người học rộng. *Nhẫn nại* (Patience / sự chịu đựng, kiên trì) là sức mạnh của *sa môn* (ascetics / người tu khổ hạnh) và *bà la môn* (brahmins / người thuộc giai cấp tu sĩ Bà la môn giáo). Đây là tám loại sức mạnh."
 
 <!--pg-->
-### AN 8.28 Các loại sức mạnh (Thứ hai) *Dutiyabalasutta*
+### AN 8.28 Các loại sức mạnh (Thứ hai) *Dutiyabalasutta*{#28}
 
 Bấy giờ Tôn giả Xá Lợi Phất đến gặp Đức Phật, đảnh lễ, và ngồi xuống một bên. Đức Phật nói với Tôn giả:
 
@@ -176,7 +176,7 @@ Hơn nữa, một Tỳ kheo đã đoạn tận các lậu hoặc đã phát tri�
 Một Tỳ kheo đã đoạn tận các lậu hoặc có tám sức mạnh này để có thể tuyên bố: ‘Các lậu hoặc của tôi đã đoạn tận.’"
 
 <!--pg-->
-### AN 8.29 Những cơ hội bị bỏ lỡ *Akkhaṇasutta*
+### AN 8.29 Những cơ hội bị bỏ lỡ *Akkhaṇasutta*{#29}
 
 "‘Bây giờ là lúc! Bây giờ là lúc!’ Một người phàm phu ít học nói như vậy. Nhưng họ không biết đó có phải là lúc hay không. Này các Tỳ kheo, có tám cơ hội bị bỏ lỡ để tu tập tâm linh (tám phi thời, không phải cơ hội để tu tập phạm hạnh). Tám cơ hội đó là gì?
 
@@ -254,7 +254,7 @@ Này các Tỳ kheo, chỉ có một cơ hội duy nhất để tu tập tâm li
 > Đã đạt đến sự đoạn tận các lậu hoặc."
 
 <!--pg-->
-### AN 8.30 A-nu-lâu-đà và những Suy Tư Lớn *Anuruddhamahāvitakkasutta*
+### AN 8.30 A-nu-lâu-đà và những Suy Tư Lớn *Anuruddhamahāvitakkasutta*{#30}
 
 Một thời Đức Phật trú tại xứ Bhaggas ở Đồi Cá Sấu, trong vườn nai ở Rừng Bhesakaḷā. Và vào lúc đó, Tôn giả A-nu-lâu-đà đang trú tại xứ Cetīs trong Công viên Trúc Lâm phía Đông. Bấy giờ, khi Tôn giả A-nu-lâu-đà đang độc cư thiền định, ý nghĩ này khởi lên trong tâm ngài:
 

@@ -1,6 +1,6 @@
 # Phẩm Về Thân Sanh Bởi Nghiệp
 
-### AN 10.211 Trời và Địa Ngục (1) *Paṭhamanirayasaggasutta*
+### AN 10.211 Trời và Địa Ngục (1) *Paṭhamanirayasaggasutta*{#211}
 
 "Người có mười phẩm chất sẽ bị đọa vào địa ngục. Mười phẩm chất đó là gì? Đó là khi một người nào đó:
 Sát sanh. Người ấy bạo lực, tay vấy máu, một kẻ giết người chai sạn, không có lòng thương xót đối với *chúng sanh* (sentient beings / các loài hữu tình, những sinh vật có cảm giác và nhận thức).
@@ -47,7 +47,7 @@ Có *chánh kiến* (right view / *sammādiṭṭhi*, cái thấy đúng đắn,
 Người có mười phẩm chất này sẽ được sanh lên cõi trời."
 
 <!--pg-->
-### AN 10.212 Trời và Địa Ngục (2) *Dutiyanirayasaggasutta*
+### AN 10.212 Trời và Địa Ngục (2) *Dutiyanirayasaggasutta*{#212}
 
 "Người có mười phẩm chất sẽ bị đọa vào địa ngục. Mười phẩm chất đó là gì? Đó là khi một người nào đó sát sanh. Người ấy bạo lực, tay vấy máu, một kẻ giết người chai sạn, không có lòng thương xót đối với chúng sanh.
 
@@ -58,28 +58,28 @@ Người có mười phẩm chất sẽ được sanh lên cõi trời. Mười 
 Người ấy từ bỏ lấy của không cho. ... Người ấy từ bỏ tà dâm. ... Người ấy từ bỏ nói dối. ... Người ấy từ bỏ nói lời chia rẽ. ... Người ấy từ bỏ nói lời ác khẩu. ... Người ấy từ bỏ nói lời vô ích. ... Người ấy biết đủ. ... Người ấy có tâm từ. ... Người ấy có chánh kiến. ... Người có mười phẩm chất này sẽ được sanh lên cõi trời."
 
 <!--pg-->
-### AN 10.213 Người Nữ *Mātugāmasutta*
+### AN 10.213 Người Nữ *Mātugāmasutta*{#213}
 
 "Người nữ có mười phẩm chất sẽ bị đọa vào địa ngục. Mười phẩm chất đó là gì? Cô ấy sát sanh. ... Cô ấy lấy của không cho. ... Cô ấy tà dâm. ... Cô ấy nói dối. ... Cô ấy nói lời chia rẽ. ... Cô ấy nói lời ác khẩu. ... Cô ấy nói lời vô ích. ... Cô ấy tham lam. ... Cô ấy có ý định độc ác. ... Cô ấy có tà kiến. ... Người nữ có mười phẩm chất này sẽ bị đọa vào địa ngục.
 
 Người nữ có mười phẩm chất sẽ được sanh lên cõi trời. Mười phẩm chất đó là gì? Cô ấy không sát sanh. ... Cô ấy không lấy của không cho. ... Cô ấy không tà dâm. ... Cô ấy không nói dối. ... Cô ấy không nói lời chia rẽ. ... Cô ấy không nói lời ác khẩu. ... Cô ấy không nói lời vô ích. ... Cô ấy biết đủ. ... Cô ấy có tâm từ. ... Cô ấy có chánh kiến. ... Người nữ có mười phẩm chất này sẽ được sanh lên cõi trời."
 
 <!--pg-->
-### AN 10.214 Nữ Cư Sĩ *Upāsikāsutta*
+### AN 10.214 Nữ Cư Sĩ *Upāsikāsutta*{#214}
 
 "Nữ *cư sĩ tại gia* (laywoman / *upāsikā*, người nữ Phật tử tại gia) có mười phẩm chất sẽ bị đọa vào địa ngục. Mười phẩm chất đó là gì? Cô ấy sát sanh. ... Cô ấy có tà kiến. ... Nữ cư sĩ tại gia có mười phẩm chất này sẽ bị đọa vào địa ngục.
 
 Nữ cư sĩ tại gia có mười phẩm chất sẽ được sanh lên cõi trời. Mười phẩm chất đó là gì? Cô ấy không sát sanh. ... Cô ấy có chánh kiến. ... Nữ cư sĩ tại gia có mười phẩm chất này sẽ được sanh lên cõi trời."
 
 <!--pg-->
-### AN 10.215 Tự Tin *Visāradasutta*
+### AN 10.215 Tự Tin *Visāradasutta*{#215}
 
 "Nữ cư sĩ tại gia sống ở nhà với mười phẩm chất này thì không tự tin. Mười phẩm chất đó là gì? Cô ấy sát sanh. ... Cô ấy có tà kiến. ... Nữ cư sĩ tại gia sống ở nhà với mười phẩm chất này thì không tự tin.
 
 Nữ cư sĩ tại gia sống ở nhà với mười phẩm chất này thì tự tin. Mười phẩm chất đó là gì? Cô ấy không sát sanh. ... Cô ấy có chánh kiến. ... Nữ cư sĩ tại gia sống ở nhà với mười phẩm chất này thì tự tin."
 
 <!--pg-->
-### AN 10.216 Những Sinh Vật Lén Lút *Saṁsappanīyasutta*
+### AN 10.216 Những Sinh Vật Lén Lút *Saṁsappanīyasutta*{#216}
 
 "Này các *Tỳ kheo* (Mendicants / Bhikkhus, những vị sư khất thực, đệ tử xuất gia nam của Phật), Ta sẽ giảng cho các thầy bài Pháp về những sinh vật lén lút (*saṁsappanīya* (creepy creatures / những loài di chuyển bằng cách trườn bò, hoặc có hành vi lén lút, ám chỉ cả nghĩa đen về loài vật và nghĩa bóng về nghiệp bất thiện)). Hãy lắng nghe và *như lý tác ý* (apply your mind well / *yoniso manasikāra*, sự suy tư, chú ý một cách đúng đắn, có trí tuệ, hướng đến nguồn gốc của các pháp), Ta sẽ nói."
 
@@ -106,7 +106,7 @@ Người có cảnh giới tái sanh và sự sanh trở lại đức hạnh, Ta
 Chúng sanh là chủ nhân của nghiệp và là người thừa tự nghiệp. Nghiệp là thai tạng, là quyến thuộc, là nơi nương tựa của chúng. Chúng sẽ là người thừa tự của bất cứ nghiệp nào chúng làm, dù tốt hay xấu. Đây là bài Pháp về những sinh vật lén lút."
 
 <!--pg-->
-### AN 10.217 Cố Ý (1) *Paṭhamasañcetanikasutta*
+### AN 10.217 Cố Ý (1) *Paṭhamasañcetanikasutta*{#217}
 
 "Này các Tỳ kheo, Ta không nói rằng những *nghiệp cố ý* (intentional deeds / *sañcetanika kamma*, hành động được thúc đẩy bởi ý muốn có chủ tâm) đã làm và đã tích lũy lại bị tiêu trừ mà không phải chịu quả báo. Và quả báo đó có thể xảy ra ngay trong đời này, hoặc trong đời sau, hoặc trong một khoảng thời gian kế tiếp nào đó. Và Ta không nói rằng khổ đau chấm dứt mà không phải chịu quả báo của những nghiệp cố ý đã làm và đã tích lũy.
 
@@ -177,7 +177,7 @@ Khi thân hoại mạng chung, sau khi chết, chúng sanh tái sanh vào *nơi 
 Giống như tung những con súc sắc không bao giờ sai: chúng luôn rơi đúng mặt. Cũng vậy, khi thân hoại mạng chung, sau khi chết, chúng sanh tái sanh vào nơi tốt đẹp, ở cõi trời vì ba loại thành công của hành động thuộc về thân này, bốn loại thành công của hành động thuộc về lời nói này, hoặc ba loại thành công của hành động thuộc về ý này mà có tư tâm thiện, với hạnh phúc là kết quả và hậu quả của chúng. Ta không nói rằng những nghiệp cố ý đã làm và đã tích lũy lại bị tiêu trừ mà không phải chịu quả báo. Và quả báo đó có thể xảy ra ngay trong đời này, hoặc trong đời sau, hoặc trong một khoảng thời gian kế tiếp nào đó. Và Ta không nói rằng khổ đau chấm dứt mà không phải chịu quả báo của những nghiệp cố ý đã làm và đã tích lũy."
 
 <!--pg-->
-### AN 10.218 Cố Ý (2) *Dutiyasañcetanikasutta*
+### AN 10.218 Cố Ý (2) *Dutiyasañcetanikasutta*{#218}
 
 "Này các Tỳ kheo, Ta không nói rằng những nghiệp cố ý đã làm và đã tích lũy lại bị tiêu trừ mà không phải chịu quả báo. Và quả báo đó có thể xảy ra ngay trong đời này, hoặc trong đời sau, hoặc trong một khoảng thời gian kế tiếp nào đó. Và Ta không nói rằng khổ đau chấm dứt mà không phải chịu quả báo của những nghiệp cố ý đã làm và đã tích lũy.
 
@@ -204,7 +204,7 @@ Và ba loại thành công của hành động thuộc về ý là gì? ... Đó
 Khi thân hoại mạng chung, sau khi chết, chúng sanh tái sanh vào nơi tốt đẹp, ở cõi trời vì ba loại thành công của hành động thuộc về thân này, bốn loại thành công của hành động thuộc về lời nói này, hoặc ba loại thành công của hành động thuộc về ý này mà có tư tâm thiện, với hạnh phúc là kết quả và hậu quả của chúng. ..."
 
 <!--pg-->
-### AN 10.219 Thân Sanh Bởi Nghiệp *Karajakāyasutta*
+### AN 10.219 Thân Sanh Bởi Nghiệp *Karajakāyasutta*{#219}
 
 "Này các Tỳ kheo, Ta không nói rằng những nghiệp cố ý đã làm và đã tích lũy lại bị tiêu trừ mà không phải chịu quả báo. Và quả báo đó có thể xảy ra ngay trong đời này, hoặc trong đời sau, hoặc trong một khoảng thời gian kế tiếp nào đó. Và Ta không nói rằng khổ đau chấm dứt mà không phải chịu quả báo của những nghiệp cố ý đã làm và đã tích lũy.
 
@@ -237,7 +237,7 @@ Các thầy nghĩ sao, này các Tỳ kheo? Giả sử một đứa trẻ đã p
 "Tâm giải thoát nhờ xả này nên được phát triển bởi phụ nữ hay đàn ông. Vì cả phụ nữ lẫn đàn ông đều không mang theo thân này khi họ ra đi. Tâm mới là cái cốt lõi bên trong chúng sanh hữu tử. Họ hiểu rõ: 'Bất cứ nghiệp xấu nào ta đã làm trong quá khứ với thân sanh bởi nghiệp này, ta sẽ trải nghiệm (quả báo) ở đây. Nó sẽ không theo ta đến đời sau.' Tâm giải thoát nhờ xả được phát triển theo cách này sẽ dẫn đến quả vị bất lai cho một vị Tỳ kheo có trí tuệ ở đây mà chưa chứng đạt giải thoát cao hơn."
 
 <!--pg-->
-### AN 10.220 Hành Vi Phi Pháp *Adhammacariyāsutta*
+### AN 10.220 Hành Vi Phi Pháp *Adhammacariyāsutta*{#220}
 
 Khi ấy, một vị bà la môn đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và chuyện trò thân mật xong, vị ấy ngồi xuống một bên và thưa với Đức Phật:
 

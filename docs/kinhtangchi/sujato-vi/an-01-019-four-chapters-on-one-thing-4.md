@@ -1,6 +1,6 @@
 # Bốn Chương Về Một Pháp (4-Phẩm Thứ Tư)
 
-### AN 1.333--377 *Catutthavagga*
+### AN 1.333--377 *Catutthavagga*{#333-377}
 
 333\. "Này các Tỳ kheo, cũng như ở Xứ Cây Trâm Đen, những công viên, khu rừng, đồng cỏ, và hồ sen tươi đẹp thì ít, trong khi địa hình đồi núi, những vùng sông ngòi khó đi, đầy gốc cây và gai góc, và núi non hiểm trở thì nhiều; cũng vậy, những *chúng sanh* (sentient beings / các loài có cảm giác, có sự sống và tâm thức) sanh trên cạn thì ít, còn những chúng sanh sanh dưới nước thì nhiều.
 

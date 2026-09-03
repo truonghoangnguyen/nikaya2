@@ -1,6 +1,6 @@
 # Phẩm Về Người Bảo Hộ
 
-### AN 10.11 Trú Xứ *Senāsanasutta*
+### AN 10.11 Trú Xứ *Senāsanasutta*{#11}
 
 "Này các Tỳ kheo, một Tỳ kheo có năm yếu tố, sử dụng và thường xuyên lui tới những trú xứ có năm yếu tố, sẽ sớm chứng ngộ *vô nhiễm tâm giải thoát* (undefiled freedom of heart / sự giải thoát tâm không còn ô nhiễm) và *tuệ giải thoát* (freedom by wisdom / sự giải thoát bằng trí tuệ) ngay trong đời này, và sống sau khi đã chứng ngộ điều đó bằng *thắng trí* (own insight / sự hiểu biết vượt trội, sự tự mình chứng ngộ) của mình do sự đoạn tận các *lậu hoặc* (defilements / những ô nhiễm tiềm ẩn, những phiền não vi tế làm chúng sinh trôi lăn trong vòng luân hồi).
 
@@ -9,7 +9,7 @@ Và thế nào là một Tỳ kheo có năm yếu tố? Đó là khi một vị 
 Và thế nào là một trú xứ có năm yếu tố? Đó là khi một trú xứ không quá xa cũng không quá gần, mà thuận tiện cho việc đi lại. Ban ngày không bị người quấy rầy, và ban đêm thì yên tĩnh và vắng lặng. Ít có sự phiền nhiễu từ ruồi, muỗi, gió, nắng, và loài bò sát. Khi ở tại trú xứ đó, những nhu yếu phẩm—y phục, vật thực khất thực, chỗ ở, và thuốc men cùng vật dụng cho người bệnh—dễ dàng kiếm được. Và tại trú xứ đó có nhiều vị Tỳ kheo trưởng lão rất uyên bác, những người thừa kế di sản Pháp, đã ghi nhớ giáo pháp, luật tạng, và các đề cương. Thỉnh thoảng, họ đến gặp các vị Tỳ kheo ấy và hỏi các vị ấy những câu hỏi: ‘Thưa ngài, tại sao lại nói như vậy? Điều đó có nghĩa là gì?’ Các bậc tôn giả ấy làm sáng tỏ những điều chưa rõ, phơi bày những điều còn che khuất, và xua tan nghi ngờ về nhiều vấn đề còn hoài nghi. Đó là cách một trú xứ có năm yếu tố. Một Tỳ kheo có năm yếu tố, sử dụng và thường xuyên lui tới những trú xứ có năm yếu tố, sẽ sớm chứng ngộ vô nhiễm tâm giải thoát và tuệ giải thoát ngay trong đời này, và sống sau khi đã chứng ngộ điều đó bằng thắng trí của mình do sự đoạn tận các lậu hoặc."
 
 <!--pg-->
-### AN 10.12 Năm Yếu Tố *Pañcaṅgasutta*
+### AN 10.12 Năm Yếu Tố *Pañcaṅgasutta*{#12}
 
 "Này các Tỳ kheo, trong giáo pháp và giới luật này, một Tỳ kheo đã từ bỏ năm yếu tố và sở hữu năm yếu tố được gọi là bậc toàn hảo, bậc thành tựu, bậc tối thượng.
 
@@ -35,14 +35,14 @@ Trong giáo pháp và giới luật này, một Tỳ kheo đã từ bỏ năm y�
 > họ được gọi là ‘bậc toàn hảo’."
 
 <!--pg-->
-### AN 10.13 Kiết Sử *Saṁyojanasutta*
+### AN 10.13 Kiết Sử *Saṁyojanasutta*{#13}
 
 "Này các Tỳ kheo, có mười *kiết sử* (fetters / những trói buộc). Mười kiết sử đó là gì? Năm hạ phần kiết sử và năm thượng phần kiết sử. Năm hạ phần kiết sử là gì? *Thân kiến* (substantialist view / chấp vào một cái "ta" hay "cái của ta" thường hằng, một thực thể bền vững), hoài nghi, *sùng tín và giáo điều* (misapprehension of precepts and observances / *giới cấm thủ*, sự hiểu lầm về các giới luật và sự tuân thủ), dục tham, và tức giận. Đây là năm hạ phần kiết sử.
 
 Năm thượng phần kiết sử là gì? *Sắc ái* (desire for rebirth in the realm of luminous form / tham ái cõi sắc giới), *vô sắc ái* (desire for rebirth in the formless realm / tham ái cõi vô sắc giới), *mạn* (conceit / sự kiêu ngạo, tự mãn), *bồn chồn lo lắng* (restlessness / *trạo cử*, sự dao động của tâm), và *vô minh* (ignorance / sự không hiểu biết, thiếu sáng suốt). Đây là năm thượng phần kiết sử. Đây là mười kiết sử."
 
 <!--pg-->
-### AN 10.14 Tâm Chai Sạn *Cetokhilasutta*
+### AN 10.14 Tâm Chai Sạn *Cetokhilasutta*{#14}
 
 "Này các Tỳ kheo, một Tỳ kheo hay Tỳ kheo ni chưa từ bỏ năm loại *tâm chai sạn* (hard-heartedness / sự cứng cỏi, chai lì của tâm) và chưa đoạn trừ năm *sự trói buộc của tâm* (shackles of the heart / những ràng buộc, níu giữ trong tâm) thì chỉ có thể mong đợi sự suy giảm, không tăng trưởng, trong các pháp thiện, dù ngày hay đêm.
 
@@ -76,7 +76,7 @@ Một Tỳ kheo hay Tỳ kheo ni đã từ bỏ năm loại tâm chai sạn này
 Ví như mặt trăng trong tuần trăng tròn (thượng huyền). Dù ngày hay đêm, vẻ đẹp, độ tròn, ánh sáng, và đường kính cùng chu vi của nó chỉ tăng trưởng. Cũng vậy, một Tỳ kheo hay Tỳ kheo ni đã từ bỏ năm loại tâm chai sạn này và đã đoạn trừ năm sự trói buộc của tâm này thì có thể mong đợi sự tăng trưởng, không suy giảm, trong các pháp thiện, dù ngày hay đêm."
 
 <!--pg-->
-### AN 10.15 Không Sao Nhãng *Appamādasutta*
+### AN 10.15 Không Sao Nhãng *Appamādasutta*{#15}
 
 "Này các Tỳ kheo, bậc Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác, được xem là tối thượng trong tất cả chúng sinh—dù là không chân, hai chân, bốn chân, hay nhiều chân; có sắc hay vô sắc; có *nhận thức* (perceptions / *tưởng*, nhận biết-phân biệt và gắn nhãn) hay không có nhận thức, hay phi nhận thức phi phi nhận thức. Cũng vậy, tất cả các pháp thiện đều bắt nguồn từ sự *không sao nhãng* (diligence / *appamāda*, sự chuyên cần, không lơ là), quy tụ về sự không sao nhãng, và sự không sao nhãng được xem là tối thượng trong các pháp ấy.
 
@@ -99,12 +99,12 @@ Vào mùa thu, bầu trời trong sáng không mây. Và khi mặt trời mọc 
 Tất cả các sông lớn—nghĩa là, Hằng Hà, Yamunā, Aciravatī, Sarabhū, và Mahī—đều chảy, nghiêng, dốc, và hướng về biển cả, và biển cả được xem là lớn nhất trong số đó. Cũng vậy, tất cả các pháp thiện đều bắt nguồn từ sự không sao nhãng, quy tụ về sự không sao nhãng, và sự không sao nhãng được xem là tối thượng trong các pháp ấy."
 
 <!--pg-->
-### AN 10.16 Đáng Được Cúng Dường Chư Thiên *Āhuneyyasutta*
+### AN 10.16 Đáng Được Cúng Dường Chư Thiên *Āhuneyyasutta*{#16}
 
 "Này các Tỳ kheo, mười hạng người này đáng được *cúng dường chư thiên* (offerings dedicated to the gods / sự dâng cúng dành cho các vị trời, ở đây chỉ sự cúng dường cao quý nhất), đáng được khoản đãi, đáng được bố thí, đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Mười hạng người đó là gì? Bậc Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác; bậc *Độc Giác Phật* (Independent Buddha / vị Phật tự mình giác ngộ nhưng không thuyết pháp rộng rãi); bậc *câu phần giải thoát* (freed both ways / người giải thoát cả về tâm và tuệ, tức là chứng đắc các tầng thiền và cả trí tuệ giải thoát); bậc tuệ giải thoát; bậc *thân chứng* (direct witness / người tự mình chứng nghiệm chân lý); bậc *kiến đáo* (attained to view / người đạt được chánh kiến, thấy rõ chân lý); bậc *tín giải thoát* (freed by faith / người giải thoát nhờ niềm tin); bậc *tùy tín hành* (follower by faith / người thực hành theo niềm tin); bậc *tùy pháp hành* (follower of teachings / người thực hành theo giáo pháp); bậc *chủng tánh* (lamb of the flock / *gotrabhū*, người thuộc dòng dõi Thánh, người có khuynh hướng tu tập). Đây là mười hạng người đáng được cúng dường chư thiên, đáng được khoản đãi, đáng được bố thí, đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 10.17 Người Bảo Hộ (Thứ Nhất) *Paṭhamanāthasutta*
+### AN 10.17 Người Bảo Hộ (Thứ Nhất) *Paṭhamanāthasutta*{#17}
 
 "Này các Tỳ kheo, các vị nên sống có người bảo hộ, không nên không có người bảo hộ. Sống không có người bảo hộ là khổ. Có mười phẩm chất đóng vai trò người bảo hộ. Mười phẩm chất đó là gì? Thứ nhất, một Tỳ kheo có *giới đức*, được chế ngự trong giới luật của Tăng đoàn, hành xử tốt đẹp và đi khất thực ở những nơi thích hợp. Thấy sự nguy hiểm trong lỗi nhỏ nhặt nhất, họ giữ gìn các học giới đã thọ nhận. Đây là một phẩm chất đóng vai trò người bảo hộ.
 
@@ -129,7 +129,7 @@ Hơn nữa, một Tỳ kheo có trí tuệ. Họ có trí tuệ về sự sinh d
 Các vị nên sống có người bảo hộ, không nên không có người bảo hộ. Sống không có người bảo hộ là khổ. Đây là mười phẩm chất đóng vai trò người bảo hộ."
 
 <!--pg-->
-### AN 10.18 Người Bảo Hộ (Thứ Hai) *Dutiyanāthasutta*
+### AN 10.18 Người Bảo Hộ (Thứ Hai) *Dutiyanāthasutta*{#18}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú tại gần Sāvatthī (Xá-vệ), tại Vườn Jeta (Kỳ-đà Lâm), tu viện của Anāthapiṇḍika (Cấp Cô Độc). Tại đó, Đức Phật gọi các Tỳ kheo: "Này các Tỳ kheo!"
 
@@ -160,12 +160,12 @@ Các vị nên sống có người bảo hộ, không nên không có người b
 Đó là những gì Đức Phật đã nói. Các Tỳ kheo hoan hỷ, tín thọ lời Đức Phật dạy.
 
 <!--pg-->
-### AN 10.19 Trú Xứ Của Bậc Thánh (Thứ Nhất) *Paṭhamaariyāvāsasutta*
+### AN 10.19 Trú Xứ Của Bậc Thánh (Thứ Nhất) *Paṭhamaariyāvāsasutta*{#19}
 
 "Có mười trú xứ của bậc Thánh này, nơi các bậc Thánh trong quá khứ, hiện tại, và tương lai an trú. Mười trú xứ đó là gì? Một Tỳ kheo đã từ bỏ năm yếu tố, được phú cho sáu yếu tố, có một sự bảo vệ duy nhất, có bốn sự hỗ trợ, đã loại bỏ các kiến giải riêng biệt về chân lý, đã hoàn toàn từ bỏ sự tìm kiếm, có những ý định thanh tịnh, đã làm lắng dịu tiến trình thân thể, và tâm được giải thoát tốt đẹp cùng được giải thoát tốt đẹp bằng trí tuệ. Đây là mười trú xứ của bậc Thánh, nơi các bậc Thánh trong quá khứ, hiện tại, và tương lai an trú."
 
 <!--pg-->
-### AN 10.20 Trú Xứ Của Bậc Thánh (Thứ Hai) *Dutiyaariyāvāsasutta*
+### AN 10.20 Trú Xứ Của Bậc Thánh (Thứ Hai) *Dutiyaariyāvāsasutta*{#20}
 
 Một thời Đức Phật trú tại xứ Kuru, gần thị trấn Kammāsadamma của người Kuru. Tại đó, Đức Phật gọi các Tỳ kheo:
 

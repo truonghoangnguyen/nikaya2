@@ -1,6 +1,6 @@
 # Phẩm về Những Điểm Không Được Tuyên Bố
 
-### AN 7.54 Những Điểm Không Được Tuyên Bố *Abyākatasutta*
+### AN 7.54 Những Điểm Không Được Tuyên Bố *Abyākatasutta*{#54}
 
 Khi ấy, một vị *Tỳ kheo* đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên và thưa:
 
@@ -15,7 +15,7 @@ Một vị thánh đệ tử có học thì hiểu rõ các quan điểm, nguồ
 Một vị thánh đệ tử có học thì hiểu rõ sự hối hận, nguồn gốc của nó, sự chấm dứt của nó, và con đường thực hành đưa đến sự chấm dứt của nó. Và vì thế, sự hối hận của họ chấm dứt. Họ giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói rằng, họ giải thoát khỏi khổ đau. Biết và thấy như vậy, một vị thánh đệ tử có học không trả lời: 'Một Bậc Giác Ngộ vẫn tồn tại sau khi chết' ... 'một Bậc Giác Ngộ không tồn tại cũng không không tồn tại sau khi chết.' Biết và thấy như vậy, một vị thánh đệ tử có học không tuyên bố những điểm không được tuyên bố. Biết và thấy như vậy, một vị thánh đệ tử có học không dao động, không run rẩy, không kinh sợ, hay lo lắng về những điểm không được tuyên bố. Đây là nhân, đây là duyên tại sao một vị thánh đệ tử có học không còn nghi ngờ về những điểm không được tuyên bố."
 
 <!--pg-->
-### AN 7.55 Các Cõi Tái Sinh Của Con Người *Purisagatisutta*
+### AN 7.55 Các Cõi Tái Sinh Của Con Người *Purisagatisutta*{#55}
 
 "Này các Tỳ kheo, Ta sẽ dạy các ông bảy cõi tái sinh của con người, và *Niết-bàn do không chấp thủ* (extinguishment by not grasping / sự giải thoát hoàn toàn nhờ không bám víu). Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
 
@@ -42,7 +42,7 @@ Và Niết-bàn do không chấp thủ là gì? Hãy xem một Tỳ kheo thực 
 Đây là bảy cõi tái sinh của con người, và Niết-bàn do không chấp thủ."
 
 <!--pg-->
-### AN 7.56 Phạm Thiên Tissa *Tissabrahmāsutta*
+### AN 7.56 Phạm Thiên Tissa *Tissabrahmāsutta*{#56}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú tại Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu).
 
@@ -95,7 +95,7 @@ Ngài Moggallāna chấp thuận và đồng ý với những gì Phạm thiên 
 "Này Moggallāna, hãy xem trường hợp một Tỳ kheo, không chú tâm vào bất kỳ dấu hiệu nào, nhập và trú trong *vô tướng tâm định* (signless immersion of the heart / trạng thái thiền định mà tâm không còn bám vào bất kỳ dấu hiệu hay đối tượng nào). Các vị trời biết về vị ấy: 'Vị tôn giả này, không chú tâm vào bất kỳ dấu hiệu nào, nhập và trú trong vô tướng tâm định. Hy vọng vị tôn giả này sẽ thường xuyên lui tới những trú xứ thích hợp, kết giao với bạn lành, và thu thúc các căn. Khi đó, vị ấy có thể chứng ngộ sự viên mãn tối thượng của đời sống phạm hạnh ngay trong đời này, và sống sau khi đã đạt được bằng chính tuệ giác của mình mục đích mà vì đó người thiện gia nam tử chân chánh xuất gia từ bỏ đời sống tại gia.' Đây cũng là cách các vị trời ấy biết một người có còn dư sót gì hay không."
 
 <!--pg-->
-### AN 7.57 Tướng Quân Sīha *Sīhasenāpatisutta*
+### AN 7.57 Tướng Quân Sīha *Sīhasenāpatisutta*{#57}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần Vesālī, tại Đại Lâm, trong giảng đường có mái nhọn. Khi ấy, *Tướng quân Sīha* (General Sīha / vị tướng quân tên Sīha) đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và thưa:
 
@@ -126,7 +126,7 @@ Khi nói về những quả của bố thí hiện hữu trong đời này, tôi
 "Đúng vậy, Sīha! Đúng vậy! Khi thân thể của người bố thí tan rã, sau khi chết, họ được tái sinh vào cõi lành, cõi trời."
 
 <!--pg-->
-### AN 7.58 Không Có Gì Phải Che Giấu *Arakkheyyasutta*
+### AN 7.58 Không Có Gì Phải Che Giấu *Arakkheyyasutta*{#58}
 
 "Này các Tỳ kheo, có bốn lĩnh vực mà Bậc Giác Ngộ *không có gì phải che giấu* (nothing to hide / không có điều gì cần giấu giếm), và ba phương diện mà Ngài *không thể bị khiển trách* (irreproachable / không ai có thể chê trách một cách đúng đắn). Bốn lĩnh vực mà Bậc Giác Ngộ không có gì phải che giấu là gì?
 
@@ -153,7 +153,7 @@ Nhiều trăm vị trong hội chúng đệ tử của Ta đã chứng ngộ vô
 Đây là bốn lĩnh vực mà Bậc Giác Ngộ không có gì phải che giấu, và ba phương diện mà Ngài không thể bị khiển trách."
 
 <!--pg-->
-### AN 7.59 Với Kimbila *Kimilasutta*
+### AN 7.59 Với Kimbila *Kimilasutta*{#59}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần Kimbilā, trong rừng Xoài Nước Ngọt. Khi ấy, Đại đức Kimbila đến gặp Đức Phật, đảnh lễ, ngồi xuống một bên, và thưa:
 
@@ -166,12 +166,12 @@ TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần Kimbilā, trong rừ
 "Này Kimbila, đó là khi các Tỳ kheo, Tỳ kheo ni, nam cư sĩ, và nữ cư sĩ duy trì sự tôn kính và kính trọng đối với Bậc Đạo Sư, giáo pháp, Tăng đoàn, sự học tập, thiền định, sự siêng năng, và lòng hiếu khách sau sự nhập diệt hoàn toàn của Bậc Giác Ngộ. Đây là nhân, đây là duyên tại sao Chánh pháp tồn tại lâu dài sau sự nhập diệt hoàn toàn của Bậc Giác Ngộ."
 
 <!--pg-->
-### AN 7.60 Bảy Phẩm Chất *Sattadhammasutta*
+### AN 7.60 Bảy Phẩm Chất *Sattadhammasutta*{#60}
 
 "Này các Tỳ kheo, một Tỳ kheo có bảy phẩm chất sẽ sớm chứng ngộ sự viên mãn tối thượng của đời sống phạm hạnh ngay trong đời này. Họ sống sau khi đã đạt được bằng chính tuệ giác của mình mục đích mà vì đó người thiện gia nam tử chân chánh xuất gia từ bỏ đời sống tại gia. Bảy phẩm chất đó là gì? Đó là khi một Tỳ kheo *có niềm tin* (faithful / tin vào Tam Bảo và nghiệp báo), *có đạo đức* (ethical / giữ gìn giới luật), *học rộng* (learned / hiểu biết nhiều giáo pháp), *sống độc cư* (secluded / sống ở nơi vắng vẻ để tu tập), *siêng năng* (energetic / nỗ lực tinh tấn), *tỉnh thức* (mindful / luôn giữ chánh niệm), và *có trí tuệ* (wise / có sự hiểu biết đúng đắn). Một Tỳ kheo có bảy phẩm chất này sẽ sớm chứng ngộ sự viên mãn tối thượng của đời sống phạm hạnh ngay trong đời này. Họ sống sau khi đã đạt được bằng chính tuệ giác của mình mục đích mà vì đó người thiện gia nam tử chân chánh xuất gia từ bỏ đời sống tại gia."
 
 <!--pg-->
-### AN 7.61 Gật Gù *Pacalāyamānasutta*
+### AN 7.61 Gật Gù *Pacalāyamānasutta*{#61}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú tại xứ Bhagga, tại núi Cá Sấu, trong vườn nai ở rừng Bhesakaḷā.
 
@@ -208,7 +208,7 @@ Khi ngài nói điều này, Đại đức Moggallāna hỏi Đức Phật: "B�
 Vị ấy hiểu rõ: '*Sanh đã tận, phạm hạnh đã thành, những gì cần làm đã làm, không còn trở lui trạng thái này nữa* (Rebirth is ended, the spiritual journey has been completed, what had to be done has been done, there is nothing further for this place / câu tuyên bố của một vị A-la-hán sau khi giác ngộ).' Đó là cách Ta định nghĩa một cách ngắn gọn một Tỳ kheo đã giải thoát nhờ đoạn tận tham ái, đã đạt đến cứu cánh cuối cùng, nơi nương tựa cuối cùng thoát khỏi mọi ràng buộc, đời sống phạm hạnh tối thượng, mục đích cuối cùng, và là bậc tối thắng giữa trời và người."
 
 <!--pg-->
-### AN 7.62 Đừng Sợ Việc Thiện *Mettasutta*
+### AN 7.62 Đừng Sợ Việc Thiện *Mettasutta*{#62}
 
 "Này các Tỳ kheo, đừng sợ *việc thiện* (good deeds / hành động tốt lành). Vì 'việc thiện' là một thuật ngữ chỉ *an vui* (happiness / niềm vui, hạnh phúc). Ta nhớ lại đã trải qua một thời gian dài những *kết quả đáng ưa thích, đáng mong muốn, và dễ chịu* (likable, desirable, and agreeable results / những hậu quả tốt đẹp) của những việc thiện đã làm trong một thời gian dài. Ta đã phát triển *tâm từ* (mind of love / tâm yêu thương) trong bảy năm. Kết quả là, trong bảy *kiếp vũ trụ co lại và giãn nở* (eons of the cosmos contracting and expanding / chu kỳ hình thành và hủy diệt của thế giới) Ta đã không trở lại thế giới này nữa. Khi vũ trụ co lại, Ta đến *cõi Quang Âm thiên* (realm of streaming radiance / cõi trời ánh sáng rực rỡ). Khi nó giãn nở, Ta được tái sinh trong một *lâu đài Phạm thiên trống không* (empty mansion of divinity / cung điện của vị trời Phạm thiên chưa có ai ở).
 
@@ -267,7 +267,7 @@ Vị ấy hiểu rõ: '*Sanh đã tận, phạm hạnh đã thành, những gì 
 > ghi nhớ lời dạy của các Đức Phật."
 
 <!--pg-->
-### AN 7.63 Các Loại Vợ *Bhariyāsutta*
+### AN 7.63 Các Loại Vợ *Bhariyāsutta*{#63}
 
 Rồi Đức Phật đắp y vào buổi sáng, mang bát và y, đến nhà của *gia chủ Anāthapiṇḍika (Cấp Cô Độc)* (householder Anāthapiṇḍika / người thí chủ nổi tiếng đã cúng dường tu viện Jetavana cho Đức Phật), nơi Ngài ngồi xuống chỗ đã trải sẵn.
 
@@ -347,7 +347,7 @@ Này Sujātā, đây là bảy loại vợ mà một người đàn ông có th�
 "Bạch Thế Tôn, từ hôm nay trở đi, xin Đức Phật hãy nhớ đến con như một người vợ giống như người hầu gái."
 
 <!--pg-->
-### AN 7.64 Người Hay Cáu Kỉnh *Kodhanasutta*
+### AN 7.64 Người Hay Cáu Kỉnh *Kodhanasutta*{#64}
 
 "Này các Tỳ kheo, bảy điều này làm hài lòng và giúp đỡ kẻ thù xảy đến với một người phụ nữ hay đàn ông *hay cáu kỉnh* (irritable / dễ nổi nóng, hay gắt gỏng). Bảy điều đó là gì?
 

@@ -1,6 +1,6 @@
 # Phẩm về Chư Thiên
 
-### AN 7.32 Kính Trọng Sự Tinh Cần  *Appamādagāravasutta*
+### AN 7.32 Kính Trọng Sự Tinh Cần  *Appamādagāravasutta*{#32}
 
 Rồi, vào lúc đêm khuya, một vị trời rực rỡ, chiếu sáng khắp rừng Jeta, đến gặp Đức Phật, đảnh lễ, đứng sang một bên, và thưa với Ngài:
 
@@ -21,7 +21,7 @@ Rồi, khi đêm đã qua, Đức Phật kể lại cho các vị Tỷ-kheo tấ
 > Và đã đến gần *Niết-bàn*."
 
 <!--pg-->
-### AN 7.33 Kính Trọng Lòng Xấu Hổ  *Hirigāravasutta*
+### AN 7.33 Kính Trọng Lòng Xấu Hổ  *Hirigāravasutta*{#33}
 
 "Này các vị Tỷ-kheo, đêm nay, một vị trời rực rỡ, chiếu sáng khắp rừng Jeta, đến gặp Ta, đảnh lễ, đứng sang một bên, và thưa với Ta: 'Bạch Thế Tôn, bảy điều này không dẫn đến sự suy thoái của một vị Tỷ-kheo đang tu học. Bảy điều đó là gì? Kính trọng Bậc Đạo Sư, kính trọng Giáo Pháp, kính trọng Tăng đoàn, kính trọng sự học tập, kính trọng thiền định, kính trọng *lòng xấu hổ* (conscience / sự xấu hổ với tội lỗi), và kính trọng *lòng sợ điều ác* (prudence / sự ghê sợ tội lỗi). Bảy điều này không dẫn đến sự suy thoái của một vị Tỷ-kheo đang tu học.'"
 
@@ -38,7 +38,7 @@ Rồi, khi đêm đã qua, Đức Phật kể lại cho các vị Tỷ-kheo tấ
 > Họ đã đến gần Niết-bàn."
 
 <!--pg-->
-### AN 7.34 Dễ Dạy Bảo (Thứ Nhất)  *Paṭhamasovacassatāsutta*
+### AN 7.34 Dễ Dạy Bảo (Thứ Nhất)  *Paṭhamasovacassatāsutta*{#34}
 
 "Này các vị Tỷ-kheo, đêm nay một vị trời... thưa với Ta: 'Bạch Thế Tôn, bảy điều này không dẫn đến sự suy thoái của một vị Tỷ-kheo đang tu học. Bảy điều đó là gì? Kính trọng Bậc Đạo Sư, kính trọng Giáo Pháp, kính trọng Tăng đoàn, kính trọng sự học tập, kính trọng thiền định; *dễ dạy bảo* (being easy to admonish / dễ tiếp thu lời khuyên răn), và tình bạn tốt đẹp. Bảy điều này không dẫn đến sự suy thoái của một vị Tỷ-kheo đang tu học.'"
 
@@ -55,7 +55,7 @@ Rồi, khi đêm đã qua, Đức Phật kể lại cho các vị Tỷ-kheo tấ
 > Và đã đến gần Niết-bàn."
 
 <!--pg-->
-### AN 7.35 Dễ Dạy Bảo (Thứ Hai)  *Dutiyasovacassatāsutta*
+### AN 7.35 Dễ Dạy Bảo (Thứ Hai)  *Dutiyasovacassatāsutta*{#35}
 
 "Này các vị Tỷ-kheo, đêm nay một vị trời... thưa với Ta: 'Bạch Thế Tôn, bảy điều này không dẫn đến sự suy thoái của một vị Tỷ-kheo đang tu học. Bảy điều đó là gì? Kính trọng Bậc Đạo Sư, kính trọng Giáo Pháp, kính trọng Tăng đoàn, kính trọng sự học tập, kính trọng thiền định; dễ dạy bảo, và tình bạn tốt đẹp. Bảy điều này không dẫn đến sự suy thoái của một vị Tỷ-kheo đang tu học.'"
 
@@ -100,7 +100,7 @@ Vị ấy tự mình có bạn tốt, và tán thán tình bạn như vậy. Và
 Đây là cách hiểu ý nghĩa chi tiết của những gì Ta đã nói vắn tắt."
 
 <!--pg-->
-### AN 7.36 Người Bạn (Thứ Nhất)  *Paṭhamamittasutta*
+### AN 7.36 Người Bạn (Thứ Nhất)  *Paṭhamamittasutta*{#36}
 
 "Này các vị Tỷ-kheo, các vị nên kết giao với người bạn có bảy yếu tố. Bảy yếu tố đó là gì? Họ cho những gì khó cho. Họ làm những gì khó làm. Họ chịu đựng những gì khó chịu đựng. Họ tiết lộ bí mật của họ cho bạn. Họ giữ bí mật của bạn. Họ không bỏ rơi bạn lúc gặp khó khăn. Họ không coi thường bạn lúc bạn mất mát. Các vị nên kết giao với người bạn có bảy yếu tố này.
 
@@ -120,7 +120,7 @@ Vị ấy tự mình có bạn tốt, và tán thán tình bạn như vậy. Và
 > Bạn nên kết giao với người như vậy."
 
 <!--pg-->
-### AN 7.37 Người Bạn (Thứ Hai)  *Dutiyamittasutta*
+### AN 7.37 Người Bạn (Thứ Hai)  *Dutiyamittasutta*{#37}
 
 "Này các vị Tỷ-kheo, khi một người bạn có bảy phẩm chất, các vị nên kết giao, đồng hành và gần gũi họ, ngay cả khi họ xua đuổi các vị. Bảy phẩm chất đó là gì? Họ đáng mến, dễ chịu, đáng kính và đáng ngưỡng mộ. Họ khuyên răn bạn và họ chấp nhận lời khuyên răn. Họ nói về những vấn đề sâu sắc. Và họ không xúi giục bạn làm điều xấu. Khi một người bạn có bảy phẩm chất này, các vị nên kết giao, đồng hành và gần gũi họ, ngay cả khi họ xua đuổi các vị.
 
@@ -137,7 +137,7 @@ Vị ấy tự mình có bạn tốt, và tán thán tình bạn như vậy. Và
 > Ngay cả khi họ xua đuổi bạn."
 
 <!--pg-->
-### AN 7.38 Phân Tích Biện Giải (Thứ Nhất)  *Paṭhamapaṭisambhidāsutta*
+### AN 7.38 Phân Tích Biện Giải (Thứ Nhất)  *Paṭhamapaṭisambhidāsutta*{#38}
 
 "Này các vị Tỷ-kheo, một vị Tỷ-kheo có bảy phẩm chất sẽ sớm nhận ra bốn loại *phân tích biện giải* (textual analysis / sự hiểu biết thấu đáo về giáo pháp) và sống sau khi đã đạt được chúng bằng *tuệ giác* (insight / sự hiểu biết sâu sắc, trí tuệ trực tiếp) của chính mình. Bảy phẩm chất đó là gì?
 
@@ -158,7 +158,7 @@ Các dạng thức của các phẩm chất—phù hợp hay không phù hợp, 
 Một vị Tỷ-kheo có bảy phẩm chất này sẽ sớm nhận ra bốn loại phân tích biện giải và sống sau khi đã đạt được chúng bằng tuệ giác của chính mình."
 
 <!--pg-->
-### AN 7.39 Phân Tích Biện Giải (Thứ Hai)  *Dutiyapaṭisambhidāsutta*
+### AN 7.39 Phân Tích Biện Giải (Thứ Hai)  *Dutiyapaṭisambhidāsutta*{#39}
 
 "Này các vị Tỷ-kheo, nhờ có bảy phẩm chất, Tôn giả Xá Lợi Phất đã nhận ra bốn loại phân tích biện giải và sống sau khi đã đạt được chúng bằng tuệ giác của chính mình. Bảy phẩm chất đó là gì?
 
@@ -175,17 +175,17 @@ Các dạng thức của các phẩm chất—phù hợp hay không phù hợp, 
 Nhờ có bảy phẩm chất này, Tôn giả Xá Lợi Phất đã nhận ra bốn loại phân tích biện giải và sống sau khi đã đạt được chúng bằng tuệ giác của chính mình."
 
 <!--pg-->
-### AN 7.40 Làm Chủ Tâm (Thứ Nhất)  *Paṭhamavasasutta*
+### AN 7.40 Làm Chủ Tâm (Thứ Nhất)  *Paṭhamavasasutta*{#40}
 
 "Này các vị Tỷ-kheo, một vị Tỷ-kheo có bảy phẩm chất sẽ làm chủ được tâm mình và không bị tâm làm chủ. Bảy phẩm chất đó là gì? Đó là khi một vị Tỷ-kheo khéo léo trong thiền định, khéo léo trong việc nhập thiền định, khéo léo trong việc duy trì thiền định, khéo léo trong việc xuất thiền định, khéo léo trong việc làm cho tâm hoan hỷ để thiền định, khéo léo trong các *đề mục thiền định* (meditation subjects for immersion / các đối tượng để tập trung tâm khi thiền), và khéo léo trong việc hướng tâm đã được thanh lọc bởi thiền định. Một vị Tỷ-kheo có bảy phẩm chất này sẽ làm chủ được tâm mình và không bị tâm làm chủ."
 
 <!--pg-->
-### AN 7.41 Làm Chủ Tâm (Thứ Hai)  *Dutiyavasasutta*
+### AN 7.41 Làm Chủ Tâm (Thứ Hai)  *Dutiyavasasutta*{#41}
 
 "Này các vị Tỷ-kheo, nhờ có bảy phẩm chất, Tôn giả Xá Lợi Phất đã làm chủ được tâm mình và không bị tâm làm chủ. Bảy phẩm chất đó là gì? Tôn giả Xá Lợi Phất khéo léo trong thiền định, khéo léo trong việc nhập thiền định, khéo léo trong việc duy trì thiền định, khéo léo trong việc xuất thiền định, khéo léo trong việc làm cho tâm hoan hỷ để thiền định, khéo léo trong các đề mục thiền định, và khéo léo trong việc hướng tâm đã được thanh lọc bởi thiền định. Nhờ có bảy phẩm chất này, Tôn giả Xá Lợi Phất đã làm chủ được tâm mình và không bị tâm làm chủ."
 
 <!--pg-->
-### AN 7.42 Tốt Nghiệp (Thứ Nhất)  *Paṭhamaniddasasutta*
+### AN 7.42 Tốt Nghiệp (Thứ Nhất)  *Paṭhamaniddasasutta*{#42}
 
 Khi ấy, Tôn giả Xá Lợi Phất vào buổi sáng đắp y, mang bát và y, vào thành Xá Vệ để khất thực. Rồi ngài nghĩ: "Còn quá sớm để đi khất thực ở Xá Vệ. Sao mình không đến tu viện của các *du sĩ ngoại đạo* (wanderers of other religions / những người tu hành không theo Phật giáo)?"
 
@@ -204,7 +204,7 @@ Rồi Tôn giả Xá Lợi Phất đi khất thực ở Xá Vệ. Sau bữa ăn,
 Bảy điều đó là gì? Đó là khi một vị Tỷ-kheo có lòng nhiệt thành tha thiết để thực hành sự học tập... để thẩm xét giáo pháp... để loại bỏ các *ham muốn* (desires / lòng khao khát, dục vọng)... để *ẩn cư* (retreat / sự lui về nơi yên tĩnh để tu tập)... để khơi dậy *năng lực* (energy / sự tinh tấn, nghị lực)... để có *tỉnh thức* (mindfulness / sự chú tâm, ghi nhớ không quên) và *sự tỉnh giác* (alertness / sự nhận biết rõ ràng)... để thâm nhập về mặt lý thuyết. Và vị ấy không đánh mất những ước muốn này trong tương lai. Đây là bảy tiêu chuẩn để tốt nghiệp mà Ta tuyên bố sau khi đã tự mình chứng ngộ bằng tuệ giác. Một vị Tỷ-kheo có bảy tiêu chuẩn tốt nghiệp này thì đủ tiêu chuẩn để được gọi là một 'Tỷ-kheo tốt nghiệp'. Điều này đúng cho dù vị ấy đã sống đời sống phạm hạnh trọn vẹn và thanh tịnh trong mười hai năm, hai mươi bốn năm, ba mươi sáu năm, hay bốn mươi tám năm."
 
 <!--pg-->
-### AN 7.43 Tốt Nghiệp (Thứ Hai)  *Dutiyaniddasasutta*
+### AN 7.43 Tốt Nghiệp (Thứ Hai)  *Dutiyaniddasasutta*{#43}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần Kosambī, tại Tu viện Ghosita.
 

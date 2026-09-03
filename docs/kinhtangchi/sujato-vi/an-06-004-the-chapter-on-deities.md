@@ -1,6 +1,6 @@
 # Phẩm về Chư Thiên
 
-### AN 6.31 Vị Hữu Học  *Sekhasutta*
+### AN 6.31 Vị Hữu Học  *Sekhasutta*{#31}
 
 "Sáu điều này dẫn đến sự suy thoái của một *vị tỳ kheo hữu học* (mendicant trainee / vị tu sĩ đang còn phải học). Sáu điều gì?
 Họ thích làm việc, nói chuyện, ngủ nghỉ, và tụ tập. Họ không *thu thúc các căn* (guard the sense doors / giữ gìn các giác quan), và họ *ăn quá nhiều* (eat too much / ăn không tiết độ). Sáu điều này dẫn đến sự suy thoái của một vị tỳ kheo hữu học.
@@ -9,7 +9,7 @@ Sáu điều này không dẫn đến sự suy thoái của một vị tỳ kheo
 Họ không thích làm việc, nói chuyện, ngủ nghỉ, và tụ tập. Họ thu thúc các căn, và họ không ăn quá nhiều. Sáu điều này không dẫn đến sự suy thoái của một vị tỳ kheo hữu học."
 
 <!--pg-->
-### AN 6.32 Không Suy Thoái (1)  *Paṭhamaaparihānasutta*
+### AN 6.32 Không Suy Thoái (1)  *Paṭhamaaparihānasutta*{#32}
 
 Rồi, vào lúc đêm khuya, một *vị trời* (deity / chư thiên) rực rỡ, chiếu sáng toàn bộ *rừng Jeta* (Jeta's Grove / vườn ông Jeta), đến gặp Đức Phật, đảnh lễ, đứng sang một bên và thưa với Ngài:
 
@@ -27,7 +27,7 @@ Rồi, khi đêm đã qua, Đức Phật kể lại cho các vị tỳ kheo tấ
 > Và đã đến gần *Niết Bàn* (extinguishment / sự dập tắt phiền não)."
 
 <!--pg-->
-### AN 6.33 Không Suy Thoái (2)  *Dutiyaaparihānasutta*
+### AN 6.33 Không Suy Thoái (2)  *Dutiyaaparihānasutta*{#33}
 
 "Đêm nay, một vị trời rực rỡ, chiếu sáng toàn bộ rừng Jeta, đã đến gặp Ta, đảnh lễ, đứng sang một bên và thưa với Ta: 'Thưa Ngài, sáu điều này không dẫn đến sự suy thoái của một vị tỳ kheo. Sáu điều gì? Kính trọng Bậc Đạo Sư, kính trọng Giáo Pháp, kính trọng Tăng đoàn, kính trọng việc học tập, kính trọng *sự xấu hổ* (conscience / tàm), và kính trọng *sự sợ điều ác* (prudence / quý). Sáu điều này không dẫn đến sự suy thoái của một vị tỳ kheo.'
 
@@ -41,7 +41,7 @@ Rồi, khi đêm đã qua, Đức Phật kể lại cho các vị tỳ kheo tấ
 > Họ đã đến gần Niết Bàn."
 
 <!--pg-->
-### AN 6.34 Với Tôn giả Mahāmoggallāna  *Mahāmoggallānasutta*
+### AN 6.34 Với Tôn giả Mahāmoggallāna  *Mahāmoggallānasutta*{#34}
 
 Một thời Đức Phật trú tại gần Sāvatthī, trong rừng Jeta, tu viện của Anāthapiṇḍika.
 
@@ -72,19 +72,19 @@ Ngài Moggallāna hỏi vị ấy: "Này Tissa, những vị trời nào biết 
 Ngài Moggallāna chấp thuận và đồng ý với những gì vị trời Tissa nói. Rồi, dễ dàng như một người mạnh duỗi ra hay co vào cánh tay, ngài biến mất khỏi cõi trời đó và xuất hiện trở lại tại rừng Jeta.
 
 <!--pg-->
-### AN 6.35 Những Điều Thuộc Về Minh  *Vijjābhāgiyasutta*
+### AN 6.35 Những Điều Thuộc Về Minh  *Vijjābhāgiyasutta*{#35}
 
 "Sáu điều này thuộc về *minh* (realization / tuệ giác, sự chứng ngộ). Sáu điều gì? *Nhận thức về sự vô thường* (perception of impermanence / tưởng vô thường), *nhận thức về sự khổ trong cái vô thường* (perception of suffering in impermanence / tưởng khổ trong vô thường), *nhận thức về sự vô ngã trong cái khổ* (perception of not-self in suffering / tưởng vô ngã trong khổ), *nhận thức về sự từ bỏ* (perception of giving up / tưởng về sự xả ly), *nhận thức về sự ly tham* (perception of fading away / tưởng về sự phai nhạt ham muốn), và *nhận thức về sự đoạn diệt* (perception of cessation / tưởng về sự chấm dứt). Đây là sáu điều thuộc về minh."
 
 <!--pg-->
-### AN 6.36 Nguồn Gốc Của Tranh Cãi  *Vivādamūlasutta*
+### AN 6.36 Nguồn Gốc Của Tranh Cãi  *Vivādamūlasutta*{#36}
 
 "Này các tỳ kheo, có sáu *nguồn gốc của tranh cãi* (roots of arguments / nhân sanh tranh luận) này. Sáu điều gì? Thứ nhất, một vị tỳ kheo dễ nổi nóng và gay gắt. Vị tỳ kheo như vậy thiếu tôn trọng và kính trọng Bậc Đạo Sư, Giáo Pháp, và Tăng đoàn, và họ không hoàn thành việc học tập. Họ tạo ra sự tranh cãi trong Tăng đoàn, điều này gây bất lợi và khổ đau cho mọi người, chống lại mọi người, gây tổn hại, bất lợi và khổ đau cho trời và người. Nếu các con thấy một nguồn gốc tranh cãi như vậy nơi mình hay nơi người khác, các con nên cố gắng từ bỏ điều xấu này. Nếu các con không thấy, các con nên thực hành để nó không phát sinh trong tương lai. Đó là cách từ bỏ nguồn gốc tranh cãi xấu xa này, để nó không phát sinh trong tương lai.
 
 Hơn nữa, một vị tỳ kheo hay xúc phạm và khinh miệt... Họ ganh tị và keo kiệt... gian xảo và lừa dối... có mong muốn xấu xa và *tà kiến* (wrong view / thấy biết sai lầm)... Họ chấp chặt vào quan điểm của mình, giữ khư khư và không chịu buông bỏ. Vị tỳ kheo như vậy thiếu tôn trọng và kính trọng Bậc Đạo Sư, Giáo Pháp, và Tăng đoàn, và họ không hoàn thành việc học tập. Họ tạo ra sự tranh cãi trong Tăng đoàn, điều này gây bất lợi và bất hạnh cho mọi người, chống lại mọi người, gây tổn hại, bất lợi và khổ đau cho trời và người. Nếu các con thấy một nguồn gốc tranh cãi như vậy nơi mình hay nơi người khác, các con nên cố gắng từ bỏ điều xấu này. Nếu các con không thấy, các con nên thực hành để nó không phát sinh trong tương lai. Đó là cách từ bỏ nguồn gốc tranh cãi xấu xa này, để nó không phát sinh trong tương lai. Đây là sáu nguồn gốc của tranh cãi."
 
 <!--pg-->
-### AN 6.37 Cúng Dường Sáu Yếu Tố  *Chaḷaṅgadānasutta*
+### AN 6.37 Cúng Dường Sáu Yếu Tố  *Chaḷaṅgadānasutta*{#37}
 
 Một thời Đức Phật trú tại gần Sāvatthī, trong rừng Jeta, tu viện của Anāthapiṇḍika.
 
@@ -125,7 +125,7 @@ Giống như cố gắng đo lường lượng nước trong đại dương vậ
 > Trong thế giới hạnh phúc, an vui."
 
 <!--pg-->
-### AN 6.38 Tự Mình Hành Động  *Attakārīsutta*
+### AN 6.38 Tự Mình Hành Động  *Attakārīsutta*{#38}
 
 Khi ấy, một vị *bà la môn* (brahmin / giai cấp tu sĩ, trí thức Ấn Độ cổ) nào đó đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và trò chuyện thân mật xong, ông ngồi sang một bên và thưa với Đức Phật:
 
@@ -158,14 +158,14 @@ Này bà la môn, Ta chưa từng thấy hay nghe ai có giáo lý hay quan đi�
 "Thật tuyệt vời, thưa ngài Gotama! Thật tuyệt vời!... Kể từ hôm nay, xin ngài Gotama hãy xem con là một *cư sĩ tại gia* (lay follower / người theo đạo tại nhà) đã *quy y* (gone for refuge / nương tựa) trọn đời."
 
 <!--pg-->
-### AN 6.39 Nguồn Gốc  *Nidānasutta*
+### AN 6.39 Nguồn Gốc  *Nidānasutta*{#39}
 
 "Này các tỳ kheo, có ba *nguồn gốc phát sinh hành động* (sources that give rise to deeds / nhân sanh nghiệp) này. Ba điều gì? Tham lam, tức giận, và si mê là những nguồn gốc phát sinh *hành động* (deeds / nghiệp). Tham lam không phát sinh sự không tham. Đúng hơn, tham lam chỉ phát sinh tham lam. Tức giận không phát sinh sự không tức giận. Đúng hơn, tức giận chỉ phát sinh tức giận. Si mê không phát sinh sự không si mê. Đúng hơn, si mê chỉ phát sinh si mê. Không phải do những hành động sinh ra từ tham lam, tức giận, và si mê mà có chư thiên, loài người, hay bất kỳ *cõi lành* (good places / thiện thú) nào khác được tìm thấy. Đúng hơn, chính vì những hành động sinh ra từ tham lam, tức giận, và si mê mà địa ngục, cõi súc sinh, cõi ngạ quỷ, hay bất kỳ *cõi dữ* (bad places / ác thú) nào khác được tìm thấy. Đây là ba nguồn gốc phát sinh hành động.
 
 Này các tỳ kheo, có ba nguồn gốc phát sinh hành động này. Ba điều gì? *Sự không tham* (contentment / vô tham), *sự không tức giận* (love / vô sân, từ ái), và *sự không si mê* (understanding / vô si, trí tuệ) là những nguồn gốc phát sinh hành động. Sự không tham không phát sinh tham lam. Đúng hơn, sự không tham chỉ phát sinh sự không tham. Sự không tức giận không phát sinh tức giận. Đúng hơn, sự không tức giận chỉ phát sinh sự không tức giận. Sự không si mê không phát sinh si mê. Đúng hơn, sự không si mê chỉ phát sinh sự không si mê. Không phải do những hành động sinh ra từ sự không tham, sự không tức giận, và sự không si mê mà địa ngục, cõi súc sinh, cõi ngạ quỷ, hay bất kỳ cõi dữ nào khác được tìm thấy. Đúng hơn, chính vì những hành động sinh ra từ sự không tham, sự không tức giận, và sự không si mê mà có chư thiên, loài người, hay bất kỳ cõi lành nào khác được tìm thấy. Đây là ba nguồn gốc phát sinh hành động."
 
 <!--pg-->
-### AN 6.40 Với Kimbila  *Kimilasutta*
+### AN 6.40 Với Kimbila  *Kimilasutta*{#40}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú tại gần Kimbilā, trong rừng Xoài Nước Ngọt. Khi ấy, Tôn giả Kimbila đến gặp Đức Phật, đảnh lễ, ngồi sang một bên và thưa với Ngài:
 
@@ -178,7 +178,7 @@ TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú tại gần Kimbilā, tron
 "Này Kimbila, đó là khi các tỳ kheo, tỳ kheo ni, nam cư sĩ, và nữ cư sĩ duy trì sự tôn trọng và kính trọng Bậc Đạo Sư, Giáo Pháp, Tăng đoàn, việc học tập, sự siêng năng, và lòng hiếu khách sau sự nhập diệt cuối cùng của Bậc Như Lai. Đây là nguyên nhân, đây là lý do khiến Chánh pháp tồn tại lâu dài sau sự nhập diệt cuối cùng của Bậc Như Lai."
 
 <!--pg-->
-### AN 6.41 Khúc Gỗ  *Dārukkhandhasutta*
+### AN 6.41 Khúc Gỗ  *Dārukkhandhasutta*{#41}
 
 TÔI NGHE NHƯ VẦY. Một thời Tôn giả Sāriputta trú tại gần thành Rājagaha (Vương Xá), trên núi Linh Thứu.
 
@@ -189,7 +189,7 @@ Khi ấy, Tôn giả Sāriputta đắp y vào buổi sáng, mang bát và y, cù
 "Nếu muốn, một vị tỳ kheo có *thần thông* (psychic powers / năng lực siêu nhiên) đã làm chủ được tâm có thể xác định khúc gỗ này chỉ là đất. Tại sao vậy? Bởi vì *yếu tố đất* (earth element / địa đại) tồn tại trong khúc gỗ. Dựa vào đó, một vị tỳ kheo có thần thông có thể xác định nó chỉ là đất. Nếu muốn, một vị tỳ kheo có thần thông đã làm chủ được tâm có thể xác định khúc gỗ này chỉ là *yếu tố nước* (water element / thủy đại)... Hoặc có thể xác định nó chỉ là *yếu tố lửa* (fire element / hỏa đại)... Hoặc có thể xác định nó chỉ là *yếu tố gió* (air element / phong đại)... Hoặc có thể xác định nó chỉ là đẹp... Hoặc có thể xác định nó chỉ là xấu xí. Tại sao vậy? Bởi vì *yếu tố xấu xí* (element of ugliness / bất tịnh đại) tồn tại trong khúc gỗ. Dựa vào đó, một vị tỳ kheo có thần thông có thể xác định nó chỉ là xấu xí."
 
 <!--pg-->
-### AN 6.42 Với Nāgita  *Nāgitasutta*
+### AN 6.42 Với Nāgita  *Nāgitasutta*{#42}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật đang du hành trong xứ Kosala cùng với một Tăng đoàn tỳ kheo đông đảo thì Ngài đến một ngôi làng của các bà la môn xứ Kosala tên là Icchānaṅgala. Ngài trú trong một khu rừng gần Icchānaṅgala. Các bà la môn và gia chủ ở Icchānaṅgala nghe tin:
 

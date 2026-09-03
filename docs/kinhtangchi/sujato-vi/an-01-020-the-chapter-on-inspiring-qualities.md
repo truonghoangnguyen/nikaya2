@@ -1,6 +1,6 @@
 # Phẩm về những Phẩm Chất Truyền Cảm Hứng
 
-### AN 1.378--393 *Pasādakaradhammavagga*
+### AN 1.378--393 *Pasādakaradhammavagga*{#378-393}
 
 "Này các Tỳ kheo, đây chắc chắn là điều đáng có, đó là, sống nơi rừng vắng...
 

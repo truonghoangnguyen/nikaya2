@@ -1,6 +1,6 @@
 # Phẩm Về Vô Thượng
 
-### AN 6.21 Tại Làng Sāma *Kinh Sāmaka*
+### AN 6.21 Tại Làng Sāma *Kinh Sāmaka*{#21}
 
 Một thời Đức Phật trú ở xứ của những người Sakya, gần ngôi làng nhỏ Sāma, bên một hồ sen.
 
@@ -22,7 +22,7 @@ Thích thú hội chúng, khó được khuyên bảo, và có bạn bè xấu �
 Dù trong quá khứ, tương lai, hay hiện tại, tất cả những ai suy thoái trong các thiện pháp đều do sáu pháp này."
 
 <!--pg-->
-### AN 6.22 Không Suy Thoái *Kinh Aparihāniya*
+### AN 6.22 Không Suy Thoái *Kinh Aparihāniya*{#22}
 
 "Này các vị khất sĩ, Ta sẽ dạy các vị sáu pháp này để ngăn ngừa sự suy thoái. ... Và này các vị khất sĩ, sáu pháp nào ngăn ngừa sự suy thoái?
 Không thích thú công việc, nói chuyện, ngủ nghỉ, và hội chúng, dễ được khuyên bảo, và có bạn bè tốt lành. Sáu pháp này ngăn ngừa sự suy thoái.
@@ -30,7 +30,7 @@ Không thích thú công việc, nói chuyện, ngủ nghỉ, và hội chúng, 
 Dù trong quá khứ, tương lai, hay hiện tại, tất cả những ai không suy thoái trong các thiện pháp đều do sáu pháp này."
 
 <!--pg-->
-### AN 6.23 Nguy Hiểm *Kinh Bhaya*
+### AN 6.23 Nguy Hiểm *Kinh Bhaya*{#23}
 
 "'Nguy hiểm', này các vị khất sĩ, là một thuật ngữ chỉ các *dục lạc* (sensual pleasures / niềm vui thú giác quan). 'Khổ đau', 'bệnh tật', 'ung nhọt', 'cạm bẫy', và 'vũng lầy' là những thuật ngữ chỉ các dục lạc.
 
@@ -54,12 +54,12 @@ Và tại sao 'khổ đau', 'bệnh tật', 'ung nhọt', 'cạm bẫy', và 'v�
 > Và vượt lên trên mọi khổ đau."
 
 <!--pg-->
-### AN 6.24 Núi Himalaya *Kinh Himavanta*
+### AN 6.24 Núi Himalaya *Kinh Himavanta*{#24}
 
 "Này các vị khất sĩ, một vị khất sĩ có sáu pháp có thể làm tan vỡ Hy Mã Lạp Sơn, vua của các loài núi, huống nữa là cái *vô minh* (ignorance / sự thiếu hiểu biết về Tứ Thánh Đế) khốn khổ này! Sáu pháp ấy là gì? Đó là khi một vị khất sĩ thiện xảo trong việc nhập *thiền định* (immersion / sự nhập định, trạng thái tâm tập trung cao độ), thiện xảo trong việc an trú thiền định, thiện xảo trong việc xuất thiền định, thiện xảo trong việc làm tâm hoan hỷ để nhập thiền định, thiện xảo trong các *đề mục thiền* (meditation subjects / đối tượng để thiền quán) định, và thiện xảo trong việc phóng tâm đã được thanh lọc bởi thiền định. Một vị khất sĩ có sáu pháp này có thể làm tan vỡ Hy Mã Lạp Sơn, vua của các loài núi, huống nữa là cái vô minh khốn khổ này!"
 
 <!--pg-->
-### AN 6.25 Các Đề Mục Cần Phải Nhớ *Kinh Anussatiṭṭhāna*
+### AN 6.25 Các Đề Mục Cần Phải Nhớ *Kinh Anussatiṭṭhāna*{#25}
 
 "Này các vị khất sĩ, có sáu *đề mục cần phải nhớ* (topics for recollection / những đối tượng cần ghi nhớ, quán niệm) này. Sáu đề mục ấy là gì?
 
@@ -80,7 +80,7 @@ Khi một thánh đệ tử cần phải nhớ đến niềm tin, giới, văn, 
 Đây là sáu đề mục cần phải nhớ."
 
 <!--pg-->
-### AN 6.26 Với Đại Kaccāna *Kinh Mahākaccāna*
+### AN 6.26 Với Đại Kaccāna *Kinh Mahākaccāna*{#26}
 
 Tại đó, Đại Kaccāna nói với các vị khất sĩ: "Thưa các Hiền giả, các vị khất sĩ!"
 
@@ -103,7 +103,7 @@ Lại nữa, một thánh đệ tử cần phải nhớ đến chư thiên: 'Có
 Thật vi diệu, thưa các Hiền giả, thật kỳ diệu! Làm sao mà Đức Thế Tôn, bậc biết và thấy, bậc A-la-hán, bậc Chánh Đẳng Giác, đã tìm ra lối thoát giữa nơi tù túng; đó là, sáu đề mục cần phải nhớ. Chúng nhằm để thanh lọc chúng sinh, vượt qua sầu và bi, chấm dứt khổ và ưu, chứng đạt chánh lý, và chứng ngộ Niết-bàn."
 
 <!--pg-->
-### AN 6.27 Những Dịp Thích Hợp (1) *Kinh Paṭhamasamaya*
+### AN 6.27 Những Dịp Thích Hợp (1) *Kinh Paṭhamasamaya*{#27}
 
 Khi ấy, một vị khất sĩ đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên, và bạch với Ngài:
 
@@ -126,7 +126,7 @@ Lại nữa, có lúc một vị khất sĩ không hiểu cần phải chú tâm
 Đây là sáu dịp thích hợp để đến gặp một vị khất sĩ đáng kính."
 
 <!--pg-->
-### AN 6.28 Những Dịp Thích Hợp (2) *Kinh Dutiyasamaya*
+### AN 6.28 Những Dịp Thích Hợp (2) *Kinh Dutiyasamaya*{#28}
 
 Một thời, nhiều vị trưởng lão khất sĩ đang trú gần Varanasi, tại Vườn Nai ở Isipatana. Sau bữa ăn, khi đi khất thực về, cuộc thảo luận này đã nảy sinh giữa họ khi đang ngồi cùng nhau trong nhà hội.
 
@@ -163,7 +163,7 @@ Lại nữa, có lúc một vị khất sĩ không hiểu cần phải chú tâm
 Thưa các Hiền giả, tôi đã nghe và học điều này từ nơi Đức Phật: 'Đây là sáu dịp thích hợp để đến gặp một vị khất sĩ đáng kính.'"
 
 <!--pg-->
-### AN 6.29 Với Udāyī *Kinh Udāyī*
+### AN 6.29 Với Udāyī *Kinh Udāyī*{#29}
 
 Khi ấy, Đức Phật nói với Udāyī: "Này Udāyī, có bao nhiêu đề mục cần phải nhớ?"
 
@@ -200,7 +200,7 @@ Lại nữa, một vị khất sĩ, từ bỏ *an vui* (pleasure / cảm giác d
 "Tốt lắm, tốt lắm, Ānanda. Vậy thì, Ānanda, con cũng nên nhớ đề mục cần phải nhớ thứ sáu này. Trong trường hợp này, một vị khất sĩ đi ra với tỉnh thức, trở về với tỉnh thức, đứng với tỉnh thức, ngồi với tỉnh thức, nằm với tỉnh thức, và chú tâm vào công việc với tỉnh thức. Khi đề mục cần phải nhớ này được phát triển và tu tập theo cách này, nó đưa đến tỉnh thức và *tỉnh giác* (situational awareness / sự nhận biết rõ ràng hoàn cảnh xung quanh và hành động của mình)."
 
 <!--pg-->
-### AN 6.30 Vô Thượng *Kinh Anuttariya*
+### AN 6.30 Vô Thượng *Kinh Anuttariya*{#30}
 
 "Này các vị khất sĩ, sáu điều này là *vô thượng* (unsurpassable / không gì cao hơn). Sáu điều ấy là gì? Sự *thấy* (seeing / sự nhìn thấy) vô thượng, sự *nghe* (listening / sự nghe) vô thượng, sự *được* (acquisition / sự đạt được, sở hữu) vô thượng, sự *học* (training / sự rèn luyện, tu học) vô thượng, sự *phục vụ* (service / sự hầu hạ, chăm sóc) vô thượng, và sự *cần phải nhớ* (recollection / sự ghi nhớ, quán niệm) vô thượng.
 

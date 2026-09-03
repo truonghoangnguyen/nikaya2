@@ -1,6 +1,6 @@
 # Phẩm về Pháp Đáng Nhớ Tưởng
 
-### AN 6.11 Pháp Đáng Nhớ Tưởng (1)  *Paṭhamasāraṇīyasutta*
+### AN 6.11 Pháp Đáng Nhớ Tưởng (1)  *Paṭhamasāraṇīyasutta*{#11}
 
 "Này các Tỳ kheo, có sáu *pháp đáng nhớ tưởng* (warm-hearted qualities / những phẩm chất đáng nhớ, tạo sự hòa hợp) này. Sáu là gì?
 
@@ -19,7 +19,7 @@ Lại nữa, vị Tỳ kheo sống theo *tri kiến* (view / thấy biết, quan
 Đó là sáu pháp đáng nhớ tưởng."
 
 <!--pg-->
-### AN 6.12 Pháp Đáng Nhớ Tưởng (2)  *Dutiyasāraṇīyasutta*
+### AN 6.12 Pháp Đáng Nhớ Tưởng (2)  *Dutiyasāraṇīyasutta*{#12}
 
 "Này các Tỳ kheo, sáu pháp đáng nhớ tưởng này tạo ra *sự quý mến và kính trọng* (fondness and respect / lòng yêu mến và tôn trọng), đưa đến *sự hòa hợp, đoàn kết và thống nhất* (inclusion, harmony, and unity / sự chấp nhận lẫn nhau, sống hòa thuận và đoàn kết), không tranh cãi. Sáu là gì?
 
@@ -38,7 +38,7 @@ Lại nữa, vị Tỳ kheo sống theo tri kiến được chia sẻ cùng các
 Sáu pháp đáng nhớ tưởng này tạo ra sự quý mến và kính trọng, đưa đến sự hòa hợp, đoàn kết và thống nhất, không tranh cãi."
 
 <!--pg-->
-### AN 6.13 Pháp Đưa Đến Xuất Ly  *Nissāraṇīyasutta*
+### AN 6.13 Pháp Đưa Đến Xuất Ly  *Nissāraṇīyasutta*{#13}
 
 "Này các Tỳ kheo, có sáu *pháp đưa đến xuất ly* (elements of escape / những yếu tố dẫn đến sự thoát khỏi) này. Sáu là gì?
 
@@ -57,7 +57,7 @@ Giả sử có vị Tỳ kheo khác nói: 'Tôi đã thoát khỏi *ngã mạn "
 Đó là sáu pháp đưa đến xuất ly."
 
 <!--pg-->
-### AN 6.14 Cái Chết Tốt Đẹp  *Bhaddakasutta*
+### AN 6.14 Cái Chết Tốt Đẹp  *Bhaddakasutta*{#14}
 
 Tại đó, Tôn giả Xá-lợi-phất nói với các Tỳ kheo: "Thưa các Hiền giả Tỳ kheo!"
 
@@ -82,7 +82,7 @@ Giả sử có vị Tỳ kheo không ưa thích công việc, nói chuyện, ng�
 > Nơi an ổn khỏi các ách缚 tối thượng."
 
 <!--pg-->
-### AN 6.15 Hối Hận  *Anutappiyasutta*
+### AN 6.15 Hối Hận  *Anutappiyasutta*{#15}
 
 Tại đó, Tôn giả Xá-lợi-phất nói với các Tỳ kheo:
 
@@ -105,7 +105,7 @@ Giả sử có vị Tỳ kheo không ưa thích công việc, nói chuyện, ng�
 > Nơi an ổn khỏi các ách缚 tối thượng."
 
 <!--pg-->
-### AN 6.16 Cha của Nakula  *Nakulapitusutta*
+### AN 6.16 Cha của Nakula  *Nakulapitusutta*{#16}
 
 Một thời Đức Phật trú ở xứ Bhagga, tại đồi Cá Sấu, trong vườn nai Bhesakaḷā. Bấy giờ, gia chủ Nakulapitā (cha của Nakula) bị bệnh, đau đớn, bệnh tình nguy kịch. Khi ấy, nữ gia chủ Nakulamātā (mẹ của Nakula) nói với ông:
 
@@ -134,7 +134,7 @@ Bà ấy là một trong những đệ tử áo trắng của Đức Phật đã
 Ông thật may mắn, gia chủ, thật vô cùng may mắn, khi có nữ gia chủ Nakulamātā khuyên bảo và chỉ dẫn ông với lòng từ ái và cảm thông."
 
 <!--pg-->
-### AN 6.17 Ngủ Nghỉ  *Soppasutta*
+### AN 6.17 Ngủ Nghỉ  *Soppasutta*{#17}
 
 Một thời Đức Phật trú gần Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika.
 
@@ -169,7 +169,7 @@ Các ngươi nghĩ sao, này các Tỳ kheo? Các ngươi đã từng thấy hay
 Vì vậy, các ngươi nên tu tập như thế này: 'Chúng ta sẽ phòng hộ các căn, *ăn điều độ* (eat in moderation / ăn uống chừng mực), chú tâm cảnh giác, phân biệt thiện pháp, và theo đuổi sự phát triển các pháp đưa đến giác ngộ vào buổi tối và lúc rạng đông.' Đó là cách các ngươi nên tu tập."
 
 <!--pg-->
-### AN 6.18 Người Bán Cá  *Macchabandhasutta*
+### AN 6.18 Người Bán Cá  *Macchabandhasutta*{#18}
 
 Một thời Đức Phật đang du hành ở xứ Kosala cùng với một đại Tăng đoàn Tỳ kheo.
 
@@ -198,7 +198,7 @@ Các ngươi nghĩ sao, này các Tỳ kheo? Các ngươi đã từng thấy hay
 Chỉ vì nhìn các loài vật bị dẫn đến chỗ giết mổ với ác ý mà người đó đã không được đi voi, ngựa, xe ngựa, hay xe cộ, hoặc được hưởng thụ của cải, hoặc sống nhờ vào tài sản lớn. Huống chi là người nhìn những con người bị dẫn đến chỗ giết mổ với ác ý! Điều này sẽ mang lại tai hại và đau khổ lâu dài cho họ. Khi thân hoại mạng chung, sau khi chết, họ sẽ tái sinh vào cõi dữ, nơi xấu xa, địa ngục."
 
 <!--pg-->
-### AN 6.19 Tỉnh Thức về Cái Chết (1)  *Paṭhamamaraṇassatisutta*
+### AN 6.19 Tỉnh Thức về Cái Chết (1)  *Paṭhamamaraṇassatisutta*{#19}
 
 Một thời Đức Phật trú tại Ñātika trong ngôi nhà gạch. Tại đó, Đức Phật nói với các Tỳ kheo: "Này các Tỳ kheo!"
 
@@ -251,7 +251,7 @@ Nhưng đối với những Tỳ kheo phát triển tỉnh thức về cái ch�
 Vì vậy, các ngươi nên tu tập như thế này: 'Chúng ta sẽ sống tinh tấn. Chúng ta sẽ phát triển tỉnh thức về cái chết một cách sắc bén để đoạn tận các lậu hoặc.' Đó là cách các ngươi nên tu tập."
 
 <!--pg-->
-### AN 6.20 Tỉnh Thức về Cái Chết (2)  *Dutiyamaraṇassatisutta*
+### AN 6.20 Tỉnh Thức về Cái Chết (2)  *Dutiyamaraṇassatisutta*{#20}
 
 Một thời Đức Phật trú tại Ñātika trong ngôi nhà gạch. Tại đó, Đức Phật nói với các Tỳ kheo:
 

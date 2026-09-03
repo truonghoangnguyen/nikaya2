@@ -1,6 +1,6 @@
 # Phẩm về Hạng Người
 
-### AN 4.131 Kiết Sử (Kinh Saṁyojana)
+### AN 4.131 Kiết Sử (Kinh Saṁyojana){#131}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy ở trên đời. Thế nào là bốn?
 
@@ -20,7 +20,7 @@ Hạng người nào đã đoạn trừ hạ phần kiết sử, sanh y kiết s
 Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 4.132 Biện Tài (Kinh Paṭibhāna)
+### AN 4.132 Biện Tài (Kinh Paṭibhāna){#132}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy ở trên đời. Thế nào là bốn?
 
@@ -32,12 +32,12 @@ Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở tr�
 Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 4.133 Người Hiểu Ngay (Kinh Ugghaṭitaññū)
+### AN 4.133 Người Hiểu Ngay (Kinh Ugghaṭitaññū){#133}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy ở trên đời. Thế nào là bốn? *Người có trí tuệ quảng bác* (understands immediately / người hiểu ngay khi nghe), *người có trí tuệ khai triển* (understands after detailed explanation / người hiểu sau khi được giải thích chi tiết), *người cần được dẫn dắt* (needs education / người cần được hướng dẫn, chỉ dạy), và *người chỉ thuộc lòng văn cú* (merely learns by rote / người chỉ học thuộc lòng mà không hiểu nghĩa). Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 4.134 Quả Của Nỗ Lực (Kinh Uṭṭhānaphala)
+### AN 4.134 Quả Của Nỗ Lực (Kinh Uṭṭhānaphala){#134}
 
 "Có bốn hạng người này được tìm thấy ở trên đời. Thế nào là bốn?
 
@@ -49,7 +49,7 @@ Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở tr�
 Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 4.135 Đáng Chê Trách (Kinh Sāvajja)
+### AN 4.135 Đáng Chê Trách (Kinh Sāvajja){#135}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy ở trên đời. Thế nào là bốn? Hạng người đáng chê trách, hạng người phần lớn đáng chê trách, hạng người ít đáng chê trách, và hạng người không đáng chê trách.
 
@@ -64,7 +64,7 @@ Và thế nào là hạng người không đáng chê trách? Đó là khi một
 Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 4.136 Giới (Thứ Nhất) (Kinh Paṭhamasīla)
+### AN 4.136 Giới (Thứ Nhất) (Kinh Paṭhamasīla){#136}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy ở trên đời. Thế nào là bốn? Có người chưa viên mãn *giới* (ethics / các quy tắc đạo đức), *định* (immersion / sự tập trung tâm ý, thiền định), hay *tuệ* (wisdom / sự hiểu biết đúng đắn, trí tuệ).
 
@@ -77,7 +77,7 @@ Có người đã viên mãn giới, định, và tuệ.
 Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 4.137 Giới (Thứ Hai) (Kinh Dutiyasīla)
+### AN 4.137 Giới (Thứ Hai) (Kinh Dutiyasīla){#137}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy ở trên đời. Thế nào là bốn?
 
@@ -89,7 +89,7 @@ Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở tr�
 Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 4.138 Viễn Ly (Kinh Nikaṭṭha)
+### AN 4.138 Viễn Ly (Kinh Nikaṭṭha){#138}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy ở trên đời. Thế nào là bốn?
 
@@ -109,7 +109,7 @@ Và thế nào là người viễn ly cả về thân lẫn tâm? Đó là khi m
 Này các Tỳ kheo, đó là bốn hạng người được tìm thấy ở trên đời."
 
 <!--pg-->
-### AN 4.139 Người Thuyết Pháp (Kinh Dhammakathika)
+### AN 4.139 Người Thuyết Pháp (Kinh Dhammakathika){#139}
 
 "Này các Tỳ kheo, có bốn hạng người thuyết pháp này. Thế nào là bốn?
 
@@ -124,7 +124,7 @@ Có người thuyết pháp nói nhiều và liên hệ đến pháp. Và hội 
 Này các Tỳ kheo, đó là bốn hạng người thuyết pháp."
 
 <!--pg-->
-### AN 4.140 Người Diễn Thuyết (Kinh Vādī)
+### AN 4.140 Người Diễn Thuyết (Kinh Vādī){#140}
 
 "Này các Tỳ kheo, có bốn hạng người diễn thuyết này. Thế nào là bốn?
 

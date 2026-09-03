@@ -1,5 +1,5 @@
 # Phẩm Phi Pháp
-### AN 1.140--149 *Adhammavagga* (Phẩm Phi Pháp)
+### AN 1.140--149 *Adhammavagga* (Phẩm Phi Pháp){#140-149}
 
 140\. "Này các Tỳ kheo, những Tỳ kheo nào giải thích điều không phải là *Chánh pháp* (true teaching / giáo pháp chân chính) là không phải Chánh pháp, là đang hành động vì lợi ích của nhiều người, vì an vui của nhiều người, vì lợi ích, sự tốt đẹp và an vui của chư thiên và loài người. Họ tạo ra nhiều *phước đức* (merit / công đức, điều tốt lành) và làm cho Chánh pháp được trường tồn."
 

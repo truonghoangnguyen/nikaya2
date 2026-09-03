@@ -1,6 +1,6 @@
 # Phẩm về Những Mối Nguy Hiểm
 
-### AN 4.121 Tự Trách *Attānuvādasutta*
+### AN 4.121 Tự Trách *Attānuvādasutta*{#121}
 
 "Này các Tỳ kheo, có bốn nỗi sợ hãi này. Bốn nỗi sợ hãi nào? Sợ bị tự trách, sợ bị người khác chê trách, sợ bị trừng phạt, và sợ bị tái sinh vào cõi dữ.
 
@@ -17,7 +17,7 @@ Và này các Tỳ kheo, thế nào là sợ bị tái sinh vào cõi dữ? Đó
 Đó là bốn nỗi sợ hãi."
 
 <!--pg-->
-### AN 4.122 Nguy Hiểm Từ Sóng *Ūmibhayasutta*
+### AN 4.122 Nguy Hiểm Từ Sóng *Ūmibhayasutta*{#122}
 
 "Này các Tỳ kheo, bất cứ ai xuống nước nên lường trước bốn mối nguy hiểm. Bốn mối nguy hiểm nào? Nguy hiểm từ sóng, nguy hiểm từ cá sấu, nguy hiểm từ xoáy nước, và nguy hiểm từ cá mập.
 
@@ -34,7 +34,7 @@ Và này các Tỳ kheo, thế nào là nguy hiểm từ cá mập? Đó là khi
 Đó là bốn mối nguy hiểm mà một người thiện gia nam tử xuất gia từ bỏ đời sống thế tục, sống đời không gia đình trong giáo pháp và giới luật này nên lường trước."
 
 <!--pg-->
-### AN 4.123 Khác Biệt (1) *Paṭhamamānākaraṇasutta*
+### AN 4.123 Khác Biệt (1) *Paṭhamamānākaraṇasutta*{#123}
 
 "Này các Tỳ kheo, bốn hạng người này có mặt ở trên đời. Bốn hạng người nào?
 
@@ -49,7 +49,7 @@ Lại nữa, có người, do xả lạc, xả khổ, chấm dứt hỷ ưu đã
 Đó là bốn hạng người có mặt ở trên đời."
 
 <!--pg-->
-### AN 4.124 Khác Biệt (2) *Dutiyanānākaraṇasutta*
+### AN 4.124 Khác Biệt (2) *Dutiyanānākaraṇasutta*{#124}
 
 "Này các Tỳ kheo, bốn hạng người này có mặt ở trên đời. Bốn hạng người nào?
 
@@ -60,7 +60,7 @@ Lại nữa, có người, sau khi làm lắng dịu tầm và tứ, chứng và
 Đó là bốn hạng người có mặt ở trên đời."
 
 <!--pg-->
-### AN 4.125 Từ Tâm (1) *Paṭhamamettāsutta*
+### AN 4.125 Từ Tâm (1) *Paṭhamamettāsutta*{#125}
 
 "Này các Tỳ kheo, bốn hạng người này có mặt ở trên đời. Bốn hạng người nào?
 
@@ -71,7 +71,7 @@ Lại nữa, một người hành thiền biến mãn tâm *bi* (compassion / l�
 Đó là bốn hạng người có mặt ở trên đời."
 
 <!--pg-->
-### AN 4.126 Từ Tâm (2) *Dutiyamettāsutta*
+### AN 4.126 Từ Tâm (2) *Dutiyamettāsutta*{#126}
 
 "Này các Tỳ kheo, bốn hạng người này có mặt ở trên đời. Bốn hạng người nào?
 
@@ -82,7 +82,7 @@ Lại nữa, một người hành thiền biến mãn tâm bi... hỷ... xả (*
 Đó là bốn hạng người có mặt ở trên đời."
 
 <!--pg-->
-### AN 4.127 Điều Phi Thường về Như Lai (1) *Paṭhamatathāgataacchariyasutta*
+### AN 4.127 Điều Phi Thường về Như Lai (1) *Paṭhamatathāgataacchariyasutta*{#127}
 
 "Này các Tỳ kheo, với sự xuất hiện của một vị Như Lai, bậc *A-la-hán* (perfected one / bậc đã giác ngộ hoàn toàn, thoát khỏi sinh tử luân hồi), bậc *Chánh Đẳng Giác* (fully awakened Buddha / bậc tự mình giác ngộ hoàn toàn và chỉ dạy cho chúng sinh), bốn điều phi thường và kỳ diệu xuất hiện. Bốn điều nào?
 
@@ -97,7 +97,7 @@ Lại nữa, Như Lai chuyển *Bánh xe Pháp* (Wheel of Dhamma / sự giảng 
 Với sự xuất hiện của một vị Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác, bốn điều phi thường và kỳ diệu này xuất hiện."
 
 <!--pg-->
-### AN 4.128 Điều Phi Thường về Như Lai (2) *Dutiyatathāgataacchariyasutta*
+### AN 4.128 Điều Phi Thường về Như Lai (2) *Dutiyatathāgataacchariyasutta*{#128}
 
 "Này các Tỳ kheo, với sự xuất hiện của một vị Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác, bốn điều phi thường và kỳ diệu xuất hiện. Bốn điều nào?
 
@@ -112,7 +112,7 @@ Quần chúng này bị *vô minh* (ignorance / sự không hiểu biết về T
 Với sự xuất hiện của một vị Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác, bốn điều phi thường và kỳ diệu này xuất hiện."
 
 <!--pg-->
-### AN 4.129 Điều Phi Thường về Ngài Ānanda *Ānandaacchariyasutta*
+### AN 4.129 Điều Phi Thường về Ngài Ānanda *Ānandaacchariyasutta*{#129}
 
 "Này các Tỳ kheo, có bốn điều phi thường và kỳ diệu này về Ngài Ānanda. Bốn điều nào?
 
@@ -123,7 +123,7 @@ Nếu chúng Tỳ kheo ni... nam cư sĩ... hay nữ cư sĩ đến gặp Ngài 
 Đó là bốn điều phi thường và kỳ diệu về Ngài Ānanda."
 
 <!--pg-->
-### AN 4.130 Điều Phi Thường về Vua Chuyển Luân *Cakkavattiacchariyasutta*
+### AN 4.130 Điều Phi Thường về Vua Chuyển Luân *Cakkavattiacchariyasutta*{#130}
 
 "Này các Tỳ kheo, có bốn điều phi thường và kỳ diệu này về một vị vua Chuyển Luân. Bốn điều nào?
 

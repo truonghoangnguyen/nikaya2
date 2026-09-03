@@ -1,6 +1,6 @@
 # Phẩm về Sứ Giả Chư Thiên
 
-### AN 3.31 Với Phạm Thiên *Sabrahmakasutta*
+### AN 3.31 Với Phạm Thiên *Sabrahmakasutta*{#31}
 
 Này các Tỳ-kheo, một gia đình mà con cái biết tôn kính cha mẹ trong nhà mình được xem là sống cùng với *Phạm Thiên* (divinity/brahmā). Một gia đình mà con cái biết tôn kính cha mẹ trong nhà mình được xem là sống cùng với các vị thầy đầu tiên. Một gia đình mà con cái biết tôn kính cha mẹ trong nhà mình được xem là sống cùng với những người đáng nhận lễ vật cúng dường chư thiên.
 
@@ -31,7 +31,7 @@ Tại sao vậy? Cha mẹ giúp đỡ con cái rất nhiều, họ nuôi nấng,
 > và sau khi chết, họ vui hưởng trên cõi trời.
 
 <!--pg-->
-### AN 3.32 Với Ānanda *Ānandasutta*
+### AN 3.32 Với Ānanda *Ānandasutta*{#32}
 
 Khi ấy, Tôn giả Ānanda đi đến chỗ Đức Phật, đảnh lễ, ngồi xuống một bên và bạch Đức Phật:
 
@@ -54,7 +54,7 @@ Và này Ānanda, đây là điều Ta đã đề cập trong 'Con Đường đ�
 > họ đã vượt qua tái sinh và tuổi già, Ta tuyên bố.'"
 
 <!--pg-->
-### AN 3.33 Với Sāriputta *Sāriputtasutta*
+### AN 3.33 Với Sāriputta *Sāriputtasutta*{#33}
 
 Khi ấy, Tôn giả Sāriputta đi đến chỗ Đức Phật, đảnh lễ và ngồi xuống một bên. Đức Phật nói với ông: "Có lẽ Ta sẽ giảng Pháp tóm tắt, có lẽ chi tiết, có lẽ cả tóm tắt lẫn chi tiết. Nhưng thật khó tìm được người hiểu."
 
@@ -77,7 +77,7 @@ Và này Sāriputta, đây là điều Ta đã đề cập trong 'Con Đường 
 > sự đập tan *vô minh* (ignorance/avijjā).'"
 
 <!--pg-->
-### AN 3.34 Các Nguồn Gốc *Nidānasutta*
+### AN 3.34 Các Nguồn Gốc *Nidānasutta*{#34}
 
 "Này các Tỳ-kheo, có ba nguồn gốc này làm phát sinh *hành động* (deeds/kamma). Ba nguồn gốc nào? *Tham lam* (Greed/lobha), *sân hận* (hate/dosa), và *si mê* (delusion/moha) là những nguồn gốc làm phát sinh hành động.
 
@@ -124,7 +124,7 @@ Bất kỳ hành động nào phát sinh từ sự không sân... Bất kỳ hà
 > sẽ loại bỏ mọi cảnh giới xấu."
 
 <!--pg-->
-### AN 3.35 Với Hatthaka *Hatthakasutta*
+### AN 3.35 Với Hatthaka *Hatthakasutta*{#35}
 
 Tôi nghe như vầy. Một thời Đức Phật trú gần Āḷavī, trên một tấm lót bằng lá cây bên lối đi của bò trong một khu rừng Simsapā (Indian Rosewood).
 
@@ -161,7 +161,7 @@ Khi ấy, Hatthaka ở Āḷavī đang đi dạo thì thấy Đức Phật ngồ
 > đã tìm thấy sự bình an trong tâm trí."
 
 <!--pg-->
-### AN 3.36 Sứ Giả Chư Thiên *Devadūtasutta*
+### AN 3.36 Sứ Giả Chư Thiên *Devadūtasutta*{#36}
 
 "Này các Tỳ-kheo, có ba *sứ giả chư thiên* (messengers of the gods/devadūta) này. Ba vị nào?
 
@@ -256,7 +256,7 @@ Này, Ta không nói điều này vì đã nghe từ một sa-môn hay bà-la-m�
 > và vượt lên trên mọi khổ đau."
 
 <!--pg-->
-### AN 3.37 Tứ Đại Thiên Vương (1) *Catumahārājasutta*
+### AN 3.37 Tứ Đại Thiên Vương (1) *Catumahārājasutta*{#37}
 
 "Vào ngày thứ tám của nửa tháng, này các Tỳ-kheo, các vị bộ trưởng và cố vấn của *Tứ Đại Thiên Vương* (four great kings/Cattāro Mahārājāno) đi khắp thế gian, suy nghĩ: 'Hy vọng hầu hết loài người đang tôn kính cha mẹ, sa-môn và bà-la-môn, tôn trọng những người lớn tuổi trong gia đình, tuân thủ và giữ gìn *ngày trai giới* (sabbath/uposatha), và làm các việc công đức.'
 
@@ -291,7 +291,7 @@ Nhưng đối với một vị Tỳ-kheo là *bậc hoàn thiện* (perfected/ar
 Tại sao vậy? Bởi vì vị Tỳ-kheo đó đã thoát khỏi tham lam, sân hận, và si mê."
 
 <!--pg-->
-### AN 3.38 Tứ Đại Thiên Vương (2) *Dutiyacatumahārājasutta*
+### AN 3.38 Tứ Đại Thiên Vương (2) *Dutiyacatumahārājasutta*{#38}
 
 "Ngày xưa, này các Tỳ-kheo, Đế Thích, vua của chư thiên, khi hướng dẫn chư thiên cõi Ba Mươi Ba, đã đọc bài kệ này:
 
@@ -316,7 +316,7 @@ Nhưng đối với một vị Tỳ-kheo là bậc hoàn thiện---đã đoạn 
 Tại sao vậy? Bởi vì vị Tỳ-kheo đó đã thoát khỏi tái sinh, tuổi già, và cái chết, khỏi sầu, bi, khổ, ưu, não. Vị ấy đã thoát khỏi khổ đau, Ta nói vậy."
 
 <!--pg-->
-### AN 3.39 Lối Sống Tinh Tế *Sukhumālasutta*
+### AN 3.39 Lối Sống Tinh Tế *Sukhumālasutta*{#39}
 
 "Lối sống của Ta rất tinh tế, này các Tỳ-kheo, cực kỳ tinh tế, vô cùng tinh tế.
 
@@ -369,7 +369,7 @@ Say sưa với sự kiêu hãnh về tuổi trẻ, sức khỏe, hay sự sống
 > Ta quyết tâm với đời sống phạm hạnh."
 
 <!--pg-->
-### AN 3.40 Quyền Tự Chủ *Ādhipateyyasutta*
+### AN 3.40 Quyền Tự Chủ *Ādhipateyyasutta*{#40}
 
 "Này các Tỳ-kheo, có ba điều này cần đặt lên hàng đầu. Ba điều nào? Đặt bản thân, thế gian, hoặc giáo pháp lên hàng đầu.
 

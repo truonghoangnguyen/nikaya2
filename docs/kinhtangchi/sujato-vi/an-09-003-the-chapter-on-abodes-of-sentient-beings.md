@@ -1,6 +1,6 @@
 # Phẩm về Chỗ Ở Của Chúng Sinh
 
-### AN 9.21 Ba Đặc Điểm Riêng Biệt *Tiṭhānasutta*
+### AN 9.21 Ba Đặc Điểm Riêng Biệt *Tiṭhānasutta*{#21}
 
 "Con người ở cõi Bắc Câu Lô Châu vượt trội hơn chư thiên cõi Ba Mươi Ba và con người ở cõi Diêm Phù Đề về ba đặc điểm. Ba đặc điểm nào?
 Họ vô tư và không sở hữu. Họ có tuổi thọ cố định. Họ có bản chất đặc thù. Con người ở cõi Bắc Câu Lô Châu vượt trội hơn chư thiên cõi Ba Mươi Ba và con người ở cõi Diêm Phù Đề về ba đặc điểm này.
@@ -10,7 +10,7 @@ Chư thiên cõi Ba Mươi Ba vượt trội hơn con người ở cõi Bắc C�
 Con người ở cõi Diêm Phù Đề vượt trội hơn con người ở cõi Bắc Câu Lô Châu và chư thiên cõi Ba Mươi Ba về ba đặc điểm. Ba đặc điểm nào? Dũng cảm, *sự tỉnh thức* (mindfulness / *niệm*, sự chú tâm không gián đoạn vào đối tượng), và đời sống phạm hạnh được thực hành ở đây. Con người ở cõi Diêm Phù Đề vượt trội hơn con người ở cõi Bắc Câu Lô Châu và chư thiên cõi Ba Mươi Ba về ba đặc điểm này."
 
 <!--pg-->
-### AN 9.22 Ngựa Con Hoang Dã *Assakhaḷuṅkasutta*
+### AN 9.22 Ngựa Con Hoang Dã *Assakhaḷuṅkasutta*{#22}
 
 "Này các Tỷ kheo, Ta sẽ dạy các ông về ba loại ngựa con hoang dã và ba loại người hoang dã; ba loại ngựa tốt và ba loại người ưu tú; và ba loại ngựa thuần chủng quý và ba loại người thuần chủng quý. Hãy lắng nghe và *suy tư với trí tuệ* (apply your mind rationally / *như lý tác ý*, suy nghĩ đúng đắn, hợp lý), Ta sẽ nói.
 
@@ -37,12 +37,12 @@ Và thế nào là ba loại người thuần chủng quý? Một người thu�
 Và thế nào là một người thuần chủng quý ... nhanh nhẹn, đẹp đẽ, và cân đối? Đó là một vị Tỷ kheo chứng ngộ *vô lậu tâm giải thoát* (undefiled freedom of heart / sự giải thoát của tâm khỏi mọi ô nhiễm, phiền não) và *tuệ giải thoát* (freedom by wisdom / sự giải thoát đạt được thông qua trí tuệ thấu hiểu Tứ Thánh Đế) ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng *thắng trí* (own insight / trí tuệ thấu suốt, sự hiểu biết trực tiếp và vượt trội về bản chất của các pháp) của chính mình do sự *lậu tận* (ending of defilements / sự chấm dứt hoàn toàn các lậu hoặc, tức là các ô nhiễm tiềm ẩn làm chúng sinh trôi lăn trong vòng sinh tử). Như vậy là họ nhanh nhẹn, Ta nói. Khi được hỏi một câu về giáo pháp hay giới luật, họ trả lời mà không ngập ngừng. Như vậy là họ đẹp đẽ, Ta nói. Họ nhận được y phục, vật thực khất thực, chỗ ở, và thuốc men trị bệnh. Như vậy là họ cân đối, Ta nói. Đây là cách một người thuần chủng quý nhanh nhẹn, đẹp đẽ, và cân đối. Đó là ba loại người thuần chủng quý."
 
 <!--pg-->
-### AN 9.23 Bắt Nguồn Từ Ái Dục *Taṇhāmūlakasutta*
+### AN 9.23 Bắt Nguồn Từ Ái Dục *Taṇhāmūlakasutta*{#23}
 
 "Này các Tỷ kheo, Ta sẽ dạy các ông về chín điều bắt nguồn từ *ái* (craving / lòng khao khát, ham muốn mãnh liệt). Và thế nào là chín điều bắt nguồn từ ái? Ái là nguyên nhân của sự tìm cầu. Sự tìm cầu là nguyên nhân của sự thu hoạch (lợi lộc). Sự thu hoạch là nguyên nhân của sự thẩm định (đánh giá). Sự thẩm định là nguyên nhân của tham dục. Tham dục là nguyên nhân của *chấp thủ* (attachment / sự bám víu, dính mắc vào các đối tượng của ham muốn). Chấp thủ là nguyên nhân của sự sở hữu. Sự sở hữu là nguyên nhân của sự keo kiệt. Sự keo kiệt là nguyên nhân của sự bảo vệ (giữ gìn). Do sự bảo vệ, nhiều điều xấu ác, bất thiện phát sinh: cầm gậy, cầm kiếm, tranh cãi, tranh luận, và ẩu đả, cáo buộc, nói chia rẽ, và nói dối. Đó là chín điều bắt nguồn từ ái."
 
 <!--pg-->
-### AN 9.24 Chỗ Ở Của Chúng Sinh *Sattāvāsasutta*
+### AN 9.24 Chỗ Ở Của Chúng Sinh *Sattāvāsasutta*{#24}
 
 "Này các Tỷ kheo, có chín *chỗ ở của chúng sinh* (abodes of sentient beings / các cõi giới mà chúng sinh cư ngụ). Chín chỗ nào?
 
@@ -67,14 +67,14 @@ Có những chúng sinh đã hoàn toàn vượt qua cõi Vô Sở Hữu Xứ. H
 Đó là chín chỗ ở của chúng sinh."
 
 <!--pg-->
-### AN 9.25 Củng Cố Bằng Trí Tuệ *Paññāsutta*
+### AN 9.25 Củng Cố Bằng Trí Tuệ *Paññāsutta*{#25}
 
 "Này các Tỷ kheo, khi tâm của một vị Tỷ kheo đã được củng cố vững chắc bằng *trí tuệ* (wisdom / *tuệ*, sự hiểu biết đúng đắn về bản chất của sự vật, hiện tượng, đặc biệt là Tứ Thánh Đế) thì vị ấy có thể tuyên bố: 'Ta hiểu rằng: "Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa ở nơi này."'
 
 Và thế nào là tâm của một vị Tỷ kheo được củng cố vững chắc bằng trí tuệ? Tâm được củng cố vững chắc bằng trí tuệ khi vị ấy biết: 'Tâm ta không còn tham lam.' ... 'Tâm ta không còn tức giận.' ... 'Tâm ta không còn si mê.' ... 'Tâm ta không còn khả năng trở nên tham lam.' ... 'Tâm ta không còn khả năng trở nên tức giận.' ... 'Tâm ta không còn khả năng trở nên si mê.' ... 'Tâm ta không còn khả năng tái sinh trở lại cõi dục.' ... 'Tâm ta không còn khả năng tái sinh trở lại cõi sắc giới.' ... 'Tâm ta không còn khả năng tái sinh trở lại cõi vô sắc giới.' Khi tâm của một vị Tỷ kheo đã được củng cố vững chắc bằng trí tuệ thì vị ấy có thể tuyên bố: 'Ta hiểu rằng: "Tái sinh đã chấm dứt, đời sống phạm hạnh đã hoàn thành, những gì cần làm đã làm xong, không còn gì nữa ở nơi này."'"
 
 <!--pg-->
-### AN 9.26 Thí Dụ Cột Đá *Silāyūpasutta*
+### AN 9.26 Thí Dụ Cột Đá *Silāyūpasutta*{#26}
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần thành Vương Xá, tại Trúc Lâm, nơi nuôi dưỡng các con sóc.
 
@@ -97,7 +97,7 @@ Ví như có một cột đá, dài mười sáu bộ. Tám bộ chôn dưới �
 Nếu ngay cả những âm thanh... hương... vị... xúc chạm... và ý nghĩ lôi cuốn đi vào phạm vi của tâm, chúng cũng không chiếm giữ tâm. Tâm vẫn không bị ô nhiễm. Tâm vững vàng, không lay chuyển, quan sát sự biến mất."
 
 <!--pg-->
-### AN 9.27 Nguy Hiểm và Đe Dọa (Thứ Nhất) *Paṭhamaverasutta*
+### AN 9.27 Nguy Hiểm và Đe Dọa (Thứ Nhất) *Paṭhamaverasutta*{#27}
 
 Khi ấy, gia chủ Cấp Cô Độc đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên. Đức Phật nói với ông:
 
@@ -126,7 +126,7 @@ Và *giới đức* (ethical conduct / hành vi đạo đức, sự trong sạch
 Khi một vị thánh đệ tử đã dập tắt năm mối nguy hiểm và đe dọa này, và có bốn yếu tố của sự nhập lưu này, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt tái sinh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, những nơi xấu xa, cõi khổ. Ta là một người nhập lưu! Ta không còn bị tái sinh vào cõi khổ, và chắc chắn sẽ giác ngộ.'"
 
 <!--pg-->
-### AN 9.28 Nguy Hiểm và Đe Dọa (Thứ Hai) *Dutiyaverasutta*
+### AN 9.28 Nguy Hiểm và Đe Dọa (Thứ Hai) *Dutiyaverasutta*{#28}
 
 "Này các Tỷ kheo, khi một vị thánh đệ tử đã dập tắt năm mối nguy hiểm và đe dọa, và có bốn yếu tố của sự nhập lưu, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt tái sinh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, những nơi xấu xa, cõi khổ. Ta là một người nhập lưu! Ta không còn bị tái sinh vào cõi khổ, và chắc chắn sẽ giác ngộ.'
 
@@ -139,17 +139,17 @@ Bốn yếu tố của sự nhập lưu nào vị ấy có? Khi một vị thán
 Khi một vị thánh đệ tử đã dập tắt năm mối nguy hiểm và đe dọa này, và có bốn yếu tố của sự nhập lưu này, vị ấy có thể, nếu muốn, tự tuyên bố về mình: 'Ta đã chấm dứt tái sinh vào địa ngục, cõi súc sinh, và cõi ngạ quỷ. Ta đã chấm dứt tất cả những nơi mất mát, những nơi xấu xa, cõi khổ. Ta là một người nhập lưu! Ta không còn bị tái sinh vào cõi khổ, và chắc chắn sẽ giác ngộ.'"
 
 <!--pg-->
-### AN 9.29 Cơ Sở Của Sự Oán Giận *Āghātavatthusutta*
+### AN 9.29 Cơ Sở Của Sự Oán Giận *Āghātavatthusutta*{#29}
 
 "Này các Tỷ kheo, có chín cơ sở của sự oán giận. Chín cơ sở nào? Nghĩ rằng: 'Họ đã làm điều sai trái với tôi,' các ông nuôi dưỡng sự oán giận. Nghĩ rằng: 'Họ đang làm điều sai trái với tôi' ... 'Họ sẽ làm điều sai trái với tôi' ... 'Họ đã làm điều sai trái với người tôi yêu mến' ... 'Họ đang làm điều sai trái với người tôi yêu mến' ... 'Họ sẽ làm điều sai trái với người tôi yêu mến' ... 'Họ đã giúp đỡ người tôi không thích' ... 'Họ đang giúp đỡ người tôi không thích' ... Nghĩ rằng: 'Họ sẽ giúp đỡ người tôi không thích,' các ông nuôi dưỡng sự oán giận. Đó là chín cơ sở của sự oán giận."
 
 <!--pg-->
-### AN 9.30 Loại Bỏ Sự Oán Giận *Āghātapaṭivinayasutta*
+### AN 9.30 Loại Bỏ Sự Oán Giận *Āghātapaṭivinayasutta*{#30}
 
 "Này các Tỷ kheo, có chín phương pháp này để loại bỏ sự oán giận. Chín phương pháp nào? Nghĩ rằng: 'Họ đã làm hại tôi, nhưng tôi có thể làm gì được chứ?' các ông loại bỏ sự oán giận. Nghĩ rằng: 'Họ đang làm hại tôi ...' ... 'Họ sẽ làm hại tôi ...' ... 'Họ đã làm hại người tôi yêu mến ...' ... 'Họ đang làm hại người tôi yêu mến ...' 'Họ sẽ làm hại người tôi yêu mến ...' ... 'Họ đã giúp đỡ người tôi không thích ...' ... 'Họ đang giúp đỡ người tôi không thích ...' ... Nghĩ rằng: 'Họ sẽ giúp đỡ người tôi không thích, nhưng tôi có thể làm gì được chứ?' các ông loại bỏ sự oán giận. Đó là chín phương pháp để loại bỏ sự oán giận."
 
 <!--pg-->
-### AN 9.31 Những Sự Chấm Dứt Tuần Tự *Anupubbanirodhasutta*
+### AN 9.31 Những Sự Chấm Dứt Tuần Tự *Anupubbanirodhasutta*{#31}
 
 "Này các Tỷ kheo, có chín sự chấm dứt tuần tự này. Chín sự nào?
 

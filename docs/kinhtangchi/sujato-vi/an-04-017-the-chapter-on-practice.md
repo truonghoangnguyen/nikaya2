@@ -1,6 +1,6 @@
 # Phẩm về Tu Tập
 
-### AN 4.161 Tóm Tắt *Saṁkhittasutta*
+### AN 4.161 Tóm Tắt *Saṁkhittasutta*{#161}
 
 "Này các Tỳ kheo, có bốn *pháp hành* này (ways of practice / con đường tu tập). Bốn pháp hành nào?
 
@@ -12,7 +12,7 @@
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.162 Chi Tiết *Vitthārasutta*
+### AN 4.162 Chi Tiết *Vitthārasutta*{#162}
 
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào?
 
@@ -32,7 +32,7 @@ Và thế nào là lạc hành với chứng đắc nhanh? Đó là trường h�
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.163 Bất Tịnh *Asubhasutta*
+### AN 4.163 Bất Tịnh *Asubhasutta*{#163}
 
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào?
 
@@ -52,7 +52,7 @@ Và thế nào là lạc hành với chứng đắc nhanh? Đó là trường h�
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.164 Kham Nhẫn (1) *Paṭhamakhamasutta*
+### AN 4.164 Kham Nhẫn (1) *Paṭhamakhamasutta*{#164}
 
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào? *Pháp hành không kham nhẫn* (Impatient practice / tu tập thiếu kiên nhẫn), *pháp hành kham nhẫn* (Patient practice / tu tập kiên nhẫn), *pháp hành điều phục* (Taming practice / tu tập chế ngự), và *pháp hành an tịnh* (Calming practice / tu tập làm lắng dịu).
 
@@ -67,7 +67,7 @@ Và thế nào là pháp hành an tịnh? Đó là trường hợp một vị T�
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.165 Kham Nhẫn (2) *Dutiyakhamasutta*
+### AN 4.165 Kham Nhẫn (2) *Dutiyakhamasutta*{#165}
 
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào? Pháp hành không kham nhẫn, pháp hành kham nhẫn, pháp hành điều phục, và pháp hành an tịnh.
 
@@ -82,7 +82,7 @@ Và thế nào là pháp hành an tịnh? Đó là trường hợp một vị T�
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.166 Cả Hai *Ubhayasutta*
+### AN 4.166 Cả Hai *Ubhayasutta*{#166}
 
 "Này các Tỳ kheo, có bốn pháp hành. Bốn pháp hành nào?
 
@@ -102,7 +102,7 @@ Lạc hành với chứng đắc nhanh được cho là ưu việt về cả hai
 Đó là bốn pháp hành."
 
 <!--pg-->
-### AN 4.167 Pháp Hành của Moggallāna *Mahāmoggallānasutta*
+### AN 4.167 Pháp Hành của Moggallāna *Mahāmoggallānasutta*{#167}
 
 Khi ấy, Tôn giả Sāriputta đi đến chỗ Tôn giả Mahāmoggallāna, và chào hỏi xã giao với ngài. Sau khi chào hỏi và nói chuyện thân mật xong, Tôn giả Sāriputta ngồi xuống một bên và nói với Tôn giả Mahāmoggallāna:
 
@@ -118,7 +118,7 @@ Khi ấy, Tôn giả Sāriputta đi đến chỗ Tôn giả Mahāmoggallāna, v�
 "Thưa Hiền giả Sāriputta... Tôi đã nương tựa vào khổ hành với chứng đắc nhanh để giải thoát tâm khỏi các lậu hoặc do không còn chấp thủ."
 
 <!--pg-->
-### AN 4.168 Pháp Hành của Sāriputta *Sāriputtasutta*
+### AN 4.168 Pháp Hành của Sāriputta *Sāriputtasutta*{#168}
 
 Khi ấy, Tôn giả Mahāmoggallāna đi đến chỗ Tôn giả Sāriputta, và chào hỏi xã giao với ngài. Sau khi chào hỏi và nói chuyện thân mật xong, Tôn giả Mahāmoggallāna ngồi xuống một bên, và nói với Tôn giả Sāriputta:
 
@@ -134,7 +134,7 @@ Khi ấy, Tôn giả Mahāmoggallāna đi đến chỗ Tôn giả Sāriputta, v�
 "Thưa Hiền giả Moggallāna... Tôi đã nương tựa vào lạc hành với chứng đắc nhanh để giải thoát tâm khỏi các lậu hoặc do không còn chấp thủ."
 
 <!--pg-->
-### AN 4.169 Có Nỗ Lực Gia Công *Sasaṅkhārasutta*
+### AN 4.169 Có Nỗ Lực Gia Công *Sasaṅkhārasutta*{#169}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy trên đời. Bốn hạng người nào?
 
@@ -154,7 +154,7 @@ Và thế nào là người viên tịch sau khi thân hoại mạng chung vô h
 Đó là bốn hạng người được tìm thấy trên đời."
 
 <!--pg-->
-### AN 4.170 Song Hành *Yuganaddhasutta*
+### AN 4.170 Song Hành *Yuganaddhasutta*{#170}
 
 Tôi nghe như vầy. Một thời Tôn giả Ānanda trú gần Kosambī, tại Tu viện Ghosita. Tại đó, Tôn giả Ānanda gọi các Tỳ kheo: "Này các Hiền giả Tỳ kheo!"
 

@@ -1,6 +1,6 @@
 # Phẩm Về Đại Tế Lễ
 
-### AN 7.44 Các Cõi Thức Trú *Sattaviññāṇaṭṭhitisutta*
+### AN 7.44 Các Cõi Thức Trú *Sattaviññāṇaṭṭhitisutta*{#44}
 
 "Này các Tỳ kheo, có bảy *thức trú* (planes of consciousness / các cảnh giới mà tâm thức có thể trú ngụ hoặc tái sinh vào) này. Bảy là gì?
 
@@ -21,17 +21,17 @@ Có những chúng sanh đã hoàn toàn vượt qua cõi Thức Vô Biên Xứ.
 Đó là bảy thức trú."
 
 <!--pg-->
-### AN 7.45 Các Điều Kiện Tiên Quyết Cho Thiền Định *Samādhiparikkhārasutta*
+### AN 7.45 Các Điều Kiện Tiên Quyết Cho Thiền Định *Samādhiparikkhārasutta*{#45}
 
 "Này các Tỳ kheo, có bảy *điều kiện tiên quyết cho thiền định* (prerequisites for immersion / những yếu tố cần thiết để đạt được sự tập trung sâu) này. Bảy là gì? Chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, và chánh niệm. Sự hợp nhất của tâm với bảy yếu tố này làm điều kiện tiên quyết được gọi là chánh định cao quý 'cùng với các điều kiện thiết yếu của nó' và cũng 'cùng với các điều kiện tiên quyết của nó'."
 
 <!--pg-->
-### AN 7.46 Các Ngọn Lửa (Thứ Nhất) *Paṭhamaaggisutta*
+### AN 7.46 Các Ngọn Lửa (Thứ Nhất) *Paṭhamaaggisutta*{#46}
 
 "Này các Tỳ kheo, có bảy ngọn lửa này. Bảy là gì? Ngọn lửa tham, ngọn lửa sân, ngọn lửa si. *Ngọn lửa đáng được cúng dường* (fire of those worthy of offerings dedicated to the gods / Āhuneyyaggi, ngọn lửa của những người đáng được tôn kính và cúng dường như cha mẹ). *Ngọn lửa của người gia chủ* (A householder's fire / Gahapataggi, ngọn lửa của người tại gia, tượng trưng cho vợ con và người phục vụ). *Ngọn lửa của những người đáng được cúng dường tôn giáo* (The fire of those worthy of a religious donation / Dakkhiṇeyyaggi, ngọn lửa của những người tu hành chân chính, đáng được nhận sự cúng dường). Và ngọn lửa từ củi. Đó là bảy ngọn lửa."
 
 <!--pg-->
-### AN 7.47 Các Ngọn Lửa (Thứ Hai) *Dutiyaaggisutta*
+### AN 7.47 Các Ngọn Lửa (Thứ Hai) *Dutiyaaggisutta*{#47}
 
 Khi ấy, Bà la môn Uggatasarīra đã chuẩn bị một cuộc tế lễ lớn. Bò đực, bò tơ, bò cái tơ, dê đực và cừu đực---mỗi loại năm trăm con---đã được dẫn đến cột tế lễ.
 
@@ -76,14 +76,14 @@ Còn ngọn lửa từ củi, này Bà la môn, thỉnh thoảng nên được q
 Khi Ngài nói vậy, Bà la môn Uggatasarīra thưa với Đức Phật: "Thật tuyệt vời, thưa Ngài Gotama! Thật tuyệt vời! ... Kể từ hôm nay, xin Ngài Gotama ghi nhớ con là một người cư sĩ đã quy y trọn đời. Thưa Ngài Gotama, nay con xin phóng thích năm trăm con bò đực này, năm trăm con bò tơ, năm trăm con bò cái tơ, năm trăm con dê đực, và năm trăm con cừu đực. Con cho chúng sự sống! Mong chúng được ăn cỏ, uống nước mát và tận hưởng làn gió mát!"
 
 <!--pg-->
-### AN 7.48 Các nhận thức Tóm Tắt *Paṭhamasaññāsutta*
+### AN 7.48 Các nhận thức Tóm Tắt *Paṭhamasaññāsutta*{#48}
 
 "Này các Tỳ kheo, bảy nhận thức này, khi được phát triển và tu tập, thì rất có kết quả và lợi ích. Chúng đạt đến sự bất tử và kết thúc bằng sự bất tử.
 
 Bảy là gì? nhận thức về sự bất tịnh, nhận thức về sự chết, nhận thức về sự ghê tởm trong thức ăn, nhận thức về sự không hài lòng với toàn thế giới, nhận thức về sự vô thường, nhận thức về sự khổ trong vô thường, và nhận thức về vô ngã trong khổ. Bảy nhận thức này, khi được phát triển và tu tập, thì rất có kết quả và lợi ích. Chúng đạt đến sự bất tử và kết thúc bằng sự bất tử."
 
 <!--pg-->
-### AN 7.49 Các nhận thức Chi Tiết *Dutiyasaññāsutta*
+### AN 7.49 Các nhận thức Chi Tiết *Dutiyasaññāsutta*{#49}
 
 "Này các Tỳ kheo, bảy nhận thức này, khi được phát triển và tu tập, thì rất có kết quả và lợi ích. Chúng đạt đến sự bất tử và kết thúc bằng sự bất tử. Bảy là gì? nhận thức về sự bất tịnh, nhận thức về sự chết, nhận thức về sự ghê tởm trong thức ăn, nhận thức về sự không hài lòng với toàn thế giới, nhận thức về sự vô thường, nhận thức về sự khổ trong vô thường, và nhận thức về vô ngã trong khổ. Bảy nhận thức này, khi được phát triển và tu tập, thì rất có kết quả và lợi ích. Chúng đạt đến sự bất tử và kết thúc bằng sự bất tử.
 
@@ -110,7 +110,7 @@ Nhưng nếu một vị Tỳ kheo thường xuyên thiền quán với tâm đư
 Bảy nhận thức này, khi được phát triển và tu tập, thì rất có kết quả và lợi ích. Chúng đạt đến sự bất tử và kết thúc bằng sự bất tử."
 
 <!--pg-->
-### AN 7.50 Tình Dục *Methunasutta*
+### AN 7.50 Tình Dục *Methunasutta*{#50}
 
 Khi ấy, Bà la môn Jānussoṇi đến gặp Đức Phật và chào hỏi với Ngài. Sau khi chào hỏi và trò chuyện lịch sự, ông ngồi xuống một bên và thưa với Đức Phật: "Thưa Ngài Gotama có tự nhận là sống *đời sống phạm hạnh* (celibate life / brahmacariya, đời sống thanh tịnh, không dâm dục) không?"
 
@@ -139,7 +139,7 @@ Nhưng khi Ta thấy rằng bảy ách tình dục này---tất cả chúng---đ
 Khi Ngài nói vậy, Bà la môn Jānussoṇi thưa với Đức Phật: "Thật tuyệt vời, thưa Ngài Gotama! Thật tuyệt vời! ... Kể từ hôm nay, xin Ngài Gotama ghi nhớ con là một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 7.51 Trói Buộc và Cởi Trói *Saṁyogasutta*
+### AN 7.51 Trói Buộc và Cởi Trói *Saṁyogasutta*{#51}
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ngươi một bài giảng về *sự trói buộc và cởi trói* (yoking and unyoking / saṁyoga và visaṁyoga, sự ràng buộc và sự giải thoát khỏi ràng buộc). Hãy lắng nghe và tác ý kỹ, Ta sẽ nói. ... Và bài giảng về sự trói buộc và cởi trói là gì?
 
@@ -152,7 +152,7 @@ Và làm thế nào sự cởi trói phát sinh? Một người nữ không chú
 Một người nam không chú tâm vào nam tính của chính mình: những cử chỉ nam tính, vẻ ngoài nam tính, cách thức nam tính, ham muốn nam tính, giọng nói nam tính, và trang sức nam tính. Anh ấy không bị kích thích bởi điều này và không thích thú với nó. Vì vậy, anh ấy không chú tâm vào nữ tính của người khác: những cử chỉ nữ tính, vẻ ngoài nữ tính, cách thức nữ tính, ham muốn nữ tính, giọng nói nữ tính, và trang sức nữ tính. Anh ấy không bị kích thích bởi điều này và không thích thú với nó. Vì vậy, anh ấy không mong muốn trói buộc mình với người khác. Cũng không mong muốn sự an vui và hạnh phúc đến từ sự trói buộc đó. Những chúng sanh không thích thú với nam tính của mình thì không bị trói buộc với phụ nữ. Đây là cách một người nam vượt qua được nam tính của mình. Đây là cách sự cởi trói phát sinh. Đây là bài giảng về sự trói buộc và cởi trói."
 
 <!--pg-->
-### AN 7.52 Món Quà Có Kết Quả Lớn *Dānamahapphalasutta*
+### AN 7.52 Món Quà Có Kết Quả Lớn *Dānamahapphalasutta*{#52}
 
 Một thời Đức Phật trú gần Campā, bên bờ hồ sen Gaggarā.
 
@@ -195,7 +195,7 @@ Họ không bố thí với suy nghĩ, 'Khi bố thí món quà này, tâm ta tr
 Đây là nguyên nhân, đây là lý do tại sao một người bố thí một món quà mà không có nhiều kết quả hay lợi ích, trong khi một người khác cũng bố thí đúng món quà đó lại có nhiều kết quả và lợi ích."
 
 <!--pg-->
-### AN 7.53 Mẹ Của Nanda *Nandamātāsutta*
+### AN 7.53 Mẹ Của Nanda *Nandamātāsutta*{#53}
 
 TÔI NGHE NHƯ VẦY. Một thời, Tôn giả Sāriputta và Tôn giả Mahāmoggallāna đang du hành ở vùng Đồi Phía Nam cùng với một Tăng đoàn lớn gồm các Tỳ kheo. Khi ấy, nữ cư sĩ Veḷukaṇṭakī, mẹ của Nanda, thức dậy lúc rạng đông và tụng đọc các câu kệ của *Con đường đưa đến bờ bên kia/Kinh Bỉ Ngạn Đạo* (The Way to the Far Shore / Pārāyana, một phần của Kinh Tập Sutta Nipāta).
 

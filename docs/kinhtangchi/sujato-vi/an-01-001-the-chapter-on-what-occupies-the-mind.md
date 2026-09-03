@@ -1,6 +1,6 @@
 # Phẩm Về Sự Xâm Chiếm Tâm
 
-### AN 1.1–10 *Cittapariyādānavagga* (Phẩm Về Sự Xâm Chiếm Tâm)
+### AN 1.1–10 *Cittapariyādānavagga* (Phẩm Về Sự Xâm Chiếm Tâm){#1-10}
 1\. Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), tịnh xá của ông Anāthapiṇḍika (Cấp Cô Độc).
 Tại đó, Thế Tôn gọi các *Tỷ kheo* (mendicants / vị khất sĩ nam trong Phật giáo): “Này các Tỷ kheo!”
 
