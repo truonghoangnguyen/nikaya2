@@ -3,7 +3,7 @@
 <!--pg-->
 ## Phẩm về Sự Thông Hiểu
 
-### SN 13.1 Kinh Móng Tay *Nakhasikhāsutta*
+### SN 13.1 Kinh Móng Tay *Nakhasikhāsutta*{#1}
 
 Như vầy tôi nghe. Một thời Thế Tôn ở gần
 Sāvatthī, tại Kỳ-đà Lâm, trong tịnh xá của ông Cấp Cô Độc.
@@ -22,7 +22,7 @@ Lợi ích của việc thông hiểu giáo pháp và có được cái thấy v
 
 
 <!--pg-->
-### SN 13.2 Kinh Hồ Sen *Pokkharaṇīsutta*
+### SN 13.2 Kinh Hồ Sen *Pokkharaṇīsutta*{#2}
 
 Tại Sāvatthī.
 
@@ -45,7 +45,7 @@ một phần trăm nghìn, vì chỉ còn tối đa bảy kiếp sống nữa.
 Lợi ích của việc thông hiểu giáo pháp và có được cái thấy về giáo pháp là lớn lao đến như vậy."
 
 <!--pg-->
-### SN 13.3 Kinh Nơi Nước Giao Thoa *Sambhejjaudakasutta*
+### SN 13.3 Kinh Nơi Nước Giao Thoa *Sambhejjaudakasutta*{#3}
 
 Tại Sāvatthī.
 
@@ -64,7 +64,7 @@ không bằng một phần trăm, một phần nghìn, hay một phần trăm ng
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.4 Kinh Nơi Nước Giao Thoa (Thứ Hai) *Dutiyasambhejjaudakasutta*
+### SN 13.4 Kinh Nơi Nước Giao Thoa (Thứ Hai) *Dutiyasambhejjaudakasutta*{#4}
 
 Tại Sāvatthī.
 
@@ -85,7 +85,7 @@ không bằng một phần trăm, một phần nghìn, hay một phần trăm ng
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.5 Kinh Trái Đất *Pathavīsutta*
+### SN 13.5 Kinh Trái Đất *Pathavīsutta*{#5}
 
 Tại Sāvatthī.
 
@@ -102,7 +102,7 @@ phần trăm, một phần nghìn, hay một phần trăm nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.6 Kinh Trái Đất (Thứ Hai) *Dutiyapathavīsutta*
+### SN 13.6 Kinh Trái Đất (Thứ Hai) *Dutiyapathavīsutta*{#6}
 
 Tại Sāvatthī.
 
@@ -121,7 +121,7 @@ phần trăm, một phần nghìn, hay một phần trăm nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.7 Kinh Đại Dương *Samuddasutta*
+### SN 13.7 Kinh Đại Dương *Samuddasutta*{#7}
 
 Tại Sāvatthī.
 
@@ -138,7 +138,7 @@ phần trăm, một phần nghìn, hay một phần trăm nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.8 Kinh Đại Dương (Thứ Hai) *Dutiyasamuddasutta*
+### SN 13.8 Kinh Đại Dương (Thứ Hai) *Dutiyasamuddasutta*{#8}
 
 Tại Sāvatthī.
 
@@ -156,7 +156,7 @@ phần trăm, một phần nghìn, hay một phần trăm nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.9 Kinh Ngọn Núi *Pabbatasutta*
+### SN 13.9 Kinh Ngọn Núi *Pabbatasutta*{#9}
 
 Tại Sāvatthī.
 
@@ -174,7 +174,7 @@ nghìn."
 "Cũng vậy, đối với một vị thánh đệ tử, thì khối khổ đau trong quá khứ đã qua và đã chấm dứt nhiều hơn rất nhiều ..."
 
 <!--pg-->
-### SN 13.10 Kinh Ngọn Núi (Thứ Hai) *Dutiyapabbatasutta*
+### SN 13.10 Kinh Ngọn Núi (Thứ Hai) *Dutiyapabbatasutta*{#10}
 
 Tại Sāvatthī.
 
@@ -197,7 +197,7 @@ một phần trăm nghìn, vì chỉ còn tối đa bảy kiếp sống nữa.
 Lợi ích của việc thông hiểu giáo pháp và có được cái thấy về giáo pháp là lớn lao đến như vậy."
 
 <!--pg-->
-### SN 13.11 Kinh Ngọn Núi (Thứ Ba) *Tatiyapabbatasutta*
+### SN 13.11 Kinh Ngọn Núi (Thứ Ba) *Tatiyapabbatasutta*{#11}
 
 Tại Sāvatthī.
 

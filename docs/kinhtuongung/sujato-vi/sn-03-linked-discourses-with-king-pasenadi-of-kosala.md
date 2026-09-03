@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Một
 
-### SN 3.1 Kinh Người Trẻ Tuổi (Daharasutta)
+### SN 3.1 Kinh Người Trẻ Tuổi (Daharasutta){#1}
 
 Tôi nghe như vầy. Một thời, Đức Phật trú tại tu viện của ông Anāthapiṇḍika trong rừng Jeta, gần thành Sāvatthī.
 
@@ -75,7 +75,7 @@ Khi ấy, vua Pasenadi xứ Kosala đến gặp Đức Phật, và trao đổi l
 Khi nghe những lời này, vua Pasenadi xứ Kosala thưa với Đức Phật: "Thật tuyệt vời, thưa Ngài! Tuyệt vời! Như thể lật ngửa vật bị úp, hay phơi bày vật bị che giấu, hay chỉ đường cho người lạc lối, hay thắp đèn trong bóng tối để người có mắt sáng có thể thấy rõ mọi vật, Đức Phật đã làm sáng tỏ giáo pháp bằng nhiều cách. Con xin quy y Phật, quy y Pháp, và quy y *Tăng đoàn* (Saṅgha / cộng đồng các Tỷ kheo). Từ hôm nay, xin Đức Phật ghi nhận con là một cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### SN 3.2 Kinh Một Người (Purisasutta)
+### SN 3.2 Kinh Một Người (Purisasutta){#2}
 
 Tại Sāvatthī.
 
@@ -91,7 +91,7 @@ Khi ấy, vua Pasenadi xứ Kosala đến gặp Đức Phật, đảnh lễ, ng�
 > như cây sậy bị chính quả của nó hủy diệt."
 
 <!--pg-->
-### SN 3.3 Kinh Già và Chết (Jarāmaraṇasutta)
+### SN 3.3 Kinh Già và Chết (Jarāmaraṇasutta){#3}
 
 Tại Sāvatthī.
 
@@ -107,7 +107,7 @@ Ngồi xuống một bên, vua Pasenadi thưa với Đức Phật: "Thưa Ngài,
 > người thiện tuyên bố như vậy với người thiện."
 
 <!--pg-->
-### SN 3.4 Kinh Yêu Quý (Piyasutta)
+### SN 3.4 Kinh Yêu Quý (Piyasutta){#4}
 
 Tại Sāvatthī.
 
@@ -144,7 +144,7 @@ Những người làm điều tốt qua thân, khẩu, và ý thì yêu thương
 > sẽ hỗ trợ họ trong thế giới bên kia."
 
 <!--pg-->
-### SN 3.5 Kinh Tự Bảo Vệ (Attarakkhitasutta)
+### SN 3.5 Kinh Tự Bảo Vệ (Attarakkhitasutta){#5}
 
 Tại Sāvatthī.
 
@@ -164,7 +164,7 @@ Những người làm điều tốt qua thân, khẩu, và ý thì bảo vệ ch
 > được gọi là 'được bảo vệ'."
 
 <!--pg-->
-### SN 3.6 Kinh Số Ít (Appakasutta)
+### SN 3.6 Kinh Số Ít (Appakasutta){#6}
 
 Tại Sāvatthī.
 
@@ -180,7 +180,7 @@ Ngồi xuống một bên, vua Pasenadi thưa với Đức Phật: "Thưa Ngài,
 > vì kết quả sẽ tồi tệ cho họ."
 
 <!--pg-->
-### SN 3.7 Kinh Phán Xử (Aḍḍakaraṇasutta)
+### SN 3.7 Kinh Phán Xử (Aḍḍakaraṇasutta){#7}
 
 Tại Sāvatthī.
 
@@ -198,7 +198,7 @@ Ngồi xuống một bên, vua Pasenadi thưa với Đức Phật: "Thưa Ngài,
 > vì kết quả sẽ tồi tệ cho họ."
 
 <!--pg-->
-### SN 3.8 Kinh Với Hoàng Hậu Mallikā (Mallikāsutta)
+### SN 3.8 Kinh Với Hoàng Hậu Mallikā (Mallikāsutta){#8}
 
 Tại Sāvatthī.
 
@@ -220,7 +220,7 @@ Khi ấy, hiểu rõ vấn đề này, nhân dịp đó Đức Phật đọc bà
 > vì vậy, người biết lo cho mình thì không làm hại ai."
 
 <!--pg-->
-### SN 3.9 Kinh Tế Lễ (Yaññasutta)
+### SN 3.9 Kinh Tế Lễ (Yaññasutta){#9}
 
 Tại Sāvatthī.
 
@@ -254,7 +254,7 @@ Khi ấy, hiểu rõ vấn đề này, nhân dịp đó Đức Phật đọc nh�
 > và ngay cả các vị trời cũng hài lòng."
 
 <!--pg-->
-### SN 3.10 Kinh Gông Cùm (Bandhanasutta)
+### SN 3.10 Kinh Gông Cùm (Bandhanasutta){#10}
 
 Lúc bấy giờ, một nhóm lớn người đã bị vua Pasenadi xứ Kosala xiềng xích---một số bằng dây thừng, một số bằng còng tay, một số bằng dây xích.
 
@@ -275,7 +275,7 @@ Khi ấy, hiểu rõ vấn đề này, nhân dịp đó Đức Phật đọc nh�
 <!--pg-->
 ## Chương Hai
 
-### SN 3.11 Kinh Bảy Đạo Sĩ Bện Tóc (Sattajaṭilasutta)
+### SN 3.11 Kinh Bảy Đạo Sĩ Bện Tóc (Sattajaṭilasutta){#11}
 
 Một thời, Đức Phật đang ở gần Sāvatthī trong ngôi nhà sàn của mẹ Migāra ở Tu viện phía Đông.
 
@@ -308,7 +308,7 @@ Khi ấy, hiểu rõ vấn đề này, nhân dịp đó Đức Phật đọc nh�
 > bên trong hư hỏng nhưng bên ngoài ấn tượng."
 
 <!--pg-->
-### SN 3.12 Kinh Năm Vị Vua (Pañcarājasutta)
+### SN 3.12 Kinh Năm Vị Vua (Pañcarājasutta){#12}
 
 Tại Sāvatthī.
 
@@ -348,7 +348,7 @@ Sau đó, cư sĩ Candanaṅgalika ca ngợi Đức Phật trước mặt Ngài 
 Sau đó, năm vị vua đã tặng cho Candanaṅgalika năm chiếc áo choàng. Và Candanaṅgalika lần lượt cúng dường những chiếc áo choàng đó cho Đức Phật.
 
 <!--pg-->
-### SN 3.13 Kinh Một Đấu Cơm (Doṇapākasutta)
+### SN 3.13 Kinh Một Đấu Cơm (Doṇapākasutta){#13}
 
 Tại Sāvatthī.
 
@@ -375,7 +375,7 @@ Sau đó, nhà vua dần quen với việc ăn nhiều nhất là một chén c�
 "Đức Phật đã có lòng thương xót con theo cả hai cách: trong lợi ích của đời này và lợi ích của đời sau."
 
 <!--pg-->
-### SN 3.14 Kinh Trận Chiến (Thứ Nhất) (Paṭhamasaṅgāmasutta)
+### SN 3.14 Kinh Trận Chiến (Thứ Nhất) (Paṭhamasaṅgāmasutta){#14}
 
 Tại Sāvatthī.
 
@@ -393,7 +393,7 @@ Khi ấy, một vài Tỷ kheo vào buổi sáng đắp y, mang bát và y, vào
 > đã từ bỏ thắng và bại."
 
 <!--pg-->
-### SN 3.15 Kinh Trận Chiến (Thứ Hai) (Dutiyasaṅgāmasutta)
+### SN 3.15 Kinh Trận Chiến (Thứ Hai) (Dutiyasaṅgāmasutta){#15}
 
 Khi ấy, vua Ajātasattu xứ Magadha, con trai của công chúa Videha, đã huy động một đội quân bốn binh chủng và tiến đến Kāsi để tấn công vua Pasenadi xứ Kosala. Khi vua Pasenadi nghe tin này, ông đã huy động một đội quân bốn binh chủng và tiến đến Kāsi để phòng thủ chống lại Ajātasattu. Sau đó, hai vị vua đã giao chiến. Và trong trận chiến đó, Pasenadi đã đánh bại Ajātasattu và bắt sống ông ta.
 
@@ -423,7 +423,7 @@ Khi ấy, hiểu rõ vấn đề này, nhân dịp đó Đức Phật đọc nh�
 > kẻ cướp bị cướp lại."
 
 <!--pg-->
-### SN 3.16 Kinh Một Người Con Gái (Mallikāsutta)
+### SN 3.16 Kinh Một Người Con Gái (Mallikāsutta){#16}
 
 Tại Sāvatthī.
 
@@ -442,7 +442,7 @@ Khi ấy, biết rằng vua Pasenadi đang thất vọng, nhân dịp đó Đứ
 > thậm chí có thể cai trị vương quốc."
 
 <!--pg-->
-### SN 3.17 Kinh Siêng Năng (Appamādasutta)
+### SN 3.17 Kinh Siêng Năng (Appamādasutta){#17}
 
 Tại Sāvatthī.
 
@@ -472,7 +472,7 @@ Ngồi xuống một bên, vua Pasenadi thưa với Đức Phật: "Thưa Ngài,
 > được gọi là người sáng suốt."
 
 <!--pg-->
-### SN 3.18 Kinh Bạn Tốt (Kalyāṇamittasutta)
+### SN 3.18 Kinh Bạn Tốt (Kalyāṇamittasutta){#18}
 
 Tại Sāvatthī.
 
@@ -511,7 +511,7 @@ Khi ngài siêng năng, được hỗ trợ bởi sự siêng năng, thì không
 > họ được gọi là người sáng suốt."
 
 <!--pg-->
-### SN 3.19 Kinh Không Con (Thứ Nhất) (Paṭhamaaputtakasutta)
+### SN 3.19 Kinh Không Con (Thứ Nhất) (Paṭhamaaputtakasutta){#19}
 
 Tại Sāvatthī.
 
@@ -542,7 +542,7 @@ Tương tự như vậy, khi một người chân chính có được của cả
 > không bị chê trách, đi đến một nơi thiên giới."
 
 <!--pg-->
-### SN 3.20 Kinh Không Con (Thứ Hai) (Dutiyaaputtakasutta)
+### SN 3.20 Kinh Không Con (Thứ Hai) (Dutiyaaputtakasutta){#20}
 
 Khi ấy, vua Pasenadi xứ Kosala đến gặp Đức Phật vào giữa ngày ... Đức Phật nói với ông: "Vậy, thưa đại vương, ngài từ đâu đến vào giữa ngày?"
 
@@ -581,7 +581,7 @@ Bởi vì vị trưởng giả đó đã cúng dường vật thực cho Tagaras
 <!--pg-->
 ## Chương Ba
 
-### SN 3.21 Kinh Các Hạng Người (Puggalasutta)
+### SN 3.21 Kinh Các Hạng Người (Puggalasutta){#21}
 
 Tại Sāvatthī.
 
@@ -684,7 +684,7 @@ Người này giống như người chuyển từ ghế dài này sang ghế dà
 > từ ánh sáng họ đi vào ánh sáng."
 
 <!--pg-->
-### SN 3.22 Kinh Bà Nội (Ayyikāsutta)
+### SN 3.22 Kinh Bà Nội (Ayyikāsutta){#22}
 
 Tại Sāvatthī.
 
@@ -713,7 +713,7 @@ Vua Pasenadi xứ Kosala ngồi xuống một bên, và Đức Phật nói với
 > sẽ hỗ trợ họ trong thế giới bên kia."
 
 <!--pg-->
-### SN 3.23 Kinh Thế Gian (Lokasutta)
+### SN 3.23 Kinh Thế Gian (Lokasutta){#23}
 
 Tại Sāvatthī.
 
@@ -729,7 +729,7 @@ Ngồi xuống một bên, vua Pasenadi thưa với Đức Phật: "Thưa Ngài,
 > như cây sậy bị chính quả của nó hủy diệt."
 
 <!--pg-->
-### SN 3.24 Kinh Bắn Cung (Issattasutta)
+### SN 3.24 Kinh Bắn Cung (Issattasutta){#24}
 
 Tại Sāvatthī.
 
@@ -805,7 +805,7 @@ Ta nói rằng một sự cúng dường cho bất kỳ ai đã từ bỏ năm y
 > trút xuống người cúng dường."
 
 <!--pg-->
-### SN 3.25 Kinh Ví Dụ Ngọn Núi (Pabbatūpamasutta)
+### SN 3.25 Kinh Ví Dụ Ngọn Núi (Pabbatūpamasutta){#25}
 
 Tại Sāvatthī.
 

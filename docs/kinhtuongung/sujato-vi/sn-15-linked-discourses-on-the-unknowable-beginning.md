@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Một
 
-### SN 15.1 Cỏ và Gậy *Tiṇakaṭṭhasutta*
+### SN 15.1 Cỏ và Gậy *Tiṇakaṭṭhasutta*{#1}
 
 Như vầy tôi nghe. Một thời Thế Tôn ở gần
 Sāvatthī, tại tu viện của ông Anāthapiṇḍika, trong rừng Jeta.
@@ -16,7 +16,7 @@ Tại đó, Thế Tôn gọi các Tỷ kheo: "Này các Tỷ kheo!"
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. Không thể tìm thấy điểm khởi đầu của chúng sanh lang thang trong luân hồi, bị vô minh che lấp và bị ái kiết sử trói buộc. Trong một thời gian dài như vậy, các con đã phải chịu đựng đau khổ, thống khổ, và tai họa, làm cho các nghĩa địa ngày càng thêm đầy. Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.2 Trái Đất *Pathavīsutta*
+### SN 15.2 Trái Đất *Pathavīsutta*{#2}
 
 Tại Sāvatthī.
 
@@ -25,7 +25,7 @@ Tại Sāvatthī.
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. Không thể tìm thấy điểm khởi đầu của chúng sanh lang thang trong luân hồi, bị vô minh che lấp và bị ái kiết sử trói buộc. Trong một thời gian dài như vậy, các con đã phải chịu đựng đau khổ, thống khổ, và tai họa, làm cho các nghĩa địa ngày càng thêm đầy. Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.3 Nước Mắt *Assusutta*
+### SN 15.3 Nước Mắt *Assusutta*{#3}
 
 Tại Sāvatthī.
 
@@ -38,7 +38,7 @@ Tại Sāvatthī.
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.4 Sữa Mẹ *Khīrasutta*
+### SN 15.4 Sữa Mẹ *Khīrasutta*{#4}
 
 Tại Sāvatthī.
 
@@ -53,7 +53,7 @@ Các con nghĩ sao? Cái nào nhiều hơn: sữa mẹ mà các con đã uống 
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.5 Một Ngọn Núi *Pabbatasutta*
+### SN 15.5 Một Ngọn Núi *Pabbatasutta*{#5}
 
 Tại Sāvatthī.
 
@@ -70,7 +70,7 @@ Khi ấy, một vị Tỷ kheo đến gặp Thế Tôn, đảnh lễ, rồi ng�
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.6 Một Hạt Cải *Sāsapasutta*
+### SN 15.6 Một Hạt Cải *Sāsapasutta*{#6}
 
 Tại Sāvatthī.
 
@@ -87,7 +87,7 @@ Khi ấy, một vị Tỷ kheo đến gặp Thế Tôn... và hỏi Ngài: "Bạ
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.7 Các Đệ Tử *Sāvakasutta*
+### SN 15.7 Các Đệ Tử *Sāvakasutta*{#7}
 
 Tại Sāvatthī.
 
@@ -104,7 +104,7 @@ Khi ấy, một vài vị Tỷ kheo đến gặp Thế Tôn... và hỏi Ngài: 
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.8 Sông Hằng *Gaṅgāsutta*
+### SN 15.8 Sông Hằng *Gaṅgāsutta*{#8}
 
 Gần Rājagaha, trong Trúc Lâm. Khi ấy, một vị Bà-la-môn
 đến gặp Thế Tôn và chào hỏi Ngài.
@@ -124,7 +124,7 @@ Vì sao vậy? Vòng luân hồi này không thể biết được điểm khở
 Khi Ngài nói vậy, vị Bà-la-môn thưa với Thế Tôn: "Thật tuyệt vời, thưa Tôn giả Gotama! Tuyệt vời! ... Kể từ hôm nay, xin Tôn giả Gotama hãy xem con là một người cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### SN 15.9 Một Cây Gậy *Daṇḍasutta*
+### SN 15.9 Một Cây Gậy *Daṇḍasutta*{#9}
 
 Tại Sāvatthī.
 
@@ -133,7 +133,7 @@ Tại Sāvatthī.
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.10 Một Người *Puggalasutta*
+### SN 15.10 Một Người *Puggalasutta*{#10}
 
 Một thời Thế Tôn ở gần Rājagaha, trên núi
 Linh Thứu. Tại đó, Thế Tôn gọi các Tỷ kheo: "Này các Tỷ kheo!"
@@ -171,14 +171,14 @@ Vì sao vậy? Vòng luân hồi này không thể biết được điểm khở
 <!--pg-->
 ## Chương Hai
 
-### SN 15.11 Trong Cảnh Khốn Cùng *Duggatasutta*
+### SN 15.11 Trong Cảnh Khốn Cùng *Duggatasutta*{#11}
 
 Một thời Thế Tôn ở gần Sāvatthī.
 
 "Này các Tỷ kheo, vòng luân hồi này không thể biết được điểm khởi đầu. Không thể tìm thấy điểm khởi đầu của chúng sanh lang thang trong luân hồi, bị vô minh che lấp và bị ái kiết sử trói buộc. Khi các con thấy ai đó trong cảnh khốn cùng, đau khổ, các con nên kết luận rằng: 'Trong suốt thời gian dài này, chúng ta cũng đã từng trải qua điều tương tự.' Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.12 Trong Cảnh Tốt Đẹp *Sukhitasutta*
+### SN 15.12 Trong Cảnh Tốt Đẹp *Sukhitasutta*{#12}
 
 Tại Sāvatthī.
 
@@ -187,7 +187,7 @@ Tại Sāvatthī.
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.13 Ba Mươi Vị Tỷ Kheo *Tiṁsamattasutta*
+### SN 15.13 Ba Mươi Vị Tỷ Kheo *Tiṁsamattasutta*{#13}
 
 Gần Rājagaha, trong Trúc Lâm. Khi ấy, ba mươi vị Tỷ kheo
 từ Pāvā đến gặp Thế Tôn. Tất cả họ đều sống trong rừng, chỉ ăn đồ khất thực, mặc y phấn tảo, và chỉ sở hữu ba y; nhưng tất cả họ vẫn còn các kiết sử. Họ đảnh lễ Thế Tôn và ngồi xuống một bên.
@@ -212,7 +212,7 @@ Vì sao vậy? Vòng luân hồi này không thể biết được điểm khở
 Đó là những gì Thế Tôn đã nói. Các Tỷ kheo hoan hỷ, tán thán lời Thế Tôn dạy. Và trong khi bài pháp này đang được nói, tâm của ba mươi vị Tỷ kheo từ Pāvā đã được giải thoát khỏi các phiền não nhờ vô chấp thủ.
 
 <!--pg-->
-### SN 15.14 Mẹ *Mātusutta*
+### SN 15.14 Mẹ *Mātusutta*{#14}
 
 Tại Sāvatthī.
 
@@ -221,35 +221,35 @@ Tại Sāvatthī.
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.15 Cha *Pitusutta*
+### SN 15.15 Cha *Pitusutta*{#15}
 
 Tại Sāvatthī.
 
 "Này các Tỷ kheo, vòng luân hồi này không thể biết được điểm khởi đầu. ... Không dễ để tìm thấy một chúng sanh nào mà trong suốt thời gian dài này chưa từng là cha của các con. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.16 Anh Em Trai *Bhātusutta*
+### SN 15.16 Anh Em Trai *Bhātusutta*{#16}
 
 Tại Sāvatthī.
 
 "Không dễ để tìm thấy một chúng sanh nào mà trong suốt thời gian dài này chưa từng là anh em trai của các con. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.17 Chị Em Gái *Bhaginisutta*
+### SN 15.17 Chị Em Gái *Bhaginisutta*{#17}
 
 Tại Sāvatthī.
 
 "Không dễ để tìm thấy một chúng sanh nào mà trong suốt thời gian dài này chưa từng là chị em gái của các con. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.18 Con Trai *Puttasutta*
+### SN 15.18 Con Trai *Puttasutta*{#18}
 
 Tại Sāvatthī.
 
 "Không dễ để tìm thấy một chúng sanh nào mà trong suốt thời gian dài này chưa từng là con trai của các con. ... Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.19 Con Gái *Dhītusutta*
+### SN 15.19 Con Gái *Dhītusutta*{#19}
 
 Tại Sāvatthī.
 
@@ -258,7 +258,7 @@ Tại Sāvatthī.
 Vì sao vậy? Vòng luân hồi này không thể biết được điểm khởi đầu. Không thể tìm thấy điểm khởi đầu của chúng sanh lang thang trong luân hồi, bị vô minh che lấp và bị ái kiết sử trói buộc. Trong một thời gian dài như vậy, các con đã phải chịu đựng đau khổ, thống khổ, và tai họa, làm cho các nghĩa địa ngày càng thêm đầy. Chừng ấy là đủ để các con nhàm chán, ly tham, và giải thoát khỏi tất cả các pháp hữu vi."
 
 <!--pg-->
-### SN 15.20 Núi Vepulla *Vepullapabbatasutta*
+### SN 15.20 Núi Vepulla *Vepullapabbatasutta*{#20}
 
 Một thời Thế Tôn ở gần Rājagaha, trên núi
 Linh Thứu. Tại đó, Thế Tôn gọi các Tỷ kheo: "Này các Tỷ kheo!"

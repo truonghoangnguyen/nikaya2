@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương về các Bài Kinh Tóm Tắt Sông Hằng
 
-### SN 53.1--12 Thiền Định, v.v. *Gaṅgāpeyyālavagga*
+### SN 53.1--12 Thiền Định, v.v. *Gaṅgāpeyyālavagga*{#1-12}
 
 Tại Sāvatthī.
 
@@ -37,7 +37,7 @@ Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* l�
 <!--pg-->
 ## Chương về Sự Tinh Cần
 
-### SN 53.13--22 Sự Tinh Cần *Appamādavagga*
+### SN 53.13--22 Sự Tinh Cần *Appamādavagga*{#13-22}
 
 **(Kể đầy đủ như trong chương về sự tinh cần tại SN 45.139--148.)**
 
@@ -49,7 +49,7 @@ Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* l�
 <!--pg-->
 ## Chương về Sự Nỗ Lực
 
-### SN 53.23--34 Sự Nỗ Lực *Balakaraṇīyavagga*
+### SN 53.23--34 Sự Nỗ Lực *Balakaraṇīyavagga*{#23-34}
 
 **(Kể đầy đủ như trong chương về sự nỗ lực tại SN 45.149--160.)**
 
@@ -61,7 +61,7 @@ Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* l�
 <!--pg-->
 ## Chương về Sự Tìm Kiếm
 
-### SN 53.35--44 Sự Tìm Kiếm *Esanāvagga*
+### SN 53.35--44 Sự Tìm Kiếm *Esanāvagga*{#35-44}
 
 **(Kể đầy đủ như trong chương về sự tìm kiếm tại SN 45.161--170.)**
 
@@ -73,7 +73,7 @@ Khi *có sự suy nghĩ về một đề tài và quan sát đề tài đó* l�
 <!--pg-->
 ## Chương về các Cơn Lũ
 
-### SN 53.45--54 Cơn Lũ, v.v. *Oghavagga*
+### SN 53.45--54 Cơn Lũ, v.v. *Oghavagga*{#45-54}
 
 "*Tỷ kheo*, có năm *xiềng xích* (The fetters / saṃyojana / *kiết sử* / cái cùm, xiềng xích, là các ô nhiễm gốc rễ sâu trong tâm, ràng buộc con người vào vòng luân hồi) cao hơn. Năm loại đó là gì? Mong muốn tái sinh vào cõi sắc giới, mong muốn tái sinh vào cõi vô sắc, *ngã mạn* (conceit / māna / sự kiêu ngạo, tự cho mình là hơn, là kém, hoặc là bằng người khác), *bồn chồn và hối hận*, và *vô minh* (ignorance / avijjā / sự không biết, không hiểu về bản chất thực của sự vật, đặc biệt là Tứ Diệu Đế). Đây là năm *xiềng xích* cao hơn.
 

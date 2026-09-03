@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương về Trong Rừng
 
-### SN 9.1 Ẩn Dật *Vivekasutta*
+### SN 9.1 Ẩn Dật *Vivekasutta*{#1}
 
 Tôi đã nghe như vầy. Có một thời, một vị Tỷ kheo đang
 trú tại xứ Kosala trong một khu rừng nọ.
@@ -32,7 +32,7 @@ tấn vị ấy, và nói lên những vần kệ:
 Được vị thiên nhân ấy thúc đẩy, vị Tỷ kheo cảm thấy cấp bách.
 
 <!--pg-->
-### SN 9.2 Hãy Đứng Dậy *Upaṭṭhānasutta*
+### SN 9.2 Hãy Đứng Dậy *Upaṭṭhānasutta*{#2}
 
 Có một thời, một vị Tỷ kheo đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -73,7 +73,7 @@ sách tấn vị ấy, và nói lên những vần kệ:
 > sao lại làm phiền một người xuất gia?"
 
 <!--pg-->
-### SN 9.3 Với Kassapagotta *Kassapagottasutta*
+### SN 9.3 Với Kassapagotta *Kassapagottasutta*{#3}
 
 Có một thời, Tôn giả Kassapagotta đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -97,7 +97,7 @@ Lúc bấy giờ, Tôn giả Kassapagotta, sau khi lui về hành thiền ban ng
 Được vị thiên nhân ấy thúc đẩy, Tôn giả Kassapagotta cảm thấy cấp bách.
 
 <!--pg-->
-### SN 9.4 Nhiều Vị Tỷ Kheo Lên Đường Du Hành *Sambahulasutta*
+### SN 9.4 Nhiều Vị Tỷ Kheo Lên Đường Du Hành *Sambahulasutta*{#4}
 
 Có một thời, nhiều vị Tỷ kheo đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -116,7 +116,7 @@ Khi vị ấy nói xong, một vị thiên nhân khác đáp lại bằng vần 
 > các vị Tỷ kheo sống không nơi ở cố định."
 
 <!--pg-->
-### SN 9.5 Với Ānanda *Ānandasutta*
+### SN 9.5 Với Ānanda *Ānandasutta*{#5}
 
 Có một thời, Tôn giả Ānanda đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -130,7 +130,7 @@ Lúc bấy giờ, Tôn giả Ānanda đã dành quá nhiều thời gian thông 
 Được vị thiên nhân ấy thúc đẩy, Tôn giả Ānanda cảm thấy cấp bách.
 
 <!--pg-->
-### SN 9.6 Với Anuruddha *Anuruddhasutta*
+### SN 9.6 Với Anuruddha *Anuruddhasutta*{#6}
 
 Có một thời, Tôn giả Anuruddha đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -166,7 +166,7 @@ Khi đó, một vị thiên nữ tên là Penelope thuộc cõi trời Ba Mươi
 > bây giờ sẽ không còn kiếp sống tương lai nào nữa."
 
 <!--pg-->
-### SN 9.7 Với Nāgadatta *Nāgadattasutta*
+### SN 9.7 Với Nāgadatta *Nāgadattasutta*{#7}
 
 Có một thời, Tôn giả Nāgadatta đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -185,7 +185,7 @@ Lúc bấy giờ, Tôn giả Nāgadatta đã vào làng quá sớm và trở v�
 Được vị thiên nhân ấy thúc đẩy, Tôn giả Nāgadatta cảm thấy cấp bách.
 
 <!--pg-->
-### SN 9.8 Bà Chủ Nhà *Kulagharaṇīsutta*
+### SN 9.8 Bà Chủ Nhà *Kulagharaṇīsutta*{#8}
 
 Có một thời, một vị sư đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -207,7 +207,7 @@ Lúc bấy giờ, vị sư ấy đã trở nên quá thân thiết với công v
 > và việc tu tập của ngươi sẽ không thành công."
 
 <!--pg-->
-### SN 9.9 Một Người Vajji *Vajjiputtasutta*
+### SN 9.9 Một Người Vajji *Vajjiputtasutta*{#9}
 
 Có một thời, một vị Tỷ kheo người Vajji đang trú gần Vesālī trong một khu rừng nọ.
 
@@ -228,7 +228,7 @@ Vị thiên nhân trú trong khu rừng có lòng thương cảm vị Tỷ kheo 
 Được vị thiên nhân ấy thúc đẩy, vị Tỷ kheo cảm thấy cấp bách.
 
 <!--pg-->
-### SN 9.10 Tụng Đọc *Sajjhāyasutta*
+### SN 9.10 Tụng Đọc *Sajjhāyasutta*{#10}
 
 Có một thời, một vị Tỷ kheo đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -248,7 +248,7 @@ Lúc bấy giờ, vị Tỷ kheo ấy trước đây đã dành quá nhiều th�
 > bất cứ điều gì được thấy, nghe, và suy nghĩ."
 
 <!--pg-->
-### SN 9.11 Những Suy Nghĩ Bất Thiện *Akusalavitakkasutta*
+### SN 9.11 Những Suy Nghĩ Bất Thiện *Akusalavitakkasutta*{#11}
 
 Có một thời, một vị Tỷ kheo đang trú tại xứ Kosala trong một khu rừng nọ.
 
@@ -269,7 +269,7 @@ Lúc bấy giờ, trong buổi thiền định ban ngày, vị Tỷ kheo ấy đ
 Được vị thiên nhân ấy thúc đẩy, vị Tỷ kheo cảm thấy cấp bách.
 
 <!--pg-->
-### SN 9.12 Giữa Trưa *Majjhanhikasutta*
+### SN 9.12 Giữa Trưa *Majjhanhikasutta*{#12}
 
 Có một thời, một vị Tỷ kheo đang trú tại xứ Kosala trong một khu rừng nọ. Vị thiên nhân trú trong khu rừng đã đến gần vị Tỷ kheo ấy và đọc vần kệ này trước mặt vị ấy:
 
@@ -284,7 +284,7 @@ Có một thời, một vị Tỷ kheo đang trú tại xứ Kosala trong một 
 > điều đó đối với tôi thật thú vị!"
 
 <!--pg-->
-### SN 9.13 Các Giác Quan Không Được Rèn Luyện *Pākatindriyasutta*
+### SN 9.13 Các Giác Quan Không Được Rèn Luyện *Pākatindriyasutta*{#13}
 
 Có một thời, nhiều vị Tỷ kheo đang trú tại xứ Kosala trong một khu rừng nọ. Họ bồn chồn, xấc xược, hay thay đổi, thô tục, nói năng bừa bãi, thất niệm, thiếu nhận thức tình huống và sự tập trung, với tâm trí lang thang và các giác quan không được kiểm soát.
 
@@ -315,7 +315,7 @@ Vị thiên nhân trú trong khu rừng có lòng thương cảm các vị Tỷ 
 Được vị thiên nhân ấy thúc đẩy, các vị Tỷ kheo cảm thấy cấp bách.
 
 <!--pg-->
-### SN 9.14 Kẻ Trộm Hương *Gandhatthenasutta*
+### SN 9.14 Kẻ Trộm Hương *Gandhatthenasutta*{#14}
 
 Có một thời, một vị Tỷ kheo đang trú tại xứ Kosala trong một khu rừng nọ.
 

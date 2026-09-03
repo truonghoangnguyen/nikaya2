@@ -3,7 +3,7 @@
 <!--pg-->
 ## Chương Một
 
-### SN 18.1 Kinh Con Mắt, v.v. *Cakkhusutta*
+### SN 18.1 Kinh Con Mắt, v.v. *Cakkhusutta*{#1}
 
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 Sāvatthī, tại Rừng Jeta, tu viện của Anāthapiṇḍika.
@@ -66,7 +66,7 @@ Vị ấy hiểu rằng: 'Sanh đã tận, phạm hạnh đã thành, việc c�
 cách tương tự.)*
 
 <!--pg-->
-### SN 18.2 Kinh Sắc Trần, v.v. *Rūpasutta*
+### SN 18.2 Kinh Sắc Trần, v.v. *Rūpasutta*{#2}
 
 Tại Sāvatthī.
 
@@ -82,7 +82,7 @@ vô thường?"
 thanh, hương, vị, xúc, và pháp. Do nhàm chán, tham ái phai nhạt. ..."
 
 <!--pg-->
-### SN 18.3 Kinh Thức *Viññāṇasutta*
+### SN 18.3 Kinh Thức *Viññāṇasutta*{#3}
 
 Tại Sāvatthī.
 
@@ -102,7 +102,7 @@ thức, nhĩ thức, tỷ thức, thiệt
 thức, thân thức, và ý thức. Do nhàm chán, tham ái phai nhạt. ..."
 
 <!--pg-->
-### SN 18.4 Kinh Xúc *Samphassasutta*
+### SN 18.4 Kinh Xúc *Samphassasutta*{#4}
 
 Tại Sāvatthī.
 
@@ -120,7 +120,7 @@ vô thường?"
 xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc, và ý xúc. Do nhàm chán, tham ái phai nhạt. ..."
 
 <!--pg-->
-### SN 18.5 Kinh Thọ *Vedanāsutta*
+### SN 18.5 Kinh Thọ *Vedanāsutta*{#5}
 
 Tại Sāvatthī.
 
@@ -140,7 +140,7 @@ sinh ra từ nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân
 xúc, và ý xúc. ..."
 
 <!--pg-->
-### SN 18.6 Kinh Nhận thức *Saññāsutta*
+### SN 18.6 Kinh Nhận thức *Saññāsutta*{#6}
 
 Tại Sāvatthī.
 
@@ -159,7 +159,7 @@ vô thường?"
 nhận thức về sắc, thanh, hương, vị, xúc, và pháp. ..."
 
 <!--pg-->
-### SN 18.7 Kinh Tư *Sañcetanāsutta*
+### SN 18.7 Kinh Tư *Sañcetanāsutta*{#7}
 
 Tại Sāvatthī.
 
@@ -179,7 +179,7 @@ tư về sắc, thanh, hương, vị, xúc, và pháp.
 ..."
 
 <!--pg-->
-### SN 18.8 Kinh Ái *Taṇhāsutta*
+### SN 18.8 Kinh Ái *Taṇhāsutta*{#8}
 
 Tại Sāvatthī.
 
@@ -198,7 +198,7 @@ vô thường?"
 đối với sắc, thanh, hương, vị, xúc, và pháp. ..."
 
 <!--pg-->
-### SN 18.9 Kinh Giới *Dhātusutta*
+### SN 18.9 Kinh Giới *Dhātusutta*{#9}
 
 Tại Sāvatthī.
 
@@ -218,7 +218,7 @@ vô thường?"
 và thức giới ..."
 
 <!--pg-->
-### SN 18.10 Kinh Uẩn *Khandhasutta*
+### SN 18.10 Kinh Uẩn *Khandhasutta*{#10}
 
 Tại Sāvatthī.
 
@@ -242,7 +242,7 @@ Vị ấy hiểu rằng: 'Sanh đã tận, phạm hạnh đã thành, việc c�
 <!--pg-->
 ## Chương Hai
 
-### SN 18.11 Kinh Con Mắt, v.v. *Cakkhusutta*
+### SN 18.11 Kinh Con Mắt, v.v. *Cakkhusutta*{#11}
 
 Như vầy tôi nghe. Một thời Đức Phật ở gần
 Sāvatthī. Khi ấy, Tôn giả Rāhula đến gặp
@@ -287,7 +287,7 @@ Vị ấy hiểu rằng: 'Sanh đã tận, phạm hạnh đã thành, việc c�
 cách tương tự.)*
 
 <!--pg-->
-### SN 18.12--20 Chín Kinh về Sắc Trần, v.v. *Rūpādisuttanavaka*
+### SN 18.12--20 Chín Kinh về Sắc Trần, v.v. *Rūpādisuttanavaka*{#12-20}
 
 Tại Sāvatthī.
 
@@ -330,7 +330,7 @@ hay vô thường?"
 "Thấy vậy ... Vị ấy hiểu rằng: '... không còn trở lui trạng thái này nữa.'"
 
 <!--pg-->
-### SN 18.21 Kinh Tùy Miên *Anusayasutta*
+### SN 18.21 Kinh Tùy Miên *Anusayasutta*{#21}
 
 Tại Sāvatthī.
 
@@ -352,7 +352,7 @@ cao thượng; xa hay gần: *tất cả* thức—với trí tuệ đúng đắ
 khuynh hướng ngấm ngầm của sự kiêu ngạo đối với thân có thức này và tất cả các đối tượng bên ngoài."
 
 <!--pg-->
-### SN 18.22 Kinh Thoát Khỏi Kiêu Mạn *Apagatasutta*
+### SN 18.22 Kinh Thoát Khỏi Kiêu Mạn *Apagatasutta*{#22}
 
 Tại Sāvatthī.
 
