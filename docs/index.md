@@ -51,3 +51,29 @@ head:
 ---
 
 <HomePageLayout />
+
+
+```
+Tipiṭaka (Tam Tạng)
+│
+├── Vinaya Piṭaka (Vin., Tạng Luật)
+│   │
+│   ├── Suttavibhaṅga (Suttavib., Phân Tích Giới Luật (câu chuyện dẫn đến việc Đức Phật đặt ra giới))
+│   │   ├── Pārājikapāḷi (Pār., Ba-la-di (lỗi nghiêm trọng))
+│   │   └── Pācittiyapāḷi (Pāc., Ưng Đối Trị (nhóm giới còn lại))
+│   │
+│   ├── Khandhaka (Khand., Kiện-độ (cách tổ chức Tăng đoàn))
+│   │   ├── Mahāvagga (Mv., Đại Phẩm (những sự kiện và quy định quan trọng trong giai đoạn đầu của Tăng đoàn))
+│   │   └── Cullavagga (Cv., Tiểu Phẩm (quy định về quản trị và kỷ luật Tăng đoàn))
+│   │
+│   └── Parivāra (Pv., Phụ Tùy (hệ thống hóa và ôn tập Vinaya))
+│
+├── Sutta Piṭaka (Sutt., Tạng Kinh) << Chúng ta ở đây
+│   ├── Dīgha Nikāya (DN, Kinh Trường Bộ)
+│   ├── Majjhima Nikāya (MN, Kinh Trung Bộ)
+│   ├── Saṃyutta Nikāya (SN, Kinh Tương Ưng Bộ)
+│   ├── Aṅguttara Nikāya (AN, Kinh Tăng Chi Bộ)
+│   └── Khuddaka Nikāya (KN, Kinh Tiểu Bộ)
+│
+└── Abhidhamma Piṭaka (Abhi., Tạng Vi Diệu Pháp)
+```

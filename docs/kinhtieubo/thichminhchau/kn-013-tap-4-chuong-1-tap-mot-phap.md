@@ -1,8 +1,8 @@
 # Chương Một – Một Pháp
 
-### **Phẩm I**
+## **Phẩm I**
 
-**(I) (Ek I, 1) (It. 1)**
+### (I) (Ek I, 1) (It. 1){#1}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -19,7 +19,7 @@ Trở lại tại đời này.*
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(II) (Ek I, 2) (It. 1)**
+### (II) (Ek I, 2) (It. 1){#2}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -36,7 +36,7 @@ Trở lại tại đời này*.
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(III) (Ek I, 3) (It. 2)**
+### (III) (Ek I, 3) (It. 2){#3}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -53,7 +53,7 @@ Trở lại tại đời này*.
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(IV) (Ek I, 4) (It. 2)**
+### (IV) (Ek I, 4) (It. 2){#4}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -70,7 +70,7 @@ Trở lại tại đời này.*
 
 Ðây là ý nghĩa đã được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(V) (Ek 1,5) (It. 3)**
+### (V) (Ek 1,5) (It. 3){#5}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -87,7 +87,7 @@ Trở lại tại đời này.*
 
 Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.
 
-**(VI) (Ek1,6) (It.3)**
+### (VI) (Ek1,6) (It.3){#6}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -104,7 +104,7 @@ Trở lại tại đời này*.
 
 Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.
 
-**(VII) (Ek I, 7) (It. 3)**
+### (VII) (Ek I, 7) (It. 3){#7}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -123,7 +123,7 @@ Tất cả mọi đau khổ.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(VIII) (Ek I, 8) (It. 4)**
+### (VIII) (Ek I, 8) (It. 4){#8}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -144,7 +144,7 @@ Tất cả mọi đau khổ.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(IX) (Ek I, 9) (It. 5)**
+### (IX) (Ek I, 9) (It. 5){#9}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -161,7 +161,7 @@ Trở lại tại đời này*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(X) (Ek I, 10) (It. 5)**
+### (X) (Ek I, 10) (It. 5){#10}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -180,9 +180,9 @@ Trở lại tại đời này.*
 
 ---
 
-### **Phẩm II**
+## **Phẩm II**
 
-**(XI) (Ek II, 1) (It. 6)**
+### (XI) (Ek II, 1) (It. 6){#11}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -199,7 +199,7 @@ Trở lại tại đời này*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XII) Ek II, 2) (It. 7)**
+### (XII) Ek II, 2) (It. 7){#12}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -216,7 +216,7 @@ Trở lại tại đời này.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XIII) (Ek II, 3) (It. 7)**
+### (XIII) (Ek II, 3) (It. 7){#13}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -233,7 +233,7 @@ Trở lại tại đời này.*
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XIV) (Ek II, 4) (It. 7)**
+### (XIV) (Ek II, 4) (It. 7){#14}
 
 Ðiều này được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -252,7 +252,7 @@ Trong họ, nhân không còn*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XV) (Ek II, 5) (It. 8)**
+### (XV) (Ek II, 5) (It. 8){#15}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -273,7 +273,7 @@ Sống nếp sống như vậy.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XVI) (Ek II. 6) (It. 9)**
+### (XVI) (Ek II. 6) (It. 9){#16}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -294,7 +294,7 @@ Sư đoạn diệt khổ đau*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XVII) (Ek II. 7) (It. 10)**
+### (XVII) (Ek II. 7) (It. 10){#17}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -313,7 +313,7 @@ Tất cả mọi kiết sử.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XVIII) (Ek II, 8) (It. 10)**
+### (XVIII) (Ek II, 8) (It. 10){#18}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -338,7 +338,7 @@ Trong cảnh giới địa ngục.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XIX) (Ek II, 9) (It. 11)**
+### (XIX) (Ek II, 9) (It. 11){#19}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -361,7 +361,7 @@ Trong cảnh giới chư Thiên*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XX) (Ek II, 11) (It. 12)**
+### (XX) (Ek II, 11) (It. 12){#20}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -387,9 +387,9 @@ Chúng sanh đi ác thú.*
 
 ---
 
-### **Phẩm III**
+## **Phẩm III**
 
-**(XXI) (Ek III, 1) (It. 13)**
+### (XXI) (Ek III, 1) (It. 13){#21}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -414,7 +414,7 @@ Chúng sanh đi thiện thú*.
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXII) (Ek III, 2) (It. 14)**
+### (XXII) (Ek III, 2) (It. 14){#22}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -439,7 +439,7 @@ Thế giới không sân hận*.
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXIII) (Ek III,3) (It. 16)**
+### (XXIII) (Ek III,3) (It. 16){#23}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -461,7 +461,7 @@ Nên được gọi bậc trí.*
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXIV) (Ek III, 4) (It. 17)**
+### (XXIV) (Ek III, 4) (It. 17){#24}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -490,7 +490,7 @@ Là vị đoạn tận khổ,\
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXV) (Ek III, 5) (It. 18)**
+### (XXV) (Ek III, 5) (It. 18){#25}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe.
 
@@ -505,7 +505,7 @@ Không ác gì không làm*.
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXVI) (Ek III, 6) (It. 18)**
+### (XXVI) (Ek III, 6) (It. 18){#26}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -542,7 +542,7 @@ Nhờ san sẻ bố thí.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XXVII) (Ek III, 7) (It. 19)**
+### (XXVII) (Ek III, 7) (It. 19){#27}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 

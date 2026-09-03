@@ -1,0 +1,17 @@
+# PLI-TV-PVR 8. Uposathādipucchāvissajjanā
+
+# 8. Uposathādipucchāvissajjanā
+
+## 1 Ādimajjhantapucchana
+
+1\. Uposathakammassa ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Pavāraṇākammassa ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Tajjanīyakammassa ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Niyassakammassa …pe… pabbājanīyakammassa …pe… paṭisāraṇīyakammassa …pe… ukkhepanīyakammassa …pe… parivāsadānassa …pe… mūlāyapaṭikassanāya …pe… mānattadānassa …pe… abbhānassa …pe… upasampadākammassa ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Tajjanīyakammassa paṭippassaddhiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Niyassakammassa paṭippassaddhiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Pabbājanīyakammassa paṭippassaddhiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Paṭisāraṇīyakammassa paṭippassaddhiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Ukkhepanīyakammassa paṭippassaddhiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Sativinayassa ko ādi, kiṁ majje, kiṁ pariyosānaṁ? Amūḷhavinayassa ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Tassapāpiyasikāya ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Tiṇavatthārakassa ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Bhikkhunovādakasammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Ticīvarena avippavāsasammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Santhatasammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Rūpiyachaḍḍakasammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Sāṭiyaggāhāpakasammutiyo ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Pattaggāhāpakasammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Daṇḍasammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Sikkāsammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ? Daṇḍasikkāsammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānaṁ?
+
+## 2 Ādimajjhantavissajjanā
+
+2\. Uposathakammassa ko ādi, kiṁ majjhe, kiṁ pariyosānanti? Uposathakammassa sāmaggī ādi, kiriyā majjhe, niṭṭhānaṁ pariyosānaṁ.
+
+3\. Pavāraṇākammassa ko ādi, kiṁ majjhe, kiṁ pariyosānanti? Pavāraṇākammassa sāmaggī ādi, kiriyā majjhe, niṭṭhānaṁ pariyosānaṁ.
+
+4\. Tajjanīyakammassa ko ādi, kiṁ majjhe, kiṁ pariyosānanti?
+
+Tajjanīyakammassa vatthu ca puggalo ca ādi, ñatti majjhe, kammavācā pariyosānaṁ. Niyassakammassa …pe… pabbājanīyakammassa …pe… paṭisāraṇīyakammassa …pe… ukkhepanīyakammassa …pe… parivāsadānassa …pe… mūlāyapaṭikassanāya …pe… mānattadānassa …pe… abbhānassa ko ādi, kiṁ majjhe, kiṁ pariyosānanti? Abbhānassa vatthu ca puggalo ca ādi, ñatti majjhe, kammavācā pariyosānaṁ. Upasampadākammassa ko ādi, kiṁ majjhe, kiṁ pariyosānanti? Upasampadākammassa puggalo ādi, ñatti majjhe, kammavācā pariyosānaṁ. Tajjanīyakammassa paṭippassaddhiyā ko ādi, kiṁ majjhe, kiṁ pariyosānanti? Tajjanīyakammassa paṭippassaddhiyā sammāvattanā ādi, ñatti majjhe, kammavācā pariyosānaṁ. Niyassakammassa …pe… pabbājanīyakammassa …pe… paṭisāraṇīyakammassa …pe… ukkhepanīyakammassa paṭippassaddhiyā ko ādi, kiṁ majjhe, kiṁ pariyosānanti? Ukkhepanīyakammassa paṭippassaddhiyā sammāvattanā ādi, ñatti majjhe, kammavācā pariyosānaṁ. Sativinayassa ko ādi, kiṁ majjhe, kiṁ pariyosānanti? Sativinayassa vatthu ca puggalo ca ādi, ñatti majjhe, kammavācā pariyosānaṁ. Amūḷhavinayassa …pe… tassapāpiyasikāya …pe… tiṇavatthārakassa …pe… bhikkhunovādakasammutiyā …pe… ticīvarena avippavāsasammutiyā …pe… santhatasammutiyā …pe… rūpiyachaḍḍakasammutiyā …pe… sāṭiyaggāhāpakasammutiyā …pe… pattaggāhāpakasammutiyā …pe… daṇḍasammutiyā …pe… sikkāsammutiyā …pe… daṇḍasikkāsammutiyā ko ādi, kiṁ majjhe, kiṁ pariyosānanti? Daṇḍasikkāsammutiyā vatthu ca puggalo ca ādi, ñatti majjhe, kammavācā pariyosānaṁ. Uposathādipucchāvissajjanā niṭṭhitā.

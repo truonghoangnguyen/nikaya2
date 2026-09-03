@@ -1,8 +1,8 @@
 # Chương Hai – Hai Pháp
 
-### **Phẩm I**
+## **Phẩm I**
 
-**(XXVIII) (Duk. I, 1) (It. 22)**
+### (XXVIII) (Duk. I, 1) (It. 22){#28}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -27,7 +27,7 @@ An trú khổ như vậy.*
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXIX) (Duk. I, 2) (It. 23)**
+### (XXIX) (Duk. I, 2) (It. 23){#29}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -52,7 +52,7 @@ An trú lạc như vậy*.
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXX) (Duk. I, 3) (It. 24)**
+### (XXX) (Duk. I, 3) (It. 24){#30}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -73,7 +73,7 @@ Bị sanh vào địa ngục.*
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXXI) (Duk. I,4) (It. 25)**
+### (XXXI) (Duk. I,4) (It. 25){#31}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -94,7 +94,7 @@ Người có thiện trí tuệ,\
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXXII) (Duk. I,5) (It. 26)**
+### (XXXII) (Duk. I,5) (It. 26){#32}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -113,7 +113,7 @@ Vào cảnh giới địa ngục.*
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXXIII) (Duk. I,6) (It. 26)**
+### (XXXIII) (Duk. I,6) (It. 26){#33}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -132,7 +132,7 @@ Vào cảnh giới cõi trời*
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(XXXIV) (Duk. I,7) (It. 27)**
+### (XXXIV) (Duk. I,7) (It. 27){#34}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và tôi đã được nghe:
 
@@ -160,7 +160,7 @@ Chánh Ðẳng Giác vô thượng*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XXXV) (Duk. I,8) (It. 28)**
+### (XXXV) (Duk. I,8) (It. 28){#35}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -188,7 +188,7 @@ Như lời Ðạo sư dạy.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XXXVI) (Duk. I,9) (It. 26)**
+### (XXXVI) (Duk. I,9) (It. 26){#36}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -216,7 +216,7 @@ Như lời Ðạo sư dạy.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XXXVII) (Duk. I,10) (It. 27)**
+### (XXXVII) (Duk. I,10) (It. 27){#37}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -241,9 +241,9 @@ Có thể đạt chứng được,\
 
 ---
 
-### **Phẩm II**
+## **Phẩm II**
 
-**(XXXVIII) (Duk. II, 1) (It. 31)**
+### (XXXVIII) (Duk. II, 1) (It. 31){#38}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -286,7 +286,7 @@ Bị sanh già áp bức.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XXXIX) (Duk. II, 2) (It. 33)**
+### (XXXIX) (Duk. II, 2) (It. 33){#39}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -309,7 +309,7 @@ Mọi khổ đau phiền não*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XL) (Duk. II, 3) (It. 34)**
+### (XL) (Duk. II, 3) (It. 34){#40}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -334,7 +334,7 @@ Tất cả mọi ác thú.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XLI) (Duk. II, 4) (It. 35)**
+### (XLI) (Duk. II, 4) (It. 35){#41}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -362,7 +362,7 @@ Mang thâm này cuối cùng.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XLLII) (Duk. II, 5) (It. 36)**
+### (XLLII) (Duk. II, 5) (It. 36){#92}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -385,7 +385,7 @@ Tái sanh được diệt tận.*
 
 ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XLIII) (Duk. II, 6) (It. 37)**
+### (XLIII) (Duk. II, 6) (It. 37){#43}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -416,7 +416,7 @@ An lạc thật tịnh lạc.*
 
 Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XLIV) (Duk. III, 7) (It. 38)**
+### (XLIV) (Duk. III, 7) (It. 38){#44}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -453,7 +453,7 @@ Tất cả mọi sanh hữu*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XLV) (Duk. II, 8) (It 39)**
+### (XLV) (Duk. II, 8) (It 39){#45}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -476,7 +476,7 @@ Họ đến gần Niết bàn*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XLVI) (Duk. II, 9) (It. 40).**
+### (XLVI) (Duk. II, 9) (It. 40).{#46}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -505,7 +505,7 @@ Thoát khỏi sự già chết.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LVIII) (Duk. II, 10) (It. 41)**
+### (LVIII) (Duk. II, 10) (It. 41){#58}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -540,7 +540,7 @@ Chứng chánh giác Vô thượng*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XLVIII) (Duk. II, 11) (It. 42)**
+### (XLVIII) (Duk. II, 11) (It. 42){#48}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -573,7 +573,7 @@ Các món ăn quốc độ.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XLIX) (Duk. II, 12) (It. 43)**
+### (XLIX) (Duk. II, 12) (It. 43){#49}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 

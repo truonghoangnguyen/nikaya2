@@ -1,8 +1,8 @@
 # Chương Bốn – Bốn Pháp
 
-### **Phẩm I**
+## **Phẩm I**
 
-**(C) (Cat. I) (It. 101)**
+### (C) (Cat. I) (It. 101){#100}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -27,7 +27,7 @@ Vượt qua dòng sanh hữu,\
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(CI) (Cat. 2) (It. 102)**
+### (CI) (Cat. 2) (It. 102){#101}
 
 Này các Tỷ-kheo, có bốn pháp này ít oi, dễ được và không có phạm lỗi. Thế nào là bốn? Trong các loại y, này các Tỷ-kheo, y phấn tảo lượm từ đống rác là ít oi, dễ được và không phạm lỗi. Trong các loại, để ăn, này các Tỷ-kheo, đi khất thực từng miếng là ít oi, dễ được và không có phạm lỗi. Trong các sàng tọa, này các Tỷ-kheo, gốc cây là ít oi, dễ được và không có phạm lỗi. Trong các loại dược phẩm, này các Tỷ-kheo, nước tiểu hôi là ít oi, dễ được, không có phạm lỗi. Này các Tỷ-kheo, có bốn loại ít oi, dễ được, không có phạm lỗi nào. Này các Tỷ-kheo, nếu Tỷ-kheo biết đủ, với các loại ít oi, dễ được này, Ta tuyên bố rằng đây là một chi phần Sa-môn hạnh của vị ấy.
 
@@ -45,7 +45,7 @@ Họ được có đầy đủ,\
 Với Tỷ-kheo biết đủ,\
 Với vị không phóng dật.*
 
-**(CII) (Cat. 3) (It. 103)**
+### (CII) (Cat. 3) (It. 103){#102}
 
 Này các Tỷ-kheo, Ta thuyết sự diệt tận các lậu hoặc cho người biết, cho người thấy, không phải cho người không biết, cho người không thấy. Và này các Tỷ-kheo, cho người biết gì, cho người thấy gì là sự diệt tận các lậu hoặc?
 
@@ -70,7 +70,7 @@ Niết-bàn vô thượng này,\
 Sự giải thoát hoàn toàn,\
 Tất cả mọi trói buộc*.
 
-**(CIII) (Cat. 4) (It. 104)**
+### (CIII) (Cat. 4) (It. 104){#103}
 
 Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào không như thật quán tri: “Ðây là Khổ”, không như thật quán tri: “Ðây là Khổ tập”, không như thật quán tri: “Ðây là Khổ diệt”, không như thật quán tri: “Ðây là Con đường đưa đến khổ diệt”. Những Sa-môn, Bà-la-môn ấy, này các Tỷ-kheo, không được Ta chấp nhận là Sa-môn trong các hàng Sa-môn, hay là Bà-la-môn trong các Bà-la-môn. Và các vị Tôn giả ấy, ngay trong hiện tại cũng không tự mình với thắng trí, chứng ngộ, chứng đạt và an trú mục đích Sa-môn hạnh hay mục đích Bà-la-môn hạnh.
 
@@ -98,7 +98,7 @@ Và cả tuệ giải thoát,\
 Họ có thể chấm dứt,\
 Không đi đến sanh già*.
 
-**(CIV) (Cat. 5) (It. 106)**
+### (CIV) (Cat. 5) (It. 106){#104}
 
 Này các Tỷ-kheo, những Tỷ-kheo nào đầy đủ giới, đầy đủ định, đầy đủ tuệ, đầy đủ giải thoát, đầy đủ giải thoát tri kiến, những vị giáo giới, những vị giảng dạy, những vị tuyên bố, khích lệ, làm cho phấn khởi, làm cho hoan hỷ, những bậc xứng đáng thuyết minh diệu pháp, này các Tỷ-kheo, Ta tuyên bố rằng chỉ thấy các vị như vậy là lợi ích nhiều cho các Tỷ-kheo ấy; này các Tỷ-kheo, Ta tuyên bố rằng chỉ nghe các vị như vậy là lợi ích nhiều cho các Tỷ-kheo ấy; này các Tỷ-kheo, Ta tuyên bố rằng chỉ đi đến yết kiến các vị như vậy là lợi ích nhiều cho các Tỷ-kheo ấy; này các Tỷ-kheo, Ta tuyên bố rằng chỉ thân cận các vị như vậy là lợi ích nhiều cho các Tỷ-kheo ấy; này các Tỷ-kheo, Ta tuyên bố rằng chỉ nhớ nghĩ đến các vị như vậy là lợi ích nhiều cho các Tỷ-kheo ấy. Này các Tỷ-kheo, Ta tuyên bố rằng chỉ tùy theo các vị như vậy xuất gia là lợi ích nhiều cho các Tỷ-kheo ấy. Vì cớ sao?
 
@@ -124,7 +124,7 @@ Nghe lời dạy vị ấy,\
 Do thắng tri sanh diệt,\
 Không đi đến tái sanh.*
 
-**(CV) (Cat. 6) (It. 109)**
+### (CV) (Cat. 6) (It. 109){#105}
 
 Này các Tỷ-kheo, có bốn sự sanh khởi này của ái, ở đây ái sanh khởi lên cho Tỷ-kheo. Thế nào là bốn? Do nhân y áo, này các Tỷ-kheo, ái sanh khởi cho Tỷ-kheo. Do nhân đồ ăn khất thực, này các Tỷ-kheo, ái khởi sanh cho Tỷ-kheo. Do nhân sàng tọa, này các Tỷ-kheo, ái khởi sanh cho Tỷ-kheo. Do nhân sanh hữu, không sanh hữu, này các Tỷ-kheo, ái sanh khởi cho Tỷ-kheo. Này các Tỷ-kheo, có bốn sự sanh khởi này của ái. Ở đây, ái sanh khởi lên cho Tỷ-kheo.
 
@@ -139,7 +139,7 @@ Không còn có chấp trước,\
 Vị Tỷ-kheo chánh niệm\
 Du hành khắp đó đây*.
 
-**(CVI) (Cat. 7) (It. 109)**
+### (CVI) (Cat. 7) (It. 109){#106}
 
 Những gia đình nào, này các Tỷ-kheo, trong ấy các con cái kính lễ mẹ cha ở trong nhà, những gia đình ấy được chấp nhận ngang bằng với Phạm thiên. Những gia đình nào, này các Tỷ-kheo, trong ấy các con cái kính lễ mẹ cha ở trong nhà, những gia đình ấy được chấp nhận như các đạo sư thời xưa. Những gia đình nào, này các Tỷ-kheo, trong ấy con cái kính lễ mẹ cha ở trong nhà, những gia đình ấy được chấp nhận là đáng được cúng dường.
 
@@ -162,7 +162,7 @@ Dời sau hưởng Thiên lạc*.
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(CVII) (Cat. 8) (It. 111)**
+### (CVII) (Cat. 8) (It. 111){#107}
 
 Này các Tỷ-kheo, các Bà-la-môn gia chủ rất có lợi ích cho các Thầy, chính họ đã sắp đặt y áo, đồ ăn khất thực, sàng tọa, dược phẩm trị bệnh cho các Thầy. Này các Tỷ-kheo, các Thầy cũng rất có lợi ích cho các người Bà-la-môn gia chủ, vì các Thầy thuyết pháp cho họ, pháp ấy sơ thiện, trung thiện, hậu thiện, có nghĩa có văn, nói lên Phạm hạnh hoàn toàn viên mãn thanh tịnh. Như vậy, này các Tỷ-kheo, Phạm hạnh này được sống, do tương duyên với nhau, với mục đích vượt qua dòng nước mạnh, đoạn tận khổ đau.
 
@@ -188,7 +188,7 @@ Hân hoan trong thiên giới,\
 Họ sống được hoan hỷ,\
 Như điều họ mong muốn*.
 
-**(CVIII) (Cat. 9) It. 112)**
+### (CVIII) (Cat. 9) It. 112){#108}
 
 Này các Tỷ-kheo, những Tỷ-kheo nào lừa đảo ngoan cố, lắm mồm, lắm miệng, buông thả hỗn hào vô lễ không định tỉnh, này các Tỷ-kheo, các Tỷ-kheo ấy không phải đệ tử của Ta; này các Tỷ-kheo, các Tỷ-kheo ấy rơi khỏi Pháp và Luật này; và này các Tỷ-kheo, các Tỷ-kheo ấy không đi đến tăng trưởng, tăng thịnh, tăng rộng trong Pháp và Luật này. Và này các Tỷ-kheo, các Tỷ-kheo nào không lừa đảo, không lắm mồm, lắm miệng, nghiêm trang, không ngoan cố, khéo định tĩnh; này các Tỷ-kheo, các Tỷ-kheo ấy là đệ tử của Ta; này các Tỷ-kheo, các Tỷ-kheo ấy không rơi khỏi Pháp và  Luật này; và này các Tỷ-kheo, các Tỷ-kheo ấy đi đến tăng trưởng, tăng thịnh, tăng rộng trong Pháp và Luật này.
 
@@ -204,7 +204,7 @@ Không ngoan cố, khéo định,\
 Họ lớn mạnh trong Pháp,\
 Ðược bậc Chánh giác giảng.*
 
-**(CIX) (Cat. 10) (It. 113)**
+### (CIX) (Cat. 10) (It. 113){#109}
 
 Này các Tỷ-kheo, ví như có người bị dòng sông cuốn trôi, dòng sông đẹp đẽ, dễ thương. Có người có mắt, đứng trên bờ thấy người ấy, nói rằng: “Này người kia, tuy người bị cuốn trôi bởi dòng sông đẹp đẽ dễ thương nhưng ở dưới kia có một cái hồ, đầy sóng và nước xoáy, đầy cá sấu và quỷ Dạ-xoa; nếu Ông đến chỗ ấy, Ông sẽ bị chết, hay đau khổ gần như chết. Rồi người ấy, sau khi nghe tiếng của người kia, liền với tay và với chân, bơi ngược dòng”.
 
@@ -224,7 +224,7 @@ Phạm hạnh được thành tựu,\
 Ðến được bờ bên kia.\
 Vị ấy được gọi vậy.*
 
-**(CX) (Cat. 11) (It. 115)**
+### (CX) (Cat. 11) (It. 115){#110}
 
 Này các Tỷ-kheo, nếu Tỷ-kheo khi đang đi khởi lên dục tầm, sân tầm hay hại tầm, nếu Tỷ-kheo chấp nhận không có từ bỏ, không có tẩy sạch, không có chấm dứt, không đi đến, không hiện hữu. Này các Tỷ-kheo, nếu Tỷ-kheo đang đi có sở hành như vậy, vị ấy được gọi là người không có nhiệt tình, không có sợ hãi, liên tục thường hằng biếng nhác, tinh tấn hạ liệt.
 
@@ -247,7 +247,7 @@ Tập trung được tâm tư,\
 Vị Tỷ-kheo như vậy,\
 Chứng được Vô thượng giác.*
 
-**(CXI) (Cat. 12) (5 It. 118)**
+### (CXI) (Cat. 12) (5 It. 118){#111}
 
 Này các Tỷ-kheo, hãy sống đầy đủ giới, đầy đủ giới bổn Pàtimokkha, được chế ngự với chế ngự giới bổn Pàtimokkha. Hãy sống đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong các lỗi nhỏ nhặt, chấp nhận và học tập trong các học pháp. Ðã sống đầy đủ giới, này các Tỷ-kheo, đầy đủ giới bổn Pàtimokkha, được chế ngự với sự chế ngự của giới bổn Pàtimokkha, sống đầy đủ uy nghi chánh hạnh, thấy sợ hãi trong các lỗi nhỏ nhặt, chấp nhận và học tập trong các học pháp, còn có gì cần phải làm thêm nữa?
 
@@ -272,7 +272,7 @@ Thường xuyên chuyên học tập,\
 Liên tục, thường siêng năng,\
 Tỷ-kheo được gọi vậy.*
 
-**(CXII) (Cat. 13) (It. 121)**
+### (CXII) (Cat. 13) (It. 121) {#112}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và tôi đã được nghe:
 

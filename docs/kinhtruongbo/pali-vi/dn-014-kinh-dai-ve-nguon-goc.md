@@ -3,8 +3,7 @@
 *(Mahāpadānasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-014){target="_blank" class="note-link" }
 
-## 1. Câu chuyện về đời sống quá khứ (Pubbenivāsapaṭisaṁyuttakathā)
-
+## 1. Câu chuyện về đời sống quá khứ (Pubbenivāsapaṭisaṁyuttakathā){#1}
 Tôi nghe như vầy—một thời Thế Tôn trú ở Sāvatthi (Xá-vệ), tại tu viện Anāthapiṇḍika (Cấp Cô Độc) trong rừng Jeta (Kỳ-đà), tại ngôi chòi Kareri.
 
 Khi ấy, nhiều vị tỳ-kheo sau bữa ăn, lúc đi khất thực trở về, đang ngồi tụ họp tại sảnh đường Kareri, thì một câu chuyện về *đời sống quá khứ* (tiền kiếp / pubbenivāsa) khởi lên: "Như thế này là *đời sống quá khứ*, như thế này là *đời sống quá khứ*".
@@ -97,8 +96,7 @@ Này các tỳ-kheo, các vị có muốn nghe thêm một *bài giảng* về *
 "Này các tỳ-kheo, cách đây chín mươi mốt kiếp, Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã xuất hiện ở đời. Thế Tôn Vipassī... sinh ra trong giai cấp Sát-đế-lỵ... thuộc dòng họ Koṇḍañña... tuổi thọ là tám mươi ngàn năm... giác ngộ dưới gốc cây Pāṭalī... có cặp đệ tử hàng đầu tên là Khaṇḍa và Tissa... có ba lần đại hội đệ tử... tất cả đều là *người đã sạch nguồn ác*... có vị tỳ-kheo thị giả hàng đầu tên là Asoka... có cha là vua Bandhumā, mẹ là hoàng hậu Bandhumatī, kinh đô là thành phố Bandhumatī.
 
 <!--pg-->
-## 2. Quy luật của Bồ-tát (Bodhisattadhammatā)
-
+## 2. Quy luật của Bồ-tát (Bodhisattadhammatā){#2}
 Này các tỳ-kheo, khi ấy Bồ-tát Vipassī từ cõi trời Tusita (Đâu-suất) mạng chung, *quan sát và nhận biết rõ ràng* (chánh niệm tỉnh giác / sato sampajāno) nhập vào thai mẹ. Đây là *Quy luật* ở đây.
 
 Này các tỳ-kheo, đây là *Quy luật*: Khi Bồ-tát từ cõi trời Tusita mạng chung nhập vào thai mẹ, thì trong thế giới gồm chư thiên, ma vương, phạm thiên, trong quần chúng gồm sa-môn, bà-la-môn, chư thiên và loài người, một ánh sáng vô lượng, rực rỡ xuất hiện, vượt qua cả uy lực của chư thiên. Ngay cả những khoảng không gian tối tăm, trống rỗng, không có điểm tựa, nơi mà mặt trăng và mặt trời với thần thông vĩ đại, uy lực vĩ đại như vậy cũng không thể chiếu sáng tới, thì tại đó cũng xuất hiện một ánh sáng vô lượng, rực rỡ, vượt qua cả uy lực của chư thiên. Và những chúng sinh sinh ra tại đó nhờ ánh sáng ấy mà nhận ra nhau: 'Thưa các bạn, hóa ra cũng có những chúng sinh khác sinh ra ở đây'. Và hệ thống mười ngàn thế giới này rung chuyển, chấn động, rung lắc mạnh. Một ánh sáng vô lượng, rực rỡ xuất hiện ở đời, vượt qua cả uy lực của chư thiên. Đây là *Quy luật* ở đây.
@@ -141,8 +139,7 @@ Này các tỳ-kheo, đây là *Quy luật*: Ngay khi vừa sinh ra, Bồ-tát �
 Này các tỳ-kheo, đây là *Quy luật*: Khi Bồ-tát từ thai mẹ sinh ra, thì trong thế giới gồm chư thiên, ma vương, phạm thiên, trong quần chúng gồm sa-môn, bà-la-môn, chư thiên và loài người, một ánh sáng vô lượng, rực rỡ xuất hiện, vượt qua cả uy lực của chư thiên. Ngay cả những khoảng không gian tối tăm... (như trên)... Một ánh sáng vô lượng, rực rỡ xuất hiện ở đời, vượt qua cả uy lực của chư thiên. Đây là *Quy luật* ở đây.
 
 <!--pg-->
-## 3. Ba mươi hai tướng đại nhân (Dvattiṁsamahāpurisalakkhaṇā)
-
+## 3. Ba mươi hai tướng đại nhân (Dvattiṁsamahāpurisalakkhaṇā){#3}
 Này các tỳ-kheo, khi thái tử Vipassī vừa sinh ra, người ta báo cho vua Bandhumā: 'Tâu bệ hạ, một người con trai đã sinh ra cho ngài, xin bệ hạ hãy đến xem'. Này các tỳ-kheo, vua Bandhumā nhìn thấy thái tử Vipassī, sau khi nhìn thấy, vua cho gọi các đạo sĩ Bà-la-môn xem tướng và nói: 'Xin các vị đạo sĩ Bà-la-môn xem tướng hãy xem thái tử'. Này các tỳ-kheo, các đạo sĩ Bà-la-môn xem tướng nhìn thấy thái tử Vipassī, sau khi nhìn thấy, họ tâu với vua Bandhumā: 'Tâu bệ hạ, hãy vui mừng, một người con có uy lực vĩ đại đã sinh ra cho ngài. Thật là một lợi ích cho ngài, tâu đại vương, thật là một điều may mắn cho ngài, tâu đại vương, khi trong gia tộc của ngài có một người con như vậy sinh ra. Tâu bệ hạ, thái tử này được trang bị ba mươi hai tướng đại nhân, mà đối với một đại nhân được trang bị những tướng này, chỉ có hai con đường, không có con đường nào khác. Nếu sống đời tại gia, ngài sẽ trở thành một vị vua Chuyển luân, một vị vua cai trị theo *Quy luật* công bằng, chinh phục bốn phương, mang lại sự ổn định cho đất nước, được trang bị bảy báu vật. Bảy báu vật của ngài là: Bánh xe báu, Voi báu, Ngựa báu, Ngọc báu, Nữ báu, Gia chủ báu, và Tướng quân báu là thứ bảy. Ngài sẽ có hơn một ngàn người con trai dũng cảm, hình dáng anh hùng, có khả năng đè bẹp quân thù. Ngài sẽ chinh phục và cai trị trái đất này cho đến tận bờ biển bằng *Quy luật* công bằng, không dùng gậy gộc, không dùng vũ khí. Nếu ngài rời bỏ gia đình, *xuất gia* (pabbajati) sống đời không nhà, ngài sẽ trở thành bậc A-la-hán, Chánh Đẳng Giác, người vén bức màn vô minh ở đời.
 
 Tâu bệ hạ, thái tử này được trang bị ba mươi hai tướng đại nhân nào, mà đối với một đại nhân được trang bị những tướng này, chỉ có hai con đường, không có con đường nào khác... (như trên)... Nếu ngài rời bỏ gia đình, *xuất gia* sống đời không nhà, ngài sẽ trở thành bậc A-la-hán, Chánh Đẳng Giác, người vén bức màn vô minh ở đời?
@@ -188,8 +185,7 @@ Tâu bệ hạ, thái tử này có nhục kế trên đỉnh đầu. Việc th�
 Tâu bệ hạ, thái tử này được trang bị ba mươi hai tướng đại nhân này, mà đối với một đại nhân được trang bị những tướng này, chỉ có hai con đường, không có con đường nào khác. Nếu sống đời tại gia, ngài sẽ trở thành một vị vua Chuyển luân... (như trên)... Nếu ngài rời bỏ gia đình, *xuất gia* sống đời không nhà, ngài sẽ trở thành bậc A-la-hán, Chánh Đẳng Giác, người vén bức màn vô minh ở đời.'
 
 <!--pg-->
-## 4. Tên gọi Vipassī (Vipassīsamaññā)
-
+## 4. Tên gọi Vipassī (Vipassīsamaññā){#4}
 Này các tỳ-kheo, khi ấy vua Bandhumā ban tặng cho các đạo sĩ Bà-la-môn xem tướng những bộ quần áo mới tinh và làm họ thỏa mãn với mọi mong muốn. Này các tỳ-kheo, rồi vua Bandhumā sắp xếp các nhũ mẫu cho thái tử Vipassī. Người thì cho bú sữa, người thì tắm rửa, người thì bế ẵm, người thì bồng trên hông. Này các tỳ-kheo, khi thái tử Vipassī sinh ra, một chiếc lọng trắng được che cho ngài cả ngày lẫn đêm: 'Không để cho lạnh, nóng, cỏ, bụi, hay sương làm phiền ngài'. Này các tỳ-kheo, khi thái tử Vipassī sinh ra, ngài trở nên đáng yêu và làm hài lòng rất nhiều người. Này các tỳ-kheo, giống như hoa súng xanh, hoa sen hồng, hay hoa sen trắng rất đáng yêu và làm hài lòng nhiều người; cũng vậy, này các tỳ-kheo, thái tử Vipassī trở nên đáng yêu và làm hài lòng rất nhiều người. Ngài liên tục được chuyền từ tay người này sang tay người khác.
 
 Này các tỳ-kheo, khi thái tử Vipassī sinh ra, ngài có giọng nói êm ái, giọng nói truyền cảm, giọng nói ngọt ngào và giọng nói đáng yêu. Này các tỳ-kheo, giống như trên núi Himalaya có loài chim tên là Karavīka có giọng nói êm ái, truyền cảm, ngọt ngào và đáng yêu; cũng vậy, này các tỳ-kheo, thái tử Vipassī có giọng nói êm ái, truyền cảm, ngọt ngào và đáng yêu.
@@ -205,8 +201,7 @@ Này các tỳ-kheo, khi ấy vua Bandhumā cho xây dựng ba cung điện cho 
 (Hết phần tụng thứ nhất).
 
 <!--pg-->
-## 5. Người già (Jiṇṇapurisa)
-
+## 5. Người già (Jiṇṇapurisa){#5}
 Này các tỳ-kheo, rồi thái tử Vipassī sau nhiều năm, nhiều trăm năm, nhiều ngàn năm trôi qua, đã gọi người đánh xe: 'Này người đánh xe bạn tôi, hãy thắng những cỗ xe tốt nhất, chúng ta sẽ đi đến khu vườn để ngắm cảnh đẹp'.
 
 'Thưa vâng, tâu điện hạ', này các tỳ-kheo, người đánh xe vâng lời thái tử Vipassī, thắng những cỗ xe tốt nhất và báo cho thái tử Vipassī: 'Tâu điện hạ, những cỗ xe tốt nhất đã được thắng xong, nay ngài hãy xem đã đến lúc chưa'. Này các tỳ-kheo, rồi thái tử Vipassī lên một cỗ xe tuyệt đẹp và cùng với những cỗ xe tuyệt đẹp khác đi đến khu vườn.
@@ -239,8 +234,7 @@ Này các tỳ-kheo, rồi vua Bandhumā cho gọi người đánh xe và hỏi:
 "Nếu vậy, này người đánh xe bạn tôi, hôm nay đi đến khu vườn thế là đủ rồi, hãy quay xe trở về cung điện từ đây". "Thưa vâng, tâu điện hạ", tâu bệ hạ, tôi vâng lời thái tử Vipassī và quay xe trở về cung điện từ đó. Tâu bệ hạ, thái tử trở về cung điện, buồn bã, chán nản và suy tư: "Thật đáng khinh thay cái gọi là *sự Tái sinh*, vì đối với người đã sinh ra, sự già nua sẽ xuất hiện"'.
 
 <!--pg-->
-## 6. Người bệnh (Byādhitapurisa)
-
+## 6. Người bệnh (Byādhitapurisa){#6}
 Này các tỳ-kheo, rồi vua Bandhumā suy nghĩ: 'Đừng để chuyện thái tử Vipassī không cai trị vương quốc thành sự thật, đừng để thái tử Vipassī rời bỏ gia đình, *xuất gia* sống đời không nhà, đừng để lời tiên tri của các đạo sĩ Bà-la-môn trở thành sự thật'. Này các tỳ-kheo, rồi vua Bandhumā cung cấp cho thái tử Vipassī nhiều hơn nữa năm *sợi dây trói buộc của bản năng*: 'Để thái tử Vipassī cai trị vương quốc, để thái tử Vipassī không rời bỏ gia đình, *xuất gia* sống đời không nhà, để lời tiên tri của các đạo sĩ Bà-la-môn trở thành sai lệch'. Này các tỳ-kheo, tại đó, thái tử Vipassī được cung cấp, được trang bị và vui chơi với năm *sợi dây trói buộc của bản năng*.
 
 Này các tỳ-kheo, rồi thái tử Vipassī sau nhiều năm ...pe...
@@ -270,8 +264,7 @@ Này các tỳ-kheo, rồi vua Bandhumā cho gọi người đánh xe và hỏi:
 'Này người đánh xe, vậy thái tử đã nhìn thấy gì khi đi đến khu vườn?' 'Tâu bệ hạ, khi đang đi đến khu vườn, thái tử nhìn thấy một người bệnh tật, đau đớn, ốm nặng, nằm lăn lộn trong phân và nước tiểu của chính mình, phải nhờ người khác đỡ dậy, phải nhờ người khác đặt nằm xuống. Thấy vậy, ngài hỏi tôi: "Này người đánh xe bạn tôi, người đàn ông này bị làm sao vậy, mắt của ông ta không giống những người khác, giọng nói của ông ta cũng không giống những người khác?" "Tâu điện hạ, đó gọi là người bệnh". "Này người đánh xe bạn tôi, thế nào gọi là người bệnh?" "Tâu điện hạ, đó gọi là người bệnh, có lẽ ông ta sẽ không qua khỏi căn bệnh này". "Này người đánh xe bạn tôi, ta cũng có bản chất phải bệnh, không thể vượt qua bệnh tật sao?" "Tâu điện hạ, cả ngài và tôi, tất cả chúng ta đều có bản chất phải bệnh, không thể vượt qua bệnh tật". "Nếu vậy, này người đánh xe bạn tôi, hôm nay đi đến khu vườn thế là đủ rồi, hãy quay xe trở về cung điện từ đây". "Thưa vâng, tâu điện hạ", tâu bệ hạ, tôi vâng lời thái tử Vipassī và quay xe trở về cung điện từ đó. Tâu bệ hạ, thái tử trở về cung điện, buồn bã, chán nản và suy tư: "Thật đáng khinh thay cái gọi là *sự Tái sinh*, vì đối với người đã sinh ra, sự già nua sẽ xuất hiện, bệnh tật sẽ xuất hiện"'.
 
 <!--pg-->
-## 7. Người chết (Kālaṅkatapurisa)
-
+## 7. Người chết (Kālaṅkatapurisa){#7}
 Này các tỳ-kheo, rồi vua Bandhumā suy nghĩ: 'Đừng để thái tử Vipassī không cai trị vương quốc, đừng để thái tử Vipassī rời bỏ gia đình, *xuất gia* sống đời không nhà, đừng để lời tiên tri của các đạo sĩ Bà-la-môn trở thành sự thật'. Này các tỳ-kheo, rồi vua Bandhumā cung cấp cho thái tử Vipassī nhiều hơn nữa năm *sợi dây trói buộc của bản năng*: 'Để thái tử Vipassī cai trị vương quốc, để thái tử Vipassī không rời bỏ gia đình, *xuất gia* sống đời không nhà, để lời tiên tri của các đạo sĩ Bà-la-môn trở thành sai lệch'. Này các tỳ-kheo, tại đó, thái tử Vipassī được cung cấp, được trang bị và vui chơi với năm *sợi dây trói buộc của bản năng*.
 
 Này các tỳ-kheo, rồi thái tử Vipassī sau nhiều năm ...pe...
@@ -305,8 +298,7 @@ Này các tỳ-kheo, rồi vua Bandhumā cho gọi người đánh xe và hỏi:
 'Này người đánh xe, vậy thái tử đã nhìn thấy gì khi đi đến khu vườn?' 'Tâu bệ hạ, khi đang đi đến khu vườn, thái tử nhìn thấy một đám đông tụ tập và đang làm một chiếc cáng bằng những mảnh vải nhiều màu sắc. Thấy vậy, ngài hỏi tôi: "Này người đánh xe bạn tôi, đám đông tụ tập kia đang làm gì với chiếc cáng bằng những mảnh vải nhiều màu sắc vậy?" "Tâu điện hạ, đó gọi là người chết". "Nếu vậy, này người đánh xe bạn tôi, hãy lái xe đến chỗ người chết đó". "Thưa vâng, tâu điện hạ", tâu bệ hạ, tôi vâng lời thái tử Vipassī và lái xe đến chỗ người chết đó. Tâu bệ hạ, thái tử nhìn thấy thi thể người chết, thấy vậy, ngài hỏi tôi: "Này người đánh xe bạn tôi, thế nào gọi là người chết?" "Tâu điện hạ, đó gọi là người chết. Nay cha mẹ, hay những người thân, họ hàng khác sẽ không còn nhìn thấy ông ta nữa, và ông ta cũng sẽ không còn nhìn thấy cha mẹ, hay những người thân, họ hàng khác nữa". "Này người đánh xe bạn tôi, ta cũng có bản chất phải chết, không thể vượt qua cái chết sao; vua cha, hoàng hậu, hay những người thân, họ hàng khác sẽ không còn nhìn thấy ta nữa; và ta cũng sẽ không còn nhìn thấy vua cha, hoàng hậu, hay những người thân, họ hàng khác nữa sao?" "Tâu điện hạ, cả ngài và tôi, tất cả chúng ta đều có bản chất phải chết, không thể vượt qua cái chết; vua cha, hoàng hậu, hay những người thân, họ hàng khác sẽ không còn nhìn thấy ngài nữa, và ngài cũng sẽ không còn nhìn thấy vua cha, hoàng hậu, hay những người thân, họ hàng khác nữa". "Nếu vậy, này người đánh xe bạn tôi, hôm nay đi đến khu vườn thế là đủ rồi, hãy quay xe trở về cung điện từ đây". "Thưa vâng, tâu điện hạ", tâu bệ hạ, tôi vâng lời thái tử Vipassī và quay xe trở về cung điện từ đó. Tâu bệ hạ, thái tử trở về cung điện, buồn bã, chán nản và suy tư: "Thật đáng khinh thay cái gọi là *sự Tái sinh*, vì đối với người đã sinh ra, sự già nua sẽ xuất hiện, bệnh tật sẽ xuất hiện, cái chết sẽ xuất hiện"'.
 
 <!--pg-->
-## 8. Người xuất gia (Pabbajita)
-
+## 8. Người xuất gia (Pabbajita){#8}
 Này các tỳ-kheo, rồi vua Bandhumā suy nghĩ: 'Đừng để thái tử Vipassī không cai trị vương quốc, đừng để thái tử Vipassī rời bỏ gia đình, *xuất gia* sống đời không nhà, đừng để lời tiên tri của các đạo sĩ Bà-la-môn trở thành sự thật'. Này các tỳ-kheo, rồi vua Bandhumā cung cấp cho thái tử Vipassī nhiều hơn nữa năm *sợi dây trói buộc của bản năng*: 'Để thái tử Vipassī cai trị vương quốc, để thái tử Vipassī không rời bỏ gia đình, *xuất gia* sống đời không nhà, để lời tiên tri của các đạo sĩ Bà-la-môn trở thành sai lệch'. Này các tỳ-kheo, tại đó, thái tử Vipassī được cung cấp, được trang bị và vui chơi với năm *sợi dây trói buộc của bản năng*.
 
 Này các tỳ-kheo, rồi thái tử Vipassī sau nhiều năm, nhiều trăm năm, nhiều ngàn năm trôi qua, đã gọi người đánh xe: 'Này người đánh xe bạn tôi, hãy thắng những cỗ xe tốt nhất, chúng ta sẽ đi đến khu vườn để ngắm cảnh đẹp'. 'Thưa vâng, tâu điện hạ', này các tỳ-kheo, người đánh xe vâng lời thái tử Vipassī, thắng những cỗ xe tốt nhất và báo cho thái tử Vipassī: 'Tâu điện hạ, những cỗ xe tốt nhất đã được thắng xong, nay ngài hãy xem đã đến lúc chưa'. Này các tỳ-kheo, rồi thái tử Vipassī lên một cỗ xe tuyệt đẹp và cùng với những cỗ xe tuyệt đẹp khác đi đến khu vườn.
@@ -334,8 +326,7 @@ Này các tỳ-kheo, rồi thái tử Vipassī hỏi người *xuất gia* đó:
 'Này bạn, thật tốt đẹp thay bạn là người *xuất gia*, thật tốt đẹp thay việc thực hành *Quy luật*, thực hành sự bình lặng, thực hành những việc thiện, thực hành những việc phước đức, không làm hại, có lòng thương xót đối với chúng sinh'.
 
 <!--pg-->
-## 9. Bồ-tát xuất gia (Bodhisattapabbajjā)
-
+## 9. Bồ-tát xuất gia (Bodhisattapabbajjā){#9}
 Này các tỳ-kheo, rồi thái tử Vipassī bảo người đánh xe: 'Nếu vậy, này người đánh xe bạn tôi, hãy mang cỗ xe này quay trở về cung điện từ đây. Còn ta, ngay tại đây, ta sẽ cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình, *xuất gia* sống đời không nhà'.
 
 'Thưa vâng, tâu điện hạ', này các tỳ-kheo, người đánh xe vâng lời thái tử Vipassī, mang cỗ xe quay trở về cung điện từ đó.
@@ -343,8 +334,7 @@ Này các tỳ-kheo, rồi thái tử Vipassī bảo người đánh xe: 'Nếu 
 Còn thái tử Vipassī, ngay tại đó, đã cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình, *xuất gia* sống đời không nhà.
 
 <!--pg-->
-## 10. Đám đông xuất gia theo (Mahājanakāyaanupabbajjā)
-
+## 10. Đám đông xuất gia theo (Mahājanakāyaanupabbajjā){#10}
 Này các tỳ-kheo, một đám đông gồm tám mươi tư ngàn người ở kinh đô Bandhumatī nghe tin: 'Thái tử Vipassī đã cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình, *xuất gia* sống đời không nhà'. Nghe xong, họ suy nghĩ: 'Chắc chắn *Quy luật* và kỷ luật này không phải là tầm thường, sự *xuất gia* này không phải là tầm thường, nơi mà thái tử Vipassī đã cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình, *xuất gia* sống đời không nhà. Ngay cả thái tử Vipassī còn cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình, *xuất gia* sống đời không nhà, huống hồ là chúng ta'.
 
 Này các tỳ-kheo, rồi đám đông tám mươi tư ngàn người đó đã cạo bỏ râu tóc, khoác áo cà-sa, *xuất gia* sống đời không nhà theo sau Bồ-tát Vipassī. Này các tỳ-kheo, được bao quanh bởi hội chúng đó, Bồ-tát Vipassī đi du hành qua các làng mạc, thị trấn, vùng quê và kinh đô.
@@ -352,8 +342,7 @@ Này các tỳ-kheo, rồi đám đông tám mươi tư ngàn người đó đã
 Này các tỳ-kheo, rồi Bồ-tát Vipassī khi đang ở một mình, tĩnh cư, một suy nghĩ như vầy khởi lên trong tâm: 'Thật không thích hợp cho ta khi sống chen chúc như thế này, hay là ta nên sống một mình, tách biệt khỏi đám đông'. Này các tỳ-kheo, rồi Bồ-tát Vipassī sau đó đã sống một mình, tách biệt khỏi đám đông; tám mươi tư ngàn người *xuất gia* kia đi một đường, còn Bồ-tát Vipassī đi một đường khác.
 
 <!--pg-->
-## 11. Sự thấu hiểu của Bồ-tát (Bodhisattaabhinivesa)
-
+## 11. Sự thấu hiểu của Bồ-tát (Bodhisattaabhinivesa){#11}
 Này các tỳ-kheo, rồi Bồ-tát Vipassī khi đã đến nơi ở, đang ở một mình, tĩnh cư, một suy nghĩ như vầy khởi lên trong tâm: 'Thế giới này thật sự đã rơi vào tình trạng khốn khổ: nó sinh ra, già đi, chết đi, mạng chung và tái sinh; nhưng lại không biết cách thoát khỏi sự đau khổ này, thoát khỏi *già-chết* (lão tử / jarāmaraṇa). Đến bao giờ mới tìm ra cách thoát khỏi sự đau khổ này, thoát khỏi *già-chết*?'
 
 Này các tỳ-kheo, rồi Bồ-tát Vipassī suy nghĩ: 'Khi cái gì có mặt thì *già-chết* có mặt, *già-chết* *Phụ thuộc* (duyên / paccaya) vào cái gì?' Này các tỳ-kheo, nhờ *tìm hiểu nguyên nhân gốc rễ* (như lý tác ý / yoniso manasikāra), Bồ-tát Vipassī đã có sự thấu hiểu bằng trí tuệ: 'Khi *sự Tái sinh* (sinh / jāti) có mặt thì *già-chết* có mặt, *Phụ thuộc* vào *sự Tái sinh* mà *già-chết* sinh ra'.
@@ -409,8 +398,7 @@ Này các tỳ-kheo, rồi Bồ-tát Vipassī sau đó đã sống quan sát s�
 (Hết phần tụng thứ hai).
 
 <!--pg-->
-## 12. Phạm thiên thỉnh cầu (Brahmayācanakathā)
-
+## 12. Phạm thiên thỉnh cầu (Brahmayācanakathā){#12}
 Này các tỳ-kheo, rồi Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, suy nghĩ: 'Hay là ta nên giảng dạy *Quy luật*'.
 
 Này các tỳ-kheo, rồi Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, suy nghĩ: '*Quy luật* mà ta đã đạt được này thật sâu sắc, khó thấy, khó hiểu, bình lặng, cao thượng, vượt ngoài phạm vi của lý luận, vi tế, chỉ những người trí mới có thể trải nghiệm. Nhưng quần chúng này lại thích thú sự bám víu, vui mừng trong sự bám víu, hân hoan trong sự bám víu. Đối với quần chúng thích thú sự bám víu, vui mừng trong sự bám víu, hân hoan trong sự bám víu này, thì nguyên lý này thật khó thấy, đó là *sự sinh ra qua quan hệ Phụ thuộc* (duyên khởi / paṭiccasamuppāda). Nguyên lý này cũng thật khó thấy, đó là sự lắng dịu của mọi *hoạt động*, sự từ bỏ mọi nền tảng của tái sinh, sự cạn kiệt của *sự thèm khát*, sự cạn hết đắm nhiễm, sự chấm dứt, Niết-bàn. Nếu ta giảng dạy *Quy luật* mà người khác không hiểu ta, thì đó sẽ là sự mệt mỏi cho ta, đó sẽ là sự phiền phức cho ta'.
@@ -469,8 +457,7 @@ Này các tỳ-kheo, rồi Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng 
 Này các tỳ-kheo, rồi vị Đại Phạm thiên đó nghĩ: 'Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã cho phép ta thỉnh cầu việc giảng dạy *Quy luật*', vị ấy đảnh lễ Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đi vòng quanh ngài theo chiều bên phải, rồi biến mất ngay tại đó.
 
 <!--pg-->
-## 13. Cặp đệ tử hàng đầu (Aggasāvakayuga)
-
+## 13. Cặp đệ tử hàng đầu (Aggasāvakayuga){#13}
 Này các tỳ-kheo, rồi Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, suy nghĩ: 'Ta nên giảng dạy *Quy luật* cho ai đầu tiên? Ai sẽ hiểu *Quy luật* này một cách nhanh chóng?' Này các tỳ-kheo, rồi Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, suy nghĩ: 'Có thái tử Khaṇḍa và con trai vị tư tế Tissa đang sống ở kinh đô Bandhumatī, họ là những người thông minh, sáng suốt, có trí tuệ, từ lâu đã có ít bụi trong mắt. Hay là ta nên giảng dạy *Quy luật* cho thái tử Khaṇḍa và con trai vị tư tế Tissa đầu tiên, họ sẽ hiểu *Quy luật* này một cách nhanh chóng'.
 
 Này các tỳ-kheo, rồi Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, nhanh như một người lực lưỡng duỗi cánh tay đang gập lại, hay gập lại cánh tay đang duỗi ra; cũng vậy—biến mất khỏi gốc cây Bồ-đề và xuất hiện tại khu rừng nai Khema ở kinh đô Bandhumatī.
@@ -489,8 +476,7 @@ Họ đã thấy *Quy luật*, đạt được *Quy luật*, biết được *Qu
 Này các tỳ-kheo, thái tử Khaṇḍa và con trai vị tư tế Tissa đã được *xuất gia* dưới sự hướng dẫn của Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã được thọ giới tỳ-kheo. Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã dùng *bài giảng* để chỉ dẫn, khích lệ, làm cho họ phấn chấn và hoan hỷ; ngài chỉ rõ sự nguy hiểm, sự thấp hèn, sự ô uế của các *hoạt động*, và lợi ích của Niết-bàn. Khi họ được Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, dùng *bài giảng* chỉ dẫn, khích lệ, làm cho phấn chấn và hoan hỷ, không lâu sau, tâm họ được giải thoát khỏi các nguồn ác, không còn *sự bám giữ*.
 
 <!--pg-->
-## 14. Đám đông xuất gia (Mahājanakāyapabbajjā)
-
+## 14. Đám đông xuất gia (Mahājanakāyapabbajjā){#14}
 Này các tỳ-kheo, một đám đông gồm tám mươi tư ngàn người ở kinh đô Bandhumatī nghe tin: 'Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã đến kinh đô Bandhumatī và đang ở tại khu rừng nai Khema. Thái tử Khaṇḍa và con trai vị tư tế Tissa đã cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình, *xuất gia* sống đời không nhà dưới sự hướng dẫn của Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác'. Nghe xong, họ suy nghĩ: 'Chắc chắn *Quy luật* và kỷ luật này không phải là tầm thường, sự *xuất gia* này không phải là tầm thường, nơi mà thái tử Khaṇḍa và con trai vị tư tế Tissa đã cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình, *xuất gia* sống đời không nhà. Ngay cả thái tử Khaṇḍa và con trai vị tư tế Tissa còn cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình, *xuất gia* sống đời không nhà, huống hồ là chúng ta'. Này các tỳ-kheo, rồi đám đông tám mươi tư ngàn người đó đi ra khỏi kinh đô Bandhumatī, hướng về khu rừng nai Khema, đi đến chỗ Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác; sau khi đến, họ đảnh lễ Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, và ngồi xuống một bên.
 
 Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã giảng cho họ một bài giảng tuần tự. Đó là—bài giảng về bố thí, bài giảng về đạo đức, bài giảng về cõi trời, chỉ rõ sự nguy hiểm, sự thấp hèn, sự ô uế của *sợi dây trói buộc của bản năng*, và lợi ích của việc từ bỏ. Khi Thế Tôn biết tâm họ đã sẵn sàng, mềm mỏng, không còn bị che lấp, phấn chấn, trong sáng, ngài liền giảng *bài giảng* đặc thù của chư Phật—đau khổ, *sự hình thành*, sự chấm dứt, con đường. Giống như một tấm vải sạch, không có vết đen, sẽ dễ dàng thấm hút thuốc nhuộm; cũng vậy, ngay tại chỗ ngồi đó, mắt *Quy luật* không bụi, không vết bẩn đã khởi lên cho tám mươi tư ngàn người đó: 'Bất cứ *Quy luật* nào có tính chất *hình thành*, tất cả *Quy luật* đó đều có tính chất chấm dứt'.
@@ -500,8 +486,7 @@ Họ đã thấy *Quy luật*, đạt được *Quy luật*, biết được *Qu
 Này các tỳ-kheo, tám mươi tư ngàn người đó đã được *xuất gia* dưới sự hướng dẫn của Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã được thọ giới tỳ-kheo. Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã dùng *bài giảng* để chỉ dẫn, khích lệ, làm cho họ phấn chấn và hoan hỷ; ngài chỉ rõ sự nguy hiểm, sự thấp hèn, sự ô uế của các *hoạt động*, và lợi ích của Niết-bàn. Khi họ được Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, dùng *bài giảng* chỉ dẫn, khích lệ, làm cho phấn chấn và hoan hỷ, không lâu sau, tâm họ được giải thoát khỏi các nguồn ác, không còn *sự bám giữ*.
 
 <!--pg-->
-## 15. Sự thấu hiểu Quy luật của những người xuất gia trước (Purimapabbajitānaṁ dhammābhisamaya)
-
+## 15. Sự thấu hiểu Quy luật của những người xuất gia trước (Purimapabbajitānaṁ dhammābhisamaya){#15}
 Này các tỳ-kheo, tám mươi tư ngàn người *xuất gia* trước đó nghe tin: 'Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã đến kinh đô Bandhumatī và đang ở tại khu rừng nai Khema, và ngài đang giảng dạy *Quy luật*'. Này các tỳ-kheo, rồi tám mươi tư ngàn người *xuất gia* đó đi về phía kinh đô Bandhumatī, hướng về khu rừng nai Khema, đi đến chỗ Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác; sau khi đến, họ đảnh lễ Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, và ngồi xuống một bên.
 
 Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã giảng cho họ một bài giảng tuần tự. Đó là—bài giảng về bố thí, bài giảng về đạo đức, bài giảng về cõi trời, chỉ rõ sự nguy hiểm, sự thấp hèn, sự ô uế của *sợi dây trói buộc của bản năng*, và lợi ích của việc từ bỏ. Khi Thế Tôn biết tâm họ đã sẵn sàng, mềm mỏng, không còn bị che lấp, phấn chấn, trong sáng, ngài liền giảng *bài giảng* đặc thù của chư Phật—đau khổ, *sự hình thành*, sự chấm dứt, con đường. Giống như một tấm vải sạch, không có vết đen, sẽ dễ dàng thấm hút thuốc nhuộm; cũng vậy, ngay tại chỗ ngồi đó, mắt *Quy luật* không bụi, không vết bẩn đã khởi lên cho tám mươi tư ngàn người *xuất gia* đó: 'Bất cứ *Quy luật* nào có tính chất *hình thành*, tất cả *Quy luật* đó đều có tính chất chấm dứt'.
@@ -511,8 +496,7 @@ Họ đã thấy *Quy luật*, đạt được *Quy luật*, biết được *Qu
 Này các tỳ-kheo, tám mươi tư ngàn người *xuất gia* đó đã được *xuất gia* dưới sự hướng dẫn của Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã được thọ giới tỳ-kheo. Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, đã dùng *bài giảng* để chỉ dẫn, khích lệ, làm cho họ phấn chấn và hoan hỷ; ngài chỉ rõ sự nguy hiểm, sự thấp hèn, sự ô uế của các *hoạt động*, và lợi ích của Niết-bàn. Khi họ được Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, dùng *bài giảng* chỉ dẫn, khích lệ, làm cho phấn chấn và hoan hỷ, không lâu sau, tâm họ được giải thoát khỏi các nguồn ác, không còn *sự bám giữ*.
 
 <!--pg-->
-## 16. Cho phép đi du hành (Cārikāanujānana)
-
+## 16. Cho phép đi du hành (Cārikāanujānana){#16}
 Này các tỳ-kheo, vào thời đó, một đại Tăng đoàn gồm sáu triệu tám trăm ngàn tỳ-kheo đang cư trú tại kinh đô Bandhumatī. Này các tỳ-kheo, rồi Thế Tôn Vipassī, bậc A-la-hán, Chánh Đẳng Giác, khi đang ở một mình, tĩnh cư, một suy nghĩ như vầy khởi lên trong tâm: 'Hiện nay có một đại Tăng đoàn gồm sáu triệu tám trăm ngàn tỳ-kheo đang cư trú tại kinh đô Bandhumatī, hay là ta nên cho phép các tỳ-kheo:
 
 "Này các tỳ-kheo, hãy đi du hành vì lợi ích của số đông, vì hạnh phúc của số đông, vì lòng thương xót đối với thế gian, vì mục đích, lợi ích và hạnh phúc của chư thiên và loài người; đừng đi hai người cùng một hướng; này các tỳ-kheo, hãy giảng dạy *Quy luật* tốt đẹp ở phần đầu, tốt đẹp ở phần giữa, tốt đẹp ở phần cuối, đầy đủ ý nghĩa và văn tự, hãy công bố lối sống thanh tịnh hoàn toàn viên mãn và trong sạch. Có những chúng sinh sinh ra với ít bụi trong mắt, nếu không được nghe *Quy luật*, họ sẽ sa đọa, sẽ có những người hiểu được *Quy luật*. Tuy nhiên, cứ sau mỗi sáu năm, các vị phải trở về kinh đô Bandhumatī để tụng đọc giới bổn (pātimokkha)"'.
@@ -557,8 +541,7 @@ Này các tỳ-kheo, tại đó, Thế Tôn Vipassī, bậc A-la-hán, Chánh Đ
 > Đó là lời dạy của chư Phật'.
 
 <!--pg-->
-## 17. Chư thiên báo tin (Devatārocana)
-
+## 17. Chư thiên báo tin (Devatārocana){#17}
 Này các tỳ-kheo, có một thời ta đang ở Ukkaṭṭhā, trong khu rừng Subhaga, dưới gốc cây vương giả Sāla. Này các tỳ-kheo, khi ta đang ở một mình, tĩnh cư, một suy nghĩ như vầy khởi lên trong tâm: 'Không có cõi chúng sinh nào dễ tìm mà ta chưa từng sống qua trong thời gian dài dằng dặc này, ngoại trừ cõi của chư thiên Tịnh Cư (Suddhāvāsa). Hay là ta nên đi đến chỗ chư thiên Tịnh Cư'.
 
 Này các tỳ-kheo, rồi ta, nhanh như một người lực lưỡng duỗi cánh tay đang gập lại, hay gập lại cánh tay đang duỗi ra; cũng vậy—biến mất khỏi gốc cây vương giả Sāla trong khu rừng Subhaga ở Ukkaṭṭhā và xuất hiện giữa chư thiên cõi Vô Phiền (Aviha).

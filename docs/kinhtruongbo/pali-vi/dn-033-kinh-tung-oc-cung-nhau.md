@@ -28,8 +28,7 @@ Rồi Tôn giả Sāriputta gọi các Tỳ-kheo: "Này các hiền giả, Niga�
 Và này các hiền giả, thế nào là *Quy luật* của Thế Tôn chúng ta được tuyên thuyết khéo léo, được trình bày khéo léo, dẫn đến sự thoát ly, dẫn đến *sự lắng dịu*, được tuyên thuyết bởi một Bậc Giác Ngộ Hoàn Toàn; ở đây, tất cả cần phải *tụng đọc cùng nhau*, không nên *tranh cãi*, để *đời sống thánh thiện* này được kéo dài và tồn tại lâu dài, điều đó sẽ đem lại lợi ích cho số đông, hạnh phúc cho số đông, vì lòng thương tưởng đối với thế gian, vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người?
 
 <!--pg-->
-## 1. Nhóm Một (Ekaka)
-
+## 1. Nhóm Một (Ekaka){#1}
 Này các hiền giả, có một *Điều* (pháp / dhammo) đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau*, không nên *tranh cãi*, để *đời sống thánh thiện* này được kéo dài và tồn tại lâu dài, điều đó sẽ đem lại lợi ích cho số đông, hạnh phúc cho số đông, vì lòng thương tưởng đối với thế gian, vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Một *Điều* đó là gì?
 
 Tất cả chúng sinh được duy trì bởi thức ăn.
@@ -39,8 +38,7 @@ Tất cả chúng sinh được duy trì bởi các điều kiện.
 Này các hiền giả, đây là một *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau*, không nên *tranh cãi*, để *đời sống thánh thiện* này được kéo dài và tồn tại lâu dài, điều đó sẽ đem lại lợi ích cho số đông, hạnh phúc cho số đông, vì lòng thương tưởng đối với thế gian, vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người.
 
 <!--pg-->
-## 2. Nhóm Hai (Duka)
-
+## 2. Nhóm Hai (Duka){#2}
 Này các hiền giả, có hai *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau*, không nên *tranh cãi*, để *đời sống thánh thiện* này được kéo dài và tồn tại lâu dài, điều đó sẽ đem lại lợi ích cho số đông, hạnh phúc cho số đông, vì lòng thương tưởng đối với thế gian, vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Hai *Điều* đó là gì?
 
 *Danh–sắc* (nāmañca rūpañca).
@@ -112,8 +110,7 @@ Sự hiểu biết về sự cạn kiệt và sự hiểu biết về sự khôn
 Này các hiền giả, đây là hai *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau*, không nên *tranh cãi*, để *đời sống thánh thiện* này được kéo dài và tồn tại lâu dài, điều đó sẽ đem lại lợi ích cho số đông, hạnh phúc cho số đông, vì lòng thương tưởng đối với thế gian, vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người.
 
 <!--pg-->
-## 3. Nhóm Ba (Tika)
-
+## 3. Nhóm Ba (Tika){#3}
 Này các hiền giả, có ba *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau* [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Ba *Điều* đó là gì?
 
 Ba *gốc rễ không thiện* (bất thiện căn / akusalamūlāni) — *ám ảnh dễ chịu* (tham / lobho) là *gốc rễ không thiện*, *ám ảnh khó chịu* (sân / doso) là *gốc rễ không thiện*, *Sự u mê* (si / moho) là *gốc rễ không thiện*.
@@ -240,8 +237,7 @@ Này các hiền giả, đây là ba *Điều* đã được tuyên thuyết ch�
 
 
 <!--pg-->
-## 4. Nhóm Bốn (Catukka)
-
+## 4. Nhóm Bốn (Catukka){#4}
 Này các hiền giả, có bốn *Điều* (pháp / dhammā) đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau* (kết tập / saṅgāyitabbaṁ), không nên *tranh cãi* (tranh luận / vivaditabbaṁ) [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Bốn *Điều* đó là gì?
 
 *Thiết lập chú tâm ở bốn nơi* (tứ niệm xứ / satipaṭṭhānā). Này các hiền giả, ở đây, Tỳ-kheo *quan sát cơ thể qua cơ thể của mình* (quán thân trên thân / kāye kāyānupassī), nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno),  *chú tâm* (chánh niệm / satimā), loại bỏ *lòng tham* (ái dục / abhijjhā) và *ưu phiền* (ưu / domanassa) ở đời. Vị ấy *quan sát cảm giác qua cảm giác của mình* (quán thọ trên thọ / vedanāsu vedanānupassī) [...lặp lại...] *quan sát tâm qua tâm của mình* (quán tâm trên tâm / citte cittānupassī) [...lặp lại...] *quan sát Điều dạy qua các Điều* (quán pháp trên pháp / dhammesu dhammānupassī), nhiệt tâm, *nhận biết rõ ràng*, *chú tâm*, loại bỏ *lòng tham* và *ưu phiền* ở đời.
@@ -389,8 +385,7 @@ Kết thúc phần tụng đọc thứ nhất.
 
 
 <!--pg-->
-## 5. Nhóm Năm (Pañcaka)
-
+## 5. Nhóm Năm (Pañcaka){#5}
 Này các hiền giả, có năm *Điều* (pháp / dhammā) đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau* (kết tập / saṅgāyitabbaṁ) [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Năm *Điều* đó là gì?
 
 <!--pg-->
@@ -468,8 +463,7 @@ Này các hiền giả, đây là năm *Điều* đã được tuyên thuyết c
 
 
 <!--pg-->
-## 6. Nhóm Sáu (Chakka)
-
+## 6. Nhóm Sáu (Chakka){#6}
 Này các hiền giả, có sáu *Điều* (pháp / dhammā) đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn; ở đây, tất cả cần phải *tụng đọc cùng nhau* (kết tập / saṅgāyitabbaṁ) [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Sáu *Điều* đó là gì?
 
 Sáu *trường* (xứ / āyatanāni) bên trong — *trường* mắt, *trường* tai, *trường* mũi, *trường* lưỡi, *trường* thân, *trường* *giác quan trí não* (ý / manāyatanaṁ).
@@ -548,8 +542,7 @@ Sáu *nhận thức* thuộc phần xuyên thấu (nibbedhabhāgiyā saññā) �
 Này các hiền giả, đây là sáu *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn; ở đây, tất cả cần phải *tụng đọc cùng nhau* [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người.
 
 <!--pg-->
-## 7. Nhóm Bảy (Sattaka)
-
+## 7. Nhóm Bảy (Sattaka){#7}
 Này các hiền giả, có bảy *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn; ở đây, tất cả cần phải *tụng đọc cùng nhau* [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Bảy *Điều* đó là gì?
 
 Bảy tài sản của bậc thánh (ariyadhanāni) — tài sản niềm tin, tài sản đạo đức, tài sản biết xấu hổ, tài sản biết sợ lỗi, tài sản nghe học, tài sản *cho đi*, tài sản sự hiểu biết.
@@ -600,8 +593,7 @@ Này các hiền giả, đây là bảy *Điều* đã được tuyên thuyết 
 Kết thúc phần tụng đọc thứ hai.
 
 <!--pg-->
-## 8. Nhóm Tám (Aṭṭhaka)
-
+## 8. Nhóm Tám (Aṭṭhaka){#8}
 Này các hiền giả, có tám *Điều* (pháp / dhammā) đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn; ở đây, tất cả cần phải *tụng đọc cùng nhau* (kết tập / saṅgāyitabbaṁ) [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Tám *Điều* đó là gì?
 
 <!--pg-->
@@ -699,8 +691,7 @@ Do hoàn toàn vượt qua *xứ Không Phải "Có Nhận Thức"; Cũng Không
 Này các hiền giả, đây là tám *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn; ở đây, tất cả cần phải *tụng đọc cùng nhau* [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người.
 
 <!--pg-->
-## 9. Nhóm Chín (Navaka)
-
+## 9. Nhóm Chín (Navaka){#9}
 Này các hiền giả, có chín *Điều* đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn; ở đây, tất cả cần phải *tụng đọc cùng nhau* [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Chín *Điều* đó là gì?
 
 <!--pg-->
@@ -756,8 +747,7 @@ Này các hiền giả, đây là chín *Điều* đã được tuyên thuyết 
 
 
 <!--pg-->
-## 10. Nhóm Mười (Dasaka)
-
+## 10. Nhóm Mười (Dasaka){#10}
 Này các hiền giả, có mười *Điều* (pháp / dhammā) đã được tuyên thuyết chân chính bởi Thế Tôn, Bậc Biết, Bậc Thấy, Bậc Xứng Đáng, Bậc Giác Ngộ Hoàn Toàn. Ở đây, tất cả cần phải *tụng đọc cùng nhau* (kết tập / saṅgāyitabbaṁ) [...lặp lại...] vì mục đích, lợi ích và hạnh phúc cho chư thiên và loài người. Mười *Điều* đó là gì?
 
 <!--pg-->

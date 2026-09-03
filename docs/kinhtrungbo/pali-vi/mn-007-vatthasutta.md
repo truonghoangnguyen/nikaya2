@@ -1,4 +1,4 @@
-# Kinh Tấm Vải
+# MN 7. KINH VÍ DỤ TẤM VẢI
 *(Vatthasutta)*
 
 Tôi nghe như vầy: Một thời, Thế Tôn trú ở Sāvatthī, tại rừng Jeta, trong khu vườn của Anāthapiṇḍika. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo."

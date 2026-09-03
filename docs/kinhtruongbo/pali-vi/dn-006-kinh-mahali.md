@@ -3,8 +3,7 @@
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-006){target="_blank" class="note-link" }
 
 
-## 1. Câu chuyện về các sứ giả Bà-la-môn (Brāhmaṇadūtavatthu)
-
+## 1. Câu chuyện về các sứ giả Bà-la-môn (Brāhmaṇadūtavatthu){#1}
 Như vầy tôi nghe — một thời Thế Tôn trú tại Vesāli, trong Đại Lâm, tại Trùng Các Giảng Đường. Lúc bấy giờ, có nhiều sứ giả Bà-la-môn từ Kosala và sứ giả Bà-la-môn từ Magadha đang lưu trú tại Vesāli vì một vài công việc. Các sứ giả Bà-la-môn từ Kosala và Magadha nghe tin:
 
 "Này các bạn, sa-môn Gotama, con trai dòng Sakya, xuất gia từ gia tộc Sakya, hiện đang trú tại Vesāli, trong Đại Lâm, tại Trùng Các Giảng Đường. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, đầy đủ minh và hạnh, bậc Thiện Thệ, người hiểu biết thế gian, bậc Vô thượng Điều ngự trượng phu, bậc Thầy của chư thiên và loài người, bậc Giác Ngộ, Thế Tôn'. Ngài đã tự mình *hiểu biết trực tiếp* (thắng tri / abhiññā) và chứng ngộ thế giới này cùng với chư thiên, ma vương, phạm thiên, cùng với quần chúng sa-môn, bà-la-môn, chư thiên và loài người, rồi tuyên thuyết điều đó. Ngài giảng dạy giáo pháp toàn hảo ở đoạn đầu, toàn hảo ở đoạn giữa, toàn hảo ở đoạn cuối, đầy đủ ý nghĩa và văn tự; Ngài làm sáng tỏ *lối sống thanh tịnh* (phạm hạnh / brahmacariya) hoàn toàn viên mãn và trong sạch. Thật tốt đẹp thay nếu được chiêm ngưỡng một bậc A-la-hán như vậy."
@@ -18,8 +17,7 @@ Lúc bấy giờ, tôn giả Nāgita đang là thị giả của Thế Tôn. Cá
 Thế rồi, các sứ giả Bà-la-môn từ Kosala và Magadha ngồi xuống ngay tại một bên, nghĩ rằng: "Chúng ta sẽ chỉ rời đi sau khi đã chiêm ngưỡng tôn giả Gotama."
 
 <!--pg-->
-## 2. Câu chuyện về Oṭṭhaddha người Licchavi (Oṭṭhaddhalicchavīvatthu)
-
+## 2. Câu chuyện về Oṭṭhaddha người Licchavi (Oṭṭhaddhalicchavīvatthu){#2}
 Oṭṭhaddha người Licchavi cùng với một hội chúng Licchavi lớn cũng đi đến Đại Lâm, Trùng Các Giảng Đường, đến chỗ tôn giả Nāgita; sau khi đến, ông đảnh lễ tôn giả Nāgita rồi đứng một bên. Đứng một bên, Oṭṭhaddha người Licchavi nói với tôn giả Nāgita: "Thưa tôn giả Nāgita, hiện nay Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác đang trú ở đâu? Chúng tôi muốn được chiêm ngưỡng Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác."
 
 "Này Mahāli, nay không phải lúc để yết kiến Thế Tôn, Thế Tôn đang *sống tĩnh cư*."
@@ -41,8 +39,7 @@ Sau đó, Thế Tôn bước ra khỏi tịnh xá và ngồi trên chỗ đã đ
 Oṭṭhaddha người Licchavi cùng với hội chúng Licchavi lớn cũng đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Oṭṭhaddha người Licchavi bạch Thế Tôn: "Bạch Thế Tôn, vài ngày trước đây, Sunakkhatta con trai dòng Licchavi đã đến chỗ con; sau khi đến, anh ta nói với con thế này: 'Này Mahāli, từ khi tôi sống nương tựa vào Thế Tôn, chưa đầy ba năm, tôi đã nhìn thấy những *hình ảnh* (sắc / rūpa) cõi trời, dễ thương, liên quan đến *sự dễ chịu giác quan* (dục / kāma), *gây say đắm* (khả nhiễm / rajanīya), nhưng tôi không nghe được những âm thanh cõi trời, dễ thương, liên quan đến *sự dễ chịu giác quan*, *gây say đắm*.' Bạch Thế Tôn, những âm thanh cõi trời, dễ thương, liên quan đến *sự dễ chịu giác quan*, *gây say đắm* mà Sunakkhatta con trai dòng Licchavi không nghe được ấy là có thật hay không có thật?"
 
 <!--pg-->
-### 2.1. Định phát triển một phía (Ekaṁsabhāvitasamādhi)
-
+### 2.1. Định phát triển một phía (Ekaṁsabhāvitasamādhi){#2.1}
 "Này Mahāli, những âm thanh cõi trời, dễ thương, liên quan đến *sự dễ chịu giác quan*, *gây say đắm* mà Sunakkhatta con trai dòng Licchavi không nghe được ấy là có thật, không phải là không có thật."
 
 "Bạch Thế Tôn, đâu là nguyên nhân, đâu là điều kiện khiến Sunakkhatta con trai dòng Licchavi không nghe được những âm thanh cõi trời... dù chúng là có thật, không phải là không có thật?"
@@ -64,8 +61,7 @@ Lại nữa, này Mahāli, vị tỳ kheo đối với phương Nam... phương 
 "Này Mahāli, các tỳ kheo sống *lối sống thanh tịnh* dưới sự hướng dẫn của Ta không phải vì mục đích chứng ngộ các trạng thái *Định* này. Này Mahāli, có những pháp khác cao thượng hơn và thù thắng hơn, mà vì mục đích chứng ngộ chúng, các tỳ kheo sống *lối sống thanh tịnh* dưới sự hướng dẫn của Ta."
 
 <!--pg-->
-### 2.2. Bốn quả sa-môn (Catuariyaphala)
-
+### 2.2. Bốn quả sa-môn (Catuariyaphala){#2.2}
 "Bạch Thế Tôn, những pháp cao thượng hơn và thù thắng hơn ấy là gì, mà vì mục đích chứng ngộ chúng, các tỳ kheo sống *lối sống thanh tịnh* dưới sự hướng dẫn của Thế Tôn?"
 
 "Ở đây, này Mahāli, vị tỳ kheo do diệt tận ba *Xiềng Xích* (kiết sử / saṁyojana) nên trở thành bậc *Nhập lưu* (sotāpanna), không còn bị rơi vào các cõi ác, chắc chắn hướng đến giác ngộ. Này Mahāli, đây là pháp cao thượng hơn và thù thắng hơn, mà vì mục đích chứng ngộ nó, các tỳ kheo sống *lối sống thanh tịnh* dưới sự hướng dẫn của Ta.
@@ -79,8 +75,7 @@ Lại nữa, này Mahāli, vị tỳ kheo do *cạn sạch* (đoạn tận / kha
 Này Mahāli, đây là những pháp cao thượng hơn và thù thắng hơn, mà vì mục đích chứng ngộ chúng, các tỳ kheo sống *lối sống thanh tịnh* dưới sự hướng dẫn của Ta."
 
 <!--pg-->
-### 2.3. Tám Bước Thiện (Ariyaaṭṭhaṅgikamagga)
-
+### 2.3. Tám Bước Thiện (Ariyaaṭṭhaṅgikamagga){#2.3}
 "Bạch Thế Tôn, có con đường nào, có phương pháp thực hành nào để chứng ngộ những pháp này không?"
 
 "Này Mahāli, có con đường, có phương pháp thực hành để chứng ngộ những pháp này."
@@ -90,8 +85,7 @@ Này Mahāli, đây là những pháp cao thượng hơn và thù thắng hơn, 
 "Đó chính là *Tám Bước Thiện* (Bát Thánh Đạo / Ariya Aṭṭhaṅgika Magga). Cụ thể là — *Thấy Thiện* (Chánh kiến / sammādiṭṭhi), *Suy Nghĩ Thiện* (Chánh tư duy / sammāsaṅkappa), *Lời Nói Thiện* (Chánh ngữ / sammāvācā), *Hành Động Thiện* (Chánh nghiệp / sammākammanta), *Đời Sống Thiện* (Chánh mạng / sammāājīva), *Nỗ lực Thiện* (Chánh tinh tấn / sammāvāyāma), *Tự Quan Sát Thiện* (Chánh niệm / sammāsati), *Định thiện* (Chánh định / sammāsamādhi). Này Mahāli, đây là con đường, đây là phương pháp thực hành để chứng ngộ những pháp này.
 
 <!--pg-->
-### 2.4. Câu chuyện về hai người xuất gia (Dvepabbajitavatthu)
-
+### 2.4. Câu chuyện về hai người xuất gia (Dvepabbajitavatthu){#2.4}
 Này Mahāli, có một thời Ta đang trú tại Kosambī, trong tu viện Ghosita. Lúc bấy giờ, có hai người xuất gia ngoại đạo — du sĩ Muṇḍiya và Jāliya, học trò của Dārupattika — đi đến chỗ Ta. Sau khi đến, họ chào hỏi Ta. Sau những lời chào hỏi thân hữu và thăm hỏi, họ đứng một bên. Đứng một bên, hai người xuất gia ấy nói với Ta: 'Thưa tôn giả Gotama, *sinh mạng* (mạng / jīva) chính là *cơ thể* (thân / sarīra), hay *sinh mạng* là khác, *cơ thể* là khác?'
 
 'Vậy thì này các hiền giả, hãy lắng nghe và suy nghĩ kỹ, Ta sẽ giảng.'

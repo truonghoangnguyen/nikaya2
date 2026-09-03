@@ -14,8 +14,7 @@ Lần thứ hai, con trai gia chủ Kevaṭṭa thưa với Thế Tôn điều n
 Lần thứ ba, con trai gia chủ Kevaṭṭa thưa với Thế Tôn điều này: "Bạch Thế Tôn, con không có ý ép buộc Thế Tôn; nhưng con xin nói thế này: 'Bạch Thế Tôn, Nāḷandā này phồn vinh và trù phú, đông đúc dân cư, những người có niềm tin sâu sắc vào Thế Tôn. Tốt thay, bạch Thế Tôn, nếu Thế Tôn chỉ định một tỳ kheo, người sẽ thực hiện một phép lạ biến hóa thuộc về *khả năng vượt quá người thường*. Nhờ vậy, Nāḷandā này sẽ càng có niềm tin sâu sắc hơn nữa vào Thế Tôn'."
 
 <!--pg-->
-## 1. Phép lạ siêu nhiên (Iddhipāṭihāriya)
-
+## 1. Phép lạ siêu nhiên (Iddhipāṭihāriya){#1}
 "Này Kevaṭṭa, có ba loại *phép lạ* (phép lạ / pāṭihāriya) này đã được Ta tự mình *hiểu biết trực tiếp* (thắng trí / abhiññā) và *tự mình chứng nghiệm* (chứng ngộ / sacchikatvā) rồi tuyên bố. Ba loại đó là gì? phép lạ biến hóa, *phép lạ đọc tâm người* (tha tâm thông / ādesanāpāṭihāriya), và *phép lạ giáo dục* (giáo hóa thần thông / anusāsanīpāṭihāriya).
 
 Và này Kevaṭṭa, thế nào là phép lạ biến hóa? Ở đây, này Kevaṭṭa, một tỳ kheo trải nghiệm nhiều loại phép lạ khác nhau—từ một người biến thành nhiều người, từ nhiều người biến thành một người; hiện hình, tàng hình; đi xuyên qua tường, xuyên qua rào, xuyên qua núi mà không bị mắc kẹt như thể đi trong không gian; lặn xuống và trồi lên từ đất như thể ở trong nước; đi trên nước mà không chìm như thể trên đất; ngồi kiết già bay trong không gian như một con chim có cánh; chạm và vuốt ve mặt trăng và mặt trời bằng tay, những thứ có sức mạnh và uy lực lớn lao như vậy; người ấy kiểm soát cơ thể mình cho đến tận cõi Phạm thiên.
@@ -33,8 +32,7 @@ Này Kevaṭṭa, ông nghĩ thế nào, liệu người không có niềm tin, 
 "Này Kevaṭṭa, chính vì nhìn thấy *sự nguy hiểm* (nguy hiểm / ādīnava) trong phép lạ biến hóa này mà Ta lo âu, xấu hổ và ghê tởm phép lạ biến hóa.
 
 <!--pg-->
-## 2. Phép lạ đọc tâm người (Ādesanāpāṭihāriya)
-
+## 2. Phép lạ đọc tâm người (Ādesanāpāṭihāriya){#2}
 Và này Kevaṭṭa, thế nào là *phép lạ đọc tâm người*? Ở đây, này Kevaṭṭa, một tỳ kheo chỉ ra được tâm, chỉ ra được trạng thái tâm, chỉ ra được *sự chủ động hướng sự chú ý* (tầm / vitakkita), chỉ ra được *sự nỗ lực duy trì sự chú ý* (tứ / vicārita) của những chúng sinh khác, của những người khác: 'Tâm trí của bạn là thế này, tâm trí của bạn là thế kia, tâm của bạn là như vậy.'
 
 Một người có niềm tin, không nghi nghờ nhìn thấy tỳ kheo ấy chỉ ra được tâm, chỉ ra được trạng thái tâm, chỉ ra được *sự chủ động hướng sự chú ý*, chỉ ra được *sự nỗ lực duy trì sự chú ý* của những chúng sinh khác, của những người khác: 'Tâm trí của bạn là thế này, tâm trí của bạn là thế kia, tâm của bạn là như vậy.' Người có niềm tin, không nghi nghờ ấy kể lại cho một người không có niềm tin, nhiều nghi nghờ: 'Thật kỳ diệu thay, thưa ngài, thật phi thường thay, thưa ngài, sức mạnh lớn lao và uy lực lớn lao của vị sa-môn. Tôi đã thấy tỳ kheo ấy chỉ ra được tâm, chỉ ra được trạng thái tâm, chỉ ra được *sự chủ động hướng sự chú ý*, chỉ ra được *sự nỗ lực duy trì sự chú ý* của những chúng sinh khác, của những người khác: "Tâm trí của bạn là thế này, tâm trí của bạn là thế kia, tâm của bạn là như vậy".'
@@ -48,8 +46,7 @@ Này Kevaṭṭa, ông nghĩ thế nào, liệu người không có niềm tin, 
 "Này Kevaṭṭa, chính vì nhìn thấy *sự nguy hiểm* trong *phép lạ đọc tâm người* này mà Ta lo âu, xấu hổ và ghê tởm *phép lạ đọc tâm người*.
 
 <!--pg-->
-## 3. Phép lạ giáo dục (Anusāsanīpāṭihāriya)
-
+## 3. Phép lạ giáo dục (Anusāsanīpāṭihāriya){#3}
 Và này Kevaṭṭa, thế nào là *phép lạ giáo dục*? Ở đây, này Kevaṭṭa, một tỳ kheo giảng dạy như sau: 'Hãy *chủ động hướng sự chú ý* như thế này, đừng *chủ động hướng sự chú ý* như thế kia; hãy *suy nghĩ* (tác ý / manasikarotha) như thế này, đừng *suy nghĩ* như thế kia; hãy *từ bỏ* (đoạn trừ / pajahatha) điều này, hãy đạt được và duy trì điều này.' Này Kevaṭṭa, đây được gọi là *phép lạ giáo dục*.
 
 Lại nữa, này Kevaṭṭa, ở đây *Người Đến Như Vậy* (Như Lai / tathāgato) xuất hiện ở đời, là bậc A-la-hán, Chánh Đẳng Giác... Như vậy, này Kevaṭṭa, tỳ kheo có *lối sống đạo đức* (giới đức / sīlasampanno)... đạt được và duy trì *Thiền-na* (Thiền / jhāna) thứ nhất. Này Kevaṭṭa, điều này cũng được gọi là *phép lạ giáo dục*...
@@ -63,8 +60,7 @@ Lại nữa, này Kevaṭṭa, ở đây *Người Đến Như Vậy* (Như Lai 
 Này Kevaṭṭa, đây là ba loại *phép lạ* đã được Ta tự mình *hiểu biết trực tiếp* và *tự mình chứng nghiệm* rồi tuyên bố.
 
 <!--pg-->
-## 4. Câu chuyện về vị tỳ kheo tìm kiếm sự chấm dứt của các nguyên tố (Bhūtanirodhesakabhikkhuvatthu)
-
+## 4. Câu chuyện về vị tỳ kheo tìm kiếm sự chấm dứt của các nguyên tố (Bhūtanirodhesakabhikkhuvatthu){#4}
 Thuở xưa, này Kevaṭṭa, trong chính hội chúng tỳ kheo này, một suy nghĩ như sau khởi lên trong tâm của một tỳ kheo: 'Bốn *nguyên tố* (đại / mahābhūtā) này *chấm dứt* (diệt / nirujjhanti) không còn dư tàn ở đâu, cụ thể là—nguyên tố Đất, nguyên tố Nước, nguyên tố Lửa, nguyên tố Gió?'
 
 Rồi này Kevaṭṭa, tỳ kheo ấy nhập vào một trạng thái Định mà khi tâm được định tĩnh như vậy, con đường đi đến các chư thiên hiện ra. Rồi này Kevaṭṭa, tỳ kheo ấy đi đến chỗ các chư thiên cõi Tứ Thiên Vương; sau khi đến, người ấy nói với các chư thiên cõi Tứ Thiên Vương điều này: 'Này các hiền giả, bốn *nguyên tố* này *chấm dứt* không còn dư tàn ở đâu, cụ thể là—nguyên tố Đất, nguyên tố Nước, nguyên tố Lửa, nguyên tố Gió?'
@@ -88,8 +84,7 @@ Rồi này Kevaṭṭa, Đại Phạm thiên ấy nắm lấy cánh tay của t�
 Rồi này Kevaṭṭa, tỳ kheo ấy—giống như một người lực lưỡng duỗi ra cánh tay đang co lại, hay co lại cánh tay đang duỗi ra; cũng y như vậy, biến mất từ cõi Phạm thiên và hiện ra ngay trước mặt Ta. Rồi này Kevaṭṭa, tỳ kheo ấy đảnh lễ Ta rồi ngồi xuống một bên. Ngồi xuống một bên, này Kevaṭṭa, tỳ kheo ấy thưa với Ta điều này: 'Bạch Thế Tôn, bốn *nguyên tố* này *chấm dứt* không còn dư tàn ở đâu, cụ thể là—nguyên tố Đất, nguyên tố Nước, nguyên tố Lửa, nguyên tố Gió?'
 
 <!--pg-->
-### 4.1. Ví dụ về con chim tìm bờ (Tīradassisakuṇupamā)
-
+### 4.1. Ví dụ về con chim tìm bờ (Tīradassisakuṇupamā){#4.1}
 Được nói vậy, này Kevaṭṭa, Ta bảo tỳ kheo ấy điều này—
 
 'Thuở xưa, này tỳ kheo, những thương nhân đi biển mang theo một con chim biết tìm bờ và lên thuyền đi ra đại dương. Khi con thuyền không còn nhìn thấy bờ, họ thả con chim biết tìm bờ ra. Nó bay về hướng đông, bay về hướng nam, bay về hướng tây, bay về hướng bắc, bay lên trên, bay về các hướng phụ. Nếu nó nhìn thấy bờ ở xung quanh, nó sẽ bay đến đó. Nhưng nếu nó không nhìn thấy bờ ở xung quanh, nó sẽ quay trở lại chính con thuyền đó.

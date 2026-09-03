@@ -23,8 +23,7 @@ Rồi Sakka, vua của chư thiên, gọi nhạc thần Pañcasikha: "Này bạn
 "Thưa vâng, thưa tôn giả," nhạc thần Pañcasikha đáp lời Sakka, vua của chư thiên, cầm lấy cây đàn tỳ bà màu vàng Beluva, đi đến hang Indasāla; sau khi đến gần, ngài nghĩ: "Đứng ở khoảng cách này, Thế Tôn sẽ không quá xa cũng không quá gần ta, và ngài sẽ nghe được âm thanh của ta" — rồi ngài đứng sang một bên.
 
 <!--pg-->
-## 1. Bài hát của Pañcasikha (Pañcasikhagītagāthā)
-
+## 1. Bài hát của Pañcasikha (Pañcasikhagītagāthā){#1}
 Đứng sang một bên, nhạc thần Pañcasikha gảy cây đàn tỳ bà màu vàng Beluva, và hát những vần thơ liên quan đến Phật, liên quan đến Pháp, liên quan đến Tăng, liên quan đến bậc A-la-hán, và liên quan đến tình yêu:
 
 > "Hỡi nàng Bhaddā Sūriyavacchasā, ta xin đảnh lễ cha nàng là Timbaru;\
@@ -84,8 +83,7 @@ Khi được nói như vậy, Thế Tôn nói với nhạc thần Pañcasikha: "
 Bạch Thế Tôn, khi được nói như vậy, Bhaddā Sūriyavacchasā đã nói với con thế này: 'Thưa ngài, tôi chưa từng được trực tiếp nhìn thấy Thế Tôn, nhưng tôi đã nghe về Thế Tôn khi tôi đang múa tại hội trường Sudhammā của chư thiên cõi Tāvatiṁsa. Vì ngài đã ca ngợi Thế Tôn, nên hôm nay chúng ta hãy gặp gỡ nhau.' Bạch Thế Tôn, đó là cuộc gặp gỡ duy nhất của con với cô gái ấy. Và từ đó đến nay không có thêm lần nào nữa."
 
 <!--pg-->
-## 2. Sakka đến gần (Sakkūpasaṅkama)
-
+## 2. Sakka đến gần (Sakkūpasaṅkama){#2}
 Rồi Sakka, vua của chư thiên, suy nghĩ: "Nhạc thần Pañcasikha đang trò chuyện thân thiện với Thế Tôn, và Thế Tôn cũng đang trò chuyện với Pañcasikha."
 
 Rồi Sakka, vua của chư thiên, gọi nhạc thần Pañcasikha: "Này bạn Pañcasikha, hãy thay ta chào Thế Tôn: 'Bạch Thế Tôn, Sakka, vua của chư thiên, cùng với các đại thần và tùy tùng, xin cúi đầu đảnh lễ dưới chân Thế Tôn'."
@@ -113,8 +111,7 @@ Bạch Thế Tôn, khi được nói như vậy, Bhūjatī đã nói với con: 
 "Bạch Thế Tôn, những chư thiên nào sinh vào cõi Tāvatiṁsa trước chúng con, con đã từng nghe trực tiếp từ họ, đã từng ghi nhận trực tiếp từ họ rằng: 'Khi các bậc Như Lai, bậc A-la-hán, Chánh Đẳng Giác xuất hiện ở đời, thì các cõi chư thiên được lấp đầy, và các cõi a-tu-la bị suy giảm'. Bạch Thế Tôn, con đã tận mắt chứng kiến điều này: từ khi Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác xuất hiện ở đời, các cõi chư thiên được lấp đầy, và các cõi a-tu-la bị suy giảm.
 
 <!--pg-->
-### 2.1. Câu chuyện của Gopaka (Gopakavatthu)
-
+### 2.1. Câu chuyện của Gopaka (Gopakavatthu){#2.1}
 Bạch Thế Tôn, ngay tại Kapilavatthu (Ca-tỳ-la-vệ) này, có một người con gái dòng Thích-ca tên là Gopikā, có niềm tin vào Phật, có niềm tin vào Pháp, có niềm tin vào Tăng, và thực hành trọn vẹn các giới luật. Cô ấy đã từ bỏ tâm tính nữ, tu tập tâm tính nam, sau khi cơ thể tan rã, sau khi chết, cô ấy được tái sinh vào cõi lành, cõi trời. Cô ấy đã sinh vào cõi Tāvatiṁsa, trở thành con trai của chúng con. Ở đó, họ biết đến vị ấy như thế này: 'Thiên tử Gopaka, thiên tử Gopaka'.
 
 Bạch Thế Tôn, lại có ba vị tỳ kheo khác, sau khi sống *đời sống phạm hạnh* (brahmacariya) dưới sự hướng dẫn của Thế Tôn, lại tái sinh vào cõi thấp kém của càn-thát-bà. Họ được cung cấp và tận hưởng năm *sợi dây trói buộc của bản năng* (ngũ dục / kāmaguṇa), và họ đến phục vụ chúng con, làm người hầu hạ chúng con.
@@ -259,8 +256,7 @@ Sau khi hoan hỷ, vui mừng đón nhận lời Thế Tôn, Sakka, vua của ch
 "Thưa ngài, một vị tỳ kheo thực hành như thế nào để đi trên con đường dẫn đến sự *chấm dứt* (diệt / nirodha) *sự phóng đại của nhận thức và khái niệm*?"
 
 <!--pg-->
-### 2.2. Đề mục thiền về Cảm giác (Vedanākammaṭṭhāna)
-
+### 2.2. Đề mục thiền về Cảm giác (Vedanākammaṭṭhāna){#2.2}
 "Này Thiên chủ, ta nói *thanh thản* (hỷ / somanassa) có hai loại — loại nên theo đuổi và loại không nên theo đuổi. Này Thiên chủ, ta nói *ưu phiền* (ưu / domanassa) có hai loại — loại nên theo đuổi và loại không nên theo đuổi. Này Thiên chủ, ta nói *tâm quân bình* (xả / upekkhā) có hai loại — loại nên theo đuổi và loại không nên theo đuổi.
 
 Này Thiên chủ, ta nói *thanh thản* có hai loại: loại nên theo đuổi và loại không nên theo đuổi. Điều này đã được nói đến, nhưng *dựa vào* (duyên / paṭicca) đâu mà điều này được nói đến? Ở đây, nếu người ta biết rõ về một loại *thanh thản*: 'Khi ta theo đuổi loại *thanh thản* này, *những điều không thiện* (pháp bất thiện / akusalā dhammā) tăng trưởng, *những điều thiện* (pháp thiện / kusalā dhammā) suy giảm', thì loại *thanh thản* như vậy không nên theo đuổi. Ở đây, nếu người ta biết rõ về một loại *thanh thản*: 'Khi ta theo đuổi loại *thanh thản* này, *những điều không thiện* suy giảm, *những điều thiện* tăng trưởng', thì loại *thanh thản* như vậy nên theo đuổi. Trong đó, loại nào *có chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (có tầm có tứ / savitakkaṁ savicāraṁ), và loại nào *không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (không tầm không tứ / avitakkaṁ avicāraṁ), thì loại *không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* là thù thắng hơn. Này Thiên chủ, ta nói *thanh thản* có hai loại: loại nên theo đuổi và loại không nên theo đuổi. Điều đã được nói đến, chính là *dựa vào* điều này mà được nói đến.
@@ -274,8 +270,7 @@ Này Thiên chủ, một vị tỳ kheo thực hành như vậy là đang đi tr
 Thế Tôn đã trả lời câu hỏi của Sakka, vua của chư thiên như vậy. Sakka, vua của chư thiên, hoan hỷ, vui mừng đón nhận lời Thế Tôn: "Đúng là như vậy, bạch Thế Tôn; đúng là như vậy, bạch Thiện Thệ. Sau khi nghe Thế Tôn trả lời câu hỏi, con đã vượt qua sự nghi ngờ, đã xua tan sự phân vân."
 
 <!--pg-->
-### 2.3. Sự bảo vệ bởi giới luật (Pātimokkhasaṁvara)
-
+### 2.3. Sự bảo vệ bởi giới luật (Pātimokkhasaṁvara){#2.3}
 Sau khi hoan hỷ, vui mừng đón nhận lời Thế Tôn, Sakka, vua của chư thiên, hỏi Thế Tôn câu hỏi tiếp theo:
 
 "Thưa ngài, một vị tỳ kheo thực hành như thế nào để đạt được *sự bảo vệ bởi giới luật* (*pātimokkhasaṁvara*)?"
@@ -293,8 +288,7 @@ Này Thiên chủ, một vị tỳ kheo thực hành như vậy là đạt đư�
 Thế Tôn đã trả lời câu hỏi của Sakka, vua của chư thiên như vậy. Sakka, vua của chư thiên, hoan hỷ, vui mừng đón nhận lời Thế Tôn: "Đúng là như vậy, bạch Thế Tôn; đúng là như vậy, bạch Thiện Thệ. Sau khi nghe Thế Tôn trả lời câu hỏi, con đã vượt qua sự nghi ngờ, đã xua tan sự phân vân."
 
 <!--pg-->
-### 2.4. Sự bảo vệ các giác quan (Indriyasaṁvara)
-
+### 2.4. Sự bảo vệ các giác quan (Indriyasaṁvara){#2.4}
 Sau khi hoan hỷ, vui mừng đón nhận lời Thế Tôn, Sakka, vua của chư thiên, hỏi Thế Tôn câu hỏi tiếp theo:
 
 "Thưa ngài, một vị tỳ kheo thực hành như thế nào để đạt được *sự bảo vệ các giác quan* (*indriyasaṁvara*)?"
@@ -344,8 +338,7 @@ Sau khi hoan hỷ, vui mừng đón nhận lời Thế Tôn, Sakka, vua của ch
 "Bạch Thế Tôn, những sa-môn, bà-la-môn nào mà con nghĩ là đang sống ẩn cư trong rừng sâu, con đã đến gặp họ và hỏi những câu hỏi này. Khi bị con hỏi, họ không thể trả lời được, và vì không thể trả lời, họ lại hỏi ngược lại con: 'Tôn giả tên là gì?'. Khi bị họ hỏi, con trả lời: 'Thưa ngài, tôi là Sakka, vua của chư thiên'. Họ lại hỏi con tiếp: 'Này vua của chư thiên, ngài đã làm hành động gì để đạt được vị trí này?'. Con liền giảng dạy cho họ Giáo pháp theo những gì con đã nghe, đã học. Chỉ với bấy nhiêu đó, họ đã hoan hỷ: 'Chúng ta đã được gặp Sakka, vua của chư thiên, và ngài đã trả lời những gì chúng ta hỏi'. Họ hoàn toàn trở thành đệ tử của con, chứ con không phải là đệ tử của họ. Nhưng bạch Thế Tôn, con là đệ tử của Thế Tôn, đã nhập lưu (sotāpanna), không còn rơi vào cõi ác, chắc chắn hướng đến sự giác ngộ."
 
 <!--pg-->
-### 2.5. Lời tuyên bố về sự đạt được niềm vui (Somanassapaṭilābhakathā)
-
+### 2.5. Lời tuyên bố về sự đạt được niềm vui (Somanassapaṭilābhakathā){#2.5}
 "Này Thiên chủ, ông có nhớ trước đây đã từng đạt được niềm hân hoan, đạt được sự *thanh thản* như thế này không?"
 
 "Bạch Thế Tôn, con nhớ trước đây đã từng đạt được niềm hân hoan, đạt được sự *thanh thản* như thế này."

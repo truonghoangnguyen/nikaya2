@@ -1,7 +1,7 @@
 # TẬP 1 – KINH TIỂU TỤNG
 **Khuddakapàtha**
 
-### **Giới thiệu**
+### Giới thiệu
 
 Ðây là quyển kinh thứ nhất của Tiểu Bộ Kinh (Khuddhaka Nikaya), có lẽ đã được tổng hợp thành một quyển cẩm nang cho các Sa-di và Sa-di-ni. Quyển nầy gồm 9 bài kinh, bao gồm các đề tài cơ bản cho những vị xuất gia bắt đầu đời sống tu hành tại các tu viện. Tuy nhiên, nhiều đoạn kinh cũng được dùng để giới thiệu các căn bản Phật Pháp cho các cư sĩ.
 
@@ -25,12 +25,12 @@ Tất cả 9 bài kinh này, trong những ý nghĩa khác nhau, thường đư�
 
 Tóm lại, quyển Tiểu Tụng này được dùng như một quyển kinh dẫn nhập hữu ích trong bước đầu của đời sống tu sĩ và trong đời sống của mọi Phật tử hiện thời.
 
-***Tỳ-kheo Thanissaro***\
-***(Bình Anson lược dịch, tháng 01-2001)***
+*Tỳ-kheo Thanissaro*\
+*(Bình Anson lược dịch, tháng 01-2001)*
 
 ---
 
-### **1. Tam Quy (Saranattaya)**
+### 1. Tam Quy (Saranattaya)
 
 Ðệ tử quy y Phật,\
 Ðệ tử quy y Pháp,\
@@ -44,7 +44,7 @@ Lần thứ ba đệ tử quy y Phật\
 Lần thứ ba đệ tử quy y Pháp.\
 Lần thứ ba đệ tử quy y Tăng.
 
-### **2. Thập Giới (Dasasikkhàpada)**
+### 2. Thập Giới (Dasasikkhàpada)
 
 1\. Ðệ tử thực hành giới tránh sát sanh.\
 2\. Ðệ tử thực hành giới tránh lấy của không cho.\
@@ -57,11 +57,11 @@ Lần thứ ba đệ tử quy y Tăng.
 9\. Ðệ tử thực hành giới tránh dùng giường cao và rộng.\
 10\. Ðệ tử thực hành giới tránh nhận vàng bạc.
 
-### **3. Ba Mươi Hai Phần (Dvattimsàkàra)**
+### 3. Ba Mươi Hai Phần (Dvattimsàkàra)
 
 Trong thân này có: tóc, lông, móng, răng, da, thịt, gân, xương, tủy, thận, tim, gan, hoành cách mô, lá lách, phổi, ruột, màng ruột, bụng, phân, mật, đàm, mủ, máu, mồ hôi, mỡ, nước mắt, mỡ da, nước miếng, nước mủ, chất nhờn ở khớp, nước tiểu và não trong đầu.
 
-### **4. Nam Tử Hỏi Ðạo (Kumàrapanha)**
+### 4. Nam Tử Hỏi Ðạo (Kumàrapanha)
 
 Thế nào là một? – Mọi loài hữu tình đều tồn tại nhờ thức ăn.\
 Thế nào là hai? – Danh và sắc.\
@@ -74,7 +74,7 @@ Thế nào là tám? – Thánh đạo tám ngành.\
 Thế nào là chín? – Chín nơi cư trú của các loài hữu tình.\
 Thế nào là mười? – Vị nào có đủ mười đức tánh được gọi là vị A-la-hán.
 
-### **5. Kinh Ðiềm Lành (Mangala Sutta)**
+### 5. Kinh Ðiềm Lành (Mangala Sutta)
 
 Như vầy tôi nghe:
 
@@ -146,7 +146,7 @@ Không chỗ nào thất bại,\
 Khắp nơi được an toàn,\
 Là điềm lành tối thượng.
 
-### **6. Kinh Châu Báu (Ratana Sutta)**
+### 6. Kinh Châu Báu (Ratana Sutta)
 
 1. Phàm ở tại đời này,\
 Có sanh linh tụ hội,\
@@ -343,7 +343,7 @@ Hãy đảnh lễ chúng Tăng,\
 Mong rằng với hạnh này,\
 Mọi loài được hạnh phúc.
 
-### **7. Kinh Ngoài Bức Tường (Tirokudda Sutta)**
+### 7. Kinh Ngoài Bức Tường (Tirokudda Sutta)
 
 1. Ở bên ngoài bức tường,\
 Bọn họ đứng chờ đợi,\
@@ -420,7 +420,7 @@ Cũng tăng thêm dõng mãnh,\
 Người tích tụ công đức,\
 Thật to lớn biết bao.
 
-### **8. Kinh Bảo Tàng (Nidhikanda Sutta)**
+### 8. Kinh Bảo Tàng (Nidhikanda Sutta)
 
 1. Một người cất kho báu,\
 Ở tận dưới giếng sâu,\
@@ -525,7 +525,7 @@ Và những người có trí,\
 Ðã tạo nện kho tàng.\
 Công đức nhờ phước nghiệp.
 
-### **9. Kinh Lòng Từ (Mettà Sutta)**
+### 9. Kinh Lòng Từ (Mettà Sutta)
 
 1. Vị thiện xảo mục đích,\
 Cần phải làm như sau:\

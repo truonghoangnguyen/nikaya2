@@ -30,8 +30,7 @@ Rồi Thế Tôn, vào buổi sáng, đắp y, mang bát và y, cùng với hộ
 Rồi Thế Tôn đi đến nhà của bà-la-môn Lohicca; sau khi đến, ngài ngồi trên chỗ ngồi đã được dọn sẵn. Rồi bà-la-môn Lohicca tự tay phục vụ và làm thỏa mãn hội chúng tỳ kheo do Đức Phật đứng đầu bằng các món ăn loại nhai và loại nuốt thượng hạng.
 
 <!--pg-->
-## 1. Sự chất vấn bà-la-môn Lohicca (Lohiccabrāhmaṇānuyoga)
-
+## 1. Sự chất vấn bà-la-môn Lohicca (Lohiccabrāhmaṇānuyoga){#1}
 Rồi bà-la-môn Lohicca, khi Thế Tôn đã ăn xong và rút tay ra khỏi bát, lấy một chỗ ngồi thấp hơn và ngồi xuống một bên.
 
 Thế Tôn nói với bà-la-môn Lohicca đang ngồi một bên: "Này Lohicca, có đúng là ông đã khởi lên một *quan điểm sai lầm tồi tệ* như sau: 'Ở đây, nếu một sa-môn hay bà-la-môn đạt được một *điều thiện*, sau khi đạt được *điều thiện*, vị ấy không nên nói cho người khác biết, vì người này có thể làm gì cho người kia? Giống như cắt đứt một sợi dây trói buộc cũ rồi lại tạo ra một sợi dây trói buộc mới khác; ta nói rằng *điều ám ảnh dễ chịu* tồi tệ này là như vậy, vì người này có thể làm gì cho người kia?' không?"
@@ -94,8 +93,7 @@ Như vậy, này Lohicca, người nào nói như sau: 'Vua Pasenadi nước Kos
 Cũng vậy, này Lohicca, người nào nói như sau: 'Ở đây, nếu một sa-môn hay bà-la-môn đạt được một *điều thiện*, sau khi đạt được *điều thiện*, vị ấy không nên nói cho người khác biết, vì người này có thể làm gì cho người kia? Giống như ... (như trên) ... vì người này có thể làm gì cho người kia?'. Người nói như vậy là người gây trở ngại cho những thiện nam tử, những người nhờ nương tựa vào *Điều dạy* và luật do *Người Đến Như Vậy* tuyên thuyết mà đạt được sự thù thắng cao tột như vậy, chứng ngộ *quả Tu-đà-hoàn*, chứng ngộ *quả Tư-đà-hàm*, chứng ngộ *quả A-na-hàm*, chứng ngộ *A-la-hán*. Và những người đang làm chín muồi các thai tạng chư thiên để tái sinh vào các cõi chư thiên. Người ấy là người gây trở ngại cho họ; là người gây trở ngại, người ấy không mong cầu lợi ích; đối với người không mong cầu lợi ích, *tâm thù địch* được thiết lập; khi *tâm thù địch* được thiết lập, đó là *quan điểm sai*. Này Lohicca, đối với người có *quan điểm sai*, ta nói rằng có một trong hai cảnh giới đến: địa ngục hoặc cõi súc sinh.
 
 <!--pg-->
-## 2. Ba hạng đạo sư đáng bị chỉ trích (Tayocodanārahā)
-
+## 2. Ba hạng đạo sư đáng bị chỉ trích (Tayocodanārahā){#2}
 Này Lohicca, có ba hạng đạo sư trên thế gian này *đáng bị chỉ trích* (đáng bị quở trách / codanārahā); và ai chỉ trích những hạng đạo sư như vậy, sự chỉ trích đó là chân thật, đúng đắn, hợp với *Điều dạy*, không có lỗi. Ba hạng đó là gì?
 
 Ở đây, này Lohicca, có một hạng đạo sư xuất gia từ bỏ gia đình sống không gia đình vì mục đích gì, vị ấy chưa đạt được *mục đích của bậc sa-môn* (sa-môn quả / sāmaññattho) đó. Chưa đạt được *mục đích của bậc sa-môn* đó, vị ấy giảng dạy *Điều dạy* cho các đệ tử: 'Điều này mang lại lợi ích cho các vị, điều này mang lại hạnh phúc cho các vị'. Các đệ tử của vị ấy không lắng nghe, không lóng tai, không hướng tâm đến sự hiểu biết, và sống đi chệch khỏi lời dạy của đạo sư. Vị ấy nên bị chỉ trích như sau: 'Tôn giả xuất gia từ bỏ gia đình sống không gia đình vì mục đích gì, ngài chưa đạt được *mục đích của bậc sa-môn* đó. Chưa đạt được *mục đích của bậc sa-môn* đó, ngài giảng dạy *Điều dạy* cho các đệ tử: "Điều này mang lại lợi ích cho các vị, điều này mang lại hạnh phúc cho các vị". Các đệ tử của ngài không lắng nghe, không lóng tai, không hướng tâm đến sự hiểu biết, và sống đi chệch khỏi lời dạy của đạo sư. Giống như một người cố gắng tiến lên khi đang bị kéo lùi lại, hoặc ôm lấy một người đang quay lưng đi; ta nói rằng *điều ám ảnh dễ chịu* tồi tệ này là như vậy—vì người này có thể làm gì cho người kia?'. Này Lohicca, đây là hạng đạo sư thứ nhất trên thế gian *đáng bị chỉ trích*; và ai chỉ trích hạng đạo sư như vậy, sự chỉ trích đó là chân thật, đúng đắn, hợp với *Điều dạy*, không có lỗi.
@@ -107,8 +105,7 @@ Lại nữa, này Lohicca, ở đây có một hạng đạo sư xuất gia từ
 Này Lohicca, đây là ba hạng đạo sư trên thế gian *đáng bị chỉ trích*; và ai chỉ trích những hạng đạo sư như vậy, sự chỉ trích đó là chân thật, đúng đắn, hợp với *Điều dạy*, không có lỗi."
 
 <!--pg-->
-## 3. Đạo sư không đáng bị chỉ trích (Nacodanārahasatthu)
-
+## 3. Đạo sư không đáng bị chỉ trích (Nacodanārahasatthu){#3}
 Khi được nói như vậy, bà-la-môn Lohicca thưa với Thế Tôn: "Thưa Tôn giả Gotama, có hạng đạo sư nào trên thế gian không *đáng bị chỉ trích* không?"
 
 "Này Lohicca, có hạng đạo sư trên thế gian không *đáng bị chỉ trích*."

@@ -11,7 +11,7 @@ Tôi đã nghe như vầy: Một thời Thế Tôn trú tại Campā, trên bờ
 > Giải thoát mọi trói buộc.
 
 <!--pg-->
-## 1. Một Điều
+## 1. Một Điều{#1}
 *(Eko dhammo)*
 
 Này các hiền giả, có một *Điều* (pháp / dhammo) *mang lại nhiều lợi ích* (đa hữu ích / bahukāro), một *Điều* *cần được luyện tập* (tu tập / bhāvetabbo), một *Điều* *cần được hiểu biết trọn vẹn* (liễu tri / pariññeyyo), một *Điều* *cần được từ bỏ* (đoạn trừ / pahātabbo), một *Điều* *dẫn đến sự suy thoái* (thuộc phần thoái đọa / hānabhāgiyo), một *Điều* *dẫn đến tiến bộ* (thuộc phần thù thắng / visesabhāgiyo), một *Điều* *khó thâm nhập* (khó thông đạt / duppaṭivijjho), một *Điều* *cần được tạo ra* (sanh khởi / uppādetabbo), một *Điều* *cần được hiểu hết toàn bộ* (thắng tri / abhiññeyyo), một *Điều* *cần được trực tiếp chứng nghiệm* (chứng ngộ / sacchikātabbo).
@@ -40,7 +40,7 @@ Một *Điều* nào *cần được trực tiếp chứng nghiệm*? Tâm đư�
 Như vậy mười *Điều* này là thật, là chân, là như vậy, không sai lệch, không khác biệt, đã được *Người Đến Như Vậy* (Như Lai / tathāgatena) giác ngộ hoàn toàn.
 
 <!--pg-->
-## 2. Hai Điều
+## 2. Hai Điều{#2}
 *(Dve dhammā)*
 
 Hai *Điều* *mang lại nhiều lợi ích*, hai *Điều* *cần được luyện tập*, hai *Điều* *cần được hiểu biết trọn vẹn*, hai *Điều* *cần được từ bỏ*, hai *Điều* *dẫn đến sự suy thoái*, hai *Điều* *dẫn đến tiến bộ*, hai *Điều* *khó thâm nhập*, hai *Điều* *cần được tạo ra*, hai *Điều* *cần được hiểu hết toàn bộ*, hai *Điều* *cần được trực tiếp chứng nghiệm*.
@@ -69,7 +69,7 @@ Hai *Điều* nào *cần được trực tiếp chứng nghiệm*? Sự hiểu 
 Như vậy hai mươi *Điều* này là thật, là chân, là như vậy, không sai lệch, không khác biệt, đã được *Người Đến Như Vậy* giác ngộ hoàn toàn.
 
 <!--pg-->
-## 3. Ba Điều
+## 3. Ba Điều{#3}
 *(Tayo dhammā)*
 
 Ba *Điều* *mang lại nhiều lợi ích*, ba *Điều* *cần được luyện tập* [...lặp lại...] ba *Điều* *cần được trực tiếp chứng nghiệm*.
@@ -98,7 +98,7 @@ Ba *Điều* nào *cần được trực tiếp chứng nghiệm*? Ba sự hiể
 Như vậy ba mươi *Điều* này là thật, là chân, là như vậy, không sai lệch, không khác biệt, đã được *Người Đến Như Vậy* giác ngộ hoàn toàn.
 
 <!--pg-->
-## 4. Bốn Điều
+## 4. Bốn Điều{#4}
 *(Cattāro dhammā)*
 
 Bốn *Điều* *mang lại nhiều lợi ích*, bốn *Điều* *cần được luyện tập* [...lặp lại...] bốn *Điều* *cần được trực tiếp chứng nghiệm*.
@@ -127,7 +127,7 @@ Bốn *Điều* nào *cần được trực tiếp chứng nghiệm*? Bốn kế
 Như vậy bốn mươi *Điều* này là thật, là chân, là như vậy, không sai lệch, không khác biệt, đã được *Người Đến Như Vậy* giác ngộ hoàn toàn.
 
 <!--pg-->
-## 5. Năm Điều
+## 5. Năm Điều{#5}
 *(Pañca dhammā)*
 
 Năm *Điều* *mang lại nhiều lợi ích* [...lặp lại...] năm *Điều* *cần được trực tiếp chứng nghiệm*.
@@ -173,7 +173,7 @@ Năm *Điều* nào *cần được trực tiếp chứng nghiệm*? Năm tập 
 Như vậy năm mươi *Điều* này là thật, là chân, là như vậy, không sai lệch, không khác biệt, đã được *Người Đến Như Vậy* giác ngộ hoàn toàn.
 
 <!--pg-->
-## 6. Sáu Điều
+## 6. Sáu Điều{#6}
 *(Cha dhammā)*
 
 Sáu *Điều* *mang lại nhiều lợi ích* [...lặp lại...] sáu *Điều* *cần được trực tiếp chứng nghiệm*.
@@ -233,7 +233,7 @@ Do *sự cạn kiệt* các *nguồn ác*, vị ấy tự mình *hiểu hết to
 Như vậy sáu mươi *Điều* này là thật, là chân, là như vậy, không sai lệch, không khác biệt, đã được *Người Đến Như Vậy* giác ngộ hoàn toàn.
 
 <!--pg-->
-## 7. Bảy Điều
+## 7. Bảy Điều{#7}
 *(Satta dhammā)*
 
 Bảy *Điều* (pháp / dhammā) *mang lại nhiều lợi ích*  [...lặp lại...] bảy *Điều* *cần được trực tiếp chứng nghiệm* (chứng ngộ / sacchikātabbā).
@@ -289,7 +289,7 @@ Kết thúc phần tụng thứ nhất.
 
 
 <!--pg-->
-## 8. Tám Điều
+## 8. Tám Điều{#8}
 *(Aṭṭha dhammā)*
 
 Tám *Điều* *mang lại nhiều lợi ích* [...lặp lại...] tám *Điều* *cần được trực tiếp chứng nghiệm*.
@@ -407,7 +407,7 @@ Như vậy, tám mươi *Điều* này là chân thật, là sự thật, là nh
 
 
 <!--pg-->
-## 9. Chín Điều
+## 9. Chín Điều{#9}
 *(Nava dhammā)*
 
 Chín *Điều* *mang lại nhiều lợi ích* [...lặp lại...] chín *Điều* *cần được trực tiếp chứng nghiệm*.
@@ -456,7 +456,7 @@ Như vậy, chín mươi *Điều* này là chân thật, là sự thật, là n
 
 
 <!--pg-->
-## 10. Mười Điều
+## 10. Mười Điều{#10}
 *(Dasa dhammā)*
 
 Mười *Điều* *mang lại nhiều lợi ích* [...lặp lại...] mười *Điều* *cần được trực tiếp chứng nghiệm*.

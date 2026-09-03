@@ -49,34 +49,36 @@ nai đang chạy và bắt kịp nó. Nay dẫu ta đi với tất cả tốc l�
 -- Ta đã đứng rồi, này Angulimala! Và ngươi hãy đứng lại!
 
 Rồi tên cướp Angulimala suy nghĩ: "Những Sa-môn Thích Tử này là những người nói sự thật và chấp
-
 nhận sự thật. Và Sa-môn này dẫu cho đang đi lại nói: "Ta đã đứng rồi, này Angulimala! Và ngươi hãy
-đứng lại". Vậy ta hãy hỏi vị Sa-môn này". Rồi tên cướp Angulimala với bài kệ nói với Thế Tôn:
+đứng lại". Vậy ta hãy hỏi vị Sa-môn này". 
 
-*-- Người đi lại nói: "Ta đã đứng rồi",*
-*Ta đứng, Ngươi nói: "Sao ta không đứng?"*
-*Sa-môn, ta hỏi về ý nghĩa này,*
-*Sao Ngươi đứng lại, còn ta không đứng?*
+<!--pg-->
+Rồi tên cướp Angulimala với bài kệ nói với Thế Tôn:
 
-*-- Angulimala, Ta đã đứng rồi.*
-*Với mọi chúng sanh, Ta bỏ trượng, kiếm,*
-*Còn ngươi hữu tình, không tự kiềm chế,*
-*Do vậy, Ta đứng, còn Ngươi chưa đứng.*
-
-*-- Ðã lâu tôi kính, bậc Ðại Tiên Nhân,*
-*Nay Sa-môn này bước vào Ðại Lâm.*
-*Không lâu, tôi sẽ đoạn trừ ác pháp,*
-*Sau khi được nghe pháp kệ của Ngài.*
-
-*Nói xong tên cướp liền quăng bỏ kiếm,*
-*Quăng bỏ khí giới xuống vực thâm sâu,*
-*Tên cướp đảnh lễ dưới chân Thiện Thệ,*
-*Ngay tại chỗ ấy, xin được xuất gia.*
-
-*Ðức Phật từ bi, bậc Ðại Tiên Nhân,*
-*Ðạo Sư Nhân giới, cùng với Thiên giới,*
-*Ngài đã trả lời: "Thiện lai Tỷ-kheo".*
-*Uy đức Tỷ-kheo được Ngài xác chứng.*
+> *-- Người đi lại nói: "Ta đã đứng rồi",*\
+> *Ta đứng, Ngươi nói: "Sao ta không đứng?"*\
+> *Sa-môn, ta hỏi về ý nghĩa này,*\
+> *Sao Ngươi đứng lại, còn ta không đứng?*
+> 
+> *-- Angulimala, Ta đã đứng rồi.*\
+> *Với mọi chúng sanh, Ta bỏ trượng, kiếm,*\
+> *Còn ngươi hữu tình, không tự kiềm chế,*\
+> *Do vậy, Ta đứng, còn Ngươi chưa đứng.*
+> 
+> *-- Ðã lâu tôi kính, bậc Ðại Tiên Nhân,*\
+> *Nay Sa-môn này bước vào Ðại Lâm.*\
+> *Không lâu, tôi sẽ đoạn trừ ác pháp,*\
+> *Sau khi được nghe pháp kệ của Ngài.*
+> 
+> *Nói xong tên cướp liền quăng bỏ kiếm,*\
+> *Quăng bỏ khí giới xuống vực thâm sâu,*\
+> *Tên cướp đảnh lễ dưới chân Thiện Thệ,*\
+> *Ngay tại chỗ ấy, xin được xuất gia.*
+> 
+> *Ðức Phật từ bi, bậc Ðại Tiên Nhân,*\
+> *Ðạo Sư Nhân giới, cùng với Thiên giới,*\
+> *Ngài đã trả lời: "Thiện lai Tỷ-kheo".*\
+> *Uy đức Tỷ-kheo được Ngài xác chứng.*
 
 Rồi Thế Tôn cùng Tôn giả Angulimala là Sa-môn tùy tùng, bắt đầu du hành đi đến Savatthi, và tuần tự
 du hành, Thế Tôn đến Savatthi. Ở đây, Thế Tôn trú tại Savatthi, Jetavana, tại tinh xá ông Anthapindika.
@@ -198,64 +200,65 @@ kham nhẫn, này Bà-la-môn! Hãy kham nhẫn, này Bà-la-môn! Ông đang g�
 báo của nghiệp mà đáng lẽ Ông phải chịu nấu sôi ở địa ngục nhiều năm, nhiều trăm năm, nhiều ngàn
 năm".
 
+<!--pg-->
 Rồi Tôn giả Angulimala sống độc cư, Thiền tịnh, cảm thọ được giải thoát lạc, và trong lúc ấy nói lên lời
 cảm khái sau đây:
 
-*"Ai trước phóng dật, sau không phóng dật,*
-*Sáng chói đời này, như trăng thoát mây,*
-*Ai làm ác nghiệp, nhờ thiện chận lại,*
-*Sáng chói đời này, như trăng thoát mây.*
-
-*Niên thiếu Tỷ-kheo trung thành Phật giáo,*
-*Sáng chói đời này, như trăng thoát mây.*
-*Mong kẻ địch ta, nghe giảng Pháp thoại!*
-*Mong kẻ địch ta, trung thành Phật giáo!*
-
-*Mong kẻ địch ta, thọ lãnh chánh pháp,*
-*(Thân tâm) an tịnh, san sẻ mọi người.*
-*Mong kẻ địch ta, từ bậc Thuyết nhẫn,*
-*Từ bậc Tán thán, vô oán hận tâm.*
-
-*Thời thời nghe pháp, y pháp hành trì.*
-*Một kẻ như vậy, không có hại ta,*
-*Cũng không làm hại một người nào khác.*
-*Vị ấy sẽ chứng tối thượng tịch tịnh.*
-
-*Hộ trì mọi người, kẻ tham người không,*
-*Như người dẫn nước, hướng dẫn nước chảy,*
-*Như kẻ làm tên uốn cong thân tên,*
-*Như người thợ mộc uốn nắn cây gỗ.*
-
-*Kẻ trí tự mình, tự điều phục mình,*
-*Có kẻ được điều bởi gậy, roi, móc,*
-*Riêng Ta được điều không gậy, không kiếm.*
-*(Bởi bậc như vậy).*
-
-*Ta tên Vô Hại, trước ta sát hại,*
-*Nay được chánh danh, vì chẳng hại ai.*
-*Trước ta được tên Angulimala,*
-*Bị nước thác cuốn, ta quy y Phật.*
-
-*Trước tay vấy máu, danh xưng (Anguli) mala,*
-*Xem ta quy y, đoạn dây sanh tử,*
-*Làm nghiệp như vậy phải sanh ác thú,*
-*Khi lãnh nghiệp báo, không nợ ta hưởng.*
-
-*Kẻ ngu vô trí, đam mê phóng dật,*
-*Còn người có trí, giữ không phóng dật,*
-*Như giữ tài sản, tối thượng, tối quý,*
-*Chớ mê phóng dật, chớ mê dục lạc.*
-
-*Giữ không phóng dật, luôn luôn Thiền định,*
-*Chứng đắc đại lạc, quảng đại vô lượng,*
-*Thiện lai, ta đến, không đi lạc hướng,*
-*Không ai khuyên ta theo tư tưởng ác.*
-
-*Giữa các chân lý (được khéo) giảng dạy,*
-*Chân lý ta theo, chân lý tối thượng,*
-*Thiện lai ta đến, không đi lạc hướng,*
-*Không ai khuyên ta theo tư tưởng ác,*
-*Ba minh ta chứng, Phật lý viên thành.*
+> *"Ai trước phóng dật, sau không phóng dật,*\
+> *Sáng chói đời này, như trăng thoát mây,*\
+> *Ai làm ác nghiệp, nhờ thiện chận lại,*\
+> *Sáng chói đời này, như trăng thoát mây.*
+> 
+> *Niên thiếu Tỷ-kheo trung thành Phật giáo,*\
+> *Sáng chói đời này, như trăng thoát mây.*\
+> *Mong kẻ địch ta, nghe giảng Pháp thoại!*\
+> *Mong kẻ địch ta, trung thành Phật giáo!*
+> 
+> *Mong kẻ địch ta, thọ lãnh chánh pháp,*\
+> *(Thân tâm) an tịnh, san sẻ mọi người.*\
+> *Mong kẻ địch ta, từ bậc Thuyết nhẫn,*\
+> *Từ bậc Tán thán, vô oán hận tâm.*
+> 
+> *Thời thời nghe pháp, y pháp hành trì.*\
+> *Một kẻ như vậy, không có hại ta,*\
+> *Cũng không làm hại một người nào khác.*\
+> *Vị ấy sẽ chứng tối thượng tịch tịnh.*
+> 
+> *Hộ trì mọi người, kẻ tham người không,*\
+> *Như người dẫn nước, hướng dẫn nước chảy,*\
+> *Như kẻ làm tên uốn cong thân tên,*\
+> *Như người thợ mộc uốn nắn cây gỗ.*
+> 
+> *Kẻ trí tự mình, tự điều phục mình,*\
+> *Có kẻ được điều bởi gậy, roi, móc,*\
+> *Riêng Ta được điều không gậy, không kiếm.*\
+> *(Bởi bậc như vậy).*
+> 
+> *Ta tên Vô Hại, trước ta sát hại,*\
+> *Nay được chánh danh, vì chẳng hại ai.*\
+> *Trước ta được tên Angulimala,*\
+> *Bị nước thác cuốn, ta quy y Phật.*
+> 
+> *Trước tay vấy máu, danh xưng (Anguli) mala,*\
+> *Xem ta quy y, đoạn dây sanh tử,*\
+> *Làm nghiệp như vậy phải sanh ác thú,*\
+> *Khi lãnh nghiệp báo, không nợ ta hưởng.*
+> 
+> *Kẻ ngu vô trí, đam mê phóng dật,*\
+> *Còn người có trí, giữ không phóng dật,*\
+> *Như giữ tài sản, tối thượng, tối quý,*\
+> *Chớ mê phóng dật, chớ mê dục lạc.*
+> 
+> *Giữ không phóng dật, luôn luôn Thiền định,*\
+> *Chứng đắc đại lạc, quảng đại vô lượng,*\
+> *Thiện lai, ta đến, không đi lạc hướng,*\
+> *Không ai khuyên ta theo tư tưởng ác.*
+> 
+> *Giữa các chân lý (được khéo) giảng dạy,*\
+> *Chân lý ta theo, chân lý tối thượng,*\
+> *Thiện lai ta đến, không đi lạc hướng,*\
+> *Không ai khuyên ta theo tư tưởng ác,*\
+> *Ba minh ta chứng, Phật lý viên thành.*
 
 **-ooOoo-**
 

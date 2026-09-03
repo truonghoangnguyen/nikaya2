@@ -211,7 +211,7 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | hữu vi (saṅkhata) | thứ hình thành từ lắp ghép | "saṅkhata-dhamma->những điều 'hình thành từ lắp ghép'"|
 | vô vi (asaṅkhata) | thứ hình thành không từ lắp ghép | |
 | các hành là vô thường (sabbe saṅkhārā aniccā) | mọi thứ do hợp lại mà thành, không bền vững | giải thích: saṅkhata="đã được tạo tác"(cái bị tạo)/saṅkhārā="các sự tạo tác" (cái tạo)|
-| thô (oḷārika) | tính máy móc | |
+| thô (oḷārika) | thô; tính máy móc | |
 | duyên (paccaya) | Điều kiện, Điều cùng sinh, Điều kiện sinh trưởng; Điều kiện vừa đủ; đáng tin (paccayiko)|"hetu yo ca paccayo-> gốc nguyên nhân và điều kiện môi trường"; "phassapaccayā vedanā->"với Xúc là *Điều kiện*, cảm giác được sinh ra"; "Ko paccayo->Đâu là *điều kiện sinh trưởng*?"; "gilāna-paccaya->*điều kiện vừa đủ* cho người bệnh"; "paccayiko avisaṁvādako lokassa ->đáng tin, không lừa dối đời"|
 | duyên (paṭicca) | Phụ thuộc; sự Phụ thuộc cùng sinh; dựa vào | "Taṇhaṁ paṭicca pariyesanā->*Phụ thuộc* vào ái có sự tìm cầu"; "Cakkhuñcā, paṭicca rūpe ca->sự *Phụ thuộc cùng sinh* của con mắt và các sắc"; "...idametaṁ paṭicca vuttaṁ->điều này nói *dựa vào* điều kia" |
 | duyên khởi (paṭiccasamuppāda) | sự sinh ra qua quan hệ *Phụ thuộc* | |
@@ -369,6 +369,18 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | tâm giải thoát (cetovimutti) | tâm được giải thoát | |
 | tuệ giải thoát (paññāvimutti) | giải thoát bằng trí tuệ | | 
 | mettāsahagatena cetasā | tâm đi với lòng từ | | 
+| (a)kiriyavādo | thuyết (không) có nghiệp quả | |
+| jegucchī | người từ chối | |
+| apagabbho | không nhập thai | |
+| venayiko | người từ bỏ | |
+| pārājika | lỗi Trục xuất (Ba-la-di) | |
+| saṅghādisesa | lỗi Tăng xử lý (Tăng-già-bà-thi-sa) | tội nặng |
+| thullaccaya | lỗi Nặng (Thâu-lan-giá) | hối lỗi trước 1 tỳ kheo | 
+| pācittiya | lỗi Phạm quy định (Ba-dật-đề) | hối lỗi trước 1 vị Tỳ kheo |
+| nissaggiya pācittiya | tội Phạm vật chất (Ni-tát-kỳ Ba-dật-đề) | hối lỗi trước 1 vị Tỳ kheo |
+| pāṭidesanīya | ??(Ba-la-đề-đề-xá-ni) | Thừa nhận lỗi |
+| dukkaṭa | lỗi Làm sai (đột-kiết-la) | hối lỗi |
+| dubbhāsita | lỗi Nói sai (ác thuyết) | hối lỗi |
 </vocabulary-mapping>
 
 ### 4.1 Những từ giữ nguyên
@@ -379,7 +391,7 @@ phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (sam
 - Vô văn > người không học;
 - Phàm phu >cngười thường;
 - Chân nhân > chân nhân;
-- hữu học(sutavā) > có học;
+- vị hữu học > người tu học;
 - bất thiện pháp > những điều không thiện;
 - thiên nhĩ (dibbāya sotadhātuyā) > tai thần
 - thiên nhãn (dibbāya cakkhunā) > mắt thần

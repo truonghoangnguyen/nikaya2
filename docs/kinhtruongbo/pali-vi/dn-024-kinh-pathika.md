@@ -3,8 +3,7 @@
 *(Pāthikasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-024){target="_blank" class="note-link" }
 
-## 1. Câu chuyện về Sunakkhatta (Sunakkhattavatthu)
-
+## 1. Câu chuyện về Sunakkhatta (Sunakkhattavatthu){#1}
 Tôi đã nghe như vầy — một thời Thế Tôn trú ở xứ Malla, tại một thị trấn của người Malla tên là Anupiya. Rồi Thế Tôn, vào buổi sáng, mặc y, mang bát, đi vào Anupiya để khất thực. Rồi Thế Tôn khởi lên suy nghĩ: "Bây giờ đi khất thực ở Anupiya thì còn quá sớm. Hay là ta hãy đi đến khu vườn của du sĩ Bhaggavagotta, đi đến chỗ du sĩ Bhaggavagotta."
 
 Rồi Thế Tôn đi đến khu vườn của du sĩ Bhaggavagotta, đi đến chỗ du sĩ Bhaggavagotta. Rồi du sĩ Bhaggavagotta nói với Thế Tôn điều này: "Kính thưa Thế Tôn, xin mời đến. Chào mừng Thế Tôn. Đã lâu lắm rồi Thế Tôn mới có dịp đến đây. Kính thưa Thế Tôn, xin hãy ngồi, chỗ ngồi này đã được dọn sẵn."
@@ -68,8 +67,7 @@ Này Sunakkhatta, Ta nói cho ngươi biết, Ta thông báo cho ngươi biết.
 Này Bhaggava, dù được Ta nói như vậy, Sunakkhatta con trai dòng Licchavi vẫn rời bỏ *Điều dạy* và Luật này, như một kẻ rơi vào cõi khổ, rơi vào địa ngục.
 
 <!--pg-->
-## 2. Câu chuyện về Korakkhattiya (Korakkhattiyavatthu)
-
+## 2. Câu chuyện về Korakkhattiya (Korakkhattiyavatthu){#2}
 Này Bhaggava, một thời Ta trú ở Thūlū, tại một thị trấn của người Thūlū tên là Uttaraka. Rồi này Bhaggava, vào buổi sáng, Ta mặc y, mang bát, cùng với Sunakkhatta con trai dòng Licchavi làm thị giả đi theo sau, đi vào Uttaraka để khất thực. Lúc bấy giờ, *tu sĩ lõa thể* (acela) Korakkhattiya đang thực hành *hạnh con chó* (kukkuravatika), bò bằng bốn chân, ăn thức ăn rơi vãi trên mặt đất chỉ bằng miệng, nhai chỉ bằng miệng.
 
 Này Bhaggava, Sunakkhatta con trai dòng Licchavi nhìn thấy *tu sĩ lõa thể* Korakkhattiya đang thực hành *hạnh con chó*, bò bằng bốn chân, ăn thức ăn rơi vãi trên mặt đất chỉ bằng miệng, nhai chỉ bằng miệng. Thấy vậy, người ấy khởi lên suy nghĩ: 'Vị tu sĩ này quả thật là một bậc thiện nhân, bò bằng bốn chân, ăn thức ăn rơi vãi trên mặt đất chỉ bằng miệng, nhai chỉ bằng miệng.'
@@ -105,8 +103,7 @@ Rồi này Bhaggava, Sunakkhatta con trai dòng Licchavi đi đến chỗ Ta; sa
 'Hỡi *kẻ rỗng tuếch*, Ta thực hiện *phép lạ vượt quá khả năng con người* như vậy mà ngươi lại nói với Ta rằng: "Nhưng kính thưa Thế Tôn, Thế Tôn không thực hiện cho con những *phép lạ vượt quá khả năng con người*". Hỡi *kẻ rỗng tuếch*, hãy xem lỗi lầm này của ngươi lớn đến mức nào.' Này Bhaggava, dù được Ta nói như vậy, Sunakkhatta con trai dòng Licchavi vẫn rời bỏ *Điều dạy* và Luật này, như một kẻ rơi vào cõi khổ, rơi vào địa ngục.
 
 <!--pg-->
-## 3. Câu chuyện về tu sĩ lõa thể Kaḷāramaṭṭaka (Acelakaḷāramaṭṭakavatthu)
-
+## 3. Câu chuyện về tu sĩ lõa thể Kaḷāramaṭṭaka (Acelakaḷāramaṭṭakavatthu){#3}
 Này Bhaggava, một thời Ta trú ở Vesālī, tại Sảnh đường Nóc nhọn trong Đại Lâm. Lúc bấy giờ, *tu sĩ lõa thể* Kaḷāramaṭṭaka đang sống ở Vesālī, đạt được lợi lộc tối đa và danh tiếng tối đa tại các ngôi làng của người Vajji. Người đó đã thọ trì trọn vẹn bảy điều nguyện: 'Cho đến trọn đời, tôi sẽ là người lõa thể, không mặc quần áo; cho đến trọn đời, tôi sẽ sống phạm hạnh, không hành dâm; cho đến trọn đời, tôi sẽ sống bằng rượu và thịt, không ăn cơm và cháo. Ở phía đông Vesālī có tháp Udena, tôi sẽ không đi quá nơi đó; ở phía nam Vesālī có tháp Gotamaka, tôi sẽ không đi quá nơi đó; ở phía tây Vesālī có tháp Sattamba, tôi sẽ không đi quá nơi đó; ở phía bắc Vesālī có tháp Bahuputta, tôi sẽ không đi quá nơi đó.' Nhờ thọ trì bảy điều nguyện này, người đó đạt được lợi lộc tối đa và danh tiếng tối đa tại các ngôi làng của người Vajji.
 
 Rồi này Bhaggava, Sunakkhatta con trai dòng Licchavi đi đến chỗ *tu sĩ lõa thể* Kaḷāramaṭṭaka; sau khi đến, hỏi *tu sĩ lõa thể* Kaḷāramaṭṭaka một câu hỏi. Bị hỏi, *tu sĩ lõa thể* Kaḷāramaṭṭaka không thể trả lời được. Vì không thể trả lời, người đó bộc lộ sự tức giận, thù hằn và bất mãn. Rồi này Bhaggava, Sunakkhatta con trai dòng Licchavi khởi lên suy nghĩ: 'Chúng ta đã xúc phạm một vị tu sĩ quả thật là một bậc thiện nhân, một bậc A-la-hán. Đừng để điều này mang lại bất lợi và đau khổ lâu dài cho chúng ta.'
@@ -136,8 +133,7 @@ Này Bhaggava, Sunakkhatta con trai dòng Licchavi nghe tin: '*Tu sĩ lõa thể
 'Hỡi *kẻ rỗng tuếch*, Ta thực hiện *phép lạ vượt quá khả năng con người* như vậy mà ngươi lại nói với Ta rằng: "Nhưng kính thưa Thế Tôn, Thế Tôn không thực hiện cho con những *phép lạ vượt quá khả năng con người*". Hỡi *kẻ rỗng tuếch*, hãy xem lỗi lầm này của ngươi lớn đến mức nào.' Này Bhaggava, dù được Ta nói như vậy, Sunakkhatta con trai dòng Licchavi vẫn rời bỏ *Điều dạy* và Luật này, như một kẻ rơi vào cõi khổ, rơi vào địa ngục.
 
 <!--pg-->
-## 4. Câu chuyện về tu sĩ lõa thể Pāthikaputta (Acelapāthikaputtavatthu)
-
+## 4. Câu chuyện về tu sĩ lõa thể Pāthikaputta (Acelapāthikaputtavatthu){#4}
 Này Bhaggava, một thời Ta trú ngay tại Vesālī, tại Sảnh đường Nóc nhọn trong Đại Lâm. Lúc bấy giờ, *tu sĩ lõa thể* Pāthikaputta đang sống ở Vesālī, đạt được lợi lộc tối đa và danh tiếng tối đa tại các ngôi làng của người Vajji. Người đó tuyên bố trước hội chúng ở Vesālī như sau: 'Sa-môn Gotama là *người tuyên bố có trí tuệ* (ñāṇavādo), tôi cũng là *người tuyên bố có trí tuệ*. *Người tuyên bố có trí tuệ* xứng đáng biểu diễn *phép lạ vượt quá khả năng con người* với *người tuyên bố có trí tuệ*. Sa-môn Gotama hãy đi đến nửa đường, tôi cũng sẽ đi đến nửa đường. Tại đó, cả hai chúng tôi sẽ cùng biểu diễn *phép lạ vượt quá khả năng con người*. Nếu Sa-môn Gotama biểu diễn một *phép lạ vượt quá khả năng con người*, tôi sẽ biểu diễn hai. Nếu Sa-môn Gotama biểu diễn hai *phép lạ vượt quá khả năng con người*, tôi sẽ biểu diễn bốn. Nếu Sa-môn Gotama biểu diễn bốn *phép lạ vượt quá khả năng con người*, tôi sẽ biểu diễn tám. Cứ như vậy, Sa-môn Gotama biểu diễn bao nhiêu *phép lạ vượt quá khả năng con người*, tôi sẽ biểu diễn gấp đôi, gấp đôi số đó.'
 
 Rồi này Bhaggava, Sunakkhatta con trai dòng Licchavi đi đến chỗ Ta; sau khi đến, đảnh lễ Ta rồi ngồi xuống một bên. Ngồi xuống một bên, này Bhaggava, Sunakkhatta con trai dòng Licchavi nói với Ta điều này: 'Kính thưa Thế Tôn, *tu sĩ lõa thể* Pāthikaputta đang sống ở Vesālī, đạt được lợi lộc tối đa và danh tiếng tối đa tại các ngôi làng của người Vajji. Người đó tuyên bố trước hội chúng ở Vesālī như sau: "Sa-môn Gotama là *người tuyên bố có trí tuệ*, tôi cũng là *người tuyên bố có trí tuệ*. *Người tuyên bố có trí tuệ* xứng đáng biểu diễn *phép lạ vượt quá khả năng con người* với *người tuyên bố có trí tuệ*. Sa-môn Gotama hãy đi đến nửa đường, tôi cũng sẽ đi đến nửa đường. Tại đó, cả hai chúng tôi sẽ cùng biểu diễn *phép lạ vượt quá khả năng con người*. Nếu Sa-môn Gotama biểu diễn một *phép lạ vượt quá khả năng con người*, tôi sẽ biểu diễn hai. Nếu Sa-môn Gotama biểu diễn hai *phép lạ vượt quá khả năng con người*, tôi sẽ biểu diễn bốn. Nếu Sa-môn Gotama biểu diễn bốn *phép lạ vượt quá khả năng con người*, tôi sẽ biểu diễn tám. Cứ như vậy, Sa-môn Gotama biểu diễn bao nhiêu *phép lạ vượt quá khả năng con người*, tôi sẽ biểu diễn gấp đôi, gấp đôi số đó."'
@@ -163,8 +159,7 @@ Như vậy, này Sunakkhatta, Ta vừa *dùng tâm thấu hiểu tâm* của *tu
 Này Sunakkhatta, sau khi đi khất thực ở Vesālī, ăn xong và trở về từ chuyến khất thực, Ta sẽ đi đến khu vườn của *tu sĩ lõa thể* Pāthikaputta để nghỉ trưa. Bây giờ, này Sunakkhatta, nếu ngươi muốn, hãy đi báo cho người đó biết.'
 
 <!--pg-->
-## 5. Câu chuyện về việc biểu diễn phép lạ (Iddhipāṭihāriyakathā)
-
+## 5. Câu chuyện về việc biểu diễn phép lạ (Iddhipāṭihāriyakathā){#5}
 Rồi này Bhaggava, vào buổi sáng, Ta mặc y, mang bát, đi vào Vesālī để khất thực. Sau khi đi khất thực ở Vesālī, ăn xong và trở về từ chuyến khất thực, Ta đi đến khu vườn của *tu sĩ lõa thể* Pāthikaputta để nghỉ trưa. Rồi này Bhaggava, Sunakkhatta con trai dòng Licchavi vội vã đi vào Vesālī, đi đến chỗ những người Licchavi nổi tiếng; sau khi đến, nói với những người Licchavi nổi tiếng điều này: 'Này các bạn, Thế Tôn sau khi đi khất thực ở Vesālī, ăn xong và trở về từ chuyến khất thực, đã đi đến khu vườn của *tu sĩ lõa thể* Pāthikaputta để nghỉ trưa. Hãy đến, thưa các tôn giả, hãy đến, thưa các tôn giả, sẽ có sự biểu diễn *phép lạ vượt quá khả năng con người* của các bậc thiện nhân tu sĩ.' Rồi này Bhaggava, những người Licchavi nổi tiếng khởi lên suy nghĩ: 'Nghe nói sẽ có sự biểu diễn *phép lạ vượt quá khả năng con người* của các bậc thiện nhân tu sĩ; vậy thì chúng ta hãy đi xem.'
 
 Và người ấy cũng đi đến chỗ những Bà-la-môn đại gia, những gia chủ giàu có, và các tu sĩ, Bà-la-môn thuộc các giáo phái khác nổi tiếng; sau khi đến, nói với các tu sĩ, Bà-la-môn thuộc các giáo phái khác nổi tiếng điều này: 'Này các bạn, Thế Tôn sau khi đi khất thực ở Vesālī, ăn xong và trở về từ chuyến khất thực, đã đi đến khu vườn của *tu sĩ lõa thể* Pāthikaputta để nghỉ trưa. Hãy đến, thưa các tôn giả, hãy đến, thưa các tôn giả, sẽ có sự biểu diễn *phép lạ vượt quá khả năng con người* của các bậc thiện nhân tu sĩ.' Rồi này Bhaggava, các tu sĩ, Bà-la-môn thuộc các giáo phái khác nổi tiếng khởi lên suy nghĩ: 'Nghe nói sẽ có sự biểu diễn *phép lạ vượt quá khả năng con người* của các bậc thiện nhân tu sĩ; vậy thì chúng ta hãy đi xem.'
@@ -262,8 +257,7 @@ Rồi này Bhaggava, Sunakkhatta con trai dòng Licchavi đi đến chỗ Ta; sa
 Này Bhaggava, dù được Ta nói như vậy, Sunakkhatta con trai dòng Licchavi vẫn rời bỏ *Điều dạy* và Luật này, như một kẻ rơi vào cõi khổ, rơi vào địa ngục.
 
 <!--pg-->
-## 6. Câu chuyện về việc tuyên bố nguồn gốc thế giới (Aggaññapaññattikathā)
-
+## 6. Câu chuyện về việc tuyên bố nguồn gốc thế giới (Aggaññapaññattikathā){#6}
 Ta *thấy rõ* (pajānāti) *nguồn gốc thế giới*, này Bhaggava. Ta *thấy rõ* điều đó, và Ta còn *thấy rõ* xa hơn thế nữa. Dù *thấy rõ* điều đó, Ta không bám víu vào nó; vì không bám víu, Ta tự mình kinh nghiệm được *sự dập tắt* (nibbuti), điều mà khi *hiểu thực tế* (abhijānāti), Như Lai không rơi vào tai họa.
 
 Này Bhaggava, có một số tu sĩ và Bà-la-môn tuyên bố *nguồn gốc thế giới* là do sự sáng tạo của Thượng đế (Issara), do sự sáng tạo của Phạm thiên (Brahma). Ta đi đến chỗ họ và nói như sau: 'Có đúng là các tôn giả tuyên bố *nguồn gốc thế giới* là do sự sáng tạo của Thượng đế, do sự sáng tạo của Phạm thiên không?' Khi bị Ta hỏi như vậy, họ thừa nhận: 'Đúng vậy'. Ta nói với họ như sau: 'Nhưng các tôn giả tuyên bố *nguồn gốc thế giới* là do sự sáng tạo của Thượng đế, do sự sáng tạo của Phạm thiên theo cách thức nào?' Bị Ta hỏi, họ không thể trả lời được; vì không thể trả lời, họ hỏi ngược lại Ta. Được họ hỏi, Ta trả lời:

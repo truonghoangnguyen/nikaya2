@@ -1,6 +1,6 @@
 # Phẩm Về Tâm Không Thuần Thục
 
-### Kinh Tăng Chi Bộ 1.21-30, Phẩm Akammaniya (Phẩm Về Tâm Không Thuần Thục)
+### AN 1.21-30, Phẩm Akammaniya (Phẩm Về Tâm Không Thuần Thục)
 
 21\. "Này các Tỳ kheo, Ta không thấy một pháp nào khác, khi không được *phát triển* (developed / rèn luyện, tu tập) như vậy, lại khó sử dụng như tâm. Tâm không được *phát triển* thì khó sử dụng."
 

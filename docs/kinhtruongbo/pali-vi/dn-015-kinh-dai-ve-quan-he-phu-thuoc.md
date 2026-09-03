@@ -3,8 +3,7 @@
 *(Mahānidānasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-015){target="_blank" class="note-link" }
 
-## 1. Sự sinh ra qua quan hệ Phụ thuộc (Paṭiccasamuppāda)
-
+## 1. Sự sinh ra qua quan hệ Phụ thuộc (Paṭiccasamuppāda){#1}
 Tôi nghe như vầy: Một thời Thế Tôn trú ở giữa những người Kuru, tại một thị trấn của người Kuru tên là Kammāsadhamma.
 
 Khi ấy, Tôn giả Ānanda đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ānanda bạch Thế Tôn điều này: "Thật kỳ diệu, bạch Thế Tôn! Thật hy hữu, bạch Thế Tôn! *Sự sinh ra qua quan hệ Phụ thuộc* (duyên khởi / paṭiccasamuppāda) này thật sâu sắc, bạch Thế Tôn, và có vẻ ngoài sâu sắc, nhưng đối với con, nó dường như rất rõ ràng, rất dễ hiểu."
@@ -176,8 +175,7 @@ Này Ānanda, nếu hoàn toàn không có *Xúc* dưới bất kỳ hình thứ
 
 <!--pg-->
 
-## 2. Niềm Tin về Tự Ngã (Attapaññatti)
-
+## 2. Niềm Tin về Tự Ngã (Attapaññatti){#2}
 Này Ānanda, khi một người có *niềm tin(tuyên bố)* (thi thiết / paññapeti) về tự ngã thì *có những hình thức nào* (kittāvatā)?
 
 Này Ānanda, người ta *tin* là tự ngã *có vật chất* (sắc / rūpī) và *có giới hạn* (hữu lượng / paritta) và tuyên bố: 'Tự ngã của tôi *có vật chất* và *có giới hạn*.' Hoặc này Ānanda, người ta *tin* là tự ngã *có vật chất* và *không giới hạn* (vô lượng / ananta) và tuyên bố: 'Tự ngã của tôi *có vật chất* và *không giới hạn*.' Hoặc này Ānanda, người ta *tin* là tự ngã *không có vật chất* (vô sắc / arūpī) và *có giới hạn* và tuyên bố: 'Tự ngã của tôi *không có vật chất* và *có giới hạn*.' Hoặc này Ānanda, người ta *tin* là tự ngã *không có vật chất* và *không giới hạn* và tuyên bố: 'Tự ngã của tôi *không có vật chất* và *không giới hạn*.'
@@ -193,8 +191,7 @@ Này Ānanda, trong trường hợp một người *tin* là tự ngã *không c
 Này Ānanda, đó là những hình thức mà một người *tin* và tuyên bố về tự ngã.
 
 <!--pg-->
-## 3. Không Tin về Tự Ngã (Naattapaññatti)
-
+## 3. Không Tin về Tự Ngã (Naattapaññatti){#3}
 Này Ānanda, khi một người *không tin* có tự ngã thì *có những hình thức nào* ?
 
 Này Ānanda, khi *không tin* về tự ngã, người ta *không tin* là tự ngã *có vật chất* và *có giới hạn* và không tuyên bố: 'Tự ngã của tôi *có vật chất* và *có giới hạn*.' Hoặc này Ānanda, khi *không tin* về tự ngã, người ta *không tin* là tự ngã *có vật chất* và *không giới hạn* và không tuyên bố: 'Tự ngã của tôi *có vật chất* và *không giới hạn*.' Hoặc này Ānanda, khi *không tin* về tự ngã, người ta *không tin* là tự ngã *không có vật chất* và *có giới hạn* và không tuyên bố: 'Tự ngã của tôi *không có vật chất* và *có giới hạn*.' Hoặc này Ānanda, khi *không tin* về tự ngã, người ta *không tin* là tự ngã *không có vật chất* và *không giới hạn* và không tuyên bố: 'Tự ngã của tôi *không có vật chất* và *không giới hạn*.'
@@ -210,8 +207,7 @@ Này Ānanda, trong trường hợp một người *không tin* là tự ngã *k
 Này Ānanda, đó là những hình thức mà một người *không tin* và không tuyên bố về tự ngã.
 
 <!--pg-->
-## 4. Quan niệm Về Tự Ngã (Attasamanupassanā)
-
+## 4. Quan niệm Về Tự Ngã (Attasamanupassanā){#4}
 Này Ānanda, *theo những cách nào* một người *quan niệm* (quán / samanupassati)về tự ngã?
 
 Này Ānanda, khi *quan niệm* về tự ngã, người ta có *quan niệm* *cảm thọ* (thọ / vedanā) là tự ngã: '*cảm thọ* là tự ngã của tôi.' Hoặc này Ānanda, khi *quan niệm* về tự ngã, người ta *quan niệm*: '*cảm thọ* không phải là tự ngã của tôi, tự ngã của tôi là *vô cảm* (vô giác / appaṭisaṁvedana).' Hoặc này Ānanda, khi *quan niệm* về tự ngã, người ta *quan niệm*: '*cảm thọ* không phải là tự ngã của tôi, tự ngã của tôi cũng không phải là *vô cảm*; tự ngã của tôi là thứ nhận ra *cảm nhận* (thọ lãnh / vediyati), vì tự ngã của tôi chính là *năng lực cảm nhận*' (thọ pháp / vedanādhamma).'
@@ -242,8 +238,7 @@ Này Ānanda, đối với vị Tỳ-kheo có *tâm được giải thoát* (gi�
 Vì sao vậy? Này Ānanda, đâu là đặt tên, đâu là giới hạn của sự đặt tên; đâu là ngôn ngữ, đâu giới hạn của ngôn ngữ; đâu là khái niệm, đâu là giới hạn của khái niệm; đến đâu là trí tuệ, đâu là giới hạn của trí tuệ; đâu là vòng luân hồi, và cơ chế vận hành của nó; vị Tỳ-kheo đã được giải thoát nhờ sự *hiểu biết trực tiếp* về những điều này. Đối với vị Tỳ-kheo đã giải thoát nhờ *hiểu biết trực tiếp* ấy, nếu nói rằng 'quan điểm của vị ấy là không biết, không thấy' — thì điều đó hoàn toàn không đúng, không chính xác."
 
 <!--pg-->
-## 5. Bảy Nơi Trú Ngụ Của 'Cái Biết' (Sattaviññāṇaṭṭhiti)
-
+## 5. Bảy Nơi Trú Ngụ Của 'Cái Biết' (Sattaviññāṇaṭṭhiti){#5}
 Này Ānanda, có bảy *nơi trú ngụ của 'Cái Biết'* (thức trú / viññāṇaṭṭhiti) và hai *Xứ* (āyatana). Bảy nơi đó là gì?
 
 Này Ānanda, có những chúng sinh *khác nhau về thân hình* (dị thân / nānattakāyā) và *khác nhau về Nhận Thức* (dị tưởng / nānattasaññino), như loài người, một số chư thiên và một số chúng sinh ở cõi khổ. Đây là *nơi trú ngụ của 'Cái Biết'* thứ nhất.
@@ -274,8 +269,7 @@ Này Ānanda, trong các nơi đó, *nơi trú ngụ của 'Cái Biết'* thứ 
 "Này Ānanda, khi một Tỳ-kheo biết như thật *sự hình thành*, *sự tan biến*, *sự ngọt ngào*, *sự nguy hiểm*, và sự *thoát khỏi* bảy *nơi trú ngụ của 'Cái Biết'* và hai *Xứ* này, rồi được giải thoát mà không *bám giữ*, vị Tỳ-kheo này, này Ānanda, được gọi là người giải thoát bằng trí tuệ.
 
 <!--pg-->
-## 6. Tám Sự Giải Thoát (Aṭṭhavimokkha)
-
+## 6. Tám Sự Giải Thoát (Aṭṭhavimokkha){#6}
 Này Ānanda, có tám *sự giải thoát* (giải thoát / vimokkha). Tám sự đó là gì?
 
 Người *vật chất*, quan sát *vật chất* bên ngoài, đây là *sự giải thoát* thứ nhất.

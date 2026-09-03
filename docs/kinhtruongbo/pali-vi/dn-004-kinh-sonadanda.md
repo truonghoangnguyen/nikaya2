@@ -2,8 +2,7 @@
 *(Soṇadaṇḍasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-004){target="_blank" class="note-link" }
 
-## 1. Các Bà-la-môn và Gia chủ ở Campā (Campeyyakabrāhmaṇagahapatikā)
-
+## 1. Các Bà-la-môn và Gia chủ ở Campā (Campeyyakabrāhmaṇagahapatikā){#1}
 Tôi nghe như vầy: Một thời Thế Tôn đi du hành ở vương quốc Aṅga cùng với một đại chúng tỳ-kheo khoảng năm trăm vị, và đến Campā. Tại đó, Thế Tôn trú ở Campā, trên bờ hồ Gaggarā.
 
 Lúc bấy giờ, Bà-la-môn Soṇadaṇḍa đang cai quản Campā, một nơi đông đúc dân cư, nhiều cỏ cây, củi, nước và lúa gạo, là một thái ấp hoàng gia do vua Seniya Bimbisāra của nước Magadha ban tặng như một phần thưởng hoàng gia, một ân tứ thiêng liêng.
@@ -21,8 +20,7 @@ Lúc bấy giờ, Bà-la-môn Soṇadaṇḍa đang nghỉ trưa trên tầng g�
 "Vâng, thưa ngài," người quản gia đáp lời Bà-la-môn Soṇadaṇḍa, rồi đi đến chỗ các Bà-la-môn và gia chủ ở Campā, truyền đạt lại lời nhắn: "Bà-la-môn Soṇadaṇḍa nói thế này: 'Xin các vị hãy đợi, Bà-la-môn Soṇadaṇḍa cũng sẽ đi đến để chiêm ngưỡng Sa-môn Gotama'."
 
 <!--pg-->
-## 2. Lời ca ngợi phẩm chất của Soṇadaṇḍa (Soṇadaṇḍaguṇakathā)
-
+## 2. Lời ca ngợi phẩm chất của Soṇadaṇḍa (Soṇadaṇḍaguṇakathā){#2}
 Lúc bấy giờ, có khoảng năm trăm Bà-la-môn từ nhiều vùng khác nhau đang lưu trú tại Campā vì một vài công việc. Các Bà-la-môn này nghe tin: "Bà-la-môn Soṇadaṇḍa sẽ đi đến chiêm ngưỡng Sa-môn Gotama." Thế là họ đi đến chỗ Bà-la-môn Soṇadaṇḍa và hỏi: "Có thật là ngài Soṇadaṇḍa sẽ đi đến chiêm ngưỡng Sa-môn Gotama không?"
 
 "Đúng vậy, thưa các vị, tôi có ý định: 'Tôi cũng sẽ đi đến chiêm ngưỡng Sa-môn Gotama'."
@@ -51,8 +49,7 @@ Bởi vì ngài Soṇadaṇḍa được Bà-la-môn Pokkharasāti tôn trọng,
 
 Bởi vì ngài Soṇadaṇḍa đang cai quản Campā, một nơi đông đúc dân cư, nhiều cỏ cây, củi, nước và lúa gạo, là một thái ấp hoàng gia do vua Seniya Bimbisāra của nước Magadha ban tặng... Với lý do này, ngài Soṇadaṇḍa không đáng phải đi đến chiêm ngưỡng Sa-môn Gotama; trái lại, chính Sa-môn Gotama mới đáng phải đi đến chiêm ngưỡng ngài Soṇadaṇḍa."
 <!--pg-->
-## 3. Lời ca ngợi phẩm chất của Đức Phật (Buddhaguṇakathā)
-
+## 3. Lời ca ngợi phẩm chất của Đức Phật (Buddhaguṇakathā){#3}
 Khi được nói như vậy, Bà-la-môn Soṇadaṇḍa nói với các Bà-la-môn kia:
 
 "Vậy thì, thưa các vị, hãy nghe tôi nói vì sao chính chúng ta mới đáng đi đến chiêm ngưỡng Tôn giả Gotama; và Tôn giả Gotama không đáng phải đi đến chiêm ngưỡng chúng ta. Thưa các vị, Sa-môn Gotama có *dòng dõi* thuần khiết từ cả cha lẫn mẹ, huyết thống trong sạch cho đến bảy đời tổ tiên, không bị chê trách hay tì vết nào về *dòng dõi*. Với lý do này, Tôn giả Gotama không đáng phải đi đến chiêm ngưỡng chúng ta; trái lại, chính chúng ta mới đáng đi đến chiêm ngưỡng Tôn giả Gotama.
@@ -91,8 +88,7 @@ Khi được nói như vậy, các Bà-la-môn kia nói với Bà-la-môn Soṇa
 "Vậy thì, thưa các vị, tất cả chúng ta hãy cùng đi đến chiêm ngưỡng Sa-môn Gotama."
 
 <!--pg-->
-## 4. Sự lo âu của Soṇadaṇḍa (Soṇadaṇḍaparivitakka)
-
+## 4. Sự lo âu của Soṇadaṇḍa (Soṇadaṇḍaparivitakka){#4}
 Sau đó, Bà-la-môn Soṇadaṇḍa cùng với một nhóm đông đảo các Bà-la-môn đi đến hồ Gaggarā.
 
 Khi đi qua khu rừng, trong đầu Bà-la-môn Soṇadaṇḍa khởi lên một *suy nghĩ trong tâm* (tâm tư duy / cetoparivitakka) như sau: "Nếu ta hỏi Sa-môn Gotama một câu hỏi, và Sa-môn Gotama nói với ta: 'Này Bà-la-môn, câu hỏi này không nên hỏi như vậy, câu hỏi này phải được hỏi như thế này', hội chúng này sẽ *coi thường* (khinh miệt / paribhaveyya) ta: 'Bà-la-môn Soṇadaṇḍa thật ngu ngốc, kém cỏi, không thể hỏi Sa-môn Gotama một câu hỏi cho đúng đắn'. Nếu hội chúng này *coi thường* ta, *danh tiếng* của ta sẽ giảm sút. Nếu *danh tiếng* giảm sút, *tài sản* của ta cũng sẽ giảm sút. Vì *tài sản* của chúng ta có được là nhờ *danh tiếng*.
@@ -106,8 +102,7 @@ Rồi Bà-la-môn Soṇadaṇḍa đi đến chỗ Thế Tôn; sau khi đến, �
 Ngay cả khi đang ngồi đó, Bà-la-môn Soṇadaṇḍa vẫn tiếp tục trăn trở với những suy nghĩ này: "Nếu ta hỏi Sa-môn Gotama một câu hỏi... (như trên)... Vì *tài sản* của chúng ta có được là nhờ *danh tiếng*. Ôi, giá như Sa-môn Gotama hỏi ta một câu hỏi thuộc về lĩnh vực chuyên môn của ta là ba bộ Vệ-đà, chắc chắn ta sẽ trả lời làm hài lòng tâm trí ngài!"
 
 <!--pg-->
-## 5. Định nghĩa về Bà-la-môn (Brāhmaṇapaññatti)
-
+## 5. Định nghĩa về Bà-la-môn (Brāhmaṇapaññatti){#5}
 Bấy giờ, Thế Tôn dùng tâm mình thấu hiểu *suy nghĩ trong tâm* của Bà-la-môn Soṇadaṇḍa, Ngài nghĩ: "Bà-la-môn Soṇadaṇḍa này đang tự làm khổ mình bằng chính tâm trí của ông ta. Hay là Ta hãy hỏi Bà-la-môn Soṇadaṇḍa một câu hỏi thuộc về lĩnh vực chuyên môn của ông ta là ba bộ Vệ-đà."
 
 Thế rồi Thế Tôn nói với Bà-la-môn Soṇadaṇḍa: "Này Bà-la-môn, với bao nhiêu yếu tố thì các Bà-la-môn công nhận một người là Bà-la-môn, và người ấy có thể nói 'Tôi là Bà-la-môn' một cách chân chính mà không phạm lỗi *nói dối* (vọng ngữ / musāvāda)?"
@@ -141,8 +136,7 @@ Lúc bấy giờ, cháu trai của Bà-la-môn Soṇadaṇḍa là thanh niên A
 "Thưa các vị, thanh niên Aṅgaka đẹp đẽ, dễ nhìn, có *ngoại hình* xuất chúng, mang vẻ đẹp của Phạm thiên, vóc dáng của Phạm thiên, không có điểm nào đáng chê trách về *ngoại hình*; trong hội chúng này không ai sánh bằng cậu ấy về *ngoại hình*, ngoại trừ Sa-môn Gotama. Thanh niên Aṅgaka là người tụng đọc, người trì chú, tinh thông ba bộ Vệ-đà... am hiểu ngữ pháp, thông thạo triết học tự nhiên và các tướng mạo của bậc đại nhân. Chính tôi là người dạy *kiến thức Vệ-đà* cho cậu ấy. Thanh niên Aṅgaka có *dòng dõi* thuần khiết từ cả cha lẫn mẹ, huyết thống trong sạch cho đến bảy đời tổ tiên, không bị chê trách hay tì vết nào về *dòng dõi*. Chính tôi biết rõ cha mẹ cậu ấy. Nhưng thưa các vị, nếu thanh niên Aṅgaka giết hại sinh mệnh, lấy của không cho, tà dâm với vợ người, *nói dối*, uống rượu say sưa; thì trong trường hợp này, *ngoại hình* làm được gì, *kiến thức Vệ-đà* làm được gì, *dòng dõi* làm được gì? Miễn là, thưa các vị, vị Bà-la-môn *sống đạo đức*, có đạo đức trưởng thành, thành tựu đạo đức trưởng thành; là *người thông thái*, *người có trí*, là người thứ nhất hoặc thứ hai trong số những người dâng lễ vật. Thưa các vị, với hai yếu tố này, các Bà-la-môn công nhận một người là Bà-la-môn, và người ấy có thể nói 'Tôi là Bà-la-môn' một cách chân chính mà không phạm lỗi *nói dối*."
 
 <!--pg-->
-## 6. Thảo luận về Đạo đức và Trí tuệ (Sīlapaññākathā)
-
+## 6. Thảo luận về Đạo đức và Trí tuệ (Sīlapaññākathā){#6}
 "Này Bà-la-môn, trong hai yếu tố này, có thể bỏ đi một yếu tố và công nhận một người là Bà-la-môn với một yếu tố, để người ấy có thể nói 'Tôi là Bà-la-môn' một cách chân chính mà không phạm lỗi *nói dối* được không?"
 
 "Không thể được, thưa Tôn giả Gotama. Thưa Tôn giả Gotama, *trí tuệ* (tuệ / paññā) được gột rửa bởi *sống đạo đức*, và *sống đạo đức* được gột rửa bởi *trí tuệ*. Nơi nào có *sống đạo đức*, nơi đó có *trí tuệ*; nơi nào có *trí tuệ*, nơi đó có *sống đạo đức*. Người *sống đạo đức* thì có *trí tuệ*, người có *trí tuệ* thì *sống đạo đức*. *Sống đạo đức* và *trí tuệ* được xem là tối thượng trên đời. Giống như, thưa Tôn giả Gotama, lấy tay rửa tay, hay lấy chân rửa chân; cũng vậy, thưa Tôn giả Gotama, *trí tuệ* được gột rửa bởi *sống đạo đức*, và *sống đạo đức* được gột rửa bởi *trí tuệ*. Nơi nào có *sống đạo đức*, nơi đó có *trí tuệ*; nơi nào có *trí tuệ*, nơi đó có *sống đạo đức*. Người *sống đạo đức* thì có *trí tuệ*, người có *trí tuệ* thì *sống đạo đức*. *Sống đạo đức* và *trí tuệ* được xem là tối thượng trên đời."
@@ -160,8 +154,7 @@ Nhưng này Bà-la-môn, thế nào là *sống đạo đức* đó? Thế nào 
 "Ở đây, này Bà-la-môn, Như Lai xuất hiện ở đời, là bậc A-la-hán, bậc Chánh Đẳng Giác... Như vậy, này Bà-la-môn, vị tỳ-kheo thành tựu *sống đạo đức*. Đó chính là *sống đạo đức*... vị ấy chứng và an trú vào *Thiền-na* (Thiền / jhāna) thứ nhất... *Thiền-na* thứ hai... *Thiền-na* thứ ba... chứng và an trú vào *Thiền-na* thứ tư... vị ấy hướng tâm, dẫn tâm đến tri kiến... Vị ấy *thấy rõ* (tuệ tri / pajānāti): 'không còn tái sinh nữa'. Điều này thuộc về *trí tuệ* của vị ấy. Đó chính là *trí tuệ*, này Bà-la-môn."
 
 <!--pg-->
-## 7. Soṇadaṇḍa tuyên bố làm cư sĩ (Soṇadaṇḍaupāsakattapaṭivedanā)
-
+## 7. Soṇadaṇḍa tuyên bố làm cư sĩ (Soṇadaṇḍaupāsakattapaṭivedanā){#7}
 Khi được nói như vậy, Bà-la-môn Soṇadaṇḍa thưa với Thế Tôn: "Tuyệt vời thay, thưa Tôn giả Gotama! Tuyệt vời thay, thưa Tôn giả Gotama! Giống như người dựng đứng lại những gì bị quăng ngã sấp, phơi bày ra những gì bị che kín, chỉ đường cho người đi lạc, hay đem đèn sáng vào bóng tối để những ai có mắt có thể thấy được hình sắc; cũng vậy, Tôn giả Gotama đã dùng nhiều phương tiện để làm sáng tỏ Giáo pháp. Con xin *nương tựa* (quy y / saraṇa) Tôn giả Gotama, *nương tựa* Giáo pháp và chúng Tỳ-kheo. Xin Tôn giả Gotama nhận con làm *người nam cư sĩ* (cận sự nam / upāsaka) đã *nương tựa* từ nay cho đến trọn đời. Và xin Tôn giả Gotama cùng với chúng Tỳ-kheo nhận lời mời dùng bữa ăn ngày mai của con." Thế Tôn nhận lời bằng sự im lặng.
 
 Bà-la-môn Soṇadaṇḍa biết Thế Tôn đã nhận lời, liền từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, đi nhiễu quanh Ngài rồi rời đi. Qua đêm đó, Bà-la-môn Soṇadaṇḍa cho chuẩn bị thức ăn thượng vị loại cứng và loại mềm tại nhà mình, rồi báo giờ cho Thế Tôn: "Đã đến giờ, thưa Tôn giả Gotama, bữa ăn đã sẵn sàng." Buổi sáng, Thế Tôn đắp y, mang bát, cùng với chúng Tỳ-kheo đi đến nhà Bà-la-môn Soṇadaṇḍa; sau khi đến, Ngài ngồi trên chỗ đã được dọn sẵn. Bà-la-môn Soṇadaṇḍa tự tay phục vụ và làm hài lòng hội chúng Tỳ-kheo do Đức Phật đứng đầu bằng những thức ăn thượng vị loại cứng và loại mềm.

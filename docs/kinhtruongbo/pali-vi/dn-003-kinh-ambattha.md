@@ -4,15 +4,13 @@
 
 Tôi nghe như vầy: Một thời Thế Tôn đang đi du hành giữa dân chúng Kosala cùng với một đại chúng tỳ kheo khoảng năm trăm vị, ngài đi đến một ngôi làng bà-la-môn của người Kosala tên là Icchānaṅgala. Tại đó, Thế Tôn trú ở Icchānaṅgala, trong khu rừng Icchānaṅgala.
 
-## 1. Câu chuyện về Pokkharasāti (Pokkharasātivatthu)
-
+## 1. Câu chuyện về Pokkharasāti (Pokkharasātivatthu){#1}
 Lúc bấy giờ, bà-la-môn Pokkharasāti cai quản Ukkaṭṭha, một nơi đông đúc dân cư, nhiều cỏ cây, củi, nước và lúa gạo, là tài sản hoàng gia do vua Pasenadi nước Kosala ban tặng như một thái ấp hoàng gia, một phần thưởng thiêng liêng. Bà-la-môn Pokkharasāti nghe tin:
 
 "Sa-môn Gotama, con trai dòng Sakya, xuất gia từ gia tộc Sakya, đang đi du hành giữa dân chúng Kosala cùng với một đại chúng tỳ kheo khoảng năm trăm vị, đã đến Icchānaṅgala và đang trú ở khu rừng Icchānaṅgala. Tiếng đồn tốt đẹp sau đây đã vang lên về Tôn giả Gotama: 'Ngài là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, *đầy đủ hiểu biết và đạo đức* (minh hạnh túc / vijjācaraṇasampanno), Đấng Thiện Thệ, Người Hiểu Biết Thế Gian, Bậc Vô Thượng, Người Điều Phục Những Kẻ Đáng Được Điều Phục, Bậc Thầy Của Chư Thiên Và Loài Người, Bậc Giác Ngộ, Thế Tôn.' Ngài đã tự mình *thấy rõ* (tuệ tri / pajānāti) và chứng ngộ thế giới này cùng với chư thiên, ma vương, phạm thiên, thế hệ các sa-môn và bà-la-môn, cùng với chư thiên và loài người, rồi tuyên thuyết điều đó. Ngài giảng dạy *Chân lý* (pháp / dhamma) tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, đầy đủ ý nghĩa và văn tự, ngài hiển lộ *lối sống thanh tịnh* (phạm hạnh / brahmacariya) hoàn toàn viên mãn và thanh tịnh. Thật tốt đẹp thay khi được gặp một vị A-la-hán như vậy."
 
 <!--pg-->
-## 2. Thanh niên Ambaṭṭha (Ambaṭṭhamāṇava)
-
+## 2. Thanh niên Ambaṭṭha (Ambaṭṭhamāṇava){#2}
 Lúc bấy giờ, bà-la-môn Pokkharasāti có một thanh niên học trò tên là Ambaṭṭha, là người tụng đọc, thông thạo các câu thần chú, thấu triệt ba bộ kinh Veda cùng với các bộ từ vựng, nghi lễ, ngữ âm học, và lịch sử là bộ thứ năm; là người am hiểu từ ngữ, ngữ pháp, thành thạo triết học tự nhiên và các *dấu hiệu của bậc vĩ nhân* (đại nhân tướng / mahāpurisalakkhaṇāni); được thầy mình công nhận và xác nhận trong giáo lý ba bộ Veda của truyền thống mình rằng: "Những gì ta biết, con biết; những gì con biết, ta biết."
 
 Rồi bà-la-môn Pokkharasāti gọi thanh niên Ambaṭṭha: "Này con Ambaṭṭha, Sa-môn Gotama, con trai dòng Sakya, xuất gia từ gia tộc Sakya... đang trú ở khu rừng Icchānaṅgala. Tiếng đồn tốt đẹp sau đây đã vang lên về Tôn giả Gotama: 'Ngài là Thế Tôn, bậc A-la-hán... hiển lộ *lối sống thanh tịnh* hoàn toàn viên mãn và thanh tịnh. Thật tốt đẹp thay khi được chiêm ngưỡng một vị A-la-hán như vậy.' Hãy đi, này con Ambaṭṭha, đến chỗ Sa-môn Gotama; sau khi đến, hãy tìm hiểu xem tiếng đồn vang lên về Tôn giả Gotama có đúng như vậy hay không đúng như vậy. Tôn giả Gotama có phải là người như vậy hay không phải là người như vậy, để chúng ta có thể biết rõ về Tôn giả Gotama."
@@ -34,8 +32,7 @@ Thanh niên Ambaṭṭha đi đến tịnh xá đang đóng cửa, yên lặng b
 Khi ấy, Thế Tôn nói với thanh niên Ambaṭṭha: "Này Ambaṭṭha, có phải đây là cách cậu đàm đạo với các bà-la-môn trưởng thượng, lớn tuổi, các bậc thầy và tổ sư của cậu, giống như cách cậu vừa đi vừa đứng để nói những lời thân hữu và lịch sự với ta đang ngồi không?"
 
 <!--pg-->
-### 2.1. Lời chê bai thứ nhất (Paṭhamaibbhavāda)
-
+### 2.1. Lời chê bai thứ nhất (Paṭhamaibbhavāda){#2.1}
 "Không phải vậy, này Gotama. Khi đi, một bà-la-môn nên đàm đạo với một bà-la-môn đang đi; khi đứng, một bà-la-môn nên đàm đạo với một bà-la-môn đang đứng; khi ngồi, một bà-la-môn nên đàm đạo với một bà-la-môn đang ngồi; khi nằm, một bà-la-môn nên đàm đạo với một bà-la-môn đang nằm. Nhưng đối với những kẻ trọc đầu, những sa-môn giả danh, những kẻ thấp hèn, đen đúa, sinh ra từ gót chân của Phạm thiên, thì tôi đàm đạo với họ giống hệt như cách tôi đang làm với Tôn giả Gotama vậy."
 
 "Này Ambaṭṭha, cậu đến đây vì có việc cần. Hãy chú tâm cẩn thận vào chính mục đích mà cậu đã đến. Thanh niên Ambaṭṭha này thiếu giáo dục nhưng lại tự kiêu cho rằng mình có học, điều này có nguyên nhân nào khác ngoài việc chưa học?"
@@ -44,16 +41,14 @@ Khi ấy, thanh niên Ambaṭṭha bị Thế Tôn gọi là người thiếu gi
 
 Như vậy, thanh niên Ambaṭṭha đã buông lời chê bai thứ nhất nhắm vào dòng dõi Sakya là những kẻ thấp hèn.
 
-### 2.2. Lời chê bai thứ hai (Dutiyaibbhavāda)
-
+### 2.2. Lời chê bai thứ hai (Dutiyaibbhavāda){#2.2}
 "Nhưng này Ambaṭṭha, những người Sakya đã làm gì xúc phạm đến cậu?"
 
 "Này Gotama, có một lần tôi đi đến Kapilavatthu vì một công việc của thầy tôi là bà-la-môn Pokkharasāti. Tôi đi đến hội trường của dòng dõi Sakya. Lúc bấy giờ, có rất nhiều người Sakya và các thanh niên Sakya đang ngồi trên những chỗ ngồi cao trong hội trường, họ dùng ngón tay chọc lét nhau, cười đùa, trêu chọc, và dường như họ đang cười nhạo chính tôi, không một ai mời tôi một chỗ ngồi. Gotama, thật không đúng đắn, thật không thích hợp khi những người Sakya này, dù là những kẻ thấp hèn... lại không lễ phép với các bà-la-môn."
 
 Như vậy, thanh niên Ambaṭṭha đã buông lời chê bai thứ hai nhắm vào dòng dõi Sakya là những kẻ thấp hèn.
 
-### 2.3. Lời chê bai thứ ba (Tatiyaibbhavāda)
-
+### 2.3. Lời chê bai thứ ba (Tatiyaibbhavāda){#2.3}
 "Này Ambaṭṭha, ngay cả con chim cút cái cũng có thể hót tự do trong cái tổ của nó. Này Ambaṭṭha, Kapilavatthu là nhà của người Sakya. Cậu Ambaṭṭha không nên tức giận vì một chuyện nhỏ nhặt như vậy."
 
 "Này Gotama, có bốn giai cấp: Sát-đế-lỵ (Khattiya), Bà-la-môn (Brāhmaṇa), Phệ-xá (Vessa) và Thủ-đà-la (Sudda). Gotama, trong bốn giai cấp này, ba giai cấp—Sát-đế-lỵ, Phệ-xá và Thủ-đà-la—thực chất chỉ là những người phục vụ cho giai cấp Bà-la-môn. Này Gotama, thật không đúng đắn, thật không thích hợp khi những người Sakya này, dù là những kẻ thấp hèn... lại không lễ phép với các bà-la-môn."
@@ -61,8 +56,7 @@ Như vậy, thanh niên Ambaṭṭha đã buông lời chê bai thứ hai nhắm
 Như vậy, thanh niên Ambaṭṭha đã buông lời chê bai thứ ba nhắm vào dòng dõi Sakya là những kẻ thấp hèn.
 
 <!--pg-->
-### 2.4. Lời bàn về con của nữ tỳ (Dāsiputtavāda)
-
+### 2.4. Lời bàn về con của nữ tỳ (Dāsiputtavāda){#2.4}
 Khi ấy, Thế Tôn nghĩ: "Thanh niên Ambaṭṭha này đang lăng mạ dòng dõi Sakya quá đáng bằng cách gọi họ là những kẻ thấp hèn. Ta nên hỏi về dòng dõi của cậu ta."
 
 Thế Tôn nói với thanh niên Ambaṭṭha: "Này Ambaṭṭha, cậu thuộc dòng dõi nào?"
@@ -106,8 +100,7 @@ Khi ấy, thanh niên Ambaṭṭha hoảng sợ, kinh hãi, lông tóc dựng ng
 "Thưa Tôn giả Gotama, tôi đã nghe đúng như những gì Tôn giả Gotama vừa nói. Đó là nguồn gốc của dòng dõi Kaṇhāyana; và người đó là tổ tiên của dòng dõi Kaṇhāyana."
 
 <!--pg-->
-### 2.5. Câu chuyện về dòng dõi Ambaṭṭha (Ambaṭṭhavaṁsakathā)
-
+### 2.5. Câu chuyện về dòng dõi Ambaṭṭha (Ambaṭṭhavaṁsakathā){#2.5}
 Khi nghe nói vậy, các thanh niên khác ồn ào, lớn tiếng la lên: "Hóa ra thanh niên Ambaṭṭha sinh ra trong gia đình thấp kém; hóa ra thanh niên Ambaṭṭha không phải con nhà gia thế; hóa ra thanh niên Ambaṭṭha là con của một nữ tỳ của người Sakya. Hóa ra người Sakya là những người chủ của thanh niên Ambaṭṭha. Vậy mà chúng ta lại nghĩ rằng có thể chê bai Sa-môn Gotama, người đang nói lên sự thật!"
 
 Khi ấy, Thế Tôn nghĩ: "Những thanh niên này đang lăng mạ thanh niên Ambaṭṭha quá đáng bằng cách gọi cậu ta là con của nữ tỳ. Ta nên giải vây cho cậu ta."
@@ -135,8 +128,7 @@ Vua Okkāka liền nhắm mũi tên vào vị hoàng tử lớn nhất, hoàng t
 Này các thanh niên, đừng lăng mạ thanh niên Ambaṭṭha quá đáng bằng cách gọi cậu ta là con của nữ tỳ. Kaṇha đó đã trở thành một vị đại tiên."
 
 <!--pg-->
-## 3. Sự tối thắng của giai cấp Sát-đế-lỵ (Khattiyaseṭṭhabhāva)
-
+## 3. Sự tối thắng của giai cấp Sát-đế-lỵ (Khattiyaseṭṭhabhāva){#3}
 Rồi Thế Tôn nói với thanh niên Ambaṭṭha: "Cậu nghĩ thế nào, này Ambaṭṭha? Giả sử một chàng trai Sát-đế-lỵ kết hôn với một cô gái Bà-la-môn, và từ cuộc hôn nhân đó một đứa con trai được sinh ra. Đứa con trai sinh ra từ chàng trai Sát-đế-lỵ và cô gái Bà-la-môn đó, liệu có được các bà-la-môn mời ngồi hoặc mời nước không?"
 
 "Có, thưa Tôn giả Gotama."
@@ -226,8 +218,7 @@ Này Ambaṭṭha, bài kệ này của Phạm thiên Sanaṅkumāra được h�
 Kết thúc phần tụng thứ nhất.
 
 <!--pg-->
-## 4. Bàn về Hiểu biết và Đạo đức (Vijjācaraṇakathā)
-
+## 4. Bàn về Hiểu biết và Đạo đức (Vijjācaraṇakathā){#4}
 "Nhưng thưa Tôn giả Gotama, đạo đức đó là gì, và hiểu biết đó là gì?"
 
 "Này Ambaṭṭha, trong sự thành tựu vô thượng về hiểu biết và đạo đức, không có chỗ cho việc bàn luận về giai cấp, không có chỗ cho việc bàn luận về dòng dõi, không có chỗ cho việc bàn luận về sự kiêu hãnh như: 'Ngài xứng đáng với tôi, hay ngài không xứng đáng với tôi'. Này Ambaṭṭha, ở đâu có việc gả chồng, cưới vợ, hay cả gả chồng và cưới vợ, ở đó mới có việc bàn luận về giai cấp, bàn luận về dòng dõi, bàn luận về sự kiêu hãnh: 'Ngài xứng đáng với tôi, hay ngài không xứng đáng với tôi'. Này Ambaṭṭha, những ai còn bị trói buộc bởi việc bàn luận về giai cấp, bàn luận về dòng dõi, bàn luận về sự kiêu hãnh, hay bàn luận về việc gả chồng cưới vợ, thì họ còn ở rất xa sự thành tựu vô thượng về hiểu biết và đạo đức. Chỉ khi *hoàn toàn từ bỏ* (xả / pahānā) sự trói buộc vào việc bàn luận về giai cấp, dòng dõi, kiêu hãnh và gả chồng cưới vợ, thì mới có thể chứng ngộ sự thành tựu vô thượng về hiểu biết và đạo đức."
@@ -249,8 +240,7 @@ Với tâm được định tĩnh, thanh tịnh, trong sáng, không tì vết, 
 Này Ambaṭṭha, vị tỳ kheo này được gọi là 'người đầy đủ hiểu biết', cũng gọi là 'người đầy đủ đạo đức', cũng gọi là 'người *đầy đủ hiểu biết và đạo đức*'. Và này Ambaṭṭha, không có sự thành tựu về hiểu biết và đạo đức nào khác cao thượng hơn hay thù thắng hơn sự thành tựu về hiểu biết và đạo đức này.
 
 <!--pg-->
-## 5. Bốn cánh cửa dẫn đến thất bại (Catuapāyamukha)
-
+## 5. Bốn cánh cửa dẫn đến thất bại (Catuapāyamukha){#5}
 Này Ambaṭṭha, đối với sự thành tựu vô thượng về hiểu biết và đạo đức này, có bốn cánh cửa dẫn đến sự thất bại. Bốn cánh cửa đó là gì? Ở đây, này Ambaṭṭha, có một sa-môn hay bà-la-môn không thể đạt được sự thành tựu vô thượng về hiểu biết và đạo đức này, liền mang theo một cái đòn gánh đi sâu vào rừng sâu, nghĩ rằng: 'Ta sẽ sống bằng những trái cây rụng.' Người đó thực chất chỉ trở thành người phục vụ cho người *đầy đủ hiểu biết và đạo đức*. Này Ambaṭṭha, đây là cánh cửa thất bại thứ nhất đối với sự thành tựu vô thượng về hiểu biết và đạo đức.
 
 Lại nữa, này Ambaṭṭha, có một sa-môn hay bà-la-môn không thể đạt được sự thành tựu vô thượng về hiểu biết và đạo đức này, và cũng không thể sống bằng trái cây rụng, liền mang theo một cái cuốc và giỏ đi sâu vào rừng sâu, nghĩ rằng: 'Ta sẽ sống bằng củ, rễ và trái cây.' Người đó thực chất chỉ trở thành người phục vụ cho người *đầy đủ hiểu biết và đạo đức*. Này Ambaṭṭha, đây là cánh cửa thất bại thứ hai đối với sự thành tựu vô thượng về hiểu biết và đạo đức.
@@ -282,8 +272,7 @@ Cậu nghĩ thế nào, này Ambaṭṭha? Cậu và thầy của cậu có th�
 "Như vậy, này Ambaṭṭha, cậu và thầy của cậu đã hoàn toàn thiếu vắng sự thành tựu vô thượng về hiểu biết và đạo đức này. Và ngay cả bốn cánh cửa dẫn đến sự thất bại đối với sự thành tựu vô thượng về hiểu biết và đạo đức này, cậu và thầy của cậu cũng thiếu vắng. Vậy mà thầy của cậu, bà-la-môn Pokkharasāti, lại thốt ra những lời này: 'Những kẻ trọc đầu, những sa-môn giả danh, những kẻ thấp hèn, đen đúa, sinh ra từ gót chân của Phạm thiên là ai, mà lại dám đàm đạo với các bà-la-môn thông thạo ba bộ Veda?', trong khi chính ông ta còn không thực hành nổi những điều dẫn đến sự thất bại. Hãy xem, này Ambaṭṭha, lỗi lầm của thầy cậu, bà-la-môn Pokkharasāti, lớn đến mức nào.
 
 <!--pg-->
-## 6. Bàn về việc noi gương các vị tiên nhân thuở xưa (Pubbakaisibhāvānuyoga)
-
+## 6. Bàn về việc noi gương các vị tiên nhân thuở xưa (Pubbakaisibhāvānuyoga){#6}
 Này Ambaṭṭha, bà-la-môn Pokkharasāti đang thọ hưởng tài sản do vua Pasenadi nước Kosala ban tặng. Nhưng vua Pasenadi nước Kosala thậm chí không cho phép ông ta nhìn thấy mặt mình. Ngay cả khi nhà vua bàn bạc với ông ta, nhà vua cũng bàn bạc qua một bức màn che. Này Ambaṭṭha, làm sao vua Pasenadi nước Kosala lại không cho phép một người mà mình đã ban tặng thức ăn hợp pháp được nhìn thấy mặt mình? Hãy xem, này Ambaṭṭha, lỗi lầm của thầy cậu, bà-la-môn Pokkharasāti, lớn đến mức nào.
 
 Cậu nghĩ thế nào, này Ambaṭṭha? Giả sử vua Pasenadi nước Kosala đang ngồi trên cổ voi, hoặc ngồi trên lưng ngựa, hoặc đứng trên xe ngựa, và bàn bạc một kế hoạch nào đó với các quan đại thần hoặc hoàng thân. Sau đó, nhà vua rời khỏi nơi đó và đứng sang một bên. Rồi một người Thủ-đà-la hoặc một nô lệ Thủ-đà-la đi đến nơi đó, đứng đúng vào vị trí đó và lặp lại kế hoạch ấy: 'Vua Pasenadi nước Kosala đã nói thế này, vua Pasenadi nước Kosala đã nói thế kia.' Liệu việc người đó nói lại lời của nhà vua hoặc lặp lại kế hoạch của nhà vua có làm cho người đó trở thành nhà vua hay một vị quan tương đương nhà vua không?"
@@ -315,8 +304,7 @@ Cậu nghĩ thế nào, này Ambaṭṭha? Cậu đã nghe các bà-la-môn trư
 "Như vậy, này Ambaṭṭha, cậu và thầy của cậu không phải là tiên nhân, cũng không phải đang thực hành con đường của tiên nhân. Này Ambaṭṭha, bất cứ ai có sự nghi ngờ hay thắc mắc nào về ta, người đó hãy hỏi, và ta sẽ làm sáng tỏ bằng câu trả lời của mình."
 
 <!--pg-->
-## 7. Thấy hai dấu hiệu (Dvelakkhaṇādassana)
-
+## 7. Thấy hai dấu hiệu (Dvelakkhaṇādassana){#7}
 Khi ấy, Thế Tôn rời khỏi tịnh xá và bắt đầu đi kinh hành. Thanh niên Ambaṭṭha cũng rời khỏi tịnh xá và đi kinh hành theo sau. Trong khi đi theo sau Thế Tôn đang kinh hành, thanh niên Ambaṭṭha quan sát ba mươi hai *dấu hiệu của bậc vĩ nhân* trên cơ thể Thế Tôn. Thanh niên Ambaṭṭha nhìn thấy hầu hết ba mươi hai *dấu hiệu của bậc vĩ nhân* trên cơ thể Thế Tôn, ngoại trừ hai dấu hiệu. Về hai *dấu hiệu của bậc vĩ nhân* này, cậu nghi ngờ, thắc mắc, không tin tưởng, không hài lòng—đó là mã âm tàng (bộ phận sinh dục ẩn trong bọc) và tướng lưỡi rộng dài.
 
 Khi ấy, Thế Tôn nghĩ: "Thanh niên Ambaṭṭha này đã nhìn thấy hầu hết ba mươi hai *dấu hiệu của bậc vĩ nhân* của ta, ngoại trừ hai dấu hiệu. Về hai *dấu hiệu của bậc vĩ nhân* này, cậu ta nghi ngờ, thắc mắc, không tin tưởng, không hài lòng—đó là mã âm tàng và tướng lưỡi rộng dài." Rồi Thế Tôn vận dụng thần thông sao cho thanh niên Ambaṭṭha có thể nhìn thấy mã âm tàng của Thế Tôn. Sau đó, Thế Tôn thè lưỡi ra, chạm và vuốt ve cả hai lỗ tai, chạm và vuốt ve cả hai lỗ mũi, và dùng lưỡi che kín toàn bộ vầng trán.
@@ -346,8 +334,7 @@ Lúc bấy giờ, bà-la-môn Pokkharasāti đã rời khỏi Ukkaṭṭha cùng
 Khi nghe xong, bà-la-môn Pokkharasāti nói với thanh niên Ambaṭṭha: "Ôi, thật là một kẻ tự xưng là trí tuệ của chúng ta! Ôi, thật là một kẻ tự xưng là học rộng của chúng ta! Ôi, thật là một kẻ tự xưng là thông thạo ba bộ Veda của chúng ta! Với một người hành động như vậy, sau khi thân hoại mạng chung, hắn sẽ rơi vào *cõi khổ* (ác thú / apāya), *nơi sa đọa* (đọa xứ / vinipāta), *địa ngục* (niraya). Chính vì con đã liên tục xúc phạm Tôn giả Gotama như vậy, nên Tôn giả Gotama mới liên tục vạch trần nguồn gốc của chúng ta như thế. Ôi, thật là một kẻ tự xưng là trí tuệ của chúng ta... sau khi thân hoại mạng chung, hắn sẽ rơi vào *cõi khổ*, *nơi sa đọa*, *địa ngục*." Tức giận và không hài lòng, ông dùng chân đá thanh niên Ambaṭṭha ngã lăn ra. Và ông muốn đi đến yết kiến Thế Tôn ngay lập tức.
 
 <!--pg-->
-## 8. Pokkharasāti đến yết kiến Đức Phật (Pokkharasātibuddhūpasaṅkamana)
-
+## 8. Pokkharasāti đến yết kiến Đức Phật (Pokkharasātibuddhūpasaṅkamana){#8}
 Khi ấy, các bà-la-môn nói với bà-la-môn Pokkharasāti: "Thưa ngài, hôm nay đã quá muộn để đi yết kiến Sa-môn Gotama. Ngày mai ngài Pokkharasāti hãy đi yết kiến Sa-môn Gotama."
 
 Rồi bà-la-môn Pokkharasāti sai chuẩn bị những thức ăn thượng hạng, loại cứng và loại mềm, tại nhà mình, chất lên xe, và dưới ánh đuốc sáng rực, ông rời khỏi Ukkaṭṭha, đi đến khu rừng Icchānaṅgala. Đi xe cho đến nơi nào xe còn đi được, ông xuống xe và đi bộ đến chỗ Thế Tôn. Sau khi đến, ông trao đổi những lời chào hỏi thân hữu và lịch sự với Thế Tôn, rồi ngồi xuống một bên. Khi đã ngồi xuống một bên, bà-la-môn Pokkharasāti nói với Thế Tôn: "Thưa Tôn giả Gotama, học trò của chúng tôi là thanh niên Ambaṭṭha có đến đây không?"
@@ -376,8 +363,7 @@ Khi biết Thế Tôn đã nhận lời, bà-la-môn Pokkharasāti thông báo t
 
 Khi bà-la-môn Pokkharasāti đã ngồi xuống một bên, Thế Tôn thuyết giảng tuần tự cho ông, đó là: giảng về bố thí, giảng về đạo đức, giảng về cõi trời; ngài chỉ rõ sự nguy hiểm, sự thấp kém và sự ô uế của *sự dễ chịu giác quan*, cùng với lợi ích của việc xuất ly. Khi Thế Tôn biết tâm của bà-la-môn Pokkharasāti đã sẵn sàng, mềm mỏng, không còn *sự làm Mờ Yếu* (triền cái / nīvaraṇa), phấn chấn và trong sáng, ngài liền tuyên thuyết *Điều* giảng dạy cốt tủy của chư Phật—đó là *đau khổ*, *sự hình thành* (tập / samudaya), *sự chấm dứt* (diệt / nirodha), và *con đường* (đạo / magga). Giống như một tấm vải sạch, không có vết đen, sẽ dễ dàng thấm hút thuốc nhuộm; cũng vậy, ngay tại chỗ ngồi đó, *mắt thấy quy luật* (pháp nhãn / dhammacakkhu) không bụi bẩn, không tì vết đã phát sinh trong bà-la-môn Pokkharasāti: "Mọi *Điều* có bản chất *sự hình thành* đều có bản chất *sự chấm dứt*."
 
-## 9. Pokkharasāti tuyên bố trở thành cư sĩ (Pokkharasātiupāsakattapaṭivedanā)
-
+## 9. Pokkharasāti tuyên bố trở thành cư sĩ (Pokkharasātiupāsakattapaṭivedanā){#9}
 Khi ấy, bà-la-môn Pokkharasāti đã thấy *quy luật*, đạt được *quy luật*, hiểu rõ *quy luật*, thâm nhập *quy luật*, vượt qua mọi nghi ngờ, xua tan mọi thắc mắc, đạt được sự tự tin vô úy, không còn phụ thuộc vào ai khác trong giáo pháp của Bậc Đạo Sư, ông nói với Thế Tôn:
 
 "Thật tuyệt vời, thưa Tôn giả Gotama! Thật tuyệt vời, thưa Tôn giả Gotama! Giống như người dựng đứng lại những gì đã bị lật úp, phơi bày ra những gì đã bị che giấu, chỉ đường cho người bị lạc lối, hay cầm ngọn đèn sáng đi vào bóng tối để những ai có mắt có thể nhìn thấy hình sắc; cũng vậy, Tôn giả Gotama đã dùng nhiều phương tiện để làm sáng tỏ *quy luật*. Thưa Tôn giả Gotama, con cùng với con trai, vợ, tùy tùng và các quan đại thần xin quy y Tôn giả Gotama, quy y *quy luật* và quy y Tăng đoàn tỳ kheo. Xin Tôn giả Gotama nhận con làm cư sĩ, đã quy y từ hôm nay cho đến trọn đời.

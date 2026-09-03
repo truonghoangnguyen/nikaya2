@@ -3,8 +3,7 @@
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-005){target="_blank" class="note-link" }
 
 
-## 1. Các Bà-la-môn và gia chủ ở Khāṇumata (Khāṇumatakabrāhmaṇagahapatikā)
-
+## 1. Các Bà-la-môn và gia chủ ở Khāṇumata (Khāṇumatakabrāhmaṇagahapatikā){#1}
 Tôi đã nghe như vầy—Một thời, Thế Tôn đang du hành trong xứ Magadha cùng với một đại chúng tỳ kheo khoảng năm trăm vị, ngài đi đến một ngôi làng Bà-la-môn của xứ Magadha tên là Khāṇumata. Tại đó, Thế Tôn trú ở Khāṇumata, trong khu vườn Ambalaṭṭhikā.
 
 Lúc bấy giờ, Bà-la-môn Kūṭadanta đang cai quản Khāṇumata, một nơi đông đúc dân cư, nhiều cỏ cây, củi, nước và lúa gạo, là một thái ấp hoàng gia do vua Magadha là Seniya Bimbisāra ban tặng như một phần thưởng thiêng liêng. Lúc bấy giờ, một lễ tế (tế đàn / yañña) lớn đang được Bà-la-môn Kūṭadanta chuẩn bị. Bảy trăm con bò đực, bảy trăm con bò tơ, bảy trăm con bò cái tơ, bảy trăm con dê và bảy trăm con cừu đã được đưa đến cột buộc để chuẩn bị cho lễ tế.
@@ -26,8 +25,7 @@ Rồi Bà-la-môn Kūṭadanta gọi người quản gia: "Này quản gia, vậ
 "Vâng, thưa tôn giả," người quản gia đáp lời Bà-la-môn Kūṭadanta, rồi đi đến chỗ các Bà-la-môn và gia chủ ở Khāṇumata, và truyền đạt lại lời nhắn.
 
 <!--pg-->
-## 2. Lời ca ngợi phẩm chất của Kūṭadanta (Kūṭadantaguṇakathā)
-
+## 2. Lời ca ngợi phẩm chất của Kūṭadanta (Kūṭadantaguṇakathā){#2}
 Lúc bấy giờ, có hàng trăm Bà-la-môn đang lưu trú tại Khāṇumata với ý định: "Chúng ta sẽ tham dự lễ tế lớn của Bà-la-môn Kūṭadanta." Các Bà-la-môn này nghe tin: "Bà-la-môn Kūṭadanta sẽ đi đến để chiêm ngưỡng sa-môn Gotama." Họ liền đi đến chỗ Bà-la-môn Kūṭadanta và hỏi:
 
 "Có thật là tôn giả Kūṭadanta sẽ đi đến để chiêm ngưỡng sa-môn Gotama không?"
@@ -59,8 +57,7 @@ Bởi vì tôn giả Kūṭadanta được Bà-la-môn Pokkharasāti tôn trọn
 Bởi vì tôn giả Kūṭadanta đang cai quản Khāṇumata, một nơi đông đúc dân cư, nhiều cỏ cây, củi, nước và lúa gạo, là một thái ấp hoàng gia do vua Magadha là Seniya Bimbisāra ban tặng như một phần thưởng thiêng liêng. Với lý do này, tôn giả Kūṭadanta không đáng phải đi đến chiêm ngưỡng sa-môn Gotama. Chính sa-môn Gotama mới đáng phải đi đến chiêm ngưỡng tôn giả Kūṭadanta."
 
 <!--pg-->
-## 3. Lời ca ngợi phẩm chất của Đức Phật (Buddhaguṇakathā)
-
+## 3. Lời ca ngợi phẩm chất của Đức Phật (Buddhaguṇakathā){#3}
 Khi được nói như vậy, Bà-la-môn Kūṭadanta nói với các Bà-la-môn kia:
 
 "Vậy thì, thưa các tôn giả, hãy nghe ta nói vì sao chính chúng ta mới đáng đi đến chiêm ngưỡng tôn giả Gotama, và tôn giả Gotama không đáng phải đi đến chiêm ngưỡng chúng ta. Thưa các tôn giả, sa-môn Gotama có huyết thống tốt đẹp từ cả hai phía nội ngoại, dòng dõi thanh tịnh cho đến bảy đời tổ tiên, không bị chê trách hay gièm pha về xuất thân. Với lý do này, tôn giả Gotama không đáng phải đi đến chiêm ngưỡng chúng ta. Chính chúng ta mới đáng đi đến chiêm ngưỡng tôn giả Gotama.
@@ -126,8 +123,7 @@ Khi được nói như vậy, các Bà-la-môn nói với Bà-la-môn Kūṭadan
 "Vậy thì, thưa các tôn giả, tất cả chúng ta hãy cùng đi đến chiêm ngưỡng sa-môn Gotama."
 
 <!--pg-->
-## 4. Câu chuyện về lễ tế của vua Mahāvijita (Mahāvijitarājayaññakathā)
-
+## 4. Câu chuyện về lễ tế của vua Mahāvijita (Mahāvijitarājayaññakathā){#4}
 Sau đó, Bà-la-môn Kūṭadanta cùng với một nhóm đông các Bà-la-môn đi đến khu vườn Ambalaṭṭhikā, nơi Thế Tôn đang ngự. Khi đến nơi, ông chào hỏi Thế Tôn. Sau những lời chào hỏi thân thiện và lịch sự, ông ngồi xuống một bên. Các Bà-la-môn và gia chủ ở Khāṇumata cũng vậy: một số đảnh lễ Thế Tôn rồi ngồi xuống một bên; một số chào hỏi Thế Tôn, sau những lời chào hỏi thân thiện và lịch sự thì ngồi xuống một bên; một số chắp tay vái chào Thế Tôn rồi ngồi xuống một bên; một số xưng tên và dòng họ rồi ngồi xuống một bên; một số giữ im lặng và ngồi xuống một bên.
 
 Ngồi một bên, Bà-la-môn Kūṭadanta thưa với Thế Tôn: "Thưa tôn giả Gotama, tôi có nghe điều này: 'Sa-môn Gotama biết rõ ba phương diện và mười sáu *yếu tố phụ trợ* của một lễ tế'. Tôi thì không biết ba phương diện và mười sáu *yếu tố phụ trợ*. Nhưng tôi lại muốn tổ chức một lễ tế lớn. Thật tốt đẹp thay nếu tôn giả Gotama giảng cho tôi về ba phương diện và mười sáu *yếu tố phụ trợ* của lễ tế."
@@ -149,15 +145,13 @@ Tuy nhiên, áp dụng kế sách sau, *mối đe dọa từ giặc cướp* s�
 Sau đó, vua Mahāvijita gọi vị tế sư Bà-la-môn đến và nói: '*Mối đe dọa từ giặc cướp* đã được dẹp yên, nhờ kế sách của ngài mà nguồn thu của ta tăng lên lớn mạnh. Quốc gia được an bình, không còn loạn lạc và áp bức. Con người vui vẻ, hân hoan, bế con trước ngực nhảy múa, và sống trong những ngôi nhà mở toang cửa. Này Bà-la-môn, ta muốn tổ chức một lễ tế lớn. Xin ngài hãy hướng dẫn ta cách làm sao để mang lại lợi ích và hạnh phúc lâu dài cho ta'.
 
 <!--pg-->
-### 4.1. Bốn yếu tố phụ trợ (Catuparikkhāra)
-
+### 4.1. Bốn yếu tố phụ trợ (Catuparikkhāra){#4.1}
 'Vậy thì bệ hạ hãy mời các Sát-đế-lỵ chư hầu, các quan chức và dân chúng trong quốc gia của bệ hạ và nói: "Thưa quý vị, ta muốn tổ chức một lễ tế lớn, xin quý vị hãy chấp thuận để mang lại lợi ích và hạnh phúc lâu dài cho ta". Bệ hạ hãy mời các đại thần, hội đồng cố vấn, quan chức và dân chúng... các Bà-la-môn đại gia chủ, quan chức và dân chúng... các gia chủ giàu có, quan chức và dân chúng, và nói: "Thưa quý vị, ta muốn tổ chức một lễ tế lớn, xin quý vị hãy chấp thuận để mang lại lợi ích và hạnh phúc lâu dài cho ta"'.
 
 'Được, thưa ngài,' này Bà-la-môn, vua Mahāvijita đồng ý với vị tế sư Bà-la-môn. Vua mời các Sát-đế-lỵ chư hầu, quan chức và dân chúng và nói: 'Thưa quý vị, ta muốn tổ chức một lễ tế lớn, xin quý vị hãy chấp thuận để mang lại lợi ích và hạnh phúc lâu dài cho ta'. Họ đáp: 'Xin bệ hạ hãy tổ chức lễ tế, đã đến lúc tổ chức lễ tế, tâu đại vương'. Vua mời các đại thần, hội đồng cố vấn... các Bà-la-môn đại gia chủ... các gia chủ giàu có... và nói: 'Thưa quý vị, ta muốn tổ chức một lễ tế lớn. Xin quý vị hãy chấp thuận để mang lại lợi ích và hạnh phúc lâu dài cho ta'. Họ đáp: 'Xin bệ hạ hãy tổ chức lễ tế, đã đến lúc tổ chức lễ tế, tâu đại vương'. Bốn nhóm đồng thuận này chính là các *yếu tố phụ trợ* của lễ tế đó.
 
 <!--pg-->
-### 4.2. Tám yếu tố phụ trợ (Aṭṭhaparikkhāra)
-
+### 4.2. Tám yếu tố phụ trợ (Aṭṭhaparikkhāra){#4.2}
 Vua Mahāvijita được trang bị tám phẩm chất sau đây:
 
 Có huyết thống tốt đẹp từ cả hai phía nội ngoại, dòng dõi thanh tịnh cho đến bảy đời tổ tiên, không bị chê trách hay gièm pha về xuất thân;
@@ -177,8 +171,7 @@ Là người thông thái, sáng suốt, có trí tuệ, có khả năng suy xé
 Vua Mahāvijita được trang bị tám phẩm chất này. Tám phẩm chất này cũng chính là các *yếu tố phụ trợ* của lễ tế đó.
 
 <!--pg-->
-### 4.3. Bốn yếu tố phụ trợ (Catuparikkhāra)
-
+### 4.3. Bốn yếu tố phụ trợ (Catuparikkhāra){#4.3}
 Vị tế sư Bà-la-môn được trang bị bốn phẩm chất—
 
 Có huyết thống tốt đẹp từ cả hai phía nội ngoại, dòng dõi thanh tịnh cho đến bảy đời tổ tiên, không bị chê trách hay gièm pha về xuất thân;
@@ -192,15 +185,13 @@ Là người thông thái, sáng suốt, có trí tuệ, là người đứng th
 Vị tế sư Bà-la-môn được trang bị bốn phẩm chất này. Bốn phẩm chất này cũng chính là các *yếu tố phụ trợ* của lễ tế đó.
 
 <!--pg-->
-### 4.4. Ba phương diện (Tissovidhā)
-
+### 4.4. Ba phương diện (Tissovidhā){#4.4}
 Sau đó, này Bà-la-môn, vị tế sư Bà-la-môn đã chỉ ra ba phương diện cho vua Mahāvijita trước khi lễ tế diễn ra. 'Có thể bệ hạ sẽ có *sự phiền muộn* (trạo hối / vippaṭisāra) khi muốn tổ chức đại lễ tế: "Một khối tài sản lớn của ta sẽ bị tiêu hao", bệ hạ không nên có *sự phiền muộn* đó. Có thể bệ hạ sẽ có *sự phiền muộn* trong khi đang tổ chức đại lễ tế: "Một khối tài sản lớn của ta đang bị tiêu hao", bệ hạ không nên có *sự phiền muộn* đó. Có thể bệ hạ sẽ có *sự phiền muộn* sau khi đã tổ chức xong đại lễ tế: "Một khối tài sản lớn của ta đã bị tiêu hao", bệ hạ không nên có *sự phiền muộn* đó'.
 
 Này Bà-la-môn, đây là ba phương diện mà vị tế sư Bà-la-môn đã chỉ ra cho vua Mahāvijita trước khi lễ tế diễn ra.
 
 <!--pg-->
-### 4.5. Mười đặc điểm (Dasaākāra)
-
+### 4.5. Mười đặc điểm (Dasaākāra){#4.5}
 Sau đó, này Bà-la-môn, vị tế sư Bà-la-môn đã xua tan *sự phiền muộn* của vua Mahāvijita đối với những người nhận lễ vật bằng mười đặc điểm trước khi lễ tế diễn ra.
 
 'Sẽ có những người sát sinh và những người từ bỏ sát sinh đến dự lễ tế của bệ hạ. Những người sát sinh thì tự họ chịu trách nhiệm. Còn đối với những người từ bỏ sát sinh, bệ hạ hãy vì họ mà tổ chức lễ tế, hãy hoan hỷ, hãy vui mừng, và hãy làm cho nội tâm mình được trong sáng.
@@ -210,8 +201,7 @@ Sẽ có những người lấy của không cho và những người từ bỏ 
 Này Bà-la-môn, bằng mười đặc điểm này, vị tế sư Bà-la-môn đã xua tan *sự phiền muộn* của vua Mahāvijita đối với những người nhận lễ vật trước khi lễ tế diễn ra.
 
 <!--pg-->
-### 4.6. Mười sáu đặc điểm (Soḷasākāra)
-
+### 4.6. Mười sáu đặc điểm (Soḷasākāra){#4.6}
 Sau đó, này Bà-la-môn, vị tế sư Bà-la-môn đã khích lệ, khuyến khích, làm cho phấn chấn và làm cho hoan hỷ tâm của vua Mahāvijita khi đang tổ chức đại lễ tế bằng mười sáu đặc điểm:
 
 'Có thể có ai đó nói về bệ hạ khi đang tổ chức đại lễ tế: "Vua Mahāvijita tổ chức đại lễ tế, nhưng ngài không mời các Sát-đế-lỵ chư hầu, quan chức và dân chúng; vậy mà ngài lại tổ chức một đại lễ tế như thế". Lời nói đó về bệ hạ là không đúng sự thật. Vì bệ hạ đã mời các Sát-đế-lỵ chư hầu, quan chức và dân chúng. Bệ hạ hãy biết điều này, hãy tổ chức lễ tế, hãy hoan hỷ, hãy vui mừng, và hãy làm cho nội tâm mình được trong sáng.
@@ -253,8 +243,7 @@ Thưa các tôn giả, ta suy nghĩ thế này: 'Chắc chắn vào thời đi�
 "Này Bà-la-môn, ta *sự thấu hiểu trực tiếp* rằng sau khi tổ chức hoặc hướng dẫn một lễ tế như vậy, sau khi cơ thể tan rã, sau khi chết, sẽ được tái sinh vào cõi lành, thế giới thiên giới. Vào thời điểm đó, ta chính là vị tế sư Bà-la-môn, người hướng dẫn lễ tế đó."
 
 <!--pg-->
-## 5. Lễ tế thường xuyên (Niccadānaanukulayañña)
-
+## 5. Lễ tế thường xuyên (Niccadānaanukulayañña){#5}
 "Nhưng thưa tôn giả Gotama, có lễ tế nào khác ít khó khăn hơn, ít phiền phức hơn, mà lại mang lại quả báo lớn hơn và lợi ích lớn hơn lễ tế có ba phương diện và mười sáu *yếu tố phụ trợ* này không?"
 
 "Này Bà-la-môn, có một lễ tế khác ít khó khăn hơn, ít phiền phức hơn, mà lại mang lại quả báo lớn hơn và lợi ích lớn hơn lễ tế có ba phương diện và mười sáu *yếu tố phụ trợ* này."
@@ -310,15 +299,13 @@ Vị ấy hướng tâm và dẫn dắt tâm đến sự hiểu biết và thấ
 Vị ấy *thấy rõ* (tuệ tri / pajānāti): 'Không còn trạng thái nào khác sau trạng thái này nữa'. Này Bà-la-môn, đây cũng là lễ tế ít khó khăn hơn, ít phiền phức hơn, mà lại mang lại quả báo lớn hơn và lợi ích lớn hơn so với các lễ tế trước. Và này Bà-la-môn, không có sự hoàn hảo của lễ tế nào khác cao thượng hơn hay thù thắng hơn sự hoàn hảo của lễ tế này."
 
 <!--pg-->
-## 6. Kūṭadanta tuyên bố trở thành nam cư sĩ (Kūṭadantaupāsakattapaṭivedanā)
-
+## 6. Kūṭadanta tuyên bố trở thành nam cư sĩ (Kūṭadantaupāsakattapaṭivedanā){#6}
 Khi được nói như vậy, Bà-la-môn Kūṭadanta thưa với Thế Tôn: "Tuyệt vời thay, thưa tôn giả Gotama! Tuyệt vời thay, thưa tôn giả Gotama! Thưa tôn giả Gotama, giống như người dựng đứng lại những gì đã bị lật úp, phơi bày ra những gì đã bị che giấu, chỉ đường cho người bị lạc lối, hay cầm ngọn đèn sáng đi vào bóng tối để những ai có mắt có thể nhìn thấy hình ảnh; cũng vậy, *Điều* đã được tôn giả Gotama hiển lộ qua nhiều phương tiện. Con xin lấy tôn giả Gotama làm *nơi nương tựa*, lấy *Điều* dạy và Tăng chúng làm *nơi nương tựa*. Xin tôn giả Gotama hãy nhận con làm nam cư sĩ, đã đi đến *nơi nương tựa* từ hôm nay cho đến trọn đời.
 
 Thưa tôn giả Gotama, con xin phóng thích bảy trăm con bò đực, bảy trăm con bò tơ, bảy trăm con bò cái tơ, bảy trăm con dê và bảy trăm con cừu này, con ban cho chúng mạng sống. Hãy để chúng ăn cỏ xanh, uống nước mát, và để những làn gió mát thổi qua chúng."
 
 <!--pg-->
-## 7. Chứng ngộ quả Dự lưu (Sotāpattiphalasacchikiriyā)
-
+## 7. Chứng ngộ quả Dự lưu (Sotāpattiphalasacchikiriyā){#7}
 Sau đó, Thế Tôn đã thuyết giảng tuần tự cho Bà-la-môn Kūṭadanta, cụ thể là—ngài giảng về bố thí, giảng về *sống đạo đức*, giảng về cõi trời; ngài hiển lộ sự nguy hiểm, sự thấp hèn, sự *nhiễm bẩn* (phiền não / kilesa) của *sự dễ chịu giác quan*, và lợi ích của sự xuất ly. Khi Thế Tôn biết rằng tâm của Bà-la-môn Kūṭadanta đã sẵn sàng, mềm mỏng, không còn chướng ngại, phấn chấn và trong sáng, ngài liền hiển lộ bài giảng *Điều* đặc thù của chư Phật—*đau khổ* (khổ / dukkha), *sự hình thành* (tập / samudaya), *biến mất* (diệt / nirodha), con đường (đạo / magga). Giống như một tấm vải sạch, không có vết đen, sẽ dễ dàng thấm hút thuốc nhuộm một cách hoàn hảo; cũng vậy, ngay tại chỗ ngồi đó, mắt *Quy luật* (pháp nhãn / dhammacakkhu) không bụi bẩn, không tì vết đã khởi sinh trong Bà-la-môn Kūṭadanta: "Bất cứ điều gì mang *Quy luật* *sự hình thành* (tập pháp / samudayadhamma), tất cả điều đó đều mang *Quy luật* *biến mất* (diệt pháp / nirodhadhamma)."
 
 Khi ấy, Bà-la-môn Kūṭadanta đã thấy *Quy luật*, đạt được *Quy luật*, hiểu rõ *Quy luật*, thâm nhập *Quy luật*, vượt qua sự nghi ngờ, loại bỏ sự do dự, đạt được sự tự tin, không còn phụ thuộc vào người khác trong giáo pháp của Bậc Thầy, ông thưa với Thế Tôn: "Xin tôn giả Gotama cùng với Tăng chúng nhận lời mời dùng bữa của con vào ngày mai." Thế Tôn nhận lời bằng sự im lặng.

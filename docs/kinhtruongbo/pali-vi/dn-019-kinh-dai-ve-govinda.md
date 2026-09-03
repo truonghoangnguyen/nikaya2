@@ -7,8 +7,7 @@ Khi ấy, *nhạc thần* (Càn-thát-bà / gandhabba) Pañcasikha, khi đêm đ
 
 "Này Pañcasikha, hãy thuật lại cho ta," Thế Tôn nói.
 
-## 1. Hội chúng chư thiên (Devasabhā)
-
+## 1. Hội chúng chư thiên (Devasabhā){#1}
 "Bạch Thế Tôn, vào những ngày trước đây, rất lâu trước đây, vào ngày rằm Uposatha (Bố-tát), đêm trăng tròn ngày Tự tứ, toàn bộ chư thiên cõi Tāvatiṁsa đã ngồi tụ họp tại giảng đường Sudhammā; một hội chúng chư thiên đông đảo ngồi vây quanh, và Bốn vị Đại vương ngồi ở bốn hướng;
 
 Ở hướng Đông, Đại vương Dhataraṭṭha ngồi quay mặt về hướng Tây, có chư thiên ngồi phía trước; ở hướng Nam, Đại vương Virūḷhaka ngồi quay mặt về hướng Bắc, có chư thiên ngồi phía trước; ở hướng Tây, Đại vương Virūpakkha ngồi quay mặt về hướng Đông, có chư thiên ngồi phía trước; ở hướng Bắc, Đại vương Vessavaṇa ngồi quay mặt về hướng Nam, có chư thiên ngồi phía trước.
@@ -34,8 +33,7 @@ Khi ấy, bạch Thế Tôn, Thiên chủ Sakka (Đế Thích) biết được s
 Do điều đó, bạch Thế Tôn, chư thiên cõi Tāvatiṁsa lại càng thêm hoan hỷ, vui mừng, sinh lòng hân hoan thanh thản: 'Thật tuyệt vời, các thiên chúng đang được làm cho sung mãn, các a-tu-la chúng đang bị suy giảm.'
 
 <!--pg-->
-## 2. Tám lời ca ngợi đúng sự thật (Aṭṭhayathābhuccavaṇṇa)
-
+## 2. Tám lời ca ngợi đúng sự thật (Aṭṭhayathābhuccavaṇṇa){#2}
 Khi ấy, bạch Thế Tôn, Thiên chủ Sakka biết được sự hoan hỷ của chư thiên cõi Tāvatiṁsa, liền gọi chư thiên Tāvatiṁsa: 'Thưa các ngài, các ngài có muốn nghe tám *lời ca ngợi đúng sự thật* (như thật tán thán / yathābhuccavaṇṇa) về Thế Tôn không?'
 
 'Thưa ngài, chúng tôi muốn nghe tám *lời ca ngợi đúng sự thật* về Thế Tôn.'
@@ -77,8 +75,7 @@ Khi ấy, bạch Thế Tôn, ở hướng Bắc một ánh sáng rực rỡ sinh
 > Đây là dấu hiệu của Phạm thiên, vầng hào quang rộng lớn và vĩ đại.'
 
 <!--pg-->
-## 3. Câu chuyện của Sanaṅkumāra (Sanaṅkumārakathā)
-
+## 3. Câu chuyện của Sanaṅkumāra (Sanaṅkumārakathā){#3}
 Khi ấy, bạch Thế Tôn, chư thiên cõi Tāvatiṁsa ngồi xuống tại chỗ ngồi của mình: 'Chúng ta sẽ tìm hiểu vầng hào quang này, xem kết quả của nó sẽ là gì, sau khi chứng kiến tận mắt chúng ta mới rời đi.' Bốn vị Đại vương cũng ngồi xuống tại chỗ ngồi của mình: 'Chúng ta sẽ tìm hiểu vầng hào quang này, xem kết quả của nó sẽ là gì, sau khi chứng kiến tận mắt chúng ta mới rời đi.' Nghe vậy, chư thiên cõi Tāvatiṁsa tập trung tâm trí: 'Chúng ta sẽ tìm hiểu vầng hào quang này, xem kết quả của nó sẽ là gì, sau khi chứng kiến tận mắt chúng ta mới rời đi.'
 
 Bạch Thế Tôn, khi Phạm thiên Sanaṅkumāra xuất hiện trước chư thiên cõi Tāvatiṁsa, ngài hóa hiện ra một thân hình thô trược rồi mới xuất hiện. Bởi vì, bạch Thế Tôn, dung sắc tự nhiên của Phạm thiên là không thể chịu đựng nổi đối với tầm nhìn của chư thiên cõi Tāvatiṁsa. Bạch Thế Tôn, khi Phạm thiên Sanaṅkumāra xuất hiện trước chư thiên cõi Tāvatiṁsa, ngài chiếu sáng vượt trội hơn các chư thiên khác cả về dung sắc lẫn vinh quang. Giống như, bạch Thế Tôn, một hình dáng bằng vàng chiếu sáng vượt trội hơn một hình dáng con người; cũng vậy, bạch Thế Tôn, khi Phạm thiên Sanaṅkumāra xuất hiện trước chư thiên cõi Tāvatiṁsa, ngài chiếu sáng vượt trội hơn các chư thiên khác cả về dung sắc lẫn vinh quang. Bạch Thế Tôn, khi Phạm thiên Sanaṅkumāra xuất hiện trước chư thiên cõi Tāvatiṁsa, trong hội chúng đó không một vị chư thiên nào đảnh lễ, đứng dậy chào hay mời chỗ ngồi. Tất cả đều im lặng, chắp tay, ngồi kiết già với ý nghĩ: 'Bây giờ Phạm thiên Sanaṅkumāra muốn chỗ ngồi của vị chư thiên nào, ngài sẽ ngồi trên chỗ ngồi của vị chư thiên đó.' Bạch Thế Tôn, Phạm thiên Sanaṅkumāra ngồi trên chỗ ngồi của vị chư thiên nào, vị chư thiên đó nhận được sự hân hoan to lớn, vị chư thiên đó nhận được sự thanh thản to lớn. Giống như, bạch Thế Tôn, một vị vua Sát-đế-lỵ *được lễ rưới nước lên đầu* (quán đảnh / muddhāvasitta) mới lên ngôi, vị ấy nhận được sự hân hoan to lớn, nhận được sự thanh thản to lớn; cũng vậy, bạch Thế Tôn, Phạm thiên Sanaṅkumāra ngồi trên chỗ ngồi của vị chư thiên nào, vị chư thiên đó nhận được sự hân hoan to lớn, vị chư thiên đó nhận được sự thanh thản to lớn.
@@ -102,8 +99,7 @@ Bạch Thế Tôn, Phạm thiên Sanaṅkumāra đã nói lên ý nghĩa này. B
 Khi ấy, bạch Thế Tôn, chư thiên cõi Tāvatiṁsa thưa với Phạm thiên Sanaṅkumāra điều này: 'Lành thay, Đại Phạm thiên, chúng tôi hoan hỷ khi suy xét về điều này; và Thiên chủ Sakka cũng đã nói lên tám *lời ca ngợi đúng sự thật* về Thế Tôn; chúng tôi cũng hoan hỷ khi suy xét về những điều đó.'
 
 <!--pg-->
-## 4. Tám lời ca ngợi đúng sự thật (Aṭṭhayathābhuccavaṇṇa)
-
+## 4. Tám lời ca ngợi đúng sự thật (Aṭṭhayathābhuccavaṇṇa){#4}
 Khi ấy, bạch Thế Tôn, Phạm thiên Sanaṅkumāra thưa với Thiên chủ Sakka điều này: 'Lành thay, Thiên chủ, chúng tôi cũng muốn nghe tám *lời ca ngợi đúng sự thật* về Thế Tôn.'
 
 'Thưa vâng, Đại Phạm thiên,' bạch Thế Tôn, Thiên chủ Sakka liền tuyên bố tám *lời ca ngợi đúng sự thật* về Thế Tôn cho Phạm thiên Sanaṅkumāra nghe:
@@ -128,8 +124,7 @@ Thế Tôn đã vượt qua nghi ngờ, đã loại bỏ sự do dự, đã hoà
 Bạch Thế Tôn, Thiên chủ Sakka đã tuyên bố tám *lời ca ngợi đúng sự thật* về Thế Tôn cho Phạm thiên Sanaṅkumāra như vậy. Do điều đó, bạch Thế Tôn, Phạm thiên Sanaṅkumāra trở nên hoan hỷ, vui mừng, sinh lòng hân hoan thanh thản khi nghe tám *lời ca ngợi đúng sự thật* về Thế Tôn. Khi ấy, bạch Thế Tôn, Phạm thiên Sanaṅkumāra hóa hiện ra một thân hình thô trược, mang hình dáng của một đồng tử, xuất hiện dưới dạng *nhạc thần* Pañcasikha trước chư thiên cõi Tāvatiṁsa. Ngài bay lên không trung và ngồi kiết già giữa hư không. Giống như, bạch Thế Tôn, một người đàn ông lực lưỡng ngồi kiết già trên một chiếc giường được trải nệm êm ái hoặc trên một mặt đất bằng phẳng; cũng vậy, bạch Thế Tôn, Phạm thiên Sanaṅkumāra bay lên không trung, ngồi kiết già giữa hư không và gọi chư thiên cõi Tāvatiṁsa:
 
 <!--pg-->
-## 5. Câu chuyện Bà-la-môn Govinda (Govindabrāhmaṇavatthu)
-
+## 5. Câu chuyện Bà-la-môn Govinda (Govindabrāhmaṇavatthu){#5}
 'Chư thiên Tāvatiṁsa tôn kính nghĩ thế nào, Thế Tôn đã là người có trí tuệ vĩ đại từ rất lâu đời.
 
 Thuở xưa, thưa các ngài, có một vị vua tên là Disampati. Vua Disampati có một vị Bà-la-môn tên là Govinda làm quan tế tự (purohita). Vua Disampati có một người con trai tên là thái tử Reṇu. Bà-la-môn Govinda có một người con trai tên là thanh niên Jotipāla. Như vậy, thái tử Reṇu, thanh niên Jotipāla và sáu vị Sát-đế-lỵ khác, tổng cộng là tám người bạn thân thiết.
@@ -143,8 +138,7 @@ Khi được nói như vậy, thưa các ngài, thái tử Reṇu thưa với vu
 "Thật vậy, tâu phụ vương."
 
 <!--pg-->
-## 6. Câu chuyện Mahāgovinda (Mahāgovindavatthu)
-
+## 6. Câu chuyện Mahāgovinda (Mahāgovindavatthu){#6}
 Khi ấy, thưa các ngài, vua Disampati gọi một người hầu: "Này người hầu, hãy đến chỗ thanh niên Jotipāla; sau khi đến, hãy nói với thanh niên Jotipāla như vầy: 'Chúc ngài Jotipāla tốt lành, vua Disampati cho gọi ngài Jotipāla, vua Disampati muốn gặp ngài Jotipāla.'"
 
 "Thưa vâng, tâu đại vương," người hầu đó vâng lệnh vua Disampati, đi đến chỗ thanh niên Jotipāla; sau khi đến, nói với thanh niên Jotipāla điều này: "Chúc ngài Jotipāla tốt lành, vua Disampati cho gọi ngài Jotipāla, vua Disampati muốn gặp ngài Jotipāla." "Thưa vâng, bạn," thanh niên Jotipāla vâng lời người hầu đó, đi đến chỗ vua Disampati; sau khi đến, chào hỏi thân thiện với vua Disampati;
@@ -156,8 +150,7 @@ sau khi trao đổi những lời chào hỏi thân thiện và lịch sự, c�
 Khi ấy, thưa các ngài, vua Disampati phong thanh niên Jotipāla làm Govinda, đặt cậu vào vị trí của cha mình. Sau khi được phong làm Govinda và đặt vào vị trí của cha, những việc gì cha cậu từng khuyên bảo, cậu cũng khuyên bảo; những việc gì cha cậu không khuyên bảo, cậu cũng khuyên bảo; những công việc gì cha cậu từng hoàn thành, cậu cũng hoàn thành; những công việc gì cha cậu không hoàn thành, cậu cũng hoàn thành. Mọi người nói về cậu như vầy: "Thật là một Govinda, thưa các ngài, thật là một Mahāgovinda (Đại Govinda), thưa các ngài." Bằng cách này, thưa các ngài, danh xưng Mahāgovinda đã ra đời cho thanh niên Jotipāla.
 
 <!--pg-->
-### 6.1. Chia rẽ vương quốc (Rajjasaṁvibhajana)
-
+### 6.1. Chia rẽ vương quốc (Rajjasaṁvibhajana){#6.1}
 Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda đi đến chỗ sáu vị Sát-đế-lỵ kia; sau khi đến, nói với sáu vị Sát-đế-lỵ điều này: "Thưa các ngài, vua Disampati đã già yếu, cao tuổi, lớn tuổi, đã đi qua phần lớn cuộc đời, đã đến tuổi xế chiều, ai mà biết được mạng sống sẽ ra sao? Có khả năng là khi vua Disampati qua đời, các quan đại thần sẽ tôn thái tử Reṇu lên ngôi vua. Các ngài hãy đi đến chỗ thái tử Reṇu; sau khi đến, hãy nói với thái tử Reṇu như vầy: 'Chúng tôi là những người bạn thân thiết, yêu quý, vừa ý, không trái nghịch của ngài Reṇu; ngài vui thì chúng tôi vui, ngài buồn thì chúng tôi buồn. Thưa ngài, vua Disampati đã già yếu, cao tuổi, lớn tuổi, đã đi qua phần lớn cuộc đời, đã đến tuổi xế chiều, ai mà biết được mạng sống sẽ ra sao? Có khả năng là khi vua Disampati qua đời, các quan đại thần sẽ tôn ngài Reṇu lên ngôi vua. Nếu ngài Reṇu được làm vua, xin hãy chia sẻ vương quốc với chúng tôi.'"
 
 "Thưa vâng, bạn," sáu vị Sát-đế-lỵ vâng lời Bà-la-môn Mahāgovinda, đi đến chỗ thái tử Reṇu; sau khi đến, nói với thái tử Reṇu điều này: "Chúng tôi là những người bạn thân thiết, yêu quý, vừa ý, không trái nghịch của ngài Reṇu; ngài vui thì chúng tôi vui, ngài buồn thì chúng tôi buồn. Thưa ngài, vua Disampati đã già yếu... Có khả năng là khi vua Disampati qua đời, các quan đại thần sẽ tôn ngài Reṇu lên ngôi vua. Nếu ngài Reṇu được làm vua, xin hãy chia sẻ vương quốc với chúng tôi."
@@ -196,8 +189,7 @@ Khi ấy, thưa các ngài, sáu vị Sát-đế-lỵ vô cùng hoan hỷ với 
 Kết thúc phần tụng thứ nhất.
 
 <!--pg-->
-### 6.2. Tiếng tăm vang dội (Kittisaddaabbhuggamana)
-
+### 6.2. Tiếng tăm vang dội (Kittisaddaabbhuggamana){#6.2}
 Khi ấy, thưa các ngài, sáu vị Sát-đế-lỵ đi đến chỗ Bà-la-môn Mahāgovinda; sau khi đến, nói với Bà-la-môn Mahāgovinda điều này: "Như ngài Govinda là người bạn thân thiết, yêu quý, vừa ý, không trái nghịch của vua Reṇu. Cũng vậy, ngài Govinda cũng là người bạn thân thiết, yêu quý, vừa ý, không trái nghịch của chúng tôi, xin ngài Govinda hãy khuyên bảo chúng tôi; xin ngài Govinda đừng từ chối việc khuyên bảo."
 
 "Thưa vâng, các ngài," Bà-la-môn Mahāgovinda nhận lời sáu vị Sát-đế-lỵ đó. Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda làm cố vấn cho bảy vị vua Sát-đế-lỵ đã *được lễ rưới nước lên đầu*, và dạy chú thuật cho bảy vị Bà-la-môn đại gia cùng bảy trăm thanh niên đã tắm gội (những người đã hoàn thành việc học Vệ-đà).
@@ -223,8 +215,7 @@ Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda cho xây dựng một ngôi
 Rồi, thưa các ngài, khi bốn tháng đã trôi qua, Bà-la-môn Mahāgovinda cảm thấy chán nản, cảm thấy bồn chồn: "Tôi đã nghe điều này từ những vị Bà-la-môn trưởng lão, cao tuổi, các bậc thầy và tổ sư nói rằng: 'Ai trong bốn tháng mùa mưa sống ẩn cư, tu tập *Thiền-na* của *Tâm thông cảm*, người đó sẽ nhìn thấy Phạm thiên, đàm đạo với Phạm thiên, nói chuyện với Phạm thiên, thảo luận với Phạm thiên.' Nhưng tôi không hề nhìn thấy Phạm thiên, không đàm đạo với Phạm thiên, không nói chuyện với Phạm thiên, không thảo luận với Phạm thiên."
 
 <!--pg-->
-### 6.3. Đàm đạo với Phạm thiên (Brahmunāsākacchā)
-
+### 6.3. Đàm đạo với Phạm thiên (Brahmunāsākacchā){#6.3}
 Khi ấy, thưa các ngài, Phạm thiên Sanaṅkumāra biết được tâm tư của Bà-la-môn Mahāgovinda bằng tâm của mình — giống như một người đàn ông lực lưỡng duỗi cánh tay đang co lại, hoặc co cánh tay đang duỗi ra; cũng vậy — ngài biến mất khỏi cõi Phạm thiên và xuất hiện ngay trước mặt Bà-la-môn Mahāgovinda. Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda cảm thấy sợ hãi, cảm thấy kinh hoàng, cảm thấy sởn gai ốc khi nhìn thấy hình dáng chưa từng thấy đó. Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda sợ hãi, hoảng hốt, lông tóc dựng ngược, đã nói với Phạm thiên Sanaṅkumāra bằng vần kệ:
 
 > "Đầy dung sắc, vinh quang và uy nghi, ngài là ai thưa ngài;\
@@ -278,8 +269,7 @@ Nhưng về *mùi xú uế*, tôi không hiểu lời ngài nói.
 "Ngài Govinda hãy làm những gì ngài cho là đúng lúc."
 
 <!--pg-->
-### 6.4. Báo tin cho vua Reṇu (Reṇurājaāmantanā)
-
+### 6.4. Báo tin cho vua Reṇu (Reṇurājaāmantanā){#6.4}
 Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda đi đến chỗ vua Reṇu; sau khi đến, nói với vua Reṇu điều này: "Bây giờ xin ngài hãy tìm một vị quan tế tự khác, người sẽ khuyên bảo vương quốc của ngài. Thưa ngài, tôi muốn xuất gia từ bỏ gia đình sống không gia đình. Theo như tôi nghe Phạm thiên nói về *mùi xú uế*, những điều đó không dễ gì dập tắt khi còn sống trong gia đình. Thưa ngài, tôi sẽ xuất gia từ bỏ gia đình sống không gia đình."
 
 > "Tôi báo tin cho nhà vua, Reṇu chúa tể của đất đai;\
@@ -311,8 +301,7 @@ Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda đi đến chỗ vua Reṇu
 Nếu ngài Govinda xuất gia từ bỏ gia đình sống không gia đình, chúng tôi cũng sẽ xuất gia từ bỏ gia đình sống không gia đình. Khi đó ngài đi về đâu, chúng tôi sẽ đi về đó."
 
 <!--pg-->
-### 6.5. Báo tin cho sáu vị Sát-đế-lỵ (Chakhattiyaāmantanā)
-
+### 6.5. Báo tin cho sáu vị Sát-đế-lỵ (Chakhattiyaāmantanā){#6.5}
 Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda đi đến chỗ sáu vị Sát-đế-lỵ kia; sau khi đến, nói với sáu vị Sát-đế-lỵ điều này: "Bây giờ xin các ngài hãy tìm một vị quan tế tự khác, người sẽ khuyên bảo vương quốc của các ngài. Thưa các ngài, tôi muốn xuất gia từ bỏ gia đình sống không gia đình. Theo như tôi nghe Phạm thiên nói về *mùi xú uế*, những điều đó không dễ gì dập tắt khi còn sống trong gia đình. Thưa các ngài, tôi sẽ xuất gia từ bỏ gia đình sống không gia đình."
 
 Khi ấy, thưa các ngài, sáu vị Sát-đế-lỵ bước sang một bên và cùng suy nghĩ như vầy: "Những người Bà-la-môn này vốn tham tiền; hay là chúng ta dùng tiền bạc để giữ Bà-la-môn Mahāgovinda lại."
@@ -348,8 +337,7 @@ Họ đi đến chỗ Bà-la-môn Mahāgovinda và nói như vầy: "Thưa ngài
 "Bảy ngày thì không lâu, thưa các ngài, tôi sẽ đợi các ngài bảy ngày."
 
 <!--pg-->
-### 6.6. Báo tin cho các Bà-la-môn đại gia (Brāhmaṇamahāsālādīnaṁāmantanā)
-
+### 6.6. Báo tin cho các Bà-la-môn đại gia (Brāhmaṇamahāsālādīnaṁāmantanā){#6.6}
 Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda đi đến chỗ bảy vị Bà-la-môn đại gia và bảy trăm thanh niên đã tắm gội; sau khi đến, nói với họ điều này: "Bây giờ xin các ngài hãy tìm một vị thầy khác, người sẽ dạy chú thuật cho các ngài. Thưa các ngài, tôi muốn xuất gia từ bỏ gia đình sống không gia đình. Theo như tôi nghe Phạm thiên nói về *mùi xú uế*. Những điều đó không dễ gì dập tắt khi còn sống trong gia đình, thưa các ngài, tôi sẽ xuất gia từ bỏ gia đình sống không gia đình."
 
 "Xin ngài Govinda đừng xuất gia từ bỏ gia đình sống không gia đình. Thưa ngài, sự xuất gia thì ít quyền lực và ít lợi lộc; còn địa vị Bà-la-môn thì nhiều quyền lực và nhiều lợi lộc."
@@ -359,15 +347,13 @@ Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda đi đến chỗ bảy vị
 "Nếu ngài Govinda xuất gia từ bỏ gia đình sống không gia đình, chúng tôi cũng sẽ xuất gia từ bỏ gia đình sống không gia đình, khi đó ngài đi về đâu, chúng tôi sẽ đi về đó."
 
 <!--pg-->
-### 6.7. Báo tin cho các người vợ (Bhariyānaṁāmantanā)
-
+### 6.7. Báo tin cho các người vợ (Bhariyānaṁāmantanā){#6.7}
 Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda đi đến chỗ bốn mươi người vợ ngang hàng; sau khi đến, nói với bốn mươi người vợ ngang hàng điều này: "Này các phu nhân, ai muốn thì hãy về nhà người thân của mình hoặc tìm một người chồng khác. Này các phu nhân, tôi muốn xuất gia từ bỏ gia đình sống không gia đình. Theo như tôi nghe Phạm thiên nói về *mùi xú uế*, những điều đó không dễ gì dập tắt khi còn sống trong gia đình. Này các phu nhân, tôi sẽ xuất gia từ bỏ gia đình sống không gia đình."
 
 "Ngài chính là người thân của chúng tôi khi chúng tôi cần người thân, ngài là chồng của chúng tôi khi chúng tôi cần chồng. Nếu ngài Govinda xuất gia từ bỏ gia đình sống không gia đình, chúng tôi cũng sẽ xuất gia từ bỏ gia đình sống không gia đình, khi đó ngài đi về đâu, chúng tôi sẽ đi về đó."
 
 <!--pg-->
-### 6.8. Sự xuất gia của Mahāgovinda (Mahāgovindapabbajjā)
-
+### 6.8. Sự xuất gia của Mahāgovinda (Mahāgovindapabbajjā){#6.8}
 Khi ấy, thưa các ngài, Bà-la-môn Mahāgovinda sau bảy ngày đó đã cạo bỏ râu tóc, khoác áo cà-sa, xuất gia từ bỏ gia đình sống không gia đình. Khi Bà-la-môn Mahāgovinda xuất gia, bảy vị vua Sát-đế-lỵ đã *được lễ rưới nước lên đầu*, bảy vị Bà-la-môn đại gia, bảy trăm thanh niên đã tắm gội, bốn mươi người vợ ngang hàng, hàng ngàn Sát-đế-lỵ, hàng ngàn Bà-la-môn, hàng ngàn gia chủ, và phụ nữ từ nhiều hậu cung đã cạo bỏ râu tóc, khoác áo cà-sa, xuất gia từ bỏ gia đình sống không gia đình theo sau Bà-la-môn Mahāgovinda.
 
 Được hội chúng đó vây quanh, thưa các ngài, Bà-la-môn Mahāgovinda đi du hành qua các làng mạc, thị trấn và kinh đô. Thưa các ngài, vào thời điểm đó, khi Bà-la-môn Mahāgovinda đi đến một làng mạc hay thị trấn nào, ở đó ông giống như vua của các vị vua, giống như Phạm thiên của các Bà-la-môn, giống như chư thiên của các gia chủ. Vào thời điểm đó, khi mọi người hắt hơi hay vấp ngã. Họ đều nói như vầy: "Kính lễ Bà-la-môn Mahāgovinda, kính lễ vị quan tế tự của bảy vương quốc."

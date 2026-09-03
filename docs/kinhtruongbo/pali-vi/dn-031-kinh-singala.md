@@ -9,8 +9,7 @@ Sau đó, Đức Thế Tôn vào buổi sáng khoác y, mang bát đi vào thàn
 "Bạch Thế Tôn, khi cha con qua đời, ông ấy đã dặn như sau: 'Này con, con hãy *tôn kính* các phương'. Bạch Thế Tôn, con vì tôn trọng, kính trọng, quý mến và thờ phụng lời của cha, nên đã thức dậy từ sáng sớm, đi ra khỏi thành Rājagaha, với quần áo ướt, tóc ướt, chắp tay *tôn kính* các phương hướng khác nhau—hướng Đông, hướng Nam, hướng Tây, hướng Bắc, hướng Dưới, hướng Trên."
 
 <!--pg-->
-## 1. Sáu phương (Cha disā)
-
+## 1. Sáu phương (Cha disā){#1}
 "Này con gia chủ, trong kỷ luật của bậc thánh, sáu phương không được *tôn kính* theo cách như vậy."
 
 "Bạch Thế Tôn, vậy trong kỷ luật của bậc thánh, sáu phương phải được *tôn kính* như thế nào? Lành thay, bạch Thế Tôn, mong Ngài hãy thuyết giảng *Điều dạy* (Pháp / dhamma) cho con để biết cách *tôn kính* sáu phương trong kỷ luật của bậc thánh."
@@ -22,8 +21,7 @@ Sau đó, Đức Thế Tôn vào buổi sáng khoác y, mang bát đi vào thàn
 "Này con gia chủ, khi người học trò của bậc thánh đã hoàn toàn từ bỏ bốn *hành động làm vấy bẩn* (nghiệp phiền não / kammakilesā), không làm điều sai trái qua bốn nguyên nhân, và không theo sáu *lối làm hao mòn* (cửa hiểm nạn / apāyamukhāni) tài sản; vì người ấy đã tránh xa mười bốn điều ác này, có thể che chắn đủ sáu phương, và hướng tới sự chiến thắng ở cả hai thế giới. Đối với người ấy, thế giới này được thành tựu và thế giới sau cũng vậy. Sau khi cơ thể tan rã, sau cái chết, người ấy được sinh ra ở một cõi tốt đẹp, thế giới của chư thiên.
 
 <!--pg-->
-## 2. Bốn hành động làm vấy bẩn (Cattāro kammakilesā)
-
+## 2. Bốn hành động làm vấy bẩn (Cattāro kammakilesā){#2}
 Bốn *hành động làm vấy bẩn* nào đã được người ấy hoàn toàn từ bỏ? Này con gia chủ, tước đoạt mạng sống là một *hành động làm vấy bẩn*, lấy của không cho là một *hành động làm vấy bẩn*, *hành vi sai trái trong sự dễ chịu giác quan* (tà dâm / kāmesumicchācāro) là một *hành động làm vấy bẩn*, *nói dối* (musāvādo) là một *hành động làm vấy bẩn*. Bốn *hành động làm vấy bẩn* này đã được người ấy hoàn toàn từ bỏ."
 
 Đức Thế Tôn đã nói như vậy. Sau khi nói điều này, Bậc Thiện Thệ, Bậc Đạo Sư lại nói thêm bài kệ sau:
@@ -34,8 +32,7 @@ Bốn *hành động làm vấy bẩn* nào đã được người ấy hoàn to
 > Bậc trí không bao giờ ngợi khen."
 
 <!--pg-->
-## 3. Bốn nguyên nhân (Catuṭhānaṁ)
-
+## 3. Bốn nguyên nhân (Catuṭhānaṁ){#3}
 "Do bốn nguyên nhân nào người ấy không làm hành động sai trái? Người ta làm hành động sai trái vì *mong muốn* (dục / chanda), làm hành động sai trái vì do *ám ảnh khó chịu* (sân / dosa), làm hành động sai trái vì *sự u mê* (si / moha), làm hành động sai trái vì do *sự sợ hãi* (úy / bhaya). Này con gia chủ, vì người học trò của bậc thánh không đi theo sự *sai trái* do *mong muốn*, không đi theo sự *sai trái* do *ám ảnh khó chịu*, không đi theo sự *sai trái* do *sự u mê*, không đi theo sự *sai trái* do *sự sợ hãi*; nên người ấy không làm hành động sai trái qua bốn nguyên nhân này."
 
 Đức Thế Tôn đã nói như vậy. Sau khi nói điều này, Bậc Thiện Thệ, Bậc Đạo Sư lại nói thêm bài kệ sau:
@@ -51,32 +48,25 @@ Bốn *hành động làm vấy bẩn* nào đã được người ấy hoàn to
 > Như mặt trăng trong nửa tháng thượng huyền."
 
 <!--pg-->
-## 4. Sáu lối làm hao mòn (Cha apāyamukhāni)
-
+## 4. Sáu lối làm hao mòn (Cha apāyamukhāni){#4}
 "Người ấy không theo sáu *lối làm hao mòn* tài sản nào? Này con gia chủ, đắm chìm trong chỗ *mê muội* (phóng dật / pamāda) của rượu, các chất lên men và chất say là một *lối làm hao mòn* tài sản; thói quen lang thang trên đường phố sai giờ giấc là một *lối làm hao mòn* tài sản; thường xuyên lui tới các lễ hội giải trí là một *lối làm hao mòn* tài sản; đắm chìm trong chỗ *mê muội* của cờ bạc là một *lối làm hao mòn* tài sản; kết giao với bạn xấu là một *lối làm hao mòn* tài sản; thói quen lười biếng là một *lối làm hao mòn* tài sản.
 
-## 5. Sáu sự nguy hiểm của rượu chè (Surāmerayassa cha ādīnavā)
-
+## 5. Sáu sự nguy hiểm của rượu chè (Surāmerayassa cha ādīnavā){#5}
 Này con gia chủ, có sáu *sự nguy hiểm* (lỗi lầm / ādīnavā) này trong việc đắm chìm trong chỗ *mê muội* của rượu, các chất lên men và chất say: Sự hao mòn tài sản có thể thấy ngay trước mắt, làm tăng các cuộc cãi vã, là nơi dung chứa bệnh tật, sinh ra tiếng xấu, để lộ những chỗ đáng xấu hổ, và làm suy yếu trí tuệ là điều thứ sáu. Này con gia chủ, đây là sáu *sự nguy hiểm* trong việc đắm chìm trong chỗ *mê muội* của rượu, các chất lên men và chất say.
 
-## 6. Sáu sự nguy hiểm của việc đi lang thang sai giờ giấc (Vikālacariyāya cha ādīnavā)
-
+## 6. Sáu sự nguy hiểm của việc đi lang thang sai giờ giấc (Vikālacariyāya cha ādīnavā){#6}
 Này con gia chủ, có sáu *sự nguy hiểm* này trong thói quen lang thang trên đường phố sai giờ giấc: Bản thân người ấy không được bảo vệ che chở, vợ con của người ấy không được bảo vệ che chở, tài sản của người ấy không được bảo vệ che chở, bị nghi ngờ trong những vụ việc tồi tệ, những lời đồn đại không có thật về người ấy ngày càng tăng, và người ấy phải đối mặt với nhiều điều đau khổ. Này con gia chủ, đây là sáu *sự nguy hiểm* trong thói quen lang thang trên đường phố sai giờ giấc.
 
-## 7. Sáu sự nguy hiểm của việc thường xuyên lui tới lễ hội (Samajjābhicaraṇassa cha ādīnavā)
-
+## 7. Sáu sự nguy hiểm của việc thường xuyên lui tới lễ hội (Samajjābhicaraṇassa cha ādīnavā){#7}
 Này con gia chủ, có sáu *sự nguy hiểm* này trong việc thường xuyên lui tới các lễ hội giải trí: Người ấy luôn tìm kiếm 'Ở đâu có múa? Ở đâu có hát? Ở đâu có tấu nhạc? Ở đâu có kể chuyện? Ở đâu có tiếng vỗ tay? Ở đâu có tiếng gõ trống?'. Này con gia chủ, đây là sáu *sự nguy hiểm* trong việc thường xuyên lui tới các lễ hội giải trí.
 
-## 8. Sáu sự nguy hiểm của việc mê muội cờ bạc (Jūtappamādassa cha ādīnavā)
-
+## 8. Sáu sự nguy hiểm của việc mê muội cờ bạc (Jūtappamādassa cha ādīnavā){#8}
 Này con gia chủ, có sáu *sự nguy hiểm* này trong việc đắm chìm trong chỗ *mê muội* của cờ bạc: Người thắng sinh ra thù hận, người thua xót xa cho tài sản, sự hao mòn tài sản có thể thấy ngay trước mắt, lời nói của người ấy trước đám đông không có trọng lượng, bị bạn bè và đồng nghiệp khinh bỉ, không ai muốn kết hôn cùng vì nghĩ 'Kẻ nghiện cờ bạc này không đủ khả năng nuôi dưỡng gia đình'. Này con gia chủ, đây là sáu *sự nguy hiểm* trong việc đắm chìm trong chỗ *mê muội* của cờ bạc.
 
-## 9. Sáu sự nguy hiểm của việc kết bạn xấu (Pāpamittatāya cha ādīnavā)
-
+## 9. Sáu sự nguy hiểm của việc kết bạn xấu (Pāpamittatāya cha ādīnavā){#9}
 Này con gia chủ, có sáu *sự nguy hiểm* này trong việc kết giao với bạn xấu: Người ấy có bạn bè và đồng bọn là những kẻ lừa đảo, những kẻ nát rượu, những kẻ nghiện ngập, những kẻ gian xảo, những kẻ dối trá, những kẻ bạo lực. Này con gia chủ, đây là sáu *sự nguy hiểm* trong việc kết giao với bạn xấu.
 
-## 10. Sáu sự nguy hiểm của việc lười biếng (Ālasyassa cha ādīnavā)
-
+## 10. Sáu sự nguy hiểm của việc lười biếng (Ālasyassa cha ādīnavā){#10}
 Này con gia chủ, có sáu *sự nguy hiểm* này trong thói quen lười biếng: Người ấy lấy lý do 'quá lạnh' nên không làm việc, lấy lý do 'quá nóng' nên không làm việc, lấy lý do 'quá trễ' nên không làm việc, lấy lý do 'quá sớm' nên không làm việc, lấy lý do 'quá đói' nên không làm việc, lấy lý do 'quá no' nên không làm việc. Khi người ấy sống với quá nhiều lời viện cớ cho công việc như vậy, những tài sản chưa sinh ra sẽ không sinh ra, và những tài sản đã sinh ra sẽ đi đến cạn kiệt. Này con gia chủ, đây là sáu *sự nguy hiểm* trong thói quen lười biếng."
 
 Đức Thế Tôn đã nói như vậy. Sau khi nói điều này, Bậc Thiện Thệ, Bậc Đạo Sư lại nói thêm bài kệ sau:
@@ -121,8 +111,7 @@ Này con gia chủ, có sáu *sự nguy hiểm* này trong thói quen lười bi
 > Người ấy không bao giờ thiếu vắng hạnh phúc."
 
 <!--pg-->
-## 11. Bạn giả dối (Mittapatirūpaka)
-
+## 11. Bạn giả dối (Mittapatirūpaka){#11}
 "Này con gia chủ, có bốn loại người cần được biết là không phải bạn, mà là *kẻ đóng giả làm bạn* (bạn giả danh / mittapatirūpakā). Kẻ vơ vét cần được biết là một *kẻ đóng giả làm bạn*; kẻ chóp mép cần được biết là một *kẻ đóng giả làm bạn*; kẻ xu nịnh cần được biết là một *kẻ đóng giả làm bạn*; kẻ rủ rê vào đường nguy hiểm cần được biết là một *kẻ đóng giả làm bạn*.
 
 Này con gia chủ, do bốn nguyên nhân, kẻ vơ vét cần được biết là một *kẻ đóng giả làm bạn*:
@@ -150,8 +139,7 @@ Này con gia chủ, do bốn nguyên nhân, kẻ rủ rê vào đường nguy hi
 > Như tránh con đường đầy hiểm nguy."
 
 <!--pg-->
-## 12. Người bạn có lòng tốt (Suhadamitta)
-
+## 12. Người bạn có lòng tốt (Suhadamitta){#12}
 "Này con gia chủ, có bốn loại bạn cần được biết là *người có lòng tốt* (thiện hữu / suhadā). Người bạn hay giúp đỡ cần được biết là *người có lòng tốt*; người bạn đồng cam cộng khổ cần được biết là *người có lòng tốt*; người bạn chỉ ra điều lợi ích cần được biết là *người có lòng tốt*; người bạn có tâm thông cảm cần được biết là *người có lòng tốt*.
 
 Này con gia chủ, do bốn nguyên nhân, người bạn hay giúp đỡ cần được biết là *người có lòng tốt*: Bảo vệ bạn khi bạn *mê muội*, bảo vệ tài sản của bạn khi bạn *mê muội*, là chỗ nương tựa cho bạn khi bạn sợ hãi, và khi có công việc cần làm, họ cung cấp tài sản gấp đôi mức cần thiết. Này con gia chủ, do bốn nguyên nhân này, người bạn hay giúp đỡ cần được biết là *người có lòng tốt*.
@@ -190,8 +178,7 @@ Này con gia chủ, do bốn nguyên nhân, người bạn có tâm thông cảm
 > Để phòng khi hoạn nạn xảy ra."
 
 <!--pg-->
-## 13. Phần che chắn sáu phương (Chaddisāpaṭicchādanakaṇḍa)
-
+## 13. Phần che chắn sáu phương (Chaddisāpaṭicchādanakaṇḍa){#13}
 "Này con gia chủ, thế nào là người học trò của bậc thánh che chắn được sáu phương? Này con gia chủ, cần hiểu sáu phương là như sau: Phương Đông cần được hiểu là cha mẹ; phương Nam cần được hiểu là thầy cô; phương Tây cần được hiểu là vợ con; phương Bắc cần được hiểu là bạn bè và đồng nghiệp; phương Dưới cần được hiểu là người làm và tớ thầy; phương Trên cần được hiểu là các sa-môn và bà-la-môn.
 
 Này con gia chủ, do năm nguyên nhân, con cái phải hầu hạ phương Đông là cha mẹ: 'Ta đã được nuôi dưỡng, ta sẽ nuôi dưỡng lại họ; ta sẽ làm những việc cần thiết cho họ; ta sẽ duy trì truyền thống gia đình; ta sẽ sống xứng đáng với sự thừa kế; hoặc khi họ qua đời, ta sẽ cúng dường cho họ'. Này con gia chủ, được con cái hầu hạ bằng năm nguyên nhân này, phương Đông là cha mẹ thể hiện tâm thông cảm với con cái qua năm nguyên nhân: Ngăn cản con làm điều ác, khuyến khích con làm điều thiện, dạy con nghề nghiệp, tìm cho con một người bạn đời phù hợp, và giao tài sản thừa kế đúng thời điểm. Này con gia chủ, được con cái hầu hạ bằng năm nguyên nhân này, phương Đông là cha mẹ thể hiện tâm thông cảm với con qua năm nguyên nhân này. Như vậy, phương Đông này được che chắn, an toàn và không có sự sợ hãi.
