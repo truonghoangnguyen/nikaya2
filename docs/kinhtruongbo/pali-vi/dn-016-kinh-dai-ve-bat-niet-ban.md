@@ -8,15 +8,13 @@ Tôi đã nghe như vầy: Một thời Đức Thế Tôn trú ở Rājagaha (V�
 Rồi vua nước Magadha là Ajātasattu Vedehiputto gọi vị đại thần nước Magadha là bà-la-môn Vassakāra đến: "Này bà-la-môn, hãy đến chỗ Đức Thế Tôn; sau khi đến, nhân danh ta, hãy cúi đầu đảnh lễ chân Đức Thế Tôn, và hỏi thăm Ngài có ít bệnh, ít não, khinh an, khỏe mạnh, và trú ẩn thoải mái không: 'Bạch Thế Tôn, vua nước Magadha là Ajātasattu Vedehiputto cúi đầu đảnh lễ chân Đức Thế Tôn, và hỏi thăm Ngài có ít bệnh, ít não, khinh an, khỏe mạnh, và trú ẩn thoải mái không'. Và hãy nói như sau: 'Bạch Thế Tôn, vua nước Magadha là Ajātasattu Vedehiputto muốn tiến đánh dân Vajjī. Vua nói như sau: "Ta sẽ tiêu diệt dân Vajjī này, dù họ có uy quyền như vậy, có thế lực như vậy; ta sẽ tàn phá dân Vajjī, ta sẽ mang đến tai họa và sự diệt vong cho dân Vajjī"'. Đức Thế Tôn trả lời cho ông như thế nào, hãy ghi nhớ kỹ và báo lại cho ta. Vì những *Người Đến Như Vậy* (Như Lai / tathāgata) không bao giờ nói lời sai thật."
 
 <!--pg-->
-## 1. Bà-la-môn Vassakāra (Vassakārabrāhmaṇa)
-
+## 1. Bà-la-môn Vassakāra (Vassakārabrāhmaṇa){#1}
 "Vâng, thưa ngài", đại thần nước Magadha là bà-la-môn Vassakāra vâng lời vua nước Magadha là Ajātasattu Vedehiputto, cho thắng những cỗ xe tốt đẹp nhất, bước lên một cỗ xe tốt đẹp nhất, và cùng với những cỗ xe tốt đẹp nhất rời khỏi Rājagaha, đi về phía núi Gijjhakūṭa. Đi xe cho đến nơi đất còn đi xe được, ông xuống xe và đi bộ đến chỗ Đức Thế Tôn; sau khi đến, ông trao đổi những lời chào hỏi thân hữu với Đức Thế Tôn.
 
 Sau khi trao đổi những lời chào hỏi thân hữu và đáng ghi nhớ, ông ngồi xuống một bên. Ngồi một bên, đại thần nước Magadha là bà-la-môn Vassakāra nói với Đức Thế Tôn: "Thưa Tôn giả Gotama, vua nước Magadha là Ajātasattu Vedehiputto cúi đầu đảnh lễ chân Tôn giả Gotama, và hỏi thăm Ngài có ít bệnh, ít não, khinh an, khỏe mạnh, và trú ẩn thoải mái không. Thưa Tôn giả Gotama, vua nước Magadha là Ajātasattu Vedehiputto muốn tiến đánh dân Vajjī. Vua nói như sau: 'Ta sẽ tiêu diệt dân Vajjī này, dù họ có uy quyền như vậy, có thế lực như vậy; ta sẽ tàn phá dân Vajjī, ta sẽ mang đến tai họa và sự diệt vong cho dân Vajjī'."
 
 <!--pg-->
-## 2. Những Điều Không Dẫn Đến Suy Giảm Của Quốc Gia (Rājaaparihāniyadhamma)
-
+## 2. Những Điều Không Dẫn Đến Suy Giảm Của Quốc Gia (Rājaaparihāniyadhamma){#2}
 Lúc bấy giờ, Tôn giả Ānanda đang đứng phía sau Đức Thế Tôn để quạt cho Ngài. Rồi Đức Thế Tôn gọi Tôn giả Ānanda: "Này Ānanda, ông có nghe rằng 'dân Vajjī thường xuyên tụ họp, và tụ họp đông đảo' không?"
 
 "Bạch Thế Tôn, con có nghe điều này: 'dân Vajjī thường xuyên tụ họp, và tụ họp đông đảo'."
@@ -66,8 +64,7 @@ Rồi Đức Thế Tôn gọi đại thần nước Magadha là bà-la-môn Vass
 "Này bà-la-môn, hãy làm những gì ông cho là đúng lúc." Rồi đại thần nước Magadha là bà-la-môn Vassakāra hoan hỷ, vui mừng đón nhận lời dạy của Đức Thế Tôn, từ chỗ ngồi đứng dậy và rời đi.
 
 <!--pg-->
-## 3. Những Điều Không Dẫn Đến Suy Giảm Của Tỳ Kheo (Bhikkhuaparihāniyadhamma)
-
+## 3. Những Điều Không Dẫn Đến Suy Giảm Của Tỳ Kheo (Bhikkhuaparihāniyadhamma){#3}
 Rồi Đức Thế Tôn, không lâu sau khi đại thần nước Magadha là bà-la-môn Vassakāra rời đi, đã gọi Tôn giả Ānanda: "Này Ānanda, hãy đi và tập hợp tất cả các tỳ kheo đang sống quanh Rājagaha lại tại giảng đường."
 
 "Vâng, bạch Thế Tôn", Tôn giả Ānanda vâng lời Đức Thế Tôn, tập hợp tất cả các tỳ kheo đang sống quanh Rājagaha lại tại giảng đường, rồi đi đến chỗ Đức Thế Tôn; sau khi đến, đảnh lễ Đức Thế Tôn và đứng một bên. Đứng một bên, Tôn giả Ānanda nói với Đức Thế Tôn: "Bạch Thế Tôn, Tăng chúng tỳ kheo đã tập hợp, bây giờ xin Đức Thế Tôn làm những gì Ngài cho là đúng lúc."
@@ -124,8 +121,7 @@ Rồi Đức Thế Tôn, sau khi trú ở Ambalaṭṭhikā bao lâu tùy thích
 "Vâng, bạch Thế Tôn", Tôn giả Ānanda vâng lời Đức Thế Tôn. Rồi Đức Thế Tôn cùng với đại chúng tỳ kheo đi đến Nāḷandā. Tại đó, Đức Thế Tôn trú ở Nāḷandā, trong rừng xoài Pāvārika.
 
 <!--pg-->
-## 4. Tiếng Rống Của Sư Tử Sāriputta (Sāriputtasīhanāda)
-
+## 4. Tiếng Rống Của Sư Tử Sāriputta (Sāriputtasīhanāda){#4}
 Rồi Tôn giả Sāriputta đi đến chỗ Đức Thế Tôn; sau khi đến, đảnh lễ Đức Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tôn giả Sāriputta nói với Đức Thế Tôn: "Bạch Thế Tôn, con có niềm tin nơi Đức Thế Tôn như thế này: Trong quá khứ không có, trong tương lai sẽ không có, và trong hiện tại không có một sa-môn hay bà-la-môn nào khác có sự hiểu biết vượt trội hơn Đức Thế Tôn về sự giác ngộ."
 
 "Này Sāriputta, lời nói này của ông to lớn, dũng mãnh, như một tiếng rống của sư tử đã được rống lên một cách chắc chắn... Này Sāriputta, có phải ông đã dùng tâm của mình để thấu hiểu tâm của tất cả các *bậc A-la-hán*, các *Bậc Tự Giác Ngộ Hoàn Toàn* (Chánh đẳng giác / sammāsambuddha) trong quá khứ, và biết rằng: 'Các Đức Thế Tôn ấy có *đạo đức* như thế này, có *Điều dạy* như thế này, có *trí tuệ* như thế này, có cách sống như thế này, có sự giải thoát như thế này' không?"
@@ -146,8 +142,7 @@ Cũng vậy, bạch Thế Tôn, con đã hiểu được dòng chảy của *Ch�
 Tại đó, Đức Thế Tôn trú ở Nāḷandā, trong rừng xoài Pāvārika, cũng thường xuyên giảng dạy *Chân lý* này cho các tỳ kheo: "Đây là *đạo đức*, đây là *định*, đây là *trí tuệ*... Tâm được tu tập cùng với *trí tuệ* sẽ hoàn toàn *thoát khỏi* các *nguồn ác*..."
 
 <!--pg-->
-## 5. Sự Nguy Hiểm Của Việc Thiếu Đạo Đức (Dussīlaādīnava)
-
+## 5. Sự Nguy Hiểm Của Việc Thiếu Đạo Đức (Dussīlaādīnava){#5}
 Rồi Đức Thế Tôn, sau khi trú ở Nāḷandā bao lâu tùy thích, đã gọi Tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến Pāṭaligāma."
 "Vâng, bạch Thế Tôn", Tôn giả Ānanda vâng lời Đức Thế Tôn. Rồi Đức Thế Tôn cùng với đại chúng tỳ kheo đi đến Pāṭaligāma.
 
@@ -172,8 +167,7 @@ Lại nữa, người thiếu *đạo đức*... sau khi cơ thể tan rã, sau 
 Này các gia chủ, đây là năm sự nguy hiểm đối với người thiếu *đạo đức*, người thất bại về *đạo đức*.
 
 <!--pg-->
-## 6. Lợi Ích Của Người Có Đạo Đức (Sīlavantaānisaṁsa)
-
+## 6. Lợi Ích Của Người Có Đạo Đức (Sīlavantaānisaṁsa){#6}
 Này các gia chủ, có năm lợi ích này đối với người có *đạo đức*, người thành tựu *đạo đức*. Năm lợi ích đó là gì?
 
 Ở đây, này các gia chủ, người có *đạo đức*, thành tựu *đạo đức*, do không u mê mà thu được khối tài sản lớn. Đây là lợi ích thứ nhất.
@@ -190,8 +184,7 @@ Lại nữa, người có *đạo đức*... sau khi cơ thể tan rã, sau khi 
 Này các gia chủ, đây là năm lợi ích đối với người có *đạo đức*, người thành tựu *đạo đức*."
 
 <!--pg-->
-## 7. Xây Dựng Thành Phố Pāṭaliputta (Pāṭaliputtanagaramāpana)
-
+## 7. Xây Dựng Thành Phố Pāṭaliputta (Pāṭaliputtanagaramāpana){#7}
 Lúc bấy giờ, các đại thần nước Magadha là Sunidha và Vassakāra đang xây dựng một thành phố tại Pāṭaligāma để ngăn chặn dân Vajjī. Lúc bấy giờ, có hàng ngàn chư thiên đang chiếm giữ các khu đất tại Pāṭaligāma. Ở khu vực nào chư thiên có uy lực lớn chiếm giữ, thì họ hướng tâm của các vị vua và đại thần có quyền lực lớn đến xây dựng dinh thự ở đó. Ở khu vực nào chư thiên bậc trung chiếm giữ... Ở khu vực nào chư thiên bậc thấp chiếm giữ...
 
 Đức Thế Tôn với thiên nhãn thanh tịnh, vượt qua tầm nhìn của con người, đã thấy hàng ngàn chư thiên đang chiếm giữ các khu đất tại Pāṭaligāma. Ngài thức dậy vào lúc rạng sáng và gọi Tôn giả Ānanda: "Này Ānanda, ai đang xây dựng thành phố tại Pāṭaligāma?"
@@ -214,8 +207,7 @@ Lúc bấy giờ, sông Hằng đang đầy nước tràn bờ, quạ có thể 
 
 
 <!--pg-->
-## 8. Câu chuyện về các Thánh Đế (Ariyasaccakathā)
-
+## 8. Câu chuyện về các Thánh Đế (Ariyasaccakathā){#8}
 Rồi Thế Tôn gọi tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến Koṭigāma."
 
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng tỳ kheo đi đến Koṭigāma. Tại đó, Thế Tôn trú ở Koṭigāma.
@@ -236,8 +228,7 @@ Tại đó, khi trú ở Koṭigāma, Thế Tôn cũng thường xuyên thuyết
 "Đây là *đạo đức* (giới / sīla), đây là *định* (samādhi), đây là *trí tuệ* (paññā). *Định* được tu tập cùng với *đạo đức* sẽ mang lại quả lớn, lợi ích lớn. *Trí tuệ* được tu tập cùng với *Định* sẽ mang lại quả lớn, lợi ích lớn. Tâm được tu tập cùng với *trí tuệ* sẽ được giải thoát hoàn toàn khỏi các *nguồn ác* (lậu hoặc / āsava), đó là—*nguồn ác của ham muốn giác quan* (dục lậu / kāmāsava), *nguồn ác của mong muốn hiện hữu* (hữu lậu / bhavāsava), *nguồn ác của Không Hiểu Biết* (vô minh lậu / avijjāsava)."
 
 <!--pg-->
-## 9. Hướng đến Giác ngộ không còn thối chuyển (Anāvattidhammasambodhiparāyaṇa)
-
+## 9. Hướng đến Giác ngộ không còn thối chuyển (Anāvattidhammasambodhiparāyaṇa){#9}
 Rồi Thế Tôn, sau khi trú ở Koṭigāma cho đến khi vừa ý, đã gọi tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến Nādikā."
 
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng tỳ kheo đi đến Nādikā. Tại đó, Thế Tôn trú ở Nādikā, trong Ngôi nhà Gạch.
@@ -261,8 +252,7 @@ Này Ānanda, hơn chín mươi nam cư sĩ qua đời ở Nādikā, do sự c�
 Này Ānanda, hơn năm trăm nam cư sĩ qua đời ở Nādikā, do sự cạn kiệt ba xiềng xích, là bậc *Nhập lưu*, không còn rơi vào cõi ác, chắc chắn *hướng đến giác ngộ*.
 
 <!--pg-->
-## 10. Bài pháp Gương Pháp (Dhammādāsadhammapariyāya)
-
+## 10. Bài pháp Gương Pháp (Dhammādāsadhammapariyāya){#10}
 Này Ānanda, không có gì đáng ngạc nhiên khi một người mang thân người phải qua đời. Nhưng nếu mỗi khi có người qua đời, các vị lại đến hỏi Như Lai về vấn đề này, thì đó là sự phiền nhiễu cho Như Lai.
 
 Do đó, này Ānanda, Ta sẽ giảng bài pháp gọi là *Gương Pháp* (dhammādāsa), để vị thánh đệ tử nào được trang bị pháp này, nếu muốn, có thể tự mình tuyên bố về mình: 'Ta đã cạn kiệt địa ngục, cạn kiệt cõi súc sinh, cạn kiệt cõi ngạ quỷ, cạn kiệt các cõi ác, đọa xứ; ta là bậc *Nhập lưu* (sotāpanna), không còn rơi vào cõi ác, chắc chắn *hướng đến giác ngộ* (sambodhiparāyaṇā).'
@@ -298,8 +288,7 @@ Và này các tỳ kheo, thế nào là tỳ kheo *có sự tự quan sát*? Ở
 Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở đây, này các tỳ kheo, tỳ kheo khi bước tới bước lui đều *nhận biết rõ ràng*; khi nhìn thẳng nhìn quanh đều *nhận biết rõ ràng*; khi co tay duỗi tay đều *nhận biết rõ ràng*; khi mang y Tăng-già-lê, bình bát và y áo đều *nhận biết rõ ràng*; khi ăn, uống, nhai, nếm đều *nhận biết rõ ràng*; khi đại tiện tiểu tiện đều *nhận biết rõ ràng*; khi đi, đứng, ngồi, ngủ, thức, nói, im lặng đều *nhận biết rõ ràng*. Như vậy, này các tỳ kheo, là tỳ kheo *nhận biết rõ ràng*. Này các tỳ kheo, tỳ kheo hãy sống *có sự tự quan sát* và *nhận biết rõ ràng*, đây là lời dạy của Ta dành cho các vị."
 
 <!--pg-->
-## 11. Kỹ nữ Ambapālī (Ambapālīgaṇikā)
-
+## 11. Kỹ nữ Ambapālī (Ambapālīgaṇikā){#11}
 Kỹ nữ Ambapālī nghe tin: "Thế Tôn đã đến Vesālī và đang trú tại vườn xoài của ta." Rồi kỹ nữ Ambapālī cho chuẩn bị những cỗ xe tuyệt hảo, lên một cỗ xe tuyệt hảo, cùng với những cỗ xe tuyệt hảo khác rời khỏi Vesālī. Cô đi đến khu vườn của mình. Đi xe cho đến nơi xe có thể đi được, cô xuống xe và đi bộ đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi kỹ nữ Ambapālī ngồi một bên, Thế Tôn đã dùng bài pháp để chỉ dẫn, khích lệ, làm cho phấn chấn và hoan hỷ.
 
 Rồi kỹ nữ Ambapālī, sau khi được Thế Tôn dùng bài pháp chỉ dẫn, khích lệ, làm cho phấn chấn và hoan hỷ, đã bạch Thế Tôn: "Bạch Thế Tôn, xin Thế Tôn nhận lời mời dùng bữa ngày mai của con cùng với đại chúng tỳ kheo." Thế Tôn im lặng nhận lời. Rồi kỹ nữ Ambapālī, biết Thế Tôn đã nhận lời, liền đứng dậy, đảnh lễ Thế Tôn, đi nhiễu quanh Ngài rồi rời đi.
@@ -343,8 +332,7 @@ Tại đó, khi trú ở Vesālī trong vườn xoài của Ambapālī, Thế T�
 "Đây là *đạo đức* (sīla), đây là *Định* (samādhi), đây là *trí tuệ* (paññā). *Định* được tu tập cùng với *đạo đức* sẽ mang lại quả lớn, lợi ích lớn. *Trí tuệ* được tu tập cùng với *Định* sẽ mang lại quả lớn, lợi ích lớn. Tâm được tu tập cùng với *trí tuệ* sẽ được giải thoát hoàn toàn khỏi các *nguồn ác* (āsava), đó là—*nguồn ác của ham muốn giác quan* (kāmāsava), *nguồn ác của mong muốn hiện hữu* (bhavāsava), *nguồn ác của Không Hiểu Biết* (avijjāsava)."
 
 <!--pg-->
-## 12. Vào mùa an cư ở làng Veḷuva (Veḷuvagāmavassūpagamana)
-
+## 12. Vào mùa an cư ở làng Veḷuva (Veḷuvagāmavassūpagamana){#12}
 Rồi Thế Tôn, sau khi trú ở vườn xoài của Ambapālī cho đến khi vừa ý, đã gọi tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến làng Veḷuva."
 
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng tỳ kheo đi đến làng Veḷuva. Tại đó, Thế Tôn trú ở làng Veḷuva.
@@ -370,8 +358,7 @@ Này Ānanda, hiện tại hay sau khi Ta qua đời, những ai *tự làm hòn
 Tụng phẩm thứ hai.
 
 <!--pg-->
-## 13. Câu chuyện về gợi ý và ánh sáng (Nimittobhāsakathā)
-
+## 13. Câu chuyện về gợi ý và ánh sáng (Nimittobhāsakathā){#13}
 Rồi Thế Tôn, vào buổi sáng, đắp y, mang bình bát đi vào Vesālī để khất thực. Sau khi khất thực ở Vesālī, ăn xong và trở về, Ngài gọi tôn giả Ānanda: "Này Ānanda, hãy lấy tọa cụ, chúng ta sẽ đi đến đền Cāpāla để nghỉ trưa."
 
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn, lấy tọa cụ và đi theo sát phía sau Thế Tôn.
@@ -393,8 +380,7 @@ Rồi Thế Tôn gọi tôn giả Ānanda: "Này Ānanda, hãy đi đi, nếu ô
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn, đứng dậy, đảnh lễ Thế Tôn, đi nhiễu quanh Ngài rồi ngồi dưới một gốc cây cách đó không xa.
 
 <!--pg-->
-## 14. Câu chuyện Ma vương thỉnh cầu (Mārayācanakathā)
-
+## 14. Câu chuyện Ma vương thỉnh cầu (Mārayācanakathā){#14}
 Rồi Ma vương Ác ma, không lâu sau khi tôn giả Ānanda rời đi, đã đi đến chỗ Thế Tôn; sau khi đến, đứng một bên. Đứng một bên, Ma vương Ác ma bạch Thế Tôn:
 
 "Bạch Thế Tôn, nay xin Thế Tôn hãy đến *hoàn toàn chấm dứt* (parinibbātu), xin Bậc Thiện Thệ hãy đến *hoàn toàn chấm dứt*, nay đã đến lúc Thế Tôn đến *hoàn toàn chấm dứt*. Bạch Thế Tôn, Thế Tôn đã từng nói lời này: 'Này Ác ma, Ta sẽ chưa đến *hoàn toàn chấm dứt* cho đến khi các tỳ kheo đệ tử của Ta trở nên tài giỏi, được rèn luyện, tự tin, học rộng, thấu hiểu Pháp, thực hành đúng Pháp và tùy Pháp, thực hành thích đáng, sống theo Pháp, sau khi học hỏi từ đạo sư của mình có thể truyền đạt, giảng dạy, tuyên bố, thiết lập, mở bày, phân tích, làm cho rõ ràng, và có thể dùng Pháp để bẻ gãy những quan điểm đối lập một cách hợp lý, giảng dạy Pháp một cách kỳ diệu.'
@@ -412,8 +398,7 @@ Và nay, bạch Thế Tôn, đời sống phạm hạnh của Thế Tôn đã tr
 Khi được nói như vậy, Thế Tôn nói với Ma vương Ác ma: "Này Ác ma, hãy yên tâm, không lâu nữa Như Lai sẽ đến *hoàn toàn chấm dứt*. Ba tháng kể từ nay, Như Lai sẽ đến *hoàn toàn chấm dứt*."
 
 <!--pg-->
-## 15. Từ bỏ hoạt động duy trì sự sống (Āyusaṅkhāraossajjana)
-
+## 15. Từ bỏ hoạt động duy trì sự sống (Āyusaṅkhāraossajjana){#15}
 Rồi Thế Tôn, tại đền Cāpāla, *có sự tự quan sát* (sato), *nhận biết rõ ràng* (sampajāno), đã từ bỏ *hoạt động duy trì sự sống* (mạng hành / āyusaṅkhāra). Khi Thế Tôn từ bỏ *hoạt động duy trì sự sống*, một trận *động đất lớn* (đại địa chấn / mahābhūmicālo) xảy ra, đáng sợ, dựng tóc gáy, và sấm sét nổ vang. Rồi Thế Tôn, hiểu rõ ý nghĩa này, ngay lúc đó đã thốt lên lời cảm hứng này:
 
 > "Giữa hữu hạn vô hạn,\
@@ -422,8 +407,7 @@ Rồi Thế Tôn, tại đền Cāpāla, *có sự tự quan sát* (sato), *nh�
 > Vỡ vỏ sống như phá áo giáp."
 
 <!--pg-->
-## 16. Nguyên nhân của động đất lớn (Mahābhūmicālahetu)
-
+## 16. Nguyên nhân của động đất lớn (Mahābhūmicālahetu){#16}
 Rồi tôn giả Ānanda suy nghĩ: "Thật kỳ diệu thay, thật phi thường thay, trận *động đất lớn* này thật dữ dội; trận *động đất lớn* này thật vô cùng dữ dội, đáng sợ, dựng tóc gáy; và sấm sét nổ vang. Đâu là nguyên nhân, đâu là *điều kiện hình thành* (duyên / paccaya) cho sự xuất hiện của trận *động đất lớn* này?"
 
 Rồi tôn giả Ānanda đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, tôn giả Ānanda bạch Thế Tôn: "Thật kỳ diệu, bạch Thế Tôn, thật phi thường, bạch Thế Tôn. Trận *động đất lớn* này thật dữ dội... Đâu là nguyên nhân, đâu là *điều kiện hình thành* cho sự xuất hiện của trận *động đất lớn* này?"
@@ -449,8 +433,7 @@ Lại nữa, này Ānanda, khi Như Lai đến *hoàn toàn chấm dứt* trong 
 Này Ānanda, đây là tám nguyên nhân, tám *điều kiện hình thành* cho sự xuất hiện của một trận *động đất lớn*.
 
 <!--pg-->
-## 17. Tám hội chúng (Aṭṭhaparisā)
-
+## 17. Tám hội chúng (Aṭṭhaparisā){#17}
 Này Ānanda, có tám hội chúng này. Tám hội chúng nào? Hội chúng Sát-đế-lỵ, hội chúng Bà-la-môn, hội chúng Gia chủ, hội chúng Sa-môn, hội chúng chư thiên Tứ Thiên Vương, hội chúng chư thiên Đao Lợi, hội chúng Ma vương, hội chúng Phạm thiên.
 
 Này Ānanda, Ta nhớ lại đã từng đi đến hàng trăm hội chúng Sát-đế-lỵ. Tại đó, Ta đã từng ngồi cùng họ, nói chuyện cùng họ, và thảo luận cùng họ. Màu da của họ thế nào, màu da của Ta cũng thế ấy. Giọng nói của họ thế nào, giọng nói của Ta cũng thế ấy. Ta dùng bài Pháp để chỉ dẫn, khích lệ, làm cho phấn chấn và hoan hỷ. Khi Ta đang nói, họ không biết: 'Người đang nói này là ai, là chư thiên hay loài người?' Sau khi dùng bài Pháp chỉ dẫn, khích lệ, làm cho phấn chấn và hoan hỷ, Ta biến mất. Khi Ta biến mất, họ không biết: 'Người vừa biến mất này là ai, là chư thiên hay loài người?'
@@ -460,8 +443,7 @@ Này Ānanda, Ta nhớ lại đã từng đi đến hàng trăm hội chúng Bà
 Này Ānanda, đây là tám hội chúng.
 
 <!--pg-->
-## 18. Tám mốc làm chủ (Aṭṭhaabhibhāyatana)
-
+## 18. Tám mốc làm chủ (Aṭṭhaabhibhāyatana){#18}
 Này Ānanda, có tám *mốc làm chủ* (thắng xứ / abhibhāyatana) này. Tám cõi nào?
 
 Một người có nhận thức về *hình sắc* bên trong, nhìn thấy các hình sắc bên ngoài nhỏ bé, đẹp hay xấu. Vị ấy biết rằng: 'Ta đã làm chủ được, ta biết và thấy chúng.' Đây là *mốc làm chủ* thứ nhất.
@@ -483,8 +465,7 @@ Một người có nhận thức về *không hình sắc* bên trong, nhìn th�
 Này Ānanda, đây là tám *mốc làm chủ*.
 
 <!--pg-->
-## 19. Tám sự giải thoát (Aṭṭhavimokkha)
-
+## 19. Tám sự giải thoát (Aṭṭhavimokkha){#19}
 Này Ānanda, có tám *sự giải thoát* (vimokkha) này. Tám sự nào?
 
 Người có hình sắc nhìn thấy các hình sắc, đây là *sự giải thoát* thứ nhất.
@@ -518,8 +499,7 @@ Và ngay hôm nay, này Ānanda, tại đền Cāpāla, Ma vương Ác ma đã �
 Khi được nói như vậy, này Ānanda, Ta đã nói với Ma vương Ác ma: 'Này Ác ma, hãy yên tâm, không lâu nữa Như Lai sẽ đến *hoàn toàn chấm dứt*. Ba tháng kể từ nay, Như Lai sẽ đến *hoàn toàn chấm dứt*.' Và ngay hôm nay, này Ānanda, tại đền Cāpāla, Như Lai *có sự tự quan sát* (sato), *nhận biết rõ ràng* (sampajāno), đã từ bỏ *hoạt động duy trì sự sống* (āyusaṅkhāra)."
 
 <!--pg-->
-## 20. Câu chuyện Ānanda thỉnh cầu (Ānandayācanakathā)
-
+## 20. Câu chuyện Ānanda thỉnh cầu (Ānandayācanakathā){#20}
 Khi được nói như vậy, tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, xin Thế Tôn hãy sống trọn một kiếp, xin Bậc Thiện Thệ hãy sống trọn một kiếp vì lợi ích của số đông, vì hạnh phúc của số đông, vì lòng thương tưởng thế gian, vì mục đích, lợi ích và hạnh phúc của chư thiên và loài người."
 
 "Thôi đủ rồi, Ānanda. Đừng thỉnh cầu Như Lai nữa, nay không còn là lúc để thỉnh cầu Như Lai."
@@ -587,8 +567,7 @@ Thế Tôn đã nói như vậy. Sau khi nói điều này, Bậc Thiện Thệ,
 Tụng phẩm thứ ba.
 
 <!--pg-->
-## 21. Cái nhìn của voi chúa (Nāgāpalokita)
-
+## 21. Cái nhìn của voi chúa (Nāgāpalokita){#21}
 Rồi Thế Tôn, vào buổi sáng, đắp y, mang bình bát đi vào Vesālī để khất thực. Sau khi khất thực ở Vesālī, ăn xong và trở về, Ngài quay lại nhìn Vesālī với cái nhìn của voi chúa và gọi tôn giả Ānanda: "Này Ānanda, đây là lần cuối cùng Như Lai nhìn thấy Vesālī. Này Ānanda, chúng ta hãy đi đến Bhaṇḍagāma."
 
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn.
@@ -614,8 +593,7 @@ Tại đó, khi trú ở Bhaṇḍagāma, Thế Tôn cũng thường xuyên thuy
 "Đây là *đạo đức*, đây là *định*, đây là *trí tuệ*. *Định* được tu tập cùng với *đạo đức* sẽ mang lại quả lớn, lợi ích lớn. *Trí tuệ* được tu tập cùng với *định* sẽ mang lại quả lớn, lợi ích lớn. Tâm được tu tập cùng với *trí tuệ* sẽ được giải thoát hoàn toàn khỏi các *nguồn ác* (āsava), đó là—*nguồn ác của ham muốn giác quan* (kāmāsava), *nguồn ác của mong muốn hiện hữu* (bhavāsava), *nguồn ác của Không Hiểu Biết* (avijjāsava)."
 
 <!--pg-->
-## 22. Câu chuyện về Bốn Tiêu chuẩn tham chiếu lớn (Catumahāpadesakathā)
-
+## 22. Câu chuyện về Bốn Tiêu chuẩn tham chiếu lớn (Catumahāpadesakathā){#22}
 Rồi Thế Tôn, sau khi trú ở Bhaṇḍagāma cho đến khi vừa ý, đã gọi tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến Hatthigāma,
 
 đến Ambagāma,
@@ -645,8 +623,7 @@ Tại đó, khi trú ở Bhoganagara tại đền Ānanda, Thế Tôn cũng thư
 "Đây là *đạo đức*, đây là *Định*, đây là *trí tuệ*. *Định* được tu tập cùng với *đạo đức* sẽ mang lại quả lớn, lợi ích lớn. *Trí tuệ* được tu tập cùng với *Định* sẽ mang lại quả lớn, lợi ích lớn. Tâm được tu tập cùng với *trí tuệ* sẽ được giải thoát hoàn toàn khỏi các *nguồn ác*, đó là—*nguồn ác của ham muốn giác quan*, *nguồn ác của mong muốn hiện hữu*, *nguồn ác của Không Hiểu Biết*."
 
 <!--pg-->
-## 23. Câu chuyện về Cunda, con trai người thợ rèn (Kammāraputtacundavatthu)
-
+## 23. Câu chuyện về Cunda, con trai người thợ rèn (Kammāraputtacundavatthu){#23}
 Rồi Thế Tôn, sau khi trú ở Bhoganagara cho đến khi vừa ý, đã gọi tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến Pāvā."
 
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn. Rồi Thế Tôn cùng với đại chúng tỳ kheo đi đến Pāvā. Tại đó, Thế Tôn trú ở Pāvā, trong vườn xoài của Cunda, con trai người thợ rèn.
@@ -680,8 +657,7 @@ Rồi Thế Tôn, sau khi dùng bữa ăn của Cunda, một căn bệnh trầm 
 > "Ta sẽ đi đến thành Kusinārā."
 
 <!--pg-->
-## 24. Mang nước uống (Pānīyāharaṇa)
-
+## 24. Mang nước uống (Pānīyāharaṇa){#24}
 Rồi Thế Tôn bước ra khỏi đường, đi đến một gốc cây; sau khi đến, Ngài gọi tôn giả Ānanda: "Này Ānanda, hãy gấp y Tăng-già-lê làm bốn và trải ra cho Ta, Ta đang mệt, này Ānanda, Ta muốn ngồi."
 
 "Thưa vâng, bạch Thế Tôn," tôn giả Ānanda đáp lời Thế Tôn và trải y Tăng-già-lê gấp làm bốn. Thế Tôn ngồi trên chỗ đã được dọn sẵn.
@@ -699,8 +675,7 @@ Lần thứ ba Thế Tôn gọi tôn giả Ānanda: "Này Ānanda, hãy mang nư
 Rồi tôn giả Ānanda suy nghĩ: "Thật kỳ diệu thay, thật phi thường thay, thần thông lớn và uy lực lớn của Như Lai. Dòng sông nhỏ này bị bánh xe cắt ngang, ít ỏi, bị khuấy động, đục ngầu đang chảy, nhưng khi ta đến gần, nó lại chảy trong vắt, sáng sủa, không vẩn đục." Lấy nước vào bát, vị ấy đi đến chỗ Thế Tôn; sau khi đến, bạch Thế Tôn: "Thật kỳ diệu, bạch Thế Tôn, thật phi thường, bạch Thế Tôn, thần thông lớn và uy lực lớn của Như Lai. Vừa rồi dòng sông nhỏ đó bị bánh xe cắt ngang, ít ỏi, bị khuấy động, đục ngầu đang chảy, nhưng khi con đến gần, nó lại chảy trong vắt, sáng sủa, không vẩn đục. Xin Thế Tôn hãy uống nước, xin Bậc Thiện Thệ hãy uống nước." Rồi Thế Tôn uống nước.
 
 <!--pg-->
-## 25. Câu chuyện về Pukkusa dòng dõi Malla (Pukkusamallaputtavatthu)
-
+## 25. Câu chuyện về Pukkusa dòng dõi Malla (Pukkusamallaputtavatthu){#25}
 Lúc bấy giờ, Pukkusa dòng dõi Malla, một đệ tử của Āḷāra Kālāma, đang đi trên đường từ Kusinārā đến Pāvā. Pukkusa thấy Thế Tôn đang ngồi dưới một gốc cây. Thấy vậy, ông đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Pukkusa bạch Thế Tôn: "Thật kỳ diệu, bạch Thế Tôn, thật phi thường, bạch Thế Tôn, những người xuất gia sống trong trạng thái an tịnh thật sự.
 
 Bạch Thế Tôn, thuở xưa Āḷāra Kālāma đang đi trên đường, bước ra khỏi đường và ngồi nghỉ trưa dưới một gốc cây cách đó không xa. Khi đó, bạch Thế Tôn, có khoảng năm trăm cỗ xe đi ngang qua sát bên Āḷāra Kālāma. Rồi một người đi theo sau đoàn xe đó đi đến chỗ Āḷāra Kālāma; sau khi đến, hỏi Āḷāra Kālāma: 'Thưa ngài, ngài có thấy khoảng năm trăm cỗ xe đi qua không?'
@@ -824,8 +799,7 @@ Tụng phẩm thứ tư.
 
 <!--pg-->
 
-## 26. Cặp cây Sāla (Yamakasālā)
-
+## 26. Cặp cây Sāla (Yamakasālā){#26}
 Khi ấy, Thế Tôn gọi tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến bờ bên kia sông Hiraññavatī, hướng về Kusinārā, đến rừng cây Sāla của dòng họ Malla ở Upavattana."
 
 "Vâng, thưa ngài," tôn giả Ānanda đáp lời Thế Tôn. Sau đó, Thế Tôn cùng với một hội chúng tỳ-kheo lớn đi đến bờ bên kia sông Hiraññavatī, hướng về Kusinārā, đến rừng cây Sāla của dòng họ Malla ở Upavattana. Khi đến nơi, ngài gọi tôn giả Ānanda: "Này Ānanda, hãy dọn cho ta một chỗ nằm giữa cặp cây Sāla, đầu hướng về phía bắc. Ta đang mệt mỏi, này Ānanda, ta muốn nằm nghỉ."
@@ -837,8 +811,7 @@ Vào lúc bấy giờ, cặp cây Sāla nở hoa rực rỡ dù trái mùa. Nh�
 Khi ấy, Thế Tôn gọi tôn giả Ānanda: "Này Ānanda, cặp cây Sāla đang nở hoa rực rỡ dù trái mùa. Chúng rơi rụng, tuôn đổ, rải rắc lên thân thể của *Người Đến Như Vậy* để cúng dường. Hoa Mandārava, bột trầm hương cõi trời rơi xuống, âm nhạc và bài ca cõi trời vang lên để cúng dường *Người Đến Như Vậy*. Nhưng này Ānanda, không phải bằng những cách này mà *Người Đến Như Vậy* được tôn trọng, tôn kính, kính trọng, cúng dường hay suy tôn. Này Ānanda, bất kỳ tỳ-kheo, tỳ-kheo-ni, nam cư sĩ hay nữ cư sĩ nào sống thực hành *Điều dạy* (Pháp / Dhamma) thuận theo *Điều dạy*, sống chân chính, hành xử theo *Điều dạy*, thì người đó đang tôn trọng, tôn kính, kính trọng, cúng dường và suy tôn *Người Đến Như Vậy* bằng sự cúng dường cao thượng nhất. Do đó, này Ānanda, các vị phải rèn luyện thế này: 'Chúng ta sẽ sống thực hành *Điều dạy* thuận theo *Điều dạy*, sống chân chính, hành xử theo *Điều dạy*'."
 
 <!--pg-->
-## 27. Trưởng lão Upavāṇa
-
+## 27. Trưởng lão Upavāṇa{#27}
 Vào lúc bấy giờ, tôn giả Upavāṇa đang đứng trước mặt Thế Tôn để quạt cho ngài. Thế Tôn liền bảo tôn giả Upavāṇa lùi lại: "Hãy lùi ra, tỳ-kheo, đừng đứng trước mặt ta."
 
 Tôn giả Ānanda liền nghĩ: "Tôn giả Upavāṇa này đã là thị giả của Thế Tôn từ lâu, luôn ở gần, luôn kề cận. Vậy mà trong giờ phút cuối cùng, Thế Tôn lại bảo tôn giả Upavāṇa lùi lại: 'Hãy lùi ra, tỳ-kheo, đừng đứng trước mặt ta.' Nguyên nhân là gì, *điều kiện* (duyên / paccaya) là gì mà Thế Tôn lại bảo tôn giả Upavāṇa lùi lại?"
@@ -856,8 +829,7 @@ Này Ānanda, có những chư thiên ở trên mặt đất có *Nhận Thức*
 Nhưng những chư thiên nào đã *cạn hết đắm nhiễm* (ly tham / vītarāgā), họ *quan sát và nhận biết rõ ràng*, chịu đựng với suy nghĩ: 'Các *hoạt động* (hành / saṅkhārā) là *không thường hằng* (vô thường / anicca), làm sao có thể mong cầu điều khác được?'"
 
 <!--pg-->
-## 28. Bốn nơi đáng để tôn kính
-
+## 28. Bốn nơi đáng để tôn kính{#28}
 "Thưa ngài, trước đây, sau khi an cư mùa mưa ở các phương, các tỳ-kheo thường đến để chiêm ngưỡng *Người Đến Như Vậy*. Chúng con được gặp gỡ và hầu hạ những tỳ-kheo đáng kính trọng. Nhưng sau khi Thế Tôn qua đời, chúng con sẽ không còn được gặp gỡ và hầu hạ những tỳ-kheo đáng kính trọng nữa."
 
 "Này Ānanda, có bốn nơi này đáng để một người con gia đình có niềm tin đến chiêm ngưỡng và tôn kính. Bốn nơi nào? 'Đây là nơi *Người Đến Như Vậy* đản sinh' — này Ānanda, đây là nơi đáng để chiêm ngưỡng và tôn kính. 'Đây là nơi *Người Đến Như Vậy* giác ngộ sự Giác Ngộ Hoàn Toàn Vô Thượng' — đây là nơi đáng để chiêm ngưỡng và tôn kính. 'Đây là nơi *Người Đến Như Vậy* vận chuyển bánh xe *Quy luật* vô thượng' — đây là nơi đáng để chiêm ngưỡng và tôn kính. 'Đây là nơi *Người Đến Như Vậy* *chấm dứt hoàn toàn* trong giới hạn của Niết-bàn không còn tàn dư' — đây là nơi đáng để chiêm ngưỡng và tôn kính. Này Ānanda, đây là bốn nơi đáng để một người con gia đình có niềm tin đến chiêm ngưỡng và tôn kính.
@@ -865,8 +837,7 @@ Nhưng những chư thiên nào đã *cạn hết đắm nhiễm* (ly tham / vī
 Này Ānanda, những tỳ-kheo, tỳ-kheo-ni, nam cư sĩ, nữ cư sĩ có niềm tin sẽ đến và nói: 'Đây là nơi *Người Đến Như Vậy* đản sinh', 'Đây là nơi *Người Đến Như Vậy* giác ngộ...', 'Đây là nơi *Người Đến Như Vậy* vận chuyển bánh xe...', 'Đây là nơi *Người Đến Như Vậy* *chấm dứt hoàn toàn*...'. Này Ānanda, bất cứ ai đi hành hương đến các tháp tưởng niệm với tâm trong sạch mà qua đời, tất cả họ sau khi cơ thể tan vỡ, sau khi chết, sẽ tái sinh vào cõi lành, thế giới thiên đường."
 
 <!--pg-->
-## 29. Những câu hỏi của Ānanda
-
+## 29. Những câu hỏi của Ānanda{#29}
 "Thưa ngài, chúng con nên cư xử thế nào với phụ nữ?"
 "Không nhìn, này Ānanda."
 "Nếu phải nhìn, thưa Thế Tôn, thì nên cư xử thế nào?"
@@ -883,8 +854,7 @@ Này Ānanda, những tỳ-kheo, tỳ-kheo-ni, nam cư sĩ, nữ cư sĩ có ni�
 "Này Ānanda, họ bọc thân thể của *Vua cai trị toàn cầu* bằng vải mới, sau đó bọc bằng bông tơi, rồi lại bọc bằng vải mới. Bằng cách này, họ bọc thân thể bằng năm trăm lớp vải kép, rồi đặt vào một vại sắt chứa dầu, đậy lại bằng một vại sắt khác, xây một giàn thiêu bằng mọi loại gỗ thơm và hỏa thiêu thân thể của *Vua cai trị toàn cầu*. Họ xây một *tháp tưởng niệm* (tháp / thūpa) cho *Vua cai trị toàn cầu* ở ngã tư đường. Này Ānanda, đó là cách họ xử lý thân thể của *Vua cai trị toàn cầu*. Cách xử lý thân thể của *Vua cai trị toàn cầu* ra sao, thì cách xử lý thân thể của *Người Đến Như Vậy* cũng như vậy. Một *tháp tưởng niệm* cho *Người Đến Như Vậy* nên được xây ở ngã tư đường. Tại đó, những ai dâng vòng hoa, hương liệu, bột thơm, hoặc đảnh lễ, hoặc làm cho tâm mình trong sạch, điều đó sẽ mang lại lợi ích và hạnh phúc lâu dài cho họ.
 
 <!--pg-->
-## 30. Những người xứng đáng được xây tháp
-
+## 30. Những người xứng đáng được xây tháp{#30}
 Này Ānanda, có bốn hạng người xứng đáng được xây *tháp tưởng niệm*. Bốn hạng người nào? *Người Đến Như Vậy*, Bậc Xứng Đáng, Bậc Tự Mình Giác Ngộ Hoàn Toàn xứng đáng được xây tháp; Bậc Tự Mình Giác Ngộ Độc Lập (Paccekabuddha) xứng đáng được xây tháp; Đệ tử của *Người Đến Như Vậy* xứng đáng được xây tháp; *Vua cai trị toàn cầu* xứng đáng được xây tháp.
 
 Này Ānanda, dựa vào lý do gì mà *Người Đến Như Vậy*... xứng đáng được xây tháp? Này Ānanda, nhiều người sẽ làm cho tâm mình trong sạch khi nghĩ rằng: 'Đây là tháp của Thế Tôn, Bậc Xứng Đáng, Bậc Tự Mình Giác Ngộ Hoàn Toàn'. Sau khi làm tâm trong sạch tại đó, khi cơ thể tan vỡ, sau khi chết, họ sẽ tái sinh vào cõi lành, thế giới thiên đường. Đây là lý do...
@@ -898,8 +868,7 @@ Dựa vào lý do gì mà *Vua cai trị toàn cầu* xứng đáng được xâ
 Này Ānanda, đây là bốn hạng người xứng đáng được xây tháp."
 
 <!--pg-->
-## 31. Những phẩm chất kỳ diệu của Ānanda
-
+## 31. Những phẩm chất kỳ diệu của Ānanda{#31}
 Khi ấy, tôn giả Ānanda đi vào một tịnh xá, tựa vào khung cửa và đứng khóc: "Than ôi, ta vẫn còn là người đang học tập, vẫn còn việc phải làm, vậy mà Bậc Đạo Sư của ta, người luôn thương xót ta, sắp *chấm dứt hoàn toàn*!"
 
 Thế Tôn liền hỏi các tỳ-kheo: "Này các tỳ-kheo, Ānanda đâu rồi?"
@@ -919,8 +888,7 @@ Này các tỳ-kheo, có bốn phẩm chất kỳ diệu và phi thường ở m
 Cũng giống như vậy, này các tỳ-kheo, có bốn phẩm chất kỳ diệu và phi thường ở Ānanda..."
 
 <!--pg-->
-## 32. Lời dạy về kinh Mahāsudassana
-
+## 32. Lời dạy về kinh Mahāsudassana{#32}
 Khi được nói như vậy, tôn giả Ānanda thưa với Thế Tôn:
 "Thưa ngài, xin Thế Tôn đừng *chấm dứt hoàn toàn* ở cái thị trấn nhỏ bé, hoang vu, hẻo lánh này. Thưa ngài, có những thành phố lớn khác như Campā, Rājagaha, Sāvatthī, Sāketa, Kosambī, Bārāṇasī; xin Thế Tôn hãy *chấm dứt hoàn toàn* ở đó. Ở đó có nhiều trí thức giai cấp chiến binh, Bà-la-môn, chủ nhà có niềm tin sâu sắc vào *Người Đến Như Vậy*, họ sẽ lo việc cúng dường thân thể của *Người Đến Như Vậy*."
 
@@ -932,8 +900,7 @@ Này Ānanda, hãy đi vào Kusinārā và thông báo cho những người dòn
 "Vâng, thưa ngài," tôn giả Ānanda đáp lời, mặc y, mang bát và cùng một người bạn đồng hành đi vào Kusinārā.
 
 <!--pg-->
-## 33. Dòng họ Malla đảnh lễ
-
+## 33. Dòng họ Malla đảnh lễ{#33}
 Vào lúc bấy giờ, những người dòng họ Malla ở Kusinārā đang tụ tập tại hội trường vì một công việc nào đó. Tôn giả Ānanda đi đến hội trường và thông báo cho họ: "Này các Vāseṭṭha, hôm nay vào canh cuối của đêm, *sự chấm dứt hoàn toàn* của *Người Đến Như Vậy* sẽ diễn ra. Hãy đến... Đừng để sau này phải hối hận..."
 
 Nghe lời của tôn giả Ānanda, những người đàn ông, thanh niên, con dâu, và phụ nữ dòng họ Malla đều đau buồn, sầu não, tâm trí ngập tràn đau khổ. Một số xõa tóc than khóc, giơ cao hai tay than khóc, ngã quỵ xuống, lăn lộn qua lại, than vãn: "Quá sớm, Thế Tôn sẽ *chấm dứt hoàn toàn*! Quá sớm, Bậc Thiện Thệ sẽ *chấm dứt hoàn toàn*! Quá sớm, Con Mắt của thế gian sẽ biến mất!"
@@ -943,8 +910,7 @@ Sau đó, tất cả họ với tâm trí ngập tràn đau khổ đi đến r�
 Tôn giả Ānanda nghĩ: "Nếu ta để từng người dòng họ Malla đảnh lễ Thế Tôn, thì đêm sẽ tàn trước khi tất cả kịp đảnh lễ. Tốt hơn ta nên xếp họ theo từng gia đình và cho đảnh lễ: 'Thưa ngài, người dòng họ Malla tên này, cùng với con cái, vợ, tùy tùng và quan lại, xin cúi đầu đảnh lễ dưới chân Thế Tôn'." Và tôn giả Ānanda đã làm như vậy. Bằng cách này, tôn giả Ānanda đã giúp những người dòng họ Malla đảnh lễ Thế Tôn ngay trong canh đầu của đêm.
 
 <!--pg-->
-## 34. Câu chuyện tu sĩ lang thang Subhadda
-
+## 34. Câu chuyện tu sĩ lang thang Subhadda{#34}
 Vào lúc bấy giờ, có một tu sĩ lang thang tên là Subhadda đang sống ở Kusinārā. Subhadda nghe tin: "Đêm nay vào canh cuối, tu sĩ Gotama sẽ *chấm dứt hoàn toàn*." Subhadda nghĩ: "Ta từng nghe các tu sĩ lang thang lớn tuổi, những bậc thầy truyền lại rằng: 'Rất hiếm khi các vị *Người Đến Như Vậy*, những Bậc Xứng Đáng, Bậc Tự Mình Giác Ngộ Hoàn Toàn xuất hiện trên đời.' Đêm nay tu sĩ Gotama sẽ *chấm dứt hoàn toàn*. Ta đang có một mối nghi ngờ, và ta tin tưởng rằng tu sĩ Gotama có thể giảng dạy *Điều dạy* để ta loại bỏ mối nghi ngờ này."
 
 Subhadda đi đến rừng cây Sāla, gặp tôn giả Ānanda và bày tỏ mong muốn được gặp tu sĩ Gotama.
@@ -988,8 +954,7 @@ Vị ấy hiểu rõ: "Sự Tái sinh đã cạn kiệt, đời sống phạm h�
 (Kết thúc phần tụng thứ năm).
 
 <!--pg-->
-## 35. Lời dạy cuối cùng của Người Đến Như Vậy
-
+## 35. Lời dạy cuối cùng của Người Đến Như Vậy{#35}
 Khi ấy, Thế Tôn gọi tôn giả Ānanda:
 "Này Ānanda, có thể các vị sẽ nghĩ: 'Lời dạy không còn Bậc Đạo Sư nữa, chúng ta không còn Bậc Đạo Sư.' Này Ānanda, không nên nghĩ như vậy. *Điều dạy* (Pháp) và Kỷ luật (Luật) mà ta đã giảng dạy và quy định cho các vị, đó sẽ là Bậc Đạo Sư của các vị sau khi ta qua đời.
 
@@ -1016,8 +981,7 @@ Sau đó, Thế Tôn nói với các tỳ-kheo: "Này các tỳ-kheo, ta khuyên
 Đây là lời nói cuối cùng của *Người Đến Như Vậy*.
 
 <!--pg-->
-## 36. Câu chuyện về sự chấm dứt hoàn toàn
-
+## 36. Câu chuyện về sự chấm dứt hoàn toàn{#36}
 Khi ấy, Thế Tôn nhập vào tầng *Thiền-na* (Thiền / jhāna) thứ nhất; xuất khỏi tầng *Thiền-na* thứ nhất, ngài nhập vào tầng *Thiền-na* thứ hai; xuất khỏi tầng *Thiền-na* thứ hai, ngài nhập vào tầng *Thiền-na* thứ ba; xuất khỏi tầng *Thiền-na* thứ ba, ngài nhập vào tầng *Thiền-na* thứ tư; xuất khỏi tầng *Thiền-na* thứ tư, ngài nhập vào *cõi Không Gian là Vô Tận* (không vô biên xứ / ākāsānañcāyatana); xuất khỏi *cõi Không Gian là Vô Tận*, ngài nhập vào *cõi 'Cái Biết' là Vô Tận* (thức vô biên xứ / viññāṇañcāyatana); xuất khỏi *cõi 'Cái Biết' là Vô Tận*, ngài nhập vào *cõi Không Có Vật Gì* (vô sở hữu xứ / ākiñcaññāyatana); xuất khỏi *cõi Không Có Vật Gì*, ngài nhập vào *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* (phi tưởng phi phi tưởng xứ / nevasaññānāsaññāyatana); xuất khỏi *xứ Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*, ngài nhập vào *Định làm ngưng Cảm Thọ và Nhận Thức* (diệt thọ tưởng định / saññāvedayitanirodha).
 
 Lúc đó, tôn giả Ānanda nói với tôn giả Anuruddha: "Thưa tôn giả Anuruddha, Thế Tôn đã *chấm dứt hoàn toàn* rồi."
@@ -1075,8 +1039,7 @@ Tôn giả Anuruddha bảo tôn giả Ānanda: "Hãy đi, hiền giả Ānanda, 
 Lúc đó, những người dòng họ Malla đang tụ tập tại hội trường vì chính việc này. Tôn giả Ānanda thông báo cho họ. Nghe tin, họ đau buồn, sầu não, than khóc như trước.
 
 <!--pg-->
-## 37. Cúng dường thân thể Phật
-
+## 37. Cúng dường thân thể Phật{#37}
 Những người dòng họ Malla ra lệnh cho người hầu: "Hãy thu thập tất cả hương liệu, vòng hoa và nhạc cụ ở Kusinārā."
 Họ mang theo hương liệu, vòng hoa, nhạc cụ và năm trăm lớp vải, đi đến rừng cây Sāla ở Upavattana. Họ cúng dường thân thể Thế Tôn bằng những điệu múa, bài ca, âm nhạc, vòng hoa và hương liệu, tôn trọng, kính trọng, dựng rạp vải và trang hoàng các sảnh đường, trải qua ngày thứ nhất.
 
@@ -1097,8 +1060,7 @@ Tôn giả Ānanda lặp lại lời dạy của Đức Phật về cách xử l
 Người dòng họ Malla làm y như vậy, đặt thân thể lên giàn thiêu bằng mọi loại gỗ thơm.
 
 <!--pg-->
-## 38. Câu chuyện về Trưởng lão Mahākassapa
-
+## 38. Câu chuyện về Trưởng lão Mahākassapa{#38}
 Vào lúc bấy giờ, tôn giả Mahākassapa đang đi trên đường từ Pāvā đến Kusinārā cùng với một hội chúng lớn khoảng năm trăm tỳ-kheo. Tôn giả bước ra khỏi đường và ngồi nghỉ dưới gốc cây.
 Một tu sĩ ngoại đạo (Ājīvaka) đang đi từ Kusinārā đến Pāvā, mang theo một bông hoa Mandārava. Tôn giả Mahākassapa thấy người ấy từ xa liền hỏi: "Này hiền giả, ông có biết Bậc Đạo Sư của chúng tôi không?"
 "Có, tôi biết. Tu sĩ Gotama đã *chấm dứt hoàn toàn* được bảy ngày rồi. Tôi lấy bông hoa Mandārava này từ đó."
@@ -1115,8 +1077,7 @@ Khi thân thể Thế Tôn bị thiêu rụi, da, lớp da trong, thịt, gân, 
 Sau đó, họ đặt xá-lợi trong hội trường, lập hàng rào giáo mác và cung tên bảo vệ, cúng dường suốt bảy ngày.
 
 <!--pg-->
-## 39. Phân chia xá-lợi
-
+## 39. Phân chia xá-lợi{#39}
 Vua Ajātasattu của Magadha nghe tin, liền cử sứ giả đến Kusinārā: "Thế Tôn là người giai cấp chiến binh, ta cũng là người giai cấp chiến binh. Ta xứng đáng có một phần xá-lợi để xây tháp và cúng dường."
 Tương tự, những người Licchavi ở Vesālī, dòng họ Sakya ở Kapilavatthu, dòng họ Buli ở Allakappa, dòng họ Koliya ở Rāmagāma, một Bà-la-môn ở Veṭṭhadīpa, và dòng họ Malla ở Pāvā đều cử sứ giả đến đòi một phần xá-lợi.
 
@@ -1137,8 +1098,7 @@ Bà-la-môn Doṇa chia xá-lợi thành tám phần và xin giữ lại chiếc
 Dòng họ Moriya ở Pippalivana đến muộn, nên chỉ nhận được tro từ giàn thiêu.
 
 <!--pg-->
-## 40. Thờ cúng tháp xá-lợi
-
+## 40. Thờ cúng tháp xá-lợi{#40}
 Vua Ajātasattu xây tháp và cúng dường xá-lợi tại Rājagaha. Những người Licchavi xây tháp tại Vesālī. Dòng họ Sakya xây tháp tại Kapilavatthu. Dòng họ Buli xây tháp tại Allakappa. Dòng họ Koliya xây tháp tại Rāmagāma. Bà-la-môn Veṭṭhadīpaka xây tháp tại Veṭṭhadīpa. Dòng họ Malla ở Pāvā xây tháp tại Pāvā. Dòng họ Malla ở Kusinārā xây tháp tại Kusinārā. Bà-la-môn Doṇa xây tháp cho chiếc bình đong. Dòng họ Moriya xây tháp cho tro.
 Như vậy có tám tháp xá-lợi, tháp thứ chín là tháp bình đong, tháp thứ mười là tháp tro. Sự việc đã diễn ra như vậy.
 

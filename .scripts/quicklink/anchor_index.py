@@ -1,0 +1,131 @@
+import re
+from pathlib import Path
+
+
+# ============================================================
+# 1. CÁC RULE HEADER
+# ============================================================
+
+RULES = [
+    # --------------------------------------------------------
+    # Case: #### (XXI) (Ek II, 4) (It. 7)
+    #       -> {#21}
+    # --------------------------------------------------------
+    {
+        "regex": re.compile(
+            r"^(####)\s+\(([IVXLCDM]+)\)\s+(.+?)\s*$",
+            re.MULTILINE
+        ),
+        "anchor": lambda m: str(roman_to_int(m.group(2))),
+    },
+
+    # --------------------------------------------------------
+    # Case:
+    # ## 2. Giới đức (Sīla)
+    # ### 2.1. Giới đức nhỏ (Cūḷasīla)
+    #
+    # -> {#2}
+    # -> {#2.1}
+    # --------------------------------------------------------
+    {
+        "regex": re.compile(
+            r"^(#{2,})\s+(\d+(?:\.\d+)*\.)\s+(.+?)\s*$",
+            re.MULTILINE
+        ),
+        "anchor": lambda m: m.group(2).rstrip("."),
+    },
+    # --------------------------------------------------------
+    # Case:
+    # ### AN 10.189 Con Đường Thiện Lành Ariyamaggasutta
+    # ### AN 1.11--20 Nīvaraṇappahānavagga
+    #
+    # -> {#189}
+    # -> {#11-20}
+    # --------------------------------------------------------
+    {
+        "regex": re.compile(
+            r"^(#{2,})\s+AN\s+\d+\.(\d+(?:\s*(?:--|–|-)\s*\d+)?)\s+(.+?)\s*$",
+            re.MULTILINE
+        ),
+        "anchor": lambda m: re.sub(
+            r"\s*(?:--|–|-)\s*",
+            "-",
+            m.group(2)
+        ),
+    },
+]
+
+
+# ============================================================
+# 2. ROMAN -> INTEGER
+# ============================================================
+
+def roman_to_int(s):
+    values = {
+        "I": 1,
+        "V": 5,
+        "X": 10,
+        "L": 50,
+        "C": 100,
+        "D": 500,
+        "M": 1000,
+    }
+
+    total = 0
+    prev = 0
+
+    for char in reversed(s.upper()):
+        value = values[char]
+
+        if value < prev:
+            total -= value
+        else:
+            total += value
+
+        prev = value
+
+    return total
+
+
+# ============================================================
+# 3. XỬ LÝ FILE
+# ============================================================
+
+def process_file(filename):
+    path = Path(filename)
+    content = path.read_text(encoding="utf-8")
+
+    original_content = content
+
+    for rule in RULES:
+
+        def replace(match):
+            header = match.group(0).rstrip()
+
+            # Không thêm anchor nếu đã có
+            if re.search(r"\{#[^}]+\}\s*$", header):
+                return header
+
+            anchor = rule["anchor"](match)
+
+            return f"{header}{{#{anchor}}}"
+
+        content = rule["regex"].sub(replace, content)
+
+    if content != original_content:
+        path.write_text(content, encoding="utf-8")
+        print(f"Updated: {filename}")
+    else:
+        print(f"No change: {filename}")
+
+
+# ============================================================
+# 4. INPUT = LIST FILES
+# ============================================================
+
+files = [
+"/Users/ng/projects/nikaya2/docs/kinhtangchi/sujato-vi/an-05-022-the-chapter-on-abuse copy.md"
+]
+
+for file in files:
+    process_file(file)

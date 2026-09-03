@@ -3,8 +3,7 @@
 *(Brahmajālasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-001){target="_blank" class="note-link"}
 
-## 1. Câu chuyện về những người du sĩ (Paribbājakakathā)
-
+## 1. Câu chuyện về những người du sĩ (Paribbājakakathā){#1}
 Tôi đã nghe như vầy: Một thời Thế Tôn đang đi trên con đường cái giữa Rājagaha (Vương Xá) và Nāḷanda cùng với một Tăng chúng tỳ kheo đông đảo, khoảng năm trăm vị. Lúc bấy giờ, du sĩ Suppiya cũng đang đi trên con đường cái giữa Rājagaha và Nāḷanda cùng với người đệ tử là thanh niên Brahmadatta. Tại đó, du sĩ Suppiya dùng nhiều phương thức để nói lời chê bai Phật, chê bai *Điều dạy* (Pháp / Dhamma), chê bai Tăng chúng; trong khi đó, người đệ tử của du sĩ Suppiya là thanh niên Brahmadatta lại dùng nhiều phương thức để nói lời ca ngợi Phật, ca ngợi *Điều dạy*, ca ngợi Tăng chúng. Như vậy, hai thầy trò có những quan điểm hoàn toàn trái ngược nhau, cứ đi theo sát phía sau Thế Tôn và Tăng chúng tỳ kheo.
 
 Sau đó, Thế Tôn đi đến khu vườn Ambalaṭṭhikā, vào nghỉ một đêm tại nhà nghỉ của nhà vua cùng với Tăng chúng tỳ kheo. Du sĩ Suppiya cũng đi đến khu vườn Ambalaṭṭhikā, vào nghỉ một đêm tại nhà nghỉ của nhà vua cùng với người đệ tử là thanh niên Brahmadatta. Tại đó, du sĩ Suppiya lại dùng nhiều phương thức để nói lời chê bai Phật, chê bai *Điều dạy*, chê bai Tăng chúng; còn người đệ tử Brahmadatta lại dùng nhiều phương thức để nói lời ca ngợi Phật, ca ngợi *Điều dạy*, ca ngợi Tăng chúng. Như vậy, hai thầy trò có những quan điểm hoàn toàn trái ngược nhau trong lúc lưu trú.
@@ -26,10 +25,8 @@ Khi được hỏi vậy, các tỳ kheo bạch Thế Tôn: "Bạch Thế Tôn, 
 Này các tỳ kheo, nếu có người khác ca ngợi Ta, ca ngợi *Điều dạy*, hay ca ngợi Tăng chúng, các vị không nên vì thế mà sinh lòng vui sướng, hân hoan hay tự mãn trong tâm. Này các tỳ kheo, nếu có người khác ca ngợi Ta, ca ngợi *Điều dạy*, hay ca ngợi Tăng chúng, mà các vị lại vui sướng, hân hoan, tự mãn, thì điều đó sẽ trở thành chướng ngại cho chính các vị. Này các tỳ kheo, nếu có người khác ca ngợi Ta, ca ngợi *Điều dạy*, hay ca ngợi Tăng chúng, các vị cần phải xác nhận những điều đúng sự thật là đúng sự thật: 'Điều này là đúng sự thật, điều này là chính xác, điều này có ở nơi chúng tôi, điều này tồn tại ở nơi chúng tôi'.
 
 <!--pg-->
-## 2. Giới đức (Sīla)
-
-### 2.1. Giới đức nhỏ (Cūḷasīla)
-
+## 2. Giới đức (Sīla){#2}
+### 2.1. Giới đức nhỏ (Cūḷasīla){#2.1}
 Này các tỳ kheo, khi một người thường ca ngợi *Người Đến Như Vậy* (Như Lai / tathāgata), họ chỉ nói đến những điều nhỏ nhặt, thấp kém, chỉ thuộc về giới đức. Vậy những điều nhỏ nhặt, thấp kém, thuộc về giới đức ấy là gì?
 
 'Sa-môn Gotama đã từ bỏ việc sát sinh, tránh xa việc sát sinh, bỏ gậy gộc, bỏ vũ khí, có lòng tàm quý, có lòng từ bi, sống thương xót đến lợi ích của mọi sinh vật và loài hữu tình' — Này các tỳ kheo, người thường có thể nói như vậy khi ca ngợi *Người Đến Như Vậy* .
@@ -63,8 +60,7 @@ Tránh xa việc làm người đưa tin hay chạy việc.... Tránh xa việc 
 Kết thúc phần Giới đức nhỏ.
 
 <!--pg-->
-### 2.2. Giới đức trung bình (Majjhimasīla)
-
+### 2.2. Giới đức trung bình (Majjhimasīla){#2.2}
 'Trong khi một số sa-môn, bà-la-môn ăn những thức ăn được cúng dường bởi người có lòng tin, họ lại sống làm tổn hại hạt giống và cây cối như là: hạt giống từ rễ, hạt giống từ thân, hạt giống từ đốt, hạt giống từ ngọn, và thứ năm là hạt giống từ chính hạt; Sa-môn Gotama tránh xa việc làm tổn hại hạt giống và cây cối như vậy' — Này các tỳ kheo, người thường có thể nói như vậy khi ca ngợi *Người Đến Như Vậy*.
 
 'Trong khi một số sa-môn, bà-la-môn... sống đam mê việc tích trữ đồ dùng, cụ thể là: tích trữ thức ăn, tích trữ đồ uống, tích trữ quần áo, tích trữ xe cộ, tích trữ giường nằm, tích trữ hương liệu, tích trữ vật dụng; Sa-môn Gotama tránh xa việc tích trữ đồ dùng như vậy' — ...
@@ -88,8 +84,7 @@ Kết thúc phần Giới đức nhỏ.
 Kết thúc phần Giới đức trung bình.
 
 <!--pg-->
-### 2.3. Giới đức lớn (Mahāsīla)
-
+### 2.3. Giới đức lớn (Mahāsīla){#2.3}
 'Trong khi một số sa-môn, bà-la-môn ăn những thức ăn được cúng dường bởi người có lòng tin, họ lại nuôi sống bản thân bằng tà mạng qua các môn tà thuật, cụ thể là: xem tướng tay chân, xem điềm báo, xem sấm sét, giải mộng, xem tướng, xem vết chuột cắn, tế lửa bằng bơ, tế lửa bằng muôi, tế lửa bằng vỏ trấu, tế lửa bằng cám, tế lửa bằng gạo, tế lửa bằng bơ lỏng, tế lửa bằng dầu, tế lửa bằng miệng, tế lửa bằng máu, xem tướng cơ thể, xem phong thủy nhà cửa, xem tướng đất đai, bói toán ở nghĩa địa, trừ tà, bói toán bằng bùa chú, bói rắn, bói độc, bói bò cạp, bói chuột, bói chim, bói quạ, đoán tuổi thọ, làm bùa hộ mệnh chống tên bắn, hiểu tiếng kêu của thú; Sa-môn Gotama tránh xa tà mạng qua các môn tà thuật như vậy' — Này các tỳ kheo, người thường có thể nói như vậy khi ca ngợi *Người Đến Như Vậy* .
 
 'Trong khi một số sa-môn, bà-la-môn... nuôi sống bản thân bằng tà mạng qua các môn tà thuật, cụ thể là: xem tướng ngọc, xem tướng áo, xem tướng gậy, xem tướng vũ khí, xem tướng gươm, xem tướng mũi tên, xem tướng cung, xem tướng binh khí, xem tướng phụ nữ, xem tướng đàn ông, xem tướng bé trai, xem tướng bé gái, xem tướng nô lệ nam, xem tướng nô lệ nữ, xem tướng voi, xem tướng ngựa, xem tướng trâu, xem tướng bò đực, xem tướng bò cái, xem tướng dê, xem tướng cừu, xem tướng gà, xem tướng chim cút, xem tướng kỳ đà, xem tướng khuyên tai, xem tướng rùa, xem tướng nai; Sa-môn Gotama tránh xa tà mạng qua các môn tà thuật như vậy' — ...
@@ -109,17 +104,14 @@ Này các tỳ kheo, đây chỉ là những điều nhỏ nhặt, thấp kém, 
 Kết thúc phần Giới đức lớn.
 
 <!--pg-->
-## 3. *Quan điểm sai* (tà kiến / diṭṭhi)
-
-### 3.1. *Người suy đoán về quá khứ* (bản tế trạch kiếp / pubbantakappika)
-
+## 3. *Quan điểm sai* (tà kiến / diṭṭhi){#3}
+### 3.1. *Người suy đoán về quá khứ* (bản tế trạch kiếp / pubbantakappika){#3.1}
 Này các tỳ kheo, có những *Điều* khác sâu kín, khó thấy, khó hiểu, bình an, cao tột, vượt ngoài tầm lý luận, tinh tế, chỉ những bậc trí mới có thể trải nghiệm, mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp* (thắng tri / abhiññā), chứng ngộ và thuyết giảng, và chính những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ là nói một cách đúng đắn. Này các tỳ kheo, những *Điều* sâu kín, khó thấy, khó hiểu... mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp*, chứng ngộ và thuyết giảng đó là gì?
 
 <!--pg-->
 Này các tỳ kheo, có một số sa-môn, bà-la-môn là những *người suy đoán về quá khứ*, có những *quan điểm sai* về quá khứ, họ đưa ra nhiều lập luận khác nhau về quá khứ dựa trên mười tám cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu, căn cứ vào đâu mà trở thành những *người suy đoán về quá khứ*, có những *quan điểm sai* về quá khứ, đưa ra nhiều lập luận khác nhau về quá khứ dựa trên mười tám cơ sở?
 
-#### 3.1.1. *Thuyết vĩnh hằng* (thường kiến / sassatavāda)
-
+#### 3.1.1. *Thuyết vĩnh hằng* (thường kiến / sassatavāda){#3.1.1}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo *thuyết vĩnh hằng*, họ tuyên bố rằng *bản ngã* (ngã / attā) và *thế giới* (thế giới / loka) là vĩnh hằng dựa trên bốn cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu, căn cứ vào đâu mà theo *thuyết vĩnh hằng*, tuyên bố rằng *bản ngã* và *thế giới* là vĩnh hằng dựa trên bốn cơ sở?
 
 Ở đây, này các tỳ kheo, có một sa-môn hay bà-la-môn nhờ nỗ lực, nhờ tinh tấn, nhờ chuyên tâm, nhờ không phóng dật, nhờ *suy nghĩ đúng đắn* (chánh tác ý / sammāmanasikāra) mà đạt đến một trạng thái định tâm; khi tâm đã định tĩnh (...) vị ấy nhớ lại nhiều đời sống quá khứ. Cụ thể là—nhớ lại một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều trăm đời, nhiều ngàn đời, nhiều trăm ngàn đời: 'Tại nơi kia, ta đã có tên như thế này, dòng họ như thế này, ngoại hình như thế này, thức ăn như thế này, trải nghiệm *hạnh phúc* (lạc / sukha) và *đau khổ* (khổ / dukkha) như thế này, tuổi thọ như thế này; sau khi chết từ đó, ta sinh ra ở nơi nọ; tại nơi nọ, ta cũng có tên như thế này, dòng họ như thế này, ngoại hình như thế này, thức ăn như thế này, trải nghiệm *hạnh phúc* và *đau khổ* như thế này, tuổi thọ như thế này; sau khi chết từ đó, ta sinh ra ở đây'. Như vậy, vị ấy nhớ lại nhiều đời sống quá khứ cùng với các đặc điểm và chi tiết.
@@ -150,8 +142,7 @@ Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, 
 (Hết phần tụng thứ nhất).
 
 <!--pg-->
-#### 3.1.2. Thuyết một phần vĩnh hằng (Ekaccasassatavāda)
-
+#### 3.1.2. Thuyết một phần vĩnh hằng (Ekaccasassatavāda){#3.1.2}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo thuyết một phần vĩnh hằng, một phần không vĩnh hằng, họ tuyên bố rằng *bản ngã* và *thế giới* một phần là vĩnh hằng, một phần không vĩnh hằng dựa trên bốn cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu, căn cứ vào đâu mà tuyên bố rằng *bản ngã* và *thế giới* một phần là vĩnh hằng, một phần không vĩnh hằng dựa trên bốn cơ sở?
 
 Này các tỳ kheo, có một thời điểm nào đó, sau một khoảng thời gian rất dài, *thế giới* này co lại. Khi *thế giới* đang co lại, phần lớn chúng sinh sinh về cõi Quang Âm thiên. Tại đó, họ được tạo ra từ tâm, nuôi dưỡng bằng *hân hoan* (hỷ / pīti), tự phát sáng, bay lượn trong không gian, sống trong sự rực rỡ, và họ tồn tại ở đó trong một thời gian rất dài.
@@ -191,8 +182,7 @@ Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này: 'Nh
 Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, khó hiểu... mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp*, chứng ngộ và thuyết giảng...
 
 <!--pg-->
-#### 3.1.3. Thuyết hữu hạn và vô hạn (Antānantavāda)
-
+#### 3.1.3. Thuyết hữu hạn và vô hạn (Antānantavāda){#3.1.3}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo thuyết hữu hạn và vô hạn, họ tuyên bố rằng *thế giới* là hữu hạn hoặc vô hạn dựa trên bốn cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... tuyên bố rằng *thế giới* là hữu hạn hoặc vô hạn dựa trên bốn cơ sở?
 
 Ở đây, này các tỳ kheo, có một sa-môn hay bà-la-môn nhờ nỗ lực... đạt đến một trạng thái định tâm; khi tâm đã định tĩnh, vị ấy an trú với *Nhận Thức* (tưởng / saññā) rằng *thế giới* là hữu hạn.
@@ -216,8 +206,7 @@ Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này... *
 Này các tỳ kheo, đây chính là những *Điều* sâu kín... mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp*, chứng ngộ và thuyết giảng...
 
 <!--pg-->
-#### 3.1.4. Thuyết ngụy biện trườn uốn (Amarāvikkhepavāda)
-
+#### 3.1.4. Thuyết ngụy biện trườn uốn (Amarāvikkhepavāda){#3.1.4}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo thuyết ngụy biện trườn uốn (như con lươn), khi bị hỏi về vấn đề này hay vấn đề khác, họ dùng lời lẽ lảng tránh, ngụy biện trườn uốn dựa trên bốn cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... mà dùng lời lẽ lảng tránh, ngụy biện trườn uốn dựa trên bốn cơ sở?
 
 Ở đây, này các tỳ kheo, có một sa-môn hay bà-la-môn không *thấy rõ* đúng như thật 'đây là *điều thiện*' (pháp thiện / kusala), không *thấy rõ* đúng như thật 'đây là *điều không thiện*' (pháp bất thiện / akusala). Vị ấy có suy nghĩ thế này: 'Ta không *thấy rõ* đúng như thật "đây là *điều thiện*", không *thấy rõ* đúng như thật "đây là *điều không thiện*". Nếu ta không *thấy rõ*... mà ta lại xác nhận "đây là *điều thiện*" hoặc "đây là *điều không thiện*", thì điều đó của ta sẽ là lời nói dối. Lời nói dối đó sẽ là sự bực dọc cho ta. Sự bực dọc đó sẽ là chướng ngại cho ta'. Vì vậy, do sợ nói dối, do ghê tởm việc nói dối, vị ấy không xác nhận đây là *điều thiện*, cũng không xác nhận đây là *điều không thiện*, khi bị hỏi về vấn đề này hay vấn đề khác, vị ấy dùng lời lẽ lảng tránh, ngụy biện trườn uốn: 'Tôi không nghĩ như vậy; tôi cũng không nghĩ là như thế kia; tôi cũng không nghĩ là khác đi; tôi không nói là không phải; tôi cũng không nói là không không phải'. Này các tỳ kheo, đây là cơ sở thứ nhất...
@@ -231,8 +220,7 @@ Thứ tư... Ở đây, này các tỳ kheo, có một sa-môn hay bà-la-môn l
 Này các tỳ kheo, chính nhờ bốn cơ sở này mà những sa-môn, bà-la-môn ấy dùng lời lẽ lảng tránh, ngụy biện trườn uốn... Bất kỳ ai làm như vậy đều dựa vào bốn cơ sở này... v.v... chính nhờ những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ nói một cách đúng đắn.
 
 <!--pg-->
-#### 3.1.5. Thuyết phát sinh ngẫu nhiên (Adhiccasamuppannavāda)
-
+#### 3.1.5. Thuyết phát sinh ngẫu nhiên (Adhiccasamuppannavāda){#3.1.5}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo thuyết phát sinh ngẫu nhiên, họ tuyên bố rằng *bản ngã* và *thế giới* phát sinh ngẫu nhiên dựa trên hai cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... tuyên bố rằng *bản ngã* và *thế giới* phát sinh ngẫu nhiên dựa trên hai cơ sở?
 
 Này các tỳ kheo, có những chư thiên tên là 'Không có *Nhận Thức*' (vô tưởng / asaññasattā). Khi một *Nhận Thức* phát sinh, những chư thiên ấy chết từ cõi đó. Này các tỳ kheo, có trường hợp một chúng sinh chết từ cõi đó và đến trạng thái này. Khi đến trạng thái này, người ấy xuất gia... nhờ nỗ lực... đạt đến định tâm, nhớ lại sự phát sinh của *Nhận Thức* đó, nhưng không nhớ xa hơn được nữa. Người ấy nói thế này: '*Bản ngã* và *thế giới* phát sinh ngẫu nhiên. Vì sao vậy? Vì trước đây ta không tồn tại, nay từ chỗ không tồn tại, ta đã chuyển hóa thành một thực thể tồn tại'. Này các tỳ kheo, đây là cơ sở thứ nhất...
@@ -251,12 +239,10 @@ Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, 
 (Hết phần tụng thứ hai).
 
 <!--pg-->
-### 3.2. *Người suy đoán về tương lai* (hậu tế trạch kiếp / aparantakappika)
-
+### 3.2. *Người suy đoán về tương lai* (hậu tế trạch kiếp / aparantakappika){#3.2}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn là những *người suy đoán về tương lai*, có những *quan điểm sai* về tương lai, họ đưa ra nhiều lập luận khác nhau về tương lai dựa trên bốn mươi bốn cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... đưa ra nhiều lập luận khác nhau về tương lai dựa trên bốn mươi bốn cơ sở?
 
-#### 3.2.1. Thuyết có *Nhận Thức* sau khi chết (Saññīvāda)
-
+#### 3.2.1. Thuyết có *Nhận Thức* sau khi chết (Saññīvāda){#3.2.1}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo thuyết có *Nhận Thức* sau khi chết, họ tuyên bố rằng *bản ngã* vẫn có *Nhận Thức* sau khi chết dựa trên mười sáu cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... tuyên bố rằng *bản ngã* vẫn có *Nhận Thức* sau khi chết dựa trên mười sáu cơ sở?
 
 Họ tuyên bố rằng: '*Bản ngã* có *Vật chất* (sắc / rūpa), khỏe mạnh sau khi chết, có *Nhận Thức*'.
@@ -294,8 +280,7 @@ Họ tuyên bố rằng: '*Bản ngã* không *đau khổ* không *hạnh phúc*
 Này các tỳ kheo, chính nhờ mười sáu cơ sở này mà những sa-môn, bà-la-môn ấy tuyên bố rằng *bản ngã* vẫn có *Nhận Thức* sau khi chết. Bất kỳ ai tuyên bố như vậy đều dựa vào mười sáu cơ sở này... v.v... chính nhờ những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ nói một cách đúng đắn.
 
 <!--pg-->
-#### 3.2.2. Thuyết không có *Nhận Thức* sau khi chết (Asaññīvāda)
-
+#### 3.2.2. Thuyết không có *Nhận Thức* sau khi chết (Asaññīvāda){#3.2.2}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo thuyết không có *Nhận Thức* sau khi chết, họ tuyên bố rằng *bản ngã* không có *Nhận Thức* sau khi chết dựa trên tám cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... tuyên bố rằng *bản ngã* không có *Nhận Thức* sau khi chết dựa trên tám cơ sở?
 
 Họ tuyên bố rằng: '*Bản ngã* có *Vật chất*, khỏe mạnh sau khi chết, không có *Nhận Thức*'.
@@ -317,8 +302,7 @@ Họ tuyên bố rằng: '*Bản ngã* không phải hữu hạn cũng không ph
 Này các tỳ kheo, chính nhờ tám cơ sở này mà những sa-môn, bà-la-môn ấy tuyên bố rằng *bản ngã* không có *Nhận Thức* sau khi chết. Bất kỳ ai tuyên bố như vậy đều dựa vào tám cơ sở này... v.v... chính nhờ những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ nói một cách đúng đắn.
 
 <!--pg-->
-#### 3.2.3. Thuyết không phải có *Nhận Thức* cũng không phải không có *Nhận Thức* sau khi chết (Nevasaññīnāsaññīvāda)
-
+#### 3.2.3. Thuyết không phải có *Nhận Thức* cũng không phải không có *Nhận Thức* sau khi chết (Nevasaññīnāsaññīvāda){#3.2.3}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo thuyết không phải có *Nhận Thức* cũng không phải không có *Nhận Thức* sau khi chết, họ tuyên bố rằng *bản ngã* không phải có *Nhận Thức* cũng không phải không có *Nhận Thức* sau khi chết dựa trên tám cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... tuyên bố như vậy dựa trên tám cơ sở?
 
 Họ tuyên bố rằng: '*Bản ngã* có *Vật chất*, khỏe mạnh sau khi chết, không phải có *Nhận Thức* cũng không phải không có *Nhận Thức*'.
@@ -340,8 +324,7 @@ Họ tuyên bố rằng: '*Bản ngã* không phải hữu hạn cũng không ph
 Này các tỳ kheo, chính nhờ tám cơ sở này mà những sa-môn, bà-la-môn ấy tuyên bố rằng *bản ngã* không phải có *Nhận Thức* cũng không phải không có *Nhận Thức* sau khi chết. Bất kỳ ai tuyên bố như vậy đều dựa vào tám cơ sở này... v.v... chính nhờ những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ nói một cách đúng đắn.
 
 <!--pg-->
-#### 3.2.4. *Thuyết hủy diệt hoàn toàn* (đoạn kiến / ucchedavāda)
-
+#### 3.2.4. *Thuyết hủy diệt hoàn toàn* (đoạn kiến / ucchedavāda){#3.2.4}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo *thuyết hủy diệt hoàn toàn*, họ tuyên bố sự cắt đứt, sự phá hủy, sự biến mất hoàn toàn của một chúng sinh đang tồn tại dựa trên bảy cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... tuyên bố sự cắt đứt, sự phá hủy, sự biến mất hoàn toàn của một chúng sinh đang tồn tại dựa trên bảy cơ sở?
 
 Ở đây, này các tỳ kheo, có một sa-môn hay bà-la-môn có lập luận thế này, có *quan điểm sai* thế này: 'Thưa ngài, vì *bản ngã* này có *Vật chất*, được cấu tạo từ bốn nguyên tố lớn, sinh ra từ cha mẹ, nên sau khi cơ thể tan rã, nó bị cắt đứt, bị phá hủy, không còn tồn tại sau khi chết. Thưa ngài, đến mức độ này, *bản ngã* này hoàn toàn bị hủy diệt'. Như vậy, một số người tuyên bố sự cắt đứt, sự phá hủy, sự biến mất hoàn toàn của một chúng sinh đang tồn tại.
@@ -361,8 +344,7 @@ Một người khác nói với người ấy thế này: 'Thưa ngài, *bản n
 Này các tỳ kheo, chính nhờ bảy cơ sở này mà những sa-môn, bà-la-môn ấy theo *thuyết hủy diệt hoàn toàn*, tuyên bố sự cắt đứt, sự phá hủy, sự biến mất hoàn toàn của một chúng sinh đang tồn tại. Bất kỳ ai tuyên bố như vậy đều dựa vào bảy cơ sở này... v.v... chính nhờ những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ nói một cách đúng đắn.
 
 <!--pg-->
-#### 3.2.5. *Thuyết Niết-bàn ngay trong hiện tại* (hiện tại Niết-bàn luận / diṭṭhadhammanibbānavāda)
-
+#### 3.2.5. *Thuyết Niết-bàn ngay trong hiện tại* (hiện tại Niết-bàn luận / diṭṭhadhammanibbānavāda){#3.2.5}
 Này các tỳ kheo, có một số sa-môn, bà-la-môn theo *thuyết Niết-bàn ngay trong hiện tại*, họ tuyên bố Niết-bàn tối thượng ngay trong hiện tại cho một chúng sinh đang tồn tại dựa trên năm cơ sở. Những tôn giả sa-môn, bà-la-môn ấy dựa vào đâu... tuyên bố Niết-bàn tối thượng ngay trong hiện tại cho một chúng sinh đang tồn tại dựa trên năm cơ sở?
 
 Ở đây, này các tỳ kheo, có một sa-môn hay bà-la-môn có lập luận thế này, có *quan điểm sai* thế này: 'Thưa ngài, khi nào *bản ngã* này được cung cấp đầy đủ, được trang bị trọn vẹn và tận hưởng năm *sợi dây trói buộc của bản năng* (ngũ dục / kāmaguṇa), thưa ngài, đến mức độ này, *bản ngã* này đã đạt được Niết-bàn tối thượng ngay trong hiện tại'. Như vậy, một số người tuyên bố Niết-bàn tối thượng ngay trong hiện tại cho một chúng sinh đang tồn tại.
@@ -389,10 +371,8 @@ Này các tỳ kheo, *Người Đến Như Vậy* *thấy rõ* điều này: 'Nh
 Này các tỳ kheo, đây chính là những *Điều* sâu kín, khó thấy, khó hiểu, bình an, cao tột, vượt ngoài tầm lý luận, tinh tế, chỉ những bậc trí mới có thể trải nghiệm, mà *Người Đến Như Vậy* đã tự mình *hiểu biết trực tiếp*, chứng ngộ và thuyết giảng, và chính những *Điều* này mà những ai nói lời ca ngợi chân thực về *Người Đến Như Vậy* sẽ là nói một cách đúng đắn.
 
 <!--pg-->
-## 4. Nền tảng của các tuyên bố về Bản ngã và Thế giới (Attālokapaññattivatthu)
-
-### 4.1. Phần về Sự lo âu và dao động (Paritassitavipphanditavāra)
-
+## 4. Nền tảng của các tuyên bố về Bản ngã và Thế giới (Attālokapaññattivatthu){#4}
+### 4.1. Phần về Sự lo âu và dao động (Paritassitavipphanditavāra){#4.1}
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu* (thường kiến / sassatavādā), tuyên bố bản ngã và thế giới là vĩnh cửu dựa trên bốn cơ sở; điều đó chỉ là *Cảm Thọ* (thọ / vedayita) của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao* (tham ái / taṇhā), nó chỉ là *sự lo âu và dao động* (khát ái dao động / paritassitavipphandita).
 
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu* (một phần thường kiến / ekaccasassatikā), tuyên bố bản ngã và thế giới một phần là vĩnh cửu, một phần không vĩnh cửu dựa trên bốn cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
@@ -420,8 +400,7 @@ Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*, có quan điểm về cả quá khứ và tương lai, dựa vào cả quá khứ và tương lai để tuyên bố nhiều lập luận khác nhau dựa trên sáu mươi hai cơ sở; điều đó chỉ là *Cảm Thọ* của những sa-môn, bà-la-môn không biết, không thấy, bị chi phối bởi *sự khát khao*, nó chỉ là *sự lo âu và dao động*.
 
 <!--pg-->
-### 4.2. Phần về phát sinh từ Xúc mà có (Phassapaccayāvāra)
-
+### 4.2. Phần về phát sinh từ Xúc mà có (Phassapaccayāvāra){#4.2}
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu*, tuyên bố bản ngã và thế giới là vĩnh cửu dựa trên bốn cơ sở; điều đó đều *phát sinh từ Xúc* mà có (phassapaccayā -  sự tiếp xúc giữa căn, trần và thức mà có).
 
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu*... điều đó cũng *phát sinh từ Xúc* mà có.
@@ -449,8 +428,7 @@ Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*... điều đó cũng *phát sinh từ Xúc* mà có.
 
 <!--pg-->
-### 4.3. Phần về Không có trường hợp đó (Netaṁṭhānaṁvijjativāra)
-
+### 4.3. Phần về Không có trường hợp đó (Netaṁṭhānaṁvijjativāra){#4.3}
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu*, tuyên bố bản ngã và thế giới là vĩnh cửu dựa trên bốn cơ sở; rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
@@ -478,13 +456,11 @@ Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*... rằng họ có thể trải nghiệm [những cảm thọ ấy] mà không có *Xúc*, điều đó là không thể xảy ra.
 
 <!--pg-->
-### 4.4. Lời giảng về Vòng luân hồi của các tà kiến (Diṭṭhigatikādhiṭṭhānavaṭṭakathā)
-
+### 4.4. Lời giảng về Vòng luân hồi của các tà kiến (Diṭṭhigatikādhiṭṭhānavaṭṭakathā){#4.4}
 Này các Tỳ-kheo, trong đó, những sa-môn, bà-la-môn nào là *người chủ trương vĩnh cửu*... những sa-môn, bà-la-môn nào là *người chủ trương một phần vĩnh cửu*... những sa-môn, bà-la-môn nào là *người chủ trương thế giới có giới hạn hay không giới hạn*... những sa-môn, bà-la-môn nào là *người ngụy biện trốn tránh*... những sa-môn, bà-la-môn nào là *người chủ trương sinh ra ngẫu nhiên*... những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ*... những sa-môn, bà-la-môn nào là *người chủ trương có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương không có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương không phải có nhận thức cũng không phải không có nhận thức sau khi chết*... những sa-môn, bà-la-môn nào là *người chủ trương hủy diệt*... những sa-môn, bà-la-môn nào là *người chủ trương Niết-bàn ngay trong hiện tại*... những sa-môn, bà-la-môn nào là *người suy đoán về tương lai*... những sa-môn, bà-la-môn nào là *người suy đoán về quá khứ* và *người suy đoán về tương lai*, có quan điểm về cả quá khứ và tương lai, dựa vào cả quá khứ và tương lai để tuyên bố nhiều lập luận khác nhau dựa trên sáu mươi hai cơ sở; tất cả họ đều trải nghiệm thông qua *Xúc* lặp đi lặp lại ở sáu *trường tiếp xúc* (xúc xứ / phassāyatana). Đối với họ, *do Điều Kiện* *Cảm Thọ* nên sinh ra *sự khát khao*; *do Điều Kiện* của *sự khát khao* nên có *nắm giữ* (thủ / upādāna); *do Điều Kiện* của *nắm giữ* nên có *cõi tồn tại* (hữu / bhava); *do Điều Kiện* của *cõi tồn tại* nên có *sinh* (sinh / jāti); *do Điều Kiện* của *sinh* nên *già chết* (lão tử / jarāmaraṇa), sầu muộn, than khóc, *đau khổ* (khổ / dukkha), *ưu phiền* (ưu / domanassa) và tuyệt vọng được *sự hình thành* (sinh / sambhavanti).
 
 <!--pg-->
-## 5. Lời giảng về Sự thoát ly khỏi vòng luân hồi (Vivaṭṭakathādi)
-
+## 5. Lời giảng về Sự thoát ly khỏi vòng luân hồi (Vivaṭṭakathādi){#5}
 Này các Tỳ-kheo, khi một Tỳ-kheo *thấy rõ* (tuệ tri / pajānāti) bản chất thực sự về *sự hình thành* (sinh / samudaya), sự *tan biến* (diệt / atthaṅgama), *sự hấp dẫn* (vị ngọt / assāda), *sự nguy hiểm* (sự nguy hiểm / ādīnava), và *sự thoát khỏi* (xuất ly / nissaraṇa) của sáu *trường tiếp xúc*, vị ấy *thấy rõ* điều vượt trội hơn tất cả những [quan điểm] này.
 
 Này các Tỳ-kheo, bất kỳ sa-môn hay bà-la-môn nào là *người suy đoán về quá khứ*, hay *người suy đoán về tương lai*, hay *người suy đoán về quá khứ* và *người suy đoán về tương lai*, có quan điểm về cả quá khứ và tương lai, dựa vào cả quá khứ và tương lai để tuyên bố nhiều lập luận khác nhau; tất cả họ đều bị *mắc kẹt trong tấm lưới* (võng lậu / antojālīkatā) của sáu mươi hai cơ sở này. Dù họ có trồi lên hụp xuống, họ vẫn ở trong đó; dù họ có trồi lên hụp xuống, họ vẫn bị bao hàm và *mắc kẹt trong tấm lưới* này.

@@ -33,8 +33,7 @@ Khi ấy, một vị chư thiên khác nói lên bài kệ này trước mặt T
 > Sau khi *từ bỏ* (đoạn trừ / pahāya) thân xác con người,\
 > Họ sẽ làm viên mãn nhóm chư thiên."
 
-## 1. Sự Tụ Tập Của Chư Thiên (Devatāsannipāta)
-
+## 1. Sự Tụ Tập Của Chư Thiên (Devatāsannipāta){#1}
 Khi ấy, Thế Tôn gọi các tỳ-kheo:
 
 "Phần lớn, này các tỳ-kheo, chư thiên từ mười thế giới đã tụ tập lại để chiêm ngưỡng Như Lai và hội chúng tỳ-kheo. Này các tỳ-kheo, những vị nào trong thời quá khứ là những bậc A-la-hán, bậc Chánh Đẳng Giác, thì đối với các Thế Tôn ấy, chư thiên cũng tụ tập lại tối đa giống như đối với ta hiện nay. Này các tỳ-kheo, những vị nào trong thời vị lai sẽ là những bậc A-la-hán, bậc Chánh Đẳng Giác, thì đối với các Thế Tôn ấy, chư thiên cũng sẽ tụ tập lại tối đa giống như đối với ta hiện nay. Ta sẽ kể tên, này các tỳ-kheo, các nhóm chư thiên; ta sẽ xưng danh, này các tỳ-kheo, các nhóm chư thiên; ta sẽ chỉ dạy, này các tỳ-kheo, các nhóm chư thiên. Hãy lắng nghe điều đó, hãy *suy nghĩ* (tác ý / manasikarotha) kỹ lưỡng, ta sẽ nói."

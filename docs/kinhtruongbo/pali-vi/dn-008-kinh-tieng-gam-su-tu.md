@@ -17,8 +17,7 @@ Này Kassapa, có một số sa-môn, bà-la-môn là những người hiểu bi
 Những gì ta nói là 'tốt', người khác cũng nói là 'tốt'. Những gì ta nói là 'không tốt', người khác cũng nói là 'không tốt'. Những gì ta nói là 'không tốt', người khác lại nói là 'tốt'. Những gì ta nói là 'tốt', người khác lại nói là 'không tốt'.
 
 <!--pg-->
-## 1. Thảo luận về sự chất vấn (Samanuyuñjāpanakathā)
-
+## 1. Thảo luận về sự chất vấn (Samanuyuñjāpanakathā){#1}
 Ta đến gặp họ và nói thế này: 'Này các hiền giả, những điểm nào chúng ta không đồng tình, hãy gác lại. Những điểm nào chúng ta đồng tình, ở đó những người hiểu biết hãy chất vấn, dò xét, và thảo luận với bậc đạo sư hoặc với hội chúng:
 
 "Những *Điều* nào của các vị này là *những Điều không thiện* (bất thiện pháp/akusalā dhammā), được xem là *không thiện*, *có lỗi* (sāvajjā), được xem là *có lỗi*, không nên thực hành, được xem là không nên thực hành, không xứng đáng với bậc thánh, được xem là không xứng đáng với bậc thánh, đen tối, được xem là đen tối. Ai là người đã hoàn toàn *từ bỏ* (đoạn trừ/pajahati) không còn sót lại *những Điều* này và sống như vậy, sa-môn Gotama hay các vị đạo sư của các hội chúng khác?"'
@@ -38,13 +37,11 @@ Lại nữa, này Kassapa, những người hiểu biết hãy chất vấn, dò
 Này Kassapa, có khả năng những người hiểu biết khi chất vấn, dò xét và thảo luận sẽ nói thế này: '*Những Điều* nào của các vị này là *những Điều thiện*, được xem là *thiện*, *không có lỗi*, được xem là *không có lỗi*, nên thực hành, được xem là nên thực hành, xứng đáng với bậc thánh, được xem là xứng đáng với bậc thánh, trong sáng, được xem là trong sáng. Hội chúng đệ tử của Gotama đã hoàn toàn thọ trì không còn sót lại *những Điều* này và sống như vậy, so với hội chúng đệ tử của các vị đạo sư khác'. Như vậy, này Kassapa, những người hiểu biết khi chất vấn, dò xét và thảo luận phần lớn sẽ ca ngợi chính chúng ta ở điểm này.
 
 <!--pg-->
-## 2. Tám Bước Thiện (Ariyaaṭṭhaṅgikamagga)
-
+## 2. Tám Bước Thiện (Ariyaaṭṭhaṅgikamagga){#2}
 Này Kassapa, có một con đường, có một phương pháp thực hành, người thực hành theo đó sẽ tự mình biết, tự mình thấy: 'Chỉ có sa-môn Gotama là người nói đúng lúc, nói sự thật, nói điều có lợi ích, nói *Điều dạy*, nói Kỷ luật'. Này Kassapa, con đường đó là gì, phương pháp thực hành đó là gì, mà người thực hành theo đó sẽ tự mình biết, tự mình thấy: 'Chỉ có sa-môn Gotama là người nói đúng lúc, nói sự thật, nói điều có lợi ích, nói *Điều dạy*, nói Kỷ luật'? Đó chính là *Tám Bước Thiện* (Bát Thánh Đạo/Ariya Aṭṭhaṅgika Magga). Cụ thể là: *Thấy Thiện* (Chánh kiến/Sammā-diṭṭhi), *Suy Nghĩ Thiện* (Chánh tư duy/Sammā-saṅkappa), *Lời Nói Thiện* (Chánh ngữ/Sammā-vācā), *Hành Động Thiện* (Chánh nghiệp/Sammā-kammanta), *Đời Sống Thiện* (Chánh mạng/Sammā-ājīva), *Nỗ lực Thiện* (Chánh tinh tấn/Sammā-vāyāma), *Tự Quan Sát Thiện* (Chánh niệm/Sammā-sati), *Định thiện* (Chánh định/Sammā-samādhi). Này Kassapa, đây là con đường, đây là phương pháp thực hành, mà người thực hành theo đó sẽ tự mình biết, tự mình thấy: 'Chỉ có sa-môn Gotama là người nói đúng lúc, nói sự thật, nói điều có lợi ích, nói *Điều dạy*, nói Kỷ luật'."
 
 <!--pg-->
-## 3. Các hình thức thực hành khổ hạnh (Tapopakkamakathā)
-
+## 3. Các hình thức thực hành khổ hạnh (Tapopakkamakathā){#3}
 Khi được nói vậy, người tu lõa thể Kassapa nói với Thế Tôn:
 
 "Thưa tôn giả Gotama, những hình thức thực hành *khổ hạnh* này của các sa-môn, bà-la-môn được xem là *đời sống sa-môn* (sa-môn hạnh/sāmañña) và *đời sống bà-la-môn* (bà-la-môn hạnh/brahmañña). Người ấy sống lõa thể, sống buông lỏng, liếm sạch tay, không nhận lời mời 'hãy đến', không nhận lời mời 'hãy đứng lại', không nhận thức ăn mang đến tận nơi, không nhận thức ăn nấu riêng cho mình, không chấp nhận lời mời. Người ấy không nhận thức ăn từ miệng nồi, không nhận thức ăn từ miệng chảo, không nhận qua ngưỡng cửa, không nhận qua cây gậy, không nhận qua cối giã gạo, không nhận từ hai người đang ăn, không nhận từ phụ nữ có thai, không nhận từ phụ nữ đang cho con bú, không nhận từ phụ nữ đang ở cùng đàn ông, không nhận từ nơi quyên góp, không nhận từ nơi có chó đứng đợi, không nhận từ nơi ruồi nhặng bu quanh, không ăn cá, không ăn thịt, không uống rượu nấu, không uống rượu lên men, không uống nước cám. Người ấy nhận thức ăn từ một nhà và chỉ ăn một miếng; hoặc nhận từ hai nhà và chỉ ăn hai miếng... nhận từ bảy nhà và chỉ ăn bảy miếng; nuôi sống bằng một bát, nuôi sống bằng hai bát...nuôi sống bằng bảy bát; ăn một ngày một bữa, hai ngày ăn một bữa... bảy ngày ăn một bữa. Cứ như vậy, người ấy thực hành việc ăn uống theo định kỳ, thậm chí nửa tháng một lần.
@@ -54,8 +51,7 @@ Thưa tôn giả Gotama, những hình thức thực hành *khổ hạnh* này c
 Thưa tôn giả Gotama, những hình thức thực hành *khổ hạnh* này của các sa-môn, bà-la-môn cũng được xem là *đời sống sa-môn* và *đời sống bà-la-môn*. Người ấy mặc vải gai, mặc vải gai pha, mặc vải liệm người chết, mặc giẻ rách nhặt từ đống rác, mặc vỏ cây, mặc da linh dương, mặc áo da linh dương có móng, mặc áo bện bằng cỏ kusa, mặc áo bện bằng vỏ cây, mặc áo bện bằng dăm gỗ, mặc áo bện bằng tóc, mặc áo bện bằng lông đuôi ngựa, mặc áo bện bằng lông cú; chuyên tâm thực hành việc nhổ tóc và râu; đứng liên tục, từ chối chỗ ngồi; ngồi xổm liên tục, chuyên tâm thực hành việc ngồi xổm; nằm trên gai, dọn chỗ ngủ trên gai; nằm trên ván gỗ; nằm trên đất trần; nằm nghiêng một bên, mặc cho bụi bẩn bám đầy người; sống ngoài trời, ngồi đâu cũng được; chuyên tâm thực hành việc ăn phân; chuyên tâm thực hành việc không uống nước lạnh; xuống nước tắm ba lần mỗi ngày (sáng, trưa, tối) để gột rửa."
 
 <!--pg-->
-## 4. Sự vô ích của các hình thức khổ hạnh (Tapopakkamaniratthakathā)
-
+## 4. Sự vô ích của các hình thức khổ hạnh (Tapopakkamaniratthakathā){#4}
 "Này Kassapa, cho dù một người sống lõa thể, sống buông lỏng, liếm sạch tay... [cho đến]... thực hành việc ăn uống theo định kỳ, thậm chí nửa tháng một lần. Nhưng nếu *sự trọn vẹn về đạo đức* (giới uẩn/sīlasampadā), *sự trọn vẹn về tâm* (tâm uẩn/cittasampadā), và *sự trọn vẹn về trí tuệ* (tuệ uẩn/paññāsampadā) của người ấy chưa được phát triển, chưa được chứng ngộ, thì người ấy vẫn còn cách xa *đời sống sa-môn*, cách xa *đời sống bà-la-môn*. Này Kassapa, khi nào một tỳ kheo phát triển *Tâm yêu thương* (từ/Mettā) không hận thù, không ác ý, và nhờ *cạn sạch* (đoạn tận/khayā) các *nguồn ác* (lậu hoặc/Āsava), tự mình *hiểu biết trực tiếp* (thắng tri/abhijānāti), chứng ngộ và an trú trong *sự giải thoát của tâm* (tâm giải thoát/cetovimutti), *sự giải thoát của trí tuệ* (tuệ giải thoát/paññāvimutti) không còn *nguồn ác* ngay trong hiện tại. Này Kassapa, tỳ kheo ấy được gọi là một sa-môn, cũng được gọi là một bà-la-môn.
 
 Này Kassapa, cho dù một người ăn rau, hoặc ăn lúa miêu... [cho đến]... sống bằng rễ cây và trái cây trong rừng, ăn trái cây rụng. Nhưng nếu *sự trọn vẹn về đạo đức*, *sự trọn vẹn về tâm*, và *sự trọn vẹn về trí tuệ* của người ấy chưa được phát triển, chưa được chứng ngộ, thì người ấy vẫn còn cách xa *đời sống sa-môn*, cách xa *đời sống bà-la-môn*. Này Kassapa, khi nào một tỳ kheo phát triển *Tâm yêu thương* không hận thù, không ác ý, và nhờ *cạn sạch* các *nguồn ác*, tự mình *hiểu biết trực tiếp*, chứng ngộ và an trú trong *sự giải thoát của tâm*, *sự giải thoát của trí tuệ* không còn *nguồn ác* ngay trong hiện tại. Này Kassapa, tỳ kheo ấy được gọi là một sa-môn, cũng được gọi là một bà-la-môn.
@@ -103,8 +99,7 @@ Bởi vì điều này, thì một người gia chủ, hay con của gia chủ, 
 Nhưng này Kassapa, có một điều khác biệt, có hình thức khác biệt với *khổ hạnh* đó, điều làm cho *đời sống sa-môn* hay *đời sống bà-la-môn* trở nên khó làm, cực kỳ khó làm, và đúng khi nói rằng: 'Thật khó nhận biết thay là một sa-môn, thật khó nhận biết thay là một bà-la-môn'. Này Kassapa, khi nào một tỳ kheo phát triển *Tâm yêu thương* không hận thù, không ác ý, và nhờ *cạn sạch* các *nguồn ác*, tự mình *hiểu biết trực tiếp*, chứng ngộ và an trú trong *sự giải thoát của tâm*, *sự giải thoát của trí tuệ* không còn *nguồn ác* ngay trong hiện tại. Này Kassapa, tỳ kheo ấy được gọi là một sa-môn, cũng được gọi là một bà-la-môn."
 
 <!--pg-->
-## 5. Sự trọn vẹn về Đạo đức, Tâm và Trí tuệ (Sīlasamādhipaññāsampadā)
-
+## 5. Sự trọn vẹn về Đạo đức, Tâm và Trí tuệ (Sīlasamādhipaññāsampadā){#5}
 Khi được nói vậy, người tu lõa thể Kassapa nói với Thế Tôn: "Thưa tôn giả Gotama, thế nào là *sự trọn vẹn về đạo đức*, thế nào là *sự trọn vẹn về tâm*, thế nào là *sự trọn vẹn về trí tuệ*?"
 
 "Ở đây, này Kassapa, *Người Đến Như Vậy* (Như Lai/Tathāgata) xuất hiện ở đời, là bậc A-la-hán, Tỉnh Giác Trọn Vẹn... [cho đến]... thấy rõ sự nguy hiểm trong những lỗi lầm nhỏ nhặt, thọ trì và học tập các học giới, có hành động và lời nói thiện, có đời sống trong sạch, trọn vẹn về đạo đức, phòng hộ các giác quan, có sự nhận biết rõ ràng, và sống biết đủ.
@@ -120,8 +115,7 @@ Với tâm được định tĩnh như vậy... [cho đến]... vị ấy hướ
 Này Kassapa, không có *sự trọn vẹn về đạo đức*, *sự trọn vẹn về tâm*, *sự trọn vẹn về trí tuệ* nào khác cao thượng hơn hay thù thắng hơn *sự trọn vẹn về đạo đức*, *sự trọn vẹn về tâm*, *sự trọn vẹn về trí tuệ* này.
 
 <!--pg-->
-## 6. Tiếng gầm sư tử (Sīhanādakathā)
-
+## 6. Tiếng gầm sư tử (Sīhanādakathā){#6}
 Này Kassapa, có một số sa-môn, bà-la-môn đề cao đạo đức. Họ dùng nhiều cách để ca ngợi đạo đức. Cho đến mức độ đạo đức cao tột của bậc thánh, ta không thấy ai ngang bằng với mình ở đó, huống hồ là hơn. Trái lại, chính ta là người vượt trội ở đó, tức là về đạo đức cao thượng.
 
 Này Kassapa, có một số sa-môn, bà-la-môn đề cao sự thực hành *khổ hạnh* nghiêm ngặt. Họ dùng nhiều cách để ca ngợi sự thực hành *khổ hạnh* nghiêm ngặt. Cho đến mức độ thực hành *khổ hạnh* nghiêm ngặt cao tột của bậc thánh, ta không thấy ai ngang bằng với mình ở đó, huống hồ là hơn. Trái lại, chính ta là người vượt trội ở đó, tức là về sự thực hành *khổ hạnh* nghiêm ngặt cao thượng.
@@ -137,8 +131,7 @@ Này Kassapa, có khả năng những người du sĩ ngoại đạo sẽ nói t
 Này Kassapa, có khả năng những người du sĩ ngoại đạo sẽ nói thế này: 'Sa-môn Gotama nói *tiếng gầm sư tử*, ngài rống giữa các hội chúng, ngài rống một cách tự tin đầy đủ, nhưng người ta không hỏi ngài câu hỏi... [cho đến]... người ta có hỏi ngài câu hỏi; nhưng ngài không trả lời được câu hỏi của họ... [cho đến]... ngài có trả lời được câu hỏi của họ; nhưng ngài không làm hài lòng tâm trí họ bằng câu trả lời... [cho đến]... ngài có làm hài lòng tâm trí họ bằng câu trả lời; nhưng họ không nghĩ rằng điều đó đáng để nghe... [cho đến]... họ có nghĩ rằng điều đó đáng để nghe; nhưng sau khi nghe họ không có niềm tin... [cho đến]... sau khi nghe họ có niềm tin; nhưng họ không thể hiện thái độ tin tưởng... [cho đến]... họ có thể hiện thái độ tin tưởng; nhưng họ không thực hành theo đúng như vậy... [cho đến]... họ có thực hành theo đúng như vậy; nhưng những người thực hành không đạt được kết quả'. Cần phải nói với họ: 'Đừng nói như vậy'. Cần phải nói với họ: 'Sa-môn Gotama nói *tiếng gầm sư tử*, ngài rống giữa các hội chúng, ngài rống một cách tự tin đầy đủ, người ta có hỏi ngài câu hỏi, ngài có trả lời được câu hỏi của họ, ngài có làm hài lòng tâm trí họ bằng câu trả lời, họ nghĩ rằng điều đó đáng để nghe, sau khi nghe họ có niềm tin, họ thể hiện thái độ tin tưởng, họ thực hành theo đúng như vậy, và những người thực hành đạt được kết quả'.
 
 <!--pg-->
-## 7. Thời gian thử thách cho ngoại đạo (Titthiyaparivāsakathā)
-
+## 7. Thời gian thử thách cho ngoại đạo (Titthiyaparivāsakathā){#7}
 Này Kassapa, có một lần ta đang trú ở Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu). Tại đó, một người tu phạm hạnh tên là Nigrodha đã hỏi ta một câu hỏi về sự thực hành *khổ hạnh* nghiêm ngặt. Khi được hỏi về sự thực hành *khổ hạnh* nghiêm ngặt, ta đã trả lời. Và sau khi ta trả lời, ông ấy đã vô cùng hoan hỉ."
 
 "Thưa Thế Tôn, ai nghe *Điều dạy* của Thế Tôn mà lại không vô cùng hoan hỉ? Con cũng vô cùng hoan hỉ khi nghe *Điều dạy* của Thế Tôn. Tuyệt vời thay, thưa Thế Tôn! Tuyệt vời thay, thưa Thế Tôn! Giống như người dựng đứng lại những gì bị lật úp, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc lối, hay cầm ngọn đèn sáng đi vào bóng tối để những ai có mắt có thể nhìn thấy hình ảnh; cũng vậy, *Điều dạy* đã được Thế Tôn làm sáng tỏ qua nhiều phương tiện. Con xin quy y Thế Tôn, quy y *Điều dạy* và hội chúng tỳ kheo. Xin cho con được *rời bỏ gia đình* (xuất gia/pabbajja) và *nhận giới cụ túc* (thọ đại giới/upasampada) dưới sự hướng dẫn của Thế Tôn."

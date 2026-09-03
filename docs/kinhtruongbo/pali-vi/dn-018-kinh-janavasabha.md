@@ -3,8 +3,7 @@
 *(Janavasabhasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-018){target="_blank" class="note-link" }
 
-## 1. Lời tuyên bố về những người ở Nādika và các nơi khác
-
+## 1. Lời tuyên bố về những người ở Nādika và các nơi khác{#1}
 Tôi đã nghe như vầy: Một thời, Thế Tôn trú tại Nādika, ở Ngôi nhà gạch.
 
 Lúc bấy giờ, Thế Tôn tuyên bố về cảnh giới tái sinh của các đệ tử ở các quốc gia xung quanh đã qua đời, đã mệnh chung, tại Kāsi, Kosala, Vajji, Malla, Ceti, Vaṁsa, Kuru, Pañcāla, Maccha, và Sūrasena:
@@ -22,8 +21,7 @@ Các đệ tử ở Nādika nghe rằng: "Thế Tôn tuyên bố về cảnh gi�
 Tôn giả Ānanda cũng nghe rằng: "Thế Tôn tuyên bố về cảnh giới tái sinh của các đệ tử ở các quốc gia xung quanh đã qua đời... [như trên]... Nghe lời giải đáp của Thế Tôn, các đệ tử ở Nādika vô cùng hoan hỷ, vui mừng, sinh lòng *hân hoan* và *thanh thản*."
 
 <!--pg-->
-## 2. Lời thưa thỉnh của Ānanda
-
+## 2. Lời thưa thỉnh của Ānanda{#2}
 Khi ấy, Tôn giả Ānanda suy nghĩ: "Cũng có rất nhiều đệ tử ở Magadha (Ma-kiệt-đà), những người có kinh nghiệm lâu năm, đã qua đời, đã mệnh chung. Dường như vùng Aṅga và Magadha đã trở nên trống vắng vì các đệ tử ở Aṅga và Magadha đã qua đời. Họ là những người có niềm tin vào Phật, niềm tin vào Pháp, niềm tin vào Tăng, và thực hành viên mãn các *lối sống đạo đức* (giới đức / sīla). Họ đã qua đời nhưng Thế Tôn không tuyên bố về họ. Thật tốt đẹp nếu Thế Tôn tuyên bố về họ, nhiều người sẽ sinh lòng tịnh tín, và nhờ đó sẽ đi đến cõi lành.
 
 Lại nữa, có vua Magadha là Seniya Bimbisāra, một vị vua đạo đức, cai trị theo *Quy luật* (Pháp / Dhamma), mang lại lợi ích cho các Bà-la-môn, gia chủ, thương nhân và người dân. Mọi người vẫn thường ca ngợi: 'Vị vua đạo đức của chúng ta đã mang lại hạnh phúc cho chúng ta rồi qua đời; chúng ta đã sống an vui trong vương quốc của vị vua đạo đức ấy'. Vị ấy cũng có niềm tin vào Phật, Pháp, Tăng và thực hành viên mãn các *lối sống đạo đức*. Mọi người nói rằng: 'Cho đến tận lúc chết, vua Bimbisāra vẫn ca ngợi Thế Tôn'. Vị ấy đã qua đời nhưng Thế Tôn không tuyên bố về vị ấy. Thật tốt đẹp nếu Thế Tôn tuyên bố về vị ấy, nhiều người sẽ sinh lòng tịnh tín, và nhờ đó sẽ đi đến cõi lành.
@@ -42,8 +40,7 @@ Khi ấy, Tôn giả Ānanda đi đến chỗ Thế Tôn; đảnh lễ rồi ng�
 "Này Ānanda, ngay sau khi ông thưa thỉnh trực tiếp Ta về các đệ tử Magadha rồi rời đi, Ta đã đi khất thực... [như trên]... Ta đã tập trung toàn bộ tâm trí hướng về các đệ tử Magadha: 'Ta sẽ biết cảnh giới của họ...'. Và này Ānanda, Ta đã thấy các đệ tử Magadha đi đến cảnh giới nào, tái sinh ở nơi nào.
 
 <!--pg-->
-## 3. Tinh linh Janavasabha
-
+## 3. Tinh linh Janavasabha{#3}
 Khi ấy, này Ānanda, một *tinh linh* (dạ xoa / yakkha) tàng hình phát ra tiếng nói: 'Bạch Thế Tôn, con là Janavasabha; bạch Thiện Thệ, con là Janavasabha'. Này Ānanda, trước đây ông đã từng nghe cái tên Janavasabha này chưa?"
 
 "Bạch Thế Tôn, trước đây con chưa từng nghe cái tên Janavasabha này. Nhưng bạch Thế Tôn, khi nghe cái tên 'Janavasabha', lông tóc con dựng đứng. Con nghĩ rằng: 'Chắc hẳn đây không phải là một *tinh linh* tầm thường mới có cái tên vang dội là Janavasabha như vậy'."
@@ -60,8 +57,7 @@ Bạch Thế Tôn, trong một thời gian dài, con *nhận thức* (tưởng t
 "'Không do điều gì khác ngoài giáo pháp của Ngài, bạch Thế Tôn; không do điều gì khác ngoài giáo pháp của Ngài, bạch Thiện Thệ. Kể từ khi con đặt *niềm tin không lay chuyển* (tịnh tín tuyệt đối / ekantikato abhippasanno) vào Thế Tôn, từ đó con *nhận thức* rằng mình không còn rơi vào cõi thấp, và con có hy vọng trở thành *người chỉ quay lại một lần*. Bạch Thế Tôn, hôm nay con được Đại vương Vessavaṇa phái đến chỗ Đại vương Virūḷhaka vì một công việc. Giữa đường, con thấy Thế Tôn đi vào Ngôi nhà gạch, chú tâm, *suy nghĩ*, và tập trung toàn bộ tâm trí hướng về các đệ tử Magadha... Thật không có gì đáng ngạc nhiên, bạch Thế Tôn, vì con đã nghe trực tiếp từ Đại vương Vessavaṇa khi ngài nói với hội chúng của mình về nơi tái sinh của họ. Con nghĩ rằng: "Ta sẽ đi gặp Thế Tôn và báo cáo điều này cho Ngài". Bạch Thế Tôn, đó là hai lý do con đến yết kiến Thế Tôn.
 
 <!--pg-->
-## 4. Hội chúng Chư Thiên
-
+## 4. Hội chúng Chư Thiên{#4}
 Bạch Thế Tôn, vào những ngày trước đây, rất lâu trước đây, vào ngày rằm Uposatha (Bố-tát) của kỳ an cư mùa mưa, toàn bộ chư thiên cõi Tāvatiṁsa (Đao-lợi) đã tụ họp và ngồi lại trong giảng đường Sudhammā. Một hội chúng chư thiên đông đảo ngồi xung quanh, và Bốn vị Đại vương ngồi ở bốn hướng.
 
 Ở hướng Đông, Đại vương Dhataraṭṭha ngồi quay mặt về hướng Tây, dẫn đầu chư thiên; ở hướng Nam, Đại vương Virūḷhaka ngồi quay mặt về hướng Bắc, dẫn đầu chư thiên; ở hướng Tây, Đại vương Virūpakkha ngồi quay mặt về hướng Đông, dẫn đầu chư thiên; ở hướng Bắc, Đại vương Vessavaṇa ngồi quay mặt về hướng Nam, dẫn đầu chư thiên. Bạch Thế Tôn, khi toàn bộ chư thiên cõi Tāvatiṁsa tụ họp, Bốn vị Đại vương ngồi ở bốn hướng. Đó là chỗ ngồi của họ; sau đó mới đến chỗ ngồi của chúng con.
@@ -95,8 +91,7 @@ Khi ấy, bạch Thế Tôn, ở hướng Bắc, một ánh sáng rực rỡ sin
 > Đây là điềm báo của Phạm thiên, một hào quang rộng lớn.
 
 <!--pg-->
-## 5. Lời của Phạm thiên Sanaṅkumāra
-
+## 5. Lời của Phạm thiên Sanaṅkumāra{#5}
 Khi ấy, bạch Thế Tôn, chư thiên cõi Tāvatiṁsa ngồi lại chỗ của mình: "Chúng ta sẽ tìm hiểu xem hào quang này là gì, kết quả của nó sẽ ra sao, sau khi chứng kiến tận mắt, chúng ta mới đi." Bốn vị Đại vương cũng ngồi lại chỗ của mình: "Chúng ta sẽ tìm hiểu xem hào quang này là gì... sau khi chứng kiến tận mắt, chúng ta mới đi."
 
 Nghe vậy, chư thiên cõi Tāvatiṁsa đồng tâm nhất trí: "Chúng ta sẽ tìm hiểu xem hào quang này là gì... sau khi chứng kiến tận mắt, chúng ta mới đi."
@@ -134,8 +129,7 @@ Bạch Thế Tôn, Phạm thiên Sanaṅkumāra đã nói ý nghĩa này; và kh
 Sau đó, bạch Thế Tôn, Phạm thiên Sanaṅkumāra thu nhiếp lại thành một hình thể duy nhất, ngồi kiết già trên chỗ ngồi của Sakka, chúa tể chư thiên, và nói với chư thiên cõi Tāvatiṁsa:
 
 <!--pg-->
-## 6. Tu tập Nền tảng của sức mạnh tâm trí (Bhāvitaiddhipāda)
-
+## 6. Tu tập Nền tảng của sức mạnh tâm trí (Bhāvitaiddhipāda){#6}
 "Thưa các ngài chư thiên cõi Tāvatiṁsa, các ngài nghĩ thế nào, Thế Tôn, bậc Biết rõ, Thấy rõ, bậc A-la-hán, Chánh Đẳng Giác, đã khéo léo tuyên bố bốn *cổng thần thông* (như ý túc / iddhipādā) để đạt được sức mạnh dồi dào, khả năng làm chủ sức mạnh, và khả năng biến hóa sức mạnh. Bốn nền tảng đó là gì? Ở đây, thưa các ngài, vị tỳ kheo tu tập *cổng thần thông* dựa trên Định thông qua *mong muốn* (dục / chanda) đi kèm với *hoạt động* (hành / saṅkhāra) nỗ lực. Vị ấy tu tập *cổng thần thông* dựa trên Định thông qua nỗ lực (vīriya) đi kèm với *hoạt động* nỗ lực. Vị ấy tu tập *cổng thần thông* dựa trên Định thông qua tâm trí (citta) đi kèm với *hoạt động* nỗ lực. Vị ấy tu tập *cổng thần thông* dựa trên Định thông qua sự thẩm tra (vīmaṁsā) đi kèm với *hoạt động* nỗ lực. Thưa các ngài, Thế Tôn, bậc Biết rõ, Thấy rõ, bậc A-la-hán, Chánh Đẳng Giác, đã khéo léo tuyên bố bốn *cổng thần thông* này để đạt được sức mạnh dồi dào, khả năng làm chủ sức mạnh, và khả năng biến hóa sức mạnh.
 
 Thưa các ngài, bất kỳ sa-môn hay bà-la-môn nào trong quá khứ đã trải nghiệm nhiều loại sức mạnh tâm trí khác nhau, tất cả họ đều nhờ vào việc tu tập và làm cho sung mãn bốn *cổng thần thông* này. Bất kỳ sa-môn hay bà-la-môn nào trong tương lai sẽ trải nghiệm nhiều loại sức mạnh tâm trí khác nhau, tất cả họ đều nhờ vào việc tu tập và làm cho sung mãn bốn *cổng thần thông* này. Bất kỳ sa-môn hay bà-la-môn nào trong hiện tại đang trải nghiệm nhiều loại sức mạnh tâm trí khác nhau, tất cả họ đều nhờ vào việc tu tập và làm cho sung mãn bốn *cổng thần thông* này. Thưa các ngài chư thiên cõi Tāvatiṁsa, các ngài có thấy uy lực và sức mạnh tâm trí của ta như thế này không?"
@@ -147,8 +141,7 @@ Thưa các ngài, bất kỳ sa-môn hay bà-la-môn nào trong quá khứ đã 
 Bạch Thế Tôn, Phạm thiên Sanaṅkumāra đã nói ý nghĩa này. Sau khi nói xong, ngài tiếp tục nói với chư thiên cõi Tāvatiṁsa:
 
 <!--pg-->
-## 7. Ba cơ hội đạt được sự dễ chịu (Tividhaokāsādhigama)
-
+## 7. Ba cơ hội đạt được sự dễ chịu (Tividhaokāsādhigama){#7}
 "Thưa các ngài chư thiên cõi Tāvatiṁsa, các ngài nghĩ thế nào, Thế Tôn, bậc Biết rõ, Thấy rõ, bậc A-la-hán, Chánh Đẳng Giác, đã giác ngộ ba *cơ hội đạt được sự dễ chịu* (okāsādhigamā) để đạt được hạnh phúc. Ba cơ hội đó là gì?
 
 Ở đây, thưa các ngài, có người sống vướng mắc, vướng mắc vào *sự dễ chịu giác quan* (dục / kāma), vướng mắc vào *những điều không thiện* (bất thiện pháp / akusalehi dhammehi). Sau một thời gian, người ấy nghe được *Quy luật* của bậc thánh (Ariyadhamma), *tìm hiểu nguyên nhân gốc rễ* (như lý tác ý / yoniso manasi karoti), và thực hành đúng theo *Quy luật*. Nhờ nghe *Quy luật* của bậc thánh, *tìm hiểu nguyên nhân gốc rễ*, và thực hành đúng theo *Quy luật*, người ấy sống không vướng mắc vào *sự dễ chịu giác quan*, không vướng mắc vào *những điều không thiện*. Đối với người sống không vướng mắc vào *sự dễ chịu giác quan*, không vướng mắc vào *những điều không thiện*, hạnh phúc sinh khởi, và từ hạnh phúc, sự *thanh thản* càng tăng trưởng. Thưa các ngài, giống như từ sự vui vẻ sinh ra niềm hân hoan; cũng vậy, đối với người sống không vướng mắc vào *sự dễ chịu giác quan*, không vướng mắc vào *những điều không thiện*, hạnh phúc sinh khởi, và từ hạnh phúc, sự *thanh thản* càng tăng trưởng. Thưa các ngài, đây là *cơ hội đạt được sự dễ chịu* thứ nhất mà Thế Tôn... đã giác ngộ để đạt được hạnh phúc.
@@ -162,8 +155,7 @@ Thưa các ngài, đây là ba *cơ hội đạt được sự dễ chịu* mà 
 Bạch Thế Tôn, Phạm thiên Sanaṅkumāra đã nói ý nghĩa này. Sau khi nói xong, ngài tiếp tục nói với chư thiên cõi Tāvatiṁsa:
 
 <!--pg-->
-## 8. Bốn nơi Tự Quan Sát (Catusatipaṭṭhāna)
-
+## 8. Bốn nơi Tự Quan Sát (Catusatipaṭṭhāna){#8}
 "Thưa các ngài chư thiên cõi Tāvatiṁsa, các ngài nghĩ thế nào, Thế Tôn, bậc Biết rõ, Thấy rõ, bậc A-la-hán, Chánh Đẳng Giác, đã khéo léo tuyên bố bốn *nơi Tự Quan Sát* (tứ niệm xứ / satipaṭṭhānā) để đạt được *những điều thiện*. Bốn nơi đó là gì?
 
 Ở đây, thưa các ngài, vị tỳ kheo *quan sát Cơ thể qua Cơ thể của mình* (quán thân trên thân / kāye kāyānupassī) ở bên trong, nhiệt tâm, *nhận biết rõ ràng* (tỉnh giác / sampajāno), có *Tự Quan Sát* (chánh niệm / satimā), loại bỏ *lòng tham* (ái dục / abhijjhā) và *ưu phiền* (ưu / domanassa) ở đời. Trong khi *quan sát Cơ thể qua Cơ thể của mình* ở bên trong, vị ấy đạt được *Định* (samādhi) đúng đắn, trở nên hoàn toàn trong sáng. Nhờ đạt được *Định* đúng đắn và hoàn toàn trong sáng ở đó, vị ấy làm phát sinh tri kiến về cơ thể của người khác ở bên ngoài.
@@ -179,8 +171,7 @@ Thưa các ngài, Thế Tôn, bậc Biết rõ, Thấy rõ, bậc A-la-hán, Ch�
 Bạch Thế Tôn, Phạm thiên Sanaṅkumāra đã nói ý nghĩa này. Sau khi nói xong, ngài tiếp tục nói với chư thiên cõi Tāvatiṁsa:
 
 <!--pg-->
-## 9. Bảy yếu tố hỗ trợ Định (Sattasamādhiparikkhāra)
-
+## 9. Bảy yếu tố hỗ trợ Định (Sattasamādhiparikkhāra){#9}
 "Thưa các ngài chư thiên cõi Tāvatiṁsa, các ngài nghĩ thế nào, Thế Tôn, bậc Biết rõ, Thấy rõ, bậc A-la-hán, Chánh Đẳng Giác, đã khéo léo tuyên bố bảy *yếu tố hỗ trợ Định* (định tư cụ / samādhiparikkhārā) để tu tập *Định thiện* (Chánh định / sammāsamādhi), để làm viên mãn *Định thiện*. Bảy yếu tố đó là gì? Đó là *Thấy Thiện* (Chánh kiến / Sammādiṭṭhi), *Suy Nghĩ Thiện* (Chánh tư duy / Sammāsaṅkappa), *Lời Nói Thiện* (Chánh ngữ / Sammāvācā), *Hành Động Thiện* (Chánh nghiệp / Sammākammanta), *Đời Sống Thiện* (Chánh mạng / Sammāājīva), *Nỗ lực Thiện* (Chánh tinh tấn / Sammāvāyāma), *Tự Quan Sát Thiện* (Chánh niệm / Sammāsati). Thưa các ngài, sự hợp nhất của tâm trí được trang bị bởi bảy yếu tố này, được gọi là *Định thiện* của bậc thánh, cùng với các điều kiện hỗ trợ, cùng với các yếu tố đi kèm.
 
 Thưa các ngài, từ *Thấy Thiện* sinh ra *Suy Nghĩ Thiện*; từ *Suy Nghĩ Thiện* sinh ra *Lời Nói Thiện*; từ *Lời Nói Thiện* sinh ra *Hành Động Thiện*. Từ *Hành Động Thiện* sinh ra *Đời Sống Thiện*; từ *Đời Sống Thiện* sinh ra *Nỗ lực Thiện*; từ *Nỗ lực Thiện* sinh ra *Tự Quan Sát Thiện*; từ *Tự Quan Sát Thiện* sinh ra *Định thiện*; từ *Định thiện* sinh ra Hiểu biết thiện (sammāñāṇa); từ Hiểu biết thiện sinh ra Giải thoát thiện (sammāvimutti).

@@ -8,8 +8,7 @@ Khi ấy, Tôn giả Ānanda đi đến chỗ Thế Tôn; sau khi đến, đản
 "Này Ānanda, đừng nói vậy; này Ānanda, đừng nói vậy: 'thị trấn nhỏ bé, thị trấn hoang vu, thị trấn phụ thuộc'.
 
 <!--pg-->
-## 1. Kinh đô Kusāvatī
-
+## 1. Kinh đô Kusāvatī{#1}
 Thuở xưa, này Ānanda, có vị vua tên là Mahāsudassana (Đại Thiện Kiến), một vị Sát-đế-lỵ đã được làm lễ quán đảnh, là một vị *vua cai trị toàn cõi* (chuyển luân vương / cakkavattī) chiến thắng bốn phương, mang lại sự ổn định cho quốc gia. Này Ānanda, Kusinārā này chính là kinh đô của vua Mahāsudassana, tên là Kusāvatī. Chiều dài từ Đông sang Tây là mười hai do-tuần, chiều rộng từ Bắc xuống Nam là bảy do-tuần. Này Ānanda, kinh đô Kusāvatī vô cùng thịnh vượng, trù phú, đông đúc dân cư, người người tấp nập và thức ăn dồi dào. Này Ānanda, giống như kinh đô Āḷakamandā của chư thiên vô cùng thịnh vượng, trù phú, đông đúc chư thiên, dạ-xoa tấp nập và thức ăn dồi dào; cũng vậy, này Ānanda, kinh đô Kusāvatī vô cùng thịnh vượng, trù phú, đông đúc dân cư, người người tấp nập và thức ăn dồi dào.
 
 Này Ānanda, kinh đô Kusāvatī ngày đêm không bao giờ dứt mười loại âm thanh, đó là: tiếng voi, tiếng ngựa, tiếng xe ngựa, tiếng trống lớn, tiếng trống nhỏ, tiếng đàn tỳ-bà, tiếng hát, tiếng ốc tù và, tiếng chũm chọe, và tiếng thứ mười là tiếng gọi 'hãy ăn, hãy uống, hãy nếm'.
@@ -21,10 +20,8 @@ Này Ānanda, kinh đô Kusāvatī có các cổng thành mang bốn màu sắc.
 Này Ānanda, kinh đô Kusāvatī được bao quanh bởi bảy hàng cây cọ. Một hàng bằng vàng, một hàng bằng bạc, một hàng bằng lưu ly, một hàng bằng pha lê, một hàng bằng hồng ngọc, một hàng bằng mã não, một hàng bằng tất cả các loại ngọc. Cây cọ bằng vàng thì thân bằng vàng, lá và quả bằng bạc. Cây cọ bằng bạc thì thân bằng bạc, lá và quả bằng vàng. Cây cọ bằng lưu ly thì thân bằng lưu ly, lá và quả bằng pha lê. Cây cọ bằng pha lê thì thân bằng pha lê, lá và quả bằng lưu ly. Cây cọ bằng hồng ngọc thì thân bằng hồng ngọc, lá và quả bằng mã não. Cây cọ bằng mã não thì thân bằng mã não, lá và quả bằng hồng ngọc. Cây cọ bằng tất cả các loại ngọc thì thân bằng tất cả các loại ngọc, lá và quả bằng tất cả các loại ngọc. Này Ānanda, khi những hàng cây cọ ấy bị gió thổi qua, âm thanh phát ra thật du dương, quyến rũ, êm ái và say đắm. Này Ānanda, giống như âm thanh của dàn nhạc năm nhạc cụ được tinh chỉnh khéo léo, được tấu lên nhịp nhàng bởi những nhạc công điêu luyện, phát ra âm thanh du dương, quyến rũ, êm ái và say đắm; cũng vậy, này Ānanda, khi những hàng cây cọ ấy bị gió thổi qua, âm thanh phát ra thật du dương, quyến rũ, êm ái và say đắm. Này Ānanda, vào thời đó ở kinh đô Kusāvatī, những kẻ say sưa, nghiện ngập, khát khao đã lấy âm thanh của những hàng cây cọ bị gió thổi ấy làm thú vui tiêu khiển.
 
 <!--pg-->
-## 2. Đầy đủ Bảy Báu Vật
-
-### 2.1. Báu vật Bánh Xe (Cakkaratana)
-
+## 2. Đầy đủ Bảy Báu Vật{#2}
+### 2.1. Báu vật Bánh Xe (Cakkaratana){#2.1}
 Này Ānanda, vua Mahāsudassana được trang bị đầy đủ bảy báu vật và bốn thần lực. Bảy báu vật đó là gì?
 
 Này Ānanda, vào ngày rằm Uposatha, khi vua Mahāsudassana đã gội đầu, thọ trì trai giới và lên tầng cao nhất của cung điện, thì một báu vật Bánh Xe thiêng liêng xuất hiện, có một ngàn nan hoa, có vành, có trục, hoàn hảo về mọi mặt. Thấy vậy, vua Mahāsudassana nghĩ rằng: 'Ta đã từng nghe điều này: "Đối với vị vua Sát-đế-lỵ đã được quán đảnh, vào ngày rằm Uposatha, đã gội đầu, thọ trì trai giới và lên tầng cao nhất của cung điện, nếu báu vật Bánh Xe thiêng liêng xuất hiện với một ngàn nan hoa, có vành, có trục, hoàn hảo về mọi mặt, thì vị ấy là một vị *vua cai trị toàn cõi*." Phải chăng ta nay là một vị *vua cai trị toàn cõi*?'
@@ -49,30 +46,25 @@ Vua Mahāsudassana nói như sau: 'Không được giết hại sinh mệnh, kh�
 
 Rồi này Ānanda, báu vật Bánh Xe ấy sau khi chinh phục trái đất cho đến tận bờ biển, đã quay trở lại kinh đô Kusāvatī và dừng lại ở cửa nội cung của vua Mahāsudassana, ngay trước tòa án, đứng yên như một trục bánh xe, làm rực rỡ thêm nội cung của vua Mahāsudassana. Này Ānanda, báu vật Bánh Xe có hình tướng như vậy đã xuất hiện cho vua Mahāsudassana.
 
-### 2.2. Báu vật Voi (Hatthiratana)
-
+### 2.2. Báu vật Voi (Hatthiratana){#2.2}
 Lại nữa, này Ānanda, báu vật Voi đã xuất hiện cho vua Mahāsudassana, toàn thân trắng muốt, bảy điểm chạm đất, có thần thông, bay được trên không, tên là voi chúa Uposatha. Thấy vậy, tâm vua Mahāsudassana vô cùng hoan hỷ: 'Thật là một phương tiện cưỡi tuyệt vời, nếu nó chịu sự thuần hóa.' Rồi này Ānanda, báu vật Voi ấy—giống như một con voi chúa dòng dõi quý tộc đã được huấn luyện kỹ lưỡng từ lâu—đã chấp nhận sự thuần hóa.
 
 Thuở xưa, này Ānanda, vua Mahāsudassana để thử nghiệm báu vật Voi ấy, vào buổi sáng đã cưỡi lên nó, bay vòng quanh trái đất cho đến tận bờ biển, rồi quay trở lại kinh đô Kusāvatī để dùng bữa sáng. Này Ānanda, báu vật Voi có hình tướng như vậy đã xuất hiện cho vua Mahāsudassana.
 
-### 2.3. Báu vật Ngựa (Assaratana)
-
+### 2.3. Báu vật Ngựa (Assaratana){#2.3}
 Lại nữa, này Ānanda, báu vật Ngựa đã xuất hiện cho vua Mahāsudassana, toàn thân trắng muốt, đầu đen, bờm như cỏ muñja, có thần thông, bay được trên không, tên là ngựa chúa Valāhaka. Thấy vậy, tâm vua Mahāsudassana vô cùng hoan hỷ: 'Thật là một phương tiện cưỡi tuyệt vời, nếu nó chịu sự thuần hóa.' Rồi này Ānanda, báu vật Ngựa ấy—giống như một con ngựa chúa dòng dõi quý tộc đã được huấn luyện kỹ lưỡng từ lâu—đã chấp nhận sự thuần hóa.
 
 Thuở xưa, này Ānanda, vua Mahāsudassana để thử nghiệm báu vật Ngựa ấy, vào buổi sáng đã cưỡi lên nó, bay vòng quanh trái đất cho đến tận bờ biển, rồi quay trở lại kinh đô Kusāvatī để dùng bữa sáng. Này Ānanda, báu vật Ngựa có hình tướng như vậy đã xuất hiện cho vua Mahāsudassana.
 
-### 2.4. Báu vật Ngọc (Maṇiratana)
-
+### 2.4. Báu vật Ngọc (Maṇiratana){#2.4}
 Lại nữa, này Ānanda, báu vật Ngọc đã xuất hiện cho vua Mahāsudassana. Đó là viên ngọc lưu ly, tuyệt đẹp, nguồn gốc tự nhiên, có tám mặt, được chế tác hoàn hảo, trong suốt, sáng ngời, không tì vết, hoàn hảo về mọi mặt. Này Ānanda, ánh sáng của báu vật Ngọc ấy tỏa ra xung quanh xa đến một do-tuần.
 
 Thuở xưa, này Ānanda, vua Mahāsudassana để thử nghiệm báu vật Ngọc ấy, đã tập hợp bốn binh chủng, treo viên ngọc lên đỉnh cờ và hành quân vào đêm tối mịt mù. Này Ānanda, các ngôi làng xung quanh nhờ ánh sáng ấy mà bắt đầu công việc của họ vì tưởng rằng trời đã sáng. Này Ānanda, báu vật Ngọc có hình tướng như vậy đã xuất hiện cho vua Mahāsudassana.
 
-### 2.5. Báu vật Nữ (Itthiratana)
-
+### 2.5. Báu vật Nữ (Itthiratana){#2.5}
 Lại nữa, này Ānanda, báu vật Nữ đã xuất hiện cho vua Mahāsudassana, xinh đẹp, đáng nhìn, duyên dáng, có nước da tuyệt mỹ, không quá cao, không quá lùn, không quá gầy, không quá béo, không quá đen, không quá trắng, vượt qua vẻ đẹp của loài người nhưng chưa đến vẻ đẹp của chư thiên. Này Ānanda, sự xúc chạm thân thể của báu vật Nữ ấy giống như chạm vào bông gòn hay bông vải. Này Ānanda, thân thể của báu vật Nữ ấy ấm áp khi trời lạnh, và mát mẻ khi trời nóng. Này Ānanda, từ thân thể của báu vật Nữ ấy tỏa ra mùi hương trầm, từ miệng tỏa ra mùi hoa sen xanh. Này Ānanda, báu vật Nữ ấy đối với vua Mahāsudassana luôn thức dậy trước, đi ngủ sau, sẵn sàng vâng lệnh, cư xử làm hài lòng, nói lời dễ thương. Này Ānanda, báu vật Nữ ấy ngay cả trong tâm trí cũng không bao giờ phản bội vua Mahāsudassana, huống hồ là bằng thân thể. Này Ānanda, báu vật Nữ có hình tướng như vậy đã xuất hiện cho vua Mahāsudassana.
 
-### 2.6. Báu vật Cư sĩ (Gahapatiratana)
-
+### 2.6. Báu vật Cư sĩ (Gahapatiratana){#2.6}
 Lại nữa, này Ānanda, báu vật Cư sĩ đã xuất hiện cho vua Mahāsudassana. Nhờ quả báo của nghiệp, vị ấy có thiên nhãn, có thể nhìn thấy kho báu dù có chủ hay không có chủ.
 
 Vị ấy đi đến gặp vua Mahāsudassana và nói: 'Xin Đại vương đừng bận tâm, thần sẽ lo liệu những việc cần làm bằng tài sản cho Đại vương.'
@@ -89,8 +81,7 @@ Vua Mahāsudassana nói: 'Như thế này là đủ rồi, này Cư sĩ. Như th
 
 Này Ānanda, báu vật Cư sĩ có hình tướng như vậy đã xuất hiện cho vua Mahāsudassana.
 
-### 2.7. Báu vật Tướng quân (Pariṇāyakaratana)
-
+### 2.7. Báu vật Tướng quân (Pariṇāyakaratana){#2.7}
 Lại nữa, này Ānanda, báu vật Tướng quân đã xuất hiện cho vua Mahāsudassana, là người thông thái, sáng suốt, trí tuệ, có khả năng khuyên vua Mahāsudassana tiến lên khi cần tiến lên, lùi lại khi cần lùi lại, dừng lại khi cần dừng lại.
 
 Vị ấy đi đến gặp vua Mahāsudassana và nói: 'Xin Đại vương đừng bận tâm, thần sẽ chỉ huy.'
@@ -100,8 +91,7 @@ Này Ānanda, báu vật Tướng quân có hình tướng như vậy đã xuấ
 Này Ānanda, vua Mahāsudassana được trang bị đầy đủ bảy báu vật này.
 
 <!--pg-->
-## 3. Đầy đủ Bốn Thần Lực
-
+## 3. Đầy đủ Bốn Thần Lực{#3}
 Này Ānanda, vua Mahāsudassana được trang bị đầy đủ bốn thần lực. Bốn thần lực đó là gì?
 
 Ở đây, này Ānanda, vua Mahāsudassana xinh đẹp, đáng nhìn, duyên dáng, có nước da tuyệt mỹ, vượt trội hơn hẳn những người khác. Này Ānanda, vua Mahāsudassana được trang bị thần lực thứ nhất này.
@@ -117,8 +107,7 @@ Thuở xưa, này Ānanda, vua Mahāsudassana cùng với bốn binh chủng đi
 Này Ānanda, vua Mahāsudassana được trang bị đầy đủ bốn thần lực này.
 
 <!--pg-->
-## 4. Cung điện Dhamma và Hồ nước
-
+## 4. Cung điện Dhamma và Hồ nước{#4}
 Khi ấy, này Ānanda, vua Mahāsudassana nghĩ rằng: 'Hay là ta hãy tạo ra những hồ nước giữa các hàng cây cọ này, cách nhau mỗi trăm cung tên.'
 
 Này Ānanda, vua Mahāsudassana đã tạo ra những hồ nước giữa các hàng cây cọ, cách nhau mỗi trăm cung tên. Này Ānanda, những hồ nước ấy được xây bằng gạch có bốn màu—một loại gạch bằng vàng, một loại bằng bạc, một loại bằng lưu ly, một loại bằng pha lê.
@@ -174,8 +163,7 @@ Này Ānanda, khi cung điện Dhamma và hồ nước Dhamma đã hoàn thành,
 (Hết phần tụng thứ nhất).
 
 <!--pg-->
-## 5. Thành tựu Thiền-na (Jhānasampatti)
-
+## 5. Thành tựu Thiền-na (Jhānasampatti){#5}
 Khi ấy, này Ānanda, vua Mahāsudassana nghĩ rằng: 'Đây là quả của nghiệp nào của ta, là kết quả của nghiệp nào, mà nay ta lại có thần lực lớn như vậy, có uy lực lớn như vậy?'
 
 Khi ấy, này Ānanda, vua Mahāsudassana nghĩ rằng: 'Đây là quả của ba nghiệp của ta, là kết quả của ba nghiệp, mà nay ta lại có thần lực lớn như vậy, có uy lực lớn như vậy, đó là: bố thí, tự điều phục, và tự kiềm chế.'
@@ -187,15 +175,13 @@ Khi ấy, này Ānanda, vua Mahāsudassana bước vào căn phòng lớn, ngồ
 Khi ấy, này Ānanda, vua Mahāsudassana bước ra khỏi căn phòng lớn, đi vào căn phòng bằng vàng, ngồi trên chiếc giường bằng bạc, an trú với tâm tràn ngập *Tâm yêu thương* (từ / mettā) lan tỏa khắp một phương. Cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Cứ như thế, ngài an trú với tâm tràn ngập *Tâm yêu thương*, rộng lớn, vĩ đại, không giới hạn, không hận thù, không ác ý, lan tỏa khắp mọi nơi, bao trùm toàn bộ thế giới, cả trên, dưới và xung quanh. Với tâm tràn ngập *Tâm thông cảm* (bi / karuṇā)... Với tâm tràn ngập *Tâm cùng vui* (hỷ / muditā)... Với tâm tràn ngập *tâm quân bình* (xả / upekkhā) lan tỏa khắp một phương. Cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư. Cứ như thế, ngài an trú với tâm tràn ngập *tâm quân bình*, rộng lớn, vĩ đại, không giới hạn, không hận thù, không ác ý, lan tỏa khắp mọi nơi, bao trùm toàn bộ thế giới, cả trên, dưới và xung quanh.
 
 <!--pg-->
-## 6. Tám mươi tư ngàn thành phố, v.v.
-
+## 6. Tám mươi tư ngàn thành phố, v.v.{#6}
 Này Ānanda, vua Mahāsudassana có tám mươi tư ngàn thành phố, đứng đầu là kinh đô Kusāvatī; có tám mươi tư ngàn cung điện, đứng đầu là cung điện Dhamma; có tám mươi tư ngàn căn phòng trên gác, đứng đầu là căn phòng lớn (Mahāviyūha); có tám mươi tư ngàn chiếc giường bằng vàng, bằng bạc, bằng ngà voi, bằng gỗ lõi, được trải thảm lông cừu dài, thảm len trắng, thảm thêu hoa, thảm da linh dương thượng hạng, có mái che phía trên, có gối tựa màu đỏ ở hai đầu; có tám mươi tư ngàn con voi được trang sức bằng vàng, cắm cờ vàng, phủ lưới vàng, đứng đầu là voi chúa Uposatha; có tám mươi tư ngàn con ngựa được trang sức bằng vàng, cắm cờ vàng, phủ lưới vàng, đứng đầu là ngựa chúa Valāhaka; có tám mươi tư ngàn cỗ xe được bọc da sư tử, da hổ, da báo, chăn len màu vàng, được trang sức bằng vàng, cắm cờ vàng, phủ lưới vàng, đứng đầu là cỗ xe Vejayanta; có tám mươi tư ngàn viên ngọc, đứng đầu là báu vật Ngọc; có tám mươi tư ngàn phụ nữ, đứng đầu là hoàng hậu Subhaddā; có tám mươi tư ngàn Cư sĩ, đứng đầu là báu vật Cư sĩ; có tám mươi tư ngàn Sát-đế-lỵ tùy tùng, đứng đầu là báu vật Tướng quân; có tám mươi tư ngàn con bò sữa vắt ra sữa chảy tràn, dùng thùng vắt bằng đồng; có tám mươi tư ngàn vạn tấm vải lanh mịn, vải bông mịn, lụa mịn, len mịn; này Ānanda, vua Mahāsudassana có tám mươi tư ngàn mâm thức ăn được dâng lên mỗi sáng và tối.
 
 Này Ānanda, vào thời đó, tám mươi tư ngàn con voi của vua Mahāsudassana đến chầu mỗi sáng và tối. Khi ấy, này Ānanda, vua Mahāsudassana nghĩ rằng: 'Tám mươi tư ngàn con voi này của ta đến chầu mỗi sáng và tối, hay là cứ sau mỗi một trăm năm, hãy để bốn mươi hai ngàn con voi luân phiên đến chầu một lần.' Khi ấy, này Ānanda, vua Mahāsudassana gọi báu vật Tướng quân: 'Này Tướng quân, tám mươi tư ngàn con voi này của ta đến chầu mỗi sáng và tối, vậy thì này Tướng quân, cứ sau mỗi một trăm năm, hãy để bốn mươi hai ngàn con voi luân phiên đến chầu một lần.' 'Vâng, tâu Đại vương', này Ānanda, báu vật Tướng quân vâng lệnh vua Mahāsudassana. Rồi này Ānanda, về sau, cứ sau mỗi một trăm năm, bốn mươi hai ngàn con voi của vua Mahāsudassana luân phiên đến chầu một lần.
 
 <!--pg-->
-## 7. Hoàng hậu Subhaddā đến thăm
-
+## 7. Hoàng hậu Subhaddā đến thăm{#7}
 Khi ấy, này Ānanda, sau nhiều năm, nhiều trăm năm, nhiều ngàn năm, hoàng hậu Subhaddā nghĩ rằng: 'Đã lâu rồi ta không được gặp vua Mahāsudassana. Hay là ta hãy đi đến để diện kiến vua Mahāsudassana.'
 
 Khi ấy, này Ānanda, hoàng hậu Subhaddā gọi các cung nữ: 'Các ngươi hãy đến đây, gội đầu và mặc y phục màu vàng. Đã lâu rồi chúng ta không được gặp vua Mahāsudassana, chúng ta sẽ đi đến để diện kiến vua Mahāsudassana.'
@@ -227,8 +213,7 @@ Khi được nói như vậy, này Ānanda, vua Mahāsudassana nói với hoàng
 Khi được nói như vậy, này Ānanda, hoàng hậu Subhaddā bật khóc và rơi lệ. Rồi này Ānanda, hoàng hậu Subhaddā lau nước mắt và nói với vua Mahāsudassana: 'Tâu Đại vương, mọi thứ đáng yêu và làm hài lòng đều phải chịu sự chia lìa, xa cách, biến đổi. Tâu Đại vương, xin ngài đừng qua đời với sự bám víu, sự qua đời với bám víu là *đau khổ*, sự qua đời với bám víu là đáng chê trách. Tâu Đại vương, ngài có tám mươi tư ngàn thành phố này... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn cung điện này... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn căn phòng trên gác này... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn chiếc giường... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn con voi... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn con ngựa... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn cỗ xe... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn viên ngọc... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn phụ nữ... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn Cư sĩ... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn Sát-đế-lỵ tùy tùng... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn con bò sữa... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn vạn tấm vải... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống. Tâu Đại vương, ngài có tám mươi tư ngàn mâm thức ăn... Xin ngài hãy từ bỏ mong muốn đối với những thứ này, đừng giữ lấy sự khao khát sống.'
 
 <!--pg-->
-## 8. Tái sinh vào cõi Phạm thiên
-
+## 8. Tái sinh vào cõi Phạm thiên{#8}
 Khi ấy, này Ānanda, không lâu sau vua Mahāsudassana qua đời. Này Ānanda, giống như một Cư sĩ hay con trai của Cư sĩ cảm thấy buồn ngủ sau khi ăn một bữa ăn ngon lành; cũng vậy, này Ānanda, cảm giác lúc lâm chung của vua Mahāsudassana diễn ra nhẹ nhàng như thế.
 
 Và sau khi qua đời, này Ānanda, vua Mahāsudassana tái sinh vào cõi lành, cõi Phạm thiên. Này Ānanda, vua Mahāsudassana đã chơi đùa như một hoàng tử trong tám mươi tư ngàn năm. Ngài làm phó vương trong tám mươi tư ngàn năm. Ngài cai trị đất nước trong tám mươi tư ngàn năm. Ngài sống đời sống phạm hạnh của một cư sĩ tại cung điện Dhamma trong tám mươi tư ngàn năm. Sau khi tu tập bốn Phạm trú, khi thân hoại mạng chung, ngài tái sinh vào cõi Phạm thiên.

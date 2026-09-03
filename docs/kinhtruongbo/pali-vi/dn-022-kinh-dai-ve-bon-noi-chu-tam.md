@@ -13,10 +13,8 @@ Bốn nơi là gì? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát 
 Phần giới thiệu đã xong.
 
 <!--pg-->
-## 1. Quan sát cơ thể (Kāyānupassanā)
-
-### 1.1. Phần về hơi thở
-
+## 1. Quan sát cơ thể (Kāyānupassanā){#1}
+### 1.1. Phần về hơi thở{#1.1}
 Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*?
 
 Ở đây, này các tỳ kheo, tỳ kheo đi đến khu rừng, hay đi đến gốc cây, hay đi đến ngôi nhà trống, ngồi xuống xếp chéo chân, giữ *cơ thể* thẳng đứng, và đặt sự *chú tâm* ở ngay trước mặt. Vị ấy *chú tâm* khi thở vào, *chú tâm* khi thở ra.
@@ -39,8 +37,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ t
 Phần về hơi thở đã xong.
 
 <!--pg-->
-### 1.2. Phần về tư thế
-
+### 1.2. Phần về tư thế{#1.2}
 Lại nữa, này các tỳ kheo, tỳ kheo khi đang đi, *thấy rõ*: 'Tôi đang đi'; hay khi đang đứng, *thấy rõ*: 'Tôi đang đứng'; hay khi đang ngồi, *thấy rõ*: 'Tôi đang ngồi'; hay khi đang nằm, *thấy rõ*: 'Tôi đang nằm'; hay *cơ thể* của vị ấy được đặt để ở tư thế nào, vị ấy *thấy rõ* nó đúng như thế ấy.
 
 Như vậy, vị ấy sống *quan sát cơ thể qua cơ thể của mình* từ bên trong, hay sống *quan sát cơ thể qua cơ thể của mình* từ bên ngoài, hay sống *quan sát cơ thể qua cơ thể của mình* từ cả bên trong lẫn bên ngoài. Hay vị ấy sống quan sát tính hình thành trên *cơ thể*, hay sống quan sát tính hoại diệt trên *cơ thể*, hay sống quan sát cả tính hình thành và tính hoại diệt trên *cơ thể*. Hay vị ấy thiết lập *ghi nhớ* rằng 'đây là một cơ thể' - *biết* và *nhớ* như đúng như vậy, không thêm [một nhận thức khách quan về cơ thể của mình]. Vị ấy sống không nương tựa, không bám giữ bất cứ điều gì ở đời.
@@ -51,8 +48,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ t
 Phần về tư thế đã xong.
 
 <!--pg-->
-### 1.3. Phần về nhận biết rõ ràng
-
+### 1.3. Phần về nhận biết rõ ràng{#1.3}
 Lại nữa, này các tỳ kheo, tỳ kheo thực hành *nhận biết rõ ràng* khi bước tới bước lui; thực hành *nhận biết rõ ràng* khi nhìn thẳng nhìn quanh; thực hành *nhận biết rõ ràng* khi co tay duỗi tay; thực hành *nhận biết rõ ràng* khi mang y Tăng-già-lê, bình bát và y áo; thực hành *nhận biết rõ ràng* khi ăn, uống, nhai, nếm; thực hành *nhận biết rõ ràng* khi đại tiện, tiểu tiện; thực hành *nhận biết rõ ràng* khi đi, đứng, ngồi, ngủ, thức, nói, im lặng.
 
 Như vậy, vị ấy sống từ bên trong [...lặp lại...]
@@ -62,8 +58,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ t
 Phần về nhận biết rõ ràng đã xong.
 
 <!--pg-->
-### 1.4. Phần về suy nghĩ đến sự không sạch sẽ
-
+### 1.4. Phần về suy nghĩ đến sự không sạch sẽ{#1.4}
 Lại nữa, này các tỳ kheo, tỳ kheo quan sát chính *cơ thể* này, từ lòng bàn chân trở lên, từ đỉnh tóc trở xuống, được bao bọc bởi lớp da, chứa đầy đủ loại bất tịnh khác nhau: 'Trong *cơ thể* này có tóc, lông, móng, răng, da, thịt, gân, xương, tủy xương, thận, tim, gan, màng phổi, lá lách, phổi, ruột già, ruột non, thức ăn trong dạ dày, phân, mật, đàm, mủ, máu, mồ hôi, mỡ, nước mắt, mỡ da, nước bọt, nước mũi, dịch khớp, nước tiểu'.
 
 Này các tỳ kheo, giống như một cái bao có hai đầu mở, chứa đầy các loại hạt khác nhau như — gạo lúa mì, lúa tẻ, đậu xanh, đậu đen, mè, gạo trắng. Một người có mắt mở nó ra và quan sát: 'Đây là gạo lúa mì, đây là lúa tẻ, đây là đậu xanh, đây là đậu đen, đây là mè, đây là gạo trắng'.
@@ -77,8 +72,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ t
 Phần về suy nghĩ đến sự không sạch sẽ đã xong.
 
 <!--pg-->
-### 1.5. Phần về suy nghĩ đến các nguyên tố
-
+### 1.5. Phần về suy nghĩ đến các nguyên tố{#1.5}
 Lại nữa, này các tỳ kheo, tỳ kheo quan sát chính *cơ thể* này, dù nó đang đứng hay đang được đặt để thế nào, theo các *nguyên tố* (đại / dhātu): 'Trong *cơ thể* này có *nguyên tố* đất, *nguyên tố* nước, *nguyên tố* lửa, *nguyên tố* gió'.
 
 Này các tỳ kheo, giống như một người đồ tể khéo léo hay người học việc của đồ tể, sau khi giết một con bò, cắt nó ra thành từng phần và ngồi tại ngã tư đường; cũng đúng như vậy, này các tỳ kheo, tỳ kheo quan sát chính *cơ thể* này, dù nó đang đứng hay đang được đặt để thế nào, theo các *nguyên tố*: 'Trong *cơ thể* này có *nguyên tố* đất, *nguyên tố* nước, *nguyên tố* lửa, *nguyên tố* gió'.
@@ -90,8 +84,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ t
 Phần về suy nghĩ đến các nguyên tố đã xong.
 
 <!--pg-->
-### 1.6. Phần về chín giai đoạn nghĩa địa
-
+### 1.6. Phần về chín giai đoạn nghĩa địa{#1.6}
 Lại nữa, này các tỳ kheo, tỳ kheo như thể nhìn thấy một thi thể bị vứt bỏ trong nghĩa địa, chết được một ngày, hay chết được hai ngày, hay chết được ba ngày, sưng phồng lên, xanh tím lại, và rỉ mủ. Vị ấy so sánh với chính *cơ thể* này: '*Cơ thể* này cũng có bản chất như vậy, sẽ trở thành như vậy, không thể tránh khỏi điều đó'. Như vậy, vị ấy sống từ bên trong [...lặp lại...]
 
 Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*.
@@ -121,8 +114,7 @@ Phần về chín giai đoạn nghĩa địa đã xong.
 Mười bốn cách quan sát cơ thể đã xong.
 
 <!--pg-->
-## 2. Quan sát cảm giác (Vedanānupassanā)
-
+## 2. Quan sát cảm giác (Vedanānupassanā){#2}
 Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát cảm giác qua cảm giác của mình*?
 
 Ở đây, này các tỳ kheo, tỳ kheo khi cảm nhận một *cảm giác dễ chịu* (thọ lạc / sukha-vedanā), *thấy rõ*: 'Tôi đang cảm nhận một *cảm giác dễ chịu*'.
@@ -152,8 +144,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát cảm giác qua c�
 Quan sát cảm giác đã xong.
 
 <!--pg-->
-## 3. Quan sát tâm (Cittānupassanā)
-
+## 3. Quan sát tâm (Cittānupassanā){#3}
 Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát tâm qua tâm của mình*?
 
 Ở đây, này các tỳ kheo, tỳ kheo khi *tâm* có *đắm nhiễm* (tham / rāga), *thấy rõ*: '*Tâm* có *đắm nhiễm*'. Khi *tâm* không có *đắm nhiễm*, *thấy rõ*: '*Tâm* không có *đắm nhiễm*'. Khi *tâm* có *ám ảnh khó chịu* (sân / dosa), *thấy rõ*: '*Tâm* có *ám ảnh khó chịu*'. Khi *tâm* không có *ám ảnh khó chịu*, *thấy rõ*: '*Tâm* không có *ám ảnh khó chịu*'. Khi *tâm* có *sự u mê* (si / moha), *thấy rõ*: '*Tâm* có *sự u mê*'. Khi *tâm* không có *sự u mê*, *thấy rõ*: '*Tâm* không có *sự u mê*'. Khi *tâm* co rút lại, *thấy rõ*: '*Tâm* co rút lại'. Khi *tâm* phân tán, *thấy rõ*: '*Tâm* phân tán'. Khi *tâm* trở nên rộng lớn, *thấy rõ*: '*Tâm* trở nên rộng lớn'. Khi *tâm* không trở nên rộng lớn, *thấy rõ*: '*Tâm* không trở nên rộng lớn'. Khi *tâm* còn có trạng thái cao hơn, *thấy rõ*: '*Tâm* còn có trạng thái cao hơn'. Khi *tâm* không còn trạng thái nào cao hơn, *thấy rõ*: '*Tâm* không còn trạng thái nào cao hơn'. Khi *tâm* được định tĩnh, *thấy rõ*: '*Tâm* được định tĩnh'. Khi *tâm* không được định tĩnh, *thấy rõ*: '*Tâm* không được định tĩnh'. Khi *tâm* được giải thoát, *thấy rõ*: '*Tâm* được giải thoát'. Khi *tâm* không được giải thoát, *thấy rõ*: '*Tâm* không được giải thoát'.
@@ -167,10 +158,8 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát tâm qua tâm của
 Quan sát tâm đã xong.
 
 <!--pg-->
-## 4. Quan sát Điều dạy (Dhammānupassanā)
-
-### 4.1. Phần về các điều làm mờ yếu
-
+## 4. Quan sát Điều dạy (Dhammānupassanā){#4}
+### 4.1. Phần về các điều làm mờ yếu{#4.1}
 Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát Điều dạy qua các Điều*?
 
 Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về năm *điều làm mờ yếu* (triền cái / nīvaraṇāni). Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về năm *điều làm mờ yếu*?
@@ -194,8 +183,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua 
 Phần về các điều làm mờ yếu đã xong.
 
 <!--pg-->
-### 4.2. Phần về các tập hợp
-
+### 4.2. Phần về các tập hợp{#4.2}
 Lại nữa, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về năm *tập hợp bị bám giữ* (thủ uẩn / upādānakkhandhā). Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về năm *tập hợp bị bám giữ*?
 
 Ở đây, này các tỳ kheo, tỳ kheo [thấy rõ]: 'Đây là *vật chất* (sắc / rūpa), đây là *sự hình thành* (sinh / samudaya) của *vật chất*, đây là sự *tan biến* của *vật chất*; đây là *cảm giác*, đây là *sự hình thành* của *cảm giác*, đây là sự *tan biến* của *cảm giác*; đây là *nhận thức* (tưởng / saññā), đây là *sự hình thành* của *nhận thức*, đây là sự *tan biến* của *nhận thức*; đây là các *hoạt động* (hành / saṅkhārā), đây là *sự hình thành* của các *hoạt động*, đây là sự *tan biến* của các *hoạt động*; đây là *'cái biết'* (thức / viññāṇa), đây là *sự hình thành* của *'cái biết'*, đây là sự *tan biến* của *'cái biết'*'. Như vậy, vị ấy sống *quan sát Điều dạy qua các Điều* từ bên trong, hay sống *quan sát Điều dạy qua các Điều* từ bên ngoài, hay sống *quan sát Điều dạy qua các Điều* từ cả bên trong lẫn bên ngoài. Hay vị ấy sống quan sát tính hình thành trên các *Điều dạy*, hay sống quan sát tính hoại diệt trên các *Điều dạy*, hay sống quan sát cả tính hình thành và tính hoại diệt trên các *Điều dạy*.
@@ -206,8 +194,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua 
 Phần về các tập hợp đã xong.
 
 <!--pg-->
-### 4.3. Phần về các xứ
-
+### 4.3. Phần về các xứ{#4.3}
 Lại nữa, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về sáu *xứ* (āyatana) bên trong và bên ngoài. Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về sáu *xứ* bên trong và bên ngoài?
 
 Ở đây, này các tỳ kheo, tỳ kheo *thấy rõ* con mắt, và *thấy rõ* các *hình ảnh* (sắc / rūpa), và vị ấy *thấy rõ* sợi dây trói buộc sinh ra *phụ thuộc* (duyên / paṭicca) vào cả hai thứ đó; vị ấy *thấy rõ* bằng cách nào sợi dây trói buộc chưa sinh ra được sinh ra, vị ấy *thấy rõ* bằng cách nào sợi dây trói buộc đã sinh ra bị *từ bỏ*, và vị ấy *thấy rõ* bằng cách nào sợi dây trói buộc đã bị *từ bỏ* sẽ không sinh ra trong tương lai.
@@ -231,8 +218,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua 
 Phần về các xứ đã xong.
 
 <!--pg-->
-### 4.4. Phần về các Dấu hiệu Của Giác Ngộ
-
+### 4.4. Phần về các Dấu hiệu Của Giác Ngộ{#4.4}
 Lại nữa, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về bảy *Dấu hiệu Của Giác Ngộ* (giác chi / bojjhaṅgā). Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về bảy *Dấu hiệu Của Giác Ngộ*?
 
 Ở đây, này các tỳ kheo, khi có *Dấu hiệu sự chú tâm* (niệm giác chi / satisambojjhaṅga) từ bên trong, tỳ kheo *thấy rõ*: 'Có *Dấu hiệu sự chú tâm* từ bên trong tôi'; hay khi không có *Dấu hiệu sự chú tâm* từ bên trong, *thấy rõ*: 'Không có *Dấu hiệu sự chú tâm* từ bên trong tôi'; và vị ấy *thấy rõ* bằng cách nào *Dấu hiệu sự chú tâm* chưa sinh ra được sinh ra, và vị ấy *thấy rõ* bằng cách nào *Dấu hiệu sự chú tâm* đã sinh ra được tu tập đến mức hoàn mãn.
@@ -256,8 +242,7 @@ Như vậy, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua 
 Phần về các Dấu hiệu Của Giác Ngộ đã xong.
 
 <!--pg-->
-### 4.5. Phần về các Thánh Đế
-
+### 4.5. Phần về các Thánh Đế{#4.5}
 Lại nữa, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về *Bốn Thánh Đế* (catūsu ariyasaccesu). Và này các tỳ kheo, thế nào là tỳ kheo sống *quan sát Điều dạy* qua *Điều dạy* về *Bốn Thánh Đế*?
 
 Ở đây, này các tỳ kheo, tỳ kheo *thấy rõ* đúng như thật: 'Đây là *đau khổ*'; *thấy rõ* đúng như thật: 'Đây là *sự hình thành* của *đau khổ*'; *thấy rõ* đúng như thật: 'Đây là sự *chấm dứt* (diệt / nirodha) *đau khổ*'; *thấy rõ* đúng như thật: 'Đây là con đường đưa đến *chấm dứt* *đau khổ*'.
@@ -265,8 +250,7 @@ Lại nữa, này các tỳ kheo, tỳ kheo sống *quan sát Điều dạy* qua
 Tụng phẩm thứ nhất đã xong.
 
 <!--pg-->
-#### 4.5.1. Thế nào là Thánh đế về đau khổ
-
+#### 4.5.1. Thế nào là Thánh đế về đau khổ{#4.5.1}
 Và này các tỳ kheo, thế nào là *Thánh đế về đau khổ* (dukkha ariyasacca)?
 
 *Sự Tái sinh* (sinh / jāti) là *đau khổ*, già là *đau khổ*, chết là *đau khổ*, *sầu thảm*, *khóc lóc*, *đau khổ*, *ưu phiền*, *tuyệt vọng* (não / upāyāsa) là *đau khổ*, phải chung đụng với những gì không ưa thích là *đau khổ*, phải xa lìa những gì ưa thích là *đau khổ*, mong muốn mà không đạt được là *đau khổ*, tóm lại, năm *tập hợp bị bám giữ* là *đau khổ*.
@@ -298,8 +282,7 @@ Và này các tỳ kheo, như thế nào năm *tập hợp bị bám giữ* là 
 Này các tỳ kheo, đây gọi là *Thánh đế về đau khổ*.
 
 <!--pg-->
-#### 4.5.2. Thế nào là Thánh đế về sự hình thành
-
+#### 4.5.2. Thế nào là Thánh đế về sự hình thành{#4.5.2}
 Và này các tỳ kheo, thế nào là *Thánh đế về sự hình thành của đau khổ* (dukkhasamudaya ariyasacca)?
 
 Đó chính là *sự thèm khát* (tham ái / taṇhā) này, thứ dẫn đến tái sinh, đi kèm với sự *vui thú chạy theo* (hỷ lạc / nandī) và *đắm nhiễm*, tìm kiếm sự thỏa mãn chỗ này chỗ kia, cụ thể là — *thèm khát* *sự dễ chịu giác quan* (dục ái / kāmataṇhā), *thèm khát* *cõi tồn tại* (hữu ái / bhavataṇhā), *thèm khát* sự không tồn tại (phi hữu ái / vibhavataṇhā).
@@ -329,8 +312,7 @@ Các *hình ảnh* ở đời... các âm thanh ở đời... các mùi hương 
 Này các tỳ kheo, đây gọi là *Thánh đế về sự hình thành của đau khổ*.
 
 <!--pg-->
-#### 4.5.3. Thế nào là Thánh đế về sự chấm dứt
-
+#### 4.5.3. Thế nào là Thánh đế về sự chấm dứt{#4.5.3}
 Và này các tỳ kheo, thế nào là *Thánh đế về sự chấm dứt đau khổ* (dukkhanirodha ariyasacca)?
 
 Đó là sự *chặn sạch hết đắm nhiễm* (asesavirāganirodho), sự *cho đi* (xả ly / cāgā), sự từ bỏ, sự giải thoát, sự không còn bám víu đối với chính *sự thèm khát* ấy.
@@ -360,8 +342,7 @@ Các *hình ảnh* ở đời... các âm thanh ở đời... các mùi hương 
 Này các tỳ kheo, đây gọi là *Thánh đế về sự chấm dứt đau khổ*.
 
 <!--pg-->
-#### 4.5.4. Thế nào là Thánh đế về con đường
-
+#### 4.5.4. Thế nào là Thánh đế về con đường{#4.5.4}
 Và này các tỳ kheo, thế nào là *Thánh đế về con đường đưa đến chấm dứt đau khổ* (dukkhanirodhagāminī paṭipadā ariyasacca)?
 
 Đó chính là *Tám Bước Thiện* (Bát Thánh Đạo / ariyo aṭṭhaṅgiko maggo) này, đó là — *Thấy Thiện* (Chánh kiến / sammādiṭṭhi), *Suy Nghĩ Thiện* (Chánh tư duy / sammāsaṅkappo), *Lời Nói Thiện* (Chánh ngữ / sammāvācā), *Hành Động Thiện* (Chánh nghiệp / sammākammanto), *Đời Sống Thiện* (Chánh mạng / sammāājīvo), *Nỗ lực Thiện* (Chánh tinh tấn / sammāvāyāmo), *Sự chú tâm Thiện* (Chánh niệm / sammāsati), *Định thiện* (Chánh định / sammāsamādhi).

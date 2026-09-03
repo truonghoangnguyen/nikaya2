@@ -1,8 +1,8 @@
 # Chương Ba – Ba Pháp
 
-### **Phẩm I**
+## **Phẩm I**
 
-**(L) (Tik. I, 1) (It. 45)**
+### (L) (Tik. I, 1) (It. 45){#50}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -17,7 +17,7 @@ Như giả từ lõi, vỏ.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LI) (Tik. I, 2) (It. 45)**
+### (LI) (Tik. I, 2) (It. 45){#51}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -44,7 +44,7 @@ Trong sạch không cấu uế.*
 
 Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LII) (Tik. I, 3) (It. 46)**
+### (LII) (Tik. I, 3) (It. 46){#52}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và tôi đã được nghe:
 
@@ -63,7 +63,7 @@ Không ham muốn, tịch tịnh*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LIII) (Tik. I, 4) (It. 47)**
+### (LIII) (Tik. I, 4) (It. 47){#53}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và tôi đã được nghe:
 
@@ -86,7 +86,7 @@ Các ách nạn trói buộc*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LIV) (Tik. I, 5) (It. 48)**
+### (LIV) (Tik. I, 5) (It. 48){#54}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và tôi đã được nghe:
 
@@ -107,7 +107,7 @@ Không còn có ước muốn\
 
 Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LV) (Tik. I, 6) (It. 48)**
+### (LV) (Tik. I, 6) (It. 48){#55}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và tôi đã được nghe:
 
@@ -134,7 +134,7 @@ Không còn có nghi hoặc.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LVI) (Tik. I, 7) (It. 49)**
+### (LVI) (Tik. I, 7) (It. 49){#56}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -155,7 +155,7 @@ Không còn có ước muốn,\
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LVII) (Tik. I,8) (It. 49)**
+### (LVII) (Tik. I,8) (It. 49){#57}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -170,7 +170,7 @@ Dẹp tan cỗ xe ma.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LVIII) (Tik. I, 9) (It. 50)**
+### (LVIII) (Tik. I, 9) (It. 50){#58}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -194,7 +194,7 @@ Các lậu hoặc đoạn tận*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LIX) (Tik. I, 10) (It. 50).**
+### (LIX) (Tik. I, 10) (It. 50).{#59}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -213,9 +213,9 @@ Như mặt trời chói sáng*.
 
 ---
 
-### **Phẩm II**
+## **Phẩm II**
 
-**(LX) (Tik. II, 1) (It. 51)**
+### (LX) (Tik. II, 1) (It. 51){#60}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -238,7 +238,7 @@ Không phiền não hận thù*.
 
 Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXI) (Tik. II, 2) (It. 52)**
+### (LXI) (Tik. II, 2) (It. 52){#61}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -260,7 +260,7 @@ Giải thoát mọi đau khổ.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXII) (Tik. II, 3) (It. 53)**
+### (LXII) (Tik. II, 3) (It. 53){#62}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -291,7 +291,7 @@ Sau khi đánh bại được\
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXIII) (Tip. II, 4) (It. 53)**
+### (LXIII) (Tip. II, 4) (It. 53){#63}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -326,7 +326,7 @@ Thành đạt được trí tuệ.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXIV) (Tik. II, 5) (It. 54)**
+### (LXIV) (Tik. II, 5) (It. 54){#64}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -348,7 +348,7 @@ Trong cảnh giới địa ngục*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXV) (Tik. II, 6) (It. 55)**
+### (LXV) (Tik. II, 6) (It. 55){#65}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -370,7 +370,7 @@ Trong cảnh giới chư Thiên*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXVI) (Tik. II, 7) (It. 55)**
+### (LXVI) (Tik. II, 7) (It. 55){#66}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -387,7 +387,7 @@ Vị như vậy được gọi\
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXVII) (Tik. II, 8) (It. 56)**
+### (LXVII) (Tik. II, 8) (It. 56){#67}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -405,7 +405,7 @@ Của các bậc chân ẩn sĩ,\
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXVIII) (Tik. II, 9) (It. 56)**
+### (LXVIII) (Tik. II, 9) (It. 56){#68}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -426,7 +426,7 @@ Bậc đoạn tận tất cả,\
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXIX) (Tik. II, 10) (It. 57)**
+### (LXIX) (Tik. II, 10) (It. 57){#69}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -455,9 +455,9 @@ Làm ma vương si ám.*
 
 ---
 
-### **Phẩm III**
+## **Phẩm III**
 
-**(LXX) (Tik. III, 1) (It. 58)**
+### (LXX) (Tik. III, 1) (It. 58){#70}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -479,7 +479,7 @@ Bị sanh vào địa ngục*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXXI) (Tik, III, 2) (It. 59)**
+### (LXXI) (Tik, III, 2) (It. 59){#71}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -502,7 +502,7 @@ Người ấy làm như vậy,\
 
 Ý nghĩa này đã được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXXII) (Tik, III, 3) (It. 60)**
+### (LXXII) (Tik, III, 3) (It. 60){#72}
 
 Ðiều này được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -525,7 +525,7 @@ Thật sự là ẩn sĩ,\
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(LXXIII) (Tik. III, 4) (It. 61)**
+### (LXXIII) (Tik. III, 4) (It. 61){#73}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -554,7 +554,7 @@ Con đường không cấu uế.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe:
 
-**(LXXIV) (Tik. III, 5) (It. 62)**
+### (LXXIV) (Tik. III, 5) (It. 62){#74}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -583,7 +583,7 @@ Chói sáng giữa hội chúng*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXXV) (Tik. III, 6) (It. 64)**
+### (LXXV) (Tik. III, 6) (It. 64){#75}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -641,7 +641,7 @@ Những chúng sanh khốn cùng*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXXVI) (Tik, III, 7) (It. 67)**
+### (LXXVI) (Tik, III, 7) (It. 67){#76}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -691,7 +691,7 @@ Còn những kẻ tốt lành,\
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXXVII) (Tik. III, 8) (It. 69)**
+### (LXXVII) (Tik. III, 8) (It. 69){#77}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -710,7 +710,7 @@ Chỉ còn đợi thời gian.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXXVIII) (Tik. III, 9) (It. 69)**
+### (LXXVIII) (Tik. III, 9) (It. 69){#78}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -745,7 +745,7 @@ Siêng năng và cần mẫn*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(LXXIX) (Tik. III, 10) (It. 71)**
+### (LXXIX) (Tik. III, 10) (It. 71){#79}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -774,9 +774,9 @@ Chứng tối thượng Bồ-đề*.
 
 ---
 
-### **Phẩm IV**
+## **Phẩm IV**
 
-**(LXXX) (Tik. IV, 1) (It. 72)**
+### (LXXX) (Tik. IV, 1) (It. 72){#80}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -801,7 +801,7 @@ Chứng Bồ-đề vô thượng*.
 
 Ý nghĩa này được Thế Tôn nói đến, và tôi đã được nghe.
 
-**(LXXXI) (Tik. IV, 2) (It. 73)**
+### (LXXXI) (Tik. IV, 2) (It. 73){#81}
 
 Này các Tỷ-kheo, Ta đã thấy các chúng sanh bị cung kính chinh phục, bị tâm cung kính xâm chiếm, sau khi thân hoại mạng chung, bị sanh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
@@ -828,7 +828,7 @@ Chánh quán các sở kiến,\
 Ưa thích chấp thủ diệt,\
 Ðược gọi bậc chân nhân*.
 
-**(LXXXII) (Tik. IV, 3) (It. 75)**
+### (LXXXII) (Tik. IV, 3) (It. 75){#82}
 
 Này các Tỷ-kheo, giữa chư Thiên, có ba tiếng chư Thiên này thỉnh thoảng được vang lên, tuỳ thời được khởi lên. Thế nào là ba?
 
@@ -861,7 +861,7 @@ Chắc chắn các Thiên nhân,\
 Pháp gì giúp thoát được,\
 Khỏi thần chết chi phối*.
 
-**(LXXXIII) (Tik. IV, 4) (It. 76)**
+### (LXXXIII) (Tik. IV, 4) (It. 76){#83}
 
 Này các Tỷ-kheo, khi nào một Thiên nhân mệnh chung từ bỏ thân chư Thiên, có năm tướng xuất hiện ra trước: “Các vòng hoa héo úa, áo quần bị uế nhiễm, mồ hôi chảy ra từ nách, thân sắc trở thành xấu xí, Thiên nhân không hoan hỷ tại chỗ ngồi chư Thiên”. Này các Tỷ-kheo, chư Thiên sau khi biết Thiên tử này mệnh chung, nói ba lời để cổ vũ: “Từ đây, Hiền giả hãy đi đến cõi lành! Sau khi đi đến cõi lành, hãy nhận được những gì khéo nhận được. Sau khi nhận được những gì khéo nhận, hãy khéo an trú”.
 
@@ -914,7 +914,7 @@ Liền nói lời cổ vũ.\
 Thiên nhân hãy đến đây,\
 Hãy đến lại nhiều lần*.
 
-**(LXXXIV) (Tik. IV, 5) (It. 78)**
+### (LXXXIV) (Tik. IV, 5) (It. 78){#84}
 
 Có ba hạng người này xuất hiện ở đời, xuất hiện đem lại hạnh phúc cho nhiều người, an lạc cho nhiều người, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì an lạc cho chư Thiên và loài Người. Thế nào là ba?
 
@@ -951,7 +951,7 @@ Chấm dứt mọi khổ đau,\
 Những vị không phóng dật,\
 Trong giáo lý Thiện Thệ*.
 
-**(LXXXV) (Tik. IV, 6) (It. 80)**
+### (LXXXV) (Tik. IV, 6) (It. 80){#85}
 
 Này các Tỷ-kheo, hãy sống tuỳ quán bất tịnh trên thân, hãy khéo an trú niệm hơi thở vô hơi thở ra, đặt niệm trước mặt, hướng về nội tâm; hãy sống tùy quán vô thường trong tất cả các hành.
 
@@ -970,7 +970,7 @@ Lắng dịu thật an tịnh,\
 Vị ẩn sĩ như vậy,\
 Chắc vượt khỏi ách nạn*.
 
-**(LXXXVI) (Tik. IV, 7) (It, 81)**
+### (LXXXVI) (Tik. IV, 7) (It, 81){#86}
 
 Với vị Tỷ-kheo hành trì tùy pháp đúng pháp, đây là cách thức đúng đắn để giải thoát những chữ: “Thực hành tùy pháp đúng pháp”. Khi vị ấy nói vị ấy nói đúng pháp không phải phi pháp; khi vị ấy suy tư, vị ấy suy tư với suy tư đúng pháp, không phải suy tư phi pháp. Do từ bỏ hai điều ấy, vị ấy trú xả, chánh niệm tỉnh giác.
 
@@ -983,7 +983,7 @@ Khi ngồi hoặc khi nằm,\
 Nội tâm được chế ngự\
 Vị ấy đạt an tịnh.*
 
-**(LXXXVII) (Tik. IV, 8) (It. 82)**
+### (LXXXVII) (Tik. IV, 8) (It. 82){#87}
 
 Này các Tỷ-kheo, có ba tầm bất thiện này, tác thành mù, tác thành không mắt, tác thành không trí, đưa đến tuệ đoạn diệt, dự phần vào tổn hại, không đưa đến Niết-bàn. Thế nào là ba?
 
@@ -1004,7 +1004,7 @@ An tịnh tầm với tâm.\
 Ở đây vị ấy đạt,\
 Con đường an tịnh đạo*.
 
-**(LXXXVIII) (Tik. IV, 9) (It. 83)**
+### (LXXXVIII) (Tik. IV, 9) (It. 83){#88}
 
 Này các Tỷ-kheo, có ba nội uế, nội thù này, nội đối thủ, nội sát nhân, nội thù địch này. Thế nào là ba?
 
@@ -1068,7 +1068,7 @@ Tất cả mọi si ám,\
 Như mặt trời mọc lên,\
 Quét sạch mọi tăm tối.*
 
-**(LXXXIX) (Tik. IV, 10) (It. 85)**
+### (LXXXIX) (Tik. IV, 10) (It. 85){#89}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến và tôi đã được nghe:
 
@@ -1123,9 +1123,9 @@ Sự đoạn diệt khổ đau.*
 
 ---
 
-### **Phẩm V**
+## **Phẩm V**
 
-**(XC) (Tik. V, 1) (It. 87)**
+### (XC) (Tik. V, 1) (It. 87){#90}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -1174,7 +1174,7 @@ Họ sung sướng hân hoan*.
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-**(XCI) (Tik. V, 2) (It. 89)**
+### (XCI) (Tik. V, 2) (It. 89){#91}
 
 Này các Tỷ-kheo, nghĩa này là nghề tận cùng trong các nghề nuôi sống, tức là đi bát khất thực; Này các Tỷ-kheo, danh từ nhiếc mắng ở trong đời là nói rằng: “Ông là kẻ đi bát, với bát cầm tay, ông đi khắp mọi nơi”. Tuy vậy chính nghề nuôi sống này được các thiện gia nam tử chấp nhận, những người sống vì lý tưởng, vì duyên sống với lý tưởng, không bị thúc đẩy làm nghề ấy vì sợ vua, vì sợ ăn trộm, vì mắc nợ, vì sợ hãi, không phải vì mất nghề nuôi sống; nhưng vì nghĩ rằng: “Nay ta bị rơi vào sanh, già, chết, sầu, bi, khổ, ưu, não, bị khổ tràn đầy, bị khổ chinh phục. Rất có thể, một số phương pháp chấm dứt toàn bộ khổ uẩn này có thể trình bày”.
 
@@ -1194,7 +1194,7 @@ Nếu kẻ hành ác giới,\
 Ăn đồ ăn quốc độ,\
 Không biết có chế ngự.*
 
-**(XCII) (Tik. V, 3) (It. 90)**
+### (XCII) (Tik. V, 3) (It. 90){#92}
 
 Này các Tỷ-kheo, nếu một Tỷ-kheo nắm lấy viền áo Tăng-già lê đi theo sau lưng Ta, chân bước theo chân, nhưng vị ấy có tham ái trong các dục, với lòng sắc xảo, với tâm sân hận, ý tư duy nhiễm ác, thất niệm, không tỉnh giác, không định tĩnh, tâm tán loạn, với các căn hoang dại, vị ấy xa hẳn Ta và Ta xa vị ấy. Vì cớ sao?
 
@@ -1223,7 +1223,7 @@ Và người được lắng dịu,\
 Gần giữa người không tham,\
 Và người trừ tham ái*.
 
-**(XCIII) (Tik. V, 4) (It. 92)**
+### (XCIII) (Tik. V, 4) (It. 92){#93}
 
 Này các Tỷ-kheo, có ba loại lửa này. Thế nào là ba? Lửa tham, lửa sân, lửa si. Này các Tỷ-kheo, có ba loại lửa này.
 
@@ -1280,7 +1280,7 @@ Sự diệt tận của sanh,\
 Nên họ không đi đến,\
 Sanh đi rồi sanh lại.*
 
-**(XCIV) (Tik. V, 5) (It. 93)**
+### (XCIV) (Tik. V, 5) (It. 93){#94}
 
 Này các Tỷ-kheo, Tỷ-kheo cần phải quán sát một cách như thế nào, như thế nào, do quán sát như vậy, thức của vị ấy đối với ngoại trần không có tán loạn, không có tản rộng, tâm không trú trước nội trần, không chấp thủ, không bị khủng bố, sẽ không có sự sanh khởi, sự tập khởi của khổ về sanh gìa, chết, trong tương lai.
 
@@ -1291,7 +1291,7 @@ Vòng sanh tử luân chuyển,\
 Ðã đoạn tận chặn đứng,\
 Vị ấy không tái sanh.*
 
-**(XCV) (Tik. V, 6) (It. 94)**
+### (XCV) (Tik. V, 6) (It. 94){#95}
 
 Này các Tỷ-kheo, có ba sanh khởi của dục. Thế nào là ba? Dục đối với sự vật hiện tại, sự thích thú đối với sự vật mình tạo ra, sự chấp nhận sự vật do người khác tạo ra. Này các Tỷ-kheo, có ba sanh khởi này của dục.
 
@@ -1327,7 +1327,7 @@ Sự diệt tận của sanh,\
 Nên họ không đi đến,\
 Sanh đi rồi sanh lại.*
 
-**(XCVI) (Tik. V, 7) (It. 95)**
+### (XCVI) (Tik. V, 7) (It. 95){#96}
 
 Này các Tỷ-kheo, những ai bị trói buộc bởi trói buộc của dục, những ai bị trói buộc bởi trói buộc của hữu là những bậc đến lại, đi đến lại có mặt ở đây. Những ai chế ngự được sự trói buộc của dục, này các Tỷ-kheo, nhưng còn bị trói buộc bởi trói buộc của hữu, những vị ấy là hạng Bất lai, không trở lui lại có mặt ở đây. Những ai chế ngự được sự trói buộc của dục, chế ngự được sự trói buộc của hữu, những vị ấy là bậc A-la-hán, đã đoạn tận các lậu hoặc.
 
@@ -1353,7 +1353,7 @@ Họ đi đến bờ kia,\
 Vì họ đã đạt tới,\
 Sự đoạn diệt lậu hoặc.*
 
-**(XCVII) (Tik. V,8) (It. 96)**
+### (XCVII) (Tik. V,8) (It. 96){#97}
 
 Này các Tỷ-kheo, một Tỷ-kheo, có giới tốt lành, có pháp tốt lành, có tuệ tốt lành được gọi trong Pháp và Luật này là vị toàn hảo.
 
@@ -1389,7 +1389,7 @@ Mọi sự vật ở đời,\
 Vị ấy được xưng gọi\
 Vị đoạn tận tất cả.*
 
-**(XCVIII) (Tik. V, 9) (It. 98)**
+### (XCVIII) (Tik. V, 9) (It. 98){#98}
 
 Này các Tỷ-kheo, có hai loại bố thí: Bố thí tài vật và bố thí Pháp. Này các Tỷ-kheo, đây là bố thí tối thượng trong hai loại bố thí này, tức là bố thí Pháp. Này các Tỷ-kheo, có hai sự phân phát này: Phân phát tài vật và phân phát Pháp. Ðây là phân phát tối thượng trong hai loại phân phát này, tức là phân phát Pháp. Này các Tỷ-kheo, có hai loại nhiêu ích này, nhiêu ích tài vật và nhiêu ích Pháp. Này các Tỷ-kheo, đây là nhiêu ích tối thượng trong hai loại nhiêu ích này, tức là nhiêu ích Pháp.
 
@@ -1410,7 +1410,7 @@ Là tối thắng thanh tịnh,\
 Những ai không phóng dật,\
 Trong lời dạy Thiện Thệ*.
 
-**(XCIX) (Tik. V,10) (It. 98)**
+### (XCIX) (Tik. V,10) (It. 98){#99}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 

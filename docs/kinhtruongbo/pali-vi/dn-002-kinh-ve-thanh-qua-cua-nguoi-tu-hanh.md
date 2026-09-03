@@ -2,8 +2,7 @@
 *(Sāmaññaphalasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-002){target="_blank" class="note-link"}
 
-## 1. Câu chuyện với các đại thần của vua
-
+## 1. Câu chuyện với các đại thần của vua{#1}
 Tôi đã nghe như vầy: Một thời Thế Tôn trú tại Rājagaha (Vương Xá), trong vườn xoài của ngài Jīvaka Komārabhacca, cùng với một chúng tỳ kheo lớn gồm một ngàn hai trăm năm mươi vị.
 
 Lúc bấy giờ, vua nước Māgadha (Ma-kiệt-đà) là Ajātasattu (A-xà-thế), con bà Vedehi, vào ngày rằm Uposatha (Bố-tát), đêm trăng tròn lễ Komudi tháng tư, đang ngồi trên tầng gác cao của cung điện, bao quanh bởi các quan đại thần.
@@ -23,8 +22,7 @@ Một vị đại thần khác thưa với vua: "Tâu đại vương, có Sañca
 Một vị đại thần khác thưa với vua: "Tâu đại vương, có Nigaṇṭha Nāṭaputta... Xin đại vương hãy đến hầu hạ Nigaṇṭha Nāṭaputta..." Vua giữ im lặng.
 
 <!--pg-->
-## 2. Câu chuyện với Jīvaka Komārabhacca
-
+## 2. Câu chuyện với Jīvaka Komārabhacca{#2}
 Lúc bấy giờ, Jīvaka Komārabhacca đang ngồi im lặng không xa vua nước Māgadha, Ajātasattu, con bà Vedehi. Vua liền nói với Jīvaka Komārabhacca: "Còn khanh, bạn Jīvaka, sao khanh lại im lặng?"
 
 "Tâu đại vương, có Thế Tôn, *bậc Xứng Đáng* (A-la-hán / arahaṁ), *bậc Tự Giác Ngộ Hoàn Toàn* (Chánh đẳng giác / sammāsambuddho), đang trú tại vườn xoài của chúng ta cùng với một chúng tỳ kheo lớn gồm một ngàn hai trăm năm mươi vị. Tiếng đồn tốt đẹp sau đây đã vang lên về Thế Tôn: 'Vị Thế Tôn ấy là *bậc Xứng Đáng*, *bậc Tự Giác Ngộ Hoàn Toàn*, bậc Đầy Đủ Hiểu Biết Và Đạo Đức, bậc Đi Đến Tốt Đẹp, bậc Hiểu Rõ Thế Giới, Người Điều Phục Vô Thượng, Bậc Thầy Của Chư Thiên Và Loài Người, bậc Tỉnh Thức, Thế Tôn'. Xin đại vương hãy đến hầu hạ Thế Tôn. Biết đâu khi hầu hạ Thế Tôn, tâm đại vương sẽ *trở nên trong sáng*."
@@ -40,8 +38,7 @@ Khi đến không xa vườn xoài, vua nước Māgadha, Ajātasattu, con bà V
 "Xin chớ sợ, tâu đại vương, xin chớ sợ, tâu đại vương. Thần không lừa dối đại vương; thần không gài bẫy đại vương; thần không nộp đại vương cho kẻ thù. Hãy tiến lên, tâu đại vương, hãy tiến lên, tâu đại vương, kia là những ngọn đèn đang cháy trong sảnh đường."
 
 <!--pg-->
-## 3. Câu hỏi về thành quả của người tu
-
+## 3. Câu hỏi về thành quả của người tu{#3}
 Sau đó, vua nước Māgadha, Ajātasattu, con bà Vedehi cưỡi voi đi cho đến chỗ voi có thể đi được, rồi xuống voi, đi bộ đến cửa sảnh đường; sau khi đến, vua nói với Jīvaka Komārabhacca: "Nhưng bạn Jīvaka, Thế Tôn ở đâu?"
 
 "Kia, tâu đại vương, là Thế Tôn; kia, tâu đại vương, là Thế Tôn đang ngồi tựa vào cột giữa, mặt hướng về phía Đông, phía trước là chúng tỳ kheo."
@@ -69,8 +66,7 @@ Sau đó, vua nước Māgadha, Ajātasattu, con bà Vedehi đảnh lễ Thế T
 "Vậy thì, tâu đại vương, hãy nói đi."
 
 <!--pg-->
-### 3.1. Quan điểm của Pūraṇa Kassapa
-
+### 3.1. Quan điểm của Pūraṇa Kassapa{#3.1}
 "Bạch Thế Tôn, một thời con đi đến chỗ Pūraṇa Kassapa; sau khi đến, con chào hỏi Pūraṇa Kassapa. Sau những lời chào hỏi thân thiện và lịch sự, con ngồi xuống một bên. Ngồi xuống một bên, con thưa với Pūraṇa Kassapa: 'Thưa ngài Kassapa, có nhiều nghề nghiệp khác nhau... Họ sống dựa vào thành quả nghề nghiệp của họ *thấy rõ ngay trong hiện tại*... Thưa ngài Kassapa, liệu có thể chỉ ra *thành quả của người tu* *thấy rõ ngay trong hiện tại* giống như vậy ngay trong đời sống này không?'
 
 Khi được hỏi như vậy, bạch Thế Tôn, Pūraṇa Kassapa nói với con: 'Tâu đại vương, người tự làm, người sai bảo làm, người cắt xén, người sai bảo cắt xén, người nấu nướng, người sai bảo nấu nướng, người gây sầu muộn, người sai bảo gây sầu muộn, người gây mệt mỏi, người sai bảo gây mệt mỏi, người gây run rẩy, người sai bảo gây run rẩy, người sát sinh, người lấy của không cho, người phá nhà, người cướp bóc, người trộm cắp, người phục kích, người ngoại tình, người nói dối; dù làm vậy cũng không tạo ra tội lỗi. Dù cho một người dùng bánh xe có lưỡi dao sắc bén băm vằm tất cả sinh vật trên trái đất này thành một đống thịt, một khối thịt, thì từ nguyên nhân đó cũng không có tội lỗi, không có sự mang lại tội lỗi. Dù cho một người đi dọc bờ nam sông Hằng, giết chóc, tàn sát, cắt xén, sai bảo cắt xén, nấu nướng, sai bảo nấu nướng, thì từ nguyên nhân đó cũng không có tội lỗi, không có sự mang lại tội lỗi. Dù cho một người đi dọc bờ bắc sông Hằng, bố thí, sai bảo bố thí, cúng tế, sai bảo cúng tế, thì từ nguyên nhân đó cũng không có phước báu, không có sự mang lại phước báu. Bằng việc bố thí, chế ngự, tự chủ, nói lời chân thật, không có phước báu, không có sự mang lại phước báu.'
@@ -78,8 +74,7 @@ Khi được hỏi như vậy, bạch Thế Tôn, Pūraṇa Kassapa nói với c
 Như vậy, bạch Thế Tôn, khi được hỏi về *thành quả của người tu* *thấy rõ ngay trong hiện tại*, Pūraṇa Kassapa đã trả lời bằng thuyết *không có hành động [tạo nghiệp]* (vô tác / akiriya). Bạch Thế Tôn, giống như một người được hỏi về quả xoài lại trả lời về quả mít, hay được hỏi về quả mít lại trả lời về quả xoài; cũng vậy, khi được hỏi về *thành quả của người tu* *thấy rõ ngay trong hiện tại*, Pūraṇa Kassapa đã trả lời bằng thuyết *không có hành động [tạo nghiệp]*. Bạch Thế Tôn, con nghĩ rằng: 'Làm sao một người như ta lại có thể nghĩ đến việc quở trách một sa-môn hay bà-la-môn đang sống trong vương quốc của mình?' Vì vậy, bạch Thế Tôn, con không hoan hỷ cũng không phản đối lời nói của Pūraṇa Kassapa. Không hoan hỷ, không phản đối, không hài lòng, không thốt ra lời không hài lòng, con ghi nhận lời nói đó, không lật ngược lại, đứng dậy từ chỗ ngồi và rời đi.
 
 <!--pg-->
-### 3.2. Quan điểm của Makkhali Gosāla
-
+### 3.2. Quan điểm của Makkhali Gosāla{#3.2}
 Bạch Thế Tôn, một thời con đi đến chỗ Makkhali Gosāla... con thưa với Makkhali Gosāla: 'Thưa ngài Gosāla, có nhiều nghề nghiệp khác nhau... v.v... Thưa ngài Gosāla, liệu có thể chỉ ra *thành quả của người tu* *thấy rõ ngay trong hiện tại* giống như vậy ngay trong đời sống này không?'
 
 Khi được hỏi như vậy, bạch Thế Tôn, Makkhali Gosāla nói với con: 'Tâu đại vương, không có nhân, không có *điều kiện* (duyên / paccaya) cho sự ô nhiễm của chúng sinh; chúng sinh bị ô nhiễm không có nhân, không có *điều kiện*. Không có nhân, không có *điều kiện* cho sự thanh tịnh của chúng sinh; chúng sinh được thanh tịnh không có nhân, không có *điều kiện*. Không có tự mình làm, không có người khác làm, không có con người làm, không có sức mạnh, không có nỗ lực, không có sức lực con người, không có sự phấn đấu của con người. Tất cả chúng sinh, tất cả sinh vật, tất cả các loài, tất cả sinh mạng đều không có quyền lực, không có sức mạnh, không có nỗ lực, bị định đoạt bởi số phận, hoàn cảnh và bản tính, và trải nghiệm *hạnh phúc* và *đau khổ* (khổ / dukkha) trong sáu loại sinh. Có một triệu bốn trăm ngàn loại sinh chính, sáu ngàn, sáu trăm, năm trăm loại nghiệp, năm loại nghiệp, ba loại nghiệp, nghiệp và nửa nghiệp, sáu mươi hai con đường, sáu mươi hai tiểu kiếp, sáu loại sinh, tám giai đoạn của con người, bốn ngàn chín trăm nghề nghiệp, bốn ngàn chín trăm người du sĩ, bốn ngàn chín trăm chỗ ở của rồng, hai trăm *giác quan* (căn / indriya), ba ngàn địa ngục, ba mươi sáu cõi bụi, bảy thai sinh có nhận thức, bảy thai sinh không có nhận thức, bảy thai sinh nigaṇṭha, bảy vị thần, bảy loài người, bảy loài quỷ, bảy hồ nước, bảy nút thắt, bảy trăm nút thắt, bảy vực thẳm, bảy trăm vực thẳm, bảy giấc mơ, bảy trăm giấc mơ, tám mươi bốn ngàn đại kiếp, mà kẻ ngu cũng như người trí sau khi chạy vòng quanh, luân hồi, sẽ làm *sự chấm dứt* (diệt / nirodha) *đau khổ*. Ở đây không có chuyện: "Bằng *đời sống đạo đức* (giới / sīla) này, hay sự tu tập này, hay khổ hạnh này, hay phạm hạnh này, ta sẽ làm cho nghiệp chưa chín muồi được chín muồi, hay ta sẽ tiếp xúc và làm tiêu tan nghiệp đã chín muồi". Không có chuyện như vậy. *Hạnh phúc* và *đau khổ* đã được đong đếm, luân hồi đã có giới hạn, không có sự tăng giảm, không có sự thăng trầm. Giống như một cuộn chỉ được ném ra sẽ lăn cho đến khi hết chỉ; cũng vậy, kẻ ngu cũng như người trí sau khi chạy vòng quanh, luân hồi, sẽ làm *sự chấm dứt* *đau khổ*.'
@@ -87,8 +82,7 @@ Khi được hỏi như vậy, bạch Thế Tôn, Makkhali Gosāla nói với co
 Như vậy, bạch Thế Tôn, khi được hỏi về *thành quả của người tu* *thấy rõ ngay trong hiện tại*, Makkhali Gosāla đã trả lời bằng thuyết sự trong sạch qua vòng luân hồi. Bạch Thế Tôn, giống như một người được hỏi về quả xoài lại trả lời về quả mít... con ghi nhận lời nói đó, không lật ngược lại, đứng dậy từ chỗ ngồi và rời đi.
 
 <!--pg-->
-### 3.3. Quan điểm của Ajita Kesakambala
-
+### 3.3. Quan điểm của Ajita Kesakambala{#3.3}
 Bạch Thế Tôn, một thời con đi đến chỗ Ajita Kesakambala... con thưa với Ajita Kesakambala: 'Thưa ngài Ajita, có nhiều nghề nghiệp khác nhau... v.v... Thưa ngài Ajita, liệu có thể chỉ ra *thành quả của người tu* *thấy rõ ngay trong hiện tại* giống như vậy ngay trong đời sống này không?'
 
 Khi được hỏi như vậy, bạch Thế Tôn, Ajita Kesakambala nói với con: 'Tâu đại vương, không có bố thí, không có cúng tế, không có tế lễ, không có quả báo của *những điều thiện* (pháp thiện / kusalā dhammā) và *những điều không thiện* (pháp bất thiện / akusalā dhammā), không có thế giới này, không có thế giới khác, không có mẹ, không có cha, không có chúng sinh hóa sinh, không có các sa-môn và bà-la-môn trên đời đã đi đến chân lý, thực hành chân lý, những người tự mình *hiểu biết trực tiếp* (thắng tri / abhijānāti) và chứng ngộ thế giới này và thế giới khác rồi truyền dạy lại. Con người này được tạo thành từ bốn *nguyên tố* (đại / mahābhūta); khi chết đi, đất trở về với đất, nước trở về với nước, lửa trở về với lửa, gió trở về với gió, các *giác quan* tan vào không gian. Bốn người khiêng cáng là người thứ năm mang xác chết đi. Những bước chân được nhìn thấy cho đến bãi thiêu. Xương trở thành màu bồ câu, các đồ cúng tế biến thành tro bụi. Bố thí là học thuyết của kẻ ngu. Lời nói của những ai cho rằng có sự tồn tại đều là trống rỗng, dối trá, lảm nhảm. Kẻ ngu cũng như người trí, sau khi thân hoại mạng chung đều *sự đoạn diệt hoàn toàn* (đoạn diệt / uccheda), tiêu diệt, không còn tồn tại sau khi chết.'
@@ -96,8 +90,7 @@ Khi được hỏi như vậy, bạch Thế Tôn, Ajita Kesakambala nói với c
 Như vậy, bạch Thế Tôn, khi được hỏi về *thành quả của người tu* *thấy rõ ngay trong hiện tại*, Ajita Kesakambala đã trả lời bằng thuyết *sự đoạn diệt hoàn toàn*. Bạch Thế Tôn, giống như một người được hỏi về quả xoài lại trả lời về quả mít... con ghi nhận lời nói đó, không lật ngược lại, đứng dậy từ chỗ ngồi và rời đi.
 
 <!--pg-->
-### 3.4. Quan điểm của Pakudha Kaccāyana
-
+### 3.4. Quan điểm của Pakudha Kaccāyana{#3.4}
 Bạch Thế Tôn, một thời con đi đến chỗ Pakudha Kaccāyana... con thưa với Pakudha Kaccāyana: 'Thưa ngài Kaccāyana, có nhiều nghề nghiệp khác nhau... v.v... Thưa ngài Kaccāyana, liệu có thể chỉ ra *thành quả của người tu* *thấy rõ ngay trong hiện tại* giống như vậy ngay trong đời sống này không?'
 
 Khi được hỏi như vậy, bạch Thế Tôn, Pakudha Kaccāyana nói với con: 'Tâu đại vương, có bảy thân này không được tạo ra, không phải do tạo ra, không được sáng tạo, không phải do sáng tạo, cằn cỗi, vững chắc như đỉnh núi, đứng vững như cột trụ. Chúng không lay động, không biến đổi, không cản trở lẫn nhau, không thể gây ra *hạnh phúc*, *đau khổ*, hay cả *hạnh phúc* và *đau khổ* cho nhau. Bảy thân đó là gì? Thân đất, thân nước, thân lửa, thân gió, *hạnh phúc*, *đau khổ*, và sinh mạng là thứ bảy—bảy thân này không được tạo ra... không thể gây ra *hạnh phúc*, *đau khổ*, hay cả *hạnh phúc* và *đau khổ* cho nhau. Ở đây không có người giết hay người sai bảo giết, người nghe hay người sai bảo nghe, người nhận biết hay người sai bảo nhận biết. Ngay cả khi một người dùng thanh gươm sắc bén chặt đầu, cũng không có ai tước đoạt sinh mạng của ai; thanh gươm chỉ đi qua khoảng trống giữa bảy thân mà thôi.'
@@ -105,8 +98,7 @@ Khi được hỏi như vậy, bạch Thế Tôn, Pakudha Kaccāyana nói với 
 Như vậy, bạch Thế Tôn, khi được hỏi về *thành quả của người tu* *thấy rõ ngay trong hiện tại*, Pakudha Kaccāyana đã trả lời bằng cách hỏi một đằng trả lời một nẻo. Bạch Thế Tôn, giống như một người được hỏi về quả xoài lại trả lời về quả mít... con ghi nhận lời nói đó, không lật ngược lại, đứng dậy từ chỗ ngồi và rời đi.
 
 <!--pg-->
-### 3.5. Quan điểm của Nigaṇṭha Nāṭaputta
-
+### 3.5. Quan điểm của Nigaṇṭha Nāṭaputta{#3.5}
 Bạch Thế Tôn, một thời con đi đến chỗ Nigaṇṭha Nāṭaputta... con thưa với Nigaṇṭha Nāṭaputta: 'Thưa ngài Aggivessana, có nhiều nghề nghiệp khác nhau... v.v... Thưa ngài Aggivessana, liệu có thể chỉ ra *thành quả của người tu* *thấy rõ ngay trong hiện tại* giống như vậy ngay trong đời sống này không?'
 
 Khi được hỏi như vậy, bạch Thế Tôn, Nigaṇṭha Nāṭaputta nói với con: 'Tâu đại vương, ở đây một Nigaṇṭha được bảo vệ bởi sự thu thúc trong bốn cấm giới. Và thế nào, tâu đại vương, là Nigaṇṭha được bảo vệ bởi sự thu thúc trong bốn cấm giới? Ở đây, tâu đại vương, Nigaṇṭha bị ngăn cản bởi mọi loại nước, gắn liền với mọi loại nước, rũ bỏ mọi loại nước, và được bao bọc bởi mọi loại nước. Như vậy, tâu đại vương, Nigaṇṭha được bảo vệ bởi sự thu thúc trong bốn cấm giới. Vì Nigaṇṭha được bảo vệ bởi sự thu thúc trong bốn cấm giới như vậy, tâu đại vương, Nigaṇṭha này được gọi là người đã đạt đến tự ngã, đã chế ngự tự ngã, và đã an trú tự ngã.'
@@ -114,8 +106,7 @@ Khi được hỏi như vậy, bạch Thế Tôn, Nigaṇṭha Nāṭaputta nói
 Như vậy, bạch Thế Tôn, khi được hỏi về *thành quả của người tu* *thấy rõ ngay trong hiện tại*, Nigaṇṭha Nāṭaputta đã trả lời bằng sự thu thúc trong bốn cấm giới. Bạch Thế Tôn, giống như một người được hỏi về quả xoài lại trả lời về quả mít... con ghi nhận lời nói đó, không lật ngược lại, đứng dậy từ chỗ ngồi và rời đi.
 
 <!--pg-->
-### 3.6. Quan điểm của Sañcaya Belaṭṭhaputta
-
+### 3.6. Quan điểm của Sañcaya Belaṭṭhaputta{#3.6}
 Bạch Thế Tôn, một thời con đi đến chỗ Sañcaya Belaṭṭhaputta... con thưa với Sañcaya Belaṭṭhaputta: 'Thưa ngài Sañcaya, có nhiều nghề nghiệp khác nhau... v.v... Thưa ngài Sañcaya, liệu có thể chỉ ra *thành quả của người tu* *thấy rõ ngay trong hiện tại* giống như vậy ngay trong đời sống này không?'
 
 Khi được hỏi như vậy, bạch Thế Tôn, Sañcaya Belaṭṭhaputta nói với con: 'Nếu ngài hỏi tôi có thế giới khác không, nếu tôi nghĩ là có thế giới khác, tôi sẽ trả lời ngài là có thế giới khác. Nhưng tôi không nói như vậy, tôi không nói thế kia, tôi không nói khác đi, tôi không nói là không, tôi không nói là không phải không. Không có thế giới khác ...v.v... Có và không có thế giới khác ...v.v... Không phải có cũng không phải không có thế giới khác ...v.v... Có chúng sinh hóa sinh ...v.v... Không có chúng sinh hóa sinh ...v.v... Có và không có chúng sinh hóa sinh ...v.v... Không phải có cũng không phải không có chúng sinh hóa sinh ...v.v... Có quả báo của *những điều thiện* và *những điều không thiện* ...v.v... Không có quả báo của *những điều thiện* và *những điều không thiện* ...v.v... Có và không có quả báo của *những điều thiện* và *những điều không thiện* ...v.v... Không phải có cũng không phải không có quả báo của *những điều thiện* và *những điều không thiện* ...v.v... *Người Đến Như Vậy* (Như Lai / Tathāgata) tồn tại sau khi chết ...v.v... *Người Đến Như Vậy* không tồn tại sau khi chết ...v.v... *Người Đến Như Vậy* vừa tồn tại vừa không tồn tại sau khi chết ...v.v... Nếu ngài hỏi tôi *Người Đến Như Vậy* không phải tồn tại cũng không phải không tồn tại sau khi chết, nếu tôi nghĩ là *Người Đến Như Vậy* không phải tồn tại cũng không phải không tồn tại sau khi chết, tôi sẽ trả lời ngài như vậy. Nhưng tôi không nói như vậy, tôi không nói thế kia, tôi không nói khác đi, tôi không nói là không, tôi không nói là không phải không.'
@@ -123,10 +114,8 @@ Khi được hỏi như vậy, bạch Thế Tôn, Sañcaya Belaṭṭhaputta nó
 Như vậy, bạch Thế Tôn, khi được hỏi về *thành quả của người tu* *thấy rõ ngay trong hiện tại*, Sañcaya Belaṭṭhaputta đã trả lời bằng *sự trốn tránh* (ngụy biện / vikkhepa). Bạch Thế Tôn, giống như một người được hỏi về quả xoài lại trả lời về quả mít... Bạch Thế Tôn, con nghĩ rằng: 'Người này là kẻ ngu xuẩn nhất, mê muội nhất trong số các sa-môn và bà-la-môn này. Làm sao khi được hỏi về *thành quả của người tu* *thấy rõ ngay trong hiện tại* lại trả lời bằng *sự trốn tránh*?' Bạch Thế Tôn, con nghĩ rằng: 'Làm sao một người như ta lại có thể nghĩ đến việc quở trách một sa-môn hay bà-la-môn đang sống trong vương quốc của mình?' Vì vậy, bạch Thế Tôn, con không hoan hỷ cũng không phản đối lời nói của Sañcaya Belaṭṭhaputta. Không hoan hỷ, không phản đối, không hài lòng, không thốt ra lời không hài lòng, con ghi nhận lời nói đó, không lật ngược lại, đứng dậy từ chỗ ngồi và rời đi.
 
 <!--pg-->
-## 4. Thành quả của người tu
-
-### 4.1. Thành quả của người tu thấy rõ ngay trong hiện tại thứ nhất
-
+## 4. Thành quả của người tu{#4}
+### 4.1. Thành quả của người tu thấy rõ ngay trong hiện tại thứ nhất{#4.1}
 Bạch Thế Tôn, nay con xin hỏi Thế Tôn: 'Bạch Thế Tôn, có nhiều nghề nghiệp khác nhau như là—người cưỡi voi... v.v... Họ sống dựa vào thành quả nghề nghiệp của họ *thấy rõ ngay trong hiện tại* ngay trong đời sống này... Bạch Thế Tôn, liệu có thể chỉ ra *thành quả của người tu* *thấy rõ ngay trong hiện tại* giống như vậy ngay trong đời sống này không?'"
 
 "Có thể được, tâu đại vương. Vậy thì, tâu đại vương, ta sẽ hỏi lại ngài về vấn đề này. Ngài thấy thế nào thì hãy trả lời như thế ấy. Ngài nghĩ sao, tâu đại vương, giả sử ngài có một người nô lệ, một người làm công, thức dậy trước, đi ngủ sau, sẵn sàng vâng lệnh, làm việc vừa lòng, nói lời dễ nghe, luôn nhìn nét mặt ngài. Người ấy nghĩ rằng: 'Thật kỳ diệu thay, thật phi thường thay, đích đến của phước báu, quả báo của phước báu. Vua nước Māgadha, Ajātasattu, con bà Vedehi này là con người; ta cũng là con người. Vua nước Māgadha, Ajātasattu, con bà Vedehi này được cung cấp đầy đủ, tận hưởng năm *sợi dây trói buộc của bản năng* (ngũ dục / kāmaguṇa), giống như một vị trời. Còn ta là nô lệ của ngài, người làm công, thức dậy trước, đi ngủ sau, sẵn sàng vâng lệnh, làm việc vừa lòng, nói lời dễ nghe, luôn nhìn nét mặt ngài. Ta nên làm các phước báu. Hay là ta cạo bỏ râu tóc, đắp áo cà-sa, *rời bỏ gia đình* sống không gia đình.'
@@ -142,8 +131,7 @@ Vào một thời gian sau, người ấy cạo bỏ râu tóc, đắp áo cà-s
 "Đây, tâu đại vương, là *thành quả của người tu* *thấy rõ ngay trong hiện tại* thứ nhất ngay trong đời sống này mà ta chỉ ra cho ngài."
 
 <!--pg-->
-### 4.2. Thành quả của người tu thấy rõ ngay trong hiện tại thứ hai
-
+### 4.2. Thành quả của người tu thấy rõ ngay trong hiện tại thứ hai{#4.2}
 "Bạch Thế Tôn, liệu có thể chỉ ra một *thành quả của người tu* *thấy rõ ngay trong hiện tại* khác giống như vậy ngay trong đời sống này không?"
 
 "Có thể được, tâu đại vương. Vậy thì, tâu đại vương, ta sẽ hỏi lại ngài về vấn đề này. Ngài thấy thế nào thì hãy trả lời như thế ấy. Ngài nghĩ sao, tâu đại vương, giả sử ngài có một người nông dân, một gia chủ, người đóng thuế, người làm tăng tài sản. Người ấy nghĩ rằng: 'Thật kỳ diệu thay, thật phi thường thay, đích đến của phước báu, quả báo của phước báu. Vua nước Māgadha, Ajātasattu, con bà Vedehi này là con người, ta cũng là con người. Vua nước Māgadha, Ajātasattu, con bà Vedehi này được cung cấp đầy đủ, tận hưởng năm *sợi dây trói buộc của bản năng*, giống như một vị trời. Còn ta là nông dân của ngài, gia chủ, người đóng thuế, người làm tăng tài sản. Ta nên làm các phước báu. Hay là ta cạo bỏ râu tóc, đắp áo cà-sa, *rời bỏ gia đình* sống không gia đình.'
@@ -160,8 +148,7 @@ Vào một thời gian sau, người ấy *từ bỏ* (đoạn trừ / pahāya) 
 
 <!--pg-->
 
-### 4.3. Paṇītatarasāmaññaphala (Những thành quả của người tu cao thượng hơn)
-
+### 4.3. Paṇītatarasāmaññaphala (Những thành quả của người tu cao thượng hơn){#4.3}
 "Bạch Thế Tôn, liệu có thể chỉ ra một *thành quả của người tu* thiết thực hiện tại nào khác, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại này không?"
 
 "Có thể được, thưa đại vương. Vậy thì, thưa đại vương, hãy lắng nghe, hãy *suy nghĩ đến* (tác ý / manasikāra) thật kỹ, Ta sẽ giảng."
@@ -179,10 +166,8 @@ Một thời gian sau, người ấy từ bỏ khối tài sản nhỏ hay từ 
 Khi đã xuất gia như vậy, người ấy sống được bảo vệ bởi sự thu thúc của giới bổn Pātimokkha, đầy đủ oai nghi chánh hạnh, thấy sự nguy hiểm trong những lỗi lầm nhỏ nhặt nhất, thọ nhận và học tập các học giới, được thấm nhuần những hành động thiện của thân và lời nói, có sinh kế thanh khiết, đầy đủ *đời sống đạo đức* (giới / sīla), canh giữ các cánh cửa giác quan, được trang bị *sự nhận biết rõ ràng* (tỉnh giác / sampajañña) cùng *sự Tự Quan Sát* (chánh niệm / sati), và biết đủ.
 
 <!--pg-->
-#### 4.3.1. Sīla (Sống đạo đức)
-
-##### 4.3.1.1. Cūḷasīla (Tiểu giới)
-
+#### 4.3.1. Sīla (Sống đạo đức){#4.3.1}
+##### 4.3.1.1. Cūḷasīla (Tiểu giới){#4.3.1.1}
 Thế nào, thưa đại vương, là tỳ kheo đầy đủ *đời sống đạo đức*? Ở đây, thưa đại vương, tỳ kheo từ bỏ việc giết hại sinh mạng, tránh xa việc giết hại sinh mạng. Vị ấy bỏ gậy gộc, bỏ đao kiếm, có lòng tàm quý, có lòng từ bi, sống thương xót đến hạnh phúc của mọi sinh vật và loài hữu tình. Đây là một phần trong lối sống đạo đức của vị ấy.
 
 Từ bỏ việc lấy của không cho, vị ấy tránh xa việc lấy của không cho, chỉ nhận những gì được cho, chỉ mong đợi những gì được cho, sống với tâm thanh khiết, không trộm cắp. Đây là một phần trong lối sống đạo đức của vị ấy.
@@ -202,8 +187,7 @@ Vị ấy tránh xa việc làm tổn hại đến hạt giống và cây cối.
 Kết thúc phần Tiểu giới.
 
 <!--pg-->
-##### 4.3.1.2. Majjhimasīla (Trung giới)
-
+##### 4.3.1.2. Majjhimasīla (Trung giới){#4.3.1.2}
 Trong khi một số sa-môn, bà-la-môn ăn những thức ăn được cúng dường bởi tín chủ (người có lòng tin), họ lại sống đam mê làm tổn hại đến các loại hạt giống và cây cối. Cụ thể là: hạt giống từ rễ, hạt giống từ thân, hạt giống từ đốt, hạt giống từ ngọn, và thứ năm là hạt giống từ chính hạt. Vị ấy tránh xa việc làm tổn hại đến các loại hạt giống và cây cối như vậy. Đây là một phần trong lối sống đạo đức của vị ấy.
 
 Trong khi một số sa-môn, bà-la-môn ăn những thức ăn được cúng dường bởi tín chủ, họ lại sống đam mê việc tích trữ đồ dùng. Cụ thể là: tích trữ thức ăn, tích trữ đồ uống, tích trữ y phục, tích trữ xe cộ, tích trữ giường nằm, tích trữ hương liệu, tích trữ vật dụng. Vị ấy tránh xa việc tích trữ đồ dùng như vậy. Đây là một phần trong lối sống đạo đức của vị ấy.
@@ -227,8 +211,7 @@ Trong khi một số sa-môn, bà-la-môn ăn những thức ăn được cúng 
 Kết thúc phần Trung giới.
 
 <!--pg-->
-##### 4.3.1.3. Mahāsīla (Đại giới)
-
+##### 4.3.1.3. Mahāsīla (Đại giới){#4.3.1.3}
 Trong khi một số sa-môn, bà-la-môn ăn những thức ăn được cúng dường bởi tín chủ, họ lại nuôi sống bản thân bằng sinh kế sai trái thông qua các tà thuật. Cụ thể là: bói toán qua các bộ phận cơ thể, bói điềm báo, bói sấm sét, giải mộng, xem tướng, bói vết chuột cắn, tế lửa bằng muôi, tế lửa bằng vỏ trấu, tế lửa bằng cám, tế lửa bằng gạo, tế lửa bằng bơ lỏng, tế lửa bằng dầu, tế lửa từ miệng, tế lửa bằng máu, xem tướng tay, xem phong thủy, xem tướng đất, xem bùa chú, xem ma quỷ, xem bùa đất, xem bùa rắn, xem bùa độc, xem bùa bò cạp, xem bùa chuột, xem bùa chim, xem bùa quạ, đoán tuổi thọ, làm bùa tránh tên, hiểu tiếng kêu của thú. Vị ấy tránh xa sinh kế sai trái thông qua các tà thuật như vậy. Đây là một phần trong lối sống đạo đức của vị ấy.
 
 Trong khi một số sa-môn, bà-la-môn ăn những thức ăn được cúng dường bởi tín chủ, họ lại nuôi sống bản thân bằng sinh kế sai trái thông qua các tà thuật. Cụ thể là: xem tướng ngọc, xem tướng áo, xem tướng gậy, xem tướng kiếm, xem tướng đao, xem tướng tên, xem tướng cung, xem tướng vũ khí, xem tướng phụ nữ, xem tướng đàn ông, xem tướng bé trai, xem tướng bé gái, xem tướng nô lệ nam, xem tướng nô lệ nữ, xem tướng voi, xem tướng ngựa, xem tướng trâu, xem tướng bò đực, xem tướng bò cái, xem tướng dê, xem tướng cừu, xem tướng gà, xem tướng chim cút, xem tướng kỳ đà, xem tướng khuyên tai, xem tướng rùa, xem tướng nai. Vị ấy tránh xa sinh kế sai trái thông qua các tà thuật như vậy. Đây là một phần trong lối sống đạo đức của vị ấy.
@@ -248,25 +231,20 @@ Thưa đại vương, tỳ kheo sống đầy đủ với *đời sống đạo 
 Kết thúc phần Đại giới.
 
 <!--pg-->
-#### 4.3.2. Samādhi (Định)
-
-##### 4.3.2.1. Indriyasaṁvara (Tỉnh thức bảo vệ các giác quan)
-
+#### 4.3.2. Samādhi (Định){#4.3.2}
+##### 4.3.2.1. Indriyasaṁvara (Tỉnh thức bảo vệ các giác quan){#4.3.2.1}
 Thế nào, thưa đại vương, là tỳ kheo *tỉnh thức bảo vệ* các giác quan? Ở đây, thưa đại vương, khi mắt thấy *hình ảnh* (sắc / rūpa), tỳ kheo không đi theo *hình dáng* (tướng / nimitta), không đi theo các chi tiết. Vì nếu để giác quan mắt không được *tỉnh thức bảo vệ* (thu thúc), thì *những điều không thiện* (bất thiện pháp / akusalā dhammā) ác là *lòng tham* (ái dục / abhijjhā) và *ưu phiền* (ưu / domanassa) sẽ tràn vào, nên vị ấy thực hành sự *tỉnh thức bảo vệ*, bảo vệ giác quan mắt, đạt được sự *tỉnh thức bảo vệ* ở giác quan mắt. Khi tai nghe âm thanh... Khi mũi ngửi mùi... Khi lưỡi nếm vị... Khi cơ thể chạm vào vật xúc... Khi *tâm* (citta) nhận biết mọi *Điều*, vị ấy không đi theo *hình dáng*, không đi theo các chi tiết. Vì nếu để giác quan *tâm* không được *tỉnh thức bảo vệ*, thì *những điều không thiện* ác là *lòng tham* và *ưu phiền* sẽ tràn vào, nên vị ấy thực hành sự *tỉnh thức bảo vệ*, bảo vệ giác quan *tâm*, đạt được sự *tỉnh thức bảo vệ* ở giác quan *tâm*. Được thấm nhuần sự *tỉnh thức bảo vệ* các giác quan cao thượng này, vị ấy cảm nhận một niềm hạnh phúc không bị vấy bẩn ở bên trong. Như vậy, thưa đại vương, là tỳ kheo canh giữ các cánh cửa giác quan.
 
 <!--pg-->
-##### 4.3.2.2. Satisampajañña (Sự nhận biết rõ ràng)
-
+##### 4.3.2.2. Satisampajañña (Sự nhận biết rõ ràng){#4.3.2.2}
 Thế nào, thưa đại vương, là tỳ kheo được trang bị *sự nhận biết rõ ràng* (tỉnh giác / sampajāno)? Ở đây, thưa đại vương, tỳ kheo khi đi tới đi lui đều thực hành *sự nhận biết rõ ràng*; khi nhìn thẳng nhìn quanh đều thực hành *sự nhận biết rõ ràng*; khi co tay duỗi chân đều thực hành *sự nhận biết rõ ràng*; khi mang y tăng-già-lê, bình bát và y phục đều thực hành *sự nhận biết rõ ràng*; khi ăn, uống, nhai, nếm đều thực hành *sự nhận biết rõ ràng*; khi đại tiện tiểu tiện đều thực hành *sự nhận biết rõ ràng*; khi đi, đứng, ngồi, ngủ, thức, nói, im lặng đều thực hành *sự nhận biết rõ ràng*. Như vậy, thưa đại vương, là tỳ kheo được trang bị *sự nhận biết rõ ràng*.
 
 <!--pg-->
-##### 4.3.2.3. Santosa (Biết đủ)
-
+##### 4.3.2.3. Santosa (Biết đủ){#4.3.2.3}
 Thế nào, thưa đại vương, là tỳ kheo biết đủ? Ở đây, thưa đại vương, tỳ kheo biết đủ với y áo để che thân, với thức ăn khất thực để nuôi bụng. Vị ấy đi đến bất cứ nơi đâu, cũng chỉ mang theo bấy nhiêu mà đi. Giống như con chim có cánh, bay đến bất cứ nơi đâu cũng chỉ mang theo đôi cánh của mình mà bay; cũng vậy, thưa đại vương, tỳ kheo biết đủ với y áo để che thân, với thức ăn khất thực để nuôi bụng. Vị ấy đi đến bất cứ nơi đâu, cũng chỉ mang theo bấy nhiêu mà đi. Như vậy, thưa đại vương, là tỳ kheo biết đủ.
 
 <!--pg-->
-##### 4.3.2.4. Nīvaraṇappahāna (Từ bỏ năm sự làm Mờ Yếu)
-
+##### 4.3.2.4. Nīvaraṇappahāna (Từ bỏ năm sự làm Mờ Yếu){#4.3.2.4}
 Được sống trong *đời sống đạo đức* cao thượng này, được thấm nhuần *sự Tỉnh thức bảo vệ các giác quan* cao thượng này, được thấm nhuần *sự nhận biết rõ ràng* cao thượng này, và được thấm nhuần *sự biết đủ* cao thượng này, vị ấy tìm đến một nơi ở vắng vẻ: khu rừng, gốc cây, ngọn núi, khe núi, hang đá, bãi tha ma, rừng sâu, bãi đất trống, hay đống rơm. Sau bữa ăn, khi đi khất thực về, vị ấy ngồi xếp bằng, giữ lưng thẳng, thiết lập *sự Tự Quan Sát* (chánh niệm / sati) ở phía trước.
 
 Vị ấy *từ bỏ* (đoạn trừ / pahāya) *lòng tham* ở đời, sống với *tâm* không còn *lòng tham*, gột rửa *tâm* khỏi *lòng tham*. *Từ bỏ* *Ác ý hãm hại* (sân hận / byāpāda), vị ấy sống với *tâm* không còn ác ý, thương xót đến hạnh phúc của mọi sinh vật và loài hữu tình, gột rửa *tâm* khỏi *Ác ý hãm hại*. *Từ bỏ* *Uể oải, buồn ngủ* (hôn trầm thụy miên / thīnamiddha), vị ấy sống không còn *Uể oải, buồn ngủ*, luôn nhận thức luồng sáng, có *sự Tự Quan Sát* và *sự nhận biết rõ ràng*, gột rửa *tâm* khỏi *Uể oải, buồn ngủ*. *Từ bỏ* *Bồn chồn, hối hận* (trạo cử hối quá / uddhaccakukkucca), vị ấy sống không bồn chồn, *tâm* được lắng dịu bên trong, gột rửa *tâm* khỏi *Bồn chồn, hối hận*. *Từ bỏ* *Nghi ngờ* (nghi / vicikicchā), vị ấy sống vượt qua *Nghi ngờ*, không còn phân vân về những điều thiện, gột rửa *tâm* khỏi *Nghi ngờ*.
@@ -288,15 +266,13 @@ Nhưng thưa đại vương, khi tỳ kheo thấy năm *sự làm Mờ Yếu* n�
 <!--pg-->
 Khi thấy năm *sự làm Mờ Yếu* này đã được *từ bỏ* trong chính mình, niềm vui sướng sinh ra; từ niềm vui sướng, *hân hoan* (hỷ / pīti) sinh ra; với *tâm* *hân hoan*, cơ thể được lắng dịu; cơ thể lắng dịu thì cảm nhận *hạnh phúc* (lạc / sukha); người có *hạnh phúc* thì *tâm* đạt được Định.
 
-##### 4.3.2.5. Paṭhamajhāna (Thiền thứ nhất)
-
+##### 4.3.2.5. Paṭhamajhāna (Thiền thứ nhất){#4.3.2.5}
 Vị ấy *hoàn toàn rời-bỏ khỏi* (ly / vivicca) các *sự dễ chịu giác quan* (dục / kāma), *hoàn toàn rời-bỏ khỏi* *những điều không thiện*, đạt đến và an trú trong *Thiền-na* (thiền / jhāna) thứ nhất, một trạng thái có *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (có tầm có tứ / savitakkaṁ savicāraṁ), có *hân hoan* và *hạnh phúc* sinh ra từ sự *rời-bỏ* (viễn ly / viveka). Vị ấy làm cho cơ thể này thấm nhuần, tẩm ướt, tràn đầy và lan tỏa với *hân hoan* và *hạnh phúc* sinh ra từ sự *rời-bỏ*, không một phần nào của toàn bộ cơ thể mà không được thấm nhuần bởi *hân hoan* và *hạnh phúc* sinh ra từ sự *rời bỏ*.
 
 Giống như, thưa đại vương, một người thợ tắm hay người học việc khéo léo rắc bột tắm vào một thau đồng, rồi rưới nước vào, nhào nặn cho đến khi cục bột tắm thấm đẫm độ ẩm, ngậm đầy độ ẩm, ướt sũng từ trong ra ngoài nhưng không bị nhỏ giọt; cũng vậy, thưa đại vương, tỳ kheo làm cho cơ thể này thấm nhuần, tẩm ướt, tràn đầy và lan tỏa với *hân hoan* và *hạnh phúc* sinh ra từ sự *rời bỏ*, không một phần nào của toàn bộ cơ thể mà không được thấm nhuần bởi *hân hoan* và *hạnh phúc* sinh ra từ sự *rời bỏ*. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.2.6. Dutiyajhāna (Thiền thứ hai)
-
+##### 4.3.2.6. Dutiyajhāna (Thiền thứ hai){#4.3.2.6}
 Lại nữa, thưa đại vương, với sự *lắng dịu* (diệt / vūpasama) của sự *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, tỳ kheo đạt được *sự lắng trong nội tại* (nội tĩnh / ajjhattaṁ sampasādanaṁ), *tâm hợp thành một* (nhất tâm / cetaso ekodibhāvaṁ), *Không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (không tầm không tứ / avitakkaṁ avicāraṁ), có *hân hoan* và *hạnh phúc* sinh ra từ Định, vị ấy đạt đến và an trú trong *Thiền-na* thứ hai. Vị ấy làm cho cơ thể này thấm nhuần, tẩm ướt, tràn đầy và lan tỏa với *hân hoan* và *hạnh phúc* sinh ra từ Định, không một phần nào của toàn bộ cơ thể mà không được thấm nhuần bởi *hân hoan* và *hạnh phúc* sinh ra từ Định.
 
 Giống như, thưa đại vương, một hồ nước sâu có mạch nước ngầm phun lên; hồ nước ấy không có dòng nước chảy vào từ phía đông, không có dòng nước chảy vào từ phía nam, không có dòng nước chảy vào từ phía tây, không có dòng nước chảy vào từ phía bắc, và trời cũng không đổ mưa. Nhưng dòng nước mát lạnh phun lên từ chính hồ nước ấy sẽ làm cho hồ nước thấm nhuần, tẩm ướt, tràn đầy và lan tỏa với nước mát lạnh, không một phần nào của toàn bộ hồ nước mà không được thấm nhuần bởi nước mát lạnh.
@@ -304,24 +280,20 @@ Giống như, thưa đại vương, một hồ nước sâu có mạch nước n
 Cũng vậy, thưa đại vương, tỳ kheo làm cho cơ thể này thấm nhuần, tẩm ướt, tràn đầy và lan tỏa với *hân hoan* và *hạnh phúc* sinh ra từ Định, không một phần nào của toàn bộ cơ thể mà không được thấm nhuần bởi *hân hoan* và *hạnh phúc* sinh ra từ Định. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.2.7. Tatiyajhāna (Thiền thứ ba)
-
+##### 4.3.2.7. Tatiyajhāna (Thiền thứ ba){#4.3.2.7}
 Lại nữa, thưa đại vương, với sự *cạn sạch sự đắm nhiễm* (ly tham / virāgā) đối với *hân hoan*, tỳ kheo trú trong *tâm quân bình* (xả / upekkhā), có *sự Tự Quan Sát* và *sự nhận biết rõ ràng*, cảm nhận *hạnh phúc* bằng cơ thể, trạng thái mà các bậc thánh gọi là: 'Trú trong *tâm quân bình*, có *sự Tự Quan Sát*, sống *hạnh phúc*', vị ấy đạt đến và an trú trong *Thiền-na* thứ ba. Vị ấy làm cho cơ thể này thấm nhuần, tẩm ướt, tràn đầy và lan tỏa với sự *hạnh phúc* không còn *hân hoan*, không một phần nào của toàn bộ cơ thể mà không được thấm nhuần bởi *hạnh phúc* không còn *hân hoan*.
 
 Giống như, thưa đại vương, trong một hồ hoa sen xanh, hoa sen đỏ, hay hoa sen trắng, có một số hoa sen xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, không vươn lên khỏi mặt nước, được nuôi dưỡng chìm dưới nước; từ ngọn cho đến rễ của chúng đều được thấm nhuần, tẩm ướt, tràn đầy và lan tỏa bởi nước mát lạnh, không một phần nào của toàn bộ những hoa sen xanh, hoa sen đỏ, hay hoa sen trắng ấy mà không được thấm nhuần bởi nước mát lạnh. Cũng vậy, thưa đại vương, tỳ kheo làm cho cơ thể này thấm nhuần, tẩm ướt, tràn đầy và lan tỏa với *hạnh phúc* không còn *hân hoan*, không một phần nào của toàn bộ cơ thể mà không được thấm nhuần bởi *hạnh phúc* không còn *hân hoan*. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.2.8. Catutthajhāna (Thiền thứ tư)
-
+##### 4.3.2.8. Catutthajhāna (Thiền thứ tư){#4.3.2.8}
 Lại nữa, thưa đại vương, với sự *hoàn toàn từ bỏ* (xả / pahānā) *hạnh phúc* và *hoàn toàn từ bỏ* *đau khổ* (khổ / dukkha), cùng với sự *tan biến* (diệt / atthaṅgama) của *thanh thản* và *ưu phiền* từ trước, tỳ kheo đạt đến và an trú trong *Thiền-na* thứ tư, trạng thái *cảm giác không dễ chịu không khó chịu* (bất lạc bất khổ / adukkhamasukhaṁ), có sự thanh tịnh của *sự Tự Quan Sát* nhờ *tâm quân bình*. Vị ấy ngồi, lan tỏa toàn bộ cơ thể này với một *tâm* thanh tịnh và trong sáng, không một phần nào của toàn bộ cơ thể mà không được lan tỏa bởi *tâm* thanh tịnh và trong sáng.
 
 Giống như, thưa đại vương, một người ngồi trùm kín cả đầu bằng một tấm vải trắng, không một phần nào của toàn bộ cơ thể mà không được trùm kín bởi tấm vải trắng; cũng vậy, thưa đại vương, tỳ kheo ngồi, lan tỏa toàn bộ cơ thể này với một *tâm* thanh tịnh và trong sáng, không một phần nào của toàn bộ cơ thể mà không được lan tỏa bởi *tâm* thanh tịnh và trong sáng. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-#### 4.3.3. Aṭṭhañāṇa (Tám loại Trí)
-
-##### 4.3.3.1. Vipassanāñāṇa (Trí Tuệ Quán)
-
+#### 4.3.3. Aṭṭhañāṇa (Tám loại Trí){#4.3.3}
+##### 4.3.3.1. Vipassanāñāṇa (Trí Tuệ Quán){#4.3.3.1}
 Khi *tâm* đã được định tĩnh, thanh tịnh, trong sáng, không tì vết, thoát khỏi những cấu uế, trở nên mềm mại, dễ sử dụng, vững chắc và đạt đến trạng thái bất động như vậy, vị ấy hướng *tâm* và nghiêng *tâm* về trí tuệ *thấy rõ bản chất* (tri kiến / dassanā). Vị ấy *thấy rõ* (tuệ tri / pajānāti) như sau: 'Cơ thể này của ta là *vật chất*, cấu tạo từ bốn *nguyên tố* (đại / mahābhūta), sinh ra từ cha mẹ, được nuôi dưỡng bằng cơm và cháo, có bản chất vô thường, phải xoa bóp, đấm bóp, dễ vỡ vụn và tan rã; và *sự Nhận biết* (thức / viññāṇa) của ta nương tựa vào đây, trói buộc vào đây.'
 
 Giống như, thưa đại vương, một viên ngọc lưu ly tuyệt đẹp, tự nhiên, có tám mặt, được mài giũa khéo léo, trong suốt, sáng sủa, không vẩn đục, hoàn hảo về mọi mặt. Xuyên qua nó là một sợi chỉ màu xanh, vàng, đỏ, trắng, hay màu vàng nhạt. Một người có mắt sáng cầm nó trên tay và quan sát: 'Đây là viên ngọc lưu ly tuyệt đẹp, tự nhiên, có tám mặt, được mài giũa khéo léo, trong suốt, sáng sủa, không vẩn đục, hoàn hảo về mọi mặt; và xuyên qua nó là sợi chỉ màu xanh, vàng, đỏ, trắng, hay màu vàng nhạt này.'
@@ -329,8 +301,7 @@ Giống như, thưa đại vương, một viên ngọc lưu ly tuyệt đẹp, t
 Cũng vậy, thưa đại vương, khi *tâm* đã được định tĩnh, thanh tịnh, trong sáng, không tì vết, thoát khỏi những cấu uế, trở nên mềm mại, dễ sử dụng, vững chắc và đạt đến trạng thái bất động như vậy, tỳ kheo hướng *tâm* và nghiêng *tâm* về trí tuệ *thấy rõ bản chất*. Vị ấy *thấy rõ* như sau: 'Cơ thể này của ta là *vật chất*, cấu tạo từ bốn *nguyên tố*, sinh ra từ cha mẹ, được nuôi dưỡng bằng cơm và cháo, có bản chất vô thường, phải xoa bóp, đấm bóp, dễ vỡ vụn và tan rã; và *sự Nhận biết* của ta nương tựa vào đây, trói buộc vào đây.' Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.3.2. Manomayiddhiñāṇa (Trí Thần Thông Ý Sinh)
-
+##### 4.3.3.2. Manomayiddhiñāṇa (Trí Thần Thông Ý Sinh){#4.3.3.2}
 Khi *tâm* đã được định tĩnh, thanh tịnh, trong sáng, không tì vết, thoát khỏi những cấu uế, trở nên mềm mại, dễ sử dụng, vững chắc và đạt đến trạng thái bất động như vậy, vị ấy hướng *tâm* và nghiêng *tâm* về việc tạo ra một cơ thể *tạo ra từ tâm trí* ([!] ý sinh / manomaya). Từ cơ thể này, vị ấy tạo ra một cơ thể khác, có hình thể, *tạo ra từ tâm trí*, đầy đủ các bộ phận và tay chân, không thiếu một giác quan nào.
 
 Giống như, thưa đại vương, một người rút cọng cỏ lau ra khỏi bẹ. Người ấy suy nghĩ: 'Đây là bẹ, đây là cọng cỏ lau; bẹ là một thứ, cọng cỏ lau là một thứ khác, nhưng cọng cỏ lau được rút ra từ chính cái bẹ.' Hay giống như, thưa đại vương, một người rút thanh kiếm ra khỏi vỏ. Người ấy suy nghĩ: 'Đây là thanh kiếm, đây là vỏ kiếm; thanh kiếm là một thứ, vỏ kiếm là một thứ khác, nhưng thanh kiếm được rút ra từ chính vỏ kiếm.' Hay giống như, thưa đại vương, một người bắt con rắn ra khỏi giỏ. Người ấy suy nghĩ: 'Đây là con rắn, đây là cái giỏ; con rắn là một thứ, cái giỏ là một thứ khác, nhưng con rắn được bắt ra từ chính cái giỏ.'
@@ -338,8 +309,7 @@ Giống như, thưa đại vương, một người rút cọng cỏ lau ra khỏ
 Cũng vậy, thưa đại vương, khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về việc tạo ra một cơ thể *tạo ra từ tâm trí*. Từ cơ thể này, vị ấy tạo ra một cơ thể khác, có hình thể, *tạo ra từ tâm trí*, đầy đủ các bộ phận và tay chân, không thiếu một giác quan nào. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.3.3. Iddhividhañāṇa (Trí Thần Túc)
-
+##### 4.3.3.3. Iddhividhañāṇa (Trí Thần Túc){#4.3.3.3}
 Khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về *các loại thần thông* ([!] thần túc / iddhividha). Vị ấy trải nghiệm nhiều loại thần thông khác nhau: từ một thân biến thành nhiều thân, từ nhiều thân biến thành một thân; hiện hình, tàng hình; đi xuyên qua tường, xuyên qua rào, xuyên qua núi mà không bị cản trở như đi trong không gian; lặn xuống và trồi lên từ mặt đất như ở trong nước; đi trên mặt nước mà không chìm như đi trên mặt đất; ngồi kiết già bay trên không trung như con chim có cánh; chạm và vuốt ve mặt trời và mặt trăng, những vật có sức mạnh và uy lực lớn lao như vậy bằng chính bàn tay của mình; vị ấy có thể vươn quyền lực của cơ thể lên tận cõi Phạm thiên.
 
 Giống như, thưa đại vương, một người thợ gốm hay người học việc khéo léo, với đất sét đã được nhào nặn kỹ, có thể làm ra và tạo hình bất cứ loại đồ gốm nào mà người ấy muốn. Hay giống như, thưa đại vương, một người thợ chạm ngà hay người học việc khéo léo, với ngà voi đã được chuẩn bị kỹ, có thể làm ra và tạo hình bất cứ món đồ ngà nào mà người ấy muốn. Hay giống như, thưa đại vương, một người thợ vàng hay người học việc khéo léo, với vàng đã được tinh luyện kỹ, có thể làm ra và tạo hình bất cứ món đồ vàng nào mà người ấy muốn.
@@ -347,8 +317,7 @@ Giống như, thưa đại vương, một người thợ gốm hay người họ
 Cũng vậy, thưa đại vương, khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về *các loại thần thông*. Vị ấy trải nghiệm nhiều loại thần thông khác nhau... vị ấy có thể vươn quyền lực của cơ thể lên tận cõi Phạm thiên. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.3.4. Dibbasotañāṇa (Trí Thiên Nhĩ)
-
+##### 4.3.3.4. Dibbasotañāṇa (Trí Thiên Nhĩ){#4.3.3.4}
 Khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về *tai thần thánh* ([!] thiên nhĩ / dibbasota). Với *tai thần thánh* thanh tịnh, vượt qua giới hạn của con người, vị ấy nghe được cả hai loại âm thanh: âm thanh của chư thiên và âm thanh của con người, dù ở xa hay ở gần.
 
 Giống như, thưa đại vương, một người đang đi trên một chặng đường dài. Người ấy nghe thấy tiếng trống lớn, tiếng trống nhỏ, tiếng tù và, tiếng chũm chọe và tiếng cồng. Người ấy suy nghĩ: 'Đây là tiếng trống lớn', 'Đây là tiếng trống nhỏ', 'Đây là tiếng tù và, tiếng chũm chọe và tiếng cồng'.
@@ -356,15 +325,13 @@ Giống như, thưa đại vương, một người đang đi trên một chặng
 Cũng vậy, thưa đại vương, khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về *tai thần thánh*. Với *tai thần thánh* thanh tịnh, vượt qua giới hạn của con người, vị ấy nghe được cả hai loại âm thanh: âm thanh của chư thiên và âm thanh của con người, dù ở xa hay ở gần. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.3.5. Cetopariyañāṇa (Trí Tha Tâm)
-
+##### 4.3.3.5. Cetopariyañāṇa (Trí Tha Tâm){#4.3.3.5}
 Khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về trí *thấu hiểu tâm người khác* ([!] tha tâm / cetopariya). Vị ấy dùng *tâm* của mình để thấu hiểu *tâm* của những chúng sinh khác, những người khác, và *thấy rõ*: *tâm* có *đắm nhiễm* (tham / rāga), vị ấy *thấy rõ* 'tâm có *đắm nhiễm*'; *tâm* không có *đắm nhiễm*, vị ấy *thấy rõ* 'tâm không có *đắm nhiễm*'; *tâm* có *Ác ý hãm hại*, vị ấy *thấy rõ* 'tâm có *Ác ý hãm hại*'; *tâm* không có *Ác ý hãm hại*, vị ấy *thấy rõ* 'tâm không có *Ác ý hãm hại*'; *tâm* có Sự u mê (si / moha), vị ấy *thấy rõ* 'tâm có Sự u mê'; *tâm* không có Sự u mê, vị ấy *thấy rõ* 'tâm không có Sự u mê'; *tâm* co rút, vị ấy *thấy rõ* 'tâm co rút'; *tâm* phân tán, vị ấy *thấy rõ* 'tâm phân tán'; *tâm* mở rộng, vị ấy *thấy rõ* 'tâm mở rộng'; *tâm* không mở rộng, vị ấy *thấy rõ* 'tâm không mở rộng'; *tâm* còn có trạng thái cao hơn, vị ấy *thấy rõ* 'tâm còn có trạng thái cao hơn'; *tâm* không còn trạng thái cao hơn, vị ấy *thấy rõ* 'tâm không còn trạng thái cao hơn'; *tâm* có Định, vị ấy *thấy rõ* 'tâm có Định'; *tâm* không có Định, vị ấy *thấy rõ* 'tâm không có Định'; *tâm* được giải thoát, vị ấy *thấy rõ* 'tâm được giải thoát'; *tâm* chưa được giải thoát, vị ấy *thấy rõ* 'tâm chưa được giải thoát'.
 
 Giống như, thưa đại vương, một người phụ nữ, một người đàn ông, hay một thanh niên trẻ tuổi thích trang điểm, đang soi bóng khuôn mặt mình trong một chiếc gương sạch sẽ, sáng bóng, hay trong một bát nước trong vắt; nếu mặt có nốt ruồi, người ấy biết 'có nốt ruồi'; nếu mặt không có nốt ruồi, người ấy biết 'không có nốt ruồi'. Cũng vậy, thưa đại vương, khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về trí *thấu hiểu tâm người khác*. Vị ấy dùng *tâm* của mình để thấu hiểu *tâm* của những chúng sinh khác, những người khác, và *thấy rõ*... Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.3.6. Pubbenivāsānussatiñāṇa (Trí Túc Mạng Minh)
-
+##### 4.3.3.6. Pubbenivāsānussatiñāṇa (Trí Túc Mạng Minh){#4.3.3.6}
 Khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về trí *nhớ lại các đời sống quá khứ* ([!] túc mạng minh / pubbenivāsānussati). Vị ấy nhớ lại vô số đời sống quá khứ, cụ thể là: một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều chu kỳ thế giới co lại, nhiều chu kỳ thế giới giãn ra, nhiều chu kỳ thế giới co lại và giãn ra: 'Tại nơi kia, ta có tên như thế này, thuộc dòng họ như thế này, có ngoại hình như thế này, ăn thức ăn như thế này, trải nghiệm *hạnh phúc* và *đau khổ* như thế này, có tuổi thọ như thế này; sau khi chết ở đó, ta tái sinh ở nơi nọ; tại nơi nọ, ta có tên như thế này, thuộc dòng họ như thế này, có ngoại hình như thế này, ăn thức ăn như thế này, trải nghiệm *hạnh phúc* và *đau khổ* như thế này, có tuổi thọ như thế này; sau khi chết ở đó, ta tái sinh ở đây.' Như vậy, vị ấy nhớ lại vô số đời sống quá khứ cùng với các chi tiết và bối cảnh.
 
 Giống như, thưa đại vương, một người đi từ ngôi làng của mình đến một ngôi làng khác, rồi từ ngôi làng đó đi đến một ngôi làng khác nữa. Sau đó, người ấy từ ngôi làng đó trở về chính ngôi làng của mình. Người ấy suy nghĩ: 'Ta đã đi từ ngôi làng của mình đến ngôi làng kia; ở đó ta đã đứng như thế này, ngồi như thế này, nói như thế này, im lặng như thế này; rồi từ ngôi làng đó ta đi đến ngôi làng nọ; ở đó ta cũng đã đứng như thế này, ngồi như thế này, nói như thế này, im lặng như thế này; và từ ngôi làng đó ta đã trở về chính ngôi làng của mình.'
@@ -372,8 +339,7 @@ Giống như, thưa đại vương, một người đi từ ngôi làng của m�
 Cũng vậy, thưa đại vương, khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về trí *nhớ lại các đời sống quá khứ*. Vị ấy nhớ lại vô số đời sống quá khứ... cùng với các chi tiết và bối cảnh. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.3.7. Dibbacakkhuñāṇa (Trí Thiên Nhãn)
-
+##### 4.3.3.7. Dibbacakkhuñāṇa (Trí Thiên Nhãn){#4.3.3.7}
 Khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về trí biết sự chết và *sự Tái sinh* (sinh / jāti) của chúng sinh. Với *mắt thần thánh* ([!] thiên nhãn / dibbacakkhu) thanh tịnh, vượt qua giới hạn của con người, vị ấy nhìn thấy các chúng sinh đang chết đi và tái sinh, thấp kém hay cao quý, xinh đẹp hay xấu xí, sinh vào cõi lành hay cõi dữ; vị ấy *thấy rõ* các chúng sinh đi theo nghiệp lực của mình: 'Những chúng sinh này đã có hành động *không thiện* về cơ thể, hành động *không thiện* về lời nói, hành động *không thiện* về ý nghĩ, phỉ báng các bậc thánh, có quan điểm sai lầm, và hành động theo quan điểm sai lầm. Sau khi cơ thể tan rã, sau khi chết, họ tái sinh vào cõi khổ, cõi dữ, cõi đọa đày, địa ngục. Nhưng những chúng sinh kia đã có hành động thiện về cơ thể, hành động thiện về lời nói, hành động thiện về ý nghĩ, không phỉ báng các bậc thánh, có quan điểm đúng đắn, và hành động theo quan điểm đúng đắn. Sau khi cơ thể tan rã, sau khi chết, họ tái sinh vào cõi lành, cõi trời.' Như vậy, với *mắt thần thánh* thanh tịnh, vượt qua giới hạn của con người, vị ấy nhìn thấy các chúng sinh đang chết đi và tái sinh... vị ấy *thấy rõ* các chúng sinh đi theo nghiệp lực của mình.
 
 Giống như, thưa đại vương, có một tòa nhà nằm ở ngã tư đường. Một người có mắt sáng đứng ở đó có thể nhìn thấy mọi người đang đi vào nhà, đi ra khỏi nhà, đi lại trên đường phố, và ngồi ở ngã tư đường. Người ấy suy nghĩ: 'Những người này đang đi vào nhà, những người này đang đi ra, những người này đang đi lại trên đường phố, những người này đang ngồi ở ngã tư đường.'
@@ -381,8 +347,7 @@ Giống như, thưa đại vương, có một tòa nhà nằm ở ngã tư đư�
 Cũng vậy, thưa đại vương, khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về trí biết sự chết và *sự Tái sinh* của chúng sinh. Với *mắt thần thánh* thanh tịnh... vị ấy *thấy rõ* các chúng sinh đi theo nghiệp lực của mình. Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó.
 
 <!--pg-->
-##### 4.3.3.8. Āsavakkhayañāṇa (Trí Lậu Tận)
-
+##### 4.3.3.8. Āsavakkhayañāṇa (Trí Lậu Tận){#4.3.3.8}
 Khi *tâm* đã được định tĩnh, thanh tịnh, trong sáng, không tì vết, thoát khỏi những cấu uế, trở nên mềm mại, dễ sử dụng, vững chắc và đạt đến trạng thái bất động như vậy, vị ấy hướng *tâm* và nghiêng *tâm* về trí biết sự *cạn sạch* (đoạn tận / khayā) các *nguồn ác* (lậu hoặc / āsava). Vị ấy *thấy rõ* đúng như thật: 'Đây là *đau khổ*'; *thấy rõ* đúng như thật: 'Đây là *sự hình thành* (tập / samudaya) của *đau khổ*'; *thấy rõ* đúng như thật: 'Đây là *sự chấm dứt* (diệt / nirodha) *đau khổ*'; *thấy rõ* đúng như thật: 'Đây là con đường đưa đến *sự chấm dứt* *đau khổ*'. Vị ấy *thấy rõ* đúng như thật: 'Đây là các *nguồn ác*'; *thấy rõ* đúng như thật: 'Đây là *sự hình thành* của các *nguồn ác*'; *thấy rõ* đúng như thật: 'Đây là *sự chấm dứt* các *nguồn ác*'; *thấy rõ* đúng như thật: 'Đây là con đường đưa đến *sự chấm dứt* các *nguồn ác*'. Khi vị ấy biết như vậy, thấy như vậy, *tâm* được giải thoát khỏi *nguồn ác của ham muốn giác quan* (dục lậu / kāmāsava), *tâm* được giải thoát khỏi *nguồn ác của mong muốn hiện hữu* (hữu lậu / bhavāsava), *tâm* được giải thoát khỏi *nguồn ác của Không Hiểu Biết* (vô minh lậu / avijjāsava). Khi đã được giải thoát, trí tuệ khởi lên: 'Đã được giải thoát'. Vị ấy *thấy rõ*: '*sự Tái sinh* đã *cạn sạch*, phạm hạnh đã thành, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.'
 
 Giống như, thưa đại vương, một hồ nước trên núi, trong vắt, sáng sủa, không vẩn đục. Một người có mắt sáng đứng trên bờ có thể nhìn thấy vỏ trai, vỏ ốc, sỏi đá, và các đàn cá đang bơi lội hay đứng yên. Người ấy suy nghĩ: 'Hồ nước này trong vắt, sáng sủa, không vẩn đục. Trong đó có vỏ trai, vỏ ốc, sỏi đá, và các đàn cá đang bơi lội hay đứng yên.'
@@ -390,8 +355,7 @@ Giống như, thưa đại vương, một hồ nước trên núi, trong vắt, 
 Cũng vậy, thưa đại vương, khi *tâm* đã được định tĩnh... vị ấy hướng *tâm* và nghiêng *tâm* về trí biết sự *cạn sạch* các *nguồn ác*. Vị ấy *thấy rõ* đúng như thật: 'Đây là *đau khổ*'... Khi vị ấy biết như vậy, thấy như vậy, *tâm* được giải thoát khỏi *nguồn ác của ham muốn giác quan*, *tâm* được giải thoát khỏi *nguồn ác của mong muốn hiện hữu*, *tâm* được giải thoát khỏi *nguồn ác của Không Hiểu Biết*. Khi đã được giải thoát, trí tuệ khởi lên: 'Đã được giải thoát'. Vị ấy *thấy rõ*: '*sự Tái sinh* đã *cạn sạch*, phạm hạnh đã thành, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.' Đây cũng là, thưa đại vương, một *thành quả của người tu* thiết thực hiện tại, tốt đẹp hơn và cao thượng hơn những *thành quả của người tu* thiết thực hiện tại trước đó. Và thưa đại vương, không có một *thành quả của người tu* thiết thực hiện tại nào khác cao thượng hơn hay tốt đẹp hơn những *thành quả của người tu* thiết thực hiện tại này."
 
 <!--pg-->
-## 5. Ajātasattuupāsakattapaṭivedanā (Vua Ajātasattu xin làm cư sĩ)
-
+## 5. Ajātasattuupāsakattapaṭivedanā (Vua Ajātasattu xin làm cư sĩ){#5}
 Khi được nói như vậy, vua Magadha là Ajātasattu, con bà Vedehi, thưa với Thế Tôn: "Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời, bạch Thế Tôn! Giống như người dựng đứng lại những gì đã bị lật úp, phơi bày ra những gì đã bị che giấu, chỉ đường cho người bị lạc lối, hay cầm ngọn đèn sáng soi vào bóng tối để những ai có mắt có thể nhìn thấy *hình ảnh*; cũng vậy, bạch Thế Tôn, *Điều dạy* đã được Thế Tôn làm sáng tỏ qua nhiều phương tiện. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y *Điều dạy* và quy y Tăng đoàn. Xin Thế Tôn nhận con làm cư sĩ, đã quy y từ hôm nay cho đến trọn đời.
 
 Bạch Thế Tôn, một lỗi lầm đã vượt qua con, thật ngu xuẩn, thật u mê, thật *không thiện*, khi vì vương quyền mà con đã tước đoạt mạng sống của phụ vương con, một vị vua công chính, cai trị theo *Lẽ phải*. Xin Thế Tôn nhận lỗi lầm của con là một lỗi lầm, để con có thể chế ngự lỗi lầm trong tương lai."

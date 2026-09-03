@@ -2,9 +2,12 @@
 function goToIndex() {
   const parts = window.location.pathname.split('/');
 
+  if (parts.length === 2 ){
+    return;
+  }
   // without author; e.g. /kinhchude/mucluc.html
-  if (parts[2]?.endsWith('.html')) {
-    const newUrl =`${parts[0]}/${parts[1]}/mucluc.html`;
+  if (parts[2]?.endsWith('.html') || parts.length == 3) {
+    const newUrl =`${parts[0]}/${parts[1]}/meta/mucluc.html`;
     window.location.href = newUrl;
     return;
   }

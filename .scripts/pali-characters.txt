@@ -1,3 +1,5 @@
+
+
 ā
 ī
 ū
@@ -190,5 +192,10 @@ tìm dòng thơ kết thúc bằng dấu ;
 ^(>.*?);$
 $1;\\
 
+thay thế cuộc đời đức phật MN
+tìm
+\bUd\. (\d+):(\d+)\b
+thay thế
+[Ud. $1:$2](/link?q=ud-$1.$2){target=_black}
 
 

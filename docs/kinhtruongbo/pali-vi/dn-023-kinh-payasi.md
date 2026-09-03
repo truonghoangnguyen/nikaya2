@@ -7,8 +7,7 @@ Tôi nghe như vầy: Một thời, Tôn giả Kumārakassapa đang du hành tro
 
 Vào lúc bấy giờ, vương tử Pāyāsi đang cai quản Setabyā, một nơi đông đúc dân cư, nhiều cỏ cây, củi, nước và lúa gạo, là một thái ấp hoàng gia do vua Pasenadi nước Kosala ban tặng như một phần thưởng hoàng gia, một ân tứ thiêng liêng.
 
-## 1. Câu chuyện về vương tử Pāyāsi (Pāyāsirājaññavatthu)
-
+## 1. Câu chuyện về vương tử Pāyāsi (Pāyāsirājaññavatthu){#1}
 Vào lúc bấy giờ, vương tử Pāyāsi khởi lên một *quan điểm sai* (tà kiến / micchādiṭṭhi) tồi tệ như sau: "Như thế này: không có *thế giới khác* (tha thế / paro loko), không có chúng sinh *sinh ra tự nhiên* (hóa sanh / opapātika), không có *kết quả* (quả / phala) hay *sự chín muồi* (dị thục / vipāka) của những *hành động* (nghiệp / kamma) tốt và xấu."
 
 Các bà-la-môn và gia chủ ở Setabyā nghe nói: "Này các bạn, sa-môn Kumārakassapa, đệ tử của sa-môn Gotama, đang du hành trong dân chúng Kosala cùng với một hội chúng tỳ kheo lớn khoảng năm trăm vị, đã đến Setabyā và đang trú tại khu rừng Siṁsapā ở phía bắc Setabyā. Tiếng đồn tốt đẹp sau đây đã vang lên về Tôn giả Kumārakassapa: 'Ngài là người thông thái, tài giỏi, sáng suốt, nghe nhiều, nói năng lưu loát, có tài biện luận tốt, là bậc trưởng thượng và là một vị A-la-hán. Thật là tốt lành khi được chiêm ngưỡng một vị A-la-hán như vậy.'" Thế rồi, các bà-la-môn và gia chủ ở Setabyā rời khỏi Setabyā, tụ tập thành từng nhóm, từng đoàn, hướng về phía bắc đi đến khu rừng Siṁsapā.
@@ -24,14 +23,12 @@ Vào lúc bấy giờ, vương tử Pāyāsi đang nghỉ trưa trên tầng gá
 Sau đó, vương tử Pāyāsi cùng với các bà-la-môn và gia chủ ở Setabyā đi đến khu rừng Siṁsapā, nơi Tôn giả Kumārakassapa đang ở; sau khi đến, ông chào hỏi Tôn giả Kumārakassapa, trao đổi những lời chào hỏi thân hữu và lịch sự, rồi ngồi xuống một bên. Các bà-la-môn và gia chủ ở Setabyā cũng vậy: một số đảnh lễ Tôn giả Kumārakassapa rồi ngồi xuống một bên; một số trao đổi những lời chào hỏi thân hữu và lịch sự với Tôn giả Kumārakassapa rồi ngồi xuống một bên; một số chắp tay vái chào Tôn giả Kumārakassapa rồi ngồi xuống một bên; một số xưng tên và dòng họ rồi ngồi xuống một bên; một số giữ im lặng rồi ngồi xuống một bên.
 
 <!--pg-->
-## 2. Thuyết Hư vô (Natthikavāda)
-
+## 2. Thuyết Hư vô (Natthikavāda){#2}
 Ngồi một bên, vương tử Pāyāsi nói với Tôn giả Kumārakassapa: "Thưa Tôn giả Kassapa, tôi có quan điểm và chủ trương như sau: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 "Này vương tử, tôi chưa từng thấy hay nghe ai có quan điểm và chủ trương như vậy. Làm sao một người có thể nói rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu'?
 
-### 2.1. Ví dụ về mặt trăng và mặt trời (Candimasūriyaupamā)
-
+### 2.1. Ví dụ về mặt trăng và mặt trời (Candimasūriyaupamā){#2.1}
 Nếu vậy, này vương tử, tôi sẽ hỏi lại ngài về điều này, ngài thấy thế nào thì hãy trả lời thế ấy. Ngài nghĩ thế nào, này vương tử, mặt trăng và mặt trời này là ở thế giới này hay ở *thế giới khác*, chúng là chư thiên hay con người?"
 
 "Thưa Tôn giả Kassapa, mặt trăng và mặt trời này là ở *thế giới khác*, không phải ở thế giới này; chúng là chư thiên, không phải con người."
@@ -49,8 +46,7 @@ Nếu vậy, này vương tử, tôi sẽ hỏi lại ngài về điều này, n
 "Thưa Tôn giả Kassapa, ở đây tôi có những người bạn bè, quan lại, thân nhân cùng huyết thống là những người sát sinh, trộm cắp, tà dâm, nói dối, nói lời đâm thọc, nói lời thô ác, nói lời phù phiếm, tham lam, có tâm ác ý, có *quan điểm sai*. Sau một thời gian, họ bị bệnh, đau đớn, ốm nặng. Khi tôi biết: 'Những người này sẽ không qua khỏi căn bệnh này', tôi đi đến chỗ họ và nói: 'Thưa các bạn, có một số sa-môn, bà-la-môn có quan điểm và chủ trương như sau: "Những ai sát sinh, trộm cắp, tà dâm, nói dối, nói lời đâm thọc, nói lời thô ác, nói lời phù phiếm, tham lam, có tâm ác ý, có *quan điểm sai*, sau khi cơ thể tan rã, sau khi chết, sẽ tái sinh vào cõi dữ, cõi xấu, cõi đọa đày, địa ngục." Các bạn là những người sát sinh, trộm cắp, tà dâm, nói dối, nói lời đâm thọc, nói lời thô ác, nói lời phù phiếm, tham lam, có tâm ác ý, có *quan điểm sai*. Nếu lời của các vị sa-môn, bà-la-môn ấy là sự thật, thì các bạn sau khi cơ thể tan rã, sau khi chết, sẽ tái sinh vào cõi dữ, cõi xấu, cõi đọa đày, địa ngục. Thưa các bạn, nếu sau khi cơ thể tan rã, sau khi chết, các bạn tái sinh vào cõi dữ, cõi xấu, cõi đọa đày, địa ngục, thì hãy đến báo cho tôi biết rằng: "Như thế này: có *thế giới khác*, có chúng sinh *sinh ra tự nhiên*, có *kết quả* và *sự chín muồi* của những *hành động* tốt và xấu." Các bạn là những người đáng tin cậy, đáng tín nhiệm của tôi; những gì các bạn thấy cũng giống như chính tôi tự thấy vậy.' Họ đồng ý với tôi: 'Được', nhưng họ không hề đến báo cho tôi, cũng không cử sứ giả đến. Đây là phương pháp, thưa Tôn giả Kassapa, là lý do khiến tôi nghĩ rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 <!--pg-->
-### 2.2. Ví dụ về tên trộm (Coraupamā)
-
+### 2.2. Ví dụ về tên trộm (Coraupamā){#2.2}
 "Nếu vậy, này vương tử, tôi sẽ hỏi lại ngài về điều này. Ngài thấy thế nào thì hãy trả lời thế ấy. Ngài nghĩ thế nào, này vương tử, giả sử ở đây những người của ngài bắt được một tên trộm phạm tội và giải đến ngài: 'Thưa ngài, đây là tên trộm phạm tội; ngài muốn trừng phạt hắn thế nào thì hãy ra lệnh.' Ngài nói với họ: 'Nếu vậy, này các bạn, hãy trói chặt hai tay tên này ra sau lưng bằng dây thừng chắc chắn, cạo trọc đầu hắn, dẫn hắn đi dạo quanh các đường phố, các ngã tư với tiếng trống khàn, rồi đưa hắn ra khỏi cổng phía nam, và chặt đầu hắn tại khu hành hình ở phía nam thành phố.' Họ đồng ý: 'Vâng', rồi trói chặt hai tay tên trộm ra sau lưng bằng dây thừng chắc chắn, cạo trọc đầu hắn, dẫn hắn đi dạo quanh các đường phố, các ngã tư với tiếng trống khàn, rồi đưa hắn ra khỏi cổng phía nam, và bắt hắn ngồi xuống tại khu hành hình ở phía nam thành phố. Liệu tên trộm đó có thể xin những người đao phủ rằng: 'Thưa các ngài đao phủ, xin hãy đợi một chút, tôi có bạn bè, quan lại, thân nhân cùng huyết thống ở làng này hay thị trấn kia, để tôi đi dặn dò họ rồi sẽ quay lại', hay là những người đao phủ sẽ chặt đầu hắn ngay khi hắn đang lải nhải?"
 
 "Thưa Tôn giả Kassapa, tên trộm đó không thể xin những người đao phủ rằng: 'Thưa các ngài đao phủ, xin hãy đợi một chút, tôi có bạn bè, quan lại, thân nhân cùng huyết thống ở làng này hay thị trấn kia, để tôi đi dặn dò họ rồi sẽ quay lại'. Mà những người đao phủ sẽ chặt đầu hắn ngay khi hắn đang lải nhải."
@@ -68,8 +64,7 @@ Nếu vậy, này vương tử, tôi sẽ hỏi lại ngài về điều này, n
 "Thưa Tôn giả Kassapa, ở đây tôi có những người bạn bè, quan lại, thân nhân cùng huyết thống là những người từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ nói lời đâm thọc, từ bỏ nói lời thô ác, từ bỏ nói lời phù phiếm, không tham lam, không có tâm ác ý, có *Thấy Thiện* (chánh kiến / sammādiṭṭhi). Sau một thời gian, họ bị bệnh, đau đớn, ốm nặng. Khi tôi biết: 'Những người này sẽ không qua khỏi căn bệnh này', tôi đi đến chỗ họ và nói: 'Thưa các bạn, có một số sa-môn, bà-la-môn có quan điểm và chủ trương như sau: "Những ai từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ nói lời đâm thọc, từ bỏ nói lời thô ác, từ bỏ nói lời phù phiếm, không tham lam, không có tâm ác ý, có *Thấy Thiện*, sau khi cơ thể tan rã, sau khi chết, sẽ tái sinh vào cõi tốt đẹp, thế giới cõi trời." Các bạn là những người từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ nói lời đâm thọc, từ bỏ nói lời thô ác, từ bỏ nói lời phù phiếm, không tham lam, không có tâm ác ý, có *Thấy Thiện*. Nếu lời của các vị sa-môn, bà-la-môn ấy là sự thật, thì các bạn sau khi cơ thể tan rã, sau khi chết, sẽ tái sinh vào cõi tốt đẹp, thế giới cõi trời. Thưa các bạn, nếu sau khi cơ thể tan rã, sau khi chết, các bạn tái sinh vào cõi tốt đẹp, thế giới cõi trời, thì hãy đến báo cho tôi biết rằng: "Như thế này: có *thế giới khác*, có chúng sinh *sinh ra tự nhiên*, có *kết quả* và *sự chín muồi* của những *hành động* tốt và xấu." Các bạn là những người đáng tin cậy, đáng tín nhiệm của tôi; những gì các bạn thấy cũng giống như chính tôi tự thấy vậy.' Họ đồng ý với tôi: 'Được', nhưng họ không hề đến báo cho tôi, cũng không cử sứ giả đến. Đây là phương pháp, thưa Tôn giả Kassapa, là lý do khiến tôi nghĩ rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 <!--pg-->
-### 2.3. Ví dụ về người trong hố phân (Gūthakūpapurisaupamā)
-
+### 2.3. Ví dụ về người trong hố phân (Gūthakūpapurisaupamā){#2.3}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói. Giả sử, này vương tử, có một người bị chìm ngập đến tận đầu trong một hố phân. Rồi ngài ra lệnh cho những người khác: 'Này các bạn, hãy kéo người đó ra khỏi hố phân.' Họ đồng ý: 'Vâng', rồi kéo người đó ra khỏi hố phân. Ngài lại nói với họ: 'Này các bạn, hãy dùng những thanh tre cạo sạch phân trên cơ thể người đó.' Họ đồng ý: 'Vâng', rồi dùng những thanh tre cạo sạch phân trên cơ thể người đó. Ngài lại nói với họ: 'Này các bạn, hãy dùng đất sét vàng chà xát cơ thể người đó ba lần cho thật sạch.' Họ chà xát cơ thể người đó bằng đất sét vàng ba lần cho thật sạch. Ngài lại nói với họ: 'Này các bạn, hãy thoa dầu cho người đó và dùng bột mịn tắm rửa cho người đó ba lần cho thật sạch.' Họ thoa dầu và dùng bột mịn tắm rửa cho người đó ba lần cho thật sạch. Ngài lại nói với họ: 'Này các bạn, hãy cắt tóc và cạo râu cho người đó.' Họ cắt tóc và cạo râu cho người đó. Ngài lại nói với họ: 'Này các bạn, hãy mang đến cho người đó vòng hoa đắt tiền, hương liệu đắt tiền và y phục đắt tiền.' Họ mang đến cho người đó vòng hoa đắt tiền, hương liệu đắt tiền và y phục đắt tiền. Ngài lại nói với họ: 'Này các bạn, hãy đưa người đó lên lâu đài và cung cấp năm *sợi dây trói buộc của bản năng* (ngũ dục / kāmaguṇa).' Họ đưa người đó lên lâu đài và cung cấp năm *sợi dây trói buộc của bản năng*.
 
 Ngài nghĩ thế nào, này vương tử, liệu người đó sau khi đã được tắm rửa sạch sẽ, thoa hương liệu, cắt tóc cạo râu, đeo vòng hoa trang sức, mặc y phục trắng tinh, lên tầng gác của lâu đài tuyệt đẹp, được cung cấp và tận hưởng năm *sợi dây trói buộc của bản năng*, liệu người đó có muốn chìm lại vào hố phân đó nữa không?"
@@ -89,15 +84,13 @@ Ngài nghĩ thế nào, này vương tử, liệu người đó sau khi đã đ�
 "Thưa Tôn giả Kassapa, ở đây tôi có những người bạn bè, quan lại, thân nhân cùng huyết thống là những người từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ uống rượu bia và các chất say gây *mê muội* (phóng dật / pamāda). Sau một thời gian, họ bị bệnh, đau đớn, ốm nặng. Khi tôi biết: 'Những người này sẽ không qua khỏi căn bệnh này', tôi đi đến chỗ họ và nói: 'Thưa các bạn, có một số sa-môn, bà-la-môn có quan điểm và chủ trương như sau: "Những ai từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ uống rượu bia và các chất say gây *mê muội*, sau khi cơ thể tan rã, sau khi chết, sẽ tái sinh vào cõi tốt đẹp, thế giới cõi trời, cùng chung sống với chư thiên cõi Tāvatiṁsa (Đao Lợi)." Các bạn là những người từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ uống rượu bia và các chất say gây *mê muội*. Nếu lời của các vị sa-môn, bà-la-môn ấy là sự thật, thì các bạn sau khi cơ thể tan rã, sau khi chết, sẽ tái sinh vào cõi tốt đẹp, thế giới cõi trời, cùng chung sống với chư thiên cõi Tāvatiṁsa. Thưa các bạn, nếu sau khi cơ thể tan rã, sau khi chết, các bạn tái sinh vào cõi tốt đẹp, thế giới cõi trời, cùng chung sống với chư thiên cõi Tāvatiṁsa, thì hãy đến báo cho tôi biết rằng: "Như thế này: có *thế giới khác*, có chúng sinh *sinh ra tự nhiên*, có *kết quả* và *sự chín muồi* của những *hành động* tốt và xấu." Các bạn là những người đáng tin cậy, đáng tín nhiệm của tôi; những gì các bạn thấy cũng giống như chính tôi tự thấy vậy.' Họ đồng ý với tôi: 'Được', nhưng họ không hề đến báo cho tôi, cũng không cử sứ giả đến. Đây là phương pháp, thưa Tôn giả Kassapa, là lý do khiến tôi nghĩ rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 <!--pg-->
-### 2.4. Ví dụ về chư thiên cõi Tāvatiṁsa (Tāvatiṁsadevaupamā)
-
+### 2.4. Ví dụ về chư thiên cõi Tāvatiṁsa (Tāvatiṁsadevaupamā){#2.4}
 "Nếu vậy, này vương tử, tôi sẽ hỏi lại ngài về điều này; ngài thấy thế nào thì hãy trả lời thế ấy. Này vương tử, một trăm năm của con người chỉ bằng một ngày một đêm của chư thiên cõi Tāvatiṁsa; ba mươi đêm như vậy làm thành một tháng; mười hai tháng như vậy làm thành một năm; một ngàn năm chư thiên như vậy là tuổi thọ của chư thiên cõi Tāvatiṁsa. Những người bạn bè, quan lại, thân nhân cùng huyết thống của ngài là những người từ bỏ sát sinh, từ bỏ trộm cắp, từ bỏ tà dâm, từ bỏ nói dối, từ bỏ uống rượu bia và các chất say gây *mê muội*, sau khi cơ thể tan rã, sau khi chết, tái sinh vào cõi tốt đẹp, thế giới cõi trời, cùng chung sống với chư thiên cõi Tāvatiṁsa. Nếu họ nghĩ rằng: 'Hãy để chúng ta tận hưởng năm *sợi dây trói buộc của bản năng* cõi trời trong hai hoặc ba ngày đêm, rồi chúng ta sẽ đi đến báo cho vương tử Pāyāsi biết rằng: "Như thế này: có *thế giới khác*, có chúng sinh *sinh ra tự nhiên*, có *kết quả* và *sự chín muồi* của những *hành động* tốt và xấu."' Liệu họ có thể đến báo cho ngài biết rằng: 'Như thế này: có *thế giới khác*, có chúng sinh *sinh ra tự nhiên*, có *kết quả* và *sự chín muồi* của những *hành động* tốt và xấu' được không?"
 
 "Thưa Tôn giả Kassapa, không thể được. Bởi vì lúc đó chúng tôi đã chết từ lâu rồi. Nhưng thưa Tôn giả Kassapa, ai đã báo cho ngài biết rằng: 'Có chư thiên cõi Tāvatiṁsa' hay 'Chư thiên cõi Tāvatiṁsa có tuổi thọ dài như vậy'? Chúng tôi không tin Tôn giả Kassapa rằng: 'Có chư thiên cõi Tāvatiṁsa' hay 'Chư thiên cõi Tāvatiṁsa có tuổi thọ dài như vậy'."
 
 <!--pg-->
-### 2.5. Ví dụ về người mù bẩm sinh (Jaccandhaupamā)
-
+### 2.5. Ví dụ về người mù bẩm sinh (Jaccandhaupamā){#2.5}
 "Giả sử, này vương tử, có một người mù bẩm sinh không thể nhìn thấy các hình ảnh màu đen hay trắng, không thể nhìn thấy các hình ảnh màu xanh, không thể nhìn thấy các hình ảnh màu vàng, không thể nhìn thấy các hình ảnh màu đỏ, không thể nhìn thấy các hình ảnh màu hồng, không thể nhìn thấy chỗ bằng phẳng hay gồ ghề, không thể nhìn thấy các vì sao, không thể nhìn thấy mặt trăng và mặt trời. Người đó nói rằng: 'Không có các hình ảnh màu đen hay trắng, không có người nhìn thấy các hình ảnh màu đen hay trắng. Không có các hình ảnh màu xanh, không có người nhìn thấy các hình ảnh màu xanh. Không có các hình ảnh màu vàng, không có người nhìn thấy các hình ảnh màu vàng. Không có các hình ảnh màu đỏ, không có người nhìn thấy các hình ảnh màu đỏ. Không có các hình ảnh màu hồng, không có người nhìn thấy các hình ảnh màu hồng. Không có chỗ bằng phẳng hay gồ ghề, không có người nhìn thấy chỗ bằng phẳng hay gồ ghề. Không có các vì sao, không có người nhìn thấy các vì sao. Không có mặt trăng và mặt trời, không có người nhìn thấy mặt trăng và mặt trời. Tôi không biết điều đó, tôi không thấy điều đó, do đó điều đó không tồn tại.' Này vương tử, người đó nói như vậy có đúng không?"
 
 "Thưa Tôn giả Kassapa, không đúng. Có các hình ảnh màu đen hay trắng, có người nhìn thấy các hình ảnh màu đen hay trắng. Có các hình ảnh màu xanh, có người nhìn thấy các hình ảnh màu xanh [...lặp lại...] có chỗ bằng phẳng hay gồ ghề, có người nhìn thấy chỗ bằng phẳng hay gồ ghề. Có các vì sao, có người nhìn thấy các vì sao. Có mặt trăng và mặt trời, có người nhìn thấy mặt trăng và mặt trời. Nói rằng: 'Tôi không biết điều đó, tôi không thấy điều đó, do đó điều đó không tồn tại', thưa Tôn giả Kassapa, người đó nói như vậy là không đúng."
@@ -115,8 +108,7 @@ Ngài nghĩ thế nào, này vương tử, liệu người đó sau khi đã đ�
 "Thưa Tôn giả Kassapa, ở đây tôi thấy các sa-môn, bà-la-môn có lối sống đạo đức, có phẩm chất tốt đẹp, muốn sống, không muốn chết, muốn hạnh phúc, ghét đau khổ. Thưa Tôn giả Kassapa, tôi nghĩ như sau: Nếu những vị sa-môn, bà-la-môn có lối sống đạo đức, có phẩm chất tốt đẹp này biết rằng: 'Sau khi chết, chúng ta sẽ được tốt đẹp hơn', thì ngay bây giờ những vị sa-môn, bà-la-môn có lối sống đạo đức, có phẩm chất tốt đẹp này đã uống thuốc độc, hoặc dùng dao tự sát, hoặc treo cổ tự tử, hoặc nhảy xuống vực thẳm rồi. Nhưng vì những vị sa-môn, bà-la-môn có lối sống đạo đức, có phẩm chất tốt đẹp này không biết rằng: 'Sau khi chết, chúng ta sẽ được tốt đẹp hơn', nên những vị sa-môn, bà-la-môn có lối sống đạo đức, có phẩm chất tốt đẹp này muốn sống, không muốn chết, muốn hạnh phúc, ghét đau khổ, không tự giết mình. Đây là phương pháp, thưa Tôn giả Kassapa, là lý do khiến tôi nghĩ rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 <!--pg-->
-### 2.6. Ví dụ về người phụ nữ mang thai (Gabbhinīupamā)
-
+### 2.6. Ví dụ về người phụ nữ mang thai (Gabbhinīupamā){#2.6}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói.
 
 Thuở xưa, này vương tử, có một bà-la-môn có hai người vợ. Một người có một đứa con trai khoảng mười hay mười hai tuổi, người kia đang mang thai sắp đến ngày sinh. Rồi vị bà-la-môn đó qua đời.
@@ -142,8 +134,7 @@ Giống như người phụ nữ ngu ngốc, thiếu hiểu biết đó đã rơ
 "Thưa Tôn giả Kassapa, ở đây những người của tôi bắt được một tên trộm phạm tội và giải đến tôi: 'Thưa ngài, đây là tên trộm phạm tội; ngài muốn trừng phạt hắn thế nào thì hãy ra lệnh.' Tôi nói với họ: 'Nếu vậy, này các bạn, hãy bỏ người này khi còn sống vào một cái chum, đậy kín miệng lại, bọc bằng da ướt, trát một lớp đất sét ướt thật dày, đặt lên bếp và châm lửa.' Họ đồng ý: 'Vâng', rồi bỏ người đó khi còn sống vào một cái chum, đậy kín miệng lại, bọc bằng da ướt, trát một lớp đất sét ướt thật dày, đặt lên bếp và châm lửa. Khi chúng tôi biết 'người đó đã chết', chúng tôi nhấc cái chum xuống, đập vỡ ra, mở miệng chum và từ từ nhìn vào: 'Biết đâu chúng ta có thể thấy *sinh mạng* (mạng / jīva) của hắn thoát ra.' Nhưng chúng tôi không hề thấy *sinh mạng* của hắn thoát ra. Đây là phương pháp, thưa Tôn giả Kassapa, là lý do khiến tôi nghĩ rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 <!--pg-->
-### 2.7. Ví dụ về giấc mơ (Supinakaupamā)
-
+### 2.7. Ví dụ về giấc mơ (Supinakaupamā){#2.7}
 "Nếu vậy, này vương tử, tôi sẽ hỏi lại ngài về điều này, ngài thấy thế nào thì hãy trả lời thế ấy. Này vương tử, ngài có nhớ khi đang ngủ trưa, ngài đã thấy một giấc mơ về những khu vườn tuyệt đẹp, những khu rừng tuyệt đẹp, những vùng đất tuyệt đẹp, những hồ sen tuyệt đẹp không?"
 
 "Thưa Tôn giả Kassapa, tôi nhớ khi đang ngủ trưa, tôi đã thấy một giấc mơ về những khu vườn tuyệt đẹp, những khu rừng tuyệt đẹp, những vùng đất tuyệt đẹp, những hồ sen tuyệt đẹp."
@@ -169,8 +160,7 @@ Giống như người phụ nữ ngu ngốc, thiếu hiểu biết đó đã rơ
 "Thưa Tôn giả Kassapa, ở đây những người của tôi bắt được một tên trộm phạm tội và giải đến tôi: 'Thưa ngài, đây là tên trộm phạm tội; ngài muốn trừng phạt hắn thế nào thì hãy ra lệnh.' Tôi nói với họ: 'Nếu vậy, này các bạn, hãy cân người này khi còn sống trên một cái cân, rồi dùng dây cung siết cổ hắn cho đến chết mà không làm tổn thương bên ngoài, sau đó cân lại trên cái cân đó.' Họ đồng ý: 'Vâng', rồi cân người đó khi còn sống trên một cái cân, dùng dây cung siết cổ hắn cho đến chết mà không làm tổn thương bên ngoài, sau đó cân lại trên cái cân đó. Khi người đó còn sống, hắn nhẹ hơn, mềm mại hơn và linh hoạt hơn. Nhưng khi người đó đã chết, hắn nặng hơn, cứng đơ hơn và không linh hoạt. Đây là phương pháp, thưa Tôn giả Kassapa, là lý do khiến tôi nghĩ rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 <!--pg-->
-### 2.8. Ví dụ về quả cầu sắt nung đỏ (Santattaayoguḷaupamā)
-
+### 2.8. Ví dụ về quả cầu sắt nung đỏ (Santattaayoguḷaupamā){#2.8}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói. Giả sử, này vương tử, một người đem cân một quả cầu sắt đã được nung nóng suốt cả ngày, rực cháy, bốc lửa, sáng rực trên một cái cân. Sau một thời gian, người đó đem cân quả cầu sắt đó khi nó đã nguội lạnh, tắt ngấm trên cái cân. Khi nào thì quả cầu sắt đó nhẹ hơn, mềm mại hơn và linh hoạt hơn: khi nó rực cháy, bốc lửa, sáng rực, hay khi nó nguội lạnh, tắt ngấm?"
 
 "Thưa Tôn giả Kassapa, khi quả cầu sắt đó đi kèm với yếu tố lửa và yếu tố gió, rực cháy, bốc lửa, sáng rực, thì nó nhẹ hơn, mềm mại hơn và linh hoạt hơn. Nhưng khi quả cầu sắt đó không đi kèm với yếu tố lửa, không đi kèm với yếu tố gió, nguội lạnh, tắt ngấm, thì nó nặng hơn, cứng đơ hơn và không linh hoạt."
@@ -188,8 +178,7 @@ Giống như người phụ nữ ngu ngốc, thiếu hiểu biết đó đã rơ
 "Thưa Tôn giả Kassapa, ở đây những người của tôi bắt được một tên trộm phạm tội và giải đến tôi: 'Thưa ngài, đây là tên trộm phạm tội; ngài muốn trừng phạt hắn thế nào thì hãy ra lệnh.' Tôi nói với họ: 'Nếu vậy, này các bạn, hãy tước đoạt mạng sống của người này mà không làm tổn thương lớp da ngoài, da trong, thịt, gân, xương và tủy xương, biết đâu chúng ta có thể thấy *sinh mạng* của hắn thoát ra.' Họ đồng ý: 'Vâng', rồi tước đoạt mạng sống của người đó mà không làm tổn thương lớp da ngoài... [...lặp lại...] tước đoạt mạng sống. Khi người đó vừa mới chết, tôi nói: 'Nếu vậy, này các bạn, hãy đặt người này nằm ngửa, biết đâu chúng ta có thể thấy *sinh mạng* của hắn thoát ra.' Họ đặt người đó nằm ngửa. Chúng tôi không hề thấy *sinh mạng* của hắn thoát ra. Tôi nói: 'Nếu vậy, này các bạn, hãy đặt người này nằm sấp... nằm nghiêng một bên... nằm nghiêng bên kia... dựng đứng lên... lộn ngược xuống... dùng tay đập... dùng cục đất đập... dùng gậy đập... dùng dao đập... lắc mạnh, giũ mạnh, quăng quật, biết đâu chúng ta có thể thấy *sinh mạng* của hắn thoát ra.' Họ lắc mạnh, giũ mạnh, quăng quật người đó. Chúng tôi không hề thấy *sinh mạng* của hắn thoát ra. Vẫn là con mắt đó, vẫn là những hình ảnh đó, nhưng *giác quan* (xứ / āyatana) đó không cảm nhận được. Vẫn là lỗ tai đó, vẫn là những âm thanh đó, nhưng *giác quan* đó không cảm nhận được. Vẫn là cái mũi đó, vẫn là những mùi hương đó, nhưng *giác quan* đó không cảm nhận được. Vẫn là cái lưỡi đó, vẫn là những vị đó, nhưng *giác quan* đó không cảm nhận được. Vẫn là cơ thể đó, vẫn là những xúc chạm đó, nhưng *giác quan* đó không cảm nhận được. Đây là phương pháp, thưa Tôn giả Kassapa, là lý do khiến tôi nghĩ rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 <!--pg-->
-### 2.9. Ví dụ về người thổi tù và (Saṅkhadhamaupamā)
-
+### 2.9. Ví dụ về người thổi tù và (Saṅkhadhamaupamā){#2.9}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói.
 
 Thuở xưa, này vương tử, có một người thổi tù và mang theo một chiếc tù và đi đến một vùng biên địa. Người đó đi đến một ngôi làng; sau khi đến, đứng giữa làng, thổi tù và ba lần, rồi đặt chiếc tù và xuống đất và ngồi xuống một bên.
@@ -219,8 +208,7 @@ Cũng vậy, này vương tử, khi cơ thể này đi kèm với tuổi thọ, 
 "Thưa Tôn giả Kassapa, ở đây những người của tôi bắt được một tên trộm phạm tội và giải đến tôi: 'Thưa ngài, đây là tên trộm phạm tội; ngài muốn trừng phạt hắn thế nào thì hãy ra lệnh.' Tôi nói với họ: 'Nếu vậy, này các bạn, hãy lột lớp da ngoài của người này, biết đâu chúng ta có thể thấy *sinh mạng* của hắn.' Họ lột lớp da ngoài của người đó. Chúng tôi không hề thấy *sinh mạng* của hắn. Tôi nói: 'Nếu vậy, này các bạn, hãy lột da trong của người này, cắt thịt, cắt gân, chặt xương, chẻ tủy xương, biết đâu chúng ta có thể thấy *sinh mạng* của hắn.' Họ chẻ tủy xương của người đó, chúng tôi không hề thấy *sinh mạng* của hắn. Đây là phương pháp, thưa Tôn giả Kassapa, là lý do khiến tôi nghĩ rằng: 'Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu.'"
 
 <!--pg-->
-### 2.10. Ví dụ về đạo sĩ thờ lửa (Aggikajaṭilaupamā)
-
+### 2.10. Ví dụ về đạo sĩ thờ lửa (Aggikajaṭilaupamā){#2.10}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói.
 
 Thuở xưa, này vương tử, có một đạo sĩ bện tóc thờ lửa sống trong một túp lều lợp lá ở trong rừng. Khi ấy, này vương tử, có một đoàn lữ hành từ một vùng quê khởi hành. Đoàn lữ hành đó đã cắm trại một đêm gần am thất của đạo sĩ bện tóc thờ lửa rồi rời đi. Khi ấy, này vương tử, đạo sĩ bện tóc thờ lửa nghĩ rằng: 'Ta nên đi đến chỗ đoàn lữ hành đã cắm trại, biết đâu ta có thể tìm được vật dụng gì đó.'
@@ -242,8 +230,7 @@ Trong khi đứa bé đang nhìn, ông lấy bộ dụng cụ tạo lửa, tạo
 "Mặc dù Tôn giả Kassapa nói như vậy, nhưng tôi không thể từ bỏ *quan điểm sai* tồi tệ này. Vua Pasenadi nước Kosala và các vị vua khác đều biết tôi: 'Vương tử Pāyāsi có quan điểm và chủ trương như sau: "Như thế này: không có *thế giới khác*, không có chúng sinh *sinh ra tự nhiên*, không có *kết quả* hay *sự chín muồi* của những *hành động* tốt và xấu."' Thưa Tôn giả Kassapa, nếu tôi từ bỏ *quan điểm sai* tồi tệ này, người ta sẽ nói về tôi: 'Vương tử Pāyāsi thật ngu ngốc, thiếu hiểu biết, bám giữ những quan điểm sai lầm.' Tôi sẽ mang theo nó vì tức giận, tôi sẽ mang theo nó vì đạo đức giả, tôi sẽ mang theo nó vì cố chấp."
 
 <!--pg-->
-### 2.11. Ví dụ về hai người trưởng đoàn lữ hành (Dvesatthavāhaupamā)
-
+### 2.11. Ví dụ về hai người trưởng đoàn lữ hành (Dvesatthavāhaupamā){#2.11}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói.
 
 Thuở xưa, này vương tử, có một đoàn lữ hành lớn với một ngàn cỗ xe đi từ một vùng phía đông sang một vùng phía tây. Bất cứ nơi nào đoàn lữ hành đi qua, cỏ, củi, nước và lá xanh đều nhanh chóng cạn kiệt. Trong đoàn lữ hành đó có hai người trưởng đoàn, mỗi người phụ trách năm trăm cỗ xe. Khi ấy, hai người trưởng đoàn nghĩ: 'Đoàn lữ hành này quá lớn với một ngàn cỗ xe; bất cứ nơi nào chúng ta đi qua, cỏ, củi, nước và lá xanh đều nhanh chóng cạn kiệt. Hay là chúng ta chia đoàn lữ hành này làm hai—một nửa năm trăm cỗ xe, một nửa năm trăm cỗ xe.' Họ chia đoàn lữ hành làm hai, một nửa năm trăm cỗ xe, một nửa năm trăm cỗ xe.
@@ -293,8 +280,7 @@ Cũng vậy, này vương tử, ngài là người ngu ngốc, thiếu hiểu bi
 "Mặc dù Tôn giả Kassapa nói như vậy, nhưng tôi không thể từ bỏ *quan điểm sai* tồi tệ này. Vua Pasenadi nước Kosala và các vị vua khác đều biết tôi: 'Vương tử Pāyāsi có quan điểm và chủ trương như sau: "Như thế này: không có *thế giới khác* [...lặp lại...] *sự chín muồi*."' Thưa Tôn giả Kassapa, nếu tôi từ bỏ *quan điểm sai* tồi tệ này, người ta sẽ nói về tôi: 'Vương tử Pāyāsi thật ngu ngốc, thiếu hiểu biết, bám giữ những quan điểm sai lầm.' Tôi sẽ mang theo nó vì tức giận, tôi sẽ mang theo nó vì đạo đức giả, tôi sẽ mang theo nó vì cố chấp."
 
 <!--pg-->
-### 2.12. Ví dụ về người gánh phân (Gūthabhārikaupamā)
-
+### 2.12. Ví dụ về người gánh phân (Gūthabhārikaupamā){#2.12}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói.
 
 Thuở xưa, này vương tử, có một người nuôi lợn đi từ làng của mình sang một ngôi làng khác. Tại đó, người ấy thấy một đống phân khô lớn bị vứt bỏ. Thấy vậy, người ấy nghĩ: 'Đây là một đống phân khô lớn bị vứt bỏ, và nó là thức ăn cho lợn của ta; ta nên mang đống phân khô này từ đây về.' Người ấy trải áo choàng ngoài ra, gom đống phân khô lớn vào, buộc thành một bọc, đội lên đầu và đi. Trên đường đi, một cơn mưa lớn trái mùa trút xuống. Người ấy bị phân ướt chảy ròng ròng, nhỏ giọt, dính đầy từ đầu đến chân, nhưng vẫn đội gánh phân mà đi.
@@ -308,8 +294,7 @@ Cũng vậy, này vương tử, ngài giống như người gánh phân đó khi
 "Mặc dù Tôn giả Kassapa nói như vậy, nhưng tôi không thể từ bỏ *quan điểm sai* tồi tệ này. Vua Pasenadi nước Kosala và các vị vua khác đều biết tôi: 'Vương tử Pāyāsi có quan điểm và chủ trương như sau: "Như thế này: không có *thế giới khác* [...lặp lại...] *sự chín muồi*."' Thưa Tôn giả Kassapa, nếu tôi từ bỏ *quan điểm sai* tồi tệ này, người ta sẽ nói về tôi: 'Vương tử Pāyāsi thật ngu ngốc, thiếu hiểu biết, bám giữ những quan điểm sai lầm.' Tôi sẽ mang theo nó vì tức giận, tôi sẽ mang theo nó vì đạo đức giả, tôi sẽ mang theo nó vì cố chấp."
 
 <!--pg-->
-### 2.13. Ví dụ về kẻ nghiện cờ bạc (Akkhadhuttakaupamā)
-
+### 2.13. Ví dụ về kẻ nghiện cờ bạc (Akkhadhuttakaupamā){#2.13}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài, nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói.
 
 Thuở xưa, này vương tử, có hai kẻ nghiện cờ bạc đang chơi xúc xắc. Một kẻ nghiện cờ bạc cứ mỗi lần xúc xắc ra mặt thua là nuốt luôn viên xúc xắc đó.
@@ -336,8 +321,7 @@ Cũng vậy, này vương tử, ngài giống như kẻ nghiện cờ bạc đó
 "Mặc dù Tôn giả Kassapa nói như vậy, nhưng tôi không thể từ bỏ *quan điểm sai* tồi tệ này. Vua Pasenadi nước Kosala và các vị vua khác đều biết tôi: 'Vương tử Pāyāsi có quan điểm và chủ trương như sau: "Như thế này: không có *thế giới khác* [...lặp lại...] *sự chín muồi*."' Thưa Tôn giả Kassapa, nếu tôi từ bỏ *quan điểm sai* tồi tệ này, người ta sẽ nói về tôi: 'Vương tử Pāyāsi thật ngu ngốc, thiếu hiểu biết, bám giữ những quan điểm sai lầm.' Tôi sẽ mang theo nó vì tức giận, tôi sẽ mang theo nó vì đạo đức giả, tôi sẽ mang theo nó vì cố chấp."
 
 <!--pg-->
-### 2.14. Ví dụ về người gánh gai dầu (Sāṇabhārikaupamā)
-
+### 2.14. Ví dụ về người gánh gai dầu (Sāṇabhārikaupamā){#2.14}
 "Nếu vậy, này vương tử, tôi sẽ đưa ra một ví dụ cho ngài, nhờ ví dụ, một số người có trí ở đây hiểu được ý nghĩa của lời nói.
 
 Thuở xưa, này vương tử, có một vùng quê bị bỏ hoang. Khi ấy, một người bạn nói với người bạn kia: 'Đi nào, bạn, chúng ta hãy đi đến vùng quê đó, biết đâu chúng ta có thể tìm được chút tài sản.'
@@ -365,15 +349,13 @@ Họ đi về ngôi làng của mình. Tại đó, người bạn mang gánh gai
 Cũng vậy, này vương tử, ngài giống như người gánh gai dầu đó khi ngài nói với tôi như vậy. Này vương tử, hãy từ bỏ *quan điểm sai* tồi tệ này; này vương tử, hãy từ bỏ *quan điểm sai* tồi tệ này. Đừng để nó mang lại tai hại và đau khổ lâu dài cho ngài."
 
 <!--pg-->
-## 3. Quy y (Saraṇagamana)
-
+## 3. Quy y (Saraṇagamana){#3}
 "Ngay từ ví dụ đầu tiên, tôi đã hài lòng và hoan hỷ với Tôn giả Kassapa. Nhưng tôi muốn nghe những câu trả lời sắc bén, đa dạng này nên tôi mới nghĩ đến việc phản bác Tôn giả Kassapa. Thật tuyệt vời, thưa Tôn giả Kassapa! Thật tuyệt vời, thưa Tôn giả Kassapa! Giống như người dựng đứng lại những gì bị lật úp, phơi bày ra những gì bị che khuất, chỉ đường cho người bị lạc, hay cầm ngọn đèn sáng đi vào bóng tối để những ai có mắt có thể thấy được hình ảnh; cũng vậy, *Quy luật* đã được Tôn giả Kassapa làm sáng tỏ qua nhiều phương pháp. Thưa Tôn giả Kassapa, tôi xin nương tựa vào Tôn giả Gotama, nương tựa vào *Quy luật*, và nương tựa vào hội chúng tỳ kheo. Xin Tôn giả Kassapa hãy nhận tôi làm cư sĩ, đã quy y từ hôm nay cho đến trọn đời.
 
 Và thưa Tôn giả Kassapa, tôi muốn tổ chức một cuộc tế lễ lớn, xin Tôn giả Kassapa hãy hướng dẫn tôi, để điều đó mang lại lợi ích và hạnh phúc lâu dài cho tôi."
 
 <!--pg-->
-## 4. Bàn về tế lễ (Yaññakathā)
-
+## 4. Bàn về tế lễ (Yaññakathā){#4}
 "Này vương tử, trong những cuộc tế lễ nào mà bò bị giết, dê cừu bị giết, gà lợn bị giết, hay nhiều sinh vật khác bị sát hại, và những người nhận lễ vật là những người có *quan điểm sai* (tà kiến / micchādiṭṭhi), *suy nghĩ sai* (tà tư duy / micchāsaṅkappa), *lời nói sai* (tà ngữ / micchāvācā), *hành động sai* (tà nghiệp / micchākammanta), *đời sống sai* (tà mạng / micchāājīva), *nỗ lực sai* (tà tinh tấn / micchāvāyāma), *sự thấy không quên sai* (tà niệm / micchāsati), *định sai* (tà định / micchāsamādhi); thì cuộc tế lễ như vậy, này vương tử, không mang lại *kết quả* lớn, không mang lại lợi ích lớn, không mang lại ánh sáng lớn, không mang lại sự lan tỏa lớn.
 
 Giả sử, này vương tử, một người nông dân mang hạt giống và cày đi vào rừng. Người đó gieo những hạt giống bị vỡ, bị thối, bị gió nắng làm hỏng, không có lõi, gieo không đúng cách vào một thửa ruộng tồi tàn, đất đai cằn cỗi, chưa được dọn sạch gốc cây và gai góc. Và trời không mưa đúng lúc, không cung cấp đủ nước. Liệu những hạt giống đó có thể nảy mầm, lớn lên và phát triển mạnh mẽ không, và người nông dân có thu được *kết quả* dồi dào không?"
@@ -391,8 +373,7 @@ Giả sử, này vương tử, một người nông dân mang hạt giống và 
 "Cũng vậy, này vương tử, trong những cuộc tế lễ nào mà bò không bị giết, dê cừu không bị giết, gà lợn không bị giết, hay nhiều sinh vật khác không bị sát hại, và những người nhận lễ vật là những người có *Thấy Thiện*, *Suy Nghĩ Thiện*, *Lời Nói Thiện*, *Hành Động Thiện*, *Đời Sống Thiện*, *Nỗ lực Thiện*, *Sự Thấy không quên Thiện*, *Định thiện*; thì cuộc tế lễ như vậy, này vương tử, mang lại *kết quả* lớn, mang lại lợi ích lớn, mang lại ánh sáng lớn, mang lại sự lan tỏa lớn."
 
 <!--pg-->
-## 5. Câu chuyện về thanh niên Uttara (Uttaramāṇavavatthu)
-
+## 5. Câu chuyện về thanh niên Uttara (Uttaramāṇavavatthu){#5}
 Sau đó, vương tử Pāyāsi thiết lập việc bố thí cho các sa-môn, bà-la-môn, người nghèo khổ, người lang thang, người ăn xin và người cầu xin. Nhưng trong việc bố thí đó, thức ăn được phân phát là cơm tấm với nước chua, và y phục là những tấm vải thô dệt bằng lông đuôi ngựa. Trong việc bố thí đó, có một thanh niên tên là Uttara làm người quản lý.
 
 Sau khi phân phát đồ bố thí, người đó hồi hướng như sau: "Bằng việc bố thí này, mong tôi chỉ gặp vương tử Pāyāsi ở thế giới này, đừng gặp ở *thế giới khác*."
@@ -412,8 +393,7 @@ Vương tử Pāyāsi nghe nói: "Thanh niên Uttara sau khi phân phát đồ b
 Khi ấy, vương tử Pāyāsi vì bố thí không cung kính, bố thí không tự tay làm, bố thí không tôn trọng, bố thí như vứt bỏ, nên sau khi cơ thể tan rã, sau khi chết, ông tái sinh vào cõi chư thiên Cātumahārājika (Tứ Thiên Vương), tại *lâu đài cõi trời* (thiên cung / vimāna) Serīsaka trống rỗng `[BT]`. Còn thanh niên Uttara, người quản lý việc bố thí của ông, vì bố thí cung kính, bố thí tự tay làm, bố thí tôn trọng, bố thí không như vứt bỏ, nên sau khi cơ thể tan rã, sau khi chết, người đó tái sinh vào cõi tốt đẹp, thế giới cõi trời, cùng chung sống với chư thiên cõi Tāvatiṁsa.
 
 <!--pg-->
-## 6. Thiên tử Pāyāsi (Pāyāsidevaputta)
-
+## 6. Thiên tử Pāyāsi (Pāyāsidevaputta){#6}
 Vào lúc bấy giờ, Tôn giả Gavampati thường xuyên đi đến *lâu đài cõi trời* Serīsaka trống rỗng để nghỉ trưa. Khi ấy, thiên tử Pāyāsi đi đến chỗ Tôn giả Gavampati; sau khi đến, đảnh lễ Tôn giả Gavampati rồi đứng một bên. Tôn giả Gavampati hỏi thiên tử Pāyāsi đang đứng một bên: "Này bạn, bạn là ai?"
 
 "Thưa Tôn giả, tôi là vương tử Pāyāsi."

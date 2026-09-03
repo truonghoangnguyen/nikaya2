@@ -77,8 +77,7 @@ Này các tỳ kheo, đó là ba mươi hai *đặc điểm* của *bậc vĩ nh
 
 Này các tỳ kheo, *các đạo sĩ* (tiên nhân / isayo) ngoại đạo cũng ghi nhớ ba mươi hai *đặc điểm* vĩ nhân này, nhưng họ không biết: 'Do thực hiện *hành động* (nghiệp / kamma) nào mà người này có được đặc điểm này'.
 
-## 1. Đặc điểm bàn chân đặt vững chãi (Suppatiṭṭhitapādatālakkhaṇaṁ)
-
+## 1. Đặc điểm bàn chân đặt vững chãi (Suppatiṭṭhitapādatālakkhaṇaṁ){#1}
 Này các tỳ kheo, khi *Người Đến Như Vậy* (Như Lai / tathāgato) trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, đã kiên định thực hành *những điều thiện* (thiện pháp / kusalesu dhammesu), giữ vững cam kết về *hành động thiện, lời nói thiện, ý nghĩ thiện* (thân/khẩu/ý diệu hạnh / kāyasucarite vacīsucarite manosucarite), về *sự cho đi* (bố thí / dāna) và san sẻ, về sự giữ gìn *đạo đức* (giới / sīla), về việc giữ ngày trai giới, về sự hiếu kính mẹ cha, hiếu kính sa-môn, hiếu kính bà-la-môn, tôn trọng bậc trưởng thượng trong gia đình, và những *điều thiện* cao tột khác. Nhờ thực hiện, tích lũy, làm cho dư dật, làm cho rộng lớn *hành động* ấy, sau khi cơ thể suy tàn và chết đi, người ấy sinh vào cõi tồn tại tốt đẹp, thế giới chư thiên. Tại đó, người ấy vượt trội hơn các chư thiên khác ở mười phương diện: tuổi thọ chư thiên, nhan sắc chư thiên, hạnh phúc chư thiên, danh xưng chư thiên, uy quyền chư thiên, sắc chư thiên, thanh chư thiên, hương chư thiên, vị chư thiên, và xúc chư thiên. Sau khi chết từ đó và đến *nơi này* (trạng thái này), người ấy có được *đặc điểm* vĩ nhân này: Người ấy có bàn chân đặt vững chãi. Người ấy đặt cả bàn chân xuống đất, nhấc đều lên, và toàn bộ lòng bàn chân chạm đất cùng một lúc.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân*, cai trị bằng *điều đúng đắn*, vị vua của điều đúng đắn, chiến thắng bốn phương, ổn định quốc gia, được trang bị bảy báu vật. Người ấy có bảy báu vật này, đó là: bánh xe quý, voi quý, ngựa quý, ngọc quý, nữ nhân quý, gia chủ quý, và thứ bảy là người lãnh đạo quý. Người ấy có hơn một ngàn người con trai dũng cảm, thân hình vạm vỡ, có khả năng nghiền nát quân thù. Người ấy chinh phục trái đất này cho đến tận biên giới đại dương—một trái đất không có gai góc phiền não, thịnh vượng, phong phú, an toàn, yên bình, không mầm mống tai ương—cai trị nó không cần gậy gộc, không cần vũ khí, mà bằng *điều đúng đắn*. Khi là vua, người ấy nhận được gì? Người ấy không thể bị lay chuyển bởi bất kỳ kẻ thù hay phe đối nghịch nào mang thân phận con người. Khi là vua, người ấy nhận được điều này. Nhưng nếu *rời bỏ gia đình, sống đời không nhà*, người ấy trở thành *bậc Xứng đáng*, *bậc Tự giác ngộ hoàn toàn*, *người vén bức màn [che lấp thế gian]*. Khi là một vị Phật, người ấy nhận được gì? Người ấy không thể bị lay chuyển bởi kẻ thù hay phe đối nghịch bên trong hay bên ngoài—bởi *đắm nhiễm* (tham / rāga), bởi ám ảnh khó chịu, bởi *Sự u mê* (si / moha), hay bởi sa-môn, bà-la-môn, chư thiên, ác ma, phạm thiên, hay bất cứ ai trên đời. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -110,8 +109,7 @@ Về điều này, bài kệ được nói ra:
 > Bậc tối thắng ấy sẽ không bao giờ bị ngăn trở,\
 > Bậc vô thượng giữa loài người—đó là quy luật của người ấy."
 
-## 2. Đặc điểm bánh xe dưới lòng bàn chân (Pādatalacakkalakkhaṇaṁ)
-
+## 2. Đặc điểm bánh xe dưới lòng bàn chân (Pādatalacakkalakkhaṇaṁ){#2}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, đã mang lại hạnh phúc cho nhiều người, xua tan hoảng hốt, khiếp sợ và lo âu, thiết lập sự bảo vệ và che chở theo *điều đúng đắn*, và thực hiện *sự cho đi* cùng với đoàn tùy tùng. Nhờ thực hiện, tích lũy, làm cho dư dật, làm cho rộng lớn *hành động* ấy, sau khi cơ thể suy tàn và chết đi, người ấy sinh vào cõi tồn tại tốt đẹp, thế giới chư thiên [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: Dưới lòng bàn chân có hình bánh xe với một ngàn nan hoa, có vành, có trục, hoàn hảo trong mọi chi tiết, khoảng cách chia đều đặn.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Người ấy có tùy tùng đông đảo; những người tùy tùng của người ấy rất vĩ đại: bà-la-môn, gia chủ, thương nhân, nông dân, quan thủ quỹ, đại thần, vệ binh, lính canh cửa, triều thần, quan chức, tiểu vương, người hưởng lộc và các thái tử. Khi là vua, người ấy nhận được điều này. Nhưng nếu *rời bỏ gia đình, sống đời không nhà*, người ấy trở thành *bậc Xứng đáng*, *bậc Tự giác ngộ hoàn toàn*, *người vén bức màn [che lấp thế gian]*. Khi là một vị Phật, người ấy nhận được gì? Người ấy có tùy tùng đông đảo; những tùy tùng của người ấy rất vĩ đại: các nam tỳ kheo, nữ tỳ kheo, nam cư sĩ, nữ cư sĩ, chư thiên, con người, asura, nāga, gandhabba. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -175,8 +173,7 @@ Về điều này, bài kệ được nói ra:
 > Người ấy duy trì để rèn luyện sự hoàn thiện,\
 > Do vậy, đó là dấu hiệu của việc có tuổi thọ dài lâu."
 
-## 6. Đặc điểm bảy chỗ đầy đặn (Sattussadatālakkhaṇaṁ)
-
+## 6. Đặc điểm bảy chỗ đầy đặn (Sattussadatālakkhaṇaṁ){#6}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, đã là người phân phát những thức ăn, thức uống, đồ nhai, đồ nếm tinh túy, thơm ngon. Nhờ thực hiện *hành động* ấy [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: Người ấy có bảy chỗ đầy đặn, bảy điểm phình ra; có sự đầy đặn ở hai bàn tay, sự đầy đặn ở hai bàn chân, sự đầy đặn ở hai đầu vai, và sự đầy đặn ở gáy.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Người ấy nhận được thức ăn, thức uống, đồ nhai, đồ nếm tinh túy, thơm ngon. Khi là vua, người ấy nhận được điều này [...lặp lại...] Khi là một vị Phật, người ấy nhận được gì? Người ấy nhận được thức ăn, thức uống, đồ nhai, đồ nếm tinh túy, thơm ngon. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -259,8 +256,7 @@ Về điều này, bài kệ được nói ra:
 > Không có ai cao tột hơn người ấy,\
 > Chinh phục và sống khắp toàn thể thế gian."
 
-## 11. Đặc điểm bắp chân như nai (Eṇijaṅghalakkhaṇaṁ)
-
+## 11. Đặc điểm bắp chân như nai (Eṇijaṅghalakkhaṇaṁ){#11}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, đã tận tâm dạy dỗ nghệ thuật, kiến thức, cách cư xử, hay công việc, với ý nghĩ: 'Làm sao để họ hiểu được nhanh chóng, thực hành nhanh chóng, và không phải chịu mệt nhọc lâu dài?' Nhờ thực hiện *hành động* ấy [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: Bắp chân như con nai.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Bất cứ thứ gì xứng đáng với vua, phụ tùng của vua, vật dụng của vua, những thứ thích hợp cho vua, người ấy đều nhận được nhanh chóng. Khi là vua, người ấy nhận được điều này [...lặp lại...] Khi là một vị Phật, người ấy nhận được gì? Bất cứ thứ gì xứng đáng với sa-môn, phụ tùng của sa-môn, vật dụng của sa-môn, những thứ thích hợp cho sa-môn, người ấy đều nhận được nhanh chóng. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -287,8 +283,7 @@ Về điều này, bài kệ được nói ra:
 > Nhận được thứ thích hợp cho những người xứng đáng,\
 > Bậc nỗ lực không hề thấp kém sẽ nhận được nhanh chóng."
 
-## 12. Đặc điểm làn da mịn màng (Sukhumacchavilakkhaṇaṁ)
-
+## 12. Đặc điểm làn da mịn màng (Sukhumacchavilakkhaṇaṁ){#12}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, đã đến gặp sa-môn hay bà-la-môn và hỏi: 'Thưa ngài, thế nào là điều thiện? Thế nào là điều không thiện? Thế nào là có lỗi? Thế nào là không có lỗi? Thế nào là cần được trau dồi? Thế nào là không cần trau dồi? Việc gì tôi làm sẽ đem lại sự bất lợi và đau khổ lâu dài cho tôi? Hoặc việc gì tôi làm sẽ đem lại lợi ích và hạnh phúc lâu dài cho tôi?' Nhờ thực hiện *hành động* ấy [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: Làn da mịn màng, vì da mịn màng nên bụi bẩn không bám dính vào cơ thể.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Người ấy có trí tuệ lớn lao; không có ai ngang bằng hay vượt trội hơn người ấy về trí tuệ trong số những người hưởng khoái lạc giác quan. Khi là vua, người ấy nhận được điều này [...lặp lại...] Khi là một vị Phật, người ấy nhận được gì? Người ấy có trí tuệ lớn lao, trí tuệ sâu rộng, trí tuệ hoan hỉ, trí tuệ nhạy bén, trí tuệ sắc sảo, trí tuệ xuyên thấu; không có ai ngang bằng hay vượt trội hơn người ấy về trí tuệ trong số mọi chúng sinh. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -315,8 +310,7 @@ Về điều này, bài kệ được nói ra:
 > Nhận được trí tuệ đặc biệt vô thượng,\
 > Đạt đến giác ngộ, bậc có trí tuệ rộng lớn và cao cả."
 
-## 13. Đặc điểm màu da vàng óng (Suvaṇṇavaṇṇalakkhaṇaṁ)
-
+## 13. Đặc điểm màu da vàng óng (Suvaṇṇavaṇṇalakkhaṇaṁ){#13}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, không mang lòng sân hận, không oán ghét chất chứa; dù bị nói nhiều lời, người ấy không bực tức, không nổi giận, không có ác ý, không chống đối, và không thể hiện sự tức giận, sân hận hay bất mãn. Người ấy còn là người trao tặng những tấm thảm trải, chăn đắp, vải lanh tinh xảo, vải bông tinh xảo, lụa tinh xảo, và len tinh xảo, đều mềm mại và tinh tế. Nhờ thực hiện, tích lũy *hành động* ấy [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: Có màu da vàng óng, da sáng như vàng.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Người ấy nhận được những tấm thảm trải, chăn đắp, vải lanh tinh xảo, vải bông tinh xảo, lụa tinh xảo, và len tinh xảo, đều mềm mại và tinh tế. Khi là vua, người ấy nhận được điều này [...lặp lại...] Khi là một vị Phật, người ấy nhận được gì? Người ấy nhận được những tấm thảm trải, chăn đắp, vải lanh tinh xảo, vải bông tinh xảo, lụa tinh xảo, và len tinh xảo, đều mềm mại và tinh tế. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -343,8 +337,7 @@ Về điều này, bài kệ được nói ra:
 > Người có giới hạnh nhận lấy kết quả đã làm từ trước,\
 > Hành động đã làm không bao giờ bị tiêu tan."
 
-## 14. Đặc điểm bộ phận kín ẩn trong bọc (Kosohitavatthaguyhalakkhaṇaṁ)
-
+## 14. Đặc điểm bộ phận kín ẩn trong bọc (Kosohitavatthaguyhalakkhaṇaṁ){#14}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, là *người gắn kết* (hòa giải / samānetā) lại những người thân, bạn bè, chiến hữu, tri kỷ đã thất lạc từ lâu hay xa cách từ lâu. Người ấy gắn kết mẹ với con, gắn kết con với mẹ, gắn kết cha với con, gắn kết con với cha, gắn kết anh với em, gắn kết anh với chị, gắn kết chị với em, gắn kết chị với chị, và sau khi làm cho họ hòa hợp, người ấy vui mừng với sự đoàn tụ đó. Nhờ thực hiện *hành động* ấy [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: *Bộ phận kín ẩn trong bọc*.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Người ấy có nhiều con trai; có hơn một ngàn người con trai dũng cảm, thân hình vạm vỡ, có khả năng nghiền nát quân thù. Khi là vua, người ấy nhận được điều này [...lặp lại...] Khi là một vị Phật, người ấy nhận được gì? Người ấy có nhiều con trai; có nhiều ngàn người con trai dũng cảm, thân hình vạm vỡ, có khả năng nghiền nát quân thù. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -429,8 +422,7 @@ Về điều này, bài kệ được nói ra:
 > Người xuất gia vô sản đạt đến tối thượng,\
 > Đạt đến sự giác ngộ, nguyên lý của người không bị hao mòn."
 
-## 20. Đặc điểm mạng lưới vị giác tối ưu (Rasaggasaggitālakkhaṇaṁ)
-
+## 20. Đặc điểm mạng lưới vị giác tối ưu (Rasaggasaggitālakkhaṇaṁ){#20}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, là người mang bản tính không làm tổn hại chúng sinh bằng tay, bằng gạch đá, bằng gậy gộc, hay bằng vũ khí. Nhờ thực hiện, tích lũy *hành động* ấy [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: Có mạng lưới vị giác tối ưu, các dây thần kinh vị giác hướng lên trên hội tụ nơi cổ họng, phân bổ đồng đều mang lại hương vị.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Người ấy ít ốm đau, ít bệnh tật, có chức năng tiêu hóa đồng đều, không quá lạnh, không quá nóng. Khi là vua, người ấy nhận được điều này [...lặp lại...] Khi là một vị Phật, người ấy nhận được gì? Người ấy ít ốm đau, ít bệnh tật, có chức năng tiêu hóa đồng đều, không quá lạnh, không quá nóng, vừa mức trung bình, phù hợp cho nỗ lực tinh tấn. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -480,8 +472,7 @@ Về điều này, bài kệ được nói ra:
 > Và nếu không làm người tại gia mà thành sa-môn,\
 > Được nhiều người yêu mến, người xóa tan muộn phiền."
 
-## 23. Đặc điểm đỉnh đầu nổi vầng trán (Uṇhīsasīsalakkhaṇaṁ)
-
+## 23. Đặc điểm đỉnh đầu nổi vầng trán (Uṇhīsasīsalakkhaṇaṁ){#23}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, là người dẫn đầu trong việc làm *những điều thiện*, đứng đầu đại chúng trong *hành động thiện, lời nói thiện, ý nghĩ thiện*, trong *sự cho đi* và san sẻ, trong việc giữ gìn *đạo đức*, giữ ngày trai giới, hiếu kính mẹ cha, hiếu kính sa-môn, hiếu kính bà-la-môn, tôn trọng bậc trưởng thượng trong gia đình, và những *điều thiện* cao tột khác. Nhờ thực hiện *hành động* ấy [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: Có *đỉnh đầu nổi vầng trán*.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Người ấy có đông đảo quần chúng phục tùng; các bà-la-môn, gia chủ, thương nhân, nông dân, quan thủ quỹ, đại thần, vệ binh, lính canh cửa, triều thần, quan chức, tiểu vương, người hưởng lộc và thái tử theo phục tùng. Khi là vua, người ấy nhận được điều này [...lặp lại...] Khi là một vị Phật, người ấy nhận được gì? Người ấy có đông đảo quần chúng phục tùng; các nam tỳ kheo, nữ tỳ kheo, nam cư sĩ, nữ cư sĩ, chư thiên, con người, asura, nāga, gandhabba theo phục tùng. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.
@@ -592,8 +583,7 @@ Về điều này, bài kệ được nói ra:
 > Quần chúng chấp nhận lời nói của người ấy,\
 > Nhiều người nhận lấy nhiều điều được nói khéo."
 
-## 30. Đặc điểm cằm sư tử (Sīhahanulakkhaṇaṁ)
-
+## 30. Đặc điểm cằm sư tử (Sīhahanulakkhaṇaṁ){#30}
 "Này các tỳ kheo, khi *Người Đến Như Vậy* trong kiếp sống trước, trong cõi tồn tại trước, trong chốn ở trước, khi còn là con người, đã từ bỏ nói chuyện phiếm, xa lánh chuyện phiếm, nói đúng lúc, nói sự thật, nói có lợi ích, nói đúng *Điều dạy*, nói đúng nguyên tắc rèn luyện, thốt ra lời nói đáng ghi nhớ, hợp thời, có chứng cứ rõ ràng, có giới hạn chừng mực, gắn liền với lợi ích. Nhờ thực hiện *hành động* ấy [...lặp lại...] Sau khi chết từ đó và đến *nơi này*, người ấy có được *đặc điểm* vĩ nhân này: Cằm bành như sư tử.
 
 Được trang bị *đặc điểm* đó, nếu *sống đời tại gia*, người ấy trở thành *vua Chuyển luân* [...lặp lại...] Khi là vua, người ấy nhận được gì? Người ấy không thể bị khuất phục bởi bất kỳ kẻ thù hay phe đối nghịch nào mang thân phận con người. Khi là vua, người ấy nhận được điều này [...lặp lại...] Khi là một vị Phật, người ấy nhận được gì? Người ấy không thể bị khuất phục bởi kẻ thù hay phe đối nghịch bên trong hay bên ngoài, bởi *đắm nhiễm*, ám ảnh khó chịu, *Sự u mê*, hay sa-môn, bà-la-môn, chư thiên, ác ma, phạm thiên, hay bất cứ ai trên đời. Khi là một vị Phật, người ấy nhận được điều này." Thế Tôn đã nói ý nghĩa này.

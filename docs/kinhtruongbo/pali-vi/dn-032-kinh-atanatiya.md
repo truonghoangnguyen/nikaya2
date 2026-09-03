@@ -1,8 +1,7 @@
 # DN 32. KINH ĀṬĀNĀṬIYA
 *(Āṭānāṭiyasutta)*
 
-## 1. Tụng Phẩm Thứ Nhất (Paṭhamabhāṇavāra)
-
+## 1. Tụng Phẩm Thứ Nhất (Paṭhamabhāṇavāra){#1}
 Tôi đã nghe như vầy — Một thời Thế Tôn trú tại Rājagaha (Vương Xá), trên mỏm núi Gijjhakūṭa (Linh Thứu). Khi ấy, Bốn Đại Vương (Tứ Đại Thiên Vương / Cattāro mahārājā) cùng với đại quân *tinh linh Dạ-xoa* (Dạ-xoa / Yakkha), đại quân *hương thần Càn-thát-bà* (Càn-thát-bà / Gandhabba), đại quân *quỷ lùn Cưu-bàn-trà* (Cưu-bàn-trà / Kumbhaṇḍa), và đại quân *rồng Nāga* (Long / Nāga), đã thiết lập sự canh gác ở bốn hướng, thiết lập quân đội ở bốn hướng, thiết lập sự che chở ở bốn hướng. Khi đêm đã khuya, với dung mạo tuyệt đẹp, họ chiếu sáng toàn bộ mỏm núi Linh Thứu và đi đến nơi Thế Tôn ngự; sau khi đến, họ đảnh lễ Thế Tôn rồi ngồi xuống một bên.
 
 Các *tinh linh Dạ-xoa* kia cũng vậy: một số đảnh lễ Thế Tôn rồi ngồi xuống một bên; một số thân thiện chào hỏi Thế Tôn, sau những lời chào hỏi lịch sự thân tình thì ngồi xuống một bên; một số chắp tay vái chào về phía Thế Tôn rồi ngồi xuống một bên; một số xưng danh tánh và dòng họ rồi ngồi xuống một bên; một số giữ im lặng rồi ngồi xuống một bên.
@@ -204,8 +203,7 @@ Khi ấy, Bốn Đại vương đứng dậy khỏi chỗ ngồi, đảnh lễ T
 
 Kết thúc Tụng Phẩm Thứ Nhất.
 
-## 2. Tụng Phẩm Thứ Hai (Dutiyabhāṇavāra)
-
+## 2. Tụng Phẩm Thứ Hai (Dutiyabhāṇavāra){#2}
 Rồi khi đêm đã qua, Thế Tôn gọi các tỳ kheo:
 "Này các tỳ kheo, đêm qua Bốn Đại vương cùng đại quân Dạ-xoa... [lặp lại phần 1]... đã thiết lập sự canh gác... chiếu sáng Linh Thứu... đến nơi Ta ngự, đảnh lễ rồi ngồi xuống một bên. Các Dạ-xoa cũng vậy... một số đảnh lễ Ta, một số chào hỏi Ta... rồi ngồi xuống một bên.
 

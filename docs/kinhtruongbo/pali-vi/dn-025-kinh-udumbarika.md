@@ -3,8 +3,7 @@
 *(Udumbarikasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-025){target="_blank" class="note-link" }
 
-## 1. Câu chuyện về du sĩ Nigrodha (Nigrodhaparibbājakavatthu)
-
+## 1. Câu chuyện về du sĩ Nigrodha (Nigrodhaparibbājakavatthu){#1}
 Tôi nghe như vầy—một thời Thế Tôn trú ở Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu).
 
 Vào lúc bấy giờ, du sĩ Nigrodha đang trú tại khu vườn của các du sĩ Udumbarikā cùng với một hội chúng du sĩ lớn, khoảng ba trăm vị. Khi ấy, gia chủ Sandhāna rời khỏi Rājagaha vào giữa ban ngày để đến yết kiến Thế Tôn.
@@ -24,8 +23,7 @@ Thế Tôn nghe được cuộc trò chuyện này của gia chủ Sandhāna và
 Du sĩ Nigrodha trông thấy Thế Tôn đang đi kinh hành ngoài trời tại bãi cho công ăn bên bờ hồ Sumāgadhā. Thấy vậy, ông liền yêu cầu hội chúng của mình dừng lại: "Các tôn giả hãy giữ im lặng, các tôn giả đừng làm ồn, sa-môn Gotama đang đi kinh hành ngoài trời tại bãi cho công ăn bên bờ hồ Sumāgadhā. Vị tôn giả ấy thích sự im lặng, ca ngợi sự im lặng. Biết đâu, nếu thấy hội chúng im lặng, ông ấy sẽ nghĩ đến việc bước vào. Nếu sa-môn Gotama đến hội chúng này, chúng ta sẽ hỏi ông ấy câu hỏi này: 'Bạch Thế Tôn, *Điều dạy* mà Thế Tôn dạy các đệ tử là gì, để khi các đệ tử được Thế Tôn dạy, họ có thể xác nhận đạt được sự an ổn, đến cốt lõi của đời sống thánh thiện ?'" Khi được nói như vậy, các du sĩ ấy liền im lặng.
 
 <!--pg-->
-## 2. Thuyết về sự chán ghét và ép xác (Tapojigucchāvāda)
-
+## 2. Thuyết về sự chán ghét và ép xác (Tapojigucchāvāda){#2}
 Sau đó, Thế Tôn đi đến chỗ du sĩ Nigrodha. Du sĩ Nigrodha liền thưa với Thế Tôn: "Xin mời đến, bạch Thế Tôn, chào mừng Thế Tôn. Đã lâu lắm rồi Thế Tôn mới có dịp đến đây. Xin Thế Tôn hãy ngồi, đây là chỗ ngồi đã được dọn sẵn". Thế Tôn ngồi trên chỗ ngồi đã dọn sẵn. Du sĩ Nigrodha cũng lấy một chỗ ngồi thấp hơn và ngồi xuống một bên. Khi du sĩ Nigrodha đã ngồi một bên, Thế Tôn nói với ông: "Này Nigrodha, các ông đang ngồi đây bàn luận về câu chuyện gì, và câu chuyện gì của các ông đang bị bỏ dở?"
 
 Khi được hỏi như vậy, du sĩ Nigrodha thưa với Thế Tôn: "Ở đây, bạch Thế Tôn, chúng tôi trông thấy Thế Tôn đang đi kinh hành ngoài trời tại bãi cho công ăn bên bờ hồ Sumāgadhā, thấy vậy chúng tôi liền nói: 'Nếu sa-môn Gotama đến hội chúng này, chúng ta sẽ hỏi ông ấy câu hỏi này: "Bạch Thế Tôn, *Điều dạy* mà Thế Tôn dạy các đệ tử là gì, để khi các đệ tử được Thế Tôn dạy, họ có thể xác nhận đạt được sự an ổn, đến cốt lõi của đời sống thánh thiện ?" Bạch Thế Tôn, đây là câu chuyện đang bị bỏ dở của chúng tôi; thì Thế Tôn vừa đến".
@@ -45,8 +43,7 @@ Sau đó, du sĩ Nigrodha làm cho các du sĩ ấy im lặng và thưa với Th
 "Ngay cả khi sự *ép xác khổ hạnh* trọn vẹn như vậy, này Nigrodha, Ta nói rằng nó vẫn có nhiều loại *nhiễm bẩn khác* (tùy phiền não / upakkilesa)."
 
 <!--pg-->
-## 2.1. nhiễm bẩn khác (Upakkilesa)
-
+## 2.1. nhiễm bẩn khác (Upakkilesa){#2.1}
 "Nhưng thưa Thế Tôn, làm thế nào Thế Tôn lại nói rằng sự *ép xác khổ hạnh* trọn vẹn như vậy lại có nhiều loại *nhiễm bẩn khác*?"
 
 "Ở đây, này Nigrodha, một người tu khổ hạnh thọ trì sự khổ hạnh, người ấy hoan hỷ với sự khổ hạnh đó và cảm thấy thỏa mãn ý định. Bất cứ khi nào, này Nigrodha, người tu khổ hạnh thọ trì sự khổ hạnh, hoan hỷ với sự khổ hạnh đó và cảm thấy thỏa mãn ý định. Đó là một *nhiễm bẩn khác* của người tu khổ hạnh.
@@ -85,8 +82,7 @@ Hơn nữa, này Nigrodha, người tu khổ hạnh hay chê bai và ganh ghét 
 "Chắc chắn, bạch Thế Tôn, những điều này là *nhiễm bẩn khác* của sự *ép xác khổ hạnh*, không phải là không. Bạch Thế Tôn, hoàn toàn có khả năng một người tu khổ hạnh ở đây có thể mang đầy đủ tất cả những *nhiễm bẩn khác* này; huống hồ chi là có một vài điều trong số đó."
 
 <!--pg-->
-## 2.2.  Đạt đến lớp vỏ ngoài thanh tịnh (Parisuddhapapaṭikappattakathā)
-
+## 2.2.  Đạt đến lớp vỏ ngoài thanh tịnh (Parisuddhapapaṭikappattakathā){#2.2}
 "Ở đây, này Nigrodha, người tu khổ hạnh thọ trì sự khổ hạnh, người ấy không hoan hỷ với sự khổ hạnh đó và không cảm thấy thỏa mãn ý định. Bất cứ khi nào, này Nigrodha, người tu khổ hạnh thọ trì sự khổ hạnh, không hoan hỷ với sự khổ hạnh đó và không cảm thấy thỏa mãn ý định. Như vậy người ấy trong sạch ở điểm này.
 
 Hơn nữa, này Nigrodha, người tu khổ hạnh thọ trì sự khổ hạnh, nhờ sự khổ hạnh đó người ấy không tự đề cao mình và không hạ thấp người khác [...lặp lại...] Như vậy người ấy trong sạch ở điểm này.
@@ -125,8 +121,7 @@ Hơn nữa, này Nigrodha, người tu khổ hạnh không chê bai và không g
 "Này Nigrodha, sự *ép xác khổ hạnh* ở mức độ này, chưa phải là đạt đến *đỉnh cao* và *phần cốt lõi*; mà nó chỉ mới *đạt đến lớp vỏ ngoài* (giác mộc / papaṭikappattā)."
 
 <!--pg-->
-## 2.3. Đạt đến lớp vỏ trong thanh tịnh (Parisuddhatacappattakathā)
-
+## 2.3. Đạt đến lớp vỏ trong thanh tịnh (Parisuddhatacappattakathā){#2.3}
 "Vậy đến mức độ nào, bạch Thế Tôn, sự *ép xác khổ hạnh* mới *đạt đến đỉnh cao* và *đạt đến phần cốt lõi*? Tốt thay, bạch Thế Tôn, xin Thế Tôn hãy đưa sự *ép xác khổ hạnh* của tôi *đạt đến đỉnh cao*, *đạt đến phần cốt lõi*."
 
 "Ở đây, này Nigrodha, người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế* (tứ uẩn cấm giới / cātuyāmasaṁvarasaṁvuto). Và thế nào, này Nigrodha, là người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế*? Ở đây, này Nigrodha, người tu khổ hạnh không tự mình giết hại sinh mệnh, không sai bảo người khác giết hại sinh mệnh, không đồng tình với việc giết hại sinh mệnh. Không tự mình lấy của không cho, không sai bảo người khác lấy của không cho, không đồng tình với việc lấy của không cho. Không tự mình nói dối, không sai bảo người khác nói dối, không đồng tình với việc nói dối. Không tự mình khao khát những thứ đáng khao khát, không sai bảo người khác khao khát, không đồng tình với việc khao khát. Như vậy, này Nigrodha, người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế*.
@@ -142,8 +137,7 @@ Sau khi *từ bỏ* Năm *điều làm mờ yếu* (triền cái / nīvaraṇe) 
 "Này Nigrodha, sự *ép xác khổ hạnh* ở mức độ này, chưa phải là đạt đến *đỉnh cao* và *phần cốt lõi*;mà nó chỉ mới *đạt đến lớp vỏ trong* (vỏ cây / tacappattā)."
 
 <!--pg-->
-## 2.4. Đạt đến phần gỗ ngoài thanh tịnh (Parisuddhaphegguppattakathā)
-
+## 2.4. Đạt đến phần gỗ ngoài thanh tịnh (Parisuddhaphegguppattakathā){#2.4}
 "Vậy đến mức độ nào, bạch Thế Tôn, sự *ép xác khổ hạnh* mới *đạt đến đỉnh cao* và *đạt đến phần cốt lõi*? Tốt thay, bạch Thế Tôn, xin Thế Tôn hãy đưa sự *ép xác khổ hạnh* của tôi *đạt đến đỉnh cao*, *đạt đến phần cốt lõi*."
 
 "Ở đây, này Nigrodha, người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế*. Và thế nào, này Nigrodha, là người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế* [...lặp lại...] Khi nào, này Nigrodha, người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế*, thì đó là bản chất khổ hạnh của người ấy. Người ấy tiến lên phía trước, không quay lại sự thấp kém. Người ấy lui tới những chỗ ở vắng vẻ [...lặp lại...] Sau khi *từ bỏ* Năm *điều làm mờ yếu* này – những *nhiễm bẩn khác* của tâm làm suy yếu trí tuệ – người ấy sống lan tỏa tâm đi kèm với *Tâm yêu thương* [...lặp lại...] tâm đi kèm với *Tâm thông cảm* [...lặp lại...] tâm đi kèm với *Tâm cùng vui* [...lặp lại...] tâm đi kèm với *tâm quân bình* biến mãn toàn bộ thế giới, rộng lớn, vĩ đại, *không giới hạn*, không hận thù, không ác ý.
@@ -157,8 +151,7 @@ Người ấy nhớ lại các đời sống quá khứ đa dạng, Như—một
 "Này Nigrodha, sự *ép xác khổ hạnh* ở mức độ này, chưa phải là đạt đến *đỉnh cao* và *phần cốt lõi*;mà nó chỉ mới *đạt đến phần gỗ ngoài* (lõi non / phegguppattā)."
 
 <!--pg-->
-## 3. Đạt đến phần lõi thanh tịnh (Parisuddhaaggappattasārappattakathā)
-
+## 3. Đạt đến phần lõi thanh tịnh (Parisuddhaaggappattasārappattakathā){#3}
 "Vậy đến mức độ nào, bạch Thế Tôn, sự *ép xác khổ hạnh* mới *đạt đến đỉnh cao* và *đạt đến phần cốt lõi*? Tốt thay, bạch Thế Tôn, xin Thế Tôn hãy đưa sự *ép xác khổ hạnh* của tôi *đạt đến đỉnh cao*, *đạt đến phần cốt lõi*."
 
 "Ở đây, này Nigrodha, người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế*. Và thế nào, này Nigrodha, là người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế* [...lặp lại...] Khi nào, này Nigrodha, người tu khổ hạnh *được bảo vệ bằng bốn sự kiềm chế*, thì đó là bản chất khổ hạnh của người ấy. Người ấy tiến lên phía trước, không quay lại sự thấp kém. Người ấy lui tới những chỗ ở vắng vẻ [...lặp lại...] Sau khi *từ bỏ* Năm *điều làm mờ yếu* này – những *nhiễm bẩn khác* của tâm làm suy yếu trí tuệ – người ấy sống lan tỏa tâm đi kèm với *Tâm yêu thương* [...lặp lại...] tâm đi kèm với *tâm quân bình* biến mãn toàn bộ thế giới, rộng lớn, vĩ đại, *không giới hạn*, không hận thù, không ác ý. Người ấy nhớ lại các đời sống quá khứ đa dạng. Như—một đời, hai đời, ba đời, bốn đời, năm đời [...lặp lại...] Như vậy, người ấy nhớ lại các đời sống quá khứ đa dạng cùng với các chi tiết và bối cảnh.
@@ -174,8 +167,7 @@ Với *mắt thần* (thiên nhãn / dibbena cakkhunā) thanh tịnh, vượt xa
 Khi được nói như vậy, các du sĩ ấy trở nên ồn ào, lớn tiếng, ầm ĩ: "Ở đây, chúng tôi và các đạo sư của chúng tôi đã thất bại, chúng tôi không biết điều gì cao tột hơn thế này nữa".
 
 <!--pg-->
-## 4. Sự bối rối của Nigrodha (Nigrodhassapajjhāyana)
-
+## 4. Sự bối rối của Nigrodha (Nigrodhassapajjhāyana){#4}
 Khi gia chủ Sandhāna nhận ra: "Chắc chắn bây giờ các du sĩ ngoại đạo này đang muốn nghe lời dạy của Thế Tôn, họ đang lắng tai nghe, họ đang hướng tâm đến sự hiểu biết".
 
 Sau đó, ông nói với du sĩ Nigrodha: "Thưa tôn giả Nigrodha, ngài đã nói với tôi là: 'Này gia chủ, ông có biết sa-môn Gotama nói chuyện với ai, thảo luận với ai, đàm đạo trí tuệ với ai không? Trí tuệ của sa-môn Gotama bị phá hủy trong ngôi nhà trống, sa-môn Gotama không quen tiếp xúc với hội chúng, không đủ khả năng đàm luận, ông ấy chỉ lui tới những nơi hẻo lánh; giống như một con bò chột mắt chỉ đi lang thang ở vùng rìa, lui tới những nơi hẻo lánh. Cũng vậy, trí tuệ của sa-môn Gotama bị phá hủy trong ngôi nhà trống, sa-môn Gotama không quen tiếp xúc với hội chúng, không đủ khả năng đàm luận; ông ấy chỉ lui tới những nơi hẻo lánh; này gia chủ, nếu sa-môn Gotama đến hội chúng này, chúng tôi sẽ đánh bại ông ấy chỉ bằng một câu hỏi duy nhất, chúng tôi sẽ lăn ông ấy qua lại như một cái bình rỗng'. Nay Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác đã đến đây, sao ngài không làm cho Ngài ấy không quen tiếp xúc với hội chúng, sao ngài không làm cho Ngài ấy thành con bò chột mắt đi lang thang ở vùng rìa, sao ngài không đánh bại Ngài ấy bằng một câu hỏi duy nhất, sao ngài không lăn Ngài ấy qua lại như một cái bình rỗng?" Khi được nói như vậy, du sĩ Nigrodha im lặng, bối rối, rũ vai, cúi đầu, trầm ngâm, không thốt được lời nào.
@@ -191,8 +183,7 @@ Sau đó, Thế Tôn thấy du sĩ Nigrodha im lặng, bối rối, rũ vai, cú
 "Là một người có hiểu biết và đã trưởng thành, này Nigrodha, sao ông không nghĩ rằng: 'Thế Tôn ấy đã giác ngộ, Ngài giảng dạy *Điều dạy* để dẫn đến sự giác ngộ; Thế Tôn ấy đã được huấn luyện, Ngài giảng dạy *Điều dạy* để dẫn đến sự huấn luyện; Thế Tôn ấy đã tĩnh lặng, Ngài giảng dạy *Điều dạy* để dẫn đến sự tĩnh lặng; Thế Tôn ấy đã vượt qua, Ngài giảng dạy *Điều dạy* để dẫn đến sự vượt qua; Thế Tôn ấy đã hoàn toàn dập tắt, Ngài giảng dạy *Điều dạy* để dẫn đến sự hoàn toàn dập tắt'?"
 
 <!--pg-->
-## 5. Tự mình chứng nghiệm đích đến cuối cùng của lối sống thánh thiện (Brahmacariyapariyosānasacchikiriyā)
-
+## 5. Tự mình chứng nghiệm đích đến cuối cùng của lối sống thánh thiện (Brahmacariyapariyosānasacchikiriyā){#5}
 Khi được nói như vậy, du sĩ Nigrodha thưa với Thế Tôn: "Lỗi lầm đã vượt qua con, bạch Thế Tôn, như một kẻ ngu, như một kẻ lầm lạc, như một kẻ thiếu thiện xảo, khi con đã nói về Thế Tôn như vậy. Xin Thế Tôn hãy nhận lỗi lầm của con như một lỗi lầm, để con có thể bảo vệ mình trong tương lai."
 
 "Chắc chắn, này Nigrodha, lỗi lầm đã vượt qua ông như một kẻ ngu, như một kẻ lầm lạc, như một kẻ thiếu thiện xảo, khi ông đã nói về Ta như vậy. Nhưng vì ông đã thấy lỗi lầm là lỗi lầm và sửa chữa theo đúng *Quy luật* (pháp / dhamma), Ta chấp nhận điều đó từ ông. Này Nigrodha, đây là sự phát triển trong kỷ luật của bậc thánh: khi một người thấy lỗi lầm là lỗi lầm, sửa chữa theo đúng *Quy luật* và bảo vệ mình trong tương lai. Này Nigrodha, Ta nói như sau:
@@ -200,8 +191,7 @@ Khi được nói như vậy, du sĩ Nigrodha thưa với Thế Tôn: "Lỗi l�
 'Hãy để một người có trí tuệ đến đây, không gian xảo, không lừa dối, có bản chất ngay thẳng, Ta sẽ hướng dẫn, Ta sẽ giảng dạy *Điều dạy*. Thực hành đúng như lời hướng dẫn—mục đích mà các thiện nam tử xuất gia từ bỏ gia đình, sống không gia đình, đó là đích đến cuối cùng vô thượng của lối sống thánh thiện—người ấy sẽ tự mình *hiểu biết trực tiếp* (thắng tri / abhiññā) và *tự mình chứng nghiệm* (chứng ngộ / sacchikatvā) ngay trong đời hiện tại, đạt đến và an trú trong bảy năm. Hãy để qua một bên bảy năm, này Nigrodha. Hãy để một người có trí tuệ đến đây, không gian xảo, không lừa dối, có bản chất ngay thẳng, Ta sẽ hướng dẫn, Ta sẽ giảng dạy *Điều dạy*. Thực hành đúng như lời hướng dẫn—mục đích mà các thiện nam tử xuất gia từ bỏ gia đình, sống không gia đình, đó là đích đến cuối cùng vô thượng của lối sống thánh thiện—người ấy sẽ tự mình *hiểu biết trực tiếp* và *tự mình chứng nghiệm* ngay trong đời hiện tại, đạt đến và an trú trong sáu năm. Năm năm ... bốn năm ... ba năm ... hai năm ... một năm. Hãy để qua một bên một năm, này Nigrodha. Hãy để một người có trí tuệ đến đây, không gian xảo, không lừa dối, có bản chất ngay thẳng, Ta sẽ hướng dẫn, Ta sẽ giảng dạy *Điều dạy*. Thực hành đúng như lời hướng dẫn—mục đích mà các thiện nam tử xuất gia từ bỏ gia đình, sống không gia đình, đó là đích đến cuối cùng vô thượng của lối sống thánh thiện—người ấy sẽ tự mình *hiểu biết trực tiếp* và *tự mình chứng nghiệm* ngay trong đời hiện tại, đạt đến và an trú trong bảy tháng. Hãy để qua một bên bảy tháng, này Nigrodha ... sáu tháng ... năm tháng ... bốn tháng ... ba tháng ... hai tháng ... một tháng ... nửa tháng. Hãy để qua một bên nửa tháng, này Nigrodha. Hãy để một người có trí tuệ đến đây, không gian xảo, không lừa dối, có bản chất ngay thẳng, Ta sẽ hướng dẫn, Ta sẽ giảng dạy *Điều dạy*. Thực hành đúng như lời hướng dẫn—mục đích mà các thiện nam tử xuất gia từ bỏ gia đình, sống không gia đình, đó là đích đến cuối cùng vô thượng của lối sống thánh thiện—người ấy sẽ tự mình *hiểu biết trực tiếp* và *tự mình chứng nghiệm* ngay trong đời hiện tại, đạt đến và an trú trong bảy ngày'.
 
 <!--pg-->
-## 6. Sự bối rối của các du sĩ (Paribbājakānaṁpajjhāyana)
-
+## 6. Sự bối rối của các du sĩ (Paribbājakānaṁpajjhāyana){#6}
 Có thể các ông nghĩ rằng, này Nigrodha: 'Sa-môn Gotama nói như vậy vì muốn có học trò'. Nhưng các ông không nên nhìn nhận điều đó như vậy, này Nigrodha. Ai là đạo sư của các ông, người đó vẫn cứ là đạo sư của các ông.
 
 Có thể các ông nghĩ rằng, này Nigrodha: 'Sa-môn Gotama nói như vậy vì muốn chúng ta từ bỏ bài giảng của mình'. Nhưng các ông không nên nhìn nhận điều đó như vậy, này Nigrodha. Bài giảng nào là của các ông, bài giảng đó vẫn cứ là của các ông.

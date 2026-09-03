@@ -1,0 +1,9 @@
+# GHI CHÚ CHO ẤN BẢN LẦN THỨ BA
+
+Trong Ấn bản lần thứ ba của cuốn sách nay đã trở thành kinh điển *Cuộc đời Đức Phật* của Tỳ-kheo Ñāṇamoli, một vài điểm chưa nhất quán trong cách dịch ở các ấn bản trước đã được khắc phục. Đồng thời, một số ít cấu trúc câu diễn đạt còn lủng củng cũng đã được chỉnh sửa lại cho mượt mà hơn. Thêm vào đó, một số thuật ngữ giáo lý Pāli phổ biến từng được tác giả dịch nghĩa nay sẽ được giữ nguyên gốc tiếng Pāli. Lý do là vì những từ này đã trở nên rất đỗi quen thuộc với độc giả của dòng sách Phật giáo và hiện đã trở thành một phần không thể thiếu trong hệ thống thuật ngữ Phật pháp bằng tiếng Anh. Các thuật ngữ này bao gồm: "Buddha" (trước đây hầu như luôn được tác giả dịch là "Bậc Giác Ngộ" [the Enlightened One], cách dịch này đôi chỗ vẫn được giữ lại để tạo điểm nhấn); "Dhamma" (từng được tác giả dịch là "Quy luật" [Law]); "Sangha" (từng được dịch là "Cộng đồng" [Community]); và "Nibbāna" (thường được dịch trong ấn bản gốc là "sự dập tắt" [extinction]).
+
+Toàn bộ chú thích trong sách đều được gom lại và đặt ở phần cuối sách. Những chú thích có ký hiệu "(Nyp.)" ở cuối là của Tỳ-kheo Nyanaponika, còn ký hiệu "(BB)" là của chính tôi. Tất cả các chú thích còn lại đều là của tác giả.
+
+Một điểm mới nữa trong ấn bản lần này là phần Danh mục Nguồn tài liệu (List of Sources). Phần này sẽ giúp những người nghiên cứu kinh điển Pāli dễ dàng tra cứu và tìm lại các đoạn kinh quen thuộc mà họ từng biết qua các tài liệu khác. Nền tảng ban đầu của danh mục này đã được Tỳ-kheo Ñāṇajivako biên soạn từ nhiều năm trước, nhưng nay đã được chúng tôi bổ sung và mở rộng để mang tính đầy đủ và bao quát nhất có thể.
+
+TỲ-KHEO BODHI

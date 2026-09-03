@@ -1,5 +1,5 @@
 # MN 86. Về Angulimāla
-***(Kinh Angulimāla - Angulimāla Sutta)***
+***(Angulimāla Sutta)***
 
 1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn cây Kỳ-đà (Jeta's Grove), khu vườn của ông Cấp Cô Độc (Anāthapiṇḍika).
 
@@ -17,32 +17,33 @@ Lần thứ hai... Lần thứ ba, những người chăn bò, chăn cừu, và 
 
 Lúc đó, tên cướp Angulimāla nghĩ: "Những vị sa môn này, những người con của dòng họ Thích Ca (Sakyans), nói lời chân thật, khẳng định sự thật; nhưng vị sa môn này vẫn đang đi mà lại nói: 'Ta đã dừng rồi, Angulimāla, ngươi cũng hãy dừng lại đi.' Hay là ta thử hỏi vị sa môn này xem sao."
 
+<!--pg-->
 6\.  Rồi tên cướp Angulimāla nói với Đức Thế Tôn bằng những câu kệ:
 
-"Này sa môn, ngài đang đi, lại bảo tôi ngài đã dừng;
-Còn tôi đã dừng đây, ngài lại bảo tôi chưa dừng.
-Tôi xin hỏi ngài, ôi sa môn, ý nghĩa là gì đây:
-Sao ngài đã dừng rồi, mà tôi thì lại chưa?"
-
-"Angulimāla, Ta đã dừng lại mãi mãi,
-Ta đã từ bỏ bạo lực đối với chúng sinh;
-Còn ngươi không tự chế (restraint - saṃvara - sự tự kiểm soát, tự kiềm chế, không làm điều ác) đối với mọi loài đang sống:
-Đó là vì sao Ta đã dừng, còn ngươi thì chưa." [100]
-
-"Ôi, cuối cùng thì vị sa môn này, một bậc ẩn sĩ đáng kính,
-Đã vì ta mà đến khu rừng lớn này. [^821]
-Nghe kệ ngôn của ngài dạy về Chánh pháp (Dhamma - Giáo pháp của Đức Phật, sự thật),
-Con xin nguyện từ bỏ điều ác mãi mãi."
-
-Nói xong, tên cướp lấy gươm và vũ khí
-Ném chúng xuống vực sâu thăm thẳm;
-Tên cướp đảnh lễ dưới chân Đấng Thiện Thệ (Sublime One - một danh hiệu của Đức Phật, bậc đã đi đến sự tốt đẹp),
-Và ngay lúc đó xin được xuất gia (going forth - pabbajjā - từ bỏ đời sống gia đình để tu hành theo giáo pháp).
-
-Đấng Giác Ngộ, Bậc Thánh Trí đầy lòng bi mẫn,
-Bậc Thầy của thế giới cùng chư thiên,
-Nói với ông bằng những lời này: "Hãy đến, tỳ kheo (bhikkhu - nhà sư Phật giáo đã thọ giới cụ túc)."
-Và như thế, ông đã trở thành một vị tỳ kheo. [^822]
+> "Này sa môn, ngài đang đi, lại bảo tôi ngài đã dừng;\
+> Còn tôi đã dừng đây, ngài lại bảo tôi chưa dừng.\
+> Tôi xin hỏi ngài, ôi sa môn, ý nghĩa là gì đây:\
+> Sao ngài đã dừng rồi, mà tôi thì lại chưa?"
+> 
+> "Angulimāla, Ta đã dừng lại mãi mãi,\
+> Ta đã từ bỏ bạo lực đối với chúng sinh;\
+> Còn ngươi không tự chế đối với mọi loài đang sống:\
+> Đó là vì sao Ta đã dừng, còn ngươi thì chưa." [100]
+> 
+> "Ôi, cuối cùng thì vị sa môn này, một bậc ẩn sĩ đáng kính,\
+> Đã vì ta mà đến khu rừng lớn này. [^821]\
+> Nghe kệ ngôn của ngài dạy về Chánh pháp,\
+> Con xin nguyện từ bỏ điều ác mãi mãi."
+> 
+> Nói xong, tên cướp lấy gươm và vũ khí\
+> Ném chúng xuống vực sâu thăm thẳm;
+> Tên cướp đảnh lễ dưới chân Đấng Thiện Thệ,\
+> Và ngay lúc đó xin được xuất gia .
+> 
+> Đấng Giác Ngộ, Bậc Thánh Trí đầy lòng bi mẫn,\
+> Bậc Thầy của thế giới cùng chư thiên,\
+> Nói với ông bằng những lời này: "Hãy đến, tỳ kheo."\
+> Và như thế, ông đã trở thành một vị tỳ kheo. [^822]
 
 7\.  Sau đó, Đức Thế Tôn bắt đầu cuộc du hành trở về Xá-vệ cùng với Angulimāla làm thị giả. Đi qua nhiều chặng đường, cuối cùng Ngài đã về đến Xá-vệ, và Ngài trú tại Xá-vệ trong Vườn cây Kỳ-đà, khu vườn của ông Cấp Cô Độc.
 
@@ -94,86 +95,87 @@ Sau khi đi khất thực ở Xá-vệ trở về, dùng bữa xong, ngài đế
 
 17\. Rồi vào buổi sáng, Tôn giả Angulimāla đắp y, mang bát, vào thành Xá-vệ để khất thực. Bấy giờ, có người ném một cục đất trúng vào thân Tôn giả Angulimāla, người khác ném một cây gậy trúng vào thân ngài, và người khác nữa ném một mảnh sành trúng vào thân ngài. Thế rồi, với đầu bị thương chảy máu, bát bị vỡ, và y bị rách, Tôn giả Angulimāla đi đến chỗ Đức Thế Tôn. Đức Thế Tôn thấy ngài từ xa đi tới liền bảo: "Hãy chịu đựng, này Bà-la-môn! Hãy chịu đựng, này Bà-la-môn! Ông đang trải nghiệm ngay tại đây và bây giờ kết quả của những nghiệp (deeds - kamma - hành động có chủ ý và quả báo hay kết quả của hành động đó) mà vì chúng ông có thể đã bị đọa đày trong địa ngục (hell - niraya - cõi khổ đau cùng cực trong các cõi tái sinh) nhiều năm, nhiều trăm năm, nhiều ngàn năm." [^824]
 
+<!--pg-->
 18\. Sau đó, khi Tôn giả Angulimāla đang độc cư, an hưởng niềm hạnh phúc giải thoát (bliss of deliverance - vimuttisukha - sự an lạc do giải thoát khỏi phiền não), ngài đã thốt lên những lời cảm hứng này: [^825]
 
-"Người nào trước sống buông lung (negligence - pamāda - sự lơ là, thiếu chú tâm, phóng dật)
-Sau không buông lung nữa,
-Người ấy soi sáng thế gian này
-Như trăng thoát khỏi mây che.
-
-Người nào lấy thiện nghiệp (wholesome deeds - kusala kamma - hành động tốt lành dựa trên sự không tham, không sân, không si) lấp bù
-Những ác nghiệp đã làm,
-Người ấy soi sáng thế gian này
-Như trăng thoát khỏi mây che.
-
-Vị tỳ kheo trẻ tuổi
-Nỗ lực theo lời Phật dạy,
-Người ấy soi sáng thế gian này
-Như trăng thoát khỏi mây che.
-
-Mong kẻ oán thù tôi nghe được lời Chánh pháp,
-Mong họ tận tâm theo lời Phật dạy,
-Mong kẻ oán thù tôi thân cận bậc thiện nhân
-Là những người giúp người khác chấp nhận Chánh pháp.
-[105] Mong kẻ oán thù tôi thỉnh thoảng lắng tai nghe
-Và nghe Pháp về nhẫn nhục (forbearance - khanti - sự chịu đựng, kiên nhẫn trước khó khăn và lời xúc phạm),
-Về những người tán thán lòng từ ái (kindness - mettā - lòng yêu thương, mong muốn chúng sinh được an lạc),
-Và mong họ thực hành theo Pháp ấy bằng những hành vi từ ái.
-
-Vì chắc chắn khi đó họ sẽ không muốn hại tôi,
-Cũng không nghĩ đến việc hại các chúng sinh khác,
-Vậy những ai muốn bảo vệ tất cả, dù yếu hay mạnh,
-Mong họ đạt được sự bình an vô thượng (all-surpassing peace - anuttaraṃ santiṃ - sự an lạc cao nhất, Niết-bàn).
-
-Người làm ống dẫn nước thì dẫn nước,
-Người làm tên thì uốn thẳng cây tên,
-Người thợ mộc thì đẽo gọt khúc gỗ,
-Còn bậc trí thì tự điều phục (tame - dameti - chế ngự, rèn luyện bản thân) mình.
-
-Có kẻ dùng roi gậy để điều phục,
-Có kẻ dùng móc sắt, có kẻ dùng roi vọt;
-Nhưng ta được điều phục bởi một Đấng như vậy
-Người không cần gậy cũng không cần khí giới.
-
-'Vô Hại' (Harmless - Ahiṃsaka - Không làm hại) là tên ta mang,
-Dù xưa kia ta từng 'Hữu Hại'. [^826]
-Tên ta mang hôm nay mới là thật:
-Ta không làm hại bất kỳ chúng sinh nào.
-
-Và dù xưa ta từng sống như tên cướp
-Với cái tên 'Tràng Hoa Ngón Tay' (Finger-garland - Angulimāla),
-Bị dòng đời thác lũ cuốn trôi,
-Ta đã đến quy y (refuge - saraṇa - nương tựa vào Tam Bảo: Phật, Pháp, Tăng) với Đức Phật.
-
-Và dù xưa ta từng tay vấy máu
-Với cái tên 'Tràng Hoa Ngón Tay,'
-Hãy xem nơi nương tựa ta đã tìm thấy:
-Dây ràng buộc tái sinh (bond of being - bhavasaṃyojana - những sợi dây trói buộc chúng sinh vào vòng luân hồi sinh tử) đã bị chặt đứt.
-
-Dù ta đã làm nhiều nghiệp dẫn đến
-Tái sinh trong các đường ác (evil realms - apāya/duggati - các cõi khổ như địa ngục, ngạ quỷ, súc sinh),
-Nhưng quả báo của chúng đã đến với ta ngay bây giờ,
-Nên ta thọ thực không nợ (eat free from debt - anaṇo bhuñjati - dùng vật cúng dường mà không mắc nợ thí chủ do đã tu hành thanh tịnh, xứng đáng với sự cúng dường). [^827]
-
-Họ là kẻ ngu si và không có trí tuệ
-Khi buông thả mình trong sự buông lung,
-Nhưng người trí bảo vệ sự không buông lung (diligence - appamāda - sự không lơ là, tinh tấn, chú tâm)
-Và xem đó là tài sản quý giá nhất của mình.
-
-Đừng buông thả trong sự buông lung
-Cũng đừng tìm vui trong dục lạc (sensual pleasures - kāma - sự ham muốn và hưởng thụ các đối tượng của năm giác quan: sắc, thanh, hương, vị, xúc),
-Mà hãy tinh cần thiền định (meditate - jhāyati - thực hành các phương pháp tập trung tâm ý để phát triển định và tuệ)
-Để đạt đến phúc lạc cao tột (perfect bliss - paramasukha - hạnh phúc tối thượng, tức Niết-bàn).
-
-Vậy chào mừng lựa chọn đó của ta
-Và hãy để nó đứng vững, đó không phải là lựa chọn sai lầm;
-Trong tất cả các Pháp mà con người biết đến
-Ta đã đến được với Pháp cao tột nhất.
-
-Vậy chào mừng lựa chọn đó của ta
-Và hãy để nó đứng vững, đó không phải là lựa chọn sai lầm;
-Ta đã đạt được tam minh (triple knowledge - tevijjā - ba loại trí tuệ siêu việt của bậc A-la-hán: Túc mạng minh - biết các kiếp quá khứ, Thiên nhãn minh - biết sự sinh tử của chúng sinh, Lậu tận minh - biết sự đoạn trừ các lậu hoặc/phiền não)
-Và đã làm xong tất cả những gì Đức Phật dạy."
+> "Người nào trước sống buông lung\
+> Sau không buông lung nữa,\
+> Người ấy soi sáng thế gian này\
+> Như trăng thoát khỏi mây che.
+> 
+> Người nào lấy thiện nghiệp lấp bù\
+> Những ác nghiệp đã làm,\
+> Người ấy soi sáng thế gian này\
+> Như trăng thoát khỏi mây che.
+> 
+> Vị tỳ kheo trẻ tuổi\
+> Nỗ lực theo lời Phật dạy,\
+> Người ấy soi sáng thế gian này\
+> Như trăng thoát khỏi mây che.
+> 
+> Mong kẻ oán thù tôi nghe được lời Chánh pháp,\
+> Mong họ tận tâm theo lời Phật dạy,\
+> Mong kẻ oán thù tôi thân cận bậc thiện nhân\
+> Là những người giúp người khác chấp nhận Chánh pháp.\
+> [105] Mong kẻ oán thù tôi thỉnh thoảng lắng tai nghe\
+> Và nghe Pháp về nhẫn nhục,\
+> Về những người tán thán lòng từ ái,\
+> Và mong họ thực hành theo Pháp ấy bằng những hành vi từ ái.
+> 
+> Vì chắc chắn khi đó họ sẽ không muốn hại tôi,\
+> Cũng không nghĩ đến việc hại các chúng sinh khác,\
+> Vậy những ai muốn bảo vệ tất cả, dù yếu hay mạnh,\
+> Mong họ đạt được sự bình an vô thượng.
+> 
+> Người làm ống dẫn nước thì dẫn nước,\
+> Người làm tên thì uốn thẳng cây tên,\
+> Người thợ mộc thì đẽo gọt khúc gỗ,\
+> Còn bậc trí thì tự điều phục.
+> 
+> Có kẻ dùng roi gậy để điều phục,\
+> Có kẻ dùng móc sắt, có kẻ dùng roi vọt;\
+> Nhưng ta được điều phục bởi một Đấng như vậy\
+> Người không cần gậy cũng không cần khí giới.
+> 
+> 'Vô Hại' (Harmless - Ahiṃsaka - Không làm hại) là tên ta mang,\
+> Dù xưa kia ta từng 'Hữu Hại'. [^826]\
+> Tên ta mang hôm nay mới là thật:\
+> Ta không làm hại bất kỳ chúng sinh nào.
+> 
+> Và dù xưa ta từng sống như tên cướp\
+> Với cái tên 'Tràng Hoa Ngón Tay' (Finger-garland - Angulimāla),\
+> Bị dòng đời thác lũ cuốn trôi,\
+> Ta đã đến quy y với Đức Phật.
+> 
+> Và dù xưa ta từng tay vấy máu\
+> Với cái tên 'Tràng Hoa Ngón Tay,'\
+> Hãy xem nơi nương tựa ta đã tìm thấy:\
+> Dây ràng buộc tái sinh đã bị chặt đứt.
+> 
+> Dù ta đã làm nhiều nghiệp dẫn đến\
+> Tái sinh trong các đường ác,\
+> Nhưng quả báo của chúng đã đến với ta ngay bây giờ,
+> Nên ta thọ thực không nợ. [^827]
+> 
+> Họ là kẻ ngu si và không có trí tuệ\
+> Khi buông thả mình trong sự buông lung,\
+> Nhưng người trí bảo vệ sự không buông lung\
+> Và xem đó là tài sản quý giá nhất của mình.
+> 
+> Đừng buông thả trong sự buông lung\
+> Cũng đừng tìm vui trong dục lạc,\
+> Mà hãy tinh cần thiền định\
+> Để đạt đến phúc lạc cao tột.
+> 
+> Vậy chào mừng lựa chọn đó của ta\
+> Và hãy để nó đứng vững, đó không phải là lựa chọn sai lầm;\
+> Trong tất cả các Pháp mà con người biết đến\
+> Ta đã đến được với Pháp cao tột nhất.\
+> 
+> Vậy chào mừng lựa chọn đó của ta\
+> Và hãy để nó đứng vững, đó không phải là lựa chọn sai lầm;\
+> Ta đã đạt được tam minh\
+> Và đã làm xong tất cả những gì Đức Phật dạy."
 
 <!--pg-->
 Từ ngữ:

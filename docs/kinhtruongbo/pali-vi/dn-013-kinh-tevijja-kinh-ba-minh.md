@@ -17,8 +17,7 @@ Thanh niên Vāseṭṭha không thể thuyết phục được thanh niên Bhā
 "Vâng, thưa bạn," thanh niên Bhāradvāja đáp lời thanh niên Vāseṭṭha.
 
 <!--pg-->
-## 1. Cuộc Tranh Luận Về Các Con Đường (Maggāmaggakathā)
-
+## 1. Cuộc Tranh Luận Về Các Con Đường (Maggāmaggakathā){#1}
 Sau đó, hai thanh niên Vāseṭṭha và Bhāradvāja đi đến chỗ Thế Tôn; sau khi đến, họ chào hỏi Thế Tôn. Sau những lời chào hỏi thân hữu và thăm hỏi xã giao, họ ngồi xuống một bên. Ngồi một bên, thanh niên Vāseṭṭha thưa với Thế Tôn: "Thưa tôn giả Gotama, ở đây, khi chúng tôi đang đi dạo và tản bộ, một cuộc tranh luận nảy sinh về các con đường khác nhau. Tôi nói như sau: 'Đây mới là con đường thẳng, đây là con đường trực tiếp, dẫn đến giải thoát, dẫn người thực hành đến *sự hòa nhập cùng Phạm thiên*, chính là con đường được giảng dạy bởi Bà-la-môn Pokkharasāti.' Còn thanh niên Bhāradvāja lại nói: 'Đây mới là con đường thẳng, đây là con đường trực tiếp, dẫn đến giải thoát, dẫn người thực hành đến *sự hòa nhập cùng Phạm thiên*, chính là con đường được giảng dạy bởi Bà-la-môn Tārukkha.' Thưa tôn giả Gotama, đây là điểm bất đồng, đây là điểm tranh cãi, đây là điểm khác biệt."
 
 "Này Vāseṭṭha, có phải ngươi nói như sau: 'Đây mới là con đường thẳng, đây là con đường trực tiếp, dẫn đến giải thoát, dẫn người thực hành đến *sự hòa nhập cùng Phạm thiên*, chính là con đường được giảng dạy bởi Bà-la-môn Pokkharasāti.' Còn thanh niên Bhāradvāja lại nói: 'Đây mới là con đường thẳng, đây là con đường trực tiếp, dẫn đến giải thoát, dẫn người thực hành đến *sự hòa nhập cùng Phạm thiên*, chính là con đường được giảng dạy bởi Bà-la-môn Tārukkha.' Vậy thì, này Vāseṭṭha, các ngươi bất đồng về điều gì, tranh cãi về điều gì, khác biệt về điều gì?"
@@ -28,8 +27,7 @@ Sau đó, hai thanh niên Vāseṭṭha và Bhāradvāja đi đến chỗ Thế 
 Thưa tôn giả Gotama, giống như gần một ngôi làng hay thị trấn có nhiều con đường khác nhau, nhưng tất cả đều hội tụ về ngôi làng đó; cũng vậy, thưa tôn giả Gotama, mặc dù các Bà-la-môn chỉ dạy nhiều con đường khác nhau—các Bà-la-môn Addhariyā, các Bà-la-môn Tittiriyā, các Bà-la-môn Chandokā, các Bà-la-môn Bavhārijjhā—nhưng liệu tất cả những con đường đó có dẫn đến giải thoát, dẫn người thực hành đến *sự hòa nhập cùng Phạm thiên* hay không?"
 
 <!--pg-->
-## 2. Chất Vấn Thanh Niên Vāseṭṭha (Vāseṭṭhamāṇavānuyoga)
-
+## 2. Chất Vấn Thanh Niên Vāseṭṭha (Vāseṭṭhamāṇavānuyoga){#2}
 "Ngươi nói rằng chúng dẫn đến đó sao, Vāseṭṭha?"
 "Tôi nói rằng chúng dẫn đến đó, thưa tôn giả Gotama."
 "Ngươi nói rằng chúng dẫn đến đó sao, Vāseṭṭha?"
@@ -78,8 +76,7 @@ Ngươi nghĩ sao, Vāseṭṭha, sự việc đã như vậy, thì lời nói c
 "Tốt lắm, Vāseṭṭha. Việc các *Bà-la-môn thông thạo ba kinh Veda* giảng dạy con đường dẫn đến sự hòa nhập với đấng mà họ không biết, không thấy... điều đó là không thể xảy ra.
 
 <!--pg-->
-### 2.1. Ví Dụ Về Người Đẹp Nhất Xứ (Janapadakalyāṇīupamā)
-
+### 2.1. Ví Dụ Về Người Đẹp Nhất Xứ (Janapadakalyāṇīupamā){#2.1}
 Này Vāseṭṭha, giả sử có một người đàn ông nói như sau: 'Tôi khao khát, tôi yêu say đắm người con gái đẹp nhất trong xứ này.'
 
 Người ta mới hỏi anh ta: 'Này anh bạn, người con gái đẹp nhất xứ mà anh khao khát và yêu say đắm đó, anh có biết cô ấy thuộc giai cấp Sát-đế-lỵ, Bà-la-môn, Phệ-xá hay Thủ-đà-la không?' Khi được hỏi vậy, anh ta trả lời: 'Không.'
@@ -99,8 +96,7 @@ Ngươi nghĩ sao, Vāseṭṭha, sự việc đã như vậy, thì lời nói c
 "Tốt lắm, Vāseṭṭha. Việc các *Bà-la-môn thông thạo ba kinh Veda* giảng dạy con đường dẫn đến sự hòa nhập với đấng mà họ không biết, không thấy... điều đó là không thể xảy ra.
 
 <!--pg-->
-### 2.2. Ví Dụ Về Cầu Thang (Nisseṇīupamā)
-
+### 2.2. Ví Dụ Về Cầu Thang (Nisseṇīupamā){#2.2}
 Này Vāseṭṭha, giả sử có một người đàn ông xây một chiếc cầu thang tại ngã tư đường để leo lên một tòa lâu đài.
 
 Người ta mới hỏi anh ta: 'Này anh bạn, tòa lâu đài mà anh đang xây cầu thang để leo lên đó, anh có biết nó nằm ở hướng đông, hướng nam, hướng tây hay hướng bắc; nó cao, thấp hay trung bình không?'
@@ -118,8 +114,7 @@ Ngươi nghĩ sao, Vāseṭṭha, sự việc đã như vậy, thì lời nói c
 "Tốt lắm, Vāseṭṭha. Việc các *Bà-la-môn thông thạo ba kinh Veda* giảng dạy con đường dẫn đến sự hòa nhập với đấng mà họ không biết, không thấy... điều đó là không thể xảy ra.
 
 <!--pg-->
-### 2.3. Ví Dụ Về Sông Aciravatī (Aciravatīnadīupamā)
-
+### 2.3. Ví Dụ Về Sông Aciravatī (Aciravatīnadīupamā){#2.3}
 Này Vāseṭṭha, giả sử con sông Aciravatī này nước đầy tràn bờ đến mức con quạ có thể uống được. Rồi có một người đàn ông đi đến, muốn sang bờ bên kia, tìm kiếm bờ bên kia, hướng đến bờ bên kia, muốn vượt qua bờ bên kia. Anh ta đứng ở bờ bên này và gọi bờ bên kia: 'Hãy qua đây, bờ bên kia! Hãy qua đây, bờ bên kia!'
 
 Ngươi nghĩ sao, Vāseṭṭha, liệu do sự kêu gọi, do sự cầu xin, do sự mong ước, hay do sự vui thích của người đàn ông đó mà bờ bên kia của sông Aciravatī sẽ chạy sang bờ bên này không?"
@@ -150,8 +145,7 @@ Ngươi nghĩ sao, Vāseṭṭha, liệu người đàn ông đó có thể từ
 Các *Bà-la-môn thông thạo ba kinh Veda* bị bao vây, bị che lấp, bị bao phủ, bị trùm kín bởi năm *sự làm Mờ Yếu* này. Này Vāseṭṭha, việc các *Bà-la-môn thông thạo ba kinh Veda* từ bỏ những phẩm chất làm nên một Bà-la-môn, thực hành những phẩm chất không làm nên một Bà-la-môn, bị bao vây, bị che lấp, bị bao phủ, bị trùm kín bởi năm *sự làm Mờ Yếu* này, mà sau khi thân hoại mạng chung, họ sẽ được sinh ra và hòa nhập cùng Phạm thiên—điều đó là không thể xảy ra.
 
 <!--pg-->
-## 3. So Sánh Các Phẩm Chất (Saṁsandanakathā)
-
+## 3. So Sánh Các Phẩm Chất (Saṁsandanakathā){#3}
 Ngươi nghĩ sao, Vāseṭṭha, ngươi đã nghe các vị Bà-la-môn trưởng lão, lớn tuổi, các vị thầy và thầy của thầy nói thế nào: Phạm thiên *có bám giữ sở hữu* (hữu sở hữu / sapariggaho) hay *không bám giữ sở hữu* (vô sở hữu / apariggaho)?"
 "Là *không bám giữ sở hữu*, thưa tôn giả Gotama."
 
@@ -210,8 +204,7 @@ Khi được nói như vậy, thanh niên Vāseṭṭha thưa với Thế Tôn: 
 "Vâng, thưa ngài," thanh niên Vāseṭṭha đáp lời Thế Tôn.
 
 <!--pg-->
-## 4. Giảng Dạy Con Đường Đến Cõi Phạm Thiên (Brahmalokamaggadesanā)
-
+## 4. Giảng Dạy Con Đường Đến Cõi Phạm Thiên (Brahmalokamaggadesanā){#4}
 Thế Tôn nói như sau:
 
 "Ở đây, này Vāseṭṭha, một *Người Đến Như Vậy* xuất hiện ở đời, là *bậc Xứng Đáng*, *bậc Tự Giác Ngộ Hoàn Toàn* [...] Như vậy, này Vāseṭṭha, vị tỳ-kheo thành tựu *lối sống đạo đức* (giới đức / sīlasampanno) [...] Khi vị ấy thấy năm *sự làm Mờ Yếu* này đã được từ bỏ trong chính mình, sự vui sướng sinh khởi; từ sự vui sướng, *hân hoan* (hỷ / pīti) sinh khởi; khi tâm *hân hoan*, cơ thể trở nên *lắng dịu* (khinh an / passambhati); với cơ thể *lắng dịu*, vị ấy cảm nhận *hạnh phúc* (lạc / sukha); với tâm *hạnh phúc*, tâm trở nên *định* (định / samādhiyati).

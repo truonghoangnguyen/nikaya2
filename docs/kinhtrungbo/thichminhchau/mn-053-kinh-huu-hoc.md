@@ -1,10 +1,12 @@
-    # 53. KINH HỮU HỌC
+---
+tags:
+ - các bước tu tập I
+---
+# 53. KINH HỮU HỌC
 
-**53. KINH HỮU HỌC**
 ***(Sekha Sutta)***
 
 **Như vầy tôi nghe.**
-
 Một thời Thế Tôn sống giữa các Sakya (Thích-ca), thành Kapilavatthu, tại tinh xá Nigrodha.
 
 Lúc bấy giờ, một ngôi giảng đường mới được dựng lên không bao lâu cho các Sakya ở Kapilavatthu, và
@@ -28,8 +30,7 @@ Thế Tôn:
 thời.
 
 Rồi Thế Tôn đắp y, cầm y bát, cùng với chúng Tỷ-kheo Tăng đi đến giảng đường, sau khi đến Ngài rửa
-chân, bước vào ngôi giảng đường và ngồi xuống, dựa vào cột ở giữa, mặt hướng phía Ðông. Chúng Tỷ-
-kheo Tăng, sau khi rửa chân, bước vào giảng đường, ngồi dựa vào bức tường phía Tây, mặt hướng về
+chân, bước vào ngôi giảng đường và ngồi xuống, dựa vào cột ở giữa, mặt hướng phía Ðông. Chúng Tỷ-kheo Tăng, sau khi rửa chân, bước vào giảng đường, ngồi dựa vào bức tường phía Tây, mặt hướng về
 phía Ðông, với Thế Tôn ngồi trước họ. Các Sakya ở thành Kapilavatthu cũng rửa chân, bước vào ngôi
 giảng đường, rồi ngồi xuống dựa vào bức tường phía Ðông, mặt hướng phía Tây, với Thế Tôn ngồi
 trước mặt. Rồi Thế Tôn cho đến quá nửa đêm, thuyết pháp, khai thị, khích lệ, làm cho phấn khởi, làm

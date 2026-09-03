@@ -1,5 +1,5 @@
 import Theme from 'vitepress/theme'
-import { h, onMounted, watch } from 'vue'
+import { h, onMounted, watch, nextTick } from 'vue'
 import { useRoute } from 'vitepress'
 
 // import TranslationCompare from '../components/TranslationCompare.vue'
@@ -35,30 +35,43 @@ export default {
       const full = path + window.location.search + window.location.hash
       localStorage.setItem('search-back-url', full)
     }
+    const scrollToHash = async () => {
+      if (typeof window === 'undefined') return
+
+      const hash = window.location.hash
+      if (!hash) return
+
+      const id = decodeURIComponent(hash.slice(1))
+
+      // Đợi Vue/VitePress render page mới
+      await nextTick()
+
+      setTimeout(() => {
+        const el = document.getElementById(id)
+
+        if (el) {
+          el.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+          })
+        }
+      }, 100)
+    }
 
     onMounted(() => {
-      // Lưu path lần đầu cold load
+      // Cold load
       saveBackUrl()
-
-      // Xử lý lần đầu cold load (sau khi hydration xong)
-      const scrollToHash = () => {
-        const hash = window.location.hash
-        if (hash) {
-          // Đợi hydration + render hoàn tất
-          setTimeout(() => {
-
-            const id = decodeURIComponent(hash.slice(1))
-            const el = document.getElementById(id)  // ✅ không dùng querySelector
-            el?.scrollIntoView({ behavior: 'smooth' })
-          }, 100) // tăng lên 200 nếu vẫn chưa ăn
-        }
-      }
-
       scrollToHash()
     })
 
     // SPA navigation: cập nhật mỗi lần đổi route (trừ vào /search)
-    watch(() => route.path, saveBackUrl)
+    watch(
+      () => [route.path, route.hash],
+      async () => {
+        saveBackUrl()
+        await scrollToHash()
+      }
+    )
   },
   enhanceApp({ app }) {
     //app.component('TranslationCompare', TranslationCompare)

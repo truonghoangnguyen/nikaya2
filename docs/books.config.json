@@ -42,6 +42,13 @@
       "description": "Đức Phật Lịch Sử H.W. Schumann (1982) M. O'C. Walshe dịch sang Anh ngữ (1989) Nguyên Tâm Trần Phương Lan dịch Việt (1997)",
       "cover": "/covers/dpls-bia.webp",
       "link": "/ducphatlichsu/"
+    },
+    {
+      "id": "the-life-of-the-buddha",
+      "title": "Cuộc Đời Đức Phật",
+      "description": "Cuộc Đời Đức Phật - The Life Of The Buddha",
+      "cover": "/covers/the-life-of-the-buddha.webp", 
+      "link": "/the-life-of-the-buddha/"
     }
   ]
 }

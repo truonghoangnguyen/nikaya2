@@ -2,8 +2,7 @@
 *(Sampasādanīyasutta)*\
 [Bản tóm tắt→](/kinhtruongbo/pali-vi/sum/dn-sum-028){target="_blank" class="note-link" }
 
-## 1. Tiếng rống sư tử của Sāriputta (Sāriputtasīhanāda)
-
+## 1. Tiếng rống sư tử của Sāriputta (Sāriputtasīhanāda){#1}
 Tôi nghe như vầy — một thời Thế Tôn trú tại Nāḷandā, trong rừng xoài Pāvārika. Khi ấy, Tôn giả Sāriputta đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Sāriputta thưa với Thế Tôn điều này:
 
 "Bạch Thế Tôn, con có *niềm tin tuyệt đối* (tịnh tín - niềm tin trong sáng / pasanno) vào Thế Tôn như thế này: không đã có, không sẽ có, và hiện tại không có một sa-môn hay bà-la-môn nào khác có *hiểu hết toàn bộ* (thắng tri / abhiññā) cao hơn Thế Tôn về *sự giác ngộ hoàn toàn* (chánh giác / sambodhi)."
@@ -30,18 +29,15 @@ Cũng vậy, bạch Thế Tôn, con đã biết được *nguyên lý của Quy 
 
 Bạch Thế Tôn, ở đây con đã đi đến chỗ Thế Tôn để nghe về những *Quy luật*. Thế Tôn đã dạy *Quy luật* cho con, từ thấp đến cao, ngày càng tinh tế, phần đen và phần trắng đối chiếu nhau. Bạch Thế Tôn, khi Thế Tôn dạy *Quy luật* cho con từ thấp đến cao, ngày càng tinh tế, với sự phân biệt phần đen và phần trắng đối chiếu nhau như thế nào, thì theo đó con đạt được sự *hiểu hết toàn bộ* về *Quy luật*, đạt đến sự hoàn tất với *Quy luật* ấy trong các *Quy luật*; con có *niềm tin tuyệt đối* vào Bậc Đạo Sư: 'Thế Tôn là bậc Chánh Đẳng Giác, *Quy luật* được Thế Tôn khéo giảng dạy, Tăng chúng đệ tử đang thực hành đúng đắn.'
 
-### 1.1. Giảng dạy về những điều thiện (Kusaladhammadesanā)
-
+### 1.1. Giảng dạy về những điều thiện (Kusaladhammadesanā){#1.1}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *những điều thiện* (pháp thiện / kusalesu dhammesu). Ở đây, *những điều thiện* là như sau — *thiết lập chú tâm* ở bốn nơi, bốn *Siêng năng thiện* (tứ chánh cần / sammappadhānā), bốn *cổng thần thông* (tứ như ý túc / iddhipādā), *năm năng lực tinh thần* (ngũ căn / pañcindriyāni), *năm sức mạnh* (ngũ lực / pañca balāni), *Bảy Dấu hiệu Của Giác ngộ*, *Tám Bước Thiện* (bát chánh đạo / ariyo aṭṭhaṅgiko maggo). Ở đây, bạch Thế Tôn, vị tỳ kheo nhờ *cạn kiệt* (đoạn tận / khayā) các *nguồn ác* (lậu hoặc / āsava), tự mình *hiểu hết toàn bộ* và chứng ngộ ngay trong hiện tại sự giải thoát của tâm không còn *nguồn ác*, sự giải thoát qua trí tuệ, và an trú trong đó. Đây là điều vô thượng, bạch Thế Tôn, trong *những điều thiện*. Thế Tôn *hiểu hết toàn bộ* điều đó không sót chút nào; khi Thế Tôn đã *hiểu hết toàn bộ* không sót chút nào, thì không còn gì cao hơn để *hiểu hết toàn bộ* nữa, không có một sa-môn hay bà-la-môn nào khác có *hiểu hết toàn bộ* cao hơn Thế Tôn về điều này, tức là về *những điều thiện*.
 
 <!--pg-->
-### 1.2. Giảng dạy về sự gọi tên các trường giao tiếp (Āyatanapaṇṇattidesanā)
-
+### 1.2. Giảng dạy về sự gọi tên các trường giao tiếp (Āyatanapaṇṇattidesanā){#1.2}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *sự gọi tên các trường giao tiếp* (xứ thi thiết / āyatanapaṇṇattīsu). Bạch Thế Tôn, có sáu *trường* (xứ / āyatana) bên trong và bên ngoài này. Mắt và hình ảnh, tai và âm thanh, mũi và mùi, lưỡi và vị, thân và Xúc, *giác quan trí não* (ý căn / mano) và mọi *Điều* (pháp / dhammā). Đây là điều vô thượng, bạch Thế Tôn, trong *sự gọi tên các trường giao tiếp*. Thế Tôn *hiểu hết toàn bộ* điều đó không sót chút nào; khi Thế Tôn đã *hiểu hết toàn bộ* không sót chút nào, thì không còn gì cao hơn để *hiểu hết toàn bộ* nữa, không có một sa-môn hay bà-la-môn nào khác có *hiểu hết toàn bộ* cao hơn Thế Tôn về điều này, tức là về *sự gọi tên các trường giao tiếp*.
 
 <!--pg-->
-### 1.3. Giảng dạy về sự đi vào bào thai (Gabbhāvakkantidesanā)
-
+### 1.3. Giảng dạy về sự đi vào bào thai (Gabbhāvakkantidesanā){#1.3}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *sự đi vào bào thai* (thai tạng nhập / gabbhāvakkantīsu). Bạch Thế Tôn, có bốn *sự đi vào bào thai* này.
 
 Ở đây, bạch Thế Tôn, có người *không nhận biết rõ ràng* (asampajāno) khi đi vào bụng mẹ; *không nhận biết rõ ràng* khi ở trong bụng mẹ; *không nhận biết rõ ràng* khi chui ra khỏi bụng mẹ. Đây là *sự đi vào bào thai* thứ nhất.
@@ -55,8 +51,7 @@ Lại nữa, bạch Thế Tôn, ở đây có người *nhận biết rõ ràng*
 Đây là điều vô thượng, bạch Thế Tôn, trong *sự đi vào bào thai*.
 
 <!--pg-->
-### 1.4. Giảng dạy về cách thức đọc tâm (Ādesanavidhādesanā)
-
+### 1.4. Giảng dạy về cách thức đọc tâm (Ādesanavidhādesanā){#1.4}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *cách thức đọc tâm* (tha tâm thông / ādesanavidhāsu). Bạch Thế Tôn, có bốn *cách thức đọc tâm* này.
 
 Ở đây, bạch Thế Tôn, có người đọc tâm thông qua dấu hiệu (nimitta): 'Ý nghĩ của ông như thế này, ý nghĩ của ông như thế kia, trạng thái tâm của ông là như vậy.' Dù người ấy có đọc tâm nhiều lần, thì nó vẫn đọc đúng, không khác được. Đây là *cách thức đọc tâm* thứ nhất.
@@ -70,8 +65,7 @@ Lại nữa, bạch Thế Tôn, ở đây có người không đọc tâm thông
 Đây là điều vô thượng, bạch Thế Tôn, trong *cách thức đọc tâm*.
 
 <!--pg-->
-### 1.5. Giảng dạy về sự thành tựu về khả năng quan sát (Dassanasamāpattidesanā)
-
+### 1.5. Giảng dạy về sự thành tựu về khả năng quan sát (Dassanasamāpattidesanā){#1.5}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *sự thành tựu về khả năng quan sát* (kiến đạt / dassanasamāpattīsu). Bạch Thế Tôn, có bốn *sự thành tựu về khả năng quan sát* này.
 
 Ở đây, bạch Thế Tôn, có sa-môn hay bà-la-môn nhờ nhiệt tâm, nhờ nỗ lực, nhờ chuyên cần, nhờ *sáng suốt* (không phóng dật / appamāda), nhờ *tìm hiểu bản chất* (sammāmanasikāra) mà chạm đến trạng thái Định của tâm; khi tâm được Định như vậy, người ấy quan sát chính cơ thể này, từ lòng bàn chân trở lên, từ đỉnh đầu trở xuống, được bao bọc bởi lớp da, chứa đầy đủ loại bất tịnh: 'Trong cơ thể này có tóc, lông, móng, răng, da, thịt, gân, xương, tủy xương, thận, tim, gan, màng phổi, lá lách, phổi, ruột non, ruột già, thức ăn trong dạ dày, phân, mật, đờm, mủ, máu, mồ hôi, mỡ, nước mắt, mỡ da, nước bọt, nước mũi, dịch khớp, nước tiểu.' Đây là *sự thành tựu về khả năng quan sát* thứ nhất.
@@ -85,18 +79,15 @@ Lại nữa, bạch Thế Tôn, ở đây có sa-môn hay bà-la-môn nhờ nhi�
 Đây là điều vô thượng, bạch Thế Tôn, trong *sự thành tựu về khả năng quan sát*.
 
 <!--pg-->
-### 1.6. Giảng dạy về sự phân loại người (Puggalapaṇṇattidesanā)
-
+### 1.6. Giảng dạy về sự phân loại người (Puggalapaṇṇattidesanā){#1.6}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *sự phân loại người* (nhân thi thiết / puggalapaṇṇattīsu). Bạch Thế Tôn, có bảy hạng người này: người được giải thoát cả hai phần (ubhatobhāgavimutta), người được giải thoát qua trí tuệ (paññāvimutta), người chứng nghiệm qua cơ thể (kāyasakkhi), người đạt đến qua quan điểm (diṭṭhippatta), người được giải thoát qua niềm tin (saddhāvimutta), người đi theo *Quy luật* (dhammānusārī), người đi theo niềm tin (saddhānusārī). Đây là điều vô thượng, bạch Thế Tôn, trong *sự phân loại người*.
 
 <!--pg-->
-### 1.7. Giảng dạy về sự nỗ lực (Padhānadesanā)
-
+### 1.7. Giảng dạy về sự nỗ lực (Padhānadesanā){#1.7}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *sự nỗ lực* (tinh cần / padhānesu). Bạch Thế Tôn, có bảy *Dấu hiệu Của Giác ngộ* (thất giác chi) này: dấu hiệu *chú tâm* (niệm giác chi), dấu hiệu khả năng tìm hiểu-phân tích (trạch pháp giác chi), dấu hiệu Nỗ Lực (tinh tấn giác chi), dấu hiệu sự hân hoan (hỷ giác chi), dấu hiệu cơ thể lắng dịu (khinh an giác chi), dấu hiệu Định (định giác chi), dấu hiệu Tâm cân bằng (xả giác chi). Đây là điều vô thượng, bạch Thế Tôn, trong *sự nỗ lực*.
 
 <!--pg-->
-### 1.8. Giảng dạy về cách thức thực hành (Paṭipadādesanā)
-
+### 1.8. Giảng dạy về cách thức thực hành (Paṭipadādesanā){#1.8}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *cách thức thực hành* (hành đạo / paṭipadāsu).
 
 Bạch Thế Tôn, có bốn *cách thức thực hành* này:
@@ -110,15 +101,13 @@ Trong đó, bạch Thế Tôn, *cách thức thực hành* nào *đau khổ* v�
 Đây là điều vô thượng, bạch Thế Tôn, trong *cách thức thực hành*.
 
 <!--pg-->
-### 1.9. Giảng dạy về cách cư xử trong lời nói và các điều khác (Bhassasamācārādidesanā)
-
+### 1.9. Giảng dạy về cách cư xử trong lời nói và các điều khác (Bhassasamācārādidesanā){#1.9}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *cách cư xử trong lời nói* (ngôn ngữ sở hành / bhassasamācāre). Ở đây, bạch Thế Tôn, có người không nói lời dính líu đến nói dối, không nói lời chia rẽ, không nói lời vu khống, không nói lời sinh ra từ sự tranh cãi với mong muốn chiến thắng; người ấy suy nghĩ kỹ lưỡng rồi mới nói lời nói có giá trị lưu giữ, đúng thời điểm. Đây là điều vô thượng, bạch Thế Tôn, trong *cách cư xử trong lời nói*.
 
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về cách cư xử đạo đức của con người (purisasīlasamācāre). Ở đây, bạch Thế Tôn, có người chân thật và có niềm tin, không lừa đảo, không nịnh hót, không bóng gió, không chê bai, không dùng lợi lộc để tìm kiếm lợi lộc, *bảo vệ* (thu thúc / guttadvāro) các giác quan, biết chừng mực trong ăn uống, làm việc cân bằng, chuyên tâm vào sự tỉnh thức, không lười biếng, nỗ lực kiên trì, hay hành Thiền, có *chú tâm*, có khả năng ứng đối tốt, có trí tuệ nhanh nhạy, có sự kiên định, có sự hiểu biết, không *thèm khát (giddho) sự dễ chịu giác quan*, có *chú tâm* và sáng suốt. Đây là điều vô thượng, bạch Thế Tôn, trong cách cư xử đạo đức của con người.
 
 <!--pg-->
-### 1.10. Giảng dạy về cách thức hướng dẫn (Anusāsanavidhādesanā)
-
+### 1.10. Giảng dạy về cách thức hướng dẫn (Anusāsanavidhādesanā){#1.10}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *cách thức hướng dẫn* (giáo giới / anusāsanavidhāsu). Bạch Thế Tôn, có bốn *cách thức hướng dẫn* này —
 
 Bằng sự phân tích tận gốc rễ (yonisomanasikāra), Thế Tôn đánh giá cá nhân một người và biết rõ: 'Người này khi thực hành theo đúng như được hướng dẫn, qua việc *cạn kiệt* ba Xiềng Xích, sẽ trở thành bậc Nhập lưu (sotāpanno), không còn khả năng rơi vào cõi ác, chắc chắn hướng đến *sự giác ngộ hoàn toàn*.'
@@ -132,8 +121,7 @@ Bằng sự phân tích tận gốc rễ, Thế Tôn đánh giá cá nhân một
 Đây là điều vô thượng, bạch Thế Tôn, trong *cách thức hướng dẫn*.
 
 <!--pg-->
-### 1.11. Giảng dạy về Trí biết sự giải thoát của người khác (Parapuggalavimuttiñāṇadesanā)
-
+### 1.11. Giảng dạy về Trí biết sự giải thoát của người khác (Parapuggalavimuttiñāṇadesanā){#1.11}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Điều* về Trí tuệ biết sự giải thoát của người khác (parapuggalavimuttiñāṇe).
 
 Bằng sự phân tích tận gốc rễ, Thế Tôn đánh giá cá nhân một người và biết rõ: 'Người này đã *cạn kiệt* ba Xiềng Xích, sẽ trở thành bậc Nhập lưu, không còn khả năng rơi vào cõi ác, chắc chắn hướng đến *sự giác ngộ hoàn toàn*.'
@@ -145,8 +133,7 @@ Bằng sự phân tích tận gốc rễ, Thế Tôn đánh giá cá nhân một
 Bằng sự phân tích tận gốc rễ, Thế Tôn đánh giá cá nhân một người và biết rõ: 'Người này do *cạn kiệt* các *nguồn ác*, sẽ tự mình *hiểu hết toàn bộ* và chứng ngộ ngay trong hiện tại sự giải thoát của tâm không còn *nguồn ác*, sự giải thoát qua trí tuệ, và an trú trong đó.' Đây là điều vô thượng, bạch Thế Tôn, trong 'cái biết' về sự giải thoát của người khác.
 
 <!--pg-->
-### 1.12. Giảng dạy về quan điểm tồn tại mãi mãi (Sassatavādadesanā)
-
+### 1.12. Giảng dạy về quan điểm tồn tại mãi mãi (Sassatavādadesanā){#1.12}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *quan điểm tồn tại mãi mãi* (thường kiến / sassatavādesu). Bạch Thế Tôn, có ba *quan điểm tồn tại mãi mãi* này.
 
 Ở đây, bạch Thế Tôn, có sa-môn hay bà-la-môn nhờ nhiệt tâm... [...lặp lại...] ...chạm đến trạng thái Định của tâm; khi tâm được Định như vậy, người ấy nhớ lại nhiều đời sống quá khứ khác nhau. Cụ thể là — một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều trăm đời, nhiều ngàn đời, nhiều trăm ngàn đời: 'Tại nơi kia, ta có tên như thế này, dòng họ như thế này, ngoại hình như thế này, thức ăn như thế này, trải nghiệm *hạnh phúc* và *đau khổ* như thế này, tuổi thọ như thế này; sau khi chết từ đó, ta sinh ra ở nơi nọ; tại nơi nọ, ta có tên như thế này, dòng họ như thế này, ngoại hình như thế này, thức ăn như thế này, trải nghiệm *hạnh phúc* và *đau khổ* như thế này, tuổi thọ như thế này; sau khi chết từ đó, ta sinh ra ở đây.' Như vậy, người ấy nhớ lại nhiều đời sống quá khứ khác nhau cùng với các đặc điểm và chi tiết. Người ấy nói thế này: 'Ta biết thời quá khứ — thế giới co rút lại hay thế giới giãn nở ra. Ta biết thời tương lai — thế giới sẽ co rút lại hay thế giới sẽ giãn nở ra. Bản ngã và thế giới là tồn tại mãi mãi, không sinh sản, đứng vững như đỉnh núi, trụ vững như cột trụ. Còn những chúng sinh kia thì chạy vòng quanh, luân hồi, chết đi, sinh lại, nhưng bản ngã và thế giới thì vẫn tồn tại mãi mãi.' Đây là *quan điểm tồn tại mãi mãi* thứ nhất.
@@ -158,18 +145,15 @@ Lại nữa, bạch Thế Tôn, ở đây có sa-môn hay bà-la-môn nhờ nhi�
 Đây là điều vô thượng, bạch Thế Tôn, trong các *quan điểm tồn tại mãi mãi*.
 
 <!--pg-->
-### 1.13. Giảng dạy về Trí tuệ nhớ lại đời sống quá khứ (Pubbenivāsānussatiñāṇadesanā)
-
+### 1.13. Giảng dạy về Trí tuệ nhớ lại đời sống quá khứ (Pubbenivāsānussatiñāṇadesanā){#1.13}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *Trí tuệ nhớ lại đời sống quá khứ* (túc mạng trí / pubbenivāsānussatiñāṇe). Ở đây, bạch Thế Tôn, có sa-môn hay bà-la-môn nhờ nhiệt tâm... [...lặp lại...] ...chạm đến trạng thái Định của tâm; khi tâm được Định như vậy, người ấy nhớ lại nhiều đời sống quá khứ khác nhau. Cụ thể là — một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều chu kỳ co rút, nhiều chu kỳ giãn nở, nhiều chu kỳ co rút-giãn nở: 'Tại nơi kia, ta có tên như thế này... [...lặp lại...] ...sau khi chết từ đó, ta sinh ra ở đây.' Như vậy, người ấy nhớ lại nhiều đời sống quá khứ khác nhau cùng với các đặc điểm và chi tiết. Bạch Thế Tôn, có những chư thiên mà tuổi thọ của họ không thể tính đếm bằng phép đếm hay phép tính. Tuy nhiên, dù người ấy đã từng sinh sống trong bất kỳ hình thể nào, dù là có *vật chất* (sắc / rūpīsu) hay không có *vật chất* (vô sắc / arūpīsu), dù là có *nhận thức* (hữu tưởng / saññīsu) hay không có *nhận thức* (vô tưởng / asaññīsu), hay *Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* (phi tưởng phi phi tưởng / nevasaññīnāsaññīsu). Như vậy, người ấy nhớ lại nhiều đời sống quá khứ khác nhau cùng với các đặc điểm và chi tiết. Đây là điều vô thượng, bạch Thế Tôn, trong *Trí tuệ nhớ lại đời sống quá khứ*.
 
 <!--pg-->
-### 1.14. Giảng dạy về Trí tuệ về sự chết và tái sinh (Cutūpapātañāṇadesanā)
-
+### 1.14. Giảng dạy về Trí tuệ về sự chết và tái sinh (Cutūpapātañāṇadesanā){#1.14}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *Trí tuệ về sự chết và tái sinh* của chúng sinh (sinh tử trí / cutūpapātañāṇe). Ở đây, bạch Thế Tôn, có sa-môn hay bà-la-môn nhờ nhiệt tâm... [...lặp lại...] ...chạm đến trạng thái Định của tâm; khi tâm được Định như vậy, với mắt thần thanh tịnh vượt quá khả năng của con người, người ấy nhìn thấy các chúng sinh đang chết đi và sinh lại, thấp kém và cao quý, xinh đẹp và xấu xí, có số phận tốt và số phận xấu, người ấy *biết rõ* các chúng sinh đi theo hành động (nghiệp) của mình: 'Thật vậy, những chúng sinh này có hành động xấu của thân, hành động xấu của lời nói, hành động xấu của ý nghĩ, phỉ báng các bậc thánh, có *quan điểm sai* (tà kiến / micchādiṭṭhikā), hành động theo *quan điểm sai*. Sau khi cơ thể tan rã, sau khi chết, họ sinh vào cõi dữ, số phận xấu, cõi đọa đày, địa ngục. Còn những chúng sinh này có hành động tốt của thân, hành động tốt của lời nói, hành động tốt của ý nghĩ, không phỉ báng các bậc thánh, có *Thấy Thiện* (chánh kiến / sammādiṭṭhikā), hành động theo *Thấy Thiện*. Sau khi cơ thể tan rã, sau khi chết, họ sinh vào số phận tốt, thế giới cõi trời.' Như vậy, với mắt thần thanh tịnh vượt quá khả năng của con người, người ấy nhìn thấy các chúng sinh đang chết đi và sinh lại, thấp kém và cao quý, xinh đẹp và xấu xí, có số phận tốt và số phận xấu, người ấy *biết rõ* các chúng sinh đi theo hành động của mình. Đây là điều vô thượng, bạch Thế Tôn, trong *Trí tuệ về sự chết và tái sinh* của chúng sinh.
 
 <!--pg-->
-### 1.15. Giảng dạy về các loại thần thông (Iddhividhadesanā)
-
+### 1.15. Giảng dạy về các loại thần thông (Iddhividhadesanā){#1.15}
 Lại nữa, bạch Thế Tôn, đây là điều vô thượng: cách Thế Tôn dạy *Quy luật* về *các loại thần thông* (thần túc thông / iddhividhāsu). Bạch Thế Tôn, có hai *loại thần thông* này — có loại thần thông, bạch Thế Tôn, đi kèm với *nguồn ác*, *còn bám víu* (hữu y / saupadhikā), được gọi là 'không thuộc về bậc thánh'. Có loại thần thông, bạch Thế Tôn, không có *nguồn ác*, *không còn bám víu* (vô y / anupadhikā), được gọi là 'thuộc về bậc thánh'.
 
 Thế nào là loại thần thông đi kèm với *nguồn ác*, *còn bám víu*, được gọi là 'không thuộc về bậc thánh'? Ở đây, bạch Thế Tôn, có sa-môn hay bà-la-môn nhờ nhiệt tâm... [...lặp lại...] ...chạm đến trạng thái Định của tâm; khi tâm được Định như vậy, người ấy trải nghiệm nhiều *loại thần thông* khác nhau — từ một người biến thành nhiều người, từ nhiều người biến thành một người; hiện hình, tàng hình; đi xuyên qua tường, qua rào, qua núi mà không bị cản trở như đi trong không gian; lặn xuống và trồi lên từ mặt đất như ở trong nước; đi trên nước mà không chìm như đi trên đất; ngồi kiết già bay trong không gian như con chim có cánh; chạm và xoa vuốt mặt trăng mặt trời vốn có sức mạnh và uy lực lớn như vậy bằng bàn tay; kiểm soát cơ thể cho đến tận cõi Phạm thiên. Đây là loại thần thông, bạch Thế Tôn, đi kèm với *nguồn ác*, *còn bám víu*, được gọi là 'không thuộc về bậc thánh'.
@@ -179,13 +163,11 @@ Còn thế nào là loại thần thông không có *nguồn ác*, *không còn 
 Đây là điều vô thượng, bạch Thế Tôn, trong *các loại thần thông*. Thế Tôn *hiểu hết toàn bộ* điều đó không sót chút nào; khi Thế Tôn đã *hiểu hết toàn bộ* không sót chút nào, thì không còn gì cao hơn để *hiểu hết toàn bộ* nữa, không có một sa-môn hay bà-la-môn nào khác có *hiểu hết toàn bộ* cao hơn Thế Tôn về điều này, tức là về *các loại thần thông*.
 
 <!--pg-->
-### 1.16. Thấy rõ các phẩm chất khác của Bậc Đạo Sư (Aññathāsatthuguṇadassana)
-
+### 1.16. Thấy rõ các phẩm chất khác của Bậc Đạo Sư (Aññathāsatthuguṇadassana){#1.16}
 Bạch Thế Tôn, những gì mà một người con trai gia đình có niềm tin cần phải đạt được bằng nỗ lực kiên trì, bằng sức mạnh, bằng sức mạnh của con người, bằng nỗ lực của con người, bằng sự dũng cảm của con người, bằng sự gánh vác của con người, thì Thế Tôn đã đạt được điều đó. Bạch Thế Tôn, Thế Tôn không đắm chìm trong sự dễ chịu giác quan, không chạy theo sự đam mê dục lạc — vốn thấp kém, phàm tục, thuộc về người thường, không thuộc về bậc thánh, không mang lại lợi ích; Thế Tôn cũng không chạy theo sự tự hành xác — vốn *đau khổ*, không thuộc về bậc thánh, không mang lại lợi ích. Thế Tôn là người đạt được theo ý muốn, đạt được không khó khăn, đạt được không mệt nhọc bốn trạng thái Thiền-na thuộc về tâm trí cao thượng, mang lại sự an trú *hạnh phúc* ngay trong hiện tại.
 
 <!--pg-->
-### 1.17. Cách thức trả lời khi bị chất vấn (Anuyogadānappakāra)
-
+### 1.17. Cách thức trả lời khi bị chất vấn (Anuyogadānappakāra){#1.17}
 Bạch Thế Tôn, nếu có người hỏi con thế này: 'Này bạn Sāriputta, có phải trong thời quá khứ đã có những sa-môn hay bà-la-môn khác có *hiểu hết toàn bộ* cao hơn Thế Tôn về *sự giác ngộ hoàn toàn* không?', khi bị hỏi như vậy, bạch Thế Tôn, con sẽ trả lời là 'Không'. 'Này bạn Sāriputta, có phải trong thời tương lai sẽ có những sa-môn hay bà-la-môn khác có *hiểu hết toàn bộ* cao hơn Thế Tôn về *sự giác ngộ hoàn toàn* không?', khi bị hỏi như vậy, bạch Thế Tôn, con sẽ trả lời là 'Không'. 'Này bạn Sāriputta, có phải hiện tại có sa-môn hay bà-la-môn khác có *hiểu hết toàn bộ* cao hơn Thế Tôn về *sự giác ngộ hoàn toàn* không?', khi bị hỏi như vậy, bạch Thế Tôn, con sẽ trả lời là 'Không'.
 
 Bạch Thế Tôn, nếu có người hỏi con thế này: 'Này bạn Sāriputta, có phải trong thời quá khứ đã có những sa-môn hay bà-la-môn khác ngang bằng với Thế Tôn về *sự giác ngộ hoàn toàn* không?', khi bị hỏi như vậy, bạch Thế Tôn, con sẽ trả lời là 'Có'. 'Này bạn Sāriputta, có phải trong thời tương lai sẽ có những sa-môn hay bà-la-môn khác ngang bằng với Thế Tôn về *sự giác ngộ hoàn toàn* không?', khi bị hỏi như vậy, bạch Thế Tôn, con sẽ trả lời là 'Có'. 'Này bạn Sāriputta, có phải hiện tại có những sa-môn hay bà-la-môn khác ngang bằng với Thế Tôn về *sự giác ngộ hoàn toàn* không?', khi bị hỏi như vậy, bạch Thế Tôn, con sẽ trả lời là 'Không'.
@@ -197,8 +179,7 @@ Bạch Thế Tôn, khi bị hỏi như vậy và giải thích như vậy, con c
 "Chắc chắn rồi, này Sāriputta, khi bị hỏi như vậy và giải thích như vậy, ông là người nói đúng lời của Ta, không xuyên tạc Ta bằng điều không thật, giải thích *Quy luật* thuận theo *Quy luật*, và không có một người bạn đồng tu nào có thể tìm ra lý do chính đáng để chê trách."
 
 <!--pg-->
-## 2. Điều kỳ diệu và phi thường (Acchariyaabbhuta)
-
+## 2. Điều kỳ diệu và phi thường (Acchariyaabbhuta){#2}
 Khi được nói như vậy, Tôn giả Udāyī thưa với Thế Tôn điều này: "Thật kỳ diệu, bạch Thế Tôn! Thật phi thường, bạch Thế Tôn! Sự *ít mong muốn* (ít dục / appicchatā), sự *biết đủ* (tri túc / santuṭṭhitā), sự *gọt giũa* (khổ hạnh / sallekhatā) của Như Lai. Mặc dù Như Lai có thần thông lớn như vậy, có uy lực lớn như vậy, nhưng Ngài không hề phô trương bản thân. Bạch Thế Tôn, nếu các du sĩ ngoại đạo tìm thấy ở bản thân họ dù chỉ một *Điều* trong số những *Điều* này, họ sẽ giương cờ đi khắp nơi. Thật kỳ diệu, bạch Thế Tôn! Thật phi thường, bạch Thế Tôn! Sự *ít mong muốn*, sự *biết đủ*, sự *gọt giũa* của Như Lai. Mặc dù Như Lai có thần thông lớn như vậy, có uy lực lớn như vậy, nhưng Ngài không hề phô trương bản thân."
 
 "Này Udāyī, hãy xem sự *ít mong muốn*, sự *biết đủ*, sự *gọt giũa* của Như Lai. Mặc dù Như Lai có thần thông lớn như vậy, có uy lực lớn như vậy, nhưng Ngài không hề phô trương bản thân. Này Udāyī, nếu các du sĩ ngoại đạo tìm thấy ở bản thân họ dù chỉ một *Điều* trong số những *Điều* này, họ sẽ giương cờ đi khắp nơi. Này Udāyī, hãy xem sự *ít mong muốn*, sự *biết đủ*, sự *gọt giũa* của Như Lai. Mặc dù Như Lai có thần thông lớn như vậy, có uy lực lớn như vậy, nhưng Ngài không hề phô trương bản thân."

@@ -35,6 +35,7 @@ import kinhtieubo_pali from '../kinhtieubo/pali/meta/filelist';
 // import plato_vi from '../plato/vi/meta/filelist';
 
 import duc_phat_lich_su from '../ducphatlichsu/meta/filelist.js';
+import life_of_budda from '../the-life-of-the-buddha/meta/filelist.js';
 // import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';
 
 //@ts-ignore
@@ -136,6 +137,7 @@ const BOOK_NAV = {
   // 'plato/vi/intro': plato_vi,
 
   'ducphatlichsu': duc_phat_lich_su,
+  'the-life-of-the-buddha': life_of_budda
 };
 
 // --- SEO / Schema constants (PR5) ---
@@ -344,9 +346,9 @@ export default defineConfig({
   description: "Khám phá bộ sưu tập Kinh điển Nikaya với bản dịch song ngữ Pali - Việt. Thư viện kinh Phật giáo Nguyên thủy.",
   cleanUrls: true,
   markdown: {
-    anchor: {
-      slugify: (s) => slugAnchor(s),
-    },
+    // anchor: {
+    //   slugify: (s) => slugAnchor(s),
+    // },
     // Your existing markdown config...
 
     config: (md) => {
