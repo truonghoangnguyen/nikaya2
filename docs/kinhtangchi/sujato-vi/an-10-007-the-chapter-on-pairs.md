@@ -1,6 +1,6 @@
 # Phẩm Về Các Cặp
 
-### AN 10.61 Vô Minh *Avijjāsutta*
+### AN 10.61 Vô Minh *Avijjāsutta*{#61}
 
 "Này các Tỷ kheo, người ta nói rằng trước điểm khởi đầu của *vô minh* (ignorance / sự không sáng suốt, không thấy rõ sự thật),
 thì không có vô minh, và vô minh sau đó nó mới phát sinh. Tuy nhiên,
@@ -98,7 +98,7 @@ chúng làm trọn vẹn minh và giải thoát. Đó là nhân duyên nuôi dư
 minh và giải thoát, và đó là cách chúng được trọn vẹn."
 
 <!--pg-->
-### AN 10.62 Tham Ái *Taṇhāsutta*
+### AN 10.62 Tham Ái *Taṇhāsutta*{#62}
 
 "Này các Tỷ kheo, người ta nói trước điểm khởi đầu của *hữu ái* (craving for continued existence / *bhavataṇhā*, sự khao khát được tiếp tục hiện hữu, được tái sinh), thì không có hữu ái, và sau khi đó nó mới phát sinh. Tuy nhiên, rõ ràng là có điều kiện cụ thể cho hữu ái.
 
@@ -149,17 +149,17 @@ Như vậy, khi yếu tố thân cận người chân thật được trọn v�
 Ví như khi trời mưa lớn trên đỉnh núi, và nước chảy xuống dốc để lấp đầy các chỗ trũng, khe nứt, và lạch nhỏ. Khi chúng đầy, chúng lấp đầy các ao. Các ao lấp đầy các hồ, các hồ lấp đầy các suối, và các suối lấp đầy các sông. Và khi các sông đầy, chúng lấp đầy đại dương. Đó là nhân duyên nuôi dưỡng cho đại dương, và đó là cách nó được lấp đầy. Như vậy, khi yếu tố thân cận người chân thật được trọn vẹn, nó làm trọn vẹn yếu tố nghe lời dạy chân thật. Khi yếu tố nghe lời dạy chân thật được trọn vẹn, nó làm trọn vẹn yếu tố niềm tin ... như lý tác ý ... tỉnh thức và nhận biết hoàn cảnh ... hộ trì các giác quan ... ba loại hành vi tốt đẹp ... bốn loại thiền quán niệm ... bảy yếu tố giác ngộ. Khi bảy yếu tố giác ngộ được trọn vẹn, chúng làm trọn vẹn minh và giải thoát. Đó là nhân duyên nuôi dưỡng cho minh và giải thoát, và đó là cách chúng được trọn vẹn."
 
 <!--pg-->
-### AN 10.63 Đi Đến Kết Luận *Niṭṭhaṅgatasutta*
+### AN 10.63 Đi Đến Kết Luận *Niṭṭhaṅgatasutta*{#63}
 
 "Này các Tỷ kheo, tất cả những ai đã đi đến kết luận tin tưởng về Ta đều *thành tựu về quan kiến* (accomplished in view / *kiến cụ túc*, có chánh kiến). Trong số những người thành tựu về quan kiến, năm hạng người kết thúc con đường của họ trong cõi này, và năm hạng người kết thúc con đường của họ sau khi rời khỏi cõi này. Năm hạng người nào kết thúc con đường của họ trong cõi này? Đó là *người tối đa bảy lần tái sinh* (The one who has seven rebirths at most / *thất lai*, người còn tái sinh tối đa bảy lần nữa sẽ giải thoát, Tu-đà-hoàn), *người đi từ gia đình này sang gia đình khác* (the one who goes from family to family / *gia gia*, người tái sinh 2-3 lần nữa sẽ giải thoát, Tu-đà-hoàn), *người một hạt giống* (the one-seeder / *nhất chủng*, người chỉ còn một lần tái sinh nữa sẽ giải thoát, Tư-đà-hàm), *người một lần trở lại* (the once returner / *nhất lai*, người chỉ còn trở lại cõi này một lần nữa, Tư-đà-hàm), và *người hoàn thiện ngay trong đời này* (the one who is perfected in this very life / *hiện tại chứng A-la-hán*, người đạt quả A-la-hán ngay trong kiếp sống hiện tại). Năm hạng người này kết thúc con đường của họ trong cõi này. Năm hạng người nào kết thúc con đường của họ sau khi rời khỏi cõi này? Đó là *người nhập Niết-bàn giữa một đời sống và đời sống kế tiếp* (The one who is extinguished between one life and the next / *trung gian Bát-niết-bàn*, vị A-na-hàm nhập Niết-bàn trong cõi trung gian trước khi tái sinh vào cõi Sắc giới), *người nhập Niết-bàn ngay khi tái sinh* (the one who is extinguished upon landing / *sinh Bát-niết-bàn*, vị A-na-hàm nhập Niết-bàn ngay khi vừa tái sinh vào cõi Sắc giới), *người nhập Niết-bàn không cần nỗ lực thêm* (the one who is extinguished without extra effort / *vô hành Bát-niết-bàn*, vị A-na-hàm nhập Niết-bàn ở cõi Sắc giới mà không cần nhiều cố gắng tu tập thêm), *người nhập Niết-bàn với nỗ lực thêm* (the one who is extinguished with extra effort / *hữu hành Bát-niết-bàn*, vị A-na-hàm nhập Niết-bàn ở cõi Sắc giới sau khi có thêm nỗ lực tu tập), và *người đi ngược dòng, đến cõi Akaniṭṭha* (the one who heads upstream, going to the Akaniṭṭha realm / *thượng lưu chí Sắc Cứu Cánh thiên*, vị A-na-hàm tái sinh lên các cõi trời cao hơn cho đến *cõi Sắc Cứu Cánh* (Akaniṭṭha realm / cõi trời cao nhất trong Sắc giới) rồi nhập Niết-bàn). Năm hạng người này kết thúc con đường của họ sau khi rời khỏi cõi này. Tất cả những ai đã đi đến kết luận về Ta đều thành tựu về quan kiến. Trong số những người thành tựu về quan kiến, năm hạng người này kết thúc con đường của họ trong cõi này, và năm hạng người này kết thúc con đường của họ sau khi rời khỏi cõi này."
 
 <!--pg-->
-### AN 10.64 Niềm Tin Vững Chắc Qua Trải Nghiệm *Aveccappasannasutta*
+### AN 10.64 Niềm Tin Vững Chắc Qua Trải Nghiệm *Aveccappasannasutta*{#64}
 
 "Này các Tỷ kheo, tất cả những ai có *niềm tin vững chắc qua chứng nghiệm* (experiential confidence / *bất động tín*, niềm tin không lay chuyển dựa trên sự chứng nghiệm) nơi Ta đều đã *nhập dòng* (entered the stream / *nhập lưu*, đã chứng quả Tu-đà-hoàn, bước vào dòng Thánh). Trong số những người đã nhập dòng, năm hạng người kết thúc con đường của họ trong cõi này, và năm hạng người kết thúc con đường của họ sau khi rời khỏi cõi này. Năm hạng người nào kết thúc con đường của họ trong cõi này? Đó là người tối đa bảy lần tái sinh, người đi từ gia đình này sang gia đình khác, người một hạt giống, người một lần trở lại, và người hoàn thiện ngay trong đời này. Năm hạng người này kết thúc con đường của họ trong cõi này. Năm hạng người nào kết thúc con đường của họ sau khi rời khỏi cõi này? Đó là người nhập Niết-bàn giữa một đời sống và đời sống kế tiếp, người nhập Niết-bàn ngay khi tái sinh, người nhập Niết-bàn không cần nỗ lực thêm, người nhập Niết-bàn với nỗ lực thêm, và người đi ngược dòng, đến cõi Sắc Cứu Cánh. Năm hạng người này kết thúc con đường của họ sau khi rời khỏi cõi này. Tất cả những ai có niềm tin vững chắc qua trải nghiệm nơi Ta đều đã nhập dòng. Trong số những người đã nhập dòng, năm hạng người này kết thúc con đường của họ trong cõi này, và năm hạng người này kết thúc con đường của họ sau khi rời khỏi cõi này."
 
 <!--pg-->
-### AN 10.65 Hạnh Phúc (Thứ Nhất) *Paṭhamasukhasutta*
+### AN 10.65 Hạnh Phúc (Thứ Nhất) *Paṭhamasukhasutta*{#65}
 
 Một thời Tôn giả Sāriputta đang ở tại xứ Magadha, gần ngôi làng nhỏ Nālaka. Bấy giờ du sĩ Sāmaṇḍakāni đến gặp Tôn giả Sāriputta và chào hỏi ngài. Sau khi chào hỏi và chuyện trò thân mật, Sāmaṇḍakāni ngồi xuống một bên và nói với Sāriputta:
 
@@ -168,7 +168,7 @@ Một thời Tôn giả Sāriputta đang ở tại xứ Magadha, gần ngôi là
 "Thưa ngài, tái sinh là khổ, không tái sinh là hạnh phúc. Khi có tái sinh, ngài có thể thấy loại khổ đau này. Lạnh, nóng, đói, khát, đại tiện, và tiểu tiện. Tiếp xúc với lửa, gậy gộc, và dao kiếm. Và bà con bạn bè tụ tập làm phiền ngài. Khi có tái sinh, đây là loại khổ đau ngài có thể thấy. Khi không có tái sinh, ngài có thể thấy loại hạnh phúc này. Không lạnh, nóng, đói, khát, đại tiện, hay tiểu tiện. Không tiếp xúc với lửa, gậy gộc, hay dao kiếm. Và bà con bạn bè không tụ tập làm phiền ngài. Khi không có tái sinh, đây là loại hạnh phúc ngài có thể thấy."
 
 <!--pg-->
-### AN 10.66 Hạnh Phúc (Thứ Hai) *Dutiyasukhasutta*
+### AN 10.66 Hạnh Phúc (Thứ Hai) *Dutiyasukhasutta*{#66}
 
 Một thời Tôn giả Sāriputta đang ở tại xứ Magadha, gần ngôi làng nhỏ Nālaka. Bấy giờ du sĩ Sāmaṇḍakāni đến gặp Tôn giả Sāriputta và chào hỏi ngài. Sau khi chào hỏi và chuyện trò thân mật, Sāmaṇḍakāni ngồi xuống một bên và nói với Sāriputta:
 
@@ -179,7 +179,7 @@ Một thời Tôn giả Sāriputta đang ở tại xứ Magadha, gần ngôi là
 Khi ngài hài lòng, ngài có thể thấy loại hạnh phúc này. Ngài tìm thấy hạnh phúc hay niềm vui khi đi... đứng... ngồi... hay nằm... hoặc khi ở trong làng... nơi hoang vắng... dưới gốc cây... một ngôi lều trống... ngoài trời... hoặc khi ở giữa các Tỷ kheo. Khi ngài hài lòng, đây là loại hạnh phúc ngài có thể thấy."
 
 <!--pg-->
-### AN 10.67 Tại Naḷakapāna (Thứ Nhất) *Paṭhamanaḷakapānasutta*
+### AN 10.67 Tại Naḷakapāna (Thứ Nhất) *Paṭhamanaḷakapānasutta*{#67}
 
 Một thời Đức Phật đang du hành ở xứ Kosala cùng với một Tăng đoàn đông đảo các Tỷ kheo thì Ngài đến một thị trấn của người Kosala tên là Naḷakapāna. Tại đó, Đức Phật ở gần Naḷakapāna trong rừng cây palāsa (huyết dụ/gièng gièng). Bấy giờ, nhằm ngày *Bố-tát* (sabbath / ngày sám hối và tụng giới của Tăng đoàn), Đức Phật đang ngồi giữa Tăng đoàn các Tỷ kheo. Đức Phật đã dành phần lớn đêm để giáo huấn, khích lệ, làm phấn chấn, và truyền cảm hứng cho các Tỷ kheo bằng một bài pháp thoại. Sau đó, Ngài nhìn quanh Tăng đoàn các Tỷ kheo, thấy họ im lặng vô cùng. Ngài nói với Tôn giả Sāriputta:
 
@@ -210,7 +210,7 @@ Bất cứ ai có niềm tin, xấu hổ, sợ điều ác, siêng năng, và tr
 Người có niềm tin không suy giảm. Người có xấu hổ... sợ điều ác... siêng năng... có trí tuệ... có từ ái... có lòng tốt... ít mong muốn... bạn bè tốt... Người có chánh kiến không suy giảm."
 
 <!--pg-->
-### AN 10.68 Tại Naḷakapāna (Thứ Hai) *Dutiyanaḷakapānasutta*
+### AN 10.68 Tại Naḷakapāna (Thứ Hai) *Dutiyanaḷakapānasutta*{#68}
 
 Một thời Đức Phật ở gần Naḷakapāna trong rừng cây palāsa.
 
@@ -235,7 +235,7 @@ Sau đó, Đức Phật đứng dậy và nói với Tôn giả Sāriputta:
 Bất cứ ai có niềm tin, xấu hổ, sợ điều ác, siêng năng, và trí tuệ; người muốn lắng nghe, ghi nhớ giáo pháp, tìm hiểu ý nghĩa, và thực hành theo, và siêng năng đối với các phẩm chất thiện lành thì có thể mong đợi sự tăng trưởng, chứ không phải suy giảm, trong các phẩm chất thiện lành, dù ngày hay đêm. Giống như mặt trăng trong kỳ trăng tròn dần. Dù ngày hay đêm, vẻ đẹp, sự tròn đầy, ánh sáng, đường kính và chu vi của nó chỉ tăng trưởng. Cũng vậy, bất cứ ai có niềm tin, xấu hổ, sợ điều ác, siêng năng, và trí tuệ; người muốn lắng nghe, ghi nhớ giáo pháp, tìm hiểu ý nghĩa, và thực hành theo, và siêng năng đối với các phẩm chất thiện lành thì có thể mong đợi sự tăng trưởng, chứ không phải suy giảm, trong các phẩm chất thiện lành, dù ngày hay đêm."
 
 <!--pg-->
-### AN 10.69 Các Chủ Đề Thảo Luận (Thứ Nhất) *Paṭhamakathāvatthusutta*
+### AN 10.69 Các Chủ Đề Thảo Luận (Thứ Nhất) *Paṭhamakathāvatthusutta*{#69}
 
 Một thời Đức Phật đang ở gần Sāvatthī, trong Vườn của Jeta, tu viện của Anāthapiṇḍika. Bấy giờ, sau bữa ăn, khi đi khất thực về, một số Tỷ kheo ngồi lại với nhau trong giảng đường. Họ tham gia vào đủ loại *hý luận* (low talk / những câu chuyện vô ích, thế gian), chẳng hạn như chuyện vua chúa, trộm cướp, và đại thần; chuyện quân đội, đe dọa, và chiến tranh; chuyện ăn uống, y phục, và giường nằm; chuyện vòng hoa và hương thơm; chuyện gia đình, xe cộ, làng mạc, thị trấn, thành phố, và quốc gia; chuyện phụ nữ và anh hùng; chuyện đường phố và chuyện giếng nước; chuyện người đã khuất; chuyện tạp nhạp; truyện kể về đất liền và biển cả; và chuyện tái sinh ở nơi này hay nơi kia.
 
@@ -250,7 +250,7 @@ Này các Tỷ kheo, có mười chủ đề thảo luận này. Mười chủ �
 Này các Tỷ kheo, nếu các ông nhắc đi nhắc lại những chủ đề thảo luận này thì vinh quang của các ông có thể vượt qua cả mặt trời và mặt trăng, vốn đã rất oai hùng và mạnh mẽ, huống chi là các du sĩ ngoại đạo."
 
 <!--pg-->
-### AN 10.70 Các Chủ Đề Thảo Luận (Thứ Hai) *Dutiyakathāvatthusutta*
+### AN 10.70 Các Chủ Đề Thảo Luận (Thứ Hai) *Dutiyakathāvatthusutta*{#70}
 
 Một thời Đức Phật đang ở gần Sāvatthī, trong Vườn của Jeta, tu viện của Anāthapiṇḍika.
 

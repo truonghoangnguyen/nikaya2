@@ -1,6 +1,6 @@
 # Phẩm Song Đối
 
-### AN 8.71 Gây Ấn Tượng Toàn Diện (1) *Paṭhamasaddhāsutta*
+### AN 8.71 Gây Ấn Tượng Toàn Diện (1) *Paṭhamasaddhāsutta*{#71}
 
 Này các Tỳ kheo, một Tỳ kheo có niềm tin nhưng không có *giới đức*(ethical conduct / hành vi đạo đức). Như vậy, vị ấy chưa trọn vẹn về phương diện đó, và nên làm cho trọn vẹn, suy nghĩ rằng: ‘Làm sao để ta trở thành người có niềm tin và có giới đức?’ Khi Tỳ kheo có niềm tin và có giới đức, vị ấy trọn vẹn về phương diện đó.
 
@@ -11,7 +11,7 @@ Một Tỳ kheo có niềm tin, có giới đức, và đa văn, nhưng không p
 Khi vị ấy có niềm tin, có giới đức, đa văn, là người thuyết pháp, người thường đến các hội chúng, người tự tin thuyết pháp cho hội chúng, người đạt được bốn tầng thiền khi muốn, và người sống sau khi đã chứng ngộ sự chấm dứt các ô nhiễm, vị ấy trọn vẹn về phương diện đó. Một Tỳ kheo có tám phẩm chất này thì gây ấn tượng toàn diện, và trọn vẹn về mọi mặt.
 
 <!--pg-->
-### AN 8.72 Gây Ấn Tượng Toàn Diện (2) *Dutiyasaddhāsutta*
+### AN 8.72 Gây Ấn Tượng Toàn Diện (2) *Dutiyasaddhāsutta*{#72}
 
 Một Tỳ kheo có niềm tin, nhưng không có giới đức. Như vậy, vị ấy chưa trọn vẹn về phương diện đó, và nên làm cho trọn vẹn, suy nghĩ rằng: ‘Làm sao để ta trở thành người có niềm tin và có giới đức?’ Khi Tỳ kheo có niềm tin và có giới đức, vị ấy trọn vẹn về phương diện đó.
 
@@ -20,7 +20,7 @@ Một Tỳ kheo có niềm tin và có giới đức, nhưng không phải là n
 Khi vị ấy có niềm tin, có giới đức, đa văn, là người thuyết pháp, người thường đến các hội chúng, người tự tin thuyết pháp cho hội chúng, người đạt được các giải thoát vô sắc, và người sống sau khi đã chứng ngộ sự chấm dứt các ô nhiễm, vị ấy trọn vẹn về phương diện đó. Một Tỳ kheo có tám phẩm chất này thì gây ấn tượng toàn diện, và trọn vẹn về mọi mặt.
 
 <!--pg-->
-### AN 8.73 Tỉnh Thức Về Cái Chết (1) *Paṭhamamaraṇassatisutta*
+### AN 8.73 Tỉnh Thức Về Cái Chết (1) *Paṭhamamaraṇassatisutta*{#73}
 
 Một thời Đức Phật trú tại làng Nātika, trong nhà gạch. Tại đây, Đức Phật gọi các Tỳ kheo: "Này các Tỳ kheo!"
 
@@ -85,7 +85,7 @@ Nhưng những Tỳ kheo tu tập sự tỉnh thức về cái chết bằng cá
 Vậy các ông nên tu tập như thế này: ‘Chúng ta sẽ sống siêng năng. Chúng ta sẽ tu tập sự tỉnh thức về cái chết một cách sắc bén để chấm dứt các ô nhiễm.’ Đó là cách các ông nên tu tập."
 
 <!--pg-->
-### AN 8.74 Tỉnh Thức Về Cái Chết (2) *Dutiyamaraṇassatisutta*
+### AN 8.74 Tỉnh Thức Về Cái Chết (2) *Dutiyamaraṇassatisutta*{#74}
 
 Một thời Đức Phật trú tại làng Nātika, trong nhà gạch. Tại đây, Đức Phật nói với các Tỳ kheo: "Này các Tỳ kheo, khi sự tỉnh thức về cái chết được tu tập và phát triển, nó có quả lớn, lợi ích lớn. Nó hướng đến bất tử và kết thúc ở bất tử.
 
@@ -107,7 +107,7 @@ Nhưng giả sử, khi kiểm tra, một Tỳ kheo biết rằng không có nh�
 Sự tỉnh thức về cái chết, khi được tu tập và phát triển theo cách này, có quả lớn, lợi ích lớn. Nó hướng đến bất tử và kết thúc ở bất tử."
 
 <!--pg-->
-### AN 8.75 Các Thành Tựu (1) *Paṭhamasampadāsutta*
+### AN 8.75 Các Thành Tựu (1) *Paṭhamasampadāsutta*{#75}
 
 "Này các Tỳ kheo, có tám *thành tựu* (accomplishments / sự hoàn thành, đạt được) này. Tám thành tựu nào?
 Thành tựu về *siêng năng khởi xướng* (initiative / *utthānasampadā*, sự chủ động, nỗ lực bắt đầu công việc), *hộ trì* (protection / *ārakkhasampadā*, sự bảo vệ, giữ gìn), *thiện hữu* (good friendship / *kalyāṇamittatā*, tình bạn tốt đẹp, bạn lành), và *chi tiêu quân bình* (balanced finances / *samajīvikatā*, sự cân đối thu chi). Và thành tựu về niềm tin, giới đức, *hào phóng* (generosity / *cāgasampadā*, sự rộng rãi, cho đi), và trí tuệ.
@@ -134,7 +134,7 @@ Thành tựu về *siêng năng khởi xướng* (initiative / *utthānasampadā
 > phước đức tăng trưởng nhờ hào phóng."
 
 <!--pg-->
-### AN 8.76 Các Thành Tựu (2) *Dutiyasampadāsutta*
+### AN 8.76 Các Thành Tựu (2) *Dutiyasampadāsutta*{#76}
 
 "Này các Tỳ kheo, có tám thành tựu này. Tám thành tựu nào? Thành tựu về siêng năng khởi xướng, hộ trì, thiện hữu, và chi tiêu quân bình. Và thành tựu về niềm tin, giới đức, hào phóng, và trí tuệ.
 
@@ -177,7 +177,7 @@ Và thế nào là thành tựu về trí tuệ? Đó là khi một người thi
 > phước đức tăng trưởng nhờ hào phóng."
 
 <!--pg-->
-### AN 8.77 Các Ham Muốn *Icchāsutta*
+### AN 8.77 Các Ham Muốn *Icchāsutta*{#77}
 
 Tại đó, Tôn giả Xá Lợi Phất nói với các Tỳ kheo: "Này các Hiền giả Tỳ kheo!"
 
@@ -204,7 +204,7 @@ Tiếp theo, khi một Tỳ kheo sống độc cư, viễn ly, một ham muốn 
 Tám hạng người này được tìm thấy trên đời."
 
 <!--pg-->
-### AN 8.78 Đủ Tốt *Alaṁsutta*
+### AN 8.78 Đủ Tốt *Alaṁsutta*{#78}
 
 Tại đó, Tôn giả Xá Lợi Phất nói với các Tỳ kheo: "Này các Hiền giả, một Tỳ kheo có sáu phẩm chất thì đủ tốt cho mình và cho người khác. Sáu phẩm chất nào? Một Tỳ kheo nhanh trí đối với các giáo pháp thiện xảo. Vị ấy dễ dàng ghi nhớ những giáo pháp đã nghe. Vị ấy thẩm xét ý nghĩa của những giáo pháp đã ghi nhớ. Hiểu rõ ý nghĩa và giáo pháp, vị ấy thực hành theo đó. Vị ấy là người nói giỏi, phát âm rõ ràng. Giọng nói của vị ấy trau chuốt, trong trẻo, mạch lạc và diễn đạt được ý nghĩa. Vị ấy giáo huấn, khuyến khích, khích lệ và truyền cảm hứng cho các bạn đồng tu. Một Tỳ kheo có sáu phẩm chất này thì đủ tốt cho mình và cho người khác.
 
@@ -223,14 +223,14 @@ Một Tỳ kheo có hai phẩm chất thì đủ tốt cho mình nhưng không �
 Một Tỳ kheo có hai phẩm chất thì đủ tốt cho người khác nhưng không đủ tốt cho mình. Hai phẩm chất nào? Một Tỳ kheo không nhanh trí đối với các giáo pháp thiện xảo. Và vị ấy không dễ dàng ghi nhớ những giáo pháp đã nghe. Vị ấy cũng không thẩm xét ý nghĩa của những giáo pháp đã ghi nhớ. Không hiểu rõ ý nghĩa và giáo pháp, vị ấy không thực hành theo đó. Vị ấy là người nói giỏi, phát âm rõ ràng. Giọng nói của vị ấy trau chuốt, trong trẻo, mạch lạc và diễn đạt được ý nghĩa. Vị ấy giáo huấn, khuyến khích, khích lệ và truyền cảm hứng cho các bạn đồng tu. Một Tỳ kheo có hai phẩm chất này thì đủ tốt cho người khác nhưng không đủ tốt cho mình."
 
 <!--pg-->
-### AN 8.79 Suy Thoái *Parihānasutta*
+### AN 8.79 Suy Thoái *Parihānasutta*{#79}
 
 "Tám điều này dẫn đến sự suy thoái của một Tỳ kheo *hữu học* (trainee / *sekha*, người còn đang tu học, chưa phải A-la-hán). Tám điều nào? Vị ấy thích thú công việc, nói chuyện, ngủ nghỉ và hội họp. Vị ấy không phòng hộ các giác quan và ăn quá nhiều. Vị ấy thích thú sự gần gũi và *sự lan rộng của tâm trí* (proliferation / *prapañca*, sự suy diễn, phân biệt, lan man của tâm). Tám điều này dẫn đến sự suy thoái của một Tỳ kheo hữu học.
 
 Tám điều này không dẫn đến sự suy thoái của một Tỳ kheo hữu học. Tám điều nào? Vị ấy không thích thú công việc, nói chuyện, ngủ nghỉ và hội họp. Vị ấy phòng hộ các giác quan, và không ăn quá nhiều. Vị ấy không thích thú sự gần gũi và sự lan rộng của tâm trí. Tám điều này không dẫn đến sự suy thoái của một Tỳ kheo hữu học."
 
 <!--pg-->
-### AN 8.80 Căn Cứ Của Sự Lười Biếng và Khơi Dậy Nghị Lực *Kusītārambhavatthusutta*
+### AN 8.80 Căn Cứ Của Sự Lười Biếng và Khơi Dậy Nghị Lực *Kusītārambhavatthusutta*{#80}
 
 "Này các Tỳ kheo, có tám *căn cứ của sự lười biếng* (grounds for laziness / *kusītavatthu*, những lý do, cơ sở dẫn đến lười biếng). Tám căn cứ nào?
 

@@ -1,6 +1,6 @@
 # Bốn Chương Về Một Pháp (3-Phẩm Thứ Ba)
 
-### AN 1.316--332 *Phẩm Thứ Ba*
+### AN 1.316--332 *Phẩm Thứ Ba*{#316-332}
 
 316\. *Này các Tỳ kheo*, có một hạng người xuất hiện trên đời, vì bất hạnh và đau khổ của số đông, không vì lợi ích của số đông, vì sự tổn hại, bất hạnh và đau khổ cho chư thiên và loài người. Hạng người đó là ai? Đó là người có *tà kiến* (wrong view / thấy biết sai lầm), có cái nhìn sai lệch. Người ấy kéo nhiều người ra khỏi *Chánh pháp* (true teaching / giáo lý chân chính) và đưa họ vào *tà pháp* (false teachings / giáo lý sai lầm). Đây là một hạng người xuất hiện trên đời, vì bất hạnh và đau khổ của số đông, không vì lợi ích của số đông, vì sự tổn hại, bất hạnh và đau khổ cho chư thiên và loài người.
 

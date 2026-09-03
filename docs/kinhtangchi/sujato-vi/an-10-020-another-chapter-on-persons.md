@@ -1,6 +1,6 @@
 # Một chương khác về các loại người
 
-### AN 10.199--210 Không nên giao thiệp, v.v. *Aparapuggalavagga*
+### AN 10.199--210 Không nên giao thiệp, v.v. *Aparapuggalavagga*{#199-210}
 
 "Này các *Tỳ kheo* (Mendicants / người tu sĩ Phật giáo), các ông không nên *giao thiệp* (associate with / giao du, kết bạn) với người có mười pháp. Những gì là mười? Người đó *sát sinh* (kill living creatures / làm hại sinh vật), *trộm cắp* (steal / lấy đồ không cho), và *tà hạnh* (commit sexual misconduct / hành vi tình dục sai trái). Người đó *nói dối* (use speech that's false / nói không đúng sự thật), *nói hai lưỡi* (divisive speech / lời nói gây chia rẽ), *nói lời thô ác* (harsh speech / lời nói làm tổn thương), hoặc *nói lời vô ích* (nonsensical speech / lời nói không có ý nghĩa). Và người đó *tham lam* (covetous / muốn chiếm đoạt của người khác), *sân hận* (malicious / *sân hận* / tức giận, ác ý), có *tà kiến* (wrong view / suy nghĩ sai lầm về sự thật). Các ông không nên giao thiệp với người có mười pháp này."
 

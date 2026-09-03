@@ -1,6 +1,6 @@
 # Phẩm Về Các Đoạn Kinh Tóm Lược Về Luật
 
-### AN 2.280–309 *Vinayapeyyālavagga*
+### AN 2.280–309 *Vinayapeyyālavagga*{#280-309}
 
 280\. "Vì hai lý do mà *Như Lai* (Realized One / Bậc Giác Ngộ) đã đặt ra các *học giới* (training rules / các điều luật huấn luyện) cho các *đệ tử* (disciples / học trò, người đi theo) của mình.
 
@@ -22,7 +22,7 @@ Hai lý do đó là gì? Vì an lạc và thoải mái của Tăng đoàn...
 <!--pg-->
 # Phẩm Các Kinh Tóm Lược Bắt Đầu Với Tham
 
-### AN 2.310--479 *Phẩm Tham - Peyyāla*
+### AN 2.310--479 *Phẩm Tham - Peyyāla*{#310-479}
 
 
 310--319. "Để *thắng trí* (insight / sự hiểu biết thấu suốt) *tham* (greed / lòng tham), hai pháp cần được tu tập. Hai pháp gì? Là *chỉ* (serenity / sự định tâm) và *quán* (discernment / sự thấy rõ). Để thắng trí tham, hai pháp này cần được tu tập."

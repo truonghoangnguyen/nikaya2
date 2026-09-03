@@ -1,6 +1,6 @@
 # Phẩm về Bà La Môn
 
-### AN 4.181 Chiến Binh (*Yodhājīvasutta*)
+### AN 4.181 Chiến Binh (*Yodhājīvasutta*){#181}
 
 "Này các *Tỳ kheo* (Mendicants / khất sĩ, tu sĩ Phật giáo), một chiến binh có bốn yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền. Bốn yếu tố nào? Vị ấy thiện xảo căn bản, là xạ thủ tầm xa, là xạ thủ thiện xạ, là người phá vỡ vật lớn. Một chiến binh với bốn yếu tố này thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền.
 
@@ -17,7 +17,7 @@ Và thế nào là một Tỳ kheo phá vỡ vật lớn? Đó là khi một T�
 Một Tỳ kheo với bốn phẩm chất này... là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 4.182 Bảo Đảm (*Pāṭibhogasutta*)
+### AN 4.182 Bảo Đảm (*Pāṭibhogasutta*){#182}
 
 "Có bốn điều mà không ai có thể bảo đảm—không một *sa môn* (ascetic / người tu khổ hạnh, tu sĩ nói chung), *bà la môn* (brahmin / tu sĩ hoặc người thuộc giai cấp Bà la môn ở Ấn Độ cổ), *vị trời* (god / vị trời), *Ma vương* (Māra / ác ma, biểu tượng cho cám dỗ và trở ngại), một *vị thần* (divinity / thần linh), hay bất kỳ ai trên thế gian.
 
@@ -26,7 +26,7 @@ Bốn điều nào? Không ai có thể bảo đảm rằng người phải ch�
 Đây là bốn điều mà không ai có thể bảo đảm—không một sa môn, bà la môn, vị trời, Ma vương, vị thần, hay bất kỳ ai trên thế gian."
 
 <!--pg-->
-### AN 4.183 Vassakāra về Điều Được Nghe (*Sutasutta*)
+### AN 4.183 Vassakāra về Điều Được Nghe (*Sutasutta*){#183}
 
 Một thời Đức Phật trú gần thành *Vương Xá* (Rājagaha), tại *Trúc Lâm, nơi nuôi sóc* (Bamboo Grove, the squirrels' feeding ground). Bấy giờ Bà la môn Vassakāra, đại thần xứ Ma Kiệt Đà, đi đến chỗ Đức Phật và chào hỏi với Ngài. Sau khi chào hỏi và trò chuyện thân mật, ông ngồi xuống một bên và thưa với Đức Phật:
 
@@ -39,7 +39,7 @@ Khi nói về một số điều ông đã thấy, nghe, nghĩ, hoặc biết, c
 Bấy giờ Bà la môn Vassakāra, sau khi tán thành và đồng ý với những gì Đức Phật nói, từ chỗ ngồi đứng dậy và ra về.
 
 <!--pg-->
-### AN 4.184 Không Sợ Hãi (*Abhayasutta*)
+### AN 4.184 Không Sợ Hãi (*Abhayasutta*){#184}
 
 Bấy giờ Bà la môn Jānussoṇi đi đến chỗ Đức Phật và chào hỏi với Ngài. Sau khi chào hỏi và trò chuyện thân mật, ông ngồi xuống một bên và thưa với Đức Phật:
 
@@ -70,7 +70,7 @@ Hơn nữa, đó là người không còn hoài nghi, không chắc chắn, hay 
 "Thật tuyệt vời, Tôn giả Gotama!... Kể từ hôm nay, xin Tôn giả Gotama hãy ghi nhớ con là một *cư sĩ* (lay follower / người tại gia theo đạo Phật) đã *quy y* (gone for refuge / nương tựa vào Tam Bảo: Phật, Pháp, Tăng) trọn đời."
 
 <!--pg-->
-### AN 4.185 Sự Thật của Bà La Môn (*Brāhmaṇasaccasutta*)
+### AN 4.185 Sự Thật của Bà La Môn (*Brāhmaṇasaccasutta*){#185}
 
 Một thời Đức Phật trú gần thành Vương Xá, trên *núi Linh Thứu* (Vulture's Peak Mountain).
 
@@ -97,7 +97,7 @@ Hãy xét một vị Bà la môn khác nói rằng: '*Ta không thuộc về ai 
 Đây là bốn sự thật của Bà la môn mà Ta tuyên bố, sau khi đã tự mình chứng ngộ bằng trí tuệ."
 
 <!--pg-->
-### AN 4.186 Tiếp Cận (*Ummaggasutta*)
+### AN 4.186 Tiếp Cận (*Ummaggasutta*){#186}
 
 Bấy giờ, một vị Tỳ kheo đi đến chỗ Đức Phật, *đảnh lễ* (bowed / lạy sát đất để tỏ lòng tôn kính), rồi ngồi xuống một bên và thưa với Ngài:
 
@@ -128,7 +128,7 @@ Thưa "Lành thay, bạch Thế Tôn", vị Tỳ kheo ấy tán thành và đồ
 "Lành thay, lành thay, Tỳ kheo! Cách tiếp cận và diễn đạt của thầy thật xuất sắc, và đó là một câu hỏi hay.... Một người sáng suốt có trí tuệ lớn là người không có ý định làm hại mình, làm hại người, hay làm hại cả hai. Khi suy nghĩ, vị ấy chỉ nghĩ đến lợi ích cho mình, cho người, cho cả hai, và cho toàn thể thế gian. Như vậy là một người sáng suốt, có trí tuệ lớn."
 
 <!--pg-->
-### AN 4.187 Với Vassakāra (*Vassakārasutta*)
+### AN 4.187 Với Vassakāra (*Vassakārasutta*){#187}
 
 Một thời Đức Phật trú gần thành Vương Xá, tại Trúc Lâm, nơi nuôi sóc.
 
@@ -167,7 +167,7 @@ Thật vi diệu, Tôn giả Gotama, thật kỳ diệu, lời này được Tô
 Bấy giờ Bà la môn Vassakāra, sau khi tán thành và đồng ý với những gì Đức Phật nói, từ chỗ ngồi đứng dậy và ra về.
 
 <!--pg-->
-### AN 4.188 Với Upaka (*Upakasutta*)
+### AN 4.188 Với Upaka (*Upakasutta*){#188}
 
 Một thời Đức Phật trú gần thành Vương Xá, trên núi Linh Thứu. Bấy giờ Upaka, con trai của Maṇḍikā, đi đến chỗ Đức Phật, đảnh lễ, rồi ngồi xuống một bên và thưa với Ngài:
 
@@ -186,7 +186,7 @@ Và rồi Upaka con trai của Maṇḍikā tán thành và đồng ý với nh�
 Nhưng Vua Ajātasattu trở nên tức giận và khó chịu, và nói với Upaka: "Thằng con trai của người làm muối này thật thô lỗ! Thật là hỗn láo và trơ trẽn khi nó dám nghĩ đến việc công kích Đức Thế Tôn, bậc *A La Hán* (perfected one / bậc đã đạt giác ngộ hoàn toàn), bậc *Chánh Đẳng Chánh Giác* (fully awakened Buddha / bậc giác ngộ hoàn toàn và đúng đắn)! Cút đi, Upaka, biến đi! Đừng để ta thấy mặt ngươi nữa."
 
 <!--pg-->
-### AN 4.189 Những Pháp Cần Được Chứng Ngộ (*Sacchikaraṇīyasutta*)
+### AN 4.189 Những Pháp Cần Được Chứng Ngộ (*Sacchikaraṇīyasutta*){#189}
 
 "Này các Tỳ kheo, có bốn pháp này cần được chứng ngộ. Bốn pháp nào?
 
@@ -203,7 +203,7 @@ Những pháp nào cần được chứng ngộ bằng trí tuệ? Sự đoạn 
 Đây là bốn pháp cần được chứng ngộ."
 
 <!--pg-->
-### AN 4.190 Ngày Bố Tát (*Uposathasutta*)
+### AN 4.190 Ngày Bố Tát (*Uposathasutta*){#190}
 
 Một thời Đức Phật trú gần *thành Xá Vệ* (Sāvatthī) trong *lầu có chóp nhọn của bà Migāramātā (Mẹ của Migāra) tại Tu viện Phía Đông (Đông Viên)* (stilt longhouse of Migāra's mother in the Eastern Monastery).
 

@@ -1,6 +1,6 @@
 # Phẩm về Gotamī
 
-### AN 8.51 Kinh Gotamī  *Gotamīsutta*
+### AN 8.51 Kinh Gotamī  *Gotamīsutta*{#51}
 
 Một thời Đức Phật trú ở xứ Thích-ca (Sakyan), gần Ca-tỳ-la-vệ (Kapilavatthu), tại Tu viện Cây Đa. Bấy giờ, bà Ma-ha Ba-xà-ba-đề Gotamī (Mahāpajāpati Gotamī) đến đảnh lễ Đức Phật, đứng sang một bên và bạch rằng:
 
@@ -93,7 +93,7 @@ Ví như một cánh đồng mía. Một khi bị bệnh 'thối đỏ' tấn c�
 Như một người xây con đê quanh một hồ nước lớn để đề phòng nước tràn bờ, cũng vậy, để đề phòng, Ta đã quy định tám bát kỉnh pháp này không được vi phạm cho đến trọn đời."
 
 <!--pg-->
-### AN 8.52 Vị Giáo Thọ Sư cho Tỳ-khưu-ni  *Ovādasutta*
+### AN 8.52 Vị Giáo Thọ Sư cho Tỳ-khưu-ni  *Ovādasutta*{#52}
 
 Một thời Đức Phật trú gần Tỳ-xá-ly, tại Đại Lâm, trong Trùng Các Giảng Đường. Bấy giờ, Tôn giả A-nan đến đảnh lễ Đức Phật, ngồi xuống một bên và bạch rằng:
 
@@ -120,7 +120,7 @@ Vị ấy đã thọ giới cụ túc được hai mươi năm hạ hoặc hơn.
 Một vị tỳ-khưu có tám phẩm chất này có thể được xem là giáo thọ sư cho tỳ-khưu-ni."
 
 <!--pg-->
-### AN 8.53 Lời Khuyên Ngắn Gọn cho Gotamī  *Saṁkhittasutta*
+### AN 8.53 Lời Khuyên Ngắn Gọn cho Gotamī  *Saṁkhittasutta*{#53}
 
 Một thời Đức Phật trú gần Tỳ-xá-ly, tại Đại Lâm, trong Trùng Các Giảng Đường. Bấy giờ, bà Ma-ha Ba-xà-ba-đề Gotamī đến đảnh lễ Đức Phật, đứng sang một bên và bạch rằng:
 
@@ -131,7 +131,7 @@ Một thời Đức Phật trú gần Tỳ-xá-ly, tại Đại Lâm, trong Trù
 Bà có thể biết rằng những pháp nào đưa đến ly tham, không đưa đến tham ái; đưa đến sự giải thoát, không đưa đến sự trói buộc; đưa đến sự tiêu tán, không đưa đến sự tích lũy; đưa đến ít ham muốn, không đưa đến nhiều ham muốn; đưa đến biết đủ, không đưa đến không biết đủ; đưa đến sống độc cư, không đưa đến sống chung đụng; đưa đến nghị lực, không đưa đến lười biếng; đưa đến dễ nuôi dưỡng, không đưa đến khó nuôi dưỡng. Bà nên chắc chắn ghi nhớ rằng những pháp ấy chính là giáo pháp, là giới luật, và là lời dạy của Bậc Đạo Sư."
 
 <!--pg-->
-### AN 8.54 Kinh Dīghajāṇu  *Dīghajāṇusutta*
+### AN 8.54 Kinh Dīghajāṇu  *Dīghajāṇusutta*{#54}
 
 Một thời Đức Phật trú ở xứ Câu-ly (Koliyan), nơi có một thị trấn tên là Kakkarapatta. Bấy giờ, Dīghajāṇu người Câu-ly đến đảnh lễ Đức Phật, ngồi xuống một bên và bạch rằng:
 
@@ -186,7 +186,7 @@ Thế nào là thành tựu về trí tuệ? Đó là khi một người thiện
 > Phước báu tăng trưởng nhờ lòng rộng rãi."
 
 <!--pg-->
-### AN 8.55 Kinh Ujjaya  *Ujjayasutta*
+### AN 8.55 Kinh Ujjaya  *Ujjayasutta*{#55}
 
 Bấy giờ, bà-la-môn Ujjaya đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện xã giao xong, ông ngồi xuống một bên và bạch Đức Phật:
 
@@ -241,7 +241,7 @@ Thế nào là thành tựu về trí tuệ? Đó là khi một người thiện
 > Phước báu tăng trưởng nhờ lòng rộng rãi."
 
 <!--pg-->
-### AN 8.56 Nguy Hiểm  *Bhayasutta*
+### AN 8.56 Nguy Hiểm  *Bhayasutta*{#56}
 
 "Này các tỳ-khưu, 'nguy hiểm' (*danger* / mối đe dọa, sự không an toàn) là một thuật ngữ chỉ các dục lạc. '*Khổ đau*' (*suffering* / sự bất toại nguyện, đau đớn về thể chất và tinh thần), '*bệnh tật*' (*disease* / sự ốm đau), '*ung nhọt*' (*boil* / khối mủ sưng đau), '*mũi tên*' (*dart* / vật nhọn gây đau đớn), '*cạm bẫy*' (*snare* / cái bẫy để bắt giữ), '*đầm lầy*' (*bog* / vùng đất lầy lội khó thoát ra), và '*thai tạng*' (*womb* / nơi chứa đựng bào thai, ẩn dụ cho sự tái sinh) là những thuật ngữ chỉ các dục lạc. Và tại sao 'nguy hiểm' là một thuật ngữ chỉ các dục lạc? Người nào bị mê đắm bởi *tham dục* (sensual greed / lòng tham muốn các dục lạc) và bị trói buộc bởi *dục vọng* (lustful desire / sự ham muốn mãnh liệt về tình dục và các thú vui giác quan) thì không được giải thoát khỏi những nguy hiểm trong đời này hay trong các đời sau. Đó là lý do tại sao 'nguy hiểm' là một thuật ngữ chỉ các dục lạc. Và tại sao 'khổ đau', 'bệnh tật', 'ung nhọt', 'mũi tên', 'cạm bẫy', 'đầm lầy', và 'thai tạng' là những thuật ngữ chỉ các dục lạc? Người nào bị mê đắm bởi tham dục và bị trói buộc bởi dục vọng thì không được giải thoát khỏi các thai tạng (sự tái sinh) trong đời này hay trong các đời sau. Đó là lý do tại sao 'thai tạng' là một thuật ngữ chỉ các dục lạc.
 
@@ -262,7 +262,7 @@ Thế nào là thành tựu về trí tuệ? Đó là khi một người thiện
 > Rơi vào vòng sinh và già."
 
 <!--pg-->
-### AN 8.57 Xứng Đáng Nhận Cúng Dường (1)  *Paṭhamaāhuneyyasutta*
+### AN 8.57 Xứng Đáng Nhận Cúng Dường (1)  *Paṭhamaāhuneyyasutta*{#57}
 
 "Này các tỳ-khưu, một vị tỳ-khưu có tám phẩm chất thì *xứng đáng nhận vật cúng dường của chư thiên* (Worthy of Offerings Dedicated to the Gods / bậc xứng đáng được tôn kính và cúng dường cao nhất), xứng đáng được tiếp đón, xứng đáng nhận vật tặng phẩm, xứng đáng được chắp tay kính lễ, và *là ruộng phước vô thượng cho đời* (supreme field of merit for the world / nơi gieo trồng công đức mang lại kết quả tốt đẹp nhất). Tám phẩm chất đó là gì?
 
@@ -285,7 +285,7 @@ Vị ấy chứng ngộ *tâm giải thoát, tuệ giải thoát* không còn ô
 Một vị tỳ-khưu có tám phẩm chất này thì xứng đáng nhận vật cúng dường của chư thiên, xứng đáng được tiếp đón, xứng đáng nhận vật tặng phẩm, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 8.58 Xứng Đáng Nhận Cúng Dường (2)  *Dutiyaāhuneyyasutta*
+### AN 8.58 Xứng Đáng Nhận Cúng Dường (2)  *Dutiyaāhuneyyasutta*{#58}
 
 "Một vị tỳ-khưu có tám phẩm chất thì xứng đáng nhận vật cúng dường của chư thiên, xứng đáng được tiếp đón, xứng đáng nhận vật tặng phẩm, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Tám phẩm chất đó là gì?
 
@@ -308,7 +308,7 @@ Vị ấy chứng ngộ tâm giải thoát, tuệ giải thoát không còn ô n
 Một vị tỳ-khưu có tám phẩm chất này thì xứng đáng nhận vật cúng dường của chư thiên, xứng đáng được tiếp đón, xứng đáng nhận vật tặng phẩm, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 8.59 Tám Hạng Người (1)  *Paṭhamapuggalasutta*
+### AN 8.59 Tám Hạng Người (1)  *Paṭhamapuggalasutta*{#59}
 
 "Này các tỳ-khưu, tám hạng người này xứng đáng nhận vật cúng dường của chư thiên, xứng đáng được tiếp đón, xứng đáng nhận vật tặng phẩm, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Tám hạng người đó là gì? *Bậc Dự lưu* (stream-enterer / người đã nhập vào dòng thánh, chắc chắn đạt Niết-bàn) và người đang thực hành để chứng *quả Dự lưu* (fruit of stream-entry / thành quả của bậc Dự lưu). *Bậc Nhất lai* (once-returner / người chỉ còn tái sinh một lần nữa ở cõi dục) và người đang thực hành để chứng *quả Nhất lai* (fruit of once-return / thành quả của bậc Nhất lai). *Bậc Bất lai* (non-returner / người không còn tái sinh trở lại cõi dục) và người đang thực hành để chứng *quả Bất lai* (fruit of non-return / thành quả của bậc Bất lai). *Bậc A-la-hán* (perfected one / người đã hoàn toàn giác ngộ, chấm dứt khổ đau và tái sinh), và người đang thực hành để chứng *quả A-la-hán* (fruit of perfection / thành quả của bậc A-la-hán). Đây là tám hạng người xứng đáng nhận vật cúng dường của chư thiên, xứng đáng được tiếp đón, xứng đáng nhận vật tặng phẩm, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời.
 
@@ -323,7 +323,7 @@ Một vị tỳ-khưu có tám phẩm chất này thì xứng đáng nhận vậ
 > Những gì cúng dường cho Tăng đoàn thì có quả lớn."
 
 <!--pg-->
-### AN 8.60 Tám Hạng Người (2)  *Dutiyapuggalasutta*
+### AN 8.60 Tám Hạng Người (2)  *Dutiyapuggalasutta*{#60}
 
 "Này các tỳ-khưu, tám hạng người này xứng đáng nhận vật cúng dường của chư thiên, xứng đáng được tiếp đón, xứng đáng nhận vật tặng phẩm, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời. Tám hạng người đó là gì? Bậc Dự lưu và người đang thực hành để chứng quả Dự lưu. Bậc Nhất lai và người đang thực hành để chứng quả Nhất lai. Bậc Bất lai và người đang thực hành để chứng quả Bất lai. Bậc A-la-hán, và người đang thực hành để chứng quả A-la-hán. Đây là tám hạng người xứng đáng nhận vật cúng dường của chư thiên, xứng đáng được tiếp đón, xứng đáng nhận vật tặng phẩm, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời.
 

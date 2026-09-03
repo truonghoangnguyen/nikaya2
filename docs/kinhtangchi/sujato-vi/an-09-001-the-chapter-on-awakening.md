@@ -1,6 +1,6 @@
 # Phẩm về Giác Ngộ
 
-### AN 9.1 Giác Ngộ *Sambodhisutta*
+### AN 9.1 Giác Ngộ *Sambodhisutta*{#1}
 
 Như vầy tôi nghe. Một thời Thế Tôn trú gần Sāvatthī (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc). Tại đấy, Thế Tôn gọi các Tỳ kheo:
 
@@ -35,7 +35,7 @@ Một Tỳ kheo có bạn lành, bạn tốt, thân hữu tốt có thể đư�
 Nhưng rồi, một Tỳ kheo dựa trên năm điều này nên phát triển thêm bốn điều nữa. Họ nên phát triển *nhận thức* (perceptions / *tưởng*, nhận biết-phân biệt và gắn nhãn) về sự bất tịnh để từ bỏ tham ái, phát triển tâm từ để từ bỏ tức giận, phát triển *niệm hơi thở* (mindfulness of breathing / sự tỉnh thức về hơi thở) để cắt đứt suy nghĩ, và nhận thức về vô thường để nhổ tận gốc *ngã mạn* (conceit 'I am' / sự kiêu ngạo ‘tôi là’). Khi ông nhận thức được vô thường, nhận thức về *vô ngã* (not-self / không có tự ngã) trở nên vững chắc. Nhận thức được vô ngã, ông nhổ tận gốc ngã mạn và đạt được *Niết-bàn* (extinguishment / sự kết thúc mọi khổ đau) ngay trong đời này.”
 
 <!--pg-->
-### AN 9.2 Nương Tựa *Nissayasutta*
+### AN 9.2 Nương Tựa *Nissayasutta*{#2}
 
 Khi ấy, một Tỳ kheo đến đảnh lễ Thế Tôn, rồi ngồi xuống một bên và thưa với Ngài:
 
@@ -54,7 +54,7 @@ Nếu một Tỳ kheo được hỗ trợ bởi trí tuệ, từ bỏ điều b�
 Nhưng rồi, một Tỳ kheo dựa trên năm điều này nên nương tựa vào bốn điều. Bốn điều gì? Sau khi thẩm xét, một Tỳ kheo sử dụng một số thứ, chịu đựng một số thứ, tránh né một số thứ, và loại bỏ một số thứ. Đó là cách một Tỳ kheo được hỗ trợ.”
 
 <!--pg-->
-### AN 9.3 Với Meghiya *Meghiyasutta*
+### AN 9.3 Với Meghiya *Meghiyasutta*{#3}
 
 Một thời Thế Tôn trú gần Cālikā, trên núi Cālikā.
 
@@ -107,7 +107,7 @@ Một Tỳ kheo có bạn lành, bạn tốt, thân hữu tốt có thể đư�
 Nhưng rồi, một Tỳ kheo dựa trên năm điều này nên phát triển thêm bốn điều nữa. Họ nên phát triển nhận thức về sự bất tịnh để từ bỏ tham ái, phát triển *tâm từ* (love / lòng thương yêu) để từ bỏ tức giận, phát triển niệm hơi thở để cắt đứt suy nghĩ, và nhận thức về vô thường để nhổ tận gốc ngã mạn. Khi ông nhận thức được vô thường, nhận thức về vô ngã trở nên vững chắc. Nhận thức được vô ngã, ông nhổ tận gốc ngã mạn và đạt được Niết-bàn ngay trong đời này.”
 
 <!--pg-->
-### AN 9.4 Với Nandaka *Nandakasutta*
+### AN 9.4 Với Nandaka *Nandakasutta*{#4}
 
 Một thời Thế Tôn trú gần Sāvatthī, tại Jetavana, khu vườn của ông Anāthapiṇḍika.
 
@@ -152,7 +152,7 @@ Lại nữa, một Tỳ kheo giảng dạy Chánh pháp cho các Tỳ kheo... B�
 Đây là năm lợi ích của việc lắng nghe giáo pháp vào đúng thời điểm và thảo luận giáo pháp vào đúng thời điểm.”
 
 <!--pg-->
-### AN 9.5 Năng Lực *Balasutta*
+### AN 9.5 Năng Lực *Balasutta*{#5}
 
 "Này các Tỳ kheo, có bốn *năng lực* (powers / *lực* / sức mạnh nội tâm) này. Bốn năng lực gì? Năng lực trí tuệ, năng lực siêng năng, năng lực *không bị khiển trách* (blamelessness / *anavajja* / không có lỗi lầm đáng chê), và năng lực *nhiếp phục* (inclusiveness / *saṅgaha* / khả năng thu hút, giúp đỡ người khác).
 
@@ -171,7 +171,7 @@ Khi ấy, Thánh đệ tử đó suy ngẫm: ‘Ta không sợ hãi về sinh k�
 Một Thánh đệ tử có bốn năng lực này đã vượt qua năm nỗi sợ hãi này.”
 
 <!--pg-->
-### AN 9.6 Gần Gũi *Sevanāsutta*
+### AN 9.6 Gần Gũi *Sevanāsutta*{#6}
 
 Tại đấy, Tôn giả Sāriputta (Xá-lợi-phất) gọi các Tỳ kheo:
 
@@ -196,7 +196,7 @@ Ngược lại, nếu các ông biết về một người: ‘Khi tôi gần g�
 ‘Các ông nên phân biệt hai loại xứ sở: những nơi các ông nên lui tới, và những nơi các ông không nên lui tới.’ Đó là điều tôi đã nói, nhưng tại sao tôi lại nói vậy? Này, nếu các ông biết về một xứ sở: ‘Khi tôi lui tới xứ sở này, các pháp bất thiện tăng trưởng, và các pháp thiện suy giảm.’ Các ông không nên lui tới loại xứ sở đó. Ngược lại, nếu các ông biết về một xứ sở: ‘Khi tôi lui tới xứ sở này, các pháp bất thiện suy giảm, và các pháp thiện tăng trưởng.’ Các ông nên lui tới loại xứ sở đó. ‘Các ông nên phân biệt hai loại xứ sở: những nơi các ông nên lui tới, và những nơi các ông không nên lui tới.’ Đó là điều tôi đã nói, và đây là lý do tại sao tôi nói vậy.”
 
 <!--pg-->
-### AN 9.7 Với Du Sĩ Sutavā *Sutavāsutta*
+### AN 9.7 Với Du Sĩ Sutavā *Sutavāsutta*{#7}
 
 Một thời Thế Tôn trú gần Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu). Khi ấy, du sĩ Sutavā đến gặp Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật xong, ông ngồi xuống một bên và thưa với Thế Tôn:
 
@@ -205,7 +205,7 @@ Một thời Thế Tôn trú gần Rājagaha (Vương Xá), trên núi Gijjhakū
 "Đúng vậy, Sutavā, ông đã nghe, học, suy tư và ghi nhớ điều đó một cách đúng đắn. Trong quá khứ, cũng như hôm nay, Ta nói điều này: ‘Một Tỳ kheo đã hoàn thiện – với các phiền não đã chấm dứt, đã hoàn thành con đường tu tập, làm những gì phải làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt kiết sử của sự tiếp tục tồn tại, và được giải thoát đúng đắn nhờ giác ngộ – không thể vi phạm chín điều. Một Tỳ kheo với các phiền não đã chấm dứt không thể cố ý tước đoạt mạng sống của một chúng sinh, lấy vật gì với ý định trộm cắp, hành dâm, nói dối cố ý, hoặc tích trữ hàng hóa để hưởng thụ riêng như khi còn là người tại gia. Và họ không thể đưa ra quyết định bị thiên vị bởi *ưa thích* (favoritism / *chanda* / sự thiên vị do yêu thích), *thù ghét* (hostility / *dosa* / sự thiên vị do ghét), *ngu si* (stupidity / *moha* / sự thiên vị do si mê), hoặc *nhút nhát* (cowardice / *bhaya* / sự thiên vị do sợ hãi).’ Trong quá khứ, cũng như hôm nay, Ta nói điều này: ‘Một Tỳ kheo đã hoàn thiện – với các phiền não đã chấm dứt, đã hoàn thành con đường tu tập, làm những gì phải làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt kiết sử của sự tiếp tục tồn tại, và được giải thoát đúng đắn nhờ giác ngộ – không thể vi phạm chín điều này.’”
 
 <!--pg-->
-### AN 9.8 Với Du Sĩ Sajjha *Sajjhasutta*
+### AN 9.8 Với Du Sĩ Sajjha *Sajjhasutta*{#8}
 
 Một thời Thế Tôn trú gần Rājagaha, trên núi Gijjhakūṭa. Khi ấy, du sĩ Sajjha đến gặp Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật xong, ông ngồi xuống một bên và thưa với Thế Tôn:
 
@@ -214,11 +214,11 @@ Một thời Thế Tôn trú gần Rājagaha, trên núi Gijjhakūṭa. Khi ấy
 "Đúng vậy, Sajjha, ông đã nghe, học, suy tư và ghi nhớ điều đó một cách đúng đắn. Trong quá khứ, cũng như hôm nay, Ta nói điều này: ‘Một Tỳ kheo đã hoàn thiện – với các phiền não đã chấm dứt, đã hoàn thành con đường tu tập, làm những gì phải làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt kiết sử của sự tiếp tục tồn tại, và được giải thoát đúng đắn nhờ giác ngộ – không thể vi phạm chín điều. Một Tỳ kheo với các phiền não đã chấm dứt không thể cố ý giết một chúng sinh, lấy vật gì với ý định trộm cắp, hành dâm, nói dối cố ý, hoặc tích trữ hàng hóa để hưởng thụ riêng như khi còn là người tại gia. Và họ không thể từ bỏ Phật, Pháp, Tăng, hoặc *giới học* (training / *sikkhā* / sự rèn luyện các giới luật).’ Trong quá khứ, cũng như hôm nay, Ta nói điều này: ‘Một Tỳ kheo đã hoàn thiện – với các phiền não đã chấm dứt, đã hoàn thành con đường tu tập, làm những gì phải làm, đặt gánh nặng xuống, đạt được mục tiêu chân chính của mình, hoàn toàn chấm dứt kiết sử của sự tiếp tục tồn tại, và được giải thoát đúng đắn nhờ giác ngộ – không thể vi phạm chín điều này.’”
 
 <!--pg-->
-### AN 9.9 Các Hạng Người *Puggalasutta*
+### AN 9.9 Các Hạng Người *Puggalasutta*{#9}
 
 "Này các Tỳ kheo, có chín hạng người này được tìm thấy trên thế gian. Chín hạng người nào? Bậc A-la-hán và người đang thực hành để đạt quả A-la-hán. Bậc A-na-hàm và người đang thực hành để chứng quả A-na-hàm. Bậc Tư-đà-hàm và người đang thực hành để chứng quả Tư-đà-hàm. Bậc Tu-đà-hoàn và người đang thực hành để chứng quả Tu-đà-hoàn. Và *phàm phu* (ordinary person / người thường, chưa chứng Thánh quả). Đây là chín hạng người được tìm thấy trên thế gian.”
 
 <!--pg-->
-### AN 9.10 Xứng Đáng Được Cúng Dường *Āhuneyyasutta*
+### AN 9.10 Xứng Đáng Được Cúng Dường *Āhuneyyasutta*{#10}
 
 "Này các Tỳ kheo, chín hạng người này là *āhuneyya* (worthy of offerings dedicated to the gods / xứng đáng được cúng dường), *pāhuneyya* (worthy of hospitality / xứng đáng được khoản đãi), *dakkhiṇeyya* (worthy of a religious donation / xứng đáng được bố thí), *añjalikaraṇīya* (worthy of greeting with joined palms / xứng đáng được chắp tay kính lễ), và là *anuttaraṁ puññakkhettaṁ lokassa* (supreme field of merit for the world / ruộng phước vô thượng cho đời). Chín hạng người nào? Bậc A-la-hán và người đang thực hành để đạt quả A-la-hán. Bậc A-na-hàm và người đang thực hành để chứng quả A-na-hàm. Bậc Tư-đà-hàm và người đang thực hành để chứng quả Tư-đà-hàm. Bậc Tu-đà-hoàn và người đang thực hành để chứng quả Tu-đà-hoàn. Và *người chuyển tộc tánh* (a lamb of the flock / *gotrabhū*, người ở giai đoạn tâm thức chuyển từ phàm sang Thánh, ngay trước khi chứng quả Dự lưu). Đây là chín hạng người xứng đáng được cúng dường, xứng đáng được khoản đãi, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời.”

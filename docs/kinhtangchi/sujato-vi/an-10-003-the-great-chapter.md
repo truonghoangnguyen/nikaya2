@@ -1,6 +1,6 @@
 # Đại Phẩm
 
-### AN 10.21 Tiếng Rống Sư Tử  *Sīhanādasutta*
+### AN 10.21 Tiếng Rống Sư Tử  *Sīhanādasutta*{#21}
 
 "Này các Tỳ kheo, vào buổi chiều, sư tử, vua của các loài thú, ra khỏi hang, ngáp, nhìn khắp bốn phương, và rống lên tiếng rống sư tử ba lần. Sau đó, nó bắt đầu đi săn. Tại sao vậy? 'Mong rằng ta không làm hại bất kỳ sinh vật nhỏ bé nào trên vùng đất không rõ ràng.'
 
@@ -29,7 +29,7 @@ Hơn nữa, bậc Như Lai đã chứng ngộ *vô lậu tâm giải thoát và 
 Đây là mười Như Lai lực mà bậc Như Lai sở hữu. Với những năng lực này, Ngài chiếm giữ vị trí tối thượng, rống lên tiếng rống sư tử trong các hội chúng, và chuyển bánh xe Pháp."
 
 <!--pg-->
-### AN 10.22 Các Giả Thuyết  *Adhivuttipadasutta*
+### AN 10.22 Các Giả Thuyết  *Adhivuttipadasutta*{#22}
 
 Khi ấy, Tôn giả A Nan đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên. Đức Phật nói với Tôn giả:
 
@@ -58,7 +58,7 @@ Hơn nữa, bậc Như Lai đã chứng ngộ vô lậu tâm giải thoát và t
 Đây là mười Như Lai lực mà bậc Như Lai sở hữu. Với những năng lực này, Ngài chiếm giữ vị trí tối thượng, rống lên tiếng rống sư tử trong các hội chúng, và chuyển bánh xe Pháp."
 
 <!--pg-->
-### AN 10.23 Thân  *Kāyasutta*
+### AN 10.23 Thân  *Kāyasutta*{#23}
 
 "Này các Tỳ kheo, có những điều cần từ bỏ bằng thân, không phải bằng lời. Có những điều cần từ bỏ bằng lời, không phải bằng thân. Có những điều cần từ bỏ không phải bằng thân, cũng không phải bằng lời, mà bằng cách thấy đi thấy lại bằng trí tuệ.
 
@@ -77,7 +77,7 @@ Giả sử rằng tham chi phối Tỳ kheo ấy và tiếp tục tồn tại. H
 Giả sử rằng tham không chi phối Tỳ kheo ấy và không tiếp tục tồn tại. Hoặc sân ... si ... phẫn nộ ... hiềm hận ... mạn ... quá mạn ... xan tham ... tật đố hiểm ác ... hoặc ước muốn xấu xa không chi phối Tỳ kheo ấy và không tiếp tục tồn tại. Các ngươi nên biết về vị ấy: 'Vị tôn giả này có sự hiểu biết để loại trừ tham, nên tham không chi phối vị ấy và không tiếp tục tồn tại. Vị ấy có sự hiểu biết để loại trừ sân ... si ... phẫn nộ ... hiềm hận ... mạn ... quá mạn ... xan tham ... tật đố hiểm ác ... và ước muốn xấu xa, nên ước muốn xấu xa không chi phối vị ấy và không tiếp tục tồn tại.'"
 
 <!--pg-->
-### AN 10.24 Bởi Ma Ha Châu Na  *Mahācundasutta*
+### AN 10.24 Bởi Ma Ha Châu Na  *Mahācundasutta*{#24}
 
 Một thời, Tôn giả Ma Ha Châu Na trú ở xứ Cetī, tại Sahajāti. Tại đó, Tôn giả nói với các Tỳ kheo: "Thưa các Hiền giả, các Tỳ kheo!"
 
@@ -104,12 +104,12 @@ Giả sử một người giàu có, sung túc, nhiều của cải tuyên bố 
 Cũng vậy, một Tỳ kheo tuyên bố về tri kiến và sự tu tập rằng: 'Tôi biết giáo pháp này, tôi thấy giáo pháp này. Và tôi đã phát triển về sức chịu đựng của thân, giới đức, tâm, và trí tuệ.' Giả sử rằng tham không chi phối Tỳ kheo ấy và không tiếp tục tồn tại. Hoặc sân ... si ... phẫn nộ ... hiềm hận ... mạn ... quá mạn ... xan tham ... tật đố hiểm ác ... hoặc ước muốn xấu xa không chi phối Tỳ kheo ấy và không tiếp tục tồn tại. Các vị nên biết về vị ấy: 'Vị tôn giả này có sự hiểu biết để loại trừ tham, nên tham không chi phối vị ấy và không tiếp tục tồn tại. Vị ấy có sự hiểu biết để loại trừ sân ... si ... phẫn nộ ... hiềm hận ... mạn ... quá mạn ... xan tham ... tật đố hiểm ác ... và ước muốn xấu xa, nên ước muốn xấu xa không chi phối vị ấy và không tiếp tục tồn tại.'"
 
 <!--pg-->
-### AN 10.25 Thiền Biến Xứ  *Kasiṇasutta*
+### AN 10.25 Thiền Biến Xứ  *Kasiṇasutta*{#25}
 
 "Này các Tỳ kheo, có mười đề mục thiền *biến xứ* (universal / phổ quát, bao trùm khắp nơi, dùng trong thiền định) này. Mười đề mục đó là gì? Một người nhận thức đề mục đất biến xứ ở trên, dưới, ngang, không phân chia và vô biên. Họ nhận thức đề mục nước biến xứ ... đề mục lửa biến xứ ... đề mục gió biến xứ ... đề mục xanh biến xứ ... đề mục vàng biến xứ ... đề mục đỏ biến xứ ... đề mục trắng biến xứ ... đề mục không gian biến xứ ... Họ nhận thức đề mục thức biến xứ ở trên, dưới, ngang, không phân chia và vô biên. Đây là mười đề mục thiền biến xứ."
 
 <!--pg-->
-### AN 10.26 Với Kāḷī  *Kāḷīsutta*
+### AN 10.26 Với Kāḷī  *Kāḷīsutta*{#26}
 
 Một thời, Tôn giả Ma Ha Ca Chiên Diên trú ở xứ Avanti, gần Kuraraghara trên núi Dốc.
 
@@ -138,7 +138,7 @@ Vì vậy, này chị, đó là cách để hiểu ý nghĩa chi tiết của nh
 > và không ai quá gần gũi với Ta.'"
 
 <!--pg-->
-### AN 10.27 Các Câu Hỏi Lớn (Thứ Nhất)  *Paṭhamamahāpañhāsutta*
+### AN 10.27 Các Câu Hỏi Lớn (Thứ Nhất)  *Paṭhamamahāpañhāsutta*{#27}
 
 Một thời, Đức Phật trú gần Sāvatthī, tại Kỳ Viên, tu viện của ông Anāthapiṇḍika (Cấp Cô Độc).
 
@@ -175,7 +175,7 @@ Chín pháp là gì? Chín *chúng sanh trú* (abodes of sentient beings / chín
 'Mười pháp: câu hỏi, tóm tắt và trả lời.' Đó là những gì Ta đã nói, nhưng tại sao Ta lại nói vậy? Hoàn toàn nhàm chán, ly tham, và giải thoát đối với mười pháp, thấy rõ giới hạn của chúng và hoàn toàn thông hiểu ý nghĩa của chúng, một Tỳ kheo chấm dứt khổ đau ngay trong đời này. Mười pháp đó là gì? Mười cách thực hiện *bất thiện nghiệp* (unskillful deeds / hành động xấu ác). Hoàn toàn nhàm chán, ly tham, và giải thoát đối với mười pháp này, thấy rõ giới hạn của chúng và hoàn toàn thông hiểu ý nghĩa của chúng, một Tỳ kheo chấm dứt khổ đau ngay trong đời này. 'Mười pháp: câu hỏi, tóm tắt và trả lời.' Đó là những gì Ta đã nói, và đây là lý do tại sao Ta nói vậy."
 
 <!--pg-->
-### AN 10.28 Các Câu Hỏi Lớn (Thứ Hai)  *Dutiyamahāpañhāsutta*
+### AN 10.28 Các Câu Hỏi Lớn (Thứ Hai)  *Dutiyamahāpañhāsutta*{#28}
 
 Một thời, Đức Phật trú gần Kajaṅgalā trong một khu rừng tre. Khi ấy, một số cư sĩ tại gia ở Kajaṅgalā đến gặp Tỳ kheo ni Kajaṅgalikā, đảnh lễ, ngồi xuống một bên, và nói với vị ấy:
 
@@ -204,7 +204,7 @@ Hoàn toàn nhàm chán, ly tham, và giải thoát đối với chín pháp, th
 "Tốt lắm, tốt lắm, các gia chủ. Tỳ kheo ni Kajaṅgalikā rất sắc sảo, vị ấy có trí tuệ lớn. Nếu các ngươi đến gặp Ta và hỏi câu hỏi này, Ta cũng sẽ trả lời giống hệt như Tỳ kheo ni Kajaṅgalikā. Đó chính là ý nghĩa của nó, và các ngươi nên ghi nhớ như vậy."
 
 <!--pg-->
-### AN 10.29 Kosala (Thứ Nhất)  *Paṭhamakosalasutta*
+### AN 10.29 Kosala (Thứ Nhất)  *Paṭhamakosalasutta*{#29}
 
 "Trong phạm vi xứ Kāsi và Kosala, và trong phạm vi quyền cai trị của Vua Ba Tư Nặc xứ Kosala, Vua Ba Tư Nặc được cho là tối thắng. Nhưng ngay cả Vua Ba Tư Nặc cũng suy tàn và hoại diệt.
 
@@ -287,7 +287,7 @@ Thấy điều này, một vị Thánh đệ tử có học trở nên nhàm ch�
 Có một số Sa môn và Bà la môn chủ trương sự *Niết bàn* (extinguishment / sự dập tắt, sự giải thoát cuối cùng) tối hậu ngay trong đời này. Đây là điều tốt nhất của những người chủ trương sự Niết bàn ngay trong đời này, đó là, giải thoát nhờ không chấp thủ sau khi như thật hiểu rõ sự sanh khởi, sự đoạn diệt, vị ngọt, sự nguy hại, và sự thoát ly của sáu *xúc xứ* (fields of contact / sáu nơi phát sinh sự tiếp xúc: mắt, tai, mũi, lưỡi, thân, ý và các đối tượng tương ứng). Mặc dù Ta tuyên bố và khẳng định điều này, một số Sa môn và Bà la môn xuyên tạc Ta bằng lời tuyên bố không chính xác, rỗng tuếch, sai lầm, không đúng sự thật: 'Sa môn Cồ Đàm không chủ trương sự hiểu biết hoàn toàn về *dục lạc* (sensual pleasures / niềm vui thích giác quan), các sắc, hay các cảm thọ.' Nhưng Ta chủ trương sự hiểu biết hoàn toàn về dục lạc, các sắc, và các cảm thọ. Và Ta chủ trương sự Niết bàn hoàn toàn nhờ không chấp thủ ngay trong đời này, *vô nguyện* (wishless / không còn mong cầu), được dập tắt và mát mẻ."
 
 <!--pg-->
-### AN 10.30 Kosala (Thứ Hai)  *Dutiyakosalasutta*
+### AN 10.30 Kosala (Thứ Hai)  *Dutiyakosalasutta*{#30}
 
 Một thời, Đức Phật trú gần Sāvatthī, tại Kỳ Viên, tu viện của ông Anāthapiṇḍika.
 

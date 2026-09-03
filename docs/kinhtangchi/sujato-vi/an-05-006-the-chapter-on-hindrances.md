@@ -1,6 +1,6 @@
 # Phẩm về trói buộc
 
-### AN 5.51 Chướng Ngại *Āvaraṇasutta*
+### AN 5.51 Chướng Ngại *Āvaraṇasutta*{#51}
 
 Như vầy tôi nghe. Một thời Đức Phật trú gần Sāvatthī, tại Kỳ Viên, tịnh xá ông Anāthapiṇḍika. Tại đó, Đức Phật gọi các Tỷ-kheo: "Này các Tỷ-kheo!"
 
@@ -21,12 +21,12 @@ Ví như có một dòng sông trên núi chảy xiết, đi xa, cuốn trôi m�
 Cũng vậy, hãy xem một vị Tỷ-kheo có trí tuệ mạnh mẽ, đã từ bỏ năm trói buộc và chướng ngại này, là sự che mờ và ô nhiễm của tâm, làm trí tuệ yếu ớt. Hoàn toàn có thể vị ấy biết được lợi ích của mình, lợi ích của người, hay lợi ích của cả hai; hay chứng ngộ được pháp thượng nhân, tri kiến thù thắng xứng đáng bậc Thánh."
 
 <!--pg-->
-### AN 5.52 Đống Bất Thiện *Akusalarāsisutta*
+### AN 5.52 Đống Bất Thiện *Akusalarāsisutta*{#52}
 
 "Này các Tỷ-kheo, nếu nói một cách đúng đắn, người ta gọi năm trói buộc là một '*đống bất thiện*' (heap of the unskillful / tập hợp những điều xấu ác). Vì năm trói buộc này hoàn toàn là một đống bất thiện. Năm loại ấy là gì? trói buộc dục tham, tức giận, uể oải sao nhãng và buồn ngủ, bồn chồn lo lắng và hối hận, và nghi. Nếu nói một cách đúng đắn, người ta gọi năm trói buộc này là một 'đống bất thiện'. Vì năm trói buộc này hoàn toàn là một đống bất thiện."
 
 <!--pg-->
-### AN 5.53 Các Yếu Tố Hỗ Trợ Tinh Cần *Padhāniyaṅgasutta*
+### AN 5.53 Các Yếu Tố Hỗ Trợ Tinh Cần *Padhāniyaṅgasutta*{#53}
 
 "Này các Tỷ-kheo, có năm *chi phần hỗ trợ tinh cần* (factors that support meditation / yếu tố giúp nỗ lực tu tập) này. Năm loại ấy là gì?
 
@@ -43,7 +43,7 @@ Vị ấy có trí tuệ. Vị ấy có trí tuệ về sự sinh diệt, là tr
 Đó là năm chi phần hỗ trợ tinh cần."
 
 <!--pg-->
-### AN 5.54 Thời Điểm Thích Hợp Cho Tinh Cần *Samayasutta*
+### AN 5.54 Thời Điểm Thích Hợp Cho Tinh Cần *Samayasutta*{#54}
 
 "Này các Tỷ-kheo, có năm thời điểm không thích hợp cho sự tinh cần. Năm loại ấy là gì?
 
@@ -74,7 +74,7 @@ Lại nữa, Tăng đoàn sống thoải mái, hòa hợp, quý mến nhau, khô
 Đó là năm thời điểm thích hợp cho sự tinh cần."
 
 <!--pg-->
-### AN 5.55 Mẹ và Con Trai *Mātāputtasutta*
+### AN 5.55 Mẹ và Con Trai *Mātāputtasutta*{#55}
 
 Một thời Đức Phật trú gần Sāvatthī, tại Kỳ Viên, tịnh xá ông Anāthapiṇḍika.
 
@@ -118,7 +118,7 @@ Khi người nữ đi, nàng chiếm giữ tâm trí người nam. Khi người 
 > Đã đạt đến sự chấm dứt phiền não."
 
 <!--pg-->
-### AN 5.56 Thầy Tế Độ *Upajjhāyasutta*
+### AN 5.56 Thầy Tế Độ *Upajjhāyasutta*{#56}
 
 Rồi một vị Tỷ-kheo đến gặp thầy tế độ của mình và thưa: "Bạch thầy, nay thân con cảm thấy như bị bỏ thuốc mê. Con mất phương hướng, giáo pháp không hiện khởi trong tâm, và uể oải sao nhãng cùng buồn ngủ tràn ngập tâm trí con. Con sống đời phạm hạnh không hài lòng, và có nghi ngờ về giáo pháp."
 
@@ -143,7 +143,7 @@ Rồi vị Tỷ-kheo ấy dẫn đệ tử của mình đến gặp Đức Phậ
 Vậy các con nên tu tập như thế này: 'Chúng ta sẽ phòng hộ các căn, tiết độ trong ăn uống, chuyên tâm vào sự tỉnh thức, nhận biết các pháp thiện, và theo đuổi việc phát triển các phẩm chất đưa đến giác ngộ vào buổi tối và lúc rạng đông.' Đó là cách các con nên tu tập."
 
 <!--pg-->
-### AN 5.57 Các Pháp Cần Thường Xuyên Quán Xét *Abhiṇhapaccavekkhitabbaṭhānasutta*
+### AN 5.57 Các Pháp Cần Thường Xuyên Quán Xét *Abhiṇhapaccavekkhitabbaṭhānasutta*{#57}
 
 "Này các Tỷ-kheo, người nữ hay người nam, tại gia hay xuất gia nên thường xuyên quán xét năm điều này. Năm điều ấy là gì?
 
@@ -203,7 +203,7 @@ Khi ấy, vị Thánh đệ tử quán xét: 'Không chỉ riêng ta có bản c
 > Ta quyết tâm với đời sống phạm hạnh."
 
 <!--pg-->
-### AN 5.58 Các Thanh Niên Licchavi *Licchavikumārakasutta*
+### AN 5.58 Các Thanh Niên Licchavi *Licchavikumārakasutta*{#58}
 
 Một thời Đức Phật trú gần Vesālī, tại Đại Lâm (Mahāvana), trong Trùng Các Giảng Đường (Kūtāgārasālā).
 
@@ -254,11 +254,11 @@ Chỉ có thể mong đợi sự tăng trưởng, không suy giảm, khi tìm th
 > Và người ấy ra đi để hưởng phúc trên thiên giới."
 
 <!--pg-->
-### AN 5.59 Xuất Gia Khi Già (1) *Paṭhamavuḍḍhapabbajitasutta*
+### AN 5.59 Xuất Gia Khi Già (1) *Paṭhamavuḍḍhapabbajitasutta*{#59}
 
 "Này các Tỷ-kheo, thật khó tìm được người xuất gia khi tuổi đã già mà có đủ năm phẩm chất. Năm phẩm chất ấy là gì? Thật khó tìm được người xuất gia khi tuổi đã già mà tinh tế, có uy nghi, và học rộng, có thể giảng Pháp, và thuộc lòng giới luật. Thật khó tìm được người xuất gia khi tuổi đã già mà có đủ năm phẩm chất này."
 
 <!--pg-->
-### AN 5.60 Xuất Gia Khi Già (2) *Dutiyavuḍḍhapabbajitasutta*
+### AN 5.60 Xuất Gia Khi Già (2) *Dutiyavuḍḍhapabbajitasutta*{#60}
 
 "Này các Tỷ-kheo, thật khó tìm được người xuất gia khi tuổi đã già mà có đủ năm phẩm chất. Năm phẩm chất ấy là gì? Thật khó tìm được người xuất gia khi tuổi đã già mà dễ khuyên bảo, ghi nhớ những gì đã học, và học hỏi với lòng kính trọng, có thể giảng Pháp, và thuộc lòng giới luật. Thật khó tìm được người xuất gia khi tuổi đã già mà có đủ năm phẩm chất này."

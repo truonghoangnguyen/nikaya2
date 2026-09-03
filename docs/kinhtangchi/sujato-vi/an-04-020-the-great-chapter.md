@@ -1,6 +1,6 @@
 # Phẩm Lớn
 
-### AN 4.191 Kinh Lắng Nghe (Sotānugatasutta)
+### AN 4.191 Kinh Lắng Nghe (Sotānugatasutta){#191}
 
 "Này các Tỳ kheo, các ông có thể mong đợi bốn lợi ích khi giáo pháp đã được lắng nghe, tụng đọc, quán chiếu bằng tâm, và khéo thâm nhập bằng tri kiến. Bốn lợi ích đó là gì?
 
@@ -15,7 +15,7 @@ Lại nữa, có vị Tỳ kheo ghi nhớ giáo pháp—bao gồm kinh, ứng t�
 Các ông có thể mong đợi bốn lợi ích này khi giáo pháp đã được lắng nghe, tụng đọc, quán chiếu bằng tâm, và khéo thâm nhập bằng tri kiến."
 
 <!--pg-->
-### AN 4.192 Kinh Các Trường Hợp (Ṭhānasutta)
+### AN 4.192 Kinh Các Trường Hợp (Ṭhānasutta){#192}
 
 "Này các Tỳ kheo, bốn điều này có thể được biết trong bốn trường hợp. Bốn điều đó là gì?
 
@@ -52,7 +52,7 @@ Ví như một người mắt sáng đứng trên bờ hồ. Người ấy thấ
 Đây là bốn điều có thể được biết trong bốn trường hợp."
 
 <!--pg-->
-### AN 4.193 Kinh Bhaddiya (Bhaddiyasutta)
+### AN 4.193 Kinh Bhaddiya (Bhaddiyasutta){#193}
 
 Một thời Thế Tôn trú gần Vesālī, tại Đại Lâm, trong ngôi nhà có mái nhọn. Bấy giờ, Bhaddiya người Licchavi đi đến Thế Tôn, đảnh lễ, rồi ngồi xuống một bên và bạch rằng:
 
@@ -137,7 +137,7 @@ Khi nghe vậy, Bhaddiya người Licchavi bạch Thế Tôn: "Thật vi diệu,
 "Đúng vậy, Bhaddiya! Đúng vậy, Bhaddiya! Nếu tất cả các vị quý tộc, bà la môn, nông dân, và tiện dân được quyến rũ bởi điều này, đó sẽ là vì hạnh phúc và an lạc lâu dài của họ. Nếu cả thế giới này—với chư thiên, Ma vương, và các vị thần linh, quần chúng này với các sa môn và bà la môn, trời và người—được quyến rũ bởi điều này, để từ bỏ các pháp bất thiện và thực hành các pháp thiện, đó sẽ là vì hạnh phúc và an lạc lâu dài của họ. Nếu những cây sala lớn này được quyến rũ bởi điều này, để từ bỏ các pháp bất thiện và thực hành các pháp thiện, đó sẽ là vì hạnh phúc và an lạc lâu dài của chúng—nếu chúng có tình thức. Huống nữa là một con người!"
 
 <!--pg-->
-### AN 4.194 Kinh Tại Sāpūga (Sāmugiyasutta)
+### AN 4.194 Kinh Tại Sāpūga (Sāmugiyasutta){#194}
 
 Một thời Tôn giả Ānanda trú ở xứ Koliya, tại một thị trấn tên là Sāpūga. Bấy giờ, một số người Koliya ở Sāpūga đi đến Tôn giả Ānanda, đảnh lễ, rồi ngồi xuống một bên. Tôn giả Ānanda nói với họ:
 
@@ -154,7 +154,7 @@ Và thế nào là pháp cần nỗ lực để thanh tịnh về giải thoát?
 Bốn pháp cần nỗ lực để thanh tịnh này đã được Thế Tôn, bậc Tri Giả, Kiến Giả, bậc A La Hán, bậc Chánh Đẳng Giác, khéo giảng dạy. Chúng nhằm mục đích thanh tịnh hóa chúng sanh, vượt qua sầu và bi, chấm dứt khổ và ưu, chứng ngộ chánh đạo, và chứng đắc Niết Bàn."
 
 <!--pg-->
-### AN 4.195 Kinh Vappa (Vappasutta)
+### AN 4.195 Kinh Vappa (Vappasutta){#195}
 
 Một thời Thế Tôn trú ở xứ Sakya, gần Kapilavatthu, tại tu viện Cây Bàng. Bấy giờ, Vappa người Sakya, một đệ tử của phái Nigantha, đi đến Tôn giả Mahāmoggallāna, đảnh lễ, rồi ngồi xuống một bên. Tôn giả Mahāmoggallāna nói với ông:
 
@@ -201,7 +201,7 @@ Khi nghe vậy, Vappa người Sakya, đệ tử của phái Nigantha, bạch Th
 Thật vi diệu, bạch Thế Tôn!... Kể từ hôm nay, xin Thế Tôn ghi nhận con là một cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### AN 4.196 Kinh Sāḷha (Sāḷhasutta)
+### AN 4.196 Kinh Sāḷha (Sāḷhasutta){#196}
 
 Một thời Thế Tôn trú gần Vesālī, tại Đại Lâm, trong ngôi nhà có mái nhọn. Bấy giờ, Sāḷha và Abhaya người Licchavi đi đến Thế Tôn, đảnh lễ, rồi ngồi xuống một bên và bạch rằng:
 
@@ -234,7 +234,7 @@ Cũng như một chiến binh là thiện xạ, một thánh đệ tử có chá
 Cũng như một chiến binh phá vỡ các vật thể lớn, một thánh đệ tử có chánh giải thoát. Một thánh đệ tử có chánh giải thoát phá vỡ khối vô minh lớn."
 
 <!--pg-->
-### AN 4.197 Kinh Hoàng Hậu Mallikā (Mallikādevīsutta)
+### AN 4.197 Kinh Hoàng Hậu Mallikā (Mallikādevīsutta){#197}
 
 Một thời Thế Tôn trú gần Sāvatthī, tại vườn ông Anāthapiṇḍika, Kỳ Đà Lâm. Bấy giờ, Hoàng hậu Mallikā đi đến Thế Tôn, đảnh lễ, rồi ngồi xuống một bên và bạch rằng:
 
@@ -267,7 +267,7 @@ Trong một đời khác, hẳn con đã không ganh tị, tật đố, ganh gh�
 Thật vi diệu, bạch Thế Tôn!... Kể từ hôm nay, xin Thế Tôn ghi nhận con là một cư sĩ tại gia đã quy y trọn đời."
 
 <!--pg-->
-### AN 4.198 Kinh Tự Hành Khổ (Attantapasutta)
+### AN 4.198 Kinh Tự Hành Khổ (Attantapasutta){#198}
 
 "Này các Tỳ kheo, có bốn hạng người này được tìm thấy trên thế gian. Bốn hạng người đó là gì?
 
@@ -312,7 +312,7 @@ Vị ấy hiểu rõ: '*Sanh đã tận, phạm hạnh đã thành, việc cần
 Đây là bốn hạng người được tìm thấy trên thế gian."
 
 <!--pg-->
-### AN 4.199 Kinh Ái, Người Thợ Dệt (Taṇhāsutta)
+### AN 4.199 Kinh Ái, Người Thợ Dệt (Taṇhāsutta){#199}
 
 Thế Tôn đã nói điều này:
 
@@ -331,7 +331,7 @@ Như vậy, có mười tám dòng ái khởi lên từ nội tâm, và mười 
 Đây chính là ái đó—người thợ dệt, kẻ lang thang, loài dây leo, sự bám víu. Thế giới này bị nó làm nghẹt thở, bị nó nhấn chìm. Nó làm cho thế giới rối như cuộn chỉ, thắt nút như quả bóng chỉ, và bện lại như cỏ lau và sậy, không thoát khỏi các cõi dữ, ác thú, đọa xứ, luân hồi."
 
 <!--pg-->
-### AN 4.200 Kinh Yêu và Ghét (Pemasutta)
+### AN 4.200 Kinh Yêu và Ghét (Pemasutta){#200}
 
 "Này các Tỳ kheo, bốn điều này sinh khởi từ yêu và ghét. Bốn điều đó là gì?
 

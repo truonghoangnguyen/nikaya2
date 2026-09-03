@@ -1,6 +1,6 @@
 # Phẩm Về An Trú Thoải Mái
 
-### AN 5.101 Tự Tin *Sārajjasutta*
+### AN 5.101 Tự Tin *Sārajjasutta*{#101}
 
 "Này các Tỳ kheo, năm phẩm chất này làm cho một vị *hữu học* (trainee / người còn đang tu học) trở nên tự tin. Năm phẩm chất đó là gì?
 Đó là khi một vị Tỳ kheo có *niềm tin* (faithful / niềm tin), có *giới hạnh* (ethical / đạo đức), *đa văn* (learned / học nhiều nghe rộng), *siêng năng* (energetic / tinh tấn), và có *trí tuệ* (wise / trí tuệ).
@@ -18,7 +18,7 @@ Một người có trí tuệ thì không có sự bất an của người thi�
 Đây là năm phẩm chất làm cho một vị hữu học trở nên tự tin."
 
 <!--pg-->
-### AN 5.102 Bị Nghi Ngờ *Ussaṅkitasutta*
+### AN 5.102 Bị Nghi Ngờ *Ussaṅkitasutta*{#102}
 
 "Này các Tỳ kheo, ngay cả khi một vị Tỳ kheo có phẩm hạnh không thể chê trách, vị ấy vẫn có thể bị nghi ngờ và không được tin tưởng, bị xem là 'Tỳ kheo xấu' vì năm lý do.
 
@@ -27,7 +27,7 @@ Năm lý do đó là gì? Đó là khi một vị Tỳ kheo thường lui tới 
 Ngay cả khi một vị Tỳ kheo có phẩm hạnh không thể chê trách, vị ấy vẫn có thể bị nghi ngờ và không được tin tưởng, bị xem là 'Tỳ kheo xấu' vì năm lý do này."
 
 <!--pg-->
-### AN 5.103 Tên Đại Trộm *Mahācorasutta*
+### AN 5.103 Tên Đại Trộm *Mahācorasutta*{#103}
 
 "Này các Tỳ kheo, một tên đại trộm có năm yếu tố sẽ đột nhập nhà cửa, cướp đoạt tài sản, trộm cắp ở những tòa nhà biệt lập, và chặn đường cướp bóc. Năm yếu tố đó là gì? Một tên đại trộm dựa vào địa hình hiểm trở, nơi ẩn náu kín đáo, và những người có quyền thế; chúng hối lộ, và chúng hành động một mình.
 
@@ -58,7 +58,7 @@ Và làm thế nào một Tỳ kheo xấu hành động một mình? Đó là kh
 Khi một Tỳ kheo xấu có năm phẩm chất này, họ tự làm cho mình tan nát và hư hỏng. Họ đáng bị người trí khiển trách và phê bình, và họ tạo ra nhiều điều xấu ác."
 
 <!--pg-->
-### AN 5.104 Sa Môn Tinh Tế Giữa Các Sa Môn *Samaṇasukhumālasutta*
+### AN 5.104 Sa Môn Tinh Tế Giữa Các Sa Môn *Samaṇasukhumālasutta*{#104}
 
 "Này các Tỳ kheo, một Tỳ kheo có năm phẩm chất là một *sa môn* (ascetic / người tu hành) tinh tế giữa các sa môn.
 
@@ -79,7 +79,7 @@ Một Tỳ kheo có năm phẩm chất này là một sa môn tinh tế giữa c
 Và nếu có ai đáng được gọi một cách đúng đắn là sa môn tinh tế giữa các sa môn, thì đó chính là Ta. Vì Ta thường chỉ sử dụng những gì Ta được mời nhận. Khi sống chung với các Tỳ kheo khác, Ta thường được họ đối xử một cách dễ chịu. Và Ta thường mang đến cho họ những điều dễ chịu. Ta khỏe mạnh. Ta chứng đắc bốn thiền bất cứ khi nào muốn, không khó khăn hay trở ngại. Và Ta đã chứng ngộ tâm giải thoát và tuệ giải thoát không còn lậu hoặc ngay trong đời này. Vì vậy, nếu có ai đáng được gọi một cách đúng đắn là sa môn tinh tế giữa các sa môn, thì đó chính là Ta."
 
 <!--pg-->
-### AN 5.105 An Trú Thoải Mái *Phāsuvihārasutta*
+### AN 5.105 An Trú Thoải Mái *Phāsuvihārasutta*{#105}
 
 "Này các Tỳ kheo, có năm cách để an trú thoải mái này. Năm cách đó là gì?
 
@@ -92,7 +92,7 @@ Vị ấy sống theo *tri kiến* (view / quan điểm, cái thấy) chung vớ
 Đây là năm cách để an trú thoải mái."
 
 <!--pg-->
-### AN 5.106 Với Ngài Ānanda *Ānandasutta*
+### AN 5.106 Với Ngài Ānanda *Ānandasutta*{#106}
 
 Một thời Thế Tôn trú gần Kosambī, tại tu viện Ghosita.
 
@@ -119,7 +119,7 @@ Rồi Tôn giả Ānanda đến gặp Thế Tôn, đảnh lễ, ngồi xuống m
 Và Ta nói rằng không có cách an trú thoải mái nào tốt hơn hay cao đẹp hơn cách này."
 
 <!--pg-->
-### AN 5.107 Giới Hạnh *Sīlasutta*
+### AN 5.107 Giới Hạnh *Sīlasutta*{#107}
 
 "Này các Tỳ kheo, một Tỳ kheo có năm phẩm chất thì xứng đáng nhận vật *cúng dường* (offerings dedicated to the gods / vật phẩm dâng cúng), xứng đáng được *tiếp đãi* (hospitality / sự đón tiếp), xứng đáng nhận vật *bố thí* (religious donation / vật phẩm cúng dường tôn giáo), xứng đáng được *chắp tay kính lễ* (veneration with joined palms / sự tôn kính bằng cách chắp tay), và là *ruộng phước* (field of merit / nơi gieo trồng phước báu) vô thượng cho đời.
 
@@ -128,7 +128,7 @@ Năm phẩm chất đó là gì? Đó là khi một Tỳ kheo thành tựu về 
 Một Tỳ kheo có năm phẩm chất này thì xứng đáng nhận vật cúng dường, xứng đáng được tiếp đãi, xứng đáng nhận vật bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 5.108 Bậc Vô Học *Asekhasutta*
+### AN 5.108 Bậc Vô Học *Asekhasutta*{#108}
 
 "Này các Tỳ kheo, một Tỳ kheo có năm phẩm chất thì xứng đáng nhận vật cúng dường, xứng đáng được tiếp đãi, xứng đáng nhận vật bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời.
 
@@ -136,7 +136,7 @@ Năm phẩm chất đó là gì? Đó là khi vị ấy có trọn vẹn *giới
 Một Tỳ kheo có năm phẩm chất này... là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 5.109 Bốn Phương *Cātuddisasutta*
+### AN 5.109 Bốn Phương *Cātuddisasutta*{#109}
 
 "Này các Tỳ kheo, một Tỳ kheo có năm phẩm chất thì an ổn ở bất cứ phương nào. Năm phẩm chất đó là gì?
 
@@ -153,7 +153,7 @@ Vị ấy chứng ngộ tâm giải thoát và tuệ giải thoát không còn l
 Một Tỳ kheo có năm phẩm chất này thì an ổn ở bất cứ phương nào."
 
 <!--pg-->
-### AN 5.110 Rừng Hoang *Araññasutta*
+### AN 5.110 Rừng Hoang *Araññasutta*{#110}
 
 "Này các Tỳ kheo, khi một Tỳ kheo có năm phẩm chất, vị ấy sẵn sàng thường xuyên lui tới những nơi ở hẻo lánh trong vùng hoang dã và rừng sâu. Năm phẩm chất đó là gì?
 

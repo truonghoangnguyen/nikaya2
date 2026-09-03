@@ -1,6 +1,6 @@
 # Phẩm Búng Móng Tay
 
-### AN 1.51–60 *Accharāsaṅghātavagga*
+### AN 1.51–60 *Accharāsaṅghātavagga*{#51-60}
 
 51\. "Này các Tỷ-kheo, tâm này *quang minh* (radiant / sáng chói, rạng rỡ). Nhưng nó bị *ô nhiễm bởi các phiền não ngoại lai* (corrupted by passing corruptions / bị làm dơ bẩn bởi những ô nhiễm đến từ bên ngoài). Một *kẻ phàm phu ít học* (unlearned ordinary person / người thường không được học hỏi Phật pháp) không thật sự hiểu rõ điều này. Vì vậy, Ta nói rằng kẻ phàm phu ít học không có *sự tu tập tâm* (development of the mind / sự rèn luyện tâm)."
 

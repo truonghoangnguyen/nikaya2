@@ -1,11 +1,11 @@
 # Phẩm Về Các Lực
 
-### AN 5.11 Không Nghe Từ Ai Khác *Ananussutasutta*
+### AN 5.11 Không Nghe Từ Ai Khác *Ananussutasutta*{#11}
 
 "Ta tuyên bố đã đạt đến sự hoàn hảo và viên mãn về tuệ giác đối với các pháp chưa từng được nghe từ ai khác. Như Lai có năm *lực* (powers / sức mạnh) của bậc Như Lai. Với những lực này, Ngài tuyên bố vị trí tối thượng, rống tiếng rống sư tử giữa các hội chúng, và chuyển bánh xe Pháp tối thượng. Năm lực đó là gì? *Lực niềm tin* (power of faith / sức mạnh của niềm tin), *lực xấu hổ* (power of conscience / sức mạnh của sự xấu hổ về điều ác), *lực sợ điều ác* (power of prudence / sức mạnh của sự ghê sợ điều ác), *lực siêng năng* (power of energy / sức mạnh của sự tinh tấn), và *lực trí tuệ* (power of wisdom / sức mạnh của trí tuệ). Đây là năm lực của bậc Như Lai. Với những lực này, Ngài tuyên bố vị trí tối thượng, rống tiếng rống sư tử giữa các hội chúng, và chuyển bánh xe Pháp tối thượng."
 
 <!--pg-->
-### AN 5.12 Đỉnh Nhọn *Kūṭasutta*
+### AN 5.12 Đỉnh Nhọn *Kūṭasutta*{#12}
 
 "Này các Tỷ-kheo, có năm lực này của bậc *hữu học* (trainee / người còn đang tu học). Năm lực đó là gì? Lực niềm tin, lực xấu hổ, lực sợ điều ác, lực siêng năng, và lực trí tuệ. Đây là năm lực của bậc hữu học. Trong năm lực này của bậc hữu học, lực trí tuệ là tối thắng. Nó giữ và liên kết mọi thứ lại với nhau.
 
@@ -14,12 +14,12 @@ Ví như một ngôi nhà nóc nhọn. Đỉnh nóc là điểm tối thắng, g
 Vì vậy, các ngươi nên tu tập như sau: 'Chúng ta sẽ có các lực của bậc hữu học: lực niềm tin, lực xấu hổ, lực sợ điều ác, lực siêng năng, và lực trí tuệ.' Đó là cách các ngươi nên tu tập."
 
 <!--pg-->
-### AN 5.13 Tóm Tắt *Saṁkhittasutta*
+### AN 5.13 Tóm Tắt *Saṁkhittasutta*{#13}
 
 "Này các Tỷ-kheo, có năm lực này. Năm lực đó là gì? Lực niềm tin, lực siêng năng, *lực tỉnh thức* (power of mindfulness / sức mạnh của sự chú tâm, ghi nhớ, *niệm*), *lực định* (power of immersion / sức mạnh của sự tập trung tâm ý), và lực trí tuệ. Đây là năm lực."
 
 <!--pg-->
-### AN 5.14 Chi Tiết *Vitthatasutta*
+### AN 5.14 Chi Tiết *Vitthatasutta*{#14}
 
 "Này các Tỷ-kheo, có năm lực này. Năm lực đó là gì? Lực niềm tin, lực siêng năng, lực tỉnh thức, lực định, và lực trí tuệ.
 
@@ -36,7 +36,7 @@ Thế nào là lực trí tuệ? Ở đây, vị thánh đệ tử có trí tu�
 Đây là năm lực."
 
 <!--pg-->
-### AN 5.15 Cần Được Thấy *Daṭṭhabbasutta*
+### AN 5.15 Cần Được Thấy *Daṭṭhabbasutta*{#15}
 
 "Này các Tỷ-kheo, có năm lực này. Năm lực đó là gì? Lực niềm tin, lực siêng năng, lực tỉnh thức, lực định, và lực trí tuệ.
 
@@ -53,26 +53,26 @@ Lực trí tuệ cần được thấy ở đâu? Trong bốn *thánh đế* (fo
 Đây là năm lực."
 
 <!--pg-->
-### AN 5.16 Đỉnh Nhọn, Lần Nữa *Punakūṭasutta*
+### AN 5.16 Đỉnh Nhọn, Lần Nữa *Punakūṭasutta*{#16}
 
 "Này các Tỷ-kheo, có năm lực này. Năm lực đó là gì? Lực niềm tin, lực siêng năng, lực tỉnh thức, lực định, và lực trí tuệ. Đây là năm lực. Trong năm lực này, lực trí tuệ là tối thắng. Nó giữ và liên kết mọi thứ lại với nhau. Ví như một ngôi nhà nóc nhọn. Đỉnh nóc là điểm tối thắng, giữ và liên kết mọi thứ lại với nhau. Cũng vậy, trong năm lực này, lực trí tuệ là tối thắng. Nó giữ và liên kết mọi thứ lại với nhau."
 
 <!--pg-->
-### AN 5.17 Lợi Ích Cho Bản Thân *Paṭhamahitasutta*
+### AN 5.17 Lợi Ích Cho Bản Thân *Paṭhamahitasutta*{#17}
 
 "Này các Tỷ-kheo, vị Tỷ-kheo có năm pháp này là người thực hành vì lợi ích cho bản thân, nhưng không vì lợi ích cho người khác. Năm pháp đó là gì? Đó là khi vị Tỷ-kheo tự mình thành tựu *giới* (ethics / các quy tắc đạo đức), định, trí tuệ, *giải thoát* (freedom / sự giải thoát khỏi khổ đau), và *giải thoát tri kiến* (knowledge and vision of freedom / sự thấy biết về giải thoát), nhưng không khuyến khích người khác thành tựu những pháp này. Vị Tỷ-kheo có năm pháp này là người thực hành vì lợi ích cho bản thân, nhưng không vì lợi ích cho người khác."
 
 <!--pg-->
-### AN 5.18 Lợi Ích Cho Người Khác (2) *Dutiyahitasutta*
+### AN 5.18 Lợi Ích Cho Người Khác (2) *Dutiyahitasutta*{#18}
 
 "Này các Tỷ-kheo, vị Tỷ-kheo có năm pháp này là người thực hành vì lợi ích cho người khác, nhưng không vì lợi ích cho bản thân. Năm pháp đó là gì? Đó là khi vị Tỷ-kheo không tự mình thành tựu giới, định, trí tuệ, giải thoát, hay giải thoát tri kiến, nhưng lại khuyến khích người khác thành tựu những pháp này. Vị Tỷ-kheo có năm pháp này là người thực hành vì lợi ích cho người khác, nhưng không vì lợi ích cho bản thân."
 
 <!--pg-->
-### AN 5.19 Không Lợi Ích Cho Ai *Tatiyahitasutta*
+### AN 5.19 Không Lợi Ích Cho Ai *Tatiyahitasutta*{#19}
 
 "Này các Tỷ-kheo, vị Tỷ-kheo có năm pháp này là người thực hành không vì lợi ích cho bản thân, cũng không vì lợi ích cho người khác. Năm pháp đó là gì? Đó là khi vị Tỷ-kheo không tự mình thành tựu giới, định, trí tuệ, giải thoát, hay giải thoát tri kiến, và cũng không khuyến khích người khác thành tựu những pháp này. Vị Tỷ-kheo có năm pháp này là người thực hành không vì lợi ích cho bản thân, cũng không vì lợi ích cho người khác."
 
 <!--pg-->
-### AN 5.20 Lợi Ích Cho Cả Hai *Catutthahitasutta*
+### AN 5.20 Lợi Ích Cho Cả Hai *Catutthahitasutta*{#20}
 
 "Này các Tỷ-kheo, vị Tỷ-kheo có năm pháp này là người thực hành vì lợi ích cho cả bản thân và người khác. Năm pháp đó là gì? Đó là khi vị Tỷ-kheo tự mình thành tựu giới, định, trí tuệ, giải thoát, và giải thoát tri kiến, và cũng khuyến khích người khác thành tựu những pháp này. Vị Tỷ-kheo có năm pháp này là người thực hành vì lợi ích cho cả bản thân và người khác."

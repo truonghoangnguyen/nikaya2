@@ -1,6 +1,6 @@
 # Phẩm về Ác Hạnh
 
-### AN 5.241 Ác Hạnh (1) *Paṭhamaduccaritasutta*
+### AN 5.241 Ác Hạnh (1) *Paṭhamaduccaritasutta*{#241}
 
 "*Này các Tỷ kheo* (Mendicants / Các vị tu sĩ nam), có năm *sự nguy hại* (Drawbacks / tác hại, điều bất lợi) này của *ác hạnh* (Bad conduct / hành vi xấu ác). Thế nào là năm?
 Tự mình khiển trách mình. Sau khi xem xét, *người có trí* (Sensible people / người hiểu biết, người khôn ngoan) chê trách.
@@ -10,20 +10,20 @@ Có năm *lợi ích* (Benefits / điều tốt đẹp, kết quả tốt) này 
 Được tiếng tăm tốt. Khi chết tâm không hoang mang. Sau khi thân hoại mạng chung, được tái sinh vào *thiện thú, thiên giới* (good place, a heavenly realm / cảnh giới an lành, cõi trời). Đây là năm lợi ích của thiện hạnh."
 
 <!--pg-->
-### AN 5.242 Thân Hành Ác (1) *Paṭhamakāyaduccaritasutta*
+### AN 5.242 Thân Hành Ác (1) *Paṭhamakāyaduccaritasutta*{#242}
 
 "Này các Tỷ kheo, có năm sự nguy hại này trong thân hành ác ... lợi ích trong thân hành thiện ..."
 
-### AN 5.243 Khẩu Hành Ác (1) *Paṭhamavacīduccaritasutta*
+### AN 5.243 Khẩu Hành Ác (1) *Paṭhamavacīduccaritasutta*{#243}
 
 "Này các Tỷ kheo, có năm sự nguy hại này trong khẩu hành ác ... lợi ích trong khẩu hành thiện ..."
 
-### AN 5.244 Ý Hành Ác (1) *Paṭhamamanoduccaritasutta*
+### AN 5.244 Ý Hành Ác (1) *Paṭhamamanoduccaritasutta*{#244}
 
 "Này các Tỷ kheo, có năm sự nguy hại này trong ý hành ác ... lợi ích trong ý hành thiện ..."
 
 <!--pg-->
-### AN 5.245 Ác Hạnh (2) *Dutiyaduccaritasutta*
+### AN 5.245 Ác Hạnh (2) *Dutiyaduccaritasutta*{#245}
 
 "Này các Tỷ kheo, có năm sự nguy hại này của ác hạnh. Thế nào là năm?
 Tự mình khiển trách mình. Sau khi xem xét, người có trí chê trách.
@@ -33,20 +33,20 @@ Có năm lợi ích này của thiện hạnh. Thế nào là năm? Tự mình k
 Được tiếng tăm tốt. Rời xa phi pháp. An trú vào Chánh pháp. Đây là năm lợi ích của thiện hạnh."
 
 <!--pg-->
-### AN 5.246 Thân Hành Ác (2) *Dutiyakāyaduccaritasutta*
+### AN 5.246 Thân Hành Ác (2) *Dutiyakāyaduccaritasutta*{#246}
 
 "Này các Tỷ kheo, có năm sự nguy hại này trong thân hành ác ... lợi ích trong thân hành thiện ..."
 
-### AN 5.247 Khẩu Hành Ác (2) *Dutiyavacīduccaritasutta*
+### AN 5.247 Khẩu Hành Ác (2) *Dutiyavacīduccaritasutta*{#247}
 
 "Này các Tỷ kheo, có năm sự nguy hại này trong khẩu hành ác ... lợi ích trong khẩu hành thiện ..."
 
-### AN 5.248 Ý Hành Ác (2) *Dutiyamanoduccaritasutta*
+### AN 5.248 Ý Hành Ác (2) *Dutiyamanoduccaritasutta*{#248}
 
 "Này các Tỷ kheo, có năm sự nguy hại này trong ý hành ác ... lợi ích trong ý hành thiện ..."
 
 <!--pg-->
-### AN 5.249 Nghĩa Địa *Sivathikasutta*
+### AN 5.249 Nghĩa Địa *Sivathikasutta*{#249}
 
 "Này các Tỷ kheo, có năm sự nguy hại này của một *nghĩa địa* (Charnel ground / bãi tha ma, nơi quăng xác chết). Thế nào là năm?
 
@@ -65,7 +65,7 @@ Do hành vi ô uế, khi những bạn đồng tu tốt bụng thấy họ liề
 Đây là năm sự nguy hại của một người giống như nghĩa địa."
 
 <!--pg-->
-### AN 5.250 Niềm Tin vào Cá Nhân *Puggalappasādasutta*
+### AN 5.250 Niềm Tin vào Cá Nhân *Puggalappasādasutta*{#250}
 
 "Này các Tỷ kheo, có năm sự nguy hại này của việc đặt *niềm tin* (Faith / sự tin tưởng) vào một *cá nhân* (Individual / một người cụ thể). Thế nào là năm?
 

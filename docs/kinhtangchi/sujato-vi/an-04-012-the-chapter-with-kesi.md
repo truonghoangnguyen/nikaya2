@@ -1,6 +1,6 @@
 # Phẩm về Kesi
 
-### AN 4.111 Kinh Kesi *Kesisutta*
+### AN 4.111 Kinh Kesi *Kesisutta*{#111}
 
 Rồi Kesi, người luyện ngựa, đến gặp Đức Phật, đảnh lễ rồi ngồi xuống một bên. Đức Phật nói với ông: "Này Kesi, ông nổi tiếng là người luyện ngựa. Vậy ông huấn luyện một con ngựa như thế nào?"
 
@@ -31,14 +31,14 @@ Cách vừa nhẹ nhàng vừa mạnh bạo là thế này: 'Đây là thiện n
 "Vậy thì, họ chắc chắn đã chết khi Như Lai không nghĩ rằng họ đáng được khuyên bảo hay chỉ dạy, và các bạn đồng phạm hạnh sáng suốt của họ cũng vậy. Thật tuyệt vời, thưa Ngài! ... Kể từ hôm nay, xin Đức Phật ghi nhận con là một cư sĩ tại gia đã *quy y* (gone for refuge / nương tựa) trọn đời."
 
 <!--pg-->
-### AN 4.112 Kinh Tốc Độ *Javasutta*
+### AN 4.112 Kinh Tốc Độ *Javasutta*{#112}
 
 "Này các *Tỳ kheo* (Mendicants / khất sĩ, vị sư sống bằng khất thực), một con ngựa thuần chủng quý tộc có bốn yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền. Bốn yếu tố nào? Chân thật, tốc độ, nhẫn nại, và ngoan ngoãn. Một con ngựa thuần chủng quý tộc với bốn yếu tố này thì xứng đáng với vua...
 
 Tương tự như vậy, một Tỳ kheo có bốn phẩm chất thì xứng đáng được cúng dường, xứng đáng được tiếp đãi, xứng đáng được bố thí, xứng đáng được chắp tay tôn kính, và là *ruộng phước vô thượng* (supreme field of merit / nơi gieo trồng công đức tốt nhất) cho đời. Bốn phẩm chất nào? Chân thật, tốc độ, nhẫn nại, và ngoan ngoãn. Một Tỳ kheo với bốn phẩm chất này... là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 4.113 Kinh Roi Thúc Ngựa *Patodasutta*
+### AN 4.113 Kinh Roi Thúc Ngựa *Patodasutta*{#113}
 
 "Này các Tỳ kheo, có bốn loại ngựa thuần chủng này được tìm thấy trên thế gian. Bốn loại nào?
 
@@ -65,7 +65,7 @@ Hơn nữa, có hạng người thuần chủng không nghe về sự đau khổ
 Đó là bốn hạng người thuần chủng được tìm thấy trên thế gian."
 
 <!--pg-->
-### AN 4.114 Kinh Voi Chúa *Nāgasutta*
+### AN 4.114 Kinh Voi Chúa *Nāgasutta*{#114}
 
 "Này các Tỳ kheo, một con voi chúa có bốn yếu tố thì xứng đáng với vua, phù hợp để phục vụ vua, và được xem là một yếu tố của vương quyền. Bốn yếu tố nào? Voi chúa biết lắng nghe, biết phá hủy, biết chịu đựng, và đi nhanh.
 
@@ -88,7 +88,7 @@ Và làm thế nào một Tỳ kheo biết chịu đựng? Đó là khi một T�
 Và làm thế nào một Tỳ kheo đi nhanh? Đó là khi một Tỳ kheo nhanh chóng đi đến phương hướng mà họ chưa từng đi đến trong suốt thời gian dài này; đó là, *sự tịch tịnh của mọi hành* (stilling of all activities / sự dừng lại của các hoạt động tạo tác của tâm), *sự từ bỏ mọi chấp thủ* (letting go of all attachments / sự buông bỏ mọi níu giữ), *sự đoạn diệt ái dục* (ending of craving / sự chấm dứt ham muốn), *ly tham* (fading away / sự phai nhạt tham ái), *đoạn diệt* (cessation / sự chấm dứt), *Niết bàn* (extinguishment / Nibbāna / sự dập tắt phiền não và khổ đau). Đó là cách một Tỳ kheo đi nhanh. Một Tỳ kheo với bốn phẩm chất này... là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 4.115 Kinh Các Việc *Ṭhānasutta*
+### AN 4.115 Kinh Các Việc *Ṭhānasutta*{#115}
 
 "Này các Tỳ kheo, có bốn việc này. Bốn việc nào?
 
@@ -108,14 +108,14 @@ Tiếp theo, hãy xét việc dễ chịu khi làm, và làm việc đó thì c�
 Đó là bốn việc."
 
 <!--pg-->
-### AN 4.116 Kinh Tinh Cần *Appamādasutta*
+### AN 4.116 Kinh Tinh Cần *Appamādasutta*{#116}
 
 "Này các Tỳ kheo, các thầy nên *tinh cần* (Diligence / Appamāda / không dể duôi, không lơ là) trong bốn trường hợp. Bốn trường hợp nào? Hãy từ bỏ ác nghiệp về thân, khẩu, và ý; và phát triển thiện nghiệp về thân, khẩu, và ý. Đừng lơ là những điều này. Hãy từ bỏ tà kiến; và phát triển chánh kiến. Đừng lơ là điều này.
 
 Một Tỳ kheo đã làm những điều này thì không sợ chết trong các kiếp sống tương lai."
 
 <!--pg-->
-### AN 4.117 Kinh Hộ Trì *Ārakkhasutta*
+### AN 4.117 Kinh Hộ Trì *Ārakkhasutta*{#117}
 
 "Này các Tỳ kheo, theo cách riêng của mình, các thầy nên thực hành tinh cần, *chánh niệm* (mindfulness / sự ghi nhớ không quên đối tượng, sự tỉnh thức), và hộ trì tâm trong bốn trường hợp. Bốn trường hợp nào?
 
@@ -130,7 +130,7 @@ Một Tỳ kheo đã làm những điều này thì không sợ chết trong cá
 Khi tâm của một Tỳ kheo không còn bị ảnh hưởng bởi tham, sân, si, hay sự say đắm vì đã loại bỏ chúng, vị ấy không rung động, run rẩy, chấn động, hay lo sợ, cũng không bị thuyết phục bởi giáo lý của các vị tu sĩ khác."
 
 <!--pg-->
-### AN 4.118 Kinh Thánh Tích Tạo Cảm Hứng *Saṁvejanīyasutta*
+### AN 4.118 Kinh Thánh Tích Tạo Cảm Hứng *Saṁvejanīyasutta*{#118}
 
 "Này các Tỳ kheo, một người thiện nam tín tâm nên đến chiêm bái bốn thánh tích tạo cảm hứng này. Bốn nơi nào?
 
@@ -145,13 +145,13 @@ Suy nghĩ: 'Đây là nơi Như Lai nhập *Vô dư y Niết bàn* (element of e
 Đó là bốn thánh tích tạo cảm hứng mà một người thiện nam tín tâm nên đến chiêm bái."
 
 <!--pg-->
-### AN 4.119 Kinh Mối Nguy Hiểm (1) *Paṭhamabhayasutta*
+### AN 4.119 Kinh Mối Nguy Hiểm (1) *Paṭhamabhayasutta*{#119}
 
 "Này các Tỳ kheo, có bốn mối nguy hiểm này. Bốn mối nào? Mối nguy hiểm của *tái sinh* (rebirth / sự sinh lại trong vòng luân hồi), già, bệnh, và chết.
 
 Đó là bốn mối nguy hiểm."
 
 <!--pg-->
-### AN 4.120 Kinh Mối Nguy Hiểm (2) *Dutiyabhayasutta*
+### AN 4.120 Kinh Mối Nguy Hiểm (2) *Dutiyabhayasutta*{#120}
 
 "Này các Tỳ kheo, có bốn mối nguy hiểm này. Bốn mối nào? Mối nguy hiểm của lửa, nước, vua chúa, và trộm cướp. Đó là bốn mối nguy hiểm."

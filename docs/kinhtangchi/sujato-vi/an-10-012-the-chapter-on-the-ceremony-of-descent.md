@@ -1,6 +1,6 @@
 # Phẩm về Nghi Lễ Paccorohaṇī (Từ Bỏ)
 
-### AN 10.113 Các Nguyên Tắc Xấu (Thứ Nhất) *Paṭhamaadhammasutta*
+### AN 10.113 Các Nguyên Tắc Xấu (Thứ Nhất) *Paṭhamaadhammasutta*{#113}
 
 "Này các Tỳ kheo, các thầy nên biết những *pháp ác* (bad principles / các nguyên tắc xấu, các pháp bất thiện) cùng với những *quả ác* (bad results / kết quả xấu, hậu quả bất thiện). Và các thầy nên biết những *pháp thiện* (good principles / các nguyên tắc tốt, các pháp thiện) cùng với những *quả thiện* (good results / kết quả tốt, hậu quả thiện). Khi biết những điều này, sự thực hành của các thầy nên theo những pháp thiện với quả thiện.
 
@@ -11,7 +11,7 @@ Và thế nào là những pháp thiện với quả thiện? *Chánh kiến* (r
 'Các thầy nên biết những pháp ác cùng với những quả ác. Và các thầy nên biết những pháp thiện cùng với những quả thiện. Khi biết những điều này, sự thực hành của các thầy nên theo những pháp thiện với quả thiện.' Đó là những gì Ta đã nói, và đây là lý do tại sao Ta nói vậy."
 
 <!--pg-->
-### AN 10.114 Các Nguyên Tắc Xấu (Thứ Hai) *Dutiyaadhammasutta*
+### AN 10.114 Các Nguyên Tắc Xấu (Thứ Hai) *Dutiyaadhammasutta*{#114}
 
 "Này các Tỳ kheo, các thầy nên biết các pháp ác và các pháp thiện. Và các thầy nên biết các quả ác và các quả thiện. Khi biết những điều này, sự thực hành của các thầy nên theo những pháp thiện với quả thiện.
 
@@ -40,7 +40,7 @@ Tà giải thoát là một pháp ác. Chánh giải thoát là một pháp thi�
 'Các thầy nên biết các pháp ác và các pháp thiện. Và các thầy nên biết các quả ác và các quả thiện. Khi biết những điều này, sự thực hành của các thầy nên theo những pháp thiện với quả thiện.' Đó là những gì Ta đã nói, và đây là lý do tại sao Ta nói vậy."
 
 <!--pg-->
-### AN 10.115 Các Nguyên Tắc Xấu (Thứ Ba) *Tatiyaadhammasutta*
+### AN 10.115 Các Nguyên Tắc Xấu (Thứ Ba) *Tatiyaadhammasutta*{#115}
 
 "Này các Tỳ kheo, các thầy nên biết các pháp ác và các pháp thiện. Và các thầy nên biết các quả ác và các quả thiện. Khi biết những điều này, sự thực hành của các thầy nên theo những pháp thiện với quả thiện."
 
@@ -79,7 +79,7 @@ Tà giải thoát là một pháp ác. Chánh giải thoát là một pháp thi�
 "Tốt lắm, tốt lắm, này các Tỳ kheo! A Nan là người *thông tuệ* (astute / người sắc sảo, trí tuệ), ngài có *đại tuệ* (great wisdom / trí tuệ lớn). Nếu các thầy đến gặp Ta và hỏi câu này, Ta cũng sẽ trả lời giống hệt như A Nan. Đó là ý nghĩa của nó, và các thầy nên ghi nhớ như vậy."
 
 <!--pg-->
-### AN 10.116 Với Ajita *Ajitasutta*
+### AN 10.116 Với Ajita *Ajitasutta*{#116}
 
 Khi ấy, du sĩ Ajita đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện lịch sự xong, vị ấy ngồi xuống một bên và nói với Đức Phật: "Thưa ngài Gotama, chúng tôi có một bạn đồng tu tên là ‘Thông Tuệ’. Vị ấy đã soạn ra khoảng năm trăm luận điểm mà qua đó những người theo các tôn giáo khác sẽ biết khi nào họ bị bác bỏ."
 
@@ -108,7 +108,7 @@ Tà giải thoát là một pháp ác. Chánh giải thoát là một pháp thi�
 'Các thầy nên biết các pháp ác và các pháp thiện. Và các thầy nên biết các quả ác và các quả thiện. Khi biết những điều này, sự thực hành của các thầy nên theo những pháp thiện với quả thiện.' Đó là những gì Ta đã nói, và đây là lý do tại sao Ta nói vậy."
 
 <!--pg-->
-### AN 10.117 Với Saṅgārava *Saṅgāravasutta*
+### AN 10.117 Với Saṅgārava *Saṅgāravasutta*{#117}
 
 Khi ấy, Bà-la-môn Saṅgārava đến gặp Đức Phật và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện lịch sự xong, vị ấy ngồi xuống một bên và nói với Đức Phật:
 
@@ -145,7 +145,7 @@ Khi ấy, Bà-la-môn Saṅgārava đến gặp Đức Phật và chào hỏi Ng
 > (*Lậu hoặc* (defilements / những phiền não làm rỉ chảy, những ô nhiễm sâu kín của tâm như tham, sân, si). *Tịch tịnh* (quenched / Niết-bàn, sự dập tắt hoàn toàn khổ đau và phiền não).)
 
 <!--pg-->
-### AN 10.118 Bờ Bên Này *Orimatīrasutta*
+### AN 10.118 Bờ Bên Này *Orimatīrasutta*{#118}
 
 "Này các Tỳ kheo, Ta sẽ dạy các thầy về bờ bên này và bờ bên kia. Hãy lắng nghe và suy nghiệm kỹ, Ta sẽ nói."
 
@@ -181,7 +181,7 @@ Khi ấy, Bà-la-môn Saṅgārava đến gặp Đức Phật và chào hỏi Ng
 > họ được tịch tịnh trong đời này."
 
 <!--pg-->
-### AN 10.119 Nghi Lễ Paccorohaṇī (Thứ Nhất) *Paṭhamapaccorohaṇīsutta*
+### AN 10.119 Nghi Lễ Paccorohaṇī (Thứ Nhất) *Paṭhamapaccorohaṇīsutta*{#119}
 
 Khi ấy, nhằm ngày *Bố-tát* (sabbath / ngày trai giới, ngày sám hối và tụng giới của Tăng đoàn). Bà-la-môn Jānussoṇi đã gội đầu và mặc một cặp y mới bằng vải lanh. Tay cầm một nắm cỏ tươi, ông đứng một bên không xa Đức Phật.
 
@@ -224,16 +224,16 @@ Khi ấy, nhằm ngày *Bố-tát* (sabbath / ngày trai giới, ngày sám hố
 "Nghi lễ Paccorohaṇī mà các Bà-la-môn thực hành khá khác biệt so với nghi lễ được thực hành trong pháp và luật của bậc Thánh. Và, thưa ngài Gotama, nghi lễ Paccorohaṇī mà các Bà-la-môn thực hành không đáng một phần mười sáu của một bậc thầy về nghi lễ Paccorohaṇī được thực hành trong pháp và luật của bậc Thánh. Thật tuyệt vời, thưa ngài Gotama! ... Kể từ hôm nay, xin ngài Gotama hãy ghi nhớ con là một *cư sĩ* (lay follower / người tại gia theo Phật) đã *quy y trọn đời* (gone for refuge for life / nương tựa Phật, Pháp, Tăng cho đến hết cuộc đời)."
 
 <!--pg-->
-### AN 10.120 Nghi Lễ Paccorohaṇī (Thứ Hai) *Dutiyapaccorohaṇīsutta*
+### AN 10.120 Nghi Lễ Paccorohaṇī (Thứ Hai) *Dutiyapaccorohaṇīsutta*{#120}
 
 "Này các Tỳ kheo, Ta sẽ dạy các thầy về *sự Paccorohaṇī cao thượng* (noble descent / sự từ bỏ cao quý, sự thoát ly thánh thiện). Hãy lắng nghe và suy nghiệm kỹ, Ta sẽ nói. ... Và thế nào là sự Paccorohaṇī cao thượng? Đó là khi một Thánh đệ tử quán xét: 'Tà kiến có quả xấu ở đời này và đời sau.' Quán xét như vậy, vị ấy từ bỏ tà kiến, vị ấy thoát ly khỏi tà kiến. 'Tà tư duy có quả xấu ...' ... 'Tà ngữ ...' ... 'Tà nghiệp ...' ... 'Tà mạng ...' ... 'Tà tinh tấn ...' ... 'Tà niệm ...' ... 'Tà định ...' ... 'Tà trí ...' ... 'Tà giải thoát có quả xấu ở đời này và đời sau.' Quán xét như vậy, vị ấy từ bỏ tà giải thoát, vị ấy thoát ly khỏi tà giải thoát. Đây được gọi là sự Paccorohaṇī cao thượng."
 
 <!--pg-->
-### AN 10.121 Điềm Báo Trước *Pubbaṅgamasutta*
+### AN 10.121 Điềm Báo Trước *Pubbaṅgamasutta*{#121}
 
 "Này các Tỳ kheo, bình minh là *điềm báo trước* (forerunner / dấu hiệu báo trước) và *dấu hiệu báo trước* (precursor / người/vật đi trước, báo hiệu) của mặt trời mọc. Cũng vậy, chánh kiến là điềm báo trước và dấu hiệu báo trước của các phẩm chất thiện lành, khéo léo. Chánh kiến làm sinh khởi chánh tư duy. Chánh tư duy làm sinh khởi chánh ngữ. Chánh ngữ làm sinh khởi chánh nghiệp. Chánh nghiệp làm sinh khởi chánh mạng. Chánh mạng làm sinh khởi chánh tinh tấn. Chánh tinh tấn làm sinh khởi chánh niệm. Chánh niệm làm sinh khởi chánh định. Chánh định làm sinh khởi chánh trí. Chánh trí làm sinh khởi chánh giải thoát."
 
 <!--pg-->
-### AN 10.122 Sự Đoạn Tận Các Lậu Hoặc *Āsavakkhayasutta*
+### AN 10.122 Sự Đoạn Tận Các Lậu Hoặc *Āsavakkhayasutta*{#122}
 
 "Này các Tỳ kheo, mười điều này, khi được *tu tập và làm cho sung mãn* (developed and cultivated / được phát triển và trau dồi), sẽ đưa đến *sự đoạn tận các lậu hoặc* (ending of defilements / sự chấm dứt hoàn toàn các ô nhiễm). Mười điều gì? Chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định, chánh trí, và chánh giải thoát. Mười điều này, khi được tu tập và làm cho sung mãn, sẽ đưa đến sự đoạn tận các lậu hoặc."

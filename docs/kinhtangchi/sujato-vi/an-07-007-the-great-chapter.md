@@ -1,6 +1,6 @@
 # Phẩm Lớn
 
-### AN 7.65 Xấu Hổ và Sợ Điều Ác *Hirīottappasutta*
+### AN 7.65 Xấu Hổ và Sợ Điều Ác *Hirīottappasutta*{#65}
 
 "Này các Tỳ kheo, khi không có *xấu hổ và sợ điều ác* (conscience and prudence / xấu hổ tội lỗi và sợ hãi hậu quả của tội lỗi), người thiếu xấu hổ và sợ điều ác đã phá hủy một điều kiện thiết yếu cho sự *thu thúc các căn* (sense restraint / kiểm soát các giác quan). Khi không có sự thu thúc các căn, người thiếu sự thu thúc các căn đã phá hủy một điều kiện thiết yếu cho *giới hạnh* (ethical conduct / hành vi đạo đức). Khi không có giới hạnh, người thiếu giới hạnh đã phá hủy một điều kiện thiết yếu cho *chánh định* (right immersion / sự tập trung đúng đắn). Khi không có chánh định, người thiếu chánh định đã phá hủy một điều kiện thiết yếu cho *chánh tri kiến* (true knowledge and vision / thấy biết chân chánh). Khi không có chánh tri kiến, người thiếu chánh tri kiến đã phá hủy một điều kiện thiết yếu cho sự *nhàm chán và ly tham* (disillusionment and dispassion / sự chán ngán và không còn ham muốn). Khi không có sự nhàm chán và ly tham, người thiếu sự nhàm chán và ly tham đã phá hủy một điều kiện thiết yếu cho *tri kiến giải thoát* (knowledge and vision of freedom / thấy biết sự giải thoát).
 
@@ -15,7 +15,7 @@ Ví như có một cái cây đầy đủ cành và lá. Chồi, vỏ cây, giá
 Cũng vậy, khi có xấu hổ và sợ điều ác, người đã hoàn thiện xấu hổ và sợ điều ác đã hoàn thiện một điều kiện thiết yếu cho sự thu thúc các căn. ... Người đã hoàn thiện sự nhàm chán và ly tham đã hoàn thiện một điều kiện thiết yếu cho tri kiến giải thoát."
 
 <!--pg-->
-### AN 7.66 Bảy Mặt Trời *Sattasūriyasutta*
+### AN 7.66 Bảy Mặt Trời *Sattasūriyasutta*{#66}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật trú gần Vesālī, trong Vườn Xoài của Ambapālī. Tại đó, Đức Phật gọi các Tỳ kheo: "Này các Tỳ kheo!"
 
@@ -60,7 +60,7 @@ Tại sao vậy? Vì không hiểu và không thâm nhập bốn điều. Bốn 
 > với tuệ nhãn, Ngài đã *tịch diệt Niết-bàn* (quenched / sự dập tắt hoàn toàn phiền não, đạt Niết-bàn)."
 
 <!--pg-->
-### AN 7.67 Thí Dụ Về Thành Trì *Nagaropamasutta*
+### AN 7.67 Thí Dụ Về Thành Trì *Nagaropamasutta*{#67}
 
 "Này các Tỳ kheo, khi một thành trì biên ải của nhà vua được trang bị đầy đủ bảy yếu tố thiết yếu và nhận được bốn loại vật thực nuôi dưỡng khi cần, không gặp khó khăn hay trở ngại, thì nó được gọi là một thành trì biên ải của nhà vua không thể bị kẻ thù bên ngoài xâm chiếm.
 
@@ -121,7 +121,7 @@ Cũng như một thành trì biên ải của nhà vua có nhiều thuốc men--
 Khi một vị Thánh đệ tử có bảy phẩm chất tốt đẹp, và họ đạt được bốn tầng thiền---những thiền định mang lại an lạc ngay trong đời này, thuộc về tâm cao thượng---khi họ muốn, không gặp khó khăn hay trở ngại, thì họ được gọi là một vị Thánh đệ tử không thể bị Ma vương xâm chiếm, không thể bị Ác ma xâm chiếm."
 
 <!--pg-->
-### AN 7.68 Người Biết Giáo Pháp *Dhammaññūsutta*
+### AN 7.68 Người Biết Giáo Pháp *Dhammaññūsutta*{#68}
 
 "Một Tỳ kheo có bảy phẩm chất thì xứng đáng được cúng dường, xứng đáng được tiếp đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là *ruộng phước vô thượng cho đời* (supreme field of merit for the world / nơi gieo trồng công đức để gặt hái quả lành). Bảy phẩm chất nào? Đó là khi một Tỳ kheo biết Pháp, biết nghĩa, biết tự thân, biết tiết độ, biết thời, biết hội chúng, và biết người hơn kém.
 
@@ -156,7 +156,7 @@ Hai người hiểu ý nghĩa và giáo pháp và thực hành theo: một ngư�
 Đó là cách một Tỳ kheo là người biết người hơn kém. Một Tỳ kheo có bảy phẩm chất này thì xứng đáng được cúng dường, xứng đáng được tiếp đón, xứng đáng được bố thí, xứng đáng được chắp tay kính lễ, và là ruộng phước vô thượng cho đời."
 
 <!--pg-->
-### AN 7.69 Cây San Hô *Pāricchattakasutta*
+### AN 7.69 Cây San Hô *Pāricchattakasutta*{#69}
 
 "Này các Tỳ kheo, khi lá trên cây San Hô của chư thiên cõi Ba Mươi Ba chuyển sang màu nâu, các vị trời vui mừng. Họ nghĩ: 'Bây giờ lá trên cây San Hô đã chuyển sang màu nâu! Chẳng bao lâu nữa chúng sẽ rụng.'
 
@@ -191,7 +191,7 @@ Lúc đó, chư thiên trên mặt đất cất tiếng hô: 'Vị tôn giả t�
 Nghe tiếng hô của chư thiên trên mặt đất, chư thiên Tứ Đại Thiên Vương ... chư thiên cõi Ba Mươi Ba ... chư thiên Dạ Ma ... chư thiên Đâu Suất ... chư thiên Hóa Lạc ... chư thiên Tha Hóa Tự Tại ... chư thiên thuộc chúng của Phạm thiên cất tiếng hô: 'Vị tôn giả tên là như vậy, từ làng hoặc thị trấn như vậy, đệ tử của vị tôn giả tên là như vậy, đã xuất gia từ bỏ đời sống thế tục. Họ đã chứng ngộ tâm giải thoát và tuệ giải thoát vô lậu ngay trong đời này. Và họ sống sau khi đã chứng ngộ điều đó bằng tuệ giác của chính mình do sự chấm dứt các phiền não.' Và như vậy vào khoảnh khắc đó, giờ đó, tiếng hô vang lên đến cõi Phạm thiên. Uy lực của một Tỳ kheo đã chấm dứt các phiền não là như vậy."
 
 <!--pg-->
-### AN 7.70 Sự Tôn Kính *Sakkaccasutta*
+### AN 7.70 Sự Tôn Kính *Sakkaccasutta*{#70}
 
 Khi ấy, trong lúc Tôn giả Xá Lợi Phất đang độc cư thiền định, ý nghĩ này khởi lên trong tâm ngài: "Một Tỳ kheo nên tôn kính, quý trọng và nương tựa vào điều gì để từ bỏ điều bất thiện và phát triển điều thiện?"
 
@@ -244,7 +244,7 @@ Một Tỳ kheo tôn kính Bậc Đạo Sư, Giáo Pháp, Tăng đoàn, sự h�
 Đây là cách hiểu ý nghĩa chi tiết của những gì Ta đã nói ngắn gọn."
 
 <!--pg-->
-### AN 7.71 Chuyên Tâm Tu Tập Phát Triển *Bhāvanāsutta*
+### AN 7.71 Chuyên Tâm Tu Tập Phát Triển *Bhāvanāsutta*{#71}
 
 "Này các Tỳ kheo, khi một Tỳ kheo không chuyên tâm *tu tập phát triển* (development / sự thực hành để tiến bộ tâm linh), họ có thể mong muốn: 'Ước gì tâm ta được giải thoát khỏi các phiền não do không còn *chấp thủ* (grasping / sự bám víu, dính mắc)!' Dù vậy, tâm họ không được giải thoát khỏi các phiền não do không còn chấp thủ. Tại sao vậy? Các ông nên nói: 'Đó là vì họ chưa phát triển.' Chưa phát triển về điều gì? Bốn loại thiền bốn niệm xứ (four kinds of mindfulness meditation), bốn nỗ lực chân chánh (Tứ Chánh Cần), bốn nền tảng thần thông (Tứ Thần Túc), năm căn (Ngũ Căn), năm lực (Ngũ Lực), bảy yếu tố giác ngộ (Thất Giác Chi), và con đường tám nhánh cao quý (Bát Chánh Đạo).
 
@@ -263,7 +263,7 @@ Ví như một người thợ mộc hoặc người học việc của họ nhì
 Ví như có một chiếc tàu đi biển được buộc bằng dây thừng. Trong sáu tháng, chúng bị hư hỏng trong nước. Sau đó, vào mùa lạnh, nó được kéo lên bờ khô, nơi dây thừng bị thời tiết bào mòn bởi gió và nắng. Khi mây làm ướt nó bằng mưa, dây thừng sẽ dễ dàng sụp đổ và mục nát. Cũng vậy, khi một Tỳ kheo chuyên tâm tu tập phát triển, các *kiết sử* (fetters / những trói buộc tâm linh ngăn cản sự giải thoát) của họ dễ dàng sụp đổ và mục nát."
 
 <!--pg-->
-### AN 7.72 Thí Dụ Về Khối Lửa Lớn *Aggikkhandhopamasutta*
+### AN 7.72 Thí Dụ Về Khối Lửa Lớn *Aggikkhandhopamasutta*{#72}
 
 TÔI NGHE NHƯ VẦY. Một thời Đức Phật đang du hành trong xứ Kosala cùng với một Tăng đoàn lớn các Tỳ kheo.
 
@@ -322,7 +322,7 @@ Vì vậy, các ông nên tu tập như thế này: 'Việc chúng ta sử dụn
 "Quá khó, bạch Thế Tôn! Thật quá khó!" Và sáu mươi vị Tỳ kheo đã được giải thoát khỏi các phiền não do không còn chấp thủ.
 
 <!--pg-->
-### AN 7.73 Về Sunetta *Sunettasutta*
+### AN 7.73 Về Sunetta *Sunettasutta*{#73}
 
 "Ngày xưa, này các Tỳ kheo, có một vị Đạo Sư tên là Sunetta. Ngài là người sáng lập giáo phái và đã ly tham dục. Ngài có nhiều trăm đệ tử. Ngài dạy họ con đường tái sinh vào cõi Phạm thiên. Những người thiếu niềm tin vào Sunetta---khi thân hoại mạng chung, sau khi chết---tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Những người tràn đầy niềm tin vào Sunetta---khi thân hoại mạng chung, sau khi chết---tái sinh vào nơi tốt lành, cõi trời.
 
@@ -337,7 +337,7 @@ Các ông nghĩ sao, này các Tỳ kheo? Nếu ai đó với ác ý lăng mạ 
 Vì vậy, các ông nên tu tập như thế này: 'Chúng ta sẽ không có ác ý đối với các bạn đồng tu của mình.' Đó là cách các ông nên tu tập."
 
 <!--pg-->
-### AN 7.74 Về Araka *Arakasutta*
+### AN 7.74 Về Araka *Arakasutta*{#74}
 
 "Ngày xưa, này các Tỳ kheo, có một vị Đạo Sư tên là Araka. Ngài là người sáng lập giáo phái và đã ly tham dục. Ngài có nhiều trăm đệ tử, và ngài dạy họ như thế này: 'Này các Bà-la-môn, cuộc sống của con người ngắn ngủi, vắn tắt và thoáng qua, đầy khổ đau và phiền muộn. Hãy suy tư và tỉnh ngộ! Hãy làm điều thiện và sống đời phạm hạnh, vì không ai sinh ra mà thoát khỏi cái chết.
 

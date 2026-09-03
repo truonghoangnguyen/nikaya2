@@ -1,6 +1,6 @@
 # Phẩm A-tu-la
 
-### AN 4.91 Kinh A-tu-la (*Asurasutta*)
+### AN 4.91 Kinh A-tu-la (*Asurasutta*){#91}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -20,7 +20,7 @@ Và này các Tỳ kheo, thế nào là một người là chư thiên được 
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.92 Kinh Định (1) (*Paṭhamasamādhisutta*)
+### AN 4.92 Kinh Định (1) (*Paṭhamasamādhisutta*){#92}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -35,7 +35,7 @@ Có người chứng được cả nội tâm tịch tĩnh, lẫn thắng trí t
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.93 Kinh Định (2) (*Dutiyasamādhisutta*)
+### AN 4.93 Kinh Định (2) (*Dutiyasamādhisutta*){#93}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -55,7 +55,7 @@ Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở 
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.94 Kinh Định (3) (*Tatiyasamādhisutta*)
+### AN 4.94 Kinh Định (3) (*Tatiyasamādhisutta*){#94}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -72,7 +72,7 @@ Có người chứng được nội tâm tịch tĩnh, nhưng không chứng đ�
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.95 Kinh Khúc Gỗ Cháy Dở (*Chavālātasutta*)
+### AN 4.95 Kinh Khúc Gỗ Cháy Dở (*Chavālātasutta*){#95}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -90,7 +90,7 @@ Từ bò cái có sữa, từ sữa có sữa đông, từ sữa đông có bơ,
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.96 Kinh Đoạn Trừ Tham (*Rāgavinayasutta*)
+### AN 4.96 Kinh Đoạn Trừ Tham (*Rāgavinayasutta*){#96}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -110,7 +110,7 @@ Và thế nào là người thực hành vì lợi ích cho cả mình lẫn ng�
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.97 Kinh Thông Minh Nhanh Nhẹn (*Khippanisantisutta*)
+### AN 4.97 Kinh Thông Minh Nhanh Nhẹn (*Khippanisantisutta*){#97}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -130,7 +130,7 @@ Và thế nào là người thực hành vì lợi ích cho cả mình lẫn ng�
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.98 Kinh Lợi Ích Cho Mình (*Attahitasutta*)
+### AN 4.98 Kinh Lợi Ích Cho Mình (*Attahitasutta*){#98}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -142,7 +142,7 @@ Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở 
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.99 Kinh Học Giới (*Sikkhāpadasutta*)
+### AN 4.99 Kinh Học Giới (*Sikkhāpadasutta*){#99}
 
 "Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời. Thế nào là bốn?
 
@@ -162,7 +162,7 @@ Và thế nào là người thực hành vì lợi ích cho cả mình lẫn ng�
 Này các Tỳ kheo, có bốn hạng người này hiện hữu, có mặt ở đời."
 
 <!--pg-->
-### AN 4.100 Kinh Với Du Sĩ Potaliya (*Potaliyasutta*)
+### AN 4.100 Kinh Với Du Sĩ Potaliya (*Potaliyasutta*){#100}
 
 Rồi *du sĩ* (wanderer / người tu hành lang thang không cố định) Potaliya đến chỗ Thế Tôn, và chào hỏi với Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên, và Thế Tôn nói với ông:
 

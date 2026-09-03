@@ -1,6 +1,6 @@
 # Phẩm về Bà-la-môn
 
-### AN 3.51 Hai Vị Bà-la-môn (Thứ nhất) *Paṭhamadvebrāhmaṇasutta*
+### AN 3.51 Hai Vị Bà-la-môn (Thứ nhất) *Paṭhamadvebrāhmaṇasutta*{#51}
 
 Khi ấy, có hai vị Bà-la-môn già, cao niên, trưởng thượng, tuổi đã cao, đi đến giai đoạn cuối của cuộc đời, đã một trăm hai mươi tuổi, đi đến Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, họ ngồi xuống một bên và thưa với Thế Tôn:
 
@@ -20,7 +20,7 @@ Khi ấy, có hai vị Bà-la-môn già, cao niên, trưởng thượng, tuổi 
 > như các việc lành đã làm khi còn sống."
 
 <!--pg-->
-### AN 3.52 Hai Vị Bà-la-môn (Thứ hai) *Dutiyadvebrāhmaṇasutta*
+### AN 3.52 Hai Vị Bà-la-môn (Thứ hai) *Dutiyadvebrāhmaṇasutta*{#52}
 
 Khi ấy, có hai vị Bà-la-môn già---cao niên, trưởng thượng, tuổi đã cao, đi đến giai đoạn cuối của cuộc đời, đã một trăm hai mươi tuổi---đi đến Thế Tôn, đảnh lễ, rồi ngồi xuống một bên và thưa với Thế Tôn:
 
@@ -44,7 +44,7 @@ Khi ấy, có hai vị Bà-la-môn già---cao niên, trưởng thượng, tuổi
 > như các việc lành đã làm khi còn sống."
 
 <!--pg-->
-### AN 3.53 Một Vị Bà-la-môn Nào Đó *Aññatarabrāhmaṇasutta*
+### AN 3.53 Một Vị Bà-la-môn Nào Đó *Aññatarabrāhmaṇasutta*{#53}
 
 Khi ấy, một vị Bà-la-môn đi đến Thế Tôn và chào hỏi Ngài. Ngồi xuống một bên, ông thưa với Thế Tôn:
 
@@ -59,7 +59,7 @@ Người si mê, bị si mê chi phối, khởi ý làm hại mình, làm hại 
 "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! Như người dựng lại những gì bị đổ, bày ra những gì bị che kín, chỉ đường cho người lạc lối, hay cầm đèn trong bóng tối để người có mắt có thể thấy các vật, Tôn giả Gotama đã làm sáng tỏ giáo pháp bằng nhiều cách. Con xin quy y Tôn giả Gotama, quy y Pháp, quy y Tăng đoàn Tỳ-kheo (mendicant Saṅgha/Tỳ-kheo Tăng). Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một *cư sĩ* (lay follower/upasaka) đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.54 Một Vị Du Sĩ *Paribbājakasutta*
+### AN 3.54 Một Vị Du Sĩ *Paribbājakasutta*{#54}
 
 Khi ấy, một vị *du sĩ* (wanderer/paribbājaka) Bà-la-môn đi đến Thế Tôn... Ngồi xuống một bên, ông thưa với Thế Tôn:
 
@@ -80,7 +80,7 @@ Người si mê không thực sự hiểu rõ lợi ích của mình, lợi ích
 "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.55 Tịch Diệt *Nibbutasutta*
+### AN 3.55 Tịch Diệt *Nibbutasutta*{#55}
 
 Khi ấy, Bà-la-môn Jānussoṇi đi đến Thế Tôn, đảnh lễ, ngồi xuống một bên và thưa với Thế Tôn:
 
@@ -97,7 +97,7 @@ Khi ông kinh nghiệm được sự đoạn tận hoàn toàn tham, sân, si, �
 "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.56 Tan Rã *Palokasutta*
+### AN 3.56 Tan Rã *Palokasutta*{#56}
 
 Khi ấy, một vị Bà-la-môn giàu có đi đến Thế Tôn, và ngồi xuống một bên, ông thưa với Ngài:
 
@@ -112,7 +112,7 @@ Hơn nữa, vì ngày nay con người chỉ yêu thích ham muốn phi pháp...
 "Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.57 Với Vacchagotta *Vacchagottasutta*
+### AN 3.57 Với Vacchagotta *Vacchagottasutta*{#57}
 
 Khi ấy, du sĩ Vacchagotta đi đến Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và thưa với Thế Tôn:
 
@@ -183,7 +183,7 @@ Ta nói rằng cúng dường cho bất kỳ ai đã từ bỏ năm yếu tố n
 > đạt đến Niết-bàn."
 
 <!--pg-->
-### AN 3.58 Với Tikaṇṇa *Tikaṇṇasutta*
+### AN 3.58 Với Tikaṇṇa *Tikaṇṇasutta*{#58}
 
 Khi ấy, Bà-la-môn Tikaṇṇa đi đến Thế Tôn và chào hỏi Ngài. Ngồi xuống một bên, trước mặt Thế Tôn, Tikaṇṇa ca ngợi các vị Bà-la-môn thông thạo Tam Veda, "Những vị Bà-la-môn như vậy là bậc thầy Tam Veda! Các vị Bà-la-môn như thế là bậc thầy Tam Veda!"
 
@@ -242,7 +242,7 @@ Vị ấy hiểu: 'Tái sinh đã chấm dứt, phạm hạnh đã hoàn thành,
 Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.59 Với Jānussoṇi *Jāṇussoṇisutta*
+### AN 3.59 Với Jānussoṇi *Jāṇussoṇisutta*{#59}
 
 Khi ấy, Bà-la-môn Jānussoṇi đi đến Thế Tôn và chào hỏi Ngài. Ngồi xuống một bên, ông thưa với Thế Tôn:
 
@@ -293,7 +293,7 @@ Vị ấy hiểu: 'Tái sinh đã chấm dứt, phạm hạnh đã hoàn thành,
 Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay! ... Kể từ hôm nay, xin Tôn giả Gotama ghi nhận con là một cư sĩ đã quy y trọn đời."
 
 <!--pg-->
-### AN 3.60 Với Saṅgārava *Saṅgāravasutta*
+### AN 3.60 Với Saṅgārava *Saṅgāravasutta*{#60}
 
 Khi ấy, Bà-la-môn Saṅgārava đi đến Thế Tôn và chào hỏi Ngài. Sau khi chào hỏi và nói chuyện thân mật, ông ngồi xuống một bên và thưa với Thế Tôn:
 

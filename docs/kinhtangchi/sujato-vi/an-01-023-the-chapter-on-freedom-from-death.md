@@ -1,6 +1,6 @@
 # Phẩm Bất Tử
 
-### AN 1.616--627 *Phẩm Bất Tử*
+### AN 1.616--627 *Phẩm Bất Tử*{#616-627}
 
 616\. "Này các Tỳ kheo, những ai không thích thú *thân hành niệm* (mindfulness of the body / sự tỉnh thức về thân) thì không thích thú *bất tử* (freedom from death / trạng thái không chết, Niết bàn). Những ai thích thú thân hành niệm thì thích thú bất tử."
 

@@ -1,12 +1,12 @@
 # Đại Phẩm
 
-### AN 9.32 Các Thiền Tuần Tự (Anupubbavihārasutta)
+### AN 9.32 Các Thiền Tuần Tự (Anupubbavihārasutta){#32}
 
 "Này các Tỳ kheo, có chín loại thiền trú tuần tự này. Chín loại nào?
 Sơ thiền, Nhị thiền, Tam thiền, Tứ thiền, Không vô biên xứ, Thức vô biên xứ, Vô sở hữu xứ, Phi tưởng phi phi tưởng xứ, và Diệt thọ tưởng định. Đây là chín loại thiền trú tuần tự."
 
 <!--pg-->
-### AN 9.33 Chín Chứng Đắc Thiền Định Tuần Tự (Anupubbavihārasamāpattisutta)
+### AN 9.33 Chín Chứng Đắc Thiền Định Tuần Tự (Anupubbavihārasamāpattisutta){#33}
 
 "Này các Tỳ kheo, Ta sẽ giảng cho các ngươi về chín chứng đắc thiền định tuần tự... Và thế nào là chín chứng đắc thiền định tuần tự?
 
@@ -31,7 +31,7 @@ Nơi nào nhận thức về Phi tưởng phi phi tưởng xứ chấm dứt, v�
 Đây là chín chứng đắc thiền định tuần tự."
 
 <!--pg-->
-### AN 9.34 Niết Bàn Là An Lạc (Nibbānasukhasutta)
+### AN 9.34 Niết Bàn Là An Lạc (Nibbānasukhasutta){#34}
 
 Một thời Tôn giả Xá Lợi Phất trú gần thành Vương Xá, tại Trúc Lâm, nơi nuôi dưỡng các con sóc.
 
@@ -64,7 +64,7 @@ Hơn nữa, hãy xét một Tỳ kheo, vượt hoàn toàn Phi tưởng phi phi 
 Đó cũng là một cách để hiểu Niết bàn là an lạc."
 
 <!--pg-->
-### AN 9.35 Ví Dụ Con Bò (Gāvīupamāsutta)
+### AN 9.35 Ví Dụ Con Bò (Gāvīupamāsutta){#35}
 
 "Này các Tỳ kheo, giả sử có một con bò núi ngu ngốc, bất tài, vụng về, và thiếu hiểu biết thông thường khi đi lang thang trên núi non hiểm trở. Nó có thể nghĩ: 'Tại sao mình không đi đến một nơi nào đó mình chưa từng đến? Mình có thể ăn cỏ và uống nước mà mình chưa từng thử.' Nó bước một chân trước; nhưng trước khi đặt chân xuống vững vàng, nó đã nhấc chân sau lên. Nó sẽ không đi đến một nơi nào đó nó chưa từng đến, hoặc ăn cỏ và uống nước mà nó chưa từng thử. Và nó sẽ không bao giờ trở về an toàn nơi nó đã bắt đầu. Tại sao vậy? Bởi vì con bò núi đó ngu ngốc, bất tài, vụng về, và thiếu hiểu biết thông thường khi đi lang thang trên núi non hiểm trở.
 
@@ -105,7 +105,7 @@ Họ có thể ước muốn: 'Với *thiên nhãn thông* (clairvoyance / khả
 Họ có thể ước muốn: 'Mong rằng ta có thể chứng ngộ vô lậu tâm giải thoát, tuệ giải thoát ngay trong đời này, và sống sau khi đã chứng ngộ điều đó bằng chính tuệ giác của mình do sự đoạn tận các lậu hoặc.' Họ có khả năng chứng ngộ điều đó, vì mỗi một và mọi điều đều nằm trong tầm tay."
 
 <!--pg-->
-### AN 9.36 Dựa Vào Thiền (Jhānasutta)
+### AN 9.36 Dựa Vào Thiền (Jhānasutta){#36}
 
 "Này các Tỳ kheo, Ta nói rằng Sơ thiền là một nền tảng để đoạn tận các lậu hoặc. Nhị thiền cũng là một nền tảng để đoạn tận các lậu hoặc. Tam thiền cũng là một nền tảng để đoạn tận các lậu hoặc. Tứ thiền cũng là một nền tảng để đoạn tận các lậu hoặc. Không vô biên xứ cũng là một nền tảng để đoạn tận các lậu hoặc. Thức vô biên xứ cũng là một nền tảng để đoạn tận các lậu hoặc. Vô sở hữu xứ cũng là một nền tảng để đoạn tận các lậu hoặc. Phi tưởng phi phi tưởng xứ cũng là một nền tảng để đoạn tận các lậu hoặc. Diệt thọ tưởng định cũng là một nền tảng để đoạn tận các lậu hoặc.
 
@@ -132,7 +132,7 @@ Ví như một người bắn cung hoặc đệ tử của họ trước tiên t
 Và như vậy, này các Tỳ kheo, sự thâm nhập đến giác ngộ kéo dài cho đến những chứng đắc có nhận thức (tưởng). Nhưng hai cảnh giới phụ thuộc vào những điều này—Phi tưởng phi phi tưởng xứ, và Diệt thọ tưởng định—được giải thích đúng đắn bởi các Tỳ kheo thiện xảo trong những chứng đắc này và thiện xảo trong việc xuất ra khỏi chúng, sau khi họ đã nhập vào và xuất ra khỏi chúng."
 
 <!--pg-->
-### AN 9.37 Bởi A Nan (Ānandasutta)
+### AN 9.37 Bởi A Nan (Ānandasutta){#37}
 
 Một thời Tôn giả A Nan trú gần Kosambī, tại Tu viện của Ghosita. Tại đó, Tôn giả A Nan nói với các Tỳ kheo: "Này các Hiền giả Tỳ kheo!"
 
@@ -161,7 +161,7 @@ Thưa Hiền giả, có một lần tôi đang trú gần Sāketa, tại vườn
 Khi cô ấy nói vậy, tôi nói với cô ấy: 'Này Sư muội, về định không nghiêng tới hay kéo lui, và không được giữ yên bằng sự đàn áp mạnh mẽ. Được tự do, nó ổn định. Được ổn định, nó mãn nguyện. Được mãn nguyện, người ấy không lo lắng. Đức Phật đã nói quả của định này là *minh* (enlightenment, gnosis / sự hiểu biết cuối cùng, trí tuệ giải thoát).' Một người không kinh nghiệm xứ đó cũng nhận thức theo cách này."
 
 <!--pg-->
-### AN 9.38 Các Bà La Môn Vũ Trụ Luận (Lokāyatikasutta)
+### AN 9.38 Các Bà La Môn Vũ Trụ Luận (Lokāyatikasutta){#38}
 
 Khi ấy, hai Bà la môn chuyên về vũ trụ luận đến gặp Đức Phật, và trao đổi lời chào hỏi với Ngài. Sau khi chào hỏi và chuyện trò lịch sự xong, họ ngồi xuống một bên và nói với Đức Phật:
 
@@ -186,7 +186,7 @@ Hơn nữa, hãy xét một Tỳ kheo chứng và trú Thức vô biên xứ... 
 Hơn nữa, hãy xét một Tỳ kheo, vượt hoàn toàn Phi tưởng phi phi tưởng xứ, chứng và trú Diệt thọ tưởng định. Và, sau khi thấy bằng Trí tuệ, các lậu hoặc của họ đi đến đoạn tận. Đây được gọi là một Tỳ kheo, người đã đi đến tận cùng thế giới, hành thiền ở tận cùng thế giới. Và họ đã vượt qua sự chấp thủ vào thế giới."
 
 <!--pg-->
-### AN 9.39 Cuộc Chiến Giữa Chư Thiên Và A Tu La (Devāsurasaṅgāmasutta)
+### AN 9.39 Cuộc Chiến Giữa Chư Thiên Và A Tu La (Devāsurasaṅgāmasutta){#39}
 
 "Ngày xưa, này các Tỳ kheo, một trận chiến đã xảy ra giữa chư Thiên và các A tu la. Trong trận chiến đó, các A tu la chiến thắng và chư Thiên thua trận. Bị đánh bại, chư Thiên chạy trốn về phía bắc với các A tu la truy đuổi.
 
@@ -215,7 +215,7 @@ Có một thời điểm khi một Tỳ kheo, vượt hoàn toàn Không vô bi�
 Vượt hoàn toàn Phi tưởng phi phi tưởng xứ, họ chứng và trú Diệt thọ tưởng định. Và, sau khi thấy bằng Trí tuệ, các lậu hoặc của họ đi đến đoạn tận. Đây được gọi là một Tỳ kheo đã làm mù mắt Ma vương, khoét mắt nó không còn dấu vết, và đi đến nơi mà Ác ma không thể thấy. Và họ đã vượt qua sự chấp thủ vào thế giới."
 
 <!--pg-->
-### AN 9.40 Ví Dụ Voi Đầu Đàn Trong Rừng (Nāgasutta)
+### AN 9.40 Ví Dụ Voi Đầu Đàn Trong Rừng (Nāgasutta){#40}
 
 "Này các Tỳ kheo, khi một con voi đực đầu đàn hoang dã mải mê với bãi cỏ, nhưng những con voi khác—đực, cái, con non, hoặc voi con—đã đến đó trước và giẫm nát cỏ, con voi đực đầu đàn hoang dã kinh sợ, ghê tởm, và chán ghét điều đó. Khi con voi đực đầu đàn hoang dã mải mê với bãi cỏ, nhưng những con voi khác—đực, cái, con non, hoặc voi con—ăn những cành gãy mà nó đã kéo xuống, con voi đực đầu đàn hoang dã kinh sợ, ghê tởm, và chán ghét điều đó. Khi một con voi đực đầu đàn hoang dã đã xuống ao, nhưng những con voi khác—đực, cái, con non, hoặc voi con—đã đến đó trước và khuấy đục nước bằng vòi của chúng, con voi đực đầu đàn hoang dã kinh sợ, ghê tởm, và chán ghét điều đó. Khi một con voi đực đầu đàn hoang dã đã ra khỏi ao và những con voi cái va chạm vào nó, con voi đực đầu đàn hoang dã kinh sợ, ghê tởm, và chán ghét điều đó.
 
@@ -230,7 +230,7 @@ Từ bỏ *tham ái* (covetousness / lòng tham muốn, thèm khát) đối vớ
 Vượt hoàn toàn các sắc tưởng, với sự chấm dứt các đối ngại tưởng, không tác ý đến các nhận thức đa dạng, biết rằng 'không gian là vô biên', vị ấy chứng và trú Không vô biên xứ. Vị ấy sung sướng gãi ngứa. Vượt hoàn toàn Không vô biên xứ, biết rằng 'thức là vô biên', vị ấy chứng và trú Thức vô biên xứ. ... Vượt hoàn toàn Thức vô biên xứ, biết rằng 'không có gì cả', vị ấy chứng và trú Vô sở hữu xứ. ... Vượt hoàn toàn Vô sở hữu xứ, vị ấy chứng và trú Phi tưởng phi phi tưởng xứ. ... Hơn nữa, hãy xét một Tỳ kheo, vượt hoàn toàn Phi tưởng phi phi tưởng xứ, chứng và trú Diệt thọ tưởng định. Và, sau khi thấy bằng Trí tuệ, các lậu hoặc của họ đi đến đoạn tận. Vị ấy sung sướng gãi ngứa."
 
 <!--pg-->
-### AN 9.41 Với Gia Chủ Tapussa (Tapussasutta)
+### AN 9.41 Với Gia Chủ Tapussa (Tapussasutta){#41}
 
 Một thời Đức Phật trú tại xứ của người Mallas, gần thị trấn Uruvelakappa của người Mallas.
 

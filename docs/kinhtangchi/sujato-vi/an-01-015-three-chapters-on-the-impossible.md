@@ -1,6 +1,6 @@
 # Ba Chương Về Điều Không Thể
 
-### AN 1.268--277 *Phẩm Thứ Nhất*
+### AN 1.268--277 *Phẩm Thứ Nhất*{#268-277}
 
 268\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một *người có chánh kiến* (person accomplished in view / người có hiểu biết đúng đắn) lại xem bất kỳ *pháp hữu vi* (condition / các pháp do duyên sinh, các pháp được tạo tác) nào là *thường còn* (permanent / không thay đổi, vĩnh viễn). Điều đó là không thể. Nhưng điều có thể xảy ra là một *phàm phu* (ordinary person / người chưa giác ngộ) xem một pháp hữu vi nào đó là thường còn. Điều đó là có thể."
 
@@ -27,7 +27,7 @@
 277\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là *hai vị A-la-hán, Chánh Đẳng Chánh Giác* (perfected ones, fully awakened Buddhas / hai vị đã hoàn thiện, giác ngộ viên mãn như Phật) cùng *xuất hiện* (arise / hiện ra, có mặt) đồng thời trong cùng một *thế giới hệ* (solar system / một cõi thế giới, một hệ thống thế giới). Nhưng điều có thể xảy ra là chỉ một vị A-la-hán, Chánh Đẳng Chánh Giác xuất hiện trong một thế giới hệ."
 
 <!--pg-->
-### AN 1.278--286 *Phẩm Thứ Hai*
+### AN 1.278--286 *Phẩm Thứ Hai*{#278-286}
 
 278\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là hai vị *vua Chuyển Luân Thánh Vương* (wheel-turning monarchs / vị vua cai trị bằng Chánh pháp, làm bánh xe Pháp chuyển động) cùng xuất hiện đồng thời trong cùng một thế giới hệ. Nhưng điều có thể xảy ra là chỉ một vị vua Chuyển Luân Thánh Vương xuất hiện trong một thế giới hệ."
 
@@ -47,7 +47,7 @@
 285--286\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một kết quả đáng ưa thích, đáng mong muốn, dễ chịu đến từ *hành vi xấu ác qua lời nói* (bad verbal conduct / lời nói xấu xa, ác ý)... *hành vi xấu ác qua ý nghĩ* (bad mental conduct / ý nghĩ xấu xa, ác ý). Nhưng điều có thể xảy ra là một kết quả không đáng ưa thích, không đáng mong muốn, khó chịu đến từ hành vi xấu ác qua lời nói... hành vi xấu ác qua ý nghĩ."
 
 <!--pg-->
-### AN 1.287--295 *Phẩm Thứ Ba*
+### AN 1.287--295 *Phẩm Thứ Ba*{#287-295}
 
 287\. "Này các Tỳ kheo, điều không thể xảy ra, không thể có được là một kết quả không đáng ưa thích, không đáng mong muốn, khó chịu đến từ *hành vi tốt đẹp qua thân* (good bodily conduct / hành động tốt lành bằng thân thể). Nhưng điều có thể xảy ra là một kết quả đáng ưa thích, đáng mong muốn, dễ chịu đến từ hành vi tốt đẹp qua thân."
 

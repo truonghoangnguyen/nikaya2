@@ -1,6 +1,6 @@
 # Phẩm Uruvelā (Ưu Lâu Tần Loa)
 
-### AN 4.21 Tại Uruvelā (1) *Paṭhamauruvelasutta*
+### AN 4.21 Tại Uruvelā (1) *Paṭhamauruvelasutta*{#21}
 
 Như vầy tôi nghe. Một thời Đức Phật trú gần
 Sāvatthī (Xá Vệ), tại Jetavana (Kỳ Viên), tịnh xá ông Anāthapiṇḍika (Cấp Cô Độc).
@@ -46,7 +46,7 @@ Và rồi, *Phạm thiên Sahampati* (Divinity Sahampati / vị trời Phạm th
 Bấy giờ, biết được lời thỉnh cầu của vị Phạm thiên và điều phù hợp với chính mình, Ta đã đảnh lễ, tôn kính và nương tựa chính Pháp mà Ta đã giác ngộ. Và vì *Tăng đoàn* (Saṅgha / cộng đồng tu sĩ) cũng đã đạt đến sự vĩ đại, Ta cũng tôn kính Tăng đoàn."
 
 <!--pg-->
-### AN 4.22 Tại Uruvelā (2) *Dutiyauruvelasutta*
+### AN 4.22 Tại Uruvelā (2) *Dutiyauruvelasutta*{#22}
 
 "Này các Tỳ kheo, thuở xưa, khi Ta mới giác ngộ, Ta trú ở Uruvelā, dưới gốc cây banyan của người chăn dê, bên bờ sông Nerañjarā. Khi ấy, có nhiều vị Bà la môn già cả—những bậc cao niên, lớn tuổi, đã sống lâu năm và đến giai đoạn cuối của cuộc đời—đến gặp Ta và chào hỏi thăm viếng.
 
@@ -93,7 +93,7 @@ Vị ấy chứng ngộ *tâm giải thoát* (freedom of heart / sự giải tho
 > Được tuyên bố là 'trưởng lão'."
 
 <!--pg-->
-### AN 4.23 Thế Gian *Lokasutta*
+### AN 4.23 Thế Gian *Lokasutta*{#23}
 
 "Này các Tỳ kheo, thế gian đã được *Như Lai* (Realized One / Bậc Như Lai, danh hiệu của Phật) liễu tri; và Ngài đã *ly tham* (detached / không còn tham ái, tách rời) khỏi thế gian. *Tập khởi của thế gian* (origin of the world / nguyên nhân sinh khởi của thế gian) đã được Như Lai liễu tri; và Ngài đã từ bỏ tập khởi của thế gian. *Đoạn diệt của thế gian* (cessation of the world / sự chấm dứt của thế gian) đã được Như Lai liễu tri; và Ngài đã chứng ngộ đoạn diệt của thế gian. *Con đường đưa đến đoạn diệt của thế gian* (practice that leads to the cessation of the world / phương pháp thực hành dẫn đến sự chấm dứt của thế gian) đã được Như Lai liễu tri; và Ngài đã tu tập con đường đưa đến đoạn diệt của thế gian.
 
@@ -141,7 +141,7 @@ Trong thế giới này—với chư thiên, Ma vương, và Phạm thiên, tron
 > Ngài không có *đối thủ* (rival)."
 
 <!--pg-->
-### AN 4.24 Tại Tịnh Xá Kāḷaka *Kāḷakārāmasutta*
+### AN 4.24 Tại Tịnh Xá Kāḷaka *Kāḷakārāmasutta*{#24}
 
 Một thời Đức Phật trú gần Sāketa (Sa Kỳ), tại tịnh xá Kāḷaka. Tại đấy, Đức Phật gọi các vị Tỳ kheo: "Này các Tỳ kheo!"
 
@@ -172,7 +172,7 @@ Vì Như Lai *không bị lay động* (unaffected) giữa những sự vật c�
 > Các bậc Như Lai không có sự chấp thủ."
 
 <!--pg-->
-### AN 4.25 Đời Sống Phạm Hạnh *Brahmacariyasutta*
+### AN 4.25 Đời Sống Phạm Hạnh *Brahmacariyasutta*{#25}
 
 "Này các Tỳ kheo, *phạm hạnh* (spiritual life / đời sống phạm hạnh, đời sống tu tập thanh tịnh) này không phải được sống vì mục đích *lừa dối người* (deceiving people) hay *mơn trớn người* (flattering them), cũng không phải vì lợi ích của *lợi dưỡng, cung kính, danh tiếng* (possessions, honor, or popularity), cũng không phải vì lợi ích *hơn thua trong tranh luận* (winning debates), cũng không phải với suy nghĩ: 'Để mọi người biết đến ta!' Đời sống phạm hạnh này được sống vì mục đích *sự chế ngự* (restraint / sự tự kiểm soát, phòng hộ), *sự từ bỏ* (giving up / sự xả ly), *sự ly tham* (fading away / sự nhạt dần tham ái), và *sự đoạn diệt* (cessation / sự chấm dứt).
 
@@ -189,7 +189,7 @@ Vì Như Lai *không bị lay động* (unaffected) giữa những sự vật c�
 > Sẽ chấm dứt khổ đau."
 
 <!--pg-->
-### AN 4.26 Kẻ Lừa Đảo *Kuhasutta*
+### AN 4.26 Kẻ Lừa Đảo *Kuhasutta*{#26}
 
 "Này các Tỳ kheo, những Tỳ kheo là *kẻ lừa đảo* (deceivers) và *kẻ mơn trớn* (flatterers), *kiêu căng* (pompous) và *giả dối* (fake), *ngạo mạn* (insolent), và *tâm tán loạn* (scattered): những Tỳ kheo đó không phải là đệ tử của Ta. Họ đã rời bỏ giáo pháp và giới luật này, và họ không đạt được sự tăng trưởng, tiến bộ, hay trưởng thành trong giáo pháp và giới luật này.
 
@@ -207,7 +207,7 @@ Nhưng những Tỳ kheo *chân thật* (genuine), không mơn trớn, *chú tâ
 > Đã được Đức Phật toàn giác giảng dạy."
 
 <!--pg-->
-### AN 4.27 Sự Tri Túc *Santuṭṭhisutta*
+### AN 4.27 Sự Tri Túc *Santuṭṭhisutta*{#27}
 
 "Này các Tỳ kheo, bốn *vật dụng tối thiểu* (trifles / những thứ nhỏ nhặt, đơn giản) này dễ tìm và *không đáng chê trách* (blameless / không có lỗi). Bốn điều gì? *Y phấn tảo* (rag-robes / y may từ vải vụn nhặt nơi bỏ rác) ... *Vật thực khất thực* (lump of almsfood / thức ăn nhận được khi đi xin) ... *Sàng tọa gốc cây* (lodgings at the root of a tree / chỗ ở dưới gốc cây) ... *Nước tiểu mục làm thuốc* (rancid urine as medicine / nước tiểu bò lên men dùng làm thuốc) ...
 
@@ -226,7 +226,7 @@ Bốn vật dụng tối thiểu này dễ tìm và không đáng chê trách. K
 > Biết đủ và *tinh cần* (diligent / siêng năng)."
 
 <!--pg-->
-### AN 4.28 Truyền Thống Cao Quý *Ariyavaṁsasutta*
+### AN 4.28 Truyền Thống Cao Quý *Ariyavaṁsasutta*{#28}
 
 "Này các Tỳ kheo, bốn *thánh chủng* (noble traditions / truyền thống bậc Thánh) này là *nguyên thủy* (primordial), *lâu đời* (long-standing), *truyền thống* (traditional), và *cổ xưa* (ancient). Chúng *không tạp loạn* (uncorrupted), như chúng đã có từ ban đầu. Chúng không bị tạp loạn bây giờ, và cũng sẽ không bị như vậy trong tương lai. Các Sa môn và Bà la môn *có trí* (sensible) không xem thường chúng. Bốn điều gì?
 
@@ -255,7 +255,7 @@ Khi một Tỳ kheo có bốn thánh chủng này, nếu vị ấy sống ở ph
 > Và bởi *Phạm thiên* (Divinity), họ cũng được tán thán."
 
 <!--pg-->
-### AN 4.29 Dấu Chân Pháp *Dhammapadasutta*
+### AN 4.29 Dấu Chân Pháp *Dhammapadasutta*{#29}
 
 "Này các Tỳ kheo, bốn *dấu chân Pháp* (footprints of the Dhamma / những nền tảng của Giáo pháp) này là nguyên thủy, lâu đời, truyền thống, và cổ xưa. Chúng không tạp loạn, như chúng đã có từ ban đầu. Chúng không bị tạp loạn bây giờ cũng như sẽ không bị như vậy trong tương lai. Các Sa môn và Bà la môn có trí không xem thường chúng. Bốn điều gì? Sự tri túc, *từ tâm* (good will / lòng nhân ái, thiện ý), *chánh niệm* (right mindfulness / sự nhớ nghĩ đúng đắn, tỉnh thức), và *chánh định* (right immersion / sự tập trung đúng đắn, thiền định đúng đắn).
 
@@ -267,7 +267,7 @@ Bốn dấu chân Pháp này là nguyên thủy, lâu đời, truyền thống, 
 > *Nội tâm tịch tĩnh* (serene within)."
 
 <!--pg-->
-### AN 4.30 Các Du Sĩ Ngoại Đạo *Paribbājakasutta*
+### AN 4.30 Các Du Sĩ Ngoại Đạo *Paribbājakasutta*{#30}
 
 Một thời Đức Phật trú gần Rājagaha (Vương Xá), trên núi Gijjhakūṭa (Linh Thứu).
 

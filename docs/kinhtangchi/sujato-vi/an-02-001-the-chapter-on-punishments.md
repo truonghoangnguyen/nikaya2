@@ -1,6 +1,6 @@
 # Phẩm Hình Phạt
 
-### AN 2.1–10 *Kammakaraṇavagga*
+### AN 2.1–10 *Kammakaraṇavagga*{#1-10}
 
 1\. Những Điều Nguy Hại
 

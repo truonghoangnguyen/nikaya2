@@ -1,6 +1,6 @@
 # Phẩm Về Những Hy Vọng Khó Từ Bỏ
 
-### AN 2.118--129 *Āsāduppajahavagga*
+### AN 2.118--129 *Āsāduppajahavagga*{#118-129}
 
 118\. "Hai hy vọng này khó từ bỏ. Hai hy vọng nào? Hy vọng về tài sản và hy vọng về sự trường thọ. Đây là hai hy vọng khó từ bỏ."
 
