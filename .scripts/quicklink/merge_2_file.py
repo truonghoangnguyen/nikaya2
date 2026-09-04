@@ -12,9 +12,13 @@ def load_js_export(path):
     return eval(text)
 
 
+def load_json(path):
+    text = Path(path).read_text(encoding="utf-8")
+    return json.loads(text)
+
 def merge_files(file1, file2, output_file):
-    data1 = load_js_export(file1)
-    data2 = load_js_export(file2)
+    data1 = load_json(file1)
+    data2 = load_json(file2)
 
     merged = {}
 
@@ -44,8 +48,8 @@ def merge_files(file1, file2, output_file):
 
     Path(output_file).write_text(output + "\n", encoding="utf-8")
 
-f1='../../docs/.vitepress/data/link-an-tmc.js'
-f2='../../docs/.vitepress/data/link-an-sujato.js'
+f1='an-index-tmc.json'
+f2='an-index.json'
 f3='../../docs/.vitepress/data/link-an-sujato-tmc.js'
 if __name__ == "__main__":
     merge_files(

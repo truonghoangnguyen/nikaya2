@@ -113,10 +113,85 @@ function findChild(children, target) {
   return null
 }
 
+// Tìm chương trong items của AN (hỗ trợ số thường hoặc padding 01)
+function findChapter(items, key) {
+  if (!items || !key) return null
+  const k = String(key).trim()
+  if (items[k]) return items[k]
+
+  const n = Number(k)
+  if (!isNaN(n)) {
+    const norm = String(n)
+    if (items[norm]) return items[norm]
+    const pad2 = norm.padStart(2, '0')
+    if (items[pad2]) return items[pad2]
+  }
+  return null
+}
+
+// Kiểm tra edition có dùng cấu trúc AN (chương có danh sách files) hay không
+function isAnEdition(edition) {
+  if (!edition || !edition.items) return false
+  return Object.values(edition.items).some((item) => item && Array.isArray(item.files))
+}
+
+// Xử lý riêng cho cấu trúc AN:
+// - "an 1"   -> trả về danh sách tất cả file trong chương 1
+// - "an 1.5" -> tìm file có chứa kinh 5 trong children, gắn anchor #5
+function resolveAnEdition(nikaya, edition, queryStr) {
+  if (!edition || !edition.items || !queryStr) return null
+
+  const items = edition.items
+  const parts = queryStr.trim().split(/[\s.\-_#]+/).filter(Boolean)
+  if (parts.length === 0) return null
+
+  const chapterKey = parts[0]
+  const chapter = findChapter(items, chapterKey)
+  if (!chapter) return null
+
+  // Khi chỉ nhập số chương (vd: an 1): hiển thị danh sách các file/phẩm thuộc chương đó
+  if (parts.length === 1) {
+    if (!Array.isArray(chapter.files)) return null
+    return chapter.files.map((file) => ({
+      title: `${chapter.title} - ${file.title}`,
+      url: buildUrl(nikaya.folder, edition.path, file.slug, undefined)
+    }))
+  }
+
+  // Khi nhập chương và kinh (vd: an 1.5 hoặc an 1 5)
+  const suttaPart = parts[1]
+  const extraPart = parts.slice(2).join('.')
+  const suttaNum = Number(suttaPart)
+  const targetStr = String(suttaPart).trim()
+
+  for (const file of chapter.files || []) {
+    if (!Array.isArray(file.children)) continue
+    const found = file.children.find((c) => {
+      if (!isNaN(suttaNum) && Number(c) === suttaNum) return true
+      return String(c).trim() === targetStr
+    })
+
+    if (found !== undefined) {
+      const anchor = extraPart ? `${suttaPart}.${extraPart}` : String(found)
+      return {
+        title: `${chapter.title} - ${file.title}`,
+        url: buildUrl(nikaya.folder, edition.path, file.slug, anchor)
+      }
+    }
+  }
+
+  return null
+}
+
 // Tìm bài kinh theo cấu trúc mới:
 // item trong items có: title, slug, children (mảng string các mục/đoạn)
 function resolveEdition(nikaya, edition, queryStr) {
   if (!edition || !edition.items || !queryStr) return null
+
+  // Phân nhánh nếu là định dạng AN
+  if (isAnEdition(edition)) {
+    return resolveAnEdition(nikaya, edition, queryStr)
+  }
 
   const items = edition.items
 
@@ -203,7 +278,15 @@ function resolveAll(raw, data) {
   const results = []
   for (const [editionKey, edition] of Object.entries(nikaya.editions || {})) {
     const r = resolveEdition(nikaya, edition, parsed.rest)
-    if (r) results.push({ editionKey, label: edition.label, ...r })
+    if (r) {
+      if (Array.isArray(r)) {
+        for (const item of r) {
+          results.push({ editionKey, label: edition.label, ...item })
+        }
+      } else {
+        results.push({ editionKey, label: edition.label, ...r })
+      }
+    }
   }
 
   if (results.length === 0) {
@@ -322,7 +405,7 @@ onUnmounted(() => {
       </div>
     </div>
     <ul v-else-if="result.results && result.results.length" class="results">
-      <li v-for="r in result.results" :key="r.editionKey">
+      <li v-for="(r, idx) in result.results" :key="r.editionKey + '-' + r.url + '-' + idx">
         <a :href="withBase(r.url)">
           <span class="edition">{{ r.label }}</span>
           <span class="title">{{ r.title }}</span>

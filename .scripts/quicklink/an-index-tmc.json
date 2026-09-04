@@ -1,0 +1,937 @@
+{
+  "1": {
+    "title": "Chương Một Pháp",
+    "files": [
+      {
+        "slug": "an-01-001-pham-sac",
+        "title": "I. Phẩm Sắc",
+        "children": []
+      },
+      {
+        "slug": "an-01-002-pham-doan-trien-cai",
+        "title": "II. Phẩm Ðoạn Triền Cái",
+        "children": []
+      },
+      {
+        "slug": "an-01-003-pham-kho-su-dung",
+        "title": "III. Phẩm Khó Sử Dụng",
+        "children": []
+      },
+      {
+        "slug": "an-01-004-pham-khong-dieu-phuc",
+        "title": "IV. Phẩm Không Ðiều Phục",
+        "children": []
+      },
+      {
+        "slug": "an-01-005-pham-dat-huong-va-trong-sang",
+        "title": "V. Phẩm Ðặt Hướng và Trong Sáng",
+        "children": []
+      },
+      {
+        "slug": "an-01-006-pham-bung-ngon-tay",
+        "title": "VI. Phẩm Búng Ngón Tay",
+        "children": []
+      },
+      {
+        "slug": "an-01-007-pham-tinh-tan",
+        "title": "VII. Phẩm Tinh Tấn",
+        "children": []
+      },
+      {
+        "slug": "an-01-008-pham-lam-ban-voi-thien",
+        "title": "VIII. Phẩm Làm Bạn Với Thiện",
+        "children": []
+      },
+      {
+        "slug": "an-01-009-pham-phong-dat",
+        "title": "IX. Phẩm Phóng Dật",
+        "children": []
+      },
+      {
+        "slug": "an-01-010-pham-phi-phap-1",
+        "title": "X. Phẩm Phi Pháp (1)",
+        "children": []
+      },
+      {
+        "slug": "an-01-011-pham-phi-phap-3",
+        "title": "XI. Phẩm Phi Pháp (3)",
+        "children": []
+      },
+      {
+        "slug": "an-01-012-pham-vo-pham",
+        "title": "XII. Phẩm Vô Phạm",
+        "children": []
+      },
+      {
+        "slug": "an-01-013-pham-mot-nguoi",
+        "title": "XIII. Phẩm Một Người",
+        "children": []
+      },
+      {
+        "slug": "an-01-014-pham-nguoi-toi-thang",
+        "title": "XIV. Phẩm Người Tối Thắng",
+        "children": []
+      },
+      {
+        "slug": "an-01-015-pham-khong-the-co-duoc",
+        "title": "XV. Phẩm Không Thể Có Ðược",
+        "children": []
+      },
+      {
+        "slug": "an-01-016-pham-mot-phap",
+        "title": "XVI. Phẩm Một Pháp",
+        "children": []
+      },
+      {
+        "slug": "an-01-017-pham-chung-tu",
+        "title": "XVII. Phẩm Chủng Tử",
+        "children": []
+      },
+      {
+        "slug": "an-01-018-pham-makkhali",
+        "title": "XVIII. Phẩm Makkhali",
+        "children": []
+      },
+      {
+        "slug": "an-01-019-pham-khong-phong-dat",
+        "title": "XIX. Phẩm Không Phóng Dật",
+        "children": []
+      },
+      {
+        "slug": "an-01-020-pham-thien-dinh-that-su-la-vay",
+        "title": "XX. Phẩm Thiền Định (Thật Sự Là Vậy)",
+        "children": []
+      },
+      {
+        "slug": "an-01-021-pham-thien-dinh-bung-ngon-tay",
+        "title": "XX. Phẩm Thiền Định (Búng Ngón Tay)",
+        "children": []
+      },
+      {
+        "slug": "an-01-022-pham-thien-dinh-2-than-hanh-niem",
+        "title": "XXI. Phẩm Thiền Ðịnh (2) (Thân Hành Niệm)",
+        "children": []
+      },
+      {
+        "slug": "an-01-023-pham-thien-dinh-2-bat-tu",
+        "title": "XXI. Phẩm Thiền Ðịnh (2) (Bất Tử)",
+        "children": []
+      }
+    ]
+  },
+  "2": {
+    "title": "Chương Hai Pháp",
+    "files": [
+      {
+        "slug": "an-02-001-pham-hinh-phat",
+        "title": "I. Phẩm Hình Phạt",
+        "children": []
+      },
+      {
+        "slug": "an-02-002-pham-tranh-luan",
+        "title": "II. Phẩm Tranh Luận",
+        "children": []
+      },
+      {
+        "slug": "an-02-003-pham-nguoi-ngu",
+        "title": "III. Phẩm Người Ngu",
+        "children": []
+      },
+      {
+        "slug": "an-02-004-pham-tam-thang-bang",
+        "title": "IV. Phẩm Tâm Thăng Bằng",
+        "children": []
+      },
+      {
+        "slug": "an-02-005-pham-hoi-chung",
+        "title": "V. Phẩm Hội Chúng",
+        "children": []
+      },
+      {
+        "slug": "an-02-006-pham-nguoi",
+        "title": "VI. Phẩm Người",
+        "children": []
+      },
+      {
+        "slug": "an-02-007-pham-lac",
+        "title": "VII. Phẩm Lạc",
+        "children": []
+      },
+      {
+        "slug": "an-02-008-pham-tuong",
+        "title": "VIII. Phẩm Tướng",
+        "children": []
+      },
+      {
+        "slug": "an-02-009-pham-cac-phap",
+        "title": "IX. Phẩm Các Pháp",
+        "children": []
+      },
+      {
+        "slug": "an-02-010-pham-ke-ngu",
+        "title": "X. Phẩm Kẻ Ngu",
+        "children": []
+      },
+      {
+        "slug": "an-02-011-pham-cac-hy-vong",
+        "title": "XI. Phẩm Các Hy Vọng",
+        "children": []
+      },
+      {
+        "slug": "an-02-012-pham-hy-cau",
+        "title": "XII. Phẩm Hy Cầu",
+        "children": []
+      },
+      {
+        "slug": "an-02-013-pham-bo-thi",
+        "title": "XIII. Phẩm Bố Thí",
+        "children": []
+      },
+      {
+        "slug": "an-02-014-pham-don-chao",
+        "title": "XIV. Phẩm Ðón Chào",
+        "children": []
+      },
+      {
+        "slug": "an-02-015-pham-nhap-dinh",
+        "title": "XV. Phẩm Nhập Ðịnh",
+        "children": []
+      },
+      {
+        "slug": "an-02-016-pham-phan-no",
+        "title": "XVI. Phẩm Phẫn Nộ",
+        "children": []
+      },
+      {
+        "slug": "an-02-017-pham-thu-muoi-bay",
+        "title": "XVII. Phẩm Thứ Mười Bảy",
+        "children": []
+      }
+    ]
+  },
+  "3": {
+    "title": "Chương Ba Pháp",
+    "files": [
+      {
+        "slug": "an-03-001-pham-nguoi-ngu",
+        "title": "I. Phẩm Người Ngu",
+        "children": []
+      },
+      {
+        "slug": "an-03-002-pham-nguoi-dong-xe",
+        "title": "II. Phẩm Người Ðóng Xe",
+        "children": []
+      },
+      {
+        "slug": "an-03-003-pham-nguoi",
+        "title": "III. Phẩm Người",
+        "children": []
+      },
+      {
+        "slug": "an-03-004-pham-su-gia-cua-troi",
+        "title": "IV. Phẩm Sứ Giả Của Trời",
+        "children": []
+      },
+      {
+        "slug": "an-03-005-pham-nho",
+        "title": "V. Phẩm Nhỏ",
+        "children": []
+      },
+      {
+        "slug": "an-03-006-pham-cac-ba-la-mon",
+        "title": "VI. Phẩm Các Bà La Môn",
+        "children": []
+      },
+      {
+        "slug": "an-03-007-pham-lon",
+        "title": "VII. Phẩm Lớn",
+        "children": []
+      },
+      {
+        "slug": "an-03-008-pham-ananda",
+        "title": "VIII. Phẩm Ananda",
+        "children": []
+      },
+      {
+        "slug": "an-03-009-pham-sa-mon",
+        "title": "IX. Phẩm Sa-Môn",
+        "children": []
+      },
+      {
+        "slug": "an-03-010-pham-hat-muoi",
+        "title": "X. Phẩm Hạt Muối",
+        "children": []
+      },
+      {
+        "slug": "an-03-011-pham-chanh-giac",
+        "title": "XI. Phẩm Chánh Giác",
+        "children": []
+      },
+      {
+        "slug": "an-03-012-pham-doa-xu",
+        "title": "XII. Phẩm Ðọa Xứ",
+        "children": []
+      },
+      {
+        "slug": "an-03-013-pham-kusinara",
+        "title": "XIII. Phẩm Kusinàra",
+        "children": []
+      },
+      {
+        "slug": "an-03-014-pham-ke-chien-si",
+        "title": "XIV. Phẩm Kẻ Chiến Sĩ",
+        "children": []
+      },
+      {
+        "slug": "an-03-015-pham-cat-tuong",
+        "title": "XV. Phẩm Cát Tường",
+        "children": []
+      },
+      {
+        "slug": "an-03-016-pham-loa-the",
+        "title": "XVI. Phẩm Lõa Thể",
+        "children": []
+      }
+    ]
+  },
+  "4": {
+    "title": "Chương Bốn Pháp",
+    "files": [
+      {
+        "slug": "an-04-001-pham-bhandagana",
+        "title": "I. Phẩm Bhandagana",
+        "children": []
+      },
+      {
+        "slug": "an-04-002-pham-hanh",
+        "title": "II. Phẩm Hành",
+        "children": []
+      },
+      {
+        "slug": "an-04-003-pham-uruvela",
+        "title": "III. Phẩm Uruvelà",
+        "children": []
+      },
+      {
+        "slug": "an-04-004-pham-banh-xe",
+        "title": "IV. Phẩm Bánh Xe",
+        "children": []
+      },
+      {
+        "slug": "an-04-005-pham-rohitassa",
+        "title": "V. Phẩm Rohitassa",
+        "children": []
+      },
+      {
+        "slug": "an-04-006-pham-nguon-sanh-phuoc",
+        "title": "VI. Phẩm Nguồn Sanh Phước",
+        "children": []
+      },
+      {
+        "slug": "an-04-007-pham-nghiep-cong-duc",
+        "title": "VII. Phẩm Nghiệp Công Ðức",
+        "children": []
+      },
+      {
+        "slug": "an-04-008-pham-khong-hy-luan",
+        "title": "VIII. Phẩm Không Hý Luận",
+        "children": []
+      },
+      {
+        "slug": "an-04-009-pham-khong-co-rung-dong",
+        "title": "IX. Phẩm Không Có Rung Ðộng",
+        "children": []
+      },
+      {
+        "slug": "an-04-010-pham-asura-a-tu-la",
+        "title": "X. Phẩm Asura (A-tu-la)",
+        "children": []
+      },
+      {
+        "slug": "an-04-011-pham-may-mua",
+        "title": "XI. Phẩm Mây Mưa",
+        "children": []
+      },
+      {
+        "slug": "an-04-012-pham-kesi",
+        "title": "XII. Phẩm Kesi",
+        "children": []
+      },
+      {
+        "slug": "an-04-013-pham-so-hai",
+        "title": "XIII. Phẩm Sợ Hãi",
+        "children": []
+      },
+      {
+        "slug": "an-04-014-pham-loai-nguoi",
+        "title": "XIV. Phẩm Loài Người",
+        "children": []
+      },
+      {
+        "slug": "an-04-015-pham-anh-sang",
+        "title": "XV. Phẩm Ánh Sáng",
+        "children": []
+      },
+      {
+        "slug": "an-04-016-pham-cac-can",
+        "title": "XVI. Phẩm Các Căn",
+        "children": []
+      },
+      {
+        "slug": "an-04-017-pham-dao-hanh",
+        "title": "XVII. Phẩm Ðạo Hạnh",
+        "children": []
+      },
+      {
+        "slug": "an-04-018-pham-tu-tam-so",
+        "title": "XVIII. Phẩm Tư Tâm Sở",
+        "children": []
+      },
+      {
+        "slug": "an-04-019-pham-chien-si",
+        "title": "XIX. Phẩm Chiến Sĩ",
+        "children": []
+      },
+      {
+        "slug": "an-04-020-dai-pham",
+        "title": "XX. Ðại Phẩm",
+        "children": []
+      },
+      {
+        "slug": "an-04-021-pham-bac-chan-nhan",
+        "title": "XXI. Phẩm Bậc Chân Nhân",
+        "children": []
+      },
+      {
+        "slug": "an-04-022-pham-o-ue",
+        "title": "XXII. Phẩm Ô Uế",
+        "children": []
+      },
+      {
+        "slug": "an-04-023-pham-dieu-hanh",
+        "title": "XXIII. Phẩm Diệu Hạnh",
+        "children": []
+      },
+      {
+        "slug": "an-04-024-pham-nghiep",
+        "title": "XXIV. Phẩm Nghiệp",
+        "children": []
+      },
+      {
+        "slug": "an-04-025-pham-so-hai-pham-toi",
+        "title": "XXV. Phẩm Sợ Hãi Phạm Tội",
+        "children": []
+      },
+      {
+        "slug": "an-04-026-pham-thang-tri",
+        "title": "XXVI. Phẩm Thắng Trí",
+        "children": []
+      },
+      {
+        "slug": "an-04-027-pham-nghiep-dao",
+        "title": "XXVII. Phẩm Nghiệp Ðạo",
+        "children": []
+      },
+      {
+        "slug": "an-04-028-pham-tham",
+        "title": "XXVIII. Phẩm Tham",
+        "children": []
+      }
+    ]
+  },
+  "5": {
+    "title": "Chương Năm Pháp",
+    "files": [
+      {
+        "slug": "an-05-001-pham-suc-manh-huu-hoc",
+        "title": "I. Phẩm Sức Mạnh Hữu Học",
+        "children": []
+      },
+      {
+        "slug": "an-05-002-pham-suc-manh",
+        "title": "II. Phẩm Sức Mạnh",
+        "children": []
+      },
+      {
+        "slug": "an-05-003-pham-nam-phan",
+        "title": "III. Phẩm Năm Phần",
+        "children": []
+      },
+      {
+        "slug": "an-05-004-pham-sumana",
+        "title": "IV. Phẩm Sumanà",
+        "children": []
+      },
+      {
+        "slug": "an-05-005-pham-vua-munda",
+        "title": "V. Phẩm Vua Munda",
+        "children": []
+      },
+      {
+        "slug": "an-05-006-pham-trien-cai",
+        "title": "VI. Phẩm Triền Cái",
+        "children": []
+      },
+      {
+        "slug": "an-05-007-pham-tuong",
+        "title": "VII. Phẩm Tưởng",
+        "children": []
+      },
+      {
+        "slug": "an-05-008-pham-chien-si",
+        "title": "VIII. Phẩm Chiến Sĩ",
+        "children": []
+      },
+      {
+        "slug": "an-05-009-pham-truong-lao",
+        "title": "IX. Phẩm Trưởng Lão",
+        "children": []
+      },
+      {
+        "slug": "an-05-010-pham-kakudha",
+        "title": "X. Phẩm Kakudha",
+        "children": []
+      },
+      {
+        "slug": "an-05-011-pham-an-on-tru",
+        "title": "XI. Phẩm An Ổn Trú",
+        "children": []
+      },
+      {
+        "slug": "an-05-012-pham-andhakavinda",
+        "title": "XII. Phẩm Andhakavinda",
+        "children": []
+      },
+      {
+        "slug": "an-05-013-pham-benh",
+        "title": "XIII. Phẩm Bệnh",
+        "children": []
+      },
+      {
+        "slug": "an-05-014-pham-vua",
+        "title": "XIV. Phẩm Vua",
+        "children": []
+      },
+      {
+        "slug": "an-05-015-pham-tikandaki",
+        "title": "XV. Phẩm Tikandaki",
+        "children": []
+      },
+      {
+        "slug": "an-05-016-pham-dieu-phap",
+        "title": "XVI. Phẩm Diệu Pháp",
+        "children": []
+      },
+      {
+        "slug": "an-05-017-pham-hiem-han",
+        "title": "XVII. Phẩm Hiềm Hận",
+        "children": []
+      },
+      {
+        "slug": "an-05-018-pham-nam-cu-si",
+        "title": "XVIII. Phẩm Nam Cư Sĩ",
+        "children": []
+      },
+      {
+        "slug": "an-05-019-pham-rung",
+        "title": "XIX. Phẩm Rừng",
+        "children": []
+      },
+      {
+        "slug": "an-05-020-pham-ba-la-mon",
+        "title": "XX. Phẩm Bà-La-Môn",
+        "children": []
+      },
+      {
+        "slug": "an-05-021-pham-kimbila",
+        "title": "XXI. Phẩm Kimbila",
+        "children": []
+      },
+      {
+        "slug": "an-05-022-pham-mang-nhiec",
+        "title": "XXII. Phẩm Mắng Nhiếc",
+        "children": []
+      },
+      {
+        "slug": "an-05-023-pham-du-hanh-dai",
+        "title": "XXIII. Phẩm Du Hành Dài",
+        "children": []
+      },
+      {
+        "slug": "an-05-024-pham-tru-tai-cho",
+        "title": "XXIV. Phẩm Trú Tại Chỗ",
+        "children": []
+      },
+      {
+        "slug": "an-05-025-pham-ac-hanh",
+        "title": "XXV. Phẩm Ác Hành",
+        "children": []
+      },
+      {
+        "slug": "an-05-026-pham-cu-tuc-gioi",
+        "title": "XXVI. Phẩm Cụ Túc Giới",
+        "children": []
+      }
+    ]
+  },
+  "6": {
+    "title": "Chương Sáu Pháp",
+    "files": [
+      {
+        "slug": "an-06-001-pham-dang-duoc-cung-kinh",
+        "title": "I. Phẩm Ðáng Ðược Cung Kính",
+        "children": []
+      },
+      {
+        "slug": "an-06-002-pham-can-phai-nho",
+        "title": "II. Phẩm Cần Phải Nhớ",
+        "children": []
+      },
+      {
+        "slug": "an-06-003-pham-tren-tat-ca",
+        "title": "III. Phẩm Trên Tất Cả",
+        "children": []
+      },
+      {
+        "slug": "an-06-004-pham-chu-thien",
+        "title": "IV. Phẩm Chư Thiên",
+        "children": []
+      },
+      {
+        "slug": "an-06-005-pham-dhammika",
+        "title": "V. Phẩm Dhammika",
+        "children": []
+      },
+      {
+        "slug": "an-06-006-dai-pham",
+        "title": "VI. Ðại Phẩm",
+        "children": []
+      },
+      {
+        "slug": "an-06-007-pham-chu-thien",
+        "title": "VII. Phẩm Chư Thiên",
+        "children": []
+      },
+      {
+        "slug": "an-06-008-pham-a-la-han",
+        "title": "VIII. Phẩm A-La-Hán",
+        "children": []
+      },
+      {
+        "slug": "an-06-009-pham-mat-lanh",
+        "title": "IX. Phẩm Mát Lạnh",
+        "children": []
+      },
+      {
+        "slug": "an-06-010-pham-loi-ich",
+        "title": "X. Phẩm Lợi Ích",
+        "children": []
+      },
+      {
+        "slug": "an-06-011-pham-ba-phap",
+        "title": "XI. Phẩm Ba Pháp",
+        "children": []
+      },
+      {
+        "slug": "an-06-012-pham-cac-kinh-khong-nhiep-trong-pham",
+        "title": "XII. Phẩm Các Kinh Không Nhiếp Trong Phẩm",
+        "children": []
+      }
+    ]
+  },
+  "7": {
+    "title": "Chương Bảy Pháp",
+    "files": [
+      {
+        "slug": "an-07-001-pham-tai-san",
+        "title": "I. Phẩm Tài Sản",
+        "children": []
+      },
+      {
+        "slug": "an-07-002-pham-tuy-mien",
+        "title": "II. Phẩm Tùy Miên",
+        "children": []
+      },
+      {
+        "slug": "an-07-003-pham-vajji-bat-ky",
+        "title": "III. Phẩm Vajjì ( Bạt Kỳ)",
+        "children": []
+      },
+      {
+        "slug": "an-07-004-pham-chu-thien",
+        "title": "IV. Phẩm Chư Thiên",
+        "children": []
+      },
+      {
+        "slug": "an-07-005-pham-dai-te-dan",
+        "title": "V. Phẩm Ðại Tế Ðàn",
+        "children": []
+      },
+      {
+        "slug": "an-07-006-pham-khong-tuyen-bo",
+        "title": "VI. Phẩm Không Tuyên Bố",
+        "children": []
+      },
+      {
+        "slug": "an-07-007-dai-pham",
+        "title": "VII. Ðại Phẩm",
+        "children": []
+      },
+      {
+        "slug": "an-07-008-pham-ve-luat",
+        "title": "VIII. Phẩm Về Luật",
+        "children": []
+      },
+      {
+        "slug": "an-07-009-pham-cac-kinh-khong-nhiep",
+        "title": "IX. Phẩm Các Kinh Không Nhiếp",
+        "children": []
+      }
+    ]
+  },
+  "8": {
+    "title": "Chương Tám Pháp",
+    "files": [
+      {
+        "slug": "an-08-001-pham-tu",
+        "title": "I. Phẩm Từ",
+        "children": []
+      },
+      {
+        "slug": "an-08-002-pham-lon",
+        "title": "II. Phẩm Lớn",
+        "children": []
+      },
+      {
+        "slug": "an-08-003-pham-gia-chu",
+        "title": "III. Phẩm Gia Chủ",
+        "children": []
+      },
+      {
+        "slug": "an-08-004-pham-bo-thi",
+        "title": "IV. Phẩm Bố Thí",
+        "children": []
+      },
+      {
+        "slug": "an-08-005-pham-ngay-trai-gioi",
+        "title": "V. Phẩm Ngày Trai Giới",
+        "children": []
+      },
+      {
+        "slug": "an-08-006-pham-gotami",
+        "title": "VI. Phẩm Gotamì",
+        "children": []
+      },
+      {
+        "slug": "an-08-007-pham-dat-rung-dong",
+        "title": "VII. Phẩm Ðất Rung Ðộng",
+        "children": []
+      },
+      {
+        "slug": "an-08-008-pham-song-doi",
+        "title": "VIII. Phẩm Song Ðôi",
+        "children": []
+      },
+      {
+        "slug": "an-08-009-pham-niem",
+        "title": "IX. Phẩm Niệm",
+        "children": []
+      },
+      {
+        "slug": "an-08-010-pham-tham-ai",
+        "title": "X. Phẩm Tham Ái",
+        "children": []
+      }
+    ]
+  },
+  "9": {
+    "title": "Chương Chín Pháp",
+    "files": [
+      {
+        "slug": "an-09-001-pham-chanh-giac",
+        "title": "I. Phẩm Chánh Giác",
+        "children": []
+      },
+      {
+        "slug": "an-09-002-pham-tieng-rong-con-su-tu",
+        "title": "II. Phẩm Tiếng Rống Con Sư Tử",
+        "children": []
+      },
+      {
+        "slug": "an-09-003-pham-cho-cu-tru-cua-huu-tinh",
+        "title": "III. Phẩm Chỗ Cư Trú Của Hữu Tình",
+        "children": []
+      },
+      {
+        "slug": "an-09-004-dai-pham",
+        "title": "IV. Ðại Phẩm",
+        "children": []
+      },
+      {
+        "slug": "an-09-005-pham-pancala",
+        "title": "V. Phẩm Pancala",
+        "children": []
+      },
+      {
+        "slug": "an-09-006-pham-an-on",
+        "title": "VI. Phẩm An Ổn",
+        "children": []
+      },
+      {
+        "slug": "an-09-007-pham-niem-xu",
+        "title": "VII. Phẩm Niệm Xứ",
+        "children": []
+      },
+      {
+        "slug": "an-09-008-pham-chanh-can",
+        "title": "VIII. Phẩm Chánh Cần",
+        "children": []
+      },
+      {
+        "slug": "an-09-009-pham-bon-nhu-y-tuc",
+        "title": "IX. Phẩm Bốn Như Ý Túc",
+        "children": []
+      },
+      {
+        "slug": "an-09-010-pham-tham",
+        "title": "X. Phẩm Tham",
+        "children": []
+      }
+    ]
+  },
+  "10": {
+    "title": "Chương Mười Pháp",
+    "files": [
+      {
+        "slug": "an-10-001-pham-loi-ich",
+        "title": "I. Phẩm Lợi Ích",
+        "children": []
+      },
+      {
+        "slug": "an-10-002-pham-ho-tri",
+        "title": "II. Phẩm Hộ Trì",
+        "children": []
+      },
+      {
+        "slug": "an-10-003-pham-lon",
+        "title": "III. Phẩm Lớn",
+        "children": []
+      },
+      {
+        "slug": "an-10-004-pham-upali-va-ananda",
+        "title": "IV. Phẩm Upàli Và Ananda",
+        "children": []
+      },
+      {
+        "slug": "an-10-005-pham-mang-nhiec",
+        "title": "V. Phẩm Mắng Nhiếc",
+        "children": []
+      },
+      {
+        "slug": "an-10-006-pham-tam-cua-minh",
+        "title": "VI. Phẩm Tâm Của Mình",
+        "children": []
+      },
+      {
+        "slug": "an-10-007-pham-song-doi",
+        "title": "VII. Phẩm Song Ðôi",
+        "children": []
+      },
+      {
+        "slug": "an-10-008-pham-uoc-nguyen",
+        "title": "VIII. Phẩm Ước Nguyện",
+        "children": []
+      },
+      {
+        "slug": "an-10-009-pham-truong-lao",
+        "title": "IX. Phẩm Trưởng Lão",
+        "children": []
+      },
+      {
+        "slug": "an-10-010-pham-nam-cu-si",
+        "title": "X. Phẩm Nam Cư Sĩ",
+        "children": []
+      },
+      {
+        "slug": "an-10-011-pham-sa-mon-tuong",
+        "title": "XI. Phẩm Sa Môn Tưởng",
+        "children": []
+      },
+      {
+        "slug": "an-10-012-pham-di-xuong",
+        "title": "XII. Phẩm Ði Xuống",
+        "children": []
+      },
+      {
+        "slug": "an-10-013-pham-thanh-tinh",
+        "title": "XIII. Phẩm Thanh Tịnh",
+        "children": []
+      },
+      {
+        "slug": "an-10-014-pham-thien-luong",
+        "title": "XIV. Phẩm Thiện Lương",
+        "children": []
+      },
+      {
+        "slug": "an-10-015-pham-thanh-dao",
+        "title": "XV. Phẩm Thánh Ðạo",
+        "children": []
+      },
+      {
+        "slug": "an-10-016-pham-nguoi",
+        "title": "XVI. Phẩm Người",
+        "children": []
+      },
+      {
+        "slug": "an-10-017-pham-janussoni",
+        "title": "XVII. Phẩm Jànussoni",
+        "children": []
+      },
+      {
+        "slug": "an-10-018-pham-thien-luong",
+        "title": "XVIII. Phẩm Thiện Lương",
+        "children": []
+      },
+      {
+        "slug": "an-10-019-pham-thanh-dao",
+        "title": "XIX. Phẩm Thánh Ðạo",
+        "children": []
+      },
+      {
+        "slug": "an-10-020-pham-cac-hang-nguoi",
+        "title": "XX. Phẩm Các Hạng Người",
+        "children": []
+      },
+      {
+        "slug": "an-10-021-pham-than-do-nghiep-sanh",
+        "title": "XXI. Phẩm Thân Do Nghiệp Sanh",
+        "children": []
+      },
+      {
+        "slug": "an-10-022-pham-khong-co-dau-de",
+        "title": "XXII. Phẩm Không Có Ðầu Ðề",
+        "children": []
+      }
+    ]
+  },
+  "11": {
+    "title": "Chương Mười Một Pháp",
+    "files": [
+      {
+        "slug": "an-11-001-pham-y-chi",
+        "title": "I. Phẩm Y Chỉ",
+        "children": []
+      },
+      {
+        "slug": "an-11-002-pham-tuy-niem",
+        "title": "II. Phẩm Tùy Niệm",
+        "children": []
+      },
+      {
+        "slug": "an-11-003-pham-ba-tong-ket",
+        "title": "III. Phẩm Ba: Tổng Kết",
+        "children": []
+      }
+    ]
+  }
+}
