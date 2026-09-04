@@ -1,6 +1,6 @@
 
 // Kinh tăng chi là case đặc biệt không có anchor nên bản so sánh dùng luôn của tmc
-import an_tmc from './link-an-tmc'
+import an_tmc from './link-an-sujato-tmc'
 // import an_sujato_vi from './link-an-sujato-vi'
 // import mn_tmc from './link-mn-tmc'
 import mn_pali_tmc_vi from './link-mn-pali-tmc-vi'

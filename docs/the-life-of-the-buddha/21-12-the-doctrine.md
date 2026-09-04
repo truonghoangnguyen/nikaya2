@@ -19,7 +19,7 @@ GIỌNG ĐỌC THỨ NHẤT. Có một thời Đức Thế Tôn ngụ tại Sāv
 > Thấu đời tâm an tịnh\
 > Không màng đời này sau
 
-[S. 2:36](/link?q=SN-2.36){target=_black}; [A. 4:46](/link?q=AN-4.46){target=_black}
+[S. 2:26](/link?q=SN-2.26){target=_black}; [A. 4:46](/link?q=AN-4.46){target=_black}
 
 Có một thời Đức Thế Tôn ngụ tại Kosambī, trong một khu rừng cây siṃsapā. Ngài nhặt lấy vài chiếc lá trong tay rồi hỏi các tỳ-kheo: “Các tỳ-kheo, các ông nghĩ sao, số lá ít ỏi Ta nắm trong tay này nhiều hơn, hay số lá trên cây trong rừng nhiều hơn?”
 
