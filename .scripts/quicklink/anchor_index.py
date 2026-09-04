@@ -13,7 +13,7 @@ RULES = [
     # --------------------------------------------------------
     {
         "regex": re.compile(
-            r"^(####)\s+\(([IVXLCDM]+)\)\s+(.+?)[ \t]*$",
+            r"^(###)\s+\(([IVXLCDM]+)\)\s+(.+?)[ \t]*$",
             re.MULTILINE
         ),
         "anchor": lambda m: str(roman_to_int(m.group(2))),
@@ -124,8 +124,16 @@ def process_file(filename):
 # ============================================================
 
 files = [
-
-"/Users/ng/projects/nikaya2/docs/kinhtuongung/sujato-vi/sn-56-linked-discourses-on-the-truths.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-1-mahakhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-2-uposathakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-3-vassupanayikakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-4-pavaranakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-5-cammakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-6-bhesajjakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-7-kathinakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-8-civarakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-9-campeyyakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-10-kosambakakkhandhaka.md"
 ]
 
 for file in files:

@@ -1,6 +1,6 @@
 # Chương 8: Phẩm Pataligamiya
 
-### **(I) (Ud 80)**
+### (I) (Ud 80){#1}
 
 Như vầy tôi nghe:
 
@@ -10,7 +10,7 @@ Rồi Thế Tôn, sau khi hiểu biết ý nghĩa này, ngay trong lúc ấy, n�
 
 – Này các Tỷ-kheo, có xứ này, tại đây không có đất, không có nước, không có lửa, không có gió; không có Hư không vô biên, không có Thức vô biên xứ, không có Vô sở hữu xứ, không có Phi tưởng phi phi tưởng xứ; không có đời này, không có đời sau, không có cả hai mặt trăng mặt trời. Do vậy, này các Tỷ-kheo, Ta tuyên bố không có đến, không có đi, không có trú, không có diệt, không có sanh; không có an trú, không có chuyện vận, không có sở duyên, đây là sự đoạn tận khổ đau.
 
-### **(II) (Ud 81)**
+### (II) (Ud 81){#2}
 
 (Như kinh trên (I), chỉ khác lời cảm hứng)
 
@@ -21,19 +21,19 @@ Khéo xâm nhập được ái,\
 Với vị ấy thấy rõ,\
 Ðâu còn có vật gì.
 
-### **(III) (Ud 82)**
+### (III) (Ud 82){#3}
 
 (Như kinh trên, chỉ khác lời cảm hứng)
 
 – Này các Tỷ-kheo, có sự không sanh, không hiện hữu, không bị làm, không hữu vi, này các Tỷ-kheo, nếu không có cái không sanh, không hiện hữu, không bị làm, không hữu vi, thì ở đây không thể trình bày sự xuất ly khỏi sanh, hiện hữu, bị làm, hữu vi. Vì rằng, này các Tỷ-kheo, có cái không sanh, không hiện hữu, không bị làm, không hữu vi, nên có trình bày sự xuất ly khỏi sanh, hiện hữu, bị làm, hữu vi.
 
-### **(IV) (Ud 83)**
+### (IV) (Ud 83){#4}
 
 (Như các kinh trước, chỉ khác lời cảm hứng).
 
 – Cái gì có nương tựa, cái ấy có dao động. Cái gì không nương tựa, cái ấy không dao động. Không có dao động thì có khinh an. Có khinh an thì không có thiên về. Không có thiên về thì không có đến và đi; không có đến và đi thì không có diệt và sanh; không có diệt và sanh thì không có đời này, không có đời sau, không có đời ở giữa. Ðây là sự đoạn tận khổ đau.
 
-### **(V) (Ud 84)**
+### (V) (Ud 84){#5}
 
 Như vầy tôi nghe:
 
@@ -166,7 +166,7 @@ Mọi ác hạnh bất thiện,\
 Diệt trừ tham, sân, si.\
 Tâm giải thoát thanh tịnh.
 
-### **(VI) (Ud 85)**
+### (VI) (Ud 85){#6}
 
 Như vầy tôi nghe:
 
@@ -244,7 +244,7 @@ Họ vượt qua đầm lầy,\
 Có người cột chiếc bè,\
 Bậc trí đã qua sông.
 
-### **(VII) (Ud 90)**
+### (VII) (Ud 90){#7}
 
 Như vầy tôi nghe: Một thời Thế Tôn đang đi giữa đường cùng với Tôn giả Nàgasamàla là Sa-môn tuỳ tùng. Tôn giả Nàgasamàla giữa đường thấy một con đường rẽ, thấy vậy bạch Thế Tôn:
 
@@ -279,7 +279,7 @@ Lập tức từ bỏ nó,\
 Như con bò bỏ nước,\
 Ðược nuôi ăn với sữa.
 
-### **(VIII) (Ud 91)**
+### (VIII) (Ud 91){#8}
 
 Như vầy tôi nghe:
 
@@ -316,7 +316,7 @@ Do vậy ai tha thiết,\
 Chớ làm thân làm ái,\
 Với một ai ở đời.
 
-### **(IX) (Ud 92)**
+### (IX) (Ud 92){#9}
 
 Như vầy tôi nghe:
 
@@ -335,7 +335,7 @@ Mọi thọ được nguội lạnh,\
 Các hành được lắng dịu,\
 Thức đạt được mục đích.
 
-### **(X) (Ud 93)**
+### (X) (Ud 93){#10}
 
 Như vầy tôi nghe:
 
