@@ -1213,284 +1213,42 @@ export default {
           "1": {
             "title": "Chương 1: Phẩm Bồ Ðề",
             "slug": "kn-004-tap-3-chuong-1-pham-bo-de",
-            "children": {
-              "1": {
-                "anchor": "i-ud-1"
-              },
-              "2": {
-                "anchor": "ii-ud-2"
-              },
-              "3": {
-                "anchor": "iii-ud-2"
-              },
-              "4": {
-                "anchor": "iv-ud-3"
-              },
-              "5": {
-                "anchor": "v-ud-3"
-              },
-              "6": {
-                "anchor": "vi-ud-4"
-              },
-              "7": {
-                "anchor": "vii-ud-4"
-              },
-              "8": {
-                "anchor": "viii-ud-5"
-              },
-              "9": {
-                "anchor": "ix-ud-6"
-              },
-              "10": {
-                "anchor": "x-ud-6"
-              }
-            }
+            "children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
           },
           "2": {
             "title": "Chương 2: Phẩm Muccalinda",
             "slug": "kn-005-tap-3-chuong-2-pham-muccalinda",
-            "children": {
-              "1": {
-                "anchor": "i-ud-10"
-              },
-              "2": {
-                "anchor": "ii-ud-10"
-              },
-              "3": {
-                "anchor": "iii-ud-11"
-              },
-              "4": {
-                "anchor": "iv-ud-13"
-              },
-              "5": {
-                "anchor": "v-ud-13"
-              },
-              "6": {
-                "anchor": "vi-ud-13"
-              },
-              "8": {
-                "anchor": "viii-ud-15"
-              },
-              "9": {
-                "anchor": "ix-ud-18"
-              },
-              "10": {
-                "anchor": "x-ud-18"
-              }
-            }
+            "children": [1, 2, 3, 4, 5, 6, 8, 9, 10]
           },
           "3": {
             "title": "Chương 3: Phẩm Nanda",
             "slug": "kn-006-tap-3-chuong-3-pham-nanda",
-            "children": {
-              "1": {
-                "anchor": "i-ud-21"
-              },
-              "2": {
-                "anchor": "ii-ud-21"
-              },
-              "3": {
-                "anchor": "iii-ud-24"
-              },
-              "4": {
-                "anchor": "iv-ud-27"
-              },
-              "5": {
-                "anchor": "v-ud-27"
-              },
-              "6": {
-                "anchor": "vi-ud-28"
-              },
-              "7": {
-                "anchor": "vii-ud-29"
-              },
-              "8": {
-                "anchor": "viii-ud-30"
-              },
-              "9": {
-                "anchor": "ix-ud-31"
-              },
-              "10": {
-                "anchor": "x-ud-32"
-              }
-            }
+            "children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
           },
           "4": {
             "title": "Chương 4: Phẩm Meghiya",
             "slug": "kn-007-tap-3-chuong-4-pham-meghiya",
-            "children": {
-              "1": {
-                "anchor": "i-ud-34"
-              },
-              "2": {
-                "anchor": "ii-ud-37"
-              },
-              "3": {
-                "anchor": "iii-ud-38"
-              },
-              "6": {
-                "anchor": "vi-ud-42"
-              },
-              "5": {
-                "anchor": "v-ud-41"
-              },
-              "7": {
-                "anchor": "vii-ud-43"
-              },
-              "8": {
-                "anchor": "viii-ud-44"
-              },
-              "9": {
-                "anchor": "ix-ud-45"
-              },
-              "10": {
-                "anchor": "x-ud-46"
-              }
-            }
+            "children": [1, 2, 3, 6, 5, 7, 8, 9, 10]
           },
           "5": {
             "title": "Chương 5: Phẩm Trưởng Lão Sona",
             "slug": "kn-008-tap-3-chuong-5-pham-truong-lao-sona",
-            "children": {
-              "1": {
-                "anchor": "i-ud-47"
-              },
-              "2": {
-                "anchor": "ii-ud-48"
-              },
-              "3": {
-                "anchor": "iii-ud-49"
-              },
-              "4": {
-                "anchor": "iv-ud-50"
-              },
-              "5": {
-                "anchor": "v-ud-51"
-              },
-              "6": {
-                "anchor": "vi-ud-57"
-              },
-              "7": {
-                "anchor": "vii-ud-58"
-              },
-              "8": {
-                "anchor": "viii-ud-59"
-              },
-              "9": {
-                "anchor": "ix-ud-60"
-              },
-              "10": {
-                "anchor": "x-ud-61"
-              }
-            }
+            "children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
           },
           "6": {
             "title": "Chương 6: Phẩm Sanh Ra Ðã Mù",
             "slug": "kn-009-tap-3-chuong-6-pham-sanh-ra-da-mu",
-            "children": {
-              "1": {
-                "anchor": "i-ud-62"
-              },
-              "2": {
-                "anchor": "ii-ud-64"
-              },
-              "3": {
-                "anchor": "iii-ud-65"
-              },
-              "4": {
-                "anchor": "iv-ud-66"
-              },
-              "5": {
-                "anchor": "v-ud-69"
-              },
-              "6": {
-                "anchor": "vi-ud-70"
-              },
-              "7": {
-                "anchor": "vii-ud-71"
-              },
-              "8": {
-                "anchor": "viii-ud-71"
-              },
-              "9": {
-                "anchor": "ix-ud-72"
-              },
-              "10": {
-                "anchor": "x-ud-73"
-              }
-            }
+            "children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
           },
           "7": {
             "title": "Chương 7: Phẩm Nhỏ",
             "slug": "kn-010-tap-3-chuong-7-pham-nho",
-            "children": {
-              "1": {
-                "anchor": "i-ud-74"
-              },
-              "2": {
-                "anchor": "ii-ud-74"
-              },
-              "3": {
-                "anchor": "iii-ud-75"
-              },
-              "4": {
-                "anchor": "iv-ud-75"
-              },
-              "5": {
-                "anchor": "v-ud-76"
-              },
-              "6": {
-                "anchor": "vi-ud-77"
-              },
-              "7": {
-                "anchor": "vii-ud-77"
-              },
-              "8": {
-                "anchor": "viii-ud-77"
-              },
-              "9": {
-                "anchor": "ix-ud-78"
-              },
-              "10": {
-                "anchor": "x-ud-79"
-              }
-            }
+            "children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
           },
           "8": {
             "title": "Chương 8: Phẩm Pataligamiya",
             "slug": "kn-011-tap-3-chuong-8-pham-pataligamiya",
-            "children": {
-              "1": {
-                "anchor": "i-ud-80"
-              },
-              "2": {
-                "anchor": "ii-ud-81"
-              },
-              "3": {
-                "anchor": "iii-ud-82"
-              },
-              "4": {
-                "anchor": "iv-ud-83"
-              },
-              "5": {
-                "anchor": "v-ud-84"
-              },
-              "6": {
-                "anchor": "vi-ud-85"
-              },
-              "7": {
-                "anchor": "vii-ud-90"
-              },
-              "8": {
-                "anchor": "viii-ud-91"
-              },
-              "9": {
-                "anchor": "ix-ud-92"
-              },
-              "10": {
-                "anchor": "x-ud-93"
-              }
-            }
+            "children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
           }
         }
       }

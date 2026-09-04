@@ -83,7 +83,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Này các tỳ-kheo, vòng luân hồi là vô t
 
 NGƯỜI KỂ HAI. Sau đây là lời miêu tả về Bốn Thánh Đế.
 
-GIỌNG ĐỌC THỨ NHẤT. I. “Thế nào là thánh đế về khổ? Sinh là khổ, già là khổ, bệnh là khổ, chết là khổ; sầu, bi, ưu, não là khổ; oán tắng hội là khổ, ái biệt ly là khổ, cầu bất đắc là khổ; tóm lại, năm thủ uẩn là khổ.”[^1]
+GIỌNG ĐỌC THỨ NHẤT. I. “Thế nào là thánh đế về khổ? Sinh là khổ, già là khổ, bệnh là khổ, chết là khổ; sầu, bi, ưu, não là khổ; oán tắng hội là khổ, ái biệt ly là khổ, cầu bất đắc là khổ; tóm lại, năm thủ uẩn là khổ.” [1](/the-life-of-the-buddha/notes/12#1){.note}
 
 [S. 56:11](/link?q=SN-56.11){target=_black}
 
@@ -133,7 +133,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là năm thủ uẩn? Đó là sắc 
 
 [S. 22:56](/link?q=SN-22.56){target=_black}
 
-“Bất cứ thứ gì thuộc về nội thân, gắn liền với tự thân, mang tính chất cứng, rắn chắc và bị chấp thủ (thuộc cơ thể sống), như tóc, lông, móng, răng, da; thịt, gân, xương, tủy xương, thận; tim, gan, cơ hoành, lá lách, phổi, ruột, màng ruột, thức ăn chưa tiêu, phân, hay bất cứ thứ gì khác trong nội thân, gắn liền với tự thân mang tính chất cứng, rắn chắc và bị chấp thủ: đó gọi là địa đại[^2] trong nội thân. Địa đại trong nội thân và địa đại ngoài ngoại cảnh chỉ đơn thuần là địa đại.
+“Bất cứ thứ gì thuộc về nội thân, gắn liền với tự thân, mang tính chất cứng, rắn chắc và bị chấp thủ (thuộc cơ thể sống), như tóc, lông, móng, răng, da; thịt, gân, xương, tủy xương, thận; tim, gan, cơ hoành, lá lách, phổi, ruột, màng ruột, thức ăn chưa tiêu, phân, hay bất cứ thứ gì khác trong nội thân, gắn liền với tự thân mang tính chất cứng, rắn chắc và bị chấp thủ: đó gọi là địa đại [2](/the-life-of-the-buddha/notes/12#2){.note} trong nội thân. Địa đại trong nội thân và địa đại ngoài ngoại cảnh chỉ đơn thuần là địa đại.
 
 “Bất cứ thứ gì thuộc về nội thân... mang tính chất lỏng, ướt và bị chấp thủ, như mật, đờm, mủ, máu, mồ hôi, mỡ; nước mắt, mỡ da, nước bọt, nước mũi, nước khớp xương, nước tiểu, hay bất cứ thứ gì khác thuộc nội thân... mang tính lỏng, ướt và bị chấp thủ: đó gọi là thủy đại trong nội thân. Thủy đại trong nội thân và thủy đại ngoài ngoại cảnh chỉ đơn thuần là thủy đại.
 
@@ -177,7 +177,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là năm thủ uẩn? Đó là sắc 
 
 [S. 22:48](/link?q=SN-22.48){target=_black}
 
-“Vì sao gọi là ‘các hành’? Chúng tạo tác nên cái được tạo tác, vì thế chúng được gọi là hành. Cái được tạo tác mà chúng tạo nên là gì? Sắc pháp với tư cách là trạng thái của sắc là cái được tạo tác mà chúng tạo thành; thọ với tư cách là trạng thái của thọ là cái được tạo tác mà chúng tạo thành; tưởng với tư cách là trạng thái của tưởng là cái được tạo tác mà chúng tạo thành; hành với tư cách là trạng thái của hành là cái được tạo tác mà chúng tạo thành; thức với tư cách là trạng thái của thức là cái được tạo tác mà chúng tạo thành.”[^3]
+“Vì sao gọi là ‘các hành’? Chúng tạo tác nên cái được tạo tác, vì thế chúng được gọi là hành. Cái được tạo tác mà chúng tạo nên là gì? Sắc pháp với tư cách là trạng thái của sắc là cái được tạo tác mà chúng tạo thành; thọ với tư cách là trạng thái của thọ là cái được tạo tác mà chúng tạo thành; tưởng với tư cách là trạng thái của tưởng là cái được tạo tác mà chúng tạo thành; hành với tư cách là trạng thái của hành là cái được tạo tác mà chúng tạo thành; thức với tư cách là trạng thái của thức là cái được tạo tác mà chúng tạo thành.” [3](/the-life-of-the-buddha/notes/12#3){.note}
 
 [S. 22:79](/link?q=SN-22.79){target=_black}
 
@@ -189,7 +189,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là năm thủ uẩn? Đó là sắc 
 
 [MN-44](/link?q=MN-44){target=_black}; đối chiếu [MN-9](/link?q=MN-9){target=_black}
 
-“Hành là gì? Có sáu loại ý chí (tư):[^4] ý chí đối với các sắc thấy được, âm thanh, mùi hương, vị, xúc chạm, và các đối tượng tâm ý.”
+“Hành là gì? Có sáu loại ý chí (tư): [4](/the-life-of-the-buddha/notes/12#4){.note} ý chí đối với các sắc thấy được, âm thanh, mùi hương, vị, xúc chạm, và các đối tượng tâm ý.”
 
 [S. 22:56](/link?q=SN-22.56){target=_black}
 
@@ -245,11 +245,11 @@ GIỌNG ĐỌC THỨ NHẤT. “Năm thủ uẩn này lấy dục làm gốc r�
 
 [MN-109](/link?q=MN-109){target=_black}
 
-“Cái này có thì cái kia có; cái này sinh thì cái kia sinh.”[^5]
+“Cái này có thì cái kia có; cái này sinh thì cái kia sinh.” [5](/the-life-of-the-buddha/notes/12#5){.note}
 
 [MN-38](/link?q=MN-38){target=_black}
 
-“(Trong lời thuyết về duyên khởi:)[^6] *Già* là gì? Trong các loài chúng sinh khác nhau, đó là sự già cỗi, tuổi già, răng rụng, tóc bạc, da nhăn nheo, sự suy giảm của tuổi thọ và sự suy yếu của các giác quan của bất kỳ chúng sinh nào. *Chết* là gì? Trong các loài chúng sinh khác nhau, đó là sự tạ thế, qua đời, tan rã, biến mất, mạng chung, hết thọ mạng, sự tan rã của các uẩn, sự vứt bỏ thi thể. *Sinh* là gì? Trong các loài chúng sinh khác nhau, đó là sự chào đời, sự giáng sinh, sự thụ thai trong bụng mẹ, sự phát sinh, sự biểu hiện của các uẩn, sự thủ đắc các xứ. *Hữu* là gì? Có ba loại hữu: dục hữu, sắc hữu, và vô sắc hữu. *Thủ* là gì? Có bốn loại chấp thủ: dục thủ, kiến thủ, giới cấm thủ,[^7] và ngã luận thủ. *Ái* là gì? Có sáu loại khát ái: ái đối với sắc, thanh, hương, vị, xúc, và pháp. *Thọ* là gì? Có sáu loại (thuộc ba dạng) cảm thọ: thọ sinh do nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc, và ý xúc. *Xúc* là gì?[^8] Có sáu loại xúc: nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc, và ý xúc. *Lục nhập* là gì? Đó là nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ, và ý xứ. *Danh-sắc* là gì?[^9] Cái gọi là *danh* bao gồm thọ, tưởng, tư (ý chí),[^10] xúc, và tác ý; cái gọi là *sắc* bao gồm bốn đại chủng và bất kỳ sắc nào do chấp thủ dựa trên bốn đại chủng ấy; do đó danh này và sắc này là cái được gọi là danh-sắc. *Thức* là gì? Có sáu loại thức: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, và ý thức. *Các hành* là gì? Có ba loại hành: thân hành, khẩu hành, và ý hành. *Vô minh* là gì? Đó là sự không hiểu biết về khổ, về nguồn gốc của khổ, về sự chấm dứt khổ, và về con đường đưa đến sự chấm dứt khổ.”
+“(Trong lời thuyết về duyên khởi:) [6](/the-life-of-the-buddha/notes/12#6){.note} *Già* là gì? Trong các loài chúng sinh khác nhau, đó là sự già cỗi, tuổi già, răng rụng, tóc bạc, da nhăn nheo, sự suy giảm của tuổi thọ và sự suy yếu của các giác quan của bất kỳ chúng sinh nào. *Chết* là gì? Trong các loài chúng sinh khác nhau, đó là sự tạ thế, qua đời, tan rã, biến mất, mạng chung, hết thọ mạng, sự tan rã của các uẩn, sự vứt bỏ thi thể. *Sinh* là gì? Trong các loài chúng sinh khác nhau, đó là sự chào đời, sự giáng sinh, sự thụ thai trong bụng mẹ, sự phát sinh, sự biểu hiện của các uẩn, sự thủ đắc các xứ. *Hữu* là gì? Có ba loại hữu: dục hữu, sắc hữu, và vô sắc hữu. *Thủ* là gì? Có bốn loại chấp thủ: dục thủ, kiến thủ, giới cấm thủ, [7](/the-life-of-the-buddha/notes/12#7){.note} và ngã luận thủ. *Ái* là gì? Có sáu loại khát ái: ái đối với sắc, thanh, hương, vị, xúc, và pháp. *Thọ* là gì? Có sáu loại (thuộc ba dạng) cảm thọ: thọ sinh do nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc, và ý xúc. *Xúc* là gì? [8](/the-life-of-the-buddha/notes/12#8){.note} Có sáu loại xúc: nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc, và ý xúc. *Lục nhập* là gì? Đó là nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ, và ý xứ. *Danh-sắc* là gì? [9](/the-life-of-the-buddha/notes/12#9){.note} Cái gọi là *danh* bao gồm thọ, tưởng, tư (ý chí), [10](/the-life-of-the-buddha/notes/12#10){.note} xúc, và tác ý; cái gọi là *sắc* bao gồm bốn đại chủng và bất kỳ sắc nào do chấp thủ dựa trên bốn đại chủng ấy; do đó danh này và sắc này là cái được gọi là danh-sắc. *Thức* là gì? Có sáu loại thức: nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, và ý thức. *Các hành* là gì? Có ba loại hành: thân hành, khẩu hành, và ý hành. *Vô minh* là gì? Đó là sự không hiểu biết về khổ, về nguồn gốc của khổ, về sự chấm dứt khổ, và về con đường đưa đến sự chấm dứt khổ.”
 
 [S. 12:2](/link?q=SN-12.2){target=_black}
 
@@ -309,15 +309,15 @@ GIỌNG ĐỌC THỨ NHẤT. “Cái này không có thì cái kia không có; c
 
 [A. 3:33](/link?q=AN-3.33){target=_black}
 
-“Các trạng thái vô sắc tịch tịnh hơn các trạng thái hữu sắc; sự tịch diệt lại tịch tịnh hơn các trạng thái vô sắc.”[^11]
+“Các trạng thái vô sắc tịch tịnh hơn các trạng thái hữu sắc; sự tịch diệt lại tịch tịnh hơn các trạng thái vô sắc.” [11](/the-life-of-the-buddha/notes/12#11){.note}
 
 [Iti. 73](/link?q=iti-73){target=_black}
 
 “Có một cảnh giới (ngoại xứ) mà ở đó không có đất, nước, lửa hay gió; không có không vô biên xứ, không có thức vô biên xứ, không có vô sở hữu xứ, không có phi tưởng phi phi tưởng xứ; không có thế giới này hay thế giới khác, không có mặt trăng hay mặt trời; và đó là điều Ta gọi là không đến, không đi, không đứng, không chết, không tái sinh; nó không có nền tảng, không có sự biến dịch, không có điểm nương tựa; đó là sự tận cùng của khổ đau.
 
-“Vô vi thật khó thấy;  
-Chân lý chẳng dễ nhìn.  
-Hiểu là bạt khát ái;  
+“Vô vi thật khó thấy;
+Chân lý chẳng dễ nhìn.
+Hiểu là bạt khát ái;
 Thấy là dứt chấp ngã.
 
 “Có một cái không sinh, không hiện hữu, không bị tạo tác, không bị kết hợp. Nếu không có cái không sinh, không hiện hữu, không bị tạo tác, không bị kết hợp ấy, thì ở đây sẽ không có lối thoát nào được chỉ ra cho cái bị sinh, bị hiện hữu, bị tạo tác, bị kết hợp. Nhưng vì có cái không sinh, không hiện hữu, không bị tạo tác, không bị kết hợp, nên một lối thoát mới được miêu tả cho cái bị sinh, bị hiện hữu, bị tạo tác, bị kết hợp.”
@@ -363,7 +363,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Như rạng đông báo trước và báo hiệu
 
 NGƯỜI KỂ HAI. Chánh kiến có nhiều khía cạnh. Chúng ta hãy xem xét từng khía cạnh một, bắt đầu bằng “sự trổ quả của nghiệp”—điều mà dưới một số hình thức và mức độ dè dặt nhất định, cũng được chia sẻ bởi các hệ thống giáo lý khác.
 
-GIỌNG ĐỌC THỨ NHẤT. “Chánh kiến đi hàng đầu.”[^12] Như thế nào? Người ta hiểu tà kiến là tà kiến, và hiểu chánh kiến là chánh kiến. Tà kiến là gì? Quan điểm cho rằng không có sự bố thí, cúng dường hay tế lễ,[^13] không có quả báo hay sự trổ quả của nghiệp thiện và nghiệp ác, không có đời này, không có đời sau, không có mẹ, không có cha, không có các chúng sinh hóa sinh, không có các vị tu sĩ và bà-la-môn chân chính, đạo hạnh, những người tự mình chứng ngộ bằng thắng trí và tuyên thuyết về đời này và đời sau: đây là tà kiến.
+GIỌNG ĐỌC THỨ NHẤT. “Chánh kiến đi hàng đầu.” [12](/the-life-of-the-buddha/notes/12#12){.note} Như thế nào? Người ta hiểu tà kiến là tà kiến, và hiểu chánh kiến là chánh kiến. Tà kiến là gì? Quan điểm cho rằng không có sự bố thí, cúng dường hay tế lễ, [13](/the-life-of-the-buddha/notes/12#13){.note} không có quả báo hay sự trổ quả của nghiệp thiện và nghiệp ác, không có đời này, không có đời sau, không có mẹ, không có cha, không có các chúng sinh hóa sinh, không có các vị tu sĩ và bà-la-môn chân chính, đạo hạnh, những người tự mình chứng ngộ bằng thắng trí và tuyên thuyết về đời này và đời sau: đây là tà kiến.
 
 “Thế nào là chánh kiến? Có hai loại chánh kiến: có loại chánh kiến còn lậu hoặc, tạo ra phước đức và trổ quả trong các yếu tố sinh tồn; và có loại chánh kiến của bậc thánh không còn lậu hoặc, thuộc về siêu thế và là một chi phần của đạo lộ. Thế nào là chánh kiến còn lậu hoặc? Quan điểm cho rằng có sự bố thí, cúng dường và tế lễ, có quả báo và sự trổ quả của nghiệp thiện và nghiệp ác, có đời này và đời sau, có mẹ, có cha, có các chúng sinh hóa sinh, có các vị tu sĩ và bà-la-môn chân chính, đạo hạnh, những người tự mình chứng ngộ bằng thắng trí và tuyên thuyết về đời này và đời sau: đây là chánh kiến còn lậu hoặc, đem lại phước đức và trổ quả trong các yếu tố sinh tồn. Và thế nào là chánh kiến của bậc thánh? Bất kỳ sự hiểu biết, tuệ căn, tuệ lực, trạch pháp giác chi, chánh kiến với tư cách là một chi phần của đạo lộ nơi một người có tâm thanh cao và không còn lậu hoặc, người nắm giữ đạo lộ và tu tập đạo lộ: đây là chánh kiến vô lậu của bậc thánh, thuộc siêu thế và là một chi phần của đạo lộ.”
 
@@ -373,9 +373,9 @@ NGƯỜI KỂ HAI. Lại nữa, đó là chánh kiến về lý duyên khởi—
 
 GIỌNG ĐỌC THỨ HAI.
 
-Đấng Như Lai đã dạy nguyên nhân  
-Của các pháp do duyên mà sinh;  
-Và cả cách chấm dứt chúng nữa:  
+Đấng Như Lai đã dạy nguyên nhân
+Của các pháp do duyên mà sinh;
+Và cả cách chấm dứt chúng nữa:
 Đó là giáo pháp của Đại Sa-môn.
 
 “Pháp nhãn thanh tịnh, không tỳ vết đã khởi sinh nơi ngài: Bất cứ thứ gì phải chịu sự sinh khởi đều phải chịu sự hoại diệt.”
@@ -429,7 +429,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là chánh kiến? Đó là hiểu bi
 > Sắc tựa một cụm bọt\
 > Thọ như bóng nước trôi\
 > Tưởng như làn ảo ảnh\
-> Hành tựa thân chuối mềm[^14]\
+> Hành tựa thân chuối mềm [14](/the-life-of-the-buddha/notes/12#14){.note}\
 > Thức như trò ảo thuật\
 > Đấng Nhật Tộc chỉ ra
 
@@ -464,7 +464,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là chánh kiến? Đó là hiểu bi
 
 NGƯỜI KỂ HAI. Lại nữa, đó là chánh kiến về ba đặc tính chung: vô thường, khổ (bất an), và vô ngã—những đặc tính thể hiện một cách toàn diện những gì mà lý duyên khởi thể hiện về mặt cấu trúc. Chúng là chủ đề của bài Pháp thứ hai (Kinh Vô Ngã Tướng).
 
-GIỌNG ĐỌC THỨ NHẤT. “Có ba tướng hữu vi của những gì thuộc về hữu vi:[^15] sự sinh khởi được nhận rõ, sự diệt vong được nhận rõ, và sự biến đổi khi đang tồn tại được nhận rõ. Có ba tướng vô vi của cái vô vi: không có sự sinh khởi nào được nhận rõ, không có sự diệt vong nào được nhận rõ, và không có sự biến đổi nào khi đang tồn tại được nhận rõ.”
+GIỌNG ĐỌC THỨ NHẤT. “Có ba tướng hữu vi của những gì thuộc về hữu vi: [15](/the-life-of-the-buddha/notes/12#15){.note} sự sinh khởi được nhận rõ, sự diệt vong được nhận rõ, và sự biến đổi khi đang tồn tại được nhận rõ. Có ba tướng vô vi của cái vô vi: không có sự sinh khởi nào được nhận rõ, không có sự diệt vong nào được nhận rõ, và không có sự biến đổi nào khi đang tồn tại được nhận rõ.”
 
 [A. 3:47](/link?q=AN-3.47){target=_black}
 
@@ -492,7 +492,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Có ba tướng hữu vi của những gì thu�
 
 [S. 36:7](/link?q=SN-36.7){target=_black}
 
-“Một phàm phu không được nghe chánh pháp thà coi thân xác cấu thành từ bốn đại này là tự ngã còn hơn là tâm trí.[^16] Vì sao? Vì thân này có thể kéo dài một năm, hai năm... một trăm năm; nhưng cái được gọi là ‘tâm’, là ‘ý’, là ‘thức’ thì ngày đêm không ngừng sinh diệt khác nhau, hệt như một con khỉ chuyền cành trong rừng, vừa buông cành này ra đã vội chộp lấy cành khác.”
+“Một phàm phu không được nghe chánh pháp thà coi thân xác cấu thành từ bốn đại này là tự ngã còn hơn là tâm trí. [16](/the-life-of-the-buddha/notes/12#16){.note} Vì sao? Vì thân này có thể kéo dài một năm, hai năm... một trăm năm; nhưng cái được gọi là ‘tâm’, là ‘ý’, là ‘thức’ thì ngày đêm không ngừng sinh diệt khác nhau, hệt như một con khỉ chuyền cành trong rừng, vừa buông cành này ra đã vội chộp lấy cành khác.”
 
 [S. 12:61](/link?q=SN-12.61){target=_black}
 
@@ -534,7 +534,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Có ba tướng hữu vi của những gì thu�
 
 [A. 7:46](/link?q=AN-7.46){target=_black}
 
-NGƯỜI KỂ HAI. “Thuyết ngã” được hợp lý hóa bằng lý trí, dù xuất hiện dưới bất kỳ hình thức nào cũng được gọi là “vừa là một tri kiến vừa là một kiết sử”, nó dựa trên một sự bóp méo tinh vi mang tính cốt lõi trong hành vi nhận thức, đó là “ngã mạn ‘tôi là’”—vốn là “một kiết sử, nhưng không phải là một tri kiến”. Giờ đây, các thuyết về ngã có thể được diễn đạt thành lời hoặc không; nhưng nếu được diễn đạt, chúng không thể được miêu tả cụ thể mà không quy chiếu về năm uẩn. Vì lý do đó, khi được miêu tả, tất cả chúng đều có thể được quy về một trong các dạng của cái gọi là “thân kiến”,[^17] vốn được trình bày một cách có hệ thống. Tất cả những dạng này đều được bậc Dự lưu từ bỏ, mặc dù ngã mạn “tôi là” thì chưa.
+NGƯỜI KỂ HAI. “Thuyết ngã” được hợp lý hóa bằng lý trí, dù xuất hiện dưới bất kỳ hình thức nào cũng được gọi là “vừa là một tri kiến vừa là một kiết sử”, nó dựa trên một sự bóp méo tinh vi mang tính cốt lõi trong hành vi nhận thức, đó là “ngã mạn ‘tôi là’”—vốn là “một kiết sử, nhưng không phải là một tri kiến”. Giờ đây, các thuyết về ngã có thể được diễn đạt thành lời hoặc không; nhưng nếu được diễn đạt, chúng không thể được miêu tả cụ thể mà không quy chiếu về năm uẩn. Vì lý do đó, khi được miêu tả, tất cả chúng đều có thể được quy về một trong các dạng của cái gọi là “thân kiến”, [17](/the-life-of-the-buddha/notes/12#17){.note} vốn được trình bày một cách có hệ thống. Tất cả những dạng này đều được bậc Dự lưu từ bỏ, mặc dù ngã mạn “tôi là” thì chưa.
 
 GIỌNG ĐỌC THỨ NHẤT. “Thân kiến khởi sinh như thế nào?”—“Ở đây, một kẻ phàm phu không được nghe chánh pháp, không kính trọng các bậc thánh và không thông hiểu Giáo pháp và Giới luật của các ngài... coi sắc là ngã, hoặc ngã sở hữu sắc, hoặc sắc ở trong ngã, hoặc ngã ở trong sắc. (Và tương tự với từng uẩn trong bốn uẩn còn lại: thọ, tưởng, hành và thức.) Một bậc thánh đệ tử nghe nhiều hiểu rộng thì không làm như vậy.”
 
@@ -574,7 +574,7 @@ GIỌNG ĐỌC THỨ NHẤT. “‘Tôi là’ là một khái niệm phái sinh
 
 NGƯỜI KỂ HAI. Cuối cùng, chúng ta đến với mười kiết sử, vốn được bẻ gãy dần dần qua bốn giai đoạn chứng ngộ.
 
-GIỌNG ĐỌC THỨ NHẤT. “Một kẻ phàm phu không được nghe chánh pháp, không kính trọng các bậc thánh... sống với tâm trí bị xâm chiếm và nô dịch bởi thân kiến, bởi hoài nghi, bởi giới cấm thủ,[^18] bởi tham dục, và bởi sân hận, và người ấy không biết cách thoát khỏi chúng khi chúng khởi sinh; những thứ này, khi đã trở thành thói quen và chưa được nhổ tận gốc nơi người ấy, được gọi là các hạ phần kiết sử.”
+GIỌNG ĐỌC THỨ NHẤT. “Một kẻ phàm phu không được nghe chánh pháp, không kính trọng các bậc thánh... sống với tâm trí bị xâm chiếm và nô dịch bởi thân kiến, bởi hoài nghi, bởi giới cấm thủ, [18](/the-life-of-the-buddha/notes/12#18){.note} bởi tham dục, và bởi sân hận, và người ấy không biết cách thoát khỏi chúng khi chúng khởi sinh; những thứ này, khi đã trở thành thói quen và chưa được nhổ tận gốc nơi người ấy, được gọi là các hạ phần kiết sử.”
 
 [MN-64](/link?q=MN-64){target=_black}
 
@@ -672,9 +672,9 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là chánh niệm? Ở đây, một t
 
 [S. 45:8](/link?q=SN-45.8){target=_black}; [D. 22](/link?q=dn-22){target=_black}
 
-“Một tỳ-kheo sống quán thân trên thân như thế nào? Ở đây, một tỳ-kheo đi đến khu rừng, hay đến gốc cây, hay đến một căn phòng trống, ngồi xuống; sau khi ngồi kiết già, giữ thân thẳng thắn, và an trú chánh niệm trước mặt, vị ấy chỉ chánh niệm thở vào, chánh niệm thở ra.[^19] Như một người thợ tiện lành nghề hay người học việc của anh ta, khi tiện một vòng dài thì biết ‘Tôi tiện một vòng dài’, hay khi tiện một vòng ngắn thì biết ‘Tôi tiện một vòng ngắn’; cũng vậy, thở vào một hơi dài, vị tỳ-kheo biết ‘Tôi thở vào một hơi dài’, hay thở ra một hơi dài, vị ấy biết ‘Tôi thở ra một hơi dài’; thở vào một hơi ngắn, vị ấy biết ‘Tôi thở vào một hơi ngắn’, hay thở ra một hơi ngắn, vị ấy biết ‘Tôi thở ra một hơi ngắn’. Vị ấy tập như sau: ‘Tôi sẽ thở vào và cảm nhận toàn thân (toàn bộ hơi thở)’; vị ấy tập như sau: ‘Tôi sẽ thở ra và cảm nhận toàn thân (toàn bộ hơi thở)’. Vị ấy tập như sau: ‘Tôi sẽ thở vào làm lắng dịu thân hành (chức năng của thân)’; vị ấy tập như sau: ‘Tôi sẽ thở ra làm lắng dịu thân hành (chức năng của thân)’.[^20]
+“Một tỳ-kheo sống quán thân trên thân như thế nào? Ở đây, một tỳ-kheo đi đến khu rừng, hay đến gốc cây, hay đến một căn phòng trống, ngồi xuống; sau khi ngồi kiết già, giữ thân thẳng thắn, và an trú chánh niệm trước mặt, vị ấy chỉ chánh niệm thở vào, chánh niệm thở ra. [19](/the-life-of-the-buddha/notes/12#19){.note} Như một người thợ tiện lành nghề hay người học việc của anh ta, khi tiện một vòng dài thì biết ‘Tôi tiện một vòng dài’, hay khi tiện một vòng ngắn thì biết ‘Tôi tiện một vòng ngắn’; cũng vậy, thở vào một hơi dài, vị tỳ-kheo biết ‘Tôi thở vào một hơi dài’, hay thở ra một hơi dài, vị ấy biết ‘Tôi thở ra một hơi dài’; thở vào một hơi ngắn, vị ấy biết ‘Tôi thở vào một hơi ngắn’, hay thở ra một hơi ngắn, vị ấy biết ‘Tôi thở ra một hơi ngắn’. Vị ấy tập như sau: ‘Tôi sẽ thở vào và cảm nhận toàn thân (toàn bộ hơi thở)’; vị ấy tập như sau: ‘Tôi sẽ thở ra và cảm nhận toàn thân (toàn bộ hơi thở)’. Vị ấy tập như sau: ‘Tôi sẽ thở vào làm lắng dịu thân hành (chức năng của thân)’; vị ấy tập như sau: ‘Tôi sẽ thở ra làm lắng dịu thân hành (chức năng của thân)’. [20](/the-life-of-the-buddha/notes/12#20){.note}
 
-“Vị ấy sống quán thân trên thân theo cách như vậy, hoặc nơi nội thân, hoặc nơi ngoại thân, hoặc cả nơi nội thân lẫn ngoại thân.[^21]
+“Vị ấy sống quán thân trên thân theo cách như vậy, hoặc nơi nội thân, hoặc nơi ngoại thân, hoặc cả nơi nội thân lẫn ngoại thân. [21](/the-life-of-the-buddha/notes/12#21){.note}
 
 “Hoặc vị ấy quán sát các yếu tố sinh khởi nơi thân, hoặc các yếu tố hoại diệt nơi thân, hoặc cả các yếu tố sinh khởi lẫn hoại diệt nơi thân.
 
@@ -724,7 +724,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là chánh niệm? Ở đây, một t
 
 “Và một tỳ-kheo sống quán thọ trên các thọ như thế nào?
 
-“Ở đây, khi cảm nhận một cảm thọ dễ chịu, vị tỳ-kheo biết ‘Tôi đang cảm nhận một cảm thọ dễ chịu’; khi cảm nhận một cảm thọ đau khổ, vị ấy biết ‘Tôi đang cảm nhận một cảm thọ đau khổ’; khi cảm nhận một cảm thọ không khổ không lạc, vị ấy biết ‘Tôi đang cảm nhận một cảm thọ không khổ không lạc’. Khi cảm nhận một cảm thọ dễ chịu thuộc vật chất (thế tục),[^22] vị ấy biết ‘Tôi đang cảm nhận một cảm thọ dễ chịu thuộc vật chất’;... (và tương tự với hai cảm thọ kia). Khi cảm nhận một cảm thọ dễ chịu không thuộc vật chất (xuất thế gian), vị ấy biết ‘Tôi đang cảm nhận một cảm thọ dễ chịu không thuộc vật chất’;... (và tương tự với hai cảm thọ kia).
+“Ở đây, khi cảm nhận một cảm thọ dễ chịu, vị tỳ-kheo biết ‘Tôi đang cảm nhận một cảm thọ dễ chịu’; khi cảm nhận một cảm thọ đau khổ, vị ấy biết ‘Tôi đang cảm nhận một cảm thọ đau khổ’; khi cảm nhận một cảm thọ không khổ không lạc, vị ấy biết ‘Tôi đang cảm nhận một cảm thọ không khổ không lạc’. Khi cảm nhận một cảm thọ dễ chịu thuộc vật chất (thế tục), [22](/the-life-of-the-buddha/notes/12#22){.note} vị ấy biết ‘Tôi đang cảm nhận một cảm thọ dễ chịu thuộc vật chất’;... (và tương tự với hai cảm thọ kia). Khi cảm nhận một cảm thọ dễ chịu không thuộc vật chất (xuất thế gian), vị ấy biết ‘Tôi đang cảm nhận một cảm thọ dễ chịu không thuộc vật chất’;... (và tương tự với hai cảm thọ kia).
 
 “Vị ấy sống quán thọ trên các thọ theo cách như vậy, hoặc nơi nội thân, hoặc nơi ngoại thân, hoặc cả nơi nội thân lẫn ngoại thân.
 
@@ -736,7 +736,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là chánh niệm? Ở đây, một t
 
 “Và một tỳ-kheo sống quán tâm trên tâm như thế nào?
 
-“Ở đây, vị tỳ-kheo biết rõ tâm có tham ái là tâm có tham ái, và tâm không tham ái là tâm không tham ái. Vị ấy biết rõ tâm có sân hận là tâm có sân hận, và tâm không sân hận là tâm không sân hận. Vị ấy biết rõ tâm có si mê là tâm có si mê, và tâm không si mê là tâm không si mê. Vị ấy biết rõ tâm thu nhiếp là tâm thu nhiếp, và tâm tán loạn là tâm tán loạn. Vị ấy biết rõ tâm quảng đại là tâm quảng đại, và tâm không quảng đại là tâm không quảng đại. Vị ấy biết rõ tâm hữu hạn là tâm hữu hạn, và tâm vô thượng là tâm vô thượng.[^23] Vị ấy biết rõ tâm có định là tâm có định, và tâm không định là tâm không định. Vị ấy biết rõ tâm giải thoát là tâm giải thoát, và tâm chưa giải thoát là tâm chưa giải thoát.
+“Ở đây, vị tỳ-kheo biết rõ tâm có tham ái là tâm có tham ái, và tâm không tham ái là tâm không tham ái. Vị ấy biết rõ tâm có sân hận là tâm có sân hận, và tâm không sân hận là tâm không sân hận. Vị ấy biết rõ tâm có si mê là tâm có si mê, và tâm không si mê là tâm không si mê. Vị ấy biết rõ tâm thu nhiếp là tâm thu nhiếp, và tâm tán loạn là tâm tán loạn. Vị ấy biết rõ tâm quảng đại là tâm quảng đại, và tâm không quảng đại là tâm không quảng đại. Vị ấy biết rõ tâm hữu hạn là tâm hữu hạn, và tâm vô thượng là tâm vô thượng. [23](/the-life-of-the-buddha/notes/12#23){.note} Vị ấy biết rõ tâm có định là tâm có định, và tâm không định là tâm không định. Vị ấy biết rõ tâm giải thoát là tâm giải thoát, và tâm chưa giải thoát là tâm chưa giải thoát.
 
 “Vị ấy sống quán tâm trên tâm theo cách như vậy, hoặc nơi nội thân, hoặc nơi ngoại thân, hoặc cả nơi nội thân lẫn ngoại thân.
 
@@ -748,7 +748,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thế nào là chánh niệm? Ở đây, một t
 
 “Và một tỳ-kheo sống quán pháp trên các pháp như thế nào?
 
-“Ở đây, một tỳ-kheo sống quán pháp trên các pháp thông qua năm triền cái.[^24] Điều đó được thực hiện như thế nào? Ở đây, khi có dục tham trong mình, vị ấy biết ‘Có dục tham trong tôi’; hoặc khi không có dục tham trong mình, vị ấy biết ‘Không có dục tham trong tôi’; và vị ấy cũng biết rõ dục tham chưa sinh khởi sinh như thế nào, dục tham đã sinh được đoạn trừ như thế nào, và dục tham đã đoạn trừ sẽ không còn sinh khởi trong tương lai như thế nào. Khi có sân hận trong mình... Khi có hôn trầm thụy miên trong mình... Khi có trạo cử hối quá trong mình... Khi có hoài nghi trong mình... vị ấy biết rõ hoài nghi đã đoạn trừ sẽ không còn sinh khởi trong tương lai như thế nào.
+“Ở đây, một tỳ-kheo sống quán pháp trên các pháp thông qua năm triền cái. [24](/the-life-of-the-buddha/notes/12#24){.note} Điều đó được thực hiện như thế nào? Ở đây, khi có dục tham trong mình, vị ấy biết ‘Có dục tham trong tôi’; hoặc khi không có dục tham trong mình, vị ấy biết ‘Không có dục tham trong tôi’; và vị ấy cũng biết rõ dục tham chưa sinh khởi sinh như thế nào, dục tham đã sinh được đoạn trừ như thế nào, và dục tham đã đoạn trừ sẽ không còn sinh khởi trong tương lai như thế nào. Khi có sân hận trong mình... Khi có hôn trầm thụy miên trong mình... Khi có trạo cử hối quá trong mình... Khi có hoài nghi trong mình... vị ấy biết rõ hoài nghi đã đoạn trừ sẽ không còn sinh khởi trong tương lai như thế nào.
 
 “Vị ấy sống quán pháp trên các pháp nơi nội thân, hoặc nơi ngoại thân, hoặc cả nơi nội thân lẫn ngoại thân.
 
@@ -918,7 +918,7 @@ Khi trở về, tôn giả Ānanda đem chuyện kể lại cho Đức Thế Tô
 
 “Vào một dịp khác, từ bỏ sản nghiệp dù ít hay nhiều, từ bỏ thân quyến dù ít hay nhiều, người ấy cạo bỏ râu tóc, đắp áo cà-sa, và xuất gia từ bỏ gia đình, sống không gia đình.
 
-“Khi đã xuất gia và thọ trì các điều học cùng nếp sống của một tỳ-kheo, vị ấy từ bỏ sát sinh, kiêng tránh sát sinh, đặt gậy gộc và gươm đao xuống; hiền lành và nhân từ, vị ấy sống với lòng thương xót đối với mọi chúng sinh. Vị ấy từ bỏ lấy của không cho, kiêng tránh lấy của không cho bằng cách chỉ nhận những gì được trao; chỉ mong đợi những gì được cho, vị ấy giữ lòng mình thanh tịnh nhờ không trộm cắp. Vị ấy từ bỏ đời sống bất tịnh; vị ấy sống đời sống phạm hạnh độc cư, tránh xa thói dâm dục tầm thường. Vị ấy từ bỏ nói dối, kiêng tránh nói dối bằng cách nói sự thật; gắn bó với sự thật khi nói năng, vị ấy là người đáng tin cậy, chắc chắn và không lừa dối người đời. Vị ấy từ bỏ nói lời đâm thọc... Vị ấy từ bỏ nói lời thô ác... Vị ấy từ bỏ nói lời phù phiếm... vị ấy nói đúng thời những lời đáng ghi nhớ, có lý lẽ, rõ ràng và gắn liền với điều thiện.[^25]
+“Khi đã xuất gia và thọ trì các điều học cùng nếp sống của một tỳ-kheo, vị ấy từ bỏ sát sinh, kiêng tránh sát sinh, đặt gậy gộc và gươm đao xuống; hiền lành và nhân từ, vị ấy sống với lòng thương xót đối với mọi chúng sinh. Vị ấy từ bỏ lấy của không cho, kiêng tránh lấy của không cho bằng cách chỉ nhận những gì được trao; chỉ mong đợi những gì được cho, vị ấy giữ lòng mình thanh tịnh nhờ không trộm cắp. Vị ấy từ bỏ đời sống bất tịnh; vị ấy sống đời sống phạm hạnh độc cư, tránh xa thói dâm dục tầm thường. Vị ấy từ bỏ nói dối, kiêng tránh nói dối bằng cách nói sự thật; gắn bó với sự thật khi nói năng, vị ấy là người đáng tin cậy, chắc chắn và không lừa dối người đời. Vị ấy từ bỏ nói lời đâm thọc... Vị ấy từ bỏ nói lời thô ác... Vị ấy từ bỏ nói lời phù phiếm... vị ấy nói đúng thời những lời đáng ghi nhớ, có lý lẽ, rõ ràng và gắn liền với điều thiện. [25](/the-life-of-the-buddha/notes/12#25){.note}
 
 “Vị ấy tránh làm tổn hại các loại hạt giống và cây cỏ. Vị ấy chỉ ăn một bữa mỗi ngày, kiêng ăn ban đêm và kiêng ăn phi thời. Vị ấy tránh xa ca hát, nhảy múa, âm nhạc và các trò diễn kịch; tránh mang vòng hoa, trang điểm bằng hương liệu và thoa các loại dầu thơm; tránh nằm giường cao và nệm lớn; tránh nhận vàng bạc, ngũ cốc, thịt sống, phụ nữ và thiếu nữ, tớ gái và tớ trai, cừu và dê, gia cầm và lợn, voi, bò, ngựa đực và ngựa cái, ruộng đồng và đất đai; tránh làm người đưa tin; tránh mua bán; tránh dùng cân giả, kim loại giả và thước đo giả; tránh gian lận, lừa gạt, xảo quyệt và tráo trở; tránh chặt chém, hành hình, cầm tù, trộm cướp, cướp bóc và bạo lực.
 
@@ -926,7 +926,7 @@ Khi trở về, tôn giả Ānanda đem chuyện kể lại cho Đức Thế Tô
 
 “Vị ấy trở thành người mà khi mắt thấy hình sắc, không nắm giữ tướng chung và các nét chi tiết—những thứ mà nếu để cho căn mắt không được phòng hộ, thì các trạng thái ác, bất thiện của tham ái và ưu phiền có thể xâm chiếm vị ấy; vị ấy thực hành sự chế ngự, canh giữ căn mắt, thực hiện sự phòng hộ đối với căn mắt. (Tương tự, khi tai nghe âm thanh, mũi ngửi mùi hương, lưỡi nếm vị, thân chạm xúc, và ý nhận biết một pháp.) Thành tựu sự phòng hộ các căn của bậc thánh này, vị ấy tự mình cảm nhận một niềm an lạc thuần khiết.
 
-“Vị ấy luôn tỉnh giác khi đi tới đi lui... và giữ im lặng.[^26]
+“Vị ấy luôn tỉnh giác khi đi tới đi lui... và giữ im lặng. [26](/the-life-of-the-buddha/notes/12#26){.note}
 
 “Thành tựu kho tàng giới đức của bậc thánh này, cùng sự phòng hộ các căn của bậc thánh, cùng chánh niệm và tỉnh giác của bậc thánh này, vị ấy tìm đến một trú xứ thanh vắng—khu rừng, gốc cây, mỏm đá, khe núi, hang động trên núi, bãi tha ma, bụi rậm trong rừng, khoảng đất trống, đống rơm. Sau khi đi khất thực trở về và dùng xong bữa ăn, vị ấy ngồi xuống, xếp chân kiết già, giữ thân thẳng thắn, và an trú chánh niệm trước mặt.
 

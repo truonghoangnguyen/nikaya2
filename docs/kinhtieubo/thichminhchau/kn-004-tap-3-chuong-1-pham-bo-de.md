@@ -1,6 +1,6 @@
 # Chương 1: Phẩm Bồ Ðề
 
-### **(I) (Ud 1)**
+### (I) (Ud 1){#1}
 
 Như vầy tôi nghe:
 
@@ -17,7 +17,7 @@ Các nghi hoặc tiêu trừ,\
 Vì quản tri hoàn toàn,\
 Pháp cùng với các nhân.
 
-### **(II) (Ud 2)**
+### (II) (Ud 2){#2}
 
 Như vầy tôi nghe:
 
@@ -34,7 +34,7 @@ Các nghi hoặc tiêu trừ,\
 Vì đã biết hoàn toàn,\
 Sự tiêu diệt các duyên.
 
-### **(III) (Ud 2)**
+### (III) (Ud 2){#3}
 
 Như vầy tôi nghe:
 
@@ -51,7 +51,7 @@ Vị ấy đứng, an trú,\
 Như ánh sáng mặt trời,\
 Chói sáng khắp hư không.
 
-### **(IV) (Ud 3)**
+### (IV) (Ud 3){#4}
 
 Như vầy tôi nghe:
 
@@ -74,7 +74,7 @@ Vị ấy ở đời này,\
 Không hề có mạn tâm\
 Bất cứ ở nơi nào.
 
-### **(V) (Ud 3)**
+### (V) (Ud 3){#5}
 
 Như vầy tôi nghe:
 
@@ -94,7 +94,7 @@ Kiết sử đoạn, giác ngộ,\
 Những vị ấy ở đời,\
 Thật là Bà-la-môn.
 
-### **(VI) (Ud 4)**
+### (VI) (Ud 4){#6}
 
 Như vầy tôi nghe:
 
@@ -111,7 +111,7 @@ Sân hận được trừ diệt,\
 Vị ấy được Ta gọi,\
 Là vị Bà-la-môn.
 
-### **(VII) (Ud 4)**
+### (VII) (Ud 4){#7}
 
 Như vầy tôi nghe:
 
@@ -123,7 +123,7 @@ Một thời Thế Tôn trú ở Pàtali tại Ajakalàpaka, chỗ ở của D�
 Vị ấy vượt qua được,\
 Ác quỷ yêu ma này.
 
-### **(VIII) (Ud 5)**
+### (VIII) (Ud 5){#8}
 
 Như vầy tôi nghe:
 
@@ -154,7 +154,7 @@ Là Sangamàji\
 Ta gọi người như vậy,\
 Là vị Bà-la-môn.
 
-### **(IX) (Ud 6)**
+### (IX) (Ud 6){#9}
 
 Như vầy tôi nghe:
 
@@ -171,7 +171,7 @@ Lại thêm có Chánh pháp,\
 Người ấy là Thanh tịnh,\
 Người ấy là Phạm chí.
 
-### **(X) (Ud 6)**
+### (X) (Ud 6){#10}
 
 Như vầy tôi nghe:
 

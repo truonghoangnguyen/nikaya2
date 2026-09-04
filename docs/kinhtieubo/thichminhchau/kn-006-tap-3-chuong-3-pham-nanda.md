@@ -1,6 +1,6 @@
 # Chương 3: Phẩm Nanda
 
-### **(I) (Ud 21)**
+### (I) (Ud 21){#1}
 
 Như vầy tôi nghe:
 
@@ -13,7 +13,7 @@ Tẩy sạch bụi làm trước,\
 An trú, không ngã sở,\
 Không cần nói với người.
 
-### **(II) (Ud 21)**
+### (II) (Ud 21){#2}
 
 Như vầy tôi nghe:
 
@@ -77,7 +77,7 @@ Thế Tôn, sau khi hiểu biết ý nghĩa này, chính trong lúc ấy, nó l�
 Vị Tỷ-kheo như vậy,\
 Không cảm thọ khổ lạc!
 
-### **(III) (Ud 24)**
+### (III) (Ud 24){#3}
 
 Như vầy tôi nghe:
 
@@ -162,7 +162,7 @@ Như núi vững an trú,\
 Vị Tỷ-kheo như vầy,\
 Lạc khổ không dao động.
 
-### **(IV) (Ud 27)**
+### (IV) (Ud 27){#4}
 
 Như vầy tôi nghe:
 
@@ -175,7 +175,7 @@ Cũng vậy vị Tỳ-kheo,\
 Như ngọn núi bằng đá,\
 Không có bị dao động.
 
-### **(V) (Ud 27)**
+### (V) (Ud 27){#5}
 
 Như vầy tôi nghe:
 
@@ -188,7 +188,7 @@ Sáu xúc xứ chế ngự,\
 Tỷ-kheo thường thiền định,\
 Tự chứng tri Niết Bàn.
 
-### **(VI) (Ud 28)**
+### (VI) (Ud 28){#6}
 
 Như vầy tôi nghe:
 
@@ -228,7 +228,7 @@ Tự ngã thành mát lạnh\
 Vị ấy là Phạm chí,\
 Là Sa môn Tỷ-kheo.
 
-### **(VII) (Ud 29)**
+### (VII) (Ud 29){#7}
 
 Như vầy tôi nghe:
 
@@ -253,7 +253,7 @@ Tự sống không nhờ người,\
 Chư Thiên thương vị ấy,\
 Thường an tịnh chánh niệm.
 
-### **(VIII) (Ud 30)**
+### (VIII) (Ud 30){#8}
 
 Như vầy tôi nghe:
 
@@ -278,7 +278,7 @@ Nhưng nếu Tỷ-kheo ấy,\
 Y tựa vào danh vọng,\
 Chư Thiên không có thương.
 
-### **(IX) (Ud 31)**
+### (IX) (Ud 31){#9}
 
 Như vầy tôi nghe:
 
@@ -301,7 +301,7 @@ Không dục, giết ác ma,\
 Vị Tỷ-kheo như vậy,\
 Sống cô độc một mình.
 
-### **(X) (Ud 32)**
+### (X) (Ud 32){#10}
 
 Như vầy tôi nghe:
 
