@@ -1,4 +1,5 @@
-# 3 SAU KHI GIÁC NGỘ
+Chương 3
+# SAU KHI GIÁC NGỘ
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời nọ, khi Thế Tôn mới giác ngộ, ngài đang ngự tại Uruvelā bên bờ sông Nerañjarā dưới cội Bồ Đề, Cây Giác Ngộ. Lúc bấy giờ, Thế Tôn ngồi thiền định dưới cội Bồ Đề suốt bảy ngày, thọ hưởng niềm an lạc của sự giải thoát.
 

@@ -139,7 +139,7 @@ Những ai có sở hữu,\
 Khiến cho con người này,\
 Bị trói buộc người khác.
 
-### (VIII) (Ud 14){#8}
+### (VII) (Ud 14){#7}
 
 Như vầy tôi nghe:
 

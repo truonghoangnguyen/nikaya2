@@ -1,4 +1,6 @@
-# 16 ĐẠI HỘI KẾT TẬP ĐẦU TIÊN
+Chương 16
+
+# ĐẠI HỘI KẾT TẬP ĐẦU TIÊN
 
 NGƯỜI KỂ MỘT. Sau khi Đức Phật nhập Niết-bàn hoàn toàn, các tỳ-kheo rời Kusinārā tỏa đi khắp nơi. Giờ đây, Trưởng lão Mahā-Kassapa nổi lên như một nhân vật lỗi lạc nhất trong Tăng đoàn tỳ-kheo.
 

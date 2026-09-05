@@ -1,4 +1,5 @@
-# 1 ĐẢN SANH VÀ NHỮNG NĂM ĐẦU ĐỜI
+Chương 1
+# ĐẢN SANH VÀ NHỮNG NĂM ĐẦU ĐỜI
 
 NGƯỜI KỂ MỘT. Lịch sử Ấn Độ thực chất bắt đầu với câu chuyện về cuộc đời của Đức Phật Cồ-đàm (Gotama): hay nói chính xác hơn, đó là thời điểm mà lịch sử dưới dạng ghi chép thay thế cho khảo cổ học và truyền thuyết; bởi vì những tài liệu về cuộc đời và giáo lý của Đức Phật — những tài liệu Ấn Độ sớm nhất được công nhận có giá trị lịch sử — cho thấy một nền văn minh đã ổn định và phát triển cao, điều mà chắc chắn chỉ có thể đạt được sau một thời gian rất dài. Đức Phật đã đạt được sự giác ngộ hoàn toàn tại Uruvelā (Ưu-lâu-tần-loa) trên đồng bằng sông Hằng, nơi được gọi là "Trung Ấn". Theo cách tính khoảng cách ở Ấn Độ, nơi này không quá xa thành phố thánh Benares (Ba-la-nại) xa xưa. Quá trình nỗ lực cầu đạo của Ngài kéo dài sáu năm, và lúc đó Ngài ba mươi lăm tuổi. Kể từ đó trở đi, Ngài đi vân du khắp nơi ở miền trung Ấn Độ trong suốt bốn mươi lăm năm, liên tục giảng giải về Tứ Diệu Đế mà Ngài đã khám phá ra. Sự kiện Vô dư Niết-bàn cuối cùng diễn ra vào khoảng năm 483 TCN theo cách tính hiện nay ở Châu Âu (theo truyền thống là vào ngày trăng tròn tháng Năm). Khoảng thời gian Ngài sống dường như vô cùng yên bình với các chính quyền được tổ chức tốt và một xã hội ổn định, trái ngược hoàn toàn với những gì đã xảy ra trước và sau đó.
 

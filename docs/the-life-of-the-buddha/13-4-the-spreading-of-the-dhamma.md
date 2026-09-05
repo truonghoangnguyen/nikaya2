@@ -1,4 +1,8 @@
-# 4 SỰ TRUYỀN BÁ GIÁO PHÁP
+Chương 4
+# SỰ TRUYỀN BÁ GIÁO PHÁP
+
+· · · ◇ · · ·{class="c"}\
+<br>
 
 GIỌNG ĐỌC THỨ HAI. Chuyện xảy ra như sau. Có một thanh niên dòng dõi tên là Da-xá (Yasa). Chàng là con trai của một thương gia giàu có và được nuông chiều từ bé. Chàng có ba dinh thự, một cho mùa đông, một cho mùa hè, và một cho mùa mưa. Trong dinh thự mùa mưa, chàng được các nữ nhạc công phục vụ giải trí mà không có bóng dáng người đàn ông nào. Trong suốt bốn tháng mùa mưa, chàng không bao giờ bước xuống tầng dưới của dinh thự.
 

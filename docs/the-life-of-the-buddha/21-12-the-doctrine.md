@@ -1,4 +1,5 @@
-# Chương 12 Giáo Pháp
+Chương 12
+# GIÁO PHÁP
 
 ## GIÁO PHÁP
 

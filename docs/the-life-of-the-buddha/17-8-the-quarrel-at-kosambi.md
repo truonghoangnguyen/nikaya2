@@ -1,4 +1,7 @@
-# 8 CUỘC TRANH CÃI Ở KOSAMBĪ
+Chương 8
+# CUỘC TRANH CÃI Ở KOSAMBĪ
+
+<br>
 
 NGƯỜI KỂ HAI. Theo truyền thuyết, mùa an cư thứ sáu diễn ra trên núi Makula và vào năm tiếp theo, Song Thông (Phép màu kép) lại được thi triển ở Sāvatthī, sau đó Đức Phật lên cõi trời Đao Lợi (Trời Ba Mươi Ba). Tại đây, ngài trải qua mùa an cư thứ bảy để giảng Vi Diệu Pháp cho các chư thiên, trong đó có vị chư thiên từng là mẹ của ngài. Cuối mùa mưa đó, sự kiện "chư thiên giáng trần" diễn ra khi Đức Phật trở lại thế gian. Ngài trải qua mùa an cư thứ tám tại Sumsumāragira và thứ chín tại Kosambī.
 

@@ -1,4 +1,7 @@
-# 9 KẾT THÚC HAI MƯƠI NĂM ĐẦU TIÊN
+Chương 9
+# KẾT THÚC HAI MƯƠI NĂM ĐẦU TIÊN
+
+<br>
 
 NGƯỜI KỂ HAI. Mùa an cư thứ mười sau khi Giác ngộ được dành ở Pārileyyaka, trong lúc cuộc cãi vã ở Kosambi đang lên đến đỉnh điểm. Cùng một truyền thống cho rằng mùa an cư thứ mười một được trải qua ở Đồi Nam (những ngọn đồi phía nam Rājagaha), và sự kiện sau đây đã xảy ra vào lúc đó.
 
