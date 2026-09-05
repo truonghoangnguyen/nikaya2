@@ -1,4 +1,4 @@
-# KEY TO ABBREVIATIONS
+# Bảng chữ viết tắt
 
 |  Vin. | VINAYA PIṬAKA  |
 | --- | --- |
@@ -27,4 +27,4 @@
 |  Dh. | Dhammapada  |
 |  Thag. | Theragāthā  |
 
-References are to the chapter (*khandhaka*) and section number of the Mahāvagga and Cullavagga; to the rule number for the other books of the Vinaya Piṭaka; to the discourse by number or by group and number for the main books of the Sutta Piṭaka; and to verse number for the Dhammapada and Theragāthā.
+Các trích dẫn trong Mahāvagga và Cullavagga được tính theo chương (khandhaka) và số mục; đối với các bộ khác của Vinaya Piṭaka, theo số điều luật; đối với các bộ chính của Sutta Piṭaka, theo số bài kinh hoặc theo nhóm và số bài kinh; đối với Dhammapada và Theragāthā, theo số câu kệ.

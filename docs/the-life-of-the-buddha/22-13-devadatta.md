@@ -1,4 +1,8 @@
-# 13 DEVADATTA
+Chương 13
+# DEVADATTA
+
+<br>
+
 
 NGƯỜI KỂ HAI. Devadatta là anh em họ của Đức Phật. Âm mưu soán ngôi Đức Phật của ông ta được cho là xảy ra vào năm thứ ba mươi bảy sau khi Phật thành đạo: nói cách khác, là khi Đức Phật bảy mươi hai tuổi.
 

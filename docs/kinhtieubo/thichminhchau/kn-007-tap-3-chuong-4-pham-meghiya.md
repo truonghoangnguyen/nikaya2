@@ -103,7 +103,7 @@ Kẻ thù hại người thù,\
 Tâm định hướng tà vạy,\
 Còn làm ác hơn nữa.
 
-### (VI) (Ud 39){#6}
+### (IV) (Ud 39){#4}
 
 Như vầy tôi nghe:
 

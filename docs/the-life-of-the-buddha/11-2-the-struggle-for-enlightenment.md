@@ -1,4 +1,5 @@
-# 2 HÀNH TRÌNH TÌM CẦU GIÁC NGỘ
+Chương 2
+# HÀNH TRÌNH TÌM CẦU GIÁC NGỘ
 
 NGƯỜI KỂ MỘT. Lời kể về việc Xuất gia trong các tạng kinh (Piṭakas) gây ấn tượng mạnh bởi sự giản dị trần trụi. Những chi tiết phức tạp của các phiên bản sau này đều không có ở đây, giống như trong phiên bản cổ xưa nhất về sự đản sinh và những năm tháng đầu đời. Dưới đây là câu chuyện, được trích từ nhiều bài kinh mà Ngài đã giảng cho những người khác nhau.
 

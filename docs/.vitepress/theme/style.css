@@ -193,3 +193,14 @@ ol {
   font-size: 18px;
   font-style: italic;
 }
+.c{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+h1::after {
+  content: "· · · ◇ · · ·";
+  display: block;
+  margin-bottom: 1em;
+}

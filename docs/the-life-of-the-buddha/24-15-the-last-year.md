@@ -1,4 +1,7 @@
-# 15 NĂM CUỐI CÙNG
+Chương 15
+# NHỮNG NĂM CUỐI CÙNG
+
+<br>
 
 NGƯỜI KỂ MỘT. Các sự kiện sau đây diễn ra trong vòng một năm, khép lại bằng sự kiện Đức Phật nhập Đại Bát-niết-bàn. Tất cả các sự kiện này, ngoại trừ việc nhắc đến sự viên tịch của hai vị đại đệ tử, đều được ghi lại trong một bản kinh duy nhất. Thật ra, chỉ đến lúc này tiến trình thời gian của các sự kiện mới được nối lại trong Kinh tạng.
 

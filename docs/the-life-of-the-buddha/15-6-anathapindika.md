@@ -1,4 +1,7 @@
-# 6 CẤP CÔ ĐỘC (ANĀTHAPIṆḌIKA)
+Chương 6
+# CẤP CÔ ĐỘC (ANĀTHAPIṆḌIKA)
+
+<br>
 
 NGƯỜI KỂ HAI. Mùa an cư kiết hạ đầu tiên sau khi giác ngộ, Đức Phật trải qua tại Ba-la-nại. Mùa thứ hai và thứ ba tại Trúc Lâm ở Vương Xá. Chính sau mùa an cư thứ ba, Cấp Cô Độc, Người chu cấp cho kẻ bần hàn, đã xuất hiện.
 
