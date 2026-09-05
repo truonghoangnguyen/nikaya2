@@ -1,7 +1,7 @@
 # PLI-TV-KD 6. CHƯƠNG VỀ THUỐC
 *(Bhesajjakkhandhaka)*
 
-## 1. Câu chuyện về năm loại thuốc
+## 1. Câu chuyện về năm loại thuốc {#1}
 *(Pañcabhesajjakathā)*
 
 1\. Vào lúc bấy giờ, Phật Thế Tôn trú ở Sāvatthi, tại Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, các tỳ-kheo bị bệnh mùa thu tấn công, uống cháo cũng nôn ra, ăn cơm cũng nôn ra. Do đó, họ trở nên gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người. Thế Tôn thấy các tỳ-kheo gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người, bèn gọi Tôn giả Ānanda:
@@ -26,7 +26,7 @@ Rồi Thế Tôn nhân lý do này, nhân sự kiện này, sau khi *giảng v�
 
 "Này các tỳ-kheo, Ta cho phép các loại mỡ làm thuốc: mỡ gấu, mỡ cá, mỡ cá sấu, mỡ lợn, mỡ lừa — nhận đúng thời, nấu đúng thời, pha trộn đúng thời, được dùng như cách dùng dầu. Này các tỳ-kheo, nếu nhận phi thời, nấu phi thời, pha trộn phi thời, nếu vị nào dùng, phạm ba *lỗi tác ác* [!] (tác ác / dukkaṭa). Này các tỳ-kheo, nếu nhận đúng thời, nấu phi thời, pha trộn phi thời, nếu vị nào dùng, phạm hai *lỗi tác ác*. Này các tỳ-kheo, nếu nhận đúng thời, nấu đúng thời, pha trộn phi thời, nếu vị nào dùng, phạm một *lỗi tác ác*. Này các tỳ-kheo, nếu nhận đúng thời, nấu đúng thời, pha trộn đúng thời, nếu vị nào dùng, không phạm lỗi."
 
-## 2. Câu chuyện về rễ cây và các loại thuốc khác
+## 2. Câu chuyện về rễ cây và các loại thuốc khác {#2}
 *(Mūlādibhesajjakathā)*
 
 3\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến rễ cây làm thuốc. Họ trình sự việc này lên Thế Tôn.
@@ -210,7 +210,7 @@ Cần dùng nước súp có nêm và chưa nêm. Họ trình sự việc này l
 Cần dùng nước thịt. Họ trình sự việc này lên Thế Tôn.
 "Này các tỳ-kheo, Ta cho phép nước thịt."
 
-## 3. Câu chuyện về Pilindavaccha
+## 3. Câu chuyện về Pilindavaccha {#3}
 *(Pilindavacchavatthu)*
 
 15\. Lúc bấy giờ, Tôn giả Pilindavaccha đang cho dọn dẹp một sườn núi ở Rājagaha với mong muốn làm một hang động. Rồi vua Magadha là Seniya Bimbisāra đi đến chỗ Tôn giả Pilindavaccha, sau khi đến liền đảnh lễ Tôn giả Pilindavaccha rồi ngồi xuống một bên. Ngồi một bên, vua Magadha Seniya Bimbisāra thưa với Tôn giả Pilindavaccha: "Bạch Tôn giả, ngài đang cho làm gì vậy?"
@@ -275,7 +275,7 @@ Rồi các tỳ-kheo ấy chê trách bằng nhiều cách và trình sự việ
 
 Kết thúc phần tụng thứ nhất về việc cho phép các loại thuốc.
 
-## 4. Câu chuyện về việc cho phép đường mật và các thứ khác
+## 4. Câu chuyện về việc cho phép đường mật và các thứ khác {#4}
 *(Guḷādianujānana)*
 
 16\. Rồi Thế Tôn trú ở Sāvatthi bao lâu tùy ý, bèn khởi hành đi du hành về hướng Rājagaha. Tôn giả Kaṅkhārevata trên đường đi nhìn thấy chỗ làm đường mật, ngài ghé vào và thấy người ta đang cho bột và tro vào đường mật, thấy vậy ngài nghĩ: "Đường mật này không hợp lệ vì có lẫn thức ăn, không được phép dùng đường mật phi thời" — ngài sinh lòng lo ngại nên cùng với hội chúng không dùng đường mật. Những ai cho rằng nên nghe theo ngài, họ cũng không dùng đường mật. Họ trình sự việc này lên Thế Tôn. "Này các tỳ-kheo, vì mục đích gì mà họ cho bột và tro vào đường mật?"
@@ -292,7 +292,7 @@ Lúc bấy giờ, một tỳ-kheo nọ bị bệnh đầy hơi trong bụng. V�
 
 "Này các tỳ-kheo, Ta cho phép người bệnh dùng nước muối chua; người không bệnh được phép pha với nước rồi dùng như đồ uống."
 
-## 5. Câu chuyện về việc cấm cất giữ bên trong và các thứ khác
+## 5. Câu chuyện về việc cấm cất giữ bên trong và các thứ khác {#5}
 *(Antovuṭṭhādipaṭikkhepakathā)*
 
 17\. Rồi Thế Tôn đi du hành tuần tự và đến Rājagaha. Tại đó, Thế Tôn trú ở Rājagaha, tại Veḷuvana, khu vực nuôi dưỡng sóc.
@@ -339,7 +339,7 @@ Trong lúc nạn đói, những người phục vụ lấy đi phần nhiều, c
 
 "Này các tỳ-kheo, Ta cho phép tự mình nấu. Này các tỳ-kheo, Ta cho phép đồ cất giữ bên trong, đồ nấu bên trong, đồ tự mình nấu."
 
-## 6. Câu chuyện về việc tự lấy và tự nhận
+## 6. Câu chuyện về việc tự lấy và tự nhận {#6}
 *(Uggahitapaṭiggahaṇa)*
 
 Lúc bấy giờ, có nhiều tỳ-kheo sau khi an cư mùa mưa ở vùng Kāsi, đang trên đường đến Rājagaha để yết kiến Thế Tôn. Dọc đường, họ không kiếm đủ thức ăn thô hay thức ăn ngon cho no bụng; nhưng lại có nhiều trái cây ăn được; và không có người phục vụ.
@@ -364,7 +364,7 @@ Lúc bấy giờ, trong lúc nạn đói, các tỳ-kheo dù ăn một lượng 
 
 "Này các tỳ-kheo, hãy nhận lấy và dùng. Này các tỳ-kheo, Ta cho phép người đã ăn xong, đã no đủ được dùng đồ ăn mang từ đó đến dù chưa làm phép dư tàn."
 
-## 7. Việc cho phép nhận trước, v.v.
+## 7. Việc cho phép nhận trước, v.v. {#7}
 *(Paṭiggahitādianujānana)*
 
 19\. Vào lúc bấy giờ, gia đình hộ độ của tôn giả Upananda, con trai dòng Sakya, đã gửi đồ ăn loại cứng đến cho Tăng chúng [với lời dặn]: "Sau khi cho tôn giả Upananda xem, hãy dâng cho Tăng chúng." Vào lúc bấy giờ, tôn giả Upananda, con trai dòng Sakya, đang đi vào làng để khất thực. Rồi những người ấy đi đến tu viện và hỏi các tỳ-kheo: "Thưa các ngài, tôn giả Upananda ở đâu?" "Này các hiền giả, tôn giả Upananda, con trai dòng Sakya, đang đi vào làng để khất thực." "Thưa các ngài, đồ ăn loại cứng này, sau khi cho tôn giả Upananda xem, hãy dâng cho Tăng chúng." Họ đem sự việc này báo cho Thế Tôn. "Này các tỳ-kheo, nếu vậy, hãy nhận lấy và cất giữ cho đến khi Upananda trở về." Rồi tôn giả Upananda, con trai dòng Sakya, sau khi đi thăm các gia đình trước bữa ăn, đã trở về vào ban ngày.
@@ -393,7 +393,7 @@ Vào lúc bấy giờ, trong thời kỳ đói kém, các tỳ-kheo dù [đượ
 
 "Này các tỳ-kheo, Ta cho phép ăn trái cây không có hạt, trái cây đã lấy hạt ra, trái cây chưa được làm cho hợp pháp."
 
-## 8. Câu chuyện về việc cấm phẫu thuật
+## 8. Câu chuyện về việc cấm phẫu thuật {#8}
 *(Satthakammapaṭikkhepakathā)*
 
 22\. Rồi Thế Tôn, sau khi ở lại Sāvatthī bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Rājagaha. Đi du hành tuần tự, ngài đến Rājagaha. Tại đó, Thế Tôn trú ở Rājagaha, tại tu viện Veḷuvana, khu vực nuôi dưỡng sóc.
@@ -416,7 +416,7 @@ Vào lúc bấy giờ, nhóm sáu tỳ-kheo [nghĩ rằng]: "Thế Tôn đã c�
 
 "Này các tỳ-kheo, không được cho phép tiến hành *phẫu thuật* hay *thụt tháo* trong phạm vi hai lóng tay xung quanh vùng kín. Vị nào cho phép, vị ấy phạm *Lỗi thâu-lan-giá*."
 
-## 9. Câu chuyện về việc cấm ăn thịt người
+## 9. Câu chuyện về việc cấm ăn thịt người {#9}
 *(Manussamaṁsapaṭikkhepakathā)*
 
 23\. Rồi Thế Tôn, sau khi ở lại Rājagaha bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Bārāṇasī. Đi du hành tuần tự, ngài đến Bārāṇasī. Tại đó, Thế Tôn trú ở Bārāṇasī, tại Isipatana, Vườn Nai.
@@ -465,7 +465,7 @@ Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, cho tập h�
 
 Và này các tỳ-kheo, không được ăn thịt mà không cẩn thận suy xét. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)* (dukkaṭa)."
 
-## 10. Câu chuyện về việc cấm ăn thịt voi, v.v.
+## 10. Câu chuyện về việc cấm ăn thịt voi, v.v. {#10}
 *(Hatthimaṁsādipaṭikkhepakathā)*
 
 Vào lúc bấy giờ, những con voi của nhà vua bị chết. Trong thời kỳ đói kém, người dân ăn thịt voi, và họ cũng dâng thịt voi cho các tỳ-kheo đi khất thực. Các tỳ-kheo ăn thịt voi. Người dân phàn nàn, chê bai, trách móc: "Làm sao các sa-môn, con trai dòng Sakya lại có thể ăn thịt voi. Voi là biểu tượng của nhà vua, nếu nhà vua biết được, ngài sẽ không hài lòng với họ." Họ đem sự việc này báo cho Thế Tôn.
@@ -494,7 +494,7 @@ Vào lúc bấy giờ, những người thợ săn giết cọp [...lặp lại.
 
 Kết thúc phần tụng thứ hai về Suppiyā.
 
-## 11. Việc cho phép cháo và viên mật ong
+## 11. Việc cho phép cháo và viên mật ong {#11}
 *(Yāgumadhugoḷakānujānana)*
 
 24\. Rồi Thế Tôn, sau khi ở lại Bārāṇasī bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Andhakavinda, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Vào lúc bấy giờ, người dân trong vùng chất nhiều muối, dầu, gạo và đồ ăn loại cứng lên xe bò, đi theo sát phía sau Thế Tôn và Tăng chúng [với suy nghĩ]: "Khi nào đến lượt, chúng ta sẽ nấu bữa ăn cúng dường," cùng với khoảng năm trăm *người ăn đồ thừa* (vighāsāda).
@@ -534,7 +534,7 @@ Rồi Thế Tôn, sau khi tùy hỷ vị bà-la-môn ấy bằng những bài k�
 
 "Này các tỳ-kheo, Ta cho phép dùng cháo và viên mật ong."
 
-## 12. Câu chuyện về vị đại thần trẻ tuổi có niềm tin
+## 12. Câu chuyện về vị đại thần trẻ tuổi có niềm tin {#12}
 *(Taruṇapasannamahāmattavatthu)*
 
 25\. Người dân nghe tin: "Thế Tôn đã cho phép dùng cháo và viên mật ong." Họ liền chuẩn bị cháo ăn sáng và viên mật ong từ sáng sớm. Các tỳ-kheo ăn no cháo ăn sáng và viên mật ong từ sáng sớm nên khi đến nhà ăn, họ không thể ăn uống như ý muốn.
@@ -563,7 +563,7 @@ Rồi vị đại thần trẻ tuổi có niềm tin ấy [nghĩ]: "Thật là l
 
 "Này các tỳ-kheo, khi đã được mời ở nơi khác thì không được ăn cháo ăn sáng của người khác. Vị nào ăn, phải bị xử lý theo đúng *Quy luật* (pháp / yathādhammo)."
 
-## 13. Câu chuyện về Belaṭṭha Kaccāna
+## 13. Câu chuyện về Belaṭṭha Kaccāna {#13}
 *(Belaṭṭhakaccānavatthu)*
 
 26\. Rồi Thế Tôn, sau khi ở lại Andhakavinda bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Rājagaha, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Vào lúc bấy giờ, Belaṭṭha Kaccāna đang đi trên đường dài từ Rājagaha đến Andhakavinda, với khoảng năm trăm cỗ xe bò, tất cả đều chở đầy những hũ đường mía. Thế Tôn nhìn thấy Belaṭṭha Kaccāna đang đi đến từ đằng xa, sau khi thấy, ngài bước ra khỏi đường và ngồi xuống dưới gốc một cây nọ.
@@ -610,7 +610,7 @@ Rồi Belaṭṭha Kaccāna, [khi đã] thấy *Giáo pháp*, đạt được *G
 
 "Này các tỳ-kheo, Ta cho phép người bệnh dùng đường mía, người không bệnh dùng nước đường."
 
-## 14. Câu chuyện về làng Pāṭali
+## 14. Câu chuyện về làng Pāṭali {#14}
 *(Pāṭaligāmavatthu)*
 
 28\. Rồi Thế Tôn, sau khi ở lại Rājagaha bao lâu tùy thích, đã khởi hành chuyến du hành về hướng làng Pāṭali, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Rồi Thế Tôn đi du hành tuần tự và đến làng Pāṭali.
@@ -627,7 +627,7 @@ Rồi Thế Tôn, sau khi hướng dẫn, khích lệ, làm cho phấn chấn v�
 
 "Vâng, bạch Thế Tôn," các nam cư sĩ ở làng Pāṭali vâng lời Thế Tôn, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi. Rồi Thế Tôn, không lâu sau khi các nam cư sĩ ở làng Pāṭali rời đi, ngài bước vào một căn phòng trống.
 
-## 15. Câu chuyện về Sunidha và Vassakāra
+## 15. Câu chuyện về Sunidha và Vassakāra {#15}
 *(Sunidhavassakāravatthu)*
 
 Vào lúc bấy giờ, Sunidha và Vassakāra, các đại thần của nước Magadha, đang xây dựng một thành phố tại làng Pāṭali để ngăn chặn những người Vajji. Thế Tôn thức dậy vào lúc rạng sáng, với *mắt thần* (thiên nhãn / dibbena cakkhunā) thanh tịnh, vượt qua giới hạn của loài người, ngài nhìn thấy rất nhiều chư thiên đang chiếm giữ các khu đất tại làng Pāṭali. Ở khu vực nào chư thiên có uy lực lớn chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực lớn sẽ hướng đến việc xây dựng dinh thự tại đó. Ở khu vực nào chư thiên có uy lực trung bình chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực trung bình sẽ hướng đến việc xây dựng dinh thự tại đó. Ở khu vực nào chư thiên có uy lực thấp chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực thấp sẽ hướng đến việc xây dựng dinh thự tại đó.
@@ -670,7 +670,7 @@ Rồi Thế Tôn, sau khi hiểu rõ ý nghĩa này, vào lúc đó ngài đã t
 > Kẻ kết bè qua sông,\
 > Bậc trí đã vượt qua.
 
-## 16. Bài giảng về Sự Thật tại làng Koṭi
+## 16. Bài giảng về Sự Thật tại làng Koṭi {#16}
 *(Koṭigāmesaccakathā)*
 
 29\. Rồi Thế Tôn đi đến làng Koṭi. Tại đó, Thế Tôn trú ở làng Koṭi. Tại đó, Thế Tôn gọi các tỳ-kheo:
@@ -686,12 +686,12 @@ Rồi Thế Tôn, sau khi hiểu rõ ý nghĩa này, vào lúc đó ngài đã t
 > Cắt đứt gốc đau khổ,\
 > Không còn phải tái sinh.
 
-## 17. Câu chuyện về Ambapālī
+## 17. Câu chuyện về Ambapālī {#17}
 *(Ambapālīvatthu)*
 
 30\. *Kỹ nữ* (gaṇikā) Ambapālī nghe tin: "Thế Tôn đã đến làng Koṭi." Rồi *kỹ nữ* Ambapālī sai thắng những cỗ xe tuyệt hảo, bước lên một cỗ xe tuyệt hảo, cùng với những cỗ xe tuyệt hảo đi ra khỏi Vesālī để diện kiến Thế Tôn. Cho đến chỗ đất [còn đi được] bằng xe, đi bằng xe rồi bước xuống xe, đi bộ đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi *kỹ nữ* Ambapālī đang ngồi một bên, Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*. Rồi *kỹ nữ* Ambapālī, sau khi được Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*, đã nói với Thế Tôn điều này: "Bạch Thế Tôn, xin Thế Tôn cùng với Tăng chúng nhận lời mời dùng bữa của con vào ngày mai." Thế Tôn nhận lời bằng sự im lặng. Rồi *kỹ nữ* Ambapālī, sau khi biết Thế Tôn đã nhận lời, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi.
 
-## 18. Câu chuyện về những người Licchavi
+## 18. Câu chuyện về những người Licchavi {#18}
 *(Licchavīvatthu)* (Mv 6.30)
 
 Những người Licchavi ở Vesālī nghe tin: "Thế Tôn đã đến làng Koṭi." Rồi những người Licchavi ở Vesālī sai thắng những cỗ xe tuyệt hảo, bước lên một cỗ xe tuyệt hảo, cùng với những cỗ xe tuyệt hảo đi ra khỏi Vesālī để diện kiến Thế Tôn. Có những người Licchavi màu xanh, da màu xanh, mặc áo màu xanh, đeo trang sức màu xanh; có những người Licchavi màu vàng, da màu vàng, mặc áo màu vàng, đeo trang sức màu vàng; có những người Licchavi màu đỏ, da màu đỏ, mặc áo màu đỏ, đeo trang sức màu đỏ; có những người Licchavi màu trắng, da màu trắng, mặc áo màu trắng, đeo trang sức màu trắng.
@@ -718,7 +718,7 @@ Rồi *kỹ nữ* Ambapālī, qua đêm đó, sau khi sai chuẩn bị các món
 
 Kết thúc phần tụng thứ ba về những người Licchavi.
 
-## 19. Câu chuyện về tướng quân Sīha
+## 19. Câu chuyện về tướng quân Sīha {#19}
 *(Sīhasenāpativatthu)* (Mv 6.31)
 
 31\. Vào lúc bấy giờ, những người Licchavi danh tiếng đang ngồi tụ họp tại hội trường, bằng nhiều cách thức khác nhau, nói lời ca ngợi Phật, nói lời ca ngợi *Giáo pháp* (pháp / dhamma), nói lời ca ngợi Tăng. Vào lúc bấy giờ, tướng quân Sīha, một đệ tử của Nigaṇṭha, đang ngồi trong hội chúng ấy. Rồi tướng quân Sīha khởi lên suy nghĩ này: "Không nghi ngờ gì nữa, Thế Tôn ấy chắc chắn là bậc A-la-hán, bậc Chánh Đẳng Giác, vì những người Licchavi danh tiếng này đang ngồi tụ họp tại hội trường, bằng nhiều cách thức khác nhau, nói lời ca ngợi Phật, nói lời ca ngợi *Giáo pháp*, nói lời ca ngợi Tăng. Hay là ta hãy đến gặp Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ấy để diện kiến." Rồi tướng quân Sīha đi đến chỗ Nigaṇṭha Nāṭaputta, sau khi đến, nói với Nigaṇṭha Nāṭaputta điều này: "Thưa ngài, tôi muốn đến gặp sa-môn Gotama để diện kiến."
@@ -778,7 +778,7 @@ Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuy
 "Này các tỳ-kheo, không được ăn thịt khi biết rằng [con vật] bị giết riêng cho mình. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)* (dukkaṭa). Này các tỳ-kheo, Ta cho phép ăn *thịt cá thanh tịnh ba phần* (tikoṭiparisuddhaṁ macchamaṁsaṁ)—không thấy, không nghe, không nghi ngờ [rằng con vật bị giết vì mình]."
 
 
-## 20. Việc cho phép khu vực hợp pháp
+## 20. Việc cho phép khu vực hợp pháp {#20}
 *(Kappiyabhūmianujānana)* (Mv 6.32)
 
 32\. Vào lúc bấy giờ, Vesālī được mùa, lúa non tốt tươi, khất thực dễ dàng, dễ sống bằng việc nhặt nhạnh và quyên góp. Rồi Thế Tôn, khi đang ở một mình nơi thanh vắng, một suy nghĩ như vầy khởi lên trong tâm: "Những điều Ta đã cho phép các tỳ-kheo trong thời kỳ đói kém, lúa màng thất bát, khất thực khó khăn, đó là: cất giữ bên trong, nấu nướng bên trong, tự mình nấu nướng, tự lấy rồi nhận, mang từ đó ra, nhận trước bữa ăn, mọc trong rừng, mọc trong hồ sen; liệu ngày nay các tỳ-kheo có còn sử dụng những điều đó không?"
@@ -811,7 +811,7 @@ Vào lúc bấy giờ, tôn giả Yasooja bị bệnh. Thuốc men được mang
 
 Kết thúc phần tụng thứ tư về Sīha.
 
-## 21. Câu chuyện về gia chủ Meṇḍaka
+## 21. Câu chuyện về gia chủ Meṇḍaka {#21}
 *(Meṇḍakagahapativatthu)*
 
 34\. Vào lúc bấy giờ, tại thành phố Bhaddiya, có gia chủ Meṇḍaka sinh sống. Ông có *thần thông uy lực* (iddhānubhāvo) như thế này: sau khi gội đầu, sai quét dọn kho chứa lúa và ngồi ở ngoài cửa, những dòng lúa từ trên trời rơi xuống làm đầy kho chứa lúa. Vợ ông có *thần thông uy lực* như thế này: chỉ cần ngồi bên cạnh một cái nồi cơm cỡ một āḷhaka và một cái nồi canh, bà phục vụ bữa ăn cho quân lính và người hầu, đồ ăn không hề cạn cho đến khi bà đứng dậy. Con trai ông có *thần thông uy lực* như thế này: chỉ cần cầm một túi tiền một ngàn, anh ta trả lương sáu tháng cho quân lính và người hầu, tiền không hề cạn chừng nào túi vẫn còn trong tay anh ta. Con dâu ông có *thần thông uy lực* như thế này: chỉ cần ngồi bên cạnh một giỏ lúa cỡ bốn doṇa, cô phát khẩu phần ăn sáu tháng cho quân lính và người hầu, lúa không hề cạn cho đến khi cô đứng dậy. Người nô lệ của ông có *thần thông uy lực* như thế này: khi anh ta cày bằng một cái cày, bảy luống cày hiện ra.
@@ -854,7 +854,7 @@ Rồi gia chủ Meṇḍaka, qua đêm đó, sau khi sai chuẩn bị các món 
 
 Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến nhà của gia chủ Meṇḍaka; sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng. Rồi vợ, con trai, con dâu và người nô lệ của gia chủ Meṇḍaka đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn thuyết giảng tuần tự luận cho họ, đó là: luận về bố thí [...lặp lại...] [khi đã trở thành những người] không còn phụ thuộc vào người khác trong giáo pháp của bậc Đạo sư, họ nói với Thế Tôn điều này: "Thật tuyệt vời, bạch Thế Tôn [...lặp lại...] Bạch Thế Tôn, chúng con xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Xin Thế Tôn nhận chúng con làm cư sĩ, từ nay cho đến mạng chung, chúng con xin quy y." Rồi gia chủ Meṇḍaka tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, khi Thế Tôn đã ăn xong và rút tay khỏi bát, ông ngồi xuống một bên. Ngồi xuống một bên, gia chủ Meṇḍaka nói với Thế Tôn điều này: "Bạch Thế Tôn, chừng nào Thế Tôn còn trú ở Bhaddiya, con xin được cung cấp bữa ăn thường xuyên cho Tăng chúng với Đức Phật là vị đứng đầu." Rồi Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ gia chủ Meṇḍaka bằng bài *giảng về Chân lý*, rồi ngài đứng dậy khỏi chỗ ngồi và rời đi.
 
-## 22. Việc cho phép năm sản phẩm từ bò, v.v.
+## 22. Việc cho phép năm sản phẩm từ bò, v.v. {#22}
 *(Pañcagorasādianujānana)*
 
 Rồi Thế Tôn, sau khi ở lại Bhaddiya bao lâu tùy thích, đã không từ biệt gia chủ Meṇḍaka mà khởi hành chuyến du hành về hướng Aṅguttarāpa, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Gia chủ Meṇḍaka nghe tin: "Thế Tôn đã khởi hành chuyến du hành về hướng Aṅguttarāpa, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo." Rồi gia chủ Meṇḍaka ra lệnh cho những người nô lệ và người làm công: "Này các anh bạn, nếu vậy, hãy chất nhiều muối, dầu, gạo và đồ ăn loại cứng lên xe bò rồi đi theo, hãy mang theo một ngàn hai trăm năm mươi người chăn bò và một ngàn hai trăm năm mươi con bò cái, chúng ta gặp Thế Tôn ở đâu, chúng ta sẽ dâng sữa tươi ở đó."
@@ -873,7 +873,7 @@ Này các tỳ-kheo, có những con đường đi qua vùng hoang vắng, ít n
 
 Này các tỳ-kheo, có những người có niềm tin và sự tịnh tín, họ trao tiền cho *người làm cho hợp pháp* (kappiyakāraka) [và nói]: 'Hãy dùng số tiền này để cung cấp những gì hợp pháp cho tôn giả.' Này các tỳ-kheo, Ta cho phép nhận những gì hợp pháp từ đó; nhưng này các tỳ-kheo, Ta hoàn toàn không nói rằng có thể nhận hoặc tìm kiếm *vàng bạc* (jātarūparajataṁ) bằng bất cứ hình thức nào."
 
-## 23. Câu chuyện về đạo sĩ bện tóc Keṇiya
+## 23. Câu chuyện về đạo sĩ bện tóc Keṇiya {#23}
 *(Keṇiyajaṭilavatthu)*
 
 35\. Rồi Thế Tôn đi du hành tuần tự và đến Āpaṇa. Đạo sĩ bện tóc Keṇiya nghe tin: "Sa-môn Gotama, con trai dòng Sakya, xuất gia từ gia tộc Sakya, đã đến Āpaṇa. Tiếng tốt của Thế Tôn Gotama đã lan truyền như thế này [...lặp lại...] Thật tốt đẹp thay khi được diện kiến một bậc A-la-hán như vậy." Rồi đạo sĩ bện tóc Keṇiya khởi lên suy nghĩ này: "Ta nên dâng thứ gì cho sa-môn Gotama?" Rồi đạo sĩ bện tóc Keṇiya khởi lên suy nghĩ này: "Những vị đạo sĩ thời xưa của những người bà-la-môn, những người đã sáng tác các bài chú, những người đã truyền tụng các bài chú, mà ngày nay những người bà-la-môn vẫn hát theo, tụng theo, nói theo những gì đã được nói, đọc theo những gì đã được đọc về các bài chú cổ xưa đã được hát, được truyền tụng, được biên soạn, đó là: Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa, Bhagu; họ là những người kiêng cữ vào ban đêm, từ bỏ việc ăn sái giờ, họ đã chấp nhận những loại *nước uống* (pānāni) như thế này. Sa-môn Gotama cũng là người kiêng cữ vào ban đêm, từ bỏ việc ăn sái giờ, sa-môn Gotama cũng xứng đáng chấp nhận những loại *nước uống* như thế này."
@@ -909,7 +909,7 @@ Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến am th
 
 Rồi Thế Tôn, sau khi tùy hỷ đạo sĩ bện tóc Keṇiya bằng những bài kệ này, ngài đứng dậy khỏi chỗ ngồi và rời đi.
 
-## 24. Câu chuyện về người Malla tên Rojo
+## 24. Câu chuyện về người Malla tên Rojo {#24}
 *(Rojamallavatthu)*
 
 36\. Rồi Thế Tôn, sau khi ở lại Āpaṇa bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Kusinārā, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Những người Malla ở Kusinārā nghe tin: "Thế Tôn đang đến Kusinārā cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo." Họ lập ra một quy định: "Ai không ra nghênh đón Thế Tôn, người đó sẽ bị phạt năm trăm đồng."
@@ -942,7 +942,7 @@ Rồi người Malla tên Rojo, qua đêm đó, sau khi sai chuẩn bị nhiều
 
 "Này các tỳ-kheo, Ta cho phép tất cả các loại rau và tất cả các loại đồ ăn làm từ bột."
 
-## 25. Câu chuyện về vị xuất gia khi đã già
+## 25. Câu chuyện về vị xuất gia khi đã già {#25}
 *(Vuḍḍhapabbajitavatthu)*
 
 37\. Rồi Thế Tôn, sau khi ở lại Kusinārā bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Ātumā, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Vào lúc bấy giờ, có một vị xuất gia khi đã già đang sống ở Ātumā, trước đây từng làm thợ cạo. Vị ấy có hai người con trai, khôi ngô, lanh lợi, khéo léo và thành thạo nghề thợ cạo do chính cha mình truyền dạy.
@@ -967,7 +967,7 @@ Rồi Thế Tôn nói với vị xuất gia khi đã già ấy điều này: "N�
 
 "Này các tỳ-kheo, hạt giống của Tăng chúng được gieo trồng trên đất của cá nhân thì phải chia một phần rồi mới được sử dụng. Hạt giống của cá nhân được gieo trồng trên đất của Tăng chúng thì phải chia một phần rồi mới được sử dụng."
 
-## 26. Bài giảng về Bốn Đại Tiêu Chuẩn
+## 26. Bài giảng về Bốn Đại Tiêu Chuẩn {#26}
 *(Catumahāpadesakathā)*
 
 40\. Vào lúc bấy giờ, các tỳ-kheo sinh lòng e ngại về một số trường hợp: "Thế Tôn đã cho phép điều gì, và không cho phép điều gì?" Họ đem sự việc này báo cho Thế Tôn.

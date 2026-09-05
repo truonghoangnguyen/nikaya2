@@ -1,713 +1,706 @@
-# 15 THE LAST YEAR
+# 15 NĂM CUỐI CÙNG
 
-NARRATOR ONE. The events that follow happened within a year ending with the Buddha's attainment of final Nibbāna. All these events, except for the mention of the final passing of the two chief disciples, are contained in one record or sutta. It is only now in fact that a chronological relation of events is resumed in the Canon.
+NGƯỜI KỂ MỘT. Các sự kiện sau đây diễn ra trong vòng một năm, khép lại bằng sự kiện Đức Phật nhập Đại Bát-niết-bàn. Tất cả các sự kiện này, ngoại trừ việc nhắc đến sự viên tịch của hai vị đại đệ tử, đều được ghi lại trong một bản kinh duy nhất. Thật ra, chỉ đến lúc này tiến trình thời gian của các sự kiện mới được nối lại trong Kinh tạng.
 
-FIRST VOICE. Thus I heard. At one time the Blessed One was living on the Vulture Peak Rock at Rājagaha. King Ajātasattu was then anxious to attack the Vajjians. He was saying: "I will exterminate these Vajjians who are so mighty and powerful, I will destroy them, I will bring them to rack and ruin."
+GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời Thế Tôn đang ngự trên đỉnh núi Linh Thứu ở thành Vương Xá (Rājagaha). Lúc bấy giờ, vua A-xà-thế (Ajātasattu) đang nung nấu ý định tấn công xứ Bạt-kỳ (Vajji). Nhà vua nói: "Ta sẽ tiêu diệt bọn Bạt-kỳ hùng mạnh và đầy quyền lực này, ta sẽ hủy diệt chúng, ta sẽ biến chúng thành tro bụi tan hoang."
 
-King Ajātasattu then told the brahman Vassakāra, a Magadhan minister: "Come, brahman, go to the Blessed One and say: 'Lord, Ajātasattu Vedehiputta, King of Magadha, pays homage with his head at the Blessed One's feet, and asks if he is free from affliction and sickness and enjoying health, strength and happiness.' And say: 'Lord, Ajātasattu Vedehiputta, King of Magadha, is anxious to attack the Vajjians. He says: "I will exterminate these Vajjians who are so mighty and powerful, I will destroy them, I will bring them to rack and ruin." ' Note well what his answer is and report it to me; for Perfect Ones never lie."
+Vua A-xà-thế bèn bảo đại thần Vũ-xá (Vassakāra), một bà-la-môn xứ Ma-kiệt-đà (Magadha): "Này bà-la-môn, hãy đến gặp Thế Tôn và thưa rằng: 'Bạch Thế Tôn, vua Ma-kiệt-đà là A-xà-thế Vi-đề-hi-tử cúi đầu đảnh lễ dưới chân Thế Tôn, và kính vấn an Thế Tôn có được ít bệnh ít não, khỏe mạnh, an lạc và dồi dào sức lực chăng?' Rồi hãy nói thêm: 'Bạch Thế Tôn, vua A-xà-thế Vi-đề-hi-tử đang nung nấu ý định tấn công xứ Bạt-kỳ. Vua nói: "Ta sẽ tiêu diệt bọn Bạt-kỳ hùng mạnh và đầy quyền lực này, ta sẽ hủy diệt chúng, ta sẽ biến chúng thành tro bụi tan hoang."' Hãy chú ý lắng nghe kỹ câu trả lời của Ngài rồi về báo lại cho trẫm; vì các bậc Toàn Thiện không bao giờ nói dối."
 
-"Even so, sire," Vassakāra replied. Then he had a number of state coaches summoned. Mounting one of them, he drove out of Rājagaha towards the Vulture Peak Rock as far as the way was passable for carriages. Then he alighted and went on foot to where the Blessed One was. He greeted him and sat down at one side. When he had done so, he delivered his message.
+"Xin vâng mệnh đại vương," Vũ-xá đáp. Rồi ông cho chuẩn bị một số cỗ xe hoàng gia. Bước lên một chiếc, ông rời Vương Xá hướng về đỉnh núi Linh Thứu, đi xa đến mức xe cộ còn có thể lưu thông được. Sau đó, ông xuống xe, đi bộ đến chỗ Thế Tôn ngự. Ông chào hỏi xã giao rồi ngồi xuống một bên. Sau khi yên vị, ông chuyển lời của nhà vua.
 
-The Blessed One addressed himself to the venerable Ānanda, who was standing behind him, fanning him: "Ānanda, have you heard whether the Vajjians hold frequent and well-attended meetings?"
+Thế Tôn quay sang bảo đại đức Ānanda (Ānanda), lúc đó đang đứng sau lưng quạt cho Ngài: "Này Ānanda, ông có nghe dân Bạt-kỳ thường hay họp đại hội và số người tham dự đông đảo chăng?"
 
-"They do, Lord."
+"Bạch Thế Tôn, có nghe."
 
-"As long as they do so, Ānanda, they can be expected to prosper and not decline. Have you heard whether they assemble in concord,
-rise in concord, and do their duty as Vajjians in concord—whether they avoid enacting the unenacted or abolishing existing enactments and proceed in accordance with the ancient Vajjian laws as enacted—whether they honour, respect, revere and venerate the Vajjian elders and think they should be heeded—whether they live without raping and abducting the women and girls of their clans—whether they honour, respect, revere and venerate the Vajjian shrines both in town and country without allowing the lawful oblations, hitherto given and made, to lapse—whether lawful protection, defence and guarding is provided among the Vajjians for Arahants so that Arahants who have not come to the realm may come and Arahants who have come may live happily?”
+"Này Ānanda, chừng nào dân Bạt-kỳ còn làm như vậy, họ sẽ thịnh vượng chứ không suy vong. Ông có nghe họ tụ họp trong hòa hợp, giải tán trong hòa hợp, và gánh vác phận sự xứ Bạt-kỳ trong hòa hợp chăng? — Họ có tránh ban hành những điều chưa từng được quy định hoặc không hủy bỏ những điều đã quy định, mà hành xử theo luật lệ cổ xưa của dân Bạt-kỳ như đã ban hành chăng? — Họ có tôn trọng, kính trọng, tôn sùng và đảnh lễ các bậc trưởng thượng Bạt-kỳ và xem lời các ngài đáng được lắng nghe chăng? — Họ có sống mà không cưỡng bức hay bắt cóc phụ nữ và thiếu nữ trong thị tộc chăng? — Họ có tôn trọng, kính trọng, tôn sùng và đảnh lễ các đền miếu xứ Bạt-kỳ ở cả thành thị lẫn thôn quê, không bỏ phế các lễ phẩm cúng dường hợp pháp từ trước đến nay chăng? — Sự bảo bọc, che chở và hộ vệ hợp pháp có được duy trì cho các vị A-la-hán nơi xứ Bạt-kỳ, để các vị A-la-hán chưa đến có thể đến, và các vị A-la-hán đã đến có thể an sống chăng?"
 
-“They do, Lord.”
+"Bạch Thế Tôn, có nghe."
 
-“As long as they do so, Ānanda, they may be expected to prosper and not decline.”
+"Này Ānanda, chừng nào họ còn làm như vậy, họ sẽ thịnh vượng chứ không suy vong."
 
-Then the Blessed One spoke to Vassakāra: “Once, brahman, when I was living at Vesālī in the Sārandada Shrine, I taught the Vajjians these seven things that prevent decline. As long as they persist and are taught among them, the Vajjians may be expected to prosper and not decline.”
+Rồi Thế Tôn bảo Vũ-xá: "Này bà-la-môn, có lần Ta ở Tỳ-xá-ly (Vesālī) tại đền Sārandada, Ta đã dạy dân Bạt-kỳ bảy pháp ngăn ngừa suy vong này. Chừng nào các pháp này còn tồn tại và được truyền dạy trong dân chúng, dân Bạt-kỳ sẽ thịnh vượng chứ không suy vong."
 
-When this was said, Vassakāra remarked: “If the Vajjians possess a single one of them, Master Gotama, they may be expected to prosper and not decline, so what can be said if they possess all seven? Indeed, Master Gotama, King Ajātasattu will never get the better of the Vajjians by fighting, unless he buys them over and sows dissension among them. But now we must go, Master Gotama. We are busy and have much to do.”
+Nghe vậy, Vũ-xá thưa: "Thưa Tôn giả Cù-đàm (Gotama), dân Bạt-kỳ chỉ cần giữ một pháp trong số đó thôi cũng đủ thịnh vượng và không suy vong rồi, huống hồ là đủ cả bảy! Thật vậy, thưa Tôn giả Cù-đàm, vua A-xà-thế sẽ không bao giờ thắng được dân Bạt-kỳ bằng chiến trận, trừ phi dùng cách mua chuộc và chia rẽ họ. Nhưng nay chúng tôi phải đi rồi, thưa Tôn giả Cù-đàm. Chúng tôi bận rộn và có nhiều việc phải làm."
 
-“It is time now, brahman, to do as you think fit.”
+"Này bà-la-môn, nay đã hợp thời, ông hãy làm những gì thấy thích hợp."
 
-Vassakāra was satisfied. Delighting in the Blessed One’s words, he got up, and after expressing his appreciation, went away. As soon as he had gone the Blessed One told the venerable Ānanda: “Ānanda, go and summon all the bhikkhus who are living in the neighbourhood of Rājagaha to meet in the service hall.”
+Vũ-xá hài lòng. Hoan hỷ trước lời dạy của Thế Tôn, ông đứng dậy, ngỏ lời cảm tạ rồi ra về. Ngay khi ông vừa đi, Thế Tôn bảo đại đức Ānanda: "Này Ānanda, hãy đi triệu tập tất cả các tỳ-kheo đang sống quanh vùng Vương Xá đến họp tại giảng đường."
 
-“Even so, Lord,” he replied. When he had done this, he informed the Blessed One. Then the Blessed One got up from his seat and went to the service hall, where he sat down on a seat made ready. Then he addressed the bhikkhus: “Bhikkhus, I shall teach you seven things that prevent decline. Listen and attend carefully to what I shall say.”
+"Bạch Thế Tôn, xin vâng," tôn giả đáp. Sau khi làm xong việc đó, tôn giả bạch lại với Thế Tôn. Rồi Thế Tôn rời chỗ ngồi đến giảng đường, ngự vào chỗ đã dọn sẵn. Ngài ngỏ lời cùng các tỳ-kheo: "Này các tỳ-kheo, Ta sẽ dạy các ông bảy pháp ngăn ngừa suy vong. Hãy lắng nghe và chú ý kỹ những gì Ta sắp nói."
 
-“Even so, Lord,” they replied.
+"Bạch Thế Tôn, xin vâng," các vị đáp.
 
-The Blessed One said: “As long as bhikkhus hold frequent and well-attended meetings—as long as they assemble in concord, rise in concord and do their duty as members of the Sangha in concord—as long as they avoid enacting the unenacted or abolishing the existing enactments and proceed in accordance with the training precepts as enacted—as long as they honour, respect, revere and venerate the senior bhikkhus who are experienced, long gone forth and fathers and guides of the Sangha, and think they should be heeded—as long as when craving that leads to renewal of being arises they do not fall into its power—as long as they esteem forest abodes—as long as they maintain mindfulness in themselves so that decent companions in the holy life who have not come to them may come and decent companions in the holy life who have come may live happily—so long may they be expected to prosper and not decline.
+Thế Tôn dạy: "Chừng nào các tỳ-kheo còn thường xuyên tụ họp và số người tham dự đông đảo — chừng nào họ còn tụ họp trong hòa hợp, giải tán trong hòa hợp và làm phận sự của Tăng đoàn trong hòa hợp — chừng nào họ tránh ban hành những điều chưa được quy định hoặc không hủy bỏ những điều đã quy định, mà hành trì đúng theo các học giới đã ban hành — chừng nào họ còn tôn kính, kính trọng, tôn sùng và đảnh lễ các bậc trưởng lão tỳ-kheo có kinh nghiệm, xuất gia lâu năm, là cha anh và là người dẫn dắt Tăng đoàn, và xem lời các ngài đáng được lắng nghe — chừng nào khi tham ái dẫn đến tái sinh khởi lên, họ không để mình rơi vào sự chi phối của nó — chừng nào họ còn ham thích trú xứ nơi rừng vắng — chừng nào họ còn duy trì chánh niệm nơi tự thân để các bạn đồng phạm hạnh thuần thục chưa đến có thể đến, và các bạn đồng phạm hạnh thuần thục đã đến có thể an sống — thì chừng ấy họ sẽ thịnh vượng chứ không suy vong.
 
-“Another seven things that prevent decline: as long as bhikkhus avoid delighting, rejoicing and taking pleasure in being busy, in gossiping, in sleeping, and in society; as long as they have no evil wishes and avoid falling under their spell; as long as they have no evil friends and avoid falling under their spell; as long as they do not stop half-way with the attainment of only the lower, worldly distinctions—so long may they be expected to prosper and not decline.
+"Bảy pháp ngăn ngừa suy vong khác: chừng nào các tỳ-kheo tránh ham thích, hoan hỷ và tìm vui trong việc bận rộn, trong tán gẫu, trong ngủ nghỉ, và trong tụ tập đám đông; chừng nào họ không có tà niệm và tránh rơi vào sự khống chế của tà niệm; chừng nào họ không có bạn xấu và tránh rơi vào sự khống chế của bạn xấu; chừng nào họ không dừng lại nửa chừng khi mới chỉ đạt được những thành tựu thế tục thấp kém — thì chừng ấy họ sẽ thịnh vượng chứ không suy vong.
 
-“Another seven things that prevent decline: as long as bhikkhus have faith, conscience, and a sense of shame, are learned, energetic, and mindful, and possess understanding, so long may they be expected to prosper and not decline.
+"Bảy pháp ngăn ngừa suy vong khác: chừng nào các tỳ-kheo có lòng tin, có lương tâm và biết hổ thẹn, có học hỏi, có tinh tấn, có chánh niệm và có trí tuệ — thì chừng ấy họ sẽ thịnh vượng chứ không suy vong.
 
-“Another seven things that prevent decline: as long as bhikkhus maintain in being the enlightenment factors of mindfulness, investigation-of-states, energy, happiness, tranquillity, concentration, and equanimity, so long may they be expected to prosper and not decline.
+"Bảy pháp ngăn ngừa suy vong khác: chừng nào các tỳ-kheo còn phát triển và tu tập các giác chi: niệm, trạch pháp, tinh tấn, hỷ, khinh an, định và xả — thì chừng ấy họ sẽ thịnh vượng chứ không suy vong.
 
-“Another seven things that prevent decline: as long as bhikkhus develop the perceptions of impermanence, of not-self, of loathsome-ness in the body, of danger, of abandoning of lust, of fading away of lust, and of cessation of lust, so long may they be expected to prosper and not decline.”
+"Bảy pháp ngăn ngừa suy vong khác: chừng nào các tỳ-kheo còn phát triển tưởng vô thường, tưởng vô ngã, tưởng bất tịnh nơi thân, tưởng nguy hiểm, tưởng từ bỏ tham ái, tưởng ly tham, và tưởng diệt tham — thì chừng ấy họ sẽ thịnh vượng chứ không suy vong."
 
 [D. 16](/link?q=dn-16){target=_black}; [A. 7:20](/link?q=AN-7.20){target=_black}
 
-“Six things that prevent decline: as long as bhikkhus maintain both publicly and privately towards their companions in the holy life, bodily, verbal and mental acts of loving-kindness; as long as they are impartial and indiscriminate sharers with virtuous companions in the holy life of lawful gain lawfully acquired, even of what is contained in the bowl; as long as bhikkhus among their companions in the holy life live both publicly and privately possessed of virtues that are unbroken, untorn, unblotched, unmottled, emancipating, commended by the wise, not misinterpreted, and conducive to concentration; as long as bhikkhus live possessed of the noble ones’ view that leads out (from the round of rebirths), that leads to the complete exhaustion of suffering for him who gives effect to it—so long may they be expected to prosper and not decline.
+"Sáu pháp ngăn ngừa suy vong: chừng nào các tỳ-kheo còn duy trì các thân nghiệp, khẩu nghiệp và ý nghiệp từ ái đối với các bạn đồng phạm hạnh, cả trước mặt lẫn sau lưng; chừng nào họ còn san sẻ bình đẳng, không phân biệt, với các bạn đồng phạm hạnh có giới đức về những lợi dưỡng hợp pháp có được một cách đúng pháp, cho đến cả những vật nhận được trong bình bát; chừng nào giữa các bạn đồng phạm hạnh, họ sống với giới hạnh không sứt mẻ, không rách nát, không tì vết, không đốm bẩn, đem lại tự do giải thoát, được người trí tán thán, không bị hiểu sai và dẫn đến định tâm, cả trước mặt lẫn sau lưng; chừng nào các tỳ-kheo sống với chánh kiến của bậc Thánh dẫn xuất (khỏi luân hồi), đưa đến sự tận diệt hoàn toàn khổ đau cho người thực hành theo — thì chừng ấy họ sẽ thịnh vượng chứ không suy vong.
 
-“As long as these things that prevent decline persist and are taught among the bhikkhus, they may be expected to prosper and not decline.”
+"Chừng nào những pháp ngăn ngừa suy vong này còn tồn tại và được truyền dạy giữa các tỳ-kheo, họ sẽ thịnh vượng chứ không suy vong."
 
-And while the Blessed One was living there at Rājagaha on the Vulture Peak Rock, he often gave this talk on the Dhamma to the bhikkhus: “Such is virtue, such is concentration, such is understanding; concentration fortified with virtue brings great benefits and great fruits; understanding fortified with concentration brings great benefits and great fruits; the heart fortified with understanding becomes completely liberated from taints: from the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.”
+Và trong thời gian Thế Tôn ngụ tại thành Vương Xá trên đỉnh núi Linh Thứu, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-When the Blessed One had lived at Rājagaha as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Ambalaṭṭhikā.”
+Khi Thế Tôn đã ở Vương Xá bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Ambalaṭṭhikā."
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Ambalaṭṭhikā with a large community of bhikkhus. While there he lived in the King’s House in Ambalaṭṭhikā.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Ambalaṭṭhikā. Ở đó, Ngài ngụ tại Dinh thự Hoàng gia ở Ambalaṭṭhikā.
 
-And while the Blessed One was living there too he often gave this talk on the Dhamma to the bhikkhus: “Such is virtue, such is concentration, such is understanding; concentration fortified with virtue brings great benefits and great fruits; understanding fortified with concentration brings great benefits and great fruits; the heart fortified with understanding becomes completely liberated from taints: from the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.”
+Và trong khi ngụ tại đó, Thế Tôn cũng thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-When the Blessed One had stayed at Ambalaṭṭhikā as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Nālandā.”
+Khi Thế Tôn đã ở Ambalaṭṭhikā bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Nālandā."
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Nālandā with a large community of bhikkhus. While there he lived in the Pāvārika Mango Grove in Nālandā.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Nālandā. Tại đó, Ngài ngụ ở vườn xoài Pāvārika tại Nālandā.
 
 [D. 16](/link?q=dn-16){target=_black}
 
-Then the venerable Sāriputta went to the Blessed One and said: “Lord, I am convinced of this: that there never has been, never will be, and is not, any other monk or brahman more distinguished in enlightenment than the Blessed One.”
+Bấy giờ, tôn giả Xá-lợi-phất (Sāriputta) đến gặp Thế Tôn và bạch rằng: "Bạch Thế Tôn, con tin chắc điều này: chưa từng có, sẽ không có và hiện không có vị sa-môn hay bà-la-môn nào giác ngộ siêu việt hơn Thế Tôn."
 
-“That is a grand and bold statement to make, Sāriputta, an uncompromising lion’s roar to utter. Are all past Blessed Ones, accomplished and fully enlightened, then, known to you by reading their minds with your mind thus: ‘Such was their virtue, such their concentration, such their understanding, such the attainment they abode in, such the manner of their deliverance?’”
+"Này Xá-lợi-phất, thật là một lời tuyên bố hùng hồn và táo bạo, một tiếng rống sư tử dứt khoát! Phải chăng tâm ông đã đọc được tâm của tất cả chư Thế Tôn trọn lành và chánh đẳng giác trong quá khứ rằng: 'Giới của các Ngài là như vậy, định như vậy, tuệ như vậy, sự an trú chứng đắc như vậy, phương thức giải thoát như vậy'?"
 
-“No, Lord.”
+"Bạch Thế Tôn, không."
 
-“Are all future Blessed Ones, accomplished and fully enlightened, then known to you by reading their minds in that way?”
+"Vậy chăng tâm ông đã đọc được tâm của tất cả chư Thế Tôn trọn lành và chánh đẳng giác trong tương lai như cách ấy?"
 
-“No, Lord.”
+"Bạch Thế Tôn, không."
 
-“Am I, now, accomplished and fully enlightened, then known to you by reading my mind in that way?”
+"Vậy hiện nay tâm ông đã đọc được tâm của Ta, một bậc trọn lành và chánh đẳng giác, như cách ấy chăng?"
 
-“No, Lord”.
+"Bạch Thế Tôn, không."
 
-“Then how can you make this grand and bold statement and utter this uncompromising lion’s roar?”
+"Vậy làm sao ông có thể đưa ra lời tuyên bố hùng hồn, táo bạo và cất tiếng rống sư tử dứt khoát như thế?"
 
-“Lord, I have no knowledge of reading with my mind the minds of past, future and present accomplished and fully enlightened ones. Nevertheless, a certainty about the Dhamma is known to me. Suppose a king had a frontier city with strong ditches, ramparts and bastions and a single gate, and he had a wise, clever, sagacious gate-keeper there who stopped those whom he did not know and admitted only those whom he knew; and since he had himself gone round the path encircling the city and had seen no gaps in the ramparts or any hole even big enough for a cat to pass through, he might conclude that living beings above a certain size must go in and out through the gate—so too, Lord, a certainty about the Dhamma is known to me. All the past Blessed Ones, accomplished and fully
-enlightened, had their minds well established upon the four foundations of mindfulness; after abandoning the five hindrances, the defilements of the heart that weaken understanding, they have discovered the supreme full enlightenment by maintaining in being the seven enlightenment factors. All the future Blessed One, accomplished and fully enlightened, will do likewise. The Blessed One now, accomplished and fully enlightened, has done likewise.”
+"Bạch Thế Tôn, con không có tha tâm thông để biết được tâm của các bậc trọn lành và chánh đẳng giác trong quá khứ, tương lai và hiện tại. Tuy nhiên, con thấu triệt được quy luật nhất quán của Chánh pháp. Ví như một vị vua có một thành trì biên ải với hào sâu, tường lũy kiên cố và chỉ có một cổng duy nhất; ngài đặt tại đó một người gác cổng thông minh, tài trí và sắc sảo, người này chỉ cho phép người mình biết đi vào và chặn người lạ mặt lại. Người gác cổng đi quanh con đường bao quanh thành, không thấy khe hở nào trên tường thành hay lỗ hổng nào dù chỉ đủ cho một con mèo chui lọt, anh ta ắt kết luận rằng mọi sinh vật có kích thước nhất định đều phải ra vào qua cánh cổng đó. Cũng như thế, bạch Thế Tôn, con thấu triệt quy luật của Chánh pháp: Tất cả chư Thế Tôn trong quá khứ, trọn lành và chánh đẳng giác, đều khéo an trú tâm trên bốn niệm xứ; sau khi đoạn trừ năm triền cái—những ô nhiễm của tâm làm suy yếu trí tuệ—các Ngài đã chứng ngộ quả vị chánh đẳng chánh giác tối thượng bằng cách tu tập bảy giác chi. Tất cả chư Thế Tôn trong tương lai, trọn lành và chánh đẳng giác, cũng sẽ làm như vậy. Và Thế Tôn hiện tại, trọn lành và chánh đẳng giác, cũng đã làm như vậy."
 
 [D. 16](/link?q=dn-16){target=_black}; [S. 47:12](/link?q=SN-47.12){target=_black}
 
-And while the Blessed One was living there at Nālandā in the Pāvārika Mango Grove, he often gave this talk on the Dhamma to the bhikkhus: “Such is virtue, such is concentration, such is understanding; concentration fortified with virtue brings great benefits and great fruits; understanding fortified with concentration brings great benefits and great fruits; the heart fortified with understanding becomes completely liberated from taints: from the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.”
+Và trong thời gian Thế Tôn ngụ tại Nālandā nơi vườn xoài Pāvārika, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-When the Blessed One had lived at Nālandā as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Pāṭaligāma.”
+Khi Thế Tôn đã ở Nālandā bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Pāṭaligāma."
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Pāṭaligāma with a large community of bhikkhus.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Pāṭaligāma.
 
-The followers at Pāṭaligāma heard: “It seems the Blessed One has arrived at Pāṭaligāma.” Then they went to the Blessed One, and after paying homage to him, they sat down at one side. When they had done so, they said: “Let the Blessed One accept a resthouse.” The Blessed One consented in silence. Seeing that he consented, they rose from their seats, and after paying homage to him, keeping him on their right, they went to the resthouse. They completely spread it with coverings, and they prepared seats and put out a big water trough and hung up an oil lamp. Then they told the Blessed One what they had done, adding, “Now it is time, Lord, for the Blessed One to do as he thinks fit.”
+Các thiện tín ở Pāṭaligāma nghe tin: "Hình như Thế Tôn đã đến Pāṭaligāma." Họ bèn đến chỗ Thế Tôn, sau khi đảnh lễ Ngài, họ ngồi xuống một bên. Khi đã yên vị, họ thưa: "Kính xin Thế Tôn nhận lời ngơi nghỉ tại nhà khách công cộng." Thế Tôn im lặng nhận lời. Thấy Ngài đã hứa khả, họ đứng dậy khỏi chỗ ngồi, đảnh lễ Ngài, đi nhiễu bên phải rồi đi đến nhà khách. Họ trải chiếu đệm khắp nơi, sắp đặt chỗ ngồi, đặt một thùng nước lớn và thắp một ngọn đèn dầu. Sau đó, họ thưa với Thế Tôn những việc đã làm và bạch thêm: "Bạch Thế Tôn, nay đã hợp thời, xin Thế Tôn làm những gì thấy thích hợp."
 
-Then the Blessed One dressed, and taking his bowl and outer robe, he went to the resthouse. After washing his feet, he entered it and sat down by the central pillar facing the east. And the bhikkhus of the Sangha, after washing their feet, entered the resthouse and sat down by the western wall facing the east with the Blessed One
-before them. And the followers from Pāṭaligāma, after washing their feet, entered the resthouse and sat down by the eastern wall facing the west with the Blessed One before them. Then the Blessed One addressed the followers from Pāṭaligāma thus:
+Bấy giờ Thế Tôn đắp y, mang bát và thượng y đi đến nhà khách. Sau khi rửa chân, Ngài bước vào và ngồi tựa cột trung tâm, mặt hướng về phía đông. Các tỳ-kheo Tăng sau khi rửa chân cũng bước vào nhà khách và ngồi dọc theo vách phía tây, mặt hướng về phía đông, hướng về Thế Tôn. Các thiện tín từ Pāṭaligāma sau khi rửa chân cũng bước vào nhà khách và ngồi dọc theo vách phía đông, mặt hướng về phía tây, đối diện với Thế Tôn. Rồi Thế Tôn thuyết giảng cho các thiện tín Pāṭaligāma như sau:
 
-“Householders, the unvirtuous man incurs these five dangers through failing in virtue. What five? Here the unvirtuous man who fails in virtue suffers a great loss of wealth through negligence. Secondly, he acquires a bad name. Thirdly, whatever assembly he goes into, whether of warrior-nobles or brahmans or householders or monks, he lacks assurance and wants confidence. Fourthly, he dies confused. Fifthly, on the dissolution of the body, after death, he reappears in a state of privation, in an unhappy destination, in perdition, even in hell.
+"Này các cư sĩ, người phá giới chịu năm tai hại do kém đức hạnh. Năm tai hại là gì? Thứ nhất, người phá giới, kém đức hạnh, chịu tổn thất lớn về tài sản do phóng túng buông lung. Thứ hai, tiếng xấu đồn xa. Thứ ba, bất cứ hội chúng nào người ấy bước vào, dù là hội chúng sát-đế-lỵ, bà-la-môn, cư sĩ hay sa-môn, người ấy đều thiếu tự tin, rụt rè sợ sệt. Thứ tư, khi chết tâm trí mê loạn. Thứ năm, sau khi thân hoại mạng chung, người ấy sinh vào cõi dữ, ác thú, đọa xứ, cho đến địa ngục.
 
-“But the virtuous man acquires these five benefits through perfection of virtue. What five? Here the virtuous man who has perfected virtue attains great wealth through diligence. Secondly, he acquires a good name. Thirdly, whatever assembly he goes into, whether of warrior-nobles or brahmans or householders or monks, he has assurance and does not want confidence. Fourthly, he dies unconfused. Fifthly, on the dissolution of the body, after death, he reappears in a happy destination, even in a heavenly world.”
+"Nhưng người có giới hạnh đạt được năm điều lợi ích nhờ giới đức vẹn toàn. Năm điều là gì? Ở đây, người có giới đức vẹn toàn đạt được tài sản dồi dào nhờ siêng năng cần mẫn. Thứ hai, tiếng tốt đồn xa. Thứ ba, bất cứ hội chúng nào người ấy bước vào, dù là hội chúng sát-đế-lỵ, bà-la-môn, cư sĩ hay sa-môn, người ấy đều đĩnh đạc, tràn đầy tự tin. Thứ tư, khi chết tâm trí không mê loạn. Thứ năm, sau khi thân hoại mạng chung, người ấy sinh vào cõi lành, cho đến cõi trời."
 
-Then when the Blessed One had instructed, urged, roused and encouraged the followers from Pāṭaligāma for much of the night, he dismissed them, saying: “Householders, the night is far spent; now it is time for you to do as you think fit.”
+Sau khi Thế Tôn giảng giải, khuyến khích, khích lệ và làm cho các thiện tín xứ Pāṭaligāma hoan hỷ suốt một phần lớn của đêm, Ngài cho họ ra về và bảo: "Này các cư sĩ, đêm đã khuya; nay đã hợp thời, các vị hãy làm những gì thấy thích hợp."
 
-“Even so, Lord,” they replied, and getting up from their seats, they paid homage to the Blessed One and departed, keeping him on their right. Soon after they had gone the Blessed One went to an empty room.
+"Bạch Thế Tôn, xin vâng," họ đáp, rồi đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn và đi nhiễu bên phải trước khi rời đi. Chẳng bao lâu sau khi họ đi, Thế Tôn lui về một căn phòng trống.
 
-At that time Sunidha and Vassakāra, Magadhan ministers, were having a city built at Pāṭaligāma in order to keep the Vajjians at bay. Hosts of deities were then haunting the fields there by the thousands. Now mighty deities sway the minds of mighty kings and ministers to build cities in places haunted by them. Mediocre deities sway the minds of mediocre kings and ministers to build cities in places haunted by them. Minor deities sway the minds of minor kings and ministers to build cities in places haunted by them. With the divine eye, which is purified and surpasses the human, the Blessed One saw those deities. Then when the night
-was near dawn the Blessed One rose, and he asked the venerable Ānanda: “Ānanda, who is having a city built at Pāṭaligāma?” “Sunidha and Vassakāra are having it done, Lord.”
+Bấy giờ, hai đại thần xứ Ma-kiệt-đà là Tôn-đà (Sunidha) và Vũ-xá (Vassakāra) đang cho xây dựng một thành quách tại Pāṭaligāma để phòng thủ trước dân Bạt-kỳ. Lúc ấy có hàng ngàn chư thiên lui tới các khu đất nơi đó. Chư thiên quyền lực thúc đẩy tâm trí của các bậc vua chúa và đại thần quyền lực xây dựng thành quách tại những nơi chư thiên ấy lui tới. Chư thiên bậc trung thúc đẩy tâm trí của các vua chúa và đại thần bậc trung xây dựng thành quách tại những nơi chư thiên ấy lui tới. Chư thiên bậc thấp thúc đẩy tâm trí của các vua chúa và đại thần bậc thấp xây dựng thành quách tại những nơi chư thiên ấy lui tới. Với thiên nhãn thanh tịnh siêu việt người phàm, Thế Tôn nhìn thấy chư thiên ấy. Khi đêm gần tàn, Thế Tôn thức dậy và hỏi đại đức Ānanda: "Này Ānanda, ai đang cho xây thành trì ở Pāṭaligāma vậy?"
 
-“They are doing it as though they had been counselled by the gods in the Heaven of the Thirty-three,” the Blessed One said, and he told what he had seen. He added: “Of all the resorts of noble ones and of all trading centres, Pāṭaliputta¹ will be the greatest of such cities as the place where the treasure-bags are unsealed. It risks three dangers: from fire, water, and dissension.”
+"Bạch Thế Tôn, Tôn-đà và Vũ-xá đang cho xây cất."
 
-Then Sunidha and Vassakāra went to the Blessed One and invited him for the following day’s meal. After the meal was over, when the Blessed One had eaten and no longer had the bowl in his hand, they took lower seats and sat down at one side. Then the Blessed One gave the blessing with these stanzas:
+"Họ làm việc đó cứ như thể đã được các vị trời ở cõi Ba Mươi Ba mách bảo," Thế Tôn nói, rồi kể lại những gì Ngài đã thấy. Ngài nói thêm: "Trong tất cả những nơi hội tụ của các bậc cao quý và các trung tâm buôn bán, Hoa Thị Thành (Pāṭaliputta) [1](/the-life-of-the-buddha/notes/15#1){.note} sẽ là đô thị vĩ đại nhất, là nơi các bao tàng trữ của cải được mở ra. Thành phố này sẽ đối mặt với ba mối hiểm họa: hỏa hoạn, lũ lụt và nội bộ chia rẽ."
 
-> Where a wise man makes his abode,  
-> There let him feed the virtuous  
-> Who live the good life self-controlled,  
-> And offer to the local gods—  
-> This honour and respect for them  
-> They will return to him in kind  
-> Because their love for him is like  
-> A mother’s love for her own child;  
-> And when a man is loved by gods,  
-> He always sees auspicious things.
+Sau đó, Tôn-đà và Vũ-xá đến gặp Thế Tôn và thỉnh Ngài dùng bữa thọ trai vào ngày hôm sau. Sau khi bữa ăn kết thúc, Thế Tôn đã dùng bữa xong và tay đã rời khỏi bình bát, hai vị ngồi xuống một bên trên những chiếc ghế thấp hơn. Rồi Thế Tôn chú nguyện bằng những vần kệ này:
 
-Then the Blessed One rose from his seat and went away. But on that occasion Sunidha and Vassakāra followed behind the Blessed One, thinking: “The gate by which the Blessed One leaves shall be called the Gotama Gate; the ford by which he crosses the Ganges shall be called the Gotama Ford.” And the gate by which the Blessed One left was called the Gotama Gate. But when the Blessed One came to the River Ganges, it was full and so brimming that crows could drink from it. Some people wanting to go to the further bank were looking for boats, others were looking for floats, and others were lashing rafts together. Then, as quickly as a strong man might extend his flexed arm or flex his extended arm, the Blessed One vanished with the Sangha of bhikkhus on the near bank of the Ganges and stood on the further bank. He saw the people who wanted to get across looking for boats, looking for
-floats, and lashing rafts together. Knowing the meaning of this, he then uttered this exclamation:
+> Nơi bậc trí an cư\
+> Hãy cúng dường người hiền\
+> Sống tự chế, phạm hạnh\
+> Dâng lễ vật chư thần—\
+> Lòng cung kính tôn trọng\
+> Được quỷ thần đáp đền\
+> Như mẹ thương con thảo\
+> Chở che bằng chân tình;\
+> Được chư thần ái hộ\
+> Thường gặp điều cát tường
 
-> While those who would cross the flooded stream  
-> Are bridge-building, avoiding deeps,  
-> While people lash their rafts together,  
-> The wise already are across.
+Rồi Thế Tôn rời chỗ ngồi và bước đi. Nhân dịp đó, Tôn-đà và Vũ-xá đi theo sau Thế Tôn và nghĩ: "Cổng mà Thế Tôn đi ra sẽ được gọi là Cổng Cù-đàm; bến nước mà Ngài qua sông Hằng sẽ được gọi là Bến Cù-đàm." Và cánh cổng Thế Tôn đi qua được đặt tên là Cổng Cù-đàm. Nhưng khi Thế Tôn đến sông Hằng, nước sông đầy ắp dâng lên đến tận bờ khiến quạ có thể cúi xuống uống được. Một số người muốn qua bờ bên kia đang tìm thuyền, người thì tìm phao, người thì kết bè. Bấy giờ, nhanh như một lực sĩ co duỗi cánh tay, Thế Tôn cùng Tăng đoàn tỳ-kheo biến mất ở bờ bên này sông Hằng và xuất hiện ngay ở bờ bên kia. Ngài thấy mọi người muốn qua sông đang nháo nhào tìm thuyền, tìm phao và kết bè. Hiểu rõ ý nghĩa của việc này, Thế Tôn liền thốt lên lời cảm thán:
 
-[D. 16](/link?q=dn-16){target=_black}; [Ud. 8:6](/link?q=ud-8.6){target=_black}; [Vin. Mv. 6:28](/link?q=vin.mv-6.28){target=_black}
+> Người muốn vượt dòng lũ\
+> Lo bắc cầu, tránh sâu\
+> Kẻ miệt mài kết bè\
+> Bậc trí đã sang bờ
 
-Then the Blessed One said to the venerable Ānanda: “Come, Ānanda, let us go to Koṭigāma.”
+[D. 16](/link?q=dn-16){target=_black}; [Ud. 8:6](/link?q=ud-8.6){target=_black}; [*Vin. Mv. 6:28](/link?q=vin.mv-6.15){target=_black}
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Koṭigāma with a large community of bhikkhus. There the Blessed One stayed in Koṭigāma. And there he addressed the bhikkhus thus: “Bhikkhus, it is through not discovering, not penetrating, four truths that both you and I have had to travel and trudge through this long round. What four? They are the noble truth of suffering, the noble truth of the origin of suffering, the noble truth of the cessation of suffering, and the noble truth of the way leading to the cessation of suffering. But when these Four Noble Truths are discovered and penetrated, craving for being is cut off, craving that leads to being is abolished, and there is no renewal of being.”
+Rồi Thế Tôn bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đi đến Koṭigāma."
 
-And while the Blessed One was living there at Koṭigāma, he often gave this talk on the Dhamma to the bhikkhus: “Such is virtue, such is concentration, such is understanding; concentration fortified with virtue brings great benefits and great fruits; understanding fortified with concentration brings great benefits and great fruits; the heart fortified with understanding becomes completely liberated from taints: from the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.”
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Koṭigāma. Đến nơi, Thế Tôn ngụ tại Koṭigāma. Ở đó, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, chính vì không hiểu biết, không thấu triệt bốn chân lý mà cả Ta và các ông đã phải trôi lăn, lặn ngụp trong vòng luân hồi dài dằng dặc này. Bốn chân lý ấy là gì? Đó là Thánh đế về khổ, Thánh đế về nguồn gốc của khổ, Thánh đế về sự diệt khổ, và Thánh đế về con đường đưa đến diệt khổ. Nhưng khi Bốn Thánh Đế này được hiểu biết và thấu triệt, tham ái đối với sinh hữu bị cắt đứt, tham ái dẫn đến tái sinh bị triệt tiêu, và không còn tái sinh nữa."
 
-[D. 16](/link?q=dn-16){target=_black}; [Vin. Mv. 6:29](/link?q=vin.mv-6.29){target=_black}
+Và trong thời gian Thế Tôn ngụ tại Koṭigāma, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-When the Blessed One had stayed at Koṭigāma as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Nādikā.”
+[D. 16](/link?q=dn-16){target=_black}; [*Vin. Mv. 6:29](/link?q=vin.mv-6.16){target=_black}
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Nādikā with a large community of bhikkhus. While there he lived in the Brick Hall in Nādikā.
+Khi Thế Tôn đã ở Koṭigāma bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Nādikā."
 
-Then the venerable Ānanda went to the Blessed One. He said: “Lord, the bhikkhu named Sāḷha died at Nādikā: what was his destination? What was his rebirth? The bhikkhunī named Nandā, the lay follower named Sudatta, the woman lay follower named Sujātā, the lay followers named Kakudha and Kālinga and Nikaṭa and Kaṭissabha and Tuṭṭha and Santuṭṭha and Bhadda and Subhadda—these died at Nādikā: what was their destination? What was their rebirth?”²
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Nādikā. Tại đó, Ngài ngụ tại Nhà Gạch ở Nādikā.
 
-“The bhikkhu Sāḷha, Ānanda, by realization himself here and now, entered upon and dwelt in the deliverance of mind and the deliverance by understanding that are taintless through exhaustion of taints. The bhikkhunī Nandā, with the destruction of the five more immediate fetters, reappeared spontaneously elsewhere, there to attain Nibbāna without ever returning from that world. The lay follower Sudatta, with the destruction of three fetters and with the attenuation of lust, hate and delusion, became a once-returner, who will return once to this world to make an end of suffering. The woman lay follower Sujātā, with the destruction of three fetters, became a stream-enterer, no more subject to perdition, certain of rightness, and destined to enlightenment. The lay followers Kakudha, Kālinga, Nikaṭa, Kaṭissabha, Tuṭṭha, Santuṭṭha, Bhadda and Subhadda and also fifty lay followers all became non-returners. Ninety lay followers became once-returners. Over five hundred lay followers became stream-enterers.
+Bấy giờ, đại đức Ānanda đến bên Thế Tôn và bạch rằng: "Bạch Thế Tôn, tỳ-kheo tên là Sāḷha đã mệnh chung tại Nādikā: cảnh giới tái sinh của vị ấy là gì? Vị ấy sinh về đâu? Tỳ-kheo-ni tên là Nandā, nam cư sĩ tên Sudatta, nữ cư sĩ tên Sujātā, các nam cư sĩ tên Kakudha, Kālinga, Nikaṭa, Kaṭissabha, Tuṭṭha, Santuṭṭha, Bhadda và Subhadda—những người này đã mệnh chung tại Nādikā: cảnh giới tái sinh của họ là gì? Họ sinh về đâu?" [2](/the-life-of-the-buddha/notes/15#2){.note}
 
-“Now it is natural for human beings to die; but if you come and ask this question each time one dies, it wearies the Perfect One. So I shall give you an exposition of the Dhamma called ‘the Mirror of the Dhamma,’ possessed of which a noble disciple can predict for himself: ‘There is no more hell for me, no more animal birth, no more ghost world, no more states of privation, unhappy destinations or perdition; I am a stream-enterer, no more subject to perdition, I am certain of rightness and destined to enlightenment.’
+"Này Ānanda, tỳ-kheo Sāḷha, nhờ tự mình chứng ngộ ngay trong hiện tại, đã chứng đạt và an trú trong tâm giải thoát và tuệ giải thoát vô lậu, do tận trừ các lậu hoặc. Tỳ-kheo-ni Nandā, nhờ đoạn trừ năm hạ phần kiết sử, đã hóa sinh ở cõi khác, từ đó nhập Niết-bàn mà không bao giờ trở lại thế giới này nữa. Nam cư sĩ Sudatta, nhờ đoạn trừ ba kiết sử và làm suy giảm tham, sân, si, đã chứng quả Nhất lai, sẽ chỉ trở lại thế gian này một lần duy nhất để chấm dứt khổ đau. Nữ cư sĩ Sujātā, nhờ đoạn trừ ba kiết sử, đã chứng quả Dự lưu, không còn bị đọa vào ác đạo, vững chắc hướng đến chánh giác. Các nam cư sĩ Kakudha, Kālinga, Nikaṭa, Kaṭissabha, Tuṭṭha, Santuṭṭha, Bhadda và Subhadda, cùng với năm mươi cư sĩ khác đều chứng quả Bất lai. Chín mươi cư sĩ đắc quả Nhất lai. Hơn năm trăm cư sĩ đắc quả Dự lưu.
 
-“And what is the exposition of the Dhamma called ‘the Mirror of the Dhamma’? Here a noble disciple has absolute confidence in the Buddha: ‘That Blessed One is such since he is accomplished, fully enlightened, perfect in knowledge and conduct, sublime, the knower of worlds, the incomparable leader of men to be tamed, the teacher of gods and men, enlightened, blessed.’ He has absolute confidence in the Dhamma: ‘The Dhamma is well proclaimed by the Blessed One, its effect is visible here and now, it is timeless (not delayed), it
-invites inspection, it is onward-leading, and it can be directly experienced by the wise.’ He has absolute confidence in the Sangha: ‘The Sangha of the Blessed One’s disciples has entered on the good way, has entered on the straight way, has entered on the true way, has entered on the proper way, that is to say, the four pairs of men, the eight types of persons³—this Sangha of the Blessed One’s disciples is fit for gifts, hospitality, offerings and reverential salutation, as an incomparable field of merit for the world.’ He is perfect in the virtues beloved of noble ones, unbroken, untorn, unblotched, unmottled, emancipating, commended by the wise, not misapprehended, and conducive to concentration. This is the exposition of the Dhamma called ‘the Mirror of the Dhamma,’ possessing which a noble disciple can predict for himself: ‘There is no more hell for me, ... I am a stream-enterer, no more subject to perdition, I am certain of rightness and destined to enlightenment.’”
+"Này Ānanda, sinh ra là người thì chết là chuyện tự nhiên; nhưng nếu mỗi lần có người qua đời, ông lại đến hỏi Ta câu này, thì sẽ làm phiền bậc Toàn Thiện. Vì vậy, Ta sẽ thuyết cho ông một pháp môn gọi là 'Tấm gương Chánh pháp', nhờ nắm giữ pháp môn này mà một vị Thánh đệ tử có thể tự mình dự đoán: 'Ta đã dứt sạch địa ngục, dứt sạch cõi súc sinh, dứt sạch cõi ngạ quỷ, không còn đọa vào cảnh ngộ khốn cùng, ác thú hay đọa xứ nữa; ta là bậc Dự lưu, không còn bị đọa lạc, chắc chắn hướng về nẻo chánh và sẽ đạt được giác ngộ.'
 
-And while the Blessed One was living there at Nādikā in the Brick Hall, he often gave this talk on the Dhamma to the bhikkhus: “Such is virtue, such is concentration, such is understanding; concentration fortified with virtue brings great benefits and great fruits; understanding fortified with concentration brings great benefits and great fruits; the heart fortified with understanding becomes completely liberated from taints: from the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.”
+"Và thế nào là pháp môn 'Tấm gương Chánh pháp'? Ở đây, vị Thánh đệ tử có lòng tịnh tín bất động nơi Đức Phật: 'Đức Thế Tôn là bậc Ứng Cúng, Chánh Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Vị ấy có lòng tịnh tín bất động nơi Giáo pháp: 'Giáo pháp được Thế Tôn khéo thuyết giảng, thiết thực hiện tại, vượt thời gian, đến để mà thấy, có khả năng hướng thượng, được người trí tự mình chứng nghiệm.' Vị ấy có lòng tịnh tín bất động nơi Tăng đoàn: 'Tăng đoàn đệ tử Thế Tôn khéo tu tập, chân chánh tu tập, như lý tu tập, đúng phép tu tập, tức là bốn đôi tám vị; [3](/the-life-of-the-buddha/notes/15#3){.note} Tăng đoàn đệ tử Thế Tôn này đáng được cung kính, đáng được cúng dường, đáng được tôn trọng, đáng được chắp tay đảnh lễ, là ruộng phước vô thượng ở đời.' Vị ấy viên mãn các giới đức được các bậc Thánh yêu quý, giới không sứt mẻ, không rách nát, không tì vết, không đốm bẩn, đem lại tự do giải thoát, được người trí tán thán, không bị hiểu sai và dẫn đến định tâm. Đây chính là pháp môn 'Tấm gương Chánh pháp', nhờ đó một vị Thánh đệ tử có thể tự mình thấu biết: 'Ta đã dứt sạch địa ngục, ... ta là bậc Dự lưu, không còn bị đọa lạc, chắc chắn hướng về nẻo chánh và sẽ đạt được giác ngộ.'"
+
+Và trong thời gian Thế Tôn ngụ tại Nhà Gạch ở Nādikā, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
 [D. 16](/link?q=dn-16){target=_black}
 
-When the Blessed One had stayed at Nādikā as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Vesālī.”
+Khi Thế Tôn đã ở Nādikā bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Tỳ-xá-ly (Vesālī)."
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Vesālī with a large number of bhikkhus. While there he lived in Ambapālī’s Grove in Vesālī. There he addressed the bhikkhus thus: “Bhikkhus, a bhikkhu should live mindful and fully aware; this is our instruction to you. And how should a bhikkhu live mindful? Here a bhikkhu abides contemplating the body as a body, ardent, fully aware, mindful, having put away covetousness and grief for the world. He abides contemplating feelings as feelings, ardent, fully aware, mindful, having put away covetousness and grief for the world. He abides contemplating consciousness as consciousness, ardent, fully aware, mindful, having put away covetousness
-and grief for the world. He abides contemplating mental objects as mental objects, ardent, fully aware, mindful, having put away covetousness and grief for the world. And how is a bhikkhu fully aware? Here a bhikkhu is fully aware in moving to and fro, in looking ahead and away, in flexing and extending the limbs, in wearing the outer patched cloak, the bowl and other robes, in eating, drinking, chewing and tasting, in evacuating the bowels and making water, in walking, standing, sitting, going to sleep, waking, talking and keeping silent. A bhikkhu should live mindful and fully aware: this is our instruction to you.”
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng số lượng lớn tỳ-kheo khởi hành đi Tỳ-xá-ly. Tại đó, Ngài ngụ trong vườn của Ambapālī ở Tỳ-xá-ly. Ở đó, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, một tỳ-kheo nên sống chánh niệm và tỉnh giác; đây là lời giáo giới của Ta dành cho các ông. Và thế nào là một tỳ-kheo sống chánh niệm? Ở đây, tỳ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Vị ấy sống quán thọ trên các thọ, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Vị ấy sống quán tâm trên tâm, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Vị ấy sống quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Và thế nào là một tỳ-kheo tỉnh giác? Ở đây, tỳ-kheo tỉnh giác khi đi tới đi lui, khi nhìn thẳng nhìn quanh, khi co tay duỗi tay, khi mang y tăng-già-lê, bình bát và các y khác, khi ăn, uống, nhai, nếm, khi đại tiện tiểu tiện, khi đi, đứng, ngồi, nằm, thức, nói và im lặng. Tỳ-kheo nên sống chánh niệm và tỉnh giác: đây là lời giáo giới của Ta dành cho các ông."
 
 [D. 16](/link?q=dn-16){target=_black}; cf. [D. 22](/link?q=dn-22){target=_black}
 
-Now Ambapālī the courtesan heard that the Blessed One had come to Vesālī and was living in her mango (*amba*) grove. She had a number of state coaches made ready. She mounted one of them and drove with them out of Vesālī towards her own mango grove, going thus as far as the way was passable for carriages. Then she alighted and went on foot to where the Blessed One was. She paid homage to him and sat down at one side. When she had done so, the Blessed One instructed, urged, roused and encouraged her with talk on the Dhamma. Then she said to him: “Lord, let the Blessed One together with the Sangha of bhikkhus accept tomorrow’s meal from me.” The Blessed One consented in silence. When she saw that he had consented, she rose from her seat, and after paying homage to him, departed, keeping him on her right.
+Bấy giờ, kỹ nữ Ambapālī nghe tin Thế Tôn đã đến Tỳ-xá-ly và đang ngụ trong vườn xoài (*amba*) của nàng. Nàng bèn chuẩn bị nhiều cỗ xe lộng lẫy, bước lên một chiếc rồi cùng đoàn xe rời Tỳ-xá-ly hướng về vườn xoài của mình, đi xa đến mức xe cộ còn đi được. Nàng xuống xe, đi bộ đến chỗ Thế Tôn ngự. Nàng đảnh lễ Ngài rồi ngồi xuống một bên. Khi nàng đã yên vị, Thế Tôn dùng các pháp thoại giảng giải, khích lệ, sách tấn và làm cho nàng hoan hỷ. Rồi nàng bạch với Ngài: "Bạch Thế Tôn, kính xin Thế Tôn cùng Tăng đoàn tỳ-kheo nhận lời thọ trai ngày mai tại nhà con." Thế Tôn im lặng nhận lời. Thấy Ngài đã hứa khả, nàng đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu bên phải rồi ra về.
 
-But the Licchavis of Vesālī also heard that the Blessed One was living in Ambapālī’s mango grove. They too had a number of state coaches made ready, and mounting them, they drove out of Vesālī. Some were in blue, painted blue, clothed in blue with blue ornaments. Some were in yellow, painted yellow, clothed in yellow with yellow ornaments. Some were in red, painted red, clothed in red with red ornaments. Some were in white, painted white, clothed in white with white ornaments.
+Các vương tử dòng Lệ-xa (Licchavi) xứ Tỳ-xá-ly cũng nghe tin Thế Tôn đang ngụ trong vườn xoài của Ambapālī. Họ cũng cho chuẩn bị nhiều cỗ xe lộng lẫy rồi lái xe ra khỏi thành Tỳ-xá-ly. Có nhóm mặc y phục xanh, vẽ mình màu xanh, đeo trang sức màu xanh. Nhóm khác mặc y phục vàng, vẽ mình màu vàng, đeo trang sức màu vàng. Nhóm khác sắc đỏ, vẽ mình màu đỏ, mang trang sức đỏ. Nhóm khác y phục trắng, vẽ mình màu trắng, mang trang sức trắng.
 
-Ambapālī the courtesan met the young Licchavis head on, axle to axle, wheel to wheel, yoke to yoke. Then they said to her: “Hey, Ambapālī, why are you meeting the young Licchavis head on, axle to axle, wheel to wheel, yoke to yoke?”
+Kỹ nữ Ambapālī gặp các thanh niên dòng Lệ-xa đối đầu trực diện, trục xe chạm trục xe, bánh xe chạm bánh xe, ách xe chạm ách xe. Họ bèn hỏi nàng: "Này Ambapālī, cớ sao nàng lại lái xe đối đầu trực diện với các thanh niên dòng Lệ-xa, trục chạm trục, bánh chạm bánh, ách chạm ách như thế này?"
 
-“Sirs, I have just invited the Sangha of bhikkhus headed by the Blessed One for tomorrow’s meal.”
+"Thưa các ngài, tôi vừa thỉnh Thế Tôn cùng Tăng đoàn tỳ-kheo ngày mai thọ trai tại nhà tôi."
 
-“Hey, Ambapālī, hand over that meal to us for a hundred thousand.”
+"Này Ambapālī, hãy nhượng bữa ăn đó cho chúng tôi với giá một trăm ngàn đồng tiền vàng."
 
-“Sirs, I would not hand over tomorrow’s meal even if you gave me Vesālī with all its lands.”
+"Thưa các ngài, dẫu các ngài có dâng cả thành Tỳ-xá-ly cùng toàn bộ lãnh thổ cho tôi, tôi cũng không nhượng lại bữa ăn ngày mai."
 
-Then the Licchavis snapped their fingers: “Oh, the mango girl has beaten us, the mango girl has outwitted us!”
+Bấy giờ, các vương tử Lệ-xa búng tay tiếc rẻ: "Ôi, chúng ta đã bị con bé hái xoài đánh bại, chúng ta đã bị con bé hái xoài phỗng tay trên!"
 
-They drove on towards Ambapālī’s grove. The Blessed One saw them coming in the distance. He told the bhikkhus: “Let the bhikkhus who have never seen the deities in the Heaven of the Thirty-three look at the band of Licchavis, let them observe the band of Licchavis, let them imagine the deities of the Heaven of the Thirty-three to be like this band of Licchavis.”
+Họ lái xe đi tiếp đến vườn của Ambapālī. Từ đằng xa, Thế Tôn thấy họ đang tiến lại. Ngài bảo các tỳ-kheo: "Vị tỳ-kheo nào chưa từng thấy chư thiên ở cõi Ba Mươi Ba, hãy nhìn đoàn người Lệ-xa này, hãy quan sát đoàn người Lệ-xa này, hãy hình dung chư thiên cõi Ba Mươi Ba cũng rực rỡ tương tự như đoàn người Lệ-xa này vậy."
 
-The Licchavis drove as far as the way was passable for carriages. Then they alighted and went on foot to where the Blessed One was. They paid homage to him and sat down at one side. Then the Blessed One instructed, urged, roused and encouraged them with talk on the Dhamma. Afterwards they said to him: “Lord, let the Blessed One together with the Sangha of bhikkhus accept tomorrow’s meal from us.”
+Các vương tử Lệ-xa lái xe đi xa đến mức đường sá còn đi được. Rồi họ xuống xe, đi bộ đến chỗ Thế Tôn ngự. Họ đảnh lễ Ngài rồi ngồi xuống một bên. Thế Tôn dùng các bài pháp giảng giải, khích lệ, sách tấn và làm cho họ hoan hỷ. Sau đó, họ bạch với Ngài: "Bạch Thế Tôn, kính xin Thế Tôn cùng Tăng đoàn tỳ-kheo nhận lời thọ trai ngày mai của chúng con."
 
-“I have already accepted tomorrow’s meal, Licchavis, from Ambapālī the courtesan.”
+"Này các vị Lệ-xa, Ta đã nhận lời thọ trai ngày mai của kỹ nữ Ambapālī rồi."
 
-Then the Licchavis snapped their fingers: “Oh, the mango girl has beaten us, the mango girl has outwitted us!”
+Các vương tử Lệ-xa lại búng tay tiếc rẻ: "Ôi, chúng ta đã bị con bé hái xoài đánh bại, chúng ta đã bị con bé hái xoài phỗng tay trên!"
 
-However, they were happy and satisfied with the Blessed One’s words, and they got up from their seats and departed, keeping him on their right.
+Tuy nhiên, họ vẫn hoan hỷ và thỏa mãn trước những lời dạy của Thế Tôn, họ đứng dậy khỏi chỗ ngồi, đi nhiễu bên phải Ngài rồi ra về.
 
-So when the night was over, the courtesan Ambapālī had various kinds of good food prepared in her own park, and she had the time announced: “It is time, Lord, the meal is ready.”
+Đêm ấy qua đi, kỹ nữ Ambapālī cho chuẩn bị nhiều món ăn ngon lành tại hoa viên của mình, rồi báo tin: "Bạch Thế Tôn, đã đến giờ, bữa ăn đã sẵn sàng."
 
-When the Blessed One had eaten and no longer had the bowl in his hand, Ambapālī took a low seat and sat down at one side. She said: “Lord, I present this mango grove to the Sangha of bhikkhus headed by the Blessed One.” The Blessed One accepted the park, and after he had instructed her with talk on the Dhamma, he rose from his seat and went away.
+Khi Thế Tôn đã dùng bữa xong và tay rời khỏi bình bát, Ambapālī lấy một chiếc ghế thấp ngồi xuống một bên. Nàng bạch: "Bạch Thế Tôn, con xin dâng cúng vườn xoài này lên Tăng đoàn tỳ-kheo do Đức Phật dẫn đầu." Thế Tôn thọ nhận khu vườn, và sau khi giáo huấn nàng bằng một bài pháp thoại, Ngài rời chỗ ngồi ra về.
 
-And while the Blessed One was living there at Vesālī in Ambapālī’s grove, he often gave this talk on the Dhamma to the bhikkhus: “Such is virtue, such is concentration, such is understanding; concentration fortified with virtue brings great benefits and great fruits;
-understanding fortified with concentration brings great benefits and great fruits; the heart fortified with understanding becomes completely liberated from taints: from the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.”
+Và trong thời gian Thế Tôn ngụ tại Tỳ-xá-ly trong vườn của Ambapālī, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-[D. 16](/link?q=dn-16){target=_black}; [Vin. Mv. 6:30](/link?q=vin.mv-6.30){target=_black}
+[D. 16](/link?q=dn-16){target=_black}; [*Vin. Mv. 6:30](/link?q=vin.mv-6.17){target=_black}
 
-When the Blessed One had lived in Ambapālī’s grove as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Beluvagāmaka.”
+Khi Thế Tôn đã ở trong vườn của Ambapālī bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Beluvagāmaka."
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Beluvagāmaka with a large community of bhikkhus. While there he lived in Beluvagāmaka. There he addressed the bhikkhus thus: “Come, bhikkhus, take up residence for the rains in the neighbourhood of Vesālī wherever you have friends or companions or acquaintances. I shall take up residence for the rains here at Beluvagāmaka.”
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Beluvagāmaka. Đến nơi, Ngài ngụ tại Beluvagāmaka. Ở đó, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, hãy an cư kiết hạ quanh vùng Tỳ-xá-ly, nơi nào các ông có bạn bè, thân hữu hoặc người quen. Còn Ta sẽ an cư kiết hạ tại Beluvagāmaka này."
 
-“Even so, Lord,” they replied. And they did so.
+"Bạch Thế Tôn, xin vâng," các vị đáp, và làm theo lời dạy.
 
-After the Blessed One had taken up residence for the rains, a severe sickness attacked him with violent and deadly pains. He bore them without complaint, mindful and fully aware. Then he thought: “It is not right for me to attain final Nibbāna without having addressed my attendants and taken leave of the Sangha of bhikkhus. Suppose I forcibly suppressed this sickness by prolonging the will to live?” He did so. And then the sickness abated.
+Sau khi Thế Tôn bước vào mùa an cư, một cơn bệnh ngặt nghèo ập đến với những cơn đau đớn dữ dội gần như cướp đi sinh mạng. Ngài chịu đựng tất cả mà không hề than van, giữ vững chánh niệm và tỉnh giác. Rồi Ngài nghĩ: "Thật không phải phép nếu Ta nhập Đại Bát-niết-bàn mà không nhắn nhủ các thị giả và từ biệt Tăng đoàn tỳ-kheo. Hay là Ta dùng nghị lực kìm giữ cơn bệnh này lại bằng cách duy trì thọ mạng?" Ngài đã làm như vậy, và cơn bệnh thuyên giảm.
 
-The Blessed One recovered from that sickness. Soon afterwards he came out from the sick-room and sat on a seat made ready at the back of the dwelling. The venerable Ānanda went to him and said: “I have been used to seeing the Blessed One in comfort and in health, Lord. Indeed, with the Blessed One’s sickness I felt as if my body were quite rigid, I could not see straight, my ideas were all unclear. However, Lord, I comforted myself knowing that the Blessed One would not attain final Nibbāna without a pronouncement about the Sangha of bhikkhus.”
+Thế Tôn bình phục sau cơn bạo bệnh. Ít lâu sau, Ngài rời khỏi phòng bệnh và ngồi vào một chỗ đã chuẩn bị sẵn phía sau tịnh xá. Đại đức Ānanda đến bên Ngài và thưa: "Bạch Thế Tôn, con đã quen nhìn thấy Thế Tôn được an khang, khỏe mạnh. Thật vậy, khi thấy Thế Tôn lâm bệnh, con cảm thấy toàn thân bải hoải, mắt mờ đi, đầu óc hoàn toàn tăm tối. Tuy nhiên, bạch Thế Tôn, con tự an ủi mình rằng Thế Tôn sẽ không nhập Đại Bát-niết-bàn khi chưa có lời di giáo trăn trối nào về Tăng đoàn tỳ-kheo."
 
-“But, Ānanda, what does the Sangha expect of me? The Dhamma I have taught has no secret and public versions: there is no ‘teacher’s closed fist’ about good things here. Surely it would be someone who thought thus: ‘I shall govern the Sangha’ or ‘The Sangha depends on me’ who might make a pronouncement about the Sangha? A Perfect One does not think like that. How then can he make a
-pronouncement about the Sangha? Now I am old, Ānanda, my years have turned eighty: just as an old cart is made to carry on with the help of makeshifts, so too, it seems to me, the Perfect One’s body is made to carry on with the help of makeshifts. For the Perfect One’s body is only at ease when with non-attention to all signs and with cessation of certain kinds of feeling, he enters upon and dwells in the signless heart-deliverance. So, Ānanda, each of you should make himself his island,⁴ himself and no other his refuge; each of you should make the Dhamma his island, the Dhamma and no other his refuge. How does a bhikkhu do that? Here a bhikkhu abides contemplating the body as a body, ardent, fully aware and mindful, having put away covetousness and grief for the world. He abides contemplating feelings as feelings ... contemplating consciousness as consciousness ... contemplating mental objects as mental objects, ardent, fully aware, mindful, having put away covetousness and grief for the world. Either now or when I am gone, it is those, whoever they may be, who make themselves their island, themselves and no other their refuge, who make the Dhamma their island, the Dhamma and no other their refuge, who will be the foremost among my bhikkhus—of those, that is, who want to train.”
+"Này Ānanda, Tăng đoàn còn mong đợi gì ở Ta nữa? Giáo pháp Ta giảng dạy không hề phân biệt bản bí truyền hay công khai; không hề có chuyện 'nắm tay giấu nghề của ông thầy' đối với những điều tốt lành nơi đây. Chắc chắn chỉ có ai nghĩ rằng: 'Ta sẽ lãnh đạo Tăng đoàn' hay 'Tăng đoàn phụ thuộc vào ta' thì người ấy mới để lại lời trăn trối cho Tăng đoàn. Bậc Toàn Thiện không hề nghĩ như thế. Vậy làm sao Ngài có thể để lại lời trăn trối về Tăng đoàn? Nay Ta đã già rồi, này Ānanda, tuổi đã tám mươi; như một cỗ xe cũ kỹ phải nhờ chắp vá tạm bợ mới chạy tiếp được, thân xác của bậc Toàn Thiện dường như cũng phải nhờ chắp vá tạm bợ mới duy trì được như thế. Thân của bậc Toàn Thiện chỉ cảm thấy an ổn khi không chú tâm đến mọi tướng trạng và chấm dứt một số thọ cảm nhất định, chứng đạt và an trú trong vô tướng tâm giải thoát. Do đó, này Ānanda, mỗi người trong các ông hãy tự biến mình thành một hòn đảo, [4](/the-life-of-the-buddha/notes/15#4){.note} lấy chính mình làm nơi nương tựa chứ không ai khác; hãy lấy Chánh pháp làm hòn đảo, lấy Chánh pháp làm nơi nương tựa chứ không nương tựa vào điều gì khác. Một tỳ-kheo làm điều đó bằng cách nào? Ở đây, tỳ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác và chánh niệm, nhiếp phục tham ưu ở đời. Vị ấy sống quán thọ trên các thọ... quán tâm trên tâm... quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Dù là bây giờ hay sau khi Ta đã ra đi, bất cứ ai tự biến mình thành hòn đảo, lấy chính mình làm nơi nương tựa chứ không ai khác, lấy Chánh pháp làm hòn đảo, lấy Chánh pháp làm nơi nương tựa chứ không điều gì khác—những vị ấy sẽ là những người đứng đầu trong số các tỳ-kheo của Ta—nghĩa là trong số những ai có chí nguyện tu học."
 
 [D. 16](/link?q=dn-16){target=_black}; [S. 47:9](/link?q=SN-47.9){target=_black}
 
-NARRATOR TWO. Although it is not explicitly so stated in the Piṭakas, the Buddha appears to have visited Sāvatthī at this point, and it was while he was staying there that the news of the death of the two chief disciples reached him.
+NGƯỜI KỂ HAI. Dù không được nêu rõ trong Tam tạng kinh điển, nhưng dường như Đức Phật đã đến thăm Xá-vệ (Sāvatthī) vào thời điểm này, và chính trong thời gian ngụ tại đó, tin tức về sự viên tịch của hai vị đại đệ tử đã truyền đến Ngài.
 
-FIRST VOICE. The Blessed One was living at one time at Sāvatthī in Jeta’s Grove, Anāthapiṇḍika’s Park. But at that time the venerable Sāriputta was living at Nālagāmaka in the Magadhan country: he was afflicted, suffering and gravely ill. The novice Cunda was his attendant. With that sickness the venerable Sāriputta attained final Nibbāna. Then the novice Cunda took the venerable Sāriputta’s bowl and robes; and he went to the venerable Ānanda in Jeta’s Grove at Sāvatthī. He paid homage to him and said: “Lord, the venerable Sāriputta has attained final Nibbāna. These are his bowl and robes.”
+GIỌNG ĐỌC THỨ NHẤT. Một thời Thế Tôn đang ngụ tại Xá-vệ, trong rừng Kỳ-đà (Jeta), tại tinh xá của ông Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, tôn giả Xá-lợi-phất đang ở Nālagāmaka thuộc xứ Ma-kiệt-đà, ngài bị lâm bệnh nặng, đau đớn và ốm liệt giường. Sa-di Thuần-đà (Cunda) là thị giả của ngài. Qua cơn bệnh đó, tôn giả Xá-lợi-phất đã nhập Đại Bát-niết-bàn. Sa-di Thuần-đà liền ôm bình bát và y áo của tôn giả Xá-lợi-phất, tìm đến gặp đại đức Ānanda tại rừng Kỳ-đà ở Xá-vệ. Sa-di đảnh lễ tôn giả và bạch: "Bạch thầy, tôn giả Xá-lợi-phất đã nhập Đại Bát-niết-bàn. Đây là bình bát và y áo của ngài."
 
-“Friend Cunda, this should be told to the Blessed One for his information; we should see the Blessed One and tell him this. Let us go and tell him.”
+"Này hiền giả Thuần-đà, việc này cần phải được bạch lên Thế Tôn để Ngài hay biết; chúng ta nên đến gặp Thế Tôn và trình báo việc này. Chúng ta hãy đi bạch với Ngài."
 
-“Even so, Lord,” the novice Cunda replied. They went together to the Blessed One and paid homage to him. Then they sat down at one side, and the venerable Ānanda said: “Lord, this novice Cunda has told me that the venerable Sāriputta has attained final Nibbāna, and that these are his bowl and robes. Indeed, Lord, when I heard this, I felt as though my body were quite rigid; I could not see straight, and all my ideas were unclear.”
+"Bạch thầy, xin vâng," sa-di Thuần-đà đáp. Cả hai cùng đến chỗ Thế Tôn và đảnh lễ Ngài. Rồi họ ngồi xuống một bên, và đại đức Ānanda bạch rằng: "Bạch Thế Tôn, chú sa-di Thuần-đà này báo tin cho con biết tôn giả Xá-lợi-phất đã nhập Đại Bát-niết-bàn, và đây là bình bát cùng y áo của ngài. Thật vậy, bạch Thế Tôn, khi nghe tin này, con cảm thấy toàn thân bải hoải, mắt mờ đi, đầu óc hoàn toàn tăm tối."
 
-“Why, Ānanda, do you think that by attaining final Nibbāna he has taken away the code of virtue or the code of concentration or the code of understanding or the code of deliverance or the code of knowledge and vision of deliverance?”
+"Này Ānanda, phải chăng ông nghĩ rằng khi nhập Đại Bát-niết-bàn, vị ấy đã mang theo toàn bộ giới uẩn, định uẩn, tuệ uẩn, giải thoát uẩn hay giải thoát tri kiến uẩn đi mất sao?"
 
-“Not that, Lord. But I think how helpful he was to his fellows in the holy life, advising, informing, instructing, urging, rousing and encouraging them; how tireless he was in teaching them the Dhamma. We remember how the venerable Sāriputta fed us and enriched us and helped us with the Dhamma.”
+"Bạch Thế Tôn, không phải vậy. Nhưng con nghĩ đến việc ngài đã tận tình giúp đỡ các bạn đồng phạm hạnh ra sao: luôn khuyên nhủ, thông báo, hướng dẫn, khuyến khích, khích lệ và làm cho họ hoan hỷ; ngài đã không mệt mỏi truyền dạy Chánh pháp như thế nào. Chúng con nhớ lại tôn giả Xá-lợi-phất đã nuôi dưỡng, làm giàu và trợ duyên cho chúng con bằng Chánh pháp ra sao."
 
-“Ānanda, have I not already told you that there is separation and parting and division from all that is dear and beloved? How could it be that what is born, come to being, formed, and subject to fall, should not fall? That is not possible. It is as if a main branch of a great tree standing firm and solid had fallen; so too, Sāriputta has attained final Nibbāna in a great community that stands firm and solid. How could it be that what is born, come to being, formed, and bound to fall, should not fall? That is not possible. Therefore, Ānanda, each of you should make himself his island, himself and no other his refuge; each of you should make the Dhamma his island, the Dhamma and no other his refuge.”
+"Này Ānanda, chẳng phải Ta đã từng nói với ông rằng sẽ có sự ly tán, phân ly và cách biệt đối với tất cả những gì ta yêu quý và trân trọng hay sao? Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu sự hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra. Ví như một cành lớn của một cây đại thụ vững chãi, sum sê bị gãy đổ; cũng vậy, Xá-lợi-phất đã nhập Đại Bát-niết-bàn giữa một đại chúng vững chãi và kiên cố. Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu sự hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra. Do đó, này Ānanda, mỗi người trong các ông hãy tự biến mình thành hòn đảo, lấy chính mình làm nơi nương tựa chứ không ai khác; hãy lấy Chánh pháp làm hòn đảo, lấy Chánh pháp làm nơi nương tựa chứ không nương tựa vào điều gì khác."
 
 [S. 47:13](/link?q=SN-47.13){target=_black}
 
-At one time the Blessed One was living with a large community of bhikkhus in the Vajjian country at Ukkācelā on the banks of the Ganges. It was soon after Sāriputta and Moggallāna had attained final Nibbāna. On that occasion the Blessed One was sitting in the open surrounded by the Sangha of bhikkhus. Then, after surveying the silent Sangha of bhikkhus, he addressed them thus: “Now the assembly seems to me as though it were empty. The assembly is empty for me now that Sāriputta and Moggallāna have attained final Nibbāna. There is nowhere that one can look to and say, ‘Sāriputta and Moggallāna are living there.’ The Blessed Ones in the past,
-accomplished and fully enlightened, each had a pair of disciples the equal of Sāriputta and Moggallāna, and so will those in the future. It is wonderful, it is marvellous in the disciples how they give effect to the Master’s teaching and carry out his advice, and how they are dear to the Sangha and loved and respected and revered by the Sangha! It is wonderful, it is marvellous in the Perfect One that when such a pair of disciples has attained final Nibbāna, he neither sorrows nor laments! How could it be that what is born, come to being, formed, and bound to fall, should not fall? That is not possible.”
+Một thời Thế Tôn cùng đại chúng tỳ-kheo ngụ tại xứ Bạt-kỳ ở Ukkācelā, bên bờ sông Hằng. Sự việc diễn ra không lâu sau khi Xá-lợi-phất và Mục-kiền-liên (Moggallāna) nhập Đại Bát-niết-bàn. Vào dịp ấy, Thế Tôn đang ngồi giữa trời thanh tịnh, xung quanh có Tăng đoàn tỳ-kheo vây quanh. Sau khi nhìn quanh Tăng chúng đang im lặng, Ngài bảo các tỳ-kheo: "Giờ đây đối với Ta, hội chúng dường như trống vắng. Hội chúng này quả thật trống vắng đối với Ta khi Xá-lợi-phất và Mục-kiền-liên đã nhập Đại Bát-niết-bàn. Không còn nơi nào để Ta nhìn vào và nói rằng: 'Xá-lợi-phất và Mục-kiền-liên đang ở đó.' Chư Thế Tôn trong quá khứ, trọn lành và chánh đẳng giác, mỗi vị đều có một đôi đại đệ tử tương đương như Xá-lợi-phất và Mục-kiền-liên, và chư Phật trong tương lai cũng sẽ như thế. Thật kỳ diệu, thật phi thường nơi các đệ tử, khi họ thực hành theo lời giáo giới của bậc Đạo Sư và làm theo lời chỉ dạy của Ngài, và họ được Tăng chúng quý mến, thương kính, tôn trọng và đảnh lễ dường bao! Thật kỳ diệu, thật phi thường nơi bậc Toàn Thiện, khi một đôi đệ tử ưu tú như thế đã nhập Đại Bát-niết-bàn, mà Ngài không hề sầu não hay than khóc! Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể nào xảy ra."
 
 [S. 47:14](/link?q=SN-47.14){target=_black}
 
-One morning the Blessed One dressed, and taking his bowl and robe, he went into Vesālī for alms. When he had wandered for alms in Vesālī and had returned from his alms round after his meal, he spoke to the venerable Ānanda: “Take a mat, Ānanda, let us go to the Cāpāla Shrine to pass the day.”
+Một buổi sáng nọ, Thế Tôn đắp y, cầm bát và thượng y đi vào thành Tỳ-xá-ly khất thực. Sau khi đi khất thực ở Tỳ-xá-ly và dùng bữa xong, Ngài trở về và bảo đại đức Ānanda: "Này Ānanda, hãy mang theo tọa cụ, chúng ta hãy đến đền Cāpāla để nghỉ trưa."
 
-“Even so, Lord,” the venerable Ānanda replied, and he took a mat and followed after the Blessed One to the Cāpāla Shrine. There the Blessed One sat down on a seat made ready, and the venerable Ānanda paid homage to him and sat down at one side. When he had done so, the Blessed One said: “Vesālī is agreeable, Ānanda, and so are the Udena Shrine, the Gotamaka Shrine, the Sattambaka Shrine, the Bahuputta Shrine, the Sārandada Shrine and the Cāpāla Shrine. When anyone has maintained in being and developed the four bases for success, made them the vehicle, made them the foundation, established, consolidated and properly undertaken them, he could if he wished live out the age or what remains of the age. Ānanda, the Perfect One has done all that; he could if he wished live out the age or what remains of the age.”
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda đáp, rồi cầm tọa cụ đi theo Thế Tôn đến đền Cāpāla. Tại đó, Thế Tôn ngồi xuống chỗ đã dọn sẵn, đại đức Ānanda đảnh lễ Ngài rồi ngồi xuống một bên. Khi tôn giả đã yên vị, Thế Tôn bảo: "Tỳ-xá-ly thật khả ái, này Ānanda; các đền Udena, đền Gotamaka, đền Sattambaka, đền Bahuputta, đền Sārandada và đền Cāpāla cũng đều khả ái. Bất cứ ai đã tu tập và phát triển bốn thần túc, lấy chúng làm cỗ xe, lấy chúng làm nền tảng, thiết lập vững chắc, củng cố và thực hành thuần thục, người ấy nếu muốn có thể sống trọn một kiếp hoặc phần còn lại của một kiếp. Này Ānanda, bậc Toàn Thiện đã làm trọn tất cả những điều đó; Ngài nếu muốn có thể sống trọn một kiếp hoặc phần còn lại của một kiếp."
 
-Even when such a broad hint, such a plain sign, was given by the Blessed One, still the venerable Ānanda could not understand it. He did not beg the Blessed One: “Lord, let the Blessed One live out the age, let the Sublime One live out the age, for the welfare and happiness of many, out of compassion for the world, for the good and welfare and happiness of gods and men,” so much was his mind under Māra’s influence. A second and a third time the Blessed One said the same thing, and the venerable Ānanda’s mind remained under Māra’s influence.⁵ Then the Blessed One told the venerable Ānanda: “You may go, Ānanda, now it is time to do as you like.”
+Ngay cả khi một lời gợi ý rõ ràng, một dấu hiệu hiển nhiên như thế được Thế Tôn đưa ra, đại đức Ānanda vẫn không thể hiểu được. Tôn giả đã không khẩn cầu Thế Tôn: "Bạch Thế Tôn, kính xin Thế Tôn hãy sống trọn một kiếp, kính xin bậc Thiện Thệ hãy sống trọn một kiếp, vì lợi ích và hạnh phúc của số đông, vì lòng từ bi đối với đời, vì sự tốt lành, lợi ích và hạnh phúc của chư thiên và loài người," bởi tâm trí của tôn giả lúc ấy đã bị Ma vương (Māra) chi phối nặng nề. Lần thứ hai rồi lần thứ ba, Thế Tôn lặp lại lời ấy, nhưng tâm trí đại đức Ānanda vẫn bị Ma vương che mờ. [5](/the-life-of-the-buddha/notes/15#5){.note} Rồi Thế Tôn bảo đại đức Ānanda: "Này Ānanda, ông có thể đi, nay đã hợp thời, ông hãy làm những gì thấy thích hợp."
 
-“Even so, Lord,” he replied, and rising from his seat he paid homage to the Blessed One. Then, keeping him on his right, he went away to sit down at the root of a nearby tree.
+"Bạch Thế Tôn, xin vâng," tôn giả đáp, rồi rời chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu bên phải Ngài rồi đến ngồi dưới một gốc cây gần đó.
 
-Soon after he had gone, Māra the Evil One came to the Blessed One and stood at one side. He said: “Let the Blessed One attain final Nibbāna now, let the Sublime One attain final Nibbāna now. Now is the time for the Blessed One to attain final Nibbāna. These words were once spoken by the Blessed One: ‘I will not attain final Nibbāna, Evil One, until the bhikkhus, bhikkhunīs, laymen followers and laywomen followers, my disciples, are wise, disciplined, perfectly confident, and learned, until they remember the Dhamma properly, practise the way of the Dhamma, practise the true way, and walk in the Dhamma, until after learning from their own teachers they announce and teach and declare and establish and reveal and expound and explain, until they can reasonably confute the theories of others that arise and can teach the Dhamma with its marvels.’ But now all that has been accomplished. Let the Blessed One attain final Nibbāna now. These words were spoken by the Blessed One: ‘I will not attain final Nibbāna, Evil One, until this holy life has become successful, prosperous, widespread, and disseminated among many, until it is well exemplified by men.’ But now all that has been accomplished. Let the Blessed One attain final Nibbāna now.”
+Không lâu sau khi tôn giả rời đi, Ác ma Ba-tuần (Māra) đến bên Thế Tôn, đứng sang một bên và nói: "Bạch Thế Tôn, nay xin Thế Tôn hãy nhập Đại Bát-niết-bàn, xin bậc Thiện Thệ hãy nhập Đại Bát-niết-bàn. Đã đến lúc Thế Tôn nhập Đại Bát-niết-bàn rồi. Lời này xưa kia Thế Tôn đã từng phán: 'Này Ác ma, Ta sẽ không nhập Đại Bát-niết-bàn chừng nào các tỳ-kheo, tỳ-kheo-ni, nam cư sĩ và nữ cư sĩ là đệ tử của Ta chưa trở thành những người sáng suốt, có kỷ cương, đầy tự tin và uyên bác, chừng nào họ chưa ghi nhớ Chánh pháp tường tận, chưa thực hành đúng đường lối Chánh pháp, chưa đi trên con đường chân chánh và bước đi trong Chánh pháp, chừng nào sau khi học hỏi từ các bậc thầy của mình họ chưa thể công bố, giảng dạy, tuyên thuyết, thiết lập, hiển lộ, phân tích và giải thích, chừng nào họ chưa thể dùng lý lẽ bác bỏ những tà thuyết của kẻ khác khởi lên và truyền dạy Chánh pháp vi diệu nhiệm mầu.' Nhưng giờ đây, tất cả những điều đó đều đã thành tựu. Kính xin Thế Tôn hãy nhập Đại Bát-niết-bàn. Lời này xưa kia Thế Tôn đã từng phán: 'Này Ác ma, Ta sẽ không nhập Đại Bát-niết-bàn chừng nào đời sống phạm hạnh này chưa trở nên thành công, thịnh vượng, rộng khắp và lan truyền giữa số đông, chừng nào nó chưa được loài người thể hiện trọn vẹn.' Nhưng giờ đây tất cả những điều đó đều đã thành tựu viên mãn. Kính xin Thế Tôn hãy nhập Đại Bát-niết-bàn."
 
-When this was said, the Blessed One replied: “You may rest, Evil One. Soon the Perfect One’s attainment of final Nibbāna will take place. Three months from now the Perfect One will attain final Nibbāna.”
+Nghe vậy, Thế Tôn đáp: "Này Ác ma, ngươi hãy yên lòng. Chẳng bao lâu nữa sự viên tịch Bát-niết-bàn của bậc Toàn Thiện sẽ diễn ra. Ba tháng kể từ hôm nay, bậc Toàn Thiện sẽ nhập Đại Bát-niết-bàn."
 
-It was then, at the Cāpāla Shrine, that the Blessed One, mindful and fully aware, relinquished the will to live. When he did so, there was a great earthquake, fearful and hair-raising, and the drums of heaven resounded. Knowing the meaning of this, the Blessed One then uttered this exclamation:
+Chính vào lúc ấy, tại đền Cāpāla, Thế Tôn đã chánh niệm tỉnh giác từ bỏ thọ mạng. Ngay khi Ngài buông bỏ, một trận đại địa chấn kinh hoàng dựng tóc gáy xảy ra, và sấm trời vang rền. Hiểu rõ ý nghĩa của việc này, Thế Tôn liền thốt lên lời cảm thán:
 
-The sage renounced the life-affirming will  
-Both measurable and immeasurable,  
-And concentrated inwardly and happy too  
-He shed his self-becoming like a coat of mail.
+> Bậc trí xả thọ mạng\
+> Cả hữu lậu, vô vi\
+> Tâm định tĩnh, an lạc\
+> Trút sinh mạng như giáp
 
-The venerable Ānanda thought: “It is wonderful, it is marvellous! That was a great earthquake, a very great earthquake; it was fearful and hair-raising, and the drums of heaven resounded. What
-was the cause, what was the reason for the manifestation of that great earthquake?”
+Đại đức Ānanda nghĩ thầm: "Thật kỳ diệu, thật phi thường! Đó là một trận đại địa chấn, một trận động đất dữ dội; thật đáng sợ và dựng tóc gáy, sấm trời lại vang rền rĩ. Đâu là nhân, đâu là duyên khiến cho trận đại địa chấn này xuất hiện?"
 
-He went to the Blessed One, and after paying homage to him, he sat down at one side. When he had done so, he asked the Blessed One about the earthquake.
+Tôn giả đến bên Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Khi đã yên vị, tôn giả bạch hỏi Thế Tôn về trận động đất.
 
-“There are eight causes, Ānanda, eight reasons for the manifestation of great earthquakes. What are the eight? This great earth stands in water, the water stands in air, and the air in space. There are occasions when great winds blow (great forces move); the great winds blowing (great forces moving) make the water quake; the water quaking makes the earth quake. This is the first reason. Again, a monk or brahman may possess supernormal power and have reached mind-mastery, or deities may be mighty and powerful. One who has maintained in being the perception of earth limitedly and the perception of water measurelessly can rock this earth and make it quake and shake and tremble. This is the second reason. Again, when a Bodhisatta, mindful and fully aware, passes away from the Heaven of the Contented and descends into his mother’s womb, then the earth rocks and quakes and shakes and trembles. This is the third reason. Again, when a Bodhisatta, mindful and fully aware, comes forth from his mother’s womb, then the earth rocks ... This is the fourth reason. Again, when a Perfect One discovers the supreme full enlightenment, then the earth rocks ... This is the fifth reason. Again, when a Perfect One sets the matchless Wheel of the Dhamma rolling, then the earth rocks ... This is the sixth reason. Again, when a Perfect One, mindful and fully aware, relinquishes the will to live, then the earth rocks ... This is the seventh reason. Again, when a Perfect One attains final Nibbāna with the Nibbāna element without result of past clinging left, then the earth rocks ... This is the eighth reason.”[^6]
+"Này Ānanda, có tám nhân, có tám duyên làm xuất hiện các trận đại địa chấn. Tám nhân duyên là gì? Quả đại địa này nằm trên nước, nước nằm trên khí, và khí nằm trên không gian. Có những lúc đại phong nổi lên (những nguồn lực lớn chuyển động); gió lớn thổi (các nguồn lực chuyển động) làm nước xao động; nước xao động làm đất rung chuyển. Đây là nguyên nhân thứ nhất. Lại nữa, một sa-môn hay bà-la-môn có thần thông đã làm chủ tâm ý, hoặc chư thiên đầy oai lực và quyền năng. Một người đã tu tập tưởng về đất một cách hạn chế và tưởng về nước vô lượng có thể làm rung chuyển quả đất này, khiến nó lắc lư, rung động và chấn động. Đây là nguyên nhân thứ hai. Lại nữa, khi một vị Bồ-tát chánh niệm tỉnh giác từ bỏ cõi trời Đâu-suất giáng trần vào bụng mẹ, quả đất này liền rung rinh, lay động, chấn động và run rẩy. Đây là nguyên nhân thứ ba. Lại nữa, khi vị Bồ-tát chánh niệm tỉnh giác đản sinh từ bụng mẹ, quả đất này rung chuyển... Đây là nguyên nhân thứ tư. Lại nữa, khi bậc Toàn Thiện chứng ngộ quả vị vô thượng chánh đẳng chánh giác, quả đất này rung chuyển... Đây là nguyên nhân thứ năm. Lại nữa, khi bậc Toàn Thiện chuyển Pháp Luân vô thượng, quả đất này rung chuyển... Đây là nguyên nhân thứ sáu. Lại nữa, khi bậc Toàn Thiện chánh niệm tỉnh giác từ bỏ ý muốn duy trì thọ mạng, quả đất này rung chuyển... Đây là nguyên nhân thứ bảy. Lại nữa, khi bậc Toàn Thiện nhập Đại Bát-niết-bàn với Niết-bàn giới không còn dư tàn của chấp thủ, quả đất này rung chuyển... Đây là nguyên nhân thứ tám." [6](/the-life-of-the-buddha/notes/15#6){.note}
 
 [D. 16](/link?q=dn-16){target=_black}; [A. 8:70](/link?q=AN-8.70){target=_black}; [Ud. 6:1](/link?q=ud-6.1){target=_black}
 
-“Once, Ānanda, when I was newly enlightened, while I was living at Uruvelā on the banks of the Nerañjarā River at the root of the Goatherd’s Banyan Tree, Māra the Evil One came to me and said: ‘Let the Blessed One attain final Nibbāna now.’ Then the Blessed One went on to tell all that had passed between him and Māra. Then he said: “And now, Ānanda, this very day at the Cāpāla Shrine the Blessed One, mindful and fully aware, has relinquished his will to live.”
+"Này Ānanda, xưa kia khi Ta mới thành đạo, lúc Ta đang ở Uruvelā bên bờ sông Nerañjarā dưới gốc cây bàng của người chăn dê, Ác ma Ba-tuần đã đến gặp Ta và nói: 'Bạch Thế Tôn, xin Thế Tôn hãy nhập Đại Bát-niết-bàn ngay bây giờ.'" Rồi Thế Tôn kể lại tất cả những gì đã diễn ra giữa Ngài và Ác ma. Tiếp đó Ngài phán: "Và nay, Ānanda, chính ngày hôm nay tại đền Cāpāla này, Thế Tôn đã chánh niệm tỉnh giác từ bỏ thọ mạng."
 
-When he heard this, the venerable Ānanda said: “Lord, let the Blessed One live out the age, let the Sublime One live out the age, for the welfare and happiness of many, out of compassion for the world, for the good, the welfare and the happiness of gods and men.”
+Nghe vậy, đại đức Ānanda bạch rằng: "Bạch Thế Tôn, kính xin Thế Tôn hãy sống trọn một kiếp, kính xin bậc Thiện Thệ hãy sống trọn một kiếp, vì lợi ích và hạnh phúc của số đông, vì lòng từ bi đối với đời, vì sự tốt lành, lợi ích và hạnh phúc của chư thiên và loài người."
 
-“Enough, Ānanda, do not ask that of the Perfect One now; the time to ask that of the Perfect One has now gone by.”
+"Thôi đi, Ānanda, nay đừng thỉnh cầu bậc Toàn Thiện việc ấy nữa; thời điểm thỉnh cầu bậc Toàn Thiện điều đó nay đã qua rồi."
 
-A second time the venerable Ānanda made the same request and received the same answer. The third time the Blessed One said:
+Lần thứ hai đại đức Ānanda nhắc lại lời thỉnh cầu và nhận được câu trả lời như cũ. Đến lần thứ ba, Thế Tôn phán:
 
-“Have you faith in the Perfect One’s enlightenment, Ānanda?”
+"Này Ānanda, ông có lòng tin nơi sự giác ngộ của bậc Toàn Thiện không?"
 
-“Yes, Lord.”
+"Bạch Thế Tôn, con tin."
 
-“Then why do you press the Perfect One up to the third time?”
+"Vậy cớ sao ông lại nài ép bậc Toàn Thiện đến ba lần?"
 
-“Lord, I heard and learned this from the Blessed One’s lips: ‘When anyone has maintained in being and developed the four bases for success, made them the vehicle, made them the foundation, established, consolidated and properly undertaken them, he could if he wished live out the age, or what remains of the age.’”
+"Bạch Thế Tôn, chính miệng Thế Tôn con đã được nghe và ghi nhận điều này: 'Bất cứ ai đã tu tập và phát triển bốn thần túc, lấy chúng làm cỗ xe, lấy chúng làm nền tảng, thiết lập vững chắc, củng cố và thực hành thuần thục, người ấy nếu muốn có thể sống trọn một kiếp hoặc phần còn lại của một kiếp.'"
 
-“Have you faith, Ānanda?”
+"Này Ānanda, ông có tin không?"
 
-“Yes, Lord.”
+"Bạch Thế Tôn, con tin."
 
-“Then, Ānanda, the wrongdoing is yours, the fault is yours; for even when such a broad hint, such a plain sign, was given by the Perfect One, you could not understand it, and you did not beg the Perfect One to live out the age for the good, the welfare and happiness of gods and men. If you had done so, the Perfect One would have refused you twice, and then, at the third time, he would have consented. So, Ānanda, the wrongdoing is yours, the fault is yours. Once when I was living at Rājagaha on the Vulture Peak Rock, there too I told you: ‘Rājagaha is delightful, Ānanda, and so is Vulture Peak Rock. When anyone has maintained in being and developed the four bases for success ... he could if he wished live out the age, or what remains of the age. Ānanda, the Perfect One has done this. He could if he wished live out the age or what remains of the age.’ But even when such a broad hint, such a plain sign, was given by the Perfect One, you could not understand it, and you did not beg the Perfect One: ‘Lord, let the Blessed One live out the age, let the Sublime One live out the age, for the welfare and happiness of many, out of compassion for the world, for the good and welfare and happiness of gods and men.’ If you had done so, the Perfect One would have refused you twice, and then, at the third time, he would have consented. So, Ānanda, the wrongdoing is yours, the
-fault is yours. Once too when I was living at Rājagaha in the Nigrodha Park ... on the Robbers’ Cliff ... on the slopes of the Vebhāra ... in the Sattapaṇṇi Cave ... on the Black Rock on the slopes of Isigili ... under the Overhanging Rock of the Serpents’ Pool in the Cool Grove ... in the Park of the Hot Spring ... in the Bamboo Grove, the Squirrels’ Sanctuary ... in Jīvaka’s Mango Grove ... in the Deer Park at Maddakucchi ... Once too when I was living here at Vesālī in the Udena Shrine ... in the Gotamaka Shrine ... in the Sattamba Shrine ... in the Bahuputta Shrine ... in the Sārandada Shrine ... and now too, here in the Cāpāla Shrine today ... Have I not already told you, Ānanda, that there is separation and parting and division from all that is dear and beloved? How could it be that what is born, come to being, formed, and bound to fall, should not fall? That is not possible. Something has been given up by the Perfect One, dropped, let go, abandoned, relinquished by him; his will to live has been renounced. The unequivocal words have been uttered by the Perfect One: ‘Soon the Perfect One’s attainment of final Nibbāna will take place; three months from now the Perfect One will attain final Nibbāna.’ It is impossible for the Perfect One to go back on those words. Let us go to the Hall with the Pointed Roof in the Great Wood, Ānanda.”
+"Vậy thì, Ānanda, lỗi này là của ông, sai lầm này thuộc về ông; bởi vì ngay khi một lời gợi ý rõ ràng, một dấu hiệu hiển nhiên như thế được bậc Toàn Thiện đưa ra, ông đã không thể hiểu được, và ông đã không khẩn cầu bậc Toàn Thiện sống trọn một kiếp vì sự tốt lành, lợi ích và hạnh phúc của chư thiên và loài người. Nếu ông thỉnh cầu, bậc Toàn Thiện có thể từ chối ông hai lần, nhưng đến lần thứ ba Ngài sẽ nhận lời. Do đó, này Ānanda, lỗi này là của ông, sai lầm này thuộc về ông.
 
-“Even so, Lord,” the venerable Ānanda replied, and when they went there the Blessed One addressed the venerable Ānanda: “Ānanda, go and summon all the bhikkhus in the neighbourhood of Vesālī to meet in the service hall.”
+"Xưa kia khi Ta ở Vương Xá trên đỉnh núi Linh Thứu, ở đó Ta cũng đã từng bảo ông: 'Vương Xá thật khả ái, này Ānanda, và đỉnh Linh Thứu cũng khả ái. Bất cứ ai đã tu tập và phát triển bốn thần túc... người ấy nếu muốn có thể sống trọn một kiếp hoặc phần còn lại của một kiếp. Này Ānanda, bậc Toàn Thiện đã làm điều này. Ngài nếu muốn có thể sống trọn một kiếp hoặc phần còn lại của một kiếp.' Nhưng ngay cả khi một lời gợi ý rõ ràng, một dấu hiệu hiển nhiên như thế được bậc Toàn Thiện đưa ra, ông đã không hiểu được, và ông đã không khẩn cầu bậc Toàn Thiện: 'Bạch Thế Tôn, kính xin Thế Tôn sống trọn một kiếp, kính xin bậc Thiện Thệ sống trọn một kiếp, vì lợi ích và hạnh phúc của số đông, vì lòng từ bi đối với đời, vì sự tốt lành, lợi ích và hạnh phúc của chư thiên và loài người.' Nếu ông làm vậy, bậc Toàn Thiện có thể từ chối ông hai lần, nhưng đến lần thứ ba Ngài sẽ nhận lời. Do đó, Ānanda, lỗi này là của ông, sai lầm này thuộc về ông.
 
-“Even so, Lord,” the venerable Ānanda replied. When he had done that, he informed the Blessed One. Then the Blessed One went to the service hall and sat down on the seat made ready, and he addressed the bhikkhus thus:
+"Một lần khác khi Ta ở Vương Xá tại công viên Nigrodha... tại Vực Kẻ Trộm... trên sườn núi Vebhāra... trong động Thất Diệp... trên Đá Đen bên sườn Isigili... dưới Mỏm Đá Nhô của Hồ Mãng Xà trong Rừng Mát... tại Vườn Suối Nước Nóng... trong Trúc Lâm nơi nuôi dưỡng sóc... trong Vườn Xoài của Jīvaka... tại Vườn Hươu ở Maddakucchi... Lại một lần khác khi Ta ở Tỳ-xá-ly tại đền Udena... tại đền Gotamaka... tại đền Sattamba... tại đền Bahuputta... tại đền Sārandada... và hôm nay, ngay tại đền Cāpāla này cũng thế... Này Ānanda, chẳng phải Ta đã từng nói với ông rằng sẽ có sự ly tán, phân ly và cách biệt đối với tất cả những gì ta yêu quý và trân trọng hay sao? Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra. Một điều gì đó đã được bậc Toàn Thiện buông bỏ, gác lại, rời xa, từ bỏ và xả ly; thọ mạng của Ngài đã được xả bỏ. Lời tuyên bố dứt khoát không thể thay đổi đã được bậc Toàn Thiện thốt ra: 'Chẳng bao lâu nữa sự nhập Đại Bát-niết-bàn của bậc Toàn Thiện sẽ diễn ra; ba tháng kể từ hôm nay bậc Toàn Thiện sẽ nhập Đại Bát-niết-bàn.' Bậc Toàn Thiện không thể nào rút lại những lời ấy. Này Ānanda, chúng ta hãy đến Giảng đường Trùng Các trong Rừng Đại Lâm."
 
-“Bhikkhus, I have now taught you things that I have directly known; these you should thoroughly learn and maintain in being, develop and constantly put into effect so that this holy life may endure long; you should do so for the welfare and happiness of many, out of compassion for the world, for the good and welfare and happiness of gods and men. And what are these things? They are the four foundations of mindfulness, the four right endeavours, the four bases for success, the five spiritual faculties, the five spiritual powers, the seven enlightenment factors, and the Noble Eightfold Path. I have taught you these things, having directly known them.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Khi họ đến đó, Thế Tôn bảo đại đức Ānanda: "Này Ānanda, hãy đi triệu tập tất cả các tỳ-kheo ở vùng lân cận Tỳ-xá-ly đến họp tại giảng đường."
 
-These you should thoroughly learn ... for the good and welfare and happiness of gods and men.”
+"Bạch Thế Tôn, xin vâng," tôn giả đáp. Sau khi làm xong việc đó, tôn giả bạch lại với Thế Tôn. Rồi Thế Tôn đến giảng đường, ngự trên chỗ đã dọn sẵn, và Ngài bảo các tỳ-kheo:
 
-Then the Blessed One addressed the bhikkhus thus: “Indeed, bhikkhus, I declare this to you: It is in the nature of all formations to dissolve. Attain perfection through diligence. Soon the Perfect One will attain final Nibbāna.” So the Blessed One said. The Sublime One having said this, the Master said further:
+"Này các tỳ-kheo, nay Ta đã giảng dạy cho các ông những pháp mà Ta đã tự mình chứng ngộ; các ông phải học hỏi thấu đáo, duy trì, tu tập và thường xuyên thực hành các pháp này, ngõ hầu đời sống phạm hạnh được trường tồn lâu dài; các ông hãy làm như vậy vì lợi ích và hạnh phúc của số đông, vì lòng từ bi đối với đời, vì sự tốt lành, lợi ích và hạnh phúc của chư thiên và loài người. Và các pháp ấy là gì? Đó là bốn niệm xứ, bốn chánh cần, bốn thần túc, năm căn, năm lực, bảy giác chi và Bát Thánh Đạo. Ta đã tự mình trực nhận và thuyết giảng cho các ông những pháp ấy. Các ông phải học hỏi thấu đáo... vì sự tốt lành, lợi ích và hạnh phúc của chư thiên và loài người."
 
-> Ripe is my age and little life remains to me:  
-> I leave you and depart; my own refuge is made.  
-> Be diligent and mindful, be virtuous, O bhikkhus,  
-> With thoughts well concentrated keep watch over your  
-> hearts.  
-> Who lives out diligently this Dhamma and Discipline  
-> Will leave the round of rebirths and make an end of pain.
+Rồi Thế Tôn bảo các tỳ-kheo: "Thật vậy, này các tỳ-kheo, Ta tuyên bố với các ông điều này: Bản chất của mọi pháp hữu vi là tan rã. Hãy hoàn thành mục tiêu bằng sự tinh cần bất phóng dật. Chẳng bao lâu nữa bậc Toàn Thiện sẽ nhập Đại Bát-niết-bàn." Thế Tôn dạy như vậy. Bậc Thiện Thệ sau khi nói lời này, bậc Đạo Sư lại dạy thêm:
 
-When it was morning, the Blessed One dressed, and taking his bowl and outer robe, he went into Vesālī for alms. When he had wandered for alms in Vesālī and was returning from his alms round after his meal, he turned to gaze at Vesālī with an elephant’s gaze. Then he said to the venerable Ānanda: “Ānanda, this will be the Perfect One’s last sight of Vesālī. Come, Ānanda, let us go to Bhaṇḍagāma.”
+> Tuổi Ta nay đã chín\
+> Mạng sống chẳng còn bao\
+> Ta từ biệt các ông\
+> Tự xây dựng nương tựa.
+>
+> Hãy chánh niệm, tinh cần\
+> Giữ giới đức tinh nghiêm\
+> Tỳ-kheo định tâm ý\
+> Canh chừng lấy tâm mình.\
+> Ai tinh tấn hành trì\
+> Trong Pháp và Luật này\
+> Sẽ thoát khỏi luân hồi\
+> Chấm dứt mọi khổ đau
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Bhaṇḍagāma with a large community of bhikkhus. While there he lived in Bhaṇḍagāma. And there he addressed the bhikkhus thus: “Bhikkhus, it is through not discovering, not penetrating four things that both I and you have had to travel and trudge thus through this long round. What are the four? They are the noble one’s virtue, the noble one’s concentration, the noble one’s understanding, and the noble one’s deliverance. But when these four things have been discovered and penetrated, then craving about being is cut off, craving that leads to being is abolished, and there is no renewal of being.”
+Sáng hôm sau, Thế Tôn đắp y, mang bát và thượng y đi vào thành Tỳ-xá-ly khất thực. Sau khi khất thực ở Tỳ-xá-ly và dùng bữa xong trở về, Ngài quay lại nhìn Tỳ-xá-ly bằng cái nhìn của bậc đại tượng vương. Rồi Ngài bảo đại đức Ānanda: "Này Ānanda, đây sẽ là lần cuối cùng bậc Toàn Thiện nhìn ngắm Tỳ-xá-ly. Nào, Ānanda, chúng ta hãy đến Bhaṇḍagāma."
+
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Bhaṇḍagāma. Đến nơi, Ngài ngụ tại Bhaṇḍagāma. Ở đó, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, chính vì không hiểu biết, không thấu triệt bốn pháp mà cả Ta và các ông đã phải trôi lăn, lặn ngụp lâu ngày trong vòng luân hồi này. Bốn pháp ấy là gì? Đó là Thánh giới, Thánh định, Thánh tuệ và Thánh giải thoát. Nhưng khi bốn pháp này đã được chứng ngộ và thấu triệt, thì tham ái về sinh hữu bị cắt đứt, tham ái dẫn đến tái sinh bị triệt tiêu, và không còn tái sinh nữa."
 
 [D. 16](/link?q=dn-16){target=_black}; cf. [A. 4:1](/link?q=AN-4.1){target=_black}
 
-And while the Blessed One was living there at Bhaṇḍagāma, he often gave this talk on the Dhamma to the bhikkhus: “Such is virtue, such is concentration, such is understanding; concentration fortified with virtue brings great benefits and fruits; understanding fortified with concentration brings great benefits and great fruits;
-the heart fortified with understanding becomes completely liberated from taints: from the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.”
+Và trong thời gian Thế Tôn ngụ tại Bhaṇḍagāma, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-When the Blessed One had lived at Bhaṇḍagāma as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Hattigāma.”
+Khi Thế Tôn đã ở Bhaṇḍagāma bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Hattigāma."
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Hattigāma with a large community of bhikkhus.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Hattigāma.
 
-And similarly he visited Ambagāma and Jambugāma. When he had lived at Jambugāma as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Bhoganagara.”
+Và tương tự, Ngài ghé thăm Ambagāma và Jambugāma. Khi đã ở Jambugāma bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Bhoganagara."
 
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One journeyed to Bhoganagara with a large community of bhikkhus. While there he lived in the Ānanda Shrine in Bhoganagara. And there he addressed the bhikkhus thus: “Bhikkhus, I shall teach you the four principal authorities. Listen and attend carefully to what I shall say.”
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Bhoganagara. Tại đó, Ngài ngụ ở đền Ānanda tại Bhoganagara. Ở đó, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, Ta sẽ dạy các ông bốn đại giáo pháp. Hãy lắng nghe và chú ý kỹ những gì Ta sắp nói."
 
-“Even so, Lord,” they replied. The Blessed One said this:
+"Bạch Thế Tôn, xin vâng," các vị đáp. Thế Tôn phán điều này:
 
-“Here, bhikkhus, a bhikkhu may say: ‘I heard and learned it from the Blessed One’s own lips; this is the Dhamma, this is the Discipline, this is the Master’s teaching.’ Or a bhikkhu may say: ‘In a certain dwelling place there is a community with elders and leaders; I heard and learned it from the lips of that community; this is the Dhamma, this is the Discipline, this is the Master’s teaching.’ Or a bhikkhu may say: ‘In a certain dwelling place many elder bhikkhus live who are learned, expert in the traditions, memorizers of the Discipline, memorizers of the Codes; I heard it from those elders’ own lips; this is the Dhamma, this is the Discipline, this is the Master’s teaching.’ Or a bhikkhu may say: ‘In a certain dwelling place an elder bhikkhu lives who is learned, expert in the traditions, a memorizer of the Discipline, a memorizer of the Codes; I heard and learned it from that elder’s own lips; this is the Dhamma, this is the Discipline, this is the Master’s teaching.’
+"Ở đây, này các tỳ-kheo, một tỳ-kheo có thể nói: 'Tôi đã nghe và học trực tiếp từ chính miệng Thế Tôn; đây là Pháp, đây là Luật, đây là lời dạy của bậc Đạo Sư.' Hoặc một tỳ-kheo có thể nói: 'Tại một trú xứ nọ có một Tăng chúng gồm các bậc trưởng lão và những người lãnh đạo; tôi đã nghe và học từ miệng Tăng chúng ấy; đây là Pháp, đây là Luật, đây là lời dạy của bậc Đạo Sư.' Hoặc một tỳ-kheo có thể nói: 'Tại một trú xứ nọ có nhiều vị trưởng lão tỳ-kheo cư ngụ, là những vị uyên bác, thông hiểu truyền thống, ghi nhớ Luật, ghi nhớ các Bản tụng quy tắc; tôi đã nghe từ chính miệng các vị trưởng lão ấy; đây là Pháp, đây là Luật, đây là lời dạy của bậc Đạo Sư.' Hoặc một tỳ-kheo có thể nói: 'Tại một trú xứ nọ có một vị trưởng lão tỳ-kheo cư ngụ, là bậc uyên bác, thông hiểu truyền thống, ghi nhớ Luật, ghi nhớ các Bản tụng quy tắc; tôi đã nghe và học từ chính miệng vị trưởng lão ấy; đây là Pháp, đây là Luật, đây là lời dạy của bậc Đạo Sư.'
 
-“Now such a bhikkhu’s statement should be neither approved nor disapproved. Without either approving or disapproving, those words and syllables of his should be well learned and then verified in the Vinaya (Discipline) or confirmed in the Suttas (Discourses). If they are found to be not verified in the Vinaya or confirmed in the Suttas, the conclusion to be drawn is this: ‘Certainly this is not the Blessed
-
-One’s word, it has been wrongly learned by that bhikkhu or by that community or by those elders or by that elder,’ and you should accordingly reject it. If, however, they are found to be verified in the Vinaya and confirmed in the Suttas, the conclusion to be drawn is this: ‘Certainly this is the Blessed One’s word. It has been rightly learned by that bhikkhu or by that community or by those elders or by that elder.’ You should remember these four principal authorities.”
+"Đối với lời nói của tỳ-kheo ấy, các ông không nên vội tán thành cũng không nên bác bỏ. Không tán thành cũng không bác bỏ, các từ ngữ và cú pháp ấy phải được học hỏi kỹ càng rồi đối chiếu với Luật hoặc kiểm chứng với Kinh. Nếu thấy chúng không khớp với Luật hoặc không được Kinh xác nhận, thì phải đi đến kết luận: 'Chắc chắn đây không phải là lời của Thế Tôn, điều này đã bị vị tỳ-kheo ấy, hoặc Tăng đoàn ấy, hoặc các vị trưởng lão ấy, hoặc vị trưởng lão ấy hiểu sai,' và theo đó các ông phải loại bỏ nó. Trái lại, nếu thấy chúng ăn khớp với Luật và được xác nhận trong Kinh, thì kết luận phải rút ra là: 'Chắc chắn đây chính là lời của Thế Tôn. Điều này đã được vị tỳ-kheo ấy, hoặc Tăng chúng ấy, hoặc các vị trưởng lão ấy, hoặc vị trưởng lão ấy ghi nhận đúng đắn.' Các ông hãy ghi nhớ bốn đại giáo pháp này."
 
 [D. 16](/link?q=dn-16){target=_black}; [A. 4:180](/link?q=AN-4.180){target=_black}
 
-And while the Blessed One was living there in Bhoganagara in the Ānanda Shrine, he often gave this talk on the Dhamma to the bhikkhus: “Such is virtue, such is concentration, such is understanding; concentration fortified with virtue brings great benefits and great fruits; understanding fortified with concentration brings great benefits and great fruits; the heart fortified with understanding becomes completely liberated from taints: from the taint of sensual desire, the taint of being, the taint of views, and the taint of ignorance.”
+Và trong thời gian Thế Tôn ngụ tại Bhoganagara ở đền Ānanda, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
 [D. 16](/link?q=dn-16){target=_black}
 
-Then, when the Blessed One had lived at Bhoganagara as long as he chose, he said to the venerable Ānanda: “Come, Ānanda, let us go to Pāvā.”
+Rồi khi Thế Tôn đã ở Bhoganagara bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Ba-bà (Pāvā)."
 
-“Even so, Lord, the venerable Ānanda replied. Then the Blessed One journeyed to Pāvā with a large community of bhikkhus. While there he lived in the mango grove in Pāvā belonging to Cunda the goldsmith’s son.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Ba-bà. Tại đó, Ngài ngụ trong vườn xoài ở Ba-bà của Thuần-đà (Cunda), con trai người thợ vàng.
 
-Cunda the goldsmith’s son heard that the Blessed One was living in his grove. He then went to the Blessed One, and after paying homage to him, he sat down at one side. Then the Blessed One instructed, urged, roused and encouraged him with talk on the Dhamma. Afterwards Cunda said to the Blessed One: “Lord, let the Blessed One with the Sangha of bhikkhus accept tomorrow’s meal from me.”
+Thuần-đà người thợ vàng nghe tin Thế Tôn đang ngụ trong hoa viên của mình. Anh liền đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Thế Tôn dùng các bài pháp giảng giải, khích lệ, sách tấn và làm cho anh hoan hỷ. Sau đó, Thuần-đà bạch với Thế Tôn: "Bạch Thế Tôn, kính xin Thế Tôn cùng Tăng đoàn tỳ-kheo ngày mai nhận bữa cơm do con cúng dường."
 
-The Blessed One consented in silence. When Cunda saw that he had accepted, he rose from his seat, and after paying homage to the Blessed One, he departed, keeping him on his right.
+Thế Tôn im lặng nhận lời. Thấy Ngài đã chấp thuận, Thuần-đà đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu bên phải Ngài rồi ra về.
 
-When the night was over, he had good food of various kinds
-prepared at his house and plenty of hog’s mincemeat,⁷ after which he had the time announced: “It is time, Lord, the meal is ready.” Then, it being morning, the Blessed One dressed, and taking his bowl and outer robe, he went with the Sangha of bhikkhus to Cunda the goldsmith’s son’s house. He sat down on the prepared seat. Then he told Cunda: “Serve the hog’s mincemeat you have had prepared to me, Cunda; but serve any other food you have had prepared to the Sangha of bhikkhus.”
+Qua đêm ấy, anh cho chuẩn bị tại nhà nhiều thức ăn ngon và một lượng lớn món mộc nhĩ nấm heo (sūkaramaddava), [7](/the-life-of-the-buddha/notes/15#7){.note} rồi thông báo giờ lành: "Bạch Thế Tôn, đã đến giờ, bữa ăn đã sẵn sàng." Sáng hôm ấy, Thế Tôn đắp y, mang bát và thượng y cùng Tăng đoàn tỳ-kheo đến nhà Thuần-đà người thợ vàng. Ngài ngồi vào chỗ đã dọn sẵn, rồi bảo Thuần-đà: "Này Thuần-đà, món nấm heo anh đã chuẩn bị hãy dọn riêng cho Ta; còn những món ăn khác anh đã nấu hãy dọn cho Tăng chúng tỳ-kheo."
 
-“Even so, Lord,” Cunda replied, and so he did. Then the Blessed One told him: “Cunda, if any hog’s mincemeat is left over, bury it in a hole. I do not see anyone other than the Perfect One in this world with its deities, its Māras and its Brahmās, in this generation with its monks and brahmans, with its princes and men, who could digest it if he ate it.”
+"Bạch Thế Tôn, xin vâng," Thuần-đà đáp, và làm theo lời dạy. Rồi Thế Tôn bảo anh: "Này Thuần-đà, nếu món nấm heo còn thừa lại, hãy chôn xuống một cái hố. Ta không thấy một ai trong thế giới này, cùng với chư thiên, Ma vương và Phạm thiên, giữa thế hệ này với các sa-môn, bà-la-môn, vương giả và người phàm, có thể tiêu hóa được món ấy nếu ăn vào, ngoại trừ bậc Toàn Thiện."
 
-“Even so, Lord,” Cunda replied, and he buried the left-over hog’s mincemeat in a hole. Then he went to the Blessed One, and after paying homage to him, he sat down at one side. Then the Blessed One instructed him with a talk on the Dhamma after which he got up from his seat and departed.
+"Bạch Thế Tôn, xin vâng," Thuần-đà đáp, và anh đem chôn phần nấm heo còn thừa xuống một cái hố. Sau đó anh đến bên Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Thế Tôn thuyết pháp chỉ dạy cho anh, rồi Ngài rời chỗ ngồi ra về.
 
-It was after the Blessed One had eaten the food provided by Cunda the goldsmith’s son that a severe sickness attacked him with a flux of blood accompanied by violent deadly pains. He bore it without complaint, mindful and fully aware. Then he said to the venerable Ānanda: “Come, Ānanda, let us go to Kusinārā.”
+Chính sau khi Thế Tôn dùng món ăn do người thợ vàng Thuần-đà cúng dường, một cơn bệnh kịch liệt ập đến với chứng kiết lỵ ra máu kèm theo những cơn đau xé ruột đe dọa tính mạng. Ngài nhẫn nại chịu đựng không một lời than vãn, chánh niệm và tỉnh giác. Rồi Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đi đến Câu-thi-na (Kusinārā)."
 
-“Even so, Lord,” the venerable Ānanda replied.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa.
 
-On the way the Blessed One left the road and went to the root of a tree. He said to the venerable Ānanda: “Ānanda, please fold my outer robe in four and lay it out; I am tired and I will sit down.”
+Trên đường đi, Thế Tôn rời lối mòn và đến bên một gốc cây. Ngài bảo đại đức Ānanda: "Này Ānanda, hãy gấp tấm thượng y của Ta làm tư rồi trải ra; Ta mệt rồi, Ta muốn ngồi nghỉ."
 
-“Even so, Lord,” the venerable Ānanda replied. The Blessed One sat down on the seat made ready. When he had done so, he said: “Ānanda, please fetch me some water. I am thirsty and I will drink.”
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda đáp. Thế Tôn ngồi xuống chỗ đã chuẩn bị sẵn. Khi đã an tọa, Ngài bảo: "Này Ānanda, hãy đi lấy cho Ta chút nước. Ta khát và muốn uống."
 
-The venerable Ānanda said: “Lord, some five hundred carts have just gone by; the water has been churned up by the wheels; it is flowing poorly and is thick and cloudy. The River Kakutthā is not far off with clear, pleasant, cool water and smooth banks, and is delightful. The Blessed One can drink there and cool his limbs.”
+Đại đức Ānanda thưa: "Bạch Thế Tôn, có khoảng năm trăm cỗ xe bò vừa mới đi qua; nước đã bị bánh xe khuấy tung lên; dòng nước chảy rất yếu, đục ngầu và bùn lầy. Sông Kakutthā cách đây không xa, nước trong vắt, ngọt ngào, mát mẻ với đôi bờ êm ả, thật dễ chịu. Thế Tôn có thể đến đó uống nước và làm mát dịu tứ chi."
 
-A second time the Blessed One asked and received the same reply. A third time the Blessed One said: “Ānanda, please fetch me some water. I am thirsty and I will drink.”
+Lần thứ hai Thế Tôn yêu cầu và nhận được câu trả lời tương tự. Lần thứ ba Thế Tôn lại bảo: "Này Ānanda, hãy đi lấy cho Ta chút nước. Ta khát và muốn uống."
 
-“Even so, Lord,” the venerable Ānanda replied. He took a bowl and went to the stream. Then the stream, which had been churned up by the wheels and was flowing poorly, thick and cloudy, flowed clear and limpid and clean as soon as the venerable Ānanda came to it. He was astonished. Then he took water for drinking in the bowl, and he returned to the Blessed One and told what had happened, adding: “Lord, let the Blessed One drink the water, let the Sublime One drink the water.” And the Blessed One drank the water.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Tôn giả cầm bát đi đến con suối. Bấy giờ, con suối vốn vừa bị bánh xe khuấy tung làm đục ngầu, bùn cặn và nước chảy lờ đờ, bỗng chốc trở nên trong veo, thanh khiết và sạch sẽ ngay khi đại đức Ānanda vừa bước tới. Tôn giả vô cùng kinh ngạc. Tôn giả múc nước vào bát đem về dâng Thế Tôn và kể lại sự việc, rồi thưa: "Bạch Thế Tôn, xin Thế Tôn hãy uống nước, xin bậc Thiện Thệ hãy uống nước." Và Thế Tôn đã uống bát nước ấy.
 
 [D. 16](/link?q=dn-16){target=_black}; [Ud. 8:5](/link?q=ud-8.5){target=_black}
 
-Now at that time a Mallian named Pukkusa, a disciple of Ālāra Kālāma’s, came by on the road from Kusināra to Pāvā. He saw the Blessed One sitting at the root of a tree, and he went up to him. After paying homage to him he sat down at one side and said: “It is wonderful, Lord, it is marvellous what a peaceful abiding those achieve who have gone forth into homelessness. Once when Ālāra Kālāma was on a journey, he left the road and sat down at the root of a nearby tree for his daytime abiding. Then as many as five hundred carts went by quite close to him. Afterwards a man came following behind that caravan of carts, and he approached Ālāra Kālāma and asked: ‘Lord, did you see five hundred carts go by?’ —‘I did not, friend.’—‘But, Lord, did you hear the noise?’—‘I did not, friend.’—‘But how then, Lord, were you asleep?’—‘I was not, friend.’—‘But how then, Lord, were you conscious?’—‘I was, friend.’—‘So then, Lord, you were conscious and awake, yet you neither saw the five hundred carts go by quite close nor heard the sound, although your outer robe is spattered with mud?’—‘Just so, friend.’ Then, Lord, that man thought: ‘It is wonderful, it is marvellous what a peaceful abiding those achieve who have gone forth into homelessness; for while they are conscious and awake, they neither see five hundred carts go by nor hear the sound!’ And after he had expressed his great confidence in Ālāra Kālāma he went on his way.”
+Lúc bấy giờ, một người thuộc tộc Mạt-la (Malla) tên là Pukkusa, đệ tử của A-la-la Ca-lam (Āḷāra Kālāma), đang đi trên con đường từ Câu-thi-na đến Ba-bà. Thấy Thế Tôn đang ngồi dưới một gốc cây, ông bước lại gần. Sau khi đảnh lễ Ngài, ông ngồi xuống một bên và thưa: "Thật kỳ diệu thay, bạch Thế Tôn, thật phi thường thay sự an trú tĩnh lặng mà những người xuất gia từ bỏ gia đình đạt được! Có lần thầy A-la-la Ca-lam đang trên một chuyến hành trình, ngài rời đường lớn và ngồi xuống dưới một gốc cây gần đó để nghỉ trưa. Bấy giờ có tới năm trăm cỗ xe bò đi qua ngay sát cạnh ngài. Sau đó, một người đàn ông đi sau đoàn xe ấy đến gặp A-la-la Ca-lam và hỏi: 'Thưa tôn giả, ngài có thấy năm trăm cỗ xe bò vừa đi qua không?' — 'Này bạn, tôi không thấy.' — 'Nhưng bạch tôn giả, ngài có nghe thấy tiếng ồn ào không?' — 'Này bạn, tôi không nghe.' — 'Vậy thưa tôn giả, ngài đang ngủ say chăng?' — 'Này bạn, tôi không ngủ.' — 'Vậy tôn giả vẫn tỉnh thức chứ?' — 'Này bạn, tôi vẫn tỉnh thức.' — 'Thế thì, bạch tôn giả, ngài vẫn tỉnh thức và không ngủ, vậy mà ngài không hề thấy năm trăm cỗ xe bò đi qua sát bên, cũng chẳng nghe thấy tiếng động gì, dẫu cho bùn đất văng bắn đầy cả thượng y của ngài sao?' — 'Đúng vậy, này bạn.' Bấy giờ, bạch Thế Tôn, người đàn ông ấy nghĩ thầm: 'Thật kỳ diệu thay, thật phi thường thay sự an trú tĩnh lặng mà những bậc xuất gia từ bỏ gia đình đạt được; khi họ vẫn tỉnh táo và thức tỉnh, mà họ chẳng thấy năm trăm cỗ xe đi qua cũng chẳng nghe thấy tiếng động!' Và sau khi bày tỏ niềm tin sâu sắc nơi A-la-la Ca-lam, người ấy tiếp tục lên đường."
 
-“What do you think, Pukkusa? Which is harder and more difficult to do—that a man who is conscious and awake should neither see five hundred carts go by quite close nor hear the sound of them, or that a man who is conscious and awake while it is raining torrents with lightning flashing and thunder pealing should neither see them nor hear the sound?”
+"Này Pukkusa, ông nghĩ sao? Điều nào khó hơn và khó thực hiện hơn—một người đang tỉnh táo thức giác mà không thấy năm trăm cỗ xe đi sát qua mình cũng chẳng nghe thấy tiếng động, hay một người đang tỉnh táo thức giác trong khi mưa tuôn xối xả, sấm chớp giật liên hồi đì đùng mà chẳng hề nhìn thấy hay nghe thấy tiếng động?"
 
-“Lord, what do five hundred, or six or seven or eight or nine hundred or even a thousand carts count? It is far harder and more difficult for a man who is conscious and awake when it is raining torrents with lightning flashing and thunder pealing neither to see them nor to hear the sound.”
+"Bạch Thế Tôn, năm trăm, sáu bảy tám chín trăm, hay thậm chí cả ngàn cỗ xe thì có đáng kể gì! Khó hơn và gian nan hơn nhiều cho một người đang tỉnh táo thức giác giữa lúc mưa tuôn xối xả, sét đánh ầm ầm mà không thấy gì cũng không nghe thấy tiếng động."
 
-“Once, Pukkusa, I was living near Ātumā in a threshing barn. It was raining torrents then with lightning flashing and thunder pealing, and two ploughmen who were brothers were killed and four oxen as well. Then a crowd of people came out from Ātumā, and they went to the two brothers and the oxen that had been killed. But by that time I had come out from the threshing barn and was walking up and down outside in the open in the doorway. Then a man came up to me from out of the crowd, and after paying homage to me, he stood at one side. I asked him: ‘Why has this crowd of people gathered, friend?’—Lord, it has been raining torrents with lightning flashing and thunder pealing, and two ploughmen who were brothers have been killed and four oxen as well; that is why there is this crowd of people gathered here. But you, Lord, where were you?’—‘I was here, friend.’—‘But did you see it, Lord?’—‘I did not, friend.’—‘But did you hear the sound, Lord?’—‘I did not, friend.’—‘But were you asleep, Lord?’—‘I was not, friend.’—‘But were you conscious, Lord?’—‘I was, friend.’—‘So then, Lord, you were conscious and awake while it was raining torrents with lightning flashing and thunder pealing yet you neither saw it nor heard the sound?’—‘Just so, friend.’ Then that man thought: ‘It is wonderful, it is marvellous what a peaceful abiding those achieve who have gone forth into homelessness; for though they are conscious and awake while it rains torrents with lightning flashing and thunder pealing, yet they neither see it nor hear the sound!’ And after he had expressed his complete confidence in me, he paid homage and departed, keeping me on his right.”
+"Này Pukkusa, có một lần Ta ở gần Ātumā trong một vựa đập lúa. Khi ấy trời mưa như trút nước, sấm sét đùng đùng xé toạc bầu trời, hai anh em người nông phu cùng bốn con bò cày bị sét đánh chết. Dân chúng từ Ātumā đổ xô kéo ra, họ đến vây quanh hai anh em và đàn bò bị sét đánh. Lúc ấy, Ta đã bước ra khỏi vựa lúa và đang đi kinh hành ngoài trời ngay trước cửa. Một người đàn ông trong đám đông tiến lại gần Ta, sau khi đảnh lễ, người ấy đứng sang một bên. Ta hỏi: 'Này bạn, cớ sao đám đông dân chúng lại tụ tập đông đảo thế kia?' — 'Bạch Tôn giả, vừa có trận mưa như trút nước, sét đánh vang trời, hai anh em người cày ruộng cùng bốn con bò đã bị sét đánh chết; vì thế đám đông mới kéo ra tụ tập ở đây. Nhưng thưa Tôn giả, lúc ấy ngài ở đâu?' — 'Này bạn, Ta ở ngay đây.' — 'Nhưng Tôn giả có thấy cảnh đó không?' — 'Này bạn, Ta không thấy.' — 'Vậy ngài có nghe thấy tiếng động không?' — 'Này bạn, Ta không nghe.' — 'Bạch Tôn giả, ngài ngủ gật chăng?' — 'Này bạn, Ta không ngủ.' — 'Vậy ngài vẫn tỉnh thức chứ?' — 'Này bạn, Ta vẫn tỉnh thức.' — 'Thế thì, bạch Tôn giả, ngài vẫn tỉnh táo thức giác giữa lúc mưa tuôn xối xả, sấm chớp đùng đùng giật liên hồi mà ngài không hề nhìn thấy, cũng chẳng hề nghe thấy tiếng động ư?' — 'Đúng vậy, này bạn.' Bấy giờ người ấy nghĩ thầm: 'Thật kỳ diệu thay, thật phi thường thay sự an trú tĩnh lặng mà những bậc xuất gia từ bỏ gia đình đạt được; dù họ tỉnh táo thức giác giữa lúc mưa tuôn xối xả, sấm sét đùng đùng, họ vẫn không thấy cũng không nghe thấy tiếng!' Sau khi bày tỏ niềm tin trọn vẹn nơi Ta, người ấy đảnh lễ, đi nhiễu bên phải Ta rồi rời đi."
 
-“Lord, I let the faith I had in Ālāra Kālāma be, as it were, blown away by a high wind or carried off by a swift-flowing river. Magnificent, Lord, magnificent, Lord! ... I go to the Blessed One and to the Dhamma and to the Sangha for refuge. Beginning from today, Lord, let the Blessed One receive me as his follower who has gone to him for refuge for as long as breath lasts.”
+"Bạch Thế Tôn, niềm tin xưa kia con dành cho A-la-la Ca-lam nay như bị cơn cuồng phong thổi bạt đi, hay như bị dòng nước xiết cuốn trôi mất rồi. Thật kỳ diệu thay, bạch Thế Tôn! Thật phi thường thay, bạch Thế Tôn!... Con xin quy y Thế Tôn, quy y Pháp và quy y Tăng. Kính xin Thế Tôn nhận con làm đệ tử cư sĩ đã quy y nương tựa nơi Ngài từ nay cho đến trọn đời."
 
-Then Pukkusa the Mallian told a man: “Please fetch me a pair of cloth-of-gold robes pressed and ready to wear.”
+Rồi Pukkusa người Mạt-la bảo người hầu: "Hãy mang lại đây cho ta một đôi y dệt bằng chỉ vàng đã được ủi phẳng, sẵn sàng để mặc."
 
-“Yes, Lord,” the man answered, and he brought them. Then Pukkusa took them to the Blessed One: “Lord, let the Blessed One out of compassion accept from me this pair of cloth-of-gold robes pressed and ready to wear.”
+"Xin vâng, thưa chủ nhân," người hầu đáp, rồi mang áo lại. Pukkusa dâng y lên Thế Tôn: "Bạch Thế Tôn, vì lòng từ bi, kính xin Thế Tôn nhận cho con đôi y bằng chỉ vàng bóng bẩy này."
 
-“Then, Pukkusa, you may clothe me in one and Ānanda in the other.”
+"Vậy thì, này Pukkusa, ông hãy đắp một chiếc cho Ta, và chiếc còn lại hãy trao cho Ānanda."
 
-“Yes, Lord,” he replied, and he did so. Then the Blessed One instructed, urged, roused and encouraged Pukkusa the Mallian with a talk on the Dhamma, after which Pukkusa got up from his seat, paid homage to the Blessed One and departed, keeping him on his right.
+"Bạch Thế Tôn, xin vâng," ông đáp, và làm đúng như lời dạy. Sau đó, Thế Tôn dùng Chánh pháp giảng giải, khích lệ, sách tấn và làm cho Pukkusa hoan hỷ, rồi ông rời chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu bên phải Ngài và ra về.
 
-Soon after he had gone, the venerable Ānanda placed the pair of cloth-of-gold robes pressed and ready to wear on the Blessed One’s body. But then it seemed as if their brilliance died out. The venerable Ānanda said: “It is wonderful, Lord, it is marvellous how pure and bright the colour of the Blessed One’s skin is! When I placed this pair of cloth-of-gold robes pressed and ready to wear on the Blessed One’s body, it seemed as if their brilliance died out.”
+Không lâu sau khi ông đi, đại đức Ānanda đắp đôi y dệt bằng chỉ vàng bóng bẩy ấy lên thân Thế Tôn. Nhưng lạ thay, dường như ánh rực rỡ của tấm y liền bị lu mờ đi. Đại đức Ānanda bạch: "Bạch Thế Tôn, thật kỳ diệu thay, thật phi thường thay làn da của Thế Tôn sao mà thanh tịnh và sáng rỡ đến ngần này! Khi con khoác đôi y bằng chỉ vàng bóng bẩy này lên thân Thế Tôn, vẻ rực rỡ của y dường như bị lu mờ hoàn toàn."
 
-“So it is, Ānanda, so it is. There are two occasions when the colour of the Perfect One’s skin becomes exceptionally clear and bright. What are the two? They are the eve of his discovery of the supreme full enlightenment and the eve of his attainment of final Nibbāna with the Nibbāna element without result of past clinging left. In fact, Ānanda, it is in the last watch of this coming night, between the twin sāla trees in the Mallians’ sāla-tree grove at the turn into Kusinārā, that the Perfect One will attain final Nibbāna.”
+"Đúng vậy, Ānanda, đúng như vậy. Có hai dịp mà màu da của bậc Toàn Thiện trở nên đặc biệt trong sáng và rạng rỡ lạ thường. Hai dịp ấy là gì? Đó là đêm Ngài chứng ngộ vô thượng chánh đẳng chánh giác, và đêm Ngài nhập Đại Bát-niết-bàn với Niết-bàn giới không còn dư tàn của chấp thủ. Thật vậy, này Ānanda, chính vào canh cuối đêm nay, giữa hai cây sa-la song thọ trong rừng cây sa-la của người Mạt-la ở lối rẽ vào Câu-thi-na, bậc Toàn Thiện sẽ nhập Đại Bát-niết-bàn."
 
-“Even so, Lord,” the venerable Ānanda replied.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa.
 
-Then the Blessed One approached the River Kakutthā with a large community of bhikkhus, and he went down into the water and bathed and drank, after which he came out again and went to a mango grove. There he said to the venerable Cundaka: “Cundaka, please fold my outer robe in four and lay it out. I am tired and I will lie down.”
+Rồi Thế Tôn cùng đại chúng tỳ-kheo tiến đến sông Kakutthā, Ngài xuống nước tắm và uống nước, sau đó lên bờ và đi đến một vườn xoài. Tại đó, Ngài bảo đại đức Thuần-đà-ca (Cundaka): "Này Thuần-đà-ca, hãy gấp tấm thượng y của Ta làm tư rồi trải ra. Ta mệt rồi, Ta muốn nằm nghỉ."
 
-“Even so, Lord,” the venerable Cundaka replied, and he did so. Then the Blessed One lay down on his right side in the lion’s sleeping pose with one foot overlapping the other, mindful and fully aware, having decided the time he would wake. And the venerable Cundaka sat down there in front of the Blessed One.
-
-[D. 16](/link?q=dn-16){target=_black}
-
-The Blessed One said to the venerable Ānanda: “Ānanda, it is possible that someone might provoke remorse in the goldsmith’s son Cunda thus: ‘It is no gain, it is a loss for you, Cunda, that the Perfect One attained final Nibbāna after getting his last almsfood from you.’ Now any such remorse of his must be countered thus: ‘It is a gain, it is a great gain for you, Cunda, that the Perfect One attained final Nibbāna after getting his last almsfood from you. I heard and learned this from the Blessed One’s own lips, friend Cunda: “These two kinds of almsfood have equal fruit and equal ripening, and their fruit and ripening is far greater than any other’s. What are the two? They are the almsfood after eating which a Perfect One discovers the supreme full enlightenment and the almsfood after eating which a Perfect One attains final Nibbāna with the Nibbāna element without result of past clinging left. Cunda the goldsmith’s son has stored up a deed that will lead to longevity, to good position, to happiness, to fame and to heaven.”’ Any remorse of his must be countered thus.”
-
-Knowing the meaning of this, the Blessed One then uttered this exclamation:
-
-> When a man gives, his merit will increase;  
-> No enmity can grow in the restrained.  
-> The skilled shun evil; they attain Nibbāna  
-> By ending greed and hatred and delusion.
-
-[D. 16](/link?q=dn-16){target=_black}: [Ud. 8:5](/link?q=ud-8.5){target=_black}
-
-Then the Blessed One said to the venerable Ānanda: “Come, Ānanda, let us go to the further bank of the River Hiraññavatī to the Mallians’ sāla-tree grove at the turn into Kusinārā.”
-
-“Even so, Lord,” the venerable Ānanda replied. Then the Blessed One went with a large community of bhikkhus to the further bank of the Hiraññavatī and on to the Mallians’ sāla-tree grove at the turn into Kusinārā. Then he said to the venerable Ānanda: “Ānanda, please make a couch ready for me with its head to the north between the twin sāla trees. I am tired and I will lie down.”
-
-“Even so, Lord,” the venerable Ānanda replied, and he did so. Then the Blessed One placed himself in the lion’s sleeping pose on his right side with one foot overlapping the other, mindful and fully aware.
-
-Now on that occasion the twin sāla trees were quite covered with blossoms though it was not the season. They scattered and sprinkled and strewed them on the Blessed One’s body out of veneration for him. And heavenly mandārava flowers and heavenly sandalwood powder fell from the sky and were scattered and sprinkled and strewn over the Blessed One’s body out of veneration for him. And heavenly music was played and heavenly songs were sung in the sky out of veneration for him.
-
-Then the Blessed One said to the venerable Ānanda: “Ānanda, the twin sāla trees are quite covered with blossoms though it is not the season. They scatter and sprinkle and strew them on the Perfect One’s body out of veneration for him. And heavenly mandārava flowers and heavenly sandalwood powder fall from the sky and are scattered and sprinkled and strewn over the Perfect One’s body out of veneration for him. And heavenly music is played and heavenly songs are sung in the sky out of veneration for him. But this is not how a Perfect One is honoured, respected, revered, venerated or reverenced: rather it is the bhikkhu or bhikkhunī, or the man or woman lay follower, who lives according to the Dhamma, who enters upon the proper way, who walks in the Dhamma, that honours, respects, reveres and venerates a Perfect One with the highest veneration of all. Therefore, Ānanda, train thus: ‘We will live in the way of the Dhamma, entering upon the proper way and walking in the Dhamma.’”
-
-Just then, however, the venerable Upavāna was standing in front of the Blessed One, fanning him. Then the Blessed One dismissed him, saying: “Go away, bhikkhu; do not stand in front of me.”
-
-The venerable Ānanda thought: “The venerable Upavāna has long been an attendant on the Blessed One, near to him and closely associated with him. Yet at the last moment the Blessed One dismisses him, saying: ‘Go away, bhikkhu; do not stand in front of me.’ What is the reason for this?” He asked this question of the Blessed One who replied: “Ānanda, most of the deities from ten world systems have come to see the Perfect One. For twelve leagues all round the sāla-tree grove there is not a place the size of the pricking of a horse-hair’s tip not occupied by deities. They are protesting: ‘We have come from far to see the Perfect One. Every now and then Perfect Ones arise in the world, accomplished and fully enlightened. Tonight in the last watch the Perfect One’s
-attainment of final Nibbāna will take place. And this eminent bhikkhu is standing in front of the Blessed One obstructing us so that at the last moment we shall not be able to see the Perfect One.’ Deities are protesting, Ānanda.”
-
-“But, Lord, what deities has the Blessed One in mind?”
-
-“There are deities who are percipient of earth in space; they are tearing their hair and weeping, stretching out their arms and weeping, falling down and rolling back and forth, crying out: ‘So soon the Blessed One will attain final Nibbāna! So soon the Sublime One will attain final Nibbāna! So soon the Eye will vanish from the world!’ And there are deities who are percipient of earth in earth who are doing likewise. But those deities who are free from lust resign themselves, mindful and fully aware: ‘Formations are impermanent. How could it be that what is born, come to being, formed and bound to fall should not fall? That is not possible.’”
-
-“Lord, formerly bhikkhus who had spent the rains in different parts used to come to see the Perfect One. So we were able to see and to show respect to admirable bhikkhus. But, Lord, when the Blessed One is gone we shall not be able to do so any more.”
-
-“Ānanda, there are four places for a faithful clansman to see which may be his inspiration. What are the four? Here the Perfect One was born: that is a place for a faithful clansman to see which may be his inspiration. Here the Perfect One discovered the supreme full enlightenment: that is a place for a faithful clansman to see which may be his inspiration. Here the Perfect One set rolling the matchless Wheel of the Dhamma: that is a place for a faithful clansman to see which may be his inspiration. Here the Perfect One attained final Nibbāna with the Nibbāna element without result of past clinging left: that is a place for a faithful clansman to see which may be his inspiration. Faithful bhikkhus and bhikkhunīs, and men and women lay followers, will come, saying: ‘Here the Perfect One was born’ and ‘Here the Perfect One discovered the supreme full enlightenment’ and ‘Here the Perfect One set rolling the matchless Wheel of the Dhamma’ and ‘Here the Perfect One attained final Nibbāna with the Nibbāna element without result of past clinging left.’ And all those who travel to visit shrines with confident hearts reappear on the dissolution of the body, after death, in a happy destination, even in a heavenly world.”
-
-“Lord, how are we to treat women?”
-
-“Do not see them, Ānanda.”
-
-“Lord, if they are seen, how should we treat them?”
-
-“Do not address them, Ānanda.”
-
-“Lord, if we do address them, how should we treat them?”
-
-“Mindfulness should be maintained, Ānanda.”
-
-“Lord, how should we treat the Perfect One’s remains?”
-
-“Ānanda, do not preoccupy yourselves about venerating the Perfect One’s remains. Please strive for your own goal, devote yourselves to your own goal, dwell diligent, ardent and self-controlled for your own good. There are wise warriors and brahmans and householders who believe in the Perfect One; they will see to venerating the Perfect One’s remains.”
-
-“But, Lord, how should one treat the Perfect One’s remains?”
-
-“Treat the Perfect One’s remains in the same way that the remains of a Universal Monarch⁸ who turns the Wheel of Righteousness are treated.”
-
-“But, Lord, how should one treat the remains of a Universal Monarch who turns the Wheel of Righteousness?”
-
-“They wrap his remains in new cloth; then they wrap them in well-beaten cotton; then they wrap them in new cloth. And proceeding in that way, they wrap them in five hundred twin layers. Then they place them in an iron oil vessel which they close with another vessel. Then they make a pyre with all kinds of scents and burn the remains. Then they build a monument to him at the four crossroads. That is how they treat the remains of a Universal Monarch who turns the Wheel of Righteousness; and the Perfect One’s remains should be treated in the same way. The Perfect One’s monument should be built at the four crossroads; and whoever shall put flowers or scents on it, or whitewash it, or shall worship it, or feel confidence in his heart there, that will be long for his welfare and happiness. There are these four who are worthy of a monument. What four? A Perfect One, accomplished and fully enlightened; a Paccekabuddha; a Perfect One’s disciple who is an Arahant; and a Universal Monarch who turns the Wheel of Righteousness. And what is the aim in view of which any one of these four is worthy of a monument? There are many who feel confidence in their hearts, thinking: ‘This is the monument of that Blessed One, accomplished and fully enlightened’ or ‘This is the monument of that Blessed One, a Paccekabuddha’ or ‘This is the monument of a disciple of
-that Blessed One’ or ‘This is the monument of that righteous and lawful king.’ When they feel confidence in their hearts there, then on the dissolution of the body, after death, they reappear in a happy destination, even in a heavenly world.”
-
-Then the venerable Ānanda went inside a dwelling, and he stood leaning against the door bar and wept: “I am still only a learner whose task has yet to be completed. My teacher is about to attain final Nibbāna—my teacher who has compassion on me!”
-
-Then the Blessed One asked the bhikkhus: “Bhikkhus, where is Ānanda?”
-
-“Lord, he has just gone inside a dwelling, and he is standing leaning against the door bar weeping: ‘I am still only a learner whose task has yet to be completed. My teacher is about to attain final Nibbāna—my teacher who has compassion on me!’ ”
-
-The Blessed One told a bhikkhu: “Come, bhikkhu, go to Ānanda and say to him in my name: ‘The Teacher calls you, friend Ānanda.’ ”
-
-“Even so, Lord,” the bhikkhu replied, and he went to the venerable Ānanda and told him: “The Teacher calls you, friend Ānanda.”
-
-“Even so, friend,” the venerable Ānanda replied, and he went to the Blessed One, and after paying homage to him, he stood at one side. The Blessed One said to him: “Enough, Ānanda, do not sorrow, do not lament. Have I not already repeatedly told you that there is separation and parting and division from all that is dear and beloved? How could it be that what is born, come to being, formed, and bound to fall should not fall? That is not possible. Ānanda, you have long and constantly attended on the Perfect One with bodily acts of loving-kindness, helpfully, gladly, sincerely and without reserve; and so too with verbal acts and mental acts. You have made merit, Ānanda. Keep on endeavouring and you will soon be free from taints.”
-
-Then the Blessed One addressed the bhikkhus thus: “Bhikkhus, the accomplished fully enlightened ones in the past also had attendants who were to them what Ānanda is to me. And the accomplished fully enlightened ones in the future will also have attendants who will be to them what Ānanda is to me. Ānanda is wise, bhikkhus. He knows: ‘This is the time for bhikkhus to come and see the Perfect One; this is the time for bhikkhunīs to come and see the Perfect One; this is the time for men lay followers ... for women lay followers to come and see the Perfect One; this is the
-time for kings, kings’ ministers, sectarians and sectarians’ disciples to come and see the Perfect One.’”
+"Bạch Thế Tôn, xin vâng," đại đức Thuần-đà-ca thưa, và làm theo lời dạy. Rồi Thế Tôn nằm nghiêng mình bên hữu theo tư thế sư tử ngọa, chân này gác lên chân kia, chánh niệm tỉnh giác, và định sẵn thời khắc thức dậy. Còn đại đức Thuần-đà-ca thì ngồi xuống túc trực phía trước Thế Tôn.
 
 [D. 16](/link?q=dn-16){target=_black}
 
-“There are four wonderful and marvellous things in a Universal Monarch who turns the Wheel of Righteousness. What four? If an assembly of warrior-nobles or brahmans or householders or monks should come to see him, the assembly is glad to see him. If he speaks there, the assembly is glad at his speech. But when he is silent again, the assembly is still unsated. So too there are four wonderful and marvellous things in Ānanda. What four? If an assembly of bhikkhus or bhikkhunīs or men lay followers or women lay followers should come to see Ānanda, the assembly is glad to see him. If he speaks there, the assembly is glad at his speech. But when he is silent again, the assembly is still unsated.”
+Thế Tôn bảo đại đức Ānanda: "Này Ānanda, có thể có ai đó sẽ khiến người thợ vàng Thuần-đà sinh lòng hối hận day dứt rằng: 'Thật là tổn thất, thật không may mắn cho anh, này Thuần-đà, khi bậc Toàn Thiện nhập Đại Bát-niết-bàn sau khi thọ nhận bữa ăn cúng dường cuối cùng từ anh.' Bất kỳ sự hối hận nào như thế của anh ta phải được giải trừ như sau: 'Thật là phước báu, thật là đại phúc đức cho anh, này Thuần-đà, khi bậc Toàn Thiện nhập Đại Bát-niết-bàn sau khi thọ nhận bữa ăn cúng dường cuối cùng từ anh. Này bạn Thuần-đà, chính miệng tôi đã nghe và ghi nhận điều này từ Thế Tôn: "Hai bữa cơm cúng dường này có quả báo đồng đẳng, sự chín muồi quả báo đồng đẳng, và quả báo cùng sự chín muồi của chúng lớn hơn vượt bậc so với bất kỳ bữa ăn cúng dường nào khác. Hai bữa ấy là gì? Đó là bữa cơm cúng dường mà sau khi thọ dụng, bậc Toàn Thiện chứng ngộ vô thượng chánh đẳng chánh giác; và bữa cơm cúng dường mà sau khi thọ dụng, bậc Toàn Thiện nhập Đại Bát-niết-bàn với Niết-bàn giới không còn dư tàn chấp thủ. Người thợ vàng Thuần-đà đã tích lũy một nghiệp lành đưa đến trường thọ, sắc tốt, an lạc, danh vọng và cõi trời."' Bất kỳ sự hối tiếc nào của anh ta phải được giải trừ như thế."
+
+Hiểu rõ ý nghĩa của điều này, Thế Tôn liền thốt lên lời cảm thán:
+
+> Bố thí tăng phước đức\
+> Tự chế dứt oán thù\
+> Người thiện tránh điều ác\
+> Diệt sạch tham sân si\
+> Chứng đạt cõi Niết-bàn
+
+[D. 16](/link?q=dn-16){target=_black}; [Ud. 8:5](/link?q=ud-8.5){target=_black}
+
+Rồi Thế Tôn bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy sang bờ bên kia của sông Hiraññavatī, đến rừng cây sa-la của người Mạt-la ở lối rẽ vào Câu-thi-na."
+
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo sang bờ bên kia sông Hiraññavatī, đến khu rừng sa-la của người Mạt-la ở lối rẽ vào Câu-thi-na. Ngài bảo đại đức Ānanda: "Này Ānanda, hãy chuẩn bị cho Ta một chỗ nằm, đầu hướng về phía bắc, giữa hai cây sa-la song thọ. Ta mệt rồi, Ta muốn nằm nghỉ."
+
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda đáp, và làm theo lời dạy. Rồi Thế Tôn nằm nghiêng mình bên hữu theo tư thế sư tử ngọa, chân này đặt trên chân kia, chánh niệm và tỉnh giác.
+
+Vào dịp ấy, hai cây sa-la bỗng nở hoa rực rỡ dẫu chưa đến mùa. Những cánh hoa rơi lả tả, rải rác và rưới ngập lên thân Thế Tôn để cúng dường Ngài. Hoa mạn-đà-la cõi trời và bột gỗ chiên-đàn cõi trời từ không trung rơi xuống, rải đều và phủ lên thân Thế Tôn để cúng dường Ngài. Nhạc trời trỗi khúc và những khúc ca trời ngân nga giữa không trung để cúng dường Ngài.
+
+Thế Tôn bảo đại đức Ānanda: "Này Ānanda, hai cây sa-la này bỗng trổ hoa rực rỡ dẫu chưa đến mùa. Hoa rơi rải rác và rưới ngập lên thân bậc Toàn Thiện để cúng dường Ngài. Hoa mạn-đà-la cõi trời và bột gỗ chiên-đàn cõi trời từ không trung rơi xuống phủ đầy thân bậc Toàn Thiện để cúng dường Ngài. Nhạc trời trỗi khúc và khúc ca cõi trời ngân vang giữa không trung để cúng dường Ngài. Nhưng này Ānanda, đó không phải là cách tôn kính, kính trọng, tôn sùng, đảnh lễ hay cúng dường bậc Toàn Thiện; trái lại, vị tỳ-kheo, tỳ-kheo-ni, nam cư sĩ hay nữ cư sĩ nào sống đúng theo Chánh pháp, đi vào con đường chân chánh, bước đi trong Chánh pháp, người ấy mới tôn kính, kính trọng, tôn sùng và cúng dường bậc Toàn Thiện bằng sự cúng dường tối thượng nhất. Do đó, này Ānanda, các ông hãy tu học như sau: 'Chúng ta sẽ sống theo con đường của Chánh pháp, bước vào con đường chân chánh và hành trì trong Chánh pháp.'"
+
+Đúng lúc ấy, đại đức Upavāna đang đứng trước mặt Thế Tôn quạt cho Ngài. Thế Tôn liền bảo vị ấy rời đi: "Này tỳ-kheo, hãy tránh ra; đừng đứng trước mặt Ta."
+
+Đại đức Ānanda nghĩ thầm: "Đại đức Upavāna đã hầu cận Thế Tôn từ lâu năm, gần gũi và gắn bó thân thiết với Ngài. Vậy mà trong giây phút cuối cùng, Thế Tôn lại xua vị ấy đi và bảo: 'Này tỳ-kheo, hãy tránh ra; đừng đứng trước mặt Ta.' Lý do là gì vậy?" Tôn giả bèn đem điều này bạch hỏi Thế Tôn, và Ngài đáp: "Này Ānanda, hầu hết chư thiên từ mười phương thế giới đều đã tề tựu về đây để chiêm bái bậc Toàn Thiện. Trong suốt mười hai do-tuần chung quanh rừng cây sa-la này, không có một chỗ trống nào dù chỉ bằng đầu mũi lông ngựa cắm xuống mà không có chư thiên chiếm chỗ. Họ đang trách cứ rằng: 'Chúng tôi từ phương xa lặn lội đến đây để chiêm bái bậc Toàn Thiện. Thảng hoặc mới có một bậc Toàn Thiện trọn lành và chánh đẳng giác xuất hiện ở thế gian. Đêm nay, vào canh chót, sự nhập Đại Bát-niết-bàn của bậc Toàn Thiện sẽ diễn ra. Thế mà vị tỳ-kheo cao hạ này lại đứng ngay trước mặt Thế Tôn che khuất, khiến chúng tôi trong giây phút cuối cùng không thể chiêm bái bậc Toàn Thiện.' Chư thiên đang than phiền như vậy đó, này Ānanda."
+
+"Bạch Thế Tôn, Ngài đang nói đến hạng chư thiên nào?"
+
+"Có những vị chư thiên nhìn nhận đất trong hư không; họ đang bứt tóc than khóc, giơ tay than khóc, ngã quỵ lăn lộn tới lui và than rằng: 'Sao Thế Tôn nhập Đại Bát-niết-bàn quá vội vàng! Sao bậc Thiện Thệ nhập Đại Bát-niết-bàn quá mau chóng! Sao Con Mắt của thế gian lại biến mất khỏi cuộc đời sớm dường này!' Và có những chư thiên nhìn nhận đất ở trong đất cũng đang làm như vậy. Nhưng những chư thiên đã ly tham thì giữ lòng an tịnh, chánh niệm và tỉnh giác nghĩ rằng: 'Các pháp hữu vi là vô thường. Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra.'"
+
+"Bạch Thế Tôn, trước đây sau mỗi mùa an cư ở các phương, các tỳ-kheo thường trở về chiêm bái Thế Tôn. Nhờ đó chúng con được gặp gỡ và bày tỏ lòng tôn kính với các bậc tỳ-kheo đáng kính. Nhưng bạch Thế Tôn, khi Thế Tôn nhập diệt rồi, chúng con sẽ không còn cơ hội ấy nữa."
+
+"Này Ānanda, có bốn nơi chốn mà người thiện tín có lòng tin nên đến chiêm bái để phát khởi niềm cảm hứng tâm linh. Bốn nơi ấy là gì? Đây là nơi bậc Toàn Thiện đản sinh: đó là nơi người thiện tín có lòng tin nên đến chiêm bái để phát khởi cảm hứng tâm linh. Đây là nơi bậc Toàn Thiện chứng ngộ vô thượng chánh đẳng chánh giác: đó là nơi người thiện tín có lòng tin nên đến chiêm bái để phát khởi cảm hứng tâm linh. Đây là nơi bậc Toàn Thiện chuyển Pháp Luân vô thượng: đó là nơi người thiện tín có lòng tin nên đến chiêm bái để phát khởi cảm hứng tâm linh. Đây là nơi bậc Toàn Thiện nhập Đại Bát-niết-bàn với Niết-bàn giới không còn dư tàn chấp thủ: đó là nơi người thiện tín có lòng tin nên đến chiêm bái để phát khởi cảm hứng tâm linh. Các tỳ-kheo, tỳ-kheo-ni, nam cư sĩ và nữ cư sĩ có lòng tin sẽ đến và nói: 'Đây là nơi bậc Toàn Thiện đản sinh,' và 'Đây là nơi bậc Toàn Thiện chứng ngộ vô thượng chánh đẳng chánh giác,' và 'Đây là nơi bậc Toàn Thiện chuyển Pháp Luân vô thượng,' và 'Đây là nơi bậc Toàn Thiện nhập Đại Bát-niết-bàn với Niết-bàn giới không còn dư tàn chấp thủ.' Và tất cả những ai đi chiêm bái các thánh tích với tâm tịnh tín, sau khi thân hoại mạng chung, sẽ được tái sinh vào cõi lành, cho đến cõi trời."
+
+"Bạch Thế Tôn, chúng con phải cư xử với phụ nữ như thế nào?"
+
+"Đừng nhìn ngó họ, này Ānanda."
+
+"Bạch Thế Tôn, nếu lỡ nhìn thấy họ, thì phải cư xử thế nào?"
+
+"Đừng nói chuyện với họ, này Ānanda."
+
+"Bạch Thế Tôn, nếu phải nói chuyện với họ, thì phải cư xử thế nào?"
+
+"Hãy an trú chánh niệm, này Ānanda."
+
+"Bạch Thế Tôn, chúng con phải xử lý nhục thân của bậc Toàn Thiện như thế nào?"
+
+"Này Ānanda, các ông chớ nên bận lòng về việc cúng dường nhục thân của bậc Toàn Thiện. Hãy nỗ lực vì mục tiêu của chính mình, hãy chuyên tâm vì mục tiêu của chính mình, hãy sống tinh cần, nhiệt tâm và tự chế vì lợi ích của chính các ông. Đã có những bậc sát-đế-lỵ, bà-la-môn và gia chủ trí thức có lòng tin nơi bậc Toàn Thiện; họ sẽ lo liệu việc cúng dường nhục thân bậc Toàn Thiện."
+
+"Nhưng bạch Thế Tôn, người ta nên xử lý nhục thân bậc Toàn Thiện như thế nào?"
+
+"Hãy xử lý nhục thân bậc Toàn Thiện giống như cách xử lý di thể của một vị Chuyển Luân Thánh Vương [8](/the-life-of-the-buddha/notes/15#8){.note} trị vì bằng Chánh pháp."
+
+"Bạch Thế Tôn, di thể của một vị Chuyển Luân Thánh Vương trị vì bằng Chánh pháp được xử lý như thế nào?"
+
+"Người ta quấn di thể ngài bằng vải mới; rồi quấn bằng bông vải đã đập kỹ; rồi lại quấn bằng vải mới. Cứ như thế, họ quấn đủ năm trăm lớp đôi. Sau đó họ đặt di thể vào một cỗ quan bằng sắt đựng đầy dầu rồi đậy nắp bằng một cỗ quan sắt khác. Đoạn họ dựng giàn hỏa thiêu bằng đủ loại danh hương rồi hỏa táng di thể. Sau đó họ xây một ngôi bảo tháp tưởng niệm ngài ở ngã tư đường. Đó là cách người ta xử lý di thể của một vị Chuyển Luân Thánh Vương; và nhục thân của bậc Toàn Thiện cũng nên được xử lý như vậy. Tháp tưởng niệm bậc Toàn Thiện nên được dựng nơi ngã tư đường; và bất cứ ai đến đó dâng hoa, dâng hương, quét vôi, hay đảnh lễ, hoặc khởi tâm tịnh tín tại đó, điều ấy sẽ đem lại cho người đó lợi ích và hạnh phúc lâu dài.
+
+"Có bốn đối tượng xứng đáng được xây bảo tháp. Bốn đối tượng ấy là ai? Một bậc Toàn Thiện, trọn lành và chánh đẳng giác; một vị Độc Giác Phật; một vị đệ tử A-la-hán của bậc Toàn Thiện; và một vị Chuyển Luân Thánh Vương trị vì bằng Chánh pháp. Và vì mục đích gì mà bất kỳ ai trong bốn vị này xứng đáng được xây tháp? Có nhiều người khởi tâm tịnh tín khi nghĩ rằng: 'Đây là tháp của Đức Thế Tôn, bậc trọn lành và chánh đẳng giác' hoặc 'Đây là tháp của Đức Thế Tôn, bậc Độc Giác Phật' hoặc 'Đây là tháp của một vị đệ tử Thế Tôn' hoặc 'Đây là tháp của vị vua chân chánh công bằng ấy.' Nhờ khởi tâm tịnh tín tại đó, nên sau khi thân hoại mạng chung, họ được tái sinh vào cõi lành, cho đến cõi trời."
+
+Bấy giờ, đại đức Ānanda bước vào trong tịnh xá, tựa đầu vào then cửa và òa khóc: "Than ôi, ta vẫn chỉ là một kẻ hữu học, phận sự tu tập chưa hoàn thành! Mà bậc Đạo Sư sắp nhập Đại Bát-niết-bàn—người thầy đã từng thương tưởng ta biết bao!"
+
+Thế Tôn bèn hỏi các tỳ-kheo: "Này các tỳ-kheo, Ānanda đâu rồi?"
+
+"Bạch Thế Tôn, sư ấy vừa bước vào trong phòng, đang đứng tựa vào then cửa mà khóc rằng: 'Than ôi, ta vẫn chỉ là một kẻ hữu học, phận sự tu tập chưa hoàn thành! Mà bậc Đạo Sư sắp nhập Đại Bát-niết-bàn—người thầy đã từng thương tưởng ta biết bao!'"
+
+Thế Tôn bảo một tỳ-kheo: "Này tỳ-kheo, hãy đi gặp Ānanda và nhân danh Ta nói với sư ấy: 'Này hiền giả Ānanda, bậc Đạo Sư gọi hiền giả.'"
+
+"Bạch Thế Tôn, xin vâng," vị tỳ-kheo đáp, rồi đến bên đại đức Ānanda và truyền lời: "Này hiền giả Ānanda, bậc Đạo Sư gọi hiền giả."
+
+"Hiền giả, xin vâng," đại đức Ānanda đáp, rồi đến bên Thế Tôn, sau khi đảnh lễ Ngài, tôn giả đứng sang một bên. Thế Tôn bảo: "Thôi đi, Ānanda, đừng sầu não, đừng than khóc nữa. Chẳng phải Ta đã từng nhiều lần dạy ông rằng sẽ có sự ly tán, phân ly và cách biệt đối với tất cả những gì ta yêu quý và trân trọng hay sao? Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra. Này Ānanda, ông đã từ lâu và thường xuyên hầu cận bậc Toàn Thiện bằng thân nghiệp từ ái, đầy sự giúp ích, hoan hỷ, chân thành và không hề tiếc sức; khẩu nghiệp và ý nghiệp từ ái cũng như thế. Ông đã tạo được nhiều công đức lớn lao, này Ānanda. Hãy tiếp tục nỗ lực tinh cần, ông sẽ sớm sạch hết các lậu hoặc."
+
+Rồi Thế Tôn ngỏ lời cùng các tỳ-kheo: "Này các tỳ-kheo, chư vị Chánh Đẳng Giác trong quá khứ cũng từng có những thị giả đối với các Ngài như Ānanda đối với Ta. Và chư vị Chánh Đẳng Giác trong tương lai cũng sẽ có những thị giả đối với các Ngài như Ānanda đối với Ta. Này các tỳ-kheo, Ānanda là người thông tuệ. Sư ấy biết: 'Đây là thời điểm thích hợp để các tỳ-kheo đến chiêm bái bậc Toàn Thiện; đây là thời điểm thích hợp để các tỳ-kheo-ni đến chiêm bái bậc Toàn Thiện; đây là thời điểm thích hợp cho các nam cư sĩ... cho các nữ cư sĩ đến chiêm bái bậc Toàn Thiện; đây là thời điểm thích hợp cho các vị vua, đại thần, ngoại đạo và đệ tử ngoại đạo đến chiêm bái bậc Toàn Thiện.'"
+
+[D. 16](/link?q=dn-16){target=_black}
+
+"Có bốn đức tính kỳ diệu và phi thường nơi một vị Chuyển Luân Thánh Vương trị vì bằng Chánh pháp. Bốn đức tính là gì? Nếu một hội chúng gồm các sát-đế-lỵ, bà-la-môn, gia chủ hay sa-môn đến yết kiến vua, hội chúng ấy đều hoan hỷ khi được thấy ngài. Nếu vua cất lời nói, hội chúng ấy hoan hỷ trước lời nói của ngài. Nhưng khi ngài im lặng trở lại, hội chúng vẫn cảm thấy chưa thỏa dạ. Cũng vậy, có bốn đức tính kỳ diệu và phi thường nơi Ānanda. Bốn đức tính là gì? Nếu một hội chúng tỳ-kheo, tỳ-kheo-ni, nam cư sĩ hay nữ cư sĩ đến gặp Ānanda, hội chúng ấy đều hoan hỷ khi được thấy sư ấy. Nếu sư ấy thuyết giảng, hội chúng ấy hoan hỷ trước lời giảng của sư ấy. Nhưng khi sư ấy im lặng trở lại, hội chúng vẫn cảm thấy chưa thỏa dạ."
 
 [D. 16](/link?q=dn-16){target=_black}; [A. 4:129](/link?q=AN-4.129){target=_black}-30
 
-When he had spoken thus, the venerable Ānanda said: “Lord, let the Blessed One not attain final Nibbāna in this little mud-walled town, this backwoods town, this branch township. There are other great cities like Campā, Rājagaha, Sāvatthī, Sāketa, Kosambī and Benares. Let the Blessed One attain final Nibbāna there where there are many prominent warrior-nobles and brahmans and householders who believe in the Perfect One. They will venerate the Perfect One’s remains.”[^9]
+Khi Ngài dạy xong, đại đức Ānanda bạch rằng: "Bạch Thế Tôn, xin Thế Tôn chớ nhập Đại Bát-niết-bàn ở cái thị trấn vách đất nhỏ bé, hẻo lánh nơi rừng rú, một nhánh thị trấn xa xôi này. Còn có những đại đô thị khác như Chiêm-bà (Campā), Vương Xá (Rājagaha), Xá-vệ (Sāvatthī), Sa-kỳ (Sāketa), Kiều-thưởng-di (Kosambī) và Ba-la-nại (Benares). Xin Thế Tôn hãy nhập Đại Bát-niết-bàn ở những nơi ấy, nơi có nhiều bậc sát-đế-lỵ, bà-la-môn và gia chủ hiển hách có niềm tin nơi bậc Toàn Thiện. Họ sẽ lo việc cúng dường nhục thân của bậc Toàn Thiện." [9](/the-life-of-the-buddha/notes/15#9){.note}
 
-“Do not say so, Ānanda, do not say ‘A little mud-walled town, a backwoods town, a branch township.’ There was once a king called Sudassana the Great. He was a righteous lawful Universal Monarch who turned the Wheel of Righteousness, a conqueror of the four quarters, who had stabilized his country, and who possessed the seven treasures. His capital city was Kusinārā, then called Kusavatī, and it was twelve leagues wide from east to west and seven leagues broad from north to south. The royal capital, Kusavatī, was as mighty and prosperous with as many inhabitants and as crowded with people and full of plenty as the royal capital city of the gods called Ālakamandā. The royal city of Kusavatī never lacked the ten kinds of sounds, that is to say, the sounds of elephants, horses, chariots, drums, tabors, lutes, songs, cymbals, gongs, and the cries of ‘Eat! Drink! Taste!’ as the tenth sound.”
+"Chớ nói vậy, Ānanda, chớ nói rằng: 'Một thị trấn vách đất nhỏ bé, hẻo lánh nơi rừng rú, một nhánh thị trấn xa xôi.' Xưa kia từng có một vị vua tên là Đại Thiện Kiến. Ngài là một vị Chuyển Luân Thánh Vương chân chánh trị vì theo Chánh pháp, vị chinh phục bốn phương, người đã bình định xứ sở và sở hữu bảy món báu. Kinh đô của ngài là Câu-thi-na, bấy giờ được gọi là Kusavatī, dài mười hai do-tuần từ đông sang tây và rộng bảy do-tuần từ bắc xuống nam. Kinh thành Kusavatī xưa kia hùng mạnh, thịnh vượng, đông đúc dân cư và tràn trề của cải chẳng khác nào thành phố Ālakamandā của chư thiên. Kinh thành Kusavatī không bao giờ ngớt mười thứ âm thanh ngày đêm, đó là tiếng voi gầm, ngựa hí, tiếng xe chạy, tiếng trống cái, trống con, tiếng đàn tỳ-bà, tiếng ca hát, tiếng chũm chọe, tiếng cồng và tiếng reo hò: 'Hãy ăn đi! Uống đi! Nếm đi!' là thứ âm thanh thứ mười."
 
 [D. 16](/link?q=dn-16){target=_black}, 17
 
-“Now, Ānanda, go into Kusinārā and announce to the Mallians of Kusinārā: ‘Tonight, Vāseṭṭhas, in the last watch, the Perfect One’s attainment of final Nibbāna will take place. Come forth, Vāseṭṭhas, come forth, lest you regret it later and think: “The Perfect One’s attainment of final Nibbāna took place in our own town precincts and we did not get to see the Perfect One in the last hour.”’”
+"Này Ānanda, bây giờ hãy vào thành Câu-thi-na và báo tin cho dân Mạt-la ở Câu-thi-na: 'Này các vị Vāseṭṭha, đêm nay, vào canh chót, sự nhập Đại Bát-niết-bàn của bậc Toàn Thiện sẽ diễn ra. Hãy đến đi, này các vị Vāseṭṭha, hãy mau đến, kẻo sau này các vị phải hối hận mà nghĩ rằng: "Sự kiện bậc Toàn Thiện nhập Đại Bát-niết-bàn diễn ra ngay trong địa phận thành phố của chúng ta, thế mà chúng ta đã không kịp đến chiêm bái bậc Toàn Thiện trong giờ phút cuối cùng."'"
 
-“Even so, Lord,” the venerable Ānanda replied. He dressed, and taking his bowl and outer robe, he went into Kusinārā with another bhikkhu. Now at that time the Mallians of Kusinārā had met together in their assembly hall for some business or other. The venerable Ānanda went to the assembly hall and announced to them: “Tonight, Vāseṭṭhas, in the last watch, the Perfect One’s attainment of final Nibbāna will take place. Come forth, Vāseṭṭhas, lest you regret it later and think: ‘The Perfect One’s attainment of final Nibbāna took place in our own town precincts and we did not get to see the Perfect One in the last hour.’”
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Tôn giả đắp y, mang bát và thượng y cùng một vị tỳ-kheo khác đi vào Câu-thi-na. Lúc bấy giờ, dân Mạt-la ở Câu-thi-na đang nhóm họp tại công đường vì một số công việc. Đại đức Ānanda đến công đường và báo tin cho họ: "Này các vị Vāseṭṭha, đêm nay, vào canh chót, sự nhập Đại Bát-niết-bàn của bậc Toàn Thiện sẽ diễn ra. Hãy đến đi, này các vị Vāseṭṭha, kẻo sau này phải hối hận mà nghĩ rằng: 'Sự kiện bậc Toàn Thiện nhập Đại Bát-niết-bàn diễn ra ngay trong địa phận thành phố của chúng ta, thế mà chúng ta đã không kịp đến chiêm bái bậc Toàn Thiện trong giờ phút cuối cùng.'"
 
-When they heard this from the venerable Ānanda, the Mallians with their young men and maidens and matrons were dismayed and aghast. Overcome by grief, some tore their hair and wept, some stretched out their arms and wept, some fell down and rolled back and forth, crying out: “So soon the Blessed One will attain final Nibbāna! So soon the Sublime One will attain final Nibbāna! So soon the Eye will vanish from the world!”
+Khi nghe đại đức Ānanda báo tin, dân Mạt-la cùng con trai, con gái và các phu nhân đều bàng hoàng sững sờ. Đau đớn tột cùng, người thì bứt tóc than khóc, kẻ thì giơ tay than khóc, kẻ lại ngã quỵ lăn lộn tới lui, kêu gào: "Sao Thế Tôn nhập Đại Bát-niết-bàn quá vội vàng! Sao bậc Thiện Thệ nhập Đại Bát-niết-bàn quá mau chóng! Sao Con Mắt của thế gian lại biến mất khỏi cuộc đời sớm dường này!"
 
-Dismayed and aghast, overcome by grief as they were, the Mallians with their young men and maidens and matrons went to the venerable Ānanda in the Mallians’ sāla-tree grove at the turn into Kusinārā. Then he thought: “If I let the Mallians of Kusinārā salute the Blessed One singly, the night will be over before they can finish. Suppose I get them to salute the Blessed One with a single representative for each clan thus: ‘Lord, the Mallian named so-and-so, with his children, his wife and his retinue and friends, salutes the Blessed One with his head at the Blessed One’s feet?’” And he did so. And in that way he got them to salute the Blessed One within the first watch.
+Trong nỗi bàng hoàng sững sờ và đau buồn tột độ, dân Mạt-la cùng con trai, con gái và phu nhân kéo nhau đến gặp đại đức Ānanda tại rừng cây sa-la ở lối rẽ vào Câu-thi-na. Bấy giờ tôn giả nghĩ thầm: "Nếu ta để từng người dân Mạt-la ở Câu-thi-na đảnh lễ Thế Tôn riêng rẽ, đêm sẽ tàn trước khi họ đảnh lễ xong. Hay là ta cho họ đảnh lễ Thế Tôn theo từng gia tộc, mỗi tộc có một đại diện thưa rằng: 'Bạch Thế Tôn, người Mạt-la tên là như thế này, cùng con cái, vợ con, đoàn tùy tùng và bè bạn, xin cúi đầu đảnh lễ dưới chân Thế Tôn'?" Và tôn giả đã làm như vậy. Bằng cách đó, tôn giả đã thu xếp cho họ đảnh lễ Thế Tôn xong xuôi ngay trong canh một.
 
-However, a wanderer called Subhadda was staying in Kusinārā at that time. He heard: “Tonight, in the last watch, the monk Gotama’s attainment of final Nibbāna will take place.” Then he thought: “I have heard from senior elders, teachers among the wanderers, that Perfect Ones appear in the world from time to time, accomplished
-and fully enlightened. And tonight, in the last watch, the monk Gotama’s attainment of final Nibbāna will take place. While there is this doubt in me, yet I have confidence in the monk Gotama that he can teach me the Dhamma in such a way that I can rid myself of this doubt.”
+Bấy giờ, có một du sĩ ngoại đạo tên là Tu-bạt-đà (Subhadda) đang lưu trú tại Câu-thi-na. Ông nghe tin: "Đêm nay, vào canh chót, sa-môn Cù-đàm sẽ nhập Đại Bát-niết-bàn." Ông nghĩ thầm: "Ta từng nghe các bậc trưởng lão tiền bối, các bậc tôn sư du sĩ truyền dạy rằng thảng hoặc mới có các bậc Toàn Thiện, trọn lành và chánh đẳng giác xuất hiện ở thế gian. Và đêm nay, vào canh chót, sa-môn Cù-đàm sẽ nhập Đại Bát-niết-bàn. Ta đang có mối hoài nghi này trong lòng, và ta tin rằng sa-môn Cù-đàm có thể thuyết pháp giúp ta dứt bỏ được mối nghi này."
 
-He went to the Mallians’ sāla-tree grove at the turn into Kusinārā, and he approached the venerable Ānanda and told him all that had occurred to him, adding, “If only I might see the monk Gotama, Master Ānanda.”
+Ông bèn đến khu rừng sa-la của người Mạt-la ở lối rẽ vào Câu-thi-na, tiến lại gần đại đức Ānanda và bày tỏ tất cả những băn khoăn của mình, rồi nói thêm: "Ước gì tôi có thể diện kiến sa-môn Cù-đàm, thưa Tôn giả Ānanda."
 
-The venerable Ānanda said: “Enough, friend Subhadda, do not trouble the Perfect One. The Blessed One is tired.”
+Đại đức Ānanda bảo: "Thôi đi, hiền giả Tu-bạt-đà, đừng quấy rầy bậc Toàn Thiện. Thế Tôn đang mệt."
 
-The wanderer Subhadda made the same request a second and a third time and received the same reply. The Blessed One heard their conversation. Then he told the venerable Ānanda: “Enough, Ānanda, do not keep Subhadda out; let him see the Perfect One. Whatever he may ask of me, he will ask it only for the sake of knowledge, not to cause trouble, and what I can tell him he will quickly understand.”
+Du sĩ Tu-bạt-đà khẩn khoản lần thứ hai và lần thứ ba nhưng đều nhận được câu trả lời từ chối như thế. Thế Tôn nghe được mẩu đối thoại của họ. Ngài liền bảo đại đức Ānanda: "Thôi đi, Ānanda, đừng ngăn cản Tu-bạt-đà; hãy để ông ấy vào gặp bậc Toàn Thiện. Bất cứ điều gì ông ấy hỏi Ta cũng chỉ nhằm mục đích cầu tri kiến chứ không phải để gây rắc rối phiền hà, và những gì Ta chỉ dạy ông ấy sẽ nhanh chóng hiểu ngay."
 
-Then the venerable Ānanda told the wanderer Subhadda: “Go, friend Subhadda, the Blessed One gives you permission.”
+Bấy giờ, đại đức Ānanda bảo du sĩ Tu-bạt-đà: "Hãy vào đi, hiền giả Tu-bạt-đà, Thế Tôn cho phép ông rồi đấy."
 
-He went to the Blessed One and exchanged greetings with him, and when this courteous formal talk was finished, he sat down at one side. Then he said to the Blessed One: “Master Gotama, there are these monks and brahmans, each with his community, with his group, leading a group, each a renowned and famous philosopher reckoned by many as a saint—I mean Pūraṇa Kassapa, Makkhali Gosāla, Ajita Kesakambalin, Pakudha Kaccāyana, Sañjaya Belaṭṭhiputta, and the Nigaṇṭha Nāthaputta. Have they all had direct knowledge as they claim, or have none of them had direct knowledge, or have some of them had direct knowledge and some not?”
+Ông liền đến bên Thế Tôn, chào hỏi xã giao thân tình, và sau khi cuộc trò chuyện lịch thiệp kết thúc, ông ngồi xuống một bên. Rồi ông bạch với Thế Tôn: "Thưa Tôn giả Cù-đàm, có những vị sa-môn, bà-la-môn này, mỗi vị đều có hội chúng riêng, có giáo đoàn riêng, lãnh đạo một đoàn thể, đều là những nhà triết học trứ danh lẫy lừng được đông đảo quần chúng coi là bậc thánh—như Phú-lan-na Ca-diếp (Pūraṇa Kassapa), Mạt-khái-lê Cù-xa-la (Makkhali Gosāla), A-kỳ-đa Kỳ-xá-khâm-bà-la (Ajita Kesakambalin), Ba-phù-đà Ca-chiên-diên (Pakudha Kaccāyana), Tần-ta La-chi-tử (Sañjaya Belaṭṭhiputta), và Ni-kiền-tử Nhược-đề-tử (Nigaṇṭha Nāthaputta). Phải chăng tất cả họ đều có thắng trí như họ tự nhận, hay không ai trong số họ có thắng trí, hoặc có người có thắng trí còn người khác thì không?"
 
-“Enough, Subhadda. Whether they have all had direct knowledge as they claim, or none of them have had direct knowledge, or some of them have had direct knowledge and some not, let that be. I shall teach you the Dhamma, Subhadda. Listen and attend carefully to what I shall say.”
+"Thôi đi, Tu-bạt-đà. Dù tất cả họ đều có thắng trí như họ tự nhận, hay không ai trong số họ có thắng trí, hoặc có người có còn người khác thì không, hãy gác chuyện ấy lại. Ta sẽ giảng Chánh pháp cho ông, này Tu-bạt-đà. Hãy lắng nghe và chú ý kỹ những gì Ta sắp nói."
 
-“Even so, Lord,” he replied.
+"Bạch Thế Tôn, xin vâng"
 
-“Subhadda, in whatever Dhamma and Discipline the Noble Eightfold Path is not found, there the (first) monk is not found, the second monk is not found, the third monk is not found, the fourth
-monk is not found.[^10] In whatever Dhamma and Discipline the Noble Eightfold Path is found, there the (first) monk is found, the second monk is found, the third monk is found, the fourth monk is found. The Noble Eightfold Path is found in this Dhamma and Discipline, Subhadda, and it is only here that the (first) monk is found, the second monk is found, the third monk is found, the fourth monk is found. Others’ doctrines are devoid of monks. And if these bhikkhus live rightly, the world will not be devoid of Arahants, of Accomplished Ones.
+"Này Tu-bạt-đà, trong Pháp và Luật nào không có Bát Thánh Đạo, thì ở đó không có đệ nhất sa-môn, không có đệ nhị sa-môn, không có đệ tam sa-môn, và không có đệ tứ sa-môn. [10](/the-life-of-the-buddha/notes/15#10){.note} Trong Pháp và Luật nào có Bát Thánh Đạo, thì ở đó có đệ nhất sa-môn, có đệ nhị sa-môn, có đệ tam sa-môn, và có đệ tứ sa-môn. Bát Thánh Đạo có mặt trong Pháp và Luật này, này Tu-bạt-đà, và chỉ ở nơi đây mới có đệ nhất sa-môn, đệ nhị sa-môn, đệ tam sa-môn và đệ tứ sa-môn. Giáo thuyết của các môn phái khác hoàn toàn trống rỗng không có sa-môn chân chính. Và nếu các tỳ-kheo này sống chân chánh, thế gian này sẽ không bao giờ vắng bóng các bậc A-la-hán, các bậc Toàn Thiện.
 
-> Aged twenty-nine, Subhadda, I went forth  
-> Seeking after what is wholesome;  
-> And more than fifty years have now gone by  
-> Since then, Subhadda, the time when I went forth.  
-> Outside this dispensation never a monk is there  
-> Who treads the way of Dhamma even in part.
+> Hai mươi chín tuổi đời\
+> Ta xuất gia tầm thiện\
+> Năm mươi năm có lẻ\
+> Đã trôi qua từ dạo\
+> Ta cất bước xuất gia.\
+> Ngoài giáo pháp nơi đây\
+> Không có vị sa-môn\
+> Hành đúng nẻo Chánh pháp
 
-“Nor is there the second monk, nor the third monk, nor the fourth monk. Others’ doctrines are devoid of monks. But if these bhikkhus live rightly, the world will not be devoid of Arahants.”
+"Cũng không có đệ nhị sa-môn, đệ tam sa-môn, hay đệ tứ sa-môn. Giáo thuyết của các môn phái khác đều trống rỗng không có sa-môn chân chính. Nhưng nếu các tỳ-kheo này sống chân chánh, thế gian sẽ không bao giờ vắng bóng các bậc A-la-hán."
 
-Then the wanderer Subhadda said: “Magnificent, Lord, magnificent Lord! The Dhamma has been made clear in many ways by the Blessed One, as though he were righting the overthrown, revealing the hidden, showing the way to one who is lost, holding up a lamp in the darkness for those with eyes to see visible forms. I go to the Blessed One for refuge and to the Dhamma and to the Sangha of bhikkhus. I should like to receive the going forth and the admission from the Blessed One.”
+Bấy giờ, du sĩ Tu-bạt-đà bạch rằng: "Thật kỳ diệu thay, bạch Thế Tôn! Thật phi thường thay, bạch Thế Tôn! Chánh pháp đã được Thế Tôn làm sáng tỏ bằng nhiều cách, như dựng đứng lại những gì bị quăng ngã, phơi bày những gì bị che khuất, chỉ đường cho kẻ lạc lối, rọi đèn trong đêm tối cho những ai có mắt nhìn thấy sắc. Con xin quy y Thế Tôn, quy y Pháp và quy y Tăng đoàn tỳ-kheo. Con tha thiết xin được xuất gia và thọ đại giới dưới sự dẫn dắt của Thế Tôn."
 
-“One who has already been a sectarian, Subhadda, and wants the going forth and the admission in this Dhamma and Discipline is usually put on probation for four months. At the end of the four months, if the bhikkhus are satisfied, they give him the going forth and admit him to the state of a bhikkhu. But I know that there are personal exceptions here.”
+"Này Tu-bạt-đà, người nào trước đây từng theo một môn phái ngoại đạo, nay muốn xuất gia và thọ đại giới trong Pháp và Luật này, thường phải trải qua thời gian thử thách trong bốn tháng. Đến hết bốn tháng, nếu chư tỳ-kheo hoan hỷ, họ sẽ cho người ấy xuất gia và thọ giới để trở thành tỳ-kheo. Tuy nhiên, Ta nhận thấy ở đây có những biệt lệ riêng."
 
-“Lord, if that is so, then let me be put on probation for four years; and at the end of the four years, if the bhikkhus are satisfied, they will give me the going forth and admit me to the state of a bhikkhu.”
+"Bạch Thế Tôn, nếu vậy thì xin cho con được thử thách trong bốn năm; và đến hết bốn năm, nếu chư tỳ-kheo hoan hỷ, xin hãy cho con xuất gia và thọ nhận giới tỳ-kheo."
 
-But the Blessed One told the venerable Ānanda: “Now, Ānanda, give Subhadda the going forth.”
+Thế Tôn bèn bảo đại đức Ānanda: "Này Ānanda, nay hãy truyền giới xuất gia cho Tu-bạt-đà."
 
-“Even so, Lord,” the venerable Ānanda replied.
+"Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa.
 
-Then the wanderer Subhadda said to the venerable Ānanda:[^11] “It is a gain for you, friend Ānanda, it is a great gain that you have been anointed here in the Master’s presence with the pupil’s anointing.”
+Bấy giờ, du sĩ Tu-bạt-đà bảo đại đức Ānanda: [11](/the-life-of-the-buddha/notes/15#11){.note} "Thật là đại phúc đức, thật là may mắn cho hiền giả Ānanda, khi hiền giả đã được chính bậc Đạo Sư cử hành lễ quán đảnh của hàng môn đệ ngay trước mặt Ngài."
 
-And the wanderer Subhadda received the going forth under the Blessed One and he received the admission. Then not long after his admission, dwelling alone, withdrawn, diligent, ardent and self-controlled, the venerable Subhadda, by realization himself with direct knowledge, here and now entered upon and dwelt in that supreme goal of the holy life for the sake of which clansmen rightly go forth from the house life into homelessness. He knew directly: “Birth is exhausted, the holy life has been lived out, what was to be done is done, there is no more of this to come.” And the venerable Subhadda became one of the Arahants. He was the last of the Blessed One’s disciples to testify.
+Thế rồi du sĩ Tu-bạt-đà được xuất gia và thọ đại giới dưới sự dẫn dắt của Thế Tôn. Chẳng bao lâu sau khi thọ giới, sống độc cư, viễn ly, tinh cần, nhiệt tâm và tự chế, tôn giả Tu-bạt-đà nhờ tự mình chứng ngộ bằng thắng trí, đã ngay trong hiện tại chứng đạt và an trú trong mục đích tối thượng của đời sống phạm hạnh—mục đích mà vì đó con em các gia đình lương thiện đã chân chánh từ bỏ gia đình, sống không gia đình. Tôn giả trực nhận: "Sanh đã tận, phạm hạnh đã thành, những việc cần làm đã làm xong, không còn trở lui trạng thái sinh tử này nữa." Và tôn giả Tu-bạt-đà đã trở thành một trong các vị A-la-hán. Ngài là vị đại đệ tử cuối cùng đích thân được Đức Thế Tôn hóa độ và ấn chứng.
 
-Then the Blessed One addressed the venerable Ānanda: “Ānanda, you may think: ‘The word of the Teacher is a thing of the past; now we have no more Teacher.’ But you should not regard it so. The Dhamma and Discipline taught by me and laid down for you are your Teacher after I am gone. Up till now bhikkhus have addressed each other with the word ‘friend’; but it should not be done after I am gone. A senior bhikkhu should address a junior bhikkhu by his name or his family name, or as ‘friend.’ A junior bhikkhu should address a senior bhikkhu as ‘lord’ or as ‘venerable one.’ The Sangha can, if it wishes, abolish the lesser and minor rules when I am gone. The higher penalty should be imposed on the bhikkhu Channa when I am gone.”[^12]
+Rồi Thế Tôn bảo đại đức Ānanda: "Này Ānanda, các ông có thể nghĩ rằng: 'Lời dạy của bậc Đạo Sư nay đã là quá khứ; nay chúng ta không còn Đạo Sư nữa.' Nhưng các ông chớ nên nhìn nhận như vậy. Pháp và Luật mà Ta đã giảng dạy và ban hành cho các ông sẽ là bậc Đạo Sư của các ông sau khi Ta qua đời. Cho đến nay các tỳ-kheo vẫn xưng hô với nhau bằng từ 'hiền giả' (āvuso); nhưng sau khi Ta qua đời, không nên làm như vậy nữa. Tỳ-kheo lớn hạ nên gọi tỳ-kheo nhỏ hạ bằng tên, bằng họ hoặc gọi là 'hiền giả'. Tỳ-kheo nhỏ hạ phải thưa với tỳ-kheo lớn hạ bằng 'bạch thầy' (bhante) hoặc 'đại đức' (āyasmā). Tăng đoàn có thể hủy bỏ các học giới nhỏ nhặt và thứ yếu sau khi Ta qua đời, nếu muốn. Hình phạt phạm đàn (brahmadaṇḍa) nên được áp dụng đối với tỳ-kheo Xa-nặc (Channa) sau khi Ta qua đời." [12](/the-life-of-the-buddha/notes/15#12){.note}
 
-“But, Lord, what is the higher penalty?”
+"Bạch Thế Tôn, hình phạt phạm đàn là gì?"
 
-“Whatever the bhikkhu Channa wants, whatever he says, he should not be spoken to or advised or instructed by the bhikkhus.”
+"Bất cứ điều gì tỳ-kheo Xa-nặc muốn, bất cứ điều gì sư ấy nói, chư tỳ-kheo chớ nên nói chuyện, chớ nên khuyên bảo hay chỉ dạy cho sư ấy."
 
 [D. 16](/link?q=dn-16){target=_black}
 
-Then the Blessed One addressed the bhikkhus thus: “Bhikkhus, it may be that some bhikkhu has a doubt or a problem concerning the Buddha or the Dhamma or the Sangha or the path or the way of progress. Ask, bhikkhus, so that you may not regret it afterwards thus: ‘The Teacher was face to face with us, and we could not bring ourselves to ask in the Blessed One’s presence.’”
+Rồi Thế Tôn bảo các tỳ-kheo: "Này các tỳ-kheo, có thể có vị tỳ-kheo nào đó còn có điều hoài nghi hay thắc mắc về Phật, Pháp, Tăng, về con đường hay phương pháp tiến tu. Này các tỳ-kheo, hãy hỏi đi, kẻo sau này các ông phải hối tiếc mà nói: 'Bậc Đạo Sư đã từng đối diện ngay trước mắt chúng ta, thế mà chúng ta không thể mở lời hỏi ngay trước mặt Thế Tôn.'"
 
-When this was said, the bhikkhus were silent. A second and a third time the Blessed One spoke the same words, and each time they were silent. Then he addressed them thus: “Bhikkhus, perhaps you do not ask because you are in awe of the Teacher. Let a friend tell it to a friend.”
+Khi nghe dạy vậy, các tỳ-kheo đều giữ im lặng. Lần thứ hai và lần thứ ba, Thế Tôn lặp lại những lời ấy, và các vị vẫn im lặng. Rồi Ngài bảo họ: "Này các tỳ-kheo, có lẽ các ông không dám hỏi vì lòng kính sợ bậc Đạo Sư. Vậy thì hãy để bạn nói với bạn."
 
-When this was said, they were silent. Then the venerable Ānanda said to the Blessed One: “It is wonderful, Lord, it is marvellous! I have such confidence in the Sangha of bhikkhus that I believe there is not one bhikkhu with a doubt or a problem concerning the Buddha or the Dhamma or the Sangha or the path or the way of progress.”
+Nghe dạy thế, họ vẫn tiếp tục im lặng. Bấy giờ đại đức Ānanda bạch với Thế Tôn: "Bạch Thế Tôn, thật kỳ diệu thay, thật phi thường thay! Con có niềm tin lớn lao nơi Tăng đoàn tỳ-kheo đến nỗi con tin chắc rằng không có một vị tỳ-kheo nào ở đây có mối hoài nghi hay thắc mắc nào về Phật, Pháp, Tăng, về con đường hay phương pháp tiến tu."
 
-“You, Ānanda, speak out of confidence. But the Perfect One has knowledge that here in this Sangha of bhikkhus there is not one bhikkhu who has any doubt concerning the Buddha or the Dhamma or the Sangha or the path or the way of progress. The most backward of these five hundred bhikkhus is a stream-enterer, no more subject to perdition, certain of rightness, and destined to enlightenment.”
+"Này Ānanda, ông nói ra điều đó từ niềm tin. Nhưng bậc Toàn Thiện có tuệ tri thấu suốt rằng ở đây, trong Tăng đoàn tỳ-kheo này, không có lấy một vị tỳ-kheo nào còn bất kỳ hoài nghi nào về Phật, Pháp, Tăng, về con đường hay phương pháp tiến tu. Vị thấp nhất trong số năm trăm tỳ-kheo này cũng là bậc Dự lưu, không còn bị đọa vào ác đạo, chắc chắn hướng về nẻo chánh và sẽ đạt được giác ngộ."
 
-Then the Blessed One addressed the bhikkhus thus: “Indeed, bhikkhus, I declare this to you: It is in the nature of all formations to dissolve. Attain perfection through diligence.”[^13]
+Rồi Thế Tôn nhắn nhủ các tỳ-kheo: "Thật vậy, này các tỳ-kheo, nay Ta tuyên bố với các ông: Các pháp hữu vi đều có bản chất hoại diệt. Hãy hoàn thành mục tiêu bằng sự tinh cần bất phóng dật." [13](/the-life-of-the-buddha/notes/15#13){.note}
 
 [D. 16](/link?q=dn-16){target=_black}; [A. 4:76](/link?q=AN-4.76){target=_black}
 
-This was the Perfect One’s last utterance.
+Đó là lời di ngôn cuối cùng của bậc Toàn Thiện.
 
-Then the Blessed One entered upon the first meditation. Emerging from that, he entered upon the second meditation. Emerging from that, he entered upon the third meditation. Emerging from that, he entered upon the fourth meditation. Emerging from that, he entered upon the base consisting of the infinity of space. Emerging from that, he entered upon the base consisting of the infinity of consciousness. Emerging from that, he entered upon the base consisting of nothingness. Emerging from that, he entered upon the base consisting of neither-perception-nor-non-perception. Emerging from that, he entered upon the cessation of perception and feeling.
+Rồi Thế Tôn nhập Sơ thiền. Xuất Sơ thiền, Ngài nhập Nhị thiền. Xuất Nhị thiền, Ngài nhập Tam thiền. Xuất Tam thiền, Ngài nhập Tứ thiền. Xuất Tứ thiền, Ngài nhập Không vô biên xứ định. Xuất Không vô biên xứ định, Ngài nhập Thức vô biên xứ định. Xuất Thức vô biên xứ định, Ngài nhập Vô sở hữu xứ định. Xuất Vô sở hữu xứ định, Ngài nhập Phi tưởng phi phi tưởng xứ định. Xuất Phi tưởng phi phi tưởng xứ định, Ngài nhập Diệt thọ tưởng định.
 
-Then the venerable Ānanda said to the venerable Anuruddha: “Lord, the Blessed One has attained final Nibbāna.”
+Bấy giờ, đại đức Ānanda bảo đại đức A-nậu-lâu-đà (Anuruddha): "Bạch đại đức, Thế Tôn đã nhập Đại Bát-niết-bàn rồi."
 
-“No, friend. The Blessed One has not attained final Nibbāna; he has attained the cessation of perception and feeling.”
+"Không phải đâu, này hiền giả. Thế Tôn chưa nhập Đại Bát-niết-bàn; Ngài đang an trú trong Diệt thọ tưởng định."
 
-Then the Blessed One, emerging from the cessation of perception and feeling, entered upon the base consisting of neither-perception-nor-non-perception. Emerging from that, he entered upon the base consisting of nothingness. Emerging from that, he entered upon the base consisting of the infinity of consciousness. Emerging from that, he entered upon the base consisting of the infinity of space. Emerging from that, he entered upon the fourth meditation. Emerging from that, he entered upon the third meditation. Emerging from that, he entered upon the second meditation. Emerging from that, he entered upon the first meditation. Emerging from that, he entered upon the second meditation. Emerging from that, he entered upon the third meditation. Emerging from that, he entered upon the fourth meditation. And on emerging from the fourth meditation, the Blessed One attained final Nibbāna.
+Rồi Thế Tôn xuất Diệt thọ tưởng định, nhập Phi tưởng phi phi tưởng xứ định. Xuất Phi tưởng phi phi tưởng xứ định, Ngài nhập Vô sở hữu xứ định. Xuất Vô sở hữu xứ định, Ngài nhập Thức vô biên xứ định. Xuất Thức vô biên xứ định, Ngài nhập Không vô biên xứ định. Xuất Không vô biên xứ định, Ngài nhập Tứ thiền. Xuất Tứ thiền, Ngài nhập Tam thiền. Xuất Tam thiền, Ngài nhập Nhị thiền. Xuất Nhị thiền, Ngài nhập Sơ thiền. Xuất Sơ thiền, Ngài nhập Nhị thiền. Xuất Nhị thiền, Ngài nhập Tam thiền. Xuất Tam thiền, Ngài nhập Tứ thiền. Và vừa xuất khỏi Tứ thiền, Thế Tôn liền nhập Đại Bát-niết-bàn.
 
-With the Blessed One's attainment of final Nibbāna there was a great earthquake, fearful and hair-raising, and the drums of heaven resounded.
+Ngay khi Thế Tôn nhập Đại Bát-niết-bàn, một trận đại địa chấn kinh hoàng dựng tóc gáy xảy ra, và sấm trời vang rền rĩ.
 
-With the Blessed One's attainment of final Nibbāna Brahmā Sahampati uttered this stanza:
+Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, Phạm thiên Sahampati thốt lên bài kệ này:
 
-> No being in the world but shall lay down
-> The temporary compound of its person,
-> And even such a teacher without peer
-> In all the world, perfected, with the powers,
-> Enlightened, has attained complete extinction.
-
-[D. 16](/link?q=dn-16){target=_black}; [S. 6:15](/link?q=SN-6.15){target=_black}
-
-With the Blessed One's attainment of final Nibbāna, Sakka, Ruler of Gods, uttered this stanza:
-
-> Formations are impermanent,
-> Their very nature is to rise and fall,
-> And there is none arises but must cease:
-> True bliss lies in their stilling.
+> Muôn loài khắp thế gian\
+> Đều buông bỏ thân xác\
+> Bậc Đạo Sư vô song\
+> Trọn lành khắp cõi đời\
+> Giác ngộ đầy thần thông\
+> Đã nhập Bát-niết-bàn
 
 [D. 16](/link?q=dn-16){target=_black}; [S. 6:15](/link?q=SN-6.15){target=_black}
 
-With the Blessed One's attainment of final Nibbāna, the venerable Anuruddha uttered this stanza:
+Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, Đế Thích (Sakka), Thiên chủ chư thiên, thốt lên bài kệ này:
 
-> One even such as he, his mind at rest,
-> Remained bereft of breathing; having no wants,
-
-> The Seer completes his time, intent on peace.  
-> He bore his feelings with untrammelled heart:  
-> His heart's release was like a flame's extinction.
-
-With the Blessed One’s attainment of final Nibbāna, the venerable Ānanda uttered this stanza:
-
-> Oh, then was paralyzing fear;  
-> Oh, then the hair stood up with horror—  
-> The Enlightened One supremely graced  
-> Attained the ultimate extinction.
+> Các hành là vô thường\
+> Có sinh ắt có diệt\
+> Sinh rồi liền hoại diệt\
+> Vắng lặng là an vui
 
 [D. 16](/link?q=dn-16){target=_black}; [S. 6:15](/link?q=SN-6.15){target=_black}
 
-And with the Blessed One’s attainment of final Nibbāna, some bhikkhus who were not without lust stretched out their arms and wept, and they fell down and rolled back and forth: “So soon the Blessed One has attained final Nibbāna! So soon the Sublime One has attained final Nibbāna! So soon the Eye has vanished from the world!” But those who were free from lust, mindful and fully aware, said: “Formations are impermanent. How could it be that what is born, come to being, formed, and bound to fall should not fall? That is not possible.”
+Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, đại đức A-nậu-lâu-đà thốt lên bài kệ này:
 
-Then the venerable Anuruddha addressed the bhikkhus: “Enough, friends, do not sorrow, do not lament. Has it not already been declared by the Blessed One that there is separation and parting and division from all that is dear and beloved? How could it be that what is born, come to being, formed, and bound to fall should not fall? That is not possible. Deities are protesting, friends.”
+> Bậc tâm an bất động\
+> Hơi thở nay dứt bặt\
+> Không tham cầu, an nhiên\
+> Mâu-ni trọn cuộc đời.\
+> Nhẫn thọ tâm tự tại\
+> Tâm giải thoát nhẹ nhàng\
+> Như ngọn lửa vụt tắt
 
-“But, Lord, what sort of deities has the venerable Anuruddha in mind?”
+Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, đại đức Ānanda thốt lên bài kệ này:
 
-“Friends, there are deities percipient of earth in space; they are tearing their hair and weeping, stretching out their arms and weeping, failing down and rolling back and forth, crying out: ‘So soon the Blessed One has attained final Nibbāna! So soon the Sublime One has attained final Nibbāna! So soon the Eye has vanished from the world!’ And there are deities percipient of earth in earth who are doing likewise. But deities who are free from lust, mindful and fully aware, say: ‘Formations are impermanent. How could it be that what is born, come to being, formed, and bound to fall should not fall? That is not possible.’”
+> Kinh hoàng thấu tâm can\
+> Dựng tóc gáy rợn người—\
+> Bậc Giác Ngộ tối thượng\
+> Đã nhập Bát-niết-bàn
 
-The venerable Anuruddha and the venerable Ānanda spent the rest of the night in talk on the Dhamma. Then the venerable Anuruddha said to the venerable Ānanda: “Go, friend, go into Kusinārā and announce to the Mallians of Kusinārā: ‘Vāseṭṭhas, the Blessed One has attained final Nibbāna. Now it is time for you to do as you think fit.’”
+[D. 16](/link?q=dn-16){target=_black}; [S. 6:15](/link?q=SN-6.15){target=_black}
 
-“Even so, Lord,” the venerable Ānanda replied. And it being morning, he dressed, and taking his bowl and outer robe, he went to Kusinārā with another bhikkhu. Now at that time the Mallians of Kusinārā had met together in their assembly hall for some business or other. The venerable Ānanda went to the assembly hall and announced to them: “Vāseṭṭhas, the Blessed One has attained final Nibbāna.”
+Và khi Thế Tôn nhập Đại Bát-niết-bàn, một số tỳ-kheo chưa dứt tham ái giơ hai tay than khóc, ngã quỵ xuống đất lăn lộn qua lại: "Sao Thế Tôn nhập Đại Bát-niết-bàn quá vội vàng! Sao bậc Thiện Thệ nhập Đại Bát-niết-bàn quá mau chóng! Sao Con Mắt của thế gian lại biến mất khỏi cuộc đời sớm dường này!" Nhưng những vị đã ly tham, chánh niệm và tỉnh giác thì nói: "Các pháp hữu vi là vô thường. Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra."
 
-When they heard this from the venerable Ānanda, the Mallians of Kusinārā with their young men and maidens and matrons were dismayed and aghast. Overcome by grief, some tore their hair and wept, some stretched out their arms and wept, some fell down and rolled back and forth, crying out: “So soon the Blessed One has attained final Nibbāna! So soon the Sublime One has attained final Nibbāna! So soon the Eye has vanished from the world!”
+Rồi đại đức A-nậu-lâu-đà bảo các tỳ-kheo: "Thôi đi, các hiền giả, đừng sầu não, đừng than khóc nữa. Chẳng phải Thế Tôn đã từng dạy rằng sẽ có sự ly tán, phân ly và cách biệt đối với tất cả những gì ta yêu quý và trân trọng hay sao? Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra. Chư thiên đang than phiền đấy, các hiền giả."
 
-Then the Mallians of Kusinārā gave men orders: “Collect scents and flowers and all the instruments of music in Kusinārā.” And they took the scents and flowers and musical instruments and also five hundred lengths of cloth to where the Blessed One’s body lay in the Mallians’ sāla-tree grove at the turn into Kusinārā. And they spent that day in paying honour, respect, reverence and veneration to the Blessed One’s body with dances, songs, music, garlands and scents, and in making cloth canopies and pavilions. Then they thought: “It is too late now to burn the Blessed One’s body today; we shall do it tomorrow.” And so they passed the second day, and the third and fourth and fifth and sixth days.
+"Bạch đại đức, ngài đang nói đến hạng chư thiên nào?"
 
-On the seventh day they thought: “Let us bear the Blessed One’s body southwards outside the town to a place south of the town, paying honour, respect, reverence and veneration to the Blessed One’s body with dances, songs, music, garlands and scents, and there to the south of the town let us burn the Blessed One’s body.”
+"Các hiền giả, có những chư thiên nhìn nhận đất trong hư không; họ đang bứt tóc than khóc, giơ tay than khóc, ngã quỵ lăn lộn tới lui, kêu gào: 'Sao Thế Tôn nhập Đại Bát-niết-bàn quá vội vàng! Sao bậc Thiện Thệ nhập Đại Bát-niết-bàn quá mau chóng! Sao Con Mắt của thế gian lại biến mất khỏi cuộc đời sớm dường này!' Và có những chư thiên nhìn nhận đất ở trong đất cũng đang làm như thế. Nhưng những chư thiên đã ly tham, chánh niệm và tỉnh giác thì nói: 'Các pháp hữu vi là vô thường. Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra.'"
 
-Then eight leading Mallians bathed their heads and put on new garments. Thinking to lift up the Blessed One’s body, they could not do so. They asked the venerable Anuruddha the reason.
+Đại đức A-nậu-lâu-đà và đại đức Ānanda thức trọn phần còn lại của đêm đàm luận về Chánh pháp. Rồi đại đức A-nậu-lâu-đà bảo đại đức Ānanda: "Hiền giả hãy đi vào Câu-thi-na và báo cho dân Mạt-la ở Câu-thi-na biết: 'Này các vị Vāseṭṭha, Thế Tôn đã nhập Đại Bát-niết-bàn. Nay đã hợp thời, các vị hãy làm những gì thấy thích hợp.'"
 
-“You, Vāseṭṭhas, have one intention, while the deities have another.”
+"Bạch đại đức, xin vâng," đại đức Ānanda thưa. Sáng hôm ấy, tôn giả đắp y, mang bát và thượng y cùng một vị tỳ-kheo khác đi vào Câu-thi-na. Bấy giờ, dân Mạt-la ở Câu-thi-na đang nhóm họp tại công đường vì một số công việc. Đại đức Ānanda đến công đường và báo cho họ biết: "Này các vị Vāseṭṭha, Thế Tôn đã nhập Đại Bát-niết-bàn."
 
-“Then, Lord, what is the deities’ intention?”
+Khi nghe đại đức Ānanda báo tin, dân Mạt-la ở Câu-thi-na cùng con trai, con gái và các phu nhân đều bàng hoàng sững sờ. Đau đớn tột cùng, người thì bứt tóc than khóc, kẻ thì giơ tay than khóc, kẻ ngã quỵ lăn lộn qua lại, kêu gào: "Sao Thế Tôn nhập Đại Bát-niết-bàn quá vội vàng! Sao bậc Thiện Thệ nhập Đại Bát-niết-bàn quá mau chóng! Sao Con Mắt của thế gian lại biến mất khỏi cuộc đời sớm dường này!"
 
-“Your intention, Vāseṭṭhas, is this: ‘Let us bear the Blessed One’s body southwards outside the town to a place south of the town, paying honour, respect, reverence and veneration to the Blessed One’s body with dances, songs, music, garlands and scents, and there to the south of the town let us burn the Blessed One’s body.’ The deities’ intention is this: ‘Let us bear the Blessed One’s body northwards to the north of the town, paying honour, respect, reverence and veneration to the Blessed One’s body with dances, songs, music, garlands and scents, and then entering by the north gate, let us bear it through the middle to the middle of the town, after which let us go out by the east gate, and there where the Mallians have a shrine called Makuṭabandhana to the east of the town, there let us have the Blessed One’s body burnt.’”
+Rồi dân Mạt-la ở Câu-thi-na hạ lệnh: "Hãy thu gom hương hoa và tất cả nhạc cụ trong thành Câu-thi-na lại." Họ mang theo hương hoa, nhạc cụ cùng năm trăm xấp vải đến nơi đặt nhục thân Thế Tôn tại rừng sa-la ở lối rẽ vào Câu-thi-na. Họ dành trọn ngày hôm ấy để bày tỏ lòng cung kính, tôn trọng, tôn sùng và cúng dường nhục thân Thế Tôn bằng các điệu múa, lời ca, âm nhạc, tràng hoa và hương thơm, đồng thời làm những lọng che và màn trướng bằng vải. Rồi họ nghĩ: "Hôm nay hỏa táng nhục thân Thế Tôn thì đã muộn; ngày mai chúng ta sẽ làm." Và họ đã trải qua ngày thứ hai, thứ ba, thứ tư, thứ năm và thứ sáu như thế.
 
-“Lord, let it be as the deities intend.”
+Đến ngày thứ bảy, họ nghĩ: "Chúng ta hãy rước nhục thân Thế Tôn về phía nam ra ngoài thành đến một nơi phía nam thành phố, bày tỏ lòng cung kính, tôn trọng, tôn sùng và cúng dường nhục thân Thế Tôn bằng các điệu múa, lời ca, âm nhạc, tràng hoa và hương thơm, rồi tại nơi phía nam thành phố ấy, chúng ta sẽ hỏa táng nhục thân Thế Tôn."
 
-Now at that time Kusinārā was all strewn knee deep with mandārava flowers, even to the middens and rubbish heaps.
+Bấy giờ, tám vị thủ lĩnh người Mạt-la gội đầu sạch sẽ và mặc y phục mới. Họ định khiêng nhục thân Thế Tôn lên nhưng không sao nhấc nổi. Họ bèn hỏi đại đức A-nậu-lâu-đà nguyên do vì sao.
 
-So, paying honour, respect, reverence, and veneration to the Blessed One’s body with both divine and human dances, songs, music, garlands and scents, the deities with the Mallians of Kusinārā bore the Blessed One’s body northwards to the north of the town, and entering by the north gate, they bore it through the middle to the middle of the town, and going out by the east gate to where the Mallians have a shrine called Makuṭabandhana to the east of the town, there they set it down.
+"Này các vị Vāseṭṭha, ý định của các vị là một đằng, nhưng ý định của chư thiên lại là một nẻo."
 
-Then the Mallians of Kusinārā said to the venerable Ānanda: “Lord Ānanda, how are we to treat the Perfect One’s remains?”
+"Bạch đại đức, vậy ý định của chư thiên là thế nào?"
 
-“Treat the Perfect One’s remains, Vāseṭṭhas, as the remains of a Universal Monarch who turns the Wheel of Righteousness are treated.”
+"Ý định của các vị là: 'Chúng ta hãy rước nhục thân Thế Tôn về phía nam ra ngoài thành đến một nơi phía nam thành phố, bày tỏ lòng cung kính, tôn trọng, tôn sùng và cúng dường nhục thân Thế Tôn bằng các điệu múa, lời ca, âm nhạc, tràng hoa và hương thơm, rồi tại nơi phía nam thành phố ấy, chúng ta sẽ hỏa táng nhục thân Thế Tôn.' Còn ý định của chư thiên là: 'Chúng ta hãy rước nhục thân Thế Tôn về phía bắc đến phía bắc thành phố, bày tỏ lòng cung kính, tôn trọng, tôn sùng và cúng dường nhục thân Thế Tôn bằng các điệu múa, lời ca, âm nhạc, tràng hoa và hương thơm, rồi đi vào bằng cổng bắc, rước nhục thân đi qua trung tâm thành phố, sau đó đi ra bằng cổng đông, và tại nơi người Mạt-la có ngôi đền tên là Makuṭabandhana ở phía đông thành phố, tại đó chúng ta sẽ hỏa táng nhục thân Thế Tôn.'"
 
-“But, Lord Ānanda, how is that done?”
+"Bạch đại đức, xin thuận theo ý định của chư thiên."
 
-“They wrap the remains of a Universal Monarch who turns the Wheel of Righteousness in new cloth, Vāseṭṭhas; then they wrap them in well-beaten cotton; then they wrap them in new cloth. And proceeding in that way they wrap them in five hundred twin layers. Then they place them in an iron oil vessel, which they close with another iron vessel. Then they make a pyre with all kinds of scents
-and burn the remains. Afterwards they build a monument to him at the four crossroads. That is how they treat the remains of a Universal Monarch who turns the Wheel of Righteousness. And as his remains are treated so should the Perfect One’s remains be treated. The Perfect One’s monument should be built at the four crossroads; and whoever shall put flowers or scents on it, or whitewash it, or shall worship it or feel confidence in his heart there, that will be long for his welfare and happiness.”
+Bấy giờ, khắp thành Câu-thi-na ngập tràn hoa mạn-đà-la sâu đến tận đầu gối, ngay cả ở những bãi rác và hố phân.
 
-Thereupon, the Mallians of Kusinārā gave men orders to collect all the Mallians’ beaten cotton. And then they wrapped the Blessed One’s body in new cloth; and after that they wrapped it in beaten cotton; and after that they wrapped it in new cloth; and having wrapped the Blessed One’s body in that way in five hundred twin layers, they put it into an iron oil vessel which they closed with another iron vessel. Then they built a pyre with all kinds of scents and they mounted the Blessed One’s remains on the pyre.
+Vì vậy, trong sự tôn kính, kính trọng, tôn sùng và cúng dường nhục thân Thế Tôn bằng cả các điệu múa, bài ca, âm nhạc, tràng hoa và hương thơm của cõi trời lẫn cõi người, chư thiên cùng dân Mạt-la ở Câu-thi-na đã rước nhục thân Thế Tôn về phía bắc đến phía bắc thành phố, rồi đi vào bằng cổng bắc, khiêng xuyên qua trung tâm thành phố, đi ra bằng cổng đông đến đền Makuṭabandhana của người Mạt-la ở phía đông thành, rồi đặt nhục thân xuống tại đó.
+
+Rồi dân Mạt-la ở Câu-thi-na hỏi đại đức Ānanda: "Bạch đại đức Ānanda, chúng con phải xử lý nhục thân bậc Toàn Thiện như thế nào?"
+
+"Này các vị Vāseṭṭha, hãy xử lý nhục thân bậc Toàn Thiện như di thể của một vị Chuyển Luân Thánh Vương trị vì bằng Chánh pháp."
+
+"Bạch đại đức Ānanda, việc đó làm như thế nào?"
+
+"Người ta quấn di thể của vị Chuyển Luân Thánh Vương bằng vải mới; rồi quấn bằng bông vải đã đập kỹ; rồi lại quấn bằng vải mới. Cứ làm như vậy, họ quấn đủ năm trăm lớp đôi. Sau đó họ đặt di thể vào một cỗ quan sắt đầy dầu rồi đậy lại bằng một cỗ quan sắt khác. Rồi họ dựng một giàn hỏa thiêu bằng đủ loại danh hương và hỏa táng di thể. Sau đó họ xây bảo tháp tưởng niệm ngài ở ngã tư đường. Đó là cách người ta xử lý di thể một vị Chuyển Luân Thánh Vương. Và nhục thân bậc Toàn Thiện cũng nên được xử lý như thế. Bảo tháp của bậc Toàn Thiện nên được dựng nơi ngã tư đường; và bất cứ ai đến đó dâng hoa hay hương, hoặc quét vôi, hay đảnh lễ, hoặc khởi tâm tịnh tín nơi đó, điều ấy sẽ đem lại lợi ích và hạnh phúc lâu dài cho người đó."
+
+Thế rồi, dân Mạt-la ở Câu-thi-na ra lệnh cho gia nhân thu gom toàn bộ số bông vải đã đập kỹ của người Mạt-la. Họ quấn nhục thân Thế Tôn bằng vải mới; sau đó quấn bằng bông vải đập kỹ; rồi lại quấn bằng vải mới; và sau khi đã quấn nhục thân Thế Tôn đủ năm trăm lớp đôi như vậy, họ đặt Ngài vào một cỗ quan sắt đầy dầu rồi đậy lại bằng một cỗ quan sắt khác. Đoạn họ dựng giàn hỏa thiêu bằng đủ loại danh hương rồi đặt nhục thân Thế Tôn lên giàn hỏa.
 
 [D. 16](/link?q=dn-16){target=_black}
 
-Now at that time the venerable Mahā-Kassapa was travelling on the high road from Pāvā to Kusinārā with a large number of bhikkhus, with five hundred bhikkhus. Then he left the road and sat down at the root of a tree. Meanwhile a mendicant ascetic who had picked up a mandārava flower in Kusinārā was travelling by that road. The venerable Mahā-Kassapa saw him coming. He asked him: “Do you know our Teacher, friend?”
+Bấy giờ, đại đức Đại Ca-diếp (Mahā-Kassapa) đang đi trên đường lớn từ Ba-bà đến Câu-thi-na cùng với một đại chúng tỳ-kheo gồm năm trăm vị. Tôn giả rời đường cái và ngồi nghỉ dưới một gốc cây. Lúc ấy có một đạo sĩ nhặt được một bông hoa mạn-đà-la ở Câu-thi-na đang đi tới trên con đường đó. Đại đức Đại Ca-diếp thấy người ấy đi lại bèn hỏi: "Này hiền giả, ông có biết Đạo Sư của chúng tôi không?"
 
-“Yes, friend, I know him. The monk Gotama attained final Nibbāna seven days ago today. That is how I got this mandārava flower.”
+"Thưa hiền giả, tôi biết chứ. Sa-môn Cù-đàm đã nhập Đại Bát-niết-bàn cách đây đúng bảy ngày. Do vậy mà tôi mới có được bông hoa mạn-đà-la này."
 
-Some of the bhikkhus who were not free from lust stretched out their arms and wept, and they fell down and rolled back and forth: “So soon the Blessed One has attained final Nibbāna! So soon the Sublime One has attained final Nibbāna! So soon the Eye has vanished from the world!” But those bhikkhus who were free from lust, mindful and fully aware, said: “Formations are impermanent. How could it be that what is born, come to being, formed, and bound to fall should not fall? That is not possible.”
+Một số tỳ-kheo chưa dứt tham ái giơ tay than khóc, ngã quỵ xuống đất lăn lộn qua lại: "Sao Thế Tôn nhập Đại Bát-niết-bàn quá vội vàng! Sao bậc Thiện Thệ nhập Đại Bát-niết-bàn quá mau chóng! Sao Con Mắt của thế gian lại biến mất khỏi cuộc đời sớm dường này!" Nhưng những vị tỳ-kheo đã ly tham, chánh niệm và tỉnh giác thì nói: "Các pháp hữu vi là vô thường. Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra."
 
-But there was one sitting in the assembly called Subhadda who had gone forth in old age. He said to those bhikkhus: “Enough, friends, do not sorrow, do not lament. We are well rid of the Great Monk. We have been frustrated by his saying ‘This is allowed to
-you; this is not allowed to you.’ But now we shall do as we like and we shall not do as we do not like.”
+Nhưng bấy giờ trong hội chúng có một người tên là Tu-bạt-đà, vốn xuất gia khi tuổi đã già. Ông ta nói với các tỳ-kheo ấy rằng: "Thôi đi các bạn, đừng sầu não, đừng than khóc nữa. Chúng ta rũ sạch được Đại Sa-môn ấy là may mắn lắm rồi. Xưa nay chúng ta bị phiền toái bởi lời răn dạy của ông ta: 'Các ông được phép làm điều này; các ông không được phép làm điều kia.' Nhưng từ nay chúng ta muốn làm gì thì làm, không thích làm gì thì không làm."
 
-Then the venerable Mahā-Kassapa addressed the bhikkhus thus: “Enough, friends, do not sorrow, do not lament. Has it not already been declared by the Blessed One that there is separation and parting and division from all that is dear and beloved? How could it be that what is born, come to being, formed, and bound to fall should not fall? That is not possible.”
+Đại đức Đại Ca-diếp bèn bảo các tỳ-kheo: "Thôi đi, các hiền giả, đừng sầu não, đừng than khóc nữa. Chẳng phải Thế Tôn đã từng dạy rằng sẽ có sự ly tán, phân ly và cách biệt đối với tất cả những gì ta yêu quý và trân trọng hay sao? Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra."
 
 [D. 16](/link?q=dn-16){target=_black}; [Vin. Cv. 11:1](/link?q=vin.cv-11.1){target=_black}
 
-Four leading Mallians who had bathed their heads and put on new garments thought: “Let us light the Blessed One’s pyre.” But they were unable to do so. Then they asked the venerable Anuruddha for the reason.
+Bốn vị thủ lĩnh Mạt-la đã gội đầu sạch sẽ và mặc y phục mới định châm lửa giàn hỏa thiêu của Thế Tôn. Nhưng họ không tài nào châm lửa cháy được. Họ bèn hỏi đại đức A-nậu-lâu-đà nguyên do vì sao.
 
-“The deities have a different intention, Vāseṭṭhas.”
+"Chư thiên có ý định khác, này các vị Vāseṭṭha."
 
-“But, Lord, what is the deities’ intention?”
+"Bạch đại đức, ý định của chư thiên là gì?"
 
-“The deities’ intention is this, Vāseṭṭhas: ‘There is the venerable Mahā-Kassapa travelling on the high road from Pāvā to Kusinārā with a large community of bhikkhus, with five hundred bhikkhus. The Blessed One’s pyre shall not be lit until the venerable Mahā-Kassapa has saluted the Blessed One with his head.’”
+"Ý định của chư thiên là thế này, này các vị Vāseṭṭha: 'Đại đức Đại Ca-diếp đang đi trên đường cái từ Ba-bà đến Câu-thi-na cùng đại chúng năm trăm tỳ-kheo. Giàn hỏa thiêu của Thế Tôn sẽ không bốc cháy chừng nào đại đức Đại Ca-diếp chưa cúi đầu đảnh lễ dưới chân Thế Tôn.'"
 
-“Then, Lord, let it be as the deities intend.”
+"Bạch đại đức, xin thuận theo ý định của chư thiên."
 
-The venerable Mahā-Kassapa came to the Blessed One’s pyre at the Mallians’ Makuṭabandhana Shrine at Kusinārā. When he had done so, he arranged his robe on one shoulder, and raising his hands palms together, he circumambulated the pyre three times to the right. Then the Blessed One’s feet were revealed, and he saluted the Blessed One’s feet with his head. And the five hundred bhikkhus arranged their robes on one shoulder, and they did as the venerable Mahā-Kassapa had done. But as soon as they had finished, the pyre caught alight of itself. And just as when butter or oil burns it produces neither cinder nor ash, so too, in the burning of the Blessed One’s body, neither the outer skin nor the inner skin nor the flesh nor the sinews nor the oil of the joints produced any cinder or ash; only the bones remained. And of the five hundred twin wrappings only two were burnt: the innermost and the outermost.
+Đại đức Đại Ca-diếp đến bên giàn hỏa thiêu Thế Tôn tại đền Makuṭabandhana của người Mạt-la ở Câu-thi-na. Đến nơi, tôn giả đắp thượng y một bên vai, chắp hai tay cung kính đi nhiễu quanh giàn hỏa ba vòng về phía hữu. Bấy giờ, đôi bàn chân Thế Tôn bỗng lộ ra khỏi giàn hỏa, và tôn giả cúi đầu đảnh lễ đôi bàn chân Thế Tôn. Năm trăm vị tỳ-kheo cũng đắp y một bên vai và làm y như tôn giả Đại Ca-diếp đã làm. Ngay khi họ vừa đảnh lễ xong, giàn hỏa tự nhiên bốc cháy bừng bừng. Và cũng như khi bơ hay dầu cháy rụi không để lại chút tro tàn hay muội than nào, trong cuộc hỏa táng nhục thân Thế Tôn, lớp da ngoài, da trong, thịt, gân hay chất nhờn của các khớp xương đều không để lại chút tro than nào; chỉ còn lại xá-lợi xương. Và trong năm trăm lớp vải đôi bọc nhục thân, chỉ có hai lớp bị cháy: lớp trong cùng và lớp ngoài cùng.
 
-When the Blessed One’s body was consumed, a cascade of water poured down from the sky and extinguished the pyre, and water welled up from underground and extinguished the pyre, and the
+Khi nhục thân Thế Tôn đã hỏa thiêu xong, những dòng nước từ trên trời tuôn đổ xuống dập tắt giàn hỏa, nước từ lòng đất vọt lên dập tắt giàn hỏa, và dân Mạt-la ở Câu-thi-na dùng đủ các thứ nước thơm để dập tắt ngọn lửa.
 
-Mallians of Kusinārā extinguished the pyre with all kinds of scented waters.
+Dân Mạt-la lưu giữ xá-lợi xương Thế Tôn tại công đường trong bảy ngày, họ dựng một hàng rào bằng giáo mác và che chắn bằng một bờ lũy cung tên; họ tôn kính, kính trọng, tôn sùng và cúng dường xá-lợi bằng các điệu múa, lời ca, âm nhạc, tràng hoa và hương thơm.
 
-Then the Mallians kept the Blessed One’s bones in the assembly hall for seven days, and they made a lattice frame of spears set round with a rampart of bows; and they honoured, respected, revered and venerated them with dances, songs, music, garlands and scents.
+Vua A-xà-thế xứ Ma-kiệt-đà nghe tin: "Hình như Thế Tôn đã nhập Đại Bát-niết-bàn tại Câu-thi-na." Nhà vua liền phái sứ giả đến gặp dân Mạt-la ở Câu-thi-na với yêu cầu: "Thế Tôn là một vị sát-đế-lỵ; trẫm cũng là một vị sát-đế-lỵ. Trẫm xứng đáng được chia một phần xá-lợi của Thế Tôn. Trẫm cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ."
 
-King Ajātasattu of Magadha heard: “The Blessed One, it seems, has attained final Nibbāna at Kusinārā.” Then he sent an envoy to the Mallians of Kusinārā with the demand: “The Blessed One was a warrior; I too am a warrior. I am worthy of a share of the Blessed One’s bones. I too will build a monument and hold a ceremony.”
+Dân Lệ-xa ở Tỳ-xá-ly cũng nghe tin như vậy, và họ cũng phái sứ giả đến yêu cầu: "Thế Tôn là một vị sát-đế-lỵ; chúng tôi cũng là những sát-đế-lỵ. Chúng tôi xứng đáng được chia một phần xá-lợi của Thế Tôn. Chúng tôi cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ."
 
-And the Licchavis of Vesālī heard likewise, and they too sent an envoy with the demand: “The Blessed One was a warrior; we too are warriors. We too are worthy of a share of the Blessed One’s bones. We too will build a monument and hold a ceremony.”
+Dòng họ Thích-ca ở Ca-tỳ-la-vệ cũng nghe tin như vậy, và họ cũng phái sứ giả đến yêu cầu: "Thế Tôn là bậc tối thượng trong dòng máu của chúng tôi; chúng tôi xứng đáng được chia một phần xá-lợi của Thế Tôn. Chúng tôi cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ."
 
-And the Sakyans of Kapilavatthu heard likewise, and they too sent an envoy with the demand: “The Blessed One was the greatest of our blood; we too are worthy of a share of the Blessed One’s bones. We too will build a monument and hold a ceremony.”
+Người Buli xứ Allakappaka cũng nghe tin như vậy, và họ phái sứ giả đến yêu cầu: "Thế Tôn là một vị sát-đế-lỵ; chúng tôi cũng là những sát-đế-lỵ. Chúng tôi xứng đáng được chia một phần xá-lợi của Thế Tôn. Chúng tôi cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ."
 
-And the Bulians of Allakappaka heard likewise, and they too sent an envoy with the demand: “The Blessed One was a warrior; we too are warriors. We too are worthy of a share of the Blessed One’s bones. We too will build a monument and hold a ceremony.”
+Người Koliya xứ Rāmagāma cũng nghe tin như vậy, và họ phái sứ giả đến yêu cầu: "Thế Tôn là một vị sát-đế-lỵ; chúng tôi cũng là những sát-đế-lỵ. Chúng tôi xứng đáng được chia một phần xá-lợi của Thế Tôn. Chúng tôi cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ."
 
-And the Koliyans of Rāmagāma heard likewise, and they too sent an envoy with the demand: “The Blessed One was a warrior; we too are warriors. We too are worthy of a share of the Blessed One’s bones. We too will build a monument and hold a ceremony.”
+Vị bà-la-môn ở Đảo Veṭha cũng nghe tin như vậy, và ông phái sứ giả đến yêu cầu: "Thế Tôn là một vị sát-đế-lỵ; tôi là một bà-la-môn. Tôi cũng xứng đáng được chia một phần xá-lợi của Thế Tôn. Tôi cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ."
 
-And the brahman of Veṭha Island heard likewise, and he too sent an envoy with the demand: “The Blessed One was a warrior; I am a brahman. I too am worthy of a share of the Blessed One’s bones. I too will build a monument and hold a ceremony.”
+Người Mạt-la ở Ba-bà cũng nghe tin như vậy, và họ phái sứ giả đến yêu cầu: "Thế Tôn là một vị sát-đế-lỵ; chúng tôi cũng là những sát-đế-lỵ. Chúng tôi xứng đáng được chia một phần xá-lợi của Thế Tôn. Chúng tôi cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ."
 
-And the Mallians of Pāvā heard likewise, and they too sent an envoy with the demand: “The Blessed One was a warrior; we too are warriors. We too are worthy of a share of the Blessed One’s bones. We too will build a monument and hold a ceremony.”
+Nghe vậy, dân Mạt-la ở Câu-thi-na tập hợp các sứ giả lại và đáp rằng: "Thế Tôn đã nhập Đại Bát-niết-bàn ngay trong bờ cõi thành phố của chúng tôi. Chúng tôi sẽ không chia xá-lợi của Thế Tôn cho ai cả."
 
-When this had been said, the Mallians assembled the envoys and answered them thus: “The Blessed One attained final Nibbāna in the precincts of our town. We will not give up the bones of the Blessed One.”
+Bấy giờ, bà-la-môn Đồ-nại (Doṇa) ngỏ lời cùng hội chúng bằng những vần kệ này:
 
-Then the brahman Doṇa addressed the assembled group with these stanzas:
+> Xin nghe lời tôi nói:\
+> Đức Phật dạy nhẫn hòa.\
+> Thật không nên chút nào\
+> Lại tranh chấp xung đột\
+> Chia xá-lợi bậc tôn.\
+> Hãy cùng nhau hòa hợp\
+> Đồng thuận chia tám phần\
+> Xây tháp khắp nơi nơi\
+> Cho đời sinh chánh tín
 
-> Sirs, hear a word from me: our Wakened One  
-> Preached patience. So it ill becomes us now  
-> That we should come to clash over a share  
-> In that exalted personage's bones.  
-> Sirs, let us all unite in harmony  
-> And in agreement to make up eight parts.  
-> Let monuments be set up far and wide,  
-> That many may gain trust in the Seer.
+"Vậy xin tôn giả bà-la-môn hãy tự tay phân chia xá-lợi của Thế Tôn thành tám phần đều nhau một cách công bằng."
 
-“Then, brahman, you yourself should divide up and distribute the Blessed One’s bones fairly into eight equal parts.”
+"Xin vâng, thưa các ngài," ông đáp, rồi phân chia xá-lợi của Thế Tôn thành tám phần đều nhau một cách công bằng. Đoạn ông xin hội chúng: "Xin các ngài nhượng lại cho tôi chiếc bình đong này; tôi cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ." Và họ đã trao chiếc bình cho ông.
 
-“Even so, sirs,” he replied, and he divided up and distributed the Blessed One’s bones fairly into eight equal parts. Then he asked the assembled group: “Give me this vessel, sirs; I too will build a monument and hold a ceremony.” And they gave him the vessel.
+Người Moriya ở Pipphalivana nghe tin: "Hình như Thế Tôn đã nhập Đại Bát-niết-bàn tại Câu-thi-na." Họ liền phái sứ giả đến yêu cầu: "Thế Tôn là một vị sát-đế-lỵ; chúng tôi cũng là những sát-đế-lỵ. Chúng tôi xứng đáng được chia một phần xá-lợi của Thế Tôn. Chúng tôi cũng sẽ xây bảo tháp và tổ chức đại lễ tôn thờ."
 
-The Moriyans of Pipphalivana heard: “The Blessed One, it seems, has attained final Nibbāna at Kusinārā.” Then they sent an envoy with the demand: “The Blessed One was a warrior; we too are warriors. We too are worthy of a share of the Blessed One’s bones. We too will build a monument and hold a ceremony.”
+"Xá-lợi của Thế Tôn không còn phần nào nữa. Tất cả đã được phân chia xong. Các vị có thể lấy phần tro than ở đây." Và họ đã nhận phần tro than ấy.
 
-“There is no share of the Blessed One’s bones left. They have all been distributed. You may take the ashes from here.” So they took the ashes.
-
-Then Ajātasattu Vedehiputta, King of Magadha, had a monument built to the Blessed One’s bones, and he held a ceremony. And all the others did likewise. So there were eight monuments to the Blessed One’s bones, and one to the vessel, and one to the ashes. That is how it happened.
+Sau đó, vua A-xà-thế Vi-đề-hi-tử, vua nước Ma-kiệt-đà, đã cho xây bảo tháp tôn thờ xá-lợi Thế Tôn và tổ chức đại lễ. Tất cả các bên khác cũng làm như vậy. Như thế có tất cả tám bảo tháp tôn thờ xá-lợi xương Thế Tôn, một tháp thờ chiếc bình đong, và một tháp thờ tro than. Mọi sự đã diễn ra như thế.
 
 [D. 16](/link?q=dn-16){target=_black}

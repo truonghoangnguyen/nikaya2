@@ -3,7 +3,7 @@
 
 # 1. Chương Lớn
 
-## 1. Chuyện Về Cây Bồ-đề
+## 1. Chuyện Về Cây Bồ-đề {#1}
 *(Bodhikathā)*
 
 1\. Kính lễ Bậc Thế Tôn, Bậc A-la-hán, Bậc Chánh Đẳng Giác.
@@ -50,7 +50,7 @@ Rồi Thế Tôn, sau khi biết rõ ý nghĩa này, ngay lúc ấy đã thốt 
 
 Kết thúc chuyện về cây Bồ-đề.
 
-## 2. Chuyện Về Cây Ajapāla
+## 2. Chuyện Về Cây Ajapāla {#2}
 *(Ajapālakathā)*
 
 2\. Rồi Thế Tôn, sau khi qua bảy ngày, xuất khỏi trạng thái Định ấy, rời gốc cây Bồ-đề đi đến cây bàng Ajapāla, sau khi đến, Ngài ngồi kiết già suốt bảy ngày dưới gốc cây bàng Ajapāla, trải nghiệm *hạnh phúc* của sự giải thoát.
@@ -72,7 +72,7 @@ Rồi Thế Tôn, sau khi biết rõ ý nghĩa này, ngay lúc ấy đã thốt 
 
 Kết thúc chuyện về cây Ajapāla.
 
-## 3. Chuyện Về Rắn Mucalinda
+## 3. Chuyện Về Rắn Mucalinda {#3}
 *(Mucalindakathā)*
 
 3\. Rồi Thế Tôn, sau khi qua bảy ngày, xuất khỏi trạng thái Định ấy, rời gốc cây bàng Ajapāla đi đến cây Mucalinda, sau khi đến, Ngài ngồi kiết già suốt bảy ngày dưới gốc cây Mucalinda, trải nghiệm *hạnh phúc* của sự giải thoát.
@@ -97,7 +97,7 @@ Rồi Thế Tôn, sau khi biết rõ ý nghĩa này, ngay lúc ấy đã thốt 
 
 Kết thúc chuyện về rắn Mucalinda.
 
-## 4. Chuyện Về Cây Rājāyatana
+## 4. Chuyện Về Cây Rājāyatana {#4}
 *(Rājāyatanakathā)*
 
 4\. Rồi Thế Tôn, sau khi qua bảy ngày, xuất khỏi trạng thái Định ấy, rời gốc cây Mucalinda đi đến cây Rājāyatana, sau khi đến, Ngài ngồi kiết già suốt bảy ngày dưới gốc cây Rājāyatana, trải nghiệm *hạnh phúc* của sự giải thoát.
@@ -114,7 +114,7 @@ Rồi hai thương gia Tapussa và Bhallika, thấy Thế Tôn đã thọ thực
 
 Kết thúc chuyện về cây Rājāyatana.
 
-## 5. Chuyện Phạm Thiên Thỉnh Cầu
+## 5. Chuyện Phạm Thiên Thỉnh Cầu {#5}
 *(Brahmayācanakathā)*
 
 5\. Rồi Thế Tôn, sau khi qua bảy ngày, xuất khỏi trạng thái Định ấy, rời gốc cây Rājāyatana đi đến cây bàng Ajapāla. Tại đó, Thế Tôn trú dưới gốc cây bàng Ajapāla. Rồi trong khi Thế Tôn đang tĩnh cư một mình, *suy nghĩ* này khởi lên trong tâm:
@@ -255,7 +255,7 @@ Rồi Phạm thiên Sahampati [nghĩ rằng]: “Thế Tôn đã cho phép giả
 
 Kết thúc chuyện Phạm thiên thỉnh cầu.
 
-## 6. Chuyện Nhóm Năm Vị
+## 6. Chuyện Nhóm Năm Vị {#6}
 *(Pañcavaggiyakathā)*
 
 6\. Rồi Thế Tôn suy nghĩ: “Ta nên giảng dạy *Giáo pháp* cho ai đầu tiên? Ai sẽ nhanh chóng thấu hiểu *Giáo pháp* này?” Rồi Thế Tôn suy nghĩ: “Āḷāra Kālāma này là người thông thái, nhạy bén, trí tuệ, từ lâu đã là người có ít bụi trong mắt; hay là Ta nên giảng dạy *Giáo pháp* cho Āḷāra Kālāma đầu tiên, vị ấy sẽ nhanh chóng thấu hiểu *Giáo pháp* này.”
@@ -434,7 +434,7 @@ Vào lúc bấy giờ, có sáu vị A-la-hán trên thế gian.
 
 Kết thúc chuyện nhóm năm vị.
 
-## 7. Chuyện Xuất Gia
+## 7. Chuyện Xuất Gia {#7}
 *(Pabbajjākathā)*
 
 7\. Vào lúc bấy giờ, tại Bārāṇasī có một thiện nam tử tên là Yasa, con trai của một triệu phú, sống rất sung sướng. Cậu ta có ba tòa lâu đài—một cho mùa đông, một cho mùa hè, một cho mùa mưa.
@@ -509,7 +509,7 @@ Họ là những người đã thấy *Giáo pháp*, đạt được *Giáo phá
 
 Kết thúc chuyện xuất gia của năm mươi người bạn tại gia.
 
-## 8. Chuyện Về Ác Ma
+## 8. Chuyện Về Ác Ma {#8}
 *(Mārakathā)*
 
 11\. Rồi Thế Tôn gọi các tỳ kheo: “Này các tỳ kheo, Ta đã thoát khỏi mọi cạm bẫy, cả chư thiên và loài người. Này các tỳ kheo, các ông cũng đã thoát khỏi mọi cạm bẫy, cả chư thiên và loài người. Hãy du hành, này các tỳ kheo, vì lợi ích của số đông, vì hạnh phúc của số đông, vì lòng thương xót thế gian, vì lợi ích, vì hạnh phúc của chư thiên và loài người. Đừng đi hai người cùng một đường. Này các tỳ kheo, hãy giảng dạy *Giáo pháp* toàn thiện ở phần đầu, toàn thiện ở phần giữa, toàn thiện ở phần cuối, đầy đủ ý nghĩa và văn tự; hãy tuyên bố đời sống phạm hạnh hoàn toàn viên mãn và thanh tịnh. Có những chúng sinh sinh ra với ít bụi trong mắt, vì không được nghe *Giáo pháp* nên họ đang suy tàn, sẽ có những người thấu hiểu *Giáo pháp*. Này các tỳ kheo, Ta cũng sẽ đi đến Uruvelā, thị trấn Senāni, để giảng dạy *Giáo pháp*.”
@@ -540,7 +540,7 @@ Rồi Ác ma [nghĩ rằng]: “Thế Tôn đã biết ta, Bậc Thiện Thệ �
 
 Kết thúc chuyện về Ác ma.
 
-## 9. Chuyện Về Xuất Gia Và Thọ Cụ Túc Giới
+## 9. Chuyện Về Xuất Gia Và Thọ Cụ Túc Giới {#9}
 *(Pabbajjūpasampadākathā)*
 
 12\. Vào lúc bấy giờ, các tỳ kheo dẫn những người muốn xuất gia và những người muốn thọ cụ túc giới từ nhiều phương hướng, nhiều vùng quê khác nhau đến [với ý nghĩ]: “Thế Tôn sẽ cho họ xuất gia, sẽ cho họ thọ cụ túc giới.” Trong việc này, cả các tỳ kheo cũng mệt mỏi, và những người muốn xuất gia, những người muốn thọ cụ túc giới cũng mệt mỏi.
@@ -567,7 +567,7 @@ Này các tỳ kheo, Ta cho phép xuất gia và thọ cụ túc giới bằng b
 
 Kết thúc chuyện thọ cụ túc giới bằng ba lần nương tựa.
 
-## 10. Chuyện Về Ác Ma Lần Thứ Hai
+## 10. Chuyện Về Ác Ma Lần Thứ Hai {#10}
 *(Dutiyamārakathā)*
 
 13\. Rồi Thế Tôn, sau khi an cư mùa mưa xong, gọi các tỳ kheo: “Này các tỳ kheo, nhờ *hiểu nguyên nhân gốc rễ* (như lý tác ý / yoniso manasikārā), nhờ *Siêng năng thiện* (chánh cần / yoniso sammappadhānā), Ta đã đạt được sự giải thoát vô thượng, đã *trực tiếp chứng nghiệm* sự giải thoát vô thượng. Này các tỳ kheo, các ông cũng hãy nhờ *hiểu nguyên nhân gốc rễ*, nhờ *Siêng năng thiện*, đạt đến sự giải thoát vô thượng, *trực tiếp chứng nghiệm* sự giải thoát vô thượng.”
@@ -588,7 +588,7 @@ Rồi Ác ma [nghĩ rằng]: “Thế Tôn đã biết ta, Bậc Thiện Thệ �
 
 Kết thúc chuyện về Ác ma lần thứ hai.
 
-## 11. Câu Chuyện Nhóm Bhaddavaggiya
+## 11. Câu Chuyện Nhóm Bhaddavaggiya {#11}
 *(Bhaddavaggiyavatthu)*
 
 14\. Rồi Thế Tôn, sau khi trú tại Bārāṇasī theo ý muốn, liền bắt đầu chuyến du hành hướng về Uruvelā. Rồi Thế Tôn bước ra khỏi con đường, đi đến một khu rừng nhỏ, sau khi đến, Ngài đi sâu vào khu rừng nhỏ đó và ngồi dưới gốc một cái cây.
@@ -615,7 +615,7 @@ Kết thúc câu chuyện những người bạn thuộc nhóm Bhaddavaggiya.
 
 Tụng phẩm thứ hai.
 
-## 12. Chuyện Thần Thông Ở Uruvelā
+## 12. Chuyện Thần Thông Ở Uruvelā {#12}
 *(Uruvelapāṭihāriyakathā)*
 
 15\. Rồi Thế Tôn, tuần tự du hành, đi đến Uruvelā. Vào lúc bấy giờ, tại Uruvelā có ba vị đạo sĩ tết tóc sinh sống—Uruvelakassapa, Nadīkassapa, và Gayākassapa. Trong số đó, đạo sĩ tết tóc Uruvelakassapa là người lãnh đạo, người hướng dẫn, người đứng đầu, người chỉ huy, người thủ lĩnh của năm trăm đạo sĩ tết tóc. Đạo sĩ tết tóc Nadīkassapa là người lãnh đạo, người hướng dẫn, người đứng đầu, người chỉ huy, người thủ lĩnh của ba trăm đạo sĩ tết tóc. Đạo sĩ tết tóc Gayākassapa là người lãnh đạo, người hướng dẫn, người đứng đầu, người chỉ huy, người thủ lĩnh của hai trăm đạo sĩ tết tóc.
@@ -887,7 +887,7 @@ Kết thúc Bài giảng về sự bốc cháy.
 
 Kết thúc chuyện thần thông ở Uruvelā, Tụng phẩm thứ ba.
 
-## 13. Chuyện Gặp Gỡ Bimbisāra
+## 13. Chuyện Gặp Gỡ Bimbisāra {#13}
 *(Bimbisārasamāgamakathā)*
 
 22\. Rồi Thế Tôn, sau khi trú tại Gayāsīsa theo ý muốn, liền bắt đầu chuyến du hành hướng về Rājagaha cùng với đại chúng tỳ kheo, gồm một ngàn tỳ kheo, tất cả đều là những đạo sĩ tết tóc trước đây. Rồi Thế Tôn, tuần tự du hành, đi đến Rājagaha. Tại đó, Thế Tôn trú tại Rājagaha, trong rừng Laṭṭhi, tại tháp Suppatiṭṭha.
@@ -981,7 +981,7 @@ Rồi vua Magadha, Seniya Bimbisāra, cầm bình nước bằng vàng rưới n
 
 Kết thúc chuyện gặp gỡ Bimbisāra.
 
-## 14. Chuyện Xuất Gia Của Sāriputta Và Moggallāna
+## 14. Chuyện Xuất Gia Của Sāriputta Và Moggallāna {#14}
 *(Sāriputtamoggallānapabbajjākathā)*
 
 23\. Vào lúc bấy giờ, du sĩ Sañcaya đang sống ở Rājagaha cùng với một hội chúng du sĩ lớn, gồm hai trăm rưỡi du sĩ. Vào lúc bấy giờ, Sāriputta và Moggallāna đang sống đời sống phạm hạnh dưới sự hướng dẫn của du sĩ Sañcaya. Họ đã thỏa thuận với nhau: “Ai đạt được sự bất tử trước, người đó phải báo cho người kia biết.”
@@ -1072,7 +1072,7 @@ Thế Tôn thấy Sāriputta và Moggallāna đang đi đến từ đằng xa, s
 
 Rồi Sāriputta và Moggallāna đi đến chỗ Thế Tôn, sau khi đến, họ cúi đầu đảnh lễ dưới chân Thế Tôn và nói với Thế Tôn điều này: “Bạch Thế Tôn, xin cho chúng con được xuất gia dưới sự hiện diện của Thế Tôn, xin cho chúng con được thọ cụ túc giới.” “Hãy đến đây, các tỳ kheo”, Thế Tôn nói, “*Giáo pháp* đã được khéo giảng dạy, hãy sống đời sống phạm hạnh để chấm dứt hoàn toàn *đau khổ*.” Đó chính là sự thọ cụ túc giới của các Tôn giả ấy.
 
-### 14.1. Sự Xuất Gia Của Những Người Nổi Tiếng
+### 14.1. Sự Xuất Gia Của Những Người Nổi Tiếng {#14.1}
 *(Abhiññātānaṁpabbajjā)*
 
 Vào lúc bấy giờ, những thiện nam tử người Magadha rất nổi tiếng đang sống đời sống phạm hạnh dưới sự hướng dẫn của Thế Tôn. Mọi người phàn nàn, chê bai, chỉ trích: “Sa-môn Gotama đang hành động để làm cho các gia đình tuyệt tự, sa-môn Gotama đang hành động để làm cho phụ nữ góa bụa, sa-môn Gotama đang hành động để cắt đứt dòng dõi. Mới đây ông ta đã cho một ngàn đạo sĩ tết tóc xuất gia, và hai trăm rưỡi du sĩ của Sañcaya này cũng đã xuất gia. Và những thiện nam tử người Magadha rất nổi tiếng này cũng đang sống đời sống phạm hạnh dưới sự hướng dẫn của sa-môn Gotama.” Thậm chí khi thấy các tỳ kheo, họ còn chế giễu bằng vần kệ này:
@@ -1116,7 +1116,7 @@ Kết thúc chuyện xuất gia của Sāriputta và Moggallāna.
 
 Kết thúc Tụng phẩm thứ tư.
 
-## 15. Chuyện Về Bổn Phận Đối Với Thầy Tế Độ
+## 15. Chuyện Về Bổn Phận Đối Với Thầy Tế Độ {#15}
 *(Upajjhāyavattakathā)*
 
 25\. Vào lúc bấy giờ, các tỳ kheo không có thầy tế độ (upajjhāya), không có thầy dạy (ācariya), không được khuyên bảo, không được hướng dẫn, mặc y không đúng cách, khoác y không đúng cách, phong thái không trang nghiêm đi khất thực; khi mọi người đang ăn, họ đưa bát xin thức ăn thừa lên trên thức ăn, đưa bát xin thức ăn thừa lên trên đồ ăn cứng, đưa bát xin thức ăn thừa lên trên đồ ăn vặt, đưa bát xin thức ăn thừa lên trên đồ uống; họ tự mình xin canh và cơm để ăn; trong nhà ăn họ cũng ồn ào, lớn tiếng. Mọi người phàn nàn, chê bai, chỉ trích: “Làm sao các sa-môn Thích tử lại mặc y không đúng cách, khoác y không đúng cách, phong thái không trang nghiêm đi khất thực; khi mọi người đang ăn, họ lại đưa bát xin thức ăn thừa lên trên thức ăn, đưa bát xin thức ăn thừa lên trên đồ ăn cứng, đưa bát xin thức ăn thừa lên trên đồ ăn vặt, đưa bát xin thức ăn thừa lên trên đồ uống; họ tự mình xin canh và cơm để ăn; trong nhà ăn họ cũng ồn ào, lớn tiếng, giống như các Bà-la-môn trong bữa ăn của Bà-la-môn vậy.”
@@ -1179,7 +1179,7 @@ Không được cho bát người khác khi chưa xin phép thầy tế độ, k
 
 Kết thúc bổn phận đối với thầy tế độ.
 
-## 16. Chuyện Về Bổn Phận Của Đệ Tử
+## 16. Chuyện Về Bổn Phận Của Đệ Tử {#16}
 *(Saddhivihārikavattakathā)*
 
 26\. “Này các tỳ kheo, thầy tế độ phải cư xử đúng đắn với đệ tử. Đây là cách cư xử đúng đắn:
@@ -1214,7 +1214,7 @@ Nếu y của đệ tử cần giặt, thầy tế độ phải chỉ bảo: 'H�
 
 Kết thúc bổn phận của đệ tử.
 
-## 17. Chuyện Về Sự Đuổi Đi
+## 17. Chuyện Về Sự Đuổi Đi {#17}
 *(Paṇāmitakathā)*
 
 27\. Vào lúc bấy giờ, các đệ tử không cư xử đúng đắn với thầy tế độ. Những tỳ kheo ít ham muốn [...lặp lại...] họ phàn nàn, chê bai, chỉ trích: “Làm sao các đệ tử lại không cư xử đúng đắn với thầy tế độ.” Rồi các tỳ kheo đó báo sự việc này cho Thế Tôn [...lặp lại...] “Này các tỳ kheo, có thật là các đệ tử không cư xử đúng đắn với thầy tế độ không?”
@@ -1337,7 +1337,7 @@ Phật Thế Tôn quở trách [...lặp lại...] Này kẻ *người thường
 
 Kết thúc Tụng phẩm thứ năm về Bổn phận đối với Thầy tế độ.
 
-## 18. Chuyện Về Bổn Phận Đối Với Thầy Dạy
+## 18. Chuyện Về Bổn Phận Đối Với Thầy Dạy {#18}
 *(Ācariyavattakathā)*
 
 31\. Vào lúc bấy giờ, một thanh niên đi đến chỗ các tỳ kheo xin xuất gia. Các tỳ kheo đã nói rõ các chỗ nương tựa cho cậu ta ngay từ trước. Cậu ta nói như thế này: “Bạch các ngài, nếu sau khi con xuất gia các ngài mới nói rõ các chỗ nương tựa, con sẽ rất vui lòng. Nhưng bây giờ con sẽ không xuất gia nữa; các chỗ nương tựa làm con ghê tởm, kinh tởm.” Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -1440,7 +1440,7 @@ Không được cho bát người khác khi chưa xin phép thầy dạy, không
 
 Kết thúc bổn phận đối với thầy dạy.
 
-## 19. Chuyện Về Bổn Phận Của Học Trò
+## 19. Chuyện Về Bổn Phận Của Học Trò {#19}
 *(Antevāsikavattakathā)*
 
 33\. “Này các tỳ kheo, thầy dạy phải cư xử đúng đắn với học trò. Đây là cách cư xử đúng đắn:
@@ -1479,7 +1479,7 @@ Kết thúc bổn phận của học trò.
 
 Tụng phẩm thứ sáu.
 
-## 20. Sự Đuổi Đi Và Sự Tha Thứ
+## 20. Sự Đuổi Đi Và Sự Tha Thứ {#20}
 *(Paṇāmanākhamāpanā)*
 
 34\. Vào lúc bấy giờ, các học trò không cư xử đúng đắn với thầy dạy [...lặp lại...] báo sự việc này cho Thế Tôn [...lặp lại...]
@@ -1528,7 +1528,7 @@ Này các tỳ kheo, thầy dạy đuổi đi học trò hội đủ năm yếu 
 
 Kết thúc sự đuổi đi và sự tha thứ.
 
-## 21. Câu Chuyện Về Kẻ Ngu Si, Thiếu Khả Năng
+## 21. Câu Chuyện Về Kẻ Ngu Si, Thiếu Khả Năng {#21}
 *(Bālaabyattavatthu)*
 
 35\. Vào lúc bấy giờ, các tỳ kheo, chỉ nghĩ rằng 'từ mười tuổi hạ, từ mười tuổi hạ', dù ngu si, thiếu khả năng cũng cho nương tựa. Xảy ra tình trạng thầy dạy thì ngu si, học trò thì thông thái. Xảy ra tình trạng thầy dạy thì thiếu khả năng, học trò thì có khả năng. Xảy ra tình trạng thầy dạy thì ít học, học trò thì đa văn. Xảy ra tình trạng thầy dạy thì thiếu trí tuệ, học trò thì có trí tuệ.
@@ -1545,7 +1545,7 @@ Phật Thế Tôn quở trách [...lặp lại...] sau khi quở trách [...lặ
 
 Kết thúc câu chuyện về kẻ ngu si, thiếu khả năng.
 
-## 22. Chuyện Về Sự Chấm Dứt Nương Tựa
+## 22. Chuyện Về Sự Chấm Dứt Nương Tựa {#22}
 *(Nissayapaṭippassaddhikathā)*
 
 36\. Vào lúc bấy giờ, khi các thầy tế độ và thầy dạy đi vắng, hoàn tục, qua đời, hoặc chuyển sang phe khác, các tỳ kheo không biết về sự chấm dứt nương tựa. Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -1556,7 +1556,7 @@ Này các tỳ kheo, có sáu trường hợp chấm dứt nương tựa đối 
 
 Kết thúc chuyện về sự chấm dứt nương tựa.
 
-## 23. Nhóm Năm Yếu Tố Của Người Được Phép Cho Thọ Cụ Túc Giới
+## 23. Nhóm Năm Yếu Tố Của Người Được Phép Cho Thọ Cụ Túc Giới {#23}
 *(Upasampādetabbapañcaka)*
 
 Này các tỳ kheo, một tỳ kheo hội đủ năm yếu tố thì không được cho thọ cụ túc giới, không được cho nương tựa, không được cho sa-di phục vụ. Không thành tựu *Giới* (sīlakkhandha) của bậc vô học (asekkha), không thành tựu *Định* (samādhikkhandha) của bậc vô học, không thành tựu *Tuệ* (paññākkhandha) của bậc vô học, không thành tựu *Giải thoát* (vimuttikkhandha) của bậc vô học, không thành tựu *Giải thoát tri kiến* (vimuttiñāṇadassanakkhandha) của bậc vô học—này các tỳ kheo, một tỳ kheo hội đủ năm yếu tố này thì không được cho thọ cụ túc giới, không được cho nương tựa, không được cho sa-di phục vụ.
@@ -1593,7 +1593,7 @@ Này các tỳ kheo, một tỳ kheo hội đủ năm yếu tố thì được p
 
 Kết thúc mười sáu phần về nhóm năm yếu tố của người được phép cho thọ cụ túc giới.
 
-## 24. Nhóm Sáu Yếu Tố Của Người Được Phép Cho Thọ Cụ Túc Giới
+## 24. Nhóm Sáu Yếu Tố Của Người Được Phép Cho Thọ Cụ Túc Giới {#24}
 *(Upasampādetabbachakka)*
 
 37\. “Này các tỳ kheo, một tỳ kheo hội đủ sáu yếu tố thì không được cho thọ cụ túc giới, không được cho nương tựa, không được cho sa-di phục vụ. Không thành tựu *Giới* của bậc vô học, không thành tựu *Định* của bậc vô học, không thành tựu *Tuệ* của bậc vô học, không thành tựu *Giải thoát* của bậc vô học, không thành tựu *Giải thoát tri kiến* của bậc vô học, dưới mười tuổi hạ—này các tỳ kheo, một tỳ kheo hội đủ sáu yếu tố này thì không được cho thọ cụ túc giới, không được cho nương tựa, không được cho sa-di phục vụ.
@@ -1626,7 +1626,7 @@ Này các tỳ kheo, một tỳ kheo hội đủ sáu yếu tố thì được p
 
 Kết thúc mười bốn phần về nhóm sáu yếu tố của người được phép cho thọ cụ túc giới.
 
-## 25. Chuyện Về Người Từng Là Ngoại Đạo
+## 25. Chuyện Về Người Từng Là Ngoại Đạo {#25}
 *(Aññatitthiyapubbakathā)*
 
 38\. Vào lúc bấy giờ, người từng là ngoại đạo đó khi bị thầy tế độ quở trách đúng pháp, đã bác bỏ lập luận của thầy tế độ và bỏ sang giáo phái ngoại đạo đó. Rồi ông ta quay lại và xin các tỳ kheo cho thọ cụ túc giới. Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -1669,7 +1669,7 @@ Kết thúc chuyện về người từng là ngoại đạo.
 
 Tụng phẩm thứ bảy.
 
-## 26. Câu Chuyện Về Năm Loại Bệnh
+## 26. Câu Chuyện Về Năm Loại Bệnh {#26}
 *(Pañcābādhavatthu)*
 
 39\. Vào lúc bấy giờ, ở Magadha có năm loại bệnh phổ biến—bệnh phong, bệnh ung nhọt, bệnh bạch tạng, bệnh lao, bệnh động kinh. Những người mắc năm loại bệnh này đi đến chỗ Jīvaka Komārabhacca và nói như thế này: “Thưa thầy, xin hãy chữa trị cho chúng tôi.”
@@ -1706,7 +1706,7 @@ Rồi Jīvaka Komārabhacca đi đến chỗ Thế Tôn, sau khi đến, ông đ
 
 “Này các tỳ kheo, người mắc năm loại bệnh không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 27. Câu Chuyện Về Binh Lính Của Vua
+## 27. Câu Chuyện Về Binh Lính Của Vua {#27}
 *(Rājabhaṭavatthu)*
 
 40\. Vào lúc bấy giờ, vùng biên giới của vua Magadha, Seniya Bimbisāra, bị nổi loạn. Rồi vua Magadha, Seniya Bimbisāra, ra lệnh cho các tướng lĩnh đại thần: “Này các khanh, hãy đi dẹp loạn vùng biên giới.”
@@ -1731,14 +1731,14 @@ Rồi vua Magadha, Seniya Bimbisāra, đi đến chỗ Thế Tôn, sau khi đế
 
 “Này các tỳ kheo, binh lính của vua không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 28. Câu Chuyện Về Tên Cướp Aṅgulimāla
+## 28. Câu Chuyện Về Tên Cướp Aṅgulimāla {#28}
 *(Aṅgulimālacoravatthu)*
 
 41\. Vào lúc bấy giờ, tên cướp Aṅgulimāla đã xuất gia làm tỳ kheo. Mọi người nhìn thấy liền hoảng sợ, khiếp sợ, bỏ chạy, đi đường khác, quay mặt đi hướng khác, đóng cửa lại. Mọi người phàn nàn, chê bai, chỉ trích: “Làm sao các sa-môn Thích tử lại cho một tên cướp khét tiếng (dhajabandha) xuất gia.” Các tỳ kheo nghe những người đó phàn nàn, chê bai, chỉ trích. Rồi các tỳ kheo báo sự việc này cho Thế Tôn [...lặp lại...]
 
 “Này các tỳ kheo, tên cướp khét tiếng không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 29. Câu Chuyện Về Tên Cướp Vượt Ngục
+## 29. Câu Chuyện Về Tên Cướp Vượt Ngục {#29}
 *(Kārabhedakacoravatthu)*
 
 42\. Vào lúc bấy giờ, vua Magadha, Seniya Bimbisāra, đã ban lệnh: “Những ai xuất gia làm sa-môn Thích tử, không ai được phép làm hại họ; *Giáo pháp* đã được khéo giảng dạy, hãy để họ sống đời sống phạm hạnh để chấm dứt hoàn toàn *đau khổ*.”
@@ -1749,7 +1749,7 @@ Mọi người phàn nàn, chê bai, chỉ trích: “Những sa-môn Thích t�
 
 “Này các tỳ kheo, tên cướp vượt ngục không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 30. Câu Chuyện Về Tên Cướp Bị Truy Nã
+## 30. Câu Chuyện Về Tên Cướp Bị Truy Nã {#30}
 *(Likhitakacoravatthu)*
 
 43\. Vào lúc bấy giờ, một người phạm tội ăn cắp, bỏ trốn và xuất gia làm tỳ kheo. Và người đó đã bị dán cáo thị truy nã trong cung điện của vua—thấy ở đâu, giết ở đó.
@@ -1762,21 +1762,21 @@ Mọi người phàn nàn, chê bai, chỉ trích: “Những sa-môn Thích t�
 
 “Này các tỳ kheo, tên cướp bị truy nã không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 31. Câu Chuyện Về Người Bị Đánh Bằng Roi
+## 31. Câu Chuyện Về Người Bị Đánh Bằng Roi {#31}
 *(Kasāhatavatthu)*
 
 44\. Vào lúc bấy giờ, một người bị đánh bằng roi như một hình phạt đã xuất gia làm tỳ kheo. Mọi người phàn nàn, chê bai, chỉ trích: “Làm sao các sa-môn Thích tử lại cho một người bị đánh bằng roi như một hình phạt xuất gia.” Các tỳ kheo báo sự việc này cho Thế Tôn.
 
 “Này các tỳ kheo, người bị đánh bằng roi như một hình phạt không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 32. Câu Chuyện Về Người Bị Đóng Dấu
+## 32. Câu Chuyện Về Người Bị Đóng Dấu {#32}
 *(Lakkhaṇāhatavatthu)*
 
 45\. Vào lúc bấy giờ, một người bị đóng dấu như một hình phạt đã xuất gia làm tỳ kheo. Mọi người phàn nàn, chê bai, chỉ trích: “Làm sao các sa-môn Thích tử lại cho một người bị đóng dấu như một hình phạt xuất gia.” Các tỳ kheo báo sự việc này cho Thế Tôn.
 
 “Này các tỳ kheo, người bị đóng dấu như một hình phạt không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 33. Câu Chuyện Về Con Nợ
+## 33. Câu Chuyện Về Con Nợ {#33}
 *(Iṇāyikavatthu)*
 
 46\. Vào lúc bấy giờ, một người mắc nợ bỏ trốn và xuất gia làm tỳ kheo. Các chủ nợ nhìn thấy liền nói như thế này: “Đây là con nợ của chúng ta. Nào, chúng ta hãy bắt hắn.”
@@ -1787,7 +1787,7 @@ Mọi người phàn nàn, chê bai, chỉ trích: “Những sa-môn Thích t�
 
 “Này các tỳ kheo, con nợ không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 34. Câu Chuyện Về Nô Lệ
+## 34. Câu Chuyện Về Nô Lệ {#34}
 *(Dāsavatthu)*
 
 47\. Vào lúc bấy giờ, một nô lệ bỏ trốn và xuất gia làm tỳ kheo. Các chủ nhân nhìn thấy liền nói như thế này: “Đây là nô lệ của chúng ta. Nào, chúng ta hãy bắt hắn.”
@@ -1798,7 +1798,7 @@ Mọi người phàn nàn, chê bai, chỉ trích: “Những sa-môn Thích t�
 
 “Này các tỳ kheo, nô lệ không được cho xuất gia. Ai cho xuất gia, phạm một lỗi tác ác.”
 
-## 35. Câu Chuyện Về Người Thợ Rèn Cạo Đầu
+## 35. Câu Chuyện Về Người Thợ Rèn Cạo Đầu {#35}
 *(Kammārabhaṇḍuvatthu)*
 
 48\. Vào lúc bấy giờ, một người thợ rèn cạo đầu (kammārabhaṇḍu) cãi nhau với cha mẹ, đi đến tịnh xá và xuất gia làm tỳ kheo. Rồi cha mẹ của người thợ rèn cạo đầu đó đi tìm người thợ rèn cạo đầu đó, đến tịnh xá và hỏi các tỳ kheo: “Bạch các ngài, các ngài có thấy một cậu bé như vậy không?” Các tỳ kheo dù biết vẫn nói: “Chúng tôi không biết”, dù thấy vẫn nói: “Chúng tôi không thấy.”
@@ -1807,7 +1807,7 @@ Rồi cha mẹ của người thợ rèn cạo đầu đó đi tìm người th�
 
 “Này các tỳ kheo, Ta cho phép thông báo cho Tăng chúng để làm lễ cạo tóc.”
 
-## 36. Câu Chuyện Về Cậu Bé Upāli
+## 36. Câu Chuyện Về Cậu Bé Upāli {#36}
 *(Upālidārakavatthu)*
 
 49\. Vào lúc bấy giờ, tại Rājagaha có một nhóm mười bảy cậu bé là bạn bè của nhau. Cậu bé Upāli là người đứng đầu trong số đó.
@@ -1832,7 +1832,7 @@ Phật Thế Tôn quở trách [...lặp lại...] Này các tỳ kheo, làm sao
 
 “Này các tỳ kheo, dù biết cũng không được cho người dưới hai mươi tuổi thọ cụ túc giới. Ai cho thọ cụ túc giới, phải bị xử lý theo đúng pháp.”
 
-## 37. Câu Chuyện Về Bệnh Dịch Tả
+## 37. Câu Chuyện Về Bệnh Dịch Tả {#37}
 *(Ahivātakarogavatthu)*
 
 50\. Vào lúc bấy giờ, một gia đình bị chết vì bệnh dịch tả (ahivātakaroga). Chỉ còn lại hai cha con. Họ xuất gia làm tỳ kheo và cùng nhau đi khất thực. Rồi cậu bé chạy đến chỗ người cha vừa được cho thức ăn và nói điều này: “Cha ơi, cho con với; cha ơi, cho con với.”
@@ -1851,14 +1851,14 @@ Rồi Tôn giả Ānanda suy nghĩ: “Thế Tôn đã ban hành—‘Cậu bé 
 
 “Này các tỳ kheo, Ta cho phép cho cậu bé dưới mười lăm tuổi có khả năng đuổi quạ xuất gia.”
 
-## 38. Câu Chuyện Về Kaṇṭaka
+## 38. Câu Chuyện Về Kaṇṭaka {#38}
 *(Kaṇṭakavatthu)*
 
 52\. Vào lúc bấy giờ, Tôn giả Upananda Thích tử có hai sa-di—Kaṇṭaka và Mahaka. Chúng đã làm ô uế lẫn nhau. Các tỳ kheo phàn nàn, chê bai, chỉ trích: “Làm sao các sa-di lại có hành vi không đúng đắn như vậy.” Các tỳ kheo báo sự việc này cho Thế Tôn.
 
 “Này các tỳ kheo, một người không được cho hai sa-di phục vụ. Ai cho phục vụ, phạm một lỗi tác ác.”
 
-## 39. Câu Chuyện Về Sự Che Khuất
+## 39. Câu Chuyện Về Sự Che Khuất {#39}
 *(Āhundarikavatthu)*
 
 53\. Vào lúc bấy giờ, Thế Tôn an cư mùa mưa ngay tại Rājagaha, ở đó qua mùa đông, ở đó qua mùa hè. Mọi người phàn nàn, chê bai, chỉ trích: “Các phương hướng bị che khuất, tối tăm đối với các sa-môn Thích tử, các phương hướng không rõ ràng đối với họ.”
@@ -1873,7 +1873,7 @@ Các tỳ kheo nói như thế này: “Này hiền giả Ānanda, Thế Tôn đ
 
 Rồi Thế Tôn cùng với một nhóm nhỏ Tăng chúng đi du hành đến Dakkhiṇāgiri.
 
-## 40. Chuyện Về Sự Miễn Trừ Nương Tựa
+## 40. Chuyện Về Sự Miễn Trừ Nương Tựa {#40}
 *(Nissayamuccanakakathā)*
 
 Rồi Thế Tôn, sau khi trú tại Dakkhiṇāgiri theo ý muốn, liền quay trở lại Rājagaha. Rồi Thế Tôn gọi Tôn giả Ānanda: “Này Ānanda, tại sao *Người Đến Như Vậy* lại đi du hành đến Dakkhiṇāgiri cùng với một nhóm nhỏ Tăng chúng?” Rồi Tôn giả Ānanda báo sự việc này cho Thế Tôn. Rồi Thế Tôn, nhân lý do này, nhân sự kiện này, đã giảng bài giảng về Chân lý và gọi các tỳ kheo:
@@ -1920,7 +1920,7 @@ Này các tỳ kheo, một tỳ kheo hội đủ sáu yếu tố thì được s
 
 Kết thúc Tụng phẩm thứ tám về sự an toàn.
 
-## 41. Câu Chuyện Về Rāhula
+## 41. Câu Chuyện Về Rāhula {#41}
 *(Rāhulavatthu)*
 
 54\. Rồi Thế Tôn, sau khi trú tại Rājagaha theo ý muốn, liền bắt đầu chuyến du hành hướng về Kapilavatthu. Tuần tự du hành, Ngài đi đến Kapilavatthu. Tại đó, Thế Tôn trú tại Kapilavatthu, trong xứ Sakka, tại tu viện Nigrodha.
@@ -1971,7 +1971,7 @@ Rồi Tôn giả Sāriputta suy nghĩ: “Thế Tôn đã ban hành—‘Một n
 
 “Này các tỳ kheo, Ta cho phép một tỳ kheo có khả năng, đủ tư cách được cho hai sa-di phục vụ, hoặc có thể cho bao nhiêu người phục vụ tùy theo khả năng khuyên bảo, hướng dẫn của mình.”
 
-## 42. Chuyện Về Các Điều Học
+## 42. Chuyện Về Các Điều Học {#42}
 *(Sikkhāpadakathā)*
 
 56\. Rồi các sa-di suy nghĩ: “Chúng ta có bao nhiêu điều học, và chúng ta phải học những gì?” Các tỳ kheo báo sự việc này cho Thế Tôn [...lặp lại...]
@@ -1980,7 +1980,7 @@ Rồi Tôn giả Sāriputta suy nghĩ: “Thế Tôn đã ban hành—‘Một n
 
 Này các tỳ kheo, Ta cho phép mười điều học này cho các sa-di, và các sa-di phải học những điều này.”
 
-## 43. Câu Chuyện Về Hình Phạt
+## 43. Câu Chuyện Về Hình Phạt {#43}
 *(Daṇḍakammavatthu)*
 
 57\. Vào lúc bấy giờ, các sa-di sống không tôn trọng, không kính nể, không hòa hợp với các tỳ kheo. Các tỳ kheo phàn nàn, chê bai, chỉ trích: “Làm sao các sa-di lại sống không tôn trọng, không kính nể, không hòa hợp với các tỳ kheo.” Các tỳ kheo báo sự việc này cho Thế Tôn [...lặp lại...]
@@ -2007,21 +2007,21 @@ Mọi người phàn nàn, chê bai, chỉ trích: “Làm sao các đại đứ
 
 Kết thúc câu chuyện về hình phạt.
 
-## 44. Câu Chuyện Về Việc Cấm Đoán Không Xin Phép
+## 44. Câu Chuyện Về Việc Cấm Đoán Không Xin Phép {#44}
 *(Anāpucchāvaraṇavatthu)*
 
 58\. Vào lúc bấy giờ, nhóm sáu tỳ kheo cấm đoán các sa-di mà không xin phép thầy tế độ. Các thầy tế độ tìm kiếm: “Tại sao các sa-di của chúng ta không thấy đâu cả.” Các tỳ kheo nói như thế này: “Này các hiền giả, nhóm sáu tỳ kheo đã cấm đoán họ.” Các thầy tế độ phàn nàn, chê bai, chỉ trích: “Làm sao nhóm sáu tỳ kheo lại cấm đoán các sa-di của chúng ta mà không xin phép chúng ta.” Các tỳ kheo báo sự việc này cho Thế Tôn.
 
 “Này các tỳ kheo, không được cấm đoán mà không xin phép thầy tế độ. Ai cấm đoán, phạm một lỗi tác ác.”
 
-## 45. Câu Chuyện Về Việc Lôi Kéo
+## 45. Câu Chuyện Về Việc Lôi Kéo {#45}
 *(Apalāḷanavatthu)*
 
 59\. Vào lúc bấy giờ, nhóm sáu tỳ kheo lôi kéo các sa-di của các tỳ kheo trưởng lão. Các trưởng lão phải tự mình lấy tăm bông và nước rửa mặt nên rất mệt mỏi. Các tỳ kheo báo sự việc này cho Thế Tôn.
 
 “Này các tỳ kheo, không được lôi kéo người phục vụ của người khác. Ai lôi kéo, phạm một lỗi tác ác.”
 
-## 46. Câu Chuyện Về Sa-di Kaṇṭaka
+## 46. Câu Chuyện Về Sa-di Kaṇṭaka {#46}
 *(Kaṇṭakasāmaṇeravatthu)*
 
 60\. Vào lúc bấy giờ, sa-di tên là Kaṇṭaka của Tôn giả Upananda Thích tử đã làm ô uế tỳ kheo ni tên là Kaṇṭakī. Các tỳ kheo phàn nàn, chê bai, chỉ trích: “Làm sao một sa-di lại có hành vi không đúng đắn như vậy.” Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -2030,7 +2030,7 @@ Kết thúc câu chuyện về hình phạt.
 
 Này các tỳ kheo, Ta cho phép trục xuất sa-di hội đủ mười yếu tố này.”
 
-## 47. Câu Chuyện Về Người Bất Lực
+## 47. Câu Chuyện Về Người Bất Lực {#47}
 *(Paṇḍakavatthu)*
 
 61\. Vào lúc bấy giờ, một người bất lực (paṇḍaka) đã xuất gia làm tỳ kheo. Người đó đi đến chỗ các tỳ kheo trẻ tuổi và nói như thế này: “Hãy đến đây, các Tôn giả, hãy làm ô uế tôi.”
@@ -2045,7 +2045,7 @@ Các tỳ kheo nghe những người chăn voi, chăn ngựa đó phàn nàn, ch
 
 “Này các tỳ kheo, người bất lực chưa thọ cụ túc giới thì không được cho thọ cụ túc giới, đã thọ cụ túc giới thì phải bị trục xuất.”
 
-## 48. Câu Chuyện Về Kẻ Sống Trộm
+## 48. Câu Chuyện Về Kẻ Sống Trộm {#48}
 *(Theyyasaṁvāsakavatthu)*
 
 62\. Vào lúc bấy giờ, có một người từng là con nhà gia thế nhưng nay gia đình đã sa sút, sống rất sung sướng. Rồi người từng là con nhà gia thế, nay gia đình đã sa sút đó suy nghĩ: “Ta sống rất sung sướng, không có khả năng kiếm được tài sản chưa có, hay làm tăng trưởng tài sản đã có. Bằng cách nào ta có thể sống sung sướng và không phải chịu cực nhọc?” Rồi người từng là con nhà gia thế, nay gia đình đã sa sút đó suy nghĩ: “Những sa-môn Thích tử này sống thoải mái, cư xử thoải mái, ăn những thức ăn ngon, ngủ trên những chiếc giường êm ái, kín gió. Hay là ta tự mình sắm sửa bát và y, cạo bỏ râu tóc, đắp y cà-sa, đi đến tịnh xá và sống chung với các tỳ kheo.”
@@ -2066,7 +2066,7 @@ Rồi người từng là con nhà gia thế, nay gia đình đã sa sút đó k
 
 Này các tỳ kheo, kẻ chuyển sang ngoại đạo (titthiyapakkantaka) chưa thọ cụ túc giới thì không được cho thọ cụ túc giới, đã thọ cụ túc giới thì phải bị trục xuất.”
 
-## 49. Câu Chuyện Về Loài Súc Sinh
+## 49. Câu Chuyện Về Loài Súc Sinh {#49}
 *(Tiracchānagatavatthu)*
 
 63\. Vào lúc bấy giờ, một con rắn (nāga) cảm thấy buồn bã, xấu hổ, ghê tởm với kiếp rắn của mình. Rồi con rắn đó suy nghĩ: “Bằng cách nào ta có thể thoát khỏi kiếp rắn và nhanh chóng được làm người?” Rồi con rắn đó suy nghĩ: “Những sa-môn Thích tử này sống theo *Giáo pháp*, sống bình đẳng, sống đời sống phạm hạnh, nói lời chân thật, có đạo đức, có phẩm chất tốt. Nếu ta xuất gia làm sa-môn Thích tử, như vậy ta có thể thoát khỏi kiếp rắn và nhanh chóng được làm người.”
@@ -2087,7 +2087,7 @@ Rồi con rắn đó [nghĩ rằng] “Nghe nói ta không có khả năng phát
 
 Này các tỳ kheo, loài súc sinh chưa thọ cụ túc giới thì không được cho thọ cụ túc giới, đã thọ cụ túc giới thì phải bị trục xuất.”
 
-## 50. Câu Chuyện Về Kẻ Giết Mẹ
+## 50. Câu Chuyện Về Kẻ Giết Mẹ {#50}
 *(Mātughātakavatthu)*
 
 64\. Vào lúc bấy giờ, một thanh niên đã tước đoạt mạng sống của mẹ mình. Cậu ta cảm thấy buồn bã, xấu hổ, ghê tởm với hành động ác đó. Rồi thanh niên đó suy nghĩ: “Bằng cách nào ta có thể thoát khỏi hành động ác này?” Rồi thanh niên đó suy nghĩ: “Những sa-môn Thích tử này sống theo *Giáo pháp*, sống bình đẳng, sống đời sống phạm hạnh, nói lời chân thật, có đạo đức, có phẩm chất tốt. Nếu ta xuất gia làm sa-môn Thích tử, như vậy ta có thể thoát khỏi hành động ác này.”
@@ -2098,7 +2098,7 @@ Rồi thanh niên đó khi bị Tôn giả Upāli thẩm vấn đã kể lại s
 
 “Này các tỳ kheo, kẻ giết mẹ chưa thọ cụ túc giới thì không được cho thọ cụ túc giới, đã thọ cụ túc giới thì phải bị trục xuất.”
 
-## 51. Câu Chuyện Về Kẻ Giết Cha
+## 51. Câu Chuyện Về Kẻ Giết Cha {#51}
 *(Pitughātakavatthu)*
 
 65\. Vào lúc bấy giờ, một thanh niên đã tước đoạt mạng sống của cha mình. Cậu ta cảm thấy buồn bã, xấu hổ, ghê tởm với hành động ác đó. Rồi thanh niên đó suy nghĩ: “Bằng cách nào ta có thể thoát khỏi hành động ác này?” Rồi thanh niên đó suy nghĩ: “Những sa-môn Thích tử này sống theo *Giáo pháp*, sống bình đẳng, sống đời sống phạm hạnh, nói lời chân thật, có đạo đức, có phẩm chất tốt, nếu ta xuất gia làm sa-môn Thích tử, như vậy ta có thể thoát khỏi hành động ác này.”
@@ -2109,7 +2109,7 @@ Rồi thanh niên đó khi bị Tôn giả Upāli thẩm vấn đã kể lại s
 
 “Này các tỳ kheo, kẻ giết cha chưa thọ cụ túc giới thì không được cho thọ cụ túc giới, đã thọ cụ túc giới thì phải bị trục xuất.”
 
-## 52. Câu Chuyện Về Kẻ Giết A-la-hán
+## 52. Câu Chuyện Về Kẻ Giết A-la-hán {#52}
 *(Arahantaghātakavatthu)*
 
 66\. Vào lúc bấy giờ, nhiều tỳ kheo đang đi trên con đường dài từ Sāketa đến Sāvatthi. Dọc đường, bọn cướp xông ra cướp bóc một số tỳ kheo, giết chết một số tỳ kheo.
@@ -2122,7 +2122,7 @@ Các tỳ kheo nói như thế này: “Nhưng các ông đã làm gì, này cá
 
 Này các tỳ kheo, kẻ giết A-la-hán chưa thọ cụ túc giới thì không được cho thọ cụ túc giới, đã thọ cụ túc giới thì phải bị trục xuất.”
 
-## 53. Câu Chuyện Về Kẻ Làm Ô Uế Tỳ Kheo Ni
+## 53. Câu Chuyện Về Kẻ Làm Ô Uế Tỳ Kheo Ni {#53}
 *(Bhikkhunidūsakavatthu)*
 
 67\. Vào lúc bấy giờ, nhiều tỳ kheo ni đang đi trên con đường dài từ Sāketa đến Sāvatthi. Dọc đường, bọn cướp xông ra cướp bóc một số tỳ kheo ni, làm ô uế một số tỳ kheo ni.
@@ -2137,14 +2137,14 @@ Này các tỳ kheo, kẻ chia rẽ Tăng chúng chưa thọ cụ túc giới th
 
 Này các tỳ kheo, kẻ làm chảy máu [Phật] chưa thọ cụ túc giới thì không được cho thọ cụ túc giới, đã thọ cụ túc giới thì phải bị trục xuất.”
 
-## 54. Câu Chuyện Về Người Lưỡng Tính
+## 54. Câu Chuyện Về Người Lưỡng Tính {#54}
 *(Ubhatobyañjanakavatthu)*
 
 68\. Vào lúc bấy giờ, một người lưỡng tính (ubhatobyañjanaka) đã xuất gia làm tỳ kheo. Người đó vừa thực hiện hành vi, vừa để người khác thực hiện hành vi. Các tỳ kheo báo sự việc này cho Thế Tôn.
 
 “Này các tỳ kheo, người lưỡng tính chưa thọ cụ túc giới thì không được cho thọ cụ túc giới, đã thọ cụ túc giới thì phải bị trục xuất.”
 
-## 55. Câu Chuyện Về Việc Không Có Thầy Tế Độ, v.v.
+## 55. Câu Chuyện Về Việc Không Có Thầy Tế Độ, v.v. {#55}
 *(Anupajjhāyakādivatthu)*
 
 69\. Vào lúc bấy giờ, các tỳ kheo cho người không có thầy tế độ thọ cụ túc giới. Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -2163,7 +2163,7 @@ Vào lúc bấy giờ, các tỳ kheo cho thọ cụ túc giới với kẻ bấ
 
 “Này các tỳ kheo, không được cho thọ cụ túc giới với kẻ bất lực làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với kẻ sống trộm làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với kẻ chuyển sang ngoại đạo làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với loài súc sinh làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với kẻ giết mẹ làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với kẻ giết cha làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với kẻ giết A-la-hán làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với kẻ làm ô uế tỳ kheo ni làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với kẻ chia rẽ Tăng chúng làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với kẻ làm chảy máu [Phật] làm thầy tế độ [...lặp lại...] này các tỳ kheo, không được cho thọ cụ túc giới với người lưỡng tính làm thầy tế độ. Ai cho thọ cụ túc giới, phạm một lỗi tác ác.”
 
-## 56. Câu Chuyện Về Việc Không Có Bát, v.v.
+## 56. Câu Chuyện Về Việc Không Có Bát, v.v. {#56}
 *(Apattakādivatthu)*
 
 70\. Vào lúc bấy giờ, các tỳ kheo cho người không có bát thọ cụ túc giới. Họ dùng tay để đi khất thực. Mọi người phàn nàn, chê bai, chỉ trích: “Giống hệt như ngoại đạo.” Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -2192,7 +2192,7 @@ Vào lúc bấy giờ, các tỳ kheo cho thọ cụ túc giới bằng bát và
 
 Kết thúc hai mươi mốt phần về những người không được cho thọ cụ túc giới.
 
-## 57. Ba Mươi Hai Phần Về Những Người Không Được Cho Xuất Gia
+## 57. Ba Mươi Hai Phần Về Những Người Không Được Cho Xuất Gia {#57}
 *(Napabbājetabbadvattiṁsavāra)*
 
 71\. Vào lúc bấy giờ, các tỳ kheo cho người bị cụt tay xuất gia [...lặp lại...] cho người bị cụt chân xuất gia [...lặp lại...] cho người bị cụt cả tay và chân xuất gia [...lặp lại...] cho người bị cắt tai xuất gia [...lặp lại...] cho người bị cắt mũi xuất gia [...lặp lại...] cho người bị cắt cả tai và mũi xuất gia [...lặp lại...] cho người bị đứt ngón tay xuất gia [...lặp lại...] cho người bị đứt ngón cái xuất gia [...lặp lại...] cho người bị đứt gân xuất gia [...lặp lại...] cho người có bàn tay như mang cá xuất gia [...lặp lại...] cho người gù lưng xuất gia [...lặp lại...] cho người lùn xuất gia [...lặp lại...] cho người bị bướu cổ xuất gia [...lặp lại...] cho người bị đóng dấu xuất gia [...lặp lại...] cho người bị đánh bằng roi xuất gia [...lặp lại...] cho người bị truy nã xuất gia [...lặp lại...] cho người bị bệnh chân voi xuất gia [...lặp lại...] cho người mắc bệnh ác tính xuất gia [...lặp lại...] cho người làm ô uế hội chúng xuất gia [...lặp lại...] cho người chột mắt xuất gia [...lặp lại...] cho người bị khoèo tay xuất gia [...lặp lại...] cho người bị thọt chân xuất gia [...lặp lại...] cho người bị liệt nửa người xuất gia [...lặp lại...] cho người bị tàn tật không thể đi lại xuất gia [...lặp lại...] cho người già yếu xuất gia [...lặp lại...] cho người mù xuất gia [...lặp lại...] cho người câm xuất gia [...lặp lại...] cho người điếc xuất gia [...lặp lại...] cho người vừa mù vừa câm xuất gia [...lặp lại...] cho người vừa mù vừa điếc xuất gia [...lặp lại...] cho người vừa câm vừa điếc xuất gia [...lặp lại...] cho người vừa mù, vừa câm, vừa điếc xuất gia. Các tỳ kheo báo sự việc này cho Thế Tôn [...lặp lại...]
@@ -2203,7 +2203,7 @@ Kết thúc ba mươi hai phần về những người không được cho xuấ
 
 Kết thúc Tụng phẩm thứ chín về Tài sản thừa kế.
 
-## 58. Câu Chuyện Về Việc Cho Kẻ Vô Sỉ Nương Tựa
+## 58. Câu Chuyện Về Việc Cho Kẻ Vô Sỉ Nương Tựa {#58}
 *(Alajjīnissayavatthu)*
 
 72\. Vào lúc bấy giờ, nhóm sáu tỳ kheo cho những kẻ vô sỉ (alajjī) nương tựa. Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -2218,7 +2218,7 @@ Rồi các tỳ kheo suy nghĩ: “Thế Tôn đã ban hành—‘Không đượ
 
 “Này các tỳ kheo, Ta cho phép chờ đợi bốn năm ngày cho đến khi biết được tính cách của tỳ kheo đó.”
 
-## 59. Câu Chuyện Về Sự Nương Tựa Của Người Đi Đường, v.v.
+## 59. Câu Chuyện Về Sự Nương Tựa Của Người Đi Đường, v.v. {#59}
 *(Gamikādinissayavatthu)*
 
 73\. Vào lúc bấy giờ, một tỳ kheo đang đi trên con đường dài ở vùng Kosala. Rồi tỳ kheo đó suy nghĩ: “Thế Tôn đã ban hành—‘Không được sống không nương tựa’. Và ta là người cần phải nương tựa đang đi trên con đường dài, ta phải làm sao đây?” Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -2237,14 +2237,14 @@ Vào lúc bấy giờ, một tỳ kheo đang sống trong rừng. Và vị ấy 
 
 “Này các tỳ kheo, Ta cho phép tỳ kheo sống trong rừng, nếu thấy chỗ ở thoải mái nhưng không tìm được sự nương tựa, được sống không nương tựa—với ý nghĩ: 'Khi nào có người đủ tư cách cho nương tựa đến, lúc đó ta sẽ sống nương tựa vào vị ấy'.”
 
-## 60. Cho Phép Thông Báo Bằng Tên Dòng Họ
+## 60. Cho Phép Thông Báo Bằng Tên Dòng Họ {#60}
 *(Gottenaanussāvanānujānana)*
 
 74\. Vào lúc bấy giờ, Tôn giả Mahākassapa có một người xin thọ cụ túc giới. Rồi Tôn giả Mahākassapa phái một sứ giả đến chỗ Tôn giả Ānanda: “Ānanda hãy đến và thông báo cho người này.” Tôn giả Ānanda nói như thế này: “Tôi không dám gọi tên của Trưởng lão, Trưởng lão là người đáng kính đối với tôi.” Các tỳ kheo báo sự việc này cho Thế Tôn.
 
 “Này các tỳ kheo, Ta cho phép thông báo bằng tên dòng họ (gotta).”
 
-## 61. Câu Chuyện Về Hai Người Xin Thọ Cụ Túc Giới, v.v.
+## 61. Câu Chuyện Về Hai Người Xin Thọ Cụ Túc Giới, v.v. {#61}
 *(Dveupasampadāpekkhādivatthu)*
 
 Vào lúc bấy giờ, Tôn giả Mahākassapa có hai người xin thọ cụ túc giới. Họ tranh cãi nhau: “Tôi sẽ thọ cụ túc giới trước, tôi sẽ thọ cụ túc giới trước.” Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -2255,14 +2255,14 @@ Vào lúc bấy giờ, nhiều Trưởng lão có những người xin thọ c�
 
 “Này các tỳ kheo, Ta cho phép thực hiện một lần thông báo cho hai hoặc ba người, và việc đó phải do cùng một thầy tế độ, không được khác thầy tế độ.”
 
-## 62. Cho Phép Thọ Cụ Túc Giới Từ Lúc Thụ Thai
+## 62. Cho Phép Thọ Cụ Túc Giới Từ Lúc Thụ Thai {#62}
 *(Gabbhavīsūpasampadānujānana)*
 
 75\. Vào lúc bấy giờ, Tôn giả Kumārakassapa đã thọ cụ túc giới khi mới được hai mươi tuổi tính từ lúc thụ thai (gabbhavīsa). Rồi Tôn giả Kumārakassapa suy nghĩ: “Thế Tôn đã ban hành—‘Người dưới hai mươi tuổi không được cho thọ cụ túc giới’. Và ta đã thọ cụ túc giới khi mới được hai mươi tuổi tính từ lúc thụ thai. Liệu ta đã được thọ cụ túc giới chưa, hay chưa được thọ cụ túc giới?” Các tỳ kheo báo sự việc này cho Thế Tôn.
 
 “Này các tỳ kheo, tâm đầu tiên phát sinh trong bụng mẹ, *Uẩn Nhận Biết* đầu tiên xuất hiện, tính từ lúc đó là sự sinh ra của người ấy. Này các tỳ kheo, Ta cho phép thọ cụ túc giới cho người được hai mươi tuổi tính từ lúc thụ thai.”
 
-## 63. Nghi Thức Thọ Cụ Túc Giới
+## 63. Nghi Thức Thọ Cụ Túc Giới {#63}
 *(Upasampadāvidhi)*
 
 76\. Vào lúc bấy giờ, những người đã thọ cụ túc giới bị phát hiện là mắc bệnh phong, bệnh ung nhọt, bệnh bạch tạng, bệnh lao, bệnh động kinh. Các tỳ kheo báo sự việc này cho Thế Tôn.
@@ -2333,7 +2333,7 @@ Người tên là [Tên] đã được Tăng chúng cho thọ cụ túc giới v
 
 Kết thúc yết-ma thọ cụ túc giới.
 
-## 64. Bốn Chỗ Nương Tựa
+## 64. Bốn Chỗ Nương Tựa {#64}
 *(Cattāronissaya)*
 
 77\. “Ngay sau đó phải đo bóng nắng, phải thông báo về độ dài của mùa, phải thông báo về phần của ngày, phải thông báo về sự kết hợp (saṅgīti), phải thông báo về bốn chỗ nương tựa—
@@ -2348,7 +2348,7 @@ Sự xuất gia nương tựa vào thuốc bằng nước tiểu lên men. Trong
 
 Kết thúc bốn chỗ nương tựa.
 
-## 65. Bốn Điều Không Nên Làm
+## 65. Bốn Điều Không Nên Làm {#65}
 *(Cattāriakaraṇīya)*
 
 78\. Vào lúc bấy giờ, các tỳ kheo sau khi cho một tỳ kheo thọ cụ túc giới, đã để vị ấy lại một mình và rời đi. Vị ấy đi theo sau một mình, trên đường đi đã gặp lại người vợ cũ. Cô ta nói như thế này: “Bây giờ ông đã xuất gia rồi sao?”
@@ -2371,7 +2371,7 @@ Tỳ kheo đã thọ cụ túc giới không được tuyên bố về trạng t
 
 Kết thúc bốn điều không nên làm.
 
-## 66. Câu Chuyện Về Người Bị Treo Y Bát Vì Không Thấy Lỗi Lầm
+## 66. Câu Chuyện Về Người Bị Treo Y Bát Vì Không Thấy Lỗi Lầm {#66}
 *(Āpattiyāadassaneukkhittakavatthu)*
 
 79\. Vào lúc bấy giờ, một tỳ kheo bị treo y bát vì không thấy lỗi lầm đã hoàn tục. Vị ấy quay lại và xin các tỳ kheo cho thọ cụ túc giới. Các tỳ kheo báo sự việc này cho Thế Tôn.

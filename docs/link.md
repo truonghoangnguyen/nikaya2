@@ -45,7 +45,9 @@ function parseQuery(raw) {
   if (!str) return null
   if (str === '?') return { isHelp: true }
 
-  const codeMatch = str.match(/^[a-z]+/i)
+  //const codeMatch = str.match(/^[a-z]+/i)
+  const codeMatch = str.match(/^[a-z]+(?:[._][a-z]+)*/i)
+
   if (!codeMatch) return null
   const code = codeMatch[0].toLowerCase()
 

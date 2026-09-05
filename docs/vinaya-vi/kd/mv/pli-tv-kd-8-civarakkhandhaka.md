@@ -1,7 +1,7 @@
 # PLI-TV-KD 8. CHƯƠNG VỀ Y PHỤC
 *(Cīvarakkhandhaka)*
 
-## 1. Câu Chuyện Về Jīvaka
+## 1. Câu Chuyện Về Jīvaka {#1}
 *(Jīvakavatthu)*
 
 1\. Vào thời bấy giờ, *Đức Phật* (Bậc Thế Tôn / buddho bhagavā) đang lưu trú tại Rājagaha (Vương Xá), trong khu rừng Veḷuvana (Trúc Lâm), nơi nuôi dưỡng những con sóc. Vào thời bấy giờ, [thành phố] Vesālī rất phồn vinh, thịnh vượng, đông đúc, đầy ắp người và dồi dào thức ăn; có bảy ngàn bảy trăm lẻ bảy tòa lâu đài; bảy ngàn bảy trăm lẻ bảy tòa nhà có chóp nhọn; bảy ngàn bảy trăm lẻ bảy khu vườn; bảy ngàn bảy trăm lẻ bảy hồ sen; và Ambapālī là một *kỹ nữ* (gaṇikā), cô xinh đẹp, đáng nhìn, duyên dáng, hội tụ vẻ đẹp tối thắng của làn da, khéo léo trong việc nhảy múa, ca hát và chơi nhạc cụ, được những người đàn ông có nhu cầu săn đón, và cô đi qua đêm với giá năm mươi [đồng tiền]; nhờ cô ấy mà Vesālī càng thêm rực rỡ.
@@ -68,7 +68,7 @@ Jīvaka Komārabhacca đáp lời vị thầy thuốc ấy, lấy một cái cu�
 
 Khi ấy, Jīvaka Komārabhacca cầm lấy số lộ phí ít ỏi ấy và khởi hành đi đến Rājagaha. Khi ấy, số lộ phí ít ỏi của Jīvaka Komārabhacca đã cạn kiệt giữa đường, tại Sāketa. Khi ấy, Jīvaka Komārabhacca suy nghĩ điều này: "Những con đường này hoang vắng, ít nước và ít thức ăn, không dễ để đi nếu không có lộ phí. Hay là ta nên tìm kiếm lộ phí."
 
-## 2. Câu Chuyện Về Vợ Của Thương Gia
+## 2. Câu Chuyện Về Vợ Của Thương Gia {#2}
 *(Seṭṭhibhariyāvatthu)*
 
 Vào thời bấy giờ, tại Sāketa, vợ của một thương gia bị bệnh đau đầu suốt bảy năm. Nhiều vị thầy thuốc lớn, nổi danh khắp các phương đã đến nhưng không thể chữa khỏi bệnh. Họ đã lấy đi nhiều tiền bạc rồi rời đi. Khi ấy, Jīvaka Komārabhacca đi vào Sāketa và hỏi mọi người: 
@@ -125,7 +125,7 @@ Khi ấy, Jīvaka Komārabhacca nhận lấy mười sáu ngàn [đồng tiền]
 — Vâng, tâu điện hạ.
 Jīvaka Komārabhacca đáp lời vương tử Abhaya, rồi xây dựng một nơi ở trong hậu cung của vương tử Abhaya.
 
-## 3. Câu Chuyện Về Vua Bimbisāra
+## 3. Câu Chuyện Về Vua Bimbisāra {#3}
 *(Bimbisārarājavatthu)*
 
 Vào thời bấy giờ, vua Seniya Bimbisāra của xứ Magadha bị bệnh rò hậu môn. Quần áo bị dính máu. Các phi tần nhìn thấy liền trêu chọc: "Bây giờ bệ hạ đang có kinh nguyệt, hoa của bệ hạ đã xuất hiện, chẳng bao lâu nữa bệ hạ sẽ sinh con." Vì điều đó, nhà vua cảm thấy xấu hổ.
@@ -152,7 +152,7 @@ Khi ấy, Jīvaka Komārabhacca đã loại bỏ căn bệnh rò hậu môn củ
 — Vâng, tâu bệ hạ.
 Jīvaka Komārabhacca đáp lời vua Seniya Bimbisāra của xứ Magadha.
 
-## 4. Câu Chuyện Về Thương Gia Ở Rājagaha
+## 4. Câu Chuyện Về Thương Gia Ở Rājagaha {#4}
 *(Rājagahaseṭṭhivatthu)*
 
 Vào thời bấy giờ, một thương gia ở Rājagaha bị bệnh đau đầu suốt bảy năm. Nhiều vị thầy thuốc lớn, nổi danh khắp các phương đã đến nhưng không thể chữa khỏi bệnh. Họ đã lấy đi nhiều tiền bạc rồi rời đi. Hơn nữa, ông đã bị các thầy thuốc từ bỏ. Một số thầy thuốc nói như thế này: "Vào ngày thứ năm, gia chủ thương gia sẽ qua đời." Một số thầy thuốc khác lại nói: "Vào ngày thứ bảy, gia chủ thương gia sẽ qua đời."
@@ -206,7 +206,7 @@ Khi ấy, sau bảy ngày trôi qua, gia chủ thương gia nói với Jīvaka K
 — Thôi đi, này gia chủ, ông đừng giao toàn bộ tài sản cho tôi, và cũng đừng làm người hầu của tôi. Hãy dâng cho nhà vua một trăm ngàn [đồng tiền], và cho tôi một trăm ngàn [đồng tiền]. 
 Khi ấy, gia chủ thương gia sau khi khỏi bệnh đã dâng cho nhà vua một trăm ngàn [đồng tiền], và trao cho Jīvaka Komārabhacca một trăm ngàn [đồng tiền].
 
-## 5. Câu Chuyện Về Con Trai Của Thương Gia
+## 5. Câu Chuyện Về Con Trai Của Thương Gia {#5}
 *(Seṭṭhiputtavatthu)*
 
 Vào thời bấy giờ, con trai của một thương gia ở Bārāṇasī trong khi chơi trò nhào lộn đã bị bệnh xoắn ruột, do đó cháo uống vào không tiêu hóa tốt, cơm ăn vào không tiêu hóa tốt, việc đại tiện và tiểu tiện cũng không bình thường. Vì điều đó, cậu trở nên gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người. Khi ấy, thương gia ở Bārāṇasī suy nghĩ điều này: "Con trai của ta mắc phải căn bệnh như thế, do đó cháo uống vào không tiêu hóa tốt, cơm ăn vào không tiêu hóa tốt, việc đại tiện và tiểu tiện cũng không bình thường. Vì điều đó, nó trở nên gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người. Hay là ta nên đi đến Rājagaha và thỉnh cầu nhà vua cho thầy thuốc Jīvaka đến chữa trị cho con trai ta."
@@ -221,7 +221,7 @@ Jīvaka Komārabhacca đáp lời vua Seniya Bimbisāra của xứ Magadha, đi 
 — Hãy nhìn căn bệnh của chồng cô, vì điều này mà cháo uống vào không tiêu hóa tốt, cơm ăn vào không tiêu hóa tốt, việc đại tiện và tiểu tiện cũng không bình thường; vì điều này mà cậu ấy trở nên gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người. 
 Cậu tháo gỡ phần ruột bị xoắn, đưa ruột trở lại vào trong, khâu da bụng và bôi thuốc. Khi ấy, con trai của thương gia ở Bārāṇasī chẳng bao lâu đã khỏi bệnh. Khi ấy, thương gia ở Bārāṇasī nghĩ: "Con trai của ta đã khỏi bệnh," liền trao cho Jīvaka Komārabhacca mười sáu ngàn [đồng tiền]. Khi ấy, Jīvaka Komārabhacca nhận lấy mười sáu ngàn [đồng tiền] ấy rồi quay trở lại Rājagaha.
 
-## 6. Câu Chuyện Về Vua Pajjota
+## 6. Câu Chuyện Về Vua Pajjota {#6}
 *(Pajjotarājavatthu)*
 
 Vào thời bấy giờ, vua Pajjota bị bệnh vàng da. Nhiều vị thầy thuốc lớn, nổi danh khắp các phương đã đến nhưng không thể chữa khỏi bệnh. Họ đã lấy đi nhiều tiền bạc rồi rời đi. Khi ấy, vua Pajjota phái sứ giả đến chỗ vua Seniya Bimbisāra của xứ Magadha: 
@@ -267,12 +267,12 @@ Khi ấy, vua Pajjota sau khi khỏi bệnh đã phái sứ giả đến chỗ J
 — Hãy bảo Jīvaka đến đây, ta sẽ ban cho một ân huệ.
 — Thôi đi, thưa ngài, xin bệ hạ hãy ghi nhớ công lao của tôi là đủ.
 
-## 7. Câu Chuyện Về Cặp Y Phục Siveyyaka
+## 7. Câu Chuyện Về Cặp Y Phục Siveyyaka {#7}
 *(Siveyyakadussayugakathā)*
 
 Vào thời bấy giờ, vua Pajjota có được một cặp y phục Siveyyaka—là loại tối thượng, tuyệt hảo, xuất chúng, cao quý và thù thắng nhất trong số nhiều y phục, nhiều cặp y phục, nhiều trăm cặp y phục, nhiều ngàn cặp y phục, nhiều trăm ngàn cặp y phục. Khi ấy, vua Pajjota đã gửi cặp y phục Siveyyaka ấy cho Jīvaka Komārabhacca. Khi ấy, Jīvaka Komārabhacca suy nghĩ điều này: "Cặp y phục Siveyyaka này được vua Pajjota gửi cho ta—là loại tối thượng, tuyệt hảo, xuất chúng, cao quý và thù thắng nhất trong số nhiều y phục, nhiều cặp y phục, nhiều trăm cặp y phục, nhiều ngàn cặp y phục, nhiều trăm ngàn cặp y phục. Không có ai khác xứng đáng với nó ngoại trừ *Đức Phật*, Bậc A-la-hán, Đấng Chánh Đẳng Giác, hoặc vua Seniya Bimbisāra của xứ Magadha."
 
-## 8. Câu Chuyện Về Ba Mươi Lần Xổ
+## 8. Câu Chuyện Về Ba Mươi Lần Xổ {#8}
 *(Samattiṁsavirecanakathā)*
 
 Vào thời bấy giờ, thân thể của *Đức Phật* bị ứ đọng các chất dịch (dosābhisanno). Khi ấy, *Đức Phật* gọi Tôn giả Ānanda: 
@@ -306,7 +306,7 @@ Khi ấy, Jīvaka Komārabhacca đi đến nơi *Đức Phật* [đang ở], sau
 Khi ấy, *Đức Phật* tắm bằng nước nóng. Sau khi tắm, *Đức Phật* xổ thêm một lần nữa. Như vậy, *Đức Phật* đã xổ đủ ba mươi lần. Khi ấy, Jīvaka Komārabhacca nói với *Đức Phật* điều này: 
 — Bạch Thế Tôn, cho đến khi thân thể của *Đức Phật* trở lại bình thường, xin hãy chỉ dùng nước súp.
 
-## 9. Câu Chuyện Về Việc Xin Ân Huệ
+## 9. Câu Chuyện Về Việc Xin Ân Huệ {#9}
 *(Varayācanākathā)*
 
 Khi ấy, thân thể của *Đức Phật* chẳng bao lâu đã trở lại bình thường. Khi ấy, Jīvaka Komārabhacca cầm lấy cặp y phục Siveyyaka ấy đi đến nơi *Đức Phật* [đang ở], sau khi đến gần liền đảnh lễ *Đức Phật* rồi ngồi xuống một bên. Ngồi một bên, Jīvaka Komārabhacca nói với *Đức Phật* điều này: 
@@ -334,7 +334,7 @@ Một tấm thảm lông (kojava) đã xuất hiện. Họ đã báo cáo sự v
 **Kết thúc Tụng phẩm thứ nhất.**
 *(Paṭhamabhāṇavāro niṭṭhito)*
 
-## 10. Câu Chuyện Về Việc Cho Phép Chăn Len Và Các Loại Khác
+## 10. Câu Chuyện Về Việc Cho Phép Chăn Len Và Các Loại Khác {#10}
 *(Kambalānujānanādikathā)*
 
 2\. Vào thời bấy giờ, vua xứ Kāsi gửi cho Jīvaka Komārabhacca một tấm *chăn len* (kambala) nửa giá trị Kāsi, trị giá nửa [thu nhập của] Kāsi. Khi ấy, Jīvaka Komārabhacca cầm tấm *chăn len* nửa giá trị Kāsi ấy đi đến nơi *Đức Phật* [đang ở], sau khi đến gần liền đảnh lễ *Đức Phật* rồi ngồi xuống một bên. Ngồi một bên, Jīvaka Komārabhacca nói với *Đức Phật* điều này: 
@@ -351,7 +351,7 @@ Vào thời bấy giờ, những tỳ kheo nào nhận *y phục do gia chủ c�
 
 — Này các tỳ kheo, Ta cho phép người đang nhận *y phục do gia chủ cúng dường* cũng được nhận *y phấn tảo*; này các tỳ kheo, Ta tán thán sự bằng lòng với cả hai loại đó.
 
-## 11. Câu Chuyện Về Việc Tìm Kiếm Y Phấn Tảo
+## 11. Câu Chuyện Về Việc Tìm Kiếm Y Phấn Tảo {#11}
 *(Paṁsukūlapariyesanakathā)*
 
 4\. Vào thời bấy giờ, nhiều tỳ kheo đang đi trên đường trường ở vùng quê Kosala. Một số tỳ kheo đi vào nghĩa địa để tìm *y phấn tảo*, một số tỳ kheo không chờ đợi. Những tỳ kheo đi vào nghĩa địa tìm *y phấn tảo* đã nhận được những *y phấn tảo*. Những tỳ kheo không chờ đợi đã nói như thế này: 
@@ -394,7 +394,7 @@ Họ đã báo cáo sự việc này cho *Đức Phật*.
 
 — Này các tỳ kheo, Ta cho phép chia phần cho những người đã lập giao ước rồi đi vào dù không muốn.
 
-## 12. Câu Chuyện Về Việc Bổ Nhiệm Người Tiếp Nhận Y Phục
+## 12. Câu Chuyện Về Việc Bổ Nhiệm Người Tiếp Nhận Y Phục {#12}
 *(Cīvarapaṭiggāhakasammutikathā)*
 
 5\. Vào thời bấy giờ, mọi người mang y phục đến khu vườn. Họ không tìm được người nhận nên mang về. Y phục xuất hiện rất ít. Họ đã báo cáo sự việc này cho *Đức Phật*.
@@ -421,7 +421,7 @@ Bạch chư Đại đức, xin *Tăng chúng* hãy lắng nghe tôi. *Tăng chú
 
 Tỳ kheo tên là thế này đã được *Tăng chúng* bổ nhiệm làm *người cất giữ y phục*. *Tăng chúng* chấp thuận, do đó giữ im lặng, tôi ghi nhận sự việc là như vậy'.
 
-## 13. Câu Chuyện Về Việc Chỉ Định Nhà Kho Và Các Việc Khác
+## 13. Câu Chuyện Về Việc Chỉ Định Nhà Kho Và Các Việc Khác {#13}
 *(Bhaṇḍāgārasammutiādikathā)*
 
 7\. Vào thời bấy giờ, tỳ kheo là *người cất giữ y phục* cất giữ y phục ở rạp che, ở gốc cây, hoặc ở ngoài trời, [nên] bị chuột và mối ăn. Họ đã báo cáo sự việc này cho *Đức Phật*.
@@ -488,7 +488,7 @@ Khi ấy, các tỳ kheo là *người phân chia y phục* suy nghĩ điều n�
 
 — Này các tỳ kheo, Ta cho phép làm hài lòng những người thiếu thốn rồi rút thăm.
 
-## 14. Câu Chuyện Về Việc Nhuộm Y Phục
+## 14. Câu Chuyện Về Việc Nhuộm Y Phục {#14}
 *(Cīvararajanakathā)*
 
 10\. Vào thời bấy giờ, các tỳ kheo nhuộm y phục bằng phân bò hoặc bằng đất sét vàng. Y phục có màu xấu xí. Họ đã báo cáo sự việc này cho *Đức Phật*.
@@ -551,7 +551,7 @@ Vào thời bấy giờ, các tỳ kheo mặc những y phục chưa được c�
 
 — Này các tỳ kheo, không được mặc những y phục chưa được cắt rời. Ai mặc, phạm lỗi *tác ác*.
 
-## 15. Việc Cho Phép Y Phục Được Cắt Rời
+## 15. Việc Cho Phép Y Phục Được Cắt Rời {#15}
 *(Chinnakacīvarānujānana)*
 
 12\. Khi ấy, *Đức Phật* sau khi lưu trú tại Rājagaha theo ý thích, liền khởi hành đi du hành về phía Dakkhiṇāgiri. *Đức Phật* nhìn thấy cánh đồng ở Magadha được chia thành từng ô, được đắp bờ, được phân ranh giới, được chia thành các ngã tư, thấy vậy liền gọi Tôn giả Ānanda: 
@@ -572,7 +572,7 @@ Khi ấy, *Đức Phật* nhân lý do này, nhân sự kiện này, đã giản
 
 Này các tỳ kheo, Ta cho phép y Tăng-già-lê (saṅghāṭi) được cắt rời, y vai trái (uttarāsaṅga) được cắt rời, y nội (antaravāsaka) được cắt rời.
 
-## 16. Việc Cho Phép Ba Y
+## 16. Việc Cho Phép Ba Y {#16}
 *(Ticīvarānujānana)*
 
 13\. Khi ấy, *Đức Phật* sau khi lưu trú tại Rājagaha theo ý thích, liền khởi hành đi du hành về phía Vesālī. *Đức Phật* đang đi trên đường trường giữa Rājagaha và Vesālī, nhìn thấy nhiều tỳ kheo mang vác y phục lỉnh kỉnh, đội cuộn y phục trên đầu, vác cuộn y phục trên vai, buộc cuộn y phục ở hông đang đi tới, thấy vậy *Đức Phật* suy nghĩ điều này: "Những kẻ rỗng tuếch này đã quá nhanh chóng quay lại với sự dư thừa về y phục. Hay là Ta nên đặt ra giới hạn về y phục cho các tỳ kheo, thiết lập một ranh giới."
@@ -584,7 +584,7 @@ Khi ấy, *Đức Phật* nhân lý do này, nhân sự kiện này, đã giản
 
 Này các tỳ kheo, Ta cho phép ba y—y Tăng-già-lê hai lớp, y vai trái một lớp, y nội một lớp.
 
-## 17. Câu Chuyện Về Y Phục Dư Thừa
+## 17. Câu Chuyện Về Y Phục Dư Thừa {#17}
 *(Atirekacīvarakathā)*
 
 Vào thời bấy giờ, nhóm sáu tỳ kheo [nghĩ rằng]: "*Đức Phật* đã cho phép ba y," nên họ đi vào làng với một bộ ba y khác, ở lại trong khu vườn với một bộ ba y khác, và đi xuống tắm với một bộ ba y khác. Những tỳ kheo nào ít ham muốn, họ chê bai, phàn nàn, chỉ trích: "Làm sao nhóm sáu tỳ kheo lại có thể giữ *y phục dư thừa* (atirekacīvara)?" Khi ấy, các tỳ kheo ấy đã báo cáo sự việc này cho *Đức Phật*. Khi ấy, *Đức Phật* nhân lý do này, nhân sự kiện này, đã giảng một bài *giảng về Chân lý* rồi gọi các tỳ kheo:
@@ -619,7 +619,7 @@ Khi ấy, *Đức Phật* nhân lý do này, nhân sự kiện này, đã giản
 
 — Này các tỳ kheo, đối với vải mới và vải giống như mới, Ta cho phép y Tăng-già-lê hai lớp, y vai trái một lớp, y nội một lớp; đối với vải đã qua sử dụng, y Tăng-già-lê bốn lớp, y vai trái hai lớp, y nội hai lớp; đối với *y phấn tảo*, bao nhiêu lớp tùy thích; đối với vải mua ở cửa hàng, cần phải cố gắng [làm cho phù hợp]. Này các tỳ kheo, Ta cho phép đắp miếng vá, khâu mạng, viền mép, đắp góc và khâu gia cố.
 
-## 18. Câu Chuyện Về Visākhā
+## 18. Câu Chuyện Về Visākhā {#18}
 *(Visākhāvatthu)*
 
 15\. Khi ấy, *Đức Phật* sau khi lưu trú tại Bārāṇasī theo ý thích, liền khởi hành đi du hành về phía Sāvatthi. Đi du hành dần dần đến Sāvatthi. Tại đó, *Đức Phật* lưu trú ở Sāvatthi, tại Jetavana, trong khu vườn của Anāthapiṇḍika.
@@ -714,7 +714,7 @@ Khi ấy, *Đức Phật* sau khi tùy hỷ Visākhā Migāramātā bằng nhữ
 **Kết thúc Tụng phẩm về Visākhā.**
 *(Visākhābhāṇavāro niṭṭhito)*
 
-## 19. Việc Cho Phép Tọa Cụ Và Các Việc Khác
+## 19. Việc Cho Phép Tọa Cụ Và Các Việc Khác {#19}
 *(Nisīdanādianujānana)*
 
 16\. Vào thời bấy giờ, các tỳ kheo sau khi dùng những thức ăn thượng hạng, đã chìm vào giấc ngủ với sự thất niệm và không *nhận biết rõ ràng* (tỉnh giác / sampajānā). Đối với những người chìm vào giấc ngủ với sự thất niệm và không *nhận biết rõ ràng* ấy, tinh dịch xuất ra trong giấc mơ, chỗ ở bị vấy bẩn bởi tinh dịch.
@@ -763,7 +763,7 @@ Khi ấy, *Đức Phật* nhân lý do này, nhân sự kiện này, đã giản
 
 — Này các tỳ kheo, Ta cho phép *vải làm vật dụng phụ trợ* (parikkhāracoḷaka).
 
-## 20. Câu Chuyện Về Y Phục Không Chuyển Nhượng Và Các Việc Khác
+## 20. Câu Chuyện Về Y Phục Không Chuyển Nhượng Và Các Việc Khác {#20}
 *(Pacchimavikappanupagacīvarādikathā)*
 
 Khi ấy, các tỳ kheo suy nghĩ điều này: "Những thứ đã được *Đức Phật* cho phép như ba y, *y tắm mưa*, *tọa cụ*, *tấm trải*, *y che ghẻ*, *khăn lau mặt*, hay *vải làm vật dụng phụ trợ*, tất cả những thứ đó nên được *quyết định sử dụng* (adhiṭṭhāna) hay nên được *chuyển nhượng*?" Họ đã báo cáo sự việc này cho *Đức Phật*.
@@ -826,7 +826,7 @@ Này các tỳ kheo, có năm lý do để cất giữ y vai trái [...lặp l�
 
 Này các tỳ kheo, có năm lý do để cất giữ *y tắm mưa*: bị bệnh, hoặc phải đi ra ngoài ranh giới, hoặc phải đi qua sông, hoặc chỗ ở được bảo vệ bằng then cài, hoặc *y tắm mưa* chưa được làm xong hay đang làm dở dang. Này các tỳ kheo, đây là năm lý do để cất giữ *y tắm mưa*.
 
-## 21. Câu Chuyện Về Việc Phát Sinh Y Phục Của Tăng Chúng
+## 21. Câu Chuyện Về Việc Phát Sinh Y Phục Của Tăng Chúng {#21}
 *(Saṅghikacīvaruppādakathā)*
 
 24\. Vào thời bấy giờ, một tỳ kheo nọ an cư mùa mưa một mình. Tại đó, mọi người đã cúng dường y phục [với lời nói]: "Chúng tôi cúng dường cho *Tăng chúng*." Khi ấy, tỳ kheo ấy suy nghĩ điều này: "*Đức Phật* đã quy định: 'Bốn vị là số lượng tối thiểu của *Tăng chúng*'. Mà ta lại chỉ có một mình. Và những người này đã cúng dường y phục [với lời nói]: 'Chúng tôi cúng dường cho *Tăng chúng*'. Hay là ta nên mang những y phục của *Tăng chúng* này đến Sāvatthi." Khi ấy, tỳ kheo ấy mang những y phục đó đi đến Sāvatthi và báo cáo sự việc này cho *Đức Phật*. 
@@ -849,7 +849,7 @@ Vào thời bấy giờ, có ba tỳ kheo an cư mùa mưa tại Rājagaha. Tạ
 Vào thời bấy giờ, có nhiều Trưởng lão là Tôn giả Nilavāsī, Tôn giả Sāṇavāsī, Tôn giả Gotaka, Tôn giả Bhagu và Tôn giả Phaḷikasantāna đang lưu trú tại Pāṭaliputta, trong khu vườn Kukkuṭa. Khi ấy, các tỳ kheo ấy đi đến Pāṭaliputta và hỏi các Trưởng lão. Các Trưởng lão nói như thế này: 
 — Này các hiền giả, theo như chúng tôi hiểu *Giáo pháp* do *Đức Phật* thuyết giảng, thì những y phục đó thuộc về chính các vị cho đến khi *y Kathina* được dỡ bỏ.
 
-## 22. Câu Chuyện Về Upananda Thích Tử
+## 22. Câu Chuyện Về Upananda Thích Tử {#22}
 *(Upanandasakyaputtavatthu)*
 
 25\. Vào thời bấy giờ, Tôn giả Upananda Thích Tử sau khi an cư mùa mưa tại Sāvatthi, đã đi đến một chỗ ở trong làng nọ. Tại đó, các tỳ kheo đang tụ họp với mong muốn phân chia y phục. Họ nói như thế này: 
@@ -892,7 +892,7 @@ Vào thời bấy giờ, Tôn giả Upananda Thích Tử một mình an cư mùa
 
 Này các tỳ kheo, ở đây, nếu một tỳ kheo một mình an cư mùa mưa ở hai chỗ ở [với suy nghĩ]: 'Như vậy ta sẽ có được nhiều y phục'. Nếu vị ấy lưu trú một nửa thời gian ở nơi này, một nửa thời gian ở nơi kia, thì phải trao một nửa phần y phục ở nơi này, một nửa phần y phục ở nơi kia. Hoặc nếu vị ấy lưu trú nhiều thời gian hơn ở nơi nào, thì phải trao phần y phục từ nơi đó.
 
-## 23. Câu Chuyện Về Người Bệnh
+## 23. Câu Chuyện Về Người Bệnh {#23}
 *(Gilānavatthukathā)*
 
 26\. Vào thời bấy giờ, một tỳ kheo nọ bị bệnh đường ruột. Vị ấy nằm chìm trong phân và nước tiểu của chính mình. Khi ấy, *Đức Phật* cùng với Tôn giả Ānanda làm sa-môn đi theo sau, đang đi dạo quanh các chỗ ở, liền đi đến nơi ở của tỳ kheo ấy. *Đức Phật* nhìn thấy tỳ kheo ấy đang nằm chìm trong phân và nước tiểu của chính mình, thấy vậy liền đi đến nơi tỳ kheo ấy [đang ở], sau khi đến gần liền nói với tỳ kheo ấy điều này: 
@@ -945,7 +945,7 @@ Này các tỳ kheo, người chăm sóc người bệnh hội đủ năm yếu 
 
 Này các tỳ kheo, người chăm sóc người bệnh hội đủ năm yếu tố này là người đủ khả năng chăm sóc người bệnh.
 
-## 24. Câu Chuyện Về Tài Sản Của Người Đã Chết
+## 24. Câu Chuyện Về Tài Sản Của Người Đã Chết {#24}
 *(Matasantakakathā)*
 
 27\. Vào thời bấy giờ, có hai tỳ kheo đang đi trên đường trường ở vùng quê Kosala. Họ đi đến một chỗ ở nọ. Tại đó, có một tỳ kheo bị bệnh. Khi ấy, các tỳ kheo ấy suy nghĩ điều này: "Này các hiền giả, *Đức Phật* đã tán thán việc chăm sóc người bệnh. Nào, này các hiền giả, chúng ta hãy chăm sóc tỳ kheo này." Họ đã chăm sóc vị ấy. Vị ấy trong khi được họ chăm sóc đã qua đời. Khi ấy, các tỳ kheo ấy mang bình bát và y phục của tỳ kheo đó đi đến Sāvatthi và báo cáo sự việc này cho *Đức Phật*.
@@ -980,7 +980,7 @@ Vào thời bấy giờ, một tỳ kheo nọ có nhiều đồ vật, nhiều v
 
 — Này các tỳ kheo, khi một tỳ kheo qua đời, *Tăng chúng* là chủ sở hữu bình bát và y phục, tuy nhiên những người chăm sóc người bệnh có công lao rất lớn. Này các tỳ kheo, Ta cho phép *Tăng chúng* trao ba y và bình bát cho những người chăm sóc người bệnh. Những gì là đồ vật nhẹ, vật dụng phụ trợ nhẹ ở đó, hãy để *Tăng chúng* hiện diện cùng nhau phân chia. Những gì là đồ vật nặng, vật dụng phụ trợ nặng ở đó, thuộc về *Tăng chúng* từ bốn phương đã đến và chưa đến, không được phân phát, không được chia chác.
 
-## 25. Câu Chuyện Về Việc Cấm Khỏa Thân
+## 25. Câu Chuyện Về Việc Cấm Khỏa Thân {#25}
 *(Naggiyapaṭikkhepakathā)*
 
 28\. Vào thời bấy giờ, một tỳ kheo nọ khỏa thân đi đến nơi *Đức Phật* [đang ở], sau khi đến gần liền nói với *Đức Phật* điều này: 
@@ -991,7 +991,7 @@ Vào thời bấy giờ, một tỳ kheo nọ có nhiều đồ vật, nhiều v
 
 — Này các tỳ kheo, không được thọ trì sự khỏa thân, vốn là sự thọ trì của ngoại đạo. Ai thọ trì, phạm lỗi Thullaccaya (Trọng tội).
 
-## 26. Câu Chuyện Về Việc Cấm Y Phục Bằng Cỏ Và Các Loại Khác
+## 26. Câu Chuyện Về Việc Cấm Y Phục Bằng Cỏ Và Các Loại Khác {#26}
 *(Kusacīrādipaṭikkhepakathā)*
 
 Vào thời bấy giờ, một tỳ kheo nọ mặc y phục bằng cỏ [...lặp lại...] mặc y phục bằng vỏ cây [...lặp lại...] mặc y phục bằng những mảnh gỗ [...lặp lại...] mặc y phục bằng tóc [...lặp lại...] mặc y phục bằng lông đuôi ngựa [...lặp lại...] mặc y phục bằng lông chim cú [...lặp lại...] mặc y phục bằng da linh dương đi đến nơi *Đức Phật* [đang ở]; sau khi đến gần liền nói với *Đức Phật* điều này: 
@@ -1010,14 +1010,14 @@ Vào thời bấy giờ, một tỳ kheo nọ mặc y phục bằng thân cây b
 
 — Này các tỳ kheo, không được mặc y phục bằng vải gai thô. Ai mặc, phạm lỗi *tác ác*.
 
-## 27. Câu Chuyện Về Việc Cấm Y Phục Toàn Màu Xanh Và Các Loại Khác
+## 27. Câu Chuyện Về Việc Cấm Y Phục Toàn Màu Xanh Và Các Loại Khác {#27}
 *(Sabbanīlakādipaṭikkhepakathā)*
 
 29\. Vào thời bấy giờ, nhóm sáu tỳ kheo mặc y phục toàn màu xanh [...lặp lại...] mặc y phục toàn màu vàng [...lặp lại...] mặc y phục toàn màu đỏ [...lặp lại...] mặc y phục toàn màu đỏ sẫm [...lặp lại...] mặc y phục toàn màu đen [...lặp lại...] mặc y phục toàn màu cam [...lặp lại...] mặc y phục toàn màu hồng [...lặp lại...] mặc y phục không cắt viền [...lặp lại...] mặc y phục có viền dài [...lặp lại...] mặc y phục có viền hình hoa [...lặp lại...] mặc y phục có viền hình mang rắn [...lặp lại...] mặc áo lót [...lặp lại...] mặc áo khoác [...lặp lại...] đội khăn quấn đầu. Mọi người chê bai, phàn nàn, chỉ trích: "Làm sao các sa-môn Thích tử lại đội khăn quấn đầu, giống như những người tại gia thụ hưởng dục lạc." Họ đã báo cáo sự việc này cho *Đức Phật*.
 
 — Này các tỳ kheo, không được mặc y phục toàn màu xanh, không được mặc y phục toàn màu vàng, không được mặc y phục toàn màu đỏ, không được mặc y phục toàn màu đỏ sẫm, không được mặc y phục toàn màu đen, không được mặc y phục toàn màu cam, không được mặc y phục toàn màu hồng, không được mặc y phục không cắt viền, không được mặc y phục có viền dài, không được mặc y phục có viền hình hoa, không được mặc y phục có viền hình mang rắn, không được mặc áo lót, không được mặc áo khoác, không được đội khăn quấn đầu. Ai mặc, phạm lỗi *tác ác*.
 
-## 28. Câu Chuyện Về Y Phục Chưa Phát Sinh Của Những Người Đã An Cư Mùa Mưa
+## 28. Câu Chuyện Về Y Phục Chưa Phát Sinh Của Những Người Đã An Cư Mùa Mưa {#28}
 *(Vassaṁvuṭṭhānaṁanuppannacīvarakathā)*
 
 30\. Vào thời bấy giờ, những tỳ kheo đã an cư mùa mưa, khi y phục chưa phát sinh, họ rời đi, hoặc hoàn tục, hoặc qua đời, hoặc tự nhận mình là sa-di, hoặc tự nhận mình là người đã từ bỏ học giới, hoặc tự nhận mình là người đã phạm tội Ba-la-di (antimavatthu), hoặc tự nhận mình là người điên, hoặc tự nhận mình là người loạn tâm, hoặc tự nhận mình là người bị bệnh tật hành hạ, hoặc tự nhận mình là người bị treo yết ma vì không thấy lỗi, hoặc tự nhận mình là người bị treo yết ma vì không sửa chữa lỗi, hoặc tự nhận mình là người bị treo yết ma vì không từ bỏ quan điểm sai lầm, hoặc tự nhận mình là người bán nam bán nữ (paṇḍaka), hoặc tự nhận mình là kẻ trộm sự sống chung (theyyasaṁvāsaka), hoặc tự nhận mình là người đã theo ngoại đạo, hoặc tự nhận mình là súc sinh, hoặc tự nhận mình là kẻ giết mẹ, hoặc tự nhận mình là kẻ giết cha, hoặc tự nhận mình là kẻ giết A-la-hán, hoặc tự nhận mình là kẻ cưỡng hiếp tỳ kheo ni, hoặc tự nhận mình là kẻ chia rẽ *Tăng chúng*, hoặc tự nhận mình là kẻ làm chảy máu [Phật], hoặc tự nhận mình là người lưỡng tính (ubhatobyañjanaka). Họ đã báo cáo sự việc này cho *Đức Phật*.
@@ -1038,7 +1038,7 @@ Này các tỳ kheo, ở đây, nếu một tỳ kheo đã an cư mùa mưa, khi
 
 Này các tỳ kheo, ở đây, nếu một tỳ kheo đã an cư mùa mưa, khi y phục đã phát sinh nhưng chưa được phân chia, vị ấy tự nhận mình là người bán nam bán nữ, tự nhận mình là kẻ trộm sự sống chung, tự nhận mình là người đã theo ngoại đạo, tự nhận mình là súc sinh, tự nhận mình là kẻ giết mẹ, tự nhận mình là kẻ giết cha, tự nhận mình là kẻ giết A-la-hán, tự nhận mình là kẻ cưỡng hiếp tỳ kheo ni, tự nhận mình là kẻ chia rẽ *Tăng chúng*, tự nhận mình là kẻ làm chảy máu [Phật], hoặc tự nhận mình là người lưỡng tính, thì *Tăng chúng* là chủ sở hữu.
 
-## 29. Câu Chuyện Về Việc Phát Sinh Y Phục Khi Tăng Chúng Bị Chia Rẽ
+## 29. Câu Chuyện Về Việc Phát Sinh Y Phục Khi Tăng Chúng Bị Chia Rẽ {#29}
 *(Saṅghebhinnecīvaruppādakathā)*
 
 Này các tỳ kheo, ở đây, đối với những tỳ kheo đã an cư mùa mưa, khi y phục chưa phát sinh, *Tăng chúng* bị chia rẽ. Tại đó, mọi người cúng dường nước cho một phe, và cúng dường y phục cho phe kia [với lời nói]: 'Chúng tôi cúng dường cho *Tăng chúng*'. Nó thuộc về toàn bộ *Tăng chúng*.
@@ -1051,7 +1051,7 @@ Này các tỳ kheo, ở đây, đối với những tỳ kheo đã an cư mùa 
 
 Này các tỳ kheo, ở đây, đối với những tỳ kheo đã an cư mùa mưa, khi y phục đã phát sinh nhưng chưa được phân chia, *Tăng chúng* bị chia rẽ. Phải phân chia đồng đều cho tất cả mọi người.
 
-## 30. Câu Chuyện Về Việc Lấy Sai Và Lấy Đúng Và Các Việc Khác
+## 30. Câu Chuyện Về Việc Lấy Sai Và Lấy Đúng Và Các Việc Khác {#30}
 *(Duggahitasuggahitādikathā)*
 
 31\. Vào thời bấy giờ, Tôn giả Revata gửi y phục của Tôn giả Sāriputta qua tay một tỳ kheo nọ [với lời dặn]: "Hãy đưa y phục này cho Trưởng lão." Khi ấy, tỳ kheo ấy trên đường đi, vì sự tin tưởng đối với Tôn giả Revata nên đã lấy y phục đó.
@@ -1086,7 +1086,7 @@ Này các tỳ kheo, ở đây, nếu một tỳ kheo gửi y phục qua tay m�
 
 Này các tỳ kheo, ở đây, nếu một tỳ kheo gửi y phục qua tay một tỳ kheo khác [với lời dặn]: 'Tôi tặng y phục này cho người tên là thế này'. Trên đường đi, vị ấy nghe tin: 'Cả hai người đều đã qua đời'. Vị ấy *quyết định sử dụng* nó như là y phục của người chết thuộc về người gửi. Đó là *quyết định sử dụng* sai. Nếu vị ấy *quyết định sử dụng* nó như là y phục của người chết thuộc về người được nhận. Đó là *quyết định sử dụng* đúng.
 
-## 31. Tám Nguồn Gốc Của Y Phục
+## 31. Tám Nguồn Gốc Của Y Phục {#31}
 *(Aṭṭhacīvaramātikā)*
 
 32\. Này các tỳ kheo, có tám nguồn gốc phát sinh y phục: cúng dường cho ranh giới, cúng dường theo giao ước, cúng dường theo lời tuyên bố khất thực, cúng dường cho *Tăng chúng*, cúng dường cho cả hai *Tăng chúng* (Tỳ kheo và Tỳ kheo ni), cúng dường cho *Tăng chúng* đã an cư mùa mưa, cúng dường cho một nhóm được chỉ định, cúng dường cho cá nhân.

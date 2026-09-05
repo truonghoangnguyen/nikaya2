@@ -1,7 +1,7 @@
 # PLI-TV-KD 10. CHƯƠNG VỀ CÁC TỲ KHEO Ở KOSAMBI
 *(Kosambakakkhandhaka)*
 
-## 1. Câu chuyện tranh luận ở Kosambi
+## 1. Câu chuyện tranh luận ở Kosambi {#1}
 *(Kosambakavivādakathā)*
 
 1\. Vào lúc bấy giờ, Đức Phật, Thế Tôn, đang lưu trú tại Kosambi, trong khu vườn của Ghosita. Lúc bấy giờ, có một vị tỳ kheo mắc phải một *lỗi* (tội / āpatti) `[!]`. Vị ấy đối với *lỗi* đó thì có *quan điểm* (diṭṭhi) là có *lỗi*; các tỳ kheo khác đối với *lỗi* đó thì có *quan điểm* là không có *lỗi*. Vào một thời gian sau, vị ấy đối với *lỗi* đó lại có *quan điểm* là không có *lỗi*; các tỳ kheo khác đối với *lỗi* đó lại có *quan điểm* là có *lỗi*. Rồi các tỳ kheo ấy nói với vị tỳ kheo kia thế này: "Này hiền giả, bạn đã mắc *lỗi*, bạn có thấy *lỗi* đó không?"
@@ -38,7 +38,7 @@ Lúc bấy giờ, các tỳ kheo đi theo vị bị đình chỉ thực hiện l
 
 Này tỳ kheo, có hai nền tảng dẫn đến sự khác biệt cộng đồng: tự mình làm cho mình thành người khác biệt cộng đồng hoặc Tăng chúng hòa hợp đình chỉ vị ấy vì không thấy *lỗi*, không sửa chữa *lỗi* hoặc không từ bỏ [tà kiến]. Này tỳ kheo, đây là hai nền tảng dẫn đến sự khác biệt cộng đồng. Này tỳ kheo, có hai nền tảng dẫn đến sự cùng chung cộng đồng: tự mình làm cho mình thành người cùng chung cộng đồng hoặc Tăng chúng hòa hợp phục hồi vị đã bị đình chỉ vì không thấy *lỗi*, không sửa chữa *lỗi* hoặc không từ bỏ [tà kiến]. Này tỳ kheo, đây là hai nền tảng dẫn đến sự cùng chung cộng đồng."
 
-## 2. Câu chuyện về Dīghāvu
+## 2. Câu chuyện về Dīghāvu {#2}
 *(Dīghāvuvatthu)*
 
 2\. Lúc bấy giờ, các tỳ kheo trong nhà ăn và trong làng sinh ra tranh cãi, cãi vã, xung đột, thể hiện hành động và lời nói không phù hợp với nhau, đụng chạm tay chân nhau. Mọi người phàn nàn, chê trách và chỉ trích: "Làm sao những sa-môn Thích tử trong nhà ăn và trong làng lại sinh ra tranh cãi, cãi vã, xung đột, thể hiện hành động và lời nói không phù hợp với nhau, đụng chạm tay chân nhau như vậy?"
@@ -214,7 +214,7 @@ Kết thúc phần tụng về Dīghāvu thứ nhất.
 > Độc hành không làm ác,\
 > Như voi giữa rừng sâu.
 
-## 3. Câu chuyện đi đến Bālakaloṇaka
+## 3. Câu chuyện đi đến Bālakaloṇaka {#3}
 *(Bālakaloṇakagamanakathā)*
 
 4\. Rồi Thế Tôn đứng giữa Tăng chúng nói những bài kệ này xong, liền đi đến làng Bālakaloṇaka. Lúc bấy giờ, Tôn giả Bhagu đang lưu trú tại làng Bālakaloṇaka. Tôn giả Bhagu nhìn thấy Thế Tôn đang đi tới từ xa, thấy vậy liền dọn sẵn chỗ ngồi, đặt sẵn nước rửa chân, bục gác chân và mảnh ngói cọ chân, rồi đi ra đón và nhận lấy y bát. Thế Tôn ngồi xuống chỗ đã được dọn sẵn, ngồi xong Thế Tôn rửa chân. Tôn giả Bhagu đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi Tôn giả Bhagu đã ngồi một bên, Thế Tôn nói thế này: "Này tỳ kheo, ông có được khỏe mạnh không, ông có được an vui không, ông đi khất thực có không bị mệt nhọc không?"
@@ -223,7 +223,7 @@ Kết thúc phần tụng về Dīghāvu thứ nhất.
 
 Rồi Thế Tôn dùng bài pháp thoại hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ Tôn giả Bhagu, sau đó Ngài đứng dậy khỏi chỗ ngồi và đi đến khu rừng Pācīnavaṁsa.
 
-## 4. Câu chuyện đi đến khu rừng Pācīnavaṁsa
+## 4. Câu chuyện đi đến khu rừng Pācīnavaṁsa {#4}
 *(Pācīnavaṁsadāyagamanakathā)*
 
 Lúc bấy giờ, Tôn giả Anuruddha, Tôn giả Nandiya và Tôn giả Kimila đang lưu trú tại khu rừng Pācīnavaṁsa. Người giữ rừng nhìn thấy Thế Tôn đang đi tới từ xa, thấy vậy liền nói với Thế Tôn thế này: "Này sa-môn, chớ có vào khu rừng này. Ở đây có ba thiện nam tử đang sống theo ý thích của mình. Xin đừng làm phiền họ." Tôn giả Anuruddha nghe người giữ rừng đang nói chuyện với Thế Tôn, nghe xong liền nói với người giữ rừng thế này: "Này hiền giả giữ rừng, chớ có ngăn cản Thế Tôn. Bậc Đạo sư của chúng tôi, Thế Tôn, đã đến." Rồi Tôn giả Anuruddha đi đến chỗ Tôn giả Nandiya và Tôn giả Kimila, sau khi đến, nói với Tôn giả Nandiya và Tôn giả Kimila thế này: "Hãy ra đón, thưa các tôn giả, hãy ra đón, thưa các tôn giả, Bậc Đạo sư của chúng ta, Thế Tôn, đã đến."
@@ -252,7 +252,7 @@ Tôn giả Nandiya cũng [...lặp lại...] Tôn giả Kimila cũng bạch Th�
 
 Bạch Thế Tôn, như vậy đó, chúng con sống *không sao nhãng*, nhiệt tâm, quyết tâm."
 
-## 5. Câu chuyện đi đến Pālileyyaka
+## 5. Câu chuyện đi đến Pālileyyaka {#5}
 *(Pālileyyakagamanakathā)*
 
 Rồi Thế Tôn dùng bài pháp thoại hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ Tôn giả Anuruddha, Tôn giả Nandiya và Tôn giả Kimila, sau đó Ngài đứng dậy khỏi chỗ ngồi và bắt đầu chuyến du hành đến Pālileyyaka. Dần dần du hành, Ngài đến Pālileyyaka. Tại đó, Thế Tôn lưu trú ở Pālileyyaka, trong khu rừng bảo tồn, dưới gốc cây Bhaddasāla.
@@ -278,7 +278,7 @@ Rồi các nam cư sĩ ở Kosambi nghĩ: "Các tôn giả tỳ kheo ở Kosambi
 
 Rồi các tỳ kheo ở Kosambi khi bị các nam cư sĩ ở Kosambi không tôn kính, không trọng vọng, không kính nể, không gần gũi, không cúng dường, không được tiếp đãi, liền nói thế này: "Này các hiền giả, vậy chúng ta hãy đi đến Sāvatthi, đến trước Thế Tôn để làm lắng dịu cuộc tranh chấp này."
 
-## 6. Câu chuyện về mười tám điểm
+## 6. Câu chuyện về mười tám điểm {#6}
 *(Aṭṭhārasavatthukathā)*
 
 Rồi các tỳ kheo ở Kosambi dọn dẹp chỗ ở, mang y bát và đi đến Sāvatthi. Tôn giả Sāriputta nghe tin: "Nghe nói các tỳ kheo ở Kosambi hay gây tranh cãi, cãi vã, xung đột, lắm lời, gây ra tranh chấp trong Tăng chúng đang đến Sāvatthi." Rồi Tôn giả Sāriputta đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Sāriputta bạch Thế Tôn thế này: "Bạch Thế Tôn, nghe nói các tỳ kheo ở Kosambi hay gây tranh cãi, cãi vã, xung đột, lắm lời, gây ra tranh chấp trong Tăng chúng đang đến Sāvatthi. Bạch Thế Tôn, con phải cư xử với các tỳ kheo ấy như thế nào?"
@@ -329,7 +329,7 @@ Nhưng này Sāriputta, Ta nói rằng không vì bất cứ lý do gì mà đư
 
 "Này Sāriputta, vật dụng cúng dường phải được chia đều cho tất cả mọi người."
 
-## 7. Cho phép phục hồi
+## 7. Cho phép phục hồi {#7}
 *(Osāraṇānujānana)*
 
 Rồi vị tỳ kheo bị đình chỉ ấy, sau khi suy xét lại *Giáo pháp* và Luật, liền nghĩ thế này: "Đây là *lỗi*, đây không phải không có *lỗi*. Ta đã mắc *lỗi*, ta không phải không mắc *lỗi*. Ta đáng bị đình chỉ, ta không phải không đáng bị đình chỉ. Ta bị đình chỉ bởi một hành động đúng *Giáo pháp*, không thể bị bác bỏ và hợp lệ." Rồi vị tỳ kheo bị đình chỉ ấy đi đến chỗ các tỳ kheo đi theo mình, sau khi đến, nói với các tỳ kheo đi theo mình thế này: "Này các hiền giả, đây là *lỗi*, đây không phải không có *lỗi*. Tôi đã mắc *lỗi*, tôi không phải không mắc *lỗi*. Tôi đáng bị đình chỉ, tôi không phải không đáng bị đình chỉ. Tôi bị đình chỉ bởi một hành động đúng *Giáo pháp*, không thể bị bác bỏ và hợp lệ. Mong các tôn giả hãy phục hồi cho tôi."
@@ -338,7 +338,7 @@ Rồi các tỳ kheo đi theo vị bị đình chỉ ấy dẫn vị tỳ kheo b
 
 "Này các tỳ kheo, đây là *lỗi*, đây không phải không có *lỗi*. Vị tỳ kheo này đã mắc *lỗi*, vị tỳ kheo này không phải không mắc *lỗi*. Vị tỳ kheo này đáng bị đình chỉ, vị tỳ kheo này không phải không đáng bị đình chỉ. Vị ấy bị đình chỉ bởi một hành động đúng *Giáo pháp*, không thể bị bác bỏ và hợp lệ. Và này các tỳ kheo, vì vị tỳ kheo ấy đã thấy mình mắc *lỗi* và bị đình chỉ, vậy thì này các tỳ kheo, các ông hãy phục hồi cho vị tỳ kheo ấy."
 
-## 8. Câu chuyện về sự hòa hợp của Tăng chúng
+## 8. Câu chuyện về sự hòa hợp của Tăng chúng {#8}
 *(Saṅghasāmaggīkathā)*
 
 Rồi các tỳ kheo đi theo vị bị đình chỉ ấy, sau khi phục hồi cho vị tỳ kheo bị đình chỉ, liền đi đến chỗ các tỳ kheo thực hiện việc đình chỉ, sau khi đến, nói với các tỳ kheo thực hiện việc đình chỉ thế này: "Này các hiền giả, về vấn đề đã gây ra cho Tăng chúng sự tranh cãi, cãi vã, xung đột, tranh chấp, chia rẽ Tăng chúng, rạn nứt Tăng chúng, phân chia Tăng chúng và làm Tăng chúng khác biệt, vị tỳ kheo ấy đã thấy mình mắc *lỗi*, bị đình chỉ và đã được phục hồi. Này các hiền giả, vậy chúng ta hãy tạo ra sự hòa hợp của Tăng chúng để làm lắng dịu vấn đề đó."
@@ -355,7 +355,7 @@ Sự hòa hợp của Tăng chúng để làm lắng dịu vấn đề đó đã
 
 Ngay sau đó phải thực hiện lễ Bố-tát, phải tụng giới bổn Pātimokkha."
 
-## 9. Upāli hỏi về sự hòa hợp của Tăng chúng
+## 9. Upāli hỏi về sự hòa hợp của Tăng chúng {#9}
 *(Upālisaṅghasāmaggīpucchā)*
 
 6\. Rồi Tôn giả Upāli đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Upāli bạch Thế Tôn thế này: "Bạch Thế Tôn, về vấn đề gây ra cho Tăng chúng sự tranh cãi, cãi vã, xung đột, tranh chấp, chia rẽ Tăng chúng, rạn nứt Tăng chúng, phân chia Tăng chúng và làm Tăng chúng khác biệt, nếu Tăng chúng tạo ra sự hòa hợp của Tăng chúng mà không phán xử vấn đề đó, không đi đến tận gốc rễ, thì bạch Thế Tôn, sự hòa hợp của Tăng chúng đó có đúng *Giáo pháp* không?"
