@@ -2,21 +2,35 @@ import re
 import unicodedata
 import json
 
+# def flat_json(merged):
+#     # Dump chuẩn JSON thông thường
+#     json_str = json.dumps(merged, ensure_ascii=False, indent=2)
+
+#     # Dùng Regex để gộp riêng mảng children về 1 dòng
+
+#     def flatten_children(match):
+#         # Lấy riêng các số nguyên, bỏ qua khoảng trắng và dấu phẩy cũ
+#         numbers = re.findall(r"\d+", match.group(1))
+#         return f'"children": [{", ".join(numbers)}]'
+
+
+#     # Thay thế mảng children nhiều dòng thành 1 dòng
+#     json_flat_children = re.sub(
+#         r'"children":\s*\[\s*([\d,\s]+)\s*\]', flatten_children, json_str
+#     )
+#     return json_flat_children
+
 def flat_json(merged):
-    # Dump chuẩn JSON thông thường
     json_str = json.dumps(merged, ensure_ascii=False, indent=2)
 
-    # Dùng Regex để gộp riêng mảng children về 1 dòng
-
     def flatten_children(match):
-        # Lấy riêng các số nguyên, bỏ qua khoảng trắng và dấu phẩy cũ
-        numbers = re.findall(r"\d+", match.group(1))
-        return f'"children": [{", ".join(numbers)}]'
+        items = re.findall(r'"(?:[^"\\]|\\.)*"|\d+(?:\.\d+)*', match.group(1))
+        return f'"children": [{", ".join(items)}]'
 
-
-    # Thay thế mảng children nhiều dòng thành 1 dòng
     json_flat_children = re.sub(
-        r'"children":\s*\[\s*([\d,\s]+)\s*\]', flatten_children, json_str
+        r'"children":\s*\[\s*([^\]]+?)\s*\]',
+        flatten_children,
+        json_str,
     )
     return json_flat_children
 

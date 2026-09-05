@@ -2,7 +2,7 @@
 
 # 7. Kathinakkhandhaka
 
-## 1. Kathinānujānana
+## 1. Kathinānujānana {#1}
 
 1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena tiṁsamattā pāveyyakā bhikkhū, sabbe āraññikā sabbe piṇḍapātikā sabbe paṁsukūlikā sabbe tecīvarikā sāvatthiṁ āgacchantā bhagavantaṁ dassanāya upakaṭṭhāya vassūpanāyikāya nāsakkhiṁsu sāvatthiyaṁ vassūpanāyikaṁ sambhāvetuṁ; antarāmagge sākete vassaṁ upagacchiṁsu. Te ukkaṇṭhitarūpā vassaṁ vasiṁsu—āsanneva no bhagavā viharati ito chasu yojanesu, na ca mayaṁ labhāma bhagavantaṁ dassanāyāti.
 

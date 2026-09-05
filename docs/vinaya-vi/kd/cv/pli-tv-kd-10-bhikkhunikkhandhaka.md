@@ -2,7 +2,7 @@
 
 # 20. Bhikkhunikkhandhaka
 
-## 1. Mahāpajāpatigotamīvatthu
+## 1. Mahāpajāpatigotamīvatthu {#1}
 
 1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Atha kho mahāpajāpati gotamī yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho mahāpajāpati gotamī bhagavantaṁ etadavoca— “sādhu, bhante, labheyya mātugāmo tathāgatappavedite dhammavinaye agārasmā anagāriyaṁ pabbajjan”ti.
 
@@ -32,7 +32,7 @@ Atha kho āyasmā ānando— “na bhagavā anujānāti mātugāmassa tathāgata
 
 “Sace, bhante, bhabbo mātugāmo tathāgatappavedite dhammavinaye agārasmā anagāriyaṁ pabbajitvā sotāpattiphalampi sakadāgāmiphalampi anāgāmiphalampi arahattaphalampi sacchikātuṁ; bahūpakārā, bhante, mahāpajāpati gotamī bhagavato mātucchā āpādikā, posikā, khīrassa dāyikā, bhagavantaṁ janettiyā kālaṅkatāya thaññaṁ pāyesi; sādhu, bhante, labheyya mātugāmo tathāgatappavedite dhammavinaye agārasmā anagāriyaṁ pabbajjan”ti.
 
-## 2. Aṭṭhagarudhamma
+## 2. Aṭṭhagarudhamma {#2}
 
 “Sace, ānanda, mahāpajāpati gotamī aṭṭha garudhamme paṭiggaṇhāti, sāvassā. Hotu upasampadā.
 
@@ -72,7 +72,7 @@ Seyyathāpi, ānanda, puriso mahato taḷākassa paṭikacceva āḷiṁ bandhey
 
 Bhikkhunīnaṁ aṭṭha garudhammā niṭṭhitā.
 
-## 3. Bhikkhunīupasampadānujānana
+## 3. Bhikkhunīupasampadānujānana {#3}
 
 2\. Atha kho mahāpajāpati gotamī yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho mahāpajāpati gotamī bhagavantaṁ etadavoca— “kathāhaṁ, bhante, imāsu sākiyānīsu paṭipajjāmī”ti? Atha kho bhagavā mahāpajāpatiṁ gotamiṁ dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho mahāpajāpati gotamī bhagavatā dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 

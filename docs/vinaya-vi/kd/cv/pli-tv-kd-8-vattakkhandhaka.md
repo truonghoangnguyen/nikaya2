@@ -2,7 +2,7 @@
 
 # 18. Vattakkhandhaka
 
-## 1. Āgantukavattakathā
+## 1. Āgantukavattakathā {#1}
 
 1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āgantukā bhikkhū saupāhanāpi ārāmaṁ pavisanti, chattappaggahitāpi ārāmaṁ pavisanti, oguṇṭhitāpi ārāmaṁ pavisanti, sīsepi cīvaraṁ karitvā ārāmaṁ pavisanti, pānīyenapi pāde dhovanti, vuḍḍhatarepi āvāsike bhikkhū na abhivādenti, napi senāsanaṁ pucchanti. Aññataropi āgantuko bhikkhu anajjhāvuṭṭhaṁ vihāraṁ ghaṭikaṁ ugghāṭetvā kavāṭaṁ paṇāmetvā sahasā pāvisi. Tassa uparipiṭṭhito ahi khandhe papati. So bhīto vissaramakāsi. Bhikkhū upadhāvitvā taṁ bhikkhuṁ etadavocuṁ— “kissa tvaṁ, āvuso, vissaramakāsī”ti? Atha kho so bhikkhu bhikkhūnaṁ etamatthaṁ ārocesi.
 
@@ -28,7 +28,7 @@ Sace pariveṇaṁ uklāpaṁ hoti, pariveṇaṁ sammajjitabbaṁ. Sace koṭ�
 
 Idaṁ kho, bhikkhave, āgantukānaṁ bhikkhūnaṁ vattaṁ yathā āgantukehi bhikkhūhi sammā vattitabban”ti.
 
-## 2. Āvāsikavattakathā
+## 2. Āvāsikavattakathā {#2}
 
 2\. Tena kho pana samayena āvāsikā bhikkhū āgantuke bhikkhū disvā neva āsanaṁ paññapenti, na pādodakaṁ pādapīṭhaṁ pādakathalikaṁ upanikkhipanti, na paccuggantvā pattacīvaraṁ paṭiggaṇhanti, na pānīyena pucchanti, na vuḍḍhatarepi āgantuke bhikkhū abhivādenti, na senāsanaṁ paññapenti.
 
@@ -44,7 +44,7 @@ Sace navako hoti, nisinnakeneva ācikkhitabbaṁ— ‘atra pattaṁ nikkhipāhi
 
 Idaṁ kho, bhikkhave, āvāsikānaṁ bhikkhūnaṁ vattaṁ yathā āvāsikehi bhikkhūhi sammā vattitabban”ti.
 
-## 3. Gamikavattakathā
+## 3. Gamikavattakathā {#3}
 
 3\. Tena kho pana samayena gamikā bhikkhū dārubhaṇḍaṁ mattikābhaṇḍaṁ appaṭisāmetvā dvāravātapānaṁ vivaritvā senāsanaṁ anāpucchā pakkamanti. Dārubhaṇḍaṁ mattikābhaṇḍaṁ nassati. Senāsanaṁ aguttaṁ hoti.
 
@@ -56,7 +56,7 @@ Sace vihāro ovassati, sace ussahati, chādetabbo, ussukkaṁ vā kātabbaṁ—
 
 Idaṁ kho, bhikkhave, gamikānaṁ bhikkhūnaṁ vattaṁ yathā gamikehi bhikkhūhi sammā vattitabban”ti.
 
-## 4. Anumodanavattakathā
+## 4. Anumodanavattakathā {#4}
 
 4\. Tena kho pana samayena bhikkhū bhattagge na anumodanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā bhattagge na anumodissantī”ti. Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
@@ -76,7 +76,7 @@ Tena kho pana samayena aññataro thero bhattagge vaccito āgamesi. So vaccaṁ 
 
 “Anujānāmi, bhikkhave, sati karaṇīye ānantarikaṁ bhikkhuṁ āpucchitvā gantun”ti.
 
-## 5. Bhattaggavattakathā
+## 5. Bhattaggavattakathā {#5}
 
 Tena kho pana samayena chabbaggiyā bhikkhū dunnivatthā duppārutā anākappasampannā bhattaggaṁ gacchanti, vokkammapi therānaṁ bhikkhūnaṁ purato purato gacchanti, therepi bhikkhū anupakhajja nisīdanti, navepi bhikkhū āsanena paṭibāhanti, saṅghāṭimpi ottharitvā antaraghare nisīdanti.
 
@@ -102,7 +102,7 @@ Idaṁ kho, bhikkhave, bhikkhūnaṁ bhattaggavattaṁ yathā bhikkhūhi bhattag
 
 Paṭhamabhāṇavāro niṭṭhito.
 
-## 6. Piṇḍacārikavattakathā
+## 6. Piṇḍacārikavattakathā {#6}
 
 5\. Tena kho pana samayena piṇḍacārikā bhikkhū dunnivatthā duppārutā anākappasampannā piṇḍāya caranti, asallakkhetvāpi nivesanaṁ pavisanti, asallakkhetvāpi nikkhamanti, atisahasāpi pavisanti, atisahasāpi nikkhamanti, atidūrepi tiṭṭhanti, accāsannepi tiṭṭhanti, aticirampi tiṭṭhanti, atilahumpi nivattanti.
 
@@ -130,7 +130,7 @@ Yo passati pānīyaghaṭaṁ vā paribhojanīyaghaṭaṁ vā vaccaghaṭaṁ v
 
 Idaṁ kho, bhikkhave, piṇḍacārikānaṁ bhikkhūnaṁ vattaṁ yathā piṇḍacārikehi bhikkhūhi sammā vattitabban”ti.
 
-## 7. Āraññikavattakathā
+## 7. Āraññikavattakathā {#7}
 
 6\. Tena kho pana samayena sambahulā bhikkhū araññe viharanti. Te neva pānīyaṁ upaṭṭhāpenti, na paribhojanīyaṁ upaṭṭhāpenti, na aggiṁ upaṭṭhāpenti, na araṇisahitaṁ upaṭṭhāpenti, na nakkhattapadāni jānanti, na disābhāgaṁ jānanti.
 
@@ -152,7 +152,7 @@ Suppaṭicchannena antaraghare gantabbaṁ …pe… na ukkuṭikāya antaraghare
 
 Idaṁ kho, bhikkhave, āraññikānaṁ bhikkhūnaṁ vattaṁ yathā āraññikehi bhikkhūhi sammā vattitabban”ti.
 
-## 8. Senāsanavattakathā
+## 8. Senāsanavattakathā {#8}
 
 7\. Tena kho pana samayena sambahulā bhikkhū ajjhokāse cīvarakammaṁ karonti. Chabbaggiyā bhikkhū paṭivāte aṅgaṇe senāsanaṁ papphoṭesuṁ. Bhikkhū rajena okiriṁsu.
 
@@ -174,7 +174,7 @@ Sace vuḍḍhena saddhiṁ ekavihāre viharati, na vuḍḍhaṁ anāpucchā ud
 
 Idaṁ kho, bhikkhave, bhikkhūnaṁ senāsanavattaṁ yathā bhikkhūhi senāsane sammā vattitabban”ti.
 
-## 9. Jantāgharavattakathā
+## 9. Jantāgharavattakathā {#9}
 
 8\. Tena kho pana samayena chabbaggiyā bhikkhū jantāghare therehi bhikkhūhi nivāriyamānā anādariyaṁ paṭicca pahūtaṁ kaṭṭhaṁ āropetvā aggiṁ datvā dvāraṁ thaketvā dvāre nisīdanti. Bhikkhū uṇhābhitattā dvāraṁ alabhamānā mucchitā papatanti.
 
@@ -194,7 +194,7 @@ Yo pacchā jantāgharā nikkhamati, sace jantāgharaṁ cikkhallaṁ hoti, dhovi
 
 Idaṁ kho, bhikkhave, bhikkhūnaṁ jantāgharavattaṁ yathā bhikkhūhi jantāghare sammā vattitabban”ti.
 
-## 10. Vaccakuṭivattakathā
+## 10. Vaccakuṭivattakathā {#10}
 
 9\. Tena kho pana samayena aññataro bhikkhu brāhmaṇajātiko vaccaṁ katvā na icchati ācametuṁ— “ko imaṁ vasalaṁ duggandhaṁ āmasissatī”ti. Tassa vaccamagge kimi saṇṭhāti. Atha kho so bhikkhu bhikkhūnaṁ etamatthaṁ ārocesi. “Kiṁ pana tvaṁ, āvuso, vaccaṁ katvā na ācamesī”ti?
 
@@ -218,7 +218,7 @@ Sace vaccakuṭi uhatā hoti, dhovitabbā. Sace avalekhanapidharo pūro hoti, av
 
 Idaṁ kho, bhikkhave, bhikkhūnaṁ vaccakuṭivattaṁ yathā bhikkhūhi vaccakuṭiyā sammā vattitabban”ti.
 
-## 11. Upajjhāyavattakathā
+## 11. Upajjhāyavattakathā {#11}
 
 11\. Tena kho pana samayena saddhivihārikā upajjhāyesu na sammā vattanti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma saddhivihārikā upajjhāyesu na sammā vattissantī”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira, bhikkhave, saddhivihārikā upajjhāyesu na sammā vattantī”ti? “Saccaṁ, bhagavā”ti vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, saddhivihārikā upajjhāyesu na sammā vattissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
@@ -260,7 +260,7 @@ Na upajjhāyaṁ anāpucchā ekaccassa patto dātabbo, na ekaccassa patto paṭi
 
 Idaṁ kho, bhikkhave, saddhivihārikānaṁ upajjhāyesu vattaṁ yathā saddhivihārikehi upajjhāyesu sammā vattitabban”ti.
 
-## 12. Saddhivihārikavattakathā
+## 12. Saddhivihārikavattakathā {#12}
 
 12\. Tena kho pana samayena upajjhāyā saddhivihārikesu na sammā vattanti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma upajjhāyā saddhivihārikesu na sammā vattissantī”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira, bhikkhave, upajjhāyā saddhivihārikesu na sammā vattantī”ti? “Saccaṁ, bhagavā”ti …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
@@ -296,7 +296,7 @@ Idaṁ kho, bhikkhave, upajjhāyānaṁ saddhivihārikesu vattaṁ yathā upajjh
 
 Dutiyabhāṇavāro niṭṭhito.
 
-## 13. Ācariyavattakathā
+## 13. Ācariyavattakathā {#13}
 
 Tena kho pana samayena antevāsikā ācariyesu na sammā vattanti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma antevāsikā ācariyesu na sammā vattissantī”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira, bhikkhave, antevāsikā ācariyesu na sammā vattantī”ti? “Saccaṁ, bhagavā”ti …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
@@ -338,7 +338,7 @@ Na ācariyaṁ anāpucchā ekaccassa patto dātabbo, na ekaccassa patto paṭigg
 
 Idaṁ kho, bhikkhave, antevāsikānaṁ ācariyesu vattaṁ yathā antevāsikehi ācariyesu sammā vattitabban”ti.
 
-## 14. Antevāsikavattakathā
+## 14. Antevāsikavattakathā {#14}
 
 Tena kho pana samayena ācariyā antevāsikesu na sammā vattanti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ācariyā antevāsikesu na sammā vattissantī”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “saccaṁ kira, bhikkhave, ācariyā antevāsikesu na sammā vattantī”ti? “Saccaṁ, bhagavā”ti …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 

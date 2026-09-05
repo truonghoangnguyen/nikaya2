@@ -8,6 +8,7 @@ import dn_pali_tmc_vi from './link-dn-pali-tmc-vi'
 import sn_sujato_tmc_vi from './link-sn-sujato-tmc'
 import kn from './link-kn'
 import mv from './link-mv'
+import cv from './link-cv.json'
 
 // kinh tiểu bộ sẽ ra rất nhiều mã
 export default {
@@ -89,18 +90,7 @@ export default {
         label: "Luật: Pali (Việt)",
         path: "kd/cv",
         index_length: 2,
-        items: {
-          "9": {
-            "title": "Vin CV 9",
-            "slug": "pli-tv-kd-19-patimokkhatthapanakkhandhaka"
-          },
-          "5": {
-            "title": "Vin CV 5",
-            "slug": "pli-tv-kd-15-khuddakavatthukkhandhaka"
-
-          }
-
-        }
+        items: cv
       }
     }
   },

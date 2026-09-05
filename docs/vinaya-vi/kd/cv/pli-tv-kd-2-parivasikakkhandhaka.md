@@ -2,7 +2,7 @@
 
 # 12. Pārivāsikakkhandhaka
 
-## 1. Pārivāsikavatta
+## 1. Pārivāsikavatta {#1}
 
 1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena pārivāsikā bhikkhū sādiyanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ, seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikammaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma pārivāsikā bhikkhū sādiyissanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ, seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikamman”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
 
@@ -44,7 +44,7 @@ Evañca pana, bhikkhave, samādiyitabbo. Tena pārivāsikena bhikkhunā ekaṁ b
 
 Pārivāsikavattaṁ niṭṭhitaṁ.
 
-## 2. Mūlāyapaṭikassanārahavatta
+## 2. Mūlāyapaṭikassanārahavatta {#2}
 
 4\. Tena kho pana samayena mūlāyapaṭikassanārahā bhikkhū sādiyanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ, seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikammaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma mūlāyapaṭikassanārahā bhikkhū sādiyissanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ, paccuṭṭhānaṁ …pe… nahāne piṭṭhiparikamman”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
 
@@ -68,7 +68,7 @@ Tena hi, bhikkhave, mūlāyapaṭikassanārahānaṁ bhikkhūnaṁ vattaṁ pañ
 
 Mūlāyapaṭikassanārahavattaṁ niṭṭhitaṁ.
 
-## 3. Mānattārahavatta
+## 3. Mānattārahavatta {#3}
 
 5\. Tena kho pana samayena mānattārahā bhikkhū sādiyanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ, seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikammaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma mānattārahā bhikkhū sādiyissanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ, seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikamman”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe…
 
@@ -90,7 +90,7 @@ Tena hi, bhikkhave, mānattārahānaṁ bhikkhūnaṁ vattaṁ paññapessāmi y
 
 Mānattārahavattaṁ niṭṭhitaṁ.
 
-## 4. Mānattacārikavatta
+## 4. Mānattacārikavatta {#4}
 
 6\. Tena kho pana samayena mānattacārikā bhikkhū sādiyanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ, seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikammaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma mānattacārikā bhikkhū sādiyissanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ, paccuṭṭhānaṁ …pe… nahāne piṭṭhiparikamman”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
 
@@ -130,7 +130,7 @@ Evañca pana, bhikkhave, samādiyitabbaṁ. Tena mānattacārikena bhikkhunā ek
 
 Mānattacārikavattaṁ niṭṭhitaṁ.
 
-## 5. Abbhānārahavatta
+## 5. Abbhānārahavatta {#5}
 
 9\. Tena kho pana samayena abbhānārahā bhikkhū sādiyanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ paccuṭṭhānaṁ …pe… nahāne piṭṭhiparikammaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma abbhānārahā bhikkhū sādiyissanti pakatattānaṁ bhikkhūnaṁ abhivādanaṁ paccuṭṭhānaṁ …pe… nahāne piṭṭhiparikamman”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
 

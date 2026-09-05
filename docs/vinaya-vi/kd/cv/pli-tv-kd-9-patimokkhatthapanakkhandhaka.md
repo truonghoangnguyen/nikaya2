@@ -2,7 +2,7 @@
 
 # 19. Pātimokkhaṭṭhapanakkhandhaka
 
-## 1. Pātimokkhuddesayācana
+## 1. Pātimokkhuddesayācana {#1}
 
 1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati pubbārāme migāramātu pāsāde. Tena kho pana samayena bhagavā tadahuposathe bhikkhusaṅghaparivuto nisinno hoti. Atha kho āyasmā ānando abhikkantāya rattiyā nikkhante paṭhame yāme uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca— “abhikkantā, bhante, ratti, nikkhanto paṭhamo yāmo, ciranisinno bhikkhusaṅgho. Uddisatu, bhante, bhagavā bhikkhūnaṁ pātimokkhan”ti. Evaṁ vutte, bhagavā tuṇhī ahosi.
 
@@ -14,7 +14,7 @@ Dutiyampi kho āyasmā mahāmoggallāno taṁ puggalaṁ etadavoca— “uṭṭ
 
 “Acchariyaṁ, moggallāna, abbhutaṁ, moggallāna, yāva bāhāgahaṇāpi nāma so moghapuriso āgamessatī”ti. Atha kho bhagavā bhikkhū āmantesi—
 
-## 2. Mahāsamuddeaṭṭhacchariya
+## 2. Mahāsamuddeaṭṭhacchariya {#2}
 
 “Aṭṭhime, bhikkhave, mahāsamudde acchariyā abbhutā dhammā, ye disvā disvā asurā mahāsamudde abhiramanti. Katame aṭṭha?
 
@@ -34,7 +34,7 @@ Puna caparaṁ, bhikkhave, mahāsamuddo bahuratano anekaratano. Tatrimāni ratan
 
 Puna caparaṁ, bhikkhave, mahāsamuddo mahataṁ bhūtānaṁ āvāso. Tatrime bhūtā—timi, timiṅgalo, timitimiṅgalo, asurā, nāgā, gandhabbā. Santi mahāsamudde yojanasatikāpi attabhāvā, dviyojanasatikāpi attabhāvā, tiyojanasatikāpi attabhāvā, catuyojanasatikāpi attabhāvā, pañcayojanasatikāpi attabhāvā. Yampi, bhikkhave, mahāsamuddo mahataṁ bhūtānaṁ āvāso, tatrime bhūtā—timi, timiṅgalo, timitimiṅgalo, asurā, nāgā, gandhabbā; santi mahāsamudde, yojanasatikāpi attabhāvā …pe… pañcayojanasatikāpi attabhāvā— ayaṁ, bhikkhave, mahāsamudde aṭṭhamo acchariyo abbhuto dhammo, yaṁ disvā disvā asurā mahāsamudde abhiramanti. Ime kho, bhikkhave, mahāsamudde aṭṭha acchariyā abbhutā dhammā, ye disvā disvā asurā mahāsamudde abhiraman”ti.
 
-## 3. Imasmiṁdhammavinayeaṭṭhacchariya
+## 3. Imasmiṁdhammavinayeaṭṭhacchariya {#3}
 
 Evameva kho, bhikkhave, imasmiṁ dhammavinaye aṭṭha acchariyā abbhutā dhammā, ye disvā disvā bhikkhū imasmiṁ dhammavinaye abhiramanti. Katame aṭṭha?
 
@@ -61,7 +61,7 @@ Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ ud�
 > Tasmā channaṁ vivaretha,\
 > evaṁ taṁ nātivassatī”ti.
 
-## 4. Pātimokkhasavanāraha
+## 4. Pātimokkhasavanāraha {#4}
 
 2\. Atha kho bhagavā bhikkhū āmantesi— “nadānāhaṁ, bhikkhave, ito paraṁ uposathaṁ karissāmi, pātimokkhaṁ uddisissāmi. Tumhevadāni, bhikkhave, ito paraṁ uposathaṁ kareyyātha, pātimokkhaṁ uddiseyyātha. Aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ tathāgato aparisuddhāya parisāya uposathaṁ kareyya, pātimokkhaṁ uddiseyya.
 
@@ -81,7 +81,7 @@ Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kath
 
 “na, bhikkhave, suddhānaṁ bhikkhūnaṁ anāpattikānaṁ avatthusmiṁ akāraṇe pātimokkhaṁ ṭhapetabbaṁ. Yo ṭhapeyya, āpatti dukkaṭassa.
 
-## 5. Dhammikādhammikapātimokkhaṭṭhapana
+## 5. Dhammikādhammikapātimokkhaṭṭhapana {#5}
 
 Ekaṁ, bhikkhave, adhammikaṁ pātimokkhaṭṭhapanaṁ, ekaṁ dhammikaṁ pātimokkhaṭṭhapanaṁ; dve adhammikāni pātimokkhaṭṭhapanāni, dve dhammikāni; tīṇi adhammikāni pātimokkhaṭṭhapanāni, tīṇi dhammikāni; cattāri adhammikāni pātimokkhaṭṭhapanāni, cattāri dhammikāni; pañca adhammikāni pātimokkhaṭṭhapanāni, pañca dhammikāni; cha adhammikāni pātimokkhaṭṭhapanāni, cha dhammikāni; satta adhammikāni pātimokkhaṭṭhapanāni, satta dhammikāni; aṭṭha adhammikāni pātimokkhaṭṭhapanāni, aṭṭha dhammikāni; nava adhammikāni pātimokkhaṭṭhapanāni, nava dhammikāni; dasa adhammikāni pātimokkhaṭṭhapanāni, dasa dhammikāni.
 
@@ -125,7 +125,7 @@ Katamāni dasa adhammikāni pātimokkhaṭṭhapanāni? Na pārājiko tassaṁ p
 
 Katamāni dasa dhammikāni pātimokkhaṭṭhapanāni? Pārājiko tassaṁ parisāyaṁ nisinno hoti, pārājikakathā vippakatā hoti; sikkhaṁ paccakkhātako tassaṁ parisāyaṁ nisinno hoti, sikkhaṁ paccakkhātakathā vippakatā hoti; dhammikaṁ sāmaggiṁ na upeti, dhammikaṁ sāmaggiṁ paccādiyati, dhammikāya sāmaggiyā paccādānakathā vippakatā hoti; sīlavipattiyā diṭṭhasutaparisaṅkito hoti, ācāravipattiyā diṭṭhasutaparisaṅkito hoti, diṭṭhivipattiyā diṭṭhasutaparisaṅkito hoti— imāni dasa dhammikāni pātimokkhaṭṭhapanāni.
 
-## 6. Dhammikapātimokkhaṭṭhapana
+## 6. Dhammikapātimokkhaṭṭhapana {#6}
 
 Kathaṁ pārājiko tassaṁ parisāyaṁ nisinno hoti? Idha, bhikkhave, yehi ākārehi yehi liṅgehi yehi nimittehi pārājikassa dhammassa ajjhāpatti hoti, tehi ākārehi tehi liṅgehi tehi nimittehi bhikkhu bhikkhuṁ passati pārājikaṁ dhammaṁ ajjhāpajjantaṁ. Na heva kho bhikkhu bhikkhuṁ passati pārājikaṁ dhammaṁ ajjhāpajjantaṁ, api ca añño bhikkhu bhikkhussa āroceti— ‘itthannāmo, āvuso, bhikkhu pārājikaṁ dhammaṁ ajjhāpanno’ti. Na heva kho bhikkhu bhikkhuṁ passati pārājikaṁ dhammaṁ ajjhāpajjantaṁ, nāpi añño bhikkhu bhikkhussa āroceti— ‘itthannāmo, āvuso, bhikkhu pārājikaṁ dhammaṁ ajjhāpanno’ti, api ca sova bhikkhu bhikkhussa āroceti— ‘ahaṁ, āvuso, pārājikaṁ dhammaṁ ajjhāpanno’ti. Ākaṅkhamāno, bhikkhave, bhikkhu tena diṭṭhena tena sutena tāya parisaṅkāya tadahuposathe cātuddase vā pannarase vā tasmiṁ puggale sammukhībhūte saṅghamajjhe udāhareyya—
 
@@ -183,7 +183,7 @@ Imāni dasa dhammikāni pātimokkhaṭṭhapanānī”ti.
 
 Paṭhamabhāṇavāro niṭṭhito.
 
-## 7. Attādānaaṅga
+## 7. Attādānaaṅga {#7}
 
 4\. Atha kho āyasmā upāli yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā upāli bhagavantaṁ etadavoca— “attādānaṁ ādātukāmena, bhante, bhikkhunā katamaṅgasamannāgataṁ attādānaṁ ādātabban”ti?
 
@@ -191,7 +191,7 @@ Paṭhamabhāṇavāro niṭṭhito.
 
 Sace panupāli, bhikkhu paccavekkhamāno evaṁ jānāti— ‘imaṁ kho me attādānaṁ ādiyato na bhavissati saṅghassa tatonidānaṁ bhaṇḍanaṁ kalaho viggaho vivādo saṅghabhedo saṅgharāji saṅghavavatthānaṁ saṅghanānākaraṇan’ti, ādātabbaṁ taṁ, upāli, attādānaṁ. Evaṁ pañcaṅgasamannāgataṁ kho, upāli, attādānaṁ ādinnaṁ, pacchāpi avippaṭisārakaraṁ bhavissatī”ti.
 
-## 8. Codakenapaccavekkhitabbadhamma
+## 8. Codakenapaccavekkhitabbadhamma {#8}
 
 5\. “Codakena, bhante, bhikkhunā paraṁ codetukāmena kati dhamme ajjhattaṁ paccavekkhitvā paro codetabbo”ti?
 
@@ -209,13 +209,13 @@ Puna caparaṁ, upāli, codakena bhikkhunā paraṁ codetukāmena evaṁ paccave
 
 Codakenupāli, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ paccavekkhitvā paro codetabbo”ti.
 
-## 9. Codakenaupaṭṭhāpetabbadhamma
+## 9. Codakenaupaṭṭhāpetabbadhamma {#9}
 
 “Codakena, bhante, bhikkhunā paraṁ codetukāmena kati dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo”ti?
 
 “Codakenupāli, bhikkhunā paraṁ codetukāmena pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo— kālena vakkhāmi, no akālena; bhūtena vakkhāmi, no abhūtena; saṇhena vakkhāmi, no pharusena; atthasaṁhitena vakkhāmi, no anatthasaṁhitena; mettacitto vakkhāmi, no dosantaroti. Codakenupāli, bhikkhunā paraṁ codetukāmena ime pañca dhamme ajjhattaṁ upaṭṭhāpetvā paro codetabbo”ti.
 
-## 10. Codakacuditakapaṭisaṁyuttakathā
+## 10. Codakacuditakapaṭisaṁyuttakathā {#10}
 
 “Adhammacodakassa, bhante, bhikkhuno katihākārehi vippaṭisāro upadahātabbo”ti?
 

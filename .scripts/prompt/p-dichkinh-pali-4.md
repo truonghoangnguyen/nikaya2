@@ -208,10 +208,10 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | vô sở hữu xứ  | tầng Không Có Vật Gì | |
 | phi tưởng phi phi tưởng xứ | tầng Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" | |
 | hành (saṅkhārā) | hoạt động | "thân hành, khẩu hành, ý hành = hoạt động của thân, khẩu, ý" |
-| hữu vi (saṅkhata) | thứ hình thành từ lắp ghép | "saṅkhata-dhamma->những điều 'hình thành từ lắp ghép'"|
-| vô vi (asaṅkhata) | thứ hình thành không từ lắp ghép | |
+| hữu vi (saṅkhata) | thứ hình thành từ điều kiện hợp lại | "saṅkhata-dhamma->những điều hình thành do điều kiện hợp lại"|
+| vô vi (asaṅkhata) | thứ hình thành không từ điều kiện hợp lại  | |
 | các hành là vô thường (sabbe saṅkhārā aniccā) | mọi thứ do hợp lại mà thành, không bền vững | giải thích: saṅkhata="đã được tạo tác"(cái bị tạo)/saṅkhārā="các sự tạo tác" (cái tạo)|
-| thô (oḷārika) | thô; tính máy móc | |
+| thô (oḷārika) | thô | |
 | duyên (paccaya) | Điều kiện, Điều cùng sinh, Điều kiện sinh trưởng; Điều kiện vừa đủ; đáng tin (paccayiko)|"hetu yo ca paccayo-> gốc nguyên nhân và điều kiện môi trường"; "phassapaccayā vedanā->"với Xúc là *Điều kiện*, cảm giác được sinh ra"; "Ko paccayo->Đâu là *điều kiện sinh trưởng*?"; "gilāna-paccaya->*điều kiện vừa đủ* cho người bệnh"; "paccayiko avisaṁvādako lokassa ->đáng tin, không lừa dối đời"|
 | duyên (paṭicca) | Phụ thuộc; sự Phụ thuộc cùng sinh; dựa vào | "Taṇhaṁ paṭicca pariyesanā->*Phụ thuộc* vào ái có sự tìm cầu"; "Cakkhuñcā, paṭicca rūpe ca->sự *Phụ thuộc cùng sinh* của con mắt và các sắc"; "...idametaṁ paṭicca vuttaṁ->điều này nói *dựa vào* điều kia" |
 | duyên khởi (paṭiccasamuppāda) | sự sinh ra qua quan hệ *Phụ thuộc* | |
@@ -346,7 +346,7 @@ Tham khảo "I.1.2 Cách dịch câu-từ (word/sentence)" và  "II.1.2.1 Hệ t
 | Như Lai (Tathāgata) | Người Đến Như Vậy | |
 | địa đại (pathavīdhātu) | tính cứng (địa đại) | nước: tính lỏng, lửa: tính nhiệt, gió: tính gió |
 | tứ đại (attāro mahābhūtā) | bốn đặc tính lớn | |
-| giới (dhātu) | loại; tính; đặc tính; thành phần | "saṅkhata dhātu->loại hình thành do lắp ghép lại"; "asaṅkhata dhātu->loại hình thành không do lắp ghép lại"; "aṭṭhārasa dhātuyo->18 thành phần [của hệ thống nhận thức]"|
+| giới (dhātu) | loại; tính; đặc tính; thành phần | "saṅkhata dhātu->loại hình thành do điều kiện hợp lại"; "asaṅkhata dhātu->loại hình thành không do điều kiện hợp lại"; "aṭṭhārasa dhātuyo->18 thành phần [của hệ thống nhận thức]"|
 | thu thúc (saṁvara) | bảo vệ | "indriyasaṁvara->bảo vệ các giác quan"; "pātimokkhasaṁvara->được bảo vệ bởi giới luật Pātimokkha" |
 | oai nghi chánh hạnh (ācāragocarasampanno) | cách cư xử đúng đắn | |
 | anumattesu vajjesu bhayadassāvī | thấy rõ sự nguy hiểm trong những lỗi nhỏ nhặt | |

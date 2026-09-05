@@ -5,20 +5,24 @@ from util import flat_json
 # ==========================================
 # CẤU HÌNH ĐẦU VÀO
 # ==========================================
-SOURCE_DIR = "../../docs/kinhtieubo/thichminhchau"  # Thư mục chứa file markdown (đổi lại nếu cần)
+SOURCE_DIR = "../../docs/vinaya-vi/kd/cv"  # Thư mục chứa file markdown (đổi lại nếu cần)
 
 # Bạn nhập danh sách file vào đây:
 # - Cách 1: Chỉ cần tên file (sẽ tự động suy ra key từ số đầu tên file)
 # - Cách 2: Dict có key nếu tên file không tự suy ra được (ví dụ: {"filename": "...", "key": "1"})
 FILES = [
-"kn-004-tap-3-chuong-1-pham-bo-de.md",
-"kn-005-tap-3-chuong-2-pham-muccalinda.md",
-"kn-006-tap-3-chuong-3-pham-nanda.md",
-"kn-007-tap-3-chuong-4-pham-meghiya.md",
-"kn-008-tap-3-chuong-5-pham-truong-lao-sona.md",
-"kn-009-tap-3-chuong-6-pham-sanh-ra-da-mu.md",
-"kn-010-tap-3-chuong-7-pham-nho.md",
-"kn-011-tap-3-chuong-8-pham-pataligamiya.md"
+"pli-tv-kd-1-kammakkhandhaka.md",
+"pli-tv-kd-2-parivasikakkhandhaka.md",
+"pli-tv-kd-3-samuccayakkhandhaka.md",
+"pli-tv-kd-4-samathakkhandhaka.md",
+"pli-tv-kd-5-khuddakavatthukkhandhaka.md",
+"pli-tv-kd-6-senasanakkhandhaka.md",
+"pli-tv-kd-7-sanghabhedakakkhandhaka.md",
+"pli-tv-kd-8-vattakkhandhaka.md",
+"pli-tv-kd-9-patimokkhatthapanakkhandhaka.md",
+"pli-tv-kd-10-bhikkhunikkhandhaka.md",
+"pli-tv-kd-11-pancasatikakkhandhaka.md",
+"pli-tv-kd-12-sattasatikakkhandhaka.md"
 ]
 
 # ==========================================
@@ -29,11 +33,15 @@ H1_RE = re.compile(r'^#\s+(.+)$', re.MULTILINE)
 
 # Tìm header từ ## trở đi và kết thúc bằng {#số}
 # Ví dụ: ### SN 1.1 Vượt Qua Bộc Lưu {#1} -> bắt được "1"
-HEADING_ANCHOR_RE = re.compile(r'^#{2,}\s+.*?\{#(\d+)\}\s*$', re.MULTILINE)
+# HEADING_ANCHOR_RE = re.compile(r'^#{2,}\s+.*?\{#(\d+)\}\s*$', re.MULTILINE)
+HEADING_ANCHOR_RE = re.compile(
+    r'^#{2,}\s+.*?\{#(\d+(?:\.\d+)*)\}\s*$',
+    re.MULTILINE
+)
 
 # Tự động bắt số đầu tiên trong tên file làm key (vd: snc-01-... -> 1)
 TOP_INDEX_RE = re.compile(r'^[a-z]+-0*(\d+)', re.IGNORECASE)
-CHUONG_RE = re.compile(r'chuong-0*(\d+)', re.IGNORECASE)
+CHUONG_RE = re.compile(r'kd-0*(\d+)', re.IGNORECASE)
 
 def extract_key_from_filename(filename):
     m = CHUONG_RE.search(filename.lower())
@@ -84,7 +92,7 @@ def process_files(source_dir, file_list):
         raw_children = HEADING_ANCHOR_RE.findall(content)
 
         # Loại bỏ trùng lặp nếu có mà vẫn giữ nguyên thứ tự xuất hiện
-        children = list(dict.fromkeys(int(x) for x in raw_children))
+        children = list(dict.fromkeys(x for x in raw_children))
 
         # Lưu kết quả
         result[key] = {

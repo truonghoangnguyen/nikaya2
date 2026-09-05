@@ -41,30 +41,3 @@ Do BPS Pariyatti Editions phát hành
 
 *Thanh Tịnh Đạo (Visuddhimagga)* của Luận sư Buddhaghosa. Dịch năm 1956. Ấn bản BPE đầu tiên năm 1999.
 
-
-Các sách cùng chủ đề từ BPE Pariyatti Editions
-Có sẵn tại các nhà sách và từ Pariyatti, 800-829-2748
-
-hoặc
-
-www.pariyatti.org
-
-## THANH TỊNH ĐẠO
-VISUDDHIMAGGA
-
-Cuốn cẩm nang kinh điển về
-giáo lý và thiền định Phật giáo
-của Luận sư Buddhaghosa
-
-TỲ-KHEO ÑĀṆAMOLI 
-DỊCH TỪ TIẾNG PĀLI
-
-“Tác phẩm Visuddhimagga của Luận sư Buddhaghosa... là hiện thân cho đỉnh cao của văn học Phật giáo Pāli, đan xen nhiều khía cạnh khác nhau để tạo nên cuốn cẩm nang thiền định tuyệt vời này. Cho đến tận ngày nay, nó vẫn giữ nguyên được sự trong sáng kể từ khi mới được viết ra... Tôi hoan nghênh ấn bản mới này của bản dịch tiếng Anh lừng danh về cuốn Thanh Tịnh Đạo do Tỳ-kheo Ñāṇamoli thực hiện. Tôi cầu nguyện rằng độc giả dù ở đâu, cũng sẽ tìm thấy trong đây những lời khuyên và nguồn cảm hứng để phát triển sự bình an nội tại, góp phần kiến tạo nên một thế giới an lạc và hạnh phúc hơn.”
-
-—trích Lời tán thán của Đức Đạt-lai Lạt-ma
-
-960 TRANG
-
-ISBN 1-928706-01-0 (bìa mềm) $38.00
-
-1-928706-00-2 (bìa cứng) $50.00
