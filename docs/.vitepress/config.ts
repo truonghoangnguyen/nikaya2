@@ -208,9 +208,9 @@ const TRANSLATOR_META: Record<string, TranslatorMeta> = {
 
 // Compare-segment → translators + label. Folder convention from .scripts/seo-ai-folder-struct.md
 const COMPARE_META: Record<string, CompareMeta> = {
-  'c-pali-tmc-vi': { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Pali (Việt) & Thích Minh Châu', inLanguage: ['vi'] },
-  'c-sujato-tmc-vi': { translatorKeys: ['sujato-vi', 'thichminhchau'], label: 'Sujato & Thích Minh Châu', inLanguage: ['vi'] },
-  'c-nm-tmc-vi': { translatorKeys: ['nanamoli-bodhi-vi', 'thichminhchau'], label: 'Ñāṇamoli-Bodhi & Thích Minh Châu', inLanguage: ['vi'] },
+  'c-pali-tmc-vi': { translatorKeys: ['pali-vi', 'thichminhchau'], label: 'Pali (Việt) & T. Minh Châu', inLanguage: ['vi'] },
+  'c-sujato-tmc-vi': { translatorKeys: ['sujato-vi', 'thichminhchau'], label: 'Sujato & T. Minh Châu', inLanguage: ['vi'] },
+  'c-nm-tmc-vi': { translatorKeys: ['nanamoli-bodhi-vi', 'thichminhchau'], label: 'Ñāṇamoli-Bodhi & T. Minh Châu', inLanguage: ['vi'] },
 };
 
 // Git mtime map: relative path (from repo root) → ISO date of most recent commit
@@ -343,7 +343,7 @@ function addFallbackSocialMeta(
 export default defineConfig({
   lang: 'vi-VN',
   title: "Kinh Nikaya",
-  description: "Khám phá bộ sưu tập Kinh điển Nikaya với bản dịch song ngữ Pali - Việt. Thư viện kinh Phật giáo Nguyên thủy.",
+  description: "Kinh điển Nikaya với bản dịch song ngữ, tiếng Pali, Anh, Việt. Thư viện kinh Phật giáo Nguyên thủy.",
   cleanUrls: true,
   markdown: {
     // anchor: {
@@ -517,7 +517,7 @@ export default defineConfig({
     if (bookMeta && compareMeta) {
       const pageTitle = (pageData.params?.data?.title as string) || pageData.title || bookMeta.name;
       const pageDescription = pageData.frontmatter.description ||
-        `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName}). Bản đọc song song ${compareMeta.label} trên Kinh Nikaya.`;
+        `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName}). Bản đọc song song ${compareMeta.label}.`;
       const coverUrl = `${SITE_ORIGIN}${bookMeta.cover}`;
 
       pageData.description = pageDescription;
@@ -660,7 +660,7 @@ export default defineConfig({
         if (bookMeta) {
           const pageTitle = currentBook[currentIndex].text;
           const pageDescription = pageData.frontmatter.description ||
-            `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName})${translatorMeta ? `, ${translatorMeta.name}` : ''}. Kinh Nikaya.`;
+            `${pageTitle} — ${bookMeta.name} (${bookMeta.alternateName})${translatorMeta ? `, ${translatorMeta.name}` : ''}.`;
           const coverUrl = `${SITE_ORIGIN}${bookMeta.cover}`;
 
           pageData.description = pageDescription;
@@ -790,6 +790,28 @@ export default defineConfig({
     // Return the potentially modified pageData
     addFallbackSocialMeta(pageData, canonicalUrl, bookSegment);
     return pageData;
+  },
+
+  // điều chỉnh language
+  transformHtml(code, id, { pageData }) {
+    const relativePath = pageData.relativePath || ''
+    const pathParts = relativePath.split('/')
+    const authorSegment = pathParts[1]
+    // 1. Ưu tiên nếu trang có khai báo lang riêng trong Frontmatter YAML
+    let lang = pageData.frontmatter?.lang
+    // 2. Tự động nhận diện theo tác giả / bản dịch đã có trong TRANSLATOR_META
+    if (!lang && authorSegment && TRANSLATOR_META[authorSegment]) {
+      const langCode = TRANSLATOR_META[authorSegment].inLanguage[0]
+      lang = langCode === 'vi' ? 'vi-VN' : langCode // 'pi', 'en', 'vi-VN'
+    }
+    // 3. Fallback mặc định
+    lang = lang || 'vi-VN'
+    const dir = pageData.frontmatter?.dir || 'ltr'
+    // Thay thế thẻ <html ...> của trang tương ứng
+    return code.replace(
+      /<html\b[^>]*>/,
+      `<html lang="${lang}" dir="${dir}">`
+    )
   },
 
 

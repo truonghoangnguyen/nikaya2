@@ -57,7 +57,7 @@ lành thay, nếu Thế Tôn thuyết pháp cho tôi về sự đoạn tận cá
 Gia chủ Potaliya vâng đáp Thế Tôn. Thế Tôn thuyết giảng như sau:
 
 <!--pg-->
--- Này Gia chủ. tám pháp này đưa đến sự đoạn tận các tục sự trong giới luật bậc Thánh. Thế nào là tám?
+-- Này Gia chủ, tám pháp này đưa đến sự đoạn tận các tục sự trong giới luật bậc Thánh. Thế nào là tám?
 Y cứ không sát sanh, sát sanh cần phải từ bỏ. Y cứ không lấy của không cho, lấy của không cho cần phải
 từ bỏ. Y cứ lời chân thật, nói láo cần phải từ bỏ. Y cứ không nói hai lưỡi, nói hai lưỡi cần phải từ bỏ. Y
 cứ không tham dục, tham dục cần phải từ bỏ. Y cứ không hủy báng sân hận, hủy báng sân hận cần phải
