@@ -4,7 +4,7 @@
 ## Phẩm Thứ Nhất
 
 ### I. Suvìra (S.i,216)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
 

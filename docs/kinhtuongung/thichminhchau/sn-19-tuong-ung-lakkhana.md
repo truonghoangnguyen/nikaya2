@@ -4,7 +4,7 @@
 ## I. Phẩm Thứ Nhất
 
 ### I. Ðống Xương (Tạp, Ðại 2, 135a) (S.ii,254)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm) chỗ nuôi dưỡng các con sóc.
 

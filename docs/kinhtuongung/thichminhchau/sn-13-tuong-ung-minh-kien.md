@@ -2,7 +2,7 @@
 
 <!--pg-->
 ### I. Ðầu Ngón Tay (S.ii,133)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
 

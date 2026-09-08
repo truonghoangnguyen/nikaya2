@@ -2,7 +2,7 @@
 
 <!--pg-->
 ### I. Alavikhà (S.i.128)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
 

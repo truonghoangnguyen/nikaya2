@@ -4,7 +4,7 @@
 ## I. Phẩm A-La-Hán Thứ Nhất
 
 ### I. Dhananjàni (S.i,160)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), tại chỗ nuôi dưỡng các con sóc.
 

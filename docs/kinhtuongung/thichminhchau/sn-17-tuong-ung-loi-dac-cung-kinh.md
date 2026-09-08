@@ -4,7 +4,7 @@
 ## I. Phẩm Thứ Nhất
 
 ### I. Khổ Lụy (S.ii,225)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Sàvatthi... tại vườn ông Anàthapindika.
 

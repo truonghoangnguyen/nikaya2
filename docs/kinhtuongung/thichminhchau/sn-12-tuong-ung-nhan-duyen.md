@@ -4,7 +4,7 @@
 ## I. Phẩm Phật Ðà.
 
 ### I. Thuyết Pháp − (Tạp 12.16, Ðại 2,85a) (S.ii,1)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Sàvatthi (Xá-vệ), tại Jetavana (Thắng Lâm), trong vườn ông Anàthapindika (Cấp
 Cô Ðộc).

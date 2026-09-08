@@ -2,7 +2,7 @@
 
 ***(Anuruddha Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Savatthi (Xá vệ), tại Jetavana (Kỳ-đà viên), chỗ tinh xá của ông Anathapindika
 (Cấp cô độc). Rồi thợ mộc Pancakanga bảo một người.

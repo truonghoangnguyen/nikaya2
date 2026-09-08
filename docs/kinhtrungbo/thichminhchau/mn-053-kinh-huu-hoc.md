@@ -1,12 +1,12 @@
 ---
 tags:
- - các bước tu tập I
+ - (các bước tu tập 1)
 ---
 # 53. KINH HỮU HỌC
 
 ***(Sekha Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 Một thời Thế Tôn sống giữa các Sakya (Thích-ca), thành Kapilavatthu, tại tinh xá Nigrodha.
 
 Lúc bấy giờ, một ngôi giảng đường mới được dựng lên không bao lâu cho các Sakya ở Kapilavatthu, và

@@ -5,7 +5,7 @@
 ## I. Phẩm Thứ Nhất (S.i,46)
 
 ### I. Kassapa - Ca-diếp (Tạp 49.24 - Ca-diếp, Ðại 2,361c) Biệt Tạp 15.19, Ðại 2,480c)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông Anàthapindika (Cấp Cô
 Ðộc). Rồi Thiên tử Kassapa (Ca-diếp), sau khi đêm đã gần mãn, với dung sắc thù thắng chói sáng toàn

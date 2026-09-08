@@ -2,7 +2,7 @@
 
 ***(Apannaka Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời, Thế Tôn du hành giữa dân chúng Kosala với Ðại chúng Tỷ-kheo và đến tại Sala, một làng Bà-
 la-môn của dân chúng Kosala.

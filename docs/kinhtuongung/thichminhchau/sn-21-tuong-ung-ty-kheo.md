@@ -2,7 +2,7 @@
 
 <!--pg-->
 ### I. Kolita (Tạp, Ðại 2, 132a) (S.ii,273)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
 

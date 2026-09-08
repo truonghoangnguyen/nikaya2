@@ -2,7 +2,7 @@
 
 ***(Veranjaka Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), tịnh xá ông Anathapindika (Cấp Cô
 Ðộc). Lúc bấy giờ các gia chủ Bà-la-môn Veranjaka đến trú tại Savatthi vì một vài công việc.

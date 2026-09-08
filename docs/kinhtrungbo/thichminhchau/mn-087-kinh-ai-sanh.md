@@ -2,7 +2,7 @@
 
 ***(Piyajàtika Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Savatthi, Jetavana, tại tinh xá ông Anathapindika (Cấp cô độc).
 

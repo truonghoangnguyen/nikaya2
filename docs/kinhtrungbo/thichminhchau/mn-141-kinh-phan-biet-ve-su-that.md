@@ -2,7 +2,7 @@
 
 ***(Saccavibhanga Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Baranasi (Ba la nại), Isipatana (chỗ chư Tiên đọa), tại Migadaya (Lộc Uyển).
 

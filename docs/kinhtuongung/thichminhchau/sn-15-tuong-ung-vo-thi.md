@@ -6,7 +6,7 @@ _**(Anamatagga)**_
 ## I. Phẩm Thứ Nhất
 
 ### I. Cỏ Và Củi (Tạp, Ðại 2, 24b) (Biệt Tạp, Ðại 2, 486c) (S.ii,178)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
 

@@ -1,6 +1,6 @@
 ---
 tags:
- - (các bước tu tập I)
+ - (các bước tu tập 1)
  - chuỗi 12 phụ thuộc (12 nhân duyên)
  - 4 thức ăn (thực) 
 ---
@@ -8,7 +8,7 @@ tags:
 
 ***(Mahàtanhàsankhaya Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ) tại Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc).
 

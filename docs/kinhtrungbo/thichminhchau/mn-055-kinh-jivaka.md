@@ -1,8 +1,13 @@
+---
+tags: 
+ - (các bước tu tập 2)
+---
+
 # MN 55. KINH JÌVAKA
 
 ***(Jìvaka Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Rajagaha (Vương Xá), tại rừng xoài của Jivaka Komarabhacca.
 

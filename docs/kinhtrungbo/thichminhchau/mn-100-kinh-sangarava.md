@@ -2,7 +2,7 @@
 
 ***(Sangàrava Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn du hành trong nước Kosala với đại chúng Tỷ-kheo.
 

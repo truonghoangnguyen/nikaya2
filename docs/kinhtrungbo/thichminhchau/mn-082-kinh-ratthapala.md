@@ -2,7 +2,7 @@
 
 ***(Ratthapàla Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn du hành ở giữa dân chúng Kuru, cùng với đại chúng Tỷ-kheo, và đi đến một thị trấn
 của dân chúng Kuru tên là Thullakotthita.

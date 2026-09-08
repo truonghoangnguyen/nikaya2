@@ -2,7 +2,7 @@
 
 ***(Mahàsalàyatanika Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), Jetavana (Kỳ-đà Lâm), tại tinh xá ông Anathapindika (Cấp Cô
 Ðộc).

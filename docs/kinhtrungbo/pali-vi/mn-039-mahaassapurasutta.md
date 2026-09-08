@@ -1,7 +1,7 @@
 ---
 description: MN 39, *Mahāassapurasutta*, diễn ra tại Assapura, một thị trấn của vùng Aṅga. Đức Phật nói với các tỳ kheo về tiêu chuẩn thực tế để được gọi là người tu hành, Bà-la-môn, bậc thánh hay A-la-hán. Bài kinh triển khai theo trình tự - đạo đức thân-khẩu-ý, cách nuôi sống, bảo vệ giác quan, ăn uống vừa đủ, tỉnh thức, nhận biết rõ ràng, loại bỏ Năm điều làm mờ yếu, bốn Thiền-na và ba nhóm hiểu biết đặc biệt.
 tags: 
- - (các bước tu tập I)
+ - (các bước tu tập 1)
 ---
 
 # MN 39. KINH DÀI XÓM NGỰA (Assapura)

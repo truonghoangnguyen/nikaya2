@@ -4,7 +4,7 @@
 ## I. Phẩm Ðộc Cư
 
 ### 1.I. Ðộc Cư (1) (S.v,294)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Tôn giả Anuruddha trú ở Sàvatthi, tại Thắng Lâm, khu vườn ông Anàthapindika.
 

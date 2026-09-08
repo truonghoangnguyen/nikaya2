@@ -6,7 +6,7 @@
 ## I. Phẩm Vô Thường
 
 ### 1.I. Vô Thường (1) Nội (S. iv.1)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Sàvatthi, tại Jetavana, vườn ông Anàthapindika.
 

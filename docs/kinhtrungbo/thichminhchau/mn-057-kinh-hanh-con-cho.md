@@ -2,7 +2,7 @@
 
 ***(Kukkuravatika Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở giữa dân chúng Koliya Haliddavasana là tên một thị trấn của dân chúng Koliya.
 

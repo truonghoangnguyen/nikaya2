@@ -2,7 +2,7 @@
 
 ***(Upakkilesa Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Kosambi (Kiều-thưởng-di), tại tịnh xá Ghosita (Cu-sư-la).
 

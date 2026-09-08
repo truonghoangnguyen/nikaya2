@@ -2,7 +2,7 @@
 
 ***(Latukikopama Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời, Thế Tôn ở tại Anguttarapa (Ương-già Bắc Phương Thủy). Apana là một thị tứ của
 Anguttarapa.

@@ -4,7 +4,7 @@
 ## I. Phẩm Thứ Nhất
 
 ### I. Thỉnh Cầu (S.i. 136)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Uruvelà trên bờ sông Neranjarà, dưới gốc cây Ajapàla Nigrodha, khi Ngài mới
 thành đạo.
