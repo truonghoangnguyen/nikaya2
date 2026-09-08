@@ -7,7 +7,7 @@
 
 ### I. Nakulapità (Tạp, 5.5 Trưởng Giả, Ðại 2,33a) (Tăng 13.4, Ðại 2,573a) (S.iii,1)
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn sống giữa dân chúng Bhayga, tại núi Cá Sấu, rừng Bhesaka, vườn Nai.
 

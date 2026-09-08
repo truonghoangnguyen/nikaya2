@@ -2,7 +2,7 @@
 
 <!--pg-->
 ### I. Xuất Ly (S.i,185)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Tôn giả Vangìa trú ở Alavi, tại ngôi đền ở Aggàlava, cùng với Tôn giả Nigrodha Kappa, là vị
 giáo thọ sư.

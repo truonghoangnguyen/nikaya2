@@ -6,7 +6,7 @@ tags:
 
 ***(Ganakamoggallàna Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Savatthi, Pubbarama, nơi lâu đài của Migaramatu (Ðông Viên Lộc Mẫu Giảng
 đường) . Rồi Bà-la-môn Ganaka Moggallana đi đến chỗ Thế Tôn, sau khi đến nói lên những lời chào

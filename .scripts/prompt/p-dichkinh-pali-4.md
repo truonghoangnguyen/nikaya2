@@ -185,7 +185,7 @@ Dưới đây là bảng của bạn đã được chuyển đổi sang định 
 | vaya | sự suy tàn; sự hoại diệt | diệt | "vayadhammā->chịu sự suy tàn/tính hoại diệt"; |
 | atthaṅgamā | tan biến; biến mất | diệt | sự phai tàn tự nhiên. "atthaṅgamāya->để đưa đến sự biến mât" |
 | cāgā | cho đi | xả ly | |
-| nissaraṇa | thoát khỏi | xuất ly | |
+| nissaraṇa | giải thoát; thoát khỏi | xuất ly | |
 | pajahati | từ bỏ; loại bỏ | đoạn trừ | |
 | nirujjhati | chấm dứt | diệt | |
 | abhinandanā | vui thú chạy theo | hỷ lạc | |

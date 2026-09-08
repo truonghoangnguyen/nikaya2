@@ -2,7 +2,7 @@
 
 ***(Cùlakammavibhanga Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ) Jetavana (Kỳ-đà-lâm), tại tinh xá ông Anathapindika (Cấp Cô
 Ðộc).

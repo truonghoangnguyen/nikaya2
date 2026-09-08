@@ -4,6 +4,8 @@ description: Đức Phật đang ở thị trấn Āpaṇa của dân chúng A�
 
 # MN 54. KINH POTALIYA
 *(Potaliyasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-054){class="note-link"}
+
 
 1\. Tôi đã nghe như vầy — một thời Thế Tôn đang lưu trú tại dân chúng Aṅguttarāpa, ở thị trấn của dân chúng Aṅguttarāpa tên là Āpaṇa.
 

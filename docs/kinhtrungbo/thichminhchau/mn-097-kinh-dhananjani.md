@@ -2,7 +2,7 @@
 
 ***(Dhànanjàni Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở tại Rajagaha (Vương Xá), Veluvana (Trúc Lâm), tại Kalandakanivapa (chỗ nuôi
 dưỡng sóc).

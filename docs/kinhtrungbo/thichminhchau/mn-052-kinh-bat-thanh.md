@@ -2,7 +2,7 @@
 
 ***(Atthakanàgara Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Tôn giả Ananda trú ở Vesali (Tỳ-xá-ly), tại Beluvagàmaka (ấp Trúc Lâm).
 

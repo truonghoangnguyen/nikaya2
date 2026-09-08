@@ -4,7 +4,7 @@
 ## I. Phẩm Thứ Nhất
 
 ### I. Mắt (S.ii,244)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Sàvatthi (Xá-vệ), tại Jetavana (Thắng Lâm), vườn ông Anàthapindika (Cấp Cô
 Ðộc).

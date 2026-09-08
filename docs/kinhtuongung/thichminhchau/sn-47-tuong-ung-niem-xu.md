@@ -4,7 +4,7 @@
 ## I. Phẩm Ambapàli
 
 ### 1. I. Ambapàli (Tạp 24,20, Ðại 2,174a) (S.v,141)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Vesàli, tại rừng Ambapàli.
 

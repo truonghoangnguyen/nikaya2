@@ -2,7 +2,7 @@
 
 ***(Ghatìkàra Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn đi du hành giữa dân chúng Kosala với đại chúng Tỷ-kheo.
 

@@ -2,7 +2,7 @@
 
 ***(Vàsettha Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Icchanankala (Y-xa-năng -gia-la), tại khu rừng Icchanankala.
 

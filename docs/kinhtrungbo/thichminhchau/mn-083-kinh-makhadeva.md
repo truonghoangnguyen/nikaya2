@@ -2,7 +2,7 @@
 
 ***(Makhàdeva Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Mithila (Di-tát-la), tại rừng Makhadevamba.
 

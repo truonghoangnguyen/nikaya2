@@ -2,7 +2,7 @@
 
 ***(Devadùta Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), Jetavana (Kỳ-đà viên), tại tinh xá ông Anathapindika (Cấp Cô
 Ðộc).

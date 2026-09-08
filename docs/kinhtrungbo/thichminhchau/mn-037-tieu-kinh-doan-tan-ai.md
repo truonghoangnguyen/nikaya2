@@ -2,7 +2,7 @@
 
 ***(Cùlatanhàsankhaya Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời, Thế Tôn ở tại Savatthi (Xá-vệ), Ðông Viên (Pubbarama), giảng đường Lộc Mẫu
 (Migaramatu).

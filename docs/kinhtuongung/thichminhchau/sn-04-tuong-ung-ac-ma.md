@@ -3,7 +3,7 @@
 ## I. Phẩm Thứ Nhất
 
 ### I. Khổ Hạnh Và Nghiệp (S.i,103)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Uruvelà bên bờ sông Neranjarà, dưới gốc cây Ajapàla Nigrodha, khi Ngài vừa giác
 ngộ.

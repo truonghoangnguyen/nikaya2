@@ -4,7 +4,7 @@
 ## I. Phẩm Thứ Nhất
 
 ### I. Tuổi Trẻ (S.i,68)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn trú ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông Anàthapindika (Cấp Cô
 Ðộc).

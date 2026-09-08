@@ -2,7 +2,7 @@
 
 ***(Sela Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn du hành ở Anguttarapa cùng với đại chúng Tỷ-kheo một ngàn hai trăm năm mươi vị,
 và đi đến một thị trấn của Anguttarapa tên là Apana.

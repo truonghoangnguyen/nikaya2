@@ -2,7 +2,7 @@
 
 <!--pg-->
 ### I. Chóp Mái (S.ii,262)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Kỳ-đà Lâm), tại vườn ông Anàthapindika (Cấp Cô
 Ðộc).

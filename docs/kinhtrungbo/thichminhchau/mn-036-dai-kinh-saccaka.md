@@ -10,7 +10,7 @@ tags:
 
 ***(Mahàsaccaka Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở tại Vesali, rừng Ðại Lâm, tại giảng đường Trùng Các.
 

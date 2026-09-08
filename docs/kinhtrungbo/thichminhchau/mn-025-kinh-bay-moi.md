@@ -7,7 +7,7 @@ tags:
 
 ***(Nivàpa Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Savatthi, tại Jetavana, vườn ông Anathapindika (Cấp Cô Ðộc). Ở đây, Thế Tôn gọi
 các Tỷ-kheo: "Này các Tỷ-kheo". --"Bạch Thế Tôn", các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn thuyết

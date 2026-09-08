@@ -2,7 +2,7 @@
 
 <!--pg-->
 ### I. Viễn Ly (S.i,197)
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời, một Tỷ-kheo trú giữa dân chúng Kosala, tại một khu rừng.
 

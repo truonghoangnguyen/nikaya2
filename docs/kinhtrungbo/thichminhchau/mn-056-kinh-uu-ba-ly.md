@@ -1,8 +1,8 @@
 # MN 56. KINH ƯU-BA-LY
 
-***(Upàli Sutta)***
+***(Upàli Sutta)***\
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở tại Nalanda, trong rừng Pavarikamba.
 
@@ -523,136 +523,136 @@ hướng Thế Tôn và nói với Nigantha Nataputta:
 
 -- Thưa Tôn giả, hãy nghe, tôi là đệ tử của ai:
 
-*Bậc Trí sáng suốt,*
-*Ðoạn trừ si ám.*
-*Phá tan hoang vu,*
-*Chiến thắng địch quân.*
-*Ðau khổ đoạn diệt,*
-*Tâm an bình tĩnh.*
-*Giới đức trưởng thành,*
-*Tuệ đức viên minh.*
-*Phiền não nội tịnh,*
-*Rời trần ly cấu.*
-*Tôi thật chính là,*
+*Bậc Trí sáng suốt,*\
+*Ðoạn trừ si ám.*\
+*Phá tan hoang vu,*\
+*Chiến thắng địch quân.*\
+*Ðau khổ đoạn diệt,*\
+*Tâm an bình tĩnh.*\
+*Giới đức trưởng thành,*\
+*Tuệ đức viên minh.*\
+*Phiền não nội tịnh,*\
+*Rời trần ly cấu.*\
+*Tôi thật chính là,*\
 *Ðệ tử Thế Tôn.*
 
-*Do dự đoạn trừ,*
-*Biết vừa, biết đủ,*
-*Thế lợi tuyệt không,*
-*Tâm tư hoan hỷ,*
-*Làm Sa-môn hạnh,*
-*Sanh ở nhân gian,*
-*Thân này sau cùng,*
-*Làm người nhân thế.*
-*Bậc Thánh cao nhất,*
-*Rời trần ly cấu.*
-*Tôi thật chính là,*
+*Do dự đoạn trừ,*\
+*Biết vừa, biết đủ,*\
+*Thế lợi tuyệt không,*\
+*Tâm tư hoan hỷ,*\
+*Làm Sa-môn hạnh,*\
+*Sanh ở nhân gian,*\
+*Thân này sau cùng,*\
+*Làm người nhân thế.*\
+*Bậc Thánh cao nhất,*\
+*Rời trần ly cấu.*\
+*Tôi thật chính là,*\
 *Ðệ tử Thế Tôn.*
 
-*Không tâm do dự,*
-*Khéo hành thiện xảo.*
-*Bậc trì giới luật,*
-*Ðiều ngự tối thượng.*
-*Là Vô Thượng Sĩ,*
-*Sáng chói hào quang,*
-*Nghi hoặc đoạn trừ,*
-*Soi sáng mọi nơi.*
-*Kiêu mạn đoạn tận,*
-*Vô nhân anh hùng.*
-*Tôi thật chính là*
+*Không tâm do dự,*\
+*Khéo hành thiện xảo.*\
+*Bậc trì giới luật,*\
+*Ðiều ngự tối thượng.*\
+*Là Vô Thượng Sĩ,*\
+*Sáng chói hào quang,*\
+*Nghi hoặc đoạn trừ,*\
+*Soi sáng mọi nơi.*\
+*Kiêu mạn đoạn tận,*\
+*Vô nhân anh hùng.*\
+*Tôi thật chính là*\
 *Ðệ tử Thế Tôn.*
 
-*Ngài bậc Ngưu Vương,*
-*Tâm tư vô lượng,*
-*Thâm sâu khôn lường*
-*Bậc thánh Mâu ni,*
-*Tác thành an ổn,*
-*Bậc có Trí tuệ,*
+*Ngài bậc Ngưu Vương,*\
+*Tâm tư vô lượng,*\
+*Thâm sâu khôn lường*\
+*Bậc thánh Mâu ni,*\
+*Tác thành an ổn,*\
+*Bậc có Trí tuệ,*\
 *An trú Pháp vị,*
 
-*Tự phòng hộ thân,*
-*Vượt qua tham ái,*
-*Bậc Giải Thoát Trí.*
-*Tôi thật chính là,*
+*Tự phòng hộ thân,*\
+*Vượt qua tham ái,*\
+*Bậc Giải Thoát Trí.*\
+*Tôi thật chính là,*\
 *Ðệ tử Thế Tôn.*
 
-*Ngài bậc Long Vương,*
-*Sống xa thế tục.*
-*Kiết sử đoạn trừ,*
-*Siêu đẳng giải thoát.*
-*Biện tài từ tốn,*
-*Trong sạch thanh tịnh,*
-*Cờ xí triệt hạ,*
-*Tham ái đoạn trừ,*
-*Ðiều ngự nhiếp phục,*
-*Hý luận diệt tận.*
-*Tôi thật chính là,*
+*Ngài bậc Long Vương,*\
+*Sống xa thế tục.*\
+*Kiết sử đoạn trừ,*\
+*Siêu đẳng giải thoát.*\
+*Biện tài từ tốn,*\
+*Trong sạch thanh tịnh,*\
+*Cờ xí triệt hạ,*\
+*Tham ái đoạn trừ,*\
+*Ðiều ngự nhiếp phục,*\
+*Hý luận diệt tận.*\
+*Tôi thật chính là,*\
 *Ðệ tử Thế Tôn,*
 
-*Ðệ nhất tiên nhân.*
-*Không tin lời đồn.*
-*Ba minh thành tựu,*
-*Ðạt quả Phạm thiên.*
-*Tắm sạch thân tâm,*
-*Văn cú thông đạt.*
-*Khinh an yên ổn,*
-*Tránh trí chứng đắc.*
-*Công phá thành trì,*
-*Thiên chủ Ðế thích.*
-*Tôi chính thật là,*
+*Ðệ nhất tiên nhân.*\
+*Không tin lời đồn.*\
+*Ba minh thành tựu,*\
+*Ðạt quả Phạm thiên.*\
+*Tắm sạch thân tâm,*\
+*Văn cú thông đạt.*\
+*Khinh an yên ổn,*\
+*Tránh trí chứng đắc.*\
+*Công phá thành trì,*\
+*Thiên chủ Ðế thích.*\
+*Tôi chính thật là,*\
 *Ðệ tử Thế Tôn.*
 
-*Ngài bậc Thánh Giả,*
-*Tự tu tự tập.*
-*Chứng điều phải chứng,*
-*Thuyết giảng hiện tại,*
-*Chánh niệm tỉnh giác,*
-*Thiền quán tinh tế*
-*Không thiên tà dục,*
-*Không nuôi tâm hận.*
-*Giao động không còn,*
-*Thân tâm tự tại.*
-*Tôi chính thật là*
+*Ngài bậc Thánh Giả,*\
+*Tự tu tự tập.*\
+*Chứng điều phải chứng,*\
+*Thuyết giảng hiện tại,*\
+*Chánh niệm tỉnh giác,*\
+*Thiền quán tinh tế*\
+*Không thiên tà dục,*\
+*Không nuôi tâm hận.*\
+*Giao động không còn,*\
+*Thân tâm tự tại.*\
+*Tôi chính thật là*\
 *Ðệ tử Thế Tôn.*
 
-*Sống theo chánh đạo,*
-*Trầm tư Thiền tưởng,*
-*Nội tâm không nhiễm,*
-*Thanh tịnh trong sạch,*
-*Không trước không chấp,*
+*Sống theo chánh đạo,*\
+*Trầm tư Thiền tưởng,*\
+*Nội tâm không nhiễm,*\
+*Thanh tịnh trong sạch,*\
+*Không trước không chấp,*\
 *Không nguyện không cầu,*
 
-*Ðộc cư độc tọa,*
-*Chứng tối thượng vị,*
-*Ðã vượt qua dòng,*
-*Giúp người vượt qua.*
-*Tôi thật chính là*
+*Ðộc cư độc tọa,*\
+*Chứng tối thượng vị,*\
+*Ðã vượt qua dòng,*\
+*Giúp người vượt qua.*\
+*Tôi thật chính là*\
 *Ðệ tử Thế Tôn,*
 
-*Bậc chứng tịch tịnh,*
-*Trí tuệ vô biên,*
-*Trí tuệ quảng đại,*
-*Tham ái đoạn tận.*
-*Ngài là Như Lai,*
-*Ngài là Thiện Thệ,*
-*Không người sánh bằng,*
-*Không ai đồng đẳng,*
-*Giàu đức tự tin,*
-*Viên mãn thành tựu.*
-*Tôi thật chính là,*
+*Bậc chứng tịch tịnh,*\
+*Trí tuệ vô biên,*\
+*Trí tuệ quảng đại,*\
+*Tham ái đoạn tận.*\
+*Ngài là Như Lai,*\
+*Ngài là Thiện Thệ,*\
+*Không người sánh bằng,*\
+*Không ai đồng đẳng,*\
+*Giàu đức tự tin,*\
+*Viên mãn thành tựu.*\
+*Tôi thật chính là,*\
 *Ðệ tử Thế Tôn*
 
-*Tham ái đoạn tận,*
-*Giác ngộ chánh giác,*
-*Khói mù tiêu tan,*
-*Ô uế trừ sạch*
-*Xứng đáng cúng dường,*
-*Dạ xoa thanh tịnh.*
-*Vô thượng Thánh nhân,*
-*Không thể cân lường*
-*Ðại nhân Ðại giác*
-*Ðạt đến danh xưng.*
-*Tôi thật chính là,*
+*Tham ái đoạn tận,*\
+*Giác ngộ chánh giác,*\
+*Khói mù tiêu tan,*\
+*Ô uế trừ sạch*\
+*Xứng đáng cúng dường,*\
+*Dạ xoa thanh tịnh.*\
+*Vô thượng Thánh nhân,*\
+*Không thể cân lường*\
+*Ðại nhân Ðại giác*\
+*Ðạt đến danh xưng.*\
+*Tôi thật chính là,*\
 *Ðệ tử Thế Tôn.*
 
 -- Này Gia chủ, Ông chất chứa những ưu điểm này về Sa-môn Gotama từ bao giờ?

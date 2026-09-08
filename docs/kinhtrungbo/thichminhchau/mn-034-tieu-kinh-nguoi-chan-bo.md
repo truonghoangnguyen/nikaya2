@@ -2,7 +2,7 @@
 
 ***(Cùlagopàlaka Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời Thế Tôn ở giữa các bộ lạc Vajji (Bạt-kỳ) tại Ukkacela, trên bờ sông Hằng. Tại đây Thế Tôn gọi
 các Tỷ-kheo.

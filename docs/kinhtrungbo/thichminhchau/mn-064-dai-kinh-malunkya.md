@@ -7,7 +7,7 @@ tags:
 
 ***(Mahà Màlunkyà Sutta)***
 
-**Như vầy tôi nghe.**
+Như vầy tôi nghe.
 
 Một thời, Thế Tôn trú ở Savatthi, Jetavana, tại tịnh xá ông Anathapindika (Cấp Cô Ðộc).
 
