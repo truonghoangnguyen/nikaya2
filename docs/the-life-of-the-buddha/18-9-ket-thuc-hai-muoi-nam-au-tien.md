@@ -62,7 +62,7 @@ Bà-la-môn Kasi Bhāradvāja liền đổ bát cháo sữa xuống nước nơi
 
 Vị bà-la-môn vô cùng kinh sợ, tóc gáy dựng đứng. Ông đi đến chỗ Thế Tôn, phủ phục dưới chân Ngài và nói: “Thật tuyệt vời, Tôn giả Gotama! Con mong được xuất gia và thọ giới với Tôn giả Gotama.” Và không lâu sau đó, tôn giả Bhāradvāja trở thành một trong những vị A-la-hán.
 
-[[Sn. 1:4](/link?q=snp-1.4){target=_black}](/link?q=Snp-1.4){target='_black'};  [[S. 7:11](/link?q=SN-7.11){target=_black}](/linkq=sn-7.11){target='_black'}
+[Sn. 1:4](/link?q=snp-1.4){target=_black};  [S. 7:11](/link?q=SN-7.11){target=_black}
 
 NGƯỜI KỂ HAI. Sa-di Rāhula, con trai của Đức Phật, lúc này đã mười tám tuổi. Đức Phật đang ở tại Rừng Kỳ Đà, và một buổi sáng Ngài đi vào thành khất thực. Con trai Ngài đi theo sát phía sau, và trong lúc đi, tâm trí vị này bắt đầu đi lang thang, suy đoán xem viễn cảnh của mình sẽ ra sao nếu cha mình trở thành một vị chuyển luân thánh vương, như người ta đã tiên đoán về Ngài nếu Ngài không từ bỏ đời sống gia đình.
 
@@ -76,7 +76,7 @@ Sau đó, tôn giả Rāhula nghĩ: “Ai lại có thể đi tiếp vào thành
 
 Đến chiều, tôn giả Rāhula xuất định và đi đến chỗ Thế Tôn. Sau khi đảnh lễ Ngài, vị ấy ngồi xuống một bên. Rồi vị ấy thưa: “Bạch Thế Tôn, chánh niệm hơi thở nên được tu tập và phát triển như thế nào để mang lại quả lớn và nhiều lợi ích?”
 
-[[MN-62](/link?q=MN-62){target=_black}](/linkq=mn-62){target='_black'}
+[MN-62](/link?q=MN-62){target=_black}
 
 
 NGƯỜI KỂ HAI. Sau đó, Đức Phật lần đầu tiên mô tả chi tiết cho vị ấy bốn đại chủng của sắc pháp — đất hay sự rắn chắc, nước hay sự kết dính, lửa hay nhiệt độ và sự chín muồi, và gió hay sự phình ra và chuyển động — và cả hư không, cũng như cách mỗi thứ nên được quán sát giống hệt như sắc pháp. Rồi Ngài nói:
@@ -85,7 +85,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Hãy cố gắng giống như đất, này Rāhu
 
 “Hãy thực hành tâm từ để loại bỏ sân hận. Hãy thực hành tâm bi để loại bỏ tàn ác. Hãy thực hành tâm hỷ để loại bỏ sự vô cảm. Hãy thực hành tâm xả để loại bỏ sự oán giận. Hãy thực hành quán sự bất tịnh của thân để loại bỏ tham dục. Hãy thực hành quán vô thường để loại bỏ kiêu mạn ‘tôi là’. Hãy thực hành chánh niệm hơi thở; vì khi điều đó được tu tập và phát triển tốt, nó sẽ mang lại quả lớn và nhiều lợi ích.”
 
-[[MN-62](/link?q=MN-62){target=_black}](/linkq=mn-62){target='_black'}
+[MN-62](/link?q=MN-62){target=_black}
 
 NGƯỜI KỂ HAI. Sau đó, Đức Phật mô tả mười sáu phương pháp có thể thực hành chánh niệm hơi thở.
 
@@ -136,7 +136,7 @@ bà-la-môn ở Verañjā nghe danh Thế Tôn và quyết định đến gặp 
 
 “Cũng vậy, này bà-la-môn, trong thế hệ bị chìm đắm trong vô minh, bị nhốt trong quả trứng vô minh, bị vô minh phong kín này, ta là người duy nhất trên thế giới đã khám phá ra sự giác ngộ tối thượng vô song bằng cách chọc thủng vỏ trứng vô minh, của sự không hiểu biết. Vì vậy, chính ta là người lớn nhất và tối thắng trên thế gian.”
 
-Vin. Sv. Pārā. 1; [[A. 8:11](/link?q=AN-8.11){target=_black}](/link?q=an-8.11)
+[Vin. Sv. Pārā. 1](/link?q=vin-sv-para-1); [A. 8:11](/link?q=AN-8.11){target=_black}
 
 NGƯỜI KỂ HAI. Sau đó, Đức Phật mô tả cách Ngài, nhờ đạt được bốn thiền và ba minh, đã trực tiếp nhận biết rằng sự sinh của Ngài đã chấm dứt. Vị bà-la-môn bị thuyết phục, và ông đã quy y Tam Bảo. Sau đó, ông cúng dường chỗ ở và sự hỗ trợ cho Đức Phật trong mùa an cư sắp tới, và đã được chấp nhận.
 
