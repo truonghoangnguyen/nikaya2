@@ -2,8 +2,6 @@ Chương 7
 
 # SỰ THÀNH LẬP NI ĐOÀN
 
-<br>
-
 
 NGƯỜI KỂ MỘT. Lời kể vừa rồi đã cho thấy Đức Phật đồng ý an cư mùa mưa tại Sāvatthi (Xá-vệ) [1](/the-life-of-the-buddha/notes/7#1){.note} như thế nào. Vì vậy, nếu cách tính truyền thống về ba mùa an cư đầu tiên sau khi Giác ngộ là đúng, thì mùa an cư thứ tư được dành ở Kỳ Viên (Jeta's Grove). Đây là một câu chuyện có thể thuộc về thời kỳ này.
 

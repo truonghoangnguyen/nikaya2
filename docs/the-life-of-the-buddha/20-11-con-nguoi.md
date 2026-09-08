@@ -1,7 +1,6 @@
 Chương 11
 # CON NGƯỜI
 
-<br>
 
 NGƯỜI KỂ MỘT. Giờ đây, khi chuỗi sự kiện tạm thời không còn dấu vết để theo dõi, chúng ta có thể dừng lại ở đây để xem Kinh điển nói gì về những phẩm chất cá nhân của Đức Phật: để xem cả những gì Đức Phật nói về chính ngài, và những người cùng thời đã từng gặp ngài nói gì về ngài, qua những ghi chép cổ xưa nhất được lưu truyền lại cho chúng ta.
 

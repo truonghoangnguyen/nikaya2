@@ -1,8 +1,6 @@
 Chương 14
-
 # TUỔI GIÀ
 
-<br>
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời, khi Đức Thế Tôn đang ngự tại Sāvatthī, Vua Pasenadi nước Kosala đến yết kiến ngài vào giữa trưa. Đức Thế Tôn hỏi vua: “Đại vương từ đâu đến vào giữa trưa thế này?”
 

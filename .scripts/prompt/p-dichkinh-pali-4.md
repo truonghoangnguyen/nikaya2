@@ -29,10 +29,15 @@ Khi dịch, bạn sẽ gặp những từ ngữ chuyên môn (gọi là thuật-
 Ví dụ: "kāyagatāsati"
  - BAD: "*chú ý* (niệm/sati) vào thân"
  - GOOD:"*chú ý vào thân* (niệm/kāyagatāsati)";
-  - lý do: table <vocabulary-mapping> có định nghĩa `sati` mà không định nghĩa `kāyagatāsati` nhưng ở đây `kāyagatāsati` là từ mang ý nghĩa.
+- lý do: table <vocabulary-mapping> có định nghĩa `sati` mà không định nghĩa `kāyagatāsati` nhưng ở đây `kāyagatāsati` là từ mang ý nghĩa.
 Ví dụ 2: "dhammanandiyā"
  - BAD: "sự *vui thú chạy theo* (hỷ lạc / nandiyā) trạng thái đó"
  - GOOD:"*vui thú với pháp [ấy]* (pháp hỷ/ dhammanandiyā)";
+
+Ví dụ: `upekkhāsatipārisuddhiṁ`
+ - BAD: sự trong sạch của sự *bình thản* và *chú ý quan sát* (niệm / sati) này
+ - GOOD: sự *chú ý quan sát được thanh tịnh nhờ sự bình thản*
+ - lý do: từ upekkhāsatipārisuddhiṁ là một từ ghép, không nên chia ra dịch 
 
 #### 1.3 Nguyên tắc Ngữ-Pháp-Thuần-việt:
 
@@ -231,7 +236,7 @@ Dưới đây là bảng của bạn đã được chuyển đổi sang định 
 | mettā | yêu thương | từ | |
 | karuṇā | che chở | bi | |
 | muditā | hân hoan | hỷ | |
-| upekkhā | bình thản | xả | |
+| upekkhā | tâm bình thản | xả | |
 | pahānā | từ bỏ; hoàn toàn từ bỏ | xả (đoạn tận) | |
 | pīti | hân hoan | hỷ | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
 | somanassa | thư thái | hỷ (duyệt) | |
@@ -370,14 +375,13 @@ Dưới đây là bảng của bạn đã được chuyển đổi sang định 
 | sammappadhānā | Siêng năng thiện | chánh cần | |
 | kāma-/rūpa-/arūpa | bản năng-vật chất-phi vật chất | dục/sắc/vô sắc | |
 | papañca | phóng đại | hý luận | |
-| cetovimutti | tâm được giải thoát | tâm giải thoát | |
-| paññāvimutti | giải thoát bằng trí tuệ | tuệ giải thoát | |
 | mettāsahagatena cetasā | tâm đi với lòng từ | câu hữu từ tâm | |
 | (a)kiriyavādo | thuyết (không) có nghiệp quả | (vô) tác nghiệp luận | |
 | jegucchī | người từ chối | yếm ly giả | |
 | apagabbho | không nhập thai | bất lai thai | |
 | venayiko | người từ bỏ | điều phục giả | |
 | pārājika | lỗi Trục xuất (Ba-la-di) | ba-la-di (khí tội) | |
+| Upekkhāsatipārisuddhi | sự quan sát được thanh tịnh nhờ tâm bình thản | xả niệm thanh tịnh |
 | saṅghādisesa | lỗi Tăng xử lý (Tăng-già-bà-thi-sa) | tăng tàn | tội nặng |
 | thullaccaya | lỗi Nặng (Thâu-lan-giá) | thâu-lan-giá (đại tội) | hối lỗi trước 1 tỳ kheo |
 | pācittiya | lỗi Phạm quy định (Ba-dật-đề) | ba-dật-đề (đọa tội) | hối lỗi trước 1 vị Tỳ kheo |
@@ -385,6 +389,7 @@ Dưới đây là bảng của bạn đã được chuyển đổi sang định 
 | pāṭidesanīya | nhận lỗi (Ba-la-đề-đề-xá-ni) | hối quá (ba-la-đề-đề-xá-ni) | Thừa nhận lỗi |
 | dukkaṭa | lỗi Làm sai (đột-kiết-la) | ác tác (đột-kiết-la) | hối lỗi |
 | dubbhāsita | lỗi Nói sai | ác thuyết | hối lỗi |
+
 </vocabulary-mapping>
 
 ### 4.1 Những từ giữ nguyên
@@ -403,7 +408,9 @@ phàm phu; tu tập; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (sam
 
 ### 4.3 Những dịch câu mẫu:
 
-- `‘Apāṇātipātaṁ nissāya pāṇātipāto pahātabbo’ti iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ?` -> `'Sống theo 'không giết hại', việc giết hại cần được từ bỏ' điều này được nói dựa vào điều gì?”`
+- `āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ` ->  `do lậu hoặc đã đoạn tận [vị ấy] đạt được tâm giải thoát  và tuệ giải thoát không còn lậu hoặc [nữa]`
+
+- `‘Apāṇātipātaṁ nissāya pāṇātipāto pahātabbo’ti iti kho panetaṁ vuttaṁ, kiñcetaṁ paṭicca vuttaṁ?` -> `Sống theo 'không giết hại', việc giết hại cần được từ bỏ' điều này được nói dựa vào điều gì?`
 
 - `...iti yantaṁ vuttaṁ idametaṁ paṭicca vuttaṁ` -> `...điều đã được nói dựa trên điều này`
 

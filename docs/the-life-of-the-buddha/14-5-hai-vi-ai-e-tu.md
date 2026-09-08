@@ -1,8 +1,6 @@
 Chương 5
 # HAI VỊ ĐẠI ĐỆ TỬ
 
-<br>
-
 GIỌNG ĐỌC THỨ HAI. Sự việc diễn ra như sau. Du sĩ Sañjaya đang sống ở thành Rājagaha (Vương Xá) cùng với một hội chúng du sĩ đông đảo, gồm hai trăm năm mươi người. Và Sāriputta (Xá-lợi-phất) cùng Moggallāna (Mục-kiền-liên) đang sống đời phạm hạnh dưới sự hướng dẫn của du sĩ Sañjaya. Họ đã giao ước với nhau rằng ai đạt được Bất tử trước thì phải báo cho người kia biết. Lúc bấy giờ, vào buổi sáng, Tôn giả Assaji (Ác-bệ) đắp y, mang bát và y ngoài, đi vào thành Rājagaha để khất thực. Dáng vẻ của ngài khi đi truyền cảm hứng đầy niềm tin, dù là bước tới hay bước lui, nhìn thẳng hay nhìn sang bên, co tay hay duỗi tay, ánh mắt ngài đều nhìn xuống và ngài di chuyển thật khoan thai. Du sĩ Sāriputta nhìn thấy ngài đang đi khất thực trong thành Rājagaha như vậy, liền nghĩ: "Trên đời này có những vị A-la-hán, những người đã đạt được đạo quả A-la-hán, và vị tỳ-kheo này là một trong số đó. Hay là mình đến gần vị ấy và hỏi xem vị ấy đã xuất gia theo ai, ai là thầy của vị ấy, hoặc vị ấy tin theo Giáo pháp của ai." Nhưng rồi ông lại nghĩ: "Bây giờ không phải lúc để hỏi vị tỳ-kheo này khi ngài đang đi khất thực giữa các nhà. Hay là mình đi theo sau ngài để dò xem những người tìm đạo đã khám phá ra điều gì?"
 
 Khi Tôn giả Assaji đi khất thực xong, ngài rời thành Rājagaha với thức ăn trong bát. Lúc đó, du sĩ Sāriputta tiến đến và chào ngài. Sau khi những lời chào hỏi lịch sự thường lệ kết thúc, ông đứng sang một bên và nói: "Này hiền giả, các căn của ngài thật thanh tịnh, sắc da của ngài thật trong sáng và rạng rỡ. Ngài đã xuất gia theo ai? Hay ai là thầy của ngài? Hoặc ngài tin theo Giáo pháp của ai?"

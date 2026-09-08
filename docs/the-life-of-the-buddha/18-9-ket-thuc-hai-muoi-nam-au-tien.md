@@ -1,8 +1,6 @@
 Chương 9
 # KẾT THÚC HAI MƯƠI NĂM ĐẦU TIÊN
 
-<br>
-
 NGƯỜI KỂ HAI. Mùa an cư thứ mười sau khi Giác ngộ được dành ở Pārileyyaka, trong lúc cuộc cãi vã ở Kosambi đang lên đến đỉnh điểm. Cùng một truyền thống cho rằng mùa an cư thứ mười một được trải qua ở Đồi Nam (những ngọn đồi phía nam Rājagaha), và sự kiện sau đây đã xảy ra vào lúc đó.
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời Thế Tôn trú tại xứ Magadha, ở làng Ekanālā. Lúc đó đang là mùa gieo hạt, và Kasi (người cày ruộng) Bhāradvāja thuộc giai cấp bà-la-môn đang cày với năm trăm cái cày. Vào buổi sáng sớm, Thế Tôn đắp y, mang bát và y ngoài, đi đến nơi Kasi Bhāradvāja đang làm việc. Tình cờ đó là lúc vị bà-la-môn đang phân phát thức ăn. Thế Tôn đi đến chỗ đang phát thức ăn và đứng sang một bên. Vị bà-la-môn thấy Ngài đang đứng chờ khất thực, liền nói:
