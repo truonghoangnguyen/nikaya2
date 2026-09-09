@@ -1,7 +1,7 @@
 # MN 55. Kinh Jīvaka
 ***(Jīvaka Sutta)***
 
-1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), trong vườn xoài của Y sĩ Jīvaka Komārabhacca. [^573]
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), trong vườn xoài của Y sĩ Jīvaka Komārabhacca. [573](/kinhtrungbo/nanamoli-bodhi-vi/notes/055#573){.note}
 
 2\.  Khi ấy, Y sĩ Jīvaka Komārabhacca đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, ông ngồi xuống một bên và bạch Đức Thế Tôn:
 
@@ -9,14 +9,14 @@
 
 4\.  "Này Jīvaka, những người nói như vậy không phải thuật lại lời Ta nói, mà họ xuyên tạc Ta bằng điều không đúng, trái sự thật.
 
-5\.  "Này Jīvaka, Ta nói có ba trường hợp không nên ăn thịt: khi thấy, nghe, hoặc nghi [rằng con vật đó bị giết cho vị tỳ kheo (bhikkhus - nhà sư khất thực)]. Ta nói không nên ăn thịt trong ba trường hợp này. Ta nói có ba trường hợp được phép ăn thịt: khi không thấy, không nghe, và không nghi [rằng con vật đó bị giết cho vị tỳ kheo]. Ta nói được phép ăn thịt trong ba trường hợp này. [^574]
+5\.  "Này Jīvaka, Ta nói có ba trường hợp không nên ăn thịt: khi thấy, nghe, hoặc nghi [rằng con vật đó bị giết cho vị tỳ kheo (bhikkhus - nhà sư khất thực)]. Ta nói không nên ăn thịt trong ba trường hợp này. Ta nói có ba trường hợp được phép ăn thịt: khi không thấy, không nghe, và không nghi [rằng con vật đó bị giết cho vị tỳ kheo]. Ta nói được phép ăn thịt trong ba trường hợp này. [574](/kinhtrungbo/nanamoli-bodhi-vi/notes/055#574){.note}
 
 <!--pg-->
 6\.  "Này Jīvaka, ở đây, có vị tỳ kheo sống nương tựa vào một làng hay thị trấn nào đó. Vị ấy an trú, biến mãn khắp một phương với tâm thấm nhuần lòng từ (loving-kindness - mettā - tâm mong muốn chúng sanh được an vui), phương thứ hai cũng vậy, phương thứ ba cũng vậy, phương thứ tư cũng vậy; cũng vậy, ở trên, ở dưới, xung quanh, và khắp mọi nơi, xem tất cả như chính mình, vị ấy an trú biến mãn toàn thế giới với tâm thấm nhuần lòng từ, bao la, rộng lớn, vô lượng, không hận thù, không sân độc. Rồi một người gia chủ hay con của gia chủ đến mời vị ấy dùng bữa vào ngày hôm sau. Nếu muốn, vị tỳ kheo nhận lời. Qua đêm đó, vào buổi sáng, vị ấy đắp y, mang bát và thượng y, đi đến nhà người gia chủ hay con của gia chủ đó và ngồi vào chỗ đã soạn sẵn. Rồi người gia chủ hay con của gia chủ dâng cúng vật thực khất thực tốt đẹp. Vị ấy không nghĩ rằng: 'Thật tốt quá, người gia chủ hay con của gia chủ này cúng dường cho ta vật thực tốt đẹp! Mong sao trong tương lai cũng có người gia chủ hay con của gia chủ cúng dường cho ta vật thực tốt đẹp như vậy!' Vị ấy không nghĩ như thế. Vị ấy ăn vật thực khất thực đó mà không bị ràng buộc (attachment - sự dính mắc, luyến ái), không say đắm, không hoàn toàn dính mắc vào đó, thấy rõ sự nguy hiểm trong đó và hiểu rõ lối thoát khỏi nó (escape - sự giải thoát khỏi khổ đau). Này Jīvaka, ông nghĩ sao? Trong trường hợp đó, vị tỳ kheo ấy có chủ ý gây khổ não cho mình, hay gây khổ não cho người khác, hay gây khổ não cho cả hai không?" - "Thưa không, bạch Ngài." - "Vậy trong trường hợp đó, vị tỳ kheo ấy có phải đang nuôi sống mình bằng vật thực không đáng chê trách không?"
 
 7\.  "Thưa vâng, bạch Ngài. Con từng nghe rằng: 'Phạm Thiên an trú trong lòng từ.' Bạch Ngài, Đức Thế Tôn chính là bằng chứng sống cho điều đó; vì Đức Thế Tôn an trú trong lòng từ."
 
-"Này Jīvaka, mọi tham ái, [370] mọi sân hận, mọi si mê (delusion - moha - sự vô minh, không thấy rõ sự thật) nào có thể làm phát sinh ác ý (ill will - byāpāda - tâm muốn làm hại) đều đã được Như Lai đoạn tận, cắt tận gốc rễ, làm như thân cây kè đã bị chặt ngọn, diệt trừ, khiến chúng không còn có thể sanh khởi trong tương lai nữa. [^575] Nếu lời ông nói nhắm vào ý nghĩa đó, thì Ta chấp nhận."
+"Này Jīvaka, mọi tham ái, [370] mọi sân hận, mọi si mê (delusion - moha - sự vô minh, không thấy rõ sự thật) nào có thể làm phát sinh ác ý (ill will - byāpāda - tâm muốn làm hại) đều đã được Như Lai đoạn tận, cắt tận gốc rễ, làm như thân cây kè đã bị chặt ngọn, diệt trừ, khiến chúng không còn có thể sanh khởi trong tương lai nữa. [575](/kinhtrungbo/nanamoli-bodhi-vi/notes/055#575){.note} Nếu lời ông nói nhắm vào ý nghĩa đó, thì Ta chấp nhận."
 
 "Kính bạch Ngài, điều con nói chính là nhắm vào ý nghĩa đó."
 
@@ -26,7 +26,7 @@
 <!--pg-->
 11\. "Thưa vâng, bạch Ngài. Con từng nghe rằng: 'Phạm Thiên an trú trong tâm xả.' Bạch Ngài, Đức Thế Tôn chính là bằng chứng sống cho điều đó; vì Đức Thế Tôn an trú trong tâm xả."
 
-"Này Jīvaka, mọi tham ái, mọi sân hận, mọi si mê nào có thể làm phát sinh sự tàn nhẫn (cruelty - vihiṃsā - tâm làm hại), sự bất mãn (discontent - arati - sự không hài lòng, chán nản) hay sự ghét bỏ (aversion - paṭigha - sự chống đối, ác cảm) đều đã được Như Lai đoạn tận, cắt tận gốc rễ, làm như thân cây kè đã bị chặt ngọn, diệt trừ, khiến chúng không còn có thể sanh khởi trong tương lai nữa. [^576] Nếu lời ông nói nhắm vào ý nghĩa đó, thì Ta chấp nhận." [371]
+"Này Jīvaka, mọi tham ái, mọi sân hận, mọi si mê nào có thể làm phát sinh sự tàn nhẫn (cruelty - vihiṃsā - tâm làm hại), sự bất mãn (discontent - arati - sự không hài lòng, chán nản) hay sự ghét bỏ (aversion - paṭigha - sự chống đối, ác cảm) đều đã được Như Lai đoạn tận, cắt tận gốc rễ, làm như thân cây kè đã bị chặt ngọn, diệt trừ, khiến chúng không còn có thể sanh khởi trong tương lai nữa. [576](/kinhtrungbo/nanamoli-bodhi-vi/notes/055#576){.note} Nếu lời ông nói nhắm vào ý nghĩa đó, thì Ta chấp nhận." [371]
 
 "Kính bạch Ngài, điều con nói chính là nhắm vào ý nghĩa đó."
 

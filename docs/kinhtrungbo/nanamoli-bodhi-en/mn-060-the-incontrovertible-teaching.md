@@ -7,7 +7,7 @@
 
 3\. Then the brahmin householders of Sālā went to the Blessed One. Some paid homage to the Blessed One and sat down at one side; some exchanged greetings with him, and when this courteous and amiable talk was finished, sat down at one side; some extended their hands in reverential salutation towards the Blessed One and sat down at one side; some pronounced their name and clan in the Blessed One's presence and sat down at one side; some kept silent and sat down at one side.
 
-4\. When they were seated, the Blessed One asked them: "Householders, is there any teacher agreeable to you in whom you have acquired faith supported by reasons?"619
+4\. When they were seated, the Blessed One asked them: "Householders, is there any teacher agreeable to you in whom you have acquired faith supported by reasons?"[^619]
 "No, venerable sir, there is no teacher agreeable to us in whom we have acquired faith supported by reasons."
 
 "Since, householders, you have not found an agreeable teacher, you may undertake and practise this incontrovertible teaching, [^620] for when the incontrovertible teaching is accepted and undertaken, it will lead to your welfare and happiness for a long time. And what is the incontrovertible teaching? [^621]
@@ -15,7 +15,7 @@
 <!--pg-->
 #### (I. THE DOCTRINE OF NIHILISM)
 
-5\. (A) "Householders, there are some recluses and brahmins whose doctrine and view is this: 'There is nothing given, nothing offered, nothing sacrificed; no fruit or result of good and bad actions; no this world, no other world; no mother, no father; no beings who are reborn spontaneously; no good and virtuous recluses and brahmins in the world who have themselves realised by direct knowledge and declare this world and the other world. [^1622] [402]
+5\. (A) "Householders, there are some recluses and brahmins whose doctrine and view is this: 'There is nothing given, nothing offered, nothing sacrificed; no fruit or result of good and bad actions; no this world, no other world; no mother, no father; no beings who are reborn spontaneously; no good and virtuous recluses and brahmins in the world who have themselves realised by direct knowledge and declare this world and the other world. [^622] [402]
 
 6\. (B) "Now there are some recluses and brahmins whose doctrine is directly opposed to that of those recluses and brahmins, and they say thus: 'There is what is given and what is offered and what is sacrificed; there is fruit and result of good and bad actions; there is this world and the other world; there is mother and father; there are beings who are reborn spontaneously; there are good and virtuous recluses and brahmins in the world who have themselves realised by direct knowledge and declare this world and the other world.' What do you think, householders? Don't these recluses and brahmins hold doctrines directly opposed to each other?" - "Yes, venerable sir."
 
@@ -33,7 +33,7 @@ have themselves realised by direct knowledge and declare this world and the othe
 11\. (B.ii) "Since there actually is another world, one who holds the view 'there is another world' has right view. Since there actually is another world, one who intends 'there is another world' has right intention. Since there actually is another world, one who makes the statement 'there is another world' has right speech. Since there actually is another world, one who says 'there is another world' is not opposed to those arahants who know the other world. Since there actually is another world, one who convinces another 'there is another world' [404] convinces him to accept true Dhamma; and because he convinces another to accept true Dhamma, he does not praise himself and disparage others. Thus any corrupt conduct that he formerly had is abandoned and pure virtue is substituted. And this right view, right intention, right speech, non-opposition to noble ones, convincing another to accept true Dhamma, and avoidance of selfpraise and disparagement of others - these several wholesome states thus come into being with right view as their condition.
 
 12\. (B.iii) "About this a wise man considers thus: 'If there is another world, then on the dissolution of the body, after death, this good person will reappear in a happy destination, even in the heavenly world. Now whether or not the word of those good recluses and brahmins is true, let me assume that there is no other world: still this good person is here and now praised by the wise as a virtuous person, one with right view who holds the doctrine of affirmation. [^627] And on the other hand, if there is another world, then this good person has made a lucky throw on both counts: since he is praised by the wise here and now, and since on the dissolution of the body, after death, he will reappear in a happy destination, even in the heavenly world. He has rightly accepted and undertaken this incontrovertible
-teaching in such a way that it extends to both sides and excludes the unwholesome alternative. [^1628]
+teaching in such a way that it extends to both sides and excludes the unwholesome alternative. [^628]
 
 <!--pg-->
 #### (II. THE DOCTRINE OF NON-DOING)
@@ -84,7 +84,7 @@ doctrine of causality. And on the other hand, if there is [410] causality, then 
 <!--pg-->
 #### (IV. THERE ARE NO IMMATERIAL REALMS)
 
-29\. "Householders, there are some recluses and brahmins whose doctrine and view is this: 'There are definitely no immaterial realms. [^1632]
+29\. "Householders, there are some recluses and brahmins whose doctrine and view is this: 'There are definitely no immaterial realms. [^632]
 
 30\. "Now there are some recluses and brahmins whose doctrine is directly opposed to that of those recluses and brahmins, and they say thus: 'There definitely are immaterial realms.' What do you think, householders? Don't these recluses and brahmins hold doctrines directly opposed to each other?" "Yes, venerable sir."
 

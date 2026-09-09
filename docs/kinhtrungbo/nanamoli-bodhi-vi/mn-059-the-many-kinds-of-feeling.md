@@ -3,7 +3,7 @@
 
 1\.  Tôi nghe như vầy. Một thời, Đức Thế Tôn (The World-Honored One - Bậc được tôn kính trên đời) trú tại thành Xá-vệ (Sāvatthī), trong Vườn Cấp Cô Độc (Anāthapiṇḍika), Rừng cây Kỳ-đà (Jeta).
 
-2\.  Lúc bấy giờ, người thợ mộc Pañcakanga [^615] đi đến chỗ Tôn giả Udāyin, sau khi đảnh lễ Tôn giả, ông ngồi xuống một bên và hỏi:
+2\.  Lúc bấy giờ, người thợ mộc Pañcakanga [615](/kinhtrungbo/nanamoli-bodhi-vi/notes/059#615){.note} đi đến chỗ Tôn giả Udāyin, sau khi đảnh lễ Tôn giả, ông ngồi xuống một bên và hỏi:
 
 3\.  "Thưa Tôn giả, Đức Thế Tôn đã tuyên thuyết có bao nhiêu loại cảm thọ (vedanā - cảm giác, sự trải nghiệm)?"
 
@@ -16,7 +16,7 @@ Lần thứ hai và lần thứ ba, Tôn giả Udāyin khẳng định lập tr�
 <!--pg-->
 4\.  Tôn giả Ānanda nghe được cuộc đối thoại của họ. Sau đó, ngài đi đến chỗ Đức Thế Tôn, đảnh lễ Ngài, rồi ngồi xuống một bên và thuật lại toàn bộ cuộc đối thoại giữa Tôn giả Udāyin và người thợ mộc Pañcakanga cho Đức Thế Tôn nghe. Khi Tôn giả Ānanda thuật xong, Đức Thế Tôn bảo ngài:
 
-5\.  "Này Ānanda, quả thực đó là một cách trình bày đúng mà người thợ mộc Pañcakanga không chấp nhận từ Udāyin, và cũng quả thực đó là một cách trình bày đúng mà Udāyin không chấp nhận từ người thợ mộc Pañcakanga. Ta đã tuyên thuyết hai loại cảm thọ trong một cách trình bày; [398] Ta đã tuyên thuyết ba loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết năm loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết sáu loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết mười tám loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết ba mươi sáu loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết một trăm lẻ tám loại cảm thọ trong một cách trình bày khác. [^616] Đó là cách Pháp (Dhamma - Giáo pháp, lời dạy của Đức Phật, chân lý) đã được Ta giảng giải theo nhiều cách trình bày khác nhau.
+5\.  "Này Ānanda, quả thực đó là một cách trình bày đúng mà người thợ mộc Pañcakanga không chấp nhận từ Udāyin, và cũng quả thực đó là một cách trình bày đúng mà Udāyin không chấp nhận từ người thợ mộc Pañcakanga. Ta đã tuyên thuyết hai loại cảm thọ trong một cách trình bày; [398] Ta đã tuyên thuyết ba loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết năm loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết sáu loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết mười tám loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết ba mươi sáu loại cảm thọ trong một cách trình bày khác; Ta đã tuyên thuyết một trăm lẻ tám loại cảm thọ trong một cách trình bày khác. [616](/kinhtrungbo/nanamoli-bodhi-vi/notes/059#616){.note} Đó là cách Pháp (Dhamma - Giáo pháp, lời dạy của Đức Phật, chân lý) đã được Ta giảng giải theo nhiều cách trình bày khác nhau.
 
 "Khi Pháp đã được Ta giảng giải theo nhiều cách trình bày khác nhau như vậy, đối với những người không thừa nhận, không cho phép, và không chấp nhận những gì được người khác nói đúng, nói hay, thì có thể đoán trước rằng họ sẽ đi đến chỗ cãi cọ, gây gổ, tranh chấp, đâm chém nhau bằng lời nói sắc bén. Nhưng đối với những người thừa nhận, cho phép, và chấp nhận những gì được người khác nói đúng, nói hay, thì có thể đoán trước rằng họ sẽ sống hòa hợp, quý mến lẫn nhau, không tranh cãi, hòa thuận như nước với sữa, nhìn nhau bằng ánh mắt từ ái.
 
@@ -29,7 +29,7 @@ Lần thứ hai và lần thứ ba, Tôn giả Udāyin khẳng định lập tr�
 
 9\.  "Nếu có ai nói... Và loại lạc khác đó là gì? Này Ānanda, ở đây, do ly hỷ, một tỳ kheo trú trong xả (upekkhā - sự bình tâm, không dao động trước thuận nghịch), chánh niệm (sati - sự tỉnh thức, ghi nhớ đối tượng hiện tại) và tỉnh giác (sampajañña - sự hiểu biết rõ ràng về những gì đang xảy ra), và vẫn cảm nhận lạc bằng thân, vị ấy chứng và trú vào tam thiền (tatiya jhāna - tầng thiền thứ ba), mà các bậc Thánh (ariya - những vị đã đạt được các tầng thánh quả) tuyên bố: 'Người có xả và chánh niệm trú trong an lạc.' Đây là loại lạc khác cao thượng và vi diệu hơn loại lạc trước.
 
-10\. "Nếu có ai nói... Và loại lạc khác đó là gì? Này Ānanda, ở đây, do xả lạc và xả khổ, và do diệt trừ hỷ và ưu đã có từ trước, một tỳ kheo chứng và trú vào tứ thiền (catuttha jhāna - tầng thiền thứ tư), một trạng thái không khổ không lạc, có sự thanh tịnh của niệm nhờ xả. Đây là loại lạc khác cao thượng và vi diệu hơn loại lạc trước. [^617]
+10\. "Nếu có ai nói... Và loại lạc khác đó là gì? Này Ānanda, ở đây, do xả lạc và xả khổ, và do diệt trừ hỷ và ưu đã có từ trước, một tỳ kheo chứng và trú vào tứ thiền (catuttha jhāna - tầng thiền thứ tư), một trạng thái không khổ không lạc, có sự thanh tịnh của niệm nhờ xả. Đây là loại lạc khác cao thượng và vi diệu hơn loại lạc trước. [617](/kinhtrungbo/nanamoli-bodhi-vi/notes/059#617){.note}
 
 <!--pg-->
 11\. "Nếu có ai nói... Và loại lạc khác đó là gì? Này Ānanda, ở đây, do vượt hoàn toàn tưởng về sắc (rūpa saññā - sự nhận biết các hình tướng vật chất), do diệt trừ tưởng về đối ngại (paṭigha saññā - sự nhận biết về sự va chạm của các giác quan với đối tượng), do không tác ý đến tưởng về sự đa dạng (nānattasaññā - sự nhận biết về tính đa dạng, khác biệt của các pháp), nhận biết 'không gian là vô biên,' một tỳ kheo chứng và trú vào không vô biên xứ (ākāsānañcāyatana - tầng thiền vô sắc thứ nhất, nơi đối tượng là không gian vô tận). Đây là loại lạc khác cao thượng và vi diệu hơn loại lạc trước.
@@ -42,7 +42,7 @@ Lần thứ hai và lần thứ ba, Tôn giả Udāyin khẳng định lập tr�
 
 15\. "Nếu có ai nói: 'Đó là niềm vui và sự hân hoan cao tột mà chúng sinh trải nghiệm,' Ta không chấp nhận điều đó. Vì sao vậy? Bởi vì có một loại lạc khác cao thượng và vi diệu hơn loại lạc đó. Và loại lạc khác đó là gì? Này Ānanda, ở đây, do vượt hoàn toàn phi tưởng phi phi tưởng xứ, một tỳ kheo chứng và trú vào diệt thọ tưởng định (saññāvedayitanirodha - trạng thái chấm dứt hoàn toàn cảm thọ và tưởng). Đây là loại lạc khác cao thượng và vi diệu hơn loại lạc trước.
 
-16\. "Này Ānanda, có thể các du sĩ ngoại đạo (aññatitthiya paribbājaka - những người tu hành thuộc các trường phái khác ngoài Phật giáo) sẽ nói như thế này: 'Sa-môn Cồ-đàm (Samaṇa Gotama - cách gọi Đức Phật của những người ngoài đạo) nói về diệt thọ tưởng định và mô tả đó là lạc. Điều này là gì, và tại sao lại như vậy?' Những du sĩ ngoại đạo nói như vậy nên được trả lời rằng: 'Này các bạn, Đức Thế Tôn mô tả lạc không chỉ liên quan đến lạc thọ; mà này các bạn, Như Lai mô tả là lạc bất kỳ loại lạc nào, bất cứ nơi đâu và bằng bất cứ cách nào nó được tìm thấy.'"618
+16\. "Này Ānanda, có thể các du sĩ ngoại đạo (aññatitthiya paribbājaka - những người tu hành thuộc các trường phái khác ngoài Phật giáo) sẽ nói như thế này: 'Sa-môn Cồ-đàm (Samaṇa Gotama - cách gọi Đức Phật của những người ngoài đạo) nói về diệt thọ tưởng định và mô tả đó là lạc. Điều này là gì, và tại sao lại như vậy?' Những du sĩ ngoại đạo nói như vậy nên được trả lời rằng: 'Này các bạn, Đức Thế Tôn mô tả lạc không chỉ liên quan đến lạc thọ; mà này các bạn, Như Lai mô tả là lạc bất kỳ loại lạc nào, bất cứ nơi đâu và bằng bất cứ cách nào nó được tìm thấy.'"[618](/kinhtrungbo/nanamoli-bodhi-vi/notes/059#618){.note}
 
 Đó là những gì Đức Thế Tôn đã nói. Tôn giả Ānanda hoan hỷ và tín thọ lời dạy của Đức Thế Tôn.
 

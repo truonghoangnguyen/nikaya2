@@ -56,10 +56,10 @@ Tôn thỏa mãn với những món ăn thượng vị, loại cứng và loại
 sau khi đã dùng xong, tay đã rời khỏi bát, liền lấy một ghế thấp khác rồi ngồi xuống một bên. Sau khi
 ngồi một bên, Vương tử Abhaya bạch Thế Tôn:
 
-<!--pg-->
 -- Bạch Thế Tôn, Như Lai có thể nói những lời, do những lời ấy người khác không ưa, không thích
 chăng?
 
+<!--pg-->
 -- Này Vương tử, phải chăng ở đây, (câu hỏi) có dụng ý một chiều?
 
 -- Bạch Thế Tôn, các vị Nigantha đã bị bại ở đây rồi.
