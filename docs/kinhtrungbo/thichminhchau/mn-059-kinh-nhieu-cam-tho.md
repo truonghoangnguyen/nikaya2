@@ -1,3 +1,8 @@
+---
+tags:
+ - Udāyī
+ - thọ (cảm thọ)
+---
 # MN 59. KINH NHIỀU CẢM THỌ
 
 ***(Bahuvedanìya Sutta)***

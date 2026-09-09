@@ -5,7 +5,7 @@
 
 2\.  Vào lúc ấy, một giảng đường mới vừa được xây dựng cho dòng họ Thích Ca ở Ca-tỳ-la-vệ, và chưa có vị sa-môn (recluse - tu sĩ khổ hạnh), bà-la-môn (brahmin - tu sĩ thuộc giai cấp Bà-la-môn) hay bất kỳ người nào ở trong đó. Bấy giờ, những người dòng họ Thích Ca ở Ca-tỳ-la-vệ đi đến chỗ Thế Tôn. Sau khi đảnh lễ Ngài, họ ngồi xuống một bên và bạch rằng:
 
-"Bạch Thế Tôn, một giảng đường mới vừa được xây dựng tại đây cho dòng họ Thích Ca ở Ca-tỳ-la-vệ, và chưa có vị sa-môn, bà-la-môn hay bất kỳ người nào ở trong đó. Bạch Thế Tôn, xin Thế Tôn hãy là người đầu tiên sử dụng giảng đường này. Sau khi Thế Tôn sử dụng trước, thì dòng họ Thích Ca ở Ca-tỳ-la-vệ sẽ sử dụng sau. Điều đó sẽ mang lại lợi ích và hạnh phúc lâu dài cho chúng con." [^557] [354]
+"Bạch Thế Tôn, một giảng đường mới vừa được xây dựng tại đây cho dòng họ Thích Ca ở Ca-tỳ-la-vệ, và chưa có vị sa-môn, bà-la-môn hay bất kỳ người nào ở trong đó. Bạch Thế Tôn, xin Thế Tôn hãy là người đầu tiên sử dụng giảng đường này. Sau khi Thế Tôn sử dụng trước, thì dòng họ Thích Ca ở Ca-tỳ-la-vệ sẽ sử dụng sau. Điều đó sẽ mang lại lợi ích và hạnh phúc lâu dài cho chúng con." [557](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#557){.note} [354]
 
 3\.  Thế Tôn im lặng nhận lời. Khi thấy Ngài đã chấp thuận, họ từ chỗ ngồi đứng dậy, đảnh lễ Ngài, đi quanh Ngài về phía bên phải, rồi đi đến giảng đường. Họ trải thảm khắp giảng đường, chuẩn bị chỗ ngồi, đặt một bình nước lớn và treo một ngọn đèn dầu. Sau đó, họ quay lại chỗ Thế Tôn, đảnh lễ Ngài, đứng sang một bên và bạch rằng:
 
@@ -15,7 +15,7 @@
 
 5\.  Sau đó, khi Thế Tôn đã khai thị, khích lệ, làm phấn chấn và sách tấn những người dòng họ Thích Ca ở Ca-tỳ-la-vệ bằng bài Pháp thoại trong phần lớn đêm, Ngài nói với Tôn giả A-nan (Ānanda):
 
-"Này A-nan, hãy nói cho những người dòng họ Thích Ca ở Ca-tỳ-la-vệ về vị hữu học (sekha - người còn đang tu học, chưa phải A-la-hán) đã nhập vào đạo lộ (entered upon the way - đã bước vào con đường tu tập). [^558] Lưng Ta hơi mỏi. Ta sẽ nghỉ ngơi."
+"Này A-nan, hãy nói cho những người dòng họ Thích Ca ở Ca-tỳ-la-vệ về vị hữu học (sekha - người còn đang tu học, chưa phải A-la-hán) đã nhập vào đạo lộ (entered upon the way - đã bước vào con đường tu tập). [558](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#558){.note} Lưng Ta hơi mỏi. Ta sẽ nghỉ ngơi."
 
 "Vâng, bạch Thế Tôn," Tôn giả A-nan đáp.
 
@@ -43,15 +43,15 @@ Rồi Thế Tôn xếp y tăng-già-lê (patchwork cloak - loại y gồm nhiề
 
 12\. "Vị ấy có tàm (shame - sự hổ thẹn với lương tâm khi làm điều xấu); vị ấy hổ thẹn về những hành vi sai trái qua thân, khẩu, và ý, hổ thẹn khi làm các điều ác, bất thiện.
 
-13\. "Vị ấy có quý (fear of wrongdoing - sự ghê sợ hậu quả của việc xấu); vị ấy sợ hãi những hành vi sai trái qua thân, khẩu, và ý, sợ hãi khi làm các điều ác, bất thiện. [^559]
+13\. "Vị ấy có quý (fear of wrongdoing - sự ghê sợ hậu quả của việc xấu); vị ấy sợ hãi những hành vi sai trái qua thân, khẩu, và ý, sợ hãi khi làm các điều ác, bất thiện. [559](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#559){.note}
 
 14\. "Vị ấy là người đa văn (learned much - nghe và học hỏi nhiều giáo pháp), ghi nhớ những gì đã học, tích lũy những gì đã học. Những lời dạy nào tốt đẹp ở phần đầu, tốt đẹp ở phần giữa, và tốt đẹp ở phần cuối, có ý nghĩa và lời văn đúng đắn, khẳng định một đời sống phạm hạnh hoàn toàn viên mãn và thanh tịnh – những lời dạy như vậy, vị ấy đã nghe nhiều, ghi nhớ, tụng đọc thuộc lòng, dùng tâm quán xét và khéo thể nhập bằng trí tuệ.
 
 15\. "Vị ấy có tinh tấn (energetic - siêng năng, nỗ lực) trong việc từ bỏ các pháp bất thiện và thực hành các pháp thiện; vị ấy kiên trì, nỗ lực vững vàng, không lơ là trong việc phát triển các pháp thiện.
 
-16\. "Vị ấy có niệm (mindfulness - sự chú tâm, ghi nhớ); vị ấy sở hữu niệm lực và sự khéo léo cao nhất; vị ấy nhớ lại và hồi tưởng những việc đã làm, những lời đã nói từ lâu. [^560]
+16\. "Vị ấy có niệm (mindfulness - sự chú tâm, ghi nhớ); vị ấy sở hữu niệm lực và sự khéo léo cao nhất; vị ấy nhớ lại và hồi tưởng những việc đã làm, những lời đã nói từ lâu. [560](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#560){.note}
 
-17\. "Vị ấy có trí tuệ; vị ấy sở hữu trí tuệ về sự sinh diệt (wisdom regarding rise and disappearance - trí tuệ thấy rõ sự hình thành và tan biến của các pháp), là trí tuệ cao thượng và thể nhập (noble and penetrative - trí tuệ siêu việt, có khả năng thấu suốt), dẫn đến sự đoạn tận khổ đau hoàn toàn (complete destruction of suffering - sự chấm dứt hoàn toàn mọi khổ não). [^561] Như vậy là một vị thánh đệ tử sở hữu bảy diệu pháp.
+17\. "Vị ấy có trí tuệ; vị ấy sở hữu trí tuệ về sự sinh diệt (wisdom regarding rise and disappearance - trí tuệ thấy rõ sự hình thành và tan biến của các pháp), là trí tuệ cao thượng và thể nhập (noble and penetrative - trí tuệ siêu việt, có khả năng thấu suốt), dẫn đến sự đoạn tận khổ đau hoàn toàn (complete destruction of suffering - sự chấm dứt hoàn toàn mọi khổ não). [561](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#561){.note} Như vậy là một vị thánh đệ tử sở hữu bảy diệu pháp.
 
 <!--pg-->
 18\. "Và thế nào là một vị thánh đệ tử dễ dàng chứng đắc, không khó khăn, không mệt nhọc bốn tầng thiền na thuộc về thắng tâm và mang lại sự hiện tại lạc trú? Ở đây, do ly dục (secluded from sensual pleasures - xa lìa các ham muốn thế tục), ly bất thiện pháp (secluded from unwholesome states - xa lìa các trạng thái tâm xấu ác), vị thánh đệ tử chứng và trú sơ thiền... Do làm lắng dịu tầm và tứ (applied and sustained thought - sự hướng tâm đến đối tượng và sự duy trì tâm trên đối tượng), vị ấy chứng và trú nhị thiền... Do ly hỷ (rapture - niềm vui thích, phấn khởi)... vị ấy chứng và trú tam thiền... Do xả lạc (pleasure - cảm giác dễ chịu, hạnh phúc) và khổ... vị ấy chứng và trú tứ thiền, trạng thái không khổ không lạc (neither-pain-nor-pleasure - trạng thái trung tính, không khổ không lạc), niệm thanh tịnh nhờ xả (equanimity - sự bình tâm, không dao động). Như vậy là một vị thánh đệ tử dễ dàng chứng đắc, không khó khăn, không mệt nhọc bốn tầng thiền na thuộc về thắng tâm và mang lại sự hiện tại lạc trú.
@@ -59,17 +59,17 @@ Rồi Thế Tôn xếp y tăng-già-lê (patchwork cloak - loại y gồm nhiề
 19\. "Khi một vị thánh đệ tử đã trở thành người có giới hạnh, hộ trì các căn, tiết độ trong ăn uống, chuyên tâm tỉnh thức, sở hữu bảy diệu pháp, [357] dễ dàng chứng đắc, không khó khăn, không mệt nhọc bốn tầng thiền na thuộc về thắng tâm và mang lại sự hiện tại lạc trú, vị ấy được gọi là bậc hữu học đã nhập vào đạo lộ. Trứng của vị ấy không bị hư; vị ấy có khả năng phá vỡ (breaking out - sự đột phá, thoát ra khỏi trạng thái cũ, ẩn dụ cho giác ngộ), có khả năng giác ngộ, có khả năng đạt được sự an ổn vô thượng khỏi mọi ràng buộc (supreme security from bondage - sự giải thoát tối cao khỏi mọi ràng buộc, tức Niết Bàn).
 
 <!--pg-->
-"Ví như có một con gà mái có tám, mười hoặc mười hai quả trứng, mà nó đã ấp, đã ủ, đã nuôi dưỡng đúng cách. [^562]
+"Ví như có một con gà mái có tám, mười hoặc mười hai quả trứng, mà nó đã ấp, đã ủ, đã nuôi dưỡng đúng cách. [562](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#562){.note}
 
 Dù cho nó không mong muốn: 'Mong sao gà con của ta có thể dùng mỏ và móng chân mổ vỡ vỏ trứng và nở ra an toàn!', nhưng đàn gà con vẫn có khả năng dùng mỏ và móng chân mổ vỡ vỏ trứng và nở ra an toàn. Cũng vậy, khi một vị thánh đệ tử đã trở thành người có giới hạnh... vị ấy được gọi là bậc hữu học đã nhập vào đạo lộ. Trứng của vị ấy không bị hư; vị ấy có khả năng phá vỡ, có khả năng giác ngộ, có khả năng đạt được sự an ổn vô thượng khỏi mọi ràng buộc.
 
-20\. "Khi đã đạt đến chính niệm tối thượng thanh tịnh nhờ xả ấy, [^563] vị thánh đệ tử này nhớ lại nhiều đời quá khứ của mình...(như trong Kinh số 51, đoạn 24)... Như vậy, vị ấy nhớ lại nhiều đời quá khứ cùng với các khía cạnh và chi tiết của chúng. Đây là sự phá vỡ lần thứ nhất của vị ấy, giống như gà con phá vỡ vỏ trứng.
+20\. "Khi đã đạt đến chính niệm tối thượng thanh tịnh nhờ xả ấy, [563](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#563){.note} vị thánh đệ tử này nhớ lại nhiều đời quá khứ của mình...(như trong Kinh số 51, đoạn 24)... Như vậy, vị ấy nhớ lại nhiều đời quá khứ cùng với các khía cạnh và chi tiết của chúng. Đây là sự phá vỡ lần thứ nhất của vị ấy, giống như gà con phá vỡ vỏ trứng.
 
 21\. "Khi đã đạt đến chính niệm tối thượng thanh tịnh nhờ xả ấy, với thiên nhãn (divine eye - khả năng nhìn thấy các cảnh giới khác và sự tái sinh của chúng sinh), vốn thanh tịnh và vượt xa mắt người thường, vị thánh đệ tử này thấy chúng sinh chết đi và tái sinh...(như trong Kinh số 51, đoạn 25)... vị ấy hiểu rõ chúng sinh trôi lăn tùy theo nghiệp của họ. Đây là sự phá vỡ lần thứ hai của vị ấy, giống như gà con phá vỡ vỏ trứng.
 
-22\. "Khi đã đạt đến chính niệm tối thượng thanh tịnh nhờ xả ấy, nhờ tự mình chứng ngộ bằng thắng trí (direct knowledge - sự hiểu biết trực tiếp, không qua suy luận), vị thánh đệ tử này ngay trong hiện tại chứng đạt và an trú trong tâm giải thoát (deliverance of mind - sự giải thoát khỏi tham ái) và tuệ giải thoát (deliverance by wisdom - sự giải thoát khỏi vô minh), là vô lậu (taintless - không còn các phiền não, ô nhiễm) do sự đoạn tận các lậu hoặc (destruction of the taints - sự chấm dứt hoàn toàn các phiền não, ô nhiễm). [358] Đây là sự phá vỡ lần thứ ba của vị ấy, giống như gà con phá vỡ vỏ trứng. [^564]
+22\. "Khi đã đạt đến chính niệm tối thượng thanh tịnh nhờ xả ấy, nhờ tự mình chứng ngộ bằng thắng trí (direct knowledge - sự hiểu biết trực tiếp, không qua suy luận), vị thánh đệ tử này ngay trong hiện tại chứng đạt và an trú trong tâm giải thoát (deliverance of mind - sự giải thoát khỏi tham ái) và tuệ giải thoát (deliverance by wisdom - sự giải thoát khỏi vô minh), là vô lậu (taintless - không còn các phiền não, ô nhiễm) do sự đoạn tận các lậu hoặc (destruction of the taints - sự chấm dứt hoàn toàn các phiền não, ô nhiễm). [358] Đây là sự phá vỡ lần thứ ba của vị ấy, giống như gà con phá vỡ vỏ trứng. [564](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#564){.note}
 
-23\. "Khi một vị thánh đệ tử có giới hạnh, đó là hạnh (conduct - hành vi, cách cư xử, thực hành) của vị ấy. Khi vị ấy hộ trì các căn, đó là hạnh của vị ấy. Khi vị ấy tiết độ trong ăn uống, đó là hạnh của vị ấy. Khi vị ấy chuyên tâm tỉnh thức, đó là hạnh của vị ấy. Khi vị ấy sở hữu bảy diệu pháp, đó là hạnh của vị ấy. Khi vị ấy dễ dàng chứng đắc, không khó khăn, không mệt nhọc bốn tầng thiền na thuộc về thắng tâm và mang lại sự hiện tại lạc trú, đó là hạnh của vị ấy. [^565]
+23\. "Khi một vị thánh đệ tử có giới hạnh, đó là hạnh (conduct - hành vi, cách cư xử, thực hành) của vị ấy. Khi vị ấy hộ trì các căn, đó là hạnh của vị ấy. Khi vị ấy tiết độ trong ăn uống, đó là hạnh của vị ấy. Khi vị ấy chuyên tâm tỉnh thức, đó là hạnh của vị ấy. Khi vị ấy sở hữu bảy diệu pháp, đó là hạnh của vị ấy. Khi vị ấy dễ dàng chứng đắc, không khó khăn, không mệt nhọc bốn tầng thiền na thuộc về thắng tâm và mang lại sự hiện tại lạc trú, đó là hạnh của vị ấy. [565](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#565){.note}
 
 24\. "Khi vị ấy nhớ lại nhiều đời quá khứ... cùng với các khía cạnh và chi tiết của chúng, đó là minh (true knowledge - trí tuệ thấy biết đúng sự thật) của vị ấy. Khi, với thiên nhãn... vị ấy thấy chúng sinh chết đi và tái sinh và hiểu rõ chúng sinh trôi lăn tùy theo nghiệp của họ, đó là minh của vị ấy. Khi, nhờ tự mình chứng ngộ bằng thắng trí, vị ấy ngay trong hiện tại chứng đạt và an trú trong tâm giải thoát và tuệ giải thoát, là vô lậu do sự đoạn tận các lậu hoặc, đó là minh của vị ấy.
 
@@ -80,7 +80,7 @@ Dù cho nó không mong muốn: 'Mong sao gà con của ta có thể dùng mỏ 
 *Nhưng giữa trời và người, bậc tối thắng là*<br>
 *Người viên mãn minh và hạnh.'*<br>
 
-"Bài kệ đó đã được Phạm thiên Sanankumāra khéo hát lên, không phải vụng hát; đã được khéo nói lên, không phải vụng nói; bài kệ đó có ý nghĩa, không vô nghĩa; và đã được Thế Tôn chấp thuận." [^566]
+"Bài kệ đó đã được Phạm thiên Sanankumāra khéo hát lên, không phải vụng hát; đã được khéo nói lên, không phải vụng nói; bài kệ đó có ý nghĩa, không vô nghĩa; và đã được Thế Tôn chấp thuận." [566](/kinhtrungbo/nanamoli-bodhi-vi/notes/053#566){.note}
 
 26\. Bấy giờ, Thế Tôn đứng dậy và nói với Tôn giả A-nan như sau: "Lành thay, lành thay, A-nan! Thật tốt khi ông đã nói cho những người dòng họ Thích Ca ở Ca-tỳ-la-vệ về vị hữu học đã nhập vào đạo lộ." [359]
 

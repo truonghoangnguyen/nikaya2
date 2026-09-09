@@ -3,15 +3,15 @@
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại Nālandā, trong vườn xoài của Pāvārika.
 
-2\.  Bấy giờ, Ni-kiền-tử Nātaputta đang ở tại Nālandā cùng với một hội chúng đông đảo các Ni-kiền-tử. Khi ấy, một Ni-kiền-tử tên là Dīgha Tapassi [^578] sau khi đi khất thực ở Nālandā, thọ thực xong, đã đi đến vườn xoài của Pāvārika để yết kiến Đức Thế Tôn. [372] Vị ấy chào hỏi Đức Thế Tôn, và sau khi trao đổi những lời thăm hỏi thân tình, liền đứng sang một bên. Khi vị ấy đang đứng đó, Đức Thế Tôn bảo: "Này Tapassi, có chỗ ngồi kia, nếu muốn ông cứ ngồi."
+2\.  Bấy giờ, Ni-kiền-tử Nātaputta đang ở tại Nālandā cùng với một hội chúng đông đảo các Ni-kiền-tử. Khi ấy, một Ni-kiền-tử tên là Dīgha Tapassi [578](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#578){.note} sau khi đi khất thực ở Nālandā, thọ thực xong, đã đi đến vườn xoài của Pāvārika để yết kiến Đức Thế Tôn. [372] Vị ấy chào hỏi Đức Thế Tôn, và sau khi trao đổi những lời thăm hỏi thân tình, liền đứng sang một bên. Khi vị ấy đang đứng đó, Đức Thế Tôn bảo: "Này Tapassi, có chỗ ngồi kia, nếu muốn ông cứ ngồi."
 
 3\.  Nghe vậy, Dīgha Tapassi chọn một chỗ ngồi thấp và ngồi xuống một bên. Bấy giờ Đức Thế Tôn hỏi vị ấy: "Này Tapassi, Ni-kiền-tử Nātaputta mô tả có bao nhiêu loại hành động để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác?"
 
-"Thưa hiền giả Gotama, Ni-kiền-tử Nātaputta không quen dùng từ 'hành động, hành động'; Ni-kiền-tử Nātaputta quen dùng từ 'hình phạt, hình phạt.'"[^579]
+"Thưa hiền giả Gotama, Ni-kiền-tử Nātaputta không quen dùng từ 'hành động, hành động'; Ni-kiền-tử Nātaputta quen dùng từ 'hình phạt, hình phạt.'"[579](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#579){.note}
 
 "Vậy thì, này Tapassi, Ni-kiền-tử Nātaputta mô tả có bao nhiêu loại hình phạt để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác?"
 
-"Thưa hiền giả Gotama, Ni-kiền-tử Nātaputta mô tả có ba loại hình phạt để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác; đó là: hình phạt về thân, hình phạt về lời nói, và hình phạt về ý." [^580]
+"Thưa hiền giả Gotama, Ni-kiền-tử Nātaputta mô tả có ba loại hình phạt để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác; đó là: hình phạt về thân, hình phạt về lời nói, và hình phạt về ý." [580](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#580){.note}
 
 "Vậy thì, này Tapassi, hình phạt về thân là một, hình phạt về lời nói là một khác, và hình phạt về ý lại là một khác nữa sao?"
 
@@ -48,7 +48,7 @@ Như vậy, Đức Thế Tôn đã khiến Ni-kiền-tử Dīgha Tapassi xác nh
 "Hành động về thân là một, này Tapassi, hành động về lời nói là một khác, và hành động về ý lại là một khác nữa."
 
 "Này Tapassi, trong ba loại hành động này, đã được phân tích và phân biệt như vậy, ngài mô tả loại hành động nào là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác: hành động về thân, hành động về lời nói, hay hành động về ý?"
-"Này Tapassi, trong ba loại hành động này, đã được phân tích và phân biệt như vậy, Ta mô tả hành động về ý là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hành động về thân và hành động về lời nói."[^581]
+"Này Tapassi, trong ba loại hành động này, đã được phân tích và phân biệt như vậy, Ta mô tả hành động về ý là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hành động về thân và hành động về lời nói."[581](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#581){.note}
 
 "Ngài nói là hành động về ý phải không, thưa hiền giả Gotama?"
 
@@ -80,7 +80,7 @@ Sau đó, Ni-kiền-tử Dīgha Tapassi kể lại toàn bộ cuộc đối tho�
 6\.  Nghe xong, Ni-kiền-tử Nātaputta bảo vị ấy: "Tốt lắm, tốt lắm, Tapassi! Ni-kiền-tử Dīgha Tapassi đã trả lời sa môn Gotama như một đệ tử được dạy dỗ kỹ lưỡng, hiểu đúng giáo pháp của thầy mình. Hình phạt nhỏ nhặt về ý thì có đáng gì so với hình phạt thô trọng về thân? Ngược lại, hình phạt về thân mới là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."
 
 <!--pg-->
-7\.  Nghe vậy, gia chủ Upāli nói với Ni-kiền-tử Nātaputta: "Tốt lắm, tốt lắm, bạch tôn sư, về phần Dīgha Tapassi! Tôn giả Tapassi đã trả lời sa môn Gotama như một đệ tử được dạy dỗ kỹ lưỡng, hiểu đúng giáo pháp của thầy mình. Hình phạt nhỏ nhặt về ý thì có đáng gì so với hình phạt thô trọng về thân? Ngược lại, hình phạt về thân mới là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý. Bạch tôn sư, bây giờ con sẽ đi và bác bỏ giáo lý của sa môn Gotama dựa trên luận điểm này. Nếu sa môn Gotama giữ vững trước mặt con điều mà tôn giả Dīgha Tapassi đã khiến ông ta xác nhận, thì cũng như một người đàn ông mạnh khỏe [^582] có thể nắm lông một con cừu đực lông dài mà kéo tới kéo lui, kéo vòng quanh, con cũng sẽ dùng tranh luận để kéo sa môn Gotama tới kéo lui, kéo vòng quanh. Cũng như một người thợ nấu bia khỏe mạnh có thể ném một cái sàng bia lớn vào thùng nước sâu, rồi nắm các góc mà kéo tới kéo lui, kéo vòng quanh, con cũng sẽ dùng tranh luận để kéo sa môn Gotama tới kéo lui, kéo vòng quanh. Cũng như một người trộn bia khỏe mạnh có thể nắm các góc của cái rây lọc mà lắc xuống, lắc lên, đập mạnh, con cũng sẽ dùng tranh luận để lắc sa môn Gotama xuống, [375] lắc lên, và đập mạnh. Và cũng như một con voi sáu mươi tuổi có thể lao xuống ao sâu và thích thú chơi trò giặt đay, con cũng sẽ thích thú chơi trò giặt đay với sa môn Gotama. Bạch tôn sư, con sẽ đi và bác bỏ giáo lý của sa môn Gotama dựa trên luận điểm này."
+7\.  Nghe vậy, gia chủ Upāli nói với Ni-kiền-tử Nātaputta: "Tốt lắm, tốt lắm, bạch tôn sư, về phần Dīgha Tapassi! Tôn giả Tapassi đã trả lời sa môn Gotama như một đệ tử được dạy dỗ kỹ lưỡng, hiểu đúng giáo pháp của thầy mình. Hình phạt nhỏ nhặt về ý thì có đáng gì so với hình phạt thô trọng về thân? Ngược lại, hình phạt về thân mới là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý. Bạch tôn sư, bây giờ con sẽ đi và bác bỏ giáo lý của sa môn Gotama dựa trên luận điểm này. Nếu sa môn Gotama giữ vững trước mặt con điều mà tôn giả Dīgha Tapassi đã khiến ông ta xác nhận, thì cũng như một người đàn ông mạnh khỏe [582](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#582){.note} có thể nắm lông một con cừu đực lông dài mà kéo tới kéo lui, kéo vòng quanh, con cũng sẽ dùng tranh luận để kéo sa môn Gotama tới kéo lui, kéo vòng quanh. Cũng như một người thợ nấu bia khỏe mạnh có thể ném một cái sàng bia lớn vào thùng nước sâu, rồi nắm các góc mà kéo tới kéo lui, kéo vòng quanh, con cũng sẽ dùng tranh luận để kéo sa môn Gotama tới kéo lui, kéo vòng quanh. Cũng như một người trộn bia khỏe mạnh có thể nắm các góc của cái rây lọc mà lắc xuống, lắc lên, đập mạnh, con cũng sẽ dùng tranh luận để lắc sa môn Gotama xuống, [375] lắc lên, và đập mạnh. Và cũng như một con voi sáu mươi tuổi có thể lao xuống ao sâu và thích thú chơi trò giặt đay, con cũng sẽ thích thú chơi trò giặt đay với sa môn Gotama. Bạch tôn sư, con sẽ đi và bác bỏ giáo lý của sa môn Gotama dựa trên luận điểm này."
 
 "Hãy đi đi, gia chủ, và bác bỏ giáo lý của sa môn Gotama dựa trên luận điểm này. Hoặc là ta sẽ bác bỏ giáo lý của sa môn Gotama, hoặc là Ni-kiền-tử Dīgha Tapassi, hoặc là chính ông."
 
@@ -115,13 +115,13 @@ Sau đó, Đức Thế Tôn kể lại toàn bộ cuộc đối thoại của m�
 <!--pg-->
 11\. "Này gia chủ, ông nghĩ sao? Giả sử có một Ni-kiền-tử bị đau đớn, khổ sở, bệnh nặng [với một căn bệnh cần chữa trị bằng nước lạnh, điều mà giới luật của ông ta cấm] và ông ta từ chối nước lạnh [dù trong tâm rất mong muốn] và chỉ dùng nước nóng [được phép] [như vậy là giữ giới về thân và lời]. Vì không có nước lạnh, ông ta có thể chết. Này gia chủ, Ni-kiền-tử Nātaputta sẽ mô tả sự tái sanh (rebirth - sự sinh lại trong một đời sống mới sau khi chết) của ông ta [diễn ra] ở đâu?"
 
-"Bạch Thế Tôn, có những vị trời gọi là 'ý hệ thiên' (mind-bound gods - manobandhanikā devā - các vị trời bị trói buộc bởi tâm ý); ông ta sẽ tái sanh ở đó. Tại sao vậy? Bởi vì khi chết, ông ta vẫn còn bị trói buộc [bởi sự chấp thủ (attachment - upādāna - sự dính mắc, níu giữ, bám víu vào các đối tượng hoặc quan điểm)] trong tâm ý."[^583]
+"Bạch Thế Tôn, có những vị trời gọi là 'ý hệ thiên' (mind-bound gods - manobandhanikā devā - các vị trời bị trói buộc bởi tâm ý); ông ta sẽ tái sanh ở đó. Tại sao vậy? Bởi vì khi chết, ông ta vẫn còn bị trói buộc [bởi sự chấp thủ (attachment - upādāna - sự dính mắc, níu giữ, bám víu vào các đối tượng hoặc quan điểm)] trong tâm ý."[583](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#583){.note}
 
 "Này gia chủ, này gia chủ, hãy cẩn thận cách ông trả lời! Điều ông nói trước không khớp với điều ông nói sau, và điều ông nói sau cũng không khớp với điều ông nói trước. Vậy mà ông đã tuyên bố: 'Con sẽ tranh luận trên nền tảng sự thật, bạch Thế Tôn, vậy chúng ta hãy trao đổi về vấn đề này.'"
 
-"Bạch Thế Tôn, mặc dù Đức Thế Tôn đã nói như vậy, nhưng hình phạt về thân vẫn là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."[^584]
+"Bạch Thế Tôn, mặc dù Đức Thế Tôn đã nói như vậy, nhưng hình phạt về thân vẫn là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."[584](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#584){.note}
 
-12\. "Này gia chủ, ông nghĩ sao? [377] Giả sử có một Ni-kiền-tử tự chế ngự bằng bốn sự ngăn ngừa - được kiềm chế bởi mọi sự kiềm chế, được kìm giữ bởi mọi sự kìm giữ, được thanh lọc bởi mọi sự thanh lọc, và được xác quyết bởi mọi sự thanh lọc [^585] - nhưng khi đi tới và đi lui, ông ta lại gây ra sự sát hại nhiều sinh vật nhỏ bé. Ni-kiền-tử Nātaputta mô tả kết quả nào cho ông ta?"
+12\. "Này gia chủ, ông nghĩ sao? [377] Giả sử có một Ni-kiền-tử tự chế ngự bằng bốn sự ngăn ngừa - được kiềm chế bởi mọi sự kiềm chế, được kìm giữ bởi mọi sự kìm giữ, được thanh lọc bởi mọi sự thanh lọc, và được xác quyết bởi mọi sự thanh lọc [585](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#585){.note} - nhưng khi đi tới và đi lui, ông ta lại gây ra sự sát hại nhiều sinh vật nhỏ bé. Ni-kiền-tử Nātaputta mô tả kết quả nào cho ông ta?"
 
 "Bạch Thế Tôn, Ni-kiền-tử Nātaputta không mô tả hành động không có chủ ý (not willed - cetana - sự cố ý, tác ý) là đáng khiển trách nặng nề."
 
@@ -131,7 +131,7 @@ Sau đó, Đức Thế Tôn kể lại toàn bộ cuộc đối thoại của m�
 
 "Nhưng Ni-kiền-tử Nātaputta xếp chủ ý vào loại [hình phạt nào trong ba loại], gia chủ?"
 
-"Vào hình phạt về ý, bạch Thế Tôn."[^586]
+"Vào hình phạt về ý, bạch Thế Tôn."[586](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#586){.note}
 
 "Này gia chủ, này gia chủ, hãy cẩn thận cách ông trả lời! Điều ông nói trước không khớp với điều ông nói sau, và điều ông nói sau cũng không khớp với điều ông nói trước. Vậy mà ông đã tuyên bố: 'Con sẽ tranh luận trên nền tảng sự thật, bạch Thế Tôn, vậy chúng ta hãy trao đổi về vấn đề này.'"
 
@@ -153,7 +153,7 @@ Sau đó, Đức Thế Tôn kể lại toàn bộ cuộc đối thoại của m�
 
 "Bạch Thế Tôn, mặc dù Đức Thế Tôn đã nói như vậy, nhưng hình phạt về thân vẫn là đáng khiển trách nhất để thực hiện hành vi xấu ác, để gây ra hành vi xấu ác, chứ không phải hình phạt về lời nói và hình phạt về ý."
 
-14\. "Này gia chủ, ông nghĩ sao? Ông có nghe về việc các khu rừng Daṇdaka, Kālinga, Mejjha, và Mātanga đã trở thành rừng hoang như thế nào không?"[^587] - "Vâng, bạch Thế Tôn, con có nghe." - "Theo như ông nghe, chúng đã trở thành rừng hoang như thế nào?" - "Bạch Thế Tôn, con nghe rằng chúng đã trở thành rừng hoang do hành động sân hận trong tâm ý của các vị ẩn sĩ."
+14\. "Này gia chủ, ông nghĩ sao? Ông có nghe về việc các khu rừng Daṇdaka, Kālinga, Mejjha, và Mātanga đã trở thành rừng hoang như thế nào không?"[587](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#587){.note} - "Vâng, bạch Thế Tôn, con có nghe." - "Theo như ông nghe, chúng đã trở thành rừng hoang như thế nào?" - "Bạch Thế Tôn, con nghe rằng chúng đã trở thành rừng hoang do hành động sân hận trong tâm ý của các vị ẩn sĩ."
 "Này gia chủ, này gia chủ, hãy cẩn thận cách ông trả lời! Điều ông nói trước không khớp với điều ông nói sau, và điều ông nói sau cũng không khớp với điều ông nói trước. Vậy mà ông đã tuyên bố: 'Con sẽ tranh luận trên nền tảng sự thật, bạch Thế Tôn, vậy chúng ta hãy trao đổi về vấn đề này.'"
 
 <!--pg-->
@@ -168,7 +168,7 @@ Sau đó, Đức Thế Tôn kể lại toàn bộ cuộc đối thoại của m�
 "Bạch Thế Tôn, con càng hài lòng và hoan hỷ hơn nữa khi Đức Thế Tôn nói với con như vậy. Bạch Thế Tôn, con đã nghe rằng sa môn Gotama nói thế này: 'Chỉ nên cúng dường cho ta; không nên cúng dường cho người khác. Chỉ nên cúng dường cho đệ tử của ta; không nên cúng dường cho đệ tử của người khác. Chỉ những gì cúng dường cho ta mới có quả lớn, chứ không phải những gì cúng dường cho người khác. Chỉ những gì cúng dường cho đệ tử của ta mới có quả lớn, chứ không phải những gì cúng dường cho đệ tử của người khác.' Nhưng ngược lại, Đức Thế Tôn lại khuyến khích con cúng dường cho các Ni-kiền-tử. Dù sao đi nữa, chúng con sẽ biết thời điểm thích hợp để làm việc đó, bạch Thế Tôn. Vậy, lần thứ ba, bạch Thế Tôn, con xin quy y Đức Thế Tôn, quy y Pháp và quy y Tăng đoàn các tỳ kheo. Xin Đức Thế Tôn ghi nhận con là một cư sĩ nam đã quy y Ngài trọn đời."
 
 <!--pg-->
-18\. Sau đó, Đức Thế Tôn giảng cho gia chủ Upāli bài thuyết pháp tuần tự (progressive instruction - anupubbikathā - bài pháp được trình bày theo thứ lớp từ dễ đến khó), tức là, thuyết về bố thí (talk on giving - dāna - sự cho đi vật chất hoặc tinh thần), thuyết về giới hạnh (talk on virtue - sīla - các quy tắc đạo đức), thuyết về các cõi trời (talk on the heavens - sagga - các cảnh giới hạnh phúc); Ngài giải thích sự nguy hiểm, thấp kém và ô uế của các dục lạc (sensual pleasures - kāma - sự hưởng thụ qua năm giác quan) và lợi ích của sự xuất ly (renunciation - nekkhamma - sự từ bỏ đời sống thế tục hoặc từ bỏ các dục vọng). Khi biết tâm của gia chủ Upāli [380] đã sẵn sàng, dễ tiếp thu, không còn các chướng ngại (free from hindrances - nīvaraṇa - những trạng thái tâm tiêu cực ngăn cản thiền định và trí tuệ như tham dục, sân hận, hôn trầm thụy miên, trạo cử hối quá, nghi ngờ), phấn chấn và vững tin, Ngài đã giảng cho ông giáo lý đặc biệt của chư Phật: khổ (suffering - dukkha - sự bất toại nguyện, đau khổ), nguồn gốc của khổ (its origin - samudaya - nguyên nhân sinh khổ, thường là tham ái), sự chấm dứt khổ (its cessation - nirodha - trạng thái khổ diệt, Niết-bàn), và con đường dẫn đến sự chấm dứt khổ (the path - magga - Tám Bước Thiện (Bát Chánh Đạo)). Cũng như tấm vải sạch không còn vết bẩn sẽ thấm đều thuốc nhuộm, ngay khi gia chủ Upāli đang ngồi đó, pháp nhãn (vision of the Dhamma - dhammacakkhu - con mắt thấy Pháp, tuệ giác thấy rõ bản chất của các pháp) trong sạch, không tỳ vết khởi lên trong ông: "Phàm cái gì có sanh khởi đều phải chịu sự đoạn diệt." [^588] Bấy giờ, gia chủ Upāli thấy Pháp, đạt Pháp, hiểu Pháp, thâm nhập Pháp; ông vượt qua mọi nghi ngờ (crossed beyond doubt - tiṇṇavicikiccho - không còn hoài nghi về Tam Bảo và giáo pháp), không còn phân vân lưỡng lự (did away with perplexity - vigatakathaṅkatho - hết do dự, thắc mắc về con đường tu tập), đạt được sự tự tin vững chắc (gained intrepidity - vesārajjappatto - có được sự dạn dĩ, không sợ hãi khi trình bày giáo pháp), và không còn phụ thuộc vào người khác đối với giáo pháp của Bậc Đạo Sư (independent of others in the Teacher's Dispensation - aparappaccayo satthusāsane - tự mình chứng ngộ, không cần dựa vào niềm tin nơi người khác). [^589] Sau đó, ông nói với Đức Thế Tôn: "Bạch Thế Tôn, bây giờ chúng con phải đi. Chúng con bận rộn và có nhiều việc phải làm."
+18\. Sau đó, Đức Thế Tôn giảng cho gia chủ Upāli bài thuyết pháp tuần tự (progressive instruction - anupubbikathā - bài pháp được trình bày theo thứ lớp từ dễ đến khó), tức là, thuyết về bố thí (talk on giving - dāna - sự cho đi vật chất hoặc tinh thần), thuyết về giới hạnh (talk on virtue - sīla - các quy tắc đạo đức), thuyết về các cõi trời (talk on the heavens - sagga - các cảnh giới hạnh phúc); Ngài giải thích sự nguy hiểm, thấp kém và ô uế của các dục lạc (sensual pleasures - kāma - sự hưởng thụ qua năm giác quan) và lợi ích của sự xuất ly (renunciation - nekkhamma - sự từ bỏ đời sống thế tục hoặc từ bỏ các dục vọng). Khi biết tâm của gia chủ Upāli [380] đã sẵn sàng, dễ tiếp thu, không còn các chướng ngại (free from hindrances - nīvaraṇa - những trạng thái tâm tiêu cực ngăn cản thiền định và trí tuệ như tham dục, sân hận, hôn trầm thụy miên, trạo cử hối quá, nghi ngờ), phấn chấn và vững tin, Ngài đã giảng cho ông giáo lý đặc biệt của chư Phật: khổ (suffering - dukkha - sự bất toại nguyện, đau khổ), nguồn gốc của khổ (its origin - samudaya - nguyên nhân sinh khổ, thường là tham ái), sự chấm dứt khổ (its cessation - nirodha - trạng thái khổ diệt, Niết-bàn), và con đường dẫn đến sự chấm dứt khổ (the path - magga - Tám Bước Thiện (Bát Chánh Đạo)). Cũng như tấm vải sạch không còn vết bẩn sẽ thấm đều thuốc nhuộm, ngay khi gia chủ Upāli đang ngồi đó, pháp nhãn (vision of the Dhamma - dhammacakkhu - con mắt thấy Pháp, tuệ giác thấy rõ bản chất của các pháp) trong sạch, không tỳ vết khởi lên trong ông: "Phàm cái gì có sanh khởi đều phải chịu sự đoạn diệt." [588](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#588){.note} Bấy giờ, gia chủ Upāli thấy Pháp, đạt Pháp, hiểu Pháp, thâm nhập Pháp; ông vượt qua mọi nghi ngờ (crossed beyond doubt - tiṇṇavicikiccho - không còn hoài nghi về Tam Bảo và giáo pháp), không còn phân vân lưỡng lự (did away with perplexity - vigatakathaṅkatho - hết do dự, thắc mắc về con đường tu tập), đạt được sự tự tin vững chắc (gained intrepidity - vesārajjappatto - có được sự dạn dĩ, không sợ hãi khi trình bày giáo pháp), và không còn phụ thuộc vào người khác đối với giáo pháp của Bậc Đạo Sư (independent of others in the Teacher's Dispensation - aparappaccayo satthusāsane - tự mình chứng ngộ, không cần dựa vào niềm tin nơi người khác). [589](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#589){.note} Sau đó, ông nói với Đức Thế Tôn: "Bạch Thế Tôn, bây giờ chúng con phải đi. Chúng con bận rộn và có nhiều việc phải làm."
 
 "Này gia chủ, bây giờ là lúc ông làm những gì ông cho là thích hợp."
 
@@ -217,7 +217,7 @@ Sau đó, Ni-kiền-tử Nātaputta cùng hội chúng đông đảo các Ni-ki�
 
 25\. Nghe vậy, Ni-kiền-tử Nātaputta nói: "Gia chủ, ông điên rồi, ông ngu xuẩn rồi. Ông đi nói rằng: 'Bạch tôn sư, con sẽ bác bỏ giáo lý của sa môn Gotama,' rồi ông trở về hoàn toàn bị mắc vào một cái lưới giáo pháp rộng lớn. Cũng như một người đi thiến người khác lại bị thiến cả hai bên trở về, cũng như một người đi khoét mắt người khác lại bị khoét cả hai mắt trở về; ông cũng vậy, gia chủ, ông đi nói rằng: 'Bạch tôn sư, con sẽ bác bỏ giáo lý của sa môn Gotama,' rồi ông trở về hoàn toàn bị mắc vào một cái lưới giáo pháp rộng lớn. Gia chủ, ông đã bị sa môn Gotama thu phục bằng ma thuật quyến dụ của ông ta!"
 
-26\. "Lành thay ma thuật quyến dụ ấy, bạch tôn sư, tốt đẹp thay ma thuật quyến dụ ấy! [^590] Bạch tôn sư, nếu những người thân bằng quyến thuộc yêu quý của con được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thân bằng quyến thuộc yêu quý của con. Nếu tất cả giới quý tộc (nobles - khattiya) được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho giới quý tộc. [384] Nếu tất cả giới bà la môn (brahmins - brāhmaṇa)... tất cả giới thương gia (merchants - vessa)... tất cả giới lao động (workers - sudda) được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho giới lao động. Nếu thế giới cùng với chư thiên, Ma vương (Māras - các thế lực cản trở sự tu tập), và Phạm thiên (Brahmās - các vị trời ở cõi sắc giới), chúng sanh này cùng các vị sa môn, bà la môn, vua chúa và thường dân, được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thế giới. Về điều này, bạch tôn sư, con sẽ đưa ra một ví dụ; vì một số người trí ở đây hiểu được ý nghĩa của một lời nói qua ví dụ.
+26\. "Lành thay ma thuật quyến dụ ấy, bạch tôn sư, tốt đẹp thay ma thuật quyến dụ ấy! [590](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#590){.note} Bạch tôn sư, nếu những người thân bằng quyến thuộc yêu quý của con được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thân bằng quyến thuộc yêu quý của con. Nếu tất cả giới quý tộc (nobles - khattiya) được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho giới quý tộc. [384] Nếu tất cả giới bà la môn (brahmins - brāhmaṇa)... tất cả giới thương gia (merchants - vessa)... tất cả giới lao động (workers - sudda) được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho giới lao động. Nếu thế giới cùng với chư thiên, Ma vương (Māras - các thế lực cản trở sự tu tập), và Phạm thiên (Brahmās - các vị trời ở cõi sắc giới), chúng sanh này cùng các vị sa môn, bà la môn, vua chúa và thường dân, được thu phục bởi sự thu phục này, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thế giới. Về điều này, bạch tôn sư, con sẽ đưa ra một ví dụ; vì một số người trí ở đây hiểu được ý nghĩa của một lời nói qua ví dụ.
 
 27\. "Bạch tôn sư, ngày xưa có một vị bà la môn già nua, tuổi cao, sức yếu, và ông có một người vợ là một thiếu nữ bà la môn trẻ tuổi đang mang thai và sắp đến ngày sinh nở. Rồi cô ấy bảo ông: 'Này ông bà la môn, hãy ra chợ mua một con khỉ con về đây cho tôi làm bạn chơi với con tôi.' Ông đáp: 'Hãy đợi đã, bà ạ, cho đến khi bà sinh con. Nếu bà sinh con trai, tôi sẽ ra chợ mua một con khỉ đực con về cho bà làm bạn chơi với cậu bé; nhưng nếu bà sinh con gái, tôi sẽ ra chợ mua một con khỉ cái con về cho bà làm bạn chơi với cô bé.' Lần thứ hai cô ấy đưa ra yêu cầu tương tự và nhận được câu trả lời tương tự. Lần thứ ba cô ấy lại đưa ra yêu cầu tương tự. Bấy giờ, vì lòng yêu thương ràng buộc với bà vợ, ông ra chợ, mua một con khỉ đực con, mang về và bảo bà: 'Tôi đã mua con khỉ đực con này ở chợ [385] và mang về cho bà làm bạn chơi với con bà.' Rồi bà bảo ông: 'Này ông bà la môn, hãy mang con khỉ đực con này đến chỗ Rattapanni, con trai người thợ nhuộm, và bảo cậu ta: "Này Rattapanni tốt lành, tôi muốn con khỉ đực con này được nhuộm màu vàng thuốc mỡ, đập đi đập lại, và làm cho nhẵn cả hai mặt."' Bấy giờ, vì lòng yêu thương ràng buộc với bà vợ, ông mang con khỉ đực con đến chỗ Rattapanni, con trai người thợ nhuộm, và bảo cậu ta: 'Này Rattapanni tốt lành, tôi muốn con khỉ đực con này được nhuộm màu vàng thuốc mỡ, đập đi đập lại, và làm cho nhẵn cả hai mặt.' Rattapanni, con trai người thợ nhuộm, bảo ông: 'Bạch tôn giả, con khỉ đực con này chịu được thuốc nhuộm nhưng không chịu được đập hay làm nhẵn.' Cũng vậy, bạch tôn sư, giáo pháp của các Ni-kiền-tử ngu si sẽ làm vui lòng kẻ ngu nhưng không làm vui lòng người trí, và nó sẽ không chịu được sự thử thách hay sự tra xét kỹ lưỡng (làm nhẵn).
 
@@ -229,81 +229,81 @@ Nghe vậy, gia chủ Upāli đứng dậy khỏi chỗ ngồi, sửa lại y tr
 
 29\. "Vậy thì, bạch tôn sư, xin hãy nghe con là đệ tử của ai:
 
-Ngài là Bậc Trí Tuệ đã đoạn trừ si mê,
-Từ bỏ tâm hoang vu [phiền não], [^591] chiến thắng ma quân;
-Ngài không còn phiền muộn, tâm hoàn toàn quân bình,
-Giới hạnh viên mãn, trí tuệ tuyệt vời;
-Vượt mọi cám dỗ, [^592] Ngài không còn tỳ vết:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Ngài hết phân vân, an trú trong sự mãn nguyện,
-Chê bỏ lợi lộc thế gian, là nguồn vui;
-Là người đã hoàn thành phận sự sa môn,
-Là người mang thân cuối cùng;
-Ngài hoàn toàn vô song và hoàn toàn thanh tịnh:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Ngài không còn nghi ngờ và khéo léo,
-Là bậc huấn luyện và lãnh đạo tuyệt vời.
-Không ai vượt qua phẩm chất rực rỡ của Ngài;
-Không do dự, Ngài là bậc soi sáng;
-Đã đoạn trừ ngã mạn, Ngài là Bậc Anh Hùng:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Là Bậc Dẫn Dắt chúng sanh, Ngài không thể đo lường,
-Sâu thẳm khôn dò, Ngài đạt đến tịch tịnh; [^593]
-Mang lại sự an ổn, sở hữu tri kiến,
-Ngài an trú trong Pháp, nội tâm chế ngự;
-Đã vượt qua mọi ràng buộc, Ngài được giải thoát:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Là voi chúa không tỳ vết, sống nơi tịch tĩnh,
-Với mọi xiềng xích đã phá tan, hoàn toàn giải thoát;
-Khéo léo trong luận giải, thấm nhuần trí tuệ,
-Đã hạ cờ kiêu mạn, [^594] Ngài không còn tham ái;
-Đã tự điều phục, Ngài không còn tạo tác [^595] (proliferation - papañca - sự phát triển, lan tràn của các khái niệm và vọng tưởng):
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Là bậc tiên tri tối thượng, [^596] không mưu mẹo lừa dối,
-Đạt tam minh (triple knowledge - tevijja - ba loại tuệ giác: biết rõ các kiếp quá khứ, biết rõ sự sanh tử của chúng sanh, biết rõ sự đoạn tận các lậu hoặc), đạt đến sự thánh thiện;
-Tâm Ngài thanh tịnh, là bậc thầy thuyết giảng,
-Ngài sống luôn an tịnh, là người tìm ra tri kiến;
-Là bậc bố thí đứng đầu, Ngài luôn có khả năng:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Ngài là Bậc Cao Thượng, tâm đã phát triển,
-Đã đạt mục đích và giảng giải chân lý;
-Có niệm và tuệ quán thấu suốt,
-Ngài không nghiêng tới, không ngả lui; [^597]
-Không xao động, đạt đến sự làm chủ:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Ngài đã tu hành đúng đắn và an trú trong thiền định,
-Nội tâm không ô nhiễm, thanh tịnh hoàn hảo;
-Ngài độc lập và hoàn toàn không sợ hãi, [^598]
-Sống độc cư, đạt đến đỉnh cao;
-Đã tự mình vượt qua, Ngài dẫn dắt chúng ta vượt qua:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Với sự tịch tịnh tối thượng, trí tuệ rộng lớn,
-Là người có đại trí tuệ, không còn tham lam;
-Ngài là Như Lai, Ngài là Thiện Thệ (Sublime One - Sugata - bậc đã khéo đi, khéo đến),
-Là Bậc Vô Song, là Bậc Vô Đối;
-Ngài dũng mãnh, thông suốt tất cả:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
-
-Ngài đã đoạn trừ ái dục (severed craving - taṇhā - sự khao khát, ham muốn) và thành Bậc Giác Ngộ,
-Tan hết mây mù [phiền não], hoàn toàn không nhiễm ô;
-Xứng đáng được cúng dường nhất, bậc tinh thần vĩ đại nhất,
-Con người hoàn hảo nhất, vượt ngoài mọi ước lượng;
-Vĩ đại nhất trong sự vĩ đại, đạt đến đỉnh vinh quang:
-Đức Thế Tôn là Ngài, và con là đệ tử của Ngài."
+> Ngài là Bậc Trí Tuệ đã đoạn trừ si mê,\
+> Từ bỏ tâm hoang vu [phiền não], [591](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#591){.note} chiến thắng ma quân;\
+> Ngài không còn phiền muộn, tâm hoàn toàn quân bình,
+> Giới hạnh viên mãn, trí tuệ tuyệt vời;\
+> Vượt mọi cám dỗ, [592](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#592){.note} Ngài không còn tỳ vết:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Ngài hết phân vân, an trú trong sự mãn nguyện,\
+> Chê bỏ lợi lộc thế gian, là nguồn vui;\
+> Là người đã hoàn thành phận sự sa môn,\
+> Là người mang thân cuối cùng;\
+> Ngài hoàn toàn vô song và hoàn toàn thanh tịnh:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Ngài không còn nghi ngờ và khéo léo,\
+> Là bậc huấn luyện và lãnh đạo tuyệt vời.\
+> Không ai vượt qua phẩm chất rực rỡ của Ngài;\
+> Không do dự, Ngài là bậc soi sáng;\
+> Đã đoạn trừ ngã mạn, Ngài là Bậc Anh Hùng:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Là Bậc Dẫn Dắt chúng sanh, Ngài không thể đo lường,\
+> Sâu thẳm khôn dò, Ngài đạt đến tịch tịnh; [593](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#593){.note}\
+> Mang lại sự an ổn, sở hữu tri kiến,\
+> Ngài an trú trong Pháp, nội tâm chế ngự;\
+> Đã vượt qua mọi ràng buộc, Ngài được giải thoát:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Là voi chúa không tỳ vết, sống nơi tịch tĩnh,\
+> Với mọi xiềng xích đã phá tan, hoàn toàn giải thoát;\
+> Khéo léo trong luận giải, thấm nhuần trí tuệ,\
+> Đã hạ cờ kiêu mạn, [594](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#594){.note} Ngài không còn tham ái;\
+> Đã tự điều phục, Ngài không còn tạo tác [595](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#595){.note} (proliferation - papañca - sự phát triển, lan tràn của các khái niệm và vọng tưởng):\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Là bậc tiên tri tối thượng, [596](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#596){.note} không mưu mẹo lừa dối,\
+> Đạt tam minh, đạt đến sự thánh thiện;\
+> Tâm Ngài thanh tịnh, là bậc thầy thuyết giảng,\
+> Ngài sống luôn an tịnh, là người tìm ra tri kiến;\
+> Là bậc bố thí đứng đầu, Ngài luôn có khả năng:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Ngài là Bậc Cao Thượng, tâm đã phát triển,\
+> Đã đạt mục đích và giảng giải chân lý;\
+> Có niệm và tuệ quán thấu suốt,\
+> Ngài không nghiêng tới, không ngả lui; [597](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#597){.note}\
+> Không xao động, đạt đến sự làm chủ:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Ngài đã tu hành đúng đắn và an trú trong thiền định,\
+> Nội tâm không ô nhiễm, thanh tịnh hoàn hảo;\
+> Ngài độc lập và hoàn toàn không sợ hãi, [598](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#598){.note}\
+> Sống độc cư, đạt đến đỉnh cao;\
+> Đã tự mình vượt qua, Ngài dẫn dắt chúng ta vượt qua:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Với sự tịch tịnh tối thượng, trí tuệ rộng lớn,\
+> Là người có đại trí tuệ, không còn tham lam;\
+> Ngài là Như Lai, Ngài là Thiện Thệ,\
+> Là Bậc Vô Song, là Bậc Vô Đối;\
+> Ngài dũng mãnh, thông suốt tất cả:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài.
+> 
+> Ngài đã đoạn trừ ái dục và thành Bậc Giác Ngộ,\
+> Tan hết mây mù [phiền não], hoàn toàn không nhiễm ô;\
+> Xứng đáng được cúng dường nhất, bậc tinh thần vĩ đại nhất,\
+> Con người hoàn hảo nhất, vượt ngoài mọi ước lượng;\
+> Vĩ đại nhất trong sự vĩ đại, đạt đến đỉnh vinh quang:\
+> Đức Thế Tôn là Ngài, và con là đệ tử của Ngài."
 
 30\. "Gia chủ, ông đã bịa đặt bài kệ tán thán sa môn Gotama đó từ khi nào vậy?"
 
 "Bạch tôn sư, giả sử có một đống hoa lớn đủ loại, [387] rồi một người kết tràng hoa khéo léo hay người học việc kết tràng hoa kết chúng thành một tràng hoa nhiều màu sắc; cũng vậy, bạch tôn sư, Đức Thế Tôn có nhiều phẩm chất đáng tán thán, hàng trăm phẩm chất đáng tán thán. Bạch tôn sư, ai lại không tán thán bậc đáng được tán thán?"
 
-31\. Bấy giờ, vì Ni-kiền-tử Nātaputta không thể chịu đựng được sự tôn kính dành cho Đức Thế Tôn này, máu nóng liền hộc ra từ miệng ông ta ngay tại chỗ.[^599]
+31\. Bấy giờ, vì Ni-kiền-tử Nātaputta không thể chịu đựng được sự tôn kính dành cho Đức Thế Tôn này, máu nóng liền hộc ra từ miệng ông ta ngay tại chỗ.[599](/kinhtrungbo/nanamoli-bodhi-vi/notes/056#599){.note}
 
 <!--pg-->
 Từ ngữ:

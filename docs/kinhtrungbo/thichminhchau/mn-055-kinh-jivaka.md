@@ -1,8 +1,3 @@
----
-tags: 
- - (các bước tu tập 2)
----
-
 # MN 55. KINH JÌVAKA
 
 ***(Jìvaka Sutta)***

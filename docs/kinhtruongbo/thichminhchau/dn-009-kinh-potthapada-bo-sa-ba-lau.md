@@ -1,6 +1,6 @@
 ---
 tags:
- - thọ (cảm giác)
+ - thọ (cảm thọ)
  - tưởng (thực tại)
 ---
 

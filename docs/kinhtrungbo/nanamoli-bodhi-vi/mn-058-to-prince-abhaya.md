@@ -3,7 +3,7 @@
 
 1\.  Tôi nghe như vầy. Một thời Thế Tôn trú tại Rājagaha (Vương Xá), trong Rừng Trúc, nơi nuôi dưỡng các con sóc.
 
-2\.  Khi ấy, Vương tử Abhaya đi đến chỗ Ni-kiền-tử Nātaputta (Niganṭha Nātaputta - một đạo sư lõa thể thuộc Kỳ-na giáo, tên thật là Mahavira), sau khi đảnh lễ vị ấy, liền ngồi xuống một bên. Bấy giờ, Ni-kiền-tử Nātaputta nói với vương tử:
+2\.  Khi ấy, Vương tử Abhaya [611](/kinhtrungbo/nanamoli-bodhi-vi/notes/058#611){.note} đi đến chỗ Ni-kiền-tử Nātaputta (Niganṭha Nātaputta - một đạo sư lõa thể thuộc Kỳ-na giáo, tên thật là Mahavira), sau khi đảnh lễ vị ấy, liền ngồi xuống một bên. Bấy giờ, Ni-kiền-tử Nātaputta nói với vương tử:
 
 3\.  "Này vương tử, hãy đến bác bỏ giáo lý của Sa-môn Gotama, và tiếng tốt về vương tử sẽ được đồn xa rằng: 'Vương tử Abhaya đã bác bỏ giáo lý của Sa-môn Gotama, một người có uy lực và hùng mạnh như vậy.'"
 
@@ -16,9 +16,9 @@
 
 5\.  Khi biết Thế Tôn đã nhận lời, Vương tử Abhaya đứng dậy từ chỗ ngồi, sau khi đảnh lễ ngài, giữ ngài ở phía bên phải mình, liền cáo lui. Rồi, khi đêm đã tàn, vào buổi sáng, Thế Tôn đắp y, mang bát và y, đi đến nhà Vương tử Abhaya và ngồi vào chỗ đã soạn sẵn. Sau đó, Vương tử Abhaya tự tay phục vụ và làm Thế Tôn hài lòng với nhiều loại thức ăn ngon. Khi Thế Tôn đã dùng xong và rút tay ra khỏi bát, Vương tử Abhaya lấy một chiếc ghế thấp, ngồi xuống một bên và thưa với Thế Tôn:
 
-<!--pg-->
-6\.  "Thưa ngài, Như Lai có nói lời không được chào đón và không vừa lòng người khác không?"
+6\.  "Thưa ngài, Như Lai có nói lời không được chào đón và không vừa lòng người khác không?" [612](/kinhtrungbo/nanamoli-bodhi-vi/notes/058#612){.note}
 
+<!--pg-->
 "Này vương tử, không có câu trả lời một chiều, cho câu hỏi đó"
 
 "Vậy thì, thưa ngài, các Ni-kiền-tử đã thua trong việc này."
@@ -31,7 +31,7 @@ Vương tử Abhaya bèn kể lại cho Thế Tôn toàn bộ cuộc đối tho�
 
 "Thưa ngài, con sẽ lấy nó ra. Nếu con không thể lấy ra ngay lập tức, con sẽ dùng tay trái giữ đầu cháu, và khom ngón tay phải lại, con sẽ lấy nó ra dù cho có phải làm chảy máu. Tại sao vậy? Vì con có lòng thương (compassion - tình thương yêu, mong muốn chúng sinh thoát khổ) đối với đứa trẻ."
 <!--pg-->
-8\.  "Cũng vậy, này vương tử, lời nói nào Như Lai biết là không thật, không đúng, và không lợi ích, mà lại không được chào đón và không vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật và đúng nhưng không lợi ích, mà lại không được chào đón và không vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật, đúng, và lợi ích, nhưng lại không được chào đón và không vừa lòng người khác: Như Lai biết thời điểm để nói lời nói như vậy. Lời nói nào Như Lai biết là không thật, không đúng, và không lợi ích, nhưng lại được chào đón và vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật và đúng nhưng không lợi ích, mà lại được chào đón và vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật, đúng, và lợi ích, và cũng được chào đón và vừa lòng người khác: Như Lai biết thời điểm để nói lời nói như vậy. Tại sao vậy? Vì Như Lai có lòng thương đối với chúng sinh."
+8\.  "Cũng vậy, này vương tử, lời nói nào Như Lai biết là không thật, không đúng, và không lợi ích, mà lại không được chào đón và không vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật và đúng nhưng không lợi ích, mà lại không được chào đón và không vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật, đúng, và lợi ích, nhưng lại không được chào đón và không vừa lòng người khác: Như Lai biết thời điểm để nói lời nói như vậy. [613](/kinhtrungbo/nanamoli-bodhi-vi/notes/058#613){.note} Lời nói nào Như Lai biết là không thật, không đúng, và không lợi ích, nhưng lại được chào đón và vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật và đúng nhưng không lợi ích, mà lại được chào đón và vừa lòng người khác: lời nói như vậy Như Lai không nói. Lời nói nào Như Lai biết là thật, đúng, và lợi ích, và cũng được chào đón và vừa lòng người khác: Như Lai biết thời điểm để nói lời nói như vậy. Tại sao vậy? Vì Như Lai có lòng thương đối với chúng sinh."
 
 9\.  "Thưa ngài, khi các vị quý tộc có học thức, bà-la-môn có học thức, gia chủ có học thức, và sa-môn có học thức, sau khi soạn sẵn một câu hỏi, rồi đến gặp Thế Tôn và đặt câu hỏi đó, có phải trong tâm trí Thế Tôn đã có sẵn suy nghĩ: 'Nếu họ đến gặp ta và hỏi ta như vậy, ta sẽ trả lời như thế này'? Hay câu trả lời đó khởi lên cho Như Lai ngay tại chỗ?"
 
@@ -43,7 +43,7 @@ Vương tử Abhaya bèn kể lại cho Thế Tôn toàn bộ cuộc đối tho�
 
 "Thưa ngài, con nổi tiếng là người đánh xe thành thạo các bộ phận của xe ngựa. Tất cả các bộ phận của xe ngựa con đều biết rõ. Câu trả lời đó sẽ khởi lên cho con ngay tại chỗ."
 
-11\. "Cũng vậy, này vương tử, khi các vị quý tộc có học thức, bà-la-môn có học thức, gia chủ có học thức, và sa-môn có học thức, sau khi soạn sẵn một câu hỏi, rồi đến gặp Như Lai và đặt câu hỏi đó, câu trả lời khởi lên cho Như Lai ngay tại chỗ. Tại sao vậy? Bản chất của các pháp (element of things / dhamma-dhātu - bản chất nền tảng của thực tại, của giáo pháp) đã được Như Lai hoàn toàn thâm nhập, nhờ sự thâm nhập hoàn toàn đó mà câu trả lời khởi lên cho Như Lai ngay tại chỗ."
+11\. "Cũng vậy, này vương tử, khi các vị quý tộc có học thức, bà-la-môn có học thức, gia chủ có học thức, và sa-môn có học thức, sau khi soạn sẵn một câu hỏi, rồi đến gặp Như Lai và đặt câu hỏi đó, câu trả lời khởi lên cho Như Lai ngay tại chỗ. Tại sao vậy? Bản chất của các pháp (element of things / dhamma-dhātu - bản chất nền tảng của thực tại, của giáo pháp) đã được Như Lai hoàn toàn thâm nhập, nhờ sự thâm nhập hoàn toàn đó mà câu trả lời khởi lên cho Như Lai ngay tại chỗ." [614](/kinhtrungbo/nanamoli-bodhi-vi/notes/058#614){.note}
 
 12\. Khi nghe vậy, Vương tử Abhaya thưa: "Thật vi diệu, thưa ngài! Thật vi diệu, thưa ngài! Thế Tôn đã làm sáng tỏ Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) bằng nhiều cách... Kể từ hôm nay, xin Thế Tôn ghi nhận con là một người cư sĩ tại gia đã quy y (gone for refuge - nương tựa vào Tam Bảo: Phật, Pháp, Tăng) ngài trọn đời."
 
