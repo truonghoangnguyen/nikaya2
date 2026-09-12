@@ -1,3 +1,7 @@
+---
+tags:
+ - tu học
+---
 # MN 61. KINH GIÁO GIỚI LA-HẦU-LA Ở RỪNG AMBALA
 
 ***(Ambalatthikà Ràhulovàda Sutta)***
@@ -45,11 +49,11 @@ Rồi Thế Tôn lật ngửa trở lại chậu nước ấy và bảo Tôn gi�
 -- Cũng trống không vậy, này Rahula, là Sa-môn hạnh của những người nào biết mà nói láo, không có
 tàm quý.
 
+<!--pg-->
 Này Rahula, ví như một con voi của vua, có ngà dài như một cán cày, to lớn, khéo luyện, thường có mặt
 ở chiến trường. Khi lâm trận, con voi này dùng hai chân trước, dùng hai chân sau, dùng phần thân trước,
 dùng phần thân sau, dùng đầu, dùng tai, dùng ngà, dùng đuôi, nhưng bảo vệ cái vòi. Ở đây, người nài
 nghĩ rằng: "Con voi của vua này có ngà dài như một cán cày, to lớn, khéo luyện, thường hay có mặt ở
-
 chiến trường. Khi lâm trận con voi này thường dùng hai chân trước, dùng hai chân sau, dùng phần thân
 trước, dùng phần thân sau, dùng đầu, dùng tai, dùng ngà, dùng đuôi, nhưng bảo vệ cái vòi. Con voi của
 vua (như vậy) không quăng bỏ mạng sống (của mình)". Này Rahula, nhưng khi con voi của vua, có ngà
@@ -165,6 +169,7 @@ hại người, không đưa đến hại cả hai, ý nghiệp này là thiện
 vậy, này Rahula, Ông phải an trú trong niềm hoan hỷ, tự mình tiếp tục tu học ngày đêm trong các thiện
 pháp.
 
+<!--pg-->
 Này Rahula, trong thời quá khứ, những Sa-môn hay Bà-la-môn nào đã tịnh hóa thân nghiệp, đã tịnh hóa
 khẩu nghiệp, đã tịnh hóa ý nghiệp, tất cả những vị ấy, sau khi phản tỉnh như vậy nhiều lần đã tịnh hóa
 thân nghiệp, sau khi phản tỉnh như vậy nhiều lần, đã tịnh hóa khẩu nghiệp, sau khi phản tỉnh như vậy

@@ -118,7 +118,6 @@ Và này Ananda, thế nào là con đường, thế nào là lộ trình đưa 
 cho an tịnh thân thô ác hành một cách toàn diện, ly dục, ly bất thiện pháp, chứng và trú Thiền thứ nhất,
 một trạng thái hỷ lạc do ly dục sanh, có tầm, có tứ.
 
-<!--pg-->
 Vị này chánh quán mọi sắc pháp, thọ pháp, tưởng pháp, hành pháp, thức pháp là vô thường, khổ, như
 bệnh, như cục bướu, như mũi tên, như điều bất hạnh, như bệnh chướng, như kẻ địch, như phá hoại, là
 không, là vô ngã. Vị này giải thoát tâm khỏi các pháp ấy. Sau khi giải thoát tâm khỏi các pháp ấy, vị ấy
