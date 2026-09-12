@@ -1,3 +1,8 @@
+---
+tags:
+ - tu tập
+---
+
 # MN 62. ÐẠI KINH GIÁO GIỚI LA-HẦU-LA
 
 ***(Mahà Ràhulovàda Sutta)***

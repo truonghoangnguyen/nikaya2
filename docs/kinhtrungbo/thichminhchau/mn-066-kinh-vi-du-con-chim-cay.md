@@ -1,3 +1,8 @@
+---
+tags:
+ - Udāyī
+ - 4 thiền-na (tứ thiền)
+---
 # MN 66. KINH VÍ DỤ CON CHIM CÁY
 
 ***(Latukikopama Sutta)***

@@ -200,7 +200,8 @@ h1{
   text-align: center;
 }
 h1::after {
-  content: "· · · ◇ · · ·";
+  content: " ·  ☸ · ";
+  /* "· · · ◇ · · ·"; */
   display: block;
   margin-bottom: 1em;
 }

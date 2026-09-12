@@ -123,10 +123,6 @@ Trước khi dịch cần làm 2 việc sau `Khảo sát văn bản` và Liệt 
 ### 1.1 Khảo sát văn bản
 Trước khi dịch, ghi nhận ngắn gọn:
 - **Bối cảnh kinh**: bài kinh nào (nếu biết), trước/sau nói gì, ai là người nghe?
-- **Bối cảnh tranh luận** (nếu có): Phật đang nói với ai? Phản bác quan điểm nào?
-- **Dấu hiệu văn bản**: có phong cách Abhidhamma, công thức hóa, thuật ngữ kinh muộn không? → cờ `[BT]` nếu có.
-- **Mơ hồ ngữ pháp / đa nghĩa**: có chỗ nào cho phép đọc theo nhiều cách không? → cờ `[NG]`.
-- **Khung khái niệm có thể bị áp đặt**: có thuật ngữ nào dễ bị đọc qua Abhidhamma / Đại thừa / triết học phương Tây không? → cờ `[KK]`.
 
 ### 1.2 Liệt kê thuật ngữ trong bài
 
@@ -235,11 +231,11 @@ Dưới đây là bảng của bạn đã được chuyển đổi sang định 
 | animittā cetovimutti | giải thoát qua tâm không tướng | vô tướng tâm giải thoát | |
 | mettā | yêu thương | từ | |
 | karuṇā | che chở | bi | |
-| muditā | hân hoan | hỷ | |
+| muditā | cùng vui | hỷ | |
 | upekkhā | tâm bình thản | xả | |
 | pahānā | từ bỏ; hoàn toàn từ bỏ | xả (đoạn tận) | |
 | pīti | hân hoan | hỷ | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
-| somanassa | thư thái | hỷ (duyệt) | |
+| somanassa | thư thái | hỷ  | |
 | domanassa | ưu phiền | ưu | |
 | sukha | hạnh phúc | lạc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
 | dukkha | đau khổ | khổ | sự đau khổ nói chung, cho cả thân và tinh thần |
