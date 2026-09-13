@@ -58,7 +58,7 @@ function formatDate(date) {
 
 <template>
   <div class="tags-container">
-    <h1 class="page-title">Danh mục Tags</h1>
+    <h2 class="page-title">Danh mục Tags</h2>
 
     <div class="tags-cloud">
       <span
@@ -118,6 +118,8 @@ function formatDate(date) {
   font-size: 2em;
   font-weight: bold;
   letter-spacing: -0.5px;
+  text-align: center;
+  margin-bottom: 1.5em;
 }
 
 /* --- Style cho các nút Tag --- */

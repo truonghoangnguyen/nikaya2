@@ -30,8 +30,28 @@ MN 65
 
 - Lúc đầu các tỳ kheo ăn 1 ngày 3 bữa 
 > Bạch Thế Tôn, trước đây chúng con từng ăn vào buổi tối, buổi sáng, ban ngày và cả những giờ sai quy định. Bạch Thế Tôn, đã có thời điểm Thế Tôn gọi các tỳ kheo lại [và dạy]: 
-MN 66
+MN 66; MN 70.4
 
 - [4 thiền]
 > Chính chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý chưa bị chặn đứng ở đó, đây là sự dao động ở đó.
 MN 66.22
+
+- Mối quan hệ cộng đồng, và cách xử lý giữa tỳ kheo và người dân và Thế Tôn rất đời sống mà ta thấy hàng ngày
+
+> 7. Rồi những người Sākyā ở Cātumā đi đến chỗ Đức Thế Tôn; đến nơi, đảnh lễ Đức Thế Tôn rồi ngồi xuống một bên. Khi đã ngồi xuống một bên, những người Sākyā ở Cātumā nói với Đức Thế Tôn:
+
+-  7 Bảy hạng giải thoát, giải thích chi tiết
+Theo đoạn này thì chỉ có giải thoát cả 2 phần và giải thoát bằng trí tuệ là hoàn thành. còn 5 loại còn lại còn cần 'không sao nhãng (phóng dật)'
+
+> 14\. Này các tỳ kheo, có bảy hạng người này đang tồn tại và hiện hữu ở đời. Bảy hạng nào? *Người giải thoát cả hai phần* (câu phần giải thoát / ubhatobhāgavimutto), *người giải thoát bằng tuệ* (tuệ giải thoát / paññāvimutto), *người chứng nghiệm bằng thân* (thân chứng / kāyasakkhi), *người đạt được nhờ quan điểm đúng* (kiến chí / diṭṭhippatto), *người giải thoát nhờ niềm tin* (tín giải / saddhāvimutto), *người đi theo Giáo pháp* (pháp tùy hành / dhammānusārī), *người đi theo niềm tin* (tín tùy hành / saddhānusārī).
+
+MN 70
+
+- Thành tựu đạt được qua học tập tuần tự
+> 22\. Này các tỳ kheo, Ta không nói rằng sự thành tựu trí tuệ sâu sắc có thể đạt được ngay từ lúc bắt đầu; mà này các tỳ kheo, sự thành tựu trí tuệ sâu sắc có được nhờ *học tập tuần tự* (tuần tự học / anupubbasikkhā), *hành động tuần tự* (tuần tự hành / anupubbakiriyā), *thực hành tuần tự* (tuần tự đạo / anupubbapaṭipadā).
+
+MN 70.22
+
+- Phật nói về sự trí tuệ của mình về 3 sự hiểu biết, điều này phù hợp với thế giới quan của chúng ta ngày nay, khác với những người nói Phật cái gì cũng biết.
+> "Này Vaccha, nếu giải thích rằng: ‘Sa-môn Gotama là người có ba sự hiểu biết (Tam minh / tevijjo)’, thì người đó đang nói đúng những gì Ta đã nói, không vu khống Ta bằng những điều không thật, giải thích đúng theo Điều đúng đắn, và không có một vị đồng tu nào có thể phản bác chê trách.
+MN 71.6

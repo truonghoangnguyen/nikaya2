@@ -1,6 +1,5 @@
 # MN 56. KINH UPĀLI (Tóm lược)
 
-[Bản so sánh→](/kinhtrungbo/pali-vi/mnc-056-kinh-uu-ba-ly){class="note-link"}
 
 **Bối cảnh:**
 Đức Phật đang trú tại Nāḷandā. Cùng lúc đó, giáo chủ đạo Jain (Kỳ-na giáo) là Nāṭaputta cũng đang ở đây. Bài kinh ghi lại cuộc tranh luận nổi tiếng về "nghiệp" (hành động) giữa Đức Phật và những người theo đạo Jain, dẫn đến việc gia chủ Upāli - một nhà tài trợ và đệ tử nòng cốt của đạo Jain - chuyển sang quy y Đức Phật.

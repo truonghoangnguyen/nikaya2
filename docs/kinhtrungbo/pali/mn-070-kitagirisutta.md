@@ -88,15 +88,15 @@ Mayā cetaṁ, bhikkhave, aññātaṁ abhavissa adiṭṭhaṁ aviditaṁ asacc
 
 24\. Sāpi nāma, bhikkhave, saddhā nāhosi; tampi nāma, bhikkhave, upasaṅkamanaṁ nāhosi; sāpi nāma, bhikkhave, payirupāsanā nāhosi; tampi nāma, bhikkhave, sotāvadhānaṁ nāhosi; tampi nāma, bhikkhave, dhammassavanaṁ nāhosi; sāpi nāma, bhikkhave, dhammadhāraṇā nāhosi; sāpi nāma, bhikkhave, atthūpaparikkhā nāhosi; sāpi nāma, bhikkhave, dhammanijjhānakkhanti nāhosi; sopi nāma, bhikkhave, chando nāhosi; sopi nāma, bhikkhave, ussāho nāhosi; sāpi nāma, bhikkhave, tulanā nāhosi; tampi nāma, bhikkhave, padhānaṁ nāhosi. Vippaṭipannāttha, bhikkhave, micchāpaṭipannāttha, bhikkhave. Kīva dūrevime, bhikkhave, moghapurisā apakkantā imamhā dhammavinayā.
 
-25\. Atthi, bhikkhave, catuppadaṁ veyyākaraṇaṁ yassuddiṭṭhassa viññū puriso nacirasseva paññāyatthaṁ ājāneyya. Uddisissāmi vo, bhikkhave, ājānissatha me tan”ti?
+    25\. Atthi, bhikkhave, catuppadaṁ veyyākaraṇaṁ yassuddiṭṭhassa viññū puriso nacirasseva paññāyatthaṁ ājāneyya. Uddisissāmi vo, bhikkhave, ājānissatha me tan”ti?
 
-“Ke ca mayaṁ, bhante, ke ca dhammassa aññātāro”ti?
+    “Ke ca mayaṁ, bhante, ke ca dhammassa aññātāro”ti?
 
-26\. “Yopi so, bhikkhave, satthā āmisagaru āmisadāyādo āmisehi saṁsaṭṭho viharati tassa pāyaṁ evarūpī paṇopaṇaviyā na upeti: ‘evañca no assa atha naṁ kareyyāma, na ca no evamassa na naṁ kareyyāmā’ti, kiṁ pana, bhikkhave, yaṁ tathāgato sabbaso āmisehi visaṁsaṭṭho viharati.
+    26\. “Yopi so, bhikkhave, satthā āmisagaru āmisadāyādo āmisehi saṁsaṭṭho viharati tassa pāyaṁ evarūpī paṇopaṇaviyā na upeti: ‘evañca no assa atha naṁ kareyyāma, na ca no evamassa na naṁ kareyyāmā’ti, kiṁ pana, bhikkhave, yaṁ tathāgato sabbaso āmisehi visaṁsaṭṭho viharati.
 
-27\. Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ayamanudhammo hoti: ‘satthā bhagavā, sāvakohamasmi; jānāti bhagavā, nāhaṁ jānāmī’ti. Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ruḷhanīyaṁ satthusāsanaṁ hoti ojavantaṁ. Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ayamanudhammo hoti: ‘kāmaṁ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṁsalohitaṁ, yaṁ taṁ purisathāmena purisavīriyena purisaparakkamena pattabbaṁ na taṁ apāpuṇitvā vīriyassa saṇṭhānaṁ bhavissatī’ti. Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
+    27\. Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ayamanudhammo hoti: ‘satthā bhagavā, sāvakohamasmi; jānāti bhagavā, nāhaṁ jānāmī’ti. Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ruḷhanīyaṁ satthusāsanaṁ hoti ojavantaṁ. Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato ayamanudhammo hoti: ‘kāmaṁ taco ca nhāru ca aṭṭhi ca avasissatu, sarīre upassussatu maṁsalohitaṁ, yaṁ taṁ purisathāmena purisavīriyena purisaparakkamena pattabbaṁ na taṁ apāpuṇitvā vīriyassa saṇṭhānaṁ bhavissatī’ti. Saddhassa, bhikkhave, sāvakassa satthusāsane pariyogāhiya vattato dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
 
-Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+    Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
 
 Kīṭāgirisuttaṁ niṭṭhitaṁ dasamaṁ.
 

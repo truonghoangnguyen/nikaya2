@@ -3,15 +3,15 @@
 
 1\.  Tôi nghe như vầy. Một thời, Đức Thế Tôn đang trú tại Vesālī, trong Rừng Lớn, tại Giảng đường có mái nhọn.
 
-2\.  Lúc bấy giờ, du sĩ Vacchagotta đang ở tại Công viên của các du sĩ gần Cây Xoài Sen Trắng Đơn Độc. [^712]
+2\.  Lúc bấy giờ, du sĩ Vacchagotta đang ở tại Công viên của các du sĩ gần Cây Xoài Sen Trắng Đơn Độc. [712](/kinhtrungbo/nanamoli-bodhi-vi/notes/071#712){.note}
 
 3\.  Rồi, vào buổi sáng, Đức Thế Tôn đắp y, mang bát, vào thành Vesālī để khất thực. Rồi Đức Thế Tôn nghĩ: “Vẫn còn quá sớm để đi khất thực ở Vesālī. Hay là ta đến chỗ du sĩ Vacchagotta ở Công viên của các du sĩ gần Cây Xoài Sen Trắng Đơn Độc.”
 
 4\.  Rồi Đức Thế Tôn đi đến chỗ du sĩ Vacchagotta ở Công viên của các du sĩ gần Cây Xoài Sen Trắng Đơn Độc. Du sĩ Vacchagotta thấy Đức Thế Tôn từ xa đi tới, liền nói với Ngài: “Kính mời Thế Tôn đến, bạch Ngài! Kính chào Thế Tôn! Đã lâu rồi Thế Tôn mới có dịp đến đây. Kính mời Thế Tôn ngồi; chỗ ngồi đã sẵn sàng.” Đức Thế Tôn ngồi xuống chỗ đã soạn sẵn, còn du sĩ Vacchagotta [482] lấy một chiếc ghế thấp, ngồi xuống một bên, và thưa với Đức Thế Tôn:
 
-5\.  “Bạch Ngài, con nghe nói rằng: ‘Sa-môn Cồ-đàm (recluse Gotama - nhà tu khổ hạnh Gotama) tự nhận là bậc toàn tri (omniscient - sabbaññū - người biết tất cả mọi thứ) và toàn kiến (all-seeing - sabbadassāvī - người thấy tất cả mọi thứ), có tri kiến hoàn toàn (complete knowledge and vision - ñāṇadassana sampanna - sự hiểu biết và cái thấy trọn vẹn) như sau: “Dù đang đi, đứng, ngủ hay thức, tri kiến (knowledge and vision - ñāṇadassana - sự hiểu biết và cái thấy) luôn có mặt nơi tôi một cách liên tục, không gián đoạn.”’ [^713] Bạch Ngài, những người nói như vậy có phải là nói đúng lời Đức Thế Tôn đã dạy, không xuyên tạc Ngài bằng điều không đúng sự thật không? Họ có giải thích đúng theo Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) để không ai có thể dựa vào lời khẳng định của họ mà suy diễn ra điều gì đáng khiển trách không?”
+5\.  “Bạch Ngài, con nghe nói rằng: ‘Sa-môn Cồ-đàm (recluse Gotama - nhà tu khổ hạnh Gotama) tự nhận là bậc toàn tri (omniscient - sabbaññū - người biết tất cả mọi thứ) và toàn kiến (all-seeing - sabbadassāvī - người thấy tất cả mọi thứ), có tri kiến hoàn toàn (complete knowledge and vision - ñāṇadassana sampanna - sự hiểu biết và cái thấy trọn vẹn) như sau: “Dù đang đi, đứng, ngủ hay thức, tri kiến (knowledge and vision - ñāṇadassana - sự hiểu biết và cái thấy) luôn có mặt nơi tôi một cách liên tục, không gián đoạn.”’ [713](/kinhtrungbo/nanamoli-bodhi-vi/notes/071#713){.note} Bạch Ngài, những người nói như vậy có phải là nói đúng lời Đức Thế Tôn đã dạy, không xuyên tạc Ngài bằng điều không đúng sự thật không? Họ có giải thích đúng theo Giáo Pháp (Dhamma - lời dạy của Đức Phật, chân lý) để không ai có thể dựa vào lời khẳng định của họ mà suy diễn ra điều gì đáng khiển trách không?”
 
-“Này Vaccha, những người nói như vậy không phải nói đúng lời ta đã dạy, mà họ xuyên tạc ta bằng điều không đúng sự thật, sai sự thật.” [^714]
+“Này Vaccha, những người nói như vậy không phải nói đúng lời ta đã dạy, mà họ xuyên tạc ta bằng điều không đúng sự thật, sai sự thật.” [714](/kinhtrungbo/nanamoli-bodhi-vi/notes/071#714){.note}
 
 6\.  “Bạch Ngài, vậy con nên trả lời thế nào để nói đúng lời Đức Thế Tôn đã dạy và không xuyên tạc Ngài bằng điều không đúng sự thật? Làm sao con có thể giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của con mà suy diễn ra điều gì đáng khiển trách?”
 
@@ -26,7 +26,7 @@
 10\. “Nếu ông trả lời rằng: ‘Sa-môn Cồ-đàm có tam minh,’ [483] thì ông sẽ nói đúng lời ta đã dạy và không xuyên tạc ta bằng điều không đúng sự thật. Ông sẽ giải thích đúng theo Giáo Pháp, để không ai có thể dựa vào lời khẳng định của ông mà suy diễn ra điều gì đáng khiển trách.”
 
 <!--pg-->
-11\. Khi nghe vậy, du sĩ Vacchagotta hỏi Đức Thế Tôn: “Thưa Tôn giả Cồ-đàm (Master Gotama - cách gọi tôn kính dành cho Gotama), có người gia chủ (householder - gahapati - người tại gia, sống đời sống gia đình) nào, mà không từ bỏ sự ràng buộc của đời sống gia đình (fetter of householdership - gihisamyojana - những trói buộc liên quan đến đời sống tại gia như gia đình, tài sản, danh vọng), sau khi thân hoại mạng chung, đã chấm dứt khổ đau (made an end of suffering - dukkhassantaṃ akāsi - đạt đến sự kết thúc hoàn toàn của khổ, tức Niết Bàn) không?” [^715]
+11\. Khi nghe vậy, du sĩ Vacchagotta hỏi Đức Thế Tôn: “Thưa Tôn giả Cồ-đàm (Master Gotama - cách gọi tôn kính dành cho Gotama), có người gia chủ (householder - gahapati - người tại gia, sống đời sống gia đình) nào, mà không từ bỏ sự ràng buộc của đời sống gia đình (fetter of householdership - gihisamyojana - những trói buộc liên quan đến đời sống tại gia như gia đình, tài sản, danh vọng), sau khi thân hoại mạng chung, đã chấm dứt khổ đau (made an end of suffering - dukkhassantaṃ akāsi - đạt đến sự kết thúc hoàn toàn của khổ, tức Niết Bàn) không?” [715](/kinhtrungbo/nanamoli-bodhi-vi/notes/071#715){.note}
 
 “Này Vaccha, không có người gia chủ nào, mà không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, lại chấm dứt được khổ đau.”
 
@@ -34,13 +34,13 @@
 
 “Này Vaccha, không chỉ một trăm, hai trăm, ba trăm, bốn trăm hay năm trăm, mà còn nhiều hơn thế nữa những người gia chủ, dù không từ bỏ sự ràng buộc của đời sống gia đình, sau khi thân hoại mạng chung, đã được sinh lên cõi trời.”
 
-13\. “Thưa Tôn giả Cồ-đàm, có người theo phái Ājīvaka (Ājīvaka - một trường phái tu khổ hạnh cùng thời với Đức Phật, nổi tiếng với thuyết định mệnh, cho rằng mọi sự đã được an bài, không thể thay đổi bởi nỗ lực cá nhân) nào, sau khi thân hoại mạng chung, đã chấm dứt khổ đau không?” [^716]
+13\. “Thưa Tôn giả Cồ-đàm, có người theo phái Ājīvaka (Ājīvaka - một trường phái tu khổ hạnh cùng thời với Đức Phật, nổi tiếng với thuyết định mệnh, cho rằng mọi sự đã được an bài, không thể thay đổi bởi nỗ lực cá nhân) nào, sau khi thân hoại mạng chung, đã chấm dứt khổ đau không?” [716](/kinhtrungbo/nanamoli-bodhi-vi/notes/071#716){.note}
 
 “Này Vaccha, không có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, lại chấm dứt được khổ đau.”
 
 14\. “Thưa Tôn giả Cồ-đàm, có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, đã được sinh lên cõi trời không?”
 
-“Này Vaccha, khi ta nhớ lại chín mươi mốt đại kiếp (aeons - kappa/kalpa - những khoảng thời gian vũ trụ cực kỳ dài, một kiếp trái đất hình thành và hoại diệt) đã qua, ta không nhớ có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, được sinh lên cõi trời, ngoại trừ một người duy nhất, và người đó tin vào thuyết nghiệp báo (doctrine of the moral efficacy of action - kammavāda - học thuyết cho rằng hành động (nghiệp) có kết quả đạo đức, thiện có quả lành, ác có quả dữ), tin vào kết quả của hành động (doctrine of the moral efficacy of deeds - kiriyavāda - học thuyết cho rằng hành động có hiệu quả, có thể tạo ra thay đổi, đối lập với thuyết định mệnh).” [^717]
+“Này Vaccha, khi ta nhớ lại chín mươi mốt đại kiếp (aeons - kappa/kalpa - những khoảng thời gian vũ trụ cực kỳ dài, một kiếp trái đất hình thành và hoại diệt) đã qua, ta không nhớ có người theo phái Ājīvaka nào, sau khi thân hoại mạng chung, được sinh lên cõi trời, ngoại trừ một người duy nhất, và người đó tin vào thuyết nghiệp báo (doctrine of the moral efficacy of action - kammavāda - học thuyết cho rằng hành động (nghiệp) có kết quả đạo đức, thiện có quả lành, ác có quả dữ), tin vào kết quả của hành động (doctrine of the moral efficacy of deeds - kiriyavāda - học thuyết cho rằng hành động có hiệu quả, có thể tạo ra thay đổi, đối lập với thuyết định mệnh).” [717](/kinhtrungbo/nanamoli-bodhi-vi/notes/071#717){.note}
 
 15\. “Nếu vậy, thưa Tôn giả Cồ-đàm, thì các trường phái ngoại đạo (other sectarians - aññatitthiya - những người theo các giáo lý khác ngoài Phật giáo vào thời Đức Phật) này trống rỗng, ngay cả cơ hội được sinh lên cõi trời [cũng không có].”
 
