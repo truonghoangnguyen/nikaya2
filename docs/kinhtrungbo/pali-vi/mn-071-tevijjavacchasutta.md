@@ -1,51 +1,58 @@
-# MN 71. Tevijjavacchasutta
+---
+description: Đức Phật đang ở Vesālī, đến thăm du sĩ Vacchagotta. Vacchagotta hỏi Đức Phật về tin đồn Ngài tự xưng là người toàn tri toàn kiến (biết mọi thứ mọi lúc, cả khi thức lẫn khi ngủ). Đức Phật phủ nhận điều này.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
+# MN 71. KINH VỀ VACCHA VÀ BA SỰ HIỂU BIẾT
+*(Tevijjavacchasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-071){class="note-link"}
 
-2\. Tena kho pana samayena vacchagotto paribbājako ekapuṇḍarīke paribbājakārāme paṭivasati.
+1\. Tôi đã nghe như vầy—một thời Thế Tôn trú ở Vesālī, tại Đại Lâm, trong Trùng Các Giảng Đường.
 
-3\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya vesāliṁ piṇḍāya pāvisi. Atha kho bhagavato etadahosi: “atippago kho tāva vesāliyaṁ piṇḍāya carituṁ; yannūnāhaṁ yena ekapuṇḍarīko paribbājakārāmo yena vacchagotto paribbājako tenupasaṅkameyyan”ti. Atha kho bhagavā yena ekapuṇḍarīko paribbājakārāmo yena vacchagotto paribbājako tenupasaṅkami.
+2\. Lúc bấy giờ, du sĩ Vacchagotta đang trú tại khu vườn của các du sĩ tên là Ekapuṇḍarīka.
 
-4\. Addasā kho vacchagotto paribbājako bhagavantaṁ dūratova āgacchantaṁ. Disvāna bhagavantaṁ etadavoca: “Etu kho, bhante, bhagavā. Svāgataṁ, bhante, bhagavato. Cirassaṁ kho, bhante, bhagavā imaṁ pariyāyamakāsi yadidaṁ idhāgamanāya. Nisīdatu, bhante, bhagavā idamāsanaṁ paññattan”ti.
+3\. Rồi Thế Tôn, vào buổi sáng, đắp y, cầm bình bát đi vào Vesālī để khất thực. Rồi Thế Tôn suy nghĩ: "Bây giờ đi khất thực ở Vesālī thì còn quá sớm; hay là Ta đi đến khu vườn của các du sĩ Ekapuṇḍarīka, đến chỗ du sĩ Vacchagotta". Rồi Thế Tôn đi đến khu vườn của các du sĩ Ekapuṇḍarīka, đến chỗ du sĩ Vacchagotta.
 
-Nisīdi bhagavā paññatte āsane. Vacchagottopi kho paribbājako aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
+4\. Du sĩ Vacchagotta thấy Thế Tôn đang đi đến từ xa. Thấy vậy, liền nói với Thế Tôn: "Kính bạch Thế Tôn, xin Ngài hãy đến. Chào mừng Thế Tôn. Đã lâu lắm rồi Thế Tôn mới có dịp đến đây. Kính bạch Thế Tôn, xin Ngài hãy ngồi, đây là chỗ ngồi đã được dọn sẵn".
 
-5\. “sutaṁ metaṁ, bhante: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti. Ye te, bhante, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti?
+Thế Tôn ngồi trên chỗ ngồi đã dọn sẵn. Du sĩ Vacchagotta lấy một cái ghế thấp khác và ngồi xuống một bên. Ngồi xuống một bên, du sĩ Vacchagotta nói với Thế Tôn:
 
-“Ye te, vaccha, evamāhaṁsu: ‘samaṇo gotamo sabbaññū sabbadassāvī, aparisesaṁ ñāṇadassanaṁ paṭijānāti, carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, na me te vuttavādino, abbhācikkhanti ca pana maṁ asatā abhūtenā”ti.
+5\. "Kính bạch Thế Tôn, tôi nghe như vầy: 'Sa-môn Gotama là *người hiểu biết toàn bộ và thấy rõ toàn bộ* (toàn tri toàn kiến / sabbaññū sabbadassāvī), tự xưng là có *sự hiểu biết và thấy rõ bản chất* (tri kiến / ñāṇadassanaṁ) không tì vết [rằng]: "Dù tôi đang đi, đang đứng, đang ngủ hay đang thức, *sự hiểu biết và thấy rõ bản chất* luôn luôn hiện hữu liên tục"'. Kính bạch Thế Tôn, những ai nói rằng: 'Sa-môn Gotama là *người hiểu biết toàn bộ và thấy rõ toàn bộ*, tự xưng là có *sự hiểu biết và thấy rõ bản chất* không tì vết [rằng]: "Dù tôi đang đi, đang đứng, đang ngủ hay đang thức, *sự hiểu biết và thấy rõ bản chất* luôn luôn hiện hữu liên tục"', phải chăng họ đang nói đúng những gì Thế Tôn đã nói, không vu khống Thế Tôn bằng những điều không thật, giải thích đúng theo *Điều đúng đắn* (pháp / dhamma), và không có một vị đồng tu nào có thể phản bác chê trách?"
 
-6\. “Kathaṁ byākaramānā pana mayaṁ, bhante, vuttavādino ceva bhagavato assāma, na ca bhagavantaṁ abhūtena abbhācikkheyyāma, dhammassa cānudhammaṁ byākareyyāma, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgaccheyyā”ti?
+"Này Vaccha, những ai nói rằng: 'Sa-môn Gotama là *người hiểu biết toàn bộ và thấy rõ toàn bộ*, tự xưng là có *sự hiểu biết và thấy rõ bản chất* không tì vết [rằng]: "Dù tôi đang đi, đang đứng, đang ngủ hay đang thức, *sự hiểu biết và thấy rõ bản chất* luôn luôn hiện hữu liên tục"', họ không nói đúng những gì Ta đã nói, họ đang vu khống Ta bằng những điều không có thật, không đúng sự thật."
 
-“‘Tevijjo samaṇo gotamo’ti kho, vaccha, byākaramāno vuttavādī ceva me assa, na ca maṁ abhūtena abbhācikkheyya, dhammassa cānudhammaṁ byākareyya, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgaccheyya.
+6\. "Vậy chúng tôi phải giải thích như thế nào, kính bạch Thế Tôn, để nói đúng những gì Thế Tôn đã nói, không vu khống Thế Tôn bằng những điều không thật, giải thích đúng theo *Điều đúng đắn*, và không có một vị đồng tu nào có thể phản bác chê trách?"
 
-7\. Ahañhi, vaccha, yāvadeva ākaṅkhāmi anekavihitaṁ pubbenivāsaṁ anussarāmi, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarāmi.
+"Này Vaccha, nếu giải thích rằng: 'Sa-môn Gotama là *người có ba sự hiểu biết* (Tam minh / tevijjo)', thì người đó đang nói đúng những gì Ta đã nói, không vu khống Ta bằng những điều không thật, giải thích đúng theo *Điều đúng đắn*, và không có một vị đồng tu nào có thể phản bác chê trách.
 
-8\. Ahañhi, vaccha, yāvadeva ākaṅkhāmi dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate …pe… yathākammūpage satte pajānāmi.
+7\. Này Vaccha, bất cứ khi nào Ta muốn, Ta nhớ lại nhiều đời sống quá khứ, như là—một đời, hai đời ...[lặp lại]... cứ như thế, Ta nhớ lại nhiều đời sống quá khứ cùng với các nét đại cương và các chi tiết.
 
-9\. Ahañhi, vaccha, āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharāmi.
+8\. Này Vaccha, bất cứ khi nào Ta muốn, với *mắt thần* (thiên nhãn / dibbena cakkhunā) thanh tịnh siêu nhiên, Ta thấy chúng sinh chết đi và sinh lại, kẻ hạ liệt người cao sang, kẻ đẹp đẽ người xấu xí, kẻ may mắn người bất hạnh ...[lặp lại]... Ta *biết rõ* (tuệ tri / pajānāmi) chúng sinh đi về đâu tùy theo hành động của họ.
 
-10\. ‘Tevijjo samaṇo gotamo’ti kho, vaccha, byākaramāno vuttavādī ceva me assa, na ca maṁ abhūtena abbhācikkheyya, dhammassa cānudhammaṁ byākareyya, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgaccheyyā”ti.
+9\. Này Vaccha, do *nguồn ác* (lậu hoặc / āsava) đã *cạn kiệt* (đoạn tận / khaya), Ta tự mình *hiểu toàn bộ* (thắng tri / abhiññā) và *trực tiếp chứng nghiệm* (chứng ngộ / sacchikatvā) ngay trong hiện tại, đạt được và an trú trong tâm giải thoát và tuệ giải thoát không còn *nguồn ác*.
 
-11\. Evaṁ vutte, vacchagotto paribbājako bhagavantaṁ etadavoca: “atthi nu kho, bho gotama, koci gihī gihisaṁyojanaṁ appahāya kāyassa bhedā dukkhassantakaro”ti?
+10\. Này Vaccha, nếu giải thích rằng: 'Sa-môn Gotama là *người có ba sự hiểu biết*', thì người đó đang nói đúng những gì Ta đã nói, không vu khống Ta bằng những điều không thật, giải thích đúng theo *Điều đúng đắn*, và không có một vị đồng tu nào có thể phản bác chê trách."
 
-“Natthi kho, vaccha, koci gihī gihisaṁyojanaṁ appahāya kāyassa bhedā dukkhassantakaro”ti.
+<!--pg-->
+11\. Khi được nói như vậy, du sĩ Vacchagotta nói với Thế Tôn: "Thưa tôn giả Gotama, có người tại gia nào không *từ bỏ* (đoạn trừ / appahāya) *xiềng xích của người tại gia* (gia chủ kiết sử / gihisaṁyojanaṁ) mà sau khi thân hoại mạng chung lại có thể *chấm dứt đau khổ* (diệt tận khổ đau / dukkhassantakaro) không?"
 
-12\. “Atthi pana, bho gotama, koci gihī gihisaṁyojanaṁ appahāya kāyassa bhedā saggūpago”ti?
+"Này Vaccha, không có người tại gia nào không *từ bỏ* *xiềng xích của người tại gia* mà sau khi thân hoại mạng chung lại có thể *chấm dứt đau khổ*."
 
-“Na kho, vaccha, ekaṁyeva sataṁ na dve satāni na tīṇi satāni na cattāri satāni na pañca satāni, atha kho bhiyyova ye gihī gihisaṁyojanaṁ appahāya kāyassa bhedā saggūpagā”ti.
+12\. "Thưa tôn giả Gotama, có người tại gia nào không *từ bỏ* *xiềng xích của người tại gia* mà sau khi thân hoại mạng chung lại được *tái sinh vào cõi trời* (sanh thiên / saggūpago) không?"
 
-13\. “Atthi nu kho, bho gotama, koci ājīvako kāyassa bhedā dukkhassantakaro”ti?
+"Này Vaccha, không phải chỉ có một trăm, không phải hai trăm, không phải ba trăm, không phải bốn trăm, không phải năm trăm, mà còn nhiều hơn thế nữa những người tại gia không *từ bỏ* *xiềng xích của người tại gia* mà sau khi thân hoại mạng chung lại được *tái sinh vào cõi trời*."
 
-“Natthi kho, vaccha, koci ājīvako kāyassa bhedā dukkhassantakaro”ti.
+13\. "Thưa tôn giả Gotama, có *tu sĩ phái Ājīvaka* (ājīvako,  giáo phái tu khổ hạnh đặc trưng với thuyết định mệnh tuyệt đối) nào sau khi thân hoại mạng chung lại có thể *chấm dứt đau khổ* không?"
 
-14\. “Atthi pana, bho gotama, koci ājīvako kāyassa bhedā saggūpago”ti?
+"Này Vaccha, không có *tu sĩ phái Ājīvaka* nào sau khi thân hoại mạng chung lại có thể *chấm dứt đau khổ*."
 
-“Ito kho so, vaccha, ekanavuto kappo yamahaṁ anussarāmi, nābhijānāmi kañci ājīvakaṁ saggūpagaṁ aññatra ekena; sopāsi kammavādī kiriyavādī”ti.
+14\. "Thưa tôn giả Gotama, có *tu sĩ phái Ājīvaka* nào sau khi thân hoại mạng chung lại được *tái sinh vào cõi trời* không?"
 
-15\. “Evaṁ sante, bho gotama, suññaṁ aduṁ titthāyatanaṁ antamaso saggūpagenapī”ti?
+"Này Vaccha, trong chín mươi mốt kiếp mà Ta nhớ lại, Ta không thấy một *tu sĩ phái Ājīvaka* nào được *tái sinh vào cõi trời*, ngoại trừ một người; và người đó là người *thuyết có nghiệp quả* (nghiệp luận / kammavādī) và *thuyết có hành động* (tác nghiệp luận / kiriyavādī)."
 
-“Evaṁ, vaccha, suññaṁ aduṁ titthāyatanaṁ antamaso saggūpagenapī”ti.
+15\. "Nếu là như vậy, thưa tôn giả Gotama, thì *trường phái ngoại đạo* (ngoại đạo xứ / titthāyatanaṁ) kia hoàn toàn trống rỗng, ngay cả cơ hội được *tái sinh vào cõi trời*."
 
-Idamavoca bhagavā. Attamano vacchagotto paribbājako bhagavato bhāsitaṁ abhinandīti.
+"Đúng vậy, này Vaccha, *trường phái ngoại đạo* kia hoàn toàn trống rỗng, ngay cả cơ hội được *tái sinh vào cõi trời*."
 
-Tevijjavacchasuttaṁ niṭṭhitaṁ paṭhamaṁ.
+Thế Tôn thuyết giảng như vậy. Du sĩ Vacchagotta hoan hỷ, vui mừng đón nhận lời Thế Tôn dạy.
+
+Kinh Tevijjavaccha thứ nhất kết thúc.
