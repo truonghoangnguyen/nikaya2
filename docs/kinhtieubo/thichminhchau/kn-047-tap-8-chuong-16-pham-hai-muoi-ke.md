@@ -120,7 +120,7 @@ Tâm hân hoan, ý mãn,\
 Các căn cảm xúc được,\
 Niết-bàn đạo, vô vi.
 
-### **(CCXLIX) Pàràpariya (Thera. 72)**
+### **(CCXLIX) Pàràpariya (Thera. 72)** {#249}
 
 Trong thời đức Phật tại thế, ngài sanh ở Sàvatthi, làm một con Bà-la-môn nổi tiếng, và khi lớn lên ngài được gọi theo tên gia tộc Pàrapara là Pàràpariya. Ðược khéo giáo dục về văn hệ Bà-la-môn, một hôm ngài đi đến tịnh xá Jetavana trong khi Thế Tôn đang thuyết pháp, và đến ngồi nghe, gần phía bên ngoài hội chúng. Bậc Ðạo Sư, nhận xét tâm tánh ngài, dạy kinh ‘Căn tu tập Indriyabhàvanà’, nghe xong, ngài khởi lòng tin, xin xuất gia. Sau khi học kinh này thuộc lòng, ngài suy tư trên ý nghĩa, nghĩ rằng: ‘Trong những bài kệ, ý nghĩa được xuất hiện như thế này, thế này’. Sau khi suy tư về vấn đề các căn cảm thọ, ngài phát triển thiền quán và sau một thời gian, ngài chứng quả A-la-hán. Về sau, ngài nói lên thiền định của ngài với những bài kệ như sau:
 
@@ -233,7 +233,7 @@ Làm theo giáo huấn Phật,\
 Làm toàn diện, toàn lực,\
 Người ấy hưởng an lạc.
 
-### **(CCL) Kelakàni (Thera. 298)**
+### **(CCL) Kelakàni (Thera. 298)** {#250}
 
 Trong thời đức Phật hiện tại, ngài sanh trước đức Phật ở Sàvatthi trong một gia đình Bà-la-môn và đặt tên là Kelakàni. Quá kinh nghiệm về những vấn đề quá khứ, ngài chán nản dục vọng và xuất gia làm người du sĩ ngoại đạo.Tìm sự giải thoát tinh thần, ngài giao du nhiều chỗ, nghĩ rằng ai ở đời này đã đến được bờ bên kia. Ngài hỏi rất nhiều Sa-môn và Bà-la-môn nhưng không được trả lời thỏa đáng. Lúc bấy giờ, Thế Tôn đã ra đời, đang chuyển Pháp Luân, đem lại hạnh phúc cho chúng sanh. Một hôm, Kelakàni nghe đức Phật thuyết pháp, khởi lòng tin, được xuất gia và không bao lâu chứng quả A-la-hán. Một hôm, ngồi với các Tỷ-kheo, nhớ đến sự khó nhọc tìm đạo và chứng đạo của mình, ngài tuyên bố với chúng Tỷ-kheo như sau:
 
@@ -364,7 +364,7 @@ Chấm dứt các pháp ấy.
 Ðức Phật cởi, quăng đi,\
 Loại bỏ mọi độc hại.
 
-### **(CCLI) Ratthapàla (Thera. 75)**
+### **(CCLI) Ratthapàla (Thera. 75)** {#251}
 
 Trong thời Ðức Phật hiện tại, ngài sanh ra ở nước Kuru, trong thành phố Thullakotthita, con của một hội viên hội đồng thành phố tên Ratthapàla và được gọi theo tên gia tộc, ngài được sống trong nhung lụa, lớn lên được gả vợ và sống như một thiên thần. Khi đức Phật đến thuyết pháp ở Thullakotthila, Ratthapàla đến nghe giảng, khởi lòng tin, xin cha mẹ được xuất gia rất khó khăn. Ði đến bậc Ðạo Sư, ngài được thọ giới với một Tỷ-kheo theo lời giới thiệu của đức Phật, tu học rất tinh tấn, phát triển thiền quán và chứng quả A-la-hán. Rồi ngài được phép về thăm cha mẹ, đi đến Thullakotthita và đi khất thực từng nhà. Ðến nhà cha mẹ, ngài nhận được cơm chua đã lâu ngày nhưng ngài vẫn ăn như là đồ ăn bất tử. Ngày sau, theo lời mời của người cha, ngài đến thăm nhà và các người vợ trước của ngài, ăn mặc rất đẹp đẽ, hỏi ngài, vì những thiên nữ nào, ngài đã xuất gia. Ngài thuyết pháp cho họ về vô thường v.v… từ khước những hành vi cám dỗ của họ:
 
@@ -527,7 +527,7 @@ Bỏ nhà, sống không nhà,\
 Mục đích ấy ta đạt,\
 Mọi kiết sử tận diệt.
 
-### **(CCLII) Màlunkyaputta (Thera. 77).**
+### **(CCLII) Màlunkyaputta (Thera. 77).** {#252}
 
 Ðời sống của ngài được ghi trong chương VI (CCXIV) khi bậc Trưởng lão đã chứng quả A-la-hán, nói lên bài kệ để dạy cho các bà con về con đường. Nhưng trong những bài kệ này, bậc Trưởng lão chưa chứng quả A-la-hán, hỏi Thế Tôn về giáo lý vắn tắt, và được Thế Tôn trả lời:
 
@@ -683,7 +683,7 @@ Như vậy, không chứa khổ,\
 
 Rồi vị Trưởng lão đứng dậy, đảnh lễ bậc Ðạo Sư, rồi ra đi không bao lâu sau đó, phát triển thiền quán, ngài chứng quả A-la-hán.
 
-### **(CCLIII) Sela (Thera. 78)**
+### **(CCLIII) Sela (Thera. 78)** {#253}
 
 Ðược sanh trong thời đức Phật hiện tại ở Anguttaràpa, trong một gia đình Bà-la-môn, tại một làng Bà-la-môn ở Apana, ngài được đặt tên là Sela. Khi đến tuổi trưởng thành, ngài sống ở đấy, rất giỏi về ba tập Vệ-đà và về nghệ thuật Bà-la-môn, dạy các Mantrà (thần chú) cho ba trăm thanh niên Bà-la-môn. Trong khi ấy Thế Tôn rời bỏ Sàvatthi, đang du hành ở Anguttaràpa với một ngàn hai trăm năm mươi vị Tỷ-kheo. Biết được tám tánh thuần thục của Sela và các đệ tử của ngài, đức Phật dừng lại tại một khu rừng. Rồi ẩn sĩ Keniya, sau khi mời bậc Ðạo Sư với chúng Tỷ-kheo dùng cơm vào ngày sau, đang sửa soạn rất nhiều món đồ ăn. Rồi Sela với ba trăm đệ tử đến thăm am thất và hỏi có phải Keniya đang sửa soạn để đón mừng vị Ðại thần của vua. Khi Keniya trả lời là sửa soạn thức ăn để mời đức Phật, Sela cảm thấy hết sức xúc cảm với chữ đức Phật, đi đến gặp ngay đức Phật với các thanh niên đệ tử của mình. Sau khi nói lên những lời chào đón hỏi thăm, ngài chiêm ngưỡng các tướng tốt đức Phật và nghĩ rằng: ‘Một vị có những tướng tốt như vậy, một là sẽ thành vị Chuyển luân Thánh vương, hai là sẽ thành Phật’. Một vị Phật khi nghe tán thán về mình sẽ lộ rõ chân tướng Phật của mình. Còn nếu chưa thành Phật, khi nghe tán thán về đức Phật sẽ cảm thấy khó chịu và bất mãn. Ngài quyết định nói lên lời tán thán đức Phật như sau:
 
@@ -849,7 +849,7 @@ Hãy duỗi chân bước tới,\
 Hãy để các đại nhân,\
 Ðảnh lễ bậc Ðạo Sư.
 
-### **(CCLIV) Bhaddiya kàligodhàyaputta (Thera. 80)**
+### **(CCLIV) Bhaddiya kàligodhàyaputta (Thera. 80)** {#254}
 
 Sanh trong thời đức Phật hiện tại, ở Kapilavatthu, trong một dòng họ Sàkya, ngài được đặt tên là Bhaddiya. Khi đã trưởng thành, ngài từ bỏ gia đình, cùng với Anuruddha và bốn vị hoàng tộc khác, khi bậc Ðạo Sư đang ở trong vườn xoài, tại Anupiy. Khi xuất gia, ngài chứng được quả A-la-hán. Ngài được đức Phật xác chứng là đệ nhất trong những Tỷ-kheo thuộc về hoàng tộc. Mỗi khi ngài hưởng lạc giải thoát, lạc Niết-bàn trong lúc ở trong rừng, dưới một gốc cây, trong cảnh rừng tịch tịnh, ngài thường thốt ra lời: ‘Ôi hạnh phúc làm sao! Ôi, hạnh phúc làm sao!’ Ðược đức Phật hỏi vì sao ngài thốt ra lời ấy, ngài trả lời khi ngài trị vì quốc độ của ngài, dầu ngài được bảo vệ chặt chẽ, ngài vẫn cảm thấy sợ hãi, hoảng hốt. Nhưng nay ngài đã từ bỏ tất cả, ngài không còn trong trạng thái sợ hãi nữa. Rồi trước mặt Thế Tôn, ngài rống lên tiếng rống con sư tử:
 
@@ -973,7 +973,7 @@ Chánh niệm, tu tuệ quán,\
 Thứ lớp ta đạt được,\
 Mọi kiết sử đoạn diệt.
 
-### **(CCLV) Angulimàlà (Thera. 80)**
+### **(CCLV) Angulimàlà (Thera. 80)** {#255}
 
 Trong thời đức Phật hiện tại, ngài sanh làm con một Bà-la-môn tên Bhaggava, giữ chức cố vấn tôn giáo cho vua nước Kosala. Trong đêm ngài sanh, các binh khí trong thành phố rực sáng, các binh giáp của vua cũng rực sáng, thành thử khi vua nằm trên giường thấy như vậy nên không thể ngủ được, thao thức và sợ hãi. Vị cố vấn nghi lễ tìm hiểu các vì sao và kết luận con mình đã sanh trúng đám sao ăn trộm. Sáng sớm, ông đến chầu vua và hỏi vua ngủ có an giấc không? Vua trả lời vua ngủ không an giấc được, vì cả đêm thấy áo giáp chói sáng và hỏi điềm ấy là điềm gì? Vị cố vấn trả lời là do mình sanh đứa con, áo giáp cả thành phố đều chói sáng, và khi được biết đứa con sau này có thể trở thành tên tướng cướp độc thân có thể chế ngự được, nên vua tha cho khỏi bị giết.
 
@@ -1157,7 +1157,7 @@ Lời Phật dạy làm xong,\
 Gánh nặng đã đặt xuống,\
 Gốc sanh hữu nhổ sạch.
 
-### **(CCLVI) Anuruddha (Thera. 83)**
+### **(CCLVI) Anuruddha (Thera. 83)** {#256}
 
 Trong thời đức Phật hiện tại, ngài được sanh ở Kapilavatthu, trong nhà dòng họ Sakya Amitodana và được đặt tên là Anuruddha.Anh của ngài là Thích-ca Mahànàma, con người cậu của đức Phật. Ngài được nuôi dưỡng rất tế nhị, mỗi mùa ở mỗi nhà khác nhau, có các vũ nữ vũ sư đoanh vây, thọ hưởng sự giàu sang thần tiên. Khi được gọi làm người bảo vệ cho bậc Ðạo Sư, ngài đi đến đức Phật, trong rừng xoài ở Anupiyà, thọ giới xuất gia, và trong mùa an cư mùa mưa, ngài chứng Thiên nhãn. Nhận được đề tài thiền quán từ ngài Xá-lợi-phất. Ngài đi đến rừng trúc ở phương Ðông, hành thiền quán, và chứng được bảy tư duy của một vị Ðại nhân, nhưng chưa chứng được tư duy thứ tám. Bậc Ðạo Sư nhận thấy vậy liền dạy cho ngài quá trình tu chứng của bậc Thánh. Nhớ lại lời dạy này, Anuruddha phát triển thiền quán và chứng quả A-la-hán cùng với thắng trí và vô ngại giải thù thắng. Ngài được Thế Tôn xác nhận là bậc Thiên nhãn đệ nhất. Và ngài sống trong an lạc giải thoát. Một hôm ôn lại quá trình tu chứng của mình, ngài hoan hỷ phấn khởi, và nói lên bài kệ sau đây:
 
@@ -1329,7 +1329,7 @@ Dưới bóng của khóm trúc,\
 Ta sẽ nhập Niết-bàn,\
 Không còn có lậu hoặc.
 
-### **(CCLVII) Pàràpariya (Thera. 84)**
+### **(CCLVII) Pàràpariya (Thera. 84)** {#257}
 
 Ðời sống của ngài đã được nói đến phẩm CCXLIX. Các kệ trước được nói lên khi đức Bổn Sư còn sống. Khi ngài chưa chứng quả A-la-hán, về vấn đề sáu lực (năm căn và ý). Những bài kệ sau đây được nói lên khi đức Bổn Sư đã viên tịch và khi ngài sắp sửa mệnh chung. Trong những bài kệ này, ngài nói lên tương lai của các Tỷ-kheo khi họ theo tà pháp.
 

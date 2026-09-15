@@ -1,6 +1,6 @@
 # Chương 13 – Phẩm Mười Ba Kệ
 
-### **(CCXLIII) Sona-Kolivisa (Thera. 65)**
+### **(CCXLIII) Sona-Kolivisa (Thera. 65)** {#243}
 
 Trong thời đức Phật hiện tại, ngài sanh tại Campà, trong gia đình một hội viên của Hội đồng thành phố nổi tiếng. Từ khi ngài sắp được sanh, tài sản lớn của phụ thân được tăng trưởng, và khi ngài được sanh, cả thành phố tổ chức hội lễ lớn. Vì ngài bố thí cúng dường cho một vị Ðộc giác Phật trong đời trước, nên đời này ngài có một thân hình như bằng vàng mịn và đặc biệt mềm mại, và ngài được gọi là Sona (vàng). Dưới chân và trên bàn tay của ngài có lông mịn màu vàng mọc lên, và ngài được nuôi dưỡng trong giàu sang xa hoa, có đến ba tòa lâu đài thích hợp cho từng mùa.
 

@@ -1,6 +1,6 @@
 # Chương 3 – Phẩm Ba Kệ
 
-### **(CLXX) Anganika Bhàradvàja (Thera. 29)**
+### **(CLXX) Anganika Bhàradvàja (Thera. 29)** {#170}
 
 Trong thời đức Phật hiện tại, ngài sanh gần núi Hy-mã-lạp-sơn, trong thành phố Ukkattha, trong gia đình một Bà-la-môn phú cường và được đặt tên là Anganika Bhàradvàja. Khi ngài được học xong giáo điển và nghệ thuật Vệ-đà, ngài hướng về giải thoát. Trong khi bộ hành chỗ này chỗ khác, ngài gặp bậc Ðạo Sư khi bậc Ðạo Sư đang du hành ở vùng quê, và với tâm tư tín thành, ngài nghe bậc Ðạo Sư thuyết giảng. Từ bỏ tà khổ hạnh, ngài xuất gia, tu tập thiền quán, và sau một thời gian chứng được sáu thắng trí.
 
@@ -25,7 +25,7 @@ Thuần thục lời Phật dạy.
 
 Khi các Bà-la-môn ấy nghe ngài nói, các vị ấy chấp nhận và từ bỏ rất là phấn khởi.
 
-### **(CLXXI) Paccaya (Thera. 29)**
+### **(CLXXI) Paccaya (Thera. 29)** {#171}
 
 Trong thời đức Phật hiện tại, ngài sanh ở thành Rohi trong một gia đình hoàng tộc, và được đặt tên là Paccaya. Thọ hưởng gia tài khi phụ thân mệnh chung, ngài tuyên bố tổ chức một đàn bố thí rất lớn và một số đông người tụ họp. Trong cuộc tụ họp này, bậc Ðạo Sư ngồi trên một ngai vàng trong một ngôi nhà trang hoàng châu báu. Ðức Phật thuyết pháp, trong khi mọi người ngắm, chiêm ngưỡng ngài. Phần lớn dân chúng hiểu lời đức Bổn Sư dạy, nhưng ngài Paccaya đi xa hơn. Thúc đẩy bởi nghiệp duyên đời trước, ngài từ bỏ tài sản và xuất gia như trước kia ngài đã phát nguyện dưới thời đức Phật Kassapa, nay ngài đã phát nguyện, khi đã vào am tranh tu hành, nếu chưa giải thoát thời không ra khỏi am này và cuối cùng thiền quán được phát triển, trí tuệ được thuần thục, ngài chứng quả A-la-hán. Ðể kỷ niệm thành quả này, ngài nói lên quả chứng của ngài, ngang qua những bài kệ như sau:
 
@@ -46,7 +46,7 @@ Hãy nhìn ta tinh cần,\
 Ba minh ta đạt được,\
 Lời Phật dạy làm xong.
 
-### **(CLXXII) Bàkula (Thera. 29)**
+### **(CLXXII) Bàkula (Thera. 29)** {#172}
 
 Ngài sanh ở Kosambi, trong một gia đình có chức vụ, trước khi bậc Ðạo Sư sanh ra, và ngài được đem đi tắm ở sông Yamunà để được sức khỏe, và một con cá nuốt ngài trong tay người vú. Con cá bị người câu cá bắt được và đem bán cho vợ một vị chức sắc khác ở Ba-la-nại. Khi con cá bị mổ ra, đứa con nít nhờ phước nghiệp đời trước, nên còn sống không bị thương tích. Vợ vị chức sắc thương ngài như con đẻ, và khi bà nghe được câu chuyện của ngài, và hỏi về cha mẹ. Vua trong nước quyết định cho ngài thuộc quyền sở hữu của hai gia đình, và do vậy ngài được tên là Bàkula (hai gia đình).
 
@@ -75,7 +75,7 @@ Thật sự là an ổn,\
 Tại đấy, sự đau khổ,\
 Ðược đoạn diệt hoàn toàn.
 
-### **(CLXXIII) Dhaniya (Thera. 29)**
+### **(CLXXIII) Dhaniya (Thera. 29)** {#173}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Ràjagaha (Vương Xá) trong một gia đình thợ làm đồ gốm, được đặt tên là Dhaniya, và tiếp tục làm nghề của ông cha. Chính trong nhà của ngài, bậc Ðạo Sư giảng cho Pakkusati kinh Dhàtuvibhangasutta. Dhaniya nghe tin Pukkasati (đã thành bậc A-la-hán) mệnh chung đêm ấy. Ngài nghĩ: ‘Lời Phật dạy thật là sức mạnh lãnh đạo, chỉ có một đêm đã đủ giải thoát một người khỏi sự đau khổ tái sanh’. Rồi ngài xuất gia. Tuy vậy ngài vẫn tiếp tục nghề làm ngói lợp nhà. Bị đức Phật quở vì đã là am tranh bằng gạch, ngài quyết định sống giữa các Tỷ-kheo, và tại đấy chứng quả A-la-hán.
 
@@ -97,7 +97,7 @@ Với bất cứ việc gì,\
 Và hãy cương quyết tu,\
 Tu tập hạnh nhất pháp.
 
-### **(CLXXIV) Con Của Màtanga (Thera. 30)**
+### **(CLXXIV) Con Của Màtanga (Thera. 30)** {#174}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Kosala, con một điền chủ tên Màtanga, và được gọi là con của Màtanga. Ngài lớn lên trong biếng nhác, và khi ngài bị quần chúng la rầy, ngài làm quen với các Tỷ-kheo, nhận thấy các Tỷ-kheo sống thật hạnh phúc. Nhưng khi nghe bậc Ðạo Sư thuyết pháp, ngài khởi lòng tin và xin xuất gia. Thấy các Tỷ-kheo sử dụng thần thông, ngài muốn chứng đạt thần thông. Và thực hành các thiền quán, ngài chứng được sáu thắng trí.
 
@@ -120,7 +120,7 @@ Loại cỏ gai đâm ngực,\
 Ta dùng ngực đẩy chúng,\
 Sống tăng trưởng viễn ly.
 
-### **(CLXXV) Khujja Sobhita (Thera. 30)**
+### **(CLXXV) Khujja Sobhita (Thera. 30)** {#175}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Pàtaliputta trong một gia đình Bà-la-môn và được gọi là Sobhita. Vì ngài hơi còm, ngài được gọi là Khujja Sobhita (còm lưng). Khi đến tuổi trưởng thành, đức Bổn Sư vừa diệt độ, ngài được Tôn giả Ananda độ cho xuất gia và chứng được sáu thắng trí.
 
@@ -155,7 +155,7 @@ Vị ấy đã chiến thắng,\
 Với Phạm hạnh tích lũy,\
 Vị ấy đạt an lạc.
 
-### **(CLXXVI) Vàrana (Thera. 30)**
+### **(CLXXVI) Vàrana (Thera. 30)** {#176}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Kosala, trong gia đình Bà-la-môn, được đặt tên là Vàrana. Khi đến tuổi trưởng thành, vị ấy nghe một vị Trưởng lão thuyết pháp trong một ngôi rừng, và với lòng tin, xuất gia. Một ngày kia đi đến hầu hạ đức Phật, ngài chứng kiến một cuộc ấu đả trong gia đình và có nhiều người bị giết. Hốt hoảng, bị dao động, ngài đi gấp đến Thế Tôn và tường thuật sự việc. Thế Tôn thấy sự tiến bộ trong tâm tư của ngài, nên nói lên bài kệ khích lệ ngài:
 
@@ -174,7 +174,7 @@ Hãy hầu hạ Sa-môn,\
 Sống một mình kín đáo,\
 Với tâm tư tịnh chỉ.
 
-### **(CLXXVII) Passsika (Thera. 30)**
+### **(CLXXVII) Passsika (Thera. 30)** {#177}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình Bà-la-môn ở Kosala, thấy Thế Tôn thực hiện thần thông song hành, khởi lòng tin, xuất gia. Ngài bị bệnh trong khi học tập đời sống một ẩn sĩ, bà con săn sóc cho ngài và chữa ngài lành bệnh, khi được lành bệnh, ngài phấn khởi nên tu học siêng năng hơn và chứng được sáu thắng trí. Ngài bay trên hư không, đến thăm bà con và quy y, thọ giới cho họ. Một số bà con nhờ ngài quy y và thọ giới, khi mạng chung và được sanh lên các cõi trời. Khi Passika hầu hạ bậc Ðạo Sư, bậc Ðạo Sư hỏi về sức khỏe bà con của ngài, Passika trả lời như sau:
 
@@ -197,7 +197,7 @@ Họ được lạc chư Thiên,\
 Các anh và mẹ ta,\
 Hoan hỷ điều họ muốn.
 
-### **(CLXXVIII) Yasoja (Thera. 30)**
+### **(CLXXVIII) Yasoja (Thera. 30)** {#178}
 
 Trong thời đức Phật hiện tại, ngài sanh tại cửa thành ở Sàvatthi, trong một làng người đánh cá, con vị chủ hộ năm trăm gia đình đánh cá và được gọi là Yasoja. Ðến tuổi trưởng thành, một hôm ngài đánh cá với những người con các người đánh cá trên sông Aciravati, quăng lưới, ngài bắt được con cá lớn có màu sắc vàng. Họ dâng con cá lên vua Pasenadi và vua nói chỉ có đức Phật mới biết nguyên nhân, màu sắc của con cá. Ðức Phật dạy, tiền thân con cá là một ác Tỷ-kheo trong thời đức Phật Ca-diếp, nay vẫn đang sống trong cõi địa ngục. Các chị của nó vẫn sống trong địa ngục, Chỉ có anh nó là vị Trưởng lão, sống đời sống tốt đẹp, và Thế Tôn thuyết pháp về kinh Kapila. Nghe xong, Yasoja cảm thấy xúc động và xin xuất gia, và các bạn cũng xin xuất gia theo; họ đi đến tinh xá Jetavana (Kỳ Viên) để yết kiến đức Phật, nhưng khi đến họ làm quá ồn ào nên bị Thế Tôn đuổi đi. Bị đuổi, và sống trên sông Vaggumudà, Yasoja như con người thuần thục, quyết tâm quyết chí tu trì, không bao lâu chứng được sáu thắng trí. Rồi Thế Tôn cho gọi Yasoja, và ngài vì tu khổ hạnh đặc biệt, nên ốm yếu, xấu xí. Thế Tôn tán thán hạnh tu khắc khổ của ngài với những bài kệ như sau:
 
@@ -218,7 +218,7 @@ Sống hai, như chư Thiên,\
 Sống ba, như làng mạc,\
 Nhiều hơn, như ở chợ.
 
-### **(CLXXIX) Satimattya (Thera. 31)**
+### **(CLXXIX) Satimattya (Thera. 31)** {#179}
 
 Trong thời đức Phật hiện tại, ngài sanh ở nước Magadha (Ma-kiệt-đà) làm con một Bà-la-môn, ngài hội đủ những điều kiện nhân duyên, xuất gia, sống với các Tỷ-kheo ở rừng, và trải qua học hỏi tu hành, chứng được sáu thắng trí. Rồi ngài giảng dạy các Tỷ-kheo, thuyết pháp cho nhiều tín đồ về quy y và các giới điều. Có một gia đình, đặc biệt ngài giáo hóa và nuôi dưỡng lòng tin. Trong gia đình này, ngài đặc biệt được chào đón, người con gái nhà này đẹp, và thường cung kính cúng dường ngài ăn uống.
 
@@ -243,7 +243,7 @@ Chịu héo mòn ở đây?
 Ta sẽ đi khất thực,\
 Ống chân ta còn mạnh.
 
-### **(CLXXX) Upàli (Thera. 31)**
+### **(CLXXX) Upàli (Thera. 31)** {#180}
 
 Trong thời đức Phật hiện tại, ngài được sanh trong gia đình một người cạo tóc tên là Upàli. Khi đến tuổi trưởng thành, ngài xuất gia, theo gương của Anuruddha và năm vị con cháu hoàng tộc, khi đức Phật ở tại rừng Anupiyà. Khi ngài nhận một đề tài để thiền quán, ngài yêu cầu đức Phật đừng đưa ngài đi sống ra ngoài khu rừng. Ðức Phật dạy: ‘Nếu Thầy sống trong rừng, Thầy chỉ phát triển được một vấn đề, nhưng nếu Thầy sống với Ta, Thầy sẽ trở thành thuần thục cả về kinh học và thiền quán’. Ngài vâng theo lời bậc Ðạo Sư khuyên tu thiền quán và sau một thời gian chứng quả A-la-hán.
 
@@ -268,7 +268,7 @@ Và việc không nên làm,\
 Hãy để vị ấy sống,\
 Không để cao tôn xưng.
 
-### **(CLXXXI) Uttarapàla (Thera. 31)**
+### **(CLXXXI) Uttarapàla (Thera. 31)** {#181}
 
 Sanh trong thời đức Phật hiện tại, ở Sàvatthi, trong một gia đình Bà-la-môn, ngài được đặt tên là Uttarapàla. Ngài thấy Thế Tôn thực hiện thần thông song hành, khởi lòng tin, xuất gia và chăm lo tu học. Một hôm, do nhớ nghĩ chuyện này chuyện khác, dục vọng tấn công ngài, và sau một thời chiến đấu tư tưởng mãnh liệt, ngài chận đứng các phiền não, và triển khai thiền quán, ngài chứng được quả A-la-hán.
 
@@ -289,7 +289,7 @@ Mọi sanh hữu, hủy hoại,\
 Ðường sanh tử chấm dứt,\
 Nay không còn tái sanh.
 
-### **(CLXXXII) Abhibhùta (Thera. 31)**
+### **(CLXXXII) Abhibhùta (Thera. 31)** {#182}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình Bà-la-môn ở Vetthapura, đặt tên là Abhibhùta, và khi phụ thân mất, ngài thừa hưởng tài sản đất đai. Khi đức Phật đến tại thành phố, trong dịp Thế Tôn du hành, Abhibhùta đến nghe Thế Tôn thuyết pháp, và mai sáng mời Thế Tôn đến nhà. Thế Tôn cảm ơn và dạy cho ngài Chánh pháp với nhiều chi tiết. Ngài khởi lòng tin, từ bỏ gia sản, xuất gia và chứng quả A-la-hán.
 
@@ -310,7 +310,7 @@ Sẽ sống không phóng dật,\
 Từ bỏ dòng tái sanh,\
 Sẽ chấm dứt khổ đau.
 
-### **(CLXXXIII) Gotama (Thera. 32)**
+### **(CLXXXIII) Gotama (Thera. 32)** {#183}
 
 Trong thời đức Phật hiện tại, ngài sanh trong dòng họ Thích-ca và chỉ được biết tên là Gotama, ngài khởi lòng tin khi đức Phật thăm viếng bà con, xuất gia, tu học thiền quán và chứng được sáu thắng trí. Khi ngài đang hưởng lạc giải thoát, bà con ngài hỏi ngài vì sao lại từ bỏ bà con đi xuất gia, ngài liền giải thích những khổ đau, ngài gặp khi phải sanh tử liên tục và hạnh phúc Niết-bàn ngài đã chứng được . Ngài nói:
 
@@ -331,7 +331,7 @@ Tác thành tự ngã ta,\
 Ta đạt được tịnh tịch,\
 Chánh niệm tâm an trú.
 
-### **(CLXXXIV) Harita (Thera. 32)**
+### **(CLXXXIV) Harita (Thera. 32)** {#184}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi, trong một gia đình Bà-la-môn. Vì tự kiêu sanh trong giai cấp cao, ngài quen gọi các người khác là hạ sanh. Khi khởi lòng tin xuất gia, vì thói quen, ngài vẫn giữ tật xấu ấy. Nhưng một ngày kia, sau khi nghe bậc Ðạo Sư thuyết giảng, ngài ôn lại tâm tư của mình và ngài thấy lo ngại vì lòng tự kiêu của mình. Ðoạn tận kiêu mạn ấy, ngài phát triển thiền quán và chứng quả A-la-hán. Sau đó sống trong an lạc giải thoát, ngài chứng minh chánh trí của mình trong những bài kệ giảng dạy các Tỷ-kheo:
 
@@ -356,7 +356,7 @@ Thật sự, là an ổn,\
 Tại đấy, nỗi đau khổ,\
 Ðược đoạn diệt hoàn toàn.
 
-### **(CLXXXV) Vimala (Thera. 32)**
+### **(CLXXXV) Vimala (Thera. 32)** {#185}
 
 Trong thời đức Phật hiện tại, ngài được sanh ở Ba-la-nại trong một gia đình Bà-la-môn. Ngài xuất gia dưới sự hướng dẫn của Trưởng lão Amitta, và nhờ sự hướng dẫn này, ngài phát triển thiền quán và chứng quả A-la-hán. Rồi ngài giảng dạy cho một Tỷ-kheo là bạn của ngài như sau:
 

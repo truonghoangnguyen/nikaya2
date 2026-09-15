@@ -3,7 +3,7 @@
 
 ## Phẩm Mười Một Kệ
 
-### **(CCXL) Sankicca (Thera. 62)**
+### **(CCXL) Sankicca (Thera. 62)** {#240}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình Bà-la-môn nổi tiếng. Mẹ ngài chết khi sanh ngài, và ngài được cứu sống, chưa bị đốt cháy trên giàn hỏa. Vì rằng sự sống của một hữu tình trong đời sống cuối cùng không thể chết được, trước khi chứng quả A-la-hán, dầu cho có rơi từ núi Sineru (Tu-di). Khi lên bảy tuổi, được nghe mẹ ngài chết khi sanh ngài; ngài cảm thấy xúc động và phát nguyện xuất gia. Ngài được đưa tới gặp Tôn giả Sàriputta, và ngài chứng được quả A-la-hán, khi tóc ngài đang bị cạo. Ngài dâng đời sống ngài cho các tên cướp như thế nào để ba ngàn Tỷ-kheo được nói đến trong tập sớ Dhammapàla.
 
@@ -70,7 +70,7 @@ Ta chờ thời gian đến,\
 Tỉnh giác, giữa chánh niệm.
 
 
-### **(CCXLI) Sìlavat (Thera. 63)**
+### **(CCXLI) Sìlavat (Thera. 63)** {#241}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Ràjagaha (Vương Xá), con của vua Bimbisàra (Tần-bà-ta-la), và được đặt tên là Sìlavat. Khi đến tuổi trưởng thành, anh ngài là Ajàtasattu làm vua, muốn giết ngài, nhưng không giết được, vì ngài sống đời sống cuối cùng và chưa chứng quả A-la-hán. Rồi Thế Tôn, biết sự việc đã xảy ra bảo Mahà Maggallàna đi mời ngài đến. Hoàng tử Sìlavat xuống voi, thích nghi giáo lý với tâm tánh của ngài, ngài khởi lòng tin, xuất gia, và sau một thời gian, chứng quả A-la-hán. Rồi ngài ở Kosala, và khi Ajàtasattu sai những người đến giết ngài, ngài dạy cho những người ấy, hóa độ và những người ấy xuất gia học đạo. Và ngài giảng cho họ như sau:
 

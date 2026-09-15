@@ -1,6 +1,6 @@
 # Chương 19 – Phẩm Năm Mươi Kệ
 
-### **(CCLXII) Tàlaputta (Thera. 97)**
+### **(CCLXII) Tàlaputta (Thera. 97)** {#262}
 
 Trong thời gian đức Phật hiện tại, ngài sanh trong một gia đình kịch sĩ, trở thành thiện xảo trong nghề diễn kịch thích hợp với người trong gia tộc và trở thành lừng danh khắp Ấn Ðộ, như nhà lãnh đạo một ban hát với năm trăm nữ nhân, với sự huy hoàng của nghề kịch, ngài dự các lễ ở làng, ở thị trấn, ở cung điện vua, và rất được sủng ái và danh tiếng. Khi ngài trình diễn ở Ràjagaha với nhiều thành công, ngài đến yết kiến đức Phật và hỏi có phải một kịch sĩ khi trên sâu khấu giả danh sự thật, làm cho khán giả ưa thích, vui cười, người ấy sau khi chêt được sanh vào chư Thiên hay cười. Ðức Phật ban đầu không trả lời. Ðến khi hỏi lần thứ tư, đức Phật trả lời những ai khiến cho con người thiên về tình dục, tiêu cực tâm tư hoang mang khiến người ta mất nhiệt tình, người như vậy sau khi chết sẽ sinh vào địa ngục. Nhưng nếu có tà kiến thời bị sanh vào địa ngục và súc sanh. Tàlaputta khóc không phải vì đức Phật nói chỗ tái sanh, chỉ vì bị các kịch sĩ xưa lừa dối nói rằng kịch sĩ sẽ được sanh trong một đời sống hạnh phúc.
 

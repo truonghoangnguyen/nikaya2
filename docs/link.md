@@ -185,10 +185,35 @@ function resolveAnEdition(nikaya, edition, queryStr) {
   return null
 }
 
+// Xử lý edition flat: số kinh đánh liên tục xuyên suốt nhiều file
+// "thag 14" -> scan tất cả items' children để tìm file chứa kinh 14
+function resolveFlatEdition(nikaya, edition, queryStr) {
+  if (!edition || !edition.items || !queryStr) return null
+
+  const suttaNum = Number(queryStr.trim())
+  if (isNaN(suttaNum)) return null
+
+  for (const item of Object.values(edition.items)) {
+    if (!Array.isArray(item.children)) continue
+    if (item.children.some((c) => Number(c) === suttaNum)) {
+      return {
+        title: item.title,
+        url: buildUrl(nikaya.folder, edition.path, item.slug, String(suttaNum))
+      }
+    }
+  }
+  return null
+}
+
 // Tìm bài kinh theo cấu trúc mới:
 // item trong items có: title, slug, children (mảng string các mục/đoạn)
 function resolveEdition(nikaya, edition, queryStr) {
   if (!edition || !edition.items || !queryStr) return null
+
+  // Phân nhánh nếu là định dạng flat (số kinh liên tục xuyên file)
+  if (edition.flat) {
+    return resolveFlatEdition(nikaya, edition, queryStr)
+  }
 
   // Phân nhánh nếu là định dạng AN
   if (isAnEdition(edition)) {

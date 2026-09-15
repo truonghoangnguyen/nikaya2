@@ -7,70 +7,87 @@ export default {
         "label": "TM Châu",
         "path": "thichminhchau",
         "index_length": 2,
+        flat: true,
         "items": {
           "1": {
             "title": "Phẩm 1 – Tập Một Kệ",
-            "slug": "kn-054-tap-9-pham-1-tap-mot-ke"
+            "slug": "kn-054-tap-9-pham-1-tap-mot-ke",
+            "children": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18"]
           },
           "2": {
             "title": "Phẩm 2 – Tập Hai Kệ",
-            "slug": "kn-055-tap-9-pham-2-tap-hai-ke"
+            "slug": "kn-055-tap-9-pham-2-tap-hai-ke",
+            "children": ["19", "20", "21", "22", "23", "24", "25", "26", "27", "28"]
           },
           "3": {
             "title": "Phẩm 3 – Tập Ba Kệ",
-            "slug": "kn-056-tap-9-pham-3-tap-ba-ke"
+            "slug": "kn-056-tap-9-pham-3-tap-ba-ke",
+            "children": ["29", "30", "31", "32", "33", "34", "35", "36"]
           },
           "4": {
             "title": "Phẩm 4 – Tập Bốn Kệ",
-            "slug": "kn-057-tap-9-pham-4-tap-bon-ke"
+            "slug": "kn-057-tap-9-pham-4-tap-bon-ke",
+            "children": ["37"]
           },
           "5": {
             "title": "Phẩm 5 – Tập Năm Kệ",
-            "slug": "kn-058-tap-9-pham-5-tap-nam-ke"
+            "slug": "kn-058-tap-9-pham-5-tap-nam-ke",
+            "children": ["38", "39", "45", "41", "42", "43", "44", "46", "47", "48", "49"]
           },
           "6": {
             "title": "Phẩm 6 – Tập Sáu Kệ",
-            "slug": "kn-059-tap-9-pham-6-tap-sau-ke"
+            "slug": "kn-059-tap-9-pham-6-tap-sau-ke",
+            "children": ["50", "51", "52", "53", "54", "55", "56", "57"]
           },
           "7": {
             "title": "Phẩm 7 – Tập Bảy Kệ",
-            "slug": "kn-060-tap-9-pham-7-tap-bay-ke"
+            "slug": "kn-060-tap-9-pham-7-tap-bay-ke",
+            "children": ["58", "59", "60"]
           },
           "8": {
             "title": "Phẩm 8 – Tập Tám Kệ",
-            "slug": "kn-061-tap-9-pham-8-tap-tam-ke"
+            "slug": "kn-061-tap-9-pham-8-tap-tam-ke",
+            "children": ["61"]
           },
           "9": {
             "title": "Phẩm 9 – Tập Chín Kệ",
-            "slug": "kn-062-tap-9-pham-9-tap-chin-ke"
+            "slug": "kn-062-tap-9-pham-9-tap-chin-ke",
+            "children": ["62"]
           },
           "10": {
             "title": "Phẩm 10 – Tập Mười Kệ",
-            "slug": "kn-063-tap-9-pham-10-tap-muoi-ke"
+            "slug": "kn-063-tap-9-pham-10-tap-muoi-ke",
+            "children": ["63"]
           },
           "11": {
             "title": "Phẩm 11 – Tập Mười Hai Kệ",
-            "slug": "kn-064-tap-9-pham-11-tap-muoi-hai-ke"
+            "slug": "kn-064-tap-9-pham-11-tap-muoi-hai-ke",
+            "children": ["64"]
           },
           "12": {
             "title": "Phẩm 12 – Tập Mười Sáu Kệ",
-            "slug": "kn-065-tap-9-pham-12-tap-muoi-sau-ke"
+            "slug": "kn-065-tap-9-pham-12-tap-muoi-sau-ke",
+            "children": ["65"]
           },
           "13": {
             "title": "Phẩm 13 – Tập Hai Mươi Kệ",
-            "slug": "kn-066-tap-9-pham-13-tap-hai-muoi-ke"
+            "slug": "kn-066-tap-9-pham-13-tap-hai-muoi-ke",
+            "children": ["66", "67", "68", "69", "70"]
           },
           "14": {
             "title": "Phẩm 14 – Tập Ba Mươi Kệ",
-            "slug": "kn-067-tap-9-pham-14-tap-ba-muoi-ke"
+            "slug": "kn-067-tap-9-pham-14-tap-ba-muoi-ke",
+            "children": ["71"]
           },
           "15": {
             "title": "Phẩm 15 – Tập Bốn Mươi Kệ",
-            "slug": "kn-068-tap-9-pham-15-tap-bon-muoi-ke"
+            "slug": "kn-068-tap-9-pham-15-tap-bon-muoi-ke",
+            "children": ["72"]
           },
           "16": {
             "title": "Phẩm 16 – Ðại Phẩm",
-            "slug": "kn-069-tap-9-pham-16-dai-pham"
+            "slug": "kn-069-tap-9-pham-16-dai-pham",
+            "children": ["73"]
           }
         }
       }
@@ -84,398 +101,112 @@ export default {
         "label": "TM Châu",
         "path": "thichminhchau",
         "index_length": 2,
+        flat: true,
         "items": {
           "1": {
             "title": "Chương 1 – Phẩm Một Kệ",
-            "slug": "kn-037-tap-8-chuong-1-pham-mot-ke"
+            "slug": "kn-037-tap-8-chuong-1-pham-mot-ke",
+            "children": ["1", "2", "3", "4", "5", "6", "7", "8", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "55", "56", "57", "58", "59", "60", "61", "62", "63", "64", "65", "66", "67", "68", "69", "70", "71", "72", "73", "74", "75", "76", "77", "78", "79", "80", "81", "82", "83", "84", "85", "86", "87", "88", "89", "90", "91", "92", "93", "94", "95", "96", "97", "98", "99", "100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112", "113", "115", "116", "117", "118", "119", "120"]
           },
           "2": {
             "title": "Chương 2 – Phẩm Hai Kệ",
-            "slug": "kn-038-tap-8-chuong-2-pham-hai-ke"
+            "slug": "kn-038-tap-8-chuong-2-pham-hai-ke",
+            "children": ["121", "122", "123", "124", "125", "126", "127", "128", "129", "130", "131", "132", "133", "134", "135", "136", "137", "138", "139", "140", "141", "142", "143", "144", "145", "146", "147", "148", "149", "150", "151", "152", "153", "154", "155", "156", "157", "158", "159", "160", "161", "162", "163", "164", "165", "166", "167", "168", "169"]
           },
           "3": {
             "title": "Chương 3 – Phẩm Ba Kệ",
             "slug": "kn-039-tap-8-chuong-3-pham-ba-ke",
-            "children": {
-              "170": {
-                "anchor": "clxx-anganika-bharadvaja-thera-29"
-              },
-              "171": {
-                "anchor": "clxxi-paccaya-thera-29"
-              },
-              "172": {
-                "anchor": "clxxii-bakula-thera-29"
-              },
-              "173": {
-                "anchor": "clxxiii-dhaniya-thera-29"
-              },
-              "174": {
-                "anchor": "clxxiv-con-cua-matanga-thera-30"
-              },
-              "175": {
-                "anchor": "clxxv-khujja-sobhita-thera-30"
-              },
-              "176": {
-                "anchor": "clxxvi-varana-thera-30"
-              },
-              "177": {
-                "anchor": "clxxvii-passsika-thera-30"
-              },
-              "178": {
-                "anchor": "clxxviii-yasoja-thera-30"
-              },
-              "179": {
-                "anchor": "clxxix-satimattya-thera-31"
-              },
-              "180": {
-                "anchor": "clxxx-upali-thera-31"
-              },
-              "181": {
-                "anchor": "clxxxi-uttarapala-thera-31"
-              },
-              "182": {
-                "anchor": "clxxxii-abhibhuta-thera-31"
-              },
-              "183": {
-                "anchor": "clxxxiii-gotama-thera-32"
-              },
-              "184": {
-                "anchor": "clxxxiv-harita-thera-32"
-              },
-              "185": {
-                "anchor": "clxxxv-vimala-thera-32"
-              }
-            }
+            "children": ["170", "171", "172", "173", "174", "175", "176", "177", "178", "179", "180", "181", "182", "183", "184", "185"]
           },
           "4": {
             "title": "Chương 4 – Phẩm Bốn Kệ",
             "slug": "kn-040-tap-8-chuong-4-pham-bon-ke",
-            "children": {
-              "186": {
-                "anchor": "clxxxvi-nagasamala-thera-33"
-              },
-              "187": {
-                "anchor": "clxxxvii-bhagu-thera-33"
-              },
-              "188": {
-                "anchor": "clxxxviii-sabhiya-thera-33"
-              },
-              "189": {
-                "anchor": "clxxxix-nandaka-thera-33"
-              },
-              "190": {
-                "anchor": "cxc-jambuka-thera-34"
-              },
-              "191": {
-                "anchor": "cxci-senaka-thera-34"
-              },
-              "192": {
-                "anchor": "cxcii-sambhuta-thera-34"
-              },
-              "193": {
-                "anchor": "cxciii-rahula-thera-35"
-              },
-              "194": {
-                "anchor": "cxciv-candana-thera-35"
-              },
-              "195": {
-                "anchor": "cxcv-dhammika-thera-35"
-              },
-              "196": {
-                "anchor": "cxcvi-sabbaka-thera-35"
-              },
-              "117": {
-                "anchor": "cxvii-mudita-thera-36"
-              }
-            }
+            "children": ["186", "187", "188", "189", "190", "191", "192", "193", "194", "195", "196", "117"]
           },
           "5": {
             "title": "Chương 5 – Phẩm Năm Kệ",
             "slug": "kn-041-tap-8-chuong-5-pham-nam-ke",
-            "children": {
-              "198": {
-                "anchor": "cxcviii-rajadatta-thera-37"
-              },
-              "199": {
-                "anchor": "cxcix-subhuta-thera-37"
-              },
-              "200": {
-                "anchor": "cc-girimananda-thera-38"
-              },
-              "201": {
-                "anchor": "cci-sumana-thera-38"
-              },
-              "202": {
-                "anchor": "ccii-vaddha-thera-38"
-              },
-              "203": {
-                "anchor": "cciii-nadikassapa-thera-39"
-              },
-              "204": {
-                "anchor": "cciv-gaya-kassapa-thera-39"
-              },
-              "205": {
-                "anchor": "ccv-vakkali-thera-39"
-              },
-              "206": {
-                "anchor": "ccvi-vigitasena-thera-39"
-              },
-              "207": {
-                "anchor": "ccvii-yasadatta-thera-40"
-              },
-              "208": {
-                "anchor": "ccviii-sonakutikanna-thera-40"
-              },
-              "209": {
-                "anchor": "ccix-kosiya-thera-41"
-              }
-            }
+            "children": ["198", "199", "200", "201", "202", "203", "204", "205", "206", "207", "208", "209"]
           },
           "6": {
             "title": "Chương 6 – Phẩm Sáu Kệ",
             "slug": "kn-042-tap-8-chuong-6-pham-sau-ke",
-            "children": {
-              "211": {
-                "anchor": "ccxi-tekicchakari-thera-42"
-              },
-              "213": {
-                "anchor": "ccxiii-kulla-thera-43"
-              },
-              "214": {
-                "anchor": "ccxiv-malunkyaputta-thera-43"
-              },
-              "215": {
-                "anchor": "ccxv-sappadasa-thera-44"
-              },
-              "216": {
-                "anchor": "ccxvi-katiyana-thera-45"
-              },
-              "218": {
-                "anchor": "ccxviii-jenta-thera-45"
-              },
-              "219": {
-                "anchor": "ccxix-sumana-thera-46"
-              },
-              "220": {
-                "anchor": "ccxx-nhalaka-muni-thera-46"
-              },
-              "221": {
-                "anchor": "ccxxi-brahmadatta-thera-46"
-              },
-              "222": {
-                "anchor": "ccxxii-sirimanda-thera-47"
-              },
-              "223": {
-                "anchor": "ccxxiii-sabbhakama-thera-47"
-              }
-            }
+            "children": ["211", "213", "214", "215", "216", "218", "219", "220", "221", "222", "223"]
           },
           "7": {
             "title": "Chương 7 – Phẩm Bảy Kệ",
             "slug": "kn-043-tap-8-chuong-7-pham-bay-ke",
-            "children": {
-              "224": {
-                "anchor": "ccxxiv-sundara-samudda-thera-49"
-              },
-              "225": {
-                "anchor": "ccxxv-lakuntaka-bhaddiya-thera-49"
-              },
-              "226": {
-                "anchor": "ccxxvi-bhadda-thera-50"
-              },
-              "227": {
-                "anchor": "ccxxvii-sopaka-thera-50"
-              },
-              "228": {
-                "anchor": "ccxxviii-sarabhanga-thera-50"
-              }
-            }
+            "children": ["224", "225", "226", "227", "228"]
           },
           "8": {
             "title": "Chương 8 – Phẩm Tám Kệ",
             "slug": "kn-044-tap-8-chuong-8-pham-tam-ke",
-            "children": {
-              "240": {
-                "anchor": "ccxxlx-maha-kaccayana-thera-52"
-              },
-              "230": {
-                "anchor": "ccxxx-sirimitta-thera-52"
-              },
-              "231": {
-                "anchor": "ccxxxi-maha-panthaka-thera-53"
-              }
-            }
+            "children": ["260", "230", "231"]
           },
           "9": {
             "title": "Chương 9 – Phẩm Chín Kệ",
             "slug": "kn-045-tap-8-chuong-9-pham-chin-ke",
-            "children": {
-              "232": {
-                "anchor": "ccxxxii-bhuta-thera-54"
-              }
-            }
+            "children": ["232"]
           },
           "10": {
             "title": "Thag 10. Chương 10 – Phẩm Mười Kệ",
             "slug": "kn-046-tap-8-chuong-10-pham-muoi-ke",
-            "children": {
-              "223": {
-                "anchor": "ccxxiii-kaludayin-thera-56"
-              },
-              "234": {
-                "anchor": "ccxxxiv-ekavihariya-tissa-kumara-thera-57"
-              },
-              "235": {
-                "anchor": "ccxxxv-maha-kappina-ma-ha-kiep-tan-na-thera-58"
-              },
-              "236": {
-                "anchor": "ccxxxvi-cula-panthaka-thera-59"
-              },
-              "237": {
-                "anchor": "ccxxxvii-kappa-thera-59"
-              },
-              "238": {
-                "anchor": "ccxxxviii-upasena-con-cua-vanganta-thera-60"
-              },
-              "239": {
-                "anchor": "ccxxxix-gotama-thera-61"
-              }
-            }
+            "children": ["223", "234", "235", "236", "237", "238", "239"]
           },
           "11": {
             "title": "Chương 11 - Phẩm Mười Một Kệ",
             "slug": "kn-046-tap-8-chuong-11-pham-muoi-mot-ke",
-            "children": {
-              "240": {
-                "anchor": "ccxl-sankicca-thera-62"
-              },
-              "241": {
-                "anchor": "ccxli-silavat-thera-63"
-              }
-            }
+            "children": ["240", "241"]
           },
           "12": {
             "title": "Chương 12 - Phẩm Mười Hai Kệ",
             "slug": "kn-046-tap-8-chuong-12-pham-muoi-hai-ke",
-            "children": {
-              "242": {
-                "anchor": "ccxlii-sunita-thera-63"
-              }
-            }
+            "children": ["242"]
           },
           "13": {
             "title": "Chương 13 – Phẩm Mười Ba Kệ",
             "slug": "kn-047-tap-8-chuong-13-pham-muoi-ba-ke",
-            "children": {
-              "243": {
-                "anchor": "ccxliii-sona-kolivisa-thera-65"
-              }
-            }
+            "children": ["243"]
           },
           "14": {
             "title": "Chương 14 – Phẩm Mười Bốn Kệ",
             "slug": "kn-047-tap-8-chuong-14-pham-muoi-bon-ke",
-            "children": {
-              "245": {
-                "anchor": "ccxlv-godatta-thera-67"
-              }
-            }
+            "children": ["245"]
           },
           "15": {
             "title": "Chương 15 – Phẩm Mười Lăm Kệ",
             "slug": "kn-047-tap-8-chuong-15-pham-muoi-lam-ke",
-            "children": {
-              "246": {
-                "anchor": "ccxlvi-anna-kondanna-thera-69"
-              },
-              "247": {
-                "anchor": "ccxlvii-udayin-thera-69"
-              }
-            }
+            "children": ["246", "247"]
           },
           "16": {
             "title": "Chương 16 – Phẩm Hai Mươi Kệ",
             "slug": "kn-047-tap-8-chuong-16-pham-hai-muoi-ke",
-            "children": {
-              "249": {
-                "anchor": "ccxlix-parapariya-thera-72"
-              },
-              "250": {
-                "anchor": "ccl-kelakani-thera-298"
-              },
-              "251": {
-                "anchor": "ccli-ratthapala-thera-75"
-              },
-              "252": {
-                "anchor": "cclii-malunkyaputta-thera-77"
-              },
-              "253": {
-                "anchor": "ccliii-sela-thera-78"
-              },
-              "254": {
-                "anchor": "ccliv-bhaddiya-kaligodhayaputta-thera-80"
-              },
-              "255": {
-                "anchor": "cclv-angulimala-thera-80"
-              },
-              "256": {
-                "anchor": "cclvi-anuruddha-thera-83"
-              },
-              "257": {
-                "anchor": "cclvii-parapariya-thera-84"
-              }
-            }
+            "children": ["249", "250", "251", "252", "253", "254", "255", "256", "257"]
           },
           "17": {
             "title": "Chương 17 – Phẩm Ba Mươi Kệ",
             "slug": "kn-048-tap-8-chuong-17-pham-ba-muoi-ke",
-            "children": {
-              "258": {
-                "anchor": "cclviii-phussa-thera-87"
-              },
-              "259": {
-                "anchor": "cclix-sariputta-thera-89"
-              },
-              "40": {
-                "anchor": "xxlx-ananda-thera-91"
-              }
-            }
+            "children": ["258", "259", "260"]
           },
           "18": {
             "title": "Chương 18 – Phẩm Bốn Mươi Kệ",
             "slug": "kn-049-tap-8-chuong-18-pham-bon-muoi-ke",
-            "children": {
-              "261": {
-                "anchor": "cclxi-maha-kassapa-thera-94"
-              }
-            }
+            "children": ["261"]
           },
           "19": {
             "title": "Chương 19 – Phẩm Năm Mươi Kệ",
             "slug": "kn-050-tap-8-chuong-19-pham-nam-muoi-ke",
-            "children": {
-              "262": {
-                "anchor": "cclxii-talaputta-thera-97"
-              }
-            }
+            "children": ["262"]
           },
           "20": {
             "title": "Chương 20 – Phẩm Sáu Mươi Kệ",
             "slug": "kn-051-tap-8-chuong-20-pham-sau-muoi-ke",
-            "children": {
-              "263": {
-                "anchor": "cclxiii-maha-moggallana-thera-104"
-              }
-            }
+            "children": ["263"]
           },
           "21": {
             "title": "Chương 21 – Phẩm Bẩy Mươi Kệ",
             "slug": "kn-052-tap-8-chuong-21-pham-bay-muoi-ke",
-            "children": {
-              "264": {
-                "anchor": "cclxiv-vangisa-thera-109"
-              }
-            }
+            "children": ["264"]
           }
         }
       }

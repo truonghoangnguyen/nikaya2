@@ -1,6 +1,6 @@
 # Phẩm 8 – Tập Tám Kệ
 
-**(LXI) Sìsupacàlà (Therì. 142)**
+**(LXI) Sìsupacàlà (Therì. 142)** {#61}
 
 Câu chuyện giống như hai câu chuyện trước. Nàng theo gương người anh, xuất gia và chứng quả A-la-hán. Hưởng thọ sự an lạc, nàng suy tư đến quả chứng, đã làm những điều cần làm và nói lên sự sung sướng của nàng:
 

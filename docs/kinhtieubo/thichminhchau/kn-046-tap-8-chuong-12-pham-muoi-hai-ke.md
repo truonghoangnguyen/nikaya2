@@ -1,6 +1,6 @@
 # Chương 12 - Phẩm Mười Hai Kệ
 
-### **(CCXLII) Sunìta (Thera. 63)**
+### **(CCXLII) Sunìta (Thera. 63)** {#242}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình đổ rác, và sống với nghề đi quét đường, không đủ tiền để sống khỏi đói. Trong canh một Thế Tôn khởi lòng từ mẫn nhìn khắp thế giới và thấy trong tâm của Sunìta, có đủ điều kiện để chứng quả A-la-hán, chói sáng như ngọn đèn trong cái ghè. Khi trời đã mới sáng, Thế Tôn dậy, đắp y cầm y bát, với một số Tỷ-kheo tùy tùng, đi đến Vương Xá để khất thực và tìm đến con đường Sunìta đang quét dọn. Sunìta đang quét các đống rác gom lại từng đống, đổ vào thúng rồi gánh mang đi. Khi ngài thấy bậc Ðạo Sư đi đến với đoàn tùy tùng, ngài cảm thấy hoan hỷ xúc động không tìm được chỗ để ẩn núp, ngài đứng sát như mắc dính vào vách tường và chấp tay vái chào. Khi đức Bổn Sư đến gần, đức Phật với lời rất dịu ngọt hỏi ngài sao cam phận sống đời sống khổ sở như vậy, và có thể xuất gia được không? Ngài hoan hỷ chấp nhận và được đức Phật độ cho xuất gia với câu: ‘Hãy đến này các Tỷ-kheo!’. Bậc Ðạo Sư đưa ngài về tịnh xá, dạy cho ngài một phương pháp thiền quán. Ngài chứng được tám thiền chứng và năm thắng trí. Phát triển thiền quán, ngài chứng được thắng trí thứ sáu. Rồi Sakka và các Phạm thiên đến đảnh lễ ngài đã được ghi như sau:
 

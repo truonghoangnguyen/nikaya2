@@ -1,6 +1,6 @@
 # Phẩm 16 – Ðại Phẩm
 
-**(LXXIII) Sumedhà (Therì. 167)**
+**(LXXIII) Sumedhà (Therì. 167)** {#73}
 
 Trong thời đức Phật hiện tại, nàng sanh ở thành Mantàvatì con gái vua Konca và được đặt tên là Sumedhà. Khi nàng đến tuổi trưởng thành, cha mẹ nàng bằng lòng để Anikaratta, vua Vàranavati xem mắt nàng. Nhưng từ lúc nhỏ, nàng quen cùng đi với các công chúa lứa tuổi nàng, và những người hầu hạ tại tinh xá Tỷ-kheo-ni để nghe các vị này thuyết pháp, và trong một thời gian dài, vì chí nguyện lúc còn nhỏ, nên nàng sợ hãi sự sanh tử luân hồi, tâm tư thiên về đời sống xuất gia, không ưa thích các dục lạc.
 

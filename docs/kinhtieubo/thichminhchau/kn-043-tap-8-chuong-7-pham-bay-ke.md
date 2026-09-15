@@ -1,6 +1,6 @@
 # Chương 7 – Phẩm Bảy Kệ
 
-### **(CCXXIV) Sundara-Samudda (Thera. 49)**
+### **(CCXXIV) Sundara-Samudda (Thera. 49)** {#224}
 
 Trong thời đức Phật hiện tại, ngài sanh làm con một người trong hội đồng thành phố giàu có, ở Ràjagaha (Vương Xá) và được đặt tên là Samudda. Vì ngài rất đẹp trai nên được gọi là Sundara-Samudda, khi ngài còn trẻ, ngài thấy được uy nghi đức Phật, khi có cuộc lễ đón rước đức Phật đến Ràjagaha, với lòng tin và với thiên tánh tự nhiên, ngài xuất gia. Ðược giao cho một đề tài thiền quán, ngài đi từ Ràjagaha đến Sàvatthi, ở với một người bạn và tu tập thiền quán. Mẹ ngài ở Vương Xá, thấy các người con của các đại biểu hội đồng thành phố khác với những người vợ trang sức thật lộng lẫy vui chơi trong những ngày lễ, bà mẹ buồn, nhớ con và khóc; một kỹ nữ thấy vậy liền dỗ bà và tự nguyện đi đến Sàvatthi để đem con bà về. Bà mẹ hứa rằng, nếu con bà chịu cưới nàng, bà sẽ cho nàng làm chủ gia đình và tặng nhiều tặng phẩm. Với một số tùy tùng, nàng đi đến Sàvatthi và dừng lại ngôi nhà ngài thường hay đến hằng ngày để khất thực; nàng hết sức săn sóc cho ngài. Nàng ăn mặc lộng lẫy và mang dép vàng; một hôm nàng để đôi dép nàng tại ngưỡng cửa, đảnh lễ ngài với hai tay chấp lại, khi ngài đi qua với cử chỉ muốn cám dỗ ngài. Và ngài một tư tưởng thế tục thoáng qua, ngài cương quyết nỗ lực cuối cùng đứng tại đấy thiền định, thiền quán và chứng được sáu thắng trí. Ngài diễn đạt quả chứng của ngài như sau:
 
@@ -41,7 +41,7 @@ Thấy Pháp nhĩ là vậy,\
 Ba minh chứng đạt được,\
 Lời Phật dạy làm xong.
 
-### **(CCXXV) Lakuntaka-Bhaddiya (Thera. 49)**
+### **(CCXXV) Lakuntaka-Bhaddiya (Thera. 49)** {#225}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi, trong một gia đình giàu có, được đặt tên là Bhaddiya, nhưng vì ngài rất thấp, nên được biết với tên là Lakuntaka Bhaddhiya (Bhaddiya người lùn). Nghe bậc Ðạo Sư giảng, ngài xuất gia, trở thành một nhà học giả và biện tài, ngài dạy cho các người khác với một giọng nói rất dịu ngọt. Một hôm, nhân ngài đang lễ, một phụ nữ đi xe với một Bà-la-môn, thấy ngài và cười lên, để lộ hàm răng của nàng. Vị Trưởng lão, lấy hàm răng ấy như một đề tài để thiền quán, khởi lên thiền định và trên căn cứ ấy, phát triển thiền quán và trở thành một vị Bất Lai. Về sau nhờ Tôn giả Sàriputta dạy tu thân hành niệm, ngài chứng quả A-la-hán, ngài nói lên chánh trí của ngài:
 
@@ -82,7 +82,7 @@ Quán thấy được phía ngoài,\
 Thấy không bị chướng ngại,\
 Không bị tiếng lôi cuốn.
 
-### **(CCXXVI) Bhadda (Thera. 50)**
+### **(CCXXVI) Bhadda (Thera. 50)** {#226}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi, trong gia đình một vị lớn trong hội đồng thành phố, làm con một gia đình cha mẹ trước đây không có con, dầu đã có cầu khẩn thần linh nhiều lần vẫn chưa có con. Họ đi đến bậc Ðạo Sư và nói: ‘Nếu chúng con có được đứa con, chúng con sẽ dâng lên cho ngài để làm thị giả!’. Khi được sinh Bhadda, chúng mặc áo đẹp nhất cho ngài, đưa ngài đến bậc Ðạo Sư và nói: ‘Bạch Thế Tôn, đây là đứa con chúng con sanh ra, sau khi yết kiến Thế Tôn, chúng con xin dâng hiến cho Thế Tôn’. Thế Tôn bảo Ananda cho Bhadda xuất gia và đi vào hương phòng. Ananda giảng dạy cho ngài và căn cơ ngài quá thuần thục đến nỗi trong khi đang học, vừa lúc mặt trời mọc, ngài phát triển thiền quán và chứng được sáu thắng trí.
 
@@ -131,7 +131,7 @@ Ta được thọ Ðại giới,\
 Ba minh ta đạt được,\
 Ôi pháp, thiện pháp tánh!
 
-### **(CCXXVII) Sopàka (Thera. 50)**
+### **(CCXXVII) Sopàka (Thera. 50)** {#227}
 
 Trong thời đức Phật hiện tại, ngài sanh từ vợ một người cùng đinh, và do thọ sanh, ngài được gọi là Sopàka (người cùng đinh). Có người nói ngài là con một thương gia. Sự kiện này không được tập Apadàna chấp nhận:
 
@@ -214,7 +214,7 @@ Ta được thọ Ðại giới,\
 Ta mang thân cuối cùng!\
 Ôi pháp, thiện pháp tánh.
 
-### **(CCXXVIII) Sarabhanga (Thera. 50)**
+### **(CCXXVIII) Sarabhanga (Thera. 50)** {#228}
 
 Trong thời đức Phật hiện tại, ngài sanh tại Ràjagaha (Vương Xá), con của một Bà-la-môn, ngài có thể được đặt tên, độc lập hay không độc lập với truyền thống gia đình, ngài không có đặc điểm gì để đặt tên. Khi đến tuổi trưởng thành, ngài trở thành một ẩn sĩ, tự dựng một thảo am, làm bằng cọng cây lau mà tự ngài bẻ gãy, và từ đấy ngài được biết với tên là Sara-Bhanga, (người bẻ gãy cọng cây lau). Thế Tôn với Phật nhãn nhìn quanh thế giới, thấy được nơi ngài những điều kiện để thành vị A-la-hán. Thế Tôn đi đến thuyết pháp cho ngài. Và ngài khởi lòng tin, trở thành một vị xuất gia, sau một thời gian trở thành vị A-la-hán, ngài vẫn tiếp tục ở thảo am. Thảo am dần dần hư nát và sụp đổ xuống, dân chúng hỏi ngài sao không dựng thảo am lại, ngài trả lời, khi thảo am được dựng lên, ngài còn ẩn sĩ. Nhưng nay ngài không thể làm được như vậy nữa. Rồi ngài nói lên toàn bộ vấn đề như sau:
 

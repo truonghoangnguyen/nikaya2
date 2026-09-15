@@ -1,6 +1,6 @@
 # Chương 15 – Phẩm Mười Lăm Kệ
 
-### **(CCXLVI) Anna-Kondanna (Thera. 69)**
+### **(CCXLVI) Anna-Kondanna (Thera. 69)** {#246}
 
 Sanh trước Thế Tôn tại làng Donavatthu, không xa Kapilavatthu bao nhiêu, trong một gia đình Bà-la-môn rất giàu có, ngài được gọi với tên gia tộc là Kondanna. Lớn lên, ngài biết ba tập Vệ-đà và giỏi về đoán tướng. Khi bậc Bồ-tát mới sanh, ngài là một trong tám vị Bà-la-môn được mời đến đoán tướng. Dầu ngài mới học nghề, ngài thấy các tướng của bậc Ðại nhân trên đứa bé và nói, vị này sau sẽ thành Phật. Rồi ngài sống, chờ đợi vị Bồ-tát xuất gia. Khi vị Bồ-tát xuất gia, lúc hai mươi chín tuổi, Kondanna được nghe tin, liền xuất gia với bốn vị Bà-la-môn đoán tướng khác, như Vappa v.v… và trong sáu năm sống ở Uruvelà, gần vị Bồ-tát, khi vị Bồ-tát đang tu khổ hạnh. Lúc vị Bồ-tát không tu khổ hạnh nữa, các vị này chán chường bỏ đi đến Isipatana (chư Tiên đọa xứ). Rồi đức Phật đến Isipatana, thuyết kinh Chuyển Pháp Luân cho họ, và Kondanna cùng hàng vạn Phạm Thiên chúng chứng được Sơ quả. Ðến ngày thứ năm, nhờ bài kinh ‘Vô Ngã Tướng’, Kondanna chứng quả A-la-hán. Bậc Ðạo Sư trong buổi họp Tăng chúng ở tinh xá Kỳ Viên, đã xác chứng ngài là bậc Ðệ nhất trong các hàng Tăng chúng Tỷ-kheo (Xem. Ang. i. 26). Và trong một trường hợp khi Kondanna giảng về Bốn sự thật, đề cập đến ba tướng: Vô thường, Khổ, Vô ngã, với những phương pháp sai biệt, dựa trên Niết-bàn và giảng với sự lưu loát của đức Phật. Bài giảng ảnh hưởng mạnh mẽ đến Sakka (Ðế Thích) khiến vị này thốt lên những bài kệ:
 
@@ -98,7 +98,7 @@ Bỏ nhà, sống không nhà,\
 Mục đích ấy, ta đạt,\
 Ta cần gì ở rừng.
 
-### **(CCXLVII) Udàyin (Thera. 69)**
+### **(CCXLVII) Udàyin (Thera. 69)** {#247}
 
 Trong thời đức Phật tại thế, ngài sanh ở Kapilavatthu, trong một gia đình Bà-la-môn. Ngài thấy được uy lực của đức Phật khi đức Phật thăm gia đình ngài. Ngài khởi lòng tin, xuất gia và sau một thời gian, ngài thành bậc A-la-hán. Nay có đến ba vị Trưởng lão Udàyin: con một Bộ trưởng, tên là Kàludàyin (xem CCXXXIII), vị Bà-la-môn này và Ðại Udàyin. Khi kinh Ví dụ con voi được thuyết giảng, trong kinh này, con voi Sela của vua Pasenadi được tán thán, ngài Udàyin này cảm thấy phấn khởi khi nghĩ đến đức Phật, nghĩ rằng các người này chỉ tán thán một con vật, còn ta sẽ tán thán các đức tánh tốt đẹp của một con voi tuyệt diệu, tức là đức Phật. Rồi Ngài nói lên những bài kệ như sau:
 

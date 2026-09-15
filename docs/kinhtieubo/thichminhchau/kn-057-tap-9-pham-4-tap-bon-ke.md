@@ -1,6 +1,6 @@
 # Phẩm 4 – Tập Bốn Kệ
 
-**(XXXVII) Bhaddà Thuộc Dòng Họ Kapllà. (Therì. 130)**
+**(XXXVII) Bhaddà Thuộc Dòng Họ Kapllà. (Therì. 130)** {#37}
 
 Trong thời đức Phật hiện tại, nàng được sanh vào một gia đình Bà-la-môn dòng họ Kosiya ở Sàgala. Ðược sống trong giàu sang, nàng được gả làm vợ một nhà quý tộc tên là Pippali ở làng Mahàtittha. Khi người chồng xuất gia, nàng giao lại tài sản cho các người bà con để nàng được xuất gia. Nàng sống năm năm tại Titthiyàràma, sau đó nàng được Mahàpajàpati cho thọ đại giới, nhờ triển khai thiền quán, nàng chứng được quả A-la-hán. Sau nàng trở thành một vị có biệt tài về các đời quá khứ nhờ hạnh nguyện trong đời quá khứ. Nàng được đức Phật xem là người biệt tài đệ nhất về đời sống quá khứ, khi bậc Ðạo Sư ở Jetavana (Kỳ Viên) ngồi phân loại các Tỷ-kheo-ni. Một ngày kia nàng nói lên những bài kệ, nói đến những kinh nghiệm quá khứ và tán thán hạnh của Trưởng lão Kassapa:
 

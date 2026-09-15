@@ -2,7 +2,7 @@
 title: Kinh tiểu bộ tập 4 – KINH PHẬT THUYẾT NHƯ VẬY
 ---
 
-# TẬP 4 – KINH PHẬT THUYẾT NHƯ VẬY
+# TẬP 4 – KINH PHẬT THUYẾT NHƯ VẬY (iti)
 **(Itivuttaka)**
 
 ## Giới thiệu Tập Kinh Phật Thuyết Như Vậy (Thanissaro)

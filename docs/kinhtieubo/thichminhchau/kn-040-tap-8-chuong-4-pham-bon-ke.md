@@ -1,6 +1,6 @@
 # Chương 4 – Phẩm Bốn Kệ
 
-### **(CLXXXVI) Nàgasamàla (Thera. 33)**
+### **(CLXXXVI) Nàgasamàla (Thera. 33)** {#186}
 
 Sanh trong thời đức Phật hiện tại, trong gia đình hoàng tộc Thích-ca, ngài quán sát tánh vô thường của sự vật và triển khai thiền quán, ngài chứng quả A-la-hán. Ngài chứng minh chánh trí của ngài dựa trên kinh nghiệm riêng của ngài trong những bài kệ này:
 
@@ -26,7 +26,7 @@ Thấy pháp nhĩ là vậy,\
 Ba minh chứng đạt được,\
 Lời Phật dạy làm xong.
 
-### **(CLXXXVII) Bhagu (Thera. 33)**
+### **(CLXXXVII) Bhagu (Thera. 33)** {#187}
 
 Sanh trong thời đức Phật hiện tại, trong một gia đình dòng họ Sakya (Thích Ca), ngài xuất gia với Anuruddha và Kimbila, và sống gần làng Bàlakalona. Một ngày kia, khi ngài từ tinh xá ra ngoài để đối trị bịnh buồn ngủ, ngài té khi ngài bước lên đường kinh hành. Xem đấy để tự khích lệ, ngài tự chế ngự và phát triển thiền quán, ngài chứng quả A-la-hán. Từ đấy, sống thọ hưởng an lạc giải thoát Niết-bàn. Thế Tôn đến, tán thán cô độc của ngài và hỏi: ‘Này Tỷ-kheo, sao cho đến nay, Thầy vẫn còn tinh tấn?’. Ngài trả lời, với những bài kệ như sau:
 
@@ -49,7 +49,7 @@ Thấy pháp nhĩ là vậy,\
 Ba minh chứng đạt được,\
 Lời Phật dạy làm xong.
 
-### **(CLXXXVIII) Sabhiya (Thera. 33)**
+### **(CLXXXVIII) Sabhiya (Thera. 33)** {#188}
 
 Trong thời đức Phật hiện tại, ngài sanh trong gia đình con gái một hoàng tộc, người con gái này được cha mẹ giao cho một vị du sĩ hướng dẫn để nàng có thể học giáo lý và nếp sống tu hành. Sabhiya khi lớn lên cũng trở thành một du sĩ, học hỏi nhiều kinh kệ tụng, trở thành một nhà lý luận sắc bén, không ai sánh nổi. Dựng am bên cửa thành, ngài dạy học cho con cháu các hoàng tộc, ngài nghĩ ra hai mươi câu hỏi để ngài hỏi các vị tu sĩ và Bà-la-môn. Trong khi Sabhiyasutta, có ghi là một Bà-la-môn, từ cõi Tịnh cư thiên, đã nghĩ ra các câu hỏi ấy. Thế Tôn khi đi đến Vương Xá, tinh xá Trúc Lâm, đã trả lời các câu hỏi và Sabhiya khởi lòng tin, xuất gia và chứng quả A-la-hán.
 
@@ -75,7 +75,7 @@ Không được trọng, tôn kính,\
 Vị ấy xa Diệu pháp,\
 Như trời xa đất liền.
 
-### **(CLXXXIX) Nandaka (Thera. 33)**
+### **(CLXXXIX) Nandaka (Thera. 33)** {#189}
 
 Trong thời Ðức Phật hiện tại, ngài sanh ở Sàvatthi, trong một gia đình có gia tộc, và được gọi là Nandaka. Ngài xuất gia, sau khi nghe Thế Tôn thuyết pháp, và phát triển thiền quán, ngài chứng quả A-la-hán. Sau đó khi đang sống trong an lạc giải thoát, ngài được bậc Ðạo Sư dạy thuyết pháp cho các Tỷ-kheo-ni và khiến cho năm trăm vị chứng quả A-la-hán. Ðức Phật ấn chứng cho ngài là vị khuyến giáo Tỷ-kheo, Tỷ-kheo-ni đệ nhất.
 
@@ -103,7 +103,7 @@ Tham, sân và vô minh,\
 Ðây họ không tham đắm,\
 Dây cắt, không trói buộc.
 
-### **(CXC) Jambuka (Thera. 34)**
+### **(CXC) Jambuka (Thera. 34)** {#190}
 
 Trong thời Ðức Phật hiện tại, ngài sanh trong một gia đình rất nghèo. Như trong đời trước, ngài dùng phân làm đồ ăn, và rời bỏ gia đình, làm vị tu khổ hạnh. Thực hành nhiều khổ hạnh, ăn từng hạt đậu một, được chấm trên đầu ngọn rơm. Ngài đã năm lăm tuổi khi đức Phật thấy ngài căn cơ thuần thục, như ngọn đèn đặt trong cài ghè, đi đến ngài, thuyết pháp và hóa độ cho ngài. Rồi Thế Tôn gọi: ‘Hãy đến, này Tỷ-kheo’ và cho ngài xuất gia. Rồi Jambuka phát triển thiền quán và Thế Tôn ấn chứng ngài chứng quả A-la-hán. Ðây chỉ là sơ lược, trong đoạn sớ giải các câu kệ của Dhammapàda, câu chuyện được giải thích rộng rãi từ nơi câu; ‘Ăn từng hạt đậu một, với ngọn rơm chấm đậu. Khi đến giờ mệnh chung, ngài nói lên rằng: dầu một lần sống theo tà hạnh, nhưng nếu dựa vào đức Phật tối thượng, ngài cũng có thể chứng quả như các đệ tử khác. Ngài nói lên những bài kệ:
 
@@ -127,7 +127,7 @@ Hãy nhìn Pháp, pháp nhĩ\
 Ba minh ta đạt được\
 Lời Phật dạy làm xong
 
-### **(CXCI) Senaka (Thera. 34)**
+### **(CXCI) Senaka (Thera. 34)** {#191}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình, con trai người chị của Trưởng lão Kassapa ở Uruvela, và được đặt tên là Senaka. Khi học về văn hóa Vệ-đà Bà-la-môn, ngài ở với gia đình. Trong thời ấy dân chúng tổ chức hàng năm vào tháng Thaggumà (tháng ba) một lễ quán đảnh một bến nước, lễ ấy được gọi là Gayà melà (hay ngày trai giới Gayà).
 
@@ -159,7 +159,7 @@ Giải thoát Senaka,\
 Thoát khỏi mọi buộc ràng,\
 Ðược tự tại , giải thoát.
 
-### **(CXCII) Sambhùta (Thera. 34)**
+### **(CXCII) Sambhùta (Thera. 34)** {#192}
 
 Trong thời Ðức Phật hiện tại, ngài sanh trong một gia đình có giai cấp, và sau khi bậc Ðạo Sư tịch diệt, ngài được Ananda giáo hóa, xuất gia và chứng quả A-la-hán. Ngài sống trong an lạc giải thoát, cho đến khi một trăm năm sau khi đức Phật nhập diệt, các Tỷ-kheo Vajjì đề xướng mười tà pháp bị Trưởng lão Niyasa và các Tỷ-kheo Kàlanndaka chống lại và một kỳ kiết tập được tổ chức với bảy trăm vị A-la-hán. Ngài Sambhùta, bị xúc động bởi hành động xuyên tạc Pháp và Luật, nói lên những bài kệ này và tuyên bố chánh trí của ngài:
 
@@ -187,7 +187,7 @@ Như trăng vào thời sáng,\
 Ðược danh tiếng vinh dự,\
 Không chống đối bạn bè.
 
-### **(CXCIII) Ràhula (Thera. 35)**
+### **(CXCIII) Ràhula (Thera. 35)** {#193}
 
 Ngài là con của đức Phật và công chúa Yasodhàra, và được nuôi dưỡng với các hoàng tử khác. Trường hợp ngài xuất gia đã được ghi trong tập Khandhaka. Nhờ những lời dạy trong nhiều bài kinh, trí tuệ ngài thuần thục và phát triển thiền quán, ngài chứng quả A-la-hán. Suy tư đến sự thắng trận của mình, ngài nói lên chánh trí:
 
@@ -217,7 +217,7 @@ Cắt đứt ma trói buộc,\
 Nhổ lên gốc khát ái,\
 Ta mát lạnh tịch tịnh.
 
-### **(CXCIV) Candana (Thera. 35)**
+### **(CXCIV) Candana (Thera. 35)** {#194}
 
 Trong thời đức Phật hiện tại, ngài tái sanh trong một gia đình giàu có và đặt tên là Candana, ngài sống một đời sống gia đình cho đến khi ngài được nghe bậc Ðạo Sư thuyết pháp. Và chứng quả Dự Lưu. Khi ngài sanh được một người con, ngài xuất gia, chọn lựa một đề tài thiền quán và sống ở trong rừng. Ði đến Sàvatthi để yết kiến bậc Ðạo Sư, ngài ở trong một bãi tha ma, vợ ngài nghe tin ngài đến, liền trang điểm, đem con theo, nghĩ rằng: ‘Với nhan sắc nàng có thể khiến ngài từ bỏ xuất gia’. Ngài thấy nàng từ xa đi đến nghĩ cách để thoát khỏi bị nàng cám dỗ, phát triển thiền quán và chứng được sáu thắng trí. Ngài thuyết giảng cho nàng, khiến nàng qui y và thọ các giới. Rồi ngài trở lui ở chỗ cũ của ngài. Khi các Tỷ-kheo bạn hỏi ngài: ‘Các căn của bạn chói sáng, bạn đã chứng sự thực gì?’. Ngài nói lên quả chứng của mình, và với những bài kệ này, chứng minh chánh trí của mình.
 
@@ -241,7 +241,7 @@ Thấy pháp nhĩ là vậy,\
 Ba minh chứng đạt được,\
 Lời Phật dạy làm xong.
 
-### **(CXCV) Dhammika (Thera. 35)**
+### **(CXCV) Dhammika (Thera. 35)** {#195}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình Bà-la-môn ở Kosala, tên là Dhammika. Khi Jetavana (Kỳ Viên) được dâng cúng, ngài khởi lòng tin, và xuất gia. Sống tại một tinh xá ở làng, ngài cảm thấy bất mãn và khó chịu đối với các công việc các Tỷ-kheo đến tinh xá. Do vậy các Tỷ-kheo đều bỏ đi và ngài làm chủ một mình một ngôi tinh xá. Một cư sĩ báo cáo sự việc lên bậc Ðạo Su, bậc Ðạo Sư cho gọi ngài lên để giải thích. Theo lời các Tỷ-kheo yêu cầu, ngài nói lên những bài kệ như sau:
 
@@ -277,7 +277,7 @@ Trong đêm thanh trong sáng.
 
 Khi Thế Tôn dạy ba bài kệ trên, Dhammika trên chỗ ngồi phát triển thiền quán và chứng quả A-la-hán. Ðể nói lên quả chứng của mình cho bậc Ðạo Sư rõ, ngài nói lên bài kệ cuối cùng để nói lên chánh trí của ngài.
 
-### **(CXCVI) Sabbaka (Thera. 35)**
+### **(CXCVI) Sabbaka (Thera. 35)** {#196}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi trong một gia đình Bà-la-môn, ngài nghe Thế Tôn thuyết pháp, khởi lòng tin và xuất gia. Lựa chọn một đề tài để thiền quán, ngài đi đến tinh xá Lonagiri, trên bờ sông Ajakaranì và tại đấy, sau một thời gian chứng quả A-la-hán. Ði đến Sàvatthi để yết kiến bậc Ðạo Sư, ngài ở lại một thời gian và được bà con đón tiếp. Sau khi khuyên các bà con quy y và giữ giới, ngài muốn trở về chỗ cũ. Các bà con yêu cầu ngài ở lại để được bà con cúng dường, nhưng ngài nói cho họ rõ vì sao ngài đến đây, và sự ưa thích đời sống độc cư. Ngài nói lên bài kệ tán thán trú xứ của ngài:
 
@@ -318,7 +318,7 @@ Thật an vui thích thú!
 
 Rồi các bà con thuận để ngài đi. Vì ngài thích sống nhàn tịnh, đây trở thành lời tuyên bố chánh trí của ngài.
 
-### **(CXVII) Mudita (Thera 36)**
+### **(CXVII) Mudita (Thera 36)** {#117}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình thường dân và được đặt tên là Mudita. Khi ngài đến tuổi trưởng thành , dòng họ ngài vì một vài nguyên nhân, bị vua chống đối Mudita, quá sợ vua nên bỏ chạy, đi vào rừng và sống gần trú xứ của một Trưởng lão đã chứng quả A-la-hán. Vị này thấy ngài quá sợ hãi, bảo ngài chớ có sợ. Ngài hỏi cần phải bao nhiêu thời gian mới khỏi tai nạn, vị A-la-hán nói cần phải bảy hay tám tháng, ngài nói ngài không thể đợi lâu như thế nên xin xuất gia. Vị Trưởng lão cho phép ngài được xuất gia. Ngài xuất gia, học đạo, khởi lòng tin, không còn sợ hãi nữa, và tu tập thiền quán. Chưa chứng được quả A-la-hán, ngài nguyện không rời khỏi tinh xá cho đến khi chứng quả và cuối cùng ngài đã thành công. Sau đó, ngài sống trong an lạc giải thoát, các Tỷ-kheo đồng Phạm hạnh hỏi ngài làm sao ngài thành đạt được chí nguyện, ngài nói lên kinh nghiệm của ngài trong những bài kệ như sau:
 

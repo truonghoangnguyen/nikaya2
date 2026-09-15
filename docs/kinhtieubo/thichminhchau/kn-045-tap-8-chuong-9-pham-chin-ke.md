@@ -1,6 +1,6 @@
 # Chương 9 – Phẩm Chín Kệ
 
-### **(CCXXXII) Bhùta (Thera. 54)**
+### **(CCXXXII) Bhùta (Thera. 54)** {#232}
 
 Trong thời đức Phật hiện tại, ngài sanh tại ngoại thành Sàketa, con một hội viên giàu có trong Hội đồng thành phố, ngài là con út và người con độc nhất được sống sót, các người con khác bị một con Dạ-xoa thù nghịch ăn thịt. Ngài được canh gác cẩn mật, và con Dạ-xoa bận lên hầu Vessavana nên không về nữa. Khi đến tuổi đặt tên, ngài được đặt tên là Bhùta, vì do nguyện cầu được sanh ngài: ‘Mong rằng các hàng phi nhân có lòng từ hộ trì cho đứa trẻ’. Nhờ công đức của mình, ngài lớn lên không bị tai nạn gì, được nuôi dưỡng trong ba lâu đài như Yasa. Khi bậc Ðạo Sư đến Sàketa, ngài cùng với các cư sĩ khác đến tịnh xá nghe thuyết pháp. Sau khi xuất gia, ngài sống trong một hang động, trên bờ sông Ajakaranì. Tại đấy, ngài chứng quả A-la-hán. Sau đó ngài về thăm các bà con vì lòng từ mẫn và ở trong rừng Anjana. Khi các bà con yêu cầu ngài ở lại, vì lợi ích chung cho các bà con và cho ngài, ngài nói ngài ưa thích đời sống xuất gia và nói lên những bài kệ như sau, trước khi từ biệt các bà con:
 

@@ -1,6 +1,6 @@
 # Phẩm 6 – Tập Sáu Kệ
 
-**(L) Năm Trăm Patàcàrà (Therì. 136)**
+**(L) Năm Trăm Patàcàrà (Therì. 136)** {#50}
 
 Trong thời đức Phật hiện tại, chúng sanh trong những gia đình khá giả, tại nhiều chỗ khác nhau, lấy chồng, có con, sống lo việc bếp nước trong gia đình. Họ đều chịu sự đau khổ khi con của họ bị chết. Rồi họ đi tìm đến Patàcàrà, đảnh lễ nàng, ngồi xuống một bên nàng và nói cho nàng biết nỗi đau khổ của họ. Patàcàrà, làm cho họ vơi bớt sự đau khổ, nói lên những bài kệ như sau:
 
@@ -44,7 +44,7 @@ Phật, Pháp và chúng Tăng.
 
 Về sau Tỷ-kheo-ni này rất giỏi về lời dạy của Patàcàrà, nên chúng được gọi là: tùy thuộc của Patàcàrà.
 
-**(LI) Vàsitthi (Therì. 136)**
+**(LI) Vàsitthi (Therì. 136)** {#51}
 
 Trong thời đức Phật hiện tại, nàng được sanh làm con một nhà quyền quý ở Vesàli. Khi nàng lớn, nàng được gả cho một người chồng tương xứng và nàng sống vui vẻ với người chồng. Khi có được đứa con, mới tập chạy, nó chết đi và nàng quá đau khổ vì đứa con chết. Khi các người bà con chữa bệnh cho chồng, nàng bỏ trốn và lang thang khắp đó đây cho đến khi nàng đến Mithìlà. Tại đây, nàng thấy đức Phật đang đi trên đường, tự tại, tự chế, làm chủ các căn. Khi thấy bậc Ðạo Sư và nhờ Phật lực nàng lấy lại được sự bình tĩnh. Rồi bậc Ðạo Sư thuyết pháp vắn tắt cho nàng, và nàng xin được xuất gia và bậc Ðạo Sư chấp nhận. Làm tất cả các bổn phận của mình, nàng an trú vào thiền quán, và với sự cố gắng vượt bực, với trí tuệ chín muồi, nàng chứng quả A-la-hán, vói pháp tín thọ, nghĩa tín thọ. Suy tư trên quả chứng của mình, nàng sung sướng nói lên niềm hân hoan của mình:
 
@@ -78,7 +78,7 @@ Ta chứng đạo an ổn.
 Ta liễu tri nền gốc,\
 Từ đấy sầu muộn sanh.
 
-**(LII) Khemà (Therì. 137)**
+**(LII) Khemà (Therì. 137)** {#52}
 
 Trong thời đức Phật hiện tại, nàng được sanh nước Magadha (Ma-kiệt-đà) ở Sàgala, thuộc gia đình hoàng tộc, tên là Khemà. Nhan sắc đẹp đẽ, với da như vàng, nàng trở thành hoàng hậu Vua Bimbisàra. Khi Thế Tôn ở tại Veluvana (Trúc Lâm), nàng không đi đến yết kiến đức Phật vì sợ Thế Tôn chỉ trích lỗi của mình. Vua muốn nàng đi thăm Trúc Lâm, nên nhờ người tán thán ngôi vườn này, và cuối cùng nàng bằng lòng cùng vua đi đến tinh xá, không thấy Thế Tôn, nhưng muốn nàng thấy cho được Thế Tôn, dầu phải bắt nàng ở lại. Khi nàng sắp sửa từ giã tinh xá nhưng không gặp được Thế Tôn, các người hầu cận giữ nàng ở lại và đưa nàng đến gặp đức Thế Tôn một cách miễn cưỡng. Ðức Thế Tôn dùng thần lực hóa hiện một tiên nữ rất đẹp đang đứng quạt cho Ngài, sắc đẹp thắng xa sắc đẹp của nàng rất nhiều. Rồi trước mắt nàng, như nhân được hóa hiện ấy lớn lên trở thành già yếu răng rụng, tóc bạc, da nhăn và ngồi ngã xuống đất với chiếc quạt. Khemà thấy vậy, tự hỏi không biết thân mình có chịu hoàn cảnh tương tự hay không. Thế Tôn biết được tâm trạng của nàng bèn nói lên bài kệ:
 
@@ -127,7 +127,7 @@ Bậc Giác ngộ, Thượng nhân,\
 Giải thoát mọi khổ đau,\
 Hành lời Ðạo Sư dạy.
 
-**(LIII) Sujàtà (Therì. 137)**
+**(LIII) Sujàtà (Therì. 137)** {#53}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Sàketa trong gia đình thủ khố nhà vua. Ðược gả chồng với con vị thủ khố tương xứng với gia đình, nàng sống hạnh phúc với chồng. Một hôm, trong khi đi dự lễ các Sao (Nakkhatakìlam), nàng đi về với những người hầu hạ, và nàng thấy bậc Ðạo Sư ở vườn Anjana. Nàng cảm thấy bị hấp dẫn, đến gần đảnh lễ ngài và nghe ngài thuyết pháp. Bậc Ðạo Sư biết căn cơ nàng đã chín muồi, nên đặc biệt thuyết pháp cho nàng, và thuyết pháp xong, nàng chứng được quả A-la-hán với pháp tín thọ, với nghĩa tín thọ. Ðảnh lễ bậc Ðạo Sư, về nhà được chồng và cha mẹ chấp thuận và với sự đồng ý của bậc Ðạo Sư, nàng được xuất gia làm Tỷ-kheo-ni. Suy tư đến quả chứng của mình, nàng sung sướng nói lên như sau:
 
@@ -163,7 +163,7 @@ Ta xuất gia, không nhà,\
 Ba minh ta đạt được,\
 Không trống rỗng lời Phật.
 
-**(LIV) Anopanà (Therì. 138)**
+**(LIV) Anopanà (Therì. 138)** {#54}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Sàketa, trong gia đình vị thủ kho Majjha. Vì nàng rất đẹp, nàng được tên là Anopanà (không ai sánh nổi). Khi nàng đến tuổi trưởng thành, nhiều con nhà giàu, các quan chức nhà vua, các hoàng tử, cử các sứ giả đến xin cưới nàng. Nghe tin vậy, nàng có tâm nguyện khác, nàng muốn sống đời sống không có gì hết. Nên nàng tìm đến bậc Ðạo Sư nghe ngài thuyết pháp, nhờ trí tuệ chín muồi, nhờ nhớ đến lời dạy, nhờ nhiệt tâm thiền quán, nàng chứng được quả thứ ba, quả Bất lai. Xin phép bậc Ðạo Sư cho xuất gia, nàng được nhận làm Tỷ-kheo-ni. Và đến ngày thứ bảy, nàng chứng được quả A-la-hán. Suy tư trên quả chứng, nàng sung sướng nói lên sự phấn khởi của mình:
 
@@ -197,7 +197,7 @@ Xuất gia, sống không nhà,\
 Hôm nay, đêm thứ bảy,\
 Khát ái được gột sạch.
 
-**(LV) Mahàpajàpatì Gotamì (Therì. 138)**
+**(LV) Mahàpajàpatì Gotamì (Therì. 138)** {#55}
 
 Trước khi bậc Ðạo Sư ra đời, nàng được sanh ở Devadaha, trong gia đình Mahà-Suppabuddha. Tên gia đình của nàng là Gotama, và nàng là em gái của Mahàmàyà. Các thầy đoán tướng tiên đoán rằng các người con của hai chị em sẽ là vị chuyển luân vương. Vua Suddhodana, khi đến tuổi trưởng thành, cưới cả hai chị em. Sau đó, bậc Ðạo Sư đản sanh, và trong khi chuyển pháp luân, ngài đi đến Vesàli, và phụ vương được quả A-la-hán mệnh chung.
 
@@ -239,7 +239,7 @@ Ma-yà sanh Cù-đàm,\
 Giải tỏa nhóm khổ đau\
 Cho người bị bệnh chết?
 
-**(LVI) Guttà (Therì. 139)**
+**(LVI) Guttà (Therì. 139)** {#56}
 
 Trong thời đức Phật hiện tại, nàng được sanh ở Sàvatthi trong một gia đình Bà-la-môn và tên là Guttà. Khi đến tuổi trưởng thành, nàng nhàm chán đời sống gia đình và được phép gia đình cho xuất gia, dưới sự lãnh đạo của Mahàpajàpati. Sau đó dầu nàng hành trì với tín tâm, nhưng tâm của nàng cứ chạy theo ngoại cảnh và do vậy nàng không thiền định được. Rồi bậc Ðạo Sư muốn khích lệ nàng, phóng hào quang và hiện ra trước mặt nàng và nói lên bài kệ như sau:
 
@@ -275,7 +275,7 @@ Liễu tri sự tái sanh,\
 Hiện tại không ước vọng,\
 Ngươi sẽ sống an tịnh.
 
-**(LVII) Vijjayà (Therì. 139)**
+**(LVII) Vijjayà (Therì. 139)** {#57}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Ràjagaha (Vương Xá) trong một gia đình thường dân, khi lớn lên nàng trở thành bạn của Khemà, đưa nàng trở thành Trưởng lão Ni, khi ấy còn là nữ cư sĩ. Khi nghe Khemà xuất gia, nàng nói: ‘Khemà là hoàng hậu còn xuất gia được, huống nữa là ta’. Nàng đi đến Khemà, và Khemà biết tâm nguyện căn cơ của nàng nên thuyết pháp, khiến nàng suy tư đến sanh lão bệnh tử và tìm được an ổn trong đạo pháp. Rồi Khemà cho nàng xuất gia, nàng hầu hạ, học hỏi làm tròn bổn phận của mình, tu tập thiền quán và khi trí tuệ thuần, nàng chứng được quả A-la-hán với pháp tín thọ, nghĩa tín thọ. Rồi suy tư trên quả chứng của mình nàng nói lên sự sung sướng phấn khởi của nàng:
 

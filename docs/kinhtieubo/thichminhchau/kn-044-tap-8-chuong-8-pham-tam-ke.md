@@ -1,6 +1,6 @@
 # Chương 8 – Phẩm Tám Kệ
 
-### **(CCXXLX) Mahà-Kaccàyana (Thera. 52)**
+### **(CCXXLX) Mahà-Kaccàyana (Thera. 52)** {#260}
 
 Trong thời đức Phật hiện tại, ngài sanh tại Ujienì trong gia đình của vị cố vấn nghi lễ cho vua Candapajjota. Ngài học ba tập Vệ-đà, khi ngài lớn và khi phụ thân mất ngài kế tiếp chức vụ của cha. Ngài được biết với tên là Kaccàna theo dòng họ. Nhà vua được nghe tin đức Phật xuất hiện, ngài đi mời đức Phật, ngài đi với bảy người, được bậc Ðạo Sư thuyết pháp, sau buổi thuyết giảng, cả ngài với bảy người đều chứng quả A-la-hán, với hiểu biết về nghĩa và về pháp. Rồi Thế Tôn đưa tay nói: ‘Hãy đến các Tỷ-kheo!’, cả tám vị được cắt tóc, đầy đủ với bát và y.
 
@@ -60,7 +60,7 @@ Có sức, như kẻ yếu,\
 Ðể việc lành khởi lên,\
 Nằm như kẻ chết nằm.
 
-### **(CCXXX) Sirimitta (Thera. 52)**
+### **(CCXXX) Sirimitta (Thera. 52)** {#230}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Ràjagaha (Vương Xá), con của một điền chủ giàu có, được đặt tên là Sirimitta; mẹ ngài là chị của Sirigutta. Nay Sirimitta, cháu của Sirigutta tìm được lòng tin đối với bậc Ðạo Sư nhiếp phục con voi Dhanapàla. Rồi ngài xuất gia và sau một thời gian chứng quả A-la-hán.
 
@@ -111,7 +111,7 @@ Hãy chú tâm tín, giới,\
 Tịnh, tín, thấy đúng pháp;\
 Vào cốt tủy lời Phật.
 
-### **(CCXXXI) Mahà-Panthaka (Thera. 53)**
+### **(CCXXXI) Mahà-Panthaka (Thera. 53)** {#231}
 
 Khi bậc Ðạo Sư đi đến Ràjagaha, chuyển bánh xe pháp, Panthaka, con đầu lòng của con gái một nhân viên giàu có trong Ủy ban thành phố, và một trong những người nô tỳ của phụ thân của người con gái, cả hai thường đi đến ông ngoại để nghe bậc Ðạo Sư thuyết pháp, khởi lòng tin với thiền quán. Sau khi xuất gia, ngài trở thành thiện xảo trong lời dạy của bậc Ðạo Sư và trong bốn thiền, và sau một thời gian, chứng quả A-la-hán. An trú trong an lạc thiền quán và quả chứng, ngài hồi tưởng lại sự thành công của mình, và sung sướng rống tiếng rống con sư tử như sau:
 
