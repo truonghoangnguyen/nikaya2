@@ -1,6 +1,6 @@
 # Phẩm 12 – Tập Mười Sáu Kệ
 
-**(LXV) Punnà hay Punnikà (Therì. 146)**
+**(LXV) Punnà hay Punnikà (Therì. 146)** {#65}
 
 Trong thời đức Phật hiện tại, nàng được sanh ở Sàvatthi, trong gia đình ông Anàthapindika (Cấp Cô Ðộc) con gái của một người nô lệ. Nàng chứng được quả Dự lưu khi nghe kinh Sư tử hống (Trung Bộ Kinh, kinh số 11 hay 12). Về sau, sau khi nàng hóa độ được một Bà-la-môn tin tưởng nhờ nước làm cho thanh tịnh và được cảm tình của ông chủ, nàng được thoát ly khỏi giới nô lệ, và với sự bằng lòng của ông chủ, nàng được xuất gia. Và nhờ triển khai thiền quán, nàng chứng quả A-la-hán với hiểu pháp và hiểu nghĩa. Suy tư trên quả chứng của mình, nàng nói lên những bài kệ như sau:
 

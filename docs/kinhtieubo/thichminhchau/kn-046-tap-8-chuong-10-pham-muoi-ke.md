@@ -1,6 +1,6 @@
 # Thag 10. Chương 10 – Phẩm Mười Kệ
 
-### **(CCXXIII) Kàludàyin (Thera. 56)**
+### **(CCXXIII) Kàludàyin (Thera. 56)** {#223}
 
 Ngài sanh cùng ngày với đức Phật trong gia đình con vị Bộ trưởng của vua ở Kapilavatthu. Bảy vị cùng sanh một lần trong ngày, Vị Bồ-tát, cây Bồ-đề, mẹ của Ràhula và bốn vật báu: roi báu, con ngựa Kanthaka, Channa và Kàludàyin. Khi đến ngày đặt tên, ngài được gọi là Udàyin, và vì ngài da đen nên được gọi là Kàludàyin. Ngài lớn lên làm bạn trẻ đồng chơi với vị Bồ-tát. Rồi Thế Tôn xuất gia, giác ngộ, và ở tại Trúc Lâm (Veluvana), chuyển bánh xe Chánh pháp, vua Suddhodana nghe vậy, cử một vị Bộ Trưởng với một ngàn người tùy tùng, bảo đem con của vua về. Vị Bộ trưởng cùng cả ngàn tùy tùng, nghe đức Phật giảng và chứng quả A-la-hán. Ðức Phật đưa tay nói: ‘Hãy đến, này các Tỷ-kheo’… và tất cả sống giữa các vị Hiền Thánh, không chuyển thông điệp của vua. Các vị sứ giả khác cũng lâm vào cảnh tương tự. Cuối cùng vua sai Kàludàyin với một ngàn người tùy tùng và Kàludàyin hứa thế nào cũng đưa vị Bồ-tát về dầu có xuất gia. Ngài đi đến nghe pháp, trở thành vị A-la-hán, nhớ đến sứ mạng của mình, chờ cho mùa mưa xong, khi trên con đường về, hoa đã trổ bông, ngài mới nói lên những bài kệ mời bậc Ðạo Sư về và tán thán vẻ đẹp cuộc hành trình:
 
@@ -80,7 +80,7 @@ Vua dòng Go-ta-ma\
 Là bậc Tổ phụ tôi,\
 Ðúng pháp là như vậy.
 
-### **(CCXXXIV) Ekavihàriya (Tissa Kumàra) (Thera. 57)**
+### **(CCXXXIV) Ekavihàriya (Tissa Kumàra) (Thera. 57)** {#234}
 
 Ngài sanh ra, sau khi đức Phật đã nhập Niết-bàn là con trai nhỏ nhất của vua Dhammàsoka. Vua Asoka, đến năm thứ 218 sau khi đức Phật nhập Niết-bàn, đã thống nhất toàn thể Ấn Ðộ trong một đế quốc. Vua phong em trai thứ ngài là Tissa làm Phó vương, và vận động em ngài ủng hộ cho Giáo hội.
 
@@ -140,7 +140,7 @@ Giống như mặt trăng rằm.\
 Mọi lậu hoặc tận trừ,\
 Nay không còn tái sanh.
 
-### **(CCXXXV) Mahà Kappina (Ma-ha Kiếp-tân-na) (Thera. 58)**
+### **(CCXXXV) Mahà Kappina (Ma-ha Kiếp-tân-na) (Thera. 58)** {#235}
 
 Trong thời đức Phật hiện tại, ngài sanh ở biên địa, tại thành phố tên Kukkuta, trong gia đình một vị vua và được đặt tên là Kappina. Khi phụ vương mất, ngài thừa tự ngôi vua với tên là Mahà-Kappina. Ðể tăng trưởng sự hiểu biết, ngài sai sứ giả mỗi buổi sáng đi ra khỏi bốn cửa thành, giữ lại các vị học giả và tin cho ngài biết. Thời ấy bậc Ðạo Sư đã ra đời và đang ở Sàvatthi. Các thương gia của thành phố Sàvatthi đem đồ đến Kukkutta bán, đem quà dâng vua. Vua hỏi tình hình ở Sàvatthi và dân chúng theo tôn giáo nào. Các thương gia thưa không trả lời cho vua được, vì chưa được súc miệng. Sau khi vua bảo đem nước súc miệng xong, các thương gia chấp tay và thưa: ‘Ở đất nước chúng tôi, Phật báu đã ra đời’. Khi nghe nói đến chữ Phật, vua cảm thấy hân hoan thoải mái, bảo thương gia nói lại ba lần, và thưởng chúng một trăm ngàn đồng tiền vàng. Các thương gia cũng nói đến Pháp báu và Tăng báu, và vua tặng thưởng gấp ba lần. Rồi vua từ bỏ thế tục và xuất gia. Các vị Bộ trưởng cũng theo gương vua. Rồi tất cả cùng đi tìm đức Bổn Sư và đi đến sông Hằng. Rồi họ tuyên bố, nếu có bậc Ðạo Sư, có đức Phật tối thượng thời móng chân các con ngựa không bị thấm ướt! Rồi họ đi ngang qua con sông ấy và qua một con sông khác nữa, sông Candabhàgà.
 
@@ -213,7 +213,7 @@ Họ làm tròn nhiệm vụ,\
 Như chiếc thuyền vượt qua,\
 Con sông nước tràn đầy.
 
-### **(CCXXXVI) Cùla-Panthaka (Thera. 59)**
+### **(CCXXXVI) Cùla-Panthaka (Thera. 59)** {#236}
 
 Câu chuyện của ngài đã được kể trong chương VIII. Phần còn lại được kể trong tập sớ Cùlasetthi-Jàtaka. Trong một trường hợp khác ngài nói lên những bài kệ như sau:
 
@@ -269,7 +269,7 @@ Cả toàn thể thế giới,\
 Là phước điền loài Người,\
 Ngài chấp nhận cúng dường.
 
-### **(CCXXXVII) Kappa (Thera. 59)**
+### **(CCXXXVII) Kappa (Thera. 59)** {#237}
 
 Trong thời đức Phật hiện tại, ngài sanh trong vương quốc Magadha, làm con một vua bản xứ, kế vị ngôi vua, nhưng rơi vào hưởng thụ các dục vọng. Khi bậc Ðạo Sư với lòng từ bi, nhìn thế giới để xem ai xứng đáng được cứu độ. Bậc Ðạo Sư thấy ngài, nghĩ rằng Kappa có thể tu tập quán bất tịnh, xuất gia và chứng quả A-la-hán. Thế Tôn đi trên hư không đến Kappa, và nói với ngài với những câu kệ như sau:
 
@@ -325,7 +325,7 @@ Chứng Niết-bàn, vô lậu.
 
 Kappa nghe lời dạy bậc Ðạo Sư, về thân phận các thân dưới nhiều hình ảnh, sợ hãi và nhàm chán thân mình, hốt hoảng xin xuất gia. Bậc Ðạo Sư giao cho một Tỷ-kheo làm lễ xuất gia. Kappa nhận mười đề tài tu tập và chứng quả A-la-hán. Ngài đi đến bậc Ðạo Sư, đảnh lễ, ngồi xuống một bên và nói lên chánh trí của mình với những bài kệ trên. Do vậy các bài kệ này trở thành bài kệ của ngài.
 
-### **(CCXXXVIII) Upasena, Con Của Vanganta (Thera. 60)**
+### **(CCXXXVIII) Upasena, Con Của Vanganta (Thera. 60)** {#238}
 
 Trong thời đức Phật hiện tại, ngài sanh ở làng Nàlaka, làm con của nữ Bà-la-môn Rùpasàrì và đặt tên là Upasena (anh của Sàriputta). Khi đến tuổi trưởng thành và học ba tập Vệ-đà. Ngài xuất gia sau khi nghe đức Phật thuyết pháp. Sau một năm thọ giới, ngài nghĩ làm tăng trưởng hột giống Thánh chủng, độ cho một Tỷ-kheo và với Tỷ-kheo này, ngài đi đến bậc Ðạo Sư, bậc Ðạo Sư nghe được việc này, chỉ trích cử chỉ hấp tấp của ngài. Rồi Upasena suy nghĩ: ‘Nếu nay, vì có một đệ tử, ta bị bậc Ðạo Sư quở trách. Nay cũng nhân lý do này, ta sẽ được Ðạo Sư tán thán’. Rồi tu tập thiền quán. Ngài chứng được quả A-la-hán. Ngài chấp nhận lối sống hạnh đầu đà và khuyên các vị khác thực hành theo, và lời khuyên của ngài rất có kết quả khiến cho Thế Tôn chấp nhận ngài là đệ tử rất được nhiều người biết đến.
 
@@ -383,7 +383,7 @@ Chứng được tối tịch tịnh.
 
 Như vậy vị Trưởng lão, trong khi giảng dạy vị Tỷ-kheo, nêu rõ quả chứng của mình và nói lên chánh trí.
 
-### **(CCXXXIX) Gotama (Thera. 61)**
+### **(CCXXXIX) Gotama (Thera. 61)** {#239}
 
 Sanh ở Sàvatthi trước khi đức Phật ra đời, trong một gia đình Bà-la-môn từ Udicca. Ngài lớn lên, rất giỏi các tập Vệ đà và là một vị hùng biện vô địch.
 

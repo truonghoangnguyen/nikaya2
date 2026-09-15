@@ -36,7 +36,7 @@ Bỏ nhà, sống không nhà,\
 Ðích ấy ta đạt được,\
 Mọi kiết sử tận diệt.
 
-### **(CCXI) Tekicchakàrì (Thera. 42)**
+### **(CCXI) Tekicchakàrì (Thera. 42)** {#211}
 
 Trong thời đức Phật hiện tại, ngài sanh làm con một Bà-la-môn tên Subuddha. Ngài được các nhà giải phẫu cứu sống khi ngài mới sanh, vì vậy ngài được đặt tên là Tekicchakàrì (người được các bác sĩ cứu sống). Ngài lớn lên học các nghệ thuật và học thuật của giai cấp mình. Phụ thân ngài vì trí tuệ và chánh sách của mình, nên bị vua Candagotta, vua Bà-la-nại ganh ghét và bỏ tù. Tekicchakàrì nghe vậy, sợ hãi bỏ trốn, lánh mình tại tinh xá của một vị Trưởng lão, và tường thuật cho vị ấy biết nỗi khó khăn của mình. Vị Trưởng lão cho ngài xuất gia, chọn cho ngài một đề tài tu tập và ngài trở thành một Tỷ-kheo sống ngoài trời không kể gì lạnh nóng, hoàn toàn chú tâm vào tu tập cho được thành quả. Ác ma sợ ngài thoát khỏi sự chi phối của mình nên muốn phá rối vị Trưởng lão, đến gần dưới hình thức một người mục đồng, khi gặt hái đã xong, muốn cám dỗ ngài nên nói như sau:
 
@@ -119,7 +119,7 @@ Thật có sự cung kính,\
 Họ đến gần Niết-bàn,\
 Trong lời dạy Pháp vương.
 
-### **(CCXIII) Kulla (Thera. 43)**
+### **(CCXIII) Kulla (Thera. 43)** {#213}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi (Xá-vệ) trong gia đình một điền chủ tên là Kulla, ngài được cảm hóa với lòng tin và được bậc Ðạo Sư độ cho xuất gia. Nhưng ngài thường bị tham dục chi phối. Bậc Ðạo Sư biết yếu điểm này của ngài, cho ngài một đề tài bất tịnh và khuyên ngài thiền quán trong một nghĩa địa. Khi tu tập này chưa được kết quả bậc Ðạo Sư đi với ngài và yêu cầu ngài theo dõi tiến trình thối nát và tiêu diệt của vật bất tịnh. Khi Kulla đã được tự tại thoát ly, Thế Tôn phóng hào quang, khiến ngài nhớ lại bài học, chứng Sơ thiền và từ đấy phát triển thiền quán, chứng được quả A-la-hán.
 
@@ -157,7 +157,7 @@ Chơn chánh thiền quán pháp.
 
 Những kệ này là lời tuyên bố chánh trí của ngài.
 
-### **(CCXIV) Màlunkyaputta (Thera. 43)**
+### **(CCXIV) Màlunkyaputta (Thera. 43)** {#214}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi, con một vị chuyên môn đánh giá cho vua Kosala, và mẹ là Màlunkyya, nên ngài được gọi là Màlunkyaputta (con bà Màlunkyà). Khi đến tuổi trưởng thành, tánh ưa thích đời sống xuất gia, ngài trở thành một du sĩ ngoại đạo. Khi nghe Thế Tôn thuyết pháp, ngài xin xuất gia trong Pháp và Luật của Thế Tôn, và sau một thời gian, ngài chứng được sáu thắng trí. Khi ngài về thăm nhà vì lòng từ mẫn đối với bà con, các bà con chào đón ngài rất niềm nở và muốn kéo ngài trở về với đời sống gia đình thế tục, nói rằng với tài sản của ngài, ngài có thể lập gia đình và làm các thiện sự. Nhưng ngài nói lên chí nguyện cuả ngài như sau:
 
@@ -199,7 +199,7 @@ Bụi nhơ, do phóng dật,\
 Không phóng dật, minh trí,\
 Nhổ mũi tên khỏi ta.
 
-### **(CCXV) Sappadàsa (Thera. 44)**
+### **(CCXV) Sappadàsa (Thera. 44)** {#215}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Kapilavatthu (Ca-tỳ-la-vệ), con của vị cố vấn tế lễ của vua Suddhodhana, và được đặt tên là Sappadàsa. Khi đức Phật viếng thăm bà con, ngài khởi lòng tin và xuất gia. Bị chi phối bởi những tập tục xấu, những tánh tình tâm lý không tốt đẹp, ngài không sao được thiền định và nhất tâm. Sự kiện này khiến ngài quá sầu não đến nỗi ngài gần tự tử, nhưng bỗng ánh sáng nội tâm chói sáng lan rộng thình lình, ngài chứng quả A-la-hán, nói lên chánh trí của mình, ngài nói:
 
@@ -233,7 +233,7 @@ Thấy Pháp nhĩ là vậy,\
 Ba minh chứng đạt được,\
 Lời Phật dạy làm xong.
 
-### **(CCXVI) Kàtiyàna (Thera. 45)**
+### **(CCXVI) Kàtiyàna (Thera. 45)** {#216}
 
 Trong thời đức Phật hiện tại, ngài được sanh ở Sàvatthi, con của một Bà-la-môn thuộc dòng họ Kosiya, nhưng được gọi là Kàtiyàna, theo gia đình của bà mẹ. Thấy bạn của mình là Sàmannakàni trở thành một Trưởng lão, ngài cũng xuất gia. Khi ngài học tập, ngài cương quyết đối trị nằm ngủ ban đêm. Trong khi đi qua lại trên con đường kinh hành, ngài quá buồn ngủ nên té xuống. Bậc Ðạo Sư thấy vậy, đi đến đứng truớc ngài và gọi: ‘Này Kàtiyàna!’. Ngài liền đứng dậy, đảnh lễ, và đứng một bên, bị dao động mạnh, rồi Thế Tôn thuyết pháp cho ngài như sau:
 
@@ -329,7 +329,7 @@ Các pháp do duyên sanh,\
 Ðưa đến đại an ổn,\
 Tịch tịnh, cứu cánh thiện.
 
-### **(CCXVIII) Jenta (Thera. 45)**
+### **(CCXVIII) Jenta (Thera. 45)** {#218}
 
 Trong thời đức Phật hiện tại , ngài sanh ra làm con của vị cố vấn tế tự cho vua Kosala và được đặt tên là Jenta. Khi lớn lên, ngài trở thành kiêu mạn với những quyền lợi về sanh, tài sản, địa vị, khinh bỉ những gì đáng phải kính trọng và cứng cỏi trong kiêu hãnh. Một hôm, ngài đến gần bậc Ðạo Sư đang thuyết pháp cho một số đông, nghĩ rằng: ‘Nếu Sa-môn Gotama nói với ta trước, ta sẽ nói, ta không tự ý nói với Sa-môn Gotama!’. Thế Tôn không nói với Jenta, và Jenta vì lòng kiêu mạn cũng không nói. Sau cùng ngài nêu rõ lý do vì sao ngài đến và Thế Tôn nói với ngài như sau:
 
@@ -398,7 +398,7 @@ Từ bỏ, nhổ tận gốc,\
 Ngã mạn được chặt đứt,\
 Mọi loại mạn tận diệt.
 
-### **(CCXIX) Sumana (Thera. 46)**
+### **(CCXIX) Sumana (Thera. 46)** {#219}
 
 Trong thời đức Phật hiện tại, ngài sanh trong gia đình một cư sĩ, làm vị hộ trì cho Tôn giả Anuruddha. Từ trước, con cháu của người cư sĩ này chết trẻ. Khi sắp đẻ đứa con, người cha nghĩ nếu là con trai thời sẽ cho xuất gia với vị Trưởng lão. Sau mười tháng, đẻ được đứa con trai, vị cư sĩ này cho xuất gia khi đứa trẻ lên bảy tuổi. Do căn tánh thuần phục, không bao lâu ngài chứng được sáu thắng trí trong khi đang hầu hạ bậc Truởng lão. Cầm được cái bình để xách nước, Sumana với thần thông, đi đến hồ Anotatta, một con xà vương ác độc, phồng mang ngưỡng đầu lên không cho ngài lấy nước. Rồi Sumana hóa thành con chim Garuda (Kim xí điểu) nhiếp phục con rắn và mang nước bay về vị Trưởng lão. Rồi bậc Ðạo Sư, ngồi tại vườn Jetavana, thấy ngài bay về, liền gọi Sàriputta cùng xem, và tán thán ngài với bốn câu kệ. Sunmana để nêu lên chánh trí của mình cộng thêm những bài kệ của mình như sau:
 
@@ -440,7 +440,7 @@ Chứng đắc, không dao động,\
 Sa-di Sumana,\
 Muốn: ‘Không ai biết ta’.
 
-### **(CCXX) Nhàlaka – Muni (Thera. 46)**
+### **(CCXX) Nhàlaka – Muni (Thera. 46)** {#220}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Ràjagaha (Vương Xá), trong gia tộc Bà-la-môn, được giáo dục trong văn chương Vệ-đà, ngài được biết là vị đã đậu cấp bực Nhàlaka (cấp bực tắm rửa). Trở thành một ẩn sĩ, ngài sống trong một khu rừng cách xa Vương Xá khoảng ba do-tuần, sống với lúa hoang và thờ lửa.
 
@@ -478,7 +478,7 @@ Chúng đứng, rễ chặt đứt,\
 Khổ diệt đã đạt được,\
 Nay không còn tái sanh.
 
-### **(CCXXI) Brahmadatta (Thera. 46)**
+### **(CCXXI) Brahmadatta (Thera. 46)** {#221}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi, con vua nước Kosala, tên là Brahmadatta, ngài chứng kiến uy nghi của đức Phật nhân ngày lễ dâng cúng Jetavana, khởi lòng tin, xuất gia và sau một thời gian chứng sáu thắng trí với lòng tin và hiểu biết về nghĩa, bởi lòng tin và hiểu biết về Pháp.
 
@@ -523,7 +523,7 @@ Hãy gấp nắm với niệm,\
 Như nắm con vật ác,\
 Ði vào trong ruộng lúa.
 
-### **(CCXXII) Sirimanda (Thera. 47)**
+### **(CCXXII) Sirimanda (Thera. 47)** {#222}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sunsumàragira trong một gia đình Bà-la-môn. Khi được nghe Thế Tôn thuyết pháp ở rừng Bhesakalà, ngài khởi lòng tin và xuất gia. Một hôm, nhân ngày lễ trai giới, trong khi giới bổn Pàtimokkhà đang được đọc, đến phần cuối phần giới thiệu nói về một lỗi bị phạm được nhẹ đi nếu phát lộ sám hối, ngài nghĩ đến lợi ích phát lộ sám hối các lỗi đã được giấu đi, và do vậy ngài phấn khởi hoan hỷ nói lớn tiếng: ‘Ôi, thật là hoàn toàn trong sạch, giới luật của bậc Ðạo Sư!’. Rồi phát triển thiền quán, ngài chứng quả A-la-hán. Ôn lại con đường đã trải qua, với tâm phấn khởi, ngài dạy các vị đồng Phạm hạnh:
 
@@ -559,7 +559,7 @@ Hoặc ngồi hay nằm xuống,\
 Ðêm cuối đi đến gần,\
 Ngươi không thời phóng dật.
 
-### **(CCXXIII) Sabbhakàma (Thera. 47)**
+### **(CCXXIII) Sabbhakàma (Thera. 47)** {#223}
 
 Trong thời đức Phật hiện tại, sau khi đức Phật nhập diệt, ngài sanh ở Vesàli, thuộc gia đình quý tộc và được đặt tên là Sabbhakàma. Khi đến tuổi trưởng thành, thuận theo chí hướng xuất ly, ngài xuất gia dưới sự hướng dẫn của Tôn giả Sàriputta (Xá-lợi-phất). Trong khi đi học tập, ngài trở về Vesàli với bậc y chỉ sư của mình và về thăm gia đình. Vợ ngài lúc trước, buồn khổ, gầy mòn, áo xiêm không săn sóc, nước mắt chạy quanh, chào ngài và đứng một bên. Thấy vợ cứ như vậy, lòng thương hại khởi lên, và quên mất chí hướng xuất trần, ngài để cho dục vọng nổi lên. Như con ngựa khéo luyện tập bị roi đánh, ưu não khởi lên và ngài đi đến nghĩa địa để quán bất tịnh. Thiền định được chứng đạt, thiền quán được triển khai, ngài chứng quả A-la-hán. Rồi nhạc phụ của ngài dắt vợ cũ của ngài đến, trang điểm thật đẹp mắt, và với một số tùy tùng đông đảo, đi đến tinh xá để gặp ngài và kéo ngài trở lui với đời sống gia đình; nhưng ngài tuyên bố với mọi người là ngài đã từ bỏ các dục vọng như vậy, với những bài kệ như sau:
 

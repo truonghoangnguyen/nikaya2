@@ -1,6 +1,6 @@
 # Chương 5 – Phẩm Năm Kệ
 
-### **(CXCVIII) Ràjadatta (Thera. 37)**
+### **(CXCVIII) Ràjadatta (Thera. 37)** {#198}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình của những người lữ hành, cha mẹ gọi ngài là Ràjadatta (Vua ban cho), vì rằng sinh được ngài là nhờ cha mẹ cầu nguyện Vesavana, một vị thiên thần hư không. Khi đến tuổi trưởng thành, ngài một lần dẫn năm trăm cỗ xe hàng hóa đến Ràjagaha (Vương Xá); tại đấy ngài tiêu tất cả tiền, tiêu một ngàn đồng cho một kỹ nữ đẹp, đến nỗi ngài hết cả tiền, không có đủ ăn, phải đi lang thang trong đói khổ. Rồi ngài đến tinh xá Trúc Lâm (Veluvana) với các cư sĩ khác, tại đấy bậc Ðạo Sư đang thuyết pháp với một thính chúng rất lớn. Rồi Rajadatta, ngồi ở phía ngoài thính chúng nghe, khởi lòng tin và xuất gia. Thực hành hạnh đầu đà, ngài sống trong một nghĩa địa.
 
@@ -37,7 +37,7 @@ Thấy Pháp nhĩ là vậy,\
 Ba minh chứng đạt được,\
 Lời Phật dạy làm xong.
 
-### **(CXCIX) Subhùta (Thera. 37)**
+### **(CXCIX) Subhùta (Thera. 37)** {#199}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình thường dân ở Magadha, tên là Subhùta, ngài không thể sống trong gia đình, nên bỏ nhà làm nguời du sĩ. Không thấy trong bộ phái của mình cái gì là chân lý và thấy Upatissa, Kolita, Sela sống hạnh phúc hoan hỷ sau khi tu hành, ngài khởi lòng tin giáo lý đức Phật và xin xuất gia. Sau khi lấy được cảm tình các vị giáo thọ sư và truyền pháp sự, ngài vào nhập thất với một đề tài thiền quán. Nhờ phát triển thiền quán, ngài chứng quả A-la-hán.
 
@@ -74,7 +74,7 @@ Có sắc lại không hương,\
 Cũng vậy lời khéo nói\
 Không làm không kết quả.
 
-### **(CC) Girimànanda (Thera. 38)**
+### **(CC) Girimànanda (Thera. 38)** {#200}
 
 Trong thời đức Phật hiện tại, ngài được sanh ở Ràjagaha (Vương Xá) con trai của vị cố vấn nghi lễ cho vua Bimbisàra (Tần-bà-sa-la). Ngài thấy uy lực và uy nghi của đức Phật khi đức Phật dự hội ở Ràjagaha, và xin xuất gia. Trong thời kỳ học tập, ngài sống trong một thời gian tại một ngôi làng rồi trở lui lại thành phố để đảnh lễ Ðức Phật. Vua Bimbisàra nghe tin ngài tới, đến yết kiến ngài và nói ngài hãy ở lại đây, vua xin lo liệu tất cả. Vì vua nhiều việc nên quên đi lời hứa, và ngài phải sống giữa trời. Và thần mưa không mưa sợ làm ngài ướt. Rồi vua Bimbisàra, thấy trời hạn hán nên xây dựng một am thất cho ngài. Và ngài sống trong am thất ấy cố gắng tu hành tinh tấn, quyết tâm nỗ lực, tu tập thiền định, thiền quán, chứng được quả A-la-hán. Rồi hoan hỷ với sự kiện này, ngài nói lên lời chánh trí của ngài trong khi trời bắt đầu đổ mưa.
 
@@ -123,7 +123,7 @@ Tâm tư ly si mê,\
 Thần mưa nếu ngươi muốn,\
 Hãy mưa, hãy mưa đi.
 
-### **(CCI) Sumana (Thera. 38)**
+### **(CCI) Sumana (Thera. 38)** {#201}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình thường dân, ở Kosala, tên là Sumana, ngài lớn lên trong hoàn cảnh may mắn. Anh mẹ ngài trở thành vị A-la-hán, sống ở trong rừng, và khi Sumana đến tuổi trưởng thành, cậu ngài cho ngài xuất gia và trao cho ngài đề tài để thiền quán về phía giới hạnh. Cuối cùng, khi Bốn thiền và Năm thắng trí đã chứng được, vị Trưởng lão chỉ cho ngài phương pháp thiền quán, và nhờ vậy ngài chứng quả A-la-hán. Khi đi đến người cậu của ngài, ngài được hỏi về sự thành công và ngài nói lên chánh trí của ngài như sau:
 
@@ -154,7 +154,7 @@ Từ mẫn ngài hộ trì.\
 Ngài dạy, không vô ích,\
 Tôi đệ tử học ngài.
 
-### **(CCII) Vaddha (Thera. 38)**
+### **(CCII) Vaddha (Thera. 38)** {#202}
 
 Sanh trong đời đức Phật hiện tại, tại thành Dhamkaccha trong một dòng họ thường dân, ngài được đặt tên là Vaddha. Khi lớn lên, mẹ ngài cảm thấy âu lo vì vấn đề tái sanh và chết, giao con lại cho bà con, rồi bà xuất gia giữa các Tỷ-kheo-ni. Sau bà trở thành một vị A-ha-hán. Con bà, cũng xuất gia dưới sự hướng dẫn của Veludanta, học lời dạy đức Phật, trở thành một pháp sư giỏi có tiếng. Một hôm, suy nghĩ đến trách nhiệm của mình, ngài nghĩ: ‘Nay ta sẽ đến thăm mẹ ta một mình và không đắp y ngoài’. Rồi ngài đi đến trú xứ các Tỷ-kheo-ni. Mẹ ngài thấy ngài vậy, chỉ trích ngài sao đi đến trú xứ Tỷ-kheo-ni một mình và không đắp y ngoài. Ngài nhận thấy mình có lỗi, trở về tinh xá, ngồi trong phòng thiền định và chứng quả A-la-hán. Ngài nói lên chánh trí của ngài, nhờ lời chỉ trích của mẹ ngài:
 
@@ -189,7 +189,7 @@ Thân này thân cuối cùng,\
 Ðường sanh tử đứt đoạn,\
 Nay không còn tái sanh.
 
-### **(CCIII) Nadikassapa (Thera. 39)**
+### **(CCIII) Nadikassapa (Thera. 39)** {#203}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình Bà-la-môn ở Magadha (Ma-kiệt-đà), là anh của Kassapa. Ngài thiên hẳn đời sống xuất gia, không ưa thích đời sống gia đình, và ngài trở thành một ẩn sĩ. Với ba trăm đồ chúng, ngài sống một đời sống ẩn sĩ trên bờ sông Neranjarà (Ni-liên-thiền), và do vậy ngài được biết và được gọi là Kassapa ở bên sông (Nadi-Kassapa). Ngài được Thế Tôn giáo hóa cùng với hai anh em, như đã được ghi trong Luật tạng. Sau khi Thế Tôn thuyết kinh Lửa Bốc Cháy, ngài chứng quả A-la-hán. Sau đó, suy tư trên thiền chứng, ngài nói lên chánh trí của mình, bằng cách nhổ lên các sai lầm:
 
@@ -224,7 +224,7 @@ Hữu ái được phá hủy,\
 Ðường sanh tử đoạn tận,\
 Nay không còn tái sanh.
 
-### **(CCIV) Gayà-Kassapa (Thera. 39)**
+### **(CCIV) Gayà-Kassapa (Thera. 39)** {#204}
 
 Trong thời đức Phật hiện tại, ngài sanh trong một gia đình Bà-la-môn, câu chuyện ngài giống như câu chuyện của Nadì-Kassapa, chỉ khác ngài chỉ có hai trăm đệ tử và sống ở Gayà, ngài nói lên chánh trí bằng cách tán thán tẩy sạch các điều ác như sau:
 
@@ -255,7 +255,7 @@ Ta gột sạch mọi ác,\
 Ba minh ta đạt được,\
 Lời Phật dạy làm xong.
 
-### **(CCV) Vakkali (Thera. 39)**
+### **(CCV) Vakkali (Thera. 39)** {#205}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi, trong một dòng họ Bà-la-môn và được gọi tên Vakkali. Khi đến tuổi trưởng thành, và học xong ba tập Vệ-đà, trở thành thuần thục trong những thành tích Bà-la-môn, ngài thấy bậc Ðạo Sư, ngài nhìn không chán thân hình tuyệt vời của đức Phật, và ngài đi theo bậc Ðạo Sư. Khi ngài trở về nhà, ngài nghĩ nếu ở lại nhà, ngài sẽ không có dịp luôn luôn thấy được đức Phật. Do vậy, ngài xuất gia, và từ khi ăn uống và tắm rửa, ngài để toàn thì giờ để chiêm ngưỡng đức Phật. Bậc Ðạo Sư, chờ đợi thiền quán của ngài được chín muồi, nên trong một thời gian dài, đức Phật không nói gì. Một hôm đức Phật hỏi: ‘Này Vakkali, thân bất tịnh này mà Thầy thấy, đối với Thầy như thế nào? Ai thấy Pháp người ấy tức thấy Ta. Vì rằng thấy Pháp tức là thấy Ta, và thấy ta tức là thấy Pháp’. Nghe lời nói đức Phật, ngài không chiêm ngưỡng thân đức Phật nữa, nhưng ngài chưa bỏ đi xa được. Bậc Ðạo Sư nghĩ rằng: ‘Tỷ-kheo này, nếu không được xúc động mạnh, sẽ không thức tỉnh’, nên vào cuối ngày an cư mùa mưa, đức Phật nói: ‘Này Vakkali, hãy đi đi’. Nghe bậc Ðạo Sư nói vậy, ngài tự nghĩ ngài phải đi, nhưng nghĩ rằng đời ngài có ý nghĩa gì, nếu không được gặp bậc Ðạo Sư, nên ngài có ý định leo lên núi Linh Thứu để gieo mình xuống vực núi tự tử. Ðức Phật biết được Vakkali có ý định như vậy, nên sợ ngài phá hoại những điều kiện chứng được thánh quả, nên hiện ra trước mặt ngài và đọc lên bài kệ:
 
@@ -299,7 +299,7 @@ Con sẽ sống trong rừng.
 
 Khi nói vậy, ngài phát triển thiền quán và ngay khi ấy chứng quả A-la-hán.
 
-### **(CCVI) Vigitasena (Thera. 39)**
+### **(CCVI) Vigitasena (Thera. 39)** {#206}
 
 Trong thời đức Phật hiện tại, ngài sanh ra trong một gia đình huấn luyện voi ở nước Kosala, và được đặt tên là Vigitasena. Những người cậu bên ngoại, Sena và Upasena cả hai đã xuất gia và chứng quả A-la-hán. Vigitasena sau khi đã thuần thục nghề của mình, thấy thần thông song hành của bậc Ðạo Sư khởi lòng tin, và theo bản năng tự nhiên, xin xuất gia dưới sự hướng dẫn của các người cậu. Nhờ các người cậu giảng dạy, ngài đạt đến thiền quán, nhưng tâm trí ngài thiên về lý luận chạy theo những vật bên ngoài, nên ngài giảng dạy cho tâm trí ngài như sau:
 
@@ -338,7 +338,7 @@ Ngươi được ta áp lực,\
 Do vậy, hỡi này tâm,\
 Ngươi sẽ không xa ta.
 
-### **(CCVII) Yasadatta (Thera. 40)**
+### **(CCVII) Yasadatta (Thera. 40)** {#207}
 
 Trong thời đức Phật hiện tại, ngài sanh trong dòng họ vua Malla, được đặt tên là Yasadatta, ngài được học ở Takkasilà. Sau khi đi du hành vói du sĩ Sabhiya, cả hai đến Sàvatthi, tại đây hỏi Thế Tôn một số câu hỏi. Yasadatta ngồi nghe những câu trả lời, ý muốn ưa chỉ trích: ‘Ta sẽ nêu lên những khuyết điểm trong những câu trả lời của Sa-môn Gotama’. Thế Tôn hiểu tâm tư của Yasadatta, nên sau khi nói kinh Sabhiya, Thế Tôn giáo huấn Yasadatta như sau:
 
@@ -377,7 +377,7 @@ Chứng ngộ không dao động,\
 Ðạt tịch tịnh tối thượng,\
 Chứng Niết-bàn vô lậu.
 
-### **(CCVIII) Sonakutikanna (Thera. 40)**
+### **(CCVIII) Sonakutikanna (Thera. 40)** {#208}
 
 Trong thời đức Phật hiện tại, ngài sanh ở xứ Avanti, trong một gia đình rất giàu có, và được đặt tên là Sona. Vì đeo một bông tai đắt giá, ngài cũng được gọi là Koti hay Kutikanna (người có lỗ tai đắt giá). Lớn lên, ngài trở thành một điền chủ, và khi Trưởng lão Mahà Kaccàna ở gần bên nhà, ngài cung cấp các vật dụng nhu yếu, nghe Chánh pháp, cuối cùng cảm thấy dao động, xin xuất gia với Trưởng lão Kaccàna. Rủ thêm mười người một cách khó khăn, ngài xin phép vị Trưởng lão đi đến Sàvatthi để yết kiến Thế Tôn. Ðược phép ngủ đêm trong chái phòng đức Phật, và buổi sáng được mời tụng đọc, ngài được khen khi đọc mười sáu Athaka. Khi đọc đến câu: ‘Thấy sự nguy hiểm của một đời thế tục’, ngài phát triển thiền quán và chứng quả A-la-hán.
 
@@ -410,7 +410,7 @@ Tu tập con đường Thánh\
 Ðạt an tịnh tối thượng,\
 Chứng Niết-bàn vô lậu.
 
-### **(CCIX) Kosiya (Thera. 41)**
+### **(CCIX) Kosiya (Thera. 41)** {#209}
 
 Trong thời Ðức Phật hiện tại, ngài sanh trong một gia đình Bà-la-môn ở Magadha và được đặt tên là Sona. Khi đến tuổi trưởng thành, ngài hay đến nghe Trưởng lão Sàriputta thuyết pháp, tin tưởng ở nơi giáo lý, xuất gia và không bao lâu chứng quả A-la-hán. Rồi ôn lại quá trình giải thoát của mình, ngài tán thán đức hạnh và sức mạnh quyết định hành thiện của các bậc Thánh với những bài kệ sau đây:
 

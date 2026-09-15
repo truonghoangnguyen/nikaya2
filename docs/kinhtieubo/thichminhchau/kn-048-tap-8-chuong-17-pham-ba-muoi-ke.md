@@ -1,6 +1,6 @@
 # Chương 17 – Phẩm Ba Mươi Kệ
 
-### **(CCLVIII) Phussa (Thera. 87)**
+### **(CCLVIII) Phussa (Thera. 87)** {#258}
 
 Trong thời đức Phật hiện tại, ngài sanh làm con một vị vua trị vì một tỉnh, được đặt tên là Phussa, và được giáo dục trong mọi tài năng của thanh niên hoàng tộc. Nhưng ngài có tâm hướng khác thường, không thiên về thế tục, nên khi nghe một vị Trưởng lão thuyết pháp, ngài khởi lòng tin và xuất gia. Tu tập thiền định, ngài phát triển thiền quán và sau một thời gian, chứng được sáu thắng trí.
 
@@ -186,7 +186,7 @@ Giác chứng đạo bất tử.
 
 Như vậy vị Trưởng lão nói với Tăng chúng của mình. Các bài kệ này là lời nói chánh trí của ngài.
 
-### **(CCLIX) Sàriputta (Thera. 89)**
+### **(CCLIX) Sàriputta (Thera. 89)** {#259}
 
 Ðời của ngài và đời của Moggallàna gắn liền với nhau. Trong thời đức Phật tại thế, Sàriputta sanh tại thành Upatissa, không xa Vương Xá (Ràjagaha) bao nhiêu, mẹ là Rùpasàri; còn Moggallàna sanh ở thành Kolita, không xa thành Vương Xá (Ràjagaha) bao nhiêu, mẹ là Moggali. Vì cả hai là con của vị gia trưởng nên được đặt tên là Upatissa và Kolita. Cả hai đứa trẻ được nuôi dưỡng trong giàu sang và thiện xảo mọi khả năng.Trong một hội chợ lớn ở Vương Xá (Ràjagaha) vì tâm tư thuần thục, cả hai đều thấy tất cả quần chúng hội một trăm năm sau, sẽ bị thần chết mang đi, nên cả hai lo âu đi tìm con đường giải thoát. Cả hai xuất gia dưới sự chỉ đạo của Sanjaya, hẹn nhau ai chứng quả bất tử trước, sẽ nói cho người kia biết.
 
@@ -418,7 +418,7 @@ Và khi ngài sắp nhận Niết-bàn, ngài giảng dạy các Tỷ-kheo đang
 Ta sẽ nhập Niết-bàn,\
 Ta thoát mọi sanh y.
 
-### **(XXLX) Ananda (Thera. 91)**
+### **(XXLX) Ananda (Thera. 91)** {#260}
 
 Trong thời đức Phật tại thế, ngài sanh trong gia đình Thích-ca Amitedana. Vì các bà con nói ngài sanh đem hoan hỷ cho gia đình, nên được đặt tên là Ananda (Khánh Hỷ). Khi lớn lên, các sự kiện xuất gia, giác ngộ, chuyển Pháp luân được diễn ra, và sau khi Thế Tôn viếng thăm Kapilavatthu, ngài xuất gia với Bhaddiya và các người khác và được Thế Tôn thế độ cho. Sau khi nghe bài thuyết pháp của Punna Mantàni, ngài chứng được Sơ quả.
 

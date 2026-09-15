@@ -1,6 +1,6 @@
 # Phẩm 14 – Tập Ba Mươi Kệ
 
-**(LXXI) Subhà ở Rừng Xoài của Jivaka (Therì. 150)**
+**(LXXI) Subhà ở Rừng Xoài của Jivaka (Therì. 150)** {#71}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Ràjagaha (Vương Xá), trong gia đình một Bà-la-môn nổi tiếng. Nàng được đặt tên là Subhà và thân nàng rất tuyệt đẹp, nhất là về tay chân. Do vậy nàng được gọi là Subhà (người đẹp). Khi bậc Ðạo Sư ở Ràjagaha (Vương Xá), nàng khởi được lòng tin và trở thành một nữ cư sĩ. Về sau, nàng lo nghĩ đến kiếp người, thấy sự nguy hiểm các dục lạc, và thấy được sự an tịnh trong nếp sống viễn ly. Nàng xuất gia với sự hướng dẫn của bà Mahàpajàpati, và phát triển thiền quán, nàng chứng được quả Bất lai.
 

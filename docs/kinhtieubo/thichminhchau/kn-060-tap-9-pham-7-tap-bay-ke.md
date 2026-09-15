@@ -1,6 +1,6 @@
 # Phẩm 7 – Tập Bảy Kệ
 
-**(LVIII) Uttarà (Therì. 140)**
+**(LVIII) Uttarà (Therì. 140)** {#58}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Sàvatthi, trong một gia đình thường dân, tên là Uttarà. Khi đến tuổi trưởng thành, nàng nghe Patàcàrà thuyết pháp, trở thành một tín nữ, xuất gia và trở thành vị A-la-hán. Rồi suy tư trên quả chứng của mình, nàng phấn khởi nói lên bài kệ:
 
@@ -45,7 +45,7 @@ Ta không còn lậu hoặc.
 
 Một hôm nàng tu tập thiền quán dưới sự hướng dẫn của Patàcàrà, ngồi trong phòng của nàng, nàng suy nghĩ: ‘Ta sẽ không ngồi dậy nếu tâm ta không giải thoát khỏi các lậu hoặc’. Quyết định như vậy, nàng triển khai trí tuệ, thiền quán, chứng được quả A-la-hán, với sức mạnh trực giác và triệt quán Chánh pháp. Sau khi tiếp tục quán mười chín đề tài với ý thức ‘không biết ta có làm đủ những điều cần phải làm chăng’, nàng nói lên sự sung sướng của nàng với những bài kệ ghi ở trên và nàng duỗi chân ra. Khi trời rạng đông và đêm đã sáng, nàng tìm gặp vị Tỷ-kheo-ni và lập lại những bài kệ của nàng.
 
-**(LIX) Calà (Therì. 141)**
+**(LIX) Calà (Therì. 141)** {#59}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Magadha, tại làng Nàlaka, con của một nữ Bà-la-môn tên là Surùpasàrì. Khi đến tuổi đặt tên, nàng được gọi là Càlà. Em gái nàng tên là Upacàlà và em nhỏ nhất tên là Sìsùpacàlà và cả ba là em của Tôn giả Sàriputta. Khi ba đứa em nghe người anh xuất gia trở thành vị Tỷ-kheo chúng suy nghĩ: ‘Ðây không phải là một giáo pháp thường tình, một sự xuất gia thường tình, vì một người anh như người anh chúng ta đã quyết tâm tu hành theo; ba nàng cũng xuất gia, dầu gia đình than khóc. Với sự tinh tấn, tinh cần, cả ba tu hành, chứng quả A-la-hán và sống an lạc giải thoát.
 
@@ -92,7 +92,7 @@ Khỏi si ám tan tành!\
 Hãy biết vậy, Ác ma!\
 Người bị hại, Ma vương.
 
-**(LX) Upacàlà (Therì. 141)**
+**(LX) Upacàlà (Therì. 141)** {#60}
 
 Câu chuyện giống như Tỷ-kheo-ni Càlà. Như Càlà, nàng chứng quả A-la-hán, và bị Ác ma cám dỗ nhưng Ác ma đã thất bại:
 

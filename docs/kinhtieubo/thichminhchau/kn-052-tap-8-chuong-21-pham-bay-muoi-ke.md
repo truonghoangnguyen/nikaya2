@@ -6,7 +6,7 @@
 
 ### **Phẩm Bảy Mươi Mốt Kệ (Ðại Tập)**
 
-### **(CCLXIV) Vangìsa (Thera. 109)**
+### **(CCLXIV) Vangìsa (Thera. 109)** {#264}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi, trong một gia đình Bà-la-môn, được đặt tên là Vangìsa và được dạy ba tập Vệ-đà. Ngài được trọng vọng cúng dường, nhờ gõ trên sọ người và biết được kiếp trước của người ấy. Các Bà-la-môn thấy Vangìsa là một nguồn lợi dưỡng nên đem ngài đi chỗ này chỗ khác. Trong ba năm, Vangìsa đoán kiếp trước trên các sọ người được mang đến, và lấy tiền khoảng một trăm, một ngàn, Kahapana (đồng tiền vàng) mỗi đầu người. Ngài nghe danh tiếng của Thế Tôn, muốn đến yết kiến Thế Tôn, nhưng các Bà-la-môn ngăn lại.
 

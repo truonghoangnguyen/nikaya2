@@ -1,6 +1,6 @@
 # Phẩm 13 – Tập Hai Mươi Kệ
 
-**(LXVI) Ambapàlì (Therì. 147)**
+**(LXVI) Ambapàlì (Therì. 147)** {#66}
 
 Trong thời đức Phật hiện tại, nàng được sanh dưới một gốc cây xoài trong vườn vua Vesàli và được gọi là Ambapàli. Nàng rất đẹp nên đến khi lớn lên nhiều vương tôn công tử cạnh tranh để chiếm đoạt nàng. Về sau để tránh những cạnh tranh ấy và cũng do nghiệp lực của nàng, nàng trở thành một kỹ nữ. Vì lòng tin đối với bậc Bổn Sư, nàng xây dựng một tinh xá trong ngôi vườn của nàng và cúng cho đức Phật và chúng Tăng. Khi nàng nghe con nàng, tức là Trưởng lão Vimalakondanna thuyết pháp, nàng triển khai thiền quán về lý vô thường, như thân nàng, chứng Tam minh và nàng nói lên những bài kệ sau đây:
 
@@ -145,7 +145,7 @@ Của bậc nói sự thật.
 
 Và vị trưởng lão Ni, thấy được những hình tướng vô thường trên thân của mình, nhận thức được tánh vô thường của ba giới: Dục giới, Sắc giới và Vô sắc giới, tâm tư quán triệt tánh Vô thường, Khổ, Vô ngã, và phát triển tuệ quán trên con đường tu tập chứng được quả A-la-hán.
 
-**(LXVII) Rohinì (Therì. 150)**
+**(LXVII) Rohinì (Therì. 150)** {#67}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Vesali trong nhà một phú gia Bà-la-môn và được đặt tên là Rohinì (con bò đỏ, nâu). Ðến tuổi trưởng thành, khi đức Phật còn ở Vesali, nàng đến nghe pháp, chứng được quả Dự lưu. Rồi nàng giảng pháp cho cha mẹ, cha mẹ chấp nhận pháp và cho phép nàng xuất gia. Nàng khai triển thiền quán và không bao lâu chứng quả A-la-hán với hiểu biết về nghĩa và về pháp.
 
@@ -264,7 +264,7 @@ Ta tắm rửa thật sạch.
 
 Và vị Bà-la-môn sau khi thọ quy y và các giới, xin xuất gia và chứng quả A-la-hán. Nghĩ đến sự chứng quả của mình, vị này nói lên những câu kệ cuối cùng để tỏ lộ sung sướng của mình.
 
-**(LXVIII) Càpà (Therì. 151)**
+**(LXVIII) Càpà (Therì. 151)** {#68}
 
 Trong thời đức Phật hiện tại, nàng được sanh ở xứ Vankahàra, trong làng những người thợ săn đặt bẫy mồi, con người chủ thợ săn và được đặt tên là Càpà. Trong lúc ấy, Upaka một ẩn sĩ khổ hạnh, gặp đức Bổn Sư khi Ngài đi từ Bồ đề đạo tràng đến Ba-la-nại để chuyển pháp luân và hỏi ngài: ‘Này Ngài, hình như Ngài được dồi dào sức khỏe. Da của Ngài thật trong sáng. Này Ngài, Ngài từ ai xuất gia? Vị Ðạo Sư của Ngài là ai? Hay ngài tin tưởng giáo lý gì?’ Và bậc Ðạo Sư trả lời như sau:
 
@@ -434,7 +434,7 @@ Sống đời không gia đình,\
 Chứng đạt được Ba minh,\
 Làm xong lời Phật dạy.
 
-**(LXIX) Sundàrì (Therì. 153)**
+**(LXIX) Sundàrì (Therì. 153)** {#69}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Benares (Ba-la-nại), con cái của Sujata, một Bà-la-môn. Vì thân nàng đẹp đẽ, nàng được gọi là Sundarì, khi nàng lớn, em trai nàng chết. Cha nàng quá đau khổ đi lang thang và gặp Trưởng lão Ni Vasitthi. Khi Trưởng lão Ni hỏi cha nàng bị đau khổ gì, cha nàng trả lời bằng hai câu kệ đầu. Ðể làm nhẹ bớt đau khổ, Trưởng lão Ni nói hai câu kệ tiếp, và nói lên tâm trạng giải thoát khỏi đau khổ của nàng. Vị Bà-la-môn hỏi làm sao Trưởng lão Ni lại được giải thoát khỏi đau khổ như vậy. Vị Trưởng lão Ni trả lời về Ba ngôi báu và quy y. Khi được biết bậc Ðạo Sư nay ở Mithilà, vị Bà-la-môn đánh xe đến Mithilà, yết kiến đức Phật. Ðức Phật thuyết pháp, vị Bà-la-môn khởi lòng tin, xin xuất gia, vào ngày thứ ba chứng quả A-la-hán, sau khi tinh tấn, tinh cần phát triển thiền quán.
 
@@ -650,7 +650,7 @@ Không hệ lụy trói buộc,\
 Ðã làm việc phải làm,\
 Không còn các lậu hoặc.
 
-**(LXX) Subhà, Con Người Thợ Vàng (Therì. 156)**
+**(LXX) Subhà, Con Người Thợ Vàng (Therì. 156)** {#70}
 
 Trong thời đức Phật hiện tại, nàng sanh ở Ràjagaha (Vương Xá), con gái một người thợ vàng. Vì nàng rất đẹp, nên được gọi là Subhà. Khi nàng đến tuổi trưởng thành, khi đức Phật còn ở tại Ràjagaha, nàng đến yết kiến Ngài, khởi lòng tin tưởng, đảnh lễ ngài rồi ngồi xuống một bên. Bậc Ðạo Sư biết được căn cơ tâm tư thuần thục của nàng, tùy theo ý nguyện của nàng, Ngài thuyết pháp cho nàng về ly Bốn sự thật và nàng chứng được quả Dự lưu. Về sau, nàng nhận thấy sự khó khăn sống trong gia đình, xin xuất gia dưới sự hướng dẫn của bà Mahàpajàpati Gotamì, hướng tâm đến con đường siêu thoát. Thỉnh thoảng, các bà con của nàng mời nàng trở lại với đời, nói lên sự hấp dẫn của đời. Một hôm nàng thuyết pháp cho bà con của nàng, nói lên những nguy hiểm của đời sống cư sĩ, và ở đời thuyết pháp cho họ với hai mươi bốn bài kệ như sau và chữa cho họ thoát khỏi bệnh tham vọng. Rồi nàng phát triển thiền quán, gột sạch các căn cuối cùng nàng chứng được quả A-la-hán. Khi đã chứng quả A-la-hán, nàng nói như sau:
 

@@ -1,5 +1,5 @@
 # MN 67. KINH CĀTUMĀ (Tóm lược)
-[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi//mnc-067-kinh-catuma){class="note-link"}
+[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-067-kinh-catuma){class="note-link"}
 
 **Bối cảnh:** 
 Đức Phật đang lưu trú tại thị trấn Cātumā. Lúc bấy giờ, có khoảng 500 vị tỳ kheo do Tôn giả Sāriputta và Moggallāna dẫn đầu đến thăm Ngài.

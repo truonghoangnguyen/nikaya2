@@ -1,6 +1,6 @@
 # Chương 18 – Phẩm Bốn Mươi Kệ
 
-### **(CCLXI) Mahà-Kassapa (Thera. 94)**
+### **(CCLXI) Mahà-Kassapa (Thera. 94)** {#261}
 
 Bậc Ðạo Sư đã ra đời, đang chuyển pháp luân và ở tại Ràjagaha (Vương Xá), khi ấy tại làng Bà-la-môn Mahàtittha ở Ràjagaha, ngài ra đời tên Pippali-mànava, con bà vợ chính của Bà-la-môn Kapila. Pippali-mànava, không chịu lập gia đình, xin ở nhà để hầu hạ cha mẹ, sau khi cha mẹ chết, sẽ xuất gia. Ðể làm cho bà mẹ bằng lòng, ngài cho làm tượng một thiếu nữ trẻ đẹp, mặc áo đỏ và đeo đồng trang sức, và nói với bà mẹ rằng nếu bà tìm cho được một thiếu nữ như vậy, ngài sẽ chịu lập gia đình. Bà mẹ sai các người Bà-la-môn đem theo tượng ấy và tìm cho được một thiếu nữ giống như vậy. Họ đến Sàgala, đặt tượng trên bờ sông và ngồi xuống xa bức tượng. Người vú của Bhaddà, sau khi tắm cho Bhaddà lại xuống sông tắm cho mình, thấy bức tượng, tưởng là Bhaddà và nói Bhaddà sao lại thiếu giáo dục như vậy, đánh nàng nơi má và biết được đó không phải là Bhaddà mà chỉ là một bức tượng bằng vàng. Các Bà-la-môn được đưa về nhà, được thấy Bhaddà, nhận Bhaddà giống như bức tượng và đưa tin về Kapila. Nhưng cả hai Pippali-mànava và Bhaddà đều không muốn lập gia đình, nên cả hai viết thư cho nhau nói rõ quyết định của mình. Hai người đưa thư gặp nhau giữa đường, đưa thư cho nhau coi, đánh tráo hai bức thư khác, và do vậy đám cưới được cử hành. Nhưng đêm tân hôn, hai người nằm cách nhau với một giấy hoa. Khi cha mẹ mệnh chung, cả hai quyết định cùng nhau xuất gia.
 

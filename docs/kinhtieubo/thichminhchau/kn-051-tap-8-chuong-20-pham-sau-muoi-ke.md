@@ -2,7 +2,7 @@
 
 ### **Phẩm Sáu Mươi Kệ**
 
-### **(CCLXIII) Mahà-Moggallàna (Thera. 104)**
+### **(CCLXIII) Mahà-Moggallàna (Thera. 104)** {#263}
 
 Ðời ngài được kể với đời ngài Sàriputta (CCLIX). Sau khi xuất gia một tuần, ở gần làng Kallavàla tại Magadha, trong khi du hành ngài bị hôn trầm thụy miên và được Thế Tôn dạy: ‘Này Moggallàna, biếng nhác không giống với im lặng của bậc Thánh’. Ngài liền tinh tấn chế ngự sự yếu đuối của mình. Khi chỉ nghe đề tài về các giới do đức Phật giảng dạy, ngài chứng được quả A-la-hán. Một thời, Thế Tôn ở tại Jetavana, xác chứng ngài là bậc thần thông đệ nhất. Các bài kệ của ngài được kiết tập thứ nhất.
 

@@ -1,4 +1,4 @@
-# TẬP 1 – KINH TIỂU TỤNG
+# TẬP 1 – KINH TIỂU TỤNG (kp)
 **Khuddakapàtha**
 
 ### Giới thiệu

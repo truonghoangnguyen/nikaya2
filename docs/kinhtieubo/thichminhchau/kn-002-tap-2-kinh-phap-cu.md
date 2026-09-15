@@ -1,7 +1,7 @@
 ---
 title: Kinh tiểu bộ tập 2 – KINH PHÁP CÚ
 ---
-# DHP. TẬP 2 – KINH PHÁP CÚ
+# DHP. TẬP 2 – KINH PHÁP CÚ (Dhp)
 **Dhammapada**
 
 ### **Giới thiệu:**

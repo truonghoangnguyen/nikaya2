@@ -1,6 +1,6 @@
 # Phẩm 15 – Tập Bốn Mươi Kệ
 
-**(LXXII) Isidàsi (Therì. 162)**
+**(LXXII) Isidàsi (Therì. 162)** {#72}
 
 Trong thời đức Phật hiện tại, nàng được sanh ở Ujjeni, con gái một thương gia có giới đức, được kính trọng, và giàu có và đặt tên là Isidàsi. Khi nàng đến tuổi trưởng thành, cha nàng gả nàng cho con trai một người thương gia, xứng đôi vừa lứa. Trong một tháng, nàng sống với chồng như một người vợ trung thành. Nhưng vì nghiệp đời trước của nàng, chồng nàng trở thành lạnh nhạt đối với nàng và đuổi nàng ra khỏi nhà. Mọi sự việc này được ghi rõ trong nguyên bản Pàli. Vì nàng tự tỏ không xứng đáng đối với người chồng này và chồng khác, nàng trở thành dao động, và được cha cho phép, nàng xuất gia với sự hướng dẫn của Trưởng lão Ni Jinadattà. Sau khi tu học thiền quán, không bao lâu nàng chứng quả A-la-hán với sự hiểu biết về pháp và về nghĩa.
 

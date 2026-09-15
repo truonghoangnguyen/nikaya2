@@ -1,6 +1,6 @@
 # Phẩm 3 – Tập Ba Kệ
 
-**(XXIX) Một Sàmà Khác (Therì. 127)**
+**(XXIX) Một Sàmà Khác (Therì. 127)** {#29}
 
 Trong thời đức Phật hiện tại, nàng được sanh trong một gia đình quý tộc ở Kosambi, nàng cũng trở thành người bạn của Sàmàvati, khi Sàmàvati chết đi, vì quá đau khổ, nàng xuất gia. Trong hai mươi lăm năm nàng không nhiếp phục được tâm nàng, cho đến khi trở về già, nàng nghe được một bài thuyết pháp, tu tập thiền quán, chứng quả A-la-hán với nghĩa tín thọ, pháp tín thọ. Suy tư đến quả chứng này, nàng nói lên bài kệ:
 
@@ -21,7 +21,7 @@ Thành tựu lời Phật dạy\
 Hôm nay đêm mồng bảy,\
 Khái ái được khô cạn.
 
-**(XXX) Uttama (Therì. 128)**
+**(XXX) Uttama (Therì. 128)** {#30}
 
 Sau nhiều đời làm việc lành, nàng được sanh trong nhà một triệu phú ở Sàvatthi, trong thời đức Phật hiện tại. Khi nàng lớn tuổi, nàng nghe Patàcàrà thuyết pháp và xin xuất gia. Nhưng nàng chưa chứng được quả vị thiền quán. Patàcàrà biết được tâm trạng của nàng, nên thuyết giảng cho nàng và nhờ vậy nàng chứng quả A-la-hán với nghĩa tín thọ, pháp tín thọ. Suy tư trên quả chứng, nàng nói lên sự sung sướng của nàng.
 
@@ -44,7 +44,7 @@ Phá tan khối si ám.
 
 Bài kệ trở thành lời tuyên bố về chánh trí của nàng.
 
-**(XXXI) Một Uttarà Khác**
+**(XXXI) Một Uttarà Khác** {#31}
 
 Trong thời đức Phật hiện tại, nàng được sanh vào gia đình Bà-la-môn có danh tiếng ở Kosala. Ðến tuổi trưởng thành khi đang đi ở làng quê, nàng nghe bậc Ðạo Sư thuyết pháp, nàng xuất gia, chứng được quả A-la-hán với pháp tín thọ, nghĩa tín thọ. Suy tư trên quả chứng, nàng nói lên bài kệ:
 
@@ -65,7 +65,7 @@ Dục trời và dục người,\
 Vòng sanh hữu đoạn tận,\
 Nay không còn tái sanh.
 
-**(XXXII) Dantikà**
+**(XXXII) Dantikà** {#32}
 
 Trong đời đức Phật hiện tại, nàng được sanh ở Sàvatthi trong gia đình vị giáo sĩ nhà vua. Khi đến tuổi trưởng thành, nàng trở thành tín nữ ở Jetavana (Kỳ Viên) và về sau xuất gia, dưới sự chỉ đạo của Mahàpajàpati. Một thời khi đang ở Ràjagaha (Vương Xá), nàng leo lên núi Linh Thứu; và sau buổi ăn, khi đang còn ngồi nghỉ, nàng thấy một người nài điều khiển một con voi; và nhờ vậy nàng chứng quả A-la-hán; với pháp tín thọ, nghĩa tín thọ. Về sau, vô cùng hân hoan với quả chứng của mình, nàng nói lên bài kệ như sau:
 
@@ -88,7 +88,7 @@ Theo quyền lực của người.\
 Như vậy, ta định tâm,\
 Ði vào trong rừng ấy.
 
-**(XXXIII) Ubirì**
+**(XXXIII) Ubirì** {#33}
 
 Trong thời đức Phật hiện tại, nàng được sanh ở Sàvatthi, trong một gia đình khá giả quyền quí. Nàng rất đẹp và sanh được người con gái rất đẹp, đặt tên là Jivà. Vua thấy đứa con gái rất lấy làm hài lòng và đưa nàng lên làm hoàng hậu. Nhưng rồi đứa con gái Jivà bị chết, và bà mẹ ngày nào cũng đi đến nghĩa địa để than khóc. Một hôm nàng đi đến yết kiến bậc Ðạo Sư, nhưng rồi nàng đi ra bên sông Aciravàti và đứng than khóc. Bậc Ðạo Sư thấy vậy liền đến với nàng và hỏi:
 
@@ -131,7 +131,7 @@ Bậc Mâu-ni ẩn sĩ,\
 Quy y Ba ngôi báu\
 Phật, Pháp và chúng Tăng.
 
-**(XXXIV) Sukkà (Therì. 129)**
+**(XXXIV) Sukkà (Therì. 129)** {#34}
 
 Trong thời đức Phật hiện tại, nàng được sanh vào một gia đình quyền quí ở Ràjagaha (Vương Xá) và được đặt tên là Sukkà (Sáng Suốt). Khi đến tuổi trưởng thành, nàng phát tâm tin Phật ở trong gia đình của nàng và trở thành một tín nữ. Về sau nàng được nghe Dhammadinnà thuyết pháp và quá cảm xúc bởi bài thuyết pháp, nàng xuất gia với Dhammadinnà. Sau khi tu thiền quán, nàng chứng được quả A-la-hán với pháp tín thọ, nghĩa tín thọ.
 
@@ -160,7 +160,7 @@ Nhờ ánh sáng Chánh pháp,\
 Hãy mang thân cuối cùng,\
 Sau khi thấy ma quân.
 
-**(XXXV) Sielà**
+**(XXXV) Sielà** {#35}
 
 Trong thời đức Phật hiện tại, nàng được sanh làm công chúa con vua nước Alavì, tên là Sielà. Nàng cũng được biết với tên là Alavika (người nước Alavì). Khi đến tuổi trưởng thành, bậc Ðạo Sư cảm hóa được vua cha, làm lễ xuất gia cho vua và cùng đi đến Alavì. Sielà chưa lập gia đình, cùng đi với phụ vương nghe thuyết pháp và trở thành một tín nữ. Về sau nàng xuất gia, chuyên tu thiền quán và cuối cùng nhờ thiện duyên tốt đẹp, nhờ trí tuệ được triển khai, nàng nhiếp phục được thân hành, khẩu hành, ý hành và chứng được quả A-la-hán.
 
@@ -191,7 +191,7 @@ Ngươi hãy biết như vậy,\
 Ngươi chính là Ác ma\
 Ngươi đã bị bại trận.
 
-**(XXXVI) Somà (Therì. 129)**
+**(XXXVI) Somà (Therì. 129)** {#36}
 
 Trong thời đức Phật hiện tại, nàng sinh ra là con gái vị giáo sĩ của vua Bimbisàra. (Bình Sa Vương) và được đặt tên là Somà. Khi đến tuổi trưởng thành, nàng trở thành một tín nữ, và về sau nàng xuất gia và nhờ triển khai thiền quán, nàng chứng được quả A-la-hán với nghĩa tín thọ, pháp tín thọ.
 

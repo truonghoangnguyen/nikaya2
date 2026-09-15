@@ -1,6 +1,6 @@
 # Phẩm 10 – Tập Mười Kệ
 
-**(LXIII) Kisà Gotamì (Therì. 143)**
+**(LXIII) Kisà Gotamì (Therì. 143)** {#63}
 
 Trong thời đức Phật hiện tại, nàng được sanh ở Sàvatthi, trong một gia đình nghèo khổ, tên là Gota mì, vì nàng yếu đuối nên được gọi là Kisà Gotamì (Gotamì ốm yếu). Khi lập gia đình, nàng bị khinh thường và được gọi là con gái một người không có gì. Nhưng khi nàng có con, nàng được kính trọng. Khi người con lớn lên và có thể chạy được, nó chết, và nàng cảm thấy đau khổ, và nhớ đến sự đối xử với mình được thay đổi khi đẻ đứa con, nàng nghĩ: ‘Chúng sẽ giữ lấy con ta và đem bỏ vào nghĩa địa’. Nàng ôm đứa con chết vào lòng và đi vào từng nhà xin: ‘Hãy cho con tôi thuốc’. Và được trả lời: ‘Nay thuốc còn gì dùng nữa’. Nhưng nàng không hiểu. Có người thương xót khuyên nàng đến đức Phật để xin thuốc, Nàng đi đến tinh xá và xin đức Phật: ‘Hãy cho con tôi thuốc’. Bậc Ðạo Sư thấy được hy vọng tu chứng nơi nàng bèn nói: ‘Hãy đi đến nhà nào không có người chết, và đem lại một hột cải!’ Nàng vâng lời, đi vào nhà đầu tiên và yêu cầu như vậy, nhưng bị từ chối, vì trong nhà có người chết. Nàng đi vào nhiều nhà khác, được trả lời như vậy và nàng nghĩ: ‘Ðây có thể là bậc Ðạo Sư dạy khéo cho ta’, nên nàng đem dặt con nàng ở nghĩa địa và nói:
 

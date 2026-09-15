@@ -76,7 +76,7 @@ Mọi kiết sử diệt tận.
 Ta sẽ nhập Niết-bàn,\
 Ta thoát mọi sanh y.
 
-### **(CCXLV) Godatta (Thera. 67)**
+### **(CCXLV) Godatta (Thera. 67)** {#245}
 
 Trong thời đức Phật hiện tại, ngài sanh ở Sàvatthi, trong một gia đình lữ hành và đặt tên là Godatta. Sau khi cha chết, ngài sắp đặt nhà cửa, đem theo năm trăm cỗ xe hàng hóa, đi chỗ này chỗ khác, sống bằng nghề buôn bán. Một hôm, một con bò ngã qụy xuống đường, trong khi kéo xe, và các người làm công của ngài không thể đỡ con bò đứng dậy được, ngài tự đi đến đánh con bò rất nặng. Con bò tức giận vì sự tàn bạo của ngài nói lên giọng người: ‘Này Godatta, đã lâu ta đem tất cả sức lực ta kéo gánh nặng cho ông, nhưng nay ta không đủ sức kéo nên phải ngã quỵ xuống, ông đánh đập ta tàn nhẫn. Vậy chỗ nào ông tái sanh, ta cũng sẽ sanh làm kẻ thù của ông để làm hại ông!’. Ngài nghe vậy rất lấy làm xúc động, tự nghĩ: ‘Sao lại sống làm hại các loài hữu tình như vậy?’ Rồi ngài từ bỏ tất cả tài sản, xin xuất gia với một vị Trưởng lão, và sau một thời gian chứng quả A-la-hán.
 
