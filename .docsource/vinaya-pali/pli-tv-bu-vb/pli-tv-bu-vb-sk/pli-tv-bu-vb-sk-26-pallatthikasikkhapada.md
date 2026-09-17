@@ -4,12 +4,12 @@
 
 # 26. Pallatthikasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pallatthikāya antaraghare nisīdanti …pe….
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pallatthikāya antaraghare nisīdanti …pe….
 
-“Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā”ti.
+1.3\. “Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā”ti.
 
-Na pallatthikāya antaraghare nisīditabbaṁ. Yo anādariyaṁ paṭicca hatthapallatthikāya vā dussapallatthikāya vā antaraghare nisīdati, āpatti dukkaṭassa.
+1.4\. Na pallatthikāya antaraghare nisīditabbaṁ. Yo anādariyaṁ paṭicca hatthapallatthikāya vā dussapallatthikāya vā antaraghare nisīdati, āpatti dukkaṭassa.
 
-Anāpatti— asañcicca, assatiyā, ajānantassa, gilānassa, vāsūpagatassa, āpadāsu, ummattakassa, ādikammikassāti.
+1.6\. Anāpatti— asañcicca, assatiyā, ajānantassa, gilānassa, vāsūpagatassa, āpadāsu, ummattakassa, ādikammikassāti.
 
-Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.
+1.15\. Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.

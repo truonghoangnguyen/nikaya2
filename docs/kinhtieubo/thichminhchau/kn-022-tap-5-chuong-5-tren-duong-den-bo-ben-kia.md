@@ -1,3 +1,5 @@
+*KINH TẬP Suttanipāta*
+
 # Chương Năm – Trên Ðường Ðến Bờ Bên Kia
 
 ### **(I) Bài kệ mở đầu (Sn 190)**

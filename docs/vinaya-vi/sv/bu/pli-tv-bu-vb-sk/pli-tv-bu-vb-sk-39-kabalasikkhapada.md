@@ -4,12 +4,12 @@
 
 # 39. Kabaḷasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū mahantaṁ kabaḷaṁ karonti …pe…
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū mahantaṁ kabaḷaṁ karonti …pe…
 
-“Nātimahantaṁ kabaḷaṁ karissāmīti sikkhā karaṇīyā”ti.
+1.3\. “Nātimahantaṁ kabaḷaṁ karissāmīti sikkhā karaṇīyā”ti.
 
-Nātimahanto kabaḷo kātabbo. Yo anādariyaṁ paṭicca mahantaṁ kabaḷaṁ karoti, āpatti dukkaṭassa.
+1.4\. Nātimahanto kabaḷo kātabbo. Yo anādariyaṁ paṭicca mahantaṁ kabaḷaṁ karoti, āpatti dukkaṭassa.
 
-Anāpatti— asañcicca, assatiyā, ajānantassa, gilānassa, khajjake, phalāphale, uttaribhaṅge, āpadāsu, ummattakassa, ādikammikassāti.
+1.6\. Anāpatti— asañcicca, assatiyā, ajānantassa, gilānassa, khajjake, phalāphale, uttaribhaṅge, āpadāsu, ummattakassa, ādikammikassāti.
 
-Navamasikkhāpadaṁ niṭṭhitaṁ.
+1.17\. Navamasikkhāpadaṁ niṭṭhitaṁ.

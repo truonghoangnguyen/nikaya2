@@ -4,17 +4,17 @@
 
 # 88. Tūlonaddhasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū mañcampi pīṭhampi tūlonaddhaṁ kārāpenti. Manussā vihāracārikaṁ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā mañcampi pīṭhampi tūlonaddhaṁ kārāpessanti, seyyathāpi gihī kāmabhogino”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū mañcampi pīṭhampi tūlonaddhaṁ kārāpenti. Manussā vihāracārikaṁ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā mañcampi pīṭhampi tūlonaddhaṁ kārāpessanti, seyyathāpi gihī kāmabhogino”ti.
 
-Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū mañcampi pīṭhampi tūlonaddhaṁ kārāpessantī”ti …pe… “saccaṁ kira tumhe, bhikkhave, mañcampi pīṭhampi tūlonaddhaṁ kārāpethā”ti?
+1.5\. Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū mañcampi pīṭhampi tūlonaddhaṁ kārāpessantī”ti …pe… “saccaṁ kira tumhe, bhikkhave, mañcampi pīṭhampi tūlonaddhaṁ kārāpethā”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, mañcampi pīṭhampi tūlonaddhaṁ kārāpessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, mañcampi pīṭhampi tūlonaddhaṁ kārāpessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu mañcaṁ vā pīṭhaṁ vā tūlonaddhaṁ kārāpeyya, uddālanakaṁ pācittiyan”ti.
+1.14\. “Yo pana bhikkhu mañcaṁ vā pīṭhaṁ vā tūlonaddhaṁ kārāpeyya, uddālanakaṁ pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -42,6 +42,6 @@ Attanā vippakataṁ attanā pariyosāpeti, āpatti pācittiyassa. Attanā vippa
 
 Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa. Aññena kataṁ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa.
 
-Anāpatti— āyoge, kāyabandhane, aṁsabaddhake, pattatthavikāya, parissāvane, bibbohanaṁ karoti, aññena kataṁ paṭilabhitvā uddāletvā paribhuñjati, ummattakassa, ādikammikassāti.
+2.2\. Anāpatti— āyoge, kāyabandhane, aṁsabaddhake, pattatthavikāya, parissāvane, bibbohanaṁ karoti, aññena kataṁ paṭilabhitvā uddāletvā paribhuñjati, ummattakassa, ādikammikassāti.
 
 Tūlonaddhasikkhāpadaṁ niṭṭhitaṁ chaṭṭhaṁ.

@@ -4,17 +4,17 @@
 
 # 92. Nandasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā nando bhagavato mātucchāputto abhirūpo hoti dassanīyo pāsādiko caturaṅgulomako bhagavatā. So sugatacīvarappamāṇaṁ cīvaraṁ dhāreti. Addasaṁsu kho therā bhikkhū āyasmantaṁ nandaṁ dūratova āgacchantaṁ. Disvāna— “bhagavā āgacchatī”ti āsanā vuṭṭhahanti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā nando bhagavato mātucchāputto abhirūpo hoti dassanīyo pāsādiko caturaṅgulomako bhagavatā. So sugatacīvarappamāṇaṁ cīvaraṁ dhāreti. Addasaṁsu kho therā bhikkhū āyasmantaṁ nandaṁ dūratova āgacchantaṁ. Disvāna— “bhagavā āgacchatī”ti āsanā vuṭṭhahanti.
 
-Te upagate jānitvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā nando sugatacīvarappamāṇaṁ cīvaraṁ dhāressatī”ti …pe… “saccaṁ kira tvaṁ, nanda, sugatacīvarappamāṇaṁ cīvaraṁ dhāresī”ti?
+1.7\. Te upagate jānitvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā nando sugatacīvarappamāṇaṁ cīvaraṁ dhāressatī”ti …pe… “saccaṁ kira tvaṁ, nanda, sugatacīvarappamāṇaṁ cīvaraṁ dhāresī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.10\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, nanda, sugatacīvarappamāṇaṁ cīvaraṁ dhāressasi. Netaṁ, nanda, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.11\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, nanda, sugatacīvarappamāṇaṁ cīvaraṁ dhāressasi. Netaṁ, nanda, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu sugatacīvarappamāṇaṁ cīvaraṁ kārāpeyya atirekaṁ vā, chedanakaṁ pācittiyaṁ. Tatridaṁ sugatassa sugatacīvarappamāṇaṁ—dīghaso nava vidatthiyo, sugatavidatthiyā; tiriyaṁ cha vidatthiyo. Idaṁ sugatassa sugatacīvarappamāṇan”ti.
+1.15\. “Yo pana bhikkhu sugatacīvarappamāṇaṁ cīvaraṁ kārāpeyya atirekaṁ vā, chedanakaṁ pācittiyaṁ. Tatridaṁ sugatassa sugatacīvarappamāṇaṁ—dīghaso nava vidatthiyo, sugatavidatthiyā; tiriyaṁ cha vidatthiyo. Idaṁ sugatassa sugatacīvarappamāṇan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -34,7 +34,7 @@ Attanā vippakataṁ attanā pariyosāpeti, āpatti pācittiyassa. Attanā vippa
 
 Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa. Aññena kataṁ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa.
 
-Anāpatti— ūnakaṁ karoti, aññena kataṁ paṭilabhitvā chinditvā paribhuñjati, vitānaṁ vā bhūmattharaṇaṁ vā sāṇipākāraṁ vā bhisiṁ vā bibbohanaṁ vā karoti, ummattakassa, ādikammikassāti.
+2.2\. Anāpatti— ūnakaṁ karoti, aññena kataṁ paṭilabhitvā chinditvā paribhuñjati, vitānaṁ vā bhūmattharaṇaṁ vā sāṇipākāraṁ vā bhisiṁ vā bibbohanaṁ vā karoti, ummattakassa, ādikammikassāti.
 
 Nandasikkhāpadaṁ niṭṭhitaṁ dasamaṁ.
 

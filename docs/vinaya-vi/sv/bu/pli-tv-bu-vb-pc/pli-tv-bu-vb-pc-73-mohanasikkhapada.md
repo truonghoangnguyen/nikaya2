@@ -4,17 +4,17 @@
 
 # 73. Mohanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū anācāraṁ ācaritvā “aññāṇakena āpannāti jānantū”ti pātimokkhe uddissamāne evaṁ vadanti— “idāneva kho mayaṁ jānāma, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū anācāraṁ ācaritvā “aññāṇakena āpannāti jānantū”ti pātimokkhe uddissamāne evaṁ vadanti— “idāneva kho mayaṁ jānāma, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī”ti.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū pātimokkhe uddissamāne evaṁ vakkhanti— ‘idāneva kho mayaṁ jānāma, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī’”ti …pe… “saccaṁ kira tumhe, bhikkhave, pātimokkhe uddissamāne evaṁ vadetha— ‘idāneva kho mayaṁ jānāma, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī’”ti?
+1.4\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū pātimokkhe uddissamāne evaṁ vakkhanti— ‘idāneva kho mayaṁ jānāma, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī’”ti …pe… “saccaṁ kira tumhe, bhikkhave, pātimokkhe uddissamāne evaṁ vadetha— ‘idāneva kho mayaṁ jānāma, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī’”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, pātimokkhe uddissamāne evaṁ vakkhatha— ‘idāneva kho mayaṁ jānāma, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī’ti. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, pātimokkhe uddissamāne evaṁ vakkhatha— ‘idāneva kho mayaṁ jānāma, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī’ti. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu anvaddhamāsaṁ pātimokkhe uddissamāne evaṁ vadeyya— ‘idāneva kho ahaṁ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī’ti. Tañce bhikkhuṁ aññe bhikkhū jāneyyuṁ nisinnapubbaṁ iminā bhikkhunā dvattikkhattuṁ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṁ āpanno tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo— ‘tassa te, āvuso, alābhā, tassa te dulladdhaṁ, yaṁ tvaṁ pātimokkhe uddissamāne na sādhukaṁ aṭṭhiṁ katvā manasi karosī’ti. Idaṁ tasmiṁ mohanake pācittiyan”ti.
+1.15\. “Yo pana bhikkhu anvaddhamāsaṁ pātimokkhe uddissamāne evaṁ vadeyya— ‘idāneva kho ahaṁ jānāmi, ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī’ti. Tañce bhikkhuṁ aññe bhikkhū jāneyyuṁ nisinnapubbaṁ iminā bhikkhunā dvattikkhattuṁ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassa bhikkhuno aññāṇakena mutti atthi, yañca tattha āpattiṁ āpanno tañca yathādhammo kāretabbo, uttari cassa moho āropetabbo— ‘tassa te, āvuso, alābhā, tassa te dulladdhaṁ, yaṁ tvaṁ pātimokkhe uddissamāne na sādhukaṁ aṭṭhiṁ katvā manasi karosī’ti. Idaṁ tasmiṁ mohanake pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -46,10 +46,10 @@ Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu pātimokkhe uddissam�
 
 Anāropite mohe moheti, āpatti dukkaṭassa. Āropite mohe moheti, āpatti pācittiyassa.
 
-Dhammakamme dhammakammasaññī moheti, āpatti pācittiyassa. Dhammakamme vematiko moheti, āpatti pācittiyassa. Dhammakamme adhammakammasaññī moheti, āpatti pācittiyassa.
+2.2\. Dhammakamme dhammakammasaññī moheti, āpatti pācittiyassa. Dhammakamme vematiko moheti, āpatti pācittiyassa. Dhammakamme adhammakammasaññī moheti, āpatti pācittiyassa.
 
 Adhammakamme dhammakammasaññī, āpatti dukkaṭassa. Adhammakamme vematiko, āpatti dukkaṭassa. Adhammakamme adhammakammasaññī, āpatti dukkaṭassa.
 
-Anāpatti— na vitthārena sutaṁ hoti, ūnakadvattikkhattuṁ vitthārena sutaṁ hoti, na mohetukāmassa, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— na vitthārena sutaṁ hoti, ūnakadvattikkhattuṁ vitthārena sutaṁ hoti, na mohetukāmassa, ummattakassa, ādikammikassāti.
 
 Mohanasikkhāpadaṁ niṭṭhitaṁ tatiyaṁ.

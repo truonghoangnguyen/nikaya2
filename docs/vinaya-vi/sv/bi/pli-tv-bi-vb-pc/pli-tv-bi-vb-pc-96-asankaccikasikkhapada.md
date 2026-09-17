@@ -4,17 +4,17 @@
 
 # 96. Asaṅkaccikasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññatarā bhikkhunī asaṅkaccikā gāmaṁ piṇḍāya pāvisi. Tassā rathikāya vātamaṇḍalikā saṅghāṭiyo ukkhipiṁsu. Manussā ukkuṭṭhiṁ akaṁsu— “sundarā ayyāya thanudarā”ti. Sā bhikkhunī tehi manussehi uppaṇḍiyamānā maṅku ahosi.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññatarā bhikkhunī asaṅkaccikā gāmaṁ piṇḍāya pāvisi. Tassā rathikāya vātamaṇḍalikā saṅghāṭiyo ukkhipiṁsu. Manussā ukkuṭṭhiṁ akaṁsu— “sundarā ayyāya thanudarā”ti. Sā bhikkhunī tehi manussehi uppaṇḍiyamānā maṅku ahosi.
 
-Atha kho sā bhikkhunī upassayaṁ gantvā bhikkhunīnaṁ etamatthaṁ ārocesi. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhunī asaṅkaccikā gāmaṁ pavisissatī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhunī asaṅkaccikā gāmaṁ pāvisī”ti?
+1.7\. Atha kho sā bhikkhunī upassayaṁ gantvā bhikkhunīnaṁ etamatthaṁ ārocesi. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhunī asaṅkaccikā gāmaṁ pavisissatī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhunī asaṅkaccikā gāmaṁ pāvisī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.11\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhunī asaṅkaccikā gāmaṁ pavisissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.12\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhunī asaṅkaccikā gāmaṁ pavisissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī asaṅkaccikā gāmaṁ paviseyya, pācittiyan”ti.
+1.16\. “Yā pana bhikkhunī asaṅkaccikā gāmaṁ paviseyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -34,7 +34,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhunī asaṅk
 
 > parikkhittassa gāmassa parikkhepaṁ atikkāmentiyā āpatti pācittiyassa. Aparikkhittassa gāmassa upacāraṁ okkamantiyā āpatti pācittiyassa.
 
-Anāpatti— acchinnacīvarikāya, naṭṭhacīvarikāya, gilānāya, assatiyā, ajānantiyā, āpadāsu, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— acchinnacīvarikāya, naṭṭhacīvarikāya, gilānāya, assatiyā, ajānantiyā, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Terasamasikkhāpadaṁ niṭṭhitaṁ.
 

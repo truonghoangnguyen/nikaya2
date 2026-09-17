@@ -4,17 +4,17 @@
 
 # 37. Antoraṭṭhasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ caranti. Dhuttā dūsenti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ caranti. Dhuttā dūsenti.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ carissantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ carantī”ti?
+1.4\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ carissantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ carantī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.7\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ carissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.8\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ carissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ careyya, pācittiyan”ti.
+1.12\. “Yā pana bhikkhunī antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ careyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -42,6 +42,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo antora
 
 > kukkuṭasampāte gāme gāmantare gāmantare āpatti pācittiyassa. Agāmake araññe addhayojane addhayojane āpatti pācittiyassa.
 
-Anāpatti— satthena saha gacchati, kheme appaṭibhaye gacchati, āpadāsu, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— satthena saha gacchati, kheme appaṭibhaye gacchati, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Sattamasikkhāpadaṁ niṭṭhitaṁ.

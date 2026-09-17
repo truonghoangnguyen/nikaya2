@@ -4,7 +4,7 @@
 
 # 47. Mahānāmasikkhāpada
 
-1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Tena kho pana samayena mahānāmassa sakkassa bhesajjaṁ ussannaṁ hoti. Atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mahānāmo sakko bhagavantaṁ etadavoca— “icchāmahaṁ, bhante, saṅghaṁ catumāsaṁ bhesajjena pavāretun”ti.
+1.1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Tena kho pana samayena mahānāmassa sakkassa bhesajjaṁ ussannaṁ hoti. Atha kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mahānāmo sakko bhagavantaṁ etadavoca— “icchāmahaṁ, bhante, saṅghaṁ catumāsaṁ bhesajjena pavāretun”ti.
 
 “Sādhu sādhu, mahānāma. Tena hi tvaṁ, mahānāma, saṅghaṁ catumāsaṁ bhesajjena pavārehī”ti.
 
@@ -12,7 +12,7 @@ Bhikkhū kukkuccāyantā nādhivāsenti. Bhagavato etamatthaṁ ārocesuṁ …p
 
 anujānāmi, bhikkhave, catumāsaṁ bhesajjappaccayapavāraṇaṁ sāditun”ti.
 
-Tena kho pana samayena bhikkhū mahānāmaṁ sakkaṁ parittaṁ bhesajjaṁ viññāpenti. Tatheva mahānāmassa sakkassa bhesajjaṁ ussannaṁ hoti. Dutiyampi kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mahānāmo sakko bhagavantaṁ etadavoca— “icchāmahaṁ, bhante, saṅghaṁ aparampi catumāsaṁ bhesajjena pavāretun”ti.
+1.2\. Tena kho pana samayena bhikkhū mahānāmaṁ sakkaṁ parittaṁ bhesajjaṁ viññāpenti. Tatheva mahānāmassa sakkassa bhesajjaṁ ussannaṁ hoti. Dutiyampi kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mahānāmo sakko bhagavantaṁ etadavoca— “icchāmahaṁ, bhante, saṅghaṁ aparampi catumāsaṁ bhesajjena pavāretun”ti.
 
 “Sādhu sādhu, mahānāma. Tena hi tvaṁ, mahānāma, saṅghaṁ aparampi catumāsaṁ bhesajjena pavārehī”ti.
 
@@ -20,7 +20,7 @@ Bhikkhū kukkuccāyantā nādhivāsenti. Bhagavato etamatthaṁ ārocesuṁ …p
 
 anujānāmi, bhikkhave, puna pavāraṇampi sāditun”ti.
 
-Tena kho pana samayena bhikkhū mahānāmaṁ sakkaṁ parittaṁyeva bhesajjaṁ viññāpenti. Tatheva mahānāmassa sakkassa bhesajjaṁ ussannaṁ hoti. Tatiyampi kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mahānāmo sakko bhagavantaṁ etadavoca— “icchāmahaṁ, bhante, saṅghaṁ yāvajīvaṁ bhesajjena pavāretun”ti.
+1.3\. Tena kho pana samayena bhikkhū mahānāmaṁ sakkaṁ parittaṁyeva bhesajjaṁ viññāpenti. Tatheva mahānāmassa sakkassa bhesajjaṁ ussannaṁ hoti. Tatiyampi kho mahānāmo sakko yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho mahānāmo sakko bhagavantaṁ etadavoca— “icchāmahaṁ, bhante, saṅghaṁ yāvajīvaṁ bhesajjena pavāretun”ti.
 
 “Sādhu sādhu, mahānāma. Tena hi tvaṁ, mahānāma, saṅghaṁ yāvajīvaṁ bhesajjena pavārehī”ti.
 
@@ -28,7 +28,7 @@ Bhikkhū kukkuccāyantā nādhivāsenti. Bhagavato etamatthaṁ ārocesuṁ …p
 
 anujānāmi, bhikkhave, niccapavāraṇampi sāditun”ti.
 
-Tena kho pana samayena chabbaggiyā bhikkhū dunnivatthā honti duppārutā anākappasampannā. Mahānāmo sakko vattā hoti—“kissa tumhe, bhante, dunnivatthā duppārutā anākappasampannā? Nanu nāma pabbajitena sunivatthena bhavitabbaṁ supārutena ākappasampannenā”ti?
+1.4\. Tena kho pana samayena chabbaggiyā bhikkhū dunnivatthā honti duppārutā anākappasampannā. Mahānāmo sakko vattā hoti—“kissa tumhe, bhante, dunnivatthā duppārutā anākappasampannā? Nanu nāma pabbajitena sunivatthena bhavitabbaṁ supārutena ākappasampannenā”ti?
 
 Chabbaggiyā bhikkhū mahānāme sakke upanandhiṁsu. Atha kho chabbaggiyānaṁ bhikkhūnaṁ etadahosi—“kena nu kho mayaṁ upāyena mahānāmaṁ sakkaṁ maṅkuṁ kareyyāmā”ti? Atha kho chabbaggiyānaṁ bhikkhūnaṁ etadahosi— “mahānāmena kho, āvuso, sakkena saṅgho bhesajjena pavārito. Handa mayaṁ, āvuso, mahānāmaṁ sakkaṁ sappiṁ viññāpemā”ti.
 
@@ -48,7 +48,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, mahānām
 
 “Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbā, aññatra punapavāraṇāya, aññatra niccapavāraṇāya; tato ce uttari sādiyeyya, pācittiyan”ti.
 
-2\. **Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbāti**
+2.1\. **Agilānena bhikkhunā catumāsappaccayapavāraṇā sāditabbāti**
 
 > gilānappaccayapavāraṇā sāditabbā.
 
@@ -82,12 +82,12 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, mahānām
 
 Bhesajjapariyante—yehi bhesajjehi pavārito hoti tāni bhesajjāni ṭhapetvā aññāni bhesajjāni viññāpeti, āpatti pācittiyassa. Rattipariyante—yāsu rattīsu pavārito hoti, tā rattiyo ṭhapetvā aññāsu rattīsu viññāpeti, āpatti pācittiyassa. Bhesajjapariyante ca rattipariyante ca—yehi bhesajjehi pavārito hoti, tāni bhesajjāni ṭhapetvā yāsu rattīsu pavārito hoti, tā rattiyo ṭhapetvā aññāni bhesajjāni aññāsu rattīsu viññāpeti, āpatti pācittiyassa. Neva bhesajjapariyante na rattipariyante, anāpatti.
 
-Na bhesajjena karaṇīyena bhesajjaṁ viññāpeti, āpatti pācittiyassa. Aññena bhesajjena karaṇīyena aññaṁ bhesajjaṁ viññāpeti, āpatti pācittiyassa.
+2.2\. Na bhesajjena karaṇīyena bhesajjaṁ viññāpeti, āpatti pācittiyassa. Aññena bhesajjena karaṇīyena aññaṁ bhesajjaṁ viññāpeti, āpatti pācittiyassa.
 
 Tatuttari tatuttarisaññī bhesajjaṁ viññāpeti, āpatti pācittiyassa. Tatuttari vematiko bhesajjaṁ viññāpeti, āpatti pācittiyassa. Tatuttari natatuttarisaññī bhesajjaṁ viññāpeti, āpatti pācittiyassa.
 
 Natatuttari tatuttarisaññī, āpatti dukkaṭassa. Natatuttari vematiko, āpatti dukkaṭassa. Natatuttari natatuttarisaññī, anāpatti.
 
-Anāpatti— yehi bhesajjehi pavārito hoti tāni bhesajjāni viññāpeti, yāsu rattīsu pavārito hoti tāsu rattīsu viññāpeti, “imehi tayā bhesajjehi pavāritāmha, amhākañca iminā ca iminā ca bhesajjena attho”ti ācikkhitvā viññāpeti, “yāsu tayā rattīsu pavāritāmha tāyo ca rattiyo vītivattā amhākañca bhesajjena attho”ti ācikkhitvā viññāpeti, ñātakānaṁ pavāritānaṁ, aññassatthāya, attano dhanena, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— yehi bhesajjehi pavārito hoti tāni bhesajjāni viññāpeti, yāsu rattīsu pavārito hoti tāsu rattīsu viññāpeti, “imehi tayā bhesajjehi pavāritāmha, amhākañca iminā ca iminā ca bhesajjena attho”ti ācikkhitvā viññāpeti, “yāsu tayā rattīsu pavāritāmha tāyo ca rattiyo vītivattā amhākañca bhesajjena attho”ti ācikkhitvā viññāpeti, ñātakānaṁ pavāritānaṁ, aññassatthāya, attano dhanena, ummattakassa, ādikammikassāti.
 
 Mahānāmasikkhāpadaṁ niṭṭhitaṁ sattamaṁ.

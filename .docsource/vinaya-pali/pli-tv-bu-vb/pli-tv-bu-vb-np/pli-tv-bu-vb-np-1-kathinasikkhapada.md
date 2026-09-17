@@ -6,27 +6,27 @@
 
 Ime kho panāyasmanto tiṁsa nissaggiyā pācittiyā dhammā uddesaṁ āgacchanti.
 
-1\. Tena samayena buddho bhagavā vesāliyaṁ viharati gotamake cetiye. Tena kho pana samayena bhagavatā bhikkhūnaṁ ticīvaraṁ anuññātaṁ hoti. Chabbaggiyā bhikkhū—“bhagavatā ticīvaraṁ anuññātan”ti aññeneva ticīvarena gāmaṁ pavisanti, aññena ticīvarena ārāme acchanti, aññena ticīvarena nahānaṁ otaranti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū atirekacīvaraṁ dhāressantī”ti.
+1.1\. Tena samayena buddho bhagavā vesāliyaṁ viharati gotamake cetiye. Tena kho pana samayena bhagavatā bhikkhūnaṁ ticīvaraṁ anuññātaṁ hoti. Chabbaggiyā bhikkhū—“bhagavatā ticīvaraṁ anuññātan”ti aññeneva ticīvarena gāmaṁ pavisanti, aññena ticīvarena ārāme acchanti, aññena ticīvarena nahānaṁ otaranti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū atirekacīvaraṁ dhāressantī”ti.
 
-Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, atirekacīvaraṁ dhārethā”ti?
+1.6\. Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, atirekacīvaraṁ dhārethā”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.8\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, atirekacīvaraṁ dhāressatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.9\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, atirekacīvaraṁ dhāressatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu atirekacīvaraṁ dhāreyya, nissaggiyaṁ pācittiyan”ti.
+1.13\. “Yo pana bhikkhu atirekacīvaraṁ dhāreyya, nissaggiyaṁ pācittiyan”ti.
 
-Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.
+1.14\. Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
-2\. Tena kho pana samayena āyasmato ānandassa atirekacīvaraṁ uppannaṁ hoti. Āyasmā ca ānando taṁ cīvaraṁ āyasmato sāriputtassa dātukāmo hoti. Āyasmā ca sāriputto sākete viharati. Atha kho āyasmato ānandassa etadahosi— “bhagavatā sikkhāpadaṁ paññattaṁ— ‘na atirekacīvaraṁ dhāretabban’ti. Idañca me atirekacīvaraṁ uppannaṁ. Ahañcimaṁ cīvaraṁ āyasmato sāriputtassa dātukāmo. Āyasmā ca sāriputto sākete viharati. Kathaṁ nu kho mayā paṭipajjitabban”ti? Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi. “Kīvaciraṁ panānanda, sāriputto āgacchissatī”ti?
+2.1\. Tena kho pana samayena āyasmato ānandassa atirekacīvaraṁ uppannaṁ hoti. Āyasmā ca ānando taṁ cīvaraṁ āyasmato sāriputtassa dātukāmo hoti. Āyasmā ca sāriputto sākete viharati. Atha kho āyasmato ānandassa etadahosi— “bhagavatā sikkhāpadaṁ paññattaṁ— ‘na atirekacīvaraṁ dhāretabban’ti. Idañca me atirekacīvaraṁ uppannaṁ. Ahañcimaṁ cīvaraṁ āyasmato sāriputtassa dātukāmo. Āyasmā ca sāriputto sākete viharati. Kathaṁ nu kho mayā paṭipajjitabban”ti? Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi. “Kīvaciraṁ panānanda, sāriputto āgacchissatī”ti?
 
-“Navamaṁ vā, bhagavā, divasaṁ dasamaṁ vā”ti.
+2.13\. “Navamaṁ vā, bhagavā, divasaṁ dasamaṁ vā”ti.
 
-Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi— “anujānāmi, bhikkhave, dasāhaparamaṁ atirekacīvaraṁ dhāretuṁ. Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+2.14\. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi— “anujānāmi, bhikkhave, dasāhaparamaṁ atirekacīvaraṁ dhāretuṁ. Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Niṭṭhitacīvarasmiṁ bhikkhunā ubbhatasmiṁ kathine dasāhaparamaṁ atirekacīvaraṁ dhāretabbaṁ. Taṁ atikkāmayato nissaggiyaṁ pācittiyan”ti.
+2.17\. “Niṭṭhitacīvarasmiṁ bhikkhunā ubbhatasmiṁ kathine dasāhaparamaṁ atirekacīvaraṁ dhāretabbaṁ. Taṁ atikkāmayato nissaggiyaṁ pācittiyan”ti.
 
-3\. **Niṭṭhitacīvarasminti**
+3.1\. **Niṭṭhitacīvarasminti**
 
 > bhikkhuno cīvaraṁ kataṁ vā hoti naṭṭhaṁ vā vinaṭṭhaṁ vā daḍḍhaṁ vā cīvarāsā vā upacchinnā.
 
@@ -46,7 +46,7 @@ Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katv
 
 > channaṁ cīvarānaṁ aññataraṁ cīvaraṁ, vikappanupagaṁ pacchimaṁ.
 
-**Taṁ atikkāmayato nissaggiyaṁ hotīti**
+3.2\. **Taṁ atikkāmayato nissaggiyaṁ hotīti**
 
 > ekādase aruṇuggamane nissaggiyaṁ hoti.
 
@@ -74,16 +74,16 @@ Nissajjitvā āpatti desetabbā. Tena bhikkhunā āpatti paṭiggahetabbā. Niss
 
 “imaṁ cīvaraṁ āyasmato dammī”ti.
 
-4\. Dasāhātikkante atikkantasaññī, nissaggiyaṁ pācittiyaṁ. Dasāhātikkante vematiko, nissaggiyaṁ pācittiyaṁ. Dasāhātikkante anatikkantasaññī, nissaggiyaṁ pācittiyaṁ.
+4.1\. Dasāhātikkante atikkantasaññī, nissaggiyaṁ pācittiyaṁ. Dasāhātikkante vematiko, nissaggiyaṁ pācittiyaṁ. Dasāhātikkante anatikkantasaññī, nissaggiyaṁ pācittiyaṁ.
 
-Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṁ pācittiyaṁ. Avikappite vikappitasaññī, nissaggiyaṁ pācittiyaṁ. Avissajjite vissajjitasaññī, nissaggiyaṁ pācittiyaṁ. Anaṭṭhe naṭṭhasaññī, nissaggiyaṁ pācittiyaṁ. Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṁ pācittiyaṁ. Adaḍḍhe daḍḍhasaññī, nissaggiyaṁ pācittiyaṁ. Avilutte viluttasaññī, nissaggiyaṁ pācittiyaṁ.
+4.4\. Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṁ pācittiyaṁ. Avikappite vikappitasaññī, nissaggiyaṁ pācittiyaṁ. Avissajjite vissajjitasaññī, nissaggiyaṁ pācittiyaṁ. Anaṭṭhe naṭṭhasaññī, nissaggiyaṁ pācittiyaṁ. Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṁ pācittiyaṁ. Adaḍḍhe daḍḍhasaññī, nissaggiyaṁ pācittiyaṁ. Avilutte viluttasaññī, nissaggiyaṁ pācittiyaṁ.
 
-Nissaggiyaṁ cīvaraṁ anissajjitvā paribhuñjati, āpatti dukkaṭassa. Dasāhānatikkante atikkantasaññī, āpatti dukkaṭassa. Dasāhānatikkante vematiko, āpatti dukkaṭassa. Dasāhānatikkante anatikkantasaññī, anāpatti.
+4.11\. Nissaggiyaṁ cīvaraṁ anissajjitvā paribhuñjati, āpatti dukkaṭassa. Dasāhānatikkante atikkantasaññī, āpatti dukkaṭassa. Dasāhānatikkante vematiko, āpatti dukkaṭassa. Dasāhānatikkante anatikkantasaññī, anāpatti.
 
-Anāpatti— antodasāhaṁ adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṁ gaṇhanti, ummattakassa, ādikammikassāti.
+4.15\. Anāpatti— antodasāhaṁ adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṁ gaṇhanti, ummattakassa, ādikammikassāti.
 
-5\. Tena kho pana samayena chabbaggiyā bhikkhū nissaṭṭhacīvaraṁ na denti. Bhagavato etamatthaṁ ārocesuṁ.
+5.1\. Tena kho pana samayena chabbaggiyā bhikkhū nissaṭṭhacīvaraṁ na denti. Bhagavato etamatthaṁ ārocesuṁ.
 
-(…) “Na, bhikkhave, nissaṭṭhacīvaraṁ na dātabbaṁ. Yo na dadeyya, āpatti dukkaṭassā”ti.
+5.3\. (…) “Na, bhikkhave, nissaṭṭhacīvaraṁ na dātabbaṁ. Yo na dadeyya, āpatti dukkaṭassā”ti.
 
-Kathinasikkhāpadaṁ niṭṭhitaṁ paṭhamaṁ.
+5.5\. Kathinasikkhāpadaṁ niṭṭhitaṁ paṭhamaṁ.

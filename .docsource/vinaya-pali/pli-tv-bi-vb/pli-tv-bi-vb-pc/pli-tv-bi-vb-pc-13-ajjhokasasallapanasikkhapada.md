@@ -4,50 +4,50 @@
 
 # 13. Ajjhokāsasallapanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhaddāya kāpilāniyā antevāsiniyā bhikkhuniyā ñātako puriso gāmakā sāvatthiṁ agamāsi kenacideva karaṇīyena. Atha kho sā bhikkhunī— “bhagavatā paṭikkhittaṁ paṭicchanne okāse purisena saddhiṁ ekenekā santiṭṭhituṁ sallapitun”ti teneva purisena saddhiṁ ajjhokāse ekenekā santiṭṭhatipi sallapatipi.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhaddāya kāpilāniyā antevāsiniyā bhikkhuniyā ñātako puriso gāmakā sāvatthiṁ agamāsi kenacideva karaṇīyena. Atha kho sā bhikkhunī— “bhagavatā paṭikkhittaṁ paṭicchanne okāse purisena saddhiṁ ekenekā santiṭṭhituṁ sallapitun”ti teneva purisena saddhiṁ ajjhokāse ekenekā santiṭṭhatipi sallapatipi.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭhissatipi sallapissatipī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭhatipi sallapatipī”ti?
+1.5\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭhissatipi sallapissatipī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭhatipi sallapatipī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.8\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭhissatipi sallapissatipi. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.9\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭhissatipi sallapissatipi. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyan”ti.
+1.13\. “Yā pana bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
-> yā yādisā …pe…
+> 2.2\. yā yādisā …pe…
 
-**bhikkhunīti**
+2.3\. **bhikkhunīti**
 
-> …pe… ayaṁ imasmiṁ atthe adhippetā bhikkhunīti.
+> 2.4\. …pe… ayaṁ imasmiṁ atthe adhippetā bhikkhunīti.
 
-**Ajjhokāso nāma**
+2.5\. **Ajjhokāso nāma**
 
-> appaṭicchanno hoti kuṭṭena vā kavāṭena vā kilañjena vā sāṇipākārena vā rukkhena vā thambhena vā kotthaḷiyā vā, yena kenaci appaṭicchanno hoti.
+> 2.6\. appaṭicchanno hoti kuṭṭena vā kavāṭena vā kilañjena vā sāṇipākārena vā rukkhena vā thambhena vā kotthaḷiyā vā, yena kenaci appaṭicchanno hoti.
 
-**Puriso nāma**
+2.7\. **Puriso nāma**
 
-> manussapuriso, na yakkho na peto na tiracchānagato, viññū paṭibalo santiṭṭhituṁ sallapituṁ.
+> 2.8\. manussapuriso, na yakkho na peto na tiracchānagato, viññū paṭibalo santiṭṭhituṁ sallapituṁ.
 
-**Saddhinti**
+2.9\. **Saddhinti**
 
-> ekato.
+> 2.10\. ekato.
 
-**Ekenekāti**
+2.11\. **Ekenekāti**
 
-> puriso ceva hoti bhikkhunī ca.
+> 2.12\. puriso ceva hoti bhikkhunī ca.
 
-**Santiṭṭheyya vāti**
+2.13\. **Santiṭṭheyya vāti**
 
-> purisassa hatthapāse tiṭṭhati, āpatti pācittiyassa.
+> 2.14\. purisassa hatthapāse tiṭṭhati, āpatti pācittiyassa.
 
-**Sallapeyya vāti**
+2.15\. **Sallapeyya vāti**
 
-> purisassa hatthapāse ṭhitā sallapati, āpatti pācittiyassa.
+> 2.16\. purisassa hatthapāse ṭhitā sallapati, āpatti pācittiyassa.
 
-Hatthapāsaṁ vijahitvā santiṭṭhati vā sallapati vā, āpatti dukkaṭassa. Yakkhena vā petena vā paṇḍakena vā tiracchānagatamanussaviggahena vā saddhiṁ santiṭṭhati vā sallapati vā, āpatti dukkaṭassa.
+2.17\. Hatthapāsaṁ vijahitvā santiṭṭhati vā sallapati vā, āpatti dukkaṭassa. Yakkhena vā petena vā paṇḍakena vā tiracchānagatamanussaviggahena vā saddhiṁ santiṭṭhati vā sallapati vā, āpatti dukkaṭassa.
 
-Anāpatti— yo koci viññū dutiyo hoti, arahopekkhā, aññavihitā santiṭṭhati vā sallapati vā, ummattikāya, ādikammikāyāti.
+2.19\. Anāpatti— yo koci viññū dutiyo hoti, arahopekkhā, aññavihitā santiṭṭhati vā sallapati vā, ummattikāya, ādikammikāyāti.
 
-Tatiyasikkhāpadaṁ niṭṭhitaṁ.
+2.25\. Tatiyasikkhāpadaṁ niṭṭhitaṁ.

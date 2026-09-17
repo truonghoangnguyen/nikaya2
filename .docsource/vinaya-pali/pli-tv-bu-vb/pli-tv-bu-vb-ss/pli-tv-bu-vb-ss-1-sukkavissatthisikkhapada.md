@@ -6,7 +6,7 @@
 
 Ime kho panāyasmanto terasa saṅghādisesā dhammā uddesaṁ āgacchanti.
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā seyyasako anabhirato brahmacariyaṁ carati. So tena kiso hoti lūkho dubbaṇṇo uppaṇḍuppaṇḍukajāto dhamanisanthatagatto. Addasa kho āyasmā udāyī āyasmantaṁ seyyasakaṁ kisaṁ lūkhaṁ dubbaṇṇaṁ uppaṇḍuppaṇḍukajātaṁ dhamanisanthatagattaṁ. Disvāna āyasmantaṁ seyyasakaṁ etadavoca— “kissa tvaṁ, āvuso seyyasaka, kiso lūkho dubbaṇṇo uppaṇḍuppaṇḍukajāto dhamanisanthatagatto? Kacci no tvaṁ, āvuso seyyasaka, anabhirato brahmacariyaṁ carasī”ti?
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā seyyasako anabhirato brahmacariyaṁ carati. So tena kiso hoti lūkho dubbaṇṇo uppaṇḍuppaṇḍukajāto dhamanisanthatagatto. Addasa kho āyasmā udāyī āyasmantaṁ seyyasakaṁ kisaṁ lūkhaṁ dubbaṇṇaṁ uppaṇḍuppaṇḍukajātaṁ dhamanisanthatagattaṁ. Disvāna āyasmantaṁ seyyasakaṁ etadavoca— “kissa tvaṁ, āvuso seyyasaka, kiso lūkho dubbaṇṇo uppaṇḍuppaṇḍukajāto dhamanisanthatagatto? Kacci no tvaṁ, āvuso seyyasaka, anabhirato brahmacariyaṁ carasī”ti?
 
 “Evamāvuso”ti.
 
@@ -18,7 +18,7 @@ Atha kho āyasmā seyyasako yāvadatthaṁ bhuñji yāvadatthaṁ supi yāvadatt
 
 “Na kho ahaṁ, āvuso, bhesajjaṁ karomi. Api cāhaṁ yāvadatthaṁ bhuñjāmi yāvadatthaṁ supāmi yāvadatthaṁ nhāyāmi. Yāvadatthaṁ bhuñjitvā yāvadatthaṁ supitvā yāvadatthaṁ nhāyitvā yadā me anabhirati uppajjati rāgo cittaṁ anuddhaṁseti tadā hatthena upakkamitvā asuciṁ mocemī”ti. “Kiṁ pana tvaṁ, āvuso seyyasaka, yeneva hatthena saddhādeyyaṁ bhuñjasi teneva hatthena upakkamitvā asuciṁ mocesī”ti?
 
-“Evamāvuso”ti.
+1.2\. “Evamāvuso”ti.
 
 Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā seyyasako hatthena upakkamitvā asuciṁ mocessatī”ti.
 
@@ -32,11 +32,11 @@ Vigarahi buddho bhagavā— “ananucchavikaṁ, moghapurisa, ananulomikaṁ app
 
 Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
-2\. Tena kho pana samayena bhikkhū paṇītabhojanāni bhuñjitvā muṭṭhassatī asampajānā niddaṁ okkamanti. Tesaṁ muṭṭhassatīnaṁ asampajānānaṁ niddaṁ okkamantānaṁ supinantena asuci muccati. Tesaṁ kukkuccaṁ ahosi— “bhagavatā sikkhāpadaṁ paññattaṁ— ‘sañcetanikā sukkavissaṭṭhi saṅghādiseso’ti. Amhākañca supinantena asuci muccati. Atthi cettha cetanā labbhati. Kacci nu kho mayaṁ saṅghādisesaṁ āpattiṁ āpannā”ti? Bhagavato etamatthaṁ ārocesuṁ. “Atthesā, bhikkhave, cetanā; sā ca kho abbohārikāti. Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+2.1\. Tena kho pana samayena bhikkhū paṇītabhojanāni bhuñjitvā muṭṭhassatī asampajānā niddaṁ okkamanti. Tesaṁ muṭṭhassatīnaṁ asampajānānaṁ niddaṁ okkamantānaṁ supinantena asuci muccati. Tesaṁ kukkuccaṁ ahosi— “bhagavatā sikkhāpadaṁ paññattaṁ— ‘sañcetanikā sukkavissaṭṭhi saṅghādiseso’ti. Amhākañca supinantena asuci muccati. Atthi cettha cetanā labbhati. Kacci nu kho mayaṁ saṅghādisesaṁ āpattiṁ āpannā”ti? Bhagavato etamatthaṁ ārocesuṁ. “Atthesā, bhikkhave, cetanā; sā ca kho abbohārikāti. Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
 “Sañcetanikā sukkavissaṭṭhi aññatra supinantā saṅghādiseso”ti.
 
-**Sañcetanikāti**
+2.2\. **Sañcetanikāti**
 
 > jānanto sañjānanto cecca abhivitaritvā vītikkamo.
 
@@ -56,7 +56,7 @@ Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
 > saṅghova tassā āpattiyā parivāsaṁ deti, mūlāya paṭikassati, mānattaṁ deti, abbheti; na sambahulā, na ekapuggalo. Tena vuccati—“saṅghādiseso”ti. Tasseva āpattinikāyassa nāmakammaṁ adhivacanaṁ. Tenapi vuccati—“saṅghādiseso”ti.
 
-3\. Ajjhattarūpe moceti, bahiddhārūpe moceti, ajjhattabahiddhārūpe moceti, ākāse kaṭiṁ kampento moceti;
+3.1\. Ajjhattarūpe moceti, bahiddhārūpe moceti, ajjhattabahiddhārūpe moceti, ākāse kaṭiṁ kampento moceti;
 
 rāgūpatthambhe moceti, vaccūpatthambhe moceti, passāvūpatthambhe moceti, vātūpatthambhe moceti, uccāliṅgapāṇakadaṭṭhūpatthambhe moceti;
 
@@ -64,7 +64,7 @@ rāgūpatthambhe moceti, vaccūpatthambhe moceti, passāvūpatthambhe moceti, v�
 
 nīlaṁ moceti, pītakaṁ moceti, lohitakaṁ moceti, odātaṁ moceti, takkavaṇṇaṁ moceti, dakavaṇṇaṁ moceti, telavaṇṇaṁ moceti, khīravaṇṇaṁ moceti, dadhivaṇṇaṁ moceti, sappivaṇṇaṁ moceti.
 
-**Ajjhattarūpeti**
+3.2\. **Ajjhattarūpeti**
 
 > ajjhattaṁ upādinne rūpe.
 
@@ -140,7 +140,7 @@ nīlaṁ moceti, pītakaṁ moceti, lohitakaṁ moceti, odātaṁ moceti, takkav
 
 > khiḍḍādhippāyo.
 
-Ajjhattarūpe ceteti upakkamati muccati, āpatti saṅghādisesassa.
+3.3\. Ajjhattarūpe ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
 Bahiddhārūpe ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
@@ -168,13 +168,13 @@ Pītakaṁ … lohitakaṁ … odātaṁ … takkavaṇṇaṁ … dakavaṇṇa
 
 Suddhikaṁ niṭṭhitaṁ.
 
-Ārogyatthañca sukhatthañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
+3.4\. Ārogyatthañca sukhatthañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
 Ārogyatthañca bhesajjatthañca …pe… ārogyatthañca dānatthañca … ārogyatthañca puññatthañca … ārogyatthañca yaññatthañca … ārogyatthañca saggatthañca … ārogyatthañca bījatthañca … ārogyatthañca vīmaṁsatthañca … ārogyatthañca davatthañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
 Ekamūlakassa khaṇḍacakkaṁ niṭṭhitaṁ.
 
-Sukhatthañca bhesajjatthañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
+3.5\. Sukhatthañca bhesajjatthañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
 Sukhatthañca dānatthañca …pe… sukhatthañca puññatthañca … sukhatthañca yaññatthañca … sukhatthañca saggatthañca … sukhatthañca bījatthañca … sukhatthañca vīmaṁsatthañca … sukhatthañca davatthañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
@@ -232,7 +232,7 @@ Idaṁ sabbamūlakaṁ.
 
 Sabbamūlakaṁ niṭṭhitaṁ.
 
-Nīlañca pītakañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
+3.6\. Nīlañca pītakañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
 Nīlañca lohitakañca …pe… nīlañca odātañca … nīlañca takkavaṇṇañca … nīlañca dakavaṇṇañca … nīlañca telavaṇṇañca … nīlañca khīravaṇṇañca … nīlañca dadhivaṇṇañca … nīlañca sappivaṇṇañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
@@ -302,7 +302,7 @@ Nīlañca pītakañca lohitakañca odātañca takkavaṇṇañca dakavaṇṇañ
 
 Sabbamūlakaṁ niṭṭhitaṁ.
 
-Ārogyatthañca nīlañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
+3.7\. Ārogyatthañca nīlañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
 Ārogyatthañca sukhatthañca nīlañca pītakañca ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
@@ -314,7 +314,7 @@ Sabbamūlakaṁ niṭṭhitaṁ.
 
 Missakacakkaṁ niṭṭhitaṁ.
 
-Nīlaṁ mocessāmīti ceteti upakkamati pītakaṁ muccati, āpatti saṅghādisesassa.
+3.8\. Nīlaṁ mocessāmīti ceteti upakkamati pītakaṁ muccati, āpatti saṅghādisesassa.
 
 Nīlaṁ mocessāmīti ceteti upakkamati lohitakaṁ …pe… odātaṁ … takkavaṇṇaṁ … dakavaṇṇaṁ … telavaṇṇaṁ … khīravaṇṇaṁ … dadhivaṇṇaṁ … sappivaṇṇaṁ muccati, āpatti saṅghādisesassa.
 
@@ -332,7 +332,7 @@ Sappivaṇṇaṁ mocessāmīti ceteti upakkamati pītakaṁ …pe… lohitaka�
 
 Kucchicakkaṁ niṭṭhitaṁ.
 
-Pītakaṁ mocessāmīti ceteti upakkamati nīlaṁ muccati, āpatti saṅghādisesassa.
+3.9\. Pītakaṁ mocessāmīti ceteti upakkamati nīlaṁ muccati, āpatti saṅghādisesassa.
 
 Lohitakaṁ …pe… odātaṁ … takkavaṇṇaṁ … dakavaṇṇaṁ … telavaṇṇaṁ … khīravaṇṇaṁ … dadhivaṇṇaṁ … sappivaṇṇaṁ mocessāmīti ceteti upakkamati nīlaṁ muccati, āpatti saṅghādisesassa.
 
@@ -394,25 +394,25 @@ Piṭṭhicakkassa dasamaṁ gamanaṁ niṭṭhitaṁ.
 
 Piṭṭhicakkaṁ niṭṭhitaṁ.
 
-4\. Ceteti upakkamati muccati, āpatti saṅghādisesassa.
+4.1\. Ceteti upakkamati muccati, āpatti saṅghādisesassa.
 
-Ceteti upakkamati na muccati, āpatti thullaccayassa.
+4.2\. Ceteti upakkamati na muccati, āpatti thullaccayassa.
 
-Ceteti na upakkamati muccati, anāpatti.
+4.3\. Ceteti na upakkamati muccati, anāpatti.
 
-Ceteti na upakkamati na muccati, anāpatti.
+4.4\. Ceteti na upakkamati na muccati, anāpatti.
 
-Na ceteti upakkamati muccati, anāpatti.
+4.5\. Na ceteti upakkamati muccati, anāpatti.
 
-Na ceteti upakkamati na muccati, anāpatti.
+4.6\. Na ceteti upakkamati na muccati, anāpatti.
 
-Na ceteti na upakkamati muccati, anāpatti.
+4.7\. Na ceteti na upakkamati muccati, anāpatti.
 
-Na ceteti na upakkamati na muccati, anāpatti.
+4.8\. Na ceteti na upakkamati na muccati, anāpatti.
 
-Anāpatti— supinantena, namocanādhippāyassa, ummattakassa, khittacittassa, vedanāṭṭassa, ādikammikassāti.
+4.9\. Anāpatti— supinantena, namocanādhippāyassa, ummattakassa, khittacittassa, vedanāṭṭassa, ādikammikassāti.
 
-1.1. Vinītavatthuuddānagāthā
+4.16\. 1.1. Vinītavatthuuddānagāthā
 
 > Supinoccārapassāvo,\
 > vitakkuṇhodakena ca;\
@@ -429,9 +429,9 @@ Anāpatti— supinantena, namocanādhippāyassa, ummattakassa, khittacittassa, v
 
 ### 1.2. Vinītavatthu
 
-5\. Tena kho pana samayena aññatarassa bhikkhuno supinantena asuci mucci. Tassa kukkuccaṁ ahosi— “bhagavatā sikkhāpadaṁ paññattaṁ, kacci nu kho ahaṁ saṅghādisesaṁ āpattiṁ āpanno”ti? Bhagavato etamatthaṁ ārocesi. “Anāpatti, bhikkhu, supinantenā”ti.
+5.1\. Tena kho pana samayena aññatarassa bhikkhuno supinantena asuci mucci. Tassa kukkuccaṁ ahosi— “bhagavatā sikkhāpadaṁ paññattaṁ, kacci nu kho ahaṁ saṅghādisesaṁ āpattiṁ āpanno”ti? Bhagavato etamatthaṁ ārocesi. “Anāpatti, bhikkhu, supinantenā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno uccāraṁ karontassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “kiṁcitto tvaṁ, bhikkhū”ti?
+5.2\. Tena kho pana samayena aññatarassa bhikkhuno uccāraṁ karontassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “kiṁcitto tvaṁ, bhikkhū”ti?
 
 “Nāhaṁ, bhagavā, mocanādhippāyo”ti.
 
@@ -439,9 +439,9 @@ Tena kho pana samayena aññatarassa bhikkhuno uccāraṁ karontassa asuci mucci
 
 Tena kho pana samayena aññatarassa bhikkhuno passāvaṁ karontassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno kāmavitakkaṁ vitakkentassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, vitakkentassā”ti.
+5.3\. Tena kho pana samayena aññatarassa bhikkhuno kāmavitakkaṁ vitakkentassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, vitakkentassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno uṇhodakena nhāyantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “kiṁcitto tvaṁ, bhikkhū”ti?
+5.4\. Tena kho pana samayena aññatarassa bhikkhuno uṇhodakena nhāyantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “kiṁcitto tvaṁ, bhikkhū”ti?
 
 “Nāhaṁ, bhagavā, mocanādhippāyo”ti.
 
@@ -451,19 +451,19 @@ Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa uṇhodakena 
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa uṇhodakena nhāyantassa asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti. Bhesajjena ālimpentassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
+5.5\. Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti. Bhesajjena ālimpentassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno aṅgajāte vaṇo hoti. Mocanādhippāyassa bhesajjena ālimpentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno aṇḍaṁ kaṇḍuvantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
+5.6\. Tena kho pana samayena aññatarassa bhikkhuno aṇḍaṁ kaṇḍuvantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa aṇḍaṁ kaṇḍuvantassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno maggaṁ gacchantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
+5.7\. Tena kho pana samayena aññatarassa bhikkhuno maggaṁ gacchantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa maggaṁ gacchantassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno vatthiṁ gahetvā passāvaṁ karontassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
+5.8\. Tena kho pana samayena aññatarassa bhikkhuno vatthiṁ gahetvā passāvaṁ karontassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa vatthiṁ gahetvā passāvaṁ karontassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
@@ -479,31 +479,31 @@ Tena kho pana samayena aññatarassa bhikkhuno ūruṁ ghaṭṭāpentassa asuci
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa ūruṁ ghaṭṭāpentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññataro bhikkhu mocanādhippāyo aññataraṁ sāmaṇeraṁ etadavoca— “ehi me tvaṁ, āvuso sāmaṇera, aṅgajātaṁ gaṇhāhī”ti. So tassa aṅgajātaṁ aggahesi. Tasseva asuci mucci. Tassa kukkuccaṁ ahosi …pe… “āpattiṁ tvaṁ, bhikkhu, āpanno saṅghādisesan”ti.
+5.9\. Tena kho pana samayena aññataro bhikkhu mocanādhippāyo aññataraṁ sāmaṇeraṁ etadavoca— “ehi me tvaṁ, āvuso sāmaṇera, aṅgajātaṁ gaṇhāhī”ti. So tassa aṅgajātaṁ aggahesi. Tasseva asuci mucci. Tassa kukkuccaṁ ahosi …pe… “āpattiṁ tvaṁ, bhikkhu, āpanno saṅghādisesan”ti.
 
 Tena kho pana samayena aññataro bhikkhu suttassa sāmaṇerassa aṅgajātaṁ aggahesi. Tasseva asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti dukkaṭassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa ūrūhi aṅgajātaṁ pīḷentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
+5.10\. Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa ūrūhi aṅgajātaṁ pīḷentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa muṭṭhinā aṅgajātaṁ pīḷentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa ākāse kaṭiṁ kampentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno kāyaṁ thambhentassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
+5.11\. Tena kho pana samayena aññatarassa bhikkhuno kāyaṁ thambhentassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa kāyaṁ thambhentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññataro bhikkhu sāratto mātugāmassa aṅgajātaṁ upanijjhāyi. Tassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa. Na ca, bhikkhave, sārattena mātugāmassa aṅgajātaṁ upanijjhāyitabbaṁ. Yo upanijjhāyeyya, āpatti dukkaṭassā”ti.
+5.12\. Tena kho pana samayena aññataro bhikkhu sāratto mātugāmassa aṅgajātaṁ upanijjhāyi. Tassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa. Na ca, bhikkhave, sārattena mātugāmassa aṅgajātaṁ upanijjhāyitabbaṁ. Yo upanijjhāyeyya, āpatti dukkaṭassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa tāḷacchiddaṁ aṅgajātaṁ pavesentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
+5.13\. Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa tāḷacchiddaṁ aṅgajātaṁ pavesentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa kaṭṭhena aṅgajātaṁ ghaṭṭentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
+5.14\. Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa kaṭṭhena aṅgajātaṁ ghaṭṭentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno paṭisote nhāyantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
+5.15\. Tena kho pana samayena aññatarassa bhikkhuno paṭisote nhāyantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa paṭisote nhāyantassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno udañjalaṁ kīḷantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
+5.16\. Tena kho pana samayena aññatarassa bhikkhuno udañjalaṁ kīḷantassa asuci mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, namocanādhippāyassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa udañjalaṁ kīḷantassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
@@ -519,7 +519,7 @@ Tena kho pana samayena aññatarassa bhikkhuno pokkharavane dhāvantassa asuci m
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa pokkharavane dhāvantassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa vālikaṁ aṅgajātaṁ pavesentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
+5.17\. Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa vālikaṁ aṅgajātaṁ pavesentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 
 Tena kho pana samayena aññatarassa bhikkhuno mocanādhippāyassa kaddamaṁ aṅgajātaṁ pavesentassa asuci mucci …pe… asuci na mucci. Tassa kukkuccaṁ ahosi …pe… “anāpatti, bhikkhu, saṅghādisesassa; āpatti thullaccayassā”ti.
 

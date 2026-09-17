@@ -4,7 +4,7 @@
 
 # 4. Attakāmapāricariyasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā udāyī sāvatthiyaṁ kulūpako hoti, bahukāni kulāni upasaṅkamati. Tena kho pana samayena aññatarā itthī matapatikā abhirūpā hoti dassanīyā pāsādikā. Atha kho āyasmā udāyī pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena tassā itthiyā nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho sā itthī yenāyasmā udāyī tenupasaṅkami; upasaṅkamitvā āyasmantaṁ udāyiṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ itthiṁ āyasmā udāyī dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho sā itthī āyasmatā udāyinā dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā āyasmantaṁ udāyiṁ etadavoca— “vadeyyātha, bhante, yena attho. Paṭibalā mayaṁ ayyassa dātuṁ yadidaṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāran”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā udāyī sāvatthiyaṁ kulūpako hoti, bahukāni kulāni upasaṅkamati. Tena kho pana samayena aññatarā itthī matapatikā abhirūpā hoti dassanīyā pāsādikā. Atha kho āyasmā udāyī pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena tassā itthiyā nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho sā itthī yenāyasmā udāyī tenupasaṅkami; upasaṅkamitvā āyasmantaṁ udāyiṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ itthiṁ āyasmā udāyī dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho sā itthī āyasmatā udāyinā dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā āyasmantaṁ udāyiṁ etadavoca— “vadeyyātha, bhante, yena attho. Paṭibalā mayaṁ ayyassa dātuṁ yadidaṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāran”ti.
 
 “Na kho te, bhagini, amhākaṁ dullabhā yadidaṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārā. Api ca yo amhākaṁ dullabho taṁ dehī”ti.
 
@@ -20,7 +20,7 @@
 
 Atha kho sā itthī ujjhāyati khiyyati vipāceti— “alajjino ime samaṇā sakyaputtiyā dussīlā musāvādino. Ime hi nāma dhammacārino samacārino brahmacārino saccavādino sīlavanto kalyāṇadhammā paṭijānissanti. Natthi imesaṁ sāmaññaṁ natthi imesaṁ brahmaññaṁ, naṭṭhaṁ imesaṁ sāmaññaṁ naṭṭhaṁ imesaṁ brahmaññaṁ, kuto imesaṁ sāmaññaṁ kuto imesaṁ brahmaññaṁ, apagatā ime sāmaññā apagatā ime brahmaññā. Kathañhi nāma samaṇo udāyī maṁ sāmaṁ methunadhammaṁ yācitvā, ‘ko imaṁ vasalaṁ duggandhaṁ āmasissatī’ti niṭṭhubhitvā pakkamissati. Kiṁ me pāpakaṁ kiṁ me duggandhaṁ, kassāhaṁ kena hāyāmī”ti?
 
-Aññāpi itthiyo ujjhāyanti khiyyanti vipācenti— “alajjino ime samaṇā sakyaputtiyā dussīlā musāvādino …pe… kathañhi nāma samaṇo udāyī imissā sāmaṁ methunadhammaṁ yācitvā, ‘ko imaṁ vasalaṁ duggandhaṁ āmasissatī’ti niṭṭhubhitvā pakkamissati. Kiṁ imissā pāpakaṁ kiṁ imissā duggandhaṁ, kassāyaṁ kena hāyatī”ti?
+1.2\. Aññāpi itthiyo ujjhāyanti khiyyanti vipācenti— “alajjino ime samaṇā sakyaputtiyā dussīlā musāvādino …pe… kathañhi nāma samaṇo udāyī imissā sāmaṁ methunadhammaṁ yācitvā, ‘ko imaṁ vasalaṁ duggandhaṁ āmasissatī’ti niṭṭhubhitvā pakkamissati. Kiṁ imissā pāpakaṁ kiṁ imissā duggandhaṁ, kassāyaṁ kena hāyatī”ti?
 
 Assosuṁ kho bhikkhū tāsaṁ itthīnaṁ ujjhāyantīnaṁ khiyyantīnaṁ vipācentīnaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā udāyī mātugāmassa santike attakāmapāricariyāya vaṇṇaṁ bhāsissatī”ti.
 
@@ -32,75 +32,75 @@ Vigarahi buddho bhagavā— “ananucchavikaṁ, moghapurisa, ananulomikaṁ app
 
 “Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmassa santike attakāmapāricariyāya vaṇṇaṁ bhāseyya— ‘etadaggaṁ, bhagini, pāricariyānaṁ yā mādisaṁ sīlavantaṁ kalyāṇadhammaṁ brahmacāriṁ etena dhammena paricareyyāti methunupasaṁhitena’, saṅghādiseso”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
-> yo yādiso …pe…
+> 2.2\. yo yādiso …pe…
 
-**bhikkhūti**
+2.3\. **bhikkhūti**
 
-> …pe… ayaṁ imasmiṁ atthe adhippeto bhikkhūti.
+> 2.4\. …pe… ayaṁ imasmiṁ atthe adhippeto bhikkhūti.
 
-**Otiṇṇo nāma**
+2.5\. **Otiṇṇo nāma**
 
-> sāratto apekkhavā paṭibaddhacitto.
+> 2.6\. sāratto apekkhavā paṭibaddhacitto.
 
-**Vipariṇatanti**
+2.7\. **Vipariṇatanti**
 
-> rattampi cittaṁ vipariṇataṁ, duṭṭhampi cittaṁ vipariṇataṁ, mūḷhampi cittaṁ vipariṇataṁ. Api ca rattaṁ cittaṁ imasmiṁ atthe adhippetaṁ vipariṇatanti.
+> 2.8\. rattampi cittaṁ vipariṇataṁ, duṭṭhampi cittaṁ vipariṇataṁ, mūḷhampi cittaṁ vipariṇataṁ. Api ca rattaṁ cittaṁ imasmiṁ atthe adhippetaṁ vipariṇatanti.
 
-**Mātugāmo nāma**
+2.10\. **Mātugāmo nāma**
 
-> manussitthī, na yakkhī, na petī, na tiracchānagatā. Viññū paṭibalā subhāsitadubbhāsitaṁ duṭṭhullāduṭṭhullaṁ ājānituṁ.
+> 2.11\. manussitthī, na yakkhī, na petī, na tiracchānagatā. Viññū paṭibalā subhāsitadubbhāsitaṁ duṭṭhullāduṭṭhullaṁ ājānituṁ.
 
-**Mātugāmassa santiketi**
+2.12\. **Mātugāmassa santiketi**
 
-> mātugāmassa sāmantā, mātugāmassa avidūre.
+> 2.13\. mātugāmassa sāmantā, mātugāmassa avidūre.
 
-**Attakāmanti**
+2.14\. **Attakāmanti**
 
-> attano kāmaṁ attano hetuṁ attano adhippāyaṁ attano pāricariyaṁ.
+> 2.15\. attano kāmaṁ attano hetuṁ attano adhippāyaṁ attano pāricariyaṁ.
 
-**Etadagganti**
+2.16\. **Etadagganti**
 
-> etaṁ aggaṁ etaṁ seṭṭhaṁ etaṁ mokkhaṁ etaṁ uttamaṁ etaṁ pavaraṁ.
+> 2.17\. etaṁ aggaṁ etaṁ seṭṭhaṁ etaṁ mokkhaṁ etaṁ uttamaṁ etaṁ pavaraṁ.
 
-**Yāti**
+2.18\. **Yāti**
 
-> khattiyī vā brāhmaṇī vā vessī vā suddī vā.
+> 2.19\. khattiyī vā brāhmaṇī vā vessī vā suddī vā.
 
-**Mādisanti**
+2.20\. **Mādisanti**
 
-> khattiyaṁ vā brāhmaṇaṁ vā vessaṁ vā suddaṁ vā.
+> 2.21\. khattiyaṁ vā brāhmaṇaṁ vā vessaṁ vā suddaṁ vā.
 
-**Sīlavantanti**
+2.22\. **Sīlavantanti**
 
-> pāṇātipātā paṭivirataṁ, adinnādānā paṭivirataṁ, musāvādā paṭivirataṁ.
+> 2.23\. pāṇātipātā paṭivirataṁ, adinnādānā paṭivirataṁ, musāvādā paṭivirataṁ.
 
-**Brahmacārinti**
+2.24\. **Brahmacārinti**
 
-> methunadhammā paṭivirataṁ.
+> 2.25\. methunadhammā paṭivirataṁ.
 
-**Kalyāṇadhammo nāma**
+2.26\. **Kalyāṇadhammo nāma**
 
-> tena ca sīlena tena ca brahmacariyena kalyāṇadhammo hoti.
+> 2.27\. tena ca sīlena tena ca brahmacariyena kalyāṇadhammo hoti.
 
-**Etena dhammenāti**
+2.28\. **Etena dhammenāti**
 
-> methunadhammena.
+> 2.29\. methunadhammena.
 
-**Paricareyyāti**
+2.30\. **Paricareyyāti**
 
-> abhirameyya.
+> 2.31\. abhirameyya.
 
-**Methunupasaṁhitenāti**
+2.32\. **Methunupasaṁhitenāti**
 
-> methunadhammappaṭisaṁyuttena.
+> 2.33\. methunadhammappaṭisaṁyuttena.
 
-**Saṅghādisesoti**
+2.34\. **Saṅghādisesoti**
 
-> …pe… tenapi vuccati “saṅghādiseso”ti.
+> 2.35\. …pe… tenapi vuccati “saṅghādiseso”ti.
 
-3\. Itthī ca hoti itthisaññī sāratto ca. Bhikkhu ca naṁ itthiyā santike attakāmapāricariyāya vaṇṇaṁ bhāsati, āpatti saṅghādisesassa.
+3.1\. Itthī ca hoti itthisaññī sāratto ca. Bhikkhu ca naṁ itthiyā santike attakāmapāricariyāya vaṇṇaṁ bhāsati, āpatti saṅghādisesassa.
 
 Itthī ca hoti vematiko …pe… paṇḍakasaññī … purisasaññī … tiracchānagatasaññī sāratto ca. Bhikkhu ca naṁ itthiyā santike attakāmapāricariyāya vaṇṇaṁ bhāsati, āpatti thullaccayassa.
 
@@ -114,7 +114,7 @@ Dve itthiyo dvinnaṁ itthīnaṁ itthisaññī sāratto ca. Bhikkhu ca naṁ dv
 
 Itthī ca paṇḍako ca ubhinnaṁ itthisaññī sāratto ca. Bhikkhu ca naṁ ubhinnaṁ santike attakāmapāricariyāya vaṇṇaṁ bhāsati, āpatti saṅghādisesena dukkaṭassa. …pe…
 
-Anāpatti— “cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena upaṭṭhahā”ti bhaṇati, ummattakassa ādikammikassāti.
+3.2\. Anāpatti— “cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena upaṭṭhahā”ti bhaṇati, ummattakassa ādikammikassāti.
 
 4.1. Vinītavatthuuddānagāthā
 
@@ -125,7 +125,7 @@ Anāpatti— “cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāre
 
 ### 4.2. Vinītavatthu
 
-4\. Tena kho pana samayena aññatarā vañjhā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kathāhaṁ, bhante, vijāyeyyan”ti?
+4.1\. Tena kho pana samayena aññatarā vañjhā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kathāhaṁ, bhante, vijāyeyyan”ti?
 
 “Tena hi, bhagini, aggadānaṁ dehī”ti.
 
@@ -133,7 +133,7 @@ Anāpatti— “cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāre
 
 “Methunadhamman”ti. Tassa kukkuccaṁ ahosi …pe… “āpattiṁ tvaṁ, bhikkhu, āpanno saṅghādisesan”ti.
 
-Tena kho pana samayena aññatarā vijāyinī itthī kulūpakaṁ bhikkhuṁ etadavoca— “kathāhaṁ, bhante, puttaṁ labheyyan”ti?
+4.2\. Tena kho pana samayena aññatarā vijāyinī itthī kulūpakaṁ bhikkhuṁ etadavoca— “kathāhaṁ, bhante, puttaṁ labheyyan”ti?
 
 “Tena hi, bhagini, aggadānaṁ dehī”ti.
 
@@ -141,7 +141,7 @@ Tena kho pana samayena aññatarā vijāyinī itthī kulūpakaṁ bhikkhuṁ eta
 
 “Methunadhamman”ti. Tassa kukkuccaṁ ahosi …pe… “āpattiṁ tvaṁ, bhikkhu, āpanno saṅghādisesan”ti.
 
-Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kathāhaṁ, bhante, sāmikassa piyā assan”ti?
+4.3\. Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kathāhaṁ, bhante, sāmikassa piyā assan”ti?
 
 “Tena hi, bhagini, aggadānaṁ dehī”ti.
 
@@ -157,7 +157,7 @@ Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— �
 
 “Methunadhamman”ti. Tassa kukkuccaṁ ahosi …pe… “āpattiṁ tvaṁ, bhikkhu, āpanno saṅghādisesan”ti.
 
-Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kyāhaṁ, bhante, ayyassa dajjāmī”ti?
+4.4\. Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kyāhaṁ, bhante, ayyassa dajjāmī”ti?
 
 “Aggadānaṁ, bhaginī”ti.
 
@@ -165,7 +165,7 @@ Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— �
 
 “Methunadhamman”ti. Tassa kukkuccaṁ ahosi …pe… “āpattiṁ tvaṁ, bhikkhu, āpanno saṅghādisesan”ti.
 
-Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kenāhaṁ, bhante, ayyaṁ upaṭṭhemī”ti?
+4.5\. Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kenāhaṁ, bhante, ayyaṁ upaṭṭhemī”ti?
 
 “Aggadānena, bhaginī”ti.
 
@@ -173,7 +173,7 @@ Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— �
 
 “Methunadhamman”ti. Tassa kukkuccaṁ ahosi …pe… “āpattiṁ tvaṁ, bhikkhu, āpanno saṅghādisesan”ti.
 
-Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kathāhaṁ, bhante, sugatiṁ gaccheyyan”ti?
+4.6\. Tena kho pana samayena aññatarā itthī kulūpakaṁ bhikkhuṁ etadavoca— “kathāhaṁ, bhante, sugatiṁ gaccheyyan”ti?
 
 “Tena hi, bhagini, aggadānaṁ dehī”ti.
 

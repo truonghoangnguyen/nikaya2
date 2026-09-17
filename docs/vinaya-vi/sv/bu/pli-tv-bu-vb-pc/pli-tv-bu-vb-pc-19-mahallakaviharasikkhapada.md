@@ -4,19 +4,19 @@
 
 # 19. Mahallakavihārasikkhāpada
 
-1\. Tena samayena buddho bhagavā kosambiyaṁ viharati ghositārāme. Tena kho pana samayena āyasmato channassa upaṭṭhāko mahāmatto āyasmato channassa vihāraṁ kārāpeti. Atha kho āyasmā channo katapariyositaṁ vihāraṁ punappunaṁ chādāpeti, punappunaṁ lepāpeti. Atibhārito vihāro paripati. Atha kho āyasmā channo tiṇañca kaṭṭhañca saṅkaḍḍhanto aññatarassa brāhmaṇassa yavakhettaṁ dūsesi. Atha kho so brāhmaṇo ujjhāyati khiyyati vipāceti— “kathañhi nāma bhadantā amhākaṁ yavakhettaṁ dūsessantī”ti.
+1.1\. Tena samayena buddho bhagavā kosambiyaṁ viharati ghositārāme. Tena kho pana samayena āyasmato channassa upaṭṭhāko mahāmatto āyasmato channassa vihāraṁ kārāpeti. Atha kho āyasmā channo katapariyositaṁ vihāraṁ punappunaṁ chādāpeti, punappunaṁ lepāpeti. Atibhārito vihāro paripati. Atha kho āyasmā channo tiṇañca kaṭṭhañca saṅkaḍḍhanto aññatarassa brāhmaṇassa yavakhettaṁ dūsesi. Atha kho so brāhmaṇo ujjhāyati khiyyati vipāceti— “kathañhi nāma bhadantā amhākaṁ yavakhettaṁ dūsessantī”ti.
 
-Assosuṁ kho bhikkhū tassa brāhmaṇassa ujjhāyantassa khiyyantassa vipācentassa. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā channo katapariyositaṁ vihāraṁ punappunaṁ chādāpessati, punappunaṁ lepāpessati, atibhārito vihāro paripatī”ti.
+1.8\. Assosuṁ kho bhikkhū tassa brāhmaṇassa ujjhāyantassa khiyyantassa vipācentassa. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā channo katapariyositaṁ vihāraṁ punappunaṁ chādāpessati, punappunaṁ lepāpessati, atibhārito vihāro paripatī”ti.
 
-Atha kho te bhikkhū āyasmantaṁ channaṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, channa, katapariyositaṁ vihāraṁ punappunaṁ chādāpesi, punappunaṁ lepāpesi, atibhārito vihāro paripatī”ti?
+1.11\. Atha kho te bhikkhū āyasmantaṁ channaṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, channa, katapariyositaṁ vihāraṁ punappunaṁ chādāpesi, punappunaṁ lepāpesi, atibhārito vihāro paripatī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.13\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, katapariyositaṁ vihāraṁ punappunaṁ chādāpessasi, punappunaṁ lepāpessasi, atibhārito vihāro paripati. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.14\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, katapariyositaṁ vihāraṁ punappunaṁ chādāpessasi, punappunaṁ lepāpessasi, atibhārito vihāro paripati. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Mahallakaṁ pana bhikkhunā vihāraṁ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṁ appaharite ṭhitena adhiṭṭhātabbaṁ. Tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya pācittiyan”ti.
+1.18\. “Mahallakaṁ pana bhikkhunā vihāraṁ kārayamānena yāva dvārakosā aggaḷaṭṭhapanāya ālokasandhiparikammāya dvatticchadanassa pariyāyaṁ appaharite ṭhitena adhiṭṭhātabbaṁ. Tato ce uttari appaharitepi ṭhito adhiṭṭhaheyya pācittiyan”ti.
 
-2\. **Mahallako nāma vihāro**
+2.1\. **Mahallako nāma vihāro**
 
 > sassāmiko vuccati.
 
@@ -48,10 +48,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, katapariy
 
 > iṭṭhakāya chādentassa iṭṭhakiṭṭhakāya āpatti pācittiyassa. Silāya chādentassa silāya silāya āpatti pācittiyassa. Sudhāya chādentassa piṇḍe piṇḍe āpatti pācittiyassa. Tiṇena chādentassa karaḷe karaḷe āpatti pācittiyassa. Paṇṇena chādentassa paṇṇe paṇṇe āpatti pācittiyassa.
 
-Atirekadvattipariyāye atirekasaññī adhiṭṭhāti, āpatti pācittiyassa. Atirekadvattipariyāye vematiko adhiṭṭhāti, āpatti pācittiyassa. Atirekadvattipariyāye ūnakasaññī adhiṭṭhāti, āpatti pācittiyassa.
+2.2\. Atirekadvattipariyāye atirekasaññī adhiṭṭhāti, āpatti pācittiyassa. Atirekadvattipariyāye vematiko adhiṭṭhāti, āpatti pācittiyassa. Atirekadvattipariyāye ūnakasaññī adhiṭṭhāti, āpatti pācittiyassa.
 
 Ūnakadvattipariyāye atirekasaññī, āpatti dukkaṭassa. Ūnakadvattipariyāye vematiko, āpatti dukkaṭassa. Ūnakadvattipariyāye ūnakasaññī, anāpatti.
 
-Anāpatti— dvattipariyāye, ūnakadvattipariyāye, leṇe, guhāya, tiṇakuṭikāya, aññassatthāya, attano dhanena, vāsāgāraṁ ṭhapetvā sabbattha anāpatti, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— dvattipariyāye, ūnakadvattipariyāye, leṇe, guhāya, tiṇakuṭikāya, aññassatthāya, attano dhanena, vāsāgāraṁ ṭhapetvā sabbattha anāpatti, ummattakassa, ādikammikassāti.
 
 Mahallakavihārasikkhāpadaṁ niṭṭhitaṁ navamaṁ.

@@ -4,17 +4,17 @@
 
 # 10. Pathavīkhaṇanasikkhāpada
 
-1\. Tena samayena buddho bhagavā āḷaviyaṁ viharati aggāḷave cetiye. Tena kho pana samayena āḷavakā bhikkhū navakammaṁ karontā pathaviṁ khaṇantipi khaṇāpentipi. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā pathaviṁ khaṇissantipi khaṇāpessantipi. Ekindriyaṁ samaṇā sakyaputtiyā jīvaṁ viheṭhentī”ti.
+1.1\. Tena samayena buddho bhagavā āḷaviyaṁ viharati aggāḷave cetiye. Tena kho pana samayena āḷavakā bhikkhū navakammaṁ karontā pathaviṁ khaṇantipi khaṇāpentipi. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā pathaviṁ khaṇissantipi khaṇāpessantipi. Ekindriyaṁ samaṇā sakyaputtiyā jīvaṁ viheṭhentī”ti.
 
-Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āḷavakā bhikkhū pathaviṁ khaṇissantipi khaṇāpessantipī”ti …pe… “saccaṁ kira tumhe, bhikkhave, pathaviṁ khaṇathapi khaṇāpethapī”ti?
+1.6\. Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āḷavakā bhikkhū pathaviṁ khaṇissantipi khaṇāpessantipī”ti …pe… “saccaṁ kira tumhe, bhikkhave, pathaviṁ khaṇathapi khaṇāpethapī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.10\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, pathaviṁ khaṇissathapi khaṇāpessathapi. Jīvasaññino hi, moghapurisā, manussā pathaviyā. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.11\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, pathaviṁ khaṇissathapi khaṇāpessathapi. Jīvasaññino hi, moghapurisā, manussā pathaviyā. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyan”ti.
+1.16\. “Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -42,7 +42,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, pathavi�
 
 > aññaṁ āṇāpeti, āpatti pācittiyassa. Sakiṁ āṇatto bahukampi khaṇati, āpatti pācittiyassa.
 
-Pathaviyā pathavisaññī khaṇati vā khaṇāpeti vā, bhindati vā bhedāpeti vā, dahati vā dahāpeti vā, āpatti pācittiyassa.
+2.2\. Pathaviyā pathavisaññī khaṇati vā khaṇāpeti vā, bhindati vā bhedāpeti vā, dahati vā dahāpeti vā, āpatti pācittiyassa.
 
 Pathaviyā vematiko khaṇati vā khaṇāpeti vā, bhindati vā bhedāpeti vā, dahati vā dahāpeti vā, āpatti dukkaṭassa.
 
@@ -50,7 +50,7 @@ Pathaviyā apathavisaññī khaṇati vā khaṇāpeti vā, bhindati vā bhedāp
 
 Apathaviyā pathavisaññī, āpatti dukkaṭassa. Apathaviyā vematiko, āpatti dukkaṭassa. Apathaviyā apathavisaññī, anāpatti.
 
-Anāpatti— “imaṁ jāna, imaṁ dehi, imaṁ āhara, iminā attho, imaṁ kappiyaṁ karohī”ti bhaṇati, asañcicca, asatiyā, ajānantassa, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— “imaṁ jāna, imaṁ dehi, imaṁ āhara, iminā attho, imaṁ kappiyaṁ karohī”ti bhaṇati, asañcicca, asatiyā, ajānantassa, ummattakassa, ādikammikassāti.
 
 Pathavīkhaṇanasikkhāpadaṁ niṭṭhitaṁ dasamaṁ.
 

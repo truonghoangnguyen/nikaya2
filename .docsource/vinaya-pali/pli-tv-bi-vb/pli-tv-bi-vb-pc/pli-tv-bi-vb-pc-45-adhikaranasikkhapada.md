@@ -4,17 +4,17 @@
 
 # 45. Adhikaraṇasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññatarā bhikkhunī thullanandaṁ bhikkhuniṁ upasaṅkamitvā etadavoca— “ehāyye, imaṁ adhikaraṇaṁ vūpasamehī”ti. Thullanandā bhikkhunī— “sādhū”ti paṭissuṇitvā, neva vūpasameti na vūpasamāya ussukkaṁ karoti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññatarā bhikkhunī thullanandaṁ bhikkhuniṁ upasaṅkamitvā etadavoca— “ehāyye, imaṁ adhikaraṇaṁ vūpasamehī”ti. Thullanandā bhikkhunī— “sādhū”ti paṭissuṇitvā, neva vūpasameti na vūpasamāya ussukkaṁ karoti.
 
-Atha kho sā bhikkhunī bhikkhunīnaṁ etamatthaṁ ārocesi. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā bhikkhuniyā— ‘ehāyye, imaṁ adhikaraṇaṁ vūpasamehī’ti vuccamānā— ‘sādhū’ti paṭissuṇitvā, neva vūpasamessati na vūpasamāya ussukkaṁ karissatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī bhikkhuniyā— ‘ehāyye, imaṁ adhikaraṇaṁ vūpasamehī’ti vuccamānā— ‘sādhū’ti paṭissuṇitvā, neva vūpasameti na vūpasamāya ussukkaṁ karotī”ti?
+1.6\. Atha kho sā bhikkhunī bhikkhunīnaṁ etamatthaṁ ārocesi. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā bhikkhuniyā— ‘ehāyye, imaṁ adhikaraṇaṁ vūpasamehī’ti vuccamānā— ‘sādhū’ti paṭissuṇitvā, neva vūpasamessati na vūpasamāya ussukkaṁ karissatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī bhikkhuniyā— ‘ehāyye, imaṁ adhikaraṇaṁ vūpasamehī’ti vuccamānā— ‘sādhū’ti paṭissuṇitvā, neva vūpasameti na vūpasamāya ussukkaṁ karotī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.14\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī bhikkhuniyā— ‘ehāyye, imaṁ adhikaraṇaṁ vūpasamehī’ti vuccamānā— ‘sādhū’ti paṭissuṇitvā, neva vūpasamessati na vūpasamāya ussukkaṁ karissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.15\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī bhikkhuniyā— ‘ehāyye, imaṁ adhikaraṇaṁ vūpasamehī’ti vuccamānā— ‘sādhū’ti paṭissuṇitvā, neva vūpasamessati na vūpasamāya ussukkaṁ karissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī bhikkhuniyā—‘ehāyye, imaṁ adhikaraṇaṁ vūpasamehī’ti vuccamānā—‘sādhū’ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya na vūpasamāya ussukkaṁ kareyya, pācittiyan”ti.
+1.21\. “Yā pana bhikkhunī bhikkhuniyā—‘ehāyye, imaṁ adhikaraṇaṁ vūpasamehī’ti vuccamānā—‘sādhū’ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya na vūpasamāya ussukkaṁ kareyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -48,10 +48,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 “Neva vūpasamessāmi na vūpasamāya ussukkaṁ karissāmī”ti dhuraṁ nikkhittamatte, āpatti pācittiyassa.
 
-Upasampannāya upasampannasaññā adhikaraṇaṁ neva vūpasameti na vūpasamāya ussukkaṁ karoti, āpatti pācittiyassa. Upasampannāya vematikā adhikaraṇaṁ neva vūpasameti, na vūpasamāya ussukkaṁ karoti, āpatti pācittiyassa. Upasampannāya anupasampannasaññā adhikaraṇaṁ neva vūpasameti, na vūpasamāya ussukkaṁ karoti, āpatti pācittiyassa.
+2.2\. Upasampannāya upasampannasaññā adhikaraṇaṁ neva vūpasameti na vūpasamāya ussukkaṁ karoti, āpatti pācittiyassa. Upasampannāya vematikā adhikaraṇaṁ neva vūpasameti, na vūpasamāya ussukkaṁ karoti, āpatti pācittiyassa. Upasampannāya anupasampannasaññā adhikaraṇaṁ neva vūpasameti, na vūpasamāya ussukkaṁ karoti, āpatti pācittiyassa.
 
 Anupasampannāya adhikaraṇaṁ neva vūpasameti, na vūpasamāya ussukkaṁ karoti, āpatti dukkaṭassa. Anupasampannāya upasampannasaññā, āpatti dukkaṭassa. Anupasampannāya vematikā, āpatti dukkaṭassa. Anupasampannāya anupasampannasaññā, āpatti dukkaṭassa.
 
-Anāpatti— sati antarāye, pariyesitvā na labhati, gilānāya, āpadāsu, ummattikāya, ādikammikāyāti.
+2.3\. Anāpatti— sati antarāye, pariyesitvā na labhati, gilānāya, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Pañcamasikkhāpadaṁ niṭṭhitaṁ.

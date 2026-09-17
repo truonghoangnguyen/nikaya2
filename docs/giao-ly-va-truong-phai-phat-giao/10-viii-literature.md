@@ -163,3 +163,17 @@ The most comprehensive modern compendium of Buddhism which examines its origin, 
 Information on Buddhism in Germany is supplied in:
 
 H. W. Schumann, *Buddhism and Buddhist Studies in Germany*, Godesberg 1972.
+---
+Vin I = Mahāvagga (Đại phẩm)
+Vin II = Cullavagga (Tiểu phẩm)
+Vin III = Suttavibhaṅga, phần 1 (Pārājika, Saṅghādisesa)
+Vin IV = Suttavibhaṅga, phần 2 (Pācittiya...)
+Vin V = Parivāra
+
+docs/vinaya-vi/kd/mv	Mahāvagga (Đại phẩm)	Vin I
+docs/vinaya-vi/kd/cv	Cullavagga (Tiểu phẩm)	Vin II
+docs/vinaya-vi/sv/bu	Bhikkhuvibhaṅga (Giới bổn Tỳ-kheo)	Vin III (Pārājika, Saṅghādisesa, Aniyata) + Vin IV (từ Nissaggiya Pācittiya → Sekhiya, Adhikaraṇasamatha)
+docs/vinaya-vi/sv/bi	Bhikkhunīvibhaṅga (Giới bổn Tỳ-kheo-ni)	nằm trọn trong Vin IV
+docs/vinaya-vi/pvr	Parivāra (Tập yếu)	Vin V
+
+(Một điểm cần lưu ý: ranh giới sv/bu không khớp gọn với ranh giới Vin III/Vin IV — bản PTS cắt ngay giữa Bhikkhuvibhaṅga (Vin III dừng ở hết Aniyata, Vin IV tiếp tục từ Nissaggiya Pācittiya), trong khi thư mục sv/bu của anh chứa trọn cả hai phần đó làm một. Nên nếu gặp trích dẫn "Vin III" hay "Vin IV" trỏ vào giới bổn Tỳ-kheo, cả hai đều rơi vào sv/bu, chỉ khác vị trí (đầu file hay cuối file). Còn sv/bi thì luôn tương ứng Vin IV trọn vẹn, không lẫn Vin III.)

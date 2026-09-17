@@ -4,7 +4,7 @@
 
 # 84. Chattupāhanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo chattupāhanaṁ dhārenti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo chattupāhanaṁ dhāressanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo chattupāhanaṁ dhārenti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo chattupāhanaṁ dhāressanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
 
 Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo chattupāhanaṁ dhāressantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo chattupāhanaṁ dhārentī”ti?
 
@@ -16,7 +16,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikk
 
 Evañcidaṁ bhagavatā bhikkhunīnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
-Tena kho pana samayena aññatarā bhikkhunī gilānā hoti. Tassā vinā chattupāhanaṁ na phāsu hoti …pe… bhagavato etamatthaṁ ārocesuṁ …pe…
+1.2\. Tena kho pana samayena aññatarā bhikkhunī gilānā hoti. Tassā vinā chattupāhanaṁ na phāsu hoti …pe… bhagavato etamatthaṁ ārocesuṁ …pe…
 
 anujānāmi, bhikkhave, gilānāya bhikkhuniyā chattupāhanaṁ.
 
@@ -24,7 +24,7 @@ Evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
 “Yā pana bhikkhunī agilānā chattupāhanaṁ dhāreyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -48,10 +48,10 @@ Evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
 > sakimpi dhāreti, āpatti pācittiyassa.
 
-Agilānā agilānasaññā chattupāhanaṁ dhāreti, āpatti pācittiyassa. Agilānā vematikā chattupāhanaṁ dhāreti, āpatti pācittiyassa. Agilānā gilānasaññā chattupāhanaṁ dhāreti, āpatti pācittiyassa.
+2.2\. Agilānā agilānasaññā chattupāhanaṁ dhāreti, āpatti pācittiyassa. Agilānā vematikā chattupāhanaṁ dhāreti, āpatti pācittiyassa. Agilānā gilānasaññā chattupāhanaṁ dhāreti, āpatti pācittiyassa.
 
 Chattaṁ dhāreti na upāhanaṁ, āpatti dukkaṭassa. Upāhanaṁ dhāreti na chattaṁ, āpatti dukkaṭassa. Gilānā agilānasaññā, āpatti dukkaṭassa. Gilānā vematikā, āpatti dukkaṭassa. Gilānā gilānasaññā, anāpatti.
 
-Anāpatti— gilānāya, ārāme ārāmūpacāre dhāreti, āpadāsu, ummattikāya, ādikammikāyāti.
+2.3\. Anāpatti— gilānāya, ārāme ārāmūpacāre dhāreti, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Paṭhamasikkhāpadaṁ niṭṭhitaṁ.

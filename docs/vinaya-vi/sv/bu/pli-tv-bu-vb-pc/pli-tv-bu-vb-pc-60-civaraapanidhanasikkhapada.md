@@ -4,21 +4,21 @@
 
 # 60. Cīvaraapanidhānasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sattarasavaggiyā bhikkhū asannihitaparikkhārā honti. Chabbaggiyā bhikkhū sattarasavaggiyānaṁ bhikkhūnaṁ pattampi cīvarampi apanidhenti. Sattarasavaggiyā bhikkhū chabbaggiye bhikkhū etadavocuṁ— “dethāvuso, amhākaṁ pattampi cīvarampī”ti. Chabbaggiyā bhikkhū hasanti, te rodanti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sattarasavaggiyā bhikkhū asannihitaparikkhārā honti. Chabbaggiyā bhikkhū sattarasavaggiyānaṁ bhikkhūnaṁ pattampi cīvarampi apanidhenti. Sattarasavaggiyā bhikkhū chabbaggiye bhikkhū etadavocuṁ— “dethāvuso, amhākaṁ pattampi cīvarampī”ti. Chabbaggiyā bhikkhū hasanti, te rodanti.
 
-Bhikkhū evamāhaṁsu— “kissa tumhe, āvuso, rodathā”ti?
+1.7\. Bhikkhū evamāhaṁsu— “kissa tumhe, āvuso, rodathā”ti?
 
-“Ime, āvuso, chabbaggiyā bhikkhū amhākaṁ pattampi cīvarampi apanidhentī”ti.
+1.9\. “Ime, āvuso, chabbaggiyā bhikkhū amhākaṁ pattampi cīvarampi apanidhentī”ti.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū bhikkhūnaṁ pattampi cīvarampi apanidhessantī”ti …pe… “saccaṁ kira tumhe, bhikkhave, bhikkhūnaṁ pattampi cīvarampi apanidhethā”ti?
+1.10\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū bhikkhūnaṁ pattampi cīvarampi apanidhessantī”ti …pe… “saccaṁ kira tumhe, bhikkhave, bhikkhūnaṁ pattampi cīvarampi apanidhethā”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.13\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhūnaṁ pattampi cīvarampi apanidhessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.14\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhūnaṁ pattampi cīvarampi apanidhessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu bhikkhussa pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkhopi, pācittiyan”ti.
+1.18\. “Yo pana bhikkhu bhikkhussa pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheyya vā apanidhāpeyya vā, antamaso hasāpekkhopi, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -62,13 +62,13 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhūn
 
 > kīḷādhippāyo.
 
-Upasampanne upasampannasaññī pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti pācittiyassa. Upasampanne vematiko …pe… upasampanne anupasampannasaññī pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti pācittiyassa.
+2.2\. Upasampanne upasampannasaññī pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti pācittiyassa. Upasampanne vematiko …pe… upasampanne anupasampannasaññī pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti pācittiyassa.
 
 Aññaṁ parikkhāraṁ apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti dukkaṭassa. Anupasampannassa pattaṁ vā cīvaraṁ vā aññaṁ vā parikkhāraṁ apanidheti vā apanidhāpeti vā, antamaso hasāpekkhopi, āpatti dukkaṭassa.
 
 Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko, āpatti dukkaṭassa. Anupasampanne anupasampannasaññī, āpatti dukkaṭassa.
 
-Anāpatti— nahasādhippāyo, dunnikkhittaṁ paṭisāmeti, “dhammiṁ kathaṁ katvā dassāmī”ti paṭisāmeti, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— nahasādhippāyo, dunnikkhittaṁ paṭisāmeti, “dhammiṁ kathaṁ katvā dassāmī”ti paṭisāmeti, ummattakassa, ādikammikassāti.
 
 Cīvaraapanidhānasikkhāpadaṁ niṭṭhitaṁ dasamaṁ.
 

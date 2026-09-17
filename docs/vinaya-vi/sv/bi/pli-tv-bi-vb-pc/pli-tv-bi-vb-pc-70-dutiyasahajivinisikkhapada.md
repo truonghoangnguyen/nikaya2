@@ -4,17 +4,17 @@
 
 # 70. Dutiyasahajīvinīsikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāseti na vūpakāsāpeti. Sāmiko aggahesi.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāseti na vūpakāsāpeti. Sāmiko aggahesi.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā sahajīviniṁ vuṭṭhāpetvā neva vūpakāsessati na vūpakāsāpessati, sāmiko aggahesi. Sacāyaṁ bhikkhunī pakkantā assa, na ca sāmiko gaṇheyyā”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāseti na vūpakāsāpeti, sāmiko aggahesī”ti?
+1.4\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā sahajīviniṁ vuṭṭhāpetvā neva vūpakāsessati na vūpakāsāpessati, sāmiko aggahesi. Sacāyaṁ bhikkhunī pakkantā assa, na ca sāmiko gaṇheyyā”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāseti na vūpakāsāpeti, sāmiko aggahesī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.8\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāsessati na vūpakāsāpessati, sāmiko aggahesi. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.9\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāsessati na vūpakāsāpessati, sāmiko aggahesi. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyan”ti.
+1.13\. “Yā pana bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -38,7 +38,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 > na aññaṁ āṇāpeyya. “Neva vūpakāsessāmi na vūpakāsāpessāmi antamaso chappañcayojanānipī”ti dhuraṁ nikkhittamatte āpatti pācittiyassa.
 
-Anāpatti— sati antarāye, pariyesitvā dutiyikaṁ bhikkhuniṁ na labhati, gilānāya, āpadāsu, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— sati antarāye, pariyesitvā dutiyikaṁ bhikkhuniṁ na labhati, gilānāya, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Dasamasikkhāpadaṁ niṭṭhitaṁ.
 

@@ -4,17 +4,17 @@
 
 # 69. Ukkhittasambhogasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū jānaṁ tathāvādinā ariṭṭhena bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjantipi saṁvasantipi sahāpi seyyaṁ kappenti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū jānaṁ tathāvādinā ariṭṭhena bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjantipi saṁvasantipi sahāpi seyyaṁ kappenti.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū jānaṁ tathāvādinā ariṭṭhena bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjissantipi saṁvasissantipi sahāpi seyyaṁ kappessantī”ti …pe… “saccaṁ kira tumhe, bhikkhave, jānaṁ tathāvādinā ariṭṭhena bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjathāpi saṁvasathāpi sahāpi seyyaṁ kappethā”ti?
+1.3\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū jānaṁ tathāvādinā ariṭṭhena bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjissantipi saṁvasissantipi sahāpi seyyaṁ kappessantī”ti …pe… “saccaṁ kira tumhe, bhikkhave, jānaṁ tathāvādinā ariṭṭhena bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjathāpi saṁvasathāpi sahāpi seyyaṁ kappethā”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.6\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, jānaṁ tathāvādinā ariṭṭhena bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjissathāpi saṁvasissathāpi sahāpi seyyaṁ kappessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.7\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, jānaṁ tathāvādinā ariṭṭhena bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjissathāpi saṁvasissathāpi sahāpi seyyaṁ kappessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu jānaṁ tathāvādinā bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjeyya vā saṁvaseyya vā saha vā seyyaṁ kappeyya, pācittiyan”ti.
+1.11\. “Yo pana bhikkhu jānaṁ tathāvādinā bhikkhunā akaṭānudhammena taṁ diṭṭhiṁ appaṭinissaṭṭhena saddhiṁ sambhuñjeyya vā saṁvaseyya vā saha vā seyyaṁ kappeyya, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -58,10 +58,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, jānaṁ 
 
 > ekacchanne ukkhittake nipanne bhikkhu nipajjati, āpatti pācittiyassa. Bhikkhu nipanne ukkhittako nipajjati, āpatti pācittiyassa. Ubho vā nipajjanti, āpatti pācittiyassa. Uṭṭhahitvā punappunaṁ nipajjanti, āpatti pācittiyassa.
 
-Ukkhittake ukkhittakasaññī sambhuñjati vā saṁvasati vā saha vā seyyaṁ kappeti, āpatti pācittiyassa. Ukkhittake vematiko sambhuñjati vā saṁvasati vā saha vā seyyaṁ kappeti, āpatti dukkaṭassa. Ukkhittake anukkhittakasaññī sambhuñjati vā saṁvasati vā saha vā seyyaṁ kappeti, anāpatti.
+2.2\. Ukkhittake ukkhittakasaññī sambhuñjati vā saṁvasati vā saha vā seyyaṁ kappeti, āpatti pācittiyassa. Ukkhittake vematiko sambhuñjati vā saṁvasati vā saha vā seyyaṁ kappeti, āpatti dukkaṭassa. Ukkhittake anukkhittakasaññī sambhuñjati vā saṁvasati vā saha vā seyyaṁ kappeti, anāpatti.
 
 Anukkhittake ukkhittakasaññī, āpatti dukkaṭassa. Anukkhittake vematiko, āpatti dukkaṭassa. Anukkhittake anukkhittakasaññī, anāpatti.
 
-Anāpatti— anukkhittoti jānāti, ukkhitto osāritoti jānāti, taṁ diṭṭhiṁ paṭinissaṭṭhoti jānāti, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— anukkhittoti jānāti, ukkhitto osāritoti jānāti, taṁ diṭṭhiṁ paṭinissaṭṭhoti jānāti, ummattakassa, ādikammikassāti.
 
 Ukkhittasambhogasikkhāpadaṁ niṭṭhitaṁ navamaṁ.

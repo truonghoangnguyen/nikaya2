@@ -6,17 +6,17 @@
 
 Ime kho panāyyāyo tiṁsa nissaggiyā pācittiyā dhammā uddesaṁ āgacchanti.
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo bahū patte sannicayaṁ karonti. Manussā vihāracārikaṁ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo bahū patte sannicayaṁ karissanti, pattavāṇijjaṁ vā bhikkhuniyo karissanti, āmattikāpaṇaṁ vā pasāressantī”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo bahū patte sannicayaṁ karonti. Manussā vihāracārikaṁ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo bahū patte sannicayaṁ karissanti, pattavāṇijjaṁ vā bhikkhuniyo karissanti, āmattikāpaṇaṁ vā pasāressantī”ti.
 
-Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo pattasannicayaṁ karissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo pattasannicayaṁ karontī”ti?
+1.5\. Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo pattasannicayaṁ karissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo pattasannicayaṁ karontī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo pattasannicayaṁ karissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo pattasannicayaṁ karissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī pattasannicayaṁ kareyya, nissaggiyaṁ pācittiyan”ti.
+1.14\. “Yā pana bhikkhunī pattasannicayaṁ kareyya, nissaggiyaṁ pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -72,14 +72,14 @@ Nissajjitvā āpatti desetabbā. Tāya bhikkhuniyā āpatti paṭiggahetabbā. N
 
 “imaṁ pattaṁ ayyāya dammī”ti.
 
-Rattātikkante atikkantasaññā, nissaggiyaṁ pācittiyaṁ. Rattātikkante vematikā, nissaggiyaṁ pācittiyaṁ. Rattātikkante anatikkantasaññā, nissaggiyaṁ pācittiyaṁ. Anadhiṭṭhite adhiṭṭhitasaññā, nissaggiyaṁ pācittiyaṁ. Avikappite vikappitasaññā, nissaggiyaṁ pācittiyaṁ. Avissajjite vissajjitasaññā, nissaggiyaṁ pācittiyaṁ. Anaṭṭhe naṭṭhasaññā … avinaṭṭhe vinaṭṭhasaññā … abhinne bhinnasaññā … avilutte viluttasaññā, nissaggiyaṁ pācittiyaṁ.
+2.2\. Rattātikkante atikkantasaññā, nissaggiyaṁ pācittiyaṁ. Rattātikkante vematikā, nissaggiyaṁ pācittiyaṁ. Rattātikkante anatikkantasaññā, nissaggiyaṁ pācittiyaṁ. Anadhiṭṭhite adhiṭṭhitasaññā, nissaggiyaṁ pācittiyaṁ. Avikappite vikappitasaññā, nissaggiyaṁ pācittiyaṁ. Avissajjite vissajjitasaññā, nissaggiyaṁ pācittiyaṁ. Anaṭṭhe naṭṭhasaññā … avinaṭṭhe vinaṭṭhasaññā … abhinne bhinnasaññā … avilutte viluttasaññā, nissaggiyaṁ pācittiyaṁ.
 
 Nissaggiyaṁ pattaṁ anissajjitvā paribhuñjati, āpatti dukkaṭassa. Rattānatikkante atikkantasaññā, āpatti dukkaṭassa. Rattānatikkante vematikā, āpatti dukkaṭassa. Rattānatikkante anatikkantasaññā anāpatti.
 
-Anāpatti— antoaruṇe adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, bhijjati, acchinditvā gaṇhanti, vissāsaṁ gaṇhanti, ummattikāya, ādikammikāyāti.
+2.3\. Anāpatti— antoaruṇe adhiṭṭheti, vikappeti, vissajjeti, nassati, vinassati, bhijjati, acchinditvā gaṇhanti, vissāsaṁ gaṇhanti, ummattikāya, ādikammikāyāti.
 
-3\. Tena kho pana samayena chabbaggiyā bhikkhuniyo nissaṭṭhapattaṁ na denti. Bhagavato etamatthaṁ ārocesuṁ.
+3.1\. Tena kho pana samayena chabbaggiyā bhikkhuniyo nissaṭṭhapattaṁ na denti. Bhagavato etamatthaṁ ārocesuṁ.
 
-“Na, bhikkhave, nissaṭṭhapatto na dātabbo. Yā na dadeyya, āpatti dukkaṭassā”ti.
+3.3\. “Na, bhikkhave, nissaṭṭhapatto na dātabbo. Yā na dadeyya, āpatti dukkaṭassā”ti.
 
-Paṭhamasikkhāpadaṁ niṭṭhitaṁ.
+3.5\. Paṭhamasikkhāpadaṁ niṭṭhitaṁ.

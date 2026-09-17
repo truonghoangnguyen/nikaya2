@@ -4,19 +4,19 @@
 
 # 3. Pesuññasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ pesuññaṁ upasaṁharanti; imassa sutvā amussa akkhāyanti, imassa bhedāya; amussa sutvā imassa akkhāyanti, amussa bhedāya. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ pesuññaṁ upasaṁharanti; imassa sutvā amussa akkhāyanti, imassa bhedāya; amussa sutvā imassa akkhāyanti, amussa bhedāya. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ pesuññaṁ upasaṁharissanti, imassa sutvā amussa akkhāyissanti, imassa bhedāya; amussa sutvā imassa akkhāyissanti, amussa bhedāya. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattantī”ti.
+1.5\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ pesuññaṁ upasaṁharissanti, imassa sutvā amussa akkhāyissanti, imassa bhedāya; amussa sutvā imassa akkhāyissanti, amussa bhedāya. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattantī”ti.
 
-Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ pesuññaṁ upasaṁharatha, imassa sutvā amussa akkhāyatha, imassa bhedāya, amussa sutvā imassa akkhāyatha, amussa bhedāya? Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattantī”ti?
+1.9\. Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ pesuññaṁ upasaṁharatha, imassa sutvā amussa akkhāyatha, imassa bhedāya, amussa sutvā imassa akkhāyatha, amussa bhedāya? Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattantī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.12\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ pesuññaṁ upasaṁharissatha. Imassa sutvā amussa akkhāyissatha, imassa bhedāya. Amussa sutvā imassa akkhāyissatha, amussa bhedāya. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya. Pasannānaṁ vā bhiyyobhāvāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.13\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ pesuññaṁ upasaṁharissatha. Imassa sutvā amussa akkhāyissatha, imassa bhedāya. Amussa sutvā imassa akkhāyissatha, amussa bhedāya. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya. Pasannānaṁ vā bhiyyobhāvāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Bhikkhupesuññe pācittiyan”ti.
+1.20\. “Bhikkhupesuññe pācittiyan”ti.
 
-2\. **Pesuññaṁ nāma**
+2.1\. **Pesuññaṁ nāma**
 
 > dvīhākārehi pesuññaṁ hoti— piyakamyassa vā bhedādhippāyassa vā. Dasahākārehi pesuññaṁ upasaṁharati— jātitopi, nāmatopi, gottatopi, kammatopi, sippatopi, ābādhatopi, liṅgatopi, kilesatopi, āpattitopi, akkosatopi.
 
@@ -46,7 +46,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhūn
 
 > “paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi; natthi tuyhaṁ duggati; sugatiyeva tuyhaṁ pāṭikaṅkhā”ti. Eso ukkaṭṭho nāma akkoso.
 
-Upasampanno upasampannassa sutvā upasampannassa pesuññaṁ upasaṁharati— “itthannāmo taṁ ‘caṇḍālo veno nesādo rathakāro pukkuso’ti bhaṇatī”ti. Āpatti vācāya, vācāya pācittiyassa.
+2.2\. Upasampanno upasampannassa sutvā upasampannassa pesuññaṁ upasaṁharati— “itthannāmo taṁ ‘caṇḍālo veno nesādo rathakāro pukkuso’ti bhaṇatī”ti. Āpatti vācāya, vācāya pācittiyassa.
 
 Upasampanno upasampannassa sutvā upasampannassa pesuññaṁ upasaṁharati— “itthannāmo taṁ ‘khattiyo brāhmaṇo’ti bhaṇatī”ti. Āpatti vācāya, vācāya pācittiyassa.
 
@@ -100,7 +100,7 @@ Upasampanno upasampannassa sutvā upasampannassa pesuññaṁ upasaṁharati— 
 
 Upasampanno upasampannassa sutvā upasampannassa pesuññaṁ upasaṁharati— “itthannāmo ‘na mayaṁ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṁ duggati, sugatiyeva amhākaṁ pāṭikaṅkhā’ti bhaṇati, na so aññaṁ bhaṇati, taññeva bhaṇatī”ti. Āpatti vācāya, vācāya dukkaṭassa.
 
-Upasampanno upasampannassa sutvā upasampannassa pesuññaṁ upasaṁharati; āpatti vācāya, vācāya pācittiyassa.
+2.3\. Upasampanno upasampannassa sutvā upasampannassa pesuññaṁ upasaṁharati; āpatti vācāya, vācāya pācittiyassa.
 
 Upasampanno upasampannassa sutvā anupasampannassa pesuññaṁ upasaṁharati, āpatti dukkaṭassa.
 
@@ -108,6 +108,6 @@ Upasampanno anupasampannassa sutvā upasampannassa pesuññaṁ upasaṁharati, 
 
 Upasampanno anupasampannassa sutvā anupasampannassa pesuññaṁ upasaṁharati, āpatti dukkaṭassa.
 
-Anāpatti— napiyakamyassa, nabhedādhippāyassa, ummattakassa, ādikammikassāti.
+2.4\. Anāpatti— napiyakamyassa, nabhedādhippāyassa, ummattakassa, ādikammikassāti.
 
 Pesuññasikkhāpadaṁ niṭṭhitaṁ tatiyaṁ.

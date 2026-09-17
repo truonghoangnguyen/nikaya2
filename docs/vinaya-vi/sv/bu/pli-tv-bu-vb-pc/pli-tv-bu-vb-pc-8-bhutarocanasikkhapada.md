@@ -4,7 +4,7 @@
 
 # 8. Bhūtārocanasikkhāpada
 
-1\. Tena samayena buddho bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena sambahulā sandiṭṭhā sambhattā bhikkhū vaggumudāya nadiyā tīre vassaṁ upagacchiṁsu. Tena kho pana samayena vajjī dubbhikkhā hoti—dvīhitikā setaṭṭhikā salākāvuttā, na sukarā uñchena paggahena yāpetuṁ.
+1.1\. Tena samayena buddho bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena sambahulā sandiṭṭhā sambhattā bhikkhū vaggumudāya nadiyā tīre vassaṁ upagacchiṁsu. Tena kho pana samayena vajjī dubbhikkhā hoti—dvīhitikā setaṭṭhikā salākāvuttā, na sukarā uñchena paggahena yāpetuṁ.
 
 Atha kho tesaṁ bhikkhūnaṁ etadahosi—“etarahi kho vajjī dubbhikkhā—dvīhitikā setaṭṭhikā salākāvuttā, na sukarā uñchena paggahena yāpetuṁ. Kena nu kho mayaṁ upāyena samaggā sammodamānā avivadamānā phāsukaṁ vassaṁ vaseyyāma, na ca piṇḍakena kilameyyāmā”ti?
 
@@ -16,7 +16,7 @@ Ekacce evamāhaṁsu—“alaṁ, āvuso; kiṁ gihīnaṁ kammantaṁ adhiṭ�
 
 Atha kho te bhikkhū gihīnaṁ aññamaññassa uttarimanussadhammassa vaṇṇaṁ bhāsiṁsu— “asuko bhikkhu paṭhamassa jhānassa lābhī …pe… asuko bhikkhu chaḷabhiñño”ti. Atha kho te manussā—“lābhā vata no, suladdhaṁ vata no, yesaṁ no evarūpā bhikkhū vassaṁ upagatā, na vata no ito pubbe evarūpā bhikkhū vassaṁ upagatā, yathayime bhikkhū sīlavanto kalyāṇadhammā”ti. Te na tādisāni bhojanāni attanā bhuñjanti, mātāpitūnaṁ denti puttadārassa denti dāsakammakaraporisassa denti mittāmaccānaṁ denti ñātisālohitānaṁ denti yādisāni bhikkhūnaṁ denti. Na tādisāni khādanīyāni sāyanīyāni pānāni attanā khādanti sāyanti pivanti mātāpitūnaṁ denti puttadārassa denti dāsakammakaraporisassa denti mittāmaccānaṁ denti ñātisālohitānaṁ denti, yādisāni bhikkhūnaṁ denti. Atha kho te bhikkhū vaṇṇavā ahesuṁ pīṇindriyā pasannamukhavaṇṇā vippasannachavivaṇṇā.
 
-Āciṇṇaṁ kho panetaṁ vassaṁvuṭṭhānaṁ bhikkhūnaṁ bhagavantaṁ dassanāya upasaṅkamituṁ. Atha kho te bhikkhū vassaṁvuṭṭhā temāsaccayena senāsanaṁ saṁsāmetvā pattacīvaramādāya yena vesālī tena pakkamiṁsu. Anupubbena yena vesālī mahāvanaṁ kūṭāgārasālā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu.
+1.2\. Āciṇṇaṁ kho panetaṁ vassaṁvuṭṭhānaṁ bhikkhūnaṁ bhagavantaṁ dassanāya upasaṅkamituṁ. Atha kho te bhikkhū vassaṁvuṭṭhā temāsaccayena senāsanaṁ saṁsāmetvā pattacīvaramādāya yena vesālī tena pakkamiṁsu. Anupubbena yena vesālī mahāvanaṁ kūṭāgārasālā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu.
 
 Tena kho pana samayena disāsu vassaṁvuṭṭhā bhikkhū kisā honti lūkhā dubbaṇṇā uppaṇḍuppaṇḍukajātā dhamanisanthatagattā. Vaggumudātīriyā pana bhikkhū vaṇṇavā honti pīṇindriyā pasannamukhavaṇṇā vippasannachavivaṇṇā.
 
@@ -38,7 +38,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, bhikkhave, udarassa kā
 
 “Yo pana bhikkhu anupasampannassa uttarimanussadhammaṁ āroceyya bhūtasmiṁ, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -94,7 +94,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, bhikkhave, udarassa kā
 
 > paṭhamena jhānena suññāgāre abhirati, dutiyena jhānena suññāgāre abhirati, tatiyena jhānena suññāgāre abhirati, catutthena jhānena suññāgāre abhirati.
 
-**Āroceyyāti**
+2.2\. **Āroceyyāti**
 
 > anupasampannassa—“paṭhamaṁ jhānaṁ samāpajjin”ti bhaṇantassa āpatti pācittiyassa.
 
@@ -166,7 +166,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, bhikkhave, udarassa kā
 
 > anupasampannassa— “suññāgāre paṭhamaṁ jhānaṁ …pe… dutiyaṁ jhānaṁ … tatiyaṁ jhānaṁ … catutthaṁ jhānaṁ samāpajjiṁ, samāpajjāmi, samāpanno; suññāgāre catutthassa jhānassa lābhimhi, vasimhi; suññāgāre catutthaṁ jhānaṁ sacchikataṁ mayā”ti bhaṇantassa āpatti pācittiyassa.
 
-**Āroceyyāti**
+2.3\. **Āroceyyāti**
 
 > anupasampannassa— “paṭhamañca jhānaṁ dutiyañca jhānaṁ samāpajjiṁ, samāpajjāmi, samāpanno; paṭhamassa ca jhānassa dutiyassa ca jhānassa lābhimhi, vasimhi; paṭhamañca jhānaṁ dutiyañca jhānaṁ sacchikataṁ mayā”ti bhaṇantassa āpatti pācittiyassa.
 
@@ -240,7 +240,7 @@ Mūlaṁ saṅkhittaṁ.
 
 > anupasampannassa— “paṭhamañca jhānaṁ dutiyañca jhānaṁ tatiyañca jhānaṁ catutthañca jhānaṁ suññatañca vimokkhaṁ animittañca vimokkhaṁ appaṇihitañca vimokkhaṁ suññatañca samādhiṁ animittañca samādhiṁ appaṇihitañca samādhiṁ suññatañca samāpattiṁ animittañca samāpattiṁ appaṇihitañca samāpattiṁ tisso ca vijjā cattāro ca satipaṭṭhāne cattāro ca sammappadhāne cattāro ca iddhipāde pañca ca indriyāni pañca ca balāni satta ca bojjhaṅge ariyañca aṭṭhaṅgikaṁ maggaṁ sotāpattiphalañca sakadāgāmiphalañca anāgāmiphalañca arahattañca samāpajjiṁ …pe… rāgo ca me catto, doso ca me catto, moho ca me catto, vanto, mutto, pahīno, paṭinissaṭṭho, ukkheṭito samukkheṭito, rāgā ca me cittaṁ vinīvaraṇaṁ, dosā ca me cittaṁ vinīvaraṇaṁ, mohā ca me cittaṁ vinīvaraṇan”ti bhaṇantassa āpatti pācittiyassa.
 
-**Āroceyyāti**
+2.4\. **Āroceyyāti**
 
 > anupasampannassa— “paṭhamaṁ jhānaṁ samāpajjin”ti vattukāmo—“dutiyaṁ jhānaṁ samāpajjin”ti bhaṇantassa paṭivijānantassa āpatti pācittiyassa, na paṭivijānantassa āpatti dukkaṭassa.
 
@@ -266,7 +266,7 @@ Mūlaṁ saṅkhittaṁ.
 
 > anupasampannassa— “dutiyañca jhānaṁ tatiyañca jhānaṁ catutthañca jhānaṁ …pe… mohā ca me cittaṁ vinīvaraṇan”ti vattukāmo—“paṭhamaṁ jhānaṁ samāpajjin”ti bhaṇantassa paṭivijānantassa āpatti pācittiyassa, na paṭivijānantassa āpatti dukkaṭassa …pe….
 
-**Āroceyyāti**
+2.5\. **Āroceyyāti**
 
 > anupasampannassa— “yo te vihāre vasi so bhikkhu paṭhamaṁ jhānaṁ samāpajji, samāpajjati, samāpanno; so bhikkhu paṭhamassa jhānassa lābhī, vasī; tena bhikkhunā paṭhamaṁ jhānaṁ sacchikatan”ti bhaṇantassa āpatti dukkaṭassa.
 
@@ -302,6 +302,6 @@ Mūlaṁ saṅkhittaṁ.
 
 > anupasampannassa— “yaṁ tvaṁ āgamma vihāraṁ adāsi …pe… cīvaraṁ adāsi, piṇḍapātaṁ adāsi, senāsanaṁ adāsi, gilānappaccayabhesajjaparikkhāraṁ adāsi so bhikkhu suññāgāre catutthaṁ jhānaṁ samāpajji, samāpajjati, samāpanno; so bhikkhu suññāgāre catutthassa jhānassa lābhī, vasī; tena bhikkhunā suññāgāre catutthaṁ jhānaṁ sacchikatan”ti bhaṇantassa āpatti dukkaṭassa.
 
-Anāpatti— upasampannassa, bhūtaṁ āroceti, ādikammikassāti.
+2.6\. Anāpatti— upasampannassa, bhūtaṁ āroceti, ādikammikassāti.
 
 Bhūtārocanasikkhāpadaṁ niṭṭhitaṁ aṭṭhamaṁ.

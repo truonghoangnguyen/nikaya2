@@ -4,7 +4,7 @@
 
 # 2. Omasavādasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pesalehi bhikkhūhi saddhiṁ bhaṇḍantā pesale bhikkhū omasanti— jātiyāpi, nāmenapi, gottenapi, kammenapi, sippenapi, ābādhenapi, liṅgenapi, kilesenapi, āpattiyāpi; hīnenapi akkosena khuṁsenti vambhenti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū pesalehi bhikkhūhi saddhiṁ bhaṇḍantā pesale bhikkhū omasissanti— jātiyāpi, nāmenapi, gottenapi, kammenapi, sippenapi, ābādhenapi, liṅgenapi, kilesenapi, āpattiyāpi; hīnenapi akkosena khuṁsessanti vambhessantī”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū pesalehi bhikkhūhi saddhiṁ bhaṇḍantā pesale bhikkhū omasanti— jātiyāpi, nāmenapi, gottenapi, kammenapi, sippenapi, ābādhenapi, liṅgenapi, kilesenapi, āpattiyāpi; hīnenapi akkosena khuṁsenti vambhenti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū pesalehi bhikkhūhi saddhiṁ bhaṇḍantā pesale bhikkhū omasissanti— jātiyāpi, nāmenapi, gottenapi, kammenapi, sippenapi, ābādhenapi, liṅgenapi, kilesenapi, āpattiyāpi; hīnenapi akkosena khuṁsessanti vambhessantī”ti.
 
 Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, pesalehi bhikkhūhi saddhiṁ bhaṇḍantā pesale bhikkhū omasatha—jātiyāpi …pe… hīnenapi akkosena khuṁsetha vambhethā”ti?
 
@@ -12,7 +12,7 @@ Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavat
 
 Vigarahi buddho bhagavā …pe… “kathañhi nāma tumhe, moghapurisā, pesalehi bhikkhūhi saddhiṁ bhaṇḍantā pesale bhikkhū omasissatha— jātiyāpi …pe… hīnenapi akkosena khuṁsessatha vambhessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-“Bhūtapubbaṁ, bhikkhave, takkasilāyaṁ aññatarassa brāhmaṇassa nandivisālo nāma balībaddo ahosi. Atha kho, bhikkhave, nandivisālo balībaddo taṁ brāhmaṇaṁ etadavoca— ‘gaccha tvaṁ, brāhmaṇa, seṭṭhinā saddhiṁ sahassena abbhutaṁ karohi— mayhaṁ balībaddo sakaṭasataṁ atibaddhaṁ pavaṭṭessatī’ti. Atha kho, bhikkhave, so brāhmaṇo seṭṭhinā saddhiṁ sahassena abbhutaṁ akāsi— mayhaṁ balībaddo sakaṭasataṁ atibaddhaṁ pavaṭṭessatīti. Atha kho, bhikkhave, so brāhmaṇo sakaṭasataṁ atibandhitvā nandivisālaṁ balībaddaṁ yuñjitvā etadavoca— ‘gaccha, kūṭa, vahassu, kūṭā’ti. Atha kho, bhikkhave, nandivisālo balībaddo tattheva aṭṭhāsi.
+1.2\. “Bhūtapubbaṁ, bhikkhave, takkasilāyaṁ aññatarassa brāhmaṇassa nandivisālo nāma balībaddo ahosi. Atha kho, bhikkhave, nandivisālo balībaddo taṁ brāhmaṇaṁ etadavoca— ‘gaccha tvaṁ, brāhmaṇa, seṭṭhinā saddhiṁ sahassena abbhutaṁ karohi— mayhaṁ balībaddo sakaṭasataṁ atibaddhaṁ pavaṭṭessatī’ti. Atha kho, bhikkhave, so brāhmaṇo seṭṭhinā saddhiṁ sahassena abbhutaṁ akāsi— mayhaṁ balībaddo sakaṭasataṁ atibaddhaṁ pavaṭṭessatīti. Atha kho, bhikkhave, so brāhmaṇo sakaṭasataṁ atibandhitvā nandivisālaṁ balībaddaṁ yuñjitvā etadavoca— ‘gaccha, kūṭa, vahassu, kūṭā’ti. Atha kho, bhikkhave, nandivisālo balībaddo tattheva aṭṭhāsi.
 
 Atha kho, bhikkhave, so brāhmaṇo sahassena parājito pajjhāyi. Atha kho, bhikkhave, nandivisālo balībaddo taṁ brāhmaṇaṁ etadavoca— ‘kissa tvaṁ, brāhmaṇa, pajjhāyasī’ti?
 
@@ -31,7 +31,7 @@ Tadāpi me, bhikkhave, amanāpā khuṁsanā vambhanā. Kimaṅgaṁ pana etarah
 
 “Omasavāde pācittiyan”ti.
 
-2\. **Omasavādo nāma**
+2.1\. **Omasavādo nāma**
 
 > dasahi ākārehi omasati— jātiyāpi, nāmenapi, gottenapi, kammenapi, sippenapi, ābādhenapi, liṅgenapi, kilesenapi, āpattiyāpi, akkosenapi.
 
@@ -131,7 +131,7 @@ Tadāpi me, bhikkhave, amanāpā khuṁsanā vambhanā. Kimaṅgaṁ pana etarah
 
 > paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi, natthi tuyhaṁ duggati, sugatiyeva tuyhaṁ pāṭikaṅkhāti, eso ukkaṭṭho nāma akkoso.
 
-Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṁ vadeti, caṇḍālaṁ venaṁ nesādaṁ rathakāraṁ pukkusaṁ— “caṇḍālosi, venosi, nesādosi, rathakārosi, pukkusosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa.
+2.2\. Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṁ vadeti, caṇḍālaṁ venaṁ nesādaṁ rathakāraṁ pukkusaṁ— “caṇḍālosi, venosi, nesādosi, rathakārosi, pukkusosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa.
 
 Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo hīnena ukkaṭṭhaṁ vadeti, khattiyaṁ brāhmaṇaṁ— “caṇḍālosi, venosi, nesādosi, rathakārosi, pukkusosī”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa.
 
@@ -211,7 +211,7 @@ Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo ukka�
 
 Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo ukkaṭṭhena ukkaṭṭhaṁ vadeti, paṇḍitaṁ byattaṁ medhāviṁ bahussutaṁ dhammakathikaṁ— “paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi, natthi tuyhaṁ duggati, sugati yeva tuyhaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya pācittiyassa.
 
-Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “santi idhekacce caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa.
+2.3\. Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “santi idhekacce caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa.
 
 Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “santi idhekacce khattiyā, brāhmaṇā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa.
 
@@ -219,13 +219,13 @@ Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo eva�
 
 Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “santi idhekacce paṇḍitā byattā, medhāvī bahussutā dhammakathikā, natthi tesaṁ duggati, sugatiyeva tesaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa.
 
-Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “ye nūna caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa …pe….
+2.4\. Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “ye nūna caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa …pe….
 
 Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “ye nūna paṇḍitā byattā medhāvī bahussutā dhammakathikā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa.
 
-Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “na mayaṁ caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati …pe…. “Na mayaṁ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṁ duggati, sugatiyeva amhākaṁ pāṭikaṅkhā”ti bhaṇati. Āpatti vācāya, vācāya dukkaṭassa.
+2.5\. Upasampanno upasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “na mayaṁ caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati …pe…. “Na mayaṁ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṁ duggati, sugatiyeva amhākaṁ pāṭikaṅkhā”ti bhaṇati. Āpatti vācāya, vācāya dukkaṭassa.
 
-Upasampanno anupasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṁ vadeti …pe… hīnena ukkaṭṭhaṁ vadeti …pe… ukkaṭṭhena hīnaṁ vadeti …pe… ukkaṭṭhena ukkaṭṭhaṁ vadeti, paṇḍitaṁ byattaṁ medhāviṁ bahussutaṁ dhammakathikaṁ— “paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi, natthi tuyhaṁ duggati, sugatiyeva tuyhaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa.
+2.6\. Upasampanno anupasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo hīnena hīnaṁ vadeti …pe… hīnena ukkaṭṭhaṁ vadeti …pe… ukkaṭṭhena hīnaṁ vadeti …pe… ukkaṭṭhena ukkaṭṭhaṁ vadeti, paṇḍitaṁ byattaṁ medhāviṁ bahussutaṁ dhammakathikaṁ— “paṇḍitosi, byattosi, medhāvīsi, bahussutosi, dhammakathikosi, natthi tuyhaṁ duggati, sugatiyeva tuyhaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa.
 
 Upasampanno anupasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “santi idhekacce caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati …pe…. “Santi idhekacce paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthi tesaṁ duggati, sugatiyeva tesaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dukkaṭassa.
 
@@ -233,7 +233,7 @@ Upasampanno anupasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo eva
 
 Upasampanno anupasampannaṁ khuṁsetukāmo vambhetukāmo maṅkukattukāmo evaṁ vadeti, “na mayaṁ caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati …pe…. “Na mayaṁ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṁ duggati, sugatiyeva amhākaṁ pāṭikaṅkhā”ti bhaṇati. Āpatti vācāya, vācāya dukkaṭassa.
 
-Upasampanno upasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā hīnena hīnaṁ vadeti, caṇḍālaṁ venaṁ nesādaṁ rathakāraṁ pukkusaṁ— “caṇḍālosi, venosi, nesādosi, rathakārosi, pukkusosī”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa.
+2.7\. Upasampanno upasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā hīnena hīnaṁ vadeti, caṇḍālaṁ venaṁ nesādaṁ rathakāraṁ pukkusaṁ— “caṇḍālosi, venosi, nesādosi, rathakārosi, pukkusosī”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa.
 
 Upasampanno upasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā hīnena ukkaṭṭhaṁ vadeti, khattiyaṁ brāhmaṇaṁ— “caṇḍālosi, venosi, nesādosi, rathakārosi, pukkusosī”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa.
 
@@ -249,7 +249,7 @@ Upasampanno upasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattuk�
 
 Upasampanno upasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā evaṁ vadeti, “na mayaṁ caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati …pe…. “Na mayaṁ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṁ duggati, sugatiyeva amhākaṁ pāṭikaṅkhā”ti bhaṇati. Āpatti vācāya, vācāya dubbhāsitassa.
 
-Upasampanno anupasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā hīnena hīnaṁ vadeti …pe… hīnena ukkaṭṭhaṁ vadeti …pe… ukkaṭṭhena hīnaṁ vadeti …pe… ukkaṭṭhena ukkaṭṭhaṁ vadeti, paṇḍitaṁ byattaṁ medhāviṁ bahussutaṁ dhammakathikaṁ— “paṇḍitosi, byattosi, medhāvīsi, bahussutosi dhammakathikosi, natthi tuyhaṁ duggati, sugatiyeva tuyhaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa.
+2.8\. Upasampanno anupasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā hīnena hīnaṁ vadeti …pe… hīnena ukkaṭṭhaṁ vadeti …pe… ukkaṭṭhena hīnaṁ vadeti …pe… ukkaṭṭhena ukkaṭṭhaṁ vadeti, paṇḍitaṁ byattaṁ medhāviṁ bahussutaṁ dhammakathikaṁ— “paṇḍitosi, byattosi, medhāvīsi, bahussutosi dhammakathikosi, natthi tuyhaṁ duggati, sugatiyeva tuyhaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa.
 
 Upasampanno anupasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā evaṁ vadeti, “santi idhekacce caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati …pe…. “Santi idhekacce paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthi tesaṁ duggati, sugatiyeva tesaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa.
 
@@ -257,6 +257,6 @@ Upasampanno anupasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattu
 
 Upasampanno anupasampannaṁ na khuṁsetukāmo na vambhetukāmo na maṅkukattukāmo, davakamyatā evaṁ vadeti, “na mayaṁ caṇḍālā venā nesādā rathakārā pukkusā”ti bhaṇati …pe…. “Na mayaṁ paṇḍitā byattā medhāvī bahussutā dhammakathikā, natthamhākaṁ duggati, sugatiyeva amhākaṁ pāṭikaṅkhā”ti bhaṇati, āpatti vācāya, vācāya dubbhāsitassa.
 
-Anāpatti— atthapurekkhārassa, dhammapurekkhārassa, anusāsanipurekkhārassa, ummattakassa, khittacittassa, vedanāṭṭassa, ādikammikassāti.
+2.9\. Anāpatti— atthapurekkhārassa, dhammapurekkhārassa, anusāsanipurekkhārassa, ummattakassa, khittacittassa, vedanāṭṭassa, ādikammikassāti.
 
 Omasavādasikkhāpadaṁ niṭṭhitaṁ dutiyaṁ.

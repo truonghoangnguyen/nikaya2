@@ -2,8 +2,8 @@
 
 # 2. 6 Adhikaraṇavāra
 
-1\. Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṁsaggaṁ sādiyantiyā āpattiyo catunnaṁ adhikaraṇānaṁ katamaṁ adhikaraṇaṁ? Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṁsaggaṁ sādiyantiyā āpattiyo catunnaṁ adhikaraṇānaṁ—āpattādhikaraṇaṁ …pe….
+1.1\. Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṁsaggaṁ sādiyantiyā āpattiyo catunnaṁ adhikaraṇānaṁ katamaṁ adhikaraṇaṁ? Avassutāya bhikkhuniyā avassutassa purisapuggalassa kāyasaṁsaggaṁ sādiyantiyā āpattiyo catunnaṁ adhikaraṇānaṁ—āpattādhikaraṇaṁ …pe….
 
-2\. Dadhiṁ viññāpetvā bhuñjantiyā āpattiyo catunnaṁ adhikaraṇānaṁ katamaṁ adhikaraṇaṁ? Dadhiṁ viññāpetvā bhuñjantiyā āpattiyo catunnaṁ adhikaraṇānaṁ—āpattādhikaraṇaṁ.
+2.1\. Dadhiṁ viññāpetvā bhuñjantiyā āpattiyo catunnaṁ adhikaraṇānaṁ katamaṁ adhikaraṇaṁ? Dadhiṁ viññāpetvā bhuñjantiyā āpattiyo catunnaṁ adhikaraṇānaṁ—āpattādhikaraṇaṁ.
 
-3\. Adhikaraṇavāro niṭṭhito chaṭṭho.
+3.1\. Adhikaraṇavāro niṭṭhito chaṭṭho.

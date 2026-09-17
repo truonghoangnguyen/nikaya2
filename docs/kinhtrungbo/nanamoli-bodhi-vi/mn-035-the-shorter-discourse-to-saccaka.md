@@ -28,7 +28,7 @@
 <!--pg-->
 9\. Khi Saccaka, con trai của Nigantha, đã ngồi xuống, ông ta nói với Đức Thế Tôn: "Tôi muốn hỏi ngài Gotama một vấn đề, nếu ngài Gotama cho phép tôi được trả lời câu hỏi."
 
-"Hãy hỏi những gì ông muốn, Aggivessana." |230|
+"Hãy hỏi những gì ông muốn, Aggivessana." [230]
 
 "Ngài Gotama rèn luyện đệ tử của mình như thế nào? Và lời dạy của ngài Gotama thường được trình bày cho các đệ tử như thế nào?"
 
@@ -53,11 +53,11 @@
 "Thưa ngài Gotama, một vị vua cao quý được xức dầu - ví dụ, vua Pasenadi của Kosala hoặc vua Ajātasattu Vedehiputta của Magadha - sẽ thực thi quyền lực trong vương quốc của mình để xử tử những người đáng bị xử tử, phạt tiền những người đáng bị phạt tiền, và trục xuất những người đáng bị trục xuất. Vì ngay cả những cộng đồng và xã hội [chuyên chế] như Vajjians và Mallians cũng thực thi quyền lực trong vương quốc của họ để xử tử những người đáng bị xử tử, phạt tiền những người đáng bị phạt tiền, và trục xuất những người đáng bị trục xuất; vậy thì một vị vua cao quý được xức dầu như vua Pasenadi của Kosala hoặc vua Ajātasattu Vedehiputta của Magadha càng phải như vậy. Ngài ấy sẽ thực thi nó, thưa ngài Gotama, và ngài ấy xứng đáng để thực thi nó."
 
 13\. "Ông nghĩ gì, Aggivessana? Khi ông nói như vầy: 'Sắc thân là tự ngã của ta,' ông có thực thi bất kỳ quyền lực nào như vậy đối với
-sắc thân đó để nói: 'Hãy để sắc thân của ta như thế này; hãy để sắc thân của ta không như thế này' không?" [274](/kinhtrungbo/nanamoli-bodhi-vi/notes/035#274){.note} Khi điều này được nói ra, Saccaka, con trai của Nigartha, im lặng.
+sắc thân đó để nói: 'Hãy để sắc thân của ta như thế này; hãy để sắc thân của ta không như thế này' không?" [374](/kinhtrungbo/nanamoli-bodhi-vi/notes/035#374){.note} Khi điều này được nói ra, Saccaka, con trai của Nigartha, im lặng.
 
 Lần thứ hai Đức Thế Tôn hỏi câu hỏi tương tự, và lần thứ hai Saccaka, con trai của Nigartha, im lặng. Rồi Đức Thế Tôn nói với ông ta: "Aggivessana, hãy trả lời ngay bây giờ. Bây giờ không phải là lúc để im lặng. Nếu bất cứ ai, khi được Như Lai hỏi một câu hỏi hợp lý đến lần thứ ba, vẫn không trả lời, đầu của người đó sẽ vỡ thành bảy mảnh ngay tại đó."
 
-14\. Lúc bấy giờ, một vị thần cầm chùy kim cang, giữ một cây chùy kim cang bằng sắt đang cháy, rực lửa và phát sáng, xuất hiện trên không trung phía trên Saccaka, con trai của Nigartha, nghĩ rằng: "Nếu Saccaka, con trai của Nigartha này, khi được Đức Thế Tôn hỏi một câu hỏi hợp lý đến lần thứ ba, vẫn không trả lời, ta sẽ chẻ đầu hắn thành bảy mảnh ngay tại đây." [275](/kinhtrungbo/nanamoli-bodhi-vi/notes/035#275){.note} Đức Thế Tôn thấy vị thần cầm chùy kim cang và Saccaka, con trai của Nigartha, cũng vậy. Rồi Saccaka, con trai của Nigartha, sợ hãi, hoảng hốt và kinh hoàng. [232] Tìm kiếm sự che chở, nương tựa và trú ẩn nơi Đức Thế Tôn, ông ta nói: "Xin hãy hỏi tôi, thưa ngài Gotama, tôi sẽ trả lời."
+14\. Lúc bấy giờ, một vị thần cầm chùy kim cang, giữ một cây chùy kim cang bằng sắt đang cháy, rực lửa và phát sáng, xuất hiện trên không trung phía trên Saccaka, con trai của Nigartha, nghĩ rằng: "Nếu Saccaka, con trai của Nigartha này, khi được Đức Thế Tôn hỏi một câu hỏi hợp lý đến lần thứ ba, vẫn không trả lời, ta sẽ chẻ đầu hắn thành bảy mảnh ngay tại đây." [375](/kinhtrungbo/nanamoli-bodhi-vi/notes/035#375){.note} Đức Thế Tôn thấy vị thần cầm chùy kim cang và Saccaka, con trai của Nigartha, cũng vậy. Rồi Saccaka, con trai của Nigartha, sợ hãi, hoảng hốt và kinh hoàng. [232] Tìm kiếm sự che chở, nương tựa và trú ẩn nơi Đức Thế Tôn, ông ta nói: "Xin hãy hỏi tôi, thưa ngài Gotama, tôi sẽ trả lời."
 
 15\. "Ông nghĩ gì, Aggivessana? Khi ông nói như vầy: 'Sắc thân là tự ngã của ta,' ông có thực thi bất kỳ quyền lực nào như vậy đối với sắc thân đó để nói: 'Hãy để sắc thân của ta như thế này; hãy để sắc thân của ta không như thế này' không?" - "Không, thưa ngài Gotama."
 
@@ -79,7 +79,7 @@ sau đó, và những gì ông nói sau đó cũng không phù hợp với nhữ
 "Làm sao có thể, thưa ngài Gotama? Không, thưa ngài Gotama."
 
 "Ông nghĩ gì, Aggivessana? Như vậy, có phải ông không bám víu vào khổ, nương tựa vào khổ, giữ lấy khổ, và xem cái gì là khổ như vầy: 'Cái này là của ta, cái này là ta, cái này là tự ngã của ta'?"
-"Làm sao tôi có thể không, thưa ngài Gotama? Vâng, thưa ngài Gotama." *376
+"Làm sao tôi có thể không, thưa ngài Gotama? Vâng, thưa ngài Gotama." [376](/kinhtrungbo/nanamoli-bodhi-vi/notes/035#376){.note}
 
 22\. "Giống như một người cần lõi cây, tìm kiếm lõi cây, lang thang tìm kiếm lõi cây, lấy một cái rìu sắc và đi vào rừng, và ở đó người ấy sẽ thấy một thân cây chuối lớn, thẳng, non, không có lõi quả. Rồi người ấy sẽ chặt nó xuống tận gốc, cắt bỏ ngọn, và lột bỏ các bẹ lá; nhưng khi người ấy tiếp tục lột bỏ các bẹ lá, người ấy sẽ không bao giờ thấy đến bất kỳ gỗ giác nào, chứ đừng nói đến lõi cây. Cũng vậy, Aggivessana, khi ông bị ta ép, chất vấn, và tra hỏi về lời khẳng định của chính ông, ông hóa ra là trống rỗng, rỗng tuếch, và sai lầm. Nhưng chính ông đã đưa ra tuyên bố này trước hội chúng Vesālī: 'Ta không thấy sa môn hay bà la môn nào, là người đứng đầu một giáo đoàn, người đứng đầu một nhóm, thầy dạy của một nhóm, thậm chí tự xưng là bậc giác ngộ hoàn toàn, mà lại không run rẩy, sợ hãi, toát mồ hôi dưới cánh tay nếu tranh luận với ta. Ngay cả khi ta tranh luận với một cây cột vô tri, nó cũng sẽ run rẩy, sợ hãi nếu tranh luận với ta, huống chi là một con người?' Bây giờ có những giọt mồ hôi trên trán ông và chúng đã thấm qua áo trên của ông và rơi xuống đất. Nhưng bây giờ không có mồ hôi trên cơ thể ta." Và Đức Thế Tôn vén áo để lộ thân thể màu vàng của mình trước hội chúng. [234] Khi điều này được nói ra, Saccaka, con trai của Nigantha, ngồi im lặng, thất vọng, vai rũ xuống và đầu cúi xuống, ủ rũ, và không phản ứng.
 
@@ -93,7 +93,7 @@ sau đó, và những gì ông nói sau đó cũng không phù hợp với nhữ
 
 24\. Khi điều này được nói ra, Saccaka, con trai của Niganṭha, nói với ông ta: "Chờ đã, Dummukha, chờ đã! Chúng ta không nói chuyện với ông, ở đây chúng ta đang nói chuyện với ngài Gotama."
 
-[Rồi ông ta nói]: "Hãy để cuộc nói chuyện đó của chúng ta qua đi, thưa ngài Gotama. Giống như cuộc nói chuyện của những sa môn và bà la môn bình thường, tôi nghĩ đó chỉ là lời nói nhảm. Nhưng bằng cách nào một đệ tử của sa môn Gotama là người thực hiện lời dạy của ngài, người đáp ứng lời khuyên của ngài, người đã vượt qua nghi ngờ (vicikicchā - doubt), trở nên thoát khỏi sự bối rối, đạt được sự không sợ hãi, và trở nên độc lập với những người khác trong Giáo Pháp của Đức Thế Tôn?"377
+[Rồi ông ta nói]: "Hãy để cuộc nói chuyện đó của chúng ta qua đi, thưa ngài Gotama. Giống như cuộc nói chuyện của những sa môn và bà la môn bình thường, tôi nghĩ đó chỉ là lời nói nhảm. Nhưng bằng cách nào một đệ tử của sa môn Gotama là người thực hiện lời dạy của ngài, người đáp ứng lời khuyên của ngài, người đã vượt qua nghi ngờ (vicikicchā - doubt), trở nên thoát khỏi sự bối rối, đạt được sự không sợ hãi, và trở nên độc lập với những người khác trong Giáo Pháp của Đức Thế Tôn?"[377](/kinhtrungbo/nanamoli-bodhi-vi/notes/035#377){.note}
 
 "Ở đây, Aggivessana, bất kỳ loại sắc thân nào, dù là quá khứ, tương lai, hay hiện tại, bên trong hay bên ngoài, thô hay tế, thấp kém hay cao thượng, xa hay gần - một đệ tử của ta thấy tất cả sắc thân như nó thực sự là với trí tuệ chân chính như vầy: 'Cái này không phải là của ta, cái này ta không phải là, cái này không phải là tự ngã của ta.' [235] Bất kỳ loại cảm thọ nào... Bất kỳ loại tri giác nào... Bất kỳ loại hành nào... Bất kỳ loại thức nào, dù là quá khứ, tương lai, hay hiện tại, bên trong hay bên ngoài, thô hay tế, thấp kém hay cao thượng, xa hay gần - một đệ tử của ta thấy tất cả thức như nó thực sự là với trí tuệ chân chính như vầy: 'Cái này không phải là của ta, cái này ta không phải là, cái này không phải là tự ngã của ta.' Đó là cách mà một đệ tử của ta là người thực hiện lời dạy của ta, người đáp ứng lời khuyên của ta, người đã vượt qua nghi ngờ, trở nên thoát khỏi sự bối rối, đạt được sự không sợ hãi, và trở nên độc lập với những người khác trong Giáo Pháp của Đức Thế Tôn."
 

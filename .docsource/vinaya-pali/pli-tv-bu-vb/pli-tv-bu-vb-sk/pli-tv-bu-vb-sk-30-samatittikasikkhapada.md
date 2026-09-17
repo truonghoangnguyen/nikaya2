@@ -4,14 +4,14 @@
 
 # 30. Samatittikasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū thūpīkataṁ piṇḍapātaṁ paṭiggaṇhanti …pe….
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū thūpīkataṁ piṇḍapātaṁ paṭiggaṇhanti …pe….
 
-“Samatittikaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā”ti.
+1.3\. “Samatittikaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā”ti.
 
-Samatittiko piṇḍapāto paṭiggahetabbo. Yo anādariyaṁ paṭicca thūpīkataṁ piṇḍapātaṁ paṭiggaṇhāti, āpatti dukkaṭassa.
+1.4\. Samatittiko piṇḍapāto paṭiggahetabbo. Yo anādariyaṁ paṭicca thūpīkataṁ piṇḍapātaṁ paṭiggaṇhāti, āpatti dukkaṭassa.
 
-Anāpatti— asañcicca, assatiyā, ajānantassa, āpadāsu, ummattakassa, ādikammikassāti.
+1.6\. Anāpatti— asañcicca, assatiyā, ajānantassa, āpadāsu, ummattakassa, ādikammikassāti.
 
-Dasamasikkhāpadaṁ niṭṭhitaṁ.
+1.10\. Dasamasikkhāpadaṁ niṭṭhitaṁ.
 
-Khambhakatavaggo tatiyo.
+1.11\. Khambhakatavaggo tatiyo.

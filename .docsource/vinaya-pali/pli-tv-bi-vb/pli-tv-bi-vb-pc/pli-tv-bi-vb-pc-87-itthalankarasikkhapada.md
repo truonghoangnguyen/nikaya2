@@ -4,17 +4,17 @@
 
 # 87. Itthālaṅkārasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo itthālaṅkāraṁ dhārenti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo itthālaṅkāraṁ dhāressanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo itthālaṅkāraṁ dhārenti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo itthālaṅkāraṁ dhāressanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
 
-Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo itthālaṅkāraṁ dhāressantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo itthālaṅkāraṁ dhārentī”ti?
+1.5\. Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo itthālaṅkāraṁ dhāressantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo itthālaṅkāraṁ dhārentī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo itthālaṅkāraṁ dhāressanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo itthālaṅkāraṁ dhāressanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī itthālaṅkāraṁ dhāreyya, pācittiyan”ti.
+1.14\. “Yā pana bhikkhunī itthālaṅkāraṁ dhāreyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -30,6 +30,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikk
 
 > sakimpi dhāreti, āpatti pācittiyassa.
 
-Anāpatti— ābādhappaccayā, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— ābādhappaccayā, ummattikāya, ādikammikāyāti.
 
 Catutthasikkhāpadaṁ niṭṭhitaṁ.

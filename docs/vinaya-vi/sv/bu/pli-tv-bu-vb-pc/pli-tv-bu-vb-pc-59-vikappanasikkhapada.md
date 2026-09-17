@@ -4,17 +4,17 @@
 
 # 59. Vikappanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto bhātuno saddhivihārikassa bhikkhuno sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjati. Atha kho so bhikkhu bhikkhūnaṁ etamatthaṁ ārocesi— “ayaṁ, āvuso, āyasmā upanando sakyaputto mayhaṁ cīvaraṁ sāmaṁ vikappetvā appaccuddhāraṇaṁ paribhuñjatī”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto bhātuno saddhivihārikassa bhikkhuno sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjati. Atha kho so bhikkhu bhikkhūnaṁ etamatthaṁ ārocesi— “ayaṁ, āvuso, āyasmā upanando sakyaputto mayhaṁ cīvaraṁ sāmaṁ vikappetvā appaccuddhāraṇaṁ paribhuñjatī”ti.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā upanando sakyaputto bhikkhussa sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjissatī”ti …pe… “saccaṁ kira tvaṁ, upananda, bhikkhussa sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjasī”ti?
+1.5\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā upanando sakyaputto bhikkhussa sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjissatī”ti …pe… “saccaṁ kira tvaṁ, upananda, bhikkhussa sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjasī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.8\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhussa sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjissasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.9\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhussa sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjissasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjeyya, pācittiyan”ti.
+1.13\. “Yo pana bhikkhu bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṁ cīvaraṁ vikappetvā appaccuddhāraṇaṁ paribhuñjeyya, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -66,10 +66,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhuss
 
 > tassa vā adinnaṁ, tassa vā avissasanto paribhuñjati, āpatti pācittiyassa.
 
-Appaccuddhāraṇe appaccuddhāraṇasaññī paribhuñjati, āpatti pācittiyassa. Appaccuddhāraṇe vematiko paribhuñjati, āpatti pācittiyassa. Appaccuddhāraṇe appaccuddhāraṇasaññī paribhuñjati, āpatti pācittiyassa.
+2.2\. Appaccuddhāraṇe appaccuddhāraṇasaññī paribhuñjati, āpatti pācittiyassa. Appaccuddhāraṇe vematiko paribhuñjati, āpatti pācittiyassa. Appaccuddhāraṇe appaccuddhāraṇasaññī paribhuñjati, āpatti pācittiyassa.
 
 Adhiṭṭheti vā vissajjeti vā, āpatti dukkaṭassa. Paccuddhāraṇe appaccuddhāraṇasaññī, āpatti dukkaṭassa. Paccuddhāraṇe vematiko, āpatti dukkaṭassa. Paccuddhāraṇe paccuddhāraṇasaññī, anāpatti.
 
-Anāpatti— so vā deti, tassa vā vissasanto paribhuñjati, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— so vā deti, tassa vā vissasanto paribhuñjati, ummattakassa, ādikammikassāti.
 
 Vikappanasikkhāpadaṁ niṭṭhitaṁ navamaṁ.

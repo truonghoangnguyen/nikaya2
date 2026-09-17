@@ -459,4 +459,4 @@
 > Pucchāvissajjanāya vā,\
 > natthi kiñci asuttakanti.
 
-110\. Dutiyagāthāsaṅgaṇikaṁ niṭṭhitaṁ.
+110.1\. Dutiyagāthāsaṅgaṇikaṁ niṭṭhitaṁ.

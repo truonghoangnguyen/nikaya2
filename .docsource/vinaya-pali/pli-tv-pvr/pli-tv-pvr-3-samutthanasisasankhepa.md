@@ -75,7 +75,7 @@
 > Sabbe ekasamuṭṭhānā,\
 > paṭhamaṁ pārājikaṁ yathā.
 
-17\. Paṭhamapārājikasamuṭṭhānaṁ niṭṭhitaṁ.
+17.1\. Paṭhamapārājikasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.2. Dutiyapārājikasamuṭṭhāna
 
@@ -116,7 +116,7 @@
 > Tīhi dvārehi jāyanti,\
 > pārājikaṁ dutiyaṁ yathā.
 
-27\. Dutiyapārājikasamuṭṭhānaṁ niṭṭhitaṁ.
+27.1\. Dutiyapārājikasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.3. Sañcarittasamuṭṭhāna
 
@@ -151,7 +151,7 @@
 > Chasamuṭṭhānikā ete,\
 > sañcarittena sādisā.
 
-35\. Sañcarittasamuṭṭhānaṁ niṭṭhitaṁ.
+35.1\. Sañcarittasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.4. Samanubhāsanāsamuṭṭhāna
 
@@ -174,7 +174,7 @@
 > Sabbe ekasamuṭṭhānā,\
 > Samanubhāsanā yathā.
 
-40\. Samanubhāsanāsamuṭṭhānaṁ niṭṭhitaṁ.
+40.1\. Samanubhāsanāsamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.5. Kathinasamuṭṭhāna
 
@@ -197,7 +197,7 @@
 > Dvisamuṭṭhānikā sabbe,\
 > kathinena sahā samā.
 
-45\. Kathinasamuṭṭhānaṁ niṭṭhitaṁ.
+45.1\. Kathinasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.6. Eḷakalomasamuṭṭhāna
 
@@ -226,7 +226,7 @@
 > Dvisamuṭṭhānikā sabbe,\
 > samā eḷakalomikāti.
 
-52\. Eḷakalomasamuṭṭhānaṁ niṭṭhitaṁ.
+52.1\. Eḷakalomasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.7. Padasodhammasamuṭṭhāna
 
@@ -241,7 +241,7 @@
 > Dvisamuṭṭhānikā sabbe,\
 > padasodhammasadisā.
 
-55\. Padasodhammasamuṭṭhānaṁ niṭṭhitaṁ.
+55.1\. Padasodhammasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.8. Addhānasamuṭṭhāna
 
@@ -260,7 +260,7 @@
 > Paññattā buddhañāṇena,\
 > addhānena sahā samā.
 
-59\. Addhānasamuṭṭhānaṁ niṭṭhitaṁ.
+59.1\. Addhānasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.9. Theyyasatthasamuṭṭhāna
 
@@ -275,7 +275,7 @@
 > Theyyasatthasamuṭṭhānā,\
 > desitādiccabandhunā.
 
-62\. Theyyasatthasamuṭṭhānaṁ niṭṭhitaṁ.
+62.1\. Theyyasatthasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.10. Dhammadesanāsamuṭṭhāna
 
@@ -292,7 +292,7 @@
 > Sabbe ekasamuṭṭhānā,\
 > samakā dhammadesane.
 
-66\. Dhammadesanāsamuṭṭhānaṁ niṭṭhitaṁ.
+66.1\. Dhammadesanāsamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.11. Bhūtārocanasamuṭṭhāna
 
@@ -305,7 +305,7 @@
 > Bhūtārocanakā nāma,\
 > tīhi ṭhānehi jāyati.
 
-69\. Bhūtārocanasamuṭṭhānaṁ niṭṭhitaṁ.
+69.1\. Bhūtārocanasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.12. Corivuṭṭhāpanasamuṭṭhāna
 
@@ -316,7 +316,7 @@
 > Akataṁ dvisamuṭṭhānaṁ,\
 > dhammarājena bhāsitaṁ.
 
-71\. Corivuṭṭhāpanasamuṭṭhānaṁ niṭṭhitaṁ.
+71.1\. Corivuṭṭhāpanasamuṭṭhānaṁ niṭṭhitaṁ.
 
 ### 2.13. Ananuññātasamuṭṭhāna
 
@@ -329,7 +329,7 @@
 > Jāyati tīhi dvārehi,\
 > akataṁ catuṭhānikaṁ.
 
-74\. Ananuññātasamuṭṭhānaṁ niṭṭhitaṁ.
+74.1\. Ananuññātasamuṭṭhānaṁ niṭṭhitaṁ.
 
 > Samuṭṭhānañhi saṅkhepaṁ,\
 > dasa tīṇi sudesitaṁ;\
@@ -338,4 +338,4 @@
 > Dhārayanto imaṁ viññū,\
 > samuṭṭhāne na muyhatīti.
 
-76\. Samuṭṭhānasīsasaṅkhepo niṭṭhito.
+76.1\. Samuṭṭhānasīsasaṅkhepo niṭṭhito.

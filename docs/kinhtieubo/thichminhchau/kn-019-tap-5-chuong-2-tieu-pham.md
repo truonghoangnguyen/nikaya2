@@ -1,3 +1,5 @@
+*KINH TẬP Suttanipāta*
+
 # Chương Hai – Tiểu Phẩm
 
 ### **(I) Kinh Châu Báu (Ratana Sutta) (Sn 39)**

@@ -4,17 +4,17 @@
 
 # 39. Antovassasikkhāpada
 
-1\. Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena bhikkhuniyo antovassaṁ cārikaṁ caranti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo antovassaṁ cārikaṁ carissanti haritāni tiṇāni ca sammaddantā, ekindriyaṁ jīvaṁ viheṭhentā, bahū khuddake pāṇe saṅghātaṁ āpādentā”ti.
+1.1\. Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena bhikkhuniyo antovassaṁ cārikaṁ caranti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo antovassaṁ cārikaṁ carissanti haritāni tiṇāni ca sammaddantā, ekindriyaṁ jīvaṁ viheṭhentā, bahū khuddake pāṇe saṅghātaṁ āpādentā”ti.
 
-Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo antovassaṁ cārikaṁ carissantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo antovassaṁ cārikaṁ carantī”ti?
+1.5\. Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo antovassaṁ cārikaṁ carissantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo antovassaṁ cārikaṁ carantī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo antovassaṁ cārikaṁ carissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo antovassaṁ cārikaṁ carissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī antovassaṁ cārikaṁ careyya, pācittiyan”ti.
+1.14\. “Yā pana bhikkhunī antovassaṁ cārikaṁ careyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -30,6 +30,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo antova
 
 > kukkuṭasampāte gāme gāmantare gāmantare āpatti pācittiyassa. Agāmake araññe addhayojane addhayojane āpatti pācittiyassa.
 
-Anāpatti— sattāhakaraṇīyena gacchati, kenaci ubbāḷhā gacchati, āpadāsu, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— sattāhakaraṇīyena gacchati, kenaci ubbāḷhā gacchati, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Navamasikkhāpadaṁ niṭṭhitaṁ.

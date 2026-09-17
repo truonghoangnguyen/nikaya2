@@ -4,15 +4,15 @@
 
 # 44. Gihiveyyāvaccasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo gihiveyyāvaccaṁ karonti. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo gihiveyyāvaccaṁ karissantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo gihiveyyāvaccaṁ karontī”ti?
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo gihiveyyāvaccaṁ karonti. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo gihiveyyāvaccaṁ karissantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo gihiveyyāvaccaṁ karontī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.6\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo gihiveyyāvaccaṁ karissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.7\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo gihiveyyāvaccaṁ karissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī gihiveyyāvaccaṁ kareyya, pācittiyan”ti.
+1.11\. “Yā pana bhikkhunī gihiveyyāvaccaṁ kareyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -24,6 +24,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo gihive
 
 > agārikassa yāguṁ vā bhattaṁ vā khādanīyaṁ vā pacati, sāṭakaṁ vā veṭhanaṁ vā dhovati, āpatti pācittiyassa.
 
-Anāpatti— yāgupāne, saṅghabhatte, cetiyapūjāya, attano veyyāvaccakarassa yāguṁ vā bhattaṁ vā khādanīyaṁ vā pacati, sāṭakaṁ vā veṭhanaṁ vā dhovati, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— yāgupāne, saṅghabhatte, cetiyapūjāya, attano veyyāvaccakarassa yāguṁ vā bhattaṁ vā khādanīyaṁ vā pacati, sāṭakaṁ vā veṭhanaṁ vā dhovati, ummattikāya, ādikammikāyāti.
 
 Catutthasikkhāpadaṁ niṭṭhitaṁ.

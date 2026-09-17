@@ -1,1091 +1,1131 @@
-# PLI-TV-KD 6. CHƯƠNG VỀ THUỐC
-*(Bhesajjakkhandhaka)*
+# PLI-TV-KD 6. Bhesajjakkhandhaka
 
-## 1. Câu chuyện về năm loại thuốc {#1}
-*(Pañcabhesajjakathā)*
+# 6. Bhesajjakkhandhaka
 
-1\. Vào lúc bấy giờ, Phật Thế Tôn trú ở Sāvatthi, tại Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, các tỳ-kheo bị bệnh mùa thu tấn công, uống cháo cũng nôn ra, ăn cơm cũng nôn ra. Do đó, họ trở nên gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người. Thế Tôn thấy các tỳ-kheo gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người, bèn gọi Tôn giả Ānanda:
-"Này Ānanda, vì sao hiện nay các tỳ-kheo lại gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người?"
-"Bạch Thế Tôn, hiện nay các tỳ-kheo bị bệnh mùa thu tấn công, uống cháo cũng nôn ra, ăn cơm cũng nôn ra. Do đó, họ trở nên gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người."
+## 1. Pañcabhesajjakathā {#1}
 
-Rồi Thế Tôn khi đang ở nơi thanh vắng, rút lui tĩnh cư, một suy nghĩ khởi lên trong tâm: "Hiện nay các tỳ-kheo bị bệnh mùa thu tấn công, uống cháo cũng nôn ra, ăn cơm cũng nôn ra. Do đó, họ trở nên gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người. Ta nên cho phép các tỳ-kheo dùng loại thuốc nào, mà vừa là thuốc, vừa được người đời công nhận là thuốc, có tác dụng như thức ăn nhưng không bị xem là thức ăn *thô* (thô / oḷārika)?" Rồi Thế Tôn nghĩ: "Có năm loại thuốc này, đó là: bơ trong, bơ tươi, dầu, mật ong, mật mía; chúng vừa là thuốc, vừa được người đời công nhận là thuốc, có tác dụng như thức ăn nhưng không bị xem là thức ăn *thô*. Hay là Ta cho phép các tỳ-kheo nhận năm loại thuốc này đúng thời và dùng đúng thời."
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhūnaṁ sāradikena ābādhena phuṭṭhānaṁ yāgupi pītā uggacchati, bhattampi bhuttaṁ uggacchati. Te tena kisā honti, lūkhā, dubbaṇṇā, uppaṇḍuppaṇḍukajātā, dhamanisanthatagattā. Addasā kho bhagavā te bhikkhū kise lūkhe dubbaṇṇe uppaṇḍuppaṇḍukajāte dhamanisanthatagatte, disvāna āyasmantaṁ ānandaṁ āmantesi— “kiṁ nu kho, ānanda, etarahi bhikkhū kisā, lūkhā, dubbaṇṇā, uppaṇḍuppaṇḍukajātā, dhamanisanthatagattā”ti? “Etarahi, bhante, bhikkhūnaṁ sāradikena ābādhena phuṭṭhānaṁ yāgupi pītā uggacchati, bhattampi bhuttaṁ uggacchati. Te tena kisā honti, lūkhā, dubbaṇṇā, uppaṇḍuppaṇḍukajātā, dhamanisanthatagattā”ti.
 
-Rồi Thế Tôn vào buổi chiều, từ chỗ tĩnh cư đứng dậy, nhân lý do này, nhân sự kiện này, sau khi *giảng về Chân lý* (pháp thoại / dhammiṁ kathaṁ), bèn gọi các tỳ-kheo:
-"Này các tỳ-kheo, khi Ta đang ở nơi thanh vắng, rút lui tĩnh cư, một suy nghĩ khởi lên trong tâm: 'Hiện nay các tỳ-kheo bị bệnh mùa thu tấn công... [...lặp lại...] ...Hay là Ta cho phép các tỳ-kheo nhận năm loại thuốc này đúng thời và dùng đúng thời.'
+1.2\. Atha kho bhagavato rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— “etarahi kho bhikkhūnaṁ sāradikena ābādhena phuṭṭhānaṁ yāgupi pītā uggacchati, bhattampi bhuttaṁ uggacchati. Te tena kisā honti, lūkhā, dubbaṇṇā, uppaṇḍuppaṇḍukajātā, dhamanisanthatagattā. Kiṁ nu kho ahaṁ bhikkhūnaṁ bhesajjaṁ anujāneyyaṁ, yaṁ bhesajjañceva assa bhesajjasammatañca lokassa, āhāratthañca phareyya, na ca oḷāriko āhāro paññāyeyyā”ti? Atha kho bhagavato etadahosi— “imāni kho pañca bhesajjāni, seyyathidaṁ— sappi, navanītaṁ, telaṁ, madhu, phāṇitaṁ; bhesajjāni ceva bhesajjasammatāni ca lokassa, āhāratthañca pharanti, na ca oḷāriko āhāro paññāyati. Yannūnāhaṁ bhikkhūnaṁ imāni pañca bhesajjāni anujāneyyaṁ, kāle paṭiggahetvā kāle paribhuñjitun”ti.
 
-Này các tỳ-kheo, Ta cho phép nhận năm loại thuốc ấy đúng thời và dùng đúng thời."
+1.3\. Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi— “idha mayhaṁ, bhikkhave, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— ‘etarahi kho bhikkhūnaṁ sāradikena ābādhena phuṭṭhānaṁ yāgupi pītā uggacchati, bhattampi bhuttaṁ uggacchati. Te tena kisā honti, lūkhā, dubbaṇṇā, uppaṇḍuppaṇḍukajātā, dhamanisanthatagattā. Kiṁ nu kho ahaṁ bhikkhūnaṁ bhesajjaṁ anujāneyyaṁ, yaṁ bhesajjañceva assa bhesajjasammatañca lokassa, āhāratthañca phareyya, na ca oḷāriko āhāro paññāyeyyā’ti. Tassa mayhaṁ, bhikkhave, etadahosi— ‘imāni kho pañca bhesajjāni, seyyathidaṁ— sappi, navanītaṁ, telaṁ, madhu, phāṇitaṁ; bhesajjāni ceva bhesajjasammatāni ca lokassa, āhāratthañca pharanti, na ca oḷāriko āhāro paññāyati. Yannūnāhaṁ bhikkhūnaṁ imāni pañca bhesajjāni anujāneyyaṁ, kāle paṭiggahetvā kāle paribhuñjitun’ti.
 
-Lúc bấy giờ, các tỳ-kheo nhận năm loại thuốc ấy đúng thời và dùng đúng thời. Đối với họ, những thức ăn *thô* thường ngày còn không tiêu hóa được, huống hồ là những thức ăn béo ngậy. Họ vừa bị bệnh mùa thu tấn công, vừa mắc chứng khó tiêu này, do cả hai nguyên nhân, họ lại càng gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người. Thế Tôn thấy các tỳ-kheo lại càng gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người, bèn gọi Tôn giả Ānanda:
-"Này Ānanda, vì sao hiện nay các tỳ-kheo lại càng gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người?"
-"Bạch Thế Tôn, hiện nay các tỳ-kheo nhận năm loại thuốc ấy đúng thời và dùng đúng thời. Đối với họ, những thức ăn *thô* thường ngày còn không tiêu hóa được, huống hồ là những thức ăn béo ngậy. Họ vừa bị bệnh mùa thu tấn công, vừa mắc chứng khó tiêu này, do cả hai nguyên nhân, họ lại càng gầy gò, hốc hác, nhợt nhạt, vàng vọt, gân guốc nổi đầy người."
-Rồi Thế Tôn nhân lý do này, nhân sự kiện này, sau khi *giảng về Chân lý*, bèn gọi các tỳ-kheo:
+Anujānāmi, bhikkhave, tāni pañca bhesajjāni kāle paṭiggahetvā kāle paribhuñjitun”ti.
 
-"Này các tỳ-kheo, Ta cho phép nhận năm loại thuốc ấy và dùng cả đúng thời lẫn phi thời."
+1.4\. Tena kho pana samayena bhikkhū tāni pañca bhesajjāni kāle paṭiggahetvā kāle paribhuñjanti. Tesaṁ yānipi tāni pākatikāni lūkhāni bhojanāni tānipi nacchādenti, pageva senesitāni. Te tena ceva sāradikena ābādhena phuṭṭhā, iminā ca bhattācchādakena, tadubhayena bhiyyoso mattāya kisā honti, lūkhā, dubbaṇṇā, uppaṇḍuppaṇḍukajātā, dhamanisanthatagattā. Addasā kho bhagavā te bhikkhū bhiyyoso mattāya kise lūkhe dubbaṇṇe uppaṇḍuppaṇḍukajāte dhamanisanthatagatte, disvāna āyasmantaṁ ānandaṁ āmantesi— “kiṁ nu kho, ānanda, etarahi bhikkhū bhiyyoso mattāya kisā, lūkhā, dubbaṇṇā, uppaṇḍuppaṇḍukajātā, dhamanisanthatagattā”ti? “Etarahi, bhante, bhikkhū tāni ca pañca bhesajjāni kāle paṭiggahetvā kāle paribhuñjanti. Tesaṁ yānipi tāni pākatikāni lūkhāni bhojanāni tānipi nacchādenti, pageva senesitāni. Te tena ceva sāradikena ābādhena phuṭṭhā, iminā ca bhattācchādakena, tadubhayena bhiyyoso mattāya kisā, lūkhā, dubbaṇṇā, uppaṇḍuppaṇḍukajātā, dhamanisanthatagattā”ti. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-2\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến các loại mỡ làm thuốc. Họ trình sự việc này lên Thế Tôn.
+1.5\. “anujānāmi, bhikkhave, tāni pañca bhesajjāni paṭiggahetvā kālepi vikālepi paribhuñjitun”ti.
 
-"Này các tỳ-kheo, Ta cho phép các loại mỡ làm thuốc: mỡ gấu, mỡ cá, mỡ cá sấu, mỡ lợn, mỡ lừa — nhận đúng thời, nấu đúng thời, pha trộn đúng thời, được dùng như cách dùng dầu. Này các tỳ-kheo, nếu nhận phi thời, nấu phi thời, pha trộn phi thời, nếu vị nào dùng, phạm ba *lỗi tác ác* [!] (tác ác / dukkaṭa). Này các tỳ-kheo, nếu nhận đúng thời, nấu phi thời, pha trộn phi thời, nếu vị nào dùng, phạm hai *lỗi tác ác*. Này các tỳ-kheo, nếu nhận đúng thời, nấu đúng thời, pha trộn phi thời, nếu vị nào dùng, phạm một *lỗi tác ác*. Này các tỳ-kheo, nếu nhận đúng thời, nấu đúng thời, pha trộn đúng thời, nếu vị nào dùng, không phạm lỗi."
+2.1\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ vasehi bhesajjehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-## 2. Câu chuyện về rễ cây và các loại thuốc khác {#2}
-*(Mūlādibhesajjakathā)*
+“Anujānāmi, bhikkhave, vasāni bhesajjāni— acchavasaṁ, macchavasaṁ, susukāvasaṁ, sūkaravasaṁ, gadrabhavasaṁ— kāle paṭiggahitaṁ kāle nippakkaṁ kāle saṁsaṭṭhaṁ telaparibhogena paribhuñjituṁ. Vikāle ce, bhikkhave, paṭiggahitaṁ vikāle nippakkaṁ vikāle saṁsaṭṭhaṁ, tañce paribhuñjeyya, āpatti tiṇṇaṁ dukkaṭānaṁ. Kāle ce, bhikkhave, paṭiggahitaṁ vikāle nippakkaṁ vikāle saṁsaṭṭhaṁ, tañce paribhuñjeyya, āpatti dvinnaṁ dukkaṭānaṁ. Kāle ce, bhikkhave, paṭiggahitaṁ kāle nippakkaṁ vikāle saṁsaṭṭhaṁ, tañce paribhuñjeyya, āpatti dukkaṭassa. Kāle ce, bhikkhave, paṭiggahitaṁ kāle nippakkaṁ kāle saṁsaṭṭhaṁ, tañce paribhuñjeyya, anāpattī”ti.
 
-3\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến rễ cây làm thuốc. Họ trình sự việc này lên Thế Tôn.
+## 2. Mūlādibhesajjakathā {#2}
 
-"Này các tỳ-kheo, Ta cho phép rễ cây làm thuốc: nghệ, gừng, xương bồ, bạch xương bồ, ất kim, hoàng liên, hương bài, củ gấu, hoặc bất cứ rễ cây làm thuốc nào khác có mặt, không có tác dụng như thức ăn nhai, không có tác dụng như thức ăn mềm; những thứ ấy sau khi nhận, được phép cất giữ trọn đời; khi có *Điều kiện* (duyên / paccaya) thì được dùng. Nếu không có *Điều kiện* mà dùng, phạm *lỗi tác ác*."
+3.1\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ mūlehi bhesajjehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Lúc bấy giờ, các tỳ-kheo bệnh cần đến bột rễ cây làm thuốc. Họ trình sự việc này lên Thế Tôn.
+“Anujānāmi, bhikkhave, mūlāni bhesajjāni— haliddiṁ, siṅgiveraṁ, vacaṁ, vacattaṁ, ativisaṁ, kaṭukarohiṇiṁ, usīraṁ, bhaddamuttakaṁ, yāni vā panaññānipi atthi mūlāni bhesajjāni, neva khādanīye khādanīyatthaṁ pharanti, na bhojanīye bhojanīyatthaṁ pharanti, tāni— paṭiggahetvā yāvajīvaṁ pariharituṁ; sati paccaye paribhuñjituṁ. Asati paccaye paribhuñjantassa āpatti dukkaṭassā”ti.
 
-"Này các tỳ-kheo, Ta cho phép cối và chày giã thuốc."
+3.2\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ mūlehi bhesajjehi piṭṭhehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-4\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến nước sắc làm thuốc. Họ trình sự việc này lên Thế Tôn.
+“Anujānāmi, bhikkhave, nisadaṁ nisadapotakan”ti.
 
-"Này các tỳ-kheo, Ta cho phép nước sắc làm thuốc: nước sắc lá neem, nước sắc vỏ mức, nước sắc lá mướp đắng, nước sắc lá phaggava, nước sắc lá nattamāla, hoặc bất cứ nước sắc làm thuốc nào khác có mặt, không có tác dụng như thức ăn nhai, không có tác dụng như thức ăn mềm; những thứ ấy sau khi nhận, được phép cất giữ trọn đời; khi có *Điều kiện* thì được dùng. Nếu không có *Điều kiện* mà dùng, phạm *lỗi tác ác*."
+4.1\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ kasāvehi bhesajjehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-5\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến lá cây làm thuốc. Họ trình sự việc này lên Thế Tôn.
+“Anujānāmi, bhikkhave, kasāvāni bhesajjāni— nimbakasāvaṁ, kuṭajakasāvaṁ, paṭolakasāvaṁ, phaggavakasāvaṁ, nattamālakasāvaṁ, yāni vā panaññānipi atthi kasāvāni bhesajjāni neva khādanīye khādanīyatthaṁ pharanti, na bhojanīye bhojanīyatthaṁ pharanti, tāni— paṭiggahetvā yāvajīvaṁ pariharituṁ; sati paccaye paribhuñjituṁ. Asati paccaye paribhuñjantassa āpatti dukkaṭassā”ti.
 
-"Này các tỳ-kheo, Ta cho phép lá cây làm thuốc: lá neem, lá mức, lá mướp đắng, lá hương nhu, lá bông gòn, hoặc bất cứ lá cây làm thuốc nào khác có mặt, không có tác dụng như thức ăn nhai, không có tác dụng như thức ăn mềm [...lặp lại...]."
-
-6\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến quả làm thuốc. Họ trình sự việc này lên Thế Tôn.
-
-"Này các tỳ-kheo, Ta cho phép quả làm thuốc: quả chuỗi tiền, tiêu lốt, tiêu sọ, chiêu liêu, bàng hôi, chùm ruột núi, quả goṭṭha, hoặc bất cứ quả làm thuốc nào khác có mặt, không có tác dụng như thức ăn nhai, không có tác dụng như thức ăn mềm [...lặp lại...]."
-
-7\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến nhựa cây làm thuốc. Họ trình sự việc này lên Thế Tôn.
-
-"Này các tỳ-kheo, Ta cho phép nhựa cây làm thuốc: a ngùy, nhựa a ngùy, a ngùy dạng giọt, nhựa taka, lá taka, chồi taka, nhựa thông, hoặc bất cứ nhựa cây làm thuốc nào khác có mặt, không có tác dụng như thức ăn nhai [...lặp lại...]."
-
-8\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến muối làm thuốc. Họ trình sự việc này lên Thế Tôn.
-
-"Này các tỳ-kheo, Ta cho phép muối làm thuốc: muối biển, muối đen, muối mỏ, muối diêm, muối bila, hoặc bất cứ muối làm thuốc nào khác có mặt, không có tác dụng như thức ăn nhai, không có tác dụng như thức ăn mềm; những thứ ấy sau khi nhận, được phép cất giữ trọn đời; khi có *Điều kiện* thì được dùng. Nếu không có *Điều kiện* mà dùng, phạm *lỗi tác ác*."
-
-9\. Lúc bấy giờ, Tôn giả Belaṭṭhasīsa, thầy tế độ của Tôn giả Ānanda, bị bệnh ghẻ lở lớn. Do nước vàng chảy ra, y dính chặt vào thân, các tỳ-kheo phải lấy nước thấm ướt nhiều lần rồi mới lột ra được. Thế Tôn khi đi dạo qua các chỗ ở, thấy các tỳ-kheo đang lấy nước thấm ướt nhiều lần rồi lột y ra, bèn đi đến chỗ các tỳ-kheo ấy, sau khi đến liền hỏi:
-"Này các tỳ-kheo, tỳ-kheo này bị bệnh gì?"
-"Bạch Thế Tôn, Tôn giả này bị bệnh ghẻ lở lớn, do nước vàng chảy ra, y dính chặt vào thân, chúng con phải lấy nước thấm ướt nhiều lần rồi mới lột ra được."
-Rồi Thế Tôn nhân lý do này, nhân sự kiện này, sau khi *giảng về Chân lý*, bèn gọi các tỳ-kheo:
-
-"Này các tỳ-kheo, Ta cho phép ai bị ngứa, hoặc nổi mụn, hoặc chảy nước vàng, hoặc ghẻ lở lớn, hoặc thân thể có mùi hôi, [được dùng] các loại bột làm thuốc; người không bệnh [được dùng] phân bò, đất sét, bã thuốc nhuộm. Này các tỳ-kheo, Ta cho phép cối và chày."
-
-10\. Lúc bấy giờ, các tỳ-kheo bệnh cần đến bột làm thuốc đã được rây. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép rây bột."
-Họ cần loại bột mịn. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép rây bằng vải."
-
-Lúc bấy giờ, một tỳ-kheo nọ bị bệnh do phi nhân gây ra. Các vị thầy tế độ và giáo thọ chăm sóc nhưng không thể làm cho lành bệnh. Vị ấy đi đến lò mổ lợn, ăn thịt sống và uống máu sống. Bệnh do phi nhân gây ra của vị ấy liền thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, đối với bệnh do phi nhân gây ra, Ta cho phép thịt sống và máu sống."
-
-11\. Lúc bấy giờ, một tỳ-kheo nọ bị bệnh đau mắt. Các tỳ-kheo phải dìu vị ấy đi đại tiện và tiểu tiện. Thế Tôn khi đi dạo qua các chỗ ở, thấy các tỳ-kheo đang dìu tỳ-kheo ấy đi đại tiện và tiểu tiện, bèn đi đến chỗ các tỳ-kheo ấy, sau khi đến liền hỏi:
-"Này các tỳ-kheo, tỳ-kheo này bị bệnh gì?"
-"Bạch Thế Tôn, Tôn giả này bị bệnh đau mắt. Chúng con phải dìu vị ấy đi đại tiện và tiểu tiện."
-Rồi Thế Tôn nhân lý do này, nhân sự kiện này, sau khi *giảng về Chân lý*, bèn gọi các tỳ-kheo:
-
-"Này các tỳ-kheo, Ta cho phép thuốc nhỏ mắt: thuốc nhỏ mắt đen, thuốc nhỏ mắt từ nhựa, thuốc nhỏ mắt từ suối, đất đỏ, muội khói."
-Họ cần nguyên liệu nghiền thuốc nhỏ mắt. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép trầm hương, mộc hương, hắc đàn, tùng hương, củ gấu."
-
-12\. Lúc bấy giờ, các tỳ-kheo cất giữ các loại thuốc nhỏ mắt đã nghiền trong nồi và đĩa nhỏ; chúng bị rác rưởi và bụi bặm rơi vào. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép ống đựng thuốc nhỏ mắt."
-Lúc bấy giờ, nhóm sáu tỳ-kheo sử dụng các loại ống đựng thuốc nhỏ mắt đắt tiền: làm bằng vàng, làm bằng bạc. Người dân chê bai, phàn nàn và châm biếm: "Giống như những người tại gia thụ hưởng dục lạc." Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, không được sử dụng các loại ống đựng thuốc nhỏ mắt đắt tiền. Vị nào sử dụng, phạm *lỗi tác ác*.
-Này các tỳ-kheo, Ta cho phép làm bằng xương, ngà, sừng, lau sậy, tre, gỗ, nhựa, quả, kim loại, vỏ ốc."
-
-Lúc bấy giờ, các ống đựng thuốc nhỏ mắt không có nắp đậy, bị rác rưởi và bụi bặm rơi vào. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nắp đậy."
-Nắp đậy bị rơi. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép buộc ống đựng thuốc nhỏ mắt bằng sợi dây."
-Ống đựng thuốc nhỏ mắt bị nứt. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép khâu lại bằng sợi dây."
-
-Lúc bấy giờ, các tỳ-kheo bôi thuốc nhỏ mắt bằng ngón tay, mắt bị đau. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép que bôi thuốc nhỏ mắt."
-Lúc bấy giờ, nhóm sáu tỳ-kheo sử dụng các loại que bôi thuốc nhỏ mắt đắt tiền: làm bằng vàng, làm bằng bạc. Người dân chê bai, phàn nàn và châm biếm: "Giống như những người tại gia thụ hưởng dục lạc." Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, không được sử dụng các loại que bôi thuốc nhỏ mắt đắt tiền. Vị nào sử dụng, phạm *lỗi tác ác*.
-Này các tỳ-kheo, Ta cho phép làm bằng xương [...lặp lại...] vỏ ốc."
-
-Lúc bấy giờ, que bôi thuốc nhỏ mắt rơi xuống đất bị nhám. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép hộp đựng que."
-Lúc bấy giờ, các tỳ-kheo cầm cả ống đựng thuốc nhỏ mắt và que bôi thuốc nhỏ mắt bằng tay. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép túi đựng ống thuốc nhỏ mắt."
-Không có dây đeo vai. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép dây buộc đeo vai."
-
-13\. Lúc bấy giờ, Tôn giả Pilindavaccha bị nhức đầu. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép xoa dầu lên đỉnh đầu."
-Bệnh không thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép phép nhỏ mũi."
-Thuốc nhỏ mũi bị chảy ra. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép ống nhỏ mũi."
-Lúc bấy giờ, nhóm sáu tỳ-kheo sử dụng các loại ống nhỏ mũi đắt tiền: làm bằng vàng, làm bằng bạc. Người dân chê bai, phàn nàn và châm biếm: "Giống như những người tại gia thụ hưởng dục lạc." Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, không được sử dụng các loại ống nhỏ mũi đắt tiền. Vị nào sử dụng, phạm *lỗi tác ác*.
-Này các tỳ-kheo, Ta cho phép làm bằng xương [...lặp lại...] vỏ ốc."
-Họ nhỏ thuốc mũi không đều. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép ống nhỏ mũi đôi."
-Bệnh không thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép hút khói."
-Họ đốt mồi lửa rồi hút trực tiếp, cổ họng bị bỏng. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép ống hút khói."
-Lúc bấy giờ, nhóm sáu tỳ-kheo sử dụng các loại ống hút khói đắt tiền: làm bằng vàng, làm bằng bạc. Người dân chê bai, phàn nàn và châm biếm: "Giống như những người tại gia thụ hưởng dục lạc." Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, không được sử dụng các loại ống hút khói đắt tiền. Vị nào sử dụng, phạm *lỗi tác ác*.
-Này các tỳ-kheo, Ta cho phép làm bằng xương [...lặp lại...] vỏ ốc."
-Lúc bấy giờ, các ống hút khói không có nắp đậy, côn trùng chui vào. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nắp đậy."
-Lúc bấy giờ, các tỳ-kheo cầm ống hút khói bằng tay. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép túi đựng ống hút khói."
-Chúng cọ xát vào nhau. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép túi đôi."
-Không có dây đeo vai. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép dây buộc đeo vai."
-
-14\. Lúc bấy giờ, Tôn giả Pilindavaccha bị bệnh phong. Các thầy thuốc nói rằng: "Cần phải nấu dầu." Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nấu dầu."
-Trong khi nấu dầu, cần phải cho thêm rượu vào. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép cho thêm rượu vào khi nấu dầu."
-Lúc bấy giờ, nhóm sáu tỳ-kheo nấu dầu cho quá nhiều rượu, họ uống vào liền bị say. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, không được uống dầu cho quá nhiều rượu. Vị nào uống, phải bị xử lý theo đúng quy định.
-Này các tỳ-kheo, Ta cho phép uống loại dầu pha rượu nào mà khi nấu không còn nhận ra màu sắc, mùi và vị của rượu."
-Lúc bấy giờ, các tỳ-kheo có rất nhiều dầu nấu cho quá nhiều rượu. Rồi các tỳ-kheo nghĩ: "Nên xử lý thế nào với dầu cho quá nhiều rượu?" Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép dùng để xoa bóp."
-Lúc bấy giờ, Tôn giả Pilindavaccha có quá nhiều dầu đã nấu, nhưng không có bình đựng dầu. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép ba loại bình: bình kim loại, bình gỗ, bình quả."
-Lúc bấy giờ, Tôn giả Pilindavaccha bị đau nhức xương khớp. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép liệu pháp xông hơi."
-Bệnh không thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép xông hơi bằng thảo dược."
-Bệnh không thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép xông hơi toàn thân."
-Bệnh không thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép xông hơi bằng nước lá gai."
-Bệnh không thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép bồn tắm nước nóng."
-Lúc bấy giờ, Tôn giả Pilindavaccha bị đau khớp gió. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép trích máu."
-Bệnh không thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép trích máu rồi dùng sừng để hút."
-Lúc bấy giờ, Tôn giả Pilindavaccha bị nứt nẻ gót chân. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép thuốc xoa chân."
-Bệnh không thuyên giảm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép làm thuốc đắp chân."
-Lúc bấy giờ, một tỳ-kheo nọ bị bệnh mụn nhọt. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép phẫu thuật."
-Cần dùng nước sắc. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nước sắc."
-Cần dùng bã mè. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép bã mè."
-Cần dùng gạc đắp. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép gạc đắp."
-Cần dùng vải băng vết thương. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép vải băng vết thương."
-Vết thương bị ngứa. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép rắc bột mù tạt."
-Vết thương bị rỉ nước. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép xông khói."
-Thịt lồi mọc lên. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép cắt bằng mảnh muối tinh."
-Vết thương không lành. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép dầu bôi vết thương."
-Dầu bị chảy rỉ. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép tất cả các phương pháp điều trị vết thương bằng băng gạc."
-Lúc bấy giờ, một tỳ-kheo nọ bị rắn cắn. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép cho dùng bốn loại uế trược lớn: phân, nước tiểu, tro, đất sét."
-Rồi các tỳ-kheo nghĩ: "Những thứ này chưa được nhận thì có cần phải nhận không?" Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nếu có người phục vụ thì bảo họ dâng, nếu không có người phục vụ thì tự mình lấy mà dùng."
-Lúc bấy giờ, một tỳ-kheo nọ uống phải thuốc độc. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép cho uống nước phân."
-Rồi các tỳ-kheo nghĩ: "Thứ này chưa được nhận thì có cần phải nhận không?" Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, khi đang làm mà nhận thì xem như đã nhận, không cần phải nhận lại lần nữa."
-Lúc bấy giờ, một tỳ-kheo nọ bị bệnh do bùa ngải. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép cho uống nước bùn lạnh."
-Lúc bấy giờ, một tỳ-kheo nọ bị bệnh kiết lỵ ác tính. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép cho uống nước tro thịt."
-Lúc bấy giờ, một tỳ-kheo nọ bị bệnh vàng da. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép cho uống nước tiểu ngâm chiêu liêu."
-Lúc bấy giờ, một tỳ-kheo nọ bị bệnh ngoài da. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép bôi thuốc thơm."
-Lúc bấy giờ, một tỳ-kheo nọ bị đầy bụng. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép cho uống thuốc xổ."
-Cần dùng nước cháo trong. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nước cháo trong."
-Cần dùng nước súp chưa nêm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nước súp chưa nêm."
-Cần dùng nước súp có nêm và chưa nêm. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nước súp có nêm và chưa nêm."
-Cần dùng nước thịt. Họ trình sự việc này lên Thế Tôn.
-"Này các tỳ-kheo, Ta cho phép nước thịt."
-
-## 3. Câu chuyện về Pilindavaccha {#3}
-*(Pilindavacchavatthu)*
-
-15\. Lúc bấy giờ, Tôn giả Pilindavaccha đang cho dọn dẹp một sườn núi ở Rājagaha với mong muốn làm một hang động. Rồi vua Magadha là Seniya Bimbisāra đi đến chỗ Tôn giả Pilindavaccha, sau khi đến liền đảnh lễ Tôn giả Pilindavaccha rồi ngồi xuống một bên. Ngồi một bên, vua Magadha Seniya Bimbisāra thưa với Tôn giả Pilindavaccha: "Bạch Tôn giả, ngài đang cho làm gì vậy?"
+5.1\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ paṇṇehi bhesajjehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Thưa đại vương, tôi đang cho dọn dẹp sườn núi với mong muốn làm một hang động."
+“Anujānāmi, bhikkhave, paṇṇāni bhesajjāni— nimbapaṇṇaṁ, kuṭajapaṇṇaṁ, paṭolapaṇṇaṁ, sulasipaṇṇaṁ, kappāsapaṇṇaṁ, yāni vā panaññānipi atthi paṇṇāni bhesajjāni, neva khādanīye khādanīyatthaṁ pharanti, na bhojanīye bhojanīyatthaṁ pharanti … pe….
 
-"Bạch Tôn giả, ngài có cần người phục vụ trong vườn không?"
+6.1\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ phalehi bhesajjehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Thưa đại vương, Thế Tôn chưa cho phép người phục vụ trong vườn."
+“Anujānāmi, bhikkhave, phalāni bhesajjāni— bilaṅgaṁ, pippaliṁ, maricaṁ, harītakaṁ, vibhītakaṁ, āmalakaṁ, goṭṭhaphalaṁ, yāni vā panaññānipi atthi phalāni bhesajjāni, neva khādanīye khādanīyatthaṁ pharanti, na bhojanīye bhojanīyatthaṁ pharanti … pe….
 
-"Vậy thì, bạch Tôn giả, xin ngài hãy thưa hỏi Thế Tôn rồi báo lại cho tôi."
+7.1\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ jatūhi bhesajjehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Vâng, thưa đại vương," Tôn giả Pilindavaccha nhận lời vua Magadha Seniya Bimbisāra.
+“Anujānāmi, bhikkhave, jatūni bhesajjāni— hiṅguṁ, hiṅgujatuṁ, hiṅgusipāṭikaṁ, takaṁ, takapattiṁ, takapaṇṇiṁ, sajjulasaṁ, yāni vā panaññānipi atthi jatūni bhesajjāni, neva khādanīye khādanīyatthaṁ pharanti … pe….
 
-Rồi Tôn giả Pilindavaccha *giảng về Chân lý* (pháp thoại / dhammiyā kathāya) cho vua Magadha Seniya Bimbisāra thấy rõ, khích lệ, làm cho phấn chấn và làm cho hoan hỷ. Rồi vua Magadha Seniya Bimbisāra sau khi được Tôn giả Pilindavaccha *giảng về Chân lý* cho thấy rõ, khích lệ, làm cho phấn chấn và làm cho hoan hỷ, liền từ chỗ ngồi đứng dậy, đảnh lễ Tôn giả Pilindavaccha, đi nhiễu bên phải rồi rời đi.
+8.1\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ loṇehi bhesajjehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi Tôn giả Pilindavaccha phái sứ giả đến chỗ Thế Tôn: "Bạch Thế Tôn, vua Magadha Seniya Bimbisāra muốn dâng người phục vụ trong vườn. Con nên xử sự thế nào?" Rồi Thế Tôn nhân lý do này, nhân sự kiện này, sau khi *giảng về Chân lý*, bèn gọi các tỳ-kheo:
+“Anujānāmi, bhikkhave, loṇāni bhesajjāni— sāmuddaṁ, kāḷaloṇaṁ, sindhavaṁ, ubbhidaṁ, bilaṁ, yāni vā panaññānipi atthi loṇāni bhesajjāni, neva khādanīye khādanīyatthaṁ pharanti, na bhojanīye bhojanīyatthaṁ pharanti, tāni— paṭiggahetvā yāvajīvaṁ pariharituṁ; sati paccaye paribhuñjituṁ. Asati paccaye paribhuñjantassa āpatti dukkaṭassā”ti.
 
-"Này các tỳ-kheo, Ta cho phép người phục vụ trong vườn."
+9.1\. Tena kho pana samayena āyasmato ānandassa upajjhāyassa āyasmato belaṭṭhasīsassa thullakacchābādho hoti. Tassa lasikāya cīvarāni kāye lagganti, tāni bhikkhū udakena temetvā temetvā apakaḍḍhanti. Addasā kho bhagavā senāsanacārikaṁ āhiṇḍanto te bhikkhū tāni cīvarāni udakena temetvā temetvā apakaḍḍhante, disvāna yena te bhikkhū tenupasaṅkami, upasaṅkamitvā te bhikkhū etadavoca— “kiṁ imassa, bhikkhave, bhikkhuno ābādho”ti?
 
-Lần thứ hai, vua Magadha Seniya Bimbisāra đi đến chỗ Tôn giả Pilindavaccha; sau khi đến liền đảnh lễ Tôn giả Pilindavaccha rồi ngồi xuống một bên. Ngồi một bên, vua Magadha Seniya Bimbisāra thưa với Tôn giả Pilindavaccha: "Bạch Tôn giả, Thế Tôn đã cho phép người phục vụ trong vườn chưa?"
+“Imassa, bhante, āyasmato thullakacchābādho, lasikāya cīvarāni kāye lagganti, tāni mayaṁ udakena temetvā temetvā apakaḍḍhāmā”ti. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-"Rồi, thưa đại vương."
+9.2\. “anujānāmi, bhikkhave, yassa kaṇḍu vā, piḷakā vā, assāvo vā, thullakacchu vā ābādho, kāyo vā duggandho, cuṇṇāni bhesajjāni; agilānassa chakaṇaṁ mattikaṁ rajananippakkaṁ. Anujānāmi, bhikkhave, udukkhalaṁ musalan”ti.
 
-"Vậy thì, bạch Tôn giả, tôi xin dâng ngài người phục vụ trong vườn."
+10.1\. Tena kho pana samayena gilānānaṁ bhikkhūnaṁ cuṇṇehi bhesajjehi cālitehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi vua Magadha Seniya Bimbisāra sau khi hứa dâng người phục vụ trong vườn cho Tôn giả Pilindavaccha, lại quên mất, mãi lâu sau mới nhớ ra, bèn gọi một vị đại thần phụ trách mọi việc: "Này khanh, người phục vụ trong vườn mà ta đã hứa dâng cho Tôn giả, đã được dâng chưa?"
+“Anujānāmi, bhikkhave, cuṇṇacālinin”ti.
 
-"Tâu bệ hạ, người phục vụ trong vườn chưa được dâng cho Tôn giả."
+Saṇhehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này khanh, kể từ đó đến nay là bao lâu rồi?"
+“Anujānāmi, bhikkhave, dussacālinin”ti.
 
-Rồi vị đại thần ấy đếm số đêm và thưa với vua Magadha Seniya Bimbisāra: "Tâu bệ hạ, năm trăm đêm."
+10.2\. Tena kho pana samayena aññatarassa bhikkhuno amanussikābādho hoti. Taṁ ācariyupajjhāyā upaṭṭhahantā nāsakkhiṁsu arogaṁ kātuṁ. So sūkarasūnaṁ gantvā āmakamaṁsaṁ khādi, āmakalohitaṁ pivi. Tassa so amanussikābādho paṭippassambhi. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Vậy thì, này khanh, hãy dâng cho Tôn giả năm trăm người phục vụ trong vườn."
+“Anujānāmi, bhikkhave, amanussikābādhe āmakamaṁsaṁ āmakalohitan”ti.
 
-"Tuân lệnh bệ hạ," vị đại thần ấy nhận lời vua Magadha Seniya Bimbisāra và giao năm trăm người phục vụ trong vườn cho Tôn giả Pilindavaccha, lập thành một ngôi làng riêng biệt. Người ta gọi đó là "Làng của người phục vụ trong vườn", cũng gọi là "Làng Pilinda". Lúc bấy giờ, Tôn giả Pilindavaccha thường xuyên lui tới gia đình trong ngôi làng ấy.
+11.1\. Tena kho pana samayena aññatarassa bhikkhuno cakkhurogābādho hoti. Taṁ bhikkhū pariggahetvā uccārampi passāvampi nikkhāmenti. Addasā kho bhagavā senāsanacārikaṁ āhiṇḍanto te bhikkhū taṁ bhikkhuṁ pariggahetvā uccārampi passāvampi nikkhāmente, disvāna yena te bhikkhū tenupasaṅkami, upasaṅkamitvā te bhikkhū etadavoca— “kiṁ imassa, bhikkhave, bhikkhuno ābādho”ti?
 
-Rồi Tôn giả Pilindavaccha vào buổi sáng, mặc y, mang bát đi vào làng Pilinda để khất thực. Lúc bấy giờ, trong ngôi làng ấy đang có lễ hội. Các trẻ em được trang điểm, đeo vòng hoa đang nô đùa. Rồi Tôn giả Pilindavaccha đi khất thực từng nhà trong làng Pilinda, đi đến nhà của một người phục vụ trong vườn, sau khi đến liền ngồi trên chỗ đã được trải sẵn. Lúc bấy giờ, con gái của người vợ người phục vụ trong vườn ấy thấy các trẻ em khác được trang điểm, đeo vòng hoa liền khóc: "Hãy cho con vòng hoa, hãy cho con đồ trang sức." Rồi Tôn giả Pilindavaccha nói với người vợ người phục vụ trong vườn ấy: "Vì sao đứa bé gái này lại khóc?" "Bạch Tôn giả, đứa bé gái này thấy các trẻ em khác được trang điểm, đeo vòng hoa liền khóc: 'Hãy cho con vòng hoa, hãy cho con đồ trang sức.' Chúng con nghèo khổ thì lấy đâu ra vòng hoa, lấy đâu ra đồ trang sức?" Rồi Tôn giả Pilindavaccha lấy một vòng cỏ và nói với người vợ người phục vụ trong vườn ấy: "Này, hãy đội vòng cỏ này lên đầu đứa bé gái ấy." Rồi người vợ người phục vụ trong vườn ấy lấy vòng cỏ và đội lên đầu đứa bé gái ấy. Nó biến thành một vòng hoa bằng vàng tuyệt đẹp, bắt mắt và dễ thương; ngay cả trong hậu cung của nhà vua cũng không có vòng hoa bằng vàng nào như vậy.
+11.2\. “Imassa, bhante, āyasmato cakkhurogābādho. Imaṁ mayaṁ pariggahetvā uccārampi passāvampi nikkhāmemā”ti. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-Người dân báo cho vua Magadha Seniya Bimbisāra: "Tâu bệ hạ, tại nhà của người phục vụ trong vườn kia có một vòng hoa bằng vàng tuyệt đẹp, bắt mắt và dễ thương; ngay cả trong hậu cung của bệ hạ cũng không có vòng hoa bằng vàng nào như vậy; kẻ nghèo khổ ấy lấy đâu ra? Chắc chắn là do trộm cắp mà có." Rồi vua Magadha Seniya Bimbisāra ra lệnh bắt giam gia đình người phục vụ trong vườn ấy.
+“anujānāmi, bhikkhave, añjanaṁ— kāḷañjanaṁ, rasañjanaṁ, sotañjanaṁ, gerukaṁ, kapallan”ti.
 
-Lần thứ hai, Tôn giả Pilindavaccha vào buổi sáng, mặc y, mang bát đi vào làng Pilinda để khất thực. Đi khất thực từng nhà trong làng Pilinda, ngài đi đến nhà của người phục vụ trong vườn ấy, sau khi đến liền hỏi người hàng xóm: "Gia đình người phục vụ trong vườn này đi đâu rồi?"
+Añjanūpapisanehi attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Bạch Tôn giả, vì vòng hoa bằng vàng ấy mà nhà vua đã bắt giam họ."
+“Anujānāmi, bhikkhave, candanaṁ, tagaraṁ, kāḷānusāriyaṁ, tālīsaṁ, bhaddamuttakan”ti.
 
-Rồi Tôn giả Pilindavaccha đi đến cung điện của vua Magadha Seniya Bimbisāra, sau khi đến liền ngồi trên chỗ đã được trải sẵn. Rồi vua Magadha Seniya Bimbisāra đi đến chỗ Tôn giả Pilindavaccha, sau khi đến liền đảnh lễ Tôn giả Pilindavaccha rồi ngồi xuống một bên. Khi vua Magadha Seniya Bimbisāra ngồi một bên, Tôn giả Pilindavaccha nói với vua: "Thưa đại vương, vì sao gia đình người phục vụ trong vườn lại bị bắt giam?"
+12.1\. Tena kho pana samayena bhikkhū piṭṭhāni añjanāni carukesupi sarāvakesupi nikkhipanti; tiṇacuṇṇehipi paṁsukehipi okiriyanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Bạch Tôn giả, tại nhà của người phục vụ trong vườn ấy có một vòng hoa bằng vàng tuyệt đẹp, bắt mắt và dễ thương; ngay cả trong hậu cung của chúng tôi cũng không có vòng hoa bằng vàng nào như vậy; kẻ nghèo khổ ấy lấy đâu ra? Chắc chắn là do trộm cắp mà có."
+“Anujānāmi, bhikkhave, añjanin”ti.
 
-Rồi Tôn giả Pilindavaccha quyết định cung điện của vua Magadha Seniya Bimbisāra là vàng; nó liền biến thành toàn bằng vàng. "Nhưng thưa đại vương, ngài lấy đâu ra nhiều vàng như thế này?"
+Tena kho pana samayena chabbaggiyā bhikkhū uccāvacā añjaniyo dhārenti— sovaṇṇamayaṁ, rūpiyamayaṁ. Manussā ujjhāyanti khiyyanti vipācenti— “seyyathāpi gihī kāmabhogino”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Bạch Tôn giả, tôi đã hiểu, đây chính là thần thông của ngài." Rồi vua ra lệnh thả gia đình người phục vụ trong vườn ấy.
+“Na, bhikkhave, uccāvacā añjanī dhāretabbā. Yo dhāreyya, āpatti dukkaṭassa.
 
-Người dân nghĩ: "Tôn giả Pilindavaccha đã thi triển phép lạ thần thông vượt quá giới hạn con người trước mặt hội chúng của nhà vua," họ hoan hỷ, đặt niềm tin tuyệt đối và dâng lên Tôn giả Pilindavaccha năm loại thuốc, đó là: bơ trong, bơ tươi, dầu, mật ong, mật mía. Vốn dĩ Tôn giả Pilindavaccha thường nhận được năm loại thuốc này; cứ nhận được là ngài lại phân phát cho hội chúng. Và hội chúng của ngài trở nên sống dư dật; cứ nhận được là họ đổ đầy các hũ, các vại rồi cất giữ; họ đổ đầy các túi lọc nước, các đãy rồi treo ở cửa sổ. Những thứ ấy rỉ nước và chảy ra. Các chỗ ở bị chuột bọ tràn ngập. Người dân khi đi dạo qua các chỗ ở, thấy vậy liền chê bai, phàn nàn và châm biếm: "Những sa-môn Thích tử này là những kẻ giữ kho chứa đồ ở bên trong, giống như vua Magadha Seniya Bimbisāra vậy."
+Anujānāmi, bhikkhave, aṭṭhimayaṁ, dantamayaṁ, visāṇamayaṁ, naḷamayaṁ, veḷumayaṁ, kaṭṭhamayaṁ, jatumayaṁ, phalamayaṁ, lohamayaṁ, saṅkhanābhimayan”ti.
 
-Các tỳ-kheo nghe những người dân ấy chê bai, phàn nàn và châm biếm. Những tỳ-kheo ít ham muốn liền chê bai, phàn nàn và châm biếm: "Làm sao các tỳ-kheo lại có ý định sống dư dật như vậy?"
+12.2\. Tena kho pana samayena añjaniyo apārutā honti, tiṇacuṇṇehipi paṁsukehipi okiriyanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi các tỳ-kheo ấy chê trách bằng nhiều cách và trình sự việc này lên Thế Tôn [...lặp lại...] "Này các tỳ-kheo, có thật là các tỳ-kheo có ý định sống dư dật như vậy không?" "Bạch Thế Tôn, là sự thật." [...lặp lại...] Thế Tôn chê trách, sau khi *giảng về Chân lý*, bèn gọi các tỳ-kheo:
+“Anujānāmi, bhikkhave, apidhānanti.
 
-"Này các tỳ-kheo, những loại thuốc nào được dùng để nếm cho các tỳ-kheo bệnh, đó là: bơ trong, bơ tươi, dầu, mật ong, mật mía, sau khi nhận, được phép cất giữ và sử dụng tối đa là bảy ngày. Nếu vượt quá thời hạn đó, phải bị xử lý theo đúng quy định."
+Apidhānaṁ nipatati. Bhagavato etamatthaṁ ārocesuṁ.
 
-Kết thúc phần tụng thứ nhất về việc cho phép các loại thuốc.
+“Anujānāmi, bhikkhave, suttakena bandhitvā añjaniyā bandhitun”ti.
 
-## 4. Câu chuyện về việc cho phép đường mật và các thứ khác {#4}
-*(Guḷādianujānana)*
+Añjanī phalati. Bhagavato etamatthaṁ ārocesuṁ.
 
-16\. Rồi Thế Tôn trú ở Sāvatthi bao lâu tùy ý, bèn khởi hành đi du hành về hướng Rājagaha. Tôn giả Kaṅkhārevata trên đường đi nhìn thấy chỗ làm đường mật, ngài ghé vào và thấy người ta đang cho bột và tro vào đường mật, thấy vậy ngài nghĩ: "Đường mật này không hợp lệ vì có lẫn thức ăn, không được phép dùng đường mật phi thời" — ngài sinh lòng lo ngại nên cùng với hội chúng không dùng đường mật. Những ai cho rằng nên nghe theo ngài, họ cũng không dùng đường mật. Họ trình sự việc này lên Thế Tôn. "Này các tỳ-kheo, vì mục đích gì mà họ cho bột và tro vào đường mật?"
+“Anujānāmi, bhikkhave, suttakena sibbetun”ti.
 
-"Bạch Thế Tôn, để làm cho cứng lại."
+12.3\. Tena kho pana samayena bhikkhū aṅguliyā añjanti, akkhīni dukkhāni honti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này các tỳ-kheo, nếu họ cho bột và tro vào đường mật để làm cho cứng lại, và nó vẫn được gọi là đường mật. Này các tỳ-kheo, Ta cho phép dùng đường mật thoải mái."
+“Anujānāmi, bhikkhave, añjanisalākan”ti.
 
-Tôn giả Kaṅkhārevata trên đường đi nhìn thấy đậu xanh mọc lên từ phân, thấy vậy ngài nghĩ: "Đậu xanh này không hợp lệ; đậu xanh đã nấu chín mà vẫn mọc lên được" — ngài sinh lòng lo ngại nên cùng với hội chúng không dùng đậu xanh. Những ai cho rằng nên nghe theo ngài, họ cũng không dùng đậu xanh. Họ trình sự việc này lên Thế Tôn.
+Tena kho pana samayena chabbaggiyā bhikkhū uccāvacā añjanisalākāyo dhārenti— sovaṇṇamayaṁ rūpiyamayaṁ. Manussā ujjhāyanti khiyyanti vipācenti— “seyyathāpi gihī kāmabhogino”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này các tỳ-kheo, nếu đậu xanh đã nấu chín mà vẫn mọc lên được, này các tỳ-kheo, Ta cho phép dùng đậu xanh thoải mái."
+“Na, bhikkhave, uccāvacā añjanisalākā dhāretabbā. Yo dhāreyya, āpatti dukkaṭassa.
 
-Lúc bấy giờ, một tỳ-kheo nọ bị bệnh đầy hơi trong bụng. Vị ấy uống nước muối chua. Bệnh đầy hơi trong bụng của vị ấy liền thuyên giảm. Họ trình sự việc này lên Thế Tôn.
+Anujānāmi, bhikkhave, aṭṭhimayaṁ …pe… saṅkhanābhimayan”ti.
 
-"Này các tỳ-kheo, Ta cho phép người bệnh dùng nước muối chua; người không bệnh được phép pha với nước rồi dùng như đồ uống."
+12.4\. Tena kho pana samayena añjanisalākā bhūmiyaṁ patitā pharusā hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-## 5. Câu chuyện về việc cấm cất giữ bên trong và các thứ khác {#5}
-*(Antovuṭṭhādipaṭikkhepakathā)*
+“Anujānāmi, bhikkhave, salākaṭhāniyan”ti.
 
-17\. Rồi Thế Tôn đi du hành tuần tự và đến Rājagaha. Tại đó, Thế Tôn trú ở Rājagaha, tại Veḷuvana, khu vực nuôi dưỡng sóc.
+Tena kho pana samayena bhikkhū añjanimpi añjanisalākampi hatthena pariharanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Lúc bấy giờ, Thế Tôn bị bệnh đầy hơi trong bụng. Rồi Tôn giả Ānanda nghĩ: "Trước đây bệnh đầy hơi trong bụng của Thế Tôn thuyên giảm nhờ cháo ba vị cay" — ngài liền tự mình xin mè, gạo và đậu xanh, cất giữ bên trong, tự mình nấu bên trong rồi dâng lên Thế Tôn: "Kính thỉnh Thế Tôn uống cháo ba vị cay."
+“Anujānāmi, bhikkhave, añjanitthavikan”ti.
 
-Các vị *Người Đến Như Vậy* (Như Lai / tathāgatā) dù biết vẫn hỏi, dù biết cũng không hỏi; biết thời điểm thì hỏi, biết thời điểm thì không hỏi; các vị *Người Đến Như Vậy* hỏi những điều có lợi ích, không hỏi những điều không có lợi ích. Đối với những điều không có lợi ích, các vị *Người Đến Như Vậy* đã phá sập cầu. Các vị Phật Thế Tôn tra vấn các tỳ-kheo vì hai lý do: "Hoặc là Ta sẽ *giảng về Chân lý*, hoặc là Ta sẽ quy định điều học cho các đệ tử."
+Aṁsabaddhako na hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi Thế Tôn gọi Tôn giả Ānanda: "Này Ānanda, cháo này từ đâu ra?" Rồi Tôn giả Ānanda trình sự việc này lên Thế Tôn.
+“Anujānāmi, bhikkhave, aṁsabaddhakaṁ bandhanasuttakan”ti.
 
-Phật Thế Tôn chê trách: "Này Ānanda, thật không phù hợp, không thuận lý, không thích đáng, không xứng đáng phẩm hạnh sa-môn, không hợp lệ, không nên làm. Này Ānanda, làm sao ông lại có ý định sống dư dật như vậy? Này Ānanda, cất giữ bên trong là không hợp lệ; nấu bên trong cũng không hợp lệ; tự mình nấu cũng không hợp lệ. Này Ānanda, điều này không mang lại niềm tin cho những người chưa có niềm tin [...lặp lại...] Thế Tôn chê trách, sau khi *giảng về Chân lý*, bèn gọi các tỳ-kheo:
+13.1\. Tena kho pana samayena āyasmato pilindavacchassa sīsābhitāpo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này các tỳ-kheo, không được dùng đồ cất giữ bên trong, đồ nấu bên trong, đồ tự mình nấu. Vị nào dùng, phạm *lỗi tác ác* [!] (tác ác / dukkaṭa).
+“Anujānāmi, bhikkhave, muddhani telakan”ti.
 
-Này các tỳ-kheo, nếu cất giữ bên trong, nấu bên trong, tự mình nấu, nếu vị nào dùng, phạm ba *lỗi tác ác*.
+Nakkhamaniyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Này các tỳ-kheo, nếu cất giữ bên trong, nấu bên trong, người khác nấu, nếu vị nào dùng, phạm hai *lỗi tác ác*.
+“Anujānāmi, bhikkhave, natthukamman”ti.
 
-Này các tỳ-kheo, nếu cất giữ bên trong, nấu bên ngoài, tự mình nấu, nếu vị nào dùng, phạm hai *lỗi tác ác*.
+Natthu galati. Bhagavato etamatthaṁ ārocesuṁ.
 
-Này các tỳ-kheo, nếu cất giữ bên ngoài, nấu bên trong, tự mình nấu, nếu vị nào dùng, phạm hai *lỗi tác ác*.
+“Anujānāmi, bhikkhave, natthukaraṇin”ti.
 
-Này các tỳ-kheo, nếu cất giữ bên trong, nấu bên ngoài, người khác nấu, nếu vị nào dùng, phạm một *lỗi tác ác*.
+Tena kho pana samayena chabbaggiyā bhikkhū uccāvacā natthukaraṇiyo dhārenti— sovaṇṇamayaṁ rūpiyamayaṁ. Manussā ujjhāyanti khiyyanti vipācenti— “seyyathāpi gihī kāmabhogino”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Này các tỳ-kheo, nếu cất giữ bên ngoài, nấu bên trong, người khác nấu, nếu vị nào dùng, phạm một *lỗi tác ác*.
+“Na, bhikkhave, uccāvacā natthukaraṇī dhāretabbā. Yo dhāreyya, āpatti dukkaṭassa.
 
-Này các tỳ-kheo, nếu cất giữ bên ngoài, nấu bên ngoài, tự mình nấu, nếu vị nào dùng, phạm một *lỗi tác ác*.
+Anujānāmi, bhikkhave, aṭṭhimayaṁ …pe… saṅkhanābhimayan”ti.
 
-Này các tỳ-kheo, nếu cất giữ bên ngoài, nấu bên ngoài, người khác nấu, nếu vị nào dùng, không phạm lỗi."
+13.2\. Natthuṁ visamaṁ āsiñcanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Lúc bấy giờ, các tỳ-kheo nghĩ: "Thế Tôn đã cấm tự mình nấu" — nên họ sinh lòng lo ngại khi hâm nóng lại đồ ăn. Họ trình sự việc này lên Thế Tôn.
+“Anujānāmi, bhikkhave, yamakanatthukaraṇin”ti.
 
-"Này các tỳ-kheo, Ta cho phép hâm nóng lại đồ ăn."
+Nakkhamaniyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Lúc bấy giờ, ở Rājagaha xảy ra nạn đói. Người dân mang muối, dầu, gạo và thức ăn nhai đến khu vườn. Các tỳ-kheo cất giữ chúng ở bên ngoài; bị thú hoang ăn mất và bị trộm lấy cắp. Họ trình sự việc này lên Thế Tôn.
+“Anujānāmi, bhikkhave, dhūmaṁ pātun”ti.
 
-"Này các tỳ-kheo, Ta cho phép cất giữ bên trong."
+Taññeva vaṭṭiṁ ālimpetvā pivanti, kaṇṭho dahati. Bhagavato etamatthaṁ ārocesuṁ.
 
-Họ cất giữ bên trong rồi đem ra ngoài nấu. Những người thuần hóa thú vây quanh. Các tỳ-kheo phải ăn trong sự bất an. Họ trình sự việc này lên Thế Tôn.
+“Anujānāmi, bhikkhave, dhūmanettan”ti.
 
-"Này các tỳ-kheo, Ta cho phép nấu bên trong."
+Tena kho pana samayena chabbaggiyā bhikkhū uccāvacāni dhūmanettāni dhārenti— sovaṇṇamayaṁ rūpiyamayaṁ. Manussā ujjhāyanti khiyyanti vipācenti— “seyyathāpi gihī kāmabhogino”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Trong lúc nạn đói, những người phục vụ lấy đi phần nhiều, chỉ đưa cho các tỳ-kheo phần ít. Họ trình sự việc này lên Thế Tôn.
+“Na, bhikkhave, uccāvacāni dhūmanettāni dhāretabbāni. Yo dhāreyya, āpatti dukkaṭassa.
 
-"Này các tỳ-kheo, Ta cho phép tự mình nấu. Này các tỳ-kheo, Ta cho phép đồ cất giữ bên trong, đồ nấu bên trong, đồ tự mình nấu."
+Anujānāmi, bhikkhave, aṭṭhimayaṁ …pe… saṅkhanābhimayan”ti.
 
-## 6. Câu chuyện về việc tự lấy và tự nhận {#6}
-*(Uggahitapaṭiggahaṇa)*
+Tena kho pana samayena dhūmanettāni apārutāni honti, pāṇakā pavisanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Lúc bấy giờ, có nhiều tỳ-kheo sau khi an cư mùa mưa ở vùng Kāsi, đang trên đường đến Rājagaha để yết kiến Thế Tôn. Dọc đường, họ không kiếm đủ thức ăn thô hay thức ăn ngon cho no bụng; nhưng lại có nhiều trái cây ăn được; và không có người phục vụ.
+“Anujānāmi, bhikkhave, apidhānan”ti.
 
-Rồi các tỳ-kheo ấy với vẻ mệt mỏi đi đến Rājagaha, tại Veḷuvana, khu vực nuôi dưỡng sóc, đi đến chỗ Thế Tôn, sau khi đến liền đảnh lễ Thế Tôn rồi ngồi xuống một bên. Theo thông lệ, các vị Phật Thế Tôn thường hỏi thăm các tỳ-kheo khách. Rồi Thế Tôn hỏi các tỳ-kheo ấy: "Này các tỳ-kheo, các ông có kham nhẫn được không, có sống tạm ổn không, các ông đi đường có ít mệt nhọc không; và này các tỳ-kheo, các ông từ đâu đến?"
+Tena kho pana samayena bhikkhū dhūmanettāni hatthena pariharanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Bạch Thế Tôn, chúng con kham nhẫn được, bạch Thế Tôn, chúng con sống tạm ổn. Bạch Thế Tôn, chúng con sau khi an cư mùa mưa ở vùng Kāsi, đang trên đường đến Rājagaha để yết kiến Thế Tôn. Dọc đường, chúng con không kiếm đủ thức ăn thô hay thức ăn ngon cho no bụng; nhưng lại có nhiều trái cây ăn được; và không có người phục vụ; do đó chúng con đi đường với vẻ mệt mỏi." Rồi Thế Tôn nhân lý do này, nhân sự kiện này, sau khi *giảng về Chân lý*, bèn gọi các tỳ-kheo:
+“Anujānāmi, bhikkhave, dhūmanettathavikan”ti.
 
-"Này các tỳ-kheo, ở đâu thấy trái cây ăn được mà không có người phục vụ, Ta cho phép tự mình lấy, mang đi, khi thấy người phục vụ thì đặt xuống đất, bảo họ dâng lên rồi mới dùng. Này các tỳ-kheo, Ta cho phép tự lấy và tự nhận."
+Ekato ghaṁsiyanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-18\. Lúc bấy giờ, một người Bà-la-môn nọ thu hoạch được mè mới và mật ong mới. Rồi người Bà-la-môn ấy nghĩ: "Hay là ta dâng mè mới và mật ong mới cho hội chúng tỳ-kheo do Đức Phật đứng đầu." Rồi người Bà-la-môn ấy đi đến chỗ Thế Tôn, sau khi đến liền chào hỏi Thế Tôn, trao đổi những lời chào hỏi thân hữu rồi đứng một bên. Đứng một bên, người Bà-la-môn ấy thưa với Thế Tôn: "Kính thỉnh Tôn giả Gotama cùng hội chúng tỳ-kheo nhận lời thọ trai của tôi vào ngày mai." Thế Tôn im lặng nhận lời. Rồi người Bà-la-môn ấy biết Thế Tôn đã nhận lời liền rời đi.
+“Anujānāmi, bhikkhave, yamakathavikan”ti.
 
-Rồi người Bà-la-môn ấy qua đêm đó, cho chuẩn bị thức ăn nhai và thức ăn mềm thượng hạng, rồi báo giờ cho Thế Tôn: "Thưa Tôn giả Gotama, đã đến giờ, thức ăn đã chuẩn bị xong."
+Aṁsabaddhako na hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi Thế Tôn vào buổi sáng, mặc y, mang bát đi đến nhà của người Bà-la-môn ấy, sau khi đến liền ngồi trên chỗ đã được trải sẵn cùng với hội chúng tỳ-kheo. Rồi người Bà-la-môn ấy tự tay dâng thức ăn nhai và thức ăn mềm thượng hạng cho hội chúng tỳ-kheo do Đức Phật đứng đầu, làm cho thỏa mãn và no đủ; khi Thế Tôn đã ăn xong, tay rời khỏi bát, ông liền ngồi xuống một bên. Khi người Bà-la-môn ấy ngồi một bên, Thế Tôn *giảng về Chân lý* cho ông thấy rõ, khích lệ, làm cho phấn chấn và làm cho hoan hỷ, rồi từ chỗ ngồi đứng dậy và rời đi.
+“Anujānāmi, bhikkhave, aṁsabaddhakaṁ bandhanasuttakan”ti.
 
-Rồi người Bà-la-môn ấy, không lâu sau khi Thế Tôn rời đi, liền nghĩ: "Mục đích ta thỉnh hội chúng tỳ-kheo do Đức Phật đứng đầu là để dâng mè mới và mật ong mới, nhưng ta lại quên dâng. Hay là ta cho mang mè mới và mật ong mới bằng các hũ và vại đến khu vườn." Rồi người Bà-la-môn ấy cho mang mè mới và mật ong mới bằng các hũ và vại đến khu vườn, đi đến chỗ Thế Tôn, sau khi đến liền đứng một bên. Đứng một bên, người Bà-la-môn ấy thưa với Thế Tôn: "Thưa Tôn giả Gotama, mục đích tôi thỉnh hội chúng tỳ-kheo do Đức Phật đứng đầu là để dâng mè mới và mật ong mới, nhưng tôi lại quên dâng. Kính thỉnh Tôn giả Gotama nhận mè mới và mật ong mới của tôi."
+14.1\. Tena kho pana samayena āyasmato pilindavacchassa vātābādho hoti. Vejjā evamāhaṁsu— “telaṁ pacitabban”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Vậy thì, này Bà-la-môn, hãy dâng cho các tỳ-kheo."
+“Anujānāmi, bhikkhave, telapākan”ti.
 
-Lúc bấy giờ, trong lúc nạn đói, các tỳ-kheo dù ăn một lượng nhỏ cũng đã no đủ, dù đã suy xét kỹ cũng từ chối, và toàn bộ hội chúng đều đã no đủ. Các tỳ-kheo sinh lòng lo ngại nên không nhận.
+Tasmiṁ kho pana telapāke majjaṁ pakkhipitabbaṁ hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này các tỳ-kheo, hãy nhận lấy và dùng. Này các tỳ-kheo, Ta cho phép người đã ăn xong, đã no đủ được dùng đồ ăn mang từ đó đến dù chưa làm phép dư tàn."
+“Anujānāmi, bhikkhave, telapāke majjaṁ pakkhipitun”ti.
 
-## 7. Việc cho phép nhận trước, v.v. {#7}
-*(Paṭiggahitādianujānana)*
+Tena kho pana samayena chabbaggiyā bhikkhū atipakkhittamajjāni telāni pacanti, tāni pivitvā majjanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-19\. Vào lúc bấy giờ, gia đình hộ độ của tôn giả Upananda, con trai dòng Sakya, đã gửi đồ ăn loại cứng đến cho Tăng chúng [với lời dặn]: "Sau khi cho tôn giả Upananda xem, hãy dâng cho Tăng chúng." Vào lúc bấy giờ, tôn giả Upananda, con trai dòng Sakya, đang đi vào làng để khất thực. Rồi những người ấy đi đến tu viện và hỏi các tỳ-kheo: "Thưa các ngài, tôn giả Upananda ở đâu?" "Này các hiền giả, tôn giả Upananda, con trai dòng Sakya, đang đi vào làng để khất thực." "Thưa các ngài, đồ ăn loại cứng này, sau khi cho tôn giả Upananda xem, hãy dâng cho Tăng chúng." Họ đem sự việc này báo cho Thế Tôn. "Này các tỳ-kheo, nếu vậy, hãy nhận lấy và cất giữ cho đến khi Upananda trở về." Rồi tôn giả Upananda, con trai dòng Sakya, sau khi đi thăm các gia đình trước bữa ăn, đã trở về vào ban ngày.
+“Na, bhikkhave, atipakkhittamajjaṁ telaṁ pātabbaṁ. Yo piveyya, yathādhammo kāretabbo.
 
-Vào lúc bấy giờ, trong thời kỳ đói kém, các tỳ-kheo dù [được mời] một ít cũng từ chối [ăn thêm], dù cẩn thận suy xét cũng từ chối, và toàn bộ Tăng chúng đều đã từ chối [ăn thêm]. Các tỳ-kheo sinh lòng e ngại nên không nhận [đồ ăn của Upananda].
+Anujānāmi, bhikkhave, yasmiṁ telapāke majjassa na vaṇṇo na gandho na raso paññāyati, evarūpaṁ majjapakkhittaṁ telaṁ pātun”ti.
 
-"Này các tỳ-kheo, hãy nhận lấy và ăn đi. Này các tỳ-kheo, Ta cho phép người đã ăn xong và đã từ chối [ăn thêm] được ăn đồ ăn không phải đồ thừa, được nhận trước bữa ăn."
+14.2\. Tena kho pana samayena bhikkhūnaṁ bahuṁ atipakkhittamajjaṁ telaṁ pakkaṁ hoti. Atha kho bhikkhūnaṁ etadahosi—“kathaṁ nu kho atipakkhittamajje tele paṭipajjitabban”ti? Bhagavato etamatthaṁ ārocesuṁ.
 
-20\. Rồi Thế Tôn, sau khi ở lại Rājagaha bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Sāvatthī. Đi du hành tuần tự, ngài đến Sāvatthī. Tại đó, Thế Tôn trú ở Sāvatthī, tại tu viện Jetavana, khu vườn của Anāthapiṇḍika.
+“Anujānāmi, bhikkhave, abbhañjanaṁ adhiṭṭhātun”ti.
 
-Vào lúc bấy giờ, tôn giả Sāriputta bị bệnh sốt nóng. Rồi tôn giả Mahāmoggallāna đi đến chỗ tôn giả Sāriputta, sau khi đến, nói với tôn giả Sāriputta điều này: "Này hiền giả Sāriputta, trước đây bệnh sốt nóng của hiền giả được thuyên giảm nhờ cái gì?"
+Tena kho pana samayena āyasmato pilindavacchassa bahutaraṁ telaṁ pakkaṁ hoti, telabhājanaṁ na vijjati. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này hiền giả, nhờ ngó sen và củ sen."
+“Anujānāmi, bhikkhave, tīṇi tumbāni— lohatumbaṁ, kaṭṭhatumbaṁ, phalatumban”ti.
 
-Rồi tôn giả Mahāmoggallāna, giống như một người lực lưỡng duỗi ra cánh tay đang co lại, hay co lại cánh tay đang duỗi ra; cũng vậy, ngài biến mất ở Jetavana và xuất hiện trên bờ hồ sen Mandākinī. Một vị naga nọ nhìn thấy tôn giả Mahāmoggallāna đang đi đến từ đằng xa, sau khi thấy, liền nói với tôn giả Mahāmoggallāna điều này: "Xin mời đến, thưa ngài, tôn giả Mahāmoggallāna. Chào mừng tôn giả Mahāmoggallāna. Thưa ngài, tôn giả cần gì; tôi có thể cho ngài thứ gì?"
+14.3\. Tena kho pana samayena āyasmato pilindavacchassa aṅgavāto hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này hiền giả, tôi cần ngó sen và củ sen."
+“Anujānāmi, bhikkhave, sedakamman”ti.
 
-Rồi vị naga ấy ra lệnh cho một vị naga khác: "Này anh bạn, nếu vậy, hãy đưa cho tôn giả ngó sen và củ sen bao nhiêu tùy thích." Rồi vị naga ấy lặn xuống hồ sen Mandākinī, dùng vòi nhổ ngó sen và củ sen lên, rửa thật sạch sẽ, buộc thành bó rồi đi đến chỗ tôn giả Mahāmoggallāna. Rồi tôn giả Mahāmoggallāna—giống như một người lực lưỡng duỗi ra cánh tay đang co lại, hay co lại cánh tay đang duỗi ra; cũng vậy—biến mất ở bờ hồ sen Mandākinī và xuất hiện tại Jetavana. Vị naga ấy cũng biến mất ở bờ hồ sen Mandākinī và xuất hiện tại Jetavana. Rồi vị naga ấy trao ngó sen và củ sen cho tôn giả Mahāmoggallāna, rồi biến mất ở Jetavana và xuất hiện trên bờ hồ sen Mandākinī. Rồi tôn giả Mahāmoggallāna đem ngó sen và củ sen dâng cho tôn giả Sāriputta. Rồi sau khi tôn giả Sāriputta ăn ngó sen và củ sen, bệnh sốt nóng liền *lắng dịu* (diệt / paṭippassambhi). Rất nhiều ngó sen và củ sen vẫn còn thừa lại.
+Nakkhamaniyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Vào lúc bấy giờ, trong thời kỳ đói kém, các tỳ-kheo dù [được mời] một ít cũng từ chối [ăn thêm], dù cẩn thận suy xét cũng từ chối, và toàn bộ Tăng chúng đều đã từ chối [ăn thêm]. Các tỳ-kheo sinh lòng e ngại nên không nhận lấy.
+“Anujānāmi, bhikkhave, sambhārasedan”ti.
 
-"Này các tỳ-kheo, hãy nhận lấy và ăn đi. Này các tỳ-kheo, Ta cho phép người đã ăn xong và đã từ chối [ăn thêm] được ăn đồ ăn không phải đồ thừa, mọc trong rừng hay mọc trong hồ sen."
+Nakkhamaniyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-21\. Vào lúc bấy giờ, ở Sāvatthī có rất nhiều trái cây sinh ra, nhưng không có người làm cho hợp pháp. Các tỳ-kheo sinh lòng e ngại nên không ăn trái cây. Họ đem sự việc này báo cho Thế Tôn.
+“Anujānāmi, bhikkhave, mahāsedan”ti.
 
-"Này các tỳ-kheo, Ta cho phép ăn trái cây không có hạt, trái cây đã lấy hạt ra, trái cây chưa được làm cho hợp pháp."
+Nakkhamaniyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-## 8. Câu chuyện về việc cấm phẫu thuật {#8}
-*(Satthakammapaṭikkhepakathā)*
+“Anujānāmi, bhikkhave, bhaṅgodakan”ti.
 
-22\. Rồi Thế Tôn, sau khi ở lại Sāvatthī bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Rājagaha. Đi du hành tuần tự, ngài đến Rājagaha. Tại đó, Thế Tôn trú ở Rājagaha, tại tu viện Veḷuvana, khu vực nuôi dưỡng sóc.
+Nakkhamaniyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Vào lúc bấy giờ, một tỳ-kheo nọ bị *bệnh rò hậu môn* (bhagandalābādho). Bác sĩ Ākāsagotta đang tiến hành *phẫu thuật* (satthakammaṁ). Rồi Thế Tôn, trong khi đi dạo qua các chỗ ở, đã đi đến tịnh xá của tỳ-kheo ấy. Bác sĩ Ākāsagotta nhìn thấy Thế Tôn đang đi đến từ đằng xa, sau khi thấy, liền nói với Thế Tôn điều này: "Xin mời sa-môn Gotama đến đây, hãy xem vết thương ở hậu môn của tỳ-kheo này, trông giống như miệng của con kỳ đà."
+“Anujānāmi, bhikkhave, udakakoṭṭhakan”ti.
 
-Rồi Thế Tôn [nghĩ]: "Kẻ ngu ngốc này đang chế nhạo Ta"—ngài liền quay lại từ nơi đó, nhân nguyên nhân này, nhân sự kiện này, ngài cho tập hợp Tăng chúng lại và hỏi các tỳ-kheo: "Này các tỳ-kheo, có phải ở tịnh xá kia có một tỳ-kheo đang bị bệnh không?"
+14.4\. Tena kho pana samayena āyasmato pilindavacchassa pabbavāto hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Bạch Thế Tôn, có."
+“Anujānāmi, bhikkhave, lohitaṁ mocetun”ti.
 
-"Này các tỳ-kheo, tỳ-kheo ấy bị bệnh gì?"
+Nakkhamaniyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Bạch Thế Tôn, tôn giả ấy bị *bệnh rò hậu môn*, bác sĩ Ākāsagotta đang tiến hành *phẫu thuật*."
+“Anujānāmi, bhikkhave, lohitaṁ mocetvā visāṇena gāhetun”ti.
 
-Đức Phật Thế Tôn quở trách: "Này các tỳ-kheo, việc làm của kẻ ngu ngốc ấy là không thích hợp, không thuận chiều, không tương xứng, không phải hạnh sa-môn, không hợp pháp, không nên làm. Này các tỳ-kheo, làm sao kẻ ngu ngốc ấy lại có thể cho phép tiến hành *phẫu thuật* ở vùng kín. Này các tỳ-kheo, ở vùng kín da rất mỏng, vết thương khó lành, dao phẫu thuật khó thao tác. Này các tỳ-kheo, điều này không mang lại niềm tin cho những người chưa có niềm tin [...lặp lại...] sau khi quở trách [...lặp lại...] ngài thuyết giảng một bài *giảng về Chân lý* (pháp thoại / dhammiyā kathāya) rồi gọi các tỳ-kheo:
+Tena kho pana samayena āyasmato pilindavacchassa pādā phalitā honti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này các tỳ-kheo, không được cho phép tiến hành *phẫu thuật* ở vùng kín. Vị nào cho phép, vị ấy phạm *Lỗi thâu-lan-giá* (thullaccaya)."
+“Anujānāmi, bhikkhave, pādabbhañjanan”ti.
 
-Vào lúc bấy giờ, nhóm sáu tỳ-kheo [nghĩ rằng]: "Thế Tôn đã cấm *phẫu thuật*"—nên họ cho phép tiến hành *thụt tháo* (vatthikammaṁ). Những tỳ-kheo ít ham muốn phàn nàn, chê bai, trách móc: "Làm sao nhóm sáu tỳ-kheo lại có thể cho phép tiến hành *thụt tháo*." Rồi các tỳ-kheo ấy đem sự việc này báo cho Thế Tôn. "Này các tỳ-kheo, có thật là nhóm sáu tỳ-kheo cho phép tiến hành *thụt tháo* không?" "Bạch Thế Tôn, có thật" [...lặp lại...] sau khi quở trách, ngài thuyết giảng một bài *giảng về Chân lý* rồi gọi các tỳ-kheo:
+Nakkhamaniyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này các tỳ-kheo, không được cho phép tiến hành *phẫu thuật* hay *thụt tháo* trong phạm vi hai lóng tay xung quanh vùng kín. Vị nào cho phép, vị ấy phạm *Lỗi thâu-lan-giá*."
+“Anujānāmi, bhikkhave, pajjaṁ abhisaṅkharitun”ti.
 
-## 9. Câu chuyện về việc cấm ăn thịt người {#9}
-*(Manussamaṁsapaṭikkhepakathā)*
+Tena kho pana samayena aññatarassa bhikkhuno gaṇḍābādho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-23\. Rồi Thế Tôn, sau khi ở lại Rājagaha bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Bārāṇasī. Đi du hành tuần tự, ngài đến Bārāṇasī. Tại đó, Thế Tôn trú ở Bārāṇasī, tại Isipatana, Vườn Nai.
+“Anujānāmi, bhikkhave, satthakamman”ti.
 
-Vào lúc bấy giờ, ở Bārāṇasī có nam cư sĩ Suppiya và nữ cư sĩ Suppiyā, cả hai đều có niềm tin, là những người bố thí, người phục vụ, người hộ độ Tăng chúng.
+Kasāvodakena attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi nữ cư sĩ Suppiyā đi đến tu viện, đi từ tịnh xá này sang tịnh xá khác, từ phòng này sang phòng khác, và hỏi các tỳ-kheo: "Thưa các ngài, ai đang bị bệnh, cần mang thứ gì đến cho ai?" Vào lúc bấy giờ, một tỳ-kheo nọ đã uống *thuốc xổ* (virecanaṁ). Rồi tỳ-kheo ấy nói với nữ cư sĩ Suppiyā điều này: "Này thưa chị, tôi đã uống *thuốc xổ*. Tôi cần nước súp thịt." "Tốt lắm, thưa ngài, tôi sẽ mang đến."
+“Anujānāmi, bhikkhave, kasāvodakan”ti.
 
-Cô về nhà và ra lệnh cho người hầu: "Này anh bạn, hãy đi tìm mua thịt bán sẵn." "Vâng, thưa bà," người hầu ấy vâng lời nữ cư sĩ Suppiyā, đi dạo khắp Bārāṇasī nhưng không thấy thịt bán sẵn. Rồi người hầu ấy đi đến chỗ nữ cư sĩ Suppiyā, sau khi đến, nói với nữ cư sĩ Suppiyā điều này: "Thưa bà, không có thịt bán sẵn. Hôm nay là ngày cấm giết mổ."
+Tilakakkena attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi nữ cư sĩ Suppiyā khởi lên suy nghĩ này: "Nếu tỳ-kheo bị bệnh ấy không có được nước súp thịt, bệnh tình sẽ trở nặng hoặc vị ấy sẽ qua đời. Thật không thích hợp cho ta khi đã nhận lời mà lại không mang đến." Cô lấy con dao, cắt thịt ở đùi mình rồi đưa cho người hầu gái: "Này cô, hãy nấu món thịt này rồi mang đến cho tỳ-kheo đang bị bệnh ở tịnh xá kia. Và nếu ai hỏi ta, hãy báo rằng ta đang bị bệnh." Cô dùng y choàng quấn đùi lại, đi vào phòng và nằm xuống giường.
+“Anujānāmi, bhikkhave, tilakakkan”ti.
 
-Rồi nam cư sĩ Suppiya về nhà và hỏi người hầu gái: "Suppiyā đâu rồi?" "Thưa ông, bà ấy đang nằm trong phòng."
+14.5\. Kabaḷikāya attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi nam cư sĩ Suppiya đi đến chỗ nữ cư sĩ Suppiyā, sau khi đến, nói với nữ cư sĩ Suppiyā điều này: "Tại sao bà lại nằm?" "Tôi bị bệnh." "Bà bị bệnh gì?" Rồi nữ cư sĩ Suppiyā kể lại sự việc cho nam cư sĩ Suppiya. Rồi nam cư sĩ Suppiya [nghĩ]: "Thật tuyệt vời thay, thật kỳ diệu thay. Suppiyā có niềm tin và sự tịnh tín đến mức cô ấy sẵn sàng hy sinh cả thịt của chính mình. Vậy thì còn thứ gì khác mà cô ấy không thể cho đi cơ chứ?"—
+“Anujānāmi, bhikkhave, kabaḷikan”ti.
 
-Với tâm hoan hỷ và phấn chấn, ông đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, nam cư sĩ Suppiya nói với Thế Tôn điều này: "Bạch Thế Tôn, xin Thế Tôn cùng với Tăng chúng nhận lời mời dùng bữa của con vào ngày mai." Thế Tôn nhận lời bằng sự im lặng. Rồi nam cư sĩ Suppiya, sau khi biết Thế Tôn đã nhận lời, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi.
+Vaṇabandhanacoḷena attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi nam cư sĩ Suppiya, qua đêm đó, sau khi sai chuẩn bị các món ăn loại cứng và loại mềm thượng hạng, liền thông báo thời gian cho Thế Tôn: "Bạch Thế Tôn, đã đến giờ, bữa ăn đã chuẩn bị xong."
+“Anujānāmi, bhikkhave, vaṇabandhanacoḷan”ti.
 
-Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến nhà của nam cư sĩ Suppiya, sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng. Rồi nam cư sĩ Suppiya đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Khi nam cư sĩ Suppiya đang đứng một bên, Thế Tôn nói điều này: "Suppiyā đâu rồi?" "Bạch Thế Tôn, cô ấy bị bệnh."
+Vaṇo kaṇḍuvati. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Nếu vậy, hãy bảo cô ấy ra đây."
+“Anujānāmi, bhikkhave, sāsapakuṭṭena phositun”ti.
 
-"Bạch Thế Tôn, cô ấy không thể đi được."
+Vaṇo kilijjittha. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Nếu vậy, hãy dìu cô ấy ra đây." Rồi nam cư sĩ Suppiya dìu nữ cư sĩ Suppiyā ra. Ngay khi cô ấy vừa nhìn thấy Thế Tôn, vết thương lớn liền lành lại, da dẻ và lông mọc lại bình thường. Rồi nam cư sĩ Suppiya và nữ cư sĩ Suppiyā [nghĩ]: "Thật tuyệt vời thay, thật kỳ diệu thay. Thần thông và uy lực của *Người Đến Như Vậy* (Như Lai / Tathāgata) thật lớn lao, ngay khi vừa nhìn thấy Thế Tôn, vết thương lớn đã lành lại, da dẻ và lông mọc lại bình thường"—họ hoan hỷ, phấn chấn, tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, khi Thế Tôn đã ăn xong và rút tay khỏi bát, họ ngồi xuống một bên. Rồi Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ nam cư sĩ Suppiya và nữ cư sĩ Suppiyā bằng bài *giảng về Chân lý*, rồi ngài đứng dậy khỏi chỗ ngồi và rời đi.
+“Anujānāmi, bhikkhave, dhūmaṁ kātun”ti.
 
-Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, cho tập hợp Tăng chúng lại và hỏi các tỳ-kheo: "Này các tỳ-kheo, ai đã xin thịt từ nữ cư sĩ Suppiyā?" Được nói như vậy, tỳ-kheo ấy nói với Thế Tôn điều này: "Bạch Thế Tôn, chính con đã xin thịt từ nữ cư sĩ Suppiyā."
+Vaḍḍhamaṁsaṁ vuṭṭhāti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Thịt đã được mang đến chưa, này tỳ-kheo?"
+“Anujānāmi, bhikkhave, loṇasakkharikāya chinditun”ti.
 
-"Bạch Thế Tôn, đã được mang đến."
+Vaṇo na ruhati. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Ông đã ăn chưa, này tỳ-kheo?"
+“Anujānāmi, bhikkhave, vaṇatelan”ti.
 
-"Bạch Thế Tôn, con đã ăn."
+Telaṁ galati. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Ông có cẩn thận suy xét không, này tỳ-kheo?"
+“Anujānāmi, bhikkhave, vikāsikaṁ sabbaṁ vaṇapaṭikamman”ti.
 
-"Bạch Thế Tôn, con đã không cẩn thận suy xét."
+14.6\. Tena kho pana samayena aññataro bhikkhu ahinā daṭṭho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Đức Phật Thế Tôn quở trách [...lặp lại...] Này kẻ ngu ngốc, làm sao ông lại có thể ăn thịt mà không cẩn thận suy xét. Này kẻ ngu ngốc, ông đã ăn thịt người. Này kẻ ngu ngốc, điều này không mang lại niềm tin cho những người chưa có niềm tin [...lặp lại...] sau khi quở trách, ngài thuyết giảng một bài *giảng về Chân lý* rồi gọi các tỳ-kheo:
+“Anujānāmi, bhikkhave, cattāri mahāvikaṭāni dātuṁ— gūthaṁ, muttaṁ, chārikaṁ, mattikan”ti.
 
-"Này các tỳ-kheo, có những người có niềm tin và sự tịnh tín, họ sẵn sàng hy sinh cả thịt của chính mình. Này các tỳ-kheo, không được ăn thịt người. Vị nào ăn, vị ấy phạm *Lỗi thâu-lan-giá*.
+Atha kho bhikkhūnaṁ etadahosi— “appaṭiggahitāni nu kho udāhu paṭiggahetabbānī”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Và này các tỳ-kheo, không được ăn thịt mà không cẩn thận suy xét. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)* (dukkaṭa)."
+“Anujānāmi, bhikkhave, sati kappiyakārake paṭiggahāpetuṁ, asati kappiyakārake sāmaṁ gahetvā paribhuñjitun”ti.
 
-## 10. Câu chuyện về việc cấm ăn thịt voi, v.v. {#10}
-*(Hatthimaṁsādipaṭikkhepakathā)*
+Tena kho pana samayena aññatarena bhikkhunā visaṁ pītaṁ hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Vào lúc bấy giờ, những con voi của nhà vua bị chết. Trong thời kỳ đói kém, người dân ăn thịt voi, và họ cũng dâng thịt voi cho các tỳ-kheo đi khất thực. Các tỳ-kheo ăn thịt voi. Người dân phàn nàn, chê bai, trách móc: "Làm sao các sa-môn, con trai dòng Sakya lại có thể ăn thịt voi. Voi là biểu tượng của nhà vua, nếu nhà vua biết được, ngài sẽ không hài lòng với họ." Họ đem sự việc này báo cho Thế Tôn.
+“Anujānāmi, bhikkhave, gūthaṁ pāyetun”ti.
 
-"Này các tỳ-kheo, không được ăn thịt voi. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*."
+Atha kho bhikkhūnaṁ etadahosi— “appaṭiggahitaṁ nu kho udāhu paṭiggahetabbo”ti? Bhagavato etamatthaṁ ārocesuṁ.
 
-Vào lúc bấy giờ, những con ngựa của nhà vua bị chết. Trong thời kỳ đói kém, người dân ăn thịt ngựa, và họ cũng dâng thịt ngựa cho các tỳ-kheo đi khất thực. Các tỳ-kheo ăn thịt ngựa. Người dân phàn nàn, chê bai, trách móc: "Làm sao các sa-môn, con trai dòng Sakya lại có thể ăn thịt ngựa. Ngựa là biểu tượng của nhà vua, nếu nhà vua biết được, ngài sẽ không hài lòng với họ." Họ đem sự việc này báo cho Thế Tôn.
+“Anujānāmi, bhikkhave, yaṁ karonto paṭiggaṇhāti, sveva paṭiggaho kato, na puna paṭiggahetabbo”ti.
 
-"Này các tỳ-kheo, không được ăn thịt ngựa. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*."
+14.7\. Tena kho pana samayena aññatarassa bhikkhuno gharadinnakābādho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Vào lúc bấy giờ, trong thời kỳ đói kém, người dân ăn thịt chó, và họ cũng dâng thịt chó cho các tỳ-kheo đi khất thực. Các tỳ-kheo ăn thịt chó. Người dân phàn nàn, chê bai, trách móc: "Làm sao các sa-môn, con trai dòng Sakya lại có thể ăn thịt chó, chó là loài đáng ghê tởm, đáng kinh tởm." Họ đem sự việc này báo cho Thế Tôn.
+“Anujānāmi, bhikkhave, sītāloḷiṁ pāyetun”ti.
 
-"Này các tỳ-kheo, không được ăn thịt chó. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*."
+Tena kho pana samayena aññataro bhikkhu duṭṭhagahaṇiko hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Vào lúc bấy giờ, trong thời kỳ đói kém, người dân ăn thịt rắn, và họ cũng dâng thịt rắn cho các tỳ-kheo đi khất thực. Các tỳ-kheo ăn thịt rắn. Người dân phàn nàn, chê bai, trách móc: "Làm sao các sa-môn, con trai dòng Sakya lại có thể ăn thịt rắn, rắn là loài đáng ghê tởm, đáng kinh tởm." Vua naga Supassa đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Đứng một bên, vua naga Supassa nói với Thế Tôn điều này: "Bạch Thế Tôn, có những naga không có niềm tin, không tịnh tín. Họ có thể làm hại các tỳ-kheo dù chỉ vì những chuyện nhỏ nhặt. Bạch Thế Tôn, tốt hơn hết là các ngài không nên ăn thịt rắn." Rồi Thế Tôn hướng dẫn vua naga Supassa bằng bài *giảng về Chân lý* [...lặp lại...] ông đi nhiễu quanh ngài rồi rời đi. Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuyết giảng một bài *giảng về Chân lý*, ngài gọi các tỳ-kheo:
+“Anujānāmi, bhikkhave, āmisakhāraṁ pāyetun”ti.
 
-"Này các tỳ-kheo, không được ăn thịt rắn. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*."
+Tena kho pana samayena aññatarassa bhikkhuno paṇḍurogābādho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Vào lúc bấy giờ, những người thợ săn giết sư tử và ăn thịt sư tử, họ cũng dâng thịt sư tử cho các tỳ-kheo đi khất thực. Các tỳ-kheo sau khi ăn thịt sư tử liền đi vào rừng ở. Những con sư tử ngửi thấy mùi thịt sư tử liền tấn công các tỳ-kheo. Họ đem sự việc này báo cho Thế Tôn.
+“Anujānāmi, bhikkhave, muttaharītakaṁ pāyetun”ti.
 
-"Này các tỳ-kheo, không được ăn thịt sư tử. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*."
+Tena kho pana samayena aññatarassa bhikkhuno chavidosābādho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Vào lúc bấy giờ, những người thợ săn giết cọp [...lặp lại...] giết báo [...lặp lại...] giết gấu [...lặp lại...] giết linh cẩu và ăn thịt linh cẩu, họ cũng dâng thịt linh cẩu cho các tỳ-kheo đi khất thực. Các tỳ-kheo sau khi ăn thịt linh cẩu liền đi vào rừng ở. Những con linh cẩu ngửi thấy mùi thịt linh cẩu liền tấn công các tỳ-kheo. Họ đem sự việc này báo cho Thế Tôn.
+“Anujānāmi, bhikkhave, gandhālepaṁ kātun”ti.
 
-"Này các tỳ-kheo, không được ăn thịt linh cẩu. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*."
+Tena kho pana samayena aññataro bhikkhu abhisannakāyo hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Kết thúc phần tụng thứ hai về Suppiyā.
+“Anujānāmi, bhikkhave, virecanaṁ pātun”ti.
 
-## 11. Việc cho phép cháo và viên mật ong {#11}
-*(Yāgumadhugoḷakānujānana)*
+Acchakañjiyā attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-24\. Rồi Thế Tôn, sau khi ở lại Bārāṇasī bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Andhakavinda, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Vào lúc bấy giờ, người dân trong vùng chất nhiều muối, dầu, gạo và đồ ăn loại cứng lên xe bò, đi theo sát phía sau Thế Tôn và Tăng chúng [với suy nghĩ]: "Khi nào đến lượt, chúng ta sẽ nấu bữa ăn cúng dường," cùng với khoảng năm trăm *người ăn đồ thừa* (vighāsāda).
+“Anujānāmi, bhikkhave, acchakañjin”ti.
 
-Rồi Thế Tôn đi du hành tuần tự và đến Andhakavinda. Rồi một vị bà-la-môn nọ, vì chưa đến lượt mình, liền khởi lên suy nghĩ này: "Đã hai tháng trôi qua kể từ khi ta đi theo Thế Tôn và Tăng chúng [với suy nghĩ]: 'Khi nào đến lượt, ta sẽ nấu bữa ăn cúng dường.' Nhưng ta vẫn chưa đến lượt, ta chỉ có một mình, và công việc gia đình của ta đang bị đình trệ nhiều. Hay là ta hãy nhìn vào nhà ăn; món gì không có trong nhà ăn, ta sẽ chuẩn bị món đó." Rồi vị bà-la-môn ấy nhìn vào nhà ăn và thấy thiếu hai món: cháo và viên mật ong. Rồi vị bà-la-môn ấy đi đến chỗ tôn giả Ānanda, sau khi đến, nói với tôn giả Ānanda điều này: "Thưa tôn giả Ānanda, vì chưa đến lượt mình, tôi khởi lên suy nghĩ này: 'Đã hai tháng trôi qua kể từ khi ta đi theo Thế Tôn và Tăng chúng [với suy nghĩ]: Khi nào đến lượt, ta sẽ nấu bữa ăn cúng dường. Nhưng ta vẫn chưa đến lượt, ta chỉ có một mình, và công việc gia đình của ta đang bị đình trệ nhiều. Hay là ta hãy nhìn vào nhà ăn; món gì không có trong nhà ăn, ta sẽ chuẩn bị món đó.' Thưa tôn giả Ānanda, tôi nhìn vào nhà ăn và thấy thiếu hai món: cháo và viên mật ong. Thưa tôn giả Ānanda, nếu tôi chuẩn bị cháo và viên mật ong, liệu sa-môn Gotama có nhận cho tôi không?"
+Akaṭayūsena attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này bà-la-môn, nếu vậy, tôi sẽ hỏi lại Thế Tôn." Rồi tôn giả Ānanda đem sự việc này báo cho Thế Tôn. "Này Ānanda, nếu vậy, hãy bảo ông ấy chuẩn bị đi." "Này bà-la-môn, nếu vậy, hãy chuẩn bị đi."
+“Anujānāmi, bhikkhave, akaṭayūsan”ti.
 
-Rồi vị bà-la-môn ấy, qua đêm đó, sau khi sai chuẩn bị nhiều cháo và viên mật ong, liền dâng lên Thế Tôn: "Xin sa-môn Gotama nhận cháo và viên mật ong của tôi."
+Kaṭākaṭena attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này bà-la-môn, nếu vậy, hãy dâng cho các tỳ-kheo."
+“Anujānāmi, bhikkhave, kaṭākaṭan”ti.
 
-Các tỳ-kheo sinh lòng e ngại nên không nhận. "Này các tỳ-kheo, hãy nhận lấy và ăn đi." Rồi vị bà-la-môn ấy tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng rất nhiều cháo và viên mật ong, khi Thế Tôn đã rửa tay và rút tay khỏi bát, ông ngồi xuống một bên. Khi vị bà-la-môn ấy đang ngồi một bên, Thế Tôn nói điều này:
+Paṭicchādanīyena attho hoti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này bà-la-môn, có mười lợi ích này của cháo. Mười lợi ích nào? Người dâng cháo là dâng tuổi thọ, dâng sắc đẹp, dâng sự hạnh phúc, dâng sức mạnh, dâng trí tuệ; cháo khi uống vào sẽ xua tan cơn đói, giải trừ cơn khát, điều hòa phong hàn, làm sạch đường tiêu hóa, và giúp tiêu hóa thức ăn còn sót lại—
+“Anujānāmi, bhikkhave, paṭicchādanīyan”ti.
 
-Này bà-la-môn, đây là mười lợi ích của cháo.
+## 3. Pilindavacchavatthu {#3}
 
-> Người cúng dường cháo lành,\
-> Cho bậc sống thu thúc.\
-> Đúng thời và cung kính,\
-> Mười lợi ích sinh ra.\
-> Tuổi thọ và sắc đẹp,\
-> An vui và sức mạnh.\
-> Trí tuệ được phát sinh,\
-> Trừ đói khát phong hàn.\
-> Làm sạch đường tiêu hóa,\
-> Thức ăn được tiêu trừ.\
-> Đây chính là linh dược,\
-> Được Thiện Thệ ngợi khen.\
-> Do vậy nên cúng cháo,\
-> Cho người cầu an vui.\
-> Hoặc mong cầu cõi trời,\
-> Hoặc hạnh phúc cõi người."
+15.1\. Tena kho pana samayena āyasmā pilindavaccho rājagahe pabbhāraṁ sodhāpeti leṇaṁ kattukāmo. Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami, upasaṅkamitvā āyasmantaṁ pilindavacchaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā māgadho seniyo bimbisāro āyasmantaṁ pilindavacchaṁ etadavoca— “kiṁ, bhante, thero kārāpetī”ti?
 
-Rồi Thế Tôn, sau khi tùy hỷ vị bà-la-môn ấy bằng những bài kệ này, ngài đứng dậy khỏi chỗ ngồi và rời đi. Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuyết giảng một bài *giảng về Chân lý*, ngài gọi các tỳ-kheo:
+“Pabbhāraṁ, mahārāja, sodhāpemi, leṇaṁ kattukāmo”ti.
 
-"Này các tỳ-kheo, Ta cho phép dùng cháo và viên mật ong."
+“Attho, bhante, ayyassa ārāmikenā”ti?
 
-## 12. Câu chuyện về vị đại thần trẻ tuổi có niềm tin {#12}
-*(Taruṇapasannamahāmattavatthu)*
+“Na kho, mahārāja, bhagavatā ārāmiko anuññāto”ti.
 
-25\. Người dân nghe tin: "Thế Tôn đã cho phép dùng cháo và viên mật ong." Họ liền chuẩn bị cháo ăn sáng và viên mật ong từ sáng sớm. Các tỳ-kheo ăn no cháo ăn sáng và viên mật ong từ sáng sớm nên khi đến nhà ăn, họ không thể ăn uống như ý muốn.
+“Tena hi, bhante, bhagavantaṁ paṭipucchitvā mama āroceyyāthā”ti.
 
-Vào lúc bấy giờ, một vị đại thần trẻ tuổi có niềm tin nọ đã mời Tăng chúng với Đức Phật là vị đứng đầu đến dùng bữa vào ngày mai. Rồi vị đại thần trẻ tuổi có niềm tin ấy khởi lên suy nghĩ này: "Hay là ta hãy chuẩn bị một ngàn hai trăm năm mươi đĩa thịt cho một ngàn hai trăm năm mươi tỳ-kheo, mỗi tỳ-kheo ta sẽ dâng một đĩa thịt."
+“Evaṁ, mahārājā”ti kho āyasmā pilindavaccho rañño māgadhassa seniyassa bimbisārassa paccassosi.
 
-Rồi vị đại thần trẻ tuổi có niềm tin ấy, qua đêm đó, sau khi sai chuẩn bị các món ăn loại cứng và loại mềm thượng hạng cùng một ngàn hai trăm năm mươi đĩa thịt, liền thông báo thời gian cho Thế Tôn: "Bạch Thế Tôn, đã đến giờ, bữa ăn đã chuẩn bị xong." Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến nhà của vị đại thần trẻ tuổi có niềm tin ấy, sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng. Rồi vị đại thần trẻ tuổi có niềm tin ấy phục vụ các tỳ-kheo trong nhà ăn. Các tỳ-kheo nói như vầy: "Này hiền giả, hãy cho một ít thôi; này hiền giả, hãy cho một ít thôi."
+15.2\. Atha kho āyasmā pilindavaccho rājānaṁ māgadhaṁ seniyaṁ bimbisāraṁ dhammiyā kathāya sandassesi, samādapesi, samuttejesi, sampahaṁsesi. Atha kho rājā māgadho seniyo bimbisāro āyasmatā pilindavacchena dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito uṭṭhāyāsanā āyasmantaṁ pilindavacchaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
 
-"Thưa các ngài, xin đừng vì nghĩ rằng: 'Đây là vị đại thần trẻ tuổi có niềm tin'—mà chỉ nhận mỗi người một ít. Tôi đã chuẩn bị rất nhiều đồ ăn loại cứng và loại mềm, cùng một ngàn hai trăm năm mươi đĩa thịt. Tôi định dâng mỗi tỳ-kheo một đĩa thịt. Thưa các ngài, xin hãy nhận bao nhiêu tùy thích."
+Atha kho āyasmā pilindavaccho bhagavato santike dūtaṁ pāhesi— “rājā, bhante, māgadho seniyo bimbisāro ārāmikaṁ dātukāmo. Kathaṁ nu kho, bhante, mayā paṭipajjitabban”ti? Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-"Này hiền giả, không phải vì lý do đó mà chúng tôi nhận mỗi người một ít, mà là vì chúng tôi đã ăn no cháo ăn sáng và viên mật ong từ sáng sớm. Do đó chúng tôi chỉ nhận mỗi người một ít."
+“anujānāmi, bhikkhave, ārāmikan”ti.
 
-Rồi vị đại thần trẻ tuổi có niềm tin ấy phàn nàn, chê bai, trách móc: "Làm sao các tôn giả được tôi mời mà lại đi ăn cháo ăn sáng của người khác, chẳng lẽ tôi không đủ khả năng để dâng cho họ ăn bao nhiêu tùy thích sao?"—ông tức giận, không hài lòng, với ý định xúc phạm, ông đi đổ đầy bát của các tỳ-kheo [và nói]: "Ăn đi hoặc mang đi."
+15.3\. Dutiyampi kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami; upasaṅkamitvā āyasmantaṁ pilindavacchaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā māgadho seniyo bimbisāro āyasmantaṁ pilindavacchaṁ etadavoca— “anuññāto, bhante, bhagavatā ārāmiko”ti?
 
-Rồi vị đại thần trẻ tuổi có niềm tin ấy tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, khi Thế Tôn đã ăn xong và rút tay khỏi bát, ông ngồi xuống một bên. Khi vị đại thần trẻ tuổi có niềm tin ấy đang ngồi một bên, Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*, rồi ngài đứng dậy khỏi chỗ ngồi và rời đi.
+“Evaṁ, mahārājā”ti.
 
-Rồi vị đại thần trẻ tuổi có niềm tin ấy, không lâu sau khi Thế Tôn rời đi, liền sinh lòng hối hận, sinh lòng ăn năn: "Thật là tổn thất cho ta, không phải là lợi ích cho ta; thật là xui xẻo cho ta, không phải là may mắn cho ta; khi ta tức giận, không hài lòng, với ý định xúc phạm, đã đi đổ đầy bát của các tỳ-kheo [và nói]: 'Ăn đi hoặc mang đi.' Liệu ta đã tạo ra nhiều phước báu hay nhiều tội lỗi?" Rồi vị đại thần trẻ tuổi có niềm tin ấy đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, vị đại thần trẻ tuổi có niềm tin ấy nói với Thế Tôn điều này: "Bạch Thế Tôn, không lâu sau khi Thế Tôn rời đi, con liền sinh lòng hối hận, sinh lòng ăn năn: 'Thật là tổn thất cho ta, không phải là lợi ích cho ta; thật là xui xẻo cho ta, không phải là may mắn cho ta; khi ta tức giận, không hài lòng, với ý định xúc phạm, đã đi đổ đầy bát của các tỳ-kheo [và nói]: Ăn đi hoặc mang đi. Liệu ta đã tạo ra nhiều phước báu hay nhiều tội lỗi?' Bạch Thế Tôn, liệu con đã tạo ra nhiều phước báu hay nhiều tội lỗi?"
+“Tena hi, bhante, ayyassa ārāmikaṁ dammī”ti.
 
-"Này hiền giả, kể từ lúc ông mời Tăng chúng với Đức Phật là vị đứng đầu đến dùng bữa vào ngày mai, kể từ lúc đó ông đã tạo ra nhiều phước báu. Kể từ lúc mỗi tỳ-kheo nhận từng hạt cơm của ông, kể từ lúc đó ông đã tạo ra nhiều phước báu, các cõi trời đã mở ra cho ông."
+Atha kho rājā māgadho seniyo bimbisāro āyasmato pilindavacchassa ārāmikaṁ paṭissutvā, vissaritvā, cirena satiṁ paṭilabhitvā, aññataraṁ sabbatthakaṁ mahāmattaṁ āmantesi— “yo mayā, bhaṇe, ayyassa ārāmiko paṭissuto, dinno so ārāmiko”ti?
 
-Rồi vị đại thần trẻ tuổi có niềm tin ấy [nghĩ]: "Thật là lợi ích cho ta, thật là may mắn cho ta, ta đã tạo ra nhiều phước báu, các cõi trời đã mở ra cho ta"—ông hoan hỷ, phấn chấn, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi. Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, cho tập hợp Tăng chúng lại và hỏi các tỳ-kheo: "Này các tỳ-kheo, có thật là các tỳ-kheo dù đã được mời ở nơi khác mà vẫn đi ăn cháo ăn sáng của người khác không?"
+“Na kho, deva, ayyassa ārāmiko dinno”ti.
 
-"Bạch Thế Tôn, có thật."
+“Kīva ciraṁ nu kho, bhaṇe, ito hi taṁ hotī”ti?
 
-Đức Phật Thế Tôn quở trách [...lặp lại...] Này các tỳ-kheo, làm sao những kẻ ngu ngốc ấy dù đã được mời ở nơi khác mà lại đi ăn cháo ăn sáng của người khác. Này các tỳ-kheo, điều này không mang lại niềm tin cho những người chưa có niềm tin [...lặp lại...] sau khi quở trách, ngài thuyết giảng một bài *giảng về Chân lý* rồi gọi các tỳ-kheo:
+15.4\. Atha kho so mahāmatto rattiyo gaṇetvā rājānaṁ māgadhaṁ seniyaṁ bimbisāraṁ etadavoca— “pañca, deva, rattisatānī”ti.
 
-"Này các tỳ-kheo, khi đã được mời ở nơi khác thì không được ăn cháo ăn sáng của người khác. Vị nào ăn, phải bị xử lý theo đúng *Quy luật* (pháp / yathādhammo)."
+“Tena hi, bhaṇe, ayyassa pañca ārāmikasatāni dehī”ti.
 
-## 13. Câu chuyện về Belaṭṭha Kaccāna {#13}
-*(Belaṭṭhakaccānavatthu)*
+“Evaṁ, devā”ti
 
-26\. Rồi Thế Tôn, sau khi ở lại Andhakavinda bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Rājagaha, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Vào lúc bấy giờ, Belaṭṭha Kaccāna đang đi trên đường dài từ Rājagaha đến Andhakavinda, với khoảng năm trăm cỗ xe bò, tất cả đều chở đầy những hũ đường mía. Thế Tôn nhìn thấy Belaṭṭha Kaccāna đang đi đến từ đằng xa, sau khi thấy, ngài bước ra khỏi đường và ngồi xuống dưới gốc một cây nọ.
+kho so mahāmatto rañño māgadhassa seniyassa bimbisārassa paṭissutvā āyasmato pilindavacchassa pañca ārāmikasatāni pādāsi, pāṭiyekko gāmo nivisi. “Ārāmikagāmako”tipi naṁ āhaṁsu, “pilindagāmako”tipi naṁ āhaṁsu. Tena kho pana samayena āyasmā pilindavaccho tasmiṁ gāmake kulūpako hoti.
 
-Rồi Belaṭṭha Kaccāna đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Đứng một bên, Belaṭṭha Kaccāna nói với Thế Tôn điều này: "Bạch Thế Tôn, con muốn dâng mỗi tỳ-kheo một hũ đường mía."
+Atha kho āyasmā pilindavaccho pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya pilindagāmaṁ piṇḍāya pāvisi. Tena kho pana samayena tasmiṁ gāmake ussavo hoti. Dārakā alaṅkatā mālākitā kīḷanti. Atha kho āyasmā pilindavaccho pilindagāmake sapadānaṁ piṇḍāya caramāno yena aññatarassa ārāmikassa nivesanaṁ tenupasaṅkami, upasaṅkamitvā paññatte āsane nisīdi. Tena kho pana samayena tassā ārāmikiniyā dhītā aññe dārake alaṅkate mālākite passitvā rodati— “mālaṁ me detha, alaṅkāraṁ me dethā”ti. Atha kho āyasmā pilindavaccho taṁ ārāmikiniṁ etadavoca— “kissāyaṁ dārikā rodatī”ti? “Ayaṁ, bhante, dārikā aññe dārake alaṅkate mālākite passitvā rodati— ‘mālaṁ me detha, alaṅkāraṁ me dethā’ti. Kuto amhākaṁ duggatānaṁ mālā, kuto alaṅkāro”ti? Atha kho āyasmā pilindavaccho aññataraṁ tiṇaṇḍupakaṁ gahetvā taṁ ārāmikiniṁ etadavoca— “handimaṁ tiṇaṇḍupakaṁ tassā dārikāya sīse paṭimuñcā”ti. Atha kho sā ārāmikinī taṁ tiṇaṇḍupakaṁ gahetvā tassā dārikāya sīse paṭimuñci. Sā ahosi suvaṇṇamālā abhirūpā, dassanīyā, pāsādikā; natthi tādisā raññopi antepure suvaṇṇamālā.
 
-"Này Kaccāna, nếu vậy, ông hãy mang đến một hũ đường mía thôi."
+15.6\. Manussā rañño māgadhassa seniyassa bimbisārassa ārocesuṁ— “amukassa, deva, ārāmikassa ghare suvaṇṇamālā abhirūpā, dassanīyā, pāsādikā; natthi tādisā devassapi antepure suvaṇṇamālā; kuto tassa duggatassa? Nissaṁsayaṁ corikāya ābhatā”ti. Atha kho rājā māgadho seniyo bimbisāro taṁ ārāmikakulaṁ bandhāpesi.
 
-"Vâng, bạch Thế Tôn," Belaṭṭha Kaccāna vâng lời Thế Tôn, lấy một hũ đường mía rồi đi đến chỗ Thế Tôn, sau khi đến, nói với Thế Tôn điều này: "Bạch Thế Tôn, hũ đường mía đã được mang đến; bạch Thế Tôn, con phải làm gì tiếp theo?"
+15.7\. Dutiyampi kho āyasmā pilindavaccho pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya pilindagāmaṁ piṇḍāya pāvisi. Pilindagāmake sapadānaṁ piṇḍāya caramāno yena tassa ārāmikassa nivesanaṁ tenupasaṅkami, upasaṅkamitvā paṭivissake pucchi— “kahaṁ imaṁ ārāmikakulaṁ gatan”ti?
 
-"Này Kaccāna, nếu vậy, ông hãy phân phát đường mía cho các tỳ-kheo."
+“Etissā, bhante, suvaṇṇamālāya kāraṇā raññā bandhāpitan”ti.
 
-"Vâng, bạch Thế Tôn," Belaṭṭha Kaccāna vâng lời Thế Tôn, phân phát đường mía cho các tỳ-kheo rồi nói với Thế Tôn điều này: "Bạch Thế Tôn, đường mía đã được phân phát cho các tỳ-kheo, nhưng vẫn còn thừa rất nhiều đường mía. Bạch Thế Tôn, con phải làm gì tiếp theo?"
+Atha kho āyasmā pilindavaccho yena rañño māgadhassa seniyassa bimbisārassa nivesanaṁ tenupasaṅkami, upasaṅkamitvā paññatte āsane nisīdi. Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami, upasaṅkamitvā āyasmantaṁ pilindavacchaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho rājānaṁ māgadhaṁ seniyaṁ bimbisāraṁ āyasmā pilindavaccho etadavoca— “kissa, mahārāja, ārāmikakulaṁ bandhāpitan”ti?
 
-"Này Kaccāna, nếu vậy, ông hãy phân phát đường mía cho các tỳ-kheo bao nhiêu tùy thích."
+15.8\. “Tassa, bhante, ārāmikassa ghare suvaṇṇamālā abhirūpā, dassanīyā, pāsādikā; natthi tādisā amhākampi antepure suvaṇṇamālā; kuto tassa duggatassa? Nissaṁsayaṁ corikāya ābhatā”ti.
 
-"Vâng, bạch Thế Tôn," Belaṭṭha Kaccāna vâng lời Thế Tôn, phân phát đường mía cho các tỳ-kheo bao nhiêu tùy thích rồi nói với Thế Tôn điều này: "Bạch Thế Tôn, đường mía đã được phân phát cho các tỳ-kheo bao nhiêu tùy thích, nhưng vẫn còn thừa rất nhiều đường mía. Bạch Thế Tôn, con phải làm gì tiếp theo?"
+Atha kho āyasmā pilindavaccho rañño māgadhassa seniyassa bimbisārassa pāsādaṁ suvaṇṇanti adhimucci; so ahosi sabbasovaṇṇamayo. “Idaṁ pana te, mahārāja, tāva bahuṁ suvaṇṇaṁ kuto”ti?
 
-"Này Kaccāna, nếu vậy, ông hãy làm cho các tỳ-kheo thỏa mãn bằng đường mía."
+“Aññātaṁ, bhante, ayyasseveso iddhānubhāvo”ti taṁ ārāmikakulaṁ muñcāpesi.
 
-"Vâng, bạch Thế Tôn," Belaṭṭha Kaccāna vâng lời Thế Tôn, làm cho các tỳ-kheo thỏa mãn bằng đường mía. Một số tỳ-kheo đổ đầy cả bát, đổ đầy cả túi lọc nước và túi xách. Rồi Belaṭṭha Kaccāna, sau khi làm cho các tỳ-kheo thỏa mãn bằng đường mía, nói với Thế Tôn điều này: "Bạch Thế Tôn, các tỳ-kheo đã được thỏa mãn bằng đường mía, nhưng vẫn còn thừa rất nhiều đường mía. Bạch Thế Tôn, con phải làm gì tiếp theo?"
+15.9\. Manussā— “ayyena kira pilindavacchena sarājikāya parisāya uttari manussadhammaṁ iddhipāṭihāriyaṁ dassitan”ti— attamanā abhippasannā āyasmato pilindavacchassa pañca bhesajjāni abhihariṁsu, seyyathidaṁ— sappiṁ, navanītaṁ, telaṁ, madhuṁ, phāṇitaṁ. Pakatiyāpi ca āyasmā pilindavaccho lābhī hoti pañcannaṁ bhesajjānaṁ; laddhaṁ laddhaṁ parisāya vissajjeti. Parisā cassa hoti bāhullikā; laddhaṁ laddhaṁ kolambepi, ghaṭepi, pūretvā paṭisāmeti; parissāvanānipi, thavikāyopi, pūretvā vātapānesu laggeti. Tāni olīnavilīnāni tiṭṭhanti. Undūrehipi vihārā okiṇṇavikiṇṇā honti. Manussā vihāracārikaṁ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti— “antokoṭṭhāgārikā ime samaṇā sakyaputtiyā, seyyathāpi rājā māgadho seniyo bimbisāro”ti.
 
-"Này Kaccāna, nếu vậy, ông hãy phân phát đường mía cho những *người ăn đồ thừa*."
+15.10\. Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā, te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhū evarūpāya bāhullāya cetessantī”ti.
 
-"Vâng, bạch Thế Tôn," Belaṭṭha Kaccāna vâng lời Thế Tôn, phân phát đường mía cho những *người ăn đồ thừa* rồi nói với Thế Tôn điều này: "Bạch Thế Tôn, đường mía đã được phân phát cho những *người ăn đồ thừa*, nhưng vẫn còn thừa rất nhiều đường mía. Bạch Thế Tôn, con phải làm gì tiếp theo?"
+Atha kho te bhikkhū te anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira, bhikkhave, bhikkhū evarūpāya bāhullāya cetentī”ti? “Saccaṁ, bhagavā”ti …pe… vigarahitvā dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-"Này Kaccāna, nếu vậy, ông hãy phân phát đường mía cho những *người ăn đồ thừa* bao nhiêu tùy thích."
+“yāni kho pana tāni gilānānaṁ bhikkhūnaṁ paṭisāyanīyāni bhesajjāni, seyyathidaṁ—sappi, navanītaṁ, telaṁ, madhu, phāṇitaṁ, tāni paṭiggahetvā sattāhaparamaṁ sannidhikārakaṁ paribhuñjitabbāni. Taṁ atikkāmayato yathādhammo kāretabbo”ti.
 
-"Vâng, bạch Thế Tôn," Belaṭṭha Kaccāna vâng lời Thế Tôn, phân phát đường mía cho những *người ăn đồ thừa* bao nhiêu tùy thích rồi nói với Thế Tôn điều này: "Bạch Thế Tôn, đường mía đã được phân phát cho những *người ăn đồ thừa* bao nhiêu tùy thích, nhưng vẫn còn thừa rất nhiều đường mía. Bạch Thế Tôn, con phải làm gì tiếp theo?"
+Bhesajjānuññātabhāṇavāro niṭṭhito paṭhamo.
 
-"Này Kaccāna, nếu vậy, ông hãy làm cho những *người ăn đồ thừa* thỏa mãn bằng đường mía."
+## 4. Guḷādianujānana {#4}
 
-"Vâng, bạch Thế Tôn," Belaṭṭha Kaccāna vâng lời Thế Tôn, làm cho những *người ăn đồ thừa* thỏa mãn bằng đường mía. Một số *người ăn đồ thừa* đổ đầy cả chum, cả vại, đổ đầy cả giỏ và vạt áo. Rồi Belaṭṭha Kaccāna, sau khi làm cho những *người ăn đồ thừa* thỏa mãn bằng đường mía, nói với Thế Tôn điều này: "Bạch Thế Tôn, những *người ăn đồ thừa* đã được thỏa mãn bằng đường mía, nhưng vẫn còn thừa rất nhiều đường mía. Bạch Thế Tôn, con phải làm gì tiếp theo?"
+16.1\. Atha kho bhagavā sāvatthiyaṁ yathābhirantaṁ viharitvā yena rājagahaṁ tena cārikaṁ pakkāmi. Addasā kho āyasmā kaṅkhārevato antarāmagge guḷakaraṇaṁ, okkamitvā guḷe piṭṭhampi chārikampi pakkhipante, disvāna— “akappiyo guḷo sāmiso, na kappati guḷo vikāle paribhuñjitun”ti— kukkuccāyanto sapariso guḷaṁ na paribhuñjati. Yepissa sotabbaṁ maññanti, tepi guḷaṁ na paribhuñjanti. Bhagavato etamatthaṁ ārocesuṁ. “Kimatthāya, bhikkhave, guḷe piṭṭhampi chārikampi pakkhipantī”ti?
 
-"Này Kaccāna, Ta không thấy một ai trong thế giới với chư thiên, Ma vương, Phạm thiên, trong quần chúng với sa-môn, bà-la-môn, chư thiên và loài người, mà khi ăn số đường mía đó có thể tiêu hóa được hoàn toàn, ngoại trừ *Người Đến Như Vậy* hoặc đệ tử của *Người Đến Như Vậy*. Này Kaccāna, nếu vậy, ông hãy vứt bỏ số đường mía đó ở nơi có ít cỏ xanh, hoặc dìm xuống nước không có sinh vật."
+“Thaddhatthāya, bhagavā”ti.
 
-"Vâng, bạch Thế Tôn," Belaṭṭha Kaccāna vâng lời Thế Tôn, đem dìm số đường mía đó xuống nước không có sinh vật. Rồi số đường mía đó khi bị ném xuống nước liền phát ra tiếng xèo xèo, xì xèo, bốc khói, tỏa khói. Giống như một lưỡi cày bị nung nóng cả ngày, khi bị ném xuống nước liền phát ra tiếng xèo xèo, xì xèo, bốc khói, tỏa khói; cũng vậy, số đường mía đó khi bị ném xuống nước liền phát ra tiếng xèo xèo, xì xèo, bốc khói, tỏa khói.
+“Sace, bhikkhave, thaddhatthāya guḷe piṭṭhampi chārikampi pakkhipanti, so ca guḷotveva saṅkhaṁ gacchati. Anujānāmi, bhikkhave, yathāsukhaṁ guḷaṁ paribhuñjitun”ti.
 
-Rồi Belaṭṭha Kaccāna kinh hãi, sởn gai ốc, đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi Belaṭṭha Kaccāna đang ngồi một bên, Thế Tôn thuyết giảng tuần tự luận, đó là: luận về bố thí, luận về đạo đức, luận về cõi trời, ngài chỉ rõ sự nguy hiểm, sự thấp kém, sự ô nhiễm của các *bản năng* (dục / kāmānaṁ), và lợi ích trong sự *thoát khỏi* (xuất ly / nekkhamme). Khi Thế Tôn biết tâm của Belaṭṭha Kaccāna đã sẵn sàng, nhu nhuyễn, không còn *yếu mờ* (chướng ngại / vinīvaraṇa), phấn chấn, tịnh tín, ngài liền thuyết giảng bài *giảng về Chân lý* cốt lõi của chư Phật [...lặp lại...] cũng vậy, ngay tại chỗ ngồi ấy, Mắt *Giáo pháp* (dhammacakkhu) không bụi, không vết bẩn đã phát sinh cho Belaṭṭha Kaccāna: "Bất cứ *điều* gì có *tính hình thành* (samudayadhamma), toàn bộ *điều* đó đều *chịu sự cạn khô* (nirodhadhamma)."
+16.2\. Addasā kho āyasmā kaṅkhārevato antarāmagge vacce muggaṁ jātaṁ, passitvā— “akappiyā muggā; pakkāpi muggā jāyantī”ti— kukkuccāyanto sapariso muggaṁ na paribhuñjati. Yepissa sotabbaṁ maññanti, tepi muggaṁ na paribhuñjanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi Belaṭṭha Kaccāna, [khi đã] thấy *Giáo pháp*, đạt được *Giáo pháp*, biết rõ *Giáo pháp*, thâm nhập *Giáo pháp*, vượt qua sự *nghi ngờ*, loại bỏ sự phân vân, đạt được sự không sợ hãi, không còn phụ thuộc vào người khác trong giáo pháp của bậc Đạo sư, ông nói với Thế Tôn điều này: "Thật tuyệt vời, bạch Thế Tôn, thật tuyệt vời, bạch Thế Tôn. Bạch Thế Tôn, giống như người dựng đứng lại những gì bị lật úp [...lặp lại...] cũng vậy, Thế Tôn đã dùng nhiều phương tiện để làm sáng tỏ *Giáo pháp*. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Xin Thế Tôn nhận con làm cư sĩ, từ nay cho đến mạng chung, con xin quy y."
+“Sace, bhikkhave, pakkāpi muggā jāyanti, anujānāmi, bhikkhave, yathāsukhaṁ muggaṁ paribhuñjitun”ti.
 
-27\. Rồi Thế Tôn đi du hành tuần tự và đến Rājagaha. Tại đó, Thế Tôn trú ở Rājagaha, tại tu viện Veḷuvana, khu vực nuôi dưỡng sóc. Vào lúc bấy giờ, ở Rājagaha có rất nhiều đường mía. Các tỳ-kheo [nghĩ rằng]: "Thế Tôn chỉ cho phép người bệnh dùng đường mía, không cho phép người không bệnh"—họ sinh lòng e ngại nên không ăn đường mía. Họ đem sự việc này báo cho Thế Tôn.
+16.3\. Tena kho pana samayena aññatarassa bhikkhuno udaravātābādho hoti. So loṇasovīrakaṁ apāyi. Tassa so udaravātābādho paṭippassambhi. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này các tỳ-kheo, Ta cho phép người bệnh dùng đường mía, người không bệnh dùng nước đường."
+“Anujānāmi, bhikkhave, gilānassa loṇasovīrakaṁ; agilānassa udakasambhinnaṁ pānaparibhogena paribhuñjitun”ti.
 
-## 14. Câu chuyện về làng Pāṭali {#14}
-*(Pāṭaligāmavatthu)*
+## 5. Antovuṭṭhādipaṭikkhepakathā {#5}
 
-28\. Rồi Thế Tôn, sau khi ở lại Rājagaha bao lâu tùy thích, đã khởi hành chuyến du hành về hướng làng Pāṭali, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Rồi Thế Tôn đi du hành tuần tự và đến làng Pāṭali.
+17.1\. Atha kho bhagavā anupubbena cārikaṁ caramāno yena rājagahaṁ tadavasari. Tatra sudaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
-Các nam cư sĩ ở làng Pāṭali nghe tin: "Thế Tôn đã đến làng Pāṭali." Rồi các nam cư sĩ ở làng Pāṭali đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi các nam cư sĩ ở làng Pāṭali đang ngồi một bên, Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*. Rồi các nam cư sĩ ở làng Pāṭali, sau khi được Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*, đã nói với Thế Tôn điều này: "Bạch Thế Tôn, xin Thế Tôn cùng với Tăng chúng nhận lời mời đến nhà nghỉ chân." Thế Tôn nhận lời bằng sự im lặng. Rồi các nam cư sĩ ở làng Pāṭali, sau khi biết Thế Tôn đã nhận lời, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi đi đến nhà nghỉ chân, sau khi đến, họ trải thảm khắp nhà nghỉ chân, dọn sẵn chỗ ngồi, đặt sẵn lu nước, thắp sẵn đèn dầu, rồi đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Đứng một bên, các nam cư sĩ ở làng Pāṭali nói với Thế Tôn điều này: "Bạch Thế Tôn, nhà nghỉ chân đã được trải thảm khắp nơi. Chỗ ngồi đã được dọn sẵn. Lu nước đã được đặt sẵn. Đèn dầu đã được thắp sẵn. Bạch Thế Tôn, bây giờ xin Thế Tôn hãy biết thời điểm thích hợp."
+Tena kho pana samayena bhagavato udaravātābādho hoti. Atha kho āyasmā ānando—“pubbepi bhagavato udaravātābādho tekaṭulayāguyā phāsu hotī”ti— sāmaṁ tilampi, taṇḍulampi, muggampi viññāpetvā, anto vāsetvā, anto sāmaṁ pacitvā bhagavato upanāmesi— “pivatu bhagavā tekaṭulayāgun”ti.
 
-Rồi Thế Tôn mặc y, mang theo y bát, cùng với Tăng chúng đi đến nhà nghỉ chân; sau khi đến, ngài rửa chân, bước vào nhà nghỉ chân, ngồi tựa lưng vào cây cột giữa, mặt hướng về phía đông. Tăng chúng cũng rửa chân, bước vào nhà nghỉ chân, ngồi tựa lưng vào bức tường phía tây, mặt hướng về phía đông, để Thế Tôn ở phía trước. Các nam cư sĩ ở làng Pāṭali cũng rửa chân, bước vào nhà nghỉ chân, ngồi tựa lưng vào bức tường phía đông, mặt hướng về phía tây, để Thế Tôn ở phía trước. Rồi Thế Tôn gọi các nam cư sĩ ở làng Pāṭali:
+17.2\. Jānantāpi tathāgatā pucchanti, jānantāpi na pucchanti; kālaṁ viditvā pucchanti, kālaṁ viditvā na pucchanti; atthasaṁhitaṁ tathāgatā pucchanti, no anatthasaṁhitaṁ. Anatthasaṁhite setughāto tathāgatānaṁ. Dvīhi ākārehi buddhā bhagavanto bhikkhū paṭipucchanti— “dhammaṁ vā desessāma, sāvakānaṁ vā sikkhāpadaṁ paññapessāmā”ti.
 
-"Này các gia chủ, có năm sự nguy hiểm này đối với người ác giới, do sự phá giới. Năm sự nguy hiểm nào? Này các gia chủ, ở đây, người ác giới, người phá giới, do sự *sao nhãng* (phóng dật / pamādādhikaraṇaṁ) nên phải chịu sự tổn thất tài sản lớn lao. Đây là sự nguy hiểm thứ nhất đối với người ác giới, do sự phá giới. Lại nữa, này các gia chủ, tiếng xấu của người ác giới, người phá giới sẽ lan truyền. Đây là sự nguy hiểm thứ hai đối với người ác giới, do sự phá giới. Lại nữa, này các gia chủ, người ác giới, người phá giới khi đi đến bất kỳ hội chúng nào, dù là hội chúng sát-đế-lỵ, dù là hội chúng bà-la-môn, dù là hội chúng gia chủ, dù là hội chúng sa-môn, vị ấy đi đến với sự thiếu tự tin, bối rối. Đây là sự nguy hiểm thứ ba đối với người ác giới, do sự phá giới. Lại nữa, này các gia chủ, người ác giới, người phá giới sẽ qua đời trong sự mê muội. Đây là sự nguy hiểm thứ tư đối với người ác giới, do sự phá giới. Lại nữa, này các gia chủ, người ác giới, người phá giới sau khi thân hoại mạng chung sẽ tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Đây là sự nguy hiểm thứ năm đối với người ác giới, do sự phá giới. Này các gia chủ, đây là năm sự nguy hiểm đối với người ác giới, do sự phá giới.
+Atha kho bhagavā āyasmantaṁ ānandaṁ āmantesi—“kutāyaṁ, ānanda, yāgū”ti? Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi.
 
-Này các gia chủ, có năm lợi ích này đối với người giữ giới, do sự thành tựu giới. Năm lợi ích nào? Này các gia chủ, ở đây, người giữ giới, người thành tựu giới, do sự *không sao nhãng* (không phóng dật / appamādādhikaraṇaṁ) nên đạt được khối tài sản lớn lao. Đây là lợi ích thứ nhất đối với người giữ giới, do sự thành tựu giới. Lại nữa, này các gia chủ, tiếng tốt của người giữ giới, người thành tựu giới sẽ lan truyền. Đây là lợi ích thứ hai đối với người giữ giới, do sự thành tựu giới. Lại nữa, này các gia chủ, người giữ giới, người thành tựu giới khi đi đến bất kỳ hội chúng nào, dù là hội chúng sát-đế-lỵ, dù là hội chúng bà-la-môn, dù là hội chúng gia chủ, dù là hội chúng sa-môn, vị ấy đi đến với sự tự tin, không bối rối. Đây là lợi ích thứ ba đối với người giữ giới, do sự thành tựu giới. Lại nữa, này các gia chủ, người giữ giới, người thành tựu giới sẽ qua đời trong sự tỉnh táo. Đây là lợi ích thứ tư đối với người giữ giới, do sự thành tựu giới. Lại nữa, này các gia chủ, người giữ giới, người thành tựu giới sau khi thân hoại mạng chung sẽ tái sinh vào cõi lành, cõi trời. Đây là lợi ích thứ năm đối với người giữ giới, do sự thành tựu giới. Này các gia chủ, đây là năm lợi ích đối với người giữ giới, do sự thành tựu giới."
+17.3\. Vigarahi buddho bhagavā— “ananucchavikaṁ, ānanda, ananulomikaṁ, appatirūpaṁ, assāmaṇakaṁ, akappiyaṁ, akaraṇīyaṁ. Kathañhi nāma tvaṁ, ānanda, evarūpāya bāhullāya cetessasi. Yadapi, ānanda, anto vuṭṭhaṁ tadapi akappiyaṁ; yadapi anto pakkaṁ, tadapi akappiyaṁ; yadapi sāmaṁ pakkaṁ, tadapi akappiyaṁ. Netaṁ, ānanda, appasannānaṁ vā pasādāya …pe… vigarahitvā dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-Rồi Thế Tôn, sau khi hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ các nam cư sĩ ở làng Pāṭali bằng bài *giảng về Chân lý* cho đến tận đêm khuya, ngài cho họ giải tán: "Này các gia chủ, đêm đã khuya. Bây giờ các ông hãy biết thời điểm thích hợp."
+“na, bhikkhave, anto vuṭṭhaṁ, anto pakkaṁ, sāmaṁ pakkaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassa.
 
-"Vâng, bạch Thế Tôn," các nam cư sĩ ở làng Pāṭali vâng lời Thế Tôn, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi. Rồi Thế Tôn, không lâu sau khi các nam cư sĩ ở làng Pāṭali rời đi, ngài bước vào một căn phòng trống.
+17.4\. Anto ce, bhikkhave, vuṭṭhaṁ, anto pakkaṁ, sāmaṁ pakkaṁ tañce paribhuñjeyya, āpatti tiṇṇaṁ dukkaṭānaṁ.
 
-## 15. Câu chuyện về Sunidha và Vassakāra {#15}
-*(Sunidhavassakāravatthu)*
+Anto ce, bhikkhave, vuṭṭhaṁ, anto pakkaṁ, aññehi pakkaṁ, tañce paribhuñjeyya, āpatti dvinnaṁ dukkaṭānaṁ.
 
-Vào lúc bấy giờ, Sunidha và Vassakāra, các đại thần của nước Magadha, đang xây dựng một thành phố tại làng Pāṭali để ngăn chặn những người Vajji. Thế Tôn thức dậy vào lúc rạng sáng, với *mắt thần* (thiên nhãn / dibbena cakkhunā) thanh tịnh, vượt qua giới hạn của loài người, ngài nhìn thấy rất nhiều chư thiên đang chiếm giữ các khu đất tại làng Pāṭali. Ở khu vực nào chư thiên có uy lực lớn chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực lớn sẽ hướng đến việc xây dựng dinh thự tại đó. Ở khu vực nào chư thiên có uy lực trung bình chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực trung bình sẽ hướng đến việc xây dựng dinh thự tại đó. Ở khu vực nào chư thiên có uy lực thấp chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực thấp sẽ hướng đến việc xây dựng dinh thự tại đó.
+Anto ce, bhikkhave, vuṭṭhaṁ, bahi pakkaṁ, sāmaṁ pakkaṁ, tañce paribhuñjeyya, āpatti dvinnaṁ dukkaṭānaṁ.
 
-Rồi Thế Tôn gọi tôn giả Ānanda: "Này Ānanda, ai đang xây dựng thành phố tại làng Pāṭali?"
+17.5\. Bahi ce, bhikkhave, vuṭṭhaṁ, anto pakkaṁ, sāmaṁ pakkaṁ, tañce paribhuñjeyya, āpatti dvinnaṁ dukkaṭānaṁ.
 
-"Bạch Thế Tôn, đó là Sunidha và Vassakāra, các đại thần của nước Magadha, đang xây dựng thành phố tại làng Pāṭali để ngăn chặn những người Vajji."
+Anto ce, bhikkhave, vuṭṭhaṁ, bahi pakkaṁ, aññehi pakkaṁ, tañce paribhuñjeyya, āpatti dukkaṭassa.
 
-"Này Ānanda, giống như họ đã bàn bạc với chư thiên ở cõi Tāvatiṁsa; cũng vậy, này Ānanda, Sunidha và Vassakāra, các đại thần của nước Magadha, đang xây dựng thành phố tại làng Pāṭali để ngăn chặn những người Vajji. Này Ānanda, ở đây, Ta thức dậy vào lúc rạng sáng, với *mắt thần* thanh tịnh, vượt qua giới hạn của loài người, Ta nhìn thấy rất nhiều chư thiên đang chiếm giữ các khu đất tại làng Pāṭali. Ở khu vực nào chư thiên có uy lực lớn chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực lớn sẽ hướng đến việc xây dựng dinh thự tại đó. Ở khu vực nào chư thiên có uy lực trung bình chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực trung bình sẽ hướng đến việc xây dựng dinh thự tại đó. Ở khu vực nào chư thiên có uy lực thấp chiếm giữ đất, tâm trí của các vị vua và đại thần có uy lực thấp sẽ hướng đến việc xây dựng dinh thự tại đó. Này Ānanda, chừng nào còn có khu vực của bậc thánh, chừng nào còn có con đường giao thương, thì đây sẽ là thành phố hàng đầu, Pāṭaliputta, nơi mở các kiện hàng. Này Ānanda, Pāṭaliputta sẽ có ba mối nguy hiểm—từ lửa, từ nước, hoặc từ sự chia rẽ nội bộ."
+Bahi ce, bhikkhave, vuṭṭhaṁ, anto pakkaṁ, aññehi pakkaṁ, tañce paribhuñjeyya, āpatti dukkaṭassa.
 
-Rồi Sunidha và Vassakāra, các đại thần của nước Magadha, đi đến chỗ Thế Tôn, sau khi đến, họ chào hỏi Thế Tôn, sau khi trao đổi những lời chào hỏi thân thiện và lịch sự, họ đứng một bên. Đứng một bên, Sunidha và Vassakāra, các đại thần của nước Magadha, nói với Thế Tôn điều này: "Xin sa-môn Gotama cùng với Tăng chúng nhận lời mời dùng bữa của chúng tôi vào ngày hôm nay." Thế Tôn nhận lời bằng sự im lặng. Rồi Sunidha và Vassakāra, các đại thần của nước Magadha, sau khi biết Thế Tôn đã nhận lời, liền rời đi.
+Bahi ce, bhikkhave, vuṭṭhaṁ, bahi pakkaṁ, sāmaṁ pakkaṁ, tañce paribhuñjeyya, āpatti dukkaṭassa.
 
-Rồi Sunidha và Vassakāra, các đại thần của nước Magadha, sau khi sai chuẩn bị các món ăn loại cứng và loại mềm thượng hạng, liền thông báo thời gian cho Thế Tôn: "Thưa sa-môn Gotama, đã đến giờ, bữa ăn đã chuẩn bị xong." Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến nơi dọn bữa ăn của Sunidha và Vassakāra, các đại thần của nước Magadha; sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng. Rồi Sunidha và Vassakāra, các đại thần của nước Magadha, tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, khi Thế Tôn đã ăn xong và rút tay khỏi bát, họ ngồi xuống một bên. Khi Sunidha và Vassakāra, các đại thần của nước Magadha, đang ngồi một bên, Thế Tôn tùy hỷ bằng những bài kệ này:
+Bahi ce, bhikkhave, vuṭṭhaṁ, bahi pakkaṁ, aññehi pakkaṁ, tañce paribhuñjeyya, anāpattī”ti.
 
-> Nơi nào bậc trí giả,\
-> Dựng lập chỗ an cư.\
-> Cúng dường bậc trì giới,\
-> Bậc phạm hạnh thu thúc.\
-> Chư thiên ở nơi ấy,\
-> Nên hồi hướng phước báu.\
-> Được cúng sẽ cúng lại,\
-> Được kính sẽ kính lại.\
-> Từ đó thương tưởng người,\
-> Như mẹ thương con đẻ.\
-> Người chư thiên thương tưởng,\
-> Luôn thấy điều tốt lành.
+17.6\. Tena kho pana samayena bhikkhū— “bhagavatā sāmaṁpāko paṭikkhitto”ti— puna pāke kukkuccāyanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi Thế Tôn, sau khi tùy hỷ Sunidha và Vassakāra, các đại thần của nước Magadha, bằng những bài kệ này, ngài đứng dậy khỏi chỗ ngồi và rời đi.
+“Anujānāmi, bhikkhave, puna pākaṁ pacitun”ti.
 
-Vào lúc bấy giờ, Sunidha và Vassakāra, các đại thần của nước Magadha, đi theo sát phía sau Thế Tôn [với suy nghĩ]: "Hôm nay sa-môn Gotama đi ra bằng cổng nào, cổng đó sẽ được gọi là Cổng Gotama; ngài vượt qua sông Hằng bằng bến nào, bến đó sẽ được gọi là Bến Gotama."
+17.7\. Tena kho pana samayena rājagahaṁ dubbhikkhaṁ hoti. Manussā loṇampi, telampi, taṇḍulampi, khādanīyampi ārāmaṁ āharanti. Tāni bhikkhū bahi vāsenti; ukkapiṇḍakāpi khādanti, corāpi haranti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi Thế Tôn đi ra bằng cổng nào, cổng đó liền được gọi là Cổng Gotama. Rồi Thế Tôn đi đến bờ sông Hằng. Vào lúc bấy giờ, sông Hằng đang đầy nước tràn bờ, quạ có thể uống được. Những người muốn qua bờ bên kia, người thì tìm thuyền, người thì tìm bè gỗ, người thì kết bè lau sậy.
+“Anujānāmi, bhikkhave, anto vāsetun”ti.
 
-Thế Tôn nhìn thấy những người đó, người thì tìm thuyền, người thì tìm bè gỗ, người thì kết bè lau sậy để qua bờ bên kia, sau khi thấy, giống như một người lực lưỡng duỗi ra cánh tay đang co lại, hay co lại cánh tay đang duỗi ra; cũng vậy—ngài biến mất ở bờ bên này của sông Hằng và xuất hiện ở bờ bên kia cùng với Tăng chúng.
+Anto vāsetvā bahi pācenti. Damakā parivārenti. Bhikkhū avissaṭṭhā paribhuñjanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Rồi Thế Tôn, sau khi hiểu rõ ý nghĩa này, vào lúc đó ngài đã thốt lên lời cảm hứng này:
+“Anujānāmi, bhikkhave, anto pacitun”ti.
 
-> Người vượt qua biển lớn,\
-> Bỏ lại các ao tù.\
-> Kẻ kết bè qua sông,\
-> Bậc trí đã vượt qua.
+Dubbhikkhe kappiyakārakā bahutaraṁ haranti, appataraṁ bhikkhūnaṁ denti. Bhagavato etamatthaṁ ārocesuṁ.
 
-## 16. Bài giảng về Sự Thật tại làng Koṭi {#16}
-*(Koṭigāmesaccakathā)*
+“Anujānāmi, bhikkhave, sāmaṁ pacituṁ. Anujānāmi, bhikkhave, anto vuṭṭhaṁ, anto pakkaṁ, sāmaṁ pakkan”ti.
 
-29\. Rồi Thế Tôn đi đến làng Koṭi. Tại đó, Thế Tôn trú ở làng Koṭi. Tại đó, Thế Tôn gọi các tỳ-kheo:
+## 6. Uggahitapaṭiggahaṇa {#6}
 
-"Này các tỳ-kheo, do không hiểu rõ, không thâm nhập *Bốn Thánh Đế* (Tứ Thánh Đế / catunnaṁ ariyasaccānaṁ) mà Ta và các ông đã phải lang thang, luân hồi trong một thời gian dài như thế này. Bốn Thánh Đế nào? Này các tỳ-kheo, do không hiểu rõ, không thâm nhập *Thánh đế về đau khổ* (Khổ đế / dukkhassa ariyasaccassa) mà Ta và các ông đã phải lang thang, luân hồi trong một thời gian dài như thế này. Do không hiểu rõ, không thâm nhập *Thánh đế về sự hình thành của đau khổ* (Tập đế / dukkhasamudayassa ariyasaccassa) [...lặp lại...] *Thánh đế về sự chấm dứt đau khổ* (Diệt đế / dukkhanirodhassa ariyasaccassa) [...lặp lại...] *Thánh đế về con đường đưa đến chấm dứt đau khổ* (Đạo đế / dukkhanirodhagāminiyā paṭipadāya ariyasaccassa) mà Ta và các ông đã phải lang thang, luân hồi trong một thời gian dài như thế này. Này các tỳ-kheo, nay *Thánh đế về đau khổ* đã được hiểu rõ, đã được thâm nhập; *Thánh đế về sự hình thành của đau khổ* đã được hiểu rõ, đã được thâm nhập; *Thánh đế về sự chấm dứt đau khổ* đã được hiểu rõ, đã được thâm nhập; *Thánh đế về con đường đưa đến chấm dứt đau khổ* đã được hiểu rõ, đã được thâm nhập; *mong muốn tồn tại* (bhavataṇhā) đã bị cắt đứt, dây luân hồi đã cạn kiệt, nay không còn sự tái sinh nữa.
+17.8\. Tena kho pana samayena sambahulā bhikkhū kāsīsu vassaṁvuṭṭhā rājagahaṁ gacchantā bhagavantaṁ dassanāya antarāmagge na labhiṁsu lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ; bahuñca phalakhādanīyaṁ ahosi; kappiyakārako ca na ahosi.
 
-> Bốn Thánh Đế cao tột,\
-> Không thấy đúng như thật.\
-> Luân hồi phải kéo dài,\
-> Trong vô số kiếp sống.\
-> Nay đã thấy rõ ràng,\
-> Dây luân hồi nhổ sạch.\
-> Cắt đứt gốc đau khổ,\
-> Không còn phải tái sinh.
+Atha kho te bhikkhū kilantarūpā yena rājagahaṁ veḷuvanaṁ kalandakanivāpo, yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Āciṇṇaṁ kho panetaṁ buddhānaṁ bhagavantānaṁ āgantukehi bhikkhūhi saddhiṁ paṭisammodituṁ. Atha kho bhagavā te bhikkhū etadavoca— “kacci, bhikkhave, khamanīyaṁ, kacci yāpanīyaṁ, kaccittha appakilamathena addhānaṁ āgatā; kuto ca tumhe, bhikkhave, āgacchathā”ti?
 
-## 17. Câu chuyện về Ambapālī {#17}
-*(Ambapālīvatthu)*
+17.9\. “Khamanīyaṁ, bhagavā, yāpanīyaṁ, bhagavā. Idha mayaṁ, bhante, kāsīsu vassaṁvuṭṭhā rājagahaṁ āgacchantā bhagavantaṁ dassanāya antarāmagge na labhimhā lūkhassa vā paṇītassa vā bhojanassa yāvadatthaṁ pāripūriṁ; bahuñca phalakhādanīyaṁ ahosi; kappiyakārako ca na ahosi; tena mayaṁ kilantarūpā addhānaṁ āgatā”ti. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-30\. *Kỹ nữ* (gaṇikā) Ambapālī nghe tin: "Thế Tôn đã đến làng Koṭi." Rồi *kỹ nữ* Ambapālī sai thắng những cỗ xe tuyệt hảo, bước lên một cỗ xe tuyệt hảo, cùng với những cỗ xe tuyệt hảo đi ra khỏi Vesālī để diện kiến Thế Tôn. Cho đến chỗ đất [còn đi được] bằng xe, đi bằng xe rồi bước xuống xe, đi bộ đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi *kỹ nữ* Ambapālī đang ngồi một bên, Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*. Rồi *kỹ nữ* Ambapālī, sau khi được Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*, đã nói với Thế Tôn điều này: "Bạch Thế Tôn, xin Thế Tôn cùng với Tăng chúng nhận lời mời dùng bữa của con vào ngày mai." Thế Tôn nhận lời bằng sự im lặng. Rồi *kỹ nữ* Ambapālī, sau khi biết Thế Tôn đã nhận lời, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi.
+“anujānāmi, bhikkhave, yattha phalakhādanīyaṁ passati, kappiyakārako ca na hoti, sāmaṁ gahetvā, haritvā, kappiyakārake passitvā, bhūmiyaṁ nikkhipitvā, paṭiggahāpetvā paribhuñjituṁ. Anujānāmi, bhikkhave, uggahitaṁ paṭiggahitun”ti.
 
-## 18. Câu chuyện về những người Licchavi {#18}
-*(Licchavīvatthu)* (Mv 6.30)
+18.1\. Tena kho pana samayena aññatarassa brāhmaṇassa navā ca tilā navañca madhu uppannā honti. Atha kho tassa brāhmaṇassa etadahosi— “yannūnāhaṁ nave ca tile navañca madhuṁ buddhappamukhassa bhikkhusaṅghassa dadeyyan”ti. Atha kho so brāhmaṇo yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavatā saddhiṁ paṭisammodi, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so brāhmaṇo bhagavantaṁ etadavoca— “adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ, saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho so brāhmaṇo bhagavato adhivāsanaṁ viditvā pakkāmi.
 
-Những người Licchavi ở Vesālī nghe tin: "Thế Tôn đã đến làng Koṭi." Rồi những người Licchavi ở Vesālī sai thắng những cỗ xe tuyệt hảo, bước lên một cỗ xe tuyệt hảo, cùng với những cỗ xe tuyệt hảo đi ra khỏi Vesālī để diện kiến Thế Tôn. Có những người Licchavi màu xanh, da màu xanh, mặc áo màu xanh, đeo trang sức màu xanh; có những người Licchavi màu vàng, da màu vàng, mặc áo màu vàng, đeo trang sức màu vàng; có những người Licchavi màu đỏ, da màu đỏ, mặc áo màu đỏ, đeo trang sức màu đỏ; có những người Licchavi màu trắng, da màu trắng, mặc áo màu trắng, đeo trang sức màu trắng.
+18.2\. Atha kho so brāhmaṇo tassā rattiyā accayena paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi— “kālo, bho gotama, niṭṭhitaṁ bhattan”ti.
 
-Rồi *kỹ nữ* Ambapālī lái xe cọ trục xe vào trục xe, cọ ách xe vào ách xe, cọ bánh xe vào bánh xe, cọ chốt xe vào chốt xe của những người Licchavi trẻ tuổi. Rồi những người Licchavi ấy nói với *kỹ nữ* Ambapālī điều này: "Này Ambapālī, tại sao cô lại lái xe cọ trục xe vào trục xe, cọ ách xe vào ách xe, cọ bánh xe vào bánh xe, cọ chốt xe vào chốt xe của những người Licchavi trẻ tuổi?" "Thưa các công tử, đó là vì tôi đã mời Tăng chúng với Đức Phật là vị đứng đầu đến dùng bữa vào ngày mai."
+Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena tassa brāhmaṇassa nivesanaṁ tenupasaṅkami, upasaṅkamitvā paññatte āsane nisīdi, saddhiṁ bhikkhusaṅghena. Atha kho so brāhmaṇo buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ brāhmaṇaṁ bhagavā dhammiyā kathāya sandassetvā, samādapetvā, samuttejetvā, sampahaṁsetvā uṭṭhāyāsanā pakkāmi.
 
-"Này Ambapālī, hãy nhường lại bữa ăn đó cho chúng tôi với giá một trăm ngàn."
+18.3\. Atha kho tassa brāhmaṇassa acirapakkantassa bhagavato etadahosi— “yesaṁ kho mayā atthāya buddhappamukho bhikkhusaṅgho nimantito, ‘nave ca tile navañca madhuṁ dassāmī’ti, te mayā pamuṭṭhā dātuṁ. Yannūnāhaṁ nave ca tile navañca madhuṁ kolambehi ca ghaṭehi ca ārāmaṁ harāpeyyan”ti. Atha kho so brāhmaṇo nave ca tile navañca madhuṁ kolambehi ca ghaṭehi ca ārāmaṁ harāpetvā yena bhagavā tenupasaṅkami, upasaṅkamitvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so brāhmaṇo bhagavantaṁ etadavoca— “yesaṁ kho mayā, bho gotama, atthāya buddhappamukho bhikkhusaṅgho nimantito, ‘nave ca tile navañca madhuṁ dassāmī’ti, te mayā pamuṭṭhā dātuṁ. Paṭiggaṇhātu me bhavaṁ gotamo nave ca tile navañca madhun”ti.
 
-"Thưa các công tử, cho dù các vị có giao cả Vesālī cùng với các vùng phụ cận cho tôi, tôi cũng không nhường lại bữa ăn đó."
+18.4\. “Tena hi, brāhmaṇa, bhikkhūnaṁ dehī”ti.
 
-Rồi những người Licchavi ấy búng tay [và nói]: "Chà, chúng ta đã bị một người đàn bà đánh bại, chà, chúng ta đã bị một người đàn bà qua mặt." Rồi những người Licchavi ấy đi đến chỗ Thế Tôn.
+Tena kho pana samayena bhikkhū dubbhikkhe appamattakepi pavārenti, paṭisaṅkhāpi paṭikkhipanti, sabbo ca saṅgho pavārito hoti. Bhikkhū kukkuccāyantā na paṭiggaṇhanti.
 
-Thế Tôn nhìn thấy những người Licchavi ấy đang đi đến từ đằng xa, sau khi thấy, ngài gọi các tỳ-kheo: "Này các tỳ-kheo, những tỳ-kheo nào chưa từng thấy chư thiên ở cõi Tāvatiṁsa, hãy nhìn hội chúng Licchavi này; này các tỳ-kheo, hãy quan sát hội chúng Licchavi này; này các tỳ-kheo, hãy so sánh hội chúng Licchavi này với hội chúng Tāvatiṁsa."
+“Paṭiggaṇhatha, bhikkhave, paribhuñjatha. Anujānāmi, bhikkhave, tato nīhaṭaṁ bhuttāvinā pavāritena anatirittaṁ paribhuñjitun”ti.
 
-Rồi những người Licchavi ấy, cho đến chỗ đất [còn đi được] bằng xe, đi bằng xe rồi bước xuống xe, đi bộ đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi những người Licchavi ấy đang ngồi một bên, Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*. Rồi những người Licchavi ấy, sau khi được Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*, đã nói với Thế Tôn điều này: "Bạch Thế Tôn, xin Thế Tôn cùng với Tăng chúng nhận lời mời dùng bữa của chúng con vào ngày mai."
+## 7. Paṭiggahitādianujānana {#7}
 
-"Này các Licchavi, Ta đã nhận lời mời dùng bữa vào ngày mai của *kỹ nữ* Ambapālī rồi."
+19.1\. Tena kho pana samayena āyasmato upanandassa sakyaputtassa upaṭṭhākakulaṁ saṅghassatthāya khādanīyaṁ pāhesi— “ayyassa upanandassa dassetvā saṅghassa dātabban”ti. Tena kho pana samayena āyasmā upanando sakyaputto gāmaṁ piṇḍāya paviṭṭho hoti. Atha kho te manussā ārāmaṁ gantvā bhikkhū pucchiṁsu— “kahaṁ, bhante, ayyo upanando”ti? “Esāvuso, āyasmā upanando sakyaputto gāmaṁ piṇḍāya paviṭṭho”ti. “Idaṁ, bhante, khādanīyaṁ ayyassa upanandassa dassetvā saṅghassa dātabban”ti. Bhagavato etamatthaṁ ārocesuṁ. “Tena hi, bhikkhave, paṭiggahetvā nikkhipatha yāva upanando āgacchatī”ti. Atha kho āyasmā upanando sakyaputto purebhattaṁ kulāni payirupāsitvā divā āgacchati.
 
-Rồi những người Licchavi ấy búng tay [và nói]: "Chà, chúng ta đã bị một người đàn bà đánh bại, chà, chúng ta đã bị một người đàn bà qua mặt." Rồi những người Licchavi ấy vui mừng đón nhận và tùy hỷ lời Thế Tôn dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi.
+19.2\. Tena kho pana samayena bhikkhū dubbhikkhe appamattakepi pavārenti, paṭisaṅkhāpi paṭikkhipanti, sabbo ca saṅgho pavārito hoti. Bhikkhū kukkuccāyantā na paṭiggaṇhanti.
 
-Rồi Thế Tôn, sau khi ở lại làng Koṭi bao lâu tùy thích, đã đi đến Nātika. Tại đó, Thế Tôn trú ở Nātika, tại Giñjakāvasatha (Ngôi nhà gạch).
+“Paṭiggaṇhatha, bhikkhave, paribhuñjatha. Anujānāmi, bhikkhave, purebhattaṁ paṭiggahitaṁ bhuttāvinā pavāritena anatirittaṁ paribhuñjitun”ti.
 
-Rồi *kỹ nữ* Ambapālī, qua đêm đó, sau khi sai chuẩn bị các món ăn loại cứng và loại mềm thượng hạng tại khu vườn của mình, liền thông báo thời gian cho Thế Tôn: "Bạch Thế Tôn, đã đến giờ, bữa ăn đã chuẩn bị xong." Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến nơi dọn bữa ăn của *kỹ nữ* Ambapālī; sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng. Rồi *kỹ nữ* Ambapālī tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, khi Thế Tôn đã ăn xong và rút tay khỏi bát, cô ngồi xuống một bên. Ngồi xuống một bên, *kỹ nữ* Ambapālī nói với Thế Tôn điều này: "Bạch Thế Tôn, con xin dâng khu vườn xoài này cho Tăng chúng với Đức Phật là vị đứng đầu." Thế Tôn nhận lấy khu vườn. Rồi Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ *kỹ nữ* Ambapālī bằng bài *giảng về Chân lý*, ngài đứng dậy khỏi chỗ ngồi rồi đi đến Mahāvana. Tại đó, Thế Tôn trú ở Vesālī, tại Mahāvana, trong Trùng Các Giảng Đường.
+20.1\. Atha kho bhagavā rājagahe yathābhirantaṁ viharitvā yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari. Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
-Kết thúc phần tụng thứ ba về những người Licchavi.
+Tena kho pana samayena āyasmato sāriputtassa kāyaḍāhābādho hoti. Atha kho āyasmā mahāmoggallāno yenāyasmā sāriputto tenupasaṅkami, upasaṅkamitvā āyasmantaṁ sāriputtaṁ etadavoca— “pubbe te, āvuso sāriputta, kāyaḍāhābādho kena phāsu hotī”ti?
 
-## 19. Câu chuyện về tướng quân Sīha {#19}
-*(Sīhasenāpativatthu)* (Mv 6.31)
+“Bhisehi ca me, āvuso, muḷālikāhi cā”ti.
 
-31\. Vào lúc bấy giờ, những người Licchavi danh tiếng đang ngồi tụ họp tại hội trường, bằng nhiều cách thức khác nhau, nói lời ca ngợi Phật, nói lời ca ngợi *Giáo pháp* (pháp / dhamma), nói lời ca ngợi Tăng. Vào lúc bấy giờ, tướng quân Sīha, một đệ tử của Nigaṇṭha, đang ngồi trong hội chúng ấy. Rồi tướng quân Sīha khởi lên suy nghĩ này: "Không nghi ngờ gì nữa, Thế Tôn ấy chắc chắn là bậc A-la-hán, bậc Chánh Đẳng Giác, vì những người Licchavi danh tiếng này đang ngồi tụ họp tại hội trường, bằng nhiều cách thức khác nhau, nói lời ca ngợi Phật, nói lời ca ngợi *Giáo pháp*, nói lời ca ngợi Tăng. Hay là ta hãy đến gặp Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ấy để diện kiến." Rồi tướng quân Sīha đi đến chỗ Nigaṇṭha Nāṭaputta, sau khi đến, nói với Nigaṇṭha Nāṭaputta điều này: "Thưa ngài, tôi muốn đến gặp sa-môn Gotama để diện kiến."
+Atha kho āyasmā mahāmoggallāno seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva jetavane antarahito mandākiniyā pokkharaṇiyā tīre pāturahosi. Addasā kho aññataro nāgo āyasmantaṁ mahāmoggallānaṁ dūratova āgacchantaṁ, disvāna āyasmantaṁ mahāmoggallānaṁ etadavoca— “etu kho, bhante, ayyo mahāmoggallāno. Svāgataṁ, bhante, ayyassa mahāmoggallānassa. Kena, bhante, ayyassa attho; kiṁ dammī”ti?
 
-"Nhưng này Sīha, tại sao ông là người theo *thuyết có nghiệp quả* (kiriyavādo) lại muốn đến gặp sa-môn Gotama, người theo *thuyết không có nghiệp quả* (akiriyavādaṁ) để diện kiến? Vì này Sīha, sa-môn Gotama là người theo *thuyết không có nghiệp quả*, thuyết giảng *Giáo pháp* về sự không có nghiệp quả và huấn luyện các đệ tử theo cách đó." Rồi ý định ra đi để diện kiến Thế Tôn của tướng quân Sīha bị *lắng dịu* (paṭippassambhi).
+20.2\. “Bhisehi ca me, āvuso, attho, muḷālikāhi cā”ti.
 
-Lần thứ hai, những người Licchavi danh tiếng đang ngồi tụ họp tại hội trường, bằng nhiều cách thức khác nhau, nói lời ca ngợi Phật, nói lời ca ngợi *Giáo pháp*, nói lời ca ngợi Tăng. Lần thứ hai, tướng quân Sīha khởi lên suy nghĩ này: "Không nghi ngờ gì nữa, Thế Tôn ấy chắc chắn là bậc A-la-hán, bậc Chánh Đẳng Giác, vì những người Licchavi danh tiếng này đang ngồi tụ họp tại hội trường, bằng nhiều cách thức khác nhau, nói lời ca ngợi Phật, nói lời ca ngợi *Giáo pháp*, nói lời ca ngợi Tăng. Hay là ta hãy đến gặp Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ấy để diện kiến." Lần thứ hai, tướng quân Sīha đi đến chỗ Nigaṇṭha Nāṭaputta, sau khi đến, nói với Nigaṇṭha Nāṭaputta điều này: "Thưa ngài, tôi muốn đến gặp sa-môn Gotama để diện kiến." "Nhưng này Sīha, tại sao ông là người theo *thuyết có nghiệp quả* lại muốn đến gặp sa-môn Gotama, người theo *thuyết không có nghiệp quả* để diện kiến? Vì này Sīha, sa-môn Gotama là người theo *thuyết không có nghiệp quả*, thuyết giảng *Giáo pháp* về sự không có nghiệp quả và huấn luyện các đệ tử theo cách đó." Lần thứ hai, ý định ra đi để diện kiến Thế Tôn của tướng quân Sīha bị *lắng dịu*.
+Atha kho so nāgo aññataraṁ nāgaṁ āṇāpesi— “tena hi, bhaṇe, ayyassa bhise ca muḷālikāyo ca yāvadatthaṁ dehī”ti. Atha kho so nāgo mandākiniṁ pokkharaṇiṁ ogāhetvā, soṇḍāya bhisañca muḷālikañca abbāhitvā, suvikkhālitaṁ vikkhāletvā, bhaṇḍikaṁ bandhitvā yenāyasmā mahāmoggallāno tenupasaṅkami. Atha kho āyasmā mahāmoggallāno—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—mandākiniyā pokkharaṇiyā tīre antarahito jetavane pāturahosi. Sopi kho nāgo mandākiniyā pokkharaṇiyā tīre antarahito jetavane pāturahosi. Atha kho so nāgo āyasmato mahāmoggallānassa bhise ca muḷālikāyo ca paṭiggahāpetvā jetavane antarahito mandākiniyā pokkharaṇiyā tīre pāturahosi. Atha kho āyasmā mahāmoggallāno āyasmato sāriputtassa bhise ca muḷālikāyo ca upanāmesi. Atha kho āyasmato sāriputtassa bhise ca muḷālikāyo ca bhuttassa kāyaḍāhābādho paṭippassambhi. Bahū bhisā ca muḷālikāyo ca avasiṭṭhā honti.
 
-Lần thứ ba, những người Licchavi danh tiếng đang ngồi tụ họp tại hội trường, bằng nhiều cách thức khác nhau, nói lời ca ngợi Phật, nói lời ca ngợi *Giáo pháp*, nói lời ca ngợi Tăng. Lần thứ ba, tướng quân Sīha khởi lên suy nghĩ này: "Không nghi ngờ gì nữa, Thế Tôn ấy chắc chắn là bậc A-la-hán, bậc Chánh Đẳng Giác, vì những người Licchavi danh tiếng này đang ngồi tụ họp tại hội trường, bằng nhiều cách thức khác nhau, nói lời ca ngợi Phật, nói lời ca ngợi *Giáo pháp*, nói lời ca ngợi Tăng. Những người Nigaṇṭha sẽ làm gì được ta, dù ta có xin phép hay không xin phép? Hay là ta không cần xin phép những người Nigaṇṭha [mà] hãy đến gặp Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác ấy để diện kiến."
+20.4\. Tena kho pana samayena bhikkhū dubbhikkhe appamattakepi pavārenti, paṭisaṅkhāpi paṭikkhipanti, sabbo ca saṅgho pavārito hoti. Bhikkhū kukkuccāyantā na paṭiggaṇhanti.
 
-Rồi tướng quân Sīha cùng với năm trăm cỗ xe đi ra khỏi Vesālī vào giữa ban ngày để diện kiến Thế Tôn. Cho đến chỗ đất [còn đi được] bằng xe, đi bằng xe rồi bước xuống xe, đi bộ đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, tướng quân Sīha nói với Thế Tôn điều này: "Bạch Thế Tôn, con đã nghe điều này: 'Sa-môn Gotama là người theo *thuyết không có nghiệp quả*, thuyết giảng *Giáo pháp* về sự không có nghiệp quả và huấn luyện các đệ tử theo cách đó.' Bạch Thế Tôn, những người nói như vầy: 'Sa-môn Gotama là người theo *thuyết không có nghiệp quả*, thuyết giảng *Giáo pháp* về sự không có nghiệp quả và huấn luyện các đệ tử theo cách đó.' Bạch Thế Tôn, có phải họ là những người nói đúng lời của Thế Tôn và không vu khống Thế Tôn bằng điều không thật, họ giải thích đúng theo *Giáo pháp* và không có người đồng pháp nào nói theo [mà] rơi vào chỗ đáng chê trách? Bạch Thế Tôn, vì chúng con không muốn vu khống Thế Tôn."
+“Paṭiggaṇhatha, bhikkhave, paribhuñjatha. Anujānāmi, bhikkhave, vanaṭṭhaṁ pokkharaṭṭhaṁ bhuttāvinā pavāritena anatirittaṁ paribhuñjitun”ti.
 
-"Này Sīha, có một khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết không có nghiệp quả*, thuyết giảng *Giáo pháp* về sự không có nghiệp quả và huấn luyện các đệ tử theo cách đó.' Này Sīha, có một khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết có nghiệp quả*, thuyết giảng *Giáo pháp* về sự tác nghiệp và huấn luyện các đệ tử theo cách đó.' Này Sīha, có một khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết đoạn diệt* (ucchedavādo), thuyết giảng *Giáo pháp* về sự đoạn diệt và huấn luyện các đệ tử theo cách đó.' Này Sīha, có một khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người từ chối* (jegucchī), thuyết giảng *Giáo pháp* về sự ghê tởm và huấn luyện các đệ tử theo cách đó.' Này Sīha, có một khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người loại trừ* (venayiko), thuyết giảng *Giáo pháp* về sự loại trừ và huấn luyện các đệ tử theo cách đó.' Này Sīha, có một khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người khổ hạnh* (tapassī), thuyết giảng *Giáo pháp* về sự khổ hạnh và huấn luyện các đệ tử theo cách đó.' Này Sīha, có một khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người không còn vào bào thai* (apagabbho), thuyết giảng *Giáo pháp* về sự không còn vào bào thai và huấn luyện các đệ tử theo cách đó.' Này Sīha, có một khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người mang lại sự an ủi* (assattho), thuyết giảng *Giáo pháp* về sự an ủi và huấn luyện các đệ tử theo cách đó.'
+21.1\. Tena kho pana samayena sāvatthiyaṁ bahuṁ phalakhādanīyaṁ uppannaṁ hoti, kappiyakārako ca na hoti. Bhikkhū kukkuccāyantā phalaṁ na paribhuñjanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Và này Sīha, thế nào là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết không có nghiệp quả*, thuyết giảng *Giáo pháp* về sự không có nghiệp quả và huấn luyện các đệ tử theo cách đó'? Vì này Sīha, Ta nói về sự không có nghiệp quả đối với hành vi sai trái của thân, hành vi sai trái của lời nói, hành vi sai trái của ý nghĩ; Ta nói về sự không có nghiệp quả đối với nhiều loại *điều* (pháp / dhammānaṁ) ác, *những điều không thiện* (bất thiện pháp / akusalānaṁ dhammānaṁ). Này Sīha, đây là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết không có nghiệp quả*, thuyết giảng *Giáo pháp* về sự không có nghiệp quả và huấn luyện các đệ tử theo cách đó.'
+“Anujānāmi, bhikkhave, abījaṁ nibbattabījaṁ akatakappaṁ phalaṁ paribhuñjitun”ti.
 
-Và này Sīha, thế nào là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết có nghiệp quả*, thuyết giảng *Giáo pháp* về sự tác nghiệp và huấn luyện các đệ tử theo cách đó'? Vì này Sīha, Ta nói về sự tác nghiệp đối với hành vi tốt đẹp của thân, hành vi tốt đẹp của lời nói, hành vi tốt đẹp của ý nghĩ; Ta nói về sự tác nghiệp đối với nhiều loại *điều* thiện. Này Sīha, đây là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết có nghiệp quả*, thuyết giảng *Giáo pháp* về sự tác nghiệp và huấn luyện các đệ tử theo cách đó.'
+## 8. Satthakammapaṭikkhepakathā {#8}
 
-Và này Sīha, thế nào là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết đoạn diệt*, thuyết giảng *Giáo pháp* về sự đoạn diệt và huấn luyện các đệ tử theo cách đó'? Vì này Sīha, Ta nói về sự đoạn diệt đối với sự *đắm nhiễm* (tham / rāga), sự *ám ảnh khó chịu* (sân / dosa), *Sự u mê* (si / moha); Ta nói về sự đoạn diệt đối với nhiều loại *điều* ác, *những điều không thiện*. Này Sīha, đây là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là người theo *thuyết đoạn diệt*, thuyết giảng *Giáo pháp* về sự đoạn diệt và huấn luyện các đệ tử theo cách đó.'
+22.1\. Atha kho bhagavā sāvatthiyaṁ yathābhirantaṁ viharitvā yena rājagahaṁ tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena rājagahaṁ tadavasari. Tatra sudaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
-Và này Sīha, thế nào là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người từ chối*, thuyết giảng *Giáo pháp* về sự ghê tởm và huấn luyện các đệ tử theo cách đó'? Vì này Sīha, Ta ghê tởm hành vi sai trái của thân, hành vi sai trái của lời nói, hành vi sai trái của ý nghĩ; Ta ghê tởm sự dính líu vào nhiều loại *điều* ác, *những điều không thiện*. Này Sīha, đây là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người từ chối*, thuyết giảng *Giáo pháp* về sự ghê tởm và huấn luyện các đệ tử theo cách đó.'
+Tena kho pana samayena aññatarassa bhikkhuno bhagandalābādho hoti. Ākāsagotto vejjo satthakammaṁ karoti. Atha kho bhagavā senāsanacārikaṁ āhiṇḍanto yena tassa bhikkhuno vihāro tenupasaṅkami. Addasā kho ākāsagotto vejjo bhagavantaṁ dūratova āgacchantaṁ, disvāna bhagavantaṁ etadavoca— “āgacchatu bhavaṁ gotamo, imassa bhikkhuno vaccamaggaṁ passatu, seyyathāpi godhāmukhan”ti.
 
-Và này Sīha, thế nào là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người loại trừ*, thuyết giảng *Giáo pháp* về sự loại trừ và huấn luyện các đệ tử theo cách đó'? Vì này Sīha, Ta thuyết giảng *Giáo pháp* để loại trừ sự *đắm nhiễm*, sự *ám ảnh khó chịu*, *Sự u mê*; Ta thuyết giảng *Giáo pháp* để loại trừ nhiều loại *điều* ác, *những điều không thiện*. Này Sīha, đây là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người loại trừ*, thuyết giảng *Giáo pháp* về sự loại trừ và huấn luyện các đệ tử theo cách đó.'
+22.2\. Atha kho bhagavā— “so maṁ khvāyaṁ moghapuriso uppaṇḍetī”ti— tatova paṭinivattitvā, etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā, bhikkhū paṭipucchi— “atthi kira, bhikkhave, amukasmiṁ vihāre bhikkhu gilāno”ti?
 
-Và này Sīha, thế nào là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người khổ hạnh*, thuyết giảng *Giáo pháp* về sự khổ hạnh và huấn luyện các đệ tử theo cách đó'? Này Sīha, Ta nói rằng những *điều* ác, *những điều không thiện* cần phải bị thiêu đốt, [đó là] hành vi sai trái của thân, hành vi sai trái của lời nói, hành vi sai trái của ý nghĩ. Này Sīha, đối với ai mà những *điều* ác, *những điều không thiện* cần phải bị thiêu đốt đã được *từ bỏ* (đoạn trừ / pahīnā), bị cắt đứt tận gốc, làm cho như thân cây cọ bị chặt phần ngọn, làm cho không thể tồn tại, không còn khả năng sinh khởi trong tương lai, Ta gọi người ấy là *người khổ hạnh*. Này Sīha, đối với *Người Đến Như Vậy* (Như Lai / Tathāgata), những *điều* ác, *những điều không thiện* cần phải bị thiêu đốt đã được *từ bỏ*, bị cắt đứt tận gốc, làm cho như thân cây cọ bị chặt phần ngọn, làm cho không thể tồn tại, không còn khả năng sinh khởi trong tương lai. Này Sīha, đây là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người khổ hạnh*, thuyết giảng *Giáo pháp* về sự khổ hạnh và huấn luyện các đệ tử theo cách đó.'
+“Atthi, bhagavā”ti.
 
-Và này Sīha, thế nào là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người không còn vào bào thai*, thuyết giảng *Giáo pháp* về sự không còn vào bào thai và huấn luyện các đệ tử theo cách đó'? Này Sīha, đối với ai mà việc nằm trong bào thai và sự tái sinh trong tương lai đã được *từ bỏ*, bị cắt đứt tận gốc, làm cho như thân cây cọ bị chặt phần ngọn, làm cho không thể tồn tại, không còn khả năng sinh khởi trong tương lai, Ta gọi người ấy là *người không còn vào bào thai*. Này Sīha, đối với *Người Đến Như Vậy*, việc nằm trong bào thai và sự tái sinh trong tương lai đã được *từ bỏ*, bị cắt đứt tận gốc, làm cho như thân cây cọ bị chặt phần ngọn, làm cho không thể tồn tại, không còn khả năng sinh khởi trong tương lai. Này Sīha, đây là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người không còn vào bào thai*, thuyết giảng *Giáo pháp* về sự không còn vào bào thai và huấn luyện các đệ tử theo cách đó.'
+“Kiṁ tassa, bhikkhave, bhikkhuno ābādho”ti?
 
-Và này Sīha, thế nào là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người mang lại sự an ủi*, thuyết giảng *Giáo pháp* về sự an ủi và huấn luyện các đệ tử theo cách đó'? Vì này Sīha, Ta được an tịnh bằng sự an tịnh tối thượng, Ta thuyết giảng *Giáo pháp* để mang lại sự an ủi và huấn luyện các đệ tử theo cách đó. Này Sīha, đây là khía cạnh mà qua khía cạnh đó, người nói đúng về Ta sẽ nói rằng: 'Sa-môn Gotama là *người mang lại sự an ủi*, thuyết giảng *Giáo pháp* về sự an ủi và huấn luyện các đệ tử theo cách đó'."
+“Tassa, bhante, āyasmato bhagandalābādho, ākāsagotto vejjo satthakammaṁ karotī”ti.
 
-Được nói như vậy, tướng quân Sīha nói với Thế Tôn điều này: "Thật tuyệt vời, bạch Thế Tôn [...lặp lại...] Xin Thế Tôn nhận con làm cư sĩ, từ nay cho đến mạng chung, con xin quy y."
+22.3\. Vigarahi buddho bhagavā— “ananucchavikaṁ, bhikkhave, tassa moghapurisassa, ananulomikaṁ, appatirūpaṁ, assāmaṇakaṁ, akappiyaṁ, akaraṇīyaṁ. Kathañhi nāma so, bhikkhave, moghapuriso sambādhe satthakammaṁ kārāpessati. Sambādhe, bhikkhave, sukhumā chavi, duropayo vaṇo, dupparihāraṁ satthaṁ. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-"Này Sīha, hãy hành động sau khi cẩn trọng suy xét; hành động sau khi cẩn trọng suy xét là điều tốt cho những người nổi tiếng như ông."
+“na, bhikkhave, sambādhe satthakammaṁ kārāpetabbaṁ. Yo kārāpeyya, āpatti thullaccayassā”ti.
 
-"Bạch Thế Tôn, với điều này con lại càng hài lòng và hoan hỷ hơn nữa khi Thế Tôn nói với con: 'Này Sīha, hãy hành động sau khi cẩn trọng suy xét; hành động sau khi cẩn trọng suy xét là điều tốt cho những người nổi tiếng như ông.' Bạch Thế Tôn, nếu các ngoại đạo khác có được con làm đệ tử, họ sẽ mang cờ đi khắp Vesālī [mà rêu rao] rằng: 'Tướng quân Sīha đã trở thành đệ tử của chúng ta.' Thế mà Thế Tôn lại nói với con: 'Này Sīha, hãy hành động sau khi cẩn trọng suy xét; hành động sau khi cẩn trọng suy xét là điều tốt cho những người nổi tiếng như ông.' Bạch Thế Tôn, lần thứ hai, con xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Xin Thế Tôn nhận con làm cư sĩ, từ nay cho đến mạng chung, con xin quy y."
+22.4\. Tena kho pana samayena chabbaggiyā bhikkhū— “bhagavatā satthakammaṁ paṭikkhittan”ti— vatthikammaṁ kārāpenti. Ye te bhikkhū appicchā, te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū vatthikammaṁ kārāpessantī”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. “Saccaṁ kira, bhikkhave, chabbaggiyā bhikkhū vatthikammaṁ kārāpentī”ti? “Saccaṁ, bhagavā”ti …pe… vigarahitvā dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-"Này Sīha, gia đình ông từ lâu đã là chỗ dựa cho những người Nigaṇṭha, do đó ông nên nghĩ đến việc bố thí đồ ăn khi họ đi đến."
+“na, bhikkhave, sambādhassa sāmantā dvaṅgulā satthakammaṁ vā vatthikammaṁ vā kārāpetabbaṁ. Yo kārāpeyya, āpatti thullaccayassā”ti.
 
-"Bạch Thế Tôn, với điều này con lại càng hài lòng và hoan hỷ hơn nữa khi Thế Tôn nói với con: 'Này Sīha, gia đình ông từ lâu đã là chỗ dựa cho những người Nigaṇṭha, do đó ông nên nghĩ đến việc bố thí đồ ăn khi họ đi đến.' Bạch Thế Tôn, con đã nghe điều này: 'Sa-môn Gotama nói như vầy: Chỉ nên bố thí cho Ta, không nên bố thí cho người khác; chỉ nên bố thí cho đệ tử của Ta, không nên bố thí cho đệ tử của người khác; chỉ đồ bố thí cho Ta mới có quả lớn, đồ bố thí cho người khác không có quả lớn; chỉ đồ bố thí cho đệ tử của Ta mới có quả lớn, đồ bố thí cho đệ tử của người khác không có quả lớn.' Thế mà Thế Tôn lại khuyến khích con bố thí cho cả những người Nigaṇṭha. Tuy nhiên, bạch Thế Tôn, chúng con sẽ biết thời điểm thích hợp trong việc này. Bạch Thế Tôn, lần thứ ba, con xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Xin Thế Tôn nhận con làm cư sĩ, từ nay cho đến mạng chung, con xin quy y."
+## 9. Manussamaṁsapaṭikkhepakathā {#9}
 
-Rồi Thế Tôn thuyết giảng tuần tự luận cho tướng quân Sīha, đó là: luận về bố thí [...lặp lại...]
+23.1\. Atha kho bhagavā rājagahe yathābhirantaṁ viharitvā yena bārāṇasī tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena bārāṇasī tadavasari. Tatra sudaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye.
 
-[Khi đã trở thành người] không còn phụ thuộc vào người khác trong giáo pháp của bậc Đạo sư, ông nói với Thế Tôn điều này: "Bạch Thế Tôn, xin Thế Tôn cùng với Tăng chúng nhận lời mời dùng bữa của con vào ngày mai." Thế Tôn nhận lời bằng sự im lặng. Rồi tướng quân Sīha, sau khi biết Thế Tôn đã nhận lời, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi.
+Tena kho pana samayena bārāṇasiyaṁ suppiyo ca upāsako suppiyā ca upāsikā ubhatopasannā honti, dāyakā, kārakā, saṅghupaṭṭhākā.
 
-Rồi tướng quân Sīha ra lệnh cho một người hầu: "Này anh bạn, hãy đi tìm mua thịt bán sẵn." Rồi tướng quân Sīha, qua đêm đó, sau khi sai chuẩn bị các món ăn loại cứng và loại mềm thượng hạng, liền thông báo thời gian cho Thế Tôn: "Bạch Thế Tôn, đã đến giờ, bữa ăn đã chuẩn bị xong."
+Atha kho suppiyā upāsikā ārāmaṁ gantvā vihārena vihāraṁ pariveṇena pariveṇaṁ upasaṅkamitvā bhikkhū pucchati— “ko, bhante, gilāno, kassa kiṁ āhariyatū”ti? Tena kho pana samayena aññatarena bhikkhunā virecanaṁ pītaṁ hoti. Atha kho so bhikkhu suppiyaṁ upāsikaṁ etadavoca— “mayā kho, bhagini, virecanaṁ pītaṁ. Attho me paṭicchādanīyenā”ti. “Suṭṭhu, ayya, āhariyissatī”ti
 
-Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến nhà của tướng quân Sīha; sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng.
+23.2\. gharaṁ gantvā antevāsiṁ āṇāpesi— “gaccha, bhaṇe, pavattamaṁsaṁ jānāhī”ti. “Evaṁ, ayye”ti kho so puriso suppiyāya upāsikāya paṭissuṇitvā kevalakappaṁ bārāṇasiṁ āhiṇḍanto na addasa pavattamaṁsaṁ. Atha kho so puriso yena suppiyā upāsikā tenupasaṅkami, upasaṅkamitvā suppiyaṁ upāsikaṁ etadavoca— “natthayye pavattamaṁsaṁ. Māghāto ajjā”ti.
 
-Vào lúc bấy giờ, nhiều người Nigaṇṭha đi từ đường này sang đường khác, từ ngã tư này sang ngã tư khác trong Vesālī, giơ cao cánh tay và gào thét: "Hôm nay tướng quân Sīha đã giết một con vật lớn để làm bữa ăn cho sa-môn Gotama, sa-môn Gotama dù biết vẫn ăn thịt được làm riêng cho mình, [đó là] hành động có chủ ý ác."
+23.3\. Atha kho suppiyāya upāsikāya etadahosi— “tassa kho gilānassa bhikkhuno paṭicchādanīyaṁ alabhantassa ābādho vā abhivaḍḍhissati, kālaṅkiriyā vā bhavissati. Na kho metaṁ patirūpaṁ yāhaṁ paṭissuṇitvā na harāpeyyan”ti. Potthanikaṁ gahetvā ūrumaṁsaṁ ukkantitvā dāsiyā adāsi— “handa, je, imaṁ maṁsaṁ sampādetvā amukasmiṁ vihāre bhikkhu gilāno, tassa dajjāhi. Yo ca maṁ pucchati, ‘gilānā’ti paṭivedehī”ti uttarāsaṅgena ūruṁ veṭhetvā ovarakaṁ pavisitvā mañcake nipajji.
 
-Rồi một người đi đến chỗ tướng quân Sīha, sau khi đến, nói thầm vào tai tướng quân Sīha: "Thưa ngài, ngài có biết chăng, nhiều người Nigaṇṭha kia đang đi từ đường này sang đường khác, từ ngã tư này sang ngã tư khác trong Vesālī, giơ cao cánh tay và gào thét: 'Hôm nay tướng quân Sīha đã giết một con vật lớn để làm bữa ăn cho sa-môn Gotama, sa-môn Gotama dù biết vẫn ăn thịt được làm riêng cho mình, [đó là] hành động có chủ ý ác.'" "Thôi đủ rồi, anh bạn, từ lâu những tôn giả ấy đã muốn chê bai Phật, muốn chê bai *Giáo pháp*, muốn chê bai Tăng; những tôn giả ấy không bao giờ chán việc vu khống Thế Tôn bằng những điều không có thật, trống rỗng, dối trá và vô căn cứ; và chúng ta cũng không vì lý do sinh mạng mà cố ý tước đoạt mạng sống của một sinh vật."
+23.4\. Atha kho suppiyo upāsako gharaṁ gantvā dāsiṁ pucchi— “kahaṁ suppiyā”ti? “Esāyya, ovarake nipannā”ti.
 
-Rồi tướng quân Sīha tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, khi Thế Tôn đã ăn xong và rút tay khỏi bát, ông ngồi xuống một bên. Khi tướng quân Sīha đang ngồi một bên, Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý* (pháp thoại / dhammiyā kathāya), rồi ngài đứng dậy khỏi chỗ ngồi và rời đi.
+Atha kho suppiyo upāsako yena suppiyā upāsikā tenupasaṅkami, upasaṅkamitvā suppiyaṁ upāsikaṁ etadavoca— “kissa nipannāsī”ti? “Gilānāmhī”ti. “Kiṁ te ābādho”ti? Atha kho suppiyā upāsikā suppiyassa upāsakassa etamatthaṁ ārocesi. Atha kho suppiyo upāsako— “acchariyaṁ vata bho, abbhutaṁ vata bho. Yāva saddhāyaṁ suppiyā pasannā, yatra hi nāma attanopi maṁsāni pariccattāni. Kimpimāya aññaṁ kiñci adeyyaṁ bhavissatī”ti—
 
-Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuyết giảng một bài *giảng về Chân lý*, ngài gọi các tỳ-kheo:
+haṭṭho udaggo yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho suppiyo upāsako bhagavantaṁ etadavoca— “adhivāsetu me, bhante, bhagavā svātanāya bhattaṁ, saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho suppiyo upāsako bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
 
-"Này các tỳ-kheo, không được ăn thịt khi biết rằng [con vật] bị giết riêng cho mình. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)* (dukkaṭa). Này các tỳ-kheo, Ta cho phép ăn *thịt cá thanh tịnh ba phần* (tikoṭiparisuddhaṁ macchamaṁsaṁ)—không thấy, không nghe, không nghi ngờ [rằng con vật bị giết vì mình]."
+23.5\. Atha kho suppiyo upāsako tassā rattiyā accayena paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi—“kālo, bhante, niṭṭhitaṁ bhattan”ti.
 
+Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena suppiyassa upāsakassa nivesanaṁ tenupasaṅkami, upasaṅkamitvā paññatte āsane nisīdi, saddhiṁ bhikkhusaṅghena. Atha kho suppiyo upāsako yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho suppiyaṁ upāsakaṁ bhagavā etadavoca—“kahaṁ, suppiyā”ti? “Gilānā, bhagavā”ti.
 
-## 20. Việc cho phép khu vực hợp pháp {#20}
-*(Kappiyabhūmianujānana)* (Mv 6.32)
+23.6\. “Tena hi āgacchatū”ti.
 
-32\. Vào lúc bấy giờ, Vesālī được mùa, lúa non tốt tươi, khất thực dễ dàng, dễ sống bằng việc nhặt nhạnh và quyên góp. Rồi Thế Tôn, khi đang ở một mình nơi thanh vắng, một suy nghĩ như vầy khởi lên trong tâm: "Những điều Ta đã cho phép các tỳ-kheo trong thời kỳ đói kém, lúa màng thất bát, khất thực khó khăn, đó là: cất giữ bên trong, nấu nướng bên trong, tự mình nấu nướng, tự lấy rồi nhận, mang từ đó ra, nhận trước bữa ăn, mọc trong rừng, mọc trong hồ sen; liệu ngày nay các tỳ-kheo có còn sử dụng những điều đó không?"
+“Na, bhagavā, ussahatī”ti.
 
-Rồi Thế Tôn, vào buổi chiều, sau khi xuất định, ngài gọi tôn giả Ānanda: "Này Ānanda, những điều Ta đã cho phép các tỳ-kheo trong thời kỳ đói kém, lúa màng thất bát, khất thực khó khăn, đó là: cất giữ bên trong, nấu nướng bên trong, tự mình nấu nướng, tự lấy rồi nhận, mang từ đó ra, nhận trước bữa ăn, mọc trong rừng, mọc trong hồ sen; liệu ngày nay các tỳ-kheo có còn sử dụng những điều đó không?" "Bạch Thế Tôn, họ vẫn sử dụng."
+“Tena hi pariggahetvāpi ānethā”ti. Atha kho suppiyo upāsako suppiyaṁ upāsikaṁ pariggahetvā ānesi. Tassā saha dassanena bhagavato tāva mahāvaṇo ruḷho ahosi succhavilomajāto. Atha kho suppiyo ca upāsako suppiyā ca upāsikā— “acchariyaṁ vata bho, abbhutaṁ vata bho. Tathāgatassa mahiddhikatā mahānubhāvatā, yatra hi nāma saha dassanena bhagavato tāva mahāvaṇo ruḷho bhavissati succhavilomajāto”ti— haṭṭhā udaggā buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdiṁsu. Atha kho bhagavā suppiyañca upāsakaṁ suppiyañca upāsikaṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkāmi.
 
-Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuyết giảng một bài *giảng về Chân lý* (pháp thoại / dhammiyā kathāya), ngài gọi các tỳ-kheo:
+23.8\. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “ko, bhikkhave, suppiyaṁ upāsikaṁ maṁsaṁ viññāpesī”ti? Evaṁ vutte, so bhikkhu bhagavantaṁ etadavoca—“ahaṁ kho, bhante, suppiyaṁ upāsikaṁ maṁsaṁ viññāpesin”ti.
 
-"Này các tỳ-kheo, những điều Ta đã cho phép các tỳ-kheo trong thời kỳ đói kém, lúa màng thất bát, khất thực khó khăn, đó là: cất giữ bên trong, nấu nướng bên trong, tự mình nấu nướng, tự lấy rồi nhận, mang từ đó ra, nhận trước bữa ăn, mọc trong rừng, mọc trong hồ sen; kể từ hôm nay Ta bãi bỏ những điều đó.
+“Āhariyittha, bhikkhū”ti?
 
-Này các tỳ-kheo, không được ăn đồ ăn cất giữ bên trong, nấu nướng bên trong, tự mình nấu nướng, tự lấy rồi nhận. Vị nào ăn, vị ấy phạm *lỗi Làm sai (đột-kiết-la)* (dukkaṭa).
+“Āhariyittha, bhagavā”ti.
 
-Và này các tỳ-kheo, người đã ăn xong và đã từ chối [ăn thêm] không được ăn đồ ăn không phải đồ thừa được mang từ đó ra, nhận trước bữa ăn, mọc trong rừng, mọc trong hồ sen. Vị nào ăn, phải bị xử lý theo đúng *Quy luật* (pháp / yathādhammo)."
+“Paribhuñji tvaṁ, bhikkhū”ti?
 
-33\. Vào lúc bấy giờ, người dân trong vùng chất nhiều muối, dầu, gạo và đồ ăn loại cứng lên xe bò, họ vây quanh cổng tu viện bằng những chiếc xe bò và chờ đợi [với suy nghĩ]: "Khi nào đến lượt, chúng ta sẽ nấu bữa ăn cúng dường." Rồi một cơn mưa lớn đổ xuống. Rồi những người ấy đi đến chỗ tôn giả Ānanda, sau khi đến, nói với tôn giả Ānanda điều này: "Thưa tôn giả Ānanda, ở đây có rất nhiều muối, dầu, gạo và đồ ăn loại cứng đang được chất trên xe bò, mà một cơn mưa lớn lại đổ xuống; thưa tôn giả Ānanda, chúng tôi phải làm thế nào?" Rồi tôn giả Ānanda đem sự việc này báo cho Thế Tôn. "Này Ānanda, nếu vậy, Tăng chúng hãy chỉ định một tịnh xá ở rìa ngoài làm *khu vực hợp pháp* (kappiyabhūmi) rồi cất giữ ở đó, tùy theo Tăng chúng muốn chọn tịnh xá, tòa nhà mái cong, lâu đài, tòa nhà mái bằng hay hang động. Và này các tỳ-kheo, việc chỉ định phải được thực hiện như vầy. Một tỳ-kheo có năng lực, đủ khả năng, phải thông báo cho Tăng chúng:
+“Paribhuñjāmahaṁ, bhagavā”ti.
 
-'Thưa Tăng chúng, xin hãy nghe tôi. Nếu Tăng chúng thấy thời điểm thích hợp, Tăng chúng hãy chỉ định tịnh xá tên là thế này làm *khu vực hợp pháp*. Đây là lời thông báo.
+“Paṭivekkhi tvaṁ, bhikkhū”ti?
 
-Thưa Tăng chúng, xin hãy nghe tôi. Tăng chúng chỉ định tịnh xá tên là thế này làm *khu vực hợp pháp*. Tôn giả nào đồng ý việc chỉ định tịnh xá tên là thế này làm *khu vực hợp pháp*, vị ấy hãy giữ im lặng; vị nào không đồng ý, vị ấy hãy lên tiếng.
+“Nāhaṁ, bhagavā, paṭivekkhin”ti.
 
-Tịnh xá tên là thế này đã được Tăng chúng chỉ định làm *khu vực hợp pháp*. Tăng chúng đồng ý, do đó giữ im lặng, tôi ghi nhận điều này như vậy.'"
+23.9\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, appaṭivekkhitvā maṁsaṁ paribhuñjissasi. Manussamaṁsaṁ kho tayā, moghapurisa, paribhuttaṁ. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… vigarahitvā dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-Vào lúc bấy giờ, người dân nấu cháo, nấu cơm, làm canh, băm thịt và chẻ củi ngay tại *khu vực hợp pháp* đã được chỉ định đó. Thế Tôn thức dậy vào lúc rạng sáng, ngài nghe thấy tiếng ồn ào, tiếng la hét lớn, tiếng ồn như bầy quạ, sau khi nghe, ngài gọi tôn giả Ānanda: "Này Ānanda, tiếng ồn ào, tiếng la hét lớn, tiếng ồn như bầy quạ đó là gì vậy?" "Bạch Thế Tôn, bây giờ người dân đang nấu cháo, nấu cơm, làm canh, băm thịt và chẻ củi ngay tại *khu vực hợp pháp* đã được chỉ định đó. Bạch Thế Tôn, đó là tiếng ồn ào, tiếng la báo lớn, tiếng ồn như bầy quạ." Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuyết giảng một bài *giảng về Chân lý*, ngài gọi các tỳ-kheo:
+“santi, bhikkhave, manussā saddhā pasannā, tehi attanopi maṁsāni pariccattāni. Na, bhikkhave, manussamaṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti thullaccayassa.
 
-"Này các tỳ-kheo, không được sử dụng *khu vực hợp pháp* đã được chỉ định. Vị nào sử dụng, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*. Này các tỳ-kheo, Ta cho phép ba loại *khu vực hợp pháp*: loại được xác định bằng lời tuyên bố, loại dành cho xe bò và loại của gia chủ."
+Na ca, bhikkhave, appaṭivekkhitvā maṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassā”ti.
 
-Vào lúc bấy giờ, tôn giả Yasooja bị bệnh. Thuốc men được mang đến cho vị ấy. Các tỳ-kheo cất giữ thuốc men ở bên ngoài. Những con vật ăn đồ rơi vãi đã ăn mất, và những tên trộm cũng lấy đi. Họ đem sự việc này báo cho Thế Tôn.
+## 10. Hatthimaṁsādipaṭikkhepakathā {#10}
 
-"Này các tỳ-kheo, Ta cho phép sử dụng *khu vực hợp pháp* đã được chỉ định. Này các tỳ-kheo, Ta cho phép bốn loại *khu vực hợp pháp*: loại được xác định bằng lời tuyên bố, loại dành cho xe bò, loại của gia chủ và loại được chỉ định."
+23.10\. Tena kho pana samayena rañño hatthī maranti. Manussā dubbhikkhe hatthimaṁsaṁ paribhuñjanti, bhikkhūnaṁ piṇḍāya carantānaṁ hatthimaṁsaṁ denti. Bhikkhū hatthimaṁsaṁ paribhuñjanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā hatthimaṁsaṁ paribhuñjissanti. Rājaṅgaṁ hatthī, sace rājā jāneyya, na nesaṁ attamano assā”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-Kết thúc phần tụng thứ tư về Sīha.
+“Na, bhikkhave, hatthimaṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassā”ti.
 
-## 21. Câu chuyện về gia chủ Meṇḍaka {#21}
-*(Meṇḍakagahapativatthu)*
+23.11\. Tena kho pana samayena rañño assā maranti. Manussā dubbhikkhe assamaṁsaṁ paribhuñjanti, bhikkhūnaṁ piṇḍāya carantānaṁ assamaṁsaṁ denti. Bhikkhū assamaṁsaṁ paribhuñjanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā assamaṁsaṁ paribhuñjissanti. Rājaṅgaṁ assā, sace rājā jāneyya, na nesaṁ attamano assā”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-34\. Vào lúc bấy giờ, tại thành phố Bhaddiya, có gia chủ Meṇḍaka sinh sống. Ông có *thần thông uy lực* (iddhānubhāvo) như thế này: sau khi gội đầu, sai quét dọn kho chứa lúa và ngồi ở ngoài cửa, những dòng lúa từ trên trời rơi xuống làm đầy kho chứa lúa. Vợ ông có *thần thông uy lực* như thế này: chỉ cần ngồi bên cạnh một cái nồi cơm cỡ một āḷhaka và một cái nồi canh, bà phục vụ bữa ăn cho quân lính và người hầu, đồ ăn không hề cạn cho đến khi bà đứng dậy. Con trai ông có *thần thông uy lực* như thế này: chỉ cần cầm một túi tiền một ngàn, anh ta trả lương sáu tháng cho quân lính và người hầu, tiền không hề cạn chừng nào túi vẫn còn trong tay anh ta. Con dâu ông có *thần thông uy lực* như thế này: chỉ cần ngồi bên cạnh một giỏ lúa cỡ bốn doṇa, cô phát khẩu phần ăn sáu tháng cho quân lính và người hầu, lúa không hề cạn cho đến khi cô đứng dậy. Người nô lệ của ông có *thần thông uy lực* như thế này: khi anh ta cày bằng một cái cày, bảy luống cày hiện ra.
+“Na, bhikkhave, assamaṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassā”ti.
 
-Vua Bimbisāra của nước Magadha nghe tin: "Nghe nói trong lãnh thổ của chúng ta, tại thành phố Bhaddiya, có gia chủ Meṇḍaka sinh sống. Ông ấy có *thần thông uy lực* như thế này: sau khi gội đầu, sai quét dọn kho chứa lúa và ngồi ở ngoài cửa, những dòng lúa từ trên trời rơi xuống làm đầy kho chứa lúa. Vợ ông có *thần thông uy lực* như thế này: chỉ cần ngồi bên cạnh một cái nồi cơm cỡ một āḷhaka và một cái nồi canh, bà phục vụ bữa ăn cho quân lính và người hầu, đồ ăn không hề cạn cho đến khi bà đứng dậy. Con trai ông có *thần thông uy lực* như thế này: chỉ cần cầm một túi tiền một ngàn, anh ta trả lương sáu tháng cho quân lính và người hầu, tiền không hề cạn chừng nào túi vẫn còn trong tay anh ta. Con dâu ông có *thần thông uy lực* như thế này: chỉ cần ngồi bên cạnh một giỏ lúa cỡ bốn doṇa, cô phát khẩu phần ăn sáu tháng cho quân lính và người hầu, lúa không hề cạn cho đến khi cô đứng dậy. Người nô lệ của ông có *thần thông uy lực* như thế này: khi anh ta cày bằng một cái cày, bảy luống cày hiện ra." Rồi vua Bimbisāra của nước Magadha gọi một vị đại thần phụ trách mọi việc: "Này anh bạn, nghe nói trong lãnh thổ của chúng ta, tại thành phố Bhaddiya, có gia chủ Meṇḍaka sinh sống. Ông ấy có *thần thông uy lực* như thế này: sau khi gội đầu, sai quét dọn kho chứa lúa và ngồi ở ngoài cửa, những dòng lúa từ trên trời rơi xuống làm đầy kho chứa lúa. Vợ ông [...lặp lại...] con trai ông... con dâu ông... người nô lệ của ông có *thần thông uy lực* như thế này: khi anh ta cày bằng một cái cày, bảy luống cày hiện ra. Này anh bạn, hãy đi và tìm hiểu. Những gì chính mắt ta thấy, cũng sẽ giống như những gì mắt ngươi thấy."
+23.12\. Tena kho pana samayena manussā dubbhikkhe sunakhamaṁsaṁ paribhuñjanti, bhikkhūnaṁ piṇḍāya carantānaṁ sunakhamaṁsaṁ denti. Bhikkhū sunakhamaṁsaṁ paribhuñjanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā sunakhamaṁsaṁ paribhuñjissanti, jeguccho sunakho paṭikūlo”ti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Vâng, tâu bệ hạ," vị đại thần ấy vâng lệnh vua Bimbisāra của nước Magadha, cùng với đội quân bốn binh chủng tiến về Bhaddiya. Đi tuần tự, ông đến Bhaddiya, đi đến chỗ gia chủ Meṇḍaka; sau khi đến, ông nói với gia chủ Meṇḍaka điều này: "Này gia chủ, tôi được nhà vua ra lệnh: 'Này anh bạn, nghe nói trong lãnh thổ của chúng ta, tại thành phố Bhaddiya, có gia chủ Meṇḍaka sinh sống, ông ấy có *thần thông uy lực* như thế này, sau khi gội đầu [...lặp lại...] vợ ông... con trai ông... con dâu ông... người nô lệ của ông có *thần thông uy lực* như thế này, khi anh ta cày bằng một cái cày, bảy luống cày hiện ra. Này anh bạn, hãy đi và tìm hiểu. Những gì chính mắt ta thấy, cũng sẽ giống như những gì mắt ngươi thấy.' Này gia chủ, chúng tôi muốn xem *thần thông uy lực* của ông." Rồi gia chủ Meṇḍaka sau khi gội đầu, sai quét dọn kho chứa lúa và ngồi ở ngoài cửa, những dòng lúa từ trên trời rơi xuống làm đầy kho chứa lúa.
+“Na, bhikkhave, sunakhamaṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassā”ti.
 
-"Này gia chủ, tôi đã thấy *thần thông uy lực* của ông. Chúng tôi muốn xem *thần thông uy lực* của vợ ông." Rồi gia chủ Meṇḍaka ra lệnh cho vợ: "Nếu vậy, bà hãy phục vụ bữa ăn cho đội quân bốn binh chủng." Rồi vợ của gia chủ Meṇḍaka ngồi bên cạnh một cái nồi cơm cỡ một āḷhaka và một cái nồi canh, phục vụ bữa ăn cho đội quân bốn binh chủng, đồ ăn không hề cạn cho đến khi bà đứng dậy.
+23.13\. Tena kho pana samayena manussā dubbhikkhe ahimaṁsaṁ paribhuñjanti, bhikkhūnaṁ piṇḍāya carantānaṁ ahimaṁsaṁ denti. Bhikkhū ahimaṁsaṁ paribhuñjanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā ahimaṁsaṁ paribhuñjissanti, jeguccho ahi paṭikūlo”ti. Supassopi nāgarājā yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho supasso nāgarājā bhagavantaṁ etadavoca— “santi, bhante, nāgā assaddhā appasannā. Te appamattakehipi bhikkhū viheṭheyyuṁ. Sādhu, bhante, ayyā ahimaṁsaṁ na paribhuñjeyyun”ti. Atha kho bhagavā supassaṁ nāgarājānaṁ dhammiyā kathāya sandassesi …pe… padakkhiṇaṁ katvā pakkāmi. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-"Này gia chủ, tôi đã thấy *thần thông uy lực* của vợ ông. Chúng tôi muốn xem *thần thông uy lực* của con trai ông." Rồi gia chủ Meṇḍaka ra lệnh cho con trai: "Nếu vậy, con hãy trả lương sáu tháng cho đội quân bốn binh chủng." Rồi con trai của gia chủ Meṇḍaka cầm một túi tiền một ngàn, trả lương sáu tháng cho đội quân bốn binh chủng, tiền không hề cạn chừng nào túi vẫn còn trong tay anh ta.
+“na, bhikkhave, ahimaṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassā”ti.
 
-"Này gia chủ, tôi đã thấy *thần thông uy lực* của con trai ông. Chúng tôi muốn xem *thần thông uy lực* của con dâu ông." Rồi gia chủ Meṇḍaka ra lệnh cho con dâu: "Nếu vậy, con hãy phát khẩu phần ăn sáu tháng cho đội quân bốn binh chủng." Rồi con dâu của gia chủ Meṇḍaka ngồi bên cạnh một giỏ lúa cỡ bốn doṇa, phát khẩu phần ăn sáu tháng cho đội quân bốn binh chủng, lúa không hề cạn cho đến khi cô đứng dậy.
+23.14\. Tena kho pana samayena luddakā sīhaṁ hantvā sīhamaṁsaṁ paribhuñjanti, bhikkhūnaṁ piṇḍāya carantānaṁ sīhamaṁsaṁ denti. Bhikkhū sīhamaṁsaṁ paribhuñjitvā araññe viharanti. Sīhā sīhamaṁsagandhena bhikkhū paripātenti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này gia chủ, tôi đã thấy *thần thông uy lực* của con dâu ông. Chúng tôi muốn xem *thần thông uy lực* của người nô lệ của ông."
+“Na, bhikkhave, sīhamaṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassā”ti.
 
-"Thưa ngài, *thần thông uy lực* của người nô lệ của tôi phải ra ngoài đồng mới xem được."
+23.15\. Tena kho pana samayena luddakā byagghaṁ hantvā …pe… dīpiṁ hantvā …pe… acchaṁ hantvā …pe… taracchaṁ hantvā taracchamaṁsaṁ paribhuñjanti, bhikkhūnaṁ piṇḍāya carantānaṁ taracchamaṁsaṁ denti. Bhikkhū taracchamaṁsaṁ paribhuñjitvā araññe viharanti. Taracchā taracchamaṁsagandhena bhikkhū paripātenti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Thôi đủ rồi, này gia chủ, tôi coi như đã thấy *thần thông uy lực* của người nô lệ của ông."
+“Na, bhikkhave, taracchamaṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassā”ti.
 
-Rồi vị đại thần ấy cùng với đội quân bốn binh chủng quay trở về Rājagaha. Ông đi đến chỗ vua Bimbisāra của nước Magadha; sau khi đến, ông báo cáo sự việc này cho vua Bimbisāra của nước Magadha.
+Suppiyabhāṇavāro niṭṭhito dutiyo.
 
-Rồi Thế Tôn, sau khi ở lại Vesālī bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Bhaddiya, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Rồi Thế Tôn đi du hành tuần tự và đến Bhaddiya. Tại đó, Thế Tôn trú ở Bhaddiya, tại khu rừng Jātiyā.
+## 11. Yāgumadhugoḷakānujānana {#11}
 
-Gia chủ Meṇḍaka nghe tin: "Sa-môn Gotama, con trai dòng Sakya, xuất gia từ gia tộc Sakya, đã đến Bhaddiya và đang trú ở Bhaddiya, tại khu rừng Jātiyā. Tiếng tốt của Thế Tôn Gotama đã lan truyền như thế này—
+24.1\. Atha kho bhagavā bārāṇasiyaṁ yathābhirantaṁ viharitvā yena andhakavindaṁ tena cārikaṁ pakkāmi, mahatā bhikkhusaṅghena saddhiṁ, aḍḍhatelasehi bhikkhusatehi. Tena kho pana samayena jānapadā manussā bahuṁ loṇampi, telampi, taṇḍulampi, khādanīyampi sakaṭesu āropetvā buddhappamukhassa bhikkhusaṅghassa piṭṭhito piṭṭhito anubandhā honti— “yadā paṭipāṭiṁ labhissāma tadā bhattaṁ karissāmā”ti, pañcamattāni ca vighāsādasatāni.
 
-'Thế Tôn ấy là bậc A-la-hán, bậc Chánh Đẳng Giác, bậc Minh Hạnh Túc, bậc Thiện Thệ, bậc Thế Gian Giải, bậc Vô Thượng Sĩ, bậc Điều Ngự Trượng Phu, bậc Đạo Sư của chư thiên và loài người, là Đức Phật, là Thế Tôn'. Ngài đã tự mình chứng ngộ với trí tuệ siêu việt và tuyên bố cho thế giới này cùng với chư thiên, Ma vương, Phạm thiên, cho quần chúng cùng với sa-môn, bà-la-môn, chư thiên và loài người. Ngài thuyết giảng *Giáo pháp* toàn hảo ở đoạn đầu, toàn hảo ở đoạn giữa, toàn hảo ở đoạn cuối, trọn vẹn cả ý nghĩa và văn tự, ngài làm sáng tỏ đời sống thánh thiện hoàn toàn viên mãn và thanh tịnh. Thật tốt đẹp thay khi được diện kiến một bậc A-la-hán như vậy."
+Atha kho bhagavā anupubbena cārikaṁ caramāno yena andhakavindaṁ tadavasari. Atha kho aññatarassa brāhmaṇassa paṭipāṭiṁ alabhantassa etadahosi— “atītāni kho me dve māsāni buddhappamukhaṁ bhikkhusaṅghaṁ anubandhantassa ‘yadā paṭipāṭiṁ labhissāmi tadā bhattaṁ karissāmī’ti, na ca me paṭipāṭi labbhati, ahañcamhi ekattako, bahu ca me gharāvāsattho hāyati. Yannūnāhaṁ bhattaggaṁ olokeyyaṁ; yaṁ bhattagge nāssa, taṁ paṭiyādeyyan”ti. Atha kho so brāhmaṇo bhattaggaṁ olokento dve nāddasa— yāguñca madhugoḷakañca. Atha kho so brāhmaṇo yenāyasmā ānando tenupasaṅkami, upasaṅkamitvā āyasmantaṁ ānandaṁ etadavoca— “idha me, bho ānanda, paṭipāṭiṁ alabhantassa etadahosi— ‘atītāni kho me dve māsāni buddhappamukhaṁ bhikkhusaṅghaṁ anubandhantassa, “yadā paṭipāṭiṁ labhissāmi tadā bhattaṁ karissāmī”ti. Na ca me paṭipāṭi labbhati, ahañcamhi ekattako, bahu ca me gharāvāsattho hāyati. Yannūnāhaṁ bhattaggaṁ olokeyyaṁ; yaṁ bhattagge nāssa, taṁ paṭiyādeyyan’ti. So kho ahaṁ, bho ānanda, bhattaggaṁ olokento dve nāddasaṁ— yāguñca madhugoḷakañca. Sacāhaṁ, bho ānanda, paṭiyādeyyaṁ yāguñca madhugoḷakañca, paṭiggaṇheyya me bhavaṁ gotamo”ti?
 
-Rồi gia chủ Meṇḍaka sai thắng những cỗ xe tuyệt hảo, bước lên một cỗ xe tuyệt hảo, cùng với những cỗ xe tuyệt hảo đi ra khỏi Bhaddiya để diện kiến Thế Tôn. Nhiều *ngoại đạo* (titthiyā) nhìn thấy gia chủ Meṇḍaka đang đi đến từ đằng xa, sau khi thấy, họ nói với gia chủ Meṇḍaka điều này: "Này gia chủ, ông đang đi đâu vậy?"
+24.3\. “Tena hi, brāhmaṇa, bhagavantaṁ paṭipucchissāmī”ti. Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi. “Tena hānanda, paṭiyādetū”ti. “Tena hi, brāhmaṇa, paṭiyādehī”ti.
 
-"Thưa các ngài, tôi đang đi diện kiến Thế Tôn, sa-môn Gotama."
+24.4\. Atha kho so brāhmaṇo tassā rattiyā accayena pahūtaṁ yāguñca madhugoḷakañca paṭiyādāpetvā bhagavato upanāmesi— “paṭiggaṇhātu me bhavaṁ gotamo yāguñca madhugoḷakañcā”ti.
 
-"Nhưng này gia chủ, tại sao ông là người theo *thuyết có nghiệp quả* (kiriyavādo) lại muốn đến gặp sa-môn Gotama, người theo *thuyết không có nghiệp quả* (akiriyavādaṁ) để diện kiến? Vì này gia chủ, sa-môn Gotama là người theo *thuyết không có nghiệp quả*, thuyết giảng *Giáo pháp* về sự không có nghiệp quả và huấn luyện các đệ tử theo cách đó."
+“Tena hi, brāhmaṇa, bhikkhūnaṁ dehī”ti.
 
-Rồi gia chủ Meṇḍaka khởi lên suy nghĩ này: "Không nghi ngờ gì nữa, Thế Tôn ấy chắc chắn là bậc A-la-hán, bậc Chánh Đẳng Giác, vì những *ngoại đạo* này đang ghen tị." Cho đến chỗ đất [còn đi được] bằng xe, đi bằng xe rồi bước xuống xe, đi bộ đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi gia chủ Meṇḍaka đang ngồi một bên, Thế Tôn thuyết giảng tuần tự luận, đó là: luận về bố thí [...lặp lại...]
+Bhikkhū kukkuccāyantā na paṭiggaṇhanti. “Paṭiggaṇhatha, bhikkhave, paribhuñjathā”ti. Atha kho so brāhmaṇo buddhappamukhaṁ bhikkhusaṅghaṁ pahūtāya yāguyā ca madhugoḷakena ca sahatthā santappetvā sampavāretvā bhagavantaṁ dhotahatthaṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ brāhmaṇaṁ bhagavā etadavoca—
 
-[Khi đã trở thành người] không còn phụ thuộc vào người khác trong giáo pháp của bậc Đạo sư, ông nói với Thế Tôn điều này: "Thật tuyệt vời, bạch Thế Tôn [...lặp lại...] Xin Thế Tôn nhận con làm cư sĩ, từ nay cho đến mạng chung, con xin quy y. Và bạch Thế Tôn, xin Thế Tôn cùng với Tăng chúng nhận lời mời dùng bữa của con vào ngày mai." Thế Tôn nhận lời bằng sự im lặng. Rồi gia chủ Meṇḍaka, sau khi biết Thế Tôn đã nhận lời, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi.
+24.6\. “Dasayime, brāhmaṇa, ānisaṁsā yāguyā. Katame dasa? Yāguṁ dento āyuṁ deti, vaṇṇaṁ deti, sukhaṁ deti, balaṁ deti, paṭibhānaṁ deti, yāgu pītā khuddaṁ paṭihanati, pipāsaṁ vineti, vātaṁ anulometi, vatthiṁ sodheti, āmāvasesaṁ pāceti—
 
-Rồi gia chủ Meṇḍaka, qua đêm đó, sau khi sai chuẩn bị các món ăn loại cứng và loại mềm thượng hạng, liền thông báo thời gian cho Thế Tôn: "Bạch Thế Tôn, đã đến giờ, bữa ăn đã chuẩn bị xong."
+ime kho, brāhmaṇa, dasānisaṁsā yāguyāti.
 
-Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến nhà của gia chủ Meṇḍaka; sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng. Rồi vợ, con trai, con dâu và người nô lệ của gia chủ Meṇḍaka đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn thuyết giảng tuần tự luận cho họ, đó là: luận về bố thí [...lặp lại...] [khi đã trở thành những người] không còn phụ thuộc vào người khác trong giáo pháp của bậc Đạo sư, họ nói với Thế Tôn điều này: "Thật tuyệt vời, bạch Thế Tôn [...lặp lại...] Bạch Thế Tôn, chúng con xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Xin Thế Tôn nhận chúng con làm cư sĩ, từ nay cho đến mạng chung, chúng con xin quy y." Rồi gia chủ Meṇḍaka tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, khi Thế Tôn đã ăn xong và rút tay khỏi bát, ông ngồi xuống một bên. Ngồi xuống một bên, gia chủ Meṇḍaka nói với Thế Tôn điều này: "Bạch Thế Tôn, chừng nào Thế Tôn còn trú ở Bhaddiya, con xin được cung cấp bữa ăn thường xuyên cho Tăng chúng với Đức Phật là vị đứng đầu." Rồi Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ gia chủ Meṇḍaka bằng bài *giảng về Chân lý*, rồi ngài đứng dậy khỏi chỗ ngồi và rời đi.
+> Yo saññatānaṁ paradattabhojinaṁ,\
+> Kālena sakkacca dadāti yāguṁ;\
+> Dasassa ṭhānāni anuppavecchati,\
+> Āyuñca vaṇṇañca sukhaṁ balañca.\
+> Paṭibhānamassa upajāyate tato,\
+> Khuddaṁ pipāsañca byapaneti vātaṁ;\
+> Sodheti vatthiṁ pariṇāmeti bhattaṁ,\
+> Bhesajjametaṁ sugatena vaṇṇitaṁ.\
+> Tasmā hi yāguṁ alameva dātuṁ,\
+> Niccaṁ manussena sukhatthikena;\
+> Dibbāni vā patthayatā sukhāni,\
+> Manussasobhagyatamicchatā vā”ti.
 
-## 22. Việc cho phép năm sản phẩm từ bò, v.v. {#22}
-*(Pañcagorasādianujānana)*
+24.7\. Atha kho bhagavā taṁ brāhmaṇaṁ imāhi gāthāhi anumoditvā uṭṭhāyāsanā pakkāmi. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-Rồi Thế Tôn, sau khi ở lại Bhaddiya bao lâu tùy thích, đã không từ biệt gia chủ Meṇḍaka mà khởi hành chuyến du hành về hướng Aṅguttarāpa, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Gia chủ Meṇḍaka nghe tin: "Thế Tôn đã khởi hành chuyến du hành về hướng Aṅguttarāpa, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo." Rồi gia chủ Meṇḍaka ra lệnh cho những người nô lệ và người làm công: "Này các anh bạn, nếu vậy, hãy chất nhiều muối, dầu, gạo và đồ ăn loại cứng lên xe bò rồi đi theo, hãy mang theo một ngàn hai trăm năm mươi người chăn bò và một ngàn hai trăm năm mươi con bò cái, chúng ta gặp Thế Tôn ở đâu, chúng ta sẽ dâng sữa tươi ở đó."
+“anujānāmi, bhikkhave, yāguñca madhugoḷakañcā”ti.
 
-Rồi gia chủ Meṇḍaka đuổi kịp Thế Tôn ở một khu vực hoang vắng giữa đường. Rồi gia chủ Meṇḍaka đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Đứng một bên, gia chủ Meṇḍaka nói với Thế Tôn điều này: "Bạch Thế Tôn, xin Thế Tôn cùng với Tăng chúng nhận lời mời dùng bữa của con vào ngày mai." Thế Tôn nhận lời bằng sự im lặng. Rồi gia chủ Meṇḍaka, sau khi biết Thế Tôn đã nhận lời, đảnh lễ Thế Tôn, đi nhiễu quanh ngài rồi rời đi.
+## 12. Taruṇapasannamahāmattavatthu {#12}
 
-Rồi gia chủ Meṇḍaka, qua đêm đó, sau khi sai chuẩn bị các món ăn loại cứng và loại mềm thượng hạng, liền thông báo thời gian cho Thế Tôn: "Bạch Thế Tôn, đã đến giờ, bữa ăn đã chuẩn bị xong."
+25.1\. Assosuṁ kho manussā bhagavatā kira yāgu anuññātā madhugoḷakañcāti. Te kālasseva, bhojjayāguṁ paṭiyādenti madhugoḷakañca. Bhikkhū kālasseva bhojjayāguyā dhātā madhugoḷakena ca bhattagge na cittarūpaṁ paribhuñjanti.
 
-Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến nơi dọn bữa ăn của gia chủ Meṇḍaka; sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng. Rồi gia chủ Meṇḍaka ra lệnh cho một ngàn hai trăm năm mươi người chăn bò: "Này các anh bạn, nếu vậy, mỗi người hãy dắt một con bò cái, đứng cạnh mỗi tỳ-kheo để dâng sữa tươi." Rồi gia chủ Meṇḍaka tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, cùng với sữa tươi. Các tỳ-kheo sinh lòng e ngại nên không nhận sữa. "Này các tỳ-kheo, hãy nhận lấy và uống đi." Rồi gia chủ Meṇḍaka, sau khi tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, cùng với sữa tươi, khi Thế Tôn đã ăn xong và rút tay khỏi bát, ông ngồi xuống một bên. Ngồi xuống một bên, gia chủ Meṇḍaka nói với Thế Tôn điều này: "Bạch Thế Tôn, có những con đường đi qua vùng hoang vắng, ít nước, ít thức ăn, thật không dễ dàng để đi qua nếu không có *lương thực đi đường* (pātheyya). Bạch Thế Tôn, xin Thế Tôn cho phép các tỳ-kheo mang theo *lương thực đi đường*." Rồi Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ gia chủ Meṇḍaka bằng bài *giảng về Chân lý*, rồi ngài đứng dậy khỏi chỗ ngồi và rời đi.
+Tena kho pana samayena aññatarena taruṇapasannena mahāmattena svātanāya buddhappamukho bhikkhusaṅgho nimantito hoti. Atha kho tassa taruṇapasannassa mahāmattassa etadahosi— “yannūnāhaṁ aḍḍhatelasannaṁ bhikkhusatānaṁ aḍḍhatelasāni maṁsapātisatāni paṭiyādeyyaṁ, ekamekassa bhikkhuno ekamekaṁ maṁsapātiṁ upanāmeyyan”ti.
 
-Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuyết giảng một bài *giảng về Chân lý*, ngài gọi các tỳ-kheo:
+25.2\. Atha kho so taruṇapasanno mahāmatto tassā rattiyā accayena paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā aḍḍhatelasāni ca maṁsapātisatāni, bhagavato kālaṁ ārocāpesi—“kālo, bhante, niṭṭhitaṁ bhattan”ti. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena tassa taruṇapasannassa mahāmattassa nivesanaṁ tenupasaṅkami, upasaṅkamitvā paññatte āsane nisīdi, saddhiṁ bhikkhusaṅghena. Atha kho so taruṇapasanno mahāmatto bhattagge bhikkhū parivisati. Bhikkhū evamāhaṁsu— “thokaṁ, āvuso, dehi; thokaṁ, āvuso, dehī”ti.
 
-"Này các tỳ-kheo, Ta cho phép *năm sản phẩm từ bò* (pañca gorase): sữa tươi, sữa chua, sữa bơ, bơ tươi, bơ trong.
+25.3\. “Mā kho tumhe, bhante—‘ayaṁ taruṇapasanno mahāmatto’ti—thokaṁ thokaṁ paṭiggaṇhatha. Bahuṁ me khādanīyaṁ bhojanīyaṁ paṭiyattaṁ, aḍḍhatelasāni ca maṁsapātisatāni. Ekamekassa bhikkhuno ekamekaṁ maṁsapātiṁ upanāmessāmīti. Paṭiggaṇhatha, bhante, yāvadatthan”ti.
 
-Này các tỳ-kheo, có những con đường đi qua vùng hoang vắng, ít nước, ít thức ăn, thật không dễ dàng để đi qua nếu không có *lương thực đi đường*. Này các tỳ-kheo, Ta cho phép tìm kiếm *lương thực đi đường*: người cần gạo tìm gạo, người cần đậu xanh tìm đậu xanh, người cần đậu đen tìm đậu đen, người cần muối tìm muối, người cần đường mía tìm đường mía, người cần dầu tìm dầu, người cần bơ trong tìm bơ trong.
+“Na kho mayaṁ, āvuso, etaṅkāraṇā thokaṁ thokaṁ paṭiggaṇhāma, api ca mayaṁ kālasseva bhojjayāguyā dhātā madhugoḷakena ca. Tena mayaṁ thokaṁ thokaṁ paṭiggaṇhāmā”ti.
 
-Này các tỳ-kheo, có những người có niềm tin và sự tịnh tín, họ trao tiền cho *người làm cho hợp pháp* (kappiyakāraka) [và nói]: 'Hãy dùng số tiền này để cung cấp những gì hợp pháp cho tôn giả.' Này các tỳ-kheo, Ta cho phép nhận những gì hợp pháp từ đó; nhưng này các tỳ-kheo, Ta hoàn toàn không nói rằng có thể nhận hoặc tìm kiếm *vàng bạc* (jātarūparajataṁ) bằng bất cứ hình thức nào."
+25.4\. Atha kho so taruṇapasanno mahāmatto ujjhāyati khiyyati vipāceti— “kathañhi nāma bhadantā mayā nimantitā aññassa bhojjayāguṁ paribhuñjissanti, na cāhaṁ paṭibalo yāvadatthaṁ dātun”ti kupito anattamano āsādanāpekkho bhikkhūnaṁ patte pūrento agamāsi—“bhuñjatha vā haratha vā”ti.
 
-## 23. Câu chuyện về đạo sĩ bện tóc Keṇiya {#23}
-*(Keṇiyajaṭilavatthu)*
+Atha kho so taruṇapasanno mahāmatto buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ taruṇapasannaṁ mahāmattaṁ bhagavā dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkāmi.
 
-35\. Rồi Thế Tôn đi du hành tuần tự và đến Āpaṇa. Đạo sĩ bện tóc Keṇiya nghe tin: "Sa-môn Gotama, con trai dòng Sakya, xuất gia từ gia tộc Sakya, đã đến Āpaṇa. Tiếng tốt của Thế Tôn Gotama đã lan truyền như thế này [...lặp lại...] Thật tốt đẹp thay khi được diện kiến một bậc A-la-hán như vậy." Rồi đạo sĩ bện tóc Keṇiya khởi lên suy nghĩ này: "Ta nên dâng thứ gì cho sa-môn Gotama?" Rồi đạo sĩ bện tóc Keṇiya khởi lên suy nghĩ này: "Những vị đạo sĩ thời xưa của những người bà-la-môn, những người đã sáng tác các bài chú, những người đã truyền tụng các bài chú, mà ngày nay những người bà-la-môn vẫn hát theo, tụng theo, nói theo những gì đã được nói, đọc theo những gì đã được đọc về các bài chú cổ xưa đã được hát, được truyền tụng, được biên soạn, đó là: Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa, Bhagu; họ là những người kiêng cữ vào ban đêm, từ bỏ việc ăn sái giờ, họ đã chấp nhận những loại *nước uống* (pānāni) như thế này. Sa-môn Gotama cũng là người kiêng cữ vào ban đêm, từ bỏ việc ăn sái giờ, sa-môn Gotama cũng xứng đáng chấp nhận những loại *nước uống* như thế này."
+25.5\. Atha kho tassa taruṇapasannassa mahāmattassa acirapakkantassa bhagavato ahudeva kukkuccaṁ, ahu vippaṭisāro— “alābhā vata me, na vata me lābhā; dulladdhaṁ vata me, na vata me suladdhaṁ; yohaṁ kupito anattamano āsādanāpekkho bhikkhūnaṁ patte pūrento agamāsiṁ—‘bhuñjatha vā haratha vā’ti. Kiṁ nu kho mayā bahuṁ pasutaṁ puññaṁ vā apuññaṁ vā”ti? Atha kho so taruṇapasanno mahāmatto yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so taruṇapasanno mahāmatto bhagavantaṁ etadavoca— “idha mayhaṁ, bhante, acirapakkantassa bhagavato ahudeva kukkuccaṁ, ahu vippaṭisāro ‘alābhā vata me, na vata me lābhā; dulladdhaṁ vata me, na vata me suladdhaṁ; yohaṁ kupito anattamano āsādanāpekkho bhikkhūnaṁ patte pūrento agamāsiṁ—bhuñjatha vā haratha vāti. Kiṁ nu kho mayā bahuṁ pasutaṁ, puññaṁ vā apuññaṁ vā’ti. Kiṁ nu kho mayā, bhante, bahuṁ pasutaṁ, puññaṁ vā apuññaṁ vā”ti?
 
-Ông sai chuẩn bị rất nhiều *nước uống*, cho người gánh đi bằng đòn gánh, rồi đi đến chỗ Thế Tôn; sau khi đến, ông chào hỏi Thế Tôn; sau khi trao đổi những lời chào hỏi thân thiện và lịch sự, ông đứng một bên. Đứng một bên, đạo sĩ bện tóc Keṇiya nói với Thế Tôn điều này: "Xin sa-môn Gotama nhận *nước uống* của tôi."
+25.6\. “Yadaggena tayā, āvuso, svātanāya buddhappamukho bhikkhusaṅgho nimantito tadaggena te bahuṁ puññaṁ pasutaṁ. Yadaggena te ekamekena bhikkhunā ekamekaṁ sitthaṁ paṭiggahitaṁ tadaggena te bahuṁ puññaṁ pasutaṁ, saggā te āraddhā”ti.
 
-"Này Keṇiya, nếu vậy, hãy dâng cho các tỳ-kheo."
+Atha kho so taruṇapasanno mahāmatto—“lābhā kira me, suladdhaṁ kira me, bahuṁ kira mayā puññaṁ pasutaṁ, saggā kira me āraddhā”ti— haṭṭho udaggo uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “saccaṁ kira, bhikkhave, bhikkhū aññatra nimantitā aññassa bhojjayāguṁ paribhuñjantī”ti?
 
-Rồi đạo sĩ bện tóc Keṇiya dâng cho các tỳ-kheo. Các tỳ-kheo sinh lòng e ngại nên không nhận. "Này các tỳ-kheo, hãy nhận lấy và uống đi." Rồi đạo sĩ bện tóc Keṇiya tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng rất nhiều *nước uống*, khi Thế Tôn đã rửa tay và rút tay khỏi bát, ông ngồi xuống một bên. Khi đạo sĩ bện tóc Keṇiya đang ngồi một bên, Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*. Rồi đạo sĩ bện tóc Keṇiya, sau khi được Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*, đã nói với Thế Tôn điều này: "Xin sa-môn Gotama cùng với Tăng chúng nhận lời mời dùng bữa của tôi vào ngày mai."
+25.7\. “Saccaṁ, bhagavā”ti.
 
-"Này Keṇiya, Tăng chúng rất đông, gồm một ngàn hai trăm năm mươi tỳ-kheo, còn ông lại có niềm tin sâu sắc vào những người bà-la-môn."
+Vigarahi buddho bhagavā …pe… kathañhi nāma te, bhikkhave, moghapurisā aññatra nimantitā aññassa bhojjayāguṁ paribhuñjissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-Lần thứ hai, đạo sĩ bện tóc Keṇiya nói với Thế Tôn điều này: "Thưa sa-môn Gotama, mặc dù Tăng chúng rất đông, gồm một ngàn hai trăm năm mươi tỳ-kheo, và tôi có niềm tin sâu sắc vào những người bà-la-môn, xin sa-môn Gotama cùng với Tăng chúng nhận lời mời dùng bữa của tôi vào ngày mai." "Này Keṇiya, Tăng chúng rất đông, gồm một ngàn hai trăm năm mươi tỳ-kheo, còn ông lại có niềm tin sâu sắc vào những người bà-la-môn." Lần thứ ba, đạo sĩ bện tóc Keṇiya nói với Thế Tôn điều này: "Thưa sa-môn Gotama, mặc dù Tăng chúng rất đông, gồm một ngàn hai trăm năm mươi tỳ-kheo, và tôi có niềm tin sâu sắc vào những người bà-la-môn, xin sa-môn Gotama cùng với Tăng chúng nhận lời mời dùng bữa của tôi vào ngày mai." Thế Tôn nhận lời bằng sự im lặng. Rồi đạo sĩ bện tóc Keṇiya, sau khi biết Thế Tôn đã nhận lời, đứng dậy khỏi chỗ ngồi rồi rời đi.
+“na, bhikkhave, aññatra nimantitena aññassa bhojjayāgu paribhuñjitabbā. Yo paribhuñjeyya, yathādhammo kāretabbo”ti.
 
-Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuyết giảng một bài *giảng về Chân lý*, ngài gọi các tỳ-kheo:
+## 13. Belaṭṭhakaccānavatthu {#13}
 
-"Này các tỳ-kheo, Ta cho phép tám loại *nước uống*: nước xoài, nước mận, nước chuối có hạt, nước chuối không hạt, nước trái madhūka, nước nho, nước củ súng, nước trái phārusaka.
+26.1\. Atha kho bhagavā andhakavinde yathābhirantaṁ viharitvā yena rājagahaṁ tena cārikaṁ pakkāmi, mahatā bhikkhusaṅghena saddhiṁ, aḍḍhatelasehi bhikkhusatehi. Tena kho pana samayena belaṭṭho kaccāno rājagahā andhakavindaṁ addhānamaggappaṭipanno hoti, pañcamattehi sakaṭasatehi, sabbeheva guḷakumbhapūrehi. Addasā kho bhagavā belaṭṭhaṁ kaccānaṁ dūratova āgacchantaṁ, disvāna maggā okkamma aññatarasmiṁ rukkhamūle nisīdi.
 
-Này các tỳ-kheo, Ta cho phép tất cả các loại nước ép trái cây ngoại trừ nước ép từ hạt ngũ cốc. Này các tỳ-kheo, Ta cho phép tất cả các loại nước ép từ lá ngoại trừ nước ép rau. Này các tỳ-kheo, Ta cho phép tất cả các loại nước ép từ hoa ngoại trừ nước ép hoa madhūka. Này các tỳ-kheo, Ta cho phép nước mía."
+26.2\. Atha kho belaṭṭho kaccāno yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho belaṭṭho kaccāno bhagavantaṁ etadavoca— “icchāmahaṁ, bhante, ekamekassa bhikkhuno ekamekaṁ guḷakumbhaṁ dātun”ti.
 
-Rồi đạo sĩ bện tóc Keṇiya, qua đêm đó, sau khi sai chuẩn bị các món ăn loại cứng và loại mềm thượng hạng tại am thất của mình, liền thông báo thời gian cho Thế Tôn: "Thưa sa-môn Gotama, đã đến giờ, bữa ăn đã chuẩn bị xong."
+“Tena hi tvaṁ, kaccāna, ekaṁyeva guḷakumbhaṁ āharā”ti.
 
-Rồi Thế Tôn, vào buổi sáng, mặc y, mang theo y bát, đi đến am thất của đạo sĩ bện tóc Keṇiya; sau khi đến, ngài ngồi xuống trên chỗ ngồi đã được dọn sẵn cùng với Tăng chúng. Rồi đạo sĩ bện tóc Keṇiya tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng các món ăn loại cứng và loại mềm thượng hạng, khi Thế Tôn đã ăn xong và rút tay khỏi bát, ông ngồi xuống một bên. Khi đạo sĩ bện tóc Keṇiya đang ngồi một bên, Thế Tôn tùy hỷ bằng những bài kệ này:
+“Evaṁ, bhante”ti kho belaṭṭho kaccāno bhagavato paṭissuṇitvā ekaṁyeva guḷakumbhaṁ ādāya yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ etadavoca— “ābhato, bhante, guḷakumbho; kathāhaṁ, bhante, paṭipajjāmī”ti?
 
-> Lửa là đầu tế tự,\
-> Sāvittī đầu thơ;\
-> Vua là đầu cõi người,\
-> Biển là đầu sông ngòi.\
-> Trăng là đầu tinh tú,\
-> Mặt trời đầu ánh sáng;\
-> Người mong cầu phước báu,\
-> Tăng chúng là ruộng ân.
+“Tena hi tvaṁ, kaccāna, bhikkhūnaṁ guḷaṁ dehī”ti.
 
-Rồi Thế Tôn, sau khi tùy hỷ đạo sĩ bện tóc Keṇiya bằng những bài kệ này, ngài đứng dậy khỏi chỗ ngồi và rời đi.
+26.3\. “Evaṁ, bhante”ti kho belaṭṭho kaccāno bhagavato paṭissuṇitvā bhikkhūnaṁ guḷaṁ datvā bhagavantaṁ etadavoca— “dinno, bhante, bhikkhūnaṁ guḷo, bahu cāyaṁ guḷo avasiṭṭho. Kathāhaṁ, bhante, paṭipajjāmī”ti?
 
-## 24. Câu chuyện về người Malla tên Rojo {#24}
-*(Rojamallavatthu)*
+“Tena hi tvaṁ, kaccāna, bhikkhūnaṁ guḷaṁ yāvadatthaṁ dehī”ti.
 
-36\. Rồi Thế Tôn, sau khi ở lại Āpaṇa bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Kusinārā, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Những người Malla ở Kusinārā nghe tin: "Thế Tôn đang đến Kusinārā cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo." Họ lập ra một quy định: "Ai không ra nghênh đón Thế Tôn, người đó sẽ bị phạt năm trăm đồng."
+“Evaṁ, bhante”ti kho belaṭṭho kaccāno bhagavato paṭissuṇitvā bhikkhūnaṁ guḷaṁ yāvadatthaṁ datvā bhagavantaṁ etadavoca— “dinno, bhante, bhikkhūnaṁ guḷo yāvadattho, bahu cāyaṁ guḷo avasiṭṭho. Kathāhaṁ, bhante, paṭipajjāmī”ti?
 
-Vào lúc bấy giờ, người Malla tên Rojo là bạn của tôn giả Ānanda. Rồi Thế Tôn đi du hành tuần tự và đến Kusinārā. Rồi những người Malla ở Kusinārā ra nghênh đón Thế Tôn. Rồi người Malla tên Rojo, sau khi ra nghênh đón Thế Tôn, đi đến chỗ tôn giả Ānanda, sau khi đến, đảnh lễ tôn giả Ānanda rồi đứng một bên. Khi người Malla tên Rojo đang đứng một bên, tôn giả Ānanda nói điều này: "Này hiền giả Rojo, thật là cao quý khi hiền giả ra nghênh đón Thế Tôn."
+“Tena hi tvaṁ, kaccāna, bhikkhū guḷehi santappehī”ti.
 
-"Thưa tôn giả Ānanda, tôi không phải vì tôn kính Phật, hay *Giáo pháp*, hay Tăng chúng; mà là vì những người họ hàng đã lập ra quy định: 'Ai không ra nghênh đón Thế Tôn, người đó sẽ bị phạt năm trăm đồng'; thưa tôn giả Ānanda, chính vì sợ bị họ hàng phạt nên tôi mới ra nghênh đón Thế Tôn."
+“Evaṁ, bhante”ti kho belaṭṭho kaccāno bhagavato paṭissuṇitvā bhikkhū guḷehi santappesi. Ekacce bhikkhū pattepi pūresuṁ parissāvanānipi thavikāyopi pūresuṁ. Atha kho belaṭṭho kaccāno bhikkhū guḷehi santappetvā bhagavantaṁ etadavoca— “santappitā, bhante, bhikkhū guḷehi, bahu cāyaṁ guḷo avasiṭṭho. Kathāhaṁ, bhante, paṭipajjāmī”ti?
 
-Rồi tôn giả Ānanda không hài lòng [và nghĩ]: "Làm sao người Malla tên Rojo lại có thể nói như vậy?" Rồi tôn giả Ānanda đi đến chỗ Thế Tôn, sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, tôn giả Ānanda nói với Thế Tôn điều này: "Bạch Thế Tôn, người Malla tên Rojo này là một người nổi tiếng và được nhiều người biết đến. Niềm tin của những người nổi tiếng như vậy đối với *Giáo pháp* và Luật này mang lại lợi ích rất lớn. Bạch Thế Tôn, xin Thế Tôn hãy làm cách nào đó để người Malla tên Rojo khởi lên niềm tin đối với *Giáo pháp* và Luật này."
+26.4\. “Tena hi tvaṁ, kaccāna, vighāsādānaṁ guḷaṁ dehī”ti.
 
-"Này Ānanda, đối với *Người Đến Như Vậy* (Như Lai / Tathāgata), việc làm cho người Malla tên Rojo khởi lên niềm tin đối với *Giáo pháp* và Luật này không phải là điều khó khăn."
+“Evaṁ, bhante”ti kho belaṭṭho kaccāno bhagavato paṭissuṇitvā vighāsādānaṁ guḷaṁ datvā bhagavantaṁ etadavoca— “dinno, bhante, vighāsādānaṁ guḷo, bahu cāyaṁ guḷo avasiṭṭho. Kathāhaṁ, bhante, paṭipajjāmī”ti?
 
-Rồi Thế Tôn tỏa tâm *yêu thương* (từ / mettena) đến người Malla tên Rojo, rồi ngài đứng dậy khỏi chỗ ngồi và đi vào tịnh xá. Rồi người Malla tên Rojo, được chạm đến bởi tâm *yêu thương* của Thế Tôn, giống như một con bê non tìm mẹ; cũng vậy, ông đi từ tịnh xá này sang tịnh xá khác, từ phòng này sang phòng khác, và hỏi các tỳ-kheo: "Thưa các ngài, hiện giờ Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác đang ở đâu, vì chúng tôi muốn diện kiến Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác."
+“Tena hi tvaṁ, kaccāna, vighāsādānaṁ guḷaṁ yāvadatthaṁ dehī”ti.
 
-"Này hiền giả Rojo, tịnh xá kia đang đóng cửa, hãy đi đến đó thật khẽ, bước vào hiên nhà một cách từ tốn, đằng hắng rồi gõ vào chốt cửa, Thế Tôn sẽ mở cửa cho hiền giả."
+26.5\. “Evaṁ, bhante”ti kho belaṭṭho kaccāno bhagavato paṭissuṇitvā vighāsādānaṁ guḷaṁ yāvadatthaṁ datvā bhagavantaṁ etadavoca— “dinno, bhante, vighāsādānaṁ guḷo yāvadattho, bahu cāyaṁ guḷo avasiṭṭho. Kathāhaṁ, bhante, paṭipajjāmī”ti?
 
-Rồi người Malla tên Rojo đi đến tịnh xá đang đóng cửa đó thật khẽ, bước vào hiên nhà một cách từ tốn, đằng hắng rồi gõ vào chốt cửa. Thế Tôn mở cửa. Rồi người Malla tên Rojo bước vào tịnh xá, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi người Malla tên Rojo đang ngồi một bên, Thế Tôn thuyết giảng tuần tự luận, đó là: luận về bố thí [...lặp lại...]
+“Tena hi tvaṁ, kaccāna, vighāsāde guḷehi santappehī”ti.
 
-[Khi đã trở thành người] không còn phụ thuộc vào người khác trong giáo pháp của bậc Đạo sư, ông nói với Thế Tôn điều này: "Bạch Thế Tôn, thật tốt đẹp nếu các tôn giả chỉ nhận y phục, đồ ăn khất thực, chỗ ở và thuốc men trị bệnh từ con, mà không nhận từ người khác."
+“Evaṁ, bhante”ti kho belaṭṭho kaccāno bhagavato paṭissuṇitvā vighāsāde guḷehi santappesi. Ekacce vighāsādā kolambepi ghaṭepi pūresuṁ, piṭakānipi ucchaṅgepi pūresuṁ. Atha kho belaṭṭho kaccāno vighāsāde guḷehi santappetvā bhagavantaṁ etadavoca— “santappitā, bhante, vighāsādā guḷehi, bahu cāyaṁ guḷo avasiṭṭho. Kathāhaṁ, bhante, paṭipajjāmī”ti?
 
-"Này Rojo, đối với những người đã thấy *Giáo pháp* bằng trí tuệ của bậc hữu học, bằng cái nhìn của bậc hữu học giống như ông, họ cũng có suy nghĩ: 'Ôi, giá như các tôn giả chỉ nhận y phục, đồ ăn khất thực, chỗ ở và thuốc men trị bệnh từ chúng ta, mà không nhận từ người khác.' Do đó, này Rojo, họ sẽ nhận từ ông và cũng nhận từ người khác."
+26.6\. “Nāhaṁ taṁ, kaccāna, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yassa so guḷo paribhutto sammā pariṇāmaṁ gaccheyya, aññatra tathāgatassa vā tathāgatasāvakassa vā. Tena hi tvaṁ, kaccāna, taṁ guḷaṁ appaharite vā chaḍḍehi, appāṇake vā udake opilāpehī”ti.
 
-Vào lúc bấy giờ, ở Kusinārā, danh sách luân phiên cúng dường những bữa ăn thượng hạng đã kín chỗ. Rồi người Malla tên Rojo, vì chưa đến lượt mình, liền khởi lên suy nghĩ này: "Hay là ta hãy nhìn vào nhà ăn, món gì không có trong nhà ăn, ta sẽ chuẩn bị món đó." Rồi người Malla tên Rojo nhìn vào nhà ăn và thấy thiếu hai món: rau và đồ ăn làm từ bột. Rồi người Malla tên Rojo đi đến chỗ tôn giả Ānanda; sau khi đến, nói với tôn giả Ānanda điều này: "Thưa tôn giả Ānanda, vì chưa đến lượt mình, tôi khởi lên suy nghĩ này: 'Hay là ta hãy nhìn vào nhà ăn, món gì không có trong nhà ăn, ta sẽ chuẩn bị món đó.' Thưa tôn giả Ānanda, tôi nhìn vào nhà ăn và thấy thiếu hai món: rau và đồ ăn làm từ bột. Thưa tôn giả Ānanda, nếu tôi chuẩn bị rau và đồ ăn làm từ bột, liệu Thế Tôn có nhận cho tôi không?"
+“Evaṁ, bhante”ti kho belaṭṭho kaccāno bhagavato paṭissuṇitvā taṁ guḷaṁ appāṇake udake opilāpeti. Atha kho so guḷo udake pakkhitto cicciṭāyati ciṭiciṭāyati padhūpāyati sampadhūpāyati. Seyyathāpi nāma phālo divasaṁsantatto udake pakkhitto cicciṭāyati ciṭiciṭāyati padhūpāyati sampadhūpāyati; evameva so guḷo udake pakkhitto cicciṭāyati ciṭiciṭāyati padhūpāyati sampadhūpāyati.
 
-"Này Rojo, nếu vậy, tôi sẽ hỏi lại Thế Tôn." Rồi tôn giả Ānanda đem sự việc này báo cho Thế Tôn. "Này Ānanda, nếu vậy, hãy bảo ông ấy chuẩn bị đi." "Này Rojo, nếu vậy, hãy chuẩn bị đi."
+26.7\. Atha kho belaṭṭho kaccāno saṁviggo lomahaṭṭhajāto yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnassa kho belaṭṭhassa kaccānassa bhagavā anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ sīlakathaṁ saggakathaṁ, kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ, nekkhamme ānisaṁsaṁ pakāsesi. Yadā bhagavā aññāsi belaṭṭhaṁ kaccānaṁ kallacittaṁ, muducittaṁ, vinīvaraṇacittaṁ, udaggacittaṁ, pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā, taṁ pakāsesi …pe… evameva belaṭṭhassa kaccānassa tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi— “yaṁ kiñci samudayadhammaṁ, sabbaṁ taṁ nirodhadhamman”ti.
 
-Rồi người Malla tên Rojo, qua đêm đó, sau khi sai chuẩn bị nhiều rau và đồ ăn làm từ bột, liền dâng lên Thế Tôn: "Bạch Thế Tôn, xin Thế Tôn nhận rau và đồ ăn làm từ bột của con."
+26.9\. Atha kho belaṭṭho kaccāno diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṁ etadavoca— “abhikkantaṁ, bhante, abhikkantaṁ, bhante. Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya …pe… evamevaṁ kho bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi, dhammañca, bhikkhusaṅghañca. Upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇagatan”ti.
 
-"Này Rojo, nếu vậy, hãy dâng cho các tỳ-kheo." Rồi người Malla tên Rojo dâng cho các tỳ-kheo. Các tỳ-kheo sinh lòng e ngại nên không nhận. "Này các tỳ-kheo, hãy nhận lấy và ăn đi." Rồi người Malla tên Rojo tự tay phục vụ và làm thỏa mãn Tăng chúng với Đức Phật là vị đứng đầu bằng rất nhiều rau và đồ ăn làm từ bột, khi Thế Tôn đã rửa tay và rút tay khỏi bát, ông ngồi xuống một bên. Khi người Malla tên Rojo đang ngồi một bên, Thế Tôn hướng dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng bài *giảng về Chân lý*, rồi ngài đứng dậy khỏi chỗ ngồi và rời đi. Rồi Thế Tôn, nhân nguyên nhân này, nhân sự kiện này, sau khi thuyết giảng một bài *giảng về Chân lý*, ngài gọi các tỳ-kheo:
+27.1\. Atha kho bhagavā anupubbena cārikaṁ caramāno yena rājagahaṁ tadavasari. Tatra sudaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena rājagahe guḷo ussanno hoti. Bhikkhū— “gilānasseva bhagavatā guḷo anuññāto, no agilānassā”ti— kukkuccāyantā guḷaṁ na bhuñjanti. Bhagavato etamatthaṁ ārocesuṁ.
 
-"Này các tỳ-kheo, Ta cho phép tất cả các loại rau và tất cả các loại đồ ăn làm từ bột."
+“Anujānāmi, bhikkhave, gilānassa guḷaṁ, agilānassa guḷodakan”ti.
 
-## 25. Câu chuyện về vị xuất gia khi đã già {#25}
-*(Vuḍḍhapabbajitavatthu)*
+## 14. Pāṭaligāmavatthu {#14}
 
-37\. Rồi Thế Tôn, sau khi ở lại Kusinārā bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Ātumā, cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Vào lúc bấy giờ, có một vị xuất gia khi đã già đang sống ở Ātumā, trước đây từng làm thợ cạo. Vị ấy có hai người con trai, khôi ngô, lanh lợi, khéo léo và thành thạo nghề thợ cạo do chính cha mình truyền dạy.
+28.1\. Atha kho bhagavā rājagahe yathābhirantaṁ viharitvā yena pāṭaligāmo tena cārikaṁ pakkāmi, mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehi. Atha kho bhagavā anupubbena cārikaṁ caramāno yena pāṭaligāmo tadavasari.
 
-Vị xuất gia khi đã già ấy nghe tin: "Thế Tôn đang đến Ātumā cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo." Rồi vị xuất gia khi đã già ấy nói với hai người con trai điều này: "Này các con, Thế Tôn đang đến Ātumā cùng với một hội chúng tỳ-kheo lớn, gồm một ngàn hai trăm năm mươi tỳ-kheo. Này các con, các con hãy mang theo đồ nghề thợ cạo và một cái ống đong, đi dạo từ nhà này sang nhà khác, thu thập muối, dầu, gạo và đồ ăn loại cứng, khi Thế Tôn đến, chúng ta sẽ nấu cháo dâng ngài."
+Assosuṁ kho pāṭaligāmikā upāsakā— “bhagavā kira pāṭaligāmaṁ anuppatto”ti. Atha kho pāṭaligāmikā upāsakā yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho pāṭaligāmike upāsake bhagavā dhammiyā kathāya sandassesi, samādapesi, samuttejesi, sampahaṁsesi. Atha kho pāṭaligāmikā upāsakā bhagavatā dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā bhagavantaṁ etadavocuṁ— “adhivāsetu no, bhante, bhagavā āvasathāgāraṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho pāṭaligāmikā upāsakā bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā yena āvasathāgāraṁ tenupasaṅkamiṁsu, upasaṅkamitvā sabbasanthariṁ āvasathāgāraṁ santharitvā, āsanāni paññapetvā, udakamaṇikaṁ patiṭṭhāpetvā, telapadīpaṁ āropetvā yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho pāṭaligāmikā upāsakā bhagavantaṁ etadavocuṁ— “sabbasantharisanthataṁ, bhante, āvasathāgāraṁ. Āsanāni paññattāni. Udakamaṇiko patiṭṭhāpito. Telapadīpo āropito. Yassadāni, bhante, bhagavā kālaṁ maññatī”ti.
 
-"Vâng, thưa cha," hai người con trai vâng lời vị xuất gia khi đã già ấy, mang theo đồ nghề thợ cạo và một cái ống đong, đi dạo từ nhà này sang nhà khác, thu thập muối, dầu, gạo và đồ ăn loại cứng. Người dân nhìn thấy hai người con trai khôi ngô, lanh lợi, nên dù không muốn cắt tóc cũng để cho cắt, và sau khi cắt xong lại cho rất nhiều đồ. Rồi hai người con trai ấy thu thập được rất nhiều muối, dầu, gạo và đồ ăn loại cứng.
+28.3\. Atha kho bhagavā nivāsetvā pattacīvaramādāya saddhiṁ bhikkhusaṅghena yena āvasathāgāraṁ tenupasaṅkami; upasaṅkamitvā pāde pakkhāletvā āvasathāgāraṁ pavisitvā majjhimaṁ thambhaṁ nissāya puratthābhimukho nisīdi. Bhikkhusaṅghopi kho pāde pakkhāletvā āvasathāgāraṁ pavisitvā pacchimaṁ bhittiṁ nissāya puratthābhimukho nisīdi, bhagavantaṁyeva purakkhatvā. Pāṭaligāmikāpi kho upāsakā pāde pakkhāletvā āvasathāgāraṁ pavisitvā puratthimaṁ bhittiṁ nissāya pacchimābhimukhā nisīdiṁsu, bhagavantaṁyeva purakkhatvā. Atha kho bhagavā pāṭaligāmike upāsake āmantesi—
 
-Rồi Thế Tôn đi du hành tuần tự và đến Ātumā. Tại đó, Thế Tôn trú ở Ātumā, tại nhà chứa trấu. Rồi vị xuất gia khi đã già ấy, qua đêm đó, sau khi sai chuẩn bị rất nhiều cháo, liền dâng lên Thế Tôn: "Bạch Thế Tôn, xin Thế Tôn nhận cháo của con."
+28.4\. “Pañcime, gahapatayo, ādīnavā dussīlassa sīlavipattiyā. Katame pañca? Idha, gahapatayo, dussīlo sīlavipanno pamādādhikaraṇaṁ mahatiṁ bhogajāniṁ nigacchati. Ayaṁ paṭhamo ādīnavo dussīlassa sīlavipattiyā. Puna caparaṁ, gahapatayo, dussīlassa sīlavipannassa pāpako kittisaddo abbhuggacchati. Ayaṁ dutiyo ādīnavo dussīlassa sīlavipattiyā. Puna caparaṁ, gahapatayo, dussīlo sīlavipanno yaññadeva parisaṁ upasaṅkamati, yadi khattiyaparisaṁ, yadi brāhmaṇaparisaṁ, yadi gahapatiparisaṁ, yadi samaṇaparisaṁ, avisārado upasaṅkamati maṅkubhūto. Ayaṁ tatiyo ādīnavo dussīlassa sīlavipattiyā. Puna caparaṁ, gahapatayo, dussīlo sīlavipanno sammūḷho kālaṁ karoti. Ayaṁ catuttho ādīnavo dussīlassa sīlavipattiyā. Puna caparaṁ, gahapatayo, dussīlo sīlavipanno kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. Ayaṁ pañcamo ādīnavo dussīlassa sīlavipattiyā. Ime kho, gahapatayo, pañca ādīnavā dussīlassa sīlavipattiyā.
 
-Dù đã biết, *Người Đến Như Vậy* vẫn hỏi [...lặp lại...] hoặc để quy định điều học cho các đệ tử.
+28.5\. Pañcime, gahapatayo, ānisaṁsā sīlavato sīlasampadāya. Katame pañca? Idha, gahapatayo, sīlavā sīlasampanno appamādādhikaraṇaṁ mahantaṁ bhogakkhandhaṁ adhigacchati. Ayaṁ paṭhamo ānisaṁso sīlavato sīlasampadāya. Puna caparaṁ, gahapatayo, sīlavato sīlasampannassa kalyāṇo kittisaddo abbhuggacchati. Ayaṁ dutiyo ānisaṁso sīlavato sīlasampadāya. Puna caparaṁ, gahapatayo, sīlavā sīlasampanno yaññadeva parisaṁ upasaṅkamati, yadi khattiyaparisaṁ, yadi brāhmaṇaparisaṁ, yadi gahapatiparisaṁ, yadi samaṇaparisaṁ, visārado upasaṅkamati amaṅkubhūto. Ayaṁ tatiyo ānisaṁso sīlavato sīlasampadāya. Puna caparaṁ, gahapatayo, sīlavā sīlasampanno asammūḷho kālaṁ karoti. Ayaṁ catuttho ānisaṁso sīlavato sīlasampadāya. Puna caparaṁ, gahapatayo, sīlavā sīlasampanno kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. Ayaṁ pañcamo ānisaṁso sīlavato sīlasampadāya. Ime kho, gahapatayo, pañca ānisaṁsā sīlavato sīlasampadāyā”ti.
 
-Rồi Thế Tôn nói với vị xuất gia khi đã già ấy điều này: "Này tỳ-kheo, cháo này từ đâu mà có?" Rồi vị xuất gia khi đã già ấy đem sự việc này báo cho Thế Tôn. Đức Phật Thế Tôn quở trách: "Này kẻ ngu ngốc, việc làm của ông là không thích hợp, không thuận chiều, không tương xứng, không phải hạnh sa-môn, không hợp pháp, không nên làm. Này kẻ ngu ngốc, làm sao ông là người xuất gia mà lại khuyến khích làm những việc không hợp pháp. Này kẻ ngu ngốc, điều này không mang lại niềm tin cho những người chưa có niềm tin [...lặp lại...] sau khi quở trách, ngài thuyết giảng một bài *giảng về Chân lý* rồi gọi các tỳ-kheo:
+28.6\. Atha kho bhagavā pāṭaligāmike upāsake bahudeva rattiṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uyyojesi— “abhikkantā kho, gahapatayo, ratti. Yassadāni tumhe kālaṁ maññathā”ti.
 
-"Này các tỳ-kheo, người xuất gia không được khuyến khích làm những việc không hợp pháp, vị nào khuyến khích, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*. Và này các tỳ-kheo, người trước đây từng làm thợ cạo không được giữ đồ nghề thợ cạo. Vị nào giữ, vị ấy phạm *lỗi Làm sai (đột-kiết-la)*."
+“Evaṁ, bhante”ti, kho pāṭaligāmikā upāsakā bhagavato paṭissuṇitvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkamiṁsu. Atha kho bhagavā acirapakkantesu pāṭaligāmikesu upāsakesu suññāgāraṁ pāvisi.
 
-38\. Rồi Thế Tôn, sau khi ở lại Ātumā bao lâu tùy thích, đã khởi hành chuyến du hành về hướng Sāvatthī. Đi du hành tuần tự, ngài đến Sāvatthī. Tại đó, Thế Tôn trú ở Sāvatthī, tại tu viện Jetavana, khu vườn của Anāthapiṇḍika. Vào lúc bấy giờ, ở Sāvatthī có rất nhiều trái cây ăn được sinh ra. Rồi các tỳ-kheo khởi lên suy nghĩ này: "Thế Tôn đã cho phép những loại trái cây ăn được nào, và không cho phép những loại nào?" Họ đem sự việc này báo cho Thế Tôn.
+## 15. Sunidhavassakāravatthu {#15}
 
-"Này các tỳ-kheo, Ta cho phép tất cả các loại trái cây ăn được."
+28.7\. Tena kho pana samayena sunidhavassakārā magadhamahāmattā pāṭaligāme nagaraṁ māpenti vajjīnaṁ paṭibāhāya. Addasā kho bhagavā rattiyā paccūsasamayaṁ paccuṭṭhāya dibbena cakkhunā visuddhena atikkantamānusakena sambahulā devatāyo pāṭaligāme vatthūni pariggaṇhantiyo. Yasmiṁ padese mahesakkhā devatā vatthūni pariggaṇhanti, mahesakkhānaṁ tattha rājūnaṁ rājamahāmattānaṁ cittāni namanti nivesanāni māpetuṁ. Yasmiṁ padese majjhimā devatā vatthūni pariggaṇhanti, majjhimānaṁ tattha rājūnaṁ rājamahāmattānaṁ cittāni namanti nivesanāni māpetuṁ. Yasmiṁ padese nīcā devatā vatthūni pariggaṇhanti, nīcānaṁ tattha rājūnaṁ rājamahāmattānaṁ cittāni namanti nivesanāni māpetuṁ.
 
-39\. Vào lúc bấy giờ, hạt giống của Tăng chúng được gieo trồng trên đất của cá nhân, hạt giống của cá nhân được gieo trồng trên đất của Tăng chúng. Họ đem sự việc này báo cho Thế Tôn.
+Atha kho bhagavā āyasmantaṁ ānandaṁ āmantesi— “ke nu kho te, ānanda, pāṭaligāme nagaraṁ māpentī”ti?
 
-"Này các tỳ-kheo, hạt giống của Tăng chúng được gieo trồng trên đất của cá nhân thì phải chia một phần rồi mới được sử dụng. Hạt giống của cá nhân được gieo trồng trên đất của Tăng chúng thì phải chia một phần rồi mới được sử dụng."
+28.8\. “Sunidhavassakārā, bhante, magadhamahāmattā pāṭaligāme nagaraṁ māpenti vajjīnaṁ paṭibāhāyā”ti.
 
-## 26. Bài giảng về Bốn Đại Tiêu Chuẩn {#26}
-*(Catumahāpadesakathā)*
+“Seyyathāpi, ānanda, devehi tāvatiṁsehi saddhiṁ mantetvā; evameva kho, ānanda, sunidhavassakārā magadhamahāmattā pāṭaligāme nagaraṁ māpenti vajjīnaṁ paṭibāhāya. Idhāhaṁ, ānanda, rattiyā paccūsasamayaṁ paccuṭṭhāya addasaṁ dibbena cakkhunā visuddhena atikkantamānusakena sambahulā devatāyo pāṭaligāme vatthūni pariggaṇhantiyo. Yasmiṁ padese mahesakkhā devatā vatthūni pariggaṇhanti, mahesakkhānaṁ tattha rājūnaṁ rājamahāmattānaṁ cittāni namanti nivesanāni māpetuṁ. Yasmiṁ padese majjhimā devatā vatthūni pariggaṇhanti, majjhimānaṁ tattha rājūnaṁ rājamahāmattānaṁ cittāni namanti nivesanāni māpetuṁ. Yasmiṁ padese nīcā devatā vatthūni pariggaṇhanti, nīcānaṁ tattha rājūnaṁ rājamahāmattānaṁ cittāni namanti nivesanāni māpetuṁ. Yāvatā, ānanda, ariyaṁ āyatanaṁ, yāvatā vaṇippatho, idaṁ agganagaraṁ bhavissati pāṭaliputtaṁ puṭabhedanaṁ. Pāṭaliputtassa kho, ānanda, tayo antarāyā bhavissanti— aggito vā udakato vā abbhantarato vā mithubhedā”ti.
 
-40\. Vào lúc bấy giờ, các tỳ-kheo sinh lòng e ngại về một số trường hợp: "Thế Tôn đã cho phép điều gì, và không cho phép điều gì?" Họ đem sự việc này báo cho Thế Tôn.
+28.9\. Atha kho sunidhavassakārā magadhamahāmattā yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhaṁsu. Ekamantaṁ ṭhitā kho sunidhavassakārā magadhamahāmattā bhagavantaṁ etadavocuṁ— “adhivāsetu no bhavaṁ gotamo ajjatanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho sunidhavassakārā magadhamahāmattā bhagavato adhivāsanaṁ viditvā pakkamiṁsu.
 
-"Này các tỳ-kheo, điều gì Ta không cấm đoán rằng: 'Điều này không hợp pháp', nhưng nếu điều đó thuận theo những gì không hợp pháp, đi ngược lại những gì hợp pháp, thì điều đó không hợp pháp đối với các ông. Này các tỳ-kheo, điều gì Ta không cấm đoán rằng: 'Điều này không hợp pháp', nhưng nếu điều đó thuận theo những gì hợp pháp, đi ngược lại những gì không hợp pháp, thì điều đó hợp pháp đối với các ông. Này các tỳ-kheo, điều gì Ta không cho phép rằng: 'Điều này hợp pháp', nhưng nếu điều đó thuận theo những gì không hợp pháp, đi ngược lại những gì hợp pháp, thì điều đó không hợp pháp đối với các ông. Này các tỳ-kheo, điều gì Ta không cho phép rằng: 'Điều này hợp pháp', nhưng nếu điều đó thuận theo những gì hợp pháp, đi ngược lại những gì không hợp pháp, thì điều đó hợp pháp đối với các ông."
+28.10\. Atha kho sunidhavassakārā magadhamahāmattā paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesuṁ—“kālo, bho gotama, niṭṭhitaṁ bhattan”ti. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena sunidhavassakārānaṁ magadhamahāmattānaṁ parivesanā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. Atha kho sunidhavassakārā magadhamahāmattā buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho sunidhavassakāre magadhamahāmatte bhagavā imāhi gāthāhi anumodi—
 
-Rồi các tỳ-kheo khởi lên suy nghĩ này: "Liệu có hợp pháp không khi trộn *đồ ăn trong thời gian quy định* (yāvakālika) với *đồ uống trong một canh* (yāmakālika), hay là không hợp pháp? Liệu có hợp pháp không khi trộn *đồ ăn trong thời gian quy định* với *thuốc dùng trong bảy ngày* (sattāhakālika), hay là không hợp pháp? Liệu có hợp pháp không khi trộn *đồ ăn trong thời gian quy định* với *thuốc dùng trọn đời* (yāvajīvika), hay là không hợp pháp? Liệu có hợp pháp không khi trộn *đồ uống trong một canh* với *thuốc dùng trong bảy ngày*, hay là không hợp pháp? Liệu có hợp pháp không khi trộn *đồ uống trong một canh* với *thuốc dùng trọn đời*, hay là không hợp pháp? Liệu có hợp pháp không khi trộn *thuốc dùng trong bảy ngày* với *thuốc dùng trọn đời*, hay là không hợp pháp?" Họ đem sự việc này báo cho Thế Tôn.
+> “Yasmiṁ padese kappeti,\
+> vāsaṁ paṇḍitajātiyo;\
+> Sīlavantettha bhojetvā,\
+> saññate brahmacārayo.\
+> Yā tattha devatā āsuṁ,\
+> tāsaṁ dakkhiṇamādise;\
+> Tā pūjitā pūjayanti,\
+> mānitā mānayanti naṁ.\
+> Tato naṁ anukampanti,\
+> mātā puttaṁva orasaṁ;\
+> Devatānukampito poso,\
+> sadā bhadrāni passatī”ti.
 
-"Này các tỳ-kheo, khi trộn *đồ ăn trong thời gian quy định* với *đồ uống trong một canh*, nếu nhận trong ngày hôm đó thì hợp pháp để dùng đúng thời, không hợp pháp để dùng sái thời. Này các tỳ-kheo, khi trộn *đồ ăn trong thời gian quy định* với *thuốc dùng trong bảy ngày*, nếu nhận trong ngày hôm đó thì hợp pháp để dùng đúng thời, không hợp pháp để dùng sái thời. Này các tỳ-kheo, khi trộn *đồ ăn trong thời gian quy định* với *thuốc dùng trọn đời*, nếu nhận trong ngày hôm đó thì hợp pháp để dùng đúng thời, không hợp pháp để dùng sái thời. Này các tỳ-kheo, khi trộn *đồ uống trong một canh* với *thuốc dùng trong bảy ngày*, nếu nhận trong ngày hôm đó thì hợp pháp để dùng trong một canh, qua một canh thì không hợp pháp. Này các tỳ-kheo, khi trộn *đồ uống trong một canh* với *thuốc dùng trọn đời*, nếu nhận trong ngày hôm đó thì hợp pháp để dùng trong một canh, qua một canh thì không hợp pháp. Này các tỳ-kheo, khi trộn *thuốc dùng trong bảy ngày* với *thuốc dùng trọn đời*, nếu nhận thì hợp pháp để dùng trong bảy ngày, qua bảy ngày thì không hợp pháp."
+28.11\. Atha kho bhagavā sunidhavassakāre magadhamahāmatte imāhi gāthāhi anumoditvā uṭṭhāyāsanā pakkāmi.
 
-Kết thúc Chương về Thuốc men thứ sáu.
+28.12\. Tena kho pana samayena sunidhavassakārā magadhamahāmattā bhagavantaṁ piṭṭhito piṭṭhito anubandhā honti— “yenajja samaṇo gotamo dvārena nikkhamissati, taṁ gotamadvāraṁ nāma bhavissati; yena titthena gaṅgaṁ nadiṁ uttarissati, taṁ gotamatitthaṁ nāma bhavissatī”ti.
 
-Tóm tắt chương này:
+Atha kho bhagavā yena dvārena nikkhami, taṁ gotamadvāraṁ nāma ahosi. Atha kho bhagavā yena gaṅgā nadī tenupasaṅkami. Tena kho pana samayena gaṅgā nadī pūrā hoti samatittikā kākapeyyā. Manussā aññe nāvaṁ pariyesanti, aññe uḷumpaṁ pariyesanti, aññe kullaṁ bandhanti orā pāraṁ gantukāmā.
 
-> Mùa thu và sái thời,\
-> Mỡ rễ cây và bột;\
-> Nước sắc lá và quả,\
-> Nhựa muối và phân bò.
->
-> Bột rây và thịt sống,\
-> Thuốc nhỏ mắt đồ nghiền;\
-> Ống đựng thuốc có nắp,\
-> Que bôi và hộp đựng.
->
-> Túi đựng buộc bằng dây,\
-> Dầu bôi đầu thuốc mũi;\
-> Ống hít khói xông hương,\
-> Túi đựng đồ che mắt.
->
-> Rượu trong dầu sắc thuốc,\
-> Xoa bóp khi quá liều;\
-> Bình giác hơi xông hơi,\
-> Nước ngâm lá gai dầu.
->
-> Bồn tắm nước và máu,\
-> Sừng thú xoa bóp chân;\
-> Dao cắt và nước sắc,\
-> Bột mè và miếng gạc.
->
-> Vải vụn bột mù tạt,\
-> Xông khói và muối hột;\
-> Dầu trị thương băng gạc,\
-> Nước tiểu và bô chứa.
->
-> Phân bò làm đồ xoa,\
-> Nước tro và kha tử;\
-> Hương liệu và thuốc xổ,\
-> Nước trong và nước đục.
->
-> Nước súp thịt hang động,\
-> Tu viện trong bảy ngày;\
-> Đường mía đậu nước chua,\
-> Tự nấu và nấu lại.
->
-> Cho phép lúc đói kém,\
-> Trái cây đồ ăn mè;\
-> Nhận trước bệnh sốt nóng,\
-> Bệnh rò ở hậu môn.
->
-> Thụt tháo và Suppi,\
-> Thịt người không được ăn;\
-> Voi ngựa và thịt chó,\
-> Rắn sư tử và báo.
->
-> Thịt gấu và linh cẩu,\
-> Theo lượt và cháo ăn;\
-> Sữa tươi và đường mía,\
-> Nhà nghỉ của Suni.
->
-> Sông Hằng làng Koṭi,\
-> Ambapālī Licchavi;\
-> Đồ ăn làm riêng biệt,\
-> Cấm lại lúc được mùa.
->
-> Mưa lớn và Yaso,\
-> Meṇḍaka dâng cúng;\
-> Sản phẩm bò lương thực,\
-> Keṇi xoài mận chuối.
->
-> Chuối mật nho củ súng,\
-> Phāru rau đồ bột;\
-> Thợ cạo ở Ātu,\
-> Trái cây hạt Sāvatthi,\
-> Trường hợp nào thời nào.
+28.13\. Addasā kho bhagavā te manusse aññe nāvaṁ pariyesante, aññe uḷumpaṁ pariyesante, aññe kullaṁ bandhante orā pāraṁ gantukāme, disvāna seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva kho—gaṅgāya nadiyā orimatīre antarahito pārimatīre paccuṭṭhāsi saddhiṁ bhikkhusaṅghena.
 
-Trong chương này có một trăm lẻ sáu câu chuyện.
+Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi—
 
-Kết thúc Chương về Thuốc men.
+> “Ye taranti aṇṇavaṁ saraṁ,\
+> Setuṁ katvāna visajja pallalāni;\
+> Kullañhi jano bandhati,\
+> Tiṇṇā medhāvino janā”ti.
 
----
+## 16. Koṭigāmesaccakathā {#16}
 
-### Liệt kê thuật ngữ
+29.1\. Atha kho bhagavā yena koṭigāmo tenupasaṅkami. Tatra sudaṁ bhagavā koṭigāme viharati. Tatra kho bhagavā bhikkhū āmantesi—
 
-| Thuật ngữ (Pali) | Dịch nghĩa | Ghi chú |
-| --- | --- | --- |
+“catunnaṁ, bhikkhave, ariyasaccānaṁ ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. Katamesaṁ catunnaṁ? Dukkhassa, bhikkhave, ariyasaccassa ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. Dukkhasamudayassa ariyasaccassa …pe… dukkhanirodhassa ariyasaccassa …pe… dukkhanirodhagāminiyā paṭipadāya ariyasaccassa ananubodhā appaṭivedhā evamidaṁ dīghamaddhānaṁ sandhāvitaṁ saṁsaritaṁ mamañceva tumhākañca. Tayidaṁ, bhikkhave, dukkhaṁ ariyasaccaṁ anubuddhaṁ paṭividdhaṁ, dukkhasamudayaṁ ariyasaccaṁ anubuddhaṁ paṭividdhaṁ, dukkhanirodhaṁ ariyasaccaṁ anubuddhaṁ paṭividdhaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ anubuddhaṁ paṭividdhaṁ, ucchinnā bhavataṇhā, khīṇā bhavanetti, natthi dāni punabbhavoti.
 
-| kiriyavādo `[!]` | thuyết tác nghiệp | Quan điểm cho rằng hành động có tạo ra kết quả (nghiệp). |
-| akiriyavādo `[!]` | thuyết vô tác nghiệp | Quan điểm cho rằng hành động không tạo ra kết quả, phủ nhận nhân quả. |
-| ucchedavādo `[!]` | thuyết đoạn diệt | Quan điểm cho rằng chết là hết, không có sự tiếp nối hay tái sinh. |
-| jegucchī `[!]` | người ghê tởm | Từ gốc *jigucchati* (ghê tởm, xa lánh). Ở đây chỉ sự ghê tởm đối với các hành vi sai trái và ác pháp. |
-| venayiko `[!]` | người loại trừ | Từ gốc *vineti* (loại bỏ, nhiếp phục). Chỉ người loại bỏ các ác pháp và phiền não. |
-| tapassī `[!]` | người khổ hạnh | Từ gốc *tapas* (sức nóng, sự thiêu đốt). Ở đây Đức Phật định nghĩa lại là người nỗ lực thiêu đốt các ác pháp. |
-| apagabbho `[!]` | người không còn vào bào thai | Từ gốc *apa* (không) + *gabbha* (bào thai). Chỉ bậc A-la-hán đã chấm dứt sinh tử luân hồi. |
-| assattho `[!]` | người mang lại sự an ủi | Từ gốc *assāsa* (sự an ủi, sự thở phào nhẹ nhõm). Chỉ người mang lại sự an tịnh tối thượng (Niết-bàn). |
-| dukkaṭa `[!]` | đột-kiết-la | Lỗi tác ác, một loại lỗi nhẹ trong giới luật của tỳ-kheo. |
-| tikoṭiparisuddhaṁ macchamaṁsaṁ `[!]` | thịt cá thanh tịnh ba phần | Quy định về việc ăn thịt cá hợp lệ: không thấy (adiṭṭhaṁ), không nghe (assutaṁ), không nghi ngờ (aparisaṅkitaṁ) con vật bị giết riêng cho mình. |
-| kappiyabhūmi `[!]` | khu vực hợp pháp | Khu vực được Tăng chúng chính thức chỉ định để cất giữ và nấu nướng thức ăn, tránh vi phạm giới luật về việc cất giữ đồ ăn trong chỗ ở. |
-| iddhānubhāvo `[!]` | thần thông uy lực | Khả năng phi thường, sức mạnh kỳ diệu do phước báu hoặc tu tập mang lại. |
-| titthiyā `[!]` | ngoại đạo | Những người theo các giáo phái khác ngoài Phật giáo. |
-| pañca gorase `[!]` | năm sản phẩm từ bò | Năm loại thực phẩm chế biến từ sữa bò: sữa tươi (khīra), sữa chua (dadhi), sữa bơ (takka), bơ tươi (navanīta), bơ trong (sappi). |
-| pātheyya `[!]` | lương thực đi đường | Đồ ăn thức uống mang theo khi đi qua những vùng hoang vắng, khó khất thực. |
-| kappiyakāraka `[!]` | người làm cho hợp pháp | Cư sĩ phục vụ Tăng chúng (tịnh nhân), giúp nhận tiền và mua sắm những vật dụng hợp pháp cho các tỳ-kheo. |
-| jātarūparajataṁ `[!]` | vàng bạc | Tiền bạc nói chung, thứ mà các tỳ-kheo bị cấm nhận hoặc cất giữ. |
-| pānāni `[!]` | nước uống | Các loại nước ép trái cây, lá, hoa được phép uống vào buổi chiều (sái thời). |
-| mahāpadesa `[!]` | Đại tiêu chuẩn | Bốn nguyên tắc lớn dùng để đối chiếu và xác định những điều chưa được Đức Phật quy định rõ ràng là hợp pháp hay không hợp pháp. |
-| yāvakālika `[!]` | đồ ăn trong thời gian quy định | Thức ăn chỉ được phép dùng từ sáng sớm đến giữa trưa. |
-| yāmakālika `[!]` | đồ uống trong một canh | Các loại nước ép trái cây được phép dùng trong một canh (từ giữa trưa đến hết đêm). |
-| sattāhakālika `[!]` | thuốc dùng trong bảy ngày | Năm loại thuốc (bơ trong, bơ tươi, dầu, mật ong, đường mía) được phép cất giữ và dùng trong tối đa bảy ngày. |
-| yāvajīvika `[!]` | thuốc dùng trọn đời | Các loại thuốc từ rễ, thân, lá, hoa, quả... được phép cất giữ và dùng trọn đời khi có bệnh. |
+> Catunnaṁ ariyasaccānaṁ,\
+> yathābhūtaṁ adassanā;\
+> Saṁsitaṁ dīghamaddhānaṁ,\
+> tāsu tāsveva jātisu.\
+> Tāni etāni diṭṭhāni,\
+> bhavanetti samūhatā;\
+> Ucchinnaṁ mūlaṁ dukkhassa,\
+> natthi dāni punabbhavo”ti.
 
+## 17. Ambapālīvatthu {#17}
 
+30.1\. Assosi kho ambapālī gaṇikā— “bhagavā kira koṭigāmaṁ anuppatto”ti. Atha kho ambapālī gaṇikā bhadrāni bhadrāni yānāni yojāpetvā bhadraṁ bhadraṁ yānaṁ abhiruhitvā bhadrehi bhadrehi yānehi vesāliyā niyyāsi bhagavantaṁ dassanāya. Yāvatikā yānassa bhūmi, yānena gantvā, yānā paccorohitvā, pattikāva yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho ambapāliṁ gaṇikaṁ bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho ambapālī gaṇikā bhagavatā dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā bhagavantaṁ etadavoca— “adhivāsetu me, bhante, bhagavā svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho ambapālī gaṇikā bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+
+## 18. Licchavīvatthu {#18}
+
+30.3\. Assosuṁ kho vesālikā licchavī— “bhagavā kira koṭigāmaṁ anuppatto”ti. Atha kho vesālikā licchavī bhadrāni bhadrāni yānāni yojāpetvā bhadraṁ bhadraṁ yānaṁ abhiruhitvā bhadrehi bhadrehi yānehi vesāliyā niyyāsuṁ bhagavantaṁ dassanāya. Appekacce licchavī nīlā honti nīlavaṇṇā nīlavatthā nīlālaṅkārā, appekacce licchavī pītā honti pītavaṇṇā pītavatthā pītālaṅkārā, appekacce licchavī lohitā honti lohitavaṇṇā lohitavatthā lohitālaṅkārā, appekacce licchavī odātā honti odātavaṇṇā odātavatthā odātālaṅkārā.
+
+Atha kho ambapālī gaṇikā daharānaṁ daharānaṁ licchavīnaṁ īsāya īsaṁ yugena yugaṁ cakkena cakkaṁ akkhena akkhaṁ paṭivaṭṭesi. Atha kho te licchavī ambapāliṁ gaṇikaṁ etadavocuṁ— “kissa, je ambapāli, daharānaṁ daharānaṁ licchavīnaṁ īsāya īsaṁ yugena yugaṁ cakkena cakkaṁ akkhena akkhaṁ paṭivaṭṭesī”ti? “Tathā hi pana mayā, ayyaputtā, svātanāya buddhappamukho bhikkhusaṅgho nimantito”ti.
+
+30.4\. “Dehi, je ambapāli, amhākaṁ etaṁ bhattaṁ satasahassenā”ti.
+
+“Sacepi me, ayyaputtā, vesāliṁ sāhāraṁ dajjeyyātha, neva dajjāhaṁ taṁ bhattan”ti.
+
+Atha kho te licchavī aṅguliṁ phoṭesuṁ— “jitamha vata bho ambakāya, parājitamha vata bho ambakāyā”ti. Atha kho te licchavī yena bhagavā tenupasaṅkamiṁsu.
+
+30.5\. Addasā kho bhagavā te licchavī dūratova āgacchante, disvāna bhikkhū āmantesi— “yehi, bhikkhave, bhikkhūhi devā tāvatiṁsā adiṭṭhapubbā, oloketha, bhikkhave, licchavīparisaṁ; apaloketha, bhikkhave, licchavīparisaṁ; upasaṁharatha, bhikkhave, licchavīparisaṁ tāvatiṁsaparisan”ti.
+
+Atha kho te licchavī yāvatikā yānassa bhūmi, yānena gantvā yānā paccorohitvā pattikāva yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho te licchavī bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho te licchavī, bhagavatā dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā bhagavantaṁ etadavocuṁ— “adhivāsetu no, bhante, bhagavā svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti.
+
+“Adhivuṭṭhomhi, licchavī, svātanāya ambapāliyā gaṇikāya bhattan”ti.
+
+Atha kho te licchavī aṅguliṁ phoṭesuṁ— “jitamha vata bho ambakāya, parājitamha vata bho ambakāyā”ti. Atha kho te licchavī bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkamiṁsu.
+
+30.6\. Atha kho bhagavā koṭigāme yathābhirantaṁ viharitvā yena nātikā tenupasaṅkami. Tatra sudaṁ bhagavā nātike viharati giñjakāvasathe.
+
+Atha kho ambapālī gaṇikā tassā rattiyā accayena sake ārāme paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi—“kālo, bhante, niṭṭhitaṁ bhattan”ti. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena ambapāliyā gaṇikāya parivesanā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. Atha kho ambapālī gaṇikā buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinnā kho ambapālī gaṇikā bhagavantaṁ etadavoca— “imāhaṁ, bhante, ambavanaṁ buddhappamukhassa bhikkhusaṅghassa dammī”ti. Paṭiggahesi bhagavā ārāmaṁ. Atha kho bhagavā ambapāliṁ gaṇikaṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā yena mahāvanaṁ tenupasaṅkami. Tatra sudaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
+
+Licchavibhāṇavāro niṭṭhito tatiyo.
+
+## 19. Sīhasenāpativatthu {#19}
+
+31.1\. Tena kho pana samayena abhiññātā abhiññātā licchavī sandhāgāre sannisinnā sannipatitā anekapariyāyena buddhassa vaṇṇaṁ bhāsanti, dhammassa vaṇṇaṁ bhāsanti, saṅghassa vaṇṇaṁ bhāsanti. Tena kho pana samayena sīho senāpati nigaṇṭhasāvako tassaṁ parisāyaṁ nisinno hoti. Atha kho sīhassa senāpatissa etadahosi— “nissaṁsayaṁ kho so bhagavā arahaṁ sammāsambuddho bhavissati, tathā hime abhiññātā abhiññātā licchavī sandhāgāre sannisinnā sannipatitā anekapariyāyena buddhassa vaṇṇaṁ bhāsanti, dhammassa vaṇṇaṁ bhāsanti, saṅghassa vaṇṇaṁ bhāsanti. Yannūnāhaṁ taṁ bhagavantaṁ dassanāya upasaṅkameyyaṁ arahantaṁ sammāsambuddhan”ti. Atha kho sīho senāpati yena nigaṇṭho nāṭaputto tenupasaṅkami, upasaṅkamitvā nigaṇṭhaṁ nāṭaputtaṁ etadavoca— “icchāmahaṁ, bhante, samaṇaṁ gotamaṁ dassanāya upasaṅkamitun”ti.
+
+31.2\. “Kiṁ pana tvaṁ, sīha, kiriyavādo samāno akiriyavādaṁ samaṇaṁ gotamaṁ dassanāya upasaṅkamissasi? Samaṇo hi, sīha, gotamo akiriyavādo akiriyāya dhammaṁ deseti, tena ca sāvake vinetī”ti. Atha kho sīhassa senāpatissa yo ahosi gamikābhisaṅkhāro bhagavantaṁ dassanāya, so paṭippassambhi.
+
+31.3\. Dutiyampi kho abhiññātā abhiññātā licchavī sandhāgāre sannisinnā sannipatitā anekapariyāyena buddhassa vaṇṇaṁ bhāsanti, dhammassa vaṇṇaṁ bhāsanti, saṅghassa vaṇṇaṁ bhāsanti. Dutiyampi kho sīhassa senāpatissa etadahosi— “nissaṁsayaṁ kho so bhagavā arahaṁ sammāsambuddho bhavissati, tathā hime abhiññātā abhiññātā licchavī sandhāgāre sannisinnā sannipatitā anekapariyāyena buddhassa vaṇṇaṁ bhāsanti, dhammassa vaṇṇaṁ bhāsanti, saṅghassa vaṇṇaṁ bhāsanti. Yannūnāhaṁ taṁ bhagavantaṁ dassanāya upasaṅkameyyaṁ arahantaṁ sammāsambuddhan”ti. Dutiyampi kho sīho senāpati yena nigaṇṭho nāṭaputto tenupasaṅkami, upasaṅkamitvā nigaṇṭhaṁ nāṭaputtaṁ etadavoca— “icchāmahaṁ, bhante, samaṇaṁ gotamaṁ dassanāya upasaṅkamitun”ti. “Kiṁ pana tvaṁ, sīha, kiriyavādo samāno akiriyavādaṁ samaṇaṁ gotamaṁ dassanāya upasaṅkamissasi? Samaṇo hi, sīha, gotamo akiriyavādo akiriyāya dhammaṁ deseti, tena ca sāvake vinetī”ti. Dutiyampi kho sīhassa senāpatissa yo ahosi gamikābhisaṅkhāro bhagavantaṁ dassanāya, so paṭippassambhi.
+
+Tatiyampi kho abhiññātā abhiññātā licchavī sandhāgāre sannisinnā sannipatitā anekapariyāyena buddhassa vaṇṇaṁ bhāsanti, dhammassa vaṇṇaṁ bhāsanti, saṅghassa vaṇṇaṁ bhāsanti. Tatiyampi kho sīhassa senāpatissa etadahosi— “nissaṁsayaṁ kho so bhagavā arahaṁ sammāsambuddho bhavissati, tathā hime abhiññātā abhiññātā licchavī sandhāgāre sannisinnā sannipatitā anekapariyāyena buddhassa vaṇṇaṁ bhāsanti, dhammassa vaṇṇaṁ bhāsanti, saṅghassa vaṇṇaṁ bhāsanti. Kiñhi me karissanti nigaṇṭhā apalokitā vā anapalokitā vā? Yannūnāhaṁ anapaloketvāva nigaṇṭhe taṁ bhagavantaṁ dassanāya upasaṅkameyyaṁ arahantaṁ sammāsambuddhan”ti.
+
+31.4\. Atha kho sīho senāpati pañcahi rathasatehi divādivassa vesāliyā niyyāsi bhagavantaṁ dassanāya. Yāvatikā yānassa bhūmi, yānena gantvā yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho sīho senāpati bhagavantaṁ etadavoca— “sutaṁ me taṁ, bhante—‘akiriyavādo samaṇo gotamo akiriyāya dhammaṁ deseti, tena ca sāvake vinetī’ti. Ye te, bhante, evamāhaṁsu—‘akiriyavādo samaṇo gotamo, akiriyāya dhammaṁ deseti, tena ca sāvake vinetī’ti. Kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchati? Anabbhakkhātukāmā hi mayaṁ, bhante, bhagavantan”ti.
+
+31.5\. “Atthi, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— akiriyavādo samaṇo gotamo, akiriyāya dhammaṁ deseti, tena ca sāvake vinetīti. Atthi, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— kiriyavādo samaṇo gotamo kiriyāya dhammaṁ deseti, tena ca sāvake vinetīti. Atthi, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— ucchedavādo samaṇo gotamo ucchedāya dhammaṁ deseti, tena ca sāvake vinetīti. Atthi, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— jegucchī samaṇo gotamo, jegucchitāya dhammaṁ deseti, tena ca sāvake vinetīti. Atthi, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— venayiko samaṇo gotamo, vinayāya dhammaṁ deseti, tena ca sāvake vinetīti. Atthi, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— tapassī samaṇo gotamo, tapassitāya dhammaṁ deseti, tena ca sāvake vinetīti. Atthi, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— apagabbho samaṇo gotamo, apagabbhatāya dhammaṁ deseti, tena ca sāvake vinetīti. Atthi, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— assattho samaṇo gotamo, assāsāya dhammaṁ deseti, tena ca sāvake vinetīti.
+
+31.6\. Katamo ca, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— akiriyavādo samaṇo gotamo, akiriyāya dhammaṁ deseti, tena ca sāvake vinetīti? Ahañhi, sīha, akiriyaṁ vadāmi kāyaduccaritassa vacīduccaritassa manoduccaritassa; anekavihitānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ akiriyaṁ vadāmi. Ayaṁ kho, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— akiriyavādo samaṇo gotamo, akiriyāya dhammaṁ deseti, tena ca sāvake vinetīti.
+
+Katamo ca, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— kiriyavādo samaṇo gotamo, kiriyāya dhammaṁ deseti, tena ca sāvake vinetīti? Ahañhi, sīha, kiriyaṁ vadāmi kāyasucaritassa vacīsucaritassa manosucaritassa, anekavihitānaṁ kusalānaṁ dhammānaṁ kiriyaṁ vadāmi. Ayaṁ kho, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— kiriyavādo samaṇo gotamo, kiriyāya dhammaṁ deseti, tena ca sāvake vinetīti.
+
+31.7\. Katamo ca, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— ucchedavādo samaṇo gotamo, ucchedāya dhammaṁ deseti, tena ca sāvake vinetīti? Ahañhi, sīha, ucchedaṁ vadāmi rāgassa dosassa mohassa; anekavihitānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ ucchedaṁ vadāmi. Ayaṁ kho, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— ucchedavādo samaṇo gotamo ucchedāya dhammaṁ deseti, tena ca sāvake vinetīti.
+
+Katamo ca, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— jegucchī samaṇo gotamo, jegucchitāya dhammaṁ deseti, tena ca sāvake vinetīti? Ahañhi, sīha, jigucchāmi kāyaduccaritena vacīduccaritena manoduccaritena; anekavihitānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā jigucchāmi. Ayaṁ kho, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— jegucchī samaṇo gotamo, jegucchitāya dhammaṁ deseti, tena ca sāvake vinetīti.
+
+31.8\. Katamo ca, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— venayiko samaṇo gotamo, vinayāya dhammaṁ deseti, tena ca sāvake vinetīti? Ahañhi, sīha, vinayāya dhammaṁ desemi rāgassa dosassa mohassa; anekavihitānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ vinayāya dhammaṁ desemi. Ayaṁ kho, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— venayiko samaṇo gotamo, vinayāya dhammaṁ deseti, tena ca sāvake vinetīti.
+
+Katamo ca, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— tapassī samaṇo gotamo, tapassitāya dhammaṁ deseti, tena ca sāvake vinetīti? Tapanīyāhaṁ, sīha, pāpake akusale dhamme vadāmi— kāyaduccaritaṁ vacīduccaritaṁ manoduccaritaṁ. Yassa kho, sīha, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā, tamahaṁ tapassīti vadāmi. Tathāgatassa kho, sīha, tapanīyā pāpakā akusalā dhammā pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Ayaṁ kho, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya tapassī samaṇo gotamo tapassitāya dhammaṁ deseti, tena ca sāvake vinetīti.
+
+31.9\. Katamo ca, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— apagabbho samaṇo gotamo apagabbhatāya dhammaṁ deseti, tena ca sāvake vinetīti? Yassa kho, sīha, āyatiṁ gabbhaseyyā punabbhavābhinibbatti pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā, tamahaṁ apagabbhoti vadāmi. Tathāgatassa kho, sīha, āyatiṁ gabbhaseyyā punabbhavābhinibbatti pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Ayaṁ kho, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— apagabbho samaṇo gotamo, apagabbhatāya dhammaṁ deseti, tena ca sāvake vinetīti.
+
+Katamo ca, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— assattho samaṇo gotamo assāsāya dhammaṁ deseti, tena ca sāvake vinetīti? Ahañhi, sīha, assattho paramena assāsena, assāsāya dhammaṁ desemi, tena ca sāvake vinemi. Ayaṁ kho, sīha, pariyāyo, yena maṁ pariyāyena sammā vadamāno vadeyya— assattho samaṇo gotamo assāsāya dhammaṁ deseti, tena ca sāvake vinetī”ti.
+
+31.10\. Evaṁ vutte sīho senāpati bhagavantaṁ etadavoca— “abhikkantaṁ, bhante …pe… upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+
+“Anuviccakāraṁ kho, sīha, karohi; anuviccakāro tumhādisānaṁ ñātamanussānaṁ sādhu hotī”ti.
+
+“Imināpāhaṁ, bhante, bhagavato bhiyyoso mattāya attamano abhiraddho, yaṁ maṁ bhagavā evamāha— ‘anuviccakāraṁ kho, sīha, karohi; anuviccakāro tumhādisānaṁ ñātamanussānaṁ sādhu hotī’ti. Mamañhi, bhante, aññatitthiyā sāvakaṁ labhitvā kevalakappaṁ vesāliṁ paṭākaṁ parihareyyuṁ—‘sīho kho amhākaṁ senāpati sāvakattaṁ upagato’ti. Atha ca pana maṁ bhagavā evamāha— ‘anuviccakāraṁ kho, sīha, karohi; anuviccakāro tumhādisānaṁ ñātamanussānaṁ sādhu hotī’ti. Esāhaṁ, bhante, dutiyampi bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+
+31.11\. “Dīgharattaṁ kho te, sīha, nigaṇṭhānaṁ opānabhūtaṁ kulaṁ, yena nesaṁ upagatānaṁ piṇḍakaṁ dātabbaṁ maññeyyāsī”ti.
+
+“Imināpāhaṁ, bhante, bhagavato bhiyyoso mattāya attamano abhiraddho, yaṁ maṁ bhagavā evamāha— ‘dīgharattaṁ kho te, sīha, nigaṇṭhānaṁ opānabhūtaṁ kulaṁ, yena nesaṁ upagatānaṁ piṇḍakaṁ dātabbaṁ maññeyyāsī’ti. Sutaṁ me taṁ, bhante, samaṇo gotamo evamāha— ‘mayhameva dānaṁ dātabbaṁ, na aññesaṁ dānaṁ dātabbaṁ; mayhameva sāvakānaṁ dānaṁ dātabbaṁ, na aññesaṁ sāvakānaṁ dānaṁ dātabbaṁ; mayhameva dinnaṁ mahapphalaṁ, na aññesaṁ dinnaṁ mahapphalaṁ; mayhameva sāvakānaṁ dinnaṁ mahapphalaṁ, na aññesaṁ sāvakānaṁ dinnaṁ mahapphalan’ti. Atha ca pana maṁ bhagavā nigaṇṭhesupi dāne samādapeti. Api ca, bhante, mayamettha kālaṁ jānissāma. Esāhaṁ, bhante, tatiyampi bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+
+31.12\. Atha kho bhagavā sīhassa senāpatissa anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ …pe…
+
+aparappaccayo satthusāsane bhagavantaṁ etadavoca— “adhivāsetu me, bhante, bhagavā svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho sīho senāpati bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+
+Atha kho sīho senāpati aññataraṁ purisaṁ āṇāpesi— “gaccha, bhaṇe, pavattamaṁsaṁ jānāhī”ti. Atha kho sīho senāpati tassā rattiyā accayena paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi—“kālo, bhante, niṭṭhitaṁ bhattan”ti.
+
+Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena sīhassa senāpatissa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena.
+
+31.13\. Tena kho pana samayena sambahulā nigaṇṭhā vesāliyaṁ rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ bāhā paggayha kandanti— “ajja sīhena senāpatinā thūlaṁ pasuṁ vadhitvā samaṇassa gotamassa bhattaṁ kataṁ, taṁ samaṇo gotamo jānaṁ uddissakataṁ maṁsaṁ paribhuñjati paṭiccakamman”ti.
+
+Atha kho aññataro puriso yena sīho senāpati tenupasaṅkami, upasaṅkamitvā sīhassa senāpatissa upakaṇṇake ārocesi— “yagghe, bhante, jāneyyāsi, ete sambahulā nigaṇṭhā vesāliyaṁ rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ bāhā paggayha kandanti— ‘ajja sīhena senāpatinā thūlaṁ pasuṁ vadhitvā samaṇassa gotamassa bhattaṁ kataṁ, taṁ samaṇo gotamo jānaṁ uddissakataṁ maṁsaṁ paribhuñjati paṭiccakamman’”ti. “Alaṁ, ayyo, dīgharattampi te āyasmantā avaṇṇakāmā buddhassa, avaṇṇakāmā dhammassa, avaṇṇakāmā saṅghassa; na ca pana te āyasmantā jiridanti taṁ bhagavantaṁ asatā tucchā musā abhūtena abbhācikkhantā; na ca mayaṁ jīvitahetupi sañcicca pāṇaṁ jīvitā voropeyyāmā”ti.
+
+31.14\. Atha kho sīho senāpati buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho sīhaṁ senāpatiṁ bhagavā dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkāmi.
+
+Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+
+“na, bhikkhave, jānaṁ uddissakataṁ maṁsaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassa. Anujānāmi, bhikkhave, tikoṭiparisuddhaṁ macchamaṁsaṁ—adiṭṭhaṁ assutaṁ aparisaṅkitan”ti.
+
+## 20. Kappiyabhūmianujānana {#20}
+
+32.1\. Tena kho pana samayena vesālī subhikkhā hoti susassā sulabhapiṇḍā, sukarā uñchena paggahena yāpetuṁ. Atha kho bhagavato rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— “yāni tāni mayā bhikkhūnaṁ anuññātāni dubbhikkhe dussasse dullabhapiṇḍe anto vuṭṭhaṁ anto pakkaṁ sāmaṁ pakkaṁ uggahitapaṭiggahitakaṁ tato nīhaṭaṁ purebhattaṁ paṭiggahitaṁ vanaṭṭhaṁ pokkharaṭṭhaṁ, ajjāpi nu kho tāni bhikkhū paribhuñjantī”ti.
+
+Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito āyasmantaṁ ānandaṁ āmantesi— “yāni tāni, ānanda, mayā bhikkhūnaṁ anuññātāni dubbhikkhe dussasse dullabhapiṇḍe anto vuṭṭhaṁ anto pakkaṁ sāmaṁ pakkaṁ uggahitapaṭiggahitakaṁ tato nīhaṭaṁ purebhattaṁ paṭiggahitaṁ vanaṭṭhaṁ pokkharaṭṭhaṁ, ajjāpi nu kho tāni bhikkhū paribhuñjantī”ti? “Paribhuñjanti, bhagavā”ti.
+
+32.2\. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+
+“yāni tāni, bhikkhave, mayā bhikkhūnaṁ anuññātāni dubbhikkhe dussasse dullabhapiṇḍe anto vuṭṭhaṁ anto pakkaṁ sāmaṁ pakkaṁ uggahitapaṭiggahitakaṁ tato nīhaṭaṁ purebhattaṁ paṭiggahitaṁ vanaṭṭhaṁ pokkharaṭṭhaṁ, tānāhaṁ ajjatagge paṭikkhipāmi.
+
+Na, bhikkhave, anto vuṭṭhaṁ anto pakkaṁ sāmaṁ pakkaṁ uggahitapaṭiggahitakaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, āpatti dukkaṭassa.
+
+Na ca, bhikkhave, tato nīhaṭaṁ purebhattaṁ paṭiggahitaṁ vanaṭṭhaṁ pokkharaṭṭhaṁ bhuttāvinā pavāritena anatirittaṁ paribhuñjitabbaṁ. Yo paribhuñjeyya, yathādhammo kāretabbo”ti.
+
+33.1\. Tena kho pana samayena jānapadā manussā bahuṁ loṇampi, telampi, taṇḍulampi, khādanīyampi sakaṭesu āropetvā bahārāmakoṭṭhake sakaṭaparivaṭṭaṁ karitvā acchanti—“yadā paṭipāṭiṁ labhissāma, tadā bhattaṁ karissāmā”ti. Mahā ca megho uggato hoti. Atha kho te manussā yenāyasmā ānando tenupasaṅkamiṁsu, upasaṅkamitvā āyasmantaṁ ānandaṁ etadavocuṁ—“idha, bhante ānanda, bahuṁ loṇampi, telampi, taṇḍulampi, khādanīyampi sakaṭesu āropitā tiṭṭhanti, mahā ca megho uggato; kathaṁ nu kho, bhante ānanda, paṭipajjitabban”ti? Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi. “Tena hānanda, saṅgho paccantimaṁ vihāraṁ kappiyabhūmiṁ sammannitvā tattha vāsetu, yaṁ saṅgho ākaṅkhati vihāraṁ vā aḍḍhayogaṁ vā pāsādaṁ vā hammiyaṁ vā guhaṁ vā. Evañca pana, bhikkhave, sammannitabbā. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+
+33.2\. ‘Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmaṁ vihāraṁ kappiyabhūmiṁ sammanneyya. Esā ñatti.
+
+Suṇātu me, bhante, saṅgho. Saṅgho itthannāmaṁ vihāraṁ kappiyabhūmiṁ sammannati. Yassāyasmato khamati itthannāmassa vihārassa kappiyabhūmiyā sammuti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+
+Sammato saṅghena itthannāmo vihāro kappiyabhūmi. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+
+33.3\. Tena kho pana samayena manussā tattheva sammutiyā kappiyabhūmiyā yāguyo pacanti, bhattāni pacanti, sūpāni sampādenti, maṁsāni koṭṭenti, kaṭṭhāni phālenti. Assosi kho bhagavā rattiyā paccūsasamayaṁ paccuṭṭhāya uccāsaddaṁ mahāsaddaṁ kākoravasaddaṁ, sutvāna āyasmantaṁ ānandaṁ āmantesi— “kiṁ nu kho so, ānanda, uccāsaddo mahāsaddo kākoravasaddo”ti? “Etarahi, bhante, manussā tattheva sammutiyā kappiyabhūmiyā yāguyo pacanti, bhattāni pacanti, sūpāni sampādenti, maṁsāni koṭṭenti, kaṭṭhāni phālenti. So eso, bhagavā, uccāsaddo mahāsaddo kākoravasaddo”ti. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+
+33.4\. “na, bhikkhave, sammuti kappiyabhūmi paribhuñjitabbā. Yo paribhuñjeyya, āpatti dukkaṭassa. Anujānāmi, bhikkhave, tisso kappiyabhūmiyo— ussāvanantikaṁ gonisādikaṁ gahapatin”ti.
+
+33.5\. Tena kho pana samayena āyasmā yasojo gilāno hoti. Tassatthāya bhesajjāni āhariyanti. Tāni bhikkhū bahi vāsenti. Ukkapiṇḍakāpi khādanti, corāpi haranti. Bhagavato etamatthaṁ ārocesuṁ.
+
+“Anujānāmi, bhikkhave, sammutiṁ kappiyabhūmiṁ paribhuñjituṁ. Anujānāmi, bhikkhave, catasso kappiyabhūmiyo— ussāvanantikaṁ gonisādikaṁ gahapatiṁ sammutin”ti.
+
+Sīhabhāṇavāro niṭṭhito catuttho.
+
+## 21. Meṇḍakagahapativatthu {#21}
+
+34.1\. Tena kho pana samayena bhaddiyanagare meṇḍako gahapati paṭivasati. Tassa evarūpo iddhānubhāvo hoti— sīsaṁ nahāyitvā dhaññāgāraṁ sammajjāpetvā bahidvāre nisīdati, antalikkhā dhaññassa dhārā opatitvā dhaññāgāraṁ pūreti. Bhariyāya evarūpo iddhānubhāvo hoti— ekaṁyeva āḷhakathālikaṁ upanisīditvā ekañca sūpabhiñjanakaṁ dāsakammakaraporisaṁ bhattena parivisati, na tāva taṁ khiyyati yāva sā na vuṭṭhāti. Puttassa evarūpo iddhānubhāvo hoti— ekaṁyeva sahassathavikaṁ gahetvā dāsakammakaraporisassa chamāsikaṁ vetanaṁ deti, na tāva taṁ khiyyati yāvassa hatthagatā. Suṇisāya evarūpo iddhānubhāvo hoti— ekaṁyeva catudoṇikaṁ piṭakaṁ upanisīditvā dāsakammakaraporisassa chamāsikaṁ bhattaṁ deti, na tāva taṁ khiyyati yāva sā na vuṭṭhāti. Dāsassa evarūpo iddhānubhāvo hoti— ekena naṅgalena kasantassa satta sītāyo gacchanti.
+
+34.3\. Assosi kho rājā māgadho seniyo bimbisāro— “amhākaṁ kira vijite bhaddiyanagare meṇḍako gahapati paṭivasati. Tassa evarūpo iddhānubhāvo— sīsaṁ nahāyitvā dhaññāgāraṁ sammajjāpetvā bahidvāre nisīdati, antalikkhā dhaññassa dhārā opatitvā dhaññāgāraṁ pūreti. Bhariyāya evarūpo iddhānubhāvo— ekaṁyeva āḷhakathālikaṁ upanisīditvā ekañca sūpabhiñjanakaṁ dāsakammakaraporisaṁ bhattena parivisati, na tāva taṁ khiyyati yāva sā na vuṭṭhāti. Puttassa evarūpo iddhānubhāvo— ekaṁyeva sahassathavikaṁ gahetvā dāsakammakaraporisassa chamāsikaṁ vetanaṁ deti, na tāva taṁ khiyyati yāvassa hatthagatā. Suṇisāya evarūpo iddhānubhāvo— ekaṁyeva catudoṇikaṁ piṭakaṁ upanisīditvā dāsakammakaraporisassa chamāsikaṁ bhattaṁ deti, na tāva taṁ khiyyati yāva sā na vuṭṭhāti. Dāsassa evarūpo iddhānubhāvo— ekena naṅgalena kasantassa satta sītāyo gacchantī”ti. Atha kho rājā māgadho seniyo bimbisāro aññataraṁ sabbatthakaṁ mahāmattaṁ āmantesi— “amhākaṁ kira, bhaṇe, vijite bhaddiyanagare meṇḍako gahapati paṭivasati. Tassa evarūpo iddhānubhāvo— sīsaṁ nahāyitvā dhaññāgāraṁ sammajjāpetvā bahidvāre nisīdati, antalikkhā dhaññassa dhārā opatitvā dhaññāgāraṁ pūreti. Bhariyāya …pe… puttassa … suṇisāya … dāsassa evarūpo iddhānubhāvo, ekena naṅgalena kasantassa satta sītāyo gacchantīti. Gaccha, bhaṇe, jānāhi. Yathā mayā sāmaṁ diṭṭho, evaṁ tava diṭṭho bhavissatī”ti.
+
+34.5\. “Evaṁ, devā”ti kho so mahāmatto rañño māgadhassa seniyassa bimbisārassa paṭissuṇitvā caturaṅginiyā senāya yena bhaddiyaṁ tena pāyāsi. Anupubbena yena bhaddiyaṁ yena meṇḍako gahapati tenupasaṅkami; upasaṅkamitvā meṇḍakaṁ gahapatiṁ etadavoca— “ahañhi, gahapati, raññā āṇatto— ‘amhākaṁ kira, bhaṇe, vijite bhaddiyanagare meṇḍako gahapati paṭivasati, tassa evarūpo iddhānubhāvo, sīsaṁ nahāyitvā …pe… bhariyāya … puttassa … suṇisāya … dāsassa evarūpo iddhānubhāvo, ekena naṅgalena kasantassa satta sītāyo gacchantīti, gaccha, bhaṇe, jānāhi. Yathā mayā sāmaṁ diṭṭho, evaṁ tava diṭṭho bhavissatī’ti. Passāma te, gahapati, iddhānubhāvan”ti. Atha kho meṇḍako gahapati sīsaṁ nahāyitvā dhaññāgāraṁ sammajjāpetvā bahidvāre nisīdi, antalikkhā dhaññassa dhārā opatitvā dhaññāgāraṁ pūresi.
+
+34.6\. “Diṭṭho te, gahapati, iddhānubhāvo. Bhariyāya te iddhānubhāvaṁ passissāmā”ti. Atha kho meṇḍako gahapati bhariyaṁ āṇāpesi— “tena hi caturaṅginiṁ senaṁ bhattena parivisā”ti. Atha kho meṇḍakassa gahapatissa bhariyā ekaṁyeva āḷhakathālikaṁ upanisīditvā ekañca sūpabhiñjanakaṁ caturaṅginiṁ senaṁ bhattena parivisi, na tāva taṁ khiyyati, yāva sā na vuṭṭhāti.
+
+34.7\. “Diṭṭho te, gahapati, bhariyāyapi iddhānubhāvo. Puttassa te iddhānubhāvaṁ passissāmā”ti. Atha kho meṇḍako gahapati puttaṁ āṇāpesi— “tena hi caturaṅginiyā senāya chamāsikaṁ vetanaṁ dehī”ti. Atha kho meṇḍakassa gahapatissa putto ekaṁyeva sahassathavikaṁ gahetvā caturaṅginiyā senāya chamāsikaṁ vetanaṁ adāsi, na tāva taṁ khiyyati, yāvassa hatthagatā.
+
+34.8\. “Diṭṭho te, gahapati, puttassapi iddhānubhāvo. Suṇisāya te iddhānubhāvaṁ passissāmā”ti. Atha kho meṇḍako gahapati suṇisaṁ āṇāpesi— “tena hi caturaṅginiyā senāya chamāsikaṁ bhattaṁ dehī”ti. Atha kho meṇḍakassa gahapatissa suṇisā ekaṁyeva catudoṇikaṁ piṭakaṁ upanisīditvā caturaṅginiyā senāya chamāsikaṁ bhattaṁ adāsi, na tāva taṁ khiyyati yāva sā na vuṭṭhāti.
+
+34.9\. “Diṭṭho te, gahapati, suṇisāyapi iddhānubhāvo. Dāsassa te iddhānubhāvaṁ passissāmā”ti.
+
+“Mayhaṁ kho, sāmi, dāsassa iddhānubhāvo khette passitabbo”ti.
+
+“Alaṁ, gahapati, diṭṭho te dāsassapi iddhānubhāvo”ti.
+
+Atha kho so mahāmatto caturaṅginiyā senāya punadeva rājagahaṁ paccāgañchi. Yena rājā māgadho seniyo bimbisāro tenupasaṅkami; upasaṅkamitvā rañño māgadhassa seniyassa bimbisārassa etamatthaṁ ārocesi.
+
+34.10\. Atha kho bhagavā vesāliyaṁ yathābhirantaṁ viharitvā yena bhaddiyaṁ tena cārikaṁ pakkāmi mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehi. Atha kho bhagavā anupubbena cārikaṁ caramāno yena bhaddiyaṁ tadavasari. Tatra sudaṁ bhagavā bhaddiye viharati jātiyā vane.
+
+34.11\. Assosi kho meṇḍako gahapati— “samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito bhaddiyaṁ anuppatto bhaddiye viharati jātiyā vane. Taṁ kho pana bhagavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato—
+
+‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
+
+34.12\. Atha kho meṇḍako gahapati bhadrāni bhadrāni yānāni yojāpetvā bhadraṁ bhadraṁ yānaṁ abhiruhitvā bhadrehi bhadrehi yānehi bhaddiyā niyyāsi bhagavantaṁ dassanāya. Addasaṁsu kho sambahulā titthiyā meṇḍakaṁ gahapatiṁ dūratova āgacchantaṁ, disvāna meṇḍakaṁ gahapatiṁ etadavocuṁ— “kahaṁ tvaṁ, gahapati, gacchasī”ti?
+
+“Gacchāmahaṁ, bhante, bhagavantaṁ samaṇaṁ gotamaṁ dassanāyā”ti.
+
+“Kiṁ pana tvaṁ, gahapati, kiriyavādo samāno akiriyavādaṁ samaṇaṁ gotamaṁ dassanāya upasaṅkamissasi? Samaṇo hi, gahapati, gotamo akiriyavādo akiriyāya dhammaṁ deseti, tena ca sāvake vinetī”ti.
+
+34.13\. Atha kho meṇḍakassa gahapatissa etadahosi— “nissaṁsayaṁ kho so bhagavā arahaṁ sammāsambuddho bhavissati, yathayime titthiyā usūyantī”ti. Yāvatikā yānassa bhūmi, yānena gantvā yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnassa kho meṇḍakassa gahapatissa bhagavā anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ …pe…
+
+aparappaccayo satthusāsane bhagavantaṁ etadavoca— “abhikkantaṁ, bhante …pe… upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gataṁ. Adhivāsetu ca me, bhante, bhagavā svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho meṇḍako gahapati bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+
+34.14\. Atha kho meṇḍako gahapati tassā rattiyā accayena paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi—“kālo, bhante, niṭṭhitaṁ bhattan”ti.
+
+Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena meṇḍakassa gahapatissa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. Atha kho meṇḍakassa gahapatissa bhariyā ca putto ca suṇisā ca dāso ca yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Tesaṁ bhagavā anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ …pe… aparappaccayā satthusāsane bhagavantaṁ etadavocuṁ— “abhikkantaṁ, bhante …pe… ete mayaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca. Upāsake no bhagavā dhāretu ajjatagge pāṇupete saraṇaṁ gate”ti. Atha kho meṇḍako gahapati buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinno kho meṇḍako gahapati bhagavantaṁ etadavoca— “yāva, bhante, bhagavā bhaddiye viharati tāva ahaṁ buddhappamukhassa bhikkhusaṅghassa dhuvabhattenā”ti. Atha kho bhagavā meṇḍakaṁ gahapatiṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkāmi.
+
+## 22. Pañcagorasādianujānana {#22}
+
+34.17\. Atha kho bhagavā bhaddiye yathābhirantaṁ viharitvā meṇḍakaṁ gahapatiṁ anāpucchā yena aṅguttarāpo tena cārikaṁ pakkāmi mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehi. Assosi kho meṇḍako gahapati— “bhagavā kira yena aṅguttarāpo tena cārikaṁ pakkanto mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehī”ti. Atha kho meṇḍako gahapati dāse ca kammakare ca āṇāpesi— “tena hi, bhaṇe, bahuṁ loṇampi, telampi, taṇḍulampi, khādanīyampi sakaṭesu āropetvā āgacchatha, aḍḍhatelasāni ca gopālakasatāni aḍḍhatelasāni ca dhenusatāni ādāya āgacchantu, yattha bhagavantaṁ passissāma tattha taruṇena khīrena bhojessāmā”ti.
+
+34.18\. Atha kho meṇḍako gahapati bhagavantaṁ antarāmagge kantāre sambhāvesi. Atha kho meṇḍako gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho meṇḍako gahapati bhagavantaṁ etadavoca— “adhivāsetu me, bhante, bhagavā svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho meṇḍako gahapati bhagavato adhivāsanaṁ viditvā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+
+Atha kho meṇḍako gahapati tassā rattiyā accayena paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi—“kālo, bhante, niṭṭhitaṁ bhattan”ti.
+
+34.19\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena meṇḍakassa gahapatissa parivesanā tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. Atha kho meṇḍako gahapati aḍḍhatelasāni gopālakasatāni āṇāpesi— “tena hi, bhaṇe, ekamekaṁ dhenuṁ gahetvā ekamekassa bhikkhuno upatiṭṭhatha taruṇena khīrena bhojessāmā”ti. Atha kho meṇḍako gahapati buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi, taruṇena ca khīrena. Bhikkhū kukkuccāyantā khīraṁ na paṭiggaṇhanti. “Paṭiggaṇhatha, bhikkhave, paribhuñjathā”ti. Atha kho meṇḍako gahapati buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā taruṇena ca khīrena bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinno kho meṇḍako gahapati bhagavantaṁ etadavoca— “santi, bhante, maggā kantārā, appodakā appabhakkhā, na sukarā apātheyyena gantuṁ. Sādhu, bhante, bhagavā bhikkhūnaṁ pātheyyaṁ anujānātū”ti. Atha kho bhagavā meṇḍakaṁ gahapatiṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkāmi.
+
+34.21\. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+
+“anujānāmi, bhikkhave, pañca gorase— khīraṁ, dadhiṁ, takkaṁ, navanītaṁ, sappiṁ.
+
+Santi, bhikkhave, maggā kantārā appodakā appabhakkhā, na sukarā apātheyyena gantuṁ. Anujānāmi, bhikkhave, pātheyyaṁ pariyesituṁ taṇḍulo taṇḍulatthikena, muggo muggatthikena, māso māsatthikena, loṇaṁ loṇatthikena, guḷo guḷatthikena, telaṁ telatthikena, sappi sappitthikena.
+
+Santi, bhikkhave, manussā, saddhā pasannā, te kappiyakārakānaṁ hatthe hiraññaṁ upanikkhipanti— ‘iminā ayyassa yaṁ kappiyaṁ taṁ dethā’ti. Anujānāmi, bhikkhave, yaṁ tato kappiyaṁ taṁ sādituṁ; na tvevāhaṁ, bhikkhave, kenaci pariyāyena jātarūparajataṁ sāditabbaṁ pariyesitabbanti vadāmī”ti.
+
+## 23. Keṇiyajaṭilavatthu {#23}
+
+35.1\. Atha kho bhagavā anupubbena cārikaṁ caramāno yena āpaṇaṁ tadavasari. Assosi kho keṇiyo jaṭilo— “samaṇo khalu bho gotamo sakyaputto sakyakulā pabbajito āpaṇaṁ anuppatto, taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato …pe… sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti. Atha kho keṇiyassa jaṭilassa etadahosi— “kiṁ nu kho ahaṁ samaṇassa gotamassa harāpeyyan”ti. Atha kho keṇiyassa jaṭilassa etadahosi— “yepi kho te brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti tadanubhāsanti, bhāsitamanubhāsanti, vācitamanuvācenti, seyyathidaṁ— aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, rattūparatā viratā vikālabhojanā, te evarūpāni pānāni sādiyiṁsu. Samaṇopi gotamo rattūparato virato vikālabhojanā, arahati samaṇopi gotamo evarūpāni pānāni sādiyitun”ti
+
+35.3\. pahūtaṁ pānaṁ paṭiyādāpetvā kājehi gāhāpetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi; sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho keṇiyo jaṭilo bhagavantaṁ etadavoca— “paṭiggaṇhātu me bhavaṁ gotamo pānan”ti.
+
+“Tena hi, keṇiya, bhikkhūnaṁ dehī”ti.
+
+Atha kho keṇiyo jaṭilo bhikkhūnaṁ deti. Bhikkhū kukkuccāyantā na paṭiggaṇhanti. “Paṭiggaṇhatha, bhikkhave, paribhuñjathā”ti. Atha kho keṇiyo jaṭilo buddhappamukhaṁ bhikkhusaṅghaṁ pahūtehi pānehi sahatthā santappetvā sampavāretvā bhagavantaṁ dhotahatthaṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho keṇiyaṁ jaṭilaṁ bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho keṇiyo jaṭilo bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito bhagavantaṁ etadavoca— “adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti.
+
+35.5\. “Mahā kho, keṇiya, bhikkhusaṅgho aḍḍhatelasāni bhikkhusatāni, tvañca brāhmaṇesu abhippasanno”ti.
+
+Dutiyampi kho keṇiyo jaṭilo bhagavantaṁ etadavoca— “kiñcāpi kho, bho gotama, mahā bhikkhusaṅgho aḍḍhatelasāni bhikkhusatāni, ahañca brāhmaṇesu abhippasanno, adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. “Mahā kho, keṇiya, bhikkhusaṅgho aḍḍhatelasāni bhikkhusatāni, tvañca brāhmaṇesu abhippasanno”ti. Tatiyampi kho keṇiyo jaṭilo bhagavantaṁ etadavoca— “kiñcāpi kho, bho gotama, mahā bhikkhusaṅgho aḍḍhatelasāni bhikkhusatāni, ahañca brāhmaṇesu abhippasanno, adhivāsetu bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho keṇiyo jaṭilo bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā pakkāmi.
+
+35.6\. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+
+“anujānāmi, bhikkhave, aṭṭha pānāni— ambapānaṁ jambupānaṁ cocapānaṁ mocapānaṁ madhūkapānaṁ muddikapānaṁ sālūkapānaṁ phārusakapānaṁ.
+
+Anujānāmi, bhikkhave, sabbaṁ phalarasaṁ ṭhapetvā dhaññaphalarasaṁ. Anujānāmi, bhikkhave, sabbaṁ pattarasaṁ ṭhapetvā ḍākarasaṁ. Anujānāmi, bhikkhave, sabbaṁ puppharasaṁ ṭhapetvā madhūkapuppharasaṁ. Anujānāmi, bhikkhave, ucchurasan”ti.
+
+35.7\. Atha kho keṇiyo jaṭilo tassā rattiyā accayena sake assame paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi—“kālo, bho gotama, niṭṭhitaṁ bhattan”ti.
+
+Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena keṇiyassa jaṭilassa assamo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. Atha kho keṇiyo jaṭilo buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappetvā sampavāretvā bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho keṇiyaṁ jaṭilaṁ bhagavā imāhi gāthāhi anumodi—
+
+> “Aggihuttamukhā yaññā,\
+> sāvittī chandaso mukhaṁ;\
+> Rājā mukhaṁ manussānaṁ,\
+> nadīnaṁ sāgaro mukhaṁ.\
+> Nakkhattānaṁ mukhaṁ cando,\
+> ādicco tapataṁ mukhaṁ;\
+> Puññaṁ ākaṅkhamānānaṁ,\
+> saṅgho ve yajataṁ mukhan”ti.
+
+35.8\. Atha kho bhagavā keṇiyaṁ jaṭilaṁ imāhi gāthāhi anumoditvā uṭṭhāyāsanā pakkāmi.
+
+## 24. Rojamallavatthu {#24}
+
+36.1\. Atha kho bhagavā āpaṇe yathābhirantaṁ viharitvā yena kusinārā tena cārikaṁ pakkāmi mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehi. Assosuṁ kho kosinārakā mallā—“bhagavā kira kusināraṁ āgacchati mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehī”ti. Te saṅgaraṁ akaṁsu—“yo bhagavato paccuggamanaṁ na karissati, pañcasatānissa daṇḍo”ti.
+
+Tena kho pana samayena rojo mallo āyasmato ānandassa sahāyo hoti. Atha kho bhagavā anupubbena cārikaṁ caramāno yena kusinārā tadavasari. Atha kho kosinārakā mallā bhagavato paccuggamanaṁ akaṁsu. Atha kho rojo mallo bhagavato paccuggamanaṁ karitvā yenāyasmā ānando tenupasaṅkami, upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho rojaṁ mallaṁ āyasmā ānando etadavoca— “uḷāraṁ kho te idaṁ, āvuso roja, yaṁ tvaṁ bhagavato paccuggamanaṁ akāsī”ti.
+
+36.2\. “Nāhaṁ, bhante ānanda, bahukato buddhe vā dhamme vā saṅghe vā; api ca ñātīhi saṅgaro kato—‘yo bhagavato paccuggamanaṁ na karissati, pañcasatānissa daṇḍo’ti; so kho ahaṁ, bhante ānanda, ñātīnaṁ daṇḍabhayā evāhaṁ bhagavato paccuggamanaṁ akāsin”ti.
+
+Atha kho āyasmā ānando anattamano ahosi “kathañhi nāma rojo mallo evaṁ vakkhatī”ti? Atha kho āyasmā ānando yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca— “ayaṁ, bhante, rojo mallo abhiññāto ñātamanusso. Mahatthiko kho pana evarūpānaṁ ñātamanussānaṁ imasmiṁ dhammavinaye pasādo. Sādhu, bhante, bhagavā tathā karotu, yathā rojo mallo imasmiṁ dhammavinaye pasīdeyyā”ti.
+
+36.3\. “Na kho taṁ, ānanda, dukkaraṁ tathāgatena, yathā rojo mallo imasmiṁ dhammavinaye pasīdeyyā”ti.
+
+36.4\. Atha kho bhagavā rojaṁ mallaṁ mettena cittena pharitvā uṭṭhāyāsanā vihāraṁ pāvisi. Atha kho rojo mallo bhagavato mettena cittena phuṭṭho, seyyathāpi nāma gāviṁ taruṇavaccho; evameva vihārena vihāraṁ pariveṇena pariveṇaṁ upasaṅkamitvā bhikkhū pucchati— “kahaṁ nu kho, bhante, etarahi so bhagavā viharati arahaṁ sammāsambuddho, dassanakāmā hi mayaṁ taṁ bhagavantaṁ arahantaṁ sammāsambuddhan”ti.
+
+“Esāvuso roja, vihāro saṁvutadvāro, tena appasaddo upasaṅkamitvā ataramāno āḷindaṁ pavisitvā ukkāsitvā aggaḷaṁ ākoṭehi, vivarissati te bhagavā dvāran”ti.
+
+36.5\. Atha kho rojo mallo yena so vihāro saṁvutadvāro, tena appasaddo upasaṅkamitvā ataramāno āḷindaṁ pavisitvā ukkāsitvā aggaḷaṁ ākoṭesi. Vivari bhagavā dvāraṁ. Atha kho rojo mallo vihāraṁ pavisitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnassa kho rojassa mallassa bhagavā anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ …pe…
+
+aparappaccayo satthusāsane bhagavantaṁ etadavoca— “sādhu, bhante, ayyā mamaññeva paṭiggaṇheyyuṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṁ, no aññesan”ti.
+
+“Yesaṁ kho, roja, sekkhena ñāṇena sekkhena dassanena dhammo diṭṭho seyyathāpi tayā, tesampi evaṁ hoti— ‘aho nūna ayyā amhākaññeva paṭiggaṇheyyuṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhāraṁ, no aññesan’ti. Tena hi, roja, tava ceva paṭiggahissanti aññesañcā”ti.
+
+36.6\. Tena kho pana samayena kusinārāyaṁ paṇītānaṁ bhattānaṁ bhattapaṭipāṭi aṭṭhitā hoti. Atha kho rojassa mallassa paṭipāṭiṁ alabhantassa etadahosi— “yannūnāhaṁ bhattaggaṁ olokeyyaṁ, yaṁ bhattagge nāssa, taṁ paṭiyādeyyan”ti. Atha kho rojo mallo bhattaggaṁ olokento dve nāddasa— ḍākañca piṭṭhakhādanīyañca. Atha kho rojo mallo yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ etadavoca— “idha me, bhante ānanda, paṭipāṭiṁ alabhantassa etadahosi— ‘yannūnāhaṁ bhattaggaṁ olokeyyaṁ, yaṁ bhattagge nāssa, taṁ paṭiyādeyyan’ti. So kho ahaṁ, bhante ānanda, bhattaggaṁ olokento dve nāddasaṁ— ḍākañca piṭṭhakhādanīyañca. Sacāhaṁ, bhante ānanda, paṭiyādeyyaṁ ḍākañca piṭṭhakhādanīyañca, paṭiggaṇheyya me bhagavā”ti?
+
+“Tena hi, roja, bhagavantaṁ paṭipucchissāmī”ti. Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi. “Tena hānanda, paṭiyādetū”ti. “Tena hi, roja, paṭiyādehī”ti.
+
+36.7\. Atha kho rojo mallo tassā rattiyā accayena pahūtaṁ ḍākañca piṭṭhakhādanīyañca paṭiyādāpetvā bhagavato upanāmesi— “paṭiggaṇhātu me, bhante, bhagavā ḍākañca piṭṭhakhādanīyañcā”ti.
+
+“Tena hi, roja, bhikkhūnaṁ dehī”ti. Atha kho rojo mallo bhikkhūnaṁ deti. Bhikkhū kukkuccāyantā na paṭiggaṇhanti. “Paṭiggaṇhatha, bhikkhave, paribhuñjathā”ti. Atha kho rojo mallo buddhappamukhaṁ bhikkhusaṅghaṁ pahūtehi ḍākehi ca piṭṭhakhādanīyehi ca sahatthā santappetvā sampavāretvā bhagavantaṁ dhotahatthaṁ onītapattapāṇiṁ ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho rojaṁ mallaṁ bhagavā dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkāmi. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+
+36.8\. “anujānāmi, bhikkhave, sabbañca ḍākaṁ sabbañca piṭṭhakhādanīyan”ti.
+
+## 25. Vuḍḍhapabbajitavatthu {#25}
+
+37.1\. Atha kho bhagavā kusinārāyaṁ yathābhirantaṁ viharitvā yena ātumā tena cārikaṁ pakkāmi mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehi. Tena kho pana samayena aññataro vuḍḍhapabbajito ātumāyaṁ paṭivasati nahāpitapubbo. Tassa dve dārakā honti, mañjukā paṭibhāneyyakā, dakkhā pariyodātasippā sake ācariyake nahāpitakamme.
+
+37.2\. Assosi kho so vuḍḍhapabbajito—“bhagavā kira ātumaṁ āgacchati mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehī”ti. Atha kho so vuḍḍhapabbajito te dārake etadavoca— “bhagavā kira, tātā, ātumaṁ āgacchati mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehi. Gacchatha tumhe, tātā, khurabhaṇḍaṁ ādāya nāḷiyāvāpakena anugharakaṁ anugharakaṁ āhiṇḍatha, loṇampi, telampi, taṇḍulampi, khādanīyampi saṁharatha, bhagavato āgatassa yāgupānaṁ karissāmā”ti.
+
+37.3\. “Evaṁ, tātā”ti kho te dārakā tassa vuḍḍhapabbajitassa paṭissuṇitvā khurabhaṇḍaṁ ādāya nāḷiyāvāpakena anugharakaṁ anugharakaṁ āhiṇḍanti, loṇampi, telampi, taṇḍulampi, khādanīyampi saṁharantā. Manussā te dārake mañjuke paṭibhāneyyake passitvā yepi na kārāpetukāmā tepi kārāpenti, kārāpetvāpi bahuṁ denti. Atha kho te dārakā bahuṁ loṇampi, telampi, taṇḍulampi, khādanīyampi saṁhariṁsu.
+
+37.4\. Atha kho bhagavā anupubbena cārikaṁ caramāno yena ātumā tadavasari. Tatra sudaṁ bhagavā ātumāyaṁ viharati bhusāgāre. Atha kho so vuḍḍhapabbajito tassā rattiyā accayena pahūtaṁ yāguṁ paṭiyādāpetvā bhagavato upanāmesi— “paṭiggaṇhātu me, bhante, bhagavā yāgun”ti.
+
+Jānantāpi tathāgatā pucchanti …pe… sāvakānaṁ vā sikkhāpadaṁ paññapessāmāti.
+
+Atha kho bhagavā taṁ vuḍḍhapabbajitaṁ etadavoca— “kutāyaṁ, bhikkhu, yāgū”ti? Atha kho so vuḍḍhapabbajito bhagavato etamatthaṁ ārocesi. Vigarahi buddho bhagavā— “ananucchavikaṁ, moghapurisa, ananulomikaṁ appatirūpaṁ assāmaṇakaṁ akappiyaṁ akaraṇīyaṁ. Kathañhi nāma tvaṁ, moghapurisa, pabbajito akappiye samādapessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… vigarahitvā dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+
+37.5\. “na, bhikkhave, pabbajitena akappiye samādapetabbaṁ, yo samādapeyya, āpatti dukkaṭassa. Na ca, bhikkhave, nahāpitapubbena khurabhaṇḍaṁ pariharitabbaṁ. Yo parihareyya, āpatti dukkaṭassā”ti.
+
+38.1\. Atha kho bhagavā ātumāyaṁ yathābhirantaṁ viharitvā yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari. Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sāvatthiyaṁ bahuṁ phalakhādanīyaṁ uppannaṁ hoti. Atha kho bhikkhūnaṁ etadahosi— “kiṁ nu kho bhagavatā phalakhādanīyaṁ anuññātaṁ, kiṁ ananuññātan”ti? Bhagavato etamatthaṁ ārocesuṁ.
+
+“Anujānāmi, bhikkhave, sabbaṁ phalakhādanīyan”ti.
+
+39.1\. Tena kho pana samayena saṅghikāni bījāni puggalikāya bhūmiyā ropiyanti, puggalikāni bījāni saṅghikāya bhūmiyā ropiyanti. Bhagavato etamatthaṁ ārocesuṁ.
+
+“Saṅghikāni, bhikkhave, bījāni puggalikāya bhūmiyā ropitāni bhāgaṁ datvā paribhuñjitabbāni. Puggalikāni bījāni saṅghikāya bhūmiyā ropitāni bhāgaṁ datvā paribhuñjitabbānī”ti.
+
+## 26. Catumahāpadesakathā {#26}
+
+40.1\. Tena kho pana samayena bhikkhūnaṁ kismiñci kismiñci ṭhāne kukkuccaṁ uppajjati— “kiṁ nu kho bhagavatā anuññātaṁ, kiṁ ananuññātan”ti? Bhagavato etamatthaṁ ārocesuṁ.
+
+“Yaṁ, bhikkhave, mayā ‘idaṁ na kappatī’ti appaṭikkhittaṁ tañce akappiyaṁ anulometi, kappiyaṁ paṭibāhati, taṁ vo na kappati. Yaṁ, bhikkhave, mayā ‘idaṁ na kappatī’ti appaṭikkhittaṁ tañce kappiyaṁ anulometi, akappiyaṁ paṭibāhati, taṁ vo kappati. Yaṁ, bhikkhave, mayā ‘idaṁ kappatī’ti ananuññātaṁ tañce akappiyaṁ anulometi, kappiyaṁ paṭibāhati, taṁ vo na kappati. Yaṁ, bhikkhave, mayā ‘idaṁ kappatī’ti ananuññātaṁ, tañce kappiyaṁ anulometi, akappiyaṁ paṭibāhati, taṁ vo kappatī”ti.
+
+40.2\. Atha kho bhikkhūnaṁ etadahosi— “kappati nu kho yāvakālikena yāmakālikaṁ, na nu kho kappati? Kappati nu kho yāvakālikena sattāhakālikaṁ, na nu kho kappati? Kappati nu kho yāvakālikena yāvajīvikaṁ, na nu kho kappati? Kappati nu kho yāmakālikena sattāhakālikaṁ, na nu kho kappati? Kappati nu kho yāmakālikena yāvajīvikaṁ, na nu kho kappati? Kappati nu kho sattāhakālikena yāvajīvikaṁ, na nu kho kappatī”ti? Bhagavato etamatthaṁ ārocesuṁ.
+
+40.3\. “Yāvakālikena, bhikkhave, yāmakālikaṁ, tadahu paṭiggahitaṁ kāle kappati, vikāle na kappati. Yāvakālikena, bhikkhave, sattāhakālikaṁ, tadahu paṭiggahitaṁ kāle kappati, vikāle na kappati. Yāvakālikena, bhikkhave, yāvajīvikaṁ, tadahu paṭiggahitaṁ kāle kappati, vikāle na kappati. Yāmakālikena, bhikkhave, sattāhakālikaṁ, tadahu paṭiggahitaṁ yāme kappati, yāmātikkante na kappati. Yāmakālikena, bhikkhave, yāvajīvikaṁ, tadahu paṭiggahitaṁ yāme kappati, yāmātikkante na kappati. Sattāhakālikena, bhikkhave, yāvajīvikaṁ paṭiggahitaṁ, sattāhaṁ kappati, sattāhātikkante na kappatī”ti.
+
+Bhesajjakkhandhako chaṭṭho.
+
+Tassuddānaṁ
+
+> Sāradike vikālepi,\
+> vasaṁ mūle piṭṭhehi ca;\
+> Kasāvehi paṇṇaṁ phalaṁ,\
+> jatu loṇaṁ chakaṇañca.\
+> Cuṇṇaṁ cālini maṁsañca,\
+> añjanaṁ upapisanī;\
+> Añjanī uccāpārutā,\
+> salākā salākaṭhāniṁ.\
+> Thavikaṁsabaddhakaṁ suttaṁ,\
+> Muddhanitelanatthu ca;\
+> Natthukaraṇī dhūmañca,\
+> Nettañcāpidhanatthavi.\
+> Telapākesu majjañca,\
+> atikkhittaṁ abbhañjanaṁ;\
+> Tumbaṁ sedaṁ sambhārañca,\
+> mahā bhaṅgodakaṁ tathā.\
+> Dakakoṭṭhaṁ lohitañca,\
+> visāṇaṁ pādabbhañjanaṁ;\
+> Pajjaṁ satthaṁ kasāvañca,\
+> tilakakkaṁ kabaḷikaṁ.\
+> Coḷaṁ sāsapakuṭṭañca,\
+> dhūma sakkharikāya ca;\
+> Vaṇatelaṁ vikāsikaṁ,\
+> vikaṭañca paṭiggahaṁ.\
+> Gūthaṁ karonto loḷiñca,\
+> khāraṁ muttaharītakaṁ;\
+> Gandhā virecanañceva,\
+> acchākaṭaṁ kaṭākaṭaṁ.\
+> Paṭicchādani pabbhārā,\
+> ārāma sattāhena ca;\
+> Guḷaṁ muggaṁ sovīrañca,\
+> sāmaṁpākā punāpace.\
+> Punānuññāsi dubbhikkhe,\
+> phalañca tilakhādanī;\
+> Purebhattaṁ kāyaḍāho,\
+> nibbattañca bhagandalaṁ.\
+> Vatthikammañca suppiñca,\
+> manussamaṁsameva ca;\
+> Hatthiassā sunakho ca,\
+> ahi sīhañca dīpikaṁ.\
+> Acchataracchamaṁsañca,\
+> paṭipāṭi ca yāgu ca;\
+> Taruṇaṁ aññatra guḷaṁ,\
+> sunidhāvasathāgāraṁ.\
+> Gaṅgā koṭisaccakathā,\
+> ambapālī ca licchavī;\
+> Uddissa kataṁ subhikkhaṁ,\
+> punadeva paṭikkhipi.\
+> Megho yaso meṇḍako ca,\
+> Gorasaṁ pātheyyakena ca;\
+> Keṇi ambo jambu coca,\
+> Mocamadhumuddikasālukaṁ.\
+> Phārusakā ḍākapiṭṭhaṁ,\
+> ātumāyaṁ nahāpito;\
+> Sāvatthiyaṁ phalaṁ bījaṁ,\
+> kismiṁ ṭhāne ca kāliketi.
+
+Imamhi khandhake vatthū ekasataṁ chavatthu.
+
+Bhesajjakkhandhako niṭṭhito.

@@ -4,17 +4,17 @@
 
 # 46. Bhojanadānasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī naṭānampi naṭakānampi laṅghakānampi sokajjhāyikānampi kumbhathūṇikānampi sahatthā khādanīyaṁ bhojanīyaṁ deti— “mayhaṁ parisati vaṇṇaṁ bhāsathā”ti. Naṭāpi naṭakāpi laṅghakāpi sokajjhāyikāpi kumbhathūṇikāpi thullanandāya bhikkhuniyā parisati vaṇṇaṁ bhāsanti— “ayyā thullanandā bahussutā bhāṇikā visāradā paṭṭā dhammiṁ kathaṁ kātuṁ; detha ayyāya, karotha ayyāyā”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī naṭānampi naṭakānampi laṅghakānampi sokajjhāyikānampi kumbhathūṇikānampi sahatthā khādanīyaṁ bhojanīyaṁ deti— “mayhaṁ parisati vaṇṇaṁ bhāsathā”ti. Naṭāpi naṭakāpi laṅghakāpi sokajjhāyikāpi kumbhathūṇikāpi thullanandāya bhikkhuniyā parisati vaṇṇaṁ bhāsanti— “ayyā thullanandā bahussutā bhāṇikā visāradā paṭṭā dhammiṁ kathaṁ kātuṁ; detha ayyāya, karotha ayyāyā”ti.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā agārikassa sahatthā khādanīyaṁ bhojanīyaṁ dassatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī agārikassa sahatthā khādanīyaṁ bhojanīyaṁ detī”ti?
+1.7\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā agārikassa sahatthā khādanīyaṁ bhojanīyaṁ dassatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī agārikassa sahatthā khādanīyaṁ bhojanīyaṁ detī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.10\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī agārikassa sahatthā khādanīyaṁ bhojanīyaṁ dassati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.11\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī agārikassa sahatthā khādanīyaṁ bhojanīyaṁ dassati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dadeyya, pācittiyan”ti.
+1.15\. “Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dadeyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -46,6 +46,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 > kāyena vā kāyapaṭibaddhena vā nissaggiyena vā deti, āpatti pācittiyassa. Udakadantaponaṁ deti, āpatti dukkaṭassa.
 
-Anāpatti— dāpeti na deti, upanikkhipitvā deti, bāhirālepaṁ deti, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— dāpeti na deti, upanikkhipitvā deti, bāhirālepaṁ deti, ummattikāya, ādikammikāyāti.
 
 Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.
