@@ -4,7 +4,7 @@
 
 # 22. Ūnapañcabandhanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Tena kho pana samayena aññatarena kumbhakārena bhikkhū pavāritā honti— “yesaṁ ayyānaṁ pattena attho ahaṁ pattenā”ti. Tena kho pana samayena bhikkhū na mattaṁ jānitvā bahū patte viññāpenti. Yesaṁ khuddakā pattā te mahante patte viññāpenti. Yesaṁ mahantā pattā te khuddake patte viññāpenti. Atha kho so kumbhakāro bhikkhūnaṁ bahū patte karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadārāpissa kilamanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā na mattaṁ jānitvā bahū patte viññāpessanti. Ayaṁ imesaṁ bahū patte karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadārāpissa kilamantī”ti.
+1.1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Tena kho pana samayena aññatarena kumbhakārena bhikkhū pavāritā honti— “yesaṁ ayyānaṁ pattena attho ahaṁ pattenā”ti. Tena kho pana samayena bhikkhū na mattaṁ jānitvā bahū patte viññāpenti. Yesaṁ khuddakā pattā te mahante patte viññāpenti. Yesaṁ mahantā pattā te khuddake patte viññāpenti. Atha kho so kumbhakāro bhikkhūnaṁ bahū patte karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadārāpissa kilamanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā na mattaṁ jānitvā bahū patte viññāpessanti. Ayaṁ imesaṁ bahū patte karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadārāpissa kilamantī”ti.
 
 Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhū na mattaṁ jānitvā bahū patte viññāpessantī”ti.
 
@@ -16,13 +16,13 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma te, bhikkhave, moghapurisā na
 
 “na, bhikkhave, patto viññāpetabbo. Yo viññāpeyya, āpatti dukkaṭassā”ti.
 
-Tena kho pana samayena aññatarassa bhikkhuno patto bhinno hoti. Atha kho so bhikkhu—“bhagavatā paṭikkhittaṁ pattaṁ viññāpetun”ti kukkuccāyanto na viññāpeti. Hatthesu piṇḍāya carati. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā hatthesu piṇḍāya carissanti, seyyathāpi titthiyā”ti.
+1.2\. Tena kho pana samayena aññatarassa bhikkhuno patto bhinno hoti. Atha kho so bhikkhu—“bhagavatā paṭikkhittaṁ pattaṁ viññāpetun”ti kukkuccāyanto na viññāpeti. Hatthesu piṇḍāya carati. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā hatthesu piṇḍāya carissanti, seyyathāpi titthiyā”ti.
 
 Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
 “anujānāmi, bhikkhave, naṭṭhapattassa vā bhinnapattassa vā pattaṁ viññāpetun”ti.
 
-Tena kho pana samayena chabbaggiyā bhikkhū—“bhagavatā anuññātaṁ naṭṭhapattassa vā bhinnapattassa vā pattaṁ viññāpetun”ti appamattakenapi bhinnena appamattakenapi khaṇḍena vilikhitamattenapi bahū patte viññāpenti. Atha kho so kumbhakāro bhikkhūnaṁ tatheva bahū patte karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadārāpissa kilamanti. Manussā tatheva ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā na mattaṁ jānitvā bahū patte viññāpessanti. Ayaṁ imesaṁ bahū patte karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadārāpissa kilamantī”ti.
+1.3\. Tena kho pana samayena chabbaggiyā bhikkhū—“bhagavatā anuññātaṁ naṭṭhapattassa vā bhinnapattassa vā pattaṁ viññāpetun”ti appamattakenapi bhinnena appamattakenapi khaṇḍena vilikhitamattenapi bahū patte viññāpenti. Atha kho so kumbhakāro bhikkhūnaṁ tatheva bahū patte karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadārāpissa kilamanti. Manussā tatheva ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā na mattaṁ jānitvā bahū patte viññāpessanti. Ayaṁ imesaṁ bahū patte karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadārāpissa kilamantī”ti.
 
 Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū appamattakenapi bhinnena appamattakenapi khaṇḍena vilikhitamattenapi bahū patte viññāpessantī”ti.
 
@@ -34,7 +34,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, appamatta
 
 “Yo pana bhikkhu ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tena bhikkhunā so patto bhikkhuparisāya nissajjitabbo. Yo ca tassā bhikkhuparisāya pattapariyanto so tassa bhikkhuno padātabbo— ‘ayaṁ te, bhikkhu, patto yāva bhedanāya dhāretabbo’ti. Ayaṁ tattha sāmīcī”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -94,7 +94,7 @@ Apattakassa na gāhetabbo. Eteneva upāyena yāva saṅghanavakā gāhetabbo.
 
 > ayaṁ tattha anudhammatā.
 
-Abandhanena pattena abandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Abandhanena pattena ekabandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Abandhanena pattena dvibandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Abandhanena pattena tibandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Abandhanena pattena catubandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ.
+2.2\. Abandhanena pattena abandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Abandhanena pattena ekabandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Abandhanena pattena dvibandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Abandhanena pattena tibandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Abandhanena pattena catubandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ.
 
 Ekabandhanena pattena abandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Ekabandhanena pattena ekabandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Ekabandhanena pattena dvibandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Ekabandhanena pattena tibandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ. Ekabandhanena pattena catubandhanaṁ pattaṁ cetāpeti, nissaggiyaṁ pācittiyaṁ.
 

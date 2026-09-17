@@ -4,7 +4,7 @@
 
 # 56. Jotikasikkhāpada
 
-1\. Tena samayena buddho bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye. Tena kho pana samayena bhikkhū hemantike kāle aññataraṁ mahantaṁ susirakaṭṭhaṁ jotiṁ samādahitvā visibbesuṁ. Tasmiñca susire kaṇhasappo agginā santatto nikkhamitvā bhikkhū paripātesi. Bhikkhū tahaṁ tahaṁ upadhāviṁsu.
+1.1\. Tena samayena buddho bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye. Tena kho pana samayena bhikkhū hemantike kāle aññataraṁ mahantaṁ susirakaṭṭhaṁ jotiṁ samādahitvā visibbesuṁ. Tasmiñca susire kaṇhasappo agginā santatto nikkhamitvā bhikkhū paripātesi. Bhikkhū tahaṁ tahaṁ upadhāviṁsu.
 
 Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhū jotiṁ samādahitvā visibbessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhū jotiṁ samādahitvā visibbentī”ti?
 
@@ -16,7 +16,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma te, bhikkhave, moghapurisā jo
 
 Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
-Tena kho pana samayena bhikkhū gilānā honti. Gilānapucchakā bhikkhū gilāne bhikkhū etadavocuṁ— “kaccāvuso, khamanīyaṁ, kacci yāpanīyan”ti?
+1.2\. Tena kho pana samayena bhikkhū gilānā honti. Gilānapucchakā bhikkhū gilāne bhikkhū etadavocuṁ— “kaccāvuso, khamanīyaṁ, kacci yāpanīyan”ti?
 
 “Pubbe mayaṁ, āvuso, jotiṁ samādahitvā visibbema; tena no phāsu hoti. Idāni pana ‘bhagavatā paṭikkhittan’ti kukkuccāyantā na visibbema, tena no na phāsu hotī”ti.
 
@@ -30,15 +30,15 @@ Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
 Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
-2\. Tena kho pana samayena bhikkhū padīpepi jotikepi jantāgharepi kukkuccāyanti. Bhagavato etamatthaṁ ārocesuṁ …pe…
+2.1\. Tena kho pana samayena bhikkhū padīpepi jotikepi jantāgharepi kukkuccāyanti. Bhagavato etamatthaṁ ārocesuṁ …pe…
 
-anujānāmi, bhikkhave, tathārūpappaccayā jotiṁ samādahituṁ samādahāpetuṁ.
+2.3\. anujānāmi, bhikkhave, tathārūpappaccayā jotiṁ samādahituṁ samādahāpetuṁ.
 
-Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+2.4\. Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu agilāno visibbanāpekkho jotiṁ samādaheyya vā samādahāpeyya vā, aññatra tathārūpappaccayā, pācittiyan”ti.
+2.5\. “Yo pana bhikkhu agilāno visibbanāpekkho jotiṁ samādaheyya vā samādahāpeyya vā, aññatra tathārūpappaccayā, pācittiyan”ti.
 
-3\. **Yo panāti**
+3.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -74,10 +74,10 @@ Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
 > ṭhapetvā tathārūpappaccayaṁ.
 
-Agilāno agilānasaññī visibbanāpekkho jotiṁ samādahati vā samādahāpeti vā, aññatra tathārūpappaccayā, āpatti pācittiyassa. Agilāno vematiko visibbanāpekkho jotiṁ samādahati vā samādahāpeti vā, aññatra tathārūpappaccayā, āpatti pācittiyassa. Agilāno gilānasaññī visibbanāpekkho jotiṁ samādahati vā samādahāpeti vā, aññatra tathārūpappaccayā, āpatti pācittiyassa.
+3.2\. Agilāno agilānasaññī visibbanāpekkho jotiṁ samādahati vā samādahāpeti vā, aññatra tathārūpappaccayā, āpatti pācittiyassa. Agilāno vematiko visibbanāpekkho jotiṁ samādahati vā samādahāpeti vā, aññatra tathārūpappaccayā, āpatti pācittiyassa. Agilāno gilānasaññī visibbanāpekkho jotiṁ samādahati vā samādahāpeti vā, aññatra tathārūpappaccayā, āpatti pācittiyassa.
 
 Paṭilātaṁ ukkhipati, āpatti dukkaṭassa. Gilāno agilānasaññī, āpatti dukkaṭassa. Gilāno vematiko, āpatti dukkaṭassa. Gilāno gilānasaññī, anāpatti.
 
-Anāpatti— gilānassa, aññena kataṁ visibbeti, vītaccitaṅgāraṁ visibbeti, padīpe jotike jantāghare tathārūpappaccayā, āpadāsu, ummattakassa, ādikammikassāti.
+3.3\. Anāpatti— gilānassa, aññena kataṁ visibbeti, vītaccitaṅgāraṁ visibbeti, padīpe jotike jantāghare tathārūpappaccayā, āpadāsu, ummattakassa, ādikammikassāti.
 
 Jotikasikkhāpadaṁ niṭṭhitaṁ chaṭṭhaṁ.

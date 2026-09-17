@@ -91,9 +91,9 @@
 > Sattasatikaṁ vissajjissaṁ sanidānaṁ saniddesaṁ,\
 > Samukkaṭṭhapadānaṁ natthi tattha āpattīti.
 
-23\. Khandhakapucchāvāro niṭṭhito paṭhamo.
+23.1\. Khandhakapucchāvāro niṭṭhito paṭhamo.
 
-24\. Tassuddānaṁ
+24.1\. Tassuddānaṁ
 
 > Upasampadūposatho,\
 > Vassūpanāyikapavāraṇā;\

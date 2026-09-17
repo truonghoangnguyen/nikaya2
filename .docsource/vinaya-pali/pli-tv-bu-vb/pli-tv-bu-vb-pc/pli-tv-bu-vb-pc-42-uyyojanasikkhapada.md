@@ -4,17 +4,17 @@
 
 # 42. Uyyojanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto bhātuno saddhivihārikaṁ bhikkhuṁ etadavoca— “ehāvuso, gāmaṁ piṇḍāya pavisissāmā”ti. Tassa adāpetvā uyyojesi— “gacchāvuso, na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”ti. Atha kho so bhikkhu upakaṭṭhe kāle nāsakkhi piṇḍāya carituṁ, paṭikkamanepi bhattavissaggaṁ na sambhāvesi, chinnabhatto ahosi.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto bhātuno saddhivihārikaṁ bhikkhuṁ etadavoca— “ehāvuso, gāmaṁ piṇḍāya pavisissāmā”ti. Tassa adāpetvā uyyojesi— “gacchāvuso, na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī”ti. Atha kho so bhikkhu upakaṭṭhe kāle nāsakkhi piṇḍāya carituṁ, paṭikkamanepi bhattavissaggaṁ na sambhāvesi, chinnabhatto ahosi.
 
-Atha kho so bhikkhu ārāmaṁ gantvā bhikkhūnaṁ etamatthaṁ ārocesi. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā upanando sakyaputto bhikkhuṁ—‘ehāvuso, gāmaṁ piṇḍāya pavisissāmā’ti tassa adāpetvā uyyojessatī”ti …pe… “saccaṁ kira tvaṁ, upananda, bhikkhuṁ—‘ehāvuso, gāmaṁ piṇḍāya pavisissāmā’ti tassa adāpetvā uyyojesī”ti?
+1.7\. Atha kho so bhikkhu ārāmaṁ gantvā bhikkhūnaṁ etamatthaṁ ārocesi. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā upanando sakyaputto bhikkhuṁ—‘ehāvuso, gāmaṁ piṇḍāya pavisissāmā’ti tassa adāpetvā uyyojessatī”ti …pe… “saccaṁ kira tvaṁ, upananda, bhikkhuṁ—‘ehāvuso, gāmaṁ piṇḍāya pavisissāmā’ti tassa adāpetvā uyyojesī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.11\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhuṁ—“ehāvuso, gāmaṁ piṇḍāya pavisissāmā”ti tassa adāpetvā uyyojessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.12\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhuṁ—“ehāvuso, gāmaṁ piṇḍāya pavisissāmā”ti tassa adāpetvā uyyojessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu bhikkhuṁ—‘ehāvuso, gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā’ti tassa dāpetvā vā adāpetvā vā uyyojeyya— ‘gacchāvuso, na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī’ti, etadeva paccayaṁ karitvā anaññaṁ, pācittiyan”ti.
+1.16\. “Yo pana bhikkhu bhikkhuṁ—‘ehāvuso, gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā’ti tassa dāpetvā vā adāpetvā vā uyyojeyya— ‘gacchāvuso, na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti, ekakassa me kathā vā nisajjā vā phāsu hotī’ti, etadeva paccayaṁ karitvā anaññaṁ, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo, yādiso …pe…
 
@@ -46,12 +46,12 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhu�
 
 > na añño koci paccayo hoti uyyojetuṁ.
 
-Upasampanne upasampannasaññī uyyojeti, āpatti pācittiyassa. Upasampanne vematiko uyyojeti, āpatti pācittiyassa. Upasampanne anupasampannasaññī uyyojeti, āpatti pācittiyassa.
+2.2\. Upasampanne upasampannasaññī uyyojeti, āpatti pācittiyassa. Upasampanne vematiko uyyojeti, āpatti pācittiyassa. Upasampanne anupasampannasaññī uyyojeti, āpatti pācittiyassa.
 
 Kalisāsanaṁ āropeti, āpatti dukkaṭassa. Anupasampannaṁ uyyojeti, āpatti dukkaṭassa. Kalisāsanaṁ āropeti, āpatti dukkaṭassa.
 
 Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko, āpatti dukkaṭassa. Anupasampanne anupasampannasaññī, āpatti dukkaṭassa.
 
-Anāpatti— “ubho ekato na yāpessāmā”ti uyyojeti, “mahagghaṁ bhaṇḍaṁ passitvā lobhadhammaṁ uppādessatī”ti uyyojeti, “mātugāmaṁ passitvā anabhiratiṁ uppādessatī”ti uyyojeti, “gilānassa vā ohiyyakassa vā vihārapālassa vā yāguṁ vā bhattaṁ vā khādanīyaṁ vā bhojanīyaṁ vā nīharā”ti uyyojeti, na anācāraṁ ācaritukāmo, sati karaṇīye uyyojeti, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— “ubho ekato na yāpessāmā”ti uyyojeti, “mahagghaṁ bhaṇḍaṁ passitvā lobhadhammaṁ uppādessatī”ti uyyojeti, “mātugāmaṁ passitvā anabhiratiṁ uppādessatī”ti uyyojeti, “gilānassa vā ohiyyakassa vā vihārapālassa vā yāguṁ vā bhattaṁ vā khādanīyaṁ vā bhojanīyaṁ vā nīharā”ti uyyojeti, na anācāraṁ ācaritukāmo, sati karaṇīye uyyojeti, ummattakassa, ādikammikassāti.
 
 Uyyojanasikkhāpadaṁ niṭṭhitaṁ dutiyaṁ.

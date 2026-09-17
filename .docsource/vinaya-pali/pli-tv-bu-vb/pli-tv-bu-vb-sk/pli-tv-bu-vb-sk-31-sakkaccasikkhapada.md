@@ -4,12 +4,12 @@
 
 # 31. Sakkaccasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū asakkaccaṁ piṇḍapātaṁ bhuñjanti abhuñjitukāmā viya …pe….
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū asakkaccaṁ piṇḍapātaṁ bhuñjanti abhuñjitukāmā viya …pe….
 
-“Sakkaccaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā”ti.
+1.3\. “Sakkaccaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā”ti.
 
-Sakkaccaṁ piṇḍapāto bhuñjitabbo. Yo anādariyaṁ paṭicca asakkaccaṁ piṇḍapātaṁ bhuñjati, āpatti dukkaṭassa.
+1.4\. Sakkaccaṁ piṇḍapāto bhuñjitabbo. Yo anādariyaṁ paṭicca asakkaccaṁ piṇḍapātaṁ bhuñjati, āpatti dukkaṭassa.
 
-Anāpatti— asañcicca, assatiyā, ajānantassa, gilānassa, āpadāsu, ummattakassa, ādikammikassāti.
+1.6\. Anāpatti— asañcicca, assatiyā, ajānantassa, gilānassa, āpadāsu, ummattakassa, ādikammikassāti.
 
-Paṭhamasikkhāpadaṁ niṭṭhitaṁ.
+1.14\. Paṭhamasikkhāpadaṁ niṭṭhitaṁ.

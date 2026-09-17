@@ -4,7 +4,7 @@
 
 # 30. Kathinuddhārasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññatarena upāsakena saṅghaṁ uddissa vihāro kārāpito hoti. So tassa vihārassa mahe ubhatosaṅghassa akālacīvaraṁ dātukāmo hoti. Tena kho pana samayena ubhatosaṅghassa kathinaṁ atthataṁ hoti. Atha kho so upāsako saṅghaṁ upasaṅkamitvā kathinuddhāraṁ yāci.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññatarena upāsakena saṅghaṁ uddissa vihāro kārāpito hoti. So tassa vihārassa mahe ubhatosaṅghassa akālacīvaraṁ dātukāmo hoti. Tena kho pana samayena ubhatosaṅghassa kathinaṁ atthataṁ hoti. Atha kho so upāsako saṅghaṁ upasaṅkamitvā kathinuddhāraṁ yāci.
 
 Bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
@@ -18,7 +18,7 @@ Suṇātu me, bhante, saṅgho. Saṅgho kathinaṁ uddharati. Yassāyasmato kha
 
 Ubbhataṁ saṅghena kathinaṁ, khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
 
-Atha kho so upāsako bhikkhunisaṅghaṁ upasaṅkamitvā kathinuddhāraṁ yāci. Thullanandā bhikkhunī— “cīvaraṁ amhākaṁ bhavissatī”ti kathinuddhāraṁ paṭibāhi. Atha kho so upāsako ujjhāyati khiyyati vipāceti— “kathañhi nāma bhikkhuniyo amhākaṁ kathinuddhāraṁ na dassantī”ti.
+1.2\. Atha kho so upāsako bhikkhunisaṅghaṁ upasaṅkamitvā kathinuddhāraṁ yāci. Thullanandā bhikkhunī— “cīvaraṁ amhākaṁ bhavissatī”ti kathinuddhāraṁ paṭibāhi. Atha kho so upāsako ujjhāyati khiyyati vipāceti— “kathañhi nāma bhikkhuniyo amhākaṁ kathinuddhāraṁ na dassantī”ti.
 
 Assosuṁ kho bhikkhuniyo tassa upāsakassa ujjhāyantassa khiyyantassa vipācentassa. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā dhammikaṁ kathinuddhāraṁ paṭibāhissatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī dhammikaṁ kathinuddhāraṁ paṭibāhatī”ti?
 
@@ -28,7 +28,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 “Yā pana bhikkhunī dhammikaṁ kathinuddhāraṁ paṭibāheyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -48,7 +48,7 @@ Dhammike dhammikasaññā paṭibāhati, āpatti pācittiyassa. Dhammike vematik
 
 Adhammike dhammikasaññā, āpatti dukkaṭassa. Adhammike vematikā, āpatti dukkaṭassa. Adhammike adhammikasaññā, anāpatti.
 
-Anāpatti— ānisaṁsaṁ dassetvā paṭibāhati, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— ānisaṁsaṁ dassetvā paṭibāhati, ummattikāya, ādikammikāyāti.
 
 Dasamasikkhāpadaṁ niṭṭhitaṁ.
 

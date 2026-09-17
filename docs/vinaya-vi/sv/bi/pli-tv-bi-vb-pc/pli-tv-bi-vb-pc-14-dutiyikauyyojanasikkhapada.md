@@ -4,17 +4,17 @@
 
 # 14. Dutiyikauyyojanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī rathikāyapi byūhepi siṅghāṭakepi purisena saddhiṁ ekenekā santiṭṭhatipi sallapatipi nikaṇṇikampi jappeti dutiyikampi bhikkhuniṁ uyyojeti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī rathikāyapi byūhepi siṅghāṭakepi purisena saddhiṁ ekenekā santiṭṭhatipi sallapatipi nikaṇṇikampi jappeti dutiyikampi bhikkhuniṁ uyyojeti.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā rathikāyapi byūhepi siṅghāṭakepi purisena saddhiṁ ekenekā santiṭṭhissatipi sallapissatipi nikaṇṇikampi jappissati dutiyikampi bhikkhuniṁ uyyojessatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī rathikāyapi byūhepi siṅghāṭakepi purisena saddhiṁ ekenekā santiṭṭhatipi sallapatipi nikaṇṇikampi jappeti dutiyikampi bhikkhuniṁ uyyojetī”ti?
+1.3\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā rathikāyapi byūhepi siṅghāṭakepi purisena saddhiṁ ekenekā santiṭṭhissatipi sallapissatipi nikaṇṇikampi jappissati dutiyikampi bhikkhuniṁ uyyojessatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī rathikāyapi byūhepi siṅghāṭakepi purisena saddhiṁ ekenekā santiṭṭhatipi sallapatipi nikaṇṇikampi jappeti dutiyikampi bhikkhuniṁ uyyojetī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.6\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī rathikāyapi byūhepi siṅghāṭakepi purisena saddhiṁ ekenekā santiṭṭhissatipi sallapissatipi nikaṇṇikampi jappissati dutiyikampi bhikkhuniṁ uyyojessati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.7\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī rathikāyapi byūhepi siṅghāṭakepi purisena saddhiṁ ekenekā santiṭṭhissatipi sallapissatipi nikaṇṇikampi jappissati dutiyikampi bhikkhuniṁ uyyojessati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā nikaṇṇikaṁ vā jappeyya dutiyikaṁ vā bhikkhuniṁ uyyojeyya, pācittiyan”ti.
+1.11\. “Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā nikaṇṇikaṁ vā jappeyya dutiyikaṁ vā bhikkhuniṁ uyyojeyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -62,7 +62,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 > anācāraṁ ācaritukāmā dutiyikampi bhikkhuniṁ uyyojeti, āpatti dukkaṭassa. Dassanūpacāraṁ vā savanūpacāraṁ vā vijahantiyā āpatti dukkaṭassa. Vijahite āpatti pācittiyassa.
 
-Hatthapāsaṁ vijahitvā santiṭṭhati vā sallapati vā āpatti dukkaṭassa. Yakkhena vā petena vā paṇḍakena vā tiracchānagatamanussaviggahena vā saddhiṁ santiṭṭhati vā sallapati vā, āpatti dukkaṭassa.
+2.2\. Hatthapāsaṁ vijahitvā santiṭṭhati vā sallapati vā āpatti dukkaṭassa. Yakkhena vā petena vā paṇḍakena vā tiracchānagatamanussaviggahena vā saddhiṁ santiṭṭhati vā sallapati vā, āpatti dukkaṭassa.
 
 Anāpatti— yo koci viññū dutiyo hoti, arahopekkhā, aññavihitā santiṭṭhati vā sallapati vā, na anācāraṁ ācaritukāmā, sati karaṇīye dutiyikaṁ bhikkhuniṁ uyyojeti, ummattikāya, ādikammikāyāti.
 

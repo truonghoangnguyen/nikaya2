@@ -4,15 +4,15 @@
 
 # 20. Rodanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena caṇḍakāḷī bhikkhunī bhikkhunīhi saddhiṁ bhaṇḍitvā attānaṁ vadhitvā vadhitvā rodati. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā caṇḍakāḷī attānaṁ vadhitvā vadhitvā rodissatī”ti …pe… “saccaṁ kira, bhikkhave, caṇḍakāḷī bhikkhunī attānaṁ vadhitvā vadhitvā rodatī”ti?
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena caṇḍakāḷī bhikkhunī bhikkhunīhi saddhiṁ bhaṇḍitvā attānaṁ vadhitvā vadhitvā rodati. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā caṇḍakāḷī attānaṁ vadhitvā vadhitvā rodissatī”ti …pe… “saccaṁ kira, bhikkhave, caṇḍakāḷī bhikkhunī attānaṁ vadhitvā vadhitvā rodatī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.6\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, caṇḍakāḷī bhikkhunī attānaṁ vadhitvā vadhitvā rodissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.7\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, caṇḍakāḷī bhikkhunī attānaṁ vadhitvā vadhitvā rodissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī attānaṁ vadhitvā vadhitvā rodeyya, pācittiyan”ti.
+1.11\. “Yā pana bhikkhunī attānaṁ vadhitvā vadhitvā rodeyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -26,7 +26,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, caṇḍakāḷī 
 
 Vadhitvā vadhitvā rodati, āpatti pācittiyassa. Vadhati na rodati, āpatti dukkaṭassa. Rodati na vadhati, āpatti dukkaṭassa.
 
-Anāpatti— ñātibyasanena vā bhogabyasanena vā rogabyasanena vā phuṭṭhā rodati na vadhati, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— ñātibyasanena vā bhogabyasanena vā rogabyasanena vā phuṭṭhā rodati na vadhati, ummattikāya, ādikammikāyāti.
 
 Dasamasikkhāpadaṁ niṭṭhitaṁ.
 

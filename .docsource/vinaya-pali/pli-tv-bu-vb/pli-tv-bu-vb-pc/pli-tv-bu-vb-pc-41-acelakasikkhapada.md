@@ -4,7 +4,7 @@
 
 # 41. Acelakasikkhāpada
 
-1\. Tena samayena buddho bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena saṅghassa khādanīyaṁ ussannaṁ hoti. Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi. “Tenahānanda, vighāsādānaṁ pūvaṁ dehī”ti.
+1.1\. Tena samayena buddho bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena saṅghassa khādanīyaṁ ussannaṁ hoti. Atha kho āyasmā ānando bhagavato etamatthaṁ ārocesi. “Tenahānanda, vighāsādānaṁ pūvaṁ dehī”ti.
 
 “Evaṁ, bhante”ti kho āyasmā ānando bhagavato paṭissuṇitvā vighāsāde paṭipāṭiyā nisīdāpetvā ekekaṁ pūvaṁ dento aññatarissā paribbājikāya ekaṁ maññamāno dve pūve adāsi. Sāmantā paribbājikāyo taṁ paribbājikaṁ etadavocuṁ—“jāro te eso samaṇo”ti.
 
@@ -16,7 +16,7 @@ Dutiyampi kho …pe… tatiyampi kho āyasmā ānando ekekaṁ pūvaṁ dento ta
 
 “Jāro na jāro”ti bhaṇḍiṁsu.
 
-Aññataropi ājīvako parivesanaṁ agamāsi. Aññataro bhikkhu pahūtena sappinā odanaṁ madditvā tassa ājīvakassa mahantaṁ piṇḍaṁ adāsi. Atha kho so ājīvako taṁ piṇḍaṁ ādāya agamāsi. Aññataro ājīvako taṁ ājīvakaṁ etadavoca—“kuto tayā, āvuso, piṇḍo laddho”ti?
+1.2\. Aññataropi ājīvako parivesanaṁ agamāsi. Aññataro bhikkhu pahūtena sappinā odanaṁ madditvā tassa ājīvakassa mahantaṁ piṇḍaṁ adāsi. Atha kho so ājīvako taṁ piṇḍaṁ ādāya agamāsi. Aññataro ājīvako taṁ ājīvakaṁ etadavoca—“kuto tayā, āvuso, piṇḍo laddho”ti?
 
 “Tassāvuso, samaṇassa gotamassa muṇḍagahapatikassa parivesanāya laddho”ti.
 
@@ -26,7 +26,7 @@ Atha kho bhagavā te upāsake dhammiyā kathāya sandassesi samādapesi samuttej
 
 “Yo pana bhikkhu acelakassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dadeyya, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -58,10 +58,10 @@ Atha kho bhagavā te upāsake dhammiyā kathāya sandassesi samādapesi samuttej
 
 > kāyena vā kāyapaṭibaddhena vā nissaggiyena vā deti, āpatti pācittiyassa.
 
-Titthiye titthiyasaññī sahatthā khādanīyaṁ vā bhojanīyaṁ vā deti, āpatti pācittiyassa. Titthiye vematiko sahatthā khādanīyaṁ vā bhojanīyaṁ vā deti, āpatti pācittiyassa. Titthiye atitthiyasaññī sahatthā khādanīyaṁ vā bhojanīyaṁ vā deti, āpatti pācittiyassa.
+2.2\. Titthiye titthiyasaññī sahatthā khādanīyaṁ vā bhojanīyaṁ vā deti, āpatti pācittiyassa. Titthiye vematiko sahatthā khādanīyaṁ vā bhojanīyaṁ vā deti, āpatti pācittiyassa. Titthiye atitthiyasaññī sahatthā khādanīyaṁ vā bhojanīyaṁ vā deti, āpatti pācittiyassa.
 
 Udakadantaponaṁ deti, āpatti dukkaṭassa. Atitthiye titthiyasaññī, āpatti dukkaṭassa. Atitthiye vematiko, āpatti dukkaṭassa. Atitthiye atitthiyasaññī, anāpatti.
 
-Anāpatti— dāpeti na deti, upanikkhipitvā deti, bāhirālepaṁ deti, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— dāpeti na deti, upanikkhipitvā deti, bāhirālepaṁ deti, ummattakassa, ādikammikassāti.
 
 Acelakasikkhāpadaṁ niṭṭhitaṁ paṭhamaṁ.

@@ -4,17 +4,17 @@
 
 # 8. Aṭṭhavatthukāsikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo avassutā avassutassa purisapuggalassa hatthaggahaṇampi sādiyanti, saṅghāṭikaṇṇaggahaṇampi sādiyanti, santiṭṭhantipi, sallapantipi, saṅketampi gacchanti, purisassapi abbhāgamanaṁ sādiyanti, channampi anupavisanti, kāyampi tadatthāya upasaṁharanti etassa asaddhammassa paṭisevanatthāya.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo avassutā avassutassa purisapuggalassa hatthaggahaṇampi sādiyanti, saṅghāṭikaṇṇaggahaṇampi sādiyanti, santiṭṭhantipi, sallapantipi, saṅketampi gacchanti, purisassapi abbhāgamanaṁ sādiyanti, channampi anupavisanti, kāyampi tadatthāya upasaṁharanti etassa asaddhammassa paṭisevanatthāya.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo avassutā avassutassa purisapuggalassa hatthaggahaṇampi sādiyissanti, saṅghāṭikaṇṇaggahaṇampi sādiyissanti, santiṭṭhissantipi, sallapissantipi, saṅketampi gacchissanti, purisassapi abbhāgamanaṁ sādiyissanti, channampi anupavisissanti, kāyampi tadatthāya upasaṁharissanti etassa asaddhammassa paṭisevanatthāyā”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo avassutā avassutassa purisapuggalassa hatthaggahaṇampi sādiyanti, saṅghāṭikaṇṇaggahaṇampi sādiyanti, santiṭṭhantipi, sallapantipi, saṅketampi gacchanti, purisassapi abbhāgamanaṁ sādiyanti, channampi anupavisanti, kāyampi tadatthāya upasaṁharanti etassa asaddhammassa paṭisevanatthāyā”ti?
+1.3\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo avassutā avassutassa purisapuggalassa hatthaggahaṇampi sādiyissanti, saṅghāṭikaṇṇaggahaṇampi sādiyissanti, santiṭṭhissantipi, sallapissantipi, saṅketampi gacchissanti, purisassapi abbhāgamanaṁ sādiyissanti, channampi anupavisissanti, kāyampi tadatthāya upasaṁharissanti etassa asaddhammassa paṭisevanatthāyā”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo avassutā avassutassa purisapuggalassa hatthaggahaṇampi sādiyanti, saṅghāṭikaṇṇaggahaṇampi sādiyanti, santiṭṭhantipi, sallapantipi, saṅketampi gacchanti, purisassapi abbhāgamanaṁ sādiyanti, channampi anupavisanti, kāyampi tadatthāya upasaṁharanti etassa asaddhammassa paṭisevanatthāyā”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.6\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo avassutā avassutassa purisapuggalassa hatthaggahaṇampi sādiyissanti, saṅghāṭikaṇṇaggahaṇampi sādiyissanti, santiṭṭhissantipi, sallapissantipi, saṅketampi gacchissanti, purisassapi abbhāgamanaṁ sādiyissanti, channampi anupavisissanti, kāyampi tadatthāya upasaṁharissanti etassa asaddhammassa paṭisevanatthāya. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.7\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo avassutā avassutassa purisapuggalassa hatthaggahaṇampi sādiyissanti, saṅghāṭikaṇṇaggahaṇampi sādiyissanti, santiṭṭhissantipi, sallapissantipi, saṅketampi gacchissanti, purisassapi abbhāgamanaṁ sādiyissanti, channampi anupavisissanti, kāyampi tadatthāya upasaṁharissanti etassa asaddhammassa paṭisevanatthāya. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthaggahaṇaṁ vā sādiyeyya, saṅghāṭikaṇṇaggahaṇaṁ vā sādiyeyya, santiṭṭheyya vā, sallapeyya vā, saṅketaṁ vā gaccheyya, purisassa vā abbhāgamanaṁ sādiyeyya, channaṁ vā anupaviseyya, kāyaṁ vā tadatthāya upasaṁhareyya etassa asaddhammassa paṭisevanatthāya, ayampi pārājikā hoti asaṁvāsā aṭṭhavatthukā”ti.
+1.11\. “Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthaggahaṇaṁ vā sādiyeyya, saṅghāṭikaṇṇaggahaṇaṁ vā sādiyeyya, santiṭṭheyya vā, sallapeyya vā, saṅketaṁ vā gaccheyya, purisassa vā abbhāgamanaṁ sādiyeyya, channaṁ vā anupaviseyya, kāyaṁ vā tadatthāya upasaṁhareyya etassa asaddhammassa paṭisevanatthāya, ayampi pārājikā hoti asaṁvāsā aṭṭhavatthukā”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -78,7 +78,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikk
 
 > saṁvāso nāma ekakammaṁ ekuddeso samasikkhatā. Eso saṁvāso nāma. So tāya saddhiṁ natthi. Tena vuccati asaṁvāsāti.
 
-Anāpatti— asañcicca, assatiyā, ajānantiyā, asādiyantiyā, ummattikāya, khittacittāya, vedanāṭṭāya, ādikammikāyāti.
+2.2\. Anāpatti— asañcicca, assatiyā, ajānantiyā, asādiyantiyā, ummattikāya, khittacittāya, vedanāṭṭāya, ādikammikāyāti.
 
 Catutthapārājikaṁ samattaṁ.
 

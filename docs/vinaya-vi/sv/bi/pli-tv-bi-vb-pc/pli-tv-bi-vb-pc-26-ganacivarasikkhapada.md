@@ -4,21 +4,21 @@
 
 # 26. Gaṇacīvarasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandāya bhikkhuniyā upaṭṭhākakulaṁ thullanandaṁ bhikkhuniṁ etadavoca— “bhikkhunisaṅghassa, ayye, cīvaraṁ dassāmā”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandāya bhikkhuniyā upaṭṭhākakulaṁ thullanandaṁ bhikkhuniṁ etadavoca— “bhikkhunisaṅghassa, ayye, cīvaraṁ dassāmā”ti.
 
-Thullanandā bhikkhunī— “tumhe bahukiccā bahukaraṇīyā”ti antarāyaṁ akāsi.
+1.4\. Thullanandā bhikkhunī— “tumhe bahukiccā bahukaraṇīyā”ti antarāyaṁ akāsi.
 
-Tena kho pana samayena tassa kulassa gharaṁ ḍayhati. Te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā amhākaṁ deyyadhammaṁ antarāyaṁ karissati. Ubhayenāmha paribāhirā bhogehi ca puññena cā”ti.
+1.6\. Tena kho pana samayena tassa kulassa gharaṁ ḍayhati. Te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā amhākaṁ deyyadhammaṁ antarāyaṁ karissati. Ubhayenāmha paribāhirā bhogehi ca puññena cā”ti.
 
-Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā gaṇassa cīvaralābhaṁ antarāyaṁ karissatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī gaṇassa cīvaralābhaṁ antarāyaṁ akāsī”ti?
+1.10\. Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā gaṇassa cīvaralābhaṁ antarāyaṁ karissatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī gaṇassa cīvaralābhaṁ antarāyaṁ akāsī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.14\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī gaṇassa cīvaralābhaṁ antarāyaṁ karissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.15\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī gaṇassa cīvaralābhaṁ antarāyaṁ karissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī gaṇassa cīvaralābhaṁ antarāyaṁ kareyya, pācittiyan”ti.
+1.19\. “Yā pana bhikkhunī gaṇassa cīvaralābhaṁ antarāyaṁ kareyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -40,6 +40,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 Aññaṁ parikkhāraṁ antarāyaṁ karoti, āpatti dukkaṭassa. Sambahulānaṁ bhikkhunīnaṁ vā ekabhikkhuniyā vā anupasampannāya vā cīvaraṁ vā aññaṁ vā parikkhāraṁ antarāyaṁ karoti, āpatti dukkaṭassa.
 
-Anāpatti— ānisaṁsaṁ dassetvā nivāreti, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— ānisaṁsaṁ dassetvā nivāreti, ummattikāya, ādikammikāyāti.
 
 Chaṭṭhasikkhāpadaṁ niṭṭhitaṁ.

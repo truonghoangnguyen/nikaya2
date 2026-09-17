@@ -1,3 +1,5 @@
+*KINH PHẬT THUYẾT NHƯ VẬY Itivuttaka*
+
 # Chương Bốn – Bốn Pháp
 
 ## **Phẩm I**

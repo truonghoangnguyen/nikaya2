@@ -4,17 +4,17 @@
 
 # 43. Suttakantanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo suttaṁ kantanti. Manussā vihāracārikaṁ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo suttaṁ kantissanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo suttaṁ kantanti. Manussā vihāracārikaṁ āhiṇḍantā passitvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo suttaṁ kantissanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
 
-Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo suttaṁ kantissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo suttaṁ kantantī”ti?
+1.5\. Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo suttaṁ kantissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo suttaṁ kantantī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo suttaṁ kantissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo suttaṁ kantissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī suttaṁ kanteyya, pācittiyan”ti.
+1.14\. “Yā pana bhikkhunī suttaṁ kanteyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -30,6 +30,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikk
 
 > sayaṁ kantati, payoge dukkaṭaṁ. Ujjavujjave āpatti pācittiyassa.
 
-Anāpatti— kantitasuttaṁ kantati, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— kantitasuttaṁ kantati, ummattikāya, ādikammikāyāti.
 
 Tatiyasikkhāpadaṁ niṭṭhitaṁ.

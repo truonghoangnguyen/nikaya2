@@ -4,19 +4,19 @@
 
 # 4. Padasodhammasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū upāsake padaso dhammaṁ vācenti. Upāsakā bhikkhūsu agāravā appatissā asabhāgavuttikā viharanti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū upāsake padaso dhammaṁ vācenti. Upāsakā bhikkhūsu agāravā appatissā asabhāgavuttikā viharanti.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū upāsake padaso dhammaṁ vācessanti. Upāsakā bhikkhūsu agāravā appatissā asabhāgavuttikā viharantī”ti.
+1.4\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū upāsake padaso dhammaṁ vācessanti. Upāsakā bhikkhūsu agāravā appatissā asabhāgavuttikā viharantī”ti.
 
-Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, upāsake padaso dhammaṁ vācetha; upāsakā bhikkhūsu agāravā appatissā asabhāgavuttikā viharantī”ti?
+1.7\. Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, upāsake padaso dhammaṁ vācetha; upāsakā bhikkhūsu agāravā appatissā asabhāgavuttikā viharantī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.10\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, upāsake padaso dhammaṁ vācessatha. Upāsakā bhikkhūsu agāravā appatissā asabhāgavuttikā viharanti. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya pasannānaṁ vā bhiyyobhāvāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.11\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, upāsake padaso dhammaṁ vācessatha. Upāsakā bhikkhūsu agāravā appatissā asabhāgavuttikā viharanti. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya pasannānaṁ vā bhiyyobhāvāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu anupasampannaṁ padaso dhammaṁ vāceyya pācittiyan”ti.
+1.16\. “Yo pana bhikkhu anupasampannaṁ padaso dhammaṁ vāceyya pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -58,10 +58,10 @@ Yañca padaṁ, yañca anupadaṁ, yañca anvakkharaṁ, yañca anubyañjanaṁ�
 
 > padena vāceti, pade pade āpatti pācittiyassa. Akkharāya vāceti, akkharakkharāya āpatti pācittiyassa.
 
-Anupasampanne anupasampannasaññī padaso dhammaṁ vāceti, āpatti pācittiyassa. Anupasampanne vematiko padaso dhammaṁ vāceti, āpatti pācittiyassa. Anupasampanne upasampannasaññī padaso dhammaṁ vāceti, āpatti pācittiyassa.
+2.2\. Anupasampanne anupasampannasaññī padaso dhammaṁ vāceti, āpatti pācittiyassa. Anupasampanne vematiko padaso dhammaṁ vāceti, āpatti pācittiyassa. Anupasampanne upasampannasaññī padaso dhammaṁ vāceti, āpatti pācittiyassa.
 
 Upasampanne anupasampannasaññī, āpatti dukkaṭassa. Upasampanne vematiko, āpatti dukkaṭassa. Upasampanne upasampannasaññī, anāpatti.
 
-Anāpatti— ekato uddisāpento, ekato sajjhāyaṁ karonto, yebhuyyena paguṇaṁ ganthaṁ bhaṇantaṁ opāteti, osārentaṁ opāteti, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— ekato uddisāpento, ekato sajjhāyaṁ karonto, yebhuyyena paguṇaṁ ganthaṁ bhaṇantaṁ opāteti, osārentaṁ opāteti, ummattakassa, ādikammikassāti.
 
 Padasodhammasikkhāpadaṁ niṭṭhitaṁ catutthaṁ.

@@ -4,62 +4,62 @@
 
 # 75. Paripuṇṇadvādasavassasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpenti. Tā bālā honti abyattā; na jānanti kappiyaṁ vā akappiyaṁ vā. Saddhivihāriniyopi bālā honti abyattā; na jānanti kappiyaṁ vā akappiyaṁ vā.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpenti. Tā bālā honti abyattā; na jānanti kappiyaṁ vā akappiyaṁ vā. Saddhivihāriniyopi bālā honti abyattā; na jānanti kappiyaṁ vā akappiyaṁ vā.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpentī”ti?
+1.7\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpentī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.10\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpessanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+1.11\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpessanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-“anujānāmi, bhikkhave, paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammutiṁ dātuṁ.
+1.16\. “anujānāmi, bhikkhave, paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammutiṁ dātuṁ.
 
-Evañca pana, bhikkhave, dātabbā.
+1.17\. Evañca pana, bhikkhave, dātabbā.
 
-Tāya paripuṇṇadvādasavassāya bhikkhuniyā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhunīnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo—
+1.18\. Tāya paripuṇṇadvādasavassāya bhikkhuniyā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhunīnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo—
 
-‘ahaṁ, ayye, itthannāmā paripuṇṇadvādasavassā bhikkhunī saṅghaṁ vuṭṭhāpanasammutiṁ yācāmī’ti.
+1.19\. ‘ahaṁ, ayye, itthannāmā paripuṇṇadvādasavassā bhikkhunī saṅghaṁ vuṭṭhāpanasammutiṁ yācāmī’ti.
 
-Dutiyampi yācitabbā. Tatiyampi yācitabbā.
+1.20\. Dutiyampi yācitabbā. Tatiyampi yācitabbā.
 
-Sā bhikkhunī saṅghena paricchinditabbā— ‘byattāyaṁ bhikkhunī lajjinī’ti.
+1.22\. Sā bhikkhunī saṅghena paricchinditabbā— ‘byattāyaṁ bhikkhunī lajjinī’ti.
 
-Evañca pana, bhikkhave, dātabbā. Byattāya bhikkhuniyā paṭibalāya saṅgho ñāpetabbo—
+1.27\. Evañca pana, bhikkhave, dātabbā. Byattāya bhikkhuniyā paṭibalāya saṅgho ñāpetabbo—
 
-‘Suṇātu me, ayye, saṅgho. Ayaṁ itthannāmā paripuṇṇadvādasavassā bhikkhunī saṅghaṁ vuṭṭhāpanasammutiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmāya paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammutiṁ dadeyya. Esā ñatti.
+1.29\. ‘Suṇātu me, ayye, saṅgho. Ayaṁ itthannāmā paripuṇṇadvādasavassā bhikkhunī saṅghaṁ vuṭṭhāpanasammutiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmāya paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammutiṁ dadeyya. Esā ñatti.
 
-Suṇātu me, ayye, saṅgho. Ayaṁ itthannāmā paripuṇṇadvādasavassā bhikkhunī saṅghaṁ vuṭṭhāpanasammutiṁ yācati. Saṅgho itthannāmāya paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammutiṁ deti. Yassā ayyāya khamati itthannāmāya paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammutiyā dānaṁ, sā tuṇhassa; yassā nakkhamati, sā bhāseyya.
+1.33\. Suṇātu me, ayye, saṅgho. Ayaṁ itthannāmā paripuṇṇadvādasavassā bhikkhunī saṅghaṁ vuṭṭhāpanasammutiṁ yācati. Saṅgho itthannāmāya paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammutiṁ deti. Yassā ayyāya khamati itthannāmāya paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammutiyā dānaṁ, sā tuṇhassa; yassā nakkhamati, sā bhāseyya.
 
-Dinnā saṅghena itthannāmāya paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammuti. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+1.38\. Dinnā saṅghena itthannāmāya paripuṇṇadvādasavassāya bhikkhuniyā vuṭṭhāpanasammuti. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
 
-Atha kho bhagavā tā bhikkhuniyo anekapariyāyena vigarahitvā dubbharatāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.40\. Atha kho bhagavā tā bhikkhuniyo anekapariyāyena vigarahitvā dubbharatāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyan”ti.
+1.42\. “Yā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
-> yā yādisā …pe…
+> 2.2\. yā yādisā …pe…
 
-**bhikkhunīti**
+2.3\. **bhikkhunīti**
 
-> …pe… ayaṁ imasmiṁ atthe adhippetā bhikkhunīti.
+> 2.4\. …pe… ayaṁ imasmiṁ atthe adhippetā bhikkhunīti.
 
-**Paripuṇṇadvādasavassā nāma**
+2.5\. **Paripuṇṇadvādasavassā nāma**
 
-> pattadvādasavassā.
+> 2.6\. pattadvādasavassā.
 
-**Asammatā nāma**
+2.7\. **Asammatā nāma**
 
-> ñattidutiyena kammena vuṭṭhāpanasammuti na dinnā hoti.
+> 2.8\. ñattidutiyena kammena vuṭṭhāpanasammuti na dinnā hoti.
 
-**Vuṭṭhāpeyyāti**
+2.9\. **Vuṭṭhāpeyyāti**
 
-> upasampādeyya. “Vuṭṭhāpessāmī”ti gaṇaṁ vā ācariniṁ vā pattaṁ vā cīvaraṁ vā pariyesati, sīmaṁ vā sammannati, āpatti dukkaṭassa. Ñattiyā dukkaṭaṁ. Dvīhi kammavācāhi dukkaṭā. Kammavācāpariyosāne upajjhāyāya āpatti pācittiyassa. Gaṇassa ca ācariniyā ca āpatti dukkaṭassa.
+> 2.10\. upasampādeyya. “Vuṭṭhāpessāmī”ti gaṇaṁ vā ācariniṁ vā pattaṁ vā cīvaraṁ vā pariyesati, sīmaṁ vā sammannati, āpatti dukkaṭassa. Ñattiyā dukkaṭaṁ. Dvīhi kammavācāhi dukkaṭā. Kammavācāpariyosāne upajjhāyāya āpatti pācittiyassa. Gaṇassa ca ācariniyā ca āpatti dukkaṭassa.
 
-Dhammakamme dhammakammasaññā vuṭṭhāpeti, āpatti pācittiyassa. Dhammakamme vematikā vuṭṭhāpeti, āpatti pācittiyassa. Dhammakamme adhammakammasaññā vuṭṭhāpeti, āpatti pācittiyassa.
+2.16\. Dhammakamme dhammakammasaññā vuṭṭhāpeti, āpatti pācittiyassa. Dhammakamme vematikā vuṭṭhāpeti, āpatti pācittiyassa. Dhammakamme adhammakammasaññā vuṭṭhāpeti, āpatti pācittiyassa.
 
-Adhammakamme dhammakammasaññā, āpatti dukkaṭassa. Adhammakamme vematikā, āpatti dukkaṭassa. Adhammakamme adhammakammasaññā, āpatti dukkaṭassa.
+2.19\. Adhammakamme dhammakammasaññā, āpatti dukkaṭassa. Adhammakamme vematikā, āpatti dukkaṭassa. Adhammakamme adhammakammasaññā, āpatti dukkaṭassa.
 
-Anāpatti— paripuṇṇadvādasavassā saṅghena sammatā vuṭṭhāpeti, ummattikāya, ādikammikāyāti.
+2.22\. Anāpatti— paripuṇṇadvādasavassā saṅghena sammatā vuṭṭhāpeti, ummattikāya, ādikammikāyāti.
 
-Pañcamasikkhāpadaṁ niṭṭhitaṁ.
+2.26\. Pañcamasikkhāpadaṁ niṭṭhitaṁ.

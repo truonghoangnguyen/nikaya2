@@ -2,7 +2,7 @@
 
 ## Pāṭidesanīyakaṇḍa
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo telaṁ viññāpetvā bhuñjanti. …pe… madhuṁ viññāpetvā bhuñjanti. …pe… phāṇitaṁ viññāpetvā bhuñjanti. …pe… macchaṁ viññāpetvā bhuñjanti. …pe… maṁsaṁ viññāpetvā bhuñjanti. …pe… khīraṁ viññāpetvā bhuñjanti. …pe… dadhiṁ viññāpetvā bhuñjanti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo telaṁ viññāpetvā bhuñjanti. …pe… madhuṁ viññāpetvā bhuñjanti. …pe… phāṇitaṁ viññāpetvā bhuñjanti. …pe… macchaṁ viññāpetvā bhuñjanti. …pe… maṁsaṁ viññāpetvā bhuñjanti. …pe… khīraṁ viññāpetvā bhuñjanti. …pe… dadhiṁ viññāpetvā bhuñjanti.
 
 Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo dadhiṁ viññāpetvā bhuñjissanti. Kassa sampannaṁ na manāpaṁ, kassa sāduṁ na ruccatī”ti.
 
@@ -16,7 +16,7 @@ Vigarahi buddho bhagavā … pe … kathañhi nāma, bhikkhave, chabbaggiyā bhi
 
 Evañcidaṁ bhagavatā bhikkhunīnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
-Tena kho pana samayena bhikkhuniyo gilānā honti. Gilānapucchikā bhikkhuniyo gilānā bhikkhuniyo etadavocuṁ— “kacci, ayye, khamanīyaṁ, kacci yāpanīyan”ti?
+1.2\. Tena kho pana samayena bhikkhuniyo gilānā honti. Gilānapucchikā bhikkhuniyo gilānā bhikkhuniyo etadavocuṁ— “kacci, ayye, khamanīyaṁ, kacci yāpanīyan”ti?
 
 “Pubbe mayaṁ, ayye, dadhiṁ viññāpetvā bhuñjimhā, tena no phāsu hoti; idāni pana ‘bhagavatā paṭikkhittan’ti kukkuccāyantā na viññāpema, tena no na phāsu hotī”ti … pe …
 

@@ -4,7 +4,7 @@
 
 # 23. Bhesajjasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā pilindavaccho rājagahe pabbhāraṁ sodhāpeti leṇaṁ kattukāmo. Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami; upasaṅkamitvā āyasmantaṁ pilindavacchaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā māgadho seniyo bimbisāro āyasmantaṁ pilindavacchaṁ etadavoca—“kiṁ, bhante, thero kārāpetī”ti?
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā pilindavaccho rājagahe pabbhāraṁ sodhāpeti leṇaṁ kattukāmo. Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami; upasaṅkamitvā āyasmantaṁ pilindavacchaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā māgadho seniyo bimbisāro āyasmantaṁ pilindavacchaṁ etadavoca—“kiṁ, bhante, thero kārāpetī”ti?
 
 “Pabbhāraṁ, mahārāja, sodhāpemi leṇaṁ kattukāmo”ti.
 
@@ -42,7 +42,7 @@ Atha kho so mahāmatto rattiyo gaṇetvā rājānaṁ māgadhaṁ seniyaṁ bimb
 
 kho so mahāmatto rañño māgadhassa seniyassa bimbisārassa paṭissuṇitvā āyasmato pilindavacchassa pañca ārāmikasatāni pādāsi, pāṭiyekko gāmo nivisi. Ārāmikagāmakotipi naṁ āhaṁsu, pilindagāmakotipi naṁ āhaṁsu.
 
-Tena kho pana samayena āyasmā pilindavaccho tasmiṁ gāmake kulūpako hoti.
+1.2\. Tena kho pana samayena āyasmā pilindavaccho tasmiṁ gāmake kulūpako hoti.
 
 Atha kho āyasmā pilindavaccho pubbaṇhasamayaṁ nivāsetvā pattacīvaraṁ ādāya pilindagāmakaṁ piṇḍāya pāvisi. Tena kho pana samayena tasmiṁ gāmake ussavo hoti. Dārakā alaṅkatā mālākitā kīḷanti. Atha kho āyasmā pilindavaccho pilindagāmake sapadānaṁ piṇḍāya caramāno yena aññatarassa ārāmikassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Tena kho pana samayena tassā ārāmikiniyā dhītā aññe dārake alaṅkate mālākite passitvā rodati—“mālaṁ me detha, alaṅkāraṁ me dethā”ti. Atha kho āyasmā pilindavaccho taṁ ārāmikiniṁ etadavoca—“kissāyaṁ dārikā rodatī”ti? “Ayaṁ, bhante, dārikā aññe dārake alaṅkate mālākite passitvā rodati—‘mālaṁ me detha, alaṅkāraṁ me dethā’ti. Kuto amhākaṁ duggatānaṁ mālā kuto, alaṅkāro”ti? Atha kho āyasmā pilindavaccho aññataraṁ tiṇaṇḍupakaṁ gahetvā taṁ ārāmikiniṁ etadavoca—“handimaṁ tiṇaṇḍupakaṁ tassā dārikāya sīse paṭimuñcā”ti. Atha kho sā ārāmikinī taṁ tiṇaṇḍupakaṁ gahetvā tassā dārikāya sīse paṭimuñci. Sā ahosi suvaṇṇamālā abhirūpā dassanīyā pāsādikā. Natthi tādisā raññopi antepure suvaṇṇamālā.
 
@@ -52,7 +52,7 @@ Dutiyampi kho āyasmā pilindavaccho pubbaṇhasamayaṁ nivāsetvā pattacīvar
 
 “Etissā, bhante, suvaṇṇamālāya kāraṇā raññā bandhāpitan”ti.
 
-Atha kho āyasmā pilindavaccho yena rañño māgadhassa seniyassa bimbisārassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami; upasaṅkamitvā āyasmantaṁ pilindavacchaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho rājānaṁ māgadhaṁ seniyaṁ bimbisāraṁ āyasmā pilindavaccho etadavoca—“kissa, mahārāja, ārāmikakulaṁ bandhāpitan”ti?
+1.3\. Atha kho āyasmā pilindavaccho yena rañño māgadhassa seniyassa bimbisārassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho rājā māgadho seniyo bimbisāro yenāyasmā pilindavaccho tenupasaṅkami; upasaṅkamitvā āyasmantaṁ pilindavacchaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho rājānaṁ māgadhaṁ seniyaṁ bimbisāraṁ āyasmā pilindavaccho etadavoca—“kissa, mahārāja, ārāmikakulaṁ bandhāpitan”ti?
 
 “Tassa, bhante, ārāmikassa ghare suvaṇṇamālā abhirūpā dassanīyā pāsādikā. Natthi tādisā amhākampi antepure suvaṇṇamālā. Kuto tassa duggatassa. Nissaṁsayaṁ corikāya ābhatā”ti.
 
@@ -72,46 +72,46 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma te, bhikkhave, moghapurisā ev
 
 “Yāni kho pana tāni gilānānaṁ bhikkhūnaṁ paṭisāyanīyāni bhesajjāni, seyyathidaṁ— sappi navanītaṁ telaṁ madhu phāṇitaṁ, tāni paṭiggahetvā sattāhaparamaṁ sannidhikārakaṁ paribhuñjitabbāni. Taṁ atikkāmayato nissaggiyaṁ pācittiyan”ti.
 
-2\. **Yāni kho pana tāni gilānānaṁ bhikkhūnaṁ paṭisāyanīyāni bhesajjānīti sappi nāma**
+2.1\. **Yāni kho pana tāni gilānānaṁ bhikkhūnaṁ paṭisāyanīyāni bhesajjānīti sappi nāma**
 
-> gosappi vā ajikāsappi vā mahiṁsasappi vā yesaṁ maṁsaṁ kappati tesaṁ sappi.
+> 2.3\. gosappi vā ajikāsappi vā mahiṁsasappi vā yesaṁ maṁsaṁ kappati tesaṁ sappi.
 
-**Navanītaṁ nāma**
+2.4\. **Navanītaṁ nāma**
 
-> tesaṁyeva navanītaṁ.
+> 2.5\. tesaṁyeva navanītaṁ.
 
-**Telaṁ nāma**
+2.6\. **Telaṁ nāma**
 
-> tilatelaṁ sāsapatelaṁ madhukatelaṁ eraṇḍatelaṁ vasātelaṁ.
+> 2.7\. tilatelaṁ sāsapatelaṁ madhukatelaṁ eraṇḍatelaṁ vasātelaṁ.
 
-**Madhu nāma**
+2.8\. **Madhu nāma**
 
-> makkhikāmadhu.
+> 2.9\. makkhikāmadhu.
 
-**Phāṇitaṁ nāma**
+2.10\. **Phāṇitaṁ nāma**
 
-> ucchumhā nibbattaṁ.
+> 2.11\. ucchumhā nibbattaṁ.
 
-**Tāni paṭiggahetvā sattāhaparamaṁ sannidhikārakaṁ paribhuñjitabbānīti**
+2.12\. **Tāni paṭiggahetvā sattāhaparamaṁ sannidhikārakaṁ paribhuñjitabbānīti**
 
-> sattāhaparamatā paribhuñjitabbāni.
+> 2.13\. sattāhaparamatā paribhuñjitabbāni.
 
-**Taṁ atikkāmayato nissaggiyaṁ hotīti**
+2.14\. **Taṁ atikkāmayato nissaggiyaṁ hotīti**
 
-> aṭṭhame aruṇuggamane nissaggiyaṁ hoti.
+> 2.15\. aṭṭhame aruṇuggamane nissaggiyaṁ hoti.
 
-Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhikkhave, nissajjitabbaṁ. …pe…
+2.16\. Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhikkhave, nissajjitabbaṁ. …pe…
 
-idaṁ me, bhante, bhesajjaṁ sattāhātikkantaṁ nissaggiyaṁ, imāhaṁ saṅghassa nissajjāmīti …pe… dadeyyāti …pe… dadeyyunti …pe… āyasmato dammīti.
+2.19\. idaṁ me, bhante, bhesajjaṁ sattāhātikkantaṁ nissaggiyaṁ, imāhaṁ saṅghassa nissajjāmīti …pe… dadeyyāti …pe… dadeyyunti …pe… āyasmato dammīti.
 
-Sattāhātikkante atikkantasaññī, nissaggiyaṁ pācittiyaṁ. Sattāhātikkante vematiko, nissaggiyaṁ pācittiyaṁ. Sattāhātikkante anatikkantasaññī, nissaggiyaṁ pācittiyaṁ.
+2.24\. Sattāhātikkante atikkantasaññī, nissaggiyaṁ pācittiyaṁ. Sattāhātikkante vematiko, nissaggiyaṁ pācittiyaṁ. Sattāhātikkante anatikkantasaññī, nissaggiyaṁ pācittiyaṁ.
 
-Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṁ pācittiyaṁ. Avissajjite vissajjitasaññī, nissaggiyaṁ pācittiyaṁ. Anaṭṭhe naṭṭhasaññī, nissaggiyaṁ pācittiyaṁ. Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṁ pācittiyaṁ. Adaḍḍhe daḍḍhasaññī, nissaggiyaṁ pācittiyaṁ. Avilutte viluttasaññī, nissaggiyaṁ pācittiyaṁ.
+2.27\. Anadhiṭṭhite adhiṭṭhitasaññī, nissaggiyaṁ pācittiyaṁ. Avissajjite vissajjitasaññī, nissaggiyaṁ pācittiyaṁ. Anaṭṭhe naṭṭhasaññī, nissaggiyaṁ pācittiyaṁ. Avinaṭṭhe vinaṭṭhasaññī, nissaggiyaṁ pācittiyaṁ. Adaḍḍhe daḍḍhasaññī, nissaggiyaṁ pācittiyaṁ. Avilutte viluttasaññī, nissaggiyaṁ pācittiyaṁ.
 
-Nissaṭṭhaṁ paṭilabhitvā na kāyikena paribhogena paribhuñjitabbaṁ, na ajjhoharitabbaṁ, padīpe vā kāḷavaṇṇe vā upanetabbaṁ, aññena bhikkhunā kāyikena paribhogena paribhuñjitabbaṁ, na ajjhoharitabbaṁ.
+2.33\. Nissaṭṭhaṁ paṭilabhitvā na kāyikena paribhogena paribhuñjitabbaṁ, na ajjhoharitabbaṁ, padīpe vā kāḷavaṇṇe vā upanetabbaṁ, aññena bhikkhunā kāyikena paribhogena paribhuñjitabbaṁ, na ajjhoharitabbaṁ.
 
-Sattāhānatikkante atikkantasaññī, āpatti dukkaṭassa. Sattāhānatikkante vematiko, āpatti dukkaṭassa. Sattāhānatikkante anatikkantasaññī, anāpatti.
+2.36\. Sattāhānatikkante atikkantasaññī, āpatti dukkaṭassa. Sattāhānatikkante vematiko, āpatti dukkaṭassa. Sattāhānatikkante anatikkantasaññī, anāpatti.
 
-Anāpatti— antosattāhaṁ adhiṭṭheti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṁ gaṇhanti, anupasampannassa cattena vantena muttena anapekkho datvā paṭilabhitvā paribhuñjati, ummattakassa, ādikammikassāti.
+2.39\. Anāpatti— antosattāhaṁ adhiṭṭheti, vissajjeti, nassati, vinassati, ḍayhati, acchinditvā gaṇhanti, vissāsaṁ gaṇhanti, anupasampannassa cattena vantena muttena anapekkho datvā paṭilabhitvā paribhuñjati, ummattakassa, ādikammikassāti.
 
-Bhesajjasikkhāpadaṁ niṭṭhitaṁ tatiyaṁ.
+2.44\. Bhesajjasikkhāpadaṁ niṭṭhitaṁ tatiyaṁ.

@@ -4,17 +4,17 @@
 
 # 9. Dutiyauccārachaḍḍanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññatarassa brāhmaṇassa bhikkhunupassayaṁ nissāya yavakhettaṁ hoti. Bhikkhuniyo uccārampi passāvampi saṅkārampi vighāsampi khette chaḍḍenti. Atha kho so brāhmaṇo ujjhāyati khiyyati vipāceti— “kathañhi nāma bhikkhuniyo amhākaṁ yavakhettaṁ dūsessantī”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññatarassa brāhmaṇassa bhikkhunupassayaṁ nissāya yavakhettaṁ hoti. Bhikkhuniyo uccārampi passāvampi saṅkārampi vighāsampi khette chaḍḍenti. Atha kho so brāhmaṇo ujjhāyati khiyyati vipāceti— “kathañhi nāma bhikkhuniyo amhākaṁ yavakhettaṁ dūsessantī”ti.
 
-Assosuṁ kho bhikkhuniyo tassa brāhmaṇassa ujjhāyantassa khiyyantassa vipācentassa. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo uccārampi passāvampi saṅkārampi vighāsampi harite chaḍḍessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo uccārampi passāvampi saṅkārampi vighāsampi harite chaḍḍentī”ti?
+1.6\. Assosuṁ kho bhikkhuniyo tassa brāhmaṇassa ujjhāyantassa khiyyantassa vipācentassa. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo uccārampi passāvampi saṅkārampi vighāsampi harite chaḍḍessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo uccārampi passāvampi saṅkārampi vighāsampi harite chaḍḍentī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.10\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo uccārampi passāvampi saṅkārampi vighāsampi harite chaḍḍessanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.11\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo uccārampi passāvampi saṅkārampi vighāsampi harite chaḍḍessanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī uccāraṁ vā passāvaṁ vā saṅkāraṁ vā vighāsaṁ vā harite chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyan”ti.
+1.15\. “Yā pana bhikkhunī uccāraṁ vā passāvaṁ vā saṅkāraṁ vā vighāsaṁ vā harite chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -50,10 +50,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo uccār
 
 > aññaṁ āṇāpeti, āpatti dukkaṭassa. Sakiṁ āṇattā bahukampi chaḍḍeti, āpatti pācittiyassa.
 
-Harite haritasaññā chaḍḍeti vā chaḍḍāpeti vā, āpatti pācittiyassa. Harite vematikā chaḍḍeti vā chaḍḍāpeti vā, āpatti pācittiyassa. Harite aharitasaññā chaḍḍeti vā chaḍḍāpeti vā, āpatti pācittiyassa.
+2.2\. Harite haritasaññā chaḍḍeti vā chaḍḍāpeti vā, āpatti pācittiyassa. Harite vematikā chaḍḍeti vā chaḍḍāpeti vā, āpatti pācittiyassa. Harite aharitasaññā chaḍḍeti vā chaḍḍāpeti vā, āpatti pācittiyassa.
 
 Aharite haritasaññā, āpatti dukkaṭassa. Aharite vematikā, āpatti dukkaṭassa. Aharite aharitasaññā, anāpatti.
 
-Anāpatti— oloketvā chaḍḍeti, khettamariyāde chaḍḍeti, sāmike āpucchitvā apaloketvā chaḍḍeti, ummattikāya, ādikammikāyāti.
+2.3\. Anāpatti— oloketvā chaḍḍeti, khettamariyāde chaḍḍeti, sāmike āpucchitvā apaloketvā chaḍḍeti, ummattikāya, ādikammikāyāti.
 
 Navamasikkhāpadaṁ niṭṭhitaṁ.

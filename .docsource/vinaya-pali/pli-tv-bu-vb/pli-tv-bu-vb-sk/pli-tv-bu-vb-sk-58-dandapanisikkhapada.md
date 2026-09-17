@@ -4,16 +4,16 @@
 
 # 58. Daṇḍapāṇisikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū daṇḍapāṇissa dhammaṁ desenti …pe….
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū daṇḍapāṇissa dhammaṁ desenti …pe….
 
-“Na daṇḍapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā”ti.
+1.3\. “Na daṇḍapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā”ti.
 
-**Daṇḍo nāma**
+1.4\. **Daṇḍo nāma**
 
-> majjhimassa purisassa catuhattho daṇḍo. Tato ukkaṭṭho adaṇḍo, omako adaṇḍo.
+> 1.5\. majjhimassa purisassa catuhattho daṇḍo. Tato ukkaṭṭho adaṇḍo, omako adaṇḍo.
 
-Na daṇḍapāṇissa agilānassa dhammo desetabbo. Yo anādariyaṁ paṭicca daṇḍapāṇissa agilānassa dhammaṁ deseti, āpatti dukkaṭassa.
+1.7\. Na daṇḍapāṇissa agilānassa dhammo desetabbo. Yo anādariyaṁ paṭicca daṇḍapāṇissa agilānassa dhammaṁ deseti, āpatti dukkaṭassa.
 
-Anāpatti— asañcicca …pe… ādikammikassāti.
+1.9\. Anāpatti— asañcicca …pe… ādikammikassāti.
 
-Aṭṭhamasikkhāpadaṁ niṭṭhitaṁ.
+1.12\. Aṭṭhamasikkhāpadaṁ niṭṭhitaṁ.

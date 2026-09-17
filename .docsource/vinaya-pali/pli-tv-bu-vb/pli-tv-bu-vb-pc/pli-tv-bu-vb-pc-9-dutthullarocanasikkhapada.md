@@ -4,19 +4,19 @@
 
 # 9. Duṭṭhullārocanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto chabbaggiyehi bhikkhūhi saddhiṁ bhaṇḍanakato hoti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto chabbaggiyehi bhikkhūhi saddhiṁ bhaṇḍanakato hoti.
 
-So sañcetanikaṁ sukkavissaṭṭhiṁ āpattiṁ āpajjitvā saṅghaṁ tassā āpattiyā parivāsaṁ yāci. Tassa saṅgho tassā āpattiyā parivāsaṁ adāsi. Tena kho pana samayena sāvatthiyaṁ aññatarassa pūgassa saṅghabhattaṁ hoti. So parivasanto bhattagge āsanapariyante nisīdi. Chabbaggiyā bhikkhū te upāsake etadavocuṁ— “eso, āvuso, āyasmā upanando sakyaputto tumhākaṁ sambhāvito kulūpako; yeneva hatthena saddhādeyyaṁ bhuñjati teneva hatthena upakkamitvā asuciṁ mocesi. So sañcetanikaṁ sukkavissaṭṭhiṁ āpattiṁ āpajjitvā saṅghaṁ tassā āpattiyā parivāsaṁ yāci. Tassa saṅgho tassā āpattiyā parivāsaṁ adāsi. So parivasanto āsanapariyante nisinno”ti.
+1.3\. So sañcetanikaṁ sukkavissaṭṭhiṁ āpattiṁ āpajjitvā saṅghaṁ tassā āpattiyā parivāsaṁ yāci. Tassa saṅgho tassā āpattiyā parivāsaṁ adāsi. Tena kho pana samayena sāvatthiyaṁ aññatarassa pūgassa saṅghabhattaṁ hoti. So parivasanto bhattagge āsanapariyante nisīdi. Chabbaggiyā bhikkhū te upāsake etadavocuṁ— “eso, āvuso, āyasmā upanando sakyaputto tumhākaṁ sambhāvito kulūpako; yeneva hatthena saddhādeyyaṁ bhuñjati teneva hatthena upakkamitvā asuciṁ mocesi. So sañcetanikaṁ sukkavissaṭṭhiṁ āpattiṁ āpajjitvā saṅghaṁ tassā āpattiyā parivāsaṁ yāci. Tassa saṅgho tassā āpattiyā parivāsaṁ adāsi. So parivasanto āsanapariyante nisinno”ti.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa ārocessantī”ti …pe… “saccaṁ kira tumhe, bhikkhave, bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa ārocethā”ti?
+1.12\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa ārocessantī”ti …pe… “saccaṁ kira tumhe, bhikkhave, bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa ārocethā”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.15\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa ārocessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.16\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa ārocessatha. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya, aññatra bhikkhusammutiyā, pācittiyan”ti.
+1.20\. “Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya, aññatra bhikkhusammutiyā, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -70,7 +70,7 @@ Kulapariyante yāni kulāni pariggahitāni honti, tāni kulāni ṭhapetvā añ�
 
 Neva āpattipariyante na kulapariyante, anāpatti.
 
-Duṭṭhullāya āpattiyā duṭṭhullāpattisaññī anupasampannassa āroceti, aññatra bhikkhusammutiyā, āpatti pācittiyassa.
+2.2\. Duṭṭhullāya āpattiyā duṭṭhullāpattisaññī anupasampannassa āroceti, aññatra bhikkhusammutiyā, āpatti pācittiyassa.
 
 Duṭṭhullāya āpattiyā vematiko anupasampannassa āroceti, aññatra bhikkhusammutiyā, āpatti pācittiyassa.
 
@@ -86,6 +86,6 @@ Aduṭṭhullāya āpattiyā vematiko, āpatti dukkaṭassa.
 
 Aduṭṭhullāya āpattiyā aduṭṭhullāpattisaññī, āpatti dukkaṭassa.
 
-Anāpatti— vatthuṁ āroceti no āpattiṁ, āpattiṁ āroceti no vatthuṁ, bhikkhusammutiyā, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— vatthuṁ āroceti no āpattiṁ, āpattiṁ āroceti no vatthuṁ, bhikkhusammutiyā, ummattakassa, ādikammikassāti.
 
 Duṭṭhullārocanasikkhāpadaṁ niṭṭhitaṁ navamaṁ.

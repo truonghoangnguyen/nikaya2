@@ -4,7 +4,7 @@
 
 # 15. Nisīdanasanthatasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho bhagavā bhikkhū āmantesi—“icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. Namhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho bhagavā bhikkhū āmantesi—“icchāmahaṁ, bhikkhave, temāsaṁ paṭisallīyituṁ. Namhi kenaci upasaṅkamitabbo, aññatra ekena piṇḍapātanīhārakenā”ti.
 
 “Evaṁ, bhante”ti kho te bhikkhū bhagavato paṭissuṇitvā nāssudha koci bhagavantaṁ upasaṅkamati, aññatra ekena piṇḍapātanīhārakena.
 
@@ -26,7 +26,7 @@ Atha kho bhagavā āyasmantaṁ upasenaṁ vaṅgantaputtaṁ etadavoca—“pā
 
 “Yo maṁ, bhante, upasampadaṁ yācati tamahaṁ evaṁ vadāmi— ‘ahaṁ kho, āvuso, āraññiko piṇḍapātiko paṁsukūliko. Sace tvampi āraññiko bhavissasi piṇḍapātiko paṁsukūliko, evāhaṁ taṁ upasampādessāmī’ti. Sace me paṭissuṇāti upasampādemi, no ce me paṭissuṇāti na upasampādemi. Yo maṁ nissayaṁ yācati tamahaṁ evaṁ vadāmi— ‘ahaṁ kho, āvuso, āraññiko piṇḍapātiko paṁsukūliko. Sace tvampi āraññiko bhavissasi piṇḍapātiko paṁsukūliko, evāhaṁ te nissayaṁ dassāmī’ti. Sace me paṭissuṇāti nissayaṁ demi, no ce me paṭissuṇāti na nissayaṁ demi. Evaṁ kho ahaṁ, bhante, parisaṁ vinemī”ti.
 
-“Sādhu sādhu, upasena. Sādhu kho tvaṁ, upasena, parisaṁ vinesi. Jānāsi pana tvaṁ, upasena, sāvatthiyā saṅghassa katikan”ti?
+1.2\. “Sādhu sādhu, upasena. Sādhu kho tvaṁ, upasena, parisaṁ vinesi. Jānāsi pana tvaṁ, upasena, sāvatthiyā saṅghassa katikan”ti?
 
 “Na kho ahaṁ, bhante, jānāmi sāvatthiyā saṅghassa katikan”ti.
 
@@ -44,7 +44,7 @@ Tena kho pana samayena sambahulā bhikkhū bahidvārakoṭṭhake ṭhitā honti
 
 Atha kho te bhikkhū—“saccaṁ kho āyasmā upaseno āha— ‘na apaññattaṁ paññapetabbaṁ, paññattaṁ vā na samucchinditabbaṁ, yathāpaññattesu sikkhāpadesu samādāya vattitabban’”ti.
 
-Assosuṁ kho bhikkhū—“anuññātā kira bhagavatā—‘ye te bhikkhū āraññikā piṇḍapātikā paṁsukūlikā yathāsukhaṁ maṁ dassanāya upasaṅkamantū’”ti. Te bhagavantaṁ dassanaṁ pihentā santhatāni ujjhitvā āraññikaṅgaṁ piṇḍapātikaṅgaṁ paṁsukūlikaṅgaṁ samādiyiṁsu.
+1.3\. Assosuṁ kho bhikkhū—“anuññātā kira bhagavatā—‘ye te bhikkhū āraññikā piṇḍapātikā paṁsukūlikā yathāsukhaṁ maṁ dassanāya upasaṅkamantū’”ti. Te bhagavantaṁ dassanaṁ pihentā santhatāni ujjhitvā āraññikaṅgaṁ piṇḍapātikaṅgaṁ paṁsukūlikaṅgaṁ samādiyiṁsu.
 
 Atha kho bhagavā sambahulehi bhikkhūhi saddhiṁ senāsanacārikaṁ āhiṇḍanto addasa santhatāni tahaṁ tahaṁ ujjhitāni. Passitvā bhikkhū āmantesi—“kassimāni, bhikkhave, santhatāni tahaṁ tahaṁ ujjhitānī”ti?
 
@@ -52,38 +52,38 @@ Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasm
 
 “Nisīdanasanthataṁ pana bhikkhunā kārayamānena purāṇasanthatassa sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāya, anādā ce bhikkhu purāṇasanthatassa sāmantā sugatavidatthiṁ navaṁ nisīdanasanthataṁ kārāpeyya, nissaggiyaṁ pācittiyan”ti.
 
-2\. **Nisīdanaṁ nāma**
+2.1\. **Nisīdanaṁ nāma**
 
-> sadasaṁ vuccati.
+> 2.2\. sadasaṁ vuccati.
 
-**Santhataṁ nāma**
+2.3\. **Santhataṁ nāma**
 
-> santharitvā kataṁ hoti avāyimaṁ.
+> 2.4\. santharitvā kataṁ hoti avāyimaṁ.
 
-**Kārayamānenāti**
+2.5\. **Kārayamānenāti**
 
-> karonto vā kārāpento vā.
+> 2.6\. karonto vā kārāpento vā.
 
-**Purāṇasanthataṁ nāma**
+2.7\. **Purāṇasanthataṁ nāma**
 
-> sakiṁ nivatthampi sakiṁ pārutampi.
+> 2.8\. sakiṁ nivatthampi sakiṁ pārutampi.
 
-**Sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāyāti**
+2.9\. **Sāmantā sugatavidatthi ādātabbā dubbaṇṇakaraṇāyāti**
 
-> thirabhāvāya vaṭṭaṁ vā caturassaṁ vā chinditvā ekadese vā santharitabbaṁ vijaṭetvā vā santharitabbaṁ.
+> 2.10\. thirabhāvāya vaṭṭaṁ vā caturassaṁ vā chinditvā ekadese vā santharitabbaṁ vijaṭetvā vā santharitabbaṁ.
 
-**Anādā ce bhikkhu purāṇasanthatassa sāmantā sugatavidatthinti**
+2.11\. **Anādā ce bhikkhu purāṇasanthatassa sāmantā sugatavidatthinti**
 
-> anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṁ navaṁ nisīdanasanthataṁ karoti vā kārāpeti vā, payoge dukkaṭaṁ, paṭilābhena nissaggiyaṁ hoti.
+> 2.12\. anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṁ navaṁ nisīdanasanthataṁ karoti vā kārāpeti vā, payoge dukkaṭaṁ, paṭilābhena nissaggiyaṁ hoti.
 
-Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhikkhave, nissajjitabbaṁ. …pe…
+2.14\. Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhikkhave, nissajjitabbaṁ. …pe…
 
-“idaṁ me, bhante, nisīdanasanthataṁ anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṁ kārāpitaṁ nissaggiyaṁ. Imāhaṁ saṅghassa nissajjāmī”ti …pe… dadeyyāti …pe… dadeyyunti …pe… āyasmato dammīti.
+2.17\. “idaṁ me, bhante, nisīdanasanthataṁ anādiyitvā purāṇasanthatassa sāmantā sugatavidatthiṁ kārāpitaṁ nissaggiyaṁ. Imāhaṁ saṅghassa nissajjāmī”ti …pe… dadeyyāti …pe… dadeyyunti …pe… āyasmato dammīti.
 
-Attanā vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Attanā vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Parehi vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Parehi vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ.
+2.22\. Attanā vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Attanā vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Parehi vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Parehi vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ.
 
-Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa.
+2.26\. Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa.
 
-Anāpatti— purāṇasanthatassa sāmantā sugatavidatthiṁ ādiyitvā karoti, alabhanto thokataraṁ ādiyitvā karoti, alabhanto anādiyitvā karoti, aññena kataṁ paṭilabhitvā paribhuñjati, vitānaṁ vā bhūmattharaṇaṁ vā sāṇipākāraṁ vā bhisiṁ vā bibbohanaṁ vā karoti, ummattakassa, ādikammikassāti.
+2.27\. Anāpatti— purāṇasanthatassa sāmantā sugatavidatthiṁ ādiyitvā karoti, alabhanto thokataraṁ ādiyitvā karoti, alabhanto anādiyitvā karoti, aññena kataṁ paṭilabhitvā paribhuñjati, vitānaṁ vā bhūmattharaṇaṁ vā sāṇipākāraṁ vā bhisiṁ vā bibbohanaṁ vā karoti, ummattakassa, ādikammikassāti.
 
-Nisīdanasanthatasikkhāpadaṁ niṭṭhitaṁ pañcamaṁ.
+2.35\. Nisīdanasanthatasikkhāpadaṁ niṭṭhitaṁ pañcamaṁ.

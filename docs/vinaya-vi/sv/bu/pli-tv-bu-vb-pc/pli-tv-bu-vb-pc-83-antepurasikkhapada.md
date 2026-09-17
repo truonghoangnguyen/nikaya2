@@ -4,7 +4,7 @@
 
 # 83. Antepurasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena rājā pasenadi kosalo uyyānapālaṁ āṇāpesi—“gaccha, bhaṇe, uyyānaṁ sodhehi. Uyyānaṁ gamissāmā”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena rājā pasenadi kosalo uyyānapālaṁ āṇāpesi—“gaccha, bhaṇe, uyyānaṁ sodhehi. Uyyānaṁ gamissāmā”ti.
 
 “Evaṁ, devā”ti kho so uyyānapālo rañño pasenadissa kosalassa paṭissutvā uyyānaṁ sodhento addasa bhagavantaṁ aññatarasmiṁ rukkhamūle nisinnaṁ. Disvāna yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rājānaṁ pasenadiṁ kosalaṁ etadavoca—“suddhaṁ, deva, uyyānaṁ. Api ca bhagavā tattha nisinno”ti. “Hotu, bhaṇe. Mayaṁ bhagavantaṁ payirupāsissāmā”ti.
 
@@ -20,7 +20,7 @@ Tena kho pana samayena rājā pasenadi kosalo uparipāsādavaragato hoti. Addas�
 
 “Yamahaṁ, deva, jānāmi ayyānaṁ vāhasā, ayyāva devassa itthāgāraṁ dhammaṁ vācessantī”ti.
 
-Atha kho rājā pasenadi kosalo—“saccaṁ kho upāsako āhā”ti yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca— “sādhu, bhante, bhagavā ekaṁ bhikkhuṁ āṇāpetu yo amhākaṁ itthāgāraṁ dhammaṁ vācessatī”ti. Atha kho bhagavā rājānaṁ pasenadiṁ kosalaṁ dhammiyā kathāya sandassesi …pe… padakkhiṇaṁ katvā pakkāmi.
+1.2\. Atha kho rājā pasenadi kosalo—“saccaṁ kho upāsako āhā”ti yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca— “sādhu, bhante, bhagavā ekaṁ bhikkhuṁ āṇāpetu yo amhākaṁ itthāgāraṁ dhammaṁ vācessatī”ti. Atha kho bhagavā rājānaṁ pasenadiṁ kosalaṁ dhammiyā kathāya sandassesi …pe… padakkhiṇaṁ katvā pakkāmi.
 
 Atha kho bhagavā āyasmantaṁ ānandaṁ āmantesi—“tenahānanda, rañño itthāgāraṁ dhammaṁ vācehī”ti.
 
@@ -36,7 +36,7 @@ Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kath
 
 Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, ānanda, pubbe appaṭisaṁvidito rañño antepuraṁ pavisissasi. Netaṁ, ānanda, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-“Dasayime, bhikkhave, ādīnavā rājantepurappavesane. Katame dasa?
+1.3\. “Dasayime, bhikkhave, ādīnavā rājantepurappavesane. Katame dasa?
 
 Idha, bhikkhave, rājā mahesiyā saddhiṁ nisinno hoti, tattha bhikkhu pavisati. Mahesī vā bhikkhuṁ disvā sitaṁ pātukaroti. Bhikkhu vā mahesiṁ disvā sitaṁ pātukaroti. Tattha rañño evaṁ hoti— ‘addhā imesaṁ kataṁ vā karissanti vā’ti. Ayaṁ, bhikkhave, paṭhamo ādīnavo rājantepurappavesane.
 
@@ -64,7 +64,7 @@ Atha kho bhagavā āyasmantaṁ ānandaṁ anekapariyāyena vigarahitvā dubbhar
 
 “Yo pana bhikkhu rañño khattiyassa muddhāvasittassa anikkhantarājake aniggataratanake pubbe appaṭisaṁvidito indakhīlaṁ atikkāmeyya, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -104,10 +104,10 @@ Atha kho bhagavā āyasmantaṁ ānandaṁ anekapariyāyena vigarahitvā dubbhar
 
 > paṭhamaṁ pādaṁ ummāraṁ atikkāmeti, āpatti dukkaṭassa. Dutiyaṁ pādaṁ atikkāmeti, āpatti pācittiyassa.
 
-Appaṭisaṁvidite appaṭisaṁviditasaññī indakhīlaṁ atikkāmeti, āpatti pācittiyassa. Appaṭisaṁvidite vematiko indakhīlaṁ atikkāmeti, āpatti pācittiyassa. Appaṭisaṁvidite paṭisaṁviditasaññī indakhīlaṁ atikkāmeti, āpatti pācittiyassa.
+2.2\. Appaṭisaṁvidite appaṭisaṁviditasaññī indakhīlaṁ atikkāmeti, āpatti pācittiyassa. Appaṭisaṁvidite vematiko indakhīlaṁ atikkāmeti, āpatti pācittiyassa. Appaṭisaṁvidite paṭisaṁviditasaññī indakhīlaṁ atikkāmeti, āpatti pācittiyassa.
 
 Paṭisaṁvidite appaṭisaṁviditasaññī, āpatti dukkaṭassa. Paṭisaṁvidite vematiko, āpatti dukkaṭassa. Paṭisaṁvidite paṭisaṁviditasaññī, anāpatti.
 
-Anāpatti— paṭisaṁvidite, na khattiyo hoti, na khattiyābhisekena abhisitto hoti, rājā sayanigharā nikkhanto hoti, mahesī sayanigharā nikkhantā hoti, ubho vā nikkhantā honti, na sayanighare, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— paṭisaṁvidite, na khattiyo hoti, na khattiyābhisekena abhisitto hoti, rājā sayanigharā nikkhanto hoti, mahesī sayanigharā nikkhantā hoti, ubho vā nikkhantā honti, na sayanighare, ummattakassa, ādikammikassāti.
 
 Antepurasikkhāpadaṁ niṭṭhitaṁ paṭhamaṁ.

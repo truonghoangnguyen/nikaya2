@@ -4,17 +4,17 @@
 
 # 5. Bhojanapaṭiggahaṇasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sundarīnandā bhikkhunī abhirūpā hoti dassanīyā pāsādikā. Manussā bhattagge sundarīnandaṁ bhikkhuniṁ passitvā avassutā avassutāya sundarīnandāya bhikkhuniyā aggamaggāni bhojanāni denti. Sundarīnandā bhikkhunī yāvadatthaṁ bhuñjati; aññā bhikkhuniyo na cittarūpaṁ labhanti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sundarīnandā bhikkhunī abhirūpā hoti dassanīyā pāsādikā. Manussā bhattagge sundarīnandaṁ bhikkhuniṁ passitvā avassutā avassutāya sundarīnandāya bhikkhuniyā aggamaggāni bhojanāni denti. Sundarīnandā bhikkhunī yāvadatthaṁ bhuñjati; aññā bhikkhuniyo na cittarūpaṁ labhanti.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā sundarīnandā avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādissati bhuñjissatī”ti …pe… “saccaṁ kira, bhikkhave, sundarīnandā bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādati bhuñjatī”ti?
+1.6\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā sundarīnandā avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādissati bhuñjissatī”ti …pe… “saccaṁ kira, bhikkhave, sundarīnandā bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādati bhuñjatī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, sundarīnandā bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādissati bhuñjissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, sundarīnandā bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādissati bhuñjissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesan”ti.
+1.14\. “Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -58,7 +58,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, sundarīnandā bhi
 
 > …pe… tenapi vuccati saṅghādisesoti.
 
-Udakadantaponaṁ paṭiggaṇhāti, āpatti dukkaṭassa.
+2.2\. Udakadantaponaṁ paṭiggaṇhāti, āpatti dukkaṭassa.
 
 Ekatoavassute “khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa.
 
@@ -68,6 +68,6 @@ Ubhatoavassute yakkhassa vā petassa vā paṇḍakassa vā tiracchānagatamanus
 
 Ekatoavassute “khādissāmi bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa. Ajjhohāre ajjhohāre āpatti dukkaṭassa. Udakadantaponaṁ paṭiggaṇhāti, āpatti dukkaṭassa.
 
-Anāpatti— ubhatoanavassutā honti, “anavassuto”ti jānantī paṭiggaṇhāti, ummattikāya, ādikammikāyāti.
+2.3\. Anāpatti— ubhatoanavassutā honti, “anavassuto”ti jānantī paṭiggaṇhāti, ummattikāya, ādikammikāyāti.
 
 Pañcamasaṅghādisesasikkhāpadaṁ niṭṭhitaṁ.

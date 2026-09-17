@@ -4,17 +4,17 @@
 
 # 7. Āmakadhaññasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo sassakāle āmakadhaññaṁ viññāpetvā nagaraṁ atiharanti dvāraṭṭhāne— “dethāyye, bhāgan”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo sassakāle āmakadhaññaṁ viññāpetvā nagaraṁ atiharanti dvāraṭṭhāne— “dethāyye, bhāgan”ti.
 
-Palibundhetvā muñciṁsu. Atha kho tā bhikkhuniyo upassayaṁ gantvā bhikkhunīnaṁ etamatthaṁ ārocesuṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo āmakadhaññaṁ viññāpessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo āmakadhaññaṁ viññāpentī”ti?
+1.4\. Palibundhetvā muñciṁsu. Atha kho tā bhikkhuniyo upassayaṁ gantvā bhikkhunīnaṁ etamatthaṁ ārocesuṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo āmakadhaññaṁ viññāpessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo āmakadhaññaṁ viññāpentī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo āmakadhaññaṁ viññāpessanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo āmakadhaññaṁ viññāpessanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī āmakadhaññaṁ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyan”ti.
+1.14\. “Yā pana bhikkhunī āmakadhaññaṁ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -60,6 +60,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo āmaka
 
 “Bhuñjissāmī”ti paṭiggaṇhāti, āpatti dukkaṭassa. Ajjhohāre ajjhohāre āpatti pācittiyassa.
 
-Anāpatti— ābādhapaccayā, aparaṇṇaṁ viññāpeti, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— ābādhapaccayā, aparaṇṇaṁ viññāpeti, ummattikāya, ādikammikāyāti.
 
 Sattamasikkhāpadaṁ niṭṭhitaṁ.

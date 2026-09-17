@@ -4,17 +4,17 @@
 
 # 71. Sahadhammikasikkhāpada
 
-1\. Tena samayena buddho bhagavā kosambiyaṁ viharati ghositārāme. Tena kho pana samayena āyasmā channo anācāraṁ ācarati. Bhikkhū evamāhaṁsu— “māvuso channa, evarūpaṁ akāsi. Netaṁ kappatī”ti. So evaṁ vadeti— “na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī”ti.
+1.1\. Tena samayena buddho bhagavā kosambiyaṁ viharati ghositārāme. Tena kho pana samayena āyasmā channo anācāraṁ ācarati. Bhikkhū evamāhaṁsu— “māvuso channa, evarūpaṁ akāsi. Netaṁ kappatī”ti. So evaṁ vadeti— “na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī”ti.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā channo bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vakkhati— ‘na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī’”ti …pe… “saccaṁ kira tvaṁ, channa, bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vadesi— ‘na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī’”ti?
+1.8\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā channo bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vakkhati— ‘na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī’”ti …pe… “saccaṁ kira tvaṁ, channa, bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vadesi— ‘na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī’”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.13\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vakkhasi— ‘na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī’ti. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.14\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vakkhasi— ‘na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī’ti. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vadeyya—‘na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī’ti, pācittiyaṁ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ. Ayaṁ tattha sāmīcī”ti.
+1.19\. “Yo pana bhikkhu bhikkhūhi sahadhammikaṁ vuccamāno evaṁ vadeyya—‘na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī’ti, pācittiyaṁ. Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ. Ayaṁ tattha sāmīcī”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -30,7 +30,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, bhikkhūh
 
 > yaṁ bhagavatā paññattaṁ sikkhāpadaṁ etaṁ sahadhammikaṁ nāma. Tena vuccamāno evaṁ vadeti— “na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paripucchāmī”ti. Paṇḍitaṁ byattaṁ medhāviṁ bahussutaṁ dhammakathikaṁ paripucchāmīti bhaṇati, āpatti pācittiyassa.
 
-Upasampanne upasampannasaññī evaṁ vadeti, āpatti pācittiyassa. Upasampanne vematiko evaṁ vadeti, āpatti pācittiyassa. Upasampanne anupasampannasaññī evaṁ vadeti, āpatti pācittiyassa.
+2.2\. Upasampanne upasampannasaññī evaṁ vadeti, āpatti pācittiyassa. Upasampanne vematiko evaṁ vadeti, āpatti pācittiyassa. Upasampanne anupasampannasaññī evaṁ vadeti, āpatti pācittiyassa.
 
 Apaññattena vuccamāno— “idaṁ na sallekhāya na dhutatthāya na pāsādikatāya na apacayāya na vīriyārambhāya saṁvattatī”ti evaṁ vadeti, “na tāvāhaṁ, āvuso, etasmiṁ sikkhāpade sikkhissāmi yāva na aññaṁ bhikkhuṁ byattaṁ vinayadharaṁ paṇḍitaṁ medhāviṁ bahussutaṁ dhammakathikaṁ paripucchāmī”ti bhaṇati, āpatti dukkaṭassa.
 
@@ -58,6 +58,6 @@ Anupasampanne upasampannasaññī, āpatti dukkaṭassa. Anupasampanne vematiko,
 
 > ayaṁ tattha anudhammatā.
 
-Anāpatti— “jānissāmi sikkhissāmī”ti bhaṇati, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— “jānissāmi sikkhissāmī”ti bhaṇati, ummattakassa, ādikammikassāti.
 
 Sahadhammikasikkhāpadaṁ niṭṭhitaṁ paṭhamaṁ.

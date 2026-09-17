@@ -4,17 +4,17 @@
 
 # 49. Tiracchānavijjāpariyāpuṇanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo tiracchānavijjaṁ pariyāpuṇanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo tiracchānavijjaṁ pariyāpuṇissanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo tiracchānavijjaṁ pariyāpuṇanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo tiracchānavijjaṁ pariyāpuṇissanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
 
-Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo tiracchānavijjaṁ pariyāpuṇissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo tiracchānavijjaṁ pariyāpuṇantī”ti?
+1.5\. Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo tiracchānavijjaṁ pariyāpuṇissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo tiracchānavijjaṁ pariyāpuṇantī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo tiracchānavijjaṁ pariyāpuṇissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo tiracchānavijjaṁ pariyāpuṇissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī tiracchānavijjaṁ pariyāpuṇeyya, pācittiyan”ti.
+1.14\. “Yā pana bhikkhunī tiracchānavijjaṁ pariyāpuṇeyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -30,6 +30,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikk
 
 > padena pariyāpuṇāti, pade pade āpatti pācittiyassa. Akkharāya pariyāpuṇāti, akkharakkharāya āpatti pācittiyassa.
 
-Anāpatti— lekhaṁ pariyāpuṇāti, dhāraṇaṁ pariyāpuṇāti, guttatthāya parittaṁ pariyāpuṇāti, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— lekhaṁ pariyāpuṇāti, dhāraṇaṁ pariyāpuṇāti, guttatthāya parittaṁ pariyāpuṇāti, ummattikāya, ādikammikāyāti.
 
 Navamasikkhāpadaṁ niṭṭhitaṁ.

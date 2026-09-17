@@ -4,27 +4,27 @@
 
 # 6. Vajjappaṭicchādikāsikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sundarīnandā bhikkhunī sāḷhena migāranattunā gabbhinī hoti. Yāva gabbho taruṇo ahosi tāva chādesi. Paripakke gabbhe vibbhamitvā vijāyi.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sundarīnandā bhikkhunī sāḷhena migāranattunā gabbhinī hoti. Yāva gabbho taruṇo ahosi tāva chādesi. Paripakke gabbhe vibbhamitvā vijāyi.
 
-Bhikkhuniyo thullanandaṁ bhikkhuniṁ etadavocuṁ— “sundarīnandā kho, ayye, aciravibbhantā vijātā. Kacci no sā bhikkhunīyeva samānā gabbhinī”ti?
+1.5\. Bhikkhuniyo thullanandaṁ bhikkhuniṁ etadavocuṁ— “sundarīnandā kho, ayye, aciravibbhantā vijātā. Kacci no sā bhikkhunīyeva samānā gabbhinī”ti?
 
-“Evaṁ, ayye”ti.
+1.8\. “Evaṁ, ayye”ti.
 
-“Kissa pana tvaṁ, ayye, jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodesi na gaṇassa ārocesī”ti?
+1.9\. “Kissa pana tvaṁ, ayye, jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodesi na gaṇassa ārocesī”ti?
 
-“Yo etissā avaṇṇo mayheso avaṇṇo, yā etissā akitti mayhesā akitti, yo etissā ayaso mayheso ayaso, yo etissā alābho mayheso alābho. Kyāhaṁ, ayye, attano avaṇṇaṁ attano akittiṁ attano ayasaṁ attano alābhaṁ paresaṁ ārocessāmī”ti?
+1.10\. “Yo etissā avaṇṇo mayheso avaṇṇo, yā etissā akitti mayhesā akitti, yo etissā ayaso mayheso ayaso, yo etissā alābho mayheso alābho. Kyāhaṁ, ayye, attano avaṇṇaṁ attano akittiṁ attano ayasaṁ attano alābhaṁ paresaṁ ārocessāmī”ti?
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodessati na gaṇassa ārocessatī”ti.
+1.12\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodessati na gaṇassa ārocessatī”ti.
 
-Atha kho tā bhikkhuniyo bhikkhūnaṁ etamatthaṁ ārocesuṁ. Bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “saccaṁ kira, bhikkhave, thullanandā bhikkhunī jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodeti na gaṇassa ārocetī”ti?
+1.14\. Atha kho tā bhikkhuniyo bhikkhūnaṁ etamatthaṁ ārocesuṁ. Bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “saccaṁ kira, bhikkhave, thullanandā bhikkhunī jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodeti na gaṇassa ārocetī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.18\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodessati na gaṇassa ārocessati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.19\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodessati na gaṇassa ārocessati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodeyya na gaṇassa āroceyya, yadā ca sā ṭhitā vā assa cutā vā nāsitā vā avassaṭā vā, sā pacchā evaṁ vadeyya—‘pubbevāhaṁ, ayye, aññāsiṁ etaṁ bhikkhuniṁ evarūpā ca evarūpā ca sā bhaginīti, no ca kho attanā paṭicodessaṁ na gaṇassa ārocessan’ti, ayampi pārājikā hoti asaṁvāsā vajjappaṭicchādikā”ti.
+1.23\. “Yā pana bhikkhunī jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodeyya na gaṇassa āroceyya, yadā ca sā ṭhitā vā assa cutā vā nāsitā vā avassaṭā vā, sā pacchā evaṁ vadeyya—‘pubbevāhaṁ, ayye, aññāsiṁ etaṁ bhikkhuniṁ evarūpā ca evarūpā ca sā bhaginīti, no ca kho attanā paṭicodessaṁ na gaṇassa ārocessan’ti, ayampi pārājikā hoti asaṁvāsā vajjappaṭicchādikā”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -80,6 +80,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 > saṁvāso nāma ekakammaṁ ekuddeso samasikkhatā. Eso saṁvāso nāma. So tāya saddhiṁ natthi. Tena vuccati asaṁvāsāti.
 
-Anāpatti— “saṅghassa bhaṇḍanaṁ vā kalaho vā viggaho vā vivādo vā bhavissatī”ti nāroceti, “saṅghabhedo vā saṅgharāji vā bhavissatī”ti nāroceti, “ayaṁ kakkhaḷā pharusā jīvitantarāyaṁ vā brahmacariyantarāyaṁ vā karissatī”ti nāroceti, aññā patirūpā bhikkhuniyo apassantī nāroceti, nacchādetukāmā nāroceti, paññāyissati sakena kammenāti nāroceti, ummattikāya …pe… ādikammikāyāti.
+2.2\. Anāpatti— “saṅghassa bhaṇḍanaṁ vā kalaho vā viggaho vā vivādo vā bhavissatī”ti nāroceti, “saṅghabhedo vā saṅgharāji vā bhavissatī”ti nāroceti, “ayaṁ kakkhaḷā pharusā jīvitantarāyaṁ vā brahmacariyantarāyaṁ vā karissatī”ti nāroceti, aññā patirūpā bhikkhuniyo apassantī nāroceti, nacchādetukāmā nāroceti, paññāyissati sakena kammenāti nāroceti, ummattikāya …pe… ādikammikāyāti.
 
 Dutiyapārājikaṁ samattaṁ.

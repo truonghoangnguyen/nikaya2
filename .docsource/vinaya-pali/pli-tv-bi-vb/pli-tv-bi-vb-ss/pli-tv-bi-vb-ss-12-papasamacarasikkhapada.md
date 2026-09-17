@@ -4,17 +4,17 @@
 
 # 12. Pāpasamācārasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandāya bhikkhuniyā antevāsikā bhikkhuniyo saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandāya bhikkhuniyā antevāsikā bhikkhuniyo saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo saṁsaṭṭhā viharissanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā”ti?
+1.3\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo saṁsaṭṭhā viharissanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.6\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo saṁsaṭṭhā viharissanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.7\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo saṁsaṭṭhā viharissanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Bhikkhuniyo paneva saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā— ‘bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā. Viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī’ti. Evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṁ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya. Yāvatatiyañce samanubhāsīyamānā taṁ paṭinissajjeyyuṁ, iccetaṁ kusalaṁ; no ce paṭinissajjeyyuṁ, imāpi bhikkhuniyo yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesan”ti.
+1.11\. “Bhikkhuniyo paneva saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā, aññamaññissā vajjappaṭicchādikā. Tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā— ‘bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā, bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā. Viviccathāyye. Vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī’ti. Evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṁ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya. Yāvatatiyañce samanubhāsīyamānā taṁ paṭinissajjeyyuṁ, iccetaṁ kusalaṁ; no ce paṭinissajjeyyuṁ, imāpi bhikkhuniyo yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesan”ti.
 
-2\. **Bhikkhuniyo panevāti**
+2.1\. **Bhikkhuniyo panevāti**
 
 > upasampannāyo vuccanti.
 
@@ -78,10 +78,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo saṁs
 
 > …pe… tenapi vuccati saṅghādisesoti.
 
-Dhammakamme dhammakammasaññā na paṭinissajjanti, āpatti saṅghādisesassa. Dhammakamme vematikā na paṭinissajjanti, āpatti saṅghādisesassa. Dhammakamme adhammakammasaññā na paṭinissajjanti, āpatti saṅghādisesassa.
+2.2\. Dhammakamme dhammakammasaññā na paṭinissajjanti, āpatti saṅghādisesassa. Dhammakamme vematikā na paṭinissajjanti, āpatti saṅghādisesassa. Dhammakamme adhammakammasaññā na paṭinissajjanti, āpatti saṅghādisesassa.
 
 Adhammakamme dhammakammasaññā, āpatti dukkaṭassa. Adhammakamme vematikā, āpatti dukkaṭassa. Adhammakamme adhammakammasaññā, āpatti dukkaṭassa.
 
-Anāpatti— asamanubhāsantīnaṁ, paṭinissajjantīnaṁ, ummattikānaṁ, ādikammikānanti.
+2.3\. Anāpatti— asamanubhāsantīnaṁ, paṭinissajjantīnaṁ, ummattikānaṁ, ādikammikānanti.
 
 Navamasaṅghādisesasikkhāpadaṁ niṭṭhitaṁ.

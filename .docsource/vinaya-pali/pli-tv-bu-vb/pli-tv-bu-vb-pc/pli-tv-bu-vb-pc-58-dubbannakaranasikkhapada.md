@@ -4,13 +4,13 @@
 
 # 58. Dubbaṇṇakaraṇasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sambahulā bhikkhū ca paribbājakā ca sāketā sāvatthiṁ addhānamaggappaṭipannā honti. Antarāmagge corā nikkhamitvā te acchindiṁsu. Sāvatthiyā rājabhaṭā nikkhamitvā te core sabhaṇḍe gahetvā bhikkhūnaṁ santike dūtaṁ pāhesuṁ— “āgacchantu, bhadantā, sakaṁ sakaṁ cīvaraṁ sañjānitvā gaṇhantū”ti. Bhikkhū na sañjānanti. Te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhadantā attano attano cīvaraṁ na sañjānissantī”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena sambahulā bhikkhū ca paribbājakā ca sāketā sāvatthiṁ addhānamaggappaṭipannā honti. Antarāmagge corā nikkhamitvā te acchindiṁsu. Sāvatthiyā rājabhaṭā nikkhamitvā te core sabhaṇḍe gahetvā bhikkhūnaṁ santike dūtaṁ pāhesuṁ— “āgacchantu, bhadantā, sakaṁ sakaṁ cīvaraṁ sañjānitvā gaṇhantū”ti. Bhikkhū na sañjānanti. Te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhadantā attano attano cīvaraṁ na sañjānissantī”ti.
 
-Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhūnaṁ tadanucchavikaṁ tadanulomikaṁ dhammiṁ kathaṁ katvā bhikkhū āmantesi— “tena hi, bhikkhave, bhikkhūnaṁ sikkhāpadaṁ paññapessāmi dasa atthavase paṭicca— saṅghasuṭṭhutāya, saṅghaphāsutāya …pe… saddhammaṭṭhitiyā, vinayānuggahāya. Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.8\. Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhūnaṁ tadanucchavikaṁ tadanulomikaṁ dhammiṁ kathaṁ katvā bhikkhū āmantesi— “tena hi, bhikkhave, bhikkhūnaṁ sikkhāpadaṁ paññapessāmi dasa atthavase paṭicca— saṅghasuṭṭhutāya, saṅghaphāsutāya …pe… saddhammaṭṭhitiyā, vinayānuggahāya. Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Navaṁ pana bhikkhunā cīvaralābhena tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ ādātabbaṁ—nīlaṁ vā kaddamaṁ vā kāḷasāmaṁ vā. Anādā ce bhikkhu tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ navaṁ cīvaraṁ paribhuñjeyya, pācittiyan”ti.
+1.15\. “Navaṁ pana bhikkhunā cīvaralābhena tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ ādātabbaṁ—nīlaṁ vā kaddamaṁ vā kāḷasāmaṁ vā. Anādā ce bhikkhu tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ navaṁ cīvaraṁ paribhuñjeyya, pācittiyan”ti.
 
-2\. **Navaṁ nāma**
+2.1\. **Navaṁ nāma**
 
 > akatakappaṁ vuccati.
 
@@ -38,10 +38,10 @@ Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ v
 
 > antamaso kusaggenapi anādiyitvā tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ navaṁ cīvaraṁ paribhuñjati, āpatti pācittiyassa.
 
-Anādinne anādinnasaññī paribhuñjati, āpatti pācittiyassa. Anādinne vematiko paribhuñjati, āpatti pācittiyassa. Anādinne ādinnasaññī paribhuñjati, āpatti pācittiyassa.
+2.2\. Anādinne anādinnasaññī paribhuñjati, āpatti pācittiyassa. Anādinne vematiko paribhuñjati, āpatti pācittiyassa. Anādinne ādinnasaññī paribhuñjati, āpatti pācittiyassa.
 
 Ādinne anādinnasaññī, āpatti dukkaṭassa. Ādinne vematiko, āpatti dukkaṭassa. Ādinne ādinnasaññī, anāpatti.
 
-Anāpatti— ādiyitvā paribhuñjati, kappo naṭṭho hoti, kappakatokāso jiṇṇo hoti, kappakatena akappakataṁ saṁsibbitaṁ hoti, aggaḷe, anuvāte, paribhaṇḍe, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— ādiyitvā paribhuñjati, kappo naṭṭho hoti, kappakatokāso jiṇṇo hoti, kappakatena akappakataṁ saṁsibbitaṁ hoti, aggaḷe, anuvāte, paribhaṇḍe, ummattakassa, ādikammikassāti.
 
 Dubbaṇṇakaraṇasikkhāpadaṁ niṭṭhitaṁ aṭṭhamaṁ.

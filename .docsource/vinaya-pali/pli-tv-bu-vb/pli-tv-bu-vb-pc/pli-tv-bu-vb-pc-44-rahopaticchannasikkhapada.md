@@ -4,17 +4,17 @@
 
 # 44. Rahopaṭicchannasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto sahāyakassa gharaṁ gantvā tassa pajāpatiyā saddhiṁ raho paṭicchanne āsane nisajjaṁ kappesi. Atha kho so puriso ujjhāyati khiyyati vipāceti— “kathañhi nāma ayyo upanando mayhaṁ pajāpatiyā saddhiṁ raho paṭicchanne āsane nisajjaṁ kappessatī”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto sahāyakassa gharaṁ gantvā tassa pajāpatiyā saddhiṁ raho paṭicchanne āsane nisajjaṁ kappesi. Atha kho so puriso ujjhāyati khiyyati vipāceti— “kathañhi nāma ayyo upanando mayhaṁ pajāpatiyā saddhiṁ raho paṭicchanne āsane nisajjaṁ kappessatī”ti.
 
-Assosuṁ kho bhikkhū tassa purisassa ujjhāyantassa khiyyantassa vipācentassa. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā upanando sakyaputto mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappessatī”ti …pe… “saccaṁ kira tvaṁ, upananda, mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappesī”ti?
+1.5\. Assosuṁ kho bhikkhū tassa purisassa ujjhāyantassa khiyyantassa vipācentassa. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā upanando sakyaputto mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappessatī”ti …pe… “saccaṁ kira tvaṁ, upananda, mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappesī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.9\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.10\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappeyya, pācittiyan”ti.
+1.14\. “Yo pana bhikkhu mātugāmena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappeyya, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -50,10 +50,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, mātugām
 
 > mātugāme nisinne bhikkhu upanisinno vā hoti upanipanno vā, āpatti pācittiyassa. Bhikkhu nisinne mātugāmo upanisinno vā hoti upanipanno vā, āpatti pācittiyassa. Ubho vā nisinnā honti ubho vā nipannā, āpatti pācittiyassa.
 
-Mātugāme mātugāmasaññī raho paṭicchanne āsane nisajjaṁ kappeti, āpatti pācittiyassa. Mātugāme vematiko raho paṭicchanne āsane nisajjaṁ kappeti, āpatti pācittiyassa. Mātugāme amātugāmasaññī raho paṭicchanne āsane nisajjaṁ kappeti, āpatti pācittiyassa.
+2.2\. Mātugāme mātugāmasaññī raho paṭicchanne āsane nisajjaṁ kappeti, āpatti pācittiyassa. Mātugāme vematiko raho paṭicchanne āsane nisajjaṁ kappeti, āpatti pācittiyassa. Mātugāme amātugāmasaññī raho paṭicchanne āsane nisajjaṁ kappeti, āpatti pācittiyassa.
 
 Yakkhiyā vā petiyā vā paṇḍakena vā tiracchānagatāya vā manussaviggahitthiyā vā saddhiṁ raho paṭicchanne āsane nisajjaṁ kappeti, āpatti dukkaṭassa. Amātugāme mātugāmasaññī, āpatti dukkaṭassa. Amātugāme vematiko, āpatti dukkaṭassa. Amātugāme amātugāmasaññī, anāpatti.
 
-Anāpatti— yo koci viññū puriso dutiyo hoti, tiṭṭhati na nisīdati, arahopekkho, aññavihito nisīdati, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— yo koci viññū puriso dutiyo hoti, tiṭṭhati na nisīdati, arahopekkho, aññavihito nisīdati, ummattakassa, ādikammikassāti.
 
 Rahopaṭicchannasikkhāpadaṁ niṭṭhitaṁ catutthaṁ.

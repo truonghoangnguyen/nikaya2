@@ -4,17 +4,17 @@
 
 # 79. Sokāvāsasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ caṇḍakāḷiṁ sikkhamānaṁ vuṭṭhāpeti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ caṇḍakāḷiṁ sikkhamānaṁ vuṭṭhāpeti.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ caṇḍakāḷiṁ sikkhamānaṁ vuṭṭhāpessatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ caṇḍakāḷiṁ sikkhamānaṁ vuṭṭhāpetī”ti?
+1.3\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ caṇḍakāḷiṁ sikkhamānaṁ vuṭṭhāpessatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ caṇḍakāḷiṁ sikkhamānaṁ vuṭṭhāpetī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.6\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ caṇḍakāḷiṁ sikkhamānaṁ vuṭṭhāpessati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.7\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ caṇḍakāḷiṁ sikkhamānaṁ vuṭṭhāpessati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ sikkhamānaṁ vuṭṭhāpeyya, pācittiyan”ti.
+1.11\. “Yā pana bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ sikkhamānaṁ vuṭṭhāpeyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -50,6 +50,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 > upasampādeyya. “Vuṭṭhāpessāmī”ti gaṇaṁ vā ācariniṁ vā pattaṁ vā cīvaraṁ vā pariyesati, sīmaṁ vā sammannati, āpatti dukkaṭassa. Ñattiyā dukkaṭaṁ. Dvīhi kammavācāhi dukkaṭā. Kammavācāpariyosāne upajjhāyāya āpatti pācittiyassa; gaṇassa ca ācariniyā ca āpatti dukkaṭassa.
 
-Anāpatti— ajānantī vuṭṭhāpeti, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— ajānantī vuṭṭhāpeti, ummattikāya, ādikammikāyāti.
 
 Navamasikkhāpadaṁ niṭṭhitaṁ.

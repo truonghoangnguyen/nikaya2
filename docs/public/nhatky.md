@@ -99,3 +99,8 @@ SN 22.48
 ### date 2026-09-01
 - Thiết kế lại anchor của kinh, các kinh đều có phần anchor theo số #1.2, #1.2...
 '
+
+### date 2026-09-15
+Thêm sách Phật Giáo, Giáo lý và tông Phái của Schumann. Việc dịch kinh rất mệt và dễ bị trở nên đơn điệu, tôi vô tình phát hiện ra trong lúc dịch mình dịch thêm những sách khác rồi quay lại việc đọc kinh sẽ có chiều sâu hơn.
+
+Thêm cờ flat cho quicklink (trường hợp kinh thag, thig)

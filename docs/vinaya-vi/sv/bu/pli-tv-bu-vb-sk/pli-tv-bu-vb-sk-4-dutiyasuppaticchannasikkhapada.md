@@ -4,12 +4,12 @@
 
 # 4. Dutiyasuppaṭicchannasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū kāyaṁ vivaritvā antaraghare nisīdanti …pe….
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū kāyaṁ vivaritvā antaraghare nisīdanti …pe….
 
-“Suppaṭicchanno antaraghare nisīdissāmīti sikkhā karaṇīyā”ti.
+1.3\. “Suppaṭicchanno antaraghare nisīdissāmīti sikkhā karaṇīyā”ti.
 
-Suppaṭicchannena antaraghare nisīditabbaṁ. Yo anādariyaṁ paṭicca kāyaṁ vivaritvā antaraghare nisīdati, āpatti dukkaṭassa.
+1.4\. Suppaṭicchannena antaraghare nisīditabbaṁ. Yo anādariyaṁ paṭicca kāyaṁ vivaritvā antaraghare nisīdati, āpatti dukkaṭassa.
 
-Anāpatti— asañcicca, assatiyā, ajānantassa, gilānassa, vāsūpagatassa, āpadāsu, ummattakassa, ādikammikassāti.
+1.6\. Anāpatti— asañcicca, assatiyā, ajānantassa, gilānassa, vāsūpagatassa, āpadāsu, ummattakassa, ādikammikassāti.
 
-Catutthasikkhāpadaṁ niṭṭhitaṁ.
+1.15\. Catutthasikkhāpadaṁ niṭṭhitaṁ.

@@ -4,17 +4,17 @@
 
 # 41. Rājāgārasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena rañño pasenadissa kosalassa uyyāne cittāgāre paṭibhānacittaṁ kataṁ hoti. Bahū manussā cittāgāraṁ dassanāya gacchanti. Chabbaggiyāpi bhikkhuniyo cittāgāraṁ dassanāya agamaṁsu. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo cittāgāraṁ dassanāya gacchissanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena rañño pasenadissa kosalassa uyyāne cittāgāre paṭibhānacittaṁ kataṁ hoti. Bahū manussā cittāgāraṁ dassanāya gacchanti. Chabbaggiyāpi bhikkhuniyo cittāgāraṁ dassanāya agamaṁsu. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo cittāgāraṁ dassanāya gacchissanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
 
-Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo cittāgāraṁ dassanāya gacchissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo cittāgāraṁ dassanāya gacchantī”ti?
+1.7\. Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo cittāgāraṁ dassanāya gacchissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo cittāgāraṁ dassanāya gacchantī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.11\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo cittāgāraṁ dassanāya gacchissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.12\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikkhuniyo cittāgāraṁ dassanāya gacchissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī rājāgāraṁ vā cittāgāraṁ vā ārāmaṁ vā uyyānaṁ vā pokkharaṇiṁ vā dassanāya gaccheyya, pācittiyan”ti.
+1.16\. “Yā pana bhikkhunī rājāgāraṁ vā cittāgāraṁ vā ārāmaṁ vā uyyānaṁ vā pokkharaṇiṁ vā dassanāya gaccheyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -46,6 +46,6 @@ Dassanāya gacchati, āpatti dukkaṭassa. Yattha ṭhitā passati, āpatti pāc
 
 Ekamekaṁ dassanāya gacchati, āpatti dukkaṭassa. Yattha ṭhitā passati, āpatti pācittiyassa. Dassanūpacāraṁ vijahitvā punappunaṁ passati, āpatti pācittiyassa.
 
-Anāpatti— ārāme ṭhitā passati, gacchantī vā āgacchantī vā passati, sati karaṇīye gantvā passati, āpadāsu, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— ārāme ṭhitā passati, gacchantī vā āgacchantī vā passati, sati karaṇīye gantvā passati, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Paṭhamasikkhāpadaṁ niṭṭhitaṁ.

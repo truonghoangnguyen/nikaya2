@@ -198,4 +198,8 @@ tìm
 thay thế
 [Ud. $1:$2](/link?q=ud-$1.$2){target=_black}
 
+---
+các giáo phái :
 
+\(S (\d+), (\d+)([^)]*)\)
+([SN $1, $2$3](/link?q=SN-$1.$2))

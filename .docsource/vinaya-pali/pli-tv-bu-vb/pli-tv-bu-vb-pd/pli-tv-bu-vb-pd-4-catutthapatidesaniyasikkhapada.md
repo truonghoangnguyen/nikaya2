@@ -4,25 +4,25 @@
 
 # 4. Catutthapāṭidesanīyasikkhāpada
 
-1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Tena kho pana samayena sākiyadāsakā avaruddhā honti. Sākiyāniyo icchanti āraññakesu senāsanesu bhattaṁ kātuṁ. Assosuṁ kho sākiyadāsakā— “sākiyāniyo kira āraññakesu senāsanesu bhattaṁ kattukāmā”ti. Te magge pariyuṭṭhiṁsu. Sākiyāniyo paṇītaṁ khādanīyaṁ bhojanīyaṁ ādāya āraññakaṁ senāsanaṁ agamaṁsu. Sākiyadāsakā nikkhamitvā sākiyāniyo acchindiṁsu ca dūsesuñca. Sākiyā nikkhamitvā te core sabhaṇḍe gahetvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhadantā ārāme core paṭivasante nārocessantī”ti.
+1.1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Tena kho pana samayena sākiyadāsakā avaruddhā honti. Sākiyāniyo icchanti āraññakesu senāsanesu bhattaṁ kātuṁ. Assosuṁ kho sākiyadāsakā— “sākiyāniyo kira āraññakesu senāsanesu bhattaṁ kattukāmā”ti. Te magge pariyuṭṭhiṁsu. Sākiyāniyo paṇītaṁ khādanīyaṁ bhojanīyaṁ ādāya āraññakaṁ senāsanaṁ agamaṁsu. Sākiyadāsakā nikkhamitvā sākiyāniyo acchindiṁsu ca dūsesuñca. Sākiyā nikkhamitvā te core sabhaṇḍe gahetvā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhadantā ārāme core paṭivasante nārocessantī”ti.
 
-Assosuṁ kho bhikkhū sākiyānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi— “tena hi, bhikkhave, bhikkhūnaṁ sikkhāpadaṁ paññapessāmi dasa atthavase paṭicca saṅghasuṭṭhutāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.11\. Assosuṁ kho bhikkhū sākiyānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi— “tena hi, bhikkhave, bhikkhūnaṁ sikkhāpadaṁ paññapessāmi dasa atthavase paṭicca saṅghasuṭṭhutāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā— ‘gārayhaṁ, āvuso, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ taṁ paṭidesemī’”ti.
+1.16\. “Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā— ‘gārayhaṁ, āvuso, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ taṁ paṭidesemī’”ti.
 
-Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.
+1.18\. Evañcidaṁ bhagavatā bhikkhūnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
-2\. Tena kho pana samayena aññataro bhikkhu āraññakesu senāsanesu gilāno hoti. Manussā khādanīyaṁ vā bhojanīyaṁ vā ādāya āraññakaṁ senāsanaṁ agamaṁsu. Atha kho te manussā taṁ bhikkhuṁ etadavocuṁ— “bhuñjatha, bhante”ti. Atha kho so bhikkhu— “bhagavatā paṭikkhittaṁ āraññakesu senāsanesu khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādituṁ bhuñjitun”ti kukkuccāyanto na paṭiggahesi, nāsakkhi piṇḍāya carituṁ, chinnabhatto ahosi.
+2.1\. Tena kho pana samayena aññataro bhikkhu āraññakesu senāsanesu gilāno hoti. Manussā khādanīyaṁ vā bhojanīyaṁ vā ādāya āraññakaṁ senāsanaṁ agamaṁsu. Atha kho te manussā taṁ bhikkhuṁ etadavocuṁ— “bhuñjatha, bhante”ti. Atha kho so bhikkhu— “bhagavatā paṭikkhittaṁ āraññakesu senāsanesu khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādituṁ bhuñjitun”ti kukkuccāyanto na paṭiggahesi, nāsakkhi piṇḍāya carituṁ, chinnabhatto ahosi.
 
-Atha kho so bhikkhu bhikkhūnaṁ etamatthaṁ ārocesi. Bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+2.7\. Atha kho so bhikkhu bhikkhūnaṁ etamatthaṁ ārocesi. Bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi—
 
-“anujānāmi, bhikkhave, gilānena bhikkhunā āraññakesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādituṁ bhuñjituṁ.
+2.10\. “anujānāmi, bhikkhave, gilānena bhikkhunā āraññakesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā sahatthā paṭiggahetvā khādituṁ bhuñjituṁ.
 
-Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+2.11\. Evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā— ‘gārayhaṁ, āvuso, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī’”ti.
+2.12\. “Yāni kho pana tāni āraññakāni senāsanāni sāsaṅkasammatāni sappaṭibhayāni, yo pana bhikkhu tathārūpesu senāsanesu pubbe appaṭisaṁviditaṁ khādanīyaṁ vā bhojanīyaṁ vā ajjhārāme sahatthā paṭiggahetvā agilāno khādeyya vā bhuñjeyya vā, paṭidesetabbaṁ tena bhikkhunā— ‘gārayhaṁ, āvuso, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī’”ti.
 
-3\. **Yāni kho pana tāni āraññakāni senāsanānīti**
+3.1\. **Yāni kho pana tāni āraññakāni senāsanānīti**
 
 > āraññakaṁ nāma senāsanaṁ pañcadhanusatikaṁ pacchimaṁ.
 
@@ -80,7 +80,7 @@ Appaṭisaṁvidite appaṭisaṁviditasaññī khādanīyaṁ vā bhojanīyaṁ
 
 Yāmakālikaṁ sattāhakālikaṁ yāvajīvikaṁ āhāratthāya paṭiggaṇhāti, āpatti dukkaṭassa. Ajjhohāre ajjhohāre āpatti dukkaṭassa. Paṭisaṁvidite appaṭisaṁviditasaññī, āpatti dukkaṭassa. Paṭisaṁvidite vematiko, āpatti dukkaṭassa. Paṭisaṁvidite paṭisaṁviditasaññī, anāpatti.
 
-Anāpatti— paṭisaṁvidite, gilānassa, paṭisaṁvidite vā gilānassa vā sesakaṁ bhuñjati, bahārāme paṭiggahetvā antoārāme bhuñjati, tattha jātakaṁ mūlaṁ vā tacaṁ vā pattaṁ vā pupphaṁ vā phalaṁ vā bhuñjati, yāmakālikaṁ sattāhakālikaṁ yāvajīvikaṁ sati paccaye paribhuñjati, ummattakassa, ādikammikassāti.
+3.2\. Anāpatti— paṭisaṁvidite, gilānassa, paṭisaṁvidite vā gilānassa vā sesakaṁ bhuñjati, bahārāme paṭiggahetvā antoārāme bhuñjati, tattha jātakaṁ mūlaṁ vā tacaṁ vā pattaṁ vā pupphaṁ vā phalaṁ vā bhuñjati, yāmakālikaṁ sattāhakālikaṁ yāvajīvikaṁ sati paccaye paribhuñjati, ummattakassa, ādikammikassāti.
 
 Catutthapāṭidesanīyasikkhāpadaṁ niṭṭhitaṁ.
 

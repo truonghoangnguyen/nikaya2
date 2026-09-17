@@ -4,33 +4,33 @@
 
 # 4. Purāṇacīvarasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmato udāyissa purāṇadutiyikā bhikkhunīsu pabbajitā hoti. Sā āyasmato udāyissa santike abhikkhaṇaṁ āgacchati. Āyasmāpi udāyī tassā bhikkhuniyā santike abhikkhaṇaṁ gacchati. Tena kho pana samayena āyasmā udāyī tassā bhikkhuniyā santike bhattavissaggaṁ karoti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmato udāyissa purāṇadutiyikā bhikkhunīsu pabbajitā hoti. Sā āyasmato udāyissa santike abhikkhaṇaṁ āgacchati. Āyasmāpi udāyī tassā bhikkhuniyā santike abhikkhaṇaṁ gacchati. Tena kho pana samayena āyasmā udāyī tassā bhikkhuniyā santike bhattavissaggaṁ karoti.
 
-Atha kho āyasmā udāyī pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena sā bhikkhunī tenupasaṅkami; upasaṅkamitvā tassā bhikkhuniyā purato aṅgajātaṁ vivaritvā āsane nisīdi. Sāpi kho bhikkhunī āyasmato udāyissa purato aṅgajātaṁ vivaritvā āsane nisīdi. Atha kho āyasmā udāyī sāratto tassā bhikkhuniyā aṅgajātaṁ upanijjhāyi. Tassa asuci mucci.
+1.6\. Atha kho āyasmā udāyī pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena sā bhikkhunī tenupasaṅkami; upasaṅkamitvā tassā bhikkhuniyā purato aṅgajātaṁ vivaritvā āsane nisīdi. Sāpi kho bhikkhunī āyasmato udāyissa purato aṅgajātaṁ vivaritvā āsane nisīdi. Atha kho āyasmā udāyī sāratto tassā bhikkhuniyā aṅgajātaṁ upanijjhāyi. Tassa asuci mucci.
 
-Atha kho āyasmā udāyī taṁ bhikkhuniṁ etadavoca— “gaccha, bhagini, udakaṁ āhara, antaravāsakaṁ dhovissāmī”ti.
+1.9\. Atha kho āyasmā udāyī taṁ bhikkhuniṁ etadavoca— “gaccha, bhagini, udakaṁ āhara, antaravāsakaṁ dhovissāmī”ti.
 
-“Āharayya, ahameva dhovissāmī”ti
+1.11\. “Āharayya, ahameva dhovissāmī”ti
 
-taṁ asuciṁ ekadesaṁ mukhena aggahesi ekadesaṁ aṅgajāte pakkhipi. Sā tena gabbhaṁ gaṇhi. Bhikkhuniyo evamāhaṁsu— “abrahmacārinī ayaṁ bhikkhunī, gabbhinī”ti.
+1.12\. taṁ asuciṁ ekadesaṁ mukhena aggahesi ekadesaṁ aṅgajāte pakkhipi. Sā tena gabbhaṁ gaṇhi. Bhikkhuniyo evamāhaṁsu— “abrahmacārinī ayaṁ bhikkhunī, gabbhinī”ti.
 
-“Nāhaṁ, ayye, abrahmacārinī”ti bhikkhunīnaṁ etamatthaṁ ārocesi.
+1.16\. “Nāhaṁ, ayye, abrahmacārinī”ti bhikkhunīnaṁ etamatthaṁ ārocesi.
 
-Bhikkhuniyo ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyo udāyī bhikkhuniyā purāṇacīvaraṁ dhovāpessatī”ti. Atha kho tā bhikkhuniyo bhikkhūnaṁ etamatthaṁ ārocesuṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā udāyī bhikkhuniyā purāṇacīvaraṁ dhovāpessatī”ti.
+1.17\. Bhikkhuniyo ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyo udāyī bhikkhuniyā purāṇacīvaraṁ dhovāpessatī”ti. Atha kho tā bhikkhuniyo bhikkhūnaṁ etamatthaṁ ārocesuṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā udāyī bhikkhuniyā purāṇacīvaraṁ dhovāpessatī”ti.
 
-Atha kho te bhikkhū āyasmantaṁ udāyiṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, udāyi, bhikkhuniyā purāṇacīvaraṁ dhovāpesī”ti?
+1.22\. Atha kho te bhikkhū āyasmantaṁ udāyiṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, udāyi, bhikkhuniyā purāṇacīvaraṁ dhovāpesī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.24\. “Saccaṁ, bhagavā”ti.
 
-“Ñātikā te, udāyi, aññātikā”ti?
+1.25\. “Ñātikā te, udāyi, aññātikā”ti?
 
-“Aññātikā, bhagavā”ti.
+1.26\. “Aññātikā, bhagavā”ti.
 
-“Aññātako, moghapurisa, aññātikāya na jānāti patirūpaṁ vā appatirūpaṁ vā pāsādikaṁ vā apāsādikaṁ vā. Tattha nāma tvaṁ, moghapurisa, aññātikāya bhikkhuniyā purāṇacīvaraṁ dhovāpessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.27\. “Aññātako, moghapurisa, aññātikāya na jānāti patirūpaṁ vā appatirūpaṁ vā pāsādikaṁ vā apāsādikaṁ vā. Tattha nāma tvaṁ, moghapurisa, aññātikāya bhikkhuniyā purāṇacīvaraṁ dhovāpessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṁ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṁ pācittiyan”ti.
+1.31\. “Yo pana bhikkhu aññātikāya bhikkhuniyā purāṇacīvaraṁ dhovāpeyya vā rajāpeyya vā ākoṭāpeyya vā, nissaggiyaṁ pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -56,7 +56,7 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 
 idaṁ me, bhante, purāṇacīvaraṁ aññātikāya bhikkhuniyā dhovāpitaṁ nissaggiyaṁ. Imāhaṁ saṅghassa nissajjāmīti …pe… dadeyyāti …pe… dadeyyunti …pe… āyasmato dammīti.
 
-Aññātikāya aññātikasaññī purāṇacīvaraṁ dhovāpeti, nissaggiyaṁ pācittiyaṁ. Aññātikāya aññātikasaññī purāṇacīvaraṁ dhovāpeti rajāpeti, nissaggiyena āpatti dukkaṭassa. Aññātikāya aññātikasaññī purāṇacīvaraṁ dhovāpeti ākoṭāpeti, nissaggiyena āpatti dukkaṭassa. Aññātikāya aññātikasaññī purāṇacīvaraṁ dhovāpeti rajāpeti ākoṭāpeti, nissaggiyena āpatti dvinnaṁ dukkaṭānaṁ.
+2.2\. Aññātikāya aññātikasaññī purāṇacīvaraṁ dhovāpeti, nissaggiyaṁ pācittiyaṁ. Aññātikāya aññātikasaññī purāṇacīvaraṁ dhovāpeti rajāpeti, nissaggiyena āpatti dukkaṭassa. Aññātikāya aññātikasaññī purāṇacīvaraṁ dhovāpeti ākoṭāpeti, nissaggiyena āpatti dukkaṭassa. Aññātikāya aññātikasaññī purāṇacīvaraṁ dhovāpeti rajāpeti ākoṭāpeti, nissaggiyena āpatti dvinnaṁ dukkaṭānaṁ.
 
 Aññātikāya aññātikasaññī purāṇacīvaraṁ rajāpeti, nissaggiyaṁ pācittiyaṁ. Aññātikāya aññātikasaññī purāṇacīvaraṁ rajāpeti ākoṭāpeti, nissaggiyena āpatti dukkaṭassa. Aññātikāya aññātikasaññī purāṇacīvaraṁ rajāpeti dhovāpeti, nissaggiyena āpatti dukkaṭassa. Aññātikāya aññātikasaññī purāṇacīvaraṁ rajāpeti ākoṭāpeti dhovāpeti, nissaggiyena āpatti dvinnaṁ dukkaṭānaṁ.
 

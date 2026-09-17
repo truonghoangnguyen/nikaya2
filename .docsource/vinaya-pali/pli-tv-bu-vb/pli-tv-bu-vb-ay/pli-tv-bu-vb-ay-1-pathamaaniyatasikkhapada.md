@@ -6,19 +6,19 @@
 
 Ime kho panāyasmanto dve aniyatā dhammā uddesaṁ āgacchanti.
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā udāyī sāvatthiyaṁ kulūpako hoti, bahukāni kulāni upasaṅkamati. Tena kho pana samayena āyasmato udāyissa upaṭṭhākakulassa kumārikā aññatarassa kulassa kumārakassa dinnā hoti. Atha kho āyasmā udāyī pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena taṁ kulaṁ tenupasaṅkami; upasaṅkamitvā manusse pucchi— “kahaṁ itthannāmā”ti? Te evamāhaṁsu— “dinnā, bhante, amukassa kulassa kumārakassā”ti. Tampi kho kulaṁ āyasmato udāyissa upaṭṭhākaṁ hoti. Atha kho āyasmā udāyī yena taṁ kulaṁ tenupasaṅkami; upasaṅkamitvā manusse pucchi— “kahaṁ itthannāmā”ti? Te evamāhaṁsu— “esāyya, ovarake nisinnā”ti. Atha kho āyasmā udāyī yena sā kumārikā tenupasaṅkami; upasaṅkamitvā tassā kumārikāya saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappesi kālayuttaṁ samullapanto kālayuttaṁ dhammaṁ bhaṇanto.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā udāyī sāvatthiyaṁ kulūpako hoti, bahukāni kulāni upasaṅkamati. Tena kho pana samayena āyasmato udāyissa upaṭṭhākakulassa kumārikā aññatarassa kulassa kumārakassa dinnā hoti. Atha kho āyasmā udāyī pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena taṁ kulaṁ tenupasaṅkami; upasaṅkamitvā manusse pucchi— “kahaṁ itthannāmā”ti? Te evamāhaṁsu— “dinnā, bhante, amukassa kulassa kumārakassā”ti. Tampi kho kulaṁ āyasmato udāyissa upaṭṭhākaṁ hoti. Atha kho āyasmā udāyī yena taṁ kulaṁ tenupasaṅkami; upasaṅkamitvā manusse pucchi— “kahaṁ itthannāmā”ti? Te evamāhaṁsu— “esāyya, ovarake nisinnā”ti. Atha kho āyasmā udāyī yena sā kumārikā tenupasaṅkami; upasaṅkamitvā tassā kumārikāya saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappesi kālayuttaṁ samullapanto kālayuttaṁ dhammaṁ bhaṇanto.
 
-Tena kho pana samayena visākhā migāramātā bahuputtā hoti bahunattā arogaputtā aroganattā abhimaṅgalasammatā. Manussā yaññesu chaṇesu ussavesu visākhaṁ migāramātaraṁ paṭhamaṁ bhojenti. Atha kho visākhā migāramātā nimantitā taṁ kulaṁ agamāsi. Addasā kho visākhā migāramātā āyasmantaṁ udāyiṁ tassā kumārikāya saddhiṁ ekaṁ ekāya raho paṭicchanne āsane alaṅkammaniye nisinnaṁ. Disvāna āyasmantaṁ udāyiṁ etadavoca— “idaṁ, bhante, nacchannaṁ nappatirūpaṁ yaṁ ayyo mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappeti. Kiñcāpi, bhante, ayyo anatthiko tena dhammena, api ca dussaddhāpayā appasannā manussā”ti. Evampi kho āyasmā udāyī visākhāya migāramātuyā vuccamāno nādiyi. Atha kho visākhā migāramātā nikkhamitvā bhikkhūnaṁ etamatthaṁ ārocesi. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā udāyī mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappessatī”ti.
+1.14\. Tena kho pana samayena visākhā migāramātā bahuputtā hoti bahunattā arogaputtā aroganattā abhimaṅgalasammatā. Manussā yaññesu chaṇesu ussavesu visākhaṁ migāramātaraṁ paṭhamaṁ bhojenti. Atha kho visākhā migāramātā nimantitā taṁ kulaṁ agamāsi. Addasā kho visākhā migāramātā āyasmantaṁ udāyiṁ tassā kumārikāya saddhiṁ ekaṁ ekāya raho paṭicchanne āsane alaṅkammaniye nisinnaṁ. Disvāna āyasmantaṁ udāyiṁ etadavoca— “idaṁ, bhante, nacchannaṁ nappatirūpaṁ yaṁ ayyo mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappeti. Kiñcāpi, bhante, ayyo anatthiko tena dhammena, api ca dussaddhāpayā appasannā manussā”ti. Evampi kho āyasmā udāyī visākhāya migāramātuyā vuccamāno nādiyi. Atha kho visākhā migāramātā nikkhamitvā bhikkhūnaṁ etamatthaṁ ārocesi. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā udāyī mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappessatī”ti.
 
-Atha kho te bhikkhū āyasmantaṁ udāyiṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, udāyi, mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappesī”ti?
+1.25\. Atha kho te bhikkhū āyasmantaṁ udāyiṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, udāyi, mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappesī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.27\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.28\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappessasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappeyya, tamenaṁ saddheyyavacasā upāsikā disvā tiṇṇaṁ dhammānaṁ aññatarena vadeyya—pārājikena vā saṅghādisesena vā pācittiyena vā. Nisajjaṁ bhikkhu paṭijānamāno tiṇṇaṁ dhammānaṁ aññatarena kāretabbo—pārājikena vā saṅghādisesena vā pācittiyena vā. Yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo. Ayaṁ dhammo aniyato”ti.
+1.32\. “Yo pana bhikkhu mātugāmena saddhiṁ eko ekāya raho paṭicchanne āsane alaṅkammaniye nisajjaṁ kappeyya, tamenaṁ saddheyyavacasā upāsikā disvā tiṇṇaṁ dhammānaṁ aññatarena vadeyya—pārājikena vā saṅghādisesena vā pācittiyena vā. Nisajjaṁ bhikkhu paṭijānamāno tiṇṇaṁ dhammānaṁ aññatarena kāretabbo—pārājikena vā saṅghādisesena vā pācittiyena vā. Yena vā sā saddheyyavacasā upāsikā vadeyya, tena so bhikkhu kāretabbo. Ayaṁ dhammo aniyato”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -74,7 +74,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, mātugām
 
 > passitvā.
 
-**Tiṇṇaṁ dhammānaṁ aññatarena vadeyya— pārājikena vā saṅghādisesena vā pācittiyena vā. Nisajjaṁ bhikkhu paṭijānamāno tiṇṇaṁ dhammānaṁ aññatarena kāretabbo— pārājikena vā saṅghādisesena vā pācittiyena vā. Yena vā sā saddheyyavacasā upāsikā vadeyya tena so bhikkhu kāretabbo.**
+2.2\. **Tiṇṇaṁ dhammānaṁ aññatarena vadeyya— pārājikena vā saṅghādisesena vā pācittiyena vā. Nisajjaṁ bhikkhu paṭijānamāno tiṇṇaṁ dhammānaṁ aññatarena kāretabbo— pārājikena vā saṅghādisesena vā pācittiyena vā. Yena vā sā saddheyyavacasā upāsikā vadeyya tena so bhikkhu kāretabbo.**
 
 > Sā ce evaṁ vadeyya— “ayyo mayā diṭṭho nisinno mātugāmassa methunaṁ dhammaṁ paṭisevanto”ti, so ca taṁ paṭijānāti, āpattiyā kāretabbo. Sā ce evaṁ vadeyya— “ayyo mayā diṭṭho nisinno mātugāmassa methunaṁ dhammaṁ paṭisevanto”ti, so ce evaṁ vadeyya— “saccāhaṁ nisinno, no ca kho methunaṁ dhammaṁ paṭisevin”ti, nisajjāya kāretabbo. Sā ce evaṁ vadeyya— “ayyo mayā diṭṭho nisinno mātugāmassa methunaṁ dhammaṁ paṭisevanto”ti, so ce evaṁ vadeyya— “nāhaṁ nisinno, api ca kho nipanno”ti, nipajjāya kāretabbo. Sā ce evaṁ vadeyya— “ayyo mayā diṭṭho nisinno mātugāmassa methunaṁ dhammaṁ paṭisevanto”ti, so ce evaṁ vadeyya— “nāhaṁ nisinno, api ca kho ṭhito”ti, na kāretabbo.
 
@@ -92,8 +92,8 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, mātugām
 
 > na niyato, pārājikaṁ vā saṅghādiseso vā pācittiyaṁ vā.
 
-3\. Gamanaṁ paṭijānāti, nisajjaṁ paṭijānāti, āpattiṁ paṭijānāti, āpattiyā kāretabbo. Gamanaṁ paṭijānāti, nisajjaṁ na paṭijānāti, āpattiṁ paṭijānāti, āpattiyā kāretabbo. Gamanaṁ paṭijānāti, nisajjaṁ paṭijānāti, āpattiṁ na paṭijānāti, nisajjāya kāretabbo. Gamanaṁ paṭijānāti, nisajjaṁ na paṭijānāti, āpattiṁ na paṭijānāti, na kāretabbo.
+3.1\. Gamanaṁ paṭijānāti, nisajjaṁ paṭijānāti, āpattiṁ paṭijānāti, āpattiyā kāretabbo. Gamanaṁ paṭijānāti, nisajjaṁ na paṭijānāti, āpattiṁ paṭijānāti, āpattiyā kāretabbo. Gamanaṁ paṭijānāti, nisajjaṁ paṭijānāti, āpattiṁ na paṭijānāti, nisajjāya kāretabbo. Gamanaṁ paṭijānāti, nisajjaṁ na paṭijānāti, āpattiṁ na paṭijānāti, na kāretabbo.
 
-Gamanaṁ na paṭijānāti, nisajjaṁ paṭijānāti, āpattiṁ paṭijānāti, āpattiyā kāretabbo. Gamanaṁ na paṭijānāti, nisajjaṁ na paṭijānāti, āpattiṁ paṭijānāti, āpattiyā kāretabbo. Gamanaṁ na paṭijānāti, nisajjaṁ paṭijānāti, āpattiṁ na paṭijānāti, nisajjāya kāretabbo. Gamanaṁ na paṭijānāti, nisajjaṁ na paṭijānāti, āpattiṁ na paṭijānāti, na kāretabboti.
+3.5\. Gamanaṁ na paṭijānāti, nisajjaṁ paṭijānāti, āpattiṁ paṭijānāti, āpattiyā kāretabbo. Gamanaṁ na paṭijānāti, nisajjaṁ na paṭijānāti, āpattiṁ paṭijānāti, āpattiyā kāretabbo. Gamanaṁ na paṭijānāti, nisajjaṁ paṭijānāti, āpattiṁ na paṭijānāti, nisajjāya kāretabbo. Gamanaṁ na paṭijānāti, nisajjaṁ na paṭijānāti, āpattiṁ na paṭijānāti, na kāretabboti.
 
-Paṭhamo aniyato niṭṭhito.
+3.9\. Paṭhamo aniyato niṭṭhito.

@@ -4,17 +4,17 @@
 
 # 7. Ukkhittānuvattikāsikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī samaggena saṅghena ukkhittaṁ ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ anuvattati.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena thullanandā bhikkhunī samaggena saṅghena ukkhittaṁ ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ anuvattati.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā samaggena saṅghena ukkhittaṁ ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ anuvattissatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī samaggena saṅghena ukkhittaṁ ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ anuvattatī”ti?
+1.3\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ayyā thullanandā samaggena saṅghena ukkhittaṁ ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ anuvattissatī”ti …pe… “saccaṁ kira, bhikkhave, thullanandā bhikkhunī samaggena saṅghena ukkhittaṁ ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ anuvattatī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.6\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī samaggena saṅghena ukkhittaṁ ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ anuvattissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.7\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikkhunī samaggena saṅghena ukkhittaṁ ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ anuvattissati. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī samaggena saṅghena ukkhittaṁ bhikkhuṁ dhammena vinayena satthusāsanena anādaraṁ appaṭikāraṁ akatasahāyaṁ tamanuvatteyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā— ‘eso kho, ayye, bhikkhu samaggena saṅghena ukkhitto dhammena vinayena satthusāsanena anādaro appaṭikāro akatasahāyo, māyye, etaṁ bhikkhuṁ anuvattī’ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, ayampi pārājikā hoti asaṁvāsā ukkhittānuvattikā”ti.
+1.11\. “Yā pana bhikkhunī samaggena saṅghena ukkhittaṁ bhikkhuṁ dhammena vinayena satthusāsanena anādaraṁ appaṭikāraṁ akatasahāyaṁ tamanuvatteyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā— ‘eso kho, ayye, bhikkhu samaggena saṅghena ukkhitto dhammena vinayena satthusāsanena anādaro appaṭikāro akatasahāyo, māyye, etaṁ bhikkhuṁ anuvattī’ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, ayampi pārājikā hoti asaṁvāsā ukkhittānuvattikā”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -86,10 +86,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, thullanandā bhikk
 
 > saṁvāso nāma ekakammaṁ ekuddeso samasikkhatā. Eso saṁvāso nāma. So tāya saddhiṁ natthi. Tena vuccati asaṁvāsāti.
 
-Dhammakamme dhammakammasaññā na paṭinissajjati, āpatti pārājikassa. Dhammakamme vematikā na paṭinissajjati, āpatti pārājikassa. Dhammakamme adhammakammasaññā na paṭinissajjati, āpatti pārājikassa.
+2.2\. Dhammakamme dhammakammasaññā na paṭinissajjati, āpatti pārājikassa. Dhammakamme vematikā na paṭinissajjati, āpatti pārājikassa. Dhammakamme adhammakammasaññā na paṭinissajjati, āpatti pārājikassa.
 
 Adhammakamme dhammakammasaññā, āpatti dukkaṭassa. Adhammakamme vematikā, āpatti dukkaṭassa. Adhammakamme adhammakammasaññā, āpatti dukkaṭassa.
 
-Anāpatti— asamanubhāsantiyā, paṭinissajjantiyā, ummattikāya …pe…, ādikammikāyāti.
+2.3\. Anāpatti— asamanubhāsantiyā, paṭinissajjantiyā, ummattikāya …pe…, ādikammikāyāti.
 
 Tatiyapārājikaṁ samattaṁ.

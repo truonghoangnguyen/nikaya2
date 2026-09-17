@@ -4,7 +4,7 @@
 
 # 8. Upakkhaṭasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññataro puriso pajāpatiṁ etadavoca— “ayyaṁ upanandaṁ cīvarena acchādessāmī”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññataro puriso pajāpatiṁ etadavoca— “ayyaṁ upanandaṁ cīvarena acchādessāmī”ti.
 
 Assosi kho aññataro piṇḍacāriko bhikkhu tassa purisassa imaṁ vācaṁ bhāsamānassa. Atha kho so bhikkhu yenāyasmā upanando sakyaputto tenupasaṅkami; upasaṅkamitvā āyasmantaṁ upanandaṁ sakyaputtaṁ etadavoca— “mahāpuññosi tvaṁ, āvuso upananda. Amukasmiṁ okāse aññataro puriso pajāpatiṁ etadavoca— ‘ayyaṁ upanandaṁ cīvarena acchādessāmī’”ti.
 
@@ -32,7 +32,7 @@ Atha kho te bhikkhū āyasmantaṁ upanandaṁ sakyaputtaṁ anekapariyāyena vi
 
 “Bhikkhuṁ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṁ upakkhaṭaṁ hoti— ‘iminā cīvaracetāpannena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuṁ cīvarena acchādessāmī’ti; tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya— ‘sādhu vata maṁ āyasmā iminā cīvaracetāpannena evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādehī’ti, kalyāṇakamyataṁ upādāya, nissaggiyaṁ pācittiyan”ti.
 
-2\. **Bhikkhuṁ paneva uddissāti**
+2.1\. **Bhikkhuṁ paneva uddissāti**
 
 > bhikkhussatthāya, bhikkhuṁ ārammaṇaṁ karitvā, bhikkhuṁ acchādetukāmo.
 
@@ -106,10 +106,10 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 
 “idaṁ me, bhante, cīvaraṁ pubbe appavārito aññātakaṁ gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpannaṁ nissaggiyaṁ, imāhaṁ saṅghassa nissajjāmī”ti …pe… dadeyyāti …pe… dadeyyunti …pe… āyasmato dammīti.
 
-Aññātake aññātakasaññī pubbe appavārito gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpajjati, nissaggiyaṁ pācittiyaṁ. Aññātake vematiko pubbe appavārito gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpajjati, nissaggiyaṁ pācittiyaṁ. Aññātake ñātakasaññī pubbe appavārito gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpajjati, nissaggiyaṁ pācittiyaṁ.
+2.2\. Aññātake aññātakasaññī pubbe appavārito gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpajjati, nissaggiyaṁ pācittiyaṁ. Aññātake vematiko pubbe appavārito gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpajjati, nissaggiyaṁ pācittiyaṁ. Aññātake ñātakasaññī pubbe appavārito gahapatikaṁ upasaṅkamitvā cīvare vikappaṁ āpajjati, nissaggiyaṁ pācittiyaṁ.
 
 Ñātake aññātakasaññī, āpatti dukkaṭassa. Ñātake vematiko, āpatti dukkaṭassa. Ñātake ñātakasaññī, anāpatti.
 
-Anāpatti— ñātakānaṁ, pavāritānaṁ, aññassatthāya, attano dhanena, mahagghaṁ cetāpetukāmassa appagghaṁ cetāpeti, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— ñātakānaṁ, pavāritānaṁ, aññassatthāya, attano dhanena, mahagghaṁ cetāpetukāmassa appagghaṁ cetāpeti, ummattakassa, ādikammikassāti.
 
 Upakkhaṭasikkhāpadaṁ niṭṭhitaṁ aṭṭhamaṁ.

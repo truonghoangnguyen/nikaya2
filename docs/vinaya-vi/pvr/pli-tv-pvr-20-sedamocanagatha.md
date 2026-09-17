@@ -210,9 +210,9 @@
 > Na bhikkhunī no ca phuseyya vajjaṁ,\
 > Pañhā mesā kusalehi cintitā.
 
-44\. Sedamocanagāthā niṭṭhitā.
+44.1\. Sedamocanagāthā niṭṭhitā.
 
-45\. Tassuddānaṁ
+45.1\. Tassuddānaṁ
 
 > Asaṁvāso avissajji,\
 > Dasa ca anukkhittako;\

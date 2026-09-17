@@ -142,7 +142,7 @@
 > Duppaññā mohapārutā;\
 > Ayaṁ sā diṭṭhivipattisammatā.
 
-32\. Ājīvahetu ājīvakāraṇā pāpiccho icchāpakato asantaṁ abhūtaṁ uttarimanussadhammaṁ ullapati, ājīvahetu ājīvakāraṇā sañcarittaṁ samāpajjati, ājīvahetu ājīvakāraṇā ‘yo te vihāre vasati, so bhikkhu arahā’ti bhaṇati, ājīvahetu ājīvakāraṇā bhikkhu paṇītabhojanāni attano atthāya viññāpetvā bhuñjati, ājīvahetu ājīvakāraṇā bhikkhunī paṇītabhojanāni attano atthāya viññāpetvā bhuñjati, ājīvahetu ājīvakāraṇā sūpaṁ vā odanaṁ vā agilāno attano atthāya viññāpetvā bhuñjati. Ayaṁ sā ājīvavipatti sammatā.
+32.1\. Ājīvahetu ājīvakāraṇā pāpiccho icchāpakato asantaṁ abhūtaṁ uttarimanussadhammaṁ ullapati, ājīvahetu ājīvakāraṇā sañcarittaṁ samāpajjati, ājīvahetu ājīvakāraṇā ‘yo te vihāre vasati, so bhikkhu arahā’ti bhaṇati, ājīvahetu ājīvakāraṇā bhikkhu paṇītabhojanāni attano atthāya viññāpetvā bhuñjati, ājīvahetu ājīvakāraṇā bhikkhunī paṇītabhojanāni attano atthāya viññāpetvā bhuñjati, ājīvahetu ājīvakāraṇā sūpaṁ vā odanaṁ vā agilāno attano atthāya viññāpetvā bhuñjati. Ayaṁ sā ājīvavipatti sammatā.
 
 > Ekādasa yāvatatiyakā,\
 > Te suṇohi yathātathaṁ;\
@@ -376,9 +376,9 @@
 > Vibhavo gati dhammānaṁ,\
 > Nibbānaṁ arahato gatīti.
 
-81\. Gāthāsaṅgaṇikaṁ niṭṭhitaṁ.
+81.1\. Gāthāsaṅgaṇikaṁ niṭṭhitaṁ.
 
-82\. Tassuddānaṁ
+82.1\. Tassuddānaṁ
 
 > Sattanagaresu paññattā,\
 > vipatti caturopi ca;\
@@ -387,4 +387,4 @@
 > Sāsanaṁ anuggahāya,\
 > gāthāsaṅgaṇikaṁ idanti.
 
-84\. Gāthāsaṅgaṇikaṁ niṭṭhitaṁ.
+84.1\. Gāthāsaṅgaṇikaṁ niṭṭhitaṁ.

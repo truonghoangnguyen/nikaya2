@@ -93,4 +93,4 @@
 > Ājīvenapi codeti,\
 > codanā tena vuccatīti.
 
-22\. Aparaṁ gāthāsaṅgaṇikaṁ niṭṭhitaṁ.
+22.1\. Aparaṁ gāthāsaṅgaṇikaṁ niṭṭhitaṁ.

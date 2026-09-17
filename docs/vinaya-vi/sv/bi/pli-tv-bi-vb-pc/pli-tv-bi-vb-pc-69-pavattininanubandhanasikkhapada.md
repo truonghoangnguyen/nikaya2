@@ -4,17 +4,17 @@
 
 # 69. Pavattinīnānubandhanasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandhanti. Tā bālā honti abyattā; na jānanti kappiyaṁ vā akappiyaṁ vā.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhuniyo vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandhanti. Tā bālā honti abyattā; na jānanti kappiyaṁ vā akappiyaṁ vā.
 
-Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandhissantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandhantī”ti?
+1.5\. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandhissantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhuniyo vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandhantī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.8\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandhissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
+1.9\. Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandhissanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
-“Yā pana bhikkhunī vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandheyya, pācittiyan”ti.
+1.13\. “Yā pana bhikkhunī vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandheyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -38,6 +38,6 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, bhikkhuniyo vuṭ�
 
 > na sayaṁ upaṭṭhaheyya. Dve vassāni nānubandhissāmīti dhuraṁ nikkhittamatte āpatti pācittiyassa.
 
-Anāpatti— upajjhāyā bālā vā hoti alajjinī vā, gilānāya, āpadāsu, ummattikāya, ādikammikāyāti.
+2.2\. Anāpatti— upajjhāyā bālā vā hoti alajjinī vā, gilānāya, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Navamasikkhāpadaṁ niṭṭhitaṁ.

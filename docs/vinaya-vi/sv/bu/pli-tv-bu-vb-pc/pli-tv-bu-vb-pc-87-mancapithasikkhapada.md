@@ -4,13 +4,13 @@
 
 # 87. Mañcapīṭhasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto ucce mañce sayati. Atha kho bhagavā sambahulehi bhikkhūhi saddhiṁ senāsanacārikaṁ āhiṇḍanto yenāyasmato upanandassa sakyaputtassa vihāro tenupasaṅkami. Addasā kho āyasmā upanando sakyaputto bhagavantaṁ dūratova āgacchantaṁ. Disvāna bhagavantaṁ etadavoca— “āgacchatu me, bhante, bhagavā sayanaṁ passatū”ti. Atha kho bhagavā tatova paṭinivattitvā bhikkhū āmantesi— “āsayato, bhikkhave, moghapuriso veditabbo”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena āyasmā upanando sakyaputto ucce mañce sayati. Atha kho bhagavā sambahulehi bhikkhūhi saddhiṁ senāsanacārikaṁ āhiṇḍanto yenāyasmato upanandassa sakyaputtassa vihāro tenupasaṅkami. Addasā kho āyasmā upanando sakyaputto bhagavantaṁ dūratova āgacchantaṁ. Disvāna bhagavantaṁ etadavoca— “āgacchatu me, bhante, bhagavā sayanaṁ passatū”ti. Atha kho bhagavā tatova paṭinivattitvā bhikkhū āmantesi— “āsayato, bhikkhave, moghapuriso veditabbo”ti.
 
-Atha kho bhagavā āyasmantaṁ upanandaṁ sakyaputtaṁ anekapariyāyena vigarahitvā dubbharatāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.9\. Atha kho bhagavā āyasmantaṁ upanandaṁ sakyaputtaṁ anekapariyāyena vigarahitvā dubbharatāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Navaṁ pana bhikkhunā mañcaṁ vā pīṭhaṁ vā kārayamānena aṭṭhaṅgulapādakaṁ kāretabbaṁ sugataṅgulena, aññatra heṭṭhimāya aṭaniyā; taṁ atikkāmayato chedanakaṁ pācittiyan”ti.
+1.11\. “Navaṁ pana bhikkhunā mañcaṁ vā pīṭhaṁ vā kārayamānena aṭṭhaṅgulapādakaṁ kāretabbaṁ sugataṅgulena, aññatra heṭṭhimāya aṭaniyā; taṁ atikkāmayato chedanakaṁ pācittiyan”ti.
 
-2\. **Navaṁ nāma**
+2.1\. **Navaṁ nāma**
 
 > karaṇaṁ upādāya vuccati.
 
@@ -36,6 +36,6 @@ Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa.
 
 Aññena kataṁ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa.
 
-Anāpatti— pamāṇikaṁ karoti, ūnakaṁ karoti, aññena kataṁ pamāṇātikkantaṁ paṭilabhitvā chinditvā paribhuñjati, ummattakassa, ādikammikassāti.
+2.2\. Anāpatti— pamāṇikaṁ karoti, ūnakaṁ karoti, aññena kataṁ pamāṇātikkantaṁ paṭilabhitvā chinditvā paribhuñjati, ummattakassa, ādikammikassāti.
 
 Mañcapīṭhasikkhāpadaṁ niṭṭhitaṁ pañcamaṁ.

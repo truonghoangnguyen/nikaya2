@@ -1,3 +1,5 @@
+*KINH TẬP Suttanipāta*
+
 # Chương Ba – Ðại Phẩm
 
 ### **(I) Kinh Xuất Gia (Sn 72)**

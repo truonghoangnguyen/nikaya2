@@ -4,7 +4,7 @@
 
 # 85. Yānasikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo yānena yāyanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo yānena yāyissanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhuniyo yānena yāyanti. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhuniyo yānena yāyissanti, seyyathāpi gihiniyo kāmabhoginiyo”ti.
 
 Assosuṁ kho bhikkhuniyo tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Yā tā bhikkhuniyo appicchā …pe… tā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhuniyo yānena yāyissantī”ti …pe… “saccaṁ kira, bhikkhave, chabbaggiyā bhikkhuniyo yānena yāyantī”ti?
 
@@ -16,7 +16,7 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma, bhikkhave, chabbaggiyā bhikk
 
 Evañcidaṁ bhagavatā bhikkhunīnaṁ sikkhāpadaṁ paññattaṁ hoti.
 
-Tena kho pana samayena aññatarā bhikkhunī gilānā hoti, na sakkoti padasā gantuṁ …pe… bhagavato etamatthaṁ ārocesuṁ …pe…
+1.2\. Tena kho pana samayena aññatarā bhikkhunī gilānā hoti, na sakkoti padasā gantuṁ …pe… bhagavato etamatthaṁ ārocesuṁ …pe…
 
 anujānāmi, bhikkhave, gilānāya bhikkhuniyā yānaṁ.
 
@@ -24,7 +24,7 @@ Evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
 “Yā pana bhikkhunī agilānā yānena yāyeyya, pācittiyan”ti.
 
-2\. **Yā panāti**
+2.1\. **Yā panāti**
 
 > yā yādisā …pe…
 
@@ -48,10 +48,10 @@ Evañca pana, bhikkhave, bhikkhuniyo imaṁ sikkhāpadaṁ uddisantu—
 
 > sakimpi yānena yāyati, āpatti pācittiyassa.
 
-Agilānā agilānasaññā yānena yāyati, āpatti pācittiyassa. Agilānā vematikā yānena yāyati, āpatti pācittiyassa. Agilānā gilānasaññā yānena yāyati, āpatti pācittiyassa.
+2.2\. Agilānā agilānasaññā yānena yāyati, āpatti pācittiyassa. Agilānā vematikā yānena yāyati, āpatti pācittiyassa. Agilānā gilānasaññā yānena yāyati, āpatti pācittiyassa.
 
 Gilānā agilānasaññā, āpatti dukkaṭassa. Gilānā vematikā, āpatti dukkaṭassa. Gilānā gilānasaññā, anāpatti.
 
-Anāpatti— gilānāya, āpadāsu, ummattikāya, ādikammikāyāti.
+2.3\. Anāpatti— gilānāya, āpadāsu, ummattikāya, ādikammikāyāti.
 
 Dutiyasikkhāpadaṁ niṭṭhitaṁ.

@@ -4,17 +4,17 @@
 
 # 86. Sūcigharasikkhāpada
 
-1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Tena kho pana samayena aññatarena dantakārena bhikkhū pavāritā honti— “yesaṁ ayyānaṁ sūcigharena attho ahaṁ sūcigharenā”ti. Tena kho pana samayena bhikkhū bahū sūcighare viññāpenti. Yesaṁ khuddakā sūcigharā te mahante sūcighare viññāpenti. Yesaṁ mahantā sūcigharā te khuddake sūcighare viññāpenti. Atha kho so dantakāro bhikkhūnaṁ bahū sūcighare karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadāropissa kilamati. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā na mattaṁ jānitvā bahū sūcighare viññāpessanti. Ayaṁ imesaṁ bahū sūcighare karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadāropissa kilamatī”ti.
+1.1\. Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. Tena kho pana samayena aññatarena dantakārena bhikkhū pavāritā honti— “yesaṁ ayyānaṁ sūcigharena attho ahaṁ sūcigharenā”ti. Tena kho pana samayena bhikkhū bahū sūcighare viññāpenti. Yesaṁ khuddakā sūcigharā te mahante sūcighare viññāpenti. Yesaṁ mahantā sūcigharā te khuddake sūcighare viññāpenti. Atha kho so dantakāro bhikkhūnaṁ bahū sūcighare karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadāropissa kilamati. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā na mattaṁ jānitvā bahū sūcighare viññāpessanti. Ayaṁ imesaṁ bahū sūcighare karonto na sakkoti aññaṁ vikkāyikaṁ bhaṇḍaṁ kātuṁ, attanāpi na yāpeti, puttadāropissa kilamatī”ti.
 
-Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhū na mattaṁ jānitvā bahū sūcighare viññāpessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhū na mattaṁ jānitvā bahū sūcighare viññāpentī”ti?
+1.11\. Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhū na mattaṁ jānitvā bahū sūcighare viññāpessantī”ti …pe… “saccaṁ kira, bhikkhave, bhikkhū na mattaṁ jānitvā bahū sūcighare viññāpentī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.15\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma te, bhikkhave, moghapurisā na mattaṁ jānitvā bahū sūcighare viññāpessanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.16\. Vigarahi buddho bhagavā …pe… kathañhi nāma te, bhikkhave, moghapurisā na mattaṁ jānitvā bahū sūcighare viññāpessanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu aṭṭhimayaṁ vā dantamayaṁ vā visāṇamayaṁ vā sūcigharaṁ kārāpeyya bhedanakaṁ, pācittiyan”ti.
+1.20\. “Yo pana bhikkhu aṭṭhimayaṁ vā dantamayaṁ vā visāṇamayaṁ vā sūcigharaṁ kārāpeyya bhedanakaṁ, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -38,10 +38,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma te, bhikkhave, moghapurisā na
 
 > karoti vā kārāpeti vā, payoge dukkaṭaṁ. Paṭilābhena bhinditvā pācittiyaṁ desetabbaṁ.
 
-Attanā vippakataṁ attanā pariyosāpeti, āpatti pācittiyassa. Attanā vippakataṁ parehi pariyosāpeti, āpatti pācittiyassa. Parehi vippakataṁ attanā pariyosāpeti, āpatti pācittiyassa. Parehi vippakataṁ parehi pariyosāpeti, āpatti pācittiyassa.
+2.2\. Attanā vippakataṁ attanā pariyosāpeti, āpatti pācittiyassa. Attanā vippakataṁ parehi pariyosāpeti, āpatti pācittiyassa. Parehi vippakataṁ attanā pariyosāpeti, āpatti pācittiyassa. Parehi vippakataṁ parehi pariyosāpeti, āpatti pācittiyassa.
 
 Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa. Aññena kataṁ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa.
 
-Anāpatti— gaṇṭhikāya, araṇike, vidhe, añjaniyā, añjanisalākāya, vāsijaṭe, udakapuñchaniyā, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— gaṇṭhikāya, araṇike, vidhe, añjaniyā, añjanisalākāya, vāsijaṭe, udakapuñchaniyā, ummattakassa, ādikammikassāti.
 
 Sūcigharasikkhāpadaṁ niṭṭhitaṁ catutthaṁ.

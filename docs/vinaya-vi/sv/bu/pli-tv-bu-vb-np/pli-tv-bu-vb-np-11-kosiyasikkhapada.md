@@ -4,19 +4,19 @@
 
 # 11. Kosiyasikkhāpada
 
-1\. Tena samayena buddho bhagavā āḷaviyaṁ viharati aggāḷave cetiye. Tena kho pana samayena chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evaṁ vadanti— “bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun”ti. Te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā amhe upasaṅkamitvā evaṁ vakkhanti— ‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’ti. Amhākampi alābhā, amhākampi dulladdhaṁ, ye mayaṁ ājīvassa hetu puttadārassa kāraṇā bahū khuddake pāṇe saṅghātaṁ āpādemā”ti.
+1.1\. Tena samayena buddho bhagavā āḷaviyaṁ viharati aggāḷave cetiye. Tena kho pana samayena chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evaṁ vadanti— “bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun”ti. Te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā amhe upasaṅkamitvā evaṁ vakkhanti— ‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’ti. Amhākampi alābhā, amhākampi dulladdhaṁ, ye mayaṁ ājīvassa hetu puttadārassa kāraṇā bahū khuddake pāṇe saṅghātaṁ āpādemā”ti.
 
-Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evaṁ vakkhanti— ‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’”ti.
+1.9\. Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū kosiyakārake upasaṅkamitvā evaṁ vakkhanti— ‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’”ti.
 
-Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, kosiyakārake upasaṅkamitvā evaṁ vadetha— ‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’”ti?
+1.13\. Atha kho te bhikkhū chabbaggiye bhikkhū anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tumhe, bhikkhave, kosiyakārake upasaṅkamitvā evaṁ vadetha— ‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.17\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, kosiyakārake upasaṅkamitvā evaṁ vakkhatha— ‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’ti. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.18\. Vigarahi buddho bhagavā …pe… kathañhi nāma tumhe, moghapurisā, kosiyakārake upasaṅkamitvā evaṁ vakkhatha— ‘bahū, āvuso, kosakārake pacatha, amhākampi dassatha, mayampi icchāma kosiyamissakaṁ santhataṁ kātun’ti. Netaṁ, moghapurisā, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu kosiyamissakaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyan”ti.
+1.23\. “Yo pana bhikkhu kosiyamissakaṁ santhataṁ kārāpeyya, nissaggiyaṁ pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -36,7 +36,7 @@ Nissajjitabbaṁ saṅghassa vā gaṇassa vā puggalassa vā. Evañca pana, bhi
 
 idaṁ me, bhante, kosiyamissakaṁ santhataṁ kārāpitaṁ nissaggiyaṁ. Imāhaṁ saṅghassa nissajjāmīti …pe… dadeyyāti …pe… dadeyyunti …pe… āyasmato dammīti.
 
-Attanā vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Attanā vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Parehi vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Parehi vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ.
+2.2\. Attanā vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Attanā vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Parehi vippakataṁ attanā pariyosāpeti, nissaggiyaṁ pācittiyaṁ. Parehi vippakataṁ parehi pariyosāpeti, nissaggiyaṁ pācittiyaṁ.
 
 Aññassatthāya karoti vā kārāpeti vā, āpatti dukkaṭassa. Aññena kataṁ paṭilabhitvā paribhuñjati, āpatti dukkaṭassa.
 

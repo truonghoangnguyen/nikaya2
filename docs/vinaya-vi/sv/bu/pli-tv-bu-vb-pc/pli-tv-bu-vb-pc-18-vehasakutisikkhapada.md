@@ -4,21 +4,21 @@
 
 # 18. Vehāsakuṭisikkhāpada
 
-1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena dve bhikkhū saṅghike vihāre uparivehāsakuṭiyā eko heṭṭhā viharati, eko upari. Uparimo bhikkhu āhaccapādakaṁ mañcaṁ sahasā abhinisīdi. Mañcapādo nippatitvā heṭṭhimassa bhikkhuno matthake avatthāsi. So bhikkhu vissaramakāsi. Bhikkhū upadhāvitvā taṁ bhikkhuṁ etadavocuṁ— “kissa tvaṁ, āvuso, vissaramakāsī”ti? Atha kho so bhikkhu bhikkhūnaṁ etamatthaṁ ārocesi.
+1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena dve bhikkhū saṅghike vihāre uparivehāsakuṭiyā eko heṭṭhā viharati, eko upari. Uparimo bhikkhu āhaccapādakaṁ mañcaṁ sahasā abhinisīdi. Mañcapādo nippatitvā heṭṭhimassa bhikkhuno matthake avatthāsi. So bhikkhu vissaramakāsi. Bhikkhū upadhāvitvā taṁ bhikkhuṁ etadavocuṁ— “kissa tvaṁ, āvuso, vissaramakāsī”ti? Atha kho so bhikkhu bhikkhūnaṁ etamatthaṁ ārocesi.
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti—
+1.9\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti—
 
-“kathañhi nāma bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ sahasā abhinisīdissatī”ti.
+1.10\. “kathañhi nāma bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ sahasā abhinisīdissatī”ti.
 
-Atha kho te bhikkhū taṁ bhikkhuṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, bhikkhu, saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ sahasā abhinisīdasī”ti?
+1.11\. Atha kho te bhikkhū taṁ bhikkhuṁ anekapariyāyena vigarahitvā bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, bhikkhu, saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ sahasā abhinisīdasī”ti?
 
-“Saccaṁ, bhagavā”ti.
+1.13\. “Saccaṁ, bhagavā”ti.
 
-Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ sahasā abhinisīdissasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
+1.14\. Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ sahasā abhinisīdissasi. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… evañca pana, bhikkhave, imaṁ sikkhāpadaṁ uddiseyyātha—
 
-“Yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyan”ti.
+1.18\. “Yo pana bhikkhu saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyan”ti.
 
-2\. **Yo panāti**
+2.1\. **Yo panāti**
 
 > yo yādiso …pe…
 
@@ -50,10 +50,10 @@ Vigarahi buddho bhagavā …pe… kathañhi nāma tvaṁ, moghapurisa, saṅghik
 
 > tasmiṁ abhinipajjati, āpatti pācittiyassa.
 
-Saṅghike saṅghikasaññī uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdati vā abhinipajjati vā, āpatti pācittiyassa. Saṅghike vematiko …pe… saṅghike puggalikasaññī uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdati vā abhinipajjati vā, āpatti pācittiyassa.
+2.2\. Saṅghike saṅghikasaññī uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdati vā abhinipajjati vā, āpatti pācittiyassa. Saṅghike vematiko …pe… saṅghike puggalikasaññī uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdati vā abhinipajjati vā, āpatti pācittiyassa.
 
 Puggalike saṅghikasaññī, āpatti dukkaṭassa. Puggalike vematiko, āpatti dukkaṭassa. Puggalike puggalikasaññī aññassa puggalike, āpatti dukkaṭassa. Attano puggalike, anāpatti.
 
-Anāpatti— avehāsakuṭiyā sīsaghaṭṭāya heṭṭhā aparibhogaṁ hoti, padarasañcitaṁ hoti, paṭāṇi dinnā hoti, tasmiṁ ṭhito gaṇhati vā laggeti vā, ummattakassa, ādikammikassāti.
+2.3\. Anāpatti— avehāsakuṭiyā sīsaghaṭṭāya heṭṭhā aparibhogaṁ hoti, padarasañcitaṁ hoti, paṭāṇi dinnā hoti, tasmiṁ ṭhito gaṇhati vā laggeti vā, ummattakassa, ādikammikassāti.
 
 Vehāsakuṭisikkhāpadaṁ niṭṭhitaṁ aṭṭhamaṁ.
