@@ -1,58 +1,58 @@
 # MN 72. Aggivacchasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
 
-2\. Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
+2\. Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca: {#2}
 
-3\. “Kiṁ nu kho, bho gotama, ‘sassato loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+3\. “Kiṁ nu kho, bho gotama, ‘sassato loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#3}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘sassato loko, idameva saccaṁ moghamaññan’”ti.
 
-4\. “Kiṁ pana, bho gotama, ‘asassato loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+4\. “Kiṁ pana, bho gotama, ‘asassato loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#4}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘asassato loko, idameva saccaṁ moghamaññan’”ti.
 
-5\. “Kiṁ nu kho, bho gotama, ‘antavā loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+5\. “Kiṁ nu kho, bho gotama, ‘antavā loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#5}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘antavā loko, idameva saccaṁ moghamaññan’”ti.
 
-6\. “Kiṁ pana, bho gotama, ‘anantavā loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+6\. “Kiṁ pana, bho gotama, ‘anantavā loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#6}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘anantavā loko, idameva saccaṁ moghamaññan’”ti.
 
-7\. “Kiṁ nu kho, bho gotama, ‘taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+7\. “Kiṁ nu kho, bho gotama, ‘taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#7}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’”ti.
 
-8\. “Kiṁ pana, bho gotama, ‘aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+8\. “Kiṁ pana, bho gotama, ‘aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#8}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’”ti.
 
-9\. “Kiṁ nu kho, bho gotama, ‘hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+9\. “Kiṁ nu kho, bho gotama, ‘hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#9}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti.
 
-10\. “Kiṁ pana, bho gotama, ‘na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+10\. “Kiṁ pana, bho gotama, ‘na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#10}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti.
 
-11\. “Kiṁ nu kho, bho gotama, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+11\. “Kiṁ nu kho, bho gotama, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#11}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti.
 
-12\. “Kiṁ pana, bho gotama, ‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti?
+12\. “Kiṁ pana, bho gotama, ‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#12}
 
 “Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti.
 
-13\. “‘Kiṁ nu kho, bho gotama, sassato loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—sassato loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, asassato loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—asassato loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, antavā loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—antavā loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, anantavā loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—anantavā loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. Kiṁ pana bho gotamo ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato”ti?
+13\. “‘Kiṁ nu kho, bho gotama, sassato loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—sassato loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, asassato loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—asassato loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, antavā loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—antavā loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, anantavā loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—anantavā loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. Kiṁ pana bho gotamo ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato”ti? {#13}
 
-14\. “‘Sassato loko’ti kho, vaccha, diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. ‘Asassato loko’ti kho, vaccha …pe… ‘antavā loko’ti kho, vaccha …pe… ‘anantavā loko’ti kho, vaccha …pe… ‘taṁ jīvaṁ taṁ sarīran’ti kho, vaccha …pe… ‘aññaṁ jīvaṁ aññaṁ sarīran’ti kho, vaccha …pe… ‘hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘na hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti kho, vaccha, diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. Imaṁ kho ahaṁ, vaccha, ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato”ti.
+14\. “‘Sassato loko’ti kho, vaccha, diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. ‘Asassato loko’ti kho, vaccha …pe… ‘antavā loko’ti kho, vaccha …pe… ‘anantavā loko’ti kho, vaccha …pe… ‘taṁ jīvaṁ taṁ sarīran’ti kho, vaccha …pe… ‘aññaṁ jīvaṁ aññaṁ sarīran’ti kho, vaccha …pe… ‘hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘na hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti kho, vaccha, diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. Imaṁ kho ahaṁ, vaccha, ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato”ti. {#14}
 
-15\. “Atthi pana bhoto gotamassa kiñci diṭṭhigatan”ti?
+15\. “Atthi pana bhoto gotamassa kiñci diṭṭhigatan”ti? {#15}
 
 “Diṭṭhigatanti kho, vaccha, apanītametaṁ tathāgatassa. Diṭṭhañhetaṁ, vaccha, tathāgatena: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṁ samudayo, iti saṅkhārānaṁ atthaṅgamo; iti viññāṇaṁ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti. Tasmā tathāgato sabbamaññitānaṁ sabbamathitānaṁ sabbaahaṅkāramamaṅkāramānānusayānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anupādā vimuttoti vadāmī”ti.
 
-16\. “Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī”ti?
+16\. “Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī”ti? {#16}
 
 “Upapajjatīti kho, vaccha, na upeti”.
 
@@ -68,13 +68,13 @@
 
 “Neva upapajjati na na upapajjatīti kho, vaccha, na upeti”.
 
-17\. “‘Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī’ti iti puṭṭho samāno ‘upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, na upapajjatī’ti iti puṭṭho samāno ‘na upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, upapajjati ca na ca upapajjatī’ti iti puṭṭho samāno ‘upapajjati ca na ca upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, neva upapajjati na na upapajjatī’ti iti puṭṭho samāno ‘neva upapajjati na na upapajjatīti kho, vaccha, na upetī’ti vadesi. Etthāhaṁ, bho gotama, aññāṇamāpādiṁ, ettha sammohamāpādiṁ. Yāpi me esā bhoto gotamassa purimena kathāsallāpena ahu pasādamattā sāpi me etarahi antarahitā”ti.
+17\. “‘Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī’ti iti puṭṭho samāno ‘upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, na upapajjatī’ti iti puṭṭho samāno ‘na upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, upapajjati ca na ca upapajjatī’ti iti puṭṭho samāno ‘upapajjati ca na ca upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, neva upapajjati na na upapajjatī’ti iti puṭṭho samāno ‘neva upapajjati na na upapajjatīti kho, vaccha, na upetī’ti vadesi. Etthāhaṁ, bho gotama, aññāṇamāpādiṁ, ettha sammohamāpādiṁ. Yāpi me esā bhoto gotamassa purimena kathāsallāpena ahu pasādamattā sāpi me etarahi antarahitā”ti. {#17}
 
-18\. “Alañhi te, vaccha, aññāṇāya, alaṁ sammohāya. Gambhīro hāyaṁ, vaccha, dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. So tayā dujjāno aññadiṭṭhikena aññakhantikena aññarucikena aññatrayogena aññatrācariyakena.
+18\. “Alañhi te, vaccha, aññāṇāya, alaṁ sammohāya. Gambhīro hāyaṁ, vaccha, dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. So tayā dujjāno aññadiṭṭhikena aññakhantikena aññarucikena aññatrayogena aññatrācariyakena. {#18}
 
 Tena hi, vaccha, taññevettha paṭipucchissāmi; yathā te khameyya tathā naṁ byākareyyāsi.
 
-19\. Taṁ kiṁ maññasi, vaccha, sace te purato aggi jaleyya, jāneyyāsi tvaṁ: ‘ayaṁ me purato aggi jalatī’”ti?
+19\. Taṁ kiṁ maññasi, vaccha, sace te purato aggi jaleyya, jāneyyāsi tvaṁ: ‘ayaṁ me purato aggi jalatī’”ti? {#19}
 
 “Sace me, bho gotama, purato aggi jaleyya, jāneyyāhaṁ: ‘ayaṁ me purato aggi jalatī’”ti.
 
@@ -92,14 +92,14 @@ Tena hi, vaccha, taññevettha paṭipucchissāmi; yathā te khameyya tathā na�
 
 “Na upeti, bho gotama, yañhi so, bho gotama, aggi tiṇakaṭṭhupādānaṁ paṭicca ajali tassa ca pariyādānā aññassa ca anupahārā anāhāro nibbutotveva saṅkhyaṁ gacchatī”ti.
 
-20\. “Evameva kho, vaccha, yena rūpena tathāgataṁ paññāpayamāno paññāpeyya taṁ rūpaṁ tathāgatassa pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ. Rūpasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti.
+20\. “Evameva kho, vaccha, yena rūpena tathāgataṁ paññāpayamāno paññāpeyya taṁ rūpaṁ tathāgatassa pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ. Rūpasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. {#20}
 
 Yāya vedanāya tathāgataṁ paññāpayamāno paññāpeyya sā vedanā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Vedanāsaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. Yāya saññāya tathāgataṁ paññāpayamāno paññāpeyya sā saññā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Saññāsaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. Yehi saṅkhārehi tathāgataṁ paññāpayamāno paññāpeyya te saṅkhārā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Saṅkhārasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. Yena viññāṇena tathāgataṁ paññāpayamāno paññāpeyya taṁ viññāṇaṁ tathāgatassa pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ. Viññāṇasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upetī”ti.
 
-21\. Evaṁ vutte, vacchagotto paribbājako bhagavantaṁ etadavoca:
+21\. Evaṁ vutte, vacchagotto paribbājako bhagavantaṁ etadavoca: {#21}
 
 “seyyathāpi, bho gotama, gāmassa vā nigamassa vā avidūre mahāsālarukkho. Tassa aniccatā sākhāpalāsā palujjeyyuṁ, tacapapaṭikā palujjeyyuṁ, pheggū palujjeyyuṁ; so aparena samayena apagatasākhāpalāso apagatatacapapaṭiko apagataphegguko suddho assa, sāre patiṭṭhito; evameva bhoto gotamassa pāvacanaṁ apagatasākhāpalāsaṁ apagatatacapapaṭikaṁ apagatapheggukaṁ suddhaṁ, sāre patiṭṭhitaṁ.
 
-22\. Abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+22\. Abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti. {#22}
 
 Aggivacchasuttaṁ niṭṭhitaṁ dutiyaṁ.

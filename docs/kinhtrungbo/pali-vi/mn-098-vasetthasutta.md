@@ -5,25 +5,25 @@ description: Đức Phật đang lưu trú tại khu rừng Icchānaṅgala. Hai
 # MN 98. KINH VĀSEṬṬHA
 *(Vāseṭṭhasutta)*
 
-1\. Tôi đã nghe như vầy—một thời Thế Tôn lưu trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala.
+1\. Tôi đã nghe như vầy—một thời Thế Tôn lưu trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala. {#1}
 
-2\. Lúc bấy giờ, có nhiều Bà-la-môn đại gia danh tiếng đang cư ngụ tại Icchānaṅgala, đó là Bà-la-môn Caṅkī, Bà-la-môn Tārukkha, Bà-la-môn Pokkharasāti, Bà-la-môn Jāṇussoṇi, Bà-la-môn Todeyya và nhiều Bà-la-môn đại gia danh tiếng khác.
+2\. Lúc bấy giờ, có nhiều Bà-la-môn đại gia danh tiếng đang cư ngụ tại Icchānaṅgala, đó là Bà-la-môn Caṅkī, Bà-la-môn Tārukkha, Bà-la-môn Pokkharasāti, Bà-la-môn Jāṇussoṇi, Bà-la-môn Todeyya và nhiều Bà-la-môn đại gia danh tiếng khác. {#2}
 
-3\. Khi ấy, trong lúc hai thanh niên Vāseṭṭha và Bhāradvāja đang đi dạo và tản bộ, một cuộc thảo luận sau đây khởi lên: "Thưa tôn giả, làm thế nào để trở thành một *Bà-la-môn* (brāhmaṇo)?"
+3\. Khi ấy, trong lúc hai thanh niên Vāseṭṭha và Bhāradvāja đang đi dạo và tản bộ, một cuộc thảo luận sau đây khởi lên: "Thưa tôn giả, làm thế nào để trở thành một *Bà-la-môn* (brāhmaṇo)?" {#3}
 
 Thanh niên Bhāradvāja nói như sau: "Thưa tôn giả, khi một người được sinh ra tốt đẹp từ cả hai phía mẹ và cha, có huyết thống trong sạch cho đến bảy đời tổ tiên, không bị chê bai hay chỉ trích về *dòng dõi* (jāti)—cho đến mức độ đó, thưa tôn giả, người ấy là một *Bà-la-môn*."
 
 Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *có đạo đức* (trì giới / sīlavā) và *cư xử đúng đắn* (thành tựu cấm giới / vattasampanno)—cho đến mức độ đó, thưa tôn giả, người ấy là một *Bà-la-môn*."
 
-4\. Thanh niên Bhāradvāja không thể thuyết phục được thanh niên Vāseṭṭha, và thanh niên Vāseṭṭha cũng không thể thuyết phục được thanh niên Bhāradvāja.
+4\. Thanh niên Bhāradvāja không thể thuyết phục được thanh niên Vāseṭṭha, và thanh niên Vāseṭṭha cũng không thể thuyết phục được thanh niên Bhāradvāja. {#4}
 
-5\. Sau đó, thanh niên Vāseṭṭha nói với thanh niên Bhāradvāja: "Thưa tôn giả Bhāradvāja, Sa-môn Gotama là con trai dòng Sakya, xuất gia từ gia tộc Sakya, đang lưu trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, đầy đủ minh và hạnh, bậc Thiện Thệ, người hiểu rõ thế gian, bậc Vô thượng, người điều phục những ai đáng được điều phục, bậc Thầy của chư thiên và loài người, bậc Giác ngộ, Thế Tôn.' Này tôn giả Bhāradvāja, chúng ta hãy đi đến chỗ Sa-môn Gotama; sau khi đến, chúng ta sẽ hỏi Sa-môn Gotama về vấn đề này. Sa-môn Gotama trả lời chúng ta như thế nào, chúng ta sẽ ghi nhớ như vậy."
+5\. Sau đó, thanh niên Vāseṭṭha nói với thanh niên Bhāradvāja: "Thưa tôn giả Bhāradvāja, Sa-môn Gotama là con trai dòng Sakya, xuất gia từ gia tộc Sakya, đang lưu trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, đầy đủ minh và hạnh, bậc Thiện Thệ, người hiểu rõ thế gian, bậc Vô thượng, người điều phục những ai đáng được điều phục, bậc Thầy của chư thiên và loài người, bậc Giác ngộ, Thế Tôn.' Này tôn giả Bhāradvāja, chúng ta hãy đi đến chỗ Sa-môn Gotama; sau khi đến, chúng ta sẽ hỏi Sa-môn Gotama về vấn đề này. Sa-môn Gotama trả lời chúng ta như thế nào, chúng ta sẽ ghi nhớ như vậy." {#5}
 
 "Vâng, thưa tôn giả," thanh niên Bhāradvāja đồng ý với thanh niên Vāseṭṭha.
 
-6\. Sau đó, hai thanh niên Vāseṭṭha và Bhāradvāja đi đến chỗ Thế Tôn; sau khi đến, họ chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu, họ ngồi xuống một bên. Ngồi một bên, thanh niên Vāseṭṭha thưa với Thế Tôn bằng những vần kệ:
+6\. Sau đó, hai thanh niên Vāseṭṭha và Bhāradvāja đi đến chỗ Thế Tôn; sau khi đến, họ chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu, họ ngồi xuống một bên. Ngồi một bên, thanh niên Vāseṭṭha thưa với Thế Tôn bằng những vần kệ: {#6}
 
-7\.
+7\. {#7}
 > "Được chấp nhận, công nhận,\
 > Chúng tôi thông ba kinh;\
 > Tôi trò Pokkharasāti,\
@@ -63,7 +63,7 @@ Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *
 > Xin giải thích chúng tôi,\
 > Kẻ chưa biết được rõ."
 
-8\.
+8\. {#8}
 > "Ta sẽ giải thích rõ,\
 > (Thế Tôn nói Vāseṭṭha)\
 > Theo thứ tự chân thật;\
@@ -100,7 +100,7 @@ Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *
 > Tướng sinh loại của chúng,\
 > Khác biệt do sinh ra.
 
-9\.
+9\. {#9}
 > Như trong các loài kia,\
 > Tướng sinh loại khác biệt;\
 > Trong loài người không có,\
@@ -128,7 +128,7 @@ Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *
 > Sự khác biệt loài người,\
 > Chỉ là do danh xưng.
 
-10\.
+10\. {#10}
 > Ai trong loài người này,\
 > Sống bằng nghề chăn nuôi;\
 > Vāseṭṭha nên biết,\
@@ -169,7 +169,7 @@ Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *
 > Vāseṭṭha nên biết;\
 > Quốc vương, không Bà-la-môn.
 
-11\.
+11\. {#11}
 > Ta không gọi Bà-la-môn;\
 > Vì sinh từ thai mẹ;\
 > Chỉ là kẻ xưng hô;\
@@ -314,7 +314,7 @@ Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *
 > Đạt đến tận cùng sinh;\
 > Ta gọi Bà-la-môn.
 
-12\.
+12\. {#12}
 > Danh xưng trên thế gian;\
 > Chỉ là tên giả lập;\
 > Phát sinh do quy ước;\
@@ -344,7 +344,7 @@ Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *
 > Tế sư do hành động;\
 > Quốc vương do hành động.
 
-13\.
+13\. {#13}
 > Bậc trí thấy như thật;\
 > Hành động và kết quả;\
 > Thấy rõ lý duyên khởi;\
@@ -366,6 +366,6 @@ Thanh niên Vāseṭṭha nói như sau: "Thưa tôn giả, khi một người *
 > Là Phạm thiên, Đế Thích;\
 > Đối với người hiểu biết."
 
-14\. Khi được nói như vậy, hai thanh niên Vāseṭṭha và Bhāradvāja thưa với Thế Tôn: "Thật tuyệt vời, thưa tôn giả Gotama, thật tuyệt vời, thưa tôn giả Gotama. Thưa tôn giả Gotama, như người dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc hướng, hoặc cầm ngọn đèn sáng mang vào bóng tối để những ai có mắt có thể thấy được hình ảnh; cũng vậy, *Giáo pháp* (pháp / dhammo) đã được tôn giả Gotama làm sáng tỏ qua nhiều phương tiện. Chúng con xin quy y tôn giả Gotama, quy y *Giáo pháp* và quy y Tăng chúng. Xin tôn giả Gotama nhận chúng con làm cư sĩ, từ nay cho đến mạng chung, chúng con xin trọn đời quy y."
+14\. Khi được nói như vậy, hai thanh niên Vāseṭṭha và Bhāradvāja thưa với Thế Tôn: "Thật tuyệt vời, thưa tôn giả Gotama, thật tuyệt vời, thưa tôn giả Gotama. Thưa tôn giả Gotama, như người dựng đứng lại những gì bị quăng ngã xuống, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc hướng, hoặc cầm ngọn đèn sáng mang vào bóng tối để những ai có mắt có thể thấy được hình ảnh; cũng vậy, *Giáo pháp* (pháp / dhammo) đã được tôn giả Gotama làm sáng tỏ qua nhiều phương tiện. Chúng con xin quy y tôn giả Gotama, quy y *Giáo pháp* và quy y Tăng chúng. Xin tôn giả Gotama nhận chúng con làm cư sĩ, từ nay cho đến mạng chung, chúng con xin trọn đời quy y." {#14}
 
 Kinh Vāseṭṭha thứ tám kết thúc.

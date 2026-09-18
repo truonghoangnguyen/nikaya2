@@ -1,22 +1,22 @@
 # MN 145. Puṇṇovādasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
 
 Atha kho āyasmā puṇṇo sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā puṇṇo bhagavantaṁ etadavoca: “sādhu maṁ, bhante, bhagavā saṅkhittena ovādena ovadatu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
 
-2\. “Tena hi, puṇṇa, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti.
+2\. “Tena hi, puṇṇa, suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti. {#2}
 
 “Evaṁ, bhante”ti kho āyasmā puṇṇo bhagavato paccassosi. Bhagavā etadavoca:
 
-3\. “Santi kho, puṇṇa, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati. Tassa taṁ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. ‘Nandīsamudayā dukkhasamudayo, puṇṇā’ti vadāmi.
+3\. “Santi kho, puṇṇa, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati. Tassa taṁ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. ‘Nandīsamudayā dukkhasamudayo, puṇṇā’ti vadāmi. {#3}
 
 Santi kho, puṇṇa, sotaviññeyyā saddā … ghānaviññeyyā gandhā … jivhāviññeyyā rasā … kāyaviññeyyā phoṭṭhabbā … manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati. Tassa taṁ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. ‘Nandīsamudayā dukkhasamudayo, puṇṇā’ti vadāmi.
 
-4\. Santi ca kho, puṇṇa, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati. Tassa taṁ anabhinandato anabhivadato anajjhosāya tiṭṭhato nandī nirujjhati. ‘Nandīnirodhā dukkhanirodho, puṇṇā’ti vadāmi.
+4\. Santi ca kho, puṇṇa, cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati. Tassa taṁ anabhinandato anabhivadato anajjhosāya tiṭṭhato nandī nirujjhati. ‘Nandīnirodhā dukkhanirodho, puṇṇā’ti vadāmi. {#4}
 
 Santi ca kho, puṇṇa, sotaviññeyyā saddā … ghānaviññeyyā gandhā … jivhāviññeyyā rasā … kāyaviññeyyā phoṭṭhabbā … manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā. Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati. Tassa taṁ anabhinandato anabhivadato anajjhosāya tiṭṭhato nandī nirujjhati. ‘Nandīnirodhā dukkhanirodho, puṇṇā’ti vadāmi.
 
-5\. Iminā ca tvaṁ, puṇṇa, mayā saṅkhittena ovādena ovadito katarasmiṁ janapade viharissasī”ti?
+5\. Iminā ca tvaṁ, puṇṇa, mayā saṅkhittena ovādena ovadito katarasmiṁ janapade viharissasī”ti? {#5}
 
 “Imināhaṁ, bhante, bhagavatā saṅkhittena ovādena ovadito, atthi sunāparanto nāma janapado, tatthāhaṁ viharissāmī”ti.
 
@@ -44,11 +44,11 @@ Santi ca kho, puṇṇa, sotaviññeyyā saddā … ghānaviññeyyā gandhā �
 
 “Sace maṁ, bhante, sunāparantakā manussā tiṇhena satthena jīvitā voropessanti, tattha me evaṁ bhavissati: ‘santi kho bhagavato sāvakā kāye ca jīvite ca aṭṭīyamānā harāyamānā jigucchamānā satthahārakaṁ pariyesanti. Taṁ me idaṁ apariyiṭṭhaṁyeva satthahārakaṁ laddhan’ti. Evamettha, bhagavā, bhavissati; evamettha, sugata, bhavissatī”ti.
 
-6\. “Sādhu sādhu, puṇṇa. Sakkhissasi kho tvaṁ, puṇṇa, iminā damūpasamena samannāgato sunāparantasmiṁ janapade viharituṁ. Yassadāni tvaṁ, puṇṇa, kālaṁ maññasī”ti.
+6\. “Sādhu sādhu, puṇṇa. Sakkhissasi kho tvaṁ, puṇṇa, iminā damūpasamena samannāgato sunāparantasmiṁ janapade viharituṁ. Yassadāni tvaṁ, puṇṇa, kālaṁ maññasī”ti. {#6}
 
-7\. Atha kho āyasmā puṇṇo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sunāparanto janapado tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sunāparanto janapado tadavasari. Tatra sudaṁ āyasmā puṇṇo sunāparantasmiṁ janapade viharati. Atha kho āyasmā puṇṇo tenevantaravassena pañcamattāni upāsakasatāni paṭivedesi, tenevantaravassena pañcamattāni upāsikasatāni paṭivedesi, tenevantaravassena tisso vijjā sacchākāsi. Atha kho āyasmā puṇṇo aparena samayena parinibbāyi.
+7\. Atha kho āyasmā puṇṇo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sunāparanto janapado tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sunāparanto janapado tadavasari. Tatra sudaṁ āyasmā puṇṇo sunāparantasmiṁ janapade viharati. Atha kho āyasmā puṇṇo tenevantaravassena pañcamattāni upāsakasatāni paṭivedesi, tenevantaravassena pañcamattāni upāsikasatāni paṭivedesi, tenevantaravassena tisso vijjā sacchākāsi. Atha kho āyasmā puṇṇo aparena samayena parinibbāyi. {#7}
 
-8\. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “yo so, bhante, puṇṇo nāma kulaputto bhagavatā saṅkhittena ovādena ovadito so kālaṅkato. Tassa kā gati, ko abhisamparāyo”ti?
+8\. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “yo so, bhante, puṇṇo nāma kulaputto bhagavatā saṅkhittena ovādena ovadito so kālaṅkato. Tassa kā gati, ko abhisamparāyo”ti? {#8}
 
 “Paṇḍito, bhikkhave, puṇṇo kulaputto paccapādi dhammassānudhammaṁ, na ca maṁ dhammādhikaraṇaṁ viheṭhesi. Parinibbuto, bhikkhave, puṇṇo kulaputto”ti.
 

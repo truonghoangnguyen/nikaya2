@@ -1,14 +1,14 @@
 # MN 93. Assalāyanasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
 
-2\. Tena kho pana samayena nānāverajjakānaṁ brāhmaṇānaṁ pañcamattāni brāhmaṇasatāni sāvatthiyaṁ paṭivasanti kenacideva karaṇīyena. Atha kho tesaṁ brāhmaṇānaṁ etadahosi: “ayaṁ kho samaṇo gotamo cātuvaṇṇiṁ suddhiṁ paññapeti. Ko nu kho pahoti samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetun”ti?
+2\. Tena kho pana samayena nānāverajjakānaṁ brāhmaṇānaṁ pañcamattāni brāhmaṇasatāni sāvatthiyaṁ paṭivasanti kenacideva karaṇīyena. Atha kho tesaṁ brāhmaṇānaṁ etadahosi: “ayaṁ kho samaṇo gotamo cātuvaṇṇiṁ suddhiṁ paññapeti. Ko nu kho pahoti samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetun”ti? {#2}
 
-3\. Tena kho pana samayena assalāyano nāma māṇavo sāvatthiyaṁ paṭivasati daharo, vuttasiro, soḷasavassuddesiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo.
+3\. Tena kho pana samayena assalāyano nāma māṇavo sāvatthiyaṁ paṭivasati daharo, vuttasiro, soḷasavassuddesiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo. {#3}
 
 Atha kho tesaṁ brāhmaṇānaṁ etadahosi: “ayaṁ kho assalāyano māṇavo sāvatthiyaṁ paṭivasati daharo, vuttasiro, soḷasavassuddesiko jātiyā, tiṇṇaṁ vedānaṁ pāragū …pe… anavayo. So kho pahoti samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetun”ti.
 
-4\. Atha kho te brāhmaṇā yena assalāyano māṇavo tenupasaṅkamiṁsu; upasaṅkamitvā assalāyanaṁ māṇavaṁ etadavocuṁ: “ayaṁ, bho assalāyana, samaṇo gotamo cātuvaṇṇiṁ suddhiṁ paññapeti. Etu bhavaṁ assalāyano samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetū”ti.
+4\. Atha kho te brāhmaṇā yena assalāyano māṇavo tenupasaṅkamiṁsu; upasaṅkamitvā assalāyanaṁ māṇavaṁ etadavocuṁ: “ayaṁ, bho assalāyana, samaṇo gotamo cātuvaṇṇiṁ suddhiṁ paññapeti. Etu bhavaṁ assalāyano samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetū”ti. {#4}
 
 Evaṁ vutte, assalāyano māṇavo te brāhmaṇe etadavoca: “samaṇo khalu, bho, gotamo dhammavādī; dhammavādino ca pana duppaṭimantiyā bhavanti. Nāhaṁ sakkomi samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetun”ti.
 
@@ -18,13 +18,13 @@ Tatiyampi kho te brāhmaṇā assalāyanaṁ māṇavaṁ etadavocuṁ: “aya�
 
 Evaṁ vutte, assalāyano māṇavo te brāhmaṇe etadavoca: “addhā kho ahaṁ bhavanto na labhāmi. Samaṇo khalu, bho, gotamo dhammavādī; dhammavādino ca pana duppaṭimantiyā bhavanti. Nāhaṁ sakkomi samaṇena gotamena saddhiṁ asmiṁ vacane paṭimantetunti. Api cāhaṁ bhavantānaṁ vacanena gamissāmī”ti.
 
-5\. Atha kho assalāyano māṇavo mahatā brāhmaṇagaṇena saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho assalāyano māṇavo bhagavantaṁ etadavoca:
+5\. Atha kho assalāyano māṇavo mahatā brāhmaṇagaṇena saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho assalāyano māṇavo bhagavantaṁ etadavoca: {#5}
 
 “brāhmaṇā, bho gotama, evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo; brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo; brāhmaṇova sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Idha bhavaṁ gotamo kimāhā”ti?
 
 “Dissanti kho pana, assalāyana, brāhmaṇānaṁ brāhmaṇiyo utuniyopi gabbhiniyopi vijāyamānāpi pāyamānāpi. Te ca brāhmaṇiyonijāva samānā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo; brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’”ti.
 
-6\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
+6\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti. {#6}
 
 “Taṁ kiṁ maññasi, assalāyana, sutaṁ te: ‘yonakambojesu aññesu ca paccantimesu janapadesu dveva vaṇṇā—ayyo ceva dāso ca; ayyo hutvā dāso hoti, dāso hutvā ayyo hotī’”ti?
 
@@ -32,7 +32,7 @@ Evaṁ vutte, assalāyano māṇavo te brāhmaṇe etadavoca: “addhā kho aha�
 
 “Ettha, assalāyana, brāhmaṇānaṁ kiṁ balaṁ, ko assāso yadettha brāhmaṇā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti?
 
-7\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
+7\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti. {#7}
 
 “Taṁ kiṁ maññasi, assalāyana, khattiyova nu kho pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya, no brāhmaṇo? Vessova nu kho …pe… suddova nu kho pāṇātipātī adinnādāyī kāmesumicchācārī musāvādī pisuṇavāco pharusavāco samphappalāpī abhijjhālu byāpannacitto micchādiṭṭhi kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjeyya, no brāhmaṇo”ti?
 
@@ -40,7 +40,7 @@ Evaṁ vutte, assalāyano māṇavo te brāhmaṇe etadavoca: “addhā kho aha�
 
 “Ettha, assalāyana, brāhmaṇānaṁ kiṁ balaṁ, ko assāso yadettha brāhmaṇā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti?
 
-8\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
+8\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti. {#8}
 
 “Taṁ kiṁ maññasi, assalāyana, brāhmaṇova nu kho pāṇātipātā paṭivirato adinnādānā paṭivirato kāmesumicchācārā paṭivirato musāvādā paṭivirato pisuṇāya vācāya paṭivirato pharusāya vācāya paṭivirato samphappalāpā paṭivirato anabhijjhālu abyāpannacitto sammādiṭṭhi kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjeyya, no khattiyo, no vesso, no suddo”ti?
 
@@ -48,7 +48,7 @@ Evaṁ vutte, assalāyano māṇavo te brāhmaṇe etadavoca: “addhā kho aha�
 
 “Ettha, assalāyana, brāhmaṇānaṁ kiṁ balaṁ, ko assāso yadettha brāhmaṇā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti?
 
-9\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
+9\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti. {#9}
 
 “Taṁ kiṁ maññasi, assalāyana, brāhmaṇova nu kho pahoti asmiṁ padese averaṁ abyābajjhaṁ mettacittaṁ bhāvetuṁ, no khattiyo, no vesso, no suddo”ti?
 
@@ -56,7 +56,7 @@ Evaṁ vutte, assalāyano māṇavo te brāhmaṇe etadavoca: “addhā kho aha�
 
 “Ettha, assalāyana, brāhmaṇānaṁ kiṁ balaṁ, ko assāso yadettha brāhmaṇā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti?
 
-10\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
+10\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti. {#10}
 
 “Taṁ kiṁ maññasi, assalāyana, brāhmaṇova nu kho pahoti sottisināniṁ ādāya nadiṁ gantvā rajojallaṁ pavāhetuṁ, no khattiyo, no vesso, no suddo”ti?
 
@@ -64,7 +64,7 @@ Evaṁ vutte, assalāyano māṇavo te brāhmaṇe etadavoca: “addhā kho aha�
 
 “Ettha, assalāyana, brāhmaṇānaṁ kiṁ balaṁ, ko assāso yadettha brāhmaṇā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti?
 
-11\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
+11\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti. {#11}
 
 “Taṁ kiṁ maññasi, assalāyana, idha rājā khattiyo muddhāvasitto nānājaccānaṁ purisānaṁ purisasataṁ sannipāteyya: ‘āyantu bhonto ye tattha khattiyakulā brāhmaṇakulā rājaññakulā uppannā, sākassa vā sālassa vā salaḷassa vā candanassa vā padumakassa vā uttarāraṇiṁ ādāya, aggiṁ abhinibbattentu, tejo pātukarontu. Āyantu pana bhonto ye tattha caṇḍālakulā nesādakulā venakulā rathakārakulā pukkusakulā uppannā, sāpānadoṇiyā vā sūkaradoṇiyā vā rajakadoṇiyā vā eraṇḍakaṭṭhassa vā uttarāraṇiṁ ādāya, aggiṁ abhinibbattentu, tejo pātukarontū’ti.
 
@@ -74,31 +74,31 @@ Taṁ kiṁ maññasi, assalāyana, yo evaṁ nu kho so khattiyakulā brāhmaṇ
 
 “Ettha, assalāyana, brāhmaṇānaṁ kiṁ balaṁ, ko assāso yadettha brāhmaṇā evamāhaṁsu: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo; brāhmaṇova sukko vaṇṇo, kaṇho añño vaṇṇo; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’”ti?
 
-12\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti.
+12\. “Kiñcāpi bhavaṁ gotamo evamāha, atha khvettha brāhmaṇā evametaṁ maññanti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo …pe… brahmadāyādā’”ti. {#12}
 
 “Taṁ kiṁ maññasi, assalāyana, idha khattiyakumāro brāhmaṇakaññāya saddhiṁ saṁvāsaṁ kappeyya, tesaṁ saṁvāsamanvāya putto jāyetha; yo so khattiyakumārena brāhmaṇakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti?
 
 “Yo so, bho gotama, khattiyakumārena brāhmaṇakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti.
 
-13\. “Taṁ kiṁ maññasi, assalāyana, idha brāhmaṇakumāro khattiyakaññāya saddhiṁ saṁvāsaṁ kappeyya, tesaṁ saṁvāsamanvāya putto jāyetha; yo so brāhmaṇakumārena khattiyakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti?
+13\. “Taṁ kiṁ maññasi, assalāyana, idha brāhmaṇakumāro khattiyakaññāya saddhiṁ saṁvāsaṁ kappeyya, tesaṁ saṁvāsamanvāya putto jāyetha; yo so brāhmaṇakumārena khattiyakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti? {#13}
 
 “Yo so, bho gotama, brāhmaṇakumārena khattiyakaññāya putto uppanno, siyā so mātupi sadiso pitupi sadiso, ‘khattiyo’tipi vattabbo ‘brāhmaṇo’tipi vattabbo”ti.
 
-14\. “Taṁ kiṁ maññasi, assalāyana, idha vaḷavaṁ gadrabhena sampayojeyyuṁ, tesaṁ sampayogamanvāya kisoro jāyetha; yo so vaḷavāya gadrabhena kisoro uppanno, siyā so mātupi sadiso pitupi sadiso, ‘asso’tipi vattabbo ‘gadrabho’tipi vattabbo”ti?
+14\. “Taṁ kiṁ maññasi, assalāyana, idha vaḷavaṁ gadrabhena sampayojeyyuṁ, tesaṁ sampayogamanvāya kisoro jāyetha; yo so vaḷavāya gadrabhena kisoro uppanno, siyā so mātupi sadiso pitupi sadiso, ‘asso’tipi vattabbo ‘gadrabho’tipi vattabbo”ti? {#14}
 
 “Kuṇḍañhi so, bho gotama, assataro hoti. Idaṁ hissa, bho gotama, nānākaraṇaṁ passāmi; amutra ca panesānaṁ na kiñci nānākaraṇaṁ passāmī”ti.
 
-15\. “Taṁ kiṁ maññasi, assalāyana, idhāssu dve māṇavakā bhātaro sodariyā, eko ajjhāyako upanīto eko anajjhāyako anupanīto. Kamettha brāhmaṇā paṭhamaṁ bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?
+15\. “Taṁ kiṁ maññasi, assalāyana, idhāssu dve māṇavakā bhātaro sodariyā, eko ajjhāyako upanīto eko anajjhāyako anupanīto. Kamettha brāhmaṇā paṭhamaṁ bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā”ti? {#15}
 
 “Yo so, bho gotama, māṇavako ajjhāyako upanīto tamettha brāhmaṇā paṭhamaṁ bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā. Kiñhi, bho gotama, anajjhāyake anupanīte dinnaṁ mahapphalaṁ bhavissatī”ti?
 
-16\. “Taṁ kiṁ maññasi, assalāyana, idhāssu dve māṇavakā bhātaro sodariyā, eko ajjhāyako upanīto dussīlo pāpadhammo, eko anajjhāyako anupanīto sīlavā kalyāṇadhammo. Kamettha brāhmaṇā paṭhamaṁ bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā”ti?
+16\. “Taṁ kiṁ maññasi, assalāyana, idhāssu dve māṇavakā bhātaro sodariyā, eko ajjhāyako upanīto dussīlo pāpadhammo, eko anajjhāyako anupanīto sīlavā kalyāṇadhammo. Kamettha brāhmaṇā paṭhamaṁ bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā”ti? {#16}
 
 “Yo so, bho gotama, māṇavako anajjhāyako anupanīto sīlavā kalyāṇadhammo tamettha brāhmaṇā paṭhamaṁ bhojeyyuṁ saddhe vā thālipāke vā yaññe vā pāhune vā. Kiñhi, bho gotama, dussīle pāpadhamme dinnaṁ mahapphalaṁ bhavissatī”ti?
 
-17\. “Pubbe kho tvaṁ, assalāyana, jātiṁ agamāsi; jātiṁ gantvā mante agamāsi; mante gantvā tape agamāsi; tape gantvā cātuvaṇṇiṁ suddhiṁ paccāgato, yamahaṁ paññapemī”ti. Evaṁ vutte, assalāyano māṇavo tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi.
+17\. “Pubbe kho tvaṁ, assalāyana, jātiṁ agamāsi; jātiṁ gantvā mante agamāsi; mante gantvā tape agamāsi; tape gantvā cātuvaṇṇiṁ suddhiṁ paccāgato, yamahaṁ paññapemī”ti. Evaṁ vutte, assalāyano māṇavo tuṇhībhūto maṅkubhūto pattakkhandho adhomukho pajjhāyanto appaṭibhāno nisīdi. {#17}
 
-18\. Atha kho bhagavā assalāyanaṁ māṇavaṁ tuṇhībhūtaṁ maṅkubhūtaṁ pattakkhandhaṁ adhomukhaṁ pajjhāyantaṁ appaṭibhānaṁ viditvā assalāyanaṁ māṇavaṁ etadavoca:
+18\. Atha kho bhagavā assalāyanaṁ māṇavaṁ tuṇhībhūtaṁ maṅkubhūtaṁ pattakkhandhaṁ adhomukhaṁ pajjhāyantaṁ appaṭibhānaṁ viditvā assalāyanaṁ māṇavaṁ etadavoca: {#18}
 
 “bhūtapubbaṁ, assalāyana, sattannaṁ brāhmaṇisīnaṁ araññāyatane paṇṇakuṭīsu sammantānaṁ evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti: ‘brāhmaṇova seṭṭho vaṇṇo, hīno añño vaṇṇo … pe… brahmadāyādā’ti.
 
@@ -154,6 +154,6 @@ Atha kho, assalāyana, asito devalo isi satta brāhmaṇisayo etadavoca: ‘suta
 
 Te hi nāma, assalāyana, satta brāhmaṇisayo asitena devalena isinā sake jātivāde samanuyuñjīyamānā samanuggāhīyamānā samanubhāsīyamānā na sampāyissanti; kiṁ pana tvaṁ etarahi mayā sakasmiṁ jātivāde samanuyuñjīyamāno samanuggāhīyamāno samanubhāsīyamāno sampāyissasi, yesaṁ tvaṁ sācariyako na puṇṇo dabbigāho”ti.
 
-19\. Evaṁ vutte, assalāyano māṇavo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+19\. Evaṁ vutte, assalāyano māṇavo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti. {#19}
 
 Assalāyanasuttaṁ niṭṭhitaṁ tatiyaṁ.

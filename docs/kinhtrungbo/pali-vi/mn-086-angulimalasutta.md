@@ -1,20 +1,20 @@
 # MN 86. Aṅgulimālasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
 
-2\. Tena kho pana samayena rañño pasenadissa kosalassa vijite coro aṅgulimālo nāma hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti.
+2\. Tena kho pana samayena rañño pasenadissa kosalassa vijite coro aṅgulimālo nāma hoti luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti. {#2}
 
-3\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi. Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto senāsanaṁ saṁsāmetvā pattacīvaramādāya yena coro aṅgulimālo tenaddhānamaggaṁ paṭipajji.
+3\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi. Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto senāsanaṁ saṁsāmetvā pattacīvaramādāya yena coro aṅgulimālo tenaddhānamaggaṁ paṭipajji. {#3}
 
 Addasāsuṁ kho gopālakā pasupālakā kassakā pathāvino bhagavantaṁ yena coro aṅgulimālo tenaddhānamaggapaṭipannaṁ. Disvāna bhagavantaṁ etadavocuṁ: “mā, samaṇa, etaṁ maggaṁ paṭipajji. Etasmiṁ, samaṇa, magge coro aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti. Etañhi, samaṇa, maggaṁ dasapi purisā vīsampi purisā tiṁsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā paṭipajjanti. Tepi corassa aṅgulimālassa hatthatthaṁ gacchantī”ti. Evaṁ vutte, bhagavā tuṇhībhūto agamāsi.
 
 Dutiyampi kho gopālakā …pe… tatiyampi kho gopālakā pasupālakā kassakā pathāvino bhagavantaṁ etadavocuṁ: “mā, samaṇa, etaṁ maggaṁ paṭipajji, etasmiṁ samaṇa magge coro aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu, tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti. Etañhi samaṇa maggaṁ dasapi purisā vīsampi purisā tiṁsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā paṭipajjanti. Tepi corassa aṅgulimālassa hatthatthaṁ gacchantī”ti.
 
-4\. Atha kho bhagavā tuṇhībhūto agamāsi.
+4\. Atha kho bhagavā tuṇhībhūto agamāsi. {#4}
 
 Addasā kho coro aṅgulimālo bhagavantaṁ dūratova āgacchantaṁ. Disvānassa etadahosi: “acchariyaṁ vata bho, abbhutaṁ vata bho. Imañhi maggaṁ dasapi purisā vīsampi purisā tiṁsampi purisā cattārīsampi purisā paññāsampi purisā saṅkaritvā saṅkaritvā paṭipajjanti. Tepi mama hatthatthaṁ gacchanti. Atha ca panāyaṁ samaṇo eko adutiyo pasayha maññe āgacchati. Yannūnāhaṁ imaṁ samaṇaṁ jīvitā voropeyyan”ti.
 
-5\. Atha kho coro aṅgulimālo asicammaṁ gahetvā dhanukalāpaṁ sannayhitvā bhagavantaṁ piṭṭhito piṭṭhito anubandhi. Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā coro aṅgulimālo bhagavantaṁ pakatiyā gacchantaṁ sabbathāmena gacchanto na sakkoti sampāpuṇituṁ.
+5\. Atha kho coro aṅgulimālo asicammaṁ gahetvā dhanukalāpaṁ sannayhitvā bhagavantaṁ piṭṭhito piṭṭhito anubandhi. Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā coro aṅgulimālo bhagavantaṁ pakatiyā gacchantaṁ sabbathāmena gacchanto na sakkoti sampāpuṇituṁ. {#5}
 
 Atha kho corassa aṅgulimālassa etadahosi: “acchariyaṁ vata bho, abbhutaṁ vata bho. Ahañhi pubbe hatthimpi dhāvantaṁ anupatitvā gaṇhāmi, assampi dhāvantaṁ anupatitvā gaṇhāmi, rathampi dhāvantaṁ anupatitvā gaṇhāmi, migampi dhāvantaṁ anupatitvā gaṇhāmi; atha ca panāhaṁ imaṁ samaṇaṁ pakatiyā gacchantaṁ sabbathāmena gacchanto na sakkomi sampāpuṇitun”ti.
 
@@ -24,7 +24,7 @@ Atha kho corassa aṅgulimālassa etadahosi: “acchariyaṁ vata bho, abbhuta�
 
 Atha kho corassa aṅgulimālassa etadahosi: “ime kho samaṇā sakyaputtiyā saccavādino saccapaṭiññā. Atha panāyaṁ samaṇo gacchaṁ yevāha: ‘ṭhito ahaṁ, aṅgulimāla, tvañca tiṭṭhā’ti. Yannūnāhaṁ imaṁ samaṇaṁ puccheyyan”ti.
 
-6\. Atha kho coro aṅgulimālo bhagavantaṁ gāthāya ajjhabhāsi:
+6\. Atha kho coro aṅgulimālo bhagavantaṁ gāthāya ajjhabhāsi: {#6}
 
 > “Gacchaṁ vadesi samaṇa ṭhitomhi,\
 > Mamañca brūsi ṭhitamaṭṭhitoti;\
@@ -51,21 +51,21 @@ Atha kho corassa aṅgulimālassa etadahosi: “ime kho samaṇā sakyaputtiyā 
 > “Tamehi bhikkhū”ti tadā avoca,\
 > Eseva tassa ahu bhikkhubhāvoti.
 
-7\. Atha kho bhagavā āyasmatā aṅgulimālena pacchāsamaṇena yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari. Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+7\. Atha kho bhagavā āyasmatā aṅgulimālena pacchāsamaṇena yena sāvatthi tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena sāvatthi tadavasari. Tatra sudaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#7}
 
-8\. Tena kho pana samayena rañño pasenadissa kosalassa antepuradvāre mahājanakāyo sannipatitvā uccāsaddo mahāsaddo hoti: “coro te, deva, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti. Taṁ devo paṭisedhetū”ti.
+8\. Tena kho pana samayena rañño pasenadissa kosalassa antepuradvāre mahājanakāyo sannipatitvā uccāsaddo mahāsaddo hoti: “coro te, deva, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti. Taṁ devo paṭisedhetū”ti. {#8}
 
-9\. Atha kho rājā pasenadi kosalo pañcamattehi assasatehi sāvatthiyā nikkhami divā divassa. Yena ārāmo tena pāvisi. Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho rājānaṁ pasenadiṁ kosalaṁ bhagavā etadavoca:
+9\. Atha kho rājā pasenadi kosalo pañcamattehi assasatehi sāvatthiyā nikkhami divā divassa. Yena ārāmo tena pāvisi. Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho rājānaṁ pasenadiṁ kosalaṁ bhagavā etadavoca: {#9}
 
 “kiṁ nu te, mahārāja, rājā vā māgadho seniyo bimbisāro kupito vesālikā vā licchavī aññe vā paṭirājāno”ti?
 
-10\. “Na kho me, bhante, rājā māgadho seniyo bimbisāro kupito, nāpi vesālikā licchavī, nāpi aññe paṭirājāno. Coro me, bhante, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti. Tāhaṁ, bhante, paṭisedhissāmī”ti.
+10\. “Na kho me, bhante, rājā māgadho seniyo bimbisāro kupito, nāpi vesālikā licchavī, nāpi aññe paṭirājāno. Coro me, bhante, vijite aṅgulimālo nāma luddo lohitapāṇi hatapahate niviṭṭho adayāpanno pāṇabhūtesu. Tena gāmāpi agāmā katā, nigamāpi anigamā katā, janapadāpi ajanapadā katā. So manusse vadhitvā vadhitvā aṅgulīnaṁ mālaṁ dhāreti. Tāhaṁ, bhante, paṭisedhissāmī”ti. {#10}
 
-11\. “Sace pana tvaṁ, mahārāja, aṅgulimālaṁ passeyyāsi kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajitaṁ, virataṁ pāṇātipātā, virataṁ adinnādānā, virataṁ musāvādā, ekabhattikaṁ, brahmacāriṁ, sīlavantaṁ, kalyāṇadhammaṁ, kinti naṁ kareyyāsī”ti?
+11\. “Sace pana tvaṁ, mahārāja, aṅgulimālaṁ passeyyāsi kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajitaṁ, virataṁ pāṇātipātā, virataṁ adinnādānā, virataṁ musāvādā, ekabhattikaṁ, brahmacāriṁ, sīlavantaṁ, kalyāṇadhammaṁ, kinti naṁ kareyyāsī”ti? {#11}
 
 “Abhivādeyyāma vā, bhante, paccuṭṭheyyāma vā āsanena vā nimanteyyāma, abhinimanteyyāma vā naṁ cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārehi, dhammikaṁ vā assa rakkhāvaraṇaguttiṁ saṁvidaheyyāma. Kuto panassa, bhante, dussīlassa pāpadhammassa evarūpo sīlasaṁyamo bhavissatī”ti?
 
-12\. Tena kho pana samayena āyasmā aṅgulimālo bhagavato avidūre nisinno hoti. Atha kho bhagavā dakkhiṇaṁ bāhuṁ paggahetvā rājānaṁ pasenadiṁ kosalaṁ etadavoca: “eso, mahārāja, aṅgulimālo”ti.
+12\. Tena kho pana samayena āyasmā aṅgulimālo bhagavato avidūre nisinno hoti. Atha kho bhagavā dakkhiṇaṁ bāhuṁ paggahetvā rājānaṁ pasenadiṁ kosalaṁ etadavoca: “eso, mahārāja, aṅgulimālo”ti. {#12}
 
 Atha kho rañño pasenadissa kosalassa ahudeva bhayaṁ, ahu chambhitattaṁ, ahu lomahaṁso. Atha kho bhagavā rājānaṁ pasenadiṁ kosalaṁ bhītaṁ saṁviggaṁ lomahaṭṭhajātaṁ viditvā rājānaṁ pasenadiṁ kosalaṁ etadavoca: “mā bhāyi, mahārāja, natthi te ito bhayan”ti. Atha kho rañño pasenadissa kosalassa yaṁ ahosi bhayaṁ vā chambhitattaṁ vā lomahaṁso vā so paṭippassambhi.
 
@@ -79,17 +79,17 @@ Atha kho rājā pasenadi kosalo yenāyasmā aṅgulimālo tenupasaṅkami; upasa
 
 “Abhiramatu, bhante, ayyo gaggo mantāṇiputto. Ahamayyassa gaggassa mantāṇiputtassa ussukkaṁ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.
 
-13\. Tena kho pana samayena āyasmā aṅgulimālo āraññiko hoti piṇḍapātiko paṁsukūliko tecīvariko. Atha kho āyasmā aṅgulimālo rājānaṁ pasenadiṁ kosalaṁ etadavoca: “alaṁ, mahārāja, paripuṇṇaṁ me cīvaran”ti.
+13\. Tena kho pana samayena āyasmā aṅgulimālo āraññiko hoti piṇḍapātiko paṁsukūliko tecīvariko. Atha kho āyasmā aṅgulimālo rājānaṁ pasenadiṁ kosalaṁ etadavoca: “alaṁ, mahārāja, paripuṇṇaṁ me cīvaran”ti. {#13}
 
 Atha kho rājā pasenadi kosalo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca: “acchariyaṁ, bhante, abbhutaṁ, bhante. Yāvañcidaṁ, bhante, bhagavā adantānaṁ dametā, asantānaṁ sametā, aparinibbutānaṁ parinibbāpetā. Yañhi mayaṁ, bhante, nāsakkhimhā daṇḍenapi satthenapi dametuṁ so bhagavatā adaṇḍena asattheneva danto. Handa ca dāni mayaṁ, bhante, gacchāma; bahukiccā mayaṁ bahukaraṇīyā”ti.
 
 “Yassadāni, mahārāja, kālaṁ maññasī”ti. Atha kho rājā pasenadi kosalo uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
 
-14\. Atha kho āyasmā aṅgulimālo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiyaṁ piṇḍāya pāvisi. Addasā kho āyasmā aṅgulimālo sāvatthiyaṁ sapadānaṁ piṇḍāya caramāno aññataraṁ itthiṁ mūḷhagabbhaṁ vighātagabbhaṁ. Disvānassa etadahosi: “kilissanti vata, bho, sattā; kilissanti vata, bho, sattā”ti.
+14\. Atha kho āyasmā aṅgulimālo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiyaṁ piṇḍāya pāvisi. Addasā kho āyasmā aṅgulimālo sāvatthiyaṁ sapadānaṁ piṇḍāya caramāno aññataraṁ itthiṁ mūḷhagabbhaṁ vighātagabbhaṁ. Disvānassa etadahosi: “kilissanti vata, bho, sattā; kilissanti vata, bho, sattā”ti. {#14}
 
 Atha kho āyasmā aṅgulimālo sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā aṅgulimālo bhagavantaṁ etadavoca: “idhāhaṁ, bhante, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisiṁ. Addasaṁ kho ahaṁ, bhante, sāvatthiyaṁ sapadānaṁ piṇḍāya caramāno aññataraṁ itthiṁ mūḷhagabbhaṁ vighātagabbhaṁ. Disvāna mayhaṁ etadahosi: ‘kilissanti vata bho sattā, kilissanti vata bho sattā’”ti. “Tena hi tvaṁ, aṅgulimāla, yena sā itthī tenupasaṅkama; upasaṅkamitvā taṁ itthiṁ evaṁ vadehi:
 
-15\. ‘yatohaṁ, bhagini, jāto nābhijānāmi sañcicca pāṇaṁ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā’”ti.
+15\. ‘yatohaṁ, bhagini, jāto nābhijānāmi sañcicca pāṇaṁ jīvitā voropetā, tena saccena sotthi te hotu, sotthi gabbhassā’”ti. {#15}
 
 “So hi nūna me, bhante, sampajānamusāvādo bhavissati. Mayā hi, bhante, bahū sañcicca pāṇā jīvitā voropitā”ti.
 
@@ -103,15 +103,15 @@ Atha kho āyasmā aṅgulimālo sāvatthiyaṁ piṇḍāya caritvā pacchābhat
 
 Atha khvāssā itthiyā sotthi ahosi, sotthi gabbhassa.
 
-16\. Atha kho āyasmā aṅgulimālo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi.
+16\. Atha kho āyasmā aṅgulimālo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi. {#16}
 
 “Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi. Aññataro kho panāyasmā aṅgulimālo arahataṁ ahosi.
 
-17\. Atha kho āyasmā aṅgulimālo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi. Tena kho pana samayena aññenapi leḍḍu khitto āyasmato aṅgulimālassa kāye nipatati, aññenapi daṇḍo khitto āyasmato aṅgulimālassa kāye nipatati, aññenapi sakkharā khittā āyasmato aṅgulimālassa kāye nipatati. Atha kho āyasmā aṅgulimālo bhinnena sīsena, lohitena gaḷantena, bhinnena pattena, vipphālitāya saṅghāṭiyā yena bhagavā tenupasaṅkami.
+17\. Atha kho āyasmā aṅgulimālo pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi. Tena kho pana samayena aññenapi leḍḍu khitto āyasmato aṅgulimālassa kāye nipatati, aññenapi daṇḍo khitto āyasmato aṅgulimālassa kāye nipatati, aññenapi sakkharā khittā āyasmato aṅgulimālassa kāye nipatati. Atha kho āyasmā aṅgulimālo bhinnena sīsena, lohitena gaḷantena, bhinnena pattena, vipphālitāya saṅghāṭiyā yena bhagavā tenupasaṅkami. {#17}
 
 Addasā kho bhagavā āyasmantaṁ aṅgulimālaṁ dūratova āgacchantaṁ. Disvāna āyasmantaṁ aṅgulimālaṁ etadavoca: “adhivāsehi tvaṁ, brāhmaṇa, adhivāsehi tvaṁ, brāhmaṇa. Yassa kho tvaṁ, brāhmaṇa, kammassa vipākena bahūni vassāni bahūni vassasatāni bahūni vassasahassāni niraye pacceyyāsi tassa tvaṁ, brāhmaṇa, kammassa vipākaṁ diṭṭheva dhamme paṭisaṁvedesī”ti.
 
-18\. Atha kho āyasmā aṅgulimālo rahogato paṭisallīno vimuttisukhaṁ paṭisaṁvedi; tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:
+18\. Atha kho āyasmā aṅgulimālo rahogato paṭisallīno vimuttisukhaṁ paṭisaṁvedi; tāyaṁ velāyaṁ imaṁ udānaṁ udānesi: {#18}
 
 > “Yo pubbeva pamajjitvā,\
 > pacchā so nappamajjati;\

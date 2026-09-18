@@ -1,24 +1,24 @@
 # MN 98. Vāseṭṭhasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā icchānaṅgale viharati icchānaṅgalavanasaṇḍe. {#1}
 
-2\. Tena kho pana samayena sambahulā abhiññātā abhiññātā brāhmaṇamahāsālā icchānaṅgale paṭivasanti, seyyathidaṁ—caṅkī brāhmaṇo, tārukkho brāhmaṇo, pokkharasāti brāhmaṇo, jāṇussoṇi brāhmaṇo, todeyyo brāhmaṇo, aññe ca abhiññātā abhiññātā brāhmaṇamahāsālā.
+2\. Tena kho pana samayena sambahulā abhiññātā abhiññātā brāhmaṇamahāsālā icchānaṅgale paṭivasanti, seyyathidaṁ—caṅkī brāhmaṇo, tārukkho brāhmaṇo, pokkharasāti brāhmaṇo, jāṇussoṇi brāhmaṇo, todeyyo brāhmaṇo, aññe ca abhiññātā abhiññātā brāhmaṇamahāsālā. {#2}
 
-3\. Atha kho vāseṭṭhabhāradvājānaṁ māṇavānaṁ jaṅghāvihāraṁ anucaṅkamantānaṁ anuvicarantānaṁ ayamantarākathā udapādi: “kathaṁ, bho, brāhmaṇo hotī”ti?
+3\. Atha kho vāseṭṭhabhāradvājānaṁ māṇavānaṁ jaṅghāvihāraṁ anucaṅkamantānaṁ anuvicarantānaṁ ayamantarākathā udapādi: “kathaṁ, bho, brāhmaṇo hotī”ti? {#3}
 
 Bhāradvājo māṇavo evamāha: “yato kho, bho, ubhato sujāto mātito ca pitito ca saṁsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena—ettāvatā kho, bho, brāhmaṇo hotī”ti.
 
 Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampanno ca—ettāvatā kho, bho, brāhmaṇo hotī”ti.
 
-4\. Neva kho asakkhi bhāradvājo māṇavo vāseṭṭhaṁ māṇavaṁ saññāpetuṁ, na pana asakkhi vāseṭṭho māṇavo bhāradvājaṁ māṇavaṁ saññāpetuṁ.
+4\. Neva kho asakkhi bhāradvājo māṇavo vāseṭṭhaṁ māṇavaṁ saññāpetuṁ, na pana asakkhi vāseṭṭho māṇavo bhāradvājaṁ māṇavaṁ saññāpetuṁ. {#4}
 
-5\. Atha kho vāseṭṭho māṇavo bhāradvājaṁ māṇavaṁ āmantesi: “ayaṁ kho, bho bhāradvāja, samaṇo gotamo sakyaputto sakyakulā pabbajito icchānaṅgale viharati icchānaṅgalavanasaṇḍe. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Āyāma, bho bhāradvāja, yena samaṇo gotamo tenupasaṅkamissāma; upasaṅkamitvā samaṇaṁ gotamaṁ etamatthaṁ pucchissāma. Yathā no samaṇo gotamo byākarissati tathā naṁ dhāressāmā”ti.
+5\. Atha kho vāseṭṭho māṇavo bhāradvājaṁ māṇavaṁ āmantesi: “ayaṁ kho, bho bhāradvāja, samaṇo gotamo sakyaputto sakyakulā pabbajito icchānaṅgale viharati icchānaṅgalavanasaṇḍe. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Āyāma, bho bhāradvāja, yena samaṇo gotamo tenupasaṅkamissāma; upasaṅkamitvā samaṇaṁ gotamaṁ etamatthaṁ pucchissāma. Yathā no samaṇo gotamo byākarissati tathā naṁ dhāressāmā”ti. {#5}
 
 “Evaṁ, bho”ti kho bhāradvājo māṇavo vāseṭṭhassa māṇavassa paccassosi.
 
-6\. Atha kho vāseṭṭhabhāradvājā māṇavā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho vāseṭṭho māṇavo bhagavantaṁ gāthāhi ajjhabhāsi:
+6\. Atha kho vāseṭṭhabhāradvājā māṇavā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho vāseṭṭho māṇavo bhagavantaṁ gāthāhi ajjhabhāsi: {#6}
 
-7\.
+7\. {#7}
 > “Anuññātapaṭiññātā,\
 > tevijjā mayamasmubho;\
 > Ahaṁ pokkharasātissa,\
@@ -53,7 +53,7 @@ Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampan
 > Ajānataṁ no pabrūhi,\
 > yathā jānemu brāhmaṇan”ti.
 
-8\.
+8\. {#8}
 > “Tesaṁ vo ahaṁ byakkhissaṁ,\
 > (vāseṭṭhāti bhagavā)\
 > Anupubbaṁ yathātathaṁ;\
@@ -90,7 +90,7 @@ Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampan
 > Liṅgaṁ jātimayaṁ tesaṁ,\
 > aññamaññā hi jātiyo.
 
-9\.
+9\. {#9}
 > Yathā etāsu jātīsu,\
 > liṅgaṁ jātimayaṁ puthu;\
 > Evaṁ natthi manussesu,\
@@ -118,7 +118,7 @@ Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampan
 > Vokārañca manussesu,\
 > samaññāya pavuccati.
 
-10\.
+10\. {#10}
 > Yo hi koci manussesu,\
 > gorakkhaṁ upajīvati;\
 > Evaṁ vāseṭṭha jānāhi,\
@@ -159,7 +159,7 @@ Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampan
 > Evaṁ vāseṭṭha jānāhi,\
 > rājā eso na brāhmaṇo.
 
-11\.
+11\. {#11}
 > Na cāhaṁ brāhmaṇaṁ brūmi,\
 > yonijaṁ mattisambhavaṁ;\
 > Bhovādi nāma so hoti,\
@@ -304,7 +304,7 @@ Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampan
 > Atho jātikkhayaṁ patto,\
 > tamahaṁ brūmi brāhmaṇaṁ.
 
-12\.
+12\. {#12}
 > Samaññā hesā lokasmiṁ,\
 > nāmagottaṁ pakappitaṁ;\
 > Sammuccā samudāgataṁ,\
@@ -330,7 +330,7 @@ Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampan
 > Yājako kammunā hoti,\
 > rājāpi hoti kammunā.
 
-13\.
+13\. {#13}
 > Evametaṁ yathābhūtaṁ,\
 > kammaṁ passanti paṇḍitā;\
 > Paṭiccasamuppādadassā,\
@@ -351,6 +351,6 @@ Vāseṭṭho māṇavo evamāha: “yato kho, bho, sīlavā ca hoti vattasampan
 > Evaṁ vāseṭṭha jānāhi,\
 > brahmā sakko vijānatan”ti.
 
-14\. Evaṁ vutte, vāseṭṭhabhāradvājā māṇavā bhagavantaṁ etadavocuṁ: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Ete mayaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca. Upāsake no bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gate”ti.
+14\. Evaṁ vutte, vāseṭṭhabhāradvājā māṇavā bhagavantaṁ etadavocuṁ: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Ete mayaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāma dhammañca bhikkhusaṅghañca. Upāsake no bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gate”ti. {#14}
 
 Vāseṭṭhasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.

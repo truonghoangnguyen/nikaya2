@@ -1,6 +1,6 @@
 # MN 147. Cūḷarāhulovādasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
 
 Atha kho bhagavato rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi: “paripakkā kho rāhulassa vimuttiparipācanīyā dhammā. Yannūnāhaṁ rāhulaṁ uttariṁ āsavānaṁ khaye vineyyan”ti.
 
@@ -10,7 +10,7 @@ Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto
 
 “Evaṁ, bhante”ti kho āyasmā rāhulo bhagavato paṭissutvā nisīdanaṁ ādāya bhagavantaṁ piṭṭhito piṭṭhito anubandhi.
 
-2\. Tena kho pana samayena anekāni devatāsahassāni bhagavantaṁ anubandhāni honti: “ajja bhagavā āyasmantaṁ rāhulaṁ uttariṁ āsavānaṁ khaye vinessatī”ti.
+2\. Tena kho pana samayena anekāni devatāsahassāni bhagavantaṁ anubandhāni honti: “ajja bhagavā āyasmantaṁ rāhulaṁ uttariṁ āsavānaṁ khaye vinessatī”ti. {#2}
 
 Atha kho bhagavā andhavanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle paññatte āsane nisīdi. Āyasmāpi kho rāhulo bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ rāhulaṁ bhagavā etadavoca:
 
@@ -26,7 +26,7 @@ Atha kho bhagavā andhavanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle pañ�
 
 “No hetaṁ, bhante”.
 
-3\. “Taṁ kiṁ maññasi, rāhula, rūpā niccā vā aniccā vā”ti?
+3\. “Taṁ kiṁ maññasi, rāhula, rūpā niccā vā aniccā vā”ti? {#3}
 
 “Aniccā, bhante”.
 
@@ -134,7 +134,7 @@ Atha kho bhagavā andhavanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle pañ�
 
 “No hetaṁ, bhante”.
 
-9\. “Evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhusmiṁ nibbindati, rūpesu nibbindati, cakkhuviññāṇe nibbindati, cakkhusamphasse nibbindati, yamidaṁ cakkhusamphassapaccayā uppajjati vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ tasmimpi nibbindati. Sotasmiṁ nibbindati, saddesu nibbindati …pe… ghānasmiṁ nibbindati, gandhesu nibbindati … jivhāya nibbindati, rasesu nibbindati … kāyasmiṁ nibbindati, phoṭṭhabbesu nibbindati … manasmiṁ nibbindati, dhammesu nibbindati, manoviññāṇe nibbindati, manosamphasse nibbindati, yamidaṁ manosamphassapaccayā uppajjati vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ tasmimpi nibbindati. Nibbindaṁ virajjati, virāgā vimuccati. Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
+9\. “Evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhusmiṁ nibbindati, rūpesu nibbindati, cakkhuviññāṇe nibbindati, cakkhusamphasse nibbindati, yamidaṁ cakkhusamphassapaccayā uppajjati vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ tasmimpi nibbindati. Sotasmiṁ nibbindati, saddesu nibbindati …pe… ghānasmiṁ nibbindati, gandhesu nibbindati … jivhāya nibbindati, rasesu nibbindati … kāyasmiṁ nibbindati, phoṭṭhabbesu nibbindati … manasmiṁ nibbindati, dhammesu nibbindati, manoviññāṇe nibbindati, manosamphasse nibbindati, yamidaṁ manosamphassapaccayā uppajjati vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ tasmimpi nibbindati. Nibbindaṁ virajjati, virāgā vimuccati. Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. {#9}
 
 ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.
 

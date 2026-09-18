@@ -1,10 +1,10 @@
 # MN 87. Piyajātikasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
 
-2\. Tena kho pana samayena aññatarassa gahapatissa ekaputtako piyo manāpo kālaṅkato hoti. Tassa kālaṅkiriyāya neva kammantā paṭibhanti na bhattaṁ paṭibhāti. So āḷāhanaṁ gantvā kandati: “kahaṁ, ekaputtaka, kahaṁ, ekaputtakā”ti.
+2\. Tena kho pana samayena aññatarassa gahapatissa ekaputtako piyo manāpo kālaṅkato hoti. Tassa kālaṅkiriyāya neva kammantā paṭibhanti na bhattaṁ paṭibhāti. So āḷāhanaṁ gantvā kandati: “kahaṁ, ekaputtaka, kahaṁ, ekaputtakā”ti. {#2}
 
-3\. Atha kho so gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ gahapatiṁ bhagavā etadavoca: “na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan”ti.
+3\. Atha kho so gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ gahapatiṁ bhagavā etadavoca: “na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan”ti. {#3}
 
 “Kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati; mayhañhi, bhante, ekaputto piyo manāpo kālaṅkato. Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti. Sohaṁ āḷāhanaṁ gantvā kandāmi: ‘kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’”ti.
 
@@ -12,25 +12,25 @@
 
 “Kassa kho nāmetaṁ, bhante, evaṁ bhavissati: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti? Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā”ti. Atha kho so gahapati bhagavato bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkāmi.
 
-4\. Tena kho pana samayena sambahulā akkhadhuttā bhagavato avidūre akkhehi dibbanti. Atha kho so gahapati yena te akkhadhuttā tenupasaṅkami; upasaṅkamitvā akkhadhutte etadavoca: “idhāhaṁ, bhonto, yena samaṇo gotamo tenupasaṅkamiṁ; upasaṅkamitvā samaṇaṁ gotamaṁ abhivādetvā ekamantaṁ nisīdiṁ. Ekamantaṁ nisinnaṁ kho maṁ, bhonto, samaṇo gotamo etadavoca: ‘na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan’ti. Evaṁ vutte, ahaṁ, bhonto, samaṇaṁ gotamaṁ etadavocaṁ: ‘kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati; mayhañhi, bhante, ekaputtako piyo manāpo kālaṅkato. Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti. Sohaṁ āḷāhanaṁ gantvā kandāmi—kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’ti. ‘Evametaṁ, gahapati, evametaṁ, gahapati. Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ‘Kassa kho nāmetaṁ, bhante, evaṁ bhavissati—piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā? Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā’ti. Atha khvāhaṁ, bhonto, samaṇassa gotamassa bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkamin”ti.
+4\. Tena kho pana samayena sambahulā akkhadhuttā bhagavato avidūre akkhehi dibbanti. Atha kho so gahapati yena te akkhadhuttā tenupasaṅkami; upasaṅkamitvā akkhadhutte etadavoca: “idhāhaṁ, bhonto, yena samaṇo gotamo tenupasaṅkamiṁ; upasaṅkamitvā samaṇaṁ gotamaṁ abhivādetvā ekamantaṁ nisīdiṁ. Ekamantaṁ nisinnaṁ kho maṁ, bhonto, samaṇo gotamo etadavoca: ‘na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan’ti. Evaṁ vutte, ahaṁ, bhonto, samaṇaṁ gotamaṁ etadavocaṁ: ‘kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati; mayhañhi, bhante, ekaputtako piyo manāpo kālaṅkato. Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti. Sohaṁ āḷāhanaṁ gantvā kandāmi—kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’ti. ‘Evametaṁ, gahapati, evametaṁ, gahapati. Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ‘Kassa kho nāmetaṁ, bhante, evaṁ bhavissati—piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā? Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā’ti. Atha khvāhaṁ, bhonto, samaṇassa gotamassa bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkamin”ti. {#4}
 
 “Evametaṁ, gahapati, evametaṁ, gahapati. Piyajātikā hi, gahapati, ānandasomanassā piyappabhavikā”ti.
 
 Atha kho so gahapati “sameti me akkhadhuttehī”ti pakkāmi.
 
-5\. Atha kho idaṁ kathāvatthu anupubbena rājantepuraṁ pāvisi. Atha kho rājā pasenadi kosalo mallikaṁ deviṁ āmantesi: “idaṁ te, mallike, samaṇena gotamena bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti.
+5\. Atha kho idaṁ kathāvatthu anupubbena rājantepuraṁ pāvisi. Atha kho rājā pasenadi kosalo mallikaṁ deviṁ āmantesi: “idaṁ te, mallike, samaṇena gotamena bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti. {#5}
 
 “Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ, evametan”ti.
 
 “Evameva panāyaṁ mallikā yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodati: ‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti. Seyyathāpi nāma, yaññadeva ācariyo antevāsissa bhāsati taṁ tadevassa antevāsī abbhanumodati: ‘evametaṁ, ācariya, evametaṁ, ācariyā’ti. Evameva kho tvaṁ, mallike, yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodasi: ‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti. Cara pire, mallike, vinassā”ti.
 
-6\. Atha kho mallikā devī nāḷijaṅghaṁ brāhmaṇaṁ āmantesi: “ehi tvaṁ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha: ‘mallikā, bhante, devī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti; evañca vadehi: ‘bhāsitā nu kho, bhante, bhagavatā esā vācā—piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. Yathā te bhagavā byākaroti taṁ sādhukaṁ uggahetvā mama āroceyyāsi. Na hi tathāgatā vitathaṁ bhaṇantī”ti.
+6\. Atha kho mallikā devī nāḷijaṅghaṁ brāhmaṇaṁ āmantesi: “ehi tvaṁ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha: ‘mallikā, bhante, devī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti; evañca vadehi: ‘bhāsitā nu kho, bhante, bhagavatā esā vācā—piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. Yathā te bhagavā byākaroti taṁ sādhukaṁ uggahetvā mama āroceyyāsi. Na hi tathāgatā vitathaṁ bhaṇantī”ti. {#6}
 
 “Evaṁ, bhotī”ti kho nāḷijaṅgho brāhmaṇo mallikāya deviyā paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho nāḷijaṅgho brāhmaṇo bhagavantaṁ etadavoca: “mallikā, bho gotama, devī bhoto gotamassa pāde sirasā vandati; appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati; evañca vadeti: ‘bhāsitā nu kho, bhante, bhagavatā esā vācā—piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti.
 
-7\. “Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa. Piyajātikā hi, brāhmaṇa, sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
+7\. “Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa. Piyajātikā hi, brāhmaṇa, sokaparidevadukkhadomanassupāyāsā piyappabhavikāti. {#7}
 
-8\. Tadamināpetaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā. Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā mātā kālamakāsi. Sā tassā kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti?
+8\. Tadamināpetaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā. Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā mātā kālamakāsi. Sā tassā kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti? {#8}
 
 9-14\. Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
 
@@ -42,11 +42,11 @@ Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa m�
 
 Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
 
-22\. Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarā itthī ñātikulaṁ agamāsi. Tassā te ñātakā sāmikaṁ acchinditvā aññassa dātukāmā. Sā ca taṁ na icchati. Atha kho sā itthī sāmikaṁ etadavoca: ‘ime, maṁ, ayyaputta, ñātakā tvaṁ acchinditvā aññassa dātukāmā. Ahañca taṁ na icchāmī’ti. Atha kho so puriso taṁ itthiṁ dvidhā chetvā attānaṁ upphālesi: ‘ubho pecca bhavissāmā’ti. Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti.
+22\. Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarā itthī ñātikulaṁ agamāsi. Tassā te ñātakā sāmikaṁ acchinditvā aññassa dātukāmā. Sā ca taṁ na icchati. Atha kho sā itthī sāmikaṁ etadavoca: ‘ime, maṁ, ayyaputta, ñātakā tvaṁ acchinditvā aññassa dātukāmā. Ahañca taṁ na icchāmī’ti. Atha kho so puriso taṁ itthiṁ dvidhā chetvā attānaṁ upphālesi: ‘ubho pecca bhavissāmā’ti. Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti. {#22}
 
-23\. Atha kho nāḷijaṅgho brāhmaṇo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā yena mallikā devī tenupasaṅkami; upasaṅkamitvā yāvatako ahosi bhagavatā saddhiṁ kathāsallāpo taṁ sabbaṁ mallikāya deviyā ārocesi. Atha kho mallikā devī yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rājānaṁ pasenadiṁ kosalaṁ etadavoca: “Taṁ kiṁ maññasi, mahārāja, piyā te vajirī kumārī”ti?
+23\. Atha kho nāḷijaṅgho brāhmaṇo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā yena mallikā devī tenupasaṅkami; upasaṅkamitvā yāvatako ahosi bhagavatā saddhiṁ kathāsallāpo taṁ sabbaṁ mallikāya deviyā ārocesi. Atha kho mallikā devī yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rājānaṁ pasenadiṁ kosalaṁ etadavoca: “Taṁ kiṁ maññasi, mahārāja, piyā te vajirī kumārī”ti? {#23}
 
-24\. “Evaṁ, mallike, piyā me vajirī kumārī”ti.
+24\. “Evaṁ, mallike, piyā me vajirī kumārī”ti. {#24}
 
 “Taṁ kiṁ maññasi, mahārāja, vajiriyā te kumāriyā vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
 
@@ -54,11 +54,11 @@ Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā s
 
 “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
 
-25\. Taṁ kiṁ maññasi, mahārāja, piyā te vāsabhā khattiyā”ti? “Evaṁ, mallike, piyā me vāsabhā khattiyā”ti. “Taṁ kiṁ maññasi, mahārāja, vāsabhāya te khattiyāya vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? “Vāsabhāya me, mallike, khattiyāya vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
+25\. Taṁ kiṁ maññasi, mahārāja, piyā te vāsabhā khattiyā”ti? “Evaṁ, mallike, piyā me vāsabhā khattiyā”ti. “Taṁ kiṁ maññasi, mahārāja, vāsabhāya te khattiyāya vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? “Vāsabhāya me, mallike, khattiyāya vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. {#25}
 
-26\. Taṁ kiṁ maññasi, mahārāja, piyo te viṭaṭūbho senāpatī”ti? “Evaṁ, mallike, piyo me viṭaṭūbho senāpatī”ti. “Taṁ kiṁ maññasi, mahārāja, viṭaṭūbhassa te senāpatissa vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? “Viṭaṭūbhassa me, mallike, senāpatissa vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
+26\. Taṁ kiṁ maññasi, mahārāja, piyo te viṭaṭūbho senāpatī”ti? “Evaṁ, mallike, piyo me viṭaṭūbho senāpatī”ti. “Taṁ kiṁ maññasi, mahārāja, viṭaṭūbhassa te senāpatissa vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? “Viṭaṭūbhassa me, mallike, senāpatissa vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. {#26}
 
-27\. Taṁ kiṁ maññasi, mahārāja, piyā te ahan”ti?
+27\. Taṁ kiṁ maññasi, mahārāja, piyā te ahan”ti? {#27}
 
 “Evaṁ, mallike, piyā mesi tvan”ti.
 
@@ -68,7 +68,7 @@ Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā s
 
 “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
 
-28\. Taṁ kiṁ maññasi, mahārāja, piyā te kāsikosalā”ti?
+28\. Taṁ kiṁ maññasi, mahārāja, piyā te kāsikosalā”ti? {#28}
 
 “Evaṁ, mallike, piyā me kāsikosalā. Kāsikosalānaṁ, mallike, ānubhāvena kāsikacandanaṁ paccanubhoma, mālāgandhavilepanaṁ dhāremā”ti.
 
@@ -78,7 +78,7 @@ Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā s
 
 “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti.
 
-29\. “Acchariyaṁ, mallike, abbhutaṁ, mallike. Yāvañca so bhagavā paññāya ativijjha maññe passati. Ehi, mallike, ācamehī”ti.
+29\. “Acchariyaṁ, mallike, abbhutaṁ, mallike. Yāvañca so bhagavā paññāya ativijjha maññe passati. Ehi, mallike, ācamehī”ti. {#29}
 
 Atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā tikkhattuṁ udānaṁ udānesi:
 

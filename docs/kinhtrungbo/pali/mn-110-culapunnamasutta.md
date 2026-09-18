@@ -1,10 +1,10 @@
 # MN 110. Cūḷapuṇṇamasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde. {#1}
 
-2\. Tena kho pana samayena bhagavā tadahuposathe pannarase puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti. Atha kho bhagavā tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi: “jāneyya nu kho, bhikkhave, asappuriso asappurisaṁ: ‘asappuriso ayaṁ bhavan’”ti?
+2\. Tena kho pana samayena bhagavā tadahuposathe pannarase puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti. Atha kho bhagavā tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi: “jāneyya nu kho, bhikkhave, asappuriso asappurisaṁ: ‘asappuriso ayaṁ bhavan’”ti? {#2}
 
-3\. “No hetaṁ, bhante”.
+3\. “No hetaṁ, bhante”. {#3}
 
 “Sādhu, bhikkhave; aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ asappuriso asappurisaṁ jāneyya: ‘asappuriso ayaṁ bhavan’ti. Jāneyya pana, bhikkhave, asappuriso sappurisaṁ: ‘sappuriso ayaṁ bhavan’”ti?
 
@@ -12,25 +12,25 @@
 
 “Sādhu, bhikkhave; etampi kho, bhikkhave, aṭṭhānaṁ anavakāso yaṁ asappuriso sappurisaṁ jāneyya: ‘sappuriso ayaṁ bhavan’ti. Asappuriso, bhikkhave, assaddhammasamannāgato hoti, asappurisabhatti hoti, asappurisacintī hoti, asappurisamantī hoti, asappurisavāco hoti, asappurisakammanto hoti, asappurisadiṭṭhi hoti; asappurisadānaṁ deti.
 
-5\. Kathañca, bhikkhave, asappuriso assaddhammasamannāgato hoti? Idha, bhikkhave, asappuriso assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. Evaṁ kho, bhikkhave, asappuriso assaddhammasamannāgato hoti.
+5\. Kathañca, bhikkhave, asappuriso assaddhammasamannāgato hoti? Idha, bhikkhave, asappuriso assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. Evaṁ kho, bhikkhave, asappuriso assaddhammasamannāgato hoti. {#5}
 
-6\. Kathañca, bhikkhave, asappuriso asappurisabhatti hoti? Idha, bhikkhave, asappurisassa ye te samaṇabrāhmaṇā assaddhā ahirikā anottappino appassutā kusītā muṭṭhassatino duppaññā tyāssa mittā honti te sahāyā. Evaṁ kho, bhikkhave, asappuriso asappurisabhatti hoti.
+6\. Kathañca, bhikkhave, asappuriso asappurisabhatti hoti? Idha, bhikkhave, asappurisassa ye te samaṇabrāhmaṇā assaddhā ahirikā anottappino appassutā kusītā muṭṭhassatino duppaññā tyāssa mittā honti te sahāyā. Evaṁ kho, bhikkhave, asappuriso asappurisabhatti hoti. {#6}
 
-7\. Kathañca, bhikkhave, asappuriso asappurisacintī hoti? Idha, bhikkhave, asappuriso attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti. Evaṁ kho, bhikkhave, asappuriso asappurisacintī hoti.
+7\. Kathañca, bhikkhave, asappuriso asappurisacintī hoti? Idha, bhikkhave, asappuriso attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti. Evaṁ kho, bhikkhave, asappuriso asappurisacintī hoti. {#7}
 
-8\. Kathañca, bhikkhave, asappuriso asappurisamantī hoti? Idha, bhikkhave, asappuriso attabyābādhāyapi manteti, parabyābādhāyapi manteti, ubhayabyābādhāyapi manteti. Evaṁ kho, bhikkhave, asappuriso asappurisamantī hoti.
+8\. Kathañca, bhikkhave, asappuriso asappurisamantī hoti? Idha, bhikkhave, asappuriso attabyābādhāyapi manteti, parabyābādhāyapi manteti, ubhayabyābādhāyapi manteti. Evaṁ kho, bhikkhave, asappuriso asappurisamantī hoti. {#8}
 
-9\. Kathañca, bhikkhave, asappuriso asappurisavāco hoti? Idha, bhikkhave, asappuriso musāvādī hoti, pisuṇavāco hoti, pharusavāco hoti, samphappalāpī hoti. Evaṁ kho, bhikkhave, asappuriso asappurisavāco hoti.
+9\. Kathañca, bhikkhave, asappuriso asappurisavāco hoti? Idha, bhikkhave, asappuriso musāvādī hoti, pisuṇavāco hoti, pharusavāco hoti, samphappalāpī hoti. Evaṁ kho, bhikkhave, asappuriso asappurisavāco hoti. {#9}
 
-10\. Kathañca, bhikkhave, asappuriso asappurisakammanto hoti? Idha, bhikkhave, asappuriso pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti. Evaṁ kho, bhikkhave, asappuriso asappurisakammanto hoti.
+10\. Kathañca, bhikkhave, asappuriso asappurisakammanto hoti? Idha, bhikkhave, asappuriso pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti. Evaṁ kho, bhikkhave, asappuriso asappurisakammanto hoti. {#10}
 
-11\. Kathañca, bhikkhave, asappuriso asappurisadiṭṭhi hoti? Idha, bhikkhave, asappuriso evaṁdiṭṭhi hoti: ‘natthi dinnaṁ, natthi yiṭṭhaṁ, natthi hutaṁ, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, natthi ayaṁ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā, ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti. Evaṁ kho, bhikkhave, asappuriso asappurisadiṭṭhi hoti.
+11\. Kathañca, bhikkhave, asappuriso asappurisadiṭṭhi hoti? Idha, bhikkhave, asappuriso evaṁdiṭṭhi hoti: ‘natthi dinnaṁ, natthi yiṭṭhaṁ, natthi hutaṁ, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, natthi ayaṁ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā, ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti. Evaṁ kho, bhikkhave, asappuriso asappurisadiṭṭhi hoti. {#11}
 
-12\. Kathañca, bhikkhave, asappuriso asappurisadānaṁ deti? Idha, bhikkhave, asappuriso asakkaccaṁ dānaṁ deti, asahatthā dānaṁ deti, acittīkatvā dānaṁ deti, apaviṭṭhaṁ dānaṁ deti anāgamanadiṭṭhiko dānaṁ deti. Evaṁ kho, bhikkhave, asappuriso asappurisadānaṁ deti.
+12\. Kathañca, bhikkhave, asappuriso asappurisadānaṁ deti? Idha, bhikkhave, asappuriso asakkaccaṁ dānaṁ deti, asahatthā dānaṁ deti, acittīkatvā dānaṁ deti, apaviṭṭhaṁ dānaṁ deti anāgamanadiṭṭhiko dānaṁ deti. Evaṁ kho, bhikkhave, asappuriso asappurisadānaṁ deti. {#12}
 
-13\. So, bhikkhave, asappuriso evaṁ assaddhammasamannāgato, evaṁ asappurisabhatti, evaṁ asappurisacintī, evaṁ asappurisamantī, evaṁ asappurisavāco, evaṁ asappurisakammanto, evaṁ asappurisadiṭṭhi; evaṁ asappurisadānaṁ datvā kāyassa bhedā paraṁ maraṇā yā asappurisānaṁ gati tattha upapajjati. Kā ca, bhikkhave, asappurisānaṁ gati? Nirayo vā tiracchānayoni vā.
+13\. So, bhikkhave, asappuriso evaṁ assaddhammasamannāgato, evaṁ asappurisabhatti, evaṁ asappurisacintī, evaṁ asappurisamantī, evaṁ asappurisavāco, evaṁ asappurisakammanto, evaṁ asappurisadiṭṭhi; evaṁ asappurisadānaṁ datvā kāyassa bhedā paraṁ maraṇā yā asappurisānaṁ gati tattha upapajjati. Kā ca, bhikkhave, asappurisānaṁ gati? Nirayo vā tiracchānayoni vā. {#13}
 
-14\. Jāneyya nu kho, bhikkhave, sappuriso sappurisaṁ: ‘sappuriso ayaṁ bhavan’”ti?
+14\. Jāneyya nu kho, bhikkhave, sappuriso sappurisaṁ: ‘sappuriso ayaṁ bhavan’”ti? {#14}
 
 “Evaṁ, bhante”.
 
@@ -38,33 +38,33 @@
 
 “Evaṁ, bhante”.
 
-15\. “Sādhu, bhikkhave; etampi kho, bhikkhave, ṭhānaṁ vijjati yaṁ sappuriso asappurisaṁ jāneyya: ‘asappuriso ayaṁ bhavan’ti. Sappuriso, bhikkhave, saddhammasamannāgato hoti, sappurisabhatti hoti, sappurisacintī hoti, sappurisamantī hoti, sappurisavāco hoti, sappurisakammanto hoti, sappurisadiṭṭhi hoti; sappurisadānaṁ deti.
+15\. “Sādhu, bhikkhave; etampi kho, bhikkhave, ṭhānaṁ vijjati yaṁ sappuriso asappurisaṁ jāneyya: ‘asappuriso ayaṁ bhavan’ti. Sappuriso, bhikkhave, saddhammasamannāgato hoti, sappurisabhatti hoti, sappurisacintī hoti, sappurisamantī hoti, sappurisavāco hoti, sappurisakammanto hoti, sappurisadiṭṭhi hoti; sappurisadānaṁ deti. {#15}
 
-16\. Kathañca, bhikkhave, sappuriso saddhammasamannāgato hoti? Idha, bhikkhave, sappuriso saddho hoti, hirimā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, upaṭṭhitassati hoti, paññavā hoti. Evaṁ kho, bhikkhave, sappuriso saddhammasamannāgato hoti.
+16\. Kathañca, bhikkhave, sappuriso saddhammasamannāgato hoti? Idha, bhikkhave, sappuriso saddho hoti, hirimā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, upaṭṭhitassati hoti, paññavā hoti. Evaṁ kho, bhikkhave, sappuriso saddhammasamannāgato hoti. {#16}
 
-17\. Kathañca, bhikkhave, sappuriso sappurisabhatti hoti? Idha, bhikkhave, sappurisassa ye te samaṇabrāhmaṇā saddhā hirimanto ottappino bahussutā āraddhavīriyā upaṭṭhitassatino paññavanto tyāssa mittā honti, te sahāyā. Evaṁ kho, bhikkhave, sappuriso sappurisabhatti hoti.
+17\. Kathañca, bhikkhave, sappuriso sappurisabhatti hoti? Idha, bhikkhave, sappurisassa ye te samaṇabrāhmaṇā saddhā hirimanto ottappino bahussutā āraddhavīriyā upaṭṭhitassatino paññavanto tyāssa mittā honti, te sahāyā. Evaṁ kho, bhikkhave, sappuriso sappurisabhatti hoti. {#17}
 
-18\. Kathañca, bhikkhave, sappuriso sappurisacintī hoti? Idha, bhikkhave, sappuriso nevattabyābādhāya ceteti, na parabyābādhāya ceteti, na ubhayabyābādhāya ceteti. Evaṁ kho, bhikkhave, sappuriso sappurisacintī hoti.
+18\. Kathañca, bhikkhave, sappuriso sappurisacintī hoti? Idha, bhikkhave, sappuriso nevattabyābādhāya ceteti, na parabyābādhāya ceteti, na ubhayabyābādhāya ceteti. Evaṁ kho, bhikkhave, sappuriso sappurisacintī hoti. {#18}
 
-19\. Kathañca, bhikkhave, sappuriso sappurisamantī hoti? Idha, bhikkhave, sappuriso nevattabyābādhāya manteti, na parabyābādhāya manteti, na ubhayabyābādhāya manteti. Evaṁ kho, bhikkhave, sappuriso sappurisamantī hoti.
+19\. Kathañca, bhikkhave, sappuriso sappurisamantī hoti? Idha, bhikkhave, sappuriso nevattabyābādhāya manteti, na parabyābādhāya manteti, na ubhayabyābādhāya manteti. Evaṁ kho, bhikkhave, sappuriso sappurisamantī hoti. {#19}
 
-20\. Kathañca, bhikkhave, sappuriso sappurisavāco hoti? Idha, bhikkhave, sappuriso musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti. Evaṁ kho, bhikkhave, sappuriso sappurisavāco hoti.
+20\. Kathañca, bhikkhave, sappuriso sappurisavāco hoti? Idha, bhikkhave, sappuriso musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti. Evaṁ kho, bhikkhave, sappuriso sappurisavāco hoti. {#20}
 
-21\. Kathañca, bhikkhave, sappuriso sappurisakammanto hoti? Idha, bhikkhave, sappuriso pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti. Evaṁ kho, bhikkhave, sappuriso sappurisakammanto hoti.
+21\. Kathañca, bhikkhave, sappuriso sappurisakammanto hoti? Idha, bhikkhave, sappuriso pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti. Evaṁ kho, bhikkhave, sappuriso sappurisakammanto hoti. {#21}
 
-22\. Kathañca, bhikkhave, sappuriso sappurisadiṭṭhi hoti? Idha, bhikkhave, sappuriso evaṁdiṭṭhi hoti: ‘atthi dinnaṁ, atthi yiṭṭhaṁ, atthi hutaṁ, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, atthi ayaṁ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti. Evaṁ kho, bhikkhave, sappuriso sappurisadiṭṭhi hoti.
+22\. Kathañca, bhikkhave, sappuriso sappurisadiṭṭhi hoti? Idha, bhikkhave, sappuriso evaṁdiṭṭhi hoti: ‘atthi dinnaṁ, atthi yiṭṭhaṁ, atthi hutaṁ, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, atthi ayaṁ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti. Evaṁ kho, bhikkhave, sappuriso sappurisadiṭṭhi hoti. {#22}
 
-23\. Kathañca, bhikkhave, sappuriso sappurisadānaṁ deti? Idha, bhikkhave, sappuriso sakkaccaṁ dānaṁ deti, sahatthā dānaṁ deti, cittīkatvā dānaṁ deti, anapaviṭṭhaṁ dānaṁ deti, āgamanadiṭṭhiko dānaṁ deti. Evaṁ kho, bhikkhave, sappuriso sappurisadānaṁ deti.
+23\. Kathañca, bhikkhave, sappuriso sappurisadānaṁ deti? Idha, bhikkhave, sappuriso sakkaccaṁ dānaṁ deti, sahatthā dānaṁ deti, cittīkatvā dānaṁ deti, anapaviṭṭhaṁ dānaṁ deti, āgamanadiṭṭhiko dānaṁ deti. Evaṁ kho, bhikkhave, sappuriso sappurisadānaṁ deti. {#23}
 
-24\. So, bhikkhave, sappuriso evaṁ saddhammasamannāgato, evaṁ sappurisabhatti, evaṁ sappurisacintī, evaṁ sappurisamantī, evaṁ sappurisavāco, evaṁ sappurisakammanto, evaṁ sappurisadiṭṭhi; evaṁ sappurisadānaṁ datvā kāyassa bhedā paraṁ maraṇā yā sappurisānaṁ gati tattha upapajjati. Kā ca, bhikkhave, sappurisānaṁ gati? Devamahattatā vā manussamahattatā vā”ti.
+24\. So, bhikkhave, sappuriso evaṁ saddhammasamannāgato, evaṁ sappurisabhatti, evaṁ sappurisacintī, evaṁ sappurisamantī, evaṁ sappurisavāco, evaṁ sappurisakammanto, evaṁ sappurisadiṭṭhi; evaṁ sappurisadānaṁ datvā kāyassa bhedā paraṁ maraṇā yā sappurisānaṁ gati tattha upapajjati. Kā ca, bhikkhave, sappurisānaṁ gati? Devamahattatā vā manussamahattatā vā”ti. {#24}
 
-25\. Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+25\. Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti. {#25}
 
 Cūḷapuṇṇamasuttaṁ niṭṭhitaṁ dasamaṁ.
 
 Devadahavaggo niṭṭhito paṭhamo.
 
-26\. Tassuddānaṁ
+26\. Tassuddānaṁ {#26}
 
 > Devadahaṁ pañcattayaṁ,\
 > Kinti sāma sunakkhattaṁ;\
