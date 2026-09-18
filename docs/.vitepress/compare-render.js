@@ -8,7 +8,7 @@ import path from 'node:path';
 import MarkdownIt from 'markdown-it';
 import anchor from 'markdown-it-anchor';
 import markdownItAttrs from 'markdown-it-attrs';
-import { slugAnchor } from './utils.js';
+import { slugAnchor, idAnchorFix } from './utils.js';
 
 const mdOptions = { html: true, linkify: true, typographer: true };
 const anchorOptions = {
@@ -16,7 +16,7 @@ const anchorOptions = {
   slugify: (s) => slugAnchor(s),
 };
 
-const mdLeft = new MarkdownIt(mdOptions).use(anchor, anchorOptions).use(markdownItAttrs);
+const mdLeft = new MarkdownIt(mdOptions).use(idAnchorFix).use(anchor, anchorOptions).use(markdownItAttrs);
 const mdRight = new MarkdownIt(mdOptions).use(anchor, anchorOptions).use(markdownItAttrs);
 
 async function readAndRender(relativePath, mdInstance) {

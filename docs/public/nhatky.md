@@ -104,3 +104,6 @@ SN 22.48
 Thêm sách Phật Giáo, Giáo lý và tông Phái của Schumann. Việc dịch kinh rất mệt và dễ bị trở nên đơn điệu, tôi vô tình phát hiện ra trong lúc dịch mình dịch thêm những sách khác rồi quay lại việc đọc kinh sẽ có chiều sâu hơn.
 
 Thêm cờ flat cho quicklink (trường hợp kinh thag, thig)
+
+### date 2026-09-18
+Thêm anchor vào kinh trung bộ `{#1}`, việc link tham khảo đến kinh và tìm đến đoạn nào đó rất dài và khó khăn. Nên tốt hơn thêm từng anchor vào eg `MN 33.21`

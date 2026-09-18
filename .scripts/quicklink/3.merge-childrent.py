@@ -1,6 +1,7 @@
 import re
 from pathlib import Path
 import json
+from util import flat_json
 
 def load_js_export(path):
     text = Path(path).read_text(encoding="utf-8")
@@ -33,24 +34,20 @@ def merge_files(file1, file2, output_file):
         merged[book_id] = {
             "title": book1["title"],
             "slug": book1["slug"],
-            "children": book2.get("children", {})
+            "children": book2.get("children", [])
         }
 
     # Xuất lại thành JS
-    output = "export default " + json.dumps(
-        merged,
-        ensure_ascii=False,
-        indent=2
-    )
+    output = "export default " + flat_json(merged)
 
     # Đổi quote Python thành quote JS đẹp hơn
     output = output.replace("'", '"')
 
     Path(output_file).write_text(output + "\n", encoding="utf-8")
 
-f1='an-index-tmc.json'
-f2='an-index.json'
-f3='../../docs/.vitepress/data/link-an-sujato-tmc.js'
+f1='merge-head.txt'
+f2='merge-child.txt'
+f3='merge-out.txt'
 if __name__ == "__main__":
     merge_files(
         f1,
