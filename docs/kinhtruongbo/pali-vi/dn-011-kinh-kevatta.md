@@ -85,7 +85,7 @@ Rồi này Kevaṭṭa, tỳ kheo ấy—giống như một người lực lư�
 
 <!--pg-->
 ### 4.1. Ví dụ về con chim tìm bờ (Tīradassisakuṇupamā){#4.1}
-Được nói vậy, này Kevaṭṭa, Ta bảo tỳ kheo ấy điều này—
+85\. Được nói vậy, này Kevaṭṭa, Ta bảo tỳ kheo ấy điều này:
 
 'Thuở xưa, này tỳ kheo, những thương nhân đi biển mang theo một con chim biết tìm bờ và lên thuyền đi ra đại dương. Khi con thuyền không còn nhìn thấy bờ, họ thả con chim biết tìm bờ ra. Nó bay về hướng đông, bay về hướng nam, bay về hướng tây, bay về hướng bắc, bay lên trên, bay về các hướng phụ. Nếu nó nhìn thấy bờ ở xung quanh, nó sẽ bay đến đó. Nhưng nếu nó không nhìn thấy bờ ở xung quanh, nó sẽ quay trở lại chính con thuyền đó.
 

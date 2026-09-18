@@ -25,7 +25,7 @@
     "glob": "^13.0.6",
     "markdown-it-footnote": "^4.0.0",
     "vitepress": "^1.6.4",
-    "vue": "^3.5.42"
+    "vue": "^3.5.43"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [

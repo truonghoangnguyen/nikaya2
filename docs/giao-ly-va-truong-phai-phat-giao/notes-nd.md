@@ -24,11 +24,42 @@ PS: Điều này làm tôi nhớ đến phép thử Howey test để xác địn
 2. Vào một doanh nghiệp chung;
 3. Với kỳ vọng hợp lý về lợi nhuận;
 4. Lợi nhuận đó chủ yếu đến từ nỗ lực của người khác.
-Nếu thiếu bất kỳ yếu tố nào, giao dịch đó không được xem là "hợp đồng đầu tư".
+
+Nếu thiếu bất kỳ yếu tố nào, giao dịch đó không được xem là "hợp đồng đầu tư" (Lưu ý, sự kỳ lạ với tôi là tại sao quốc gia lớn như Mỹ, người ta không dùng định nghĩa để xác định "hợp đồng đầu tư", mà lại dùng phép thử ).
 
 Phép thử "là ngã" của Phật:
 1. không bị biến đổi
 2. tự nó có thể quyết định trạng thái của nó
+
 Nếu thiếu bất kỳ yếu tố nào, thì cái đó không được xem là ngã.
+
+[^ND-4]: Có 2 từ pali đều dịch là duyên: 
+
+1. paccaya(điều kiện/condition). 
+Ví dụ: "hetu yo ca paccayo -> đâu là nhân đâu là duyên [để làm điều đó sinh ra] -> đâu là gốc của nguyên nhân và điều kiện môi trường [để làm điều đó sinh ra]".
+
+2. paṭicca(sự phụ thuộc/dependent), 
+Ví dụ: từ paṭiccasamuppāda -> duyên khởi -> Vì có A nên B sinh ra (và nếu không có A thì không có B). Đây là một mối quan hệ chặt chẽ kiểu điều kiện "cần và đủ" trong toán học, Ví dụ về mối quan hệ 'cần nhưng không đủ': Vì có A nên có B, không có A nhưng có X nên có B. Xem thêm  [MN 38](/link?q=MN-38)
+
+Tác giả ở đây dịch paṭiccasamuppāda = 'sự phát sinh có điều kiện' (duyên khởi). Theo chúng tôi hiểu paṭiccasamuppāda nghĩa là 'Vì có A nên B chắc chắn sẽ sinh ra, nếu không có A thì không có B, và không thứ gì khác sinh ra B'. Nên chúng tôi đã chọn dịch là paṭiccasamuppāda = 'sự sinh ra do quan hệ phụ thuộc'. Lúc đầu chúng tôi định dịch là 'cùng sinh, cùng diệt' nhưng khi đi vào lời văn thì thấy hơi khó khăn.
+
+[^5]: Khác với tác giả, theo chúng tôi, 12 Nhân duyên mô tả một chuỗi luân hồi từ quá khứ - hiện tại - tương lai. 5 Uẩn mô tả cấu thành của 1 người ở hiện tại và 5 Uẩn chia làm 2 loại là 1) danh (thọ, tưởng, hành, thưc) và 2) sắc (sắc). 5 Uẩn chính là hình chụp tại một thời điểm của chuỗi đời sống 1 người dài từ vô thủy. Xem thêm [SN-12/2](/link?q=SN-12.2)
+
+[Quá khứ]\
+1\. vô minh (nên sinh ra) hành;\
+2\. hành (nên sinh ra) thức;\
+3\. thức: danh và sắc;
+
+[Hiện tại]\
+4. danh và sắc: lục nhập; << [5 Uẩn hiện tại ở đây]\
+5. lục nhập: xúc (sự tiếp xúc);\
+6. xúc: thọ (cảm giác);\
+7. thọ: ái (sự khao khát);\
+8. thủ (sự bám víu);\
+9. hữu (sự trở thành);
+
+[Tương lai]\
+10. hữu: sinh (sự tái sinh);\
+11. tái sinh sinh già chết (12)
 
 

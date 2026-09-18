@@ -1051,12 +1051,12 @@ Một thánh đệ tử hiểu được thế giới, nguồn gốc, sự đoạ
 <!--pg-->
 ## Chương về Khổ
 
-### SN 12.51 Một Cuộc Điều Tra *Parivīmaṁsanasutta* {#51}
+### SN 12.51 Sự Tìm hiểu *Parivīmaṁsanasutta* {#51}
 Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Xá-vệ, tại Tịnh xá Kỳ-viên của ông Cấp Cô Độc. Tại đó, Đức Phật gọi các Tỷ kheo: "Này các Tỷ kheo!"
 
 "Bạch Thế Tôn," họ đáp lời. Đức Phật nói điều này:
 
-"Này các Tỷ kheo, khi một Tỷ kheo đang điều tra, các ngươi định nghĩa như thế nào khi họ đang điều tra để chấm dứt hoàn toàn khổ đau?"
+"Này các Tỷ kheo, khi một Tỷ kheo đang tìm hiểu, các ngươi định nghĩa như thế nào khi họ đang tìm hiểu để chấm dứt hoàn toàn khổ đau?"
 
 "Giáo pháp của chúng con bắt nguồn từ Đức Phật. Ngài là người dẫn đường và là nơi nương tựa của chúng con. Bạch Thế Tôn, xin Đức Phật hãy làm sáng tỏ ý nghĩa của điều này. Các Tỷ kheo sẽ lắng nghe và ghi nhớ."
 
@@ -1064,15 +1064,15 @@ Như vầy tôi nghe. Một thời Đức Phật đang ở gần thành Xá-vệ
 
 "Vâng, bạch Thế Tôn," họ đáp lời. Đức Phật nói điều này:
 
-"Này các Tỷ kheo, hãy lấy một Tỷ kheo đang điều tra: 'Khổ đau phát sinh trên thế gian bắt đầu từ lão tử có nhiều hình thức đa dạng. Nguồn gốc, khởi điểm, nơi sinh, và sự bắt đầu của khổ đau này là gì? Khi cái gì tồn tại thì lão tử sinh khởi? Khi cái gì không tồn tại thì lão tử không sinh khởi?' Trong khi điều tra, họ hiểu: 'Khổ đau phát sinh trên thế gian bắt đầu từ lão tử có nhiều hình thức đa dạng. Nguồn gốc của khổ đau này là sinh. Khi sinh tồn tại, lão tử sinh khởi. Khi sinh không tồn tại, lão tử không sinh khởi.'
+"Này các Tỷ kheo, hãy lấy một Tỷ kheo đang tìm hiểu: 'Khổ đau phát sinh trên thế gian bắt đầu từ lão tử có nhiều hình thức đa dạng. Nguồn gốc, khởi điểm, nơi sinh, và sự bắt đầu của khổ đau này là gì? Khi cái gì tồn tại thì lão tử sinh khởi? Khi cái gì không tồn tại thì lão tử không sinh khởi?' Trong khi tìm hiểu, họ hiểu: 'Khổ đau phát sinh trên thế gian bắt đầu từ lão tử có nhiều hình thức đa dạng. Nguồn gốc của khổ đau này là sinh. Khi sinh tồn tại, lão tử sinh khởi. Khi sinh không tồn tại, lão tử không sinh khởi.'
 
 Họ hiểu về lão tử, nguồn gốc, sự đoạn diệt, và con đường phù hợp để đoạn diệt nó. Và họ thực hành theo con đường đó. Đây được gọi là một Tỷ kheo đang thực hành để chấm dứt hoàn toàn khổ đau, để đoạn diệt lão tử.
 
-Rồi họ điều tra thêm: 'Nhưng nguồn gốc của sinh này là gì? Khi cái gì tồn tại thì sinh sinh khởi? Và khi cái gì không tồn tại thì sinh không sinh khởi?' Trong khi điều tra, họ hiểu: 'Hữu là nguồn gốc của sinh. Khi hữu tồn tại, sinh sinh khởi. Khi hữu không tồn tại, sinh không sinh khởi.'
+Rồi họ tìm hiểu thêm: 'Nhưng nguồn gốc của sinh này là gì? Khi cái gì tồn tại thì sinh sinh khởi? Và khi cái gì không tồn tại thì sinh không sinh khởi?' Trong khi tìm hiểu, họ hiểu: 'Hữu là nguồn gốc của sinh. Khi hữu tồn tại, sinh sinh khởi. Khi hữu không tồn tại, sinh không sinh khởi.'
 
 Họ hiểu về sinh, nguồn gốc, sự đoạn diệt, và con đường phù hợp để đoạn diệt nó. Và họ thực hành theo con đường đó. Đây được gọi là một Tỷ kheo đang thực hành để chấm dứt hoàn toàn khổ đau, để đoạn diệt sinh.
 
-Rồi họ điều tra thêm: 'Nhưng nguồn gốc của hữu này là gì? ...' ... 'Nhưng nguồn gốc của thủ này là gì? ...' ... 'Nhưng nguồn gốc của ái này là gì? ...' ... 'Nhưng nguồn gốc của thọ này là gì? ...' ... 'Nhưng nguồn gốc của xúc này là gì? ...' ... 'Nhưng nguồn gốc của lục nhập này là gì? ...' ... 'Nhưng nguồn gốc của danh sắc này là gì? ...' ... 'Nhưng nguồn gốc của thức này là gì? ...' ... 'Nhưng nguồn gốc của các hành này là gì? Khi cái gì tồn tại thì hành sinh khởi? Khi cái gì không tồn tại thì hành không sinh khởi?' Trong khi điều tra, họ hiểu: 'Vô minh là nguồn gốc của hành. Khi vô minh tồn tại, hành sinh khởi. Khi vô minh không tồn tại, hành không sinh khởi.'
+Rồi họ tìm hiểu thêm: 'Nhưng nguồn gốc của hữu này là gì? ...' ... 'Nhưng nguồn gốc của thủ này là gì? ...' ... 'Nhưng nguồn gốc của ái này là gì? ...' ... 'Nhưng nguồn gốc của thọ này là gì? ...' ... 'Nhưng nguồn gốc của xúc này là gì? ...' ... 'Nhưng nguồn gốc của lục nhập này là gì? ...' ... 'Nhưng nguồn gốc của danh sắc này là gì? ...' ... 'Nhưng nguồn gốc của thức này là gì? ...' ... 'Nhưng nguồn gốc của các hành này là gì? Khi cái gì tồn tại thì hành sinh khởi? Khi cái gì không tồn tại thì hành không sinh khởi?' Trong khi tìm hiểu, họ hiểu: 'Vô minh là nguồn gốc của hành. Khi vô minh tồn tại, hành sinh khởi. Khi vô minh không tồn tại, hành không sinh khởi.'
 
 Họ hiểu về hành, nguồn gốc, sự đoạn diệt, và con đường phù hợp để đoạn diệt nó. Và họ thực hành theo con đường đó. Đây được gọi là một Tỷ kheo đang thực hành để chấm dứt hoàn toàn khổ đau, để đoạn diệt hành.
 

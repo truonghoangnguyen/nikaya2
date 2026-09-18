@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import footnote from 'markdown-it-footnote';
+import { attrs } from "@mdit/plugin-attrs";
 // import markdownItKatex from 'markdown-it-katex';
 import { slugAnchor } from './utils';
 
@@ -354,8 +355,25 @@ export default defineConfig({
     config: (md) => {
       // Add the footnote plugin
       md.use(footnote);
-      // md.use(markdownItKatex);
-      // Any other markdown-it plugins you're using
+      //md.use(attrs);
+
+      // các quicklink /link?q=acb sẽ mở sang tab mới
+      const defaultRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options)
+      }
+
+      md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
+        const token = tokens[idx]
+        const href = token.attrGet('href')
+
+        if (href && href.startsWith('/link')) {
+          token.attrSet('target', 'blank')
+          token.attrSet('rel', 'noopener')  
+          // KHÔNG set rel="noreferrer" / rel="noopener"
+        }
+        return defaultRender(tokens, idx, options, env, self)
+      }
+      //
     }
   },
   srcExclude: [
