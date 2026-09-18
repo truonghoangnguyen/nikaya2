@@ -1,12 +1,12 @@
 # MN 15. Anumānasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā mahāmoggallāno bhaggesu viharati susumāragire bhesakaḷāvane migadāye. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi: “āvuso bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā mahāmoggallāno bhaggesu viharati susumāragire bhesakaḷāvane migadāye. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi: “āvuso bhikkhavo”ti. {#1}
 
 “Āvuso”ti kho te bhikkhū āyasmato mahāmoggallānassa paccassosuṁ. Āyasmā mahāmoggallāno etadavoca:
 
-2\. “Pavāreti cepi, āvuso, bhikkhu: ‘vadantu maṁ āyasmanto, vacanīyomhi āyasmantehī’ti, so ca hoti dubbaco, dovacassakaraṇehi dhammehi samannāgato, akkhamo appadakkhiṇaggāhī anusāsaniṁ, atha kho naṁ sabrahmacārī na ceva vattabbaṁ maññanti, na ca anusāsitabbaṁ maññanti, na ca tasmiṁ puggale vissāsaṁ āpajjitabbaṁ maññanti.
+2\. “Pavāreti cepi, āvuso, bhikkhu: ‘vadantu maṁ āyasmanto, vacanīyomhi āyasmantehī’ti, so ca hoti dubbaco, dovacassakaraṇehi dhammehi samannāgato, akkhamo appadakkhiṇaggāhī anusāsaniṁ, atha kho naṁ sabrahmacārī na ceva vattabbaṁ maññanti, na ca anusāsitabbaṁ maññanti, na ca tasmiṁ puggale vissāsaṁ āpajjitabbaṁ maññanti. {#2}
 
-3\. Katame cāvuso, dovacassakaraṇā dhammā? Idhāvuso, bhikkhu pāpiccho hoti, pāpikānaṁ icchānaṁ vasaṁ gato. Yaṁpāvuso, bhikkhu pāpiccho hoti, pāpikānaṁ icchānaṁ vasaṁ gato—ayampi dhammo dovacassakaraṇo.
+3\. Katame cāvuso, dovacassakaraṇā dhammā? Idhāvuso, bhikkhu pāpiccho hoti, pāpikānaṁ icchānaṁ vasaṁ gato. Yaṁpāvuso, bhikkhu pāpiccho hoti, pāpikānaṁ icchānaṁ vasaṁ gato—ayampi dhammo dovacassakaraṇo. {#3}
 
 Puna caparaṁ, āvuso, bhikkhu attukkaṁsako hoti paravambhī. Yaṁpāvuso, bhikkhu attukkaṁsako hoti paravambhī—ayampi dhammo dovacassakaraṇo.
 
@@ -40,9 +40,9 @@ Puna caparaṁ, āvuso, bhikkhu sandiṭṭhiparāmāsī hoti ādhānaggāhī du
 
 Ime vuccantāvuso, dovacassakaraṇā dhammā.
 
-4\. No cepi, āvuso, bhikkhu pavāreti: ‘vadantu maṁ āyasmanto, vacanīyomhi āyasmantehī’ti, so ca hoti suvaco, sovacassakaraṇehi dhammehi samannāgato, khamo padakkhiṇaggāhī anusāsaniṁ, atha kho naṁ sabrahmacārī vattabbañceva maññanti, anusāsitabbañca maññanti, tasmiñca puggale vissāsaṁ āpajjitabbaṁ maññanti.
+4\. No cepi, āvuso, bhikkhu pavāreti: ‘vadantu maṁ āyasmanto, vacanīyomhi āyasmantehī’ti, so ca hoti suvaco, sovacassakaraṇehi dhammehi samannāgato, khamo padakkhiṇaggāhī anusāsaniṁ, atha kho naṁ sabrahmacārī vattabbañceva maññanti, anusāsitabbañca maññanti, tasmiñca puggale vissāsaṁ āpajjitabbaṁ maññanti. {#4}
 
-5\. Katame cāvuso, sovacassakaraṇā dhammā? Idhāvuso, bhikkhu na pāpiccho hoti, na pāpikānaṁ icchānaṁ vasaṁ gato. Yaṁpāvuso, bhikkhu na pāpiccho hoti na pāpikānaṁ icchānaṁ vasaṁ gato—ayampi dhammo sovacassakaraṇo.
+5\. Katame cāvuso, sovacassakaraṇā dhammā? Idhāvuso, bhikkhu na pāpiccho hoti, na pāpikānaṁ icchānaṁ vasaṁ gato. Yaṁpāvuso, bhikkhu na pāpiccho hoti na pāpikānaṁ icchānaṁ vasaṁ gato—ayampi dhammo sovacassakaraṇo. {#5}
 
 Puna caparaṁ, āvuso, bhikkhu anattukkaṁsako hoti aparavambhī. Yaṁpāvuso, bhikkhu anattukkaṁsako hoti aparavambhī—ayampi dhammo sovacassakaraṇo.
 
@@ -76,7 +76,7 @@ Puna caparaṁ, āvuso, bhikkhu asandiṭṭhiparāmāsī hoti anādhānaggāhī
 
 Ime vuccantāvuso, sovacassakaraṇā dhammā.
 
-6\. Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: ‘yo khvāyaṁ puggalo pāpiccho, pāpikānaṁ icchānaṁ vasaṁ gato, ayaṁ me puggalo appiyo amanāpo; ahañceva kho panassaṁ pāpiccho pāpikānaṁ icchānaṁ vasaṁ gato, ahampāssaṁ paresaṁ appiyo amanāpo’ti. Evaṁ jānantenāvuso, bhikkhunā ‘na pāpiccho bhavissāmi, na pāpikānaṁ icchānaṁ vasaṁ gato’ti cittaṁ uppādetabbaṁ.
+6\. Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ anuminitabbaṁ: ‘yo khvāyaṁ puggalo pāpiccho, pāpikānaṁ icchānaṁ vasaṁ gato, ayaṁ me puggalo appiyo amanāpo; ahañceva kho panassaṁ pāpiccho pāpikānaṁ icchānaṁ vasaṁ gato, ahampāssaṁ paresaṁ appiyo amanāpo’ti. Evaṁ jānantenāvuso, bhikkhunā ‘na pāpiccho bhavissāmi, na pāpikānaṁ icchānaṁ vasaṁ gato’ti cittaṁ uppādetabbaṁ. {#6}
 
 ‘Yo khvāyaṁ puggalo attukkaṁsako paravambhī, ayaṁ me puggalo appiyo amanāpo; ahañceva kho panassaṁ attukkaṁsako paravambhī, ahampāssaṁ paresaṁ appiyo amanāpo’ti. Evaṁ jānantenāvuso, bhikkhunā ‘anattukkaṁsako bhavissāmi aparavambhī’ti cittaṁ uppādetabbaṁ.
 
@@ -108,7 +108,7 @@ Ime vuccantāvuso, sovacassakaraṇā dhammā.
 
 ‘Yo khvāyaṁ puggalo sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī, ayaṁ me puggalo appiyo amanāpo; ahañceva kho panassaṁ sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī, ahampāssaṁ paresaṁ appiyo amanāpo’ti. Evaṁ jānantenāvuso, bhikkhunā ‘asandiṭṭhiparāmāsī bhavissāmi anādhānaggāhī suppaṭinissaggī’ti cittaṁ uppādetabbaṁ.
 
-7\. Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ: ‘kiṁ nu khomhi pāpiccho, pāpikānaṁ icchānaṁ vasaṁ gato’ti? Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘pāpiccho khomhi, pāpikānaṁ icchānaṁ vasaṁ gato’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ. Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘na khomhi pāpiccho, na pāpikānaṁ icchānaṁ vasaṁ gato’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu.
+7\. Tatrāvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ: ‘kiṁ nu khomhi pāpiccho, pāpikānaṁ icchānaṁ vasaṁ gato’ti? Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘pāpiccho khomhi, pāpikānaṁ icchānaṁ vasaṁ gato’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ. Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘na khomhi pāpiccho, na pāpikānaṁ icchānaṁ vasaṁ gato’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu. {#7}
 
 Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ: ‘kiṁ nu khomhi attukkaṁsako paravambhī’ti? Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘attukkaṁsako khomhi paravambhī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ. Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘anattukkaṁsako khomhi aparavambhī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu.
 
@@ -140,7 +140,7 @@ Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabba�
 
 Puna caparaṁ, āvuso, bhikkhunā attanāva attānaṁ evaṁ paccavekkhitabbaṁ: ‘kiṁ nu khomhi sandiṭṭhiparāmāsī ādhānaggāhī duppaṭinissaggī’ti? Sace, āvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘sandiṭṭhiparāmāsī khomhi ādhānaggāhī duppaṭinissaggī’ti, tenāvuso, bhikkhunā tesaṁyeva pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ. Sace panāvuso, bhikkhu paccavekkhamāno evaṁ jānāti: ‘asandiṭṭhiparāmāsī khomhi anādhānaggāhī suppaṭinissaggī’ti, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ ahorattānusikkhinā kusalesu dhammesu.
 
-8\. Sace, āvuso, bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme appahīne attani samanupassati, tenāvuso, bhikkhunā sabbesaṁyeva imesaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ. Sace panāvuso, bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme pahīne attani samanupassati, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ, ahorattānusikkhinā kusalesu dhammesu.
+8\. Sace, āvuso, bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme appahīne attani samanupassati, tenāvuso, bhikkhunā sabbesaṁyeva imesaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya vāyamitabbaṁ. Sace panāvuso, bhikkhu paccavekkhamāno sabbepime pāpake akusale dhamme pahīne attani samanupassati, tenāvuso, bhikkhunā teneva pītipāmojjena vihātabbaṁ, ahorattānusikkhinā kusalesu dhammesu. {#8}
 
 Seyyathāpi, āvuso, itthī vā puriso vā, daharo yuvā maṇḍanajātiko, ādāse vā parisuddhe pariyodāte, acche vā udakapatte, sakaṁ mukhanimittaṁ paccavekkhamāno, sace tattha passati rajaṁ vā aṅgaṇaṁ vā, tasseva rajassa vā aṅgaṇassa vā pahānāya vāyamati; no ce tattha passati rajaṁ vā aṅgaṇaṁ vā, teneva attamano hoti: ‘lābhā vata me, parisuddhaṁ vata me’ti.
 

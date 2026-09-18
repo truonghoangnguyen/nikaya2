@@ -2,11 +2,11 @@
 *(Vammikasutta)*
 [Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-023){class="note-link"}
 
-1\. Tôi đã nghe như vầy—một thời Thế Tôn trú ở Sāvatthi, tại rừng Jetavana, trong tu viện của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Kumārakassapa đang trú ở khu rừng Andhavana.
+1\. Tôi đã nghe như vầy—một thời Thế Tôn trú ở Sāvatthi, tại rừng Jetavana, trong tu viện của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Kumārakassapa đang trú ở khu rừng Andhavana. {#1}
 
 Khi ấy, một vị chư thiên với nhan sắc tuyệt đẹp, khi đêm đã về khuya, chiếu sáng toàn bộ khu rừng Andhavana, đi đến chỗ Tôn giả Kumārakassapa; sau khi đến, vị ấy đứng sang một bên. Đứng sang một bên, vị chư thiên ấy nói với Tôn giả Kumārakassapa điều này:
 
-2\. "Này tỳ kheo, này tỳ kheo, cái gò mối này ban đêm bốc khói, ban ngày bốc cháy. Vị Bà-la-môn nói như sau: 'Này *người có trí* (sumedha), hãy cầm lấy con dao và đào xới'.
+2\. "Này tỳ kheo, này tỳ kheo, cái gò mối này ban đêm bốc khói, ban ngày bốc cháy. Vị Bà-la-môn nói như sau: 'Này *người có trí* (sumedha), hãy cầm lấy con dao và đào xới'. {#2}
 
 *Người có trí* cầm lấy con dao và đào xới, thấy một cái then cửa. [Người ấy nói:] 'Thưa ngài, một cái then cửa'. Vị Bà-la-môn nói như sau: 'Hãy vứt bỏ cái then cửa; này *người có trí*, hãy cầm lấy con dao và đào xới'.
 
@@ -29,11 +29,11 @@ Này tỳ kheo, ông hãy đi đến Thế Tôn để hỏi những câu hỏi n
 Vị chư thiên đã nói điều này. Nói xong, vị ấy biến mất ngay tại chỗ.
 
 <!--pg-->
-3\. Rồi Tôn giả Kumārakassapa, khi đêm đã qua, đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Kumārakassapa bạch Thế Tôn điều này: "Bạch Thế Tôn, đêm nay có một vị chư thiên với nhan sắc tuyệt đẹp, khi đêm đã về khuya, chiếu sáng toàn bộ khu rừng Andhavana, đi đến chỗ con; sau khi đến, vị ấy đứng sang một bên. Đứng sang một bên, bạch Thế Tôn, vị chư thiên ấy nói với con điều này: 'Này tỳ kheo, này tỳ kheo, cái gò mối này ban đêm bốc khói, ban ngày bốc cháy. Vị Bà-la-môn nói như sau: "Này *người có trí*, hãy cầm lấy con dao và đào xới". *Người có trí* cầm lấy con dao và đào xới [...lặp lại...] hoặc người đã nghe từ những vị ấy'.
+3\. Rồi Tôn giả Kumārakassapa, khi đêm đã qua, đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Kumārakassapa bạch Thế Tôn điều này: "Bạch Thế Tôn, đêm nay có một vị chư thiên với nhan sắc tuyệt đẹp, khi đêm đã về khuya, chiếu sáng toàn bộ khu rừng Andhavana, đi đến chỗ con; sau khi đến, vị ấy đứng sang một bên. Đứng sang một bên, bạch Thế Tôn, vị chư thiên ấy nói với con điều này: 'Này tỳ kheo, này tỳ kheo, cái gò mối này ban đêm bốc khói, ban ngày bốc cháy. Vị Bà-la-môn nói như sau: "Này *người có trí*, hãy cầm lấy con dao và đào xới". *Người có trí* cầm lấy con dao và đào xới [...lặp lại...] hoặc người đã nghe từ những vị ấy'. {#3}
 
 Bạch Thế Tôn, vị chư thiên đã nói điều này. Nói xong, vị ấy biến mất ngay tại chỗ. Bạch Thế Tôn, gò mối là gì, ban đêm bốc khói là gì, ban ngày bốc cháy là gì, vị Bà-la-môn là ai, *người có trí* là ai, con dao là gì, đào xới là gì, cái then cửa là gì, con cóc là gì, ngã ba đường là gì, cái rổ lọc là gì, con rùa là gì, cái thớt băm thịt là gì, miếng thịt là gì, con rắn chúa là ai?"
 
-4\. "Này tỳ kheo, 'gò mối' là tên gọi khác của cơ thể này, được tạo thành từ *bốn đặc tính lớn* (tứ đại / cātumahābhūtika), sinh ra từ cha mẹ, được nuôi dưỡng bằng cơm và cháo, có tính chất không bền vững, phải xoa bóp, tắm rửa, dễ vỡ vụn và hoại diệt.
+4\. "Này tỳ kheo, 'gò mối' là tên gọi khác của cơ thể này, được tạo thành từ *bốn đặc tính lớn* (tứ đại / cātumahābhūtika), sinh ra từ cha mẹ, được nuôi dưỡng bằng cơm và cháo, có tính chất không bền vững, phải xoa bóp, tắm rửa, dễ vỡ vụn và hoại diệt. {#4}
 
 Này tỳ kheo, những công việc đã bắt đầu làm vào ban ngày, ban đêm vị ấy *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (tầm tứ / anuvitakketi anuvicāreti) về chúng—đây là ban đêm bốc khói. Này tỳ kheo, sau khi ban đêm *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*, ban ngày vị ấy thực hiện các công việc bằng hành động của thân, lời nói, và ý nghĩ—đây là ban ngày bốc cháy.
 

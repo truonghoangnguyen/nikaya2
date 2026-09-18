@@ -1,10 +1,10 @@
 # MN 116. Isigilisutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati isigilismiṁ pabbate. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati isigilismiṁ pabbate. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti. {#1}
 
 “Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
-2\. “Passatha no tumhe, bhikkhave, etaṁ vebhāraṁ pabbatan”ti?
+2\. “Passatha no tumhe, bhikkhave, etaṁ vebhāraṁ pabbatan”ti? {#2}
 
 “Evaṁ, bhante”.
 
@@ -24,7 +24,7 @@
 
 “Evaṁ, bhante”.
 
-3\. “Imassa kho pana, bhikkhave, isigilissa pabbatassa esāva samaññā ahosi esā paññatti.
+3\. “Imassa kho pana, bhikkhave, isigilissa pabbatassa esāva samaññā ahosi esā paññatti. {#3}
 
 Bhūtapubbaṁ, bhikkhave, pañca paccekabuddhasatāni imasmiṁ isigilismiṁ pabbate ciranivāsino ahesuṁ. Te imaṁ pabbataṁ pavisantā dissanti, paviṭṭhā na dissanti. Tamenaṁ manussā disvā evamāhaṁsu: ‘ayaṁ pabbato ime isī gilatī’ti; ‘isigili isigili’ tveva samaññā udapādi.
 
@@ -32,9 +32,9 @@ Bhūtapubbaṁ, bhikkhave, pañca paccekabuddhasatāni imasmiṁ isigilismiṁ p
 
 “Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
 
-4\. “Ariṭṭho nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; upariṭṭho nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; tagarasikhī nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; yasassī nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; sudassano nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; piyadassī nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; gandhāro nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; piṇḍolo nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; upāsabho nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; nīto nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; tatho nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi, sutavā nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; bhāvitatto nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi.
+4\. “Ariṭṭho nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; upariṭṭho nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; tagarasikhī nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; yasassī nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; sudassano nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; piyadassī nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; gandhāro nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; piṇḍolo nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; upāsabho nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; nīto nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; tatho nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi, sutavā nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi; bhāvitatto nāma, bhikkhave, paccekasambuddho imasmiṁ isigilismiṁ pabbate ciranivāsī ahosi. {#4}
 
-5\.
+5\. {#5}
 > Ye sattasārā anīghā nirāsā,\
 > Paccekamevajjhagamaṁsu bodhiṁ;\
 > Tesaṁ visallāna naruttamānaṁ,\
@@ -45,7 +45,7 @@ Bhūtapubbaṁ, bhikkhave, pañca paccekabuddhasatāni imasmiṁ isigilismiṁ p
 > Gandhāro piṇḍolo upāsabho ca,\
 > Nīto tatho sutavā bhāvitatto.
 
-6\.
+6\. {#6}
 > Sumbho subho matulo aṭṭhamo ca,\
 > Athassumegho anīgho sudāṭho;\
 > Paccekabuddhā bhavanettikhīṇā,\
@@ -91,7 +91,7 @@ Bhūtapubbaṁ, bhikkhave, pañca paccekabuddhasatāni imasmiṁ isigilismiṁ p
 > Mānatthaddho sobhito vītarāgo,\
 > Kaṇho ca buddho suvimuttacitto.
 
-7\.
+7\. {#7}
 > Ete ca aññe ca mahānubhāvā,\
 > Paccekabuddhā bhavanettikhīṇā;\
 > Te sabbasaṅgātigate mahesī,\

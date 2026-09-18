@@ -1,8 +1,8 @@
 # MN 142. Dakkhiṇāvibhaṅgasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme. {#1}
 
-2\. Atha kho mahāpajāpati gotamī navaṁ dussayugaṁ ādāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnā kho mahāpajāpati gotamī bhagavantaṁ etadavoca: “idaṁ me, bhante, navaṁ dussayugaṁ bhagavantaṁ uddissa sāmaṁ kantaṁ sāmaṁ vāyitaṁ. Taṁ me, bhante, bhagavā paṭiggaṇhātu anukampaṁ upādāyā”ti.
+2\. Atha kho mahāpajāpati gotamī navaṁ dussayugaṁ ādāya yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnā kho mahāpajāpati gotamī bhagavantaṁ etadavoca: “idaṁ me, bhante, navaṁ dussayugaṁ bhagavantaṁ uddissa sāmaṁ kantaṁ sāmaṁ vāyitaṁ. Taṁ me, bhante, bhagavā paṭiggaṇhātu anukampaṁ upādāyā”ti. {#2}
 
 Evaṁ vutte, bhagavā mahāpajāpatiṁ gotamiṁ etadavoca: “saṅghe, gotami, dehi. Saṅghe te dinne ahañceva pūjito bhavissāmi saṅgho cā”ti.
 
@@ -12,11 +12,11 @@ Tatiyampi kho mahāpajāpati gotamī bhagavantaṁ etadavoca: “idaṁ me, bhan
 
 Tatiyampi kho bhagavā mahāpajāpatiṁ gotamiṁ etadavoca: “saṅghe, gotami, dehi. Saṅghe te dinne ahañceva pūjito bhavissāmi saṅgho cā”ti.
 
-3\. Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca: “paṭiggaṇhātu, bhante, bhagavā mahāpajāpatiyā gotamiyā navaṁ dussayugaṁ. Bahūpakārā, bhante, mahāpajāpati gotamī bhagavato mātucchā āpādikā posikā khīrassa dāyikā; bhagavantaṁ janettiyā kālaṅkatāya thaññaṁ pāyesi.
+3\. Evaṁ vutte, āyasmā ānando bhagavantaṁ etadavoca: “paṭiggaṇhātu, bhante, bhagavā mahāpajāpatiyā gotamiyā navaṁ dussayugaṁ. Bahūpakārā, bhante, mahāpajāpati gotamī bhagavato mātucchā āpādikā posikā khīrassa dāyikā; bhagavantaṁ janettiyā kālaṅkatāya thaññaṁ pāyesi. {#3}
 
 Bhagavāpi, bhante, bahūpakāro mahāpajāpatiyā gotamiyā. Bhagavantaṁ, bhante, āgamma mahāpajāpati gotamī buddhaṁ saraṇaṁ gatā, dhammaṁ saraṇaṁ gatā, saṅghaṁ saraṇaṁ gatā. Bhagavantaṁ, bhante, āgamma mahāpajāpati gotamī pāṇātipātā paṭiviratā adinnādānā paṭiviratā kāmesumicchācārā paṭiviratā musāvādā paṭiviratā surāmerayamajjapamādaṭṭhānā paṭiviratā. Bhagavantaṁ, bhante, āgamma mahāpajāpati gotamī buddhe aveccappasādena samannāgatā, dhamme aveccappasādena samannāgatā, saṅghe aveccappasādena samannāgatā ariyakantehi sīlehi samannāgatā. Bhagavantaṁ, bhante, āgamma mahāpajāpati gotamī dukkhe nikkaṅkhā, dukkhasamudaye nikkaṅkhā, dukkhanirodhe nikkaṅkhā, dukkhanirodhagāminiyā paṭipadāya nikkaṅkhā. Bhagavāpi, bhante, bahūpakāro mahāpajāpatiyā gotamiyā”ti.
 
-4\. “Evametaṁ, ānanda. Yaṁ hānanda, puggalo puggalaṁ āgamma buddhaṁ saraṇaṁ gato hoti, dhammaṁ saraṇaṁ gato hoti, saṅghaṁ saraṇaṁ gato hoti, imassānanda, puggalassa iminā puggalena na suppatikāraṁ vadāmi, yadidaṁ—abhivādanapaccuṭṭhānaañjalikammasāmīcikammacīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānuppadānena.
+4\. “Evametaṁ, ānanda. Yaṁ hānanda, puggalo puggalaṁ āgamma buddhaṁ saraṇaṁ gato hoti, dhammaṁ saraṇaṁ gato hoti, saṅghaṁ saraṇaṁ gato hoti, imassānanda, puggalassa iminā puggalena na suppatikāraṁ vadāmi, yadidaṁ—abhivādanapaccuṭṭhānaañjalikammasāmīcikammacīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānuppadānena. {#4}
 
 Yaṁ hānanda, puggalo puggalaṁ āgamma pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti, musāvādā paṭivirato hoti, surāmerayamajjapamādaṭṭhānā paṭivirato hoti, imassānanda, puggalassa iminā puggalena na suppatikāraṁ vadāmi, yadidaṁ—abhivādanapaccuṭṭhānaañjalikammasāmīcikammacīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānuppadānena.
 
@@ -24,25 +24,25 @@ Yaṁ hānanda, puggalo puggalaṁ āgamma buddhe aveccappasādena samannāgato 
 
 Yaṁ hānanda, puggalo puggalaṁ āgamma dukkhe nikkaṅkho hoti, dukkhasamudaye nikkaṅkho hoti, dukkhanirodhe nikkaṅkho hoti, dukkhanirodhagāminiyā paṭipadāya nikkaṅkho hoti, imassānanda, puggalassa iminā puggalena na suppatikāraṁ vadāmi, yadidaṁ—abhivādanapaccuṭṭhānaañjalikammasāmīcikammacīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānuppadānena.
 
-5\. Cuddasa kho panimānanda, pāṭipuggalikā dakkhiṇā. Katamā cuddasa? Tathāgate arahante sammāsambuddhe dānaṁ deti—ayaṁ paṭhamā pāṭipuggalikā dakkhiṇā. Paccekasambuddhe dānaṁ deti—ayaṁ dutiyā pāṭipuggalikā dakkhiṇā. Tathāgatasāvake arahante dānaṁ deti—ayaṁ tatiyā pāṭipuggalikā dakkhiṇā. Arahattaphalasacchikiriyāya paṭipanne dānaṁ deti—ayaṁ catutthī pāṭipuggalikā dakkhiṇā. Anāgāmissa dānaṁ deti—ayaṁ pañcamī pāṭipuggalikā dakkhiṇā. Anāgāmiphalasacchikiriyāya paṭipanne dānaṁ deti—ayaṁ chaṭṭhī pāṭipuggalikā dakkhiṇā. Sakadāgāmissa dānaṁ deti—ayaṁ sattamī pāṭipuggalikā dakkhiṇā. Sakadāgāmiphalasacchikiriyāya paṭipanne dānaṁ deti—ayaṁ aṭṭhamī pāṭipuggalikā dakkhiṇā. Sotāpanne dānaṁ deti—ayaṁ navamī pāṭipuggalikā dakkhiṇā. Sotāpattiphalasacchikiriyāya paṭipanne dānaṁ deti—ayaṁ dasamī pāṭipuggalikā dakkhiṇā. Bāhirake kāmesu vītarāge dānaṁ deti—ayaṁ ekādasamī pāṭipuggalikā dakkhiṇā. Puthujjanasīlavante dānaṁ deti—ayaṁ dvādasamī pāṭipuggalikā dakkhiṇā. Puthujjanadussīle dānaṁ deti—ayaṁ terasamī pāṭipuggalikā dakkhiṇā. Tiracchānagate dānaṁ deti—ayaṁ cuddasamī pāṭipuggalikā dakkhiṇāti.
+5\. Cuddasa kho panimānanda, pāṭipuggalikā dakkhiṇā. Katamā cuddasa? Tathāgate arahante sammāsambuddhe dānaṁ deti—ayaṁ paṭhamā pāṭipuggalikā dakkhiṇā. Paccekasambuddhe dānaṁ deti—ayaṁ dutiyā pāṭipuggalikā dakkhiṇā. Tathāgatasāvake arahante dānaṁ deti—ayaṁ tatiyā pāṭipuggalikā dakkhiṇā. Arahattaphalasacchikiriyāya paṭipanne dānaṁ deti—ayaṁ catutthī pāṭipuggalikā dakkhiṇā. Anāgāmissa dānaṁ deti—ayaṁ pañcamī pāṭipuggalikā dakkhiṇā. Anāgāmiphalasacchikiriyāya paṭipanne dānaṁ deti—ayaṁ chaṭṭhī pāṭipuggalikā dakkhiṇā. Sakadāgāmissa dānaṁ deti—ayaṁ sattamī pāṭipuggalikā dakkhiṇā. Sakadāgāmiphalasacchikiriyāya paṭipanne dānaṁ deti—ayaṁ aṭṭhamī pāṭipuggalikā dakkhiṇā. Sotāpanne dānaṁ deti—ayaṁ navamī pāṭipuggalikā dakkhiṇā. Sotāpattiphalasacchikiriyāya paṭipanne dānaṁ deti—ayaṁ dasamī pāṭipuggalikā dakkhiṇā. Bāhirake kāmesu vītarāge dānaṁ deti—ayaṁ ekādasamī pāṭipuggalikā dakkhiṇā. Puthujjanasīlavante dānaṁ deti—ayaṁ dvādasamī pāṭipuggalikā dakkhiṇā. Puthujjanadussīle dānaṁ deti—ayaṁ terasamī pāṭipuggalikā dakkhiṇā. Tiracchānagate dānaṁ deti—ayaṁ cuddasamī pāṭipuggalikā dakkhiṇāti. {#5}
 
-6\. Tatrānanda, tiracchānagate dānaṁ datvā sataguṇā dakkhiṇā pāṭikaṅkhitabbā, puthujjanadussīle dānaṁ datvā sahassaguṇā dakkhiṇā pāṭikaṅkhitabbā, puthujjanasīlavante dānaṁ datvā satasahassaguṇā dakkhiṇā pāṭikaṅkhitabbā, bāhirake kāmesu vītarāge dānaṁ datvā koṭisatasahassaguṇā dakkhiṇā pāṭikaṅkhitabbā, sotāpattiphalasacchikiriyāya paṭipanne dānaṁ datvā asaṅkheyyā appameyyā dakkhiṇā pāṭikaṅkhitabbā, ko pana vādo sotāpanne, ko pana vādo sakadāgāmiphalasacchikiriyāya paṭipanne, ko pana vādo sakadāgāmissa, ko pana vādo anāgāmiphalasacchikiriyāya paṭipanne, ko pana vādo anāgāmissa, ko pana vādo arahattaphalasacchikiriyāya paṭipanne, ko pana vādo arahante, ko pana vādo paccekasambuddhe, ko pana vādo tathāgate arahante sammāsambuddhe.
+6\. Tatrānanda, tiracchānagate dānaṁ datvā sataguṇā dakkhiṇā pāṭikaṅkhitabbā, puthujjanadussīle dānaṁ datvā sahassaguṇā dakkhiṇā pāṭikaṅkhitabbā, puthujjanasīlavante dānaṁ datvā satasahassaguṇā dakkhiṇā pāṭikaṅkhitabbā, bāhirake kāmesu vītarāge dānaṁ datvā koṭisatasahassaguṇā dakkhiṇā pāṭikaṅkhitabbā, sotāpattiphalasacchikiriyāya paṭipanne dānaṁ datvā asaṅkheyyā appameyyā dakkhiṇā pāṭikaṅkhitabbā, ko pana vādo sotāpanne, ko pana vādo sakadāgāmiphalasacchikiriyāya paṭipanne, ko pana vādo sakadāgāmissa, ko pana vādo anāgāmiphalasacchikiriyāya paṭipanne, ko pana vādo anāgāmissa, ko pana vādo arahattaphalasacchikiriyāya paṭipanne, ko pana vādo arahante, ko pana vādo paccekasambuddhe, ko pana vādo tathāgate arahante sammāsambuddhe. {#6}
 
-7\. Satta kho panimānanda, saṅghagatā dakkhiṇā. Katamā satta? Buddhappamukhe ubhatosaṅghe dānaṁ deti—ayaṁ paṭhamā saṅghagatā dakkhiṇā. Tathāgate parinibbute ubhatosaṅghe dānaṁ deti—ayaṁ dutiyā saṅghagatā dakkhiṇā. Bhikkhusaṅghe dānaṁ deti—ayaṁ tatiyā saṅghagatā dakkhiṇā. Bhikkhunisaṅghe dānaṁ deti—ayaṁ catutthī saṅghagatā dakkhiṇā. ‘Ettakā me bhikkhū ca bhikkhuniyo ca saṅghato uddissathā’ti dānaṁ deti—ayaṁ pañcamī saṅghagatā dakkhiṇā. ‘Ettakā me bhikkhū saṅghato uddissathā’ti dānaṁ deti—ayaṁ chaṭṭhī saṅghagatā dakkhiṇā. ‘Ettakā me bhikkhuniyo saṅghato uddissathā’ti dānaṁ deti—ayaṁ sattamī saṅghagatā dakkhiṇā.
+7\. Satta kho panimānanda, saṅghagatā dakkhiṇā. Katamā satta? Buddhappamukhe ubhatosaṅghe dānaṁ deti—ayaṁ paṭhamā saṅghagatā dakkhiṇā. Tathāgate parinibbute ubhatosaṅghe dānaṁ deti—ayaṁ dutiyā saṅghagatā dakkhiṇā. Bhikkhusaṅghe dānaṁ deti—ayaṁ tatiyā saṅghagatā dakkhiṇā. Bhikkhunisaṅghe dānaṁ deti—ayaṁ catutthī saṅghagatā dakkhiṇā. ‘Ettakā me bhikkhū ca bhikkhuniyo ca saṅghato uddissathā’ti dānaṁ deti—ayaṁ pañcamī saṅghagatā dakkhiṇā. ‘Ettakā me bhikkhū saṅghato uddissathā’ti dānaṁ deti—ayaṁ chaṭṭhī saṅghagatā dakkhiṇā. ‘Ettakā me bhikkhuniyo saṅghato uddissathā’ti dānaṁ deti—ayaṁ sattamī saṅghagatā dakkhiṇā. {#7}
 
-8\. Bhavissanti kho panānanda, anāgatamaddhānaṁ gotrabhuno kāsāvakaṇṭhā dussīlā pāpadhammā. Tesu dussīlesu saṅghaṁ uddissa dānaṁ dassanti. Tadāpāhaṁ, ānanda, saṅghagataṁ dakkhiṇaṁ asaṅkheyyaṁ appameyyaṁ vadāmi. Na tvevāhaṁ, ānanda, kenaci pariyāyena saṅghagatāya dakkhiṇāya pāṭipuggalikaṁ dānaṁ mahapphalataraṁ vadāmi.
+8\. Bhavissanti kho panānanda, anāgatamaddhānaṁ gotrabhuno kāsāvakaṇṭhā dussīlā pāpadhammā. Tesu dussīlesu saṅghaṁ uddissa dānaṁ dassanti. Tadāpāhaṁ, ānanda, saṅghagataṁ dakkhiṇaṁ asaṅkheyyaṁ appameyyaṁ vadāmi. Na tvevāhaṁ, ānanda, kenaci pariyāyena saṅghagatāya dakkhiṇāya pāṭipuggalikaṁ dānaṁ mahapphalataraṁ vadāmi. {#8}
 
-9\. Catasso kho imā, ānanda, dakkhiṇā visuddhiyo. Katamā catasso? Atthānanda, dakkhiṇā dāyakato visujjhati no paṭiggāhakato. Atthānanda, dakkhiṇā paṭiggāhakato visujjhati no dāyakato. Atthānanda, dakkhiṇā neva dāyakato visujjhati no paṭiggāhakato. Atthānanda, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca.
+9\. Catasso kho imā, ānanda, dakkhiṇā visuddhiyo. Katamā catasso? Atthānanda, dakkhiṇā dāyakato visujjhati no paṭiggāhakato. Atthānanda, dakkhiṇā paṭiggāhakato visujjhati no dāyakato. Atthānanda, dakkhiṇā neva dāyakato visujjhati no paṭiggāhakato. Atthānanda, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca. {#9}
 
-10\. Kathañcānanda, dakkhiṇā dāyakato visujjhati no paṭiggāhakato? Idhānanda, dāyako hoti sīlavā kalyāṇadhammo, paṭiggāhakā honti dussīlā pāpadhammā—evaṁ kho, ānanda, dakkhiṇā dāyakato visujjhati no paṭiggāhakato.
+10\. Kathañcānanda, dakkhiṇā dāyakato visujjhati no paṭiggāhakato? Idhānanda, dāyako hoti sīlavā kalyāṇadhammo, paṭiggāhakā honti dussīlā pāpadhammā—evaṁ kho, ānanda, dakkhiṇā dāyakato visujjhati no paṭiggāhakato. {#10}
 
-11\. Kathañcānanda, dakkhiṇā paṭiggāhakato visujjhati no dāyakato? Idhānanda, dāyako hoti dussīlo pāpadhammo, paṭiggāhakā honti sīlavanto kalyāṇadhammā—evaṁ kho, ānanda, dakkhiṇā paṭiggāhakato visujjhati no dāyakato.
+11\. Kathañcānanda, dakkhiṇā paṭiggāhakato visujjhati no dāyakato? Idhānanda, dāyako hoti dussīlo pāpadhammo, paṭiggāhakā honti sīlavanto kalyāṇadhammā—evaṁ kho, ānanda, dakkhiṇā paṭiggāhakato visujjhati no dāyakato. {#11}
 
-12\. Kathañcānanda, dakkhiṇā neva dāyakato visujjhati no paṭiggāhakato? Idhānanda, dāyako ca hoti dussīlo pāpadhammo, paṭiggāhakā ca honti dussīlā pāpadhammā—evaṁ kho, ānanda, dakkhiṇā neva dāyakato visujjhati no paṭiggāhakato.
+12\. Kathañcānanda, dakkhiṇā neva dāyakato visujjhati no paṭiggāhakato? Idhānanda, dāyako ca hoti dussīlo pāpadhammo, paṭiggāhakā ca honti dussīlā pāpadhammā—evaṁ kho, ānanda, dakkhiṇā neva dāyakato visujjhati no paṭiggāhakato. {#12}
 
-13\. Kathañcānanda, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca? Idhānanda, dāyako ca hoti sīlavā kalyāṇadhammo, paṭiggāhakā ca honti sīlavanto kalyāṇadhammā—evaṁ kho, ānanda, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca. Imā kho, ānanda, catasso dakkhiṇā visuddhiyo”ti.
+13\. Kathañcānanda, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca? Idhānanda, dāyako ca hoti sīlavā kalyāṇadhammo, paṭiggāhakā ca honti sīlavanto kalyāṇadhammā—evaṁ kho, ānanda, dakkhiṇā dāyakato ceva visujjhati paṭiggāhakato ca. Imā kho, ānanda, catasso dakkhiṇā visuddhiyo”ti. {#13}
 
-14\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
+14\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā: {#14}
 
 > “Yo sīlavā dussīlesu dadāti dānaṁ,\
 > Dhammena laddhaṁ supasannacitto;\
@@ -73,7 +73,7 @@ Dakkhiṇāvibhaṅgasuttaṁ niṭṭhitaṁ dvādasamaṁ.
 
 Vibhaṅgavaggo niṭṭhito catuttho.
 
-15\. Tassuddānaṁ
+15\. Tassuddānaṁ {#15}
 
 > Bhaddekānandakaccāna,\
 > Lomasakaṅgiyāsubho;\

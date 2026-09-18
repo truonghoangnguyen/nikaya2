@@ -1,18 +1,18 @@
 # MN 55. Jīvakasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati jīvakassa komārabhaccassa ambavane.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati jīvakassa komārabhaccassa ambavane. {#1}
 
-2\. Atha kho jīvako komārabhacco yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jīvako komārabhacco bhagavantaṁ etadavoca:
+2\. Atha kho jīvako komārabhacco yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jīvako komārabhacco bhagavantaṁ etadavoca: {#2}
 
-3\. “sutaṁ metaṁ, bhante: ‘samaṇaṁ gotamaṁ uddissa pāṇaṁ ārabhanti, taṁ samaṇo gotamo jānaṁ uddissakataṁ maṁsaṁ paribhuñjati paṭiccakamman’ti. Ye te, bhante, evamāhaṁsu: ‘samaṇaṁ gotamaṁ uddissa pāṇaṁ ārabhanti, taṁ samaṇo gotamo jānaṁ uddissakataṁ maṁsaṁ paribhuñjati paṭiccakamman’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti?
+3\. “sutaṁ metaṁ, bhante: ‘samaṇaṁ gotamaṁ uddissa pāṇaṁ ārabhanti, taṁ samaṇo gotamo jānaṁ uddissakataṁ maṁsaṁ paribhuñjati paṭiccakamman’ti. Ye te, bhante, evamāhaṁsu: ‘samaṇaṁ gotamaṁ uddissa pāṇaṁ ārabhanti, taṁ samaṇo gotamo jānaṁ uddissakataṁ maṁsaṁ paribhuñjati paṭiccakamman’ti, kacci te, bhante, bhagavato vuttavādino, na ca bhagavantaṁ abhūtena abbhācikkhanti, dhammassa cānudhammaṁ byākaronti, na ca koci sahadhammiko vādānuvādo gārayhaṁ ṭhānaṁ āgacchatī”ti? {#3}
 
-4\. “Ye te, jīvaka, evamāhaṁsu: ‘samaṇaṁ gotamaṁ uddissa pāṇaṁ ārabhanti, taṁ samaṇo gotamo jānaṁ uddissakataṁ maṁsaṁ paribhuñjati paṭiccakamman’ti na me te vuttavādino, abbhācikkhanti ca maṁ te asatā abhūtena.
+4\. “Ye te, jīvaka, evamāhaṁsu: ‘samaṇaṁ gotamaṁ uddissa pāṇaṁ ārabhanti, taṁ samaṇo gotamo jānaṁ uddissakataṁ maṁsaṁ paribhuñjati paṭiccakamman’ti na me te vuttavādino, abbhācikkhanti ca maṁ te asatā abhūtena. {#4}
 
-5\. Tīhi kho ahaṁ, jīvaka, ṭhānehi maṁsaṁ aparibhoganti vadāmi. Diṭṭhaṁ, sutaṁ, parisaṅkitaṁ—imehi kho ahaṁ, jīvaka, tīhi ṭhānehi maṁsaṁ aparibhoganti vadāmi.
+5\. Tīhi kho ahaṁ, jīvaka, ṭhānehi maṁsaṁ aparibhoganti vadāmi. Diṭṭhaṁ, sutaṁ, parisaṅkitaṁ—imehi kho ahaṁ, jīvaka, tīhi ṭhānehi maṁsaṁ aparibhoganti vadāmi. {#5}
 
 Tīhi kho ahaṁ, jīvaka, ṭhānehi maṁsaṁ paribhoganti vadāmi. Adiṭṭhaṁ, asutaṁ, aparisaṅkitaṁ—imehi kho ahaṁ, jīvaka, tīhi ṭhānehi maṁsaṁ paribhoganti vadāmi.
 
-6\. Idha, jīvaka, bhikkhu aññataraṁ gāmaṁ vā nigamaṁ vā upanissāya viharati. So mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Tamenaṁ gahapati vā gahapatiputto vā upasaṅkamitvā svātanāya bhattena nimanteti. Ākaṅkhamānova, jīvaka, bhikkhu adhivāseti.
+6\. Idha, jīvaka, bhikkhu aññataraṁ gāmaṁ vā nigamaṁ vā upanissāya viharati. So mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ. Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Tamenaṁ gahapati vā gahapatiputto vā upasaṅkamitvā svātanāya bhattena nimanteti. Ākaṅkhamānova, jīvaka, bhikkhu adhivāseti. {#6}
 
 So tassā rattiyā accayena pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena tassa gahapatissa vā gahapatiputtassa vā nivesanaṁ tenupasaṅkamati; upasaṅkamitvā paññatte āsane nisīdati. Tamenaṁ so gahapati vā gahapatiputto vā paṇītena piṇḍapātena parivisati. Tassa na evaṁ hoti: ‘sādhu vata māyaṁ gahapati vā gahapatiputto vā paṇītena piṇḍapātena pariviseyyāti. Aho vata māyaṁ gahapati vā gahapatiputto vā āyatimpi evarūpena paṇītena piṇḍapātena pariviseyyā’ti—evampissa na hoti. So taṁ piṇḍapātaṁ agathito amucchito anajjhopanno ādīnavadassāvī nissaraṇapañño paribhuñjati.
 
@@ -22,7 +22,7 @@ Taṁ kiṁ maññasi, jīvaka, api nu so bhikkhu tasmiṁ samaye attabyābādh�
 
 “Nanu so, jīvaka, bhikkhu tasmiṁ samaye anavajjaṁyeva āhāraṁ āhāretī”ti?
 
-7\. “Evaṁ, bhante. Sutaṁ metaṁ, bhante: ‘brahmā mettāvihārī’ti. Taṁ me idaṁ, bhante, bhagavā sakkhidiṭṭho; bhagavā hi, bhante, mettāvihārī”ti.
+7\. “Evaṁ, bhante. Sutaṁ metaṁ, bhante: ‘brahmā mettāvihārī’ti. Taṁ me idaṁ, bhante, bhagavā sakkhidiṭṭho; bhagavā hi, bhante, mettāvihārī”ti. {#7}
 
 “Yena kho, jīvaka, rāgena yena dosena yena mohena byāpādavā assa so rāgo so doso so moho tathāgatassa pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo. Sace kho te, jīvaka, idaṁ sandhāya bhāsitaṁ anujānāmi te etan”ti.
 
@@ -42,13 +42,13 @@ Taṁ kiṁ maññasi, jīvaka, api nu so bhikkhu tasmiṁ samaye attabyābādh�
 
 “Nanu so, jīvaka, bhikkhu tasmiṁ samaye anavajjaṁyeva āhāraṁ āhāretī”ti?
 
-11\. “Evaṁ, bhante. Sutaṁ metaṁ, bhante: ‘brahmā upekkhāvihārī’ti. Taṁ me idaṁ, bhante, bhagavā sakkhidiṭṭho; bhagavā hi, bhante, upekkhāvihārī”ti.
+11\. “Evaṁ, bhante. Sutaṁ metaṁ, bhante: ‘brahmā upekkhāvihārī’ti. Taṁ me idaṁ, bhante, bhagavā sakkhidiṭṭho; bhagavā hi, bhante, upekkhāvihārī”ti. {#11}
 
 “Yena kho, jīvaka, rāgena yena dosena yena mohena vihesavā assa arativā assa paṭighavā assa so rāgo so doso so moho tathāgatassa pahīno ucchinnamūlo tālāvatthukato anabhāvaṅkato āyatiṁ anuppādadhammo. Sace kho te, jīvaka, idaṁ sandhāya bhāsitaṁ, anujānāmi te etan”ti.
 
 “Etadeva kho pana me, bhante, sandhāya bhāsitaṁ”.
 
-12\. “Yo kho, jīvaka, tathāgataṁ vā tathāgatasāvakaṁ vā uddissa pāṇaṁ ārabhati so pañcahi ṭhānehi bahuṁ apuññaṁ pasavati.
+12\. “Yo kho, jīvaka, tathāgataṁ vā tathāgatasāvakaṁ vā uddissa pāṇaṁ ārabhati so pañcahi ṭhānehi bahuṁ apuññaṁ pasavati. {#12}
 
 Yampi so, gahapati, evamāha: ‘gacchatha, amukaṁ nāma pāṇaṁ ānethā’ti, iminā paṭhamena ṭhānena bahuṁ apuññaṁ pasavati.
 
@@ -62,6 +62,6 @@ Yampi so tathāgataṁ vā tathāgatasāvakaṁ vā akappiyena āsādeti, iminā
 
 Yo kho, jīvaka, tathāgataṁ vā tathāgatasāvakaṁ vā uddissa pāṇaṁ ārabhati so imehi pañcahi ṭhānehi bahuṁ apuññaṁ pasavatī”ti.
 
-13\. Evaṁ vutte, jīvako komārabhacco bhagavantaṁ etadavoca: “acchariyaṁ, bhante, abbhutaṁ, bhante. Kappiyaṁ vata, bhante, bhikkhū āhāraṁ āhārenti; anavajjaṁ vata, bhante, bhikkhū āhāraṁ āhārenti. Abhikkantaṁ, bhante, abhikkantaṁ, bhante …pe… upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+13\. Evaṁ vutte, jīvako komārabhacco bhagavantaṁ etadavoca: “acchariyaṁ, bhante, abbhutaṁ, bhante. Kappiyaṁ vata, bhante, bhikkhū āhāraṁ āhārenti; anavajjaṁ vata, bhante, bhikkhū āhāraṁ āhārenti. Abhikkantaṁ, bhante, abhikkantaṁ, bhante …pe… upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti. {#13}
 
 Jīvakasuttaṁ niṭṭhitaṁ pañcamaṁ.

@@ -7,13 +7,13 @@ description: Đức Phật đang trú tại Nāḷandā, trong rừng xoài Pāv
 [Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-056){class="note-link"}
 
 
-1\. Tôi đã nghe như vầy—một thời Thế Tôn trú tại Nāḷandā, trong rừng xoài Pāvārika.
+1\. Tôi đã nghe như vầy—một thời Thế Tôn trú tại Nāḷandā, trong rừng xoài Pāvārika. {#1}
 
-2\. Lúc bấy giờ, *tu sĩ đạo Jain* (Ni-kiền-tử / nigaṇṭha) [giáo chủ] Nāṭaputta đang trú tại Nāḷandā cùng với một hội chúng *tu sĩ đạo Jain* đông đảo. Rồi Dīghatapassī đi khất thực ở Nāḷandā, sau bữa ăn, trên đường đi khất thực trở về, vị ấy đi đến rừng xoài Pāvārika, đi đến nơi Thế Tôn [đang trú]; sau khi đến, vị ấy nói những lời chào đón hỏi thăm với Thế Tôn.
+2\. Lúc bấy giờ, *tu sĩ đạo Jain* (Ni-kiền-tử / nigaṇṭha) [giáo chủ] Nāṭaputta đang trú tại Nāḷandā cùng với một hội chúng *tu sĩ đạo Jain* đông đảo. Rồi Dīghatapassī đi khất thực ở Nāḷandā, sau bữa ăn, trên đường đi khất thực trở về, vị ấy đi đến rừng xoài Pāvārika, đi đến nơi Thế Tôn [đang trú]; sau khi đến, vị ấy nói những lời chào đón hỏi thăm với Thế Tôn. {#2}
 
 Sau khi nói những lời chào đón hỏi thăm thân hữu, vị ấy đứng sang một bên. Khi Dīghatapassī đang đứng một bên, Thế Tôn nói với vị ấy: "Này Tapassī, có sẵn các chỗ ngồi; nếu muốn, ông hãy ngồi xuống."
 
-3\. Khi được nói vậy, Dīghatapassī lấy một chiếc ghế thấp và ngồi xuống một bên. Khi Dīghatapassī đã ngồi một bên, Thế Tôn nói với vị ấy: "Này Tapassī, [Sư phụ của ông, giáo chủ] Nāṭaputta tuyên bố có bao nhiêu *hành động* (nghiệp / kamma) để thực hiện hành động sai trái, để diễn tiến hành động sai trái?"
+3\. Khi được nói vậy, Dīghatapassī lấy một chiếc ghế thấp và ngồi xuống một bên. Khi Dīghatapassī đã ngồi một bên, Thế Tôn nói với vị ấy: "Này Tapassī, [Sư phụ của ông, giáo chủ] Nāṭaputta tuyên bố có bao nhiêu *hành động* (nghiệp / kamma) để thực hiện hành động sai trái, để diễn tiến hành động sai trái?" {#3}
 
 "Thưa hiền giả Gotama, [giáo chủ] Nāṭaputta không có thói quen tuyên bố là '*hành động*, *hành động*'; thưa hiền giả Gotama, [giáo chủ] Nāṭaputta có thói quen tuyên bố là '*hình phạt* (phạt mộc / daṇḍa), *hình phạt*'."
 
@@ -44,7 +44,7 @@ Sau khi nói những lời chào đón hỏi thăm thân hữu, vị ấy đứn
 Như vậy, Thế Tôn đã làm cho Dīghatapassī xác nhận lập trường trong cuộc thảo luận này cho đến lần thứ ba.
 
 <!--pg-->
-4\. Khi được nói vậy, Dīghatapassī nói với Thế Tôn: "Còn hiền giả Gotama, ngài tuyên bố có bao nhiêu *hình phạt* để thực hiện hành động sai trái, để diễn tiến hành động sai trái?"
+4\. Khi được nói vậy, Dīghatapassī nói với Thế Tôn: "Còn hiền giả Gotama, ngài tuyên bố có bao nhiêu *hình phạt* để thực hiện hành động sai trái, để diễn tiến hành động sai trái?" {#4}
 
 "Này Tapassī, *Người Đến Như Vậy* (Như Lai / tathāgata) không có thói quen tuyên bố là '*hình phạt*, *hình phạt*'; này Tapassī, *Người Đến Như Vậy* có thói quen tuyên bố là '*hành động*, *hành động*'."
 
@@ -75,7 +75,7 @@ Như vậy, Thế Tôn đã làm cho Dīghatapassī xác nhận lập trường 
 Như vậy, Dīghatapassī đã làm cho Thế Tôn xác nhận lập trường trong cuộc thảo luận này cho đến lần thứ ba, rồi đứng dậy khỏi chỗ ngồi đi đến nơi [giáo chủ] Nāṭaputta [đang trú].
 
 <!--pg-->
-5\. Lúc bấy giờ, [giáo chủ] Nāṭaputta đang ngồi cùng với một hội chúng gia chủ đông đảo, đứng đầu là gia chủ Upāli, người dân làng Bālaka. [giáo chủ] Nāṭaputta nhìn thấy Dīghatapassī đang đi đến từ đằng xa; thấy Dīghatapassī, bèn nói: "Này Tapassī, ông từ đâu đến vào giữa ban ngày thế này?"
+5\. Lúc bấy giờ, [giáo chủ] Nāṭaputta đang ngồi cùng với một hội chúng gia chủ đông đảo, đứng đầu là gia chủ Upāli, người dân làng Bālaka. [giáo chủ] Nāṭaputta nhìn thấy Dīghatapassī đang đi đến từ đằng xa; thấy Dīghatapassī, bèn nói: "Này Tapassī, ông từ đâu đến vào giữa ban ngày thế này?" {#5}
 
 "Thưa ngài, tôi từ chỗ sa-môn Gotama đến đây."
 
@@ -86,18 +86,18 @@ Như vậy, Dīghatapassī đã làm cho Thế Tôn xác nhận lập trường 
 "Này Tapassī, cuộc trò chuyện giữa ông và sa-môn Gotama diễn ra như thế nào?" Rồi Dīghatapassī kể lại toàn bộ cuộc trò chuyện đã diễn ra với Thế Tôn cho [giáo chủ] Nāṭaputta nghe. Khi được nói vậy, [giáo chủ] Nāṭaputta nói với Dīghatapassī: "Tốt lắm, tốt lắm, Tapassī. Giống như một đệ tử có học hỏi, hiểu rõ giáo lý của bậc đạo sư, Dīghatapassī đã trả lời sa-môn Gotama đúng như vậy. Làm sao *hình phạt qua ý nghĩ* hèn mọn này có thể sánh được với *hình phạt qua thân* thô tháo này. Trái lại, *hình phạt qua thân* mới *mang lỗi nặng nhất* để thực hiện hành động sai trái, để diễn tiến hành động sai trái, *hình phạt qua lời nói* không bằng như vậy, *hình phạt qua ý nghĩ* không bằng như vậy."
 
 <!--pg-->
-7\. Khi được nói vậy, gia chủ Upāli nói với [giáo chủ] Nāṭaputta: "Tốt lắm, tốt lắm, thưa tôn giả Dīghatapassī. Giống như một đệ tử có học hỏi, hiểu rõ giáo lý của bậc đạo sư, tôn giả Tapassī đã trả lời sa-môn Gotama đúng như vậy. Làm sao *hình phạt qua ý nghĩ* hèn mọn này có thể sánh được với *hình phạt qua thân* thô tháo này. Trái lại, *hình phạt qua thân* mới *mang lỗi nặng nhất* để thực hiện hành động sai trái, để diễn tiến hành động sai trái, *hình phạt qua lời nói* không bằng như vậy, *hình phạt qua ý nghĩ* không bằng như vậy.
+7\. Khi được nói vậy, gia chủ Upāli nói với [giáo chủ] Nāṭaputta: "Tốt lắm, tốt lắm, thưa tôn giả Dīghatapassī. Giống như một đệ tử có học hỏi, hiểu rõ giáo lý của bậc đạo sư, tôn giả Tapassī đã trả lời sa-môn Gotama đúng như vậy. Làm sao *hình phạt qua ý nghĩ* hèn mọn này có thể sánh được với *hình phạt qua thân* thô tháo này. Trái lại, *hình phạt qua thân* mới *mang lỗi nặng nhất* để thực hiện hành động sai trái, để diễn tiến hành động sai trái, *hình phạt qua lời nói* không bằng như vậy, *hình phạt qua ý nghĩ* không bằng như vậy. {#7}
 
 Thưa ngài, bây giờ tôi sẽ đi và bác bỏ quan điểm của sa-môn Gotama trong cuộc thảo luận này. Nếu sa-môn Gotama giữ vững lập trường như tôn giả Tapassī đã xác lập; giống như một người đàn ông khỏe mạnh nắm lấy lông của một con cừu lông dài rồi kéo tới, kéo lui, kéo vòng quanh; cũng vậy, bằng lý luận, tôi sẽ kéo tới, kéo lui, kéo vòng quanh sa-môn Gotama. Giống như một người thợ nấu rượu khỏe mạnh ném một tấm phên lọc rượu lớn vào hồ nước sâu, nắm lấy góc phên rồi kéo tới, kéo lui, kéo vòng quanh; cũng vậy, bằng lý luận, tôi sẽ kéo tới, kéo lui, kéo vòng quanh sa-môn Gotama. Giống như một kẻ nghiện rượu khỏe mạnh nắm lấy góc màng lọc rượu rồi lắc lên, lắc xuống, giũ sạch; cũng vậy, bằng lý luận, tôi sẽ lắc lên, lắc xuống, giũ sạch sa-môn Gotama. Giống như một con voi sáu mươi tuổi đi xuống hồ sen sâu và chơi trò chơi gọi là 'rửa gai dầu'; cũng vậy, tôi sẽ chơi trò chơi 'rửa gai dầu' với sa-môn Gotama. Thưa ngài, bây giờ tôi sẽ đi và bác bỏ quan điểm của sa-môn Gotama trong cuộc thảo luận này."
 
 "Này gia chủ, ông hãy đi và bác bỏ quan điểm của sa-môn Gotama trong cuộc thảo luận này. Vì này gia chủ, hoặc tôi sẽ bác bỏ quan điểm của sa-môn Gotama, hoặc Dīghatapassī, hoặc là ông."
 
 <!--pg-->
-8\. Khi được nói vậy, Dīghatapassī nói với [giáo chủ] Nāṭaputta: "Thưa ngài, tôi không thích việc gia chủ Upāli đi bác bỏ quan điểm của sa-môn Gotama. Vì thưa ngài, sa-môn Gotama là người có xảo thuật, ông ta biết *phép thuật thu hút* (huyễn thuật chuyển hướng / āvaṭṭaniṁ māyaṁ) dùng để thu hút đệ tử của các đạo khác."
+8\. Khi được nói vậy, Dīghatapassī nói với [giáo chủ] Nāṭaputta: "Thưa ngài, tôi không thích việc gia chủ Upāli đi bác bỏ quan điểm của sa-môn Gotama. Vì thưa ngài, sa-môn Gotama là người có xảo thuật, ông ta biết *phép thuật thu hút* (huyễn thuật chuyển hướng / āvaṭṭaniṁ māyaṁ) dùng để thu hút đệ tử của các đạo khác." {#8}
 
 "Này Tapassī, điều này không thể xảy ra, không có cơ hội để gia chủ Upāli trở thành đệ tử của sa-môn Gotama. Nhưng điều này có thể xảy ra, đó là sa-môn Gotama trở thành đệ tử của gia chủ Upāli. Này gia chủ, ông hãy đi và bác bỏ quan điểm của sa-môn Gotama trong cuộc thảo luận này. Vì này gia chủ, hoặc tôi sẽ bác bỏ quan điểm của sa-môn Gotama, hoặc Dīghatapassī, hoặc là ông."
 
-9\. Lần thứ hai, Dīghatapassī [...lặp lại...] Lần thứ ba, Dīghatapassī nói với [giáo chủ] Nāṭaputta: "Thưa ngài, tôi không thích việc gia chủ Upāli đi bác bỏ quan điểm của sa-môn Gotama. Vì thưa ngài, sa-môn Gotama là người có xảo thuật, ông ta biết *phép thuật thu hút* dùng để thu hút đệ tử của các đạo khác."
+9\. Lần thứ hai, Dīghatapassī [...lặp lại...] Lần thứ ba, Dīghatapassī nói với [giáo chủ] Nāṭaputta: "Thưa ngài, tôi không thích việc gia chủ Upāli đi bác bỏ quan điểm của sa-môn Gotama. Vì thưa ngài, sa-môn Gotama là người có xảo thuật, ông ta biết *phép thuật thu hút* dùng để thu hút đệ tử của các đạo khác." {#9}
 
 "Này Tapassī, điều này không thể xảy ra, không có cơ hội để gia chủ Upāli trở thành đệ tử của sa-môn Gotama. Nhưng điều này có thể xảy ra, đó là sa-môn Gotama trở thành đệ tử của gia chủ Upāli. Này gia chủ, ông hãy đi và bác bỏ quan điểm của sa-môn Gotama trong cuộc thảo luận này. Vì này gia chủ, hoặc tôi sẽ bác bỏ quan điểm của sa-môn Gotama, hoặc Dīghatapassī, hoặc là ông."
 
@@ -114,14 +114,14 @@ Thưa ngài, bây giờ tôi sẽ đi và bác bỏ quan điểm của sa-môn G
 
 Rồi Thế Tôn kể lại toàn bộ cuộc trò chuyện đã diễn ra với Dīghatapassī cho gia chủ Upāli nghe.
 
-10\. Khi được nói vậy, gia chủ Upāli nói với Thế Tôn: "Tốt lắm, tốt lắm, thưa tôn giả Tapassī. Giống như một đệ tử có học hỏi, hiểu rõ giáo lý của bậc đạo sư, Dīghatapassī đã trả lời Thế Tôn đúng như vậy. Làm sao *hình phạt qua ý nghĩ* hèn mọn này có thể sánh được với *hình phạt qua thân* thô tháo này? Trái lại, *hình phạt qua thân* mới *mang lỗi nặng nhất* để thực hiện hành động sai trái, để diễn tiến hành động sai trái, *hình phạt qua lời nói* không bằng như vậy, *hình phạt qua ý nghĩ* không bằng như vậy."
+10\. Khi được nói vậy, gia chủ Upāli nói với Thế Tôn: "Tốt lắm, tốt lắm, thưa tôn giả Tapassī. Giống như một đệ tử có học hỏi, hiểu rõ giáo lý của bậc đạo sư, Dīghatapassī đã trả lời Thế Tôn đúng như vậy. Làm sao *hình phạt qua ý nghĩ* hèn mọn này có thể sánh được với *hình phạt qua thân* thô tháo này? Trái lại, *hình phạt qua thân* mới *mang lỗi nặng nhất* để thực hiện hành động sai trái, để diễn tiến hành động sai trái, *hình phạt qua lời nói* không bằng như vậy, *hình phạt qua ý nghĩ* không bằng như vậy." {#10}
 
 [Thế Tôn:]"Này gia chủ, nếu ông dựa trên sự thật để thảo luận, chúng ta có thể có một cuộc trò chuyện ở đây."
 
 "Bạch ngài, tôi sẽ dựa trên sự thật để thảo luận; hãy để chúng ta có một cuộc trò chuyện ở đây."
 
 <!--pg-->
-11\. "Này gia chủ, ông nghĩ thế nào, ở đây có một *tu sĩ đạo Jain* bị bệnh, đau đớn, ốm nặng, từ chối nước lạnh, chỉ dùng nước nóng. Người ấy không có được nước lạnh nên qua đời. Này gia chủ, [giáo chủ] Nāṭaputta tuyên bố người ấy tái sinh ở đâu?"
+11\. "Này gia chủ, ông nghĩ thế nào, ở đây có một *tu sĩ đạo Jain* bị bệnh, đau đớn, ốm nặng, từ chối nước lạnh, chỉ dùng nước nóng. Người ấy không có được nước lạnh nên qua đời. Này gia chủ, [giáo chủ] Nāṭaputta tuyên bố người ấy tái sinh ở đâu?" {#11}
 
 "Bạch ngài, có những chư thiên tên là 'Ý tát-đỏa' (Manosattā), người ấy tái sinh vào đó." "Vì lý do gì?" "Bạch ngài, vì người ấy qua đời khi tâm ý còn bị trói buộc."
 
@@ -129,7 +129,7 @@ Rồi Thế Tôn kể lại toàn bộ cuộc trò chuyện đã diễn ra với
 
 "Bạch ngài, dù Thế Tôn nói như vậy, nhưng *hình phạt qua thân* mới *mang lỗi nặng nhất* để thực hiện hành động sai trái, để diễn tiến hành động sai trái, *hình phạt qua lời nói* không bằng như vậy, *hình phạt qua ý nghĩ* không bằng như vậy."
 
-12\. "Này gia chủ, ông nghĩ thế nào, ở đây có [giáo chủ] Nāṭaputta được bảo vệ bởi sự thu thúc bốn loại cấm giới, từ chối mọi loại nước, gắn liền với việc từ chối mọi loại nước, gột rửa bằng việc từ chối mọi loại nước, thấm nhuần việc từ chối mọi loại nước. Khi bước tới bước lui, người ấy vô tình giết chết nhiều sinh vật nhỏ. Này gia chủ, [giáo chủ] Nāṭaputta tuyên bố quả báo gì cho người ấy?"
+12\. "Này gia chủ, ông nghĩ thế nào, ở đây có [giáo chủ] Nāṭaputta được bảo vệ bởi sự thu thúc bốn loại cấm giới, từ chối mọi loại nước, gắn liền với việc từ chối mọi loại nước, gột rửa bằng việc từ chối mọi loại nước, thấm nhuần việc từ chối mọi loại nước. Khi bước tới bước lui, người ấy vô tình giết chết nhiều sinh vật nhỏ. Này gia chủ, [giáo chủ] Nāṭaputta tuyên bố quả báo gì cho người ấy?" {#12}
 
 "Bạch ngài, [giáo chủ] Nāṭaputta tuyên bố nếu không có chủ ý, thì không mang lỗi nặng."
 
@@ -145,7 +145,7 @@ Rồi Thế Tôn kể lại toàn bộ cuộc trò chuyện đã diễn ra với
 
 "Bạch ngài, dù Thế Tôn nói như vậy, nhưng *hình phạt qua thân* mới *mang lỗi nặng nhất* để thực hiện hành động sai trái, để diễn tiến hành động sai trái, *hình phạt qua lời nói* không bằng như vậy, *hình phạt qua ý nghĩ* không bằng như vậy."
 
-13\. "Này gia chủ, ông nghĩ thế nào, thành Nāḷandā này có thịnh vượng và trù phú, có đông đúc người dân không?"
+13\. "Này gia chủ, ông nghĩ thế nào, thành Nāḷandā này có thịnh vượng và trù phú, có đông đúc người dân không?" {#13}
 
 "Vâng, bạch ngài, thành Nāḷandā này thịnh vượng và trù phú, đông đúc người dân."
 
@@ -165,42 +165,42 @@ Rồi Thế Tôn kể lại toàn bộ cuộc trò chuyện đã diễn ra với
 
 "Vâng, bạch ngài, tôi có nghe nói khu rừng Daṇḍakī, khu rừng Kāliṅga, khu rừng Majjhā, khu rừng Mātaṅga đã trở thành những khu rừng hoang vu."
 
-14\. "Này gia chủ, ông nghĩ thế nào, ông nghe nói do đâu mà khu rừng Daṇḍakī, khu rừng Kāliṅga, khu rừng Majjhā, khu rừng Mātaṅga trở thành những khu rừng hoang vu?"
+14\. "Này gia chủ, ông nghĩ thế nào, ông nghe nói do đâu mà khu rừng Daṇḍakī, khu rừng Kāliṅga, khu rừng Majjhā, khu rừng Mātaṅga trở thành những khu rừng hoang vu?" {#14}
 
 "Bạch ngài, tôi nghe nói do ý nghĩ thù hận của các vị tiên nhân mà khu rừng Daṇḍakī, khu rừng Kāliṅga, khu rừng Majjhā, khu rừng Mātaṅga trở thành những khu rừng hoang vu."
 
 "Này gia chủ, hãy suy nghĩ, sau khi suy nghĩ rồi hãy trả lời. Lời nói trước của ông không khớp với lời nói sau, lời nói sau không khớp với lời nói trước. Này gia chủ, ông đã nói lời này: 'Bạch ngài, tôi sẽ dựa trên sự thật để thảo luận; hãy để chúng ta có một cuộc trò chuyện ở đây'."
 
 <!--pg-->
-15\. "Bạch ngài, ngay từ ví dụ đầu tiên tôi đã hài lòng và hoan hỷ với Thế Tôn. Nhưng tôi muốn nghe những câu trả lời sắc bén và đa dạng của Thế Tôn, nên tôi nghĩ cần phải tạo ra sự đối nghịch với Thế Tôn.
+15\. "Bạch ngài, ngay từ ví dụ đầu tiên tôi đã hài lòng và hoan hỷ với Thế Tôn. Nhưng tôi muốn nghe những câu trả lời sắc bén và đa dạng của Thế Tôn, nên tôi nghĩ cần phải tạo ra sự đối nghịch với Thế Tôn. {#15}
 
 Tuyệt vời thay, bạch ngài! Tuyệt vời thay, bạch ngài! Bạch ngài, như người dựng đứng lại những gì bị quăng ngã sấp, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc hướng, đem đèn sáng vào trong bóng tối để những ai có mắt có thể thấy hình sắc; cũng vậy, *Giáo pháp* (pháp / dhamma) đã được Thế Tôn dùng nhiều phương tiện trình bày. Bạch ngài, nay tôi xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Xin Thế Tôn nhận tôi làm nam cư sĩ, đã quy y từ nay cho đến mạng chung."
 
-16\. "Này gia chủ, hãy *suy xét kỹ lưỡng* (thẩm sát / anuviccakāra). Sự *suy xét kỹ lưỡng* là tốt cho những người nổi tiếng như ông."
+16\. "Này gia chủ, hãy *suy xét kỹ lưỡng* (thẩm sát / anuviccakāra). Sự *suy xét kỹ lưỡng* là tốt cho những người nổi tiếng như ông." {#16}
 
 "Bạch ngài, với lời nói này của Thế Tôn: 'Này gia chủ, hãy *suy xét kỹ lưỡng*. Sự *suy xét kỹ lưỡng* là tốt cho những người nổi tiếng như ông', tôi lại càng hài lòng và hoan hỷ hơn nữa. Bạch ngài, nếu các đạo khác có được tôi làm đệ tử, họ sẽ rước cờ đi khắp thành Nāḷandā và tuyên bố: 'Gia chủ Upāli đã trở thành đệ tử của chúng tôi'. Nhưng Thế Tôn lại nói với tôi: 'Này gia chủ, hãy *suy xét kỹ lưỡng*. Sự *suy xét kỹ lưỡng* là tốt cho những người nổi tiếng như ông'.
 
 Bạch ngài, lần thứ hai, tôi xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Xin Thế Tôn nhận tôi làm nam cư sĩ, đã quy y từ nay cho đến mạng chung."
 
-17\. "Này gia chủ, gia đình ông từ lâu đã là nơi cung cấp vật thực cho các *tu sĩ đạo Jain*. Ông nên nghĩ đến việc tiếp tục bố thí cho họ khi họ đến."
+17\. "Này gia chủ, gia đình ông từ lâu đã là nơi cung cấp vật thực cho các *tu sĩ đạo Jain*. Ông nên nghĩ đến việc tiếp tục bố thí cho họ khi họ đến." {#17}
 
 "Bạch ngài, với lời nói này của Thế Tôn: 'Này gia chủ, gia đình ông từ lâu đã là nơi cung cấp vật thực cho các *tu sĩ đạo Jain*. Ông nên nghĩ đến việc tiếp tục bố thí cho họ khi họ đến', tôi lại càng hài lòng và hoan hỷ hơn nữa. Bạch ngài, tôi nghe nói sa-môn Gotama nói như sau: 'Chỉ nên bố thí cho Ta, không nên bố thí cho người khác; chỉ nên bố thí cho đệ tử của Ta, không nên bố thí cho đệ tử của người khác; chỉ bố thí cho Ta mới có quả lớn, bố thí cho người khác không có quả lớn; chỉ bố thí cho đệ tử của Ta mới có quả lớn, bố thí cho đệ tử của người khác không có quả lớn'. Nhưng Thế Tôn lại khuyên tôi bố thí cho cả các *tu sĩ đạo Jain*. Dù sao, bạch ngài, chúng tôi sẽ biết thời điểm thích hợp cho việc này.
 
 Bạch ngài, lần thứ ba, tôi xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Xin Thế Tôn nhận tôi làm nam cư sĩ, đã quy y từ nay cho đến mạng chung."
 
 <!--pg-->
-18\. Rồi Thế Tôn thuyết giảng tuần tự cho gia chủ Upāli, đó là—giảng về bố thí, giảng về đạo đức, giảng về cõi trời, trình bày sự nguy hiểm, sự thấp kém, sự ô nhiễm của *bản năng* (dục / kāma), và lợi ích của việc *rời bỏ* (viễn ly / viveka). Khi Thế Tôn biết tâm của gia chủ Upāli đã sẵn sàng, nhu nhuyễn, không còn bị che mờ, hân hoan và trong sáng, Ngài bèn trình bày giáo lý cốt tủy của chư Phật—*đau khổ* (khổ / dukkha), *sự hình thành* (tập / samudaya), *sự chấm dứt* (diệt / nirodha), *con đường* (đạo / magga). Giống như một tấm vải sạch, không có vết đen, sẽ dễ dàng thấm hút thuốc nhuộm; cũng vậy, ngay tại chỗ ngồi ấy, *con mắt Giáo pháp* (pháp nhãn / dhammacakkhu) không bụi bẩn, không tỳ vết đã sinh khởi trong gia chủ Upāli: "Phàm điều gì có *tính hình thành* (tập pháp / samudayadhamma), mọi điều đó đều *chịu sự cạn khô* (diệt pháp / nirodhadhamma)". Khi đó, gia chủ Upāli đã thấy *Giáo pháp*, đạt được *Giáo pháp*, thấu hiểu *Giáo pháp*, chìm sâu vào *Giáo pháp*, vượt qua nghi ngờ, loại bỏ sự do dự, đạt được sự tự tin, không còn phụ thuộc vào người khác trong giáo lý của bậc đạo sư, bèn nói với Thế Tôn:
+18\. Rồi Thế Tôn thuyết giảng tuần tự cho gia chủ Upāli, đó là—giảng về bố thí, giảng về đạo đức, giảng về cõi trời, trình bày sự nguy hiểm, sự thấp kém, sự ô nhiễm của *bản năng* (dục / kāma), và lợi ích của việc *rời bỏ* (viễn ly / viveka). Khi Thế Tôn biết tâm của gia chủ Upāli đã sẵn sàng, nhu nhuyễn, không còn bị che mờ, hân hoan và trong sáng, Ngài bèn trình bày giáo lý cốt tủy của chư Phật—*đau khổ* (khổ / dukkha), *sự hình thành* (tập / samudaya), *sự chấm dứt* (diệt / nirodha), *con đường* (đạo / magga). Giống như một tấm vải sạch, không có vết đen, sẽ dễ dàng thấm hút thuốc nhuộm; cũng vậy, ngay tại chỗ ngồi ấy, *con mắt Giáo pháp* (pháp nhãn / dhammacakkhu) không bụi bẩn, không tỳ vết đã sinh khởi trong gia chủ Upāli: "Phàm điều gì có *tính hình thành* (tập pháp / samudayadhamma), mọi điều đó đều *chịu sự cạn khô* (diệt pháp / nirodhadhamma)". Khi đó, gia chủ Upāli đã thấy *Giáo pháp*, đạt được *Giáo pháp*, thấu hiểu *Giáo pháp*, chìm sâu vào *Giáo pháp*, vượt qua nghi ngờ, loại bỏ sự do dự, đạt được sự tự tin, không còn phụ thuộc vào người khác trong giáo lý của bậc đạo sư, bèn nói với Thế Tôn: {#18}
 
 "Bạch ngài, bây giờ chúng tôi xin phép ra về, chúng tôi có nhiều việc phải làm, nhiều trách nhiệm phải lo."
 
 "Này gia chủ, ông hãy làm những gì ông cho là đúng lúc."
 
 <!--pg-->
-19\. Rồi gia chủ Upāli hoan hỷ và tán thán lời Thế Tôn dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh bên phải, rồi đi về nhà của mình; sau khi đến, ông gọi người gác cổng: "Này người gác cổng, từ hôm nay trở đi, ta đóng cửa đối với các nam nữ *tu sĩ đạo Jain*, và mở cửa đối với các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ của Thế Tôn. Nếu có *tu sĩ đạo Jain* nào đến, ngươi hãy nói với họ: 'Thưa ngài, xin hãy dừng lại, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama. Cửa đã đóng đối với các nam nữ *tu sĩ đạo Jain*, và mở cửa đối với các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ của Thế Tôn. Thưa ngài, nếu ngài cần vật thực, hãy đứng ngay tại đây, họ sẽ mang ra cho ngài ngay tại đây'."
+19\. Rồi gia chủ Upāli hoan hỷ và tán thán lời Thế Tôn dạy, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu quanh bên phải, rồi đi về nhà của mình; sau khi đến, ông gọi người gác cổng: "Này người gác cổng, từ hôm nay trở đi, ta đóng cửa đối với các nam nữ *tu sĩ đạo Jain*, và mở cửa đối với các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ của Thế Tôn. Nếu có *tu sĩ đạo Jain* nào đến, ngươi hãy nói với họ: 'Thưa ngài, xin hãy dừng lại, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama. Cửa đã đóng đối với các nam nữ *tu sĩ đạo Jain*, và mở cửa đối với các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ của Thế Tôn. Thưa ngài, nếu ngài cần vật thực, hãy đứng ngay tại đây, họ sẽ mang ra cho ngài ngay tại đây'." {#19}
 
 "Vâng, thưa ngài", người gác cổng vâng lời gia chủ Upāli.
 
-20\. Dīghatapassī nghe tin: "Gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama." Rồi Dīghatapassī đi đến nơi [giáo chủ] Nāṭaputta [đang trú]; sau khi đến, nói với [giáo chủ] Nāṭaputta: "Thưa ngài, tôi nghe nói gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama."
+20\. Dīghatapassī nghe tin: "Gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama." Rồi Dīghatapassī đi đến nơi [giáo chủ] Nāṭaputta [đang trú]; sau khi đến, nói với [giáo chủ] Nāṭaputta: "Thưa ngài, tôi nghe nói gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama." {#20}
 
 "Này Tapassī, điều này không thể xảy ra, không có cơ hội để gia chủ Upāli trở thành đệ tử của sa-môn Gotama. Nhưng điều này có thể xảy ra, đó là sa-môn Gotama trở thành đệ tử của gia chủ Upāli."
 
@@ -212,7 +212,7 @@ Lần thứ hai, Dīghatapassī [...lặp lại...] Lần thứ ba, Dīghatapass
 
 "Này Tapassī, ông hãy đi tìm hiểu xem gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama hay chưa."
 
-21\. Rồi Dīghatapassī đi đến nhà của gia chủ Upāli. Người gác cổng nhìn thấy Dīghatapassī đang đi đến từ đằng xa. Thấy Dīghatapassī, bèn nói: "Thưa ngài, xin hãy dừng lại, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama. Cửa đã đóng đối với các nam nữ *tu sĩ đạo Jain*, và mở cửa đối với các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ của Thế Tôn. Thưa ngài, nếu ngài cần vật thực, hãy đứng ngay tại đây, họ sẽ mang ra cho ngài ngay tại đây."
+21\. Rồi Dīghatapassī đi đến nhà của gia chủ Upāli. Người gác cổng nhìn thấy Dīghatapassī đang đi đến từ đằng xa. Thấy Dīghatapassī, bèn nói: "Thưa ngài, xin hãy dừng lại, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama. Cửa đã đóng đối với các nam nữ *tu sĩ đạo Jain*, và mở cửa đối với các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ của Thế Tôn. Thưa ngài, nếu ngài cần vật thực, hãy đứng ngay tại đây, họ sẽ mang ra cho ngài ngay tại đây." {#21}
 
 "Này bạn, tôi không cần vật thực", nói xong vị ấy quay lại và đi đến nơi [giáo chủ] Nāṭaputta [đang trú]; sau khi đến, nói với [giáo chủ] Nāṭaputta: "Thưa ngài, sự thật là gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama. Thưa ngài, tôi đã không đồng ý với ngài điều này, tôi đã không thích việc gia chủ Upāli đi bác bỏ quan điểm của sa-môn Gotama. Vì thưa ngài, sa-môn Gotama là người có xảo thuật, ông ta biết *phép thuật thu hút* dùng để thu hút đệ tử của các đạo khác. Thưa ngài, gia chủ Upāli đã bị sa-môn Gotama thu hút bằng *phép thuật thu hút* rồi."
 
@@ -224,7 +224,7 @@ Lần thứ hai, Dīghatapassī nói với [giáo chủ] Nāṭaputta: "Thưa ng
 
 "Này Tapassī, vậy chính tôi sẽ đi để tự mình tìm hiểu xem gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama hay chưa."
 
-22\. Rồi [giáo chủ] Nāṭaputta cùng với một hội chúng *tu sĩ đạo Jain* đông đảo đi đến nhà của gia chủ Upāli. Người gác cổng nhìn thấy [giáo chủ] Nāṭaputta đang đi đến từ đằng xa. Thấy [giáo chủ] Nāṭaputta, bèn nói: "Thưa ngài, xin hãy dừng lại, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama. Cửa đã đóng đối với các nam nữ *tu sĩ đạo Jain*, và mở cửa đối với các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ của Thế Tôn. Thưa ngài, nếu ngài cần vật thực, hãy đứng ngay tại đây, họ sẽ mang ra cho ngài ngay tại đây."
+22\. Rồi [giáo chủ] Nāṭaputta cùng với một hội chúng *tu sĩ đạo Jain* đông đảo đi đến nhà của gia chủ Upāli. Người gác cổng nhìn thấy [giáo chủ] Nāṭaputta đang đi đến từ đằng xa. Thấy [giáo chủ] Nāṭaputta, bèn nói: "Thưa ngài, xin hãy dừng lại, đừng vào. Từ hôm nay, gia chủ Upāli đã trở thành đệ tử của sa-môn Gotama. Cửa đã đóng đối với các nam nữ *tu sĩ đạo Jain*, và mở cửa đối với các tỳ kheo, tỳ kheo ni, nam cư sĩ, nữ cư sĩ của Thế Tôn. Thưa ngài, nếu ngài cần vật thực, hãy đứng ngay tại đây, họ sẽ mang ra cho ngài ngay tại đây." {#22}
 
 "Này người gác cổng, vậy ngươi hãy đi đến chỗ gia chủ Upāli; sau khi đến, hãy nói với gia chủ Upāli như sau: 'Thưa ngài, [giáo chủ] Nāṭaputta cùng với hội chúng *tu sĩ đạo Jain* đông đảo đang đứng ở cổng ngoài; ngài ấy muốn gặp ngài'."
 
@@ -233,18 +233,18 @@ Lần thứ hai, Dīghatapassī nói với [giáo chủ] Nāṭaputta: "Thưa ng
 "Vâng, thưa ngài", người gác cổng vâng lời gia chủ Upāli, sắp xếp các chỗ ngồi ở sảnh giữa rồi đi đến chỗ gia chủ Upāli; sau khi đến, nói với gia chủ Upāli: "Thưa ngài, các chỗ ngồi đã được sắp xếp ở sảnh giữa. Ngài hãy làm những gì ngài cho là đúng lúc."
 
 
-23\. Rồi gia chủ Upāli đi đến sảnh giữa; sau khi đến, ông tự mình ngồi vào chỗ ngồi cao nhất, tốt nhất, cao trọng nhất, thù thắng nhất, rồi gọi người gác cổng: "Này người gác cổng, vậy ngươi hãy đi đến chỗ [giáo chủ] Nāṭaputta; sau khi đến, hãy nói với [giáo chủ] Nāṭaputta như sau: 'Thưa ngài, gia chủ Upāli nói thế này—thưa ngài, xin mời vào nếu ngài muốn'."
+23\. Rồi gia chủ Upāli đi đến sảnh giữa; sau khi đến, ông tự mình ngồi vào chỗ ngồi cao nhất, tốt nhất, cao trọng nhất, thù thắng nhất, rồi gọi người gác cổng: "Này người gác cổng, vậy ngươi hãy đi đến chỗ [giáo chủ] Nāṭaputta; sau khi đến, hãy nói với [giáo chủ] Nāṭaputta như sau: 'Thưa ngài, gia chủ Upāli nói thế này—thưa ngài, xin mời vào nếu ngài muốn'." {#23}
 
 "Vâng, thưa ngài", người gác cổng vâng lời gia chủ Upāli, đi đến chỗ [giáo chủ] Nāṭaputta; sau khi đến, nói với [giáo chủ] Nāṭaputta: "Thưa ngài, gia chủ Upāli nói thế này: 'Thưa ngài, xin mời vào nếu ngài muốn'."
 
 <!--pg-->
 Rồi [giáo chủ] Nāṭaputta cùng với hội chúng *tu sĩ đạo Jain* đông đảo đi đến sảnh giữa. Lúc bấy giờ, gia chủ Upāli—người mà trước đây mỗi khi thấy [giáo chủ] Nāṭaputta đi đến từ xa, liền ra đón, lấy y trên của mình lau sạch chỗ ngồi cao nhất, tốt nhất, cao trọng nhất, thù thắng nhất rồi mời ngồi—nay lại tự mình ngồi vào chỗ ngồi cao nhất, tốt nhất, cao trọng nhất, thù thắng nhất, và nói với [giáo chủ] Nāṭaputta: "Thưa ngài, có sẵn các chỗ ngồi; nếu muốn, ngài hãy ngồi xuống."
 
-25\. Khi được nói vậy, [giáo chủ] Nāṭaputta nói với gia chủ Upāli: "Ông điên rồi, gia chủ, ông ngu ngốc rồi, gia chủ. Ông nói 'Thưa ngài, tôi sẽ đi bác bỏ quan điểm của sa-môn Gotama', nhưng khi đi, ông lại trở về bị trói buộc trong một mớ lý luận lớn. Này gia chủ, giống như một người đi thiến tinh hoàn, khi đi lại trở về với tinh hoàn bị cắt bỏ; hay này gia chủ, giống như một người đi móc mắt, khi đi lại trở về với đôi mắt bị móc ra; cũng vậy, này gia chủ, ông nói 'Thưa ngài, tôi sẽ đi bác bỏ quan điểm của sa-môn Gotama', nhưng khi đi, ông lại trở về bị trói buộc trong một mớ lý luận lớn. Này gia chủ, ông đã bị sa-môn Gotama thu hút bằng *phép thuật thu hút* rồi."
+25\. Khi được nói vậy, [giáo chủ] Nāṭaputta nói với gia chủ Upāli: "Ông điên rồi, gia chủ, ông ngu ngốc rồi, gia chủ. Ông nói 'Thưa ngài, tôi sẽ đi bác bỏ quan điểm của sa-môn Gotama', nhưng khi đi, ông lại trở về bị trói buộc trong một mớ lý luận lớn. Này gia chủ, giống như một người đi thiến tinh hoàn, khi đi lại trở về với tinh hoàn bị cắt bỏ; hay này gia chủ, giống như một người đi móc mắt, khi đi lại trở về với đôi mắt bị móc ra; cũng vậy, này gia chủ, ông nói 'Thưa ngài, tôi sẽ đi bác bỏ quan điểm của sa-môn Gotama', nhưng khi đi, ông lại trở về bị trói buộc trong một mớ lý luận lớn. Này gia chủ, ông đã bị sa-môn Gotama thu hút bằng *phép thuật thu hút* rồi." {#25}
 
-26\. "Thưa ngài, *phép thuật thu hút* này thật tốt đẹp; thưa ngài, *phép thuật thu hút* này thật tuyệt vời; thưa ngài, nếu những người bà con huyết thống yêu quý của tôi bị thu hút bởi *phép thuật thu hút* này, điều đó sẽ mang lại hạnh phúc và an lạc lâu dài cho những người bà con huyết thống yêu quý của tôi; thưa ngài, nếu tất cả Sát-đế-lỵ bị thu hút bởi *phép thuật thu hút* này, điều đó sẽ mang lại hạnh phúc và an lạc lâu dài cho tất cả Sát-đế-lỵ; thưa ngài, nếu tất cả Bà-la-môn... [...lặp lại...] Phệ-xá... [...lặp lại...] Thủ-đà-la bị thu hút bởi *phép thuật thu hút* này, điều đó sẽ mang lại hạnh phúc và an lạc lâu dài cho tất cả Thủ-đà-la; thưa ngài, nếu toàn bộ thế giới với chư thiên, Ma vương, Phạm thiên, cùng với quần chúng sa-môn, bà-la-môn, chư thiên và loài người bị thu hút bởi *phép thuật thu hút* này, điều đó sẽ mang lại hạnh phúc và an lạc lâu dài cho toàn bộ thế giới với chư thiên, Ma vương, Phạm thiên, cùng với quần chúng sa-môn, bà-la-môn, chư thiên và loài người. Thưa ngài, vậy tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người trí ở đây có thể hiểu được ý nghĩa của lời nói.
+26\. "Thưa ngài, *phép thuật thu hút* này thật tốt đẹp; thưa ngài, *phép thuật thu hút* này thật tuyệt vời; thưa ngài, nếu những người bà con huyết thống yêu quý của tôi bị thu hút bởi *phép thuật thu hút* này, điều đó sẽ mang lại hạnh phúc và an lạc lâu dài cho những người bà con huyết thống yêu quý của tôi; thưa ngài, nếu tất cả Sát-đế-lỵ bị thu hút bởi *phép thuật thu hút* này, điều đó sẽ mang lại hạnh phúc và an lạc lâu dài cho tất cả Sát-đế-lỵ; thưa ngài, nếu tất cả Bà-la-môn... [...lặp lại...] Phệ-xá... [...lặp lại...] Thủ-đà-la bị thu hút bởi *phép thuật thu hút* này, điều đó sẽ mang lại hạnh phúc và an lạc lâu dài cho tất cả Thủ-đà-la; thưa ngài, nếu toàn bộ thế giới với chư thiên, Ma vương, Phạm thiên, cùng với quần chúng sa-môn, bà-la-môn, chư thiên và loài người bị thu hút bởi *phép thuật thu hút* này, điều đó sẽ mang lại hạnh phúc và an lạc lâu dài cho toàn bộ thế giới với chư thiên, Ma vương, Phạm thiên, cùng với quần chúng sa-môn, bà-la-môn, chư thiên và loài người. Thưa ngài, vậy tôi sẽ đưa ra một ví dụ cho ngài. Nhờ ví dụ, một số người trí ở đây có thể hiểu được ý nghĩa của lời nói. {#26}
 
-27\. Thưa ngài, thuở xưa, có một bà-la-môn già cả, lớn tuổi, suy yếu, có một người vợ trẻ đang mang thai sắp sinh. Thưa ngài, người vợ trẻ đó nói với bà-la-môn: 'Này bà-la-môn, ông hãy đi ra chợ mua một con khỉ con mang về đây, nó sẽ là đồ chơi cho đứa con trai của tôi'.
+27\. Thưa ngài, thuở xưa, có một bà-la-môn già cả, lớn tuổi, suy yếu, có một người vợ trẻ đang mang thai sắp sinh. Thưa ngài, người vợ trẻ đó nói với bà-la-môn: 'Này bà-la-môn, ông hãy đi ra chợ mua một con khỉ con mang về đây, nó sẽ là đồ chơi cho đứa con trai của tôi'. {#27}
 
 Khi được nói vậy, bà-la-môn nói với người vợ trẻ: 'Này phu nhân, hãy đợi cho đến khi sinh đã. Nếu phu nhân sinh con trai, tôi sẽ ra chợ mua một con khỉ con mang về, nó sẽ là đồ chơi cho đứa con trai của phu nhân. Nhưng nếu phu nhân sinh con gái, tôi sẽ ra chợ mua một con khỉ cái con mang về, nó sẽ là đồ chơi cho đứa con gái của phu nhân'.
 
@@ -266,9 +266,9 @@ Khi được nói vậy, thưa ngài, người thợ nhuộm Rattapāṇi nói v
 
 Cũng vậy, thưa ngài, giáo lý của Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác chịu đựng được màu sắc đối với những người trí, không đối với những kẻ ngu ngốc, chịu được sự tra vấn, và chịu được sự chà xát."
 
-28\. "Này gia chủ, hội chúng cùng với nhà vua đều biết: 'Gia chủ Upāli là đệ tử của [giáo chủ] Nāṭaputta'. Này gia chủ, chúng tôi nên xem ông là đệ tử của ai?"
+28\. "Này gia chủ, hội chúng cùng với nhà vua đều biết: 'Gia chủ Upāli là đệ tử của [giáo chủ] Nāṭaputta'. Này gia chủ, chúng tôi nên xem ông là đệ tử của ai?" {#28}
 
-29\. Khi được nói vậy, gia chủ Upāli đứng dậy khỏi chỗ ngồi, đắp y trên một bên vai, chắp tay hướng về phía Thế Tôn và nói với [giáo chủ] Nāṭaputta: "Thưa ngài, vậy hãy nghe tôi là đệ tử của ai:
+29\. Khi được nói vậy, gia chủ Upāli đứng dậy khỏi chỗ ngồi, đắp y trên một bên vai, chắp tay hướng về phía Thế Tôn và nói với [giáo chủ] Nāṭaputta: "Thưa ngài, vậy hãy nghe tôi là đệ tử của ai: {#29}
 
 > Bậc trí diệt si mê,\
 > Phá chốt đạt toàn thắng;\
@@ -340,10 +340,10 @@ Cũng vậy, thưa ngài, giáo lý của Thế Tôn, bậc A-la-hán, Chánh Đ
 > Vĩ đại đạt danh xưng,\
 > Tôi đệ tử Thế Tôn."
 
-30\. "Này gia chủ, ông đã thu thập những lời ca ngợi sa-môn Gotama này từ khi nào?"
+30\. "Này gia chủ, ông đã thu thập những lời ca ngợi sa-môn Gotama này từ khi nào?" {#30}
 
 "Thưa ngài, giống như một đống hoa lớn gồm nhiều loại hoa khác nhau, một người thợ kết hoa khéo léo hoặc đệ tử của người thợ kết hoa có thể kết thành một vòng hoa rực rỡ; cũng vậy, thưa ngài, Thế Tôn có vô số đức hạnh, hàng trăm đức hạnh. Thưa ngài, ai lại không ca ngợi bậc đáng được ca ngợi?"
 
-31\. Khi đó, vì không thể chịu đựng được sự tôn kính dành cho Thế Tôn, [giáo chủ] Nāṭaputta đã nôn ra máu nóng ngay tại chỗ.
+31\. Khi đó, vì không thể chịu đựng được sự tôn kính dành cho Thế Tôn, [giáo chủ] Nāṭaputta đã nôn ra máu nóng ngay tại chỗ. {#31}
 
 Kinh Upāli thứ sáu kết thúc.

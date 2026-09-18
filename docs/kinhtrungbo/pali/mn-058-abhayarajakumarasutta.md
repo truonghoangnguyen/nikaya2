@@ -1,26 +1,26 @@
 # MN 58. Abhayarājakumārasutta
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. {#1}
 
-2\. Atha kho abhayo rājakumāro yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṁ nāṭaputtaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho abhayaṁ rājakumāraṁ nigaṇṭho nāṭaputto etadavoca: “ehi tvaṁ, rājakumāra, samaṇassa gotamassa vādaṁ āropehi. Evaṁ te kalyāṇo kittisaddo abbhuggacchissati: ‘abhayena rājakumārena samaṇassa gotamassa evaṁ mahiddhikassa evaṁ mahānubhāvassa vādo āropito’”ti.
+2\. Atha kho abhayo rājakumāro yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṁ nāṭaputtaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho abhayaṁ rājakumāraṁ nigaṇṭho nāṭaputto etadavoca: “ehi tvaṁ, rājakumāra, samaṇassa gotamassa vādaṁ āropehi. Evaṁ te kalyāṇo kittisaddo abbhuggacchissati: ‘abhayena rājakumārena samaṇassa gotamassa evaṁ mahiddhikassa evaṁ mahānubhāvassa vādo āropito’”ti. {#2}
 
-3\. “Yathā kathaṁ panāhaṁ, bhante, samaṇassa gotamassa evaṁ mahiddhikassa evaṁ mahānubhāvassa vādaṁ āropessāmī”ti?
+3\. “Yathā kathaṁ panāhaṁ, bhante, samaṇassa gotamassa evaṁ mahiddhikassa evaṁ mahānubhāvassa vādaṁ āropessāmī”ti? {#3}
 
 “Ehi tvaṁ, rājakumāra, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā samaṇaṁ gotamaṁ evaṁ vadehi: ‘bhāseyya nu kho, bhante, tathāgato taṁ vācaṁ yā sā vācā paresaṁ appiyā amanāpā’ti? Sace te samaṇo gotamo evaṁ puṭṭho evaṁ byākaroti: ‘bhāseyya, rājakumāra, tathāgato taṁ vācaṁ yā sā vācā paresaṁ appiyā amanāpā’ti, tamenaṁ tvaṁ evaṁ vadeyyāsi: ‘atha kiñcarahi te, bhante, puthujjanena nānākaraṇaṁ? Puthujjanopi hi taṁ vācaṁ bhāseyya yā sā vācā paresaṁ appiyā amanāpā’ti. Sace pana te samaṇo gotamo evaṁ puṭṭho evaṁ byākaroti: ‘na, rājakumāra, tathāgato taṁ vācaṁ bhāseyya yā sā vācā paresaṁ appiyā amanāpā’ti, tamenaṁ tvaṁ evaṁ vadeyyāsi: ‘atha kiñcarahi te, bhante, devadatto byākato: “āpāyiko devadatto, nerayiko devadatto, kappaṭṭho devadatto, atekiccho devadatto”ti? Tāya ca pana te vācāya devadatto kupito ahosi anattamano’ti.
 
 Imaṁ kho te, rājakumāra, samaṇo gotamo ubhatokoṭikaṁ pañhaṁ puṭṭho samāno neva sakkhiti uggilituṁ na sakkhiti ogilituṁ. Seyyathāpi nāma purisassa ayosiṅghāṭakaṁ kaṇṭhe vilaggaṁ, so neva sakkuṇeyya uggilituṁ na sakkuṇeyya ogilituṁ; evameva kho te, rājakumāra, samaṇo gotamo imaṁ ubhatokoṭikaṁ pañhaṁ puṭṭho samāno neva sakkhiti uggilituṁ na sakkhiti ogilitun”ti.
 
-4\. “Evaṁ, bhante”ti kho abhayo rājakumāro nigaṇṭhassa nāṭaputtassa paṭissutvā uṭṭhāyāsanā nigaṇṭhaṁ nāṭaputtaṁ abhivādetvā padakkhiṇaṁ katvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.
+4\. “Evaṁ, bhante”ti kho abhayo rājakumāro nigaṇṭhassa nāṭaputtassa paṭissutvā uṭṭhāyāsanā nigaṇṭhaṁ nāṭaputtaṁ abhivādetvā padakkhiṇaṁ katvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. {#4}
 
 Ekamantaṁ nisinnassa kho abhayassa rājakumārassa sūriyaṁ ulloketvā etadahosi: “akālo kho ajja bhagavato vādaṁ āropetuṁ. Sve dānāhaṁ sake nivesane bhagavato vādaṁ āropessāmī”ti bhagavantaṁ etadavoca: “adhivāsetu me, bhante, bhagavā svātanāya attacatuttho bhattan”ti. Adhivāsesi bhagavā tuṇhībhāvena.
 
-5\. Atha kho abhayo rājakumāro bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+5\. Atha kho abhayo rājakumāro bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. {#5}
 
 Atha kho bhagavā tassā rattiyā accayena pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena abhayassa rājakumārassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho abhayo rājakumāro bhagavantaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.
 
 Atha kho abhayo rājakumāro bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho abhayo rājakumāro bhagavantaṁ etadavoca: “bhāseyya nu kho, bhante, tathāgato taṁ vācaṁ yā sā vācā paresaṁ appiyā amanāpā”ti?
 
-6\. “Na khvettha, rājakumāra, ekaṁsenā”ti.
+6\. “Na khvettha, rājakumāra, ekaṁsenā”ti. {#6}
 
 “Ettha, bhante, anassuṁ nigaṇṭhā”ti.
 
@@ -28,15 +28,15 @@ Atha kho abhayo rājakumāro bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ a�
 
 “Idhāhaṁ, bhante, yena nigaṇṭho nāṭaputto tenupasaṅkami; upasaṅkamitvā nigaṇṭhaṁ nāṭaputtaṁ abhivādetvā ekamantaṁ nisīdiṁ. Ekamantaṁ nisinnaṁ kho maṁ, bhante, nigaṇṭho nāṭaputto etadavoca: ‘ehi tvaṁ, rājakumāra, samaṇassa gotamassa vādaṁ āropehi. Evaṁ te kalyāṇo kittisaddo abbhuggacchissati—abhayena rājakumārena samaṇassa gotamassa evaṁ mahiddhikassa evaṁ mahānubhāvassa vādo āropito’ti. Evaṁ vutte, ahaṁ, bhante, nigaṇṭhaṁ nāṭaputtaṁ etadavocaṁ: ‘yathā kathaṁ panāhaṁ, bhante, samaṇassa gotamassa evaṁ mahiddhikassa evaṁ mahānubhāvassa vādaṁ āropessāmī’ti? ‘Ehi tvaṁ, rājakumāra, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā samaṇaṁ gotamaṁ evaṁ vadehi: “bhāseyya nu kho, bhante, tathāgato taṁ vācaṁ yā sā vācā paresaṁ appiyā amanāpā”ti? Sace te samaṇo gotamo evaṁ puṭṭho evaṁ byākaroti: “bhāseyya, rājakumāra, tathāgato taṁ vācaṁ yā sā vācā paresaṁ appiyā amanāpā”ti, tamenaṁ tvaṁ evaṁ vadeyyāsi: “atha kiñcarahi te, bhante, puthujjanena nānākaraṇaṁ? Puthujjanopi hi taṁ vācaṁ bhāseyya yā sā vācā paresaṁ appiyā amanāpā”ti. Sace pana te samaṇo gotamo evaṁ puṭṭho evaṁ byākaroti: “na, rājakumāra, tathāgato taṁ vācaṁ bhāseyya yā sā vācā paresaṁ appiyā amanāpā”ti, tamenaṁ tvaṁ evaṁ vadeyyāsi—atha kiñcarahi te, bhante, devadatto byākato: “āpāyiko devadatto, nerayiko devadatto, kappaṭṭho devadatto, atekiccho devadatto”ti? Tāya ca pana te vācāya devadatto kupito ahosi anattamano’ti. Imaṁ kho te, rājakumāra, samaṇo gotamo ubhatokoṭikaṁ pañhaṁ puṭṭho samāno neva sakkhiti uggilituṁ na sakkhiti ogilituṁ. Seyyathāpi nāma purisassa ayosiṅghāṭakaṁ kaṇṭhe vilaggaṁ, so neva sakkuṇeyya uggilituṁ na sakkuṇeyya ogilituṁ; evameva kho te, rājakumāra, samaṇo gotamo imaṁ ubhatokoṭikaṁ pañhaṁ puṭṭho samāno neva sakkhiti uggilituṁ na sakkhiti ogilitun”ti.
 
-7\. Tena kho pana samayena daharo kumāro mando uttānaseyyako abhayassa rājakumārassa aṅke nisinno hoti. Atha kho bhagavā abhayaṁ rājakumāraṁ etadavoca: “Taṁ kiṁ maññasi, rājakumāra, sacāyaṁ kumāro tuyhaṁ vā pamādamanvāya dhātiyā vā pamādamanvāya kaṭṭhaṁ vā kaṭhalaṁ vā mukhe āhareyya, kinti naṁ kareyyāsī”ti?
+7\. Tena kho pana samayena daharo kumāro mando uttānaseyyako abhayassa rājakumārassa aṅke nisinno hoti. Atha kho bhagavā abhayaṁ rājakumāraṁ etadavoca: “Taṁ kiṁ maññasi, rājakumāra, sacāyaṁ kumāro tuyhaṁ vā pamādamanvāya dhātiyā vā pamādamanvāya kaṭṭhaṁ vā kaṭhalaṁ vā mukhe āhareyya, kinti naṁ kareyyāsī”ti? {#7}
 
 “Āhareyyassāhaṁ, bhante. Sace, bhante, na sakkuṇeyyaṁ ādikeneva āhattuṁ, vāmena hatthena sīsaṁ pariggahetvā dakkhiṇena hatthena vaṅkaṅguliṁ karitvā salohitampi āhareyyaṁ. Taṁ kissa hetu? Atthi me, bhante, kumāre anukampā”ti.
 
-8\. “Evameva kho, rājakumāra, yaṁ tathāgato vācaṁ jānāti abhūtaṁ atacchaṁ anatthasaṁhitaṁ sā ca paresaṁ appiyā amanāpā, na taṁ tathāgato vācaṁ bhāsati. Yampi tathāgato vācaṁ jānāti bhūtaṁ tacchaṁ anatthasaṁhitaṁ sā ca paresaṁ appiyā amanāpā, tampi tathāgato vācaṁ na bhāsati. Yañca kho tathāgato vācaṁ jānāti bhūtaṁ tacchaṁ atthasaṁhitaṁ sā ca paresaṁ appiyā amanāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya. Yaṁ tathāgato vācaṁ jānāti abhūtaṁ atacchaṁ anatthasaṁhitaṁ sā ca paresaṁ piyā manāpā, na taṁ tathāgato vācaṁ bhāsati. Yampi tathāgato vācaṁ jānāti bhūtaṁ tacchaṁ anatthasaṁhitaṁ sā ca paresaṁ piyā manāpā tampi tathāgato vācaṁ na bhāsati. Yañca tathāgato vācaṁ jānāti bhūtaṁ tacchaṁ atthasaṁhitaṁ sā ca paresaṁ piyā manāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya. Taṁ kissa hetu? Atthi, rājakumāra, tathāgatassa sattesu anukampā”ti.
+8\. “Evameva kho, rājakumāra, yaṁ tathāgato vācaṁ jānāti abhūtaṁ atacchaṁ anatthasaṁhitaṁ sā ca paresaṁ appiyā amanāpā, na taṁ tathāgato vācaṁ bhāsati. Yampi tathāgato vācaṁ jānāti bhūtaṁ tacchaṁ anatthasaṁhitaṁ sā ca paresaṁ appiyā amanāpā, tampi tathāgato vācaṁ na bhāsati. Yañca kho tathāgato vācaṁ jānāti bhūtaṁ tacchaṁ atthasaṁhitaṁ sā ca paresaṁ appiyā amanāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya. Yaṁ tathāgato vācaṁ jānāti abhūtaṁ atacchaṁ anatthasaṁhitaṁ sā ca paresaṁ piyā manāpā, na taṁ tathāgato vācaṁ bhāsati. Yampi tathāgato vācaṁ jānāti bhūtaṁ tacchaṁ anatthasaṁhitaṁ sā ca paresaṁ piyā manāpā tampi tathāgato vācaṁ na bhāsati. Yañca tathāgato vācaṁ jānāti bhūtaṁ tacchaṁ atthasaṁhitaṁ sā ca paresaṁ piyā manāpā, tatra kālaññū tathāgato hoti tassā vācāya veyyākaraṇāya. Taṁ kissa hetu? Atthi, rājakumāra, tathāgatassa sattesu anukampā”ti. {#8}
 
-9\. “Yeme, bhante, khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṁ abhisaṅkharitvā tathāgataṁ upasaṅkamitvā pucchanti, pubbeva nu kho, etaṁ, bhante, bhagavato cetaso parivitakkitaṁ hoti ‘ye maṁ upasaṅkamitvā evaṁ pucchissanti tesāhaṁ evaṁ puṭṭho evaṁ byākarissāmī’ti, udāhu ṭhānasovetaṁ tathāgataṁ paṭibhātī”ti?
+9\. “Yeme, bhante, khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṁ abhisaṅkharitvā tathāgataṁ upasaṅkamitvā pucchanti, pubbeva nu kho, etaṁ, bhante, bhagavato cetaso parivitakkitaṁ hoti ‘ye maṁ upasaṅkamitvā evaṁ pucchissanti tesāhaṁ evaṁ puṭṭho evaṁ byākarissāmī’ti, udāhu ṭhānasovetaṁ tathāgataṁ paṭibhātī”ti? {#9}
 
-10\. “Tena hi, rājakumāra, taññevettha paṭipucchissāmi, yathā te khameyya tathā naṁ byākareyyāsi. Taṁ kiṁ maññasi, rājakumāra, kusalo tvaṁ rathassa aṅgapaccaṅgānan”ti?
+10\. “Tena hi, rājakumāra, taññevettha paṭipucchissāmi, yathā te khameyya tathā naṁ byākareyyāsi. Taṁ kiṁ maññasi, rājakumāra, kusalo tvaṁ rathassa aṅgapaccaṅgānan”ti? {#10}
 
 “Evaṁ, bhante, kusalo ahaṁ rathassa aṅgapaccaṅgānan”ti.
 
@@ -44,8 +44,8 @@ Atha kho abhayo rājakumāro bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ a�
 
 “Ahañhi, bhante, rathiko saññāto kusalo rathassa aṅgapaccaṅgānaṁ. Sabbāni me rathassa aṅgapaccaṅgāni suviditāni. Ṭhānasovetaṁ maṁ paṭibhāseyyā”ti.
 
-11\. “Evameva kho, rājakumāra, ye te khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṁ abhisaṅkharitvā tathāgataṁ upasaṅkamitvā pucchanti, ṭhānasovetaṁ tathāgataṁ paṭibhāti. Taṁ kissa hetu? Sā hi, rājakumāra, tathāgatassa dhammadhātu suppaṭividdhā yassā dhammadhātuyā suppaṭividdhattā ṭhānasovetaṁ tathāgataṁ paṭibhātī”ti.
+11\. “Evameva kho, rājakumāra, ye te khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi pañhaṁ abhisaṅkharitvā tathāgataṁ upasaṅkamitvā pucchanti, ṭhānasovetaṁ tathāgataṁ paṭibhāti. Taṁ kissa hetu? Sā hi, rājakumāra, tathāgatassa dhammadhātu suppaṭividdhā yassā dhammadhātuyā suppaṭividdhattā ṭhānasovetaṁ tathāgataṁ paṭibhātī”ti. {#11}
 
-12\. Evaṁ vutte, abhayo rājakumāro bhagavantaṁ etadavoca: “abhikkantaṁ, bhante, abhikkantaṁ, bhante …pe… ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+12\. Evaṁ vutte, abhayo rājakumāro bhagavantaṁ etadavoca: “abhikkantaṁ, bhante, abhikkantaṁ, bhante …pe… ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti. {#12}
 
 Abhayarājakumārasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
