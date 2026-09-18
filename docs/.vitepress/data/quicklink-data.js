@@ -3,16 +3,18 @@
 import an_tmc from './link-an-sujato-tmc'
 // import an_sujato_vi from './link-an-sujato-vi'
 // import mn_tmc from './link-mn-tmc'
-import mn_pali_tmc_vi from './link-mn-pali-tmc-vi'
+
 import dn_pali_tmc_vi from './link-dn-pali-tmc-vi'
 import sn_sujato_tmc_vi from './link-sn-sujato-tmc'
 import kn from './link-kn'
 import mv from './link-mv'
 import cv from './link-cv.json'
+import mn from './link-mn'
 
 // kinh tiểu bộ sẽ ra rất nhiều mã
 export default {
   ...kn,
+  ...mn,
   sn: {
     folder: "kinhtuongung",
     name: "Kinh Tương Ưng",
@@ -38,24 +40,24 @@ export default {
     }
   },
 
-  mn: {
-    folder: "kinhtrungbo",
-    name: "Kinh Trung Bộ",
-    editions: {
-      pali_tmc: {
-        label: "Trung Bộ: Pali - TM Châu",
-        path: "c-pali-tmc-vi",
-        index_length: 2,
-        items: mn_pali_tmc_vi
-      },
-      nm_tmc: {
-        label: "Trung Bộ: Nanamoli - TM Châu",
-        path: "c-nm-tmc-vi",
-        index_length: 2,
-        items: mn_pali_tmc_vi
-      }
-    }
-  },
+  // mn: {
+  //   folder: "kinhtrungbo",
+  //   name: "Kinh Trung Bộ",
+  //   editions: {
+  //     pali_tmc: {
+  //       label: "Trung Bộ: Pali - TM Châu",
+  //       path: "c-pali-tmc-vi",
+  //       index_length: 2,
+  //       items: mn_pali_tmc_vi
+  //     },
+  //     nm_tmc: {
+  //       label: "Trung Bộ: Nanamoli - TM Châu",
+  //       path: "c-nm-tmc-vi",
+  //       index_length: 2,
+  //       items: mn_pali_tmc_vi
+  //     }
+  //   }
+  // },
 
   dn: {
     folder: "kinhtruongbo",
