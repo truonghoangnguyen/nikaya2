@@ -1,0 +1,66 @@
+import MarkdownIt from 'markdown-it'
+
+// Xử lý `{#id}` cuối đoạn văn một cách độc lập với markdown-it-attrs.
+// markdown-it-attrs có bug: nếu đoạn văn có markup (in nghiêng, in đậm...)
+// trước {#id}, và phần text còn lại sau markup có MỘT dấu " lẻ (không cặp),
+// logic tìm dấu { của nó bị "kẹt" ở trạng thái "đang trong giá trị có ngoặc
+// kép" và không bao giờ tìm ra {, nên {#id} bị bỏ sót, in ra literal.
+// Rule này chạy trước, tự strip {#id} bằng regex thuần, tránh hẳn bug đó.
+function idAnchorFix(md: MarkdownIt) {
+    const ID_RE = /[ \t]*\{#([A-Za-z0-9_\u00C0-\uFFFF-]+)\}[ \t]*$/
+
+    function findOwningOpenToken(tokens: any[], inlineIdx: number) {
+        let idx = inlineIdx - 1
+        let depth = 0
+        let found: any = null
+        for (; idx >= 0; idx--) {
+            if (tokens[idx].nesting === -1) { depth++; continue }
+            if (tokens[idx].nesting === 1) {
+                if (depth === 0) { found = tokens[idx]; break }
+                depth--
+            }
+        }
+        if (!found) return null
+        if (!found.hidden) return found
+        // Token bao ngoài bị hidden (vd paragraph_open trong tight list item)
+        // -> tiếp tục tìm ancestor hiển thị thật sự (vd list_item_open) để
+        // gán id vào đó, nếu không id sẽ "biến mất" vì token không render ra tag.
+        let outerIdx = idx - 1
+        let outerDepth = 0
+        for (; outerIdx >= 0; outerIdx--) {
+            if (tokens[outerIdx].nesting === -1) { outerDepth++; continue }
+            if (tokens[outerIdx].nesting === 1) {
+                if (outerDepth === 0) return tokens[outerIdx]
+                outerDepth--
+            }
+        }
+        return found
+    }
+
+    md.core.ruler.before('linkify', 'trailing_id_attr', (state) => {
+        const tokens = state.tokens
+        for (let i = 0; i < tokens.length; i++) {
+            const tok = tokens[i]
+            if (tok.type !== 'inline' || !tok.children?.length) continue
+
+            const children = tok.children
+            const last = children[children.length - 1]
+            if (last.type !== 'text') continue
+
+            const match = ID_RE.exec(last.content)
+            if (!match) continue
+
+            last.content = last.content.slice(0, match.index)
+
+            const openTok = findOwningOpenToken(tokens, i)
+            if (!openTok) continue
+
+            const idx = openTok.attrIndex('id')
+            if (idx < 0) openTok.attrPush(['id', match[1]])
+            else openTok.attrs[idx][1] = match[1]
+        }
+    })
+}
+export {
+    idAnchorFix
+}

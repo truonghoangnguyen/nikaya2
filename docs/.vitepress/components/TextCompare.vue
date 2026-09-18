@@ -5,8 +5,8 @@ import MarkdownIt from 'markdown-it'
 import anchor from 'markdown-it-anchor'
 import markdownItAttrs from 'markdown-it-attrs'
 import footnote from 'markdown-it-footnote';
-import { slugAnchor } from '../utils';
-
+import { slugAnchor, idAnchorFix } from '../utils';
+// import {idAnchorFix} from '../util'
 
 interface Props {
   leftPath: string
@@ -74,6 +74,7 @@ onMounted(async () => {
           permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
           slugify: (s) => slugAnchor(s),
         })
+        .use(idAnchorFix)
         .use(markdownItAttrs)
         .use(footnote)
 
@@ -82,8 +83,10 @@ onMounted(async () => {
           permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
           slugify: (s) => slugAnchor(s),
         })
+        .use(idAnchorFix)
         .use(markdownItAttrs)
         .use(footnote)
+
 
       const [leftResponse, rightResponse] = await Promise.all([
         fetch(props.leftPath),
