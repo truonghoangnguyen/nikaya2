@@ -1,7 +1,9 @@
 dịch sách `BUDDHISM An Outline of its Teachings and Schools` của H. WOLFGANG SCHUMANN`  ra tiếng việt. 
 
 - Dùng theo từ tiếng anh để dịch ra tiếng việt và thêm chú thích (tiếng việt). Lý do: tôi muốn hiểu người nước khác hiểu khái niệm đó như nào.
-ví dụ : "Suffering resulting from pain"  -> "*Khổ do cảm giác đau đớn mang lại* (khổ khổ / dukkha-dukkha)"
+
+Ví dụ 1: "Suffering resulting from pain"  -> "*Khổ do cảm giác đau đớn mang lại* (khổ khổ / dukkha-dukkha)"
+Ví dụ 2: "right view" -> "cái nhìn đúng (chánh kiến/ <tên pali>)"
 
 - Khi dịch 1 đoạn (segment, thường nằm trong một sô) ví dụ đoạn 1. 
 bước 1:  đọc hiểu: đầu tiên đọc hiểu được ý nghĩa của nội dung (quan trọng). 
@@ -16,17 +18,15 @@ Thì có thể thêm ghi chú để làm rõ:
 
 - Khi dịch, phải bảo đảm người đọc tiếng Việt có thể hiểu được ý mà tác giả muốn nói, ngay cả khi cấu trúc câu tiếng Anh rất trừu tượng.
 
+- Nếu có một đoạn trừu tượng khó hiểu, không được dịch sát chữ nếu kết quả khiến tiếng Việt trở nên tối nghĩa. Hãy chuyển sang cách diễn đạt tự nhiên hơn. 
+
 - Cấu trúc câu: chia lập luận phức tạp, nhiều mệnh đề phụ thành các bước rõ ràng, đánh số nếu cần. Không giữ nguyên cú pháp học thuật dài dòng của câu gốc.
 
-- Nếu có một đoạn trừu tượng khó hiểu, không được dịch sát chữ nếu kết quả khiến tiếng Việt trở nên tối nghĩa. Hãy chuyển sang cách diễn đạt tự nhiên hơn.
+- Dịch thoát ý, không bám sát cấu trúc ngữ pháp hay dịch sát từng từ (word-for-word) của bản gốc. Tập trung truyền tải trọn vẹn ý nghĩa cốt lõi bằng cách hành văn đời thường, gãy gọn và trôi chảy.
 
-- Đối với các câu có cấu trúc như:
-“X is not merely A; it is B”
-hoặc
-“the statement does not mean X, but means Y”,
-hãy làm nổi bật sự đối lập X/Y trong bản dịch.
+- Nếu một câu tiếng Anh có thể hiểu theo nhiều cách, hãy nêu rõ điều đó và đưa ra các cách hiểu khả dĩ, thay vì tự ý chọn một nghĩa rồi dịch như thể đó là nghĩa duy nhất.
 
-- Tính mơ hồ: nếu một câu tiếng Anh có thể hiểu theo nhiều cách, hãy nêu rõ điều đó và đưa ra các cách hiểu khả dĩ, thay vì tự ý chọn một nghĩa rồi dịch như thể đó là nghĩa duy nhất.
+Ví dụ: "divergencies between them do not concern the central doctrines" -> "sự khác biệt giữa chúng không nằm ở các giáo lý cốt lõi" -> "các giáo lý cốt lõi của chúng giống nhau" (câu dịch đầu giữ nguyên văn bản, câu sau tốt hơn mà vẫn giữ được ý và dễ đọc)
 
 Từ vựng: ưu tiên tiếng Việt hiện đại, rõ ràng. Tránh từ Hán Việt mang tính giáo lý/tín ngưỡng (ví dụ: "nghiệp chướng", "căn cơ", "chúng sinh") khi bản gốc đang phân tích ngôn ngữ học hoặc logic, không phải trình bày giáo lý tu tập.
 

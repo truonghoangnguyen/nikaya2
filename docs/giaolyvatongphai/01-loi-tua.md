@@ -1,6 +1,6 @@
 # Lời tựa
 
-![img-1.jpeg](images/img-1.jpg)
+![Chuyển luân thánh vương](images/img-1.jpg)
 
 *Biểu tượng bánh xe của bậc minh quân (Chuyển luân thánh vương - cakkavattin). Bánh xe có 24 nan hoa này thuộc về đầu cột hình sư tử của trụ đá do Hoàng đế Asoka (A-dục) dựng tại Sārnāth (Lộc Uyển) vào thế kỷ thứ 3 trước Công nguyên. Chiếu chỉ khắc trên trụ đá cảnh báo về sự chia rẽ trong tăng đoàn. Đầu cột hình sư tử ngày nay là quốc huy của Ấn Độ; còn bánh xe được đưa vào quốc kỳ của quốc gia này. Là một biểu tượng của Phật giáo, 'bánh xe pháp' có thể có từ 8 đến 36 nan hoa.*
 

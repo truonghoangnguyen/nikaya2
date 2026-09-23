@@ -1,4 +1,4 @@
-# Giới thiệu (Introduction)
+# Giới thiệu
 
 Ở phương Tây, việc nghiên cứu Phật giáo là nhiệm vụ của hai ngành học: Ấn Độ học (Indology) và Tôn giáo học so sánh (Comparative Religion). Ngành Ấn Độ học đã bắt đầu bén rễ tại Đức từ năm 1818, khi chức danh giáo sư đầu tiên về tiếng Phạn (Sanskrit) và Ấn Độ học được thành lập tại Đại học Bonn. Trong khi đó, ngành Tôn giáo học so sánh được đưa vào chương trình giảng dạy đại học bởi nhà Ấn Độ học người Đức làm việc tại Oxford là Friedrich Max Müller (1823–1900). Cả hai ngành nghiên cứu này đều không nhằm đưa ra những phán xét giá trị (value-judgements) dựa trên cơ sở khoa học đối với các tôn giáo mà chúng khảo sát. Cả hai đều phục vụ cho mục đích thấu hiểu một cách khách quan và thúc đẩy sự giao lưu tâm linh giữa các nền văn hóa.
 

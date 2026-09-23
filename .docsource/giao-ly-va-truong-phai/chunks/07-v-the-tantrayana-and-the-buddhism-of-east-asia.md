@@ -6,8 +6,7 @@ The Tantrayāna, 'Vehicle of the Tantra texts', is an occult Buddhism which aros
 
 Philosophically the Tantrayāna builds on the Mahāyāna but modifies or extends its principal tenets in several ways. It transforms the doctrine of the Three Bodies into a Four-Body doctrine by assuming a further body beyond the Dharmakāya; it divides the other Kāyas, as well as Emptiness, into subgroups or aspects; and introduces a great number of new psychological terms which largely defy translation into any Western language as they presuppose experience in meditation and thinking in other categories than the ones to which Westerners are used.
 
-Four schools or methods for salvation have to be kept apart in the Tantrayāna: Mantrayāna, Vajrayāna, Sahajayāna, and Kālacakrayāna. They form the vertical division of the Tan-
-trayāna and are on their part horizontally divided into four layers of realisation.
+Four schools or methods for salvation have to be kept apart in the Tantrayāna: Mantrayāna, Vajrayāna, Sahajayāna, and Kālacakrayāna. They form the vertical division of the Tan-trayāna and are on their part horizontally divided into four layers of realisation.
 
 (1) The Mantrayāna, like all other Tantrayānic schools, is based on Mahāyānic monism. One has, however, to distinguish between classical and popular Mantrayāna.
 

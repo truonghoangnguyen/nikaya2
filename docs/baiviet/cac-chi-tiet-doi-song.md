@@ -55,3 +55,16 @@ MN 70.22
 - Phật nói về sự trí tuệ của mình về 3 sự hiểu biết, điều này phù hợp với thế giới quan của chúng ta ngày nay, khác với những người nói Phật cái gì cũng biết.
 > "Này Vaccha, nếu giải thích rằng: ‘Sa-môn Gotama là người có ba sự hiểu biết (Tam minh / tevijjo)’, thì người đó đang nói đúng những gì Ta đã nói, không vu khống Ta bằng những điều không thật, giải thích đúng theo Điều đúng đắn, và không có một vị đồng tu nào có thể phản bác chê trách.
 MN 71.6
+
+- Nếu có con người thì không thể tu để giải thoát 
+> “Câu hỏi đó không phù hợp,” Đức Phật nói. "Ngươi có thể nói, ‘Hành là gì, và chúng thuộc về ai?’ Hoặc ngươi có thể nói, ‘Hành là một chuyện, người sở hữu chúng là một chuyện khác.’ Nhưng cả hai câu này đều có cùng một ý nghĩa, chỉ khác cách diễn đạt. Này Tỷ kheo, nếu ngươi có quan điểm rằng linh hồn và thân xác là một, thì không có đời sống phạm hạnh. Nếu ngươi có quan điểm rằng linh hồn và thân xác là khác nhau, thì không có đời sống phạm hạnh. Tránh hai cực đoan này, Như Lai giảng dạy bằng trung đạo: ‘Vô minh là điều kiện cho hành.’
+SN 12.35
+
+- Cốt lõi, Phật không nhận thấy có 1 người, với ý nghĩa anh ấy là một cái 'không thể thay đổi' anh ấy chỉ là một trạng thái tiếp diễn
+
+> “Thưa Tôn giả Cồ-đàm, khổ đau là do tự mình làm ra phải không?”
+> “Không phải vậy, này Ca-diếp,” Đức Phật nói.
+> “Vậy khổ đau là do người khác làm ra phải không?”
+> “Không phải vậy, này Ca-diếp,” Đức Phật nói.
+SN 12.17
+

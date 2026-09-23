@@ -3,7 +3,7 @@ title: Kinh tiểu bộ tập 5 – KINH TẬP
 ---
 
 # TẬP 5 – KINH TẬP
-**Sutta Nipata**
+**Sutta Nipata (snp)**
 
 ## Giới Thiệu Kinh Tập (Sutta Nipata)
 

@@ -49,6 +49,13 @@
       "description": "Cuộc Đời Đức Phật - The Life Of The Buddha",
       "cover": "/covers/the-life-of-the-buddha.webp", 
       "link": "/the-life-of-the-buddha/"
+    },
+     {
+      "id": "giaolyvatongphai",
+      "title": "PHẬT GIÁO: Khái Quát Giáo Lý Và Tông Phái",
+      "description": "PHẬT GIÁO: Khái Quát Giáo Lý Và Tông Phái - Tác giả Hans Wolfgang Schumann, Georg Feuerstein dịch",
+      "cover": "/covers/giaolytongphai.webp", 
+      "link": "/giaolyvatongphai/"
     }
   ]
 }

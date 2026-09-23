@@ -2,9 +2,9 @@
 
 # Chương Hai – Tiểu Phẩm
 
-### **(I) Kinh Châu Báu (Ratana Sutta) (Sn 39)**
+### **(I) Kinh Châu Báu (Ratana Sutta) (Sn 39)** {#1}
 
-222. Phàm ở tại đời này,\
+222. Phàm ở tại đời này, {#222}\
 Có sanh linh tụ hội,\
 Hoặc trên cõi đất này,\
 Hoặc chính giữa hư không\
@@ -13,7 +13,7 @@ Mong rằng mọi sanh linh,\
 Vậy, hãy nên cẩn thận,\
 Lắng nghe lời dạy này.
 
-223. Do vậy các sanh linh,\
+223. Do vậy các sanh linh, {#223}\
 Tất cả hãy chú tâm,\
 Khởi lên lòng từ mẫn,\
 Ðối với mọi loài, người.\
@@ -22,7 +22,7 @@ Họ đem vật cúng dường,\
 Do vậy không phóng dật,\
 Hãy giúp hộ trì họ.
 
-224. Phàm có tài sản gì,\
+224. Phàm có tài sản gì, {#224}\
 Ðời này hay đời sau,\
 Hay ở tại thiên giới,\
 Có châu báu thù thắng,\
@@ -33,7 +33,7 @@ Là châu báu thù diệu,\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-225. Ðoạn diệt và ly tham,\
+225. Ðoạn diệt và ly tham, {#225}\
 Bất tử và thù diệu,\
 Phật Thích Ca Mâu-Ni,\
 Chứng pháp ấy trong thiền.\
@@ -44,7 +44,7 @@ Là châu báu thù diệu,\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-226. Phật Thế Tôn thù thắng,\
+226. Phật Thế Tôn thù thắng, {#226}\
 Nói lên lời tán thán,\
 Pháp thiền định trong sạch,\
 Liên tục không gián đoạn,\
@@ -55,7 +55,7 @@ Là châu báu thù diệu\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-227. Tám vị bốn đôi này,\
+227. Tám vị bốn đôi này, {#227}\
 Ðược bậc thiện tán thán,\
 Chúng đệ tử Thiện Thệ,\
 Xứng đáng được cúng dường.\
@@ -66,7 +66,7 @@ Là châu báu thù diệu.\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-228. Các vị lòng ít dục,\
+228. Các vị lòng ít dục, {#228}\
 Với ý thật kiên trì,\
 Khéo liên hệ mật thiết,\
 Lời dạy Gotama!.\
@@ -79,7 +79,7 @@ Là châu báu thù diệu,\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-229. Như vậy cột trụ đá,\
+229. Như vậy cột trụ đá, {#229}\
 Khéo y tựa lòng đất,\
 Dầu có gió bốn phương,\
 Cũng không thể dao động,\
@@ -92,7 +92,7 @@ Là châu báu thù diệu.\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-230. Những vị khéo giải thích,\
+230. Những vị khéo giải thích, {#230}\
 Những sự thật Thánh đế,\
 Những vị khéo thuyết giảng,\
 Với trí tuệ thâm sâu,\
@@ -105,7 +105,7 @@ Là châu báu thù diệu.\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-231. Vị ấy nhờ đầy đủ,\
+231. Vị ấy nhờ đầy đủ, {#231}\
 Với chánh kiến sáng suốt,\
 Do vậy, có ba pháp,\
 Ðược hoàn toàn từ bỏ.\
@@ -120,7 +120,7 @@ Là châu báu thù diệu.\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-232. Dầu vị ấy có làm\
+232. Dầu vị ấy có làm {#232}\
 Ðiều ác gì đi nữa,\
 Với thân hay với lời,\
 Kể cả với tâm ý,\
@@ -133,7 +133,7 @@ Là châu báu thù diệu.\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-233. Ðẹp là những cây rừng\
+233. Ðẹp là những cây rừng {#233}\
 Có bông hoa đầu ngọn,\
 Trong tháng ba nóng bức,\
 Những ngày hạ đầu tiên,\
@@ -146,7 +146,7 @@ Là châu báu thù diệu\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-234. Cao thượng, biết cao thượng,\
+234. Cao thượng, biết cao thượng, {#234}\
 Cho, đem lại cao thượng,\
 Bậc vô thượng thuyết giảng,\
 Pháp cao thượng thù thắng.\
@@ -155,7 +155,7 @@ Là châu báu thù diệu.\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-235. Nghiệp cũ đã đoạn tận,\
+235. Nghiệp cũ đã đoạn tận, {#235}\
 Nghiệp mới không tạo nên,\
 Với tâm tư từ bỏ,\
 Trong sanh hữu tương lai.\
@@ -168,7 +168,7 @@ Là châu báu thù diệu.\
 Mong với sự thật này,\
 Ðược sống chơn hạnh phúc.
 
-236. Phàm ở tại đời này,\
+236. Phàm ở tại đời này, {#236}\
 Có sanh linh tụ hội,\
 Hoặc trên cõi đất này,\
 Hoặc chính giữa hư không,\
@@ -179,7 +179,7 @@ Hãy đảnh lễ đức Phật,\
 Mong rằng với hạnh này,\
 Mọi loài được hạnh phúc.
 
-237. Phàm ở tại nơi này,\
+237. Phàm ở tại nơi này, {#237}\
 Có sanh linh tụ hội,\
 Hoặc trên cõi đất này,\
 Hoặc chính giữa hư không.\
@@ -190,7 +190,7 @@ Hãy đảnh lễ Chánh pháp,\
 Mong rằng với hạnh này,\
 Mọi loài được hạnh phúc.
 
-238. Phàm ở tại nơi này,\
+238. Phàm ở tại nơi này, {#238}\
 Có sanh linh tụ hội,\
 Hoặc trên cõi đất này,\
 Hoặc chính giữa hư không.\
@@ -201,11 +201,11 @@ Hãy đảnh lễ chúng Tăng\
 Mong rằng với hạnh này,\
 Mọi loài được hạnh phúc.
 
-### **(II) Kinh Hôi Thối (Amagandha) (Sn 42)**
+### **(II) Kinh Hôi Thối (Amagandha) (Sn 42)** {#2}
 
 Bà-la-môn:
 
-239. Các bậc Thiện chơn chánh,\
+239. Các bậc Thiện chơn chánh, {#239}\
 Ăn hạt giống cây thuốc,\
 Ăn đậu đũa, đậu rừng,\
 Ăn lá, ăn rễ cây,\
@@ -214,7 +214,7 @@ Nhận được thật đúng pháp.\
 Vị ấy không nói láo,\
 Vì các dục thúc đẩy.
 
-240. Ôi ngài Kassapa,\
+240. Ôi ngài Kassapa, {#240}\
 Ai ăn các món ăn,\
 Do người khác bố thí,\
 Khéo làm, khéo chưng dọn,\
@@ -223,7 +223,7 @@ Trong sạch và thù thắng;\
 Ai ăn uống như vậy\
 Là ăn thịt hôi thối.
 
-241. Này bà con Phạm thiên,\
+241. Này bà con Phạm thiên, {#241}\
 Chính Ngài tuyên bố rằng:\
 Ta không ăn đồ thối,\
 Ðể nuôi sống thân Ta.\
@@ -238,7 +238,7 @@ Là ăn đồ hôi thối?
 
 Ðức Phật Kassapa:
 
-242. Sát sanh và hành hình,\
+242. Sát sanh và hành hình, {#242}\
 Ðả thương và bắt trói,\
 Trộm cắp và nói láo,\
 Man trá và lừa đảo,\
@@ -247,7 +247,7 @@ Giả bộ kẻ học thức,\
 Ðây là đồ ăn thối,\
 Ăn thịt không phải thối.
 
-243. Ở đời, các hạng người,\
+243. Ở đời, các hạng người, {#243}\
 Không chế ngự lòng dục,\
 Ðam mê các vị ngon,\
 Liên hệ đến bất tịnh,\
@@ -256,7 +256,7 @@ Bất chánh khó hướng dẫn,\
 Ðây là ăn đồ thối,\
 Ăn thịt không phải thối.
 
-244. Ai thô bạo, dã man,\
+244. Ai thô bạo, dã man, {#244}\
 Sau lưng nói gièm pha,\
 Phản bạn không từ bi,\
 Lại cống cao ngạo mạn,\
@@ -265,7 +265,7 @@ Không cho ai vật gì,\
 Ðây là ăn đồ thối,\
 Ăn thịt không phải thối,
 
-245. Phẫn nộ và kiêu mạn,\
+245. Phẫn nộ và kiêu mạn, {#245}\
 Cứng đầu và chống đối\
 Man trá và tật đố,\
 Nói vô ích, huênh hoang,\
@@ -274,7 +274,7 @@ Thân mật với kẻ ác,\
 Ðây là ăn đồ thối,\
 Ăn thịt không phải thối,
 
-246. Ác giói, nợ không trả,\
+246. Ác giói, nợ không trả, {#246}\
 Làm người điểm chỉ viên,\
 Làm những nghề dối trá,\
 Ở đây, kẻ giả vờ,\
@@ -283,7 +283,7 @@ Những người làm ác nghiệp,\
 Ðây là ăn đồ thối,\
 Ăn thịt không phải thối.
 
-247. Ở đời đối hữu tình,\
+247. Ở đời đối hữu tình, {#247}\
 Người không biết kiềm chế,\
 Lấy cướp sở hữu người,\
 Chú tâm làm hại người,\
@@ -292,7 +292,7 @@ Chú tâm làm hại người,\
 Ðây là ăn đồ thối,\
 Ăn thịt không phải thối,
 
-248. Hạng tham ô, thù nghịch,\
+248. Hạng tham ô, thù nghịch, {#248}\
 Tìm cách để giết hại,\
 Luôn luôn hướng về ác,\
 Sau chết sanh tối tăm,\
@@ -301,7 +301,7 @@ Chúng sanh ấy rơi vào,\
 Ðây là ăn đồ thối,\
 Ăn thịt không phải thối,
 
-249. Không phải do cá thịt,\
+249. Không phải do cá thịt, {#249}\
 Cùng các loại nhịn ăn,\
 Không phải do lõa thể,\
 Ðầu trọc và bện tóc,\
@@ -316,7 +316,7 @@ Các tế đàn thời tiết,\
 Làm con người trong sạch,\
 Nếu nghi hoặc chưa đoạn.
 
-250. Do sống hộ trì căn,\
+250. Do sống hộ trì căn, {#250}\
 Với các căn nhiếp phục,\
 Vững trú trên Chánh pháp,\
 Thích chân trực, hiền hòa,\
@@ -325,7 +325,7 @@ Vượt khỏi các tham ái,\
 Bậc trí không nhiễm dính,\
 Ðiều được thấy, được nghe.
 
-251. Nhiều lần, Thế Tôn thuyết,\
+251. Nhiều lần, Thế Tôn thuyết, {#251}\
 Ý nghĩa lời dạy này,\
 Bậc bác học kệ chú,\
 Thâm hiểu ý nghĩa ấy.\
@@ -334,7 +334,7 @@ Với những kệ tuyệt diệu,\
 Bậc không ăn đồ thối,\
 Ðộc lập, khó hướng dẫn.
 
-252. Nghe xong những lời dạy,\
+252. Nghe xong những lời dạy, {#252}\
 Lời Thế Tôn khéo nói,\
 Chấm dứt ăn đồ thối,\
 Ðoạn tận mọi khổ đau,\
@@ -343,9 +343,9 @@ Với tâm ý nhún nhường,\
 Thỉnh cầu được cho pháp,\
 Xuất gia tại nơi đây.
 
-### **(III) Kinh Xấu Hổ (Sn 45)**
+### **(III) Kinh Xấu Hổ (Sn 45)** {#3}
 
-253. Ai mở miệng tuyên bố:\
+253. Ai mở miệng tuyên bố: {#253}\
 Tôi là bạn của anh,\
 Sở hành vượt xấu hổ,\
 Lại khinh chán bạn mình,\
@@ -354,14 +354,14 @@ Công việc có thể làm.\
 Cần biết người như vậy,\
 Không phải bạn của tôi.
 
-254. Ai đối với bạn hữu,\
+254. Ai đối với bạn hữu, {#254}\
 Chỉ làm với lời nói,\
 Lời nói đẹp, khả ái,\
 Nhưng chỉ lời nói suông,\
 Bậc trí biết người ấy,\
 Người chỉ nói, không làm.
 
-255. Người luôn luôn chú ý,\
+255. Người luôn luôn chú ý, {#255}\
 Nghi ngờ sự thiếu sót,\
 Tìm kiếm các nhược điểm,\
 Người ấy không phải bạn,\
@@ -370,19 +370,19 @@ Như con nằm trên ngực,\
 Người ấy mới thật bạn,\
 Không bị ai chia ly.
 
-256. Ai mong lợi ích quả,\
+256. Ai mong lợi ích quả, {#256}\
 Tu tập các sự kiện,\
 Ðem lại sự hân hoan,\
 Tu tập sự an lạc,\
 Ðem lại thưởng, tán thán,\
 Gánh trách nhiệm làm người.
 
-257. Uống xong vị viễn ly,\
+257. Uống xong vị viễn ly, {#257}\
 Uống xong vị an tịnh,\
 Không sợ hãi, không ác,\
 Hưởng vị ngọt, pháp hỷ.
 
-### **(IV) Kinh Ðiềm Lành Lớn (Kinh Ðại Hạnh Phúc – Mahamangala Sutta) (Sn 46)**
+### **(IV) Kinh Ðiềm Lành Lớn (Kinh Ðại Hạnh Phúc – Mahamangala Sutta) (Sn 46)** {#4}
 
 Như vầy tôi nghe:
 
@@ -390,7 +390,7 @@ Một thời Thế Tôn trú tại Sàvatthi, ở Jetavana, khu vườn ông An�
 
 Thiên nhân:
 
-258. Nhiều Thiên nhân và Người,\
+258. Nhiều Thiên nhân và Người, {#258}\
 Suy nghĩ đến điềm lành,\
 Mong ước và đợi chờ,\
 Một nếp sống an toàn,\
@@ -399,61 +399,61 @@ Về điềm lành tối thượng.
 
 Thế Tôn:
 
-259. Không thân cận kẻ ngu,\
+259. Không thân cận kẻ ngu, {#259}\
 Nhưng gần gũi bậc trí,\
 Ðảnh lễ người đáng lễ\
 Là điềm lành tối thượng.
 
-260. Ở trú xứ thích hợp,\
+260. Ở trú xứ thích hợp, {#260}\
 Công đức trước đã làm,\
 Chân chánh hướng tụ tâm,\
 Là điều lành tối thượng.
 
-261. Học nhiều, nghề nghiệp giỏi,\
+261. Học nhiều, nghề nghiệp giỏi, {#261}\
 Khéo huấn luyện học tập,\
 Nói những lời khéo nói\
 Là điềm lành tối thượng.
 
-262. Hiếu dưỡng mẹ và cha,\
+262. Hiếu dưỡng mẹ và cha, {#262}\
 Nuôi dưỡng vợ và con,\
 Làm nghề không rắc rối\
 Là điềm lành tối thượng.
 
-263. Bố thí, hành đúng pháp,\
+263. Bố thí, hành đúng pháp, {#263}\
 Săn sóc các bà con,\
 Làm nghiệp không lỗi lầm\
 Là điềm lành tối thượng.
 
-264. Chấm dứt, từ bỏ ác,\
+264. Chấm dứt, từ bỏ ác, {#264}\
 Chế ngự đam mê rượu,\
 Trong pháp, không phóng dật\
 Là điềm lành tối thượng.\
-265. Kính lễ và hạ mình,\
+265. Kính lễ và hạ mình, {#265}\
 Biết đủ và biết ơn,\
 Ðúng thời, nghe Chánh pháp\
 Là điềm lành tối thượng.
 
-266. Nhẫn nhục, lời hòa nhã,\
+266. Nhẫn nhục, lời hòa nhã, {#266}\
 Yết kiến các Sa-môn,\
 Ðúng thời, đàm luận pháp,\
 Là điềm lành tối thượng.
 
-267. Khắc khổ và Phạm hạnh,\
+267. Khắc khổ và Phạm hạnh, {#267}\
 Thấy được lý Thánh đế,\
 Giác ngộ quả Niết bàn\
 Là điềm lành tối thượng.
 
-268. Khi xúc chạm việc đời,\
+268. Khi xúc chạm việc đời, {#268}\
 Tâm không động, không sầu,\
 Không uế nhiễm, an ổn\
 Là điềm lành tối thượng.
 
-269. Làm sự việc như vậy,\
+269. Làm sự việc như vậy, {#269}\
 Không chỗ nào thất bại,\
 Khắp nơi được an toàn,\
 Là điềm lành tối thượng.
 
-### **(V) Kinh Sùciloma (Sn 47)**
+### **(V) Kinh Sùciloma (Sn 47)** {#5}
 
 Như vầy tôi nghe:
 
@@ -471,7 +471,7 @@ Rồi Dạ-xoa Sùciloma với câu kệ nói với Thế Tôn:
 
 Sùciloma:
 
-270. Từ những nguyên nhân nào,\
+270. Từ những nguyên nhân nào, {#270}\
 Tham và sân khởi lên?\
 Không ưa thích, ưa thích,\
 Sợ hãi từ đâu sanh?\
@@ -482,7 +482,7 @@ Thả cho con quạ bay?
 
 Thế Tôn:
 
-271. Từ những nguyên nhân này,\
+271. Từ những nguyên nhân này, {#271}\
 Tham, sân được khởi lên,\
 Không ưa thích, ưa thích,\
 Sợ hãi từ đây sanh,\
@@ -491,7 +491,7 @@ Các suy tầm của ý,\
 Như đứa trẻ độc ác,\
 Thả cho con quạ bay.
 
-272. Sự hiện hữu của ngã,\
+272. Sự hiện hữu của ngã, {#272}\
 Chính do thân ái sanh,\
 Như các loại cây bàng,\
 Do thân cây bàng sanh.\
@@ -500,7 +500,7 @@ Thật rộng lớn vô cùng,\
 Như cây Màluvà,\
 Tỏa rộng lan khắp rừng.
 
-273. Hãy nghe! Này Dạ-xoa,\
+273. Hãy nghe! Này Dạ-xoa, {#273}\
 Những ai được rõ biết\
 Từ đâu, khiến sanh khởi,\
 Họ tẩy sạch nhân ấy.\
@@ -509,29 +509,29 @@ Chảy mạnh khổ vượt này,\
 Trước chưa được vượt qua,\
 Không còn có tái sanh.
 
-### **(VI) Kinh Hành Chánh Pháp (Sn 49)**
+### **(VI) Kinh Hành Chánh Pháp (Sn 49)** {#6}
 
-274. Pháp hạnh và Phạm hạnh,\
+274. Pháp hạnh và Phạm hạnh, {#274}\
 Ðược gọi là tối thượng hạnh,\
 Nếu là người xuất gia,\
 Bỏ nhà, sống không nhà.
 
-275. Nếu bản tánh lắm mồm,\
+275. Nếu bản tánh lắm mồm, {#275}\
 Ưa làm hại như thú,\
 Ðời sống ấy ác độc,\
 Làm ngã tăng bụi trần.
 
-276. Tỷ-kheo ưa cãi nhau,\
+276. Tỷ-kheo ưa cãi nhau, {#276}\
 Bị vô minh che đậy,\
 Không biết pháp luật dạy,\
 Pháp do Phật tuyên thuyết.
 
-277. Bị vô minh lãnh đạo,\
+277. Bị vô minh lãnh đạo, {#277}\
 Hại bậc tu tập ngã,\
 Không biết đường ô nhiễm,\
 Ðưa đến cõi địa ngục.
 
-278. Vị Tỷ-kheo như vậy,\
+278. Vị Tỷ-kheo như vậy, {#278}\
 Rơi vào chỗ đọa xứ,\
 Ði đầu thai chỗ này,\
 Ðến đầu thai chỗ khác,\
@@ -540,35 +540,35 @@ Rơi vào chỗ đọa xứ,\
 Vị ấy sau khi chết,\
 Rơi vào chỗ khổ đau.
 
-279. Như hố phân đầy tràn,\
+279. Như hố phân đầy tràn, {#279}\
 Sau nhiều năm chất chứa,\
 Cũng vậy, kẻ uế nhiễm,\
 Thật khó lòng gột sạch.
 
-280. Hỡi này các Tỷ-kheo,\
+280. Hỡi này các Tỷ-kheo, {#280}\
 Hãy biết người như vậy,\
 Hệ lụy với gia đình,\
 Ác dục, ác tư duy,\
 Ác uy nghi cử chi,\
 Ác sở hành, hành xứ.
 
-281. Tất cả đều đồng tình,\
+281. Tất cả đều đồng tình, {#281}\
 Tránh xa ngưòi như vậy,\
 Hãy thổi nó như bụi,\
 Hãy quăng nó như rác.
 
-282. Hãy đuổi kẻ nói nhiều,\
+282. Hãy đuổi kẻ nói nhiều, {#282}\
 Kẻ Sa-môn giả hiệu,\
 Sau khi đuổi ác dục,\
 Ác uy nghi hành xứ.
 
-283. Hãy giữ mình trong sạch,\
+283. Hãy giữ mình trong sạch, {#283}\
 Chung sống kẻ trong sạch,\
 Sống thích đáng, chánh niệm,\
 Rồi hòa hợp, sáng suốt,\
 Hãy chấm dứt khổ đau.
 
-### **(VII) Kinh Pháp Bà-la-môn (Sn 50)**
+### **(VII) Kinh Pháp Bà-la-môn (Sn 50)** {#7}
 
 Như vầy tôi nghe:
 
@@ -586,108 +586,108 @@ Một thời Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông An�
 
 Các Bà-la-môn đại phú ấy vâng đáp Thế Tôn, Thế Tôn nói như sau:
 
-284. Các ẩn sĩ thời xưa,\
+284. Các ẩn sĩ thời xưa, {#284}\
 Chế ngự, sống khắc khổ,\
 Bỏ năm dục trưởng dưỡng,\
 Hành lý tưởng tự ngã.
 
-285. Phạm chí, không gia súc,\
+285. Phạm chí, không gia súc, {#285}\
 Không vàng bạc lúa gạo,\
 Học hỏi là tài sản,\
 Họ che chở hộ trì,\
 Kho tàng tối thượng ấy.
 
-286. Ðồ ăn được sửa soạn,\
+286. Ðồ ăn được sửa soạn, {#286}\
 Ðược đặt tại ngưỡng cửa,\
 Với lòng tin, họ soạn\
 Ðể cúng bậc Thánh cầu.
 
-287. Với vải mặc nhiều màu,\
+287. Với vải mặc nhiều màu, {#287}\
 Với giường nằm trú xứ,\
 Từ quốc độ giàu có,\
 Họ đảnh lễ Phạm chí.
 
-288. Không bị ai xâm phạm\
+288. Không bị ai xâm phạm {#288}\
 Là Phạm chí thời ấy,\
 Không bị ai chiến hại,\
 Họ được pháp che chở,\
 Không ai ngăn chận họ,\
 Tại ngưỡng cửa gia đình.
 
-289. Từ trẻ đến bốn tám,\
+289. Từ trẻ đến bốn tám, {#289}\
 Các Phạm chí thời xưa,\
 Họ sống hành Phạm hạnh,\
 Tầm cầu minh và hạnh.
 
-290. Các vị Bà-la-môn,\
+290. Các vị Bà-la-môn, {#290}\
 Không đến giai cấp khác,\
 Không mua người làm vợ,\
 Chung sống trong tình thương,\
 Họ đi đến với nhau,\
 Trong niềm hoan hỷ chung.
 
-291. Ngoại trừ thời gian ấy,\
+291. Ngoại trừ thời gian ấy, {#291}\
 Thời có thể thụ thai,\
 Là người Bà-la-môn,\
 Không đi đến giao cấu.
 
-292. Họ tán thán Phạm hạnh,\
+292. Họ tán thán Phạm hạnh, {#292}\
 Giới, học thức, nhu hòa,\
 Khắc khổ và hòa nhã,\
 Bất hại và nhẫn nhục.
 
-293. Vị tối thắng trong họ,\
+293. Vị tối thắng trong họ, {#293}\
 Là Phạm thiên, nỗ lực,\
 Vị ấy không giao hợp,\
 Cho đến trong cơn mộng.
 
-294. Ở đời, bậc có trí,\
+294. Ở đời, bậc có trí, {#294}\
 Học theo hạnh vị ấy,\
 Họ tán thán Phạm hạnh,\
 Giới đức và nhẫn nhục.
 
-295. Họ xin cơm, sàng tọa,\
+295. Họ xin cơm, sàng tọa, {#295}\
 Vải mặc, bơ và dầu,\
 Thâu nhiếp thật đúng pháp,\
 Họ tổ chức tế tự,\
 Trong lễ tế tự ấy,\
 Họ không giết bò cái.
 
-296. Như mẹ và như cha,\
+296. Như mẹ và như cha, {#296}\
 Như anh, như bà con,\
 Bò là bạn tối thượng,\
 Từ chúng, sanh được vị.
 
-297. Bò cho ăn, cho sức,\
+297. Bò cho ăn, cho sức, {#297}\
 Cho dung sắc, cho lạc\
 Biết được lợi ích này,\
 Họ không giết hại bò.
 
-298. Họ đoan trang thân lớn,\
+298. Họ đoan trang thân lớn, {#298}\
 Có dung sắc, danh xưng,\
 Bản tánh là nhiệt tình,\
 Trong hành thiện dứt ác,\
 Họ còn sống ở đời,\
 Dân chúng hưởng an lạc.
 
-299. Giữa họ có đảo lộn,\
+299. Giữa họ có đảo lộn, {#299}\
 Họ thấy vật nhỏ nhen.\
 Thấy huy hoàng nhà vua,\
 Thấy trang sức phụ nữ.
 
-300. Các cỗ xe khéo làm,\
+300. Các cỗ xe khéo làm, {#300}\
 Thắng với ngựa thuần thục,\
 Trang hoàng với tấm thảm,\
 Nhiều sắc lại nhiều màu.\
 Các trú xứ phòng ốc,\
 Khéo chia, khéo ngăn cách.
 
-301. Ðàn bà mập vây quanh,\
+301. Ðàn bà mập vây quanh, {#301}\
 Chúng người đẹp hầu hạ,\
 Bà-la-môn tham đắm,\
 Tài sản lớn của người.
 
-302. Ðọc các bài kệ tụng,\
+302. Ðọc các bài kệ tụng, {#302}\
 Họ đến Okkàla,\
 Ngài được tài sản lớn,\
 Ngài được lúa gạo nhiều.\
@@ -696,7 +696,7 @@ Vì tài sản ngài lớn,\
 Hãy thiết lập tế đàn,\
 Vì tiền bạc ngài lớn.
 
-303. Rồi vua, bậc lãnh tụ,\
+303. Rồi vua, bậc lãnh tụ, {#303}\
 Vương chủ các xa binh,\
 Ðược các Bà-la-môn\
 Nhiếp phục và cảm hóa,\
@@ -708,27 +708,27 @@ Lễ tế đàn này xong,\
 Họ cho các Phạm chí,\
 Rất nhiều loại tài sản.
 
-304. Bò, giường nằm, áo mặc,\
+304. Bò, giường nằm, áo mặc, {#304}\
 Nữ nhân trang sức đẹp,\
 Các cỗ xe khéo làm,\
 Thắng với ngựa thuần thục,\
 Trang hoàng với tấm thảm,\
 Nhiều sắc lại nhiều màu.
 
-305. Các trú xứ đẹp đẽ,\
+305. Các trú xứ đẹp đẽ, {#305}\
 Khéo chia, khéo ngăn cách,\
 Ðầy các loại lúa gạo,\
 Họ cho các Phạm chí,\
 Rất nhiều là tài sản.
 
-306. Ở đây, được tài sản,\
+306. Ở đây, được tài sản, {#306}\
 Phạm chí thích cất chứa,\
 Lòng dục chúng thỏa mãn,\
 Khát ái càng tăng trưởng,\
 Họ lại đọc kệ tụng,\
 Họ đến Okkàka.
 
-307. Như nước, đất và vàng,\
+307. Như nước, đất và vàng, {#307}\
 Tài sản và lúa gạo,\
 Cũng vậy là các bò,\
 Ðối với các loài, người.\
@@ -739,14 +739,14 @@ Vì tài sản ngài lớn,\
 Hãy thiết lập tế đàn,\
 Vì tiền bạc ngài lớn?
 
-308. Rồi vua, bậc lãnh tụ,\
+308. Rồi vua, bậc lãnh tụ, {#308}\
 Vương chủ các xa binh,\
 Ðược các Bà-la-môn,\
 Nhiếp phục và cảm hóa,\
 Tổ chức các tế đàn,\
 Trăm ngàn bò bị giết
 
-309. Không phải với bàn chân,\
+309. Không phải với bàn chân, {#309}\
 Cũng không phải với sừng.\
 Con bò hại một ai,\
 Chúng được khéo nhiếp phục\
@@ -756,39 +756,39 @@ Tuy vậy, vua ra lệnh,\
 Nắm sừng bắt lấy chúng,\
 Giết chúng bằng dao gươm.
 
-310. Rồi chư Thiên, Tổ tiên,\
+310. Rồi chư Thiên, Tổ tiên, {#310}\
 Ðế Thích, A-tu-la,\
 Với các hàng Dạ-xoa,\
 Ðồng thanh cùng la lớn,\
 Như vậy là phi pháp,\
 Khi gươm giết hại bò.
 
-311. Trước đã có ba bệnh,\
+311. Trước đã có ba bệnh, {#311}\
 Dục, ăn không đủ già,\
 Do giết hại muôn thú,\
 Chúng lên đến chín tám.
 
-312. Trượng phạt phi pháp này,\
+312. Trượng phạt phi pháp này, {#312}\
 Từ xưa truyền đến nay,\
 Vật vô tội bị giết,\
 Còn người lễ tế đàn,\
 Thối thất khỏi Chánh pháp,
 
-313. Vậy tùy pháp cổ này,\
+313. Vậy tùy pháp cổ này, {#313}\
 Bị bậc trí khiển trách,\
 Chỗ nào lễ tế đàn,\
 Như vậy, được xem thấy,\
 Quần chúng liền chỉ trích,\
 Các vị lễ tế đàn.
 
-314. Như vậy, pháp bị hoại,\
+314. Như vậy, pháp bị hoại, {#314}\
 Hạng Thủ-đà, Phệ-xá,\
 Bị phân ly chia rẽ,\
 Các hạng Sát-đế-lị\
 Bị chia năm, chẻ bảy\
 Còn vợ khinh rẽ chồng.
 
-315. Các Sát-lị hoàng tộc,\
+315. Các Sát-lị hoàng tộc, {#315}\
 Các bà con Phạm thiên,\
 Cùng với hạng người khác,\
 Ðược gia tộc che chở,\
@@ -799,9 +799,9 @@ Khi nghe nói vậy, các Bà-la-môn đại phú ấy bạch Thế Tôn;
 
 – Thật vi diệu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Thưa Tôn giả Gotama, như người dựng đứng lại những gì bị quăng ngã xuống, trình bày rõ những gì bị che kín chỉ đường cho kẻ bị lạc hướng, hay đem đèn sáng vào trong bóng tối đễ những ai có mắt có thể nhìn thấy sắc. Cũng vậy, Pháp được Tôn giả Gotama với nhiều pháp môn trình bày giải thích. Chúng con xin quy y Tôn giả Gotama quy y Pháp, quy y chúng Tỷ-kheo. Mong Tôn giả Gotama nhận chúng con làm đệ tử cư sĩ, từ nay cho đến mạng chung, chúng con trọn đời quy ngưỡng.
 
-### **(VIII) Kinh Chiếc Thuyền (Sn 55)**
+### **(VIII) Kinh Chiếc Thuyền (Sn 55)** {#8}
 
-316. Từ vị nào một người,\
+316. Từ vị nào một người, {#316}\
 Rõ biết được Chánh pháp,\
 Hãy đảnh lễ vị ấy,\
 Như chư Thiên, Inda,\
@@ -810,7 +810,7 @@ Tâm tư sanh hoan hỷ,\
 Nghe nhiều, học hỏi nhiều,\
 Thuyết trình chơn diệu pháp.
 
-317. Vị sáng suốt chú tâm,\
+317. Vị sáng suốt chú tâm, {#317}\
 Suy tư và quán sát\
 Thực hành pháp tuỳ pháp,\
 Trở thành vị hiểu biết,\
@@ -818,7 +818,7 @@ Thông minh và thận trọng,\
 Không phóng dật, vị ấy,\
 Theo gương vị như vậy.
 
-318. Ai phục vụ kẻ ngu,\
+318. Ai phục vụ kẻ ngu, {#318}\
 Ngu si, tâm bé nhỏ,\
 Mục đích chưa đạt được,\
 Lại ganh tị tật đố,\
@@ -827,7 +827,7 @@ Không phát triển tu tập,\
 Chưa vượt thoát nghi hoặc,\
 Người ấy bị tử vong.
 
-319. Như người nhảy xuống sông,\
+319. Như người nhảy xuống sông, {#319}\
 Dòng sông nước ngập tràn,\
 Nước sông, nhớp đục ngầu,\
 Dòng nước chảy nhanh mạnh\
@@ -836,7 +836,7 @@ Theo dòng nước trôi đi,\
 Làm sao nó có thể,\
 Giúp người khác vượt dòng.
 
-320. Cũng vậy, với người nào,\
+320. Cũng vậy, với người nào, {#320}\
 Pháp không được tu tập,\
 Không quán sát ý nghĩa,\
 Của những vị nghe nhiều,\
@@ -845,7 +845,7 @@ Nghi hoặc chưa vượt qua,\
 Làm sao nó có thể,\
 Giúp người khác thiền định.
 
-321. Như người được leo lên,\
+321. Như người được leo lên, {#321}\
 Chiếc thuyền mạnh vững chắc,\
 Ðược trang bị đầy đủ,\
 Mái chèo và tay lái;\
@@ -854,7 +854,7 @@ Giúp nhiều người ngược dòng,\
 Rõ biết những phương tiện,\
 Thiện xảo và sáng suốt.
 
-322. Như vậy, bậc sáng suốt,\
+322. Như vậy, bậc sáng suốt, {#322}\
 Luôn luôn tự tu tập,\
 Bậc nghe nhiều hiểu nhiều,\
 Không còn bị dao động,\
@@ -863,7 +863,7 @@ Các người khác tu thiền,\
 Làm khởi lên nguyên nhân,\
 Tha thiết muốn nghe pháp.
 
-323. Do vậy, hãy thân cận,\
+323. Do vậy, hãy thân cận, {#323}\
 Bậc chân nhân hiền sĩ,\
 Bậc sáng suốt, có trí,\
 Bậc nghe nhiều học nhiều.\
@@ -872,16 +872,16 @@ Cố gắng khéo hành trì,\
 Rõ biết được Chánh pháp,\
 Vị ấy được an lạc.
 
-### **(IX) Kinh Thế Nào là Giới (Sn 56)**
+### **(IX) Kinh Thế Nào là Giới (Sn 56)** {#9}
 
-324. Thế nào là giới đức?\
+324. Thế nào là giới đức? {#324}\
 Thế nào là chánh hạnh?\
 Cần phải làm tăng trưởng.\
 Thân khẩu ý nghiệp nào?\
 Ðể người chánh nhập cuộc,\
 Ðạt được đích tối thượng?
 
-325. Kính lễ bậc trưởng thượng,\
+325. Kính lễ bậc trưởng thượng, {#325}\
 Không ganh tị một ai,\
 Cần phải biết thời gian,\
 Ðể yết kiến Ðạo sư,\
@@ -890,7 +890,7 @@ Thuyết pháp bắt đầu giảng,\
 Hãy cẩn thận lắng nghe,\
 Lời giảng được khéo nói.
 
-326. Hãy đi đến đúng thời,\
+326. Hãy đi đến đúng thời, {#326}\
 Trước mặt vị Ðạo Sư,\
 Từ bỏ tánh cứng đầu,\
 Với thái độ khiêm tốn,\
@@ -899,7 +899,7 @@ Hãy chơn chánh hành trì,\
 Mục đích và Chánh pháp,\
 Chế ngự và Phạm hạnh
 
-327. Vui thích trong Chánh Pháp\
+327. Vui thích trong Chánh Pháp {#327}\
 Hoan hỷ trong Chánh Pháp,\
 An trú trên Chánh pháp,\
 Biết phân tích Chánh pháp,\
@@ -908,7 +908,7 @@ Có lời uế nhiễm pháp,\
 Chịu hướng dẫn lãnh đạo,\
 Lời trung thực khéo nói.
 
-328. Bỏ cười đùa, lắm miệng,\
+328. Bỏ cười đùa, lắm miệng, {#328}\
 Khóc than và sân hận,\
 Làm những điều man trá,\
 Lừa đảo, tham, kiêu mạn,\
@@ -917,7 +917,7 @@ Cứng rắn và đam mê,\
 Sống từ bỏ tất cả,\
 Ly say đắm, kiên trì.
 
-329. Thức tri được cốt lõi,\
+329. Thức tri được cốt lõi, {#329}\
 Những lời đươc khéo nói,\
 Ðươc nghe khéo thức tri,\
 Cốt lõi của thiền định,\
@@ -926,7 +926,7 @@ Lại phóng dật buông lung,\
 Trí tuệ, đều được nghe,\
 Không có thể tăng trưởng.
 
-330. An vui thích Chánh pháp,\
+330. An vui thích Chánh pháp, {#330}\
 Do bậc Thánh tuyên thuyết,\
 Họ trở thành vô thượng,\
 Về lời ý và nghiệp,\
@@ -935,84 +935,84 @@ An trú trên thiền định,\
 Chứng đạt được cốt lõi,\
 Pháp được nghe, trí tuệ.
 
-### **(X) Kinh Ðứng Dậy (Sn 57)**
+### **(X) Kinh Ðứng Dậy (Sn 57)** {#10}
 
-331. Hãy đứng dậy, ngồi dậy,\
+331. Hãy đứng dậy, ngồi dậy, {#331}\
 Với người mộng ích gì?\
 Kẻ bệnh ngủ làm gì?\
 Khi mũi tên phiền lụy.
 
-332. Hãy đứng dậy, ngồi dậy,\
+332. Hãy đứng dậy, ngồi dậy, {#332}\
 Hãy kiên trì học tập,\
 Ðạt cho được an tịnh,\
 Ðừng để cho thần chết,\
 Biết Ông là phóng dật,\
 Mê hoặc, chinh phục Ông.
 
-333. Chư Thiên và loài Người,\
+333. Chư Thiên và loài Người, {#333}\
 Sống y chỉ tầm cầu,\
 Hãy vượt ái dục này,\
 Chớ để thời khắc qua,\
 Khi thời khắc đã qua,\
 Bị sầu khổ địa ngụ.
 
-334. Phóng dật là bụi nhơ,\
+334. Phóng dật là bụi nhơ, {#334}\
 Bụi do phóng dật khởi,\
 Với minh, không phóng dật,\
 Tự mình rút mũi tên
 
-### **(XI) Kinh Ràhula (Sn 58)**
+### **(XI) Kinh Ràhula (Sn 58)** {#11}
 
 Thế Tôn:
 
-335. Thường chung sống người hiền,\
+335. Thường chung sống người hiền, {#335}\
 Thầy có khinh miệt không?\
 Người cầm đuốc loài Người,\
 Ðược thầy tôn trọng không?
 
 Ràhula:
 
-336. Thường chung sống người hiền,\
+336. Thường chung sống người hiền, {#336}\
 Con không có khinh miệt.\
 Người cầm đuốc loài Người,\
 Thường được con tôn trọng.
 
 Thế Tôn:
 
-337. Bỏ năm dục trưởng dưỡng,\
+337. Bỏ năm dục trưởng dưỡng, {#337}\
 Khả ái và đẹp ý,\
 Với lòng tin xuất gia,\
 Hãy trở thành con người,\
 Làm chấm dứt khổ đau.
 
-338. Thân cận với bạn lành,\
+338. Thân cận với bạn lành, {#338}\
 Sống trú xứ xa vắng,\
 Viễn ly không ồn ào,\
 Hãy tiết độ ăn uống
 
-339. Y áo, đồ khất thực,\
+339. Y áo, đồ khất thực, {#339}\
 Vật dụng và sàng tọa,\
 Chớ có tham ái chúng,\
 Chớ trở lui đời này.
 
-330. Chế ngự trong giới bổn,\
+330. Chế ngự trong giới bổn, {#330}\
 Phòng hộ trong năm căn,\
 Hãy tu tập niệm thân,\
 Sống với nhiều nhàm chán.
 
-341. Hãy từ bỏ tịnh tướng,\
+341. Hãy từ bỏ tịnh tướng, {#341}\
 Hệ lụy với tham ái,\
 Tu tập tâm bất tịnh,\
 Nhất tâm, khéo định tĩnh.
 
-342. Hãy tu tập vô tướng,\
+342. Hãy tu tập vô tướng, {#342}\
 Bỏ đi, mạn tùy miên,\
 Do nhiếp phục kiêu mạn,\
 Ngươi sẽ sống an tịnh.
 
 Như vậy, Thế Tôn thường giáo giới Tôn giả Ràhula với những bài kệ này.
 
-### **(XII) Kinh Vangìsa (Sn 59)**
+### **(XII) Kinh Vangìsa (Sn 59)** {#12}
 
 Như vầy tôi nghe:
 
@@ -1024,7 +1024,7 @@ Rồi Tôn giả Vangìsa, từ chỗ ngồi đứng dậy, đắp y vào một 
 
 Vangìsa:
 
-343. Con hỏi bậc Ðạo Sư,\
+343. Con hỏi bậc Ðạo Sư, {#343}\
 Bậc trí tuệ tối thượng,\
 Ai chặt đứt nghi hoặc,\
 Ngay trong đời hiện tại?\
@@ -1033,7 +1033,7 @@ Tỷ-kheo đã mệnh chung,\
 Có danh vọng danh xưng,\
 Nhập Niết bàn tịch tịnh.
 
-344. Nigrodhakappa,\
+344. Nigrodhakappa, {#344}\
 Chính là tên vị ấy,\
 Chính Thế Tôn đặt tên,\
 Cho vị Phạm chí ấy,\
@@ -1042,7 +1042,7 @@ Sống tầm cầu giải thoát,\
 Tinh cần và tinh tấn,\
 Kiên cố thấy Chánh Pháp.
 
-345. Bạch Thích Ca, chúng con\
+345. Bạch Thích Ca, chúng con {#345}\
 Ðệ tử Ngài, tất cả\
 Chúng con đều muốn biết\
 Bậc Pháp nhãn biến tri,\
@@ -1051,7 +1051,7 @@ Sẵn sàng để được nghe,\
 Ngài Ðạo sư chúng con,\
 Ngài là bậc Vô thượng.
 
-346. Hãy đoạn nghi chúng con,\
+346. Hãy đoạn nghi chúng con, {#346}\
 Cho con biết vị ấy,\
 Ðã được tịch tịnh chưa\
 Bậc trí tuệ rộng lớn,\
@@ -1060,7 +1060,7 @@ Bậc có mặt cùng khắp,\
 Như Thiên chủ Ðế Thích,\
 Lãnh đạo ngàn chư Thiên.
 
-347. Phàm những cột gút gì,\
+347. Phàm những cột gút gì, {#347}\
 Ở đây, đường si ám,\
 Dự phần với vô trí,\
 Trú xứ cho nghi hoặc;\
@@ -1069,7 +1069,7 @@ Họ đều không còn nữa.\
 Mắt này mắt tối thắng,\
 Giữa cặp mắt loài Người.
 
-348. Nếu không có người nào,\
+348. Nếu không có người nào, {#348}\
 Ðoạn trừ các phiền não,\
 Như gió thổi tiêu tan\
 Các tầng mây dưới thấp,\
@@ -1078,7 +1078,7 @@ Tất cả toàn thế giới,\
 Những bậc có hào quang,\
 Không có thể chói sáng.
 
-349. Bậc trí là những vị\
+349. Bậc trí là những vị {#349}\
 Tạo ra những ánh sáng,\
 Con xem Ngài như vậy.\
 Ôi! Bậc trí sáng suốt,\
@@ -1087,7 +1087,7 @@ Bậc tu hành thiền quán,\
 Giữa hội chúng, chúng con,\
 Hãy nói về Kappa!
 
-350. Hãy gấp phát tiếng lên,\
+350. Hãy gấp phát tiếng lên, {#350}\
 Tiếng âm thanh vi diệu,\
 Như con chim thiên nga,\
 Giương cổ lên để hót,\
@@ -1096,7 +1096,7 @@ Với giọng khéo ngân nga,\
 Tất cả bạn chúng con,\
 Trực tâm nghe lời Ngài.
 
-351. Vị đoạn tận sanh tử,\
+351. Vị đoạn tận sanh tử, {#351}\
 Không còn chút dư tàn,\
 Vị tẩy sạch phiền não,\
 Con cầu Ngài thuyết pháp,\
@@ -1105,7 +1105,7 @@ Làm theo điều nó muốn.\
 Bậc Như Lai làm được,\
 Ðiều được ước định làm,
 
-352. Câu trả lời của Ngài\
+352. Câu trả lời của Ngài {#352}\
 Thật đầy đủ trọn vẹn,\
 Ðược chơn chánh nắm giữ,\
 Bậc chánh trực trí tuệ.\
@@ -1114,7 +1114,7 @@ Con khéo vái chào Ngài,\
 Chớ làm con si ám,\
 Bậc trí tuệ tối cao.
 
-353. Sau khi đã được biết\
+353. Sau khi đã được biết {#353}\
 Thánh pháp thượng và hạ,\
 Chớ làm con si ám,\
 Bậc tinh tấn tối cao,\
@@ -1123,7 +1123,7 @@ Nóng bức khát khao nước,\
 Chúng con ngóng trông lời,\
 Hãy mưa sự hiểu biết.
 
-354. Kappa, sống Phạm hạnh,\
+354. Kappa, sống Phạm hạnh, {#354}\
 Nếp sống có mục đích,\
 Phải chăng sống như vậy\
 Là sống không uổng phí?\
@@ -1134,7 +1134,7 @@ Hãy nói chúng con nghe!
 
 Thế Tôn:
 
-355. Vị ấy trên danh sắc,\
+355. Vị ấy trên danh sắc, {#355}\
 Ðã đoạn tận tham ái,\
 Thế Tôn ở nơi đây\
 Ðã trả lời như vậy,\
@@ -1145,7 +1145,7 @@ Bậc tối thắng thứ năm.
 
 Vangìsa:
 
-356. Nghe vậy, con tịnh tín,\
+356. Nghe vậy, con tịnh tín, {#356}\
 Với lời nói của Ngài,\
 Bậc ẩn sĩ thứ bảy?\
 Và lời hỏi của con.\
@@ -1153,22 +1153,22 @@ Không phải là vô ích!\
 Và vị Bà-la-môn\
 Không có lừa dối con.
 
-357. Nói gì thời làm vậy,\
+357. Nói gì thời làm vậy, {#357}\
 Thật xứng đệ tử Phật,\
 Chặt đứt lưới rộng chắc\
 Của thần chết xảo quyệt.
 
-358. Ôi! Thế Tôn, Kappa\
+358. Ôi! Thế Tôn, Kappa {#358}\
 Thấy căn nguyên chấp thủ,\
 Thật sự đã vượt qua\
 Thế lực của Ma vương,\
 Thế lực thật khó vượt.
 
-### **(XIII) Kinh Chánh xuất gia (Sn 63)**
+### **(XIII) Kinh Chánh xuất gia (Sn 63)** {#13}
 
 Người hỏi:
 
-359. Tôi hỏi bậc ẩn sĩ,\
+359. Tôi hỏi bậc ẩn sĩ, {#359}\
 Có trí tuệ rộng lớn,\
 Ðã vượt qua bờ kia,\
 Tịch tịnh, tự an trú.\
@@ -1179,7 +1179,7 @@ Du hành ở trên đời?
 
 Thế Tôn:
 
-360. Ai nhổ lên điềm lành,\
+360. Ai nhổ lên điềm lành, {#360}\
 Như vậy, Thế Tôn đáp\
 Các sao băng mộng mị,\
 Và các tướng lành dữ,\
@@ -1188,21 +1188,21 @@ Các lỗi lầm điềm lành;\
 Tỷ kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-361. Tỷ-kheo nhiếp phục tham,\
+361. Tỷ-kheo nhiếp phục tham, {#361}\
 Ðối với các dục vọng,\
 Tại thiên giới, nhân giới,\
 Vượt hữu, chứng tri pháp;\
 Tỷ kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-362. Tỷ kheo bỏ hai lưỡi,\
+362. Tỷ kheo bỏ hai lưỡi, {#362}\
 Bỏ phẩn nộ, xan tham,\
 Với tùy thuộc chống đối,\
 Ðoạn tận thật hoàn toàn,\
 Tỷ kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-363. Sau khi đã từ bỏ,\
+363. Sau khi đã từ bỏ, {#363}\
 Cả ái và phi ái,\
 Không chấp thủ một ai,\
 Không y chỉ chỗ nào,\
@@ -1211,7 +1211,7 @@ Các kiết sử trói buộc,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-364. Ai không tìm lõi cây,\
+364. Ai không tìm lõi cây, {#364}\
 Ðối với các sanh y,\
 Có thể nhiếp phục tham,\
 Ðối với các chấp thủ,\
@@ -1220,7 +1220,7 @@ Không để ai dắt dẫn,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-365. Với lời và với ý,\
+365. Với lời và với ý, {#365}\
 Và với cả nghiệp làm,\
 Không chống đối một ai,\
 Chơn chánh biết diệu pháp,\
@@ -1229,7 +1229,7 @@ Thường cố gắng hướng đến,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-366. Tỷ-kheo không tự cao,\
+366. Tỷ-kheo không tự cao, {#366}\
 Khi người đảnh lễ mình,\
 Dầu có bị nhiếc mắng,\
 Không khởi tâm tức tối,\
@@ -1238,7 +1238,7 @@ Không có sự tham đắm,\
 Tỷ kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-367. Tỷ-kheo sau khi đoạn,\
+367. Tỷ-kheo sau khi đoạn, {#367}\
 Tham dục và sanh hữu,\
 Từ bỏ, không làm hại,\
 Không trói buộc một ai,\
@@ -1247,7 +1247,7 @@ Vị ấy vượt nghi hoặc,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-368. Tỷ-kheo sau khi biết,\
+368. Tỷ-kheo sau khi biết, {#368}\
 Ðiều thích đáng cho mình,\
 Không làm hại một ai,\
 Có mặt ở trên đời,\
@@ -1256,7 +1256,7 @@ Như thật, như thế nào,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-369. Với ai, các tuỳ miên,\
+369. Với ai, các tuỳ miên, {#369}\
 Không còn có tồn tại,\
 Và cội gốc bất thiện,\
 Ðược nhổ lên tận trừ,\
@@ -1265,7 +1265,7 @@ Không có hy cầu gì.\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-370. Ai đoạn tận lậu hoặc,\
+370. Ai đoạn tận lậu hoặc, {#370}\
 Ðoạn trừ cả kiêu mạn,\
 Mọi con đường tham dục,\
 Ðược chế ngự nhiếp phục,\
@@ -1274,7 +1274,7 @@ Tự ngã được an lập,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-371. Có lòng tin, nghe pháp,\
+371. Có lòng tin, nghe pháp, {#371}\
 Thấy được quyết định tánh,\
 Bậc hiền không phe phái,\
 Giữa rất nhiều phe phái,\
@@ -1283,7 +1283,7 @@ Tham, sân và hận thù,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-372. Thanh tịnh và chiến thắng,\
+372. Thanh tịnh và chiến thắng, {#372}\
 Kéo lên màn che kín,\
 Tự tại trong các pháp,\
 Ðến bờ kia, bất động,\
@@ -1292,7 +1292,7 @@ Thiện xảo trong chánh trí,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-373. Trong những thời quá khứ,\
+373. Trong những thời quá khứ, {#373}\
 Trong những thời vị lai,\
 Vượt qua các chủ thuyết,\
 Trí tuệ thật thanh tịnh,\
@@ -1301,7 +1301,7 @@ Với tất cả mọi xứ,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-374. Rõ biết được Pháp cú,\
+374. Rõ biết được Pháp cú, {#374}\
 Chứng tri được Chánh pháp,\
 Thấy được sự mở rộng,\
 Ðoạn tận các lậu hoặc,\
@@ -1312,7 +1312,7 @@ Du hành ở trên đời.
 
 Người hỏi:
 
-375. Bạch Thế Tôn, chắc chắn,\
+375. Bạch Thế Tôn, chắc chắn, {#375}\
 Thực sự là như vậy,\
 Tỷ-kheo được chế ngự,\
 Ðã an trú như vậy,\
@@ -1321,7 +1321,7 @@ Tất cả các kiết sử,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-### **(XIV) Kinh Dhammika (Sn 66)**
+### **(XIV) Kinh Dhammika (Sn 66)** {#14}
 
 Như vầy tôi nghe:
 
@@ -1329,7 +1329,7 @@ Một thời Thế Tôn trú ở Sàvatthi, tại Jetavana, trong khu vườn ô
 
 Dhammika:
 
-376. Kính thưa Gotama,\
+376. Kính thưa Gotama, {#376}\
 Bậc trí tuệ rộng lớn,\
 Con xin kính hỏi Ngài,\
 Vấn đề đặc biệt này:\
@@ -1340,7 +1340,7 @@ Bỏ nhà, sống không nhà,\
 Hay là vị có nhà,\
 Sống đời nam cư sĩ?
 
-377. Ngài rõ biết đường đi,\
+377. Ngài rõ biết đường đi, {#377}\
 Cùng mục đích tối hậu,\
 Của Thế Tôn đời này,\
 Và thế giới chư Thiên.\
@@ -1349,7 +1349,7 @@ Bậc thấy nghĩa thù diệu,\
 Chính Ngài được tôn xưng,\
 Là đức Phật thù thắng.
 
-378. Ngài biết tất cả trí,\
+378. Ngài biết tất cả trí, {#378}\
 Ngài trình bày Chánh pháp,\
 Vì lòng thương, từ mẫn,\
 Ðối với mọi chúng sanh,\
@@ -1358,7 +1358,7 @@ Bậc có mắt mọi nơi\
 Không cấu uế, thanh tịnh,\
 Ngài chói toàn thế giới.
 
-379. Vị vua loài Nàgà\
+379. Vị vua loài Nàgà {#379}\
 Tên Eràvano,\
 Ðã đến gần bên Ngài,\
 Ðược nghe: Ngài chiến thắng.\
@@ -1367,7 +1367,7 @@ Vị ấy tìm đến Ngài,\
 Sau khi nghe, thích thú\
 Nói lên lời: Lành thay!.
 
-380. Vua Vessavana,\
+380. Vua Vessavana, {#380}\
 Kuvera đến Ngài,\
 Tìm hiểu hỏi han Ngài\
 Về vấn đề diệu pháp,\
@@ -1376,7 +1376,7 @@ Hãy nói lên cho vua!\
 Sau khi nghe, vị ấy,\
 Cũng thích thú, ưa thích.
 
-381. Các bậc ngoại đạo này\
+381. Các bậc ngoại đạo này {#381}\
 Ưa luận tranh khẩu chiến,\
 Các tà mạng ngoại đạo,\
 Hay các Ni-kiền Tử,\
@@ -1385,7 +1385,7 @@ Hơn thắng trí của Ngài,\
 Như người đang đứng lại,\
 Không thắng kẻ đi mau.
 
-382. Các Bà-la-môn này,\
+382. Các Bà-la-môn này, {#382}\
 Ưa luận tranh khẩu chiến,\
 Có những bậc Phạm-chí,\
 Ðã đến tuổi trưởng thượng,\
@@ -1394,7 +1394,7 @@ Bởi tư tưởng của Ngài,\
 Kể cả những hạng người,\
 Tự phụ nói khoe khoang.
 
-383. Pháp này là tế nhị,\
+383. Pháp này là tế nhị, {#383}\
 Ðem lại nguồn an lạc,\
 Ðã được bậc Thế Tôn\
 Khéo nói, khéo thuyết giảng,\
@@ -1403,7 +1403,7 @@ Tất cả mọi hạng người,\
 Ðược hỏi, hãy nói lên,\
 Ôi đức Phật tối thượng.
 
-384. Các vị Tỷ-kheo này,\
+384. Các vị Tỷ-kheo này, {#384}\
 Ðang ngồi đây tất cả,\
 Kể cả nam cư sĩ,\
 Tất cả đều chờ nghe,\
@@ -1414,7 +1414,7 @@ Vàsava khéo nói!
 
 Thế Tôn:
 
-385. Tỷ-kheo, hãy nghe Ta,\
+385. Tỷ-kheo, hãy nghe Ta, {#385}\
 Ta khiến các Thầy nghe,\
 Pháp đoạn trừ điều ác,\
 Tất cả hãy trọ trì,\
@@ -1423,7 +1423,7 @@ Nghĩ ngợi có suy tư,\
 Hãy sống theo chánh hạnh,\
 Thích hợp với xuất gia.
 
-386. Tỷ-kheo chớ ra ngoài,\
+386. Tỷ-kheo chớ ra ngoài, {#386}\
 Trong thời gian phi thời,\
 Hãy vào làng khất thực,\
 Ðúng thời, thì hãy đi,\
@@ -1432,7 +1432,7 @@ Bị bẫy sập trói buộc.\
 Do vậy các đức Phật,\
 Không có đi phi thời.
 
-387. Các sắc và các tiếng,\
+387. Các sắc và các tiếng, {#387}\
 Các vị, hương và xúc,\
 Chính những loại pháp ấy\
 Làm mê hoặc chúng sanh.\
@@ -1441,7 +1441,7 @@ Hãy nhiếp phục, lòng dục,\
 Hãy vào cho đúng thời,\
 Ðể dùng buổi ăn sáng.
 
-388. Tỷ-kheo được đúng thời,\
+388. Tỷ-kheo được đúng thời, {#388}\
 Các đồ ăn khất thực,\
 Hãy đi về một mình,\
 Ngồi tại chỗ an tịnh,\
@@ -1450,7 +1450,7 @@ Suy tư hướng nội tâm,\
 Làm cho thoát ra khỏi,\
 Mọi chấp thủ tự ngã.
 
-389. Nếu vị ấy có nói,\
+389. Nếu vị ấy có nói, {#389}\
 Với một vị đệ tử,\
 Hay nói với một vị\
 Một Tỷ-kheo nào khác,\
@@ -1459,7 +1459,7 @@ Sự thù diệu Chánh pháp,\
 Không có nói hai lưỡi,\
 Không bài xích một ai,
 
-390. Nhưng có những hạng người,\
+390. Nhưng có những hạng người, {#390}\
 Dùng khẩu chiến bằng lời,\
 Những hạng người tuệ nhỏ,\
 Chúng ta không tán thán,\
@@ -1468,7 +1468,7 @@ Từ chỗ này chỗ kia,\
 Ở đây họ dẫn tâm,\
 Ðưa tâm đi quá xa.
 
-391. Ðồ khất thực, tinh xá,\
+391. Ðồ khất thực, tinh xá, {#391}\
 Cùng sàng tọa trú xứ,\
 Nước để trừ bụi nhớp,\
 Y áo Tăng-già-lê,\
@@ -1477,7 +1477,7 @@ Do Thiện Thệ thuyết giảng,\
 Bậc đệ tử thắng tuệ,\
 Quán sát, hãy dùng chúng.
 
-392. Do vậy đồ khất thực,\
+392. Do vậy đồ khất thực, {#392}\
 Sàng tọa và trú xứ,\
 Nước để trừ bụi nhớp,\
 Y áo Tăng-già-lê,\
@@ -1486,7 +1486,7 @@ Y áo Tăng-già-lê,\
 Tỷ-kheo như giọt nước,\
 Không dính trên lá sen.
 
-393. Trách nhiệm của gia chủ,\
+393. Trách nhiệm của gia chủ, {#393}\
 Ta cũng nói các Ông,\
 Làm theo đúng như vậy,\
 Ðệ tử là tốt lành.\
@@ -1495,7 +1495,7 @@ Khó thành tựu đầy đủ,\
 Vì là người gia chủ,\
 Phải làm nhiều việc đời.
 
-394. Chớ giết loài hữu tình,\
+394. Chớ giết loài hữu tình, {#394}\
 Chớ bảo người giết hại,\
 Hay chấp nhận kẻ khác,\
 Giết hại các người khác,\
@@ -1504,7 +1504,7 @@ Từ bỏ các hình phạt,\
 Ðối với kẻ mạnh bạo,\
 Như đối kẻ run sợ.
 
-385. Rồi hãy quyết từ bỏ,\
+385. Rồi hãy quyết từ bỏ, {#385}\
 Lấy của không được cho,\
 Ðệ tử khéo sáng suốt,\
 Vật gì, vật của ai,\
@@ -1513,7 +1513,7 @@ Chớ chấp nhận lấy trộm.\
 Hãy từ bỏ, chấm dứt,\
 Mọi của cải không cho.
 
-396. Hãy từ bỏ, tránh xa\
+396. Hãy từ bỏ, tránh xa {#396}\
 Ðời sống phi Phạm hạnh,\
 Như bậc trí tránh né,\
 Lửa cháy hố than hừng.\
@@ -1522,7 +1522,7 @@ Không thể sống Phạm hạnh,\
 Thời chớ có xâm phạm\
 Vợ của các người khác.
 
-397. Khi đi đến hội chúng,\
+397. Khi đi đến hội chúng, {#397}\
 Hay đi đến đoàn chúng,\
 Hay một mình một người,\
 Chớ nói lời nói láo,\
@@ -1531,7 +1531,7 @@ Chớ chấp nhận nói láo,\
 Tất cả điều không thật,\
 Hãy tránh xa từ bỏ.
 
-398. Chớ sống theo nếp sống,\
+398. Chớ sống theo nếp sống, {#398}\
 Uống rượu và say rượu,\
 Với vị là cư sĩ,\
 Ðã chấp nhận pháp này,\
@@ -1540,7 +1540,7 @@ Chớ chấp thuận uống rượu\
 Sau khi biết uống rượu,\
 Cuối đường là điên cuồng.
 
-399. Chỉ kẻ ngu say rượu,\
+399. Chỉ kẻ ngu say rượu, {#399}\
 Mới làm các điều ác,\
 Và khiến các người khác,\
 Sống buông lung phóng dật,\
@@ -1549,7 +1549,7 @@ Xứ phi công đức này,\
 Khiến điên cuồng si mê,\
 Làm kẻ ngu thỏa thích.
 
-400. Chớ có giết hữu tình,\
+400. Chớ có giết hữu tình, {#400}\
 Chớ lấy của không cho,\
 Chớ nói láo không thật,\
 Chớ uống rượu say mê,\
@@ -1558,7 +1558,7 @@ Không hành trì dâm dục\
 Không có ăn ban đêm,\
 Không ăn lúc phi thời.
 
-401. Chớ mang các vòng hoa,\
+401. Chớ mang các vòng hoa, {#401}\
 Chớ dùng các nước thơm,\
 Hãy nằm trên mặt đất,\
 Trên thảm chiếu trải dài,\
@@ -1567,7 +1567,7 @@ Là hạnh ngày trai giới,\
 Do đức Phật giảng dạy,\
 Ðể chấm dứt khổ đau.
 
-402. Từ nay ngày trai giới,\
+402. Từ nay ngày trai giới, {#402}\
 Chia nửa tháng hai phần,\
 Ngày mười bốn, mười lăm,\
 Hay ngày tám mỗi tháng,\
@@ -1576,7 +1576,7 @@ Thực hành thần thông pháp\
 Gồm có đủ tám phần,\
 Khéo đầy đủ vẹn toàn.
 
-403. Do vậy, vào buổi sáng,\
+403. Do vậy, vào buổi sáng, {#403}\
 Thực hành ngày trai giới,\
 Bậc có trí sáng suốt,\
 Với tâm tư tín thành,\
@@ -1585,7 +1585,7 @@ Cúng dường Tỷ-kheo Tăng,\
 Với món ăn đồ uống,\
 Hợp với khả năng mình.
 
-404. Hãy nuôi dưỡng mẹ cha,\
+404. Hãy nuôi dưỡng mẹ cha, {#404}\
 Hợp pháp và đúng pháp,\
 Và cũng đúng với pháp,\
 Hãy làm nghề buôn bán,\

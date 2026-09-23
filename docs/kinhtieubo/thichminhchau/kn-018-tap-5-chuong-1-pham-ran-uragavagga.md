@@ -3,9 +3,9 @@
 
 # Chương Một – Phẩm Rắn (Uragavagga)
 
-### **(I) Kinh Rắn (Sn 1)**
+### **(I) Kinh Rắn (Sn 1)** {#1}
 
-1. Ai nhiếp phục phẫn nộ\
+1. Ai nhiếp phục phẫn nộ {#1}\
 Ðang được dấy khởi lên,\
 Như dùng chất linh dược,\
 Ngăn độc rắn lan rộng\
@@ -14,7 +14,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-2. Ái cắt đứt tham dục,\
+2. Ái cắt đứt tham dục, {#2}\
 Không còn chút dư tàn,\
 Như kẻ hái hoa sen\
 Sanh ra từ ao hồ.\
@@ -23,7 +23,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-3. Ai cắt đứt tham ái,\
+3. Ai cắt đứt tham ái, {#3}\
 Không còn chút dư tàn,\
 Làm cho nước cạn khô,\
 Dòng nước chảy nhanh mạnh\
@@ -32,7 +32,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-4. Ai phá hoại kiêu mạn\
+4. Ai phá hoại kiêu mạn {#4}\
 Không còn chút dư tàn,\
 Như nước mạnh tàn phá\
 Cây cỏ lau yếu hèn,\
@@ -41,7 +41,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-5. Ai trong các sanh hữu,\
+5. Ai trong các sanh hữu, {#5}\
 Không tìm thấy lõi cây,\
 Như kẻ đi hái hoa,\
 Trên cây sung không hoa.\
@@ -50,7 +50,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-6. Với ai trong nội tâm,\
+6. Với ai trong nội tâm, {#6}\
 Không còn có phẫn hận,\
 Ðã vượt thoát ra khỏi,\
 Cả hữu và phi hữu.\
@@ -59,7 +59,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-7. Với ai những tầm tư,\
+7. Với ai những tầm tư, {#7}\
 Ðược làm cho tan biến\
 Nội tâm khéo sửa soạn,\
 Không còn chút dư tàn.\
@@ -68,7 +68,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-8. Ai không đi quá trớn,\
+8. Ai không đi quá trớn, {#8}\
 Cũng không quá chậm trễ,\
 Ðã nhiếp phục toàn diện,\
 Hý luận chướng ngại này.\
@@ -77,7 +77,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-9. Ai không đi quá trớn,\
+9. Ai không đi quá trớn, {#9}\
 Cũng không quá chậm trễ,\
 Biết rõ được ở đời,\
 Sự này toàn hư vọng.\
@@ -86,7 +86,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-10. Ai không đi quá trớn,\
+10. Ai không đi quá trớn, {#10}\
 Cũng không quá chậm trễ,\
 Từ bỏ, không có tham,\
 Sự này toàn hư vọng.\
@@ -95,7 +95,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-11. Ai không đi quá trớn,\
+11. Ai không đi quá trớn, {#11}\
 Cũng không quá chậm trễ,\
 Từ bỏ, không tham dục,\
 Sự này toàn hư vọng.\
@@ -104,7 +104,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-12. Ai không đi quá trớn,\
+12. Ai không đi quá trớn, {#12}\
 Cũng không quá chậm trễ,\
 Từ bỏ, ly sân hận,\
 Sự này toàn hư vọng.\
@@ -113,7 +113,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-13. Ai không đi quá trớn,\
+13. Ai không đi quá trớn, {#13}\
 Cũng không quá chậm trễ,\
 Từ bỏ, ly si ám,\
 Sự này toàn hư vọng.\
@@ -122,7 +122,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-14. Với ai, các tùy miên,\
+14. Với ai, các tùy miên, {#14}\
 Hoàn toàn không hiện hữu,\
 Các nguồn gốc bất thiện\
 Ðược nhổ lên trừ sạch.\
@@ -131,7 +131,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-15. Với ai, không có gì,\
+15. Với ai, không có gì, {#15}\
 Do phiền não sanh khởi,\
 Làm duyên trở lui lại,\
 Về lại bờ bên này.\
@@ -140,7 +140,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-16. Với ai, không có gì,\
+16. Với ai, không có gì, {#16}\
 Do rừng ái sanh khởi,\
 Tạo nhân khiến trói buộc\
 Con người vào tái sanh.\
@@ -149,7 +149,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-17. Ai đoạn năm triền cái,\
+17. Ai đoạn năm triền cái, {#17}\
 Không sầu khổ bực phiền,\
 Vượt qua được nghi hoặc,\
 Thoát mũi tên phiền não.\
@@ -158,11 +158,11 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-### **(II) Kinh Dhaniya (Sn 3)**
+### **(II) Kinh Dhaniya (Sn 3)** {#2}
 
 Dhaniya:
 
-18. Cơm ta, nấu đã chín,\
+18. Cơm ta, nấu đã chín, {#18}\
 Sữa uống, ta vắt xong,\
 Mục đồng Dhaniya,\
 Ðã nói lên như vậy.\
@@ -175,7 +175,7 @@ Thần mưa, hãy mưa đi.
 
 Thế Tôn:
 
-19. Ta đoạn được phẫn nộ,\
+19. Ta đoạn được phẫn nộ, {#19}\
 Tâm hoang vu không còn,\
 Bậc Thế Tôn, Chánh Giác\
 Ðã nói lên như vậy.\
@@ -188,7 +188,7 @@ Thần mưa, hãy mưa đi.
 
 Dhaniya:
 
-20. Ruồi lằn và muỗi mòng,\
+20. Ruồi lằn và muỗi mòng, {#20}\
 Ở đây không tìm thấy,\
 Mục đồng Dhaniya,\
 Ðã nói lên như vậy.\
@@ -201,7 +201,7 @@ Thần mưa, hãy mưa đi.
 
 Thế Tôn:
 
-21. Các bè đã được cột,\
+21. Các bè đã được cột, {#21}\
 Khéo tác thành tốt đẹp,\
 Bậc Thế Tôn, Chánh Giác\
 Ðã nói lên như vậy.\
@@ -214,7 +214,7 @@ Thần mưa, hãy mưa đi.
 
 Dhaniya:
 
-22. Vợ ta khéo nhu thuận,\
+22. Vợ ta khéo nhu thuận, {#22}\
 Không có tham dục gì,\
 Mục đồng Dhaniya\
 Ðã nói lên như vậy.\
@@ -227,7 +227,7 @@ Thần mưa, hãy mưa đi.
 
 Thế Tôn:
 
-23. Tâm Ta khéo nhu thuận,\
+23. Tâm Ta khéo nhu thuận, {#23}\
 Ðược giải thoát, mở rộng,\
 Bậc Thế Tôn, Chánh Giác\
 Ðã nói lên như vậy.\
@@ -240,7 +240,7 @@ Thần mưa, hãy mưa đi.
 
 Dhaniya:
 
-24. Với lợi tức thâu hoạch,\
+24. Với lợi tức thâu hoạch, {#24}\
 Ta tự nuôi sống ta,\
 Mục đồng Dhaniya\
 Ðã nói lên như vậy,\
@@ -253,7 +253,7 @@ Thần mưa, hãy mưa đi.
 
 Thế Tôn:
 
-25. Ta không có làm mướn,\
+25. Ta không có làm mướn, {#25}\
 Cho một ai ở đời,\
 Bậc Thế Tôn, Chánh Giác\
 Ðã nói lên như vậy\
@@ -266,7 +266,7 @@ Thần mưa, hãy mưa đi.
 
 Dhaniya:
 
-26. Ðây có các bò cái,\
+26. Ðây có các bò cái, {#26}\
 Ðây có các bò con,\
 Mục đồng Dhaniya\
 Ðã nói lên như vậy.\
@@ -279,7 +279,7 @@ Thần mưa, hãy mưa đi.
 
 Thế Tôn:
 
-27. Ðây không có bò cái,\
+27. Ðây không có bò cái, {#27}\
 Ðây không có bò con,\
 Bậc Thế Tôn, Chánh Giác\
 Ðã nói lên như vậy.\
@@ -292,7 +292,7 @@ Thần mưa, hãy mưa đi.
 
 Dhaniya:
 
-28. Cây cột được đóng sâu,\
+28. Cây cột được đóng sâu, {#28}\
 Không còn bị dao động,\
 Mục đồng Dhaniya\
 Ðã nói lên như vậy.\
@@ -305,7 +305,7 @@ Thần mưa, hãy mưa đi.
 
 Thế Tôn:
 
-29. Giống như con bò đực,\
+29. Giống như con bò đực, {#29}\
 Giật đứt các trói buộc,\
 Bậc Thế Tôn, Chánh Giác\
 Ðã nói lên như vậy.\
@@ -316,7 +316,7 @@ Chỗ thai tạng tái sanh.\
 Nếu là ý người muốn,\
 Thần mưa, hãy mưa đi.
 
-30. Rồi mưa lớn đổ xuống,\
+30. Rồi mưa lớn đổ xuống, {#30}\
 Làm đầy tràn đất trũng,\
 Làm tràn ngập đất cao,\
 Nghe trời gầm, mưa, thét,\
@@ -325,7 +325,7 @@ Nói lên lời như sau:
 
 Dhaniya:
 
-31. Lợi thay cho chúng ta,\
+31. Lợi thay cho chúng ta, {#31}\
 Ðâu phải là lợi nhỏ,\
 Chúng ta được chiêm ngưỡng,\
 Bậc Chánh Giác, Thế Tôn.\
@@ -334,7 +334,7 @@ Con xin quy y Ngài,\
 Kính bậc Ðại ẩn sĩ,\
 Hãy là Thầy chúng con.
 
-32. Vợ con và cả con,\
+32. Vợ con và cả con, {#32}\
 Là những người nhu thuận,\
 Xin sống đời Phạm hạnh,\
 Dưới chân bậc Thiện Thệ.\
@@ -345,7 +345,7 @@ Người đoạn tận đau khổ.
 
 Màra:
 
-33. Ai có các con trai,\
+33. Ai có các con trai, {#33}\
 Hoan hỷ với con trai,\
 Ðây là lời Ác ma,\
 Ðã nói lên như vậy\
@@ -358,7 +358,7 @@ không thể có hoan hỷ.
 
 Thế Tôn:
 
-34. Ai có các con trai,\
+34. Ai có các con trai, {#34}\
 Sầu muộn với con trai,\
 Bậc Thế Tôn, Chánh Giác,\
 Ðã nói lên như vậy.\
@@ -369,9 +369,9 @@ Chính do sự sanh y,\
 Ai không có sanh y,\
 Không thể có sầu muộn.
 
-### **(III) Kinh Con Tê Ngưu Một Sừng (Sn 6)**
+### **(III) Kinh Con Tê Ngưu Một Sừng (Sn 6)** {#3}
 
-35. Ðối với các hữu tình,\
+35. Ðối với các hữu tình, {#35}\
 Từ bỏ gậy và trượng,\
 Chớ làm hại một ai\
 Trong chúng hữu tình ấy.\
@@ -380,7 +380,7 @@ Còn nói gì bạn bè,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-36. Do thân cận giao thiệp,\
+36. Do thân cận giao thiệp, {#36}\
 Thân ái từ đấy sanh,\
 Tùy thuận theo thân ái,\
 Khổ này có thể sanh.\
@@ -389,7 +389,7 @@ Do thân ái sanh khởi,\
 Hãy sống riêng một mình,\
 Như tê ngưu một sừng.
 
-37. Do lòng từ thương mến,\
+37. Do lòng từ thương mến, {#37}\
 Ðối bạn bè thân hữu,\
 Mục đích bị bỏ quên,\
 Tâm tư bị buộc ràng,\
@@ -398,7 +398,7 @@ Trong giao du mật thiết,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-38. Ai nhớ nghĩ chờ mong,\
+38. Ai nhớ nghĩ chờ mong, {#38}\
 Ðối với con và vợ,\
 Người ấy bị buộc ràng,\
 Như cành tre rậm rạp,\
@@ -407,7 +407,7 @@ Nào có gì buộc ràng,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-39. Như nai trong núi rừng,\
+39. Như nai trong núi rừng, {#39}\
 Không gì bị trói buộc,\
 Tự đi chỗ nó muốn\
 Ðể tìm kiếm thức ăn.\
@@ -416,7 +416,7 @@ Thấy tự do giải thoát,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-40. Giữa bạn bè thân hữu,\
+40. Giữa bạn bè thân hữu, {#40}\
 Bị gọi lên gọi xuống,\
 Tại chỗ ở trú xứ,\
 Hay trên đường bộ hành.\
@@ -425,7 +425,7 @@ Không có gì tham luyến,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-41. Giữ bạn bè thân hữu,\
+41. Giữ bạn bè thân hữu, {#41}\
 Ưa thích, vui cười đùa,\
 Ðối với con, với cháu,\
 Ái luyến thật lớn thay,\
@@ -434,7 +434,7 @@ Với những người thân ái,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-42. Khắp cả bốn phương trời,\
+42. Khắp cả bốn phương trời, {#42}\
 Không sân hận với ai,\
 Tự mình biết vừa đủ,\
 Với vật này vật khác,\
@@ -443,7 +443,7 @@ Không run sợ dao động,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-43. Có số người xuất gia,\
+43. Có số người xuất gia, {#43}\
 Chung sống thật khó khăn,\
 Cũng như các gia chủ,\
 Ở tại các cửa nhà,\
@@ -452,7 +452,7 @@ Giữa con cháu người khác,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-44. Từ bỏ, để một bên,\
+44. Từ bỏ, để một bên, {#44}\
 Mọi biểu dương gia đình,\
 Như loại cây san hô,\
 Tước bỏ mọi lá cây,\
@@ -461,7 +461,7 @@ Mọi trói buộc gia đình.\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-45. Nếu tìm được bạn lành,\
+45. Nếu tìm được bạn lành, {#45}\
 Thận trọng và sáng suốt,\
 Bạn đồng hành chung sống,\
 Bạn thiện trú Hiền trí.\
@@ -470,7 +470,7 @@ Tất cả mọi hiểm nạn,\
 Hãy sống với bạn ấy,\
 Hoan hỷ, giữ chánh niệm.
 
-46. Nếu không được bạn lành,\
+46. Nếu không được bạn lành, {#46}\
 Thận trọng và sáng suốt,\
 Bạn đồng hành chung sống,\
 Bạn thiện trú Hiền trí.\
@@ -479,7 +479,7 @@ Hãy như vua từ bỏ,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-47. Thật chúng ta tán thán,\
+47. Thật chúng ta tán thán, {#47}\
 Các bằng hữu chu toàn,\
 Bậc hơn ta, bằng ta,\
 Nên sống gần thân cận.\
@@ -488,7 +488,7 @@ Những bậc không lầm lỗi,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-48. Thấy đồ trang sức vàng,\
+48. Thấy đồ trang sức vàng, {#48}\
 Lấp lánh và sáng chói,\
 Ðược con người thợ vàng,\
 Khéo làm, khéo tay làm,\
@@ -497,7 +497,7 @@ Trên hai tay đeo chúng,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-49. Như vậy nếu ta cùng\
+49. Như vậy nếu ta cùng {#49}\
 Với một người thứ hai,\
 Tranh luận cãi vã nhau,\
 Sân hận, gây hấn nhau,\
@@ -506,7 +506,7 @@ Sợ hãi hiểm nguy này,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-50. Các dục thật mỹ miều,\
+50. Các dục thật mỹ miều, {#50}\
 Ngọt thơm và đẹp ý,\
 Dưới hình sắc, phi sắc,\
 Làm mê loạn tâm tư,\
@@ -515,7 +515,7 @@ Trong các dục trưởng dưỡng,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-51. Ðây là một mụn nhọt,\
+51. Ðây là một mụn nhọt, {#51}\
 Và cũng là tai họa,\
 Một tật bệnh, mũi tên,\
 Là sợ hãi cho ta,\
@@ -524,7 +524,7 @@ Trong các dục trưởng dưỡng,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-52. Lạnh lẽo và nóng bức,\
+52. Lạnh lẽo và nóng bức, {#52}\
 Ðói bụng và khát nước,\
 Gió thổi, ánh mặt trời.\
 Muỗi lằn và rắn rết.\
@@ -533,7 +533,7 @@ Tất cả xúc chạm này,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-53. Như con voi to lớn,\
+53. Như con voi to lớn, {#53}\
 Từ bỏ cả bầy đàn,\
 Thân thể được sanh ra,\
 To lớn tợ hoa sen,\
@@ -542,7 +542,7 @@ Sống tại chỗ rừng núi,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-54. Ai ưa thích hội chúng,\
+54. Ai ưa thích hội chúng, {#54}\
 Sự kiện không xảy ra,\
 Người ấy có thể chứng,\
 Cảm thọ thời giải thoát.\
@@ -551,7 +551,7 @@ Cân nhắc lời giảng dạy,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-55. Ðược giải thoát vượt khỏi,\
+55. Ðược giải thoát vượt khỏi, {#55}\
 Các tri kiến hý luận,\
 Ðạt được quyết định tánh,\
 Chứng đắc được con đường.\
@@ -560,7 +560,7 @@ Không cần nhờ người khác,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-56. Không tham, không lừa đảo,\
+56. Không tham, không lừa đảo, {#56}\
 Không khát dục, gièm pha,\
 Mọi si mê ác trược,\
 Ðược gạn sạch quạt sạch.\
@@ -569,7 +569,7 @@ Không tham ái ước vọng,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-57. Với bạn bè độc ác,\
+57. Với bạn bè độc ác, {#57}\
 Hãy từ bỏ lánh xa,\
 Bạn không thấy mục đích,\
 Quen nếp sống quanh co,\
@@ -578,7 +578,7 @@ Kẻ đam mê phóng dật,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-58. Bậc nghe nhiều trì pháp,\
+58. Bậc nghe nhiều trì pháp, {#58}\
 Hãy gần gũi người ấy,\
 Bạn người tâm rộng lớn,\
 Người thông minh biện tài,\
@@ -587,7 +587,7 @@ Nhiếp phục được nghi hoặc,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-59. Mọi du hí vui đùa,\
+59. Mọi du hí vui đùa, {#59}\
 Và dục lạc ở đời,\
 Không điểm trang bày biện,\
 Không ước vọng mong cầu,\
@@ -596,7 +596,7 @@ Nói lên lời chân thật,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-60. Với con và với vợ,\
+60. Với con và với vợ, {#60}\
 Với cha và với mẹ,\
 Tài sản cùng lúa gạo,\
 Những trói buộc bà con,\
@@ -605,7 +605,7 @@ Các dục vọng như vậy,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-61. Chúng đều là trói buộc,\
+61. Chúng đều là trói buộc, {#61}\
 Lạc thú thật nhỏ bé,\
 Vị ngọt thật ít oi,\
 Khổ đau lại nhiều hơn,\
@@ -614,7 +614,7 @@ Bậc trí biết như vậy,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-62. Hãy chặt đứt, bẻ gãy,\
+62. Hãy chặt đứt, bẻ gãy, {#62}\
 Các kiết sử trói buộc,\
 Như các loài thủy tộc,\
 Phá hoại các mạng lưới.\
@@ -623,7 +623,7 @@ Không còn trở lui lại,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-63. Với mắt cúi nhìn xuống,\
+63. Với mắt cúi nhìn xuống, {#63}\
 Chân đi không lưu luyến,\
 Các căn được hộ trì,\
 Tâm ý khéo chế ngự.\
@@ -632,7 +632,7 @@ Không cháy đỏ bừng lên,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-64. Hãy trút bỏ, để lại,\
+64. Hãy trút bỏ, để lại, {#64}\
 Các biểu tượng gia chủ,\
 Như loại cây san hô,\
 Loại bỏ các nhành lá.\
@@ -641,7 +641,7 @@ Xuất gia bỏ thế tục,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-65. Không tham đắm các vị,\
+65. Không tham đắm các vị, {#65}\
 Không tác động, không tham,\
 Không nhờ ai nuôi dưỡng,\
 Chỉ khất thực từng nhà.\
@@ -650,7 +650,7 @@ Tâm không bị trói buộc,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-66. Từ bỏ năm triền cái\
+66. Từ bỏ năm triền cái {#66}\
 Che đậy trói buộc tâm,\
 Ðối với mọi kiết sử,\
 Hãy trừ khử, dứt sạch,\
@@ -659,7 +659,7 @@ Chặt đứt ái sân hận,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-67. Hãy xoay lưng trở lại\
+67. Hãy xoay lưng trở lại {#67}\
 Ðối với lạc và khổ,\
 Cả đối với hỷ ưu,\
 Ðược cảm thọ từ trước,\
@@ -668,7 +668,7 @@ An chỉ và thanh tịnh;\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-68. Tinh cần và tinh tấn,\
+68. Tinh cần và tinh tấn, {#68}\
 Ðạt được lý chân đế,\
 Tâm không còn thụ động,\
 Không còn có biếng nhác,\
@@ -677,7 +677,7 @@ Dõng lực được sanh khởi,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-69. Không từ bỏ độc cư,\
+69. Không từ bỏ độc cư, {#69}\
 Hạnh viễn ly thiền định,\
 Thường thường sống hành trì,\
 Tùy pháp trong các pháp.\
@@ -686,7 +686,7 @@ Nguy hiểm trong sanh hữu,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-70. Mong cầu đoạn diệt ái,\
+70. Mong cầu đoạn diệt ái, {#70}\
 Sống hạnh không phóng dật,\
 Không đần độn câm ngọng,\
 Nghe nhiều, giữ chánh niệm.\
@@ -695,7 +695,7 @@ Quyết định, chánh tinh cần.\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-71. Như sư tử, không động,\
+71. Như sư tử, không động, {#71}\
 An tịnh giữa các tiếng,\
 Như gió không vướng mắc,\
 Khi thổi qua màn lưới.\
@@ -704,7 +704,7 @@ Không bị nước thấm ướt,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-72. Giống như con sư tử,\
+72. Giống như con sư tử, {#72}\
 Với quai hà hùng mạnh,\
 Bậc chúa của loài thú,\
 Sống chinh phục chế ngự.\
@@ -713,7 +713,7 @@ Nhàn tịnh và xa vắng,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-73. Từ tâm, sống trú xả,\
+73. Từ tâm, sống trú xả, {#73}\
 Bi tâm, hạnh giải thoát,\
 Sống hành trì thực hiện,\
 Hỷ tâm, cho đúng thời,\
@@ -722,7 +722,7 @@ Với một ai ở đời.\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-74. Ðoạn tận lòng tham ái,\
+74. Ðoạn tận lòng tham ái, {#74}\
 Sân hận và si mê,\
 Chặt đứt và cắt đoạn,\
 Các kiết sử lớn nhỏ\
@@ -731,7 +731,7 @@ Khi mạng sống gần chung,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-75. Có những bạn vì lợi,\
+75. Có những bạn vì lợi, {#75}\
 Thân cận và chung sống,\
 Những bạn không mưu lợi,\
 Nay khó tìm ở đời.\
@@ -740,7 +740,7 @@ Không phải người trong sạch,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-### **(IV) Kinh Bhàradvàja, Người Cày Ruộng (Sn 12)**
+### **(IV) Kinh Bhàradvàja, Người Cày Ruộng (Sn 12)** {#4}
 
 Như vầy tôi nghe:
 
@@ -756,7 +756,7 @@ Rồi Bà-la-môn Kasibhàradvàja nói lên với Thế Tôn bài kệ:
 
 Bhàradvàja:
 
-76. Người tự nhận Người cày,\
+76. Người tự nhận Người cày, {#76}\
 Ta không thấy Người cày,\
 Hãy trả lời chúng tôi,\
 Ðã hỏi về Người cày,\
@@ -765,7 +765,7 @@ Người cày như thế nào?
 
 Thế Tôn:
 
-77. Lòng tin là hột giống,\
+77. Lòng tin là hột giống, {#77}\
 Khổ hạnh là cơn mưa,\
 Trí tuệ đối với Ta\
 Là ách và lưỡi cày,\
@@ -774,7 +774,7 @@ Xấu hổ là cán cày,\
 Và niệm đối với Ta\
 Là lưỡi cày, gậy thúc.
 
-78. Với thân khéo phòng hộ,\
+78. Với thân khéo phòng hộ, {#78}\
 Với lời khéo phòng hộ,\
 Với món ăn trong bụng,\
 Biết tiết độ, chế ngự,\
@@ -783,7 +783,7 @@ Ta tác thành chơn thực,\
 Sự giải thoát của Ta\
 Thật hiền lành nhu thuận.
 
-79. Với tinh cần tinh tấn,\
+79. Với tinh cần tinh tấn, {#79}\
 Ta gánh chịu trách nhiệm,\
 Ta tự mình đem lại\
 An ổn khỏi khổ ách.\
@@ -792,7 +792,7 @@ Không trở ngại thối lui,\
 Chỗ nào Ta đi tới,\
 Chỗ ấy không sầu muộn.
 
-80. Cày bừa là như vậy,\
+80. Cày bừa là như vậy, {#80}\
 Ðược quả là bất tử,\
 Sau cày bừa như vậy,\
 Mọi khổ được giải thoát.
@@ -803,7 +803,7 @@ Rồi Bà-la-môn Kasibhàradvàja lấy một bát bằng đồng lớn, cho đ
 
 Thế Tôn:
 
-81. Ta không hưởng vật dụng,\
+81. Ta không hưởng vật dụng, {#81}\
 Do tụng kệ đem lại,\
 Ðây không phải là pháp,\
 Của bậc có chánh kiến\
@@ -812,7 +812,7 @@ Tụng hát các bài kệ,\
 Khi pháp có hiện hữu,\
 Truyền thống là như vậy.
 
-82. Hỡi này Bà-la-môn,\
+82. Hỡi này Bà-la-môn, {#82}\
 Người cần phải cúng dường,\
 Ðồ ăn vật uống khác,\
 Bậc đại sĩ toàn diện,\
@@ -831,9 +831,9 @@ Rồi Bà-la-môn Kasibhàradvàja đem nhận chìm cháo sữa ấy vào nư�
 
 Rồi Bà-la-môn Kasibhàradvàja được xuất gia với Sa-môn Gotama, được thọ đại giới. Thọ đại giới không bao lâu, Tôn giả Bhàradvàja sống một mình, viễn ly, không phóng dật, nhiệt tâm, tinh cần. Không bao lâu, do vì mục đích gì, bậc thiên nam tử chơn chánh xuất gia, từ bỏ gia đình, sống không gia đình, vị ấy ngay trong hiện tại, tự mình với thắng trí, chứng ngộ, chứng đạt và an trú cứu cánh Phạm hạnh ấy. Vị ấy thắng tri: “Sanh đã tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn trở lui trạng thái này nữa “. Tôn giả Bhàradvàja trở thành một vị A-la-hán.
 
-### **(V) Kinh Cunda (Sn 16)**
+### **(V) Kinh Cunda (Sn 16)** {#5}
 
-83. Người thợ rèn Cunda,\
+83. Người thợ rèn Cunda, {#83}\
 Nói lên lời như sau:\
 Con hỏi bậc Ðại sĩ,\
 Bậc trí tuệ rộng lớn,\
@@ -846,7 +846,7 @@ Có bao nhiêu Sa-môn?
 
 Thế Tôn:
 
-84. Chỉ có bốn Sa-môn,\
+84. Chỉ có bốn Sa-môn, {#84}\
 Không có hạng thứ năm,\
 Thế Tôn đáp Cunda,\
 Này Cunda, là vậy.\
@@ -859,7 +859,7 @@ Kẻ làm ô uế đạo.
 
 Cunda:
 
-85. Người thợ rèn Cunda,\
+85. Người thợ rèn Cunda, {#85}\
 Liền bạch với Thế Tôn:\
 Chư Phật nói thế nào,\
 Bậc chiến thắng con đường,\
@@ -872,7 +872,7 @@ Kẻ làm đường ô uế.
 
 Thế Tôn:
 
-86. Ai vượt khỏi nghi hoặc,\
+86. Ai vượt khỏi nghi hoặc, {#86}\
 Vị thoát khỏi mũi tên,\
 Ưa thích cảnh Niết-bàn,\
 Không tham đắm vật gì,\
@@ -881,7 +881,7 @@ Chư Thiên và loài Người,\
 Chư Phật gọi vị ấy,\
 Bậc chiến thắng con đường.
 
-87. Ai ở đời biết được,\
+87. Ai ở đời biết được, {#87}\
 Pháp tối thượng, tối thượng,\
 Nói lên và phân tích,\
 Pháp ở đây là vậy.\
@@ -890,14 +890,14 @@ Bậc ẩn sĩ, không dục,\
 Bậc Tỷ-kheo thứ hai\
 Ðược gọi thuyết con đường.
 
-88. Ai sống trên con đường,\
+88. Ai sống trên con đường, {#88}\
 Con đường pháp khéo giảng,\
 Sống chế ngự chánh niệm,\
 Bước đường không lỗi lầm,\
 Tỷ-kheo thứ ba này\
 Ðược gọi sống trên đường.
 
-89. Ai sống ưa che đậy,\
+89. Ai sống ưa che đậy, {#89}\
 Dưới hình thức giới cấm,\
 Xông xáo, nhớp gia đình,\
 Bạt mạng và man trá,\
@@ -906,7 +906,7 @@ Sống lắm mồm lắm miệng.\
 Người sở hành như vậy\
 Là kẻ ô uế đạo.
 
-90. Vị cư sĩ thâm hiểu\
+90. Vị cư sĩ thâm hiểu {#90}\
 Các hạng người như vậy,\
 Thánh đệ tử, nghe nhiều,\
 Có trí tuệ thông hiểu,\
@@ -919,7 +919,7 @@ Kẻ ác với người thiện,\
 Làm sao xem giống nhau,\
 Bậc tịnh, kẻ không tịnh.
 
-### **(VI) Kinh Bại Vong (Paràbhava) (Sn 18)**
+### **(VI) Kinh Bại Vong (Paràbhava) (Sn 18)** {#6}
 
 Như vầy tôi nghe:
 
@@ -927,178 +927,178 @@ Một thời Thế Tôn trú ở Sàvatthi, tại Jetavana, khu vườn ông An�
 
 Thiên nhân:
 
-91. Về bại vong con người,\
+91. Về bại vong con người, {#91}\
 Con hỏi Gotama,\
 Con đến hỏi Thế Tôn,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-92. Thật dễ hiểu thành công,\
+92. Thật dễ hiểu thành công, {#92}\
 Thật dễ hiểu bại vong,\
 Ưa mến pháp, thành công,\
 Thù ghét pháp bại vong.
 
 Thiên nhân:
 
-93. Như vậy, chúng con rõ,\
+93. Như vậy, chúng con rõ, {#93}\
 Thứ nhất về bại vong,\
 Thứ hai, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-94. Ai mến kẻ bất thiện,\
+94. Ai mến kẻ bất thiện, {#94}\
 Không ái luyến bậc thiện,\
 Thích pháp kẻ bất thiện,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-95. Như vậy, chúng con rõ,\
+95. Như vậy, chúng con rõ, {#95}\
 Thứ hai về bại vong,\
 Thứ ba, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-96. Người tánh ưa thích ngủ,\
+96. Người tánh ưa thích ngủ, {#96}\
 Thích hội chúng, thụ động,\
 Biếng nhác, thường phẫn nộ,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-97. Như vậy, chúng con rõ,\
+97. Như vậy, chúng con rõ, {#97}\
 Thứ ba về bại vong.\
 Thứ tư, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-98. Ai với mẹ hay cha,\
+98. Ai với mẹ hay cha, {#98}\
 Già yếu, tuổi trẻ hết,\
 Tuy giàu không giúp đỡ,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-99. Như vậy, chúng con rõ,\
+99. Như vậy, chúng con rõ, {#99}\
 Thứ tư về bại vong.\
 Thứ năm, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-100. Ai nói dối lường gạt,\
+100. Ai nói dối lường gạt, {#100}\
 Sa-môn, Bà-la-môn,\
 Hay các khất sĩ khác,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-101. Như vậy, chúng con rõ,\
+101. Như vậy, chúng con rõ, {#101}\
 Thứ năm về bại vong.\
 Thứ sáu, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-102. Người giàu có tài sản,\
+102. Người giàu có tài sản, {#102}\
 Có vàng bạc thực vật,\
 Hương vị ngọt một mình,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-103. Như vậy, chúng con rõ\
+103. Như vậy, chúng con rõ {#103}\
 Thứ sáu về bại vong.\
 Thứ bảy, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-104. Người tự hào về sanh,\
+104. Người tự hào về sanh, {#104}\
 Về tài sản dòng họ,\
 Khinh miệt các bà con,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-105. Như vậy, chúng con rõ,\
+105. Như vậy, chúng con rõ, {#105}\
 Thứ bảy về bại vong,\
 Thứ tám, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-106. Người đắm say nữ nhân,\
+106. Người đắm say nữ nhân, {#106}\
 Ðắm say rượu, cờ bạc,\
 Hoang phí mọi lợi đắc,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-107. Như vậy, chúng con rõ,\
+107. Như vậy, chúng con rõ, {#107}\
 Thứ tám về bại vong.\
 Thứ chín, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-108. Không vừa đủ vợ mình,\
+108. Không vừa đủ vợ mình, {#108}\
 Ðược thấy giữa dâm nữ,\
 Ðược thấy với vợ người,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-109. Như vậy, chúng con rõ,\
+109. Như vậy, chúng con rõ, {#109}\
 Thứ chín về bại vong.\
 Thứ mười, mong Ngài nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-110. Người tuổi trẻ đã qua,\
+110. Người tuổi trẻ đã qua, {#110}\
 Cưới cô vợ vú tròn,\
 Ghen nàng không ngủ được,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-111. Như vậy, chúng con rõ,\
+111. Như vậy, chúng con rõ, {#111}\
 Thứ mười về bại vong.\
 Thứ mười một, xin nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-112. Ðàn bà, hay đàn ông,\
+112. Ðàn bà, hay đàn ông, {#112}\
 Rượu chè, tiêu hoang phí,\
 Ðược địa vị quyền thế,\
 Chính cửa vào bại vong.
 
 Thiên nhân:
 
-113. Như vậy, chúng con biết,\
+113. Như vậy, chúng con biết, {#113}\
 Thứ mười một bại vong.\
 Thứ mười hai, xin nói,\
 Cửa vào của bại vong?
 
 Thế Tôn:
 
-114. Tài sản ít, ái lớn,\
+114. Tài sản ít, ái lớn, {#114}\
 Sanh gia đình hoàng tộc,\
 Ở đây muốn trị vì,\
 Chính cửa vào bại vong.
 
-115. Bại vong này ở đời,\
+115. Bại vong này ở đời, {#115}\
 Bậc trí khéo quán sát,\
 Ðầy đủ với chánh kiến,\
 Sống hạnh phúc ở đời.
 
-### **(VII) Kinh Kẻ Bần Tiện (Vasalasuttam) (Sn 21)**
+### **(VII) Kinh Kẻ Bần Tiện (Vasalasuttam) (Sn 21)** {#7}
 
 Như vầy tôi nghe:
 
@@ -1118,142 +1118,142 @@ Khi được nói vậy, Thế Tôn nói với Bà-la-môn Aggibhàradvàja:
 
 Bà-la-môn Aggibhàradvàja vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-116. Người phẫn nộ, hiềm hận,\
+116. Người phẫn nộ, hiềm hận, {#116}\
 Ác nhân, gièm pha người,\
 Ác tà kiến, man trá,\
 Ðược biết là bần tiện.
 
-117. Ai ở đây hại vật,\
+117. Ai ở đây hại vật, {#117}\
 Một sanh, hoặc hai sanh,\
 Không thương xót hữu tình,\
 Ðược biết là bần tiện.
 
-118. Ai làm hại vây hãm,\
+118. Ai làm hại vây hãm, {#118}\
 Các làng, các thị trấn,\
 Kẻ cướp đoạt có tiếng,\
 Ðược biết là kẻ bần tiện.
 
-119. Tại làng hay tại rừng,\
+119. Tại làng hay tại rừng, {#119}\
 Vật sở hữu của người,\
 Lấy trộm của không cho,\
 Ðược biết là kẻ bần tiện.
 
-120. Ai vay nợ của người,\
+120. Ai vay nợ của người, {#120}\
 Bị đòi liền trốn tránh,\
 Ta đâu mắc nợ ngươi,\
 Ðược biết là kẻ bần tiện.
 
-121. Ai vì ham vật mọn,\
+121. Ai vì ham vật mọn, {#121}\
 Kẻ đang đi trên đường,\
 Giết hại cướp vật mọn,\
 Ðược biết là kẻ bần tiện.
 
-122. Ai vì mình, vì người,\
+122. Ai vì mình, vì người, {#122}\
 Hay vì nhân tài sản,\
 Làm nhân họ nói láo,\
 Ðược biết là kẻ bần tiện.
 
-123. Ai được thấy giữa vợ\
+123. Ai được thấy giữa vợ {#123}\
 Của bà con, bạn thân,\
 Ép buộc hay ưng thuận,\
 Ðược biết là kẻ bần tiện.
 
-124. Ai với mẹ hay cha,\
+124. Ai với mẹ hay cha, {#124}\
 Già yếu, tuổi trẻ qua,\
 Tuy giàu không giúp đỡ,\
 Ðược biết là kẻ bần tiện.
 
-125. Ai với mẹ hay cha,\
+125. Ai với mẹ hay cha, {#125}\
 Với anh chị, nhạc mẫu,\
 Làm hại, dùng lời mắng,\
 Ðược biết là kẻ bần tiện.
 
-126. Ai được hỏi mục đích,\
+126. Ai được hỏi mục đích, {#126}\
 Lại khuyên lời trái đích,\
 Khuyên bảo nên che đậy,\
 Ðược biết là kẻ bần tiện.
 
-127. Ai làm các nghiệp ác,\
+127. Ai làm các nghiệp ác, {#127}\
 Muốn không biết mình làm,\
 Ai làm hạnh che đậy,\
 Ðược biết là kẻ bần tiện.
 
-128. Ai đến nhà người khác,\
+128. Ai đến nhà người khác, {#128}\
 Ăn món ăn ngon lành,\
 Lại không đáp lễ lại,\
 Ðược biết là bần tiện.
 
-129. Ai nói dối lường gạt,\
+129. Ai nói dối lường gạt, {#129}\
 Sa-môn, Bà-la-môn,\
 Hay các người nghèo khác,\
 Ðược biết là bần tiện.
 
-130. Dùng lời mắng, không cho,\
+130. Dùng lời mắng, không cho, {#130}\
 Sa-môn, Bà-la-môn,\
 Khi thời ăn uống đến,\
 Ðược biết là bần tiện.
 
-131. Ở đời nói không thật,\
+131. Ở đời nói không thật, {#131}\
 Bị si mê che đậy,\
 Tham cầu chút lợi nhỏ,\
 Ðược biết là bần tiện.
 
-132. Ai đề cao tự ngã,\
+132. Ai đề cao tự ngã, {#132}\
 Khi miệt giá trị người,\
 Hạ mình với tự cao,\
 Ðược biết là bần tiện.
 
-133. Ai gây hấn, hà tiện,\
+133. Ai gây hấn, hà tiện, {#133}\
 Ác dục và xan tham,\
 Xảo quyệt, không tàm quí,\
 Ðược biết là bần tiện.
 
-134. Ai phỉ báng đức Phật,\
+134. Ai phỉ báng đức Phật, {#134}\
 Hay đệ tử của Ngài,\
 Hàng xuất gia, tại gia,\
 Ðược biết là bần tiện.
 
-135. Ai không phải La-hán,\
+135. Ai không phải La-hán, {#135}\
 Tự nhận là La-hán,\
 Kẻ trộm Phạm thiên giới,\
 Chính tối hạ bần tiện.\
 Những hàng bần tiện này,\
 Ta nói rõ cho Ông.
 
-136. Bần tiện không vì sanh,\
+136. Bần tiện không vì sanh, {#136}\
 Phạm chí không vì sanh,\
 Do hành, thành bần tiện,\
 Do hành, thành Phạm chí.
 
-137. Do đây, nên hiểu biết,\
+137. Do đây, nên hiểu biết, {#137}\
 Như Ta trình bày rõ,\
 Màtanga được danh,\
 Bần tiện, ăn thịt chó.
 
-138. Danh tối thượng khó đạt,\
+138. Danh tối thượng khó đạt, {#138}\
 Màtanga đạt được,\
 Nhiều Sát-ly, Phạm chí,\
 Ðến hầu hạ vị ấy.\
-139. Vị ấy leo thiên xa,\
+139. Vị ấy leo thiên xa, {#139}\
 Trên đường lớn không bụi,\
 Từ bỏ mọi dục tham,\
 Ðạt được Phạm thiên giới,\
 Thọ sanh không ngăn chận,\
 Vị ấy sanh Phạm thiên.
 
-140. Có những Bà-la-môn,\
+140. Có những Bà-la-môn, {#140}\
 Sanh gia đình Ðạo sư,\
 Hay sanh những gia đình\
 Quyến thuộc với bùa chú,\
 Họ vẫn thường được thấy,\
 Làm các điều ác nghiệp,
 
-141. Hiện tại bị khinh miệt,\
+141. Hiện tại bị khinh miệt, {#141}\
 Ðời sau sanh ác thú,\
 Thọ sanh không ngăn chận,\
 Sanh ác thú đáng khinh.
 
-142. Bần tiện không vì sanh,\
+142. Bần tiện không vì sanh, {#142}\
 Phạm chí không vì sanh,\
 Do hành thành bần tiện,\
 Do hành thành Phạm chí.
@@ -1262,9 +1262,9 @@ Khi được nói vậy, Bà-la-môn Bhàradvàja bạch Thế Tôn:
 
 – Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay, thưa Tôn giả Gotama! Thưa Tôn giả Gotama, ví như người dựng đứng lại những gì bị quăng ngã xuống, mở toang ra những gì bị che kín, chỉ đường cho kẻ bị lạc hướng, đem đèn sáng vào trong bóng tối, để những ai có mắt có thể thấy sắc. Cũng vậy, Pháp được Tôn giả Gotama dùng nhiều phương tiện trình bày. Con nay qui y Tôn giả Gotama, qui y Pháp và qui y chúng Tỷ-kheo. Mong Tôn giả Gotama nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời qui ngưỡng.
 
-### **(VIII) Kinh Từ Bi (Metta Sutta) (Sn 25)**
+### **(VIII) Kinh Từ Bi (Metta Sutta) (Sn 25)** {#8}
 
-143. Vị thiện xảo mục đích,\
+143. Vị thiện xảo mục đích, {#143}\
 Cần phải làm như sau:\
 Sau khi hiểu thông suốt,\
 Con đường an tịnh ấy,\
@@ -1273,7 +1273,7 @@ Thật sự, khéo chân trực,\
 Dễ nói và nhu hòa,\
 Không có gì cao mạn.
 
-144. Sống cảm thấy vừa đủ,\
+144. Sống cảm thấy vừa đủ, {#144}\
 Nuôi sống thật dễ dàng,\
 Ít có sự rộn ràng,\
 Sống đạm bạc giản dị.\
@@ -1282,7 +1282,7 @@ Khôn ngoan và thật trọng,\
 Không xông xáo gia đình,\
 Không tham ái, tham vọng.
 
-145. Các sở hành của mình,\
+145. Các sở hành của mình, {#145}\
 Không nhỏ nhen vụn vặt,\
 Khiến người khác có trí,\
 Có thể sanh chỉ trích.\
@@ -1291,21 +1291,21 @@ Mong mọi loài chúng sanh,\
 Mong họ chứng đạt được,\
 Hạnh phúc và an lạc.
 
-146. Mong tất cả những ai,\
+146. Mong tất cả những ai, {#146}\
 Hữu tình có mạng sống,\
 Kẻ yếu hay kẻ mạnh,\
 Không bỏ sót một ai,\
 Kẻ dài hay kẻ lớn,\
 Trung, thấp, loài lớn, nhỏ.
 
-147. Loài được thấy, không thấy,\
+147. Loài được thấy, không thấy, {#147}\
 Loài sống xa, không xa,\
 Các loài hiện đang sống,\
 Các loài sẽ được sanh,\
 Mong mọi loài chúng sanh\
 Sống hạnh phúc an lạc.
 
-148. Mong rằng không có ai,\
+148. Mong rằng không có ai, {#148}\
 Lường gạt lừa dối ai,\
 Không có ai khinh mạn,\
 Tại bất cứ chỗ nào.\
@@ -1314,7 +1314,7 @@ Không vì tưởng chống đối.\
 Lại có người mong muốn,\
 Làm đau khổ cho nhau.
 
-149. Như tấm lòng người mẹ,\
+149. Như tấm lòng người mẹ, {#149}\
 Ðối với con của mình,\
 Trọn đời lo che chở,\
 Con độc nhất mình sanh.\
@@ -1323,7 +1323,7 @@ Các hữu tình chúng sanh,\
 Hãy tu tập tâm ý,\
 Không hạn lượng rộng lớn.
 
-150. Hãy tu tập từ tâm,\
+150. Hãy tu tập từ tâm, {#150}\
 Trong tất cả thế giới,\
 Hãy tu tập tâm ý,\
 Không hạn lượng rộng lớn.\
@@ -1332,7 +1332,7 @@ Cũng vậy, cả bề ngang,\
 Không hạn chế, trói buộc,\
 Không hận, không thù địch.
 
-151. Khi đứng, hay khi đi,\
+151. Khi đứng, hay khi đi, {#151}\
 Khi ngồi, hay khi nằm,\
 Lâu cho đến khi nào,\
 Khi đang còn tỉnh thức,\
@@ -1341,18 +1341,18 @@ Nếp sống này như vậy,\
 Ðược đời đề cập đến,\
 Là nếp sống tối thượng.
 
-152. Ai từ bỏ tà kiến,\
+152. Ai từ bỏ tà kiến, {#152}\
 Giữ giới, đủ chánh kiến,\
 Nhiếp phục được tham ái,\
 Ðối với các dục vọng,\
 Không còn phải tái sanh,\
 Ði đến thai tạng nữa.
 
-### **(IX) Kinh Hemavata (Sn 27)**
+### **(IX) Kinh Hemavata (Sn 27)** {#9}
 
 Sàtàgira:
 
-153. Nay đúng vào ngày rằm,\
+153. Nay đúng vào ngày rằm, {#153}\
 Ngày trai giới, bố-tát,\
 Nói vậy là dạ-xoa,\
 Tên Sàtàgira,\
@@ -1363,7 +1363,7 @@ Bậc Ðạo Sư vô thượng.
 
 Hemavata:
 
-154. Có phải ý vị ấy,\
+154. Có phải ý vị ấy, {#154}\
 Tâm nguyện thật khéo phát?\
 Nói vậy là dạ-xoa,\
 Tên Hemavata,\
@@ -1376,7 +1376,7 @@ Và pháp không khả ái?
 
 Sàtàgira:
 
-155. Ý vị ấy là vậy,\
+155. Ý vị ấy là vậy, {#155}\
 Tâm nguyện thật khéo phát,\
 Nói vậy là dạ-xoa,\
 Tên Sàtàgira,\
@@ -1387,7 +1387,7 @@ Như vậy là tư duy,\
 
 Hemavata:
 
-156. Có phải là vị ấy\
+156. Có phải là vị ấy {#156}\
 Không lấy vật không cho?\
 Nói vậy là dạ-xoa,\
 Tên Hemavata,\
@@ -1400,7 +1400,7 @@ Vị ấy không từ bỏ?
 
 Sàtàgira:
 
-157. Vị ấy không có lấy\
+157. Vị ấy không có lấy {#157}\
 Những vật không được cho,\
 Nói vậy là dạ-xoa,\
 Tên Sàtàgira,\
@@ -1413,7 +1413,7 @@ Không từ bỏ, sao lãng.
 
 Hemavata:
 
-158. Có phải là vị ấy,\
+158. Có phải là vị ấy, {#158}\
 Không nói lời nói láo?\
 Nói vậy là Dạ-xoa,\
 Tên Hemavata,\
@@ -1426,7 +1426,7 @@ Không nói lời phù phiếm?
 
 Sàtàgira:
 
-159. Và thật sự vị ấy,\
+159. Và thật sự vị ấy, {#159}\
 Không nói lời nói láo,\
 Nói vậy là Dạ-xoa,\
 Tên Sàtàgira,\
@@ -1437,7 +1437,7 @@ Sáng suốt, có nghĩa lý.
 
 Hemavata:
 
-160. Có phải đối các dục,\
+160. Có phải đối các dục, {#160}\
 Vị ấy không tham ái?\
 Ðây là lời Dạ-xoa,\
 Tên Hemavata,\
@@ -1450,7 +1450,7 @@ Có mắt đối các pháp?
 
 Sàtàgira:
 
-161. Vị ấy không tham ái\
+161. Vị ấy không tham ái {#161}\
 Ðối với các dục vọng,\
 Ðây là lời Dạ-xoa,\
 Tên Sàtàgira,\
@@ -1461,7 +1461,7 @@ Vượt khỏi mọi si ám,\
 
 Hemavata:
 
-162. Có phải là vị ấy\
+162. Có phải là vị ấy {#162}\
 Ðầy đủ về các minh?\
 Ðây là lời Dạ-xoa\
 Tên Hemavata,\
@@ -1474,7 +1474,7 @@ Không còn có tái sanh?
 
 Sàtàgira:
 
-163. Sự thật là vị ấy,\
+163. Sự thật là vị ấy, {#163}\
 Ðầy đủ với các minh,\
 Ðây là lời Dạ-xoa,\
 Tên Sàtàgira\
@@ -1485,7 +1485,7 @@ Không còn có tái sanh.
 
 Hemavata:
 
-163. (a) Có phải vị ẩn sĩ,\
+163. (a) Có phải vị ẩn sĩ, {#163}\
 Với tâm được viên mãn,\
 Mọi việc làm vị ấy\
 Ðược làm khéo hoàn mãn,\
@@ -1496,7 +1496,7 @@ Vị đầy đủ trí đức,\
 
 Sàtàgira:
 
-163. (b) Thật sự vị ẩn sĩ,\
+163. (b) Thật sự vị ẩn sĩ, {#163}\
 Với tâm được viên mãn,\
 Mọi việc làm vị ấy\
 Ðược làm khéo hoàn mãn.\
@@ -1507,7 +1507,7 @@ Vị đầy đủ trí đức,\
 
 Cả hai:
 
-164. Thật sự vị ẩn sĩ,\
+164. Thật sự vị ẩn sĩ, {#164}\
 Với tâm được viên mãn,\
 Mọi việc làm vị ấy\
 Ðược làm khéo hoàn mãn.\
@@ -1518,7 +1518,7 @@ Vị đầy đủ trí đức,\
 
 Hemavata:
 
-165. Bắp chân giống như nai,\
+165. Bắp chân giống như nai, {#165}\
 Thon vững chắc, bền bỉ,\
 Giản dị ít nhu cầu,\
 Không tham đắm vật gì.\
@@ -1527,7 +1527,7 @@ Hãy đi đến yết kiến\
 Vị hành trì thiền định,\
 Trong rừng núi xa vắng.
 
-166. Sống cô độc một mình,\
+166. Sống cô độc một mình, {#166}\
 Như sư tử, như voi,\
 Ngài không có tham đắm,\
 Không cầu mong các dục.\
@@ -1538,7 +1538,7 @@ Khỏi cạm bẫy Ác ma.
 
 Cả hai:
 
-167. Vị tuyên bố giải thích,\
+167. Vị tuyên bố giải thích, {#167}\
 Vị đạt đến mọi pháp,\
 Bậc giác ngộ vượt khỏi\
 Hận thù và sợ hãi,\
@@ -1547,7 +1547,7 @@ Sa-môn Gotama.
 
 Hemavata:
 
-168. Do pháp nào có mặt,\
+168. Do pháp nào có mặt, {#168}\
 Thế giới được sanh khởi,\
 Nói vậy là dạ-xoa,\
 Tên Hemavata.\
@@ -1560,7 +1560,7 @@ Thế giới bị tàn hại?
 
 Thế Tôn:
 
-169. Do sáu pháp có mặt,\
+169. Do sáu pháp có mặt, {#169}\
 Thế giới được sanh khởi,\
 Này Hemavata,\
 Thế Tôn nói như vậy.\
@@ -1573,7 +1573,7 @@ Thế giới bị tàn hại.
 
 Hemavata:
 
-170. Do chấp thủ cái gì,\
+170. Do chấp thủ cái gì, {#170}\
 Ðây thế giới bị hại?\
 Ðược hỏi, hãy nói lên,\
 Về con đường thoát đời.\
@@ -1582,38 +1582,38 @@ Làm thế nào đau khổ,\
 
 Thế Tôn:
 
-171. Ðây, năm dục trưởng dưỡng,\
+171. Ðây, năm dục trưởng dưỡng, {#171}\
 Ý được gọi thứ sáu,\
 Bỏ ước muốn ở đây,\
 Như vậy, thoát đau khổ.
 
-172. Ðây, con đường thoát đời.\
+172. Ðây, con đường thoát đời. {#172}\
 Như thật nói Ông rõ,\
 Ðường này Ta nói Ông,\
 Như vậy, thoát đau khổ.
 
 Hemavata:
 
-173. Ðây, ai vượt bộc lưu?\
+173. Ðây, ai vượt bộc lưu? {#173}\
 Ðây, ai vượt biển lớn?\
 Không chân đứng bám víu,\
 Ai không chìm vực sâu?
 
 Thế Tôn:
 
-174. Ai luôn luôn đủ giới,\
+174. Ai luôn luôn đủ giới, {#174}\
 Có tuệ, khéo thiền định,\
 Tâm hướng nội, chánh niệm,\
 Vượt bộc lưu khó vượt.
 
-175. Ai từ bỏ dục tưởng,\
+175. Ai từ bỏ dục tưởng, {#175}\
 Vượt khỏi mọi kiết sử,\
 Ai, hỷ, hữu đoạn tận,\
 Không chìm vào vực sâu.
 
 Hemavata:
 
-176. Vị trí tuệ thâm sâu,\
+176. Vị trí tuệ thâm sâu, {#176}\
 Thấy được đích tế nhị,\
 Vị không có sở hữu,\
 Không tham đắm dục hữu.\
@@ -1622,7 +1622,7 @@ Vị luôn luôn giải thoát,\
 Bậc đại sĩ tiến bước,\
 Trên con đường Thiên đạo.
 
-177. Bậc danh xưng vô thượng,\
+177. Bậc danh xưng vô thượng, {#177}\
 Bậc thấy đích tế nhị,\
 Bậc ban bố trí tuệ,\
 Không tham đắm dục tạng.\
@@ -1631,7 +1631,7 @@ Vị Toàn trí, Thiện tuệ,\
 Bậc Ðại sĩ tiến bước\
 Trên con đường Thánh đạo.
 
-178. Hôm nay thật chúng con\
+178. Hôm nay thật chúng con {#178}\
 Ðược thấy điềm tốt lành,\
 Ðược hào quang chói sáng,\
 Của bình minh tốt lành.\
@@ -1640,21 +1640,21 @@ Bậc Chánh Ðẳng Chánh Giác,\
 Bậc đã vượt bộc lưu,\
 Bậc đã đoạn lậu hoặc.
 
-179. Ngàn vị dạ-xoa này,\
+179. Ngàn vị dạ-xoa này, {#179}\
 Có thần lực danh xưng,\
 Tất cả xin đi đến\
 Y tựa quy ngưỡng Ngài,\
 Ngài là bậc Ðạo Sư,\
 Vô thượng của chúng con.
 
-180. Chúng con sẽ bộ hành\
+180. Chúng con sẽ bộ hành {#180}\
 Làng này qua làng khác,\
 Thành này qua thành khác,\
 Ðảnh lễ bậc Chánh giác,\
 Ðảnh lễ thiện pháp tánh,\
 Của Chánh pháp vi diệu.
 
-### **(X) Kinh Alavaka (Sn 31)**
+### **(X) Kinh Alavaka (Sn 31)** {#10}
 
 Như vầy tôi nghe:
 
@@ -1712,7 +1712,7 @@ Rồi Dạ-xoa với bài kệ nói với Thế Tôn:
 
 Alavaka:
 
-181. Ở đời, tài sản gì,\
+181. Ở đời, tài sản gì, {#181}\
 Tối thắng cho con người?\
 Cái gì khéo thực hành\
 Ðem lại chơn an lạc.\
@@ -1723,7 +1723,7 @@ Gọi nếp sống tối thắng?
 
 Thế Tôn:
 
-182. Ở đời này, lòng tin,\
+182. Ở đời này, lòng tin, {#182}\
 Tối thắng cho con người,\
 Cái gì khéo thực hành,\
 Ðem lại chơn an lạc?\
@@ -1736,21 +1736,21 @@ Là nếp sống tối thắng.
 
 Alavaka:
 
-183. Thế nào vượt bộc lưu?\
+183. Thế nào vượt bộc lưu? {#183}\
 Thế nào vượt biển lớn?\
 Thế nào vượt qua khổ?\
 Thế nào thật thanh tịnh?
 
 Thế Tôn:
 
-184. Với tín, vượt bộc lưu,\
+184. Với tín, vượt bộc lưu, {#184}\
 Không phóng dật, vượt biển,\
 Tinh tấn, vượt đau khổ,\
 Với tuệ, được thanh tịnh.
 
 Alavaka:
 
-185. Thế nào được trí tuệ?\
+185. Thế nào được trí tuệ? {#185}\
 Thế nào được tài sản?\
 Thế nào đạt danh xưng?\
 Thế nào cột bạn hữu?\
@@ -1759,24 +1759,24 @@ Thế nào, chết không sầu?
 
 Thế Tôn:
 
-186. Tin tưởng bậc La-hán,\
+186. Tin tưởng bậc La-hán, {#186}\
 Tin pháp, đạt Niết-bàn,\
 Khéo nghe, được trí tuệ,\
 Bậc trí, không phóng dật.
 
-187. Làm thích đáng trách nhiệm,\
+187. Làm thích đáng trách nhiệm, {#187}\
 Phấn đấu được tài sản,\
 Với sự thật được danh,\
 Bố thí cột bạn bè.
 
-188. Ai là người gia chủ,\
+188. Ai là người gia chủ, {#188}\
 Tin tưởng bốn pháp này,\
 Sự thật và Chánh pháp,\
 Kiên trì và bố thí,\
 Vị ấy sau khi chết,\
 Nhất định không sầu muộn.
 
-189. Hãy hỏi các vị khác,\
+189. Hãy hỏi các vị khác, {#189}\
 Sa-môn, Bà-la-môn,\
 Nếu có pháp nào khác\
 Ở đời, lại thắng hơn,\
@@ -1785,105 +1785,105 @@ Bố thí và kham nhẫn?
 
 Alavaka:
 
-190. Sao nay con rộng hỏi,\
+190. Sao nay con rộng hỏi, {#190}\
 Sa-môn, Bà-la-môn,\
 Nay con được rõ biết,\
 Hiện, vị lai hạnh phúc.
 
-191. Vì hạnh phúc cho con,\
+191. Vì hạnh phúc cho con, {#191}\
 Mong rằng bậc Giác Ngộ,\
 Hãy đi đến an trú,\
 Tại xứ Alavi.\
 Nay con đã rõ biết.\
 Chỗ nào thí, quả lớn.
 
-192. Con sẽ đi bộ hành,\
+192. Con sẽ đi bộ hành, {#192}\
 Làng này qua làng khác,\
 Thành này qua thành khác,\
 Ðảnh lễ bậc Giác Ngộ,\
 Ðảnh lễ thiện pháp tánh\
 Của Chánh pháp vi diệu.
 
-### **(XI) Kinh Thắng Trận (Sn 34)**
+### **(XI) Kinh Thắng Trận (Sn 34)** {#11}
 
-193. Hoặc là đi hay đứng,\
+193. Hoặc là đi hay đứng, {#193}\
 Hoặc là ngồi hay nằm,\
 Hoặc co tay, duỗi tay,\
 Như vậy, thân dao động.
 
-194. Ràng buộc với xương gân,\
+194. Ràng buộc với xương gân, {#194}\
 Trét thoa với da thịt,\
 Thân được da che đậy,\
 Như thật không thấy rõ.
 
-195. Trong một bụng chứa đầy,\
+195. Trong một bụng chứa đầy, {#195}\
 Cục gan, và bọng đái,\
 Quả tim và buồng phổi,\
 Cả thận, và tỳ tạng.
 
-196. Nước mũi, và nước miếng,\
+196. Nước mũi, và nước miếng, {#196}\
 Mồ hôi, và nước mỡ,\
 Máu, và nước khớp xương,\
 Mật, và bạch huyết cầu.
 
-197. Từ chín nguồn nước này,\
+197. Từ chín nguồn nước này, {#197}\
 Bất tịnh luôn luôn chảy,\
 Từ mắt, đồ bẩn chảy,\
 Từ tai, đồ bẩn chảy.
 
-198. Nước mũi từ lỗ mũi,\
+198. Nước mũi từ lỗ mũi, {#198}\
 Từ miệng, có khi chảy,\
 Chảy mật, và niêm dịch,\
 Từ thân, mồ hôi bẩn.
 
-199. Trong đầu thật trống rỗng,\
+199. Trong đầu thật trống rỗng, {#199}\
 Chứa đầy những óc, não.\
 Bị vô minh dắt dẫn,\
 Kẻ ngu nghĩ tịnh sạch.
 
-200. Khi bị chết nằm xuống,\
+200. Khi bị chết nằm xuống, {#200}\
 Phồng lên, và xanh bầm,\
 Quăng bỏ trong nghĩa địa,\
 Bà con không đoái hoài.
 
-201. Chó, dã can đến ăn,\
+201. Chó, dã can đến ăn, {#201}\
 Chó sói, các côn trùng,\
 Quạ, diều hâu đến ăn,\
 Còn có hữu tình khác.
 
-202. Ðược nghe lời Phật dạy,\
+202. Ðược nghe lời Phật dạy, {#202}\
 Tỷ-kheo có trí tuệ,\
 Vị ấy liễu tri thân,\
 Thấy thân đúng như thật.
 
-203. Ðây thế nào, kia vậy,\
+203. Ðây thế nào, kia vậy, {#203}\
 Kia thế nào, đây vậy,\
 Ðối với thân trong ngoài,\
 Từ bỏ mọi lòng dục.
 
-204. Từ bỏ lòng tham dục,\
+204. Từ bỏ lòng tham dục, {#204}\
 Ðây Tỷ-kheo có tuệ,\
 Chứng bất tử, tịch tịnh,\
 Niết-bàn giới thường trú.
 
-205. Thân này với hai chân,\
+205. Thân này với hai chân, {#205}\
 Bất tịnh và hôi thúi,\
 Ðầy xác chết, chảy nước,\
 Lại được giữ, nâng niu.
 
-206. Với thân thể như vậy,\
+206. Với thân thể như vậy, {#206}\
 Ai lại nghĩ đề cao,\
 Hay khinh miệt kẻ khác,\
 Trừ kẻ không thấy gì.
 
-### **(XII) Kinh ẩn sĩ (Sn 35)**
+### **(XII) Kinh ẩn sĩ (Sn 35)** {#12}
 
-207. Thân mật, sanh sợ hãi,\
+207. Thân mật, sanh sợ hãi, {#207}\
 Trú xứ, sanh bụi bặm,\
 Không trú xứ, không thân,\
 Hình ảnh bậc ẩn sĩ.
 
-208. Ai đã chặt sanh hữu,\
+208. Ai đã chặt sanh hữu, {#208}\
 Không còn gieo giống thêm,\
 Sanh hữu đã đoạn tận,\
 Không muốn nó tùy sanh,\
@@ -1892,7 +1892,7 @@ Một mình đi im lặng,\
 Bậc đại sĩ đã thấy,\
 Con đường tịch tịnh ấy.
 
-209. Sau khi ước lượng đất,\
+209. Sau khi ước lượng đất, {#209}\
 Tìm hiểu được hột giống,\
 Không còn muốn tham ái,\
 Ðược tiếp tục tùy sanh,\
@@ -1901,14 +1901,14 @@ Thấy sanh diệt chấm dứt,\
 Ðoạn tận mọi lý luận,\
 Không rơi vào tính toán.
 
-210. Ðã rõ mọi trú xứ,\
+210. Ðã rõ mọi trú xứ, {#210}\
 Không ham trú xứ nào,\
 Vị ấy chân ẩn sĩ,\
 Không tham, không say đắm.\
 Không còn phải ra sức,\
 Ðã đạt bờ bên kia.
 
-211. Bậc chiến thắng toàn diện,\
+211. Bậc chiến thắng toàn diện, {#211}\
 Bậc toàn tri, thiện tuệ,\
 Ðối với tất cả pháp,\
 Không còn bị ô nhiễm.\
@@ -1917,7 +1917,7 @@ Bậc từ bỏ tất cả,\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-212. Vị có trí tuệ lực,\
+212. Vị có trí tuệ lực, {#212}\
 Giới cấm được đầy đủ,\
 Ðịnh tĩnh, thích thiền định,\
 Gìn giữ trì chánh niệm,\
@@ -1926,7 +1926,7 @@ Không hoang vu, lậu tận,\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-213. Bộ hành, riêng một mình,\
+213. Bộ hành, riêng một mình, {#213}\
 ẩn sĩ, không phóng dật,\
 Trước chê bai, tán thán,\
 Không có bị dao động.\
@@ -1939,7 +1939,7 @@ Người không ai lãnh đạo.\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-214. Vị nào biết xử sự,\
+214. Vị nào biết xử sự, {#214}\
 Như cột trụ hồ tắm,\
 Khi người khác nói lời,\
 Lời khen chê cực đoạn,\
@@ -1948,14 +1948,14 @@ Với căn khéo định tĩnh,\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-215. Ai thật tự mình đứng\
+215. Ai thật tự mình đứng {#215}\
 Thẳng như cây thoi đưa,\
 Nhàm chán các nghiệp ác,\
 Quán sát chánh, bất chánh,\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-216. Ai biết tự chế ngự,\
+216. Ai biết tự chế ngự, {#216}\
 Không làm các điều ác,\
 Trẻ và hạng trung niên,\
 Bậc ẩn sĩ chế ngự,\
@@ -1964,7 +1964,7 @@ Vì không làm ai giận,\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-217. Ai sống nhờ người cho,\
+217. Ai sống nhờ người cho, {#217}\
 Nhận lãnh đồ khất thực,\
 Nhận từ trên, từ giữa,\
 Hay từ chỗ còn lại,\
@@ -1973,7 +1973,7 @@ Không nói lời hạ mình,\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-218. Sống thụ hạnh ẩn sĩ,\
+218. Sống thụ hạnh ẩn sĩ, {#218}\
 Từ bỏ sự dâm dục,\
 Ai lúc còn tuổi trẻ,\
 Không bị trói buộc gì,\
@@ -1982,7 +1982,7 @@ Từ bỏ mạn, phóng dật,\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-219. Rõ biết được thế giới,\
+219. Rõ biết được thế giới, {#219}\
 Thấy được lý chân đế,\
 Vượt khỏi được bộc lưu,\
 Vượt biển lớn như vậy.\
@@ -1991,7 +1991,7 @@ Không ỷ lại, vô lậu.\
 Các bậc trí nhận thức,\
 Vị ấy thật ẩn sĩ.
 
-220. Hai nếp sống không giống.\
+220. Hai nếp sống không giống. {#220}\
 An trú, thật xa nhau,\
 Gia chủ, có vợ con,\
 Không ngã sở, khéo nhiếp,\
@@ -2000,7 +2000,7 @@ Ngăn chận hữu tình khác,\
 Bậc ẩn sĩ luôn luôn,\
 Che chở loài hữu tình.
 
-221. Giống như loại chim công,\
+221. Giống như loại chim công, {#221}\
 Loại chim có cổ xanh,\
 Không bao giờ sánh bằng\
 Chim thiên nga nhanh nhẹn.\
