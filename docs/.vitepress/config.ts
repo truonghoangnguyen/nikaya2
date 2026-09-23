@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import footnote from 'markdown-it-footnote';
+import { idAnchorFix } from './utils.js'
 import { attrs } from "@mdit/plugin-attrs";
 // import markdownItKatex from 'markdown-it-katex';
 import { slugAnchor } from './utils';
@@ -37,6 +38,7 @@ import kinhtieubo_pali from '../kinhtieubo/pali/meta/filelist';
 
 import duc_phat_lich_su from '../ducphatlichsu/meta/filelist.js';
 import life_of_budda from '../the-life-of-the-buddha/meta/filelist.js';
+import giaolyvatongphai from '../giaolyvatongphai/meta/filelist.js';
 // import kinhtangchi_sujato_vi_intro from '../kinhtangchi/sujato-vi/intro/filelist';
 
 //@ts-ignore
@@ -138,7 +140,8 @@ const BOOK_NAV = {
   // 'plato/vi/intro': plato_vi,
 
   'ducphatlichsu': duc_phat_lich_su,
-  'the-life-of-the-buddha': life_of_budda
+  'the-life-of-the-buddha': life_of_budda,
+  'giaolyvatongphai': giaolyvatongphai
 };
 
 // --- SEO / Schema constants (PR5) ---
@@ -355,20 +358,21 @@ export default defineConfig({
     config: (md) => {
       // Add the footnote plugin
       md.use(footnote);
+      md.use(idAnchorFix)
       //md.use(attrs);
 
       // các quicklink /link?q=acb sẽ mở sang tab mới
-      const defaultRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
+      const defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, env, self) {
         return self.renderToken(tokens, idx, options)
       }
 
-      md.renderer.rules.link_open = function(tokens, idx, options, env, self) {
+      md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
         const token = tokens[idx]
         const href = token.attrGet('href')
 
         if (href && href.startsWith('/link')) {
           token.attrSet('target', 'blank')
-          token.attrSet('rel', 'noopener')  
+          token.attrSet('rel', 'noopener')
           // KHÔNG set rel="noreferrer" / rel="noopener"
         }
         return defaultRender(tokens, idx, options, env, self)

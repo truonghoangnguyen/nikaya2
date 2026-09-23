@@ -107,3 +107,6 @@ Thêm cờ flat cho quicklink (trường hợp kinh thag, thig)
 
 ### date 2026-09-18
 Thêm anchor vào kinh trung bộ `{#1}`, việc link tham khảo đến kinh và tìm đến đoạn nào đó rất dài và khó khăn. Nên tốt hơn thêm từng anchor vào eg `MN 33.21`
+
+### date 2026-09-20
+Việc thêm được các link đến phần tham khảo thật là hạnh phúc (/link?q=...)

@@ -149,16 +149,11 @@ def process_file(filename):
 # ============================================================
 
 files = [
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-1-mahakhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-2-uposathakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-3-vassupanayikakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-4-pavaranakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-5-cammakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-6-bhesajjakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-7-kathinakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-8-civarakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-9-campeyyakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/mv/pli-tv-kd-10-kosambakakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-018-tap-5-chuong-1-pham-ran-uragavagga.md",
+"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-019-tap-5-chuong-2-tieu-pham.md",
+"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-020-tap-5-chuong-3-dai-pham.md",
+"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-021-tap-5-chuong-4-pham-tam.md",
+"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-022-tap-5-chuong-5-tren-duong-den-bo-ben-kia.md",
 
 ]
 

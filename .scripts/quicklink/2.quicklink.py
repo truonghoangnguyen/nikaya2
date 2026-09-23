@@ -34,10 +34,8 @@ SOURCE_DIR = "../../docs/kinhtieubo/thichminhchau"  # Thư mục chứa file mar
 # "kn-052-tap-8-chuong-21-pham-bay-muoi-ke.md",
 
 FILES = [
-"kn-013-tap-4-chuong-1-tap-mot-phap.md",
-"kn-014-tap-4-chuong-2-tap-hai-phap.md",
-"kn-015-tap-4-chuong-3-tap-ba-phap.md",
-"kn-016-tap-4-chuong-4-tap-bon-phap.md"
+"kn-001-tap-1-kinh-tieu-tung.md",
+
 ]
 
 # ==========================================
@@ -62,7 +60,7 @@ HEADING_ANCHOR_RE = re.compile(
 
 # Tự động bắt số đầu tiên trong tên file làm key (vd: snc-01-... -> 1)
 TOP_INDEX_RE = re.compile(r'^[a-z]+-0*(\d+)', re.IGNORECASE)
-CHUONG_RE = re.compile(r'chuong-*(\d+)', re.IGNORECASE)
+CHUONG_RE = re.compile(r'tap-*(\d+)', re.IGNORECASE)
 
 def extract_key_from_filename(filename):
     m = CHUONG_RE.search(filename.lower())

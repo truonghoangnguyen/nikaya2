@@ -213,7 +213,7 @@
   | ākiñcaññāyatana | tầng Không Có Vật Gì | vô sở hữu xứ | |
   | nevasaññānāsaññāyatana | tầng Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức" | phi tưởng phi phi tưởng xứ | |
   | saṅkhārā | hoạt động | hành | "thân hành, khẩu hành, ý hành = hoạt động của thân, khẩu, ý" |
-  | saṅkhata | thứ hình thành từ điều kiện hợp lại | hữu vi | "saṅkhata-dhamma->những điều hình thành do điều kiện hợp lại" |
+  | saṅkhata | thứ hình thành từ điều kiện hợp lại | hữu vi | "saṅkhata-dhamma->những điều hình thành do điều kiện hợp lại"; sự sinh ra phụ thuộc vào điều kiện |
   | asaṅkhata | thứ hình thành không từ điều kiện hợp lại | vô vi | |
   | sabbe saṅkhārā aniccā | mọi thứ do hợp lại mà thành, không bền vững | chư hành vô thường | giải thích: saṅkhata="đã được tạo tác"(cái bị tạo)/saṅkhārā="các sự tạo tác" (cái tạo) |
   | oḷārika | thô | thô | |

@@ -2,111 +2,111 @@
 
 # Chương Năm – Trên Ðường Ðến Bờ Bên Kia
 
-### **(I) Bài kệ mở đầu (Sn 190)**
+### **(I) Bài kệ mở đầu (Sn 190)** {#1}
 
-976. Từ thành phố đẹp đẽ,\
+976. Từ thành phố đẹp đẽ, {#976}\
 Của các Kô-xa-la,\
 Có vị Bà-la-môn,\
 Thông đạt các chú thuật,\
 Hướng tầm vô sở hữu,\
 Hướng phía Nam bước tới.
 
-977. Trong nước Át-xa-ka,\
+977. Trong nước Át-xa-ka, {#977}\
 Gần xứ A-la-ka,\
 Vị ấy sống trên bờ,\
 Sông Gô-đa-và-rà,\
 Nuôi sống bằng trái cây,\
 Bằng đồ ăn lượm vặt.
 
-978. Gần chỗ vị ấy ở,\
+978. Gần chỗ vị ấy ở, {#978}\
 Có làng đất rộng rãi,\
 Với tài sản thâu thập,\
 Tổ chức tế đàn lớn.
 
-979. Ðại tế đàn lễ xong,\
+979. Ðại tế đàn lễ xong, {#979}\
 Vị ấy trở về am,\
 Trong khi bước vào am,\
 Một Phạm-chí khác đến.
 
-980. Chân sưng húp, run rẩy\
+980. Chân sưng húp, run rẩy {#980}\
 Ðầy bùn, đầu lấm bụi,\
 Người ấy bước đến gần,\
 Và xin năm trăm tiền.
 
-981. Sau khi thấy vị ấy,\
+981. Sau khi thấy vị ấy, {#981}\
 Ba-va-ri mời ngồi,\
 Hỏi thăm, thiện, an lạc\
 Rồi nói lời như sau:
 
 Bàvarim:
 
-982. Những gì tôi cho được,\
+982. Những gì tôi cho được, {#982}\
 Tôi đã cho tất cả,\
 Phạm chí hãy tin tôi,\
 Tôi không có năm trăm.
 
 Phạm-chí:
 
-983. Nếu điều ta xin Ông,\
+983. Nếu điều ta xin Ông, {#983}\
 Tôn giả không đáp ứng,\
 Sau bảy ngày, đầu Ông\
 Sẽ bị vỡ, bảy mảnh!
 
-984. Sau khi làm chú thuật,\
+984. Sau khi làm chú thuật, {#984}\
 Kẻ man trá tuyên bố,\
 Những lời nói đáng sợ,\
 Nghe những lời nói ấy,\
 Phạm-chí Ba-va-ri\
 Cảm thấy lòng đau khổ.
 
-985. Gầy ốm, không uống ăn,\
+985. Gầy ốm, không uống ăn, {#985}\
 Bị tên sầu muộn đâm,\
 Với tâm tư như vậy,\
 Ý khó vui trong thiền,
 
-986. Thấy lo sợ buồn khổ,\
+986. Thấy lo sợ buồn khổ, {#986}\
 Một Thiên nhân đi đến,\
 Muốn bạn được hạnh phúc,\
 Nói với Ba-va-ri.
 
 Thiên nhân:
 
-987. Kẻ man trá muốn tiền,\
+987. Kẻ man trá muốn tiền, {#987}\
 Không rõ biết về đầu,\
 Về đầu, đánh bể đầu,\
 Trí ấy nó không có.
 
 Bàvarim:
 
-988. Này bạn,nếu bạn biết,\
+988. Này bạn,nếu bạn biết, {#988}\
 Hãy nói câu hỏi tôi,\
 Về đầu, đánh bể đầu,\
 Chúng tôi nghe lời người.
 
 Thiên nhân:
 
-989. Tôi không biết việc này,\
+989. Tôi không biết việc này, {#989}\
 Trí này, tôi không có,\
 Về đầu, đánh bể đầu,\
 Bậc chiến thắng thấy được.
 
 Bàvarim:
 
-990. Vậy ai có thể biết,\
+990. Vậy ai có thể biết, {#990}\
 Trên quả đất tròn này,\
 Về đầu, đánh bể đầu,\
 Thiên nhân, nói tôi biết.
 
 Thiên nhân:
 
-991. Từ thành Ka-pi-la,\
+991. Từ thành Ka-pi-la, {#991}\
 Bậc lãnh đạo thế giới,\
 Xuất hiện ra ở đời,\
 Là con cháu, hậu duệ,\
 Của vua Ok-ka-ka\
 Thích tử, chiếu hào quang.
 
-992. Vị ấy Chánh Ðẳng Giác,\
+992. Vị ấy Chánh Ðẳng Giác, {#992}\
 Hỡi này Bà-la-môn,\
 Ðã đi đến bờ kia,\
 Ðối với tất cả pháp,\
@@ -119,17 +119,17 @@ Của tất cả các pháp,\
 Ðược giải thoát, diệt tận,\
 Ðối với các sanh y.
 
-993. Bậc Giác ngộ, Thế Tôn,\
+993. Bậc Giác ngộ, Thế Tôn, {#993}\
 Bậc có mắt thuyết pháp,\
 Hãy đến hỏi vị ấy,\
 Vị ấy sẽ trả lời.
 
-994. Nghe tiếng Chánh Ðẳng Giác,\
+994. Nghe tiếng Chánh Ðẳng Giác, {#994}\
 Ba-va-ri phấn khởi,\
 Sầu muộn được giảm bớt,\
 Ðược hoan hỷ rộng lớn.
 
-995. Vị Ba-va-ri ấy,\
+995. Vị Ba-va-ri ấy, {#995}\
 Hoan hỷ và phấn khởi,\
 Cảm thấy lòng cảm động,\
 Hỏi vị thiên nhân ấy.
@@ -146,7 +146,7 @@ Bậc Vô thượng loài Người.
 
 Thiên nhân:
 
-996. Ở tại Xa-vat-thi,\
+996. Ở tại Xa-vat-thi, {#996}\
 Trong thành Kô-xa-la,\
 Bậc chiến thắng an trú,\
 Với trí tuệ rộng lớn,\
@@ -158,7 +158,7 @@ Bậc Ngưu vương loài Người,\
 Biết rõ về đỉnh đầu,\
 Biết rõ đánh vỡ đầu.
 
-997. Rồi vị Bà-la-môn,\
+997. Rồi vị Bà-la-môn, {#997}\
 Cho gọi các đệ tử,\
 Là những vị thông đạt,\
 Về bùa chú kệ tụng.
@@ -169,7 +169,7 @@ Bàvarim:
 Ta sẽ nói, hãy nghe,\
 Những lời ta nói lên.
 
-998. Vị ấy rất khó gặp,\
+998. Vị ấy rất khó gặp, {#998}\
 Rất hiếm hiện ở đời,\
 Nay sanh ra ở đời,\
 Ðược danh bậc Chánh giác,\
@@ -178,7 +178,7 @@ Thấy được bậc Vô thượng.
 
 Các đệ tử:
 
-999. Kính thưa Bà-la-môn,\
+999. Kính thưa Bà-la-môn, {#999}\
 Thế nào chúng con biết,\
 Sau khi thấy vị ấy,\
 Biết vị ấy là Phật,\
@@ -187,41 +187,41 @@ Hãy nói chúng con biết!
 
 Bàvarim:
 
-1000. Trong những kệ bùa chú,\
+1000. Trong những kệ bùa chú, {#1000}\
 Ðược truyền lại đến nay,\
 Có nói đến tướng tốt,\
 Của một bậc Ðại nhân,\
 Có nói ba mươi hai,\
 Trọn đủ, được liên tục.
 
-1001. Ai có trên tay chân,\
+1001. Ai có trên tay chân, {#1001}\
 Ðủ tướng đại nhân ấy,\
 Chỉ có hai sanh thú,\
 Không có cái thứ ba.
 
-1002. Nếu trú tại gia đình,\
+1002. Nếu trú tại gia đình, {#1002}\
 Chinh phục quả đất này,\
 Không dùng trượng, dùng kiếm,\
 Giáo hóa đúng Chánh pháp.
 
-1003. Nếu vị ấy xuất gia,\
+1003. Nếu vị ấy xuất gia, {#1003}\
 Bỏ nhà, sống không nhà,\
 Rộng mở màn vô minh,\
 Vị ấy, được trở thành,\
 Bậc Chánh đẳng Chánh giác,\
 Bậc Ứng cúng, Vô thượng.
 
-1004. Với tâm ý, hãy hỏi,\
+1004. Với tâm ý, hãy hỏi, {#1004}\
 Sanh, tánh tướng của ta,\
 Kệ chú, đệ tử ta,\
 Về đầu, đánh bể đầu.
 
-1005. Nếu vị ấy là Phật,\
+1005. Nếu vị ấy là Phật, {#1005}\
 Thấy rõ, không che kín,\
 Với lời, vị ấy đáp,\
 Các câu hỏi bởi ý.
 
-1006. Nghe lời Ba-va-ri,\
+1006. Nghe lời Ba-va-ri, {#1006}\
 Mười sáu người đệ tử,\
 Tất cả là Phạm chí,\
 Tên là A-ji-ta,\
@@ -234,7 +234,7 @@ Tô-đê-ya, Kap-pa,\
 Với Ja-tu-kan-ni,\
 Là bậc danh Hiền trí.
 
-1008. Và Bha-drà-vu-đa,\
+1008. Và Bha-drà-vu-đa, {#1008}\
 Cùng với U-da-ya,\
 Phạm Chí Po-xà-la,\
 Và Mo-gha-rà-jà,\
@@ -243,21 +243,21 @@ Cùng với Pin-gi-ya,\
 Là vị đại ẩn sĩ,\
 Tất cả những vị ấy.
 
-1009. Mỗi người có đồ chúng,\
+1009. Mỗi người có đồ chúng, {#1009}\
 Có danh xưng ở đời,\
 Tu thiền, ưa thiền định,\
 Bậc có trí sáng suốt,\
 Mang theo những dấu tích,\
 Ðời sống trước của mình.
 
-1010. Ðảnh lễ Ba-va-ri,\
+1010. Ðảnh lễ Ba-va-ri, {#1010}\
 Thân phía hữu hướng Ngài,\
 Tất cả đều bện tóc,\
 Mặc áo vải da thú,\
 Mặt hướng về phía Bắc,\
 Tất cả chúng ra đi.
 
-1011. Trước hết, họ đi ngang,\
+1011. Trước hết, họ đi ngang, {#1011}\
 Ðến Pa-tít-thà-na,\
 Của xứ A-la-ka,\
 Rồi Ma-hi-xa-ti,\
@@ -266,7 +266,7 @@ Và đến Gô-nad-đăng,\
 Tiếp đến Vê-đi-xăng,\
 Va-na-xa-ha-yăng,
 
-1012. Ði đến Kô-xăm-bi,\
+1012. Ði đến Kô-xăm-bi, {#1012}\
 Ði đến Xa-kê-ta,\
 Rồi đến Xa-vat-thi,\
 Là thành phố tối thượng,\
@@ -281,76 +281,76 @@ Thành phố Ma-ga-đa,\
 Rồi Pa-xe-na-ka,\
 Ngôi điện đẹp, khả ái.
 
-1014. Như người khát, nước mát,\
+1014. Như người khát, nước mát, {#1014}\
 Như người buôn, lợi lớn,\
 Như nóng bức, bóng mát,\
 Họ gấp leo ngọn núi.
 
-1015. Thế Tôn, trong lúc ấy,\
+1015. Thế Tôn, trong lúc ấy, {#1015}\
 Dẫn đầu chúng Tỷ-kheo,\
 Ngài đang thuyết Chánh pháp,\
 Cho các vị Tỷ-kheo,\
 Giống như con sư tử,\
 Rống tiếng rống trong rừng.
 
-1016. A-ja-ta thấy Phật,\
+1016. A-ja-ta thấy Phật, {#1016}\
 Như mặt trời vàng chói,\
 Như mặt trăng ngày rằm,\
 Ðược tròn đầy viên mãn.
 
-1017. Và thấy tay chân Ngài,\
+1017. Và thấy tay chân Ngài, {#1017}\
 Ðầy đủ các tướng tốt,\
 Hoan hỷ đứng một bên,\
 Hỏi câu hỏi tâm ý.
 
 Ajita:
 
-1018. Hãy nói về thọ sanh,\
+1018. Hãy nói về thọ sanh, {#1018}\
 Nói dòng họ, các tướng,\
 Về tối thượng kệ chú,\
 Phạm chí đọc bao nhiêu?
 
 Thế Tôn:
 
-1019. Tuổi thọ trăm hai mươi,\
+1019. Tuổi thọ trăm hai mươi, {#1019}\
 Dòng họ Bà-va-ri,\
 Trên tay chân, ba tướng,\
 Thông đạt ba Vệ-đà.
 
-1020. Về tướng và truyền thuyết,\
+1020. Về tướng và truyền thuyết, {#1020}\
 Về tự vựng, lễ nghi,\
 Tụng đọc được năm trăm,\
 Ðạt tối thượng diệu pháp.
 
 Ajita:
 
-1021. Bậc Vô thượng, đoạn ái,\
+1021. Bậc Vô thượng, đoạn ái, {#1021}\
 Hãy nói lên tường tận\
 Các tướng Ba-va-ri,\
 Ðể chúng con không nghi.
 
 Thế Tôn:
 
-1022. Lưỡi che kín mặt mày,\
+1022. Lưỡi che kín mặt mày, {#1022}\
 Giữa hàng mi, lông trắng,\
 Có da bọc âm tàng,\
 Hãy biết vậy, thanh niên.
 
-1023. Không nghe câu hỏi gì,\
+1023. Không nghe câu hỏi gì, {#1023}\
 Chỉ nghe câu trả lời,\
 Quần chúng rất ngạc nhiên,\
 Chắp tay tự suy nghĩ.
 
 Dân chúng:
 
-1024. Thiên, Phạm thiên, Ðế thích,\
+1024. Thiên, Phạm thiên, Ðế thích, {#1024}\
 Hay Xu-jam-pa-ti\
 Ai, với ý hỏi Ngài,\
 Xin nói cho được biết?
 
 Ajita:
 
-1025. Ba-va-ri tìm hỏi,\
+1025. Ba-va-ri tìm hỏi, {#1025}\
 Về đầu, đánh bể đầu,\
 Thế Tôn hãy trả lời,\
 Ðoạn nghi hoặc chúng con?\
@@ -358,40 +358,40 @@ Thế Tôn hãy trả lời,\
 
 Thế Tôn:
 
-1026. Vô minh là đỉnh đầu,\
+1026. Vô minh là đỉnh đầu, {#1026}\
 Hãy hiểu biết như vậy,\
 Minh là đánh bể đầu,\
 Liên hệ dục tinh tấn,\
 Với lòng tin, chánh niệm,\
 Liên hệ với thiền định.
 
-1027. Với cảm thọ lớn mạnh,\
+1027. Với cảm thọ lớn mạnh, {#1027}\
 Thanh niên tự chế ngự,\
 Ðắp áo da một bên,\
 Với đầu, đảnh lễ chân.
 
 Ajita:
 
-1028. Phạm chí Ba-va-ri,\
+1028. Phạm chí Ba-va-ri, {#1028}\
 Cùng đệ tử, thưa Ngài,\
 Tâm phấn khởi, đẹp ý,\
 Lễ chân, bậc có mắt.
 
 Thế Tôn:
 
-1029. Phạm chí Ba-va-ri,\
+1029. Phạm chí Ba-va-ri, {#1029}\
 Hãy sống được an lạc,\
 Cùng với các đệ tử!\
 Mong Ông sống an lạc,\
 Thọ mạng được lâu dài,\
 Hỡi này kẻ thanh niên.
 
-1030. Ba-va-ri và Ông,\
+1030. Ba-va-ri và Ông, {#1030}\
 Có mọi nghi ngờ gì,\
 Cơ hội đến, hãy hỏi,\
 Tùy theo ý Ông muốn.
 
-1031. Ðược bậc Chánh Ðẳng Giác,\
+1031. Ðược bậc Chánh Ðẳng Giác, {#1031}\
 Cho cơ hội tốt đẹp,\
 A-ji-ta liền ngồi,\
 Chắp tay hỏi Như Lai,\
@@ -399,11 +399,11 @@ Hỏi câu hỏi thứ nhất,\
 Chính ngay tại chỗ ấy,\
 Kệ mở đầu đã xong.
 
-### **(II) Câu hỏi của thanh niên A-ji-ta (Sn 197)**
+### **(II) Câu hỏi của thanh niên A-ji-ta (Sn 197)** {#2}
 
 Ajita:
 
-1032. Tôn giả A-ji-ta:\
+1032. Tôn giả A-ji-ta: {#1032}\
 Do gì, đời bị che,\
 Do gì, không chói sáng,\
 Hãy nói lên cái gì,\
@@ -412,7 +412,7 @@ Cái gì sợ hãi lớn?
 
 Thế Tôn:
 
-1033. Thế Tôn liền đáp lại:\
+1033. Thế Tôn liền đáp lại: {#1033}\
 Ðời bị vô minh che,\
 Do xan tham, phóng dật,\
 Ðời không được chói sáng,\
@@ -423,7 +423,7 @@ Nên có sợ hãi lớn.
 
 Ajita:
 
-1034. Tôn giả A-ji-ta:\
+1034. Tôn giả A-ji-ta: {#1034}\
 Mọi nơi dòng nước chảy,\
 Cái gì ngăn dòng nước?\
 Hãy nói lên cái gì?\
@@ -432,7 +432,7 @@ Cái gì đóng dòng nước?
 
 Thế Tôn:
 
-1035. Thế Tôn liền đáp lại:\
+1035. Thế Tôn liền đáp lại: {#1035}\
 Hỡi này A-ji-ta,\
 Các dòng nước ở đời,\
 Chánh niệm ngăn chận lại,\
@@ -443,7 +443,7 @@ Và chính do trí tuệ,\
 
 Ajita:
 
-1036. Tôn giả A-ji-ta:\
+1036. Tôn giả A-ji-ta: {#1036}\
 Trí tuệ và chánh niệm,\
 Cùng với danh và sắc,\
 Kính thưa bậc Tôn giả,\
@@ -452,7 +452,7 @@ Từ đâu chúng bị diệt?
 
 Thế Tôn:
 
-1037. Câu hỏi gì Ông hỏi,\
+1037. Câu hỏi gì Ông hỏi, {#1037}\
 Hỡi này A-ji-ta,\
 Ta sẽ đáp cho Ông,\
 Chỗ nào danh và sắc,\
@@ -463,7 +463,7 @@ Danh sắc được đoạn diệt.
 
 Ajita:
 
-1038. Những ai biết tư sát,\
+1038. Những ai biết tư sát, {#1038}\
 Các pháp thuộc hữu vi,\
 Cùng với bậc hữu học,\
 Và phàm phu ở đời,\
@@ -474,17 +474,17 @@ Hãy nói lên, thưa Ngài!
 
 Thế Tôn:
 
-1039. Chớ tham đắm các dục,\
+1039. Chớ tham đắm các dục, {#1039}\
 Giữ tâm tư an tịnh,\
 Thiện xảo trong các pháp,\
 Tỷ-kheo giữ chánh niệm,\
 Sống đời sống xuất gia.
 
-### **(III) Các câu hỏi của thanh niên Tissametmeyya (Sn 199)**
+### **(III) Các câu hỏi của thanh niên Tissametmeyya (Sn 199)** {#3}
 
 Yissa:
 
-1040. Tissa Met-tey-ya:\
+1040. Tissa Met-tey-ya: {#1040}\
 Ai thỏa mãn ở đời,\
 Với ai không dao động,\
 Ai thắng tri hai biên,\
@@ -495,14 +495,14 @@ Thêu dệt các ái nhiễm?
 
 Thế Tôn:
 
-1041. Thế Tôn liền đáp rằng:\
+1041. Thế Tôn liền đáp rằng: {#1041}\
 Hỡi này Met-tê-ya!\
 Giữa dục, sống Phạm hạnh,\
 Không ái, luôn chánh niệm,\
 Tỷ-kheo lặng tính toán,\
 An tịnh, không dao động.
 
-1042. Ai thắng tri hai biên,\
+1042. Ai thắng tri hai biên, {#1042}\
 Chặng giữa, nhờ suy tư,\
 Không dính líu bị nhiễm,\
 Ta gọi là đại nhân,\
@@ -510,11 +510,11 @@ Vị ấy, ở đời này,\
 Vượt khỏi sự thêu dệt,\
 Các ái nhiễm tham muốn.
 
-### **(IV) Câu hỏi của thanh niên Punnaka (Sn 199)**
+### **(IV) Câu hỏi của thanh niên Punnaka (Sn 199)** {#4}
 
 Punnaka:
 
-1043. Tôn giả Pun-na-ka:\
+1043. Tôn giả Pun-na-ka: {#1043}\
 Với ai không dao động,\
 Thấy rõ được cội gốc,\
 Con đến với câu hỏi,\
@@ -529,7 +529,7 @@ Hãy trả lời cho con.
 
 Thế Tôn:
 
-1044. Thế Tôn bèn đáp rằng:\
+1044. Thế Tôn bèn đáp rằng: {#1044}\
 Hỡi này Pun-na-ka!\
 Bậc ẩn sĩ loài Người,\
 Sát-đế-ly, Phạm chí,\
@@ -543,7 +543,7 @@ Hỡi này Pun-na-ka!
 
 Punnaka:
 
-1045. Tôn giả Pun-na-ka:\
+1045. Tôn giả Pun-na-ka: {#1045}\
 Bậc ẩn sĩ loài Người,\
 Sát-đế-ly, Phạm chí,\
 Ðã tổ chức rộng lớn,\
@@ -558,7 +558,7 @@ Con mong Ngài trả lời?
 
 Thế Tôn:
 
-1046. Thế Tôn trả lời rằng:\
+1046. Thế Tôn trả lời rằng: {#1046}\
 Hỡi này Pun-na-ka,\
 Họ hy vọng, tán thán,\
 Họ cầu nguyện, cúng lễ,\
@@ -571,7 +571,7 @@ Ta nói lên như vậy.
 
 Punnaka:
 
-1047. Tôn giả Pun-na-ka:\
+1047. Tôn giả Pun-na-ka: {#1047}\
 Nếu chúng chuyên tế đàn,\
 Nhưng không thể vượt qua,\
 Già chết với tế đàn,\
@@ -584,7 +584,7 @@ Ngài trả lời cho con?
 
 Thế Tôn:
 
-1048. Thế Tôn trả lời rằng:\
+1048. Thế Tôn trả lời rằng: {#1048}\
 Hỡi này Pun-na-ka,\
 Ai tính toán cao thấp,\
 Ước lượng vậy ở đời,\
@@ -595,11 +595,11 @@ Không phiền não, không cầu,\
 Vị ấy vượt già chết,\
 Ta nói lên như vậy.
 
-### **(V) Câu hỏi của thanh niên Mettagu (Sn 201)**
+### **(V) Câu hỏi của thanh niên Mettagu (Sn 201)** {#5}
 
 Mettagu:
 
-1049. Tôn giả Mêt-ta-gu:\
+1049. Tôn giả Mêt-ta-gu: {#1049}\
 Con xin hỏi Thế Tôn,\
 Mong Thế Tôn trả lời,\
 Vấn đề con đã hỏi,\
@@ -611,7 +611,7 @@ Với nhiều loại như vậy?
 
 Thế Tôn:
 
-1050. Thế Tôn trả lời rằng:\
+1050. Thế Tôn trả lời rằng: {#1050}\
 Hỡi này Mêt-ta-gu,\
 Ông hỏi ta vấn đề,\
 Sanh khởi của khổ đau,\
@@ -622,7 +622,7 @@ Nên khổ được khởi lên,\
 Với nhiều loại như vậy,\
 Khác biệt ở trong đời.
 
-1051. Những ai vì vô minh,\
+1051. Những ai vì vô minh, {#1051}\
 Tác thành các sanh y,\
 Kẻ ngu tạo đau khổ,\
 Tiếp tục được sanh khởi,\
@@ -633,7 +633,7 @@ Của sanh và đau khổ.
 
 Mettagu:
 
-1052. Ðiều chúng con đã hỏi,\
+1052. Ðiều chúng con đã hỏi, {#1052}\
 Ngài đã đáp chúng rồi,\
 Nay xin hỏi câu khác,\
 Mong Ngài giải đáp cho,\
@@ -648,7 +648,7 @@ Pháp nhĩ là như vậy?
 
 Thế Tôn:
 
-1053. Thế Tôn trả lời rằng:\
+1053. Thế Tôn trả lời rằng: {#1053}\
 Hỡi này Mêt-ta-gu,\
 Ta sẽ nói cho Ông,\
 Pháp thiết thực hiện tại,\
@@ -659,7 +659,7 @@ Vượt tham ái ở đời.
 
 Mettagu:
 
-1054. Thưa bậc Ðại ẩn sĩ,\
+1054. Thưa bậc Ðại ẩn sĩ, {#1054}\
 Con hết sức hoan hỷ,\
 Chánh pháp vô thượng ấy,\
 Sau khi biết pháp ấy,\
@@ -668,7 +668,7 @@ Vượt tham ái ở đời.
 
 Thế Tôn:
 
-1055. Thế Tôn đáp lại rằng:\
+1055. Thế Tôn đáp lại rằng: {#1055}\
 Hỡi này Mêt-ta-gu,\
 Phàm Ông rõ biết gì,\
 Trên dưới, ngang ở giữa,\
@@ -677,7 +677,7 @@ Hãy từ bỏ trú xứ,\
 Chớ để cho ý thức,\
 An trú trên sanh hữu.
 
-1056. An trú vậy, chánh niệm,\
+1056. An trú vậy, chánh niệm, {#1056}\
 Tỷ-kheo không phóng dật,\
 Sau khi bỏ sở hành,\
 Ðưa đến ngã, sở hữu.\
@@ -688,7 +688,7 @@ Hãy từ bỏ đau khổ.
 
 Mettagu:
 
-1057. Con cảm thấy hoan hỉ,\
+1057. Con cảm thấy hoan hỉ, {#1057}\
 Lời nói bậc Ðại sĩ;\
 Ðoạn tận được sanh y,\
 Ðược Ngài khéo tuyên thuyết.\
@@ -697,7 +697,7 @@ Chắc chắn đức Thế Tôn,\
 Vì pháp này được Ngài,\
 Rõ biết là như vậy.
 
-1058. Những vị ấy hãy đoạn,\
+1058. Những vị ấy hãy đoạn, {#1058}\
 Hãy từ bỏ đau khổ,\
 Những người ấy được Ngài\
 Thường thường dạy, giáo hóa.\
@@ -708,7 +708,7 @@ Giáo hóa dạy dỗ con.
 
 Thế Tôn:
 
-1059. Vị Bà-la-môn nào,\
+1059. Vị Bà-la-môn nào, {#1059}\
 Ðược thắng tri, có trí,\
 Không có sở hữu gì,\
 Không ái luyến dục hữu,\
@@ -717,7 +717,7 @@ Vượt qua bộc lưu này,\
 Ðã đến được bờ kia,\
 Không cứng cỏi không nghỉ.
 
-1060. Người ấy sau khi biết,\
+1060. Người ấy sau khi biết, {#1060}\
 Thông suốt được Thánh điển,\
 Không dính ái triền này,\
 Về hữu và phi hữu,\
@@ -726,11 +726,11 @@ Không phiền lụy không cầu,\
 Ta nói rằng vị ấy,\
 Ðã vượt khỏi sanh già.
 
-### **(VI) Câu hỏi của thanh niên Dhotaka (Sn 204)**
+### **(VI) Câu hỏi của thanh niên Dhotaka (Sn 204)** {#6}
 
 Dhotaka:
 
-1061. Tôn giả Dhô-ta-ka:\
+1061. Tôn giả Dhô-ta-ka: {#1061}\
 Con xin hỏi Thế Tôn,\
 Mong Ngài trả lời cho,\
 Con chờ đợi lời Ngài,\
@@ -741,7 +741,7 @@ Học tập giới Niết-bàn.
 
 Thế Tôn:
 
-1062. Thế Tôn đáp lại rằng:\
+1062. Thế Tôn đáp lại rằng: {#1062}\
 Hỡi này Dhô-ta-ka,\
 Ở đây Ông nhiệt tâm,\
 Sáng suốt và chánh niệm,\
@@ -750,7 +750,7 @@ Tự học tập Niết-bàn.
 
 Dhotaka:
 
-1063. Con thấy ở thế giới,\
+1063. Con thấy ở thế giới, {#1063}\
 Chư Thiên và loài Người,\
 Sở hành của Phạm chí,\
 Không một gì sở hữu.\
@@ -762,7 +762,7 @@ Tất cả mọi nghi ngờ.
 
 Thế Tôn:
 
-1064. Hỡi này Dhô-ta-ka,\
+1064. Hỡi này Dhô-ta-ka, {#1064}\
 Ta sẽ không đi đến,\
 Giải thoát cho một ai,\
 Có nghi ngờ ở đời,\
@@ -773,7 +773,7 @@ Dòng nước chảy mạnh này.
 
 Dhotaka:
 
-1065. Hãy giáo hóa, từ mẫn,\
+1065. Hãy giáo hóa, từ mẫn, {#1065}\
 Ôi bậc đại Phạm thiên,\
 Ðể con được rõ biết,\
 Pháp viễn ly vô thượng,\
@@ -784,7 +784,7 @@ An tịnh và độc lập.
 
 Thế Tôn:
 
-1066. Thế Tôn liền nói rằng:\
+1066. Thế Tôn liền nói rằng: {#1066}\
 Hỡi này Dho-ta-ka,\
 Ta sẽ giảng cho Ông,\
 Pháp tịch tịnh hiện tại;\
@@ -795,7 +795,7 @@ Vượt tham ái ở đời.
 
 Dhotaka:
 
-1067. Con cảm thấy hoan hỷ,\
+1067. Con cảm thấy hoan hỷ, {#1067}\
 Pháp bậc Ðại sĩ giảng,\
 Pháp tịch tịnh vô thượng;\
 Sau khi biết pháp này,\
@@ -804,7 +804,7 @@ Vượt tham ái ở đời.
 
 Thế Tôn:
 
-1068. Thế Tôn lời đáp lại:\
+1068. Thế Tôn lời đáp lại: {#1068}\
 Hỡi này Dho-ta-ka,\
 Phàm Ông rõ biết gì,\
 Cao, thấp, ngang, chặng giữa,\
@@ -813,11 +813,11 @@ Tham ái này ở đời,\
 Chớ tạo nên khát ái\
 Với hữu và phi hữu.
 
-### **(VII) Câu hỏi của thanh niên Upasiva (Sn 205)**
+### **(VII) Câu hỏi của thanh niên Upasiva (Sn 205)** {#7}
 
 Upasiva:
 
-1069. Tôn giả U-pa-si-va:\
+1069. Tôn giả U-pa-si-va: {#1069}\
 Kính thưa bậc Thích tử,\
 Một mình, không y chỉ,\
 Con không thể vượt khỏi,\
@@ -830,7 +830,7 @@ Dòng nước chảy mạnh này.
 
 Thế Tôn:
 
-1070. Ðây lời dạy Thế Tôn:\
+1070. Ðây lời dạy Thế Tôn: {#1070}\
 Này U-pa-si-va,\
 Biết gìn giữ chánh niệm,\
 Không mong đợi vật gì,\
@@ -842,7 +842,7 @@ Ngày đêm ngươi nhận thấy,\
 
 Upasiva:
 
-1071. U-pa-si-va nói:\
+1071. U-pa-si-va nói: {#1071}\
 Ai là người ly tham,\
 Ðối với tất cả dục,\
 Y chỉ không có gì,\
@@ -854,7 +854,7 @@ Không tiếp tục đi tới.
 
 Thế Tôn:
 
-1072. Thế Tôn nói như sau:\
+1072. Thế Tôn nói như sau: {#1072}\
 Này U-pa-si-va,\
 Ai hoàn toàn ly tham,\
 Ðối với tất cả dục,\
@@ -867,7 +867,7 @@ Không tiếp tục đi tới.
 
 Upasiva:
 
-1073. Nếu vị ấy tại đấy,\
+1073. Nếu vị ấy tại đấy, {#1073}\
 An trú không đi tiếp,\
 Trong một số nhiều năm,\
 Ôi bậc có biến nhãn!\
@@ -878,7 +878,7 @@ Còn có thức hay không?
 
 Thế Tôn:
 
-1074. Ðây lời Thế Tôn nói:\
+1074. Ðây lời Thế Tôn nói: {#1074}\
 Hỡi U-pa-si-va!\
 Cũng giống như ngọn lửa,\
 Bị sức gió mạnh thổi,\
@@ -891,7 +891,7 @@ Không có thể ước lượng.
 
 Upasiva:
 
-1075. Vị đi đến tận cùng,\
+1075. Vị đi đến tận cùng, {#1075}\
 Có phải không hiện hữu,\
 Hai vị ấy thường hằng,\
 Ðạt được sự không bệnh,\
@@ -902,7 +902,7 @@ Pháp như thật Ngài giảng.
 
 Thế Tôn:
 
-1076. Thế Tôn nói như sau:\
+1076. Thế Tôn nói như sau: {#1076}\
 Hỡi U-pa-si-va,\
 Người đi đến tận cùng,\
 Không thể còn ước lượng,\
@@ -913,11 +913,11 @@ Khi tất cả các pháp,\
 Mọi con đường nói phô,\
 Ðược nhổ lên sạch hết.
 
-### **(VIII) Các câu hỏi của thanh niên Nanda (Sn 207)**
+### **(VIII) Các câu hỏi của thanh niên Nanda (Sn 207)** {#8}
 
 Nanda:
 
-1077. Tôn giả Nan-da nói:\
+1077. Tôn giả Nan-da nói: {#1077}\
 Quần chúng có nói rằng:\
 Có ẩn sĩ ở đời,\
 Ngài nghĩ như thế nào?\
@@ -927,7 +927,7 @@ Hay vị đầy đủ mạng?
 
 Thế Tôn:
 
-1078. Các bậc thiện nói rằng:\
+1078. Các bậc thiện nói rằng: {#1078}\
 Ở đời này Nan-da,\
 Không phải vì tri kiến,\
 Vì truyền thống, vì trí\
@@ -938,7 +938,7 @@ Không phiền não, không cầu.
 
 Nanda:
 
-1079. Tôn giả Nan-đa thưa:\
+1079. Tôn giả Nan-đa thưa: {#1079}\
 Có Sa-môn, Phạm chí,\
 Nói rằng sự thanh tịnh\
 Là nhờ thấy, nhờ nghe;\
@@ -956,7 +956,7 @@ Mong Ngài trả lời con.
 
 Thế Tôn:
 
-1080. Thế Tôn nói: Nan-đa!\
+1080. Thế Tôn nói: Nan-đa! {#1080}\
 Sa-môn, Phạm chí này,\
 Nói rằng sự thanh tịnh\
 Là nhờ thấy, nhờ nghe;\
@@ -971,7 +971,7 @@ Khỏi sanh và khỏi già.
 
 Nan-da:
 
-1081. Tôn giả Nan-đa thưa:\
+1081. Tôn giả Nan-đa thưa: {#1081}\
 Sa-môn, Phạm chí này,\
 Nói rằng sự thanh tịnh\
 Là nhờ thấy, nhờ nghe;\
@@ -990,7 +990,7 @@ Mong Ngài trả lời con.
 
 Thế Tôn:
 
-1082. Thế Tôn nói: Nan-đa\
+1082. Thế Tôn nói: Nan-đa {#1082}\
 Ta không nói tất cả,\
 Sa-môn, Bà-la-môn\
 Bị sanh già che lấp.\
@@ -1005,7 +1005,7 @@ Vượt qua được bộc lưu.
 
 Nanda:
 
-1083. Con cảm thấy hoan hỷ,\
+1083. Con cảm thấy hoan hỷ, {#1083}\
 Lời Ðại sĩ Cù-đàm,\
 Ðược Ngài khéo thuyết giảng,\
 Về chấm dứt sanh y,\
@@ -1018,11 +1018,11 @@ Liễu tri ái, vô lậu,\
 Ta nói những người ấy,\
 Vượt qua khỏi bộc lưu.
 
-### **(IX) Các câu hỏi của thanh niên Hemaka (Sn 209)**
+### **(IX) Các câu hỏi của thanh niên Hemaka (Sn 209)** {#9}
 
 Hemaka:
 
-1084. Tôn giả He-ma-ka:\
+1084. Tôn giả He-ma-ka: {#1084}\
 Những ai trong thời trước,\
 Ðã trả lời cho con,\
 Về lời dạy Cù-đàm,\
@@ -1031,7 +1031,7 @@ Sau sẽ là như vậy,\
 Tất cả đều truyền thống,\
 Tất cả tăng suy tư.
 
-1085. Ðây, con không hoan hỷ,\
+1085. Ðây, con không hoan hỷ, {#1085}\
 Ngài nói Pháp cho con,\
 Ôi mong bậc ẩn sĩ,\
 Nói Pháp đoạn khát ái,\
@@ -1040,23 +1040,23 @@ Vượt ái trước ở đời.
 
 Thế Tôn:
 
-1086. He-ma-ka ở đây,\
+1086. He-ma-ka ở đây, {#1086}\
 Ðối các Pháp khả ái,\
 Ðược nghe và được thấy,\
 Ðược cảm tưởng, nhận thức,\
 Tẩy sạch ước muốn tham,\
 Là Niết-bàn, bất tử.
 
-1087. Biết vậy, giữ chánh niệm,\
+1087. Biết vậy, giữ chánh niệm, {#1087}\
 Hiện tại, đạt mát lạnh,\
 Vị ấy thường an tịnh,\
 Vượt chấp trước ở đời.
 
-### **(X) Câu hỏi của thanh niên Todeyya (Sn 210)**
+### **(X) Câu hỏi của thanh niên Todeyya (Sn 210)** {#10}
 
 Todeyya:
 
-1088. Tôn giả Tô-đê-ya:\
+1088. Tôn giả Tô-đê-ya: {#1088}\
 Ai sống không dục vọng,\
 Ai sống không có ái,\
 Ai vượt khỏi nghi hoặc,\
@@ -1065,7 +1065,7 @@ Giải thoát như thế nào?
 
 Thế Tôn:
 
-1089. Ðây lời nói Thế Tôn:\
+1089. Ðây lời nói Thế Tôn: {#1089}\
 Hỡi nãy Tô-đê-ya,\
 Ai sống không dục vọng,\
 Ai sống không có ái,\
@@ -1075,7 +1075,7 @@ Không có gì là khác.
 
 Todeyya:
 
-1090. Vị sống không ước vọng\
+1090. Vị sống không ước vọng {#1090}\
 Hay sống có ước vọng,\
 Vị ấy có trí tuệ,\
 Hay tác thành trí tuệ,\
@@ -1087,7 +1087,7 @@ Thế nào là ẩn sĩ,\
 
 Thế Tôn:
 
-1091. Vị sống không ước vọng,\
+1091. Vị sống không ước vọng, {#1091}\
 Không có ước vọng nào,\
 Vị ấy có trí tuệ,\
 Không tác thành trí tuệ,\
@@ -1096,11 +1096,11 @@ Hãy biết bậc ẩn sĩ,\
 Không có sở hữu gì,\
 Không tham dính dục hữu.
 
-### **(XI) Câu hỏi của thanh niên Kappa (Sn 211)**
+### **(XI) Câu hỏi của thanh niên Kappa (Sn 211)** {#11}
 
 Kappa:
 
-1092. Tôn giả Káp-pa nói:\
+1092. Tôn giả Káp-pa nói: {#1092}\
 Những ai đứng giữa nước,\
 Trong dòng nước mạnh chảy,\
 Giữa sợ hãi lớn lao,\
@@ -1113,7 +1113,7 @@ Giống như đau khổ này.
 
 Thế Tôn:
 
-1093. Thế Tôn nói Kap-pa,\
+1093. Thế Tôn nói Kap-pa, {#1093}\
 Những ai đứng giữa nước,\
 Trong dòng nước mạnh chảy,\
 Giữa sợ hãi lớn lao,\
@@ -1121,21 +1121,21 @@ Ta nói Ông hòn đảo,\
 Cho những ai đang bị,\
 Già và chết chinh phục.
 
-1094. Hòn đảo vô song này,\
+1094. Hòn đảo vô song này, {#1094}\
 Không sở hữu, chấp trước,\
 Ta nói Ông Niết-bàn,\
 Già chết được đoạn diệt,
 
-1095. Biết vậy, giữ chánh niệm,\
+1095. Biết vậy, giữ chánh niệm, {#1095}\
 Hiện tại đạt mát lạnh,\
 Không rơi vào ma lực,\
 Không tùy tùng theo ma.
 
-### **(XII) Câu hỏi của thanh niên Jatukanni (Sn 212)**
+### **(XII) Câu hỏi của thanh niên Jatukanni (Sn 212)** {#12}
 
 Jatukanni:
 
-1096. Ja-tu-kan-ni nói:\
+1096. Ja-tu-kan-ni nói: {#1096}\
 Ðược nghe bậc anh hùng,\
 Không tham đắm dục vọng,\
 Nên con đã đến đây,\
@@ -1146,7 +1146,7 @@ Hãy nói đường an tịnh,\
 Thế Tôn hãy như thật,\
 Nói cho con được biết.
 
-1097. Chinh phục dục vọng xong,\
+1097. Chinh phục dục vọng xong, {#1097}\
 Thế Tôn sống ở đời,\
 Như mặt trời chiếu sáng,\
 Cõi đất với hào quang,\
@@ -1159,7 +1159,7 @@ Kể cả sanh và già.
 
 Thế Tôn:
 
-1098. Thế Tôn nói như sau:\
+1098. Thế Tôn nói như sau: {#1098}\
 Hỡi Ja-tu-kan-ni!\
 Hãy nhiếp phục lòng tham,\
 Ðối với các dục vọng;\
@@ -1168,25 +1168,25 @@ Hãy nhìn hạnh xuất ly,\
 Chớ chấp chờ, từ bỏ,\
 Sự vật gì ở đời.
 
-1099. Những gì có trước Ông,\
+1099. Những gì có trước Ông, {#1099}\
 Hãy làm nó khô cạn,\
 Ðừng có sự vật gì,\
 Ở phía đàng sau Ông,\
 Ở giữa, Ông không chấp,\
 Ông sẽ sống an tịnh.
 
-1100. Hỡi này Bà-la-môn!\
+1100. Hỡi này Bà-la-môn! {#1100}\
 Ðối với danh và sắc,\
 Hoàn toàn không tham đắm,\
 Không có các lậu hoặc,\
 Chính do lậu hoặc này,\
 Bị thần chết chi phối.
 
-### **(XIII) Câu hỏi của thanh niên Bhadràvudha (Sn 213)**
+### **(XIII) Câu hỏi của thanh niên Bhadràvudha (Sn 213)** {#13}
 
 Bhadràvudha:
 
-1101. Bha-đra-vu-đa nói:\
+1101. Bha-đra-vu-đa nói: {#1101}\
 Con có lời yêu cầu,\
 Bậc Thiện Tuệ nói lên,\
 Bậc bỏ nhà, đoạn ái,\
@@ -1196,7 +1196,7 @@ Thời gian, không chi phối,\
 Nghe xong, bậc Long tượng,\
 Từ đây, họ ra đi.
 
-1102. Quần chúng sai biệt ấy,\
+1102. Quần chúng sai biệt ấy, {#1102}\
 Từ quốc độ tụ họp,\
 Họ ao ước khát vọng,\
 Ðược nghe lời của Ngài,\
@@ -1207,7 +1207,7 @@ Như vậy họ hiểu biết.
 
 Thế Tôn:
 
-1103. Thế Tôn nói như sau:\
+1103. Thế Tôn nói như sau: {#1103}\
 Này Bha-đra-vu-đa!\
 Hãy nhiếp phục tất cả,\
 Mọi tham ái chấp thủ,\
@@ -1218,7 +1218,7 @@ Sự gì ở trong đời,\
 Chính do sự việc ấy,\
 Ác ma theo người ấy.
 
-1104. Do vậy, bậc hiểu biết,\
+1104. Do vậy, bậc hiểu biết, {#1104}\
 Không có chấp thủ gì,\
 Tỷ-kheo giữ chánh niệm,\
 Trong tất cả thế giới,\
@@ -1229,11 +1229,11 @@ Là chúng sanh chấp thủ,\
 Trong lãnh vực của Ma,\
 Bị tham dính chấp trước.
 
-### **(XIV) Câu hỏi của thanh niên Udaya (Sn 214)**
+### **(XIV) Câu hỏi của thanh niên Udaya (Sn 214)** {#14}
 
 Udaya:
 
-1105. Tôn giả U-da-ya:\
+1105. Tôn giả U-da-ya: {#1105}\
 Con đến với câu hỏi,\
 Về tất cả mọi pháp,\
 Ðể hỏi bậc tu thiền,\
@@ -1246,58 +1246,58 @@ Hãy nói trí giải thoát\
 
 Thế Tôn:
 
-1106. Ðây lời Thế Tôn nói:\
+1106. Ðây lời Thế Tôn nói: {#1106}\
 Hỡi này U-đa-ya,\
 Ðoạn ước muốn, dục vọng,\
 Và cả hai loại ưu,\
 Và trừ bỏ hôn trầm,\
 Ngăn chận mọi hối hận.
 
-1107. Ta nói trí giải thoát,\
+1107. Ta nói trí giải thoát, {#1107}\
 Ðể phá hoại vô minh,\
 Thanh tịnh nhờ xả niệm,\
 Suy tư pháp đi trước.
 
 Udaya:
 
-1108. Ðời cái gì trói buộc,\
+1108. Ðời cái gì trói buộc, {#1108}\
 Cái gì, đời vận hành?\
 Do đoạn được cái gì,\
 Ðược gọi là Niết-bàn?
 
 Thế Tôn:
 
-1109. Ðời bị hỷ trói buộc,\
+1109. Ðời bị hỷ trói buộc, {#1109}\
 Suy tầm là sở hành,\
 Do đoạn được khát ái,\
 Ðược gọi là Niết-bàn.
 
 Udaya:
 
-1110. Người sở hành chánh niệm,\
+1110. Người sở hành chánh niệm, {#1110}\
 Thức được diệt thế nào?\
 Con đến hỏi Thế Tôn,\
 Nghe lời Thế Tôn nói.
 
 Thế Tôn:
 
-1111. Ai không có hoan hỷ,\
+1111. Ai không có hoan hỷ, {#1111}\
 Với nội và ngoại thọ,\
 Sở hành chánh niệm vậy,\
 Thức đạt được hoại diệt.
 
-### **(XV) Câu hỏi của thanh niên Posàla (Sn 215)**
+### **(XV) Câu hỏi của thanh niên Posàla (Sn 215)** {#15}
 
 Posàla:
 
-1112. Tôn giả Po-sa-la:\
+1112. Tôn giả Po-sa-la: {#1112}\
 Vị nói về quá khứ,\
 Bất động nghi hoặc đoạn,\
 Ðã đến bờ bên kia,\
 Con đến với câu hỏi\
 Hỏi về hết thảy pháp.
 
-1113. Với ai, sắc tưởng diệt,\
+1113. Với ai, sắc tưởng diệt, {#1113}\
 Ðoạn tận hết thảy thân,\
 Nhìn thấy nội và ngoại,\
 Thật sự không có gì,\
@@ -1307,14 +1307,14 @@ Có thể bị dắt dẫn?
 
 Thế Tôn:
 
-1114. Thế Tôn bèn đáp rằng:\
+1114. Thế Tôn bèn đáp rằng: {#1114}\
 Hỡi này Pô-sa-la,\
 Như Lai được thắng trí,\
 Tất cả nhờ thức trú,\
 Rõ biết vị an trú,\
 Giải thoát, đạt cứu cánh.
 
-1115. Biết được sự tác thành,\
+1115. Biết được sự tác thành, {#1115}\
 Thuộc về vô sở hữu,\
 Biết hỷ là kiết sử,\
 Do thắng tri như vậy,\
@@ -1323,11 +1323,11 @@ Tại đấy, thấy như vậy,\
 Của vị Bà-la-môn,\
 Ðã thành tựu Phạm hạnh.
 
-### **(XVI) Câu hỏi của thanh niên Mogharàja (Sn 216)**
+### **(XVI) Câu hỏi của thanh niên Mogharàja (Sn 216)** {#16}
 
 Mogharàja:
 
-1116. Mo-gha-rà-ja nói:\
+1116. Mo-gha-rà-ja nói: {#1116}\
 Ðã hai lần con hỏi,\
 Bậc có mắt, họ Thích,\
 Ngài chưa trả lời con,\
@@ -1336,19 +1336,19 @@ Cho đến lần thứ ba,\
 Vị Thiên nhân ẩn sĩ,\
 Sẽ trả lời cho con.
 
-1117. Ðời này và đời sau,\
+1117. Ðời này và đời sau, {#1117}\
 Phạm thiên giới, thiên giới,\
 Con không rõ quan điểm,\
 Gotama lừng danh.
 
-1118. Vị thầy được thù diệu,\
+1118. Vị thầy được thù diệu, {#1118}\
 Con đến với câu hỏi,\
 Cần nhìn đời thế nào,\
 Ðể thần chết không thấy.
 
 Thế Tôn:
 
-1119. Này Mô-gha-ra-ja,\
+1119. Này Mô-gha-ra-ja, {#1119}\
 Hãy nhìn đời trống không,\
 Luôn luôn giữ chánh niệm,\
 Nhô lên ngã tùy kiến,\
@@ -1356,11 +1356,11 @@ Như vậy vượt tử vong,\
 Hãy nhìn đời như vậy,\
 Thần chết không thấy được.
 
-### **(XVII) Câu hỏi của thanh niên Pingiya (Sn 217)**
+### **(XVII) Câu hỏi của thanh niên Pingiya (Sn 217)** {#17}
 
 Pingiya:
 
-1120. Tôn giả Pin-gi-ya:\
+1120. Tôn giả Pin-gi-ya: {#1120}\
 Con đã già, yếu đuối,\
 Không còn có dung sắc,\
 Mắt không thấy rõ ràng,\
@@ -1374,7 +1374,7 @@ Con đoạn tận sanh già.
 
 Thế Tôn:
 
-1121. Thế Tôn đáp lại rằng:\
+1121. Thế Tôn đáp lại rằng: {#1121}\
 Hỡi này Pin-gi-ya,\
 Thấy được sự tác hại,\
 Trong các loại sắc pháp,\
@@ -1387,7 +1387,7 @@ Chớ đi đến tái sanh.
 
 Pingiya:
 
-1122. Bốn phương chính, bốn phụ,\
+1122. Bốn phương chính, bốn phụ, {#1122}\
 Cộng thêm trên và dưới,\
 Như vậy có mười phương,\
 Và trong thế giới này,\
@@ -1402,7 +1402,7 @@ Con ngay tại đời này,\
 
 Thế Tôn:
 
-1123. Thế Tôn nói như sau:\
+1123. Thế Tôn nói như sau: {#1123}\
 Hỡi này Pin-gi-ya!\
 Thấy chúng sanh loài Người,\
 Rơi vào trong khát ái,\
@@ -1413,11 +1413,11 @@ Do vậy, Pin-gi-ya,\
 Hãy từ bỏ khát ái,\
 Không còn bị tái sanh.
 
-### **(XVIII) Kết luận**
+### **(XVIII) Kết luận** {#18}
 
 Thế Tôn nói như vậy. Trong khi ở tại Magadha, tại điện Phà-xa-na-ka, Thế Tôn được mười sáu Bà-la-môn đệ tử của Bàvani tìm đến, được hỏi nhiều câu hỏi và Ngài đã trả lời. Nêu từng câu hỏi một, sau khi hiểu nghĩa, sau khi hiểu pháp, thực hành pháp và tùy pháp, thì có thể đi đến bờ bên kia của già chết. Những pháp này có thể đưa người qua bờ bên kia, cho nên pháp môn này cũng được gọi là Pàràyanam: “Con đường đưa đến bờ bên kia”.
 
-1124. Phạm chí Ajita,\
+1124. Phạm chí Ajita, {#1124}\
 Tissa-Met-tayya,\
 Phạm chí Pun-na-ka,\
 Cùng với Met-ta-gù,\
@@ -1426,7 +1426,7 @@ Và Upasiva,\
 Nan-đa, He-ma-ka,\
 Cả hai vị thanh niên.
 
-1125. To-dey-ya, Kap-pà;\
+1125. To-dey-ya, Kap-pà; {#1125}\
 Và Ja-tu-kha-ni,\
 Với Bhad-rà-vu-dha\
 Phạm chí U-da-ya\
@@ -1436,14 +1436,14 @@ Là bậc đại Hiền trí,\
 Cùng với bậc đại sĩ,\
 Tên là Pin-gi-ya.
 
-1126. Những vị này đi đến,\
+1126. Những vị này đi đến, {#1126}\
 Ðức Phật, bậc Tiên nhân,\
 Bậc hạnh đức đầy đủ,\
 Những vị này đi đến,\
 Bậc giác ngộ tối thượng,\
 Hỏi câu hỏi tế nhị.
 
-1127. Ðức Phật đã như thật,\
+1127. Ðức Phật đã như thật, {#1127}\
 Trả lời các vị ấy,\
 Tùy theo các câu hỏi,\
 Và bậc đại ẩn sĩ\
@@ -1451,20 +1451,20 @@ Trả lời những câu hỏi,\
 Khiến các Bà-la-môn,\
 Ðược hoan hỷ vui thích.
 
-1128. Họ được vui, hoan hỷ,\
+1128. Họ được vui, hoan hỷ, {#1128}\
 Nhờ Phật, bậc có mắt,\
 Nhờ bà con mặt trời,\
 Họ hành trì Phạm hạnh,\
 Dưới chỉ đạo hướng dẫn,\
 Bậc trí tuệ tuyệt diệu.
 
-1129. Theo từng câu hỏi một,\
+1129. Theo từng câu hỏi một, {#1129}\
 Tùy đức Phật thuyết giảng,\
 Ai như vậy hành trì,\
 Ði được từ bờ này,\
 Ðến được bờ bên kia.
 
-1130. Ði được từ bờ này,\
+1130. Ði được từ bờ này, {#1130}\
 Ðến được bờ bên kia,\
 Tu tập đạo vô thượng,\
 Và chính con đường ấy,\
@@ -1476,7 +1476,7 @@ Rồi Tôn giả Pingiya đi về Godhàvari và nói lại với Bà-la-môn B�
 
 Pingiya:
 
-1131. Tôn giả Pin-gi-ya:\
+1131. Tôn giả Pin-gi-ya: {#1131}\
 Con sẽ đọc tụng lên\
 Con đường đến bờ kia,\
 Ngài được thấy thế nào,\
@@ -1487,14 +1487,14 @@ Bậc Niết-bàn an tịnh,\
 Làm sao do nhân gì,\
 Ngài nói điều không thật.
 
-1132. Bậc đã đoạn trừ hết,\
+1132. Bậc đã đoạn trừ hết, {#1132}\
 Uế nhiễm và si mê,\
 Bậc đã diệt trừ sạch,\
 Kiêu mạn và gièm pha,\
 Con sẽ nói tán thán,\
 Âm thanh vi diệu ấy.
 
-1133. Bậc quét sạch u ám,\
+1133. Bậc quét sạch u ám, {#1133}\
 Phật-đà, bậc Biến nhãn,\
 Ðã đến, tận cùng đời,\
 Ðã vượt qua sanh hữu,\
@@ -1504,14 +1504,14 @@ Vị được gọi sự thật,\
 Hỡi vị Bà-la-môn,\
 Con được hầu vị ấy.
 
-1134. Như chim bỏ rừng hoang,\
+1134. Như chim bỏ rừng hoang, {#1134}\
 Ðến ở rừng nhiều trái,\
 Cũng vậy con từ bỏ,\
 Những bậc thấy nhỏ nhen,\
 Con đạt đến biển lớn,\
 Chẳng khác con thiên nga.
 
-1135. Những ai trong đời khác,\
+1135. Những ai trong đời khác, {#1135}\
 Ðã nói cho con nghe,\
 Lời dạy bậc Cù-đàm\
 Như vậy đã xảy ra,\
@@ -1519,14 +1519,14 @@ Như vậy sẽ xảy đến,\
 Tất cả là tin đồn,\
 Chỉ làm tăng nghi ngờ.
 
-1136. Chỉ một vị an trú,\
+1136. Chỉ một vị an trú, {#1136}\
 Quét sạch các hắn ám,\
 Sanh trưởng gia đình quý,\
 Vị ấy chiếu hào quang,\
 Cù-đàm, bậc quảng tuệ,\
 Cù-đàm, bậc quảng trí.
 
-1137. Ai thuyết pháp cho con,\
+1137. Ai thuyết pháp cho con, {#1137}\
 Pháp thiết thực hiện tại,\
 Ðến ngay không chờ đợi,\
 Ái diệt, vượt đau khổ,\
@@ -1534,14 +1534,14 @@ Vị ấy không ai sánh.
 
 Bàvari:
 
-1138. Hỡi này Pin-gi-ya,\
+1138. Hỡi này Pin-gi-ya, {#1138}\
 Sao Ông lại không thể,\
 Sống xa lánh vị ấy,\
 Chỉ trong một chốc lát,\
 Bậc Cù-đàm quảng tuệ,\
 Bậc Cù-đàm quảng trí,
 
-1139. Vị thuyết pháp cho người,\
+1139. Vị thuyết pháp cho người, {#1139}\
 Pháp thiết thực hiện tại,\
 Ðến ngay không chờ đợi,\
 Ái diệt, vượt đau khổ,\
@@ -1549,20 +1549,20 @@ Vị ấy không ai sánh.
 
 Pingiya:
 
-1140. Hỡi này Bà-la-môn,\
+1140. Hỡi này Bà-la-môn, {#1140}\
 Con không có thể được,\
 Sống xa lánh vị ấy\
 Chỉ trong một chốc lát,\
 Gotama quảng tuệ,\
 Gotama quảng trí.
 
-1141. Vị thuyết pháp cho con,\
+1141. Vị thuyết pháp cho con, {#1141}\
 Pháp thiết thực hiện tại,\
 Ðến ngay không chờ đợi,\
 Ái diệt, vượt đau khổ,\
 Vị ấy không ai sánh.
 
-1142. Chính con thấy vị ấy,\
+1142. Chính con thấy vị ấy, {#1142}\
 Với ý, với con mắt,\
 Ngày đêm không phóng dật,\
 Kính thưa Bà-la-môn,\
@@ -1571,7 +1571,7 @@ Con trải qua suốt đêm\
 Do vậy con nghĩ rằng,\
 Con không xa vị ấy.
 
-1143. Với tín và với hỷ,\
+1143. Với tín và với hỷ, {#1143}\
 Với ý luôn chánh niệm,\
 Không làm con xa rời,\
 Lời dạy Gotama!\
@@ -1580,7 +1580,7 @@ Bậc quảng tuệ đi đến,\
 Chính ở phương hướng ấy,\
 Con được dắt dẫn đến.
 
-1144. Với con tuổi đã già,\
+1144. Với con tuổi đã già, {#1144}\
 Yếu đuối, không sức mạnh,\
 Do vậy thân thể này,\
 Không đến được chỗ ấy,\
@@ -1589,7 +1589,7 @@ Con thường hằng đi đến.\
 Vì rằng thưa Phạm chí,\
 Ý con cột vị ấy.
 
-1145. Nằm dài trong vũng bùn,\
+1145. Nằm dài trong vũng bùn, {#1145}\
 Vùng vẫy, vật qua lại,\
 Con đã bơi qua lại,\
 Ðảo này đến đảo khác,\
@@ -1600,7 +1600,7 @@ Vượt bộc lưu, vô lậu.
 
 Thế Tôn:
 
-1146. Cũng như Vak-ka-li\
+1146. Cũng như Vak-ka-li {#1146}\
 Nhờ tin, được giải thoát,\
 Với Bhad-rà-vu-dha,\
 A-la-vi, Cù-đàm,\
@@ -1613,20 +1613,20 @@ Của thế giới thần chết.
 
 Pingiya:
 
-1147. Ðược nghe lời ẩn sĩ,\
+1147. Ðược nghe lời ẩn sĩ, {#1147}\
 Con tăng trưởng tịnh tín,\
 Bậc Chánh đẳng Chánh giác,\
 Ðã vén lên tấm màn,\
 Không cứng cỏi, biện tài.
 
-1148. Thắng tri các chư Thiên,\
+1148. Thắng tri các chư Thiên, {#1148}\
 Biết tất cả cao thấp,\
 Bậc Ðạo Sư chấm dứt,\
 Tất cả các câu hỏi,\
 Với những ai tự nhận,\
 Còn có chỗ nghi ngờ.
 
-1149. Không run rẩy, dao động,\
+1149. Không run rẩy, dao động, {#1149}\
 Không ai có thể sánh,\
 Chắc chắn con sẽ đi,\
 Tại đây, con không nghi,\

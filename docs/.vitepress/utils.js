@@ -30,6 +30,73 @@ function slugAnchor(inputString) {
 }
 
 
+// Xử lý {#id} hoặc {id=value} — chấp nhận cả khi nó nằm ở CUỐI đoạn văn
+// LẪN khi nó nằm ngay trước một hardbreak (`\` ngắt dòng thơ) giữa đoạn văn,
+// vì markdown-it-attrs chỉ xét token cuối cùng của cả khối nên bỏ sót
+// trường hợp thơ nhiều dòng.
+function idAnchorFix(md) {
+  const ID_RE = /[ \t]*\{(?:#|id=)([A-Za-z0-9_\u00C0-\uFFFF-]+)\}[ \t]*$/
+
+  function findOwningOpenToken(tokens, inlineIdx) {
+    let idx = inlineIdx - 1
+    let depth = 0
+    let found = null
+    for (; idx >= 0; idx--) {
+      if (tokens[idx].nesting === -1) { depth++; continue }
+      if (tokens[idx].nesting === 1) {
+        if (depth === 0) { found = tokens[idx]; break }
+        depth--
+      }
+    }
+    if (!found) return null
+    if (!found.hidden) return found
+    let outerIdx = idx - 1
+    let outerDepth = 0
+    for (; outerIdx >= 0; outerIdx--) {
+      if (tokens[outerIdx].nesting === -1) { outerDepth++; continue }
+      if (tokens[outerIdx].nesting === 1) {
+        if (outerDepth === 0) return tokens[outerIdx]
+        outerDepth--
+      }
+    }
+    return found
+  }
+
+  md.core.ruler.before('linkify', 'trailing_id_attr', (state) => {
+    const tokens = state.tokens
+    for (let i = 0; i < tokens.length; i++) {
+      const tok = tokens[i]
+      if (tok.type !== 'inline' || !tok.children?.length) continue
+
+      const children = tok.children
+
+      for (let j = 0; j < children.length; j++) {
+        const child = children[j]
+        if (child.type !== 'text') continue
+
+        // Chỉ coi là hợp lệ nếu đây là cuối một "dòng" theo nghĩa tác giả
+        // gõ: cuối cả đoạn văn, HOẶC ngay trước hardbreak/softbreak.
+        const next = children[j + 1]
+        const atLineEnd = !next || next.type === 'hardbreak' || next.type === 'softbreak'
+        if (!atLineEnd) continue
+
+        const match = ID_RE.exec(child.content)
+        if (!match) continue
+
+        child.content = child.content.slice(0, match.index)
+
+        const openTok = findOwningOpenToken(tokens, i)
+        if (!openTok) continue
+
+        const idx = openTok.attrIndex('id')
+        if (idx < 0) openTok.attrPush(['id', match[1]])
+        else openTok.attrs[idx][1] = match[1]
+
+        break // mỗi block chỉ cần 1 id
+      }
+    }
+  })
+}
 
 // Xử lý `{#id}` cuối đoạn văn một cách độc lập với markdown-it-attrs.
 // markdown-it-attrs có bug: nếu đoạn văn có markup (in nghiêng, in đậm...)
@@ -37,7 +104,7 @@ function slugAnchor(inputString) {
 // logic tìm dấu { của nó bị "kẹt" ở trạng thái "đang trong giá trị có ngoặc
 // kép" và không bao giờ tìm ra {, nên {#id} bị bỏ sót, in ra literal.
 // Rule này chạy trước, tự strip {#id} bằng regex thuần, tránh hẳn bug đó.
-function idAnchorFix(md) {
+function idAnchorFix3(md) {
   const ID_RE = /[ \t]*\{#([A-Za-z0-9_\u00C0-\uFFFF-]+)\}[ \t]*$/
 
   function findOwningOpenToken(tokens, inlineIdx) {
