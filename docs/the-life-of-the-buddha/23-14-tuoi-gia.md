@@ -16,7 +16,7 @@ GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời, khi Đức Th�
 
 “Thật đúng như vậy, đại vương, thật đúng như vậy. Khi tuổi già và cái chết đang bủa vây lấy ngài, ngài còn làm gì được khác hơn là sống đúng Chánh pháp, sống theo lẽ phải, vun bồi điều thiện và tạo phước đức?”
 
-[S. 3:25](/link?q=SN-3.25){target=_black}
+[S. 3:25](/l?q=SN-3.25){target=_black}
 
 Một thời, khi Đức Thế Tôn đang ngự tại Sāvatthī, ở Đông Viên, nơi giảng đường Lộc Mẫu, vào buổi chiều ngài xuất định và ngồi sưởi lưng dưới những tia nắng mặt trời đang lặn. Tôn giả Ānanda đến gần đảnh lễ ngài. Trong khi xoa bóp tay chân cho Đức Thế Tôn, tôn giả bạch: “Thật kỳ diệu, bạch Thế Tôn, thật phi thường! Giờ đây nước da của Đức Thế Tôn không còn sáng ngời và rạng rỡ nữa; tay chân ngài đều nhăn nheo, chùng xuống, lưng ngài còng về phía trước, và dường như có sự suy giảm nơi các giác quan mắt, tai, mũi, lưỡi và thân xúc chạm.”
 
@@ -33,7 +33,7 @@ Một thời, khi Đức Thế Tôn đang ngự tại Sāvatthī, ở Đông Vi�
 > Tuổi già không chừa ai\
 > Dập vùi muôn vạn vật
 
-[S. 48:41](/link?q=SN-48.41){target=_black}
+[S. 48:41](/l?q=SN-48.41){target=_black}
 
 Một thời, Đức Thế Tôn đang ngự tại Sāmagāma trong xứ Thích-ca, ngay sau khi giáo chủ Nigaṇṭha Nāthaputta qua đời tại Pāvā. Sau cái chết của ông, phái Nigaṇṭha bị chia rẽ thành hai phe, họ cãi cọ, tranh chấp, xích mích và bắn vào nhau những mũi tên miệng lưỡi: “Các người chẳng hiểu gì về Pháp và Luật này. Làm sao các người biết được Pháp và Luật này? Đường lối của các người là sai. Đường lối của tôi mới đúng. Tôi trước sau như một. Các người tiền hậu bất nhất. Điều đáng nói trước thì các người nói sau. Điều đáng nói sau thì các người nói trước. Những gì các người gầy dựng đã bị đảo lộn hết. Thuyết của các người đã bị bác bỏ. Các người đã thua cuộc. Hãy đi học lại cho khá hơn, hoặc tìm cách tự gỡ rối nếu làm nổi.” Cảnh tượng trông như một cuộc tương tàn giữa các môn đồ của Nigaṇṭha Nāthaputta. Và những cư sĩ áo trắng thất vọng, chán chường, ghê tởm đám môn đồ ấy cũng như chán ngấy một Pháp và Luật vụng về, khó thấu triệt, không dẫn tới đâu, chẳng đem lại bình an, do một kẻ chưa giác ngộ hoàn toàn tuyên thuyết, nay ngôi đền đã sụp đổ và không còn chỗ nương tựa.
 
@@ -45,7 +45,7 @@ Bấy giờ, sa-di Cunda, người vừa trải qua mùa an cư kiết hạ tạ
 
 “Tranh chấp về sinh kế hay về Giới bổn chỉ là chuyện nhỏ nhặt, này Ānanda. Nhưng nếu xảy ra tranh chấp trong Tăng đoàn về con đường hay phương pháp tu tập, những tranh chấp ấy mới thực sự đem lại bất hạnh và đau khổ cho số đông.”
 
-[MN-104](/link?q=MN-104){target=_black}
+[MN-104](/l?q=MN-104){target=_black}
 
 Một thời, Đức Thế Tôn đang ngự tại Vesālī, trong khu rừng phía tây bên ngoài thành. Lúc ấy, Sunakkhatta, một người con thuộc dòng dõi Licchavi, vừa mới từ bỏ Pháp và Luật này, và ông ta đi rêu rao giữa các buổi họp ở Vesālī rằng: “Sa-môn Gotama chẳng có pháp thượng nhân nào vượt trội, xứng tầm với tri kiến của bậc thánh. Sa-môn Gotama chỉ giảng dạy một thứ giáo pháp do suy tư mò mẫm ra, dựa theo suy luận tùy hứng nảy ra trong đầu; và ai được dạy giáo pháp ấy vì lợi ích của mình, thì khi thực hành, nó chỉ dẫn đến việc chấm dứt hoàn toàn khổ đau ở người đó, (chứ chẳng có gì khác hơn).”
 
@@ -82,17 +82,17 @@ Tôn giả Sāriputta nghe được điều này liền bạch lại với Đứ
 
 “Có những sa-môn, bà-la-môn chủ trương và tin rằng: ‘Chừng nào bậc thiện nhân này còn trẻ trung, một chàng trai tóc đen óng ả, tràn đầy sức sống của tuổi thanh xuân trong chặng đầu đời, chừng ấy trí tuệ của ngài mới sáng suốt vẹn toàn. Nhưng khi bậc thiện nhân ấy đã già nua, tuổi cao tác lớn, năm tháng đè nặng, đi đến chặng cuối của cuộc đời, ở tuổi tám mươi, chín mươi hay một trăm, thì trí tuệ sáng suốt của ngài sẽ suy giảm.’ Nhưng chớ nên nhìn nhận như vậy. Giờ đây Ta đã già nua, tuổi cao tác lớn, năm tháng đè nặng, đi đến chặng cuối của đời người: tuổi Ta đã tròn tám mươi. Nay giả sử Ta có bốn người đệ tử sống thọ một trăm năm, tuổi thọ trọn một thế kỷ, hoàn hảo về chánh niệm, tỉnh giác, trí nhớ và trí tuệ sáng suốt—như một thiện xạ tài ba, được huấn luyện chu đáo, thiện chiến và dày dạn, có thể dễ dàng bắn một mũi tên nhẹ xuyên qua bóng cây thốt nốt; giả sử họ hoàn hảo về chánh niệm, tỉnh giác, trí nhớ và trí tuệ sáng suốt đến mức độ ấy—và giả sử họ liên tục hỏi Ta về bốn niệm xứ, Ta trả lời mỗi khi được hỏi, họ ghi nhớ từng câu trả lời, không bao giờ hỏi thêm những câu phụ, và không hề nghỉ ngơi ngoại trừ lúc ăn, uống, nhai, nếm, đại tiểu tiện và nghỉ ngơi chốc lát để xua tan mệt mỏi: thì sự thuyết giảng Chánh pháp của Như Lai, những lời giải thích về các yếu tố của Pháp, và những câu trả lời của ngài vẫn chẳng hề cạn kiệt. Trong khi đó, bốn người đệ tử ấy với tuổi thọ một trăm năm sẽ chết đi khi tròn trăm tuổi. Này Sāriputta, dẫu cho các ông có phải khiêng Ta đi trên một chiếc cáng, thì trí tuệ sáng suốt của Như Lai vẫn không hề suy chuyển.”
 
-[MN-12](/link?q=MN-12){target=_black}
+[MN-12](/l?q=MN-12){target=_black}
 
 NGƯỜI KỂ MỘT. Vào những năm tháng cuối đời của Đức Phật, một loạt sự việc phiền toái đã xảy ra—những sự việc mà theo cách nhìn thông thường sẽ bị coi là phiền toái. Vừa kể trên là việc một cựu tỳ-kheo tên là Sunakkhatta (từng có thời làm thị giả của Đức Phật) đã từ bỏ ngài và công khai nói xấu ngài trước công chúng, coi thường những năng lực thần thông của ngài, khiến Đức Phật phải cất lên tiếng “rống sư tử”, lời tuyên bố rằng chẳng có lối khổ hạnh ép xác nào mà ngài chưa từng kinh qua, chẳng có phương pháp thanh lọc bản thân nào mà ngài chưa từng thử nghiệm. Rồi ngài cũng sắp sửa mất đi hai vị đại đệ tử thượng thủ. Trong khi đó, Vua Pasenadi nước Kosala, người hộ trì hết lòng cho ngài trong suốt hơn bốn mươi năm, giờ đây ngày càng bị bủa vây bởi những biến động chính trị rối ren.
 
 NGƯỜI KỂ HAI. Vua Pasenadi bằng tuổi Đức Phật và lúc này cũng đang ở tuổi tám mươi. Vua bị phiền não bởi những cuộc chiến tranh dai dẳng và vô ích với người cháu gọi bằng bác là Vua Ajātasattu nước Magadha, cũng như những vụ biến loạn định kỳ ngay trong vương quốc của mình. Do hậu quả của một âm mưu trong cung đình, vị đại tướng quân của ông là Bandhula bị vu cáo mưu phản và bị xử tử. Tuy nhiên, sau đó vua biết rằng viên tướng này vô tội. Nỗi ân hận giày vò tâm can ông. Để chuộc lại phần nào lỗi lầm, có lẽ vì thế mà ông đã phong cháu trai của tướng Bandhula là Dīgha Kārāyaṇa lên thay chức vụ đó.
 
-Chú giải [MN-89](/link?q=MN-89){target=_black} và [D. 16](/link?q=dn-16){target=_black}
+Chú giải [MN-89](/l?q=MN-89){target=_black} và [D. 16](/l?q=dn-16){target=_black}
 
 NGƯỜI KỂ MỘT. Vua Pasenadi tìm đến Đức Phật để xin lời khuyên. Khi người bạn đời hết mực yêu thương của ông là Hoàng hậu Mallikā qua đời, ông rơi vào nỗi đau buồn sâu sắc và đã đến tìm Đức Phật, lúc đó đang ở Sāvatthī, để tìm kiếm sự an ủi.
 
-Xem [A. 5:49](/link?q=AN-5.49){target=_black}
+Xem [A. 5:49](/l?q=AN-5.49){target=_black}
 
 NGƯỜI KỂ HAI. Cung điện nguy nga và kinh đô rực rỡ không còn mang lại niềm vui cho nhà vua nữa. Ông rời kinh thành một thời gian để ngao du từ nơi này sang nơi khác cùng một đoàn tùy tùng đông đúc, nhưng không có kế hoạch cụ thể nào.
 
@@ -148,7 +148,7 @@ Không lâu sau khi vua rời đi, Đức Thế Tôn bảo các tỳ-kheo: “N�
 
 Đức Thế Tôn đã dạy như vậy. Các tỳ-kheo hoan hỷ và tín thọ lời ngài.
 
-[MN-89](/link?q=MN-89){target=_black}
+[MN-89](/l?q=MN-89){target=_black}
 
 NGƯỜI KỂ MỘT. Những gì xảy ra với nhà vua sau khi rời khỏi cuộc hội kiến ấy chỉ được ghi lại trong phần Chú giải.
 

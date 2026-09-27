@@ -5,6 +5,7 @@ import mn_pali_tmc_vi from './link-mn-pali-tmc-vi'
 export default {
  mn: {
   "folder": "kinhtrungbo",
+  index_length: 2,
   name: "Kinh Trung",
   "editions": {
    "pali-vi": {

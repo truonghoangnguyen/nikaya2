@@ -5,15 +5,15 @@ NGƯỜI KỂ MỘT. Lời kể về việc Xuất gia trong các tạng kinh (P
 
 GIỌNG ĐỌC THỨ NHẤT. “Trước khi giác ngộ, khi ta mới chỉ là một vị Bồ Tát chưa giác ngộ, bản thân ta còn phải chịu cảnh sinh, già, bệnh, chết, sầu bi và phiền não, ta đã tìm kiếm những gì cũng phải chịu những cảnh ngộ đó. Rồi ta nghĩ: ‘Tại sao, bản thân ta phải chịu cảnh sinh, già, bệnh, chết, sầu bi và phiền não, lại đi tìm kiếm những thứ cũng chung số phận ấy? Giả sử, tuy bản thân phải chịu những điều này, nhưng thấy được sự nguy hiểm của chúng, ta đi tìm kiếm sự giải thoát vô thượng khỏi mọi trói buộc: không sinh, không già, không bệnh, không chết, không sầu bi, không phiền não, tức là Niết Bàn thì sao?’ ”
 
-[MN-26](/link?q=MN-26){target=_black}
+[MN-26](/l?q=MN-26){target=_black}
 
 “Trước khi giác ngộ, khi ta mới chỉ là một vị Bồ Tát chưa giác ngộ, ta nghĩ: ‘Đời sống gia đình thật chật chội và đầy bụi bặm; đời sống xuất gia thì thênh thang rộng mở. Sống trong gia đình, thật không dễ gì để giữ gìn phạm hạnh hoàn toàn trọn vẹn và thanh khiết như vỏ ốc được đánh bóng. Giả sử ta cạo bỏ râu tóc, khoác áo cà sa, và từ bỏ gia đình để sống đời không nhà thì sao?’ ”
 
-[MN-36](/link?q=MN-36){target=_black}, 100
+[MN-36](/l?q=MN-36){target=_black}, 100
 
 “Sau này, khi vẫn còn trẻ, một chàng trai tóc đen tràn đầy thanh xuân, ở giai đoạn đầu của cuộc đời, ta đã cạo bỏ râu tóc—mặc cho cha mẹ không mong muốn và khóc lóc thảm thiết—ta khoác lên mình tấm áo cà sa và từ bỏ đời sống gia đình để bước vào chốn không nhà.”
 
-[MN-26](/link?q=MN-26){target=_black}, 36, 85, 100
+[MN-26](/l?q=MN-26){target=_black}, 36, 85, 100
 
 NGƯỜI TỤNG KỆ.
 
@@ -107,7 +107,7 @@ NGƯỜI TỤNG KỆ.
 > Nơi con đường buông bỏ.\
 > Đó là ước nguyện tôi."
 
-[Sn. 3:1](/link?q=snp-3.1){target=_black}
+[Sn. 3:1](/l?q=snp-3.1){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. “Khi đó ta từ bỏ đời sống gia đình để sống cảnh không nhà nhằm tìm kiếm điều thiện  [1](/the-life-of-the-buddha/notes/2#1){.note},” tìm kiếm trạng thái tối thượng của sự bình an vĩ đại. Do đó, ta đi đến chỗ của Ālāra Kālāma, và nói với ông ấy: ‘Này hiền giả Kālāma, tôi muốn tu tập phạm hạnh trong Pháp và Luật này.’
 
@@ -131,7 +131,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Khi đó ta từ bỏ đời sống gia đình �
 
 “Vẫn trên con đường tìm kiếm điều thiện, tìm kiếm trạng thái tối thượng của sự bình an vĩ đại, ta đến chỗ Uddaka Rāmaputta, và nói với ông ấy: ‘Thưa hiền giả, tôi muốn tu tập phạm hạnh trong Pháp và Luật này.’ ”
 
-[MN-26](/link?q=MN-26){target=_black}, 36, 85, 100
+[MN-26](/l?q=MN-26){target=_black}, 36, 85, 100
 
 NGƯỜI KỂ MỘT. Trải nghiệm của ngài dưới sự hướng dẫn của Uddaka Rāmaputta được kể lại bằng chính xác những lời lẽ đó, ngoại trừ việc ngài đã học từ ông ấy một mức độ chứng đạt thậm chí còn cao hơn là Phi tưởng phi phi tưởng xứ, và Uddaka Rāmaputta đã trao cho ngài quyền lãnh đạo duy nhất đối với hội chúng đó. Nhưng kết luận vẫn như cũ.
 
@@ -139,7 +139,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Ta nghĩ: ‘Giáo pháp này không dẫn đế
 
 “Vẫn trên con đường tìm kiếm điều thiện, tìm kiếm trạng thái tối thượng của sự bình an vĩ đại, ta lang thang qua nhiều chặng đường quanh xứ Ma-kiệt-đà và cuối cùng đến Senānigāma gần Uruvelā. Nơi đó ta thấy một dải đất dễ chịu, một khu rừng hỉ lạc, một dòng sông nước trong vắt với đôi bờ bằng phẳng êm đềm, và gần đó là một ngôi làng để đi khất thực. Ta nghĩ: ‘Chỗ này rất phù hợp cho sự tu tập của một thiện nam tử đang tìm kiếm con đường tu tập.’
 
-[MN-26](/link?q=MN-26){target=_black}, 36, 85, 100
+[MN-26](/l?q=MN-26){target=_black}, 36, 85, 100
 
 “Rồi trước khi giác ngộ, khi ta mới chỉ là một vị Bồ Tát chưa giác ngộ, ta nghĩ: ‘Những nơi rừng sâu núi thẳm hẻo lánh thật khó mà chịu đựng, sự biệt lập thật khó mà đạt được, sự cô độc thật khó mà tận hưởng; người ta hẳn sẽ nghĩ rừng sâu sẽ cướp đi tâm trí của một vị tỳ kheo nếu vị ấy không có định lực.’
 
@@ -152,7 +152,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Ta nghĩ: ‘Giáo pháp này không dẫn đế
 “Ta nghĩ: ‘Tại sao ta cứ phải sống trong sự chờ đợi nỗi sợ hãi và kinh hãi không ngừng? Tại sao không khuất phục nỗi sợ hãi và kinh hãi đó trong khi vẫn giữ nguyên tư thế hiện tại khi nó đến?’
 
 “Và trong khi ta đang đi kinh hành, nỗi sợ hãi và kinh hãi ập đến; nhưng ta không đứng lại, không ngồi xuống cũng không nằm xuống cho đến khi ta khuất phục được nỗi sợ hãi và kinh hãi đó. Khi ta đang đứng, nỗi sợ hãi và kinh hãi ập đến; nhưng ta không bước đi, không ngồi cũng không nằm cho đến khi ta khuất phục được nỗi sợ hãi và kinh hãi đó. Khi ta đang ngồi, nỗi sợ hãi và kinh hãi ập đến; nhưng ta không bước đi, không đứng cũng không nằm cho đến khi ta khuất phục được nỗi sợ hãi và kinh hãi đó. Khi ta đang nằm, nỗi sợ hãi và kinh hãi ập đến; nhưng ta không bước đi, không đứng cũng không ngồi cho đến khi ta khuất phục được nỗi sợ hãi và kinh hãi đó.”
-[MN-4](/link?q=MN-4){target=_black}
+[MN-4](/l?q=MN-4){target=_black}
 
 “Lúc bấy giờ, ba ví dụ bỗng nhiên hiện lên trong ta, những ví dụ ta chưa từng nghe trước đây.
 
@@ -183,7 +183,7 @@ Cùng với đó là những cơn gió dữ dội xé toạc bụng ta, hệt nh
 “Lúc này, khi con người nhìn thấy ta, họ bảo: ‘Sa môn Gotama là một người da đen.’ Những người khác lại nói: ‘Sa môn Gotama không phải là người da đen, ông ấy là người da nâu.’ Những người khác lại bảo:
 ‘Sa môn Gotama không đen cũng chẳng nâu; da ông ấy sáng màu.’ Màu da tươi sáng trong trẻo của ta đã tàn tạ đến nhường ấy vì ăn quá ít.”
 
-[MN-36](/link?q=MN-36){target=_black}, 85, 100
+[MN-36](/l?q=MN-36){target=_black}, 85, 100
 
 NGƯỜI TỤNG KỆ.
 
@@ -272,7 +272,7 @@ NGƯỜI TỤNG KỆ.
 > Hệt như đá ném vỡ,\
 > Một chiếc bình đất sét.” [3](/the-life-of-the-buddha/notes/2#3){.note}
  
-> [Sn. 3:2](/link?q=snp-3.2){target=_black}
+> [Sn. 3:2](/l?q=snp-3.2){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. “Ta nghĩ: ‘Bất kỳ một vị sa môn hay bà la môn nào trong quá khứ đã trải qua, hoặc trong tương lai sẽ trải qua, hoặc trong hiện tại đang trải qua cảm thọ đau đớn, quằn quại, nhói buốt do nỗ lực tu tập mang lại, thì cảm thọ ấy chỉ có thể bằng thế này chứ không thể vượt quá mức này. Nhưng qua sự khổ hạnh khốc liệt này, ta đã không đạt được một trạng thái đặc biệt nào cao hơn trạng thái của con người, xứng đáng với tri kiến của bậc thánh nhân. Có thể có một con đường khác để đạt đến giác ngộ chăng?’
 
@@ -284,7 +284,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Ta nghĩ: ‘Bất kỳ một vị sa môn hay b
 
 “Lúc bấy giờ, có năm vị tỳ kheo đang hầu hạ ta, nghĩ rằng: ‘Nếu sa môn Gotama đạt được điều gì đó, ngài ấy sẽ nói cho chúng ta.’ Ngay khi ta ăn thức ăn đặc, cơm và bánh mì, năm vị tỳ kheo đã phẫn nộ và rời bỏ ta, nghĩ rằng: ‘Sa môn Gotama đã trở nên buông thả, ông ấy đã từ bỏ sự nỗ lực và quay trở lại cuộc sống xa hoa.’
 
-[MN-36](/link?q=MN-36){target=_black}, 85, 100
+[MN-36](/l?q=MN-36){target=_black}, 85, 100
 
 NGƯỜI KỂ MỘT. Lúc này, năm giấc mộng hiện đến với vị Bồ Tát.
 
@@ -292,7 +292,7 @@ NGƯỜI KỂ HAI. Đó là đêm ngay trước khi ngài chứng ngộ; và nh�
 
 GIỌNG ĐỌC THỨ NHẤT. Ngay trước khi Đấng Hoàn Thiện, bậc đã thành tựu và hoàn toàn giác ngộ, đạt được sự giác ngộ, có năm giấc mộng trọng đại đã hiện đến với ngài. Năm giấc mộng đó là gì? Khi ngài vẫn chỉ là một vị Bồ Tát chưa giác ngộ, quả đất lớn là chiếc giường của ngài; Tuyết Sơn, vua của các ngọn núi, là gối của ngài; tay trái của ngài đặt ở Biển Đông, tay phải của ngài đặt ở Biển Tây, đôi chân của ngài đặt ở Biển Nam. Đây là giấc mộng thứ nhất hiện đến với ngài, và nó báo trước việc ngài sẽ khám phá ra sự chánh đẳng chánh giác vô thượng. Khi ngài vẫn chỉ là một vị Bồ Tát chưa giác ngộ, một loài dây leo mọc lên từ rốn ngài và vươn lên chạm đến mây trời. Đây là giấc mộng thứ hai hiện đến với ngài, và nó báo trước việc ngài sẽ khám phá ra Bát Thánh Đạo. Khi ngài vẫn chỉ là một vị Bồ Tát chưa giác ngộ, những con giun trắng đầu đen bò từ bàn chân lên đến đầu gối ngài và che phủ cả đầu gối. Đây là giấc mộng thứ ba hiện đến với ngài, và nó báo trước rằng sẽ có rất nhiều cư sĩ mặc áo trắng đến nương tựa vào Đấng Hoàn Thiện trong thời gian ngài tại thế. Khi ngài chỉ là một vị Bồ Tát chưa giác ngộ, bốn con chim với những màu sắc khác nhau bay đến từ bốn phương, và khi chúng đậu xuống chân ngài, chúng đều biến thành màu trắng. Đây là giấc mộng thứ tư hiện đến với ngài, và nó báo trước rằng bốn giai cấp: sát đế lỵ (quý tộc chiến binh), bà la môn (tu sĩ), phệ xá (thương gia), và thủ đà la (dân thường) sẽ nhận ra sự giải thoát vô thượng khi Pháp và Luật đã được Đấng Hoàn Thiện tuyên thuyết. Khi ngài vẫn chỉ là một vị Bồ Tát chưa giác ngộ, ngài bước đi trên một núi phân khổng lồ mà không hề bị vấy bẩn bởi đống phân đó. Đây là giấc mộng thứ năm hiện đến với ngài, và nó báo trước rằng mặc dù Đấng Hoàn Thiện sẽ nhận được các vật dụng cúng dường như y phục, thức ăn khất thực, chỗ ở, và thuốc men, nhưng ngài sẽ sử dụng chúng mà không có sự tham lam, si mê hay chấp thủ, luôn nhận thức rõ sự nguy hiểm của chúng và hiểu rõ mục đích của chúng.
 
-[A. 5:196](/link?q=AN-5.196){target=_black}
+[A. 5:196](/l?q=AN-5.196){target=_black}
 
 NGƯỜI KỂ MỘT. Sự giác ngộ tự thân nó được mô tả trong nhiều bài kinh và từ nhiều góc độ khác nhau, giống như khi ta mô tả một cái cây từ trên xuống, từ dưới lên và từ nhiều phía khác nhau, hoặc mô tả một cuộc hành trình bằng đường bộ, đường thủy và đường hàng không. [5](/the-life-of-the-buddha/notes/2#5){.note}
 
@@ -306,7 +306,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Lúc bấy giờ, khi ta đã ăn thức ăn đ�
 
 "Khi tâm định của ta đã được thanh tịnh như vậy... ta hướng tâm, ta nghiêng tâm đến Lậu tận minh. Ta biết rõ, đúng như sự thật, rằng 'Đây là khổ,' rằng 'Đây là nguyên nhân của khổ,' rằng 'Đây là sự diệt khổ,' và rằng 'Đây là con đường dẫn đến sự diệt khổ'; ta biết rõ, đúng như sự thật, rằng 'Đây là các lậu hoặc,' rằng 'Đây là nguyên nhân của lậu hoặc,' rằng 'Đây là sự diệt lậu hoặc,' và rằng 'Đây là con đường dẫn đến sự diệt lậu hoặc.' Biết như vậy và thấy như vậy, tâm ta được giải thoát khỏi dục lậu, khỏi hữu lậu, và khỏi vô minh lậu. Khi được giải thoát, liền sinh ra trí tuệ: 'Tâm đã được giải thoát.' Ta trực tiếp thấu hiểu: 'Sanh đã tận, phạm hạnh đã thành, những việc cần làm đã làm xong, không còn tái sinh trở lại trạng thái này nữa.' Đây là sự thật thứ ba được ta chứng ngộ trong canh cuối của đêm. Vô minh bị xua tan và minh khởi lên, bóng tối bị xua tan và ánh sáng khởi lên, như điều xảy ra ở một người tinh tấn, dũng mãnh và tự chủ. Nhưng ta không để cho hỷ lạc dấy lên trong ta xâm chiếm tâm trí mình."
 
-[MN-36](/link?q=MN-36){target=_black}
+[MN-36](/l?q=MN-36){target=_black}
 
 NGƯỜI KỂ HAI. Giờ đây là mô tả dưới dạng cấu trúc của lý duyên khởi  [6](/the-life-of-the-buddha/notes/2#6){.note}, nói cách khác, là sự phát sinh phụ thuộc lẫn nhau.⁶ Chúng ta sẽ quay lại chủ đề này sau.
 
@@ -362,7 +362,7 @@ GIỌNG ĐỌC THỨ NHẤT. "Trước khi giác ngộ, khi ta vẫn chỉ là m
 
 “Ta đã đi theo con đường đó. Nhờ vậy, ta đã trực tiếp biết rõ già chết, nguyên nhân của nó, sự đoạn diệt của nó, và con đường dẫn đến sự đoạn diệt của nó. Ta đã trực tiếp biết rõ sự sinh, nguyên nhân của nó, sự đoạn diệt của nó, và con đường dẫn đến sự đoạn diệt của nó. Ta đã trực tiếp biết rõ hữu... thủ... ái... thọ... xúc... lục nhập... danh sắc... thức... Ta đã trực tiếp thấu hiểu các hành, nguyên nhân của chúng, sự đoạn diệt của chúng, và con đường dẫn đến sự đoạn diệt của chúng.”
 
-[S. 12:65](/link?q=SN-12.65){target=_black}; cf. [D. 14](/link?q=dn-14){target=_black}
+[S. 12:65](/l?q=SN-12.65){target=_black}; cf. [D. 14](/l?q=dn-14){target=_black}
 
 NGƯỜI KỂ HAI. Cuối cùng, đây là mô tả về sự giác ngộ dưới góc độ thẩm định đúng đắn về thế giới của những hành vi và khái niệm có điều kiện, được phân loại trong bài kinh này thành ngũ uẩn, trong đó mọi kinh nghiệm hữu vi, khi được phân tích, đều có thể được xếp vào.
 
@@ -370,11 +370,11 @@ GIỌNG ĐỌC THỨ NHẤT. “Trước khi giác ngộ, khi ta vẫn chỉ là
 
 “Chừng nào ta chưa hiểu bằng trí tuệ trực tiếp, đúng như thật, rằng đây là vị ngọt, đây là sự nguy hiểm, và đây là sự giải thoát, đối với ngũ uẩn thủ này, thì ta vẫn chưa tuyên bố rằng mình đã khám phá ra sự chánh đẳng chánh giác vô thượng trong thế giới với chư thiên, ma vương và các vị Phạm thiên, trong thế hệ này với các sa môn, bà la môn, với các vương tôn và loài người. Nhưng ngay khi ta đã hiểu bằng trí tuệ trực tiếp, đúng như thật, rằng đây là vị ngọt, đây là sự nguy hiểm, và đây là sự giải thoát, đối với ngũ uẩn thủ này, thì ta tuyên bố rằng mình đã khám phá ra sự chánh đẳng chánh giác vô thượng trong thế giới với chư thiên, ma vương và các vị Phạm thiên, trong thế hệ này với các sa môn, bà la môn, với các vương tôn và loài người.”
 
-[S. 22:26](/link?q=SN-22.26){target=_black}
+[S. 22:26](/l?q=SN-22.26){target=_black}
 
 “Vì bản thân phải chịu cảnh sinh, già, bệnh, chết, sầu bi và phiền não, nhìn thấy sự nguy hiểm trong những gì phải chịu những cảnh ngộ ấy và đi tìm sự giải thoát vô thượng khỏi mọi trói buộc: không sinh, không già, không bệnh, không chết, không sầu bi, không phiền não, Niết Bàn, ta đã đạt được nó. Trí tuệ và tầm nhìn khởi lên trong ta: ‘Sự giải thoát của ta là bất thối chuyển; đây là kiếp sống cuối cùng của ta; nay không còn tái sinh nữa.’”
 
-[MN-26](/link?q=MN-26){target=_black}
+[MN-26](/l?q=MN-26){target=_black}
 
 NGƯỜI KỂ HAI. Giờ đây sự giác ngộ đã viên thành. Và theo truyền thống, những lời đầu tiên hiện lên trong Đức Phật—ngài giờ đây không còn là vị Bồ Tát nữa—là như sau.
 

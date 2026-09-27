@@ -42,7 +42,7 @@ Thế Tôn dạy: "Chừng nào các tỳ-kheo còn thường xuyên tụ họp 
 
 "Bảy pháp ngăn ngừa suy vong khác: chừng nào các tỳ-kheo còn phát triển tưởng vô thường, tưởng vô ngã, tưởng bất tịnh nơi thân, tưởng nguy hiểm, tưởng từ bỏ tham ái, tưởng ly tham, và tưởng diệt tham — thì chừng ấy họ sẽ thịnh vượng chứ không suy vong."
 
-[D. 16](/link?q=dn-16){target=_black}; [A. 7:20](/link?q=AN-7.20){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [A. 7:20](/l?q=AN-7.20){target=_black}
 
 "Sáu pháp ngăn ngừa suy vong: chừng nào các tỳ-kheo còn duy trì các thân nghiệp, khẩu nghiệp và ý nghiệp từ ái đối với các bạn đồng phạm hạnh, cả trước mặt lẫn sau lưng; chừng nào họ còn san sẻ bình đẳng, không phân biệt, với các bạn đồng phạm hạnh có giới đức về những lợi dưỡng hợp pháp có được một cách đúng pháp, cho đến cả những vật nhận được trong bình bát; chừng nào giữa các bạn đồng phạm hạnh, họ sống với giới hạnh không sứt mẻ, không rách nát, không tì vết, không đốm bẩn, đem lại tự do giải thoát, được người trí tán thán, không bị hiểu sai và dẫn đến định tâm, cả trước mặt lẫn sau lưng; chừng nào các tỳ-kheo sống với chánh kiến của bậc Thánh dẫn xuất (khỏi luân hồi), đưa đến sự tận diệt hoàn toàn khổ đau cho người thực hành theo — thì chừng ấy họ sẽ thịnh vượng chứ không suy vong.
 
@@ -60,7 +60,7 @@ Khi Thế Tôn đã ở Ambalaṭṭhikā bao lâu tùy thích, Ngài bảo đ�
 
 "Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Nālandā. Tại đó, Ngài ngụ ở vườn xoài Pāvārika tại Nālandā.
 
-[D. 16](/link?q=dn-16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}
 
 Bấy giờ, tôn giả Xá-lợi-phất (Sāriputta) đến gặp Thế Tôn và bạch rằng: "Bạch Thế Tôn, con tin chắc điều này: chưa từng có, sẽ không có và hiện không có vị sa-môn hay bà-la-môn nào giác ngộ siêu việt hơn Thế Tôn."
 
@@ -80,7 +80,7 @@ Bấy giờ, tôn giả Xá-lợi-phất (Sāriputta) đến gặp Thế Tôn v�
 
 "Bạch Thế Tôn, con không có tha tâm thông để biết được tâm của các bậc trọn lành và chánh đẳng giác trong quá khứ, tương lai và hiện tại. Tuy nhiên, con thấu triệt được quy luật nhất quán của Chánh pháp. Ví như một vị vua có một thành trì biên ải với hào sâu, tường lũy kiên cố và chỉ có một cổng duy nhất; ngài đặt tại đó một người gác cổng thông minh, tài trí và sắc sảo, người này chỉ cho phép người mình biết đi vào và chặn người lạ mặt lại. Người gác cổng đi quanh con đường bao quanh thành, không thấy khe hở nào trên tường thành hay lỗ hổng nào dù chỉ đủ cho một con mèo chui lọt, anh ta ắt kết luận rằng mọi sinh vật có kích thước nhất định đều phải ra vào qua cánh cổng đó. Cũng như thế, bạch Thế Tôn, con thấu triệt quy luật của Chánh pháp: Tất cả chư Thế Tôn trong quá khứ, trọn lành và chánh đẳng giác, đều khéo an trú tâm trên bốn niệm xứ; sau khi đoạn trừ năm triền cái—những ô nhiễm của tâm làm suy yếu trí tuệ—các Ngài đã chứng ngộ quả vị chánh đẳng chánh giác tối thượng bằng cách tu tập bảy giác chi. Tất cả chư Thế Tôn trong tương lai, trọn lành và chánh đẳng giác, cũng sẽ làm như vậy. Và Thế Tôn hiện tại, trọn lành và chánh đẳng giác, cũng đã làm như vậy."
 
-[D. 16](/link?q=dn-16){target=_black}; [S. 47:12](/link?q=SN-47.12){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [S. 47:12](/l?q=SN-47.12){target=_black}
 
 Và trong thời gian Thế Tôn ngụ tại Nālandā nơi vườn xoài Pāvārika, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
@@ -126,7 +126,7 @@ Rồi Thế Tôn rời chỗ ngồi và bước đi. Nhân dịp đó, Tôn-đà
 > Kẻ miệt mài kết bè\
 > Bậc trí đã sang bờ
 
-[D. 16](/link?q=dn-16){target=_black}; [Ud. 8:6](/link?q=ud-8.6){target=_black}; [*Vin. Mv. 6:28](/link?q=vin.mv-6.15){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [Ud. 8:6](/l?q=ud-8.6){target=_black}; [*Vin. Mv. 6:28](/l?q=vin.mv-6.15){target=_black}
 
 Rồi Thế Tôn bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đi đến Koṭigāma."
 
@@ -134,7 +134,7 @@ Rồi Thế Tôn bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đi 
 
 Và trong thời gian Thế Tôn ngụ tại Koṭigāma, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-[D. 16](/link?q=dn-16){target=_black}; [*Vin. Mv. 6:29](/link?q=vin.mv-6.16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [*Vin. Mv. 6:29](/l?q=vin.mv-6.16){target=_black}
 
 Khi Thế Tôn đã ở Koṭigāma bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Nādikā."
 
@@ -150,13 +150,13 @@ Bấy giờ, đại đức Ānanda đến bên Thế Tôn và bạch rằng: "B�
 
 Và trong thời gian Thế Tôn ngụ tại Nhà Gạch ở Nādikā, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-[D. 16](/link?q=dn-16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}
 
 Khi Thế Tôn đã ở Nādikā bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Tỳ-xá-ly (Vesālī)."
 
 "Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng số lượng lớn tỳ-kheo khởi hành đi Tỳ-xá-ly. Tại đó, Ngài ngụ trong vườn của Ambapālī ở Tỳ-xá-ly. Ở đó, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, một tỳ-kheo nên sống chánh niệm và tỉnh giác; đây là lời giáo giới của Ta dành cho các ông. Và thế nào là một tỳ-kheo sống chánh niệm? Ở đây, tỳ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Vị ấy sống quán thọ trên các thọ, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Vị ấy sống quán tâm trên tâm, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Vị ấy sống quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Và thế nào là một tỳ-kheo tỉnh giác? Ở đây, tỳ-kheo tỉnh giác khi đi tới đi lui, khi nhìn thẳng nhìn quanh, khi co tay duỗi tay, khi mang y tăng-già-lê, bình bát và các y khác, khi ăn, uống, nhai, nếm, khi đại tiện tiểu tiện, khi đi, đứng, ngồi, nằm, thức, nói và im lặng. Tỳ-kheo nên sống chánh niệm và tỉnh giác: đây là lời giáo giới của Ta dành cho các ông."
 
-[D. 16](/link?q=dn-16){target=_black}; cf. [D. 22](/link?q=dn-22){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; cf. [D. 22](/l?q=dn-22){target=_black}
 
 Bấy giờ, kỹ nữ Ambapālī nghe tin Thế Tôn đã đến Tỳ-xá-ly và đang ngụ trong vườn xoài (*amba*) của nàng. Nàng bèn chuẩn bị nhiều cỗ xe lộng lẫy, bước lên một chiếc rồi cùng đoàn xe rời Tỳ-xá-ly hướng về vườn xoài của mình, đi xa đến mức xe cộ còn đi được. Nàng xuống xe, đi bộ đến chỗ Thế Tôn ngự. Nàng đảnh lễ Ngài rồi ngồi xuống một bên. Khi nàng đã yên vị, Thế Tôn dùng các pháp thoại giảng giải, khích lệ, sách tấn và làm cho nàng hoan hỷ. Rồi nàng bạch với Ngài: "Bạch Thế Tôn, kính xin Thế Tôn cùng Tăng đoàn tỳ-kheo nhận lời thọ trai ngày mai tại nhà con." Thế Tôn im lặng nhận lời. Thấy Ngài đã hứa khả, nàng đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu bên phải rồi ra về.
 
@@ -188,7 +188,7 @@ Khi Thế Tôn đã dùng bữa xong và tay rời khỏi bình bát, Ambapālī
 
 Và trong thời gian Thế Tôn ngụ tại Tỳ-xá-ly trong vườn của Ambapālī, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-[D. 16](/link?q=dn-16){target=_black}; [*Vin. Mv. 6:30](/link?q=vin.mv-6.17){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [*Vin. Mv. 6:30](/l?q=vin.mv-6.17){target=_black}
 
 Khi Thế Tôn đã ở trong vườn của Ambapālī bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Beluvagāmaka."
 
@@ -202,7 +202,7 @@ Thế Tôn bình phục sau cơn bạo bệnh. Ít lâu sau, Ngài rời khỏi 
 
 "Này Ānanda, Tăng đoàn còn mong đợi gì ở Ta nữa? Giáo pháp Ta giảng dạy không hề phân biệt bản bí truyền hay công khai; không hề có chuyện 'nắm tay giấu nghề của ông thầy' đối với những điều tốt lành nơi đây. Chắc chắn chỉ có ai nghĩ rằng: 'Ta sẽ lãnh đạo Tăng đoàn' hay 'Tăng đoàn phụ thuộc vào ta' thì người ấy mới để lại lời trăn trối cho Tăng đoàn. Bậc Toàn Thiện không hề nghĩ như thế. Vậy làm sao Ngài có thể để lại lời trăn trối về Tăng đoàn? Nay Ta đã già rồi, này Ānanda, tuổi đã tám mươi; như một cỗ xe cũ kỹ phải nhờ chắp vá tạm bợ mới chạy tiếp được, thân xác của bậc Toàn Thiện dường như cũng phải nhờ chắp vá tạm bợ mới duy trì được như thế. Thân của bậc Toàn Thiện chỉ cảm thấy an ổn khi không chú tâm đến mọi tướng trạng và chấm dứt một số thọ cảm nhất định, chứng đạt và an trú trong vô tướng tâm giải thoát. Do đó, này Ānanda, mỗi người trong các ông hãy tự biến mình thành một hòn đảo, [4](/the-life-of-the-buddha/notes/15#4){.note} lấy chính mình làm nơi nương tựa chứ không ai khác; hãy lấy Chánh pháp làm hòn đảo, lấy Chánh pháp làm nơi nương tựa chứ không nương tựa vào điều gì khác. Một tỳ-kheo làm điều đó bằng cách nào? Ở đây, tỳ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác và chánh niệm, nhiếp phục tham ưu ở đời. Vị ấy sống quán thọ trên các thọ... quán tâm trên tâm... quán pháp trên các pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Dù là bây giờ hay sau khi Ta đã ra đi, bất cứ ai tự biến mình thành hòn đảo, lấy chính mình làm nơi nương tựa chứ không ai khác, lấy Chánh pháp làm hòn đảo, lấy Chánh pháp làm nơi nương tựa chứ không điều gì khác—những vị ấy sẽ là những người đứng đầu trong số các tỳ-kheo của Ta—nghĩa là trong số những ai có chí nguyện tu học."
 
-[D. 16](/link?q=dn-16){target=_black}; [S. 47:9](/link?q=SN-47.9){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [S. 47:9](/l?q=SN-47.9){target=_black}
 
 NGƯỜI KỂ HAI. Dù không được nêu rõ trong Tam tạng kinh điển, nhưng dường như Đức Phật đã đến thăm Xá-vệ (Sāvatthī) vào thời điểm này, và chính trong thời gian ngụ tại đó, tin tức về sự viên tịch của hai vị đại đệ tử đã truyền đến Ngài.
 
@@ -218,11 +218,11 @@ GIỌNG ĐỌC THỨ NHẤT. Một thời Thế Tôn đang ngụ tại Xá-vệ,
 
 "Này Ānanda, chẳng phải Ta đã từng nói với ông rằng sẽ có sự ly tán, phân ly và cách biệt đối với tất cả những gì ta yêu quý và trân trọng hay sao? Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu sự hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra. Ví như một cành lớn của một cây đại thụ vững chãi, sum sê bị gãy đổ; cũng vậy, Xá-lợi-phất đã nhập Đại Bát-niết-bàn giữa một đại chúng vững chãi và kiên cố. Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu sự hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra. Do đó, này Ānanda, mỗi người trong các ông hãy tự biến mình thành hòn đảo, lấy chính mình làm nơi nương tựa chứ không ai khác; hãy lấy Chánh pháp làm hòn đảo, lấy Chánh pháp làm nơi nương tựa chứ không nương tựa vào điều gì khác."
 
-[S. 47:13](/link?q=SN-47.13){target=_black}
+[S. 47:13](/l?q=SN-47.13){target=_black}
 
 Một thời Thế Tôn cùng đại chúng tỳ-kheo ngụ tại xứ Bạt-kỳ ở Ukkācelā, bên bờ sông Hằng. Sự việc diễn ra không lâu sau khi Xá-lợi-phất và Mục-kiền-liên (Moggallāna) nhập Đại Bát-niết-bàn. Vào dịp ấy, Thế Tôn đang ngồi giữa trời thanh tịnh, xung quanh có Tăng đoàn tỳ-kheo vây quanh. Sau khi nhìn quanh Tăng chúng đang im lặng, Ngài bảo các tỳ-kheo: "Giờ đây đối với Ta, hội chúng dường như trống vắng. Hội chúng này quả thật trống vắng đối với Ta khi Xá-lợi-phất và Mục-kiền-liên đã nhập Đại Bát-niết-bàn. Không còn nơi nào để Ta nhìn vào và nói rằng: 'Xá-lợi-phất và Mục-kiền-liên đang ở đó.' Chư Thế Tôn trong quá khứ, trọn lành và chánh đẳng giác, mỗi vị đều có một đôi đại đệ tử tương đương như Xá-lợi-phất và Mục-kiền-liên, và chư Phật trong tương lai cũng sẽ như thế. Thật kỳ diệu, thật phi thường nơi các đệ tử, khi họ thực hành theo lời giáo giới của bậc Đạo Sư và làm theo lời chỉ dạy của Ngài, và họ được Tăng chúng quý mến, thương kính, tôn trọng và đảnh lễ dường bao! Thật kỳ diệu, thật phi thường nơi bậc Toàn Thiện, khi một đôi đệ tử ưu tú như thế đã nhập Đại Bát-niết-bàn, mà Ngài không hề sầu não hay than khóc! Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể nào xảy ra."
 
-[S. 47:14](/link?q=SN-47.14){target=_black}
+[S. 47:14](/l?q=SN-47.14){target=_black}
 
 Một buổi sáng nọ, Thế Tôn đắp y, cầm bát và thượng y đi vào thành Tỳ-xá-ly khất thực. Sau khi đi khất thực ở Tỳ-xá-ly và dùng bữa xong, Ngài trở về và bảo đại đức Ānanda: "Này Ānanda, hãy mang theo tọa cụ, chúng ta hãy đến đền Cāpāla để nghỉ trưa."
 
@@ -249,7 +249,7 @@ Tôn giả đến bên Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một
 
 "Này Ānanda, có tám nhân, có tám duyên làm xuất hiện các trận đại địa chấn. Tám nhân duyên là gì? Quả đại địa này nằm trên nước, nước nằm trên khí, và khí nằm trên không gian. Có những lúc đại phong nổi lên (những nguồn lực lớn chuyển động); gió lớn thổi (các nguồn lực chuyển động) làm nước xao động; nước xao động làm đất rung chuyển. Đây là nguyên nhân thứ nhất. Lại nữa, một sa-môn hay bà-la-môn có thần thông đã làm chủ tâm ý, hoặc chư thiên đầy oai lực và quyền năng. Một người đã tu tập tưởng về đất một cách hạn chế và tưởng về nước vô lượng có thể làm rung chuyển quả đất này, khiến nó lắc lư, rung động và chấn động. Đây là nguyên nhân thứ hai. Lại nữa, khi một vị Bồ-tát chánh niệm tỉnh giác từ bỏ cõi trời Đâu-suất giáng trần vào bụng mẹ, quả đất này liền rung rinh, lay động, chấn động và run rẩy. Đây là nguyên nhân thứ ba. Lại nữa, khi vị Bồ-tát chánh niệm tỉnh giác đản sinh từ bụng mẹ, quả đất này rung chuyển... Đây là nguyên nhân thứ tư. Lại nữa, khi bậc Toàn Thiện chứng ngộ quả vị vô thượng chánh đẳng chánh giác, quả đất này rung chuyển... Đây là nguyên nhân thứ năm. Lại nữa, khi bậc Toàn Thiện chuyển Pháp Luân vô thượng, quả đất này rung chuyển... Đây là nguyên nhân thứ sáu. Lại nữa, khi bậc Toàn Thiện chánh niệm tỉnh giác từ bỏ ý muốn duy trì thọ mạng, quả đất này rung chuyển... Đây là nguyên nhân thứ bảy. Lại nữa, khi bậc Toàn Thiện nhập Đại Bát-niết-bàn với Niết-bàn giới không còn dư tàn của chấp thủ, quả đất này rung chuyển... Đây là nguyên nhân thứ tám." [6](/the-life-of-the-buddha/notes/15#6){.note}
 
-[D. 16](/link?q=dn-16){target=_black}; [A. 8:70](/link?q=AN-8.70){target=_black}; [Ud. 6:1](/link?q=ud-6.1){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [A. 8:70](/l?q=AN-8.70){target=_black}; [Ud. 6:1](/l?q=ud-6.1){target=_black}
 
 "Này Ānanda, xưa kia khi Ta mới thành đạo, lúc Ta đang ở Uruvelā bên bờ sông Nerañjarā dưới gốc cây bàng của người chăn dê, Ác ma Ba-tuần đã đến gặp Ta và nói: 'Bạch Thế Tôn, xin Thế Tôn hãy nhập Đại Bát-niết-bàn ngay bây giờ.'" Rồi Thế Tôn kể lại tất cả những gì đã diễn ra giữa Ngài và Ác ma. Tiếp đó Ngài phán: "Và nay, Ānanda, chính ngày hôm nay tại đền Cāpāla này, Thế Tôn đã chánh niệm tỉnh giác từ bỏ thọ mạng."
 
@@ -303,7 +303,7 @@ Sáng hôm sau, Thế Tôn đắp y, mang bát và thượng y đi vào thành T
 
 "Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Rồi Thế Tôn cùng đại chúng tỳ-kheo khởi hành đi Bhaṇḍagāma. Đến nơi, Ngài ngụ tại Bhaṇḍagāma. Ở đó, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, chính vì không hiểu biết, không thấu triệt bốn pháp mà cả Ta và các ông đã phải trôi lăn, lặn ngụp lâu ngày trong vòng luân hồi này. Bốn pháp ấy là gì? Đó là Thánh giới, Thánh định, Thánh tuệ và Thánh giải thoát. Nhưng khi bốn pháp này đã được chứng ngộ và thấu triệt, thì tham ái về sinh hữu bị cắt đứt, tham ái dẫn đến tái sinh bị triệt tiêu, và không còn tái sinh nữa."
 
-[D. 16](/link?q=dn-16){target=_black}; cf. [A. 4:1](/link?q=AN-4.1){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; cf. [A. 4:1](/l?q=AN-4.1){target=_black}
 
 Và trong thời gian Thế Tôn ngụ tại Bhaṇḍagāma, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
@@ -321,11 +321,11 @@ Và tương tự, Ngài ghé thăm Ambagāma và Jambugāma. Khi đã ở Jambug
 
 "Đối với lời nói của tỳ-kheo ấy, các ông không nên vội tán thành cũng không nên bác bỏ. Không tán thành cũng không bác bỏ, các từ ngữ và cú pháp ấy phải được học hỏi kỹ càng rồi đối chiếu với Luật hoặc kiểm chứng với Kinh. Nếu thấy chúng không khớp với Luật hoặc không được Kinh xác nhận, thì phải đi đến kết luận: 'Chắc chắn đây không phải là lời của Thế Tôn, điều này đã bị vị tỳ-kheo ấy, hoặc Tăng đoàn ấy, hoặc các vị trưởng lão ấy, hoặc vị trưởng lão ấy hiểu sai,' và theo đó các ông phải loại bỏ nó. Trái lại, nếu thấy chúng ăn khớp với Luật và được xác nhận trong Kinh, thì kết luận phải rút ra là: 'Chắc chắn đây chính là lời của Thế Tôn. Điều này đã được vị tỳ-kheo ấy, hoặc Tăng chúng ấy, hoặc các vị trưởng lão ấy, hoặc vị trưởng lão ấy ghi nhận đúng đắn.' Các ông hãy ghi nhớ bốn đại giáo pháp này."
 
-[D. 16](/link?q=dn-16){target=_black}; [A. 4:180](/link?q=AN-4.180){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [A. 4:180](/l?q=AN-4.180){target=_black}
 
 Và trong thời gian Thế Tôn ngụ tại Bhoganagara ở đền Ānanda, Ngài thường giảng bài pháp này cho các tỳ-kheo: "Đây là giới, đây là định, đây là tuệ; định được giới hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tuệ được định hỗ trợ sẽ đem lại lợi ích lớn và quả báu lớn; tâm được tuệ hỗ trợ sẽ hoàn toàn giải thoát khỏi các lậu hoặc: lậu hoặc dục ái, lậu hoặc hữu ái, lậu hoặc kiến chấp và lậu hoặc vô minh."
 
-[D. 16](/link?q=dn-16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}
 
 Rồi khi Thế Tôn đã ở Bhoganagara bao lâu tùy thích, Ngài bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy đến Ba-bà (Pāvā)."
 
@@ -355,7 +355,7 @@ Lần thứ hai Thế Tôn yêu cầu và nhận được câu trả lời tươ
 
 "Bạch Thế Tôn, xin vâng," đại đức Ānanda thưa. Tôn giả cầm bát đi đến con suối. Bấy giờ, con suối vốn vừa bị bánh xe khuấy tung làm đục ngầu, bùn cặn và nước chảy lờ đờ, bỗng chốc trở nên trong veo, thanh khiết và sạch sẽ ngay khi đại đức Ānanda vừa bước tới. Tôn giả vô cùng kinh ngạc. Tôn giả múc nước vào bát đem về dâng Thế Tôn và kể lại sự việc, rồi thưa: "Bạch Thế Tôn, xin Thế Tôn hãy uống nước, xin bậc Thiện Thệ hãy uống nước." Và Thế Tôn đã uống bát nước ấy.
 
-[D. 16](/link?q=dn-16){target=_black}; [Ud. 8:5](/link?q=ud-8.5){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [Ud. 8:5](/l?q=ud-8.5){target=_black}
 
 Lúc bấy giờ, một người thuộc tộc Mạt-la (Malla) tên là Pukkusa, đệ tử của A-la-la Ca-lam (Āḷāra Kālāma), đang đi trên con đường từ Câu-thi-na đến Ba-bà. Thấy Thế Tôn đang ngồi dưới một gốc cây, ông bước lại gần. Sau khi đảnh lễ Ngài, ông ngồi xuống một bên và thưa: "Thật kỳ diệu thay, bạch Thế Tôn, thật phi thường thay sự an trú tĩnh lặng mà những người xuất gia từ bỏ gia đình đạt được! Có lần thầy A-la-la Ca-lam đang trên một chuyến hành trình, ngài rời đường lớn và ngồi xuống dưới một gốc cây gần đó để nghỉ trưa. Bấy giờ có tới năm trăm cỗ xe bò đi qua ngay sát cạnh ngài. Sau đó, một người đàn ông đi sau đoàn xe ấy đến gặp A-la-la Ca-lam và hỏi: 'Thưa tôn giả, ngài có thấy năm trăm cỗ xe bò vừa đi qua không?' — 'Này bạn, tôi không thấy.' — 'Nhưng bạch tôn giả, ngài có nghe thấy tiếng ồn ào không?' — 'Này bạn, tôi không nghe.' — 'Vậy thưa tôn giả, ngài đang ngủ say chăng?' — 'Này bạn, tôi không ngủ.' — 'Vậy tôn giả vẫn tỉnh thức chứ?' — 'Này bạn, tôi vẫn tỉnh thức.' — 'Thế thì, bạch tôn giả, ngài vẫn tỉnh thức và không ngủ, vậy mà ngài không hề thấy năm trăm cỗ xe bò đi qua sát bên, cũng chẳng nghe thấy tiếng động gì, dẫu cho bùn đất văng bắn đầy cả thượng y của ngài sao?' — 'Đúng vậy, này bạn.' Bấy giờ, bạch Thế Tôn, người đàn ông ấy nghĩ thầm: 'Thật kỳ diệu thay, thật phi thường thay sự an trú tĩnh lặng mà những bậc xuất gia từ bỏ gia đình đạt được; khi họ vẫn tỉnh táo và thức tỉnh, mà họ chẳng thấy năm trăm cỗ xe đi qua cũng chẳng nghe thấy tiếng động!' Và sau khi bày tỏ niềm tin sâu sắc nơi A-la-la Ca-lam, người ấy tiếp tục lên đường."
 
@@ -385,7 +385,7 @@ Rồi Thế Tôn cùng đại chúng tỳ-kheo tiến đến sông Kakutthā, Ng
 
 "Bạch Thế Tôn, xin vâng," đại đức Thuần-đà-ca thưa, và làm theo lời dạy. Rồi Thế Tôn nằm nghiêng mình bên hữu theo tư thế sư tử ngọa, chân này gác lên chân kia, chánh niệm tỉnh giác, và định sẵn thời khắc thức dậy. Còn đại đức Thuần-đà-ca thì ngồi xuống túc trực phía trước Thế Tôn.
 
-[D. 16](/link?q=dn-16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}
 
 Thế Tôn bảo đại đức Ānanda: "Này Ānanda, có thể có ai đó sẽ khiến người thợ vàng Thuần-đà sinh lòng hối hận day dứt rằng: 'Thật là tổn thất, thật không may mắn cho anh, này Thuần-đà, khi bậc Toàn Thiện nhập Đại Bát-niết-bàn sau khi thọ nhận bữa ăn cúng dường cuối cùng từ anh.' Bất kỳ sự hối hận nào như thế của anh ta phải được giải trừ như sau: 'Thật là phước báu, thật là đại phúc đức cho anh, này Thuần-đà, khi bậc Toàn Thiện nhập Đại Bát-niết-bàn sau khi thọ nhận bữa ăn cúng dường cuối cùng từ anh. Này bạn Thuần-đà, chính miệng tôi đã nghe và ghi nhận điều này từ Thế Tôn: "Hai bữa cơm cúng dường này có quả báo đồng đẳng, sự chín muồi quả báo đồng đẳng, và quả báo cùng sự chín muồi của chúng lớn hơn vượt bậc so với bất kỳ bữa ăn cúng dường nào khác. Hai bữa ấy là gì? Đó là bữa cơm cúng dường mà sau khi thọ dụng, bậc Toàn Thiện chứng ngộ vô thượng chánh đẳng chánh giác; và bữa cơm cúng dường mà sau khi thọ dụng, bậc Toàn Thiện nhập Đại Bát-niết-bàn với Niết-bàn giới không còn dư tàn chấp thủ. Người thợ vàng Thuần-đà đã tích lũy một nghiệp lành đưa đến trường thọ, sắc tốt, an lạc, danh vọng và cõi trời."' Bất kỳ sự hối tiếc nào của anh ta phải được giải trừ như thế."
 
@@ -397,7 +397,7 @@ Hiểu rõ ý nghĩa của điều này, Thế Tôn liền thốt lên lời c�
 > Diệt sạch tham sân si\
 > Chứng đạt cõi Niết-bàn
 
-[D. 16](/link?q=dn-16){target=_black}; [Ud. 8:5](/link?q=ud-8.5){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [Ud. 8:5](/l?q=ud-8.5){target=_black}
 
 Rồi Thế Tôn bảo đại đức Ānanda: "Này Ānanda, chúng ta hãy sang bờ bên kia của sông Hiraññavatī, đến rừng cây sa-la của người Mạt-la ở lối rẽ vào Câu-thi-na."
 
@@ -461,17 +461,17 @@ Thế Tôn bảo một tỳ-kheo: "Này tỳ-kheo, hãy đi gặp Ānanda và nh
 
 Rồi Thế Tôn ngỏ lời cùng các tỳ-kheo: "Này các tỳ-kheo, chư vị Chánh Đẳng Giác trong quá khứ cũng từng có những thị giả đối với các Ngài như Ānanda đối với Ta. Và chư vị Chánh Đẳng Giác trong tương lai cũng sẽ có những thị giả đối với các Ngài như Ānanda đối với Ta. Này các tỳ-kheo, Ānanda là người thông tuệ. Sư ấy biết: 'Đây là thời điểm thích hợp để các tỳ-kheo đến chiêm bái bậc Toàn Thiện; đây là thời điểm thích hợp để các tỳ-kheo-ni đến chiêm bái bậc Toàn Thiện; đây là thời điểm thích hợp cho các nam cư sĩ... cho các nữ cư sĩ đến chiêm bái bậc Toàn Thiện; đây là thời điểm thích hợp cho các vị vua, đại thần, ngoại đạo và đệ tử ngoại đạo đến chiêm bái bậc Toàn Thiện.'"
 
-[D. 16](/link?q=dn-16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}
 
 "Có bốn đức tính kỳ diệu và phi thường nơi một vị Chuyển Luân Thánh Vương trị vì bằng Chánh pháp. Bốn đức tính là gì? Nếu một hội chúng gồm các sát-đế-lỵ, bà-la-môn, gia chủ hay sa-môn đến yết kiến vua, hội chúng ấy đều hoan hỷ khi được thấy ngài. Nếu vua cất lời nói, hội chúng ấy hoan hỷ trước lời nói của ngài. Nhưng khi ngài im lặng trở lại, hội chúng vẫn cảm thấy chưa thỏa dạ. Cũng vậy, có bốn đức tính kỳ diệu và phi thường nơi Ānanda. Bốn đức tính là gì? Nếu một hội chúng tỳ-kheo, tỳ-kheo-ni, nam cư sĩ hay nữ cư sĩ đến gặp Ānanda, hội chúng ấy đều hoan hỷ khi được thấy sư ấy. Nếu sư ấy thuyết giảng, hội chúng ấy hoan hỷ trước lời giảng của sư ấy. Nhưng khi sư ấy im lặng trở lại, hội chúng vẫn cảm thấy chưa thỏa dạ."
 
-[D. 16](/link?q=dn-16){target=_black}; [A. 4:129](/link?q=AN-4.129){target=_black}-30
+[D. 16](/l?q=dn-16){target=_black}; [A. 4:129](/l?q=AN-4.129){target=_black}-30
 
 Khi Ngài dạy xong, đại đức Ānanda bạch rằng: "Bạch Thế Tôn, xin Thế Tôn chớ nhập Đại Bát-niết-bàn ở cái thị trấn vách đất nhỏ bé, hẻo lánh nơi rừng rú, một nhánh thị trấn xa xôi này. Còn có những đại đô thị khác như Chiêm-bà (Campā), Vương Xá (Rājagaha), Xá-vệ (Sāvatthī), Sa-kỳ (Sāketa), Kiều-thưởng-di (Kosambī) và Ba-la-nại (Benares). Xin Thế Tôn hãy nhập Đại Bát-niết-bàn ở những nơi ấy, nơi có nhiều bậc sát-đế-lỵ, bà-la-môn và gia chủ hiển hách có niềm tin nơi bậc Toàn Thiện. Họ sẽ lo việc cúng dường nhục thân của bậc Toàn Thiện." [9](/the-life-of-the-buddha/notes/15#9){.note}
 
 "Chớ nói vậy, Ānanda, chớ nói rằng: 'Một thị trấn vách đất nhỏ bé, hẻo lánh nơi rừng rú, một nhánh thị trấn xa xôi.' Xưa kia từng có một vị vua tên là Đại Thiện Kiến. Ngài là một vị Chuyển Luân Thánh Vương chân chánh trị vì theo Chánh pháp, vị chinh phục bốn phương, người đã bình định xứ sở và sở hữu bảy món báu. Kinh đô của ngài là Câu-thi-na, bấy giờ được gọi là Kusavatī, dài mười hai do-tuần từ đông sang tây và rộng bảy do-tuần từ bắc xuống nam. Kinh thành Kusavatī xưa kia hùng mạnh, thịnh vượng, đông đúc dân cư và tràn trề của cải chẳng khác nào thành phố Ālakamandā của chư thiên. Kinh thành Kusavatī không bao giờ ngớt mười thứ âm thanh ngày đêm, đó là tiếng voi gầm, ngựa hí, tiếng xe chạy, tiếng trống cái, trống con, tiếng đàn tỳ-bà, tiếng ca hát, tiếng chũm chọe, tiếng cồng và tiếng reo hò: 'Hãy ăn đi! Uống đi! Nếm đi!' là thứ âm thanh thứ mười."
 
-[D. 16](/link?q=dn-16){target=_black}, 17
+[D. 16](/l?q=dn-16){target=_black}, 17
 
 "Này Ānanda, bây giờ hãy vào thành Câu-thi-na và báo tin cho dân Mạt-la ở Câu-thi-na: 'Này các vị Vāseṭṭha, đêm nay, vào canh chót, sự nhập Đại Bát-niết-bàn của bậc Toàn Thiện sẽ diễn ra. Hãy đến đi, này các vị Vāseṭṭha, hãy mau đến, kẻo sau này các vị phải hối hận mà nghĩ rằng: "Sự kiện bậc Toàn Thiện nhập Đại Bát-niết-bàn diễn ra ngay trong địa phận thành phố của chúng ta, thế mà chúng ta đã không kịp đến chiêm bái bậc Toàn Thiện trong giờ phút cuối cùng."'"
 
@@ -530,7 +530,7 @@ Rồi Thế Tôn bảo đại đức Ānanda: "Này Ānanda, các ông có thể
 
 "Bất cứ điều gì tỳ-kheo Xa-nặc muốn, bất cứ điều gì sư ấy nói, chư tỳ-kheo chớ nên nói chuyện, chớ nên khuyên bảo hay chỉ dạy cho sư ấy."
 
-[D. 16](/link?q=dn-16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}
 
 Rồi Thế Tôn bảo các tỳ-kheo: "Này các tỳ-kheo, có thể có vị tỳ-kheo nào đó còn có điều hoài nghi hay thắc mắc về Phật, Pháp, Tăng, về con đường hay phương pháp tiến tu. Này các tỳ-kheo, hãy hỏi đi, kẻo sau này các ông phải hối tiếc mà nói: 'Bậc Đạo Sư đã từng đối diện ngay trước mắt chúng ta, thế mà chúng ta không thể mở lời hỏi ngay trước mặt Thế Tôn.'"
 
@@ -542,7 +542,7 @@ Nghe dạy thế, họ vẫn tiếp tục im lặng. Bấy giờ đại đức �
 
 Rồi Thế Tôn nhắn nhủ các tỳ-kheo: "Thật vậy, này các tỳ-kheo, nay Ta tuyên bố với các ông: Các pháp hữu vi đều có bản chất hoại diệt. Hãy hoàn thành mục tiêu bằng sự tinh cần bất phóng dật." [13](/the-life-of-the-buddha/notes/15#13){.note}
 
-[D. 16](/link?q=dn-16){target=_black}; [A. 4:76](/link?q=AN-4.76){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [A. 4:76](/l?q=AN-4.76){target=_black}
 
 Đó là lời di ngôn cuối cùng của bậc Toàn Thiện.
 
@@ -565,7 +565,7 @@ Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, Phạm thiên Sahampati th�
 > Giác ngộ đầy thần thông\
 > Đã nhập Bát-niết-bàn
 
-[D. 16](/link?q=dn-16){target=_black}; [S. 6:15](/link?q=SN-6.15){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [S. 6:15](/l?q=SN-6.15){target=_black}
 
 Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, Đế Thích (Sakka), Thiên chủ chư thiên, thốt lên bài kệ này:
 
@@ -574,7 +574,7 @@ Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, Đế Thích (Sakka), Thiê
 > Sinh rồi liền hoại diệt\
 > Vắng lặng là an vui
 
-[D. 16](/link?q=dn-16){target=_black}; [S. 6:15](/link?q=SN-6.15){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [S. 6:15](/l?q=SN-6.15){target=_black}
 
 Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, đại đức A-nậu-lâu-đà thốt lên bài kệ này:
 
@@ -593,7 +593,7 @@ Khi Thế Tôn vừa nhập Đại Bát-niết-bàn, đại đức Ānanda thố
 > Bậc Giác Ngộ tối thượng\
 > Đã nhập Bát-niết-bàn
 
-[D. 16](/link?q=dn-16){target=_black}; [S. 6:15](/link?q=SN-6.15){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [S. 6:15](/l?q=SN-6.15){target=_black}
 
 Và khi Thế Tôn nhập Đại Bát-niết-bàn, một số tỳ-kheo chưa dứt tham ái giơ hai tay than khóc, ngã quỵ xuống đất lăn lộn qua lại: "Sao Thế Tôn nhập Đại Bát-niết-bàn quá vội vàng! Sao bậc Thiện Thệ nhập Đại Bát-niết-bàn quá mau chóng! Sao Con Mắt của thế gian lại biến mất khỏi cuộc đời sớm dường này!" Nhưng những vị đã ly tham, chánh niệm và tỉnh giác thì nói: "Các pháp hữu vi là vô thường. Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra."
 
@@ -637,7 +637,7 @@ Rồi dân Mạt-la ở Câu-thi-na hỏi đại đức Ānanda: "Bạch đại 
 
 Thế rồi, dân Mạt-la ở Câu-thi-na ra lệnh cho gia nhân thu gom toàn bộ số bông vải đã đập kỹ của người Mạt-la. Họ quấn nhục thân Thế Tôn bằng vải mới; sau đó quấn bằng bông vải đập kỹ; rồi lại quấn bằng vải mới; và sau khi đã quấn nhục thân Thế Tôn đủ năm trăm lớp đôi như vậy, họ đặt Ngài vào một cỗ quan sắt đầy dầu rồi đậy lại bằng một cỗ quan sắt khác. Đoạn họ dựng giàn hỏa thiêu bằng đủ loại danh hương rồi đặt nhục thân Thế Tôn lên giàn hỏa.
 
-[D. 16](/link?q=dn-16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}
 
 Bấy giờ, đại đức Đại Ca-diếp (Mahā-Kassapa) đang đi trên đường lớn từ Ba-bà đến Câu-thi-na cùng với một đại chúng tỳ-kheo gồm năm trăm vị. Tôn giả rời đường cái và ngồi nghỉ dưới một gốc cây. Lúc ấy có một đạo sĩ nhặt được một bông hoa mạn-đà-la ở Câu-thi-na đang đi tới trên con đường đó. Đại đức Đại Ca-diếp thấy người ấy đi lại bèn hỏi: "Này hiền giả, ông có biết Đạo Sư của chúng tôi không?"
 
@@ -649,7 +649,7 @@ Nhưng bấy giờ trong hội chúng có một người tên là Tu-bạt-đà,
 
 Đại đức Đại Ca-diếp bèn bảo các tỳ-kheo: "Thôi đi, các hiền giả, đừng sầu não, đừng than khóc nữa. Chẳng phải Thế Tôn đã từng dạy rằng sẽ có sự ly tán, phân ly và cách biệt đối với tất cả những gì ta yêu quý và trân trọng hay sao? Làm sao một vật đã sinh ra, đã hiện hữu, được cấu thành và phải chịu hoại diệt lại có thể không hoại diệt cho được? Điều đó không thể xảy ra."
 
-[D. 16](/link?q=dn-16){target=_black}; [Vin. Cv. 11:1](/link?q=vin.cv-11.1){target=_black}
+[D. 16](/l?q=dn-16){target=_black}; [Vin. Cv. 11:1](/l?q=vin.cv-11.1){target=_black}
 
 Bốn vị thủ lĩnh Mạt-la đã gội đầu sạch sẽ và mặc y phục mới định châm lửa giàn hỏa thiêu của Thế Tôn. Nhưng họ không tài nào châm lửa cháy được. Họ bèn hỏi đại đức A-nậu-lâu-đà nguyên do vì sao.
 
@@ -705,4 +705,4 @@ Người Moriya ở Pipphalivana nghe tin: "Hình như Thế Tôn đã nhập Đ
 
 Sau đó, vua A-xà-thế Vi-đề-hi-tử, vua nước Ma-kiệt-đà, đã cho xây bảo tháp tôn thờ xá-lợi Thế Tôn và tổ chức đại lễ. Tất cả các bên khác cũng làm như vậy. Như thế có tất cả tám bảo tháp tôn thờ xá-lợi xương Thế Tôn, một tháp thờ chiếc bình đong, và một tháp thờ tro than. Mọi sự đã diễn ra như thế.
 
-[D. 16](/link?q=dn-16){target=_black}
+[D. 16](/l?q=dn-16){target=_black}

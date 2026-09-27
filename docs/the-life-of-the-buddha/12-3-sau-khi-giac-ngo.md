@@ -30,7 +30,7 @@ Hiểu rõ ý nghĩa này, Thế Tôn liền thốt lên lời cảm hứng sau:
 > Đứng vững như mặt trời,\
 > Đánh tan đội quân ma.
 
-[Ud. 1:1](/link?q=ud-1.1){target=_black}-3; cf. [Vin. Mv. 1:1](/link?q=vin.mv-1.1){target=_black}
+[Ud. 1:1](/l?q=ud-1.1){target=_black}-3; cf. [Vin. Mv. 1:1](/l?q=vin.mv-1.1){target=_black}
 
 Sau bảy ngày  [2](/the-life-of-the-buddha/notes/3#2){.note}, sau khi xả thiền, Thế Tôn quán chiếu thế gian bằng Phật nhãn. Khi nhìn xem, ngài thấy chúng sinh đang bốc cháy bởi vô vàn ngọn lửa và bị thiêu rụi bởi bao cơn nóng sốt sinh ra từ tham, sân, và si. Hiểu rõ ý nghĩa này, ngài liền thốt lên lời cảm hứng sau:
 
@@ -73,7 +73,7 @@ Sau bảy ngày  [2](/the-life-of-the-buddha/notes/3#2){.note}, sau khi xả thi
 > Vì bậc thánh như ngài,\
 > Vượt qua mọi sinh hữu.
 
-[Ud. 3:10](/link?q=ud-3.10){target=_black}
+[Ud. 3:10](/l?q=ud-3.10){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Đây cũng là dịp mà sau bảy ngày, Thế Tôn xả thiền và rời khỏi cội Bồ Đề để đi đến cội cây Ajapāla Nigrodha, Cây Đa Của Người Chăn Dê. Ngài ngồi dưới cội cây Ajapāla Nigrodha suốt bảy ngày liền, thọ hưởng niềm an lạc của sự giải thoát.
 
@@ -90,7 +90,7 @@ Hiểu rõ ý nghĩa này, Thế Tôn liền thốt lên lời cảm hứng sau:
 > Nếu chẳng màng hư vinh,\
 > Chẳng kiêu hãnh trên đời.
 
-[Vin. Mv. 1:2](/link?q=vin.mv-1.2){target=_black}; cf. [Ud. 1:4](/link?q=ud-1.4){target=_black}
+[Vin. Mv. 1:2](/l?q=vin.mv-1.2){target=_black}; cf. [Ud. 1:4](/l?q=ud-1.4){target=_black}
 
 Lại có dịp mà sau bảy ngày, Thế Tôn xả thiền và rời khỏi cội cây Ajapāla Nigrodha đi đến cội cây Mucalinda.
 
@@ -114,7 +114,7 @@ Hiểu rõ ý nghĩa này, Thế Tôn liền thốt lên lời cảm hứng sau:
 > Đấy mới thực sự là,\
 > Niềm vui tột cùng nhất.
 
-[Vin. Mv. 1:3](/link?q=vin.mv-1.3){target=_black}; cf. [Ud. 2:1](/link?q=ud-2.1){target=_black}
+[Vin. Mv. 1:3](/l?q=vin.mv-1.3){target=_black}; cf. [Ud. 2:1](/l?q=ud-2.1){target=_black}
 
 Có một dịp, Thế Tôn xả thiền và rời khỏi cội cây Mucalinda đi đến cội cây Rājāyatana. Ngài ngồi dưới cội cây Rājāyatana suốt bảy ngày liền, thọ hưởng niềm an lạc của sự giải thoát.
 
@@ -128,7 +128,7 @@ Thế Tôn nhận bánh gạo và mật ong bằng một chiếc bát pha lê m�
 
 Vì họ là những đệ tử đầu tiên trên thế gian, nên họ chỉ thọ nhận hai ngôi quy y.
 
-[Vin. Mv. 1:4](/link?q=vin.mv-1.4){target=_black}
+[Vin. Mv. 1:4](/l?q=vin.mv-1.4){target=_black}
 
 Rồi có dịp sau bảy ngày, Thế Tôn xả thiền và rời khỏi cội cây Rājāyatana đi đến cội cây Ajapāla Nigrodha, Cây Đa Của Người Chăn Dê.
 
@@ -136,13 +136,13 @@ GIỌNG ĐỌC THỨ NHẤT. Lúc bấy giờ, khi Thế Tôn đang ngồi tĩnh
 
 Khi ấy, Phạm thiên Sahampati thấu hiểu tâm niệm của Thế Tôn, và nhanh như một người lực lưỡng duỗi cánh tay đang gập hay gập cánh tay đang duỗi, vị ấy biến mất khỏi Phạm thiên giới và xuất hiện ngay trước mặt ngài. Vị ấy vắt áo choàng trên một bờ vai, chắp tay hướng về phía Thế Tôn và thưa: “Quả đúng như vậy, bạch Thế Tôn; quả đúng như vậy, bạch Thiện Thệ. Khi năm căn này được duy trì và phát triển, chúng sẽ hòa vào bất tử, chạm đến bất tử và kết thúc trong bất tử. Bạch Thế Tôn, thuở xưa con từng tu phạm hạnh dưới thời Đức Phật Kassapa. Khi đó con được biết đến là Tỷ-kheo Sahaka. Chính nhờ duy trì và phát triển năm căn này mà lòng ham muốn nhục dục của con phai nhạt, và sau khi mạng chung thân hoại, con được tái sinh vào cảnh giới an lành, ở cõi Phạm thiên. Tại đây con được biết đến là Phạm thiên Sahampati. Quả đúng như vậy, bạch Thế Tôn; quả đúng như vậy, bạch Thiện Thệ. Con biết và con thấy rõ làm thế nào năm căn này, khi được duy trì và phát triển, sẽ hòa vào bất tử, chạm đến bất tử và kết thúc trong bất tử.”
 
-[S. 48:57](/link?q=SN-48.57){target=_black}
+[S. 48:57](/l?q=SN-48.57){target=_black}
 
 Lúc bấy giờ, khi Thế Tôn đang ngồi tĩnh cư một mình, suy nghĩ này khởi lên trong ngài: “Con đường này, tức là Tứ Niệm Xứ, là con đường duy nhất  [6](/the-life-of-the-buddha/notes/3#6){.note} đi đến sự thanh tịnh cho chúng sinh, vượt qua sầu bi, diệt trừ khổ ưu, đạt đến chánh lý, chứng ngộ Niết-bàn. Bốn điều đó là gì? Một vị tỷ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác và chánh niệm, gạt bỏ mọi tham ưu ở đời. Hoặc vị ấy sống quán thọ trên các cảm thọ, nhiệt tâm, tỉnh giác và chánh niệm, gạt bỏ mọi tham ưu ở đời. Hoặc vị ấy sống quán tâm trên tâm, nhiệt tâm, tỉnh giác và chánh niệm, gạt bỏ mọi tham ưu ở đời. Hoặc vị ấy sống quán pháp trên các pháp, nhiệt tâm, tỉnh giác và chánh niệm, gạt bỏ mọi tham ưu ở đời.”
 
 Khi ấy, Phạm thiên Sahampati xuất hiện và bày tỏ sự tán thán như trước.
 
-[S. 47:18](/link?q=SN-47.18){target=_black}, 43
+[S. 47:18](/l?q=SN-47.18){target=_black}, 43
 
 Lúc bấy giờ, khi Thế Tôn đang ngồi tĩnh cư một mình, suy nghĩ này khởi lên trong ngài: “Ta đã thoát khỏi lối tu khổ hạnh ấy; ta đã hoàn toàn thoát khỏi lối tu khổ hạnh vô ích ấy. Hết sức vững vàng và chánh niệm, ta đã đạt được giác ngộ.”
 
@@ -168,7 +168,7 @@ Thế Tôn liền nhận ra Ác ma vương, và ngài đáp lại bằng những
 >
 > Khi ấy, Ác ma vương biết rằng: “Thế Tôn đã nhận ra ta, Thiện Thệ đã biết ta.” Buồn bã và thất vọng, hắn lập tức biến mất.
 
-> [S. 4:1](/link?q=SN-4.1){target=_black}
+> [S. 4:1](/l?q=SN-4.1){target=_black}
 
 Lúc bấy giờ, khi Thế Tôn đang ngồi tĩnh cư một mình, suy nghĩ này khởi lên trong ngài: “Một người sẽ sống chẳng an vui nếu không có ai để cung kính và nương tựa.
 
@@ -178,7 +178,7 @@ Rồi ngài nghĩ: “Ta có thể sống dưới sự hướng dẫn của mộ
 
 Khi ấy, Phạm thiên Sahampati thấu hiểu tâm niệm của Thế Tôn. Vị ấy xuất hiện trước mặt Thế Tôn và thưa: “Bạch Thế Tôn, thật là tốt đẹp. Các vị Phật trong quá khứ, những bậc A-la-hán, Chánh Đẳng Giác, đều đã sống nương tựa vào Giáo pháp, tôn kính và phụng sự Giáo pháp. Và các vị Phật trong tương lai cũng sẽ làm như vậy.”
 
-[S. 6:2](/link?q=SN-6.2){target=_black}; [A. 4:21](/link?q=AN-4.21){target=_black}
+[S. 6:2](/l?q=SN-6.2){target=_black}; [A. 4:21](/l?q=AN-4.21){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Lúc bấy giờ, khi Thế Tôn đang ngồi tĩnh cư một mình, suy nghĩ này khởi lên trong ngài: “Giáo pháp mà ta vừa chứng ngộ này thật thâm sâu, khó thấy, khó khám phá; đó là cảnh giới tĩnh lặng và thù thắng nhất, không thể đạt được bằng lý luận thông thường, vô cùng vi diệu, chỉ bậc trí mới tự mình trải nghiệm. Nhưng thế nhân lại chuộng ái luyến, ham mê ái luyến, hoan hỷ trong ái luyến. Với một thế giới như vậy, thật khó để thấy được chân lý này, tức là tính điều kiện đặc thù, thuyết Duyên khởi. Và cũng khó để thấy được chân lý này, tức là sự tịch tịnh của mọi hành, sự xả ly mọi yếu tố cốt lõi của tồn tại, sự cạn kiệt khát ái, sự phai nhạt tham dục, sự đoạn diệt, Niết-bàn. Nếu ta giảng dạy Giáo pháp mà người khác không hiểu, thì điều đó chỉ mang lại mệt mỏi và phiền toái cho ta.”
 
@@ -240,7 +240,7 @@ Thế Tôn lắng nghe lời thỉnh cầu của Phạm thiên Sahampati. Khởi
 
 Khi ấy, Phạm thiên Sahampati nghĩ: “Ta đã thỉnh cầu thành công việc Thế Tôn thuyết pháp.” Sau khi đảnh lễ ngài và nhiễu quanh ngài theo chiều bên phải, vị ấy lập tức biến mất.
 
-[Vin. Mv. 1:5](/link?q=vin.mv-1.5){target=_black}; cf. [MN-26](/link?q=MN-26){target=_black} & 85; [S. 6:1](/link?q=SN-6.1){target=_black}
+[Vin. Mv. 1:5](/l?q=vin.mv-1.5){target=_black}; cf. [MN-26](/l?q=MN-26){target=_black} & 85; [S. 6:1](/l?q=SN-6.1){target=_black}
 
 Thế Tôn nghĩ: “Ta sẽ giảng Giáo pháp này cho ai trước tiên? Ai sẽ nhanh chóng thấu hiểu Giáo pháp này?” Rồi ngài nghĩ: “Ālāra Kālāma là người khôn ngoan, uyên bác và sáng suốt. Đã từ lâu mắt ông vương ít bụi trần. Giả sử ta thuyết pháp cho ông ấy trước thì sao? Ông ấy sẽ nhanh chóng hiểu được.”
 
@@ -308,7 +308,7 @@ Lần thứ hai nhóm năm tỷ-kheo nói lại điều tương tự với ngài
 
 “Đấng Như Lai là bậc A-la-hán, Chánh Đẳng Giác. Hãy lắng nghe, này các tỷ-kheo, Bất tử đã đạt được. Ta sẽ chỉ dạy cho các ông. Ta sẽ giảng Giáo pháp cho các ông. Nhờ thực hành theo đúng lời chỉ dạy, các ông sẽ ngay tại đời này tự mình chứng ngộ qua trực giác, bước vào và an trú trong mục đích tối thượng của phạm hạnh, điều mà các thiện gia nam tử đã xuất gia từ bỏ gia đình sống không nhà hằng hướng đến.”
 
-Vin. Mv.1:6; cf. [MN-26](/link?q=MN-26){target=_black} & 85
+Vin. Mv.1:6; cf. [MN-26](/l?q=MN-26){target=_black} & 85
 
 Thế Tôn đã có thể thuyết phục được họ. Họ lắng nghe Thế Tôn; họ lắng nghe và mở rộng tâm hồn đón nhận tri kiến. Rồi Thế Tôn nói với nhóm năm tỷ-kheo như sau:
 
@@ -337,7 +337,7 @@ quan, tri kiến, trí tuệ, minh sát và ánh sáng này đã khởi sinh tro
 
 “Tri kiến và nhãn quan khởi sinh trong ta: 'Sự giải thoát của tâm ta là bất động; đây là kiếp sống cuối cùng; sẽ không còn sự tái sinh nào nữa.' ”
 
-[Vin. Mv. 1:6](/link?q=vin.mv-1.6){target=_black}; [S. 56:11](/link?q=SN-56.11){target=_black}
+[Vin. Mv. 1:6](/l?q=vin.mv-1.6){target=_black}; [S. 56:11](/l?q=SN-56.11){target=_black}
 
 Ngay khi bài pháp này đang được thuyết giảng, nhãn quan vô cấu, thanh tịnh về Pháp đã khởi sinh trong tôn giả Kondañña như sau: Phàm pháp nào có tính sinh khởi, pháp đó đều có tính đoạn diệt.
 
@@ -358,7 +358,7 @@ Rồi nhờ dùng bữa bằng thức ăn mà họ mang đến, Thế Tôn tiế
 
 Khi ấy, Thế Tôn dạy các tỷ-kheo như sau:
 
-[Vin. Mv. 1:6](/link?q=vin.mv-1.6){target=_black}
+[Vin. Mv. 1:6](/l?q=vin.mv-1.6){target=_black}
 
 *(Kinh Vô Ngã Tướng)*
 
@@ -394,4 +394,4 @@ Khi ấy, Thế Tôn dạy các tỷ-kheo như sau:
 
 Và lúc bấy giờ có sáu bậc A-la-hán, sáu bậc đã trọn vẹn ở trên thế gian.
 
-[Vin. Mv. 1:6](/link?q=vin.mv-1.6){target=_black}; cf. [S. 22:59](/link?q=SN-22.59){target=_black}
+[Vin. Mv. 1:6](/l?q=vin.mv-1.6){target=_black}; cf. [S. 22:59](/l?q=SN-22.59){target=_black}

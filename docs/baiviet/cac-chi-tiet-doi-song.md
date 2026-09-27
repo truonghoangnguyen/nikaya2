@@ -68,3 +68,21 @@ SN 12.35
 > “Không phải vậy, này Ca-diếp,” Đức Phật nói.
 SN 12.17
 
+- Gotama sống trong lâu đài
+> 10. "Này Māgaṇḍiya, trước đây khi còn sống đời sống gia đình, Ta đã được cung cấp đầy đủ và đắm chìm trong năm sợi dây trói buộc của bản năng (ngũ dục / kāmaguṇa), Ta đã vui thú với những hình ảnh được nhận biết bởi mắt, [những hình ảnh] khả ái, dễ thương, hấp dẫn, dễ chịu, kích thích bản năng và đầy sự quyến rũ; với những âm thanh được nhận biết bởi tai […lặp lại…] với những mùi được nhận biết bởi mũi… với những vị được nhận biết bởi lưỡi… với những xúc chạm được nhận biết bởi thân, [những xúc chạm] khả ái, dễ thương, hấp dẫn, dễ chịu, kích thích bản năng và đầy sự quyến rũ. Này Māgaṇḍiya, Ta đã có ba lâu đài—một cho mùa mưa, một cho mùa đông, một cho mùa hè. Này Māgaṇḍiya, trong bốn tháng mùa mưa ở lâu đài mùa mưa, Ta được phục vụ bởi những nữ nhạc công và không hề bước xuống...
+
+MN 75.10
+
+- Tỉnh thức, không phải luôn luôn biết về bản chất.
+> "Thưa Tôn giả Ānanda, người ấy không luôn luôn biết liên tục rằng: 'Tay chân của ta đã bị chặt đứt'. Nhưng khi suy xét lại, người ấy mới biết: 'Tay chân của ta đã bị chặt đứt'."
+MN 76.52
+
+- người :"người suy luận và xét đoán" - các nhà Luận sư sau này đi vào, được xếp vào loại tu không an ổn 
+>  Vị ấy thuyết giảng Quy luật được đúc kết từ sự suy luận, đi kèm với sự xét đoán, tự mình nghĩ ra
+MN 76.27
+
+- 4 Kiểu tu sai và 4 kiểu tu "không đáng tin cậy"
+MN 76
+
+- Chú thích các trường phái khác ở : /kinhtrungbo/c-nm-tmc-vi/mnc-076-kinh-sandaka, MN 76 liên quan đến MN 14 về Nigaṇṭha Nāṭaputta - biết tất cả,
+

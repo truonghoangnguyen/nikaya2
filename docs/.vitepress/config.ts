@@ -361,7 +361,7 @@ export default defineConfig({
       md.use(idAnchorFix)
       //md.use(attrs);
 
-      // các quicklink /link?q=acb sẽ mở sang tab mới
+      // các quicklink /l?q=acb sẽ mở sang tab mới
       const defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, env, self) {
         return self.renderToken(tokens, idx, options)
       }
@@ -370,7 +370,7 @@ export default defineConfig({
         const token = tokens[idx]
         const href = token.attrGet('href')
 
-        if (href && href.startsWith('/link')) {
+        if (href && href.startsWith('/l')) {
           token.attrSet('target', 'blank')
           token.attrSet('rel', 'noopener')
           // KHÔNG set rel="noreferrer" / rel="noopener"

@@ -89,7 +89,7 @@ mà không bị mệt mỏi vì đi xin ăn. Đây là lợi ích con thấy tr�
 > Sống an vui khỏe mạnh\
 > Hưởng phúc dài cõi trời
 
-[Vin. Mv. 8:15](/link?q=vin.mv-8.15){target=_black}
+[Vin. Mv. 8:15](/l?q=vin.mv-8.15){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời Thế Tôn trú tại Sāvatthī, ở Đông Viên Tự, Lộc Mẫu Giảng Đường. Khi ấy, một đứa cháu gái vô cùng yêu quý của Visākhā vừa qua đời. Giữa ban ngày ban mặt, Visākhā đi đến chỗ Thế Tôn, quần áo và tóc tai ướt sũng. Sau khi đảnh lễ Ngài, bà ngồi xuống một
 bên, và Thế Tôn hỏi bà: "Này Visākhā, bà từ đâu đến giữa ban ngày ban mặt với quần áo và tóc tai ướt sũng như vậy?"
@@ -119,7 +119,7 @@ bên, và Thế Tôn hỏi bà: "Này Visākhā, bà từ đâu đến giữa ba
 > Thoát khỏi mọi sầu đau\
 > Chớ luyến ái trên đời
 
-[Ud. 8:8](/link?q=ud-8.8){target=_black}
+[Ud. 8:8](/l?q=ud-8.8){target=_black}
 
 NGƯỜI KỂ MỘT. Bây giờ chúng Pháp sẽ tạm biệt Visākhā.
 
@@ -136,7 +136,7 @@ Vì vậy, các tỳ-kheo tụ tập vào những ngày đó như Thế Tôn đ�
 
 Các tỳ-kheo nghe thấy điều này. Họ đến gặp Thế Tôn và trình báo. Ngài lấy đây làm nhân duyên để thuyết một bài pháp, và Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, khi có một buổi tụ tập vào những ngày trăng khuyết mùng tám và những ngày trăng tròn mười bốn, mười lăm, Ta cho phép thuyết giảng Giáo pháp."
 
-[Vin. Mv. 2:1](/link?q=vin.mv-2.1){target=_black}
+[Vin. Mv. 2:1](/l?q=vin.mv-2.1){target=_black}
 
 NGƯỜI KỂ MỘT. Trong Luật tạng (Vinaya Piṭaka) có một ghi chép về các sự kiện dẫn đến việc thiết lập Pātimokkha (Giới Bổn). Ghi chép này rất dài, nên dưới đây là bản tóm tắt.
 
@@ -158,13 +158,13 @@ Rồi, sau khi quở trách tôn giả Sudinna (người không bị trục xu�
 
 Đó là cách học giới này được Thế Tôn ban hành.
 
-[Vin. Sv. Pārā. 1](/link?q=vin.sv.para-1){target=_black}
+[Vin. Sv. Pārā. 1](/l?q=vin.sv.para-1){target=_black}
 
 Có một lần, khi Thế Tôn đang tĩnh cư một mình, suy nghĩ này khởi lên trong tâm Ngài: "Giả sử Ta cho phép các tỳ-kheo tụng đọc các học giới mà Ta đã ban hành như là Giới Bổn (Pātimokkha) của họ. Đó sẽ là lễ bố-tát (Uposatha), lễ ngày thánh của họ."
 
 Đến chiều, Ngài xuất định, và lấy đây làm nhân duyên cho một bài pháp, Ngài bảo các tỳ-kheo và thông báo cho họ về quyết định của mình.
 
-[Vin. Mv. 2:3](/link?q=vin.mv-2.3){target=_black}
+[Vin. Mv. 2:3](/l?q=vin.mv-2.3){target=_black}
 
 Nhân duyên là thế này. Thế Tôn đang trú tại Sāvatthi ở Lộc Mẫu Giảng Đường, Đông Viên Tự. Bấy giờ là ngày Bố-tát, và Thế Tôn đang ngồi giữa Tăng chúng tỳ-kheo.
 
@@ -203,7 +203,7 @@ Hiểu rõ ý nghĩa của điều này, Thế Tôn liền thốt lên lời c�
 > Hãy mở điều che giấu\
 > Kẻo bị mưa ướt nhòa
 
-[Vin. Cv. 9:1](/link?q=vin.cv-9.1){target=_black}; [Ud. 5:5](/link?q=ud-5.5){target=_black}; [A. 8:20](/link?q=AN-8.20){target=_black}
+[Vin. Cv. 9:1](/l?q=vin.cv-9.1){target=_black}; [Ud. 5:5](/l?q=ud-5.5){target=_black}; [A. 8:20](/l?q=AN-8.20){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời Thế Tôn trú tại Sāvatthī, tôn giả Mahā-Kassapa đi đến gặp Ngài. Tôn giả hỏi: "Bạch Thế Tôn, do nhân gì, do duyên gì, mà trước đây có ít học giới hơn nhưng lại có nhiều tỳ-kheo đạt được trí tuệ rốt ráo hơn? Do nhân gì, do duyên gì, mà nay có nhiều học giới hơn nhưng lại có ít tỳ-kheo đạt được trí tuệ rốt ráo hơn?"
 
@@ -212,7 +212,7 @@ GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời Thế Tôn trú 
 "Có năm điều tai hại này dẫn đến sự lãng quên Chánh pháp và sự biến mất của nó. Năm điều đó là gì? Ở đây, các tỳ-kheo, tỳ-kheo-ni, nam cư sĩ và nữ cư sĩ tỏ ra bất kính và coi thường Bậc Đạo Sư, Giáo pháp, Tăng chúng, sự rèn luyện, và sự thiền định. Cũng có năm điều này dẫn đến sự trường tồn của Chánh pháp, khiến nó không bị lãng quên và không bị biến mất. Năm điều đó là gì? Ở đây, các tỳ-kheo, tỳ-kheo-ni, nam cư sĩ và nữ cư sĩ luôn tôn kính và
 thành tâm đối với Bậc Đạo Sư, Giáo pháp, Tăng chúng, sự rèn luyện và sự thiền định."
 
-[S. 16:13](/link?q=SN-16.13){target=_black}; cf. [A. 7:56](/link?q=AN-7.56){target=_black}
+[S. 16:13](/l?q=SN-16.13){target=_black}; cf. [A. 7:56](/l?q=AN-7.56){target=_black}
 
 Một thời Thế Tôn trú tại Vesālī ở Trùng Các Giảng Đường trong Đại Lâm. Khi ấy, một tỳ-kheo dòng Vajjiputtaka đi đến gặp Thế Tôn ... và thưa: "Bạch Thế Tôn, cứ mỗi nửa tháng lại có hơn một trăm năm mươi giới luật được đem ra tụng đọc. Bạch Thế Tôn, con không thể rèn luyện hết ngần ấy giới luật."
 
@@ -224,7 +224,7 @@ Một thời Thế Tôn trú tại Vesālī ở Trùng Các Giảng Đường tr
 
 Sau đó, tỳ-kheo ấy đã hoàn tất sự rèn luyện đó; rồi, vì đã được rèn luyện trọn vẹn, tham, sân và si trong vị ấy đã bị đoạn trừ hoàn toàn. Với điều đó, vị ấy không còn làm những việc bất thiện hay gieo trồng cái ác nữa.
 
-[A. 3:83](/link?q=AN-3.83){target=_black}
+[A. 3:83](/l?q=AN-3.83){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Nhân duyên là thế này. Khi Thế Tôn đã ở lại Rājagaha bao lâu tùy thích, Ngài bắt đầu du hành dần dần đến Vesālī. Lúc bấy giờ, khi đang đi trên đường giữa hai thành phố, Ngài thấy nhiều tỳ-kheo trên đường mang vác nặng nề những y áo, với những bó y áo trên đầu, trên vai và trên hông. Ngài nghĩ: "Những kẻ lạc lối này với những y áo của họ rất dễ quay trở lại với sự xa hoa. Giả sử Ta đặt ra một mức tối đa và giới hạn về y áo cho các tỳ-kheo thì sao?"
 
@@ -233,7 +233,7 @@ Rồi trong chuyến hành trình của mình, Thế Tôn cuối cùng cũng đ�
 
 Thế Tôn sau đó bảo các tỳ-kheo, và sau khi kể cho họ nghe chuyện đã xảy ra, Ngài công bố quy định không được mặc quá ba y: "Này các tỳ-kheo, Ta cho phép dùng ba y: một y ngoài gồm nhiều mảnh vá và may hai lớp, một y trong đơn và một y hạ (quần) đơn."
 
-[Vin. Mv. 8:13](/link?q=vin.mv-8.13){target=_black}
+[Vin. Mv. 8:13](/l?q=vin.mv-8.13){target=_black}
 
 Cũng có một lần, khi Thế Tôn đang trên đường từ Rājagaha đến Nam Sơn, Ngài bảo tôn giả Ānanda: "Này Ānanda, ông có thấy vùng đất Magadha được chia thành những ô vuông, chia thành những dải đất, chia thành những bờ ranh, chia thành những đường chéo không?"
 
@@ -241,7 +241,7 @@ Cũng có một lần, khi Thế Tôn đang trên đường từ Rājagaha đế
 
 "Hãy cố gắng thiết kế y cho các tỳ-kheo giống như vậy, này Ānanda."
 
-[Vin. Mv. 8:12](/link?q=vin.mv-8.12){target=_black}
+[Vin. Mv. 8:12](/l?q=vin.mv-8.12){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời, khi Thế Tôn đang trú tại Sāvatthi, tôn giả Mahā-Kaccāna đang trú tại xứ Avanti trên vách đá Pavatta ở Kururaghara, và ngài đang được một nam cư sĩ tên là Soṇa Kuṭikaṇṇa hộ độ. Khi ấy, Soṇa Kuṭikaṇṇa đến gặp tôn giả Mahā-Kaccāna, và sau khi đảnh lễ ngài, ông ngồi xuống một bên. Rồi ông thưa: "Bạch Tôn giả, theo những gì con biết về Giáo pháp do Tôn giả Mahā-Kaccāna giảng dạy, một người sống tại gia không dễ gì sống đời phạm hạnh hoàn hảo và thanh tịnh như một vỏ ốc xà cừ được đánh bóng. Vậy tại sao con không cạo bỏ râu tóc, đắp y vàng và xuất gia sống đời không nhà? Tôn giả Kaccāna có cho phép con xuất gia không?"
 
@@ -282,7 +282,7 @@ Hiểu rõ ý nghĩa của điều này, Thế Tôn liền thốt lên lời c�
 > Bậc thánh không vui ác\
 > Ác không vui tâm trong
 
-[Ud. 5:6](/link?q=ud-5.6){target=_black}; cf. [Vin. Mv. 5:13](/link?q=vin.mv-5.13){target=_black}
+[Ud. 5:6](/l?q=ud-5.6){target=_black}; cf. [Vin. Mv. 5:13](/l?q=vin.mv-5.13){target=_black}
 
 Một thời Thế Tôn trú tại Vesālī ở Trùng Các Giảng Đường trong Đại Lâm, cùng với nhiều đại đệ tử trưởng lão có nhiều kinh nghiệm: cùng với tôn giả Cāla, tôn giả Upacāla, tôn giả Kakkaṭa, tôn giả Kalimbha, tôn giả Nikaṭa, tôn giả Kaṭissaha và nhiều đại đệ tử trưởng lão có nhiều kinh nghiệm khác.
 
@@ -292,7 +292,7 @@ Thế là các ngài đi đến Rừng Cây Sāla Gosinga, và ở đó rất th
 
 Các tỳ-kheo kể lại chuyện đã xảy ra. Thế Tôn nói: "Lành thay, lành thay, các tỳ-kheo. Họ nói đúng khi làm như những đại đệ tử đó đã làm; vì Ta đã từng nói rằng tiếng ồn là cái gai đối với thiền định. Có mười cái gai này. Mười cái gai đó là gì? Yêu thích sự tụ tập là cái gai đối với người thích sự tĩnh cư. Say mê tướng sắc đẹp là cái gai đối với người chuyên tâm quán tưởng tướng bất tịnh của thân. Đi xem các buổi trình diễn là cái gai đối với người đang phòng hộ các căn. Ở gần phụ nữ là cái gai đối với người đang sống đời phạm hạnh. Tiếng ồn là cái gai đối với sơ thiền. Tầm và tứ là cái gai đối với nhị thiền. Hỷ là cái gai đối với tam thiền. Hơi thở ra và hơi thở vào là cái gai đối với tứ thiền. Tưởng và thọ là cái gai đối với sự chứng đạt diệt thọ tưởng định. Tham là một cái gai, sân là một cái gai, si là một cái gai. Hãy sống không có gai, này các tỳ-kheo, hãy sống vắng bóng gai, hãy sống không có gai và vắng bóng gai. Các bậc A-la-hán không có gai, này các tỳ-kheo, các bậc A-la-hán vắng bóng gai, các bậc A-la-hán không có gai và vắng bóng gai."
 
-[A. 10:72](/link?q=AN-10.72){target=_black}
+[A. 10:72](/l?q=AN-10.72){target=_black}
 
 Một thời Thế Tôn trú tại Vesālī ở Trùng Các Giảng Đường trong Đại Lâm. Đó là dịp Ngài đã giảng cho các tỳ-kheo bằng nhiều cách về sự quán tưởng sự bất tịnh (của thân), tán thán việc quán tưởng sự bất tịnh và duy trì sự quán tưởng đó. Rồi Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, Ta muốn tĩnh cư trong nửa tháng. Không ai được đến gần Ta ngoại trừ người mang thức ăn khất thực cho Ta."
 
@@ -310,7 +310,7 @@ Tôn giả Ānanda làm theo, và khi họ đã tụ tập lại, ngài thông b
 
 "Này các tỳ-kheo, khi chánh niệm về hơi thở này được duy trì và phát triển, nó mang lại sự bình an và một mục tiêu cao cả, nó thanh tịnh (không bị pha lẫn bởi sự bất tịnh) và là một sự an trú dễ chịu, và nó khiến cho các ác pháp bất thiện tan biến ngay lập tức khi chúng vừa khởi sinh, giống như khi bụi bặm bay mù mịt trong tháng cuối cùng của mùa nóng, một trận mưa lớn trái mùa sẽ làm chúng tan biến ngay lập tức khi chúng vừa khởi sinh."
 
-[S. 54:9](/link?q=SN-54.9){target=_black}
+[S. 54:9](/l?q=SN-54.9){target=_black}
 
 Khi Thế Tôn đang trú tại Rājagaha, có một tỳ-kheo tên là Thera sống một mình và thường khuyên người khác sống một mình; ngài đi vào làng khất thực một mình, trở về một mình, ngồi tĩnh tọa một mình, và đi kinh hành một mình. Rồi một số tỳ-kheo đi đến gặp Thế Tôn và kể cho Ngài nghe về chuyện này. Thế Tôn cho gọi vị ấy đến và hỏi xem điều đó có đúng không. Vị ấy trả lời là đúng. Thế Tôn nói: "Có kiểu sống một mình như vậy, này Thera, Ta không nói là không có. Tuy nhiên, hãy nghe xem việc sống một mình được hoàn thiện chi tiết như thế nào, và hãy chú ý lắng nghe những gì Ta sẽ nói."
 
@@ -326,7 +326,7 @@ Thế Tôn đã nói như vậy. Sau khi Đấng Thiện Thệ nói điều này
 > Ta gọi chính người ấy\
 > Sống một mình hoàn hảo
 
-[S. 21:10](/link?q=SN-21.10){target=_black}
+[S. 21:10](/l?q=SN-21.10){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Nhân duyên là thế này. Thế Tôn đang trú trên đỉnh núi Linh Thứu ở Rājagaha vào thời điểm mà Vua Seniya Bimbisāra của xứ Magadha đang cai trị với quyền lực tối cao trên tám mươi ngàn ngôi làng. Lúc bấy giờ, có một người thuộc gia tộc Kolivisa tên là Soṇa đang sống tại Campā. Anh là con trai của một nhà quyền quý. Anh mỏng manh đến mức dưới lòng bàn chân cũng mọc lông. Bấy giờ, nhà vua đã triệu tập đại diện từ tám mươi ngàn ngôi làng vì một công việc nào đó, và sai người mang thông điệp đến cho Soṇa Kolivisa, nói rằng: "Hãy bảo Soṇa đến. Ta muốn Soṇa đến."
 
@@ -362,7 +362,7 @@ Không lâu sau khi được gia nhập Tăng chúng, anh đến sống ở Rừ
 
 "Thưa vâng, bạch Thế Tôn," vị ấy đáp.
 
-[Vin. Mv. 5:1](/link?q=vin.mv-5.1){target=_black}; cf. [A. 6:55](/link?q=AN-6.55){target=_black}
+[Vin. Mv. 5:1](/l?q=vin.mv-5.1){target=_black}; cf. [A. 6:55](/l?q=AN-6.55){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời Thế Tôn trú tại Rājagaha ở Trúc Lâm, Khu bảo tồn Sóc. Lúc bấy giờ có một người cùi tên là Suppabuddha ở Rājagaha. Anh ta là một kẻ nghèo túng và khốn khổ.
 
@@ -385,13 +385,13 @@ Khi nghe nói vậy, một tỳ-kheo hỏi: "Bạch Thế Tôn, do nhân gì, do
 
 "Trước đây, này các tỳ-kheo, Suppabuddha người cùi là con trai của một người giàu có cũng ở chính Rājagaha này. Trên đường đi đến công viên giải trí, anh ta thấy Bích-chi-phật (Paccekabuddha) [2](/the-life-of-the-buddha/notes/9#2){.note} Tagarasikhi đang vào thành khất thực. Rồi anh ta nghĩ: 'Tên cùi nào đang đi lang thang đằng kia?' Và anh ta nhổ nước bọt vào ngài, lăng mạ ngài rồi bỏ đi. Anh ta đã phải chịu sự chín muồi của ác nghiệp đó trong địa ngục nhiều năm, nhiều thế kỷ, nhiều thiên niên kỷ. Với sự chín muồi của chính ác nghiệp đó, anh ta nay trở thành một kẻ nghèo túng và khốn khổ cũng ở chính Rājagaha này. Thông qua Pháp và Luật do Như Lai tuyên thuyết, anh ta đã có được niềm tin, giới hạnh, trí tuệ, sự rộng lượng và sự hiểu biết. Với sự chín muồi của thiện nghiệp đó, khi thân hoại mạng chung, anh ta đã tái sinh vào cõi trời cùng với chư thiên ở cõi Đao-lợi. Ở đó, anh ta vượt trội hơn các chư thiên khác về ngoại hình và danh tiếng."
 
-[Ud. 5:3](/link?q=ud-5.3){target=_black}
+[Ud. 5:3](/l?q=ud-5.3){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Nhân duyên là thế này. Có hai tỳ-kheo tên là Yamelu và Tekula sống tại Sāvatthi, và họ là anh em. Họ xuất thân từ dòng dõi bà-la-môn, và họ có giọng nói cùng cách truyền đạt rất hay. Họ thưa với Thế Tôn: "Bạch Thế Tôn, hiện nay các tỳ-kheo có nhiều tên gọi khác nhau, thuộc nhiều chủng tộc khác nhau, sinh ra ở nhiều nơi khác nhau, xuất gia từ nhiều gia tộc khác nhau. Họ làm hỏng lời của Thế Tôn khi sử dụng ngôn ngữ riêng của họ. Xin cho phép chúng con chuyển ngữ những lời của Đức Phật sang thể thơ cổ điển."
 
 Đức Phật, Thế Tôn, đã quở trách họ: "Những kẻ lạc lối kia, sao các ông lại có thể nói 'Xin cho phép chúng con chuyển ngữ những lời của Đức Phật sang thể thơ cổ điển'? Điều này sẽ không làm khởi sinh niềm tin ở những người chưa có niềm tin hoặc làm tăng trưởng niềm tin ở những người đã có niềm tin; đúng hơn, nó sẽ giữ những người chưa có niềm tin tiếp tục không có niềm tin và gây tổn hại cho một số người đã có niềm tin." Sau khi quở trách họ và ban một bài pháp, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, lời của Đức Phật không được chuyển sang thể thơ cổ điển. Bất cứ ai làm như vậy đều phạm tội tác ác. Ta cho phép học những lời của Đức Phật bằng ngôn ngữ của chính mình."
 
-[Vin. Cv. 5:33](/link?q=vin.cv-5.33){target=_black}
+[Vin. Cv. 5:33](/l?q=vin.cv-5.33){target=_black}
 
 Một lần, khi Thế Tôn đang thuyết pháp, xung quanh là rất đông tỳ-kheo, Ngài hắt hơi. Các tỳ-kheo làm ồn ào lên, nói rằng: "Chúc Thế Tôn sống lâu; chúc Thế Tôn sống lâu." Tiếng ồn làm gián đoạn bài pháp. Rồi Thế Tôn hỏi các tỳ-kheo: "Này các tỳ-kheo, khi nói 'Chúc sống lâu' với một người hắt hơi, người đó có vì thế mà sống hay chết không?"
 
@@ -403,7 +403,7 @@ Vì vậy, sau đó, khi các tỳ-kheo hắt hơi và các gia chủ nói "Chú
 
 Các tỳ-kheo đem chuyện này trình lên Thế Tôn. Ngài nói: "Này các tỳ-kheo, các gia chủ vốn quen với những tín ngưỡng dân gian như vậy. Ta cho phép các ông, khi họ nói 'Chúc sống lâu', được trả lời 'Chúc ông sống lâu'."
 
-[Vin. Cv. 5:33](/link?q=vin.cv-5.33){target=_black}
+[Vin. Cv. 5:33](/l?q=vin.cv-5.33){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời Thế Tôn trú tại Sāvatthī ở Đông Viên Tự, Lộc Mẫu Giảng Đường. Nhân dịp đó, Ngài vừa xuất định vào buổi chiều, và đang ngồi ở hiên ngoài cổng chính. Rồi Vua Pasenadi xứ Kosala đi đến gặp Ngài, và sau khi đảnh lễ, ông ngồi xuống một bên.
 
@@ -426,7 +426,7 @@ Hiểu rõ ý nghĩa của điều này, Thế Tôn liền thốt lên lời c�
 > Như ngọc giả bằng đất\
 > Hay đồng nát mạ vàng
 
-[S. 3:11](/link?q=SN-3.11){target=_black}; [Ud. 6:2](/link?q=ud-6.2){target=_black}
+[S. 3:11](/l?q=SN-3.11){target=_black}; [Ud. 6:2](/l?q=ud-6.2){target=_black}
 
 *(Kinh Kālāma)*
 
@@ -442,7 +442,7 @@ thoát khỏi ác ý, và không bị si mê, thì với sự tỉnh giác và c
 
 "Với tâm không hận thù và không bị ác ý làm phiền như vậy, không bị ô nhiễm và nhất tâm như vậy, một vị thánh đệ tử ngay trong đời này đạt được bốn niềm an ủi sau. Vị ấy nghĩ: 'Nếu có một thế giới khác và có quả báo của những hành động thiện và ác, thì có thể khi thân hoại mạng chung, ta sẽ tái sinh vào cõi trời.' Đây là niềm an ủi thứ nhất đạt được. 'Nhưng nếu không có thế giới khác và không có quả báo của những hành động thiện và ác, thì ngay trong đời này ta sẽ thoát khỏi hận thù, phiền não và lo âu, và ta sẽ sống hạnh phúc.' Đây là niềm an ủi thứ hai đạt được. 'Nếu cái ác giáng xuống kẻ làm ác, thì vì ta không có ác ý với bất kỳ ai, làm sao những việc ác có thể mang lại khổ đau cho ta, người không làm điều ác?' Đây là niềm an ủi thứ ba đạt được. 'Nhưng nếu cái ác không giáng xuống kẻ làm ác, thì ta biết mình thanh tịnh trong đời này trên cả hai phương diện.' Đây là niềm an ủi thứ tư đạt được."
 
-[AN 3:65](/link?q=AN-3:65){target=_black}
+[AN 3:65](/l?q=AN-3:65){target=_black}
 
 Lúc bấy giờ có một tỳ-kheo bị bệnh kiết lỵ, và vị ấy nằm vấy bẩn trong chính phân và nước tiểu của mình. Khi Thế Tôn đang đi vòng quanh các khu nhà ở cùng với tôn giả Ānanda trong vai trò thị giả, Ngài đến chỗ ở của tỳ-kheo đó. Khi thấy vị ấy nằm đó, Ngài đến gần và hỏi: "Ông mắc bệnh gì vậy, tỳ-kheo?"
 
@@ -480,12 +480,12 @@ Lấy đây làm nhân duyên và lý do, Thế Tôn triệu tập các tỳ-khe
 
 "Khi một người bệnh có năm đặc tính này, vị ấy rất khó chăm sóc: vị ấy làm những việc không phù hợp; vị ấy không biết chừng mực trong những việc phù hợp; vị ấy không chịu uống thuốc; vị ấy không nói rõ bệnh tình của mình cho người chăm sóc đang muốn tốt cho mình, hay không nói cho người đó biết khi thế này thì tốt hơn, khi thế kia thì tệ hơn, hay khi thế nọ thì không đổi; vị ấy thuộc kiểu người không thể chịu đựng được những cảm thọ trên thân đã khởi sinh, những cảm thọ đau đớn, khắc nghiệt, nhức nhối, buốt nhói, khó chịu, không mong muốn và đe dọa đến tính mạng. Khi một người bệnh có năm đặc tính ngược lại, vị ấy rất dễ chăm sóc."
 
-[Vin. Mv. 8:23](/link?q=vin.mv-8.23){target=_black} (nguyên văn là 8:26)
+[Vin. Mv. 8:23](/l?q=vin.mv-8.23){target=_black} (nguyên văn là 8:26)
 
 "Khi một người chăm bệnh có năm đặc tính này, người đó không thích hợp để chăm sóc người bệnh: người đó không khéo léo trong việc pha chế thuốc; người đó không biết
 cái gì phù hợp và cái gì không phù hợp, nên mang đến cái không phù hợp và lấy đi cái phù hợp; người đó chăm sóc người bệnh vì lý do vụ lợi chứ không phải với tâm từ bi; người đó cảm thấy gớm ghiếc khi phải dọn dẹp phân, nước tiểu, nước bọt hay chất nôn; người đó không khéo léo trong việc hướng dẫn, khích lệ, đánh thức và động viên người bệnh bằng những bài pháp đúng lúc. Khi một người chăm bệnh có năm đặc tính ngược lại, người đó thích hợp để chăm sóc người bệnh."
 
-[Vin. Mv. 8:23](/link?q=vin.mv-8.23){target=_black}; [A. 5:123](/link?q=AN-5.123){target=_black}-24
+[Vin. Mv. 8:23](/l?q=vin.mv-8.23){target=_black}; [A. 5:123](/l?q=AN-5.123){target=_black}-24
 
 GIỌNG ĐỌC THỨ NHẤT. Một lần Thế Tôn đang ngồi ngoài trời trong đêm tối đen như mực, và những ngọn đèn dầu đang cháy sáng. Lúc đó, có rất nhiều con bướm đêm đang lao vào chỗ chết, tai họa và thảm kịch khi lao vào những ngọn đèn dầu. Hiểu rõ ý nghĩa của điều này, Thế Tôn liền thốt lên lời cảm hứng sau:
 
@@ -495,7 +495,7 @@ GIỌNG ĐỌC THỨ NHẤT. Một lần Thế Tôn đang ngồi ngoài trời t
 > Sống trong cảnh thấy nghe\
 > Như bướm lao vào lửa
 
-[Ud. 6:9](/link?q=ud-6.9){target=_black}
+[Ud. 6:9](/l?q=ud-6.9){target=_black}
 
 Một buổi sáng, Thế Tôn đắp y, mang bình bát và y ngoài, đi vào Sāvatthī để khất thực. Trên đường từ Rừng Trùng đến Sāvatthī, Ngài thấy một đám trẻ đang hành hạ những con cá. Ngài tiến đến chỗ chúng và hỏi: "Này các cậu bé, các con có sợ đau không? Các con có ghét sự đau đớn không?"
 
@@ -510,7 +510,7 @@ Hiểu rõ ý nghĩa của điều này, Thế Tôn liền thốt lên lời c�
 > Dù cố gắng trốn tránh\
 > Chắc chắn sẽ chịu khổ
 
-[Ud. 5:4](/link?q=ud-5.4){target=_black}
+[Ud. 5:4](/l?q=ud-5.4){target=_black}
 
 NGƯỜI TỤNG KỆ: [5](/the-life-of-the-buddha/notes/9#5){.note}
 
@@ -571,4 +571,4 @@ NGƯỜI TỤNG KỆ: [5](/the-life-of-the-buddha/notes/9#5){.note}
 > Không còn màng dục lạc\
 > Không tái sinh thai mẹ
 
-[Sn. 1:8](/link?q=snp-1.8){target=_black}
+[Sn. 1:8](/l?q=snp-1.8){target=_black}

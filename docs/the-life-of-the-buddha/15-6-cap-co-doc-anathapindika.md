@@ -101,7 +101,7 @@ Sau đó, Cấp Cô Độc cho chở vàng đến bằng xe bò, và ông cho r�
 
 Cấp Cô Độc nghĩ: “Thái tử Kỳ-đà này là một nhân vật nổi tiếng và có thế lực. Sẽ rất tốt nếu những người nổi tiếng như vậy có niềm tin vào Pháp và Luật.” Vì vậy, ông nhường lại khoảng đất đó cho Thái tử Kỳ-đà, và Thái tử đã cho xây một tháp cổng trên đó. Sau đó, Cấp Cô Độc cho xây dựng các khu nhà ở trong Rừng Kỳ-đà; ông cho làm các khoảng sân hiên rộng rãi; làm cổng, dựng sảnh chờ, phòng sưởi, nhà kho và nhà vệ sinh, san phẳng lối đi kinh hành, chuẩn bị phòng giếng nước, xây hồ tắm, bố trí phòng tắm, đào ao và dựng các đình tạ.
 
-[Vin. Cv. 6:4](/link?q=vin.cv-6.4){target=_black}; [S. 10:8](/link?q=SN-10.8){target=_black}
+[Vin. Cv. 6:4](/l?q=vin.cv-6.4){target=_black}; [S. 10:8](/l?q=SN-10.8){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. [2](/the-life-of-the-buddha/notes/6#2){.note} Khi Đức Thế Tôn đang ngụ tại Trúc Lâm ở Vương Xá, có một lần Ngài đang ngồi ngoài trời giữa đêm tối mịt mù, và trời đang mưa bụi lất phất. Khi ấy, Ác ma, muốn làm Ngài sợ hãi và dựng tóc gáy, đã hóa phép thành một con rắn chúa khổng lồ và tiến đến gần Đức Thế Tôn. Thân nó to như một chiếc thuyền làm từ một thân cây độc mộc; mang của nó rộng như chiếc chiếu của người ủ rượu; mắt nó to như những chiếc đĩa đồng của xứ Cô-sa-la; lưỡi nó thò ra thụt vào như tia chớp xé ngang đám mây sấm sét; tiếng thở của nó nghe như tiếng bễ lò rèn đang thổi.
 
@@ -126,7 +126,7 @@ GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. [2](/the-life-of-the-buddha/n
 
 Ác ma hiểu rằng: “Đức Thế Tôn đã nhận ra ta, đấng Thiện Thệ đã biết ta.” Buồn bã và thất vọng, hắn biến mất ngay lập tức.
 
-[S. 4:6](/link?q=SN-4.6){target=_black}
+[S. 4:6](/l?q=SN-4.6){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Sau khi Đức Thế Tôn ở lại Vương Xá bao lâu tùy ý, Ngài bắt đầu du hành từng chặng đến Tỳ-xá-ly. Khi đến nơi, Ngài ngụ tại Trùng Các Giảng Đường trong Đại Lâm. Lúc bấy giờ, mọi người đang hăng hái tiến hành các công trình xây dựng, và các tỳ-kheo giám sát công trình được cúng dường dồi dào y phục, thức ăn, chỗ ở và thuốc men chữa bệnh.
 
@@ -205,7 +205,7 @@ Du hành từng chặng, cuối cùng Đức Thế Tôn cũng đến Xá-vệ. �
 
 Sau khi ban phước, Ngài đứng dậy và rời đi.
 
-[Vin. Cv. 6:5](/link?q=vin.cv-6.5){target=_black}-9
+[Vin. Cv. 6:5](/l?q=vin.cv-6.5){target=_black}-9
 
 NGƯỜI KỂ MỘT. Đức Phật, lúc này đang ngụ tại Xá-vệ, thủ đô của xứ Cô-sa-la, đã đi từ xứ Ma-kiệt-đà, nơi có thủ đô là Vương Xá. Ma-kiệt-đà là một trong hai quốc gia hùng mạnh nhất ở miền trung Ấn Độ thời bấy giờ. Nó nằm ở phía nam sông Hằng với biên giới phía bắc giáp sông. Vua của nước này là Tần-bà-sa-la, người đã tuyên bố mình là đệ tử của Đức Phật. Anh rể của Vua Tần-bà-sa-la, Vua Ba-tư-nặc, cai trị vương quốc lớn còn lại, gọi là Cô-sa-la, trải dài từ bờ bắc sông Hằng đến chân dãy Hymalaya. Có vẻ như Vua Ba-tư-nặc cho đến lúc đó vẫn chưa gặp Đức Phật.
 
@@ -251,7 +251,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Mạt-lỵ, thật tuyệt vời, thật kỳ di
 
 Sau đó, Vua Ba-tư-nặc đứng dậy, vắt áo choàng qua một bên vai, chắp tay hướng về phía Đức Thế Tôn đang ngự, và thốt lên lời cảm thán này ba lần: “Đảnh lễ Đức Thế Tôn, bậc A-la-hán, đấng Chánh Đẳng Giác!”
 
-[MN-87](/link?q=MN-87){target=_black}
+[MN-87](/l?q=MN-87){target=_black}
 
 NGƯỜI KỂ MỘT. Sự kiện tiếp theo có lẽ ghi lại lần đầu tiên nhà vua gặp Đức Phật.
 
@@ -321,13 +321,13 @@ GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời, khi Đức Th�
  
 Khi nghe những lời này, Vua Ba-tư-nặc thưa với Đức Thế Tôn: “Thật tuyệt vời, bạch Thế Tôn! ... Xin Đức Thế Tôn nhận con làm đệ tử cư sĩ, người đã quy y Ngài cho đến trọn đời.”
 
-[S. 3:1](/link?q=SN-3.1){target=_black}
+[S. 3:1](/l?q=SN-3.1){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Sự việc diễn ra như sau. Đức Thế Tôn đang ngụ tại Trúc Lâm, Khu bảo tồn sóc ở Vương Xá, vào thời điểm mà việc an cư tại một nơi trong mùa mưa chưa được Đức Thế Tôn quy định bắt buộc. Các tỳ-kheo đi du hành trong mùa lạnh, mùa nóng và cả mùa mưa. Mọi người bực bội, lầm bầm và phàn nàn: “Làm sao những sa-môn này, những Thích tử này lại đi du hành trong cả ba mùa, giẫm nát cỏ xanh, làm hại các sinh mệnh một căn, và gây tổn thương cho nhiều sinh vật nhỏ bé? Ngay cả những đạo sĩ ngoại đạo với giáo lý thuyết giảng tồi tàn của họ cũng biết giữ việc an cư trong mùa mưa; và ngay cả những con chim kền kền làm tổ trên ngọn cây cũng biết ở yên trong mùa mưa. Nhưng những Thích tử này lại đi du hành trong cả ba mùa, giẫm nát cỏ xanh, làm hại các sinh mệnh một căn và gây tổn thương cho nhiều sinh vật nhỏ bé.”
 
 Các tỳ-kheo nghe được điều này. Họ trình lên Đức Thế Tôn. Ngài nhân cơ hội này thuyết một bài pháp và dạy các tỳ-kheo như sau: “Này các tỳ-kheo, Ta cho phép an cư cố định trong mùa mưa.”
 
-[Vin. Mv. 3:1](/link?q=vin.mv-3.1){target=_black}
+[Vin. Mv. 3:1](/l?q=vin.mv-3.1){target=_black}
 
 NGƯỜI KỂ MỘT. Mặc dù cái chết của Cấp Cô Độc xảy ra rất lâu sau đó (thời điểm chính xác không rõ), nhưng việc kể lại câu chuyện này ở đây có lẽ là phù hợp nhất.
 
@@ -339,6 +339,6 @@ NGƯỜI KỂ HAI. Sau đó, ngài tiếp tục hướng dẫn ông tương tự
 
 GIỌNG ĐỌC THỨ NHẤT. Khi nghe những lời này, Cấp Cô Độc khóc và nước mắt giàn giụa trên mặt. Tôn giả A-nan bèn hỏi ông: “Ông đang luyến tiếc sao, này gia chủ? Ông đang thối thất sao?”—“Con không luyến tiếc, thưa tôn giả A-nan, con không thối thất. Mặc dù con đã hầu hạ bậc Đạo Sư và các vị tỳ-kheo tu thiền từ rất lâu, nhưng con chưa bao giờ được nghe một bài pháp nào như thế này.”—“Những bài pháp như vậy không được giảng cho hàng cư sĩ áo trắng, này gia chủ, chúng được giảng cho những người đã xuất gia từ bỏ đời sống gia đình.”—“Dù vậy, thưa tôn giả Xá-lợi-phất, xin hãy giảng những bài pháp như vậy cho họ. Có những người với đôi mắt ít vướng bụi trần đang bị uổng phí vì không được nghe những bài pháp như vậy. Một số người trong số họ sẽ đạt được sự liễu ngộ tối hậu về Pháp.”
 
-[MN-143](/link?q=MN-143){target=_black}
+[MN-143](/l?q=MN-143){target=_black}
 
 NGƯỜI KỂ HAI. Cấp Cô Độc qua đời ngay trong ngày hôm đó, và người ta kể rằng ông đã được tái sinh lên cõi trời với tư cách là một bậc Tu-đà-hoàn, do đó ông sẽ không phải trải qua quá bảy lần tái sinh nữa.

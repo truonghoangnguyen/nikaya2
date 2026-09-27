@@ -1,3 +1,7 @@
+---
+tags:
+ - đời sống trước khi đi tu
+---
 # MN 75. KINH MÀGANDIYA
 
 ***(Màgandiya Sutta)***
@@ -152,7 +156,6 @@ khi không bệnh, thời không cần thuốc trị bệnh.
 sung mãn, các dục trưởng dưỡng, các sắc pháp do mắt nhận thức, các sắc pháp này là khả ái, khả hỷ, khả
 lạc, khả ý, liên hệ đến dục, hấp dẫn, các tiếng do tai nhận thức... các hương do mũi nhận thức... các vị do
 lưỡi nhận thức... các xúc đo thân nhận thức, các xúc ấy là khả ái, khả hỷ, khả lạc, khả ý, liên hệ đến dục,
-
 hấp dẫn. Rồi Ta sau một thời gian, sau khi như chơn biết được sự tập khởi, sự diệt trừ, vị ngọt, sự nguy
 hiểm và sự xuất ly của các dục, sau khi đoạn tận dục ái, sau khi trừ diệt nhiệt não của các dục, Ta trú với
 khát ái được đoạn trừ, với nội tâm an tịnh. Rồi Ta thấy các chúng sanh khác chưa xả ly tham ái đối với
@@ -220,9 +223,9 @@ tịnh.
 <!--pg-->
 Rồi Thế Tôn, thời ấy nói lên cảm hứng ngữ như sau:
 
-*Không bệnh, lợi tối thắng,*
-*Niết-bàn, lạc tối thắng,*
-*Bát chánh là độc đạo,*
+*Không bệnh, lợi tối thắng,*\
+*Niết-bàn, lạc tối thắng,*\
+*Bát chánh là độc đạo,*\
 *An ổn và bất tử.*
 
 Khi được nghe vậy, du sĩ Magandiya bạch Thế Tôn:
@@ -230,20 +233,20 @@ Khi được nghe vậy, du sĩ Magandiya bạch Thế Tôn:
 -- Thật hy hữu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Lời này được Tôn giả Gotama
 khéo nói:
 
-*Không bệnh, lợi tối thắng,*
+*Không bệnh, lợi tối thắng,*\
 *Niết-bàn, lạc tối thắng.*
 
 Con cũng vậy, thưa Tôn giả Gotama, con cũng đã được nghe lời này, do các vị Tôn sư, đại Tôn sư các
 du sĩ đã nói:
 
-*Không bệnh, lợi tối thắng,*
+*Không bệnh, lợi tối thắng,*\
 *Niết-bàn, lạc tối thắng.*
 
 Như vậy, thưa Tôn giả Gotama, lời nói này lời nói kia phù hợp nhau.
 
 -- Nhưng này Magandiya, điều mà Ông đã được nghe do các vị Tôn sư, đại Tôn sư các du sĩ đã nói:
 
-*Không bệnh, lợi tối thắng,*
+*Không bệnh, lợi tối thắng,*\
 *Niết-bàn, lạc tối thắng.*
 
 Thế nào là không bệnh? Thế nào là Niết-bàn?
@@ -255,7 +258,6 @@ không bệnh, an lạc, không có bệnh tật gì ở tôi.
 
 -- Này Magandiya, ví như người sanh ra đã mù, không thấy sắc đen hay sắc trắng, không thấy sắc xanh,
 không thấy sắc vàng, không thấy sắc đỏ, không thấy sắc đỏ tía, không thấy cái gì thăng bằng, không
-
 thăng bằng, không thấy các vì sao, không thấy mặt trăng, mặt trời. Người ấy nghe một người có mắt nói
 như sau: "Thật tốt đẹp thay tấm vải trắng, xinh đẹp, không cấu uế, thanh tịnh". Và người ấy tìm tấm vải
 trắng. Rồi có một người khác đánh lừa người ấy với một tấm y thô, dính dầu và đất và nói: "Này bạn,
@@ -273,14 +275,14 @@ mãn: "Thật tốt đẹp thay tấm vải trắng, xinh đẹp, không cấu u
 -- Cũng vậy, này Magandiya, các du sĩ mù lòa, không có mắt, không biết không bệnh, không thấy Niết-
 bàn nhưng nói lên câu kệ này:
 
-*Không bệnh, lợi tối thắng,*
+*Không bệnh, lợi tối thắng,*\
 *Niết-bàn, lạc tối thắng.*
 
 Này Magandiya, câu kệ này trong thời quá khứ đã được các bậc A-la-hán, Chánh Ðẳng Giác nói lên:
 
-*Không bệnh, lợi tối thắng,*
-*Niết-bàn, lạc tối thắng.*
-*Bát chánh là độc đạo,*
+*Không bệnh, lợi tối thắng,*\
+*Niết-bàn, lạc tối thắng.*\
+*Bát chánh là độc đạo,*\
 *An ổn và bất tử.*
 
 Và câu kệ ấy này được dần dần lan tràn đến dân chúng phàm phu. Nhưng này Magandiya, thân này trở

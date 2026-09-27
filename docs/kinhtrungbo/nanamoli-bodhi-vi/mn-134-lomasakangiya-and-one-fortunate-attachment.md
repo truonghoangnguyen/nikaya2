@@ -1,9 +1,9 @@
 # MN 134. Lomasakangiya và Người Có Một Đêm An Lành
 ***(Kinh Lomasakangiyabhaddekaratta)***
 
-1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ Đà Lâm), khu vườn của Anāthapindika (Cấp Cô Độc). Lúc bấy giờ, Đại đức Lomasakangiya đang trú tại xứ Sakya (Thích Ca), ở Kapilavatthu (Ca-tỳ-la-vệ), trong Vườn Nigrodha (Ni-câu-luật). [^1221]
+1\.  Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại Sāvatthī (Xá-vệ), trong Vườn Jeta (Kỳ Đà Lâm), khu vườn của Anāthapindika (Cấp Cô Độc). Lúc bấy giờ, Đại đức Lomasakangiya đang trú tại xứ Sakya (Thích Ca), ở Kapilavatthu (Ca-tỳ-la-vệ), trong Vườn Nigrodha (Ni-câu-luật). [^1221] {#1}
 
-2\.  Rồi, khi đêm đã về khuya, vị trời trẻ Candana, với dung sắc xinh đẹp, tỏa sáng khắp Vườn Nigrodha, đã đến gặp Đại đức Lomasakangiya. Sau khi đến, vị trời trẻ Candana đứng sang một bên và nói với Đại đức:
+2\.  Rồi, khi đêm đã về khuya, vị trời trẻ Candana, với dung sắc xinh đẹp, tỏa sáng khắp Vườn Nigrodha, đã đến gặp Đại đức Lomasakangiya. Sau khi đến, vị trời trẻ Candana đứng sang một bên và nói với Đại đức: {#2}
 
 "Này Tỳ kheo (bhikkhu - nhà sư nam đã thọ giới cụ túc trong Phật giáo Theravada), ngài có nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' (Bhaddekaratta - Người sống trọn vẹn với hiện tại, không nuối tiếc quá khứ, không mơ tưởng tương lai) không?" [200]
 
@@ -19,7 +19,7 @@
 
 "Này Tỳ kheo, có một lần Đức Thế Tôn trú giữa các vị trời ở cõi trời Ba Mươi Ba (Tāvatiṃsa - một trong các cõi trời dục giới trong Phật giáo), trên Phiến đá Hồng Ngọc (Paṇḍukambalasilā - phiến đá nơi Đế Thích thường ngồi) dưới gốc cây Pāricchattaka. [^1222] Tại đó, Đức Thế Tôn đã đọc bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' cho các vị trời ở cõi trời Ba Mươi Ba nghe:
 
-3\.  'Đừng tìm về quá khứ,
+3\.  'Đừng tìm về quá khứ, {#3}
 Đừng ước vọng tương lai;
 Quá khứ đã đoạn tận,
 Tương lai lại chưa đến.
@@ -40,13 +40,13 @@ Xứng gọi: Người biết sống,
 Một đêm thật an lành,
 Bậc Thánh Tĩnh Lặng dạy.'
 
-4\.  "Này Tỳ kheo, tôi nhớ bài kệ về 'Người Có Một Đêm An Lành' như vậy đó. Này Tỳ kheo, hãy học thuộc lòng bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, hãy nắm vững bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, hãy ghi nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' là lợi ích, thuộc về căn bản của đời sống phạm hạnh (brahmacariya - đời sống trong sạch, cao thượng, thường liên quan đến việc tu tập giải thoát)."
+4\.  "Này Tỳ kheo, tôi nhớ bài kệ về 'Người Có Một Đêm An Lành' như vậy đó. Này Tỳ kheo, hãy học thuộc lòng bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, hãy nắm vững bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, hãy ghi nhớ bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành.' Này Tỳ kheo, bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành' là lợi ích, thuộc về căn bản của đời sống phạm hạnh (brahmacariya - đời sống trong sạch, cao thượng, thường liên quan đến việc tu tập giải thoát)." {#4}
 
 Vị trời trẻ Candana nói như vậy, rồi biến mất ngay lập tức.
 
-5\.  Rồi, khi đêm đã mãn, Đại đức Lomasakangiya dọn dẹp chỗ ở, mang y bát, lên đường đi khất thực từng chặng đến Sāvatthī. [201] Cuối cùng, ngài đến Sāvatthī, vào Vườn Jeta, khu vườn của Anāthapiṇ̣ika, đảnh lễ Đức Thế Tôn. Sau khi đảnh lễ, ngài ngồi xuống một bên, kể lại toàn bộ sự việc đã xảy ra cho Đức Thế Tôn nghe, và thưa: "Bạch Thế Tôn, thật lành thay nếu Đức Thế Tôn dạy cho con bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành'."
+5\.  Rồi, khi đêm đã mãn, Đại đức Lomasakangiya dọn dẹp chỗ ở, mang y bát, lên đường đi khất thực từng chặng đến Sāvatthī. [201] Cuối cùng, ngài đến Sāvatthī, vào Vườn Jeta, khu vườn của Anāthapiṇ̣ika, đảnh lễ Đức Thế Tôn. Sau khi đảnh lễ, ngài ngồi xuống một bên, kể lại toàn bộ sự việc đã xảy ra cho Đức Thế Tôn nghe, và thưa: "Bạch Thế Tôn, thật lành thay nếu Đức Thế Tôn dạy cho con bài tóm tắt và giải thích về 'Người Có Một Đêm An Lành'." {#5}
 
-6\.  "Này Tỳ kheo, ông có biết vị trời trẻ đó không?"
+6\.  "Này Tỳ kheo, ông có biết vị trời trẻ đó không?" {#6}
 
 "Bạch Thế Tôn, con không biết."
 

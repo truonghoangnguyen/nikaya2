@@ -1,4 +1,4 @@
-# V: MẬT TÔNG VÀ PHẬT GIÁO ĐÔNG Á
+# V. MẬT TÔNG VÀ PHẬT GIÁO ĐÔNG Á
 
 Tiểu thừa (Hīnayāna) và Đại thừa (Mahāyāna) có thể được mô tả qua các văn bản tiếng Pāli và tiếng Phạn (Sanskrit). Tuy nhiên, các tông phái Phật giáo khác thì không như vậy. Để nghiên cứu chúng, ta cần biết tiếng Tây Tạng và tiếng Trung Quốc, điều này vượt quá thẩm quyền của ngành Ấn Độ học (Indology). Do đó, trong phần này, chúng chỉ được phác thảo dựa trên các tài liệu thứ cấp và được trình bày dưới dạng lý tưởng hóa.
 

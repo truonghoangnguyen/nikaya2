@@ -1,4 +1,4 @@
-# VIII LITERATURE
+# VIII. LITERATURE
 
 ### 1. Abbreviations and Text Editions
 

@@ -3,11 +3,11 @@
 
 [230] 1. Như vầy tôi nghe. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), vườn ông Cấp Cô Độc (Anāthapiṇḍika), rừng cây Kỳ-đà (Jeta). Tại đó, Đức Thế Tôn gọi các tỳ kheo (bhikkhus - các nhà sư nam đã thọ giới cụ túc): "Này các tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn nói thế này:
 
-2\. "Này các tỳ kheo, Ta sẽ giảng cho các thầy bài giảng về sự không xung đột. Hãy lắng nghe và chú tâm kỹ vào những gì Ta sẽ nói." - "Vâng, bạch Thế Tôn," các tỳ kheo vâng đáp. Đức Thế Tôn nói thế này:
+2\. "Này các tỳ kheo, Ta sẽ giảng cho các thầy bài giảng về sự không xung đột. Hãy lắng nghe và chú tâm kỹ vào những gì Ta sẽ nói." - "Vâng, bạch Thế Tôn," các tỳ kheo vâng đáp. Đức Thế Tôn nói thế này: {#2}
 
-3\. "Không nên theo đuổi thú vui nhục dục (sensual pleasure - niềm vui thích phát sinh từ các đối tượng của giác quan), vốn hạ liệt, tầm thường, thô thiển, không cao thượng, và không lợi ích; và không nên theo đuổi khổ hạnh ép xác (self-mortification - sự hành hạ bản thân bằng các phương pháp khổ hạnh), vốn đau khổ, không cao thượng, và không lợi ích. Con đường Trung đạo (Middle Way - con đường tránh hai cực đoan: hưởng thụ dục lạc và khổ hạnh ép xác) do Như Lai (Tathāgata - bậc đã đến như vậy/đi như vậy, một danh hiệu của Đức Phật) khám phá ra tránh cả hai cực đoan này; mang lại tầm nhìn, mang lại tri kiến, nó dẫn đến sự an tịnh, đến thắng trí (direct knowledge - sự hiểu biết trực tiếp, không qua suy luận), đến giác ngộ (enlightenment - sự tỉnh thức hoàn toàn), đến Niết-bàn (Nibbāna - trạng thái chấm dứt khổ đau, giải thoát cuối cùng). [^1257] Cần phải biết thế nào là tán dương và thế nào là chê bai, và khi biết cả hai, không nên tán dương cũng không nên chê bai mà chỉ nên giảng dạy Pháp (Dhamma - lời dạy của Đức Phật, chân lý). Cần phải biết cách định nghĩa về lạc (pleasure - cảm giác dễ chịu, hạnh phúc), và khi biết điều đó, nên theo đuổi lạc nội tâm. Không nên nói lời kín đáo (covert speech - lời nói bóng gió, ám chỉ), và không nên nói lời gay gắt trực diện (overt sharp speech - lời nói thẳng thắn nhưng mang tính chỉ trích, làm tổn thương). Nên nói chậm rãi, không vội vàng. Không nên khăng khăng dùng ngôn ngữ địa phương, và không nên bác bỏ cách dùng thông thường. Đây là tóm tắt của bài giảng về sự không xung đột.
+3\. "Không nên theo đuổi thú vui nhục dục (sensual pleasure - niềm vui thích phát sinh từ các đối tượng của giác quan), vốn hạ liệt, tầm thường, thô thiển, không cao thượng, và không lợi ích; và không nên theo đuổi khổ hạnh ép xác (self-mortification - sự hành hạ bản thân bằng các phương pháp khổ hạnh), vốn đau khổ, không cao thượng, và không lợi ích. Con đường Trung đạo (Middle Way - con đường tránh hai cực đoan: hưởng thụ dục lạc và khổ hạnh ép xác) do Như Lai (Tathāgata - bậc đã đến như vậy/đi như vậy, một danh hiệu của Đức Phật) khám phá ra tránh cả hai cực đoan này; mang lại tầm nhìn, mang lại tri kiến, nó dẫn đến sự an tịnh, đến thắng trí (direct knowledge - sự hiểu biết trực tiếp, không qua suy luận), đến giác ngộ (enlightenment - sự tỉnh thức hoàn toàn), đến Niết-bàn (Nibbāna - trạng thái chấm dứt khổ đau, giải thoát cuối cùng). [^1257] Cần phải biết thế nào là tán dương và thế nào là chê bai, và khi biết cả hai, không nên tán dương cũng không nên chê bai mà chỉ nên giảng dạy Pháp (Dhamma - lời dạy của Đức Phật, chân lý). Cần phải biết cách định nghĩa về lạc (pleasure - cảm giác dễ chịu, hạnh phúc), và khi biết điều đó, nên theo đuổi lạc nội tâm. Không nên nói lời kín đáo (covert speech - lời nói bóng gió, ám chỉ), và không nên nói lời gay gắt trực diện (overt sharp speech - lời nói thẳng thắn nhưng mang tính chỉ trích, làm tổn thương). Nên nói chậm rãi, không vội vàng. Không nên khăng khăng dùng ngôn ngữ địa phương, và không nên bác bỏ cách dùng thông thường. Đây là tóm tắt của bài giảng về sự không xung đột. {#3}
 
-4\. "'Không nên theo đuổi thú vui nhục dục, vốn hạ liệt, tầm thường, thô thiển, không cao thượng, và không lợi ích; và không nên theo đuổi khổ hạnh ép xác, vốn đau khổ, không cao thượng, và không lợi ích.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu?
+4\. "'Không nên theo đuổi thú vui nhục dục, vốn hạ liệt, tầm thường, thô thiển, không cao thượng, và không lợi ích; và không nên theo đuổi khổ hạnh ép xác, vốn đau khổ, không cao thượng, và không lợi ích.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? {#4}
 
 "Việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc [^1258] - hạ liệt, tầm thường, thô thiển, không cao thượng, và không lợi ích - là một trạng thái bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não (fever - sự thiêu đốt, bức bối do phiền não), và đó là con đường sai lầm (wrong way - micchāpaṭipadā). [^1259] [231] Sự từ bỏ việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc - hạ liệt, tầm thường, thô thiển, không cao thượng, và không lợi ích - là một trạng thái không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường đúng đắn (right way - sammāpaṭipadā).
 
@@ -15,17 +15,17 @@
 
 "Vì vậy, lời ấy được nói dựa vào điều này: 'Không nên theo đuổi thú vui nhục dục, vốn hạ liệt, tầm thường, thô thiển, không cao thượng, và không lợi ích; và không nên theo đuổi khổ hạnh ép xác, vốn đau khổ, không cao thượng, và không lợi ích.'
 
-5\. "'Con đường Trung đạo do Như Lai khám phá ra tránh cả hai cực đoan này; mang lại tầm nhìn, mang lại tri kiến, nó dẫn đến sự an tịnh, đến thắng trí, đến giác ngộ, đến Niết-bàn.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? Đó chính là Tám Bước Thiện (Bát Chánh Đạo) (Noble Eightfold Path - con đường tám yếu tố dẫn đến giải thoát) này; nghĩa là, chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Vì vậy, lời ấy được nói dựa vào điều này: 'Con đường Trung đạo do Như Lai khám phá ra tránh cả hai cực đoan này... đến Niết-bàn.'
+5\. "'Con đường Trung đạo do Như Lai khám phá ra tránh cả hai cực đoan này; mang lại tầm nhìn, mang lại tri kiến, nó dẫn đến sự an tịnh, đến thắng trí, đến giác ngộ, đến Niết-bàn.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? Đó chính là Tám Bước Thiện (Bát Chánh Đạo) (Noble Eightfold Path - con đường tám yếu tố dẫn đến giải thoát) này; nghĩa là, chánh kiến, chánh tư duy, chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, và chánh định. Vì vậy, lời ấy được nói dựa vào điều này: 'Con đường Trung đạo do Như Lai khám phá ra tránh cả hai cực đoan này... đến Niết-bàn.' {#5}
 
-6\. "'Cần phải biết thế nào là tán dương và thế nào là chê bai, và khi biết cả hai, không nên tán dương cũng không nên chê bai mà chỉ nên giảng dạy Pháp.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu?
+6\. "'Cần phải biết thế nào là tán dương và thế nào là chê bai, và khi biết cả hai, không nên tán dương cũng không nên chê bai mà chỉ nên giảng dạy Pháp.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? {#6}
 
-7\. "Làm thế nào, này các tỳ kheo, lại có sự tán dương và chê bai, và không chỉ giảng dạy Pháp? Khi một người nói: 'Tất cả những ai tham gia vào việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc - hạ liệt... và không lợi ích - đều bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và họ đã đi vào con đường sai lầm,' người ấy như vậy là chê bai một số người. Khi một người nói: 'Tất cả những ai từ bỏ việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc - hạ liệt... và không lợi ích - đều không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và họ đã đi vào con đường đúng đắn,' người ấy như vậy là tán dương một số người.
+7\. "Làm thế nào, này các tỳ kheo, lại có sự tán dương và chê bai, và không chỉ giảng dạy Pháp? Khi một người nói: 'Tất cả những ai tham gia vào việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc - hạ liệt... và không lợi ích - đều bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và họ đã đi vào con đường sai lầm,' người ấy như vậy là chê bai một số người. Khi một người nói: 'Tất cả những ai từ bỏ việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc - hạ liệt... và không lợi ích - đều không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và họ đã đi vào con đường đúng đắn,' người ấy như vậy là tán dương một số người. {#7}
 
 "Khi một người nói: 'Tất cả những ai tham gia vào việc theo đuổi khổ hạnh ép xác - đau khổ, không cao thượng, và không lợi ích - [232] đều bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và họ đã đi vào con đường sai lầm,' người ấy như vậy là chê bai một số người. Khi một người nói: 'Tất cả những ai từ bỏ việc theo đuổi khổ hạnh ép xác - đau khổ, không cao thượng, và không lợi ích - đều không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và họ đã đi vào con đường đúng đắn,' người ấy như vậy là tán dương một số người.
 
 "Khi một người nói: 'Tất cả những ai chưa đoạn trừ kiết sử hữu (fetter of being - bhavasaṃyojana, sự trói buộc vào sự tồn tại, vào các cõi sống) [^1260] đều bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và họ đã đi vào con đường sai lầm,' người ấy như vậy là chê bai một số người. Khi một người nói: 'Tất cả những ai đã đoạn trừ kiết sử hữu đều không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và họ đã đi vào con đường đúng đắn,' người ấy như vậy là tán dương một số người. Đây là cách dẫn đến sự tán dương và chê bai, và không chỉ giảng dạy Pháp.
 
-8\. "Và làm thế nào, này các tỳ kheo, để không có sự tán dương cũng không có sự chê bai mà chỉ giảng dạy Pháp? Khi một người không nói: 'Tất cả những ai tham gia vào việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc... đã đi vào con đường sai lầm,' mà thay vào đó nói: 'Việc theo đuổi là một trạng thái bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường sai lầm,' thì người ấy chỉ giảng dạy Pháp. [^1261] Khi một người không nói: 'Tất cả những ai từ bỏ việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc... đã đi vào con đường đúng đắn,' mà thay vào đó nói: 'Sự từ bỏ là một trạng thái không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường đúng đắn,' thì người ấy chỉ giảng dạy Pháp.
+8\. "Và làm thế nào, này các tỳ kheo, để không có sự tán dương cũng không có sự chê bai mà chỉ giảng dạy Pháp? Khi một người không nói: 'Tất cả những ai tham gia vào việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc... đã đi vào con đường sai lầm,' mà thay vào đó nói: 'Việc theo đuổi là một trạng thái bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường sai lầm,' thì người ấy chỉ giảng dạy Pháp. [^1261] Khi một người không nói: 'Tất cả những ai từ bỏ việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc... đã đi vào con đường đúng đắn,' mà thay vào đó nói: 'Sự từ bỏ là một trạng thái không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường đúng đắn,' thì người ấy chỉ giảng dạy Pháp. {#8}
 
 "Khi một người không nói: 'Tất cả những ai tham gia vào việc theo đuổi khổ hạnh ép xác... đã đi vào con đường sai lầm,' mà thay vào đó nói: 'Việc theo đuổi là một trạng thái bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường sai lầm,' thì người ấy chỉ giảng dạy Pháp. Khi một người không nói: 'Tất cả những ai từ bỏ việc theo đuổi khổ hạnh ép xác... đã đi vào con đường đúng đắn,' mà thay vào đó nói: 'Sự từ bỏ là một trạng thái không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường đúng đắn,' thì người ấy chỉ giảng dạy Pháp.
 
@@ -35,7 +35,7 @@ Khi một người không nói: 'Tất cả những ai đã đoạn trừ kiết
 
 "Vì vậy, lời ấy được nói dựa vào điều này: 'Cần phải biết thế nào là tán dương và thế nào là chê bai, và khi biết cả hai, không nên tán dương cũng không nên chê bai mà chỉ nên giảng dạy Pháp.'
 
-9\. "'Cần phải biết cách định nghĩa về lạc, và khi biết điều đó, nên theo đuổi lạc nội tâm.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu?
+9\. "'Cần phải biết cách định nghĩa về lạc, và khi biết điều đó, nên theo đuổi lạc nội tâm.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? {#9}
 
 "Này các tỳ kheo, có năm sợi dây dục lạc (five cords of sensual pleasure - pañca kāmaguṇā) này. Năm loại nào? Hình sắc nhận biết qua mắt... âm thanh nhận biết qua tai... mùi hương nhận biết qua mũi... vị nếm nhận biết qua lưỡi... vật xúc chạm nhận biết qua thân, những thứ được mong muốn, ưa thích, dễ chịu, đáng yêu, liên quan đến ham muốn dục lạc và kích thích lòng ham muốn. Đây là năm sợi dây dục lạc. Nay, niềm vui và sự thích thú phát sinh phụ thuộc vào năm sợi dây dục lạc này được gọi là dục lạc - một niềm vui ô uế, một niềm vui thô thiển, một niềm vui không cao thượng. Ta nói về loại lạc này rằng không nên theo đuổi, không nên phát triển, không nên vun bồi, và nên sợ hãi.
 
@@ -43,7 +43,7 @@ Khi một người không nói: 'Tất cả những ai đã đoạn trừ kiết
 
 "Vì vậy, lời ấy được nói dựa vào điều này: 'Cần phải biết cách định nghĩa về lạc, và khi biết điều đó, nên theo đuổi lạc nội tâm.'
 
-10\. "'Không nên nói lời kín đáo, và không nên nói lời gay gắt trực diện.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu?
+10\. "'Không nên nói lời kín đáo, và không nên nói lời gay gắt trực diện.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? {#10}
 
 "Ở đây, này các tỳ kheo, khi biết lời nói kín đáo là không đúng sự thật, không chính xác, và không lợi ích, người ấy không nên nói trong bất kỳ trường hợp nào. Khi biết lời nói kín đáo là đúng sự thật, chính xác, nhưng không lợi ích, người ấy nên cố gắng không nói. Nhưng khi biết lời nói kín đáo là đúng sự thật, chính xác, và có lợi ích, người ấy có thể nói, biết đúng thời điểm để nói.
 
@@ -51,7 +51,7 @@ Khi một người không nói: 'Tất cả những ai đã đoạn trừ kiết
 
 "Vì vậy, lời ấy được nói dựa vào điều này: 'Không nên nói lời kín đáo, và không nên nói lời gay gắt trực diện.'
 
-11\. "'Nên nói chậm rãi, không vội vàng.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu?
+11\. "'Nên nói chậm rãi, không vội vàng.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? {#11}
 
 "Ở đây, này các tỳ kheo, khi một người nói vội vàng, thân người ấy mệt mỏi và tâm trở nên dao động, giọng nói căng thẳng và cổ họng trở nên khàn đặc, và lời nói của người nói vội vàng thì không rõ ràng và khó hiểu.
 
@@ -59,7 +59,7 @@ Khi một người không nói: 'Tất cả những ai đã đoạn trừ kiết
 
 "Vì vậy, lời ấy được nói dựa vào điều này: 'Nên nói chậm rãi, không vội vàng.'
 
-12\. "'Không nên khăng khăng dùng ngôn ngữ địa phương, và không nên bác bỏ cách dùng thông thường.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu?
+12\. "'Không nên khăng khăng dùng ngôn ngữ địa phương, và không nên bác bỏ cách dùng thông thường.' Lời ấy đã được nói. Nhưng lời ấy được nói dựa vào đâu? {#12}
 
 "Làm thế nào, này các tỳ kheo, lại có sự khăng khăng dùng ngôn ngữ địa phương và bác bỏ cách dùng thông thường? Ở đây, này các tỳ kheo, ở các địa phương khác nhau, người ta gọi cùng một vật là 'đĩa' [pāti], [235] 'bát' [patta], 'đồ đựng' [vittha], 'chén' [sarāva], 'chảo' [dhāropa], 'nồi' [poṇa], 'cốc' [haṇa] hay 'chậu' [pisīla]. Vì vậy, dù người ta gọi nó là gì ở địa phương này hay địa phương khác, người ấy nói theo cách đó, khăng khăng bám chấp [vào cách nói đó] và quả quyết: 'Chỉ có cái này đúng; cái khác là sai.' Đây là cách dẫn đến sự khăng khăng dùng ngôn ngữ địa phương và bác bỏ cách dùng thông thường. [^1262]
 
@@ -67,7 +67,7 @@ Khi một người không nói: 'Tất cả những ai đã đoạn trừ kiết
 
 "Vì vậy, lời ấy được nói dựa vào điều này: 'Không nên khăng khăng dùng ngôn ngữ địa phương, và không nên bác bỏ cách dùng thông thường.'
 
-13\. "Ở đây, này các tỳ kheo, việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc - hạ liệt... và không lợi ích - là một trạng thái bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường sai lầm. Do đó, đây là một trạng thái có xung đột.
+13\. "Ở đây, này các tỳ kheo, việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc - hạ liệt... và không lợi ích - là một trạng thái bị bao vây bởi khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường sai lầm. Do đó, đây là một trạng thái có xung đột. {#13}
 
 "Ở đây, này các tỳ kheo, sự từ bỏ việc theo đuổi sự hưởng thụ niềm vui gắn liền với các ham muốn dục lạc - hạ liệt... và không lợi ích - là một trạng thái không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường đúng đắn. Do đó, đây là một trạng thái không có xung đột.
 
@@ -105,7 +105,7 @@ Khi một người không nói: 'Tất cả những ai đã đoạn trừ kiết
 
 "Ở đây, này các tỳ kheo, sự không khăng khăng dùng ngôn ngữ địa phương và không bác bỏ cách dùng thông thường là một trạng thái không có khổ đau, phiền muộn, tuyệt vọng và nhiệt não, và đó là con đường đúng đắn. Do đó, đây là một trạng thái không có xung đột.
 
-14\. "Vì vậy, này các tỳ kheo, các thầy nên tự rèn luyện như sau: 'Chúng ta sẽ biết trạng thái có xung đột và chúng ta sẽ biết trạng thái không có xung đột, và khi biết được những điều này, chúng ta sẽ đi vào con đường không xung đột.' Này các tỳ kheo, Subhūti (Tu-bồ-đề) là một thiện nam tử đã đi vào con đường không xung đột."[^1263]
+14\. "Vì vậy, này các tỳ kheo, các thầy nên tự rèn luyện như sau: 'Chúng ta sẽ biết trạng thái có xung đột và chúng ta sẽ biết trạng thái không có xung đột, và khi biết được những điều này, chúng ta sẽ đi vào con đường không xung đột.' Này các tỳ kheo, Subhūti (Tu-bồ-đề) là một thiện nam tử đã đi vào con đường không xung đột."[^1263] {#14}
 
 Đó là những gì Đức Thế Tôn đã nói. Các tỳ kheo hoan hỷ và tín thọ lời dạy của Đức Thế Tôn.
 

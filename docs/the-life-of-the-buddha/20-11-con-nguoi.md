@@ -11,7 +11,7 @@ GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời Thế Tôn trú 
 > Điều chưa từng tồn tại\
 > Nay và sau cũng không [1](/the-life-of-the-buddha/notes/11#1){.note}
 
-[Ud. 6:3](/link?q=ud-6.3){target=_black}
+[Ud. 6:3](/l?q=ud-6.3){target=_black}
 
 Lại một lần nữa, Thế Tôn ngồi quán xét lại sự đoạn tận các hý luận (sự đa dạng hóa) [2](/the-life-of-the-buddha/notes/11#2){.note} trong chính mình. Hiểu rõ ý nghĩa điều này, ngài bèn thốt lên bài kệ cảm hứng sau:
 
@@ -20,24 +20,24 @@ Lại một lần nữa, Thế Tôn ngồi quán xét lại sự đoạn tận c
 > Sống hiền triết dứt ái\
 > Đời, chư thiên không khinh
 
-[Ud. 7:7](/link?q=ud-7.7){target=_black}
+[Ud. 7:7](/l?q=ud-7.7){target=_black}
 
 "Này các Tỳ-kheo, có Bốn Sự thật Cao quý (Tứ Diệu Đế) sau đây: sự thật cao quý về khổ, sự thật cao quý về nguyên nhân của khổ, sự thật cao quý về sự diệt khổ, và sự thật cao quý về con đường dẫn đến sự diệt khổ. Một bậc Như Lai, Ứng cúng, Chánh đẳng Chánh giác được gọi như vậy là nhờ vào việc ngài đã khám phá ra Bốn Sự thật Cao quý này đúng như thật.
 
-[S. 56:23](/link?q=SN-56.23){target=_black}
+[S. 56:23](/l?q=SN-56.23){target=_black}
 
 NGƯỜI KỂ HAI.
 Đức Phật kể tên sáu vị Phật đã ra đời trước ngài.
 
 GIỌNG ĐỌC THỨ NHẤT. “Này các Tỳ-kheo, cách đây chín mươi mốt đại kiếp, Thế Tôn Vipassī (Tỳ-bà-thi), bậc Ứng cúng, Chánh đẳng Chánh giác, đã xuất hiện trên thế gian. Cách đây ba mươi mốt đại kiếp, Thế Tôn Sikhī (Thi-khí), bậc Ứng cúng, Chánh đẳng Chánh giác, đã xuất hiện trên thế gian. Cũng trong đại kiếp thứ ba mươi mốt ấy, Thế Tôn Vessabhū (Tỳ-xá-phù), bậc Ứng cúng, Chánh đẳng Chánh giác, đã xuất hiện trên thế gian. Trong hiền kiếp này, Thế Tôn Kakusandha (Câu-lưu-tôn), bậc Ứng cúng, Chánh đẳng Chánh giác, đã xuất hiện trên thế gian. Cũng trong hiền kiếp này, Thế Tôn Koṇāgamana (Câu-na-hàm-mâu-ni), bậc Ứng cúng, Chánh đẳng Chánh giác, đã xuất hiện trên thế gian. Cũng trong hiền kiếp này, Thế Tôn Kassapa (Ca-diếp), bậc Ứng cúng, Chánh đẳng Chánh giác, đã xuất hiện trên thế gian. Và nay, cũng trong hiền kiếp này, ta là bậc Ứng cúng, Chánh đẳng Chánh giác, đã xuất hiện trên thế gian.”
 
-[D. 14](/link?q=dn-14){target=_black} (đã rút gọn)
+[D. 14](/l?q=dn-14){target=_black} (đã rút gọn)
 
 NGƯỜI KỂ MỘT. Sau khi miêu tả các vị Phật khác, đây là những gì ngài nói về chính mình.
 
 GIỌNG ĐỌC THỨ NHẤT. “Ta xuất thân từ dòng dõi Sát-đế-lỵ, thuộc tầng lớp chiến binh quý tộc. Ta sinh ra trong một gia đình Sát-đế-lỵ. Ta thuộc tộc Gotama (Cù-đàm). Tuổi thọ của ta rất ngắn, thật ngắn ngủi và sớm kết thúc; ngày nay ai sống lâu thì được một trăm năm hoặc hơn một chút. Ta giác ngộ dưới gốc cây bàng assattha (Bồ-đề), đó là Cây Giác ngộ của ta. Hai đệ tử tối thắng của ta là Sāriputta (Xá-lợi-phất) và Moggallāna (Mục-kiền-liên). Ta đã tổ chức một đại hội gồm một ngàn hai trăm năm mươi đệ tử, tất cả đều là bậc A-la-hán. Vị thị giả, thị giả chính của ta là Tỳ-kheo Ānanda (A-nan). Cha ta là Vua Suddhodana (Tịnh Phạn). Mẹ sinh ra ta là Hoàng hậu Māyā (Ma-da). Kinh đô là thành Kapilavatthu (Ca-tỳ-la-vệ).”
 
-[D. 14](/link?q=dn-14){target=_black} (đã rút gọn)
+[D. 14](/l?q=dn-14){target=_black} (đã rút gọn)
 
 Điều này đã được Thế Tôn tuyên thuyết, được bậc Ứng cúng tuyên thuyết, tôi nghe như vầy:
 
@@ -45,11 +45,11 @@ GIỌNG ĐỌC THỨ NHẤT. “Ta xuất thân từ dòng dõi Sát-đế-lỵ,
 
 “Trong thế giới với chư thiên... bất cứ điều gì có thể được nhìn thấy, nghe thấy, cảm nhận (qua mũi, lưỡi hoặc thân), và nhận thức, hoặc đạt tới, tìm kiếm và bao quát bởi tâm trí, đều đã được Như Lai khám phá: đó là lý do vì sao ngài được gọi là Như Lai (Tathāgata - Người đã đến như vậy). Tất cả những gì ngài nói, tất cả những gì ngài thốt ra, từ đêm ngài chứng ngộ vô thượng chánh đẳng chánh giác cho đến đêm ngài nhập Vô dư y Niết-bàn, yếu tố Niết-bàn không còn tàn dư của chấp thủ, đều là chân thật (*tatha*), không hề khác biệt: đó là lý do vì sao ngài được gọi là Như Lai. Ngài nói thế nào (*tathā*), ngài làm thế ấy; ngài làm thế nào (*tathā*), ngài nói thế ấy: đó là lý do vì sao ngài được gọi là Như Lai. Trong thế giới với chư thiên... Như Lai là Bậc Siêu việt Không ai sánh bằng, Bậc Thấy tất cả và Bậc Nắm giữ Quyền năng: đó là lý do vì sao ngài được gọi là Như Lai.”
 
-[Iti. 112](/link?q=iti-112){target=_black}; [A. 4:23](/link?q=AN-4.23){target=_black}
+[Iti. 112](/l?q=iti-112){target=_black}; [A. 4:23](/l?q=AN-4.23){target=_black}
 
 “Bất cứ điều gì trong thế giới này với chư thiên... có thể được nhìn thấy, nghe thấy, cảm nhận và nhận thức, hoặc đạt tới, tìm kiếm và bao quát bởi tâm trí, ta đều biết điều đó, ta đã trực tiếp thấu hiểu điều đó. Nay mặc dù Như Lai nhận biết điều đó, ngài vẫn không dùng nó làm cơ sở (để sinh tâm kiêu mạn). Nếu ta nói về tất cả những điều đó rằng ta không biết, thì đó là lời nói dối của ta; và nếu ta nói rằng ta vừa biết lại vừa không biết, thì cũng vậy; và nếu ta nói rằng ta không biết cũng không phải không biết, thì điều đó là không chính xác đối với ta. Vì vậy, sau khi thấy những gì có thể thấy, Như Lai không khởi sinh lòng kiêu mạn [3](/the-life-of-the-buddha/notes/11#3){.note} về những gì được thấy, ngài không khởi sinh lòng kiêu mạn về những gì không được thấy, ngài không khởi sinh lòng kiêu mạn về những gì có thể được thấy, ngài không khởi sinh lòng kiêu mạn về bất kỳ người thấy nào. Sau khi nghe những gì có thể nghe... Sau khi cảm nhận những gì có thể cảm nhận... Sau khi nhận thức những gì có thể nhận thức... ngài không khởi sinh lòng kiêu mạn về bất kỳ người nhận thức nào. Một bậc Như Lai luôn giữ tâm bình lặng trước những gì được thấy, nghe, cảm nhận hoặc nhận thức, ngài vẫn luôn giữ sự bình lặng như vậy; và ta tuyên bố rằng, không có sự bình lặng nào khác vượt xa hay cao viễn hơn sự bình lặng ấy.”
 
-[A. 4:24](/link?q=AN-4.24){target=_black}
+[A. 4:24](/l?q=AN-4.24){target=_black}
 
 Vua Pasenadi (Ba-tư-nặc) nước Kosala (Kiều-tát-la) thưa hỏi Thế Tôn: "Bạch Thế Tôn, con có nghe điều này: 'Sa-môn Gotama nói rằng: "Không có sa-môn hay bà-la-môn nào có thể tự nhận mình có đầy đủ kiến thức và tầm nhìn của một bậc toàn tri và toàn kiến: điều đó là không thể."' Bạch Thế Tôn, những người nói điều đó, có phải họ đang lặp lại những gì Thế Tôn đã nói và không xuyên tạc Thế Tôn bằng những điều không đúng sự thật, và liệu họ có diễn đạt các quan điểm phù hợp với Giáo pháp mà không có bất kỳ hệ lụy hợp lý nào từ những khẳng định của họ tạo cớ cho người khác chỉ trích không?"
 
@@ -61,7 +61,7 @@ Vua Pasenadi (Ba-tư-nặc) nước Kosala (Kiều-tát-la) thưa hỏi Thế T�
 
 "Những gì Thế Tôn nói quả thật hợp lý."
 
-[MN-90](/link?q=MN-90){target=_black}
+[MN-90](/l?q=MN-90){target=_black}
 
 "Một vị Như Lai có mười sức mạnh của Như Lai, nhờ sở hữu những sức mạnh này mà ngài khẳng định vị trí dẫn đầu giữa hội chúng, cất tiếng rống của sư tử trong các pháp hội, và chuyển Bánh xe Phạm hạnh vô song. Mười sức mạnh đó là gì?"
 
@@ -85,23 +85,23 @@ Vua Pasenadi (Ba-tư-nặc) nước Kosala (Kiều-tát-la) thưa hỏi Thế T�
 
 “Nhờ tự mình chứng ngộ bằng trí tuệ trực tiếp, ngay trong hiện tại, ngài bước vào và an trú trong sự giải thoát của tâm và sự giải thoát bằng trí tuệ, hoàn toàn vô lậu vì đã đoạn tận các lậu hoặc.”
 
-[MN-12](/link?q=MN-12){target=_black}; cf. [A. 10:21](/link?q=AN-10.21){target=_black}
+[MN-12](/l?q=MN-12){target=_black}; cf. [A. 10:21](/l?q=AN-10.21){target=_black}
 
 “Một vị Như Lai có bốn đức vô úy (sự can đảm) [4](/the-life-of-the-buddha/notes/11#4){.note} này, nhờ sở hữu chúng mà ngài khẳng định vị trí dẫn đầu giữa hội chúng...:
 
 “Ta không thấy có dấu hiệu nào cho thấy bất kỳ sa-môn, bà-la-môn, chư thiên, Ma vương hay Phạm thiên nào trên thế gian có thể cáo buộc ta một cách chính đáng rằng: ‘Ông tự xưng là bậc chánh đẳng chánh giác, nhưng những điều này ông vẫn chưa giác ngộ,’ hoặc rằng: ‘Ông tự xưng là người đã đoạn tận các lậu hoặc, nhưng những lậu hoặc này vẫn chưa được đoạn tận trong ông,’ hoặc rằng: ‘Những điều mà ông nói là chướng ngại thì thực ra không hề gây chướng ngại cho người thực hành chúng,’ hoặc rằng: ‘Khi Giáo pháp của ông được giảng dạy vì lợi ích của ai đó, nó không dẫn đến sự đoạn tận hoàn toàn khổ đau cho người thực hành theo.’ Không thấy có dấu hiệu nào như vậy, ta sống an ổn, không lo âu và không sợ hãi.”
 
-[MN-12](/link?q=MN-12){target=_black}
+[MN-12](/l?q=MN-12){target=_black}
 
 Điều này đã được Thế Tôn tuyên thuyết, được bậc Ứng cúng tuyên thuyết, tôi nghe như vầy:
 
 “Có hai suy nghĩ thường xuất hiện trong một vị Như Lai, bậc Ứng cúng, Chánh đẳng Chánh giác: Ý nghĩ về sự vô hại và ý nghĩ về sự viễn ly. Một vị Như Lai tìm thấy niềm vui và sự hỷ lạc trong việc không làm tổn hại, và do đó ngài thường có suy nghĩ: ‘Bằng hành vi như vậy, ta không làm tổn hại một ai, dù là kẻ nhút nhát hay người bạo dạn.’ Một vị Như Lai tìm thấy niềm vui và sự hỷ lạc trong sự viễn ly, và do đó ngài thường có suy nghĩ: ‘Những gì bất thiện đều đã được đoạn tận.’”
 
-[Iti. 38](/link?q=iti-38){target=_black}
+[Iti. 38](/l?q=iti-38){target=_black}
 
 “Này các Tỳ-kheo, đừng sợ phước báu. Phước báu là một từ chỉ sự an lạc, chỉ những gì được mong mỏi, được khát khao, sự dễ chịu và sự yêu thương. Ta đã có trải nghiệm trực tiếp trong một thời gian dài về những gì được mong mỏi, khát khao, dễ chịu và yêu thương, đó chính là sự chín muồi của phước báu được tích lũy trong một khoảng thời gian dài. Sau khi tu tập thiền tâm từ trong suốt bảy năm, ta đã không trở lại thế giới này trong suốt bảy đại kiếp vũ trụ co rút và giãn nở. Trong kỷ nguyên khi thế giới co rút lại, ta đã đi đến cõi Trời Phạm thiên Quang âm. Trong kỷ nguyên khi thế giới giãn nở ra, ta được tái sinh vào một lâu đài Phạm thiên trống rỗng. Ở đó, ta là một vị Phạm thiên, một vị Đại Phạm thiên, một Bậc Siêu việt Không ai sánh bằng, Bậc Thấy tất cả, Bậc Nắm giữ Quyền năng. Ta đã làm Đế Thích, Chúa tể của chư thiên ba mươi sáu lần. Ta đã làm vua hàng trăm lần với tư cách là một vị Chuyển luân Thánh vương cai trị bằng chánh pháp, chiến thắng ở cả bốn phương, vương quốc của ta luôn ổn định và sở hữu bảy báu vật. Huống hồ gì là làm những vị vua nhỏ ở địa phương? Ta đã nghĩ: ‘Đây là quả báo của hành động nào của ta, là sự chín muồi của nghiệp nào, mà nay ta lại hùng mạnh và có quyền năng đến thế?’ Rồi ta chợt nhận ra: ‘Đây là quả báo, là sự chín muồi từ ba loại hành động của ta mà nay ta lại hùng mạnh và có quyền năng đến thế, đó là: bố thí, tự chủ, và thu thúc.’”
 
-[Iti. 22](/link?q=iti-22){target=_black}
+[Iti. 22](/l?q=iti-22){target=_black}
 
 Một thời Thế Tôn đang đi trên con đường giữa Ukkaṭṭhā và Setavyā; và bà-la-môn Doṇa cũng đang đi trên con đường đó. Ông ta nhìn thấy trong dấu chân của Thế Tôn có hình bánh xe với ngàn căm, có đủ vành và trục. Rồi ông nghĩ: “Thật kỳ diệu, thật phi thường! Chắc chắn đây không thể là dấu chân của một con người.”
 
@@ -125,7 +125,7 @@ Sau đó, Thế Tôn rời khỏi con đường và ngồi xuống dưới gốc
 
 “Này bà-la-môn, những lậu hoặc mà nếu chưa đoạn tận, ta có thể trở thành một vị thần, một thiên thần, một dạ-xoa hay một con người, thì nay ta đã đoạn tận chúng, cắt đứt tận gốc rễ, làm cho như gốc cây cọ, bị tiêu diệt và không bao giờ khởi sinh trong tương lai nữa. Giống như một bông sen xanh, đỏ hoặc trắng sinh ra trong nước, lớn lên trong nước và vươn lên khỏi mặt nước mà không bị nước làm ướt, cũng vậy, ta sinh ra trong thế gian, lớn lên trong thế gian nhưng đã vượt lên trên thế gian, và ta sống mà không bị thế gian vấy bẩn. Hãy nhớ về ta như một bậc đã giác ngộ.”
 
-[A. 4:36](/link?q=AN-4.36){target=_black}
+[A. 4:36](/l?q=AN-4.36){target=_black}
 
 Lại một lần khác, Thế Tôn đang du hành trong vùng đất của người Videha cùng với một đại chúng tỳ-kheo, gồm năm trăm vị. Lúc bấy giờ, vị bà-la-môn Brahmāyu đang sống tại Mithilā. Ông đã già, tuổi cao, gánh nặng năm tháng, đã đi đến chặng đường cuối của cuộc đời; ông đang ở tuổi một trăm hai mươi. Ông là một chuyên gia về ba bộ kinh Vệ-đà, ông nắm rõ văn bản và ngữ cảnh của các kinh Itihāsa, tài liệu thẩm quyền thứ năm của giới bà-la-môn, cùng với các bài cầu nguyện, nghi thức và phân tích từ vựng, ông cũng tinh thông khoa học tự nhiên và khoa học về các tướng tốt của một Bậc Đại Nhân.
 
@@ -175,7 +175,7 @@ Chàng đến gặp bà-la-môn Brahmāyu, đảnh lễ ông và ngồi xuống 
 
 Khi nghe điều này, bà-la-môn Brahmāyu đứng dậy khỏi chỗ ngồi, quấn áo choàng thượng lên một bên vai, chắp tay hướng về phía Thế Tôn đang ngự, và thốt lên lời cảm hứng này ba lần: “Đảnh lễ Thế Tôn, bậc Ứng cúng, bậc Chánh đẳng Chánh giác! Đảnh lễ Thế Tôn, bậc Ứng cúng, bậc Chánh đẳng Chánh giác! Đảnh lễ Thế Tôn, bậc Ứng cúng, bậc Chánh đẳng Chánh giác! Biết đâu một lúc nào đó chúng ta sẽ được diện kiến Tôn giả Gotama. Biết đâu chúng ta sẽ có dịp trò chuyện cùng ngài.”
 
-[MN-91](/link?q=MN-91){target=_black}
+[MN-91](/l?q=MN-91){target=_black}
 
 Một thời Thế Tôn đang trú tại Campā bên bờ Hồ Gaggarā. Bấy giờ, vào một buổi trưa, gia chủ Vajjiyamāhita rời Campā để đi yết kiến Thế Tôn. Nhưng trên đường đi, ông nghĩ: “Bây giờ chưa phải lúc yết kiến Thế Tôn; ngài đang tịnh cư. Và cũng chưa phải lúc đến gặp các vị tỳ-kheo đang thiền định; họ đang tịnh cư. Hay là ta ghé qua khu vườn của các du sĩ ngoại đạo?”
 
@@ -191,7 +191,7 @@ Lúc đó, một du sĩ nói với ông: “Chờ đã, này gia chủ, sa-môn 
 
 Khi nghe nói vậy, các du sĩ đều im lặng.
 
-[A. 10:94](/link?q=AN-10.94){target=_black}
+[A. 10:94](/l?q=AN-10.94){target=_black}
 
 NGƯỜI KỂ HAI. Saccaka, con trai của phái Nigaṇṭha, đã đến tranh luận với Đức Phật tại Vesālī. Đức Phật đã miêu tả lại quá trình phấn đấu của ngài trước khi Giác ngộ đã dẫn ngài đến việc khám phá ra rằng sự ép xác khổ hạnh không dẫn đến đâu cả. Ngài nói:
 
@@ -207,7 +207,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Ta đã có kinh nghiệm thuyết pháp cho m�
 
 Nghe vậy, Saccaka thốt lên: “Thật kỳ diệu, thưa Tôn giả Gotama, thật phi thường làm sao, khi Tôn giả Gotama liên tục bị tấn công bằng những lời chỉ trích cá nhân, sắc da ngài vẫn sáng bừng lên, nét mặt ngài vẫn trong trẻo, đúng như những gì diễn ra ở một vị ứng cúng và chánh đẳng chánh giác! Tôi đã từng có kinh nghiệm tranh luận với Pūraṇa Kassapa, và ông ta đã nói lảng, đánh trống lảng và thậm chí còn tỏ ra tức giận, hằn học và càu nhàu. Và cả Makkhali Gosāla cùng những người khác cũng vậy. Còn bây giờ, thưa Tôn giả Gotama, chúng tôi xin phép rời đi; chúng tôi đang bận và có nhiều việc phải làm.”
 
-[MN-36](/link?q=MN-36){target=_black}
+[MN-36](/l?q=MN-36){target=_black}
 
 NGƯỜI KỂ HAI. Tuy nhiên, Saccaka vẫn không bị thuyết phục và vẫn giữ nguyên quan điểm của mình.
 
@@ -219,7 +219,7 @@ Tôn giả Ānanda nghĩ thầm: “Thế Tôn vừa mới khỏi bệnh, và ng
 
 Tôn giả làm theo ý định đó, và nói: “Thế Tôn đã tuyên thuyết về giới, định và tuệ của vị hữu học, và ngài cũng đã tuyên thuyết về giới, định và tuệ của bậc vô học. Giới của vị hữu học là một vị tỳ-kheo giữ giới, thu thúc trong giới bổn Pātimokkha, hoàn hảo trong oai nghi và hạnh kiểm, và luôn thấy sợ hãi trước những lỗi lầm nhỏ nhất, tu tập bằng cách thực hành các giới luật. Định của vị ấy là một vị tỳ-kheo bước vào và an trú trong một trong bốn tầng thiền. Tuệ của vị ấy là một vị tỳ-kheo hiểu rõ đúng như thật: ‘Đây là Khổ, đây là Nguyên nhân của Khổ, đây là Sự Diệt Khổ, đây là Con đường dẫn đến Sự Diệt Khổ.’ Còn trong trường hợp của bậc vô học, vị thánh đệ tử vốn đã có giới, định và tuệ như vậy, bằng cách tự mình chứng ngộ với trí tuệ trực tiếp ngay trong hiện tại, bước vào và an trú trong sự giải thoát của tâm và sự giải thoát bằng trí tuệ [5](/the-life-of-the-buddha/notes/11#5){.note}, hoàn toàn vô lậu vì đã đoạn tận các lậu hoặc.”
 
-[A. 3:73](/link?q=AN-3.73){target=_black}
+[A. 3:73](/l?q=AN-3.73){target=_black}
 
 NGƯỜI KỂ MỘT. Đức Phật có chiều cao bình thường. Điều này có thể được suy ra từ câu chuyện ngài trao đổi y phục với Trưởng lão Mahā-Kassapa, sẽ được kể lại sau, và từ sự kiện sau đây.
 
@@ -279,7 +279,7 @@ Khi các tỳ-kheo đến gặp Thế Tôn và thuật lại những lời của
 
 “Này các tỳ-kheo, đó chính là Ác ma. Hắn đang tìm kiếm tâm thức của thiện nam tử Vakkali: ‘Tâm thức của thiện nam tử Vakkali đã an trú ở đâu?’ Nhưng này các tỳ-kheo, thiện nam tử Vakkali đã nhập Vô dư y Niết-bàn mà không để tâm thức mình an trú ở bất cứ đâu.”
 
-[S. 22:87](/link?q=SN-22.87){target=_black}
+[S. 22:87](/l?q=SN-22.87){target=_black}
 
 NGƯỜI KỂ MỘT. Trong Kinh tạng có kể lại một vài trường hợp các tỳ-kheo tự kết liễu đời mình. Điều này được Đức Phật tuyên bố là không có lỗi chỉ với một điều kiện duy nhất: đó là tỳ-kheo ấy đã là một vị A-la-hán, hoàn toàn vắng bóng tham, sân, si, hoặc chắc chắn sẽ trở thành một vị A-la-hán trước khi chết, và việc tự kết liễu đời mình trong điều kiện đó chỉ đơn thuần là sự chấm dứt một căn bệnh nan y. Nếu không, việc tước đoạt mạng sống con người, hay việc xúi giục tìm đến cái chết, sẽ cấu thành một trong bốn tội Ba-la-di, tức là những tội cực trọng dẫn đến việc bị trục xuất vĩnh viễn khỏi Tăng đoàn (ba tội còn lại là trộm cắp, tà dâm và cố ý nói dối về việc đạt được các quả vị tâm linh), mặc dù hành vi cố ý tự tử bất thành thì được coi là một tội nhỏ.
 
@@ -287,15 +287,15 @@ NGƯỜI KỂ HAI. Trước đó đã có nhắc đến việc Đức Phật k�
 
 GIỌNG ĐỌC THỨ NHẤT. “Khi tuổi thọ của con người tăng lên đến tám mươi ngàn năm, Thế Tôn Metteyya (Di-lặc), bậc Ứng cúng, Chánh đẳng Chánh giác, sẽ xuất hiện trên thế gian, ngài là bậc Minh hạnh túc, Thiện thệ, Thế gian giải, Vô thượng sĩ, Điều ngự trượng phu, Thiên nhân sư, Phật, Thế Tôn, giống y như ta hiện nay. Bằng trí tuệ trực tiếp, ngài sẽ tự mình chứng ngộ và giảng giải về thế giới này cùng với chư thiên, Ma vương và chư Phạm thiên, về thế hệ này cùng với các sa-môn và bà-la-môn, với các bậc vương tôn và loài người, giống y như ta đã làm hiện nay. Ngài sẽ thuyết giảng Giáo pháp toàn thiện ở đoạn đầu, toàn thiện ở đoạn giữa và toàn thiện ở đoạn cuối, hoàn hảo cả về ý nghĩa và văn tự, và sẽ xiển dương phạm hạnh hoàn toàn thanh tịnh và vô nhiễm, giống y như ta đã làm hiện nay.”
 
-[D. 26](/link?q=dn-26){target=_black}
+[D. 26](/l?q=dn-26){target=_black}
 
 Điều này đã được Thế Tôn tuyên thuyết, được bậc Ứng cúng tuyên thuyết, tôi nghe như vầy: “Này các Tỳ-kheo, ta là một bà-la-môn, quen với sự rộng lượng và hào phóng; ta đang mang thân xác cuối cùng; ta là vị ngự y vô thượng. Các ông là những đứa con do ta nuôi dưỡng, sinh ra từ miệng ta, sinh ra từ Đạo pháp, là những người thừa tự Đạo pháp, không phải thừa tự của cải vật chất. Có hai loại bố thí: bố thí của cải vật chất và bố thí Đạo pháp. Sự bố thí vĩ đại hơn chính là bố thí Đạo pháp.”
 
-[Iti. 100](/link?q=iti-100){target=_black}
+[Iti. 100](/l?q=iti-100){target=_black}
 
 “Này các Tỳ-kheo, nếu có ai đó hỏi một tỳ-kheo: ‘Đâu là những bằng chứng và sự xác tín khiến tôn giả nói rằng: “Thế Tôn là bậc chánh đẳng chánh giác, Giáo pháp được khéo léo tuyên thuyết, Tăng đoàn đã đi vào con đường chân chính”?’ thì để trả lời cho đúng, các ông nên trả lời thế này: ‘Thưa các hiền giả, tôi đã đến yết kiến Thế Tôn để được nghe pháp. Vị đạo sư đã chỉ cho tôi Đạo pháp qua từng giai đoạn từ thấp lên cao, ở mỗi cấp độ cao hơn, với cả phần sáng và phần tối đối chiếu. Thuận theo sự dẫn dắt đó, bằng cách đạt được trí tuệ trực tiếp ngay tại đây về một giáo lý nhất định (cụ thể là một trong bốn giai đoạn trên con đường giác ngộ) trong số các giáo lý được giảng dạy trong Đạo pháp, tôi đã đạt được mục tiêu của mình: khi đó tôi đã khởi sinh niềm tin vào vị đạo sư như thế này: “Thế Tôn là bậc chánh đẳng chánh giác, Giáo pháp được khéo léo tuyên thuyết, Tăng đoàn đã đi vào con đường chân chính.”’ Khi niềm tin của bất kỳ ai vào Như Lai được gieo trồng, bám rễ và củng cố bằng những bằng chứng này, những cụm từ này và những câu chữ này, thì niềm tin của người đó được gọi là niềm tin có căn cứ, cắm rễ sâu vào kiến thị, vững chắc và không thể bị lung lay bởi bất kỳ sa-môn, bà-la-môn, Ma vương, Phạm thiên hay bất cứ ai trên thế gian.”
 
-[MN-47](/link?q=MN-47){target=_black}
+[MN-47](/l?q=MN-47){target=_black}
 
 “Khi các đệ tử của Tôn giả Gotama được ngài khuyên bảo và chỉ dạy, liệu tất cả họ đều đạt được mục tiêu tối thượng là Niết-bàn, hay có những người không đạt được?”
 
@@ -313,7 +313,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Khi tuổi thọ của con người tăng lên �
 
 “Cũng như vậy, thưa bà-la-môn, đã có Niết-bàn, có con đường dẫn đến đó, và có ta là người dẫn đường, nhưng khi các đệ tử của ta được ta khuyên bảo và chỉ dẫn, một số người đạt được Niết-bàn còn một số người thì không. Ta thì có lỗi gì trong chuyện đó, thưa bà-la-môn? Như Lai cũng chỉ đơn thuần là người chỉ đường.”
 
-[MN-107](/link?q=MN-107){target=_black} (đã rút gọn)
+[MN-107](/l?q=MN-107){target=_black} (đã rút gọn)
 
 Có lần, vài du sĩ ngoại đạo đến gặp Tôn giả Anurādha và hỏi: “Thưa hiền giả Anurādha, một vị Như Lai, bậc cao tột giữa loài người, bậc tối thắng giữa loài người, bậc đã đạt đến sự thành tựu tối thượng, khi mô tả về ngài, người ta sẽ dùng trường hợp nào trong bốn trường hợp sau đây: Sau khi chết Như Lai tồn tại; hoặc sau khi chết Như Lai không tồn tại; hoặc sau khi chết Như Lai vừa tồn tại vừa không tồn tại; hoặc sau khi chết Như Lai không tồn tại cũng không phải không tồn tại?” [6](/the-life-of-the-buddha/notes/11#6){.note}
 
@@ -339,15 +339,15 @@ NGƯỜI KỂ HAI. Sau đó, Đức Phật tiếp tục giảng giải giống n
 
 “Tốt lắm, tốt lắm, Anurādha. Xưa cũng như nay, điều mà ta giảng dạy chỉ là khổ và sự diệt khổ.”
 
-[S. 44:2](/link?q=SN-44.2){target=_black}
+[S. 44:2](/l?q=SN-44.2){target=_black}
 
-“Tại sao Như Lai không trả lời những câu hỏi này? Bởi vì tất cả chúng đều xét về một vị Như Lai sau khi chết qua lăng kính của sắc (và các uẩn còn lại)” ([S. 44:3](/link?q=SN-44.3){target=_black}). “Bởi vì chúng được hỏi bởi một người chưa thoát khỏi lòng ham muốn, tình luyến ái, sự khát khao, sự thao thức, và sự tham ái đối với sắc (và các uẩn còn lại)” ([S. 44:5](/link?q=SN-44.5){target=_black}). “Bởi vì chúng được hỏi bởi một người luôn đắm nhiễm vào sắc (và các uẩn còn lại) cũng như sự tồn tại, sự bám víu và tham ái, và không biết làm thế nào để những thứ này chấm dứt” ([S. 44:6](/link?q=SN-44.6){target=_black}). “Những câu hỏi như vậy thuộc về rừng rậm tà kiến... gông cùm tà kiến: chúng gắn liền với khổ đau, sầu muộn, tuyệt vọng và thao thức, và chúng không dẫn đến sự ly tham, ly dục, đoạn diệt, tĩnh lặng, thắng trí, giác ngộ, và Niết-bàn.”
+“Tại sao Như Lai không trả lời những câu hỏi này? Bởi vì tất cả chúng đều xét về một vị Như Lai sau khi chết qua lăng kính của sắc (và các uẩn còn lại)” ([S. 44:3](/l?q=SN-44.3){target=_black}). “Bởi vì chúng được hỏi bởi một người chưa thoát khỏi lòng ham muốn, tình luyến ái, sự khát khao, sự thao thức, và sự tham ái đối với sắc (và các uẩn còn lại)” ([S. 44:5](/l?q=SN-44.5){target=_black}). “Bởi vì chúng được hỏi bởi một người luôn đắm nhiễm vào sắc (và các uẩn còn lại) cũng như sự tồn tại, sự bám víu và tham ái, và không biết làm thế nào để những thứ này chấm dứt” ([S. 44:6](/l?q=SN-44.6){target=_black}). “Những câu hỏi như vậy thuộc về rừng rậm tà kiến... gông cùm tà kiến: chúng gắn liền với khổ đau, sầu muộn, tuyệt vọng và thao thức, và chúng không dẫn đến sự ly tham, ly dục, đoạn diệt, tĩnh lặng, thắng trí, giác ngộ, và Niết-bàn.”
 
-([MN-72](/link?q=MN-72){target=_black}).
+([MN-72](/l?q=MN-72){target=_black}).
 
 “Ta nói rằng một vị Đã-đến-như-vậy (Tathāgata, một vị Như Lai) [7](/the-life-of-the-buddha/notes/11#7){.note} là không thể biết được ngay trong hiện tại. Khi ta nói như vậy, tuyên bố như vậy, ta đã bị một số sa-môn và bà-la-môn gán ghép vô căn cứ, hão huyền, dối trá và sai lệch rằng: ‘Sa-môn Gotama là kẻ dẫn người ta đến chỗ diệt vong; bởi vì ông ta chủ trương sự diệt tận, sự mất mát, sự không tồn tại của một sinh mệnh đang sống.’”
 
-[MN-22](/link?q=MN-22){target=_black}
+[MN-22](/l?q=MN-22){target=_black}
 
 “Có ba loại chấp ngã (sự bám víu vào cái tôi) này: chấp ngã thô trược, chấp ngã do tâm tạo, và chấp ngã vô sắc... Loại thứ nhất có sắc (vật chất), được cấu tạo từ bốn đại và tiêu thụ thức ăn vật chất. Loại thứ hai có sắc và được cấu tạo bởi tâm, có đầy đủ tay chân và không thiếu một giác quan nào. Loại thứ ba không có sắc và chỉ bao gồm nhận thức... Ta giảng dạy Đạo pháp để đoạn tận các loại chấp ngã nhằm giúp các ông, những người thực hành theo giáo pháp, có thể đoạn tận những uế pháp, tăng trưởng những tịnh pháp, và bằng cách tự mình chứng ngộ với trí tuệ trực tiếp ngay trong hiện tại, có thể bước vào và an trú trong sự viên mãn của trí tuệ tuyệt hảo... Nếu có ai nghĩ rằng làm như vậy là một sự an trú đau khổ, thì không phải như vậy; trái lại, khi làm như vậy sẽ có niềm vui, sự hỷ lạc, sự tĩnh lặng, chánh niệm, tỉnh giác, và một sự an trú đầy an lạc.”
 
@@ -355,4 +355,4 @@ NGƯỜI KỂ HAI. Đức Phật tiếp tục nói rằng từ kiếp sống nà
 
 GIỌNG ĐỌC THỨ NHẤT. “Đây chỉ là những cách dùng từ của thế gian, ngôn ngữ thế gian, những thuật ngữ giao tiếp của thế gian, những cách mô tả của thế gian, mà Như Lai sử dụng để giao tiếp mà không hề bị vướng chấp vào chúng.”
 
-[D. 9](/link?q=dn-9.2.2){target=_black} (đã rút gọn)
+[D. 9](/l?q=dn-9.2.2){target=_black} (đã rút gọn)
