@@ -50,7 +50,7 @@ Cuối đêm hôm đó, tôn giả Nanda đi đến chỗ Thế Tôn. Thầy nó
 > Diệt trừ hết si mê\
 > Khổ vui không lay động
 
-[Ud. 3:2](/link?q=ud-3.2){target=_black}
+[Ud. 3:2](/l?q=ud-3.2){target=_black}
 
 NGƯỜI KỂ MỘT. Mùa mưa tiếp theo — mùa an cư thứ năm được trải qua tại Vesālī (Tỳ-xá-ly), thủ đô của Videha, một quốc gia nằm ở sườn đông nam của Kosala và trên bờ bắc sông Hằng. Đó là một liên minh được cai trị bởi một chế độ thủ lĩnh cai trị (quyền lực nằm trong tay một nhóm nhỏ), không phải là chế độ quân chủ.
 
@@ -90,7 +90,7 @@ Sau đó, tôn giả Ānanda quay lại chỗ Thế Tôn và thưa: "Bạch Th�
 
 "Giống như những gia tộc có nhiều phụ nữ và ít đàn ông thì dễ bị trộm cướp phá hoại, cũng vậy, trong Pháp và Luật mà phụ nữ được xuất gia, đời sống phạm hạnh sẽ không tồn tại lâu dài. Giống như khi căn bệnh nấm mốc xám rơi xuống một cánh đồng lúa đang chín, cánh đồng lúa đang chín đó sẽ không tồn tại được lâu — giống như khi căn bệnh rỉ sắt đỏ rơi xuống một ruộng mía đang chín, ruộng mía đang chín đó sẽ không tồn tại được lâu — cũng vậy, trong Pháp và Luật mà phụ nữ được xuất gia, đời sống phạm hạnh sẽ không tồn tại lâu dài. Như một người xây sẵn một bờ đê để nước từ hồ chứa lớn không gây ra lũ lụt, ta cũng vậy, ta đã ban hành trước tám điều tôn kính này cho các tỳ-kheo-ni để họ không vi phạm cho đến trọn đời.”
 
-[Vin. Cv. 10:1](/link?q=vin.cv-10.1){target=_black}; [A. 8:51](/link?q=AN-8.51){target=_black}
+[Vin. Cv. 10:1](/l?q=vin.cv-10.1){target=_black}; [A. 8:51](/l?q=AN-8.51){target=_black}
 
 NGƯỜI KỂ HAI. Chuyện về sau, sau khi bà xin chỉ dẫn thọ giới cho những phụ nữ họ Thích đã đi cùng mình, Đức Phật hướng dẫn các tỳ-kheo truyền giới cụ túc cho họ làm tỳ-kheo-ni. Những tỳ-kheo-ni được thọ giới cụ túc sau đó lại thắc mắc rằng: không giống như họ, bà Mahāpajāpati chưa được thọ giới cụ túc. Bà đã thông qua Trưởng lão Ānanda để thỉnh cầu Đức Phật, và Ngài đã giải quyết cuộc tranh luận bằng cách nhắc lại rằng việc bà chấp nhận tám điều tôn kính chính là sự thọ giới cụ túc trong trường hợp riêng của bà. Sau đó, bà lại đến gặp Trưởng lão Ānanda, nhờ thầy thỉnh cầu Đức Phật cho phép tỳ-kheo và tỳ-kheo-ni đảnh lễ những vị lớn hạ hơn bất kể họ thuộc cộng đồng nào trong hai cộng đồng. Câu trả lời của Đức Phật là không một tỳ-kheo nào được đảnh lễ một tỳ-kheo-ni.
 
@@ -98,4 +98,4 @@ GIỌNG ĐỌC THỨ HAI. Một lần khác, bà Mahāpajāpati Gotamī đi đ�
 
 “Này Gotamī, những pháp nào mà bà biết rõ: ‘Những pháp này dẫn đến tham dục, không dẫn đến ly tham; dẫn đến hệ lụy, không dẫn đến tháo gỡ; dẫn đến tích lũy, không dẫn đến buông xả; dẫn đến tham vọng, không dẫn đến khiêm cung; dẫn đến bất mãn, không dẫn đến biết đủ; dẫn đến tụ tập, không dẫn đến viễn ly; dẫn đến lười biếng, không dẫn đến tinh tấn; dẫn đến xa hoa, không dẫn đến giản dị,’ đối với những pháp đó, bà có thể hoàn toàn quả quyết: ‘Đây không phải là Giáo Pháp, đây không phải là Luật, đây không phải là lời dạy của Đạo sư.’ Nhưng những pháp nào mà bà biết rõ: ‘Những pháp này dẫn đến ly tham, không dẫn đến tham dục; dẫn đến tháo gỡ, không dẫn đến hệ lụy; dẫn đến buông xả, không dẫn đến tích lũy; dẫn đến khiêm cung, không dẫn đến tham vọng; dẫn đến biết đủ, không dẫn đến bất mãn; dẫn đến viễn ly, không dẫn đến tụ tập; dẫn đến tinh tấn, không dẫn đến lười biếng; dẫn đến giản dị, không dẫn đến xa hoa,’ đối với những pháp đó, bà có thể hoàn toàn quả quyết: ‘Đây chính là Pháp, đây chính là Luật, đây chính là lời dạy của Đạo sư.’”
 
-[Vin. Cv. 10:5](/link?q=vin.cv-10.5){target=_black}; [A. 8:53](/link?q=AN-8.53){target=_black}
+[Vin. Cv. 10:5](/l?q=vin.cv-10.5){target=_black}; [A. 8:53](/l?q=AN-8.53){target=_black}

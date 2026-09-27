@@ -23,7 +23,7 @@ Nói xong, Ngài đứng dậy và đi đến chỗ các tỳ-khưu ủng hộ v
 
 Khi Thế Tôn nói xong những lời này, Ngài đứng dậy và rời đi.
 
-[Vin. Mv. 10:1](/link?q=vin.mv-10.1){target=_black}
+[Vin. Mv. 10:1](/l?q=vin.mv-10.1){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Nhưng lúc bấy giờ, những cuộc cãi vã, ẩu đả và tranh chấp đã bùng nổ giữa Tăng đoàn, các tỳ-khưu làm tổn thương nhau bằng những mũi tên ngôn từ. Họ không thể giải quyết được tranh chấp của mình. Một tỳ-khưu bèn đến gặp Thế Tôn, đảnh lễ Ngài rồi đứng sang một bên. Vị ấy kể lại những gì đang diễn ra và nói thêm: "Bạch Thế Tôn, sẽ thật tốt nếu Thế Tôn vì lòng từ bi mà đến khuyên bảo các tỳ-khưu ấy."
 
@@ -35,7 +35,7 @@ Lần thứ hai và lần thứ ba, Thế Tôn lặp lại lời khuyên cũ và
 
 Sáng hôm sau, Ngài đắp y, mang bát và y ngoài đi vào Kosambī để khất thực. Sau khi khất thực và dùng bữa xong trở về, Ngài thu dọn chỗ nghỉ, cầm lấy bát và y ngoài. Rồi Ngài thốt lên những vần kệ này.
 
-M.128; cf. [Vin. Mv. 10:2](/link?q=vin.mv-10.2){target=_black}-3
+M.128; cf. [Vin. Mv. 10:2](/l?q=vin.mv-10.2){target=_black}-3
 
 > Khi bao người cùng gào\
 > Không ai nhận mình ngu\
@@ -50,9 +50,9 @@ M.128; cf. [Vin. Mv. 10:2](/link?q=vin.mv-10.2){target=_black}-3
 > Chẳng ai biết điều gì\
 > Khiến mình làm như thế.
 
-M.128; Jā. 3:488; [Ud. 5:9](/link?q=ud-5.9){target=_black};
+M.128; Jā. 3:488; [Ud. 5:9](/l?q=ud-5.9){target=_black};
 
-Thag. 275; [Vin. Mv. 10:3](/link?q=vin.mv-10.3){target=_black}
+Thag. 275; [Vin. Mv. 10:3](/l?q=vin.mv-10.3){target=_black}
 
 > "Nó mắng ta, đánh ta\
 > Nó hạ ta, cướp ta!"\
@@ -74,7 +74,7 @@ Thag. 275; [Vin. Mv. 10:3](/link?q=vin.mv-10.3){target=_black}
 > Có người nhận ra được\
 > Tranh cãi liền lặng im.
 
-M.128; Dh. 3-6; Jā 3:212, 488; [Vin. Mv. 10:3](/link?q=vin.mv-10.3){target=_black}
+M.128; Dh. 3-6; Jā 3:212, 488; [Vin. Mv. 10:3](/l?q=vin.mv-10.3){target=_black}
 
 > Kẻ bẻ xương, sát nhân\
 > Trộm trâu bò, tài sản\
@@ -82,7 +82,7 @@ M.128; Dh. 3-6; Jā 3:212, 488; [Vin. Mv. 10:3](/link?q=vin.mv-10.3){target=_bla
 > Chúng còn biết đồng lòng\
 > Sao các vị thì không?
 
-M.128; Jā 3:488; [Vin. Mv. 10:3](/link?q=vin.mv-10.3){target=_black}
+M.128; Jā 3:488; [Vin. Mv. 10:3](/l?q=vin.mv-10.3){target=_black}
 
 > Nếu tìm được bạn hiền\
 > Đáng tin để đồng hành\
@@ -103,7 +103,7 @@ M.128; Jā 3:488; [Vin. Mv. 10:3](/link?q=vin.mv-10.3){target=_black}
 > Hãy cất bước một mình\
 > Như voi rừng độc cư.
  
-[MN-128](/link?q=MN-128){target=_black}: Jā 3:488; [Vin. Mv. 10:3](/link?q=vin.mv-10.3){target=_black}
+[MN-128](/l?q=MN-128){target=_black}: Jā 3:488; [Vin. Mv. 10:3](/l?q=vin.mv-10.3){target=_black}
 
 Dh. 328-30; cf. Sn. 45-46
 
@@ -139,7 +139,7 @@ Hai vị còn lại cũng nói y như vậy. Họ nói thêm: "Bạch Thế Tôn
 
 "Bạch Thế Tôn, về điều đó, bất cứ ai trong chúng con đi khất thực từ làng về trước sẽ dọn sẵn chỗ ngồi, lấy nước uống, nước rửa và đặt thùng rác đúng chỗ. Bất cứ ai về sau cùng, nếu muốn, có thể ăn đồ ăn còn dư; nếu không, vị ấy sẽ đổ bỏ ở nơi không có cỏ hoặc đổ xuống nước nơi không có sinh vật. Vị ấy dọn dẹp chỗ ngồi, nước uống và nước rửa. Vị ấy mang thùng rác đi rửa rồi cất đi, và quét dọn nhà ăn. Ai thấy lu nước uống, nước rửa hay nước trong nhà vệ sinh sắp cạn hoặc đã cạn thì sẽ lo châm thêm. Nếu lu nước quá nặng, vị ấy ra hiệu bằng tay gọi người khác đến giúp một tay để cùng khiêng. Chúng con không cất tiếng nói vì mục đích đó. Nhưng cứ năm ngày một lần, chúng con thức trắng đêm cùng nhau đàm đạo về Chánh pháp. Đó là cách chúng con tu tập tinh tấn, nhiệt tâm và tự chủ."
 
-[MN-128](/link?q=MN-128){target=_black}; [Vin. Mv. 10:4](/link?q=vin.mv-10.4){target=_black}
+[MN-128](/l?q=MN-128){target=_black}; [Vin. Mv. 10:4](/l?q=vin.mv-10.4){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Sau khi Thế Tôn chỉ dẫn, khích lệ, tạo cảm hứng và làm phấn chấn các vị ấy bằng một thời pháp, Ngài đứng dậy. Ngài thong dong cất bước đến Pārileyyaka. Cuối cùng, trong chuyến du hành, Ngài đã đến nơi, và Ngài vào ở trong rừng Rakkhita, dưới gốc một cây sāla cổ thụ tĩnh lặng. Trong lúc Ngài đang tịnh cư một mình, suy nghĩ này khởi lên trong tâm: "Trước đây ta sống thật không thoải mái, bị quấy rầy bởi những tỳ-khưu Kosambī ưa cãi vã, ẩu đả, tranh chấp, lớn tiếng và kiện tụng giữa Tăng đoàn. Giờ đây ta chỉ có một mình, không bạn đồng hành, sống thanh thản và an vui, tránh xa tất cả bọn họ."
 
@@ -152,7 +152,7 @@ Thế Tôn, đang tận hưởng sự tĩnh lặng của chính mình, thấu hi
 > Vui độc cư trong rừng\
 > Tâm ý thật hòa hợp.
 
-[Vin. Mv. 10:4](/link?q=vin.mv-10.4){target=_black}; cf. [Ud. 4:5](/link?q=ud-4.5){target=_black}
+[Vin. Mv. 10:4](/l?q=vin.mv-10.4){target=_black}; cf. [Ud. 4:5](/l?q=ud-4.5){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Ngay sau khi Thế Tôn rời Kosambī, một tỳ-khưu đến gặp tôn giả Ānanda và nói: "Này hiền giả Ānanda, Thế Tôn đã thu dọn chỗ nghỉ, cầm lấy bát và y ngoài rồi cất bước ra đi một mình không có ai tháp tùng, cũng không thông báo cho các thị giả hay từ biệt Tăng đoàn tỳ-khưu."
 
@@ -162,7 +162,7 @@ Một thời gian sau, một số tỳ-khưu đến gặp tôn giả Ānanda và
 
 Vậy nên, tôn giả Ānanda cùng các tỳ-khưu ấy đi đến gặp Thế Tôn tại gốc cây sāla ở Pārileyyaka. Sau khi đảnh lễ Ngài, họ ngồi sang một bên. Sau đó, Thế Tôn khích lệ họ bằng một thời pháp.
 
-[S. 22:81](/link?q=SN-22.81){target=_black}
+[S. 22:81](/l?q=SN-22.81){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Sau khi Thế Tôn ở lại Pārileyyaka bao lâu tùy ý, Ngài thong dong cất bước đến Sāvatthī. Trải qua chuyến hành trình dài, cuối cùng Ngài cũng đến nơi, và Ngài vào ngự tại Kỳ Viên, tịnh xá của Cấp Cô Độc.
 
@@ -206,4 +206,4 @@ Sau khi nhóm ủng hộ đã phục hồi tư cách cho tỳ-khưu bị đình 
 
 Thế rồi các tỳ-khưu đã ra lệnh đình chỉ đến gặp Thế Tôn và kể cho Ngài nghe những gì đã diễn ra. Tăng sự hòa giải được đề xuất đã được chấp thuận và quy trình thực hiện đã được thiết lập.
 
-[[Vin. Mv. 10:5](/link?q=vin.mv-10.5){target=_black}](/link?q=vin.mv-10.5)
+[[Vin. Mv. 10:5](/l?q=vin.mv-10.5){target=_black}](/l?q=vin.mv-10.5)

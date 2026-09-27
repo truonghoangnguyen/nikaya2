@@ -49,38 +49,38 @@ Triết học Phật giáo khởi nguồn từ một động lực duy nhất: n
 
 Trong bài giảng đầu tiên của mình, được thuyết vào năm 528 TCN trước năm vị tỳ kheo tại Vườn Lộc Uyển (Sārnāth) gần Benares, Phật Cồ-đàm đã giải thích những gì Ngài hiểu về sự đau khổ:
 
-> Này các tỳ kheo, đây là Chân lý Cao quý về Khổ (*dukkha* / Noble Truth of Suffering): Sinh là khổ, già là khổ, bệnh là khổ, chết là khổ; sầu, bi, khổ, ưu, não là khổ; phải chung đụng với những gì mình không ưa thích là khổ, phải chia lìa với những gì mình yêu thương là khổ; không đạt được những gì mình mong cầu là khổ; tóm lại, Năm Nhóm Bám Víu (*Năm Uẩn Thủ* / Five Groups of Grasping) là khổ. ([(Mv 1, 6, 19 Vin I p. 10](/link?q=vin.mv-1.6) = [S 56, 11, 5 V p. 421](/link?q=SN-56.11))
+> Này các tỳ kheo, đây là Chân lý Cao quý về Khổ (*dukkha* / Noble Truth of Suffering): Sinh là khổ, già là khổ, bệnh là khổ, chết là khổ; sầu, bi, khổ, ưu, não là khổ; phải chung đụng với những gì mình không ưa thích là khổ, phải chia lìa với những gì mình yêu thương là khổ; không đạt được những gì mình mong cầu là khổ; tóm lại, Năm Nhóm Bám Víu (*Năm Uẩn Thủ* / Five Groups of Grasping) là khổ. ([(Mv 1, 6, 19 Vin I p. 10](/l?q=vin.mv-1.6) = [S 56, 11, 5 V p. 421](/l?q=SN-56.11))
 
 Là kết quả của những suy ngẫm về triết học sâu xa, câu nói này bao hàm nhiều ý nghĩa xa hơn vẻ bề ngoài của nó. Hơn nữa, vì tất cả các thuật ngữ trong đó đều liên kết với những ý tưởng vượt ra ngoài nghĩa đen thông thường, chúng ta cần lần lượt xem xét: thứ nhất là các hiện tượng sinh, già, sầu não, v.v.; thứ hai là bản thân thuật ngữ 'khổ' (suffering); và thứ ba là giáo lý về Năm Uẩn — thứ mà theo niềm tin Phật giáo, cấu thành nên một con người thực nghiệm (empirical personality).
 
 (1) Sinh, già, chết, sầu não và tuyệt vọng, chia lìa bạn bè, phải ở cùng những kẻ mình ghét, những mong muốn không được thỏa mãn — tất cả những thuộc tính này của sự tồn tại đều là khổ. Chừng nào chúng chưa bị tận diệt, thì cuộc đời không thể được coi là thực sự hạnh phúc. Nhưng vì chúng là một phần không thể tách rời của cuộc sống, nên cuộc sống phải được nhìn nhận là đầy rẫy khổ đau.
 
-Ở đây, có người có thể phản bác rằng: mặc dù sự tồn tại không phải chỉ toàn niềm vui, nhưng nó vẫn chứa đựng đủ những niềm vui để ta có một đánh giá tích cực hơn. Thực tế, Đức Phật không hề phủ nhận những thú vui và những trải nghiệm dễ chịu. Ngược lại, Ngài coi chúng là một phần cố định của cuộc sống — nếu không có chúng, cuộc sống sẽ chẳng có vẻ hấp dẫn như ta thấy ([S 22, 60 III p. 69 f.](/link?q=SN-22.60)). Tuy nhiên, tiêu chuẩn đánh giá của Ngài sâu sắc hơn nhiều: Ngài lấy *sự [không khổ đau] vĩnh cửu (permanence)* làm thước đo cho hạnh phúc đích thực. Mọi thứ vui vẻ và thân thương rồi cũng kết thúc trong đau khổ bởi vì chúng mang tính *biến hoại (vô thường / transitory)*. Đó là thứ hạnh phúc giả tạo, vì ta sẽ phải trả giá bằng nỗi buồn và những giọt nước mắt để bù đắp lại. Khi đang lưu lại Sāvatthi (Xá-vệ), nữ thí chủ của 'Đông Viên Tự' là phu nhân Visākhā đã đến gặp Phật Cồ-đàm vào một giờ không phù hợp, tóc và quần áo vẫn còn ướt (do vừa tắm nghi lễ), để báo tin về cái chết của đứa cháu gái yêu quý. Ngài đã an ủi người phụ nữ đang than khóc bằng những lời này:
+Ở đây, có người có thể phản bác rằng: mặc dù sự tồn tại không phải chỉ toàn niềm vui, nhưng nó vẫn chứa đựng đủ những niềm vui để ta có một đánh giá tích cực hơn. Thực tế, Đức Phật không hề phủ nhận những thú vui và những trải nghiệm dễ chịu. Ngược lại, Ngài coi chúng là một phần cố định của cuộc sống — nếu không có chúng, cuộc sống sẽ chẳng có vẻ hấp dẫn như ta thấy ([S 22, 60 III p. 69 f.](/l?q=SN-22.60)). Tuy nhiên, tiêu chuẩn đánh giá của Ngài sâu sắc hơn nhiều: Ngài lấy *sự [không khổ đau] vĩnh cửu (permanence)* làm thước đo cho hạnh phúc đích thực. Mọi thứ vui vẻ và thân thương rồi cũng kết thúc trong đau khổ bởi vì chúng mang tính *biến hoại (vô thường / transitory)*. Đó là thứ hạnh phúc giả tạo, vì ta sẽ phải trả giá bằng nỗi buồn và những giọt nước mắt để bù đắp lại. Khi đang lưu lại Sāvatthi (Xá-vệ), nữ thí chủ của 'Đông Viên Tự' là phu nhân Visākhā đã đến gặp Phật Cồ-đàm vào một giờ không phù hợp, tóc và quần áo vẫn còn ướt (do vừa tắm nghi lễ), để báo tin về cái chết của đứa cháu gái yêu quý. Ngài đã an ủi người phụ nữ đang than khóc bằng những lời này:
 
 > Này Visākhā, ai có một trăm điều yêu thương, người đó có một trăm nỗi khổ; ai có chín mươi..., mười..., năm..., hai điều yêu thương, người đó có chín mươi..., mười..., năm..., hai nỗi khổ. Đối với người không có điều gì để yêu thương, người đó không có nỗi khổ. Những người như vậy, Ta tuyên bố, là những người không có sầu não, không có đam mê (và) thoát khỏi sự tuyệt vọng.
 > 
-> Bất kể có bao nhiêu sầu, bi và khổ trên thế gian này: Chúng đều phát sinh dựa trên những điều ta yêu thương; chúng sẽ không phát sinh khi không có gì để yêu thương. ([Ud 8, 8 p. 92](/link?q=ud-8.8))
+> Bất kể có bao nhiêu sầu, bi và khổ trên thế gian này: Chúng đều phát sinh dựa trên những điều ta yêu thương; chúng sẽ không phát sinh khi không có gì để yêu thương. ([Ud 8, 8 p. 92](/l?q=ud-8.8))
 
 Mọi sự bám víu (attachment) về mặt tâm lý vào một điều gì đó dễ chịu đều dẫn đến đau khổ. Chắc chắn rằng, dục vọng (*kāma* / lust) và đau khổ về bản chất là một. Như vị tỳ kheo đã giác ngộ Eraka từng nói:
 
 > Dục vọng là đau khổ, không phải niềm vui;
 > Kẻ mong cầu dục vọng là đang chuốc lấy đau khổ.
 > Người không còn mong cầu dục vọng,
-> Sẽ chẳng bao giờ vướng bận khổ đau. ([Thag 93](/link?q=thag-93))
+> Sẽ chẳng bao giờ vướng bận khổ đau. ([Thag 93](/l?q=thag-93))
 
 (2) Bản thân thuật ngữ 'khổ' (*dukkha*) cũng mang một lớp nghĩa khó hiểu khác trong 'chân lý về khổ' của Phật Cồ-đàm.
 
-Một định nghĩa ra đời sau khi Đức Phật qua đời ([SN 38, 14 IV p. 259](/link?q=SN-38.14)) đã phân loại khổ thành ba dạng: *Khổ do cảm giác đau đớn mang lại* (khổ khổ / *dukkha-dukkha*), *khổ do sự thay đổi hoặc biến hoại (vô thường)* (hoại khổ / *vipariṇāma-dukkha*), và *khổ phát sinh từ các yếu tố cấu thành nên nhân cách* (hành khổ / *saṅkhāra-dukkha*). Dạng thứ ba này ám chỉ sự thật rằng khi ta tồn tại dưới dạng sinh vật, ta sẽ phải phơi mình và dễ bị tổn thương trước hàng ngàn tai ương. Dạng khổ thứ hai — khổ vì sự biến hoại (vô thường) — bao gồm cả những sự vật và cảm xúc dễ chịu (*sukha*) [khi chúng biến mất]; dạng khổ thứ ba bao gồm cả những cảnh chưa thực sự xảy ra, nhưng nỗi sợ đến từ dự đoán của lý trí hay trái với mong muốn.
+Một định nghĩa ra đời sau khi Đức Phật qua đời ([SN 38, 14 IV p. 259](/l?q=SN-38.14)) đã phân loại khổ thành ba dạng: *Khổ do cảm giác đau đớn mang lại* (khổ khổ / *dukkha-dukkha*), *khổ do sự thay đổi hoặc biến hoại (vô thường)* (hoại khổ / *vipariṇāma-dukkha*), và *khổ phát sinh từ các yếu tố cấu thành nên nhân cách* (hành khổ / *saṅkhāra-dukkha*). Dạng thứ ba này ám chỉ sự thật rằng khi ta tồn tại dưới dạng sinh vật, ta sẽ phải phơi mình và dễ bị tổn thương trước hàng ngàn tai ương. Dạng khổ thứ hai — khổ vì sự biến hoại (vô thường) — bao gồm cả những sự vật và cảm xúc dễ chịu (*sukha*) [khi chúng biến mất]; dạng khổ thứ ba bao gồm cả những cảnh chưa thực sự xảy ra, nhưng nỗi sợ đến từ dự đoán của lý trí hay trái với mong muốn.
 
 Cách định nghĩa gồm ba phần này phân tích sự đau khổ dựa trên các nguyên nhân của nó, nhưng chưa thực sự bao quát hết toàn bộ ý nghĩa của thuật ngữ này. Nếu 'chân lý về khổ' của Đức Phật chỉ đơn giản là một câu nói sáo rỗng, thì đau khổ chỉ là một danh từ chung để gọi tên những muộn phiền quen thuộc trong cuộc sống. Chẳng cần đến một bậc thánh nhân để nói cho thế giới biết rằng sầu não, bi kịch, đau đớn, v.v. là 'khổ' theo cách hiểu thông thường. Thực chất, *dukkha* trong Phật giáo là một thuật ngữ triết học: tổng quát và rộng lớn. Bất cứ thứ gì nằm trong vòng luân hồi (*saṃsāra*) có sự hình thành và hoại diệt, thứ đó là khổ; nói cách khác, mọi thứ chưa được giải thoát đều là khổ. Khi được dùng như một tính từ, *dukkha* ('đầy đau khổ') ám chỉ rằng đối tượng đó thuộc về cảnh giới chưa được giải thoát, thuộc về luân hồi. Câu nói: "Sinh, chết, v.v. là *dukkha*" không phải là một mệnh đề phân tích (analytic) mà là một mệnh đề tổng hợp (synthetic). *(Ghi chú: Mệnh đề tổng hợp nghĩa là nó không chỉ phân tích ý nghĩa từ ngữ, mà gắn các hiện tượng đó với một bản chất chung)*. Hiểu một cách chính xác, nó có nghĩa là: Tất cả các hiện tượng gắn liền với cuộc sống như sinh, chết, sự gặp gỡ hay sự chia ly đều mang bản chất luân hồi (*saṃsāric nature*), và do đó không thể nào xóa bỏ được chừng nào con người vẫn còn kẹt trong trạng thái chưa giải thoát.
 
-(3) Theo Phật giáo, khi mọi sự tồn tại trong luân hồi đều là khổ, thì rõ ràng con người trải nghiệm (empirical person) — vốn là tâm điểm trải nghiệm sự khổ đó — cũng không thể được đánh giá khác đi. Thực vậy, câu nói: "Tóm lại: Năm Nhóm Bám Víu (Năm Uẩn Thủ) là khổ" chính là đang ám chỉ đến con người hay nhân cách (personality). *('5 Thủ Uẩn' khác với '5 Uẩn', Kinh có phân biệt ở đây [SN 22.48](/link?q=22.48) )*
+(3) Theo Phật giáo, khi mọi sự tồn tại trong luân hồi đều là khổ, thì rõ ràng con người trải nghiệm (empirical person) — vốn là tâm điểm trải nghiệm sự khổ đó — cũng không thể được đánh giá khác đi. Thực vậy, câu nói: "Tóm lại: Năm Nhóm Bám Víu (Năm Uẩn Thủ) là khổ" chính là đang ám chỉ đến con người hay nhân cách (personality). *('5 Thủ Uẩn' khác với '5 Uẩn', Kinh có phân biệt ở đây [SN 22.48](/l?q=22.48) )*
 
 ### 2. CHỦ THỂ CỦA SỰ KHỔ VÀ BA DẤU ẤN (THE SUBJECT OF SUFFERING AND THE THREE MARKS)
 
 Trong Phật giáo, câu hỏi "Con người là gì?" luôn được trả lời bằng cách liệt kê Năm Nhóm Bám Víu (*Năm Uẩn Thủ* / *upādāna-khandha*)[^8]:
 
-*(ND: Theo chúng tôi, câu đúng nên là "Con người không là gì?" luôn được trả lời bằng cách liệt kê Năm Uẩn, có lẽ thời Đức Phật, các giáo phái có khái niệm kiểu con người được tạo thành từ 5 Uẩn . [SN 22.82](/link?q=22.82) )*
+*(ND: Theo chúng tôi, câu đúng nên là "Con người không là gì?" luôn được trả lời bằng cách liệt kê Năm Uẩn, có lẽ thời Đức Phật, các giáo phái có khái niệm kiểu con người được tạo thành từ 5 Uẩn . [SN 22.82](/l?q=22.82) )*
 
 > Này các tỳ kheo, tóm lại Năm Uẩn Thủ mang lại đau khổ là gì?:
 > - Nhóm bám víu vào 'sắc' (thân thể / *rūpa*),
@@ -88,9 +88,9 @@ Trong Phật giáo, câu hỏi "Con người là gì?" luôn được trả lờ
 > - Nhóm bám víu vào 'tưởng' (nhận thức / *saññā*),
 > - Nhóm bám víu vào 'hành' (các hiện tượng tâm lý / *saṅkhāra*),
 > - Nhóm bám víu vào 'thức' (ý thức / *viññāna*). 
-([MN 141, III p. 250](/link?q=MN-141))
+([MN 141, III p. 250](/l?q=MN-141))
 
-'Sắc' (nghĩa đen là 'hình thể') ám chỉ khung vật lý của con người, khoảng không gian được lấp đầy bởi xương, cơ bắp, thịt và da ([MN 28, I p. 190](/link?q=MN-28)). Các đoạn kinh khác (ví dụ [S 12, 2, 12](/link?q=SN-22.2)) định nghĩa thân thể là một cơ thể sống được hình thành từ bốn yếu tố (tứ đại): đất, nước, lửa và gió. Bốn yếu tố này vừa được hiểu là vật chất hữu hình, vừa mang các đặc tính vô hình như sự mở rộng, sự gắn kết, nhiệt độ và sự chuyển động.
+'Sắc' (nghĩa đen là 'hình thể') ám chỉ khung vật lý của con người, khoảng không gian được lấp đầy bởi xương, cơ bắp, thịt và da ([MN 28, I p. 190](/l?q=MN-28)). Các đoạn kinh khác (ví dụ [S 12, 2, 12](/l?q=SN-22.2)) định nghĩa thân thể là một cơ thể sống được hình thành từ bốn yếu tố (tứ đại): đất, nước, lửa và gió. Bốn yếu tố này vừa được hiểu là vật chất hữu hình, vừa mang các đặc tính vô hình như sự mở rộng, sự gắn kết, nhiệt độ và sự chuyển động.
 
 Bốn nhóm phi vật chất còn lại (các thành phần tâm lý của con người) được gọi chung là 'danh' (*nāma* / name).
 
@@ -106,7 +106,7 @@ Vì hai lý do. Thứ nhất, vì sự tồn tại của chúng gắn liền kh�
 
 > Này tỳ kheo, không có bất kỳ sắc nào là vĩnh cửu, cố định, bền vững, không chịu sự chi phối của quy luật hoại diệt (và) mãi mãi không thay đổi.
 > 
-> Này tỳ kheo, không có bất kỳ thọ nào..., không có bất kỳ tưởng nào..., không có bất kỳ hành nào..., không có bất kỳ thức nào là vĩnh cửu, cố định, bền vững, không chịu sự chi phối của quy luật hoại diệt (và) mãi mãi không thay đổi. ([SN 22, 97, 9–13 III p. 147](/link?q=SN-22.97))
+> Này tỳ kheo, không có bất kỳ thọ nào..., không có bất kỳ tưởng nào..., không có bất kỳ hành nào..., không có bất kỳ thức nào là vĩnh cửu, cố định, bền vững, không chịu sự chi phối của quy luật hoại diệt (và) mãi mãi không thay đổi. ([SN 22, 97, 9–13 III p. 147](/l?q=SN-22.97))
 
 Sự biến hoại (vô thường / impermanence) của Năm Uẩn, tức là của con người, cũng giống như tính biến đổi của vạn vật, là một chủ đề trọng tâm trong văn học Phật giáo.
 
@@ -127,13 +127,13 @@ Từ thực tế về sự biến hoại (vô thường) của Năm Uẩn, Đứ
 > Vậy có đúng đắn không khi nhìn nhận một thứ biến hoại, đau khổ, chịu sự chi phối của quy luật hoại diệt rằng: 'Cái này là của tôi, cái này là tôi, cái này là Bản ngã của tôi'?
 > 
 > Chắc chắn là không, thưa Thế Tôn.
-([MN 22, I p. 138](/link?q=MN-22))
+([MN 22, I p. 138](/l?q=MN-22))
 
 Tính Vô thường, tính khổ và tính vô ngã — đây chính là Ba Dấu Ấn (Tam pháp ấn - Vô thường, khổ và vô ngã  / Three Marks) của một cá thể. Tất nhiên, những đặc điểm tương tự cũng được tìm thấy ở mọi vật vô tri vô giác.
 
 Việc không thể tìm thấy một Bản ngã, một Linh hồn trường tồn nào trong Năm Uẩn (tức là con người) là một sự thật không dễ dàng được những người bình thường chấp nhận, bởi họ luôn có một niềm tin mang tính cảm tính vào sự liên tục của Bản ngã, do đó họ cần bằng chứng. Bằng chứng đầu tiên của Phật Cồ-đàm thiết lập tính vô ngã bằng cách chỉ ra sự tồn tại của những đặc tính hoàn toàn trái ngược với một Bản ngã:
 
-> Này các tỳ kheo, sắc không phải là một Bản ngã. Bởi vì, này các tỳ kheo, nếu sắc này là một Bản ngã, (thì) sắc này sẽ không hướng đến bệnh tật và người ta có thể ra lệnh cho sắc: 'Sắc của ta phải như thế này!', 'Sắc của ta không được như thế kia!'. ([SN 22, 59, 3-4 III p. 66](/link?q=SN-22.59))
+> Này các tỳ kheo, sắc không phải là một Bản ngã. Bởi vì, này các tỳ kheo, nếu sắc này là một Bản ngã, (thì) sắc này sẽ không hướng đến bệnh tật và người ta có thể ra lệnh cho sắc: 'Sắc của ta phải như thế này!', 'Sắc của ta không được như thế kia!'. ([SN 22, 59, 3-4 III p. 66](/l?q=SN-22.59))
 
 Điều tương tự cũng được nói về các Uẩn khác.
 
@@ -143,7 +143,7 @@ Bằng chứng thứ hai dựa trên nguồn gốc hình thành của các Uẩn
 
 > Này các tỳ kheo, sắc không phải là một Bản ngã. Bất cứ thứ gì là nguyên nhân, là điều kiện tiên quyết cho sự hình thành của sắc, thứ đó cũng không có Bản ngã. Này các tỳ kheo, làm sao sắc, vốn bắt nguồn từ một thứ không phải là Bản ngã, lại có thể là một Bản ngã được?
 > 
-> ([SN 22, 20, 3–7 III p. 24](/link?q=SN-22.20))
+> ([SN 22, 20, 3–7 III p. 24](/l?q=SN-22.20))
 
 Các lập luận tương tự cũng được áp dụng cho bốn Uẩn còn lại.
 
@@ -156,7 +156,7 @@ Bài kinh số 28 của Trung Bộ Kinh (Majjhimanikāya I p. 185 ff.) đưa ra 
 
 Giống như việc giáo lý Năm Uẩn giải thích con người là sự kết hợp của các yếu tố vô hồn (không có linh hồn), một giáo lý tương tự cũng giải thích quá trình nhận thức (perception) là một tiến trình không đòi hỏi phải có một Bản ngã đóng vai trò làm chủ thể nhận thức. Khi vị tỳ kheo Moliya-Phagguna đặt câu hỏi về chủ thể nhận thức: "Ai thực hiện sự tiếp xúc? Ai cảm nhận?", ông đã nhận được câu trả lời sau từ Đức Phật:
 
-> Câu hỏi này không hợp lệ... Ta không nói: 'Người đó thực hiện sự tiếp xúc'. Nếu Ta nói (như vậy), câu hỏi phù hợp sẽ là: 'Thưa Thế Tôn, ai thực hiện sự tiếp xúc?' (Nhưng) Ta không nói như vậy. Tuy nhiên, nếu một người hỏi Ta (người không nói câu trên) rằng: 'Thưa Thế Tôn, từ điều kiện tiên quyết nào mà sự tiếp xúc (phát sinh)?', (thì) câu hỏi này là hợp lệ. Câu trả lời đúng ở đây là: 'Từ Sáu Xứ (các giác quan / Sixfold Sphere of sense-Contact) làm điều kiện tiên quyết, sự tiếp xúc (của giác quan) phát sinh; từ sự tiếp xúc (giác quan) làm điều kiện tiên quyết, cảm giác (thọ) phát sinh. ([SN 12, 12, 4 II p. 13](/link?q=SN-12.12))
+> Câu hỏi này không hợp lệ... Ta không nói: 'Người đó thực hiện sự tiếp xúc'. Nếu Ta nói (như vậy), câu hỏi phù hợp sẽ là: 'Thưa Thế Tôn, ai thực hiện sự tiếp xúc?' (Nhưng) Ta không nói như vậy. Tuy nhiên, nếu một người hỏi Ta (người không nói câu trên) rằng: 'Thưa Thế Tôn, từ điều kiện tiên quyết nào mà sự tiếp xúc (phát sinh)?', (thì) câu hỏi này là hợp lệ. Câu trả lời đúng ở đây là: 'Từ Sáu Xứ (các giác quan / Sixfold Sphere of sense-Contact) làm điều kiện tiên quyết, sự tiếp xúc (của giác quan) phát sinh; từ sự tiếp xúc (giác quan) làm điều kiện tiên quyết, cảm giác (thọ) phát sinh. ([SN 12, 12, 4 II p. 13](/l?q=SN-12.12))
 
 Các hành vi nhận thức — mà tư duy thiếu tính triết học thường cho rằng phải có một linh hồn đứng sau làm chủ thể — trong Phật giáo được phân giải thành một chuỗi các quá trình phi cá nhân (impersonal processes). Người ta không nên nghĩ: 'Tôi nhận thức', mà nên nghĩ: 'Một quá trình nhận thức đang diễn ra trong Năm Uẩn'. Việc suy diễn từ quá trình nhận thức ra sự tồn tại của một Linh hồn là một sự ngụy biện.
 
@@ -174,13 +174,13 @@ Phật giáo nguyên thủy coi thế giới là có thực và hiểu rằng th
 
 Tuy nhiên, Phật giáo phân biệt rõ ràng giữa thực tại khách quan và thực tại chủ quan của thế giới. Qua việc sinh ra, con người bị ném vào thế giới khách quan — nơi cung cấp nền tảng cho sự tồn tại vật lý của họ. Nhưng chỉ sau khi con người nắm bắt thế giới bằng các giác quan và nhận thức được nó, thì thế giới mới trở thành một thực tại tâm lý, và do đó là thực tại chủ quan đối với họ:
 
-> Này các tỳ kheo, Vũ trụ là gì?: Là mắt và sắc (hình ảnh), tai và âm thanh, mũi và mùi, lưỡi và vị, thân và đối tượng xúc giác, ý (tâm trí) và pháp (đối tượng của tâm trí). ([SN 35, 23, 3 IV p. 15](/link?q=SN-35.23))
+> Này các tỳ kheo, Vũ trụ là gì?: Là mắt và sắc (hình ảnh), tai và âm thanh, mũi và mùi, lưỡi và vị, thân và đối tượng xúc giác, ý (tâm trí) và pháp (đối tượng của tâm trí). ([SN 35, 23, 3 IV p. 15](/l?q=SN-35.23))
 
 Theo bản đã làm rõ, cơ thể con người không chỉ có năm như thông thường quan niệm mà có tới sáu cơ quan nhận thức (lục căn); cụ thể, bên cạnh mắt, tai, mũi, lưỡi và xúc giác, còn có 'ý' (*manas* / mind) đóng vai trò là cơ quan tư duy. Nó là công cụ để sản sinh ra các ý tưởng, nhận thức các sự thật phi vật chất, và để hiểu các mối quan hệ giữa sự vật, khái niệm, lý tưởng và/hoặc ký ức. Những dữ kiện thu thập được bởi tâm trí sau đó cấu thành nên nội dung của suy nghĩ, tức là các 'pháp' (*dhamma* / mental objects).
 
-Đức Phật tiếp tục giải thích cơ chế, phải có ba yếu tố hiện diện thì hình thành thế giới nhận thức: (1) sáu cơ quan nhận thức (lục căn) đã đề cập ở trên, (2) các đối tượng tương ứng với chúng (lục trần), và (3) thức (*viññāna*) (là sự nhận biết(3) về các đối tượng(2) của giác quan(1) ). Sự kết hợp của ba yếu tố này chính là nguồn gốc (chủ quan) của thế giới ([SN 12, 44, 3–9 II p. 73](/link?q=SN-12.44)). Trung Bộ Kinh phác thảo lý thuyết này một cách rõ ràng hơn:
+Đức Phật tiếp tục giải thích cơ chế, phải có ba yếu tố hiện diện thì hình thành thế giới nhận thức: (1) sáu cơ quan nhận thức (lục căn) đã đề cập ở trên, (2) các đối tượng tương ứng với chúng (lục trần), và (3) thức (*viññāna*) (là sự nhận biết(3) về các đối tượng(2) của giác quan(1) ). Sự kết hợp của ba yếu tố này chính là nguồn gốc (chủ quan) của thế giới ([SN 12, 44, 3–9 II p. 73](/l?q=SN-12.44)). Trung Bộ Kinh phác thảo lý thuyết này một cách rõ ràng hơn:
 
-> Khi... có mắt và sắc (đối tượng nhìn), thì nhãn thức (ý thức thị giác) phát sinh. Sự gặp gỡ của ba (yếu tố này) là sự tiếp xúc (xúc); từ điều kiện tiếp xúc (phát sinh) cảm giác (thọ); những gì được cảm nhận sẽ được nhận thức (tưởng); những gì được nhận thức sẽ được suy ngẫm; những gì được suy ngẫm sẽ được phóng chiếu (phân biệt / *papañceti*) (thành thế giới bên ngoài)... ([MN 18, I p. III f.](/link?q=MN-18))
+> Khi... có mắt và sắc (đối tượng nhìn), thì nhãn thức (ý thức thị giác) phát sinh. Sự gặp gỡ của ba (yếu tố này) là sự tiếp xúc (xúc); từ điều kiện tiếp xúc (phát sinh) cảm giác (thọ); những gì được cảm nhận sẽ được nhận thức (tưởng); những gì được nhận thức sẽ được suy ngẫm; những gì được suy ngẫm sẽ được phóng chiếu (phân biệt / *papañceti*) (thành thế giới bên ngoài)... ([MN 18, I p. III f.](/l?q=MN-18))
 
 Điều tương tự cũng áp dụng cho các cơ quan cảm giác khác.
 
@@ -188,11 +188,11 @@ Theo bản đã làm rõ, cơ thể con người không chỉ có năm như thô
 
 Việc nhận ra rằng thế giới cùng với những đau khổ của nó chỉ trở thành một thực tại cá nhân khi được phản chiếu qua tấm gương ý thức — tự thân nó đã là một sự hiểu biết chứa đựng chìa khóa dẫn đến sự giải thoát. Nó cho phép ta suy luận rằng: sự chấm dứt đau khổ (trong chừng mực đau khổ phát sinh từ những va chạm với thế giới) có thể được thực hiện *bởi* con người và *từ bên trong* con người. Đây chính là ý nghĩa lời dạy của Đức Phật dành cho Rohitassa (Xích-mã):
 
-> Này Hiền giả, Ta tuyên bố rằng ngay trong chính cái thân thể dài một sải này, cùng với nhận thức và suy nghĩ của nó, (chứa đựng) thế giới, nguồn gốc của thế giới, sự chấm dứt của thế giới và con đường dẫn đến sự chấm dứt của thế giới. ([AN 4, 45, 3 II p. 48](/link?q=AN-4.45))
+> Này Hiền giả, Ta tuyên bố rằng ngay trong chính cái thân thể dài một sải này, cùng với nhận thức và suy nghĩ của nó, (chứa đựng) thế giới, nguồn gốc của thế giới, sự chấm dứt của thế giới và con đường dẫn đến sự chấm dứt của thế giới. ([AN 4, 45, 3 II p. 48](/l?q=AN-4.45))
 
 Lý thuyết này còn tiến xa hơn một bước nữa. Bởi vì trong tâm trí mình, con người không chỉ tạo ra thế giới của mình, mà còn tạo ra chính bản thân mình. Một người chỉ thực sự sống khi phản chiếu sự tồn tại của chính mình trong ý thức. Khi ý thức tiêu tan, thì 'danh và sắc' (*nāma-rūpa*), tức là Năm Uẩn (*khandha*), cũng bị loại bỏ về mặt chủ quan:
 
-> Ý thức là vô song, vô tận (và) tỏa sáng khắp nơi; ở đây, nước (và) đất, lửa và gió đều không có chỗ bám; dài và ngắn, tinh tế và thô thiển, đẹp và xấu, 'Danh và Sắc' — tất cả những thứ này đều bị triệt tiêu hoàn toàn: Thông qua sự hủy diệt của ý thức, (tất cả) mọi thứ ở đây sẽ đi đến hồi kết. ([DN 11, 85 I p. 223](/link?q=DN-11.85))
+> Ý thức là vô song, vô tận (và) tỏa sáng khắp nơi; ở đây, nước (và) đất, lửa và gió đều không có chỗ bám; dài và ngắn, tinh tế và thô thiển, đẹp và xấu, 'Danh và Sắc' — tất cả những thứ này đều bị triệt tiêu hoàn toàn: Thông qua sự hủy diệt của ý thức, (tất cả) mọi thứ ở đây sẽ đi đến hồi kết. ([DN 11, 85 I p. 223](/l?q=DN-11.85))
 
 ### 4. VÒNG LUÂN HỒI (THE CYCLE OF REBIRTH)
 
@@ -203,25 +203,25 @@ Nguyên do khởi thủy của vòng luân hồi này nằm ngoài sự quan tâ
 > Này các tỳ kheo, sự lang thang (của các chúng sinh trong vòng luân hồi) là bắt nguồn từ vô thủy. Không thể thấy được điểm bắt đầu mà từ đó, các chúng sinh, bị mắc kẹt trong sự vô minh (*avijjā*), bị trói buộc bởi sự khao khát (*taṇhā*), cứ mãi lang thang và trôi dạt (trong luân hồi).
 > 
 > Này các tỳ kheo, các ông nghĩ sao, nước trong Bốn Đại Dương lớn nhiều hơn, hay là nước mắt mà các ông đã tuôn rơi khi lang thang, trôi dạt, than khóc và xót xa trên chặng đường dài này, vì các ông phải nhận những gì mình ghét và không nhận được những gì mình yêu thương?
-> ([SN 15, 1, 7 II p. 179](/link?q=SN-15.1))
+> ([SN 15, 1, 7 II p. 179](/l?q=SN-15.1))
 
 Nhìn về tương lai cũng ngột ngạt không kém. Những cái chết mới, những lần sinh ra mới, những nỗi khổ mới — đó là tất cả những gì đang chờ đợi phía trước. Tuy nhiên, Giáo pháp (*Dhamma*) của Phật Cồ-đàm không hề bi quan. Vì Ngài chỉ ra khả năng có thể giải thoát khỏi đau khổ, nên giáo pháp này mang một nét lạc quan rất rõ ràng.
 
 ### 5. GIÁO LÝ VỀ NGHIỆP (THE DOCTRINE OF KAMMA)
 
-Kinh điển khẳng định rằng người chưa giải thoát, chắc chắn sẽ tái sinh, và không chắc chắn sẽ tái sinh làm người. Và, được sinh ra làm người được coi là một điều hiếm hoi và khó đạt được. Vũ trụ học Phật giáo liệt kê năm, đôi khi là sáu, cõi mà một người có thể tái sinh vào: cõi trời (các vị thần), cõi người, cõi ngạ quỷ (*peta* / spirits), cõi súc sinh, và địa ngục ([MN 12, I p. 73 ff.](/link?q=MN-12)). Một số văn bản còn nhắc đến cõi A-tu-la (*asura* / demons).
+Kinh điển khẳng định rằng người chưa giải thoát, chắc chắn sẽ tái sinh, và không chắc chắn sẽ tái sinh làm người. Và, được sinh ra làm người được coi là một điều hiếm hoi và khó đạt được. Vũ trụ học Phật giáo liệt kê năm, đôi khi là sáu, cõi mà một người có thể tái sinh vào: cõi trời (các vị thần), cõi người, cõi ngạ quỷ (*peta* / spirits), cõi súc sinh, và địa ngục ([MN 12, I p. 73 ff.](/l?q=MN-12)). Một số văn bản còn nhắc đến cõi A-tu-la (*asura* / demons).
 
-Mặc dù tuổi thọ của các chúng sinh ở những cõi khác nhau là rất khác nhau — nhưng không ai có thể thoát khỏi cái chết. Sự tồn tại trong địa ngục cũng không phải là vĩnh viễn vô thời hạn, bởi vì không có hành động nào tồi tệ đến mức phải chịu hình phạt đời đời kiếp kiếp. Ở cõi trời cũng vậy. Các vị thần sống lâu hơn và trong hoàn cảnh hạnh phúc hơn con người, nhưng giống như mọi chúng sinh khác, họ phải biến hoại ngay khi phước báu từ những việc thiện (nhờ đó mà họ được làm thần) đã cạn kiệt. Ngay cả Phạm Thiên (Brahman Sahampati) — vị thần tối cao trong điện thờ Ấn Độ giáo thời kỳ Phật giáo sơ khai — cũng phải chịu quy luật chung của sự hình thành và hoại diệt ([AN 10, 29, 2 V p. 60](/link?q=AN-10.29)) và không được miễn trừ khỏi cái chết và sự tái sinh.
+Mặc dù tuổi thọ của các chúng sinh ở những cõi khác nhau là rất khác nhau — nhưng không ai có thể thoát khỏi cái chết. Sự tồn tại trong địa ngục cũng không phải là vĩnh viễn vô thời hạn, bởi vì không có hành động nào tồi tệ đến mức phải chịu hình phạt đời đời kiếp kiếp. Ở cõi trời cũng vậy. Các vị thần sống lâu hơn và trong hoàn cảnh hạnh phúc hơn con người, nhưng giống như mọi chúng sinh khác, họ phải biến hoại ngay khi phước báu từ những việc thiện (nhờ đó mà họ được làm thần) đã cạn kiệt. Ngay cả Phạm Thiên (Brahman Sahampati) — vị thần tối cao trong điện thờ Ấn Độ giáo thời kỳ Phật giáo sơ khai — cũng phải chịu quy luật chung của sự hình thành và hoại diệt ([AN 10, 29, 2 V p. 60](/l?q=AN-10.29)) và không được miễn trừ khỏi cái chết và sự tái sinh.
 
 Tồn tại dưới hình hài con người chắc chắn không phải là cảnh giới cao nhất, nhưng theo quan điểm của Phật giáo, đây lại là cảnh giới thuận lợi nhất cho việc giải thoát. Các chúng sinh ở địa ngục, súc sinh, ngạ quỷ và a-tu-la thì quá tăm tối, còn các vị thần trong sự sung sướng của mình lại quá sao nhãng để nhận ra sự cần thiết phải giải thoát. Chỉ khi được tái sinh làm người, họ mới cân bằng và có khả năng được lĩnh hội giáo lý của Đức Phật và đi theo con đường giải thoát. Hơn nữa, việc được gia nhập vào tăng đoàn Phật giáo chỉ dành riêng cho con người. Do đó, hiện thân làm người là đáng khao khát.
 
 Hình thức mà một chúng sinh tái sinh sau khi chết hoàn toàn không phải là chuyện ngẫu nhiên. Quy luật nhân quả chi phối điều này giống hệt như các quy luật vật lý, nơi mọi kết quả đều có nguyên nhân của nó và tương ứng với nguyên nhân đó. Khi áp dụng vào lĩnh vực đạo đức và sự tái sinh, triết học Ấn Độ gọi quy luật này là 'Nghiệp' (*kamma* / hành động/việc làm) *(Có lẽ tác giả đã nhầm lẫn giữa Nghiệp(kamma) với Nghiệp quả(vipāka), Nghiệp là việc mình làm, Nghiệp Quả là kết quả của việc mình làm gây ra )*: Sự tái sinh vào hoàn cảnh thuận lợi là do những việc làm tốt (thiện nghiệp), và tái sinh vào hoàn cảnh bất lợi là do những việc làm xấu (ác nghiệp). Phật giáo không có khái niệm 'tội lỗi' (sin), tức là sự vi phạm các điều răn của Chúa hay của một vị thần nào đó. Phật giáo chỉ phân biệt giữa những việc làm thiện/có ích (*kusala* hoặc *puñña*) và những việc làm ác/không có ích (*akusala* hoặc *apuñña*) — tức là những việc làm dẫn đến sự giải thoát và những việc đẩy ta ra xa khỏi sự giải thoát. Cán cân giữa những hành động thiện và ác của một người vào thời điểm cuối đời sẽ quyết định loại hình và chất lượng của những kiếp sống tiếp theo của họ. Khi được hỏi tại sao một số người sinh ra trong hoàn cảnh bất hạnh, còn số khác lại sinh ra trong hoàn cảnh tốt đẹp, bậc đạo sư trả lời:
 
-> Bởi vì hành vi độc ác, hành vi bất chính của họ... một số chúng sinh khi thân xác rã rời, sau cái chết... đi vào con đường xấu, đến những nơi đau đớn, vào địa ngục... Nhờ hành vi phù hợp với giáo pháp, hành vi biết suy nghĩ của họ, một số chúng sinh khi thân xác rã rời, sau cái chết, đi vào con đường tốt, đến thế giới cõi trời. ([AN 2, 2, 6 I p. 55 f.](/link?q=AN-2.2))
+> Bởi vì hành vi độc ác, hành vi bất chính của họ... một số chúng sinh khi thân xác rã rời, sau cái chết... đi vào con đường xấu, đến những nơi đau đớn, vào địa ngục... Nhờ hành vi phù hợp với giáo pháp, hành vi biết suy nghĩ của họ, một số chúng sinh khi thân xác rã rời, sau cái chết, đi vào con đường tốt, đến thế giới cõi trời. ([AN 2, 2, 6 I p. 55 f.](/l?q=AN-2.2))
 
-> Nghiệp (Hành động) chia rẽ các chúng sinh thành kẻ thấp hèn và người cao quý. ([MN 135, III p. 203](/link?q=MN-135))
+> Nghiệp (Hành động) chia rẽ các chúng sinh thành kẻ thấp hèn và người cao quý. ([MN 135, III p. 203](/l?q=MN-135))
 
-Sự tồn tại hiện tại của chúng ta là kết quả của những việc làm do chính chúng ta thực hiện trong các kiếp trước. Cơ thể này là một 'nghiệp cũ' ([SN 12, 37, 3 II p. 65](/link?q=SN-12.37)), và chịu đựng đau khổ có nghĩa là đang gánh chịu hậu quả của nghiệp, tức là "gieo nhân nào gặt quả nấy". Những hình thức tồn tại trong tương lai của chúng ta được quyết định bởi những hành động của chúng ta ngày hôm nay; chúng ta hiện đang đặt nền móng cho 'số phận' tương lai của chính mình. Theo quan điểm của phái Tiểu thừa (Hīnayāna), Nghiệp (*kamma*) là một quy luật tự nhiên mang tính trung lập, không có ngoại lệ và không ai có thể can thiệp. Tuy nhiên, bằng cách hành động thuận theo quy luật đó, con người có thể tận dụng nó để đạt được sự tái sinh mà mình mong muốn. Tất nhiên, không cần phải nói thêm rằng ngay cả sự tái sinh hạnh phúc nhất cũng chưa phải là sự giải thoát.
+Sự tồn tại hiện tại của chúng ta là kết quả của những việc làm do chính chúng ta thực hiện trong các kiếp trước. Cơ thể này là một 'nghiệp cũ' ([SN 12, 37, 3 II p. 65](/l?q=SN-12.37)), và chịu đựng đau khổ có nghĩa là đang gánh chịu hậu quả của nghiệp, tức là "gieo nhân nào gặt quả nấy". Những hình thức tồn tại trong tương lai của chúng ta được quyết định bởi những hành động của chúng ta ngày hôm nay; chúng ta hiện đang đặt nền móng cho 'số phận' tương lai của chính mình. Theo quan điểm của phái Tiểu thừa (Hīnayāna), Nghiệp (*kamma*) là một quy luật tự nhiên mang tính trung lập, không có ngoại lệ và không ai có thể can thiệp. Tuy nhiên, bằng cách hành động thuận theo quy luật đó, con người có thể tận dụng nó để đạt được sự tái sinh mà mình mong muốn. Tất nhiên, không cần phải nói thêm rằng ngay cả sự tái sinh hạnh phúc nhất cũng chưa phải là sự giải thoát.
 
 ![Đức Phật, phong cách Gandhāra Hy Lạp hóa](images/img-10.jpg)
 
@@ -231,32 +231,32 @@ Sẽ hoàn toàn sai lầm nếu giải thích giáo lý về Nghiệp giống t
 
 Những việc làm thiện giúp con người đạt được sự tái sinh tốt đẹp hơn và nhờ đó đưa họ đến gần hơn với sự cứu rỗi; tuy nhiên, chúng không dẫn thẳng đến sự giải thoát, tức là sự chấm dứt hoàn toàn việc tái sinh. Hành động/Việc làm là thứ hữu hạn nên không thể đơm hoa kết trái vượt ra ngoài ranh giới của sự hữu hạn. Ngay cả hình thức tồn tại tốt đẹp nhất có thể đạt được thì vẫn nằm trong vòng luân hồi. Phật Cồ-đàm về hành động:
 
-> Ta dạy về hành động... cũng như sự không hành động... Ta dạy việc không thực hiện những việc làm xấu bằng thân... khẩu và ý, không làm nhiều điều xấu xa, bất thiện... Ta dạy việc thực hiện những việc làm tốt bằng thân... khẩu và ý, làm nhiều điều thiện. ([AN 2, 4, 3 I p. 62](/link?q=AN-2.4))
+> Ta dạy về hành động... cũng như sự không hành động... Ta dạy việc không thực hiện những việc làm xấu bằng thân... khẩu và ý, không làm nhiều điều xấu xa, bất thiện... Ta dạy việc thực hiện những việc làm tốt bằng thân... khẩu và ý, làm nhiều điều thiện. ([AN 2, 4, 3 I p. 62](/l?q=AN-2.4))
 
 Nhưng nếu những hành động thiện cũng trói buộc con người vào luân hồi (*saṃsāra*) giống hệt như những hành động ác, vậy thì người ta nên hành động như thế nào? Liệu có nên, hay liệu có khả thi không, khi ta kiêng khem mọi hành động?
 
 Câu trả lời của Đức Phật mang tính tâm lý học. Ngài giải thích rằng, bản thân hành động không là yếu tô quyết định lớn trong tương lai của Nghiệp, mà động cơ - tức thái độ tâm lý diễn ra trước hành động đó mới là yếu tố quyết định chính yếu: Không phải việc *thực hiện* hành động, mà chính *ý định* hành động (tâm hành / *saṅkhāra* hoặc *cetanā*) mới chính yếu định hình tương lai. Giả sử ai đó bị hoàn cảnh bên ngoài ngăn cản không thực hiện được hành động đã định: Chỉ riêng ý định hành động đó thôi cũng đủ để khắc ghi ra quả báo tương ứng. Chỉ những việc làm mà người tìm kiếm sự giải thoát thực hiện khi không có tham, sân, si mới không bị vướng vào quả báo của nghiệp.
 
-> Bất kỳ hành động nào phát sinh từ sự không tham—sinh ra, có nguồn gốc, và bắt nguồn từ sự không tham—sẽ bị từ bỏ khi tham lam được đoạn trừ. Nó bị cắt đứt tận gốc, làm như gốc cây cọ, bị xóa sạch, và không thể phát sinh trong tương lai. ([AN 3, 34, 2 I p. 135](/link?q=AN-3.34))
+> Bất kỳ hành động nào phát sinh từ sự không tham—sinh ra, có nguồn gốc, và bắt nguồn từ sự không tham—sẽ bị từ bỏ khi tham lam được đoạn trừ. Nó bị cắt đứt tận gốc, làm như gốc cây cọ, bị xóa sạch, và không thể phát sinh trong tương lai. ([AN 3, 34, 2 I p. 135](/l?q=AN-3.34))
 
 Đây chính là con đường dẫn đến sự giải thoát của Phật giáo: hành động không phát sinh từ sự tham lam thành công, không phát sinh từ ý muốn làm hại bất cứ ai và hành động trong lý trí. Nếu không có cách nào để làm việc thiện mà không bị trói buộc bởi Nghiệp, thì sự xiềng xích của con người với luân hồi sẽ không thể nào tháo gỡ được, và con người sẽ chẳng bao giờ có cơ hội thoát khỏi đau khổ.
 
 Việc sự tồn tại của kiếp sau được quyết định mạnh mẽ bởi thái độ tâm lý của người thực hiện nhiều hơn là bởi hành động thực tế cũng dẫn đến một hệ quả: cùng một hành động có thể mang lại những hậu quả khác nhau đối với những người khác nhau. Một hành động có thể gây ảnh hưởng tiêu cực lâu dài đối với một người có đạo đức không vững vàng, nhưng với một người có nền tảng đạo đức tốt, hậu quả của nó có thể chỉ ở mức tối thiểu. Một nắm muối bỏ vào một cái cốc sẽ làm cho nước trong cốc không thể uống được, nhưng cũng lượng muối đó bỏ vào sông Hằng thì nước sông vẫn y nguyên như cũ.
-([AN 3, 99 I p. 249 ff.](/link?q=AN-3.99))
+([AN 3, 99 I p. 249 ff.](/l?q=AN-3.99))
 
 Bên cạnh những hành động dẫn đến sự tái sinh, Phật giáo phân biệt những hành động đơm hoa kết trái (trả nghiệp) ngay trong kiếp sống này. Việc một hành động xấu được chuộc lỗi ngay trong kiếp hiện tại thậm chí còn được coi là một lợi thế. Một ví dụ điển hình là trường hợp của tướng cướp Aṅgulimāla. Nhận ra sự sai lầm trong hành vi của mình và khoác áo cà sa tu hành, một ngày nọ ông bị ném đá khi đang đi khất thực. Khi Đức Phật thấy ông chảy máu và áo y rách nát, Ngài đã nói:
 
-> Hãy nhẫn nhục, này Bà-la-môn! Quả báo của một việc làm (nghiệp) mà lẽ ra ông phải chịu sự thiêu đốt nhiều năm... trong địa ngục, nay ông đang trả nghiệp đó ngay trong kiếp sống này. ([MN 86, II p. 104](/link?q=MN-86))
+> Hãy nhẫn nhục, này Bà-la-môn! Quả báo của một việc làm (nghiệp) mà lẽ ra ông phải chịu sự thiêu đốt nhiều năm... trong địa ngục, nay ông đang trả nghiệp đó ngay trong kiếp sống này. ([MN 86, II p. 104](/l?q=MN-86))
 
 ### 6. NGUYÊN NHÂN CỦA SỰ TÁI SINH (THE CAUSE OF REBIRTH)
 
 Đức Phật đã tuyên bố về lực đẩy của vòng luân hồi trong 'Chân lý về Nguồn gốc của Khổ' (Tập đế):
 
-> Này các tỳ kheo, đây là Chân lý Cao quý về Nguồn gốc của Khổ: chính sự khao khát (ái dục / *taṇhā*) dẫn đến tái sinh, nó đi kèm với sự khoái lạc, gắn liền với đam mê (và) tìm kiếm niềm vui ở chỗ này chỗ kia, cụ thể là: khao khát dục vọng, khao khát sự trở thành (tồn tại), khao khát sự hủy diệt. ([(Mv 1, 6, 20 Vin I p. 10](/link?q=vin.mv-1.6) = [S 56, 11, 6 V p. 421](/link?q=SN-56.11))
+> Này các tỳ kheo, đây là Chân lý Cao quý về Nguồn gốc của Khổ: chính sự khao khát (ái dục / *taṇhā*) dẫn đến tái sinh, nó đi kèm với sự khoái lạc, gắn liền với đam mê (và) tìm kiếm niềm vui ở chỗ này chỗ kia, cụ thể là: khao khát dục vọng, khao khát sự trở thành (tồn tại), khao khát sự hủy diệt. ([(Mv 1, 6, 20 Vin I p. 10](/l?q=vin.mv-1.6) = [S 56, 11, 6 V p. 421](/l?q=SN-56.11))
 
 Sự khao khát (*taṇhā*) — trong các sách Phật giáo đôi khi được dịch là 'sự khát khao' hoặc 'dục vọng' — trói buộc các chúng sinh vào luân hồi và đẩy họ từ kiếp này sang kiếp khác:
 
-> Này các tỳ kheo, Ta không thấy có bất kỳ sợi dây trói buộc nào khác khiến các chúng sinh phải lao đi, hối hả chạy qua đêm dài (của những lần tái sinh không ngừng nghỉ), ngoài... sợi dây trói buộc của sự khao khát. ([Itiv 15](/link?q=iti-15))
+> Này các tỳ kheo, Ta không thấy có bất kỳ sợi dây trói buộc nào khác khiến các chúng sinh phải lao đi, hối hả chạy qua đêm dài (của những lần tái sinh không ngừng nghỉ), ngoài... sợi dây trói buộc của sự khao khát. ([Itiv 15](/l?q=iti-15))
 
 Sự khao khát, chủ nghĩa vị kỷ của cái "tôi" và "của tôi", có mối liên hệ chặt chẽ với niềm tin sai lầm vào một Bản ngã, một Linh hồn.
 
@@ -275,7 +275,7 @@ Chắc chắn rằng niềm tin ban đầu của Phật Cồ-đàm là: chỉ ri
 
 Các sách Pāli đề cập đến cặp khao khát và vô minh thường xuyên như khi họ nói về bộ ba nguyên nhân gây ra đau khổ (tam độc): tham (*lobha*), sân (*dosa*) và si (*moha*). Sân là mặt trái của khao khát, còn si có ý nghĩa gần với vô minh. Ngay cả khi bộ ba này không đơn thuần chỉ là sự diễn giải chi tiết hơn của cặp đôi kia, thì trên cơ sở thực tế, ta hoàn toàn có thể coi hai công thức này là tương đương nhau.
 
-Một cách sử dụng thuật ngữ dường như xuất hiện muộn hơn đã gọi chung các nguyên nhân của đau khổ bằng cái tên 'lậu hoặc' (*āsava* / influences) hoặc 'phiền não' (*kilesa* / defilements). Việc nhổ tận gốc những lậu hoặc này dẫn thẳng đến sự giải thoát. ([MN 51, I p. 348](/link?q=MN-51))
+Một cách sử dụng thuật ngữ dường như xuất hiện muộn hơn đã gọi chung các nguyên nhân của đau khổ bằng cái tên 'lậu hoặc' (*āsava* / influences) hoặc 'phiền não' (*kilesa* / defilements). Việc nhổ tận gốc những lậu hoặc này dẫn thẳng đến sự giải thoát. ([MN 51, I p. 348](/l?q=MN-51))
 
 ### 7. DUYÊN KHỞI (CONDITIONED ORIGINATION)
 
@@ -308,7 +308,7 @@ Kinh điển Pāli có nhắc đến vài phiên bản khác nhau của Chuỗi 
 > 
 > vì có (10) hữu: sinh (sự ra đời);
 > 
-> vì có (11) sinh phát sinh ra (12) già và chết, sầu, bi, khổ, ưu, não. Đây là nguồn gốc của toàn bộ khối đau khổ này. ([MN 38, I p. 261](/link?q=MN-38)).
+> vì có (11) sinh phát sinh ra (12) già và chết, sầu, bi, khổ, ưu, não. Đây là nguồn gốc của toàn bộ khối đau khổ này. ([MN 38, I p. 261](/l?q=MN-38)).
 
 Tên tiếng Pāli của công thức này — *paṭiccasamuppāda*, 'sự phát sinh có điều kiện' (duyên khởi) — chỉ ra cách chúng ta nên hiểu về mối quan hệ giữa các mắt xích trong Chuỗi. Đây không phải là sự phụ thuộc nhân quả (causal dependence), bởi vì *causa* (nguyên nhân) là thuật ngữ kỹ thuật chỉ một nguyên nhân duy nhất, không cần bất kỳ yếu tố hỗ trợ nào mà vẫn tự tạo ra kết quả. Sự phụ thuộc của các mắt xích đúng hơn là một 'thuyết điều kiện' (conditionism), vì mỗi mắt xích là một *condition* (điều kiện), tức là một trong số các điều kiện cùng góp phần làm cho mắt xích tiếp theo ra đời. [^ND-4]
 
@@ -334,29 +334,29 @@ Chỉ có một cuộc kiểm chứng lịch sử mới có thể trả lời nh
 
 VÔ MINH (*avijjā*), mắt xích mở đầu cho công thức, được định nghĩa trong các nguồn tài liệu Pāli như sau:
 
-> Không biết về khổ, về nguồn gốc của khổ, về sự chấm dứt của khổ (và) về con đường dẫn đến sự chấm dứt của khổ — đây... được gọi là vô minh. ([MN 9, I p. 54](/link?q=MN-9))
+> Không biết về khổ, về nguồn gốc của khổ, về sự chấm dứt của khổ (và) về con đường dẫn đến sự chấm dứt của khổ — đây... được gọi là vô minh. ([MN 9, I p. 54](/l?q=MN-9))
 
 Theo đó, vô minh - không hiểu biết, không được hiểu là sự thiếu kiến thức thông thường, mà cụ thể là sự không hiểu về với Tứ Diệu Đế — cách mà Đức Phật sắp xếp giáo lý của mình. Người nào không biết đến giáo pháp và chìm trong sự mù lòa tâm linh, không nhận ra được nỗi khổ bao trùm của mọi sự tồn tại luân hồi — người đó từ sự vô minh của mình sẽ phát sinh ra các 'hành' (*saṅkhāras* / ý định hành động). Và chính những 'hành' này sẽ quyết định loại hình tái sinh tiếp theo của họ.
 
-'HÀNH' (*saṅkhāra*) có nhiều nghĩa trong kinh điển Phật giáo. Trong Chuỗi Duyên Khởi cũng như trong giáo lý về Nghiệp, nó mang ý nghĩa là các ý định (*cetanā*), đặc biệt là các *ý định hành động* diễn ra trước khi hành động được thực hiện. Vì hành động hay việc làm có thể thuộc về thân, khẩu và ý, nên người ta cũng phân biệt giữa ý định của thân (thân hành), ngôn ngữ (khẩu hành) và suy nghĩ (ý hành). ([SN 12, 2, 14 II p. 4](/link?q=SN-12.2))
+'HÀNH' (*saṅkhāra*) có nhiều nghĩa trong kinh điển Phật giáo. Trong Chuỗi Duyên Khởi cũng như trong giáo lý về Nghiệp, nó mang ý nghĩa là các ý định (*cetanā*), đặc biệt là các *ý định hành động* diễn ra trước khi hành động được thực hiện. Vì hành động hay việc làm có thể thuộc về thân, khẩu và ý, nên người ta cũng phân biệt giữa ý định của thân (thân hành), ngôn ngữ (khẩu hành) và suy nghĩ (ý hành). ([SN 12, 2, 14 II p. 4](/l?q=SN-12.2))
 
 Các ý định hành động — hơn cả bản thân hành động thực tế — mang tính quyết định đối với sự tái sinh:
 
-> Này các tỳ kheo, Ta sẽ chỉ cho các ông thấy sự tái sinh theo các ý định hành động... Có... một vị tỳ kheo có niềm tin kiên định (*saddhā*)... Trong vị ấy nảy sinh (suy nghĩ): 'Ôi, giá như sau khi thân xác rã rời, sau khi chết, ta được tái sinh vào một cộng đồng những chiến binh giàu có!' Vị ấy duy trì suy nghĩ này, bám giữ suy nghĩ này, nuôi dưỡng suy nghĩ này. Các ý định hành động của vị ấy và việc vị ấy cứ đắm chìm (vào chúng) sẽ dẫn vị ấy tái sinh ở đó (trong cộng đồng đó). ([MN 120, III p. 99 f.](/link?q=MN-120))
+> Này các tỳ kheo, Ta sẽ chỉ cho các ông thấy sự tái sinh theo các ý định hành động... Có... một vị tỳ kheo có niềm tin kiên định (*saddhā*)... Trong vị ấy nảy sinh (suy nghĩ): 'Ôi, giá như sau khi thân xác rã rời, sau khi chết, ta được tái sinh vào một cộng đồng những chiến binh giàu có!' Vị ấy duy trì suy nghĩ này, bám giữ suy nghĩ này, nuôi dưỡng suy nghĩ này. Các ý định hành động của vị ấy và việc vị ấy cứ đắm chìm (vào chúng) sẽ dẫn vị ấy tái sinh ở đó (trong cộng đồng đó). ([MN 120, III p. 99 f.](/l?q=MN-120))
 
 Đoạn kinh này chỉ ra rằng các ý định hành động không chỉ gây ra sự tái sinh, mà còn quyết định loại hình và chất lượng của sự tái sinh đó.
 
 Cách chúng làm điều này được giải thích vô cùng chi tiết trong các tài liệu Pāli. Ý định hành động có thể có ba tính chất: thiện, ác và trung tính. Tính chất của THỨC (*viññāna* / ý thức) phát sinh dựa trên các ý định hành động sẽ hoàn toàn khớp với tính chất của chính những ý định đó:
 
-> Này các tỳ kheo, khi một kẻ vô minh nảy sinh một ý định hành động thiện (*saṅkhāra*), ý thức của hắn (*viññāna*) sẽ hướng về cái thiện. Khi hắn nảy sinh một ý định hành động ác, ... một ý định hành động trung tính, ý thức của hắn sẽ hướng về cái ác, ... hướng về cái trung tính. ([SN 12, 51, 12 II p. 82](/link?q=SN-12.51))
+> Này các tỳ kheo, khi một kẻ vô minh nảy sinh một ý định hành động thiện (*saṅkhāra*), ý thức của hắn (*viññāna*) sẽ hướng về cái thiện. Khi hắn nảy sinh một ý định hành động ác, ... một ý định hành động trung tính, ý thức của hắn sẽ hướng về cái ác, ... hướng về cái trung tính. ([SN 12, 51, 12 II p. 82](/l?q=SN-12.51))
 
 Sau khi một chúng sinh chết đi, ý thức thiện, ác hoặc trung tính của người đó sẽ đi vào một tử cung thiện, ác hoặc trung tính tương ứng, và tạo ra tại đó sự khởi nguồn của DANH VÀ SẮC (*nāma-rūpa*), tức là một con người thực nghiệm mới (thiện, ác hoặc trung tính):
 
-> Từ điều kiện là thức (phát sinh ra) Danh và Sắc, Ta đã tuyên bố như vậy. Điều này... phải được hiểu như sau...: Nếu... thức (của một chúng sinh đã chết) không đi vào tử cung của một người mẹ, thì Danh và Sắc có thể phát sinh trong tử cung này không? — Chắc chắn là không, thưa Thế Tôn! (vị tỳ kheo được hỏi trả lời). ([DN 15, 21 II p. 62 f.](/link?q=DN-15.21))
+> Từ điều kiện là thức (phát sinh ra) Danh và Sắc, Ta đã tuyên bố như vậy. Điều này... phải được hiểu như sau...: Nếu... thức (của một chúng sinh đã chết) không đi vào tử cung của một người mẹ, thì Danh và Sắc có thể phát sinh trong tử cung này không? — Chắc chắn là không, thưa Thế Tôn! (vị tỳ kheo được hỏi trả lời). ([DN 15, 21 II p. 62 f.](/l?q=DN-15.21))
 
 Ý thức của người đầu thai đi vào tử cung của người mẹ tương lai; nó không là 'con người với kinh nghiệm' đi tái sinh được hình thành trong tử cung. Cái 'ý thức' đi vào đó không phải là một Linh hồn hay Bản ngã (*attan*) chuyển sang hình thức tồn tại mới. Có thể hình dung nó hoạt động giống như một chất xúc tác kích hoạt một phản ứng hóa học, nhưng không còn hiện diện trong sản phẩm cuối cùng của phản ứng đó.
 
-Trong Trung Bộ Kinh ([Majjhimanikāya 38 I p. 258](/link?q=MN-38.26)), Phật Cồ-đàm bác bỏ quan điểm cho rằng ý thức là một thực thể vĩnh cửu di cư qua chuỗi tái sinh. Quan điểm đúng đắn là: 'Ý thức này quay trở lại (*paccudāvattati*), (trong Chuỗi Duyên Khởi) nó không đi xa hơn Danh và Sắc' ([DN 14, 2, 19 II p. 32](/link?q=DN-14.2)). Người được tái sinh sẽ phát triển ý thức của riêng mình, và ý thức này không đồng nhất với ý thức trong kiếp trước của họ. *(ND: tôi đọc tài liệu [DN 14, 2] nhưng không tìm thấy thông tin như tác giả nói)*
+Trong Trung Bộ Kinh ([Majjhimanikāya 38 I p. 258](/l?q=MN-38.26)), Phật Cồ-đàm bác bỏ quan điểm cho rằng ý thức là một thực thể vĩnh cửu di cư qua chuỗi tái sinh. Quan điểm đúng đắn là: 'Ý thức này quay trở lại (*paccudāvattati*), (trong Chuỗi Duyên Khởi) nó không đi xa hơn Danh và Sắc' ([DN 14, 2, 19 II p. 32](/l?q=DN-14.2)). Người được tái sinh sẽ phát triển ý thức của riêng mình, và ý thức này không đồng nhất với ý thức trong kiếp trước của họ. *(ND: tôi đọc tài liệu [DN 14, 2] nhưng không tìm thấy thông tin như tác giả nói)*
 
 Xin nhắc lại: Việc ý thức đi vào tử cung nào phụ thuộc vào khuynh hướng nghiệp của chính ý thức đó. Một ý thức nảy sinh từ những ý định hành động thiện (do đó mang tính chất tốt đẹp), sau khi 'chủ nhân' hiện tại của nó qua đời, sẽ tìm kiếm một tử cung tốt đẹp tương ứng với những tố chất di truyền thuận lợi. Miễn là các điều kiện sinh học được đáp ứng,[^14] nó sẽ kích thích sự phát triển của một chúng sinh mới trong tử cung mới này không phải bản thân nó biến đổi thành chúng sinh mới. Sau khi chúng sinh mới ra đời, chất lượng của người đó sẽ hoàn toàn phù hợp với chất lượng của những ý định hành động vốn là nguyên nhân (nghiệp) tạo ra người đó. Giáo lý về nghiệp (*kamma*) được mô tả chi tiết về cách thức hoạt động như vậy.
 
@@ -366,7 +366,7 @@ Các mắt xích từ 5 đến 12 của Chuỗi Duyên Khởi không quá khó h
 
 Trong kinh điển Pāli, một vị tì kheo đặt câu hỏi về chủ thể gánh vác chuỗi sự kiện duyên sinh này: Các hiện tượng được nhắc đến trong Chuỗi Duyên khởi (Nexus of Conditioned Origination) thuộc về ai, và xảy ra cho ai? Đức Phật đáp:
 
-> Câu hỏi (này) là không hợp lệ... Nếu một vị tì kheo hỏi: 'Những (hiện tượng được nhắc đến trong Chuỗi Duyên khởi) là gì... và chúng thuộc về ai...?', (thì câu trả lời nên là:) 'Cả hai điều này là một, chỉ khác nhau ở cách diễn đạt'... . Này Tỷ kheo, nếu ngươi có quan điểm rằng linh hồn và thân xác là một, thì không có đời sống phạm hạnh. Nếu ngươi có quan điểm rằng linh hồn và thân xác là khác nhau, thì không có đời sống phạm hạnh. Tránh hai cực đoan này, Như Lai giảng dạy bằng trung đạo: ‘Vô minh là điều kiện cho hành.’ ([SN 12, 35, 3 ff. II p. 61 ff.](/link?q=SN-12.35))
+> Câu hỏi (này) là không hợp lệ... Nếu một vị tì kheo hỏi: 'Những (hiện tượng được nhắc đến trong Chuỗi Duyên khởi) là gì... và chúng thuộc về ai...?', (thì câu trả lời nên là:) 'Cả hai điều này là một, chỉ khác nhau ở cách diễn đạt'... . Này Tỷ kheo, nếu ngươi có quan điểm rằng linh hồn và thân xác là một, thì không có đời sống phạm hạnh. Nếu ngươi có quan điểm rằng linh hồn và thân xác là khác nhau, thì không có đời sống phạm hạnh. Tránh hai cực đoan này, Như Lai giảng dạy bằng trung đạo: ‘Vô minh là điều kiện cho hành.’ ([SN 12, 35, 3 ff. II p. 61 ff.](/l?q=SN-12.35))
 
 Trong chuỗi Duyên khởi này không có 'chủ thể gánh vác chính' (bearer), và cũng không tựa vào một thực thể cốt lõi (substance) nào. Thay vào đó, chúng là từ sự tiếp nối của các yếu tố tồn tại ngắn ngủi trong chuỗi này, một cá nhân thực nghiệm (empirical individual / con người bằng xương bằng thịt) và chuỗi luân hồi của người đó được hình thành. Tồn tại là một quá trình liên tục biến đổi (fluctuation), chứ không phải là một trạng thái tĩnh tại (being). Giống như các âm thanh được sắp xếp lại tạo thành một giai điệu, các hiện tượng ngắn ngủi sinh ra do duyên cũng tạo nên chuỗi các kiếp sống như vậy. Chuỗi Duyên khởi = con người thực nghiệm = sự khổ — đây chính là công thức nền tảng cho quan niệm của Phật giáo về con người.
 
@@ -384,13 +384,13 @@ Trong chuỗi Duyên khởi này không có 'chủ thể gánh vác chính' (bea
 
 Gắn liền với hình ảnh này về cá nhân là vấn đề về sự đồng nhất (identity) giữa các chúng sinh qua một chuỗi các kiếp tái sinh. Vị đạo sĩ khổ hạnh lõa thể Kassapa đã hỏi Đức Phật rằng theo giáo lý của ngài, người phải chịu hậu quả của những hành động (kamma / nghiệp) trong quá khứ dưới hình thức tái sinh là chính người đó hay là một người khác. Gotama đáp:
 
-> Khi nói: 'Người đó hành động, (chính) người đó thọ hưởng (quả của hành động)',... người ta đi đến (nhận định về con người) là vĩnh cửu. Khi nói: 'Một người hành động, một người khác thọ hưởng (quả của hành động)',... người ta đi đến (nhận định về con người) là có thể bị tiêu diệt. Không rơi vào thái cực nào, Bậc Chân nhân đã chỉ ra giáo lý (nằm) ở khoảng giữa: Từ sự vô minh (ignorance) làm điều kiện tiền đề, (phát sinh) các ý định hành động (action-intentions / hành)... (v.v.). ([SN 12, 17, 14 ff. II p. 20](/link?q=SN-12.17))
+> Khi nói: 'Người đó hành động, (chính) người đó thọ hưởng (quả của hành động)',... người ta đi đến (nhận định về con người) là vĩnh cửu. Khi nói: 'Một người hành động, một người khác thọ hưởng (quả của hành động)',... người ta đi đến (nhận định về con người) là có thể bị tiêu diệt. Không rơi vào thái cực nào, Bậc Chân nhân đã chỉ ra giáo lý (nằm) ở khoảng giữa: Từ sự vô minh (ignorance) làm điều kiện tiền đề, (phát sinh) các ý định hành động (action-intentions / hành)... (v.v.). ([SN 12, 17, 14 ff. II p. 20](/l?q=SN-12.17))
 
 Vì không có một Bản ngã (Self / Ngã) bất tử nào chạy xuyên qua các kiếp sống khác nhau giống như một sợi chỉ lụa xâu chuỗi các hạt ngọc trai, nên không thể nói người gặt hái quả từ những hạt giống hành động (kammic seeds / nghiệp nhân) của các kiếp trước trong lần tái sinh là cùng một người. Mặt khác, người được tái sinh cũng không hoàn toàn độc lập, bởi vì người sinh mới này được thừa hưởng nghiệp quả gây ra và tiếp nối từ kiếp sống trước đó của nó, nó giống như một ngọn lửa được thắp lên từ một ngọn lửa khác. Sự thật nằm ở giữa sự đồng nhất (identity) và sự tách biệt hoàn toàn (isolation): Đó là sự phụ thuộc lẫn nhau theo điều kiện  (conditional dependence / duyên sinh).
 
 Mặc dù không có một nền tảng cốt lõi (substratum) nào nối kết các chúng sinh trong chuỗi tái sinh, người ta thấy trong kinh việc nhớ lại các tiền kiếp của mình là điều có thể, tất nhiên chỉ ở một mức độ hoàn thiện cao. Khi mô tả trải nghiệm giác ngộ của mình, Gotama kể:
 
-> Ta nhớ lại nhiều kiếp sống trước đây, cụ thể là một kiếp, hai..., ba..., bốn..., năm..., mười..., hai mươi..., năm mươi..., một trăm kiếp: ... Ở đó ta đã hiện hữu, mang tên đó, thuộc gia đình đó, giai cấp đó là của ta, sinh kế đó là của ta, ta đã trải qua những hạnh phúc và đau khổ như vậy, đó là kết cục của ta; sau khi qua đời, ta lại tái sinh ở nơi kia: ở đó ta đã hiện hữu, mang tên đó... ([MN 36, I p. 248](/link?q=MN-36))
+> Ta nhớ lại nhiều kiếp sống trước đây, cụ thể là một kiếp, hai..., ba..., bốn..., năm..., mười..., hai mươi..., năm mươi..., một trăm kiếp: ... Ở đó ta đã hiện hữu, mang tên đó, thuộc gia đình đó, giai cấp đó là của ta, sinh kế đó là của ta, ta đã trải qua những hạnh phúc và đau khổ như vậy, đó là kết cục của ta; sau khi qua đời, ta lại tái sinh ở nơi kia: ở đó ta đã hiện hữu, mang tên đó... ([MN 36, I p. 248](/l?q=MN-36))
 
 ### 10. SỰ CHẤM DỨT KHỔ ĐAU
 
@@ -400,7 +400,7 @@ Mặc dù không có một nền tảng cốt lõi (substratum) nào nối kết
 
 Theo 'Sự thật về Nguồn gốc của Khổ đau' (Tập đế), vì sự khao khát (craving / taṇhā / ái) là nguyên nhân gây ra khổ đau, nên việc chấm dứt khổ đau là điều có thể thực hiện được thông qua việc tiêu diệt sự khao khát:
 
-> Này các tì kheo, đây là Sự thật Cao quý về sự chấm dứt khổ đau; đó là sự dập tắt hoàn toàn, sự phá hủy, sự từ bỏ, sự chối bỏ, sự rời xa (và) rũ bỏ chính sự khao khát này. ([(Mv 1, 6, 21 Vin I p. 10](/link?q=vin.mv-1.6) = [SN 56, 11, 7 V p. 421](/link?q=SN-56.11))
+> Này các tì kheo, đây là Sự thật Cao quý về sự chấm dứt khổ đau; đó là sự dập tắt hoàn toàn, sự phá hủy, sự từ bỏ, sự chối bỏ, sự rời xa (và) rũ bỏ chính sự khao khát này. ([(Mv 1, 6, 21 Vin I p. 10](/l?q=vin.mv-1.6) = [SN 56, 11, 7 V p. 421](/l?q=SN-56.11))
 
 Cùng với việc nhổ tận gốc sự khao khát, vòng luân hồi đau khổ sẽ đi đến hồi kết đối với chúng sinh đó.
 
@@ -410,7 +410,7 @@ Các văn bản khác chỉ ra rằng vô minh (ignorance / avijjā), bên cạn
 > vòng quay của sự sinh và tử:\
 > Từ kiếp sống này sang kiếp sống tới\
 > họ bước đi bởi chính sự vô minh của mình.
-([Snp 729](/link?q=snp-729))
+([Snp 729](/l?q=snp-729))
 
 Do đó, vô minh cũng phải được nhổ bỏ tận gốc nếu muốn tìm kiếm sự giải thoát. Mục tiêu này không bao giờ có thể đạt được nếu không có sự giác ngộ (enlightenment / bodhi), nghĩa là không nhận ra bản chất đau khổ của mọi sự tồn tại và không nắm bắt được khả năng có thể tiêu diệt khổ đau.
 
@@ -436,7 +436,7 @@ Sự thật thứ tư của Gotama trình bày cách thức để đạt đượ
 > (5) Kế sinh nhai Đúng đắn (Right Livelihood / Chánh mạng),\
 > (6) Nỗ lực Đúng đắn (Right Effort / Chánh tinh tấn),\
 > (7) Sự tỉnh giác Đúng đắn (Right Awareness / Chánh niệm),\
-> (8) Sự thiền định Đúng đắn (Right Meditation / Chánh định).([(Mv 1, 6, 22 Vin I p. 10](/link?q=vin.mv-1.6) = [S 56, 11, 8 V p. 421](/link?q=SN-56.11))
+> (8) Sự thiền định Đúng đắn (Right Meditation / Chánh định).([(Mv 1, 6, 22 Vin I p. 10](/l?q=vin.mv-1.6) = [S 56, 11, 8 V p. 421](/l?q=SN-56.11))
 
 Những quy tắc này không phải là từng bước tuần tự mà người tìm kiếm qua lần lượt, mà là những phẩm chất cần được phát triển đồng thời. Mối liên hệ chặt chẽ giữa chúng khiến cho việc bỏ qua một quy tắc sẽ cản trở việc thực hiện những quy tắc còn lại. 
 
@@ -452,19 +452,19 @@ Giống như bản thân Con đường Tám phần, sự phân chia làm ba nhó
 
 Dưới đây là chi tiết các quy tắc của Con đường Tám phần.
 
-(1) Cái nhìn Đúng đắn (Right View / sammā-diṭṭhi / Chánh kiến) là sự hiểu biết về Bốn Sự thật của Phật giáo ([DN 22, 21 II p. 312](/link?q=DN-22.21)) và sự nhận thức rằng 'không có một Bản ngã nào là của ta (và) những gì sinh ra... (rồi) biến hoại (vô thường / perishes) chỉ là sự khổ' ([SN 12, 15, 6 II p. 17](/link?q=SN-12.15)). Người nào tin chắc vào tính vô ngã (non-selfness) thì đã tiến một bước dài tới việc tiêu diệt khổ đau, bởi vì điều gì có thể làm lay chuyển một người khi họ biết rằng không có sự kiện nào liên quan đến 'họ' (cái tôi của họ)? *(Ghi chú: sammā-diṭṭhi, hán dịnh: Chánh kiến, hiểu đúng 'nhìn thấy được điều đúng đắn', cũng như bất cứ điều trên thế gian, trước khi làm ta phải thấy trước, ví dụ khi đi đường thì gọi là biết điểm mình muốn đến, tiếp theo với có một loạt các biện pháp để đi đến điểm đó)*
+(1) Cái nhìn Đúng đắn (Right View / sammā-diṭṭhi / Chánh kiến) là sự hiểu biết về Bốn Sự thật của Phật giáo ([DN 22, 21 II p. 312](/l?q=DN-22.21)) và sự nhận thức rằng 'không có một Bản ngã nào là của ta (và) những gì sinh ra... (rồi) biến hoại (vô thường / perishes) chỉ là sự khổ' ([SN 12, 15, 6 II p. 17](/l?q=SN-12.15)). Người nào tin chắc vào tính vô ngã (non-selfness) thì đã tiến một bước dài tới việc tiêu diệt khổ đau, bởi vì điều gì có thể làm lay chuyển một người khi họ biết rằng không có sự kiện nào liên quan đến 'họ' (cái tôi của họ)? *(Ghi chú: sammā-diṭṭhi, hán dịnh: Chánh kiến, hiểu đúng 'nhìn thấy được điều đúng đắn', cũng như bất cứ điều trên thế gian, trước khi làm ta phải thấy trước, ví dụ khi đi đường thì gọi là biết điểm mình muốn đến, tiếp theo với có một loạt các biện pháp để đi đến điểm đó)*
 
-Cái nhìn Đúng đắn còn bao gồm việc vứt bỏ Bốn Quan điểm Sai lệch (Four Perverse Views / vipallāsa / Tứ điên đảo), đó là: tìm kiếm một cái gì đó thường hằng trong cái biến hoại (vô thường), tìm kiếm hạnh phúc trong sự khổ, tìm kiếm một Bản ngã trong cái vô ngã và tìm kiếm vẻ đẹp trong những thứ xấu xí ([AN 4, 49, 1 II p. 52](/link?q=AN-4.49)).
+Cái nhìn Đúng đắn còn bao gồm việc vứt bỏ Bốn Quan điểm Sai lệch (Four Perverse Views / vipallāsa / Tứ điên đảo), đó là: tìm kiếm một cái gì đó thường hằng trong cái biến hoại (vô thường), tìm kiếm hạnh phúc trong sự khổ, tìm kiếm một Bản ngã trong cái vô ngã và tìm kiếm vẻ đẹp trong những thứ xấu xí ([AN 4, 49, 1 II p. 52](/l?q=AN-4.49)).
 
-(2) Quyết tâm Đúng đắn (Right Resolve / sammā-saṅkappa / Chánh tư duy) được chia làm ba phần: quyết tâm từ bỏ (dục vọng), quyết tâm hướng thiện (từ tâm) và quyết tâm không làm hại các chúng sinh sống ([DN 22, 21 II p. 312](/link?q=DN-22.21)). *(Ghi chú: sammā-saṅkappa, hán dịch: chánh tư duy, nếu dựa vào những từ mô tả: không tham, không sân, không hại và vị trí của nó trong 8 Phần, thì chúng tôi nghiêng về 'suy nghĩ về')*
+(2) Quyết tâm Đúng đắn (Right Resolve / sammā-saṅkappa / Chánh tư duy) được chia làm ba phần: quyết tâm từ bỏ (dục vọng), quyết tâm hướng thiện (từ tâm) và quyết tâm không làm hại các chúng sinh sống ([DN 22, 21 II p. 312](/l?q=DN-22.21)). *(Ghi chú: sammā-saṅkappa, hán dịch: chánh tư duy, nếu dựa vào những từ mô tả: không tham, không sân, không hại và vị trí của nó trong 8 Phần, thì chúng tôi nghiêng về 'suy nghĩ về')*
 
 Nhóm 'đạo đức' bao gồm ba quy tắc tiếp theo (3, 4 và 5). Chúng chủ yếu nhằm mục đích tích lũy công đức từ hành động (kammic merit / puñña) để tạo nền tảng cho sự tái sinh tốt đẹp hơn. Nhưng vì chúng hướng cả vào bên trong lẫn ra bên ngoài, nên chúng cũng mang lại lợi ích cho các chúng sinh khác.
 
-(3) Lời nói Đúng đắn (Right Speech / sammā-vāca / Chánh ngữ) là lời nói không bao gồm sự dối trá, chuyện ngồi lê đôi mách, sự lăng mạ và những lời nói nhảm nhí ([DN 22, 21 II p. 312](/link?q=DN-22.21)). Không nên phung phí lời nói vào mọi chủ đề:
+(3) Lời nói Đúng đắn (Right Speech / sammā-vāca / Chánh ngữ) là lời nói không bao gồm sự dối trá, chuyện ngồi lê đôi mách, sự lăng mạ và những lời nói nhảm nhí ([DN 22, 21 II p. 312](/l?q=DN-22.21)). Không nên phung phí lời nói vào mọi chủ đề:
 
-> Những điều được thấy..., mà qua đó các hiện tượng tinh thần xấu xa (unwholesome mental phenomena / dhamma / ác pháp) của người nói gia tăng và các hiện tượng tinh thần tốt đẹp (wholesome mental phenomena / thiện pháp) giảm đi, những điều đó không nên nói ra, ta dạy như vậy. Tuy nhiên, những điều được thấy..., mà qua đó các hiện tượng tinh thần xấu xa của người nói suy giảm và các hiện tượng tinh thần tốt đẹp gia tăng, những điều đó nên được nói ra, ta dạy như vậy. ([AN 4, 183, 3 II p. 173](/link?q=AN-4.183))
+> Những điều được thấy..., mà qua đó các hiện tượng tinh thần xấu xa (unwholesome mental phenomena / dhamma / ác pháp) của người nói gia tăng và các hiện tượng tinh thần tốt đẹp (wholesome mental phenomena / thiện pháp) giảm đi, những điều đó không nên nói ra, ta dạy như vậy. Tuy nhiên, những điều được thấy..., mà qua đó các hiện tượng tinh thần xấu xa của người nói suy giảm và các hiện tượng tinh thần tốt đẹp gia tăng, những điều đó nên được nói ra, ta dạy như vậy. ([AN 4, 183, 3 II p. 173](/l?q=AN-4.183))
 
-(4) Hành vi Đúng đắn (Right Conduct / sammā-kammanta / Chánh nghiệp) có nghĩa là tránh tước đoạt sinh mạng, tránh lấy những thứ không được cho và tránh sự trụy lạc ([DN 22, 21 II p. 312](/link?q=DN-22.21)). Việc những lệnh cấm này được coi trọng đến mức nào thể hiện qua bộ luật của tu viện, trong đó việc coi thường chúng sẽ phải chịu hình phạt kỉ luật nghiêm khắc nhất (chỉ áp dụng cho bốn tội), đó là bị trục xuất khỏi tăng đoàn.
+(4) Hành vi Đúng đắn (Right Conduct / sammā-kammanta / Chánh nghiệp) có nghĩa là tránh tước đoạt sinh mạng, tránh lấy những thứ không được cho và tránh sự trụy lạc ([DN 22, 21 II p. 312](/l?q=DN-22.21)). Việc những lệnh cấm này được coi trọng đến mức nào thể hiện qua bộ luật của tu viện, trong đó việc coi thường chúng sẽ phải chịu hình phạt kỉ luật nghiêm khắc nhất (chỉ áp dụng cho bốn tội), đó là bị trục xuất khỏi tăng đoàn.
 
 Trong trường hợp giết người, việc bị tước y áo sẽ đặt vị tì kheo dưới quyền xét xử của thế tục, nơi người đó bị đưa ra tòa xét xử như bất kì người thường nào khác.
 
@@ -472,37 +472,37 @@ Tuy nhiên, việc một tì kheo cố ý giết một con vật lại bị tr�
 
 Hành vi trộm cắp do một vị tì kheo thực hiện được coi là lí do để trục xuất, trong khi cùng hành vi đó do một người thường thực hiện sẽ dẫn đến việc bị kết án. Những vi phạm nhỏ hơn liên quan đến tài sản sẽ bị xử lí bằng các biện pháp kỉ luật.
 
-Hình phạt khắc nghiệt nhất một lần nữa đe dọa một vị tì kheo nếu có hành vi không trong sạch (unchastity / dâm dục) thực tế hoặc có ý định thực hiện. Mặt khác, đối với cư sĩ tại gia, họ chỉ được yêu cầu không thỏa mãn dục vọng của mình — nếu họ phải nhượng bộ nó — với những cô gái đang dưới sự bảo hộ của cha mẹ và người thân, với phụ nữ đã có gia đình hoặc với gái mại dâm ([MN 41, I p. 286](/link?q=MN-41)).
+Hình phạt khắc nghiệt nhất một lần nữa đe dọa một vị tì kheo nếu có hành vi không trong sạch (unchastity / dâm dục) thực tế hoặc có ý định thực hiện. Mặt khác, đối với cư sĩ tại gia, họ chỉ được yêu cầu không thỏa mãn dục vọng của mình — nếu họ phải nhượng bộ nó — với những cô gái đang dưới sự bảo hộ của cha mẹ và người thân, với phụ nữ đã có gia đình hoặc với gái mại dâm ([MN 41, I p. 286](/l?q=MN-41)).
 
 (5) Kế sinh nhai Đúng đắn (Right Livelihood / sammā-ājīva / Chánh mạng) ngụ ý việc theo đuổi một công việc kiếm sống vô hại, không gây đau khổ cho người khác:
 
-> Này các tì kheo, năm nghề buôn bán này không nên được người cư sĩ tại gia theo đuổi. Năm nghề đó là gì?—: Buôn bán vũ khí, buôn bán sinh vật sống, buôn bán thịt, buôn bán rượu, và buôn bán chất độc. ([AN 5, 177 III p. 208](/link?q=AN-5.177))
+> Này các tì kheo, năm nghề buôn bán này không nên được người cư sĩ tại gia theo đuổi. Năm nghề đó là gì?—: Buôn bán vũ khí, buôn bán sinh vật sống, buôn bán thịt, buôn bán rượu, và buôn bán chất độc. ([AN 5, 177 III p. 208](/l?q=AN-5.177))
 
-Các nghề nghiệp không tương thích với Kế sinh nhai Đúng đắn là: người mổ cừu hoặc lợn, người bẫy chim, người bẫy thú, thợ săn, ngư dân, kẻ cướp, đao phủ và cai ngục ([MN 51, I p. 343](/link?q=MN-51)).
+Các nghề nghiệp không tương thích với Kế sinh nhai Đúng đắn là: người mổ cừu hoặc lợn, người bẫy chim, người bẫy thú, thợ săn, ngư dân, kẻ cướp, đao phủ và cai ngục ([MN 51, I p. 343](/l?q=MN-51)).
 
 Mặc dù nghề đồ tể và buôn bán thịt không được phép, nhưng nếu từ đó kết luận rằng điều này đòi hỏi tất cả những người theo Đạo pháp (Dhamma) phải ăn chay là không chính xác. Đương nhiên, một người tìm kiếm con đường tâm linh nghiêm túc sẽ giảm hoặc ngừng ăn thịt vì lòng trắc ẩn đối với động vật, nhưng khi làm như vậy, họ không thể vin vào một mệnh lệnh của Đức Phật. Ngay cả vị tì kheo được cúng dường thịt trong bát khất thực cũng không bị cấm ăn nó, trừ khi vị đó biết rằng con vật bị giết đặc biệt dành riêng cho mình.
 
-Những phát biểu của Gotama về tư cách đạo đức đúng đắn trong đời sống nghề nghiệp rất đáng chú ý. Ngài cho rằng sự nghèo đói cùng cực là nguyên nhân gây ra trộm cắp, bạo lực và giết người ([DN 26, 14 III p. 68](/link?q=DN-26.14)). Ngài giải thích cho một người đàn ông có biệt danh là 'Đầu gối dài' rằng có bốn điều dẫn đến sự sung túc ở thế gian: sự thành thạo trong nghề nghiệp, việc bảo vệ tài sản khỏi bị mất mát, có những người bạn tốt và một mức sống phù hợp với thu nhập của mình ([AN 8, 54 IV p. 281 f.](/link?q=AN-8.54)). Về việc lập ngân sách, ngài khuyên rằng một phần tư thu nhập nên dùng để sinh hoạt, một nửa dành cho các giao dịch kinh doanh và một phần tư cuối cùng để tiết kiệm ([DN 31, 26 III p. 188](/link?q=DN-31.26)).
+Những phát biểu của Gotama về tư cách đạo đức đúng đắn trong đời sống nghề nghiệp rất đáng chú ý. Ngài cho rằng sự nghèo đói cùng cực là nguyên nhân gây ra trộm cắp, bạo lực và giết người ([DN 26, 14 III p. 68](/l?q=DN-26.14)). Ngài giải thích cho một người đàn ông có biệt danh là 'Đầu gối dài' rằng có bốn điều dẫn đến sự sung túc ở thế gian: sự thành thạo trong nghề nghiệp, việc bảo vệ tài sản khỏi bị mất mát, có những người bạn tốt và một mức sống phù hợp với thu nhập của mình ([AN 8, 54 IV p. 281 f.](/l?q=AN-8.54)). Về việc lập ngân sách, ngài khuyên rằng một phần tư thu nhập nên dùng để sinh hoạt, một nửa dành cho các giao dịch kinh doanh và một phần tư cuối cùng để tiết kiệm ([DN 31, 26 III p. 188](/l?q=DN-31.26)).
 *(Ghi chú: Cách chia tiền như vậy gần giống với những gì mà chúng ta học, tiết kiệm và có bạn tốt. Cách chia tiền 25% sinh hoạt; 50% đầu tư kinh doanh; 25% tiết kiệm có thể thấy đây là mẫu chia tiền ngày nay dành cho người có tài sản trung bình - để 50% là tiền và tài sản tiết kiệm, đầu tư kinh doanh chiếm 50% )*
 
 Ba hạng mục cuối cùng của Con đường Tám phần được gộp chung dưới tiêu đề 'thiền định'. Ở đây, 'thiền định' nên được hiểu theo nghĩa rộng là một phương pháp rèn luyện kỉ luật tinh thần.
 
-(6) Nỗ lực Đúng đắn (Right Effort / sammā-vāyāma / Chánh tinh tấn) được định nghĩa là sự nỗ lực ngăn chặn các hiện tượng tinh thần xấu xa và tạo ra các hiện tượng tinh thần tốt đẹp ([DN 22, 21 II p. 312](/link?q=DN-22.21)). Bài tập quan trọng nhất của nó là 'canh giữ các cửa ngõ giác quan' (guarding of the sense-gates) nhằm rèn luyện sự quan sát thuần túy, tức là quan sát khách quan:
+(6) Nỗ lực Đúng đắn (Right Effort / sammā-vāyāma / Chánh tinh tấn) được định nghĩa là sự nỗ lực ngăn chặn các hiện tượng tinh thần xấu xa và tạo ra các hiện tượng tinh thần tốt đẹp ([DN 22, 21 II p. 312](/l?q=DN-22.21)). Bài tập quan trọng nhất của nó là 'canh giữ các cửa ngõ giác quan' (guarding of the sense-gates) nhằm rèn luyện sự quan sát thuần túy, tức là quan sát khách quan:
 
 > Khi... một vị tì kheo nhìn thấy một hình sắc bằng mắt, vị ấy không bám víu vào toàn bộ diện mạo cũng như các chi tiết. Vì sự ham muốn hay ác cảm, những hiện tượng tinh thần xấu xa và bất thiện sẽ áp đảo người sống mà không kiểm soát được ý thức của con mắt, nên vị ấy cố gắng kiểm soát nó. Vị ấy canh giữ ý thức của con mắt (và cuối cùng) mang lại (sự) kiểm soát nó...
 
-> Khi vị ấy nghe một âm thanh bằng tai..., ngửi một mùi bằng mũi..., nếm một vị bằng lưỡi..., cảm nhận một vật xúc chạm bằng thân..., nhận thức một đối tượng tinh thần bằng ý nghĩ, vị ấy không bám víu vào toàn bộ diện mạo cũng như các chi tiết... ([DN 2, 64 I p. 70](/link?q=DN-2.64))
+> Khi vị ấy nghe một âm thanh bằng tai..., ngửi một mùi bằng mũi..., nếm một vị bằng lưỡi..., cảm nhận một vật xúc chạm bằng thân..., nhận thức một đối tượng tinh thần bằng ý nghĩ, vị ấy không bám víu vào toàn bộ diện mạo cũng như các chi tiết... ([DN 2, 64 I p. 70](/l?q=DN-2.64))
 
 Ý nghĩa của lời chỉ dẫn này không hiển nhiên ngay lập tức.
 
 Với bất kì nhận thức giác quan nào, có hai yếu tố cần được tách bạch: tác nhân kích thích (stimulus) và phản ứng cảm xúc đối với nó. Bất kì nỗ lực nào nhằm loại bỏ các tác nhân kích thích bằng cách tắt các giác quan đều vô vọng, vì mọi chúng sinh đều cần các cơ quan giác quan hoạt động để duy trì sự sống. Tuy nhiên, phản ứng đối với những kích thích này là thứ có thể kiểm soát được. Thay vì để chúng phát triển thành sự đồng cảm và ác cảm, ham muốn và thù hận, người tìm kiếm phải biến chúng thành đối tượng của sự phân tích tinh thần và qua đó làm chúng phai nhạt dần.
 
 Đồng thời, người đó cố gắng chỉ áp dụng các thuật ngữ mang tính mô tả và không đánh giá cho đối tượng được nhận thức; ví dụ, phán đoán mang tính cảm xúc 'đáng khao khát' được thay thế bằng nhận định trung lập 'cao, tóc sẫm màu, ngực nở'. Sau một thời gian thực hành, người đó có thể nhận thức sự vật mà không để 'vẻ đẹp' hay 'sự xấu xí' của chúng tạo ra trong mình cảm giác tham lam hay chán ghét. Người nào làm chủ được kỉ luật này, nhận định sự vật bằng sự bình thản, khách quan và không liên hệ đến bản thân, và biến nó thành thói quen, thì người đó đã hoàn thành một trong hai khía cạnh của trí tuệ; bởi vì trí tuệ bao gồm cả kiến thức lẫn sự vượt lên trên các tác nhân kích thích của thế giới. Lòng từ bi mà người Phật tử được yêu cầu thể hiện đối với mọi chúng sinh cũng không được là một cảm xúc nảy sinh từ nhận thức giác quan, mà phải là một phẩm chất mà người đó phát triển từ quyết tâm tự do của mình.
-*(Ghi chú: Theo kinh [DN 22.21](/link?q=DN-22.21) điều này được được gọi bằng tên 'tứ chánh cần/ 4 điều siêng năng thực hiện': ngăn ác, diệt ác, sinh thiện, tăng trưởng thiện - hay nhớ gọn hơn là: ác thì làm cho nó bị tiêu trừ, thiện thì làm cho nó được phát triển )*
+*(Ghi chú: Theo kinh [DN 22.21](/l?q=DN-22.21) điều này được được gọi bằng tên 'tứ chánh cần/ 4 điều siêng năng thực hiện': ngăn ác, diệt ác, sinh thiện, tăng trưởng thiện - hay nhớ gọn hơn là: ác thì làm cho nó bị tiêu trừ, thiện thì làm cho nó được phát triển )*
 
 (7) Sự tỉnh giác Đúng đắn (Right Awareness / sammā-sati / Chánh niệm) hay Sự chú tâm có nghĩa là nhận biết rõ ràng (chánh niệm) về thân thể, cảm thọ, tâm trí và các đối tượng tâm trí. Nó là phương thuốc chữa trị các trạng thái kích động. Một người đang trong cơn thịnh nộ mà ý thức được sự bùng nổ của mình thì đã đi trên con đường hướng tới sự cân bằng nội tâm.
 
-Sự chú tâm đóng một vai trò đặc biệt trong 'Sự đánh thức Tỉnh giác' (Awakening of Awareness / satipaṭṭhāna / Tứ niệm xứ), một bài tập thiền được mô tả trong hai bài kinh của giáo lí Pāli ([DN 22](/link?q=DN-22) và [MN 10](/link?q=MN-10)) "Tứ niệm xứ/ 4 nơi chú ý" và được đặc biệt coi trọng ở các quốc gia theo Phật giáo Nguyên thủy (Theravāda). Mục đích của nó là đưa các hành động thường là vô thức hoặc bán ý thức như thở, đi, đứng, ngồi, nằm, v.v. ra ánh sáng của sự tỉnh giác hoàn toàn. Sau khi đã nhận thức được thân thể theo cách này, người ta tiến hành tương tự với các cảm giác, suy nghĩ và hiện tượng tinh thần. Mục đích là đạt được sự tập trung và đưa tâm trí hay thay đổi vào tầm kiểm soát.
+Sự chú tâm đóng một vai trò đặc biệt trong 'Sự đánh thức Tỉnh giác' (Awakening of Awareness / satipaṭṭhāna / Tứ niệm xứ), một bài tập thiền được mô tả trong hai bài kinh của giáo lí Pāli ([DN 22](/l?q=DN-22) và [MN 10](/l?q=MN-10)) "Tứ niệm xứ/ 4 nơi chú ý" và được đặc biệt coi trọng ở các quốc gia theo Phật giáo Nguyên thủy (Theravāda). Mục đích của nó là đưa các hành động thường là vô thức hoặc bán ý thức như thở, đi, đứng, ngồi, nằm, v.v. ra ánh sáng của sự tỉnh giác hoàn toàn. Sau khi đã nhận thức được thân thể theo cách này, người ta tiến hành tương tự với các cảm giác, suy nghĩ và hiện tượng tinh thần. Mục đích là đạt được sự tập trung và đưa tâm trí hay thay đổi vào tầm kiểm soát.
 
 Trong hai bài kinh này (Tứ niệm xứ), kĩ thuật chánh niệm (sati) không xuất hiện dưới dạng thuần túy. Nó được pha trộn với các kĩ thuật khác thuộc về nhánh cuối cùng của Con đường Tám phần, đó là:
 
@@ -573,7 +573,7 @@ Mặc dù gán tầm quan trọng lớn cho đạo đức (sīla / giới), Gota
 
 > Bất kể có bao nhiêu kho báu của những việc làm công đức làm nền tảng (cho tương lai của hành động/kamma), cộng lại tất cả chúng cũng không đáng giá bằng một phần mười sáu của lòng từ ái, (vốn là) sự giải phóng của tâm trí. Lòng từ ái vượt lên trên tất cả; nó tỏa sáng, rực rỡ và phát quang...
 
-> Nếu với một tâm trí thiện chí, ai đó thể hiện lòng từ ái đối với chỉ một chúng sinh thôi, người đó cũng nhận được hạnh phúc. Người nào với tâm bi mẫn (thể hiện lòng từ ái) đối với mọi chúng sinh, con người cao quý ấy tạo ra (cho chính mình) vô lượng công đức. ( [Itiv 27 pp. 19 + 21](/link?q=iti-27) )
+> Nếu với một tâm trí thiện chí, ai đó thể hiện lòng từ ái đối với chỉ một chúng sinh thôi, người đó cũng nhận được hạnh phúc. Người nào với tâm bi mẫn (thể hiện lòng từ ái) đối với mọi chúng sinh, con người cao quý ấy tạo ra (cho chính mình) vô lượng công đức. ( [Itiv 27 pp. 19 + 21](/l?q=iti-27) )
 
 Tài liệu Phật giáo nổi tiếng nhất về lòng từ ái là bài kinh Mettāsutta ([Kinh Lòng từ](/kinhtieubo/thichminhchau/kn-001-tap-1-kinh-tieu-tung#9) ), được hàng triệu người ở Đông Nam Á tụng niệm mỗi ngày. Mặc dù nhắm đến các tì kheo, bài kinh này cũng có tầm quan trọng không kém đối với các cư sĩ tại gia.
 
@@ -629,11 +629,11 @@ bằng cách tuân theo các giới luật, và với sự hiểu biết\
 người ấy vượt qua sự khao khát sau những dục vọng:\
 Người ấy sẽ không còn chui vào bất kì bào thai nào nữa.
 
-(Snp 1, 8 = [Khp 9](/link?q=kp-9)
+(Snp 1, 8 = [Khp 9](/l?q=kp-9)
 
 Lòng từ ái (mettā) và lòng bi mẫn (karuṇā, anukampā) mang lại cho đạo đức sự ấm áp của cuộc sống, nếu thiếu nó, đạo đức sẽ trở nên khô khan và lạnh lẽo. Ngay cả khi những kẻ cướp và những kẻ giết người đang cưa đứt tay chân của một vị tì kheo Phật giáo — nếu vị tì kheo này nảy sinh cảm giác thù hận thì vị ấy không làm tròn lời dạy của Đức Phật. Ngay cả trong hoàn cảnh này, các tì kheo cũng nên hành xử như sau:
 
-> Suy nghĩ của chúng ta sẽ không bị xáo trộn, và chúng ta sẽ không thốt ra một lời ác ý nào. Chúng ta sẽ duy trì sự thân thiện và bi mẫn với một tâm trí đầy lòng từ ái, không có sự ác cảm bên trong. Sau khi bao trùm người đó bằng một tâm trí từ ái, chúng ta sẽ giữ nguyên (ở trạng thái này). Bắt đầu với (người) đó, sau khi bao trùm toàn bộ thế giới bằng một tâm trí từ ái được mở rộng, tận hiến, vô hạn, yên bình (và) không trói buộc, chúng ta sẽ giữ nguyên (ở trạng thái này). ([MN 21, I p. 129](/link?q=MN-21))
+> Suy nghĩ của chúng ta sẽ không bị xáo trộn, và chúng ta sẽ không thốt ra một lời ác ý nào. Chúng ta sẽ duy trì sự thân thiện và bi mẫn với một tâm trí đầy lòng từ ái, không có sự ác cảm bên trong. Sau khi bao trùm người đó bằng một tâm trí từ ái, chúng ta sẽ giữ nguyên (ở trạng thái này). Bắt đầu với (người) đó, sau khi bao trùm toàn bộ thế giới bằng một tâm trí từ ái được mở rộng, tận hiến, vô hạn, yên bình (và) không trói buộc, chúng ta sẽ giữ nguyên (ở trạng thái này). ([MN 21, I p. 129](/l?q=MN-21))
 
 Một đặc điểm của Phật giáo Nguyên thủy (Theravāda) là mỗi người phải đạt được sự giải thoát thông qua nỗ lực của chính mình và khả năng nhận được sự trợ giúp từ bên ngoài bị phủ nhận, ngoại trừ sự hướng dẫn về Con đường. Cả việc cầu nguyện lẫn niềm tin vào các đấng thiêng liêng trên trời đều không thể đẩy nhanh quá trình thoát khỏi khổ đau, vì quy luật tự nhiên của hành động (kamma / nghiệp) là không thể mua chuộc. Tuy nhiên, đức tin (saddhā), hay chính xác hơn là niềm tin tưởng vào Đức Phật và giáo pháp, cũng đóng một vai trò trong Theravāda. Nếu không có niềm tin vào vị đạo sư và tính chân lí trong lời dạy của ngài, sẽ không có người mới bắt đầu nào chịu dấn thân vào những khó khăn của Con đường Tám phần. Do đó, nếu không có niềm tin tưởng, không ai có thể bao giờ đạt được sự giải thoát.
 
@@ -643,15 +643,15 @@ Một người đã đi đến tận cùng Con đường Tám phần và qua đ�
 
 Các nguồn tài liệu Pāli chứa đựng vô số thông tin về trạng thái của một người đã đạt đến Nibbāna là 'sự dập tắt của khổ đau' (extinction / niết-bàn). Tuy nhiên, các thuộc tính mang tính khẳng định chỉ xuất hiện trong những đoạn văn mang tính khích lệ và đầy chất thơ của kinh điển. Tại đây, Nibbāna được mô tả là hạnh phúc, bình an, an toàn, hỉ lạc, bất tử, thuần khiết, chân lí, khỏe mạnh và thường hằng. Tất cả những cách diễn đạt này làm rõ rằng Nibbāna không được hiểu là sự hư vô (nothingness) mà được xem như một điều gì đó mang tính tích cực.
 
-Các phần triết học của kinh điển không mâu thuẫn với điều này, nhưng chúng sử dụng các tuyên bố mang tính phủ định vì 'sự dập tắt' chủ yếu là sự tự do: sự phá hủy tất cả các yếu tố trói buộc vào Luân hồi (Saṃsāra) và khổ đau. Do đó, kinh Trường Bộ (Dīghanikāya) định nghĩa Nibbāna là sự nhổ bỏ tận gốc sự khao khát gây ra tái sinh ([DN 14, 3, 1 II p. 36](/link?q=DN-14.3)), là sự giải thoát khỏi ba cấu uế cơ bản là tham, sân, si ([DN 16, 4, 43 II p. 136](/link?q=DN-16.4)), những thứ làm nảy sinh các hành động dẫn đến tái sinh, và là sự lắng dịu của các ý định hành động ([DN 14, 3, 1 II p. 36](/link?q=DN-14.3)), vốn là những tác nhân tạo ra các hình thức tồn tại mới. Không thể đạt được Nibbāna thông qua các hành động (kamma), thông qua việc tận dụng quy luật kamma, và nó không phải là đích đến của con đường kamma, mà nó là sự giải phóng khỏi các gông cùm của kamma. Trong khi các hình thức tồn tại trong Sáu Cõi Tái sinh là 'đến được bởi các ý định hành động' (conditioned by action-intentions / saṅkhata / hữu vi/ thứ hình thành từ điều kiện hợp lại ), thì Nibbāna là 'không thể đến được bằng các ý định hành động' (unobtainable by action-intentions / asaṅkhata / vô vi/ thứ hình thành không từ điều kiện hợp lại ). Chính vì lí do này, nó thoát khỏi sự sinh ra, suy tàn và biến đổi ([AN 3, 47 I p. 152](/link?q=AN-3.47)).
+Các phần triết học của kinh điển không mâu thuẫn với điều này, nhưng chúng sử dụng các tuyên bố mang tính phủ định vì 'sự dập tắt' chủ yếu là sự tự do: sự phá hủy tất cả các yếu tố trói buộc vào Luân hồi (Saṃsāra) và khổ đau. Do đó, kinh Trường Bộ (Dīghanikāya) định nghĩa Nibbāna là sự nhổ bỏ tận gốc sự khao khát gây ra tái sinh ([DN 14, 3, 1 II p. 36](/l?q=DN-14.3)), là sự giải thoát khỏi ba cấu uế cơ bản là tham, sân, si ([DN 16, 4, 43 II p. 136](/l?q=DN-16.4)), những thứ làm nảy sinh các hành động dẫn đến tái sinh, và là sự lắng dịu của các ý định hành động ([DN 14, 3, 1 II p. 36](/l?q=DN-14.3)), vốn là những tác nhân tạo ra các hình thức tồn tại mới. Không thể đạt được Nibbāna thông qua các hành động (kamma), thông qua việc tận dụng quy luật kamma, và nó không phải là đích đến của con đường kamma, mà nó là sự giải phóng khỏi các gông cùm của kamma. Trong khi các hình thức tồn tại trong Sáu Cõi Tái sinh là 'đến được bởi các ý định hành động' (conditioned by action-intentions / saṅkhata / hữu vi/ thứ hình thành từ điều kiện hợp lại ), thì Nibbāna là 'không thể đến được bằng các ý định hành động' (unobtainable by action-intentions / asaṅkhata / vô vi/ thứ hình thành không từ điều kiện hợp lại ). Chính vì lí do này, nó thoát khỏi sự sinh ra, suy tàn và biến đổi ([AN 3, 47 I p. 152](/l?q=AN-3.47)).
 
-Nhưng Nibbāna không chỉ có nghĩa là từ bỏ những phẩm chất tiêu cực; người được giải thoát cũng phải vứt bỏ những lí tưởng được trân trọng: sự phấn đấu để đạt được Nibbāna và giáo pháp của Đức Phật. Bởi vì Nibbāna, với tư cách là sự chấm dứt mọi khao khát và ham muốn, chỉ có thể trở thành hiện thực khi nó không còn là đối tượng của sự ham muốn nữa. Khát khao mãnh liệt về sự giải thoát lại chính là một trở ngại cho sự giải thoát. Nibbāna chỉ có thể nhận ra được khi vắng bóng một ý định quá háo hức muốn đạt tới nó. Hơn nữa, vì tất cả các giá trị tinh thần, ngay khi đạt được, đều trở thành những tài sản lâu dài thân thiết với trái tim của người sở hữu, nên giáo pháp của Đức Phật cũng phải được buông bỏ trong Nibbāna. Khi đã vượt qua dòng sông đau khổ và chạm đến bờ giải thoát, giáo pháp với tư cách là chiếc bè đưa đến sự giải phóng đã trở nên vô dụng ([MN 22, I p. 135](/link?q=MN-22)).
+Nhưng Nibbāna không chỉ có nghĩa là từ bỏ những phẩm chất tiêu cực; người được giải thoát cũng phải vứt bỏ những lí tưởng được trân trọng: sự phấn đấu để đạt được Nibbāna và giáo pháp của Đức Phật. Bởi vì Nibbāna, với tư cách là sự chấm dứt mọi khao khát và ham muốn, chỉ có thể trở thành hiện thực khi nó không còn là đối tượng của sự ham muốn nữa. Khát khao mãnh liệt về sự giải thoát lại chính là một trở ngại cho sự giải thoát. Nibbāna chỉ có thể nhận ra được khi vắng bóng một ý định quá háo hức muốn đạt tới nó. Hơn nữa, vì tất cả các giá trị tinh thần, ngay khi đạt được, đều trở thành những tài sản lâu dài thân thiết với trái tim của người sở hữu, nên giáo pháp của Đức Phật cũng phải được buông bỏ trong Nibbāna. Khi đã vượt qua dòng sông đau khổ và chạm đến bờ giải thoát, giáo pháp với tư cách là chiếc bè đưa đến sự giải phóng đã trở nên vô dụng ([MN 22, I p. 135](/l?q=MN-22)).
 
 Bất chấp mọi sự khác biệt, Nibbāna và con người thực nghiệm vẫn có chung một điểm: cả hai đều tồn tại và đều không có Bản ngã (vô ngã):
 
 > Biến hoại (vô thường) là tất cả các thành phần cấu tạo nên nhân cách (saṅkhāra / hành)[^18], đau khổ, không phải là một Bản ngã và bị tạo ra bởi các ý định hành động (saṅkhata / hữu vi). Và Nibbāna cũng là một thứ không có Bản ngã (vô ngã), điều này là chắc chắn. (Vin V p. 86 v. 1)
 
-Tùy thuộc vào việc người đã được dập tắt (phiền não) và giải thoát vẫn còn sống hay đã qua đời, người ta phân biệt giữa Nibbāna trước khi chết (hữu dư y Niết-bàn) và Nibbāna sau khi chết (vô dư y Niết-bàn). Ở trạng thái thứ nhất, những yếu tố trói buộc vào vòng luân hồi hay tái sinh đã bị phá hủy; ở trạng thái thứ hai, người được giải thoát cũng tan biến với tư cách là một chúng sinh nhận thức ([Itiv 44 p. 38](/link?q=iti-44))). Nibbāna sau khi chết được gọi là 'sự dập tắt hoàn toàn' (perfect extinction / parinibbāna / bát-niết-bàn).
+Tùy thuộc vào việc người đã được dập tắt (phiền não) và giải thoát vẫn còn sống hay đã qua đời, người ta phân biệt giữa Nibbāna trước khi chết (hữu dư y Niết-bàn) và Nibbāna sau khi chết (vô dư y Niết-bàn). Ở trạng thái thứ nhất, những yếu tố trói buộc vào vòng luân hồi hay tái sinh đã bị phá hủy; ở trạng thái thứ hai, người được giải thoát cũng tan biến với tư cách là một chúng sinh nhận thức ([Itiv 44 p. 38](/l?q=iti-44))). Nibbāna sau khi chết được gọi là 'sự dập tắt hoàn toàn' (perfect extinction / parinibbāna / bát-niết-bàn).
 
 Trong Nibbāna trước khi chết, người được giải thoát mang đặc trưng là sự bình thản không thể lay chuyển. Vị ấy không nằm ngoài sự nhạy cảm của thể xác nhưng khái niệm 'khổ' không còn áp dụng cho vị ấy nữa: Vì vị ấy đã nhận thức rõ ràng trong tâm trí về tính vô ngã nên không có gì có thể làm 'vị ấy' lo lắng được nữa. Biết rằng mình đã thoát khỏi sự trói buộc của luân hồi, vị ấy sống để chờ parinibbāna.
 
@@ -661,7 +661,7 @@ Khái niệm Nibbāna sau khi chết cho thấy quan niệm của Phật giáo v
 
 Lời chỉ trích chĩa vào Đức Phật rằng ngài là một người thầy dạy về sự hủy diệt (venayika) vì ngài truyền bá sự tiêu diệt nhân cách, là sai chệch điều trọng yếu. Bởi vì ngài coi nhân cách chỉ là một hiện tượng (phenomenon) chứ không phải là một thực thể cốt lõi (essence), nên không thể có vấn đề tiêu diệt một 'nhân cách' trong Parinibbāna. Đức Phật đã phản đối một cách đúng đắn sự chê trách này:
 
-> Về những gì ta không phải, này các tì kheo, về những gì ta không nói, những đạo sĩ và bà-la-môn đáng kính này đã buộc tội ta một cách sai trái. . . . Trước đây cũng như hôm nay, này các tì kheo, ta chỉ dạy một điều: sự khổ và sự chấm dứt khổ đau. ([MN 22, I p. 140](/link?q=MN-22))
+> Về những gì ta không phải, này các tì kheo, về những gì ta không nói, những đạo sĩ và bà-la-môn đáng kính này đã buộc tội ta một cách sai trái. . . . Trước đây cũng như hôm nay, này các tì kheo, ta chỉ dạy một điều: sự khổ và sự chấm dứt khổ đau. ([MN 22, I p. 140](/l?q=MN-22))
 
 Lời biện hộ này thuyết phục được đối với ai đã hiểu thấu đáo phương trình: Chuỗi Duyên khởi = con người thực nghiệm = sự khổ.
 
@@ -669,27 +669,27 @@ Các văn bản Pāli mô tả tình trạng bên trong cũng như bên ngoài c
 
 Vì cùng với sự tan rã của con người thực nghiệm trong Parinibbāna (bát niết bàn), ý thức nhận thức cũng đi đến hồi kết, nên thế giới cũng chấm dứt tồn tại đối với người được giải thoát. Đối với người đó, Đức Phật giải thích, Nibbāna là
 
-> cõi không có đất, không có nước, không có lửa, không có gió; không phải cõi vô biên của không gian, không phải cõi vô biên của ý thức, không phải cõi hư vô, không phải cõi phi tưởng phi phi tưởng; không phải thế giới này, không phải thế giới bên kia hay cả hai, không phải mặt trời và mặt trăng. Này các tì kheo, ta tuyên bố rằng không có sự đến và đi, không có sự tồn tại, không có sự phá hủy cũng không có sự sinh ra. Nó không có nền tảng, không có sự phát triển và không có điều kiện. Đây là sự chấm dứt khổ đau. ([Ud 8, 1 p. 80](/link?q=ud-8.1))
+> cõi không có đất, không có nước, không có lửa, không có gió; không phải cõi vô biên của không gian, không phải cõi vô biên của ý thức, không phải cõi hư vô, không phải cõi phi tưởng phi phi tưởng; không phải thế giới này, không phải thế giới bên kia hay cả hai, không phải mặt trời và mặt trăng. Này các tì kheo, ta tuyên bố rằng không có sự đến và đi, không có sự tồn tại, không có sự phá hủy cũng không có sự sinh ra. Nó không có nền tảng, không có sự phát triển và không có điều kiện. Đây là sự chấm dứt khổ đau. ([Ud 8, 1 p. 80](/l?q=ud-8.1))
 
 Trước câu hỏi của Udāyi về việc làm thế nào trạng thái này, cái Nibbāna này, nơi mọi cảm giác đã dừng lại, lại có thể được gọi là hạnh phúc, vị tì kheo Sāriputta (Xá-lợi-phất) đáp:
 
-> Chính điều này là hạnh phúc . . . rằng không còn cảm giác nào nữa! ([AN 9, 34, 3 IV p. 415](/link?q=AN-9.34))
+> Chính điều này là hạnh phúc . . . rằng không còn cảm giác nào nữa! ([AN 9, 34, 3 IV p. 415](/l?q=AN-9.34))
 
-Việc mô tả một người được giải thoát hoàn toàn vượt ra ngoài mọi khả năng của ngôn ngữ. Người ta không thể nói rằng Bậc Chân nhân tồn tại trong Parinibbāna, cũng không thể nói rằng ngài không tồn tại ([DN 15, 32 II p. 68](/link?q=DN-15.32)). Năm Nhóm (ngũ uẩn) cấu thành con người thực nghiệm mà người ta có thể nghĩ đến khi nói về người được giải thoát — ngài đã rũ bỏ Năm Nhóm này và chúng không bao giờ có thể phát sinh lại được nữa ([MN 72, I p. 487 f.](/link?q=MN-72)). Hình ảnh so sánh tuyệt vời nhất về người được giải thoát là hình ảnh một ngọn lửa mà sau khi nó bị dập tắt (nibbāna), không ai có thể nói nó đã đi về đâu:
+Việc mô tả một người được giải thoát hoàn toàn vượt ra ngoài mọi khả năng của ngôn ngữ. Người ta không thể nói rằng Bậc Chân nhân tồn tại trong Parinibbāna, cũng không thể nói rằng ngài không tồn tại ([DN 15, 32 II p. 68](/l?q=DN-15.32)). Năm Nhóm (ngũ uẩn) cấu thành con người thực nghiệm mà người ta có thể nghĩ đến khi nói về người được giải thoát — ngài đã rũ bỏ Năm Nhóm này và chúng không bao giờ có thể phát sinh lại được nữa ([MN 72, I p. 487 f.](/l?q=MN-72)). Hình ảnh so sánh tuyệt vời nhất về người được giải thoát là hình ảnh một ngọn lửa mà sau khi nó bị dập tắt (nibbāna), không ai có thể nói nó đã đi về đâu:
 
 > Giống như một ngọn lửa bị thổi tắt bởi một cơn gió mạnh\
 > 'trở về nhà' và do đó thách thức mọi sự định nghĩa,\
 > cũng vậy, một bậc hiền triết, được giải phóng khỏi Tên gọi và Thể xác (Danh và Sắc),\
 > 'trở về nhà' và không còn có thể được định nghĩa nữa.
-([Snp 1074](/link?q=snp-1074))
+([Snp 1074](/l?q=snp-1074))
 
-Cả các giác quan lẫn tâm trí đều không thể nhìn thấy một người đã bước vào Parinibbāna ([SN 35, 83 IV p. 52 f.](/link?q=SN-35.83)). Chúng sinh được giải thoát hoàn toàn nằm ngoài khả năng hiểu biết:
+Cả các giác quan lẫn tâm trí đều không thể nhìn thấy một người đã bước vào Parinibbāna ([SN 35, 83 IV p. 52 f.](/l?q=SN-35.83)). Chúng sinh được giải thoát hoàn toàn nằm ngoài khả năng hiểu biết:
 
 > Đối với Bậc Đã Tịch Diệt, không có thước đo nào\
 > và không có gì để định nghĩa ngài bằng điều đó;\
 > khi mọi hiện tượng đều đi đến hồi kết\
 > thì các phương tiện của ngôn ngữ cũng đã dừng lại.
-([Snp 1076](/link?q=snp-1076))
+([Snp 1076](/l?q=snp-1076))
 
 ***Các Trường phái Chính của Hinayāna (Tiểu Thừa / Phật giáo Nguyên thủy)***
 
@@ -707,7 +707,7 @@ Vô số các trường phái phụ đã tách ra từ Theravāda và Mahāsā�
 
 *Trường phái Puggalavāda (tiếng Phạn: Pudgalavāda / Độc Tử bộ), Sarvāstivāda (tiếng Phạn / Nhất Thiết Hữu bộ) và Sautrāntika (tiếng Phạn / Kinh Lượng bộ) đều bắt nguồn từ Theravāda. Sarvāstivāda và Sautrāntika sở hữu hệ thống kinh điển riêng bằng tiếng Phạn, các tác phẩm chính của chúng được bảo tồn qua các bản dịch tiếng Hán và tiếng Tây Tạng. Cuốn sách quan trọng nhất của Sarvāstivāda là Abhidharmakośa (A-tì-đạt-ma Câu-xá luận) của Vasubandhu (Thế Thân) (thế kỉ thứ 5 sau Công nguyên); phiên bản tiếng Phạn của nó đã được tìm thấy lại vào những năm 1950.*
 
-Trong số các trường phái Hīnayāna, Puggalavāda là trường phái đi chệch xa nhất khỏi truyền thống chính thống. Họ diễn giải các bài giảng của Đức Phật theo cách cho rằng, rốt cuộc thì vẫn có một cái gì đó thường hằng trong vòng luân hồi, đó chính là 'con người' (person / puggala / bổ-đặc-già-la). Con người này không đồng nhất với Năm Nhóm (ngũ uẩn) cấu thành nên cá nhân, nhưng cũng không khác biệt với chúng. Giống như phái Theravāda, phái Puggalavāda về mặt lí thuyết phủ nhận khả năng tìm thấy một Linh hồn trong Năm Nhóm, nhưng trong thực tế lại gán cho *puggala* tất cả các thuộc tính vốn dĩ thuộc về một Linh hồn. *Puggala* được quan niệm là người hưởng lợi từ *kamma* tốt và chịu đựng *kamma* xấu, đồng thời tiếp tục tồn tại ngay cả trong Parinibbāna. Để đáp trả vô số đối thủ của mình, họ viện dẫn các đoạn trong kinh điển Pāli mà trên thực tế có sử dụng từ 'con người' — có lẽ đây là một trường hợp sử dụng ngôn ngữ thiếu cẩn trọng. Bài Kinh Pāli nổi tiếng nhất thuộc loại này là bài kinh về gánh nặng ([SN 3, 1, 22 III p. 25 f.](/link?q=SN-3.1)), trong đó Năm Nhóm được gọi là gánh nặng và 'con người' là kẻ mang vác nó.
+Trong số các trường phái Hīnayāna, Puggalavāda là trường phái đi chệch xa nhất khỏi truyền thống chính thống. Họ diễn giải các bài giảng của Đức Phật theo cách cho rằng, rốt cuộc thì vẫn có một cái gì đó thường hằng trong vòng luân hồi, đó chính là 'con người' (person / puggala / bổ-đặc-già-la). Con người này không đồng nhất với Năm Nhóm (ngũ uẩn) cấu thành nên cá nhân, nhưng cũng không khác biệt với chúng. Giống như phái Theravāda, phái Puggalavāda về mặt lí thuyết phủ nhận khả năng tìm thấy một Linh hồn trong Năm Nhóm, nhưng trong thực tế lại gán cho *puggala* tất cả các thuộc tính vốn dĩ thuộc về một Linh hồn. *Puggala* được quan niệm là người hưởng lợi từ *kamma* tốt và chịu đựng *kamma* xấu, đồng thời tiếp tục tồn tại ngay cả trong Parinibbāna. Để đáp trả vô số đối thủ của mình, họ viện dẫn các đoạn trong kinh điển Pāli mà trên thực tế có sử dụng từ 'con người' — có lẽ đây là một trường hợp sử dụng ngôn ngữ thiếu cẩn trọng. Bài Kinh Pāli nổi tiếng nhất thuộc loại này là bài kinh về gánh nặng ([SN 3, 1, 22 III p. 25 f.](/l?q=SN-3.1)), trong đó Năm Nhóm được gọi là gánh nặng và 'con người' là kẻ mang vác nó.
 
 Phái Sarvāstivāda (Nhất Thiết Hữu bộ) không hẳn là những người đối lập với phái Theravāda mà đúng hơn là những người tiếp nối giáo lí của họ. Trong khi phái Theravāda chỉ nói rằng một Bản ngã, một Linh hồn, 'không thể được tìm thấy' trong Năm Nhóm, thì phái Sarvāstivāda không ngần ngại phủ nhận hoàn toàn sự tồn tại của một Linh hồn (Ak 3, 18 p. 56). Giống như phái Theravāda, họ giải thích quá trình tái sinh không có Linh hồn bằng Chuỗi Duyên khởi, nhưng bên cạnh đó, họ thường xuyên viện dẫn lí thuyết gọi là *dharma* (Pāli: *dhamma* / pháp) — một học thuyết nảy sinh ở thời kì Theravāda muộn nhưng chỉ có tầm quan trọng đối với triết học kinh viện của Theravāda. Theo lí thuyết này, tất cả những sự vật hiện hữu đều được tối giản thành các *dharma*, tức là 'các yếu tố tồn tại', theo nghĩa là những nguyên lí cuối cùng hoặc những thực tại cơ bản.
 

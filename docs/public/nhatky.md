@@ -91,7 +91,7 @@ SN 22.48
 ### date 2026-08-22
 - Việt nam thắng giải bóng đá
 - Dịch Sách Cuộc Đời Đức Phật của Nanamoli
-- Thêm quicklink: liên kết đến 1 bài kinh, eg AN 3.3 là kinh Tăng Chi kinh 3 pháp mục 3. phần này giải quyết vấn đề nhanh chóng đi đến bài kinh và 1 bài kinh có nhiều bản dịch /link?q=AN-3.3
+- Thêm quicklink: liên kết đến 1 bài kinh, eg AN 3.3 là kinh Tăng Chi kinh 3 pháp mục 3. phần này giải quyết vấn đề nhanh chóng đi đến bài kinh và 1 bài kinh có nhiều bản dịch /l?q=AN-3.3
 
 ### date 2026-08-28
 - Thêm phần Luật Vinaya
@@ -109,4 +109,10 @@ Thêm cờ flat cho quicklink (trường hợp kinh thag, thig)
 Thêm anchor vào kinh trung bộ `{#1}`, việc link tham khảo đến kinh và tìm đến đoạn nào đó rất dài và khó khăn. Nên tốt hơn thêm từng anchor vào eg `MN 33.21`
 
 ### date 2026-09-20
-Việc thêm được các link đến phần tham khảo thật là hạnh phúc (/link?q=...)
+Việc thêm được các link đến phần tham khảo thật là hạnh phúc (/l?q=...)
+
+### date 2026-09-24
+Dịch xong Phật Giáo, Giáo lý và tông Phái của Schumann
+saṅkhāra = hành
+saṅkhata = hữu vi
+Câu các hành là vô thường hơi lạ, có thể là các pháp hữu vi là vô thường với đúng

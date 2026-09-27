@@ -16,4 +16,4 @@
 > thanh lọc tâm mình; lời dạy Đức Phật.
 
 
-[D. 14](/link?q=dn-14){target=_black}
+[D. 14](/l?q=dn-14){target=_black}

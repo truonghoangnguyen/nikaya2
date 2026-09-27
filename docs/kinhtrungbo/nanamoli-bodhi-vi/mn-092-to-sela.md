@@ -1,11 +1,11 @@
 # MN 92. Kinh Sela
 ***(Sela Sutta)***
 
-1\.  Như vầy tôi nghe. [^867] Một thời Đức Thế Tôn đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo (monks-bhikkhus-nhà sư) đông đảo, [102] khoảng một ngàn hai trăm năm mươi vị tỳ kheo, và cuối cùng ngài đến một thị trấn của xứ Anguttarāpa tên là Āpaṇa.
+1\.  Như vầy tôi nghe. [^867] Một thời Đức Thế Tôn đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo (monks-bhikkhus-nhà sư) đông đảo, [102] khoảng một ngàn hai trăm năm mươi vị tỳ kheo, và cuối cùng ngài đến một thị trấn của xứ Anguttarāpa tên là Āpaṇa. {#1}
 
-2\.  Đạo sĩ bện tóc Keṇiya nghe tin: "Sa-môn Gotama, con trai của dòng họ Thích Ca, xuất gia từ dòng họ Thích Ca, đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo đông đảo, khoảng một ngàn hai trăm năm mươi [103] vị tỳ kheo, và ngài đã đến Āpaṇa. Tiếng lành về Tôn giả Gotama đã được đồn xa như sau...(như Kinh 91, §3)... Bậc Thế Tôn đó là bậc A-la-hán (arahant - người đã hoàn toàn giác ngộ, xứng đáng được cúng dường), bậc Chánh Đẳng Giác (fully enlightened - người tự mình giác ngộ hoàn toàn), bậc Minh Hạnh Túc (perfect in true knowledge and conduct - người hoàn hảo về trí tuệ và đức hạnh), bậc Thiện Thệ (sublime/well-gone - người đã đi đến nơi tốt đẹp), bậc Thế Gian Giải (knower of worlds - người hiểu biết thế gian), bậc Vô Thượng Sĩ Điều Ngự Trượng Phu (incomparable leader of persons to be tamed - bậc tối cao hướng dẫn những người cần được điều phục), bậc Thiên Nhân Sư (teacher of gods and humans - thầy của trời và người), bậc Phật (buddha - người giác ngộ), bậc Thế Tôn (blessed - người được tôn kính). Thật tốt lành thay khi được gặp các bậc A-la-hán như vậy."
+2\.  Đạo sĩ bện tóc Keṇiya nghe tin: "Sa-môn Gotama, con trai của dòng họ Thích Ca, xuất gia từ dòng họ Thích Ca, đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo đông đảo, khoảng một ngàn hai trăm năm mươi [103] vị tỳ kheo, và ngài đã đến Āpaṇa. Tiếng lành về Tôn giả Gotama đã được đồn xa như sau...(như Kinh 91, §3)... Bậc Thế Tôn đó là bậc A-la-hán (arahant - người đã hoàn toàn giác ngộ, xứng đáng được cúng dường), bậc Chánh Đẳng Giác (fully enlightened - người tự mình giác ngộ hoàn toàn), bậc Minh Hạnh Túc (perfect in true knowledge and conduct - người hoàn hảo về trí tuệ và đức hạnh), bậc Thiện Thệ (sublime/well-gone - người đã đi đến nơi tốt đẹp), bậc Thế Gian Giải (knower of worlds - người hiểu biết thế gian), bậc Vô Thượng Sĩ Điều Ngự Trượng Phu (incomparable leader of persons to be tamed - bậc tối cao hướng dẫn những người cần được điều phục), bậc Thiên Nhân Sư (teacher of gods and humans - thầy của trời và người), bậc Phật (buddha - người giác ngộ), bậc Thế Tôn (blessed - người được tôn kính). Thật tốt lành thay khi được gặp các bậc A-la-hán như vậy." {#2}
 
-3\.  Khi ấy, đạo sĩ bện tóc Keṇiya đến gặp Đức Thế Tôn, chào hỏi ngài, và sau khi trao đổi những lời thăm hỏi thân mật, hòa nhã, ông ngồi xuống một bên. Đức Thế Tôn thuyết một bài Pháp (Dhamma - giáo lý của Đức Phật) để chỉ dạy, khích lệ, làm phấn chấn và vui lòng ông. Sau khi được Đức Thế Tôn chỉ dạy, khích lệ, làm phấn chấn và vui lòng bằng bài Pháp thoại, đạo sĩ bện tóc Keṇiya bạch Đức Thế Tôn: "Xin Tôn giả Gotama cùng với Tăng đoàn tỳ kheo nhận lời mời dùng bữa trai Tăng vào ngày mai của con."
+3\.  Khi ấy, đạo sĩ bện tóc Keṇiya đến gặp Đức Thế Tôn, chào hỏi ngài, và sau khi trao đổi những lời thăm hỏi thân mật, hòa nhã, ông ngồi xuống một bên. Đức Thế Tôn thuyết một bài Pháp (Dhamma - giáo lý của Đức Phật) để chỉ dạy, khích lệ, làm phấn chấn và vui lòng ông. Sau khi được Đức Thế Tôn chỉ dạy, khích lệ, làm phấn chấn và vui lòng bằng bài Pháp thoại, đạo sĩ bện tóc Keṇiya bạch Đức Thế Tôn: "Xin Tôn giả Gotama cùng với Tăng đoàn tỳ kheo nhận lời mời dùng bữa trai Tăng vào ngày mai của con." {#3}
 
 Khi được thỉnh mời như vậy, Đức Thế Tôn bảo ông: "Này Keṇiya, Tăng đoàn tỳ kheo rất đông, [104] gồm một ngàn hai trăm năm mươi vị tỳ kheo, mà ông lại hoàn toàn tin tưởng vào các vị Bà-la-môn (brahmins - giai cấp tu sĩ và học giả trong xã hội Ấn Độ cổ đại)."
 
@@ -13,19 +13,19 @@ Lần thứ hai, đạo sĩ bện tóc Keṇiya bạch Đức Thế Tôn: "Thưa
 
 Lần thứ ba, đạo sĩ bện tóc Keṇiya bạch Đức Thế Tôn: "Thưa Tôn giả Gotama, mặc dù Tăng đoàn rất đông... nhưng xin Tôn giả Gotama cùng với Tăng đoàn tỳ kheo nhận lời mời dùng bữa trai Tăng vào ngày mai của con." Đức Thế Tôn im lặng nhận lời.
 
-4\.  Khi biết Đức Thế Tôn đã nhận lời, đạo sĩ bện tóc Keṇiya từ chỗ ngồi đứng dậy, trở về am thất của mình và nói với bạn bè, người thân và quyến thuộc như sau: "Này quý vị, bạn bè, người thân và quyến thuộc của tôi, hãy nghe đây. Tôi đã mời Sa-môn Gotama cùng với Tăng đoàn tỳ kheo dùng bữa vào ngày mai. Xin hãy giúp tôi mua sắm và chuẩn bị những thứ cần thiết."
+4\.  Khi biết Đức Thế Tôn đã nhận lời, đạo sĩ bện tóc Keṇiya từ chỗ ngồi đứng dậy, trở về am thất của mình và nói với bạn bè, người thân và quyến thuộc như sau: "Này quý vị, bạn bè, người thân và quyến thuộc của tôi, hãy nghe đây. Tôi đã mời Sa-môn Gotama cùng với Tăng đoàn tỳ kheo dùng bữa vào ngày mai. Xin hãy giúp tôi mua sắm và chuẩn bị những thứ cần thiết." {#4}
 
 Họ đáp: "Vâng, thưa ngài," rồi người thì đào bếp lò, người thì chẻ củi, người thì rửa chén bát, người thì chuẩn bị bình nước, người thì sắp đặt chỗ ngồi, trong khi chính đạo sĩ bện tóc Keṇiya thì dựng một cái rạp.
 
-5\.  Lúc bấy giờ, Bà-la-môn Sela đang ở tại Āpaṇa. [105] Ông là người thông suốt Ba tập Vệ-đà (Three Vedas - bộ kinh cổ xưa của Ấn Độ giáo) cùng với từ vựng, nghi lễ tế tự, ngữ âm, từ nguyên, và lịch sử là thứ năm; tinh thông ngữ văn và ngữ pháp, hoàn toàn am tường triết học tự nhiên và các tướng của bậc Đại Nhân (marks of a Great Man - các dấu hiệu đặc biệt trên thân thể của một người phi thường), và đang dạy tụng kinh cho ba trăm đệ tử Bà-la-môn.
+5\.  Lúc bấy giờ, Bà-la-môn Sela đang ở tại Āpaṇa. [105] Ông là người thông suốt Ba tập Vệ-đà (Three Vedas - bộ kinh cổ xưa của Ấn Độ giáo) cùng với từ vựng, nghi lễ tế tự, ngữ âm, từ nguyên, và lịch sử là thứ năm; tinh thông ngữ văn và ngữ pháp, hoàn toàn am tường triết học tự nhiên và các tướng của bậc Đại Nhân (marks of a Great Man - các dấu hiệu đặc biệt trên thân thể của một người phi thường), và đang dạy tụng kinh cho ba trăm đệ tử Bà-la-môn. {#5}
 
-6\.  Vào thời điểm đó, đạo sĩ bện tóc Keṇiya hoàn toàn tin tưởng vào Bà-la-môn Sela. Khi ấy, Bà-la-môn Sela, trong khi đi kinh hành cùng với ba trăm đệ tử Bà-la-môn của mình, đã đến am thất của đạo sĩ bện tóc Keṇiya. Ở đó, ông thấy có người đang đào bếp lò, người đang chẻ củi, người đang rửa chén bát, người đang chuẩn bị bình nước, người đang sắp đặt chỗ ngồi, trong khi chính đạo sĩ bện tóc Keṇiya đang dựng một cái rạp.
+6\.  Vào thời điểm đó, đạo sĩ bện tóc Keṇiya hoàn toàn tin tưởng vào Bà-la-môn Sela. Khi ấy, Bà-la-môn Sela, trong khi đi kinh hành cùng với ba trăm đệ tử Bà-la-môn của mình, đã đến am thất của đạo sĩ bện tóc Keṇiya. Ở đó, ông thấy có người đang đào bếp lò, người đang chẻ củi, người đang rửa chén bát, người đang chuẩn bị bình nước, người đang sắp đặt chỗ ngồi, trong khi chính đạo sĩ bện tóc Keṇiya đang dựng một cái rạp. {#6}
 
-7\.  Khi thấy vậy, ông hỏi đạo sĩ bện tóc Keṇiya: "Này Tôn giả Keṇiya, có phải ngài sắp tổ chức lễ cưới hay lễ gả không? Hay có cuộc tế lễ lớn nào chăng? Hay là Vua Seniya Bimbisāra xứ Ma-kiệt-đà (Magadha) cùng đoàn tùy tùng đông đảo đã được mời dùng bữa vào ngày mai?"
+7\.  Khi thấy vậy, ông hỏi đạo sĩ bện tóc Keṇiya: "Này Tôn giả Keṇiya, có phải ngài sắp tổ chức lễ cưới hay lễ gả không? Hay có cuộc tế lễ lớn nào chăng? Hay là Vua Seniya Bimbisāra xứ Ma-kiệt-đà (Magadha) cùng đoàn tùy tùng đông đảo đã được mời dùng bữa vào ngày mai?" {#7}
 
-8\.  "Thưa Tôn giả Sela, tôi không tổ chức lễ cưới hay lễ gả, Vua Seniya Bimbisāra xứ Ma-kiệt-đà cùng đoàn tùy tùng đông đảo cũng không được mời dùng bữa vào ngày mai, nhưng tôi đang chuẩn bị một cuộc tế lễ lớn. Sa-môn Gotama, con trai của dòng họ Thích Ca, xuất gia từ dòng họ Thích Ca, đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo đông đảo, khoảng một ngàn hai trăm năm mươi vị tỳ kheo, và đã đến Āpaṇa. [106] Tiếng lành về Tôn giả Gotama đã được đồn xa như sau: 'Bậc Thế Tôn đó là bậc A-la-hán, bậc Chánh Đẳng Giác, bậc Minh Hạnh Túc, bậc Thiện Thệ, bậc Thế Gian Giải, bậc Vô Thượng Sĩ Điều Ngự Trượng Phu, bậc Thiên Nhân Sư, bậc Phật, bậc Thế Tôn.' Ngài đã được tôi mời dùng bữa vào ngày mai cùng với Tăng đoàn tỳ kheo."
+8\.  "Thưa Tôn giả Sela, tôi không tổ chức lễ cưới hay lễ gả, Vua Seniya Bimbisāra xứ Ma-kiệt-đà cùng đoàn tùy tùng đông đảo cũng không được mời dùng bữa vào ngày mai, nhưng tôi đang chuẩn bị một cuộc tế lễ lớn. Sa-môn Gotama, con trai của dòng họ Thích Ca, xuất gia từ dòng họ Thích Ca, đang du hóa tại xứ Anguttarāpa cùng với đại chúng Tăng đoàn tỳ kheo đông đảo, khoảng một ngàn hai trăm năm mươi vị tỳ kheo, và đã đến Āpaṇa. [106] Tiếng lành về Tôn giả Gotama đã được đồn xa như sau: 'Bậc Thế Tôn đó là bậc A-la-hán, bậc Chánh Đẳng Giác, bậc Minh Hạnh Túc, bậc Thiện Thệ, bậc Thế Gian Giải, bậc Vô Thượng Sĩ Điều Ngự Trượng Phu, bậc Thiên Nhân Sư, bậc Phật, bậc Thế Tôn.' Ngài đã được tôi mời dùng bữa vào ngày mai cùng với Tăng đoàn tỳ kheo." {#8}
 
-9\.  "Ông nói 'Phật' phải không, Keṇiya?"
+9\.  "Ông nói 'Phật' phải không, Keṇiya?" {#9}
 
 "Tôi nói 'Phật', thưa ông Sela."
 
@@ -33,25 +33,25 @@ Họ đáp: "Vâng, thưa ngài," rồi người thì đào bếp lò, người 
 
 "Tôi nói 'Phật', thưa ông Sela."
 
-10\. Bấy giờ, Bà-la-môn Sela khởi niệm: "Ngay cả danh từ 'Phật' này cũng thật khó gặp ở trên đời. Ba mươi hai tướng của bậc Đại Nhân đã được truyền lại trong các bài kinh thánh của chúng ta, và bậc Đại Nhân nào hội đủ các tướng ấy thì chỉ có hai con đường, không có con đường nào khác. Nếu sống đời tại gia, vị ấy sẽ trở thành một Chuyển Luân Thánh Vương (Wheel-turning Monarch - vị vua lý tưởng cai trị bằng Chánh pháp), một vị vua anh minh trị vì bằng Chánh pháp, chinh phục bốn phương, toàn thắng, người đã an định xứ sở và sở hữu bảy báu vật. Vị ấy có bảy báu vật này: báu vật bánh xe (wheel-treasure), báu vật voi (elephant-treasure), báu vật ngựa (horse-treasure), báu vật ngọc ma-ni (jewel-treasure), báu vật nữ (woman-treasure), báu vật gia chủ (steward-treasure), và thứ bảy là báu vật tướng quân (counsellor-treasure). Vị ấy có hơn một ngàn người con trai, dũng mãnh, anh hùng, có sức nhiếp phục quân đội đối phương; vị ấy trị vì khắp cõi đất cho đến bờ biển này mà không cần dùng đến roi, không cần dùng đến kiếm, chỉ bằng Chánh pháp. Nhưng nếu vị ấy xuất gia, từ bỏ đời sống gia đình, sống không gia đình, vị ấy sẽ trở thành một bậc A-la-hán, một bậc Chánh Đẳng Giác, người vén lên bức màn che trong thế gian."
+10\. Bấy giờ, Bà-la-môn Sela khởi niệm: "Ngay cả danh từ 'Phật' này cũng thật khó gặp ở trên đời. Ba mươi hai tướng của bậc Đại Nhân đã được truyền lại trong các bài kinh thánh của chúng ta, và bậc Đại Nhân nào hội đủ các tướng ấy thì chỉ có hai con đường, không có con đường nào khác. Nếu sống đời tại gia, vị ấy sẽ trở thành một Chuyển Luân Thánh Vương (Wheel-turning Monarch - vị vua lý tưởng cai trị bằng Chánh pháp), một vị vua anh minh trị vì bằng Chánh pháp, chinh phục bốn phương, toàn thắng, người đã an định xứ sở và sở hữu bảy báu vật. Vị ấy có bảy báu vật này: báu vật bánh xe (wheel-treasure), báu vật voi (elephant-treasure), báu vật ngựa (horse-treasure), báu vật ngọc ma-ni (jewel-treasure), báu vật nữ (woman-treasure), báu vật gia chủ (steward-treasure), và thứ bảy là báu vật tướng quân (counsellor-treasure). Vị ấy có hơn một ngàn người con trai, dũng mãnh, anh hùng, có sức nhiếp phục quân đội đối phương; vị ấy trị vì khắp cõi đất cho đến bờ biển này mà không cần dùng đến roi, không cần dùng đến kiếm, chỉ bằng Chánh pháp. Nhưng nếu vị ấy xuất gia, từ bỏ đời sống gia đình, sống không gia đình, vị ấy sẽ trở thành một bậc A-la-hán, một bậc Chánh Đẳng Giác, người vén lên bức màn che trong thế gian." {#10}
 
-11\. [Ông nói]: "Này ông Keṇiya thân mến, hiện nay Tôn giả Gotama, bậc A-la-hán, bậc Chánh Đẳng Giác, đang ở đâu?"
+11\. [Ông nói]: "Này ông Keṇiya thân mến, hiện nay Tôn giả Gotama, bậc A-la-hán, bậc Chánh Đẳng Giác, đang ở đâu?" {#11}
 
 Khi được hỏi vậy, đạo sĩ bện tóc Keṇiya đưa cánh tay phải ra và nói: [107] "Ở đó, nơi hàng cây xanh kia, thưa Tôn giả Sela."
 
-12\. Sau đó, Bà-la-môn Sela cùng với ba trăm đệ tử Bà-la-môn đến gặp Đức Thế Tôn. Ông nói với các đệ tử Bà-la-môn: "Này các vị, hãy đến nhẹ nhàng, bước đi cẩn thận; vì các bậc Thế Tôn này khó tiếp cận, các ngài sống một mình như sư tử. Khi ta đang nói chuyện với Sa-môn Gotama, các vị đừng xen vào ngắt lời ta, mà hãy đợi cho đến khi cuộc nói chuyện của chúng ta kết thúc."
+12\. Sau đó, Bà-la-môn Sela cùng với ba trăm đệ tử Bà-la-môn đến gặp Đức Thế Tôn. Ông nói với các đệ tử Bà-la-môn: "Này các vị, hãy đến nhẹ nhàng, bước đi cẩn thận; vì các bậc Thế Tôn này khó tiếp cận, các ngài sống một mình như sư tử. Khi ta đang nói chuyện với Sa-môn Gotama, các vị đừng xen vào ngắt lời ta, mà hãy đợi cho đến khi cuộc nói chuyện của chúng ta kết thúc." {#12}
 
-13\. Rồi Bà-la-môn Sela đến gặp Đức Thế Tôn và chào hỏi ngài. Sau khi trao đổi những lời thăm hỏi thân mật, hòa nhã, ông ngồi xuống một bên và quan sát ba mươi hai tướng của bậc Đại Nhân trên thân Đức Thế Tôn. Ông thấy gần như đầy đủ ba mươi hai tướng của bậc Đại Nhân trên thân Đức Thế Tôn, ngoại trừ hai tướng; ông nghi ngờ và không chắc chắn về hai tướng đó, và ông không thể quyết định và xác quyết về chúng: về tướng âm mã tàng (male organ enclosed in a sheath - bộ phận sinh dục nam được bao bọc kín đáo) và về tướng lưỡi rộng dài.
+13\. Rồi Bà-la-môn Sela đến gặp Đức Thế Tôn và chào hỏi ngài. Sau khi trao đổi những lời thăm hỏi thân mật, hòa nhã, ông ngồi xuống một bên và quan sát ba mươi hai tướng của bậc Đại Nhân trên thân Đức Thế Tôn. Ông thấy gần như đầy đủ ba mươi hai tướng của bậc Đại Nhân trên thân Đức Thế Tôn, ngoại trừ hai tướng; ông nghi ngờ và không chắc chắn về hai tướng đó, và ông không thể quyết định và xác quyết về chúng: về tướng âm mã tàng (male organ enclosed in a sheath - bộ phận sinh dục nam được bao bọc kín đáo) và về tướng lưỡi rộng dài. {#13}
 
 Bấy giờ, Đức Thế Tôn khởi niệm: "Bà-la-môn Sela này thấy ba mươi hai tướng của bậc Đại Nhân trên thân ta, ngoại trừ hai tướng; ông ta nghi ngờ và không chắc chắn về hai tướng đó, và ông ta không thể quyết định và xác quyết về chúng: về tướng âm mã tàng và về tướng lưỡi rộng dài."
 
-14\. Khi ấy, Đức Thế Tôn thể hiện thần thông (supernormal power - năng lực phi thường) đến độ Bà-la-môn Sela thấy được tướng âm mã tàng của Đức Thế Tôn. [108] Tiếp theo, Đức Thế Tôn le lưỡi ra, chạm đến cả hai lỗ tai, cả hai lỗ mũi, và dùng lưỡi che kín cả vầng trán.
+14\. Khi ấy, Đức Thế Tôn thể hiện thần thông (supernormal power - năng lực phi thường) đến độ Bà-la-môn Sela thấy được tướng âm mã tàng của Đức Thế Tôn. [108] Tiếp theo, Đức Thế Tôn le lưỡi ra, chạm đến cả hai lỗ tai, cả hai lỗ mũi, và dùng lưỡi che kín cả vầng trán. {#14}
 
-15\. Bấy giờ, Bà-la-môn Sela nghĩ: "Sa-môn Gotama có đủ ba mươi hai tướng của bậc Đại Nhân; đầy đủ chứ không thiếu sót. Nhưng ta không biết ngài có phải là Phật hay không. Tuy nhiên, ta đã nghe các vị Bà-la-môn lớn tuổi, bậc thầy truyền dạy rằng những vị là bậc A-la-hán, bậc Chánh Đẳng Giác, sẽ tự thể hiện mình khi được tán thán. Vậy ta hãy dùng những vần kệ thích hợp để tán thán Sa-môn Gotama trước mặt ngài."
+15\. Bấy giờ, Bà-la-môn Sela nghĩ: "Sa-môn Gotama có đủ ba mươi hai tướng của bậc Đại Nhân; đầy đủ chứ không thiếu sót. Nhưng ta không biết ngài có phải là Phật hay không. Tuy nhiên, ta đã nghe các vị Bà-la-môn lớn tuổi, bậc thầy truyền dạy rằng những vị là bậc A-la-hán, bậc Chánh Đẳng Giác, sẽ tự thể hiện mình khi được tán thán. Vậy ta hãy dùng những vần kệ thích hợp để tán thán Sa-môn Gotama trước mặt ngài." {#15}
 
 Rồi ông tán thán Đức Thế Tôn trước mặt ngài bằng những vần kệ thích hợp:
 
-16\. Sela
+16\. Sela {#16}
 
 "Thân ngài toàn hảo, thật ưa nhìn,
 Hình dáng cân đối, đẹp tuyệt vời;
@@ -81,7 +81,7 @@ Các chiến binh và vương tử cao quý
 Này Gotama, ngài nên trị vì
 Là vua của loài người, vua trên các vua."
 
-17\. Phật
+17\. Phật {#17}
 
 "Ta đã là vua rồi, này Sela,"
 Đức Thế Tôn trả lời.
@@ -89,7 +89,7 @@ Là vua của loài người, vua trên các vua."
 Ta chuyển bánh xe Chánh pháp (Wheel of Dhamma - sự vận hành, truyền bá giáo pháp),
 Bánh xe không ai có thể ngăn lại."
 
-18\. Sela
+18\. Sela {#18}
 
 "Ngài tự nhận là bậc Chánh Đẳng Giác," Bà-la-môn Sela nói,
 "Ngài nói với tôi, này Gotama,
@@ -101,7 +101,7 @@ Nối gót theo đường lối của Bậc Đạo Sư?
 Ai là người giúp ngài chuyển
 Bánh xe mà ngài đã khởi động?"
 
-19\. Phật
+19\. Phật {#19}
 
 "Bánh xe do ta khởi động,"
 Đức Thế Tôn trả lời,
@@ -129,7 +129,7 @@ Ta là bậc thánh không ai sánh bằng
 Đã chiến thắng mọi kẻ thù,
 Ta hoan hỷ, không còn sợ hãi."
 
-20\. Sela
+20\. Sela {#20}
 
 "Này các vị, hãy nghe điều này, hãy nghe lời ngài nói,
 Người có tuệ nhãn, vị lương y,
@@ -146,21 +146,21 @@ Và ai không muốn, hãy cứ rời đi.
 Vì ta sẽ xuất gia theo ngài,
 Bậc trí tuệ cao vời này."
 
-21\. Các đệ tử
+21\. Các đệ tử {#21}
 
 "Thưa thầy, nếu thầy chấp thuận
 Giáo pháp này của bậc Giác Ngộ,
 Chúng con cũng sẽ xuất gia theo ngài,
 Bậc trí tuệ cao vời này."
 
-22\. Sela
+22\. Sela {#22}
 
 "Ở đây có ba trăm vị Bà-la-môn
 Đang chắp tay cầu xin:
 'Xin cho chúng con được sống đời phạm hạnh (holy life - đời sống thanh tịnh, hướng đến giải thoát)
 Dưới sự dẫn dắt của ngài, ôi Đức Thế Tôn.'"
 
-23\. Phật
+23\. Phật {#23}
 
 "Đời sống phạm hạnh đã được khéo giảng,"
 Đức Thế Tôn nói, "Này Sela,
@@ -168,11 +168,11 @@ Dưới sự dẫn dắt của ngài, ôi Đức Thế Tôn.'"
 Người tinh tấn tu tập
 Sẽ thấy sự xuất gia có kết quả."
 
-24\. Sau đó, Bà-la-môn Sela và hội chúng của ông đã nhận sự xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và họ đã nhận sự cụ túc giới (full admission - lễ thọ giới chính thức để trở thành tỳ kheo).
+24\. Sau đó, Bà-la-môn Sela và hội chúng của ông đã nhận sự xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và họ đã nhận sự cụ túc giới (full admission - lễ thọ giới chính thức để trở thành tỳ kheo). {#24}
 
-25\. Rồi, khi đêm đã qua, đạo sĩ bện tóc Keṇiya cho chuẩn bị nhiều loại vật thực ngon lành trong am thất của mình [111] và cho người báo giờ đến Đức Thế Tôn: "Đã đến giờ, thưa Tôn giả Gotama, bữa ăn đã sẵn sàng." Bấy giờ, vào buổi sáng, Đức Thế Tôn đắp y, mang bát, cùng Tăng đoàn tỳ kheo đi đến am thất của đạo sĩ bện tóc Keṇiya và ngồi vào chỗ đã soạn sẵn. Sau đó, đạo sĩ bện tóc Keṇiya tự tay phục vụ và cúng dường các loại vật thực ngon lành cho Tăng đoàn tỳ kheo do Đức Phật dẫn đầu cho đến khi các vị hài lòng. Khi Đức Thế Tôn đã thọ thực xong và rời tay khỏi bát, đạo sĩ bện tóc Keṇiya lấy một chiếc ghế thấp và ngồi xuống một bên. Bấy giờ, Đức Thế Tôn chúc phúc cho ông bằng những vần kệ này:
+25\. Rồi, khi đêm đã qua, đạo sĩ bện tóc Keṇiya cho chuẩn bị nhiều loại vật thực ngon lành trong am thất của mình [111] và cho người báo giờ đến Đức Thế Tôn: "Đã đến giờ, thưa Tôn giả Gotama, bữa ăn đã sẵn sàng." Bấy giờ, vào buổi sáng, Đức Thế Tôn đắp y, mang bát, cùng Tăng đoàn tỳ kheo đi đến am thất của đạo sĩ bện tóc Keṇiya và ngồi vào chỗ đã soạn sẵn. Sau đó, đạo sĩ bện tóc Keṇiya tự tay phục vụ và cúng dường các loại vật thực ngon lành cho Tăng đoàn tỳ kheo do Đức Phật dẫn đầu cho đến khi các vị hài lòng. Khi Đức Thế Tôn đã thọ thực xong và rời tay khỏi bát, đạo sĩ bện tóc Keṇiya lấy một chiếc ghế thấp và ngồi xuống một bên. Bấy giờ, Đức Thế Tôn chúc phúc cho ông bằng những vần kệ này: {#25}
 
-26\. "Tế lửa vinh quang nhờ lễ vật,
+26\. "Tế lửa vinh quang nhờ lễ vật, {#26}
 Kinh Vệ-đà vinh quang nhờ Sāvitrī,
 Loài người vinh quang nhờ có vua,
 Sông ngòi vinh quang nhờ biển cả;
@@ -184,9 +184,9 @@ Tăng đoàn, vinh quang của những người bố thí."
 
 Sau khi Đức Thế Tôn chúc phúc bằng những vần kệ này, ngài từ chỗ ngồi đứng dậy và rời đi.
 
-27\. Sau đó, không lâu sau khi thọ cụ túc giới, Tôn giả Sela và hội chúng của ông, [112] sống một mình, ẩn dật, tinh cần, nhiệt tâm, và quyết chí, đã tự mình chứng ngộ bằng trí tuệ trực tiếp (direct knowledge - sự hiểu biết trực tiếp, không qua trung gian), ngay trong hiện tại, đạt đến và an trú vào mục đích tối thượng của đời sống phạm hạnh mà vì đó các thiện nam tử chân chính xuất gia, từ bỏ đời sống gia đình, sống không gia đình. Họ trực tiếp biết rằng: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm xong, không còn trở lại trạng thái nào nữa." Và Tôn giả Sela cùng với hội chúng của ông đã trở thành các bậc A-la-hán.
+27\. Sau đó, không lâu sau khi thọ cụ túc giới, Tôn giả Sela và hội chúng của ông, [112] sống một mình, ẩn dật, tinh cần, nhiệt tâm, và quyết chí, đã tự mình chứng ngộ bằng trí tuệ trực tiếp (direct knowledge - sự hiểu biết trực tiếp, không qua trung gian), ngay trong hiện tại, đạt đến và an trú vào mục đích tối thượng của đời sống phạm hạnh mà vì đó các thiện nam tử chân chính xuất gia, từ bỏ đời sống gia đình, sống không gia đình. Họ trực tiếp biết rằng: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm xong, không còn trở lại trạng thái nào nữa." Và Tôn giả Sela cùng với hội chúng của ông đã trở thành các bậc A-la-hán. {#27}
 
-28\. Bấy giờ, Tôn giả Sela cùng với hội chúng của ông đến gặp Đức Thế Tôn. Đắp y lệch một bên vai, chắp tay cung kính hướng về Đức Thế Tôn, ông bạch với ngài bằng những vần kệ này:
+28\. Bấy giờ, Tôn giả Sela cùng với hội chúng của ông đến gặp Đức Thế Tôn. Đắp y lệch một bên vai, chắp tay cung kính hướng về Đức Thế Tôn, ông bạch với ngài bằng những vần kệ này: {#28}
 
 "Tám ngày đã qua, Bậc Toàn Giác,
 Kể từ khi chúng con quy y ngài.

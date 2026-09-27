@@ -1,11 +1,11 @@
 # MN 124. Kinh Bakkula
 ***(Bakkula Sutta - Kinh Trung Bộ 124)***
 
-1\.  Tôi nghe như vầy. Một thời, Tôn giả Bakkula trú tại thành Vương Xá (Rājagaha), trong Trúc Lâm (Veḷuvana), khu nuôi dưỡng sóc (Kalandakanivāpa). [^1167]
+1\.  Tôi nghe như vầy. Một thời, Tôn giả Bakkula trú tại thành Vương Xá (Rājagaha), trong Trúc Lâm (Veḷuvana), khu nuôi dưỡng sóc (Kalandakanivāpa). [^1167] {#1}
 
-2\.  Khi ấy, A-tu-la Ca-diếp (Acela Kassapa - đạo sĩ lõa thể Ca-diếp), một người bạn cũ của Tôn giả Bakkula thời còn là cư sĩ tại gia, [125] tìm đến Tôn giả Bakkula và chào hỏi. Sau khi thăm hỏi xã giao xong, ông ngồi xuống một bên và hỏi Tôn giả Bakkula:
+2\.  Khi ấy, A-tu-la Ca-diếp (Acela Kassapa - đạo sĩ lõa thể Ca-diếp), một người bạn cũ của Tôn giả Bakkula thời còn là cư sĩ tại gia, [125] tìm đến Tôn giả Bakkula và chào hỏi. Sau khi thăm hỏi xã giao xong, ông ngồi xuống một bên và hỏi Tôn giả Bakkula: {#2}
 
-3\.  "Này hiền giả Bakkula, hiền giả xuất gia (went forth - pabbajjā - rời bỏ đời sống gia đình để tu hành) đã bao lâu rồi?"
+3\.  "Này hiền giả Bakkula, hiền giả xuất gia (went forth - pabbajjā - rời bỏ đời sống gia đình để tu hành) đã bao lâu rồi?" {#3}
 
 "Này hiền giả, tôi xuất gia đã tám mươi năm rồi."
 
@@ -23,7 +23,7 @@
 
 [Việc Tôn giả Bakkula không nhớ có bất kỳ tưởng về sân hận... bất kỳ tưởng về làm hại nào từng khởi lên trong tám mươi năm xuất gia – điều này chúng tôi ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
-6\.  "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là có bất kỳ tư duy về dục vọng (thought of sensual desire - kāmavitakka - suy nghĩ, tầm tư liên quan đến ham muốn) nào từng khởi lên trong tôi."
+6\.  "Này hiền giả, trong tám mươi năm kể từ khi xuất gia, tôi không nhớ là có bất kỳ tư duy về dục vọng (thought of sensual desire - kāmavitakka - suy nghĩ, tầm tư liên quan đến ham muốn) nào từng khởi lên trong tôi." {#6}
 
 [...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
@@ -51,16 +51,16 @@
 
 [...điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
-38\.  "Này hiền giả, trong bảy ngày sau khi xuất gia, tôi đã thọ dụng vật thực của đàn na tín thí như một người mắc nợ (debtor - iṇa - người mắc nợ, ý nói chưa xứng đáng với sự cúng dường vì chưa đắc đạo); đến ngày thứ tám, trí tuệ cuối cùng (final knowledge - aññā - trí tuệ giác ngộ hoàn toàn của bậc A-la-hán) đã khởi lên." [^1170]
+38\.  "Này hiền giả, trong bảy ngày sau khi xuất gia, tôi đã thọ dụng vật thực của đàn na tín thí như một người mắc nợ (debtor - iṇa - người mắc nợ, ý nói chưa xứng đáng với sự cúng dường vì chưa đắc đạo); đến ngày thứ tám, trí tuệ cuối cùng (final knowledge - aññā - trí tuệ giác ngộ hoàn toàn của bậc A-la-hán) đã khởi lên." [^1170] {#38}
 
 [Việc Tôn giả Bakkula đã thọ dụng vật thực của đàn na tín thí như một người mắc nợ trong bảy ngày, và vào ngày thứ tám, trí tuệ cuối cùng đã khởi lên – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.]
 
-39\.  [Khi ấy, A-tu-la Ca-diếp nói:] "Tôi muốn được xuất gia trong Giáo Pháp và Giới Luật (Dhamma and Discipline - dhammavinaya - giáo lý và các quy tắc ứng xử do Đức Phật chế định) này, tôi muốn được thọ cụ túc giới." Và A-tu-la Ca-diếp đã được xuất gia trong Giáo Pháp và Giới Luật này, đã được thọ cụ túc giới. [^1171] Và không lâu sau khi thọ cụ túc giới, Tôn giả Ca-diếp sống một mình, ẩn dật, tinh cần, nhiệt tâm, quyết chí, đã tự mình chứng ngộ bằng thắng trí (direct knowledge - abhiññā - trí tuệ siêu việt, sự hiểu biết trực tiếp), ngay trong đời này, chứng đạt và an trú vào mục đích tối thượng của đời sống phạm hạnh (supreme goal of the holy life - brahmacariyapariyosāna - đích đến cuối cùng của con đường tu tập, tức là Niết-bàn) mà vì mục đích đó các thiện nam tử (clansmen - kulaputta - người con trai xuất thân từ gia đình tốt, có niềm tin) chân chính xuất gia, từ bỏ đời sống gia đình, sống không gia đình. Vị ấy biết rõ: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa." Và Tôn giả Ca-diếp đã trở thành một trong các vị A-la-hán (arahants - bậc thánh đã đạt giác ngộ hoàn toàn, chấm dứt luân hồi).
+39\.  [Khi ấy, A-tu-la Ca-diếp nói:] "Tôi muốn được xuất gia trong Giáo Pháp và Giới Luật (Dhamma and Discipline - dhammavinaya - giáo lý và các quy tắc ứng xử do Đức Phật chế định) này, tôi muốn được thọ cụ túc giới." Và A-tu-la Ca-diếp đã được xuất gia trong Giáo Pháp và Giới Luật này, đã được thọ cụ túc giới. [^1171] Và không lâu sau khi thọ cụ túc giới, Tôn giả Ca-diếp sống một mình, ẩn dật, tinh cần, nhiệt tâm, quyết chí, đã tự mình chứng ngộ bằng thắng trí (direct knowledge - abhiññā - trí tuệ siêu việt, sự hiểu biết trực tiếp), ngay trong đời này, chứng đạt và an trú vào mục đích tối thượng của đời sống phạm hạnh (supreme goal of the holy life - brahmacariyapariyosāna - đích đến cuối cùng của con đường tu tập, tức là Niết-bàn) mà vì mục đích đó các thiện nam tử (clansmen - kulaputta - người con trai xuất thân từ gia đình tốt, có niềm tin) chân chính xuất gia, từ bỏ đời sống gia đình, sống không gia đình. Vị ấy biết rõ: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa." Và Tôn giả Ca-diếp đã trở thành một trong các vị A-la-hán (arahants - bậc thánh đã đạt giác ngộ hoàn toàn, chấm dứt luân hồi). {#39}
 
-40\.  Rồi vào một dịp khác, Tôn giả Bakkula cầm chìa khóa đi từ cốc này sang cốc khác, nói rằng: "Xin mời các Tôn giả ra khỏi cốc; xin mời các Tôn giả ra khỏi cốc. Hôm nay tôi sẽ nhập đại Niết-bàn (final Nibbāna - parinibbāna - sự tịch diệt hoàn toàn, không còn tái sinh của một vị Phật hay A-la-hán)."
+40\.  Rồi vào một dịp khác, Tôn giả Bakkula cầm chìa khóa đi từ cốc này sang cốc khác, nói rằng: "Xin mời các Tôn giả ra khỏi cốc; xin mời các Tôn giả ra khỏi cốc. Hôm nay tôi sẽ nhập đại Niết-bàn (final Nibbāna - parinibbāna - sự tịch diệt hoàn toàn, không còn tái sinh của một vị Phật hay A-la-hán)." {#40}
 [Việc Tôn giả Bakkula cầm chìa khóa đi từ cốc này sang cốc khác nói rằng: "Xin mời các Tôn giả ra khỏi cốc; xin mời các Tôn giả ra khỏi cốc. Hôm nay tôi sẽ nhập đại Niết-bàn" – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula.] [128]
 
-41\.  Sau đó, ngồi giữa Tăng đoàn các tỳ-kheo (Sangha of bhikkhus - bhikkhusaṅgha - cộng đồng các vị sư nam đã thọ cụ túc giới), Tôn giả Bakkula đã nhập đại Niết-bàn. [^1172]
+41\.  Sau đó, ngồi giữa Tăng đoàn các tỳ-kheo (Sangha of bhikkhus - bhikkhusaṅgha - cộng đồng các vị sư nam đã thọ cụ túc giới), Tôn giả Bakkula đã nhập đại Niết-bàn. [^1172] {#41}
 
 [Việc Tôn giả Bakkula ngồi giữa Tăng đoàn các tỳ-kheo và nhập đại Niết-bàn – điều này chúng tôi cũng ghi nhận là một phẩm chất kỳ diệu và phi thường của Tôn giả Bakkula. [^1173]
 

@@ -36,7 +36,7 @@ GIỌNG ĐỌC THỨ NHẤT. "Bất cứ khi nào tôi muốn, bằng sự tự 
 
 Về sau, tỳ-kheo-ni Thullānandā đã hoàn tục, từ bỏ đời sống phạm hạnh.
 
-[S. 16:11](/link?q=SN-16.11){target=_black}
+[S. 16:11](/l?q=SN-16.11){target=_black}
 
 NGƯỜI KỂ HAI. Lúc này mới chỉ vài tuần trôi qua sau ngày Đại Bát-niết-bàn.
 
@@ -120,13 +120,13 @@ Sau đó, các vị trưởng lão tỳ-kheo bảo đại đức Ānanda: "Này 
 
 "Bạch chư Tôn giả, con làm thế vì nghĩ rằng bà Mahāpajāpati Gotamī là dì ruột của Đức Thế Tôn, là người dưỡng nuôi, mẹ kế, người đã cho Ngài bú mớm khi thân mẫu Ngài qua đời. Bản thân con không thấy đó là lỗi lầm. Tuy nhiên, vì lòng tin nơi chư Tôn giả, con xin nhận đó là một lỗi lầm."
 
-[Vin. Cv. 11:1-10](/link?q=vin.cv-11.1){target=_black}
+[Vin. Cv. 11:1-10](/l?q=vin.cv-11.1){target=_black}
 
 Lúc bấy giờ, đại đức Purāṇa đang du hành tại vùng Đồi Phía Nam cùng một đại chúng tỳ-kheo đông đảo gồm năm trăm vị. Sau khi Pháp và Luật đã được các bậc trưởng lão kết tập xong, đại đức Purāṇa sau thời gian du hành ở vùng Đồi Phía Nam thỏa thích, đã đến gặp các vị trưởng lão tại Trúc Lâm ở Rājagaha. Các ngài bảo vị ấy: "Này hiền giả Purāṇa, Pháp và Luật đã được chư vị trưởng lão kết tập chu đáo. Thầy có tán thành cuộc kết tập này không?"
 
 "Này các hiền giả, Pháp và Luật đã được các bậc trưởng lão kết tập rất khéo. Tuy nhiên, phần tôi, tôi sẽ chỉ ghi nhớ theo đúng những gì chính tai tôi đã nghe, chính mắt tôi đã chứng kiến từ kim khẩu của Đức Thế Tôn."
 
-[Vin. Cv. 11:11](/link?q=vin.cv-11.11){target=_black}
+[Vin. Cv. 11:11](/l?q=vin.cv-11.11){target=_black}
 
 NGƯỜI KỂ MỘT. Giờ đây là một câu chuyện cuối cùng, cho thấy Tăng đoàn non trẻ vẫn tiếp tục sinh hoạt sau khi Đấng Sáng lập qua đời và tự khẳng định mình là một thực thể vững vàng—một đoàn thể đã tồn tại liên tục và phát triển rực rỡ suốt hai thiên niên kỷ rưỡi cho đến tận ngày nay.
 
@@ -196,7 +196,7 @@ Sau đó, Bà-la-môn Vassakāra, quan đại thần xứ Magadha, đứng dậy
 
 "Chẳng phải tôi đã nói với ngài rồi sao, này Bà-la-môn: 'Không có một tỳ-kheo nào sở hữu trọn vẹn về mọi phương diện tất cả những phẩm chất mà Đức Thế Tôn, bậc Ứng Cúng, Chánh Đẳng Giác từng sở hữu; bởi vì Đức Thế Tôn là người làm khởi sinh con đường chưa từng khởi sinh, người khai mở con đường chưa từng khai mở, người công bố con đường chưa từng được công bố, là bậc thấu suốt đạo, thấy rõ đạo, am tường về đạo; còn các đệ tử ngày nay sống phù hợp với con đường ấy, họ chỉ là những người tiếp bước theo sau Ngài'?"
 
-[MN-108](/link?q=MN-108){target=_black}
+[MN-108](/l?q=MN-108){target=_black}
 
 NGƯỜI KỂ HAI. Trong khi đó, Vua Ajātasattu quyết tâm tiêu diệt nước láng giềng quá hùng mạnh của mình là Liên minh Vajjī, có thủ đô là Vesālī nằm ở phía đông bắc bên kia sông Hằng. Để giúp vua đạt được mục đích này, Vassakāra đã đóng giả làm một kẻ mưu phản; ông cố tình để mình bị kết tội phản quốc rồi chạy sang Vesālī xin tị nạn. Ba năm tiếp theo được ông dùng để khéo léo gieo rắc mối ngờ vực và nghi kỵ lẫn nhau giữa các thành viên trong liên minh. Khi nhận thấy thời cơ đã chín muồi, ông bí mật báo tin cho Vua Ajātasattu. Giới lãnh đạo Vesālī lúc bấy giờ đã quá chia rẽ, không còn sức tự vệ cho đất nước, và Ajātasattu nhanh chóng kết thúc một cuộc xâm lược thắng lợi bằng một cuộc tàn sát đẫm máu trên diện rộng đối với dân chúng. Đó là dấu chấm hết cho nền độc lập của xứ Vajjī. Vua Viḍūḍabha xứ Kosala nhanh chóng noi gương người anh em họ của mình bằng cách xua quân tràn qua lãnh thổ của người Sakya và Koliya ở biên giới phía đông bắc, và đối xử tàn bạo với dân chúng nơi đó theo cùng một cách.
 

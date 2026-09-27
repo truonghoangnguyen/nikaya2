@@ -1,3 +1,7 @@
+---
+tags:
+ - các học phái khác
+---
 # MN 76. KINH SANDAKA
 
 ***(Sandaka Sutta)***
@@ -52,6 +56,7 @@ của mình.
 
 Du sĩ Sandaka vâng đáp Tôn giả Ananda. Tôn giả Ananda nói như sau:
 
+<!--pg-->
 -- Này Sandaka, bốn pháp phi phạm hạnh trú này, do Thế Tôn, bậc Tri Giả, Kiến Giả, Bậc A-la-hán,
 Chánh Ðẳng Giác tuyên bố, và bốn pháp bất an phạm hạnh cũng được tuyên bố. Ở đây, người có trí
 không thể tự mình sống Phạm hạnh và nếu sống, thời không thể thành đạt (chánh) đạo, pháp và (chí)
@@ -61,7 +66,7 @@ thiện.
 Chánh Ðẳng Giác tuyên bố, và ở đây người có trí không thể tự mình sống Phạm hạnh, và nếu sống, thời
 không thể thành đạt (chánh) đạo, pháp và (chí) thiện; bốn pháp phi phạm hạnh trú ấy là gì?
 
-<!--pg-->
+
 -- Ở đây, này Sandaka, có vị Ðạo sư có thuyết lý như sau, có quan điểm như sau: "Không có bố thí,
 không có lễ hy sinh, không có tế tự, không có quả dị thục các nghiệp thiện ác, không có đời này, không
 có đời khác, không có mẹ, không có cha, không có loại hóa sanh, ở đời không có những vị Sa-môn, Bà-

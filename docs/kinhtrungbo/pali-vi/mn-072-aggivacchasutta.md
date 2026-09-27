@@ -1,105 +1,118 @@
-# MN 72. Aggivacchasutta
+---
+description: Cuộc đối thoại nổi tiếng giữa Đức Phật và du sĩ ngoại đạo Vacchagotta tại tịnh xá Kỳ Viên (Jetavana). Vacchagotta hỏi Đức Phật 10 câu hỏi siêu hình. Đức Phật từ chối trả lời tất cả vì chúng là những quan điểm trói buộc, không dẫn đến giải thoát. Sau đó, Đức Phật dùng ví dụ thực tế về "ngọn lửa tắt".
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
+# MN 72. KINH VACCHAGOTTA VỀ LỬA
+*(Aggivacchasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-072){class="note-link"}
 
-2\. Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca: {#2}
 
-3\. “Kiṁ nu kho, bho gotama, ‘sassato loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#3}
+1\. Tôi đã nghe như vầy—một thời Thế Tôn trú ở Sāvatthi, tại tịnh xá Jetavana, khu vườn của Anāthapiṇḍika. {#1}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘sassato loko, idameva saccaṁ moghamaññan’”ti.
+2\. Khi ấy, du sĩ Vacchagotta đi đến chỗ Thế Tôn; sau khi đến, liền chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu, vị ấy ngồi xuống một bên. Ngồi một bên, du sĩ Vacchagotta nói với Thế Tôn điều này: {#2}
 
-4\. “Kiṁ pana, bho gotama, ‘asassato loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#4}
+3\. "Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* ( kiến / diṭṭhi) như vầy: 'thế giới là vĩnh hằng, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#3}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘asassato loko, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: 'thế giới là vĩnh hằng, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-5\. “Kiṁ nu kho, bho gotama, ‘antavā loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#5}
+4\. "Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: 'thế giới không vĩnh hằng, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#4}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘antavā loko, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: 'thế giới không vĩnh hằng, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-6\. “Kiṁ pana, bho gotama, ‘anantavā loko, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#6}
+5\. "Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: 'thế giới có giới hạn, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#5}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘anantavā loko, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: 'thế giới có giới hạn, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-7\. “Kiṁ nu kho, bho gotama, ‘taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#7}
+6\. "Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: 'thế giới không có giới hạn, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#6}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: 'thế giới không có giới hạn, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-8\. “Kiṁ pana, bho gotama, ‘aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#8}
+7\. "Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: 'sinh mạng và thân thể là một, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#7}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: 'sinh mạng và thân thể là một, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-9\. “Kiṁ nu kho, bho gotama, ‘hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#9}
+8\. "Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: 'sinh mạng là khác, thân thể là khác, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#8}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: 'sinh mạng là khác, thân thể là khác, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-10\. “Kiṁ pana, bho gotama, ‘na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#10}
+9\. "Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: '*Người Đến Như Vậy* (Như Lai / tathāgato) tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#9}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: '*Người Đến Như Vậy* tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-11\. “Kiṁ nu kho, bho gotama, ‘hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#11}
+10\. "Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: '*Người Đến Như Vậy* không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#10}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: '*Người Đến Như Vậy* không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-12\. “Kiṁ pana, bho gotama, ‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti—evaṁdiṭṭhi bhavaṁ gotamo”ti? {#12}
+11\. "Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: '*Người Đến Như Vậy* vừa tồn tại vừa không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#11}
 
-“Na kho ahaṁ, vaccha, evaṁdiṭṭhi: ‘neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’”ti.
+"Này Vaccha, Ta không có *quan điểm* như vầy: '*Người Đến Như Vậy* vừa tồn tại vừa không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-13\. “‘Kiṁ nu kho, bho gotama, sassato loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—sassato loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, asassato loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—asassato loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, antavā loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—antavā loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, anantavā loko, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—anantavā loko, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—taṁ jīvaṁ taṁ sarīraṁ, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—aññaṁ jīvaṁ aññaṁ sarīraṁ, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ nu kho, bho gotama, hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—hoti ca na ca hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. ‘Kiṁ pana, bho gotama, neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññanti—evaṁdiṭṭhi bhavaṁ gotamo’ti iti puṭṭho samāno ‘na kho ahaṁ, vaccha, evaṁdiṭṭhi—neva hoti na na hoti tathāgato paraṁ maraṇā, idameva saccaṁ moghamaññan’ti vadesi. Kiṁ pana bho gotamo ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato”ti? {#13}
+12\. "Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: '*Người Đến Như Vậy* không phải tồn tại cũng không phải không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'?" {#12}
 
-14\. “‘Sassato loko’ti kho, vaccha, diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. ‘Asassato loko’ti kho, vaccha …pe… ‘antavā loko’ti kho, vaccha …pe… ‘anantavā loko’ti kho, vaccha …pe… ‘taṁ jīvaṁ taṁ sarīran’ti kho, vaccha …pe… ‘aññaṁ jīvaṁ aññaṁ sarīran’ti kho, vaccha …pe… ‘hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘na hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’ti kho, vaccha …pe… ‘neva hoti na na hoti tathāgato paraṁ maraṇā’ti kho, vaccha, diṭṭhigatametaṁ diṭṭhigahanaṁ diṭṭhikantāro diṭṭhivisūkaṁ diṭṭhivipphanditaṁ diṭṭhisaṁyojanaṁ sadukkhaṁ savighātaṁ saupāyāsaṁ sapariḷāhaṁ, na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati. Imaṁ kho ahaṁ, vaccha, ādīnavaṁ sampassamāno evaṁ imāni sabbaso diṭṭhigatāni anupagato”ti. {#14}
+"Này Vaccha, Ta không có *quan điểm* như vầy: '*Người Đến Như Vậy* không phải tồn tại cũng không phải không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'."
 
-15\. “Atthi pana bhoto gotamassa kiñci diṭṭhigatan”ti? {#15}
+13\. "Thưa Tôn giả Gotama, khi được hỏi: 'Có phải Tôn giả Gotama có *quan điểm* như vầy: thế giới là vĩnh hằng, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: thế giới là vĩnh hằng, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: thế giới không vĩnh hằng, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: thế giới không vĩnh hằng, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: thế giới có giới hạn, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: thế giới có giới hạn, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: thế giới không có giới hạn, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: thế giới không có giới hạn, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: sinh mạng và thân thể là một, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: sinh mạng và thân thể là một, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: sinh mạng là khác, thân thể là khác, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: sinh mạng là khác, thân thể là khác, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: *Người Đến Như Vậy* tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: *Người Đến Như Vậy* tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: *Người Đến Như Vậy* không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: *Người Đến Như Vậy* không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: *Người Đến Như Vậy* vừa tồn tại vừa không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: *Người Đến Như Vậy* vừa tồn tại vừa không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Khi được hỏi: 'Vậy thưa Tôn giả Gotama, có phải Tôn giả Gotama có *quan điểm* như vầy: *Người Đến Như Vậy* không phải tồn tại cũng không phải không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm?', Tôn giả đã nói: 'Này Vaccha, Ta không có *quan điểm* như vầy: *Người Đến Như Vậy* không phải tồn tại cũng không phải không tồn tại sau khi chết, chỉ điều này là sự thật, mọi điều khác đều là sai lầm'. Vậy Tôn giả Gotama thấy *sự nguy hiểm* (nguy hiểm / ādīnava) gì mà lại hoàn toàn không vướng mắc vào những *quan điểm* này?" {#13}
 
-“Diṭṭhigatanti kho, vaccha, apanītametaṁ tathāgatassa. Diṭṭhañhetaṁ, vaccha, tathāgatena: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo; iti saṅkhārā, iti saṅkhārānaṁ samudayo, iti saṅkhārānaṁ atthaṅgamo; iti viññāṇaṁ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo’ti. Tasmā tathāgato sabbamaññitānaṁ sabbamathitānaṁ sabbaahaṅkāramamaṅkāramānānusayānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anupādā vimuttoti vadāmī”ti.
+<!--pg-->
+14\. "Này Vaccha, 'thế giới là vĩnh hằng' là một *quan điểm*, là rừng rậm của *quan điểm*, là hoang vu của *quan điểm*, là sự vặn vẹo của *quan điểm*, là sự dao động của *quan điểm*, là *xiềng xích* (kiết sử / saṁyojana) của *quan điểm*, đi kèm với *đau khổ* (khổ / dukkha), bực dọc, tuyệt vọng, thiêu đốt; không dẫn đến sự chán ngán, không dẫn đến *cạn hết đắm nhiễm* (ly tham / virāgā), không dẫn đến *hết sạch* (diệt / nirodhāya), không dẫn đến *lắng dịu* (tịch tịnh / upasamāya), không dẫn đến *hiểu toàn bộ* (thắng tri / abhiññāya), không dẫn đến giác ngộ, không dẫn đến Niết-bàn. Này Vaccha, 'thế giới không vĩnh hằng' [...lặp lại...] Này Vaccha, 'thế giới có giới hạn' [...lặp lại...] Này Vaccha, 'thế giới không có giới hạn' [...lặp lại...] Này Vaccha, 'sinh mạng và thân thể là một' [...lặp lại...] Này Vaccha, 'sinh mạng là khác, thân thể là khác' [...lặp lại...] Này Vaccha, '*Người Đến Như Vậy* tồn tại sau khi chết' [...lặp lại...] Này Vaccha, '*Người Đến Như Vậy* không tồn tại sau khi chết' [...lặp lại...] Này Vaccha, '*Người Đến Như Vậy* vừa tồn tại vừa không tồn tại sau khi chết' [...lặp lại...] Này Vaccha, '*Người Đến Như Vậy* không phải tồn tại cũng không phải không tồn tại sau khi chết' là một *quan điểm*, là rừng rậm của *quan điểm*, là hoang vu của *quan điểm*, là sự vặn vẹo của *quan điểm*, là sự dao động của *quan điểm*, là *xiềng xích* của *quan điểm*, đi kèm với *đau khổ*, bực dọc, tuyệt vọng, thiêu đốt; không dẫn đến sự chán ngán, không dẫn đến *cạn hết đắm nhiễm*, không dẫn đến *hết sạch*, không dẫn đến *lắng dịu*, không dẫn đến *hiểu toàn bộ*, không dẫn đến giác ngộ, không dẫn đến Niết-bàn. Này Vaccha, vì thấy *sự nguy hiểm* này nên Ta hoàn toàn không vướng mắc vào những *quan điểm* này." {#14}
 
-16\. “Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī”ti? {#16}
+15\. "Vậy Tôn giả Gotama có bất kỳ *quan điểm* nào không?" {#15}
 
-“Upapajjatīti kho, vaccha, na upeti”.
+"Này Vaccha, 'quan điểm' đã được *Người Đến Như Vậy* loại bỏ. Này Vaccha, *Người Đến Như Vậy* đã *thấy rõ bản chất* (tri kiến / dassanā): 'đây là *vật chất* (sắc / rūpa), đây là *sự hình thành* (tập / samudayo) của *vật chất*, đây là sự *tan biến* (diệt / atthaṅgamo) của *vật chất*; đây là *Cảm Thọ* (thọ / vedanā), đây là *sự hình thành* của *Cảm Thọ*, đây là sự *tan biến* của *Cảm Thọ*; đây là *Nhận Thức* (tưởng / saññā), đây là *sự hình thành* của *Nhận Thức*, đây là sự *tan biến* của *Nhận Thức*; đây là *hoạt động* (hành / saṅkhārā), đây là *sự hình thành* của *hoạt động*, đây là sự *tan biến* của *hoạt động*; đây là *Nhận Biết* (thức / viññāṇaṁ), đây là *sự hình thành* của *Nhận Biết*, đây là sự *tan biến* của *Nhận Biết*'. Do đó, Ta nói rằng *Người Đến Như Vậy* được giải thoát nhờ không bám bứu, do sự *cạn kiệt* (đoạn tận / khayā), *cạn hết đắm nhiễm*, *hết sạch*, *cho đi* (xả ly / cāgā), từ bỏ mọi ảo tưởng, mọi sự kiêu mạn, mọi *chảy ngầm* (tùy miên / anusayānaṁ) của 'tôi' và 'của tôi'."
 
-“Tena hi, bho gotama, na upapajjatī”ti?
+16\. "Thưa Tôn giả Gotama, một tỳ kheo có tâm giải thoát như vậy sẽ *tái sinh* (sanh / upapajjati) ở đâu?" {#16}
 
-“Na upapajjatīti kho, vaccha, na upeti”.
+"Này Vaccha, 'tái sinh' không áp dụng được."
 
-“Tena hi, bho gotama, upapajjati ca na ca upapajjatī”ti?
+"Vậy thưa Tôn giả Gotama, vị ấy không *tái sinh* sao?"
 
-“Upapajjati ca na ca upapajjatīti kho, vaccha, na upeti”.
+"Này Vaccha, 'không tái sinh' không áp dụng được."
 
-“Tena hi, bho gotama, neva upapajjati na na upapajjatī”ti?
+"Vậy thưa Tôn giả Gotama, vị ấy vừa *tái sinh* vừa không *tái sinh* sao?"
 
-“Neva upapajjati na na upapajjatīti kho, vaccha, na upeti”.
+"Này Vaccha, 'vừa tái sinh vừa không tái sinh' không áp dụng được."
 
-17\. “‘Evaṁ vimuttacitto pana, bho gotama, bhikkhu kuhiṁ upapajjatī’ti iti puṭṭho samāno ‘upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, na upapajjatī’ti iti puṭṭho samāno ‘na upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, upapajjati ca na ca upapajjatī’ti iti puṭṭho samāno ‘upapajjati ca na ca upapajjatīti kho, vaccha, na upetī’ti vadesi. ‘Tena hi, bho gotama, neva upapajjati na na upapajjatī’ti iti puṭṭho samāno ‘neva upapajjati na na upapajjatīti kho, vaccha, na upetī’ti vadesi. Etthāhaṁ, bho gotama, aññāṇamāpādiṁ, ettha sammohamāpādiṁ. Yāpi me esā bhoto gotamassa purimena kathāsallāpena ahu pasādamattā sāpi me etarahi antarahitā”ti. {#17}
+"Vậy thưa Tôn giả Gotama, vị ấy không phải *tái sinh* cũng không phải không *tái sinh* sao?"
 
-18\. “Alañhi te, vaccha, aññāṇāya, alaṁ sammohāya. Gambhīro hāyaṁ, vaccha, dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. So tayā dujjāno aññadiṭṭhikena aññakhantikena aññarucikena aññatrayogena aññatrācariyakena. {#18}
+"Này Vaccha, 'không phải tái sinh cũng không phải không tái sinh' không áp dụng được."
 
-Tena hi, vaccha, taññevettha paṭipucchissāmi; yathā te khameyya tathā naṁ byākareyyāsi.
+17\. "Thưa Tôn giả Gotama, khi được hỏi: 'Một tỳ kheo có tâm giải thoát như vậy sẽ *tái sinh* ở đâu?', Tôn giả đã nói: 'Này Vaccha, tái sinh không áp dụng được'. Khi được hỏi: 'Vậy thưa Tôn giả Gotama, vị ấy không *tái sinh* sao?', Tôn giả đã nói: 'Này Vaccha, không tái sinh không áp dụng được'. Khi được hỏi: 'Vậy thưa Tôn giả Gotama, vị ấy vừa *tái sinh* vừa không *tái sinh* sao?', Tôn giả đã nói: 'Này Vaccha, vừa tái sinh vừa không tái sinh không áp dụng được'. Khi được hỏi: 'Vậy thưa Tôn giả Gotama, vị ấy không phải *tái sinh* cũng không phải không *tái sinh* sao?', Tôn giả đã nói: 'Này Vaccha, không phải tái sinh cũng không phải không tái sinh không áp dụng được'. Ở đây, thưa Tôn giả Gotama, tôi rơi vào sự không hiểu biết, tôi rơi vào sự u mê. Chút niềm tin mà tôi có được đối với Tôn giả Gotama qua cuộc trò chuyện ban đầu, nay đã biến mất." {#17}
 
-19\. Taṁ kiṁ maññasi, vaccha, sace te purato aggi jaleyya, jāneyyāsi tvaṁ: ‘ayaṁ me purato aggi jalatī’”ti? {#19}
+18\. "Này Vaccha, ông không hiểu biết là phải, ông u mê là phải. Này Vaccha, *Giáo pháp* (pháp / dhammo) này sâu kín, khó thấy, khó nhận thức, tĩnh lặng, cao thượng, vượt ngoài tầm suy luận, tinh tế, chỉ người trí mới *trải nghiệm trực tiếp* (thọ / vedanīyo) được. Nó khó hiểu đối với ông, người có *quan điểm* khác, niềm tin khác, sở thích khác, tu tập theo cách khác, có đạo sư khác. {#18}
 
-“Sace me, bho gotama, purato aggi jaleyya, jāneyyāhaṁ: ‘ayaṁ me purato aggi jalatī’”ti.
+Vậy này Vaccha, Ta sẽ hỏi lại ông về điều này; nếu ông thấy phù hợp, hãy trả lời.
 
-“Sace pana taṁ, vaccha, evaṁ puccheyya: ‘yo te ayaṁ purato aggi jalati ayaṁ aggi kiṁ paṭicca jalatī’ti, evaṁ puṭṭho tvaṁ, vaccha, kinti byākareyyāsī”ti?
+19\. Này Vaccha, ông nghĩ sao, nếu có một ngọn lửa cháy trước mặt ông, ông có biết: 'ngọn lửa này đang cháy trước mặt tôi' không?" {#19}
 
-“Sace maṁ, bho gotama, evaṁ puccheyya:
+<!--pg-->
+"Thưa Tôn giả Gotama, nếu có một ngọn lửa cháy trước mặt tôi, tôi sẽ biết: 'ngọn lửa này đang cháy trước mặt tôi'."
 
-‘yo te ayaṁ purato aggi jalati ayaṁ aggi kiṁ paṭicca jalatī’ti, evaṁ puṭṭho ahaṁ, bho gotama, evaṁ byākareyyaṁ: ‘yo me ayaṁ purato aggi jalati ayaṁ aggi tiṇakaṭṭhupādānaṁ paṭicca jalatī’”ti.
+"Nhưng này Vaccha, nếu có người hỏi ông: 'ngọn lửa đang cháy trước mặt ông này, ngọn lửa này cháy *phụ thuộc* (duyên / paṭicca) vào cái gì?', khi được hỏi như vậy, này Vaccha, ông sẽ trả lời thế nào?"
 
-“Sace te, vaccha, purato so aggi nibbāyeyya, jāneyyāsi tvaṁ: ‘ayaṁ me purato aggi nibbuto’”ti?
+"Thưa Tôn giả Gotama, nếu có người hỏi tôi: 'ngọn lửa đang cháy trước mặt ông này, ngọn lửa này cháy *phụ thuộc* vào cái gì?', khi được hỏi như vậy, thưa Tôn giả Gotama, tôi sẽ trả lời thế này: 'ngọn lửa đang cháy trước mặt tôi này, ngọn lửa này cháy *phụ thuộc* vào nhiên liệu là cỏ và củi'."
 
-“Sace me, bho gotama, purato so aggi nibbāyeyya, jāneyyāhaṁ: ‘ayaṁ me purato aggi nibbuto’”ti.
+"Này Vaccha, nếu ngọn lửa trước mặt ông tắt, ông có biết: 'ngọn lửa trước mặt tôi đã tắt' không?"
 
-“Sace pana taṁ, vaccha, evaṁ puccheyya: ‘yo te ayaṁ purato aggi nibbuto so aggi ito katamaṁ disaṁ gato—puratthimaṁ vā dakkhiṇaṁ vā pacchimaṁ vā uttaraṁ vā’ti, evaṁ puṭṭho tvaṁ, vaccha, kinti byākareyyāsī”ti?
+"Thưa Tôn giả Gotama, nếu ngọn lửa trước mặt tôi tắt, tôi sẽ biết: 'ngọn lửa trước mặt tôi đã tắt'."
 
-“Na upeti, bho gotama, yañhi so, bho gotama, aggi tiṇakaṭṭhupādānaṁ paṭicca ajali tassa ca pariyādānā aññassa ca anupahārā anāhāro nibbutotveva saṅkhyaṁ gacchatī”ti.
+"Nhưng này Vaccha, nếu có người hỏi ông: 'ngọn lửa đã tắt trước mặt ông đó, ngọn lửa ấy đã đi về hướng nào—hướng đông, hướng nam, hướng tây hay hướng bắc?', khi được hỏi như vậy, này Vaccha, ông sẽ trả lời thế nào?"
 
-20\. “Evameva kho, vaccha, yena rūpena tathāgataṁ paññāpayamāno paññāpeyya taṁ rūpaṁ tathāgatassa pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ. Rūpasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. {#20}
+"Không được, thưa Tôn giả Gotama. Vì ngọn lửa ấy cháy *phụ thuộc* vào nhiên liệu là cỏ và củi, khi nhiên liệu ấy cạn kiệt và không được cung cấp thêm, không có nhiên liệu, nó sẽ bị 'tắt'."
 
-Yāya vedanāya tathāgataṁ paññāpayamāno paññāpeyya sā vedanā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Vedanāsaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. Yāya saññāya tathāgataṁ paññāpayamāno paññāpeyya sā saññā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Saññāsaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. Yehi saṅkhārehi tathāgataṁ paññāpayamāno paññāpeyya te saṅkhārā tathāgatassa pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Saṅkhārasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upeti. Yena viññāṇena tathāgataṁ paññāpayamāno paññāpeyya taṁ viññāṇaṁ tathāgatassa pahīnaṁ ucchinnamūlaṁ tālāvatthukataṁ anabhāvaṅkataṁ āyatiṁ anuppādadhammaṁ. Viññāṇasaṅkhayavimutto kho, vaccha, tathāgato gambhīro appameyyo duppariyogāḷho—seyyathāpi mahāsamuddo. Upapajjatīti na upeti, na upapajjatīti na upeti, upapajjati ca na ca upapajjatīti na upeti, neva upapajjati na na upapajjatīti na upetī”ti.
+20\. "Cũng vậy, này Vaccha, bất cứ *vật chất* nào người ta chỉ định đó là *Người Đến Như Vậy*, thì *vật chất* ấy đã được *Người Đến Như Vậy* *từ bỏ* (đoạn trừ / pahīnaṁ), cắt đứt tận gốc rễ, làm cho như thân cây cưa cụt, làm cho không thể tồn tại, có bản chất *không sinh khởi trở lại* (vô sanh / anuppādadhamma) trong tương lai. Này Vaccha, *Người Đến Như Vậy* đã được giải thoát nhờ sự *cạn kiệt* của *vật chất*, thật sâu kín, không thể đo lường, khó dò thấu — giống như đại dương lớn. 'Tái sinh' không áp dụng được, 'không tái sinh' không áp dụng được, 'vừa tái sinh vừa không tái sinh' không áp dụng được, 'không phải tái sinh cũng không phải không tái sinh' không áp dụng được. {#20}
 
-21\. Evaṁ vutte, vacchagotto paribbājako bhagavantaṁ etadavoca: {#21}
+Bất cứ *Cảm Thọ* nào người ta chỉ định đó là *Người Đến Như Vậy*, thì *Cảm Thọ* ấy đã được *Người Đến Như Vậy* *từ bỏ*, cắt đứt tận gốc rễ, làm cho như thân cây cưa cụt, làm cho không thể tồn tại, có bản chất *không sinh khởi trở lại* trong tương lai. Này Vaccha, *Người Đến Như Vậy* đã được giải thoát nhờ sự *cạn kiệt* của *Cảm Thọ*, thật sâu kín, không thể đo lường, khó dò thấu — giống như đại dương lớn. 'Tái sinh' không áp dụng được, 'không tái sinh' không áp dụng được, 'vừa tái sinh vừa không tái sinh' không áp dụng được, 'không phải tái sinh cũng không phải không tái sinh' không áp dụng được. 
 
-“seyyathāpi, bho gotama, gāmassa vā nigamassa vā avidūre mahāsālarukkho. Tassa aniccatā sākhāpalāsā palujjeyyuṁ, tacapapaṭikā palujjeyyuṁ, pheggū palujjeyyuṁ; so aparena samayena apagatasākhāpalāso apagatatacapapaṭiko apagataphegguko suddho assa, sāre patiṭṭhito; evameva bhoto gotamassa pāvacanaṁ apagatasākhāpalāsaṁ apagatatacapapaṭikaṁ apagatapheggukaṁ suddhaṁ, sāre patiṭṭhitaṁ.
+Bất cứ *Nhận Thức* nào người ta chỉ định đó là *Người Đến Như Vậy*, thì *Nhận Thức* ấy đã được *Người Đến Như Vậy* *từ bỏ*, cắt đứt tận gốc rễ, làm cho như thân cây cưa cụt, làm cho không thể tồn tại, có bản chất *không sinh khởi trở lại* trong tương lai. Này Vaccha, *Người Đến Như Vậy* đã được giải thoát nhờ sự *cạn kiệt* của *Nhận Thức*, thật sâu kín, không thể đo lường, khó dò thấu — giống như đại dương lớn. 'Tái sinh' không áp dụng được, 'không tái sinh' không áp dụng được, 'vừa tái sinh vừa không tái sinh' không áp dụng được, 'không phải tái sinh cũng không phải không tái sinh' không áp dụng được. 
 
-22\. Abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti. {#22}
+Bất cứ *hoạt động* nào người ta chỉ định đó là *Người Đến Như Vậy*, thì *hoạt động* ấy đã được *Người Đến Như Vậy* *từ bỏ*, cắt đứt tận gốc rễ, làm cho như thân cây cưa cụt, làm cho không thể tồn tại, có bản chất *không sinh khởi trở lại* trong tương lai. Này Vaccha, *Người Đến Như Vậy* đã được giải thoát nhờ sự *cạn kiệt* của *hoạt động*, thật sâu kín, không thể đo lường, khó dò thấu — giống như đại dương lớn. 'Tái sinh' không áp dụng được, 'không tái sinh' không áp dụng được, 'vừa tái sinh vừa không tái sinh' không áp dụng được, 'không phải tái sinh cũng không phải không tái sinh' không áp dụng được. 
 
-Aggivacchasuttaṁ niṭṭhitaṁ dutiyaṁ.
+Bất cứ *Nhận Biết* nào người ta chỉ định đó là *Người Đến Như Vậy*, thì *Nhận Biết* ấy đã được *Người Đến Như Vậy* *từ bỏ*, cắt đứt tận gốc rễ, làm cho như thân cây cưa cụt, làm cho không thể tồn tại, có bản chất *không sinh khởi trở lại* trong tương lai. Này Vaccha, *Người Đến Như Vậy* đã được giải thoát nhờ sự *cạn kiệt* của *Nhận Biết*, thật sâu kín, không thể đo lường, khó dò thấu — giống như đại dương lớn. 'Tái sinh' không áp dụng được, 'không tái sinh' không áp dụng được, 'vừa tái sinh vừa không tái sinh' không áp dụng được, 'không phải tái sinh cũng không phải không tái sinh' không áp dụng được."
+
+21\. Khi được nói như vậy, du sĩ Vacchagotta thưa với Thế Tôn điều này: {#21}
+
+"Thưa Tôn giả Gotama, giống như một cây sāla lớn không xa làng hay thị trấn. Do biến hoại mà cành lá của nó rụng xuống, vỏ và chồi rụng xuống, dác gỗ rụng xuống; sau một thời gian, nó trở nên sạch cành lá, sạch vỏ và chồi, sạch dác gỗ, thanh tịnh, chỉ còn lại lõi cây nguyên vẹn. Cũng vậy, lời dạy của Tôn giả Gotama đã sạch cành lá, sạch vỏ và chồi, sạch dác gỗ, thanh tịnh, chỉ còn lại lõi cây nguyên vẹn.
+
+22\. Thật tuyệt vời, thưa Tôn giả Gotama! [...lặp lại...] Xin Tôn giả Gotama nhận con làm cư sĩ, từ nay cho đến mạng chung, con xin trọn đời quy y." {#22}
+
+Kinh Aggivaccha kết thúc, là bài kinh thứ hai.

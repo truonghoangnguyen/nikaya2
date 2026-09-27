@@ -3,7 +3,7 @@
 
 [68] 1. Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Vương Xá (Rājagaha), ở núi Isigili - Hang Nuốt Chư Tiên. Tại đó, Ngài gọi các tỳ kheo (bhikkhus - các nhà sư nam đã thọ giới cụ túc): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy điều này:
 
-2\. "Này các Tỳ kheo, các ông có thấy ngọn núi Vebhāra không?" - "Thưa vâng, bạch Thế Tôn."
+2\. "Này các Tỳ kheo, các ông có thấy ngọn núi Vebhāra không?" - "Thưa vâng, bạch Thế Tôn." {#2}
 
 "Trước kia, ngọn núi Vebhāra ấy từng có một tên gọi khác, một danh xưng khác. Này các Tỳ kheo, các ông có thấy ngọn núi Paṇḍava không?" - "Thưa vâng, bạch Thế Tôn."
 
@@ -13,11 +13,11 @@
 
 "Trước kia, ngọn núi Gijjhakūṭa - đỉnh Linh Thứu ấy từng có một tên gọi khác, một danh xưng khác. Này các Tỳ kheo, các ông có thấy ngọn núi Isigili - Hang Nuốt Chư Tiên không?" - "Thưa vâng, bạch Thế Tôn."
 
-3\. "Trước kia, ngọn núi Isigili - Hang Nuốt Chư Tiên này cũng từng có cùng tên gọi, cùng danh xưng này. Vì vào thời xa xưa, năm trăm vị Phật Độc Giác (paccekabuddha - vị Phật tự mình giác ngộ nhưng không thuyết giảng giáo pháp rộng rãi) đã sống lâu dài trên ngọn núi Isigili - Hang Nuốt Chư Tiên này. Người ta thấy các vị ấy đi vào trong núi này; một khi đã vào trong, không ai còn thấy các vị ấy nữa. Những người thấy vậy liền nói: 'Ngọn núi này nuốt chửng các vị tiên này.' Và thế là nó được đặt tên là 'Hang Nuốt Chư Tiên.' Này các Tỳ kheo, Ta sẽ cho các ông biết tên của các vị Phật Độc Giác, Ta sẽ kể cho các ông nghe tên của các vị Phật Độc Giác, Ta sẽ dạy cho các ông [69] tên của các vị Phật Độc Giác. Hãy lắng nghe và chú tâm kỹ những gì Ta sắp nói." - "Thưa vâng, bạch Thế Tôn," các tỳ kheo vâng đáp. Đức Thế Tôn dạy điều này:
+3\. "Trước kia, ngọn núi Isigili - Hang Nuốt Chư Tiên này cũng từng có cùng tên gọi, cùng danh xưng này. Vì vào thời xa xưa, năm trăm vị Phật Độc Giác (paccekabuddha - vị Phật tự mình giác ngộ nhưng không thuyết giảng giáo pháp rộng rãi) đã sống lâu dài trên ngọn núi Isigili - Hang Nuốt Chư Tiên này. Người ta thấy các vị ấy đi vào trong núi này; một khi đã vào trong, không ai còn thấy các vị ấy nữa. Những người thấy vậy liền nói: 'Ngọn núi này nuốt chửng các vị tiên này.' Và thế là nó được đặt tên là 'Hang Nuốt Chư Tiên.' Này các Tỳ kheo, Ta sẽ cho các ông biết tên của các vị Phật Độc Giác, Ta sẽ kể cho các ông nghe tên của các vị Phật Độc Giác, Ta sẽ dạy cho các ông [69] tên của các vị Phật Độc Giác. Hãy lắng nghe và chú tâm kỹ những gì Ta sắp nói." - "Thưa vâng, bạch Thế Tôn," các tỳ kheo vâng đáp. Đức Thế Tôn dạy điều này: {#3}
 
-4\. "Này các Tỳ kheo, vị Phật Độc Giác Aritṭha đã sống lâu dài trên núi Isigili này. Vị Phật Độc Giác Uparittha đã sống lâu dài trên núi Isigili này. Vị Phật Độc Giác Tagarasikhin... Yasassin... Sudassana... Piyadassin... Gandhāra... Piṇḍola... Upāsabha... Nītha... Tatha... Sutavā... Bhāvitatta đã sống lâu dài trên núi Isigili này.
+4\. "Này các Tỳ kheo, vị Phật Độc Giác Aritṭha đã sống lâu dài trên núi Isigili này. Vị Phật Độc Giác Uparittha đã sống lâu dài trên núi Isigili này. Vị Phật Độc Giác Tagarasikhin... Yasassin... Sudassana... Piyadassin... Gandhāra... Piṇḍola... Upāsabha... Nītha... Tatha... Sutavā... Bhāvitatta đã sống lâu dài trên núi Isigili này. {#4}
 
-5\. "Những bậc thánh nhân này, không còn ham muốn, thoát khỏi khổ đau,
+5\. "Những bậc thánh nhân này, không còn ham muốn, thoát khỏi khổ đau, {#5}
 Những vị tự mình đạt giác ngộ
 Hãy nghe Ta kể tên những bậc vĩ đại nhất
 Trong loài người, những vị đã nhổ bật mũi tên [khổ đau].
@@ -27,7 +27,7 @@ Yasassin, Sudassana, và Piyadassin đã giác ngộ,
 Gandhāra, Piṇḍola, cùng Upāsabha,
 Nītha, Tatha, Sutavā, Bhāvitatta. [70]
 
-6\. "Sumbha, Subha, Methula, và Aṭṭhama,
+6\. "Sumbha, Subha, Methula, và Aṭṭhama, {#6}
 Rồi Assumegha, Anīgha, Sudāṭha -
 Và Hiṅgū, và Hiṅga, đại năng lực,
 Các vị Phật Độc Giác không còn tái sanh.
@@ -74,7 +74,7 @@ Padumuttara, Rakkhita, và Pabbata, [71]
 Mānatthaddha vinh quang, Vītarāga
 Và Kaṇha đã giác ngộ với tâm giải thoát.
 
-7\. "Những vị này và các vị Phật Độc Giác vĩ đại,
+7\. "Những vị này và các vị Phật Độc Giác vĩ đại, {#7}
 Hùng mạnh khác không còn tái sanh nữa -
 Hãy tôn kính những bậc hiền triết này, những người đã vượt qua ái dục,
 Đã đạt đến Niết Bàn cuối cùng (final Nibbāna/parinibbāna - trạng thái tịch diệt hoàn toàn sau khi thân xác tan rã, không còn tái sanh), không thể đo lường."

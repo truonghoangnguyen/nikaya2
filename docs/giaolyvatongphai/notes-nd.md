@@ -16,7 +16,7 @@ Vế (a) — "Sắc có thể bệnh hoạn -> Sắc không phải ngã" — h�
 
 Vế (b) — "Sắc không điều khiển được theo ý muốn -> Sắc không phải ngã" — tác giả gọi là "suy luận sai" (false inference): Lập luận tác giả ở đây: theo đúng quan niệm Ấn Độ về Ngã (Atman), Ngã đích thực là cái hoàn toàn không thể bị chi phối bởi bất cứ điều gì. Vậy nên: Theo tác giả, nếu Ngũ Uẩn (Năm Nhóm) không thể bị điều khiển theo ý muốn, điều đó chứng minh chúng là 'Ngã', vì một Ngã thật thì không thể "nghe lời" ai, kể cả nghe lời chính người sở hữu nó. 
 
-Người dịch: Theo kinh [MN 35](/link?q=MN-35) ví dụ vị vua có quyền trong lãnh thổ mình: xử tử, phạt tù... nếu muốn. Vậy theo Phật tiêu cái gì đó  được gọi là "ngã" nếu nó có thể có quyền ra lệnh, quyết định trạng thái của nó theo ý muốn. Nếu theo cách nhìn này thì câu kinh hoàn toàn hợp lý. 
+Người dịch: Theo kinh [MN 35](/l?q=MN-35) ví dụ vị vua có quyền trong lãnh thổ mình: xử tử, phạt tù... nếu muốn. Vậy theo Phật tiêu cái gì đó  được gọi là "ngã" nếu nó có thể có quyền ra lệnh, quyết định trạng thái của nó theo ý muốn. Nếu theo cách nhìn này thì câu kinh hoàn toàn hợp lý. 
 
 PS: Điều này làm tôi nhớ đến phép thử Howey test để xác định một giao dịch có phải là chứng khoán hay không. Cụ thể, theo phép thử Howey, một giao dịch được coi là "hợp đồng đầu tư" (và do đó là chứng khoán) chỉ khi thỏa mãn đồng thời:
 
@@ -39,11 +39,11 @@ Nếu thiếu bất kỳ yếu tố nào, thì cái đó không được xem là
 Ví dụ: "hetu yo ca paccayo -> đâu là nhân đâu là duyên [để làm điều đó sinh ra] -> đâu là gốc của nguyên nhân và điều kiện môi trường [để làm điều đó sinh ra]".
 
 2. paṭicca(sự phụ thuộc/dependent), 
-Ví dụ: từ paṭiccasamuppāda -> duyên khởi -> Vì có A nên B sinh ra (và nếu không có A thì không có B). Đây là một mối quan hệ chặt chẽ kiểu điều kiện "cần và đủ" trong toán học, Ví dụ về mối quan hệ 'cần nhưng không đủ': Vì có A nên có B, không có A nhưng có X nên có B. Xem thêm  [MN 38](/link?q=MN-38)
+Ví dụ: từ paṭiccasamuppāda -> duyên khởi -> Vì có A nên B sinh ra (và nếu không có A thì không có B). Đây là một mối quan hệ chặt chẽ kiểu điều kiện "cần và đủ" trong toán học, Ví dụ về mối quan hệ 'cần nhưng không đủ': Vì có A nên có B, không có A nhưng có X nên có B. Xem thêm  [MN 38](/l?q=MN-38)
 
 Tác giả ở đây dịch paṭiccasamuppāda = 'sự phát sinh có điều kiện' (duyên khởi). Theo chúng tôi hiểu paṭiccasamuppāda nghĩa là 'Vì có A nên B chắc chắn sẽ sinh ra, nếu không có A thì không có B, và không thứ gì khác sinh ra B'. Nên chúng tôi đã chọn dịch là paṭiccasamuppāda = 'sự sinh ra do quan hệ phụ thuộc'. Lúc đầu chúng tôi định dịch là 'cùng sinh, cùng diệt' nhưng khi đi vào lời văn thì thấy hơi khó khăn.
 
-[^5]: Khác với tác giả, theo chúng tôi, 12 Nhân duyên mô tả một chuỗi luân hồi từ quá khứ - hiện tại - tương lai. 5 Uẩn mô tả cấu thành của 1 người ở hiện tại và 5 Uẩn chia làm 2 loại là 1) danh (thọ, tưởng, hành, thưc) và 2) sắc (sắc). 5 Uẩn chính là hình chụp tại một thời điểm của chuỗi đời sống 1 người dài từ vô thủy. Xem thêm [SN-12/2](/link?q=SN-12.2)
+[^5]: Khác với tác giả, theo chúng tôi, 12 Nhân duyên mô tả một chuỗi luân hồi từ quá khứ - hiện tại - tương lai. 5 Uẩn mô tả cấu thành của 1 người ở hiện tại và 5 Uẩn chia làm 2 loại là 1) danh (thọ, tưởng, hành, thưc) và 2) sắc (sắc). 5 Uẩn chính là hình chụp tại một thời điểm của chuỗi đời sống 1 người dài từ vô thủy. Xem thêm [SN-12/2](/l?q=SN-12.2)
 
 [Quá khứ]\
 1\. vô minh (nên sinh ra) hành;\

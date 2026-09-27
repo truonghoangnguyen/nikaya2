@@ -1,19 +1,19 @@
 # MN 114. Nên Tu Tập và Không Nên Tu Tập
 ***(Kinh Sevitabbāsevitabba - Kinh về Điều Nên và Không Nên Thực Hành)***
 
-1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn của ông Jeta, tại Tu viện của ông Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các vị Tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy điều này:
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Vườn của ông Jeta, tại Tu viện của ông Anāthapindika (Cấp Cô Độc). Tại đó, Ngài gọi các vị Tỳ kheo (monks-bhikkhus-nhà sư): "Này các Tỳ kheo." - "Bạch Thế Tôn," các vị ấy vâng đáp. Đức Thế Tôn dạy điều này: {#1}
 
-2\.  "Này các Tỳ kheo, Ta sẽ giảng cho các ông một bài pháp về những gì nên tu tập và những gì không nên tu tập. Hãy lắng nghe và chú tâm vào những gì Ta sắp nói." - "Vâng, bạch Thế Tôn," các vị Tỳ kheo vâng đáp. Đức Thế Tôn dạy điều này:
+2\.  "Này các Tỳ kheo, Ta sẽ giảng cho các ông một bài pháp về những gì nên tu tập và những gì không nên tu tập. Hãy lắng nghe và chú tâm vào những gì Ta sắp nói." - "Vâng, bạch Thế Tôn," các vị Tỳ kheo vâng đáp. Đức Thế Tôn dạy điều này: {#2}
 
 #### (PHẦN TRÌNH BÀY THỨ NHẤT)
 
-3\.  "Này các Tỳ kheo, [^1069] thân hành (bodily conduct - hành vi qua thân) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và thân hành chỉ là một trong hai loại đó. [^1070] Khẩu hành (verbal conduct - hành vi qua lời nói) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khẩu hành chỉ là một trong hai loại đó. Ý hành (mental conduct - hành vi qua ý nghĩ) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và ý hành chỉ là một trong hai loại đó. Khuynh hướng tâm ý (inclination of mind - sự nghiêng chiều, xu hướng của tâm) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khuynh hướng tâm ý chỉ là một trong hai loại đó. [46] Sự thủ đắc nhận thức (acquisition of perception - sự đạt được, hình thành nhận thức) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc nhận thức chỉ là một trong hai loại đó. Sự thủ đắc tri kiến (acquisition of view - sự đạt được, hình thành quan điểm, cách nhìn) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc tri kiến chỉ là một trong hai loại đó. Sự thủ đắc bản thể cá nhân (acquisition of individuality - sự đạt được, hình thành một đời sống cá nhân, một thân phận) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc bản thể cá nhân chỉ là một trong hai loại đó."
+3\.  "Này các Tỳ kheo, [^1069] thân hành (bodily conduct - hành vi qua thân) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và thân hành chỉ là một trong hai loại đó. [^1070] Khẩu hành (verbal conduct - hành vi qua lời nói) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khẩu hành chỉ là một trong hai loại đó. Ý hành (mental conduct - hành vi qua ý nghĩ) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và ý hành chỉ là một trong hai loại đó. Khuynh hướng tâm ý (inclination of mind - sự nghiêng chiều, xu hướng của tâm) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khuynh hướng tâm ý chỉ là một trong hai loại đó. [46] Sự thủ đắc nhận thức (acquisition of perception - sự đạt được, hình thành nhận thức) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc nhận thức chỉ là một trong hai loại đó. Sự thủ đắc tri kiến (acquisition of view - sự đạt được, hình thành quan điểm, cách nhìn) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc tri kiến chỉ là một trong hai loại đó. Sự thủ đắc bản thể cá nhân (acquisition of individuality - sự đạt được, hình thành một đời sống cá nhân, một thân phận) có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc bản thể cá nhân chỉ là một trong hai loại đó." {#3}
 
 #### (PHẦN GIẢI THÍCH CHI TIẾT THỨ NHẤT)
 
-4\.  Khi nghe vậy, Tôn giả Xá Lợi Phất (Sāriputta) bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này:
+4\.  Khi nghe vậy, Tôn giả Xá Lợi Phất (Sāriputta) bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này: {#4}
 
-5\.  "'Này các Tỳ kheo, thân hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và thân hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+5\.  "'Này các Tỳ kheo, thân hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và thân hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#5}
 
 "Bạch Thế Tôn, thân hành nào mà khi thực hành khiến các pháp bất thiện (unwholesome states - trạng thái tâm tiêu cực, có hại, dẫn đến khổ đau) tăng trưởng và các pháp thiện (wholesome states - trạng thái tâm tích cực, lợi ích, dẫn đến an vui) suy giảm, thì không nên tu tập. Nhưng thân hành nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
@@ -23,7 +23,7 @@
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, thân hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và thân hành chỉ là một trong hai loại đó.'
 
-6\.  "'Này các Tỳ kheo, khẩu hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khẩu hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+6\.  "'Này các Tỳ kheo, khẩu hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khẩu hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#6}
 
 "Bạch Thế Tôn, khẩu hành nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng khẩu hành nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
@@ -33,7 +33,7 @@
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, khẩu hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khẩu hành chỉ là một trong hai loại đó.'
 
-7\.  "'Ý hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và ý hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+7\.  "'Ý hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và ý hành chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#7}
 
 "Bạch Thế Tôn, ý hành nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng ý hành nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
@@ -43,7 +43,7 @@
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, ý hành có hai loại, Ta nói: nên tu tập và không nên tu tập. Và ý hành chỉ là một trong hai loại đó.' [^1071]
 
-8\.  "'Khuynh hướng tâm ý có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khuynh hướng tâm ý chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+8\.  "'Khuynh hướng tâm ý có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khuynh hướng tâm ý chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#8}
 
 "Bạch Thế Tôn, khuynh hướng tâm ý nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng khuynh hướng tâm ý nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
@@ -53,7 +53,7 @@
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, khuynh hướng tâm ý có hai loại, Ta nói: nên tu tập và không nên tu tập. Và khuynh hướng tâm ý chỉ là một trong hai loại đó.'
 
-9\.  "'Sự thủ đắc nhận thức có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc nhận thức chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+9\.  "'Sự thủ đắc nhận thức có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc nhận thức chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#9}
 
 "Bạch Thế Tôn, sự thủ đắc nhận thức nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng sự thủ đắc nhận thức nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
@@ -63,7 +63,7 @@
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, sự thủ đắc nhận thức có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc nhận thức chỉ là một trong hai loại đó.' [52]
 
-10\. "'Sự thủ đắc tri kiến có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc tri kiến chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+10\. "'Sự thủ đắc tri kiến có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc tri kiến chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#10}
 
 "Bạch Thế Tôn, sự thủ đắc tri kiến nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng sự thủ đắc tri kiến nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
@@ -73,7 +73,7 @@
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, sự thủ đắc tri kiến có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc tri kiến chỉ là một trong hai loại đó.'
 
-11\. "'Sự thủ đắc bản thể cá nhân có hai loại, Ta nói: [^1073] nên tu tập và không nên tu tập. Và sự thủ đắc bản thể cá nhân chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+11\. "'Sự thủ đắc bản thể cá nhân có hai loại, Ta nói: [^1073] nên tu tập và không nên tu tập. Và sự thủ đắc bản thể cá nhân chỉ là một trong hai loại đó.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#11}
 
 "Bạch Thế Tôn, [53] sự thủ đắc bản thể cá nhân nào mà khi thực hành khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tu tập. Nhưng sự thủ đắc bản thể cá nhân nào mà khi thực hành khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tu tập.
 
@@ -83,97 +83,97 @@
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này các Tỳ kheo, sự thủ đắc bản thể cá nhân có hai loại, Ta nói: nên tu tập và không nên tu tập. Và sự thủ đắc bản thể cá nhân chỉ là một trong hai loại đó.'
 
-12\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này."
+12\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này." {#12}
 
 #### (PHẦN CHẤP THUẬN VÀ TÓM TẮT LẦN THỨ NHẤT)
 
-13\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy.
+13\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy. {#13}
 
 14-20. [54, 55] (Trong các đoạn này, Đức Phật lặp lại nguyên văn các đoạn §§5-11, thay "Bạch Thế Tôn" bằng "Này Xá Lợi Phất" và "Đức Thế Tôn" bằng "Ta".)
 
-21\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy.
+21\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy. {#21}
 
 #### (PHẦN TRÌNH BÀY THỨ HAI)
 
-22\. "Này Xá Lợi Phất, các hình sắc (forms - đối tượng nhìn thấy) nhận biết qua mắt có hai loại, Ta nói: [56] nên tu tập và không nên tu tập. [^1075] Các âm thanh (sounds - đối tượng nghe thấy) nhận biết qua tai có hai loại, Ta nói: nên tu tập và không nên tu tập. Các mùi hương (odours - đối tượng ngửi thấy) nhận biết qua mũi có hai loại, Ta nói: nên tu tập và không nên tu tập. Các vị (flavours - đối tượng nếm) nhận biết qua lưỡi có hai loại, Ta nói: nên tu tập và không nên tu tập. Các cảm giác xúc chạm (tangibles - đối tượng cảm nhận qua thân) nhận biết qua thân có hai loại, Ta nói: nên tu tập và không nên tu tập. Các đối tượng của ý (mind-objects - đối tượng suy nghĩ, nhận thức của tâm) nhận biết qua ý có hai loại, Ta nói: nên tu tập và không nên tu tập."
+22\. "Này Xá Lợi Phất, các hình sắc (forms - đối tượng nhìn thấy) nhận biết qua mắt có hai loại, Ta nói: [56] nên tu tập và không nên tu tập. [^1075] Các âm thanh (sounds - đối tượng nghe thấy) nhận biết qua tai có hai loại, Ta nói: nên tu tập và không nên tu tập. Các mùi hương (odours - đối tượng ngửi thấy) nhận biết qua mũi có hai loại, Ta nói: nên tu tập và không nên tu tập. Các vị (flavours - đối tượng nếm) nhận biết qua lưỡi có hai loại, Ta nói: nên tu tập và không nên tu tập. Các cảm giác xúc chạm (tangibles - đối tượng cảm nhận qua thân) nhận biết qua thân có hai loại, Ta nói: nên tu tập và không nên tu tập. Các đối tượng của ý (mind-objects - đối tượng suy nghĩ, nhận thức của tâm) nhận biết qua ý có hai loại, Ta nói: nên tu tập và không nên tu tập." {#22}
 
 #### (PHẦN GIẢI THÍCH CHI TIẾT THỨ HAI)
 
-23\. Khi nghe vậy, Tôn giả Xá Lợi Phất bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này:
+23\. Khi nghe vậy, Tôn giả Xá Lợi Phất bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này: {#23}
 
-24\. "'Này Xá Lợi Phất, các hình sắc nhận biết qua mắt có hai loại, Ta nói: [56] nên tu tập và không nên tu tập.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+24\. "'Này Xá Lợi Phất, các hình sắc nhận biết qua mắt có hai loại, Ta nói: [56] nên tu tập và không nên tu tập.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#24}
 
 "Bạch Thế Tôn, những hình sắc nhận biết qua mắt nào mà khi tiếp xúc (tu tập ở đây mang nghĩa là tiếp xúc, sử dụng, hướng tâm đến) khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tiếp xúc. Nhưng những hình sắc nhận biết qua mắt nào mà khi tiếp xúc khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tiếp xúc.
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này Xá Lợi Phất, các hình sắc nhận biết qua mắt có hai loại, Ta nói: nên tu tập và không nên tu tập.'
 
-25\. "'Các âm thanh nhận biết qua tai có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24)
+25\. "'Các âm thanh nhận biết qua tai có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24) {#25}
 
-26\. "'Các mùi hương nhận biết qua mũi có hai loại, Ta nói'...[57] (Giải thích tương tự như đoạn 24)
+26\. "'Các mùi hương nhận biết qua mũi có hai loại, Ta nói'...[57] (Giải thích tương tự như đoạn 24) {#26}
 
-27\. "'Các vị nhận biết qua lưỡi có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24)
+27\. "'Các vị nhận biết qua lưỡi có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24) {#27}
 
-28\. "'Các cảm giác xúc chạm nhận biết qua thân có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24)
+28\. "'Các cảm giác xúc chạm nhận biết qua thân có hai loại, Ta nói'... (Giải thích tương tự như đoạn 24) {#28}
 
-29\. "'Các đối tượng của ý nhận biết qua ý có hai loại, Ta nói: nên tu tập và không nên tu tập.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+29\. "'Các đối tượng của ý nhận biết qua ý có hai loại, Ta nói: nên tu tập và không nên tu tập.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#29}
 
 "Bạch Thế Tôn, những đối tượng của ý nhận biết qua ý nào mà khi tiếp xúc khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên tiếp xúc. [58] Nhưng những đối tượng của ý nhận biết qua ý nào mà khi tiếp xúc khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên tiếp xúc.
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Các đối tượng của ý nhận biết qua ý có hai loại, Ta nói: nên tu tập và không nên tu tập.'
 
-30\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này."
+30\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này." {#30}
 
 #### (PHẦN CHẤP THUẬN VÀ TÓM TẮT LẦN THỨ HAI)
 
-31\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy.
+31\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy. {#31}
 
 32-37. (Trong các đoạn này, Đức Phật lặp lại nguyên văn các đoạn §§24-29, với những thay đổi cần thiết về đại từ.)
 
-38\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy.
+38\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy. {#38}
 
 #### (PHẦN TRÌNH BÀY THỨ BA)
 
-39\. "Này Xá Lợi Phất, y phục có hai loại, Ta nói: nên sử dụng (tu tập ở đây mang nghĩa sử dụng, thọ dụng) và không nên sử dụng. Vật thực khất thực có hai loại, Ta nói: nên sử dụng và không nên sử dụng. Chỗ ở có hai loại, Ta nói: nên sử dụng và không nên sử dụng. Làng mạc có hai loại, Ta nói: nên lui tới và không nên lui tới. Thị trấn có hai loại, Ta nói: nên lui tới và không nên lui tới. Thành phố có hai loại, Ta nói: nên lui tới và không nên lui tới. Vùng miền (quận) có hai loại, Ta nói: nên lui tới và không nên lui tới. Hạng người có hai loại, Ta nói: nên gần gũi (tu tập ở đây mang nghĩa thân cận, giao du) và không nên gần gũi." [59]
+39\. "Này Xá Lợi Phất, y phục có hai loại, Ta nói: nên sử dụng (tu tập ở đây mang nghĩa sử dụng, thọ dụng) và không nên sử dụng. Vật thực khất thực có hai loại, Ta nói: nên sử dụng và không nên sử dụng. Chỗ ở có hai loại, Ta nói: nên sử dụng và không nên sử dụng. Làng mạc có hai loại, Ta nói: nên lui tới và không nên lui tới. Thị trấn có hai loại, Ta nói: nên lui tới và không nên lui tới. Thành phố có hai loại, Ta nói: nên lui tới và không nên lui tới. Vùng miền (quận) có hai loại, Ta nói: nên lui tới và không nên lui tới. Hạng người có hai loại, Ta nói: nên gần gũi (tu tập ở đây mang nghĩa thân cận, giao du) và không nên gần gũi." [59] {#39}
 
-40\. Khi nghe vậy, Tôn giả Xá Lợi Phất bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này:
+40\. Khi nghe vậy, Tôn giả Xá Lợi Phất bạch Đức Thế Tôn: "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này: {#40}
 
-41\. "'Này Xá Lợi Phất, y phục có hai loại, Ta nói: nên sử dụng và không nên sử dụng.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+41\. "'Này Xá Lợi Phất, y phục có hai loại, Ta nói: nên sử dụng và không nên sử dụng.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#41}
 
 "Bạch Thế Tôn, loại y phục nào mà khi sử dụng khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên sử dụng. Nhưng loại y phục nào mà khi sử dụng khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên sử dụng.
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Này Xá Lợi Phất, y phục có hai loại, Ta nói: nên sử dụng và không nên sử dụng.'
 
-42\. "'Vật thực khất thực có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41)
+42\. "'Vật thực khất thực có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41) {#42}
 
-43\. "'Chỗ ở có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41)
+43\. "'Chỗ ở có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41) {#43}
 
-44\. "'Làng mạc có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41, thay "sử dụng" bằng "lui tới")
+44\. "'Làng mạc có hai loại, Ta nói'... (Giải thích tương tự như đoạn 41, thay "sử dụng" bằng "lui tới") {#44}
 
-45\. "'Thị trấn có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44)
+45\. "'Thị trấn có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44) {#45}
 
-46\. "'Thành phố có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44)
+46\. "'Thành phố có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44) {#46}
 
-47\. "'Vùng miền (quận) có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44)
+47\. "'Vùng miền (quận) có hai loại, Ta nói'... (Giải thích tương tự như đoạn 44) {#47}
 
-48\. "'Hạng người có hai loại, Ta nói: nên gần gũi và không nên gần gũi.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì?
+48\. "'Hạng người có hai loại, Ta nói: nên gần gũi và không nên gần gũi.' Đức Thế Tôn đã dạy như vậy. Và điều này được nói liên quan đến cái gì? {#48}
 
 "Bạch Thế Tôn, [việc giao du với] hạng người nào mà khi gần gũi khiến các pháp bất thiện tăng trưởng và các pháp thiện suy giảm, thì không nên gần gũi. Nhưng [việc giao du với] hạng người nào mà khi gần gũi khiến các pháp bất thiện suy giảm và các pháp thiện tăng trưởng, thì nên gần gũi.
 
 "Vì vậy, chính là liên quan đến điều này mà Đức Thế Tôn đã dạy: 'Hạng người có hai loại, Ta nói: nên gần gũi và không nên gần gũi.'
 
-49\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này."
+49\. "Bạch Thế Tôn, con hiểu ý nghĩa chi tiết lời dạy của Thế Tôn, mà Ngài đã nói tóm tắt không giải thích chi tiết, là như thế này." {#49}
 
 #### (PHẦN CHẤP THUẬN VÀ TÓM TẮT LẦN THỨ BA)
 
-50\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy.
+50\. "Lành thay, lành thay, Xá Lợi Phất! Thật tốt khi ông hiểu ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt không giải thích chi tiết, là như vậy. {#50}
 
 51-58. (Trong các đoạn này, Đức Phật lặp lại nguyên văn các đoạn §§41-48 với những thay đổi cần thiết về đại từ.) [60]
 
-59\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy.
+59\. "Này Xá Lợi Phất, ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, nên được hiểu là như vậy. {#59}
 
 #### (KẾT LUẬN)
 
-60\. "Này Xá Lợi Phất, nếu tất cả giai cấp Sát đế lợi (quý tộc, vua chúa) hiểu được ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho họ. [^1076] Nếu tất cả giai cấp Bà la môn (tu sĩ, trí thức)... tất cả giai cấp Phệ xá (thương gia, nông dân)... tất cả giai cấp Thủ đà la (thợ thuyền, người làm công) hiểu được ý nghĩa lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho họ. Nếu thế giới cùng với chư Thiên, Ma vương, và Phạm thiên, thế hệ này cùng với các vị Sa môn và Bà la môn, các vua chúa và dân chúng, hiểu được ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thế giới." [61]
+60\. "Này Xá Lợi Phất, nếu tất cả giai cấp Sát đế lợi (quý tộc, vua chúa) hiểu được ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho họ. [^1076] Nếu tất cả giai cấp Bà la môn (tu sĩ, trí thức)... tất cả giai cấp Phệ xá (thương gia, nông dân)... tất cả giai cấp Thủ đà la (thợ thuyền, người làm công) hiểu được ý nghĩa lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho họ. Nếu thế giới cùng với chư Thiên, Ma vương, và Phạm thiên, thế hệ này cùng với các vị Sa môn và Bà la môn, các vua chúa và dân chúng, hiểu được ý nghĩa chi tiết lời dạy của Ta, mà Ta đã nói tóm tắt, như vậy, điều đó sẽ dẫn đến lợi ích và hạnh phúc lâu dài cho thế giới." [61] {#60}
 
 Đó là những gì Đức Thế Tôn đã dạy. Tôn giả Xá Lợi Phất đã hoan hỷ và tín thọ lời dạy của Đức Thế Tôn.
 

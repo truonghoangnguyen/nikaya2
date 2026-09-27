@@ -62,7 +62,7 @@ Bà-la-môn Kasi Bhāradvāja liền đổ bát cháo sữa xuống nước nơi
 
 Vị bà-la-môn vô cùng kinh sợ, tóc gáy dựng đứng. Ông đi đến chỗ Thế Tôn, phủ phục dưới chân Ngài và nói: “Thật tuyệt vời, Tôn giả Gotama! Con mong được xuất gia và thọ giới với Tôn giả Gotama.” Và không lâu sau đó, tôn giả Bhāradvāja trở thành một trong những vị A-la-hán.
 
-[Sn. 1:4](/link?q=snp-1.4){target=_black};  [S. 7:11](/link?q=SN-7.11){target=_black}
+[Sn. 1:4](/l?q=snp-1.4){target=_black};  [S. 7:11](/l?q=SN-7.11){target=_black}
 
 NGƯỜI KỂ HAI. Sa-di Rāhula, con trai của Đức Phật, lúc này đã mười tám tuổi. Đức Phật đang ở tại Rừng Kỳ Đà, và một buổi sáng Ngài đi vào thành khất thực. Con trai Ngài đi theo sát phía sau, và trong lúc đi, tâm trí vị này bắt đầu đi lang thang, suy đoán xem viễn cảnh của mình sẽ ra sao nếu cha mình trở thành một vị chuyển luân thánh vương, như người ta đã tiên đoán về Ngài nếu Ngài không từ bỏ đời sống gia đình.
 
@@ -76,7 +76,7 @@ Sau đó, tôn giả Rāhula nghĩ: “Ai lại có thể đi tiếp vào thành
 
 Đến chiều, tôn giả Rāhula xuất định và đi đến chỗ Thế Tôn. Sau khi đảnh lễ Ngài, vị ấy ngồi xuống một bên. Rồi vị ấy thưa: “Bạch Thế Tôn, chánh niệm hơi thở nên được tu tập và phát triển như thế nào để mang lại quả lớn và nhiều lợi ích?”
 
-[MN-62](/link?q=MN-62){target=_black}
+[MN-62](/l?q=MN-62){target=_black}
 
 
 NGƯỜI KỂ HAI. Sau đó, Đức Phật lần đầu tiên mô tả chi tiết cho vị ấy bốn đại chủng của sắc pháp — đất hay sự rắn chắc, nước hay sự kết dính, lửa hay nhiệt độ và sự chín muồi, và gió hay sự phình ra và chuyển động — và cả hư không, cũng như cách mỗi thứ nên được quán sát giống hệt như sắc pháp. Rồi Ngài nói:
@@ -85,7 +85,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Hãy cố gắng giống như đất, này Rāhu
 
 “Hãy thực hành tâm từ để loại bỏ sân hận. Hãy thực hành tâm bi để loại bỏ tàn ác. Hãy thực hành tâm hỷ để loại bỏ sự vô cảm. Hãy thực hành tâm xả để loại bỏ sự oán giận. Hãy thực hành quán sự bất tịnh của thân để loại bỏ tham dục. Hãy thực hành quán vô thường để loại bỏ kiêu mạn ‘tôi là’. Hãy thực hành chánh niệm hơi thở; vì khi điều đó được tu tập và phát triển tốt, nó sẽ mang lại quả lớn và nhiều lợi ích.”
 
-[MN-62](/link?q=MN-62){target=_black}
+[MN-62](/l?q=MN-62){target=_black}
 
 NGƯỜI KỂ HAI. Sau đó, Đức Phật mô tả mười sáu phương pháp có thể thực hành chánh niệm hơi thở.
 
@@ -136,7 +136,7 @@ bà-la-môn ở Verañjā nghe danh Thế Tôn và quyết định đến gặp 
 
 “Cũng vậy, này bà-la-môn, trong thế hệ bị chìm đắm trong vô minh, bị nhốt trong quả trứng vô minh, bị vô minh phong kín này, ta là người duy nhất trên thế giới đã khám phá ra sự giác ngộ tối thượng vô song bằng cách chọc thủng vỏ trứng vô minh, của sự không hiểu biết. Vì vậy, chính ta là người lớn nhất và tối thắng trên thế gian.”
 
-[Vin. Sv. Pārā. 1](/link?q=vin-sv-para-1); [A. 8:11](/link?q=AN-8.11){target=_black}
+[Vin. Sv. Pārā. 1](/l?q=vin-sv-para-1); [A. 8:11](/l?q=AN-8.11){target=_black}
 
 NGƯỜI KỂ HAI. Sau đó, Đức Phật mô tả cách Ngài, nhờ đạt được bốn thiền và ba minh, đã trực tiếp nhận biết rằng sự sinh của Ngài đã chấm dứt. Vị bà-la-môn bị thuyết phục, và ông đã quy y Tam Bảo. Sau đó, ông cúng dường chỗ ở và sự hỗ trợ cho Đức Phật trong mùa an cư sắp tới, và đã được chấp nhận.
 
@@ -197,7 +197,7 @@ Thế Tôn im lặng nhận lời. Sau đó, sau khi Ngài giảng dạy cho v�
 
 Ngày hôm sau, khi bữa ăn kết thúc, bà-la-môn Verañjā dâng cúng Thế Tôn một bộ y, và cúng dường mỗi tỳ-kheo hai mảnh vải. Và khi Thế Tôn đã giảng dạy cho ông bằng một bài pháp, Ngài rời đi.
 
-[Vin. Sv. Pārā. 1](/link?q=vin-sv-para-1)
+[Vin. Sv. Pārā. 1](/l?q=vin-sv-para-1)
 
 NGƯỜI KỂ HAI. Trong khi mùa an cư thứ mười ba đang được trải qua tại Cālikā, sự kiện sau đây đã diễn ra.
 
@@ -240,7 +240,7 @@ Hiểu được ý nghĩa của điều này, Thế Tôn liền thốt lên lờ
 > Bậc Giác ngộ dứt hẳn\
 > Không cám dỗ động tâm
 
-[Ud. 4:1](/link?q=ud-4.1){target=_black}; [[A. 9:3](/link?q=AN-9.3){target=_black}](/link?q=AN-9.3).
+[Ud. 4:1](/l?q=ud-4.1){target=_black}; [[A. 9:3](/l?q=AN-9.3){target=_black}](/l?q=AN-9.3).
 
 NGƯỜI KỂ HAI. Con trai của Đức Phật nay đã hai mươi tuổi. Vị ấy do đó đã được thọ đại giới (không được trao cho người dưới hai mươi tuổi). Và truyền thống cho rằng chính trong năm đó Đức Phật đã thuyết bài pháp là nguyên nhân khiến vị ấy chứng quả A-la-hán.
 
@@ -282,7 +282,7 @@ GIỌNG ĐỌC THỨ NHẤT. “Thấy như vậy, này Rāhula, vị thánh đ�
 
 Đó là những lời Thế Tôn dạy. Tôn giả Rāhula hoan hỷ với những lời của Ngài. Và khi bài pháp này kết thúc, tâm của tôn giả Rāhula được giải thoát khỏi các lậu hoặc nhờ không chấp thủ. Và trong hàng ngàn chư thiên đó, pháp nhãn thanh tịnh, không tỳ vết đã khởi lên: Phàm pháp gì có sinh, pháp đó có diệt.
 
-[MN-147](/link?q=MN-147){target=_black}
+[MN-147](/l?q=MN-147){target=_black}
 
 NGƯỜI KỂ HAI. Sáu mùa mưa tiếp theo — tức là từ mùa thứ mười bốn đến mười chín — được trải qua ở nhiều nơi khác nhau. Mùa thứ hai mươi được dành tại Sāvatthī trong Rừng Kỳ Đà. Theo truyền thống của các Bản chú giải, Đức Phật từ nay quyết định thường xuyên an cư mùa mưa tại Sāvatthī, và Ngài chỉ định Trưởng lão Ānanda làm thị giả thường trực của mình. Hai sự kiện nổi bật được kể trong Tam Tạng được truyền thống cho là xảy ra vào năm này. Đó là
 việc hóa độ tướng cướp Angulimāla và một nỗ lực nhằm làm mất uy tín Ngài do một số đối thủ của Đức Phật thực hiện.
@@ -460,7 +460,7 @@ Khi tôn giả Angulimāla ở một mình trong tịnh thất tận hưởng ni
 > Tam minh tôi đã đạt\
 > Lời Đạo sư đã thành
 
-[MN-86](/link?q=MN-86){target=_black}
+[MN-86](/l?q=MN-86){target=_black}
 
 NGƯỜI KỂ HAI. Bây giờ là câu chuyện về nỗ lực làm mất uy tín Đức Phật.
 
@@ -507,7 +507,7 @@ Hiểu được ý nghĩa của điều này, Thế Tôn liền thốt lên lờ
 > Tỳ-kheo hãy nhẫn chịu,\
 > Với tâm trí phẳng lặng.
 
-[Ud. 4:8](/link?q=ud-4.8){target=_black}
+[Ud. 4:8](/l?q=ud-4.8){target=_black}
 
 NGƯỜI KỂ MỘT. Chúng ta không biết những sự kiện được kể tiếp sau đây diễn ra khi nào; nhưng với chúng, ta có thể khép lại hai mươi năm đầu tiên.
 
@@ -544,7 +544,7 @@ Khi họ trở lại trước mặt Thế Tôn, Ngài hỏi tôn giả Sāriputt
 
 “Tốt lắm, tốt lắm, Moggallāna. Hoặc ta sẽ tiếp tục lãnh đạo Tăng đoàn tỳ-kheo, hoặc Sāriputta và Moggallāna sẽ làm điều đó.”
 
-[MN-67](/link?q=MN-67){target=_black}
+[MN-67](/l?q=MN-67){target=_black}
 
 NGƯỜI KỂ HAI. Đức Phật kể cho các tỳ-kheo nghe về một chuyến viếng thăm cõi trời cao của Phạm thiên giới.
 
@@ -610,7 +610,7 @@ và bà-la-môn trên thế gian này, và họ không làm điều đó; và kh
 
 “Khi điều này được nói ra, ta đáp: ‘Ta biết ngươi, Ác ma. Không phải vì lòng bi mẫn hay mong muốn tốt cho ta mà ngươi nói vậy. Ngươi đang nghĩ rằng những người mà ta dạy Giáo pháp này sẽ vượt ra khỏi tầm tay của ngươi. Những sa-môn và bà-la-môn đó của ngươi, những kẻ tự xưng là A-la-hán, Chánh Đẳng Giác, thực sự không phải vậy; nhưng ta, đúng như ta tự xưng, là một bậc A-la-hán, Chánh Đẳng Giác. Một vị Như Lai là như vậy dù Ngài có dạy Giáo pháp của mình cho đệ tử hay không, dù Ngài có dẫn dắt đệ tử đến đó hay không. Tại sao vậy? Bởi vì những lậu hoặc gây ô nhiễm, làm tái sinh, mang lại âu lo, chín muồi trong khổ đau, tạo ra sự sinh, già và chết trong tương lai, đã bị Ngài cắt đứt tận gốc, làm cho như gốc cây cọ, bị tiêu diệt, sao cho chúng không còn khả năng sinh khởi trong tương lai, giống như một cây cọ không thể phát triển thêm được nữa khi ngọn của nó bị cắt đứt.’ Vậy nên, vì Māra không còn gì để nói thêm, và do lời thỉnh cầu của Phạm thiên (muốn ta biến mất), bài pháp này có thể được gọi là ‘Về sự thỉnh cầu của một Phạm thiên’.”
 
-[[MN-49](/link?q=MN-49){target=_black}](/link?q=MN-49){target=_black}
+[[MN-49](/l?q=MN-49){target=_black}](/l?q=MN-49){target=_black}
 
 Một thời Thế Tôn trú tại Nālandā trong Rừng Pāvārikā. Lúc đó, con trai của gia chủ là Kevaḍḍha đi đến chỗ Ngài, và sau khi đảnh lễ, vị ấy ngồi xuống một bên. Vị ấy thưa: “Bạch Thế Tôn, Nālandā này rất thành công, thịnh vượng, đông đúc, tấp nập người qua lại, và dân chúng ở đây có niềm tin kiên cố nơi Thế Tôn. Bạch Thế Tôn, sẽ rất tốt nếu Thế Tôn chỉ định một tỳ-kheo thực hiện một phép thần thông vượt quá trạng thái con người, để Nālandā này có thể càng thêm tin tưởng vững chắc vào Thế Tôn.”
 
@@ -654,4 +654,4 @@ Và câu trả lời cho điều đó là đây:
 > Danh sắc được diệt tận\
 > Không còn chút dư tàn.' "
 
-[D.11](/link?q=DN-11){target=_black}
+[D.11](/l?q=DN-11){target=_black}

@@ -18,14 +18,14 @@ Thế là Devadatta cất dọn giường chiếu, mang theo bình bát, khoác 
 
 Devadatta rũ bỏ hình dáng thiếu niên và đứng trước Thái tử Ajātasattu, khoác áo y chắp vá, bưng bình bát. Thấy vậy, Thái tử Ajātasattu nảy sinh lòng tin tưởng to lớn đối với Devadatta nhờ những thần thông của ông ta. Kể từ đó, sáng tối thái tử đều cho người hầu hạ ông ta với năm trăm cỗ xe và cúng dường năm trăm phần cơm sữa. Devadatta ngập chìm trong lợi lộc, sự tôn kính và danh tiếng. Tham vọng ám ảnh tâm trí ông ta, và một mong muốn nảy sinh: "Ta sẽ cai quản Tăng đoàn tỳ-kheo." Ngay khi ý nghĩ đó khởi lên, thần thông của ông ta liền biến mất.
 
-[Vin. Cv. 7:2](/link?q=vin.cv-7.2){target=_black}; cf. [S. 17:36](/link?q=SN-17.36){target=_black}
+[Vin. Cv. 7:2](/l?q=vin.cv-7.2){target=_black}; cf. [S. 17:36](/l?q=SN-17.36){target=_black}
 
 
 Sau khi Đức Thế Tôn lưu lại Kosambi tùy theo ý, Ngài bắt đầu du hành từng chặng đến Rājagaha và cuối cùng đã tới nơi. Ngài đến ngự tại Trúc Lâm, khu bảo tồn sấu. Lúc bấy giờ, một số vị tỳ-kheo đến gặp Ngài và thưa: "Bạch Thế Tôn, sáng tối Thái tử Ajātasattu đều cho người hầu hạ Devadatta với năm trăm cỗ xe và cúng dường năm trăm phần cơm sữa."
 
 "Này các tỳ-kheo, đừng ghen tị với lợi lộc, sự tôn kính và danh tiếng của Devadatta. Giống như việc bóp vỡ mật ngay dưới mũi một con chó dữ sẽ chỉ làm nó hung tợn hơn, cũng vậy, chừng nào Thái tử Ajātasattu còn tiếp tục hậu đãi Devadatta như hiện tại, thì những thiện pháp trong Devadatta sẽ chỉ hao mòn chứ không thể tăng trưởng. Giống như cây chuối sinh quả để rồi tự héo tàn và diệt vong, cũng vậy, lợi lộc, sự tôn kính và danh tiếng của Devadatta sinh ra là để tự hủy hoại và tiêu diệt chính ông ta."
 
-[Vin. Cv. 7:2](/link?q=vin.cv-7.2){target=_black}; cf. [S. 17:35](/link?q=SN-17.35){target=_black}-36 and [A. 4:68](/link?q=AN-4.68){target=_black}
+[Vin. Cv. 7:2](/l?q=vin.cv-7.2){target=_black}; cf. [S. 17:35](/l?q=SN-17.35){target=_black}-36 and [A. 4:68](/l?q=AN-4.68){target=_black}
 
 Sự việc xảy ra như sau. Đức Thế Tôn đang ngồi thuyết pháp, bao quanh bởi một đại chúng đông đảo, trong đó có cả nhà vua. Khi ấy, Devadatta đứng dậy khỏi chỗ ngồi, vắt áo y sang một bên vai, chắp tay hướng về phía Đức Thế Tôn và thưa: "Bạch Thế Tôn, Thế Tôn nay đã già, tuổi tác đã cao, năm tháng trĩu nặng, đã bước vào giai đoạn cuối của cuộc đời. Xin Thế Tôn hãy nghỉ ngơi. Xin Ngài hãy sống an lạc trong hiện tại. Xin Ngài hãy giao phó Tăng đoàn tỳ-kheo cho con. Con sẽ cai quản Tăng đoàn tỳ-kheo."
 
@@ -105,7 +105,7 @@ Hai mỏm đá nhô ra đã chặn tảng đá lại; nhưng một mảnh vỡ v
 
 Sau đó Đức Thế Tôn bảo các tỳ-kheo: "Này các tỳ-kheo, đây là trọng tội đầu tiên dẫn đến đọa địa ngục ngay lập tức mà Devadatta vừa tích lũy, khi với ác tâm, với ý định giết người, ông ta đã làm chảy máu chân một vị Như Lai."
 
-[Vin. Cv. 7:3](/link?q=vin.cv-7.3){target=_black}
+[Vin. Cv. 7:3](/l?q=vin.cv-7.3){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Lúc bấy giờ, khi chân bị thương bởi mảnh đá vỡ, Đức Thế Tôn phải chịu những cảm thọ đau đớn, dữ dội, cắn rứt, nhức nhối, khó chịu và không hề thoải mái. Nhưng với sự chánh niệm và tỉnh giác, Ngài nhẫn thọ chúng mà không chút muộn phiền. Trải áo y vá gập làm bốn, Ngài nằm xuống nghiêng mình sang phải trong dáng nằm của sư tử, chân này đặt lên chân kia, chánh niệm và tỉnh giác.
 
@@ -126,7 +126,7 @@ Rồi Ác ma hiện đến và thưa với Ngài bằng những vần kệ:
 
 Khi ấy Ác ma nhận ra: "Đức Thế Tôn đã biết ta, Đấng Thiện Thệ đã biết ta." Buồn bã và thất vọng, hắn lập tức biến mất.
 
-[S. 4:13](/link?q=SN-4.13){target=_black}
+[S. 4:13](/l?q=SN-4.13){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Các tỳ-kheo nghe tin: "Có vẻ như Devadatta vừa mưu sát Đức Thế Tôn." Họ đi tới đi lui, đi vòng quanh tịnh xá của Ngài. Họ làm ồn ào, xôn xao, đồng thanh tụng niệm những bài kinh để canh gác, giữ gìn và bảo vệ Đức Thế Tôn. Nghe thấy vậy, Ngài liền hỏi Tôn giả Ānanda: "Này Ānanda, âm thanh ồn ào, tiếng xôn xao và tiếng tụng niệm này là thế nào vậy?"
 
@@ -177,7 +177,7 @@ Voi Nālagiri dùng vòi lấy bụi đất dưới chân Đức Thế Tôn rắ
 
 Dân chúng tỏ ra bất bình, họ xầm xì và phản đối: "Tên Devadatta khốn nạn này quả thật độc ác khi dám cố giết sa-môn Gotama, một người oai phong và có thần lực như vậy!" Kể từ đó, lợi lộc và sự tôn kính của Devadatta sụt giảm, trong khi lợi lộc và sự tôn kính dành cho Đức Thế Tôn ngày càng lớn hơn.
 
-[Vin. Cv. 7:3](/link?q=vin.cv-7.3){target=_black}
+[Vin. Cv. 7:3](/l?q=vin.cv-7.3){target=_black}
 
 Sau khi lợi lộc và sự tôn kính sụt giảm, Devadatta cùng phe cánh của mình thường đi ăn thành nhóm tại các gia đình, và dặn trước họ muốn ăn những gì. Dân chúng thấy vậy rất bất bình, họ xầm xì và phàn nàn: "Tại sao mấy ông sa-môn Thích tử này lại kéo nhau đi ăn tại các gia đình, rồi còn đòi hỏi trước những thứ họ muốn ăn? Ai mà chẳng thích đồ ngon? Ai mà chẳng chuộng đồ tốt?" Những tỳ-kheo thiểu dục cũng cảm thấy bất bình. Họ bèn thuật lại sự việc với Đức Thế Tôn. Đức Thế Tôn liền hỏi Devadatta: "Có đúng là ông đang làm như vậy không?"
 
@@ -185,7 +185,7 @@ Sau khi lợi lộc và sự tôn kính sụt giảm, Devadatta cùng phe cánh 
 
 Đức Thế Tôn quở trách ông ta, rồi sau khi thuyết giảng Giáo pháp, Ngài bảo các tỳ-kheo: "Này các tỳ-kheo, từ nay ta cho phép các tỳ-kheo đi thọ thực tại các gia đình theo nhóm không quá ba người. Quy định này vì ba lý do: để kiềm chế những kẻ có tâm ác và đem lại sự an ổn cho những người biết điều, để những kẻ ôm ấp ác dục không thể bè phái gây chia rẽ Tăng đoàn, và vì lòng thương tưởng đối với các gia đình. Nhưng việc ăn uống theo nhóm phải được thực hiện theo đúng giới luật đã được ban hành."
 
-[Vin. Cv. 7:3](/link?q=vin.cv-7.3){target=_black}; Vin. Sv. Pāc. 32
+[Vin. Cv. 7:3](/l?q=vin.cv-7.3){target=_black}; Vin. Sv. Pāc. 32
 
 Devadatta liền tìm đến Kokālika, Kaṭamoraka-Tissa, Khaṇḍādeyiputta và Samuddadatta, rồi nói: "Lại đây các bạn, chúng ta hãy tạo ra một cuộc ly giáo và phá vỡ sự hòa hợp trong Tăng đoàn của sa-môn Gotama." Kokālika nói: "Nhưng sa-môn Gotama rất oai phong và có thần lực. Chúng ta làm sao có thể làm vậy được?"
 
@@ -207,7 +207,7 @@ Các tỳ-kheo nghe thấy những lời phàn nàn đó. Những tỳ-kheo thi�
 
 "Đủ rồi, Devadatta. Đừng cố chia rẽ và phá vỡ sự hòa hợp của Tăng đoàn. Kẻ nào phá vỡ sự hòa hợp của Tăng đoàn sẽ phải gánh chịu đau khổ cho đến hết một kiếp; kẻ đó sẽ bị đọa vào địa ngục suốt một kiếp. Còn người nào hàn gắn lại Tăng đoàn đã bị chia rẽ sẽ gặt hái được phước báu vô lượng và được tận hưởng lạc thú trên cõi trời suốt một kiếp. Thôi đi, Devadatta, đừng cố chia rẽ Tăng đoàn: chia rẽ Tăng đoàn là một trọng tội."
 
-[Vin. Cv. 7:3](/link?q=vin.cv-7.3){target=_black}; Vin. Sv. Sangh. 10
+[Vin. Cv. 7:3](/l?q=vin.cv-7.3){target=_black}; Vin. Sv. Sangh. 10
 
 Sáng hôm sau, Tôn giả Ānanda đắp y, mang bình bát, vào Rājagaha khất thực. Devadatta thấy ngài, liền tiến lại gần và nói: "Này bạn Ānanda, bắt đầu từ hôm nay tôi sẽ tiến hành ngày lễ Uposatha và thực hiện các Tăng sự riêng biệt, không liên quan tới Đức Thế Tôn và Tăng đoàn tỳ-kheo nữa."
 
@@ -222,7 +222,7 @@ Vào ngày Uposatha tiếp theo, Devadatta tổ chức bỏ phiếu: "Này các 
 
 Lúc bấy giờ, có năm trăm tỳ-kheo đến từ Vesālī, là con em của dân tộc Vajjian. Họ đều là những tỳ-kheo mới tu, chưa có đủ sự nhận thức chín chắn. Nghĩ rằng: "Đây mới là Pháp, đây mới là Luật, đây mới là lời dạy của Bổn sư," họ liền nhận thẻ biểu quyết. Đã chính thức tạo ra sự chia rẽ trong Tăng đoàn, Devadatta lập tức dẫn năm trăm tỳ-kheo này rời đi đến đồi Gayāsīsa.
 
-[Vin. Cv. 7:3](/link?q=vin.cv-7.3){target=_black}; [Ud. 5:8](/link?q=ud-5.8){target=_black}
+[Vin. Cv. 7:3](/l?q=vin.cv-7.3){target=_black}; [Ud. 5:8](/l?q=ud-5.8){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Lúc đó Đức Thế Tôn đang ngự tại vách núi Linh Thứu ở Rājagaha. Sự việc xảy ra ngay sau khi Devadatta rời đi. Khi đêm đã về khuya, Phạm thiên Sahampati, mang dung mạo tuyệt trần tỏa sáng rực rỡ khắp đỉnh Linh Thứu, tìm đến gặp Đức Thế Tôn. Sau khi đảnh lễ Ngài, Phạm thiên đứng sang một bên rồi đọc những vần kệ này lên Đức Thế Tôn:
 
@@ -231,7 +231,7 @@ GIỌNG ĐỌC THỨ NHẤT. Lúc đó Đức Thế Tôn đang ngự tại vách
 > Danh lợi giết kẻ hèn\
 > Như la cái sinh con
 
-[S. 6:12](/link?q=SN-6.12){target=_black}; cf. [A. 4:68](/link?q=AN-4.68){target=_black}
+[S. 6:12](/l?q=SN-6.12){target=_black}; cf. [A. 4:68](/l?q=AN-4.68){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Sāriputta và Moggallāna đến gặp Đức Thế Tôn. Hai ngài thưa: "Bạch Thế Tôn, Devadatta đã gây chia rẽ Tăng đoàn và dẫn năm trăm tỳ-kheo rời đến đồi Gayāsisa rồi."
 
@@ -276,7 +276,7 @@ Bấy giờ Đức Thế Tôn bảo các tỳ-kheo: "Thuở xưa, này các tỳ
 > Ăn ngó sen dưới sông\
 > Rũ sạch bùn mới nuốt
 
-[Vin. Cv. 7:4](/link?q=vin.cv-7.4){target=_black}
+[Vin. Cv. 7:4](/l?q=vin.cv-7.4){target=_black}
 
 "Này các tỳ-kheo, một vị tỳ-kheo xứng đáng được phái đi làm sứ giả khi hội tụ đủ tám phẩm chất. Tám phẩm chất đó là gì? Ở đây, tỳ-kheo đó là người biết lắng nghe, khiến người khác lắng nghe, biết học hỏi, biết ghi nhớ, biết nhận thức, khiến người khác nhận thức, hiểu rõ sự tương hợp và mâu thuẫn, và không gây rắc rối. Một vị tỳ-kheo xứng đáng được phái đi làm sứ giả khi có đủ tám phẩm chất này. Sāriputta hiện hội tụ đủ cả tám phẩm chất này; do đó ông ấy hoàn toàn xứng đáng được giao phó trọng trách sứ giả."
 
@@ -290,7 +290,7 @@ Bấy giờ Đức Thế Tôn bảo các tỳ-kheo: "Thuở xưa, này các tỳ
 > Tỳ-kheo được như thế\
 > Xứng đáng nhận sứ mệnh
 
-[Vin. Cv. 7:4](/link?q=vin.cv-7.4){target=_black}; [A. 8:16](/link?q=AN-8.16){target=_black}
+[Vin. Cv. 7:4](/l?q=vin.cv-7.4){target=_black}; [A. 8:16](/l?q=AN-8.16){target=_black}
 
 "Này các tỳ-kheo, Devadatta đã bị khuất phục và tâm trí bị ám ảnh bởi tám ác pháp, khiến ông ta chắc chắn sẽ bị đọa vào các cõi khổ, vào địa ngục cho đến hết một kiếp. Tám ác pháp đó là gì?
 Đó là: được lợi lộc, mất lợi lộc, có danh tiếng, mất danh tiếng, được tôn kính, mất tôn kính, có ác dục, và có ác hữu. Devadatta sẽ đọa vào các cõi khổ, đọa vào địa ngục trọn một kiếp vì ông ta đã bị khuất phục và tâm trí bị ám ảnh bởi tám điều này.
@@ -299,7 +299,7 @@ Bấy giờ Đức Thế Tôn bảo các tỳ-kheo: "Thuở xưa, này các tỳ
 
 "Devadatta bị khuất phục và tâm trí bị ám ảnh bởi ba ác pháp, khiến ông ta chắc chắn sẽ đọa vào các cõi khổ, đọa địa ngục trọn một kiếp. Ba điều đó là gì? Đó là ác dục, ác hữu, và sự dừng lại nửa vời khi mới chỉ đạt được thần thông thế tục."
 
-[Vin. Cv. 7:4](/link?q=vin.cv-7.4){target=_black}; [A. 8:7](/link?q=AN-8.7){target=_black}; [Iti. 89](/link?q=iti-89){target=_black}
+[Vin. Cv. 7:4](/l?q=vin.cv-7.4){target=_black}; [A. 8:7](/l?q=AN-8.7){target=_black}; [Iti. 89](/l?q=iti-89){target=_black}
 
 NGƯỜI KỂ HAI. Kinh tạng không kể lại những tình tiết thực sự về cái chết của Devadatta. Theo Chú giải, mặt đất đã nứt ra nuốt chửng ông ta, kéo thẳng xuống địa ngục và giam cầm ở đó cho đến khi địa ngục bị hủy hoại vào thời điểm chu kỳ hoại diệt của thế giới tiếp theo diễn ra. Chú giải—chứ không phải Kinh tạng—cũng ghi lại rằng sau khi Vua Bimbisāra thoái vị, con trai ông là Ajātasattu đã tống giam và sau đó xử tử nhà vua. Sự lên ngôi của kẻ đầy tham vọng Ajātasattu đã kéo theo các cuộc chiến tranh giữa hai vương quốc hùng mạnh là Magadha và Kosala—tức là giữa cháu và cậu.
 
@@ -329,4 +329,4 @@ Về sau hai vua lại giao chiến như trước. Nhưng trong trận đánh n�
 > Vòng nghiệp quả xoay vần\
 > Bị cướp thành kẻ cướp
 
-[S. 3:14](/link?q=SN-3.14){target=_black}-15
+[S. 3:14](/l?q=SN-3.14){target=_black}-15

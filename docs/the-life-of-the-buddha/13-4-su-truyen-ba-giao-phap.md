@@ -204,7 +204,7 @@ Vị đạo sĩ tết tóc Ca-diếp Sông nhìn thấy râu tóc, những búi 
 
 Nghe vậy, những đạo sĩ tết tóc đó cũng cắt bỏ râu tóc, những búi tóc tết, rồi vứt cả đồ đạc cùng dụng cụ tế lửa xuống nước cho trôi đi. Sau đó họ đến chỗ Thế Tôn, phủ phục đảnh lễ dưới chân ngài, xin được xuất gia và thọ giới cụ túc. Và vị đạo sĩ tết tóc Ca-diếp Già-da cùng hai trăm đạo sĩ của mình cũng làm y hệt như những gì Ca-diếp Sông đã làm.
 
-[Vin. Mv. 1:7](/link?q=vin.mv-1.7){target=_black}-20
+[Vin. Mv. 1:7](/l?q=vin.mv-1.7){target=_black}-20
 
 GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời, Thế Tôn đang ngụ tại Ưu-lâu-tần-loa, dưới gốc cây Đa A-dà-ba-la bên bờ sông Ni-liên-thiền. Đến thời điểm đó, Ác ma Ba-tuần đã bám theo Thế Tôn suốt bảy năm ròng rã, tìm kiếm một cơ hội để hãm hại ngài nhưng không thành. Sau đó y tiến đến Thế Tôn và đọc những vần kệ:
 
@@ -248,14 +248,14 @@ GIỌNG ĐỌC THỨ NHẤT. Tôi nghe như vầy. Một thời, Thế Tôn đan
 
 Sau đó, Ác ma thốt lên những vần kệ đầy thất vọng trước mặt Thế Tôn:
 
-[S. 4:24](/link?q=SN-4.24){target=_black}
+[S. 4:24](/l?q=SN-4.24){target=_black}
 
 > Từng bước suốt bảy năm\
 > Bám theo sát Thế Tôn\
 > Bậc Chánh Đẳng Chánh Giác\
 > Chánh niệm không kẽ hở\
 
-[Sn. 3:2](/link?q=snp-3.2){target=_black}
+[Sn. 3:2](/l?q=snp-3.2){target=_black}
  
 > Có một con quạ nọ\
 > Đi loanh quanh hòn đá\
@@ -270,7 +270,7 @@ Sau đó, Ác ma thốt lên những vần kệ đầy thất vọng trước m�
 
 Tràn ngập nỗi buồn bã, y để cây tỳ bà tuột khỏi tay; và rồi con ác quỷ thất vọng ấy biến mất.
 
-[Sn. 3:2](/link?q=snp-3.2){target=_black}; [S. 4:24](/link?q=SN-4.24){target=_black}
+[Sn. 3:2](/l?q=snp-3.2){target=_black}; [S. 4:24](/l?q=SN-4.24){target=_black}
 
 Sau khi Ác ma Ba-tuần thốt lên những vần kệ thất vọng ấy trước mặt Thế Tôn, y rời khỏi nơi đó và ngồi khoanh chân trên mặt đất cách Thế Tôn không xa, im lặng, chán nản, buông thõng vai và cúi gầm mặt, rầu rĩ không thốt nên lời, dùng gậy vạch xuống đất.
 
@@ -362,7 +362,7 @@ Thế rồi Khát Ái, Bất Mãn và Tham Dục, các con gái của Ác ma, đ
 > Thế nên từ Cù-đàm\
 > Các ngươi về thất vọng
 
-[S. 4:24](/link?q=SN-4.24){target=_black}-25
+[S. 4:24](/l?q=SN-4.24){target=_black}-25
 
 GIỌNG ĐỌC THỨ HAI. Sau khi lưu lại Ưu-lâu-tần-loa đủ lâu theo ý nguyện, Thế Tôn lên đường đến Tượng Đầu Sơn cùng với một đoàn tùy tùng lớn gồm một ngàn tỳ-kheo, tất cả đều là những cựu đạo sĩ tết tóc. Thế Tôn dừng chân tại Tượng Đầu Sơn gần Già-da cùng với ngàn tỳ-kheo đó. Tại đây, ngài bảo các tỳ-kheo:
 
@@ -398,7 +398,7 @@ GIỌNG ĐỌC THỨ HAI. Sau khi lưu lại Ưu-lâu-tần-loa đủ lâu theo 
 
 Và trong khi bài kinh này đang được thuyết giảng, tâm của một ngàn vị tỳ-kheo được giải thoát khỏi các lậu hoặc nhờ không bám víu.
 
-[Vin. Mv. 1:21](/link?q=vin.mv-1.21){target=_black}; [S. 35:28](/link?q=SN-35.28){target=_black}
+[Vin. Mv. 1:21](/l?q=vin.mv-1.21){target=_black}; [S. 35:28](/l?q=SN-35.28){target=_black}
 
 Sau khi Thế Tôn lưu lại Tượng Đầu Sơn đủ lâu theo ý nguyện, ngài lên đường du hành dần đến Vương Xá cùng với một đoàn tùy tùng lớn gồm một ngàn tỳ-kheo, tất cả đều là những cựu đạo sĩ tết tóc. Du hành dần qua các chặng, cuối cùng ngài đến Vương Xá, và nghỉ lại tại Rừng Cây Non ở Đền thờ Thiện Kiến.
 
@@ -484,4 +484,4 @@ Thế rồi ông lấy một bình nước bằng vàng, rót nước cúng dư�
 
 Thế Tôn nhận lấy khu vườn. Sau khi chỉ dẫn, khích lệ, truyền cảm hứng và động viên Vua nước Ma-kiệt-đà là Bình-sa-vương bằng những lời giảng về Giáo pháp, ngài đứng dậy và cáo từ.
 
-[Vin. Mv. 1:22](/link?q=vin.mv-1.22){target=_black}
+[Vin. Mv. 1:22](/l?q=vin.mv-1.22){target=_black}

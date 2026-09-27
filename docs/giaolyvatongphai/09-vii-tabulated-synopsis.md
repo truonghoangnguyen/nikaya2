@@ -1,4 +1,4 @@
-# VII TABULATED SYNOPSIS
+# VII. TABULATED SYNOPSIS
 
 |  Branch | School (as far as mentioned in present book) | Period and country of Origin | Founder or Systematiser (as far as mentioned in present book) | Language of Oldest Original Sources | Still Extant in  |
 | --- | --- | --- | --- | --- | --- |

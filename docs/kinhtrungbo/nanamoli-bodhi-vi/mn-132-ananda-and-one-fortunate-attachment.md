@@ -1,9 +1,9 @@
 # MN 132. Kinh Ānanda và Nhất Dạ Hiền Giả
 ***(Ānandabhaddekaratta Sutta)***
 
-1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Rừng Kỳ-đà (Jeta), Vườn Cấp Cô Độc (Anāthapiṇḍika).
+1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn trú tại thành Xá-vệ (Sāvatthī), trong Rừng Kỳ-đà (Jeta), Vườn Cấp Cô Độc (Anāthapiṇḍika). {#1}
 
-2\.  Lúc bấy giờ, Đại đức Ānanda đang ở trong giảng đường, dùng Pháp thoại (talk on the Dhamma - buổi nói chuyện về giáo pháp) để dạy bảo, khích lệ, sách tấn và làm cho các vị tỳ kheo (bhikkhus - nhà sư) phấn khởi. [190] Ngài đang đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả' (Bhaddekaratta - người sống một đêm an lành/hạnh phúc, người biết an trú trong hiện tại).
+2\.  Lúc bấy giờ, Đại đức Ānanda đang ở trong giảng đường, dùng Pháp thoại (talk on the Dhamma - buổi nói chuyện về giáo pháp) để dạy bảo, khích lệ, sách tấn và làm cho các vị tỳ kheo (bhikkhus - nhà sư) phấn khởi. [190] Ngài đang đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả' (Bhaddekaratta - người sống một đêm an lành/hạnh phúc, người biết an trú trong hiện tại). {#2}
 
 Rồi vào buổi chiều, Đức Thế Tôn rời khỏi thiền định (meditation - sự tĩnh tâm, trạng thái tập trung cao độ) và đi đến giảng đường. Ngài ngồi xuống chỗ đã soạn sẵn và hỏi các vị tỳ kheo: "Này các tỳ kheo, ai đã ở trong giảng đường dùng Pháp thoại để dạy bảo, khích lệ, sách tấn và làm cho các tỳ kheo phấn khởi? Ai đã đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả'?"
 
@@ -19,7 +19,7 @@ Khi ấy, Đức Thế Tôn hỏi Đại đức Ānanda: "Này Ānanda, con đã
 
 Là người sống một đêm an lành.'
 
-3\.  "Bạch Thế Tôn, con đã dùng Pháp thoại để dạy bảo, khích lệ, sách tấn và làm cho các tỳ kheo phấn khởi như vậy, và đã đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả' như vậy."
+3\.  "Bạch Thế Tôn, con đã dùng Pháp thoại để dạy bảo, khích lệ, sách tấn và làm cho các tỳ kheo phấn khởi như vậy, và đã đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả' như vậy." {#3}
 
 "Lành thay, lành thay, Ānanda! Thật tốt khi con đã dùng Pháp thoại để dạy bảo, khích lệ, sách tấn và làm cho các tỳ kheo phấn khởi như vậy, và đã đọc lại phần tóm tắt và phần giải thích chi tiết về 'Nhất Dạ Hiền Giả' như vậy:
 

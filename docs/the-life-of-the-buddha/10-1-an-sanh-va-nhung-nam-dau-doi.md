@@ -63,7 +63,7 @@ Lời của các tỳ-kheo và tôn giả Ānanda được thuật lại, và h�
 
 Tôn giả Ānanda đã nói như vậy. Bậc Đạo Sư hài lòng. Các tỳ-kheo hoan hỷ, và họ tín thọ những lời của tôn giả Ānanda.
 
-[MN-123](/link?q=MN-123){target=_black}; cf. [D. 14](/link?q=dn-14){target=_black}
+[MN-123](/l?q=MN-123){target=_black}; cf. [D. 14](/l?q=dn-14){target=_black}
 
 NGƯỜI KỂ MỘT. Câu chuyện về một vị tiên nhân bà-la-môn — một nhà tiên tri thuộc giai cấp "thần thánh" hay tu sĩ — đã dự báo về sự giác ngộ trong tương lai được kể lại qua một bài kệ.
 
@@ -231,9 +231,9 @@ NGƯỜI TỤNG KỆ.
 > Ông hỏi Bậc Toàn Giác,\
 > Về Tịch Diệt Tối Cao.
 
-[Sn. 3:11](/link?q=snp-3.11){target=_black}
+[Sn. 3:11](/l?q=snp-3.11){target=_black}
 
-NGƯỜI KỂ MỘT. Mặc dù các tài liệu ra đời sau này cung cấp nhiều chi tiết về những năm đầu đời, nhưng bản thân Tam Tạng (Tipiṭaka) lại nói rất ít về chúng. Trên thực tế, chỉ có tài liệu đề cập đến hai sự kiện: thứ nhất, hồi ức về lần thiền định dưới gốc cây hồng táo trong lúc cha của Bồ-tát đang làm việc — Chú giải nói là thực hiện lễ cày ruộng vào đầu mùa gieo hạt —, sự kiện này chúng ta sẽ nhắc tới ở phần sau; và thứ hai là lời kể về "ba sự quán chiếu", tương ứng với ba "sứ giả" (người già, người bệnh và người chết) mà vị Phật quá khứ Vipassī (Tỳ-bà-thi) đã nhìn thấy (Kinh [D. 14](/link?q=dn-14){target=_black}).
+NGƯỜI KỂ MỘT. Mặc dù các tài liệu ra đời sau này cung cấp nhiều chi tiết về những năm đầu đời, nhưng bản thân Tam Tạng (Tipiṭaka) lại nói rất ít về chúng. Trên thực tế, chỉ có tài liệu đề cập đến hai sự kiện: thứ nhất, hồi ức về lần thiền định dưới gốc cây hồng táo trong lúc cha của Bồ-tát đang làm việc — Chú giải nói là thực hiện lễ cày ruộng vào đầu mùa gieo hạt —, sự kiện này chúng ta sẽ nhắc tới ở phần sau; và thứ hai là lời kể về "ba sự quán chiếu", tương ứng với ba "sứ giả" (người già, người bệnh và người chết) mà vị Phật quá khứ Vipassī (Tỳ-bà-thi) đã nhìn thấy (Kinh [D. 14](/l?q=dn-14){target=_black}).
  
 GIỌNG ĐỌC THỨ NHẤT. “Ta sống một đời tế nhị, vô cùng tế nhị, hết sức tế nhị.  [6](/the-life-of-the-buddha/notes/1#6){.note} Những hồ hoa sen được xây trong nhà phụ vương chỉ dành riêng cho Ta. Trong một hồ trồng hoa sen xanh, hồ thứ hai trồng hoa sen trắng, hồ thứ ba trồng hoa sen đỏ. Ta không dùng loại trầm hương nào khác ngoài loại đến từ Ba-la-nại. Khăn quấn đầu, áo choàng, y phục phần dưới và áo khoác ngoài của Ta đều làm từ lụa Ba-la-nại. Một chiếc lọng trắng luôn được che trên đầu Ta bất kể ngày đêm để không một cái lạnh, cái nóng, bụi bặm, cát sỏi hay sương sớm nào có thể chạm vào Ta.
  
@@ -245,4 +245,4 @@ GIỌNG ĐỌC THỨ NHẤT. “Ta sống một đời tế nhị, vô cùng t�
 
 “Ta nghĩ: ‘Khi một kẻ phàm phu vô học, vốn dĩ phải chịu cảnh tử vong, không tránh khỏi cái chết, nhìn thấy một người chết, họ lại bị sốc, khinh miệt và ghê tởm, bởi vì họ quên mất rằng chính mình cũng không ngoại lệ. Nhưng Ta cũng phải chịu cảnh tử vong, không tránh khỏi cái chết, nên sẽ thật không phải lẽ nếu Ta cũng bị sốc, khinh miệt và ghê tởm khi thấy người khác chết.’ Khi Ta quán chiếu điều này, sự kiêu hãnh về sự sống hoàn toàn tan biến.”
 
-[A. 3:38](/link?q=AN-3.38){target=_black}
+[A. 3:38](/l?q=AN-3.38){target=_black}

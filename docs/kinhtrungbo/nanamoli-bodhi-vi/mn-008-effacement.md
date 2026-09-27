@@ -1,37 +1,37 @@
 # MN 8. Gọt Giũa
 ***(Kinh Sallekha)***
 
-1\. Tôi nghe như vầy. Có lần Đức Phật (The Blessed One) ở tại Sāvatthī (Xá Vệ), trong khu rừng Jeta, công viên của Anāthapiṇ̣ika (Cấp Cô Độc).
+1\. Tôi nghe như vầy. Có lần Đức Phật (The Blessed One) ở tại Sāvatthī (Xá Vệ), trong khu rừng Jeta, công viên của Anāthapiṇ̣ika (Cấp Cô Độc). {#1}
 
-2\. Rồi, vào buổi chiều, tôn giả Mahā Cunda (Đại Ca Diếp) sau khi ngồi thiền xong, liền đến gặp Đức Phật. Sau khi đảnh lễ Đức Phật, ngài ngồi xuống một bên và thưa rằng:
+2\. Rồi, vào buổi chiều, tôn giả Mahā Cunda (Đại Ca Diếp) sau khi ngồi thiền xong, liền đến gặp Đức Phật. Sau khi đảnh lễ Đức Phật, ngài ngồi xuống một bên và thưa rằng: {#2}
 
-3\. "Bạch Thế Tôn, có nhiều quan điểm (views) khác nhau xuất hiện trên thế gian, liên quan đến học thuyết về một cái tôi (self) hoặc học thuyết về thế giới. Liệu một vị tỳ kheo (bhikkhu - người tu hành nam) chỉ mới bắt đầu [việc tu tập thiền định] có thể từ bỏ và buông bỏ những quan điểm đó không?"
+3\. "Bạch Thế Tôn, có nhiều quan điểm (views) khác nhau xuất hiện trên thế gian, liên quan đến học thuyết về một cái tôi (self) hoặc học thuyết về thế giới. Liệu một vị tỳ kheo (bhikkhu - người tu hành nam) chỉ mới bắt đầu [việc tu tập thiền định] có thể từ bỏ và buông bỏ những quan điểm đó không?" {#3}
 
 "Này Cunda, đối với những quan điểm khác nhau xuất hiện trên thế gian, liên quan đến học thuyết về một cái tôi hoặc học thuyết về thế giới: nếu [đối tượng] mà những quan điểm đó nảy sinh, làm nền tảng, và tác động lên được thấy đúng như thật với trí tuệ (proper wisdom) như sau: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là bản ngã của tôi,' thì việc từ bỏ và buông bỏ những quan điểm đó sẽ xảy ra.
 
 <!--pg-->
 #### (TÁM THÀNH TỰU)
-4\. "Này Cunda, có thể ở đây, một vị tỳ kheo, hoàn toàn tách biệt khỏi những thú vui giác quan (sensual pleasures), tách biệt khỏi những trạng thái bất thiện (unwholesome states), chứng và an trú vào sơ thiền (first jhāna), một trạng thái đi kèm với tầm và tứ (applied and sustained thought), với hỷ và lạc (rapture and pleasure) sinh ra từ sự tách biệt. Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp (Discipline) của bậc Thánh Nhân (Noble One), những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú lạc ngay trong hiện tại' (pleasant abidings here and now).
+4\. "Này Cunda, có thể ở đây, một vị tỳ kheo, hoàn toàn tách biệt khỏi những thú vui giác quan (sensual pleasures), tách biệt khỏi những trạng thái bất thiện (unwholesome states), chứng và an trú vào sơ thiền (first jhāna), một trạng thái đi kèm với tầm và tứ (applied and sustained thought), với hỷ và lạc (rapture and pleasure) sinh ra từ sự tách biệt. Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp (Discipline) của bậc Thánh Nhân (Noble One), những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú lạc ngay trong hiện tại' (pleasant abidings here and now). {#4}
 
-5\. "Có thể ở đây, một vị tỳ kheo, với sự lắng dịu của tầm và tứ, chứng và an trú vào nhị thiền (second jhāna), một trạng thái có sự tự tin và nhất tâm (singleness of mind) mà không có tầm và tứ, với hỷ và lạc sinh ra từ định (concentration). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú lạc ngay trong hiện tại'.
+5\. "Có thể ở đây, một vị tỳ kheo, với sự lắng dịu của tầm và tứ, chứng và an trú vào nhị thiền (second jhāna), một trạng thái có sự tự tin và nhất tâm (singleness of mind) mà không có tầm và tứ, với hỷ và lạc sinh ra từ định (concentration). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú lạc ngay trong hiện tại'. {#5}
 
-6\. "Có thể ở đây, một vị tỳ kheo, với sự phai nhạt của hỷ, an trú trong xả (equanimity), chánh niệm (mindful) và tỉnh giác (fully aware), vẫn cảm thấy lạc nơi thân, chứng và an trú vào tam thiền (third jhāna), mà các bậc Thánh Nhân tuyên bố: 'Vị ấy có sự an trú lạc, người có xả và chánh niệm.' Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú lạc ngay trong hiện tại'.
+6\. "Có thể ở đây, một vị tỳ kheo, với sự phai nhạt của hỷ, an trú trong xả (equanimity), chánh niệm (mindful) và tỉnh giác (fully aware), vẫn cảm thấy lạc nơi thân, chứng và an trú vào tam thiền (third jhāna), mà các bậc Thánh Nhân tuyên bố: 'Vị ấy có sự an trú lạc, người có xả và chánh niệm.' Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú lạc ngay trong hiện tại'. {#6}
 
-7\. "Có thể ở đây, một vị tỳ kheo, với sự từ bỏ lạc và khổ, và với sự biến mất trước đó của hỷ và ưu, chứng và an trú vào tứ thiền (fourth jhāna), một trạng thái không có khổ-không có lạc (neither-pain-nor-pleasure) và thanh tịnh của chánh niệm nhờ vào xả. Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú lạc ngay trong hiện tại'.
+7\. "Có thể ở đây, một vị tỳ kheo, với sự từ bỏ lạc và khổ, và với sự biến mất trước đó của hỷ và ưu, chứng và an trú vào tứ thiền (fourth jhāna), một trạng thái không có khổ-không có lạc (neither-pain-nor-pleasure) và thanh tịnh của chánh niệm nhờ vào xả. Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú lạc ngay trong hiện tại'. {#7}
 
-8\. "Có thể ở đây, một vị tỳ kheo, với sự vượt qua hoàn toàn các tưởng về sắc (perceptions of form), với sự biến mất của các tưởng về xúc chạm giác quan (perceptions of sensory impact), không chú ý đến các tưởng về sự đa dạng (perceptions of diversity), nhận biết rằng 'không gian là vô biên,' chứng và an trú vào không vô biên xứ (base of infinite space). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú an bình' (peaceful abidings).
+8\. "Có thể ở đây, một vị tỳ kheo, với sự vượt qua hoàn toàn các tưởng về sắc (perceptions of form), với sự biến mất của các tưởng về xúc chạm giác quan (perceptions of sensory impact), không chú ý đến các tưởng về sự đa dạng (perceptions of diversity), nhận biết rằng 'không gian là vô biên,' chứng và an trú vào không vô biên xứ (base of infinite space). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú an bình' (peaceful abidings). {#8}
 
-9\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn không vô biên xứ, nhận biết rằng 'thức là vô biên,' chứng và an trú vào thức vô biên xứ (base of infinite consciousness). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú an bình'.
+9\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn không vô biên xứ, nhận biết rằng 'thức là vô biên,' chứng và an trú vào thức vô biên xứ (base of infinite consciousness). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú an bình'. {#9}
 
-10\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn thức vô biên xứ, nhận biết rằng 'không có gì cả,' chứng và an trú vào vô sở hữu xứ (base of nothingness). Vị
+10\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn thức vô biên xứ, nhận biết rằng 'không có gì cả,' chứng và an trú vào vô sở hữu xứ (base of nothingness). Vị {#10}
 ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng...trong Giáo Pháp của bậc Thánh Nhân, chúng được gọi là 'an trú an bình'.
 
-11\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn vô sở hữu xứ, chứng và an trú vào phi tưởng phi phi tưởng xứ (base of neither-perception-nor-non-perception). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú an bình'.
+11\. "Có thể ở đây, một vị tỳ kheo, bằng cách vượt qua hoàn toàn vô sở hữu xứ, chứng và an trú vào phi tưởng phi phi tưởng xứ (base of neither-perception-nor-non-perception). Vị ấy có thể nghĩ: 'Ta đang an trú trong sự gọt giũa.' Nhưng trong Giáo Pháp của bậc Thánh Nhân, những thành tựu này không được gọi là 'gọt giũa': chúng được gọi là 'an trú an bình'. {#11}
 
 <!--pg-->
 #### (GỌT GIŨA)
 
-12\. "Này Cunda, đây là cách mà các ông nên thực hành sự gọt giũa:
+12\. "Này Cunda, đây là cách mà các ông nên thực hành sự gọt giũa: {#12}
 
 (1) 'Người khác sẽ tàn ác; chúng ta sẽ không tàn ác ở đây': sự gọt giũa nên được thực hành như vậy.
 
@@ -123,7 +123,7 @@
 
 <!--pg-->
 #### (KHUYNH HƯỚNG TÂM)
-13\. "Này Cunda, Ta nói rằng ngay cả việc hướng tâm (inclination of mind) đến các trạng thái thiện (wholesome states) cũng có lợi ích lớn, vậy thì còn nói gì đến các hành động thân và khẩu phù hợp [với trạng thái tâm như vậy]? Vì vậy, này Cunda:
+13\. "Này Cunda, Ta nói rằng ngay cả việc hướng tâm (inclination of mind) đến các trạng thái thiện (wholesome states) cũng có lợi ích lớn, vậy thì còn nói gì đến các hành động thân và khẩu phù hợp [với trạng thái tâm như vậy]? Vì vậy, này Cunda: {#13}
 
 (1) Tâm nên được hướng như sau: 'Người khác sẽ tàn ác; chúng ta sẽ không tàn ác ở đây.'
 
@@ -136,7 +136,7 @@
 <!--pg-->
 #### (TRÁNH XA)
 
-14\. "Này Cunda, ví như có một con đường gập ghềnh và một con đường bằng phẳng khác để tránh nó; và ví như có một chỗ lội gập ghềnh và một chỗ lội bằng phẳng khác để tránh nó. Cũng vậy:
+14\. "Này Cunda, ví như có một con đường gập ghềnh và một con đường bằng phẳng khác để tránh nó; và ví như có một chỗ lội gập ghềnh và một chỗ lội bằng phẳng khác để tránh nó. Cũng vậy: {#14}
 
 (1) Một người hay tàn ác có sự không tàn ác để tránh xa nó.
 
@@ -228,7 +228,7 @@
 
 <!--pg-->
 #### (CON ĐƯỜNG ĐI LÊN)
-15\. "Này Cunda, cũng như tất cả các trạng thái bất thiện (unwholesome states) đều dẫn xuống và tất cả các trạng thái thiện đều dẫn lên, cũng vậy:
+15\. "Này Cunda, cũng như tất cả các trạng thái bất thiện (unwholesome states) đều dẫn xuống và tất cả các trạng thái thiện đều dẫn lên, cũng vậy: {#15}
 
 (1) Một người hay tàn ác có sự không tàn ác để dẫn người ấy đi lên.
 
@@ -240,7 +240,7 @@
 
 <!--pg-->
 #### (CON ĐƯỜNG DẬP TẮT)
-16\. "Này Cunda, một người mà bản thân đang chìm trong bùn thì không thể kéo người khác đang chìm trong bùn ra được; một người mà bản thân không chìm trong bùn thì có thể kéo người khác đang chìm trong bùn ra được. Một người mà bản thân chưa được thuần hóa (untamed), chưa được rèn luyện (undisciplined), [với các phiền não (defilements)] chưa được dập tắt, thì không thể thuần hóa người khác, rèn luyện người khác, và giúp dập tắt [phiền não của người khác]; một người mà bản thân đã được thuần hóa, đã được rèn luyện, [với các phiền não] đã được dập tắt, thì có thể thuần hóa người khác, rèn luyện người khác, và giúp dập tắt [phiền não của người khác]. Cũng vậy:
+16\. "Này Cunda, một người mà bản thân đang chìm trong bùn thì không thể kéo người khác đang chìm trong bùn ra được; một người mà bản thân không chìm trong bùn thì có thể kéo người khác đang chìm trong bùn ra được. Một người mà bản thân chưa được thuần hóa (untamed), chưa được rèn luyện (undisciplined), [với các phiền não (defilements)] chưa được dập tắt, thì không thể thuần hóa người khác, rèn luyện người khác, và giúp dập tắt [phiền não của người khác]; một người mà bản thân đã được thuần hóa, đã được rèn luyện, [với các phiền não] đã được dập tắt, thì có thể thuần hóa người khác, rèn luyện người khác, và giúp dập tắt [phiền não của người khác]. Cũng vậy: {#16}
 
 (1) Một người hay tàn ác có sự không tàn ác để dập tắt nó.
 
@@ -253,9 +253,9 @@ sự không bám chặt vào quan điểm của mình, không giữ chúng một
 
 <!--pg-->
 #### (KẾT LUẬN)
-17\. "Vậy này Cunda, con đường gọt giũa đã được Ta chỉ dạy, con đường hướng tâm đã được Ta chỉ dạy, con đường tránh xa đã được Ta chỉ dạy, con đường đi lên đã được Ta chỉ dạy, và con đường dập tắt đã được Ta chỉ dạy.
+17\. "Vậy này Cunda, con đường gọt giũa đã được Ta chỉ dạy, con đường hướng tâm đã được Ta chỉ dạy, con đường tránh xa đã được Ta chỉ dạy, con đường đi lên đã được Ta chỉ dạy, và con đường dập tắt đã được Ta chỉ dạy. {#17}
 
-18\. "Những gì một vị thầy (teacher) nên làm cho các đệ tử (disciples) của mình vì lòng từ bi (compassion), tìm kiếm sự tốt đẹp cho họ và có lòng từ bi đối với họ, thì Ta đã làm cho các ông, này Cunda. Có những gốc cây này, có những túp lều trống này. Hãy thiền định (Meditate), này Cunda, đừng trì hoãn, kẻo sau này các ông sẽ hối tiếc. Đây là lời chỉ dạy của chúng ta cho các ông."
+18\. "Những gì một vị thầy (teacher) nên làm cho các đệ tử (disciples) của mình vì lòng từ bi (compassion), tìm kiếm sự tốt đẹp cho họ và có lòng từ bi đối với họ, thì Ta đã làm cho các ông, này Cunda. Có những gốc cây này, có những túp lều trống này. Hãy thiền định (Meditate), này Cunda, đừng trì hoãn, kẻo sau này các ông sẽ hối tiếc. Đây là lời chỉ dạy của chúng ta cho các ông." {#18}
 
 Đó là những gì Đức Phật đã nói. Tôn giả Mahā Cunda hoan hỷ và hài lòng với những lời của Đức Phật.
 

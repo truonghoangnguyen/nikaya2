@@ -135,7 +135,7 @@ Trong lúc đó, Tôn giả Sāriputta đang đứng phía sau Đức Thế Tôn
 
 Trong khi đó, cái nhìn Pháp nhãn thanh tịnh, không tì vết đã khởi lên trong du sĩ Dighanakha... Ông nói: "... Tôi xin quy y Sa-môn Gotama, quy y Pháp và quy y Tăng."
 
-[MN-74](/link?q=MN-74){target=_black}
+[MN-74](/l?q=MN-74){target=_black}
 
 NGƯỜI KỂ HAI. Trong thời gian này, Vua Suddhodana (Tịnh Phạn) đã cử Kāludāyī (Ca-lưu-đà-di), con trai của một vị đại thần, đến Rājagaha để thuyết phục con trai mình là Đức Phật về thăm Kapilavatthu (Ca-tỳ-la-vệ). Trước khi thông báo sứ mệnh của mình, Kāḷudāyī đã xuất gia làm tỳ-kheo. Tuy nhiên, vào cuối mùa đông—mùa đông đầu tiên sau khi Đức Phật giác ngộ—ông đã thông báo sứ mệnh của mình bằng những vần kệ này nhằm thuyết phục Đức Phật thực hiện chuyến đi.
 
@@ -202,7 +202,7 @@ Thag. 527-33
 
 GIỌNG ĐỌC THỨ HAI. Sau khi Đức Thế Tôn lưu lại Rājagaha bao lâu tùy ý, ngài lên đường đến Kapilavatthu. Du hành qua từng chặng, cuối cùng ngài cũng đến nơi, và ngài nghỉ lại tại Công viên Nigrodha. Vào buổi sáng, Đức Thế Tôn đắp y, mang bát và y ngoài, đi đến dinh thự của Suddhodana dòng Thích-ca, và tại đó ngài ngồi xuống một chỗ đã được chuẩn bị sẵn.
 
-[Vin. Mv. 1:54](/link?q=vin.mv-1.54){target=_black}
+[Vin. Mv. 1:54](/l?q=vin.mv-1.54){target=_black}
 
 NGƯỜI KỂ MỘT. Lời kể về chuyến viếng thăm này trong Kinh tạng rất ngắn gọn đến mức đột ngột. Vì vậy, trước khi tiếp tục, một vài chi tiết từ Chú giải sẽ làm cho tình huống trở nên rõ ràng hơn.
 
@@ -249,7 +249,7 @@ Lần thứ hai và lần thứ ba, Tôn giả Nāgasamāla nói điều tương
 > Hạc uống sữa bỏ bùn\
 > Người trí bỏ điều ác
 
-[Ud. 8:7](/link?q=ud-8.7){target=_black}
+[Ud. 8:7](/l?q=ud-8.7){target=_black}
 
 Lúc bấy giờ, khi Đức Thế Tôn đang trú tại vương quốc Kosala, ở Araññakuṭika trên sườn núi Himalaya (Hy-mã-lạp-sơn), suy nghĩ này đã khởi lên trong tâm ngài khi ngài đang tĩnh cư một mình: "Liệu có thể cai trị mà không giết chóc và ra lệnh hành quyết, không tịch thu và tước đoạt, không sầu khổ và gây ra sầu khổ, nói cách khác, cai trị một cách công chính không?" Khi ấy Ác ma Māra nhận biết được suy nghĩ trong tâm Đức Thế Tôn, liền đi đến gặp ngài và nói: "Xin Đức Thế Tôn hãy cai trị, xin Bậc Thiện Thệ hãy cai trị, mà không giết chóc và ra lệnh hành quyết, không tịch thu và tước đoạt, không sầu khổ và gây ra sầu khổ, nói cách khác, cai trị một cách công chính."
 
@@ -284,7 +284,7 @@ Lúc bấy giờ, khi Đức Thế Tôn đang trú tại vương quốc Kosala, 
 
 Khi ấy Ác ma Māra hiểu ra: "Đức Thế Tôn biết ta, Bậc Thiện Thệ biết ta." Buồn bã và thất vọng, hắn biến mất ngay lập tức.
 
-[S. 4:20](/link?q=SN-4.20){target=_black}
+[S. 4:20](/l?q=SN-4.20){target=_black}
 
 GIỌNG ĐỌC THỨ HAI. Sự việc diễn ra như sau. Đức Thế Tôn đang trú tại Anupiyā—có một thị trấn của người Malla tên là Anupiyā—và vào thời điểm đó, nhiều vương tử nổi tiếng dòng Thích-ca đã xuất gia theo Đức Thế Tôn. Nhưng có hai anh em, Mahānāma và Anuruddha dòng Thích-ca. Anuruddha đã được nuôi dưỡng trong nhung lụa. Ông có ba cung điện, một cho mùa hè, một cho mùa mưa và một cho mùa đông. Trong bốn tháng, ông được giải trí trong cung điện mùa mưa bởi những nữ nhạc công mà không có người đàn ông nào trong số họ, và không bao giờ bước xuống cung điện phía dưới.
 
@@ -361,11 +361,11 @@ Hiểu được ý nghĩa của chuyện này, Đức Thế Tôn bèn thốt lê
 > Không một vị thần nào\
 > Sánh được vẻ vinh quang
 
-[Vin. Cv. 7:1](/link?q=vin.cv-7.1){target=_black}; cf. [Ud. 2:10](/link?q=ud-2.10){target=_black}
+[Vin. Cv. 7:1](/l?q=vin.cv-7.1){target=_black}; cf. [Ud. 2:10](/l?q=ud-2.10){target=_black}
 
 GIỌNG ĐỌC THỨ NHẤT. Lúc bấy giờ, Tôn giả Nanda, người em cùng cha khác mẹ của Đức Thế Tôn, mặc y phục được ủi phẳng phiu, bôi thuốc mỡ chải chuốt đôi mắt và mang một chiếc bát tráng men. Sau đó ngài đi đến gặp Đức Thế Tôn, và sau khi đảnh lễ, ngài ngồi xuống một bên. Khi ngài đã ngồi yên, Đức Thế Tôn bảo ngài: "Này Nanda, thật không thích hợp khi ông, một thanh niên danh giá đã vì niềm tin mà từ bỏ đời sống thế tục để sống đời không nhà, lại mặc y phục ủi phẳng phiu, chải chuốt đôi mắt và mang bát tráng men. Điều thích hợp cho ông, một thanh niên danh giá đã vì niềm tin mà từ bỏ đời sống thế tục để sống đời không nhà, là phải trở thành một người sống trong rừng, chỉ ăn thức ăn khất thực, mặc y phấn tảo (y chắp vá từ giẻ rách), và sống không màng đến những ham muốn nhục dục."
 
-[S. 21:8](/link?q=SN-21.8){target=_black}
+[S. 21:8](/l?q=SN-21.8){target=_black}
 
 NGƯỜI KỂ HAI. Trong khi đó, sa-di Rāhula, lúc này đã mười một tuổi, đang sống dưới sự chăm sóc của Trưởng lão Sāriputta tại Ambalaṭṭhikā, gần Rājagaha, nơi Đức Phật trở về sau đó.
 
@@ -417,6 +417,6 @@ Này Rāhula, con nghĩ chiếc gương dùng để làm gì?”
 
 “Cũng giống như vậy, con phải luôn luôn soi xét các hành động của thân, các lời nói của miệng và các hành động của tâm.”
 
-[MN-61](/link?q=MN-61){target=_black}
+[MN-61](/l?q=MN-61){target=_black}
 
 NGƯỜI KỂ HAI. Sau đó Đức Phật tiếp tục hướng dẫn chi tiết cho ngài cách quán xét mọi hành động trước, trong và sau khi thực hiện, đánh giá nó là bất thiện nếu thấy nó dẫn đến tổn hại cho chính mình, hoặc cho người khác, hoặc cho cả hai, và đánh giá nó là thiện nếu nó không gây tổn hại, từ đó định hướng cho những hành động trong tương lai.

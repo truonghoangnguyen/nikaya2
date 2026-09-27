@@ -3,54 +3,54 @@
 
 [332] 1. Tôi nghe như vầy. Một thời, Đại đức Mahā Moggallāna trú ở xứ Bhagga, tại Sumsumāragira, trong rừng Bhesakaḷā, Vườn Nai.
 
-2\. Bấy giờ, Đại đức Mahā Moggallāna đang kinh hành (walking meditation - đi tới đi lui chậm rãi để thực hành thiền) ở ngoài trời. Và lúc đó, Ma Vương Ác Quỷ (Māra the Evil One - hiện thân của các thế lực xấu ác, cám dỗ) chui vào bụng Đại đức Mahā Moggallāna, vào tận trong ruột. Bấy giờ, Đại đức Mahā Moggallāna suy nghĩ: "Tại sao bụng ta lại nặng nề thế này? Cứ như thể đầy đậu vậy." Thế rồi, ngài rời chỗ kinh hành, đi vào chỗ ở, và ngồi xuống trên chỗ ngồi đã soạn sẵn.
+2\. Bấy giờ, Đại đức Mahā Moggallāna đang kinh hành (walking meditation - đi tới đi lui chậm rãi để thực hành thiền) ở ngoài trời. Và lúc đó, Ma Vương Ác Quỷ (Māra the Evil One - hiện thân của các thế lực xấu ác, cám dỗ) chui vào bụng Đại đức Mahā Moggallāna, vào tận trong ruột. Bấy giờ, Đại đức Mahā Moggallāna suy nghĩ: "Tại sao bụng ta lại nặng nề thế này? Cứ như thể đầy đậu vậy." Thế rồi, ngài rời chỗ kinh hành, đi vào chỗ ở, và ngồi xuống trên chỗ ngồi đã soạn sẵn. {#2}
 
-3\. Khi đã ngồi xuống, ngài chú tâm quán xét chính mình, và thấy rằng Ma Vương Ác Quỷ đã chui vào bụng, vào tận trong ruột ngài. Khi thấy vậy, ngài nói: "Hãy ra đi, Ác Quỷ! Hãy ra đi, Ác Quỷ! Đừng quấy nhiễu Như Lai (Tathāgata - bậc đã đến/đi như vậy, một danh hiệu của Phật), đừng quấy nhiễu đệ tử (disciple - người học trò, người đi theo giáo pháp) của Như Lai, nếu không, điều đó sẽ dẫn đến tổn hại và đau khổ lâu dài cho ngươi."
+3\. Khi đã ngồi xuống, ngài chú tâm quán xét chính mình, và thấy rằng Ma Vương Ác Quỷ đã chui vào bụng, vào tận trong ruột ngài. Khi thấy vậy, ngài nói: "Hãy ra đi, Ác Quỷ! Hãy ra đi, Ác Quỷ! Đừng quấy nhiễu Như Lai (Tathāgata - bậc đã đến/đi như vậy, một danh hiệu của Phật), đừng quấy nhiễu đệ tử (disciple - người học trò, người đi theo giáo pháp) của Như Lai, nếu không, điều đó sẽ dẫn đến tổn hại và đau khổ lâu dài cho ngươi." {#3}
 
-4\. Bấy giờ, Ma Vương Ác Quỷ nghĩ: "Vị sa môn (recluse - người xuất gia tu hành) này không biết ta, không thấy ta khi nói như vậy. Ngay cả bậc Đạo Sư của ông ta cũng không thể biết ta nhanh như thế, huống chi là người đệ tử này?"
+4\. Bấy giờ, Ma Vương Ác Quỷ nghĩ: "Vị sa môn (recluse - người xuất gia tu hành) này không biết ta, không thấy ta khi nói như vậy. Ngay cả bậc Đạo Sư của ông ta cũng không thể biết ta nhanh như thế, huống chi là người đệ tử này?" {#4}
 
-5\. Khi ấy, Đại đức Mahā Moggallāna nói: "Ta biết ngươi rõ ràng như vậy đó, Ác Quỷ. Đừng nghĩ rằng: 'Ông ấy không biết ta.' Ngươi chính là Ma Vương, Ác Quỷ. Ngươi đã nghĩ như vầy, Ác Quỷ: 'Vị sa môn này không biết ta, không thấy ta khi nói như vậy. Ngay cả bậc Đạo Sư của ông ta cũng không thể biết ta nhanh như thế, huống chi là người đệ tử này?'"
+5\. Khi ấy, Đại đức Mahā Moggallāna nói: "Ta biết ngươi rõ ràng như vậy đó, Ác Quỷ. Đừng nghĩ rằng: 'Ông ấy không biết ta.' Ngươi chính là Ma Vương, Ác Quỷ. Ngươi đã nghĩ như vầy, Ác Quỷ: 'Vị sa môn này không biết ta, không thấy ta khi nói như vậy. Ngay cả bậc Đạo Sư của ông ta cũng không thể biết ta nhanh như thế, huống chi là người đệ tử này?'" {#5}
 
-6\. Bấy giờ, Ma Vương Ác Quỷ nghĩ: "Vị sa môn đã biết ta, đã thấy ta khi nói như vậy," rồi hắn [333] thoát ra từ miệng Đại đức Mahā Moggallāna và đứng dựa vào thanh ngang cửa.
+6\. Bấy giờ, Ma Vương Ác Quỷ nghĩ: "Vị sa môn đã biết ta, đã thấy ta khi nói như vậy," rồi hắn [333] thoát ra từ miệng Đại đức Mahā Moggallāna và đứng dựa vào thanh ngang cửa. {#6}
 
-7\. Đại đức Mahā Moggallāna thấy hắn đứng đó và nói: "Ta cũng thấy ngươi ở đó, Ác Quỷ. Đừng nghĩ: 'Ông ấy không thấy ta.' Ngươi đang đứng dựa vào thanh ngang cửa đó, Ác Quỷ.
+7\. Đại đức Mahā Moggallāna thấy hắn đứng đó và nói: "Ta cũng thấy ngươi ở đó, Ác Quỷ. Đừng nghĩ: 'Ông ấy không thấy ta.' Ngươi đang đứng dựa vào thanh ngang cửa đó, Ác Quỷ. {#7}
 
-8\. "Này Ác Quỷ, đã có một thời ta là một Ma vương tên Dūsī, [517](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#517){.note} và ta có một người em gái tên Kālī. Ngươi là con trai của bà ấy, vậy ngươi là cháu trai của ta.
-
-<!--pg-->
-9\. "Bấy giờ, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác (accomplished and fully enlightened - arahant, sammāsambuddha - bậc xứng đáng cúng dường, giác ngộ hoàn toàn viên mãn) đã xuất hiện trên thế gian. [518](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#518){.note} Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, có một cặp đại đệ tử xuất chúng tên là Vidhura và Sañjīva. Trong tất cả các đệ tử của Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, không ai sánh bằng Đại đức Vidhura về việc thuyết Pháp (Dhamma - giáo pháp, lời dạy của Phật). Đó là lý do Đại đức Vidhura có danh hiệu 'Vidhura'. [519](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#519){.note} Còn Đại đức Sañjīva, dù đi vào rừng, đến gốc cây hay vào căn lều trống, ngài đều dễ dàng nhập vào diệt tận định (cessation of perception and feeling - nirodha-samāpatti - trạng thái thiền định cao nhất nơi tâm và tâm sở tạm thời dừng lại hoàn toàn).
-
-10\. "Này Ác Quỷ, đã có một lần, Đại đức Sañjīva ngồi dưới gốc một cây nọ và nhập vào diệt tận định. Một số người chăn bò, chăn cừu và nông dân đi ngang qua thấy Đại đức Sañjīva ngồi dưới gốc cây, đã nhập diệt tận định, họ liền nghĩ: 'Kỳ diệu thay, thưa quý vị, thật phi thường! Vị sa môn này ngồi đây đã chết. Chúng ta hãy hỏa táng ngài.' Rồi những người chăn bò, chăn cừu và nông dân thu gom cỏ, gỗ và phân bò khô, chất đống quanh thân thể Đại đức Sañjīva, châm lửa đốt rồi bỏ đi.
-
-11\. "Này Ác Quỷ, khi đêm tàn, Đại đức Sañjīva xuất khỏi định chứng (attainment - samāpatti - trạng thái thiền định đã đạt được). [520](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#520){.note} Ngài giũ y, rồi vào buổi sáng, ngài đắp y, mang bát và thượng y, đi vào làng để khất thực. Những người chăn bò, chăn cừu và nông dân đi ngang qua thấy Đại đức Sañjīva đang đi khất thực, họ liền nghĩ: 'Kỳ diệu thay, thưa quý vị, thật phi thường! Vị sa môn ngồi đó đã chết nay lại sống lại!' [334] Đó là lý do Đại đức Sañjīva có danh hiệu 'Sañjīva.'[521](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#521){.note}
-
-12\. "Khi ấy, Ác Quỷ, Ma vương Dūsī suy nghĩ như vầy: 'Có những vị tỳ kheo (bhikkhus - nhà sư nam đã thọ giới cụ túc) đức hạnh, có phẩm chất tốt đẹp này, nhưng ta không biết hành tung của họ. Ta hãy nhập vào các gia chủ Bà-la-môn (brahmin householders - những người thuộc giai cấp Bà-la-môn sống đời sống tại gia), bảo họ rằng: "Này, hãy mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi bị các người mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội (opportunity - thời cơ để phá hoại)." [522](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#522){.note}
-
-13\. "Rồi, Ác Quỷ, Ma vương Dūsī nhập vào những gia chủ Bà-la-môn đó, bảo họ: 'Này, hãy mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi bị các người mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội.' Khi Ma vương Dūsī đã nhập vào các gia chủ Bà-la-môn, họ liền mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp như sau: [523](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#523){.note} 'Những sa môn đầu trọc này, những kẻ tôi tớ thấp hèn da đen, sinh ra từ chân của Bà-la-môn, [524](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#524){.note} lại tự xưng: "Chúng tôi là người hành thiền, chúng tôi là người hành thiền!" rồi vai rũ, đầu cúi, trông ủ rũ, họ thiền định, họ giả thiền, họ thiền vẩn vơ, họ thiền sai lạc. [525](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#525){.note} Giống như con cú mèo đậu trên cành cây chờ chuột mà thiền định, giả thiền, thiền vẩn vơ, thiền sai lạc; hay giống như con chó rừng bên bờ sông chờ cá mà thiền định, giả thiền, thiền vẩn vơ, thiền sai lạc; hay giống như con mèo bên cột cửa, đống rác hay cống rãnh chờ chuột mà thiền định, giả thiền, thiền vẩn vơ, thiền sai lạc; hay giống như con lừa đã dỡ hàng, đứng bên cột cửa, đống rác hay cống rãnh mà thiền định, giả thiền, thiền vẩn vơ, thiền sai lạc; cũng vậy, những sa môn đầu trọc này, những kẻ tôi tớ thấp hèn da đen, sinh ra từ chân của Bà-la-môn, lại tự xưng: "Chúng tôi là người hành thiền, chúng tôi là người hành thiền!" rồi vai rũ, đầu cúi, trông ủ rũ, họ thiền định, họ giả thiền, họ thiền vẩn vơ, họ thiền sai lạc.' Này Ác Quỷ, vào lúc đó, hầu hết những người ấy, khi chết, sau khi thân hoại mạng chung, đã tái sinh vào cõi khổ, ác thú, đọa xứ, địa ngục (state of deprivation, unhappy destination, perdition, hell - apāya, duggati, vinipāta, niraya - các cảnh giới tái sinh đau khổ). [335]
-
-14\. "Bấy giờ, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, nói với các tỳ kheo như sau: 'Này các tỳ kheo, Ma vương Dūsī đã nhập vào các gia chủ Bà-la-môn, bảo họ: "Này, hãy mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi bị các người mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội." Này các tỳ kheo, hãy an trú, biến mãn một phương với tâm từ (loving-kindness - mettā - lòng mong muốn cho chúng sinh được an lạc), cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như thế nào, trên, dưới, ngang, khắp nơi, cùng khắp thế giới, hãy an trú biến mãn với tâm từ quảng đại, cao thượng, vô lượng, không oán hận, không sân độc. Hãy an trú, biến mãn một phương với tâm bi (compassion - karuṇā - lòng mong muốn cho chúng sinh thoát khổ)... với tâm hỷ (appreciative joy - muditā - niềm vui trước hạnh phúc của chúng sinh)... với tâm xả (equanimity - upekkhā - sự bình tâm, không thiên vị, không bám chấp hay ghét bỏ)... quảng đại, cao thượng, vô lượng, không oán hận, không sân độc.' [1526](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#1526){.note}
-
-15\. "Như vậy, Ác Quỷ, khi các tỳ kheo ấy được Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, khuyên dạy và chỉ bảo như thế, họ liền đi vào rừng, đến gốc cây hay vào căn lều trống, an trú biến mãn một phương với tâm từ... với tâm bi... với tâm hỷ... với tâm xả... không oán hận, không sân độc.
-
-16\. "Khi ấy, Ác Quỷ, Ma vương Dūsī suy nghĩ như vầy: 'Dù ta làm như vậy, ta vẫn không biết hành tung của những vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp này. Ta hãy nhập vào các gia chủ Bà-la-môn, bảo họ: "Này, hãy kính trọng, tôn trọng, quý kính và tôn sùng các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; [336] biết đâu khi được các người kính trọng, tôn trọng, quý kính và tôn sùng, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội."' [527](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#527){.note}
-
-17\. "Rồi, Ác Quỷ, Ma vương Dūsī nhập vào những gia chủ Bà-la-môn đó, bảo họ: 'Này, hãy kính trọng, tôn trọng, quý kính và tôn sùng các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi được các người kính trọng, tôn trọng, quý kính và tôn sùng, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội.' Khi Ma vương Dūsī đã nhập vào các gia chủ Bà-la-môn, họ liền kính trọng, tôn trọng, quý kính và tôn sùng các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp. Này Ác Quỷ, vào lúc đó, hầu hết những người ấy, khi chết, sau khi thân hoại mạng chung, đã tái sinh vào cõi lành, cõi trời (happy destination, heavenly world - sugati, sagga - các cảnh giới tái sinh an vui).
-
-18\. "Bấy giờ, Ác Quỷ, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, nói với các tỳ kheo như sau: 'Này các tỳ kheo, Ma vương Dūsī đã nhập vào những gia chủ Bà-la-môn đó, bảo họ: "Này, hãy kính trọng, tôn trọng, quý kính và tôn sùng các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi được các người kính trọng, tôn trọng, quý kính và tôn sùng, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội." Này các tỳ kheo, hãy an trú quán niệm sự bất tịnh của thân (contemplating foulness in the body - kāyagatāsati asubha - nhận thức về bản chất không sạch sẽ của cơ thể), quán niệm sự ghê tởm của vật thực (perceiving repulsiveness in nutriment - āhāre paṭikūla-saññā - nhận thức về bản chất đáng nhàm chán của thức ăn), quán niệm sự nhàm chán đối với tất cả thế gian (perceiving disenchantment with all the world - sabba-loke anabhirati-saññā - nhận thức về sự không đáng ham muốn của mọi thứ trong thế gian), quán niệm sự vô thường của tất cả các pháp hữu vi (contemplating impermanence in all formations - sabba-saṅkhāresu anicca-saññā - nhận thức rằng mọi thứ được tạo tác, có điều kiện đều thay đổi, không bền vững).' [528](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#528){.note}
-
-19\. "Như vậy, Ác Quỷ, khi các tỳ kheo ấy được Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, khuyên dạy và chỉ bảo như thế, họ liền đi vào rừng, đến gốc cây hay vào căn lều trống, an trú quán niệm sự bất tịnh của thân, quán niệm sự ghê tởm của vật thực, quán niệm sự nhàm chán đối với tất cả thế gian, quán niệm sự vô thường của tất cả các pháp hữu vi.
-
-20\. "Rồi, vào buổi sáng, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, đắp y, mang bát và thượng y, đi vào làng khất thực cùng với Đại đức Vidhura làm thị giả (attendant - người hầu cận, chăm sóc).
-
-21\. "Khi ấy, Ma vương Dūsī nhập vào một cậu bé, nhặt một hòn đá, ném trúng đầu Đại đức Vidhura làm vỡ đầu ngài. Máu chảy từ vết thương trên đầu, [337] Đại đức Vidhura vẫn đi sát phía sau Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác. Bấy giờ, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, quay lại nhìn với cái nhìn voi (elephant look - cái nhìn uy lực, vững chãi như voi chúa): 'Ma Vương Dūsī này không biết giới hạn.' Và chỉ với cái nhìn đó, Ác Quỷ, Ma vương Dūsī rơi khỏi nơi đó và tái sinh vào Đại Địa Ngục (Great Hell - Mahāniraya - địa ngục lớn nhất, đau khổ nhất). [529](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#529){.note}
+8\. "Này Ác Quỷ, đã có một thời ta là một Ma vương tên Dūsī, [517](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#517){.note} và ta có một người em gái tên Kālī. Ngươi là con trai của bà ấy, vậy ngươi là cháu trai của ta. {#8}
 
 <!--pg-->
-22\. "Này Ác Quỷ, Đại Địa Ngục đó có ba tên gọi: địa ngục của sáu căn tiếp xúc (hell of the six bases for contact - saḷāyatanika niraya - địa ngục nơi sự đau khổ được cảm nhận qua sáu giác quan), địa ngục bị đóng cọc (hell of the impalement with stakes - sankusamāhata niraya - địa ngục nơi bị xiên bằng cọc), và địa ngục tự mình cảm nhận (hell to be felt for oneself - paccattavedaniya niraya - địa ngục nơi sự đau khổ phải tự mình trải nghiệm trực tiếp). [530](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#530){.note} Khi ấy, Ác Quỷ, các quỷ sứ cai ngục đến gặp ta và nói: 'Này ông, khi nào cọc này gặp cọc kia trong tim ngươi, khi đó ngươi sẽ biết: "Ta đã bị thiêu đốt trong địa ngục một ngàn năm rồi."'
+9\. "Bấy giờ, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác (accomplished and fully enlightened - arahant, sammāsambuddha - bậc xứng đáng cúng dường, giác ngộ hoàn toàn viên mãn) đã xuất hiện trên thế gian. [518](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#518){.note} Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, có một cặp đại đệ tử xuất chúng tên là Vidhura và Sañjīva. Trong tất cả các đệ tử của Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, không ai sánh bằng Đại đức Vidhura về việc thuyết Pháp (Dhamma - giáo pháp, lời dạy của Phật). Đó là lý do Đại đức Vidhura có danh hiệu 'Vidhura'. [519](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#519){.note} Còn Đại đức Sañjīva, dù đi vào rừng, đến gốc cây hay vào căn lều trống, ngài đều dễ dàng nhập vào diệt tận định (cessation of perception and feeling - nirodha-samāpatti - trạng thái thiền định cao nhất nơi tâm và tâm sở tạm thời dừng lại hoàn toàn). {#9}
 
-23\. "Trong nhiều năm dài, Ác Quỷ, trong nhiều thế kỷ, trong nhiều thiên niên kỷ, ta đã bị thiêu đốt trong Đại Địa Ngục đó. Trong mười nghìn năm, ta bị thiêu đốt trong địa ngục phụ của Đại Địa Ngục đó (auxiliary hell - ussada niraya - địa ngục nhỏ hơn bao quanh địa ngục chính), trải qua cảm giác gọi là quả báo trổ sanh (feeling called that of emergence from ripening - vipākūpacchedikā vedanā - cảm giác đau đớn tột cùng khi quả báo sắp kết thúc nhưng vẫn còn dư sót) [531](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#531){.note}. Thân ta có hình dạng như thân người, Ác Quỷ, nhưng đầu ta lại có hình dạng đầu cá.
+10\. "Này Ác Quỷ, đã có một lần, Đại đức Sañjīva ngồi dưới gốc một cây nọ và nhập vào diệt tận định. Một số người chăn bò, chăn cừu và nông dân đi ngang qua thấy Đại đức Sañjīva ngồi dưới gốc cây, đã nhập diệt tận định, họ liền nghĩ: 'Kỳ diệu thay, thưa quý vị, thật phi thường! Vị sa môn này ngồi đây đã chết. Chúng ta hãy hỏa táng ngài.' Rồi những người chăn bò, chăn cừu và nông dân thu gom cỏ, gỗ và phân bò khô, chất đống quanh thân thể Đại đức Sañjīva, châm lửa đốt rồi bỏ đi. {#10}
+
+11\. "Này Ác Quỷ, khi đêm tàn, Đại đức Sañjīva xuất khỏi định chứng (attainment - samāpatti - trạng thái thiền định đã đạt được). [520](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#520){.note} Ngài giũ y, rồi vào buổi sáng, ngài đắp y, mang bát và thượng y, đi vào làng để khất thực. Những người chăn bò, chăn cừu và nông dân đi ngang qua thấy Đại đức Sañjīva đang đi khất thực, họ liền nghĩ: 'Kỳ diệu thay, thưa quý vị, thật phi thường! Vị sa môn ngồi đó đã chết nay lại sống lại!' [334] Đó là lý do Đại đức Sañjīva có danh hiệu 'Sañjīva.'[521](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#521){.note} {#11}
+
+12\. "Khi ấy, Ác Quỷ, Ma vương Dūsī suy nghĩ như vầy: 'Có những vị tỳ kheo (bhikkhus - nhà sư nam đã thọ giới cụ túc) đức hạnh, có phẩm chất tốt đẹp này, nhưng ta không biết hành tung của họ. Ta hãy nhập vào các gia chủ Bà-la-môn (brahmin householders - những người thuộc giai cấp Bà-la-môn sống đời sống tại gia), bảo họ rằng: "Này, hãy mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi bị các người mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội (opportunity - thời cơ để phá hoại)." [522](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#522){.note} {#12}
+
+13\. "Rồi, Ác Quỷ, Ma vương Dūsī nhập vào những gia chủ Bà-la-môn đó, bảo họ: 'Này, hãy mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi bị các người mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội.' Khi Ma vương Dūsī đã nhập vào các gia chủ Bà-la-môn, họ liền mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp như sau: [523](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#523){.note} 'Những sa môn đầu trọc này, những kẻ tôi tớ thấp hèn da đen, sinh ra từ chân của Bà-la-môn, [524](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#524){.note} lại tự xưng: "Chúng tôi là người hành thiền, chúng tôi là người hành thiền!" rồi vai rũ, đầu cúi, trông ủ rũ, họ thiền định, họ giả thiền, họ thiền vẩn vơ, họ thiền sai lạc. [525](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#525){.note} Giống như con cú mèo đậu trên cành cây chờ chuột mà thiền định, giả thiền, thiền vẩn vơ, thiền sai lạc; hay giống như con chó rừng bên bờ sông chờ cá mà thiền định, giả thiền, thiền vẩn vơ, thiền sai lạc; hay giống như con mèo bên cột cửa, đống rác hay cống rãnh chờ chuột mà thiền định, giả thiền, thiền vẩn vơ, thiền sai lạc; hay giống như con lừa đã dỡ hàng, đứng bên cột cửa, đống rác hay cống rãnh mà thiền định, giả thiền, thiền vẩn vơ, thiền sai lạc; cũng vậy, những sa môn đầu trọc này, những kẻ tôi tớ thấp hèn da đen, sinh ra từ chân của Bà-la-môn, lại tự xưng: "Chúng tôi là người hành thiền, chúng tôi là người hành thiền!" rồi vai rũ, đầu cúi, trông ủ rũ, họ thiền định, họ giả thiền, họ thiền vẩn vơ, họ thiền sai lạc.' Này Ác Quỷ, vào lúc đó, hầu hết những người ấy, khi chết, sau khi thân hoại mạng chung, đã tái sinh vào cõi khổ, ác thú, đọa xứ, địa ngục (state of deprivation, unhappy destination, perdition, hell - apāya, duggati, vinipāta, niraya - các cảnh giới tái sinh đau khổ). [335] {#13}
+
+14\. "Bấy giờ, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, nói với các tỳ kheo như sau: 'Này các tỳ kheo, Ma vương Dūsī đã nhập vào các gia chủ Bà-la-môn, bảo họ: "Này, hãy mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi bị các người mắng nhiếc, phỉ báng, chì chiết và quấy nhiễu, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội." Này các tỳ kheo, hãy an trú, biến mãn một phương với tâm từ (loving-kindness - mettā - lòng mong muốn cho chúng sinh được an lạc), cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như thế nào, trên, dưới, ngang, khắp nơi, cùng khắp thế giới, hãy an trú biến mãn với tâm từ quảng đại, cao thượng, vô lượng, không oán hận, không sân độc. Hãy an trú, biến mãn một phương với tâm bi (compassion - karuṇā - lòng mong muốn cho chúng sinh thoát khổ)... với tâm hỷ (appreciative joy - muditā - niềm vui trước hạnh phúc của chúng sinh)... với tâm xả (equanimity - upekkhā - sự bình tâm, không thiên vị, không bám chấp hay ghét bỏ)... quảng đại, cao thượng, vô lượng, không oán hận, không sân độc.' [1526](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#1526){.note} {#14}
+
+15\. "Như vậy, Ác Quỷ, khi các tỳ kheo ấy được Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, khuyên dạy và chỉ bảo như thế, họ liền đi vào rừng, đến gốc cây hay vào căn lều trống, an trú biến mãn một phương với tâm từ... với tâm bi... với tâm hỷ... với tâm xả... không oán hận, không sân độc. {#15}
+
+16\. "Khi ấy, Ác Quỷ, Ma vương Dūsī suy nghĩ như vầy: 'Dù ta làm như vậy, ta vẫn không biết hành tung của những vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp này. Ta hãy nhập vào các gia chủ Bà-la-môn, bảo họ: "Này, hãy kính trọng, tôn trọng, quý kính và tôn sùng các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; [336] biết đâu khi được các người kính trọng, tôn trọng, quý kính và tôn sùng, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội."' [527](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#527){.note} {#16}
+
+17\. "Rồi, Ác Quỷ, Ma vương Dūsī nhập vào những gia chủ Bà-la-môn đó, bảo họ: 'Này, hãy kính trọng, tôn trọng, quý kính và tôn sùng các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi được các người kính trọng, tôn trọng, quý kính và tôn sùng, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội.' Khi Ma vương Dūsī đã nhập vào các gia chủ Bà-la-môn, họ liền kính trọng, tôn trọng, quý kính và tôn sùng các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp. Này Ác Quỷ, vào lúc đó, hầu hết những người ấy, khi chết, sau khi thân hoại mạng chung, đã tái sinh vào cõi lành, cõi trời (happy destination, heavenly world - sugati, sagga - các cảnh giới tái sinh an vui). {#17}
+
+18\. "Bấy giờ, Ác Quỷ, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, nói với các tỳ kheo như sau: 'Này các tỳ kheo, Ma vương Dūsī đã nhập vào những gia chủ Bà-la-môn đó, bảo họ: "Này, hãy kính trọng, tôn trọng, quý kính và tôn sùng các vị tỳ kheo đức hạnh, có phẩm chất tốt đẹp; biết đâu khi được các người kính trọng, tôn trọng, quý kính và tôn sùng, tâm họ có thể thay đổi, nhờ đó Ma vương Dūsī có thể tìm được cơ hội." Này các tỳ kheo, hãy an trú quán niệm sự bất tịnh của thân (contemplating foulness in the body - kāyagatāsati asubha - nhận thức về bản chất không sạch sẽ của cơ thể), quán niệm sự ghê tởm của vật thực (perceiving repulsiveness in nutriment - āhāre paṭikūla-saññā - nhận thức về bản chất đáng nhàm chán của thức ăn), quán niệm sự nhàm chán đối với tất cả thế gian (perceiving disenchantment with all the world - sabba-loke anabhirati-saññā - nhận thức về sự không đáng ham muốn của mọi thứ trong thế gian), quán niệm sự vô thường của tất cả các pháp hữu vi (contemplating impermanence in all formations - sabba-saṅkhāresu anicca-saññā - nhận thức rằng mọi thứ được tạo tác, có điều kiện đều thay đổi, không bền vững).' [528](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#528){.note} {#18}
+
+19\. "Như vậy, Ác Quỷ, khi các tỳ kheo ấy được Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, khuyên dạy và chỉ bảo như thế, họ liền đi vào rừng, đến gốc cây hay vào căn lều trống, an trú quán niệm sự bất tịnh của thân, quán niệm sự ghê tởm của vật thực, quán niệm sự nhàm chán đối với tất cả thế gian, quán niệm sự vô thường của tất cả các pháp hữu vi. {#19}
+
+20\. "Rồi, vào buổi sáng, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, đắp y, mang bát và thượng y, đi vào làng khất thực cùng với Đại đức Vidhura làm thị giả (attendant - người hầu cận, chăm sóc). {#20}
+
+21\. "Khi ấy, Ma vương Dūsī nhập vào một cậu bé, nhặt một hòn đá, ném trúng đầu Đại đức Vidhura làm vỡ đầu ngài. Máu chảy từ vết thương trên đầu, [337] Đại đức Vidhura vẫn đi sát phía sau Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác. Bấy giờ, Đức Thế Tôn Kakusandha, bậc A-la-hán, Chánh Đẳng Giác, quay lại nhìn với cái nhìn voi (elephant look - cái nhìn uy lực, vững chãi như voi chúa): 'Ma Vương Dūsī này không biết giới hạn.' Và chỉ với cái nhìn đó, Ác Quỷ, Ma vương Dūsī rơi khỏi nơi đó và tái sinh vào Đại Địa Ngục (Great Hell - Mahāniraya - địa ngục lớn nhất, đau khổ nhất). [529](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#529){.note} {#21}
+
+<!--pg-->
+22\. "Này Ác Quỷ, Đại Địa Ngục đó có ba tên gọi: địa ngục của sáu căn tiếp xúc (hell of the six bases for contact - saḷāyatanika niraya - địa ngục nơi sự đau khổ được cảm nhận qua sáu giác quan), địa ngục bị đóng cọc (hell of the impalement with stakes - sankusamāhata niraya - địa ngục nơi bị xiên bằng cọc), và địa ngục tự mình cảm nhận (hell to be felt for oneself - paccattavedaniya niraya - địa ngục nơi sự đau khổ phải tự mình trải nghiệm trực tiếp). [530](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#530){.note} Khi ấy, Ác Quỷ, các quỷ sứ cai ngục đến gặp ta và nói: 'Này ông, khi nào cọc này gặp cọc kia trong tim ngươi, khi đó ngươi sẽ biết: "Ta đã bị thiêu đốt trong địa ngục một ngàn năm rồi."' {#22}
+
+23\. "Trong nhiều năm dài, Ác Quỷ, trong nhiều thế kỷ, trong nhiều thiên niên kỷ, ta đã bị thiêu đốt trong Đại Địa Ngục đó. Trong mười nghìn năm, ta bị thiêu đốt trong địa ngục phụ của Đại Địa Ngục đó (auxiliary hell - ussada niraya - địa ngục nhỏ hơn bao quanh địa ngục chính), trải qua cảm giác gọi là quả báo trổ sanh (feeling called that of emergence from ripening - vipākūpacchedikā vedanā - cảm giác đau đớn tột cùng khi quả báo sắp kết thúc nhưng vẫn còn dư sót) [531](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#531){.note}. Thân ta có hình dạng như thân người, Ác Quỷ, nhưng đầu ta lại có hình dạng đầu cá. {#23}
 
 
-24\. "Địa ngục nào có thể sánh bằng\
+24\. "Địa ngục nào có thể sánh bằng {#24}\
 Nơi Dūsī bị thiêu đốt, kẻ tấn công\
 Đệ tử Vidhura
 Và Đức Phật Kakusandha ? [532](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#532){.note} 
@@ -67,7 +67,7 @@ Vì tấn công một tỳ kheo như vậy,\
 Một đệ tử của bậc Giác Ngộ\
 Người trực tiếp biết sự thật này.
 
-25\. "Giữa đại dương mênh mông\
+25\. "Giữa đại dương mênh mông {#25}\
 Có những lâu đài trường tồn cả kiếp,\
 Sáng như lam ngọc, rực rỡ như lửa\
 Với ánh sáng trong suốt lung linh,\
@@ -77,7 +77,7 @@ Theo vũ điệu phức tạp, tinh tế.
 Hỡi Hắc Ám, ngươi phải chịu khổ nhiều...\
 Người trực tiếp biết sự thật này.
 
-26\. "Ta là người, khi được khuyến khích\
+26\. "Ta là người, khi được khuyến khích {#26}\
 Bởi chính Đức Phật Giác Ngộ,\
 Đã làm rung chuyển Lâu đài Mẹ Migāra\
 Bằng ngón chân cái, trước Tăng đoàn chứng kiến. [533](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#533){.note}
@@ -85,7 +85,7 @@ Bằng ngón chân cái, trước Tăng đoàn chứng kiến. [533](/kinhtrungb
 Hỡi Hắc Ám, ngươi phải chịu khổ nhiều...\
 Người trực tiếp biết sự thật này.
 
-27\. "Ta là người, vận dụng vững chắc\
+27\. "Ta là người, vận dụng vững chắc {#27}\
 Sức mạnh thần thông,\
 Đã làm rung chuyển cả Lâu đài Vejayanta\
 Bằng ngón chân cái để khích lệ chư thiên [534](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#534){.note} [338]
@@ -93,7 +93,7 @@ Bằng ngón chân cái để khích lệ chư thiên [534](/kinhtrungbo/nanamol
 Hỡi Hắc Ám, ngươi phải chịu khổ nhiều...\
 Người trực tiếp biết sự thật này.
 
-28\. "Ta là người, trong lâu đài ấy,\
+28\. "Ta là người, trong lâu đài ấy, {#28}\
 Đã hỏi Đế Thích câu này:\
 'Này bạn, bạn có biết chăng sự giải thoát\
 Nhờ đoạn tận hoàn toàn ái dục?'\
@@ -103,7 +103,7 @@ Khi ấy Đế Thích đã trả lời\
 Hỡi Hắc Ám, ngươi phải chịu khổ nhiều...\
 Người trực tiếp biết sự thật này.
 
-29\. "Ta là người đã nghĩ đến việc hỏi\
+29\. "Ta là người đã nghĩ đến việc hỏi {#29}\
 Phạm Thiên câu này\
 Tại thiên cung Sudhamma trên trời:\
 'Này bạn, nơi bạn có còn tồn tại\
@@ -124,7 +124,7 @@ Rằng nó là thường hằng, vĩnh cửu' [536](/kinhtrungbo/nanamoli-bodhi-
 Hỡi Hắc Ám, ngươi phải chịu khổ nhiều...\
 Người trực tiếp biết sự thật này.
 
-30\. "Ta là người, nhờ sự giải thoát,\
+30\. "Ta là người, nhờ sự giải thoát, {#30}\
 Đã chạm đến đỉnh núi Tu Di,\
 Viếng thăm Jambudīpa và Pubbavideha (Đông Thắng Thần Châu)\
 Và tất cả các vùng trên trái đất. [537](/kinhtrungbo/nanamoli-bodhi-vi/notes/050#537){.note}
@@ -134,7 +134,7 @@ Vì tấn công một tỳ kheo như vậy,\
 Một đệ tử của bậc Giác Ngộ\
 Người trực tiếp biết sự thật này.
 
-31\. "Chưa từng có ngọn lửa nào\
+31\. "Chưa từng có ngọn lửa nào {#31}\
 Có ý định rằng, 'Hãy để ta đốt kẻ ngu,'\
 Nhưng kẻ ngu tấn công ngọn lửa\
 Tự thiêu đốt chính mình bởi hành động của mình.
