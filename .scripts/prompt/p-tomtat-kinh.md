@@ -1,4 +1,7 @@
-đây là văn bản nội dung dùng văn nói, dựa vào nội dung vừa đã dịch, bạn viết lại bằng văn viết và gọn đơn giản để người đọc theo dõi (lưu ý: bỏ qua phần tạo thuật ngữ)
+đây là văn bản nội dung dùng văn nói, dựa vào nội dung vừa đã dịch, bạn viết lại bằng văn viết 
+1. gọn đơn giản để người đọc theo dõi 
+2. viết với cái nhìn nhà khoa học, trung tính, nhìn nhận chuyện gì đang xảy ra, không ca ngợi Phật và bài bác tôn giáo khác.
+(lưu ý: bỏ qua phần tạo thuật ngữ)
 
 Mỗi nội dung 'văn viết và gọn đơn giản' thì trích đoạn văn trong bài kinh dẫn đến nội dung này.
 
