@@ -373,7 +373,7 @@ Dưới đây là bảng của bạn đã được chuyển đổi sang định 
 | ādibrahmacariya | cốt lõi đời sống thánh thiện | sơ thiện phạm hạnh | "ādibrahmacariyassa->cốt lõi của đời sống thánh thiện" |
 | iddhipādā | cổng thần thông | như ý túc (thần túc) | |
 | pasanno | niềm tin tuyệt đối | tịnh tín | |
-| sammappadhānā | Siêng năng thiện | chánh cần | |
+| sammappadhānā | Siêng năng điều thiện | chánh cần | Cattāri Sammappadhānāni = Siêng năng bốn điều thiện |
 | kāma-/rūpa-/arūpa | bản năng-vật chất-phi vật chất | dục/sắc/vô sắc | |
 | papañca | phóng đại | hý luận | |
 | mettāsahagatena cetasā | tâm đi với lòng từ | câu hữu từ tâm | |

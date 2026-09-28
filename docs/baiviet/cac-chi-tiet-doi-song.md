@@ -86,3 +86,14 @@ MN 76
 
 - Chú thích các trường phái khác ở : /kinhtrungbo/c-nm-tmc-vi/mnc-076-kinh-sandaka, MN 76 liên quan đến MN 14 về Nigaṇṭha Nāṭaputta - biết tất cả,
 
+### MN 77.
+- Các tên vị đứng đầu giáo phái:
+Pūraṇa Kassapa, Makkhali Gosāla, Ajita Kesakambala... Pakudha Kaccāyana... Sañjaya Belaṭṭhaputta... Nigaṇṭha Nāṭaputta
+
+- Với một tập thể đệ tử đông, thì tổ chức thuộc về 'năng lực lãnh đạo' (theo cách nói ngày nay). Nhưng Phật lại quan tâm đến điều khác quan trọng hơn đó là điều quan trong trọng nhất đó là Chân lý (Pháp)
+> "Nhưng này Udāyi, ông thấy có bao nhiêu *Điều* (pháp / dhamme) ở Ta khiến các đệ tử tôn trọng, kính nể, quý mến, thờ phụng Ta, và sau khi tôn trọng, kính nể, họ sống nương tựa vào Ta?" {#7}
+
+dường như đó chỉ là chuyện nhỏ mà nhiều người có thể làm được 
+
+-   đôi khi Ta sống trong những ngôi nhà có mái nhọn, được trát vôi trong ngoài, kín gió, có chốt cửa chắc chắn, cửa sổ đóng kín.
+MN 77.9

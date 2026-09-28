@@ -4,6 +4,8 @@ description: Tại Kosambi, Ānanda giảng cho Sandaka về bốn lối sống 
 
 # MN 76. KINH SANDAKA
 *(Sandakasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-076){class="note-link"}
+
 
 1\. Tôi đã nghe như vầy—một thời Thế Tôn trú tại Kosambi, ở tu viện Ghosita. {#1}
 
@@ -70,11 +72,14 @@ Nếu lời của vị đạo sư này là sự thật, thì ở đây tôi khô
 20\. "Thật kỳ diệu, thưa Tôn giả Ānanda! Thật phi thường, thưa Tôn giả Ānanda! Cho đến mức độ nào mà Thế Tôn, Bậc *biết rõ*, Bậc Thấy, Bậc A-la-hán, Bậc *Chánh Đẳng Giác* đã tuyên bố bốn *lối sống không phải đời sống thánh thiện* này là '*lối sống không phải đời sống thánh thiện*'. Trong những kiểu sống ấy, một người có trí không thể nào sống đời phạm hạnh một cách đúng đắn; và nếu sống như vậy thì cũng không thể đạt đến con đường đúng đắn thiện lành.” Nhưng thưa Tôn giả Ānanda, bốn đời sống thánh thiện *không đáng tin cậy* đã được tuyên bố bởi Thế Tôn, Bậc *biết rõ*, Bậc Thấy, Bậc A-la-hán, Bậc *Chánh Đẳng Giác* là gì, nơi mà một *người có trí* chắc chắn sẽ không thể sống đời phạm hạnh một cách đúng đắn, và nếu sống như vậy thì cũng không thể đạt được con đường đúng đắn thiện lành?" {#20}
 
 <!--pg-->
-21\. "Ở đây, này Sandaka, có một vị đạo sư tự xưng là *biết tất cả và thấy tất cả* (toàn tri toàn kiến / sabbaññū sabbadassāvī), tuyên bố có sự *thấy rõ bản chất* (tri kiến / dassanā) và hiểu biết trọn vẹn không dư sót: 'Dù tôi đang đi, đang đứng, đang ngủ hay đang thức, sự *thấy rõ bản chất* và hiểu biết luôn luôn hiện diện liên tục trong tôi.' Vị ấy đi vào một ngôi nhà trống, không nhận được thức ăn khất thực, bị chó cắn, đụng phải một con voi dữ, đụng phải một con ngựa dữ, đụng phải một con bò dữ, vị ấy hỏi tên và họ của một người phụ nữ hay một người đàn ông, vị ấy hỏi tên và đường đi của một ngôi làng hay một thị trấn. Khi bị hỏi 'Tại sao lại như vậy?', vị ấy đáp: 'Tôi phải đi vào một ngôi nhà trống, nên tôi đã đi vào; tôi phải không nhận được thức ăn khất thực, nên tôi đã không nhận được; tôi phải bị chó cắn, nên tôi đã bị cắn; tôi phải đụng phải một con voi dữ, nên tôi đã đụng phải; tôi phải đụng phải một con ngựa dữ, nên tôi đã đụng phải; tôi phải đụng phải một con bò dữ, nên tôi đã đụng phải; tôi phải hỏi tên và họ của một người phụ nữ hay một người đàn ông, nên tôi đã hỏi; tôi phải hỏi tên và đường đi của một ngôi làng hay một thị trấn, nên tôi đã hỏi.' {#21}
+21\. "Ở đây, này Sandaka, có một vị đạo sư tự xưng là *biết tất cả và thấy tất cả* (toàn tri toàn kiến / sabbaññū sabbadassāvī), tuyên bố có sự *thấy rõ bản chất* (tri kiến / dassanā) và hiểu biết trọn vẹn không dư sót: 'Dù tôi đang đi, đang đứng, đang ngủ hay đang thức, sự *thấy rõ bản chất* và hiểu biết luôn luôn hiện diện liên tục trong tôi.' Vị ấy đi vào một ngôi nhà trống, không nhận được thức ăn khất thực, bị chó cắn, đụng phải một con voi dữ, đụng phải một con ngựa dữ, đụng phải một con bò dữ, vị ấy hỏi tên và họ của một người phụ nữ hay một người đàn ông, vị ấy hỏi tên và đường đi của một ngôi làng hay một thị trấn. Khi bị hỏi 'Tại sao lại như vậy?', vị ấy đáp: 'Tôi phải đi vào một ngôi nhà trống, nên tôi đã đi vào; tôi phải không nhận được thức ăn khất thực, nên tôi đã không nhận được; tôi phải bị chó cắn, nên tôi đã bị cắn; tôi phải đụng phải một con voi dữ, nên tôi đã đụng phải; tôi phải đụng phải một con ngựa dữ, nên tôi đã đụng phải; tôi phải đụng phải một con bò dữ, nên tôi đã đụng phải; tôi phải hỏi tên và họ của một người phụ nữ hay một người đàn ông, nên tôi đã hỏi; tôi phải hỏi tên và đường đi của một ngôi làng hay một thị trấn, nên tôi đã hỏi.' {#21} 
+
 
 22\. Ở đó, này Sandaka, *người có trí* *thận trọng suy xét* như sau: 'Vị đạo sư này tự xưng là *biết tất cả và thấy tất cả*, tuyên bố có sự *thấy rõ bản chất* và hiểu biết trọn vẹn không dư sót [...lặp lại...] tôi phải hỏi tên và đường đi của một ngôi làng hay một thị trấn, nên tôi đã hỏi.' Nhận ra rằng 'Đời sống thánh thiện này *không đáng tin cậy*', vị ấy chán ghét đời sống thánh thiện ấy và bỏ đi. {#22}
 
 23\. Này Sandaka, đây là đời sống thánh thiện *không đáng tin cậy* thứ nhất đã được tuyên bố bởi Thế Tôn, Bậc *biết rõ*, Bậc Thấy, Bậc A-la-hán, Bậc *Chánh Đẳng Giác*. Trong những kiểu sống ấy, một người có trí không thể nào sống đời phạm hạnh một cách đúng đắn; và nếu sống như vậy thì cũng không thể đạt đến con đường đúng đắn thiện lành.” {#23}
+
+*Xem thêm về tôn giáo [Kỳ-na](/baiviet/ky-na-giao)*
 
 <!--pg-->
 24\. Lại nữa, này Sandaka, ở đây có một vị đạo sư *dựa vào truyền thống nghe lại* (tùy văn / anussaviko), coi truyền thống nghe lại là chân lý. Vị ấy thuyết giảng *Quy luật* dựa trên truyền thống nghe lại, dựa trên sự truyền miệng từ đời này sang đời khác, dựa trên sự sưu tập các văn bản. Nhưng đối với một vị đạo sư *dựa vào truyền thống nghe lại*, coi truyền thống nghe lại là chân lý, này Sandaka, có những điều được nghe đúng và có những điều được nghe sai, có những điều đúng như vậy và có những điều lại khác đi. {#24}

@@ -109,10 +109,11 @@ Thêm cờ flat cho quicklink (trường hợp kinh thag, thig)
 Thêm anchor vào kinh trung bộ `{#1}`, việc link tham khảo đến kinh và tìm đến đoạn nào đó rất dài và khó khăn. Nên tốt hơn thêm từng anchor vào eg `MN 33.21`
 
 ### date 2026-09-20
-Việc thêm được các link đến phần tham khảo thật là hạnh phúc (/l?q=...)
+Việc thêm được các link đến phần tham khảo thật là hạnh phúc (/l?q=...), đổi từ `/link` thành `/l`
 
 ### date 2026-09-24
 Dịch xong Phật Giáo, Giáo lý và tông Phái của Schumann
 saṅkhāra = hành
 saṅkhata = hữu vi
 Câu các hành là vô thường hơi lạ, có thể là các pháp hữu vi là vô thường với đúng
+
