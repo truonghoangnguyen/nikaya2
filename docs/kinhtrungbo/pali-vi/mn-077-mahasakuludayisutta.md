@@ -3,6 +3,8 @@ description: Đức Phật ngụ tại Rājagaha (Vương Xá), đi đến khu v
 ---
 # MN 77. KINH DÀI về SAKULUDĀYI
 *(Mahāsakuludāyisutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-077){."note-link"}
+
 
 1\. Tôi đã nghe như vầy: Một thời Thế Tôn trú ở Rājagaha (Vương Xá), tại Veḷuvana (Trúc Lâm), nơi nuôi dưỡng sóc. {#1}
 

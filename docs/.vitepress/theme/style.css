@@ -17,11 +17,12 @@
 } */
 
 :root {
-  --vp-font-family-base: system-ui, sans-serif;
+  /* --vp-font-family-base: system-ui, sans-serif; */
   --vp-font-family-mono: monospace;
   --vp-c-brand: #d15f2e;
   --vp-c-brand-light: #d15f2e;
-  --vp-font-family-base: "Noto Serif", system-ui, -apple-system-body, roboto, "SF Pro text", "Segoe UI", serif;
+  /* --vp-font-family-base: "Noto Serif", system-ui, -apple-system-body, roboto, "SF Pro text", "Segoe UI", serif; */
+  --vp-font-family-base: 'Noto Serif', Georgia, 'Times New Roman', serif;
   /*'Noto Serif', serif;*/
   /* --vp-font-size-base: 18px; */
   /* --vp-c-text-1: red; */
@@ -193,12 +194,15 @@ ol {
   font-size: 18px;
   font-style: italic;
 }
-.c{
+
+.c {
   text-align: center;
 }
-h1{
+
+h1 {
   text-align: center;
 }
+
 h1::after {
   content: " ·  ☸ · ";
   /* "· · · ◇ · · ·"; */

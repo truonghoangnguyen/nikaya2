@@ -1,3 +1,8 @@
+---
+tags:
+ - Udāyi
+ - Nigaṇṭha Nāṭaputta
+---
 # MN 79. TIỂU KINH SAKULUDAYI (THIỆN SANH ƯU ÐÀ DI)
 
 ***(Cùlasakuludàyi Sutta)***
@@ -44,7 +49,8 @@ con và nghĩ: "Sa-môn Udayi thuyết pháp gì, chúng ta sẽ nghe". Bạch T
 chúng này thời con và chúng này ngồi nhìn thẳng mặt Thế Tôn và nghĩ: "Thế Tôn thuyết pháp gì, chúng
 ta sẽ nghe".
 
--- Vậy này Udayi, hãy nói lên ở đây vấn đề gì, để Ta có thể nói chuyện.
+<!--pg-->
+6\. -- Vậy này Udayi, hãy nói lên ở đây vấn đề gì, để Ta có thể nói chuyện.{#6}
 
 -- Thuở xưa, bạch Thế Tôn, rất xa xưa, bậc biết tất cả, thấy tất cả tự nhận mình có tri kiến không dư
 thừa: "Khi ta đi, khi ta đứng, khi ta ngủ và khi ta thức, tri kiến được tồn tại liên tục thường hằng". Vị ấy
@@ -171,6 +177,7 @@ quang sắc nào khác vi diệu hơn và thù thắng hơn quang sắc ấy. C�
 "Quang sắc này, thấp kém hơn, yếu đuối hơn quang sắc con sâu đom đóm, quang sắc ấy là tối thắng".
 Và Ông không chỉ rõ quang sắc ấy.
 
+<!--pg-->
 -- Thế Tôn đã cắt đứt câu chuyện. Thiện Thệ đã cắt đứt câu chuyện.
 
 -- Này Udayi, sao Ông lại nói: "Thế Tôn đã cắt đứt câu chuyện. Thiện thệ đã cắt đứt câu chuyện?"
@@ -219,6 +226,7 @@ hướng lạc, hay cả lạc cả khổ?
 -- Này Udayi, Ông nghĩ thế nào? Như vậy đạo lộ để chứng đắc một thế giới nhứt hướng lạc, đạo lộ ấy cả
 lạc cả khổ xen lẫn?
 
+<!--pg-->
 -- Thế Tôn đã cắt đứt câu chuyện, Thiện Thệ đã cắt đứt câu chuyện.
 
 -- Này Udayi, sao Ông lại nói như vầy: "Thế Tôn đã cắt đứt câu chuyện, Thiện Thệ đã cắt đứt câu

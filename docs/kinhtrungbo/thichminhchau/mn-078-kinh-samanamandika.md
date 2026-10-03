@@ -24,7 +24,7 @@ chuyện bên lề đường, câu chuyện tại chỗ lấy nước, câu chuy
 luận, hải dương luận, hiện hữu vô biện hữu luận. Du sĩ Uggahamana, con của Samanamandika thấy thợ
 mộc Pancakanga từ xa đi đến, thấy vậy liền khuyến cáo chúng của mình:
 
---- Các Tôn giả hãy nhỏ tiếng! Các Tôn giả hãy lặng tiếng! Nay thợ mộc Pancakanga, đệ tử của Sa-môn
+-- Các Tôn giả hãy nhỏ tiếng! Các Tôn giả hãy lặng tiếng! Nay thợ mộc Pancakanga, đệ tử của Sa-môn
 Gotama đang đến. Khi nào các đệ tử gia chủ mặc áo trắng của Sa-môn Gotama trú ở Savatthi, thời thợ
 mộc Pancakanga là một trong những vị ấy. Các vị Tôn giả ấy ưa mến an tịnh, được tu tập về an tịnh, tán
 thán an tịnh, nếu biết chúng này an tịnh, có thể ghé tại đây.
@@ -34,7 +34,7 @@ sau khi đến, nói lên những lời chào đón hỏi thăm với du sĩ Ugg
 khi nói lên những lời chào đón hỏi thăm thân hữu, liền ngồi xuống một bên. Du sĩ Uggahamana nói với
 thợ mộc Pancakanga đang ngồi một bên:
 
---- Này Thợ mộc, ta chủ trương rằng một người thành tựu bốn pháp, người ấy sẽ được thiện cụ túc, thiện
+-- Này Thợ mộc, ta chủ trương rằng một người thành tựu bốn pháp, người ấy sẽ được thiện cụ túc, thiện
 tối thắng, là bậc Sa-môn thành đạt tối thượng, vô năng thắng. Thế nào là bốn? Ở đây, này Thợ mộc,
 không làm ác nghiệp về thân, không nói lời ác, không tư duy ác tư duy, không sinh sống (bằng) nếp
 sống ác. Này Thợ mộc, ta chủ trương rằng một người nào thành tựu bốn pháp này, người ấy sẽ được
@@ -42,14 +42,16 @@ thiện cụ túc, thiện tối thắng, là Sa-môn thành đạt tối thư�
 
 Rồi thợ mộc Pancakanga không hoan hỷ, không kích bác lời nói của du sĩ Uggahamana, con của
 Samanamandika; không hoan hỷ, không kích bác, từ chỗ ngồi đứng dậy ra đi, với ý nghĩ: "Từ Thế Tôn,
-ta sẽ biết ý nghĩa lời nói này". Rồi thợ mộc Pancakanga đến chỗ Thế Tôn, sau khi đến đảnh lễ Thế Tôn
+ta sẽ biết ý nghĩa lời nói này". 
+
+<!--pg-->
+7\. Rồi thợ mộc Pancakanga đến chỗ Thế Tôn, sau khi đến đảnh lễ Thế Tôn
 rồi ngồi xuống một bên. Ngồi xuống một bên, thợ mộc Pancakanga thưa lại với Thế Tôn tất cả câu
 chuyện giữa mình với du sĩ Uggahamana, con của Samanamandika. Khi nghe nói vậy, Thế Tôn nói với
-thợ mộc Pancakanga:
+thợ mộc Pancakanga: {#7}
 
---- Nếu sự tình là như vậy thời một đứa con nít còn bé nhỏ, vô trí, nằm ngửa sẽ được thiện cụ túc, thiện
+-- Nếu sự tình là như vậy thời một đứa con nít còn bé nhỏ, vô trí, nằm ngửa sẽ được thiện cụ túc, thiện
 tối thắng, là bậc Sa-môn, thành đạt tối thượng, là bậc vô năng thắng đúng như lời du sĩ Uggahamana,
-
 con của Samanamandika. Này Thợ mộc, đối với đứa con nít nhỏ bé, vô trí, nằm ngửa, không có nghĩ:
 "Ðây là thân", từ đâu nó có thể làm ác nghiệp về thân, trừ ra chỉ biết quơ tay quơ chân? Này Thợ mộc,
 đối với đứa con nít, nhỏ bé, vô trí, nằm ngửa, không có nghĩ: "Ðây là lời nói", từ đâu nó có thể làm ác
@@ -67,27 +69,39 @@ thân, không nói lời ác ngữ, không tư duy ác tư duy, không sinh số
 Ta chủ trương rằng một người thành tựu bốn pháp này, người ấy sẽ không được thiện cụ túc, thiện tối
 thắng, không là bậc Sa-môn thành đạt tối thượng, vô năng thắng.
 
-Này thợ mộc, Ta chủ trương rằng một người thành tựu mười pháp, người ấy sẽ được thiện cụ túc, thiện
-tối thắng, là bậc Sa-môn thành đạt tối thượng, vô năng thắng. Ta nói rằng, những pháp này, này Thợ
+<!--pg-->
+9\. Này thợ mộc, Ta chủ trương rằng một người thành tựu mười pháp, người ấy sẽ được thiện cụ túc, thiện
+tối thắng, là bậc Sa-môn thành đạt tối thượng, vô năng thắng. 
+
+Ta nói rằng, những pháp này, này Thợ
 mộc, cần phải được người ấy hiểu là những bất thiện giới, Ta nói rằng, này Thợ mộc, những bất thiện
 giới cần phải được người ấy hiểu là từ đây sanh (Itosamutthana). Ta nói rằng, này Thợ mộc, ở đây cần
-phải được người ấy hiểu là những bất thiện giới được diệt trừ không có dư tàn. Ta nói rằng, này Thợ
+phải được người ấy hiểu là những bất thiện giới được diệt trừ không có dư tàn. 
+
+Ta nói rằng, này Thợ
 mộc, cần phải được người ấy hiểu là thực hành như vậy là sự thực hành đưa đến diệt trừ các bất thiện
 giới. Ta nói rằng, này Thợ mộc, những pháp này cần phải được người ấy hiểu là những thiện giới. Ta
-nói rằng, này Thợ mộc, những thiện giới cần phải được người ấy hiểu là từ đây sanh. Ta nói rằng, này
+nói rằng, này Thợ mộc, những thiện giới cần phải được người ấy hiểu là từ đây sanh. 
+
+Ta nói rằng, này
 Thợ mộc, ở đây, cần phải được người ấy hiểu là những thiện giới được diệt trừ không có dư tàn. Ta nói
 rằng, này Thợ mộc, cần phải được người ấy hiểu là thực hành như vậy là sự thực hành đưa đến diệt trừ
-các thiện giới. Ta nói rằng, này Thợ mộc, những (pháp) này cần phải được người ấy hiểu là những bất
+các thiện giới. 
+
+Ta nói rằng, này Thợ mộc, những (pháp) này cần phải được người ấy hiểu là những bất
 thiện tư duy. Ta nói rằng, này Thợ mộc, cần phải được người ấy hiểu là những bất thiện tư duy từ nơi
 đây sanh. Ta nói rằng, này Thợ mộc, ở đây, cần phải được người ấy hiểu các bất thiện tư duy được diệt
 trừ không có dư tàn. Ta nói rằng, này Thợ mộc, cần phải được người ấy hiểu là thực hành như vậy là sự
-thực hành đưa đến diệt trừ các bất thiện tư duy. Ta nói rằng, này Thợ mộc, những pháp này cần phải
+thực hành đưa đến diệt trừ các bất thiện tư duy. 
+
+Ta nói rằng, này Thợ mộc, những pháp này cần phải
 được người ấy hiểu là những thiện tư duy. Ta nói rằng, này Thợ mộc, cần phải được người ấy hiểu là
 những thiện tư duy từ nơi đây sanh. Ta nói rằng, này Thợ mộc, ở đây, cần phải được người ấy hiểu là
 các thiện tư duy được trừ diệt không có dư tàn. Ta nói rằng, này Thợ mộc, cần phải được người ấy hiểu
 là thực hành như vậy là sự thực hành đưa đến diệt trừ các thiện tư duy.
 
-Và này Thợ mộc, thế nào là bất thiện giới? Thân nghiệp bất thiện, khẩu nghiệp bất thiện, nếp sống ác.
+<!--pg-->
+10\. Và này Thợ mộc, thế nào là bất thiện giới? Thân nghiệp bất thiện, khẩu nghiệp bất thiện, nếp sống ác.
 Những pháp này, này Thợ mộc, được gọi là bất thiện giới.
 
 Và này Thợ mộc, những bất thiện giới này sanh khởi như thế nào? Sự sanh khởi của chúng cũng được
@@ -101,7 +115,6 @@ hạnh; sau khi đoạn trừ nếp sống ác sinh sống với nếp sống ch
 trừ diệt không có tàn dư.
 
 Thực hành như thế nào, này Thợ mộc, là sự thực hành đưa đến diệt trừ các bất thiện giới? Ở đây, này
-
 Thợ mộc, vị Tỷ-kheo khởi lên ý muốn, nỗ lực, tinh tấn, quyết tâm, sách tấn tâm; khiến cho các ác, bất
 thiện pháp từ trước chưa sanh không được sanh khởi; khởi lên ý muốn nỗ lực, tinh tấn, quyết tâm, sách
 tấn tâm khiến cho các ác, bất thiện pháp đã sanh được trừ diệt; khởi lên ý muốn nỗ lực, tinh tấn, quyết
@@ -128,8 +141,9 @@ cho các thiện pháp chưa sanh nay được sanh khởi; khởi lên ý muố
 tâm, khiến cho các thiện pháp đã sanh có thể duy trì, không có mơ hồ, được tăng trưởng, được quảng
 đại, được tu tập, được viên mãn. Sự thực hành như vậy là sự thực hành đưa đến diệt trừ các thiện giới.
 
-Và này Thợ mộc, thế nào là bất thiện tư duy? Dục tư duy, sân tư duy, hại tư duy. Pháp này, này Thợ
-mộc, được gọi là bất thiện tư duy.
+<!--pg-->
+12\. Và này Thợ mộc, thế nào là bất thiện tư duy? Dục tư duy, sân tư duy, hại tư duy. Pháp này, này Thợ
+mộc, được gọi là bất thiện tư duy. {#12}
 
 Và này Thợ mộc, những bất thiện tư duy này sanh khởi như thế nào? Sự sanh khởi của chúng cũng được
 nói đến. Cần phải trả lời là từ tưởng sanh khởi. Thế nào là tưởng? Tưởng có nhiều loại, đa chủng, sai
@@ -152,7 +166,6 @@ Này Thợ mộc, thế nào là thiện tư duy? Ly dục tư duy, vô sân tư
 này Thợ mộc, được gọi là thiện tư duy.
 
 Và này Thợ mộc, những thiện tư duy này sanh khởi như thế nào? Sự sanh khởi của chúng cũng được nói
-
 đến. Cần phải trả lời là từ tưởng sanh khởi. Thế nào là tưởng? Tưởng có nhiều loại, đa chủng, sai biệt: ly
 dục tưởng, vô sân tưởng, bất hại tưởng, từ đấy sanh khởi là những thiện tư duy.
 

@@ -97,3 +97,12 @@ dường như đó chỉ là chuyện nhỏ mà nhiều người có thể làm 
 
 -   đôi khi Ta sống trong những ngôi nhà có mái nhọn, được trát vôi trong ngoài, kín gió, có chốt cửa chắc chắn, cửa sổ đóng kín.
 MN 77.9
+
+### MN 79
+- Udāyi là hình mẫu tôi gặp bây giờ 2026 sau công nguyên. (1) Có thể đọc làu những hướng dẫn (2) không thể xác định đâu là đỉnh cao nhất (niết bàn)
+
+Thiền 4:  Này Udāyi, đến mức độ này thì *thế giới hoàn toàn hạnh phúc* được trực tiếp chứng nghiệm. MN 79.27
+
+Có thể dự đoán thế giới cao nhất trong trải nghiệm là thiền 4, đến đoạn sau sẽ là giải thoát khỏi thế giới cao nhất 
+MN 79.44:
+> Vị ấy biết rõ: 'Sự *Tái sinh* (sinh / jāti) đã *cạn kiệt*, ...

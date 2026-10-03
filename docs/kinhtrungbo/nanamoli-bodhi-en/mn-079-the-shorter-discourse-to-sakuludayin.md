@@ -18,7 +18,7 @@ edly present to me.' When I asked him a question about the past, he prevaricated
 
 "It was the Niganṭha Nātaputta, venerable sir."
 
-7\. "Udāyin, if someone should recollect his manifold past lives, that is, one birth, two births...thus, with their aspects and particulars, should he recollect his manifold past lives, then either he might ask me a question about the past or I might ask him a question about the past, and he might satisfy my mind with his answer to my question or I might satisfy his mind with my answer to his question. If someone with the divine eye, which is purified and surpasses the human, should see beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate... and understand how beings pass on according to their actions, then either he might ask me a question about the future [32] or I might ask him a question about the future, and he might satisfy my mind with his answer to my question or I might satisfy his mind with my answer to his question. But let be the past, Udāyin, let be the future. I shall teach you the Dhamma: When this exists, that comes to be; with the arising of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases."782
+7\. "Udāyin, if someone should recollect his manifold past lives, that is, one birth, two births...thus, with their aspects and particulars, should he recollect his manifold past lives, then either he might ask me a question about the past or I might ask him a question about the past, and he might satisfy my mind with his answer to my question or I might satisfy his mind with my answer to his question. If someone with the divine eye, which is purified and surpasses the human, should see beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate... and understand how beings pass on according to their actions, then either he might ask me a question about the future [32] or I might ask him a question about the future, and he might satisfy my mind with his answer to my question or I might satisfy his mind with my answer to his question. But let be the past, Udāyin, let be the future. I shall teach you the Dhamma: When this exists, that comes to be; with the arising of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases."[^782]
 
 8\. "Venerable sir, I cannot even recollect with their aspects and particulars all that I have experienced within this present existence, so how should I recollect my manifold past lives, that is, one birth, two births...with their aspects and particulars, as the Blessed One does? And I cannot now even see a mud-goblin, so how should I with the divine eye, which is purified and surpasses the human, see beings passing away and reappearing, inferior and superior, fair and ugly, fortunate and unfortunate...and understand how beings pass on according to their actions, as the Blessed One does? But, venerable sir, when the Blessed One told me: 'But let be the past, Udāyin, let be the future. I shall teach you the Dhamma: When this exists, that comes to be; with the arising
 of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases' - that is even more unclear to me. Perhaps, venerable sir, I might satisfy the Blessed One's mind by answering a question about our own teachers' doctrine."
@@ -42,7 +42,7 @@ of this, that arises. When this does not exist, that does not come to be; with t
 "But in the same way, Udāyin, you say thus: 'That splendour is the perfect splendour which is unsurpassed by any other splendour higher or more sublime,' yet you do not indicate
 what that splendour is."
 
-11\. "Venerable sir, just as a beautiful beryl gem of purest water, eight-faceted, well cut, lying on red brocade, glows, radiates, and shines, of such splendour is the self [surviving] unimpaired after death."783
+11\. "Venerable sir, just as a beautiful beryl gem of purest water, eight-faceted, well cut, lying on red brocade, glows, radiates, and shines, of such splendour is the self [surviving] unimpaired after death."[^783]
 
 12\. "What do you think, Udāyin? This beautiful beryl gēm of purest water, eight-faceted, well cut, lying on red brocade, [34] which glows, radiates, and shines, or a glowworm in the thick darkness of the night - of these two, which gives off the splendour that is more excellent and sublime?" - "The glowworm in the thick darkness of the night, venerable sir."
 
@@ -104,7 +104,7 @@ takes and practises some kind of asceticism, does his self then feel only pleasu
 
 "Udāyin, at that point an entirely pleasant world has not yet been realised; that is only the practical way to realise an entirely pleasant world."
 
-26\. When this was said, the wanderer Sakuludāyin's assembly made an uproar, saying very loudly and noisily: "We are lost along with our own teachers' doctrines! We are lost along with our own teachers' doctrines! We know nothing higher than that! ${ }^{\prime \prime 784}$
+26\. When this was said, the wanderer Sakuludāyin's assembly made an uproar, saying very loudly and noisily: "We are lost along with our own teachers' doctrines! We are lost along with our own teachers' doctrines! We know nothing higher than that! [^784]
 
 Then the wanderer Sakuludāyin quieted those wanderers and
 asked the Blessed One:
@@ -141,4 +141,4 @@ aspects and particulars he recollects his manifold past lives. This too, Udāyin
 46\. When this was said, the wanderer Sakuludāyin's assembly
 addressed him thus: "Do not lead the holy life under the recluse Gotama, Master Udāyin. Having been a teacher, Master Udāyin, do not live as a pupil. For Master Udāyin to do so would be as if a water jug were to become a pitcher. Do not lead the holy life under the recluse Gotama, Master Udāyin. Having been a teacher, Master Udāyin, do not live as a pupil."
 
-That is how the wanderer Sakuludāyin's assembly obstructed him from leading the holy life under the Blessed One. [^796]
+That is how the wanderer Sakuludāyin's assembly obstructed him from leading the holy life under the Blessed One. [^786]
