@@ -39,7 +39,7 @@ hiệu năng không?
 -- Cũng vậy, này Kaccana, khi Ông nói: "Tôn giả Gotama khi sắc nào không có một sắc khác cao
 thượng hơn, hay thù thắng hơn, sắc ấy là tối thượng", thời Ông không chỉ rõ sắc ấy.
 
--- Ví như, thưa Tôn giả Gotama, một hòn lưu ly bảo châu, đẹp đẽ, trong suốt, có tám mặt, khéo dũa,
+5\. -- Ví như, thưa Tôn giả Gotama, một hòn lưu ly bảo châu, đẹp đẽ, trong suốt, có tám mặt, khéo dũa,
 khéo mài được đặt trên một tấm màn màu nhạt, tự nó sáng lên, chói lên, bừng sáng lên. Với sắc như vây,
 tự ngã là không có bệnh, sau khi chết.
 
@@ -91,7 +91,8 @@ quang sắc nào vi diệu hơn và thù thắng hơn quang sắc ấy. Còn Ôn
 sắc này thấp kém hơn, yếu đuối hơn quang sắc con sâu đom đóm, quang sắc ấy là tối thắng", và Ông
 không chỉ rõ quang sắc ấy.
 
-Này Kaccana, có năm dục trưởng dưỡng này. Thế nào là năm? Các sắc có mắt nhận thức, khả ái, khả
+<!--pg-->
+12\. Này Kaccana, có năm dục trưởng dưỡng này. Thế nào là năm? Các sắc có mắt nhận thức, khả ái, khả
 lạc, khả ý, khả hỷ, liên hệ đến dục, hấp dẫn; các tiếng do tai nhận thức... các hương do mũi nhận thức...
 các vị do lưỡi nhận thức... các xúc do thân nhận thức, khả ái, khả lạc, khả ý, khả hỷ, liên hệ đến dục, hấp
 dẫn. Này Kaccana, những pháp này là năm dục trưởng dưỡng. Này Kaccana, lạc và hỷ nào khởi lên,

@@ -1,4 +1,5 @@
 import Theme from 'vitepress/theme'
+import DefaultTheme from 'vitepress/theme-without-fonts'
 import { h, onMounted, watch, nextTick } from 'vue'
 import { useRoute } from 'vitepress'
 
@@ -18,7 +19,8 @@ import NavSearchButton from './NavSearchButton.vue'
 import './style.css'
 
 export default {
-  extends: Theme,
+  //extends: Theme,
+  extends: DefaultTheme,
   setup() {
     const route = useRoute()
 

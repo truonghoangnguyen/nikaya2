@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Kinh Phật Giáo Nguyên Thủy - Pali, Việt, Anh
-description: Kinh Nikaya gồm Kinh Trường Bộ (DN), Trung Bộ (MN), Tương Ưng Bộ (SN), Tăng Chi Bộ (AN), Tiểu Bộ (KN). Đọc song song Pali–Việt–Anh. 
+description: Kinh nguyên thủy Nikaya gồm Kinh Trường Bộ (DN), Trung Bộ (MN), Tương Ưng Bộ (SN), Tăng Chi Bộ (AN), Tiểu Bộ (KN). Đọc song song Pali–Việt–Anh. 
 
 head:
   - - script

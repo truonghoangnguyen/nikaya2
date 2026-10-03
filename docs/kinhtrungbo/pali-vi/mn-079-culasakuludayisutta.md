@@ -1,159 +1,171 @@
-# MN 79. Cūḷasakuludāyisutta
+---
+description: Đức Phật bác bỏ "thế giới hoàn toàn hạnh phúc" khi họ không thể định nghĩa hay chứng minh được nó. Cuối cùng, Đức Phật chỉ ra con đường thực tiễn (các tầng Thiền) và mục đích tối thượng (đoạn tận các nguồn ác) mà các tỳ kheo tu tập dưới sự hướng dẫn của Ngài.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena sakuludāyī paribbājako moranivāpe paribbājakārāme paṭivasati mahatiyā paribbājakaparisāya saddhiṁ. {#1}
+# MN 79. KINH TIỂU SAKULUDĀYI
+*(Cūḷasakuludāyisutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-079){."note-link"}
 
-2\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisi. Atha kho bhagavato etadahosi: “atippago kho tāva rājagahe piṇḍāya carituṁ. Yannūnāhaṁ yena moranivāpo paribbājakārāmo yena sakuludāyī paribbājako tenupasaṅkameyyan”ti. Atha kho bhagavā yena moranivāpo paribbājakārāmo tenupasaṅkami. {#2}
 
-3\. Tena kho pana samayena sakuludāyī paribbājako mahatiyā paribbājakaparisāya saddhiṁ nisinno hoti unnādiniyā uccāsaddamahāsaddāya anekavihitaṁ tiracchānakathaṁ kathentiyā, seyyathidaṁ—rājakathaṁ corakathaṁ mahāmattakathaṁ senākathaṁ bhayakathaṁ yuddhakathaṁ annakathaṁ pānakathaṁ vatthakathaṁ sayanakathaṁ mālākathaṁ gandhakathaṁ ñātikathaṁ yānakathaṁ gāmakathaṁ nigamakathaṁ nagarakathaṁ janapadakathaṁ itthikathaṁ sūrakathaṁ visikhākathaṁ kumbhaṭṭhānakathaṁ pubbapetakathaṁ nānattakathaṁ lokakkhāyikaṁ samuddakkhāyikaṁ itibhavābhavakathaṁ iti vā. {#3}
+1\. Tôi đã nghe như vầy — Một thời Thế Tôn trú ở Rājagaha (Vương Xá), tại Trúc Lâm, nơi nuôi dưỡng sóc. Lúc bấy giờ, du sĩ Sakuludāyī đang trú tại khu vườn du sĩ ở chỗ nuôi công, cùng với một hội chúng du sĩ đông đảo. {#1}
 
-Addasā kho sakuludāyī paribbājako bhagavantaṁ dūratova āgacchantaṁ. Disvāna sakaṁ parisaṁ saṇṭhāpesi: “appasaddā bhonto hontu, mā bhonto saddamakattha. Ayaṁ samaṇo gotamo āgacchati; appasaddakāmo kho pana so āyasmā appasaddassa vaṇṇavādī. Appeva nāma appasaddaṁ parisaṁ viditvā upasaṅkamitabbaṁ maññeyyā”ti. Atha kho te paribbājakā tuṇhī ahesuṁ.
+2\. Rồi Thế Tôn, vào buổi sáng, đắp y, mang bát đi vào Rājagaha để khất thực. Rồi Thế Tôn khởi lên suy nghĩ: "Vẫn còn quá sớm để đi khất thực ở Rājagaha. Hay là Ta đi đến khu vườn du sĩ ở chỗ nuôi công, đến chỗ du sĩ Sakuludāyī". Rồi Thế Tôn đi đến khu vườn du sĩ ở chỗ nuôi công. {#2}
 
-4\. Atha kho bhagavā yena sakuludāyī paribbājako tenupasaṅkami. Atha kho sakuludāyī paribbājako bhagavantaṁ etadavoca: “etu kho, bhante, bhagavā. Svāgataṁ, bhante, bhagavato. Cirassaṁ kho, bhante, bhagavā imaṁ pariyāyamakāsi yadidaṁ idhāgamanāya. Nisīdatu, bhante, bhagavā; idamāsanaṁ paññattan”ti. Nisīdi bhagavā paññatte āsane. Sakuludāyīpi kho paribbājako aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho sakuludāyiṁ paribbājakaṁ bhagavā etadavoca: “kāya nuttha, udāyi, etarahi kathāya sannisinnā, kā ca pana vo antarākathā vippakatā”ti? {#4}
+3\. Lúc bấy giờ, du sĩ Sakuludāyī đang ngồi cùng với hội chúng du sĩ đông đảo, ồn ào, lớn tiếng, ầm ĩ, đang bàn luận nhiều *câu chuyện vô bổ* (phù phiếm ngữ / tiracchānakathaṁ), cụ thể là — chuyện vua chúa, chuyện ăn trộm, chuyện đại thần, chuyện quân đội, chuyện sợ hãi, chuyện chiến tranh, chuyện đồ ăn, chuyện thức uống, chuyện quần áo, chuyện giường nằm, chuyện vòng hoa, chuyện hương liệu, chuyện họ hàng, chuyện xe cộ, chuyện làng mạc, chuyện thị trấn, chuyện thành phố, chuyện quốc gia, chuyện đàn bà, chuyện anh hùng, chuyện đường phố, chuyện bến nước, chuyện người chết, chuyện tạp lục, chuyện thế giới, chuyện biển cả, chuyện sự tồn tại và không tồn tại. {#3}
 
-5\. “Tiṭṭhatesā, bhante, kathā yāya mayaṁ etarahi kathāya sannisinnā. Nesā, bhante, kathā bhagavato dullabhā bhavissati pacchāpi savanāya. Yadāhaṁ, bhante, imaṁ parisaṁ anupasaṅkanto homi athāyaṁ parisā anekavihitaṁ tiracchānakathaṁ kathentī nisinnā hoti; yadā ca kho ahaṁ, bhante, imaṁ parisaṁ upasaṅkanto homi athāyaṁ parisā mamaññeva mukhaṁ ullokentī nisinnā hoti: ‘yaṁ no samaṇo udāyī dhammaṁ bhāsissati taṁ sossāmā’ti; yadā pana, bhante, bhagavā imaṁ parisaṁ upasaṅkanto hoti athāhañceva ayañca parisā bhagavato mukhaṁ ullokentā nisinnā homa: ‘yaṁ no bhagavā dhammaṁ bhāsissati taṁ sossāmā’”ti. {#5}
+Du sĩ Sakuludāyī thấy Thế Tôn đang đi đến từ đằng xa. Thấy vậy, ông liền yêu cầu hội chúng của mình im lặng: "Các tôn giả hãy im lặng, các tôn giả đừng làm ồn. Sa-môn Gotama đang đi đến; Tôn giả ấy thích sự yên lặng và thường tán thán sự yên lặng. Biết đâu, nếu thấy hội chúng yên lặng, Ngài sẽ nghĩ đến việc bước tới". Rồi các du sĩ ấy im lặng.
 
-6\. “Tenahudāyi, taṁyevettha paṭibhātu yathā maṁ paṭibhāseyyā”ti. {#6}
+4\. Rồi Thế Tôn đi đến chỗ du sĩ Sakuludāyī. Du sĩ Sakuludāyī thưa với Thế Tôn: "Kính bạch Thế Tôn, xin Ngài hãy đến. Chào mừng Thế Tôn. Đã lâu lắm rồi Thế Tôn mới có dịp đến đây. Kính bạch Thế Tôn, xin Ngài hãy ngồi; đây là chỗ ngồi đã được dọn sẵn". Thế Tôn ngồi trên chỗ ngồi đã dọn sẵn. Du sĩ Sakuludāyī lấy một chỗ ngồi khác thấp hơn và ngồi xuống một bên. Khi du sĩ Sakuludāyī đã ngồi một bên, Thế Tôn nói với ông: "Này Udāyi, các ông đang ngồi tụ họp bàn luận về câu chuyện gì, và câu chuyện gì đang bị bỏ dở giữa chừng?" {#4}
 
-“Purimāni, bhante, divasāni purimatarāni sabbaññū sabbadassāvī aparisesaṁ ñāṇadassanaṁ paṭijānamāno ‘carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti. So mayā pubbantaṁ ārabbha pañhaṁ puṭṭho samāno aññenaññaṁ paṭicari, bahiddhā kathaṁ apanāmesi, kopañca dosañca appaccayañca pātvākāsi. Tassa mayhaṁ, bhante, bhagavantaṁyeva ārabbha sati udapādi: ‘aho nūna bhagavā, aho nūna sugato. Yo imesaṁ dhammānaṁ sukusalo’”ti.
+5\. "Kính bạch Thế Tôn, hãy để qua một bên câu chuyện mà chúng con đang ngồi tụ họp bàn luận. Kính bạch Thế Tôn, không khó để Ngài nghe lại câu chuyện này sau. Kính bạch Thế Tôn, khi con không đến hội chúng này, thì hội chúng này ngồi bàn luận nhiều *câu chuyện vô bổ*; nhưng kính bạch Thế Tôn, khi con đến hội chúng này, thì hội chúng này ngồi nhìn chăm chú vào mặt con [với ý nghĩ]: 'Sa-môn Udāyī sẽ giảng *Giáo pháp* (pháp / dhamma) gì cho chúng ta, chúng ta sẽ nghe điều đó'; nhưng kính bạch Thế Tôn, khi Thế Tôn đến hội chúng này, thì cả con và hội chúng này đều ngồi nhìn chăm chú vào mặt Thế Tôn [với ý nghĩ]: 'Thế Tôn sẽ giảng *Giáo pháp* gì cho chúng ta, chúng ta sẽ nghe điều đó'." {#5}
 
-“Ko pana so, udāyi, sabbaññū sabbadassāvī aparisesaṁ ñāṇadassanaṁ paṭijānamāno ‘carato ca me tiṭṭhato ca suttassa ca jāgarassa ca satataṁ samitaṁ ñāṇadassanaṁ paccupaṭṭhitan’ti, yo tayā pubbantaṁ ārabbha pañhaṁ puṭṭho samāno aññenaññaṁ paṭicari, bahiddhā kathaṁ apanāmesi kopañca dosañca appaccayañca pātvākāsī”ti?
+<!--pg-->
+6\. "Nếu vậy này Udāyi, ông muốn hỏi điều gì đó để Ta có thể trả lời ông." {#6}
 
-“Nigaṇṭho, bhante, nāṭaputto”ti.
+"Kính bạch Thế Tôn, vào những ngày trước, những ngày xa xưa, có người tự xưng là *biết tất cả và thấy tất cả* (toàn tri toàn kiến / sabbaññū sabbadassāvī), tuyên bố có tri kiến hoàn toàn không dư sót: 'Dù tôi đang đi, đang đứng, đang ngủ hay đang thức, tri kiến luôn luôn hiện hữu liên tục trong tôi'. Khi bị con hỏi một câu hỏi về quá khứ, người ấy lảng tránh sang chuyện khác, dẫn dắt câu chuyện ra ngoài lề, và bộc lộ sự tức giận, sân hận và bất mãn. Kính bạch Thế Tôn, lúc đó con liền nhớ đến Thế Tôn: 'Ôi, Thế Tôn thật tuyệt vời, Thiện Thệ thật tuyệt vời. Ngài là người rất thiện xảo trong những *Giáo pháp* này'."
 
-7\. “Yo kho, udāyi, anekavihitaṁ pubbenivāsaṁ anussareyya, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussareyya, so vā maṁ pubbantaṁ ārabbha pañhaṁ puccheyya, taṁ vāhaṁ pubbantaṁ ārabbha pañhaṁ puccheyyaṁ; so vā me pubbantaṁ ārabbha pañhassa veyyākaraṇena cittaṁ ārādheyya, tassa vāhaṁ pubbantaṁ ārabbha pañhassa veyyākaraṇena cittaṁ ārādheyyaṁ. {#7}
+"Nhưng này Udāyi, vị nào là người tự xưng là *biết tất cả và thấy tất cả*, tuyên bố có tri kiến hoàn toàn không dư sót: 'Dù tôi đang đi, đang đứng, đang ngủ hay đang thức, tri kiến luôn luôn hiện hữu liên tục trong tôi', mà khi bị ông hỏi một câu hỏi về quá khứ, người ấy lảng tránh sang chuyện khác, dẫn dắt câu chuyện ra ngoài lề, và bộc lộ sự tức giận, sân hận và bất mãn?"
 
-Yo kho, udāyi, dibbena cakkhunā visuddhena atikkantamānusakena satte passeyya cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajāneyya, so vā maṁ aparantaṁ ārabbha pañhaṁ puccheyya, taṁ vāhaṁ aparantaṁ ārabbha pañhaṁ puccheyyaṁ; so vā me aparantaṁ ārabbha pañhassa veyyākaraṇena cittaṁ ārādheyya, tassa vāhaṁ aparantaṁ ārabbha pañhassa veyyākaraṇena cittaṁ ārādheyyaṁ.
+"Kính bạch Thế Tôn, đó là Nigaṇṭha Nāṭaputta."
 
-Api ca, udāyi, tiṭṭhatu pubbanto, tiṭṭhatu aparanto. Dhammaṁ te desessāmi—imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhatī”ti.
+7\. "Này Udāyi, vị nào có thể nhớ lại nhiều đời sống quá khứ, cụ thể là — một đời, hai đời [...lặp lại...] nhớ lại nhiều đời sống quá khứ cùng với các nét đại cương và chi tiết; người đó có thể hỏi Ta một câu hỏi về quá khứ, hoặc Ta có thể hỏi người đó một câu hỏi về quá khứ; người đó có thể làm hài lòng tâm trí Ta bằng cách trả lời câu hỏi về quá khứ, hoặc Ta có thể làm hài lòng tâm trí người đó bằng cách trả lời câu hỏi về quá khứ. {#7}
 
-8\. “Ahañhi, bhante, yāvatakampi me iminā attabhāvena paccanubhūtaṁ tampi nappahomi sākāraṁ sauddesaṁ anussarituṁ, kuto panāhaṁ anekavihitaṁ pubbenivāsaṁ anussarissāmi, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarissāmi, seyyathāpi bhagavā? Ahañhi, bhante, etarahi paṁsupisācakampi na passāmi, kuto panāhaṁ dibbena cakkhunā visuddhena atikkantamānusakena satte passissāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānissāmi, seyyathāpi bhagavā? Yaṁ pana maṁ, bhante, bhagavā evamāha: ‘api ca, udāyi, tiṭṭhatu pubbanto, tiṭṭhatu aparanto; dhammaṁ te desessāmi— {#8}
+Này Udāyi, vị nào với *mắt thần* (thiên nhãn / dibbena cakkhunā) thanh tịnh siêu nhiên, thấy chúng sinh chết đi và sinh lại, kẻ hạ liệt người cao quý, kẻ đẹp đẽ người xấu xa, kẻ sinh vào cõi lành người sinh vào cõi dữ, nhận biết rõ chúng sinh tùy theo hành động [của họ]; người đó có thể hỏi Ta một câu hỏi về vị lai, hoặc Ta có thể hỏi người đó một câu hỏi về vị lai; người đó có thể làm hài lòng tâm trí Ta bằng cách trả lời câu hỏi về vị lai, hoặc Ta có thể làm hài lòng tâm trí người đó bằng cách trả lời câu hỏi về vị lai.
 
-imasmiṁ sati idaṁ hoti, imassuppādā idaṁ uppajjati; imasmiṁ asati idaṁ na hoti, imassa nirodhā idaṁ nirujjhatī’ti tañca pana me bhiyyoso mattāya na pakkhāyati. Appeva nāmāhaṁ, bhante, sake ācariyake bhagavato cittaṁ ārādheyyaṁ pañhassa veyyākaraṇenā”ti.
+Hơn nữa, này Udāyi, hãy để quá khứ, vị lai đó. Ta sẽ giảng *Giáo pháp* cho ông về: Khi cái này có, cái kia có; do cái này sinh ra, cái kia sinh ra; khi cái này không có, cái kia không có; do cái này *bị chặn* (diệt / nirodhā), cái kia *chấm dứt* (diệt / nirujjhatī)."
 
-9\. “Kinti pana te, udāyi, sake ācariyake hotī”ti? {#9}
+8\. "Kính bạch Thế Tôn, ngay cả những gì con đã trải qua trong hình hài hiện tại này, con còn không thể nhớ lại cùng với các nét đại cương và chi tiết, thì làm sao con có thể nhớ lại nhiều đời sống quá khứ, cụ thể là — một đời, hai đời [...lặp lại...] nhớ lại nhiều đời sống quá khứ cùng với các nét đại cương và chi tiết như Thế Tôn? Kính bạch Thế Tôn, ngay cả một con tinh linh bùn đất hiện tại con còn không thấy được, thì làm sao con có thể với *mắt thần* thanh tịnh siêu nhiên, thấy chúng sinh chết đi và sinh lại, kẻ hạ liệt người cao quý, kẻ đẹp đẽ người xấu xa, kẻ sinh vào cõi lành người sinh vào cõi dữ, nhận biết rõ chúng sinh tùy theo hành động [của họ] như Thế Tôn? Còn việc Thế Tôn nói với con: 'Hơn nữa, này Udāyi, hãy để quá khứ đó, hãy để vị lai đó; Ta sẽ giảng *Giáo pháp* cho ông về — {#8}
 
-“Amhākaṁ, bhante, sake ācariyake evaṁ hoti: ‘ayaṁ paramo vaṇṇo, ayaṁ paramo vaṇṇo’”ti.
+khi cái này có, cái kia có; do cái này sinh ra, cái kia sinh ra; khi cái này không có, cái kia không có; do cái này *bị chặn*, cái kia *chấm dứt*', điều đó đối với con lại càng không rõ ràng. Kính bạch Thế Tôn, biết đâu con có thể làm hài lòng tâm trí Thế Tôn bằng cách trả lời câu hỏi theo học thuyết của vị thầy con."
 
-“Yaṁ pana te etaṁ, udāyi, sake ācariyake evaṁ hoti: ‘ayaṁ paramo vaṇṇo, ayaṁ paramo vaṇṇo’ti, katamo so paramo vaṇṇo”ti?
+9\. "Này Udāyi, học thuyết của vị thầy ông là gì?" {#9}
 
-“Yasmā, bhante, vaṇṇā añño vaṇṇo uttaritaro vā paṇītataro vā natthi so paramo vaṇṇo”ti.
+"Kính bạch Thế Tôn, trong học thuyết của vị thầy chúng con có nói như vầy: 'Đây là *nguồn sáng* (sắc / vaṇṇo) tối thượng, đây là *nguồn sáng* tối thượng'."
 
-“Katamo pana so paramo vaṇṇo yasmā vaṇṇā añño vaṇṇo uttaritaro vā paṇītataro vā natthī”ti?
+"Này Udāyi, khi học thuyết của vị thầy ông nói: 'Đây là *nguồn sáng* tối thượng, đây là *nguồn sáng* tối thượng', thì *nguồn sáng* tối thượng đó là gì?"
 
-“Yasmā, bhante, vaṇṇā añño vaṇṇo uttaritaro vā paṇītataro vā natthi so paramo vaṇṇo”ti.
+"Kính bạch Thế Tôn, vì không có *nguồn sáng* nào khác cao tột hơn hay thù thắng hơn *nguồn sáng* đó, nên đó là *nguồn sáng* tối thượng."
 
-10\. “Dīghāpi kho te esā, udāyi, phareyya: ‘yasmā, bhante, vaṇṇā añño vaṇṇo uttaritaro vā paṇītataro vā natthi so paramo vaṇṇo’ti vadesi, tañca vaṇṇaṁ na paññapesi. Seyyathāpi, udāyi, puriso evaṁ vadeyya: ‘ahaṁ yā imasmiṁ janapade janapadakalyāṇī taṁ icchāmi, taṁ kāmemī’ti. Tamenaṁ evaṁ vadeyyuṁ: ‘ambho purisa, yaṁ tvaṁ janapadakalyāṇiṁ icchasi kāmesi, jānāsi taṁ janapadakalyāṇiṁ—khattiyī vā brāhmaṇī vā vessī vā suddī vā’ti? Iti puṭṭho ‘no’ti vadeyya. Tamenaṁ evaṁ vadeyyuṁ: ‘ambho purisa, yaṁ tvaṁ janapadakalyāṇiṁ icchasi kāmesi, jānāsi taṁ janapadakalyāṇiṁ—evaṁnāmā evaṅgottāti vāti …pe… dīghā vā rassā vā majjhimā vā kāḷī vā sāmā vā maṅguracchavī vāti … amukasmiṁ gāme vā nigame vā nagare vā’ti? Iti puṭṭho ‘no’ti vadeyya. Tamenaṁ evaṁ vadeyyuṁ: ‘ambho purisa, yaṁ tvaṁ na jānāsi na passasi, taṁ tvaṁ icchasi kāmesī’ti? Iti puṭṭho ‘āmā’ti vadeyya. {#10}
+"Nhưng *nguồn sáng* tối thượng đó là gì, mà không có *nguồn sáng* nào khác cao tột hơn hay thù thắng hơn nó?"
 
-Taṁ kiṁ maññasi, udāyi—nanu evaṁ sante, tassa purisassa appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti?
+"Kính bạch Thế Tôn, vì không có *nguồn sáng* nào khác cao tột hơn hay thù thắng hơn *nguồn sáng* đó, nên đó là *nguồn sáng* tối thượng."
 
-“Addhā kho, bhante, evaṁ sante tassa purisassa appāṭihīrakataṁ bhāsitaṁ sampajjatī”ti.
+10\. "Này Udāyi, ông có thể nói dông dài mãi: 'Kính bạch Thế Tôn, vì không có *nguồn sáng* nào khác cao tột hơn hay thù thắng hơn *nguồn sáng* đó, nên đó là *nguồn sáng* tối thượng', nhưng ông lại không chỉ ra được *nguồn sáng* đó là gì. Này Udāyi, giống như một người đàn ông nói: 'Tôi khao khát, tôi yêu mến người con gái đẹp nhất trong xứ này'. Người ta hỏi anh ta: 'Này anh bạn, người con gái đẹp nhất xứ mà anh khao khát, yêu mến đó, anh có biết cô ấy thuộc giai cấp Sát-đế-lỵ, Bà-la-môn, Phệ-xá hay Thủ-đà-la không?' Khi bị hỏi vậy, anh ta trả lời: 'Không'. Người ta lại hỏi: 'Này anh bạn, người con gái đẹp nhất xứ mà anh khao khát, yêu mến đó, anh có biết cô ấy tên gì, họ gì không... [...lặp lại...] cô ấy cao, lùn, hay bậc trung; da đen, da ngăm, hay da sáng... cô ấy ở làng nào, thị trấn nào, hay thành phố nào không?' Khi bị hỏi vậy, anh ta trả lời: 'Không'. Người ta liền nói: 'Này anh bạn, người mà anh không biết, không thấy, anh lại khao khát và yêu mến sao?' Khi bị hỏi vậy, anh ta trả lời: 'Đúng vậy'. {#10}
 
-“Evameva kho tvaṁ, udāyi, ‘yasmā, bhante, vaṇṇā añño vaṇṇo uttaritaro vā paṇītataro vā natthi so paramo vaṇṇo’ti vadesi, tañca vaṇṇaṁ na paññapesī”ti.
+Ông nghĩ sao, này Udāyi — nếu sự việc là như vậy, thì lời nói của người đàn ông đó chẳng phải là vô căn cứ sao?"
 
-11\. “Seyyathāpi, bhante, maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato paṇḍukambale nikkhitto bhāsate ca tapate ca virocati ca, evaṁ vaṇṇo attā hoti arogo paraṁ maraṇā”ti. {#11}
+"Chắc chắn là như vậy, bạch Thế Tôn, nếu sự việc là như vậy, thì lời nói của người đàn ông đó là vô căn cứ."
 
-12\. “Taṁ kiṁ maññasi, udāyi, yo vā maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakato paṇḍukambale nikkhitto bhāsate ca tapate ca virocati ca, yo vā rattandhakāratimisāya kimi khajjopanako—imesaṁ ubhinnaṁ vaṇṇānaṁ katamo vaṇṇo abhikkantataro ca paṇītataro cā”ti? {#12}
+"Cũng đúng như vậy, này Udāyi, ông nói: 'Kính bạch Thế Tôn, vì không có *nguồn sáng* nào khác cao tột hơn hay thù thắng hơn *nguồn sáng* đó, nên đó là *nguồn sáng* tối thượng', nhưng ông lại không chỉ ra được *nguồn sáng* đó là gì."
 
-“Yvāyaṁ, bhante, rattandhakāratimisāya kimi khajjopanako—ayaṁ imesaṁ ubhinnaṁ vaṇṇānaṁ abhikkantataro ca paṇītataro cā”ti.
+11\. "Kính bạch Thế Tôn, giống như một viên ngọc bích tuyệt đẹp, chính gốc, có tám mặt, được mài giũa khéo léo, đặt trên tấm thảm len màu vàng nhạt, nó tỏa sáng, lấp lánh và rực rỡ; bản ngã sau khi chết cũng có *nguồn sáng* như vậy, hoàn toàn khỏe mạnh." {#11}
 
-13\. “Taṁ kiṁ maññasi, udāyi, yo vā rattandhakāratimisāya kimi khajjopanako, yo vā rattandhakāratimisāya telappadīpo—imesaṁ ubhinnaṁ vaṇṇānaṁ katamo vaṇṇo abhikkantataro ca paṇītataro cā”ti? {#13}
+12\. "Ông nghĩ sao, này Udāyi, một viên ngọc bích tuyệt đẹp, chính gốc, có tám mặt, được mài giũa khéo léo, đặt trên tấm thảm len màu vàng nhạt, tỏa sáng, lấp lánh và rực rỡ, so với một con đom đóm trong đêm tối mịt mù — giữa hai *nguồn sáng* này, *nguồn sáng* nào đẹp đẽ hơn và thù thắng hơn?" {#12}
 
-“Yvāyaṁ, bhante, rattandhakāratimisāya telappadīpo—ayaṁ imesaṁ ubhinnaṁ vaṇṇānaṁ abhikkantataro ca paṇītataro cā”ti.
+"Kính bạch Thế Tôn, con đom đóm trong đêm tối mịt mù — giữa hai *nguồn sáng* này, con đom đóm đẹp đẽ hơn và thù thắng hơn."
 
-14\. “Taṁ kiṁ maññasi, udāyi, yo vā rattandhakāratimisāya telappadīpo, yo vā rattandhakāratimisāya mahāaggikkhandho—imesaṁ ubhinnaṁ vaṇṇānaṁ katamo vaṇṇo abhikkantataro ca paṇītataro cā”ti? {#14}
+13\. "Ông nghĩ sao, này Udāyi, một con đom đóm trong đêm tối mịt mù, so với một ngọn đèn dầu trong đêm tối mịt mù — giữa hai *nguồn sáng* này, *nguồn sáng* nào đẹp đẽ hơn và thù thắng hơn?" {#13}
 
-“Yvāyaṁ, bhante, rattandhakāratimisāya mahāaggikkhandho—ayaṁ imesaṁ ubhinnaṁ vaṇṇānaṁ abhikkantataro ca paṇītataro cā”ti.
+"Kính bạch Thế Tôn, ngọn đèn dầu trong đêm tối mịt mù — giữa hai *nguồn sáng* này, ngọn đèn dầu đẹp đẽ hơn và thù thắng hơn."
 
-15\. “Taṁ kiṁ maññasi, udāyi, yo vā rattandhakāratimisāya mahāaggikkhandho, yā vā rattiyā paccūsasamayaṁ viddhe vigatavalāhake deve osadhitārakā—imesaṁ ubhinnaṁ vaṇṇānaṁ katamo vaṇṇo abhikkantataro ca paṇītataro cā”ti? {#15}
+14\. "Ông nghĩ sao, này Udāyi, một ngọn đèn dầu trong đêm tối mịt mù, so với một đống lửa lớn trong đêm tối mịt mù — giữa hai *nguồn sáng* này, *nguồn sáng* nào đẹp đẽ hơn và thù thắng hơn?" {#14}
 
-“Yvāyaṁ, bhante, rattiyā paccūsasamayaṁ viddhe vigatavalāhake deve osadhitārakā—ayaṁ imesaṁ ubhinnaṁ vaṇṇānaṁ abhikkantataro ca paṇītataro cā”ti.
+"Kính bạch Thế Tôn, đống lửa lớn trong đêm tối mịt mù — giữa hai *nguồn sáng* này, đống lửa lớn đẹp đẽ hơn và thù thắng hơn."
 
-16\. “Taṁ kiṁ maññasi, udāyi, yā vā rattiyā paccūsasamayaṁ viddhe vigatavalāhake deve osadhitārakā, yo vā tadahuposathe pannarase viddhe vigatavalāhake deve abhido aḍḍharattasamayaṁ cando—imesaṁ ubhinnaṁ vaṇṇānaṁ katamo vaṇṇo abhikkantataro ca paṇītataro cā”ti? {#16}
+15\. "Ông nghĩ sao, này Udāyi, một đống lửa lớn trong đêm tối mịt mù, so với sao Mai lúc rạng đông, khi bầu trời quang đãng không mây — giữa hai *nguồn sáng* này, *nguồn sáng* nào đẹp đẽ hơn và thù thắng hơn?" {#15}
 
-“Yvāyaṁ, bhante, tadahuposathe pannarase viddhe vigatavalāhake deve abhido aḍḍharattasamayaṁ cando—ayaṁ imesaṁ ubhinnaṁ vaṇṇānaṁ abhikkantataro ca paṇītataro cā”ti.
+"Kính bạch Thế Tôn, sao Mai lúc rạng đông, khi bầu trời quang đãng không mây — giữa hai *nguồn sáng* này, sao Mai lúc rạng đông đẹp đẽ hơn và thù thắng hơn."
 
-17\. “Taṁ kiṁ maññasi, udāyi, yo vā tadahuposathe pannarase viddhe vigatavalāhake deve abhido aḍḍharattasamayaṁ cando, yo vā vassānaṁ pacchime māse saradasamaye viddhe vigatavalāhake deve abhido majjhanhikasamayaṁ sūriyo—imesaṁ ubhinnaṁ vaṇṇānaṁ katamo vaṇṇo abhikkantataro ca paṇītataro cā”ti? {#17}
+16\. "Ông nghĩ sao, này Udāyi, sao Mai lúc rạng đông, khi bầu trời quang đãng không mây, so với mặt trăng vào lúc nửa đêm ngày rằm Bố-tát, khi bầu trời quang đãng không mây — giữa hai *nguồn sáng* này, *nguồn sáng* nào đẹp đẽ hơn và thù thắng hơn?" {#16}
 
-“Yvāyaṁ, bhante, vassānaṁ pacchime māse saradasamaye viddhe vigatavalāhake deve abhido majjhanhikasamayaṁ sūriyo—ayaṁ imesaṁ ubhinnaṁ vaṇṇānaṁ abhikkantataro ca paṇītataro cā”ti.
+"Kính bạch Thế Tôn, mặt trăng vào lúc nửa đêm ngày rằm Bố-tát, khi bầu trời quang đãng không mây — giữa hai *nguồn sáng* này, mặt trăng vào lúc nửa đêm ngày rằm Bố-tát đẹp đẽ hơn và thù thắng hơn."
 
-18\. “Ato kho te, udāyi, bahū hi bahutarā devā ye imesaṁ candimasūriyānaṁ ābhā nānubhonti, tyāhaṁ pajānāmi. Atha ca panāhaṁ na vadāmi: ‘yasmā vaṇṇā añño vaṇṇo uttaritaro vā paṇītataro vā natthī’ti. Atha ca pana tvaṁ, udāyi, ‘yvāyaṁ vaṇṇo kiminā khajjopanakena nihīnataro ca patikiṭṭhataro ca so paramo vaṇṇo’ti vadesi, tañca vaṇṇaṁ na paññapesī”ti. {#18}
+17\. "Ông nghĩ sao, này Udāyi, mặt trăng vào lúc nửa đêm ngày rằm Bố-tát, khi bầu trời quang đãng không mây, so với mặt trời vào lúc giữa trưa tháng cuối mùa thu, khi bầu trời quang đãng không mây — giữa hai *nguồn sáng* này, *nguồn sáng* nào đẹp đẽ hơn và thù thắng hơn?" {#17}
 
-19\. “Acchidaṁ bhagavā kathaṁ, acchidaṁ sugato kathan”ti. {#19}
+"Kính bạch Thế Tôn, mặt trời vào lúc giữa trưa tháng cuối mùa thu, khi bầu trời quang đãng không mây — giữa hai *nguồn sáng* này, mặt trời vào lúc giữa trưa tháng cuối mùa thu đẹp đẽ hơn và thù thắng hơn."
 
-“Kiṁ pana tvaṁ, udāyi, evaṁ vadesi: ‘acchidaṁ bhagavā kathaṁ, acchidaṁ sugato kathan’”ti?
+18\. "Này Udāyi, có rất nhiều, rất nhiều chư thiên mà ánh sáng của mặt trăng và mặt trời này không thể chiếu tới được, Ta biết rõ họ. Nhưng Ta không nói: 'Không có *nguồn sáng* nào khác cao tột hơn hay thù thắng hơn *nguồn sáng* này'. Còn ông, này Udāyi, lại nói: '*nguồn sáng* này còn thấp kém và tồi tàn hơn cả một con đom đóm, đó là *nguồn sáng* tối thượng', nhưng ông lại không chỉ ra được *nguồn sáng* đó là gì." {#18}
 
-“Amhākaṁ, bhante, sake ācariyake evaṁ hoti: ‘ayaṁ paramo vaṇṇo, ayaṁ paramo vaṇṇo’ti. Te mayaṁ, bhante, bhagavatā sake ācariyake samanuyuñjīyamānā samanuggāhīyamānā samanubhāsīyamānā rittā tucchā aparaddhā”ti.
+<!--pg-->
+19\. "Thế Tôn đã cắt đứt câu chuyện, Thiện Thệ đã cắt đứt câu chuyện."[trong tôi] {#19}
 
-20\. “Kiṁ panudāyi, atthi ekantasukho loko, atthi ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti? {#20}
+"Nhưng này Udāyi, tại sao ông lại nói: 'Thế Tôn đã cắt đứt câu chuyện, Thiện Thệ đã cắt đứt câu chuyện'?"
 
-“Amhākaṁ, bhante, sake ācariyake evaṁ hoti: ‘atthi ekantasukho loko, atthi ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā’”ti.
+"Kính bạch Thế Tôn, trong học thuyết của vị thầy chúng con có nói như vầy: 'Đây là *nguồn sáng* tối thượng, đây là *nguồn sáng* tối thượng'. Nhưng khi bị Thế Tôn tra vấn, gạn hỏi và chất vấn về học thuyết của vị thầy mình, chúng con trở nên trống rỗng, hư vô và sai lầm."
 
-21\. “Katamā pana sā, udāyi, ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti? {#21}
+20\. "Nhưng này Udāyi, có một *thế giới hoàn toàn hạnh phúc* (nhất hướng lạc thế giới / ekantasukho loko) không, có một *con đường thực hành có phương pháp* (hữu tướng đạo tích / ākāravatī paṭipadā) để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó không?" {#20}
 
-“Idha, bhante, ekacco pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, adinnādānaṁ pahāya adinnādānā paṭivirato hoti, kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti, musāvādaṁ pahāya musāvādā paṭivirato hoti, aññataraṁ vā pana tapoguṇaṁ samādāya vattati. Ayaṁ kho sā, bhante, ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti.
+"Kính bạch Thế Tôn, trong học thuyết của vị thầy chúng con có nói như vầy: 'Có một *thế giới hoàn toàn hạnh phúc*, có một *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó'."
 
-22\. “Taṁ kiṁ maññasi, udāyi, yasmiṁ samaye pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti, ekantasukhī vā tasmiṁ samaye attā hoti sukhadukkhī vā”ti? {#22}
+21\. "Nhưng này Udāyi, *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó là gì?" {#21}
 
-“Sukhadukkhī, bhante”.
+"Ở đây, bạch Thế Tôn, có người từ bỏ việc giết hại và tránh xa việc giết hại, từ bỏ việc lấy của không cho và tránh xa việc lấy của không cho, từ bỏ hành vi sai trái trong tình dục và tránh xa hành vi sai trái trong tình dục, từ bỏ nói dối và tránh xa nói dối, hoặc thực hành một khổ hạnh nào đó. Kính bạch Thế Tôn, đây là *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó."
 
-“Taṁ kiṁ maññasi, udāyi, yasmiṁ samaye adinnādānaṁ pahāya adinnādānā paṭivirato hoti, ekantasukhī vā tasmiṁ samaye attā hoti sukhadukkhī vā”ti? “Sukhadukkhī, bhante”. “Taṁ kiṁ maññasi, udāyi, yasmiṁ samaye kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti, ekantasukhī vā tasmiṁ samaye attā hoti sukhadukkhī vā”ti? “Sukhadukkhī, bhante”. “Taṁ kiṁ maññasi, udāyi, yasmiṁ samaye musāvādaṁ pahāya musāvādā paṭivirato hoti, ekantasukhī vā tasmiṁ samaye attā hoti sukhadukkhī vā”ti?
+22\. "Ông nghĩ sao, này Udāyi, trong lúc người ấy từ bỏ việc giết hại và tránh xa việc giết hại, bản ngã của người ấy lúc đó hoàn toàn hạnh phúc, hay có cả hạnh phúc và đau khổ?" {#22}
 
-“Sukhadukkhī, bhante”.
+"Có cả hạnh phúc và đau khổ, bạch Thế Tôn".
 
-“Taṁ kiṁ maññasi, udāyi, yasmiṁ samaye aññataraṁ tapoguṇaṁ samādāya vattati, ekantasukhī vā tasmiṁ samaye attā hoti sukhadukkhī vā”ti?
+"Ông nghĩ sao, này Udāyi, trong lúc người ấy từ bỏ việc lấy của không cho và tránh xa việc lấy của không cho, bản ngã của người ấy lúc đó hoàn toàn hạnh phúc, hay có cả hạnh phúc và đau khổ?" "Có cả hạnh phúc và đau khổ, bạch Thế Tôn". "Ông nghĩ sao, này Udāyi, trong lúc người ấy từ bỏ hành vi sai trái trong tình dục và tránh xa hành vi sai trái trong tình dục, bản ngã của người ấy lúc đó hoàn toàn hạnh phúc, hay có cả hạnh phúc và đau khổ?" "Có cả hạnh phúc và đau khổ, bạch Thế Tôn". "Ông nghĩ sao, này Udāyi, trong lúc người ấy từ bỏ nói dối và tránh xa nói dối, bản ngã của người ấy lúc đó hoàn toàn hạnh phúc, hay có cả hạnh phúc và đau khổ?"
 
-“Sukhadukkhī, bhante”.
+"Có cả hạnh phúc và đau khổ, bạch Thế Tôn".
 
-“Taṁ kiṁ maññasi, udāyi, api nu kho vokiṇṇasukhadukkhaṁ paṭipadaṁ āgamma ekantasukhassa lokassa sacchikiriyā hotī”ti?
+"Ông nghĩ sao, này Udāyi, trong lúc người ấy thực hành một khổ hạnh nào đó, bản ngã của người ấy lúc đó hoàn toàn hạnh phúc, hay có cả hạnh phúc và đau khổ?"
 
-23\. “Acchidaṁ bhagavā kathaṁ, acchidaṁ sugato kathan”ti. {#23}
+"Có cả hạnh phúc và đau khổ, bạch Thế Tôn".
 
-“Kiṁ pana tvaṁ, udāyi, vadesi: ‘acchidaṁ bhagavā kathaṁ, acchidaṁ sugato kathan’”ti?
+"Ông nghĩ sao, này Udāyi, liệu có thể đi trên một con đường thực hành vừa mang hạnh phúc và mang đau khổ để chứng nghiệm trực tiếp  một *thế giới hoàn toàn hạnh phúc* không?" [1](/kinhtrungbo/pali-vi/sum/mn-sum-079#1){.note}
 
-“Amhākaṁ, bhante, sake ācariyake evaṁ hoti: ‘atthi ekantasukho loko, atthi ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā’ti. Te mayaṁ, bhante, bhagavatā sake ācariyake samanuyuñjiyamānā samanuggāhiyamānā samanubhāsiyamānā rittā tucchā aparaddhā”ti.
+<!--pg-->
+23\. "Thế Tôn đã cắt đứt câu chuyện, Thiện Thệ đã cắt đứt câu chuyện."[trong tôi] {#23}
 
-“Kiṁ pana, bhante, atthi ekantasukho loko, atthi ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti?
+"Nhưng này Udāyi, tại sao ông lại nói: 'Thế Tôn đã cắt đứt câu chuyện, Thiện Thệ đã cắt đứt câu chuyện'?"
 
-24\. “Atthi kho, udāyi, ekantasukho loko, atthi ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti. {#24}
+"Kính bạch Thế Tôn, trong học thuyết của vị thầy chúng con có nói như vầy: 'Có một *thế giới hoàn toàn hạnh phúc*, có một *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó'. Nhưng khi bị Thế Tôn tra vấn, gạn hỏi và chất vấn về học thuyết của vị thầy mình, chúng con trở nên trống rỗng, hư vô và sai lầm."
 
-“Katamā pana sā, bhante, ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti?
+"Nhưng kính bạch Thế Tôn, có một *thế giới hoàn toàn hạnh phúc* không, có một *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó không?"
 
-25\. “Idhudāyi, bhikkhu vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati; vitakkavicārānaṁ vūpasamā …pe… dutiyaṁ jhānaṁ upasampajja viharati; pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharati—ayaṁ kho sā, udāyi, ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti. {#25}
+24\. "Có chứ Udāyi, có một *thế giới hoàn toàn hạnh phúc*, có một *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó." {#24}
 
-“Na kho sā, bhante, ākāravatī paṭipadā ekantasukhassa lokassa sacchikiriyāya, sacchikato hissa, bhante, ettāvatā ekantasukho loko hotī”ti.
+"Nhưng kính bạch Thế Tôn, *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó là gì?"
 
-“Na khvāssa, udāyi, ettāvatā ekantasukho loko sacchikato hoti; ākāravatī tveva sā paṭipadā ekantasukhassa lokassa sacchikiriyāyā”ti.
+25\. "Ở đây, này Udāyi, tỳ kheo *rời bỏ khỏi* (ly / vivicca) các *bản năng* (dục / kāmehi) [...lặp lại...] đạt được và an trú trong *Thiền-na* (thiền / jhāna) thứ nhất; do *lắng dịu* *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (tầm tứ / vitakkavicārānaṁ) [...lặp lại...] đạt được và an trú trong *Thiền-na* thứ hai; do *cạn hết đắm nhiễm* (ly tham / virāgā) với *hân hoan* (hỷ / pītiyā) [...lặp lại...] đạt được và an trú trong *Thiền-na* thứ ba — này Udāyi, đây là *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* đó." {#25}
 
-26\. Evaṁ vutte, sakuludāyissa paribbājakassa parisā unnādinī uccāsaddamahāsaddā ahosi: “ettha mayaṁ anassāma sācariyakā, ettha mayaṁ anassāma sācariyakā. Na mayaṁ ito bhiyyo uttaritaraṁ pajānāmā”ti. {#26}
+"Kính bạch Thế Tôn, đó không phải là *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc*, mà đến mức độ đó, *thế giới hoàn toàn hạnh phúc* đã được trực tiếp chứng nghiệm rồi." [2](/kinhtrungbo/pali-vi/sum/mn-sum-079#2){.note}
 
-Atha kho sakuludāyī paribbājako te paribbājake appasadde katvā bhagavantaṁ etadavoca: “kittāvatā panāssa, bhante, ekantasukho loko sacchikato hotī”ti?
+"Này Udāyi, đến mức độ đó *thế giới hoàn toàn hạnh phúc* chưa được trực tiếp chứng nghiệm; đó chỉ là *con đường thực hành có phương pháp* để trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* mà thôi."
 
-27\. “Idhudāyi, bhikkhu sukhassa ca pahānā …pe… catutthaṁ jhānaṁ … upasampajja viharati. Yā tā devatā ekantasukhaṁ lokaṁ upapannā tāhi devatāhi saddhiṁ santiṭṭhati sallapati sākacchaṁ samāpajjati. Ettāvatā khvāssa, udāyi, ekantasukho loko sacchikato hotī”ti. {#27}
+26\. Khi được nói như vậy, hội chúng của du sĩ Sakuludāyī trở nên ồn ào, lớn tiếng, ầm ĩ: "Đến đây thì chúng ta mất đi vị thầy của mình, đến đây thì chúng ta mất đi vị thầy của mình. Chúng ta không biết điều gì cao tột hơn thế này nữa". {#26}
 
-28\. “Etassa nūna, bhante, ekantasukhassa lokassa sacchikiriyāhetu bhikkhū bhagavati brahmacariyaṁ carantī”ti? {#28}
+Rồi du sĩ Sakuludāyī yêu cầu các du sĩ im lặng và thưa với Thế Tôn: "Kính bạch Thế Tôn, vậy đến mức độ nào thì *thế giới hoàn toàn hạnh phúc* được trực tiếp chứng nghiệm?"
 
-“Na kho, udāyi, ekantasukhassa lokassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti. Atthi kho, udāyi, aññeva dhammā uttaritarā ca paṇītatarā ca, yesaṁ sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ carantī”ti.
+27\. "Ở đây, này Udāyi, tỳ kheo do từ bỏ *hạnh phúc* (lạc / sukhassa) [...lặp lại...] đạt được và an trú trong *Thiền-na* thứ tư. Những chư thiên nào đã tái sinh vào *thế giới hoàn toàn hạnh phúc*, vị ấy đứng cùng, nói chuyện và đàm đạo với những chư thiên đó. Này Udāyi, đến mức độ này thì *thế giới hoàn toàn hạnh phúc* được trực tiếp chứng nghiệm." {#27}
 
-“Katame pana te, bhante, dhammā uttaritarā ca paṇītatarā ca yesaṁ sacchikiriyāhetu bhikkhū bhagavati brahmacariyaṁ carantī”ti?
+28\. "Kính bạch Thế Tôn, có phải vì mục đích trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* này mà các tỳ kheo sống *đời sống thánh thiện* (phạm hạnh / brahmacariya) dưới sự hướng dẫn của Thế Tôn không?" {#28}
 
-29-36\. “Idhudāyi, tathāgato loke uppajjati arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā …pe…
+"Này Udāyi, không phải vì mục đích trực tiếp chứng nghiệm *thế giới hoàn toàn hạnh phúc* này mà các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Ta. Này Udāyi, còn có những *Giáo pháp* khác cao tột hơn và thù thắng hơn, mà vì mục đích trực tiếp chứng nghiệm chúng, các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Ta."
 
-37\. so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati. Ayampi kho, udāyi, dhammo uttaritaro ca paṇītataro ca yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti. {#37}
+"Kính bạch Thế Tôn, những *Giáo pháp* cao tột hơn và thù thắng hơn đó là gì, mà vì mục đích trực tiếp chứng nghiệm chúng, các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn?"
 
-38-40\. Puna caparaṁ, udāyi, bhikkhu vitakkavicārānaṁ vūpasamā … dutiyaṁ jhānaṁ … tatiyaṁ jhānaṁ … catutthaṁ jhānaṁ upasampajja viharati. Ayampi kho, udāyi, dhammo uttaritaro ca paṇītataro ca yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti.
+29-36\. "Ở đây, này Udāyi, *Người Đến Như Vậy* (Như Lai / tathāgato) xuất hiện ở đời, là bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn [...lặp lại...]
 
-41\. So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmeti. So anekavihitaṁ pubbenivāsaṁ anussarati, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarati. Ayampi kho, udāyi, dhammo uttaritaro ca paṇītataro ca yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti. {#41}
+37\. Vị ấy sau khi từ bỏ *năm điều làm mờ yếu tâm trí* (ngũ triền cái / pañca nīvaraṇe) này, những thứ làm ô nhiễm tâm và làm suy yếu trí tuệ, *rời bỏ khỏi* các *bản năng* [...lặp lại...] đạt được và an trú trong *Thiền-na* thứ nhất. Này Udāyi, đây cũng là một *Giáo pháp* cao tột hơn và thù thắng hơn, mà vì mục đích trực tiếp chứng nghiệm nó, các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Ta. {#37}
 
-42\. So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmeti. So dibbena cakkhunā visuddhena atikkantamānusakena satte passati cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate …pe… yathākammūpage satte pajānāti. Ayampi kho, udāyi, dhammo uttaritaro ca paṇītataro ca yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti. {#42}
+38-40\. Lại nữa, này Udāyi, tỳ kheo do *lắng dịu* *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*... đạt được *Thiền-na* thứ hai... *Thiền-na* thứ ba... *Thiền-na* thứ tư. Này Udāyi, đây cũng là một *Giáo pháp* cao tột hơn và thù thắng hơn, mà vì mục đích trực tiếp chứng nghiệm nó, các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Ta.
 
-43\. So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmeti. So ‘idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti …pe… ‘ayaṁ dukkhanirodho’ti … ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti, ‘ime āsavā’ti yathābhūtaṁ pajānāti, ‘ayaṁ āsavasamudayo’ti … ‘ayaṁ āsavanirodho’ti … ‘ayaṁ āsavanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti. {#43}
+41\. Với tâm định tĩnh, thanh tịnh, trong sáng, không tì vết, thoát khỏi ô nhiễm, nhu nhuyễn, dễ sử dụng, vững chắc và đạt đến sự bất động như vậy, vị ấy hướng tâm đến trí tuệ nhớ lại nhiều đời sống quá khứ. Vị ấy nhớ lại nhiều đời sống quá khứ, cụ thể là — một đời, hai đời [...lặp lại...] nhớ lại nhiều đời sống quá khứ cùng với các nét đại cương và chi tiết. Này Udāyi, đây cũng là một *Giáo pháp* cao tột hơn và thù thắng hơn, mà vì mục đích trực tiếp chứng nghiệm nó, các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Ta. {#41}
 
-44\. Tassa evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccati, bhavāsavāpi cittaṁ vimuccati, avijjāsavāpi cittaṁ vimuccati. Vimuttasmiṁ vimuttamiti ñāṇaṁ hoti. {#44}
+42\. Với tâm định tĩnh, thanh tịnh, trong sáng, không tì vết, thoát khỏi ô nhiễm, nhu nhuyễn, dễ sử dụng, vững chắc và đạt đến sự bất động như vậy, vị ấy hướng tâm đến trí tuệ về sự chết đi và sinh lại của chúng sinh. Với *mắt thần* thanh tịnh siêu nhiên, vị ấy thấy chúng sinh chết đi và sinh lại, kẻ hạ liệt người cao quý, kẻ đẹp đẽ người xấu xa, kẻ sinh vào cõi lành người sinh vào cõi dữ [...lặp lại...] nhận biết rõ chúng sinh tùy theo hành động [của họ]. Này Udāyi, đây cũng là một *Giáo pháp* cao tột hơn và thù thắng hơn, mà vì mục đích trực tiếp chứng nghiệm nó, các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Ta. {#42}
 
-‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāti. Ayampi kho, udāyi, dhammo uttaritaro ca paṇītataro ca yassa sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ caranti. Ime kho, udāyi, dhammā uttaritarā ca paṇītatarā ca yesaṁ sacchikiriyāhetu bhikkhū mayi brahmacariyaṁ carantī”ti.
+43\. Với tâm định tĩnh, thanh tịnh, trong sáng, không tì vết, thoát khỏi ô nhiễm, nhu nhuyễn, dễ sử dụng, vững chắc và đạt đến sự bất động như vậy, vị ấy hướng tâm đến trí tuệ về sự *cạn kiệt* (đoạn tận / khaya) các *nguồn ác* (lậu hoặc / āsavānaṁ). Vị ấy biết rõ như thật: 'Đây là *đau khổ* (khổ / dukkha)', biết rõ như thật: 'Đây là sự *hình thành* (tập / samudayo) của *đau khổ*' [...lặp lại...] biết rõ như thật: 'Đây là sự *chấm dứt* (diệt / nirodho) *đau khổ*'... 'Đây là con đường đưa đến sự *chấm dứt* *đau khổ*'; vị ấy biết rõ như thật: 'Đây là các *nguồn ác*', biết rõ như thật: 'Đây là sự *hình thành* của các *nguồn ác*'... 'Đây là sự *chấm dứt* các *nguồn ác*'... 'Đây là con đường đưa đến sự *chấm dứt* các *nguồn ác*'. {#43}
 
-45\. Evaṁ vutte, sakuludāyī paribbājako bhagavantaṁ etadavoca: “abhikkantaṁ, bhante, abhikkantaṁ, bhante. Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Labheyyāhaṁ, bhante, bhagavato santike pabbajjaṁ, labheyyaṁ upasampadan”ti. {#45}
+44\. Nhờ biết như vậy, thấy như vậy, tâm vị ấy được giải thoát khỏi *nguồn ác của bản năng* (dục lậu / kāmāsavā), tâm được giải thoát khỏi *nguồn ác của mong muốn hiện hữu* (hữu lậu / bhavāsavā), tâm được giải thoát khỏi *nguồn ác của Không Hiểu Biết* (vô minh lậu / avijjāsavā). Khi đã được giải thoát, khởi lên sự hiểu biết rằng [mình] đã được giải thoát. {#44}
 
-46\. Evaṁ vutte, sakuludāyissa paribbājakassa parisā sakuludāyiṁ paribbājakaṁ etadavocuṁ: “mā bhavaṁ, udāyi, samaṇe gotame brahmacariyaṁ cari; mā bhavaṁ, udāyi, ācariyo hutvā antevāsīvāsaṁ vasi. Seyyathāpi nāma udakamaṇiko hutvā udañcaniko assa, evaṁ sampadamidaṁ bhoto udāyissa bhavissati. Mā bhavaṁ, udāyi, samaṇe gotame brahmacariyaṁ cari; mā bhavaṁ, udāyi, ācariyo hutvā antevāsīvāsaṁ vasī”ti. Iti hidaṁ sakuludāyissa paribbājakassa parisā sakuludāyiṁ paribbājakaṁ antarāyamakāsi bhagavati brahmacariyeti. {#46}
+Vị ấy biết rõ: 'Sự *Tái sinh* (sinh / jāti) đã *cạn kiệt*, *đời sống thánh thiện* đã được hoàn thành, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa'. Này Udāyi, đây cũng là một *Giáo pháp* cao tột hơn và thù thắng hơn, mà vì mục đích trực tiếp chứng nghiệm nó, các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Ta. Này Udāyi, đây là những *Giáo pháp* cao tột hơn và thù thắng hơn, mà vì mục đích trực tiếp chứng nghiệm chúng, các tỳ kheo sống *đời sống thánh thiện* dưới sự hướng dẫn của Ta."
 
-Cūḷasakuludāyisuttaṁ niṭṭhitaṁ navamaṁ.
+45\. Khi được nói như vậy, du sĩ Sakuludāyī thưa với Thế Tôn: "Thật tuyệt vời, bạch Thế Tôn! Thật tuyệt vời, bạch Thế Tôn! Kính bạch Thế Tôn, giống như người dựng đứng lại những gì bị quăng ngã sấp, phơi bày ra những gì bị che kín, chỉ đường cho người bị lạc lối, hay đem ngọn đèn dầu vào trong bóng tối để những ai có mắt có thể thấy được hình sắc; cũng vậy, *Giáo pháp* đã được Thế Tôn làm sáng tỏ qua nhiều phương tiện. Kính bạch Thế Tôn, con xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng chúng. Kính bạch Thế Tôn, xin cho con được xuất gia dưới sự hướng dẫn của Thế Tôn, xin cho con được thọ cụ túc giới." {#45}
+
+46\. Khi ông nói như vậy, hội chúng của du sĩ Sakuludāyī liền nói với du sĩ Sakuludāyī: "Tôn giả Udāyi đừng sống *đời sống thánh thiện* dưới sự hướng dẫn của Sa-môn Gotama; Tôn giả Udāyi đã là một vị thầy, đừng sống như một người học trò. Giống như từ một cái chum nước lại trở thành cái gáo múc nước, sự việc này của Tôn giả Udāyi cũng sẽ giống như vậy. Tôn giả Udāyi đừng sống *đời sống thánh thiện* dưới sự hướng dẫn của Sa-môn Gotama; Tôn giả Udāyi đã là một vị thầy, đừng sống như một người học trò". 
+
+Bằng cách này, hội chúng của du sĩ Sakuludāyī đã tạo ra chướng ngại, ngăn cản du sĩ Sakuludāyī sống *đời sống thánh thiện* dưới sự hướng dẫn của Thế Tôn. {#46}
+
+Kinh Tiểu Sakuludāyi, thứ chín, kết thúc.
