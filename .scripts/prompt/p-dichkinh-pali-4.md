@@ -403,23 +403,27 @@ phàm phu; tỳ kheo; nhiệt tâm (ātāpī); tính hình thành (samudayadhamm
 - `ajjhattameva cittaṁ saṇṭhapemi sannisādemi ekodiṁ karomi samādahāmi`
 -> `[không còn sự suy tư] tâm ở bên trong (đưa tâm trở về nội tâm) trở nên lắng đọng, tâm hợp làm một và được an tịnh`
 
-- ```
+Ví dụ dài:
+
+<input>
 “Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.
 
 Katame cattāro? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
-```
+</input>
+
 ->
 
-```
+<output>
 "Này các tỳ kheo, đây là *con đường trực tiếp* [để] thanh lọc chúng sinh, vượt qua sầu não và than khóc, dẫn đến sự biến mất *đau khổ* và *ưu phiền* , là phương pháp đúng đắn, *trực tiếp chứng nghiệm*  Niết-bàn, đó là *bốn nơi chú tâm*.
 
 Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát thân qua thân của mình*, nhiệt tâm, *nhận biết rõ ràng* , *tập trung chú ý* [để] *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát cảm giác qua cảm giác của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* [để] *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát tâm qua tâm của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy *sống quan sát các hiện tượng*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* *loại bỏ* *lòng tham* và *ưu phiền* ở đời.
-```
+</output>
 
-# VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
+## VÍ DỤ MINH HỌA (FEW-SHOT EXAMPLE)
 
 ### Input (Văn bản gốc):
 <input>
+
 # Dasuttarasutta
 
 ## 1. Eko dhammo

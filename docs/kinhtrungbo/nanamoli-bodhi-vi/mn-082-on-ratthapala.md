@@ -47,11 +47,11 @@ Lần thứ hai... Lần thứ ba, bạn bè anh nói với anh: "Bạn Raṭṭ
 
 Sau đó, bạn bè của thanh niên Raṭṭhapāla đến gặp anh và nói với anh: "Dậy đi, bạn Raṭṭhapāla. Cha mẹ bạn cho phép bạn xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Nhưng khi đã xuất gia, bạn phải về thăm cha mẹ."
 
-12\. Thanh niên Raṭṭhapāla sau đó đứng dậy, và khi đã lấy lại sức, anh đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, anh ngồi xuống một bên và thưa với Ngài: "Bạch ngài, con đã được cha mẹ cho phép xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Xin Đức Thế Tôn cho con được xuất gia." Sau đó, thanh niên Raṭṭhapāla đã được xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và anh đã nhận được cụ túc giới. [^796] {#12}
+12\. Thanh niên Raṭṭhapāla sau đó đứng dậy, và khi đã lấy lại sức, anh đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, anh ngồi xuống một bên và thưa với Ngài: "Bạch ngài, con đã được cha mẹ cho phép xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Xin Đức Thế Tôn cho con được xuất gia." Sau đó, thanh niên Raṭṭhapāla đã được xuất gia dưới sự hướng dẫn của Đức Thế Tôn, và anh đã nhận được cụ túc giới. [796](/kinhtrungbo/nanamoli-bodhi-vi/notes/082#796){.note}{#12}
 
 13\. Rồi không lâu sau khi tôn giả Raṭṭhapāla nhận cụ túc giới, nửa tháng sau khi nhận cụ túc giới, Đức Thế Tôn, sau khi ở lại Thullakoṭṭhita bao lâu tùy ý, đã lên đường du hành về Xá-vệ (Sāvatthī). Đi qua nhiều chặng đường, cuối cùng Ngài đến Xá-vệ, và ở đó [61] Ngài trú tại Xá-vệ trong Vườn Kỳ-đà (Jeta's Grove), Công viên của ông Cấp Cô Độc (Anāthapiṇḍika's Park). {#13}
 
-14\. Không bao lâu sau, sống một mình, ẩn dật, tinh tấn, nhiệt tâm, và quyết chí, tôn giả Raṭṭhapāla, bằng cách tự mình chứng ngộ với thắng trí, ngay tại đây và bây giờ đã đạt đến và an trú trong mục đích tối thượng của đời sống phạm hạnh (supreme goal of the holy life - brahmacariya-pariyosāna - thường chỉ Niết Bàn, sự chấm dứt khổ đau) mà vì đó các thiện nam tử chân chính xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. [^797] Ngài biết rõ: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa." Và tôn giả Raṭṭhapāla đã trở thành một trong các vị A-la-hán. {#14}
+14\. Không bao lâu sau, sống một mình, ẩn dật, tinh tấn, nhiệt tâm, và quyết chí, tôn giả Raṭṭhapāla, bằng cách tự mình chứng ngộ với thắng trí, ngay tại đây và bây giờ đã đạt đến và an trú trong mục đích tối thượng của đời sống phạm hạnh (supreme goal of the holy life - brahmacariya-pariyosāna - thường chỉ Niết Bàn, sự chấm dứt khổ đau) mà vì đó các thiện nam tử chân chính xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. [797](/kinhtrungbo/nanamoli-bodhi-vi/notes/082#797){.note}Ngài biết rõ: "Sanh đã tận, phạm hạnh đã thành, việc cần làm đã làm, không còn trở lui trạng thái này nữa." Và tôn giả Raṭṭhapāla đã trở thành một trong các vị A-la-hán. {#14}
 
 15\. Sau đó, tôn giả Raṭṭhapāla đến gặp Đức Thế Tôn, sau khi đảnh lễ Ngài, ngài ngồi xuống một bên và thưa với Ngài: "Bạch ngài, con muốn về thăm cha mẹ, nếu được Đức Thế Tôn cho phép." {#15}
 
@@ -61,7 +61,7 @@ Lúc đó, Đức Thế Tôn dùng tâm thấu suốt những suy nghĩ trong t�
 
 17\. Lúc đó, cha của tôn giả Raṭṭhapāla đang ngồi ở sảnh cửa chính để sửa tóc. Khi thấy tôn giả Raṭṭhapāla đi tới từ xa, ông nói: "Đứa con trai duy nhất, thân thương và yêu dấu của chúng ta, đã bị những kẻ sa-môn đầu trọc này dụ dỗ xuất gia." [62] Sau đó, tại nhà của cha mình, tôn giả Raṭṭhapāla không nhận được thức ăn cúng dường cũng không nhận được lời từ chối lịch sự; thay vào đó, ngài chỉ nhận được lời mắng nhiếc. {#17}
 
-18\. Ngay lúc đó, một nữ tỳ thuộc họ hàng của ngài đang chuẩn bị đổ bỏ ít cháo cũ. [^798] Thấy vậy, tôn giả Raṭṭhapāla nói với cô: "Này chị, nếu thứ đó sắp đổ đi, thì hãy đổ vào bát của tôi đây." {#18}
+18\. Ngay lúc đó, một nữ tỳ thuộc họ hàng của ngài đang chuẩn bị đổ bỏ ít cháo cũ. [798](/kinhtrungbo/nanamoli-bodhi-vi/notes/082#798){.note}Thấy vậy, tôn giả Raṭṭhapāla nói với cô: "Này chị, nếu thứ đó sắp đổ đi, thì hãy đổ vào bát của tôi đây." {#18}
 
 Trong khi đổ cháo, cô nhận ra những đặc điểm quen thuộc trên bàn tay, bàn chân và giọng nói của ngài. Sau đó, cô đến gặp mẹ ngài và nói: "Xin thưa bà chủ, cậu chủ Raṭṭhapāla đã về."
 
@@ -69,7 +69,7 @@ Trong khi đổ cháo, cô nhận ra những đặc điểm quen thuộc trên b
 
 Sau đó, mẹ của tôn giả Raṭṭhapāla đến gặp cha ngài và nói: "Xin thưa gia chủ, người ta nói rằng thanh niên Raṭṭhapāla đã về."
 
-19\. Ngay lúc đó, tôn giả Raṭṭhapāla đang ăn cháo cũ bên bức tường của một mái che nào đó. Cha ngài đến gặp ngài và nói: "Raṭṭhapāla, con yêu quý, chắc chắn là có... mà con lại ăn cháo cũ! [^799] Chẳng lẽ con không có nhà riêng để về sao?" {#19}
+19\. Ngay lúc đó, tôn giả Raṭṭhapāla đang ăn cháo cũ bên bức tường của một mái che nào đó. Cha ngài đến gặp ngài và nói: "Raṭṭhapāla, con yêu quý, chắc chắn là có... mà con lại ăn cháo cũ! [799](/kinhtrungbo/nanamoli-bodhi-vi/notes/082#799){.note}Chẳng lẽ con không có nhà riêng để về sao?" {#19}
 
 "Làm sao chúng con có nhà được, thưa gia chủ, khi chúng con đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa? Chúng con là những người không nhà, thưa gia chủ. Chúng con đã đến [63] nhà của ông, nhưng không nhận được thức ăn cúng dường cũng không nhận được lời từ chối lịch sự; thay vào đó chúng con chỉ nhận được lời mắng nhiếc."
 
@@ -99,7 +99,7 @@ Sau đó, mẹ của tôn giả Raṭṭhapāla đến gặp cha ngài và nói:
 
 Sau đó, cha của tôn giả Raṭṭhapāla tự tay dọn và mời ngài dùng các loại thức ăn ngon. Khi tôn giả Raṭṭhapāla đã ăn xong và rút tay khỏi bát, ngài đứng dậy và đọc những câu kệ này:
 
-25\. "Hãy nhìn hình hài được tô điểm này, [^800] {#25}
+25\. "Hãy nhìn hình hài được tô điểm này, [800](/kinhtrungbo/nanamoli-bodhi-vi/notes/082#800){.note}{#25}
 Một thân thể được tạo thành từ vết thương,
 Bệnh tật, một đối tượng đáng lo ngại,
 Nơi không có sự ổn định nào tồn tại.
@@ -131,7 +131,7 @@ Chúng ta đã ăn mồi và giờ ra đi
 
 26\. Sau khi tôn giả Raṭṭhapāla đứng dậy và đọc những câu kệ này, ngài đi đến vườn Migācīra của Vua Koravya và ngồi xuống dưới gốc cây để an trú ban ngày. {#26}
 
-27\. Sau đó, Vua Koravya nói với người quản vườn của mình: "Này người quản vườn tốt bụng, hãy dọn dẹp Vườn Migācīra để chúng ta có thể đến khu vườn thượng uyển ngắm cảnh đẹp." - "Tâu bệ hạ, vâng ạ," ông ta trả lời. Trong khi đang dọn dẹp Vườn Migācīra, người quản vườn thấy tôn giả Raṭṭhapāla đang ngồi dưới gốc cây để an trú ban ngày. Khi thấy ngài, ông đến gặp Vua Koravya và báo: "Tâu bệ hạ, Vườn Migācīra đã được dọn dẹp xong. Thanh niên Raṭṭhapāla đang ở đó, con trai của gia tộc hàng đầu tại chính Thullakoṭṭhita này, người mà bệ hạ luôn ca ngợi; [^801] ngài đang ngồi dưới gốc cây để an trú ban ngày." {#27}
+27\. Sau đó, Vua Koravya nói với người quản vườn của mình: "Này người quản vườn tốt bụng, hãy dọn dẹp Vườn Migācīra để chúng ta có thể đến khu vườn thượng uyển ngắm cảnh đẹp." - "Tâu bệ hạ, vâng ạ," ông ta trả lời. Trong khi đang dọn dẹp Vườn Migācīra, người quản vườn thấy tôn giả Raṭṭhapāla đang ngồi dưới gốc cây để an trú ban ngày. Khi thấy ngài, ông đến gặp Vua Koravya và báo: "Tâu bệ hạ, Vườn Migācīra đã được dọn dẹp xong. Thanh niên Raṭṭhapāla đang ở đó, con trai của gia tộc hàng đầu tại chính Thullakoṭṭhita này, người mà bệ hạ luôn ca ngợi; [801](/kinhtrungbo/nanamoli-bodhi-vi/notes/082#801){.note}ngài đang ngồi dưới gốc cây để an trú ban ngày." {#27}
 
 "Vậy thì, Migava tốt bụng, hôm nay đủ rồi với khu vườn thượng uyển. Bây giờ chúng ta sẽ đến để tỏ lòng kính trọng với Tôn giả Raṭṭhapāla đó."
 
@@ -155,9 +155,9 @@ Vua Koravya ngồi xuống chỗ đã soạn sẵn và nói:
 
 35\. "Tâu Đại vương, có bốn điểm tóm tắt Giáo Pháp đã được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác giảng dạy. Biết, thấy và nghe chúng, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. Bốn điểm đó là gì? {#35}
 
-36\. (1) "'[Đời sống trong] bất kỳ thế giới nào cũng không bền vững, bị cuốn đi' (['Life in] any world is unstable, it is swept away' - Addhuvo loko upanīyati - thế giới không chắc chắn, luôn bị dẫn đến sự hoại diệt): [^802] đây là điểm tóm tắt Giáo Pháp đầu tiên được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác giảng dạy. Biết, thấy và nghe điều này, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. {#36}
+36\. (1) "'[Đời sống trong] bất kỳ thế giới nào cũng không bền vững, bị cuốn đi' (['Life in] any world is unstable, it is swept away' - Addhuvo loko upanīyati - thế giới không chắc chắn, luôn bị dẫn đến sự hoại diệt): [802](/kinhtrungbo/nanamoli-bodhi-vi/notes/082#802){.note}đây là điểm tóm tắt Giáo Pháp đầu tiên được Đức Thế Tôn, bậc Biết và Thấy, bậc Ứng Cúng và Chánh Đẳng Giác giảng dạy. Biết, thấy và nghe điều này, tôi đã xuất gia từ bỏ đời sống gia đình, sống không nhà cửa. {#36}
 
-(2) "'[Đời sống trong] bất kỳ thế giới nào cũng không có nơi nương tựa, không có người bảo vệ' (['Life in] any world has no shelter and no protector' - Atāṇo loko anabhissaro - thế giới không có sự che chở, không có người làm chủ): [^803] đây là điểm tóm tắt Giáo Pháp thứ hai được Đức Thế Tôn, bậc Biết và Thấy... giảng dạy.
+(2) "'[Đời sống trong] bất kỳ thế giới nào cũng không có nơi nương tựa, không có người bảo vệ' (['Life in] any world has no shelter and no protector' - Atāṇo loko anabhissaro - thế giới không có sự che chở, không có người làm chủ): [803](/kinhtrungbo/nanamoli-bodhi-vi/notes/082#803){.note}đây là điểm tóm tắt Giáo Pháp thứ hai được Đức Thế Tôn, bậc Biết và Thấy... giảng dạy.
 (3) "'[Đời sống trong] bất kỳ thế giới nào cũng không có gì là của riêng mình; người ta phải từ bỏ tất cả và ra đi' (['Life in] any world has nothing of its own; one has to leave all and pass on' - Assako loko, sabbaṃ pahāya gamanīyaṃ - thế giới không có sở hữu riêng, phải bỏ lại tất cả mà đi):804 đây là điểm tóm tắt Giáo Pháp thứ ba được Đức Thế Tôn, bậc Biết và Thấy... giảng dạy.
 
 (4) "'[Đời sống trong] bất kỳ thế giới nào cũng thiếu thốn, không bao giờ thỏa mãn, là nô lệ của tham ái' (['Life in] any world is incomplete, insatiate, the slave of craving' - Ūno loko atitto taṇhādāso - thế giới luôn thiếu hụt, không biết đủ, là nô lệ của ái dục):805 đây là điểm tóm tắt Giáo Pháp thứ tư được Đức Thế Tôn, bậc Biết và Thấy... giảng dạy.
