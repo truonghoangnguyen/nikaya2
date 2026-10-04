@@ -1,8 +1,15 @@
+---
+title: Chuyện Tiền Thân Phần II
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
+
 # [06] PHẨM NATAMDAIHA
 
 **PHẨM NATAMDAIHA**
 
-**201. CHUYỆN NHÀ TÙ TRÓI BUỘC (Tiền thân Bandhanàgara)**
+### 201. CHUYỆN NHÀ TÙ TRÓI BUỘC (Tiền thân Bandhanàgara) {#201}
 
 ***Bậc trí đã nói rằng…,***
 
@@ -73,7 +80,7 @@ Như vậy, sau khi nói lên lời cảm hứng, Bồ-tát hành trì thiền �
 
 -ooOoo-
 
-**202. CHUYỆN TÁNH NGHỊCH NGỢM (Tiền thân Kelisìla)**
+### 202. CHUYỆN TÁNH NGHỊCH NGỢM (Tiền thân Kelisìla) {#202}
 
 ***Thiên nga, cò, chim công…,***
 
@@ -139,7 +146,7 @@ Không hề được như vậy.*
 
 -ooOoo-
 
-**203. CHUYỆN TU TẬP TỪ TÂM (Tiền thân Khandha-Vatta)**
+### 203. CHUYỆN TU TẬP TỪ TÂM (Tiền thân Khandha-Vatta) {#203}
 
 ***Ta khởi lên từ tâm…,***
 
@@ -263,7 +270,7 @@ Bắt đầu từ đấy, các đạo sĩ vâng theo lời khuyên dạy của B
 
 -ooOoo-
 
-**204. CHUYỆN CON QUẠ VIRAKA (Tiền thân Viraka)**
+### 204. CHUYỆN CON QUẠ VIRAKA (Tiền thân Viraka) {#204}
 
 ***Hỡi này Vi-ra-ka…,***
 
@@ -345,7 +352,7 @@ Nghe nói vậy, con quạ mái than khóc và bay trở về Ba-la-nại.
 
 -ooOoo-
 
-**205. CHUYỆN CÁ SÔNG HẰNG (Tiền thân Gangeyya)**
+### 205. CHUYỆN CÁ SÔNG HẰNG (Tiền thân Gangeyya) {#205}
 
 ***Bầy cá sông Hằng đẹp…,***
 
@@ -419,7 +426,7 @@ Ta không ưa điều ấy!
 
 -ooOoo-
 
-**206. CHUYỆN CON NAI NÚI (Tiền thân Kurungamiga)**
+### 206. CHUYỆN CON NAI NÚI (Tiền thân Kurungamiga) {#206}
 
 ***Này rùa, hãy dùng răng…,***
 
@@ -481,7 +488,7 @@ Con ba con vật ấy làm bạn với nhau trọn đời sống trong tình b�
 
 -ooOoo-
 
-**207. CHUYỆN VUA ASSAKA (Tiền thân Assaka)**
+### 207. CHUYỆN VUA ASSAKA (Tiền thân Assaka) {#207}
 
 ***Chính chỗ này, tôi sống…,***
 
@@ -604,7 +611,7 @@ Còn Bồ-tát khuyến dạy vua xong, khiến vua hết sầu muộn, rồi đ
 
 -ooOoo-
 
-**208. CHUYỆN CON CÁ SẤU (Tiền thân Sumsumàra)**
+### 208. CHUYỆN CON CÁ SẤU (Tiền thân Sumsumàra) {#208}
 
 ***Thôi đủ rồi, các trái…,***
 
@@ -702,7 +709,7 @@ Như đánh mất một ngàn đồng tiền, sấu đực buồn khổ, sửng 
 
 -ooOoo-
 
-**209. CHUYỆN CON CHIM MỒI (Tiền thân Kakkara)**
+### 209. CHUYỆN CON CHIM MỒI (Tiền thân Kakkara) {#209}
 
 ***Ta thấy nhiều cây rừng…,***
 
@@ -752,7 +759,7 @@ Nói vậy xong, người thợ săn đi sâu vào rừng, lấy những gì có
 
 -ooOoo-
 
-**210. CHUYỆN CON CHIM GÕ MỎ (Tiền thân Kandagalaka)**
+### 210. CHUYỆN CON CHIM GÕ MỎ (Tiền thân Kandagalaka) {#210}
 
 ***Này bạn, cây gì đây…,***
 

@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần IV
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
+
+
 # [01] Chương V – Phẩm Năm Bài Kệ
 
 **Chương V**
 
 **Phẩm Năm Bài Kệ**
 
-**351. Chuyện Vòng Tay Bằng Ngọc (Tiền thân Manikundala)**
+### 351. Chuyện Vòng Tay Bằng Ngọc (Tiền thân Manikundala) {#351}
 
 ***Bị cướp hết niềm vui cuộc sống…,***
 
@@ -62,7 +69,7 @@ Sau khi chấm dứt Pháp thoại, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**352. Chuyện Chàng Sujàta (Tiền thân Sujàta)**
+### 352. Chuyện Chàng Sujàta (Tiền thân Sujàta) {#352}
 
 ***Sao con lại vội mang…,***
 
@@ -154,7 +161,7 @@ Và bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**353. Chuyện Cành Cây Thanh Tịnh (Tiền thân Dhonasàkha)**
+### 353. Chuyện Cành Cây Thanh Tịnh (Tiền thân Dhonasàkha) {#353}
 
 ***Nay dù bạn bình an hạnh phúc…,***
 
@@ -241,7 +248,7 @@ Bậc Ðạo Sư chấm dứt bài giảng và nhận diện Tiền thân:
 
 -ooOoo-
 
-**354. Chuyện Con Rắn (Tiền thân Uraga)**
+### 354. Chuyện Con Rắn (Tiền thân Uraga) {#354}
 
 ***Người đời bỏ xác ra…,***
 
@@ -449,7 +456,7 @@ Và bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**355. Chuyện Vương Tử Ghata (Tiền thân Ghata)**
+### 355. Chuyện Vương Tử Ghata (Tiền thân Ghata) {#355}
 
 ***Khi kẻ khác khóc than sầu khổ…,***
 
@@ -510,7 +517,7 @@ Sau khi chấm dứt bài thuyết giảng, bậc Ðạo Sư nhận diện Tiề
 
 -ooOoo-
 
-**356. Chuyện Nam Tử Kàrandiya (Tiền thân Kàrandiya)**
+### 356. Chuyện Nam Tử Kàrandiya (Tiền thân Kàrandiya) {#356}
 
 ***Sao một mình trong rừng…,***
 
@@ -599,7 +606,7 @@ Bậc Ðạo Sư chấm dứt bài giảng và nhận diện Tiền thân:
 
 -ooOoo-
 
-**357. Chuyện Chim Cút (Tiền thân Latukikà)**
+### 357. Chuyện Chim Cút (Tiền thân Latukikà) {#357}
 
 ***Hỡi voi tuổi sáu mươi….,***
 
@@ -706,7 +713,7 @@ Sau khi đọc bài kệ phát xuất từ Trí Tuệ toàn hảo, bậc Ðạo 
 
 -ooOoo-
 
-**358. Chuyện Tiểu Vương Hộ Pháp (Tiền thân Culladhammapàla)**
+### 358. Chuyện Tiểu Vương Hộ Pháp (Tiền thân Culladhammapàla) {#358}
 
 ***Hoàng hậu hèn của Ðại Pa-tà-pa…,***
 
@@ -865,7 +872,7 @@ Sau khi chấm dứt Pháp thoại, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**359. Chuyện Con Nai Vàng (Tiền thân Suvannamiga)**
+### 359. Chuyện Con Nai Vàng (Tiền thân Suvannamiga) {#359}
 
 ***Hỡi chân vàng hãy dồn hết sức…,***
 
@@ -998,7 +1005,7 @@ Bậc Ðạo Sư chấm dứt bài dạy ở đây và nhận diện Tiền th�
 
 -ooOoo-
 
-**360. Chuyện Hoàng Hậu Sussondi (Tiền thân Sussondi)**
+### 360. Chuyện Hoàng Hậu Sussondi (Tiền thân Sussondi) {#360}
 
 ***Tôi ngửi thấy mùi hương rừng rậm…,***
 
@@ -1107,7 +1114,7 @@ Sau khi chấm dứt bài giảng, bậc Ðạo Sư tuyên thuyết Tứ Ðế. 
 
 -ooOoo-
 
-**361. Chuyện Sắc Đẹp (Tiền thân Vannàroha)**
+### 361. Chuyện Sắc Đẹp (Tiền thân Vannàroha) {#361}
 
 ***Có phải chăng Su-dà-tha nói…,***
 
@@ -1226,7 +1233,7 @@ Sau khi chấm dứt bài dạy, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**362. Chuyện Thử Nghiệm Đức Hạnh (Tiền thân Sìlavimamsa)**
+### 362. Chuyện Thử Nghiệm Đức Hạnh (Tiền thân Sìlavimamsa) {#362}
 
 ***Ðức hạnh và kiến thức…,***
 
@@ -1291,7 +1298,7 @@ Bậc Ðạo Sư chấm dứt bài dạy và nhận diện tiền thân:
 
 -ooOoo-
 
-**363. Chuyện Hổ Thẹn (Tiền thân Hiri)**
+### 363. Chuyện Hổ Thẹn (Tiền thân Hiri) {#363}
 
 ***Kẻ nào dù được kính vì…,***
 
@@ -1345,13 +1352,13 @@ Khi giảng xong Pháp thoại, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**364. Chuyện Con Đom Đóm (Tiền thân Khajjopanaka)**
+### 364. Chuyện Con Đom Đóm (Tiền thân Khajjopanaka) {#364}
 
 Chuyện con Ðom Ðóm sẽ được kể đầy đủ trong số 546, Tiền thân Mahà-Ummagga.
 
 -ooOoo-
 
-**365. Chuyện Người Luyện Rắn (Tiền thân Ahigundika)**
+### 365. Chuyện Người Luyện Rắn (Tiền thân Ahigundika) {#365}
 
 ***Này ta nằm đây, Khỉ xinh đẹp hỡi….,***
 
@@ -1409,7 +1416,7 @@ Bậc Ðạo Sư chấm dứt bài dạy ở đây và nhận diện Tiền th�
 
 -ooOoo-
 
-**366. Chuyện Con Quỷ Gumbiya (Tiền thân Gumbiya)**
+### 366. Chuyện Con Quỷ Gumbiya (Tiền thân Gumbiya) {#366}
 
 ***Thuốc độc giống như mật ngọt ngào….,***
 
@@ -1480,7 +1487,7 @@ Bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**367. Chuyện Vị Y Sĩ Già (Tiền thân Saliya)**
+### 367. Chuyện Vị Y Sĩ Già (Tiền thân Saliya) {#367}
 
 ***Kẻ nào khiến bè bạn….,***
 
@@ -1533,7 +1540,7 @@ Bậc Ðạo Sư chấm dứt bài giảng ở đây và nhận diện Tiền t
 
 -ooOoo-
 
-**368. Chuyện Dây Trói Buộc (Tiền thân Tacasàra)**
+### 368. Chuyện Dây Trói Buộc (Tiền thân Tacasàra) {#368}
 
 ***Bị rơi vào giữa tay thù…..,***
 
@@ -1602,7 +1609,7 @@ Khi bậc Ðạo Sư chấm dứt bài giảng, Ngài nhận diện Tiền thân
 
 -ooOoo-
 
-**369. Chuyện Chàng Trai Mittavinda (Tiền thân Mittavinda)**
+### 369. Chuyện Chàng Trai Mittavinda (Tiền thân Mittavinda) {#369}
 
 ***Việc xấu nào tôi đã trót gây….,***
 
@@ -1665,7 +1672,7 @@ Bậc Ðạo Sư chấm dứt bài giảng và nhận diện Tiền thân:
 
 -ooOoo-
 
-**370. Chuyện Cây Hồng Phượng Vĩ (Tiền thân Palàsa)**
+### 370. Chuyện Cây Hồng Phượng Vĩ (Tiền thân Palàsa) {#370}
 
 ***Ngỗng này nói với cội Ju-das…,***
 
@@ -1732,7 +1739,7 @@ Bậc Ðạo Sư chấm dứt bài giảng ở đây tuyên thuyết Tứ Ðế
 
 -ooOoo-
 
-**371. Chuyện Hoàng Tử Kosala (Tiền thân Dìghitikosala)**
+### 371. Chuyện Hoàng Tử Kosala (Tiền thân Dìghitikosala) {#371}
 
 ***Người đang thuộc quyền ta sinh sát….,***
 

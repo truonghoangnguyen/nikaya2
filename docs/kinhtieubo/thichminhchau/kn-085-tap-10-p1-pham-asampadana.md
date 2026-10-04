@@ -1,8 +1,15 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm ASAMPADÀNA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
+
 # [14] PHẨM ASAMPADÀNA
 
 **PHẨM ASAMPADÀNA**
 
-**131. CHUYỆN KẺ VONG ÂN (Tiền thân Asampadàna)**
+### 131. CHUYỆN KẺ VONG ÂN (Tiền thân Asampadàna) {#131}
 
 Nếu người này người kia …
 
@@ -196,7 +203,7 @@ Sau khi kể pháp thoại này xong, bậc Ðạo Sư nhận diện Tiền thâ
 
 ---
 
-**133. CHUYỆN LỬA CHÁY (Tiền thân Ghatàsana)**
+### 133. CHUYỆN LỬA CHÁY (Tiền thân Ghatàsana) {#133}
 
 Tại chỗ được an ổn …,
 
@@ -245,7 +252,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư giảng Bốn sự thật. Cu�
 
 ---
 
-**134. CHUYỆN THIỀN QUÁN (Tiền thân Thànasodhana)**
+### 134. CHUYỆN THIỀN QUÁN (Tiền thân Thànasodhana) {#134}
 
 Những ai còn có tưởng …,
 
@@ -277,7 +284,7 @@ Sau khi kể pháp thoại, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**135. CHUYỆN NGUYỆT QUANG (Tiền thân Candàbha)**
+### 135. CHUYỆN NGUYỆT QUANG (Tiền thân Candàbha) {#135}
 
 Nguyệt quang và nhật quang …,
 
@@ -304,7 +311,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**136. CHUYỆN THIÊN NGA VÀNG (Tiền thân Suvannahamsa)**
+### 136. CHUYỆN THIÊN NGA VÀNG (Tiền thân Suvannahamsa) {#136}
 
 Ðược gì, hãy biết là đủ …,
 
@@ -377,7 +384,7 @@ Nói xong pháp thoại, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**137. CHUYỆN CON MÈO (Tiền thân Babbu)**
+### 137. CHUYỆN CON MÈO (Tiền thân Babbu) {#137}
 
 Tại chỗ, cho một mèo…,
 
@@ -479,7 +486,7 @@ Sau khi bậc Ðạo Sư kể pháp thoại này, Ngài nhận diện Tiền th�
 
 ---
 
-**138. CHUYỆN CON CẮC KÈ (Tiền thân Godha)**
+### 138. CHUYỆN CON CẮC KÈ (Tiền thân Godha) {#138}
 
 Kẻ ngu có ích gì…,
 
@@ -520,7 +527,7 @@ Sau khi kể lại pháp thoại này, bậc Ðạo Sư nhận diện Tiền th�
 
 ---
 
-**139. CHUYỆN CẢ HAI MẶT THẤT BẠI (Tiền thân Ubhatobhattha)**
+### 139. CHUYỆN CẢ HAI MẶT THẤT BẠI (Tiền thân Ubhatobhattha) {#139}
 
 Mắt hư, áo bị mất…
 
@@ -571,7 +578,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**140. CHUYỆN CON QUẠ (Tiền thân Kàka).**
+### 140. CHUYỆN CON QUẠ (Tiền thân Kàka). {#140}
 
 Tâm thường bị chấn động…,
 

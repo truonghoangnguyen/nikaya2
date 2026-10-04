@@ -1,11 +1,16 @@
-# [03] Chương VII – Phẩm Bảy Bài Kệ
 
-#### [C7](#p2)
+---
+title: Chuyện Tiền Thân Phần IV
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
+
+# [03] Chương VII – Phẩm Bảy Bài Kệ
 
 **Chương VII**\
 **Phẩm bảy bài kệ**
 
-**396. Chuyện Ác Hạnh (Tiền thân Kukku)**
+### 396. Chuyện Ác Hạnh (Tiền thân Kukku) {#396}
 
 ***Cái nóc nhà này cao thước rưỡi…,***
 
@@ -86,7 +91,7 @@ Vua nghe lời Bồ-tát khuyên giáo từ đó về sau trị nước chân c
 
 -ooOoo-
 
-**397. Chuyện Sư Tử Manoja (Tiền thân Manoja)**
+### 397. Chuyện Sư Tử Manoja (Tiền thân Manoja) {#397}
 
 ***Cung nọ đã giương cong vút lên…,***
 
@@ -199,7 +204,7 @@ Vậy tìm người ưu việt\
 
 -ooOoo-
 
-**398. Chuyện Hiếu Tử Sutana (Tiền thân Sutana)**
+### 398. Chuyện Hiếu Tử Sutana (Tiền thân Sutana) {#398}
 
 ***Vua đã gửi ngươi một bát cơm…,***
 
@@ -376,7 +381,7 @@ Sau đó ngài ra đi cùng quỷ Dạ-xoa, bảo nó cầm kiếm cùng nhi�
 
 -ooOoo-
 
-**399. Chuyện Chim Thứu (Tiền thân Gijjha)**
+### 399. Chuyện Chim Thứu (Tiền thân Gijjha) {#399}
 
 ***Làm sao thân lão biết tìm mồi…,***
 
@@ -449,7 +454,7 @@ Sau đó Bồ-tát được giải thoát khỏi nỗi sợ chết, vui mừng 
 
 -ooOoo-
 
-**400. Chuyện Hoa Cỏ Kusa (Biệt hiệu của Chó rừng – Tiền thân Dabbhapuppha)**
+### 400. Chuyện Hoa Cỏ Kusa (Biệt hiệu của Chó rừng – Tiền thân Dabbhapuppha) {#400}
 
 **Này bạn A-nu, chạy tới ngay…,**
 
@@ -610,7 +615,7 @@ Công khố nhà vua được thịnh hưng.*
 
 -ooOoo-
 
-**401. Chuyện Người Nuốt Lưỡi Kiếm (Tiền thân Dasanaka)**
+### 401. Chuyện Người Nuốt Lưỡi Kiếm (Tiền thân Dasanaka) {#401}
 
 ***Bảo kiếm Da-san thích máu hồng…,***
 
@@ -728,7 +733,7 @@ Sau khi tán thán, vua hoan hỷ ban thưởng ngài nhiều vàng bạc châu 
 
 -ooOoo-
 
-**402. Chuyện Túi Da Đựng Bánh (Tiền thân Sattubhasta)**
+### 402. Chuyện Túi Da Đựng Bánh (Tiền thân Sattubhasta) {#402}
 
 ***Tâm tư lão rối loạn, ưu phiền…,***
 
@@ -976,7 +981,7 @@ Bồ-tát sai người đi lấy số tiền và đem cô vợ lão đến, t
 
 -ooOoo-
 
-**403. Chuyện Trí Giả Atthisena (Tiền thân Atthisena)**
+### 403. Chuyện Trí Giả Atthisena (Tiền thân Atthisena) {#403}
 
 ***At-thi, lắm kẻ đến mong cầu…,***
 
@@ -1067,7 +1072,7 @@ Còn Bồ-tát không hề gián đoạn Thiền định, nên tái sinh lên c
 
 -ooOoo-
 
-**404. Chuyện Hầu Vương (Tiền thân Kapi)**
+### 404. Chuyện Hầu Vương (Tiền thân Kapi) {#404}
 
 ***Người trí không nên ở chốn nào…,***
 
@@ -1172,7 +1177,7 @@ Như vậy Bồ-tát trở thành Hầu vương, và giảng giải đường l
 
 -ooOoo-
 
-**405. Chuyện Phạm Thiên Baka (Tiền thân Bakabrahma)**
+### 405. Chuyện Phạm Thiên Baka (Tiền thân Bakabrahma) {#405}
 
 ***Chúng tôi tất cả bảy mươi hai…,***
 
@@ -1262,7 +1267,7 @@ Sáng ngời khắp cõi Phạm thiên ta.*
 
 -ooOoo-
 
-**406. Chuyện Quốc Vương Gandhàra (Tiền thân Gandhàra)**
+### 406. Chuyện Quốc Vương Gandhàra (Tiền thân Gandhàra) {#406}
 
 ***Làng phố, vũ công mười sáu ngàn…,***
 
@@ -1417,7 +1422,7 @@ Như vậy hai vị đã sống hòa hợp với nhau và trở về Tuyết S�
 
 -ooOoo-
 
-**407. Chuyện Đại Hầu Vương (Tiền thân Mahàkapi)**
+### 407. Chuyện Đại Hầu Vương (Tiền thân Mahàkapi) {#407}
 
 ***Chính thân ngài đã bắt ngang cầu khỉ…,***
 
@@ -1564,7 +1569,7 @@ Khi đã nhận phần xá-lợi và dựng đền thờ trong thành, vua đ
 
 -ooOoo-
 
-**408. Chuyện Người Thợ Gốm (Tiền thân Kumbhakàra)**
+### 408. Chuyện Người Thợ Gốm (Tiền thân Kumbhakàra) {#408}
 
 ***Cây xoài ta thấy ở rừng xanh…,***
 
@@ -1734,7 +1739,7 @@ Sau ngày ấy, hai vị không bao giờ gặp lại nhau. Bồ-tát chứng �
 
 -ooOoo-
 
-**409. Chuyện Vua Dalhadhamma (Tiền thân Dalhadhamma)**
+### 409. Chuyện Vua Dalhadhamma (Tiền thân Dalhadhamma) {#409}
 
 ***Chính con khuân vác tự ngày xanh…,***
 
@@ -1869,7 +1874,7 @@ Với lời khởi đầu này, Bồ-tát giáo hóa toàn thể dân chúng �
 
 -ooOoo-
 
-**410. Chuyện Voi Con Somadatta (Tiền thân Somadatta)**
+### 410. Chuyện Voi Con Somadatta (Tiền thân Somadatta) {#410}
 
 ***Bước sâu vào tận trong rừng…,***
 
@@ -1962,7 +1967,7 @@ Sau khi khuyến giáo vị khổ hạnh, Sakka trở lại cõi của ngài.
 
 -ooOoo-
 
-**411. Chuyện Vua Susìma (Tiền thân Susìma)**
+### 411. Chuyện Vua Susìma (Tiền thân Susìma) {#411}
 
 **Tóc ta đen nhánh từ ngày xưa…,**
 
@@ -2067,7 +2072,7 @@ Như vậy trong khi tuyên bố các lạc thú lẫn khổ đau của tham d�
 
 -ooOoo-
 
-**412. Chuyện Thần Cây Bông Vải (Tiền thân Kotisimbalì)**
+### 412. Chuyện Thần Cây Bông Vải (Tiền thân Kotisimbalì) {#412}
 
 ***Ta mang thân xác của xà vương…,***
 
@@ -2137,7 +2142,7 @@ Nói vậy xong, điểu vương dùng sức mạnh đẩy con chim nhỏ ra k
 
 -ooOoo-
 
-**413. Chuyện Người Chăn Dê Dhùmakàri (Tiền thân Dhùmakàri)**
+### 413. Chuyện Người Chăn Dê Dhùmakàri (Tiền thân Dhùmakàri) {#413}
 
 ***Một hôm minh đế Yu-dhi-la…,***
 
@@ -2216,7 +2221,7 @@ Một mình, dòng lệ đắng cay tuôn.*
 
 -ooOoo-
 
-**414. Chuyện Người Tỉnh Thức (Tiền thân Jàgara)**
+### 414. Chuyện Người Tỉnh Thức (Tiền thân Jàgara) {#414}
 
 ***Ai thức tỉnh khi nhiều người đang ngủ…,***
 
@@ -2295,7 +2300,7 @@ Như vậy sau khi tán thán Bồ-tát, vị Thần cây trở vào nơi an tr�
 
 -ooOoo-
 
-**415. Chuyện Phần Cháo Cúng Dường (Tiền thân Kummasàpinda)**
+### 415. Chuyện Phần Cháo Cúng Dường (Tiền thân Kummasàpinda) {#415}
 
 ***Cúng dường chư Phật quý cao thay…,***
 
@@ -2457,7 +2462,7 @@ Như vậy cả hai vị đã công bố các nghiệp quá khứ xong, từ ng
 
 -ooOoo-
 
-**416. Chuyện Cận Thần Parantapa (Tiền thân Parantapa)**
+### 416. Chuyện Cận Thần Parantapa (Tiền thân Parantapa) {#416}
 
 ***Lo sợ kinh hoàng trong trí ta…,***
 

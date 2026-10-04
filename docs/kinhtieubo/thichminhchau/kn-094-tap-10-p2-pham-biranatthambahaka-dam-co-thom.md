@@ -1,8 +1,15 @@
+---
+title: Chuyện Tiền Thân Phần II
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
+
 # [07] PHẨM BIRANATTHAMBAHAKA (Ðám cỏ thơm)
 
 ### **PHẨM BIRANATTHAMBHAKA (Ðám cỏ thơm)**
 
-**211. CHUYỆN CHÀNG TRAI SOMADATTA (Tiền thân Somadatta)**
+### 211. CHUYỆN CHÀNG TRAI SOMADATTA (Tiền thân Somadatta) {#211}
 
 ***Thường xuyên học thuộc lòng…,***
 
@@ -112,7 +119,7 @@ Bậc Ðạo Sư nói:
 
 -ooOoo-
 
-**212. CHUYỆN THỨC ĂN THỪA (Tiền thân Uchitthabhatta)**
+### 212. CHUYỆN THỨC ĂN THỪA (Tiền thân Uchitthabhatta) {#212}
 
 ***Trên đầu sắc lại khác…,***
 
@@ -180,7 +187,7 @@ Rồi về sau ông mạng chung và đi theo nghiệp của mình.
 
 -ooOoo-
 
-**213.CHUYỆN VUA BHARU (Tiền thân Bharu)**
+### 213.CHUYỆN VUA BHARU (Tiền thân Bharu)
 
 ***Ta nghe vua Bharu…,***
 
@@ -295,7 +302,7 @@ Khi bậc Ðạo sư thuyết Pháp thoại này xong, Ngài nói với đức v
 
 -ooOoo-
 
-**214. CHUYỆN CON SÔNG ÐẦY (Tiền thân Punna-Nadi)**
+### 214. CHUYỆN CON SÔNG ÐẦY (Tiền thân Punna-Nadi) {#214}
 
 ***Vật gì người ta nói…,***
 
@@ -353,7 +360,7 @@ Bồ tát cho thắng bò vào xe và đi đến yết kiến vua. Vì thế vua
 
 -ooOoo-
 
-**215. CHUYỆN CON RÙA (Tiền thân Kachapa)**
+### 215. CHUYỆN CON RÙA (Tiền thân Kachapa) {#215}
 
 ***Con rùa nói lên lời…,***
 
@@ -428,7 +435,7 @@ Từ đấy trở đi, vua bỏ tánh nói nhiều và trở thành nguời ít 
 
 -ooOoo-
 
-**216. CHUYỆN CON CÁ (Tiền thân Maccha)**
+### 216. CHUYỆN CON CÁ (Tiền thân Maccha) {#216}
 
 ***Không vì lửa này đốt…,***
 
@@ -479,7 +486,7 @@ Lúc bấy giờ Bồ-tát đi đến bờ sông nghe con cá ấy than khóc, l
 
 -ooOoo-
 
-**217. CHUYỆN NGƯỜI BÁN RAU (Tiền thân Seggu)**
+### 217. CHUYỆN NGƯỜI BÁN RAU (Tiền thân Seggu) {#217}
 
 ***Thế giới thích hoan lạc…,***
 
@@ -535,7 +542,7 @@ Như vậy, người bán rau trái ấy thử con gái mình xong, liền đưa
 
 -ooOoo-
 
-**218. CHUYỆN NGƯỜI LÁI BUÔN LỪA ÐẢO (Tiền thân Kùtavànija)**
+### 218. CHUYỆN NGƯỜI LÁI BUÔN LỪA ÐẢO (Tiền thân Kùtavànija) {#218}
 
 ***Man trá trị man trá…,***
 
@@ -654,7 +661,7 @@ Như vậy kẻ mất con nhận lại con, và kẻ mất lưỡi cày nhận l
 
 -ooOoo-
 
-**219. CHUYỆN ÐÁNG CHỈ TRÍCH (Tiền thân Garahita)**
+### 219. CHUYỆN ÐÁNG CHỈ TRÍCH (Tiền thân Garahita) {#219}
 
 ***Vàng ròng là của tôi…,***
 
@@ -727,7 +734,7 @@ Vì vậy chúng đi chỗ khác. Tảng đá chúng ngồi được gọi là t
 
 -ooOoo-
 
-**220. CHUYỆN TẾ SƯ DHAMMADHAJA (Tiền thân Dhammadhaja)**
+### 220. CHUYỆN TẾ SƯ DHAMMADHAJA (Tiền thân Dhammadhaja) {#220}
 
 ***Ngài sống vẻ an lạc…,***
 

@@ -1,6 +1,13 @@
+---
+title: Chuyện Tiền Thân Phần VI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
+
 # [04] Chương XXII – Đại Phẩm (tt) - Phần 2
 
-**540. CHUYỆN HIẾU TỬ SÀMA  (Tiền thân Sàma)**
+### 540. CHUYỆN HIẾU TỬ SÀMA  (Tiền thân Sàma) {#540}
 
 ***Ai đó đang mai phục bắn mình…,***
 

@@ -1,8 +1,15 @@
+---
+title: Chuyện Tiền Thân Phần II-Phẩm DALHA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
+
 # [01] PHẨM DALHA
 
 **PHẨM DALHA**
 
-**151. CHUYỆN LỜI GIÁO GIỚI CHO VUA (Tiền thân Ràjovàda)**
+### 151. CHUYỆN LỜI GIÁO GIỚI CHO VUA (Tiền thân Ràjovàda) {#151}
 
 ***Cứng rắn đối cứng rắn…,***
 
@@ -101,7 +108,7 @@ Còn vua Mallika ghi nhớ lời giáo giới trong lòng. Sau khi đi khắp đ
 
 -ooOoo-
 
-**152. CHUYỆN CON CHÓ RỪNG (Tiền thân Sigàla)**
+### 152. CHUYỆN CON CHÓ RỪNG (Tiền thân Sigàla) {#152}
 
 ***Làm việc không đắn đo…,***
 
@@ -211,7 +218,7 @@ Sư tử đã làm chó rừng chết như vậy. Sau đó nó chôn các anh v�
 
 -ooOoo-
 
-**153. CHUYỆN CON HEO RỪNG (Tiền thân Sùkara)**
+### 153. CHUYỆN CON HEO RỪNG (Tiền thân Sùkara) {#153}
 
 ***Này bạn, ta bốn chân…,***
 
@@ -289,7 +296,7 @@ Vì vậy chúng liền chạy trốn đi đến nơi khác.
 
 -ooOoo-
 
-**154. CHUYỆN CON RẮN (Tiền thân Uraga)**
+### 154. CHUYỆN CON RẮN (Tiền thân Uraga) {#154}
 
 ***Ở đây, đã trốn vào…,***
 
@@ -347,7 +354,7 @@ Như vậy, Bồ-tát đứng dưới nước nói lên lời tùy hỷ. Rồi B
 
 -ooOoo-
 
-**155. CHUYỆN NHẢY MŨI (Tiền thân Gagga)**
+### 155. CHUYỆN NHẢY MŨI (Tiền thân Gagga) {#155}
 
 ***Này cha, sống trăm năm…,***
 
@@ -443,7 +450,7 @@ Vua cho mời Bồ-tát, đặt Bồ-tát vào chức vụ Ðại tướng quân
 
 -ooOoo-
 
-**156. CHUYỆN HOÀNG TỬ CÓ TÂM THÂU PHỤC (Tiền thân Alìnacitta)**
+### 156. CHUYỆN HOÀNG TỬ CÓ TÂM THÂU PHỤC (Tiền thân Alìnacitta) {#156}
 
 ***Chính nhờ Tâm thâu phục…,***
 
@@ -561,7 +568,7 @@ Tuần tự chứng đạt được\
 
 -ooOoo-
 
-**157. CHUYỆN CÔNG ÐỨC (Tiền thân Guna)**
+### 157. CHUYỆN CÔNG ÐỨC (Tiền thân Guna) {#157}
 
 ***Muốn gì, làm cho được…,***
 
@@ -730,7 +737,7 @@ Sư tử cái nghe lời chồng, giảng hòa với gia đình chó rừng, và
 
 -ooOoo-
 
-**158. CHUYỆN CON NGỰA SUHANU (Tiền thân Suhanu)**
+### 158. CHUYỆN CON NGỰA SUHANU (Tiền thân Suhanu) {#158}
 
 ***Loài vật tính không khác…,***
 
@@ -803,7 +810,7 @@ Sau khi khuyên răn nhà vua, Bồ-tát cho định giá ngựa và trả tiề
 
 -ooOoo-
 
-**159. CHUYỆN CON CÔNG (Tiền thân Mora)**
+### 159. CHUYỆN CON CÔNG (Tiền thân Mora) {#159}
 
 ***Hãy mọc lên, mặt trời…,***
 
@@ -969,7 +976,7 @@ Còn vua tuân theo lời khuyên của Bồ-tát làm các công đức như b�
 
 -ooOoo-
 
-**160. CHUYỆN CON NGỖNG XANH SẨM (Tiền thân Vinìlaka)**
+### 160. CHUYỆN CON NGỖNG XANH SẨM (Tiền thân Vinìlaka) {#160}
 
 ***Giống vua Vi-đề-ha…,***
 

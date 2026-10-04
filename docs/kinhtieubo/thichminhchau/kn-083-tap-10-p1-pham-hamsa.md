@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm HAMSA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [12] PHẨM HAMSA
 
 **PHẨM HAMSA**
 
-**111. CHUYỆN CÂU HỎI CỦA CON LỪA (Tiền thân Gadrabha-Panha)**
+### 111. CHUYỆN CÂU HỎI CỦA CON LỪA (Tiền thân Gadrabha-Panha) {#111}
 
 Ngươi nghĩ mình là ngỗng…,
 
@@ -10,7 +16,7 @@ Chuyện câu hỏi của con lừa sẽ được nói đến trong Tiền thân
 
 ---
 
-**112. CHUYỆN CÂU HỎI CỦA HOÀNG HẬU BẤT TỬ (Tiền thân Amaràdevi-Panha)**
+### 112. CHUYỆN CÂU HỎI CỦA HOÀNG HẬU BẤT TỬ (Tiền thân Amaràdevi-Panha) {#112}
 
 Các thứ bánh và cháo…,
 
@@ -18,7 +24,7 @@ Chuyện câu hỏi của hoàng hậu Bất tử cũng sẽ được kể số 
 
 ---
 
-**113. CHUYỆN CON CHÓ RỪNG (Tiền thân Sigàla)**
+### 113. CHUYỆN CON CHÓ RỪNG (Tiền thân Sigàla) {#113}
 
 Ngươi tin chó rừng say…,
 
@@ -95,7 +101,7 @@ Sau khi kể pháp thoại này xong, bậc Ðạo sư nhận diện Tiền thâ
 
 ---
 
-**114. CHUYỆN CON CÁ NGHĨ VỪA (Tiền thân Mitacinti)**
+### 114. CHUYỆN CON CÁ NGHĨ VỪA (Tiền thân Mitacinti) {#114}
 
 Nghĩ nhiều và nghĩ ít…,
 
@@ -134,7 +140,7 @@ Như vậy, sau khi kể pháp thoại này xong, Bậc Ðạo Sư thuyết gi�
 
 ---
 
-**115. CHUYỆN NGƯỜI GIÁO GIỚI (Tiền thân Anusàsika)**
+### 115. CHUYỆN NGƯỜI GIÁO GIỚI (Tiền thân Anusàsika) {#115}
 
 Ai khuyên răn kẻ khác,…
 
@@ -189,7 +195,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân nh�
 
 ---
 
-**116. CHUYỆN NGƯỜI MÚA GIÁO (Tiền thân Dubbaca)**
+### 116. CHUYỆN NGƯỜI MÚA GIÁO (Tiền thân Dubbaca) {#116}
 
 Thưa sư trưởng, vì thầy…,
 
@@ -238,7 +244,7 @@ Sau khi kể câu chuyện quá khứ, bậc Ðạo Sư nhận diện Tiền th�
 
 ---
 
-**117. CHUYỆN CHIM ÐA ÐA (Tiền thân Tittira)**
+### 117. CHUYỆN CHIM ÐA ÐA (Tiền thân Tittira) {#117}
 
 Lời quá thời cao mạnh…,
 
@@ -289,7 +295,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân nh�
 
 ---
 
-**118. CHUYỆN CHIM CUN CÚT (Tiền thân Vattaka)**
+### 118. CHUYỆN CHIM CUN CÚT (Tiền thân Vattaka) {#118}
 
 Không suy nghĩ, người này…,
 
@@ -386,7 +392,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân nh�
 
 ---
 
-**119. CHUYỆN CON GÀ GÁY PHI THỜI (Tiền thân Akàlaràvi)**
+### 119. CHUYỆN CON GÀ GÁY PHI THỜI (Tiền thân Akàlaràvi) {#119}
 
 Không cha mẹ nuôi dưỡng…,
 
@@ -431,7 +437,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân nh�
 
 ---
 
-**120. CHUYỆN GIẢI THOÁT SỰ TRÓI BUỘC (Tiền thân Bandhanamokkha)**
+### 120. CHUYỆN GIẢI THOÁT SỰ TRÓI BUỘC (Tiền thân Bandhanamokkha) {#120}
 
 Chỗ này kẻ ngu nói…,
 

@@ -1,15 +1,15 @@
 # MN 79. KINH TIỂU SAKULUDĀYI (Tóm lược phân tích)
-[Bản so sánh→](/trung-bo-kinh/mnc-079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di){class="note-link"}
+[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-079-tieu-kinh-sakuludayi-thien-sanh-uu-da-di){class="note-link"}
 
 
 ### 1. Bối cảnh
-Cuộc hội thoại bắt đầu khi Udāyi phàn nàn về một vị giáo chủ (Nigaṇṭha Nāṭaputta - phái Jain) tự xưng là biết tất cả mọi thứ mọi lúc, nhưng khi bị chất vấn về quá khứ thì lại bộc lộ sự tức giận và lảng tránh. 
+Cuộc hội thoại bắt đầu khi Udāyi phàn nàn về một vị giáo chủ (Nigaṇṭha Nāṭaputta - phái Jain) tự xưng là biết tất cả mọi thứ mọi lúc, nhưng khi bị chất vấn về quá khứ thì lại bộc lộ sự tức giận và lảng tránh.
 
 Đức Phật chỉ ra rằng, thay vì đưa ra những tuyên bố toàn tri một cách giáo điều và không thể chứng minh, phương pháp tiếp cận sự thật cần dựa trên nguyên lý nhân quả (Duyên khởi) có thể quan sát được:
 > "Hơn nữa, này Udāyi, hãy để quá khứ, vị lai đó. Ta sẽ giảng Giáo pháp cho ông về: Khi cái này có, cái kia có; do cái này sinh ra, cái kia sinh ra; khi cái này không có, cái kia không có; do cái này bị chặn, cái kia chấm dứt." (Đoạn 7)
 
 ### 2. Bác bỏ các khái niệm mơ hồ, thiếu định nghĩa
-Udāyi trình bày học thuyết của giáo phái mình, cho rằng đích đến là một "nguồn sáng tối thượng". Tuy nhiên, khi được yêu cầu định nghĩa cụ thể đặc tính của nguồn sáng đó, Udāyi rơi vào vòng luẩn quẩn, chỉ lặp lại kết luận mà không đưa ra được dữ kiện. 
+Udāyi trình bày học thuyết của giáo phái mình, cho rằng đích đến là một "nguồn sáng tối thượng". Tuy nhiên, khi được yêu cầu định nghĩa cụ thể đặc tính của nguồn sáng đó, Udāyi rơi vào vòng luẩn quẩn, chỉ lặp lại kết luận mà không đưa ra được dữ kiện.
 
 Đức Phật sử dụng phép loại suy (analogy) về việc khao khát một người phụ nữ không có thật để chỉ ra lỗi ngụy biện của việc tin vào một khái niệm không thể xác minh:
 > "Này Udāyi, giống như một người đàn ông nói: 'Tôi khao khát, tôi yêu mến người con gái đẹp nhất trong xứ này'... Người ta liền nói: 'Này anh bạn, người mà anh không biết, không thấy, anh lại khao khát và yêu mến sao?'" (Đoạn 10)
@@ -52,6 +52,7 @@ Sau khi nghe phân tích logic, Udāyi bị thuyết phục và xin gia nhập h
 | [BT] pañca nīvaraṇe | ngũ triền cái | năm điều làm mờ yếu tâm trí | |
 | [BT] āsavānaṁ khayañāṇāya | lậu tận trí | trí tuệ về sự cạn kiệt các nguồn ác | |
 
+---
 [^1]: Chúng tôi hơi lấn cấn chỗ này vì:
 
 (1) Phật giáo cũng con đường thực hành tương tự : từ bỏ sát sanh, trộm cắp, tà dâm, nói dối (Giới luật). (2) Ngay ở đoạn sau Gotama nói về 'đi trên con đường thực hành' để đến 'thế giới hạnh phúc',

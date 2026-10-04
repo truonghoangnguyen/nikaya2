@@ -1,10 +1,16 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
 # [03] Chương III – Phẩm Ba Bài Kệ
 
 **CHƯƠNG III**
 
 **PHẨM BA BÀI KỆ**
 
-**264. Chuyện Đại Vương Panàda (Tiền thân Mahà-Panàda)**
+### 264. Chuyện Đại Vương Panàda (Tiền thân Mahà-Panàda) {#264}
 
 ***Vua Panàda có cung điện ấy…,***
 
@@ -103,7 +109,7 @@ Khi bậc Ðạo Sư kể xong Pháp thoại, Ngài nhận diện Tiền thân:
 
 -ooOoo-
 
-**265. Chuyện Mũi Tên (Tiền thân Khurappa)**
+### 265. Chuyện Mũi Tên (Tiền thân Khurappa) {#265}
 
 ***Khi nhiều cung bắn vèo tên tới…,***
 
@@ -158,7 +164,7 @@ Bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**266. Chuyện Con Ngựa Quí Tốc Như Phong (Tiền thân Vàtagga-Sindhava)**
+### 266. Chuyện Con Ngựa Quí Tốc Như Phong (Tiền thân Vàtagga-Sindhava) {#266}
 
 ***Mẹ chàng vì ốm o vàng vọt..,***
 
@@ -251,7 +257,7 @@ Và Ngài nhận diện Tiền thân:
 
 -ooOoo-
 
-**267. Chuyện Con Cua (Tiền thân Kakkata)**
+### 267. Chuyện Con Cua (Tiền thân Kakkata) {#267}
 
 ***Con vật càng vàng, lồi cặp mắt..,***
 
@@ -338,7 +344,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ðế v�
 
 -ooOoo-
 
-**268. Chuyện Kẻ Làm Hại Vườn (Tiền thân Àràma-Dùsa)**
+### 268. Chuyện Kẻ Làm Hại Vườn (Tiền thân Àràma-Dùsa) {#268}
 
 ***Giỏi nhất trong bọn là đây..,***
 
@@ -421,7 +427,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**269. Chuyện Nàng Sujàta (Tiền thân Sujàta)**
+### 269. Chuyện Nàng Sujàta (Tiền thân Sujàta) {#269}
 
 ***Kẻ hưởng được bề ngoài duyên dáng..,***
 
@@ -557,7 +563,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**270. Chuyện Con Cú (Tiền thân Ulùka)**
+### 270. Chuyện Con Cú (Tiền thân Ulùka) {#270}
 
 ***Cú là vua của các loài chim….***
 
@@ -620,7 +626,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ðế v�
 
 -ooOoo-
 
-**271. Chuyện Kẻ Làm Bẩn Giếng Nước (Tiền thân Udapàna-Dùsaka)**
+### 271. Chuyện Kẻ Làm Bẩn Giếng Nước (Tiền thân Udapàna-Dùsaka) {#271}
 
 ***Giếng được tạo do người ẩn dật..,***
 
@@ -675,7 +681,7 @@ Kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ðế và nh
 
 -ooOoo-
 
-**272. Chuyện Con Cọp (Tiền thân Vyaggha)**
+### 272. Chuyện Con Cọp (Tiền thân Vyaggha) {#272}
 
 ***Nếu do gần bạn tri âm..,***
 
@@ -752,7 +758,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ðế v�
 
 -ooOoo-
 
-**273. Chuyện Con Rùa (Tiền thân Kacchapa)**
+### 273. Chuyện Con Rùa (Tiền thân Kacchapa) {#273}
 
 ***Ai kia đem bát xin ăn..,***
 

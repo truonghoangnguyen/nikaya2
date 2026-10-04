@@ -1,3 +1,10 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+
 # [09] Chương IV – Phẩm Bốn Bài Kệ (tt)
 
 #### [C4P4](#p9)
@@ -6,7 +13,7 @@
 
 **PHẨM BỐN BÀI KỆ (tt)**
 
-**326. Chuyện Thiên Hoa Kakkàru (Tiền thân Kakkàru)**
+### 326. Chuyện Thiên Hoa Kakkàru (Tiền thân Kakkàru) {#326}
 
 ***Kẻ nào giữ mình không trộm cắp …,***
 
@@ -118,7 +125,7 @@ Sau khi quở trách mọi người, các Thần gỡ tràng hoa khỏi đầu 
 
 -ooOoo-
 
-**327. Chuyện Hoàng Hậu Kàkati (Tiền thân Kàkati)**
+### 327. Chuyện Hoàng Hậu Kàkati (Tiền thân Kàkati) {#327}
 
 ***Hương quyện quanh tôi là hơi thở …,***
 
@@ -180,7 +187,7 @@ Và Bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**328. Chuyện Không Khóc Người Chết (Tiền thân Ananusociya)**
+### 328. Chuyện Không Khóc Người Chết (Tiền thân Ananusociya) {#328}
 
 ***Sao ta nhỏ lệ vì em chứ …,***
 
@@ -298,7 +305,7 @@ Khi bậc Ðạo Sư chấm dứt Pháp thoại, Ngài tuyên thuyết Tứ Ð�
 
 -ooOoo-
 
-**329. Chuyện Con Khỉ Đen Lớn (Tiềnthân Kàlabàhu)**
+### 329. Chuyện Con Khỉ Đen Lớn (Tiềnthân Kàlabàhu) {#329}
 
 ***Ta từng hưởng lắm thức ăn …,***
 
@@ -364,7 +371,7 @@ Khi thuyết giảng xong, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**330. Chuyện Thử Thách Giới Đức (Tiền thân Silavìmamsa)**
+### 330. Chuyện Thử Thách Giới Đức (Tiền thân Silavìmamsa) {#330}
 
 ***Quyền lực trên đời khó sánh tày …,***
 
@@ -424,7 +431,7 @@ Thuyết giảng xong, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**331. Chuyện Trưởng lão Kokàlika (Tiền thân Kokàlika)**
+### 331. Chuyện Trưởng lão Kokàlika (Tiền thân Kokàlika) {#331}
 
 ***Kẻ phạm lỗi nói không thích đáng…,***
 
@@ -521,7 +528,7 @@ Bậc Ðạo Sư chấm dứt thuyết giảng và nhận diện Tiền thân:
 
 -ooOoo-
 
-**333. Chuyện Con Tắc Kè (Tiền thân Godha)**
+### 333. Chuyện Con Tắc Kè (Tiền thân Godha) {#333}
 
 ***Ngài cho tôi biết rõ ra…,***
 
@@ -623,7 +630,7 @@ Và bậc Ðaọ Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**334. Chuyện Khuyến Dụ Quốc Vương (Tiền thân Ràjovada)**
+### 334. Chuyện Khuyến Dụ Quốc Vương (Tiền thân Ràjovada) {#334}
 
 ***Con bò đực vượt dòng đi lạc hướng …,***
 
@@ -691,7 +698,7 @@ Rồi vua chào Bồ-tát và trở về, trị vì công chính, làm cho mọi
 
 -ooOoo-
 
-**335. Chuyện Chó Rừng (Tiền thân Jambuka)**
+### 335. Chuyện Chó Rừng (Tiền thân Jambuka) {#335}
 
 ***Chó rừng, coi chừng đấy…,***
 
@@ -771,7 +778,7 @@ Sau khi chấm dứt bài thuyết giảng, bậc Ðạo Sư nhận diện Tiề
 
 -ooOoo-
 
-**363. Chuyện Vương Tử Chatta Vĩ Đại (Tiền thân Brahachatta)**
+### 363. Chuyện Vương Tử Chatta Vĩ Đại (Tiền thân Brahachatta) {#363}
 
 ***“Cỏ ” vẫn là tiếng ngài kêu mãi…,***
 
@@ -863,7 +870,7 @@ Bậc Ðạo sư chấm dứt bài thuyết giảng và nhận diện tiền th�
 
 -ooOoo-
 
-**337. Chuyện Cái Sàng Tọa (Tiền thân Pìtha)**
+### 337. Chuyện Cái Sàng Tọa (Tiền thân Pìtha) {#337}
 
 ***Ôi, tôi đã chẳng mời ngồi…,***
 

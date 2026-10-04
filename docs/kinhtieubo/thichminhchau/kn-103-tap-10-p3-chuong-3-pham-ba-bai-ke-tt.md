@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+
 # [05] Chương III – Phẩm Ba Bài Kệ (tt)
 
 **CHƯƠNG III**
 
 **PHẨM BA BÀI KỆ (tt)**
 
-**286. Chuyện Con Heo Liên Căn (Tiền thân Sàlùka)**
+### 286. Chuyện Con Heo Liên Căn (Tiền thân Sàlùka) {#286}
 
 ***Chớ ganh với món Liên căn…,***
 
@@ -69,7 +76,7 @@ Bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**287. Chuyện Chê Bai Lợi Nhuận (Tiền Thân Làbha-Garaha)**
+### 287. Chuyện Chê Bai Lợi Nhuận (Tiền Thân Làbha-Garaha) {#287}
 
 ***Kẻ cuồng si, kẻ chuyên lời phỉ báng.***
 
@@ -124,7 +131,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**288. Chuyện Xâu Cá (Tiền thân Macch-Uddàna).**
+### 288. Chuyện Xâu Cá (Tiền thân Macch-Uddàna). {#288}
 
 ***Nào ai tin được chuyện này…,***
 
@@ -215,7 +222,7 @@ Sau khi kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ð�
 
 -ooOoo-
 
-**289. Chuyện Mong Ước Khác Nhau (Tiền thân Nàna-Chanda)**
+### 289. Chuyện Mong Ước Khác Nhau (Tiền thân Nàna-Chanda) {#289}
 
 ***Chúng tôi chung sống một nhà…,***
 
@@ -348,7 +355,7 @@ Khi kể xong Pháp thoại này, Bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**290. Chuyện Thử Thách Giới Đức (Tiền thân Sìla-Vĩmamsa)**
+### 290. Chuyện Thử Thách Giới Đức (Tiền thân Sìla-Vĩmamsa) {#290}
 
 ***Cho rằng đạo hạnh đáng yêu…,***
 
@@ -393,7 +400,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**291. Chuyện Cái Bát Thần (Tiền thân Bhadra-Ghata)**
+### 291. Chuyện Cái Bát Thần (Tiền thân Bhadra-Ghata) {#291}
 
 ***Kẻ vô dụng một lần được bát…,***
 
@@ -446,7 +453,7 @@ Với Trí tuệ Toàn hảo, bậc Ðạo Sư đọc các bài kệ trên, rồ
 
 -ooOoo-
 
-**292. Chuyện Vua Quạ Supatta (Tiền thân Supatta)**
+### 292. Chuyện Vua Quạ Supatta (Tiền thân Supatta) {#292}
 
 ***Ở nơi đây, thành Ba-la-nại…,***
 
@@ -547,7 +554,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**293. Chuyện Thân Hư Hoại (Tiền thân Kàya-Vicchinda)**
+### 293. Chuyện Thân Hư Hoại (Tiền thân Kàya-Vicchinda) {#293}
 
 ***Bị cơn bệnh trầm kha quật xuống…,***
 
@@ -598,7 +605,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ðế. L
 
 -ooOoo-
 
-**294. Chuyện Con Chim Ăn Trái Đào (Tiền Thân Jambu-Khàdaka)**
+### 294. Chuyện Con Chim Ăn Trái Đào (Tiền Thân Jambu-Khàdaka) {#294}
 
 ***Ai đó ngồi cây đào đỏ hồng…,***
 
@@ -655,7 +662,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**295. Chuyện Loài Hạ Liệt (Tiền Thân Anta)**
+### 295. Chuyện Loài Hạ Liệt (Tiền Thân Anta) {#295}
 
 ***Như chàng bò mộng, tấm thân ông…,***
 
@@ -692,7 +699,7 @@ Khi kể xong Pháp Thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**296. Chuyện Biển Cả (Tiền Thân Samudda).**
+### 296. Chuyện Biển Cả (Tiền Thân Samudda). {#296}
 
 ***Trên sóng biển ai bay qua đó…,***
 
@@ -755,7 +762,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**297. Chuyện Dục Tình Nhảm Nhí (Tiền Thân Kàma-Vìlapa)**
+### 297. Chuyện Dục Tình Nhảm Nhí (Tiền Thân Kàma-Vìlapa) {#297}
 
 ***Chim ơi, bay ở trên trời…,***
 
@@ -794,7 +801,7 @@ Bấy giờ, bậc Ðạo Sư nhận diện Tiền Thân:
 
 -ooOoo-
 
-**298. Chuyện Trái Sung (Tiền Thân Udumbara)**
+### 298. Chuyện Trái Sung (Tiền Thân Udumbara) {#298}
 
 ***Sung đã chín trên cây ngon đẹp…,***
 
@@ -855,7 +862,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo
 
-**299. Chuyện Ẩn Sĩ Komàya-Putta (Tiền Thân Komàya)**
+### 299. Chuyện Ẩn Sĩ Komàya-Putta (Tiền Thân Komàya) {#299}
 
 ***Lúc trước đây ngươi thường nghịch phá…,***
 
@@ -916,7 +923,7 @@ Khi kể xong Pháp thoại này, Ngài tuyên thuyết Tứ Ðế và nhận di
 
 -ooOoo-
 
-**300. Chuyện Chó Sói (Tiền Thân Vaka)**
+### 300. Chuyện Chó Sói (Tiền Thân Vaka) {#300}
 
 ***Chó Sói nọ chuyên bắt sống thú …,***
 

@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm PAROSSATA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [11] PHẨM PAROSSATA
 
 **PHẨM PAROSATA**
 
-**101. CHUYỆN HƠN MỘT TRĂM KẺ NGU (Tiền thân Parosata)**
+### 101. CHUYỆN HƠN MỘT TRĂM KẺ NGU (Tiền thân Parosata) {#101}
 
 Trăm kẻ ngu tụ hội…,
 
@@ -15,7 +21,7 @@ Tiền thân này, về câu chuyện, về giải thích và nhận diện Ti�
 
 ---
 
-**102. CHUYỆN NGƯỜI BÁN RAU (Tiền thân Pannika)**
+### 102. CHUYỆN NGƯỜI BÁN RAU (Tiền thân Pannika) {#102}
 
 Người đáng che chở ta…,
 
@@ -60,7 +66,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư giảng về các Sự thật,
 
 ---
 
-**103. CHUYỆN KẺ THÙ (Tiền thân Veri)**
+### 103. CHUYỆN KẺ THÙ (Tiền thân Veri) {#103}
 
 Tại chỗ kẻ thù ở…,
 
@@ -93,7 +99,7 @@ Sau khi kể lại pháp thoại này, bậc Ðạo Sư nhận diện Tiền th�
 
 ---
 
-**104. CHUYỆN CHÀNG TRAI MITTAVIDA ( Tiền thân Mittavinda)**
+### 104. CHUYỆN CHÀNG TRAI MITTAVIDA ( Tiền thân Mittavinda) {#104}
 
 Từ bốn đi đến tám…,
 
@@ -128,7 +134,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân nh�
 
 ---
 
-**105. CHUYỆN CON VOI SỢ CHẾT (Tiền thân Dubbalakattha)**
+### 105. CHUYỆN CON VOI SỢ CHẾT (Tiền thân Dubbalakattha) {#105}
 
 Rừng này có nhiều cành…,
 
@@ -169,7 +175,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư thuyết về các Sự thật
 
 ---
 
-**106. CHUYỆN MÚC NƯỚC (Tiền thân Udancani)**
+### 106. CHUYỆN MÚC NƯỚC (Tiền thân Udancani) {#106}
 
 Hạnh phúc, đời sống tôi…,
 
@@ -226,7 +232,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư thuyết giảng về các S�
 
 ---
 
-**107. CHUYỆN NGHỀ NÉM ÐÁ (Tiền thân Sàlittaka)**
+### 107. CHUYỆN NGHỀ NÉM ÐÁ (Tiền thân Sàlittaka) {#107}
 
 Lành thay, một nghề tinh…,
 
@@ -297,7 +303,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân nh�
 
 ---
 
-**108. CHUYỆN LẠ KỲ (Tiền thân Bàhiya)**
+### 108. CHUYỆN LẠ KỲ (Tiền thân Bàhiya) {#108}
 
 Hãy học điều cần học…,
 
@@ -342,7 +348,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân nh�
 
 ---
 
-**109. CHUYỆN BÁNH BỘT TRẤU ÐỎ (Tiền thân Kundakapùva)**
+### 109. CHUYỆN BÁNH BỘT TRẤU ÐỎ (Tiền thân Kundakapùva) {#109}
 
 Người ta ăn thứ gì…
 
@@ -407,7 +413,7 @@ Bậc Ðạo Sư kể pháp thoại này xong, liền nhận diện Tiền thân
 
 ---
 
-**110. CHUYỆN CÂU HỎI BAO QUÁT TẤT CẢ. (Tiền thân Sabbasabhàraka-Panha)**
+### 110. CHUYỆN CÂU HỎI BAO QUÁT TẤT CẢ. (Tiền thân Sabbasabhàraka-Panha) {#110}
 
 Không bao gồm tất cả…,
 

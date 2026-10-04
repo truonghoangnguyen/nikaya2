@@ -279,7 +279,7 @@ head:
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat#chapter"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-071-tap-10-p1-chuong-i#chapter"
+                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-071-tap-10-p1#chapter"
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-072-tap-10-p1-pham-apannaka#chapter"
@@ -360,7 +360,7 @@ head:
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-097-tap-10-p2-pham-sigala-cho-rung#chapter"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-098-tap-10-p3-chuong-iii-chuong-iv#chapter"
+                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-098-tap-10-p3#chapter"
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-099-tap-10-p3-chuong-3-pham-sankappa#chapter"
@@ -393,7 +393,7 @@ head:
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-108-tap-10-p3-chuong-4-pham-bon-bai-ke-tt#chapter"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-109-tap-10-p4-chuong-v-den-chuong-xxii#chapter"
+                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-109-tap-10-p4#chapter"
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-110-tap-10-p4-chuong-v-pham-nam-bai-ke#chapter"
@@ -420,7 +420,7 @@ head:
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-117-tap-10-p4-chuong-xii-pham-muoi-hai-bai-ke#chapter"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-118-tap-10-p5-chuong-xiii-den-chuong-xx#chapter"
+                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-118-tap-10-p5#chapter"
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-119-tap-10-p5-chuong-xiii-pham-muoi-ba-bai-ke#chapter"
@@ -447,7 +447,7 @@ head:
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-126-tap-10-p5-chuong-xx-pham-bay-muoi-bai-ke#chapter"
                 },
                 {
-                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-127-tap-10-p6-chuong-xxi-chuong-xxii#chapter"
+                  "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-127-tap-10-p6#chapter"
                 },
                 {
                   "@id": "https://kinhnikaya.org/kinhtieubo/thichminhchau/kn-128-tap-10-p6-chuong-xxi-pham-tam-muoi-bai-ke#chapter"

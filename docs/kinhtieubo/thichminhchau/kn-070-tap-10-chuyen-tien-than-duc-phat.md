@@ -1,6 +1,8 @@
 ---
 title: Kinh tiểu bộ tập 10 – CHUYỆN TIỀN THÂN ĐỨC PHẬT
 ---
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/)
+
 # TẬP 10 – CHUYỆN TIỀN THÂN ĐỨC PHẬT
 
 ## **Lời Giới thiệu**
@@ -86,13 +88,9 @@ Chúng ta đang cần nghiên cứu Pàli Tạng và Hán Tạng nhưng nghiên 
 Viện Trưởng Viện Phật Học Vạn Hạnh.***
 
 ## Mục lục tập 10
-- [PHẦN 1 – CHƯƠNG I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1-chuong-i.md)
-
-- [PHẦN 2 – CHƯƠNG 2](/kinhtieubo/thichminhchau/kn-087-tap-10-p2-chuong-2.md)
-
-- [PHẦN 3 – CHƯƠNG III, CHƯƠNG IV](/kinhtieubo/thichminhchau/kn-098-tap-10-p3-chuong-iii-chuong-iv.md)
-
-- [PHẦN 4 – CHƯƠNG V đến CHƯƠNG XXII](/kinhtieubo/thichminhchau/kn-109-tap-10-p4-chuong-v-den-chuong-xxii.md)
-
-- [PHẦN 5 – CHƯƠNG XIII đến CHƯƠNG XX](/kinhtieubo/thichminhchau/kn-118-tap-10-p5-chuong-xiii-den-chuong-xx.md)
-- [PHẦN 6 – CHƯƠNG XXI, CHƯƠNG XXII](/kinhtieubo/thichminhchau/kn-127-tap-10-p6-chuong-xxi-chuong-xxii.md)
+- [PHẦN 1 – CHƯƠNG I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1.md)
+- [PHẦN 2 – CHƯƠNG 2](/kinhtieubo/thichminhchau/kn-087-tap-10-p2.md)
+- [PHẦN 3 – CHƯƠNG III, CHƯƠNG IV](/kinhtieubo/thichminhchau/kn-098-tap-10-p3.md)
+- [PHẦN 4 – CHƯƠNG V đến CHƯƠNG XXII](/kinhtieubo/thichminhchau/kn-109-tap-10-p4.md)
+- [PHẦN 5 – CHƯƠNG XIII đến CHƯƠNG XX](/kinhtieubo/thichminhchau/kn-118-tap-10-p5.md)
+- [PHẦN 6 – CHƯƠNG XXI, CHƯƠNG XXII](/kinhtieubo/thichminhchau/kn-127-tap-10-p6.md)

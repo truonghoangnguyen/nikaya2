@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần V
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+
 # [07] Chương XIX – Phẩm Sáu Mươi Bài Kệ
 
 **Chương XIX**
 
 **Phẩm Sáu Mươi Bài Kệ**
 
-**529. Chuyện Hiền giả Sonaka (Tiền thân Sonaka)**
+### 529. Chuyện Hiền giả Sonaka (Tiền thân Sonaka) {#529}
 
 ***Một ngàn đồng trẫm tặng cho người …,***
 
@@ -531,7 +538,7 @@ Nhưng sau đó chàng cai trị đúng Chánh pháp, rồi đi theo nghiệp 
 
 -ooOoo-
 
-**530. Chuyện hiền giả Samkicca (Tiền thân Samkicca)**
+### 530. Chuyện hiền giả Samkicca (Tiền thân Samkicca) {#530}
 
 ***Vừa thấy Brahmà, bậc Ðế vương…,***
 

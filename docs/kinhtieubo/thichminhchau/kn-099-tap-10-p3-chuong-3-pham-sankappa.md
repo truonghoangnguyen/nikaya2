@@ -1,8 +1,15 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+
 # [01] Chương III – Phẩm Sankappa
 
 **PHẨM SANKAPPA**
 
-**251. CHUYỆN DỤC TẦM (Tiền thân Sankappa)**
+### 251. CHUYỆN DỤC TẦM (Tiền thân Sankappa) {#251}
 
 ***Không có người bắn cung…,***
 
@@ -180,7 +187,7 @@ Mặc dù vua yêu cầu tha thiết, Bồ-tát vẫn bay bổng lên hư không
 
 -ooOoo-
 
-**252. CHUYỆN MỘT NẮM MÈ (Tiền thân Tilamutthi)**
+### 252. CHUYỆN MỘT NẮM MÈ (Tiền thân Tilamutthi) {#252}
 
 ***Hôm nay ta nghĩ đến…,***
 
@@ -330,7 +337,7 @@ Từ đó, vua vâng theo lời giáo giới của Sư trưởng và trọn đ�
 
 -ooOoo-
 
-**253. CHUYỆN VUA RẮN MANIKANTHA (Tiền thân Manikantha)**
+### 253. CHUYỆN VUA RẮN MANIKANTHA (Tiền thân Manikantha) {#253}
 
 ***Mọi đồ ăn thức uống…,***
 
@@ -469,7 +476,7 @@ Rồi vị ấy đi về am thất của mình. Sau một thời gian tu tập, 
 
 -ooOoo-
 
-**254. CHUYỆN CON NGỰA QUÝ ĂN CÁM GẠO ÐỎ (Tiền thân Kundaka-Kucchi-Sindhava)**
+### 254. CHUYỆN CON NGỰA QUÝ ĂN CÁM GẠO ÐỎ (Tiền thân Kundaka-Kucchi-Sindhava) {#254}
 
 ***Ðã ăn cỏ, và cháo…,***
 
@@ -654,7 +661,7 @@ Từ khi con ngựa ấy đến, quyền cai trị của vua lan rộng khắp c
 
 -ooOoo-
 
-**255. CHUYỆN CON VẸT (Tiền thân Suka)**
+### 255. CHUYỆN CON VẸT (Tiền thân Suka) {#255}
 
 ***Khi nào con chim ấy…,***
 
@@ -719,7 +726,7 @@ Biết lường đâu có chìm?*
 
 -ooOoo-
 
-**256. CHUYỆN CÁI GIẾNG CŨ (Tiền thân Jarudapàna)**
+### 256. CHUYỆN CÁI GIẾNG CŨ (Tiền thân Jarudapàna) {#256}
 
 ***Các lái buôn cần nước…,***
 
@@ -790,7 +797,7 @@ Do đào, được tài sản,\
 
 -ooOoo-
 
-**257. CHUYỆN NGƯỜI HẦU CẬN GÀMANI-CANDA (Tiền thân Gàmani-Canda)**
+### 257. CHUYỆN NGƯỜI HẦU CẬN GÀMANI-CANDA (Tiền thân Gàmani-Canda) {#257}
 
 ***Nó không giỏi làm nhà…,***
 
@@ -1220,7 +1227,7 @@ Rồi Canda đi về làng của mình với danh vọng lớn, và sống tại
 
 -ooOoo-
 
-**258. CHUYỆN ÐẠI VƯƠNG MANDAHÀTÀ (Tiền thân Mandahàtà)**
+### 258. CHUYỆN ÐẠI VƯƠNG MANDAHÀTÀ (Tiền thân Mandahàtà) {#258}
 
 ***Dầu có được bao nhiêu…,***
 
@@ -1318,7 +1325,7 @@ Chỉ thích ái diệt tận.*
 
 -ooOoo-
 
-**259. CHUYỆN ẨN SĨ TIRÌTA-VACCHA (Tiền thân Tirìta-Vaccha)**
+### 259. CHUYỆN ẨN SĨ TIRÌTA-VACCHA (Tiền thân Tirìta-Vaccha) {#259}
 
 ***Con thấy hạng người này…,***
 
@@ -1416,7 +1423,7 @@ Từ đấy về sau, vị phó vương hay các đình thần, hay bất cứ a
 
 -ooOoo-
 
-**260. CHUYỆN SỨ GIẢ CỦA CÁI BỤNG (Tiền thân Duta)**
+### 260. CHUYỆN SỨ GIẢ CỦA CÁI BỤNG (Tiền thân Duta) {#260}
 
 ***Vì mục đích cái bụng…,***
 

@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần V
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+
 # [08] Chương XX – Phẩm Bảy Mươi Bài Kệ
 
 **Chương XX**
 
 **Phẩm Bảy Mươi Bài Kệ**
 
-**531. Chuyện Đại Đế Kusa (Tiền thân Kusa)**
+### 531. Chuyện Đại Đế Kusa (Tiền thân Kusa) {#531}
 
 ***Quốc độ này hoan lạc ngập tràn . . .,***
 
@@ -1236,7 +1243,7 @@ Nước nhà hưng thinh, lạc tràn trề.*
 
 -ooOoo-
 
-**532. Chuyện hai hiền giả Sona – Nanda (Tiền thân Sona – Nanda)**
+### 532. Chuyện hai hiền giả Sona – Nanda (Tiền thân Sona – Nanda) {#532}
 
 ***Nhạc thần, Thiên tử, phải ngài chăng?…,***
 

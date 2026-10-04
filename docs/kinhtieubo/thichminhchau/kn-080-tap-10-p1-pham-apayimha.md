@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm APAYIMHA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [09] PHẨM APAYIMHA
 
 **PHẨM APAYIMHA**
 
-**81. CHUYỆN UỐNG RƯỢU (Tiền thân Suràpàna)**
+### 81. CHUYỆN UỐNG RƯỢU (Tiền thân Suràpàna) {#81}
 
 Chúng con đã uống rượu…,
 
@@ -107,7 +113,7 @@ Sau khi thuyết pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân
 
 ---
 
-**82. CHUYỆN NAM TỬ MITTAVINDA (Tiền thân Mittavinda)**
+### 82. CHUYỆN NAM TỬ MITTAVINDA (Tiền thân Mittavinda) {#82}
 
 Thế là vượt qua rồi…,
 
@@ -134,7 +140,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**83. CHUYỆN ÐIỀM XUI XẺO (Tiền thân Kàlakanni)**
+### 83. CHUYỆN ÐIỀM XUI XẺO (Tiền thân Kàlakanni) {#83}
 
 Bạn quen chính là người…,
 
@@ -199,7 +205,7 @@ Sau khi kể lại pháp thoại này, bậc Ðạo Sư nhận diện Tiền th�
 
 ---
 
-**84. CHUYỆN CỬA NGÕ HẠNH PHÚC (Tiền thân Atthassadvàra)**
+### 84. CHUYỆN CỬA NGÕ HẠNH PHÚC (Tiền thân Atthassadvàra) {#84}
 
 Hãy tìm cầu không bệnh…,
 
@@ -242,7 +248,7 @@ Bậc Ðạo Sư kể pháp thoại này xong, Ngài nhận diện Tiền thân:
 
 ---
 
-**85. CHUYỆN CÂY CÓ TRÁI LẠ (Tiền thân Kimpakka)**
+### 85. CHUYỆN CÂY CÓ TRÁI LẠ (Tiền thân Kimpakka) {#85}
 
 Không biết hại tương lai…,
 
@@ -285,7 +291,7 @@ Pháp thoại kết thúc, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**86. CHUYỆN THỬ THÁCH GIỚI ÐỨC (Tiền thân Sìlavìmamsana)**
+### 86. CHUYỆN THỬ THÁCH GIỚI ÐỨC (Tiền thân Sìlavìmamsana) {#86}
 
 Giới được xem chí thiện..,
 
@@ -370,7 +376,7 @@ Sau khi kể lại pháp thoại này, bậc Ðạo Sư nhận diện Tiền th�
 
 ---
 
-**87. CHUYỆN ÐIỀM LÀNH DỮ (Tiền thân Mangala)**
+### 87. CHUYỆN ÐIỀM LÀNH DỮ (Tiền thân Mangala) {#87}
 
 Ai thoát điềm lành dữ…,
 
@@ -453,7 +459,7 @@ Người cha và con trai hiện nay là cha và con trai trong thời quá kh�
 
 ---
 
-**88. CHUYỆN CON BÒ SÀRAMBHA (Tiền thân Sàrambha)**
+### 88. CHUYỆN CON BÒ SÀRAMBHA (Tiền thân Sàrambha) {#88}
 
 Hãy nói lời tốt lành …,
 
@@ -474,7 +480,7 @@ Như vậy, sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Ti�
 
 ---
 
-**89. CHUYỆN KẺ LỪA ÐẢO (Tiền thân Kuhaka)**
+### 89. CHUYỆN KẺ LỪA ÐẢO (Tiền thân Kuhaka) {#89}
 
 Nghe lời của người nói…,
 
@@ -551,7 +557,7 @@ Rồi bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**90. CHUYỆN KẺ VONG ÂN (Tiền thân Akatannu)**
+### 90. CHUYỆN KẺ VONG ÂN (Tiền thân Akatannu) {#90}
 
 Ai trước được làm lành…,
 

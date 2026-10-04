@@ -1,6 +1,13 @@
+---
+title: Chuyện Tiền Thân Phần VI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
+
 # [10] Chương XXII – Đại Phẩm (tt) - Phần 8
 
-**546. CHUYỆN ĐƯỜNG HẦM VĨ ĐẠI (Tiền thân Mahà-Ummagga)**
+### 546. CHUYỆN ĐƯỜNG HẦM VĨ ĐẠI (Tiền thân Mahà-Ummagga) {#546}
 
 ***Vua Brah-ma-dát xứ Pãn-ca. . . .,***
 
@@ -16,7 +23,7 @@
 
 *Sau đó Ngài kể một chuyện quá khứ*.
 
-*\**
+***
 
 Ngày xưa có vị vua danh hiệu Vedeha trị vì ở Mithilà. Ngài được bốn vị hiền trí dạy ngài về giáo pháp, đó là Senaka, Pukkusa, Kàvinda và Devinda.
 
@@ -108,7 +115,7 @@ Khi nghe vậy, vua vô cùng hoan hỷ, truyền mời Senaka đến. Sau khi 
 
 Khi vua nghe vậy, nhủ thầm: “Chắc phải có lý do bí mật nào đây”, rồi ngài im lặng. Ngài cho sứ giả ra về, dặn viên đại thần phải ở lại nơi ấy một thời gian và quan sát vị Trí giả ấy thật kỹ lưỡng. Vị cận thần ở lại đó thăm dò mọi hành vi của vị Trí giả và sau đây là một loạt các cách thử tài hay cuộc thăm dò.
 
-**1. MIẾNG THỊT.**
+### 1. MIẾNG THỊT.
 
 Một ngày kia khi bậc Đại Sĩ đi đến giải trí trường, một con diều hâu tha đi một miếng thịt từ chiếc bàn đồ tể, bay vụt lên không, vài người thấy vậy, định bắt nó thả xuống nên đuổi theo nó. Diều hâu bay đủ hướng, khiến họ nhìn lên đuổi theo nó mệt nhoài, ném đá cùng nhiều khí giới khác, ngã nhào lên nhau. Bậc Đại Sĩ liền bảo họ:
 
@@ -122,7 +129,7 @@ Vị cận thần nghe tin ấy, liền gởi sớ về dâng vua kể chuyện 
 
 Vua muốn thật chí công vô tư, liền ra lệnh nhắn vị cận thần phải thử thách ngài thêm nữa.
 
-**2. ĐÀN BÒ.**
+### 2. ĐÀN BÒ.
 
 Một người dân làng Yavamajjhaka mua một số trâu bò từ làng bên cạnh đem về nhà. Hôm sau gã đem bò ra đồng cho ăn cỏ rồi cỡi một con dạo chơi. Khi mệt mỏi gã ngồi xuống đất ngủ say, một tên trộm xuất hiện mang đàn bò đi mất. Khi gã thức dậy chẳng thấy đàn bò đâu, nhưng khi nhìn quanh gã thấy tên trộm đang chạy trốn. Gã nhảy tới kêu gào:
 
@@ -172,7 +179,7 @@ Vị cận thần dâng sớ kể vệc này, vua lại hỏi ý Senaka, nhưng 
 
 Vì muốn công bình vua ban lệnh như trước.(Các vụ xử sau đây cũng được hiểu như vậy, ta cứ theo thứ tự từng vụ một).
 
-**3. XÂU CHUỔI BẰNG CHÌ.**
+### 3. XÂU CHUỔI BẰNG CHÌ.
 
 Một người đàn bà nghèo buộc nhiều sợi chỉ màu lại làm thành sợi dây đeo cổ. Bà cởi nó ra để trên áo quần khi xuống tắm trong hồ mà bậc Trí giả đã cho đào. Một cô gái thấy vậy đem lòng thèm muốn, cầm sợi dây lên bảo:
 
@@ -211,7 +218,7 @@ Bậc Đại Sĩ liền kể cho khách bàng quan nghe mọi sự việc, xong
 
 Rồi ngài bắt kẻ kia phải nhận tội. Từ đó ngài nổi tiếng khôn ngoan tài trí khắp vùng.
 
-**4. SỢI CHỈ.**
+### 4. SỢI CHỈ.
 
 Một người đàn bà kia thường đứng canh ruộng bông vải. Một bửa nọ, chị lấy một ít sợi đẹp cuộn thành quả cầu dệt trên vạt áo. Lúc đi về nhà, chị ta nghĩ thầm: “Ta xuống tắm trong hồ của bậc Đại trí mới được”, rồi chị ta đặt quả cầu trên áo bước xuống hồ tắm. Một người đàn bà khác thấy vậy sinh lòng thèm muốn, bảo:
 
@@ -233,7 +240,7 @@ Rồi ngài hỏi người kia, chị ta đáp:
 
 Khi đám đông đã nghe hai người nói xong, ngài tháo quả cầu lấy ra một hột timbaru bên trong khiến cho kẻ cắp phải thú nhận tội. Đám đông vui vẻ reo hò trước cảnh xử kiện của bậc Đại trí.
 
-**5. ĐỨA CON TRAI.**
+### 5. ĐỨA CON TRAI.
 
 Một người đàn bà kia đem con trai xuống hồ của bậc Đại Sĩ đi tắm rửa. Khi tắm con xong, chị đặt con nằm trên áo mình rồi đi tắm. Lúc ấy một nữ quỷ Dạ-xoa cái thấy đứa bé muốn ăn thịt, liền cầm nó lên và hỏi:
 
@@ -289,7 +296,7 @@ Rồi ngài khích lệ nó, dạy nó Ngũ giới, xong thả cho nó đi; cò
 
 Rồi chị ẵm con về.
 
-**6. QUẢ CẦU ĐEN.**
+### 6. QUẢ CẦU ĐEN.
 
 Có một gã đàn ông tên gọi Golakàla. Gã có tên “Gola” nghĩa là Quả cầu bởi vì thân hình lùn tịt và “kàla” vì màu da đen bóng. Gã làm việc trong nhà kia bảy năm liền, cưới được cô vợ tên là Dìghatàla (Cây dừa cao).
 
@@ -361,7 +368,7 @@ Rồi ngài tuyên án:
 
 Khi ngài hỏi lại gã, ngài buộc gã phải thú tội đã làm tên trộm vợ người.
 
-**7. CỖ XE.**
+### 7. CỖ XE.
 
 Một người đàn ông trên xe ngựa bước xuống đất để rửa mặt. Vừa lúc ấy Sakka Thiên chủ đang xem xét thế gian, khi ngài thấy bậc Trí giả liền quyết định làm cho thế nhân biết được uy lực và tài trí của Mahosadha, đức Phật trong thời vị lai. Vì thế, ngài giáng thế, giả dạng đàn ông theo sau chiếc xe, giữ tay lái đằng sau. Người chủ ngồi trong xe hỏi:
 
@@ -431,7 +438,7 @@ Senaka tâu:
 
 – Việc đó cũng chưa hẳn quyết định một bậc Trí giả. Tâu Đại vương, cứ chờ đợi một lúc nữa: Thần sẽ xin đi thử tài vị này xem sao.
 
-**8. KHÚC CÂY.**
+### 8. KHÚC CÂY
 
 Thế rồi một ngày kia, với mục đích thử tài bậc Hiền trí, họ đi tìm một nhánh phượng, cắt một khúc độ một gang tay, cho thợ tiện đẻo thật láng rồi đưa ra sông thị trấn, với lời rao:
 
@@ -465,15 +472,15 @@ Họ đáp:
 
 – Tâu Đại vương, xin cứ chờ đợi để chúng thần thử tài vị ấy cách khác nữa.
 
-**9.** **CHIẾC ĐẦU NGƯỜI .**
+### 9.CHIẾC ĐẦU NGƯỜI
 
 Một ngày kia, hai chiếc đầu được mang đến để phân biệt chiếc nào là đầu đàn bà, chiếc nào là đầu đàn ông. Nếu không tìm ra được, họ phải chịu phạt một ngàn đồng tiền. Dân chúng không quyết đoán được, liền mời bậc Đại Sĩ. Ngài nhận ra vì người ta thường nói đường khớp trênđầu đàn ông thì thẳng, còn đường khớp trên xương đầu đàn bà thì cong. Nhờ dấu hiệu này, ngài phân biệt được ngay và dân chúng trình lên vua. Phần cuối như các chuyện trên.
 
-**10. CON RẮN.**
+### 10. CON RẮN.
 
 Một ngày nọ, một rắn đực và một rắn cái được đưa đến cho dân làng đoán thử. Họ hỏi bậc Trí giả. Ngài biết ngay khi thấy rắn vì đuôi rắn đực thì dày, đuôi rắn cái thì mỏng; đầu rắn đực tròn, đầu rắn cái dài, mắt rắn đực lớn,mắt rắn cái nhỏ. Nhờ những dấu hiệu này ngài phân biệt con đực với con cái. Phần cuối như cũ.
 
-**11. CON GÀ TRỐNG.**
+### 11. CON GÀ TRỐNG.
 
 Ngày nọ vua ban lệnh xuống dân chúng ở Đông thị trấn thi hành:
 
@@ -485,7 +492,7 @@ Dân chúng chẳng biết làm sao, liền hỏi bậc Hiền trí. Ngài đá
 
 Họ liền gửi dâng vua ngay một con.
 
-**12. VIÊN NGỌC.**
+### 12. VIÊN NGỌC.
 
 Viên ngọc này do Sakka Thiên chủ tặng vua Kusa, có hình bát giác. Sợi dây đeo ngọc bị đứt nhưng không ai lấy được sợi dây cũ ra để xâu sợi mới vào.
 
@@ -493,7 +500,7 @@ Một ngày kia họ đem viên ngọc đến bảo dân làng lấy sợi dâ
 
 Khi ngài thấy lỗ đã thông, ngài bảo dân chúng trình lên vua khiến vua rất đẹp lòng khi nghe câu chuyện sợi dây được xâu như vậy.
 
-**13. BÒ ĐỰC ĐẺ CON.**
+### 13. BÒ ĐỰC ĐẺ CON.
 
 Con bò đực của nhà vua được cho ăn quá nhiều trong vòng mấy tháng nên bụng nó trương lên, sừng nó phờ phạc, nó phải được xoa dầu, rồi họ đem nó đến Đông thị trấn với lệnh vua ban:
 
@@ -509,7 +516,7 @@ Họ đáp chuyện ấy không khó gì. Rồi họ đem một người đế
 
 Người ấy được lệnh cứ thế mà thi hành. Vua hỏi ai nghĩ ra cách trả lời phản công lại như vậy và khi nghe nói chính bậc Trí giả Mahosadha, ngài rất đẹp lòng.
 
-**14. NẤU CƠM.**
+### 14. NẤU CƠM.
 
 Một ngày kia để thử tài bậc Trí giả, lệnh vua phán ra:
 
@@ -521,7 +528,7 @@ Dân làng bối rối vấn kế bậc Trí giả. Ngài bảo:
 
 – Dân chúng làm như vậy và vua rất đẹp lòng khi nghe chuyện nhờ người nào mà vấn đề đãđược giải quyết.
 
-**15. CÁT**
+### 15. CÁT
 
 Một ngày kia để thử tài bậc Trí giả, lệnh vua ban xuống cho dân làng này:
 
@@ -533,7 +540,7 @@ Dân làng chẳng biết làm sao lại phải cầu cứu bậc Trí giả. Ng
 
 Dân làng vâng theo lời nói như vậy và vua rất hài lòng khi nghe bậc Trí giả đã nghĩ ra cách đối đáp phản công lại như trên.
 
-**16. HỒ NƯỚC.**
+### 16. HỒ NƯỚC.
 
 Một ngày kia có lệnh vua ban:
 
@@ -545,7 +552,7 @@ Dân làng kể chuyện với bậc Trí giả, ngài thấy đây cũng cần
 
 Họ y theo vậy mà làm khiến đức vua rất đẹp lòng khi nghe nói bậc Trí giả đã nghĩ ra chuyện ấy.
 
-**17. HOA VIÊN.**
+### 17. HOA VIÊN.
 
 Lại một ngày kia, vua ban lệnh:
 
@@ -553,7 +560,7 @@ Lại một ngày kia, vua ban lệnh:
 
 Bậc Trí giả lại trấn an dân chúng như trước kia, rồi cho người đi đối đáp với vua như trên.
 
-**18. YẾT KIẾN VUA VỚI CON LỪA**
+### 18. YẾT KIẾN VUA VỚI CON LỪA
 
 Lúc ấy vua rất hoan hỷ bảo Senaka:
 
@@ -674,7 +681,7 @@ Rồi vua ban lệnh cho ông ra về. Ông tuân lệnh vua, ôm lấy con tro
 
 Sau đó vua hỏi bậc Trí giả muốn dùng cơm bên trong cung hay ở ngoài. Ngài nghĩ rằng vớiđám tùy tùng đông đảo như vậy, tốt nhất nên ăn uống bên ngoài cung điện, nên tâu trình vua theo mục đích ấy. Vua liền ban cho ngài một ngôi nhà hợp ý, cung cấp vật dụng đầy đủ cho một ngàn nhi đồng ăn ở tại chỗ, từ đó bậc Trí giả phụng sự vua.
 
-**19. VIÊN BẢO NGỌC.**
+### 19. VIÊN BẢO NGỌC.
 
 Lúc bấy giờ vua lại muốn thử tài ngài. Thời đó có một viên bảo châu nằm trong tổ quạ trên cây cọ dừa (tàla) bên bờ hồ cạnh Nam môn và ảnh của viên bảo ngọc thường phản chiếu trên mặt hồ. Dân chúng trình vua rằng có viên bảo ngọc dưới hồ. Vua liền triệu Senaka đến bảo:
 
@@ -710,7 +717,7 @@ Vua y lời, cho người đem ngọc xuống và bậc Hiền trí đặt vi�
 
 Họ cứ ca ngợi bậc Đại Sĩ như vậy, còn vua rất đẹp ý, ban cho ngài xâu chuỗi ngọc mà vua đang đeo trên cổ và ban đủ chuỗi ngọc cho cả ngàn nhi đồng kia, xong lại cho phép từ nay ngài và đám tùy tùng của ngài vào chầu vua được miễn lễ.
 
-**20. CON TẮC KÈ.**
+### 20. CON TẮC KÈ.
 
 Một ngày kia, vua cùng bậc Trí giả bước vào ngự viên, thì một con tắc kè ở trên chiếc cổng vòng cung trông thấy vua, liền bò xuống, nằm sát đất. Vua thấy vậy, hỏi:
 
@@ -754,7 +761,7 @@ Nửa hào, nên nó không tôn trọng,\
 
 Vua truyền triệu gã kia đến hỏi chuyện và gã kể mọi sự đúng như vậy. Vua lại càng đẹp ý về bậc Trí giả hơn nữa vì hình như ngài biết được ý con tắc kè mà chẳng cần hỏi han gì cả, thật tài trí chẳng khác nào trí tuệ tối thượng của một vị Phật. Vì thế vua cho phép ngài thu lợi tức cả bốn cửa thành. Vua giận con tắc kè, muốn gián đoạn việc ban thưởng cho nó, nhưng bậc Trí giả bảo đó là việc không nên làm và khuyên can vua.
 
-**21. ĐẠI PHƯỚC VÀ BẤT HẠNH**
+### 21. ĐẠI PHƯỚC VÀ BẤT HẠNH
 
 Thời bấy giờ một thiếu sinh tên gọi Pinguttara ở thành Mithilà đến Takkasilà học với một danh sư. Sau thời kỳ tinh cần học tập đã viên mãn, chàng tạ từ sư phụ ra về.
 
@@ -832,7 +839,7 @@ Vua liền ban thưởng bậc Trí giả một ngàn đồng tiền. Rồi ho�
 
 Đến đây chấm dứt chuyện Đại phước và Bất hạnh.
 
-**22. CON DÊ VÀ CON CHÓ.**
+### 22. CON DÊ VÀ CON CHÓ.
 
 Một ngày kia, sau bữa điểm tâm, vua dạo chơi trên lối đi bộ chợt thấy qua bậc cửa một con dê và một con chó đang đánh bạn với nhau. Lúc bấy giờ con dê có thói quen ăn cỏ ném cho bầy voi cạnh chuồng voi trước khi voi ăn, cho nên những người quản tượng đánh đuổi con dê đi. Trong khi nó vừa chạy vừa kêu be be thì một người rượt theo lấy gậy đánh vào lưng nó. Con dê oằn lưng lại vì đau đớn, chạy đến nằm cạnh trường thành của hoàng cung, trên chiếc ghế dài.
 
@@ -1041,7 +1048,7 @@ Rồi bà đến hỏi vua:
 
 Vua rất đẹp ý vì bậc Trí giả không tiết lộ chuyện các vị kia biết được nhờ ngài và muốn ân thưởng thật trọng hậu cho ngài, vua nghĩ: “Không hề gì. Ta sẽ hỏi con ta một vấn đề nữa, nếu con ta đáp trúng ta sẽ hậu thưởng”. Nghĩ vậy xong, vua đặt ra Vấn đề Giàu Nghèo.
 
-**23. GIÀU VÀ NGHÈO.**
+### 23. GIÀU VÀ NGHÈO.
 
 Một ngày kia, khi năm bậc hiền thần vào chầu vua và khi họ đã an tọa, vua hỏi:
 
@@ -1319,7 +1326,7 @@ Hân hoan ta tặng thưởng con thơ.*
 
 Đến đây chấm dứt Vấn đề “Giàu Nghèo” (Chương XX).
 
-**24. CON ĐƯỜNG BÍ MẬT.**
+### 24. CON ĐƯỜNG BÍ MẬT.
 
 Từ ngày ấy, vinh quang của Bồ-tát thật lẫy lừng và hoàng hậu Udumbarà điều hành chu đáo mọi việc cho ngài.
 
@@ -1408,7 +1415,7 @@ Con đường bí mật phải tìm ra.*
 
 Đến đây chấm dứt Vấn đề Con đường Bí mật.
 
-**25. BẬC TRÍ GIẢ ĐI CƯỚI VỢ.**
+### 25. BẬC TRÍ GIẢ ĐI CƯỚI VỢ.
 
 Ngài đến nhà nàng theo cách đã chỉ dẫn, mẹ Amarà thấy ngài, liền mời ngài ngồi:
 
@@ -1556,7 +1563,7 @@ Làm cho các vị kia chịu muôn phần sỉ nhục như thế xong, nàng li
 
 Tuy nhiên, vua lại bối rối trước chuyện này, vì từ khi Bồ-tát ra đi và không có bốn bậc hiền thần kia, ngài không nói gì nữa, chỉ bảo họ tắm rửa rồi ra về.
 
-**27. VỊ NỮ THẦN VÀ CON ĐOM ĐÓM.**
+### 26. VỊ NỮ THẦN VÀ CON ĐOM ĐÓM.
 
 Lúc bấy giờ vị nữ thần ở trong chiếc lọng hoàng gia không được nghe giọng Bồ-tát thuyết pháp, không hiểu nguyên nhân gì và khi bà biết được, liền quyết định đem bậc Trí giả trở về.
 
@@ -1781,7 +1788,7 @@ Từ đó vinh quang của ngài càng chói lọi huy hoàng hơn nữa.
 
 Đến đây chấm dứt Vấn đề của Nữ thần.
 
-**27. NĂM VỊ HIỀN NHÂN.**
+### 27. NĂM VỊ HIỀN NHÂN.
 
 Bốn vị hiền thần lại bảo nhau:
 
@@ -2168,7 +2175,7 @@ Rồi vua ban lệnh đuổi họ đi. Nhưng bậc Trí giả van xin vua tha 
 
 Đến đây chấm dứt Vấn đề Năm vị Hiền nhân hay chuyện Đại vu cáo.
 
-**28. CUỘC ĐẠI CHIẾN.**
+### 28. CUỘC ĐẠI CHIẾN.
 
 Sau thời kỳ này, ngài thường khuyến cáo vua về thế sự cũng như thánh sự, ngài nghĩ thầm: “Ta thật đúng là chiếc lọng trắng của đức vua, chính ta điều khiển việc nước. Vậy ta phải cảnh giác mới được”.
 
@@ -2595,7 +2602,7 @@ Sáng hôm sau, quân sĩ mở cửa thành đi vào thấy đủ các chiến
 
 Cả nửa tháng ròng mới lấy hết các châu báu và vật dụng quý giá, bốn tháng sau mới thu dọn hết mọi đồ vật khác. Bậc Đại Sĩ ban tặng đại vinh hiển cho Anukevatta. Từ đó dân chúng Mithilà có vô số vàng ngọc.
 
-**29. ĐƯỜNG HẦM VĨ ĐẠI.**
+### 29. ĐƯỜNG HẦM VĨ ĐẠI.
 
 Lúc bấy giờ vua Brahmadatta cùng các vương hầu ấy đã sống một năm ở kinh thành Uttarapãncàla.
 
@@ -4244,7 +4251,7 @@ Nhưng ngài đáp:
 
 Thế là giữa đám đông kêu than thảm thiết, ngài ra đi cùng đám hầu cận đến thành Uttarapañcàla. Vua này hay tin ngài đến, liền ra đón tiếp, đưa ngài vào thành rất trọng thể, ban cho ngài dinh cơ rộng lớn ngoài tám mươi làng đã ban trước kia, lại ban thêm tặng vật khác và từ đó ngài phụng sự vua này.
 
-**30. VẤN ĐỀ THỦY QUÁI.**
+### 30. VẤN ĐỀ THỦY QUÁI.
 
 Thời ấy có một nữ tu sĩ tên là Bheri, vẫn thường dùng cơm trong cung. Bà này thông thái tài trí và chưa hề tiếp kiến bậc Đại Sĩ, nay nghe báo tin bậc Trí giả Mahosadha đang phụng sự vua. Ngài cũng chưa hề thấy bà này bao giờ, nhưng ngài nghe rằng một nữ tu sĩ tên là Bheri thường ăn cơm cùng vua.
 

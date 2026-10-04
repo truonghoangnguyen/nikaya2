@@ -1,12 +1,17 @@
-# [04] Chương VIII – Phẩm Tám Bài Kệ
+---
+title: Chuyện Tiền Thân Phần IV
+---
 
-#### [C8](#p3)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
+
+
+# [04] Chương VIII – Phẩm Tám Bài Kệ
 
 **Chương VIII**
 
 **Phẩm Tám Bài Kệ**
 
-**417. Chuyện Hiền Mẫu Kaccàni (Tiền thân Kaccàni)**
+### 417. Chuyện Hiền Mẫu Kaccàni (Tiền thân Kaccàni) {#417}
 
 ***Mặc áo trắng và tóc xõa vai…,***
 
@@ -172,7 +177,7 @@ Vần kệ này được cảm tác do Trí tuệ Tối thắng của đức Ph
 
 -ooOoo-
 
-**418. Chuyện Tám Tiếng Kêu (Tiền thân Atthasadda)**
+### 418. Chuyện Tám Tiếng Kêu (Tiền thân Atthasadda) {#418}
 
 ***Ngày xưa thường gọi chốn này…,***
 
@@ -403,7 +408,7 @@ Bồ-tát thuyết giảng Chánh pháp cho vua và khuyên nhủ vua tinh cần
 
 -ooOoo-
 
-**419. Chuyện Kiều Nữ Sulasà (Tiền thân Sulasà)**
+### 419. Chuyện Kiều Nữ Sulasà (Tiền thân Sulasà) {#419}
 
 ***Này đây là chiếc vòng vàng…,***
 
@@ -542,7 +547,7 @@ Rồi leo lên xe, nàng đi thẳng về kinh thành.
 
 -ooOoo-
 
-**420. Chuyện Người Giữ Ngự Viên Sumangala (Tiền thân Sumangala)**
+### 420. Chuyện Người Giữ Ngự Viên Sumangala (Tiền thân Sumangala) {#420}
 
 ***Ý thức giận hờn, nét mặt cau…,***
 
@@ -659,7 +664,7 @@ Như đám mây mưa thật mát lành.*
 
 -ooOoo-
 
-**421. Chuyện Người Hớt Tóc Gangamàla (Tiền thân Gangamàla)**
+### 421. Chuyện Người Hớt Tóc Gangamàla (Tiền thân Gangamàla) {#421}
 
 ***Ðịa cầu nòng rực như than..,***
 
@@ -928,7 +933,7 @@ Nói vậy xong, vua vái chào vị Ðộc Giác Phật và xin ngài tha lỗi
 
 -ooOoo-
 
-**422. Chuyện Quốc Vương Ceti (Tiền thân Cetiya)**
+### 422. Chuyện Quốc Vương Ceti (Tiền thân Cetiya) {#422}
 
 ***Công lý tổn thương gây hiểm họa…,***
 
@@ -1208,7 +1213,7 @@ Cả năm vương tử đều ra đi, theo các dấu hiệu kia dựng kinh đ�
 
 -ooOoo-
 
-**423. Chuyện Uy Lực Dục Tham (Tiền thân Indriya)**
+### 423. Chuyện Uy Lực Dục Tham (Tiền thân Indriya) {#423}
 
 ***Người nào tuân lệnh dục tham…,***
 
@@ -1413,7 +1418,7 @@ Vị khổ hạnh xúc động vì lời tường thuật của Ðạo Sư Sara
 
 -ooOoo-
 
-**424. Chuyện Ngọn Lửa Đốt Cháy (Tiền thân Àditta)**
+### 424. Chuyện Ngọn Lửa Đốt Cháy (Tiền thân Àditta) {#424}
 
 ***Thứ gì ta cứu thoát ra…,***
 
@@ -1533,7 +1538,7 @@ Còn vị Ðộc Giác Phật thứ bảy, trong lời tùy hỷ công đức �
 
 -ooOoo-
 
-**425. Chuyện Những Sự Kiện Không Thể Xảy Ra (Tiền thân Atthàna)**
+### 425. Chuyện Những Sự Kiện Không Thể Xảy Ra (Tiền thân Atthàna) {#425}
 
 ***Làm sao lặng sóng Hằng Hà…,***
 
@@ -1692,7 +1697,7 @@ Như thế bậc Ðại Sĩ ngâm mười một vần kệ nêu rõ những sự
 
 -ooOoo-
 
-**426. Chuyện Con Báo (Tiền thân Dìpi)**
+### 426. Chuyện Con Báo (Tiền thân Dìpi) {#426}
 
 ***Bác ơi, bác có được khang an…,***
 

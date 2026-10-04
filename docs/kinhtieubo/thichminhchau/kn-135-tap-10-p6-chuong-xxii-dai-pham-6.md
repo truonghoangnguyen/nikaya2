@@ -1,6 +1,13 @@
+
+---
+title: Chuyện Tiền Thân Phần VI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
 # [08] Chương XXII – Đại Phẩm (tt) - Phần 6
 
-**544. CHUYỆN BẬC ĐẠI TRÍ MAHÀNÀRADA-KASSAPA (Tiền thân Mahanàrada-Kassapa)**
+### 544. CHUYỆN BẬC ĐẠI TRÍ MAHÀNÀRADA-KASSAPA (Tiền thân Mahanàrada-Kassapa) {#544}
 
 ***Một vì vua xứ Vi-đề-ha… ,***
 

@@ -1,12 +1,18 @@
-# [06] Chương X – Phầm Mười Bài Kệ
 
-#### [C10](#p5)
+---
+title: Chuyện Tiền Thân Phần IV
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
+
+
+# [06] Chương X – Phầm Mười Bài Kệ
 
 **Chương X**
 
 **Phẩm Mười Bài Kệ**
 
-**439. Chuyện Bốn Cổng Thành (Tiền thân Catu-Dvàra)**
+### 439. Chuyện Bốn Cổng Thành (Tiền thân Catu-Dvàra) {#439}
 
 ***Thành sắt này xây bốn cổng cao…,***
 
@@ -192,7 +198,7 @@ Nói vậy xong Thiên chủ trở về cõi của Ngài, còn kẻ kia chìm v�
 
 -ooOoo-
 
-**440. Chuyện Hắc Hiền Giả (Tiền thân Kanha)**
+### 440. Chuyện Hắc Hiền Giả (Tiền thân Kanha) {#440}
 
 ***Ðằng kia nhìn kẻ sắc đen tuyền..,***
 
@@ -359,13 +365,13 @@ Rồi ngài đi về cõi của ngài. Còn Bồ-tát không bao giờ gián �
 
 -ooOoo-
 
-**441. Bốn Vị Giữ Trai Giới (Tiền thân Catu-Posathika)**
+### 441. Bốn Vị Giữ Trai Giới (Tiền thân Catu-Posathika) {#441}
 
 *(Chuyện tiền thân này sẽ được kể trong Tiền thân Punnaka) (chưa được tìm thấy)*
 
 -ooOoo-
 
-**442. Chuyện Bà La Môn Sankha (Tiền thân Sankha)**
+### 442. Chuyện Bà La Môn Sankha (Tiền thân Sankha) {#442}
 
 ***La-môn Tôn-giả, bậc uyên thâm …,***
 
@@ -509,7 +515,7 @@ Còn vị Ba-la-môn suốt đời ở nhà bố thí thật rộng rãi không
 
 -ooOoo-
 
-**443. Chuyện Trí Giả Tiểu Bồ Ðề (Tiền thân Culla-Bodhi)**
+### 443. Chuyện Trí Giả Tiểu Bồ Ðề (Tiền thân Culla-Bodhi) {#443}
 
 ***Ví thử người ta bắt quý nương…,***
 
@@ -664,7 +670,7 @@ Dần dần về sau, người đàn bà ấy từ trần và sau khi nàng qua
 
 -ooOoo-
 
-**444. Câu Chuyện Hắc Nhân Dìpàyana (Tiền thân Kanhadìpàyana)**
+### 444. Câu Chuyện Hắc Nhân Dìpàyana (Tiền thân Kanhadìpàyana) {#444}
 
 ***Bảy ngày tâm trí được thong dong…,***
 
@@ -894,7 +900,7 @@ Từ đó về sau, bà vợ thương yêu chồng mình, gia chủ Mandavya gi
 
 -ooOoo-
 
-**445. Chuyện Vua Ða (Tiền thân Nigrodha)**
+### 445. Chuyện Vua Ða (Tiền thân Nigrodha) {#445}
 
 ***Người ấy là ai, ta chẳng hay …,***
 
@@ -1104,7 +1110,7 @@ Thà nên chịu chết với vua Ða.*
 
 -ooOoo-
 
-**446. Chuyện Cây Hành (Tiền thân kkala)**
+### 446. Chuyện Cây Hành (Tiền thân kkala) {#446}
 
 ***Chẳng rau để luộc, cũng không hành…,***
 
@@ -1287,7 +1293,7 @@ Cậu nói thế với cha xong, liền đi gọi mẹ cậu vào. Nàng làm l
 
 -ooOoo-
 
-**447. Chuyện Đại Nhân Hộ Pháp (Tiền thân Mahà Dhamma-Pàla)**
+### 447. Chuyện Đại Nhân Hộ Pháp (Tiền thân Mahà Dhamma-Pàla) {#447}
 
 ***Tục lệ nào hay Thánh đạo nào…,***
 
@@ -1474,7 +1480,7 @@ Lúc ấy vị kia viết quy luật ấy vào một ngọn lá. Sau khi lưu l�
 
 -ooOoo-
 
-**448. Chuyện Kê Vương (Tiền thân Kukuta)**
+### 448. Chuyện Kê Vương (Tiền thân Kukuta) {#448}
 
 ***Chớ đặt lòng tin bọn dối lừa…,***
 
@@ -1591,7 +1597,7 @@ Do đó Diều hâu đành bay đến nơi khác.
 
 -ooOoo-
 
-**449. Chuyện Nam Tử Đeo Vòng Tai (Tiền thân Matta-Kundali)**
+### 449. Chuyện Nam Tử Đeo Vòng Tai (Tiền thân Matta-Kundali) {#449}
 
 ***Sao giữa rừng này có cậu trai…,***
 
@@ -1708,7 +1714,7 @@ Với lời khuyến giáo này, chàng trở về cõi của mình. Còn vị B
 
 -ooOoo-
 
-**450.Chuyện phú ông keo kiệt Bilàri (Tiền thân Bilàri-Kosiya)**
+### 450.Chuyện phú ông keo kiệt Bilàri (Tiền thân Bilàri-Kosiya)
 
 ***Khi món ăn không có giữa nồi…,***
 
@@ -1958,7 +1964,7 @@ Ngài thuyết giáo cho đám đông như vậy, xong lại nói về công h�
 
 -ooOoo-
 
-**451. Chuyện Hồng Nga (Tiền Thân Cakka-Vàka)**
+### 451. Chuyện Hồng Nga (Tiền Thân Cakka-Vàka) {#451}
 
 ***Màu lông tươi đẹp, dáng thanh tao…,***
 
@@ -2058,13 +2064,13 @@ Xong nó vừa kêu lên “Quạ! Quạ!”, vừa bay mất qua không gian �
 
 -ooOoo-
 
-**452. Chuyện Vấn Đề Trí Tuệ (Tiền Thân Bhùri – Panha)**
+### 452. Chuyện Vấn Đề Trí Tuệ (Tiền Thân Bhùri – Panha) {#452}
 
 *Chuyện này sẽ được kể trong Tiền thân Mahà-Ummagga, số 546, Tập VII.*
 
 -ooOoo-
 
-**453. Chuyện Điềm Lành Lớn (Tiền thân Mahà-Mangala)**
+### 453. Chuyện Điềm Lành Lớn (Tiền thân Mahà-Mangala) {#453}
 
 ***Hiển bày chân lý giải nghi nan…,***
 
@@ -2214,7 +2220,7 @@ Vua đến thăm các ông và hỏi chuyện kia. Các vị giải thích vấ
 
 -ooOoo-
 
-**454. Chuyện Trí Giả Ghata (Tiền thân Ghata)**
+### 454. Chuyện Trí Giả Ghata (Tiền thân Ghata) {#454}
 
 ***Hắc đế Kan-ha hãy đứng lên…,***
 

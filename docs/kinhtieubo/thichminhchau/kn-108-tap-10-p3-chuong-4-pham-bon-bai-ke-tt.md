@@ -1,3 +1,10 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+
 # [10] Chương IV – Phẩm Bốn Bài Kệ (tt)
 
 #### [C4P5](#p10)
@@ -6,7 +13,7 @@
 
 **PHẨM BỐN BÀI KỆ (tt)**
 
-**338. Chuyện Vỏ Trấu (Tiền thân Thusa)**
+### 338. Chuyện Vỏ Trấu (Tiền thân Thusa) {#338}
 
 ***Giác quan nhạy, chuột kia tinh xảo…,***
 
@@ -122,7 +129,7 @@ Và Ngài nêu sự kiện này nhưng vua cũng không lưu ý đến lời Ng
 
 -ooOoo-
 
-**339. Chuyện Xứ Baverù (Tiền thân Bàveru)**
+### 339. Chuyện Xứ Baverù (Tiền thân Bàveru) {#339}
 
 ***Trước khi Công có chỏm…,***
 
@@ -210,7 +217,7 @@ Sau khi đọc bốn bài kệ này, bậc Ðạo sư nhận diện tiền thâ
 
 -ooOoo-
 
-**340. Chuyện Trưởng Giả Visayha (Tiền thân Visayha)**
+### 340. Chuyện Trưởng Giả Visayha (Tiền thân Visayha) {#340}
 
 ***Vi-say-ha, xưa người ban tặng…,***
 
@@ -316,13 +323,13 @@ Bậc Ðạo sư chấm dứt bài thuyết giảng và nhận diện Tiền th�
 
 -ooOoo-
 
-**341. Chuyện Vua Kandari (Tiền thân Kandari)**
+### 341. Chuyện Vua Kandari (Tiền thân Kandari) {#341}
 
 Câu chuyện Tiền thân này sẽ được kể đầy đủ trong số 536. Tiền thân Kunàla.
 
 -ooOoo-
 
-**342. Chuyện Con Khỉ (Tiền thân Vànara)**
+### 342. Chuyện Con Khỉ (Tiền thân Vànara) {#342}
 
 ***Ta từ nước, cá ơi…,***
 
@@ -394,7 +401,7 @@ Sau khi chấm dứt bài thuyết giảng, bậc Bồ-Tát nhận diện tiền
 
 -ooOoo-
 
-**343. Chuyện Con Hạc (Tiền thân Cuntani)**
+### 343. Chuyện Con Hạc (Tiền thân Cuntani) {#343}
 
 ***Lâu nay tôi giúp đỡ nhà này…,***
 
@@ -462,7 +469,7 @@ Bậc Ðạo sư chấm dứt bài thuyết giảng và nhận diện Tiền th�
 
 -ooOoo-
 
-**344. Chuyện Người Ăn Trộm Xoài (Tiền thân Ambacora)**
+### 344. Chuyện Người Ăn Trộm Xoài (Tiền thân Ambacora) {#344}
 
 ***Cô nào đã ăn xoài ngài đó…,***
 
@@ -558,7 +565,7 @@ Sau khi thuyết giảng xong bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**345. Chuyện Con Rùa Lười Biếng (Tiền thân Gajakumbha)**
+### 345. Chuyện Con Rùa Lười Biếng (Tiền thân Gajakumbha) {#345}
 
 ***Một khi lửa cháy lan rừng…,***
 
@@ -630,7 +637,7 @@ Bậc Ðạo Sư chấm dứt bài thuyết giảng rồi nhận diện Tiền t
 
 -ooOoo-
 
-**346. Chuyện Đạo Sĩ Kesava (Tiền thân Kesava)**
+### 346. Chuyện Đạo Sĩ Kesava (Tiền thân Kesava) {#346}
 
 ***Ngài vừa sống cùng hàng vương giả…,***
 
@@ -740,7 +747,7 @@ Sau khi chấm dứt bài thuyết giảng, bậc Ðạo Sư nhận Tiền thân
 
 -ooOoo-
 
-**347. Chuyện Cái Chày Sắt (Tiền thân Ayakùta)**
+### 347. Chuyện Cái Chày Sắt (Tiền thân Ayakùta) {#347}
 
 ***Tại sao giữa không trung ngươi đang đứng…,***
 
@@ -804,7 +811,7 @@ Bậc Ðạo Sư chấm dứt bài thuyết giảng ở đây rồi nhận di�
 
 -ooOoo-
 
-**348. Chuyện Chốn Rừng Hoang (Tiền thân Aranna)**
+### 348. Chuyện Chốn Rừng Hoang (Tiền thân Aranna) {#348}
 
 ***Mối nghi này, thưa cha, xin giải tỏa…,***
 
@@ -866,7 +873,7 @@ Bậc Ðạo Sư chấm dứt bài thuyết giảng và nhận diện Tiền th�
 
 -ooOoo-
 
-**349. Chuyện Lời Gièm Pha (Tiền thân Sandhibheda)**
+### 349. Chuyện Lời Gièm Pha (Tiền thân Sandhibheda) {#349}
 
 ***Cặp này chẳng có gì chung…,***
 
@@ -966,6 +973,6 @@ Bậc Ðạo Sư chấm dứt bài thuyết giảng và nhận diện Tiền th�
 
 -ooOoo-
 
-**350. Chuyện Vấn Đáp Của Chư Thiên (Tiền thân Devatàpanhã)**
+### 350. Chuyện Vấn Đáp Của Chư Thiên (Tiền thân Devatàpanhã) {#350}
 
 Chuyện này sẽ được kể trong số 546. Tiền thân Mahà-Ummagga.

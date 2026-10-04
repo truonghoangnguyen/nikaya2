@@ -1,12 +1,17 @@
-# [05] Chương IX – Phẩm Chín Bài Kệ
+---
+title: Chuyện Tiền Thân Phần IV
+---
 
-#### [C9](#p4)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
+
+
+# [05] Chương IX – Phẩm Chín Bài Kệ
 
 **Chương IX**
 
 **Phẩm Chín Bài Kệ**
 
-**427. Chuyện Chim Thứu (Tiền thân Gijjha)**
+### 427. Chuyện Chim Thứu (Tiền thân Gijjha) {#427}
 
 ***Ðược làm bằng đám gỗ chênh vênh…,***
 
@@ -92,7 +97,7 @@ Khi được bậc Ðạo Sư giáo huấn như trên, từ đó về sau v�
 
 -ooOoo-
 
-**428. Chuyện Giáo Hội Ở Kosambi (Tiền thân Kosambi)**
+### 428. Chuyện Giáo Hội Ở Kosambi (Tiền thân Kosambi) {#428}
 
 ***Khi giáo hội bị chia hai, ly tán…,***
 
@@ -232,7 +237,7 @@ Các Tỷ-kheo ấy bị túng quẩn vì hình thức xử phạt này, liền�
 
 -ooOoo-
 
-**429. Chuyện Ðại Anh Vũ (Tiền thân Mahàsuka)**
+### 429. Chuyện Ðại Anh Vũ (Tiền thân Mahàsuka) {#429}
 
 ***Bất cứ khi nào cây trái sinh…,***
 
@@ -339,7 +344,7 @@ Về vườn Thiên lạc cõi Thiên thần.*
 
 -ooOoo-
 
-**430. Chuyện Tiểu Anh Vũ (Tiền thân Cullasuka)**
+### 430. Chuyện Tiểu Anh Vũ (Tiền thân Cullasuka) {#430}
 
 ***Nhìn cây vô số ở quanh đây…,***
 
@@ -427,7 +432,7 @@ An hưởng vườn Thiên lạc hiển vinh*
 
 -ooOoo-
 
-**431. Chuyện Nam Tử Hàrita (Tiền thân Hàrita)**
+### 431. Chuyện Nam Tử Hàrita (Tiền thân Hàrita) {#431}
 
 ***Hà-ri Hiền hữu, trẫm nghe rằng…,***
 
@@ -560,7 +565,7 @@ Hướng đến Phạm thiên tiến thẳng đường.*
 
 -ooOoo-
 
-**432. Chuyện Cậu Bé Có Tài Nhận Dấu Chân (Tiền thân Padakusalamànava)**
+### 432. Chuyện Cậu Bé Có Tài Nhận Dấu Chân (Tiền thân Padakusalamànava) {#432}
 
 ***Pà- ta bị cuốn bởi sông Hằng…,***
 
@@ -1034,7 +1039,7 @@ Vì thế họ đứng lên với trượng, chùy trong tay đánh vua và v�
 
 -ooOoo-
 
-**433. Chuyện Vị Khổ Hạnh Ca- Diếp Nhiều Lông Tóc (Tiền thân Lomasa Kassapa)**
+### 433. Chuyện Vị Khổ Hạnh Ca- Diếp Nhiều Lông Tóc (Tiền thân Lomasa Kassapa) {#433}
 
 ***Ðại vương sẽ giống hệt Ind-ra…,***
 
@@ -1209,7 +1214,7 @@ Cùng với những lời này, ngài tập trung vào một đối tượng Th
 
 -ooOoo-
 
-**434. Chuyện Chim Hồng Nga (Tiền thân Cakkavàka)**
+### 434. Chuyện Chim Hồng Nga (Tiền thân Cakkavàka) {#434}
 
 ***Ðôi chim lông óng ả, màu vàng…,***
 
@@ -1312,7 +1317,7 @@ Và nó bay đi xa với tiếng kêu quác quác.
 
 -ooOoo-
 
-**435. Chuyện Ước Mơ Chóng Phai Tàn (Tiền thân Halidaràga)**
+### 435. Chuyện Ước Mơ Chóng Phai Tàn (Tiền thân Halidaràga) {#435}
 
 ***Trong chốn rừng hoang vắng một mình…,***
 
@@ -1406,7 +1411,7 @@ Sau đó phụ thân chàng lại khuyến giáo nhiều hơn nữa và dạy c
 
 -ooOoo-
 
-**436. Chuyện Cái Hộp (Tiền thân Samuggu)**
+### 436. Chuyện Cái Hộp (Tiền thân Samuggu) {#436}
 
 ***Kìa đến từ đâu, các bạn ta?…,***
 
@@ -1545,7 +1550,7 @@ Vì thế nó thả cho nàng đi, rồi trở về hang cũ trong rừng.
 
 -ooOoo-
 
-**437. Chuyện Chó Rừng Pùtimunsa (Tiền thân Pùtimunsa)**
+### 437. Chuyện Chó Rừng Pùtimunsa (Tiền thân Pùtimunsa) {#437}
 
 ***Sao Pù -ti lại ngó trừng trừng…,***
 
@@ -1674,7 +1679,7 @@ Cùng với những lời này, chó cái ra sức chạy vội vàng để t�
 
 -ooOoo-
 
-**438. Chuyện Con Gà Gô (Tiền thân Tittira)**
+### 438. Chuyện Con Gà Gô (Tiền thân Tittira) {#438}
 
 ***Nó đã ăn tươi bọn trẻ thơ …,***
 

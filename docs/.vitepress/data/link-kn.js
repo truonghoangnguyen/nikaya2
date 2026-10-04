@@ -384,7 +384,338 @@ export default {
         }
       }
     }
-  }
+  },
+  ja: {
+    "folder": "kinhtieubo",
+    "name": "Chuyện tiền thân/ Jātaka",
+    "editions": {
+      "tmc": {
+        "label": "TM Châu-Trần Phương Lan",
+        "path": "thichminhchau",
+        "index_length": 2,
+        flat: true,
+        "items": {
+          "1": {
+            "title": "[01] PHẨM APANNAKA",
+            "slug": "kn-072-tap-10-p1-pham-apannaka",
+            "children": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
+          },
+          "2": {
+            "title": "[02] PHẨM GIỚI",
+            "slug": "kn-073-tap-10-p1-pham-gioi",
+            "children": ["11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
+          },
+          "3": {
+            "title": "[03] PHẨM KURUNGA",
+            "slug": "kn-074-tap-10-p1-pham-kurunga",
+            "children": ["21", "22", "23", "24", "25", "26", "27", "28", "29", "30"]
+          },
+          "4": {
+            "title": "[04] PHẨM KULAVAKA",
+            "slug": "kn-075-tap-10-p1-pham-kulavaka",
+            "children": ["31", "32", "33", "34", "36", "37", "38", "39", "40"]
+          },
+          "5": {
+            "title": "[05] PHẨM LỢI ÁI",
+            "slug": "kn-076-tap-10-p1-pham-loi-ai",
+            "children": ["41", "42", "43", "44", "45", "46", "47", "48", "49", "50"]
+          },
+          "6": {
+            "title": "[06] PHẨM ÀSIMSA",
+            "slug": "kn-077-tap-10-p1-pham-asimsa",
+            "children": ["51", "53", "54", "55", "56", "57", "58", "59", "60"]
+          },
+          "7": {
+            "title": "[07] PHẨM NỮ NHÂN",
+            "slug": "kn-078-tap-10-p1-pham-nu-nhan",
+            "children": ["61", "62", "63", "64", "65", "66", "67", "68", "69", "70"]
+          },
+          "8": {
+            "title": "[08] PHẨM VARANA",
+            "slug": "kn-079-tap-10-p1-pham-varana",
+            "children": ["71", "72", "74", "75", "76", "77", "78", "79", "80"]
+          },
+          "9": {
+            "title": "[09] PHẨM APAYIMHA",
+            "slug": "kn-080-tap-10-p1-pham-apayimha",
+            "children": ["81", "82", "83", "84", "85", "86", "87", "88", "89", "90"]
+          },
+          "10": {
+            "title": "[10] PHẨM LITTA",
+            "slug": "kn-081-tap-10-p1-pham-litta",
+            "children": ["91", "92", "93", "94", "95", "96", "97", "98", "99", "100"]
+          },
+          "11": {
+            "title": "[11] PHẨM PAROSSATA",
+            "slug": "kn-082-tap-10-p1-pham-parossata",
+            "children": ["101", "102", "103", "104", "105", "106", "107", "108", "109", "110"]
+          },
+          "12": {
+            "title": "[12] PHẨM HAMSA",
+            "slug": "kn-083-tap-10-p1-pham-hamsa",
+            "children": ["111", "112", "113", "114", "115", "116", "117", "118", "119", "120"]
+          },
+          "13": {
+            "title": "[13] PHẨM KUSANÀLI",
+            "slug": "kn-084-tap-10-p1-pham-kusanali",
+            "children": ["121", "122", "123", "124", "125", "126", "127", "128", "129", "130"]
+          },
+          "14": {
+            "title": "[14] PHẨM ASAMPADÀNA",
+            "slug": "kn-085-tap-10-p1-pham-asampadana",
+            "children": ["131", "133", "134", "135", "136", "137", "138", "139", "140"]
+          },
+          "15": {
+            "title": "[15] PHẨM KAKANTAKA",
+            "slug": "kn-086-tap-10-p1-pham-kakantaka",
+            "children": ["141", "142", "143", "144", "145", "146", "147", "148", "149", "150"]
+          },
+          "17": {
+            "title": "[01] PHẨM DALHA",
+            "slug": "kn-088-tap-10-p2-pham-dalha",
+            "children": ["151", "152", "153", "154", "155", "156", "157", "158", "159", "160"]
+          },
+          "18": {
+            "title": "[02] PHẨM SANTAHAVA",
+            "slug": "kn-089-tap-10-p2-pham-santahava",
+            "children": ["161", "162", "163", "164", "165", "166", "167", "168", "169", "170"]
+          },
+          "19": {
+            "title": "[03] PHẨM THIỆN PHÁP",
+            "slug": "kn-090-tap-10-p2-pham-thien-phap",
+            "children": ["171", "172", "173", "174", "175", "176", "177", "178", "179", "180"]
+          },
+          "20": {
+            "title": "[04] PHẨM ASADISA",
+            "slug": "kn-091-tap-10-p2-pham-asadisa",
+            "children": ["181", "182", "183", "184", "185", "186", "187", "188", "189", "190"]
+          },
+          "21": {
+            "title": "[05] PHẨM RUHAKA",
+            "slug": "kn-092-tap-10-p2-pham-ruhaka",
+            "children": ["191", "192", "193", "194", "195", "196", "197", "198", "199", "200"]
+          },
+          "22": {
+            "title": "[06] PHẨM NATAMDAIHA",
+            "slug": "kn-093-tap-10-p2-pham-natamdaiha",
+            "children": ["201", "202", "203", "204", "205", "206", "207", "208", "209", "210"]
+          },
+          "23": {
+            "title": "[07] PHẨM BIRANATTHAMBAHAKA (Ðám cỏ thơm)",
+            "slug": "kn-094-tap-10-p2-pham-biranatthambahaka-dam-co-thom",
+            "children": ["211", "212", "214", "215", "216", "217", "218", "219", "220"]
+          },
+          "24": {
+            "title": "[08] PHẨM KÀSÀVA",
+            "slug": "kn-095-tap-10-p2-pham-kasava",
+            "children": ["221", "222", "223", "224", "225", "226", "227", "228", "229", "230"]
+          },
+          "25": {
+            "title": "[09] PHẨM UPÀHANA",
+            "slug": "kn-096-tap-10-p2-pham-upahana",
+            "children": ["231", "232", "233", "234", "235", "236", "237", "238", "239", "240"]
+          },
+          "26": {
+            "title": "[10] PHẨM SIGÀLA(Chó rừng)",
+            "slug": "kn-097-tap-10-p2-pham-sigala-cho-rung",
+            "children": ["241", "242", "243", "244", "245", "246", "247", "248", "249", "250"]
+          },
+          "28": {
+            "title": "[01] Chương III – Phẩm Sankappa",
+            "slug": "kn-099-tap-10-p3-chuong-3-pham-sankappa",
+            "children": ["251", "252", "253", "254", "255", "256", "257", "258", "259", "260"]
+          },
+          "29": {
+            "title": "[02] Chương III – Phẩm Kosya",
+            "slug": "kn-100-tap-10-p3-chuong-3-pham-kosya",
+            "children": ["261", "262", "263"]
+          },
+          "30": {
+            "title": "[03] Chương III – Phẩm Ba Bài Kệ",
+            "slug": "kn-101-tap-10-p3-chuong-3-pham-ba-bai-ke",
+            "children": ["264", "265", "266", "267", "268", "269", "270", "271", "272", "273"]
+          },
+          "31": {
+            "title": "[04] Chương III – Phẩm Ba Bài Kệ (tt)",
+            "slug": "kn-102-tap-10-p3-chuong-3-pham-ba-bai-ke-tt",
+            "children": ["274", "275", "276", "277", "278", "279", "280", "281", "282", "283", "284", "285"]
+          },
+          "32": {
+            "title": "[05] Chương III – Phẩm Ba Bài Kệ (tt)",
+            "slug": "kn-103-tap-10-p3-chuong-3-pham-ba-bai-ke-tt",
+            "children": ["286", "287", "288", "289", "290", "291", "292", "293", "294", "295", "296", "297", "298", "299", "300"]
+          },
+          "33": {
+            "title": "[06] Chương IV – Phẩm Bốn Bài Kệ",
+            "slug": "kn-104-tap-10-p3-chuong-4-pham-bon-bai-ke",
+            "children": ["301", "302", "303", "304", "306", "307", "308", "309"]
+          },
+          "34": {
+            "title": "[07] Chương IV – Phẩm Bốn Bài Kệ (tt)",
+            "slug": "kn-105-tap-10-p3-chuong-4-pham-bon-bai-ke-tt",
+            "children": ["310", "311", "312", "313", "314", "315", "316", "317"]
+          },
+          "35": {
+            "title": "[08] Chương IV – Phẩm Bốn Bài Kệ (tt)",
+            "slug": "kn-106-tap-10-p3-chuong-4-pham-bon-bai-ke-tt",
+            "children": ["318", "319", "320", "321", "322", "323", "324", "325"]
+          },
+          "36": {
+            "title": "[09] Chương IV – Phẩm Bốn Bài Kệ (tt)",
+            "slug": "kn-107-tap-10-p3-chuong-4-pham-bon-bai-ke-tt",
+            "children": ["326", "327", "328", "329", "330", "331", "333", "334", "335", "363", "337"]
+          },
+          "37": {
+            "title": "[10] Chương IV – Phẩm Bốn Bài Kệ (tt)",
+            "slug": "kn-108-tap-10-p3-chuong-4-pham-bon-bai-ke-tt",
+            "children": ["338", "339", "340", "341", "342", "343", "344", "345", "346", "347", "348", "349", "350"]
+          },
+          "39": {
+            "title": "[01] Chương V – Phẩm Năm Bài Kệ",
+            "slug": "kn-110-tap-10-p4-chuong-v-pham-nam-bai-ke",
+            "children": ["351", "352", "353", "354", "355", "356", "357", "358", "359", "360", "361", "362", "363", "364", "365", "366", "367", "368", "369", "370", "371"]
+          },
+          "40": {
+            "title": "[02] Chương VI – Phẩm Sáu Bài Kệ",
+            "slug": "kn-111-tap-10-p4-chuong-vi-pham-sau-bai-ke",
+            "children": ["372", "373", "374", "375", "376", "377", "378", "379", "380", "381", "382", "383", "384", "385", "387", "388", "389", "390", "391", "392", "393", "394", "395"]
+          },
+          "41": {
+            "title": "[03] Chương VII – Phẩm Bảy Bài Kệ",
+            "slug": "kn-112-tap-10-p4-chuong-vii-pham-bay-bai-ke",
+            "children": ["396", "397", "398", "399", "400", "401", "402", "403", "404", "405", "406", "407", "408", "409", "410", "411", "412", "413", "414", "415", "416"]
+          },
+          "42": {
+            "title": "[04] Chương VIII – Phẩm Tám Bài Kệ",
+            "slug": "kn-113-tap-10-p4-chuong-viii-pham-tam-bai-ke",
+            "children": ["417", "418", "419", "420", "421", "422", "423", "424", "425", "426"]
+          },
+          "43": {
+            "title": "[05] Chương IX – Phẩm Chín Bài Kệ",
+            "slug": "kn-114-tap-10-p4-chuong-ix-pham-chin-bai-ke",
+            "children": ["427", "428", "429", "430", "431", "432", "433", "434", "435", "436", "437", "438"]
+          },
+          "44": {
+            "title": "[06] Chương X – Phầm Mười Bài Kệ",
+            "slug": "kn-115-tap-10-p4-chuong-x-pham-muoi-bai-ke",
+            "children": ["439", "440", "441", "442", "443", "444", "445", "446", "447", "448", "449", "451", "452", "453", "454"]
+          },
+          "45": {
+            "title": "[07] Chương XI – Phẩm Mười Một Bài Kệ",
+            "slug": "kn-116-tap-10-p4-chuong-xi-pham-muoi-mot-bai-ke",
+            "children": ["455", "456", "457", "458", "459", "460", "461", "462", "463"]
+          },
+          "46": {
+            "title": "[08] Chương XII – Phẩm Mười Hai Bài Kệ",
+            "slug": "kn-117-tap-10-p4-chuong-xii-pham-muoi-hai-bai-ke",
+            "children": ["464", "465", "466", "467", "468", "469", "470", "471", "472", "473"]
+          },
+
+          "48": {
+            "title": "[01] Chương XIII – Phẩm Mười Ba Bài Kệ",
+            "slug": "kn-119-tap-10-p5-chuong-xiii-pham-muoi-ba-bai-ke",
+            "children": ["474", "475", "476", "477", "478", "479", "480", "481", "482", "483"]
+          },
+          "49": {
+            "title": "[02] Chương XIV – Tạp Phẩm",
+            "slug": "kn-120-tap-10-p5-chuong-xiv-tap-pham",
+            "children": ["484", "485", "486", "487", "488", "489", "490", "491", "492", "493", "494", "495", "496"]
+          },
+          "50": {
+            "title": "[03] Chương XV – Phẩm Hai Mươi Bài Kệ",
+            "slug": "kn-121-tap-10-p5-chuong-xv-pham-hai-muoi-bai-ke",
+            "children": ["498", "500", "501", "502", "503", "504", "505", "506", "507", "508", "509", "510"]
+          },
+          "51": {
+            "title": "[04] Chương XVI – Phẩm Ba Mươi Bài Kệ",
+            "slug": "kn-122-tap-10-p5-chuong-xvi-pham-ba-muoi-bai-ke",
+            "children": ["511", "512", "513", "514", "515", "516", "517", "518", "519", "520"]
+          },
+          "52": {
+            "title": "[05] Chương XVII – Phẩm Bốn Mươi Bài Kệ",
+            "slug": "kn-123-tap-10-p5-chuong-xvii-pham-bon-muoi-bai-ke",
+            "children": ["521", "522", "523", "524", "525"]
+          },
+          "53": {
+            "title": "[06] Chương XVIII – Phẩm Năm Mươi Bài Kệ",
+            "slug": "kn-124-tap-10-p5-chuong-xviii-pham-nam-muoi-bai-ke",
+            "children": ["526", "527", "528"]
+          },
+          "54": {
+            "title": "[07] Chương XIX – Phẩm Sáu Mươi Bài Kệ",
+            "slug": "kn-125-tap-10-p5-chuong-xix-pham-sau-muoi-bai-ke",
+            "children": ["529", "530"]
+          },
+          "55": {
+            "title": "[08] Chương XX – Phẩm Bảy Mươi Bài Kệ",
+            "slug": "kn-126-tap-10-p5-chuong-xx-pham-bay-muoi-bai-ke",
+            "children": ["531", "532"]
+          },
+          "56": {
+            "title": "PHẦN 6 – CHƯƠNG XXI, CHƯƠNG XXII",
+            "slug": "kn-127-tap-10-p6",
+            "children": []
+          },
+          "57": {
+            "title": "[01] Chương XXI – Phẩm Tám Mươi Bài Kệ Phần 1",
+            "slug": "kn-128-tap-10-p6-chuong-xxi-pham-tam-muoi-bai-ke",
+            "children": ["533", "534", "535"]
+          },
+          "58": {
+            "title": "[02] Chương XXI – Phẩm Tám Mươi Bài Kệ (tt) Phần 2",
+            "slug": "kn-129-tap-10-p6-chuong-xxi-pham-tam-muoi-bai-ke-tt",
+            "children": ["536", "537"]
+          },
+          "59": {
+            "title": "[03] Chương XXII – Đại Phẩm - Phần 1",
+            "slug": "kn-130-tap-10-p6-chuong-xxii-dai-pham-1",
+            "children": ["538", "539"]
+          },
+          "60": {
+            "title": "[04] Chương XXII – Đại Phẩm (tt) - Phần 2",
+            "slug": "kn-131-tap-10-p6-chuong-xxii-dai-pham-2",
+            "children": ["540"]
+          },
+          "61": {
+            "title": "[05] Chương XXII – Đại Phẩm (tt) - Phần 3",
+            "slug": "kn-132-tap-10-p6-chuong-xxii-dai-pham-3",
+            "children": ["541"]
+          },
+          "62": {
+            "title": "[06] Chương XXII – Đại Phẩm (tt) - Phần 4",
+            "slug": "kn-133-tap-10-p6-chuong-xxii-dai-pham-4",
+            "children": ["542"]
+          },
+          "63": {
+            "title": "[07] Chương XXII – Đại Phẩm (tt) - Phần 5",
+            "slug": "kn-134-tap-10-p6-chuong-xxii-dai-pham-5",
+            "children": ["543"]
+          },
+          "64": {
+            "title": "[08] Chương XXII – Đại Phẩm (tt) - Phần 6",
+            "slug": "kn-135-tap-10-p6-chuong-xxii-dai-pham-6",
+            "children": ["544"]
+          },
+          "65": {
+            "title": "[09] Chương XXII – Đại Phẩm (tt) - Phần 7",
+            "slug": "kn-136-tap-10-p6-chuong-xxii-dai-pham-7",
+            "children": ["545"]
+          },
+          "66": {
+            "title": "[10] Chương XXII – Đại Phẩm (tt) - Phần 8",
+            "slug": "kn-137-tap-10-p6-chuong-xxii-dai-pham-8",
+            "children": ["546"]
+          },
+          "67": {
+            "title": "[11] Chương XXII – Đại Phẩm (tt) - Phần 9",
+            "slug": "kn-138-tap-10-p6-chuong-xxii-dai-pham-9",
+            "children": ["547"]
+          }
+        }
+      }
+    }
+  },
+
 }
 
 

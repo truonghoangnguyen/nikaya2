@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần VI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
+
 # [03] Chương XXII – Đại Phẩm - Phần 1
 
 **Chương XXII**
 
 **Đại Phẩm**
 
-**538. Chuyện Vương tử què câm (Tiền thân Mùga-Pakka)**
+### 538. Chuyện Vương tử què câm (Tiền thân Mùga-Pakka) {#538}
 
 ***Con ơi đừng lộ trí thông minh…,***
 
@@ -988,7 +995,7 @@ Như vậy có cả ba quốc độ không người cai trị, voi ngựa đư�
 
 -ooOoo-
 
-**539. Chuyện Đại vương Mahàjanaka (Tiền thân Mahà-Janaka)**
+### 539. Chuyện Đại vương Mahàjanaka (Tiền thân Mahà-Janaka) {#539}
 
 ***Chàng là ai chiến đấu anh hùng…,***
 

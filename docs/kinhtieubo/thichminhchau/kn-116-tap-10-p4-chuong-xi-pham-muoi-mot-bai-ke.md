@@ -1,12 +1,17 @@
-# [07] Chương XI – Phẩm Mười Một Bài Kệ
+---
+title: Chuyện Tiền Thân Phần IV
+---
 
-#### [C11](#p6)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
+
+
+# [07] Chương XI – Phẩm Mười Một Bài Kệ
 
 **Chương XI**
 
 **Phẩm Mười Một Bài Kệ**
 
-**455. Chuyện Voi Hiếu Dưỡng Mẹ (Tiền thân Màti-Posaka)**
+### 455. Chuyện Voi Hiếu Dưỡng Mẹ (Tiền thân Màti-Posaka) {#455}
 
 ***Cho dù voi chúa phải đi xa…,***
 
@@ -156,7 +161,7 @@ Vua rất hoan hỷ vì đức độ của Bồ tát nên ra lệnh xây một 
 
 -ooOoo-
 
-**456. Chuyện Vương Tử Nguyệt Quang (Tiền thân Junha)**
+### 456. Chuyện Vương Tử Nguyệt Quang (Tiền thân Junha) {#456}
 
 ***Tâu Ðại vương nghe lão nói điều này…,***
 
@@ -323,7 +328,7 @@ Bồ tát liền tỏ thêm niềm quý trọng đối với đạo sĩ kia.
 
 -ooOoo-
 
-**457. Chuyện Thiên Tử Chánh Pháp (Tiền thân Dhamma)**
+### 457. Chuyện Thiên Tử Chánh Pháp (Tiền thân Dhamma) {#457}
 
 ***Ta hành chánh hạnh giữa trần gian…,***
 
@@ -466,7 +471,7 @@ Như ngài Chánh pháp trên xa giá\
 
 -ooOoo-
 
-**458. Chuyện Vua Thiện Lai (Tiền thân Udaya)**
+### 458. Chuyện Vua Thiện Lai (Tiền thân Udaya) {#458}
 
 ***Dung sắc nàng trong sáng, vẹn toàn…,***
 
@@ -698,7 +703,7 @@ Ngày kế tiếp, công chúa liền giao việc trị nước cho các triều
 
 -ooOoo-
 
-**459. Chuyện Ngụm Nước Uống (Tiền thân Paniya)**
+### 459. Chuyện Ngụm Nước Uống (Tiền thân Paniya) {#459}
 
 ***Ngụm nước kia còn là của bạn mình..,***
 
@@ -886,7 +891,7 @@ Và ngay giữa tiếng khóc lóc kêu gào của quần chúng, ngài vụt l�
 
 -ooOoo-
 
-**460. Chuyện Thái Tử Yuvanjana (Tiền thân Yuvanjana)**
+### 460. Chuyện Thái Tử Yuvanjana (Tiền thân Yuvanjana) {#460}
 
 ***Con xin đảnh lễ đấng Quân vương..***
 
@@ -1042,7 +1047,7 @@ Chặt đứt làm đôi xích tử thần.*
 
 -ooOoo-
 
-**461. Chuyện Đại Vương Dasaratha (Tiền thân Dasaratha)**
+### 461. Chuyện Đại Vương Dasaratha (Tiền thân Dasaratha) {#461}
 
 ***Lak-kha hiền đệ lẫn Si-ta..,***
 
@@ -1238,7 +1243,7 @@ Cổ ngài ba ngấn, hạnh phúc tràn*
 
 -ooOoo-
 
-**462. Chuyện Vương Tử Samvara (Tiền thân Samvara)**
+### 462. Chuyện Vương Tử Samvara (Tiền thân Samvara) {#462}
 
 ***Quả xưa thánh thượng đã tinh tường..,***
 
@@ -1421,7 +1426,7 @@ Các vị ấy lại ra về lãnh thổ của mọi người. Còn vua theo l�
 
 -ooOoo-
 
-**463. Chuyện Trí Giả Suppàraka (Tiền thân Suppàraka)**
+### 463. Chuyện Trí Giả Suppàraka (Tiền thân Suppàraka) {#463}
 
 ***Những người kia mũi nhọn như dao..,***
 

@@ -1,18 +1,23 @@
-# [08] Chương XII – Phẩm Mười Hai Bài Kệ
+---
+title: Chuyện Tiền Thân Phần IV
+---
 
-#### [C12](#p7)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
+
+
+# [08] Chương XII – Phẩm Mười Hai Bài Kệ
 
 **Chương XII**
 
 **Phẩm MườI Hai Bài Kệ**
 
-**464. Chuyện Tiểu Vương Điểu Kùnala (Tiền thân Culla – Kanàla)**
+### 464. Chuyện Tiểu Vương Điểu Kùnala (Tiền thân Culla – Kanàla) {#464}
 
 *Chuyện này sẽ được kể trong Tiền thân Kunàla, số 536, tập VII.*
 
 -ooOoo-
 
-**465. Chuyện Sàla, Cổ Thụ Cát Tường (Tiền thân Bhadda-Sàla)**
+### 465. Chuyện Sàla, Cổ Thụ Cát Tường (Tiền thân Bhadda-Sàla) {#465}
 
 ***Ngài là ai đứng giữa không gian..,***
 
@@ -460,7 +465,7 @@ Vị Thần chúa, sau khi thuyết giáo vua xong, liền ra đi. Còn vua an 
 
 -ooOoo-
 
-**466. Chuyện Thương Nhân Trên Biển Cả (Tiền thân Samudda – Vànijà)**
+### 466. Chuyện Thương Nhân Trên Biển Cả (Tiền thân Samudda – Vànijà) {#466}
 
 ***Người thì gieo hạt, kẻ đi cày…,***
 
@@ -670,7 +675,7 @@ Chẳng hề lâm cảnh ngộ đau buồn.*
 
 -ooOoo-
 
-**467. Chuyện Dục Tham (Tiền thân Kàma)**
+### 467. Chuyện Dục Tham (Tiền thân Kàma) {#467}
 
 ***Người nào mong ước việc trong lòng…,***
 
@@ -930,7 +935,7 @@ Thuyết giáo cho vua xong, ngài bay qua không gian đến Tuyết Sơn, và
 
 -ooOoo-
 
-**468. Chuyện Ðại vương Janasandha (Tiền thân Janasandha)**
+### 468. Chuyện Ðại vương Janasandha (Tiền thân Janasandha) {#468}
 
 ***Chúa tể Ja-na nói thế này…,***
 
@@ -1044,7 +1049,7 @@ Như vậy, cứ mỗi tháng hai lần, bậc Ðại Sĩ thuyết giáo theo �
 
 -ooOoo-
 
-**469. Chuyện Ðại Hắc Thiên Cẩu (Tiền thân Mahà Kanha)**
+### 469. Chuyện Ðại Hắc Thiên Cẩu (Tiền thân Mahà Kanha) {#469}
 
 ***Chó săn đen sẫm buộc năm dây…,***
 
@@ -1192,19 +1197,19 @@ Rồi sau khi thuyết Pháp trong bốn vần kệ đáng ghi nhớ và hướ
 
 -ooOoo-
 
-**470. Chuyện Phú Ông Keo Kiệt (Tiền thân Kosiya)**
+### 470. Chuyện Phú Ông Keo Kiệt (Tiền thân Kosiya) {#470}
 
 *Chuyện phú ông keo kiệt sẽ được kể trong số 535. Tiền thân Thực phẩm Thiên giới (Sudhàbhojana), Tập VI.*
 
 -ooOoo-
 
-**471. Chuyện Con Dê (Tiền thân Mendaka)**
+### 471. Chuyện Con Dê (Tiền thân Mendaka) {#471}
 
 *Chuyện con dê sẽ được kể trong số 546, Tiền thân Ðường Hầm Lớn (Mahà Ummagga). Tập VII.*
 
 -ooOoo-
 
-**472. Chuyện Vương Tử Liên Hoa (Tiền thân Mahà – Paduma)**
+### 472. Chuyện Vương Tử Liên Hoa (Tiền thân Mahà – Paduma) {#472}
 
 ***Vua chẳng nên trừng phạt tội hình…,***
 
@@ -1577,7 +1582,7 @@ Kết thúc Tiền thân ấy của ta.*
 
 -ooOoo-
 
-**473. Chuyện Bạn – Thù (Tiền thân Mitàmitta)**
+### 473. Chuyện Bạn – Thù (Tiền thân Mitàmitta) {#473}
 
 ***Làm sao người trí phải tinh cần…,***
 
