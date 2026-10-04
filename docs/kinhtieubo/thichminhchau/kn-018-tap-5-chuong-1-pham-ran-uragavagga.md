@@ -10,7 +10,7 @@ title: Kinh Tập Suttanipāta - Chương Một – Phẩm Rắn (Uragavagga)
 
 # Chương Một – Phẩm Rắn (Uragavagga)
 
-### **(I) Kinh Rắn (Sn 1)** {#1}
+### **(I) Kinh Rắn (Sn 1)** {#1_}
 
 1. Ai nhiếp phục phẫn nộ {#1}\
 Ðang được dấy khởi lên,\
@@ -165,7 +165,7 @@ Bờ này và bờ kia,\
 Như loài rắn thoát bỏ\
 Da rắn cũ già xưa.
 
-### **(II) Kinh Dhaniya (Sn 3)** {#2}
+### **(II) Kinh Dhaniya (Sn 3)** {#2_}
 
 Dhaniya:
 
@@ -376,7 +376,7 @@ Chính do sự sanh y,\
 Ai không có sanh y,\
 Không thể có sầu muộn.
 
-### **(III) Kinh Con Tê Ngưu Một Sừng (Sn 6)** {#3}
+### **(III) Kinh Con Tê Ngưu Một Sừng (Sn 6)** {#3_}
 
 35. Ðối với các hữu tình, {#35}\
 Từ bỏ gậy và trượng,\
@@ -747,7 +747,7 @@ Không phải người trong sạch,\
 Hãy sống riêng một mình\
 Như tê ngưu một sừng.
 
-### **(IV) Kinh Bhàradvàja, Người Cày Ruộng (Sn 12)** {#4}
+### **(IV) Kinh Bhàradvàja, Người Cày Ruộng (Sn 12)** {#4_}
 
 Như vầy tôi nghe:
 
@@ -838,7 +838,7 @@ Rồi Bà-la-môn Kasibhàradvàja đem nhận chìm cháo sữa ấy vào nư�
 
 Rồi Bà-la-môn Kasibhàradvàja được xuất gia với Sa-môn Gotama, được thọ đại giới. Thọ đại giới không bao lâu, Tôn giả Bhàradvàja sống một mình, viễn ly, không phóng dật, nhiệt tâm, tinh cần. Không bao lâu, do vì mục đích gì, bậc thiên nam tử chơn chánh xuất gia, từ bỏ gia đình, sống không gia đình, vị ấy ngay trong hiện tại, tự mình với thắng trí, chứng ngộ, chứng đạt và an trú cứu cánh Phạm hạnh ấy. Vị ấy thắng tri: “Sanh đã tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn trở lui trạng thái này nữa “. Tôn giả Bhàradvàja trở thành một vị A-la-hán.
 
-### **(V) Kinh Cunda (Sn 16)** {#5}
+### **(V) Kinh Cunda (Sn 16)** {#5_}
 
 83. Người thợ rèn Cunda, {#83}\
 Nói lên lời như sau:\
@@ -926,7 +926,7 @@ Kẻ ác với người thiện,\
 Làm sao xem giống nhau,\
 Bậc tịnh, kẻ không tịnh.
 
-### **(VI) Kinh Bại Vong (Paràbhava) (Sn 18)** {#6}
+### **(VI) Kinh Bại Vong (Paràbhava) (Sn 18)** {#6_}
 
 Như vầy tôi nghe:
 
@@ -1105,7 +1105,7 @@ Bậc trí khéo quán sát,\
 Ðầy đủ với chánh kiến,\
 Sống hạnh phúc ở đời.
 
-### **(VII) Kinh Kẻ Bần Tiện (Vasalasuttam) (Sn 21)** {#7}
+### **(VII) Kinh Kẻ Bần Tiện (Vasalasuttam) (Sn 21)** {#7_}
 
 Như vầy tôi nghe:
 
@@ -1269,7 +1269,7 @@ Khi được nói vậy, Bà-la-môn Bhàradvàja bạch Thế Tôn:
 
 – Thật vi diệu thay, thưa Tôn giả Gotama! Thật vi diệu thay, thưa Tôn giả Gotama! Thưa Tôn giả Gotama, ví như người dựng đứng lại những gì bị quăng ngã xuống, mở toang ra những gì bị che kín, chỉ đường cho kẻ bị lạc hướng, đem đèn sáng vào trong bóng tối, để những ai có mắt có thể thấy sắc. Cũng vậy, Pháp được Tôn giả Gotama dùng nhiều phương tiện trình bày. Con nay qui y Tôn giả Gotama, qui y Pháp và qui y chúng Tỷ-kheo. Mong Tôn giả Gotama nhận con làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời qui ngưỡng.
 
-### **(VIII) Kinh Từ Bi (Metta Sutta) (Sn 25)** {#8}
+### **(VIII) Kinh Từ Bi (Metta Sutta) (Sn 25)** {#8_}
 
 143. Vị thiện xảo mục đích, {#143}\
 Cần phải làm như sau:\
@@ -1355,7 +1355,7 @@ Nhiếp phục được tham ái,\
 Không còn phải tái sanh,\
 Ði đến thai tạng nữa.
 
-### **(IX) Kinh Hemavata (Sn 27)** {#9}
+### **(IX) Kinh Hemavata (Sn 27)** {#9_}
 
 Sàtàgira:
 
@@ -1661,7 +1661,7 @@ Thành này qua thành khác,\
 Ðảnh lễ thiện pháp tánh,\
 Của Chánh pháp vi diệu.
 
-### **(X) Kinh Alavaka (Sn 31)** {#10}
+### **(X) Kinh Alavaka (Sn 31)** {#10_}
 
 Như vầy tôi nghe:
 
@@ -1811,7 +1811,7 @@ Thành này qua thành khác,\
 Ðảnh lễ thiện pháp tánh\
 Của Chánh pháp vi diệu.
 
-### **(XI) Kinh Thắng Trận (Sn 34)** {#11}
+### **(XI) Kinh Thắng Trận (Sn 34)** {#11_}
 
 193. Hoặc là đi hay đứng, {#193}\
 Hoặc là ngồi hay nằm,\
@@ -1883,7 +1883,7 @@ Ai lại nghĩ đề cao,\
 Hay khinh miệt kẻ khác,\
 Trừ kẻ không thấy gì.
 
-### **(XII) Kinh ẩn sĩ (Sn 35)** {#12}
+### **(XII) Kinh ẩn sĩ (Sn 35)** {#12_}
 
 207. Thân mật, sanh sợ hãi, {#207}\
 Trú xứ, sanh bụi bặm,\

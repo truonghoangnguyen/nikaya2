@@ -10,7 +10,7 @@ title: Kinh Tập Suttanipāta - Chương Bốn – Phẩm Tám
 # Chương Bốn – Phẩm Tám
 
 
-### **(I) Kinh về Dục (Sn 151)** {#1}
+### **(I) Kinh về Dục (Sn 151)** {#1_}
 
 766. Ai ao ước được dục, {#766}\
 Nếu dục được thành tựu,\
@@ -44,7 +44,7 @@ Từ bỏ các loài dục,\
 Bỏ dục, vượt bộc lưu,\
 Tát thuyền đến bờ kia.
 
-### **(II) Kinh Hang Ðộng tám kệ (Sn 151)** {#2}
+### **(II) Kinh Hang Ðộng tám kệ (Sn 151)** {#2_}
 
 772. Chúng sanh vào trong hang, {#772}\
 Chấp chặt bị bao trùm,\
@@ -120,7 +120,7 @@ Sở hành không phóng dật,\
 Không cầu mong đời này,\
 Không mong ước đời sau.
 
-### **(III) Kinh Sân Hận tám kệ (Sn 153)** {#3}
+### **(III) Kinh Sân Hận tám kệ (Sn 153)** {#3_}
 
 780. Thật có một số người {#780}\
 Nói lên với ác ý,\
@@ -194,7 +194,7 @@ Ngã, phi ngã đều không,\
 Vị ấy đã tẩy sạch,\
 Mọi tà kiến ở đời.
 
-### **(IV) Kinh Thanh Tịnh tám kệ (Sn 154)** {#4}
+### **(IV) Kinh Thanh Tịnh tám kệ (Sn 154)** {#4_}
 
 788. Ta thấy vị thanh tịnh, {#788}\
 Vị tối thượng, không bệnh,\
@@ -268,7 +268,7 @@ Cũng không tham, ly tham,\
 Vị ấy ở đời này,\
 Không chấp thủ gì khác.
 
-### **(V) Kinh Tối Thắng tám kệ (Sn 156)** {#5}
+### **(V) Kinh Tối Thắng tám kệ (Sn 156)** {#5_}
 
 796. Ai thiên trú trong kiến, {#796}\
 Xem kiến ấy tối thắng,\
@@ -342,7 +342,7 @@ Bị giới cấm dắt dẫn,\
 Ði đến bờ bên kia,\
 Vị ấy không trở lui.
 
-### **(VI) Kinh Già (Sn 158)** {#6}
+### **(VI) Kinh Già (Sn 158)** {#6_}
 
 804. Sinh mạng này ngắn thay, {#804}\
 Trong trăm năm, rồi chết,\
@@ -426,7 +426,7 @@ Không có dựa gì khác,\
 Vị ấy không tham đắm,\
 Cũng không có ly tham.
 
-### **(VII) Kinh Tissametteyya (Sn 160)** {#7}
+### **(VII) Kinh Tissametteyya (Sn 160)** {#7_}
 
 814. Tissa Metteyya, {#814}\
 Tôn giả nói như sau:\
@@ -488,7 +488,7 @@ Bậc vượt khỏi bộc lưu,\
 Bị tham dục trói buộc,\
 Ganh tị và thèm muốn.
 
-### **(VIII) Kinh Pasùra (Sn 161)** {#8}
+### **(VIII) Kinh Pasùra (Sn 161)** {#8_}
 
 824. Ở đây chính thanh tịnh, {#824}\
 Họ thuyết giảng như vậy,\
@@ -589,7 +589,7 @@ Với bậc đã tẩy sạch,\
 Ông không có thể không\
 Cùng vị ấy tiến bước.
 
-### **(IX) Kinh Màgandiya (SN 163)** {#9}
+### **(IX) Kinh Màgandiya (SN 163)** {#9_}
 
 Thế Tôn:
 
@@ -742,7 +742,7 @@ Tư tưởng và tri kiến,\
 Người ấy sống xung đột,\
 Với mọi người ở đời.
 
-### **(X) Kinh Trước khi bị hủy hoại (Sn 166)** {#10}
+### **(X) Kinh Trước khi bị hủy hoại (Sn 166)** {#10_}
 
 Người hỏi:
 
@@ -821,7 +821,7 @@ Không có, không sầu muộn,\
 Không đi đến các pháp,\
 Vị ấy gọi an tịnh.
 
-### **(XI) Kinh Tranh luận (Sn 168)** {#11}
+### **(XI) Kinh Tranh luận (Sn 168)** {#11_}
 
 Người hỏi:
 
@@ -999,7 +999,7 @@ Không đi đến tranh luận,\
 Bậc Hiền không tìm đến,\
 Cả hữu và phi hữu.
 
-### **(XII) Những vấn đề nhỏ bé (Sn 171)** {#12}
+### **(XII) Những vấn đề nhỏ bé (Sn 171)** {#12_}
 
 Người hỏi:
 
@@ -1166,7 +1166,7 @@ Mọi quyết định, chủ trương,\
 Không bị người ở đời,\
 Chê là kẻ liệt tuệ.
 
-### **(XIII) Những vấn đề to lớn (Sn 174)** {#13}
+### **(XIII) Những vấn đề to lớn (Sn 174)** {#13_}
 
 Người hỏi:
 
@@ -1357,7 +1357,7 @@ Không liên hệ thời gian,\
 Không chấm dứt, không cầu,\
 Thế Tôn nói như vậy.
 
-### **(XIV) Kinh Tuvataka (Con đường mau chóng) (Sn 179)** {#14}
+### **(XIV) Kinh Tuvataka (Con đường mau chóng) (Sn 179)** {#14_}
 
 Người hỏi:
 
@@ -1548,7 +1548,7 @@ Với tâm tư cung kính,\
 Lời dạy đức Thế Tôn,\
 Thế Tôn nói như vậy.
 
-### **(XV) Kinh Chấp trượng (Sn 182)** {#15}
+### **(XV) Kinh Chấp trượng (Sn 182)** {#15_}
 
 Thế Tôn:
 
@@ -1657,7 +1657,7 @@ An tịnh, ly xan tham,\
 Không nhận, không bác bỏ.\
 Thế Tôn giảng như vậy.
 
-### **(XVI) Kinh Sàriputta (Xá-lợi-phất) (Sn 185)** {#16}
+### **(XVI) Kinh Sàriputta (Xá-lợi-phất) (Sn 185)** {#16_}
 
 Sàriputta:
 

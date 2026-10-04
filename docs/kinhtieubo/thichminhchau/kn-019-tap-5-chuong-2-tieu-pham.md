@@ -9,7 +9,7 @@ title: Kinh Tập Suttanipāta - Chương Hai – Tiểu Phẩm
 
 # Chương Hai – Tiểu Phẩm
 
-### **(I) Kinh Châu Báu (Ratana Sutta) (Sn 39)** {#1}
+### **(I) Kinh Châu Báu (Ratana Sutta) (Sn 39)** {#1_}
 
 222. Phàm ở tại đời này, {#222}\
 Có sanh linh tụ hội,\
@@ -208,7 +208,7 @@ Hãy đảnh lễ chúng Tăng\
 Mong rằng với hạnh này,\
 Mọi loài được hạnh phúc.
 
-### **(II) Kinh Hôi Thối (Amagandha) (Sn 42)** {#2}
+### **(II) Kinh Hôi Thối (Amagandha) (Sn 42)** {#2_}
 
 Bà-la-môn:
 
@@ -350,7 +350,7 @@ Với tâm ý nhún nhường,\
 Thỉnh cầu được cho pháp,\
 Xuất gia tại nơi đây.
 
-### **(III) Kinh Xấu Hổ (Sn 45)** {#3}
+### **(III) Kinh Xấu Hổ (Sn 45)** {#3_}
 
 253. Ai mở miệng tuyên bố: {#253}\
 Tôi là bạn của anh,\
@@ -389,7 +389,7 @@ Uống xong vị an tịnh,\
 Không sợ hãi, không ác,\
 Hưởng vị ngọt, pháp hỷ.
 
-### **(IV) Kinh Ðiềm Lành Lớn (Kinh Ðại Hạnh Phúc – Mahamangala Sutta) (Sn 46)** {#4}
+### **(IV) Kinh Ðiềm Lành Lớn (Kinh Ðại Hạnh Phúc – Mahamangala Sutta) (Sn 46)** {#4_}
 
 Như vầy tôi nghe:
 
@@ -460,7 +460,7 @@ Không chỗ nào thất bại,\
 Khắp nơi được an toàn,\
 Là điềm lành tối thượng.
 
-### **(V) Kinh Sùciloma (Sn 47)** {#5}
+### **(V) Kinh Sùciloma (Sn 47)** {#5_}
 
 Như vầy tôi nghe:
 
@@ -516,7 +516,7 @@ Chảy mạnh khổ vượt này,\
 Trước chưa được vượt qua,\
 Không còn có tái sanh.
 
-### **(VI) Kinh Hành Chánh Pháp (Sn 49)** {#6}
+### **(VI) Kinh Hành Chánh Pháp (Sn 49)** {#6_}
 
 274. Pháp hạnh và Phạm hạnh, {#274}\
 Ðược gọi là tối thượng hạnh,\
@@ -575,7 +575,7 @@ Sống thích đáng, chánh niệm,\
 Rồi hòa hợp, sáng suốt,\
 Hãy chấm dứt khổ đau.
 
-### **(VII) Kinh Pháp Bà-la-môn (Sn 50)** {#7}
+### **(VII) Kinh Pháp Bà-la-môn (Sn 50)** {#7_}
 
 Như vầy tôi nghe:
 
@@ -806,7 +806,7 @@ Khi nghe nói vậy, các Bà-la-môn đại phú ấy bạch Thế Tôn;
 
 – Thật vi diệu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Thưa Tôn giả Gotama, như người dựng đứng lại những gì bị quăng ngã xuống, trình bày rõ những gì bị che kín chỉ đường cho kẻ bị lạc hướng, hay đem đèn sáng vào trong bóng tối đễ những ai có mắt có thể nhìn thấy sắc. Cũng vậy, Pháp được Tôn giả Gotama với nhiều pháp môn trình bày giải thích. Chúng con xin quy y Tôn giả Gotama quy y Pháp, quy y chúng Tỷ-kheo. Mong Tôn giả Gotama nhận chúng con làm đệ tử cư sĩ, từ nay cho đến mạng chung, chúng con trọn đời quy ngưỡng.
 
-### **(VIII) Kinh Chiếc Thuyền (Sn 55)** {#8}
+### **(VIII) Kinh Chiếc Thuyền (Sn 55)** {#8_}
 
 316. Từ vị nào một người, {#316}\
 Rõ biết được Chánh pháp,\
@@ -879,7 +879,7 @@ Cố gắng khéo hành trì,\
 Rõ biết được Chánh pháp,\
 Vị ấy được an lạc.
 
-### **(IX) Kinh Thế Nào là Giới (Sn 56)** {#9}
+### **(IX) Kinh Thế Nào là Giới (Sn 56)** {#9_}
 
 324. Thế nào là giới đức? {#324}\
 Thế nào là chánh hạnh?\
@@ -942,7 +942,7 @@ An trú trên thiền định,\
 Chứng đạt được cốt lõi,\
 Pháp được nghe, trí tuệ.
 
-### **(X) Kinh Ðứng Dậy (Sn 57)** {#10}
+### **(X) Kinh Ðứng Dậy (Sn 57)** {#10_}
 
 331. Hãy đứng dậy, ngồi dậy, {#331}\
 Với người mộng ích gì?\
@@ -968,7 +968,7 @@ Bụi do phóng dật khởi,\
 Với minh, không phóng dật,\
 Tự mình rút mũi tên
 
-### **(XI) Kinh Ràhula (Sn 58)** {#11}
+### **(XI) Kinh Ràhula (Sn 58)** {#11_}
 
 Thế Tôn:
 
@@ -1019,7 +1019,7 @@ Ngươi sẽ sống an tịnh.
 
 Như vậy, Thế Tôn thường giáo giới Tôn giả Ràhula với những bài kệ này.
 
-### **(XII) Kinh Vangìsa (Sn 59)** {#12}
+### **(XII) Kinh Vangìsa (Sn 59)** {#12_}
 
 Như vầy tôi nghe:
 
@@ -1171,7 +1171,7 @@ Thật sự đã vượt qua\
 Thế lực của Ma vương,\
 Thế lực thật khó vượt.
 
-### **(XIII) Kinh Chánh xuất gia (Sn 63)** {#13}
+### **(XIII) Kinh Chánh xuất gia (Sn 63)** {#13_}
 
 Người hỏi:
 
@@ -1328,7 +1328,7 @@ Tất cả các kiết sử,\
 Tỷ-kheo ấy chơn chánh\
 Du hành ở trên đời.
 
-### **(XIV) Kinh Dhammika (Sn 66)** {#14}
+### **(XIV) Kinh Dhammika (Sn 66)** {#14_}
 
 Như vầy tôi nghe:
 
