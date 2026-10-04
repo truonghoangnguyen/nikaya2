@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm ÀSIMSA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [06] PHẨM ÀSIMSA
 
 **PHẨM ÀSIMSA**
 
-**51. CHUYỆN VUA ÐẠI GIỚI ÐỨC (Tiền thân Mahàsìlavà)**
+### 51. CHUYỆN VUA ÐẠI GIỚI ÐỨC (Tiền thân Mahàsìlavà) {#51}
 
 Người luôn luôn hy vọng…,
 
@@ -129,7 +135,7 @@ Sau khi kể pháp thoại này bậc Ðạo sư thuyết giảng các Sự th�
 
 ---
 
-**52.CHUYỆN TIỂU JANAKA (Tiền thân Cùla Janaka)**
+### 52.CHUYỆN TIỂU JANAKA (Tiền thân Cùla Janaka)
 
 Hãy tinh tấn, này ngươi!…
 
@@ -146,7 +152,7 @@ Từ nước đạt đất liền.
 
 ---
 
-**53. CHUYỆN BÌNH RƯỢU ÐẦY (Tiền thân Punnapàti)**
+### 53. CHUYỆN BÌNH RƯỢU ÐẦY (Tiền thân Punnapàti) {#53}
 
 Bình rượu đầy như vậy…,
 
@@ -203,7 +209,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**54. CHUYỆN TRÁI CÂY (Tiền thân Phala)**
+### 54. CHUYỆN TRÁI CÂY (Tiền thân Phala) {#54}
 
 Cây này không khó leo…,
 
@@ -276,7 +282,7 @@ Sau khi thuyết pháp thoại này và kết hợp hai mẩu chuyện, bậc Ð
 
 ---
 
-**55. CHUYỆN NĂM VŨ KHÍ (Tiền thân Pãncàyudha)**
+### 55. CHUYỆN NĂM VŨ KHÍ (Tiền thân Pãncàyudha) {#55}
 
 Người với tâm ly tham…,
 
@@ -359,7 +365,7 @@ Như vậy, sau khi bậc Ðạo Sư thuyết pháp đưa đỉnh cao nhất là
 
 ---
 
-**56. CHUYỆN KHỐI VÀNG (Tiền thân Kancanakkhandha)**
+### 56. CHUYỆN KHỐI VÀNG (Tiền thân Kancanakkhandha) {#56}
 
 Người với tâm hoan hỷ…
 
@@ -430,7 +436,7 @@ Rồi sau khi hướng lời thuyết pháp lên đỉnh cao là quả A-la-hán
 
 ---
 
-**57. CHUYỆN KHỈ CHÚA (Tiền thân Vànarinda)**
+### 57. CHUYỆN KHỈ CHÚA (Tiền thân Vànarinda) {#57}
 
 Ai đủ bốn pháp này…,
 
@@ -511,7 +517,7 @@ Sau khi thuyết pháp thoại này, và kết hợp hai mẩu chuyện, bậc �
 
 ---
 
-**58. CHUYỆN BA PHÁP (Tiền thân Tayodhammà)**
+### 58. CHUYỆN BA PHÁP (Tiền thân Tayodhammà) {#58}
 
 Ai đầy đủ ba pháp…,
 
@@ -582,7 +588,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư kết hợp hai câu chuyện,
 
 ---
 
-**59. CHUYỆN TIẾNG TRỐNG (Tiền thân Bherivàda)**
+### 59. CHUYỆN TIẾNG TRỐNG (Tiền thân Bherivàda) {#59}
 
 Ðánh, đánh, chớ đánh quá!…
 
@@ -629,7 +635,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư kết hợp hai câu chuyện,
 
 ---
 
-**60. CHUYỆN THỔI TÙ VÀ (Tiền thân Sankhadhama)**
+### 60. CHUYỆN THỔI TÙ VÀ (Tiền thân Sankhadhama) {#60}
 
 Thổi, thổi, chớ thổi quá!…
 

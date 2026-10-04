@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm KULAVAKA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [04] PHẨM KULAVAKA
 
 **PHẨM KULAVAKA**
 
-**31. CHUYỆN TỔ CHIM CON (Tiền thân Kulàvaka)**
+### 31. CHUYỆN TỔ CHIM CON (Tiền thân Kulàvaka) {#31}
 
 Hãy để tổ chim con …,
 
@@ -247,7 +253,7 @@ Sau khi khiển trách Tỷ-kheo ấy và kết hợp hai câu chuyện, bậc �
 
 ---
 
-**32. CHUYỆN MÚA CA (Tiền thân Nacca)**
+### 32. CHUYỆN MÚA CA (Tiền thân Nacca) {#32}
 
 Âm thanh ngươi êm dịu… ,
 
@@ -326,7 +332,7 @@ Khi Ngài kể xong pháp thoại này, Ngài kết hợp hai câu chuyện, và
 
 ---
 
-**33. CHUYỆN SỐNG HÒA HỢP (Tiền thân Sammodamàna)**
+### 33. CHUYỆN SỐNG HÒA HỢP (Tiền thân Sammodamàna) {#33}
 
 Khi chung sống hòa hợp…,
 
@@ -397,7 +403,7 @@ Thuyết pháp thoại này xong, bậc Ðạo Sư kết hợp hai mẫu chuyệ
 
 ---
 
-**34. CHUYỆN CON CÁ (Tiền thân Maccha)**
+### 34. CHUYỆN CON CÁ (Tiền thân Maccha) {#34}
 
 Ta không vì nóng lạnh …,
 
@@ -460,7 +466,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư thuyết các Sự thật. Cu�
 
 ---
 
-**35.CHUYỆN CON CHIM CÚT (Tiền thân Vattaka)**
+### 35.CHUYỆN CON CHIM CÚT (Tiền thân Vattaka)
 
 Có cánh không bay được …,
 
@@ -534,7 +540,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư thuyết giảng các Sự th�
 
 ---
 
-**36. CHUYỆN CON CHIM (Tiền thân Sakuna)**
+### 36. CHUYỆN CON CHIM (Tiền thân Sakuna) {#36}
 
 Các chim sống ở đời … ,
 
@@ -594,7 +600,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư thuyết giảng các Sự th�
 
 ---
 
-**37. CHUYỆN CON CHIM TRĨ (Tiền thân Tittira)**
+### 37. CHUYỆN CON CHIM TRĨ (Tiền thân Tittira) {#37}
 
 Ai kính bậc lớn tuổi … ,
 
@@ -695,7 +701,7 @@ Như vậy, bậc Ðạo Sư nói lên lời tán thán hạnh kính lễ bậc 
 
 ---
 
-**38. CHUYỆN CON CÒ (Tiền thân Baka)**
+### 38. CHUYỆN CON CÒ (Tiền thân Baka) {#38}
 
 Kẻ có trí lường gạt … ,
 
@@ -818,7 +824,7 @@ Sau khi thuyết pháp thoại này, bậc Ðạo Sư kết hợp hai mẩu chuy
 
 ---
 
-**39. CHUYỆN NGƯỜI NÔ LỆ NANDA (Tiền thân Nanda)**
+### 39. CHUYỆN NGƯỜI NÔ LỆ NANDA (Tiền thân Nanda) {#39}
 
 Nghĩ rằng là chỗ chôn…,
 
@@ -903,7 +909,7 @@ Sau khi bậc Ðạo Sư thuyết pháp thoại này, Ngài kết hợp hai câu
 
 ---
 
-**40. CHUYỆN HỐ THAN LỬA CÂY KEO (Tiền thân Khadirangara)**
+### 40. CHUYỆN HỐ THAN LỬA CÂY KEO (Tiền thân Khadirangara) {#40}
 
 Ta thà rơi địa ngục…,
 

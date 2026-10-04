@@ -1,8 +1,15 @@
+---
+title: Chuyện Tiền Thân Phần VI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
+
 # [11] Chương XXII – Đại Phẩm (tt) - Phần 9
 
-**547. CHUYỆN ÐẠI VƯƠNG VESSANTARA (Tiền thân Vessantara)**
+### 547. CHUYỆN ÐẠI VƯƠNG VESSANTARA (Tiền thân Vessantara) {#547}
 
-***Phu-sa-tì, mỹ hậu huy hoàng…,***
+***Phu-sa-tì, mỹ hậu huy hoàng...***
 
 *Chuyện này bậc Ðạo Sư kể trong lúc trú gần thành Kapilavatthu (Ca-tỳ-la-vệ) về một cơn mưa lớn.*
 
@@ -120,27 +127,27 @@ Ban Mười điều ước, thiếp tri ân:\
 Mong rằng thần thiếp đời sau sẽ\
 Ở xứ Si-vi được trú thân.*
 
-6. Ðôi mắt huyền mơ tựa mắt nai,\
+6\. Ðôi mắt huyền mơ tựa mắt nai,\
 Như nhung đen nháy, cặp mày ngài,\
 Phu-sa-tì ấy là tên thiếp,\
 Thánh thượng, thiếp mong ước nguyện này.
 
-7. Thiếp mong có được một hoàng nam,\
+7\. Thiếp mong có được một hoàng nam,\
 Vua chúa kiêng oai, tiếng lẫy lừng,\
 Hòa nhã, nhân từ, tâm rộng lượng,\
 Lắng tai nghe mọi tiếng cầu ân.
 
-8. Trong khoảng thời gian thiếp thọ thai,\
+8\. Trong khoảng thời gian thiếp thọ thai,\
 Ước mong giữ trọn tấm hình hài,\
 Toàn thân thiếp được luôn kiều diễm\
 Như thể cành cung uốn mảnh mai.
 
-9. Ðế Thích, thiếp mong ngực gợi tình,\
+9\. Ðế Thích, thiếp mong ngực gợi tình,\
 Xin được nhuốm bạc mái đầu xanh,\
 Tấm thân bồ liễu luôn hoàn hảo,\
 Mong cứu tù nhân thoát tử hình.
 
-10. Giữa tiếng hạc rền, khổng tước vang,\
+10\. Giữa tiếng hạc rền, khổng tước vang,\
 Cung nhân hầu cận đẹp quanh nàng,\
 Thi sĩ ca nhân đồng tán tụng,\
 Khăn quàng tung vẫy giữa không gian.
@@ -234,7 +241,7 @@ Chỉ khoảng chừng lên tám tuổi dư,\
 Trên thượng lầu ta trong nội điện,\
 Nhân từ, bố thí vẫn suy tư:*
 
-18. Nếu người nào đến hỏi xin cho\
+18\. Nếu người nào đến hỏi xin cho\
 Máu, thịt, tim và con mắt ta,\
 Ta sẽ cho thân, tim, máu, mắt,\
 Sẵn sàng ta cất tiếng kêu to.
@@ -321,7 +328,7 @@ Người người cảm thấy rợn da lông,\
 Khi ngài bố thí con voi báu\
 Quả đất kinh hoàng phải chuyển rung.*
 
-25. Lúc ấy khắp nơi thật hãi hùng,\
+25\. Lúc ấy khắp nơi thật hãi hùng,\
 Người người cảm thấy rợn da lông,\
 Khi ngài bố thí con voi báu\
 Tất cả kinh thành phải chuyển rung.
@@ -356,7 +363,7 @@ Tai nghe như vậy thật kinh hoàng\
 Khi vua bố thí con voi báu,\
 Quả đất hãi hùng phải chuyển rung.*
 
-28. Tiếng hét lớn kia cứ vọng vang\
+28\. Tiếng hét lớn kia cứ vọng vang\
 Tai nghe như vậy thật kinh hoàng,\
 Khi vua bố thí con voi báu\
 Dân chúng kinh thành thảy chuyển rung.
@@ -375,30 +382,30 @@ Do đó có chuyện kể:
 *30. Vương tứ, La-môn, Vệ-xá, Ug-ga,\
 Quản tượng, bộ binh, kỵ mã, quản xa,*
 
-31. Ðiền chủ, toàn dân Si-vi vội đến,\
+31\. Ðiền chủ, toàn dân Si-vi vội đến,\
 Thấy tượng vương đi, tìm vua yết kiến:
 
-32. – Quốc độ suy tàn rồi, tấu Ðại vương,\
+32\. – Quốc độ suy tàn rồi, tấu Ðại vương,\
 Sao Ves-san-ta, Thái tử vinh quang,\
 Bố thí tượng vương mọi người quý trọng?
 
-33. Voi cứu tinh, ngà như sào, bạch tượng,\
+33\. Voi cứu tinh, ngà như sào, bạch tượng,\
 Biết lập chiến công trên mọi đấu trường,
 
-34. Với quạt đuôi trâu rừng, ngọc trang hoàng,\
+34\. Với quạt đuôi trâu rừng, ngọc trang hoàng,\
 Ðã dẫm nát tan mọi quân cừu địch,\
 Hung hãn, ngà dài, toàn thân trắng bạch\
 Như tuyết trên đỉnh núi Ke-là-sa,
 
-35. Với cân đai, lọng trắng xứng vương gia,\
+35\. Với cân đai, lọng trắng xứng vương gia,\
 Cùng quản tượng và đám quân hầu cận,\
 Bảo vật này, ngài đã đem ban tặng.\
 Sau đó, dân chúng còn nói thêm:
 
-36. Ban y phục, lửa, xe, thức uống ăn,\
+36\. Ban y phục, lửa, xe, thức uống ăn,\
 Là cúng dường xứng với Bà-la-môn.
 
-37. Tâu Ðại vương, bạn của toàn dân chúng,\
+37\. Tâu Ðại vương, bạn của toàn dân chúng,\
 Xin cho biết sao xảy ra hành động\
 Bởi vương nhi là dòng dõi vương gia,\
 Chính người là Thái tử Ves-san-ta?
@@ -461,26 +468,26 @@ Quản tượng, quản xa, lính bộ, vệ quân,\
 Tất cả dân thôn quê cùng thành phố\
 Ðã cùng nhau kéo về đây rầm rộ,
 
-51. Sau khoảng thời gian chỉ một đêm nay,\
+51\. Sau khoảng thời gian chỉ một đêm nay,\
 Khi bình minh vừa ló dạng ngày mai,\
 Toàn dân chúng sẽ cùng nhau tụ họp,\
 Và sẽ đuổi Vương nhi ra khỏi nước.
 
-52. Sứ giả này được lệnh chúa Si-vi,\
+52\. Sứ giả này được lệnh chúa Si-vi,\
 Liền vội vàng đem sứ mạng ra đi,\
 Cởi con voi có mang đầy gươm giáo,\
 Ngát dầu thơm và rỡ ràng xiêm áo,
 
-53. Tẩm ướt đầu, vòng ngọc mỗi bên tai,\
+53\. Tẩm ướt đầu, vòng ngọc mỗi bên tai,\
 Gã lên đường đến thành thị tuyệt vời,\
 Nơi Thái tử Ves-san-ta-ra ngự.
 
-54. Gã nhìn ngắm hạnh phúc sao Vương tử\
+54\. Gã nhìn ngắm hạnh phúc sao Vương tử\
 Cư trú trong lãnh thổ thật bình yên\
 Như Và-sa-va, chúa tể chư Thiên,\
 Chung quanh ngài quần thần đang hầu hạ.
 
-55. Gã đến nơi thật nhanh chân vội vã,\
+55\. Gã đến nơi thật nhanh chân vội vã,\
 Và đến bên Thái tử, gã thưa trình:\
 – Tâu Ðại vương, tin mang đến chẳng lành,\
 Xin ngài chớ vì hạ thần phẫn nộ.
@@ -492,11 +499,11 @@ Và ngài đã ban hạ thần tất cả,\
 Nhưng giờ đây thần phải tâu ngài rõ:\
 Tin chẳng lành, xin Chúa thượng bình tâm.
 
-58. Dân thị thành cùng tất cả toàn dân\
+58\. Dân thị thành cùng tất cả toàn dân\
 Ðồng một lòng, nổi lên cơn thịnh nộ,\
 Ug-ga, Vệ-xá, La-môn, vương tử,
 
-59. Quản tượng, quản xa, vệ sĩ, bộ binh,\
+59\. Quản tượng, quản xa, vệ sĩ, bộ binh,\
 Dân làng quê cùng dân chúng thị thành\
 Nay rầm rộ kéo về đây đồng loạt,
 
@@ -527,7 +534,7 @@ Sao chẳng cho gì không phải của ta,\
 Hoặc vàng ròng, hoặc kho tàng, đá quý,\
 Hoặc ngọc trai hay bảo châu tuyệt mỹ?*
 
-65. Nếu có người nào đi đến hỏi ta\
+65\. Nếu có người nào đi đến hỏi ta\
 Ta sẽ cho luôn cả tứ chi mà\
 Lòng chẳng ngập ngừng dù trong phút chốc,\
 Trong phát ban chính là niềm hoan lạc.
@@ -572,7 +579,7 @@ Tuyệt thế công nương này, vua phán bảo:\
 – Những thứ gì ta đã tặng cho nàng,\
 Các đồ dùng, lúa gạo, hãy canh phòng,*
 
-71. Hoặc vàng, ngọc quý cùng nhiều kho báu,\
+71\. Hoặc vàng, ngọc quý cùng nhiều kho báu,\
 Hồi môn vương phụ, tìm nơi chôn giấu.
 
 *72. Rồi Mad-dì đã đáp lại quân vương,\
@@ -615,27 +622,27 @@ Và ngài ngâm kệ:
 Bị bầy thú săn mồi đến tấn công,\
 Ai biết chăng: Ta còn sống được không?*
 
-77. Rồi đáp lời, nàng Mad-dì diễm lệ,\
+77\. Rồi đáp lời, nàng Mad-dì diễm lệ,\
 Nàng chính là vị công nương tuyệt thế:\
 – Không phải đâu! Lời nói thật bạo tàn!\
 Ðừng nhẫn tâm nói điều ấy, thưa chàng!
 
-78. Tâu Chúa công, chẳng chút nào thích hợp\
+78\. Tâu Chúa công, chẳng chút nào thích hợp\
 Nếu chỉ riêng chàng ra đi đơn độc,\
 Dù cuộc du hành chàng sẽ tới đâu,\
 Thiếp cũng xin nguyền cất bước theo hầu:
 
-79. Cho thiếp chọn: Ở cùng chàng để chết,\
+79\. Cho thiếp chọn: Ở cùng chàng để chết,\
 Hoặc là sống phải xa chàng, ly biệt.\
 Chết là điều thần thiếp ước mong làm,\
 Nếu thiếp không được sống ở bên chàng.
 
-80. Hãy đốt lên ngọn lửa hồng đỏ rực,\
+80\. Hãy đốt lên ngọn lửa hồng đỏ rực,\
 Ngọn lửa nào thật hung tàn đệ nhất,\
 Thà thiếp chết kia trong ngọn lửa hồng\
 Vẫn còn hơn thiếp phải sống xa chồng.
 
-81. Cũng như ở phía sau mình voi nọ,\
+81\. Cũng như ở phía sau mình voi nọ,\
 Vẫn thường thấy một nàng voi là vợ\
 Di chuyển qua các đèo, núi, hay rừng,\
 Trên dốc gồ ghề hay mặt đất bằng.
@@ -652,102 +659,102 @@ Và nghe lời chúng chuyện trò tíu tít,\
 Trong khu rừng xanh tốt với muôn hoa,\
 Chàng sẽ quên một thuở đã làm vua.*
 
-84. Khi nhìn thấy con xinh tươi chạy nhảy,\
+84\. Khi nhìn thấy con xinh tươi chạy nhảy,\
 Và nghe lời chúng chuyện trò vang dậy\
 Trong khu rừng xanh tốt với muôn hoa,\
 Chàng sẽ quên một thuở đã làm vua.
 
-85. Khi chàng thấy các con thơ xinh đẹp\
+85\. Khi chàng thấy các con thơ xinh đẹp\
 Và nghe lời chúng chuyện trò tíu tít,\
 Trong ngôi nhà diễm lệ của đôi ta,\
 Chàng sẽ quên một thuở đã làm vua.
 
-86. Nhìn thấy các con thơ chơi mải miết,\
+86\. Nhìn thấy các con thơ chơi mải miết,\
 Và nghe lời chúng chuyện trò tíu tít,\
 Trong khu rừng xanh tốt với muôn hoa,\
 Chàng sẽ không còn nhớ thuở làm vua.
 
-87. Khi nhìn các con điểm trang rực rỡ\
+87\. Khi nhìn các con điểm trang rực rỡ\
 Và ngắm chúng đem về bao hoa nở\
 Trong ngôi nhà diễm lệ của đôi ta,\
 Chàng sẽ không còn nhớ thuở làm vua.
 
-88. Khi nhìn các con chơi đùa rộn rã,\
+88\. Khi nhìn các con chơi đùa rộn rã,\
 Và ngắm chúng đem về bao hoa lá\
 Trong ngôi nhà diễm lệ của đôi ta,\
 Chàng sẽ quên một thuở đã làm vua.
 
-89. Khi chàng thấy các con đang nhảy múa,\
+89\. Khi chàng thấy các con đang nhảy múa,\
 Và mang về những vòng hoa rực rỡ\
 Trong ngôi nhà diễm lệ của đôi ta,\
 Chàng sẽ quên một thuở đã làm vua.
 
-90. Khi chàng ngắm chúng chơi đùa nhảy múa,\
+90\. Khi chàng ngắm chúng chơi đùa nhảy múa,\
 Và đem về những vòng hoa rực rỡ\
 Trong ngôi nhà diễm lệ của đôi ta,\
 Chàng sẽ quên một thuở đã làm vua.
 
-91. Ông voi già có tuổi chừng sáu chục\
+91\. Ông voi già có tuổi chừng sáu chục\
 Phiêu bạt lang thang hoàn toàn cô độc,\
 Trong khu rừng đầy cỏ mọc hoang sơ,\
 Sẽ khiến chàng quên một thuở làm vua.
 
-92. Ông voi già có tuổi chừng sáu chục\
+92\. Ông voi già có tuổi chừng sáu chục\
 Về buổi chiều vẫn lang thang cô độc,\
 Và ra đi vào buổi sáng tinh mơ,\
 Sẽ khiến chàng quên một thuở làm vua.
 
-93. Khi chàng ngắm ông voi già trưởng thượng,\
+93\. Khi chàng ngắm ông voi già trưởng thượng,\
 Ðem theo cả đàn voi con tùy tướng,\
 Voi sáu mươi, và nghe tiếng thét to,\
 Chàng sẽ quên một thuở đã làm vua.
 
-94. Khi chàng ngắm bầy thú hoang gầm rống,\
+94\. Khi chàng ngắm bầy thú hoang gầm rống,\
 Cùng mọi vật mà lòng chàng ước vọng,\
 Và không gian rộng rãi của rừng thưa,\
 Chàng sẽ quên một thuở đã làm vua.
 
-95. Ðàn hươu nai kéo về lúc chiều tối,\
+95\. Ðàn hươu nai kéo về lúc chiều tối,\
 Nhảy nhót múa may từng bầy ếch nhái,\
 Và nơi nơi nở rộ cả muôn hoa,\
 Chàng sẽ quên một thuở đã làm vua.
 
-96. Khi chàng nghe suối sông reo ào ạt,\
+96\. Khi chàng nghe suối sông reo ào ạt,\
 Và biết bao loài thần tiên ca hát,\
 Tin thiếp đây, chàng sẽ chóng quên là\
 Có một thời chàng đã được làm vua.
 
-97. Khi chàng nghe tiếng cú mèo đang hú\
+97\. Khi chàng nghe tiếng cú mèo đang hú\
 Trong hang sâu chốn núi rừng cư trú,\
 Chắc chắn rằng chàng sẽ chẳng nhớ ra\
 Có một thời chàng đã được làm vua.
 
-98. Loài trâu rừng cùng với loài tê giác,\
+98\. Loài trâu rừng cùng với loài tê giác,\
 Làm cho cả khu rừng vang tiếng nhạc,\
 Loài cọp beo và sư tử gầm gừ\
 Khiến chàng quên một thuở đã làm vua.
 
-99. Khi chàng thấy trên non cao chót vót\
+99\. Khi chàng thấy trên non cao chót vót\
 Chim công trống múa men và nhảy nhót\
 Trước cả bầy công mái thật nên thơ,\
 Chàng sẽ quên một thuở đã làm vua.
 
-100. Nhìn công trống noãn sinh kia nhảy múa,\
+100\. Nhìn công trống noãn sinh kia nhảy múa,\
 Xòe đôi cánh đẹp huy hoàng rực rỡ\
 Trước cả bầy công mái thật nên thơ,\
 Chàng sẽ quên một thuở đã làm vua.
 
-101. Chim công trống với cổ màu xanh đỏ\
+101\. Chim công trống với cổ màu xanh đỏ\
 Nhìn công trống vụt lên và nhảy múa\
 Trước cả bầy công mái thật nên thơ,\
 Chàng sẽ quên một thuở đã làm vua.
 
-102. Khi núi rừng ở vào mùa đông giá,\
+102\. Khi núi rừng ở vào mùa đông giá,\
 Chàng ngắm nhìn các cây hoa rộ nở,\
 Các mùi hương ngào ngạt nhẹ nhàng đưa,\
 Chàng sẽ quên một thuở đã làm vua.
 
-103. Khi núi rừng ở vào mùa đông giá\
+103\. Khi núi rừng ở vào mùa đông giá\
 Chàng ngắm nhìn các cây hoa rộ nở,\
 Hương sen, Bim-ba, Ku-ta thoảng đưa,\
 Chàng se quên một thuở đã làm vua.
@@ -788,7 +795,7 @@ Sao thần dân tống xuất Ves-san-ta?
 Danh vọng huy hoàng vang dội gần xa,\
 Sao đuổi con vô tội Ves-san-ta?
 
-110. Là điểm tựa của song thân phụ mẫu,\
+110\. Là điểm tựa của song thân phụ mẫu,\
 Biết kính trọng bậc đàn anh trưởng lão,\
 Sao thần dân đuổi Ves-san-ta-ra,\
 Chính là vương nhi vô tội của ta?
@@ -801,62 +808,62 @@ Con vô tội, sao chúng đòi tống xuất?
 
 Sau lời khóc than bi thảm này, bà an ủi vương nhi và vương hậu, sau đó bà yết kiến vua cha và tâu:
 
-113. Giống như đám xoài kia rơi xuống đất,\
+113\. Giống như đám xoài kia rơi xuống đất,\
 Như bạc tiền đã phung phí tiêu tan,\
 Vương quốc ngài cũng sụp đổ điêu tàn,\
 Người vô tội nếu bị dân đầy ải.
 
-114. Rồi giống như chim thiên nga cánh gãy\
+114\. Rồi giống như chim thiên nga cánh gãy\
 Khi các nguồn suối nước cạn khô dần,\
 Bị bỏ rơi bởi tất cả quần thần,\
 Ngài sẽ sống trong khổ đau cô độc.
 
-115. Tâu Ðại Vương, thiếp trình ngài chân thật:\
+115\. Tâu Ðại Vương, thiếp trình ngài chân thật:\
 Ðừng để nguồn phúc lộc Ðại vương tàn,\
 Ðừng đuổi con vô tội bởi dân than.\
 Nghe vậy, phụ vương đáp:
 
-116. Biểu tượng của toàn dân, vương tử đó,\
+116\. Biểu tượng của toàn dân, vương tử đó,\
 Nếu ta truyền lưu đày nơi gian khổ,\
 Là ta tuân phận sự của hoàng gia,\
 Còn thiết thân hơn cả chính đời ta.\
 Nghe lời này, thái hậu lại khóc than:
 
-117. Xưa biết bao đoàn quân hầu hộ tống\
+117\. Xưa biết bao đoàn quân hầu hộ tống\
 Với cờ xí huy hoàng bay lồng lộng,\
 Như rừng cây nở rộ với muôn hoa,\
 Nay vương nhi đành đơn độc đi xa.
 
-118. Các hoàng giáp Gan-dhà-ra rực rỡ\
+118\. Các hoàng giáp Gan-dhà-ra rực rỡ\
 Khoác quanh con sáng ngời ngày xưa đó,\
 Hay bừng lên đỏ sẫm lúc con đi,\
 Hôm nay cô độc cất bước vương nhi.
 
-119. Xưa con ngự vương xa, voi, hay kiệu,\
+119\. Xưa con ngự vương xa, voi, hay kiệu,\
 Nay vua Ves-san-ta đi thất thểu.
 
-120. Ngày xưa con được tẩm ngát trầm hương,\
+120\. Ngày xưa con được tẩm ngát trầm hương,\
 Ðược đánh thức bằng vũ khúc, ca xang,\
 Nay làm sao khoác tấm da thô nhám,\
 Mang bình nước, chiếc rìu trên đường vắng?
 
-121. Sao chúng không dâng những chiếc hoàng bào,\
+121\. Sao chúng không dâng những chiếc hoàng bào,\
 Không có da hươu quý bởi vì sao?\
 Khoác vỏ cây, con bước vào rừng rậm,
 
-122. Vua bị đuổi, vỏ cây làm sao quấn?\
+122\. Vua bị đuổi, vỏ cây làm sao quấn?\
 Rồi làm sao nàng công chúa Mad-dì\
 Khoác vỏ cây và cỏ lá rừng kia?
 
-123. Xưa thường mặc lụa tơ Ba-la-nại,\
+123\. Xưa thường mặc lụa tơ Ba-la-nại,\
 Gấm Ko-dum-ba-ra đầy êm ái,\
 Nay làm sao khoác lá vỏ cây kia?
 
-124. Xưa tới lui, nàng ngồi kiệu hay xe,\
+124\. Xưa tới lui, nàng ngồi kiệu hay xe,\
 Nàng công chúa yêu kiều và khả ái,\
 Nay làm sao bước chân nàng đi nổi?
 
-125. Nàng có đôi chân yếu với tay mềm,\
+125\. Nàng có đôi chân yếu với tay mềm,\
 Ðứng bình yên trong hạnh phúc êm đềm,\
 Nay làm sao nàng công nương mỹ lệ\
 Bước run run vào khu rừng hoang phế?
@@ -867,12 +874,12 @@ Loại hài xưa nàng mang êm dịu nhất\
 Vẫn làm đau đôi chân nàng gót ngọc,\
 Nay làm sao nàng cất bước chân đi?
 
-128. Ngày xưa kia ở giữa ngàn nữ nhi\
+128\. Ngày xưa kia ở giữa ngàn nữ nhi\
 Nàng cất bước vòng hoa đeo lủng lẳng,\
 Nay làm sao giữa khu rừng hoang vắng\
 Nàng diễm kiều đơn độc bước chân lê?
 
-129. Xưa, nếu loài sơn cẩu hú, nàng nghe\
+129\. Xưa, nếu loài sơn cẩu hú, nàng nghe\
 Nàng thường thấy trong lòng đầy lo lắng,\
 Nàng rụt rè nay sao đi rừng vắng?
 
@@ -881,47 +888,47 @@ Hoặc run run như kẻ thấy tà ma\
 Khi nghe tiếng cú kêu gào văng vẳng\
 Mỹ nữ rụt rè sao đi rừng rậm?
 
-132. Giống như chim nhìn thấy tổ trống trơn\
+132\. Giống như chim nhìn thấy tổ trống trơn\
 Tất cả đều bị giết, lũ chim non,\
 Khi thiếp nhìn thấy nơi này trống vắng,\
 Lòng thiêu đốt trong khổ đau đằng đẳng.
 
-133. Giống như chim nhìn thấy tổ trống trơn\
+133\. Giống như chim nhìn thấy tổ trống trơn\
 Tất cả đều bị giết, lũ chim non,\
 Thiếp gầy mòn, võ vàng khi nhìn thấy\
 Con dấu yêu chẳng bao giờ trở lại.
 
-134. Giống như chim nhìn thấy tổ trống trơn\
+134\. Giống như chim nhìn thấy tổ trống trơn\
 Tất cả đều bị giết, lũ chim non,\
 Thiếp sẽ phát điên cuồng và ngây dại\
 Thấy con yêu không bao giờ trở lại.
 
-135. Như diều hâu nhìn thấy tổ trống trơn\
+135\. Như diều hâu nhìn thấy tổ trống trơn\
 Tất cả đều bị giết, bầy chim non\
 Khi thiếp nhìn thấy nơi này trống vắng\
 Thiếp sẽ sống trong khổ đau đằng đẵng.
 
-136. Như diều hâu nhìn thấy tổ trống trơn\
+136\. Như diều hâu nhìn thấy tổ trống trơn\
 Tất cả đều bị giết, lũ chim non,\
 Thiếp yếu gầy, võ vàng khi nhìn thấy\
 Con dấu yêu nhất đời không trở lại.
 
-137. Như diều hâu nhìn thấy tổ trống trơn\
+137\. Như diều hâu nhìn thấy tổ trống trơn\
 Tất cả đều bị giết, lũ chim non,\
 Thiếp sẽ phát điên cuồng và ngây dại\
 Thấy con yêu chẳng bao giờ trở lại.
 
-138. Như bầy hồng nga nọ đứng bên hồ,\
+138\. Như bầy hồng nga nọ đứng bên hồ,\
 Làn nước kia nay biến mất, cạn khô,\
 Thiếp sẽ sống trong khổ đau dằng dặc,\
 Không còn thấy đứa con yêu quý nhất.
 
-139. Như bầy hồng nga nọ đứng bên hồ,\
+139\. Như bầy hồng nga nọ đứng bên hồ,\
 Làn nước kia nay biến mất, cạn khô,\
 Thiếp sẽ gầy mòn, võ vàng héo hắt,\
 Không còn thấy đứa con yêu quý nhất.
 
-140. Như bầy hồng nga nọ đứng bên hồ,\
+140\. Như bầy hồng nga nọ đứng bên hồ,\
 Làn nước kia nay biến mất, cạn khô,\
 Thiếp sẽ hóa dại cuồng khi thấy mất\
 Ðứa con trai mà thiếp yêu thương nhất.
@@ -940,41 +947,41 @@ Tất cả cùng nhau thẳng tiến vội vàng,\
 Các cung phi dang đôi tay trước mặt\
 Ðể cùng bà tiếp nối lời than khóc.*
 
-143. Và ở trong cung điện của ông hoàng\
+143\. Và ở trong cung điện của ông hoàng\
 Tất cả đều nằm la liệt ngổn ngang,\
 Ðàn bà trẻ con nằm như cây cỏ\
 Bị ngã dài trên đất liền tại chỗ.
 
-144. Và đến khi đêm ấy đã gần tàn\
+144\. Và đến khi đêm ấy đã gần tàn\
 Rạng ngày sau vừa lúc mặt trời quang,\
 Khi ấy Ves-san-ta-ra Chúa tể\
 Bắt đầu Lễ đại cúng dường bố thí.
 
-145. Ðem thức ăn cho những kẻ đói cơm,\
+145\. Ðem thức ăn cho những kẻ đói cơm,\
 Ðem rượu nồng cho những bọn túy ông,\
 Ðem y phục cho người cần y phục,\
 Cho mỗi người tùy theo lòng mong ước.
 
-146. Ðừng để người xin thất vọng trở về,\
+146\. Ðừng để người xin thất vọng trở về,\
 Hãy tỏ bày lòng kính trọng tràn trề,\
 Đừng để thiếu thức uống ăn tùy thích.
 
-147. Vì thế quần chúng tựu tề chật ních\
+147\. Vì thế quần chúng tựu tề chật ních\
 Và nhanh chân nhảy múa với nô đùa,\
 Khi Si-vi Chúa tể chính là vua\
 Nuôi quốc độ đang sẵn sàng biệt xứ.
 
-148. Chúng đã đốn nhào một cây đại thụ\
+148\. Chúng đã đốn nhào một cây đại thụ\
 Ðứng vươn cao đầy quả chín trên cành,\
 Khi quần chúng đuổi ra khỏi đất lành\
 Vua vô tội Ves-san-ta-ra ấy,
 
-149. Cây ban ước nguyện chúng đành đốn gãy\
+149\. Cây ban ước nguyện chúng đành đốn gãy\
 Với bao điều ân huệ sẵn trong tay\
 Ves-san-ta-ra vô tội thế này,\
 Quần chúng tống xuất ngài ra khỏi nước.
 
-150. Chúng đã đốn cây thần ban điều ước\
+150\. Chúng đã đốn cây thần ban điều ước\
 Với tối cao ân huệ sẵn trong tay,\
 Ves-san-ta-ra vô tội thế này\
 Chúng đã tống xuất ngài đi biệt xứ.
@@ -991,17 +998,17 @@ Và thét gào suốt cả một ngày trường\
 Khi Ðại vương sẵn sàng rời đất nước,\
 Ngài đã nuôi dưỡng quốc độ Si-vi.
 
-155. Trong kinh thành tất cả bọn nữ nhi\
+155\. Trong kinh thành tất cả bọn nữ nhi\
 Ðồng than khóc và thét gào hôm ấy,\
 Khi vị vua nước Si-vi vĩ đại\
 Bảo dưỡng dân sắp sửa bước lưu đày.
 
-156. Bà-la-môn, khổ hạnh giả xưa nay\
+156\. Bà-la-môn, khổ hạnh giả xưa nay\
 Cùng tất cả những ai cần khất thực,\
 Ðều giơ cao các cánh tay trước mặt\
 Và thét to: “Thật hành động bạo tàn!”
 
-157. Trong khi vua đem phước lộc phát ban\
+157\. Trong khi vua đem phước lộc phát ban\
 Cho tất cả toàn kinh thành thừa hưởng,\
 Và nay bị chính thần dân kết án\
 Ngài đã đành cất bước chốn lưu vong.
@@ -1011,31 +1018,31 @@ Với tất cả vẻ huy hoàng tô điểm:\
 Với dây đai bằng vàng ròng kiều diễm,\
 Với khăn vàng được phủ kín sáng ngời.
 
-159. Mỗi con voi đều chở một chú nài\
+159\. Mỗi con voi đều chở một chú nài\
 Với dáo móc cầm trong tay hộ vệ,\
 Nay nhìn Ves-san-ta-ra Chúa tể\
 Bị đày đi khỏi đất nước lưu vong.
 
-160. Bảy trăm con ngựa ngài cũng phát không,\
+160\. Bảy trăm con ngựa ngài cũng phát không,\
 Ðược tô điểm với yên cương láng bóng,\
 Các ngựa Sindh, ngựa rặc nòi thuần chủng,\
 Tất cả đều phi vùn vụt đôi chân.
 
-161. Mỗi ngựa đều được cỡi một tên quân\
+161\. Mỗi ngựa đều được cỡi một tên quân\
 Với cung kiếm trong tay đầy bạo dạn,\
 Nay nhìn Ves-san-ta-ra Chúa thượng\
 Bị đày đi khỏi đất nước quê hương.
 
-162. Bảy trăm xe ngựa đầy đủ yên cương\
+162\. Bảy trăm xe ngựa đầy đủ yên cương\
 Với cờ xí rợp tung bay theo gió,\
 Da hổ, báo, cảnh huy hoàng rực rỡ,
 
-163. Mỗi xe đều được cỡi một quản xa\
+163\. Mỗi xe đều được cỡi một quản xa\
 Mang giáp bào, cầm cung nỏ sáng lòa,\
 Nay nhìn Ves-san-ta-ra Chúa tể\
 Bị đi đày khỏi quê hương như thế.
 
-164. Bảy trăm nữ nhi ngài cũng phát ban,\
+164\. Bảy trăm nữ nhi ngài cũng phát ban,\
 Trên mỗi cỗ xe đều đứng một nàng\
 Với chuỗi vàng và kim hoàn tô điểm,\
 Các nữ nhi này thật là kiều diễm.
@@ -1047,17 +1054,17 @@ Với đôi mông tròn gợi tình duyên dáng,\
 Nay hãy nhìn Chúa thượng Ves-san-ta\
 Bị đày đi khỏi đất nước quê nhà!
 
-167. Bảy trăm bò ngài cũng đem phân phát,\
+167\. Bảy trăm bò ngài cũng đem phân phát,\
 Với mỗi thùng đựng sữa đều bằng bạc,\
 Nay hãy nhìn Chúa thượng Ves-san-ta\
 Bị đày đi khỏi đất nước quê nhà!
 
-168. Bảy trăm nữ tỳ ngài đem cho hết\
+168\. Bảy trăm nữ tỳ ngài đem cho hết\
 Khi đám mày râu kêu vang tha thiết,\
 Nay hãy nhìn Chúa thượng Ves-san-ta\
 Bị đày đi khỏi đất nước quê nhà!
 
-169. Ngài ban ngựa voi, cỗ xe, nô lệ,\
+169\. Ngài ban ngựa voi, cỗ xe, nô lệ,\
 Sau mọi việc kia xảy ra, tuy thế,\
 Nay hãy nhìn Chúa thượng Ves-san-ta\
 Bị đày đi khỏi đất nước quê nhà!
@@ -1080,11 +1087,11 @@ Và xin trình để phụ vương biết rõ:\
 – Con sẽ ra đi đến đồi Vạn-cổ\
 Vì giờ đây cha phán lệnh lưu đày.*
 
-172. Tấu Anh quân, thời sắp đến sau này\
+172\. Tấu Anh quân, thời sắp đến sau này\
 Sẽ biết rõ những ai đầy tham dục\
 Không biết thỏa, sẽ đi vào địa ngục.
 
-173. Vì con làm nên tội với thần dân,\
+173\. Vì con làm nên tội với thần dân,\
 Ðã phát ban hào phóng với tay con,\
 Nên con đã bị toàn dân xét xử,\
 Con phải chịu đi đày ra khỏi xứ.
@@ -1136,59 +1143,59 @@ Bậc Ðạo Sư ngâm kệ giải thích việc này:
 – Ðừng để tay chân tẩm ướt đàn hương\
 Chịu lấm bụi và đất dơ, cha bảo,*
 
-182. Con đừng đắp vỏ cây rừng làm áo\
+182\. Con đừng đắp vỏ cây rừng làm áo\
 Thay lụa tơ Ba-la-nại mượt mà,\
 Công nương diễm phúc, đừng bước đi xa,\
 Ðời rừng rậm thật khó khăn gian khổ.
 
-183. Công chúa Mad-dì yêu kiều, rực rỡ,\
+183\. Công chúa Mad-dì yêu kiều, rực rỡ,\
 Liền đáp lời thưa với phụ vương nàng:\
 – Ðược diễm phúc kia con cũng chẳng màng\
 Nếu không có Ves-san-ta Thái tử.
 
-184. Rồi Ðại vương Si-vi nuôi-quốc-độ\
+184\. Rồi Ðại vương Si-vi nuôi-quốc-độ\
 Lại nói thêm với nàng nữa như vầy:\
 – Này Mad-dì con hỡi, hãy nghe đây,\
 Khi cha giảng nỗi gian nan rừng thẳm:
 
-185. Những bầy bọ ruồi, muỗi mòng, ong, gián,\
+185\. Những bầy bọ ruồi, muỗi mòng, ong, gián,\
 Sẽ đốt con trong lúc sống ở rừng\
 Cho đến khi con mắc bệnh thương vong.
 
-186. Còn cư dân trên bờ sông bến nước\
+186\. Còn cư dân trên bờ sông bến nước\
 Lại nghe nói đến nhiều tai họa khác:\
 Dù không mang nọc độc, giống trăn rừng,\
 Loài cuộn tròn siết chặt, mạnh vô cùng,
 
-187. Hễ người, vật đến gần, liền tóm chặt,\
+187\. Hễ người, vật đến gần, liền tóm chặt,\
 Rồi kéo về hang, cuộn trong nhiều khúc.
 
-188. Còn nhiều loài dã thú khác hiểm nguy\
+188\. Còn nhiều loài dã thú khác hiểm nguy\
 Phủ đầy lông chằng chịt lại đen sì,\
 Chúng có thể trèo cây bắt người đấy,\
 Con gấu chính là tên sinh vật ấy.
 
-189. Dọc theo bờ sông nước So-tum-ba\
+189\. Dọc theo bờ sông nước So-tum-ba\
 Có loài trâu cư trú chốn giang hà\
 Với cặp sừng thật to và nhọn hoắc\
 Có thể húc một cú đau cùng cực.
 
-190. Thấy những đàn trâu vĩ đại thế này\
+190\. Thấy những đàn trâu vĩ đại thế này\
 Ði lang thang qua rừng rậm đó đây,\
 Như bò mẹ đi tìm con, khốn khổ,\
 Mad-dì sẽ làm gì, cho ta rõ?
 
-191. Khi vượn khỉ trên cây tụ họp đoàn,\
+191\. Khi vượn khỉ trên cây tụ họp đoàn,\
 Chúng sẽ làm con hốt hoảng kinh hoàng,\
 Công chúa Mad-dì chẳng hề hiểu biết\
 Trước cảnh tượng dị kỳ và gớm ghiếc.
 
-192. Xưa mỗi lần tiếng hú của chó rừng\
+192\. Xưa mỗi lần tiếng hú của chó rừng\
 Vẫn làm con thật run sợ hãi hùng,\
 Nay phải sống ở trên đồi Vạn-cổ\
 Con sẽ làm gì, Mad-dì bé nhỏ!
 
-193. Sao con muốn đi vào chốn như vầy?\
+193\. Sao con muốn đi vào chốn như vầy?\
 Ngay cả lúc trời đang giữa ban ngày,\
 Khi các loài chim nghỉ ngơi im lặng,\
 Khu rừng cây vẫn thét gào vang động.
@@ -1200,22 +1207,22 @@ Mà cha đã cố trình bày cho rõ,\
 Con sẵn sàng chấp nhận mọi điều kia,\
 Và nay con đã quyết định ra đi.
 
-196. Qua mọi đồi hoang và rừng cỏ dại,\
+196\. Qua mọi đồi hoang và rừng cỏ dại,\
 Xuyên suốt các đầm lau và khóm sậy,\
 Với sức mình, con sẽ mở con đường,\
 Quả thật con không oán trách kêu than.
 
-197. Nàng nào muốn giữ chồng cho tốt đẹp,\
+197\. Nàng nào muốn giữ chồng cho tốt đẹp,\
 Phải làm xong phận sự mình trên hết,\
 Phải sẵn sàng vò các cục phân bò,\
 Và sẵn sàng ăn bữa đói bữa no.
 
-198. Nàng phải siêng năng chăm lo ngọn lửa\
+198\. Nàng phải siêng năng chăm lo ngọn lửa\
 Và phải chuyên cần lọc trong nước nữa.\
 Song cuộc đời quả phụ thật kinh hoàng,\
 Con quyết ra đi, tâu bậc Ðại vương.
 
-199. Việc vặt vãnh cũng làm nàng lo lắng,\
+199\. Việc vặt vãnh cũng làm nàng lo lắng,\
 Nàng thường ăn thứ cơm thừa canh cặn,\
 Vì cuộc đời quả phụ thật kinh hoàng,\
 Con quyết ra đi, tâu bậc Ðại vương.
@@ -1266,12 +1273,12 @@ Làm hoàng hậu khắp thế gian chẳng thiết\
 Ðời sương phụ than ôi, đầy kinh khiếp,\
 Tâu Ðại vương, con sẽ quyết ra đi.
 
-214. Quả thật vô tâm là những nữ nhi\
+214\. Quả thật vô tâm là những nữ nhi\
 Lòng sắt đá nên không sao nhận thức\
 Khi các vị lang quân đang khổ cực,\
 Lại ước mong vui hưởng cảnh giàu sang.
 
-215. Khi chúa tể Si-vi bỏ quê hương,\
+215\. Khi chúa tể Si-vi bỏ quê hương,\
 Để cất bước lưu đày ra khỏi nước,\
 Con quyết sẽ cùng theo chàng cất bước,\
 Vì chàng ban mọi hỷ lạc, hân hoan.
@@ -1296,27 +1303,27 @@ Vị chúa tể đáp lời ngay lập tức:\
 Nếu phải dùng quả dại ở rừng hoang,\
 Bọn trẻ thơ làm gì được hay chăng?
 
-222. Trước giờ ăn bằng chén vàng, dĩa bạc,\
+222\. Trước giờ ăn bằng chén vàng, dĩa bạc,\
 Nay chỉ lá cây chúng làm gì được?
 
-223. Trước áo quần Ba-la-nại lụa tơ,\
+223\. Trước áo quần Ba-la-nại lụa tơ,\
 Nay phải mặc vỏ cây với cỏ khô,\
 Bọn trẻ ấy biết làm gì cho được?
 
-224. Xưa xe, kiệu, chúng được người đưa rước,\
+224\. Xưa xe, kiệu, chúng được người đưa rước,\
 Nay chạy đi quanh quẩn với đôi chân,\
 Bọn trẻ thơ làm gì được hay không?
 
-225. Trước giờ ngủ trong vương cung nóc nhọn,\
+225\. Trước giờ ngủ trong vương cung nóc nhọn,\
 Cửa khóa then cài thật là an ổn,\
 Nay phải nằm ngay dưới gốc cây rừng,\
 Bọn trẻ thơ làm gì được hay chăng?
 
-226. Trước gối nệm với giường thêu nằm ngủ,\
+226\. Trước gối nệm với giường thêu nằm ngủ,\
 Nay phải ngã lưng nằm trên giường cỏ,\
 Bọn trẻ thơ làm gì được hay chăng?
 
-227. Trước được tẩm đầy các thứ dầu hương,\
+227\. Trước được tẩm đầy các thứ dầu hương,\
 Nay bị phủ bùn nhơ và bụi bặm,\
 Bọn trẻ thơ sẽ làm gì cho đặng?
 
@@ -1340,16 +1347,16 @@ Xin phụ vương cũng đừng nên bối rối,\
 Hai trẻ này cùng cha mẹ lên đường\
 Bất cứ nơi nào rảo bước tha phương.*
 
-231. Với những lời này Mad-dì từ giã,\
+231\. Với những lời này Mad-dì từ giã,\
 Vị công nương thật yêu kiều rực rỡ,\
 Hai trẻ thơ cùng chia xẻ đường trường.
 
-232. Rồi Ves-san-ta-ra chính quốc vương,\
+232\. Rồi Ves-san-ta-ra chính quốc vương,\
 Lời ước nguyện đã hoàn thành như ý,\
 Ðến trước song thân ngài đồng kính lễ\
 Và đi quanh về phía hữu một vòng.
 
-233. Rồi ngài ngự lên xa giá lẹ làng\
+233\. Rồi ngài ngự lên xa giá lẹ làng\
 Ðược kéo đi nhờ một đoàn tuấn mã,\
 Cùng vợ con, ngài lên đường vội vã\
 Ðến nơi kia đồi Vạn-cổ cao vời.
@@ -1429,7 +1436,7 @@ Bậc Ðạo Sư ngâm kệ giải thích việc tặng cỗ xe này:
 
 *239. Một kẻ thứ năm tiến đến tức thì\
 Và cầu xin xe nọ của vương nhi.\
-240. Việc này khiến Ves-san-ta Chúa thượng\
+240\. Việc này khiến Ves-san-ta Chúa thượng\
 Phải đưa đám vợ con ngài đi xuống,\
 Và ban xe cho kẻ đến xin quà.*
 
@@ -1478,12 +1485,12 @@ Vì thế chuyện kể lại:
 Nhiều cây cao mọc lên đầy hoa trái,\
 Hai trẻ kia liền kêu khóc đòi ăn.*
 
-246. Khi cây rừng nhìn lũ trẻ khóc than,\
+246\. Khi cây rừng nhìn lũ trẻ khóc than,\
 Cây cao vút bỗng sinh lòng ái ngại\
 Cúi rạp mình đưa các cành đi tới\
 Cho tay người hái được trái cây rừng.
 
-247. Lúc ấy Mad-dì reo lớn vui mừng,\
+247\. Lúc ấy Mad-dì reo lớn vui mừng,\
 Nàng công chúa diễm kiều và rực rỡ,\
 Khi nhìn thấy phép thần kỳ diệu đó\
 Khiến cho người ta phải dựng tóc lông.
@@ -1556,16 +1563,16 @@ Hãy bình tâm: ta thịnh vượng, khang an,\
 Về phụ vương và quốc độ giang sơn\
 Ta có đủ tin lành đem thông cáo.*
 
-258. Ta đã tặng con voi là quốc bảo\
+258\. Ta đã tặng con voi là quốc bảo\
 Có ngà dài, toàn trắng, thật tốt lành,\
 Ðã bao lần thắng trận lúc giao tranh.
 
-259. Với quạt đuôi trâu rừng và ngọc thạch,\
+259\. Với quạt đuôi trâu rừng và ngọc thạch,\
 Ðã dẫm tan bao đám quân thù địch.\
 Thật hung hăng, dài thẳng tắp đôi ngà,\
 Trắng ngần như núi tuyết Ke-là-sa.
 
-260. Lọng trắng, cân đai xứng ngôi chúa thượng,\
+260\. Lọng trắng, cân đai xứng ngôi chúa thượng,\
 Với đám quân hầu cùng người quản tượng,\
 Bảo vật này ta đã lấy phát phân.
 
@@ -1620,21 +1627,21 @@ Một sự việc đầy kinh hoàng như thế,\
 Ngài được dân xứ Ce-ta hộ vệ,\
 Xin ở đây và làm bậc Ðại vương.*
 
-272. Ðất nước này đang thịnh vượng, phú cường\
+272\. Ðất nước này đang thịnh vượng, phú cường\
 Với dân chúng thật hào hùng, vĩ đại,\
 Cầu xin ngài hãy quyết tâm ở lại\
 Với chúng thần và cai trị quốc gia.
 
-273. – Hãy nghe ta! Các vương tử Ce-ta\
+273\. – Hãy nghe ta! Các vương tử Ce-ta\
 Ta không có ý mong cầu ở lại,\
 Vì ta đi như một người bị đuổi,\
 Chẳng đến đây cầm quyền lực quân vương,
 
-274. Dân Si-vi tất cả sẽ bất bằng\
+274\. Dân Si-vi tất cả sẽ bất bằng\
 Biết các ngài tôn ta làm Thiên tử,\
 Trong khi ta bị đày ra khỏi xứ.
 
-275. Nếu các ngài muốn thực hiện điều này,\
+275\. Nếu các ngài muốn thực hiện điều này,\
 Sẽ là điều thật bất hạnh từ đây:\
 Gây tranh chấp với Si-vi dân chúng,\
 Ta không thích đấu tranh và căm hận.
@@ -1655,39 +1662,39 @@ Làm cách nào một vị vua xuất thế\
 Nhờ lửa thiêng được an tịnh, tốt lành,\
 Mọi sự đều trôi êm ả, thanh bình.*
 
-279. Gan-dha-mà, tâu Ðại vương, núi đá\
+279\. Gan-dha-mà, tâu Ðại vương, núi đá\
 Là nơi ngài cùng vợ con cư trú.
 
-280. Dân Ce-ta với vẻ mặt thảm sầu\
+280\. Dân Ce-ta với vẻ mặt thảm sầu\
 Tất cả đều tuôn chảy những dòng châu,\
 Khuyên Ðại vương đi thẳng đường phương Bắc,\
 Nơi các đỉnh núi non cao chất ngất.
 
-281. Nơi kia ngài thấy núi Vi-pu-la,\
+281\. Nơi kia ngài thấy núi Vi-pu-la,\
 (Cầu phúc lành đi sát cạnh vương gia),\
 Ðầy lạc thú với nhiều cây xanh ngắt\
 Ðang đổ xuống dưới kia bao bóng mát.
 
-282. Khi đến nơi, ngài sẽ thấy bên mình\
+282\. Khi đến nơi, ngài sẽ thấy bên mình\
 (Cầu chúc ngài lần nữa được phúc lành)\
 Ke-tu-ma, dòng nước sâu thăm thẳm\
 Tuôn chảy ra từ ngọn đồi vô tận.
 
-283. Ðầy cá, tôm, nơi trú ngụ bình an,\
+283\. Ðầy cá, tôm, nơi trú ngụ bình an,\
 Dòng nước sâu kia tuôn chảy tràn lan,\
 Ngài sẽ uống, tắm, chơi cùng con cái.
 
-284. Và nơi kia, trên ngọn đồi khả ái,\
+284\. Và nơi kia, trên ngọn đồi khả ái,\
 Bóng mát che, ngài sẽ thấy trĩu đầy\
 Trái cây thơm như mật ngọt ngào thay,\
 Thật hùng vĩ một cây đa đại thọ.
 
-285. Ngài sẽ thấy núi Na-li-ka nọ\
+285\. Ngài sẽ thấy núi Na-li-ka nọ\
 Và đó là vùng đất của quỷ thần,\
 Nơi bầy chim cất tiếng hót hòa âm,\
 Nhiều ma quái, lắm sơn thần ẩn nấp.
 
-286. Từ đó đi xa hơn về phía Bắc\
+286\. Từ đó đi xa hơn về phía Bắc\
 Là đến hồ tên gọi Mu-ca-linh\
 Bao phủ đầy loài sen súng trắng xanh.
 
@@ -1698,17 +1705,17 @@ Cây đầy hoa và trái nặng trĩu cành\
 Hãy vào đó: sự rình mồi mong ngóng\
 Bắt con thịt và ăn tươi nuốt sống.
 
-289. Nơi kia khi rừng nở rộ ngàn hoa,\
+289\. Nơi kia khi rừng nở rộ ngàn hoa,\
 Nghe rạt rào muôn vạn tiếng chim ca,\
 Tiếng líu lo ở khắp nơi đây đó\
 Của bao cánh chim rừng màu rực rỡ.
 
-290. Nếu ngài đi theo ngọn thác dần dần\
+290\. Nếu ngài đi theo ngọn thác dần dần\
 Cho đến khi lên tận chốn suối nguồn,\
 Ngài sẽ thấy một hồ hoa sen phủ\
 Với các loài hoa chen nhau đua nở.
 
-291. Ðầy cá tôm, nơi trú ngụ an thân\
+291\. Ðầy cá tôm, nơi trú ngụ an thân\
 Dòng nước kia sâu thăm thẳm vô cùng\
 Bền vững, thanh bình, tỏa mùi thơm dịu,\
 Chẳng hơi nồng nặc làm ta khó chịu,
@@ -1779,32 +1786,32 @@ Jù-jà-ka chính tên Bà-la-môn,\
 Sống đây với vợ còn son\
 A-mit-ta ấy vẫn còn xuân xanh.*
 
-294. Bọn đàn bà nọ mang bình\
+294\. Bọn đàn bà nọ mang bình\
 Xuống sông chửi rủa chính danh của nàng,\
 Cố làm ô nhục hồng nhan,\
 Cả bầy tụ tập, dọc ngang quây quần:
 
-295. – Mẹ cô quả thật “cừu nhân”,\
+295\. – Mẹ cô quả thật “cừu nhân”,\
 Và cha cô nữa cũng đồng “oan gia”\
 Ðể cho một lão già nua\
 Cưới xin vợ trẻ như cô nõn nường!
 
-296. Nhà cô mưu kế gì chăng,\
+296\. Nhà cô mưu kế gì chăng,\
 Âm mưu hèn hạ bạo tàn xấu xa!\
 Ép duyên cô gái còn tơ\
 Gả cho ông lão già nua lòm khòm.
 
-297. Đời cô quả thật chán chường\
+297\. Đời cô quả thật chán chường\
 Trong khi cô vẫn còn đang nõn nà,\
 Kết duyên với một lão già,\
 Ôi thôi, chết quách cũng là tốt hơn!
 
-298. Hỡi cô xinh đẹp, rõ ràng\
+298\. Hỡi cô xinh đẹp, rõ ràng\
 Mẹ cha cô quả bất nhân quá chừng,\
 Nếu như con gái còn xuân\
 Họ không tìm được một chàng rể xinh.
 
-299. Lễ dâng lửa, lễ tế sinh\
+299\. Lễ dâng lửa, lễ tế sinh\
 Sau ngày sinh nhật hóa thành uổng công,\
 Nếu như cô gái còn xuân\
 Bị đưa làm vợ một ông già khòm.
@@ -1816,17 +1823,17 @@ Bị cô phỉ báng rủa nguyền hay chăng?\
 Nếu như cô gái còn xuân\
 Bị đưa làm vợ một ông già khòm.
 
-302. Như dao đâm thật đau lòng,\
+302\. Như dao đâm thật đau lòng,\
 Như là nọc rắn cháy nồng đốt thiêu,\
 Song còn đau khổ hơn nhiều\
 Khi nhìn ông lão tiêu điều tả tơi!
 
-303. Với chồng đã quá già rồi\
+303\. Với chồng đã quá già rồi\
 Còn gì thích thú vui cười nữa đâu?\
 Chuyện trò chẳng chút vui nào,\
 Khi cười, lão cũng nhăn nheo khó nhìn!
 
-304. Gái trai độ tuổi thanh niên,\
+304\. Gái trai độ tuổi thanh niên,\
 Sống cùng nhau chốn tư riêng thắm nồng\
 Dứt ngay mọi nỗi đau buồn\
 Vẫn còn tiềm ẩn trong lòng vấn vương.
@@ -1898,7 +1905,7 @@ Tôi nguyền làm việc chính tôi sẵn lòng.*
 
 Cô vợ bảo:
 
-315. Chàng sao chẳng khác tên quân\
+315\. Chàng sao chẳng khác tên quân\
 Trước khi ra trận đầu hàng, lý do?\
 Và chàng đành phải chịu thua\
 Trước khi ra trận và so thử tài?
@@ -1910,12 +1917,12 @@ Tôi thề không ở lại đây với chàng,\
 Chuyện này quả thật đáng buồn,\
 Ðó là một chuyện đau thương cho chàng.
 
-318. Nhìn tôi hạnh phúc ngập tràn\
+318\. Nhìn tôi hạnh phúc ngập tràn\
 Trong tay của một tình lang khác rồi,\
 Áo quần lộng lẫy thắm tươi,\
 Theo mùa thay đổi, trăng trời chuyển luân.
 
-319. Khi chàng năm tháng tàn dần,\
+319\. Khi chàng năm tháng tàn dần,\
 Còn tôi vắng bóng, chàng buồn khóc than,\
 Tóc chàng sẽ bạc trắng ngần,\
 Mặt chàng sẽ gấp bội phần nếp nhăn!
@@ -1924,17 +1931,17 @@ Mặt chàng sẽ gấp bội phần nếp nhăn!
 
 Bậc Ðạo Sư ngâm kệ giải thích việc này:
 
-320. Và bây giờ lão La-môn\
+320\. Và bây giờ lão La-môn\
 Lòng đầy sợ hãi phục tuân ý nàng,\
 Bị nàng hành hạ nát tan,\
 Ta nghe lão phải vội vàng nói năng:
 
-321. – Cho tôi thực phẩm đi đường,\
+321\. – Cho tôi thực phẩm đi đường,\
 Làm cho tôi bánh mật ngon ngọt ngào,\
 Làm thêm lương thực khô nào,\
 Bánh mì lúa mạch nướng mau trên lò.
 
-322. Thế rồi một cặp gia nô\
+322\. Thế rồi một cặp gia nô\
 Có cùng đẳng cấp với cô đem về,\
 Bọn này mệt mỏi chẳng hề,\
 Ngày đêm phục vụ cận kề ái nương.
@@ -1953,12 +1960,12 @@ Vừa mang giày và đeo bao lương thực lên vai, lão vừa đi vòng qu
 
 Bậc Ðạo Sư giải thích việc này qua vần kệ:
 
-323. Việc này xong, lão La-môn\
+323\. Việc này xong, lão La-môn\
 Mang giày rồi lại đứng lên tức thì\
 Ði vòng quanh ả nữ nhi\
 Nghiêng về phía hữu chia ly vợ mình.
 
-324. Ra đi khoác áo tu hành\
+324\. Ra đi khoác áo tu hành\
 Lệ rơi lả tả quanh vành mắt y,\
 Vội vàng đến nước Si-vi,\
 Kinh đô trù phú tìm về gia nô.
@@ -1978,12 +1985,12 @@ Ves-san-ta ấy tìm phương hướng nào?\
 Ðáp ngay cho lão đôi câu,\
 Ðám đông tụ họp cùng nhau trả lời:
 
-327. – Ngài đành phải chịu tàn đời\
+327\. – Ngài đành phải chịu tàn đời\
 Chỉ vì bố thí lũ tồi như ngươi,\
 Ngài vừa bị đuổi đi rồi\
 Ra ngoài xứ sở, đến đồi Vam-ka.
 
-328. Ngài đành phải chịu tiêu ma\
+328\. Ngài đành phải chịu tiêu ma\
 Chỉ vì bố thí lũ tà như ngươi,\
 Ngài vừa bị đuổi đi rồi,\
 Ðem con vợ đến ở đồi Vam-ka.
@@ -1998,37 +2005,37 @@ Nhưng lão được các vị thần dẫn vào đúng con đường đi đ�
 
 Bậc Ðạo Sư ngâm kệ giải thích việc này:
 
-329. Lão kia bị vợ rầy la\
+329\. Lão kia bị vợ rầy la\
 Do niềm tham dục bùng ra hoành hành,\
 Chuộc sai lầm ở rừng xanh\
 Nơi loài hổ báo thường rình mồi săn.
 
-330. Tay cầm gậy, bát xin ăn,\
+330\. Tay cầm gậy, bát xin ăn,\
 Muỗng làm tế lễ, vào rừng hoang sơ,\
 Nơi đây là chốn ẩn cư\
 Của người bố thí đúng như ý mình.
 
-331. Một khi vào tận rừng xanh\
+331\. Một khi vào tận rừng xanh\
 Từng bầy chó sói vây quanh con đường,\
 Nhảy quàng xiêng lão La-môn,\
 Rồi đi hốt hoảng lạc đường nào hay.
 
-332. La-môn lắm dục vọng này,\
+332\. La-môn lắm dục vọng này,\
 Lòng tham buông thả, thấy ngay lạc loài\
 Ðường lên Vạn – cổ mất rồi,\
 Bắt đầu thăm hỏi những lời dò la:
 
-333. -Ai cho biết Ves-san-ta,\
+333\. -Ai cho biết Ves-san-ta,\
 Ông hoàng chiến thắng mọi vua trên đời,\
 Người ban an lạc đúng thời,\
 Vị vua vĩ đại, hùng oai trên trần?
 
-334. Nơi an trú kẻ cầu ân,\
+334\. Nơi an trú kẻ cầu ân,\
 Như đất lành với muôn dân sinh thành?\
 Nào ai sẽ nói cho mình\
 Ves-san-ta Chúa quang vinh, hùng cường?
 
-335. Mọi người mong muốn cầu ân\
+335\. Mọi người mong muốn cầu ân\
 Tìm ngài như biển mọi sông đổ vào,\
 Nào ai nói với ta mau\
 Ves-san-ta Chúa tối cao hùng cường?
@@ -2054,12 +2061,12 @@ Vội vàng đi đến dưới tàn lá xanh,\
 Nào ai sẽ báo cho mình\
 Ves-san-ta Chúa quang vinh hùng cường?
 
-342. Nào ai nghe tiếng ta than\
+342\. Nào ai nghe tiếng ta than\
 Chung quanh toàn cả rừng hoang hãi hùng?\
 Lòng ta xiết đỗi vui mừng\
 Nếu ai cho biết vương quân nơi nào.
 
-343. Chung quanh toàn cả rừng sâu,\
+343\. Chung quanh toàn cả rừng sâu,\
 Ai nghe ta thở than nào có hay?\
 Hân hoan hạnh phúc lắm thay\
 Nếu ai cho biết ngài rày nơi nao?
@@ -2081,49 +2088,49 @@ Chỉ vì bố thí những phường như ngươi,\
 Ngài vừa bị đuổi đi rồi,\
 Ra ngoài xứ sở đến đồi Vam-ka!
 
-346. Ngài đành phải chịu tiêu ma\
+346\. Ngài đành phải chịu tiêu ma\
 Chỉ vì bố thí lũ tà như ngươi,\
 Ngài vừa bị đuổi đi rồi,\
 Ðem vợ con đến ở đồi Vam-ka.
 
-347. Ðồ ngu vô dụng quả là,\
+347\. Ðồ ngu vô dụng quả là,\
 Nếu ngươi mong muốn bỏ nhà ra đây,\
 Ðể tìm vương tử rừng này\
 Như con hạc kiếm cá bầy giữa sông.
 
-348. Thế thì đây, hỡi tôn ông,\
+348\. Thế thì đây, hỡi tôn ông,\
 Mạng kia của lão, ta không tha vầy,\
 Tên ta sẽ hút máu đầy\
 Khi ta bắn nó từ cây cung dài.
 
-349. Rồi ta sẽ chẻ đầu ngươi,\
+349\. Rồi ta sẽ chẻ đầu ngươi,\
 Xé tim gan ấy tức thời tại đây,\
 Như chim cúng lễ thần cây,\
 Ta làm thịt lão giờ đây tế thần.
 
-350. Rồi ta lấy thịt, mỡ, gân,\
+350\. Rồi ta lấy thịt, mỡ, gân,\
 Lấy đầu, tim lão đủ phần thiếu chi,\
 Lão thành tế vật tức thì\
 Ngay khi lão mới ra đi lìa dời.
 
-451. Lão là lễ vật đáng mời,\
+451\. Lão là lễ vật đáng mời,\
 Lễ dâng đàn tế tuyệt vời ước mong,\
 Về sau lão chẳng còn hòng\
 Tìm đường hãm hại vợ con của ngài.
 
 Nghe những lời này, lão già sợ chết khiếp, liền tìm cách trả lời dối trá:
 
-352. Sứ thần ai cũng kiêng oai,\
+352\. Sứ thần ai cũng kiêng oai,\
 Không ai được phép giết người sứ quân,\
 Ðây là qui luật ngàn năm,\
 Nếu ông muốn, hãy chú tâm nghe này:
 
-353. Thần dân hối hận lắm thay,\
+353\. Thần dân hối hận lắm thay,\
 Vua cha thương nhớ suốt ngày lo âu,\
 Mẹ ngài mòn mỏi ưu sầu,\
 Mắt bà đang hóa ra mau mờ dần.
 
-354. Ðến đây ta chính sứ thần\
+354\. Ðến đây ta chính sứ thần\
 Ðem về Chúa tể Ves-san-ta này,\
 Hãy nghe, cho lão biết vầy\
 Nơi đâu có thể tìm ngài Chúa công.
@@ -2139,27 +2146,27 @@ Ta đây sẽ nói làm sao bây giờ.
 
 Nói xong, y cho lão Bà-la-môn thức ăn, cùng một bầu mật ong và một đùi nai nướng, rồi để lão lên đường, vừa đưa tay phải lên chỉ nơi bậc Ðại Sĩ đang ở, y vừa ngâm kệ:
 
-357. Ðạo sĩ ôi, núi đằng xa,\
+357\. Ðạo sĩ ôi, núi đằng xa,\
 Gan-dha-mà ấy chính là Hương Sơn,\
 Nơi Ves-san-ta Ðại vương\
 Hiện đang sống với vợ con một đoàn.
 
-358. Với y của bậc La-môn,\
+358\. Với y của bậc La-môn,\
 Bát, thìa, tóc bện, đạo nhân khác nào,\
 Khoác thêm một tấm da vào,\
 Ngài nằm trên đất, châm cao lửa hồng.
 
-359. Cây đằng xa đó, kìa trông,\
+359\. Cây đằng xa đó, kìa trông,\
 Trĩu cành sai quả xanh um sườn đồi,\
 Trong khi đỉnh núi cao vời\
 Thẫm đen đến tận mây trời ẩn thân.
 
-360. Bụi sal, tai ngựa, cát đằng,\
+360\. Bụi sal, tai ngựa, cát đằng,\
 Cùng nhiều cây khác nhẹ nhàng chuyển rung\
 Khác nào một đám túy ông\
 Lắc lư trong gió, người trông thấy hoài.
 
-361. Trên cao các dãy cây trời\
+361\. Trên cao các dãy cây trời\
 Bầy chim hòa nhạc đồng thời ca vang,\
 Naj-ju, cu gáy từng đàn\
 Chuyền từ cây nọ nhẹ nhàng lướt nhanh.
@@ -2171,33 +2178,33 @@ Tìm nhà an trú giữa rừng hoang sơ,\
 Nơi kia cùng với con thơ,\
 Ves-san-ta chúa ẩn cư xuất trần.
 
-364. Với y của bậc La-môn\
+364\. Với y của bậc La-môn\
 Bát, thìa, tóc bện, đạo nhân khác nào,\
 Khoác thêm một tấm da vào,\
 Ngài nằm trên đất, châm cao lửa hồng.\
 Người này lại nói thêm để ca tụng vùng thảo am ấy:
 
-365. Hồng đào, xoài mít thơm nồng,\
+365\. Hồng đào, xoài mít thơm nồng,\
 Mận mơ đủ loại lòng thòng, Sà-la,\
 Tin-dook vàng ánh, cây đa,\
 Cùng nhiều cây khác hiện ra cây bàng.
 
-366. Lắm cây sung, vả trên ngàn\
+366\. Lắm cây sung, vả trên ngàn\
 Toàn thân mọc thấp, chín thơm ngọt ngào,\
 Chà là, nho tuyệt diệu sao,\
 Tổ ong mật, hãy ăn vào thỏa thuê.
 
-367. Vài cây xoài mới trổ hoa,\
+367\. Vài cây xoài mới trổ hoa,\
 Vài cây có trái nhú ra đúng mùa,\
 Một vài trái đã chín vừa,\
 Trái xanh như ếch, trái chưa chín vàng.
 
-368. Người nào đứng dưới cây rừng\
+368\. Người nào đứng dưới cây rừng\
 Hái bao nhiêu quả cây dâng đón mời,\
 Sắc hương, mùi vị tuyệt vời,\
 Dù chưa chín, hoặc chín rồi đều phô.
 
-369. Ôi! Làm ta phải la to\
+369\. Ôi! Làm ta phải la to\
 Khi nhìn cảnh tượng bao la, phi thường\
 Khác nào khung cảnh thiên đường,\
 Nơi thần tiên ở, khu vườn Lạc hoan.
@@ -2209,17 +2216,17 @@ Khác nào lễ hội ngọn cờ tung cao,\
 Hoa kia có đủ sắc màu\
 Giống như ngàn vạn vì sao điểm trời.
 
-372. Gụ, đàn hương mọc khắp nơi\
+372\. Gụ, đàn hương mọc khắp nơi\
 Cùng nhiều cây khác không lời diễn ra,\
 Cây dâu, cây dẻ, phượng hoa\
 Mọc dày chi chít chen đua la đà.
 
-373. Gần bên có một cái hồ,\
+373\. Gần bên có một cái hồ,\
 Súng sen xanh trắng tràn bờ phủ lên,\
 Khác nào vườn các thần tiên\
 Chính tên là cảnh Lạc Viên trên trời.
 
-374. Sơn ca, cu gáy hót hoài\
+374\. Sơn ca, cu gáy hót hoài\
 Làm cho khắp mọi sườn đồi âm vang,\
 Ðắm say vì các hoa ngàn\
 Nở ra theo đúng mùa màng quanh năm.
@@ -2238,7 +2245,7 @@ Phóng vào tìm kiếm say sưa miệt mài,\
 Mật rơi như thể sữa tươi,\
 Như bơ từ đám hoa cười mênh mang.
 
-379. Từng làn gió nhẹ đưa ngang\
+379\. Từng làn gió nhẹ đưa ngang\
 Cỏ cây đủ loại mùi hương diệu huyền,\
 Hình như rừng rậm quanh miền\
 Ðắm say với đám hoa trên núi đồi.
@@ -2249,7 +2256,7 @@ Bầy chim đủ sắc bay cùng\
 Líu lo, chiêm chiếp trong lòng hân hoan\
 Nhiều chim cùng bạn lượn vòng:
 
-382. – Chích chích, chép chép, vui mừng biết bao!\
+382\. – Chích chích, chép chép, vui mừng biết bao!\
 Chim kêu ríu rít lao xao:\
 – Bạn yêu, bạn quý, bạn trao ân tình!
 
@@ -2260,25 +2267,25 @@ Hương thơm ngào ngạt thoảng bay xa gần,\
 Nơi kia cùng với đàn con,\
 Ves-san-ta Chúa ẩn thân xuất trần.
 
-385. Với y của bậc La- môn,\
+385\. Với y của bậc La- môn,\
 Bát, thìa, tóc bện, đạo nhân khác nào,\
 Khoác thêm một tấm da vào,\
 Ngài nằm trên đất, châm cao lửa hồng.
 
 Người dân quê miêu tả nơi cư trú của vua Vessantara như vậy, khiến Jùjaka thích thú đáp lễ và chào y qua vần kệ:
 
-386. Nhận đây bánh lúa mạch non\
+386\. Nhận đây bánh lúa mạch non\
 Thảy đều được nhúng mật ong ngọt ngào.\
 Nhiều viên bánh mật khéo sao,\
 Ta nay đem biếu ông nào ăn đi.\
 Người dân quê đáp lại:
 
-387. Cám ơn, tôi chẳng cần gì,\
+387\. Cám ơn, tôi chẳng cần gì,\
 Giữ phần lương thực mà đi đường dài.\
 Lấy thêm lương thực tôi mời,\
 Rồi xin Ðạo sĩ đến nơi ông cần.
 
-388. Thẳng lên về phía thảo đường,\
+388\. Thẳng lên về phía thảo đường,\
 Lộ trình nơi ấy dẫn ông đến nhà\
 Ẩn nhân là Ac-ca-ta,\
 Răng đen, đầu bẩn, ly gia xuất trần.
@@ -2290,17 +2297,17 @@ Ngài nằm trên đất, châm cao lửa hồng.\
 Ðến kia, và hỏi con đường,\
 Rồi ngài sẽ chỉ cho tường, Tôn ông.
 
-391. Ðiều này nghe được vừa xong,\
+391\. Ðiều này nghe được vừa xong,\
 Lão quay bên phải, đi vòng Ce-ta,\
 Rồi đi tìm Ac-ca-ta,\
 Con tim rộn rã chan hòa hân hoan.
 
-392. Jù-ja-ka tiến thẳng đường\
+392\. Jù-ja-ka tiến thẳng đường\
 Ðến khi lão đã bước gần thảo am,\
 Vào nơi ẩn sĩ trú thân,\
 Như vầy lão vội ân cần hỏi thăm:
 
-393. – Ta tin rằng, hỡi Thánh nhân,\
+393\. – Ta tin rằng, hỡi Thánh nhân,\
 Ngài thường thịnh vượng, an khương mọi bề,\
 Với bao thóc lúa thu về,\
 Và bao củ quả tràn trề ẩn am.
@@ -2312,32 +2319,32 @@ Chẳng hay ngài tránh mọi loài được chăng?*
 
 Vị khổ hạnh đáp:
 
-395. Cám ơn ngài, hỡi La-môn,\
+395\. Cám ơn ngài, hỡi La-môn,\
 Ta nay thịnh vượng, an khương mọi bề,\
 Với bao thóc lúa thu về,\
 Và bao củ quả tràn trề ẩn am.
 
-396. Ta không phải chịu phiền lòng\
+396\. Ta không phải chịu phiền lòng\
 Vì loài rắn rít, bọ ong quấy hoài,\
 Hoặc bầy dã thú tìm mồi,\
 Ta đây tránh được mọi loài, Tôn ông.
 
-397. Biết bao nhiêu tháng năm ròng\
+397\. Biết bao nhiêu tháng năm ròng\
 Mà ta đã sống trong vùng đất đây,\
 Những gì bệnh tật xưa nay,\
 Ta không hề thấy ở đây khi nào.
 
-398. Bà-la-môn hỡi, kính chào!\
+398\. Bà-la-môn hỡi, kính chào!\
 Mừng duyên hạnh ngộ đưa vào chốn đây.\
 Xin vào, ta chúc cầu may,\
 Và xin hãy rửa chân tay của ngài.
 
-399. Pi-yal, tin-dook lá cây,\
+399\. Pi-yal, tin-dook lá cây,\
 Kà-su-ma quả ngọt thay nồng nàn,\
 Trái cây như thể mật ong\
 Chọn ngay hạng nhất, La-môn, ăn nào.
 
-400. Nước này lấy tự hang sâu\
+400\. Nước này lấy tự hang sâu\
 Ẩn mình dưới một đồi cao trong rừng,\
 Xin mời, hỡi bậc Thánh nhân,\
 Uống vào cho thỏa tấm lòng ước mong.
@@ -2353,7 +2360,7 @@ Xin cho tôi biết nơi ngài ẩn thân.*
 
 Vị khổ hạnh đáp:
 
-403. Ông tìm Si-vi Ðại vương\
+403\. Ông tìm Si-vi Ðại vương\
 Mà không có ý thiện lương trong đầu,\
 Chắc ông cố ý mong cầu\
 Chiếm vương phi của ngài đâu khó gì.*
@@ -2385,168 +2392,168 @@ Thế là vị ấy tiếp đãi lão đủ thứ củ quả rừng và hôm s
 
 Vị ấy lại ngâm các vần kệ như trước:
 
-408. Ðạo sĩ ôi, núi đằng xa\
+408\. Ðạo sĩ ôi, núi đằng xa\
 Gan-dha-mà ấy chính là Hương Sơn,\
 Nơi Ves-san-ta Ðại vương\
 Hiện đang sống với vợ con một đoàn.
 
-409. Với y của bậc La-môn,\
+409\. Với y của bậc La-môn,\
 Bát, thìa, tóc bện, đạo nhân khác nào,\
 Khoác thêm một tấm da vào,\
 Ngài nằm trên đất, châm cao lửa hồng.\
 Và vị ấy nói thêm:
 
-410. Tàn cây tiêu nọ, thấy không,\
+410\. Tàn cây tiêu nọ, thấy không,\
 Ở trên mảnh đất tiên thần khác đâu,\
 Bụi không hề thổi lên cao,\
 Cỏ kia xanh mãi chẳng bao giờ tàn.
 
-411. Cỏ xanh tựa cổ chim công,\
+411\. Cỏ xanh tựa cổ chim công,\
 Sờ vào êm dịu nhu bông khác nào,\
 Mọc không quá bốn tấc cao,\
 Lúc nào cũng vậy, không bao giờ nhiều.
 
-412. Ka-pi, xoài, mận hồng đào,\
+412\. Ka-pi, xoài, mận hồng đào,\
 Chùm sung lủng lẳng không cao, chín muồi,\
 Mọi cây có quả tốt tươi,\
 Mọc lên trong cánh rừng đồi xinh sao.
 
-413. Trong veo dòng suối ngọt ngào\
+413\. Trong veo dòng suối ngọt ngào\
 Xanh như ngọc bích rì rào chảy ngang,\
 Tung tăng cá lội từng đàn,\
 Vui đùa lên xuống khe ngàn lượn quanh.
 
-414. Hồ nằm trong cảnh hữu tình\
+414\. Hồ nằm trong cảnh hữu tình\
 Với bao sen trắng sen xanh kế gần,\
 Khác nào ở chốn thiên cung,\
 Trong vườn Hoan lạc trên tầng trời xa.
 
-415. Có ba chủng loại liên hoa\
+415\. Có ba chủng loại liên hoa\
 Trong hồ khoe sắc cho ta thấy nào,\
 Sắc màu thay đổi biết bao\
 Xanh lơ, đỏ sẫm, trắng sao trắng ngần.
 
 Như vậy vị ấy ca tụng hồ sen vuông góc kia và kế đó ca tụng hồ Mucalinda:
 
-416. Hoa kia êm dịu như bông,\
+416\. Hoa kia êm dịu như bông,\
 Hoa sen xanh thẫm, trắng ngần đua chen,\
 Nhiều cây cỏ khác mọc lên,\
 Mu-ca-lin chính là tên của hồ.
 
-417. Ông nhìn hoa nở thật to,\
+417\. Ông nhìn hoa nở thật to,\
 Nơi kia vô số chen đua lục hồng,\
 Mùa hè hay dẫu mùa đông\
 Ðều cao đến tận gối ông đây này.
 
-418. Hoa nhiều màu sắc đẹp thay\
+418\. Hoa nhiều màu sắc đẹp thay\
 Theo làn gió nhẹ hương bay dịu dàng,\
 Rồi ông nghe tiếng rộn ràng\
 Của bầy ong đến theo làn hương đưa.
 
-419. Chung quanh bến nước bờ hồ\
+419\. Chung quanh bến nước bờ hồ\
 Ðứng thành một dãy lô xô tiếp liền,\
 Kìa cây gụ, nọ hoa kèn,\
 Ka-dam-ba ngất nghểu lên cao hoài.
 
-420. Loài hoa sáu cánh khoe tươi,\
+420\. Loài hoa sáu cánh khoe tươi,\
 Nhiều cây hoa khác cùng cười rộ ra;\
 Lùm cây rậm rạp quanh hồ\
 Thảy đều đứng lặng để cho ta nhìn.
 
-421. Cây kia đủ mọi dáng hình,\
+421\. Cây kia đủ mọi dáng hình,\
 Hoa kia đua nở đẹp xinh đủ màu,\
 Các lùm cây rậm biết bao\
 Chen nhau cao thấp đón chào mắt ta.
 
-422. Từng làn gió nhẹ hương đưa\
+422\. Từng làn gió nhẹ hương đưa\
 Từ rừng hoa trắng, xanh lơ, đỏ hường,\
 Mọc lên quanh chốn thảo đường,\
 Nơi kia ngọn lửa được ươm nóng bừng.
 
-423. Chung quanh bờ nước kế gần\
+423\. Chung quanh bờ nước kế gần\
 Nhiều cây cỏ mọc quây quần thiết thân,\
 Cỏ cây vẫn cứ rung rung\
 Trong khi vang vọng tiếng ong thầm thì.
 
-424. Mùi hương của vạn hoa kia\
+424\. Mùi hương của vạn hoa kia\
 Mọc lên khắp chốn bờ khe, suối, hồ\
 Luyến lưu bên bạn lâu xa\
 Nếu như bạn giữ hai ba tuần liền.
 
-425. Ba loài bầu, bí hiển nhiên\
+425\. Ba loài bầu, bí hiển nhiên\
 Mọc lên giữa hồ sen thế này,\
 Quả bằng bình nước trong tay,\
 Quả kia thật lớn sánh tày trống canh.
 
-426. Tỏi, hành, hạt cải, súng xanh\
+426\. Tỏi, hành, hạt cải, súng xanh\
 Muôn hoa nở rộ trên cành dễ thương.\
 Hoa lài, ngào ngạt trầm hương,\
 Cát đằng rậm rạp vấn vương cây hoài.
 
-427. Ngọt ngào thay khóm hoa lài,\
+427\. Ngọt ngào thay khóm hoa lài,\
 Cây chàm, bông vải, nhiều loài hữu danh,\
 Hoa kèn, rau diếp mọc quanh\
 Khác nào ngọn lửa vàng hanh nắng trời.
 
-428. Thưa vâng, mỗi loại hoa tươi\
+428\. Thưa vâng, mỗi loại hoa tươi\
 Mọc ra trong nước hay trồi đất lên\
 Chung quanh hồ nước thần tiên\
 Hãy nhìn chúng sống đua chen quây quần.
 
-429. Nơi kia bầy sấu vẫy vùng,\
+429\. Nơi kia bầy sấu vẫy vùng,\
 Mọi loài thủy tộc ẩn thân chốn này.\
 Những đàn hươu đỏ thường ngày\
 Cùng nhiều thú khác tìm đây nước nguồn.
 
-430. Nghệ vàng, long não, cỏ hương,\
+430\. Nghệ vàng, long não, cỏ hương,\
 Hạt thơm, cam thảo thân vươn cao ngồng.
 
-431. Nơi kia sư tử, voi rừng,\
+431\. Nơi kia sư tử, voi rừng,\
 Cọp vằn tìm kiếm bạn lòng dấu yêu,\
 Từng bầy hươu đỏ, hươu sao,\
 Chó hoang, nai hoẵng dáng cao lẹ làng.
 
-432. Chồn bay, trâu yak, linh dương,\
+432\. Chồn bay, trâu yak, linh dương,\
 Những bầy lớn nhỏ khỉ rừng lao xao,\
 Gấu, bò, mãnh thú biết bao,\
 Từng đàn dồn dập đi vào dọc ngang.
 
-433. Tê ngưu, sóc nhỏ, chuột hoang,\
+433\. Tê ngưu, sóc nhỏ, chuột hoang,\
 Chó săn, trâu nước, giả-can, heo rừng,\
 Tắc kè, beo gấm, sói lang,\
 Thỏ rừng, chồn nhỏ từng đàn ra vô.
 
-434. Ðủ loài rắn, nhện giăng tơ,\
+434\. Ðủ loài rắn, nhện giăng tơ,\
 Ðủ loài chim chóc líu lo trên cành,\
 Tạo nên đủ loại âm thanh\
 Trong khi chiêm chiếp lượn quanh lòng vòng.
 
-435. Diều hâu, cú, diệc, gà rừng,\
+435\. Diều hâu, cú, diệc, gà rừng,\
 Sơn ca với tiếng du dương đồng hòa,\
 Trĩ, ưng, công với thiên nga,\
 Hạc, chim lưng đỏ hòa ca bạn tình.
 
-436. Nơi kia dịu ngọt âm thanh\
+436\. Nơi kia dịu ngọt âm thanh\
 Sắc màu rực rỡ dáng hình chim muông:\
 Cổ xanh, mào trắng, lục hồng\
 Như công, vỗ cánh phập phồng bay lên.
 
-437. Sao ta cố kể ngàn tên\
+437\. Sao ta cố kể ngàn tên\
 Ðủ từng chi tiết chẳng quên thế này?\
 Hãy suy đủ loại chim bay,\
 Và đem chúng lại thêm đầy thơ ta.
 
-438. Cả đàn chim chóc đồng hòa\
+438\. Cả đàn chim chóc đồng hòa\
 Du dương ngàn khúc hoan ca tưng bừng,\
 Ngập tràn đầy giữa khoảng không\
 Hồ Mu-ca với tiếng ồn vui tai…
 
-439. Khu rừng có đủ loài voi,\
+439\. Khu rừng có đủ loài voi,\
 Linh dương, các loại hươu nai thiếu gì.\
 Lòng thòng từ các cây kia\
 Cát đằng to lớn từng bè quấn ngang.
 
-440. Nơi kia hạt cải, mía đường,\
+440\. Nơi kia hạt cải, mía đường,\
 Nhiều loài thóc gạo mọc vươn cao dày.\
 Ðậu, mè, dược thảo quý thay\
 Sẵn sàng cung cấp đủ đầy khách thăm.
@@ -2558,7 +2565,7 @@ Cũng không hề thấy mảy may chán chường.\
 Nơi kia cùng với các con.\
 Ves-san-ta bậc Ðại vương lánh trần.
 
-443. Với y của bậc La-môn,\
+443\. Với y của bậc La-môn,\
 Bát, thìa, tóc bện, đạo nhân khác nào.\
 Khoác thêm một tấm da vào,\
 Ngài nằm trên đất, châm cao lửa hồng.
@@ -2610,14 +2617,14 @@ Và trong lúc ngài ngắm con đường, ngài thấy lão Bà-la-môn đang
 
 Rồi ngài ngâm kệ với bé trai Jàli:
 
-445. Jà-li, hãy đứng lên con,\
+445\. Jà-li, hãy đứng lên con,\
 Ngắm xem kìa lão La-môn đến rồi,\
 Chính thời xưa đã tái hồi,\
 Làm ta tràn ngập niềm vui chan hòa.
 
 Nghe vậy, cậu bé đáp:
 
-446. Vâng vâng, phải đấy thưa cha,\
+446\. Vâng vâng, phải đấy thưa cha,\
 Con đang nhìn thấy lão Bà-la-môn,\
 Hình như lão đến cầu ân,\
 Hẳn là vị khách đang cần nhà ta.
@@ -2634,75 +2641,75 @@ Cậu bé suy nghĩ: “Người đâu mà thô lỗ thế?”. Rồi nhìn k�
 
 Nhưng lão Bà-la-môn đến gần Bồ-tát và vừa cung kính, chào ngài, vừa nói:
 
-447. Ta tin rằng, hỡi Thánh nhân,\
+447\. Ta tin rằng, hỡi Thánh nhân,\
 Ngài thường thịnh vượng, an khương mọi bề,\
 Với bao thóc lúa thu về\
 Và bao củ quả tràn trề ẩn am.
 
-448. Ngài nay có bị phiền lòng\
+448\. Ngài nay có bị phiền lòng\
 Vì loài rắn rít bọ ong quấy hoài?\
 Hoặc bầy dã thú tìm mồi,\
 Chẳng hay ngài tránh mọi loài được chăng?
 
 Bồ-tát từ tốn đáp lại:
 
-449. Cám ơn ông, hỡi đạo nhân,\
+449\. Cám ơn ông, hỡi đạo nhân,\
 Ta nay thịnh vượng, an khương mọi bề,\
 Với bao thóc lúa thu về\
 Và bao củ, quả tràn trề ẩn am.
 
-450. Ta không phải chịu phiền lòng\
+450\. Ta không phải chịu phiền lòng\
 Vì loài rắn rít, bọ ong quấy hoài,\
 Hoặc bầy dã thú tìm mồi\
 Ta đây tránh được mọi loài bình an.
 
-451. Sống đây đã bảy tháng trường,\
+451\. Sống đây đã bảy tháng trường,\
 Chúng ta hạnh phúc trong rừng hoang sơ,\
 Chẳng hề từ trước đến giờ\
 Ðược trông thấy một vị Bà-la-môn.
 
-452. Như nay nhìn thấy tôn ông\
+452\. Như nay nhìn thấy tôn ông\
 Khác nào thấy được thần nhân thế này:\
 Vil-va làm gậy cầm tay,\
 Hộp bùi nhùi với bình đầy nước trong.
 
-453. Kính chào ông, hỡi đạo nhân,\
+453\. Kính chào ông, hỡi đạo nhân,\
 Mừng duyên hạnh ngộ đưa đường đến đây.\
 Hãy vào chúc phúc cầu may,\
 Bước vào và rửa chân tay, ta mời.
 
-454. Pi-yal, tin-dook lá tươi,\
+454\. Pi-yal, tin-dook lá tươi,\
 Kà-su-ma quả ngọt bùi thơm ngon,\
 Trái cây như thể mật ong,\
 Chọn ngay hạng nhất, La-môn, ăn nào.
 
-455. Nước này lấy tự hang sâu\
+455\. Nước này lấy tự hang sâu\
 Ẩn mình dưới ngọn đồi cao trong rừng,\
 Xin mời, hỡi bậc Thánh nhân,\
 Uống vào cho thỏa tấm lòng ước mong.
 
 Nói lời này xong, bậc Ðại Sĩ suy nghĩ: “Chẳng phải lão Bà-la-môn đến khu rừng rậm này mà không có duyên cớ. Ta phải hỏi lão lý do ngay lập tức”. Rồi ngài ngâm kệ:
 
-456. Nói cho ta biết nguyên nhân,\
+456\. Nói cho ta biết nguyên nhân,\
 Lý do nào khiến tôn ông lên đường,\
 Ðẩy đưa ông tận rừng hoang,\
 Xin ông hãy nói rõ ràng ta hay.
 
 Jùjaka đáp:
 
-457. Giống như hồng thủy ngập đầy\
+457\. Giống như hồng thủy ngập đầy\
 Và không hề có một ngày nào vơi,\
 Thần nay muốn đến xin ngài\
 Ban cho thần được cả hai con nhà.
 
 Nghe điều này, bậc Ðại Sĩ hân hoan trong lòng và ngài nói như thể người dang tay đưa ra chiếc túi cả ngàn đồng tiền:
 
-458. Ban ân, ta chẳng chần chừ,\
+458\. Ban ân, ta chẳng chần chừ,\
 Ông là chủ chúng từ giờ trở đi.\
 Sáng nay đi vắng vương phi,\
 Ðể tìm thực phẩm, chiều về đến đây.
 
-459. Xin ông ở lại đêm nay,\
+459\. Xin ông ở lại đêm nay,\
 Sáng mai, ông sẽ đi ngay lên đường.\
 Tắm con, bà xức dầu thơm,\
 Và quàng cho chúng những tràng hoa tươi.
@@ -2716,34 +2723,34 @@ Cùng nhiều củ quả dồi dào thức ăn.*
 
 Jùjaka đáp:
 
-462. Thưa không, trình tấu Ðại vương,\
+462\. Thưa không, trình tấu Ðại vương,\
 Thần đi, chẳng dám vấn vương nơi này,\
 E rằng trở ngại gì đây\
 Sẽ ngăn cản bước chân ngay trên đường.
 
-463. Nữ nhân chẳng phải rộng lòng\
+463\. Nữ nhân chẳng phải rộng lòng\
 Phát ban thường vẫn cản ngăn cố tình,\
 Biết nhiều mưu kế thông minh,\
 Thường hay lạc lối, ác hành tạo nên.
 
-464. Người ban bố với niềm tin\
+464\. Người ban bố với niềm tin\
 Đừng nên thấy mặt mẹ mình thiết thân,\
 Nếu không, bà sẽ cản ngăn,\
 Tâu Quân vương, tiểu thần mong lên đường.
 
-465. Xin ban vương tử, công nương,\
+465\. Xin ban vương tử, công nương,\
 Đừng cho trẻ thấy mặt vương phi này.\
 Người ban bố, tín tâm đầy,\
 Thì công đức ấy càng ngày càng tăng.
 
-466. Xin ban vương tử, công nương,\
+466\. Xin ban vương tử, công nương,\
 Ðừng cho trẻ thấy mặt vương phi này\
 Người cho kẻ giống thần đây,\
 Ði lên thiên giới thẳng ngay tức thì!
 
 Vessantara nói:
 
-467. Nếu không muốn thấy vương phi,\
+467\. Nếu không muốn thấy vương phi,\
 Trung thành tận tụy hiền thê quả là,\
 Hãy đưa Jà-lí, Kan-hà,\
 Ði thăm tổ phụ vương gia trên đường.
@@ -2773,7 +2780,7 @@ Hân hoan thích thú ngập tràn niềm vui.*
 
 Jùjaka đáp:
 
-473. Không, thần không thể nghe lời\
+473\. Không, thần không thể nghe lời\
 Làm điều này nọ mà ngài đưa ra.\
 Thần mong đem bọn trẻ thơ\
 Ðể về hầu hạ vợ nhà đó thôi!
@@ -2866,7 +2873,7 @@ Si-vi quốc độ dẫn hai con\
 Và đem tặng vật cao sang nhất\
 Cho đạo sĩ kia, thật sẵn lòng.*
 
-480. Thế rồi, đầy sợ hãi, kinh hoàng,\
+480\. Thế rồi, đầy sợ hãi, kinh hoàng,\
 Cõi đất lớn này đã chuyển rung\
 Giờ phút này vua tay chắp lại\
 Và ban tặng vật: cả hai con.
@@ -2903,12 +2910,12 @@ Chạy bay khỏi lão Bà-la-môn,\
 Bé trai nhìn mặt cha khi ấy\
 Dòng lệ tuôn ra cặp mắt tràn.*
 
-485. Như gặp gió lay, ngọn lá sung,\
+485\. Như gặp gió lay, ngọn lá sung,\
 Thân bé trai kia cứ chuyển rung,\
 Tay cậu ôm chân cha thật chặt,\
 Nói lời cùng với vị cha thân:
 
-486. – Sao cha muốn bỏ lũ con thơ\
+486\. – Sao cha muốn bỏ lũ con thơ\
 Trong lúc mẹ đang phải vắng nhà?\
 Ðừng bỏ, đợi khi bà trở lại,\
 Khi bà trở lại, hãy chần chờ.
@@ -2920,22 +2927,22 @@ Rồi cho con trẻ hợp lòng cha!\
 Rồi cho đạo sĩ đem đi bán\
 Hoặc để lão già giết trẻ thơ!
 
-489. Chân lão to phù, móng xác xơ,\
+489\. Chân lão to phù, móng xác xơ,\
 Thịt u xệ xuống tựa bao da,\
 Môi dài phía dưới luôn run rẩy,\
 Mũi gãy, đen sì thật khó ưa!
 
-490. Bụng như cái trống, chiếc lưng còng,\
+490\. Bụng như cái trống, chiếc lưng còng,\
 Ðôi mắt nhìn sao lé đứng tròng,\
 Ðầy vết nhăn nheo và lốm đốm,\
 Râu màu máu đỏ, tóc vàng hung.
 
-491. Võ vàng, rệu rã, khoác da nai,\
+491\. Võ vàng, rệu rã, khoác da nai,\
 Thô lỗ, bạo tàn, chẳng giống ai,\
 Nửa ngợm nửa người, co quắp lại,\
 Thật là khủng khiếp cái hình hài!
 
-492. Quỷ ăn thịt sống hoặc người trần?\
+492\. Quỷ ăn thịt sống hoặc người trần?\
 Cha cứ nhìn xem thật tĩnh tâm:\
 Con quỷ này vào rừng vắng vẻ\
 Ðể xin cha bố thí ban ân?
@@ -2959,7 +2966,7 @@ Nghe những lời này, bậc Ðại Sĩ không đáp lại tiếng nào. Sau�
 Nhưng không thấy bóng hình từ mẫu\
 Quả thật điều trên đáng khổ buồn!*
 
-497. Con chẳng lo gì chết khổ thân,\
+497\. Con chẳng lo gì chết khổ thân,\
 Ðó là số phận mọi thường nhân,\
 Nhưng không nhìn thấy hình thân phụ,\
 Quả thật điều trên đáng khổ buồn.
@@ -2971,22 +2978,22 @@ Như nguồn suối chảy, các dòng châu\
 Vì không thấy mặt Kan-hà nữa,\
 Con gái được yêu quý biết bao!
 
-500. Khóm hồng đào vẫn mọc la đà\
+500\. Khóm hồng đào vẫn mọc la đà\
 Lủng lẳng chung quanh mặt nước hồ,\
 Ôi! Cả rừng cây đầy quả chín,\
 Từ nay ta ngoảnh mặt làm ngơ!
 
-501. Cây sung, cây mít với cây đa\
+501\. Cây sung, cây mít với cây đa\
 Tỏa rộng, mọi cây cối mọc ra,\
 Ôi! Cả rừng cây đầy quả chín\
 Từ nay ta ngoảnh mặt làm ngơ!
 
-502. Ðứng kia như cả một vườn hoa,\
+502\. Ðứng kia như cả một vườn hoa,\
 Dòng suối kìa trôi thật lặng lờ,\
 Nơi chốn ngày xưa đùa giỡn ấy,\
 Ngày nay ta ngoảnh mặt làm ngơ!
 
-503. Trái núi ngày xưa ta vẫn ăn\
+503\. Trái núi ngày xưa ta vẫn ăn\
 Hoa rừng thuở trước vẫn thường mang,\
 Mọc trên đồi nọ đằng xa ấy,\
 Giờ phút này ta phải bỏ ngang!
@@ -3007,7 +3014,7 @@ Trong lúc bị đưa đẩy thật xa:\
 – Cha hỡi! Mẹ hiền mong mạnh khỏe,\
 Và mong hạnh phúc tháng ngày qua!*
 
-506. Trâu bò, bầy ngựa, cả bầy voi\
+506\. Trâu bò, bầy ngựa, cả bầy voi\
 Ngày trước chúng con vẫn lấy chơi,\
 Trao chúng dùm cho hiền mẫu nhé,\
 Sẽ làm sầu khổ mẹ dần nguôi.
@@ -3037,17 +3044,17 @@ Sau đây là các vần kệ than khóc của bậc Ðại Sĩ:
 Bị cơn đói khát luôn hành hạ,\
 Ai sẽ cho con trẻ ít nhiều?*
 
-510. Làm sao chân bé bỏng run run\
+510\. Làm sao chân bé bỏng run run\
 Cất bước đi theo mọi lối mòn\
 Không có hài? Ai dắt díu chúng,\
 Ai đưa lối chúng nhẹ nhàng chăng?
 
-511. Làm sao có thể lão La-môn\
+511\. Làm sao có thể lão La-môn\
 Vô sỉ, lúc ta đứng ngóng trông,\
 Lại đánh con ta nào có tội,\
 Lão vô liêm sỉ thế là cùng!
 
-512. Không ai biết sỉ nhục như vầy\
+512\. Không ai biết sỉ nhục như vầy\
 Lại đối xử người khác thế này,\
 Dẫu đó là con nô lệ nữa\
 Mà ta xem thật thấp hèn thay.
@@ -3080,27 +3087,27 @@ Người đời thường vẫn nói như vầy:\
 Ai không có mẹ mình bên cạnh\
 Cũng giống không cha ruột thế này.*
 
-517. Ðời chẳng còn gì với chúng ta,\
+517\. Ðời chẳng còn gì với chúng ta,\
 Thà ta chết: chỉ phận gia nô,\
 Con người tàn bạo đầy tham ác\
 Xua đuổi chúng ta tựa lũ bò.
 
-518. Khóm hồng đào vẫn mọc la đà\
+518\. Khóm hồng đào vẫn mọc la đà\
 Lủng lẳng chung quanh mặt nước hồ,\
 Ôi! Cả rừng cây đầy quả chín\
 Từ nay ta ngoảnh mặt làm ngơ!
 
-519. Cây sung, cây mít với cây đa\
+519\. Cây sung, cây mít với cây đa\
 Tỏa rộng, mọi cây cối mọc ra,\
 Ôi! Cả rừng cây đầy quả chín\
 Từ nay ta ngoảnh mặt làm ngơ!
 
-520. Ðứng kia như cả một vườn hoa,\
+520\. Ðứng kia như cả một vườn hoa,\
 Dòng suối kìa trôi thật lặng lờ,\
 Nơi chốn ngày xưa đùa giỡn ấy,\
 Ngày nay ta ngoảnh mặt làm ngơ!
 
-521. Trái núi ngày xưa ta vẫn ăn,\
+521\. Trái núi ngày xưa ta vẫn ăn,\
 Hoa rừng thuở trước vẫn thường mang,\
 Mọc trên đồi nọ đằng xa ấy,\
 Giờ phút này ta phải bỏ ngang!
@@ -3171,7 +3178,7 @@ Con đường thật khó bước đi qua,\
 Ðạo nhân xua đuổi bầy con trẻ,\
 Vầng nhật lăn dần ở phía xa.*
 
-529. Qua các núi đồi, rừng thẳm xanh,\
+529\. Qua các núi đồi, rừng thẳm xanh,\
 Những nơi cư ngụ các thần linh,\
 Chúng con trân trọng chào chư vị,\
 Tất cả, chúng con thảy cúi mình.
@@ -3183,12 +3190,12 @@ Nhưng La-môn nọ đuổi con ngay,\
 Nếu bà muốn chạy theo con trẻ.\
 Xin chớ chần chờ, phải chạy bay.
 
-532. Con đường dẫn đến chiếc am tranh,\
+532\. Con đường dẫn đến chiếc am tranh,\
 Con trẻ thường theo bước lộ trình,\
 Nếu mẹ muốn theo đường lối ấy,\
 Mẹ tìm con trẻ thật là nhanh.
 
-533. Mẹ hái trái cây, các củ rừng,\
+533\. Mẹ hái trái cây, các củ rừng,\
 Tóc thường được kết lại từng chùm,\
 Khi nhìn thấy chiếc am tranh vắng\
 Sẽ khiến mẹ đau đớn tột cùng.
@@ -3200,7 +3207,7 @@ Tham lam buộc chặt trẻ ra sao.\
 Vô cùng độc ác là người đó\
 Xua đuổi chúng ta tựa lũ trâu.
 
-536. Ôi, nếu mẹ ta đến xế tà,\
+536\. Ôi, nếu mẹ ta đến xế tà,\
 Nếu hai bên gặp gỡ tình cờ,\
 Mẹ cho lão ấy ăn nhiều quả\
 Trộn với mật ong thật đủ no,
@@ -3230,7 +3237,7 @@ Giả làm sinh vật của rừng hoang,\
 Vừa nghe lời trẻ thơ than khóc,\
 Các vị liền cất tiếng nói năng:*
 
-540. – Đừng cho trở lại vị công nương\
+540\. – Đừng cho trở lại vị công nương\
 Chiều tối sau khi kiếm thức ăn,\
 Sợ lũ thú hoang kia sát hại\
 Ở trong lãnh địa của rừng hoang.
@@ -3255,52 +3262,52 @@ Ta nghe mắt phải giật hoài giờ đây,\
 Trái cây dường chẳng có này,\
 Chung quanh vạn vật như quay như cuồng.*
 
-544. Khi nàng trở lại chiều hôm\
+544\. Khi nàng trở lại chiều hôm\
 Sau ngày làm việc vẹn tròn xong xuôi,\
 Thú hoang vẫn cứ rình hoài\
 Ðường về nhà lúc mặt trời lặn mau.
 
-545. Thảo am xa tận nơi đâu\
+545\. Thảo am xa tận nơi đâu\
 Mặt trời khuất bóng chìm sâu xuống dần,\
 Và đây tất cả thức ăn\
 Cả nhà phải đợi ta mang tới rồi.
 
-546. Nơi kia vương tử thường ngồi\
+546\. Nơi kia vương tử thường ngồi\
 Một mình một bóng trong chòi lá tranh,\
 Con thơ chàng phải dỗ dành,\
 Ta chưa trở lại, con đành đói meo.
 
-547. Giờ đây là buổi ăn chiều,\
+547\. Giờ đây là buổi ăn chiều,\
 Ôi! Ta phải khổ bao nhiêu muộn rồi!\
 Khát khao sữa, nước, con đòi,\
 Các con ta phải đợi hoài mẫu thân.
 
-548. Trẻ thơ thường đến đón mừng,\
+548\. Trẻ thơ thường đến đón mừng,\
 Ðứng như bê con ngóng trông mẹ bò,\
 Như thiên nga đậu bên hồ,\
 Ôi sao phải khổ thân ta thế này!
 
-549. Con đường độc nhất là đây,\
+549\. Con đường độc nhất là đây,\
 Chung quanh hang hố rẫy đầy hồ ao,\
 Ta không tìm thấy đường nào,\
 Bây giờ ta phải làm sao về nhà?
 
-550. Các ngài chúa tể rừng già,\
+550\. Các ngài chúa tể rừng già,\
 Ta xin các vị là vua thú rừng,\
 Hãy làm huynh đệ chánh chân\
 Ðể cho ta được an thân về nhà.
 
-551. Ta là chánh hậu vương gia,\
+551\. Ta là chánh hậu vương gia,\
 Vinh quang thái tử bị đưa đi đày,\
 Ta thờ chồng của ta nay\
 Như Si-tà trước thờ ngài Rà-ma.
 
-552. Buổi chiều khi trở về nhà,\
+552\. Buổi chiều khi trở về nhà,\
 Các ngài lại thấy con ra đón chờ,\
 Như Jà-li với Kan-hà,\
 Xin lần nữa hãy cho ta, thưa ngài!
 
-553. Ðây dồi dào củ quả tươi,\
+553\. Ðây dồi dào củ quả tươi,\
 Có nhiều thực phẩm ta mời ngài ăn,\
 Ta đem một nửa xin dâng,\
 Ðể cho ta được an thân về nhà.
@@ -3349,22 +3356,22 @@ Vẫn còn nằm đó rã rời quanh ta,\
 Nhưng Jà-li với Kan-hà,\
 Hôm nay ta chẳng thấy ra đón mừng.
 
-563. Các con thường chạy tung tăng\
+563\. Các con thường chạy tung tăng\
 Phủ đầy bụi bặm đến gần mẹ đây,\
 Lấm lem mặt mũi bùn lầy,\
 Nhưng ta chẳng thấy giờ đây đứa nào.
 
-564. Trẻ thơ thường vẫn đón chào\
+564\. Trẻ thơ thường vẫn đón chào\
 Mẹ mình, chúng chạy lao xao từ nhà,\
 Khi ta về tự rừng già,\
 Ta không thấy chúng đón ta giờ này.
 
-565. Chúng thường đùa giỡn nơi đây,\
+565\. Chúng thường đùa giỡn nơi đây,\
 Vil-va vàng vẫn rụng đầy quanh ta,\
 Nhưng Jà-li với Kan-hà,\
 Ta không thấy chúng đón ta giờ này.
 
-566. Vú ta căng sữa đã đầy,\
+566\. Vú ta căng sữa đã đầy,\
 Tim ta như muốn vỡ ngay bây giờ,\
 Nhưng Jà-li với Kan-hà,\
 Hôm nay không thấy đón ta ở nhà.
@@ -3376,7 +3383,7 @@ Bụi dơ vào lúc nghỉ ngơi chiều tà,\
 Nhưng Jà-li với Kan-hà,\
 Hôm nay ta chẳng thấy ra đón đường.
 
-569. Trước đây là chốn thảo am\
+569\. Trước đây là chốn thảo am\
 Là nơi gặp gỡ mẹ con sum vầy,\
 Nhưng giờ chẳng thấy con đây,\
 Chốn này như thể cứ xoay vòng tròn.
@@ -3393,12 +3400,12 @@ Thế mà ác mộng tái hồi trong tâm:\
 Quạ, chim đều bặt thanh âm,\
 Các con chắc đã vong thân mất rồi!*
 
-572. Con đều bị bắt, chàng ôi,\
+572\. Con đều bị bắt, chàng ôi,\
 Bởi loài dã thú săn mồi nào chăng?\
 Hay vào sâu chốn rừng hoang,\
 Các con đã bị lạc đường nào hay?
 
-573. Trẻ bi bô vẫn ngủ say,\
+573\. Trẻ bi bô vẫn ngủ say,\
 Hay là chạy việc đâu đây trên đường?\
 Hay là quanh quẩn lang thang\
 Chơi đùa thỏa thích không màng gần xa?
@@ -3419,7 +3426,7 @@ Và còn đau xót muôn vàn hơn xa,\
 Nhưng Jà-li với Kan-hà,\
 Thiếp không thấy chúng ở nhà hôm nay.*
 
-576. Ðây là thương tích thứ hai\
+576\. Ðây là thương tích thứ hai\
 Mà chàng đâm thiếp xuyên ngay vào lòng:\
 Thiếp không nhìn thấy các con\
 Nhưng chàng lại chẳng nói năng một lời.
@@ -3443,17 +3450,17 @@ Chúng vừa gầm thét vọng vang nãy giờ,\
 Trong khi giải khát bên hồ,\
 Chúng vừa đứng đó trên bờ, biết chăng?*
 
-580. Thiếp đang rảo bước rừng hoang,\
+580\. Thiếp đang rảo bước rừng hoang,\
 Bỗng nhiên dấu hiệu rõ ràng hiện ra:\
 Cuốc từ tay thiếp rơi xa,\
 Thúng kia từ cánh tay đà rớt luôn.
 
-581. Trong lòng hoảng sợ, đau thương,\
+581\. Trong lòng hoảng sợ, đau thương,\
 Thiếp liền quỳ lạy tứ phương lần lần:\
 Mong sao mọi sự bình an,\
 Ðôi tay của thiếp thẳng dang nguyện cầu:
 
-582. Không loài sư tử, beo nào,\
+582\. Không loài sư tử, beo nào,\
 Sói lang, linh cẩu, gấu đâu tìm mồi\
 Cướp đi, xé xác con trai,\
 Hay là con gái của tôi, bây giờ.
@@ -3470,32 +3477,32 @@ Thiếp thường tận tụy chăm lo đêm ngày\
 Như trò săn sóc ông thầy,\
 Khi trò cố gắng không sai đạo trời.*
 
-585. Tấm thân thiếp khoác da nai,\
+585\. Tấm thân thiếp khoác da nai,\
 Quả rừng đem lại từ đồi núi xanh,\
 Suốt ngày dài với đêm thanh\
 Chỉ mong chàng được lợi hành tiện nghi.
 
-586. Cho chàng và các ấu nhi\
+586\. Cho chàng và các ấu nhi\
 Vil-va vàng, quả đúng thì ngọt ngon,\
 Và nhiều trái chín rừng hoang\
 Ðể chơi cùng với các con vui nhà.
 
-587. Củ sen và đám ngó tơ\
+587\. Củ sen và đám ngó tơ\
 Có màu óng ánh vàng mơ nhẹ nhàng,\
 Hãy chơi cùng các con chàng\
 Và này vương tử, ăn phần chàng đi.
 
-588. Cho con gái súng trắng kia,\
+588\. Cho con gái súng trắng kia,\
 Sen xanh để tặng Jà-li của chàng,\
 Rồi xem chúng múa ca vang,\
 Vòng hoa tô điểm, xin chàng gọi ngay!
 
-589. Ðại vương ơi, hỡi lắng tai,\
+589\. Ðại vương ơi, hỡi lắng tai,\
 Âm thanh thích thú tuyệt vời biết bao,\
 Kan-hà hát thật ngọt ngào,\
 Và con đang bước chân vào lều ta.
 
-590. Từ khi bị đuổi đày xa,\
+590\. Từ khi bị đuổi đày xa,\
 Buồn vui chàng thiếp chung hòa với nhau.\
 Ôi, chàng hãy trả lời mau,\
 Kan-hà, Jà-li, thấy đâu hỡi chàng?
@@ -3514,27 +3521,27 @@ La đà vẫn mọc bủa vây quanh hồ,\
 Muôn loài cây quả rừng già,\
 Nhưng không còn thấy con ta bây giờ.*
 
-594. Cây sung, cây mít, đa to,\
+594\. Cây sung, cây mít, đa to,\
 Mọi loài cây khác chen đua mọc dần,\
 Ồ, bao cây quả trong rừng,\
 Nhưng bầy con trẻ lại không thấy giờ.
 
-595. Ðứng kia như một vườn hoa,\
+595\. Ðứng kia như một vườn hoa,\
 Và kìa suối mát trôi qua lặng lờ,\
 Nơi xưa chúng vẫn chơi đùa,\
 Nhưng nay không có trẻ thơ nữa rồi.
 
-596. Trái cây xưa chúng ăn hoài,\
+596\. Trái cây xưa chúng ăn hoài,\
 Bông hoa chúng vẫn thường cài tóc tai,\
 Mọc đằng xa ở trên đồi,\
 Con thơ vắng bóng ở nơi đó kìa.
 
-597. Các đồ chơi bé tí ti,\
+597\. Các đồ chơi bé tí ti,\
 Chúng thường đùa giỡn là kia cả rồi:\
 Bầy bò, bầy ngựa, bầy voi,\
 Con thơ không thấy ở nơi chốn nào.
 
-598. Ðây nhiều thỏ đế, cú mèo,\
+598\. Ðây nhiều thỏ đế, cú mèo,\
 Nai đen cùng với hươu sao cả bầy,\
 Các con đùa giỡn thường ngày,\
 Nhưng không còn thấy chúng đây nữa rồi.
@@ -3588,7 +3595,7 @@ Bậc Ðạo Sư giải thích việc này:
 Trở về bên cạnh phu quân,\
 Nàng liền đứng lại khóc than từng hồi:*
 
-607. – Hang sâu, rừng thẳm, lưng đồi,\
+607\. – Hang sâu, rừng thẳm, lưng đồi,\
 Thiếp không thể thấy bóng người giết con,\
 Chính bầy quạ chẳng kêu vang,\
 Chính bầy chim cũng lặng câm cả rồi.
@@ -3636,7 +3643,7 @@ Một người già yếu, đạo nhân,\
 Ta đem bố thí con thơ,\
 Mad-dì đừng sợ, thở vô ra liền!*
 
-612. Xin nàng đừng quá ưu phiền,\
+612\. Xin nàng đừng quá ưu phiền,\
 Xin nàng ngước mắt nhìn lên ta này.\
 Ta đem con trẻ về ngay,\
 Rồi ta hạnh phúc sum vầy biết bao.
@@ -3669,12 +3676,12 @@ Rồi ngài kể cho nàng nghe tất cả các cơn địa chấn cùng các s
 Chớp loè sáng chói biết bao,\
 Sấm rền vang vọng đồi cao bấy giờ.*
 
-617. Nà-ra-da với Pab-ba,\
+617\. Nà-ra-da với Pab-ba,\
 Cả hai hiền sĩ cùng hòa niềm vui,\
 Mọi Thiên thần cõi Ba mươi,\
 Ind-ra Thiên chủ cùng ngài Phạm thiên,
 
-618. Vua So-ma ở cõi tiên\
+618\. Vua So-ma ở cõi tiên\
 Cùng ngài Diêm chúa ở miền Dạ-ma,\
 Thiên vương Ves-sa-va-na\
 Khi nghe tiếng vọng, đồng hòa niềm vui.
@@ -3712,7 +3719,7 @@ Và trời vừa mới tinh sương sáng dần,\
 Sak-ka giả dạng đạo nhân\
 Lên đường thật sớm đến thăm thảo đường:*
 
-622. – Ta tin rằng, hỡi Thánh nhân,\
+622\. – Ta tin rằng, hỡi Thánh nhân,\
 Ngài thường thịnh vượng, an khương mọi bề\
 Với bao thóc lúa thu về,\
 Và bao củ, quả tràn trề ẩn am.
@@ -3729,22 +3736,22 @@ Ta nay thịnh vượng an khương mọi bề\
 Với bao thóc lúa thu về,\
 Và bao củ, quả tràn trề ẩn am.*
 
-625. Ta không phải chịu phiền lòng\
+625\. Ta không phải chịu phiền lòng\
 Vì loài rắn rít, bọ ong quấy hoài,\
 Hoặc bầy dã thú tìm mồi,\
 Ta đây tránh được mọi loài, bình an.
 
-626. Sống đây đã bảy tháng trường,\
+626\. Sống đây đã bảy tháng trường,\
 Và ông là vị đạo nhân thứ nhì\
 Cầm cây gậy ở tay kia,\
 Ðể đi vào chốn rừng già thảo am.
 
-627. Kính chào ông, hỡi đạo nhân,\
+627\. Kính chào ông, hỡi đạo nhân,\
 Mừng duyên hạnh ngộ đưa đường đến đây.\
 Hãy vào, chúc phúc cầu may,\
 Bước vào và rửa chân tay, ta mời.
 
-628. Pi-yal, tin-dook lá tươi,\
+628\. Pi-yal, tin-dook lá tươi,\
 Kà-su-mà quả ngọt bùi thơm ngon,\
 Trái cây như thể mật ong\
 Chọn ngay hạng nhất, La-môn, ăn nào.
@@ -3790,17 +3797,17 @@ Si-vi quốc độ Ðại vương thuở nào\
 Ðem Mad-dì ấy liền trao\
 Bà-la-môn nọ thẳng vào tay kia.*
 
-634. Kinh hoàng xảy đến tức thì,\
+634\. Kinh hoàng xảy đến tức thì,\
 Ðất dày chuyển động ngay khi ấy liền,\
 Ngài đem trao tặng vợ hiền\
 Mad-dì cho khách viếng miền thảo am.
 
-635. Mad-dì chẳng chút mày nhăn,\
+635\. Mad-dì chẳng chút mày nhăn,\
 Nàng không khó chịu, khóc than bây giờ.\
 Lặng yên nhìn, dạ suy tư:\
 “Hẳn chàng biết rõ lý do đâu là”.
 
-636. Cả Jà-li lẫn Kan-hà\
+636\. Cả Jà-li lẫn Kan-hà\
 Ta đem cho một lão Bà-la-môn,\
 Và Mad-dì, vợ keo sơn,\
 Chỉ vì Tuệ Giác cao hơn cả mà.
@@ -3828,22 +3835,22 @@ Thấy bao nguyện ước nàng vừa hướng tâm:\
 – Mọi điều chướng ngại dẹp xong\
 Ở trên trời lẫn ở trong nhân quần.*
 
-640. Ðất bằng đã phải chuyển rung,\
+640\. Ðất bằng đã phải chuyển rung,\
 Âm thanh tràn ngập mọi tầng trời cao,\
 Chớp loè sáng chói biết bao,\
 Sấm rền vang vọng đồi cao bấy giờ.
 
-641. Na-ra-da với Pab-ba\
+641\. Na-ra-da với Pab-ba\
 Cả hai hiền sĩ cùng hòa niềm vui,\
 Mọi Thiên thần cõi Ba mươi\
 Hoan nghênh thành tích tuyệt vời khó khăn.
 
-642. Khó làm như các thiện nhân,\
+642\. Khó làm như các thiện nhân,\
 Phát ban như bậc chánh chân vẫn làm.\
 Ác nhân khó thể theo gương\
 Cuộc đời mà bậc thiện lương sống hoài.
 
-643. Vậy khi thiện, ác lìa đời,\
+643\. Vậy khi thiện, ác lìa đời,\
 Giã từ cuộc sống ở nơi phàm trần,\
 Ác nhân vào ngục hạ tầng,\
 Thiện nhân đến cõi Thiên thần tái sinh.
@@ -3860,7 +3867,7 @@ Mad-dì hiền phụ tuyệt vời đẹp xinh.\
 Xứng đôi vừa lứa duyên tình,\
 Sống đời hòa hợp an bình tối cao.*
 
-646. Như dây ràng buộc nhiệm mầu,\
+646\. Như dây ràng buộc nhiệm mầu,\
 Như là cá nước gặp nhau lạ gì,\
 Cũng vầy ngài với Mad-dì\
 Ðồng tâm hòa hợp phu thê sắt cầm.
@@ -3888,37 +3895,37 @@ Mong ngài hãy sớm gọi ta về nhà,\
 Cho ta bảo tọa vương gia,\
 Ðầu tiên nguyện ước mong ta đạt thành.*
 
-652. Ta không kết án tử hình,\
+652\. Ta không kết án tử hình,\
 Dù ai có phạm tội tình ra sao,\
 Mong ta cứu tử người nào\
 Bị tù đày, ấy nguyện cầu thứ hai.
 
-653. Mong toàn dân chúng mọi người\
+653\. Mong toàn dân chúng mọi người\
 Khi cần giúp đỡ đến nơi ta liền,\
 Trẻ già, lớn bé, trung niên,\
 Và đây là chính ước nguyền thứ ba.
 
-654. Ta không tìm vợ người ta,\
+654\. Ta không tìm vợ người ta,\
 Chỉ vừa lòng với vợ nhà thiết thân,\
 Không chìu theo ý nữ nhân,\
 Thứ tư ước nguyện ta mong mỏi hoài.
 
-655. Sak-ka, Thiên chủ, xin ngài\
+655\. Sak-ka, Thiên chủ, xin ngài\
 Ban cho quý tử sống đời dài lâu,\
 Chánh chân chinh phục toàn cầu,\
 Thứ năm nguyện ước ân sâu xin ngài.
 
-656. Mỗi khi vừa hết đêm dài,\
+656\. Mỗi khi vừa hết đêm dài,\
 Vầng đông vừa hé, ban mai tiếp liền,\
 Mong sao thực phẩm thần tiên\
 Cũng vừa xuất hiện, ước nguyền sáu đây.
 
-657. Mong sao thí vật đủ đầy\
+657\. Mong sao thí vật đủ đầy\
 Ta luôn ban phát rộng tay không ngừng\
 Với lòng sung sướng hân hoan\
 Ðây nguyền thứ bảy ta mong ước hoài.
 
-658. Mong ta thẳng tiến lên trời,\
+658\. Mong ta thẳng tiến lên trời,\
 Tự do, giải thoát khỏi nơi nhân quần,\
 Không còn sinh cõi phàm trần,\
 Ðây nguyền thứ tám ta mong cầu ngài.
@@ -3968,7 +3975,7 @@ Khác nào lửa đốt khô rang nóng bừng,\
 Giống như mặt chiếc vòng vàng\
 Nung trong ngọn đuốc héo tàn cả thôi?*
 
-662. Cả hai đều giống dáng người\
+662\. Cả hai đều giống dáng người\
 Ðây là đôi trẻ nhà ai thế này?\
 Kìa Jà-li giống cậu trai,\
 Kan-hà, cô gái chẳng sai chút gì.
@@ -4016,7 +4023,7 @@ Làm điều sai trái minh quân chẳng hề.\
 Sao còn cho cả thiếu nhi,\
 Khi ngài đã bị đuổi đi vào rừng?*
 
-670. Hãy nghe ta, cả quần thần,\
+670\. Hãy nghe ta, cả quần thần,\
 Thảy đang tề tựu ở trong cung đình\
 Sao vua ban chính con mình\
 Ðể hầu hạ một gia đình khác kia?
@@ -4082,7 +4089,7 @@ Nóng như thiêu đốt, lòng ta khô cằn,\
 Thân ta như lửa cháy bừng,\
 Ðứng ngồi quá thật bất an bây giờ.*
 
-681. Cháu yêu, đứng nói vậy mà,\
+681\. Cháu yêu, đứng nói vậy mà,\
 Cháu làm ông thật xót xa buồn rầu,\
 Ông mua cháu với giá nào\
 Thoát thân nô lệ, hãy mau cháu à.
@@ -4128,12 +4135,12 @@ Uống ăn, trang điểm và thay áo quần.\
 Ðược ông bà bế vào lòng,\
 Quốc vương cất tiếng hỏi han ân cần:*
 
-689. Ta tin rằng phụ mẫu thân\
+689\. Ta tin rằng phụ mẫu thân\
 Thảy đều thịnh vượng, an khương mọi bề\
 Với bao thóc lúa thu về,\
 Và bao củ quả tràn trề thảo am.
 
-690. Song thân con có phiền lòng\
+690\. Song thân con có phiền lòng\
 Vì loài rắn rít, bọ ong quấy hoài,\
 Hay bầy dã thú tìm mồi,\
 Song thân có tránh mọi loài được chăng?
@@ -4145,27 +4152,27 @@ Song thân thịnh vượng, an khương mọi bề,\
 Với bao thóc lúa thu về\
 Và bao củ quả tràn trề thảo am.*
 
-692. Song thân không bị phiền lòng\
+692\. Song thân không bị phiền lòng\
 Vì loài rắn rít, bọ ong quấy hoài,\
 Hoặc bầy dã thú tìm mồi,\
 Song thân tránh được mọi loài, bình an.
 
-693. Mẹ đào củ cải, hành hoang,\
+693\. Mẹ đào củ cải, hành hoang,\
 Mẹ tìm cỏ thuốc, rau thơm, bạc hà,\
 Táo và hạt dẻ, Vil-va,\
 Mẹ thường hái để cả nhà ăn luôn.
 
-694. Và khi nào mẹ cưu mang\
+694\. Và khi nào mẹ cưu mang\
 Dù là củ quả rừng hoang loại gì,\
 Cả nhà đều đến tựu tề,\
 Và cùng ăn uống no nê đêm ngày.
 
-695. Mẹ con vàng võ, ốm gầy,\
+695\. Mẹ con vàng võ, ốm gầy,\
 Bởi vì vất vả suốt ngày kiếm ăn,\
 Dãi dầu mưa nắng gió sương\
 Ở trong rừng rậm thú hoang trú nhiều.
 
-696. Như hoa sen thật yêu kiều\
+696\. Như hoa sen thật yêu kiều\
 Ở trong tay nọ tiêu điều xác xơ.\
 Tóc bà chỉ mọc lơ thơ\
 Vì lang thang giữa rừng già trống trơn.
@@ -4210,27 +4217,27 @@ Bầy voi và bộ binh nay sẵn sàng,\
 Thần dân hãy đến quanh vùng,\
 Tế sư tất cả đi cùng chỗ kia.*
 
-703. Sáu mươi ngàn tướng lãnh ta\
+703\. Sáu mươi ngàn tướng lãnh ta\
 Giáo gươm tô điểm thật là xinh sao,\
 Giáp bào xanh,trắng hoặc nâu,\
 Mão cao đỏ tựa máu đào, đến kia.
 
-704. Giống như đồi lắm quỉ ma,\
+704\. Giống như đồi lắm quỉ ma,\
 Nơi ngàn cây mọc chen đua thẳng hàng,\
 Sáng ngời, thơm ngát dịu dàng\
 Với cây thần, gió nhẹ nhàng tới lui.
 
-705. Hãy đem mười bốn ngàn voi\
+705\. Hãy đem mười bốn ngàn voi\
 Trang hoàng toàn thể cân đai bằng vàng,\
 Bọn nài voi giáo liềm mang\
 Cùng nhiều bầy ngựa, ta ban lệnh này.
 
-706. Ngựa Sindh toàn thể cả bầy,\
+706\. Ngựa Sindh toàn thể cả bầy,\
 Giống nòi cao quý vẫn hay tốc hành,\
 Mỗi con chở một kỵ binh\
 Hiên ngang cung kiếm bên mình sẵn mang.
 
-707. Cỗ xe một vạn bốn ngàn\
+707\. Cỗ xe một vạn bốn ngàn\
 Ðiểm tô thật đẹp yên cương đủ đầy,\
 Bánh làm sắt rất khéo thay,\
 Dát vàng toàn thể thắng ngay cả đoàn.
@@ -4247,22 +4254,22 @@ Những tràng hoa đẹp ngát hương dăng màn,\
 Hãy đem lễ vật cúng dường\
 Ðặt ngay trên lối quân vương du hành.*
 
-710. Hãy đem ra rượu trăm bình,\
+710\. Hãy đem ra rượu trăm bình,\
 Mỗi thôn mời mọi dân lành muốn say.\
 Trăm bình rượu ấy đặt ngay\
 Bên đường vương tử mai này hồi loan.
 
-711. Hãy đem bánh thịt sẵn sàng,\
+711\. Hãy đem bánh thịt sẵn sàng,\
 Món canh phải khéo trang hoàng cá ngon,\
 Ðem ra đặt ở vệ đường,\
 Ở ngay trên lối quân vương đi về.
 
-712. Rượu, dầu, bơ, sữa, hạt kê,\
+712\. Rượu, dầu, bơ, sữa, hạt kê,\
 Sữa chua, cơm chín ê hề thức ăn\
 Ðem ra đặt chúng bên đường\
 Ở ngay trên lối quân vương đi về.
 
-713. Hỏa đầu quân hãy tựu tề,\
+713\. Hỏa đầu quân hãy tựu tề,\
 Người làm bánh mứt, làm hề, hát rong,\
 Người nhào lộn, các vũ công.\
 Những người đánh trống, đóng tuống giải khuây.
@@ -4287,27 +4294,27 @@ Bậc Ðạo Sư diễn tả việc này như sau:
 Ði về phía núi Vam-ka,\
 Jà-li hướng dẫn đoàn ra trước liền.*
 
-716. Voi già đã sáu mươi niên\
+716\. Voi già đã sáu mươi niên\
 Rống lên một tiếng như kèn dậy vang,\
 Thú rừng gầm thét rộn ràng\
 Những khi chúng buộc dây cương chặt vào.
 
-717. Bánh xe dồn dập xôn xao,\
+717\. Bánh xe dồn dập xôn xao,\
 Rồi bầy ngựa hí giọng cao vang lừng,\
 Ðại quân thẳng tiến lên đường,\
 Mịt mù tung đám bụi hồng như mây.
 
-718. Nhu cầu cung cấp đủ đầy,\
+718\. Nhu cầu cung cấp đủ đầy,\
 Ðạo quân quyết chí đi ngay sẵn sàng.\
 Jà-li hướng dẫn cả đoàn\
 Tiến về đồi núi bạt ngàn Vam-ka.
 
-719. Ði vào rừng rậm bao la\
+719\. Ði vào rừng rậm bao la\
 Tưng bừng chim chóc, cỏ hoa muôn loài,\
 Với bao hoa nở nụ cười,\
 Với bao trái chín làm người mừng vui.
 
-720. Khi rừng đang độ hoa tươi,\
+720\. Khi rừng đang độ hoa tươi,\
 Chim ca rào rạt như trời đổ mưa,\
 Véo von ríu rít gần xa\
 Với bao đôi cánh sáng lòa bay ngang.
@@ -4330,12 +4337,12 @@ Ves-san-ta lắng nghe ầm ầm vang,\
 Ngài trèo lên ngọn đồi hoang\
 Nhìn đoàn quân ấy, kinh hoàng lắm thay.*
 
-723. – Mad-dì, hãy lắng nghe này,\
+723\. – Mad-dì, hãy lắng nghe này,\
 Âm thanh gầm thét tràn đầy rừng hoang,\
 Tiếng bầy ngựa hí nghe vang,\
 Nhìn cờ phấp phới bay ngang ngọn đồi.
 
-724. Phải chăng, bọn thợ săn mồi\
+724\. Phải chăng, bọn thợ săn mồi\
 Với dao, lưới bẫy ở nơi hố hầm,\
 Ði tìm dã thú trong rừng,\
 Ðang gào thét để truy lùng chúng đây?
@@ -4378,17 +4385,17 @@ Vương xa hướng đến con đường vừa qua,\
 Và đi tìm chốn rừng già,\
 Nơi kia vương tử làm nhà độc cư.*
 
-729. Trên mình voi báu, vua cha,\
+729\. Trên mình voi báu, vua cha,\
 Hoàng y ngài đã khoác hờ trên vai,\
 Giơ cao, nắm chặt đôi tay,\
 Ngài đi trao lại chiếc ngai con mình.
 
-730. Ngài nhìn vương tử đẹp xinh,\
+730\. Ngài nhìn vương tử đẹp xinh,\
 Dáng không sợ hãi, an bình trong tâm.\
 Ngồi ngay ở trước thảo am\
 Và đang tĩnh lặng thâm trầm tư duy.
 
-731. Ves-san-ta với Mad-dì\
+731\. Ves-san-ta với Mad-dì\
 Thấy vua cha, phải vội đi đón mừng,\
 Vừa khi vương phụ đến gần\
 Trong lòng mong mỏi viếng thăm con ngài.
@@ -4417,7 +4424,7 @@ Cuộc đời cực khổ khốn cùng vừa qua,\
 Chúng con nỗ lực tối đa\
 Ðể ăn những thứ tìm ra quanh đồi.*
 
-736. Nghịch duyên rèn luyện con người\
+736\. Nghịch duyên rèn luyện con người\
 Như người giữ ngựa luyện loài ngựa hoang.\
 Nghịch duyên này, tấu phụ vương,\
 Ðã làm thuần thục chúng con nơi này.
@@ -4485,12 +4492,12 @@ Bấy giờ lại thấy mẫu thân đến gần,\
 Bước vào cửa lớn thảo am,\
 Dù là hoàng hậu, chân trần sá chi.*
 
-746. Ves-san-ta với Mad-dì\
+746\. Ves-san-ta với Mad-dì\
 Thấy thân mẫu, vội ra đi đón mừng,\
 Mad-dì liền chạy lại gần,\
 Ðặt đầu nàng xuống trước chân mẹ hiền.
 
-747. Mad-dì bất chợt nhìn lên,\
+747\. Mad-dì bất chợt nhìn lên,\
 Thấy hai con trẻ bình yên sờ sờ,\
 Như bê con thấy mẹ bò,\
 Chúng liền la hét thật to chào mừng.
@@ -4517,7 +4524,7 @@ Bậc Ðạo Sư giải thích việc này như sau:
 Các đồi núi vọng vang xa,\
 Ðất bằng rung chuyển thật là mạnh thay.*
 
-750. Trời liền đem một vầng mây\
+750\. Trời liền đem một vầng mây\
 Từ trên giáng xuống mưa đầy tuôn ra,\
 Khi quân vương Ves-san-ta\
 Vừa cùng tái ngộ hoàng gia của ngài.
@@ -4592,17 +4599,17 @@ Xiêm y lộng lẫy, trang hoàng oai phong,\
 Ðeo vào thanh kiếm vô song,\
 Ngự lên bảo tượng, bạn đồng hành xưa.*
 
-759. Sáu mươi ngàn bạn ấu thơ\
+759\. Sáu mươi ngàn bạn ấu thơ\
 Ngắm xem thật đẹp, bước ra quây quần,\
 Nay là sáu vạn quần thần,\
 Thảy đều kính lễ chúa công tức thì.
 
-760. Cung nga tắm gội Mad-dì,\
+760\. Cung nga tắm gội Mad-dì,\
 Và đồng cầu chúc vương phi vang lừng:\
 – Ves-san-ta bậc Ðại vương\
 Sañ-ja Thái thượng bảo toàn nương nương!
 
-761. Thế là mọi sự phục hoàn,\
+761\. Thế là mọi sự phục hoàn,\
 Và hồi tưởng nỗi đau buồn đã qua,\
 Trên miền đất của nhà vua,\
 Nhân dân mở hội, hát ca vui mừng.
@@ -4646,32 +4653,32 @@ Thật là tuyệt mỹ, màn chăn thiếu gì,\
 Mẫu hoàng trao tặng Mad-dì\
 Làm cho sắc đẹp vương phi sáng bừng.*
 
-768. Vòng tay, vòng cổ, vòng chân,\
+768\. Vòng tay, vòng cổ, vòng chân,\
 Mạng che trán, chiếc đai lưng trang hoàng,\
 Mẫu thân gửi tặng cho nàng\
 Làm cho nàng đẹp huy hoàng sáng tươi.
 
-769. Và khi công chúa tuyệt vời\
+769\. Và khi công chúa tuyệt vời\
 Ngắm nhìn châu báu sáng ngời nàng mang,\
 Rỡ ràng, nàng chiếu ánh quang\
 Khác nào các vị nữ thần Lạc Viên [\*].
 
-770. Với đầu tẩm ướt tóc tiên,\
+770\. Với đầu tẩm ướt tóc tiên,\
 Nữ trang, xiêm áo ngắm nhìn đẹp tươi,\
 Vương phi tỏa ánh sáng ngời\
 Như là Thiên nữ cõi trời Băm ba.
 
-771. Trong vườn Thiên giới Cit-ta [\*\*]\
+771\. Trong vườn Thiên giới Cit-ta [\*\*]\
 Cây ba tiêu ngọn gió lùa nhẹ rung,\
 Ðôi môi công chúa tuyệt trần,\
 Dáng nàng khả ái như thân cây trời.
 
-772. Như chim lông đẹp sáng ngời\
+772\. Như chim lông đẹp sáng ngời\
 Lượn bay khắp mọi nẻo trời trên không,\
 Môi nàng xinh tựa đóa hồng,\
 Dung nhan làm ngẩn ngơ lòng thế nhân.
 
-773. Chúng dâng voi đẹp còn xuân,\
+773\. Chúng dâng voi đẹp còn xuân,\
 Con voi dũng mãnh oai phong hùng cường,\
 Không hề biết sợ giáo gươm,\
 Ngà dài, chẳng sợ chiến trường ba quân.
@@ -4724,12 +4731,12 @@ Với muôn hoa lá trang hoàng đẹp xinh,\
 Từ nơi ngài ở rừng xanh\
 Xuôi dần đến chốn kinh thành Jet-ta.*
 
-779. Sáu mươi ngàn bạn ấu thơ,\
+779\. Sáu mươi ngàn bạn ấu thơ,\
 Nam nhi, phụ nữ, thương gia quây quần,\
 Ðạo nhân trở lại quê hương\
 Về kinh đô tiến thẳng đường Jet-ta.
 
-780. Nhiều người quản tượng, quản xa,\
+780\. Nhiều người quản tượng, quản xa,\
 Cùng đoàn vệ sĩ hoàng gia xuất hành,\
 Và nhiều lữ khách, bộ binh\
 Thảy đồng tiến tới kinh thành Jet-ta.
@@ -4750,7 +4757,7 @@ Bậc Ðạo Sư giải thích việc này:
 Ðàn ca múa hát vui thay,\
 Thức ăn thức uống đủ đầy luôn luôn.*
 
-783. Thần dân toàn thể hân hoan\
+783\. Thần dân toàn thể hân hoan\
 Từ nông dân đến thị dân mọi nhà,\
 Chào mừng trở lại quê cha\
 Vương nhi danh vọng gần xa vang lừng.

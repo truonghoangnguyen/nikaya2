@@ -1,8 +1,15 @@
+---
+title: Chuyện Tiền Thân Phần II
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
+
 # [08] PHẨM KÀSÀVA
 
 ### **PHẨM KHÀSÀVA**
 
-**221. CHUYỆN TẤM Y VÀNG (Tiền thân Kàsàva)**
+### 221. CHUYỆN TẤM Y VÀNG (Tiền thân Kàsàva) {#221}
 
 ***Ai đầy những uế nhiễm…,***
 
@@ -89,7 +96,7 @@ Và Bồ-tát đuổi anh ta đi.
 
 -ooOoo-
 
-**222. CHUYỆN CON KHỈ CÙLLANANDIYA (Tiền thân Cùllanandiya)**
+### 222. CHUYỆN CON KHỈ CÙLLANANDIYA (Tiền thân Cùllanandiya) {#222}
 
 ***Ðây là lời sư trưởng…,***
 
@@ -183,7 +190,7 @@ Anh ta vừa đọc kệ xong, đất liền vùi lấp anh ta và ngay lúc ấ
 
 -ooOoo-
 
-**223. CHUYỆN THỨC ĂN ÐI ÐƯỜNG (Tiền thân Puta-Bhatta)**
+### 223. CHUYỆN THỨC ĂN ÐI ÐƯỜNG (Tiền thân Puta-Bhatta) {#223}
 
 ***Cung kính người cung kính…,***
 
@@ -312,7 +319,7 @@ Nghe nói vậy, vua Ba-la-nại liền dành cho hoàng hậu tất cả sự k
 
 -ooOoo-
 
-**224. CHUYỆN CON CÁ SẤU (Tiền thân Kumbhila)**
+### 224. CHUYỆN CON CÁ SẤU (Tiền thân Kumbhila) {#224}
 
 ***Ai đủ bốn pháp này…,***
 
@@ -334,7 +341,7 @@ Các tà kiến bất chánh.*
 
 -ooOoo-
 
-**225. CHUYỆN ÐỀ CAO TÍNH KHAM NHẪN (Tiền thân Khanti-Vannana)**
+### 225. CHUYỆN ÐỀ CAO TÍNH KHAM NHẪN (Tiền thân Khanti-Vannana) {#225}
 
 ***Thưa Thiên tử, thần có…,***
 
@@ -378,7 +385,7 @@ Vị đại thần biết lời vua nói ám chỉ mình, và từ đấy trở 
 
 -ooOoo-
 
-**226. CHUYỆN CON CÚ (Tiền thân Kosiya)**
+### 226. CHUYỆN CON CÚ (Tiền thân Kosiya) {#226}
 
 ***Lành thay, nếu xuất hành…,***
 
@@ -424,7 +431,7 @@ Vua nghe lời Bồ-tát, liền quay về nhà, không đem quân đi đánh n�
 
 -ooOoo-
 
-**227. CHUYỆN CON BỌ ĂN PHÂN (Tiền thân Gùthapàna)**
+### 227. CHUYỆN CON BỌ ĂN PHÂN (Tiền thân Gùthapàna) {#227}
 
 ***Anh hùng địch anh hùng…,***
 
@@ -525,7 +532,7 @@ Rồi con voi trút xuống một bãi phân lớn ngay trên đầu con bọ v�
 
 -ooOoo-
 
-**228. CHUYỆN BÀ-LA-MÔN KÀMANÌTA (Tiền thân Kàmanìta)**
+### 228. CHUYỆN BÀ-LA-MÔN KÀMANÌTA (Tiền thân Kàmanìta) {#228}
 
 ***Ta tham muốn ba thành…,***
 
@@ -653,7 +660,7 @@ Như vậy, bậc Ðại Sĩ dọa vua ấy với những cảnh địa ngục r
 
 -ooOoo-
 
-**229. CHUYỆN DU SĨ PALÀYI (Tiền thân Palàyi)**
+### 229. CHUYỆN DU SĨ PALÀYI (Tiền thân Palàyi) {#229}
 
 ***Với các voi tối thắng…,***
 
@@ -757,7 +764,7 @@ Và chỉ thấy lầu tháp ở cửa thành ngoài, vua liền quay trở lui,
 
 -ooOoo-
 
-**230. CHUYỆN DU SĨ PALÀYI THỨ HAI (Tiền thân Palàyi)**
+### 230. CHUYỆN DU SĨ PALÀYI THỨ HAI (Tiền thân Palàyi) {#230}
 
 ***Cờ xí ta vô lượng…,***
 

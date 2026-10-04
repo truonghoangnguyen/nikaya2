@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần VI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
+
 # [01] Chương XXI – Phẩm Tám Mươi Bài Kệ Phần 1
 
 **Chương XXI**
 
 **Phẩm Tám Mươi Bài Kệ**
 
-**533. Chuyện tiểu Thiên nga (Tiền thân Cullahamsa)**
+### 533. Chuyện tiểu Thiên nga (Tiền thân Cullahamsa) {#533}
 
 ***Bầy chim không để ý gì ta…,***
 
@@ -794,7 +801,7 @@ Lần nữa đôi chim được trọn lành*.
 
 -ooOoo-
 
-**534. Chuyện đại Thiên nga (Tiền thân Mahàhamsa)**
+### 534. Chuyện đại Thiên nga (Tiền thân Mahàhamsa) {#534}
 
 ***Kìa đám hồng nga cất cánh bay…,***
 
@@ -1762,7 +1769,7 @@ Chuyện này đã được kể đầy đủ trong số 533. Tiền thân Cul
 
 -ooOoo-
 
-**535. Chuyện thực phẩm Thiên giới (Tiền thân Sudhàbhojana)**
+### 535. Chuyện thực phẩm Thiên giới (Tiền thân Sudhàbhojana) {#535}
 
 ***Ta không phải kẻ bán buôn rong…,***
 

@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm APANNAKA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [01] PHẨM APANNAKA
 
 **PHẨM APANNAKA**
 
-**1. CHUYỆN PHÁP TỐI THƯỢNG (Tiền thân Apannaka)**
+### 1. CHUYỆN PHÁP TỐI THƯỢNG (Tiền thân Apannaka) {#1}
 
 Có những người nói lên…
 
@@ -254,7 +260,7 @@ Sau khi thuyết pháp, bậc Ðạo Sư nêu rõ những bài học và kể ha
 
 ---
 
-**2. CHUYỆN BÃI SA MẠC (Tiền thân Vannupatha)**
+### 2. CHUYỆN BÃI SA MẠC (Tiền thân Vannupatha) {#2}
 
 Không quản mệt, họ đào…,
 
@@ -337,7 +343,7 @@ Sau khi bậc Ðạo Sư kể xong hai câu chuyện và kết hợp chúng vớ
 
 ---
 
-**3. CHUYỆN NGƯỜI BUÔN CHÈ (Tiền thân Serivànija)**
+### 3. CHUYỆN NGƯỜI BUÔN CHÈ (Tiền thân Serivànija) {#3}
 
 Nếu đây ông thối thất…
 
@@ -432,7 +438,7 @@ Sau khi kể hai câu chuyện và kết hợp chúng với nhau, bậc Ðạo S
 
 ---
 
-**4. CHUYỆN TIỂU TRIỆU PHÚ (Tiền thân Cullakasetthì)**
+### 4. CHUYỆN TIỂU TRIỆU PHÚ (Tiền thân Cullakasetthì) {#4}
 
 Bậc trí với ít vốn…
 
@@ -694,7 +700,7 @@ Sau khi nói xong Pháp thoại này, bậc Ðạo Sư kết hợp hai mẩu chu
 
 ---
 
-**5. CHUYỆN ÐẤU GẠO. (Tiền thân Tandulanàli)**
+### 5. CHUYỆN ÐẤU GẠO. (Tiền thân Tandulanàli) {#5}
 
 Giá đấu gạo bao nhiêu?…
 
@@ -783,7 +789,7 @@ Sau khi trình bày pháp thoại này, bậc Ðạo Sư kết hợp hai câu ch
 
 ---
 
-**6. CHUYỆN THIÊN PHÁP (Tiền thân Devadhamma)**
+### 6. CHUYỆN THIÊN PHÁP (Tiền thân Devadhamma) {#6}
 
 Ðầy đủ tàm và quý…
 
@@ -934,7 +940,7 @@ Thời ấy, Quỷ Dạ-xoa là Tỷ-kheo có nhiều đồ vật, hoàng tử S
 
 ---
 
-**7. CHUYỆN NÀNG LƯỢM CỦI (Tiền thân Katthahàri)**
+### 7. CHUYỆN NÀNG LƯỢM CỦI (Tiền thân Katthahàri) {#7}
 
 Kính thưa bậc Ðại Vương…
 
@@ -1015,7 +1021,7 @@ Sau khi kể pháp thoại này cho vua nước Kosala, trình bày hai câu chu
 
 ---
 
-**8. CHUYỆN VUA GÀMANI (Tiền thân Gàmani)**
+### 8. CHUYỆN VUA GÀMANI (Tiền thân Gàmani) {#8}
 
 Không vội vã vượt qua…,
 
@@ -1038,7 +1044,7 @@ Sau khi trình bày pháp thoại này, bậc Ðạo Sư thuyết giảng về c
 
 ---
 
-**9. CHUYỆN VUA MAKHÀDEVA (Tiền thân Makhàdeva)**
+### 9. CHUYỆN VUA MAKHÀDEVA (Tiền thân Makhàdeva) {#9}
 
 Những tóc bạc đầu ta…,
 
@@ -1089,7 +1095,7 @@ Sau khi kể xong hai câu chuyện này và kết hợp chúng với nhau, bậ
 
 ---
 
-**10. CHUYỆN TRƯỞNG LÃO SUKHAVIHÀRI (Tiền thân Sukhavihàri)**
+### 10. CHUYỆN TRƯỞNG LÃO SUKHAVIHÀRI (Tiền thân Sukhavihàri) {#10}
 
 Người không được bảo vệ…,
 

@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần II
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
 # [04] PHẨM ASADISA
 
 ### **PHẨM ASADISA**
 
-**181. CHUYỆN HOÀNG TỬ VÔ ÐỊCH (Tiền thân Asadisa)**
+### 181. CHUYỆN HOÀNG TỬ VÔ ÐỊCH (Tiền thân Asadisa) {#181}
 
 ***Vị thiện xạ, hoàng tử…,***
 
@@ -148,7 +154,7 @@ Bồ-tát tự chế ngự.*
 
 -ooOoo-
 
-**182. CHUYỆN CON VOI THIỆN CHIẾN (Tiền thân Sangàmàvacara)**
+### 182. CHUYỆN CON VOI THIỆN CHIẾN (Tiền thân Sangàmàvacara) {#182}
 
 ***Anh hùng quen chiến trận…,***
 
@@ -291,7 +297,7 @@ Nghe nói vậy, theo lời khuyên, con voi quay trở lại, lấy cái vòi q
 
 -ooOoo-
 
-**183. CHUYỆN ÐỒ TÀN THỰC (Tiền thân Vàlodakka)**
+### 183. CHUYỆN ÐỒ TÀN THỰC (Tiền thân Vàlodakka) {#183}
 
 ***Nước tồi tệ, ít vị…,***
 
@@ -365,7 +371,7 @@ Vua nghe lời Bồ-tát nói, liền cho đuổi các con lừa ra khỏi sân 
 
 -ooOoo-
 
-**184. CHUYỆN NGƯỜI LUYỆN NGỰA GIRIDANTA (Tiền thân Giridanta)**
+### 184. CHUYỆN NGƯỜI LUYỆN NGỰA GIRIDANTA (Tiền thân Giridanta) {#184}
 
 ***Con ngựa Pan-da-va…,***
 
@@ -427,7 +433,7 @@ Vua làm theo như vậy. Con ngựa dần trở lại tốt lành như xưa. Vu
 
 -ooOoo-
 
-**185. CHUYỆN TÂM BẤT TỊNH (Tiền thân Anabhirati)**
+### 185. CHUYỆN TÂM BẤT TỊNH (Tiền thân Anabhirati) {#185}
 
 ***Như nước đục, không trong…,***
 
@@ -483,7 +489,7 @@ Thấy lợi mình, lợi người.
 
 -ooOoo-
 
-**186. CHUYỆN VUA MANG SỮA ÐÔNG (Tiền thân Dadhivàhana)**
+### 186. CHUYỆN VUA MANG SỮA ÐÔNG (Tiền thân Dadhivàhana) {#186}
 
 ***Ðẹp, thơm và vị ngọt…,***
 
@@ -628,7 +634,7 @@ Vua nghe lời Bồ-tát, bảo chặt tất cả các cây nimba và cây leo, 
 
 -ooOoo-
 
-**187. CHUYỆN BỐN VẺ ÐẸP (Tiền thân Catumatta)**
+### 187. CHUYỆN BỐN VẺ ÐẸP (Tiền thân Catumatta) {#187}
 
 ***Cánh đẹp cùng cánh đẹp…,***
 
@@ -674,7 +680,7 @@ Hãy về hang của chó!
 
 -ooOoo-
 
-**188. CHUYỆN SƯ TỬ LAI CHÓ RỪNG (Tiền thân Sìhakottuka)**
+### 188. CHUYỆN SƯ TỬ LAI CHÓ RỪNG (Tiền thân Sìhakottuka) {#188}
 
 ***Ngón chân và móng chân…,***
 
@@ -728,7 +734,7 @@ Sau khi nghe lời khuyên dạy này, con thú ấy không bao giờ thử rố
 
 -ooOoo-
 
-**189. CHUYỆN TẤM DA SƯ TỬ (Tiền thân Sìhacamma)**
+### 189. CHUYỆN TẤM DA SƯ TỬ (Tiền thân Sìhacamma) {#189}
 
 ***Tiếng hí này không phải…,***
 
@@ -766,7 +772,7 @@ Trong khi người lái buôn nói vậy, con lừa tắt thở. Người ấy b
 
 -ooOoo-
 
-**190. CHUYỆN GIỮ GIỚI (Tiền thân Sìlànisamsa)**
+### 190. CHUYỆN GIỮ GIỚI (Tiền thân Sìlànisamsa) {#190}
 
 ***Hãy nhìn kết quả này…,***
 

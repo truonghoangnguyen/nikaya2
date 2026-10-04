@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm GIỚI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [02] PHẨM GIỚI
 
 **PHẨM GIỚI.**
 
-**11. CHUYỆN CON NAI ÐIỀM LÀNH (Tiền thân Lakkhana)**
+### 11. CHUYỆN CON NAI ÐIỀM LÀNH (Tiền thân Lakkhana) {#11}
 
 Con người có giới hạnh…,
 
@@ -63,7 +69,7 @@ Sau khi thuyết pháp thoại này xong, so sánh hai câu chuyện, và kết 
 
 ---
 
-**12. CHUYỆN CON NAI CÂY ÐA (Tiền thân Nigrodhamiga)**
+### 12. CHUYỆN CON NAI CÂY ÐA (Tiền thân Nigrodhamiga) {#12}
 
 Sống với Nigrodha…,
 
@@ -255,7 +261,7 @@ Rồi Ngài thuyết giảng Bốn Sự thật, nêu sự liên hệ giữa hai 
 
 ---
 
-**13. CHUYỆN MŨI TÊN (Tiền thân Kandina)**
+### 13. CHUYỆN MŨI TÊN (Tiền thân Kandina) {#13}
 
 Ðáng nguyền rủa mũi tên…,
 
@@ -300,7 +306,7 @@ Bậc Ðạo Sư, thuyết pháp thoại này xong, liền giảng về Bốn S�
 
 ---
 
-**14. CHUYỆN CON NAI GIÓ (Tiền thân Vàtamiga)**
+### 14. CHUYỆN CON NAI GIÓ (Tiền thân Vàtamiga) {#14}
 
 Câu chuyện này, khi ở tại Kỳ Viên, bậc Ðạo Sư đã kể về Trưởng Lão Cullapindapatika Tissa. Theo truyền thống, khi bậc Ðạo Sư ở tại Trúc Lâm, gần Vương Xá, con trai của một gia đình triệu phú giàu có, tên là Tissakumara, một hôm đi đến Trúc Lâm, nghe bậc đạo sư thuyết pháp. Tissa về nhà, xin phép xuất gia, nhưng cha mẹ không bằng lòng. Tissakumara bèn nhịn đói trong bảy ngày như Ratthapàla (Kinh Trung Bộ số 83) và được cha mẹ chấp thuận xuất gia với bậc Ðạo Sư.
 
@@ -385,7 +391,7 @@ Sau khi thuyết pháp thoại này, Thế Tôn kết hợp hai câu chuyện v�
 
 ---
 
-**15. CHUYỆN CON NAI KHARÀDIYA (Tiền thân Kharàdiya)**
+### 15. CHUYỆN CON NAI KHARÀDIYA (Tiền thân Kharàdiya) {#15}
 
 Khi con nai có tám móng…,
 
@@ -444,7 +450,7 @@ Thuyết pháp thoại này xong, bậc Ðạo Sư kết hợp hai câu chuyện
 
 ---
 
-**16. CHUYỆN CON NAI CÓ BA CỬ CHỈ. (Tiền thân Tipallatthamiga)**
+### 16. CHUYỆN CON NAI CÓ BA CỬ CHỈ. (Tiền thân Tipallatthamiga) {#16}
 
 Nai với ba cử chỉ…,
 
@@ -559,7 +565,7 @@ Thuyết pháp thoại này xong, sau khi kết hợp hai câu chuyện, Ngài k
 
 ---
 
-**17. CHUYỆN GIÓ THỔI (Tiền thân Màluta)**
+### 17. CHUYỆN GIÓ THỔI (Tiền thân Màluta) {#17}
 
 Nếu là tối hay sáng…,
 
@@ -612,7 +618,7 @@ Thuyết pháp thoại này xong, Ngài thuyết giảng Bốn Sự thật. Cu�
 
 ---
 
-**18. CHUYỆN ÐỒ ĂN CÚNG NGƯỜI CHẾT (Tiền thân Matakabhatta)**
+### 18. CHUYỆN ÐỒ ĂN CÚNG NGƯỜI CHẾT (Tiền thân Matakabhatta) {#18}
 
 Nếu chúng sanh biết được…,
 
@@ -677,7 +683,7 @@ Bậc Ðạo Sư thuyết pháp thoại này xong, kết hợp hai câu chuyện
 
 ---
 
-**19. CHUYỆN LỄ CÚNG DO CÓ LỢI (Tiền thân Àyàcitabhatta)**
+### 19. CHUYỆN LỄ CÚNG DO CÓ LỢI (Tiền thân Àyàcitabhatta) {#19}
 
 Nếu muốn thoát hiện tại…,
 
@@ -706,7 +712,7 @@ Bậc Ðạo Sư thuyết pháp thoại này xong, kết hợp hai câu chuyện
 
 ---
 
-**20. CHUYỆN HỒ NALAKAPÀNA (Tiền thân Nalakapàna)**
+### 20. CHUYỆN HỒ NALAKAPÀNA (Tiền thân Nalakapàna) {#20}
 
 Thấy dấu chân đi xuống…,
 

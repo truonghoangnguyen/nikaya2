@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm KUSANÀLI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [13] PHẨM KUSANÀLI
 
 **PHẨM KUSANÀLI**
 
-**121. CHUYỆN THẦN CÂY CỎ KUSA (Tiền thân Kusanàli)**
+### 121. CHUYỆN THẦN CÂY CỎ KUSA (Tiền thân Kusanàli) {#121}
 
 Hãy để cho mọi người …,
 
@@ -73,7 +79,7 @@ Sau khi nói lên pháp thoại này, bậc Ðạo Sư nhận diện Tiền thâ
 
 ---
 
-**122. CHUYỆN KẺ NGU (Tiền thân Dummedha)**
+### 122. CHUYỆN KẺ NGU (Tiền thân Dummedha) {#122}
 
 Kẻ ngu được danh xưng …,
 
@@ -184,7 +190,7 @@ Thuyết pháp thoại này xong, bậc Ðại Sư nhận diện Tiền thân:
 
 ---
 
-**123. CHUYỆN CÁI CÁN CÀY (Tiền thân Nangalisa)**
+### 123. CHUYỆN CÁI CÁN CÀY (Tiền thân Nangalisa) {#123}
 
 Kẻ ngu nói hạn chế …,
 
@@ -279,7 +285,7 @@ Sau khi nghe pháp thoại này, bậc Ðạo sư nhận diện Tiền thân nh�
 
 ---
 
-**124. CHUYỆN TRÁI XOÀI (Tiền thân Amba)**
+### 124. CHUYỆN TRÁI XOÀI (Tiền thân Amba) {#124}
 
 Này người hãy tinh tấn …
 
@@ -322,7 +328,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**125. CHUYỆN NGƯỜI NÔ LỆ KATÀHAKA (Tiền thân Katàhaka)**
+### 125. CHUYỆN NGƯỜI NÔ LỆ KATÀHAKA (Tiền thân Katàhaka) {#125}
 
 Nó nói nhiều, đại ngôn …,
 
@@ -433,7 +439,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**126. CHUYỆN TƯỚNG CỦA KIẾM (Tiền thân Asilakkhana)**
+### 126. CHUYỆN TƯỚNG CỦA KIẾM (Tiền thân Asilakkhana) {#126}
 
 Cùng đồng một sự việc …,
 
@@ -499,7 +505,7 @@ Với bài thuyết pháp này, bậc Ðại Sư nêu rõ không có vấn đề
 
 ---
 
-**127. CHUYỆN NGƯỜI NÔ LỆ KALANDUKA (Tiền thân Kalanduka)**
+### 127. CHUYỆN NGƯỜI NÔ LỆ KALANDUKA (Tiền thân Kalanduka) {#127}
 
 Dòng họ, trú xứ anh …,
 
@@ -544,7 +550,7 @@ Sau khi nói lên pháp thoại này, bậc Ðạo Sư nhận diện Tiền thâ
 
 ---
 
-**128. CHUYỆN CON MÈO (Tiền thân Bilàra)**
+### 128. CHUYỆN CON MÈO (Tiền thân Bilàra) {#128}
 
 Ai yêu cờ Chánh pháp …,
 
@@ -601,7 +607,7 @@ Sau khi kể lại pháp thoại này, bậc Ðạo Sư nhận diện Tiền th�
 
 ---
 
-**129. CHUYỆN KẺ THỜ LỬA (Tiền thân Aggika)**
+### 129. CHUYỆN KẺ THỜ LỬA (Tiền thân Aggika) {#129}
 
 Cáo chỏm trên đầu này …,
 
@@ -648,7 +654,7 @@ Khi bậc Ðạo Sư nói pháp thoại này xong, Ngài nhận diện Tiền th
 
 ---
 
-**130. CHUYỆN NỮ BÀ-LA-MÔN KOSIYA (Tiền thân Kosiya)**
+### 130. CHUYỆN NỮ BÀ-LA-MÔN KOSIYA (Tiền thân Kosiya) {#130}
 
 Hãy ăn như đã nói…,
 

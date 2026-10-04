@@ -1,10 +1,16 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
 # [02] Chương III – Phẩm Kosya
 
 **CHƯƠNG III**
 
 **PHẨM KOSYA**
 
-**261. CHUYỆN HOA SEN (Tiền thân Paduma)**
+### 261. CHUYỆN HOA SEN (Tiền thân Paduma) {#261}
 
 ***Như tóc râu bị cắt…,***
 
@@ -86,7 +92,7 @@ Rồi người giữ hồ cho anh ta một bó hoa sen và đi về hồ của m
 
 -ooOoo-
 
-**262. CHUYỆN BÀN TAY MỀM MẠI (Tiền thân Mudupàni)**
+### 262. CHUYỆN BÀN TAY MỀM MẠI (Tiền thân Mudupàni) {#262}
 
 ***Một bàn tay mềm mại…,***
 
@@ -222,7 +228,7 @@ Rồi vua làm lễ gả công chúa cho hoàng tử thật long trọng vinh hi
 
 -ooOoo-
 
-**263. CHUYỆN TIỂU DỤC THAM (Tiền thân Culla-Palobhana)**
+### 263. CHUYỆN TIỂU DỤC THAM (Tiền thân Culla-Palobhana) {#263}
 
 ***Không phải rẽ nước biển…,***
 

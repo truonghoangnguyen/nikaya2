@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần V
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+
 # [06] Chương XVIII – Phẩm Năm Mươi Bài Kệ
 
 **Chương XVIII**
 
 **Phẩm Năm Mươi Bài Kệ**
 
-**526. Chuyện công chúa Nalinikà (Tiền thân Nalinikà)**
+### 526. Chuyện công chúa Nalinikà (Tiền thân Nalinikà) {#526}
 
 ***Nhìn kia! Mặt đất cháy khô cằn…,***
 
@@ -362,7 +369,7 @@ Từ đó chàng trai thực hành theo lời dạy bảo trên và tu tập Th
 
 -ooOoo-
 
-**527. Chuyện kỹ nữ Ummadantì (Tiền thân Ummadantì)**
+### 527. Chuyện kỹ nữ Ummadantì (Tiền thân Ummadantì) {#527}
 
 ***Kia nhà ai đó, hỡi Su-nan?…,***
 
@@ -921,7 +928,7 @@ Khi vua đã nghe đại tướng Ahipàraka của ngài thuyết giảng Chá
 
 -ooOoo-
 
-**528. Chuyện hiền giả đại Bồ đề (Tiền thân Mahà-Bodhi)**
+### 528. Chuyện hiền giả đại Bồ đề (Tiền thân Mahà-Bodhi) {#528}
 
 **Ý nghĩa gì chăng những vật này …,**
 

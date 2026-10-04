@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+
 # [06] Chương IV – Phẩm Bốn Bài Kệ
 
 **CHƯƠNG IV**
 
 **PHẨM BỐN BÀI KỆ**
 
-**301. Chuyện Tiểu Vương Kàlinga (Tiền thân Cullakàlinga)**
+### 301. Chuyện Tiểu Vương Kàlinga (Tiền thân Cullakàlinga) {#301}
 
 ***Hãy mở cổng cho các nàng thiếu nữ …,***
 
@@ -64,7 +71,7 @@
 
 *Rồi Ngài kể một chuyện đời xưa.*
 
-\*
+*
 
 Ngày xưa, khi vua Kàlinga đang trị vì tại thành phố Dantapura trong vương quốc Kàlinga, Assaka làm vua thành Potali trong xứ Assaka. Bấy giờ, vua Kàlinga có một quân đội tinh nhuệ và chính ông cũng mạnh như con voi, nhưng ông chẳng tìm thấy ai có thể đánh nhau với ông được. Quá khao khát được đánh nhau, ông bảo các đại thần:
 
@@ -206,7 +213,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**302. Chuyện Đại Kỵ Sĩ (Tiền thân Mahà-Assàroha)**
+### 302. Chuyện Đại Kỵ Sĩ (Tiền thân Mahà-Assàroha) {#302}
 
 ***Giúp cho kẻ dại người ngoa …,***
 
@@ -341,7 +348,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận Tiền thân:
 
 -ooOoo-
 
-**303. Chuyện Vị Thánh Vương (Tiền Thân Ekaràja)**
+### 303. Chuyện Vị Thánh Vương (Tiền Thân Ekaràja) {#303}
 
 ***Xưa Ðại vương sống trong vương quốc …,***
 
@@ -407,7 +414,7 @@ Khi bậc Ðạo Sư kể xong Pháp thoại này, Ngài nhận diện Tiền th
 
 -ooOoo-
 
-**304. Chuyện Rắn Thần Daddara (Tiền Thân Daddara)**
+### 304. Chuyện Rắn Thần Daddara (Tiền Thân Daddara) {#304}
 
 ***Dad-da-ra, ai mà chịu nổi …,***
 
@@ -562,7 +569,7 @@ Bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**306. Chuyện Hoàng Hậu Sujàta (Tiền thân Sujàta)**
+### 306. Chuyện Hoàng Hậu Sujàta (Tiền thân Sujàta) {#306}
 
 ***Dáng như cái trứng, trái gì đây? …,***
 
@@ -648,7 +655,7 @@ Kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân.
 
 -ooOoo-
 
-**307. Chuyện Thần Cây Hồng Điệp (Tiền thân Palàsa)**
+### 307. Chuyện Thần Cây Hồng Điệp (Tiền thân Palàsa) {#307}
 
 ***Bà-la-môn, sao người có trí …,***
 
@@ -716,7 +723,7 @@ Bậc Ðạo Sư chấm dứt bài thuyết giảng và nhận diện Tiền th�
 
 -ooOoo-
 
-**308. Chuyện Chim Gõ Kiến (Tiền Thân Javasakuna)**
+### 308. Chuyện Chim Gõ Kiến (Tiền Thân Javasakuna) {#308}
 
 ***Bao nhiêu lòng tốt trong tôi…,***
 
@@ -782,7 +789,7 @@ Bậc Ðạo Sư chấm dứt Pháp thoại và nhận diện Tiền thân:
 
 -ooOoo-
 
-**309. Chuyện Người Tiện Dân (Tiền thân Chavaka)**
+### 309. Chuyện Người Tiện Dân (Tiền thân Chavaka) {#309}
 
 ***Thưa Ðạo sư, thưa Vương đệ tử…,***
 

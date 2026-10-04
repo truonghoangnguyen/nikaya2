@@ -1,12 +1,17 @@
-# [01] Chương XIII – Phẩm Mười Ba Bài Kệ
+---
+title: Chuyện Tiền Thân Phần V
+---
 
-#### [C13](#c13)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+
+# [01] Chương XIII – Phẩm Mười Ba Bài Kệ
 
 **Chương XIII**
 
 **Phẩm Mười ba bài kệ**
 
-**474. Chuyện trái xoài (Tiền thân Amba)**
+### 474. Chuyện trái xoài (Tiền thân Amba) {#474}
 
 ***Trước kia, khi trẫm bảo chàng trai..,***
 
@@ -241,7 +246,7 @@ Bị thầy dạy đuổi như vậy, chàng trai nghĩ thầm: “Ðời còn 
 
 -ooOoo-
 
-**475. Chuyện cây hồng phượng vĩ (Tiền thân Phandana)**
+### 475. Chuyện cây hồng phượng vĩ (Tiền thân Phandana) {#475}
 
 ***Người đứng cầm rìu ở dưới tay..***
 
@@ -372,7 +377,7 @@ Sau khi chấm dứt Pháp thoại này, bậc Ðạo sư nhận diện Tiền t
 
 -ooOoo-
 
-**476. Chuyện Chúa Thiên Nga Có Thần Tốc (Tiền thân Javana-Hamsa)**
+### 476. Chuyện Chúa Thiên Nga Có Thần Tốc (Tiền thân Javana-Hamsa) {#476}
 
 ***Này Thiên nga đến đậu nơi này..,***
 
@@ -578,7 +583,7 @@ Với lời nhắn nhủ vua xong, bậc Ðại sĩ lên đường về núi Ci
 
 -ooOoo-
 
-**477. Chuyện Tiểu Đạo Sĩ Nàrada (Tiền thân Culla-Nàrada)**
+### 477. Chuyện Tiểu Đạo Sĩ Nàrada (Tiền thân Culla-Nàrada) {#477}
 
 ***Không có củi nào được bổ ra..,***
 
@@ -754,7 +759,7 @@ Sau đó vị cha dạy cho chàng tu tập từ tâm và các thiện pháp kh
 
 -ooOoo-
 
-**478. Chuyện Sứ Thần (Tiền thân Dùta)**
+### 478. Chuyện Sứ Thần (Tiền thân Dùta) {#478}
 
 ***Trầm tư trên bến nước sông Hằng..,***
 
@@ -885,7 +890,7 @@ Trước chàng đã có, gấp đôi lần.*
 
 -ooOoo-
 
-**479. Chuyện Cây Bồ Đề và Thánh Đế Kalinga (Tiền thân Kalinga-Bodhi)**
+### 479. Chuyện Cây Bồ Đề và Thánh Đế Kalinga (Tiền thân Kalinga-Bodhi) {#479}
 
 ***Kha-linh, Thánh đế Chuyển Luân Vương..,***
 
@@ -1145,7 +1150,7 @@ Sau khi đã làm lễ cúng dường trọng thể Ðại thọ Bồ-tát như
 
 -ooOoo-
 
-**480. Chuyện Hiền Giả Akitta (Tiền thân Akitta)**
+### 480. Chuyện Hiền Giả Akitta (Tiền thân Akitta) {#480}
 
 ***Sak-ka, Chúa tể giữa quần sinh..,***
 
@@ -1386,7 +1391,7 @@ Và vừa đảnh lễ ngài, vừa xin ngài thứ lỗi, Thiên chủ ra đi
 
 -ooOoo-
 
-**481. Chuyện Hiền Giả Takkàriya (Tiền thân Takkàriya)**
+### 481. Chuyện Hiền Giả Takkàriya (Tiền thân Takkàriya) {#481}
 
 ***Ta nói điên cuồng tựa ễnh ương..,***
 
@@ -1826,7 +1831,7 @@ Khi bậc Ðại sư đã chấm dứt Pháp thoại, Ngài bảo:
 
 -ooOoo-
 
-**482. Chuyện lộc vương (Tiền thân Ruru)**
+### 482. Chuyện lộc vương (Tiền thân Ruru) {#482}
 
 ***Thần tâu Hoàng thượng biết tin nai..,***
 
@@ -2111,7 +2116,7 @@ Dân chúng làm theo, và nhờ dấu hiệu ấy, cho đến nay, loài nai k
 
 -ooOoo-
 
-**483. Chuyện Chúa Nai Sarabha (Tiền thân Sarabha-Miga)**
+### 483. Chuyện Chúa Nai Sarabha (Tiền thân Sarabha-Miga) {#483}
 
 ***Cứ hy vọng, người ơi, là bậc trí..,***
 

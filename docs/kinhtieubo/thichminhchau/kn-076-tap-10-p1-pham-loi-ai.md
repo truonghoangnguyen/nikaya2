@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm LỢI ÁI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [05] PHẨM LỢI ÁI
 
 **PHẨM LỢI ÁI**
 
-**41. CHUYỆN TRƯỞNG LÃO LOSAKA (Tiền thân Losaka)**
+### 41. CHUYỆN TRƯỞNG LÃO LOSAKA (Tiền thân Losaka) {#41}
 
 Với người muốn mình lợi…,
 
@@ -187,7 +193,7 @@ Sau khi nói pháp thoại này xong, bậc Ðạo sư kết hợp hai câu chuy
 
 ---
 
-**42. CHUYỆN CHIM BỒ CÂU (Tiền thân Kopata)**
+### 42. CHUYỆN CHIM BỒ CÂU (Tiền thân Kopata) {#42}
 
 Với người muốn mình lợi…,
 
@@ -283,7 +289,7 @@ Sau khi thuyết pháp thoại, bậc Ðạo Sư thuyết giảng các sự th�
 
 ---
 
-**43. CHUYỆN CON RẮN TRE (Tiền thân Veluka)**
+### 43. CHUYỆN CON RẮN TRE (Tiền thân Veluka) {#43}
 
 Với người muốn mình lợi…,
 
@@ -346,7 +352,7 @@ Sau khi thuyết pháp thoại, bậc Ðạo Sư kết hợp hai mẩu chuyện,
 
 ---
 
-**44. CHUYỆN CON MUỖI (Tiền thân Makasa)**
+### 44. CHUYỆN CON MUỖI (Tiền thân Makasa) {#44}
 
 Tốt hơn là kẻ thù…,
 
@@ -417,7 +423,7 @@ Sau khi kể pháp thoại này xong, bậc Ðạo Sư kết hợp hai câu chuy
 
 ---
 
-**45. CHUYỆN NỮ TỲ ROHINI (Tiền thân Rohini)**
+### 45. CHUYỆN NỮ TỲ ROHINI (Tiền thân Rohini) {#45}
 
 Tốt hơn là kẻ thù…,
 
@@ -475,7 +481,7 @@ Sau khi kể lại pháp thoại này, bậc Ðạo Sư kết hợp lại hai c�
 
 ---
 
-**46. CHUYỆN KẺ LÀM HẠI VƯỜN (Tiền thân Àràmadùsaka)**
+### 46. CHUYỆN KẺ LÀM HẠI VƯỜN (Tiền thân Àràmadùsaka) {#46}
 
 Bậc thiện không làm hại…,
 
@@ -542,7 +548,7 @@ Sau khi bậc Ðạo Sư kể pháp thoại này, Ngài kết hợp hai câu chu
 
 ---
 
-**47. CHUYỆN RƯỢU MẠNH (Tiền thân Vàruni)**
+### 47. CHUYỆN RƯỢU MẠNH (Tiền thân Vàruni) {#47}
 
 Bậc thiện không làm hại…,
 
@@ -598,7 +604,7 @@ Sau khi nói xong, bậc Ðạo Sư kết hợp hai câu chuyện và nhận di�
 
 ---
 
-**48. CHUYỆN BÀ-LA-MÔN VEDABBHA (Tiền thân Vedabbha)**
+### 48. CHUYỆN BÀ-LA-MÔN VEDABBHA (Tiền thân Vedabbha) {#48}
 
 Dùng phương tiện không tốt…,
 
@@ -685,7 +691,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư kết hợp hai câu chuyện 
 
 ---
 
-**49. CHUYỆN CÁC VÌ SAO (Tiền thân Nakkhatta)**
+### 49. CHUYỆN CÁC VÌ SAO (Tiền thân Nakkhatta) {#49}
 
 Chờ đợi các vì sao…,
 
@@ -768,7 +774,7 @@ Sau khi kể pháp thoại, bậc Ðạo Sư kết hợp hai mẩu chuyện và 
 
 ---
 
-**50. CHUYỆN NHỮNG KẺ VÔ TRÍ (Tiền thân Dummedha)**
+### 50. CHUYỆN NHỮNG KẺ VÔ TRÍ (Tiền thân Dummedha) {#50}
 
 Với ngàn kẻ vô trí…
 

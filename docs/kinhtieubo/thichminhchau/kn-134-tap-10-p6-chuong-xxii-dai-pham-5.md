@@ -1,6 +1,13 @@
+---
+title: Chuyện Tiền Thân Phần VI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
+
 # [07] Chương XXII – Đại Phẩm (tt) - Phần 5
 
-**543. CHUYỆN BẬC ĐẠI TRÍ BHÙRIDATTA (Tiền thân Bhùridatta)**
+### 543. CHUYỆN BẬC ĐẠI TRÍ BHÙRIDATTA (Tiền thân Bhùridatta) {#543}
 
 ***Bất kỳ mọi bảo ngọc kim ngân…,***
 

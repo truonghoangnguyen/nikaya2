@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm ASAMPADÀNA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [15] PHẨM KAKANTAKA
 
 **PHẨM KAKANTAKA**
 
-**141. CHUYỆN CON TẮC KÈ (Tiền thân Godha)**
+### 141. CHUYỆN CON TẮC KÈ (Tiền thân Godha) {#141}
 
 Giao du với kẻ ác…,
 
@@ -52,7 +58,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**142. CHUYỆN CON CHÓ RỪNG (Tiền thân Sigàla)**
+### 142. CHUYỆN CON CHÓ RỪNG (Tiền thân Sigàla) {#142}
 
 Như vậy khó biết ngươi…,
 
@@ -111,7 +117,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**143. CHUYỆN CHIẾU SÁNG NHƯ MẶT TRỜI (Tiền thân Virocana)**
+### 143. CHUYỆN CHIẾU SÁNG NHƯ MẶT TRỜI (Tiền thân Virocana) {#143}
 
 Với óc não nát bấy…,
 
@@ -198,7 +204,7 @@ Sau khi nói bài kệ này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**144. CHUYỆN CÁI ÐUÔI BÒ (Tiền thân Nanguttha)**
+### 144. CHUYỆN CÁI ÐUÔI BÒ (Tiền thân Nanguttha) {#144}
 
 Ôi thần lửa sinh nhật…,
 
@@ -251,7 +257,7 @@ Sau khi kể pháp thoại này xong, bậc Ðạo Sư nhận diện Tiền thâ
 
 ---
 
-**145. CHUYỆN CON VẸT RADHA (Tiền thân Radha)**
+### 145. CHUYỆN CON VẸT RADHA (Tiền thân Radha) {#145}
 
 Radha, em không biết…
 
@@ -312,7 +318,7 @@ Sau khi kể pháp thoại, bậc Ðạo Sư thuyết giảng Bốn Sự thật,
 
 ---
 
-**146. CHUYỆN CON QUẠ (Tiền thân Kaka)**
+### 146. CHUYỆN CON QUẠ (Tiền thân Kaka) {#146}
 
 Cổ chúng ta mệt mỏi…,
 
@@ -385,7 +391,7 @@ Sau khi kể pháp thoại này xong, bậc Ðạo Sư nhận diện Tiền thâ
 
 ---
 
-**147. CHUYỆN ÁO VẢI MÀU ÐỎ (Tiền thân Puppharatta)**
+### 147. CHUYỆN ÁO VẢI MÀU ÐỎ (Tiền thân Puppharatta) {#147}
 
 Khổ này không phải khổ…,
 
@@ -453,7 +459,7 @@ Sau khi kể lại pháp thoại này, bậc Ðạo Sư nhận diện Tiền th�
 
 ---
 
-**148. CHUYỆN CON CHÓ RỪNG (Tiền thân Sigàlà)**
+### 148. CHUYỆN CON CHÓ RỪNG (Tiền thân Sigàlà) {#148}
 
 Ta không còn làm nữa…,
 
@@ -526,7 +532,7 @@ Và bậc Ðạo Sư nhận diện tiền thân:
 
 ---
 
-**149. CHUYỆN CÂY MỘT LÁ (Tiền thân Ekapanna)**
+### 149. CHUYỆN CÂY MỘT LÁ (Tiền thân Ekapanna) {#149}
 
 Cây này chỉ một lá…,
 
@@ -637,7 +643,7 @@ Rồi bậc Ðạo Sư nhận diện tiền thân:
 
 ---
 
-**150. CHUYỆN THANH NIÊN SANJIVA (Tiền thân Sanjiva)**
+### 150. CHUYỆN THANH NIÊN SANJIVA (Tiền thân Sanjiva) {#150}
 
 Ai theo kẻ bất thiện…,
 

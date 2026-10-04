@@ -1,12 +1,17 @@
-# [04] Chương XVI – Phẩm Ba Mươi Bài Kệ
+---
+title: Chuyện Tiền Thân Phần V
+---
 
-#### [C16](#c16)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+
+# [04] Chương XVI – Phẩm Ba Mươi Bài Kệ
 
 **Chương XVI**
 
 **Phẩm Ba mươi bài kệ**
 
-**511. Chuyện dục tham kỳ dị (Tiền thân Kimchanda)**
+### 511. Chuyện dục tham kỳ dị (Tiền thân Kimchanda) {#511}
 
 ***Vì cớ sao ngài ở bến sông…,***
 
@@ -276,7 +281,7 @@ Rồi vị ấy dùng thần lực đưa vị vua ẩn sĩ trở về vùng th�
 
 -ooOoo-
 
-**512. Chuyện bình rượu (Tiền thân Kumbha)**
+### 512. Chuyện bình rượu (Tiền thân Kumbha) {#512}
 
 ***Ngài là Ðại Sĩ ở trên không…,***
 
@@ -578,7 +583,7 @@ Nhưng việc uống rượu mạnh dần dần phát triển khắp cõi Diêm-
 
 -ooOoo-
 
-**513. Chuyện vương tử chiến thắng (Tiền thân Jayaddisa)**
+### 513. Chuyện vương tử chiến thắng (Tiền thân Jayaddisa) {#513}
 
 ***Kìa, đã nhịn ăn bảy buổi sáng…,***
 
@@ -1000,7 +1005,7 @@ Sau đó vua cho lập ngôi làng trên một ngọn núi, không xa nơi ẩn
 
 -ooOoo-
 
-**514. Chuyện tượng vương ở hồ Chaddanta (Tiền thân Chaddanta)**
+### 514. Chuyện tượng vương ở hồ Chaddanta (Tiền thân Chaddanta) {#514}
 
 ***Ái hậu mắt nhung, đẹp tuyệt trần…,***
 
@@ -1467,7 +1472,7 @@ Các vần kệ trên được các Tỷ-kheo ghi nhớ khi Tăng chúng tán d
 
 -ooOoo-
 
-**515. Chuyện nam tử Sambhava (Tiền thân Sambhava)**
+### 515. Chuyện nam tử Sambhava (Tiền thân Sambhava) {#515}
 
 ***Trẫm chẳng màng ngôi vị đế vương..,***
 
@@ -1794,7 +1799,7 @@ Phần vua nhờ kiên tâm hành trì các pháp chân chánh, về sau đư�
 
 -ooOoo-
 
-**516. Chuyện khỉ chúa (Tiền thân Mahàkapi)**
+### 516. Chuyện khỉ chúa (Tiền thân Mahàkapi) {#516}
 
 **Tương truyền đại đế xứ Kà-si..,**
 
@@ -2064,13 +2069,13 @@ Và trong lúc kẻ kia đang tâu trình vua, ngay chính thời điểm ấy
 
 -ooOoo-
 
-**517. Tiền thân Dakarakkhasa**
+### 517. Tiền thân Dakarakkhasa {#517}
 
 *Chuyện này sẽ được trình bày trong Tiền thân số 546, Mahà Ummagga (Ðường hầm lớn), tập VII.*
 
 -ooOoo-
 
-**518. Chuyện long vương Pandara (Tiền thân Pandara)**
+### 518. Chuyện long vương Pandara (Tiền thân Pandara) {#518}
 
 ***Người nào chuyện bí mật đem phơi..,***
 
@@ -2440,7 +2445,7 @@ Vì chính lời kia của chúa Rồng*
 
 -ooOoo-
 
-**519. Chuyện Hoàng hậu Sambulà (Tiền thân Sambulà)**
+### 519. Chuyện Hoàng hậu Sambulà (Tiền thân Sambulà) {#519}
 
 ***Run rẩy nép mình dáng hãi kinh..,***
 
@@ -2764,7 +2769,7 @@ Từ đó nhà vua cùng hoàng hậu sống hạnh phúc bên nhau, thực hà
 
 -ooOoo-
 
-**520. Chuyện vị thần cây Tindu (Tiền thân Gandatindu)**
+### 520. Chuyện vị thần cây Tindu (Tiền thân Gandatindu) {#520}
 
 ***Lòng nhiệt thành là hướng Niết bàn..,***
 

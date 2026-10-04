@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+
 # [04] Chương III – Phẩm Ba Bài Kệ (tt)
 
 **CHƯƠNG III**
 
 **PHẨM BA BÀI KỆ (tt)**
 
-**274. Chuyện Tham Ăn (Tiền thân Lola)**
+### 274. Chuyện Tham Ăn (Tiền thân Lola) {#274}
 
 ***Cô hạc này là ai thế nhỉ..,***
 
@@ -83,7 +90,7 @@ Kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ðế. Ở p
 
 -ooOoo-
 
-**275. Chuyện Tham Ăn (Tiền thân Lola)**
+### 275. Chuyện Tham Ăn (Tiền thân Lola) {#275}
 
 ***Hạc kia xinh đẹp là ai..,***
 
@@ -118,7 +125,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ðế. �
 
 -ooOoo-
 
-**276. Chuyện Chánh Pháp Nước Kuru (Tiền thân Kurudhamma)**
+### 276. Chuyện Chánh Pháp Nước Kuru (Tiền thân Kurudhamma) {#276}
 
 ***Biết ngài tín hạnh cao sâu..,***
 
@@ -492,7 +499,7 @@ Khi kể xong pháp thoại này, bậc Ðạo sư tuyên thuyết Tứ Ðế v�
 
 -ooOoo-
 
-**277. Chuyện Chim Bồ Câu (Tiền thân Romaka)**
+### 277. Chuyện Chim Bồ Câu (Tiền thân Romaka) {#277}
 
 ***Dãy đồi này năm mươi năm lẻ một..,***
 
@@ -545,7 +552,7 @@ Khi bậc Ðạo Sư kể xong Pháp thoại này, Ngài nhận diện Tiền th
 
 -ooOoo-
 
-**278. Chuyện Con Trâu (Tiền thân Mahisa)**
+### 278. Chuyện Con Trâu (Tiền thân Mahisa) {#278}
 
 ***Sao ngài vẫn kiên trì..,***
 
@@ -612,7 +619,7 @@ Khi bậc Ðạo Sư kể xong Pháp thoại này, Ngài tuyên thuyết Tứ Ð
 
 -ooOoo-
 
-**279. Chuyện Con Hạc (Tiền thân Satapatta)**
+### 279. Chuyện Con Hạc (Tiền thân Satapatta) {#279}
 
 ***Như chàng trai trẻ trên đường..,***
 
@@ -721,7 +728,7 @@ Khi bậc Ðạo Sư diễn giảng xong đề tài này, Ngài nhận diện Ti
 
 -ooOoo-
 
-**280. Chuyện Kẻ Phá Hư Giỏ (Tiền thân Puta-Dùsaka)**
+### 280. Chuyện Kẻ Phá Hư Giỏ (Tiền thân Puta-Dùsaka) {#280}
 
 ***Hẳn chúa đàn có tài khéo léo..,***
 
@@ -774,7 +781,7 @@ Khi kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 – Bấy giờ con Khỉ là cậu bé phá hư các giỏ kia, còn người trí nọ là Ta.
 
-**281. Chuyện Trái Xoài Chính Trung (Tiền thân Abkhantara)**
+### 281. Chuyện Trái Xoài Chính Trung (Tiền thân Abkhantara) {#281}
 
 ***Có cây nọ trên cành mang trái..,***
 
@@ -1007,7 +1014,7 @@ Khi bậc Ðạo Sư kể xong Pháp thoại này, Ngài nhận diện Tiền th
 
 -ooOoo-
 
-**282. Chuyện Điều Tốt Nhất (Tiền thân Seyya)**
+### 282. Chuyện Điều Tốt Nhất (Tiền thân Seyya) {#282}
 
 ***Ðiều tốt nhất các khanh nên biết..,***
 
@@ -1090,7 +1097,7 @@ Khi bậc Ðạo Sư kể xong Pháp thoại này, Ngài nhận diện Tiền th
 
 -ooOoo-
 
-**283. Chuyện Con Heo Rừng Của Thợ Mộc (Tiền thân Vanddahaki – Sùkara)**
+### 283. Chuyện Con Heo Rừng Của Thợ Mộc (Tiền thân Vanddahaki – Sùkara) {#283}
 
 ***Mồi ngon nhất bạn luôn luôn được..,***
 
@@ -1275,7 +1282,7 @@ Khi bậc Ðạo Sư kể xong Pháp thoại này, Ngài nhận diện Tiền th
 
 -ooOoo-
 
-**284. Chuyện Vận May (Tiền thân Siri)**
+### 284. Chuyện Vận May (Tiền thân Siri) {#284}
 
 ***Những của cải do mình tạo dựng…,***
 
@@ -1430,7 +1437,7 @@ Rồi Ngài nhận diện Tiền thân:
 
 -ooOoo-
 
-**285. Chuyện Heo Rừng Trong Hang Thủy Tinh (Tiền thân Manisùkara)**
+### 285. Chuyện Heo Rừng Trong Hang Thủy Tinh (Tiền thân Manisùkara) {#285}
 
 ***Vào địa ngục người ưa nói dối…,***
 

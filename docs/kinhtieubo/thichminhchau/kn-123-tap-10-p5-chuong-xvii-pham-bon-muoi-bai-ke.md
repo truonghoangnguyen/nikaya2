@@ -1,12 +1,17 @@
-# [05] Chương XVII – Phẩm Bốn Mươi Bài Kệ
+---
+title: Chuyện Tiền Thân Phần V
+---
 
-#### [C17](#c17)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+
+# [05] Chương XVII – Phẩm Bốn Mươi Bài Kệ
 
 **Chương XVII**
 
 **Phẩm Bốn Mười Bài Kệ**
 
-**521. Chuyện ba con chim (Tiền thân Tesakuna)**
+### 521. Chuyện ba con chim (Tiền thân Tesakuna) {#521}
 
 ***Điều này cha muốn hỏi Ves-san …,***
 
@@ -419,7 +424,7 @@ Lời giáo huấn của ngài đã tiếp tục có hiệu lực trong bốn m
 
 -ooOoo-
 
-**522. Chuyện đại nhân thiện xạ Sarabhanga (Tiền thân Sarabhanga)**
+### 522. Chuyện đại nhân thiện xạ Sarabhanga (Tiền thân Sarabhanga) {#522}
 
 ***Vòng vàng, xiêm áo thật cao sang …,***
 
@@ -1067,7 +1072,7 @@ Rồi Ngài giảng bày các Thánh đế và nhận diện Tiền thân:
 
 -ooOoo-
 
-**523. Chuyện thiên nữ Alambusà (Tiền thân Alambusà)**
+### 523. Chuyện thiên nữ Alambusà (Tiền thân Alambusà) {#523}
 
 ***Thiên chủ In-dra, đấng vạn năng…,***
 
@@ -1423,7 +1428,7 @@ Thánh nhân nào phá bỏ lời nguyền”.*
 
 -ooOoo-
 
-**524. Chuyện long vương Samkhapàla (Tiền thân Samkhapàla)**
+### 524. Chuyện long vương Samkhapàla (Tiền thân Samkhapàla) {#524}
 
 ***Dáng điệu thanh tao, tướng đẹp xinh…,***
 
@@ -1826,7 +1831,7 @@ Còn vua Samkhapàla. trong suốt quãng đời còn lại, chuyên tâm hành
 
 -ooOoo-
 
-**525. Chuyện tiểu Sutasoma (Tiền thân Culla-Sutasoma)**
+### 525. Chuyện tiểu Sutasoma (Tiền thân Culla-Sutasoma) {#525}
 
 ***Hiền hữu, thần dân thụ họp đây..,***
 

@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+
 # [07] Chương IV – Phẩm Bốn Bài Kệ (tt)
 
 **CHƯƠNG IV**
 
 **PHẨM BỐN BÀI KỆ (tt)**
 
-**310. Chuyện Vị Quốc Sư Sayha (Tiền thân Sayha)**
+### 310. Chuyện Vị Quốc Sư Sayha (Tiền thân Sayha) {#310}
 
 ***Trên đời chẳng ngai vàng, vương quốc…,***
 
@@ -70,7 +77,7 @@ Khi bậc Ðạo Sư kể xong Pháp thoại này, Ngài tuyên thuyết Tứ Ð
 
 -ooOoo-
 
-**311. Chuyện Cây Nimbo (Tiền thân Pucimanda)**
+### 311. Chuyện Cây Nimbo (Tiền thân Pucimanda) {#311}
 
 ***Anh trộm, dậy đi thôi…,***
 
@@ -142,7 +149,7 @@ Sau khi chấm dứt bài thuyết giảng, bậc Ðạo Sư nhận diện Tiề
 
 -ooOoo-
 
-**312. Chuyện Ẩn Sĩ Kassapa Chậm Trễ (Tiền thân Kassapamandiya)**
+### 312. Chuyện Ẩn Sĩ Kassapa Chậm Trễ (Tiền thân Kassapamandiya) {#312}
 
 ***Trẻ khờ dại có điều sai trái…,***
 
@@ -216,7 +223,7 @@ Kể xong Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**313. Chuyện Đạo Lý Kham Nhẫn (Tiền thân Khantivàdi)**
+### 313. Chuyện Đạo Lý Kham Nhẫn (Tiền thân Khantivàdi) {#313}
 
 ***Kẻ nào xẻo mũi, cắt tai…,***
 
@@ -366,7 +373,7 @@ Khi bậc Ðạo Sư thuyết giảng xong, Ngài tuyên thuyết Tứ Ðế. �
 
 -ooOoo-
 
-**314. Chuyện Địa Ngục Nồi Sắt (Tiền thân Lohakumbhi)**
+### 314. Chuyện Địa Ngục Nồi Sắt (Tiền thân Lohakumbhi) {#314}
 
 ***Ðúng phần của, ta nào ban bố…,***
 
@@ -522,7 +529,7 @@ Khi bậc Ðạo Sư thuyết giảng xong, Ngài nhận diện Tiền thân:
 
 -ooOoo-
 
-**315. Chuyện Miếng Thịt (Tiền thân Mamsa)**
+### 315. Chuyện Miếng Thịt (Tiền thân Mamsa) {#315}
 
 ***Ðối với kẻ cầu xin ân huệ…,***
 
@@ -646,7 +653,7 @@ Khi bậc Ðạo Sư chấm dứt bài thuyết giảng, Ngài nhận diện Ti�
 
 -ooOoo-
 
-**316. Chuyện Con Thỏ (Tiền thân Sasa)**
+### 316. Chuyện Con Thỏ (Tiền thân Sasa) {#316}
 
 ***Bảy cá hồng tôi đã gọn mang…,***
 
@@ -777,7 +784,7 @@ Sau khi kể xong Pháp thoại này, bậc Ðạo Sư tuyên thuyết Tứ Ð�
 
 -ooOoo-
 
-**317. Chuyện Khóc Người Chết (Tiền thân Matarodana)**
+### 317. Chuyện Khóc Người Chết (Tiền thân Matarodana) {#317}
 
 ***Khóc người sống hơn khóc kẻ chết…,***
 

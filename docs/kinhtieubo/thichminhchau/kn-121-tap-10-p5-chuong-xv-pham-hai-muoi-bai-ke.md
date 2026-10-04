@@ -1,6 +1,11 @@
-# [03] Chương XV – Phẩm Hai Mươi Bài Kệ
+---
+title: Chuyện Tiền Thân Phần V
+---
 
-#### [C15](#c15)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+
+# [03] Chương XV – Phẩm Hai Mươi Bài Kệ
 
 **Chương XV**
 
@@ -466,7 +471,7 @@ Vì giết Mà-tan, bậc lẫy lừng.*
 
 -ooOoo-
 
-**498. Chuyện Đôi Bạn Citta-Sambhùta (Tiền thân Citta-Sambhùta)**
+### 498. Chuyện Đôi Bạn Citta-Sambhùta (Tiền thân Citta-Sambhùta) {#498}
 
 ***Chóng chầy thiện nghiệp đều mang quả…..***
 
@@ -1180,13 +1185,13 @@ Người sẽ sinh thiên chẳng lỗi lầm.*
 
 -ooOoo-
 
-**500. Chuyện Thần Nữ Cát Tường (Tiền thân Sirimanda)**
+### 500. Chuyện Thần Nữ Cát Tường (Tiền thân Sirimanda) {#500}
 
 Chuyện Thần nữ Cát Tường này sẽ được kể đầy đủ trong chuyện Ðường Hầm Lớn (Mahà-Ummagga) số 546.
 
 -ooOoo-
 
-**501. Chuyện Lộc Vương Rohanta (Tiền thân Rohanta Miga)**
+### 501. Chuyện Lộc Vương Rohanta (Tiền thân Rohanta Miga) {#501}
 
 ***Hãi kinh thần chết hỡi Citta…..***
 
@@ -1598,7 +1603,7 @@ Còn vua vẫn tuân hành lời giáo huấn của bậc Đại Sĩ, nên về
 
 -ooOoo-
 
-**502. Chuyện Chúa Thiên Nga (Tiền thân Hamsa)**
+### 502. Chuyện Chúa Thiên Nga (Tiền thân Hamsa) {#502}
 
 ***Kìa đám hằng nga cất cánh bay….***
 
@@ -1828,7 +1833,7 @@ Bậc Ðại sĩ đã thuyết giáo như vậy cho vua suốt đêm ròng. L�
 
 -ooOoo-
 
-**503. Chuyện anh vũ Sattigumba (Tiền thân Sattigumba)**
+### 503. Chuyện anh vũ Sattigumba (Tiền thân Sattigumba) {#503}
 
 ***Vua xứ Pãn-ca với đạo quân..,***
 
@@ -2067,7 +2072,7 @@ Và ngài đã thuyết phục được các vị nhận lời mời. Khi hồ
 
 -ooOoo-
 
-**504. Chuyện Ðại vương Bhallàtiya (Tiền thân Bhallàtiya)**
+### 504. Chuyện Ðại vương Bhallàtiya (Tiền thân Bhallàtiya) {#504}
 
 ***Ngày xưa có đại đế Bhal-là..,***
 
@@ -2262,7 +2267,7 @@ Từ đó về sau, vua xứ Kosala chung sống sắt cầm hòa hợp với h
 
 -ooOoo-
 
-**505. Chuyện vương tử hoan lạc (Tiền thân Somanassa)**
+### 505. Chuyện vương tử hoan lạc (Tiền thân Somanassa) {#505}
 
 ***Kìa ai phá hoại hoặc khinh chê..,***
 
@@ -2565,7 +2570,7 @@ Về sau, bậc Ðại sĩ tu tập làm phát khởi năng lực Thiền địn
 
 -ooOoo-
 
-**506. Chuyện long vương Campeyya (Tiền thân Campeyya)**
+### 506. Chuyện long vương Campeyya (Tiền thân Campeyya) {#506}
 
 ***Ai đó như tia chớp sáng bừng..,***
 
@@ -2985,7 +2990,7 @@ Xong xuôi, vua giã từ cảnh giới Long vương trong muôn vẻ huy hoàng
 
 -ooOoo-
 
-**507. Chuyện sức cám dỗ mạnh (Tiền thân Mahà-Palobhana)**
+### 507. Chuyện sức cám dỗ mạnh (Tiền thân Mahà-Palobhana) {#507}
 
 ***Từ cõi Phạm thiên một vị thần..,***
 
@@ -3184,13 +3189,13 @@ Dục tham lắng dịu, chàng thề nguyện:\
 
 -ooOoo-
 
-**508. Chuyện năm vị Hiền nhân (Tiền thân Panca-Pandita)**
+### 508. Chuyện năm vị Hiền nhân (Tiền thân Panca-Pandita) {#508}
 
 *Chuyện Tiền thân về năm vị Hiền nhân sẽ được kể trong Tiền thân Mahà-Ummagga (Ðường Hầm lớn) số 546, tập VII.*
 
 -ooOoo-
 
-**509. Chuyện Hiền giả quản tượng (Tiền thân Hatthipàla)**
+### 509. Chuyện Hiền giả quản tượng (Tiền thân Hatthipàla) {#509}
 
 ***Cuối cùng thấy một Bà-la-môn..,***
 
@@ -3739,7 +3744,7 @@ Do vậy bậc Thế Tôn bảo:
 
 -ooOoo-
 
-**510. Chuyện vương tử trong ngôi nhà sắt (Tiền thân Ayoghara)**
+### 510. Chuyện vương tử trong ngôi nhà sắt (Tiền thân Ayoghara) {#510}
 
 ***Mầm sống một khi nhập tử cung…***
 

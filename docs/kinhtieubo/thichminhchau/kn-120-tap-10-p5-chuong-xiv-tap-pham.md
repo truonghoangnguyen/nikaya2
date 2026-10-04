@@ -1,12 +1,17 @@
-# [02] Chương XIV – Tạp Phẩm
+---
+title: Chuyện Tiền Thân Phần V
+---
 
-#### [C14](#c14)
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+
+# [02] Chương XIV – Tạp Phẩm
 
 **Chương XIV**
 
 **Tạp phẩm**
 
-**484. Chuyện cánh đồng lúa (Tiền thân Sàlikedàra)**
+### 484. Chuyện cánh đồng lúa (Tiền thân Sàlikedàra) {#484}
 
 ***Mùa lúa chiêm vàng thật đẹp thay..,***
 
@@ -217,7 +222,7 @@ Khi bậc Ðạo sư đã chấm dứt Pháp thoại này, Ngài bảo:
 
 -ooOoo-
 
-**485. Chuyện đôi ca thần Canda (Tiền thân Canda Kinnara)**
+### 485. Chuyện đôi ca thần Canda (Tiền thân Canda Kinnara) {#485}
 
 ***Chắc hẳn đời ta sắp sửa tàn..,***
 
@@ -430,7 +435,7 @@ Mải mê trò chuyện, phút bình an.*
 
 -ooOoo-
 
-**486. Chuyện chúa chim ưng (Tiền thân Mahà-Ukkusa)**
+### 486. Chuyện chúa chim ưng (Tiền thân Mahà-Ukkusa) {#486}
 
 ***Dân chúng đang nhen lửa đảo này…***
 
@@ -690,7 +695,7 @@ Như vậy, chim mái nêu rõ đặc tính của tình bằng hữu qua sáu v
 
 -ooOoo-
 
-**487. Chuyện nam tử Uddalaka (Tiền thân Uddalaka)**
+### 487. Chuyện nam tử Uddalaka (Tiền thân Uddalaka) {#487}
 
 ***Hàm răng bẩn, áo da dê, tóc bện…,***
 
@@ -939,7 +944,7 @@ Vua chấp nhận, làm theo lời ngài dạy và tất cả bọn ấy đều
 
 -ooOoo-
 
-**488. Chuyện củ sen (Tiền thân Bhisa)**
+### 488. Chuyện củ sen (Tiền thân Bhisa) {#488}
 
 ***Mong nhiều trâu ngựa, lắm kim ngân…,***
 
@@ -1257,7 +1262,7 @@ Chúng Tăng giờ hiểu Tiền thân này.*
 
 -ooOoo-
 
-**489. Chuyện Đại Vương Huy Hoàng (Tiền thân Suruci)**
+### 489. Chuyện Đại Vương Huy Hoàng (Tiền thân Suruci) {#489}
 
 ***Thiếp là chánh hậu chúa Ru-ci…,***
 
@@ -1628,7 +1633,7 @@ Vua Mahà Panàda chuyên tâm làm thiện sự và bố thí nên lúc mạng 
 
 -ooOoo-
 
-**490. Chuyện năm vị hành trì trai giới (Tiền thân Pancùposatha)**
+### 490. Chuyện năm vị hành trì trai giới (Tiền thân Pancùposatha) {#490}
 
 ***Ta chắc giờ chim thiểu dục rồi…,***
 
@@ -1834,7 +1839,7 @@ Bằng cách ấy, bậc Ðạo Sư giải thích việc hành trì hạnh nguy�
 
 -ooOoo-
 
-**491. Chuyện Ðại Khổng Tước (Tiền thân Mahà-Mora)**
+### 491. Chuyện Ðại Khổng Tước (Tiền thân Mahà-Mora) {#491}
 
 ***Bắt ta, bạn sẽ được ngàn vàng…,***
 
@@ -2075,7 +2080,7 @@ Khi vừa bị bắt, giống Ta đây.*
 
 -ooOoo-
 
-**492. Chuyện lợn rừng của thợ mộc (Tiền thân Taccha-Sùkara)**
+### 492. Chuyện lợn rừng của thợ mộc (Tiền thân Taccha-Sùkara) {#492}
 
 ***Lang thang tìm kiếm khắp xa gần…,***
 
@@ -2345,7 +2350,7 @@ Chú Lợn rừng con người Thợ mộc,\
 
 -ooOoo-
 
-**493. Chuyện vị đại thương nhân (Tiền thân Mahà-Vànija)**
+### 493. Chuyện vị đại thương nhân (Tiền thân Mahà-Vànija) {#493}
 
 ***Từ nhiều quốc độ, các thuơng nhân…,***
 
@@ -2526,7 +2531,7 @@ Phát nguyện sống đời thanh tịnh tâm.*
 
 -ooOoo-
 
-**494. Chuyện đại vương Sàdhìna (Tiền thân Sàdhìna)**
+### 494. Chuyện đại vương Sàdhìna (Tiền thân Sàdhìna) {#494}
 
 ***Việc lạ trên trần đã được xem…,***
 
@@ -2742,7 +2747,7 @@ Và Ngài tuyên thuyết các Sự Thật. Bấy giờ vào lúc kết thúc c�
 
 -ooOoo-
 
-**495. Chuyện Mười Hạng Bà-La-Môn ( Tiền thân Dasa-Bràhmana)**
+### 495. Chuyện Mười Hạng Bà-La-Môn ( Tiền thân Dasa-Bràhmana) {#495}
 
 ***Đại Đế Yud-dhi thật chánh chân …..***
 
@@ -3091,7 +3096,7 @@ Các vị Độc Giác Phật ở Hồ Anotatta, đợi cho đến lúc cảm t
 
 -ooOoo-
 
-**496. Chuyện cúng thực phẩm đúng cấp bậc (Tiền thân Bhikkhà-Parampara)**
+### 496. Chuyện cúng thực phẩm đúng cấp bậc (Tiền thân Bhikkhà-Parampara) {#496}
 
 ***Ta trông ngài xứng đáng ngôi cao…..***
 

@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm KURUNGA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [03] PHẨM KURUNGA
 
 **PHẨM KURUNGA**
 
-**21. CHUYỆN CON NAI SƠN DƯƠNG (Tiền thân Kurunga)**
+### 21. CHUYỆN CON NAI SƠN DƯƠNG (Tiền thân Kurunga) {#21}
 
 Con nai biết rõ được…,
 
@@ -57,7 +63,7 @@ Thuyết pháp thoại này xong, bậc Ðạo Sư kết hợp hai câu chuyện
 
 ---
 
-**22. CHUYỆN CON CHÓ (Tiền thân Kukkura)**
+### 22. CHUYỆN CON CHÓ (Tiền thân Kukkura) {#22}
 
 Những con chó lớn lên…,
 
@@ -172,7 +178,7 @@ Thuyết pháp thoại này xong, và kết hợp hai mẩu chuyện với nhau,
 
 ---
 
-**23. CHUYỆN CON NGỰA THUẦN CHỦNG (Tiền thân Bhojanìya)**
+### 23. CHUYỆN CON NGỰA THUẦN CHỦNG (Tiền thân Bhojanìya) {#23}
 
 Nay tuy nằm một bên…,
 
@@ -245,7 +251,7 @@ Sau khi nói xong, Thế Tôn thuyết giảng Bốn Sự thật. Cuối bài gi
 
 ---
 
-**24. CHUYỆN ÐÔI NGỰA NÒI TỐT (Tiền thân Àjanna)**
+### 24. CHUYỆN ÐÔI NGỰA NÒI TỐT (Tiền thân Àjanna) {#24}
 
 Dẫu thời nào, chỗ nào…
 
@@ -276,7 +282,7 @@ Sau khi kể câu chuyện, bậc Ðạo Sư trình bày bốn Sự thật. Cu�
 
 ---
 
-**25. CHUYỆN BẾN TẮM (Tiền thân Tittha)**
+### 25. CHUYỆN BẾN TẮM (Tiền thân Tittha) {#25}
 
 Hãy thay bến nước khác…,
 
@@ -397,7 +403,7 @@ Sau khi thuyết pháp thoại này xong, và kết hợp hai câu chuyện vớ
 
 ---
 
-**26. CHUYỆN CON VOI MAHILÀMUKHA (Tiền thân Mahilàmukha)**
+### 26. CHUYỆN CON VOI MAHILÀMUKHA (Tiền thân Mahilàmukha) {#26}
 
 Trước nghe lời ăn trộm…,
 
@@ -507,7 +513,7 @@ Sau khi kể lại pháp thoại này và kết hợp hai mẩu chuyện với n
 
 ---
 
-**27. CHUYỆN ÐÔI BẠN THÂN THIẾT (Tiền thân Abhinha)**
+### 27. CHUYỆN ÐÔI BẠN THÂN THIẾT (Tiền thân Abhinha) {#27}
 
 Một miếng, nó không ăn…,
 
@@ -586,7 +592,7 @@ Sau khi kể lại pháp thoại này, và thuyết giảng Bốn Sự thật, b
 
 ---
 
-**28. CHUYỆN CON BÒ ÐẠI HỶ (Tiền thân Nandivisàla)**
+### 28. CHUYỆN CON BÒ ÐẠI HỶ (Tiền thân Nandivisàla) {#28}
 
 Chỉ nói lời từ hoà…,
 
@@ -679,7 +685,7 @@ Sau khi bậc Ðạo sư kể pháp thoại này, Ngài nhận diện Tiền th�
 
 ---
 
-**29. CHUYỆN CON BÒ ÐEN (Tiền thân Kanha)**
+### 29. CHUYỆN CON BÒ ÐEN (Tiền thân Kanha) {#29}
 
 Với gánh nặng phải mang …,
 
@@ -758,7 +764,7 @@ Thế Tôn kết hợp hai câu chuyện với nhau và nhận diện Tiền th�
 
 ---
 
-**30. CHUYỆN CON HEO MUNIKA (Tiền thân Munika)**
+### 30. CHUYỆN CON HEO MUNIKA (Tiền thân Munika) {#30}
 
 Chớ ham Munika …,
 

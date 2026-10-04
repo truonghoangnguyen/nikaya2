@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần II
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
 # [10] PHẨM SIGÀLA(Chó rừng)
 
 **PHẨM SIGÀLA (Chó rừng)**
 
-**241. CHUYỆN VUA CHÓ RỪNG SABBADÀTHA (Tiền thân Sabbadàtha)**
+### 241. CHUYỆN VUA CHÓ RỪNG SABBADÀTHA (Tiền thân Sabbadàtha) {#241}
 
 ***Kiên trì trong kiêu mạn…,***
 
@@ -122,7 +128,7 @@ Với các loài bốn chân.*
 
 -ooOoo-
 
-**242. CHUYỆN CON CHÓ (Tiền thân Sunakha)**
+### 242. CHUYỆN CON CHÓ (Tiền thân Sunakha) {#242}
 
 ***Ngu thay, con chó này…,***
 
@@ -172,7 +178,7 @@ Nó nói vậy xong, chờ khi mọi người đã ngủ, nó cắn dây thừng
 
 -ooOoo-
 
-**243. CHUYỆN NHẠC SĨ GUTTILA (Tiền thân Guttila)**
+### 243. CHUYỆN NHẠC SĨ GUTTILA (Tiền thân Guttila) {#243}
 
 ***Ta có một đệ tử…,***
 
@@ -510,7 +516,7 @@ Bảy ngày đã qua, Thiên chủ Ðế Thích ra lệnh cho thần lái xe Mà
 
 -ooOoo-
 
-**244. CHUYỆN LY DỤC (Tiền thân Viticcha)**
+### 244. CHUYỆN LY DỤC (Tiền thân Viticcha) {#244}
 
 ***Cái thấy, nó không muốn…,***
 
@@ -573,7 +579,7 @@ Ta kính bậc ly dục.
 
 -ooOoo-
 
-**245. CHUYỆN KINH PHÁP MÔN CĂN BẢN (Tiền thân Mùlapariyàya)**
+### 245. CHUYỆN KINH PHÁP MÔN CĂN BẢN (Tiền thân Mùlapariyàya) {#245}
 
 ***Thời gian ăn hữu tình…,***
 
@@ -667,7 +673,7 @@ Họ liền xin lỗi, rồi nhiếp phục lòng kiêu mạn và hầu hạ B�
 
 -ooOoo-
 
-**246. CHUYỆN LỜI PHỈ BÁNG (Tiền thân Telovàda)**
+### 246. CHUYỆN LỜI PHỈ BÁNG (Tiền thân Telovàda) {#246}
 
 ***Người ác không tự chế…,***
 
@@ -719,7 +725,7 @@ Bồ-tát thuyết pháp như vậy rồi từ chỗ ngồi đứng dậy và ra
 
 -ooOoo-
 
-**247. CHUYỆN HOÀNG TỬ PÀDANJALI (Tiền thân Pàdanjali)**
+### 247. CHUYỆN HOÀNG TỬ PÀDANJALI (Tiền thân Pàdanjali) {#247}
 
 ***Thật sự hoàng tử này…,***
 
@@ -779,7 +785,7 @@ Các đại thần biết được Pàdanjali chỉ là kẻ ngu đần, nên h�
 
 -ooOoo-
 
-**248. CHUYỆN THÍ DỤ CÂY KIMSUKA (Tiền thân Kimsukopama)**
+### 248. CHUYỆN THÍ DỤ CÂY KIMSUKA (Tiền thân Kimsukopama) {#248}
 
 ***Tất cả các con ta…,***
 
@@ -875,7 +881,7 @@ Với cây Kim-su-ka.
 
 -ooOoo-
 
-**249. CHUYỆN CON KHỈ SÀLAKA (Tiền thân Sàlaka)**
+### 249. CHUYỆN CON KHỈ SÀLAKA (Tiền thân Sàlaka) {#249}
 
 ***Con là con độc nhất…,***
 
@@ -949,7 +955,7 @@ Vậy tôi xin từ biệt!
 
 -ooOoo-
 
-**250. CHUYỆN CON KHỈ (Tiền thân Kapi)**
+### 250. CHUYỆN CON KHỈ (Tiền thân Kapi) {#250}
 
 ***Ẩn sĩ này vui thích…,***
 

@@ -4,7 +4,7 @@
 
 Bài kinh này thuộc lớp văn bản muộn hơn so với những bài kinh cốt lõi, dựa trên các dấu hiệu:
 
-* **Nguồn gốc từ truyện Tiền thân (Jātaka):** Câu chuyện về vua Maghadeva và vua Nimi thực chất là hai câu chuyện Tiền thân (Makhādeva Jātaka - số 9 và Nimi Jātaka - số 541). Trong quá trình truyền khẩu, các nhà biên tập (hoặc các vị sư thuyết pháp) thường lấy các câu chuyện dân gian, đạo đức của Ấn Độ cổ đại, gán cho nó mác "tiền kiếp của Phật" để làm giáo cụ trực quan.
+* **Nguồn gốc từ truyện Tiền thân (Jātaka):** Câu chuyện về vua Maghadeva và vua Nimi thực chất là hai câu chuyện Tiền thân ([Makhādeva Jātaka - số 9](/l?q=ja-9)  và [Nimi Jātaka - số 541](/l?q=541)). Trong quá trình truyền khẩu, các nhà biên tập (hoặc các vị sư thuyết pháp) thường lấy các câu chuyện dân gian, đạo đức của Ấn Độ cổ đại, gán cho "tiền kiếp của Phật".
 * **Sự phóng đại phi thực tế:** Các con số "84.000 năm làm vương tử, 84.000 năm làm vua..." là đặc trưng của văn học thần thoại Ấn Độ giáo và Phật giáo giai đoạn sau, hoàn toàn khác với phong cách thực tế, chừng mực của lớp kinh Sutta nguyên thủy sớm nhất.
 * **Yếu tố thần thoại:** Sự xuất hiện của Đế Thích (Sakka), xe ngựa bay cõi trời, đi tham quan địa ngục và thiên đường... mang đậm màu sắc tôn giáo dân gian, xa rời phương pháp thiền định thực nghiệm tâm lý của Phật giáo sơ kỳ.
 

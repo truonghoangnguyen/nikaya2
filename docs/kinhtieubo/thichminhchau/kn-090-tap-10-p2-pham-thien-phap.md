@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần II
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
 # [03] PHẨM THIỆN PHÁP
 
 **PHẨM THIỆN PHÁP**
 
-**171. CHUYỆN THIỆN PHÁP (Tiền thân Kalyàna-dhamma)**
+### 171. CHUYỆN THIỆN PHÁP (Tiền thân Kalyàna-dhamma) {#171}
 
 ***Thưa Nhân chủ, ở đời…,***
 
@@ -96,7 +102,7 @@ Bồ-tát nói vậy xong, liền được phép vua cho xuất gia. Sau đó, n
 
 -ooOoo-
 
-**172. CHUYỆN NÚI DADDARA (Tiền thân Daddara)**
+### 172. CHUYỆN NÚI DADDARA (Tiền thân Daddara) {#172}
 
 ***Ai đã rống lớn tiếng…,***
 
@@ -168,7 +174,7 @@ Bậc Ðạo Sư nói:
 
 -ooOoo-
 
-**173. CHUYỆN CON VƯỢN (Tiền thân Makkata)**
+### 173. CHUYỆN CON VƯỢN (Tiền thân Makkata) {#173}
 
 ***Có một kẻ khốn cùng…,***
 
@@ -218,7 +224,7 @@ Sau đó Bồ-tát tu tập Bốn Vô lượng tâm từ, bi, hỷ, xả, và kh
 
 -ooOoo-
 
-**174. CHUYỆN CON VƯỢN LỪA DỐI ( Tiền thân Dubhidamakkatta)**
+### 174. CHUYỆN CON VƯỢN LỪA DỐI ( Tiền thân Dubhidamakkatta) {#174}
 
 ***Ta đã cho nhà ngươi…,***
 
@@ -274,7 +280,7 @@ Nghe vậy, Bồ-tát đứng dậy bắt đầu đi. Con vượn ngay lúc ấy
 
 -ooOoo-
 
-**175. CHUYỆN ÐẢNH LỄ MẶT TRỜI (Tiền thân Àdicupatthàna)**
+### 175. CHUYỆN ÐẢNH LỄ MẶT TRỜI (Tiền thân Àdicupatthàna) {#175}
 
 ***Nghe nói mọi chúng sanh…,***
 
@@ -321,7 +327,7 @@ Khi biết được sự man trá của con vượn, họ lấy đá và gậy �
 
 -ooOoo-
 
-**176. CHUYỆN MỘT NẮM ÐẬU (Tiền thân Kalàya-Mutthi)**
+### 176. CHUYỆN MỘT NẮM ÐẬU (Tiền thân Kalàya-Mutthi) {#176}
 
 ***Thưa Nhân chủ, vượn này…,***
 
@@ -385,7 +391,7 @@ Vua nghe bậc Ðạo Sư thuyết pháp xong, từ chỗ ngồi đứng dậy, 
 
 -ooOoo-
 
-**177. CHUYỆN CÂY TINDUKA (Tiền thân Tinduka)**
+### 177. CHUYỆN CÂY TINDUKA (Tiền thân Tinduka) {#177}
 
 ***Tay cầm cung, ống tên…,***
 
@@ -449,7 +455,7 @@ Khi thấy một ngôi nhà ở biên địa có lửa đốt lên và một bà
 
 -ooOoo-
 
-**178. CHUYỆN CON RÙA (Tiền thân Kacchapa)**
+### 178. CHUYỆN CON RÙA (Tiền thân Kacchapa) {#178}
 
 ***Tại đây ta sanh ra…,***
 
@@ -513,7 +519,7 @@ Như vậy với sự tinh thông của một bậc Giác ngộ, Bồ-tát khuy�
 
 -ooOoo-
 
-**179. CHUYỆN BÀ-LA-MÔN SATADHAMMA (Tiền thân Satadhamma)**
+### 179. CHUYỆN BÀ-LA-MÔN SATADHAMMA (Tiền thân Satadhamma) {#179}
 
 ***Nhỏ thay dư tàn ấy…,***
 
@@ -599,7 +605,7 @@ Sống không được hoan hỷ.*
 
 -ooOoo-
 
-**180. CHUYỆN KHÓ CHO (Tiền thân Duddada)**
+### 180. CHUYỆN KHÓ CHO (Tiền thân Duddada) {#180}
 
 ***Cho những gì khó cho…,***
 

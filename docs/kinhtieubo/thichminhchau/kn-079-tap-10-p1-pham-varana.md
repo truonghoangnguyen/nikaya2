@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm VARANA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [08] PHẨM VARANA
 
 **PHẨM VARANA**
 
-**71. CHUYỆN CÂY VARANA (Tiền thân Vanara)**
+### 71. CHUYỆN CÂY VARANA (Tiền thân Vanara) {#71}
 
 Ai có việc làm trước…,
 
@@ -71,7 +77,7 @@ Sau khi bậc Ðạo Sư kể pháp thoại này, Ngài kết hợp hai mẩu ch
 
 ---
 
-**72. CHUYỆN TƯỢNG VƯƠNG ÐỨC HẠNH (Tiền thân Sìlavanàga)**
+### 72. CHUYỆN TƯỢNG VƯƠNG ÐỨC HẠNH (Tiền thân Sìlavanàga) {#72}
 
 Con người không biết ơn…,
 
@@ -170,7 +176,7 @@ Sau khi kể pháp thoại ấy, bậc Ðạo Sư nhận diện Tiền thân nh�
 
 ---
 
-**73.CHUYỆN ÐÚNG VẬY CHĂNG? (Tiền thân Saccankira)**
+### 73.CHUYỆN ÐÚNG VẬY CHĂNG? (Tiền thân Saccankira)
 
 Như vậy, họ nói thật…
 
@@ -331,7 +337,7 @@ Sau khi kể câu chuyện quá khứ, bậc Ðạo Sư kết hợp hai câu chu
 
 ---
 
-**74. CHUYỆN LUẬT CÂY RỪNG (Tiền thân Rukkadhamma)**
+### 74. CHUYỆN LUẬT CÂY RỪNG (Tiền thân Rukkadhamma) {#74}
 
 Lành thay, nhiều bà con…,
 
@@ -384,7 +390,7 @@ Sau khi thuyết pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân
 
 ---
 
-**75. CHUYỆN CON CÁ (Tiền thân Maccha)**
+### 75. CHUYỆN CON CÁ (Tiền thân Maccha) {#75}
 
 Nổi sấm, Paj-ju-na…,
 
@@ -457,7 +463,7 @@ Sau khi kể lại pháp thoại này, bậc Ðạo Sư kết hợp hai câu chu
 
 ---
 
-**76. CHUYỆN NGƯỜI KHÔNG SỢ HÃI (Tiền thân Asankiya)**
+### 76. CHUYỆN NGƯỜI KHÔNG SỢ HÃI (Tiền thân Asankiya) {#76}
 
 Trong làng, ta không sợ…,
 
@@ -520,7 +526,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư kết hợp hai câu chuyện,
 
 ---
 
-**77. CHUYỆN GIẤC MỘNG LỚN (Tiền thân Mahàsupina)**
+### 77. CHUYỆN GIẤC MỘNG LỚN (Tiền thân Mahàsupina) {#77}
 
 Trước bò đực cây con…,
 
@@ -754,7 +760,7 @@ Sau khi bảo vua hủy bỏ việc tế đàn và giải cứu vô số sinh li
 
 ---
 
-**78. CHUYỆN VỊ TRIỆU PHÚ ILLÌSA (Tiền thân Illìsa).**
+### 78. CHUYỆN VỊ TRIỆU PHÚ ILLÌSA (Tiền thân Illìsa). {#78}
 
 Cả hai què và còm…,
 
@@ -1073,7 +1079,7 @@ Sau khi bậc Ðạo Sư kể pháp thoại, Ngài kết hợp hai câu chuyện
 
 ---
 
-**79. CHUYỆN TIẾNG TRỐNG ỒN ÀO (Tiền thân Kharasara)**
+### 79. CHUYỆN TIẾNG TRỐNG ỒN ÀO (Tiền thân Kharasara) {#79}
 
 Ăn cướp giết bò xong…,
 
@@ -1114,7 +1120,7 @@ Sau khi bậc Ðạo Sư kể pháp loại này, Ngài kết hợp các câu chu
 
 ---
 
-**80. CHUYỆN NGƯỜI THỢ DỆT BHIMASENA (Tiền thân Bhimasena)**
+### 80. CHUYỆN NGƯỜI THỢ DỆT BHIMASENA (Tiền thân Bhimasena) {#80}
 
 Trước ngươi nói khoác lác…,
 

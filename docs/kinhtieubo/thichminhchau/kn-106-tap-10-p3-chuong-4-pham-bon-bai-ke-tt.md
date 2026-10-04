@@ -1,10 +1,17 @@
+---
+title: Chuyện Tiền Thân Phần III
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+
 # [08] Chương IV – Phẩm Bốn Bài Kệ (tt)
 
 **CHƯƠNG IV**
 
 **PHẨM BỐN BÀI KỆ (tt)**
 
-**318. Chuyện Vòng Hoa Kanavera (Tiền thân Kanavera)**
+### 318. Chuyện Vòng Hoa Kanavera (Tiền thân Kanavera) {#318}
 
 ***Giữa ngày vui đẹp của xuân thời…,***
 
@@ -136,7 +143,7 @@ Khi bậc Ðạo Sư thuyết giảng xong, Ngài tuyên thuyết Tứ Ðế, v�
 
 -ooOoo-
 
-**319. Chuyện Chim Đa Đa (Tiền thân Tittira)**
+### 319. Chuyện Chim Đa Đa (Tiền thân Tittira) {#319}
 
 ***Ðời hạnh phúc suốt ngày tôi sống…,***
 
@@ -196,7 +203,7 @@ Khi bậc Ðạo Sư thuyết giảng xong, Ngài nhận diện Tiền thân:
 
 -ooOoo-
 
-**320. Chuyện Dễ Cho (Tiền thân Succaja)**
+### 320. Chuyện Dễ Cho (Tiền thân Succaja) {#320}
 
 ***Ngài có thể ban phần nhỏ nhặt …,***
 
@@ -334,7 +341,7 @@ Rồi bậc Ðạo Sư nhận diện tiền thân:
 
 -ooOoo-
 
-**321. Chuyện Kẻ Đốt Lều ( Tiền thân Kutidùsaka)**
+### 321. Chuyện Kẻ Đốt Lều ( Tiền thân Kutidùsaka) {#321}
 
 ***Khỉ ạ, chân tay mặt mũi ngươi …,***
 
@@ -455,7 +462,7 @@ Sau khi chấm dứt bài thuyết giảng, bậc Ðạo Sư nhận diện, Ti�
 
 -ooOoo-
 
-**322. Chuyện Tiếng Động Mạnh (Tiền thân Daddabha)**
+### 322. Chuyện Tiếng Động Mạnh (Tiền thân Daddabha) {#322}
 
 ***Từ nơi trú ẩn của tôi đây …,***
 
@@ -611,7 +618,7 @@ Sau khi chấm dứt bài thuyết giảng, bậc Ðạo Sư nhận diện Tiề
 
 -ooOoo-
 
-**323. Chuyện Vua Brahmadatta (Tiền thân Brahmadatta)**
+### 323. Chuyện Vua Brahmadatta (Tiền thân Brahmadatta) {#323}
 
 ***Như thế này là đúng tính chất…,***
 
@@ -705,7 +712,7 @@ Bậc Ðạo Sư chấm dứt bài thuyết giảng và nhận diện Tiền th�
 
 -ooOoo-
 
-**324. Chuyện Thầy Tu Mặc Áo Da (Tiền thân Cammasảtaka)**
+### 324. Chuyện Thầy Tu Mặc Áo Da (Tiền thân Cammasảtaka) {#324}
 
 ***Con vật hảo tâm tỏ ra vâng phục …,***
 
@@ -757,7 +764,7 @@ Sau khi chấm dứt bài thuyết giảng, bậc Ðạo Sư nhận diện Tiề
 
 -ooOoo-
 
-**325. Chuyện Con Tắc Kè (Tiền thân Godha)**
+### 325. Chuyện Con Tắc Kè (Tiền thân Godha) {#325}
 
 ***Kẻ nào đóng vai tu ẩn dật …,***
 

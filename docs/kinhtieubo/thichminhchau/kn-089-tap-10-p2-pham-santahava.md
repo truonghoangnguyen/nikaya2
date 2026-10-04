@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần II-Phẩm SANTAHAVA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
 # [02] PHẨM SANTAHAVA
 
 **PHẨM SANTAHAVA**
 
-**161. CHUYỆN ẨN SĨ INDASAMÀNAGOTTA (Tiền thân Indasamànagotta)**
+### 161. CHUYỆN ẨN SĨ INDASAMÀNAGOTTA (Tiền thân Indasamànagotta) {#161}
 
 ***Chớ giao du thân mật…,***
 
@@ -70,7 +76,7 @@ Sau đó Bồ-tát tu tập Tứ vô lượng tâm và được sanh lên thế 
 
 -ooOoo-
 
-**162. CHUYỆN MỐI THÂN GIAO (Tiền thân Santhava)**
+### 162. CHUYỆN MỐI THÂN GIAO (Tiền thân Santhava) {#162}
 
 ***Không gì độc hại hơn…,***
 
@@ -132,7 +138,7 @@ Nói vậy xong, Bồ-tát đi sâu vào trong núi Tuyết, sống đời xuấ
 
 -ooOoo-
 
-**163. CHUYỆN VUA SUSÌMA (Tiền thân Susìma)**
+### 163. CHUYỆN VUA SUSÌMA (Tiền thân Susìma) {#163}
 
 ***Hơn trăm voi toàn đen…,***
 
@@ -269,7 +275,7 @@ Như vậy Bồ-tát rống lên tiếng rống con sư tử đáp lời vua! Kh
 
 -ooOoo-
 
-**164. CHUYỆN CHIM DIỀU HÂU (Tiền thân Gijjha)**
+### 164. CHUYỆN CHIM DIỀU HÂU (Tiền thân Gijjha) {#164}
 
 ***Diều hâu thấy xác chết…,***
 
@@ -365,7 +371,7 @@ Sau khi can thiệp để thả con diều hâu, nhà đại triệu phú trả 
 
 -ooOoo-
 
-**165. CHUYỆN CON CHUỘT RỪNG (Tiền thân Nakula)**
+### 165. CHUYỆN CON CHUỘT RỪNG (Tiền thân Nakula) {#165}
 
 ***Này vật sanh bào thai…,***
 
@@ -423,7 +429,7 @@ Và khi hai con vật kia mạng chung, chúng cũng đi theo nghiệp của mì
 
 -ooOoo-
 
-**166. CHUYỆN BÀ-LA-MÔN UPASÀLHA (Tiền thân Upasàlha)**
+### 166. CHUYỆN BÀ-LA-MÔN UPASÀLHA (Tiền thân Upasàlha) {#166}
 
 ***Có đến mười bốn ngàn…,***
 
@@ -502,7 +508,7 @@ Nói xong, Bồ-tát thuyết pháp cho hai cha con, khiến họ tu tập Từ,
 
 -ooOoo-
 
-**167. CHUYỆN TRƯỞNG LÃO SAMIDDHI (Tiền thân Samiddhi)**
+### 167. CHUYỆN TRƯỞNG LÃO SAMIDDHI (Tiền thân Samiddhi) {#167}
 
 ***Tỷ-kheo đi khất thực…,***
 
@@ -556,7 +562,7 @@ Thần nữ nghe lời Bồ-tát nói liền biến mất tại chỗ.
 
 -ooOoo-
 
-**168. CHUYỆN CHIM DIỀU HÂU (Tiền thân Sakunagghi)**
+### 168. CHUYỆN CHIM DIỀU HÂU (Tiền thân Sakunagghi) {#168}
 
 ***Diều hâu với sức mạnh…,***
 
@@ -628,7 +634,7 @@ Thọ hưởng lợi ích mình.
 
 -ooOoo-
 
-**169. CHUYỆN ÐẠO SƯ ARAKA (Tiền thân Araka)**
+### 169. CHUYỆN ÐẠO SƯ ARAKA (Tiền thân Araka) {#169}
 
 ***Ai chính với Từ tâm…,***
 
@@ -671,7 +677,7 @@ Như vậy, Bồ-tát nói lên những lợi ích tu tập Từ tâm cho các �
 
 -ooOoo-
 
-**170. CHUYỆN CON KỲ NHÔNG (Tiền thân Kakantaka)**
+### 170. CHUYỆN CON KỲ NHÔNG (Tiền thân Kakantaka) {#170}
 
 ***Người này không cúi đầu …,***
 

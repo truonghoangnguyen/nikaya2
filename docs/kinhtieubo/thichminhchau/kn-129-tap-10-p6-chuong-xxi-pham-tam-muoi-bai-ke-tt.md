@@ -1,6 +1,13 @@
+---
+title: Chuyện Tiền Thân Phần VI
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
+
 # [02] Chương XXI – Phẩm Tám Mươi Bài Kệ (tt) Phần 2
 
-**536. Chuyện Chúa Chim Kunàla (Tiền thân Kunàla)**
+### 536. Chuyện Chúa Chim Kunàla (Tiền thân Kunàla) {#536}
 
 *Câu chuyện này do bậc Đạo Sư kể trong lúc trú gần hồ Kùnàla, liên hệ đến năm trăm vị Tỷ-kheo bị tâm bất mãn chi phối. Câu chuyện diễn tiến theo trình tự sau đây.*
 
@@ -1430,7 +1437,7 @@ Ku-nà-la hót chính là Ta.
 
 -ooOoo-
 
-**537. Chuyện đại Sutasoma (Tiền thân Mahà-Sutasoma)**
+### 537. Chuyện đại Sutasoma (Tiền thân Mahà-Sutasoma) {#537}
 
 *Chuyện này bậc Ðạo Sư kể trong lúc trú tại Jetavana (Kỳ Viên) về Trưởng lão Angulimàla (Người đeo vòng ngón tay).*
 

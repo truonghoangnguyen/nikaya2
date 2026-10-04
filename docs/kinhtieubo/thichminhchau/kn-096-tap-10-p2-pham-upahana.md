@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần II
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
 # [09] PHẨM UPÀHANA
 
 **PHẨM UPÀHANA**
 
-**231. CHUYỆN CHIẾC GIÀY (Tiền thân Upàhana).**
+### 231. CHUYỆN CHIẾC GIÀY (Tiền thân Upàhana). {#231}
 
 ***Như người mua giày hư…,***
 
@@ -107,7 +113,7 @@ Vua vô cùng hoan hỷ và đem thưởng Bồ-tát nhiều danh vọng vinh hi
 
 -ooOoo-
 
-**232. CHUYỆN KHÔNG ÐƯỢC HƯỚNG DẪN (Tiền thân Vinàthùna)**
+### 232. CHUYỆN KHÔNG ÐƯỢC HƯỚNG DẪN (Tiền thân Vinàthùna) {#232}
 
 ***Việc này do con nghĩ…,***
 
@@ -181,7 +187,7 @@ Bồ-tát biết rằng nàng chỉ hóa trang đi theo người gù nên cho n�
 
 -ooOoo-
 
-**233. CHUYỆN MŨI TÊN (Tiền thân Bikannaka)**
+### 233. CHUYỆN MŨI TÊN (Tiền thân Bikannaka) {#233}
 
 ***Ngươi muốn đi chỗ nào…,***
 
@@ -261,7 +267,7 @@ Như con các sấu ấy\
 
 -ooOoo-
 
-**234. CHUYỆN NÀNG ASITÀBHÙ (Tiền thân Aistàbhù)**
+### 234. CHUYỆN NÀNG ASITÀBHÙ (Tiền thân Aistàbhù) {#234}
 
 ***Nay chính nhờ chàng làm…,***
 
@@ -323,7 +329,7 @@ Hoàng tử khóc than với bài kệ này, rồi sống một mình trong rừ
 
 -ooOoo-
 
-**235. CHUYỆN VỀ ẨN SĨ VACCHA-NAKHA (Tiền thân Vaccha-Nakha)**
+### 235. CHUYỆN VỀ ẨN SĨ VACCHA-NAKHA (Tiền thân Vaccha-Nakha) {#235}
 
 ***Này Vac-cha-Na-kha…,***
 
@@ -407,7 +413,7 @@ Với những lời này bậc Ðại sĩ nới lên những khuyết điểm c�
 
 -ooOoo-
 
-**236. CHUYỆN CON CÒ (Tiền thân Baka)**
+### 236. CHUYỆN CON CÒ (Tiền thân Baka) {#236}
 
 ***Thật trắng thay chim này…,***
 
@@ -453,7 +459,7 @@ Nghe nói vậy đàn cá vẫy nước và đuổi con cò đi.
 
 -ooOoo-
 
-**237. CHUYỆN THÀNH SÀKETA (Tiền thân Sàketa)**
+### 237. CHUYỆN THÀNH SÀKETA (Tiền thân Sàketa) {#237}
 
 ***Thế Tôn, do nhân gì…,***
 
@@ -488,7 +494,7 @@ Như sen mọc trong nước.
 
 -ooOoo-
 
-**238. CHUYỆN MỘT CHỮ (Tiền thân Ekapada)**
+### 238. CHUYỆN MỘT CHỮ (Tiền thân Ekapada) {#238}
 
 ***Cha thân, hãy nói lên…,***
 
@@ -543,7 +549,7 @@ Như vậy, Bồ-tát đã trả lời câu hỏi của con trai. Ðứa con tra
 
 -ooOoo-
 
-**239. CHUYỆN CON NHÁI XANH (Tiền thân Harita-Màta)**
+### 239. CHUYỆN CON NHÁI XANH (Tiền thân Harita-Màta) {#239}
 
 ***Khi ta là con rắn…,***
 
@@ -608,7 +614,7 @@ Khi Bồ-tát phân xử vụ kiện này, đàn cá thấy chỗ yếu của co
 
 -ooOoo-
 
-**240. CHUYỆN VUA MAHÀPINGALA (Tiền thân Mahàpingala)**
+### 240. CHUYỆN VUA MAHÀPINGALA (Tiền thân Mahàpingala) {#240}
 
 ***Chính vua Pin-ga-la…,***
 

@@ -1,8 +1,14 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm LITTA
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [10] PHẨM LITTA
 
 **PHẨM LITTA**
 
-**91. CHUYỆN CHƠI SÚC SẮC NGỘ ÐỘC (Tiền thân Litta)**
+### 91. CHUYỆN CHƠI SÚC SẮC NGỘ ÐỘC (Tiền thân Litta) {#91}
 
 Thuốc độc được xoa bôi …,
 
@@ -59,7 +65,7 @@ Rồi bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**92. CHUYỆN ÐẠI BẢO VẬT (Tiền thân Mahàsàra)**
+### 92. CHUYỆN ÐẠI BẢO VẬT (Tiền thân Mahàsàra) {#92}
 
 Chiến trận cần anh hùng… ,
 
@@ -280,7 +286,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nói lên công đức của T
 
 ---
 
-**93. CHUYỆN NGỘ ÐỘC DO LUYẾN ÁI (Tiền thân Vissàsabhojana)**
+### 93. CHUYỆN NGỘ ÐỘC DO LUYẾN ÁI (Tiền thân Vissàsabhojana) {#93}
 
 Chớ tin người thân tín…,
 
@@ -331,7 +337,7 @@ Sau khi kể câu chuyện quá khứ, bậc Ðạo Sư nhận diện Tiền th�
 
 ---
 
-**94. CHUYỆN NỖI KINH HOÀNG (Tiền thân Lomahamsa)**
+### 94. CHUYỆN NỖI KINH HOÀNG (Tiền thân Lomahamsa) {#94}
 
 Nay nóng ran lạnh buốt…,
 
@@ -368,7 +374,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**95. CHUYỆN VUA ÐẠI THIỆN KIẾN (Tiền thân Mahàsudassana)**
+### 95. CHUYỆN VUA ÐẠI THIỆN KIẾN (Tiền thân Mahàsudassana) {#95}
 
 Các hành là vô thường…,
 
@@ -433,7 +439,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**96. CHUYỆN BÁT DẦU (Tiền thân Telapatta)**
+### 96. CHUYỆN BÁT DẦU (Tiền thân Telapatta) {#96}
 
 Như người mang bát dầu…,
 
@@ -574,7 +580,7 @@ Như vậy, bậc Ðạo Sư hướng đến điểm cao nhất của thuyết p
 
 ---
 
-**97. CHUYỆN ÐIỀM LÀNH CỦA TÊN (Tiền thân Nàmasiddhi)**
+### 97. CHUYỆN ÐIỀM LÀNH CỦA TÊN (Tiền thân Nàmasiddhi) {#97}
 
 Thấy Ji-va-ka-chết…,
 
@@ -675,7 +681,7 @@ Rồi bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**98. CHUYỆN NGƯỜI LÁI BUÔN LỪA ÐẢO (Tiền thân Kùtavànija)**
+### 98. CHUYỆN NGƯỜI LÁI BUÔN LỪA ÐẢO (Tiền thân Kùtavànija) {#98}
 
 Lành thay, vị hiền trí…,
 
@@ -748,7 +754,7 @@ Và ngài nhận diện Tiền thân:
 
 ---
 
-**99. CHUYỆN HƠN MỘT NGÀN KẺ NGU (Tiền thân Parosahassa)**
+### 99. CHUYỆN HƠN MỘT NGÀN KẺ NGU (Tiền thân Parosahassa) {#99}
 
 Ngàn kẻ ngu tụ hội…,
 
@@ -819,7 +825,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân:
 
 ---
 
-**100. CHUYỆN SẮC THÂN BẤT LẠC. (Tiền thân Asàtarùpa)**
+### 100. CHUYỆN SẮC THÂN BẤT LẠC. (Tiền thân Asàtarùpa) {#100}
 
 Chính đắng, không phải ngọt…,
 

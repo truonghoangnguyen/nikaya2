@@ -1,12 +1,18 @@
+---
+title: Chuyện Tiền Thân Phần IV
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
+
+
 # [02] Chương VI – Phẩm Sáu Bài Kệ
 
-#### [C6](#p1)
 
 **Chương VI**
 
 **Phẩm Sáu Bài Kệ**
 
-**372. Chuyện Chú Nai Con (Tiền thân Migapotaka)**
+### 372. Chuyện Chú Nai Con (Tiền thân Migapotaka) {#372}
 
 ***Sầu thương vật đã chết rồi…..,***
 
@@ -85,7 +91,7 @@ Sau khi đã khuyến giáo vị khổ hạnh như thế, Sakka Thiên chủ tr
 
 -ooOoo-
 
-**373. Chuyện Con Chuột (Tiền thân Mùsika)**
+### 373. Chuyện Con Chuột (Tiền thân Mùsika) {#373}
 
 ***Bọn chúng hỏi to: “Nó ở đâu?”….,***
 
@@ -193,7 +199,7 @@ Về sau, khi vua băng hà, vương tử được đưa lên ngôi báu.
 
 -ooOoo-
 
-**374. Chuyện Chàng Tiểu Xạ Thủ (Tiền thân Culladhanuggaha)**
+### 374. Chuyện Chàng Tiểu Xạ Thủ (Tiền thân Culladhanuggaha) {#374}
 
 ***Bờ kia chàng đã bước lên….,***
 
@@ -346,7 +352,7 @@ Rồi Ngài nhận diện Tiền thân:
 
 -ooOoo-
 
-**375. Chuyện Chim Bồ Câu (Tiền thân Kapota)**
+### 375. Chuyện Chim Bồ Câu (Tiền thân Kapota) {#375}
 
 ***Ta đây mạnh khỏe, dạ an vui….,***
 
@@ -430,7 +436,7 @@ Rồi Ngài nhận diện Tiền thân:
 
 -ooOoo-
 
-**376. Chuyện Người Lái Đò (Tiền thân Avàriya)**
+### 376. Chuyện Người Lái Đò (Tiền thân Avàriya) {#376}
 
 ***Ðừng bao giờ giận, hỡi Minh quân….,***
 
@@ -597,7 +603,7 @@ Khi bậc Ðạo Sư chấm dứt Pháp thoại, Ngài tuyên thuyết các Sự
 
 -ooOoo-
 
-**377. Chuyện Bà La Môn Setakeku (Tiền thân Setaketu)**
+### 377. Chuyện Bà La Môn Setakeku (Tiền thân Setaketu) {#377}
 
 ***Hiền hữu, hận sân chẳng lợi gì….,***
 
@@ -719,7 +725,7 @@ Khi chấm dứt Pháp thoại này, bậc Ðạo Sư nhận diện Tiền thân
 
 -ooOoo-
 
-**378. Chuyện Bà La Môn Darìmukha (Tiền thân Darìmukha)**
+### 378. Chuyện Bà La Môn Darìmukha (Tiền thân Darìmukha) {#378}
 
 ***Dục lạc chỉ là đám bùn dơ bẩn..,***
 
@@ -853,7 +859,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**379. Chuyện Núi Neru (Tiền thân Neru)**
+### 379. Chuyện Núi Neru (Tiền thân Neru) {#379}
 
 ***Hai chúng ta là loài chim ưu tú..***
 
@@ -912,7 +918,7 @@ Khi chấm dứt Pháp thoại, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**380. Chuyện Thiên Nữ Àsankà (Tiền thân Àsankà)**
+### 380. Chuyện Thiên Nữ Àsankà (Tiền thân Àsankà) {#380}
 
 ***À-sà-ti mọc trên vườn thiên giới..***
 
@@ -1076,7 +1082,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**381. Chuyện Chim Thứu Migàlopa (Tiền thân Migàlopa)**
+### 381. Chuyện Chim Thứu Migàlopa (Tiền thân Migàlopa) {#381}
 
 ***Ðường con bay bổng, hỡi con thân…,***
 
@@ -1137,7 +1143,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**382. Chuyện Hai Thiên Nữ Siri Và Kàlakanni (Tiền thân Siri-Kàlakanni)**
+### 382. Chuyện Hai Thiên Nữ Siri Và Kàlakanni (Tiền thân Siri-Kàlakanni) {#382}
 
 ***Ai đây xanh thẩm hóa đen huyền…,***
 
@@ -1302,7 +1308,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**383. Chuyện Kê Vương (Tiền thân Kukkuta)**
+### 383. Chuyện Kê Vương (Tiền thân Kukkuta) {#383}
 
 ***Chim có cánh hồng sáng rực sao…,***
 
@@ -1379,7 +1385,7 @@ Khi Pháp thoại chấm dứt bậc Ðạo Sư tuyên thuyết các Sự Thật
 
 -ooOoo-
 
-**384. Chuyện Pháp Ấn (Tiền thân Dhammaddhaja)**
+### 384. Chuyện Pháp Ấn (Tiền thân Dhammaddhaja) {#384}
 
 ***Hành trì đức hạnh, hỡi chư huynh…,***
 
@@ -1483,7 +1489,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư nhận diện Tiền thân:
 
 -ooOoo-
 
-**385. Chuyện Lộc Vương Hoan Hỷ (Tiền thân Nandiyamiga)**
+### 385. Chuyện Lộc Vương Hoan Hỷ (Tiền thân Nandiyamiga) {#385}
 
 ***Bà-la-môn, ngài có vào ngự uyển…,***
 
@@ -1629,7 +1635,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**386.Chuyện Con Lừa (Tiền thân Kharaputta)**
+### 386.Chuyện Con Lừa (Tiền thân Kharaputta)
 
 ***Bậc trí bảo Dê quả thật ngu…,***
 
@@ -1842,7 +1848,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**387. Chuyện Cây Kim (Tiền thân Sùci)**
+### 387. Chuyện Cây Kim (Tiền thân Sùci) {#387}
 
 ***Xâu nhanh, trơn láng, thẳng ngay…,***
 
@@ -1994,7 +2000,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**388. Chuyện Con Heo Mõm Dài (Tiền thân Tundila)**
+### 388. Chuyện Con Heo Mõm Dài (Tiền thân Tundila) {#388}
 
 ***Em lo chuyện lạ hôm nay…,***
 
@@ -2130,7 +2136,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**389. Chuyện Con Cua Vàng (Tiền thân Suvannakakkata)**
+### 389. Chuyện Con Cua Vàng (Tiền thân Suvannakakkata) {#389}
 
 ***Một chú càng vàng với mắt lồi…,***
 
@@ -2260,7 +2266,7 @@ Khi các Sự Thật kết thúc, nhiều vị đắc Sơ quả (Dự Lưu) và
 
 -ooOoo-
 
-**390. Chuyện Chim Mayhaka (Tiền thân Mayhaka)**
+### 390. Chuyện Chim Mayhaka (Tiền thân Mayhaka) {#390}
 
 ***Nếu hoan hỷ khi mong cầu bố thí…,***
 
@@ -2384,7 +2390,7 @@ Rồi Ngài nhận diện Tiền thân:
 
 -ooOoo-
 
-**391. Chuyện Vị Tà Thuật Sư (Tiền thân Dhajavihetha)**
+### 391. Chuyện Vị Tà Thuật Sư (Tiền thân Dhajavihetha) {#391}
 
 ***Dung mạo thanh cao, lại cúi đầu …,***
 
@@ -2513,7 +2519,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**392. Chuyện Củ và Hoa Sen (Tiền thân Bhisapuppha)**
+### 392. Chuyện Củ và Hoa Sen (Tiền thân Bhisapuppha) {#392}
 
 ***Ngài không được phép ngửi hương hoa…,***
 
@@ -2598,7 +2604,7 @@ Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thật. L
 
 -ooOoo-
 
-**393. Chuyện Món Tàn Thực (Tiền thân Vighàsa)**
+### 393. Chuyện Món Tàn Thực (Tiền thân Vighàsa) {#393}
 
 ***Hạnh phúc là ai sống giữa đời…,***
 
@@ -2674,7 +2680,7 @@ Khi Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thậ
 
 -ooOoo-
 
-**394. Chuyện Chim Cút (Tiền thân Vattaka)**
+### 394. Chuyện Chim Cút (Tiền thân Vattaka) {#394}
 
 ***Bơ, dầu đủ món cao lương…,***
 
@@ -2734,7 +2740,7 @@ Pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự Thật. L
 
 -ooOoo-
 
-**395. Chuyện Con Quạ (Tiền thân Kàka)**
+### 395. Chuyện Con Quạ (Tiền thân Kàka) {#395}
 
 ***Ông bạn cũ ơi, hãy ngắm xem…,***
 

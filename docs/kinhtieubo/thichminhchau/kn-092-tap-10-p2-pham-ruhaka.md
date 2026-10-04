@@ -1,8 +1,15 @@
+---
+title: Chuyện Tiền Thân Phần II
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
+
+
 # [05] PHẨM RUHAKA
 
 **PHẨM RUHAKA**
 
-**191. CHUYỆN TẾ SƯ RUHAKA (Tiền thân Ruhaka)**
+### 191. CHUYỆN TẾ SƯ RUHAKA (Tiền thân Ruhaka) {#191}
 
 ***Dây cung, dù bị đứt…,***
 
@@ -70,7 +77,7 @@ Nói vậy xong, ông đuổi nữ Bà-la-môn ấy và cưới một nữ Bà-l
 
 -ooOoo-
 
-**192. CHUYỆN THIÊN NỮ SIRIKÀLAKANNI (Tiền thân Sirikàlakanni)**
+### 192. CHUYỆN THIÊN NỮ SIRIKÀLAKANNI (Tiền thân Sirikàlakanni) {#192}
 
 ***Nữ nhân có thể đẹp…,***
 
@@ -78,7 +85,7 @@ Nói vậy xong, ông đuổi nữ Bà-la-môn ấy và cưới một nữ Bà-l
 
 -ooOoo-
 
-**193. CHUYỆN HOÀNG TỬ LIÊN HOA (Tiền thân Cullapaduma)**
+### 193. CHUYỆN HOÀNG TỬ LIÊN HOA (Tiền thân Cullapaduma) {#193}
 
 ***Nàng chính là người ấy…,***
 
@@ -251,7 +258,7 @@ Bồ-tát không có thể dẹp được cơn phẫn nộ và ra lệnh trừng
 
 -ooOoo-
 
-**194. CHUYỆN KẺ TRỘM NGỌC (Tiền thân Manicora)**
+### 194. CHUYỆN KẺ TRỘM NGỌC (Tiền thân Manicora) {#194}
 
 ***Không có Thiên thần nào…,***
 
@@ -360,7 +367,7 @@ Như vậy, Ðế Thích thuyết giáo đại quần chúng xong, liền trở 
 
 -ooOoo-
 
-**195. CHUYỆN HÒN NÚI ÐẸP (Tiền thân Pabbatupatthara)**
+### 195. CHUYỆN HÒN NÚI ÐẸP (Tiền thân Pabbatupatthara) {#195}
 
 ***Trải dài hòn núi đẹp…,***
 
@@ -422,7 +429,7 @@ Sau khi nghe pháp thoại này, vua Kosala đã tha thứ cho cả hai người
 
 -ooOoo-
 
-**196. CHUYỆN CON NGỰA BAY (Tiền thân Valàhassa)**
+### 196. CHUYỆN CON NGỰA BAY (Tiền thân Valàhassa) {#196}
 
 ***Những ai không làm theo…,***
 
@@ -525,7 +532,7 @@ Họ giống các lái buôn\
 
 -ooOoo-
 
-**197. CHUYỆN BẠN-THÙ (Tiền thân Mittàmitta)**
+### 197. CHUYỆN BẠN-THÙ (Tiền thân Mittàmitta) {#197}
 
 ***Khi thấy, nó không cười…,***
 
@@ -586,7 +593,7 @@ Như vậy, Bồ-tát nói lên ý nghĩa thế nào là bạn và không phải
 
 -ooOoo-
 
-**198. CHUYỆN CON VẸT RÀDHA (Tiền thân Ràdha)**
+### 198. CHUYỆN CON VẸT RÀDHA (Tiền thân Ràdha) {#198}
 
 ***Này con, ta đi xa…,***
 
@@ -672,7 +679,7 @@ Sau khi xin phép vị Bà-la-môn, Bồ-tát bay đi vào rừng.
 
 -ooOoo-
 
-**199. CHUYỆN NGƯỜI GIA CHỦ (Tiền thân Gahapati)**
+### 199. CHUYỆN NGƯỜI GIA CHỦ (Tiền thân Gahapati) {#199}
 
 ***Cả hai, ta không nhẫn…,***
 
@@ -739,7 +746,7 @@ Từ đấy trở đi tên thôn trưởng không dám nhìn ngôi nhà ấy n�
 
 -ooOoo-
 
-**200. CHUYỆN GIỚI HẠNH TỐT LÀNH (Tiền thân Sàdhusìla)**
+### 200. CHUYỆN GIỚI HẠNH TỐT LÀNH (Tiền thân Sàdhusìla) {#200}
 
 ***Một người trẻ đẹp trai…,***
 

@@ -1,14 +1,20 @@
+---
+title: Chuyện Tiền Thân Phần I-Phẩm NỮ NHÂN
+---
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
 # [07] PHẨM NỮ NHÂN
 
 **PHẨM NỮ NHÂN**
 
-**61. CHUYỆN BÀI KINH KHỔ ÐAU (Tiền thân Asàtamanta)**
+### 61. CHUYỆN BÀI KINH KHỔ ÐAU (Tiền thân Asàtamanta) {#61}
 
 Câu chuyện này do bậc Ðạo Sư kể trong lúc trú tại Kỳ Viên về một Tỷ-kheo bị tham dục chi phối. Câu chuyện sẽ được trình bày ở Tiền thân Ummadanti số 527.
 
 ---
 
-**62. CHUYỆN CÔ GÁI TRÊN LẦU BẢY TẦNG. (Tiền thân Andabhuta)**
+### 62. CHUYỆN CÔ GÁI TRÊN LẦU BẢY TẦNG. (Tiền thân Andabhuta) {#62}
 
 Trò chơi sáo, giả mù…
 
@@ -207,7 +213,7 @@ Khi pháp thoại chấm dứt, Ngài tuyên thuyết các Sự thật. Đến c
 
 ---
 
-**63. CHUYỆN HIỀN SĨ CHÀ LÀ (Tiền thân Takka)**
+### 63. CHUYỆN HIỀN SĨ CHÀ LÀ (Tiền thân Takka) {#63}
 
 Bọn nữ nhân đầy rẫy hận sân…,
 
@@ -296,7 +302,7 @@ Khi pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự thậ
 
 ---
 
-**64. CHUYỆN NGƯỜI VỢ KHÓ HIỂU (Tiền thân Duràjàna)**
+### 64. CHUYỆN NGƯỜI VỢ KHÓ HIỂU (Tiền thân Duràjàna) {#64}
 
 Chàng tưởng má hồng yêu mến chăng?…
 
@@ -353,7 +359,7 @@ Khi chấm dứt pháp thoại, bậc Ðạo Sư thuyết giảng các Sự th�
 
 ---
 
-**65. CHUYỆN NỖI BẤT MÃN. (Tiền thân Anabhirati)**
+### 65. CHUYỆN NỖI BẤT MÃN. (Tiền thân Anabhirati) {#65}
 
 Khác gì xa lộ, các dòng sông…
 
@@ -396,7 +402,7 @@ Khi pháp thoại chấm dứt, bậc Ðạo Sư tuyên thuyết các Sự thậ
 
 ---
 
-**66. CHUYỆN HOÀNG HẬU TỪ TÂM (Tiền thân Mudulakkhana)**
+### 66. CHUYỆN HOÀNG HẬU TỪ TÂM (Tiền thân Mudulakkhana) {#66}
 
 Trước thời ta được Từ tâm…
 
@@ -507,7 +513,7 @@ Khi pháp thoại chấm dứt, bậc Ðạo Sư thuyết giảng Bốn Sự th�
 
 ---
 
-**67. CHUYỆN NGƯỜI ÐÀN BÀ THÔN QUÊ (Tiền thân Ucchanga)**
+### 67. CHUYỆN NGƯỜI ÐÀN BÀ THÔN QUÊ (Tiền thân Ucchanga) {#67}
 
 Tìm kiếm chồng con thật dễ dàng…,
 
@@ -589,7 +595,7 @@ Khi pháp thoại chấm dứt, Ngài nêu sự liên hệ giữa hai chuyện v
 
 ---
 
-**68. CHUYỆN THÀNH SAKETA (Tiền thân Saketa)**
+### 68. CHUYỆN THÀNH SAKETA (Tiền thân Saketa) {#68}
 
 Ý an trú vào ai…,
 
@@ -630,7 +636,7 @@ Như vậy, sau khi kể xong pháp thoại này, bậc Ðạo Sư kết hợp h
 
 ---
 
-**69. CHUYỆN CON RẮN PHUN NỌC ÐỘC (Tiền thân Visavanta)**
+### 69. CHUYỆN CON RẮN PHUN NỌC ÐỘC (Tiền thân Visavanta) {#69}
 
 Ðáng rủa thay nọc độc…,
 
@@ -703,7 +709,7 @@ Sau khi kể pháp thoại này, bậc Ðạo Sư kết hợp các câu chuyện
 
 ---
 
-**70. CHUYỆN HIỀN GIẢ CÁI CUỐC (Tiền thân Kuddàla)**
+### 70. CHUYỆN HIỀN GIẢ CÁI CUỐC (Tiền thân Kuddàla) {#70}
 
 Chiến thắng ấy không tốt….,
 
