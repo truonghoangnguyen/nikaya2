@@ -1,6 +1,11 @@
 ---
-title: Kinh tiểu bộ tập 3 – KINH PHẬT TỰ THUYẾT
+title: Kinh tiểu bộ tập 3 – Phật Tự Thuyết
 ---
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/)
+
+</div>
 
 # TẬP 3 – KINH PHẬT TỰ THUYẾT (Ud)
 **(Udàna)**

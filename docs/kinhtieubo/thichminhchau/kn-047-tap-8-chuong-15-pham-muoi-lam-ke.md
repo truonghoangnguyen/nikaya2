@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 15 – Phẩm Mười Lăm Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 15 – Phẩm Mười Lăm Kệ
 
 ### **(CCXLVI) Anna-Kondanna (Thera. 69)** {#246}

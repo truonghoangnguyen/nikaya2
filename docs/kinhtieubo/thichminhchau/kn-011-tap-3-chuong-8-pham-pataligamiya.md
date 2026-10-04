@@ -1,3 +1,15 @@
+---
+title: Phật Tự Thuyết - Phẩm Pataligamiya
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Phật Tự Thuyết](/kinhtieubo/thichminhchau/kn-003-tap-3-kinh-phat-tu-thuyet)
+
+</div>
+
+
+
 # Chương 8: Phẩm Pataligamiya
 
 ### (I) (Ud 80){#1}

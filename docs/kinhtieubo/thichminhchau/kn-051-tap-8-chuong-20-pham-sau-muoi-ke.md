@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 20 – Phẩm Sáu Mươi Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 20 – Phẩm Sáu Mươi Kệ
 
 ### **Phẩm Sáu Mươi Kệ**

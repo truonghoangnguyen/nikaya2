@@ -2,7 +2,11 @@
 title: Chuyện Tiền Thân Phần I-Phẩm ASAMPADÀNA
 ---
 
+<div class="top-nav">
+
 [Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
+
+</div>
 
 # [15] PHẨM KAKANTAKA
 

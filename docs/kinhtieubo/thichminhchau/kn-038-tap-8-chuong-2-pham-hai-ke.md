@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 2 – Phẩm Hai Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 2 – Phẩm Hai Kệ
 
 ### **Phẩm Một**

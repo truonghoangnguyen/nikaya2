@@ -2,8 +2,11 @@
 title: Chuyện Tiền Thân Phần IV
 ---
 
+<div class="top-nav">
+
 [Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần IV](/kinhtieubo/thichminhchau/kn-109-tap-10-p4)
 
+</div>
 
 # [01] Chương V – Phẩm Năm Bài Kệ
 

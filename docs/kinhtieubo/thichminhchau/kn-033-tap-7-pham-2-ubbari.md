@@ -1,3 +1,13 @@
+---
+title: Ngạ Quỷ Sự - Phẩm II – Phẩm Ubbarì
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Ngạ Quỷ Sự](/kinhtieubo/thichminhchau/kn-031-tap-7-nga-quy-su)
+
+</div>
+
 # Phẩm II – Phẩm Ubbarì
 
 ### **1. (13) Chuyện Người Tìm Giải Thoát Vòng Luân Hồi (Samsàmocaka)**

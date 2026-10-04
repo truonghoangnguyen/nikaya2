@@ -1,7 +1,7 @@
 # MN 84. Tại Madhurā
 ***(Kinh Madhurā - Madhurā Sutta)***
 
-1\.  Như vầy tôi nghe. Một thời, Tôn giả Ma-ha Ca-chiên-diên (Mahā Kaccāna) đang trú tại Madhurā (Ma-thâu-la), trong rừng Gundā. [^814] {#1}
+1\.  Như vầy tôi nghe. Một thời, Tôn giả Ma-ha Ca-chiên-diên (Mahā Kaccāna) đang trú tại Madhurā (Ma-thâu-la), trong rừng Gundā. [814](/kinhtrungbo/nanamoli-bodhi-vi/notes/084#814){.note}{#1}
 
 2\.  Vua Avantiputta (A-van-ti-put-ta) xứ Madhurā nghe tin: "Sa-môn Ca-chiên-diên đang trú tại Madhurā trong rừng Gundā. Tiếng lành đồn xa về Tôn giả Ca-chiên-diên như sau: 'Ngài là bậc trí tuệ, thông suốt, uyên bác, có tài hùng biện, và sáng suốt; Ngài đã lớn tuổi và là một vị A-la-hán (arahant - bậc đã giác ngộ hoàn toàn, giải thoát khỏi khổ đau và vòng luân hồi). Thật tốt lành thay khi được gặp những vị A-la-hán như vậy.'" {#2}
 
@@ -23,7 +23,7 @@
 
 "Thưa Tôn giả Ca-chiên-diên, sẽ có."
 
-"Đại vương nghĩ sao? Nếu một người Thủ-đà-la trở nên giàu có về của cải, lúa gạo, bạc hoặc vàng, liệu có những người Thủ-đà-la khác thức dậy trước ông ta, đi ngủ sau ông ta, sốt sắng phục vụ, tìm cách làm hài lòng và nói lời ngọt ngào với ông ta không? Và liệu cũng có những người Sát-đế-lỵ, Bà-la-môn, và Phệ-xá làm như vậy không?"815
+"Đại vương nghĩ sao? Nếu một người Thủ-đà-la trở nên giàu có về của cải, lúa gạo, bạc hoặc vàng, liệu có những người Thủ-đà-la khác thức dậy trước ông ta, đi ngủ sau ông ta, sốt sắng phục vụ, tìm cách làm hài lòng và nói lời ngọt ngào với ông ta không? Và liệu cũng có những người Sát-đế-lỵ, Bà-la-môn, và Phệ-xá làm như vậy không?"[815](/kinhtrungbo/nanamoli-bodhi-vi/notes/084#815){.note}
 
 "Thưa Tôn giả Ca-chiên-diên, sẽ có."
 
@@ -33,6 +33,7 @@
 
 "Đó là một cách, thưa đại vương, để hiểu rằng lời tuyên bố của các Bà-la-môn chỉ là lời nói suông trong thế gian.
 
+<!--pg-->
 6\.  "Đại vương nghĩ sao? Giả sử một người Sát-đế-lỵ sát sinh, lấy của không cho, tà dâm (hành vi sai trái trong các thú vui nhục dục), nói dối, nói lời đâm thọc, nói lời thô ác, nói lời phù phiếm, tham lam, có tâm sân hận, và giữ tà kiến (wrong view - quan điểm sai lầm về thực tại, về nghiệp báo...). Sau khi thân hoại mạng chung, người đó [có khả năng] tái sinh vào cõi khổ, cảnh giới xấu, đọa xứ, thậm chí là địa ngục (apāya - cõi dữ, nơi đau khổ do ác nghiệp tạo ra) hay không, ngài thấy thế nào trong trường hợp này?" {#6}
 
 "Thưa Tôn giả Ca-chiên-diên, nếu một người Sát-đế-lỵ như vậy, người đó [có khả năng] tái sinh vào cõi khổ, cảnh giới xấu, đọa xứ, thậm chí là địa ngục. Tôi thấy như vậy trong trường hợp này, và tôi cũng đã nghe các vị A-la-hán nói như vậy."
@@ -75,6 +76,7 @@
 
 "Đó cũng là một cách, thưa đại vương, để hiểu rằng lời tuyên bố của các Bà-la-môn chỉ là lời nói suông trong thế gian. [89]
 
+<!--pg-->
 9\.  "Đại vương nghĩ sao? Giả sử một người Sát-đế-lỵ, cạo bỏ râu tóc, đắp y vàng, xuất gia từ bỏ đời sống gia đình, sống đời không nhà (pabbajjā - sự từ bỏ thế tục để tu hành), từ bỏ sát sinh, từ bỏ lấy của không cho, và từ bỏ nói dối. Không ăn vào ban đêm, chỉ ăn một bữa trong ngày, sống đời phạm hạnh (brahmacariya - đời sống trong sạch, không dâm dục), giữ giới, có phẩm hạnh tốt đẹp. Ngài sẽ đối xử với vị ấy như thế nào?" {#9}
 
 "Chúng tôi sẽ đảnh lễ vị ấy, thưa Tôn giả Ca-chiên-diên, hoặc đứng dậy chào đón, hoặc mời ngồi; hoặc mời nhận y phục, vật thực, chỗ ở, và thuốc men; hoặc chúng tôi sẽ sắp xếp việc bảo vệ, hộ trì hợp pháp cho vị ấy. Tại sao vậy? Bởi vì vị ấy đã mất đi địa vị Sát-đế-lỵ trước đây, và chỉ đơn thuần được coi là một vị sa-môn."
@@ -98,21 +100,3 @@
 "Thưa đại vương, Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác ấy đã nhập Niết-bàn cuối cùng (final Nibbāna / parinibbāna - sự tịch diệt hoàn toàn, không còn tái sinh sau khi chết)."
 
 11\. "Nếu chúng con nghe rằng Đức Thế Tôn đang ở trong phạm vi mười do tuần (league - đơn vị đo khoảng cách cổ), chúng con sẽ đi mười do tuần để được gặp Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác. Nếu chúng con nghe rằng Đức Thế Tôn đang ở trong phạm vi hai mươi do tuần... ba mươi do tuần... bốn mươi do tuần... năm mươi do tuần... một trăm do tuần, chúng con sẽ đi một trăm do tuần để được gặp Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Chánh Giác. Nhưng vì Đức Thế Tôn đã nhập Niết-bàn cuối cùng, chúng con xin quy y Đức Thế Tôn ấy, quy y Pháp và quy y Tăng đoàn các vị tỳ kheo. Kể từ hôm nay, xin Tôn giả Ca-chiên-diên ghi nhận con là một người cận sự nam đã quy y trọn đời." {#11}
-
-<!--pg-->
-Từ ngữ:
-- A-la-hán / arahant / arahant: Bậc giác ngộ đã đoạn trừ mọi phiền não, thoát khỏi vòng luân hồi sinh tử, đạt đến Niết-bàn.
-- Tà kiến / micchā diṭṭhi / wrong view: Quan điểm, nhận thức sai lầm về bản chất của thực tại, đặc biệt là về luật nhân quả (nghiệp), sự tái sinh, và con đường giải thoát.
-- Cõi khổ, địa ngục / apāya / state of deprivation, hell: Các cảnh giới tái sinh đau khổ do ác nghiệp tạo ra, bao gồm địa ngục, ngạ quỷ, súc sinh, và a-tu-la.
-- Chánh kiến / sammā diṭṭhi / right view: Quan điểm, nhận thức đúng đắn về bản chất của thực tại, là yếu tố đầu tiên trong Tám Bước Thiện (Bát Chánh Đạo), bao gồm hiểu biết về Tứ Diệu Đế, nghiệp và tái sinh.
-- Cõi lành, cõi trời / sugati / happy destination, heavenly world: Các cảnh giới tái sinh an vui, hạnh phúc do thiện nghiệp tạo ra, bao gồm cõi người và các cõi trời.
-- Xuất gia / pabbajjā / going forth from home life into homelessness: Từ bỏ đời sống gia đình, thế tục để sống đời sống không nhà của một vị tu sĩ Phật giáo, nhằm mục đích tu tập và giải thoát.
-- Phạm hạnh / brahmacariya / celibacy, holy life: Đời sống trong sạch, thanh cao, đặc biệt là việc từ bỏ các hành vi tình dục, một phần quan trọng của đời sống tu sĩ và cả người tại gia giữ giới.
-- Giáo Pháp / Dhamma / The Buddha's teachings: Toàn bộ lời dạy của Đức Phật về con đường dẫn đến giác ngộ và giải thoát khổ đau.
-- Quy y / saraṇa gamana / going for refuge: Hành động tìm kiếm nơi nương tựa tinh thần nơi Tam Bảo: Phật (Buddha), Pháp (Dhamma), và Tăng (Sangha).
-- Tăng đoàn / Sangha / community of monks (or ordained disciples): Cộng đồng các vị đệ tử xuất gia của Đức Phật (Tỳ kheo và Tỳ kheo ni), những người thực hành và gìn giữ Giáo Pháp.
-- Tỳ kheo / bhikkhu / Buddhist monk: Vị sư nam đã thọ giới cụ túc trong Phật giáo.
-- Cận sự nam / upāsaka / male lay follower: Người nam tại gia đã quy y Tam Bảo và thực hành theo lời dạy của Đức Phật. (Nữ là Upāsikā - Cận sự nữ).
-- Đức Thế Tôn / Bhagavā / Blessed One, Exalted One: Một trong những danh hiệu tôn kính nhất của Đức Phật, có nghĩa là Bậc Đáng Kính, Bậc có đầy đủ phước đức và trí tuệ.
-- Chánh Đẳng Chánh Giác / sammāsambuddha / Fully Enlightened One: Bậc đã tự mình giác ngộ hoàn toàn chân lý một cách viên mãn, không thầy chỉ dạy (ám chỉ Đức Phật).
-- Niết-bàn cuối cùng / parinibbāna / final Nibbāna, complete extinction: Sự tịch diệt hoàn toàn của các uẩn (thân và tâm), chấm dứt hoàn toàn khổ đau và vòng luân hồi, xảy ra khi một vị Phật hoặc A-la-hán qua đời.

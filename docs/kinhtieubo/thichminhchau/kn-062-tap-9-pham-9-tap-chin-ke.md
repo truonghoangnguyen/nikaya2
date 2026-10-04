@@ -1,6 +1,16 @@
+---
+title: Trưởng Lão Ni Kệ - Phẩm 9 – Tập Chín Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Ni Kệ](/kinhtieubo/thichminhchau/kn-053-tap-9-truong-lao-ni-ke)
+
+</div>
+
 # Phẩm 9 – Tập Chín Kệ
 
-**(LXII) Mẹ Của Vaddha** {#62}
+### (LXII) Mẹ Của Vaddha {#62}
 
 Trong thời đức Phật hiện tại, nàng được sanh ở thành phố Bhàrukaccha, trong một gia đình thường dân. Sau khi lập gia đình, nàng sanh được một người con, đặt tên là Vaddha và nàng được biết là mẹ Vaddha. Nghe một Tỷ-kheo thuyết pháp, nàng trở thành một tín nữ, và giao lại con cho bà con. Nàng đi đến các Tỷ-kheo-ni và xuất gia. Vaddha đi thăm mẹ, đi một mình vào tinh xá Tỷ-kheo-ni và bị mẹ khiển trách như sau:
 

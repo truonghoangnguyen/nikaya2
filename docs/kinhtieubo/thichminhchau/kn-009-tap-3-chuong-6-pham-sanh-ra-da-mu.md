@@ -1,3 +1,14 @@
+---
+title: Phật Tự Thuyết - Phẩm Sanh Ra Ðã Mù
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Phật Tự Thuyết](/kinhtieubo/thichminhchau/kn-003-tap-3-kinh-phat-tu-thuyet)
+
+</div>
+
+
 # Chương 6: Phẩm Sanh Ra Ðã Mù
 
 ### (I) (Ud 62){#1}

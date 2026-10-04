@@ -1,6 +1,13 @@
 ---
 title: Kinh tiểu bộ tập 9 – TRƯỞNG LÃO NI KỆ
 ---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/)
+
+</div>
+
 # TẬP 9 – TRƯỞNG LÃO NI KỆ
 
 ## Giới thiệu Trưởng Lão Tăng Kệ & Trưởng Lão Ni Kệ

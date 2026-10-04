@@ -1,3 +1,13 @@
+---
+title: Thiên Cung Sự - Phẩm VII – Sunikkhitta
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Thiên Cung Sự](/kinhtieubo/thichminhchau/kn-023-tap-6-thien-cung-su)
+
+</div>
+
 # Phẩm VII – Sunikkhitta
 
 ### **1. (75) Chuyện thứ nhất – Lâu Ðài Cittalatà (Cittalatà-Vimàna)**

@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 1 – Phẩm Một Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 1 – Phẩm Một Kệ
 
 ### **Phẩm Một**

@@ -2,7 +2,11 @@
 title: Chuyện Tiền Thân Phần III
 ---
 
+<div class="top-nav">
+
 [Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần III](/kinhtieubo/thichminhchau/kn-098-tap-10-p3)
+
+</div>
 
 
 # [06] Chương IV – Phẩm Bốn Bài Kệ

@@ -168,6 +168,7 @@ dàng khả ái, và xung quanh có làng mạc bao bọc dễ dàng đi khất 
 Thiện nam tử tha thiết tinh cần có thể tinh tấn". Và này Vương tử, Ta ngồi xuống tại chỗ ấy và nghĩ:
 "Thật là vừa đủ để tinh tấn".
 
+<!--pg-->
 Nhưng này Vương tử, có ba ví dụ khởi lên nơi Ta, vi diệu, từ trước chưa từng được nghe: Này Vương
 tử, ví như có một khúc cây đẫm ướt, đầy nhựa sống và đặt trong nước. Có một người đến, cầm dụng cụ
 làm lửa với ý nghĩ: "Ta sẽ nhen lửa, hơi nóng sẽ hiện ra". Này Vương tử, Ông nghĩ thế nào? Người ấy
@@ -389,7 +390,8 @@ biết: "Ta đã giải thoát" Ta đã biết: "Sanh đã diệt, phạm hạnh
 tại không có đời sống nào khác nữa". Này Vương tử, đó là minh thứ ba mà Ta đã chứng được trong canh
 cuối, vô minh diệt, minh sanh, ám diệt, ánh sáng sanh, do Ta sống không phóng dật, nhiệt tâm tinh cần.
 
-Rồi này Vương tử, Ta suy nghĩ như sau: "Pháp này do Ta chứng được, thật là sâu kín, khó thấy, khó
+<!--pg-->
+43\. Rồi này Vương tử, Ta suy nghĩ như sau: "Pháp này do Ta chứng được, thật là sâu kín, khó thấy, khó
 chứng, tịch tịnh, cao thượng, siêu lý luận, vi diệu, chỉ người trí mới hiểu thấu. Còn quần chúng này thì
 ưa ái dục, khoái ái dục, ham thích ái dục. Ðối với quần chúng ưa ái dục, khoái ái dục, ham thích ái dục,
 thật khó mà thấy được định lý Idapaccàyata Paticcasamuppada (Y Tánh Duyên Khởi Pháp); sự kiện này
@@ -398,14 +400,14 @@ Nếu nay Ta thuyết pháp mà các người khác không hiểu Ta, thời nh�
 thật bực mình cho Ta!" Này Vương tử, rồi những kệ bất khả tư nghì, từ trước chưa từng được nghe,
 được khởi lên nơi Ta:
 
-*Sao Ta nói Chánh pháp,*
-*Ðược chứng ngộ khó khăn?*
-*Những ai còn tham sân,*
+*Sao Ta nói Chánh pháp,*\
+*Ðược chứng ngộ khó khăn?*\
+*Những ai còn tham sân,*\
 *Khó chứng ngộ pháp này.*
 
-*Ði ngược dòng, thâm diệu,*
-*Khó thấy, thật tế nhị,*
-*Kẻ ái nhiễm vô minh,*
+*Ði ngược dòng, thâm diệu,*\
+*Khó thấy, thật tế nhị,*\
+*Kẻ ái nhiễm vô minh,*\
 *Không thấy được pháp này.*
 
 Rồi này Vương tử, với những suy tư như vậy, tâm của Ta hướng về vô vi thụ động, không muốn thuyết
@@ -421,35 +423,35 @@ Thiện Thệ, hãy thuyết pháp! Có những chúng sanh ít nhiễm bụi tr
 Chánh pháp. (Nếu được nghe), những vị này có thể thâm hiểu Chánh pháp". Này Vương tử, Phạm thiện
 Sahampati nói như vậy. Sau khi nói vậy, lại nói thêm như sau:
 
-*Xưa tại Magadha,*
-*Hiện ra pháp bất tịnh,*
-*Pháp do tâm cấu uế,*
-*Do suy tư tác thành.*
-*Hãy mỡ tung mở rộng,*
-*Cánh cửa bất tử này.*
-*Hãy để họ nghe Pháp,*
+*Xưa tại Magadha,*\
+*Hiện ra pháp bất tịnh,*\
+*Pháp do tâm cấu uế,*\
+*Do suy tư tác thành.*\
+*Hãy mỡ tung mở rộng,*\
+*Cánh cửa bất tử này.*\
+*Hãy để họ nghe Pháp,*\
 *Bậc Thanh tịnh Chứng Ngộ.*
 
-*Như đứng trên tảng đá,*
-*Trên đỉnh núi (tột cao)*
-*Có người đứng nhìn xuống,*
-*Ðám chúng sanh quây quần.*
-*Cũng vậy, ôi Thiện Tuệ,*
-*Bậc Biến Nhãn cùng khắp,*
-*Leo lên ngôi lâu đài,*
-*Xây dựng bằng Chánh pháp*
-*Bậc Thoát Ly sầu muộn,*
-*Nhìn xuống đám quần sanh,*
-*Bị sầu khổ áp bức,*
+*Như đứng trên tảng đá,*\
+*Trên đỉnh núi (tột cao)*\
+*Có người đứng nhìn xuống,*\
+*Ðám chúng sanh quây quần.*\
+*Cũng vậy, ôi Thiện Tuệ,*\
+*Bậc Biến Nhãn cùng khắp,*\
+*Leo lên ngôi lâu đài,*\
+*Xây dựng bằng Chánh pháp*\
+*Bậc Thoát Ly sầu muộn,*\
+*Nhìn xuống đám quần sanh,*\
+*Bị sầu khổ áp bức,*\
 *Bị sanh già chi phối,*
 
-*Ðứng lên vị Anh Hùng,*
-*Bậc Chiến Thắng chiến trường.*
-*Vị trưởng đoàn lữ khách,*
-*Bậc Thoát Ly nợ nần.*
-*Hãy đi khắp thế giới,*
-*Bậc Thế Tôn Chánh Giác!*
-*Hãy thuyết vi diệu pháp,*
+*Ðứng lên vị Anh Hùng,*\
+*Bậc Chiến Thắng chiến trường.*\
+*Vị trưởng đoàn lữ khách,*\
+*Bậc Thoát Ly nợ nần.*\
+*Hãy đi khắp thế giới,*\
+*Bậc Thế Tôn Chánh Giác!*\
+*Hãy thuyết vi diệu pháp,*\
 *Người nghe sẽ thâm hiểu!*
 
 Này Vương tử, sau khi biết được lời Phạm thiên yêu cầu, vì lòng từ bi đối với chúng sanh, với Phật
@@ -466,14 +468,14 @@ chúng sanh ít nhiễm bụi đời, nhiều nhiễm bụi đời, có hạng l
 có hạng dễ dạy khó dạy, và một số ít thấy sự nguy hiểm phải tái sanh thế giới khác và sự nguy hiểm làm
 những hành động lỗi lầm. Và này Vương tử, Ta nói lên bài kệ sau đây với Phạm thiên Sahampati:
 
-*Cửa bất tử rộng mở,*
-*Cho những ai chịu nghe.*
-*Hãy từ bỏ tín tâm,*
-*Không chính xác của mình.*
-*Tự nghĩ đến phiền toái,*
-*Ta đã không muốn giảng,*
-*Tối thượng vi diệu pháp,*
-*Giữa chúng sanh loài Người.*
+*Cửa bất tử rộng mở,*\
+*Cho những ai chịu nghe.*\
+*Hãy từ bỏ tín tâm,*\
+*Không chính xác của mình.*\
+*Tự nghĩ đến phiền toái,*\
+*Ta đã không muốn giảng,*\
+*Tối thượng vi diệu pháp,*\
+*Giữa chúng sanh loài Người.*\
 *(Ôi Phạm thiên)*
 
 Này Vương tử, rồi Phạm thiên Sahampati tự nghĩ: "Ta đã tạo cơ hội cho Thế Tôn thuyết pháp", đảnh lễ
@@ -511,27 +513,27 @@ ai?"
 
 Này Vương tử, khi nghe nói vậy, Ta nói với tà mạng đạo Upaka bài kệ như sau:
 
-*"-- Ta, bậc Thắng tất cả,*
-*Ta, bậc Nhất thiết Trí.*
-*Hết thảy pháp, không nhiễm,*
-*Hết thảy pháp, xả ly.*
-*Ta sống chân giải thoát,*
-*Ðoạn tận mọi khát ái.*
-*Như vậy Ta tự giác,*
+*"-- Ta, bậc Thắng tất cả,*\
+*Ta, bậc Nhất thiết Trí.*\
+*Hết thảy pháp, không nhiễm,*\
+*Hết thảy pháp, xả ly.*\
+*Ta sống chân giải thoát,*\
+*Ðoạn tận mọi khát ái.*\
+*Như vậy Ta tự giác,*\
 *Còn phải y chỉ ai?*
 
-*Ta không có Ðạo Sư,*
-*Bậc như Ta không có.*
-*Giữa thế giới Nhơn, Thiên,*
-*Không có ai bằng Ta.*
-*Bậc ng Cúng trên đời,*
-*Bậc Ðạo Sư vô thượng.*
-*Tự mình Chánh Ðẳng Giác,*
+*Ta không có Ðạo Sư,*\
+*Bậc như Ta không có.*\
+*Giữa thế giới Nhơn, Thiên,*\
+*Không có ai bằng Ta.*\
+*Bậc ng Cúng trên đời,*\
+*Bậc Ðạo Sư vô thượng.*\
+*Tự mình Chánh Ðẳng Giác,*\
 *Ta an tịnh, thanh thoát.*
 
-*Ðể chuyển bánh xe Pháp.*
-*Ta đến thành Kàsi.*
-*Gióng lên trống bất tử,*
+*Ðể chuyển bánh xe Pháp.*\
+*Ta đến thành Kàsi.*\
+*Gióng lên trống bất tử,*\
 *Trong thế giới mù lòa."*
 
 "-- Như Hiền giả đã tự xưng, Hiền giả xứng đáng là bậc Chiến thắng Vô tận. "
@@ -561,7 +563,6 @@ Này Vương tử khi ta nghe nói vậy, Ta nói với nhóm năm Tỷ-kheo:
 
 "-- Này các Tỷ-kheo, chớ có gọi Ta bằng tên và dùng danh từ Hiền giả. Này các Tỷ-kheo, Như Lai là
 bậc A-la-hán, Chánh Ðẳng Giác. Hãy lóng tai, Pháp bất tử đã chứng được, Ta giảng dạy, Ta thuyết
-
 pháp. Sống đúng theo lời khuyến giáo, các Ông không bao lâu, sau khi tự tri, tự chứng, tự đạt ngay trong
 hiện tại, mục đích vô thượng của phạm hạnh mà các Thiện nam tử, xuất gia từ bỏ gia đình, sống không
 gia đình, các Ông sẽ an trú. "
@@ -609,10 +610,10 @@ năm vị Tỷ-kheo được Ta giáo giới như vậy, giáo huấn như vậy
 trí ngay trong hiện tại, chứng ngộ, chứng đạt và an trú vô thượng cứu cánh Phạm hạnh mà con cháu các
 lương gia xuất gia, từ bỏ gia đình, sống không gia đình hướng đến.
 
+<!--pg-->
 Khi được nói vậy, vương tử Bodhi bạch Thế Tôn:
 
 -- Ðộ bao lâu, bạch Thế Tôn, một vị Tỷ-kheo chấp nhận Như Lai là vị lãnh đạo, chứng được mục đích
-
 tối cao...  và an trú.
 
 -- Này Vương tử, ở đây, Ta sẽ hỏi Vương tử. Tùy theo Vương tử có thể kham nhẫn, Vương tử hãy trả

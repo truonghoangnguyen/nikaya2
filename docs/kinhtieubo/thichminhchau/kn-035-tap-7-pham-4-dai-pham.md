@@ -1,3 +1,13 @@
+---
+title: Ngạ Quỷ Sự - Phẩm IV – Ðại Phẩm
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Ngạ Quỷ Sự](/kinhtieubo/thichminhchau/kn-031-tap-7-nga-quy-su)
+
+</div>
+
 # Phẩm IV – Ðại Phẩm
 
 ### **1. (36) Chuyện Vua Ambasakkhara (Ambasakkhara)**

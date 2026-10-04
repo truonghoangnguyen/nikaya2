@@ -1,6 +1,16 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 16 – Phẩm Hai Mươi Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 16 – Phẩm Hai Mươi Kệ
 
-(CCXLVIII) Adhimutta (Thera. 71)
+### (CCXLVIII) Adhimutta (Thera. 71) {#248}
 
 Trong thời đức Phật hiện tại, ngài sanh là con người chị của Trưởng lão Sankicca. Ngài xuất gia dưới sự hướng dẫn của cậu ngài, và khi còn là Sa-di, đã chứng quả A-la-hán. Sống hưởng an lạc giải thoát, ngài muốn thọ Ðại giới và đi về nhà để xin phép bà mẹ. Khi ngài đi, ngài bị các kẻ cướp bắt ngài và muốn dâng ngài để tế thần. Các tên cướp tấn công ngài nhưng ngài đứng, không khuất phục. Tên tướng cướp lấy làm ngạc nhiên, tán thán ngài và nói:
 

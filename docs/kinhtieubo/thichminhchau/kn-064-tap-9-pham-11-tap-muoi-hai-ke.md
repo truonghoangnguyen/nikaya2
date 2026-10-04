@@ -1,6 +1,16 @@
+---
+title: Trưởng Lão Ni Kệ - Phẩm 11 – Tập Mười Hai Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Ni Kệ](/kinhtieubo/thichminhchau/kn-053-tap-9-truong-lao-ni-ke)
+
+</div>
+
 # Phẩm 11 – Tập Mười Hai Kệ
 
-**(LXIV) Uppalavanna** {#64}
+### (LXIV) Uppalavanna {#64}
 
 Trong thời đức Phật hiện tại, nàng được sanh ở Sàvatthi, con gái của vị trưởng kho bạc. Vì da nàng màu tim của sen xanh, nàng được gọi là Uppalavannà. Khi nàng đến tuổi trưởng thành, vua và thường dân dành nhau đến cưới nàng. Vị trưởng kho bạc, không thể làm cho mọi người bằng lòng, nghĩ đến một kế để giải quyết. Ông cho gọi Uppalavannà và yêu cầu nàng xuất gia. Và vì căn cơ đã thuần thục, nàng nhận lời ngay, và được đưa đến tinh xá Tỷ-kheo-ni để xuất gia.
 

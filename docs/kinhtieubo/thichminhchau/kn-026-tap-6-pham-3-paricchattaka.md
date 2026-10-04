@@ -1,3 +1,13 @@
+---
+title: Thiên Cung Sự - Phẩm III – Pàricchattaka
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Thiên Cung Sự](/kinhtieubo/thichminhchau/kn-023-tap-6-thien-cung-su)
+
+</div>
+
 # Phẩm III – Pàricchattaka
 
 ### **1. (29) Chuyện thứ nhất – Lâu Ðài Huy Hoàng (Ulàra-Vimàna)**

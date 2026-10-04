@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 21 – Phẩm Bẩy Mươi Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 21 – Phẩm Bẩy Mươi Kệ
 
 ### **Chương XXI**

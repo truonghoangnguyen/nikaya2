@@ -1,6 +1,16 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 14 – Phẩm Mười Bốn Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 14 – Phẩm Mười Bốn Kệ
 
-(CCXLIV) Revata (Thera. 67)
+### (CCXLIV) Revata (Thera. 67) {#244}
 
 Các bài kệ của vị Trưởng lão này đã được đề cập trong phẩm một các bài kệ trước (XLII). Khi đến già, một hôm ngài đi đến yết kiến đức Phật và trú ở Sàvatthi, trong một ngôi rừng. Cảnh sát đến, đuổi bắt kẻ trộm, kẻ trộm quăng đồ ăn trộm gần ngài rồi bỏ chạy, các cảnh sát chạy đến, thấy đồ ăn trộm, liền bắt ngài dẫn đến vua Pasenadi. Vua truyền thả ngài và hỏi có phải ngài đã lấy trộm đồ? Ngài thuyết pháp nói lên sự kiện ngài không có thể làm một sự việc như vậy và nói những bài kệ như sau:
 

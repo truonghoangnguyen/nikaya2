@@ -1,3 +1,13 @@
+---
+title: Thiên Cung Sự - Phẩm V – Ðại Xa
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Thiên Cung Sự](/kinhtieubo/thichminhchau/kn-023-tap-6-thien-cung-su)
+
+</div>
+
 # Phẩm V – Ðại Xa
 
 ### **1. (51) Chuyện Thứ Nhất – Lâu Ðài Tiên Nhái (Mandukadevaputta-Vimàna)**

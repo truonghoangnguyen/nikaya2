@@ -2,6 +2,12 @@
 title: Kinh tiểu bộ tập 6 – THIÊN CUNG SỰ
 ---
 
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/)
+
+</div>
+
 # TẬP 6 – THIÊN CUNG SỰ
 
 ## Giới thiệu tập 6 – Thiên Cung Sự

@@ -2,7 +2,11 @@
 title: Chuyện Tiền Thân Phần VI
 ---
 
+<div class="top-nav">
+
 [Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-127-tap-10-p6)
+
+</div>
 
 
 # [07] Chương XXII – Đại Phẩm (tt) - Phần 5

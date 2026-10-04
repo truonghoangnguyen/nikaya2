@@ -1,3 +1,14 @@
+---
+title: Thiên Cung Sự - Phẩm IV – Ðỏ Sẫm
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Thiên Cung Sự](/kinhtieubo/thichminhchau/kn-023-tap-6-thien-cung-su)
+
+</div>
+
+
 # Phẩm IV – Ðỏ Sẫm
 
 ### **1. (39) Chuyện thứ nhất – Lâu Ðài Ðỏ Sẫm (Manjetthaka-Vimàna)**
