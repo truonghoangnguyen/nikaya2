@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 10 – Phẩm Mười Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Thag 10. Chương 10 – Phẩm Mười Kệ
 
 ### **(CCXXIII) Kàludàyin (Thera. 56)** {#223}

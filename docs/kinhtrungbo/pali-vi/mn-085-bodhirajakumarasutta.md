@@ -1,290 +1,308 @@
-# MN 85. Bodhirājakumārasutta
+---
+description: Bài kinh này được Đức Phật thuyết tại xứ Bhagga, ở núi Susumāragira (Đồi Cá Sấu), trong rừng Bhesakaḷā, vườn Lộc Uyển. Người nghe là vương tử Bodhi (Bồ-đề), người vừa xây xong lâu đài Kokanada và thỉnh Phật cùng Tăng chúng đến thọ trai. Vương tử Bodhi nêu quan điểm rằng "hạnh phúc phải đạt được qua đau khổ".
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye. {#1}
+# MN 85. KINH VƯƠNG TỬ BỒ-ĐỀ
+*(Bodhirājakumārasutta)*
 
-2\. Tena kho pana samayena bodhissa rājakumārassa kokanado nāma pāsādo acirakārito hoti anajjhāvuṭṭho samaṇena vā brāhmaṇena vā kenaci vā manussabhūtena. {#2}
+1\. Tôi đã nghe như vầy—một thời Thế Tôn trú tại xứ Bhagga, ở núi Susumāragira, trong rừng Bhesakaḷā, tại vườn Lộc Uyển. {#1}
 
-3\. Atha kho bodhi rājakumāro sañjikāputtaṁ māṇavaṁ āmantesi: “ehi tvaṁ, samma sañjikāputta, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vanda, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha: ‘bodhi, bhante, rājakumāro bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti. Evañca vadehi: ‘adhivāsetu kira, bhante, bhagavā bodhissa rājakumārassa svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā’”ti. {#3}
+2\. Lúc bấy giờ, vương tử Bodhi vừa mới cho xây xong một lâu đài tên là Kokanada, chưa từng có sa-môn, bà-la-môn hay bất kỳ người phàm nào ở. {#2}
 
-4\. “Evaṁ, bho”ti kho sañjikāputto māṇavo bodhissa rājakumārassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho sañjikāputto māṇavo bhagavantaṁ etadavoca: “bodhi kho rājakumāro bhoto gotamassa pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati. Evañca vadeti: ‘adhivāsetu kira bhavaṁ gotamo bodhissa rājakumārassa svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā’”ti. Adhivāsesi bhagavā tuṇhībhāvena. {#4}
+3\. Khi ấy, vương tử Bodhi gọi thanh niên Sañjikāputta: "Này bạn Sañjikāputta, hãy đến chỗ Thế Tôn; sau khi đến, nhân danh ta cúi đầu đảnh lễ chân Thế Tôn, hỏi thăm Ngài có ít bệnh, ít ốm đau, khinh an, khỏe mạnh và sống an lạc không: 'Bạch Thế Tôn, vương tử Bodhi cúi đầu đảnh lễ chân Thế Tôn, hỏi thăm Ngài có ít bệnh, ít ốm đau, khinh an, khỏe mạnh và sống an lạc không'. Và hãy nói như sau: 'Bạch Thế Tôn, mong Thế Tôn cùng với hội chúng tỳ kheo nhận lời mời thọ trai của vương tử Bodhi vào ngày mai'." {#3}
 
-Atha kho sañjikāputto māṇavo bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā yena bodhi rājakumāro tenupasaṅkami; upasaṅkamitvā bodhiṁ rājakumāraṁ etadavoca: “avocumha bhoto vacanena taṁ bhavantaṁ gotamaṁ: ‘bodhi kho rājakumāro bhoto gotamassa pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati. Evañca vadeti—adhivāsetu kira bhavaṁ gotamo bodhissa rājakumārassa svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā’ti. Adhivuṭṭhañca pana samaṇena gotamenā”ti.
+4\. "Thưa vâng, tôn ông", thanh niên Sañjikāputta đáp lời vương tử Bodhi, rồi đi đến chỗ Thế Tôn; sau khi đến, anh ta chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu, anh ta ngồi xuống một bên. Ngồi một bên, thanh niên Sañjikāputta thưa với Thế Tôn: "Bạch Tôn giả Gotama, vương tử Bodhi cúi đầu đảnh lễ chân Tôn giả Gotama, hỏi thăm Ngài có ít bệnh, ít ốm đau, khinh an, khỏe mạnh và sống an lạc không. Và ngài ấy nói như sau: 'Mong Tôn giả Gotama cùng với hội chúng tỳ kheo nhận lời mời thọ trai của vương tử Bodhi vào ngày mai'." Thế Tôn im lặng nhận lời. {#4}
 
-5\. Atha kho bodhi rājakumāro tassā rattiyā accayena sake nivesane paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā, kokanadañca pāsādaṁ odātehi dussehi santharāpetvā yāva pacchimasopānakaḷevarā, sañjikāputtaṁ māṇavaṁ āmantesi: “ehi tvaṁ, samma sañjikāputta, yena bhagavā tenupasaṅkama; upasaṅkamitvā bhagavato kālaṁ ārocehi: ‘kālo, bhante, niṭṭhitaṁ bhattan’”ti. {#5}
+Khi ấy, thanh niên Sañjikāputta biết Thế Tôn đã nhận lời, liền đứng dậy khỏi chỗ ngồi, đi đến chỗ vương tử Bodhi; sau khi đến, anh ta thưa với vương tử Bodhi: "Tôi đã nhân danh tôn ông thưa với Tôn giả Gotama rằng: 'Bạch Tôn giả Gotama, vương tử Bodhi cúi đầu đảnh lễ chân Tôn giả Gotama, hỏi thăm Ngài có ít bệnh, ít ốm đau, khinh an, khỏe mạnh và sống an lạc không. Và ngài ấy nói như sau—mong Tôn giả Gotama cùng với hội chúng tỳ kheo nhận lời mời thọ trai của vương tử Bodhi vào ngày mai'. Và Sa-môn Gotama đã nhận lời."
 
-“Evaṁ, bho”ti kho sañjikāputto māṇavo bodhissa rājakumārassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato kālaṁ ārocesi: “kālo, bho gotama, niṭṭhitaṁ bhattan”ti.
+5\. Khi đêm đã qua, vương tử Bodhi cho chuẩn bị các món ăn loại cứng và loại mềm thượng hạng tại nhà mình, và cho trải những tấm vải trắng trong lâu đài Kokanada cho đến tận bậc thang cuối cùng, rồi gọi thanh niên Sañjikāputta: "Này bạn Sañjikāputta, hãy đến chỗ Thế Tôn; sau khi đến, hãy báo giờ cho Thế Tôn: 'Bạch Thế Tôn, đã đến giờ, bữa ăn đã sẵn sàng'." {#5}
 
-6\. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena bodhissa rājakumārassa nivesanaṁ tenupasaṅkami. {#6}
+"Thưa vâng, tôn ông", thanh niên Sañjikāputta đáp lời vương tử Bodhi, rồi đi đến chỗ Thế Tôn; sau khi đến, anh ta báo giờ cho Thế Tôn: "Thưa Tôn giả Gotama, đã đến giờ, bữa ăn đã sẵn sàng."
 
-7\. Tena kho pana samayena bodhi rājakumāro bahidvārakoṭṭhake ṭhito hoti bhagavantaṁ āgamayamāno. Addasā kho bodhi rājakumāro bhagavantaṁ dūratova āgacchantaṁ. Disvāna paccuggantvā bhagavantaṁ abhivādetvā purakkhatvā yena kokanado pāsādo tenupasaṅkami. Atha kho bhagavā pacchimaṁ sopānakaḷevaraṁ nissāya aṭṭhāsi. {#7}
+6\. Khi ấy, Thế Tôn vào buổi sáng đắp y, cầm y bát, đi đến nhà của vương tử Bodhi. {#6}
 
-Atha kho bodhi rājakumāro bhagavantaṁ etadavoca: “abhiruhatu, bhante, bhagavā dussāni, abhiruhatu sugato dussāni; yaṁ mama assa dīgharattaṁ hitāya sukhāyā”ti. Evaṁ vutte, bhagavā tuṇhī ahosi.
+7\. Lúc bấy giờ, vương tử Bodhi đang đứng ở cổng ngoài chờ Thế Tôn. Vương tử Bodhi thấy Thế Tôn đang đi đến từ đằng xa. Thấy vậy, vương tử đi ra đón, đảnh lễ Thế Tôn, đi theo sau Ngài và tiến về phía lâu đài Kokanada. Khi ấy, Thế Tôn dừng lại ở bậc thang cuối cùng. {#7}
 
-Dutiyampi kho …pe… tatiyampi kho bodhi rājakumāro bhagavantaṁ etadavoca: “abhiruhatu, bhante, bhagavā dussāni, abhiruhatu sugato dussāni; yaṁ mama assa dīgharattaṁ hitāya sukhāyā”ti.
+Vương tử Bodhi thưa với Thế Tôn: "Bạch Thế Tôn, mong Ngài bước lên những tấm vải; mong bậc Thiện Thệ bước lên những tấm vải; để điều đó mang lại lợi ích và hạnh phúc lâu dài cho con." Khi được nói vậy, Thế Tôn giữ im lặng.
 
-Atha kho bhagavā āyasmantaṁ ānandaṁ apalokesi. Atha kho āyasmā ānando bodhiṁ rājakumāraṁ etadavoca: “saṁharatu, rājakumāra, dussāni; na bhagavā celapaṭikaṁ akkamissati. Pacchimaṁ janataṁ tathāgato anukampatī”ti.
+Lần thứ hai... Lần thứ ba, vương tử Bodhi thưa với Thế Tôn: "Bạch Thế Tôn, mong Ngài bước lên những tấm vải; mong bậc Thiện Thệ bước lên những tấm vải; để điều đó mang lại lợi ích và hạnh phúc lâu dài cho con."
 
-8\. Atha kho bodhi rājakumāro dussāni saṁharāpetvā uparikokanadapāsāde āsanāni paññapesi. Atha kho bhagavā kokanadaṁ pāsādaṁ abhiruhitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. {#8}
+Khi ấy, Thế Tôn nhìn Tôn giả Ānanda. Tôn giả Ānanda liền nói với vương tử Bodhi: "Thưa vương tử, hãy cuốn những tấm vải lại; Thế Tôn sẽ không giẫm lên tấm vải trải. *Người Đến Như Vậy* (Như Lai / tathāgato) nghĩ [không tốt] cho thế hệ tương lai."
 
-9\. Atha kho bodhi rājakumāro buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi. Atha kho bodhi rājakumāro bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho bodhi rājakumāro bhagavantaṁ etadavoca: “mayhaṁ kho, bhante, evaṁ hoti: ‘na kho sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabban’”ti. {#9}
+8\. Khi ấy, vương tử Bodhi cho cuốn những tấm vải lại và sắp đặt chỗ ngồi ở tầng trên của lâu đài Kokanada. Thế Tôn bước lên lâu đài Kokanada và ngồi vào chỗ đã dọn sẵn cùng với hội chúng tỳ kheo. {#8}
 
-10\. “Mayhampi kho, rājakumāra, pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: ‘na kho sukhena sukhaṁ adhigantabbaṁ, dukkhena kho sukhaṁ adhigantabban’ti. {#10}
+9\. Sau đó, vương tử Bodhi tự tay dâng các món ăn loại cứng và loại mềm thượng hạng để làm hài lòng và thỏa mãn hội chúng tỳ kheo do Đức Phật đứng đầu. Khi Thế Tôn đã thọ trai xong và rút tay ra khỏi bát, vương tử Bodhi lấy một chiếc ghế thấp khác và ngồi xuống một bên. Ngồi một bên, vương tử Bodhi thưa với Thế Tôn: "Bạch Thế Tôn, con có suy nghĩ như thế này: 'Hạnh phúc không thể đạt được bằng hạnh phúc, hạnh phúc phải đạt được bằng đau khổ'." {#9}
 
-11\. So kho ahaṁ, rājakumāra, aparena samayena daharova samāno susukāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā akāmakānaṁ mātāpitūnaṁ assumukhānaṁ rudantānaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajiṁ. So evaṁ pabbajito samāno kiṅkusalagavesī anuttaraṁ santivarapadaṁ pariyesamāno yena āḷāro kālāmo tenupasaṅkamiṁ; upasaṅkamitvā āḷāraṁ kālāmaṁ etadavocaṁ: ‘icchāmahaṁ, āvuso kālāma, imasmiṁ dhammavinaye brahmacariyaṁ caritun’ti. {#11}
+10\. "Này vương tử, trước khi giác ngộ, khi Ta còn là một *người tìm cầu giác ngộ* (Bồ-tát / bodhisatta) chưa giác ngộ hoàn toàn, Ta cũng có suy nghĩ như thế này: 'Hạnh phúc không thể đạt được bằng hạnh phúc, hạnh phúc phải đạt được bằng đau khổ'. {#10}
 
-Evaṁ vutte, rājakumāra, āḷāro kālāmo maṁ etadavoca: ‘viharatāyasmā, tādiso ayaṁ dhammo yattha viññū puriso nacirasseva sakaṁ ācariyakaṁ sayaṁ abhiññā sacchikatvā upasampajja vihareyyā’ti.
+11\. Này vương tử, vào một thời gian sau đó, khi Ta còn trẻ, tóc đen nhánh, tràn đầy tuổi thanh xuân tươi đẹp, trong độ tuổi đầu đời, mặc cho cha mẹ không bằng lòng, rơi lệ khóc than, Ta cạo bỏ râu tóc, khoác áo cà-sa, rời bỏ gia đình sống không gia đình. Sau khi xuất gia như vậy, để tìm kiếm cái gì là thiện, tìm kiếm con đường tối thượng dẫn đến trạng thái bình an thù thắng, Ta đi đến chỗ Āḷāra Kālāma; sau khi đến, Ta nói với Āḷāra Kālāma: 'Thưa hiền giả Kālāma, tôi muốn sống *đời sống thánh thiện* (phạm hạnh / brahmacariya) trong Pháp và Luật này'. {#11}
 
-So kho ahaṁ, rājakumāra, nacirasseva khippameva taṁ dhammaṁ pariyāpuṇiṁ. So kho ahaṁ, rājakumāra, tāvatakeneva oṭṭhapahatamattena lapitalāpanamattena ñāṇavādañca vadāmi, theravādañca jānāmi passāmīti ca paṭijānāmi, ahañceva aññe ca. Tassa mayhaṁ, rājakumāra, etadahosi: ‘na kho āḷāro kālāmo imaṁ dhammaṁ kevalaṁ saddhāmattakena sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedeti; addhā āḷāro kālāmo imaṁ dhammaṁ jānaṁ passaṁ viharatī’ti.
+Này vương tử, khi được nói vậy, Āḷāra Kālāma nói với Ta: 'Tôn giả hãy ở lại, Pháp này là như vậy, nơi mà một người trí không bao lâu có thể tự mình chứng ngộ, đạt đến và an trú trong giáo lý của đạo sư mình'.
 
-12\. Atha khvāhaṁ, rājakumāra, yena āḷāro kālāmo tenupasaṅkamiṁ; upasaṅkamitvā āḷāraṁ kālāmaṁ etadavocaṁ: ‘kittāvatā no, āvuso kālāma, imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedesī’ti? Evaṁ vutte, rājakumāra, āḷāro kālāmo ākiñcaññāyatanaṁ pavedesi. {#12}
+Này vương tử, không bao lâu, rất nhanh chóng, Ta đã học thuộc Pháp ấy. Này Vương tử, chỉ chừng ấy,  bằng việc mấp máy môi và lặp lại suông, ta đã [có thể] nói lời tri thức, và tự nhận rằng: ‘Ta biết, ta thấy’ giáo pháp của các bậc trưởng lão; ta cũng vậy, và những người khác cũng vậy. Này vương tử, Ta suy nghĩ: 'Āḷāra Kālāma không chỉ tuyên bố về Pháp này bằng chỉ vói niềm tin đơn thuần, [ta nghĩ] ông ấy đã tự mình chứng ngộ, đạt đến và an trú; và chắc [là] Āḷāra Kālāma đã đạt biết và thấy Pháp này'.
 
-Tassa mayhaṁ, rājakumāra, etadahosi: ‘na kho āḷārasseva kālāmassa atthi saddhā, mayhampatthi saddhā; na kho āḷārasseva kālāmassa atthi vīriyaṁ …pe… sati … samādhi … paññā, mayhampatthi paññā. Yannūnāhaṁ yaṁ dhammaṁ āḷāro kālāmo sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedeti tassa dhammassa sacchikiriyāya padaheyyan’ti. So kho ahaṁ, rājakumāra, nacirasseva khippameva taṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja vihāsiṁ.
+12\. Này vương tử, sau đó Ta đi đến chỗ Āḷāra Kālāma; sau khi đến, Ta nói với Āḷāra Kālāma: 'Thưa hiền giả Kālāma, cho đến mức độ nào hiền giả tuyên bố rằng hiền giả đã tự mình chứng ngộ, đạt đến và an trú trong Pháp này?' Này vương tử, khi được nói vậy, Āḷāra Kālāma tuyên bố về *tầng Không Có Vật Gì* (vô sở hữu xứ / ākiñcaññāyatana). {#12}
 
-Atha khvāhaṁ, rājakumāra, yena āḷāro kālāmo tenupasaṅkamiṁ; upasaṅkamitvā āḷāraṁ kālāmaṁ etadavocaṁ: ‘ettāvatā no, āvuso kālāma, imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedesī’ti?
+Này vương tử, Ta suy nghĩ: 'Không phải chỉ Āḷāra Kālāma mới có niềm tin, Ta cũng có niềm tin; không phải chỉ Āḷāra Kālāma mới có nỗ lực... tập trung chú ý... Định... trí tuệ, Ta cũng có trí tuệ. Ta nên nỗ lực để trực tiếp chứng nghiệm Pháp mà Āḷāra Kālāma tuyên bố rằng ông ấy đã tự mình chứng ngộ, đạt đến và an trú?' Này vương tử, không bao lâu sau, nhanh chóng, Ta đã tự mình chứng ngộ, đạt đến và an trú trong Pháp ấy.
 
-‘Ettāvatā kho ahaṁ, āvuso, imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedemī’ti.
+Này vương tử, sau đó Ta đi đến chỗ Āḷāra Kālāma; sau khi đến, Ta nói với Āḷāra Kālāma: 'Thưa hiền giả Kālāma, có phải cho đến mức độ này hiền giả tuyên bố rằng hiền giả đã tự mình chứng ngộ và đạt đến Pháp này?'
 
-‘Ahampi kho, āvuso, ettāvatā imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharāmī’ti.
+'Thưa hiền giả, cho đến mức độ này tôi tuyên bố rằng tôi đã tự mình chứng ngộ và đạt đến Pháp này'.
 
-‘Lābhā no, āvuso, suladdhaṁ no, āvuso, ye mayaṁ āyasmantaṁ tādisaṁ sabrahmacāriṁ passāma. Iti yāhaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedemi, taṁ tvaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharasi. Yaṁ tvaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharasi, tamahaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedemi. Iti yāhaṁ dhammaṁ jānāmi taṁ tvaṁ dhammaṁ jānāsi; yaṁ tvaṁ dhammaṁ jānāsi tamahaṁ dhammaṁ jānāmi. Iti yādiso ahaṁ, tādiso tuvaṁ; yādiso tuvaṁ tādiso ahaṁ. Ehi dāni, āvuso, ubhova santā imaṁ gaṇaṁ pariharāmā’ti. Iti kho, rājakumāra, āḷāro kālāmo ācariyo me samāno attano antevāsiṁ maṁ samānaṁ attanā samasamaṁ ṭhapesi, uḷārāya ca maṁ pūjāya pūjesi.
+'Thưa hiền giả, tôi cũng đã tự mình chứng ngộ, đạt đến và an trú trong Pháp này cho đến mức độ này'.
 
-Tassa mayhaṁ, rājakumāra, etadahosi: ‘nāyaṁ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva ākiñcaññāyatanūpapattiyā’ti. So kho ahaṁ, rājakumāra, taṁ dhammaṁ analaṅkaritvā tasmā dhammā nibbijja apakkamiṁ.
+'Thật là lợi ích cho chúng tôi, thưa hiền giả, thật là khéo đạt được cho chúng tôi, thưa hiền giả, khi chúng tôi được thấy một người đồng tu như Tôn giả. Như vậy, Pháp mà tôi tuyên bố đã tự mình chứng ngộ và đạt đến, chính là Pháp mà hiền giả đã tự mình chứng ngộ, đạt đến và an trú. Pháp mà hiền giả đã tự mình chứng ngộ, đạt đến và an trú, chính là Pháp mà tôi tuyên bố đã tự mình chứng ngộ và đạt đến. Như vậy, Pháp mà tôi biết là Pháp mà hiền giả biết; Pháp mà hiền giả biết là Pháp mà tôi biết. Như vậy, tôi như thế nào thì hiền giả như thế ấy; hiền giả như thế nào thì tôi như thế ấy. Này hiền giả, bây giờ hãy đến đây, cả hai chúng ta cùng nhau dẫn dắt hội chúng này'. Này vương tử, như vậy Āḷāra Kālāma là đạo sư của Ta, lại đặt Ta là học trò ngang hàng với chính mình, và tôn vinh Ta bằng sự tôn vinh cao tột.
 
-So kho ahaṁ, rājakumāra, kiṅkusalagavesī anuttaraṁ santivarapadaṁ pariyesamāno yena udako rāmaputto tenupasaṅkamiṁ; upasaṅkamitvā udakaṁ rāmaputtaṁ etadavocaṁ: ‘icchāmahaṁ, āvuso, imasmiṁ dhammavinaye brahmacariyaṁ caritun’ti.
+Này vương tử, Ta suy nghĩ: 'Pháp này không dẫn đến sự nhàm chán, không dẫn đến sự *cạn hết đắm nhiễm* (ly tham / virāgāya), không dẫn đến sự *chấm dứt* (diệt / nirodhāya), không dẫn đến sự bình an, không dẫn đến sự *hiểu biết* trọn vẹn, không dẫn đến sự giác ngộ, không dẫn đến Niết-bàn, mà chỉ dẫn đến sự tái sinh vào *tầng Không Có Vật Gì*'. Này vương tử, Ta không hài lòng với Pháp ấy, nên đã từ bỏ Pháp ấy và rời đi.
 
-Evaṁ vutte, rājakumāra, udako rāmaputto maṁ etadavoca: ‘viharatāyasmā, tādiso ayaṁ dhammo yattha viññū puriso nacirasseva sakaṁ ācariyakaṁ sayaṁ abhiññā sacchikatvā upasampajja vihareyyā’ti.
+Này vương tử, để tìm kiếm cái gì là thiện, tìm kiếm con đường tối thượng dẫn đến trạng thái bình an thù thắng, Ta đi đến chỗ Udaka Rāmaputta; sau khi đến, Ta nói với Udaka Rāmaputta: 'Thưa hiền giả, tôi muốn sống *đời sống thánh thiện* trong Pháp và Luật [theo hiền giả]'.
 
-So kho ahaṁ, rājakumāra, nacirasseva khippameva taṁ dhammaṁ pariyāpuṇiṁ. So kho ahaṁ, rājakumāra, tāvatakeneva oṭṭhapahatamattena lapitalāpanamattena ñāṇavādañca vadāmi, theravādañca jānāmi passāmīti ca paṭijānāmi, ahañceva aññe ca.
+Này vương tử, khi được nói vậy, Udaka Rāmaputta nói với Ta: 'Tôn giả hãy ở lại, Pháp này là như vậy, nơi mà một người trí không bao lâu có thể tự mình chứng ngộ, đạt đến và an trú trong giáo lý của đạo sư mình'.
 
-Tassa mayhaṁ, rājakumāra, etadahosi: ‘na kho rāmo imaṁ dhammaṁ kevalaṁ saddhāmattakena sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedesi; addhā rāmo imaṁ dhammaṁ jānaṁ passaṁ vihāsī’ti.
+Này vương tử, không bao lâu, rất nhanh chóng, Ta đã học thuộc Pháp ấy. Này Vương tử, chỉ chừng ấy,  bằng việc mấp máy môi và lặp lại suông, ta đã [có thể] nói lời tri thức, và tự nhận rằng: ‘Ta biết, ta thấy’ giáo pháp của các bậc trưởng lão; ta cũng vậy, và những người khác cũng vậy.
 
-13\. Atha khvāhaṁ, rājakumāra, yena udako rāmaputto tenupasaṅkamiṁ; upasaṅkamitvā udakaṁ rāmaputtaṁ etadavocaṁ: ‘kittāvatā no, āvuso, rāmo imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedesī’ti? Evaṁ vutte, rājakumāra, udako rāmaputto nevasaññānāsaññāyatanaṁ pavedesi. {#13}
+13\. Này vương tử, sau đó Ta đi đến chỗ Udaka Rāmaputta; sau khi đến, Ta nói với Udaka Rāmaputta: 'Thưa hiền giả, cho đến mức độ nào Rāma tuyên bố rằng ông ấy đã tự mình chứng ngộ, đạt đến và an trú trong Pháp này?' Này vương tử, khi được nói vậy, Udaka Rāmaputta tuyên bố về *tầng Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"* (phi tưởng phi phi tưởng xứ / nevasaññānāsaññāyatana). {#13}
 
-Tassa mayhaṁ, rājakumāra, etadahosi: ‘na kho rāmasseva ahosi saddhā, mayhampatthi saddhā; na kho rāmasseva ahosi vīriyaṁ …pe… sati … samādhi … paññā, mayhampatthi paññā. Yannūnāhaṁ yaṁ dhammaṁ rāmo sayaṁ abhiññā sacchikatvā upasampajja viharāmīti pavedeti tassa dhammassa sacchikiriyāya padaheyyan’ti. So kho ahaṁ, rājakumāra, nacirasseva khippameva taṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja vihāsiṁ.
+Này vương tử, Ta suy nghĩ: 'Không phải chỉ Rāma mới có niềm tin, Ta cũng có niềm tin; không phải chỉ Rāma mới có nỗ lực... tập trung chú ý... Định... trí tuệ, Ta cũng có trí tuệ. Hay là Ta nên nỗ lực để trực tiếp chứng nghiệm Pháp mà Rāma tuyên bố rằng ông ấy đã tự mình chứng ngộ, đạt đến và an trú?' Này vương tử, không bao lâu, rất nhanh chóng, Ta đã tự mình chứng ngộ, đạt đến và an trú trong Pháp ấy.
 
-Atha khvāhaṁ, rājakumāra, yena udako rāmaputto tenupasaṅkamiṁ; upasaṅkamitvā udakaṁ rāmaputtaṁ etadavocaṁ: ‘ettāvatā no, āvuso, rāmo imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedesī’ti?
+Này vương tử, sau đó Ta đi đến chỗ Udaka Rāmaputta; sau khi đến, Ta nói với Udaka Rāmaputta: 'Thưa hiền giả, có phải cho đến mức độ này Rāma tuyên bố rằng ông ấy đã tự mình chứng ngộ và đạt đến Pháp này?'
 
-‘Ettāvatā kho, āvuso, rāmo imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja pavedesī’ti.
+'Thưa hiền giả, cho đến mức độ này Rāma tuyên bố rằng ông ấy đã tự mình chứng ngộ và đạt đến Pháp này'.
 
-‘Ahampi kho, āvuso, ettāvatā imaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharāmī’ti.
+'Thưa hiền giả, tôi cũng đã tự mình chứng ngộ, đạt đến và an trú trong Pháp này cho đến mức độ này'.
 
-‘Lābhā no, āvuso, suladdhaṁ no, āvuso, ye mayaṁ āyasmantaṁ tādisaṁ sabrahmacāriṁ passāma. Iti yaṁ dhammaṁ rāmo sayaṁ abhiññā sacchikatvā upasampajja pavedesi taṁ tvaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharasi. Yaṁ tvaṁ dhammaṁ sayaṁ abhiññā sacchikatvā upasampajja viharasi taṁ dhammaṁ rāmo sayaṁ abhiññā sacchikatvā upasampajja pavedesi. Iti yaṁ dhammaṁ rāmo abhiññāsi taṁ tvaṁ dhammaṁ jānāsi; yaṁ tvaṁ dhammaṁ jānāsi taṁ dhammaṁ rāmo abhiññāsi. Iti yādiso rāmo ahosi tādiso tuvaṁ, yādiso tuvaṁ tādiso rāmo ahosi. Ehi dāni, āvuso, tuvaṁ imaṁ gaṇaṁ pariharā’ti. Iti kho, rājakumāra, udako rāmaputto sabrahmacārī me samāno ācariyaṭṭhāne maṁ ṭhapesi, uḷārāya ca maṁ pūjāya pūjesi.
+'Thật là lợi ích cho chúng tôi, thưa hiền giả, thật là khéo đạt được cho chúng tôi, thưa hiền giả, khi chúng tôi được thấy một người đồng tu như Tôn giả. Như vậy, Pháp mà Rāma tuyên bố đã tự mình chứng ngộ và đạt đến, chính là Pháp mà hiền giả đã tự mình chứng ngộ, đạt đến và an trú. Pháp mà hiền giả đã tự mình chứng ngộ, đạt đến và an trú, chính là Pháp mà Rāma tuyên bố đã tự mình chứng ngộ và đạt đến. Như vậy, Pháp mà Rāma biết là Pháp mà hiền giả biết; Pháp mà hiền giả biết là Pháp mà Rāma biết. Như vậy, Rāma như thế nào thì hiền giả như thế ấy; hiền giả như thế nào thì Rāma như thế ấy. Này hiền giả, bây giờ hãy đến đây, hiền giả hãy dẫn dắt hội chúng này'. Này vương tử, như vậy Udaka Rāmaputta là người đồng tu của Ta, lại đặt Ta vào vị trí đạo sư, và tôn vinh Ta bằng sự tôn vinh cao tột.
 
-Tassa mayhaṁ, rājakumāra, etadahosi: ‘nāyaṁ dhammo nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattati, yāvadeva nevasaññānāsaññāyatanūpapattiyā’ti. So kho ahaṁ, rājakumāra, taṁ dhammaṁ analaṅkaritvā tasmā dhammā nibbijja apakkamiṁ.
+Này vương tử, Ta suy nghĩ: 'Pháp này không dẫn đến sự nhàm chán, không dẫn đến sự *cạn hết đắm nhiễm*, không dẫn đến sự *chấm dứt*, không dẫn đến sự bình an, không dẫn đến sự *hiểu biết* trọn vẹn, không dẫn đến sự giác ngộ, không dẫn đến Niết-bàn, mà chỉ dẫn đến sự tái sinh vào *tầng Không Phải "Có Nhận Thức"; Cũng Không Phải "Mất Nhận Thức"*. Này vương tử, Ta không hài lòng với Pháp ấy, nên đã từ bỏ Pháp ấy và rời đi.
 
-14\. So kho ahaṁ, rājakumāra, kiṅkusalagavesī anuttaraṁ santivarapadaṁ pariyesamāno, magadhesu anupubbena cārikaṁ caramāno, yena uruvelā senānigamo tadavasariṁ. Tatthaddasaṁ ramaṇīyaṁ bhūmibhāgaṁ, pāsādikañca vanasaṇḍaṁ, nadiñca sandantiṁ setakaṁ supatitthaṁ, ramaṇīyaṁ samantā ca gocaragāmaṁ. {#14}
+14\. Này vương tử, để tìm kiếm cái gì là thiện, tìm kiếm con đường tối thượng dẫn đến trạng thái bình an thù thắng, Ta đi bộ dần dần qua xứ Magadha và đến thị trấn Uruvelā. Tại đó, Ta thấy một vùng đất dễ thương, một khu rừng tĩnh lặng, một dòng sông chảy êm đềm với nước trong vắt và bến bờ dễ chịu, xung quanh là những ngôi làng có thể đi khất thực. {#14}
 
-Tassa mayhaṁ, rājakumāra, etadahosi: ‘ramaṇīyo vata bho bhūmibhāgo, pāsādiko ca vanasaṇḍo, nadī ca sandati setakā supatitthā, ramaṇīyā samantā ca gocaragāmo. Alaṁ vatidaṁ kulaputtassa padhānatthikassa padhānāyā’ti. So kho ahaṁ, rājakumāra, tattheva nisīdiṁ: ‘alamidaṁ padhānāyā’ti.
+Này vương tử, Ta suy nghĩ: 'Vùng đất này thật dễ thương, khu rừng thật tĩnh lặng, dòng sông chảy êm đềm với nước trong vắt và bến bờ dễ chịu, xung quanh là những ngôi làng có thể đi khất thực. Nơi này thật thích hợp cho một thiện nam tử đang mong muốn nỗ lực tu tập'. Này vương tử, Ta liền ngồi xuống tại đó: 'Nơi này thật thích hợp để nỗ lực tu tập'.
 
-15\. Apissu maṁ, rājakumāra, tisso upamā paṭibhaṁsu anacchariyā pubbe assutapubbā. {#15}
+<!--pg-->
+15\. Này vương tử, ba ví dụ này khởi lên trong Ta, thật kỳ diệu, chưa từng được nghe trước đây. {#15}
 
-16\. Seyyathāpi, rājakumāra, allaṁ kaṭṭhaṁ sasnehaṁ udake nikkhittaṁ. Atha puriso āgaccheyya uttarāraṇiṁ ādāya: ‘aggiṁ abhinibbattessāmi, tejo pātukarissāmī’ti. Taṁ kiṁ maññasi, rājakumāra, api nu so puriso amuṁ allaṁ kaṭṭhaṁ sasnehaṁ udake nikkhittaṁ uttarāraṇiṁ ādāya abhimanthento aggiṁ abhinibbatteyya, tejo pātukareyyā”ti? {#16}
+16\. Này vương tử, ví như có một khúc gỗ ướt, đầy nhựa, bị vứt xuống nước. Rồi một người đến mang theo dụng cụ tạo lửa, nghĩ rằng: 'Ta sẽ tạo ra lửa, ta sẽ làm cho lửa cháy lên'. Này vương tử, ông nghĩ sao, người đó mang theo dụng cụ tạo lửa, cọ xát vào khúc gỗ ướt, đầy nhựa, bị vứt xuống nước ấy, liệu có thể tạo ra lửa, làm cho lửa cháy lên được không?" {#16}
 
-“No hidaṁ, bhante. Taṁ kissa hetu? Aduñhi, bhante, allaṁ kaṭṭhaṁ sasnehaṁ tañca pana udake nikkhittaṁ, yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.
+"Thưa không, bạch Thế Tôn. Vì sao vậy? Bạch Thế Tôn, vì khúc gỗ ấy ướt, đầy nhựa, lại bị vứt xuống nước, nên người đó chỉ chuốc lấy sự mệt mỏi và bực dọc mà thôi."
 
-17\. “Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi avūpakaṭṭhā viharanti, yo ca nesaṁ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṁ na suppahīno hoti, na suppaṭippassaddho. Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya. No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya. Ayaṁ kho maṁ, rājakumāra, paṭhamā upamā paṭibhāsi anacchariyā pubbe assutapubbā. {#17}
+17\. "Cũng vậy, này vương tử, bất kỳ sa-môn hay bà-la-môn nào sống không *rời bỏ* (viễn ly / vūpakaṭṭhā) các *bản năng* (dục / kāmehi) về thân và tâm, và đối với các *bản năng*, *mong muốn* (dục / kāmacchando) *bản năng*, sự luyến ái *bản năng*, sự mê mẩn *bản năng*, sự khao khát *bản năng*, sự thiêu đốt của *bản năng* ở bên trong họ chưa được từ bỏ hoàn toàn, chưa được lắng dịu hoàn toàn. Cho dù các vị sa-môn hay bà-la-môn ấy có cảm nhận những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, họ cũng không thể đạt đến trí tuệ, cái thấy và sự giác ngộ vô thượng. Và cho dù các vị sa-môn hay bà-la-môn ấy không cảm nhận những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, họ cũng không thể đạt đến trí tuệ, cái thấy và sự giác ngộ vô thượng. Này vương tử, đây là ví dụ thứ nhất khởi lên trong Ta, thật kỳ diệu, chưa từng được nghe trước đây. {#17}
 
-18\. Aparāpi kho maṁ, rājakumāra, dutiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā. {#18}
+18\. Này vương tử, ví dụ thứ hai này khởi lên trong Ta, thật kỳ diệu, chưa từng được nghe trước đây. {#18}
 
-Seyyathāpi, rājakumāra, allaṁ kaṭṭhaṁ sasnehaṁ ārakā udakā thale nikkhittaṁ. Atha puriso āgaccheyya uttarāraṇiṁ ādāya: ‘aggiṁ abhinibbattessāmi, tejo pātukarissāmī’ti. Taṁ kiṁ maññasi, rājakumāra, api nu so puriso amuṁ allaṁ kaṭṭhaṁ sasnehaṁ ārakā udakā thale nikkhittaṁ uttarāraṇiṁ ādāya abhimanthento aggiṁ abhinibbatteyya, tejo pātukareyyā”ti?
+Này vương tử, ví như có một khúc gỗ ướt, đầy nhựa, bị vứt trên bờ đất khô ráo, cách xa nước. Rồi một người đến mang theo dụng cụ tạo lửa, nghĩ rằng: 'Ta sẽ tạo ra lửa, ta sẽ làm cho lửa cháy lên'. Này vương tử, ông nghĩ sao, người đó mang theo dụng cụ tạo lửa, cọ xát vào khúc gỗ ướt, đầy nhựa, bị vứt trên bờ đất khô ráo cách xa nước ấy, liệu có thể tạo ra lửa, làm cho lửa cháy lên được không?"
 
-“No hidaṁ, bhante. Taṁ kissa hetu? Aduñhi, bhante, allaṁ kaṭṭhaṁ sasnehaṁ kiñcāpi ārakā udakā thale nikkhittaṁ, yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.
+"Thưa không, bạch Thế Tôn. Vì sao vậy? Bạch Thế Tôn, vì khúc gỗ ấy ướt, đầy nhựa, mặc dù bị vứt trên bờ đất khô ráo cách xa nước, nên người đó chỉ chuốc lấy sự mệt mỏi và bực dọc mà thôi."
 
-“Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi vūpakaṭṭhā viharanti, yo ca nesaṁ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṁ na suppahīno hoti, na suppaṭippassaddho. Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya. No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, abhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya. Ayaṁ kho maṁ, rājakumāra, dutiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā.
+"Cũng vậy, này vương tử, bất kỳ sa-môn hay bà-la-môn nào sống *rời bỏ* các *bản năng* về thân và tâm, nhưng đối với các *bản năng*, *mong muốn* *bản năng*, sự luyến ái *bản năng*, sự mê mẩn *bản năng*, sự khao khát *bản năng*, sự thiêu đốt của *bản năng* ở bên trong họ chưa được từ bỏ hoàn toàn, chưa được lắng dịu hoàn toàn. Cho dù các vị sa-môn hay bà-la-môn ấy có cảm nhận những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, họ cũng không thể đạt đến trí tuệ, cái thấy và sự giác ngộ vô thượng. Và cho dù các vị sa-môn hay bà-la-môn ấy không cảm nhận những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, họ cũng không thể đạt đến trí tuệ, cái thấy và sự giác ngộ vô thượng. Này vương tử, đây là ví dụ thứ hai khởi lên trong Ta, thật kỳ diệu, chưa từng được nghe trước đây.
 
-19\. Aparāpi kho maṁ, rājakumāra, tatiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā. {#19}
+19\. Này vương tử, ví dụ thứ ba này khởi lên trong Ta, thật kỳ diệu, chưa từng được nghe trước đây. {#19}
 
-Seyyathāpi, rājakumāra, sukkhaṁ kaṭṭhaṁ koḷāpaṁ ārakā udakā thale nikkhittaṁ. Atha puriso āgaccheyya uttarāraṇiṁ ādāya: ‘aggiṁ abhinibbattessāmi, tejo pātukarissāmī’ti. Taṁ kiṁ maññasi, rājakumāra, api nu so puriso amuṁ sukkhaṁ kaṭṭhaṁ koḷāpaṁ ārakā udakā thale nikkhittaṁ uttarāraṇiṁ ādāya abhimanthento aggiṁ abhinibbatteyya, tejo pātukareyyā”ti?
+Này vương tử, ví như có một khúc gỗ khô, mục nát, bị vứt trên bờ đất khô ráo, cách xa nước. Rồi một người đến mang theo dụng cụ tạo lửa, nghĩ rằng: 'Ta sẽ tạo ra lửa, ta sẽ làm cho lửa cháy lên'. Này vương tử, ông nghĩ sao, người đó mang theo dụng cụ tạo lửa, cọ xát vào khúc gỗ khô, mục nát, bị vứt trên bờ đất khô ráo cách xa nước ấy, liệu có thể tạo ra lửa, làm cho lửa cháy lên được không?"
 
-“Evaṁ, bhante. Taṁ kissa hetu? Aduñhi, bhante, sukkhaṁ kaṭṭhaṁ koḷāpaṁ, tañca pana ārakā udakā thale nikkhittan”ti.
+"Thưa được, bạch Thế Tôn. Vì sao vậy? Bạch Thế Tôn, vì khúc gỗ ấy khô, mục nát, và lại bị vứt trên bờ đất khô ráo cách xa nước."
 
-“Evameva kho, rājakumāra, ye hi keci samaṇā vā brāhmaṇā vā kāyena ceva cittena ca kāmehi vūpakaṭṭhā viharanti, yo ca nesaṁ kāmesu kāmacchando kāmasneho kāmamucchā kāmapipāsā kāmapariḷāho so ca ajjhattaṁ suppahīno hoti suppaṭippassaddho. Opakkamikā cepi te bhonto samaṇabrāhmaṇā dukkhā tibbā kharā kaṭukā vedanā vedayanti, bhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya. No cepi te bhonto samaṇabrāhmaṇā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, bhabbāva te ñāṇāya dassanāya anuttarāya sambodhāya. Ayaṁ kho maṁ, rājakumāra, tatiyā upamā paṭibhāsi anacchariyā pubbe assutapubbā. Imā kho maṁ, rājakumāra, tisso upamā paṭibhaṁsu anacchariyā pubbe assutapubbā.
+"Cũng vậy, này vương tử, bất kỳ sa-môn hay bà-la-môn nào sống *rời bỏ* các *bản năng* về thân và tâm, và đối với các *bản năng*, *mong muốn* *bản năng*, sự luyến ái *bản năng*, sự mê mẩn *bản năng*, sự khao khát *bản năng*, sự thiêu đốt của *bản năng* ở bên trong họ đã được từ bỏ hoàn toàn, đã được lắng dịu hoàn toàn. Cho dù các vị sa-môn hay bà-la-môn ấy có cảm nhận những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, họ có khả năng đạt đến trí tuệ, cái thấy và sự giác ngộ vô thượng. Và cho dù các vị sa-môn hay bà-la-môn ấy không cảm nhận những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, họ cũng có khả năng đạt đến trí tuệ, cái thấy và sự giác ngộ vô thượng. Này vương tử, đây là ví dụ thứ ba khởi lên trong Ta, thật kỳ diệu, chưa từng được nghe trước đây. Này vương tử, ba ví dụ này khởi lên trong Ta, thật kỳ diệu, chưa từng được nghe trước đây.
 
-20\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘yannūnāhaṁ dantebhidantamādhāya, jivhāya tāluṁ āhacca, cetasā cittaṁ abhiniggaṇheyyaṁ abhinippīḷeyyaṁ abhisantāpeyyan’ti. So kho ahaṁ, rājakumāra, dantebhidantamādhāya, jivhāya tāluṁ āhacca, cetasā cittaṁ abhiniggaṇhāmi abhinippīḷemi abhisantāpemi. Tassa mayhaṁ, rājakumāra, dantebhidantamādhāya, jivhāya tāluṁ āhacca, cetasā cittaṁ abhiniggaṇhato abhinippīḷayato abhisantāpayato kacchehi sedā muccanti. Seyyathāpi, rājakumāra, balavā puriso dubbalataraṁ purisaṁ sīse vā gahetvā khandhe vā gahetvā abhiniggaṇheyya abhinippīḷeyya abhisantāpeyya; evameva kho me, rājakumāra, dantebhidantamādhāya, jivhāya tāluṁ āhacca, cetasā cittaṁ abhiniggaṇhato abhinippīḷayato abhisantāpayato kacchehi sedā muccanti. Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato. {#20}
+20\. Này vương tử, Ta suy nghĩ: 'Hay là Ta nghiến răng, ép lưỡi lên vòm miệng, dùng tâm để đè nén, nghiền nát và thiêu đốt tâm'. Này vương tử, Ta liền nghiến răng, ép lưỡi lên vòm miệng, dùng tâm để đè nén, nghiền nát và thiêu đốt tâm. Này vương tử, khi Ta nghiến răng, ép lưỡi lên vòm miệng, dùng tâm để đè nén, nghiền nát và thiêu đốt tâm, mồ hôi tuôn ra từ nách Ta. Này vương tử, ví như một người khỏe mạnh nắm lấy đầu hoặc vai của một người yếu hơn để đè nén, nghiền nát và thiêu đốt; cũng vậy, này vương tử, khi Ta nghiến răng, ép lưỡi lên vòm miệng, dùng tâm để đè nén, nghiền nát và thiêu đốt tâm, mồ hôi tuôn ra từ nách Ta. Này vương tử, nỗ lực của Ta được khơi dậy không suy giảm, sự *tập trung chú ý* (niệm / sati) được thiết lập không quên lãng, nhưng thân Ta bị căng thẳng, không được lắng dịu, vì bị áp đảo bởi chính sự nỗ lực đau đớn ấy. {#20}
 
-21\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti. So kho ahaṁ, rājakumāra, mukhato ca nāsato ca assāsapassāse uparundhiṁ. Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca assāsapassāsesu uparuddhesu kaṇṇasotehi vātānaṁ nikkhamantānaṁ adhimatto saddo hoti. Seyyathāpi nāma kammāragaggariyā dhamamānāya adhimatto saddo hoti; evameva kho me, rājakumāra, mukhato ca nāsato ca assāsapassāsesu uparuddhesu kaṇṇasotehi vātānaṁ nikkhamantānaṁ adhimatto saddo hoti. Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato. {#21}
+21\. Này vương tử, Ta suy nghĩ: 'Hay là Ta thực hành thiền không thở'. Này vương tử, Ta liền nín thở ra và thở vào qua miệng và mũi. Này vương tử, khi Ta nín thở ra và thở vào qua miệng và mũi, có một tiếng ồn lớn của gió thoát ra qua lỗ tai. Ví như tiếng ồn lớn của ống bễ lò rèn đang thổi; cũng vậy, này vương tử, khi Ta nín thở ra và thở vào qua miệng và mũi, có một tiếng ồn lớn của gió thoát ra qua lỗ tai. Này vương tử, nỗ lực của Ta được khơi dậy không suy giảm, sự *tập trung chú ý* được thiết lập không quên lãng, nhưng thân Ta bị căng thẳng, không được lắng dịu, vì bị áp đảo bởi chính sự nỗ lực đau đớn ấy. {#21}
 
-22\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti. So kho ahaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṁ. Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā muddhani ūhananti. Seyyathāpi, rājakumāra, balavā puriso tiṇhena sikharena muddhani abhimattheyya; evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā muddhani ūhananti. Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato. {#22}
+22\. Này vương tử, Ta suy nghĩ: 'Hay là Ta tiếp tục thực hành thiền không thở'. Này vương tử, Ta liền nín thở ra và thở vào qua miệng, mũi và tai. Này vương tử, khi Ta nín thở ra và thở vào qua miệng, mũi và tai, những luồng gió mạnh đập vào đỉnh đầu Ta. Này vương tử, ví như một người khỏe mạnh dùng một thanh kiếm sắc nhọn đâm vào đỉnh đầu; cũng vậy, này vương tử, khi Ta nín thở ra và thở vào qua miệng, mũi và tai, những luồng gió mạnh đập vào đỉnh đầu Ta. Này vương tử, nỗ lực của Ta được khơi dậy không suy giảm, sự *tập trung chú ý* được thiết lập không quên lãng, nhưng thân Ta bị căng thẳng, không được lắng dịu, vì bị áp đảo bởi chính sự nỗ lực đau đớn ấy. {#22}
 
-23\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti. So kho ahaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṁ. Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā sīse sīsavedanā honti. Seyyathāpi, rājakumāra, balavā puriso daḷhena varattakkhaṇḍena sīse sīsaveṭhaṁ dadeyya; evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā sīse sīsavedanā honti. Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato. {#23}
+23\. Này vương tử, Ta suy nghĩ: 'Hay là Ta tiếp tục thực hành thiền không thở'. Này vương tử, Ta liền nín thở ra và thở vào qua miệng, mũi và tai. Này vương tử, khi Ta nín thở ra và thở vào qua miệng, mũi và tai, có những cơn đau đầu dữ dội trong đầu Ta. Này vương tử, ví như một người khỏe mạnh dùng một sợi dây da cứng siết chặt quanh đầu; cũng vậy, này vương tử, khi Ta nín thở ra và thở vào qua miệng, mũi và tai, có những cơn đau đầu dữ dội trong đầu Ta. Này vương tử, nỗ lực của Ta được khơi dậy không suy giảm, sự *tập trung chú ý* được thiết lập không quên lãng, nhưng thân Ta bị căng thẳng, không được lắng dịu, vì bị áp đảo bởi chính sự nỗ lực đau đớn ấy. {#23}
 
-24\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti. So kho ahaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṁ. Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā vātā kucchiṁ parikantanti. Seyyathāpi, rājakumāra, dakkho goghātako vā goghātakantevāsī vā tiṇhena govikantanena kucchiṁ parikanteyya; evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimattā, vātā kucchiṁ parikantanti. Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato. {#24}
+24\. Này vương tử, Ta suy nghĩ: 'Hay là Ta tiếp tục thực hành thiền không thở'. Này vương tử, Ta liền nín thở ra và thở vào qua miệng, mũi và tai. Này vương tử, khi Ta nín thở ra và thở vào qua miệng, mũi và tai, những luồng gió mạnh cắt ngang bụng Ta. Này vương tử, ví như một người đồ tể khéo léo hoặc người học việc của đồ tể dùng một con dao mổ bò sắc bén cắt ngang bụng; cũng vậy, này vương tử, khi Ta nín thở ra và thở vào qua miệng, mũi và tai, những luồng gió mạnh cắt ngang bụng Ta. Này vương tử, nỗ lực của Ta được khơi dậy không suy giảm, sự *tập trung chú ý* được thiết lập không quên lãng, nhưng thân Ta bị căng thẳng, không được lắng dịu, vì bị áp đảo bởi chính sự nỗ lực đau đớn ấy. {#24}
 
-25\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘yannūnāhaṁ appāṇakaṁyeva jhānaṁ jhāyeyyan’ti. So kho ahaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāse uparundhiṁ. Tassa mayhaṁ, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimatto kāyasmiṁ ḍāho hoti. Seyyathāpi, rājakumāra, dve balavanto purisā dubbalataraṁ purisaṁ nānābāhāsu gahetvā aṅgārakāsuyā santāpeyyuṁ samparitāpeyyuṁ; evameva kho me, rājakumāra, mukhato ca nāsato ca kaṇṇato ca assāsapassāsesu uparuddhesu adhimatto kāyasmiṁ ḍāho hoti. Āraddhaṁ kho pana me, rājakumāra, vīriyaṁ hoti asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, sāraddho ca pana me kāyo hoti appaṭippassaddho, teneva dukkhappadhānena padhānābhitunnassa sato. {#25}
+25\. Này vương tử, Ta suy nghĩ: 'Hay là Ta tiếp tục thực hành thiền không thở'. Này vương tử, Ta liền nín thở ra và thở vào qua miệng, mũi và tai. Này vương tử, khi Ta nín thở ra và thở vào qua miệng, mũi và tai, có một sức nóng dữ dội trong thân Ta. Này vương tử, ví như hai người khỏe mạnh nắm lấy cánh tay của một người yếu hơn để hơ nướng trên một hố than hồng; cũng vậy, này vương tử, khi Ta nín thở ra và thở vào qua miệng, mũi và tai, có một sức nóng dữ dội trong thân Ta. Này vương tử, nỗ lực của Ta được khơi dậy không suy giảm, sự *tập trung chú ý* được thiết lập không quên lãng, nhưng thân Ta bị căng thẳng, không được lắng dịu, vì bị áp đảo bởi chính sự nỗ lực đau đớn ấy. {#25}
 
-26\. Apissu maṁ, rājakumāra, devatā disvā evamāhaṁsu: ‘kālaṅkato samaṇo gotamo’ti. Ekaccā devatā evamāhaṁsu: ‘na kālaṅkato samaṇo gotamo, api ca kālaṁ karotī’ti. Ekaccā devatā evamāhaṁsu: ‘na kālaṅkato samaṇo gotamo, nāpi kālaṁ karoti. Arahaṁ samaṇo gotamo. Vihāro tveva so arahato evarūpo hotī’ti. {#26}
+26\. Này vương tử, các chư thiên thấy Ta liền nói: 'Sa-môn Gotama đã chết'. Một số chư thiên nói: 'Sa-môn Gotama chưa chết, nhưng đang hấp hối'. Một số chư thiên khác lại nói: 'Sa-môn Gotama không chết, cũng không phải đang hấp hối. Sa-môn Gotama là bậc A-la-hán. Cách sống của bậc A-la-hán là như vậy'. {#26}
 
-27\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘yannūnāhaṁ sabbaso āhārupacchedāya paṭipajjeyyan’ti. Atha kho maṁ, rājakumāra, devatā upasaṅkamitvā etadavocuṁ: ‘mā kho tvaṁ, mārisa, sabbaso āhārupacchedāya paṭipajji. Sace kho tvaṁ, mārisa, sabbaso āhārupacchedāya paṭipajjissasi, tassa te mayaṁ dibbaṁ ojaṁ lomakūpehi ajjhohāressāma, tāya tvaṁ yāpessasī’ti. Tassa mayhaṁ, rājakumāra, etadahosi: ‘ahañceva kho pana sabbaso ajajjitaṁ paṭijāneyyaṁ. Imā ca me devatā dibbaṁ ojaṁ lomakūpehi ajjhohāreyyuṁ, tāya cāhaṁ yāpeyyaṁ, taṁ mamassa musā’ti. So kho ahaṁ, rājakumāra, tā devatā paccācikkhāmi. ‘Halan’ti vadāmi. {#27}
+27\. Này vương tử, Ta suy nghĩ: 'Hay là Ta thực hành nhịn ăn hoàn toàn'. Này vương tử, các chư thiên đến chỗ Ta và nói: 'Thưa ngài, xin đừng thực hành nhịn ăn hoàn toàn. Nếu ngài thực hành nhịn ăn hoàn toàn, chúng tôi sẽ truyền chất bổ cõi trời qua các lỗ chân lông của ngài, và ngài sẽ sống nhờ chất bổ đó'. Này vương tử, Ta suy nghĩ: 'Nếu Ta tuyên bố nhịn ăn hoàn toàn, mà các chư thiên này lại truyền chất bổ cõi trời qua các lỗ chân lông của Ta, và Ta sống nhờ chất bổ đó, thì Ta sẽ thành người nói dối'. Này vương tử, Ta từ chối các chư thiên ấy và nói: 'Không cần đâu'. {#27}
 
-28\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘yannūnāhaṁ thokaṁ thokaṁ āhāraṁ āhāreyyaṁ pasataṁ pasataṁ, yadi vā muggayūsaṁ yadi vā kulatthayūsaṁ yadi vā kaḷāyayūsaṁ yadi vā hareṇukayūsan’ti. So kho ahaṁ, rājakumāra, thokaṁ thokaṁ āhāraṁ āhāresiṁ pasataṁ pasataṁ, yadi vā muggayūsaṁ yadi vā kulatthayūsaṁ yadi vā kaḷāyayūsaṁ yadi vā hareṇukayūsaṁ. Tassa mayhaṁ, rājakumāra, thokaṁ thokaṁ āhāraṁ āhārayato pasataṁ pasataṁ, yadi vā muggayūsaṁ yadi vā kulatthayūsaṁ yadi vā kaḷāyayūsaṁ yadi vā hareṇukayūsaṁ, adhimattakasimānaṁ patto kāyo hoti. Seyyathāpi nāma āsītikapabbāni vā kāḷapabbāni vā; evamevassu me aṅgapaccaṅgāni bhavanti tāyevappāhāratāya. Seyyathāpi nāma oṭṭhapadaṁ; evamevassu me ānisadaṁ hoti tāyevappāhāratāya. Seyyathāpi nāma vaṭṭanāvaḷī; evamevassu me piṭṭhikaṇṭako uṇṇatāvanato hoti tāyevappāhāratāya. Seyyathāpi nāma jarasālāya gopānasiyo oluggaviluggā bhavanti; evamevassu me phāsuḷiyo oluggaviluggā bhavanti tāyevappāhāratāya. Seyyathāpi nāma gambhīre udapāne udakatārakā gambhīragatā okkhāyikā dissanti; evamevassu me akkhikūpesu akkhitārakā gambhīragatā okkhāyikā dissanti tāyevappāhāratāya. Seyyathāpi nāma tittakālābu āmakacchinno vātātapena samphuṭito hoti sammilāto; evamevassu me sīsacchavi samphuṭitā hoti sammilātā tāyevappāhāratāya. So kho ahaṁ, rājakumāra, ‘udaracchaviṁ parimasissāmī’ti piṭṭhikaṇṭakaṁyeva pariggaṇhāmi, ‘piṭṭhikaṇṭakaṁ parimasissāmī’ti udaracchaviṁyeva pariggaṇhāmi. Yāvassu me, rājakumāra, udaracchavi piṭṭhikaṇṭakaṁ allīnā hoti tāyevappāhāratāya. So kho ahaṁ, rājakumāra, ‘vaccaṁ vā muttaṁ vā karissāmī’ti tattheva avakujjo papatāmi tāyevappāhāratāya. So kho ahaṁ, rājakumāra, imameva kāyaṁ assāsento pāṇinā gattāni anumajjāmi. Tassa mayhaṁ, rājakumāra, pāṇinā gattāni anumajjato pūtimūlāni lomāni kāyasmā papatanti tāyevappāhāratāya. {#28}
+28\. Này vương tử, Ta suy nghĩ: 'Hay là Ta chỉ ăn từng chút một thức ăn, mỗi lần một vốc tay, dù là nước súp đậu xanh, nước súp đậu ván, nước súp đậu lăng, hay nước súp đậu Hà Lan'. Này vương tử, Ta liền ăn từng chút một thức ăn, mỗi lần một vốc tay, dù là nước súp đậu xanh, nước súp đậu ván, nước súp đậu lăng, hay nước súp đậu Hà Lan. Này vương tử, khi Ta ăn từng chút một thức ăn, mỗi lần một vốc tay, dù là nước súp đậu xanh, nước súp đậu ván, nước súp đậu lăng, hay nước súp đậu Hà Lan, thân thể Ta trở nên vô cùng gầy gò. Ví như những đốt cây leo hay cây tre khô; các chi phần của Ta trở nên như vậy vì ăn quá ít. Ví như móng chân lạc đà; mông của Ta trở nên như vậy vì ăn quá ít. Ví như một chuỗi hạt; xương sống của Ta nhô lên lõm xuống như vậy vì ăn quá ít. Ví như những rui mẻ của một ngôi nhà hoang tàn; các xương sườn của Ta nhô ra như vậy vì ăn quá ít. Ví như những vì sao lấp lánh dưới đáy một giếng nước sâu; con ngươi trong hốc mắt của Ta chìm sâu xuống như vậy vì ăn quá ít. Ví như một quả bầu đắng bị cắt khi còn xanh, bị gió và nắng làm héo rúm; da đầu của Ta trở nên nhăn nheo héo rúm như vậy vì ăn quá ít. Này vương tử, khi Ta nghĩ: 'Ta sẽ sờ da bụng', thì Ta nắm trúng xương sống; khi Ta nghĩ: 'Ta sẽ sờ xương sống', thì Ta nắm trúng da bụng. Này vương tử, da bụng của Ta dính sát vào xương sống vì ăn quá ít. Này vương tử, khi Ta nghĩ: 'Ta sẽ đi đại tiện hay tiểu tiện', thì Ta ngã gục xuống ngay tại chỗ vì ăn quá ít. Này vương tử, khi Ta xoa bóp tay chân để xoa dịu cơ thể này, những sợi lông mục gốc rụng lả tả khỏi thân Ta vì ăn quá ít. {#28}
 
-29\. Apissu maṁ, rājakumāra, manussā disvā evamāhaṁsu: ‘kāḷo samaṇo gotamo’ti, ekacce manussā evamāhaṁsu: ‘na kāḷo samaṇo gotamo, sāmo samaṇo gotamo’ti. Ekacce manussā evamāhaṁsu: ‘na kāḷo samaṇo gotamo, napi sāmo, maṅguracchavi samaṇo gotamo’ti. Yāvassu me, rājakumāra, tāva parisuddho chavivaṇṇo pariyodāto upahato hoti tāyevappāhāratāya. {#29}
+29\. Này vương tử, những người thấy Ta liền nói: 'Sa-môn Gotama đen sạm'. Một số người nói: 'Sa-môn Gotama không đen sạm, Sa-môn Gotama sẫm màu'. Một số người khác lại nói: 'Sa-môn Gotama không đen sạm, cũng không sẫm màu, Sa-môn Gotama có làn da màu vàng vọt'. Này vương tử, làn da vốn trong trẻo, sáng sủa của Ta đã bị hủy hoại đến như vậy vì ăn quá ít. {#29}
 
-30\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘ye kho keci atītamaddhānaṁ samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayiṁsu, etāvaparamaṁ nayito bhiyyo. Yepi hi keci anāgatamaddhānaṁ samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayissanti, etāvaparamaṁ nayito bhiyyo. Yepi hi keci etarahi samaṇā vā brāhmaṇā vā opakkamikā dukkhā tibbā kharā kaṭukā vedanā vedayanti, etāvaparamaṁ nayito bhiyyo. Na kho panāhaṁ imāya kaṭukāya dukkarakārikāya adhigacchāmi uttari manussadhammā alamariyañāṇadassanavisesaṁ; siyā nu kho añño maggo bodhāyā’ti. {#30}
+30\. Này vương tử, Ta suy nghĩ: 'Bất kỳ sa-môn hay bà-la-môn nào trong quá khứ đã trải qua những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, thì đây là tột cùng, không thể hơn được nữa. Bất kỳ sa-môn hay bà-la-môn nào trong tương lai sẽ trải qua những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, thì đây là tột cùng, không thể hơn được nữa. Bất kỳ sa-môn hay bà-la-môn nào trong hiện tại đang trải qua những cảm thọ đau đớn, dữ dội, sắc bén, khốc liệt do nỗ lực tạo ra, thì đây là tột cùng, không thể hơn được nữa. Nhưng bằng sự khổ hạnh khốc liệt này, Ta vẫn không đạt được trạng thái vượt trội của con người, không đạt được trí tuệ và cái thấy thù thắng của bậc thánh; liệu có một con đường nào khác dẫn đến giác ngộ chăng?' {#30}
 
-31\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘abhijānāmi kho panāhaṁ pitu sakkassa kammante sītāya jambucchāyāya nisinno vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharitā; siyā nu kho eso maggo bodhāyā’ti. Tassa mayhaṁ, rājakumāra, satānusāri viññāṇaṁ ahosi: ‘eseva maggo bodhāyā’ti. {#31}
 
-32\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘kiṁ nu kho ahaṁ tassa sukhassa bhāyāmi yaṁ taṁ sukhaṁ aññatreva kāmehi aññatra akusalehi dhammehī’ti? Tassa mayhaṁ, rājakumāra, etadahosi: ‘na kho ahaṁ tassa sukhassa bhāyāmi yaṁ taṁ sukhaṁ aññatreva kāmehi aññatra akusalehi dhammehī’ti. {#32}
+31\. Này vương tử, Ta suy nghĩ: 'Ta nhớ lại khi cha Ta, người dòng họ Thích-ca, đang làm việc, Ta ngồi dưới bóng mát của cây hồng táo, *rời bỏ khỏi* (ly / vivicca) các *bản năng* (dục / kāmehi), *rời bỏ khỏi* *những điều không thiện* (bất thiện pháp / akusalehi dhammehi), đạt được và an trú trong *Thiền-na* (thiền / jhāna) thứ nhất, một trạng thái có *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (tầm và tứ / savitakkaṁ savicāraṁ), có *hân hoan* (hỷ / pīti) và *hạnh phúc* (lạc / sukha) sinh ra từ sự *rời bỏ* (viễn ly / vivekajaṁ); liệu đây có phải là con đường dẫn đến giác ngộ chăng?' Này vương tử, theo sau ký ức đó, *Nhận Biết* (thức / viññāṇa) khởi lên trong Ta: 'Đây chính là con đường dẫn đến giác ngộ'. {#31}
 
-33\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘na kho taṁ sukaraṁ sukhaṁ adhigantuṁ evaṁ adhimattakasimānaṁ pattakāyena. Yannūnāhaṁ oḷārikaṁ āhāraṁ āhāreyyaṁ odanakummāsan’ti. So kho ahaṁ, rājakumāra, oḷārikaṁ āhāraṁ āhāresiṁ odanakummāsaṁ. Tena kho pana maṁ, rājakumāra, samayena pañcavaggiyā bhikkhū paccupaṭṭhitā honti: ‘yaṁ kho samaṇo gotamo dhammaṁ adhigamissati taṁ no ārocessatī’ti. Yato kho ahaṁ, rājakumāra, oḷārikaṁ āhāraṁ āhāresiṁ odanakummāsaṁ, atha me te pañcavaggiyā bhikkhū nibbijja pakkamiṁsu: ‘bāhulliko samaṇo gotamo padhānavibbhanto, āvatto bāhullāyā’ti. {#33}
+32\. Này vương tử, Ta suy nghĩ: 'Tại sao Ta lại sợ hãi *hạnh phúc* ấy, một thứ *hạnh phúc* hoàn toàn tách biệt với các *bản năng*, tách biệt với *những điều không thiện*?' Này vương tử, Ta suy nghĩ: 'Ta không sợ hãi *hạnh phúc* ấy, một thứ *hạnh phúc* hoàn toàn tách biệt với các *bản năng*, tách biệt với *những điều không thiện*'. {#32}
 
-34-37\. So kho ahaṁ, rājakumāra, oḷārikaṁ āhāraṁ āhāretvā balaṁ gahetvā vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja vihāsiṁ. Vitakkavicārānaṁ vūpasamā … dutiyaṁ jhānaṁ … tatiyaṁ jhānaṁ … catutthaṁ jhānaṁ upasampajja vihāsiṁ. So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmesiṁ. So anekavihitaṁ pubbenivāsaṁ anussarāmi, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarāmi. Ayaṁ kho me, rājakumāra, rattiyā paṭhame yāme paṭhamā vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato.
+33\. Này vương tử, Ta suy nghĩ: 'Thật không dễ gì đạt được *hạnh phúc* ấy với một cơ thể gầy gò đến mức này. Hay là Ta nên ăn thức ăn thô, như cơm và cháo'. Này vương tử, Ta liền ăn thức ăn thô, như cơm và cháo. Này vương tử, lúc bấy giờ có năm vị tỳ kheo đang hầu hạ Ta với suy nghĩ: 'Sa-môn Gotama đạt được Pháp nào, ngài sẽ nói cho chúng ta biết'. Này vương tử, khi Ta bắt đầu ăn thức ăn thô, như cơm và cháo, năm vị tỳ kheo ấy chán nản rời bỏ Ta, nói rằng: 'Sa-môn Gotama sống sung túc, đã từ bỏ nỗ lực, quay trở lại đời sống sung túc'. {#33}
 
-38\. So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmesiṁ. So dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi …pe… {#38}
+34-37\. Này vương tử, sau khi ăn thức ăn thô và lấy lại sức lực, *rời bỏ khỏi* các *bản năng*... Ta đạt được và an trú trong *Thiền-na* thứ nhất. Với sự *lắng dịu* (diệt / vūpasamā) của *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý*... đạt được và an trú trong *Thiền-na* thứ hai... *Thiền-na* thứ ba... *Thiền-na* thứ tư. Với tâm được định tĩnh, thanh tịnh, trong sáng, không cấu uế, không phiền não, nhu nhuyễn, dễ sử dụng, vững chắc và đạt đến sự bất động như vậy, Ta hướng tâm đến trí tuệ nhớ lại các đời sống quá khứ. Ta nhớ lại nhiều đời sống quá khứ, như là—một đời, hai đời... như vậy Ta nhớ lại nhiều đời sống quá khứ cùng với các đặc điểm và chi tiết. Này vương tử, đây là *hiểu biết* (minh / vijjā) thứ nhất Ta đạt được trong canh đầu của đêm, *không hiểu biết* (vô minh / avijjā) bị phá vỡ, *hiểu biết* sinh khởi; bóng tối bị phá vỡ, ánh sáng sinh khởi—như điều xảy ra với một người sống *không sao nhãng* (bất phóng dật / appamattassa), nhiệt tâm, quyết tâm.
 
-39\. ayaṁ kho me, rājakumāra, rattiyā majjhime yāme dutiyā vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato. {#39}
+38\. Với tâm được định tĩnh, thanh tịnh, trong sáng, không cấu uế, không phiền não, nhu nhuyễn, dễ sử dụng, vững chắc và đạt đến sự bất động như vậy, Ta hướng tâm đến trí tuệ về sự chết và tái sinh của chúng sinh. Với mắt thần thanh tịnh vượt qua giới hạn con người, Ta thấy chúng sinh chết đi và tái sinh, thấp kém và cao trọng, xinh đẹp và xấu xí, hạnh phúc và đau khổ, Ta *biết rõ* (tuệ tri / pajānāmi) chúng sinh đi theo nghiệp của mình... {#38}
 
-40\. So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmesiṁ. So ‘idaṁ dukkhan’ti yathābhūtaṁ abbhaññāsiṁ …pe… ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ; ‘ime āsavā’ti yathābhūtaṁ abbhaññāsiṁ …pe… ‘ayaṁ āsavanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ. {#40}
+39\. Này vương tử, đây là *hiểu biết* thứ hai Ta đạt được trong canh giữa của đêm, *không hiểu biết* bị phá vỡ, *hiểu biết* sinh khởi; bóng tối bị phá vỡ, ánh sáng sinh khởi—như điều xảy ra với một người sống *không sao nhãng*, nhiệt tâm, quyết tâm. {#39}
 
-41\. Tassa me evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccittha, bhavāsavāpi cittaṁ vimuccittha, avijjāsavāpi cittaṁ vimuccittha. Vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi. {#41}
+40\. Với tâm được định tĩnh, thanh tịnh, trong sáng, không cấu uế, không phiền não, nhu nhuyễn, dễ sử dụng, vững chắc và đạt đến sự bất động như vậy, Ta hướng tâm đến trí tuệ về sự *cạn kiệt* (đoạn tận / khaya) các *nguồn ác* (lậu hoặc / āsavānaṁ). Ta *hiểu toàn bộ* (thắng tri / abbhaññāsiṁ) đúng như thật: 'Đây là đau khổ'... Ta *hiểu toàn bộ* đúng như thật: 'Đây là con đường dẫn đến sự *chấm dứt* đau khổ'; Ta *hiểu toàn bộ* đúng như thật: 'Đây là các *nguồn ác*'... Ta *hiểu toàn bộ* đúng như thật: 'Đây là con đường dẫn đến sự *chấm dứt* các *nguồn ác*'. {#40}
 
-‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti abbhaññāsiṁ.
+41\. Khi Ta biết như vậy, thấy như vậy, tâm Ta được giải thoát khỏi *nguồn ác của bản năng* (dục lậu / kāmāsavā), tâm Ta được giải thoát khỏi *nguồn ác của mong muốn hiện hữu* (hữu lậu / bhavāsavā), tâm Ta được giải thoát khỏi *nguồn ác của Không Hiểu Biết* (vô minh lậu / avijjāsavā). Khi được giải thoát, có sự hiểu biết rằng đã được giải thoát. {#41}
 
-42\. Ayaṁ kho me, rājakumāra, rattiyā pacchime yāme tatiyā vijjā adhigatā, avijjā vihatā, vijjā uppannā; tamo vihato, āloko uppanno—yathā taṁ appamattassa ātāpino pahitattassa viharato. {#42}
+Ta *hiểu toàn bộ*: 'Sự Tái sinh đã *cạn kiệt*, *đời sống thánh thiện* đã hoàn tất, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa'.
 
-43\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘adhigato kho myāyaṁ dhammo gambhīro duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo. Ālayarāmā kho panāyaṁ pajā ālayaratā ālayasammuditā. Ālayarāmāya kho pana pajāya ālayaratāya ālayasammuditāya duddasaṁ idaṁ ṭhānaṁ yadidaṁ—idappaccayatāpaṭiccasamuppādo. Idampi kho ṭhānaṁ duddasaṁ—yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhākkhayo virāgo nirodho nibbānaṁ. Ahañceva kho pana dhammaṁ deseyyaṁ, pare ca me na ājāneyyuṁ, so mamassa kilamatho, sā mamassa vihesā’ti. Apissu maṁ, rājakumāra, imā anacchariyā gāthāyo paṭibhaṁsu pubbe assutapubbā: {#43}
+42\. Này vương tử, đây là *hiểu biết* thứ ba Ta đạt được trong canh cuối của đêm, *không hiểu biết* bị phá vỡ, *hiểu biết* sinh khởi; bóng tối bị phá vỡ, ánh sáng sinh khởi—như điều xảy ra với một người sống *không sao nhãng*, nhiệt tâm, quyết tâm. {#42}
 
-> ‘Kicchena me adhigataṁ,\
-> halaṁ dāni pakāsituṁ;\
-> Rāgadosaparetehi,\
-> nāyaṁ dhammo susambudho.
+<!--pg-->
+43\. Này vương tử, Ta suy nghĩ: 'Pháp mà Ta đã đạt được này thật sâu sắc, khó thấy, khó hiểu, bình an, thù thắng, vượt ngoài tầm suy luận, tinh tế, chỉ người trí mới có thể trải nghiệm. Nhưng quần chúng này lại thích thú bám víu, say mê bám víu, hoan hỷ bám víu. Đối với quần chúng thích thú bám víu, say mê bám víu, hoan hỷ bám víu, thì sự thật này thật khó thấy—đó là tính duyên hệ và *sự sinh ra qua quan hệ Phụ thuộc* (duyên khởi / paṭiccasamuppādo). Sự thật này cũng thật khó thấy—đó là sự lắng dịu mọi *hoạt động* (hành / saṅkhāra), sự từ bỏ mọi nền tảng sinh y, sự *cạn kiệt* *khát khao* (ái / taṇhā), sự *cạn hết đắm nhiễm* (ly tham / virāga), sự *chấm dứt* (diệt / nirodha), Niết-bàn. Nếu Ta giảng Pháp, mà người khác không hiểu Ta, thì điều đó chỉ mang lại sự mệt mỏi cho Ta, mang lại sự phiền phức cho Ta'. Này vương tử, những vần thơ kỳ diệu này khởi lên trong Ta, chưa từng được nghe trước đây: {#43}
 
-> Paṭisotagāmiṁ nipuṇaṁ,\
-> gambhīraṁ duddasaṁ aṇuṁ;\
-> Rāgarattā na dakkhanti,\
-> tamokhandhena āvuṭā’ti.
+> 'Khó khăn Ta đạt được,\
+> Có cần nên nói ra;\
+> Kẻ tham sân chi phối,\
+> Pháp khó để nhận ra.
 
-Itiha me, rājakumāra, paṭisañcikkhato appossukkatāya cittaṁ namati no dhammadesanāya.
+> Ngược dòng và mong manh,\
+> Sâu thẳm và tinh tế;\
+> Đắm nhiễm không thể thấy,\
+> Che khuất bởi vô minh'.
 
-44\. Atha kho, rājakumāra, brahmuno sahampatissa mama cetasā cetoparivitakkamaññāya etadahosi: ‘nassati vata bho loko; vinassati vata bho loko. Yatra hi nāma tathāgatassa arahato sammāsambuddhassa appossukkatāya cittaṁ namati no dhammadesanāyā’ti. {#44}
+Này vương tử, khi Ta suy xét như vậy, tâm Ta hướng về sự tĩnh lặng, không hướng về việc giảng Pháp.
 
-Atha kho, rājakumāra, brahmā sahampati—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya pasāritaṁ vā bāhaṁ samiñjeyya; evameva—brahmaloke antarahito mama purato pāturahosi. Atha kho, rājakumāra, brahmā sahampati ekaṁsaṁ uttarāsaṅgaṁ karitvā yenāhaṁ tenañjaliṁ paṇāmetvā maṁ etadavoca: ‘desetu, bhante, bhagavā dhammaṁ, desetu sugato dhammaṁ. Santi sattā apparajakkhajātikā assavanatāya dhammassa parihāyanti; bhavissanti dhammassa aññātāro’ti.
+44\. Này vương tử, khi ấy Phạm thiên Sahampati dùng tâm mình biết được suy nghĩ trong tâm Ta, liền nghĩ: 'Thế giới này sẽ tiêu vong; thế giới này sẽ bị hủy diệt. Vì tâm của *Người Đến Như Vậy*, bậc A-la-hán, bậc Chánh Đẳng Giác, đang hướng về sự tĩnh lặng, không hướng về việc giảng Pháp'. {#44}
 
-Idamavoca, rājakumāra, brahmā sahampati; idaṁ vatvā athāparaṁ etadavoca:
+Này vương tử, rồi Phạm thiên Sahampati—ví như một người khỏe mạnh duỗi cánh tay đang co lại, hay co cánh tay đang duỗi ra; cũng vậy—biến mất khỏi cõi Phạm thiên và xuất hiện trước mặt Ta. Này vương tử, Phạm thiên Sahampati vắt áo qua một bên vai, chắp tay hướng về phía Ta và thưa: 'Bạch Thế Tôn, xin Ngài hãy giảng Pháp, xin bậc Thiện Thệ hãy giảng Pháp. Có những chúng sinh với ít bụi trong mắt đang bị suy đồi vì không được nghe Pháp; họ sẽ là những người hiểu được Pháp'.
 
-> ‘Pāturahosi magadhesu pubbe,\
-> Dhammo asuddho samalehi cintito;\
-> Apāpuretaṁ amatassa dvāraṁ,\
-> Suṇantu dhammaṁ vimalenānubuddhaṁ.
+Này vương tử, Phạm thiên Sahampati nói như vậy; sau khi nói vậy, vị ấy lại nói thêm:
 
-> Sele yathā pabbatamuddhaniṭṭhito,\
-> Yathāpi passe janataṁ samantato;\
-> Tathūpamaṁ dhammamayaṁ sumedha,\
-> Pāsādamāruyha samantacakkhu.
+> 'Xưa tại xứ Magadha,\
+> Pháp bất tịnh khởi lên;\
+> Bởi những kẻ cấu uế,\
+> Nay mở cửa Bất tử.
+> Hãy nghe Pháp thanh tịnh,\
+> Bậc Vô cấu chứng ngộ.
 
-> Sokāvatiṇṇaṁ janatamapetasoko,\
-> Avekkhassu jātijarābhibhūtaṁ;\
-> Uṭṭhehi vīra vijitasaṅgāma,\
-> Satthavāha aṇaṇa vicara loke;\
-> Desassu bhagavā dhammaṁ,\
-> Aññātāro bhavissantī’ti.
+> Như đứng trên đỉnh núi,\
+> Nhìn quần chúng xung quanh;\
+> Cũng vậy bậc Trí tuệ,\
+> Lên lầu các Chánh pháp.
+> Bậc có mắt nhìn khắp,\
+> Thấy chúng sinh sầu khổ.
 
-45\. Atha khvāhaṁ, rājakumāra, brahmuno ca ajjhesanaṁ viditvā sattesu ca kāruññataṁ paṭicca buddhacakkhunā lokaṁ volokesiṁ. Addasaṁ kho ahaṁ, rājakumāra, buddhacakkhunā lokaṁ volokento satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante. Seyyathāpi nāma uppaliniyaṁ vā paduminiyaṁ vā puṇḍarīkiniyaṁ vā appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni antonimuggaposīni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakānuggatāni samodakaṁ ṭhitāni, appekaccāni uppalāni vā padumāni vā puṇḍarīkāni vā udake jātāni udake saṁvaḍḍhāni udakā accuggamma ṭhitāni anupalittāni udakena; evameva kho ahaṁ, rājakumāra; buddhacakkhunā lokaṁ volokento addasaṁ satte apparajakkhe mahārajakkhe tikkhindriye mudindriye svākāre dvākāre suviññāpaye duviññāpaye, appekacce paralokavajjabhayadassāvine viharante, appekacce na paralokavajjabhayadassāvine viharante. Atha khvāhaṁ, rājakumāra, brahmānaṁ sahampatiṁ gāthāya paccabhāsiṁ: {#45}
+> Ngài đã thoát sầu bi,\
+> Nhìn kẻ bị sinh già;\
+> Hãy đứng lên Vị hùng,\
+> Bậc chiến thắng ma quân.
+> Bậc trưởng toán lữ hành,\
+> Không nợ nần đi khắp;\
+> Thế Tôn hãy thuyết pháp,\
+> Sẽ có người hiểu ra'.
 
-> ‘Apārutā tesaṁ amatassa dvārā,\
-> Ye sotavanto pamuñcantu saddhaṁ;\
-> Vihiṁsasaññī paguṇaṁ na bhāsiṁ,\
-> Dhammaṁ paṇītaṁ manujesu brahme’ti.
+45\. Này vương tử, khi ấy Ta hiểu được lời thỉnh cầu của Phạm thiên, và vì lòng thương xót chúng sinh, Ta dùng Phật nhãn quan sát thế giới. Này vương tử, khi dùng Phật nhãn quan sát thế giới, Ta thấy những chúng sinh với ít bụi trong mắt, nhiều bụi trong mắt, căn cơ nhạy bén, căn cơ chậm chạp, tính tình tốt, tính tình xấu, dễ dạy, khó dạy, một số sống thấy rõ sự nguy hiểm và lỗi lầm ở đời sau, một số không sống thấy rõ sự nguy hiểm và lỗi lầm ở đời sau. Ví như trong một hồ hoa súng xanh, hoa sen đỏ, hay hoa sen trắng, một số hoa súng xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, không vươn lên khỏi mặt nước, được nuôi dưỡng chìm dưới nước; một số hoa súng xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, vươn lên ngang mặt nước; một số hoa súng xanh, hoa sen đỏ, hay hoa sen trắng sinh ra trong nước, lớn lên trong nước, vươn lên khỏi mặt nước và không bị nước làm ướt; cũng vậy, này vương tử, khi dùng Phật nhãn quan sát thế giới, Ta thấy những chúng sinh với ít bụi trong mắt, nhiều bụi trong mắt, căn cơ nhạy bén, căn cơ chậm chạp, tính tình tốt, tính tình xấu, dễ dạy, khó dạy, một số sống thấy rõ sự nguy hiểm và lỗi lầm ở đời sau, một số không sống thấy rõ sự nguy hiểm và lỗi lầm ở đời sau. Này vương tử, khi ấy Ta đáp lại Phạm thiên Sahampati bằng bài kệ: {#45}
 
-Atha kho, rājakumāra, brahmā sahampati ‘katāvakāso khomhi bhagavatā dhammadesanāyā’ti maṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyi.
+> 'Cửa Bất tử rộng mở,\
+> Ai có tai hãy nghe;\
+> Hãy giải phóng niềm tin,\
+> Ta không nói Pháp diệu;
+> Vì nghĩ đến phiền phức,\
+> Giữa nhân loại, Phạm thiên'.
 
-46\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘kassa nu kho ahaṁ paṭhamaṁ dhammaṁ deseyyaṁ? Ko imaṁ dhammaṁ khippameva ājānissatī’ti? Tassa mayhaṁ, rājakumāra, etadahosi: ‘ayaṁ kho āḷāro kālāmo paṇḍito viyatto medhāvī dīgharattaṁ apparajakkhajātiko. Yannūnāhaṁ āḷārassa kālāmassa paṭhamaṁ dhammaṁ deseyyaṁ; so imaṁ dhammaṁ khippameva ājānissatī’ti. Atha kho maṁ, rājakumāra, devatā upasaṅkamitvā etadavoca: ‘sattāhakālaṅkato, bhante, āḷāro kālāmo’ti. {#46}
+Này vương tử, khi ấy Phạm thiên Sahampati nghĩ: 'Thế Tôn đã cho phép ta thỉnh cầu giảng Pháp', vị ấy đảnh lễ Ta, đi nhiễu quanh Ta rồi biến mất ngay tại chỗ.
 
-Ñāṇañca pana me dassanaṁ udapādi: ‘sattāhakālaṅkato āḷāro kālāmo’ti. Tassa mayhaṁ, rājakumāra, etadahosi: ‘mahājāniyo kho āḷāro kālāmo. Sace hi so imaṁ dhammaṁ suṇeyya, khippameva ājāneyyā’ti.
+46\. Này vương tử, Ta suy nghĩ: 'Ta nên giảng Pháp cho ai đầu tiên? Ai sẽ hiểu Pháp này một cách nhanh chóng?' Này vương tử, Ta suy nghĩ: 'Āḷāra Kālāma là người thông thái, sáng suốt, trí tuệ, từ lâu đã có ít bụi trong mắt. Hay là Ta giảng Pháp cho Āḷāra Kālāma đầu tiên; ông ấy sẽ hiểu Pháp này một cách nhanh chóng'. Này vương tử, khi ấy các chư thiên đến chỗ Ta và nói: 'Bạch Thế Tôn, Āḷāra Kālāma đã qua đời cách đây bảy ngày'. {#46}
 
-47\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘kassa nu kho ahaṁ paṭhamaṁ dhammaṁ deseyyaṁ? Ko imaṁ dhammaṁ khippameva ājānissatī’ti? Tassa mayhaṁ, rājakumāra, etadahosi: ‘ayaṁ kho udako rāmaputto paṇḍito viyatto medhāvī dīgharattaṁ apparajakkhajātiko. Yannūnāhaṁ udakassa rāmaputtassa paṭhamaṁ dhammaṁ deseyyaṁ; so imaṁ dhammaṁ khippameva ājānissatī’ti. Atha kho maṁ, rājakumāra, devatā upasaṅkamitvā etadavoca: ‘abhidosakālaṅkato, bhante, udako rāmaputto’ti. {#47}
+Và trí tuệ cùng cái thấy khởi lên trong Ta: 'Āḷāra Kālāma đã qua đời cách đây bảy ngày'. Này vương tử, Ta suy nghĩ: 'Āḷāra Kālāma đã chịu một mất mát lớn. Nếu ông ấy được nghe Pháp này, ông ấy sẽ hiểu một cách nhanh chóng'.
 
-Ñāṇañca pana me dassanaṁ udapādi: ‘abhidosakālaṅkato udako rāmaputto’ti. Tassa mayhaṁ, rājakumāra, etadahosi: ‘mahājāniyo kho udako rāmaputto. Sace hi so imaṁ dhammaṁ suṇeyya, khippameva ājāneyyā’ti.
+47\. Này vương tử, Ta suy nghĩ: 'Ta nên giảng Pháp cho ai đầu tiên? Ai sẽ hiểu Pháp này một cách nhanh chóng?' Này vương tử, Ta suy nghĩ: 'Udaka Rāmaputta là người thông thái, sáng suốt, trí tuệ, từ lâu đã có ít bụi trong mắt. Hay là Ta giảng Pháp cho Udaka Rāmaputta đầu tiên; ông ấy sẽ hiểu Pháp này một cách nhanh chóng'. Này vương tử, khi ấy các chư thiên đến chỗ Ta và nói: 'Bạch Thế Tôn, Udaka Rāmaputta đã qua đời vào tối hôm qua'. {#47}
 
-48\. Tassa mayhaṁ, rājakumāra, etadahosi: ‘kassa nu kho ahaṁ paṭhamaṁ dhammaṁ deseyyaṁ? Ko imaṁ dhammaṁ khippameva ājānissatī’ti? Tassa mayhaṁ, rājakumāra, etadahosi: ‘bahukārā kho me pañcavaggiyā bhikkhū ye maṁ padhānapahitattaṁ upaṭṭhahiṁsu. Yannūnāhaṁ pañcavaggiyānaṁ bhikkhūnaṁ paṭhamaṁ dhammaṁ deseyyan’ti. Tassa mayhaṁ, rājakumāra, etadahosi: ‘kahaṁ nu kho etarahi pañcavaggiyā bhikkhū viharantī’ti. Addasaṁ khvāhaṁ, rājakumāra, dibbena cakkhunā visuddhena atikkantamānusakena pañcavaggiye bhikkhū bārāṇasiyaṁ viharante isipatane migadāye. {#48}
+Và trí tuệ cùng cái thấy khởi lên trong Ta: 'Udaka Rāmaputta đã qua đời vào tối hôm qua'. Này vương tử, Ta suy nghĩ: 'Udaka Rāmaputta đã chịu một mất mát lớn. Nếu ông ấy được nghe Pháp này, ông ấy sẽ hiểu một cách nhanh chóng'.
 
-49\. Atha khvāhaṁ, rājakumāra, uruvelāyaṁ yathābhirantaṁ viharitvā yena bārāṇasī tena cārikaṁ pakkamiṁ. {#49}
+48\. Này vương tử, Ta suy nghĩ: 'Ta nên giảng Pháp cho ai đầu tiên? Ai sẽ hiểu Pháp này một cách nhanh chóng?' Này vương tử, Ta suy nghĩ: 'Năm vị tỳ kheo đã mang lại nhiều lợi ích cho Ta, họ đã hầu hạ Ta khi Ta đang nỗ lực tu tập. Hay là Ta giảng Pháp cho năm vị tỳ kheo đầu tiên'. Này vương tử, Ta suy nghĩ: 'Hiện nay năm vị tỳ kheo đang ở đâu?' Này vương tử, với mắt thần thanh tịnh vượt qua giới hạn con người, Ta thấy năm vị tỳ kheo đang ở tại Varanasi, trong vườn Lộc Uyển ở Isipatana. {#48}
 
-Addasā kho maṁ, rājakumāra, upako ājīvako antarā ca gayaṁ antarā ca bodhiṁ addhānamaggappaṭipannaṁ. Disvāna maṁ etadavoca: ‘vippasannāni kho te, āvuso, indriyāni, parisuddho chavivaṇṇo pariyodāto. Kaṁsi tvaṁ, āvuso, uddissa pabbajito? Ko vā te satthā? Kassa vā tvaṁ dhammaṁ rocesī’ti?
+49\. Này vương tử, sau khi ở lại Uruvelā bao lâu tùy thích, Ta bắt đầu chuyến đi bộ đến Varanasi. {#49}
 
-Evaṁ vutte, ahaṁ, rājakumāra, upakaṁ ājīvakaṁ gāthāhi ajjhabhāsiṁ:
+Này vương tử, du sĩ Upaka thấy Ta đang đi trên đường giữa Gaya và cội Bồ-đề. Thấy Ta, ông ấy nói: 'Này hiền giả, các giác quan của ngài thật trong sáng, làn da của ngài thật thanh tịnh và sáng sủa. Này hiền giả, ngài xuất gia vì ai? Ai là đạo sư của ngài? Ngài thích Pháp của ai?'
 
-> ‘Sabbābhibhū sabbavidūhamasmi,\
-> Sabbesu dhammesu anūpalitto;\
-> Sabbañjaho taṇhākkhaye vimutto,\
-> Sayaṁ abhiññāya kamuddiseyyaṁ.
+Khi được nói vậy, này vương tử, Ta đáp lại du sĩ Upaka bằng những bài kệ:
 
-> Na me ācariyo atthi,\
-> sadiso me na vijjati;\
-> Sadevakasmiṁ lokasmiṁ,\
-> natthi me paṭipuggalo.
+> 'Ta vượt qua tất cả,\
+> Ta biết rõ tất cả;\
+> Không dính mắc pháp nào,\
+> Từ bỏ mọi tất cả.
+> Giải thoát ái cạn kiệt,\
+> Tự biết, gọi ai thầy?
 
-> Ahañhi arahā loke,\
-> ahaṁ satthā anuttaro;\
-> Ekomhi sammāsambuddho,\
-> sītibhūtosmi nibbuto.
+> Ta không có đạo sư,\
+> Không ai sánh bằng Ta;\
+> Trong thế giới chư thiên,\
+> Không ai ngang bằng Ta.
 
-> Dhammacakkaṁ pavattetuṁ,\
-> Gacchāmi kāsinaṁ puraṁ;\
-> Andhībhūtasmiṁ lokasmiṁ,\
-> Āhañchaṁ amatadundubhin’ti.
+> Ta A-la-hán ở đời,\
+> Đạo sư không ai sánh;\
+> Ta Chánh Đẳng Chánh Giác,\
+> Đã tĩnh lặng tịch diệt.
 
-‘Yathā kho tvaṁ, āvuso, paṭijānāsi arahasi anantajino’ti.
+> Để chuyển bánh xe Pháp,\
+> Ta đi đến Kasi;\
+> Trong thế giới mù lòa,\
+> Gióng lên trống Bất tử'.
 
-> ‘Mādisā ve jinā honti,\
-> ye pattā āsavakkhayaṁ;\
-> Jitā me pāpakā dhammā,\
-> tasmāhamupaka jino’ti.
+'Này hiền giả, theo như ngài tuyên bố, ngài xứng đáng là bậc chiến thắng vô tận'.
 
-Evaṁ vutte, rājakumāra, upako ājīvako ‘hupeyyapāvuso’ti vatvā sīsaṁ okampetvā ummaggaṁ gahetvā pakkāmi.
+> 'Những người chiến thắng như Ta,\
+> Đạt lậu hoặc cạn kiệt;\
+> Ta chiến thắng ác pháp,\
+> Nên Upaka, Ta là người chiến thắng'.
 
-50\. Atha khvāhaṁ, rājakumāra, anupubbena cārikaṁ caramāno yena bārāṇasī isipatanaṁ migadāyo yena pañcavaggiyā bhikkhū tenupasaṅkamiṁ. Addasaṁsu kho maṁ, rājakumāra, pañcavaggiyā bhikkhū dūratova āgacchantaṁ. Disvāna aññamaññaṁ saṇṭhapesuṁ: ‘ayaṁ kho, āvuso, samaṇo gotamo āgacchati bāhulliko padhānavibbhanto āvatto bāhullāya. So neva abhivādetabbo, na paccuṭṭhātabbo, nāssa pattacīvaraṁ paṭiggahetabbaṁ; api ca kho āsanaṁ ṭhapetabbaṁ—sace so ākaṅkhissati nisīdissatī’ti. {#50}
+Khi được nói vậy, này vương tử, du sĩ Upaka nói: 'Có thể là như vậy, thưa hiền giả', rồi lắc đầu, rẽ sang một con đường khác và bỏ đi.
 
-Yathā yathā kho ahaṁ, rājakumāra, pañcavaggiye bhikkhū upasaṅkamiṁ tathā tathā pañcavaggiyā bhikkhū nāsakkhiṁsu sakāya katikāya saṇṭhātuṁ. Appekacce maṁ paccuggantvā pattacīvaraṁ paṭiggahesuṁ. Appekacce āsanaṁ paññapesuṁ. Appekacce pādodakaṁ upaṭṭhapesuṁ. Api ca kho maṁ nāmena ca āvusovādena ca samudācaranti.
+50\. Này vương tử, sau đó Ta đi bộ dần dần đến Varanasi, vườn Lộc Uyển ở Isipatana, nơi năm vị tỳ kheo đang ở. Này vương tử, năm vị tỳ kheo thấy Ta đang đi đến từ đằng xa. Thấy vậy, họ thỏa thuận với nhau: 'Này các hiền giả, Sa-môn Gotama đang đến, người sống sung túc, đã từ bỏ nỗ lực, quay trở lại đời sống sung túc. Chúng ta không nên đảnh lễ ông ấy, không nên đứng dậy đón, không nên nhận y bát của ông ấy; nhưng chúng ta có thể dọn sẵn một chỗ ngồi—nếu ông ấy muốn, ông ấy sẽ ngồi'. {#50}
 
-51\. Evaṁ vutte, ahaṁ, rājakumāra, pañcavaggiye bhikkhū etadavocaṁ: ‘mā, bhikkhave, tathāgataṁ nāmena ca āvusovādena ca samudācaratha; arahaṁ, bhikkhave, tathāgato sammāsambuddho. Odahatha, bhikkhave, sotaṁ. Amatamadhigataṁ ahamanusāsāmi, ahaṁ dhammaṁ desemi. Yathānusiṭṭhaṁ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti. {#51}
+Này vương tử, khi Ta càng đến gần năm vị tỳ kheo, thì họ càng không thể giữ được thỏa thuận của mình. Một số người ra đón Ta và nhận y bát. Một số người dọn chỗ ngồi. Một số người chuẩn bị nước rửa chân. Tuy nhiên, họ vẫn gọi Ta bằng tên và dùng từ 'hiền giả'.
 
-Evaṁ vutte, rājakumāra, pañcavaggiyā bhikkhū maṁ etadavocuṁ: ‘tāyapi kho tvaṁ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṁ; kiṁ pana tvaṁ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?
+51\. Khi được gọi như vậy, này vương tử, Ta nói với năm vị tỳ kheo: 'Này các tỳ kheo, đừng gọi *Người Đến Như Vậy* bằng tên và bằng từ "hiền giả"; này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, bậc Chánh Đẳng Giác. Này các tỳ kheo, hãy lắng tai nghe. Bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng Pháp. Nếu các ông thực hành đúng như được chỉ dạy, không bao lâu—mục đích mà các thiện nam tử chân chính rời bỏ gia đình sống không gia đình, mục đích vô thượng ấy—các ông sẽ tự mình chứng ngộ, đạt đến và an trú ngay trong đời sống hiện tại, là sự hoàn tất *đời sống thánh thiện*'. {#51}
 
-Evaṁ vutte, ahaṁ, rājakumāra, pañcavaggiye bhikkhū etadavocaṁ: ‘na, bhikkhave, tathāgato bāhulliko na padhānavibbhanto na āvatto bāhullāya. Arahaṁ, bhikkhave, tathāgato sammāsambuddho. Odahatha, bhikkhave, sotaṁ. Amatamadhigataṁ ahamanusāsāmi, ahaṁ dhammaṁ desemi. Yathānusiṭṭhaṁ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti.
+Khi được nói vậy, này vương tử, năm vị tỳ kheo nói với Ta: 'Thưa hiền giả Gotama, bằng hành vi ấy, bằng lối sống ấy, bằng sự khổ hạnh khốc liệt ấy, ngài còn không đạt được trạng thái vượt trội của con người, không đạt được trí tuệ và cái thấy thù thắng của bậc thánh; thì nay ngài sống sung túc, đã từ bỏ nỗ lực, quay trở lại đời sống sung túc, làm sao ngài có thể đạt được trạng thái vượt trội của con người, đạt được trí tuệ và cái thấy thù thắng của bậc thánh?'
 
-Dutiyampi kho, rājakumāra, pañcavaggiyā bhikkhū maṁ etadavocuṁ: ‘tāyapi kho tvaṁ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṁ; kiṁ pana tvaṁ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?
+Khi được nói vậy, này vương tử, Ta nói với năm vị tỳ kheo: 'Này các tỳ kheo, *Người Đến Như Vậy* không sống sung túc, không từ bỏ nỗ lực, không quay trở lại đời sống sung túc. Này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, bậc Chánh Đẳng Giác. Này các tỳ kheo, hãy lắng tai nghe. Bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng Pháp. Nếu các ông thực hành đúng như được chỉ dạy, không bao lâu—mục đích mà các thiện nam tử chân chính rời bỏ gia đình sống không gia đình, mục đích vô thượng ấy—các ông sẽ tự mình chứng ngộ, đạt đến và an trú ngay trong đời sống hiện tại, là sự hoàn tất *đời sống thánh thiện*'.
 
-Dutiyampi kho ahaṁ, rājakumāra, pañcavaggiye bhikkhū etadavocaṁ: ‘na, bhikkhave, tathāgato bāhulliko na padhānavibbhanto na āvatto bāhullāya. Arahaṁ, bhikkhave, tathāgato sammāsambuddho. Odahatha, bhikkhave, sotaṁ. Amatamadhigataṁ ahamanusāsāmi, ahaṁ dhammaṁ desemi. Yathānusiṭṭhaṁ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti.
+Lần thứ hai, này vương tử, năm vị tỳ kheo nói với Ta: 'Thưa hiền giả Gotama, bằng hành vi ấy... làm sao ngài có thể đạt được...?'
 
-Tatiyampi kho, rājakumāra, pañcavaggiyā bhikkhū maṁ etadavocuṁ: ‘tāyapi kho tvaṁ, āvuso gotama, iriyāya tāya paṭipadāya tāya dukkarakārikāya nājjhagamā uttari manussadhammā alamariyañāṇadassanavisesaṁ; kiṁ pana tvaṁ etarahi bāhulliko padhānavibbhanto āvatto bāhullāya adhigamissasi uttari manussadhammā alamariyañāṇadassanavisesan’ti?
+Lần thứ hai, này vương tử, Ta nói với năm vị tỳ kheo: 'Này các tỳ kheo, *Người Đến Như Vậy* không sống sung túc... là sự hoàn tất *đời sống thánh thiện*'.
 
-52\. Evaṁ vutte, ahaṁ, rājakumāra, pañcavaggiye bhikkhū etadavocaṁ: ‘abhijānātha me no tumhe, bhikkhave, ito pubbe evarūpaṁ pabhāvitametan’ti? {#52}
+Lần thứ ba, này vương tử, năm vị tỳ kheo nói với Ta: 'Thưa hiền giả Gotama, bằng hành vi ấy... làm sao ngài có thể đạt được...?'
 
-‘No hetaṁ, bhante’.
+52\. Khi được nói vậy, này vương tử, Ta nói với năm vị tỳ kheo: 'Này các tỳ kheo, các ông có nhớ trước đây Ta đã từng nói những lời như thế này chưa?' {#52}
 
-‘Arahaṁ, bhikkhave, tathāgato sammāsambuddho. Odahatha, bhikkhave, sotaṁ. Amatamadhigataṁ ahamanusāsāmi, ahaṁ dhammaṁ desemi. Yathānusiṭṭhaṁ tathā paṭipajjamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharissathā’ti.
+'Thưa không, bạch Thế Tôn'.
 
-53\. Asakkhiṁ kho ahaṁ, rājakumāra, pañcavaggiye bhikkhū saññāpetuṁ. Dvepi sudaṁ, rājakumāra, bhikkhū ovadāmi. Tayo bhikkhū piṇḍāya caranti. Yaṁ tayo bhikkhū piṇḍāya caritvā āharanti, tena chabbaggiyā yāpema. Tayopi sudaṁ, rājakumāra, bhikkhū ovadāmi, dve bhikkhū piṇḍāya caranti. Yaṁ dve bhikkhū piṇḍāya caritvā āharanti tena chabbaggiyā yāpema. {#53}
+'Này các tỳ kheo, *Người Đến Như Vậy* là bậc A-la-hán, bậc Chánh Đẳng Giác. Này các tỳ kheo, hãy lắng tai nghe. Bất tử đã đạt được, Ta sẽ chỉ dạy, Ta sẽ giảng Pháp. Nếu các ông thực hành đúng như được chỉ dạy, không bao lâu—mục đích mà các thiện nam tử chân chính rời bỏ gia đình sống không gia đình, mục đích vô thượng ấy—các ông sẽ tự mình chứng ngộ, đạt đến và an trú ngay trong đời sống hiện tại, là sự hoàn tất *đời sống thánh thiện*'.
 
-54\. Atha kho, rājakumāra, pañcavaggiyā bhikkhū mayā evaṁ ovadiyamānā evaṁ anusāsiyamānā nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihariṁsū”ti. {#54}
+53\. Này vương tử, Ta đã có thể thuyết phục được năm vị tỳ kheo. Này vương tử, Ta giảng dạy cho hai vị tỳ kheo. Ba vị tỳ kheo đi khất thực. Những gì ba vị tỳ kheo mang về sau khi đi khất thực, cả sáu chúng ta cùng ăn. Này vương tử, Ta giảng dạy cho ba vị tỳ kheo, hai vị tỳ kheo đi khất thực. Những gì hai vị tỳ kheo mang về sau khi đi khất thực, cả sáu chúng ta cùng ăn. {#53}
 
-55\. Evaṁ vutte, bodhi rājakumāro bhagavantaṁ etadavoca: “kīva cirena nu kho, bhante, bhikkhu tathāgataṁ vināyakaṁ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyyā”ti? {#55}
 
-“Tena hi, rājakumāra, taṁyevettha paṭipucchissāmi. Yathā te khameyya, tathā naṁ byākareyyāsi. Taṁ kiṁ maññasi, rājakumāra, kusalo tvaṁ hatthārūḷhe aṅkusagayhe sippe”ti?
+54\. Này vương tử, năm vị tỳ kheo được Ta giảng dạy như vậy, được Ta chỉ dẫn như vậy, không bao lâu—mục đích mà các thiện nam tử chân chính rời bỏ gia đình sống không gia đình, mục đích vô thượng ấy—họ đã tự mình chứng ngộ, đạt đến và an trú ngay trong đời sống hiện tại, là sự hoàn tất *đời sống thánh thiện*." {#54}
 
-“Evaṁ, bhante, kusalo ahaṁ hatthārūḷhe aṅkusagayhe sippe”ti.
+<!--pg-->
+55\. Khi được nói vậy, vương tử Bodhi thưa với Thế Tôn: "Bạch Thế Tôn, mất bao lâu để một vị tỳ kheo, khi có *Người Đến Như Vậy* làm người dẫn dắt—mục đích mà các thiện nam tử chân chính rời bỏ gia đình sống không gia đình, mục đích vô thượng ấy—có thể tự mình chứng ngộ, đạt đến và an trú ngay trong đời sống hiện tại, là sự hoàn tất *đời sống thánh thiện*?" {#55}
 
-56\. “Taṁ kiṁ maññasi, rājakumāra, idha puriso āgaccheyya: ‘bodhi rājakumāro hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ jānāti; tassāhaṁ santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkhissāmī’ti. So cassa assaddho; yāvatakaṁ saddhena pattabbaṁ taṁ na sampāpuṇeyya. So cassa bahvābādho; yāvatakaṁ appābādhena pattabbaṁ taṁ na sampāpuṇeyya. So cassa saṭho māyāvī; yāvatakaṁ asaṭhena amāyāvinā pattabbaṁ taṁ na sampāpuṇeyya. So cassa kusīto; yāvatakaṁ āraddhavīriyena pattabbaṁ taṁ na sampāpuṇeyya. So cassa duppañño; yāvatakaṁ paññavatā pattabbaṁ taṁ na sampāpuṇeyya. Taṁ kiṁ maññasi, rājakumāra, api nu so puriso tava santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkheyyā”ti? {#56}
+"Này vương tử, vậy Ta sẽ hỏi lại ông về điều này. Ông thấy thế nào thì hãy trả lời như thế ấy. Này vương tử, ông nghĩ sao, ông có thành thạo nghệ thuật cưỡi voi dùng móc sắt không?"
 
-“Ekamekenāpi, bhante, aṅgena samannāgato so puriso na mama santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkheyya, ko pana vādo pañcahaṅgehī”ti.
+"Thưa vâng, bạch Thế Tôn, con thành thạo nghệ thuật cưỡi voi dùng móc sắt."
 
-57\. “Taṁ kiṁ maññasi, rājakumāra, idha puriso āgaccheyya: ‘bodhi rājakumāro hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ jānāti; tassāhaṁ santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkhissāmī’ti. So cassa saddho; yāvatakaṁ saddhena pattabbaṁ taṁ sampāpuṇeyya. So cassa appābādho; yāvatakaṁ appābādhena pattabbaṁ taṁ sampāpuṇeyya. So cassa asaṭho amāyāvī; yāvatakaṁ asaṭhena amāyāvinā pattabbaṁ taṁ sampāpuṇeyya. So cassa āraddhavīriyo; yāvatakaṁ āraddhavīriyena pattabbaṁ taṁ sampāpuṇeyya. So cassa paññavā; yāvatakaṁ paññavatā pattabbaṁ taṁ sampāpuṇeyya. Taṁ kiṁ maññasi, rājakumāra, api nu so puriso tava santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkheyyā”ti? {#57}
+56\. "Này vương tử, ông nghĩ sao, giả sử có một người đến và nói: 'Vương tử Bodhi biết nghệ thuật cưỡi voi dùng móc sắt; tôi sẽ học nghệ thuật cưỡi voi dùng móc sắt từ ngài ấy'. Nhưng người đó không có niềm tin; những gì có thể đạt được bằng niềm tin, người đó không thể đạt được. Người đó nhiều bệnh tật; những gì có thể đạt được bằng sự ít bệnh tật, người đó không thể đạt được. Người đó gian xảo, lừa dối; những gì có thể đạt được bằng sự không gian xảo, không lừa dối, người đó không thể đạt được. Người đó lười biếng; những gì có thể đạt được bằng nỗ lực, người đó không thể đạt được. Người đó thiếu trí tuệ; những gì có thể đạt được bằng trí tuệ, người đó không thể đạt được. Này vương tử, ông nghĩ sao, người đó có thể học nghệ thuật cưỡi voi dùng móc sắt từ ông được không?" {#56}
 
-“Ekamekenāpi, bhante, aṅgena samannāgato so puriso mama santike hatthārūḷhaṁ aṅkusagayhaṁ sippaṁ sikkheyya, ko pana vādo pañcahaṅgehī”ti.
+"Bạch Thế Tôn, dù người đó chỉ có một khiếm khuyết trong số đó, người đó cũng không thể học nghệ thuật cưỡi voi dùng móc sắt từ con, huống hồ là cả năm khiếm khuyết."
 
-58\. “Evameva kho, rājakumāra, pañcimāni padhāniyaṅgāni. Katamāni pañca? Idha, rājakumāra, bhikkhu saddho hoti; saddahati tathāgatassa bodhiṁ: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti; appābādho hoti appātaṅko samavepākiniyā gahaṇiyā samannāgato nātisītāya nāccuṇhāya majjhimāya padhānakkhamāya; asaṭho hoti amāyāvī yathābhūtaṁ attānaṁ āvikattā satthari vā viññūsu vā sabrahmacārīsu; āraddhavīriyo viharati akusalānaṁ dhammānaṁ pahānāya kusalānaṁ dhammānaṁ upasampadāya, thāmavā daḷhaparakkamo anikkhittadhuro kusalesu dhammesu; paññavā hoti udayatthagāminiyā paññāya samannāgato ariyāya nibbedhikāya sammādukkhakkhayagāminiyā. Imāni kho, rājakumāra, pañca padhāniyaṅgāni. {#58}
+57\. "Này vương tử, ông nghĩ sao, giả sử có một người đến và nói: 'Vương tử Bodhi biết nghệ thuật cưỡi voi dùng móc sắt; tôi sẽ học nghệ thuật cưỡi voi dùng móc sắt từ ngài ấy'. Người đó có niềm tin; những gì có thể đạt được bằng niềm tin, người đó có thể đạt được. Người đó ít bệnh tật; những gì có thể đạt được bằng sự ít bệnh tật, người đó có thể đạt được. Người đó không gian xảo, không lừa dối; những gì có thể đạt được bằng sự không gian xảo, không lừa dối, người đó có thể đạt được. Người đó có nỗ lực; những gì có thể đạt được bằng nỗ lực, người đó có thể đạt được. Người đó có trí tuệ; những gì có thể đạt được bằng trí tuệ, người đó có thể đạt được. Này vương tử, ông nghĩ sao, người đó có thể học nghệ thuật cưỡi voi dùng móc sắt từ ông được không?" {#57}
 
-59\. Imehi, rājakumāra, pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya satta vassāni. Tiṭṭhantu, rājakumāra, satta vassāni. Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya chabbassāni … pañca vassāni … cattāri vassāni … tīṇi vassāni … dve vassāni … ekaṁ vassaṁ. Tiṭṭhatu, rājakumāra, ekaṁ vassaṁ. Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya satta māsāni. Tiṭṭhantu, rājakumāra, satta māsāni. Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya cha māsāni … pañca māsāni … cattāri māsāni … tīṇi māsāni … dve māsāni … ekaṁ māsaṁ … aḍḍhamāsaṁ. Tiṭṭhatu, rājakumāra, aḍḍhamāso. Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya satta rattindivāni. Tiṭṭhantu, rājakumāra, satta rattindivāni. Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihareyya cha rattindivāni … pañca rattindivāni … cattāri rattindivāni … tīṇi rattindivāni … dve rattindivāni … ekaṁ rattindivaṁ. Tiṭṭhatu, rājakumāra, eko rattindivo. Imehi pañcahi padhāniyaṅgehi samannāgato bhikkhu tathāgataṁ vināyakaṁ labhamāno sāyamanusiṭṭho pāto visesaṁ adhigamissati, pātamanusiṭṭho sāyaṁ visesaṁ adhigamissatī”ti. {#59}
+"Bạch Thế Tôn, dù người đó chỉ có một yếu tố trong số đó, người đó cũng có thể học nghệ thuật cưỡi voi dùng móc sắt từ con, huống hồ là cả năm yếu tố."
 
-60\. Evaṁ vutte, bodhi rājakumāro bhagavantaṁ etadavoca: “aho buddho, aho dhammo, aho dhammassa svākkhātatā. Yatra hi nāma sāyamanusiṭṭho pāto visesaṁ adhigamissati, pātamanusiṭṭho sāyaṁ visesaṁ adhigamissatī”ti. {#60}
+58\. "Cũng vậy, này vương tử, có năm *yếu tố nỗ lực* (tinh tấn chi / padhāniyaṅgāni) này. Năm yếu tố nào? Ở đây, này vương tử, vị tỳ kheo có niềm tin; tin tưởng vào sự giác ngộ của *Người Đến Như Vậy*: 'Thế Tôn là bậc A-la-hán, bậc Chánh Đẳng Giác, đầy đủ *hiểu biết* và hạnh kiểm, bậc Thiện Thệ, người biết rõ thế gian, bậc Vô thượng, người điều phục những ai đáng được điều phục, đạo sư của chư thiên và nhân loại, bậc Giác ngộ, Thế Tôn'; vị ấy ít bệnh tật, ít ốm đau, có hệ tiêu hóa cân bằng, không quá lạnh cũng không quá nóng, ở mức trung bình, thích hợp cho sự nỗ lực; vị ấy không gian xảo, không lừa dối, thể hiện bản thân đúng như thật trước đạo sư hoặc trước các vị đồng tu có trí; vị ấy sống khởi lên nỗ lực để *từ bỏ* (đoạn trừ / pahānāya) *những điều không thiện*, để đạt được những *điều thiện* (thiện pháp / kusalānaṁ dhammānaṁ), kiên cường, dũng mãnh, không trút bỏ gánh nặng đối với những *điều thiện*; vị ấy có trí tuệ, được trang bị trí tuệ thấy rõ sự sinh diệt, trí tuệ của bậc thánh, có khả năng đâm thủng, dẫn đến sự *chấm dứt* đau khổ hoàn toàn. Này vương tử, đây là năm *yếu tố nỗ lực*. {#58}
 
-61\. Evaṁ vutte, sañjikāputto māṇavo bodhiṁ rājakumāraṁ etadavoca: “evameva panāyaṁ bhavaṁ bodhi: ‘aho buddho, aho dhammo, aho dhammassa svākkhātatā’ti ca vadeti; atha ca pana na taṁ bhavantaṁ gotamaṁ saraṇaṁ gacchati dhammañca bhikkhusaṅghañcā”ti. {#61}
+59\. Này vương tử, một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt—mục đích mà các thiện nam tử chân chính rời bỏ gia đình sống không gia đình, mục đích vô thượng ấy—có thể tự mình chứng ngộ, đạt đến và an trú ngay trong đời sống hiện tại, là sự hoàn tất *đời sống thánh thiện* trong bảy năm. Này vương tử, khoan nói đến bảy năm. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong sáu năm... năm năm... bốn năm... ba năm... hai năm... một năm. Này vương tử, khoan nói đến một năm. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong bảy tháng. Này vương tử, khoan nói đến bảy tháng. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong sáu tháng... năm tháng... bốn tháng... ba tháng... hai tháng... một tháng... nửa tháng. Này vương tử, khoan nói đến nửa tháng. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong bảy ngày đêm. Này vương tử, khoan nói đến bảy ngày đêm. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong sáu ngày đêm... năm ngày đêm... bốn ngày đêm... ba ngày đêm... hai ngày đêm... một ngày đêm. Này vương tử, khoan nói đến một ngày đêm. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt, nếu được giảng dạy vào buổi tối, sẽ đạt được sự thù thắng vào buổi sáng; nếu được giảng dạy vào buổi sáng, sẽ đạt được sự thù thắng vào buổi tối." {#59}
 
-“Mā hevaṁ, samma sañjikāputta, avaca; mā hevaṁ, samma sañjikāputta, avaca. Sammukhā metaṁ, samma sañjikāputta, ayyāya sutaṁ, sammukhā paṭiggahitaṁ”. “Ekamidaṁ, samma sañjikāputta, samayaṁ bhagavā kosambiyaṁ viharati ghositārāme. Atha kho me ayyā kucchimatī yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnā kho me ayyā bhagavantaṁ etadavoca: ‘yo me ayaṁ, bhante, kucchigato kumārako vā kumārikā vā so bhagavantaṁ saraṇaṁ gacchati dhammañca bhikkhusaṅghañca. Upāsakaṁ taṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan’ti.
+60\. Khi được nói vậy, vương tử Bodhi thưa với Thế Tôn: "Thật tuyệt vời thay Đức Phật, thật tuyệt vời thay Giáo pháp, thật tuyệt vời thay Giáo pháp được khéo thuyết giảng. Nơi mà nếu được giảng dạy vào buổi tối, sẽ đạt được sự thù thắng vào buổi sáng; nếu được giảng dạy vào buổi sáng, sẽ đạt được sự thù thắng vào buổi tối." {#60}
 
-Ekamidaṁ, samma sañjikāputta, samayaṁ bhagavā idheva bhaggesu viharati susumāragire bhesakaḷāvane migadāye. Atha kho maṁ dhāti aṅkena haritvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho maṁ dhāti bhagavantaṁ etadavoca: ‘ayaṁ, bhante, bodhi rājakumāro bhagavantaṁ saraṇaṁ gacchati dhammañca bhikkhusaṅghañca. Upāsakaṁ taṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan’ti.
+61\. Khi được nói vậy, thanh niên Sañjikāputta nói với vương tử Bodhi: "Tôn ông Bodhi nói như vậy: 'Thật tuyệt vời thay Đức Phật, thật tuyệt vời thay Giáo pháp, thật tuyệt vời thay Giáo pháp được khéo thuyết giảng'; nhưng tôn ông lại không nương tựa vào Tôn giả Gotama, vào Giáo pháp và Tăng chúng." {#61}
 
-Esāhaṁ, samma sañjikāputta, tatiyakampi bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+"Này bạn Sañjikāputta, đừng nói như vậy; này bạn Sañjikāputta, đừng nói như vậy. Này bạn Sañjikāputta, ta đã đích thân nghe điều này từ mẹ ta, đích thân ghi nhận điều này. Này bạn Sañjikāputta, có một thời Thế Tôn trú tại Kosambi, trong tu viện Ghosita. Khi ấy, mẹ ta đang mang thai, đã đi đến chỗ Thế Tôn; sau khi đến, bà đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, mẹ ta thưa với Thế Tôn: 'Bạch Thế Tôn, đứa bé trong bụng con, dù là con trai hay con gái, xin nương tựa vào Thế Tôn, vào Giáo pháp và Tăng chúng. Mong Thế Tôn nhận nó làm cư sĩ, đã nương tựa từ nay cho đến trọn đời'.
 
-Bodhirājakumārasuttaṁ niṭṭhitaṁ pañcamaṁ.
+Này bạn Sañjikāputta, có một thời Thế Tôn trú tại chính xứ Bhagga này, ở núi Susumāragira, trong rừng Bhesakaḷā, tại vườn Lộc Uyển. Khi ấy, nhũ mẫu bế ta trên tay, đi đến chỗ Thế Tôn; sau khi đến, bà đảnh lễ Thế Tôn và đứng một bên. Đứng một bên, nhũ mẫu thưa với Thế Tôn: 'Bạch Thế Tôn, vương tử Bodhi này xin nương tựa vào Thế Tôn, vào Giáo pháp và Tăng chúng. Mong Thế Tôn nhận ngài ấy làm cư sĩ, đã nương tựa từ nay cho đến trọn đời'.
+
+Này bạn Sañjikāputta, nay ta xin nương tựa vào Thế Tôn, vào Giáo pháp và Tăng chúng lần thứ ba. Mong Thế Tôn nhận con làm cư sĩ, đã nương tựa từ nay cho đến trọn đời."
+
+Kinh Bồ-đề vương tử kết thúc, là bài kinh thứ năm.

@@ -1,4 +1,12 @@
-*KINH PHẬT THUYẾT NHƯ VẬY Itivuttaka*
+---
+title: Phật Thuyết Như Vậy Itivuttaka - Hai Pháp
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Phật Tự Thuyết](/kinhtieubo/thichminhchau/kn-012-tap-4-kinh-phat-thuyet-nhu-vay)
+
+</div>
 
 # Chương Hai – Hai Pháp
 
@@ -364,7 +372,7 @@ Mang thâm này cuối cùng.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-### (XLLII) (Duk. II, 5) (It. 36){#92}
+### (XLII) (XLLII) (Duk. II, 5) (It. 36){#42}
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 
@@ -507,7 +515,8 @@ Thoát khỏi sự già chết.*
 
 Ý nghĩa này được Thế Tôn nói đến và tôi đã được nghe.
 
-### (LVIII) (Duk. II, 10) (It. 41){#58}
+### (XLVII) (LVIII) (Duk. II, 10) (It. 41){#47}
+*(ghi chú: hệ thống đánh số chúng tôi tính theo số la mã (LVIII), nhưng có lẽ nhầm lẫn gì đó nên số LVIII không tiếp tục theo số trước, nên chúng tôi vẫn để nguyên và chỉnh id=47)*
 
 Ðiều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến, và tôi đã được nghe:
 

@@ -32,7 +32,7 @@ export default {
           "5": {
             "title": "Phẩm 5 – Tập Năm Kệ",
             "slug": "kn-058-tap-9-pham-5-tap-nam-ke",
-            "children": ["38", "39", "45", "41", "42", "43", "44", "46", "47", "48", "49"]
+            "children": ["38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49"]
           },
           "6": {
             "title": "Phẩm 6 – Tập Sáu Kệ",
@@ -93,7 +93,7 @@ export default {
       }
     }
   },
-  thag: {
+  thag: { // Trưởng Lão Tăng Kệ
     "folder": "kinhtieubo",
     "name": "Trưởng Lão Tăng Kệ / Theragāthā",
     "editions": {
@@ -149,61 +149,36 @@ export default {
             "children": ["232"]
           },
           "10": {
-            "title": "Thag 10. Chương 10 – Phẩm Mười Kệ",
-            "slug": "kn-046-tap-8-chuong-10-pham-muoi-ke",
-            "children": ["223", "234", "235", "236", "237", "238", "239"]
-          },
-          "11": {
-            "title": "Chương 11 - Phẩm Mười Một Kệ",
-            "slug": "kn-046-tap-8-chuong-11-pham-muoi-mot-ke",
-            "children": ["240", "241"]
-          },
-          "12": {
             "title": "Chương 12 - Phẩm Mười Hai Kệ",
             "slug": "kn-046-tap-8-chuong-12-pham-muoi-hai-ke",
             "children": ["242"]
           },
-          "13": {
-            "title": "Chương 13 – Phẩm Mười Ba Kệ",
-            "slug": "kn-047-tap-8-chuong-13-pham-muoi-ba-ke",
-            "children": ["243"]
-          },
-          "14": {
-            "title": "Chương 14 – Phẩm Mười Bốn Kệ",
-            "slug": "kn-047-tap-8-chuong-14-pham-muoi-bon-ke",
-            "children": ["245"]
-          },
-          "15": {
-            "title": "Chương 15 – Phẩm Mười Lăm Kệ",
-            "slug": "kn-047-tap-8-chuong-15-pham-muoi-lam-ke",
-            "children": ["246", "247"]
-          },
-          "16": {
+          "11": {
             "title": "Chương 16 – Phẩm Hai Mươi Kệ",
             "slug": "kn-047-tap-8-chuong-16-pham-hai-muoi-ke",
-            "children": ["249", "250", "251", "252", "253", "254", "255", "256", "257"]
+            "children": ["248", "249", "250", "251", "252", "253", "254", "255", "256", "257"]
           },
-          "17": {
+          "12": {
             "title": "Chương 17 – Phẩm Ba Mươi Kệ",
             "slug": "kn-048-tap-8-chuong-17-pham-ba-muoi-ke",
             "children": ["258", "259", "260"]
           },
-          "18": {
+          "13": {
             "title": "Chương 18 – Phẩm Bốn Mươi Kệ",
             "slug": "kn-049-tap-8-chuong-18-pham-bon-muoi-ke",
             "children": ["261"]
           },
-          "19": {
+          "14": {
             "title": "Chương 19 – Phẩm Năm Mươi Kệ",
             "slug": "kn-050-tap-8-chuong-19-pham-nam-muoi-ke",
             "children": ["262"]
           },
-          "20": {
+          "15": {
             "title": "Chương 20 – Phẩm Sáu Mươi Kệ",
             "slug": "kn-051-tap-8-chuong-20-pham-sau-muoi-ke",
             "children": ["263"]
           },
-          "21": {
+          "16": {
             "title": "Chương 21 – Phẩm Bẩy Mươi Kệ",
             "slug": "kn-052-tap-8-chuong-21-pham-bay-muoi-ke",
             "children": ["264"]
@@ -269,7 +244,7 @@ export default {
           "2": {
             "title": "Chương Hai – Hai Pháp",
             "slug": "kn-014-tap-4-chuong-2-tap-hai-phap",
-            "children": ["28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "92", "43", "44", "45", "46", "58", "48", "49"]
+            "children": ["28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49"]
           },
           "3": {
             "title": "Chương Ba – Ba Pháp",
@@ -385,7 +360,7 @@ export default {
       }
     }
   },
-  ja: {
+  ja: { // tiền thân
     "folder": "kinhtieubo",
     "name": "Chuyện tiền thân/ Jātaka",
     "editions": {

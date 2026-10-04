@@ -1,3 +1,13 @@
+---
+title: Ngạ Quỷ Sự - Phẩm I – Phẩm Con Rắn
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Ngạ Quỷ Sự](/kinhtieubo/thichminhchau/kn-031-tap-7-nga-quy-su)
+
+</div>
+
 # Phẩm I – Phẩm Con Rắn
 
 

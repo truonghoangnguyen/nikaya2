@@ -1,5 +1,13 @@
 /* Custom styles for the documentation site */
 
+.top-nav {
+  font-size: medium;
+}
+
+.top-nav a {
+  text-decoration: none;
+}
+
 .note,
 .note-link {
   vertical-align: super;

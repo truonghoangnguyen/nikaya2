@@ -56,28 +56,3 @@
 
 Đó là những gì Đức Thế Tôn đã nói. Tôn giả Ānanda đã hoan hỷ và tín thọ lời Đức Thế Tôn dạy.
 
-<!--pg-->
-Từ ngữ:
--   Như Lai / Tathāgata / Tathāgata: Bậc đã đến như vậy, hoặc Bậc đã đi như vậy. Một danh hiệu tôn kính chỉ Đức Phật, người đã đạt đến chân lý tối hậu và thể nhập thực tại như nó là.
--   Chánh Pháp / Dhamma / Dhamma: Giáo pháp của Đức Phật; sự thật về thực tại; quy luật tự nhiên; hiện tượng. Trong ngữ cảnh này, chủ yếu chỉ giáo pháp và sự thực hành đúng đắn.
--   Ngày Bố-tát / Uposatha / Uposatha days: Ngày trai giới định kỳ (thường là ngày rằm và mùng một âm lịch, đôi khi thêm mùng 8 và 23) dành cho Phật tử tại gia và chư tăng ni để sám hối, tụng giới và tu tập thiền định, nhằm nuôi dưỡng đời sống tâm linh.
--   Sứ giả của trời / Deva-dūta / Divine messengers: Các dấu hiệu nhắc nhở về bản chất vô thường và khổ đau của cuộc sống (già, bệnh, chết, và đôi khi là hình ảnh tu sĩ), thúc đẩy sự tìm cầu con đường giải thoát.
--   Xuất gia / Pabbajja / Going forth from the home life into homelessness: Từ bỏ đời sống thế tục, gia đình để trở thành tu sĩ, sống đời không nhà cửa, chuyên tâm tu tập theo giáo pháp của Đức Phật.
--   Y vàng / Kāsāva-vattha / Yellow robe (saffron robe): Trang phục màu vàng nghệ hoặc nâu đất đặc trưng của tu sĩ Phật giáo Theravada, tượng trưng cho sự từ bỏ thế tục và đời sống phạm hạnh.
--   Tâm từ / Mettā / Loving-kindness: Lòng yêu thương vô điều kiện, mong muốn cho tất cả chúng sinh được an vui, hạnh phúc. Là một trong Tứ vô lượng tâm.
--   Tâm bi / Karuṇā / Compassion: Lòng thương xót sâu sắc đối với sự đau khổ của chúng sinh, mong muốn cho họ thoát khỏi khổ đau. Là một trong Tứ vô lượng tâm.
--   Tâm hỷ / Muditā / Appreciative joy (Sympathetic joy): Niềm vui chân thành trước hạnh phúc, thành công và phẩm chất tốt đẹp của người khác, không ganh tị. Là một trong Tứ vô lượng tâm.
--   Tâm xả / Upekkhā / Equanimity: Thái độ bình thản, quân bình, không thiên vị, không dính mắc hay ghét bỏ trước những thăng trầm của cuộc đời và đối với mọi chúng sinh. Là một trong Tứ vô lượng tâm.
--   Đời sống phạm hạnh / Brahmacariya / Holy life: Đời sống thanh tịnh, trong sạch, thường bao gồm việc giữ giới nghiêm túc (đặc biệt là giới không tà dâm hoặc tuyệt dục) và thực hành thiền định để đạt đến giải thoát.
--   Tứ vô lượng tâm / Catasso appamaññāyo (or Cattāri brahmavihārā) / Four divine abodes (Four immeasurables): Bốn trạng thái tâm cao thượng, rộng lớn, không giới hạn: Từ (mettā), Bi (karuṇā), Hỷ (muditā), và Xả (upekkhā). Tu tập những tâm này giúp thanh lọc tâm trí và dẫn đến tái sanh vào các cõi trời Phạm thiên.
--   Sau khi thân hoại mạng chung / Kāyassa bhedā paraṃ maraṇā / Dissolution of the body, after death: Cụm từ chỉ cái chết, sự tan rã của cơ thể vật lý.
--   Cõi Phạm thiên / Brahma-loka / Brahma-world: Các cõi giới cao hơn cõi người và các cõi trời dục giới trong vũ trụ quan Phật giáo. Chúng sinh tái sanh vào đây nhờ tu tập thiền định (đặc biệt là các tầng thiền sắc giới và vô sắc giới) và Tứ vô lượng tâm. Cõi này có tuổi thọ rất dài và ít khổ đau hơn, nhưng vẫn nằm trong vòng luân hồi (saṃsāra).
--   Chư thiên cõi Ba Mươi Ba / Tāvatiṃsa devā / Gods of the Thirty-three: Cõi trời thứ hai trong Dục giới (Kāma-loka), nằm trên đỉnh núi Meru (Tudi), do Đế Thích (Sakka) cai quản. Đây là một cõi trời phổ biến được nhắc đến trong kinh điển Pali.
--   Sự nhàm chán / Nibbidā / Disenchantment: Sự nhận thức sâu sắc về tính vô thường, khổ và vô ngã của mọi hiện tượng hữu vi (sankhāra), dẫn đến sự chán ngán, không còn ham muốn đối với thế gian và vòng luân hồi. Đây là một bước quan trọng trên con đường giải thoát.
--   Sự ly tham / Virāga / Dispassion: Sự đoạn trừ tham ái (taṇhā), không còn dính mắc, ham muốn đối với các đối tượng của giác quan và các cảnh giới tái sanh. Đây là kết quả của sự nhàm chán (nibbidā) và trí tuệ (paññā).
--   Sự đoạn diệt / Nirodha / Cessation: Sự chấm dứt hoàn toàn khổ đau (dukkha) và nguyên nhân của khổ đau (tham ái). Thường được dùng đồng nghĩa với Niết bàn (Nibbāna).
--   Sự an tịnh / Passaddhi / Peace (Tranquility): Sự lắng dịu, yên tĩnh của cả thân và tâm, là kết quả của việc thực hành thiền định và phát triển trí tuệ.
--   Thắng trí / Abhiññā / Direct knowledge (Higher knowledge): Sự hiểu biết trực tiếp, siêu việt, vượt ngoài nhận thức thông thường, đạt được thông qua tu tập thiền định và trí tuệ. Có sáu loại thắng trí, bao gồm các năng lực thần thông và lậu tận trí (āsavakkhaya-ñāṇa - trí tuệ đoạn trừ các lậu hoặc).
--   Giác ngộ / Bodhi / Enlightenment: Sự tỉnh thức hoàn toàn, sự hiểu biết trọn vẹn về Tứ Thánh Đế và bản chất thực của vạn pháp, dẫn đến sự giải thoát khỏi khổ đau và vòng luân hồi.
--   Niết bàn / Nibbāna / Nibbāna: Mục tiêu cuối cùng của Phật giáo, trạng thái dập tắt hoàn toàn mọi phiền não (tham, sân, si), khổ đau và vòng luân hồi (saṃsāra). Có nghĩa đen là "sự thổi tắt" hoặc "sự nguội lạnh".
--   Tám Bước Thiện (Bát Chánh Đạo) / Ariyo aṭṭhaṅgiko maggo / Noble Eightfold Path: Con đường gồm tám yếu tố chân chính do Đức Phật giảng dạy để dẫn đến sự chấm dứt khổ đau và đạt được Niết bàn. Tám yếu tố là: Chánh kiến, Chánh tư duy, Chánh ngữ, Chánh nghiệp, Chánh mạng, Chánh tinh tấn, Chánh niệm, Chánh định.

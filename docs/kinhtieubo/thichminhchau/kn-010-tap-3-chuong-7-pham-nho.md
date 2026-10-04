@@ -1,3 +1,14 @@
+---
+title: Phật Tự Thuyết - Phẩm Nhỏ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Phật Tự Thuyết](/kinhtieubo/thichminhchau/kn-003-tap-3-kinh-phat-tu-thuyet)
+
+</div>
+
+
 # Chương 7: Phẩm Nhỏ
 
 ### (I) (Ud 74){#1}

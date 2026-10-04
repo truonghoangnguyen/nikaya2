@@ -1,3 +1,14 @@
+---
+title: Ngạ Quỷ Sự - Phẩm III -Tiểu Phẩm
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Ngạ Quỷ Sự](/kinhtieubo/thichminhchau/kn-031-tap-7-nga-quy-su)
+
+</div>
+
+
 # Phẩm III -Tiểu Phẩm
 
 ### **1. (26) Chuyện Không Chìm Trong Nước (Abhijjamàna)**

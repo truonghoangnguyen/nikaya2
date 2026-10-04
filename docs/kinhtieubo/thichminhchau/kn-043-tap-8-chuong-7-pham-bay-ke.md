@@ -1,3 +1,14 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 7 – Phẩm Bảy Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
+
 # Chương 7 – Phẩm Bảy Kệ
 
 ### **(CCXXIV) Sundara-Samudda (Thera. 49)** {#224}

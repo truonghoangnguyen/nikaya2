@@ -73,11 +73,11 @@ Chúng tôi muốn nói thêm về mục đích phiên dịch kinh Tạng Pàli 
 
 Chúng tôi phiên dịch Kinh Tạng Pàli hướng về hai mục đích rõ rệt:
 
-1) Mục đích thứ nhất là giới thiệu Kinh Tạng Pàli cho Phật tử và cho nhân dân Việt Nam, những nguyên bản kinh điển được xem là cổ xưa nhất và chứa đựng những giáo lý trung thành nhất của đức Phật. Đức Phật dạy các Phật tử hãy học giáo lý của Ngài trong ngôn ngữ của mình. Phật tử Việt Nam, tất nhiên phải học giáo lý của Ngài ngang qua tiếng Việt, và nhờ vậy Phật tử Việt Nam vượt qua được những trở ngại ngôn ngữ và tự mở rộng cửa chánh pháp và cho mình và cho mọi người.
+1\. Mục đích thứ nhất là giới thiệu Kinh Tạng Pàli cho Phật tử và cho nhân dân Việt Nam, những nguyên bản kinh điển được xem là cổ xưa nhất và chứa đựng những giáo lý trung thành nhất của đức Phật. Đức Phật dạy các Phật tử hãy học giáo lý của Ngài trong ngôn ngữ của mình. Phật tử Việt Nam, tất nhiên phải học giáo lý của Ngài ngang qua tiếng Việt, và nhờ vậy Phật tử Việt Nam vượt qua được những trở ngại ngôn ngữ và tự mở rộng cửa chánh pháp và cho mình và cho mọi người.
 
 Chúng tôi phiên dịch Kinh Tạng vì chúng tôi xem Kinh Tạng gìn giữ được những lời dạy trung thành nhất của đức Phật chưa bị ảnh hưởng bởi những chia rẽ hệ phái và tông phái (Nam tông, Bắc tông).
 
-2) Mục đích thứ hai của chúng tôi trong nhiệm vụ phiên dịch này là xây dựng cho được một Đại Tạng Việt Nam. Ngày nay, chúng ta đã được độc lập thống nhất, chúng ta phải có Đại Tạng Việt Nam cho Phật tử Việt Nam. Ngôn ngữ Việt Nam đủ phong phú, đủ trong và sức mạnh đóng vai trò chuyển ngữ. Ngày nào, chúng ta còn lệ thuộc vào Pàli Tạng hay Hán Tạng v.v… ngày ấy, chúng ta vẫn còn lệ thuộc những văn tự ấy. Độc lập ngôn ngữ cũng có nghĩa là độc lập dân tộc. Xưa kia, ông cha ta đề cao tiếng Nôm là cũng vì vậy, vì chỉ có độc lập ngôn ngữ mới khỏi bị đồng hóa bởi văn hóa ngoại bang.
+2\. Mục đích thứ hai của chúng tôi trong nhiệm vụ phiên dịch này là xây dựng cho được một Đại Tạng Việt Nam. Ngày nay, chúng ta đã được độc lập thống nhất, chúng ta phải có Đại Tạng Việt Nam cho Phật tử Việt Nam. Ngôn ngữ Việt Nam đủ phong phú, đủ trong và sức mạnh đóng vai trò chuyển ngữ. Ngày nào, chúng ta còn lệ thuộc vào Pàli Tạng hay Hán Tạng v.v… ngày ấy, chúng ta vẫn còn lệ thuộc những văn tự ấy. Độc lập ngôn ngữ cũng có nghĩa là độc lập dân tộc. Xưa kia, ông cha ta đề cao tiếng Nôm là cũng vì vậy, vì chỉ có độc lập ngôn ngữ mới khỏi bị đồng hóa bởi văn hóa ngoại bang.
 
 Chúng ta đang cần nghiên cứu Pàli Tạng và Hán Tạng nhưng nghiên cứu không có nghĩa là cam tâm lệ thuộc vào văn tự Pàli hay văn tự Hán Tạng. Điều cốt yếu là thấy rõ điều ấy, và thấy rõ điều ấy cũng tức là thấy được sự cần thiết phải xây dựng cho được một Đại Tạng Việt Nam.
 
@@ -87,10 +87,80 @@ Chúng ta đang cần nghiên cứu Pàli Tạng và Hán Tạng nhưng nghiên 
 ***Tỷ Kheo THÍCH MINH CHÂU\
 Viện Trưởng Viện Phật Học Vạn Hạnh.***
 
-## Mục lục tập 10
+## Mục lục
 - [PHẦN 1 – CHƯƠNG I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1.md)
 - [PHẦN 2 – CHƯƠNG 2](/kinhtieubo/thichminhchau/kn-087-tap-10-p2.md)
 - [PHẦN 3 – CHƯƠNG III, CHƯƠNG IV](/kinhtieubo/thichminhchau/kn-098-tap-10-p3.md)
 - [PHẦN 4 – CHƯƠNG V đến CHƯƠNG XXII](/kinhtieubo/thichminhchau/kn-109-tap-10-p4.md)
 - [PHẦN 5 – CHƯƠNG XIII đến CHƯƠNG XX](/kinhtieubo/thichminhchau/kn-118-tap-10-p5.md)
 - [PHẦN 6 – CHƯƠNG XXI, CHƯƠNG XXII](/kinhtieubo/thichminhchau/kn-127-tap-10-p6.md)
+
+## Mục lục Chi tiết
+- [PHẦN 1 – CHƯƠNG I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1.md)
+    - [[01] PHẨM APANNAKA](/kinhtieubo/thichminhchau/kn-072-tap-10-p1-pham-apannaka.md)
+    - [[02] PHẨM GIỚI](/kinhtieubo/thichminhchau/kn-073-tap-10-p1-pham-gioi.md)
+    - [[03] PHẨM KURUNGA](/kinhtieubo/thichminhchau/kn-074-tap-10-p1-pham-kurunga.md)
+    - [[04] PHẨM KULAVAKA](/kinhtieubo/thichminhchau/kn-075-tap-10-p1-pham-kulavaka.md)
+    - [[05] PHẨM LỢI ÁI](/kinhtieubo/thichminhchau/kn-076-tap-10-p1-pham-loi-ai.md)
+    - [[06] PHẨM ÀSIMSA](/kinhtieubo/thichminhchau/kn-077-tap-10-p1-pham-asimsa.md)
+    - [[07] PHẨM NỮ NHÂN](/kinhtieubo/thichminhchau/kn-078-tap-10-p1-pham-nu-nhan.md)
+    - [[08] PHẨM VARANA](/kinhtieubo/thichminhchau/kn-079-tap-10-p1-pham-varana.md)
+    - [[09] PHẨM APAYIMHA](/kinhtieubo/thichminhchau/kn-080-tap-10-p1-pham-apayimha.md)
+    - [[10] PHẨM LITTA](/kinhtieubo/thichminhchau/kn-081-tap-10-p1-pham-litta.md)
+    - [[11] PHẨM PAROSSATA](/kinhtieubo/thichminhchau/kn-082-tap-10-p1-pham-parossata.md)
+    - [[12] PHẨM HAMSA](/kinhtieubo/thichminhchau/kn-083-tap-10-p1-pham-hamsa.md)
+    - [[13] PHẨM KUSANÀLI](/kinhtieubo/thichminhchau/kn-084-tap-10-p1-pham-kusanali.md)
+    - [[14] PHẨM ASAMPADÀNA](/kinhtieubo/thichminhchau/kn-085-tap-10-p1-pham-asampadana.md)
+    - [[15] PHẨM KAKANTAKA](/kinhtieubo/thichminhchau/kn-086-tap-10-p1-pham-kakantaka.md)
+- [PHẦN 2 – CHƯƠNG 2](/kinhtieubo/thichminhchau/kn-087-tap-10-p2.md)
+    - [[01] PHẨM DALHA](/kinhtieubo/thichminhchau/kn-088-tap-10-p2-pham-dalha.md)
+    - [[02] PHẨM SANTAHAVA](/kinhtieubo/thichminhchau/kn-089-tap-10-p2-pham-santahava.md)
+    - [[03] PHẨM THIỆN PHÁP](/kinhtieubo/thichminhchau/kn-090-tap-10-p2-pham-thien-phap.md)
+    - [[04] PHẨM ASADISA](/kinhtieubo/thichminhchau/kn-091-tap-10-p2-pham-asadisa.md)
+    - [[05] PHẨM RUHAKA](/kinhtieubo/thichminhchau/kn-092-tap-10-p2-pham-ruhaka.md)
+    - [[06] PHẨM NATAMDAIHA](/kinhtieubo/thichminhchau/kn-093-tap-10-p2-pham-natamdaiha.md)
+    - [[07] PHẨM BIRANATTHAMBAHAKA (Ðám cỏ thơm)](/kinhtieubo/thichminhchau/kn-094-tap-10-p2-pham-biranatthambahaka-dam-co-thom.md)
+    - [[08] PHẨM KÀSÀVA](/kinhtieubo/thichminhchau/kn-095-tap-10-p2-pham-kasava.md)
+    - [[09] PHẨM UPÀHANA](/kinhtieubo/thichminhchau/kn-096-tap-10-p2-pham-upahana.md)
+    - [[10] PHẨM SIGÀLA(Chó rừng)](/kinhtieubo/thichminhchau/kn-097-tap-10-p2-pham-sigala-cho-rung.md)
+- [PHẦN 3 – CHƯƠNG III, CHƯƠNG IV](/kinhtieubo/thichminhchau/kn-098-tap-10-p3.md)
+    - [[01] Chương III – Phẩm Sankappa](/kinhtieubo/thichminhchau/kn-099-tap-10-p3-chuong-3-pham-sankappa.md)
+    - [[02] Chương III – Phẩm Kosya](/kinhtieubo/thichminhchau/kn-100-tap-10-p3-chuong-3-pham-kosya.md)
+    - [[03] Chương III – Phẩm Ba Bài Kệ](/kinhtieubo/thichminhchau/kn-101-tap-10-p3-chuong-3-pham-ba-bai-ke.md)
+    - [[04] Chương III – Phẩm Ba Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-102-tap-10-p3-chuong-3-pham-ba-bai-ke-tt.md)
+    - [[05] Chương III – Phẩm Ba Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-103-tap-10-p3-chuong-3-pham-ba-bai-ke-tt.md)
+    - [[06] Chương IV – Phẩm Bốn Bài Kệ](/kinhtieubo/thichminhchau/kn-104-tap-10-p3-chuong-4-pham-bon-bai-ke.md)
+    - [[07] Chương IV – Phẩm Bốn Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-105-tap-10-p3-chuong-4-pham-bon-bai-ke-tt.md)
+    - [[08] Chương IV – Phẩm Bốn Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-106-tap-10-p3-chuong-4-pham-bon-bai-ke-tt.md)
+    - [[09] Chương IV – Phẩm Bốn Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-107-tap-10-p3-chuong-4-pham-bon-bai-ke-tt.md)
+    - [[10] Chương IV – Phẩm Bốn Bài Kệ (tt)](/kinhtieubo/thichminhchau/kn-108-tap-10-p3-chuong-4-pham-bon-bai-ke-tt.md)
+- [PHẦN 4 – CHƯƠNG V đến CHƯƠNG XXII](/kinhtieubo/thichminhchau/kn-109-tap-10-p4.md)
+    - [[01] Chương V – Phẩm Năm Bài Kệ](/kinhtieubo/thichminhchau/kn-110-tap-10-p4-chuong-v-pham-nam-bai-ke.md)
+    - [[02] Chương VI – Phẩm Sáu Bài Kệ](/kinhtieubo/thichminhchau/kn-111-tap-10-p4-chuong-vi-pham-sau-bai-ke.md)
+    - [[03] Chương VII – Phẩm Bảy Bài Kệ](/kinhtieubo/thichminhchau/kn-112-tap-10-p4-chuong-vii-pham-bay-bai-ke.md)
+    - [[04] Chương VIII – Phẩm Tám Bài Kệ](/kinhtieubo/thichminhchau/kn-113-tap-10-p4-chuong-viii-pham-tam-bai-ke.md)
+    - [[05] Chương IX – Phẩm Chín Bài Kệ](/kinhtieubo/thichminhchau/kn-114-tap-10-p4-chuong-ix-pham-chin-bai-ke.md)
+    - [[06] Chương X – Phầm Mười Bài Kệ](/kinhtieubo/thichminhchau/kn-115-tap-10-p4-chuong-x-pham-muoi-bai-ke.md)
+    - [[07] Chương XI – Phẩm Mười Một Bài Kệ](/kinhtieubo/thichminhchau/kn-116-tap-10-p4-chuong-xi-pham-muoi-mot-bai-ke.md)
+    - [[08] Chương XII – Phẩm Mười Hai Bài Kệ](/kinhtieubo/thichminhchau/kn-117-tap-10-p4-chuong-xii-pham-muoi-hai-bai-ke.md)
+- [PHẦN 5 – CHƯƠNG XIII đến CHƯƠNG XX](/kinhtieubo/thichminhchau/kn-118-tap-10-p5.md)
+    - [[01] Chương XIII – Phẩm Mười Ba Bài Kệ](/kinhtieubo/thichminhchau/kn-119-tap-10-p5-chuong-xiii-pham-muoi-ba-bai-ke.md)
+    - [[02] Chương XIV – Tạp Phẩm](/kinhtieubo/thichminhchau/kn-120-tap-10-p5-chuong-xiv-tap-pham.md)
+    - [[03] Chương XV – Phẩm Hai Mươi Bài Kệ](/kinhtieubo/thichminhchau/kn-121-tap-10-p5-chuong-xv-pham-hai-muoi-bai-ke.md)
+    - [[04] Chương XVI – Phẩm Ba Mươi Bài Kệ](/kinhtieubo/thichminhchau/kn-122-tap-10-p5-chuong-xvi-pham-ba-muoi-bai-ke.md)
+    - [[05] Chương XVII – Phẩm Bốn Mươi Bài Kệ](/kinhtieubo/thichminhchau/kn-123-tap-10-p5-chuong-xvii-pham-bon-muoi-bai-ke.md)
+    - [[06] Chương XVIII – Phẩm Năm Mươi Bài Kệ](/kinhtieubo/thichminhchau/kn-124-tap-10-p5-chuong-xviii-pham-nam-muoi-bai-ke.md)
+    - [[07] Chương XIX – Phẩm Sáu Mươi Bài Kệ](/kinhtieubo/thichminhchau/kn-125-tap-10-p5-chuong-xix-pham-sau-muoi-bai-ke.md)
+    - [[08] Chương XX – Phẩm Bảy Mươi Bài Kệ](/kinhtieubo/thichminhchau/kn-126-tap-10-p5-chuong-xx-pham-bay-muoi-bai-ke.md)
+- [PHẦN 6 – CHƯƠNG XXI, CHƯƠNG XXII](/kinhtieubo/thichminhchau/kn-127-tap-10-p6.md)
+    - [[01] Chương XXI – Phẩm Tám Mươi Bài Kệ Phần 1](/kinhtieubo/thichminhchau/kn-128-tap-10-p6-chuong-xxi-pham-tam-muoi-bai-ke.md)
+    - [[02] Chương XXI – Phẩm Tám Mươi Bài Kệ (tt) Phần 2](/kinhtieubo/thichminhchau/kn-129-tap-10-p6-chuong-xxi-pham-tam-muoi-bai-ke-tt.md)
+    - [[03] Chương XXII – Đại Phẩm - Phần 1](/kinhtieubo/thichminhchau/kn-130-tap-10-p6-chuong-xxii-dai-pham-1.md)
+    - [[04] Chương XXII – Đại Phẩm (tt) - Phần 2](/kinhtieubo/thichminhchau/kn-131-tap-10-p6-chuong-xxii-dai-pham-2.md)
+    - [[05] Chương XXII – Đại Phẩm (tt) - Phần 3](/kinhtieubo/thichminhchau/kn-132-tap-10-p6-chuong-xxii-dai-pham-3.md)
+    - [[06] Chương XXII – Đại Phẩm (tt) - Phần 4](/kinhtieubo/thichminhchau/kn-133-tap-10-p6-chuong-xxii-dai-pham-4.md)
+    - [[07] Chương XXII – Đại Phẩm (tt) - Phần 5](/kinhtieubo/thichminhchau/kn-134-tap-10-p6-chuong-xxii-dai-pham-5.md)
+    - [[08] Chương XXII – Đại Phẩm (tt) - Phần 6](/kinhtieubo/thichminhchau/kn-135-tap-10-p6-chuong-xxii-dai-pham-6.md)
+    - [[09] Chương XXII – Đại Phẩm (tt) - Phần 7](/kinhtieubo/thichminhchau/kn-136-tap-10-p6-chuong-xxii-dai-pham-7.md)
+    - [[10] Chương XXII – Đại Phẩm (tt) - Phần 8](/kinhtieubo/thichminhchau/kn-137-tap-10-p6-chuong-xxii-dai-pham-8.md)
+    - [[11] Chương XXII – Đại Phẩm (tt) - Phần 9](/kinhtieubo/thichminhchau/kn-138-tap-10-p6-chuong-xxii-dai-pham-9.md)

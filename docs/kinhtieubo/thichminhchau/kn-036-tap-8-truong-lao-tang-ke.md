@@ -1,6 +1,12 @@
 ---
 title: Kinh tiểu bộ tập 8 – TRƯỞNG LÃO TĂNG KỆ
 ---
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/)
+
+</div>
+
 # TẬP 8 – TRƯỞNG LÃO TĂNG KỆ
 
 ## Giới thiệu Trưởng Lão Tăng Kệ & Trưởng Lão Ni Kệ

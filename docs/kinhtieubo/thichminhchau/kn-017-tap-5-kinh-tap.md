@@ -2,6 +2,13 @@
 title: Kinh tiểu bộ tập 5 – KINH TẬP
 ---
 
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/)
+
+</div>
+
+
 # TẬP 5 – KINH TẬP
 **Sutta Nipata (snp)**
 
@@ -35,7 +42,7 @@ Kinh Tập này gồm có 5 Chương:
 2. Chương II, Tiểu Phẩm gồm có 14 kinh.
 3. Chương III, Ðại Phẩm gồm có 12 kinh;
 4. Chương IV, Phẩm Tám gồm có 16 kinh;
-5. Chương V,  PhẩmTrên Con Ðường Ðến Bờ Bên Kia, gồm có 17 kinh tất cả.
+5. Chương V, Phẩm 'Trên Con Ðường Ðến Bờ Bên Kia' gồm có 17 kinh tất cả.
 
 Tổng cộng kinh này có 5 Chương và 71 bài kinh.
 

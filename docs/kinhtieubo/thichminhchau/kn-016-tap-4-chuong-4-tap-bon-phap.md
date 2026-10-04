@@ -1,4 +1,12 @@
-*KINH PHẬT THUYẾT NHƯ VẬY Itivuttaka*
+---
+title: Phật Thuyết Như Vậy Itivuttaka - Bốn Pháp
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Phật Tự Thuyết](/kinhtieubo/thichminhchau/kn-012-tap-4-kinh-phat-thuyet-nhu-vay)
+
+</div>
 
 # Chương Bốn – Bốn Pháp
 

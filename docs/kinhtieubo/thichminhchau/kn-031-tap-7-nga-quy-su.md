@@ -1,6 +1,12 @@
 ---
 title: Kinh tiểu bộ tập 7 – NGẠ QUỶ SỰ
 ---
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/)
+
+</div>
+
 # TẬP 7 – NGẠ QUỶ SỰ
 
 ## Giới thiệu tập 7 – Ngạ Quỷ Sự

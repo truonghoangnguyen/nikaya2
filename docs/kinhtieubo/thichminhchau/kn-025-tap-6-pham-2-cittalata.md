@@ -1,3 +1,14 @@
+---
+title: Thiên Cung Sự - Phẩm II – Cittalatà
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Thiên Cung Sự](/kinhtieubo/thichminhchau/kn-023-tap-6-thien-cung-su)
+
+</div>
+
+
 # Phẩm II – Cittalatà
 
 ### **1. (18) Chuyện thứ nhất – Lâu Ðài Của Nữ Tỳ (Dàsi-Vimàra)**

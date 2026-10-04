@@ -2,7 +2,11 @@
 title: Chuyện Tiền Thân Phần V
 ---
 
+<div class="top-nav">
+
 [Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần V](/kinhtieubo/thichminhchau/kn-118-tap-10-p5)
+
+</div>
 
 
 # [08] Chương XX – Phẩm Bảy Mươi Bài Kệ

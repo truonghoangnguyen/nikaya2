@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 3 – Phẩm Ba Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 3 – Phẩm Ba Kệ
 
 ### **(CLXX) Anganika Bhàradvàja (Thera. 29)** {#170}

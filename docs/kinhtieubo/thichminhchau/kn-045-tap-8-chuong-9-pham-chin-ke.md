@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 9 – Phẩm Chín Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 9 – Phẩm Chín Kệ
 
 ### **(CCXXXII) Bhùta (Thera. 54)** {#232}

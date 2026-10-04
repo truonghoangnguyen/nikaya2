@@ -1,3 +1,13 @@
+---
+title: Phật Tự Thuyết - Phẩm Nanda
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Phật Tự Thuyết](/kinhtieubo/thichminhchau/kn-003-tap-3-kinh-phat-tu-thuyet)
+
+</div>
+
 # Chương 3: Phẩm Nanda
 
 ### (I) (Ud 21){#1}

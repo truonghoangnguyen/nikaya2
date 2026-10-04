@@ -1,3 +1,14 @@
+---
+title: Thiên Cung Sự - Phẩm VI – Pàyasi
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Thiên Cung Sự](/kinhtieubo/thichminhchau/kn-023-tap-6-thien-cung-su)
+
+</div>
+
+
 # Phẩm VI – Pàyasi
 
 ### **1. (65) Chuyện thứ nhất – Lâu Ðài Gia Chủ (Agàriya-Vimàna)**

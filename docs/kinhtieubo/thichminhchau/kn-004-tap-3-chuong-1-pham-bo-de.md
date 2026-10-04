@@ -1,3 +1,13 @@
+---
+title: Phật Tự Thuyết - Phẩm Bồ Ðề
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Phật Tự Thuyết](/kinhtieubo/thichminhchau/kn-003-tap-3-kinh-phat-tu-thuyet)
+
+</div>
+
 # Chương 1: Phẩm Bồ Ðề
 
 ### (I) (Ud 1){#1}

@@ -1,6 +1,11 @@
 ---
 title: Kinh tiểu bộ tập 4 – KINH PHẬT THUYẾT NHƯ VẬY
 ---
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/)
+
+</div>
 
 # TẬP 4 – KINH PHẬT THUYẾT NHƯ VẬY (iti)
 **(Itivuttaka)**
@@ -48,9 +53,9 @@ Như Lai được diễn tả như một bực đã giác ngộ thế giới, �
 
 “Này các tỷ kheo, Như Lai nói gì làm vậy, làm gì nói vậy; vì rằng nói gì làm vậy, làm gì nói vậy, nên được gọi Như Lai.
 
-“Này các tỷ kheo, trong toàn thể thế giới, Thiên giới, Ma giới, Phạm thiên giới, cùng với quần chúng Sa môn, Bà la môn, chư Thiên và loài người, Như Lai là bậc chiến thắng, không bị chiến bại, toàn tri, toàn kiến, được tự tại, do vậy được gọi là Như Lai (Kinh số 112).”
+“Này các tỷ kheo, trong toàn thể thế giới, Thiên giới, Ma giới, Phạm thiên giới, cùng với quần chúng Sa môn, Bà la môn, chư Thiên và loài người, Như Lai là bậc chiến thắng, không bị chiến bại, toàn tri, toàn kiến, được tự tại, do vậy được gọi là Như Lai ([Kinh số 112](/kinhtieubo/thichminhchau/kn-016-tap-4-chuong-4-tap-bon-phap#112)).”
 
-Hình ảnh Như Lai là vậy, hình ảnh Thế Tôn không có khác hơn, ở đây Thế Tôn tượng trưng cho Pháp và những ai thấy pháp, sống theo Pháp, người ấy mới gần Thế Tôn như kinh số 92 nêu rõ:
+Hình ảnh Như Lai là vậy, hình ảnh Thế Tôn không có khác hơn, ở đây Thế Tôn tượng trưng cho Pháp và những ai thấy pháp, sống theo Pháp, người ấy mới gần Thế Tôn như [kinh số 92](/kinhtieubo/thichminhchau/kn-015-tap-4-chuong-3-tap-ba-phap#92) nêu rõ:
 
 “Này các tỷ kheo, nếu một tỷ kheo nắm lấy viền áo Tăng già lê đi theo sau lưng Ta, chân bước theo chân, nhưng vị ấy có tham ái trong các dục, với lòng sắc xảo, với tâm sân hận, ý tư duy nhiễm ác, thất niệm, không tỉnh giác, không định tỉnh, tâm tán loạn, với các căn hoang dại, vị ấy xa hẳn Ta và Ta xa vị ấy.
 
@@ -58,17 +63,17 @@ Hình ảnh Như Lai là vậy, hình ảnh Thế Tôn không có khác hơn, �
 
 “Vì cớ sao? Này các tỷ kheo, tỷ kheo ấy thấy pháp. Do thấy pháp nên thấy Ta”.
 
-Trong kinh số 100, chính Ðức Phật tự tả mình như sau:
+Trong [kinh số 100](/kinhtieubo/thichminhchau/kn-016-tap-4-chuong-4-tap-bon-phap#100), chính Ðức Phật tự tả mình như sau:
 
 “Này các tỷ kheo, Ta là Bà la môn, người được đến yêu cầu (yàcayogo), tay luôn luôn thanh tịnh (payatapàni) mang thân cuối cùng, vô thượng y sĩ chữa trị (bhisakko) y sĩ giải phẫu (sallakatta). Các ngươi thật là con của Ta (arasà) từ miệng sanh, từ pháp sanh, từ pháp tạo thành, thừa tự pháp, không thừa tự tài vật.”
 
-Ðức Phật tự xưng là y sĩ chữa trị (bhisakkà), tự xưng là y sĩ giải phẫu (sallakatta). Ngài xem các đệ tử như con của Ngài, từ miệng sanh, từ pháp sanh, là những con cháu thừa tự pháp. Ðâu đâu cũng thấy vai trò trọng yếu của chánh pháp, vì đức Phật là tượng trưng cho Pháp, tự miệng mình thuyết pháp độ chúng sanh. Rõ hơn nữa là xác nhận hai loại thuyết pháp của đức Phật, như kinh 35 đã nêu rõ:
+Ðức Phật tự xưng là y sĩ chữa trị (bhisakkà), tự xưng là y sĩ giải phẫu (sallakatta). Ngài xem các đệ tử như con của Ngài, từ miệng sanh, từ pháp sanh, là những con cháu thừa tự pháp. Ðâu đâu cũng thấy vai trò trọng yếu của chánh pháp, vì đức Phật là tượng trưng cho Pháp, tự miệng mình thuyết pháp độ chúng sanh. Rõ hơn nữa là xác nhận hai loại thuyết pháp của đức Phật, như [kinh 39](/kinhtieubo/thichminhchau/kn-014-tap-4-chuong-2-tap-hai-phap#39) đã nêu rõ:
 
 “Có hai loại thuyết pháp của Như Lai, bậc A la hán, chánh đẳng giác, cái này tiếp nối cái kia. Thế nào là hai? Hãy thấy Ác là ác. Ðây là thuyết pháp thứ nhất. Sau khi thấy ác là ác, ở đây hãy nhàm chán, hãy từ bỏ, hãy thoát ly! Ðây là thuyết pháp thứ hai!”
 
 Ðức Phật đã là đức Phật nguyên thủy, thời mục đích của sự tu hành, sự cứu cánh của Phạm hạnh và mục tiêu giải thoát giác ngộ là những mục tiêu trung thành với giáo pháp chánh thống nguyên thủy.
 
-Mục đích của đạo Phật là giải quyết vấn đề sanh lão bệnh tử, tức là chấm dứt sự đau khổ cho con người. Và đoạn kinh sau này xác chứng rằng sự đau khổ có thể được chấm dứt và trạng thái đau khổ được chấm dứt là Niết bàn. Dưới đây là định nghĩa của Niết bàn ấy trong kinh số 44:
+Mục đích của đạo Phật là giải quyết vấn đề sanh lão bệnh tử, tức là chấm dứt sự đau khổ cho con người. Và đoạn kinh sau này xác chứng rằng sự đau khổ có thể được chấm dứt và trạng thái đau khổ được chấm dứt là Niết bàn. Dưới đây là định nghĩa của Niết bàn ấy trong [kinh số 44](/kinhtieubo/thichminhchau/kn-014-tap-4-chuong-2-tap-hai-phap#44):
 
 “Này các tỷ kheo, có hai Niết bàn giới này. Thế nào là hai? Niết bàn giới có dư y và Niết bàn giới không dư y.
 
@@ -76,7 +81,7 @@ Mục đích của đạo Phật là giải quyết vấn đề sanh lão bệnh
 
 “Này các tỷ kheo, thế nào là Niết bàn không có dư y? Ở đây, này các tỷ kheo, tỷ kheo là bậc A la hán, các lậu hoặc đã tận, Phạm hạnh đã thành, việc nên làm đã làm, đã đặt gánh nặng xuống, đã đạt được mục đích, hữu kiết sử đã diệt, đã giải thoát nhờ chánh trí. Ở đây, đối vị ấy, mọi cảm thọ đều không có hoan hỷ ưa thích, sẽ được lắng dịu”.
 
-Một kinh nữa, kinh số 43 xác nhận sự hiện diện của trạng thái giải thoát này, ngay trong đời hiện tại, có mặt trên quả đất này:
+Một kinh nữa, [kinh số 43](/kinhtieubo/thichminhchau/kn-014-tap-4-chuong-2-tap-hai-phap#43) xác nhận sự hiện diện của trạng thái giải thoát này, ngay trong đời hiện tại, có mặt trên quả đất này:
 
 “Này các tỷ kheo, có cái không sanh, không hiện hữu, không tác thành, không làm ra. Này các tỷ kheo, nếu không có cái không sanh, không hiện hữu, không tác thành, không làm ra, thời ở đây không có thể trình bày sự xuất ly khỏi sanh, khỏi hiện hữu, khỏi tác thành, khỏi làm ra. Do vì này các tỷ kheo, có cái không sanh, không hiện hữu, không tác thành, không làm ra, nên có thể trình bày được sự xuất ly khỏi sanh, khỏi hiện hữu, khỏi tác thành, khỏi làm ra”.
 
@@ -86,29 +91,29 @@ Vấn đề quan trọng thứ hai, sau mục đích giải thoát và giác ng�
 
 “Này các tỷ kheo, một tỷ kheo có giới tốt lành (kalyàmasìlo), có pháp tốt lành, có tuệ tốt lành, được gọi trong pháp và luật này là vị toàn hảo.
 
-“Này các tỷ kheo, một tỷ kheo có giới tốt lành, có pháp tốt lành, có tuệ tốt lành được gọi trong pháp và luật này là vị toàn hảo (kevalì). Này các tỷ kheo, thế nào là giới tốt lành? Ở đây, này các tỷ kheo, tỷ kheo giữ giới, sống chế ngự với sự chế ngự của giới bổn Pàtimokkha đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, chấp nhận và học tập trong các học pháp. Như vậy này các tỷ kheo, là tỷ kheo có giới tốt lành. Và thế nào là có pháp tốt lành? Ở đây, này các tỷ kheo, tỷ kheo sống chuyên tâm chuyên chú tu tập bảy pháp giác chi. Như vậy này các tỷ kheo, là tỷ kheo có pháp tốt lành. Và thế nào là tuệ tốt lành? Ở đây này các tỷ kheo, tỷ kheo do diệt trừ các lậu hoặc, ngay trong hiện tại, tự mình với thắng tri chứng ngộ chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát. Như vậy, này các tỷ kheo là tỷ kheo có tuệ tốt lành. Như vậy, một người có giới tốt lành, có pháp tốt lành, có tuệ tốt lành được gọi trong pháp và luật này là vị toàn hảo (kevalì) (Kinh số 97).”
+“Này các tỷ kheo, một tỷ kheo có giới tốt lành, có pháp tốt lành, có tuệ tốt lành được gọi trong pháp và luật này là vị toàn hảo (kevalì). Này các tỷ kheo, thế nào là giới tốt lành? Ở đây, này các tỷ kheo, tỷ kheo giữ giới, sống chế ngự với sự chế ngự của giới bổn Pàtimokkha đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, chấp nhận và học tập trong các học pháp. Như vậy này các tỷ kheo, là tỷ kheo có giới tốt lành. Và thế nào là có pháp tốt lành? Ở đây, này các tỷ kheo, tỷ kheo sống chuyên tâm chuyên chú tu tập bảy pháp giác chi. Như vậy này các tỷ kheo, là tỷ kheo có pháp tốt lành. Và thế nào là tuệ tốt lành? Ở đây này các tỷ kheo, tỷ kheo do diệt trừ các lậu hoặc, ngay trong hiện tại, tự mình với thắng tri chứng ngộ chứng đạt và an trú vô lậu tâm giải thoát, tuệ giải thoát. Như vậy, này các tỷ kheo là tỷ kheo có tuệ tốt lành. Như vậy, một người có giới tốt lành, có pháp tốt lành, có tuệ tốt lành được gọi trong pháp và luật này là vị toàn hảo (kevalì) ([Kinh số 97](/kinhtieubo/thichminhchau/kn-015-tap-4-chuong-3-tap-ba-phap#97)).”
 
 Cũng theo chiều hướng trên, ba hình ảnh được phát họa diễn tả ba hạng người, tùy theo mức độ đối trị được với dục và hữu:
 
-“Này các tỷ kheo, những ai bị trói buộc bởi trói buộc của dục, những ai bị trói buộc bởi trói buộc của hữu, là những bậc đến lại, đi đến lại có mặt ở đây. Những ai chế ngự được sự trói buộc của dục, này các tỷ kheo, nhưng còn bị trói buộc bởi trói buộc của hữu, những vị ấy là hạng bất lai, không trở lui lại có mặt ở đây. Những ai chế ngự được sự trói buộc của dục, chế ngự được sự trói buộc của hữu, những vị ấy là những bậc A la hán, đã đoạn tận các lậu hoặc (Kinh 97).”
+“Này các tỷ kheo, những ai bị trói buộc bởi trói buộc của dục, những ai bị trói buộc bởi trói buộc của hữu, là những bậc đến lại, đi đến lại có mặt ở đây. Những ai chế ngự được sự trói buộc của dục, này các tỷ kheo, nhưng còn bị trói buộc bởi trói buộc của hữu, những vị ấy là hạng bất lai, không trở lui lại có mặt ở đây. Những ai chế ngự được sự trói buộc của dục, chế ngự được sự trói buộc của hữu, những vị ấy là những bậc A la hán, đã đoạn tận các lậu hoặc ([Kinh 96](/kinhtieubo/thichminhchau/kn-015-tap-4-chuong-3-tap-ba-phap#96)).”
 
 Tiếp theo là một số phương pháp tu học, một nếp sống đưa đến hai quả Chánh trí hay nếu có dư y thời được quả Bất lai, những quả cao nhất trong con đường tu hành, nghĩa là đoạn tận được khổ đau.
 
-“Này các tỷ kheo, hãy sống ưa muốn ẩn dật, thiền tịnh, thích thú ẩn dật thiền tịnh, thành tựu quán tri, hành trì hạnh đi đến các ngôi nhà trống (Kinh số 45).”
+“Này các tỷ kheo, hãy sống ưa muốn ẩn dật, thiền tịnh, thích thú ẩn dật thiền tịnh, thành tựu quán tri, hành trì hạnh đi đến các ngôi nhà trống ([Kinh số 45](/kinhtieubo/thichminhchau/kn-014-tap-4-chuong-2-tap-hai-phap#45)).”
 
-“Này các tỷ kheo, hãy an trú vào lợi ích của học tập, cho trí tuệ tối thượng, cho lỏi cây giải thoát, cho niệm được tăng trưởng… (Kinh số 46).”
+“Này các tỷ kheo, hãy an trú vào lợi ích của học tập, cho trí tuệ tối thượng, cho lỏi cây giải thoát, cho niệm được tăng trưởng… ([Kinh số 46](/kinhtieubo/thichminhchau/kn-014-tap-4-chuong-2-tap-hai-phap#46)).”
 
-“Này các tỷ kheo, tỷ kheo phải sống cảnh giác, chánh niệm tỉnh giác, thiền tịnh, hoan hỷ, tín thanh và ở đây quán tri đúng thời trong các pháp thiện… (Kinh số 47)”
+“Này các tỷ kheo, tỷ kheo phải sống cảnh giác, chánh niệm tỉnh giác, thiền tịnh, hoan hỷ, tín thanh và ở đây quán tri đúng thời trong các pháp thiện… ([Kinh số 47](/kinhtieubo/thichminhchau/kn-014-tap-4-chuong-2-tap-hai-phap#47)).”
 
 Những vị thực hành theo pháp môn này thời có hy vọng đoạn trừ được khổ đau.
 
 Ðức Phật còn dạy tỷ kheo làm thế nào đã đối trị 3 cảm thọ — lạc thọ, khổ thọ, bất khổ bất lạc thọ:
 
-“Này các tỷ kheo, lạc thọ cần phải được xem như là khổ, khổ thọ cần phải được xem như là vô thường. Vì rằng, này các tỷ kheo, tỷ kheo đã xem lạc thọ như là khổ, đã xem khổ thọ như là mũi tên, đã xem bất khổ bất lạc thọ như là vô thường. Này các tỷ kheo, tỷ kheo này gọi là bậc Thánh, đã chân chánh thấy, đã chặt đứt ái, đã giải tỏa kiết sử, đã chân chánh thắng tri mạn, đã đoạn tận khổ đau.” (Kinh số 53)
+“Này các tỷ kheo, lạc thọ cần phải được xem như là khổ, khổ thọ cần phải được xem như là vô thường. Vì rằng, này các tỷ kheo, tỷ kheo đã xem lạc thọ như là khổ, đã xem khổ thọ như là mũi tên, đã xem bất khổ bất lạc thọ như là vô thường. Này các tỷ kheo, tỷ kheo này gọi là bậc Thánh, đã chân chánh thấy, đã chặt đứt ái, đã giải tỏa kiết sử, đã chân chánh thắng tri mạn, đã đoạn tận khổ đau.” ([Kinh số 53](/kinhtieubo/thichminhchau/kn-015-tap-4-chuong-3-tap-ba-phap#53))
 
-“Này các tỷ kheo, cần phải quán sát một cách như thế nào, do quán sát như vậy, thức của vị ấy đối với ngoại trần không có tán loạn, không có tản rộng, tâm không trú trước nội tâm, không chấp thủ không bị khủng bố, sẽ không có sự sanh, tập khởi của khổ về sanh già chết trong tương lai (Kinh số 94).”
+“Này các tỷ kheo, cần phải quán sát một cách như thế nào, do quán sát như vậy, thức của vị ấy đối với ngoại trần không có tán loạn, không có tản rộng, tâm không trú trước nội tâm, không chấp thủ không bị khủng bố, sẽ không có sự sanh, tập khởi của khổ về sanh già chết trong tương lai ([Kinh số 94](/kinhtieubo/thichminhchau/kn-015-tap-4-chuong-3-tap-ba-phap#94)).”
 
-“Này các tỷ kheo, những Sa môn hay Bà la môn nào không như thật quán tri đây là khổ tập, không như thật quán tri đây là khổ diệt, không như thật quán tri đây là con đường đưa đến khổ diệt. Những Bà là môn ấy, này các tỷ kheo, không được Ta chấp nhận là Sa môn trong các hạng Sa môn hay Bà la môn trong các hạng Bà la môn. Với các vị tôn giả ấy ngay trong hiện tại cũng không tự mình với thắng trí chứng ngộ, chứng đạt và an trú mục đích Sa môn hạnh hay mục đích Bà la môn hạnh. Những Sa môn hay Bà la môn nào, này các tỷ kheo, như thật quán tri đây là khổ, như thật quán tri đây là khổ tập, như thật quán tri đây là khổ diệt, như thật quán tri đây là con đường đưa đến khổ diệt, thời, này các tỷ kheo, các Sa môn hay Bà la môn ấy được Ta chấp nhận là Sa môn trong các hạng Sa môn hay Bà la môn trong các hạng Bà la môn và các vị tôn giả ấy, ngay trong hiện tại tự mình với thắng trí chứng ngộ chứng đạt và an trú mục đích Sa môn hạnh hay mục đích Bà la môn hạnh (Kinh số 103).” (…)
+“Này các tỷ kheo, những Sa môn hay Bà la môn nào không như thật quán tri đây là khổ tập, không như thật quán tri đây là khổ diệt, không như thật quán tri đây là con đường đưa đến khổ diệt. Những Bà là môn ấy, này các tỷ kheo, không được Ta chấp nhận là Sa môn trong các hạng Sa môn hay Bà la môn trong các hạng Bà la môn. Với các vị tôn giả ấy ngay trong hiện tại cũng không tự mình với thắng trí chứng ngộ, chứng đạt và an trú mục đích Sa môn hạnh hay mục đích Bà la môn hạnh. Những Sa môn hay Bà la môn nào, này các tỷ kheo, như thật quán tri đây là khổ, như thật quán tri đây là khổ tập, như thật quán tri đây là khổ diệt, như thật quán tri đây là con đường đưa đến khổ diệt, thời, này các tỷ kheo, các Sa môn hay Bà la môn ấy được Ta chấp nhận là Sa môn trong các hạng Sa môn hay Bà la môn trong các hạng Bà la môn và các vị tôn giả ấy, ngay trong hiện tại tự mình với thắng trí chứng ngộ chứng đạt và an trú mục đích Sa môn hạnh hay mục đích Bà la môn hạnh ([Kinh số 103](/kinhtieubo/thichminhchau/kn-016-tap-4-chuong-4-tap-bon-phap#103)).” (…)
 
 ***Hòa thượng Thích Minh Châu\
 Thiền viện Vạn Hạnh\

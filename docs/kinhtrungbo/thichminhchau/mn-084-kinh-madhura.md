@@ -92,15 +92,16 @@ dậy sớm, thức khuya, thi hành mọi mệnh lệnh của chủ, làm đẹ
 tôi không thấy có sự sai biệt gì.
 
 -- Do pháp môn này, thưa Ðại vương, vấn đề này cần phải được hiểu như âm thanh ở trên đời (câu nói):
-"Chỉ có Bà-la-môn là chủng tánh tối thượng, các chủng tánh khác là hạ liệt... thừa tự Phạm thiên. Thưa
-Ðại vương, Ðại vương nghĩ thế nào? Ở đây, có người Khattiya sát sanh, lấy của không cho, tà hạnh
+"Chỉ có Bà-la-môn là chủng tánh tối thượng, các chủng tánh khác là hạ liệt... thừa tự Phạm thiên. 
+
+<!--pg-->
+6\. Thưa Ðại vương, Ðại vương nghĩ thế nào? Ở đây, có người Khattiya sát sanh, lấy của không cho, tà hạnh
 trong dâm dục, nói láo, nói hai lưỡi, nói lời độc ác, nói lời phù phiếm, tham dục, sân hận, tà kiến, sau khi
 thân hoại mạng chung, người ấy có sanh vào cõi dữ, ác thú, đọa xứ, địa ngục không, hay không phải
 thác sanh? Hay ở đây Ðại vương nghĩ thế nào?
 
 -- Người Khattiya, thưa Tôn giả Kaccana, sát sanh, lấy của không cho, tà hạnh trong dâm dục, nói láo,
 nói hai lưỡi, nói lời độc ác, nói lời phù phiếm, tham dục, sân hận, tà kiến, sau khi thân hoại mạng chung
-
 có thể sanh vào cõi dữ, ác thú, đọa xứ, địa ngục. Ở đây, đối với tôi là vậy, và như vậy là điều tôi đã nghe
 từ các vị A-la-hán.
 
@@ -190,6 +191,8 @@ tôi không thấy có sự sai biệt gì.
 
 -- Do pháp môn này, thưa Ðại vương, vấn đề này cần phải được hiểu như âm thanh ở trên đời, (câu nói):
 "Chỉ có Bà-la-môn là chủng tánh tối thượng, các chủng tánh khác là hạ liệt... là thừa tự Phạm thiên".
+
+<!--pg-->
 Thưa Ðại vương, Ðại vương nghĩ thế nào? Ở đây, vị Khattiya, sau khi cạo bỏ râu tóc, đắp áo cà-sa, xuất
 gia từ bỏ gia đình, sống không gia đình, từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ nói láo, chỉ ăn
 một bữa, sống Phạm hạnh, trì giới luật, trì thiện pháp; Ðại vương đối xử với vị ấy như thế nào?
@@ -202,7 +205,6 @@ mất. Nay vị ấy chỉ được gọi là một vị Sa-môn.
 -- Thưa Ðại vương, Ðại vương nghĩ thế nào? Ở đây, người Bà-la-môn, ở đây người Vessa, ở đây người
 Sudda sau khi cạo bỏ râu tóc, đắp áo cà-sa, xuất gia từ bỏ gia đình, sống không gia đình, từ bỏ sát sanh,
 từ bỏ lấy của không cho, từ bỏ nói láo, ăn một ngày một bữa, sống Phạm hạnh, trì giới luật, trì thiện
-
 pháp; Ðại vương đối xử với vị ấy như thế nào?
 
 -- Thưa Tôn giả Kaccana, tôi sẽ đảnh lễ, hay đứng dậy, hay mời chỗ ngồi, hay cúng dường vị ấy bốn loại

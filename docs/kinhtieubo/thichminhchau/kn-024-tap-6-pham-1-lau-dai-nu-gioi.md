@@ -1,3 +1,14 @@
+---
+title: Thiên Cung Sự - Phẩm I  Lâu Ðài Nữ Giới
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Thiên Cung Sự](/kinhtieubo/thichminhchau/kn-023-tap-6-thien-cung-su)
+
+</div>
+
+
 # Phẩm I : Lâu Ðài Nữ Giới
 
 Ðảnh Lễ Ðức Thế Tôn, Bậc A-La-Hán, Chánh Ðẳng Giác

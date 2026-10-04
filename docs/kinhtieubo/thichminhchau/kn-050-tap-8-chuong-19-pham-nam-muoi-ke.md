@@ -1,3 +1,13 @@
+---
+title: Trưởng Lão Tăng Kệ - Chương 19 – Phẩm Năm Mươi Kệ
+---
+
+<div class="top-nav">
+
+[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
+
+</div>
+
 # Chương 19 – Phẩm Năm Mươi Kệ
 
 ### **(CCLXII) Tàlaputta (Thera. 97)** {#262}
