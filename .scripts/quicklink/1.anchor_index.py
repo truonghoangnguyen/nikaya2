@@ -149,21 +149,18 @@ def process_file(filename):
 # ============================================================
 
 files = [
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-055-tap-9-pham-2-tap-hai-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-056-tap-9-pham-3-tap-ba-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-057-tap-9-pham-4-tap-bon-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-058-tap-9-pham-5-tap-nam-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-059-tap-9-pham-6-tap-sau-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-060-tap-9-pham-7-tap-bay-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-061-tap-9-pham-8-tap-tam-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-062-tap-9-pham-9-tap-chin-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-063-tap-9-pham-10-tap-muoi-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-064-tap-9-pham-11-tap-muoi-hai-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-065-tap-9-pham-12-tap-muoi-sau-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-066-tap-9-pham-13-tap-hai-muoi-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-067-tap-9-pham-14-tap-ba-muoi-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-068-tap-9-pham-15-tap-bon-muoi-ke.md",
-"/Users/ng/projects/nikaya2/docs/kinhtieubo/thichminhchau/kn-069-tap-9-pham-16-dai-pham.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-1-kammakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-2-parivasikakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-3-samuccayakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-4-samathakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-5-khuddakavatthukkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-6-senasanakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-7-sanghabhedakakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-8-vattakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-9-patimokkhatthapanakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-10-bhikkhunikkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-11-pancasatikakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-12-sattasatikakkhandhaka.md",
 ]
 
 for file in files:

@@ -106,3 +106,9 @@ Thiền 4:  Này Udāyi, đến mức độ này thì *thế giới hoàn toàn 
 Có thể dự đoán thế giới cao nhất trong trải nghiệm là thiền 4, đến đoạn sau sẽ là giải thoát khỏi thế giới cao nhất 
 MN 79.44:
 > Vị ấy biết rõ: 'Sự *Tái sinh* (sinh / jāti) đã *cạn kiệt*, ...
+
+### MN 85
+- Người hỏi bao lâu thì thành tựu chứng ngộ
+> Người đó có niềm tin; những gì có thể đạt được bằng niềm tin, người đó có thể đạt được. Người đó ít bệnh tật; những gì có thể đạt được bằng sự ít bệnh tật, người đó có thể đạt được. Người đó không gian xảo, không lừa dối; những gì có thể đạt được bằng sự không gian xảo, không lừa dối, người đó có thể đạt được. Người đó có nỗ lực; những gì có thể đạt được bằng nỗ lực, người đó có thể đạt được. Người đó có trí tuệ; những gì có thể đạt được bằng trí tuệ, người đó có thể đạt được. Này vương tử, ông nghĩ sao, người đó có thể học nghệ thuật cưỡi voi dùng móc sắt từ ông được không?" {#57}
+
+> Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt, nếu được giảng dạy vào buổi tối, sẽ đạt được sự thù thắng vào buổi sáng; nếu được giảng dạy vào buổi sáng, sẽ đạt được sự thù thắng vào buổi tối." {#59}

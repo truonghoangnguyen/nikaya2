@@ -4,6 +4,8 @@ description: Bài kinh này được Đức Phật thuyết tại xứ Bhagga, �
 
 # MN 85. KINH VƯƠNG TỬ BỒ-ĐỀ
 *(Bodhirājakumārasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-085){."note-link"}
+
 
 1\. Tôi đã nghe như vầy—một thời Thế Tôn trú tại xứ Bhagga, ở núi Susumāragira, trong rừng Bhesakaḷā, tại vườn Lộc Uyển. {#1}
 
@@ -27,7 +29,7 @@ Vương tử Bodhi thưa với Thế Tôn: "Bạch Thế Tôn, mong Ngài bướ
 
 Lần thứ hai... Lần thứ ba, vương tử Bodhi thưa với Thế Tôn: "Bạch Thế Tôn, mong Ngài bước lên những tấm vải; mong bậc Thiện Thệ bước lên những tấm vải; để điều đó mang lại lợi ích và hạnh phúc lâu dài cho con."
 
-Khi ấy, Thế Tôn nhìn Tôn giả Ānanda. Tôn giả Ānanda liền nói với vương tử Bodhi: "Thưa vương tử, hãy cuốn những tấm vải lại; Thế Tôn sẽ không giẫm lên tấm vải trải. *Người Đến Như Vậy* (Như Lai / tathāgato) nghĩ [không tốt] cho thế hệ tương lai."
+Khi ấy, Thế Tôn nhìn Tôn giả Ānanda. Tôn giả Ānanda liền nói với vương tử Bodhi: "Thưa vương tử, hãy cuốn những tấm vải lại; Thế Tôn sẽ không giẫm lên tấm vải trải. *Người Đến Như Vậy* (Như Lai / tathāgato) nghĩ [không tốt] cho thế hệ tương lai." [1](/kinhtrungbo/pali-vi/sum/mn-sum-085.md#1){.note} 
 
 8\. Khi ấy, vương tử Bodhi cho cuốn những tấm vải lại và sắp đặt chỗ ngồi ở tầng trên của lâu đài Kokanada. Thế Tôn bước lên lâu đài Kokanada và ngồi vào chỗ đã dọn sẵn cùng với hội chúng tỳ kheo. {#8}
 
@@ -273,7 +275,6 @@ Lần thứ ba, này vương tử, năm vị tỳ kheo nói với Ta: 'Thưa hi�
 
 53\. Này vương tử, Ta đã có thể thuyết phục được năm vị tỳ kheo. Này vương tử, Ta giảng dạy cho hai vị tỳ kheo. Ba vị tỳ kheo đi khất thực. Những gì ba vị tỳ kheo mang về sau khi đi khất thực, cả sáu chúng ta cùng ăn. Này vương tử, Ta giảng dạy cho ba vị tỳ kheo, hai vị tỳ kheo đi khất thực. Những gì hai vị tỳ kheo mang về sau khi đi khất thực, cả sáu chúng ta cùng ăn. {#53}
 
-
 54\. Này vương tử, năm vị tỳ kheo được Ta giảng dạy như vậy, được Ta chỉ dẫn như vậy, không bao lâu—mục đích mà các thiện nam tử chân chính rời bỏ gia đình sống không gia đình, mục đích vô thượng ấy—họ đã tự mình chứng ngộ, đạt đến và an trú ngay trong đời sống hiện tại, là sự hoàn tất *đời sống thánh thiện*." {#54}
 
 <!--pg-->
@@ -287,11 +288,23 @@ Lần thứ ba, này vương tử, năm vị tỳ kheo nói với Ta: 'Thưa hi�
 
 "Bạch Thế Tôn, dù người đó chỉ có một khiếm khuyết trong số đó, người đó cũng không thể học nghệ thuật cưỡi voi dùng móc sắt từ con, huống hồ là cả năm khiếm khuyết."
 
-57\. "Này vương tử, ông nghĩ sao, giả sử có một người đến và nói: 'Vương tử Bodhi biết nghệ thuật cưỡi voi dùng móc sắt; tôi sẽ học nghệ thuật cưỡi voi dùng móc sắt từ ngài ấy'. Người đó có niềm tin; những gì có thể đạt được bằng niềm tin, người đó có thể đạt được. Người đó ít bệnh tật; những gì có thể đạt được bằng sự ít bệnh tật, người đó có thể đạt được. Người đó không gian xảo, không lừa dối; những gì có thể đạt được bằng sự không gian xảo, không lừa dối, người đó có thể đạt được. Người đó có nỗ lực; những gì có thể đạt được bằng nỗ lực, người đó có thể đạt được. Người đó có trí tuệ; những gì có thể đạt được bằng trí tuệ, người đó có thể đạt được. Này vương tử, ông nghĩ sao, người đó có thể học nghệ thuật cưỡi voi dùng móc sắt từ ông được không?" {#57}
+57\. "Này vương tử, ông nghĩ sao, giả sử có một người đến và nói: 'Vương tử Bodhi biết nghệ thuật cưỡi voi dùng móc sắt; tôi sẽ học nghệ thuật cưỡi voi dùng móc sắt từ ngài ấy'. Nếu người ấy có lòng tin, thì những gì có thể đạt được nhờ lòng tin, người ấy sẽ đạt được. Nếu người ấy khỏe mạnh, thì những gì có thể đạt được nhờ khỏe mạnh, người ấy sẽ đạt được. Nếu người ấy không xảo trá, không giả dối, thì những gì có thể đạt được nhờ không xảo trá, không giả dối, người ấy sẽ đạt được. Nếu người ấy siêng năng tinh tấn, thì những gì có thể đạt được nhờ siêng năng tinh tấn, người ấy sẽ đạt được. Nếu người ấy có trí tuệ, thì những gì có thể đạt được nhờ trí tuệ, người ấy sẽ đạt được. Này Vương tử, ngài nghĩ thế nào? Người ấy có thể học được nghề cưỡi voi và cầm móc điều khiển voi nơi ngài không?" {#57}
 
 "Bạch Thế Tôn, dù người đó chỉ có một yếu tố trong số đó, người đó cũng có thể học nghệ thuật cưỡi voi dùng móc sắt từ con, huống hồ là cả năm yếu tố."
 
-58\. "Cũng vậy, này vương tử, có năm *yếu tố nỗ lực* (tinh tấn chi / padhāniyaṅgāni) này. Năm yếu tố nào? Ở đây, này vương tử, vị tỳ kheo có niềm tin; tin tưởng vào sự giác ngộ của *Người Đến Như Vậy*: 'Thế Tôn là bậc A-la-hán, bậc Chánh Đẳng Giác, đầy đủ *hiểu biết* và hạnh kiểm, bậc Thiện Thệ, người biết rõ thế gian, bậc Vô thượng, người điều phục những ai đáng được điều phục, đạo sư của chư thiên và nhân loại, bậc Giác ngộ, Thế Tôn'; vị ấy ít bệnh tật, ít ốm đau, có hệ tiêu hóa cân bằng, không quá lạnh cũng không quá nóng, ở mức trung bình, thích hợp cho sự nỗ lực; vị ấy không gian xảo, không lừa dối, thể hiện bản thân đúng như thật trước đạo sư hoặc trước các vị đồng tu có trí; vị ấy sống khởi lên nỗ lực để *từ bỏ* (đoạn trừ / pahānāya) *những điều không thiện*, để đạt được những *điều thiện* (thiện pháp / kusalānaṁ dhammānaṁ), kiên cường, dũng mãnh, không trút bỏ gánh nặng đối với những *điều thiện*; vị ấy có trí tuệ, được trang bị trí tuệ thấy rõ sự sinh diệt, trí tuệ của bậc thánh, có khả năng đâm thủng, dẫn đến sự *chấm dứt* đau khổ hoàn toàn. Này vương tử, đây là năm *yếu tố nỗ lực*. {#58}
+58\. "Cũng vậy, này vương tử, có năm *yếu tố nỗ lực* (tinh tấn chi / padhāniyaṅgāni) này. Năm yếu tố nào? Ở đây, này vương tử, vị tỳ kheo :{#58}
+
+1\. Có lòng tin — tin vào sự giác ngộ của Như Lai: ‘Thế Tôn quả thật là bậc Ứng Cúng, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.’
+
+2\. Ít bệnh, ít ốm đau — có sự tiêu hóa điều hòa, không quá lạnh, không quá nóng, vừa phải, có thể chịu đựng được sự nỗ lực tu tập.
+
+3\. Không xảo trá, không giả dối — tự bộc lộ con người thật của mình với bậc Đạo Sư, với người trí, hoặc với các bạn đồng tu.
+
+4\. Siêng năng tinh tấn — nỗ lực đoạn trừ các pháp bất thiện, thành tựu các pháp thiện; mạnh mẽ, kiên trì, không buông bỏ trách nhiệm trong các thiện pháp.
+
+5\. Có trí tuệ — thành tựu trí tuệ thấy rõ sự sinh diệt, trí tuệ thuộc bậc thánh, thấu suốt, dẫn đến sự chấm dứt hoàn toàn khổ đau.
+
+Này vương tử, đây là năm *yếu tố nỗ lực*. [^2] {#58}
 
 59\. Này vương tử, một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt—mục đích mà các thiện nam tử chân chính rời bỏ gia đình sống không gia đình, mục đích vô thượng ấy—có thể tự mình chứng ngộ, đạt đến và an trú ngay trong đời sống hiện tại, là sự hoàn tất *đời sống thánh thiện* trong bảy năm. Này vương tử, khoan nói đến bảy năm. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong sáu năm... năm năm... bốn năm... ba năm... hai năm... một năm. Này vương tử, khoan nói đến một năm. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong bảy tháng. Này vương tử, khoan nói đến bảy tháng. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong sáu tháng... năm tháng... bốn tháng... ba tháng... hai tháng... một tháng... nửa tháng. Này vương tử, khoan nói đến nửa tháng. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong bảy ngày đêm. Này vương tử, khoan nói đến bảy ngày đêm. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt... có thể tự mình chứng ngộ... trong sáu ngày đêm... năm ngày đêm... bốn ngày đêm... ba ngày đêm... hai ngày đêm... một ngày đêm. Này vương tử, khoan nói đến một ngày đêm. Một vị tỳ kheo được trang bị năm *yếu tố nỗ lực* này, khi có *Người Đến Như Vậy* làm người dẫn dắt, nếu được giảng dạy vào buổi tối, sẽ đạt được sự thù thắng vào buổi sáng; nếu được giảng dạy vào buổi sáng, sẽ đạt được sự thù thắng vào buổi tối." {#59}
 

@@ -11,7 +11,7 @@ Khi dịch, bạn sẽ gặp những từ ngữ chuyên môn (gọi là thuật-
 
 Cách dịch theo thứ tự ưu tiên sau:
 (a) Có trong bảng: tra theo gốc từ, bỏ qua biến cách, dùng đúng cột Từ mới.
-(b) Từ ghép chưa có: dịch cả cụm bằng tiếng Việt hiện đại, không tách, gắn [!].
+(b) Từ ghép chưa có: dịch cả cụm bằng tiếng Việt hiện đại, không tách.
 (c) Thuật ngữ đơn chưa có: đề xuất từ hiện đại cùng [!], Hán-Việt đặt trong ngoặc.
 (d) Từ thường: tiếng Việt tự nhiên.
 
@@ -198,8 +198,8 @@ Trước khi dịch, ghi nhận ngắn gọn:
 | manoviññāṇa | sự nhận biết ở trí não | ý thức | |
 | cakkhuviññāṇa | Nhận biết ở mắt | nhãn thức | |
 | pañcindriyāni | năm giác quan | ngũ căn | ở trong: mắt, tai, mũi, lưỡi, thân |
-| pañcindriyāni | năm năng lực tinh thần | ngũ căn | ở trong: tín, tấn, niệm, định, tuệ |
-| pañcabalāni | năm sức mạnh | ngũ lực | |
+| pañcindriyāni | năm nền tảng tinh thần | ngũ căn | ở trong: tín, tấn, niệm, định, tuệ |
+| pañcabalāni | năm sức mạnh tinh thần | ngũ lực | |
 | ākāsānañcāyatana | tầng Không Gian là Vô Tận | không vô biên xứ | |
 | viññāṇañcāyatana | tầng Nhận Biết Là Vô Tận | thức vô biên xứ | |
 | ākiñcaññāyatana | tầng Không Có Vật Gì | vô sở hữu xứ | |

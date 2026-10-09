@@ -117,3 +117,9 @@ saṅkhāra = hành
 saṅkhata = hữu vi
 Câu các hành là vô thường hơi lạ, có thể là các pháp hữu vi là vô thường với đúng
 
+### date 2026-10-01
+MN 90 thực sự mệt
+
+### date 2026-10-09
+Kinh tiểu bộ Pali, không hiểu vì lý do gì mà đọc lại thiếu, và tìm thấy bộ kinh tiểu bộ phần sau tiếng việt(https://www.thuvienhoasen.org/a38517/kinh-tieu-bo-khuddaka-nikaya-bo-moi?__cf_chl_tk=I9.y6rkoVS9PjUWNeG39VDSu8zHnzAqYcQdMwhrfsi8-1791450023-1.0.1.1-nfP0bkZh5mb83zW6MYombFxtLjOciGdNMbSnuEaDp9Y);
+

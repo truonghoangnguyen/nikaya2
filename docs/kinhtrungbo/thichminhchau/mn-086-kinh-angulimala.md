@@ -53,7 +53,7 @@ nhận sự thật. Và Sa-môn này dẫu cho đang đi lại nói: "Ta đã đ
 đứng lại". Vậy ta hãy hỏi vị Sa-môn này". 
 
 <!--pg-->
-Rồi tên cướp Angulimala với bài kệ nói với Thế Tôn:
+6\. Rồi tên cướp Angulimala với bài kệ nói với Thế Tôn:
 
 > *-- Người đi lại nói: "Ta đã đứng rồi",*\
 > *Ta đứng, Ngươi nói: "Sao ta không đứng?"*\
@@ -201,7 +201,7 @@ báo của nghiệp mà đáng lẽ Ông phải chịu nấu sôi ở địa ng�
 năm".
 
 <!--pg-->
-Rồi Tôn giả Angulimala sống độc cư, Thiền tịnh, cảm thọ được giải thoát lạc, và trong lúc ấy nói lên lời
+18\. Rồi Tôn giả Angulimala sống độc cư, Thiền tịnh, cảm thọ được giải thoát lạc, và trong lúc ấy nói lên lời
 cảm khái sau đây:
 
 > *"Ai trước phóng dật, sau không phóng dật,*\
