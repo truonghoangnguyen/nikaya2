@@ -1,1 +1,9 @@
-<!--@include: ./meta/mucluc.md-->
+- [1.1. Ariyasaccappakāsanapaṭhamabhūmi](/kinhtieubo/pali/pe/pe-1-1-ariyasaccappakasanapathamabhumi.md)
+- [2.2. Sāsanapaṭṭhānadutiyabhūmi](/kinhtieubo/pali/pe/pe-2-2-sasanapatthanadutiyabhumi.md)
+- [3.3. Suttādhiṭṭhānatatiyabhūmi](/kinhtieubo/pali/pe/pe-3-3-suttadhitthanatatiyabhumi.md)
+- [4.4. Suttavicayacatutthabhūmi](/kinhtieubo/pali/pe/pe-4-4-suttavicayacatutthabhumi.md)
+- [5.5. Hāravibhaṅgapañcamabhūmi](/kinhtieubo/pali/pe/pe-5-5-haravibhangapancamabhumi.md)
+- [6.6. Suttatthasamuccayabhūmi](/kinhtieubo/pali/pe/pe-6-6-suttatthasamuccayabhumi.md)
+- [7. Pakiṇṇakaniddesa](/kinhtieubo/pali/pe/pe-7-pakinnakaniddesa.md)
+- [8. Hārasampātabhūmi](/kinhtieubo/pali/pe/pe-8-harasampatabhumi.md)
+- [9. Suttavebhaṅgiya](/kinhtieubo/pali/pe/pe-9-suttavebhangiya.md)

@@ -1,0 +1,17 @@
+# MIL 5.1.9. Meṇḍakapañha
+
+0\. Iddhibalavagga
+
+## 9. Uttarikaraṇīyapañha
+
+1\. “Bhante nāgasena, tumhe bhaṇatha—‘yaṁ kiñci karaṇīyaṁ tathāgatassa, sabbaṁ taṁ bodhiyāyeva mūle pariniṭṭhitaṁ, natthi tathāgatassa uttariṁ karaṇīyaṁ, katassa vā paticayo’ti, idañca temāsaṁ paṭisallānaṁ dissati. Yadi, bhante nāgasena, yaṁ kiñci karaṇīyaṁ tathāgatassa, sabbaṁ taṁ bodhiyāyeva mūle pariniṭṭhitaṁ, natthi tathāgatassa uttariṁ karaṇīyaṁ, katassa vā paticayo, tena hi ‘temāsaṁ paṭisallīno’ti yaṁ vacanaṁ, taṁ micchā. Yadi temāsaṁ paṭisallīno, tena hi ‘yaṁ kiñci karaṇīyaṁ, tathāgatassa, sabbaṁ taṁ bodhiyāyeva mūle pariniṭṭhitan’ti tampi vacanaṁ micchā. Natthi katakaraṇīyassa paṭisallānaṁ, sakaraṇīyasseva paṭisallānaṁ yathā nāma byādhitasseva bhesajjena karaṇīyaṁ hoti, abyādhitassa kiṁ bhesajjena. Chātasseva bhojanena karaṇīyaṁ hoti, achātassa kiṁ bhojanena. Evameva kho, bhante nāgasena, natthi katakaraṇīyassa paṭisallānaṁ, sakaraṇīyasseva paṭisallānaṁ. Ayampi ubhato koṭiko pañho tavānuppatto, so tayā nibbāhitabbo”ti.
+
+2\. “Yaṁ kiñci, mahārāja, karaṇīyaṁ tathāgatassa, sabbaṁ taṁ bodhiyāyeva mūle pariniṭṭhitaṁ, natthi tathāgatassa uttariṁ karaṇīyaṁ, katassa vā paticayo, bhagavā ca temāsaṁ paṭisallīno, paṭisallānaṁ kho, mahārāja, bahuguṇaṁ, sabbepi tathāgatā paṭisallīyitvā sabbaññutaṁ pattā, taṁ te sukataguṇamanussarantā paṭisallānaṁ sevanti. Yathā, mahārāja, puriso rañño santikā laddhavaro paṭiladdhabhogo taṁ sukataguṇamanussaranto aparāparaṁ rañño upaṭṭhānaṁ eti; evameva kho, mahārāja, sabbepi tathāgatā paṭisallīyitvā sabbaññutaṁ pattā, taṁ te sukataguṇamanussarantā paṭisallānaṁ sevanti.
+
+3\. Yathā vā pana, mahārāja, puriso āturo dukkhito bāḷhagilāno bhisakkamupasevitvā sotthimanuppatto taṁ sukataguṇamanussaranto aparāparaṁ bhisakkamupasevati; evameva kho, mahārāja, sabbepi tathāgatā paṭisallīyitvā sabbaññutaṁ pattā, taṁ te sukataguṇamanussarantā paṭisallānaṁ sevanti.
+
+4\. Aṭṭhavīsati kho panime, mahārāja, paṭisallānaguṇā, ye guṇe samanussarantā tathāgatā paṭisallānaṁ sevanti. Katame aṭṭhavīsati? Idha, mahārāja, paṭisallānaṁ paṭisallīyamānaṁ attānaṁ rakkhati, āyuṁ vaḍḍheti, balaṁ deti, vajjaṁ pidahati, ayasamapaneti, yasamupaneti, aratiṁ vinodeti, ratimupadahati, bhayamapaneti, vesārajjaṁ karoti, kosajjamapaneti, vīriyamabhijaneti, rāgamapaneti, dosamapaneti, mohamapaneti, mānaṁ nihanti, vitakkaṁ bhañjati, cittaṁ ekaggaṁ karoti, mānasaṁ snehayati, hāsaṁ janeti, garukaṁ karoti, lābhamuppādayati, namassiyaṁ karoti, pītiṁ pāpeti, pāmojjaṁ karoti, saṅkhārānaṁ sabhāvaṁ dassayati, bhavappaṭisandhiṁ ugghāṭeti, sabbasāmaññaṁ deti. Ime kho, mahārāja, aṭṭhavīsati paṭisallānaguṇā, ye guṇe samanussarantā tathāgatā paṭisallānaṁ sevanti.
+
+5\. Api ca kho, mahārāja, tathāgatā santaṁ sukhaṁ samāpattiratiṁ anubhavitukāmā paṭisallānaṁ sevanti pariyositasaṅkappā. Catūhi kho, mahārāja, kāraṇehi tathāgatā paṭisallānaṁ sevanti. Katamehi catūhi? Vihāraphāsutāyapi, mahārāja, tathāgatā paṭisallānaṁ sevanti, anavajjaguṇabahulatāyapi tathāgatā paṭisallānaṁ sevanti, asesaariyavīthitopi tathāgatā paṭisallānaṁ sevanti, sabbabuddhānaṁ thutathomitavaṇṇitapasatthatopi tathāgatā paṭisallānaṁ sevanti. Imehi kho, mahārāja, catūhi kāraṇehi tathāgatā paṭisallānaṁ sevanti. Iti kho, mahārāja, tathāgatā paṭisallānaṁ sevanti na sakaraṇīyatāya, na katassa vā paticayāya, atha kho guṇavisesadassāvitāya tathāgatā paṭisallānaṁ sevantī”ti. “Sādhu, bhante nāgasena, evametaṁ tathā sampaṭicchāmī”ti.
+
+6\. Uttarikaraṇīyapañho navamo.

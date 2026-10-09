@@ -1,91 +1,96 @@
-# MN 87. Piyajātikasutta
+---
+description: Bài kinh được thuyết tại Sāvatthī (Xá-vệ). Một gia chủ vừa mất đi đứa con trai duy nhất nên vô cùng đau khổ. Đức Phật dạy ông rằng sự sầu muộn và đau khổ bắt nguồn từ những người thân yêu, nhưng ông không tin và bỏ đi.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
+# MN 87. KINH SINH RA TỪ NGƯỜI THÂN YÊU
+*(Piyajātikasutta)*
 
-2\. Tena kho pana samayena aññatarassa gahapatissa ekaputtako piyo manāpo kālaṅkato hoti. Tassa kālaṅkiriyāya neva kammantā paṭibhanti na bhattaṁ paṭibhāti. So āḷāhanaṁ gantvā kandati: “kahaṁ, ekaputtaka, kahaṁ, ekaputtakā”ti. {#2}
+1\. Tôi đã nghe như vầy—một thời Thế Tôn trú tại Sāvatthī, trong rừng Jeta, tu viện của Anāthapiṇḍika. {#1}
 
-3\. Atha kho so gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ gahapatiṁ bhagavā etadavoca: “na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan”ti. {#3}
+2\. Lúc bấy giờ, đứa con trai duy nhất, thân yêu, trân quý của một gia chủ nọ qua đời. Vì sự qua đời của nó, ông không còn thiết tha công việc, không màng ăn uống. Ông đi đến nghĩa địa và than khóc: "Đứa con trai duy nhất ở đâu, đứa con trai duy nhất ở đâu?" {#2}
 
-“Kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati; mayhañhi, bhante, ekaputto piyo manāpo kālaṅkato. Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti. Sohaṁ āḷāhanaṁ gantvā kandāmi: ‘kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’”ti.
+3\. Rồi gia chủ ấy đi đến nơi Thế Tôn ở; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi gia chủ ấy ngồi một bên, Thế Tôn nói với ông điều này: "Này gia chủ, các giác quan của ông không an trú trong tâm trạng bình thường của mình, có sự khác thường trong các giác quan của ông." {#3}
 
-“Evametaṁ, gahapati, evametaṁ, gahapati. Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti.
+"Bạch Thế Tôn, làm sao các giác quan của con lại không khác thường được; thưa Thế Tôn, đứa con trai duy nhất, thân yêu, trân quý của con đã qua đời. Vì sự qua đời của nó, con không còn thiết tha công việc, không màng ăn uống. Con đi đến nghĩa địa và than khóc: 'Đứa con trai duy nhất ở đâu, đứa con trai duy nhất ở đâu?'"
 
-“Kassa kho nāmetaṁ, bhante, evaṁ bhavissati: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti? Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā”ti. Atha kho so gahapati bhagavato bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkāmi.
+"Đúng là như vậy, này gia chủ, đúng là như vậy, này gia chủ. Này gia chủ, *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* (sầu bi khổ ưu não / sokaparidevadukkhadomanassupāyāsā) là *sinh ra từ người thân yêu* (ái sinh / piyajātikā), là *bắt nguồn từ người thân yêu* (ái khởi / piyappabhavikā)."
 
-4\. Tena kho pana samayena sambahulā akkhadhuttā bhagavato avidūre akkhehi dibbanti. Atha kho so gahapati yena te akkhadhuttā tenupasaṅkami; upasaṅkamitvā akkhadhutte etadavoca: “idhāhaṁ, bhonto, yena samaṇo gotamo tenupasaṅkamiṁ; upasaṅkamitvā samaṇaṁ gotamaṁ abhivādetvā ekamantaṁ nisīdiṁ. Ekamantaṁ nisinnaṁ kho maṁ, bhonto, samaṇo gotamo etadavoca: ‘na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan’ti. Evaṁ vutte, ahaṁ, bhonto, samaṇaṁ gotamaṁ etadavocaṁ: ‘kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati; mayhañhi, bhante, ekaputtako piyo manāpo kālaṅkato. Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti. Sohaṁ āḷāhanaṁ gantvā kandāmi—kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’ti. ‘Evametaṁ, gahapati, evametaṁ, gahapati. Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ‘Kassa kho nāmetaṁ, bhante, evaṁ bhavissati—piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā? Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā’ti. Atha khvāhaṁ, bhonto, samaṇassa gotamassa bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkamin”ti. {#4}
+"Bạch Thế Tôn, ai lại có thể nghĩ như thế này: '*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*'? Bạch Thế Tôn, niềm vui và sự *thư thái* (hỷ / somanassa) mới là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*." Rồi gia chủ ấy không vui mừng đón nhận lời Thế Tôn nói, phản đối, đứng dậy khỏi chỗ ngồi và bỏ đi.
 
-“Evametaṁ, gahapati, evametaṁ, gahapati. Piyajātikā hi, gahapati, ānandasomanassā piyappabhavikā”ti.
+4\. Lúc bấy giờ, có nhiều kẻ cờ bạc đang chơi súc sắc không xa Thế Tôn. Rồi gia chủ ấy đi đến chỗ những kẻ cờ bạc kia; sau khi đến, ông nói với những kẻ cờ bạc điều này: "Thưa các vị, ở đây tôi đã đi đến chỗ sa-môn Gotama; sau khi đến, đảnh lễ sa-môn Gotama rồi ngồi xuống một bên. Thưa các vị, khi tôi ngồi một bên, sa-môn Gotama nói với tôi điều này: 'Này gia chủ, các giác quan của ông không an trú trong tâm trạng bình thường của mình, có sự khác thường trong các giác quan của ông.' Khi được nói vậy, thưa các vị, tôi đã nói với sa-môn Gotama điều này: 'Bạch Thế Tôn, làm sao các giác quan của con lại không khác thường được; thưa Thế Tôn, đứa con trai duy nhất, thân yêu, trân quý của con đã qua đời. Vì sự qua đời của nó, con không còn thiết tha công việc, không màng ăn uống. Con đi đến nghĩa địa và than khóc—đứa con trai duy nhất ở đâu, đứa con trai duy nhất ở đâu?' 'Đúng là như vậy, này gia chủ, đúng là như vậy, này gia chủ. Này gia chủ, *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.' 'Bạch Thế Tôn, ai lại có thể nghĩ như thế này—*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*? Bạch Thế Tôn, niềm vui và sự *thư thái* mới là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.' Thế rồi thưa các vị, tôi không vui mừng đón nhận lời sa-môn Gotama nói, phản đối, đứng dậy khỏi chỗ ngồi và bỏ đi." {#4}
 
-Atha kho so gahapati “sameti me akkhadhuttehī”ti pakkāmi.
+"Đúng là như vậy, này gia chủ, đúng là như vậy, này gia chủ. Này gia chủ, niềm vui và sự *thư thái* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*."
 
-5\. Atha kho idaṁ kathāvatthu anupubbena rājantepuraṁ pāvisi. Atha kho rājā pasenadi kosalo mallikaṁ deviṁ āmantesi: “idaṁ te, mallike, samaṇena gotamena bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti. {#5}
+Rồi gia chủ ấy nghĩ: "Những kẻ cờ bạc này đồng tình với ta", và bỏ đi.
 
-“Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ, evametan”ti.
+5\. Rồi câu chuyện này dần dần truyền vào trong nội cung của nhà vua. Vua Pasenadi nước Kosala gọi hoàng hậu Mallikā: "Này Mallikā, đây là lời sa-môn Gotama của bà đã nói: '*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*'." {#5}
 
-“Evameva panāyaṁ mallikā yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodati: ‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti. Seyyathāpi nāma, yaññadeva ācariyo antevāsissa bhāsati taṁ tadevassa antevāsī abbhanumodati: ‘evametaṁ, ācariya, evametaṁ, ācariyā’ti. Evameva kho tvaṁ, mallike, yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodasi: ‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti. Cara pire, mallike, vinassā”ti.
+"Tâu đại vương, nếu Thế Tôn đã nói điều đó, thì điều đó là vậy."
 
-6\. Atha kho mallikā devī nāḷijaṅghaṁ brāhmaṇaṁ āmantesi: “ehi tvaṁ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha: ‘mallikā, bhante, devī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti; evañca vadehi: ‘bhāsitā nu kho, bhante, bhagavatā esā vācā—piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. Yathā te bhagavā byākaroti taṁ sādhukaṁ uggahetvā mama āroceyyāsi. Na hi tathāgatā vitathaṁ bhaṇantī”ti. {#6}
+"Mallikā này đúng là như vậy, bất cứ điều gì sa-môn Gotama nói, bà ấy đều tán thành: 'Tâu đại vương, nếu Thế Tôn đã nói điều đó, thì điều đó là vậy.' Giống như bất cứ điều gì vị đạo sư nói với đệ tử, người đệ tử ấy đều tán thành: 'Đúng là như vậy, thưa đạo sư, đúng là như vậy, thưa đạo sư.' Cũng vậy, này Mallikā, bất cứ điều gì sa-môn Gotama nói, bà đều tán thành: 'Tâu đại vương, nếu Thế Tôn đã nói điều đó, thì điều đó là vậy.' Đi đi, Mallikā, hãy biến đi."
 
-“Evaṁ, bhotī”ti kho nāḷijaṅgho brāhmaṇo mallikāya deviyā paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho nāḷijaṅgho brāhmaṇo bhagavantaṁ etadavoca: “mallikā, bho gotama, devī bhoto gotamassa pāde sirasā vandati; appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati; evañca vadeti: ‘bhāsitā nu kho, bhante, bhagavatā esā vācā—piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti.
+6\. Rồi hoàng hậu Mallikā gọi Bà-la-môn Nāḷijaṅgha: "Này Bà-la-môn, ông hãy đi đến chỗ Thế Tôn; sau khi đến, nhân danh tôi cúi đầu đảnh lễ dưới chân Thế Tôn, hỏi thăm Ngài có ít bệnh, ít não, khinh an, khỏe mạnh, sống an lạc không: 'Bạch Thế Tôn, hoàng hậu Mallikā cúi đầu đảnh lễ dưới chân Thế Tôn, hỏi thăm Ngài có ít bệnh, ít não, khinh an, khỏe mạnh, sống an lạc không'; và hãy nói như thế này: 'Bạch Thế Tôn, có phải Thế Tôn đã nói lời này—*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*?' Thế Tôn trả lời ông như thế nào, ông hãy ghi nhớ kỹ và báo lại cho tôi. Vì *Người Đến Như Vậy* (Như Lai / tathāgatā) không bao giờ nói sai sự thật." {#6}
 
-7\. “Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa. Piyajātikā hi, brāhmaṇa, sokaparidevadukkhadomanassupāyāsā piyappabhavikāti. {#7}
+"Thưa vâng, thưa phu nhân", Bà-la-môn Nāḷijaṅgha vâng lời hoàng hậu Mallikā rồi đi đến chỗ Thế Tôn; sau khi đến, ông nói những lời chào đón hỏi thăm với Thế Tôn. Sau khi nói những lời chào đón hỏi thăm thân hữu, ông ngồi xuống một bên. Ngồi một bên, Bà-la-môn Nāḷijaṅgha nói với Thế Tôn điều này: "Thưa tôn giả Gotama, hoàng hậu Mallikā cúi đầu đảnh lễ dưới chân tôn giả Gotama; hỏi thăm Ngài có ít bệnh, ít não, khinh an, khỏe mạnh, sống an lạc không; và nói như thế này: 'Bạch Thế Tôn, có phải Thế Tôn đã nói lời này—*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*'?"
 
-8\. Tadamināpetaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā. Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā mātā kālamakāsi. Sā tassā kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti? {#8}
+7\. "Đúng là như vậy, này Bà-la-môn, đúng là như vậy, này Bà-la-môn. Này Bà-la-môn, *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*. {#7}
 
-9-14\. Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
+8\. Này Bà-la-môn, qua ví dụ này, điều đó cần được hiểu rõ như thế nào là *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*. Này Bà-la-môn, thuở xưa, ngay tại Sāvatthī này, mẹ của một người phụ nữ nọ qua đời. Vì sự qua đời của bà mẹ, cô ấy *phát điên, tâm trí rối loạn* (cuồng loạn, tâm trí tán loạn / ummattikā khittacittā), đi từ đường này sang đường khác, từ ngã tư này sang ngã tư khác và nói như vầy: 'Có ai thấy mẹ tôi không, có ai thấy mẹ tôi không?' {#8}
 
-Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā pitā kālamakāsi … bhātā kālamakāsi … bhaginī kālamakāsi … putto kālamakāsi … dhītā kālamakāsi … sāmiko kālamakāsi. Sā tassa kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ‘api me sāmikaṁ addassatha, api me sāmikaṁ addassathā’ti?
+9-14\. Này Bà-la-môn, qua ví dụ này, điều đó cần được hiểu rõ như thế nào là *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.
 
-15-21\. Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
+Này Bà-la-môn, thuở xưa, ngay tại Sāvatthī này, cha của một người phụ nữ nọ qua đời ... anh trai qua đời ... chị gái qua đời ... con trai qua đời ... con gái qua đời ... chồng qua đời. Vì sự qua đời của người chồng, cô ấy *phát điên, tâm trí rối loạn*, đi từ đường này sang đường khác, từ ngã tư này sang ngã tư khác và nói như vầy: 'Có ai thấy chồng tôi không, có ai thấy chồng tôi không?'
 
-Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa mātā kālamakāsi. So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti? Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti. Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa pitā kālamakāsi … bhātā kālamakāsi … bhaginī kālamakāsi … putto kālamakāsi … dhītā kālamakāsi … pajāpati kālamakāsi. So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ‘api me pajāpatiṁ addassatha, api me pajāpatiṁ addassathā’ti?
+15-21\. Này Bà-la-môn, qua ví dụ này, điều đó cần được hiểu rõ như thế nào là *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.
 
-Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
+Này Bà-la-môn, thuở xưa, ngay tại Sāvatthī này, mẹ của một người đàn ông nọ qua đời. Vì sự qua đời của bà mẹ, anh ta *phát điên, tâm trí rối loạn*, đi từ đường này sang đường khác, từ ngã tư này sang ngã tư khác và nói như vầy: 'Có ai thấy mẹ tôi không, có ai thấy mẹ tôi không?' Này Bà-la-môn, qua ví dụ này, điều đó cần được hiểu rõ như thế nào là *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*. Này Bà-la-môn, thuở xưa, ngay tại Sāvatthī này, cha của một người đàn ông nọ qua đời ... anh trai qua đời ... chị gái qua đời ... con trai qua đời ... con gái qua đời ... vợ qua đời. Vì sự qua đời của người vợ, anh ta *phát điên, tâm trí rối loạn*, đi từ đường này sang đường khác, từ ngã tư này sang ngã tư khác và nói như vầy: 'Có ai thấy vợ tôi không, có ai thấy vợ tôi không?'
 
-22\. Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarā itthī ñātikulaṁ agamāsi. Tassā te ñātakā sāmikaṁ acchinditvā aññassa dātukāmā. Sā ca taṁ na icchati. Atha kho sā itthī sāmikaṁ etadavoca: ‘ime, maṁ, ayyaputta, ñātakā tvaṁ acchinditvā aññassa dātukāmā. Ahañca taṁ na icchāmī’ti. Atha kho so puriso taṁ itthiṁ dvidhā chetvā attānaṁ upphālesi: ‘ubho pecca bhavissāmā’ti. Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti. {#22}
+Này Bà-la-môn, qua ví dụ này, điều đó cần được hiểu rõ như thế nào là *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.
 
-23\. Atha kho nāḷijaṅgho brāhmaṇo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā yena mallikā devī tenupasaṅkami; upasaṅkamitvā yāvatako ahosi bhagavatā saddhiṁ kathāsallāpo taṁ sabbaṁ mallikāya deviyā ārocesi. Atha kho mallikā devī yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rājānaṁ pasenadiṁ kosalaṁ etadavoca: “Taṁ kiṁ maññasi, mahārāja, piyā te vajirī kumārī”ti? {#23}
+22\. Này Bà-la-môn, thuở xưa, ngay tại Sāvatthī này, một người phụ nữ đi về nhà ngoại. Những người thân của cô muốn tước đoạt cô khỏi người chồng để gả cho người khác. Nhưng cô không muốn điều đó. Rồi người phụ nữ ấy nói với chồng: 'Chàng ơi, những người thân của thiếp muốn tước đoạt thiếp khỏi chàng để gả cho người khác. Nhưng thiếp không muốn điều đó.' Rồi người đàn ông ấy chém người phụ nữ làm đôi và tự sát với suy nghĩ: 'Cả hai sẽ cùng tồn tại sau khi chết.' Này Bà-la-môn, qua ví dụ này, điều đó cần được hiểu rõ như thế nào là *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*." {#22}
 
-24\. “Evaṁ, mallike, piyā me vajirī kumārī”ti. {#24}
+23\. Rồi Bà-la-môn Nāḷijaṅgha vui mừng đón nhận và tán thán lời Thế Tôn nói, đứng dậy khỏi chỗ ngồi và đi đến chỗ hoàng hậu Mallikā; sau khi đến, ông kể lại toàn bộ cuộc trò chuyện đã diễn ra với Thế Tôn cho hoàng hậu Mallikā nghe. Rồi hoàng hậu Mallikā đi đến chỗ vua Pasenadi nước Kosala; sau khi đến, bà nói với vua Pasenadi nước Kosala điều này: "Đại vương nghĩ thế nào, công chúa Vajirī có thân yêu đối với ngài không?" {#23}
 
-“Taṁ kiṁ maññasi, mahārāja, vajiriyā te kumāriyā vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
+24\. "Đúng vậy, Mallikā, công chúa Vajirī rất thân yêu đối với ta." {#24}
 
-“Vajiriyā me, mallike, kumāriyā vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?
+"Đại vương nghĩ thế nào, nếu có *sự thay đổi và trở nên khác đi* (biến hoại dị diệt / vipariṇāmaññathābhāvā) xảy ra với công chúa Vajirī của ngài, ngài có khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* không?"
 
-“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
+"Này Mallikā, nếu có *sự thay đổi và trở nên khác đi* xảy ra với công chúa Vajirī của ta, thì thậm chí mạng sống của ta cũng sẽ thay đổi, làm sao ta lại không khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* được?"
 
-25\. Taṁ kiṁ maññasi, mahārāja, piyā te vāsabhā khattiyā”ti? “Evaṁ, mallike, piyā me vāsabhā khattiyā”ti. “Taṁ kiṁ maññasi, mahārāja, vāsabhāya te khattiyāya vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? “Vāsabhāya me, mallike, khattiyāya vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. {#25}
+"Tâu đại vương, đây chính là điều mà Thế Tôn, bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác đã nhắm đến khi nói: '*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.'
 
-26\. Taṁ kiṁ maññasi, mahārāja, piyo te viṭaṭūbho senāpatī”ti? “Evaṁ, mallike, piyo me viṭaṭūbho senāpatī”ti. “Taṁ kiṁ maññasi, mahārāja, viṭaṭūbhassa te senāpatissa vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? “Viṭaṭūbhassa me, mallike, senāpatissa vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? “Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. {#26}
+25\. Đại vương nghĩ thế nào, hoàng hậu Vāsabhā có thân yêu đối với ngài không?" "Đúng vậy, Mallikā, hoàng hậu Vāsabhā rất thân yêu đối với ta." "Đại vương nghĩ thế nào, nếu có *sự thay đổi và trở nên khác đi* xảy ra với hoàng hậu Vāsabhā của ngài, ngài có khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* không?" "Này Mallikā, nếu có *sự thay đổi và trở nên khác đi* xảy ra với hoàng hậu Vāsabhā của ta, thì thậm chí mạng sống của ta cũng sẽ thay đổi, làm sao ta lại không khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* được?" "Tâu đại vương, đây chính là điều mà Thế Tôn, bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác đã nhắm đến khi nói: '*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.' {#25}
 
-27\. Taṁ kiṁ maññasi, mahārāja, piyā te ahan”ti? {#27}
+26\. Đại vương nghĩ thế nào, tướng quân Viṭaṭūbha có thân yêu đối với ngài không?" "Đúng vậy, Mallikā, tướng quân Viṭaṭūbha rất thân yêu đối với ta." "Đại vương nghĩ thế nào, nếu có *sự thay đổi và trở nên khác đi* xảy ra với tướng quân Viṭaṭūbha của ngài, ngài có khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* không?" "Này Mallikā, nếu có *sự thay đổi và trở nên khác đi* xảy ra với tướng quân Viṭaṭūbha của ta, thì thậm chí mạng sống của ta cũng sẽ thay đổi, làm sao ta lại không khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* được?" "Tâu đại vương, đây chính là điều mà Thế Tôn, bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác đã nhắm đến khi nói: '*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.' {#26}
 
-“Evaṁ, mallike, piyā mesi tvan”ti.
+27\. Đại vương nghĩ thế nào, thần thiếp có thân yêu đối với ngài không?" {#27}
 
-“Taṁ kiṁ maññasi, mahārāja, mayhaṁ te vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
+"Đúng vậy, Mallikā, bà rất thân yêu đối với ta."
 
-“Tuyhañhi me, mallike, vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?
+"Đại vương nghĩ thế nào, nếu có *sự thay đổi và trở nên khác đi* xảy ra với thần thiếp, ngài có khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* không?"
 
-“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
+"Này Mallikā, nếu có *sự thay đổi và trở nên khác đi* xảy ra với bà, thì thậm chí mạng sống của ta cũng sẽ thay đổi, làm sao ta lại không khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* được?"
 
-28\. Taṁ kiṁ maññasi, mahārāja, piyā te kāsikosalā”ti? {#28}
+"Tâu đại vương, đây chính là điều mà Thế Tôn, bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác đã nhắm đến khi nói: '*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*.'
 
-“Evaṁ, mallike, piyā me kāsikosalā. Kāsikosalānaṁ, mallike, ānubhāvena kāsikacandanaṁ paccanubhoma, mālāgandhavilepanaṁ dhāremā”ti.
+28\. Đại vương nghĩ thế nào, vương quốc Kāsi-Kosala có thân yêu đối với ngài không?" {#28}
 
-“Taṁ kiṁ maññasi, mahārāja, kāsikosalānaṁ te vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
+"Đúng vậy, Mallikā, vương quốc Kāsi-Kosala rất thân yêu đối với ta. Này Mallikā, nhờ quyền lực đối với vương quốc Kāsi-Kosala mà chúng ta được thọ dụng trầm hương từ Kāsi, được mang vòng hoa, hương liệu và phấn sáp."
 
-“Kāsikosalānañhi, mallike, vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?
+"Đại vương nghĩ thế nào, nếu có *sự thay đổi và trở nên khác đi* xảy ra với vương quốc Kāsi-Kosala của ngài, ngài có khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* không?"
 
-“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti.
+"Này Mallikā, nếu có *sự thay đổi và trở nên khác đi* xảy ra với vương quốc Kāsi-Kosala của ta, thì thậm chí mạng sống của ta cũng sẽ thay đổi, làm sao ta lại không khởi lên *sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* được?"
 
-29\. “Acchariyaṁ, mallike, abbhutaṁ, mallike. Yāvañca so bhagavā paññāya ativijjha maññe passati. Ehi, mallike, ācamehī”ti. {#29}
+"Tâu đại vương, đây chính là điều mà Thế Tôn, bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác đã nhắm đến khi nói: '*sầu, than khóc, đau khổ, ưu phiền, tuyệt vọng* là *sinh ra từ người thân yêu*, là *bắt nguồn từ người thân yêu*'."
 
-Atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā tikkhattuṁ udānaṁ udānesi:
+29\. "Thật kỳ diệu, Mallikā, thật phi thường, Mallikā. Thế Tôn đã dùng trí tuệ thấu suốt đến dường nào. Lại đây, Mallikā, hãy mang nước rửa tay cho ta." {#29}
 
-“Namo tassa bhagavato arahato sammāsambuddhassa.
+Rồi vua Pasenadi nước Kosala đứng dậy khỏi chỗ ngồi, đắp y một bên vai, chắp tay hướng về phía Thế Tôn và thốt lên ba lần lời cảm hứng:
+
+"Namo tassa bhagavato arahato sammāsambuddhassa. (Kính lễ Đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác).
 
 Namo tassa bhagavato arahato sammāsambuddhassa.
 
-Namo tassa bhagavato arahato sammāsambuddhassā”ti.
+Namo tassa bhagavato arahato sammāsambuddhassa."
 
-Piyajātikasuttaṁ niṭṭhitaṁ sattamaṁ.
+Kinh Sinh Ra Từ Người Thân Yêu kết thúc, là bài kinh thứ bảy.

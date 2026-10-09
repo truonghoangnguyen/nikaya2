@@ -1,127 +1,148 @@
-# MN 88. Bāhitikasutta
+---
+description: Vua Pasenadi (Ba-tư-nặc) nước Kosala gặp Tôn giả Ānanda tại bờ sông Aciravatī. Sau cuộc đàm đạo, vua cúng dường Tôn giả một tấm vải quý tên là Bāhitikā. Tôn giả Ānanda sau đó trình lại sự việc với Đức Phật và Đức Phật tán thán lợi ích mà vua Pasenadi nhận được khi gặp gỡ Ānanda.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
+# MN 88. KINH BĀHITIKĀ
+*(Bāhitikasutta)*
 
-2\. Atha kho āyasmā ānando pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiyaṁ piṇḍāya pāvisi. Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena pubbārāmo migāramātupāsādo tenupasaṅkami divāvihārāya. {#2}
+1\. Tôi đã nghe như vầy: Một thời, Thế Tôn trú ở Sāvatthi (Xá-vệ), tại Jetavana (Kỳ-viên), khu vườn của Anāthapiṇḍika (Cấp Cô Độc). {#1}
 
-3\. Tena kho pana samayena rājā pasenadi kosalo ekapuṇḍarīkaṁ nāgaṁ abhiruhitvā sāvatthiyā niyyāti divā divassa. Addasā kho rājā pasenadi kosalo āyasmantaṁ ānandaṁ dūratova āgacchantaṁ. Disvāna sirivaḍḍhaṁ mahāmattaṁ āmantesi: “āyasmā no eso, samma sirivaḍḍha, ānando”ti. {#3}
+2\. Rồi Tôn giả Ānanda, vào buổi sáng, mặc y, mang bát và y đi vào Sāvatthi để khất thực. Sau khi đi khất thực ở Sāvatthi, ăn xong và trở về từ chuyến khất thực, vị ấy đi đến Pubbārāma (Đông Viên), lâu đài của Migāramātā (Lộc Mẫu) để nghỉ ngơi ban ngày. {#2}
 
-“Evaṁ, mahārāja, āyasmā eso ānando”ti.
+3\. Lúc bấy giờ, vua Pasenadi nước Kosala cưỡi con voi Ekapuṇḍarīka đi ra khỏi Sāvatthi vào giữa ban ngày. Vua Pasenadi nước Kosala nhìn thấy Tôn giả Ānanda đang đi tới từ đằng xa. Thấy vậy, vua bảo đại thần Sirivaḍḍha: "Này bạn Sirivaḍḍha, đó có phải là Tôn giả Ānanda không?" {#3}
 
-4\. Atha kho rājā pasenadi kosalo aññataraṁ purisaṁ āmantesi: “ehi tvaṁ, ambho purisa, yenāyasmā ānando tenupasaṅkama; upasaṅkamitvā mama vacanena āyasmato ānandassa pāde sirasā vandāhi: ‘rājā, bhante, pasenadi kosalo āyasmato ānandassa pāde sirasā vandatī’ti; evañca vadehi: ‘sace kira, bhante, āyasmato ānandassa na kiñci accāyikaṁ karaṇīyaṁ, āgametu kira, bhante, āyasmā ānando muhuttaṁ anukampaṁ upādāyā’”ti. {#4}
+"Thưa vâng, tâu đại vương, đó là Tôn giả Ānanda."
 
-5\. “Evaṁ, devā”ti kho so puriso rañño pasenadissa kosalassa paṭissutvā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so puriso āyasmantaṁ ānandaṁ etadavoca: “rājā, bhante, pasenadi kosalo āyasmato ānandassa pāde sirasā vandati; evañca vadeti: ‘sace kira, bhante, āyasmato ānandassa na kiñci accāyikaṁ karaṇīyaṁ, āgametu kira, bhante, āyasmā ānando muhuttaṁ anukampaṁ upādāyā’”ti. {#5}
+4\. Rồi vua Pasenadi nước Kosala bảo một người hầu: "Này người kia, hãy đến, đi đến chỗ Tôn giả Ānanda; sau khi đến, nhân danh ta, hãy cúi đầu đảnh lễ dưới chân Tôn giả Ānanda [và nói]: 'Bạch Tôn giả, vua Pasenadi nước Kosala cúi đầu đảnh lễ dưới chân Tôn giả Ānanda'; và hãy nói như sau: 'Bạch Tôn giả, nếu Tôn giả Ānanda không có việc gì khẩn cấp cần làm, mong Tôn giả Ānanda vì lòng trắc ẩn mà nán lại một lát'." {#4}
 
-6\. Adhivāsesi kho āyasmā ānando tuṇhībhāvena. {#6}
+5\. "Thưa vâng, tâu bệ hạ", người hầu ấy vâng lời vua Pasenadi nước Kosala, đi đến chỗ Tôn giả Ānanda; sau khi đến, đảnh lễ Tôn giả Ānanda rồi đứng sang một bên. Đứng sang một bên, người hầu ấy thưa với Tôn giả Ānanda: "Bạch Tôn giả, vua Pasenadi nước Kosala cúi đầu đảnh lễ dưới chân Tôn giả Ānanda; và nói như sau: 'Bạch Tôn giả, nếu Tôn giả Ānanda không có việc gì khẩn cấp cần làm, mong Tôn giả Ānanda vì lòng trắc ẩn mà nán lại một lát'." {#5}
 
-Atha kho rājā pasenadi kosalo yāvatikā nāgassa bhūmi nāgena gantvā nāgā paccorohitvā pattikova yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho rājā pasenadi kosalo āyasmantaṁ ānandaṁ etadavoca: “sace, bhante, āyasmato ānandassa na kiñci accāyikaṁ karaṇīyaṁ, sādhu, bhante, āyasmā ānando yena aciravatiyā nadiyā tīraṁ tenupasaṅkamatu anukampaṁ upādāyā”ti.
+6\. Tôn giả Ānanda im lặng nhận lời. {#6}
 
-7\. Adhivāsesi kho āyasmā ānando tuṇhībhāvena. {#7}
+Rồi vua Pasenadi nước Kosala đi bằng voi cho đến chỗ voi còn đi được, rồi xuống voi, đi bộ đến chỗ Tôn giả Ānanda; sau khi đến, đảnh lễ Tôn giả Ānanda rồi đứng sang một bên. Đứng sang một bên, vua Pasenadi nước Kosala thưa với Tôn giả Ānanda: "Bạch Tôn giả, nếu Tôn giả Ānanda không có việc gì khẩn cấp cần làm, thật tốt lành thay, bạch Tôn giả, mong Tôn giả Ānanda vì lòng trắc ẩn mà đi đến bờ sông Aciravatī."
 
-Atha kho āyasmā ānando yena aciravatiyā nadiyā tīraṁ tenupasaṅkami; upasaṅkamitvā aññatarasmiṁ rukkhamūle paññatte āsane nisīdi. Atha kho rājā pasenadi kosalo yāvatikā nāgassa bhūmi nāgena gantvā nāgā paccorohitvā pattikova yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmantaṁ ānandaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho rājā pasenadi kosalo āyasmantaṁ ānandaṁ etadavoca: “idha, bhante, āyasmā ānando hatthatthare nisīdatū”ti.
+7\. Tôn giả Ānanda im lặng nhận lời. {#7}
 
-“Alaṁ, mahārāja. Nisīda tvaṁ; nisinno ahaṁ sake āsane”ti.
+Rồi Tôn giả Ānanda đi đến bờ sông Aciravatī; sau khi đến, ngồi trên chỗ ngồi đã được dọn sẵn dưới gốc một cây nọ. Rồi vua Pasenadi nước Kosala đi bằng voi cho đến chỗ voi còn đi được, rồi xuống voi, đi bộ đến chỗ Tôn giả Ānanda; sau khi đến, đảnh lễ Tôn giả Ānanda rồi đứng sang một bên. Đứng sang một bên, vua Pasenadi nước Kosala thưa với Tôn giả Ānanda: "Bạch Tôn giả, mong Tôn giả Ānanda ngồi trên tấm thảm trải lưng voi này."
 
-8\. Nisīdi kho rājā pasenadi kosalo paññatte āsane. Nisajja kho rājā pasenadi kosalo āyasmantaṁ ānandaṁ etadavoca: “kiṁ nu kho, bhante ānanda, so bhagavā tathārūpaṁ kāyasamācāraṁ samācareyya, yvāssa kāyasamācāro opārambho samaṇehi brāhmaṇehī”ti? {#8}
+"Thôi đủ rồi, thưa đại vương. Đại vương hãy ngồi; tôi đã ngồi trên chỗ ngồi của mình rồi."
 
-“Na kho, mahārāja, so bhagavā tathārūpaṁ kāyasamācāraṁ samācareyya, yvāssa kāyasamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti. “Kiṁ pana, bhante ānanda, so bhagavā tathārūpaṁ vacīsamācāraṁ …pe… manosamācāraṁ samācareyya, yvāssa manosamācāro opārambho samaṇehi brāhmaṇehī”ti? “Na kho, mahārāja, so bhagavā tathārūpaṁ manosamācāraṁ samācareyya, yvāssa manosamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti.
+8\. Vua Pasenadi nước Kosala ngồi trên chỗ ngồi đã được dọn sẵn. Sau khi ngồi, vua Pasenadi nước Kosala thưa với Tôn giả Ānanda: "Bạch Tôn giả Ānanda, liệu Thế Tôn có thực hiện *hành động thân* (thân hành / kāyasamācāra) như thế nào, mà *hành động thân* ấy *đáng bị chê trách* (hữu sở chỉ trích / opārambho) bởi các sa-môn, bà-la-môn không?" {#8}
 
-9\. “Acchariyaṁ, bhante, abbhutaṁ, bhante. Yañhi mayaṁ, bhante, nāsakkhimhā pañhena paripūretuṁ taṁ, bhante, āyasmatā ānandena pañhassa veyyākaraṇena paripūritaṁ. Ye te, bhante, bālā abyattā ananuvicca apariyogāhetvā paresaṁ vaṇṇaṁ vā avaṇṇaṁ vā bhāsanti, na mayaṁ taṁ sārato paccāgacchāma; ye pana te, bhante, paṇḍitā viyattā medhāvino anuvicca pariyogāhetvā paresaṁ vaṇṇaṁ vā avaṇṇaṁ vā bhāsanti, mayaṁ taṁ sārato paccāgacchāma. {#9}
+"Thưa đại vương, Thế Tôn không thực hiện *hành động thân* như thế nào, mà *hành động thân* ấy *đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí." 
 
-10\. Katamo pana, bhante ānanda, kāyasamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti? {#10}
+"Nhưng bạch Tôn giả Ānanda, liệu Thế Tôn có thực hiện *hành động lời nói* (khẩu hành / vacīsamācāra) [...lặp lại...] *sự suy nghĩ* (ý hành / manosamācāra) như thế nào, mà *sự suy nghĩ* ấy *đáng bị chê trách* bởi các sa-môn, bà-la-môn không?" 
 
-“Yo kho, mahārāja, kāyasamācāro akusalo”.
+"Thưa đại vương, Thế Tôn không thực hiện *sự suy nghĩ* như thế nào, mà *sự suy nghĩ* ấy *đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí."
 
-“Katamo pana, bhante, kāyasamācāro akusalo”?
+9\. "Thật kỳ diệu, bạch Tôn giả! Thật phi thường, bạch Tôn giả! Bạch Tôn giả, điều mà chúng tôi không thể làm cho trọn vẹn bằng câu hỏi, thì bạch Tôn giả, điều đó đã được Tôn giả Ānanda làm cho trọn vẹn bằng câu trả lời. Bạch Tôn giả, những kẻ ngu si, không sáng suốt, không suy xét, không thấu đáo mà nói lời khen ngợi hay chê bai người khác, chúng tôi không xem điều đó là cốt lõi; nhưng bạch Tôn giả, những người hiền trí, sáng suốt, thông tuệ, sau khi suy xét, thấu đáo mà nói lời khen ngợi hay chê bai người khác, chúng tôi xem điều đó là cốt lõi. {#9}
 
-“Yo kho, mahārāja, kāyasamācāro sāvajjo”.
+10\. Nhưng bạch Tôn giả Ānanda, *hành động thân* nào *đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí?" {#10}
 
-“Katamo pana, bhante, kāyasamācāro sāvajjo”?
+"Thưa đại vương, *hành động thân* nào là *không thiện* (bất thiện / akusalo)."
 
-“Yo kho, mahārāja, kāyasamācāro sabyābajjho”.
+"Nhưng bạch Tôn giả, *hành động thân* nào là *không thiện*?"
 
-“Katamo pana, bhante, kāyasamācāro sabyābajjho”?
+"Thưa đại vương, *hành động thân* nào *có lỗi* (hữu tội / sāvajjo)."
 
-“Yo kho, mahārāja, kāyasamācāro dukkhavipāko”.
+"Nhưng bạch Tôn giả, *hành động thân* nào *có lỗi*?"
 
-“Katamo pana, bhante, kāyasamācāro dukkhavipāko”?
+"Thưa đại vương, *hành động thân* nào *mang lại sự tổn hại* (có hại / sabyābajjho)."
 
-“Yo kho, mahārāja, kāyasamācāro attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati. Tassa akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti; evarūpo kho, mahārāja, kāyasamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti.
+"Nhưng bạch Tôn giả, *hành động thân* nào *mang lại sự tổn hại*?"
 
-11\. “Katamo pana, bhante ānanda, vacīsamācāro …pe… manosamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti? {#11}
+"Thưa đại vương, *hành động thân* nào *mang lại kết quả đau khổ* (khổ dị thục / dukkhavipāko)."
 
-“Yo kho, mahārāja, manosamācāro akusalo”.
+"Nhưng bạch Tôn giả, *hành động thân* nào *mang lại kết quả đau khổ*?"
 
-“Katamo pana, bhante, manosamācāro akusalo”? “Yo kho, mahārāja, manosamācāro sāvajjo”.
+"Thưa đại vương, *hành động thân* nào dẫn đến làm hại chính mình, dẫn đến làm hại người khác, dẫn đến làm hại cả hai. Đối với người ấy, *những điều không thiện* (bất thiện pháp / akusalā dhammā) tăng trưởng, *những điều thiện* (thiện pháp / kusalā dhammā) suy giảm; thưa đại vương, *hành động thân* như vậy *đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí."
 
-“Katamo pana, bhante, manosamācāro sāvajjo”? “Yo kho, mahārāja, manosamācāro sabyābajjho”.
+11\. "Nhưng bạch Tôn giả Ānanda, *hành động lời nói* [...lặp lại...] *sự suy nghĩ* nào *đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí?" {#11}
 
-12\. “Katamo pana, bhante, manosamācāro sabyābajjho”? “Yo kho, mahārāja, manosamācāro dukkhavipāko”. {#12}
+"Thưa đại vương, *sự suy nghĩ* nào là *không thiện*."
 
-“Katamo pana, bhante, manosamācāro dukkhavipāko”?
+"Nhưng bạch Tôn giả, *sự suy nghĩ* nào là *không thiện*?" 
 
-“Yo kho, mahārāja, manosamācāro attabyābādhāyapi saṁvattati, parabyābādhāyapi saṁvattati, ubhayabyābādhāyapi saṁvattati. Tassa akusalā dhammā abhivaḍḍhanti, kusalā dhammā parihāyanti; evarūpo kho, mahārāja, manosamācāro opārambho samaṇehi brāhmaṇehi viññūhī”ti.
+"Thưa đại vương, *sự suy nghĩ* nào *có lỗi*."
 
-13\. “Kiṁ nu kho, bhante ānanda, so bhagavā sabbesaṁyeva akusalānaṁ dhammānaṁ pahānaṁ vaṇṇetī”ti? {#13}
+"Nhưng bạch Tôn giả, *sự suy nghĩ* nào *có lỗi*?" 
 
-“Sabbākusaladhammapahīno kho, mahārāja, tathāgato kusaladhammasamannāgato”ti.
+"Thưa đại vương, *sự suy nghĩ* nào *mang lại sự tổn hại*."
 
-14\. “Katamo pana, bhante ānanda, kāyasamācāro anopārambho samaṇehi brāhmaṇehi viññūhī”ti? {#14}
+12\. "Nhưng bạch Tôn giả, *sự suy nghĩ* nào *mang lại sự tổn hại*?" 
 
-“Yo kho, mahārāja, kāyasamācāro kusalo”.
+"Thưa đại vương, *sự suy nghĩ* nào *mang lại kết quả đau khổ*." {#12}
 
-“Katamo pana, bhante, kāyasamācāro kusalo”?
+"Nhưng bạch Tôn giả, *sự suy nghĩ* nào *mang lại kết quả đau khổ*?"
 
-“Yo kho, mahārāja, kāyasamācāro anavajjo”.
+"Thưa đại vương, *sự suy nghĩ* nào dẫn đến làm hại chính mình, dẫn đến làm hại người khác, dẫn đến làm hại cả hai. Đối với người ấy, *những điều không thiện* tăng trưởng, *những điều thiện* suy giảm; thưa đại vương, *sự suy nghĩ* như vậy *đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí."
 
-“Katamo pana, bhante, kāyasamācāro anavajjo”?
+13\. "Bạch Tôn giả Ānanda, liệu Thế Tôn có tán thán việc *từ bỏ* (đoạn trừ / pahāna) tất cả *những điều không thiện* không?" {#13}
 
-“Yo kho, mahārāja, kāyasamācāro abyābajjho”.
+"Thưa đại vương, *Người Đến Như Vậy* (Như Lai / tathāgato) đã *từ bỏ* tất cả *những điều không thiện* và thành tựu *những điều thiện*."
 
-“Katamo pana, bhante, kāyasamācāro abyābajjho”?
+14\. "Nhưng bạch Tôn giả Ānanda, *hành động thân* nào *không đáng bị chê trách* (vô sở chỉ trích / anopārambho) bởi các sa-môn, bà-la-môn có trí?" {#14}
 
-“Yo kho, mahārāja, kāyasamācāro sukhavipāko”.
+"Thưa đại vương, *hành động thân* nào là *thiện* (kusalo)."
 
-“Katamo pana, bhante, kāyasamācāro sukhavipāko”?
+"Nhưng bạch Tôn giả, *hành động thân* nào là *thiện*?"
 
-“Yo kho, mahārāja, kāyasamācāro nevattabyābādhāyapi saṁvattati, na parabyābādhāyapi saṁvattati, na ubhayabyābādhāyapi saṁvattati. Tassa akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. Evarūpo kho, mahārāja, kāyasamācāro anopārambho samaṇehi brāhmaṇehi viññūhī”ti.
+"Thưa đại vương, *hành động thân* nào *không có lỗi* (vô tội / anavajjo)."
 
-15\. “Katamo pana, bhante ānanda, vacīsamācāro …pe… manosamācāro anopārambho samaṇehi brāhmaṇehi viññūhī”ti? {#15}
+"Nhưng bạch Tôn giả, *hành động thân* nào *không có lỗi*?"
 
-“Yo kho, mahārāja, manosamācāro kusalo”.
+"Thưa đại vương, *hành động thân* nào *không mang lại sự tổn hại* (vô hại / abyābajjho)."
 
-“Katamo pana, bhante, manosamācāro kusalo”? “Yo kho, mahārāja, manosamācāro anavajjo”.
+"Nhưng bạch Tôn giả, *hành động thân* nào *không mang lại sự tổn hại*?"
 
-16\. “Katamo pana, bhante, manosamācāro anavajjo”? “Yo kho, mahārāja, manosamācāro abyābajjho”. {#16}
+"Thưa đại vương, *hành động thân* nào *mang lại kết quả hạnh phúc* (lạc dị thục / sukhavipāko)."
 
-“Katamo pana, bhante, manosamācāro abyābajjho”? “Yo kho, mahārāja, manosamācāro sukhavipāko”.
+"Nhưng bạch Tôn giả, *hành động thân* nào *mang lại kết quả hạnh phúc*?"
 
-“Katamo pana, bhante, manosamācāro sukhavipāko”?
+"Thưa đại vương, *hành động thân* nào không dẫn đến làm hại chính mình, không dẫn đến làm hại người khác, không dẫn đến làm hại cả hai. Đối với người ấy, *những điều không thiện* suy giảm, *những điều thiện* tăng trưởng. Thưa đại vương, *hành động thân* như vậy *không đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí."
 
-“Yo kho, mahārāja, manosamācāro nevattabyābādhāyapi saṁvattati, na parabyābādhāyapi saṁvattati, na ubhayabyābādhāyapi saṁvattati. Tassa akusalā dhammā parihāyanti, kusalā dhammā abhivaḍḍhanti. Evarūpo kho, mahārāja, manosamācāro anopārambho samaṇehi brāhmaṇehi viññūhī”ti.
+15\. "Nhưng bạch Tôn giả Ānanda, *hành động lời nói* [...lặp lại...] *sự suy nghĩ* nào *không đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí?" {#15}
 
-17\. “Kiṁ pana, bhante ānanda, so bhagavā sabbesaṁyeva kusalānaṁ dhammānaṁ upasampadaṁ vaṇṇetī”ti? {#17}
+"Thưa đại vương, *sự suy nghĩ* nào là *thiện*."
 
-“Sabbākusaladhammapahīno kho, mahārāja, tathāgato kusaladhammasamannāgato”ti.
+"Nhưng bạch Tôn giả, *sự suy nghĩ* nào là *thiện*?" 
 
-18\. “Acchariyaṁ, bhante, abbhutaṁ, bhante. Yāva subhāsitañcidaṁ, bhante, āyasmatā ānandena. Iminā ca mayaṁ, bhante, āyasmato ānandassa subhāsitena attamanābhiraddhā. Evaṁ attamanābhiraddhā ca mayaṁ, bhante, āyasmato ānandassa subhāsitena. Sace, bhante, āyasmato ānandassa hatthiratanaṁ kappeyya, hatthiratanampi mayaṁ āyasmato ānandassa dadeyyāma. Sace, bhante, āyasmato ānandassa assaratanaṁ kappeyya, assaratanampi mayaṁ āyasmato ānandassa dadeyyāma. Sace, bhante, āyasmato ānandassa gāmavaraṁ kappeyya, gāmavarampi mayaṁ āyasmato ānandassa dadeyyāma. Api ca, bhante, mayampetaṁ jānāma: ‘netaṁ āyasmato ānandassa kappatī’ti. Ayaṁ me, bhante, bāhitikā raññā māgadhena ajātasattunā vedehiputtena vatthanāḷiyā pakkhipitvā pahitā soḷasasamā āyāmena, aṭṭhasamā vitthārena. Taṁ, bhante, āyasmā ānando paṭiggaṇhātu anukampaṁ upādāyā”ti. {#18}
+"Thưa đại vương, *sự suy nghĩ* nào *không có lỗi*."
 
-“Alaṁ, mahārāja, paripuṇṇaṁ me ticīvaran”ti.
+16\. "Nhưng bạch Tôn giả, *sự suy nghĩ* nào *không có lỗi*?" 
 
-19\. “Ayaṁ, bhante, aciravatī nadī diṭṭhā āyasmatā ceva ānandena amhehi ca. Yadā uparipabbate mahāmegho abhippavuṭṭho hoti, athāyaṁ aciravatī nadī ubhato kūlāni saṁvissandantī gacchati; evameva kho, bhante, āyasmā ānando imāya bāhitikāya attano ticīvaraṁ karissati. Yaṁ panāyasmato ānandassa purāṇaṁ ticīvaraṁ taṁ sabrahmacārīhi saṁvibhajissati. Evāyaṁ amhākaṁ dakkhiṇā saṁvissandantī maññe gamissati. Paṭiggaṇhātu, bhante, āyasmā ānando bāhitikan”ti. {#19}
+"Thưa đại vương, *sự suy nghĩ* nào *không mang lại sự tổn hại*." {#16}
 
-20\. Paṭiggahesi kho āyasmā ānando bāhitikaṁ. {#20}
+"Nhưng bạch Tôn giả, *sự suy nghĩ* nào *không mang lại sự tổn hại*?" 
 
-Atha kho rājā pasenadi kosalo āyasmantaṁ ānandaṁ etadavoca: “handa ca dāni mayaṁ, bhante ānanda, gacchāma; bahukiccā mayaṁ bahukaraṇīyā”ti.
+"Thưa đại vương, *sự suy nghĩ* nào *mang lại kết quả hạnh phúc*."
 
-“Yassadāni tvaṁ, mahārāja, kālaṁ maññasī”ti. Atha kho rājā pasenadi kosalo āyasmato ānandassa bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā āyasmantaṁ ānandaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+"Nhưng bạch Tôn giả, *sự suy nghĩ* nào *mang lại kết quả hạnh phúc*?"
 
-21\. Atha kho āyasmā ānando acirapakkantassa rañño pasenadissa kosalassa yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando yāvatako ahosi raññā pasenadinā kosalena saddhiṁ kathāsallāpo taṁ sabbaṁ bhagavato ārocesi. Tañca bāhitikaṁ bhagavato pādāsi. {#21}
+"Thưa đại vương, *sự suy nghĩ* nào không dẫn đến làm hại chính mình, không dẫn đến làm hại người khác, không dẫn đến làm hại cả hai. Đối với người ấy, *những điều không thiện* suy giảm, *những điều thiện* tăng trưởng. Thưa đại vương, *sự suy nghĩ* như vậy *không đáng bị chê trách* bởi các sa-môn, bà-la-môn có trí."
 
-22\. Atha kho bhagavā bhikkhū āmantesi: {#22}
+17\. "Nhưng bạch Tôn giả Ānanda, liệu Thế Tôn có tán thán việc thành tựu tất cả *những điều thiện* không?" {#17}
 
-“lābhā, bhikkhave, rañño pasenadissa kosalassa, suladdhalābhā, bhikkhave, rañño pasenadissa kosalassa; yaṁ rājā pasenadi kosalo labhati ānandaṁ dassanāya, labhati payirupāsanāyā”ti.
+"Thưa đại vương, *Người Đến Như Vậy* đã *từ bỏ* tất cả *những điều không thiện* và thành tựu *những điều thiện*."
 
-Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+18\. "Thật kỳ diệu, bạch Tôn giả! Thật phi thường, bạch Tôn giả! Bạch Tôn giả, những lời Tôn giả Ānanda nói thật khéo léo. Và bạch Tôn giả, chúng tôi vô cùng hoan hỷ và hài lòng với những lời khéo léo của Tôn giả Ānanda. Bạch Tôn giả, chúng tôi vô cùng hoan hỷ và hài lòng với những lời khéo léo của Tôn giả Ānanda như thế này: Nếu bạch Tôn giả, voi báu là phù hợp với Tôn giả Ānanda, chúng tôi cũng sẽ dâng voi báu cho Tôn giả Ānanda. Nếu bạch Tôn giả, ngựa báu là phù hợp với Tôn giả Ānanda, chúng tôi cũng sẽ dâng ngựa báu cho Tôn giả Ānanda. Nếu bạch Tôn giả, một ngôi làng trù phú là phù hợp với Tôn giả Ānanda, chúng tôi cũng sẽ dâng ngôi làng trù phú cho Tôn giả Ānanda. Tuy nhiên, bạch Tôn giả, chúng tôi cũng biết điều này: 'Điều đó không phù hợp với Tôn giả Ānanda'. Bạch Tôn giả, đây là *tấm vải Bāhitikā* (bạt-hi-đề-ca / bāhitikā) của tôi, được vua Ajātasattu (A-xà-thế) nước Magadha, con trai của bà Vedehī, đặt trong một ống vải và gửi đến, chiều dài mười sáu sải, chiều rộng tám sải. Bạch Tôn giả, mong Tôn giả Ānanda vì lòng trắc ẩn mà nhận lấy nó." {#18}
 
-Bāhitikasuttaṁ niṭṭhitaṁ aṭṭhamaṁ.
+"Thôi đủ rồi, thưa đại vương, *ba y* (tam y / ticīvara) của tôi đã đầy đủ."
+
+19\. "Bạch Tôn giả, dòng sông Aciravatī này đã được cả Tôn giả Ānanda và chúng tôi nhìn thấy. Khi có một đám mây lớn đổ mưa trên núi, thì dòng sông Aciravatī này chảy tràn qua cả hai bờ; cũng vậy, bạch Tôn giả, Tôn giả Ānanda sẽ dùng *tấm vải Bāhitikā* này để làm *ba y* cho mình. Còn *ba y* cũ của Tôn giả Ānanda, ngài sẽ chia sẻ cho các vị đồng tu. Như vậy, món quà của chúng tôi sẽ chảy tràn ra, tôi nghĩ vậy. Bạch Tôn giả, mong Tôn giả Ānanda nhận lấy *tấm vải Bāhitikā*." {#19}
+
+20\. Tôn giả Ānanda đã nhận lấy *tấm vải Bāhitikā*. {#20}
+
+Rồi vua Pasenadi nước Kosala thưa với Tôn giả Ānanda: "Bạch Tôn giả Ānanda, bây giờ chúng tôi xin phép đi; chúng tôi có nhiều việc, nhiều bổn phận phải làm."
+
+"Thưa đại vương, đại vương hãy làm những gì ngài cho là đúng lúc." Rồi vua Pasenadi nước Kosala hoan hỷ, đồng tình với lời nói của Tôn giả Ānanda, từ chỗ ngồi đứng dậy, đảnh lễ Tôn giả Ānanda, đi nhiễu quanh bên phải rồi rời đi.
+
+21\. Rồi Tôn giả Ānanda, không lâu sau khi vua Pasenadi nước Kosala rời đi, đã đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Ānanda đã kể lại toàn bộ cuộc đàm đạo với vua Pasenadi nước Kosala cho Thế Tôn nghe. Và ngài dâng *tấm vải Bāhitikā* ấy lên Thế Tôn. {#21}
+
+22\. Rồi Thế Tôn bảo các tỳ kheo: {#22}
+
+"Này các tỳ kheo, thật là một lợi ích cho vua Pasenadi nước Kosala, thật là một lợi ích khéo đạt được, này các tỳ kheo, cho vua Pasenadi nước Kosala; khi vua Pasenadi nước Kosala được nhìn thấy Ānanda, được hầu cận [Ānanda]."
+
+Thế Tôn đã nói như vậy. Các tỳ kheo ấy hoan hỷ, vui mừng đón nhận lời Thế Tôn dạy.
+
+Kinh Bāhitikā kết thúc, là bài kinh thứ tám.

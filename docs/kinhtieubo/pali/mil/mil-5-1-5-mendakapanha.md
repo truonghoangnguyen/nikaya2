@@ -1,0 +1,31 @@
+# MIL 5.1.5. Meṇḍakapañha
+
+0\. Iddhibalavagga
+
+## 5. Sivirājacakkhudānapañha
+
+1\. “Bhante nāgasena, tumhe evaṁ bhaṇatha—‘sivirājena yācakassa cakkhūni dinnāni, andhassa sato puna dibbacakkhūni uppannānī’ti, etampi vacanaṁ sakasaṭaṁ saniggahaṁ sadosaṁ ‘hetusamugghāte ahetusmiṁ avatthusmiṁ natthi dibbacakkhussa uppādo’ti sutte vuttaṁ, yadi, bhante nāgasena, sivirājena yācakassa cakkhūni dinnāni, tena hi ‘puna dibbacakkhūni uppannānī’ti yaṁ vacanaṁ, taṁ micchā; yadi dibbacakkhūni uppannāni, tena hi ‘sivirājena yācakassa cakkhūni dinnānī’ti yaṁ vacanaṁ, tampi micchā. Ayampi ubhato koṭiko pañho gaṇṭhitopi gaṇṭhitaro veṭhatopi veṭhataro gahanatopi gahanataro, so tavānuppatto, tattha chandamabhijanehi nibbāhanāya paravādānaṁ niggahāyā”ti.
+
+2\. “Dinnāni, mahārāja, sivirājena yācakassa cakkhūni, tattha mā vimatiṁ uppādehi, puna dibbāni ca cakkhūni uppannāni, tatthāpi mā vimatiṁ janehī”ti. “Api nu kho, bhante nāgasena, hetusamugghāte ahetusmiṁ avatthusmiṁ dibbacakkhu uppajjatī”ti? “Na hi, mahārājā”ti. “Kiṁ pana, bhante, ettha kāraṇaṁ, yena kāraṇena hetusamugghāte ahetusmiṁ avatthusmiṁ dibbacakkhu uppajjati, iṅgha tāva kāraṇena maṁ saññāpehī”ti?
+
+3\. “Kiṁ pana, mahārāja, atthi loke saccaṁ nāma, yena saccavādino saccakiriyaṁ karontī”ti? “Āma, bhante, atthi loke saccaṁ nāma, saccena, bhante nāgasena, saccavādino saccakiriyaṁ katvā devaṁ vassāpenti, aggiṁ nibbāpenti, visaṁ paṭihananti, aññampi vividhaṁ kattabbaṁ karontī”ti. “Tena hi, mahārāja, yujjati sameti sivirājassa saccabalena dibbacakkhūni uppannānīti, saccabalena, mahārāja, avatthusmiṁ dibbacakkhu uppajjati, saccaṁyeva tattha vatthu bhavati dibbacakkhussa uppādāya.
+
+4\. Yathā, mahārāja, ye keci sattā saccamanugāyanti ‘mahāmegho pavassatū’ti, tesaṁ saha saccamanugītena mahāmegho pavassati, api nu kho, mahārāja, atthi ākāse vassahetu sannicito ‘yena hetunā mahāmegho pavassatī’”ti? “Na hi, bhante, saccaṁyeva tattha hetu bhavati mahato meghassa pavassanāyā”ti. “Evameva kho, mahārāja, natthi tassa pakatihetu, saccaṁ yevettha vatthu bhavati dibbacakkhussa uppādāyāti.
+
+5\. Yathā vā pana, mahārāja, ye keci sattā saccamanugāyanti ‘jalitapajjalitamahāaggikkhandho paṭinivattatū’ti, tesaṁ saha saccamanugītena jalitapajjalitamahāaggikkhandho khaṇena paṭinivattati. Api nu kho, mahārāja, atthi tasmiṁ jalitapajjalite mahāaggikkhandhe hetu sannicito ‘yena hetunā jalitapajjalitamahāaggikkhandho khaṇena paṭinivattatī’”ti? “Na hi, bhante, saccaṁyeva tattha vatthu hoti tassa jalitapajjalitassa mahāaggikkhandhassa khaṇena paṭinivattanāyā”ti. “Evameva kho, mahārāja, natthi tassa pakatihetu, saccaṁ yevettha vatthu bhavati dibbacakkhussa uppādāyāti.
+
+6\. Yathā vā pana, mahārāja, ye keci sattā saccamanugāyanti ‘visaṁ halāhalaṁ agadaṁ bhavatū’ti. Tesaṁ saha saccamanugītena visaṁ halāhalaṁ khaṇena agadaṁ bhavati, api nu kho, mahārāja, atthi tasmiṁ halāhalavise hetu sannicito ‘yena hetunā visaṁ halāhalaṁ khaṇena agadaṁ bhavatī’”ti? “Na hi, bhante, saccaṁyeva tattha hetu bhavati visassa halāhalassa khaṇena paṭighātāyā”ti. “Evameva kho, mahārāja, vinā pakatihetuṁ saccaṁ yevettha vatthu bhavati dibbacakkhussa uppādāyāti.
+
+7\. Catunnampi, mahārāja, ariyasaccānaṁ paṭivedhāya natthaññaṁ vatthu, saccaṁ vatthuṁ katvā cattāri ariyasaccāni paṭivijjhantīti. Atthi, mahārāja, cīnavisaye cīnarājā, so mahāsamudde kīḷitukāmo catumāse catumāse saccakiriyaṁ katvā saha rathena antomahāsamudde yojanaṁ pavisati, tassa rathasīsassa purato purato mahāvārikkhandho paṭikkamati, nikkhantassa puna ottharati, api nu kho, mahārāja, so mahāsamuddo sadevamanussenapi lokena pakatikāyabalena sakkā paṭikkamāpetun”ti? “Atiparittakepi, bhante, taḷāke udakaṁ na sakkā sadevamanussenapi lokena pakatikāyabalena paṭikkamāpetuṁ, kiṁ pana mahāsamudde udakan”ti? “Imināpi, mahārāja, kāraṇena saccabalaṁ ñātabbaṁ ‘natthi taṁ ṭhānaṁ, yaṁ saccena na pattabban’ti.
+
+8\. Nagare, mahārāja, pāṭaliputte asoko dhammarājā sanegamajānapadaamaccabhaṭabalamahāmattehi parivuto gaṅgaṁ nadiṁ navasalilasampuṇṇaṁ samatitthikaṁ sambharitaṁ pañcayojanasatāyāmaṁ yojanaputhulaṁ sandamānaṁ disvā amacce evamāha—‘atthi koci, bhaṇe, samattho, yo imaṁ mahāgaṅgaṁ paṭisotaṁ sandāpetun’ti. Amaccā āhaṁsu ‘dukkaraṁ, devā’ti.
+
+9\. Tasmiṁyeva gaṅgākūle ṭhitā bandhumatī nāma gaṇikā assosi raññā kira evaṁ vuttaṁ—‘sakkā nu kho imaṁ mahāgaṅgaṁ paṭisotaṁ sandāpetun’ti, sā evamāha—‘ahañhi nagare pāṭaliputte gaṇikā rūpūpajīvinī antimajīvikā, mama tāva rājā saccakiriyaṁ passatū’ti. Atha sā saccakiriyaṁ akāsi, saha tassā saccakiriyāya khaṇena sā mahāgaṅgā gaḷagaḷāyantī paṭisotaṁ sandittha mahato janakāyassa passato.
+
+10\. Atha rājā gaṅgāya āvaṭṭaūmivegajanitaṁ halāhalasaddaṁ sutvā vimhito acchariyabbhutajāto amacce evamāha—‘kissāyaṁ, bhaṇe, mahāgaṅgā paṭisotaṁ sandatī’ti? ‘Bandhumatī, mahārāja, gaṇikā tava vacanaṁ sutvā saccakiriyaṁ akāsi, tassā saccakiriyāya mahāgaṅgā uddhammukhā sandatī’ti.
+
+11\. Atha saṁviggahadayo rājā turitaturito sayaṁ gantvā taṁ gaṇikaṁ pucchi—‘saccaṁ kira, je, tayā saccakiriyāya ayaṁ gaṅgā paṭisotaṁ sandāpitā’ti? ‘Āma, devā’ti. Rājā āha—‘kiṁ te tattha balaṁ atthi, ko vā te vacanaṁ ādiyati anummatto, kena tvaṁ balena imaṁ mahāgaṅgaṁ paṭisotaṁ sandāpesī’ti? Sā āha—‘saccabalenāhaṁ, mahārāja, imaṁ mahāgaṅgaṁ paṭisotaṁ sandāpesin’ti. Rājā āha—‘kiṁ te saccabalaṁ atthi coriyā dhuttiyā asatiyā chinnikāya pāpiyā bhinnasīlāya hiriatikkantikāya andhajanapalobhikāyā’ti. ‘Saccaṁ, mahārāja, tādisikā ahaṁ, tādisikāyapi me, mahārāja, saccakiriyā atthi, yāyāhaṁ icchamānā sadevakampi lokaṁ parivatteyyan’ti. Rājā āha—‘katamā pana sā hoti saccakiriyā, iṅgha maṁ sāvehī’ti. ‘Yo me, mahārāja, dhanaṁ deti khattiyo vā brāhmaṇo vā vesso vā suddo vā añño vā koci, tesaṁ samakaṁyeva upaṭṭhahāmi, “khattiyo”ti viseso natthi, “suddo”ti atimaññanā natthi, anunayappaṭighavippamuttā dhanassāmikaṁ paricarāmi, esā me, deva, saccakiriyā, yāyāhaṁ imaṁ mahāgaṅgaṁ paṭisotaṁ sandāpesin’ti.
+
+12\. Itipi, mahārāja, sacce ṭhitā na kiñci atthaṁ na vindanti. Dinnāni ca, mahārāja, sivirājena yācakassa cakkhūni, dibbacakkhūni ca uppannāni, tañca saccakiriyāya. Yaṁ pana sutte vuttaṁ—‘maṁsacakkhusmiṁ naṭṭhe ahetusmiṁ avatthusmiṁ natthi dibbacakkhussa uppādo’ti. Taṁ bhāvanāmayaṁ cakkhuṁ sandhāya vuttaṁ, evametaṁ, mahārāja, dhārehī”ti. “Sādhu, bhante nāgasena, sunibbeṭhito pañho, suniddiṭṭho niggaho, sumadditā paravādā, evametaṁ tathā sampaṭicchāmī”ti.
+
+13\. Sivirājacakkhudānapañho pañcamo.

@@ -18,7 +18,7 @@ venerable Ānanda: "If, venerable sir, the venerable Ānanda has no urgent busin
 
 "There is no need, great king. Sit down. I am sitting on my own mat."
 
-8\. King Pasenadi of Kosala sat down on a seat made ready and said: "Venerable Ānanda, would the Blessed One behave with the body in such a way that he could be censured by wise recluses and brahmins?"831
+8\. King Pasenadi of Kosala sat down on a seat made ready and said: "Venerable Ānanda, would the Blessed One behave with the body in such a way that he could be censured by wise recluses and brahmins?"[^831]
 
 "No, great king, the Blessed One would not behave with the body in such a way that he could be censured by wise recluses and brahmins." [114]
 
@@ -45,7 +45,7 @@ venerable Ānanda: "If, venerable sir, the venerable Ānanda has no urgent busin
 
 "Now, venerable Ānanda, what kind of bodily behaviour has painful results?"
 
-"Any bodily behaviour, great king, that leads to one's own affliction, or to the affliction of others, or to the affliction of both, and on account of which unwholesome states increase and wholesome states diminish. Such bodily behaviour is censured by wise recluses and brahmins, great king."832
+"Any bodily behaviour, great king, that leads to one's own affliction, or to the affliction of others, or to the affliction of both, and on account of which unwholesome states increase and wholesome states diminish. Such bodily behaviour is censured by wise recluses and brahmins, great king."[^832]
 
 11\. "Now, venerable Ānanda, what kind of verbal behaviour is censured by wise recluses and brahmins?"
 

@@ -33,16 +33,16 @@ Lại nữa, này Mahānāma, có nguyên nhân từ *bản năng*, có nguồn 
 Lại nữa, này Mahānāma, có nguyên nhân từ *bản năng*, có nguồn gốc từ *bản năng*, có lý do từ *bản năng*, hoàn toàn do *bản năng*, họ hành động sai trái bằng thân, hành động sai trái bằng lời nói, hành động sai trái bằng ý nghĩ. Do hành động sai trái bằng thân, hành động sai trái bằng lời nói, hành động sai trái bằng ý nghĩ, sau khi cơ thể tan rã, sau khi chết, họ tái sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Này Mahānāma, đây là *hệ lụy* của các *bản năng* trong tương lai, một khối *đau khổ* có nguyên nhân từ *bản năng*, có nguồn gốc từ *bản năng*, có lý do từ *bản năng*, hoàn toàn do *bản năng*.
 
 <!--pg-->
-Này Mahānāma, một thời ta trú ở Rājagaha, trên núi Gijjhakūṭa. Lúc bấy giờ, có nhiều *tu sĩ Nigaṇṭha* (Ni-kiền-tử / nigaṇṭhā) ở sườn núi Isigili, tại tảng đá Đen, đang đứng thẳng, từ chối chỗ ngồi, trải nghiệm những *cảm giác* (thọ / vedanā) *đau khổ* do tự ép xác, dữ dội, khốc liệt, cay đắng.
+15\. Này Mahānāma, một thời ta trú ở Rājagaha, trên núi Gijjhakūṭa. Lúc bấy giờ, có nhiều *tu sĩ Nigaṇṭha* (Ni-kiền-tử / nigaṇṭhā) ở sườn núi Isigili, tại tảng đá Đen, đang đứng thẳng, từ chối chỗ ngồi, trải nghiệm những *cảm giác* (thọ / vedanā) *đau khổ* do tự ép xác, dữ dội, khốc liệt, cay đắng.
 
-Khi ấy, này Mahānāma, vào buổi chiều, sau khi xuất định, ta đi đến sườn núi Isigili, tại tảng đá Đen, nơi các *tu sĩ Nigaṇṭha* đang ở; sau khi đến, ta nói với các *tu sĩ Nigaṇṭha* điều này: 'Này các hiền giả *tu sĩ Nigaṇṭha*, tại sao các vị lại đứng thẳng, từ chối chỗ ngồi, trải nghiệm những *cảm giác* *đau khổ* do tự ép xác, dữ dội, khốc liệt, cay đắng?'
+16\. Khi ấy, này Mahānāma, vào buổi chiều, sau khi xuất định, ta đi đến sườn núi Isigili, tại tảng đá Đen, nơi các *tu sĩ Nigaṇṭha* đang ở; sau khi đến, ta nói với các *tu sĩ Nigaṇṭha* điều này: 'Này các hiền giả *tu sĩ Nigaṇṭha*, tại sao các vị lại đứng thẳng, từ chối chỗ ngồi, trải nghiệm những *cảm giác* *đau khổ* do tự ép xác, dữ dội, khốc liệt, cay đắng?'
 
-Được hỏi như vậy, này Mahānāma, các *tu sĩ Nigaṇṭha* nói với ta điều này: 'Này hiền giả, Nigaṇṭha Nāṭaputta là người *biết tất cả, thấy tất cả* (toàn tri toàn kiến / sabbaññū sabbadassāvī), tuyên bố có *hiểu biết và thấy rõ bản chất* (tri kiến / ñāṇadassanaṁ) không dư sót rằng: "Dù tôi đang đi hay đang đứng, đang ngủ hay đang thức, *hiểu biết và thấy rõ bản chất* luôn luôn được thiết lập liên tục".
+17\. Được hỏi như vậy, này Mahānāma, các *tu sĩ Nigaṇṭha* nói với ta điều này: 'Này hiền giả, Nigaṇṭha Nāṭaputta là người *biết tất cả, thấy tất cả* (toàn tri toàn kiến / sabbaññū sabbadassāvī), tuyên bố có *hiểu biết và thấy rõ bản chất* (tri kiến / ñāṇadassanaṁ) không dư sót rằng: "Dù tôi đang đi hay đang đứng, đang ngủ hay đang thức, *hiểu biết và thấy rõ bản chất* luôn luôn được thiết lập liên tục".
 
 Vị ấy nói như thế này: "Này các Nigaṇṭha, các vị đã làm hành động ác trong quá khứ, hãy làm hao mòn nó bằng sự khổ hạnh cay đắng này; còn việc hiện tại các vị bảo vệ bằng thân, bảo vệ bằng lời nói, bảo vệ bằng ý nghĩ, đó là không làm hành động ác trong tương lai; như vậy, nhờ thiêu đốt các hành động cũ bằng khổ hạnh, nhờ không tạo ra các hành động mới, nên không có dòng chảy vào tương lai; do không có dòng chảy vào tương lai, dẫn đến *sự cạn kiệt hành động* (nghiệp tận / kammakkhayo); do *sự cạn kiệt hành động*, *đau khổ* cạn kiệt; do *đau khổ* cạn kiệt, *cảm giác* cạn kiệt; do *cảm giác* cạn kiệt, mọi *đau khổ* sẽ bị hao mòn hoàn toàn". Điều đó làm chúng tôi hài lòng và chấp nhận, do đó chúng tôi hoan hỷ.'
 
 <!--pg-->
-Được nói như vậy, này Mahānāma, ta nói với các *tu sĩ Nigaṇṭha* điều này: 'Nhưng này các hiền giả *tu sĩ Nigaṇṭha*, các vị có biết — chúng ta đã từng tồn tại trong quá khứ hay không từng tồn tại?'
+18\. Được nói như vậy, này Mahānāma, ta nói với các *tu sĩ Nigaṇṭha* điều này: 'Nhưng này các hiền giả *tu sĩ Nigaṇṭha*, các vị có biết — chúng ta đã từng tồn tại trong quá khứ hay không từng tồn tại?'
 
 'Không, thưa hiền giả.'
 
