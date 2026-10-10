@@ -1,0 +1,83 @@
+# DHP 21. Dhammapada
+
+## Appamādavagga
+
+0\. Sāmāvatīvatthu
+
+1\.
+> Appamādo amatapadaṁ,\
+> pamādo maccuno padaṁ;\
+> Appamattā na mīyanti,\
+> ye pamattā yathā matā.\
+> Evaṁ visesato ñatvā,\
+> appamādamhi paṇḍitā;\
+> Appamāde pamodanti,\
+> ariyānaṁ gocare ratā.\
+> Te jhāyino sātatikā,\
+> niccaṁ daḷhaparakkamā;\
+> Phusanti dhīrā nibbānaṁ,\
+> yogakkhemaṁ anuttaraṁ.
+
+Kumbaghosakaseṭṭhivatthu
+
+> Uṭṭhānavato satīmato,\
+> Sucikammassa nisammakārino;\
+> Saññatassa dhammajīvino,\
+> Appamattassa yasobhivaḍḍhati.
+
+Cūḷapanthakavatthu
+
+> Uṭṭhānenappamādena,\
+> saṁyamena damena ca;\
+> Dīpaṁ kayirātha medhāvī,\
+> yaṁ ogho nābhikīrati.
+
+Bālanakkhattasaṅghuṭṭhavatthu
+
+> Pamādamanuyuñjanti,\
+> bālā dummedhino janā;\
+> Appamādañca medhāvī,\
+> dhanaṁ seṭṭhaṁva rakkhati.\
+> Mā pamādamanuyuñjetha,\
+> mā kāmaratisanthavaṁ;\
+> Appamatto hi jhāyanto,\
+> pappoti vipulaṁ sukhaṁ.
+
+Mahākassapattheravatthu
+
+> Pamādaṁ appamādena,\
+> yadā nudati paṇḍito;\
+> Paññāpāsādamāruyha,\
+> asoko sokiniṁ pajaṁ;\
+> Pabbataṭṭhova bhūmaṭṭhe,\
+> dhīro bāle avekkhati.
+
+Pamattāpamattadvesahāyakabhikkhuvatthu
+
+> Appamatto pamattesu,\
+> suttesu bahujāgaro;\
+> Abalassaṁva sīghasso,\
+> hitvā yāti sumedhaso.
+
+Maghavatthu
+
+> Appamādena maghavā,\
+> devānaṁ seṭṭhataṁ gato;\
+> Appamādaṁ pasaṁsanti,\
+> pamādo garahito sadā.
+
+Aññatarabhikkhuvatthu
+
+> Appamādarato bhikkhu,\
+> pamāde bhayadassi vā;\
+> Saṁyojanaṁ aṇuṁ thūlaṁ,\
+> ḍahaṁ aggīva gacchati.
+
+Nigamavāsitissattheravatthu
+
+> Appamādarato bhikkhu,\
+> pamāde bhayadassi vā;\
+> Abhabbo parihānāya,\
+> nibbānasseva santike.
+
+Appamādavaggo dutiyo.

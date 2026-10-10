@@ -30,7 +30,7 @@ import kinhtuongung_sujato_vi from '../kinhtuongung/sujato-vi/meta/filelist';
 import kinhtuongung_sujato_en from '../kinhtuongung/sujato-en/meta/filelist';
 
 import kinhtieubo_thichminhchau from '../kinhtieubo/thichminhchau/meta/filelist';
-import kinhtieubo_pali from '../kinhtieubo/pali/meta/filelist';
+// import kinhtieubo_pali from '../kinhtieubo/pali/meta/filelist';
 
 // import jill_whole_brain_vi from '../jill-brain/vi/meta/filelist';
 // import jill_stroke_vi from '../jill-stroke/vi/meta/filelist';
@@ -131,8 +131,8 @@ const BOOK_NAV = {
   'kinhtuongung/sujato-vi': kinhtuongung_sujato_vi,
 
   'kinhtieubo/thichminhchau': kinhtieubo_thichminhchau,
-  'kinhtieubo/pali/bv': kinhtieubo_pali,
-  'kinhtieubo/pali/cnd': kinhtieubo_pali,
+  //'kinhtieubo/pali/bv': kinhtieubo_pali,
+  //'kinhtieubo/pali/cnd': kinhtieubo_pali,
 
   // 'jill-brain/vi': jill_whole_brain_vi,
   // 'jill-stroke/vi': jill_stroke_vi,
@@ -880,11 +880,13 @@ export default defineConfig({
     `],
     ['link', {
       rel: 'preconnect',
-      href: 'https://fonts.googleapis.com'}],
+      href: 'https://fonts.googleapis.com'
+    }],
     ['link', {
       rel: 'preconnect',
       href: 'https://fonts.gstatic.com',
-      crossorigin: ''}],
+      crossorigin: ''
+    }],
     ['link', {
       rel: 'stylesheet',
       href: 'https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,600;0,700;1,400&display=swap',
@@ -914,7 +916,7 @@ export default defineConfig({
       },
       //{ text: 'Hỏi & Đáp', link: '/hoi-dap' },
     ],
-  
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/truonghoangnguyen/nikaya2' }
     ],
