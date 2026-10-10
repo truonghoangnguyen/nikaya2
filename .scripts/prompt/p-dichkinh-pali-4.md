@@ -373,7 +373,7 @@ Trước khi dịch, ghi nhận ngắn gọn:
 | pāṭidesanīya | nhận lỗi (Ba-la-đề-đề-xá-ni) | hối quá (ba-la-đề-đề-xá-ni) | Thừa nhận lỗi |
 | dukkaṭa | lỗi Làm sai (đột-kiết-la) | ác tác (đột-kiết-la) | hối lỗi |
 | dubbhāsita | lỗi Nói sai | ác thuyết | hối lỗi |
-
+| upaggaṇhanalakkhaṇā | nắm bắt đặc điểm | | |
 </vocabulary-mapping>
 
 ### Những từ giữ nguyên

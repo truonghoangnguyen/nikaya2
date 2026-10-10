@@ -1,0 +1,47 @@
+# PS 3.4. 3 Paññāvagga
+
+### 3.4. Vivekakathā
+
+1\. Sāvatthinidānaṁ. “Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete balakaraṇīyā kammantā karīyanti; evamevaṁ, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroti.
+
+2\. Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroti? Idha, bhikkhave, bhikkhu sammādiṭṭhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ. Sammāsaṅkappaṁ …pe… sammāvācaṁ … sammākammantaṁ … sammāājīvaṁ … sammāvāyāmaṁ … sammāsatiṁ … sammāsamādhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ. Evaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāveti, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroti.
+
+3\. Seyyathāpi, bhikkhave, ye keci bījagāmabhūtagāmā vuddhiṁ viruḷhiṁ vepullaṁ āpajjanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete bījagāmabhūtagāmā vuddhiṁ viruḷhiṁ vepullaṁ āpajjanti; evamevaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto vuddhiṁ viruḷhiṁ vepullaṁ pāpuṇāti dhammesu.
+
+4\. Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto vuddhiṁ viruḷhiṁ vepullaṁ pāpuṇāti dhammesu? Idha, bhikkhave, bhikkhu sammādiṭṭhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ. Sammāsaṅkappaṁ bhāveti …pe… sammāvācaṁ bhāveti … sammākammantaṁ bhāveti … sammāājīvaṁ bhāveti … sammāvāyāmaṁ bhāveti … sammāsatiṁ bhāveti … sammāsamādhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ. Evaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto vuddhiṁ viruḷhiṁ vepullaṁ pāpuṇāti dhammesū”ti.
+
+#### 3.4.1. Maggaṅganiddesa
+
+5\. Sammādiṭṭhiyā pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā. Sammāsaṅkappassa …pe… sammāvācāya … sammākammantassa … sammāājīvassa … sammāvāyāmassa … sammāsatiyā … sammāsamādhissa pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.
+
+6\. <b>Sammādiṭṭhiyā katame pañca vivekā?</b> Vikkhambhanaviveko, tadaṅgaviveko samucchedaviveko, paṭippassaddhiviveko, nissaraṇaviveko. Vikkhambhanaviveko ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgaviveko ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedaviveko ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhiviveko ca phalakkhaṇe, nissaraṇaviveko ca nirodho nibbānaṁ. Sammādiṭṭhiyā ime pañca vivekā. Imesu pañcasu vivekesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.
+
+7\. <b>Sammādiṭṭhiyā katame pañca virāgā?</b> Vikkhambhanavirāgo, tadaṅgavirāgo, samucchedavirāgo, paṭippassaddhivirāgo, nissaraṇavirāgo. Vikkhambhanavirāgo ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgavirāgo ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedavirāgo ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhivirāgo ca phalakkhaṇe, nissaraṇavirāgo ca nirodho nibbānaṁ. Sammādiṭṭhiyā ime pañca virāgā. Imesu pañcasu virāgesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.
+
+8\. <b>Sammādiṭṭhiyā katame pañca nirodhā?</b> Vikkhambhananirodho, tadaṅganirodho, samucchedanirodho, paṭippassaddhinirodho, nissaraṇanirodho. Vikkhambhananirodho ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅganirodho ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedanirodho ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhinirodho ca phalakkhaṇe, nissaraṇanirodho ca amatā dhātu. Sammādiṭṭhiyā ime pañca nirodhā. Imesu pañcasu nirodhesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.
+
+9\. <b>Sammādiṭṭhiyā katame pañca vosaggā?</b> Vikkhambhanavosaggo, tadaṅgavosaggo, samucchedavosaggo, paṭippassaddhivosaggo, nissaraṇavosaggo. Vikkhambhanavosaggo ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgavosaggo ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedavosaggo ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhivosaggo ca phalakkhaṇe, nissaraṇavosaggo ca nirodho nibbānaṁ. Sammādiṭṭhiyā ime pañca vosaggā. Imesu pañcasu vosaggesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ. Sammādiṭṭhiyā ime pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.
+
+10\. <b>Sammāsaṅkappassa …pe…</b> <b>sammāvācāya …</b> <b>sammākammantassa …</b> <b>sammāājīvassa …</b> <b>sammāvāyāmassa …</b> <b>sammāsatiyā …</b> <b>sammāsamādhissa katame pañca vivekā?</b> Vikkhambhanaviveko, tadaṅgaviveko, samucchedaviveko, paṭippassaddhiviveko, nissaraṇaviveko. Vikkhambhanaviveko ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgaviveko ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedaviveko ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhiviveko ca phalakkhaṇe nissaraṇaviveko ca nirodho nibbānaṁ. Sammāsamādhissa ime pañca vivekā. Imesu pañcasu vivekesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.
+
+11\. <b>Sammāsamādhissa katame pañca virāgā?</b> Vikkhambhanavirāgo, tadaṅgavirāgo, samucchedavirāgo, paṭippassaddhivirāgo, nissaraṇavirāgo. Vikkhambhanavirāgo ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgavirāgo ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedavirāgo ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhivirāgo ca phalakkhaṇe, nissaraṇavirāgo ca nirodho nibbānaṁ. Sammāsamādhissa ime pañca virāgā. Imesu pañcasu virāgesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.
+
+12\. <b>Sammāsamādhissa katame pañca nirodhā?</b> Vikkhambhananirodho, tadaṅganirodho, samucchedanirodho, paṭippassaddhinirodho, nissaraṇanirodho. Vikkhambhananirodho ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅganirodho ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedanirodho ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhinirodho ca phalakkhaṇe, nissaraṇanirodho ca amatā dhātu. Sammāsamādhissa ime pañca nirodhā. Imesu pañcasu nirodhesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ.
+
+13\. <b>Sammāsamādhissa katame pañca vosaggā?</b> Vikkhambhanavosaggo, tadaṅgavosaggo, samucchedavosaggo, paṭippassaddhivosaggo, nissaraṇavosaggo. Vikkhambhanavosaggo ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgavosaggo ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedavosaggo ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhivosaggo ca phalakkhaṇe, nissaraṇavosaggo ca nirodho nibbānaṁ. Sammāsamādhissa ime pañca vosaggā. Imesu pañcasu vosaggesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ. Sammāsamādhissa ime pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.
+
+14\. “Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā karīyanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete balakaraṇīyā kammantā karīyanti; evamevaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya satta bojjhaṅge bhāveti, satta bojjhaṅge bahulīkaroti …pe… satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto vuddhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu …pe… pañca balāni bhāveti, pañca balāni bahulīkaroti …pe… pañca balāni bhāvento pañca balāni bahulīkaronto vuddhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu …pe… pañcindriyāni bhāveti, pañcindriyāni bahulīkaroti …pe….
+
+15\. Seyyathāpi, bhikkhave, ye keci bījagāmabhūtagāmā vuddhiṁ virūḷhiṁ vepullaṁ āpajjanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete bījagāmabhūtagāmā vuddhiṁ virūḷhiṁ vepullaṁ āpajjanti; evamevaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya pañcindriyāni bhāvento pañcindriyāni bahulīkaronto vuddhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu.
+
+16\. Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya pañcindriyāni bhāvento pañcindriyāni bahulīkaronto vuddhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu? Idha, bhikkhave, bhikkhu saddhindriyaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ. Vīriyindriyaṁ bhāveti …pe… satindriyaṁ bhāveti …pe… samādhindriyaṁ bhāveti …pe… paññindriyaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vosaggapariṇāmiṁ. Evaṁ kho, bhikkhave, bhikkhu sīlaṁ nissāya …pe… pāpuṇāti dhammesū”ti.
+
+#### 3.4.2. Indriyaniddesa
+
+17\. Saddhindriyassa pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā. Vīriyindriyassa …pe… satindriyassa …pe… samādhindriyassa …pe… paññindriyassa pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.
+
+18\. <b>Saddhindriyassa katame pañca vivekā?</b> Vikkhambhanaviveko, tadaṅgaviveko, samucchedaviveko, paṭippassaddhiviveko, nissaraṇaviveko. Vikkhambhanaviveko ca nīvaraṇānaṁ paṭhamajjhānaṁ bhāvayato, tadaṅgaviveko ca diṭṭhigatānaṁ nibbedhabhāgiyaṁ samādhiṁ bhāvayato, samucchedaviveko ca lokuttaraṁ khayagāmimaggaṁ bhāvayato, paṭippassaddhiviveko ca phalakkhaṇe, nissaraṇaviveko ca nirodho nibbānaṁ. Saddhindriyassa ime pañca vivekā. Imesu pañcasu vivekesu chandajāto hoti saddhādhimutto, cittañcassa svādhiṭṭhitaṁ …pe… saddhindriyassa ime pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayā.
+
+19\. Vīriyindriyassa …pe… satindriyassa …pe… samādhindriyassa … paññindriyassa katame pañca vivekā? Vikkhambhanaviveko, tadaṅgaviveko, samucchedaviveko, paṭippassaddhiviveko, nissaraṇaviveko …pe… paññindriyassa ime pañca vivekā, pañca virāgā, pañca nirodhā, pañca vosaggā, dvādasa nissayāti.
+
+Vivekakathā niṭṭhitā.
