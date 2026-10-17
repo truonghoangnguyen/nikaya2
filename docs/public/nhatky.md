@@ -123,3 +123,9 @@ MN 90 thực sự mệt, khái niệm toàn tri là biết mọi thứ (eg: ông
 ### date 2026-10-09
 Kinh tiểu bộ Pali, không hiểu vì lý do gì mà đọc lại thiếu, và tìm thấy bộ kinh tiểu bộ phần sau tiếng việt(https://www.thuvienhoasen.org/a38517/kinh-tieu-bo-khuddaka-nikaya-bo-moi?__cf_chl_tk=I9.y6rkoVS9PjUWNeG39VDSu8zHnzAqYcQdMwhrfsi8-1791450023-1.0.1.1-nfP0bkZh5mb83zW6MYombFxtLjOciGdNMbSnuEaDp9Y);
 
+
+### date 2026-10-12
+Bắt đầu viết 'khung sườn'
+
+### date 2026-10-14
+Dùng gemini argon 4

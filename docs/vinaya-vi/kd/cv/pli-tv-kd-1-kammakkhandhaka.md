@@ -2,7 +2,7 @@
 
 # 11. Kammakkhandhaka
 
-## 1. Tajjanīyakamma {#1}
+## 1. Tajjanīyakamma
 
 1.1\. Namo tassa Bhagavato Arahato Sammāsambuddhassa.
 
@@ -148,7 +148,7 @@ Paṭippassaddhaṁ saṅghena paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīy
 
 Tajjanīyakammaṁ niṭṭhitaṁ paṭhamaṁ.
 
-## 2. Niyassakamma {#2}
+## 2. Niyassakamma
 
 9.1\. Tena kho pana samayena āyasmā seyyasako bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi; apissu bhikkhū pakatā parivāsaṁ dentā mūlāya paṭikassantā mānattaṁ dentā abbhentā.
 
@@ -286,7 +286,7 @@ Paṭippassaddhaṁ saṅghena seyyasakassa bhikkhuno niyassakammaṁ. Khamati s
 
 Niyassakammaṁ niṭṭhitaṁ dutiyaṁ.
 
-## 3. Pabbājanīyakamma {#3}
+## 3. Pabbājanīyakamma
 
 13.1\. Tena kho pana samayena assajipunabbasukā nāma kīṭāgirismiṁ āvāsikā honti alajjino pāpabhikkhū. Te evarūpaṁ anācāraṁ ācaranti—
 
@@ -476,7 +476,7 @@ Paṭippassaddhaṁ saṅghena itthannāmassa bhikkhuno pabbājanīyakammaṁ. K
 
 Pabbājanīyakammaṁ niṭṭhitaṁ tatiyaṁ.
 
-## 4. Paṭisāraṇīyakamma {#4}
+## 4. Paṭisāraṇīyakamma
 
 18.1\. Tena kho pana samayena āyasmā sudhammo macchikāsaṇḍe cittassa gahapatino āvāsiko hoti, navakammiko dhuvabhattiko. Yadā citto gahapati saṅghaṁ vā gaṇaṁ vā puggalaṁ vā nimantetukāmo hoti tadā na āyasmantaṁ sudhammaṁ anapaloketvā saṅghaṁ vā gaṇaṁ vā puggalaṁ vā nimanteti.
 
@@ -638,7 +638,7 @@ Paṭippassaddhaṁ saṅghena sudhammassa bhikkhuno paṭisāraṇīyakammaṁ.
 
 Paṭisāraṇīyakammaṁ niṭṭhitaṁ catutthaṁ.
 
-## 5. Āpattiyāadassaneukkhepanīyakamma {#5}
+## 5. Āpattiyāadassaneukkhepanīyakamma
 
 25.1\. Tena samayena buddho bhagavā kosambiyaṁ viharati ghositārāme. Tena kho pana samayena āyasmā channo āpattiṁ āpajjitvā na icchati āpattiṁ passituṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā channo āpattiṁ āpajjitvā na icchissati āpattiṁ passitun”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
 
@@ -794,7 +794,7 @@ Paṭippassaddhaṁ saṅghena channassa bhikkhuno, āpattiyā adassane, ukkhepa
 
 Āpattiyā adassane ukkhepanīyakammaṁ niṭṭhitaṁ pañcamaṁ.
 
-## 6. Āpattiyāappaṭikammeukkhepanīyakamma {#6}
+## 6. Āpattiyāappaṭikammeukkhepanīyakamma
 
 31.1\. Tena samayena buddho bhagavā kosambiyaṁ viharati ghositārāme. Tena kho pana samayena āyasmā channo āpattiṁ āpajjitvā na icchati āpattiṁ paṭikātuṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā channo āpattiṁ āpajjitvā na icchissati āpattiṁ paṭikātun”ti? Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
 
@@ -932,7 +932,7 @@ Paṭippassaddhaṁ saṅghena channassa bhikkhuno, āpattiyā appaṭikamme, uk
 
 Āpattiyā appaṭikamme ukkhepanīyakammaṁ niṭṭhitaṁ chaṭṭhaṁ.
 
-## 7. Pāpikāyadiṭṭhiyāappaṭinissagge ukkhepanīyakamma {#7}
+## 7. Pāpikāyadiṭṭhiyāappaṭinissagge ukkhepanīyakamma
 
 32.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena ariṭṭhassa nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti— “tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti.
 

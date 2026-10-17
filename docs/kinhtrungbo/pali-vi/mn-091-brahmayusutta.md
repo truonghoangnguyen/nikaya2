@@ -1,247 +1,254 @@
-# MN 91. Brahmāyusutta
+---
+description: Kinh Brahmāyu (MN 91) kể về việc Bà-la-môn Brahmāyu cử đệ tử đi quan sát 32 dấu hiệu vĩ nhân và cách hành xử của Đức Phật, dẫn đến sự quy ngưỡng và chứng quả của vị Bà-la-môn lão thành này.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā videhesu cārikaṁ carati mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi. {#1}
+# MN 91. KINH BRAHMĀYU
+*(Brahmāyusutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-091){."note-link"}
 
-2\. Tena kho pana samayena brahmāyu brāhmaṇo mithilāyaṁ paṭivasati jiṇṇo vuḍḍho mahallako addhagato vayoanuppatto, vīsavassasatiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo. {#2}
 
-3\. Assosi kho brahmāyu brāhmaṇo: “samaṇo khalu bho, gotamo sakyaputto sakyakulā pabbajito videhesu cārikaṁ carati mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti. {#3}
+1\. Tôi đã nghe như vầy - một thời Đức Phật đi du hành trong xứ Videha cùng với một hội chúng tỳ kheo đông đảo khoảng năm trăm vị. {#1}
 
-4\. Tena kho pana samayena brahmāyussa brāhmaṇassa uttaro nāma māṇavo antevāsī hoti tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo. Atha kho brahmāyu brāhmaṇo uttaraṁ māṇavaṁ āmantesi: “ayaṁ, tāta uttara, samaṇo gotamo sakyaputto sakyakulā pabbajito videhesu cārikaṁ carati mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho …pe… sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī’ti. Ehi tvaṁ, tāta uttara, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā samaṇaṁ gotamaṁ jānāhi, yadi vā taṁ bhavantaṁ gotamaṁ tathā santaṁyeva saddo abbhuggato, yadi vā no tathā; yadi vā so bhavaṁ gotamo tādiso, yadi vā na tādiso. Tathā mayaṁ taṁ bhavantaṁ gotamaṁ vedissāmā”ti. {#4}
+2\. Lúc bấy giờ, vị Bà-la-môn Brahmāyu đang cư ngụ tại Mithilā, là người đã già yếu, cao tuổi, bậc lão thành, đã đi qua phần lớn cuộc đời, đã đến tuổi xế bóng, tuổi thọ đã một trăm hai mươi năm. Ông là người thấu suốt ba tập Vệ-đà, thông thạo các từ vựng, nghi thức, ngữ âm học, từ nguyên học và lịch sử là môn thứ năm; là người am hiểu ngữ pháp, biện luận và không thiếu sót về các học thuyết thế gian cũng như *ba mươi hai dấu hiệu của bậc vĩ nhân* (ba mươi hai đại nhân tướng / dvattiṁsamahāpurisalakkhaṇāni). {#2}
 
-5\. “Yathā kathaṁ panāhaṁ, bho, taṁ bhavantaṁ gotamaṁ jānissāmi yadi vā taṁ bhavantaṁ gotamaṁ tathā santaṁyeva saddo abbhuggato, yadi vā no tathā; yadi vā so bhavaṁ gotamo tādiso, yadi vā na tādiso”ti. {#5}
+3\. Vị Bà-la-môn Brahmāyu nghe nói: "Này các tôn giả, sa-môn Gotama là con trai nhà Sakya, xuất gia từ gia tộc Sakya, đang du hành trong xứ Videha cùng với một hội chúng tỳ kheo đông đảo khoảng năm trăm vị. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Đức Phật, *bậc xứng đáng, người tỉnh thức hoàn toàn* (A-la-hán, Chánh Đẳng Giác / arahaṁ sammāsambuddho), minh hạnh túc, thiện thệ, thế gian giải, vô thượng sĩ điều ngự trượng phu, bậc thầy của chư thiên và loài người, Phật, Thế Tôn'. Ngài đã tự mình *hiểu toàn bộ* (thắng tri / abhiññeyyo) và *trực tiếp chứng nghiệm* (chứng ngộ / sacchikātabbo) thế giới này cùng với chư thiên, ma vương, Phạm thiên, cùng với quần chúng sa-môn, Bà-la-môn, chư thiên và loài người, rồi tuyên bố cho [họ biết]. Ngài giảng dạy *Giáo pháp* (pháp / dhamma) tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, đầy đủ ý nghĩa và văn tự; Ngài làm sáng tỏ *đời sống thánh thiện* (phạm hạnh / brahmacariya) hoàn toàn viên mãn và thanh tịnh. Thật tốt đẹp thay khi được chiêm ngưỡng một bậc xứng đáng như vậy." {#3}
 
-“Āgatāni kho, tāta uttara, amhākaṁ mantesu dvattiṁsamahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveyeva gatiyo bhavanti anaññā. Sace agāraṁ ajjhāvasati, rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. Tassimāni satta ratanāni bhavanti, seyyathidaṁ—cakkaratanaṁ, hatthiratanaṁ, assaratanaṁ, maṇiratanaṁ, itthiratanaṁ, gahapatiratanaṁ, pariṇāyakaratanameva sattamaṁ. Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. So imaṁ pathaviṁ sāgarapariyantaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati. Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho loke vivaṭṭacchado. Ahaṁ kho pana, tāta uttara, mantānaṁ dātā; tvaṁ mantānaṁ paṭiggahetā”ti.
+4\. Lúc bấy giờ, vị Bà-la-môn Brahmāyu có một thanh niên đệ tử tên là Uttara, là người thấu suốt ba tập Vệ-đà, thông thạo các từ vựng, nghi thức, ngữ âm học, từ nguyên học và lịch sử là môn thứ năm; là người am hiểu ngữ pháp, biện luận và không thiếu sót về các học thuyết thế gian cũng như các dấu hiệu của bậc vĩ nhân. Rồi vị Bà-la-môn Brahmāyu gọi thanh niên Uttara: "Này Uttara thân mến, sa-môn Gotama là con trai nhà Sakya, xuất gia từ gia tộc Sakya, đang du hành trong xứ Videha cùng với một hội chúng tỳ kheo đông đảo khoảng năm trăm vị. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Đức Phật, bậc xứng đáng, người tỉnh thức hoàn toàn [...lặp lại...] Thật tốt đẹp thay khi được chiêm ngưỡng một bậc xứng đáng như vậy'. Này Uttara thân mến, con hãy đi đến nơi sa-môn Gotama đang ở; sau khi đến, hãy tìm hiểu xem tiếng đồn về tôn giả Gotama có đúng như vậy hay không đúng như vậy; tôn giả Gotama có phải là người như vậy hay không phải là người như vậy. Như thế, chúng ta sẽ biết rõ về tôn giả Gotama." {#4}
 
-6\. “Evaṁ, bho”ti kho uttaro māṇavo brahmāyussa brāhmaṇassa paṭissutvā uṭṭhāyāsanā brahmāyuṁ brāhmaṇaṁ abhivādetvā padakkhiṇaṁ katvā videhesu yena bhagavā tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho uttaro māṇavo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi. Addasā kho uttaro māṇavo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena thapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya ca. {#6}
+5\. "Thưa tôn sư, làm sao con có thể tìm hiểu xem tiếng đồn về tôn giả Gotama có đúng như vậy hay không đúng như vậy; tôn giả Gotama có phải là người như vậy hay không phải là người như vậy?" {#5}
 
-Atha kho bhagavato etadahosi: “passati kho me ayaṁ uttaro māṇavo dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena thapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya cā”ti.
+"Này Uttara thân mến, trong các thánh thư của chúng ta có truyền lại ba mươi hai dấu hiệu của bậc vĩ nhân. Bậc vĩ nhân nào mang đầy đủ những dấu hiệu này thì chỉ có hai con đường, không có con đường nào khác. Nếu sống đời tại gia, vị ấy sẽ trở thành vị vua chuyển luân, bậc quân vương cai trị theo quy luật, chinh phục bốn phương, mang lại sự ổn định cho quốc gia và sở hữu bảy báu vật. Bảy báu vật của vị ấy là: bánh xe báu, voi báu, ngựa báu, ngọc báu, nữ báu, gia chủ báu và tướng quân báu là thứ bảy. Vị ấy có hơn một ngàn người con trai dũng cảm, oai hùng, có khả năng đè bẹp quân thù. Vị ấy cai trị toàn bộ trái đất cho đến tận bờ biển, không dùng hình phạt, không dùng vũ khí mà dùng quy luật. Nhưng nếu vị ấy rời bỏ gia đình, xuất gia sống đời không nhà, vị ấy sẽ trở thành bậc xứng đáng, người tỉnh thức hoàn toàn, cất lên bức màn che lấp thế gian. Này Uttara thân mến, ta là người trao truyền các thánh thư, còn con là người tiếp nhận các thánh thư."
 
-7\. Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā addasa uttaro māṇavo bhagavato kosohitaṁ vatthaguyhaṁ. Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi; ubhopi nāsikasotāni anumasi paṭimasi; kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi. {#7}
+6\. "Thưa vâng, tôn sư", thanh niên Uttara vâng lời vị Bà-la-môn Brahmāyu, đứng dậy khỏi chỗ ngồi, đảnh lễ vị Bà-la-môn Brahmāyu, đi nhiễu quanh ông rồi lên đường đi du hành trong xứ Videha hướng về nơi Đức Phật đang ở. Đi du hành dần dần, thanh niên đến nơi Đức Phật đang ở; sau khi đến, thanh niên chào hỏi Đức Phật. Sau khi trao đổi những lời chào hỏi thân hữu, thanh niên ngồi xuống một bên. Ngồi một bên, thanh niên Uttara quan sát trên thân Đức Phật ba mươi hai dấu hiệu của bậc vĩ nhân. Thanh niên Uttara nhìn thấy trên thân Đức Phật hầu hết ba mươi hai dấu hiệu của bậc vĩ nhân, ngoại trừ hai dấu hiệu. Về hai dấu hiệu của bậc vĩ nhân này, thanh niên nghi ngờ, phân vân, không tin tưởng, không thỏa mãn - đó là *bộ phận sinh dục ẩn trong bọc* (âm tàng tướng / kosohite ca vatthaguyhe) và *cái lưỡi lớn và dài* (quảng trường thiệt tướng / pahūtajivhatāya). {#6}
 
-8\. Atha kho uttarassa māṇavassa etadahosi: “samannāgato kho samaṇo gotamo dvattiṁsamahāpurisalakkhaṇehi. Yannūnāhaṁ samaṇaṁ gotamaṁ anubandheyyaṁ, iriyāpathamassa passeyyan”ti. Atha kho uttaro māṇavo sattamāsāni bhagavantaṁ anubandhi chāyāva anapāyinī. {#8}
+Rồi Đức Phật khởi lên suy nghĩ: "Thanh niên Uttara này đang quan sát ba mươi hai dấu hiệu của bậc vĩ nhân trên thân Ta, và đã thấy hầu hết, ngoại trừ hai dấu hiệu. Về hai dấu hiệu của bậc vĩ nhân này, thanh niên ấy nghi ngờ, phân vân, không tin tưởng, không thỏa mãn - đó là bộ phận sinh dục ẩn trong bọc và cái lưỡi lớn và dài."
 
-Atha kho uttaro māṇavo sattannaṁ māsānaṁ accayena videhesu yena mithilā tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena mithilā yena brahmāyu brāhmaṇo tenupasaṅkami; upasaṅkamitvā brahmāyuṁ brāhmaṇaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho uttaraṁ māṇavaṁ brahmāyu brāhmaṇo etadavoca: “kacci, tāta uttara, taṁ bhavantaṁ gotamaṁ tathā santaṁyeva saddo abbhuggato, no aññathā? Kacci pana so bhavaṁ gotamo tādiso, no aññādiso”ti?
+7\. Rồi Đức Phật thực hiện một phép thần thông khiến cho thanh niên Uttara có thể nhìn thấy bộ phận sinh dục ẩn trong bọc của Đức Phật. Tiếp đó, Đức Phật thè lưỡi ra, chạm và liếm cả hai lỗ tai; chạm và liếm cả hai lỗ mũi; và dùng lưỡi che kín toàn bộ vầng trán. {#7}
 
-“Tathā santaṁyeva, bho, taṁ bhavantaṁ gotamaṁ saddo abbhuggato, no aññathā; tādisova so bhavaṁ gotamo, no aññādiso. Samannāgato ca so bhavaṁ gotamo dvattiṁsamahāpurisalakkhaṇehi.
+8\. Rồi thanh niên Uttara khởi lên suy nghĩ: "Sa-môn Gotama mang đầy đủ ba mươi hai dấu hiệu của bậc vĩ nhân. Hay là ta hãy đi theo sa-môn Gotama để quan sát *cách hành xử* (oai nghi / iriyāpatha) của Ngài." Rồi thanh niên Uttara đi theo Đức Phật suốt bảy tháng như bóng không rời hình. {#8}
 
-9\. Suppatiṭṭhitapādo kho pana bho bhavaṁ gotamo; idampi tassa bhoto gotamassa mahāpurisassa mahāpurisalakkhaṇaṁ bhavati. {#9}
+Sau khi bảy tháng trôi qua, thanh niên Uttara rời xứ Videha đi du hành hướng về Mithilā. Đi du hành dần dần, thanh niên đến Mithilā, đi đến nơi vị Bà-la-môn Brahmāyu đang ở; sau khi đến, đảnh lễ vị Bà-la-môn Brahmāyu rồi ngồi xuống một bên. Khi thanh niên Uttara đang ngồi một bên, vị Bà-la-môn Brahmāyu nói: "Này Uttara thân mến, tiếng đồn về tôn giả Gotama có đúng như vậy không, hay là khác đi? Tôn giả Gotama có phải là người như vậy không, hay là người khác đi?"
 
-Heṭṭhā kho pana tassa bhoto gotamassa pādatalesu cakkāni jātāni sahassārāni sanemikāni sanābhikāni sabbākāraparipūrāni …
+"Thưa tôn sư, tiếng đồn về tôn giả Gotama đúng là như vậy, không phải khác đi; tôn giả Gotama đúng là người như vậy, không phải người khác đi. Tôn giả Gotama mang đầy đủ ba mươi hai dấu hiệu của bậc vĩ nhân.
 
-Āyatapaṇhi kho pana so bhavaṁ gotamo …
+9\. Tôn giả Gotama có bàn chân đặt bằng phẳng; đây là một dấu hiệu vĩ nhân của tôn giả Gotama. {#9}
 
-Dīghaṅguli kho pana so bhavaṁ gotamo …
+Dưới lòng bàn chân của tôn giả Gotama có hình bánh xe với ngàn căm, có vành, có trục, hoàn hảo mọi chi tiết...
 
-Mudutalunahatthapādo kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có gót chân dài...
 
-Jālahatthapādo kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có ngón tay ngón chân dài...
 
-Ussaṅkhapādo kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có tay chân mềm mại...
 
-Eṇijaṅgho kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có tay chân như màng lưới...
 
-Ṭhitako kho pana so bhavaṁ gotamo anonamanto ubhohi pāṇitalehi jaṇṇukāni parimasati parimajjati …
+Tôn giả Gotama có mắt cá chân cao...
 
-Kosohitavatthaguyho kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có bắp chân như con linh dương...
 
-Suvaṇṇavaṇṇo kho pana so bhavaṁ gotamo kañcanasannibhattaco …
+Tôn giả Gotama đứng thẳng không cúi xuống vẫn có thể dùng hai bàn tay chạm và xoa bóp đầu gối...
 
-Sukhumacchavi kho pana so bhavaṁ gotamo. Sukhumattā chaviyā rajojallaṁ kāye na upalimpati …
+Tôn giả Gotama có bộ phận sinh dục ẩn trong bọc...
 
-Ekekalomo kho pana so bhavaṁ gotamo; ekekāni lomāni lomakūpesu jātāni …
+Tôn giả Gotama có làn da màu vàng ươm, nước da như vàng ròng...
 
-Uddhaggalomo kho pana so bhavaṁ gotamo; uddhaggāni lomāni jātāni nīlāni añjanavaṇṇāni kuṇḍalāvaṭṭāni dakkhiṇāvaṭṭakajātāni …
+Tôn giả Gotama có làn da mịn màng. Vì da mịn màng nên bụi bẩn không bám vào thân...
 
-Brahmujugatto kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có mỗi lỗ chân lông chỉ mọc một sợi lông; mỗi sợi lông mọc trong một lỗ chân lông...
 
-Sattussado kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có lông mọc hướng lên; các sợi lông mọc hướng lên có màu xanh biếc như thuốc bôi mắt, xoắn lại và cuộn về bên phải...
 
-Sīhapubbaddhakāyo kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có thân hình thẳng đứng như Phạm thiên...
 
-Citantaraṁso kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có bảy chỗ đầy đặn...
 
-Nigrodhaparimaṇḍalo kho pana so bhavaṁ gotamo; yāvatakvassa kāyo tāvatakvassa byāmo, yāvatakvassa byāmo tāvatakvassa kāyo …
+Tôn giả Gotama có nửa thân trước như sư tử...
 
-Samavaṭṭakkhandho kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có lưng không có rãnh...
 
-Rasaggasaggī kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có thân hình cân đối như cây bàng; chiều cao của thân bằng với sải tay, sải tay bằng với chiều cao của thân...
 
-Sīhahanu kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có vai tròn đều...
 
-Cattālīsadanto kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có vị giác vô cùng nhạy bén...
 
-Samadanto kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có quai hàm như sư tử...
 
-Aviraḷadanto kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có bốn mươi cái răng...
 
-Susukkadāṭho kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có răng đều đặn...
 
-Pahūtajivho kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có răng không có kẽ hở...
 
-Brahmassaro kho pana so bhavaṁ gotamo karavikabhāṇī …
+Tôn giả Gotama có răng nanh trắng sáng...
 
-Abhinīlanetto kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có cái lưỡi lớn và dài...
 
-Gopakhumo kho pana so bhavaṁ gotamo …
+Tôn giả Gotama có giọng nói vang rền như Phạm thiên, nói như chim ca-lăng-tần-già...
 
-Uṇṇā kho panassa bhoto gotamassa bhamukantare jātā odātā mudutūlasannibhā …
+Tôn giả Gotama có đôi mắt màu xanh biếc...
 
-Uṇhīsasīso kho pana so bhavaṁ gotamo; idampi tassa bhoto gotamassa mahāpurisassa mahāpurisalakkhaṇaṁ bhavati.
+Tôn giả Gotama có lông mi như bò cái...
 
-Imehi kho, bho, so bhavaṁ gotamo dvattiṁsamahāpurisalakkhaṇehi samannāgato.
+Tôn giả Gotama có một sợi lông trắng mọc giữa hai chân mày, mềm mại như bông gòn...
 
-10\. Gacchanto kho pana so bhavaṁ gotamo dakkhiṇeneva pādena paṭhamaṁ pakkamati. So nātidūre pādaṁ uddharati, nāccāsanne pādaṁ nikkhipati; so nātisīghaṁ gacchati, nātisaṇikaṁ gacchati; na ca adduvena adduvaṁ saṅghaṭṭento gacchati, na ca gopphakena gopphakaṁ saṅghaṭṭento gacchati. So gacchanto na satthiṁ unnāmeti, na satthiṁ onāmeti; na satthiṁ sannāmeti, na satthiṁ vināmeti. Gacchato kho pana tassa bhoto gotamassa adharakāyova iñjati, na ca kāyabalena gacchati. Apalokento kho pana so bhavaṁ gotamo sabbakāyeneva apaloketi; so na uddhaṁ ulloketi, na adho oloketi; na ca vipekkhamāno gacchati, yugamattañca pekkhati; tato cassa uttari anāvaṭaṁ ñāṇadassanaṁ bhavati. {#10}
+Tôn giả Gotama có nhục kế trên đỉnh đầu; đây cũng là một dấu hiệu vĩ nhân của tôn giả Gotama.
 
-11\. So antaragharaṁ pavisanto na kāyaṁ unnāmeti, na kāyaṁ onāmeti; na kāyaṁ sannāmeti, na kāyaṁ vināmeti. {#11}
+Thưa tôn sư, tôn giả Gotama mang đầy đủ ba mươi hai dấu hiệu của bậc vĩ nhân này.
 
-12\. So nātidūre nāccāsanne āsanassa parivattati, na ca pāṇinā ālambitvā āsane nisīdati, na ca āsanasmiṁ kāyaṁ pakkhipati. So antaraghare nisinno samāno na hatthakukkuccaṁ āpajjati, na pādakukkuccaṁ āpajjati; na adduvena adduvaṁ āropetvā nisīdati; na ca gopphakena gopphakaṁ āropetvā nisīdati; na ca pāṇinā hanukaṁ upadahitvā nisīdati. So antaraghare nisinno samāno na chambhati na kampati na vedhati na paritassati. So achambhī akampī avedhī aparitassī vigatalomahaṁso. Vivekavatto ca so bhavaṁ gotamo antaraghare nisinno hoti. {#12}
+10\. Khi bước đi, tôn giả Gotama bước chân phải lên trước. Ngài nhấc chân không quá xa, đặt chân xuống không quá gần; Ngài đi không quá nhanh, đi không quá chậm; Ngài đi không để đầu gối cọ vào đầu gối, không để mắt cá cọ vào mắt cá. Khi bước đi, Ngài không nhô đùi lên, không hạ đùi xuống; không vặn đùi vào trong, không bẻ đùi ra ngoài. Khi tôn giả Gotama bước đi, chỉ có phần thân dưới chuyển động, và Ngài không dùng sức mạnh của thân để đi. Khi nhìn, tôn giả Gotama nhìn bằng toàn bộ thân; Ngài không nhìn ngược lên trên, không nhìn cúi xuống dưới; Ngài không ngó nghiêng khi đi, và chỉ nhìn xa khoảng một cái ách; vượt ra ngoài khoảng đó, Ngài có *sự thấy rõ bản chất* (tri kiến / dassanā) không bị che chướng. {#10}
 
-13\. So pattodakaṁ paṭiggaṇhanto na pattaṁ unnāmeti, na pattaṁ onāmeti; na pattaṁ sannāmeti, na pattaṁ vināmeti. {#13}
+11\. Khi bước vào nhà, Ngài không vươn thân lên, không cúi thân xuống; không vặn thân vào trong, không bẻ thân ra ngoài. {#11}
 
-14\. So pattodakaṁ paṭiggaṇhāti nātithokaṁ nātibahuṁ. So na khulukhulukārakaṁ pattaṁ dhovati, na samparivattakaṁ pattaṁ dhovati, na pattaṁ bhūmiyaṁ nikkhipitvā hatthe dhovati; hatthesu dhotesu patto dhoto hoti, patte dhote hatthā dhotā honti. So pattodakaṁ chaḍḍeti nātidūre nāccāsanne, na ca vicchaḍḍayamāno. So odanaṁ paṭiggaṇhanto na pattaṁ unnāmeti, na pattaṁ onāmeti; na pattaṁ sannāmeti, na pattaṁ vināmeti. So odanaṁ paṭiggaṇhāti nātithokaṁ nātibahuṁ. Byañjanaṁ kho pana bhavaṁ gotamo byañjanamattāya āhāreti, na ca byañjanena ālopaṁ atināmeti. Dvattikkhattuṁ kho bhavaṁ gotamo mukhe ālopaṁ samparivattetvā ajjhoharati; na cassa kāci odanamiñjā asambhinnā kāyaṁ pavisati, na cassa kāci odanamiñjā mukhe avasiṭṭhā hoti; athāparaṁ ālopaṁ upanāmeti. Rasapaṭisaṁvedī kho pana so bhavaṁ gotamo āhāraṁ āhāreti, no ca rasarāgapaṭisaṁvedī. {#14}
+12\. Ngài quay lưng lại chỗ ngồi không quá xa, không quá gần; Ngài không dùng tay chống khi ngồi xuống ghế, và không thả phịch thân xuống ghế. Khi ngồi trong nhà, Ngài không có cử chỉ bồn chồn ở tay, không có cử chỉ bồn chồn ở chân; Ngài không ngồi gác đầu gối lên đầu gối; không ngồi gác mắt cá lên mắt cá; và không ngồi dùng tay chống cằm. Khi ngồi trong nhà, Ngài không sợ hãi, không run rẩy, không dao động, không hoảng hốt. Ngài không sợ hãi, không run rẩy, không dao động, không hoảng hốt, không dựng tóc gáy. Tôn giả Gotama ngồi trong nhà với thái độ *rời bỏ* (viễn ly / viveka). {#12}
 
-Aṭṭhaṅgasamannāgataṁ kho pana so bhavaṁ gotamo āhāraṁ āhāreti—neva davāya, na madāya na maṇḍanāya na vibhūsanāya, yāvadeva imassa kāyassa ṭhitiyā yāpanāya, vihiṁsūparatiyā brahmacariyānuggahāya: ‘iti purāṇañca vedanaṁ paṭihaṅkhāmi navañca vedanaṁ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’ti.
+13\. Khi nhận nước rửa bát, Ngài không nâng bát lên, không hạ bát xuống; không nghiêng bát vào trong, không nghiêng bát ra ngoài. {#13}
 
-15\. So bhuttāvī pattodakaṁ paṭiggaṇhanto na pattaṁ unnāmeti, na pattaṁ onāmeti; na pattaṁ sannāmeti, na pattaṁ vināmeti. So pattodakaṁ paṭiggaṇhāti nātithokaṁ nātibahuṁ. So na khulukhulukārakaṁ pattaṁ dhovati, na samparivattakaṁ pattaṁ dhovati, na pattaṁ bhūmiyaṁ nikkhipitvā hatthe dhovati; hatthesu dhotesu patto dhoto hoti, patte dhote hatthā dhotā honti. So pattodakaṁ chaḍḍeti nātidūre nāccāsanne, na ca vicchaḍḍayamāno. {#15}
+14\. Ngài nhận nước rửa bát không quá ít, không quá nhiều. Ngài rửa bát không tạo ra tiếng kêu rổn rảng, không xoay tròn bát để rửa, không đặt bát xuống đất rồi mới rửa tay; khi tay được rửa sạch thì bát cũng sạch, khi bát được rửa sạch thì tay cũng sạch. Ngài đổ nước rửa bát không quá xa, không quá gần, và không làm nước văng tung tóe. Khi nhận cơm, Ngài không nâng bát lên, không hạ bát xuống; không nghiêng bát vào trong, không nghiêng bát ra ngoài. Ngài nhận cơm không quá ít, không quá nhiều. Tôn giả Gotama dùng thức ăn kèm vừa đủ với lượng cơm, và không dùng thức ăn kèm vượt quá miếng cơm. Tôn giả Gotama nhai miếng cơm trong miệng hai ba lần rồi mới nuốt; không có hạt cơm nào chưa được nhai nát đi vào cơ thể, và không có hạt cơm nào còn sót lại trong miệng; sau đó Ngài mới đưa miếng khác vào. Tôn giả Gotama *trải nghiệm trực tiếp* (thọ / vedeti) vị giác khi dùng thức ăn, nhưng không *đắm nhiễm* (tham / rāga) vào vị giác. {#14}
 
-16\. So bhuttāvī na pattaṁ bhūmiyaṁ nikkhipati nātidūre nāccāsanne, na ca anatthiko pattena hoti, na ca ativelānurakkhī pattasmiṁ. {#16}
+Tôn giả Gotama dùng thức ăn hội đủ tám yếu tố - không phải để vui đùa, không phải để say sưa, không phải để trang điểm, không phải để làm đẹp, mà chỉ để duy trì và nuôi dưỡng thân này, để tránh làm hại và để hỗ trợ *đời sống thánh thiện*: 'Như vậy Ta sẽ diệt trừ cảm giác cũ và không làm khởi lên cảm giác mới, Ta sẽ duy trì mạng sống, không có lỗi lầm và sống được thoải mái'.
 
-17\. So bhuttāvī muhuttaṁ tuṇhī nisīdati, na ca anumodanassa kālamatināmeti. So bhuttāvī anumodati, na taṁ bhattaṁ garahati, na aññaṁ bhattaṁ paṭikaṅkhati; aññadatthu dhammiyā kathāya taṁ parisaṁ sandasseti samādapeti samuttejeti sampahaṁseti. So taṁ parisaṁ dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā uṭṭhāyāsanā pakkamati. {#17}
+15\. Sau khi ăn xong, khi nhận nước rửa bát, Ngài không nâng bát lên, không hạ bát xuống; không nghiêng bát vào trong, không nghiêng bát ra ngoài. Ngài nhận nước rửa bát không quá ít, không quá nhiều. Ngài rửa bát không tạo ra tiếng kêu rổn rảng, không xoay tròn bát để rửa, không đặt bát xuống đất rồi mới rửa tay; khi tay được rửa sạch thì bát cũng sạch, khi bát được rửa sạch thì tay cũng sạch. Ngài đổ nước rửa bát không quá xa, không quá gần, và không làm nước văng tung tóe. {#15}
 
-18\. So nātisīghaṁ gacchati, nātisaṇikaṁ gacchati, na ca muccitukāmo gacchati; {#18}
+16\. Sau khi ăn xong, Ngài không đặt bát xuống đất quá xa, không quá gần; Ngài không hờ hững với chiếc bát, cũng không quá bận tâm bảo vệ chiếc bát. {#16}
 
-19\. na ca tassa bhoto gotamassa kāye cīvaraṁ accukkaṭṭhaṁ hoti na ca accokkaṭṭhaṁ, na ca kāyasmiṁ allīnaṁ na ca kāyasmā apakaṭṭhaṁ; na ca tassa bhoto gotamassa kāyamhā vāto cīvaraṁ apavahati; na ca tassa bhoto gotamassa kāye rajojallaṁ upalimpati. {#19}
+17\. Sau khi ăn xong, Ngài ngồi im lặng một lát, nhưng không để lỡ thời gian nói lời tùy hỷ. Sau khi ăn xong, Ngài nói lời tùy hỷ, không chê bai bữa ăn đó, không mong cầu một bữa ăn khác; trái lại, Ngài dùng *bài giảng về Giáo pháp* (pháp thoại / dhammiyā kathāya) để hướng dẫn, khích lệ, làm phấn chấn và làm hoan hỷ hội chúng đó. Sau khi dùng *bài giảng về Giáo pháp* hướng dẫn, khích lệ, làm phấn chấn và làm hoan hỷ hội chúng đó, Ngài đứng dậy khỏi chỗ ngồi và rời đi. {#17}
 
-20\. So ārāmagato nisīdati paññatte āsane. Nisajja pāde pakkhāleti; na ca so bhavaṁ gotamo pādamaṇḍanānuyogamanuyutto viharati. So pāde pakkhāletvā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā. So neva attabyābādhāya ceteti, na parabyābādhāya ceteti, na ubhayabyābādhāya ceteti; attahitaparahitaubhayahitasabbalokahitameva so bhavaṁ gotamo cintento nisinno hoti. So ārāmagato parisati dhammaṁ deseti, na taṁ parisaṁ ussādeti, na taṁ parisaṁ apasādeti; aññadatthu dhammiyā kathāya taṁ parisaṁ sandasseti samādapeti samuttejeti sampahaṁseti. {#20}
+18\. Ngài đi không quá nhanh, đi không quá chậm, và không đi với vẻ muốn trốn tránh. {#18}
 
-21\. Aṭṭhaṅgasamannāgato kho panassa bhoto gotamassa mukhato ghoso niccharati—vissaṭṭho ca, viññeyyo ca, mañju ca, savanīyo ca, bindu ca, avisārī ca, gambhīro ca, ninnādī ca. Yathāparisaṁ kho pana so bhavaṁ gotamo sarena viññāpeti, na cassa bahiddhā parisāya ghoso niccharati. Te tena bhotā gotamena dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā uṭṭhāyāsanā pakkamanti avalokayamānāyeva avijahitattā. {#21}
+19\. Y phục trên thân tôn giả Gotama không được mặc quá cao, không quá thấp, không dính sát vào thân, không quá lỏng lẻo; gió không thể thổi tung y phục trên thân tôn giả Gotama; và bụi bẩn không bám vào thân tôn giả Gotama. {#19}
 
-22\. Addasāma kho mayaṁ, bho, taṁ bhavantaṁ gotamaṁ gacchantaṁ, addasāma ṭhitaṁ, addasāma antaragharaṁ pavisantaṁ, addasāma antaraghare nisinnaṁ tuṇhībhūtaṁ, addasāma antaraghare bhuñjantaṁ, addasāma bhuttāviṁ nisinnaṁ tuṇhībhūtaṁ, addasāma bhuttāviṁ anumodantaṁ, addasāma ārāmaṁ gacchantaṁ, addasāma ārāmagataṁ nisinnaṁ tuṇhībhūtaṁ, addasāma ārāmagataṁ parisati dhammaṁ desentaṁ. Ediso ca ediso ca so bhavaṁ gotamo, tato ca bhiyyo”ti. {#22}
+20. Khi đến tu viện, Ngài ngồi trên chỗ ngồi đã được dọn sẵn. Sau khi ngồi, Ngài rửa chân; nhưng tôn giả Gotama không bận tâm đến việc trang điểm cho đôi chân. Sau khi rửa chân, Ngài ngồi kiết già, giữ thân thẳng đứng, *tập trung chú ý* (niệm / sati) ra phía trước. Ngài không suy nghĩ để làm hại mình, không suy nghĩ để làm hại người, không suy nghĩ để làm hại cả hai; tôn giả Gotama ngồi suy nghĩ chỉ vì lợi ích cho mình, lợi ích cho người, lợi ích cho cả hai và lợi ích cho toàn thế giới. Khi ở trong tu viện, Ngài giảng *Giáo pháp* cho hội chúng, không tâng bốc hội chúng, không hạ thấp hội chúng; trái lại, Ngài dùng *bài giảng về Giáo pháp* để hướng dẫn, khích lệ, làm phấn chấn và làm hoan hỷ hội chúng đó. {#20}
 
-23\. Evaṁ vutte, brahmāyu brāhmaṇo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā tikkhattuṁ udānaṁ udāneti: {#23}
+21\. Âm thanh phát ra từ miệng tôn giả Gotama hội đủ tám yếu tố - rõ ràng, dễ hiểu, êm ái, dễ nghe, tròn vành, không phân tán, sâu lắng và vang rền. Tôn giả Gotama dùng giọng nói để truyền đạt vừa đủ cho hội chúng nghe, âm thanh không lọt ra ngoài hội chúng. Những người được tôn giả Gotama dùng *bài giảng về Giáo pháp* hướng dẫn, khích lệ, làm phấn chấn và làm hoan hỷ, khi đứng dậy rời đi, họ vẫn ngoái nhìn lại mà không muốn rời mắt. {#21}
 
-“Namo tassa bhagavato arahato sammāsambuddhassa.
+22\. Thưa tôn sư, chúng con đã thấy tôn giả Gotama khi bước đi, đã thấy khi đứng, đã thấy khi bước vào nhà, đã thấy khi ngồi im lặng trong nhà, đã thấy khi dùng bữa trong nhà, đã thấy khi ngồi im lặng sau bữa ăn, đã thấy khi nói lời tùy hỷ sau bữa ăn, đã thấy khi đi đến tu viện, đã thấy khi ngồi im lặng trong tu viện, đã thấy khi giảng *Giáo pháp* cho hội chúng trong tu viện. Tôn giả Gotama là người như thế này và như thế này, và còn hơn thế nữa." {#22}
 
-Namo tassa bhagavato arahato sammāsambuddhassa.
+23\. Khi được nói như vậy, vị Bà-la-môn Brahmāyu đứng dậy khỏi chỗ ngồi, đắp y trật một bên vai, chắp tay hướng về phía Đức Phật và thốt lên ba lần lời cảm hứng: {#23}
 
-Namo tassa bhagavato arahato sammāsambuddhassāti.
+"Kính lễ Đức Thế Tôn, bậc xứng đáng, người tỉnh thức hoàn toàn.
 
-Appeva nāma mayaṁ kadāci karahaci tena bhotā gotamena samāgaccheyyāma? Appeva nāma siyā kocideva kathāsallāpo”ti.
+Kính lễ Đức Thế Tôn, bậc xứng đáng, người tỉnh thức hoàn toàn.
 
-24\. Atha kho bhagavā videhesu anupubbena cārikaṁ caramāno yena mithilā tadavasari. Tatra sudaṁ bhagavā mithilāyaṁ viharati maghadevaambavane. {#24}
+Kính lễ Đức Thế Tôn, bậc xứng đáng, người tỉnh thức hoàn toàn.
 
-Assosuṁ kho mithileyyakā brāhmaṇagahapatikā: “samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito videhesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi mithilaṁ anuppatto, mithilāyaṁ viharati maghadevaambavane. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
+Mong sao một lúc nào đó, một dịp nào đó, chúng ta có thể gặp được tôn giả Gotama. Mong sao có được một cuộc trò chuyện."
 
-25\. Atha kho mithileyyakā brāhmaṇagahapatikā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu; appekacce bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu; appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu; appekacce bhagavato santike nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu; appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu. {#25}
+24\. Rồi Đức Phật đi du hành dần dần trong xứ Videha và đến Mithilā. Tại đó, Đức Phật cư ngụ ở Mithilā, trong rừng xoài Makhādeva. {#24}
 
-26\. Assosi kho brahmāyu brāhmaṇo: “samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito mithilaṁ anuppatto, mithilāyaṁ viharati maghadevaambavane”ti. Atha kho brahmāyu brāhmaṇo sambahulehi sāvakehi saddhiṁ yena maghadevaambavanaṁ tenupasaṅkami. {#26}
+Các Bà-la-môn và gia chủ ở Mithilā nghe nói: "Này các tôn giả, sa-môn Gotama là con trai nhà Sakya, xuất gia từ gia tộc Sakya, đang du hành trong xứ Videha cùng với một hội chúng tỳ kheo đông đảo khoảng năm trăm vị, đã đến Mithilā và đang cư ngụ ở Mithilā, trong rừng xoài Makhādeva. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Ngài là Đức Phật, bậc xứng đáng, người tỉnh thức hoàn toàn [...lặp lại...] Thật tốt đẹp thay khi được chiêm ngưỡng một bậc xứng đáng như vậy'."
 
-Atha kho brahmāyuno brāhmaṇassa avidūre ambavanassa etadahosi: “na kho metaṁ patirūpaṁ yohaṁ pubbe appaṭisaṁvidito samaṇaṁ gotamaṁ dassanāya upasaṅkameyyan”ti.
+25\. Rồi các Bà-la-môn và gia chủ ở Mithilā đi đến nơi Đức Phật đang ở; sau khi đến, một số đảnh lễ Đức Phật rồi ngồi xuống một bên; một số trao đổi những lời chào hỏi thân hữu với Đức Phật, sau khi trao đổi những lời chào hỏi thân hữu thì ngồi xuống một bên; một số chắp tay hướng về phía Đức Phật rồi ngồi xuống một bên; một số xưng tên và dòng họ trước mặt Đức Phật rồi ngồi xuống một bên; một số giữ im lặng rồi ngồi xuống một bên. {#25}
 
-Atha kho brahmāyu brāhmaṇo aññataraṁ māṇavakaṁ āmantesi: “ehi tvaṁ, māṇavaka, yena samaṇo gotamo tenupasaṅkama; upasaṅkamitvā mama vacanena samaṇaṁ gotamaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha: ‘brahmāyu, bho gotama, brāhmaṇo bhavantaṁ gotamaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti. Evañca vadehi: ‘brahmāyu, bho gotama, brāhmaṇo jiṇṇo vuḍḍho mahallako addhagato vayoanuppatto, vīsavassasatiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo. Yāvatā, bho, brāhmaṇagahapatikā mithilāyaṁ paṭivasanti, brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—yadidaṁ bhogehi; brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—yadidaṁ mantehi; brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—yadidaṁ āyunā ceva yasasā ca. So bhoto gotamassa dassanakāmo’”ti.
+26\. Vị Bà-la-môn Brahmāyu nghe nói: "Này các tôn giả, sa-môn Gotama là con trai nhà Sakya, xuất gia từ gia tộc Sakya, đã đến Mithilā và đang cư ngụ ở Mithilā, trong rừng xoài Makhādeva." Rồi vị Bà-la-môn Brahmāyu cùng với đông đảo đệ tử đi đến rừng xoài Makhādeva. {#26}
 
-“Evaṁ, bho”ti kho so māṇavako brahmāyussa brāhmaṇassa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho so māṇavako bhagavantaṁ etadavoca: “brahmāyu, bho gotama, brāhmaṇo bhavantaṁ gotamaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati; evañca vadeti: ‘brahmāyu, bho gotama, brāhmaṇo jiṇṇo vuḍḍho mahallako addhagato vayoanuppatto, vīsavassasatiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo. Yāvatā, bho, brāhmaṇagahapatikā mithilāyaṁ paṭivasanti, brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—yadidaṁ bhogehi; brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—yadidaṁ mantehi; brahmāyu tesaṁ brāhmaṇo aggamakkhāyati—yadidaṁ āyunā ceva yasasā ca. So bhoto gotamassa dassanakāmo’”ti. “Yassadāni, māṇava, brahmāyu brāhmaṇo kālaṁ maññatī”ti.
+Khi đến gần rừng xoài, vị Bà-la-môn Brahmāyu khởi lên suy nghĩ: "Thật không thích hợp nếu ta đi đến gặp sa-môn Gotama mà không báo trước."
 
-27\. Atha kho so māṇavako yena brahmāyu brāhmaṇo tenupasaṅkami; upasaṅkamitvā brahmāyuṁ brāhmaṇaṁ etadavoca: “katāvakāso khomhi bhavatā samaṇena gotamena. Yassadāni bhavaṁ kālaṁ maññatī”ti. {#27}
+Rồi vị Bà-la-môn Brahmāyu gọi một thanh niên đệ tử: "Này thanh niên, con hãy đi đến nơi sa-môn Gotama đang ở; sau khi đến, nhân danh ta, hãy hỏi thăm sa-môn Gotama có ít bệnh, ít não, nhẹ nhàng, khỏe mạnh và sống thoải mái không: 'Thưa tôn giả Gotama, Bà-la-môn Brahmāyu hỏi thăm tôn giả Gotama có ít bệnh, ít não, nhẹ nhàng, khỏe mạnh và sống thoải mái không'. Và hãy nói như sau: 'Thưa tôn giả Gotama, Bà-la-môn Brahmāyu đã già yếu, cao tuổi, bậc lão thành, đã đi qua phần lớn cuộc đời, đã đến tuổi xế bóng, tuổi thọ đã một trăm hai mươi năm. Ông là người thấu suốt ba tập Vệ-đà, thông thạo các từ vựng, nghi thức, ngữ âm học, từ nguyên học và lịch sử là môn thứ năm; là người am hiểu ngữ pháp, biện luận và không thiếu sót về các học thuyết thế gian cũng như ba mươi hai dấu hiệu của bậc vĩ nhân. Trong số các Bà-la-môn và gia chủ cư ngụ tại Mithilā, Brahmāyu được xưng tụng là người đứng đầu về tài sản; Brahmāyu được xưng tụng là người đứng đầu về các thánh thư; Brahmāyu được xưng tụng là người đứng đầu về tuổi thọ và danh tiếng. Ông ấy mong muốn được chiêm ngưỡng tôn giả Gotama'."
 
-28\. Atha kho brahmāyu brāhmaṇo yena bhagavā tenupasaṅkami. Addasā kho sā parisā brahmāyuṁ brāhmaṇaṁ dūratova āgacchantaṁ. Disvāna oramiya okāsamakāsi yathā taṁ ñātassa yasassino. {#28}
+"Thưa vâng, tôn sư", thanh niên ấy vâng lời vị Bà-la-môn Brahmāyu, đi đến nơi Đức Phật đang ở; sau khi đến, trao đổi những lời chào hỏi thân hữu với Đức Phật. Sau khi trao đổi những lời chào hỏi thân hữu, thanh niên đứng một bên. Đứng một bên, thanh niên ấy thưa với Đức Phật: "Thưa tôn giả Gotama, Bà-la-môn Brahmāyu hỏi thăm tôn giả Gotama có ít bệnh, ít não, nhẹ nhàng, khỏe mạnh và sống thoải mái không; và ông ấy nói như sau: 'Thưa tôn giả Gotama, Bà-la-môn Brahmāyu đã già yếu, cao tuổi, bậc lão thành, đã đi qua phần lớn cuộc đời, đã đến tuổi xế bóng, tuổi thọ đã một trăm hai mươi năm. Ông là người thấu suốt ba tập Vệ-đà, thông thạo các từ vựng, nghi thức, ngữ âm học, từ nguyên học và lịch sử là môn thứ năm; là người am hiểu ngữ pháp, biện luận và không thiếu sót về các học thuyết thế gian cũng như ba mươi hai dấu hiệu của bậc vĩ nhân. Trong số các Bà-la-môn và gia chủ cư ngụ tại Mithilā, Brahmāyu được xưng tụng là người đứng đầu về tài sản; Brahmāyu được xưng tụng là người đứng đầu về các thánh thư; Brahmāyu được xưng tụng là người đứng đầu về tuổi thọ và danh tiếng. Ông ấy mong muốn được chiêm ngưỡng tôn giả Gotama'." "Này thanh niên, nay Bà-la-môn Brahmāyu hãy làm những gì ông ấy cho là đúng lúc."
 
-Atha kho brahmāyu brāhmaṇo taṁ parisaṁ etadavoca: “alaṁ, bho. Nisīdatha tumhe sake āsane. Idhāhaṁ samaṇassa gotamassa santike nisīdissāmī”ti.
+27\. Rồi thanh niên ấy đi đến nơi vị Bà-la-môn Brahmāyu đang ở; sau khi đến, thưa với vị Bà-la-môn Brahmāyu: "Tôn giả đã được sa-môn Gotama cho phép. Nay tôn giả hãy làm những gì ngài cho là đúng lúc." {#27}
 
-29\. Atha kho brahmāyu brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho brahmāyu brāhmaṇo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi. Addasā kho brahmāyu brāhmaṇo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya ca. Atha kho brahmāyu brāhmaṇo bhagavantaṁ gāthāhi ajjhabhāsi: {#29}
+28\. Rồi vị Bà-la-môn Brahmāyu đi đến nơi Đức Phật đang ở. Hội chúng nhìn thấy vị Bà-la-môn Brahmāyu đang đi đến từ đằng xa. Thấy vậy, họ liền lùi lại nhường chỗ, như cách đối xử với một người nổi tiếng và có danh vọng. {#28}
 
-> “Ye me dvattiṁsāti sutā,\
-> mahāpurisalakkhaṇā;\
-> Duve tesaṁ na passāmi,\
-> bhoto kāyasmiṁ gotama.
+Rồi vị Bà-la-môn Brahmāyu nói với hội chúng: "Thôi đủ rồi, thưa các tôn giả. Các vị hãy ngồi ở chỗ của mình. Tôi sẽ ngồi ở đây, gần sa-môn Gotama."
 
-> Kacci kosohitaṁ bhoto,\
-> vatthaguyhaṁ naruttama;\
-> Nārīsamānasavhayā,\
-> kacci jivhā na dassakā.
+29\. Rồi vị Bà-la-môn Brahmāyu đi đến nơi Đức Phật đang ở; sau khi đến, trao đổi những lời chào hỏi thân hữu với Đức Phật. Sau khi trao đổi những lời chào hỏi thân hữu, ông ngồi xuống một bên. Ngồi một bên, vị Bà-la-môn Brahmāyu quan sát trên thân Đức Phật ba mươi hai dấu hiệu của bậc vĩ nhân. Vị Bà-la-môn Brahmāyu nhìn thấy trên thân Đức Phật hầu hết ba mươi hai dấu hiệu của bậc vĩ nhân, ngoại trừ hai dấu hiệu. Về hai dấu hiệu của bậc vĩ nhân này, ông nghi ngờ, phân vân, không tin tưởng, không thỏa mãn - đó là bộ phận sinh dục ẩn trong bọc và cái lưỡi lớn và dài. Rồi vị Bà-la-môn Brahmāyu thưa với Đức Phật bằng những vần thơ: {#29}
 
-> Kacci pahūtajivhosi,\
-> yathā taṁ jāniyāmase;\
-> Ninnāmayetaṁ pahūtaṁ,\
-> kaṅkhaṁ vinaya no ise.
+> "Nghe ba mươi hai tướng,\
+> Của một bậc vĩ nhân;\
+> Hai tướng tôi chưa thấy,\
+> Trên thân ngài Cồ-đàm.
 
-> Diṭṭhadhammahitatthāya,\
-> samparāyasukhāya ca;\
-> Katāvakāsā pucchāma,\
-> yaṁ kiñci abhipatthitan”ti.
+> Phần kín của bậc thượng,\
+> Có ẩn trong bọc không?\
+> Lưỡi ngài không ngắn nhỏ,\
+> Như của người nữ nhân?
 
-30\. Atha kho bhagavato etadahosi: “passati kho me ayaṁ brahmāyu brāhmaṇo dvattiṁsamahāpurisalakkhaṇāni, yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya cā”ti. {#30}
+> Ngài có chiếc lưỡi dài,\
+> Để chúng tôi được biết;\
+> Xin thè chiếc lưỡi ra,\
+> Xóa nghi ngờ, hỡi ngài.
 
-Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi yathā addasa brahmāyu brāhmaṇo bhagavato kosohitaṁ vatthaguyhaṁ. Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi; ubhopi nāsikasotāni anumasi paṭimasi; kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi.
+> Vì lợi ích hiện tại,\
+> Và hạnh phúc đời sau;\
+> Được cho phép, tôi hỏi,\
+> Những điều tôi mong cầu."
 
-Atha kho bhagavā brahmāyuṁ brāhmaṇaṁ gāthāhi paccabhāsi:
+30\. Rồi Đức Phật khởi lên suy nghĩ: "Bà-la-môn Brahmāyu này đang quan sát ba mươi hai dấu hiệu của bậc vĩ nhân trên thân Ta, và đã thấy hầu hết, ngoại trừ hai dấu hiệu. Về hai dấu hiệu của bậc vĩ nhân này, ông ấy nghi ngờ, phân vân, không tin tưởng, không thỏa mãn - đó là bộ phận sinh dục ẩn trong bọc và cái lưỡi lớn và dài." {#30}
+
+Rồi Đức Phật thực hiện một phép thần thông khiến cho vị Bà-la-môn Brahmāyu có thể nhìn thấy bộ phận sinh dục ẩn trong bọc của Đức Phật. Tiếp đó, Đức Phật thè lưỡi ra, chạm và liếm cả hai lỗ tai; chạm và liếm cả hai lỗ mũi; và dùng lưỡi che kín toàn bộ vầng trán.
+
+Rồi Đức Phật đáp lại vị Bà-la-môn Brahmāyu bằng những vần thơ:
 
 31\. {#31}
-> “Ye te dvattiṁsāti sutā,\
-> mahāpurisalakkhaṇā;\
-> Sabbe te mama kāyasmiṁ,\
-> mā te kaṅkhāhu brāhmaṇa.
+> "Ba mươi hai tướng ấy,\
+> Của một bậc vĩ nhân;\
+> Đều có trên thân Ta,\
+> Bà-la-môn chớ nghi.
 
-> Abhiññeyyaṁ abhiññātaṁ,\
-> bhāvetabbañca bhāvitaṁ;\
-> Pahātabbaṁ pahīnaṁ me,\
-> tasmā buddhosmi brāhmaṇa.
+> Cần biết, Ta đã biết,\
+> Cần luyện, Ta đã luyện;\
+> Cần bỏ, Ta đã bỏ,\
+> Nên Ta là Phật-đà.
 
-> Diṭṭhadhammahitatthāya,\
-> samparāyasukhāya ca;\
-> Katāvakāso pucchassu,\
-> yaṁ kiñci abhipatthitan”ti.
+> Vì lợi ích hiện tại,\
+> Và hạnh phúc đời sau;\
+> Đã cho phép, hãy hỏi,\
+> Những điều ông mong cầu."
 
-32\. Atha kho brahmāyussa brāhmaṇassa etadahosi: {#32}
+32\. Rồi vị Bà-la-môn Brahmāyu khởi lên suy nghĩ: {#32}
 
-“katāvakāso khomhi samaṇena gotamena. Kiṁ nu kho ahaṁ samaṇaṁ gotamaṁ puccheyyaṁ: ‘diṭṭhadhammikaṁ vā atthaṁ samparāyikaṁ vā’”ti. Atha kho brahmāyussa brāhmaṇassa etadahosi: “kusalo kho ahaṁ diṭṭhadhammikānaṁ atthānaṁ. Aññepi maṁ diṭṭhadhammikaṁ atthaṁ pucchanti. Yannūnāhaṁ samaṇaṁ gotamaṁ samparāyikaṁyeva atthaṁ puccheyyan”ti.
+"Ta đã được sa-môn Gotama cho phép. Vậy ta nên hỏi sa-môn Gotama điều gì: 'Lợi ích trong hiện tại hay lợi ích trong đời sau'?" Rồi vị Bà-la-môn Brahmāyu khởi lên suy nghĩ: "Ta đã thành thạo về những lợi ích trong hiện tại. Những người khác cũng thường hỏi ta về lợi ích trong hiện tại. Hay là ta hãy hỏi sa-môn Gotama về lợi ích trong đời sau."
 
-Atha kho brahmāyu brāhmaṇo bhagavantaṁ gāthāhi ajjhabhāsi:
+Rồi vị Bà-la-môn Brahmāyu thưa với Đức Phật bằng những vần thơ:
 
-> “Kathaṁ kho brāhmaṇo hoti,\
-> kathaṁ bhavati vedagū;\
-> Tevijjo bho kathaṁ hoti,\
-> sotthiyo kinti vuccati.
+> "Sao gọi Bà-la-môn?\
+> Sao gọi người thấu Vệ?\
+> Ba minh là thế nào?\
+> Sao gọi người an tịnh?
 
-> Arahaṁ bho kathaṁ hoti,\
-> kathaṁ bhavati kevalī;\
-> Muni ca bho kathaṁ hoti,\
-> buddho kinti pavuccatī”ti.
+> Sao gọi A-la-hán?\
+> Sao gọi bậc trọn vẹn?\
+> Sao gọi là ẩn sĩ?\
+> Sao gọi là Phật-đà?"
 
-33\. Atha kho bhagavā brahmāyuṁ brāhmaṇaṁ gāthāhi paccabhāsi: {#33}
+33\. Rồi Đức Phật đáp lại vị Bà-la-môn Brahmāyu bằng những vần thơ: {#33}
 
-> “Pubbenivāsaṁ yo vedi,\
-> saggāpāyañca passati;\
-> Atho jātikkhayaṁ patto,\
-> abhiññā vosito muni.
+> "Biết rõ kiếp sống trước,\
+> Thấy cõi trời, cõi đọa;\
+> Đạt chấm dứt tái sinh,\
+> Ẩn sĩ thấu trọn vẹn.
 
-> Cittaṁ visuddhaṁ jānāti,\
-> muttaṁ rāgehi sabbaso;\
-> Pahīnajātimaraṇo,\
-> brahmacariyassa kevalī;\
-> Pāragū sabbadhammānaṁ,\
-> buddho tādī pavuccatī”ti.
+> Biết rõ tâm trong sạch,\
+> Hoàn toàn thoát đắm nhiễm;\
+> Bỏ sinh và bỏ chết,\
+> Trọn vẹn đời thánh thiện;
+> Thấu suốt mọi quy luật,\
+> Gọi vị ấy Phật-đà."
 
-34\. Evaṁ vutte, brahmāyu brāhmaṇo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā bhagavato pādesu sirasā nipatitvā bhagavato pādāni mukhena ca paricumbati, pāṇīhi ca parisambāhati, nāmañca sāveti: “brahmāyu ahaṁ, bho gotama, brāhmaṇo; brahmāyu ahaṁ, bho gotama, brāhmaṇo”ti. {#34}
+34\. Khi được nói như vậy, vị Bà-la-môn Brahmāyu đứng dậy khỏi chỗ ngồi, đắp y trật một bên vai, cúi đầu chạm chân Đức Phật, dùng miệng hôn lên bàn chân Đức Phật, dùng tay xoa bóp và xưng tên: "Thưa tôn giả Gotama, con là Bà-la-môn Brahmāyu; thưa tôn giả Gotama, con là Bà-la-môn Brahmāyu." {#34}
 
-35\. Atha kho sā parisā acchariyabbhutacittajātā ahosi: “acchariyaṁ vata bho, abbhutaṁ vata bho. Yatra hi nāmāyaṁ brahmāyu brāhmaṇo ñāto yasassī evarūpaṁ paramanipaccakāraṁ karissatī”ti. Atha kho bhagavā brahmāyuṁ brāhmaṇaṁ etadavoca: “alaṁ, brāhmaṇa, uṭṭhaha nisīda tvaṁ sake āsane yato te mayi cittaṁ pasannan”ti. Atha kho brahmāyu brāhmaṇo uṭṭhahitvā sake āsane nisīdi. {#35}
+35\. Lúc bấy giờ, hội chúng vô cùng kinh ngạc và sửng sốt: "Thật kỳ diệu thay, thưa các tôn giả, thật phi thường thay, thưa các tôn giả. Vị Bà-la-môn Brahmāyu này là người nổi tiếng và có danh vọng, vậy mà lại thể hiện sự cung kính tột bậc như thế này." Rồi Đức Phật nói với vị Bà-la-môn Brahmāyu: "Thôi đủ rồi, này Bà-la-môn, hãy đứng dậy và ngồi vào chỗ của ông, vì tâm ông đã có niềm tin nơi Ta." Rồi vị Bà-la-môn Brahmāyu đứng dậy và ngồi vào chỗ của mình. {#35}
 
-36\. Atha kho bhagavā brahmāyussa brāhmaṇassa anupubbiṁ kathaṁ kathesi, seyyathidaṁ—dānakathaṁ, sīlakathaṁ, saggakathaṁ; kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ nekkhamme ānisaṁsaṁ pakāsesi. Yadā bhagavā aññāsi brahmāyuṁ brāhmaṇaṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā taṁ pakāsesi—dukkhaṁ, samudayaṁ, nirodhaṁ, maggaṁ. Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya; evameva brahmāyussa brāhmaṇassa tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi: “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. {#36}
+36\. Rồi Đức Phật giảng cho vị Bà-la-môn Brahmāyu một bài giảng tuần tự, đó là - bài giảng về bố thí, bài giảng về đạo đức, bài giảng về cõi trời; Ngài làm sáng tỏ sự nguy hiểm, sự thấp kém, sự ô nhiễm của *bản năng* (dục / kāma) và lợi ích của việc xuất gia. Khi Đức Phật biết tâm của vị Bà-la-môn Brahmāyu đã sẵn sàng, mềm mỏng, không còn *điều làm mờ yếu tâm trí* (triền cái / nīvaraṇa), phấn chấn và có niềm tin, Ngài liền giảng giải cốt lõi Giáo pháp của chư Phật - đau khổ, sự hình thành, sự chấm dứt, con đường. Giống như một tấm vải sạch không có vết bẩn sẽ dễ dàng thấm hút thuốc nhuộm; cũng vậy, ngay tại chỗ ngồi ấy, vị Bà-la-môn Brahmāyu đã phát sinh con mắt Giáo pháp không bụi bẩn, không tì vết: "Phàm điều gì có tính hình thành, tất cả điều đó đều chịu sự cạn khô." {#36}
 
-Atha kho brahmāyu brāhmaṇo diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṁ etadavoca:
+Rồi vị Bà-la-môn Brahmāyu đã thấy Giáo pháp, đã đạt Giáo pháp, đã biết Giáo pháp, đã thâm nhập Giáo pháp, vượt qua nghi ngờ, loại bỏ phân vân, đạt được sự tự tin, không còn phụ thuộc vào người khác trong giáo pháp của Bậc Đạo Sư, ông thưa với Đức Phật:
 
-37\. “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gataṁ. Adhivāsetu ca me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho brahmāyu brāhmaṇo bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. {#37}
+37\. "Thật tuyệt vời, thưa tôn giả Gotama, thật tuyệt vời, thưa tôn giả Gotama. Thưa tôn giả Gotama, giống như người dựng đứng lại những gì bị lật úp, phơi bày ra những gì bị che khuất, chỉ đường cho người bị lạc, hoặc cầm ngọn đèn sáng đi vào bóng tối để những ai có mắt có thể nhìn thấy các hình ảnh; cũng vậy, tôn giả Gotama đã dùng nhiều phương tiện để làm sáng tỏ Giáo pháp. Con xin nương tựa tôn giả Gotama, nương tựa Giáo pháp và nương tựa hội chúng tỳ kheo. Xin tôn giả Gotama nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin nương tựa. Và xin tôn giả Gotama nhận lời mời dùng bữa của con vào ngày mai cùng với hội chúng tỳ kheo." Đức Phật nhận lời bằng cách giữ im lặng. Rồi vị Bà-la-môn Brahmāyu, biết Đức Phật đã nhận lời, liền đứng dậy khỏi chỗ ngồi, đảnh lễ Đức Phật, đi nhiễu quanh Ngài rồi rời đi. {#37}
 
-38\. Atha kho brahmāyu brāhmaṇo tassā rattiyā accayena sake nivesane paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi: “kālo, bho gotama, niṭṭhitaṁ bhattan”ti. {#38}
+38\. Rồi vị Bà-la-môn Brahmāyu, khi đêm đã qua, sai người chuẩn bị các món ăn thượng hạng loại cứng và loại mềm tại nhà mình, rồi báo giờ cho Đức Phật: "Đã đến giờ, thưa tôn giả Gotama, bữa ăn đã sẵn sàng." {#38}
 
-Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena brahmāyussa brāhmaṇassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. Atha kho brahmāyu brāhmaṇo sattāhaṁ buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.
+Rồi Đức Phật, vào buổi sáng, đắp y, mang theo y bát, đi đến nhà vị Bà-la-môn Brahmāyu; sau khi đến, Ngài ngồi trên chỗ ngồi đã được dọn sẵn cùng với hội chúng tỳ kheo. Rồi vị Bà-la-môn Brahmāyu tự tay phục vụ và làm hài lòng hội chúng tỳ kheo do Đức Phật đứng đầu bằng các món ăn thượng hạng loại cứng và loại mềm suốt một tuần lễ.
 
-39\. Atha kho bhagavā tassa sattāhassa accayena videhesu cārikaṁ pakkāmi. Atha kho brahmāyu brāhmaṇo acirapakkantassa bhagavato kālamakāsi. {#39}
+39\. Rồi Đức Phật, sau khi một tuần lễ trôi qua, tiếp tục đi du hành trong xứ Videha. Và vị Bà-la-môn Brahmāyu qua đời không lâu sau khi Đức Phật rời đi. {#39}
 
-Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “brahmāyu, bhante, brāhmaṇo kālaṅkato. Tassa kā gati, ko abhisamparāyo”ti?
+Rồi đông đảo các tỳ kheo đi đến nơi Đức Phật đang ở; sau khi đến, đảnh lễ Đức Phật rồi ngồi xuống một bên. Ngồi một bên, các tỳ kheo ấy thưa với Đức Phật: "Bạch Thế Tôn, Bà-la-môn Brahmāyu đã qua đời. Điểm đến của ông ấy là gì, đời sống tiếp theo của ông ấy ra sao?"
 
-“Paṇḍito, bhikkhave, brahmāyu brāhmaṇo paccapādi dhammassānudhammaṁ, na ca maṁ dhammādhikaraṇaṁ vihesesi. Brahmāyu, bhikkhave, brāhmaṇo pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā”ti.
+"Này các tỳ kheo, Bà-la-môn Brahmāyu là người trí tuệ, đã thực hành Giáo pháp đúng theo Giáo pháp, và không làm Ta phiền lòng vì những tranh luận về Giáo pháp. Này các tỳ kheo, do *cạn kiệt* (đoạn tận / khayā) năm *những xiềng xích cõi dưới* (hạ phần kiết sử / orambhāgiyānaṁ saṁyojanānaṁ), Bà-la-môn Brahmāyu đã *hóa sinh* (hóa sanh / opapātiko), sẽ nhập Niết-bàn tại đó, không còn phải quay trở lại thế giới này nữa."
 
-Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+Đức Phật đã nói như vậy. Các tỳ kheo ấy hài lòng và *vui mừng đón nhận* lời Đức Phật dạy.
 
-Brahmāyusuttaṁ niṭṭhitaṁ paṭhamaṁ.
+Kinh Brahmāyu thứ nhất đã kết thúc.

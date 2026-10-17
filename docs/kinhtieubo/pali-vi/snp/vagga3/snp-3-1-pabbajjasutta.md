@@ -10,7 +10,7 @@
 > Sambādhoyaṁ gharāvāso,\
 > rajassāyatanaṁ iti;\
 > Abbhokāsova pabbajjā,\
-> iti disvāna pabbaji.
+> iti disvāna pabbaji.  
 
 3\.
 > Pabbajitvāna kāyena,\

@@ -56,7 +56,7 @@ import re
 # ====================== CẤU HÌNH ======================
 
 # prefix dùng khi build link trong .md (không có / ở cuối)
-URL_PREFIX = "../docs/kinhtieubo/pali/"
+URL_PREFIX = "../docs/kinhtieubo/pali-vi/"
 
 # tên thư mục con bị bỏ qua khi quét (không phải là "vagga")
 IGNORE_SUBDIRS = {"meta", ".git", "__pycache__"}
@@ -171,7 +171,7 @@ def build_lines_for_files(folder_name, files_dir, filenames, path_segments):
             continue
 
         title = clean_title(raw_h1)
-        link_parts = ["/kinhtieubo/pali/", folder_name, *path_segments, filename]
+        link_parts = ["/kinhtieubo/pali-vi/", folder_name, *path_segments, filename]
         link = "/".join(part.strip("/") for part in link_parts)
         link = "/" + link if not link.startswith("/") else link
         lines.append(f"- [{title}]({link})")

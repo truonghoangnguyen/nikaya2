@@ -2,7 +2,7 @@
 
 # 21. Pañcasatikakkhandhaka
 
-## 1. Saṅgītinidāna {#1}
+## 1. Saṅgītinidāna
 
 1.1\. Atha kho āyasmā mahākassapo bhikkhū āmantesi— “ekamidāhaṁ, āvuso, samayaṁ pāvāya kusināraṁ addhānamaggappaṭipanno mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi. Atha khvāhaṁ, āvuso, maggā okkamma aññatarasmiṁ rukkhamūle nisīdiṁ.
 
@@ -130,7 +130,7 @@ Atha kho āyasmā mahākassapo āyasmantaṁ ānandaṁ sāmaññaphalassa nidā
 
 Eteneva upāyena pañcapi nikāye pucchi. Puṭṭho puṭṭho āyasmā ānando vissajjesi.
 
-## 2. Khuddānukhuddakasikkhāpadakathā {#2}
+## 2. Khuddānukhuddakasikkhāpadakathā
 
 1.9\. Atha kho āyasmā ānando there bhikkhū etadavoca— “bhagavā maṁ, bhante, parinibbānakāle evamāha— ‘ākaṅkhamāno, ānanda, saṅgho mamaccayena khuddānukhuddakāni sikkhāpadāni samūhaneyyā’”ti.
 
@@ -172,7 +172,7 @@ Saṅgho apaññattaṁ nappaññapeti, paññattaṁ na samucchindati, yathāpa
 
 “Susaṅgītāvuso, therehi dhammo ca vinayo ca. Api ca yatheva mayā bhagavato sammukhā sutaṁ, sammukhā paṭiggahitaṁ, tathevāhaṁ dhāressāmī”ti.
 
-## 3. Brahmadaṇḍakathā {#3}
+## 3. Brahmadaṇḍakathā
 
 1.12\. Atha kho āyasmā ānando there bhikkhū etadavoca— “bhagavā maṁ, bhante, parinibbānakāle evamāha— ‘tena hānanda, saṅgho mamaccayena channassa bhikkhuno brahmadaṇḍaṁ āṇāpetū’”ti.
 

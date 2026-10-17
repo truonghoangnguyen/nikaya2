@@ -8,7 +8,7 @@ Kinh điển bằng tiếng Pāli (canon in Pāli) — nền tảng chính cho n
 
 Một số học giả phương Tây đã đặt nghi vấn về tính xác thực lịch sử của Kỳ Kết tập thứ nhất, nhưng có lẽ họ đã nhầm. Bởi vì, còn gì tự nhiên hơn việc các đệ tử của một nhà tiên phong tôn giáo tụ họp lại sau khi thầy mình qua đời để bàn bạc xem nay phải làm gì tiếp theo? Và vì Đức Phật đã chỉ định giáo pháp (the teaching) — chứ không phải một người thầy nào khác — làm cơ quan thẩm quyền tối cao, nên việc hiển nhiên cần làm là ôn lại các bài giảng của Ngài và tập hợp chúng thành một 'bộ kinh chuẩn' (canon). Người ta cho rằng Tạng Kinh (*Suttapiṭaka*) đã được tụng lại bởi Ānanda, vị thị giả thân cận trước đây của Đức Phật; còn Tạng Luật (*Vinayapiṭaka*) được tụng bởi sư Upāli, người từng là thợ cạo của tộc Sakiya nay đã trở thành chuyên gia về các quy tắc tu viện. Chúng ta không biết chính xác bộ kinh gốc sử dụng từ ngữ ra sao, vì ở Ấn Độ cổ đại, các lời dạy không được viết ra mà chỉ được truyền miệng.
 
-Kỳ Kết tập thứ hai chịu trách nhiệm đưa thêm các bài giảng và thi kệ của các Tăng và Ni vào bộ kinh, đồng thời sàng lọc lại toàn bộ tài liệu. Những lời dạy có vẻ khác biệt nhau của Gotama (Cồ-đàm) trong suốt bốn thập kỷ rưỡi giảng pháp đã được điều chỉnh cho thống nhất. Lý do là vì giới tăng lữ thời đó (và cả bây giờ) hoàn toàn bác bỏ ý nghĩ cho rằng tư duy và hiểu biết của Đức Phật có sự phát triển theo thời gian: Theo quan điểm chính thống của họ, ngay trong khoảnh khắc giác ngộ để trở thành một vị Phật, Ngài đã thấu triệt toàn bộ giáo lý ở dạng hoàn thiện và cuối cùng. Ngoài ra, trong các văn bản, nếu có một từ khóa xuất hiện mà ở chỗ khác được trình bày chi tiết hơn, thì phần dài hơn sẽ được gộp vào phần ngắn hơn — một quy trình giải thích cho độ dài hiện tại của kinh điển và vô số sự lặp lại của nó. 
+Kỳ Kết tập thứ hai chịu trách nhiệm đưa thêm các bài giảng và thi kệ của các Tăng và Ni vào bộ kinh, đồng thời sàng lọc lại toàn bộ tài liệu. Những lời dạy có vẻ khác biệt nhau của Gotama (Cồ-đàm) trong suốt bốn thập kỷ rưỡi giảng pháp đã được điều chỉnh cho thống nhất. Lý do là vì giới tăng lữ thời đó (và cả bây giờ) hoàn toàn bác bỏ ý nghĩ cho rằng tư duy và hiểu biết của Đức Phật có sự phát triển theo thời gian: Theo quan điểm chính thống của họ, ngay trong khoảnh khắc giác ngộ để trở thành một vị Phật, Ngài đã thấu triệt toàn bộ giáo lý ở dạng hoàn thiện và cuối cùng. Ngoài ra, trong các văn bản, nếu có một từ khóa xuất hiện mà ở chỗ khác được trình bày chi tiết hơn, thì phần dài hơn sẽ được gộp vào phần ngắn hơn — một quy trình giải thích cho độ dài hiện tại của kinh điển và vô số sự lặp lại của nó.
 *(Ghi chú: Một đoạn ngắn ban đầu, khi được truyền tụng ở những bối cảnh khác nhau, dần dần được bổ sung và mở rộng bằng các chất liệu từ những đoạn tương tự ở nơi khác. Kết quả là đoạn ngắn ban đầu trở thành đoạn dài, chứ không phải hai đoạn cùng tồn tại song song ở một vị trí. Điều này giải thích tại sao kinh điển lại dài và lặp đi lặp lại nhiều đến vậy.)*
 
 Cuối cùng, Kỳ Kết tập thứ ba đã rà soát lại toàn bộ văn bản một lần nữa. Họ cũng bổ sung vào hai Tạng (*Piṭaka*) cũ các tác phẩm mang tính học thuật (scholastic works). Số lượng các tác phẩm học thuật này tiếp tục tăng lên trong suốt hai thế kỷ tiếp theo, Tạng Vi Diệu Pháp (Vi diệu pháp/ *Abhidhammapiṭaka*) chính thức hình thành ở thời kỳ này.
@@ -35,7 +35,7 @@ Tạng thứ nhất, Tạng Luật (*Vinayapiṭaka*), chứa các quy tắc k�
 
 *Bản thảo trên lá cọ của một văn bản Pāli (Trung Bộ Kinh - Majjhimanikāya) từ Miến Điện, kích thước trang 520 × 55 mm. Bìa được mạ vàng. Hai sợi dây (sợi bên phải đã được tháo ra) được luồn qua bìa và các trang để giữ cuốn sách lại với nhau.*
 
-Tiểu Bộ Kinh (*Khuddakanikāya*) bao gồm mười lăm tác phẩm riêng lẻ. Trong đó, *Udāna* (Kinh Phật Tự Thuyết) và *Itivuttaka* (Kinh Phật Thuyết Như Vậy) chứa những lời dạy của chính Đức Phật; trong khi lời của các đệ tử thì nằm trong *Dhammapada* (Kinh Pháp Cú), *Suttanipāta* (Kinh Tập), *Theragāthā* (Trưởng Lão Tăng Kệ) và *Therīgāthā* (Trưởng Lão Ni Kệ). Chín tác phẩm còn lại ít quan trọng hơn. 
+Tiểu Bộ Kinh (*Khuddakanikāya*) bao gồm mười lăm tác phẩm riêng lẻ. Trong đó, *Udāna* (Kinh Phật Tự Thuyết) và *Itivuttaka* (Kinh Phật Thuyết Như Vậy) chứa những lời dạy của chính Đức Phật; trong khi lời của các đệ tử thì nằm trong *Dhammapada* (Kinh Pháp Cú), *Suttanipāta* (Kinh Tập), *Theragāthā* (Trưởng Lão Tăng Kệ) và *Therīgāthā* (Trưởng Lão Ni Kệ). Chín tác phẩm còn lại ít quan trọng hơn.
 
 Để nghiên cứu triết học Theravāda, Tạng Kinh (*Suttapiṭaka*) là nguồn tài liệu quan trọng nhất.
 
@@ -60,7 +60,7 @@ Là kết quả của những suy ngẫm về triết học sâu xa, câu nói n
 Ở đây, có người có thể phản bác rằng: mặc dù sự tồn tại không phải chỉ toàn niềm vui, nhưng nó vẫn chứa đựng đủ những niềm vui để ta có một đánh giá tích cực hơn. Thực tế, Đức Phật không hề phủ nhận những thú vui và những trải nghiệm dễ chịu. Ngược lại, Ngài coi chúng là một phần cố định của cuộc sống — nếu không có chúng, cuộc sống sẽ chẳng có vẻ hấp dẫn như ta thấy ([S 22, 60 III p. 69 f.](/l?q=SN-22.60)). Tuy nhiên, tiêu chuẩn đánh giá của Ngài sâu sắc hơn nhiều: Ngài lấy *sự [không khổ đau] vĩnh cửu (permanence)* làm thước đo cho hạnh phúc đích thực. Mọi thứ vui vẻ và thân thương rồi cũng kết thúc trong đau khổ bởi vì chúng mang tính *biến hoại (vô thường / transitory)*. Đó là thứ hạnh phúc giả tạo, vì ta sẽ phải trả giá bằng nỗi buồn và những giọt nước mắt để bù đắp lại. Khi đang lưu lại Sāvatthi (Xá-vệ), nữ thí chủ của 'Đông Viên Tự' là phu nhân Visākhā đã đến gặp Phật Cồ-đàm vào một giờ không phù hợp, tóc và quần áo vẫn còn ướt (do vừa tắm nghi lễ), để báo tin về cái chết của đứa cháu gái yêu quý. Ngài đã an ủi người phụ nữ đang than khóc bằng những lời này:
 
 > Này Visākhā, ai có một trăm điều yêu thương, người đó có một trăm nỗi khổ; ai có chín mươi..., mười..., năm..., hai điều yêu thương, người đó có chín mươi..., mười..., năm..., hai nỗi khổ. Đối với người không có điều gì để yêu thương, người đó không có nỗi khổ. Những người như vậy, Ta tuyên bố, là những người không có sầu não, không có đam mê (và) thoát khỏi sự tuyệt vọng.
-> 
+>
 > Bất kể có bao nhiêu sầu, bi và khổ trên thế gian này: Chúng đều phát sinh dựa trên những điều ta yêu thương; chúng sẽ không phát sinh khi không có gì để yêu thương. ([Ud 8, 8 p. 92](/l?q=ud-8.8))
 
 Mọi sự bám víu (attachment) về mặt tâm lý vào một điều gì đó dễ chịu đều dẫn đến đau khổ. Chắc chắn rằng, dục vọng (*kāma* / lust) và đau khổ về bản chất là một. Như vị tỳ kheo đã giác ngộ Eraka từng nói:
@@ -89,7 +89,7 @@ Trong Phật giáo, câu hỏi "Con người là gì?" luôn được trả lờ
 > - Nhóm bám víu vào 'thọ' (cảm giác / *vedanā*),
 > - Nhóm bám víu vào 'tưởng' (nhận thức / *saññā*),
 > - Nhóm bám víu vào 'hành' (các hiện tượng tâm lý / *saṅkhāra*),
-> - Nhóm bám víu vào 'thức' (ý thức / *viññāna*). 
+> - Nhóm bám víu vào 'thức' (ý thức / *viññāna*).
 ([MN 141, III p. 250](/l?q=MN-141))
 
 'Sắc' (nghĩa đen là 'hình thể') ám chỉ khung vật lý của con người, khoảng không gian được lấp đầy bởi xương, cơ bắp, thịt và da ([MN 28, I p. 190](/l?q=MN-28)). Các đoạn kinh khác (ví dụ [S 12, 2, 12](/l?q=SN-22.2)) định nghĩa thân thể là một cơ thể sống được hình thành từ bốn yếu tố (tứ đại): đất, nước, lửa và gió. Bốn yếu tố này vừa được hiểu là vật chất hữu hình, vừa mang các đặc tính vô hình như sự mở rộng, sự gắn kết, nhiệt độ và sự chuyển động.
@@ -107,7 +107,7 @@ Tại sao Năm Uẩn lại là khổ?
 Vì hai lý do. Thứ nhất, vì sự tồn tại của chúng gắn liền không thể tách rời với các hiện tượng sinh, bệnh, khao khát và chán ghét, v.v., mà bản thân những thứ này vốn dĩ đã là khổ. Thứ hai, vì chúng mang tính tạm thời (biến hoại). Khi một vị tỳ kheo hỏi liệu có Uẩn nào là vĩnh cửu hay không, Đức Phật trả lời:
 
 > Này tỳ kheo, không có bất kỳ sắc nào là vĩnh cửu, cố định, bền vững, không chịu sự chi phối của quy luật hoại diệt (và) mãi mãi không thay đổi.
-> 
+>
 > Này tỳ kheo, không có bất kỳ thọ nào..., không có bất kỳ tưởng nào..., không có bất kỳ hành nào..., không có bất kỳ thức nào là vĩnh cửu, cố định, bền vững, không chịu sự chi phối của quy luật hoại diệt (và) mãi mãi không thay đổi. ([SN 22, 97, 9–13 III p. 147](/l?q=SN-22.97))
 
 Sự biến hoại (vô thường / impermanence) của Năm Uẩn, tức là của con người, cũng giống như tính biến đổi của vạn vật, là một chủ đề trọng tâm trong văn học Phật giáo.
@@ -115,19 +115,19 @@ Sự biến hoại (vô thường / impermanence) của Năm Uẩn, tức là c�
 Từ thực tế về sự biến hoại (vô thường) của Năm Uẩn, Đức Phật rút ra hai kết luận quan trọng. Kết luận thứ nhất, như đã đề cập, là không có thứ gì biến đổi (*anicca* / vô thường) có thể mang lại hạnh phúc đích thực, và do đó mọi sự tồn tại dưới tư cách một cá thể đều phải được coi là sầu não hay đau khổ (*dukkha*). Kết luận thứ hai xuất phát từ tính nhất thời của các Uẩn: không có gì trong con người có thể sống sót sau cái chết. Khi cả Năm Uẩn đều phải tuân theo sự hoại diệt, không một Uẩn nào có thể là một Cái Tôi (Self), một Bản ngã (Ego), hay một Linh hồn (Soul). Bởi vì theo niềm tin của người Ấn Độ, linh hồn là thứ bất diệt, không thay đổi và về bản chất là hoàn toàn thoát khỏi đau khổ. Con người hay nhân cách là vô ngã (*anatta* / non-self), chỉ đơn thuần là một con người thực nghiệm, không có gì là thực chất cốt lõi.
 
 > Này các tỳ kheo, các ông nghĩ sao, sắc là vĩnh cửu hay biến hoại (vô thường)?
-> 
+>
 > Thưa Thế Tôn, là biến hoại.
-> 
+>
 > Thọ..., tưởng..., hành..., thức là vĩnh cửu hay biến hoại?
-> 
+>
 > Thưa Thế Tôn, là biến hoại.
-> 
+>
 > Vậy thứ gì biến hoại, nó mang lại đau khổ hay niềm vui?
-> 
+>
 > Thưa Thế Tôn, là đau khổ.
-> 
+>
 > Vậy có đúng đắn không khi nhìn nhận một thứ biến hoại, đau khổ, chịu sự chi phối của quy luật hoại diệt rằng: 'Cái này là của tôi, cái này là tôi, cái này là Bản ngã của tôi'?
-> 
+>
 > Chắc chắn là không, thưa Thế Tôn.
 ([MN 22, I p. 138](/l?q=MN-22))
 
@@ -144,7 +144,7 @@ Chỉ phần đầu của câu *(sắc này sẽ không hướng đến bệnh t
 Bằng chứng thứ hai dựa trên nguồn gốc hình thành của các Uẩn:
 
 > Này các tỳ kheo, sắc không phải là một Bản ngã. Bất cứ thứ gì là nguyên nhân, là điều kiện tiên quyết cho sự hình thành của sắc, thứ đó cũng không có Bản ngã. Này các tỳ kheo, làm sao sắc, vốn bắt nguồn từ một thứ không phải là Bản ngã, lại có thể là một Bản ngã được?
-> 
+>
 > ([SN 22, 20, 3–7 III p. 24](/l?q=SN-22.20))
 
 Các lập luận tương tự cũng được áp dụng cho bốn Uẩn còn lại.
@@ -203,7 +203,7 @@ Theo quan điểm của Phật giáo, một kiếp sống đã quá nhiều đau
 Nguyên do khởi thủy của vòng luân hồi này nằm ngoài sự quan tâm của Phật Cồ-đàm, bởi mọi sự suy đoán về nó đều không mang lại lợi ích gì cho việc giải thoát. Ngài dạy rằng chuỗi các kiếp sống trước đây là vô thủy (không có điểm bắt đầu), và thật đáng buồn khi nhìn lại những nỗi khổ luân hồi mà mỗi chúng sinh đã phải gánh chịu:
 
 > Này các tỳ kheo, sự lang thang (của các chúng sinh trong vòng luân hồi) là bắt nguồn từ vô thủy. Không thể thấy được điểm bắt đầu mà từ đó, các chúng sinh, bị mắc kẹt trong sự vô minh (*avijjā*), bị trói buộc bởi sự khao khát (*taṇhā*), cứ mãi lang thang và trôi dạt (trong luân hồi).
-> 
+>
 > Này các tỳ kheo, các ông nghĩ sao, nước trong Bốn Đại Dương lớn nhiều hơn, hay là nước mắt mà các ông đã tuôn rơi khi lang thang, trôi dạt, than khóc và xót xa trên chặng đường dài này, vì các ông phải nhận những gì mình ghét và không nhận được những gì mình yêu thương?
 > ([SN 15, 1, 7 II p. 179](/l?q=SN-15.1))
 
@@ -291,25 +291,25 @@ Kinh điển Pāli có nhắc đến vài phiên bản khác nhau của Chuỗi 
  Từ =điều kiện tiên quyết (1) vô minh (phát sinh) hành;
 
 > Vì có (1) vô minh (nên sinh ra) hành; (Câu thường đọc trong kinh: Vô minh duyên hành))
-> 
+>
 > vì có (2) hành (nên sinh ra) thức;
-> 
+>
 > vì có (3) thức: danh và sắc;
-> 
+>
 > vì có (4) danh và sắc: lục nhập (sáu vùng tiếp xúc giác quan);
-> 
+>
 > vì có (5) lục nhập: xúc (sự tiếp xúc);
-> 
+>
 > vì có (6) xúc: thọ (cảm giác);
-> 
+>
 > vì có (7) thọ: ái (sự khao khát);
-> 
+>
 > vì có (8) ái: thủ (sự bám víu);
-> 
+>
 > vì có (9) thủ: hữu (sự trở thành);
-> 
+>
 > vì có (10) hữu: sinh (sự ra đời);
-> 
+>
 > vì có (11) sinh phát sinh ra (12) già và chết, sầu, bi, khổ, ưu, não. Đây là nguồn gốc của toàn bộ khối đau khổ này. ([MN 38, I p. 261](/l?q=MN-38)).
 
 Tên tiếng Pāli của công thức này — *paṭiccasamuppāda*, 'sự phát sinh có điều kiện' (duyên khởi) — chỉ ra cách chúng ta nên hiểu về mối quan hệ giữa các mắt xích trong Chuỗi. Đây không phải là sự phụ thuộc nhân quả (causal dependence), bởi vì *causa* (nguyên nhân) là thuật ngữ kỹ thuật chỉ một nguyên nhân duy nhất, không cần bất kỳ yếu tố hỗ trợ nào mà vẫn tự tạo ra kết quả. Sự phụ thuộc của các mắt xích đúng hơn là một 'thuyết điều kiện' (conditionism), vì mỗi mắt xích là một *condition* (điều kiện), tức là một trong số các điều kiện cùng góp phần làm cho mắt xích tiếp theo ra đời. [^ND-4]
@@ -325,8 +325,8 @@ Trong bảng dưới đây, hai chuỗi được kết hợp theo cách đặt c
 
 ![Chuỗi 12 Duyên Khởi và 5 Uẩn](images/5-uan-12-nhan-duyen.png)
 
-Sự đối chiếu này bộc lộ hai điểm yếu của Chuỗi Duyên Khởi: 
-1. Tại sao mỗi kiếp sống trong ba kiếp tái sinh lại được phác thảo bằng những từ ngữ khác nhau? 
+Sự đối chiếu này bộc lộ hai điểm yếu của Chuỗi Duyên Khởi:
+1. Tại sao mỗi kiếp sống trong ba kiếp tái sinh lại được phác thảo bằng những từ ngữ khác nhau?
 2. Tại sao Kiếp Thứ Nhất chỉ nhắc đến vô minh, còn Kiếp Thứ Hai chỉ nhắc đến khao khát (ái) như là nguyên nhân của lần tái sinh tiếp theo? Đáng lẽ ra, nguyên nhân của sự tái sinh phải luôn giống nhau: hoặc là vô minh, hoặc là khao khát, hoặc là cả hai kết hợp lại.
 
 Chỉ có một cuộc kiểm chứng lịch sử mới có thể trả lời những câu hỏi này. Chuỗi Duyên Khởi thực chất được hình thành thông qua việc liên kết ba chuỗi điều kiện vốn tách biệt nhau (có thể bao gồm các mắt xích 1 đến 4; 4 đến 8; và 8 đến 12) mà Phật Cồ-đàm đã sử dụng trong các bài giảng của mình suốt sự nghiệp giảng pháp lâu dài. Rõ ràng, các nhà sư thời kỳ đầu tin rằng bằng cách kết hợp chúng lại và từ đó tạo ra Chuỗi Duyên Khởi (Thập nhị nhân duyên), họ đã tạo ra một bước tiến lớn. Nếu không, họ đã chẳng dành nhiều không gian đến thế cho Chuỗi này trong kinh điển, cũng như không mạo hiểm gán cho nó là lời dạy của sư phụ mình.
@@ -381,8 +381,8 @@ Trong chuỗi Duyên khởi này không có 'chủ thể gánh vác chính' (bea
 *Sārnāth (Lộc Uyển) gần Benares, nơi Đức Phật thuyết bài pháp đầu tiên và thành lập tăng đoàn. Tháp Dhamekh với hình dáng hiện tại (cao 44 m) được hoàn thành vào khoảng từ thế kỷ thứ 4 đến thứ 6 sau Công nguyên. Cốt lõi bên trong tháp là một tháp gạch nhỏ từ thời vua Asoka (A-dục). Nơi đây đánh dấu vị trí Gotama (Cồ-đàm) thuyết pháp cho năm vị đạo sĩ khổ hạnh, những người sau này trở thành các đệ tử đầu tiên của ngài. Một tháp thứ hai của thời Asoka, vốn được bọc thêm nhiều lớp trong các thời kỳ sau, đã bị phá hủy vào năm 1794 để lấy gạch; những xá lợi của Đức Phật tìm thấy trong đó đã bị ném chìm xuống sông Hằng.*
 
 *Về ngôi đền Mūlagandhakūṭī (Hương thất), vốn cao 60 m, đánh dấu nơi Đức Phật thiền định và từng được Huyền Trang mô tả vào thế kỷ thứ 7, nay chỉ còn lại các bức tường nền móng. Bảy tu viện khác cũng chịu chung số phận, trong đó tu viện cổ nhất có từ thế kỷ thứ 2 trước Công nguyên, và tu viện mới nhất từ thế kỷ thứ 12. Từ thế kỷ thứ 13 trở đi, Sārnāth rơi vào cảnh hoang tàn.*
- 
- o000o {.c} 
+
+ o000o {.c}
 
 Gắn liền với hình ảnh này về cá nhân là vấn đề về sự đồng nhất (identity) giữa các chúng sinh qua một chuỗi các kiếp tái sinh. Vị đạo sĩ khổ hạnh lõa thể Kassapa đã hỏi Đức Phật rằng theo giáo lý của ngài, người phải chịu hậu quả của những hành động (kamma / nghiệp) trong quá khứ dưới hình thức tái sinh là chính người đó hay là một người khác. Gotama đáp:
 
@@ -440,7 +440,7 @@ Sự thật thứ tư của Gotama trình bày cách thức để đạt đượ
 > (7) Sự tỉnh giác Đúng đắn (Right Awareness / Chánh niệm),\
 > (8) Sự thiền định Đúng đắn (Right Meditation / Chánh định).([(Mv 1, 6, 22 Vin I p. 10](/l?q=vin.mv-1.6) = [S 56, 11, 8 V p. 421](/l?q=SN-56.11))
 
-Những quy tắc này không phải là từng bước tuần tự mà người tìm kiếm qua lần lượt, mà là những phẩm chất cần được phát triển đồng thời. Mối liên hệ chặt chẽ giữa chúng khiến cho việc bỏ qua một quy tắc sẽ cản trở việc thực hiện những quy tắc còn lại. 
+Những quy tắc này không phải là từng bước tuần tự mà người tìm kiếm qua lần lượt, mà là những phẩm chất cần được phát triển đồng thời. Mối liên hệ chặt chẽ giữa chúng khiến cho việc bỏ qua một quy tắc sẽ cản trở việc thực hiện những quy tắc còn lại.
 
 *(Ghi chú: Tác giả nhấn mạnh Bát Chánh Đạo là một hệ thống gồm 8 điểm, không phải là các bước tuần tự từ 1 đến 8).*
 
@@ -525,7 +525,7 @@ Các giai đoạn nhập định là:
 
 (ii) Chấm dứt Sự suy ngẫm; tĩnh lặng nội tâm và tập trung tinh thần vào một đối tượng với cảm giác an lạc. [thiền 2]
 
-(iii) Sự bình thản, sự chuyên tâm, và sự sáng suốt của tri thức. [thiền 3] 
+(iii) Sự bình thản, sự chuyên tâm, và sự sáng suốt của tri thức. [thiền 3]
 
 (iv) Khô cạn mọi cảm giác hạnh phúc, đau khổ và kí ức về chúng; sự bình thản và sự chuyên tâm ở mức độ thuần khiết nhất. [thiền 4]
 
@@ -751,7 +751,7 @@ Hiếm có yếu tố tư tưởng nào khác của Phật giáo lại có khả
 > có hành động, nhưng không có người làm ra nó,\
 > có sự dập tắt (tịch diệt), nhưng không có ai bị dập tắt,\
 > không có người bước đi, mà chỉ có Con đường.
-(Vism 16 II p. 513 - Thanh Tịnh Đạo) 
+(Vism 16 II p. 513 - Thanh Tịnh Đạo)
 
 > Không có người tạo ra kamma (nghiệp)\
 > và không có ai gặt hái quả của nó:\

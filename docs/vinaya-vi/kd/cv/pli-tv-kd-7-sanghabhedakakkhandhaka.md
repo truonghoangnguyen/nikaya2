@@ -2,7 +2,7 @@
 
 # 17. Saṅghabhedakakkhandhaka
 
-### 1. 1 Chasakyapabbajjākathā {#1}
+### 1. 1 Chasakyapabbajjākathā
 
 1.1\. Tena samayena buddho bhagavā anupiyāyaṁ viharati, anupiyaṁ nāma mallānaṁ nigamo. Tena kho pana samayena abhiññātā abhiññātā sakyakumārā bhagavantaṁ pabbajitaṁ anupabbajanti.
 
@@ -85,7 +85,7 @@ Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ ud�
 > Taṁ vigatabhayaṁ sukhiṁ asokaṁ,\
 > Devā nānubhavanti dassanāyā”ti.
 
-### 1.2. Devadattavatthu {#1.2}
+### 1.2. Devadattavatthu
 
 2.1\. Atha kho bhagavā anupiyāyaṁ yathābhirantaṁ viharitvā yena kosambī tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena kosambī tadavasari. Tatra sudaṁ bhagavā kosambiyaṁ viharati ghositārāme.
 
@@ -111,7 +111,7 @@ Atha kho āyasmā mahāmoggallāno yena bhagavā tenupasaṅkami, upasaṅkamitv
 
 “Rakkhassetaṁ, moggallāna, vācaṁ. Rakkhassetaṁ, moggallāna, vācaṁ. Idāni so moghapuriso attanāva attānaṁ pātukarissati.
 
-### 1.3. Pañcasatthukathā {#1.3}
+### 1.3. Pañcasatthukathā
 
 2.3\. Pañcime, moggallāna, satthāro santo saṁvijjamānā lokasmiṁ. Katame pañca? Idha, moggallāna, ekacco satthā aparisuddhasīlo samāno ‘parisuddhasīlomhī’ti paṭijānāti ‘parisuddhaṁ me sīlaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Tamenaṁ sāvakā evaṁ jānanti— ‘ayaṁ kho bhavaṁ satthā aparisuddhasīlo samāno “parisuddhasīlomhī”ti paṭijānāti “parisuddhaṁ me sīlaṁ pariyodātaṁ asaṅkiliṭṭhan”ti ca. Mayañceva kho pana gihīnaṁ āroceyyāma, nāssassa manāpaṁ. Yaṁ kho panassa amanāpaṁ, kathaṁ naṁ mayaṁ tena samudācareyyāma? Sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena— yaṁ tumo karissati, tumova tena paññāyissatī’ti. Evarūpaṁ kho, moggallāna, satthāraṁ sāvakā sīlato rakkhanti; evarūpo ca pana satthā sāvakehi sīlato rakkhaṁ paccāsīsati.
 
@@ -150,7 +150,7 @@ Seyyathāpi, bhikkhave, assatarī attavadhāya gabbhaṁ gaṇhāti, parābhavā
 
 Paṭhamabhāṇavāro niṭṭhito.
 
-### 2.1. Pakāsanīyakamma {#2.1}
+### 2.1. Pakāsanīyakamma
 
 3.1\. Tena kho pana samayena bhagavā mahatiyā parisāya parivuto dhammaṁ desento nisinno hoti sarājikāya parisāya. Atha kho devadatto uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca— “jiṇṇo dāni, bhante, bhagavā vuḍḍho mahallako addhagato vayoanuppatto. Appossukko dāni, bhante, bhagavā diṭṭhadhammasukhavihāraṁ anuyutto viharatu, mamaṁ bhikkhusaṅghaṁ nissajjatu. Ahaṁ bhikkhusaṅghaṁ pariharissāmī”ti.
 
@@ -194,7 +194,7 @@ Sammato saṅghena āyasmā sāriputto devadattaṁ rājagahe pakāsetuṁ— �
 
 Sammato ca āyasmā sāriputto sambahulehi bhikkhūhi saddhiṁ rājagahaṁ pavisitvā devadattaṁ rājagahe pakāsesi— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti. Tattha ye te manussā assaddhā appasannā dubbuddhino, te evamāhaṁsu— “usūyakā ime samaṇā sakyaputtiyā devadattassa lābhasakkāraṁ usūyantī”ti. Ye pana te manussā saddhā pasannā paṇḍitā byattā buddhimanto, te evamāhaṁsu— “na kho idaṁ orakaṁ bhavissati yathā bhagavā devadattaṁ rājagahe pakāsāpetī”ti.
 
-### 2.2. Ajātasattukumāravatthu {#2.2}
+### 2.2. Ajātasattukumāravatthu
 
 3.4\. Atha kho devadatto yena ajātasattu kumāro tenupasaṅkami, upasaṅkamitvā ajātasattuṁ kumāraṁ etadavoca— “pubbe kho, kumāra, manussā dīghāyukā, etarahi appāyukā. Ṭhānaṁ kho panetaṁ vijjati yaṁ tvaṁ kumārova samāno kālaṁ kareyyāsi. Tena hi tvaṁ, kumāra, pitaraṁ hantvā rājā hohi. Ahaṁ bhagavantaṁ hantvā buddho bhavissāmī”ti.
 
@@ -218,7 +218,7 @@ Atha kho rājā māgadho seniyo bimbisāro ajātasattuṁ kumāraṁ etadavoca�
 
 “Sace kho tvaṁ, kumāra, rajjena atthiko, etaṁ te rajjan”ti ajātasattussa kumārassa rajjaṁ niyyādesi.
 
-### 2.3. Abhimārapesana {#2.3}
+### 2.3. Abhimārapesana
 
 3.6\. Atha kho devadatto yena ajātasattu kumāro tenupasaṅkami, upasaṅkamitvā ajātasattuṁ kumāraṁ etadavoca— “purise, mahārāja, āṇāpehi, ye samaṇaṁ gotamaṁ jīvitā voropessantī”ti. Atha kho ajātasattu kumāro manusse āṇāpesi— “yathā, bhaṇe, ayyo devadatto āha tathā kareyyāthā”ti.
 
@@ -248,7 +248,7 @@ Atha kho bhagavā te purise etadavoca— “mā kho tumhe, āvuso, iminā maggen
 
 “Alaṁ, āvuso; mā tvaṁ samaṇaṁ gotamaṁ jīvitā voropesi. Ahameva samaṇaṁ gotamaṁ jīvitā voropessāmī”ti.
 
-### 2.4. Lohituppādakakamma {#2.4}
+### 2.4. Lohituppādakakamma
 
 Tena kho pana samayena bhagavā gijjhakūṭassa pabbatassa chāyāyaṁ caṅkamati. Atha kho devadatto gijjhakūṭaṁ pabbataṁ āruhitvā mahatiṁ silaṁ pavijjhi— imāya samaṇaṁ gotamaṁ jīvitā voropessāmīti. Dve pabbatakūṭā samāgantvā taṁ silaṁ sampaṭicchiṁsu. Tato papatikā uppatitvā bhagavato pāde ruhiraṁ uppādesi. Atha kho bhagavā uddhaṁ ulloketvā devadattaṁ etadavoca— “bahuṁ tayā, moghapurisa, apuññaṁ pasutaṁ, yaṁ tvaṁ duṭṭhacitto vadhakacitto tathāgatassa ruhiraṁ uppādesī”ti. Atha kho bhagavā bhikkhū āmantesi—
 
@@ -270,7 +270,7 @@ Ahaṁ kho pana, bhikkhave, parisuddhasīlo samāno ‘parisuddhasīlomhī’ti 
 
 “Aṭṭhānametaṁ, bhikkhave, anavakāso, yaṁ parūpakkamena tathāgataṁ jīvitā voropeyya. Anupakkamena, bhikkhave, tathāgatā parinibbāyanti. Gacchatha tumhe, bhikkhave, yathāvihāraṁ. Arakkhiyā, bhikkhave, tathāgatā”ti.
 
-### 2.5. Nāḷāgiripesana {#2.5}
+### 2.5. Nāḷāgiripesana
 
 3.11\. Tena kho pana samayena rājagahe nāḷāgiri nāma hatthī caṇḍo hoti, manussaghātako. Atha kho devadatto rājagahaṁ pavisitvā hatthisālaṁ gantvā hatthibhaṇḍe etadavoca— “mayaṁ kho, bhaṇe, rājañātakā nāma paṭibalā nīcaṭṭhāniyaṁ uccaṭṭhāne ṭhapetuṁ, bhattampi vetanampi vaḍḍhāpetuṁ. Tena hi, bhaṇe, yadā samaṇo gotamo imaṁ racchaṁ paṭipanno hoti, tadā imaṁ nāḷāgiriṁ hatthiṁ muñcetvā imaṁ racchaṁ paṭipādethā”ti.
 
@@ -304,7 +304,7 @@ Atha kho nāḷāgiri hatthī soṇḍāya bhagavato pādapaṁsūni gahetvā up
 
 3.13\. Manussā ujjhāyanti khiyyanti vipācenti— “yāva pāpo ayaṁ devadatto, alakkhiko, yatra hi nāma samaṇassa gotamassa evaṁmahiddhikassa evaṁmahānubhāvassa vadhāya parakkamissatī”ti. Devadattassa lābhasakkāro parihāyi. Bhagavato ca lābhasakkāro abhivaḍḍhi.
 
-### 2.6. Pañcavatthuyācanakathā {#2.6}
+### 2.6. Pañcavatthuyācanakathā
 
 Tena kho pana samayena devadatto parihīnalābhasakkāro sapariso kulesu viññāpetvā viññāpetvā bhuñjati. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā kulesu viññāpetvā viññāpetvā bhuñjissanti. Kassa sampannaṁ na manāpaṁ, kassa sāduṁ na ruccatī”ti.
 
@@ -351,7 +351,7 @@ Atha kho āyasmā ānando rājagahe piṇḍāya caritvā pacchābhattaṁ piṇ
 
 Dutiyabhāṇavāro niṭṭhito.
 
-### 3.1. Saṅghabhedakathā {#3.1}
+### 3.1. Saṅghabhedakathā
 
 4.1\. Atha kho devadatto tadahuposathe uṭṭhāyāsanā salākaṁ gāhesi— “mayaṁ, āvuso, samaṇaṁ gotamaṁ upasaṅkamitvā pañca vatthūni yācimhā— ‘bhagavā, bhante, anekapariyāyena appicchassa …pe… vīriyārambhassa vaṇṇavādī. Imāni, bhante, pañca vatthūni anekapariyāyena appicchatāya …pe… vīriyārambhāya saṁvattanti.
 
@@ -462,7 +462,7 @@ Tīhi, bhikkhave, asaddhammehi abhibhūto pariyādinnacitto devadatto āpāyiko 
 > Yassa maggānugo bhikkhu,\
 > khayaṁ dukkhassa pāpuṇe”ti.
 
-### 3.2. Upālipañhā {#3.2}
+### 3.2. Upālipañhā
 
 5.1\. Atha kho āyasmā upāli yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā upāli bhagavantaṁ etadavoca— “saṅgharāji saṅgharājīti, bhante, vuccati. Kittāvatā nu kho, bhante, saṅgharāji hoti, no ca saṅghabhedo? Kittāvatā ca pana saṅgharāji ceva hoti saṅghabhedo cā”ti?
 

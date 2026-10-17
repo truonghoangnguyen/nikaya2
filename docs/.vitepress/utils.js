@@ -161,4 +161,20 @@ function idAnchorFix3(md) {
 }
 
 
-export { slugAnchor, idAnchorFix };
+// Các quicklink /l?q=... sẽ mở sang tab mới
+function addQuicklinkRule(md) {
+  const defaultRender = md.renderer.rules.link_open || function (tokens, idx, options, _env, self) {
+    return self.renderToken(tokens, idx, options)
+  }
+  md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
+    const token = tokens[idx]
+    const href = token.attrGet('href')
+    if (href && href.startsWith('/l')) {
+      token.attrSet('target', 'blank')
+      //token.attrSet('rel', 'noopener')
+    }
+    return defaultRender(tokens, idx, options, env, self)
+  }
+}
+
+export { slugAnchor, idAnchorFix, addQuicklinkRule };

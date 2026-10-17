@@ -1336,7 +1336,7 @@ Du sĩ Sabhiya được xuất gia với Thế Tôn, được thọ đại giớ
 
 ### **(VII) Kinh Sela (Sn 102-112)** {#7_}
 
-(Xem kinh Sela, Trung Bộ Kinh, Tập II)
+(Xem kinh Sela, Trung Bộ Kinh, Tập II) {#548}\
 
 ### **(VIII) Kinh Mũi Tên (Sn 112)** {#8_}
 

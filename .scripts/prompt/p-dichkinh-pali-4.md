@@ -15,8 +15,6 @@ Cách dịch theo thứ tự ưu tiên sau:
 (c) Thuật ngữ đơn chưa có: đề xuất từ hiện đại cùng [!], Hán-Việt đặt trong ngoặc.
 (d) Từ thường: tiếng Việt tự nhiên.
 
-Phần dưới mô tả chi tiết, nhưng quan trọng nhất là dịch dễ hiểu.
-
 #### 1.1 Cách dịch thuật-ngữ (keyword/term):
 Áp dụng với những thuật ngữ(keyword/term) trong kinh nikaya:
 
@@ -46,12 +44,12 @@ Ví dụ: `upekkhāsatipārisuddhiṁ`
 #### 1.3 Nguyên tắc Ngữ-Pháp-Thuần-việt:
 
 - Ưu tiên sử dụng từ ngữ hiện đại (ví dụ: dùng "loại" thay cho "chi phần").
-- Có thể thêm từ không có trong đoạn văn để câu tiếng Việt mạch lạc, khi thêm thì đặt trong `[ngoặc vuông]`, eg: `người ấy *suy diễn* [mình] tách rời khỏi nước`
+- Thêm từ không có trong đoạn văn để câu tiếng Việt mạch lạc, khi thêm thì đặt trong `[ngoặc vuông]`, eg: `người ấy *suy diễn* [mình] tách rời khỏi nước`
 - Các câu phải được viết ngữ pháp thuần việt, LLM bị đi theo hướng chữ Hán vì học theo các bản dịch văn tự  (Hán: Cô Hằng quán -> Việt: quán Cô Hằng)
 
 Ví dụ: Pali: "Katamehi catūhi ṭhānehi pāpakammaṁ na karoti ?"
   BAD: "Người ấy không làm hành động sai trái qua bốn nguyên do nào?"
-  GOOD: "Bốn nguyên nhân nào [khiến] vị ấy không làm hành động sai trái ?"
+  GOOD: "Bốn nguyên nhân nào [khiến cho] vị ấy không làm hành động sai trái ?"
 
 - Tuân thủ dấu câu tiếng Việt: KHÔNG đặt dấu phẩy (,) trước các liên từ (và, hoặc, hay) khi chúng chỉ nối hai từ hoặc hai cụm từ ngắn.
 Ví dụ:
@@ -97,13 +95,15 @@ Dịch:
 > Che khuất bởi vô minh.
 `
 
-#### 1.6 "Trung-thành-với-văn-bản"
+#### 1.6 "Trung-thành-cấu-trúc-của-văn-bản"
+
+- Giữ cấu trúc kinh văn Pali sát nhất, **không rút gọn công thức lặp** - vì cấu trúc lặp là đặc trưng cốt lõi của kinh văn truyền khẩu.
 
 - Dịch đầy đủ, không vắn tắt, theo đúng cấu trúc của kinh văn gốc, không tự ý cắt. Nếu văn bản Pali lặp lại một đoạn văn (điệp khúc) nhiều lần, dịch đầy đủ đoạn văn đó bấy nhiêu lần. Khi nào văn bản Pali gốc thực sự có chứa dấu hiệu rút gọn (như `...pe...`), bạn thay bằng "[...lặp lại...]".
 
 - Giữ nguyên metadata:
-  - `{#number}` (đánh dấu id)
-  ...
+  - `{#number}` eg: `{#3}` (đánh dấu id)
+
 
 ### 2.  Format thuật ngữ:
 - Lần xuất hiện ĐẦU TIÊN của thuật ngữ trong bài: BẮT BUỘC dùng từ ở cột [Từ mới] trong văn bản chính, từ cũ chỉ nằm TRONG ngoặc đơn.
@@ -115,7 +115,6 @@ Dịch:
 
 - Các lần xuất hiện TIẾP THEO: Chỉ viết từ mới in nghiêng, TUYỆT ĐỐI KHÔNG dùng từ cũ hay chú thích.
   - Ví dụ: `do *điều kiện* ấy...`, `vị ấy đoạn trừ *mong muốn*...`
-
 
 ## II. QUY TRÌNH THỰC HIỆN (WORKFLOW)
 
@@ -156,7 +155,6 @@ Trước khi dịch, ghi nhận ngắn gọn:
 
 ### 2. Bước 2: Dịch thuật
 - Viết lại đoạn văn bản sang tiếng Việt hiện đại dựa trên những `## I. NGUYÊN TẮC (GUIDELINES)` và bản draft.
-- Giữ cấu trúc kinh văn Pali sát nhất, **không rút gọn công thức lặp** - vì cấu trúc lặp là đặc trưng cốt lõi của kinh văn truyền khẩu.
 
 ## Bảng thuật ngữ được Định Nghĩa (Vocabulary Mapping/dictionary)
 
@@ -171,7 +169,7 @@ Trước khi dịch, ghi nhận ngắn gọn:
 | nirodha | hết; hết sạch; làm ngưng; chặn; bị chặn; biến mất | diệt | "nirodhadhamma->chịu sự cạn khô";"khổ diệt->hết đau khổ"; "asesavirāganirodho->chặn sạch hết đắm nhiễm"; "jātinirodhā->sinh bị chặn" |
 | samudaya | sự hình thành | sinh (tập) | |
 | vaya | sự suy tàn; sự hoại diệt | diệt | "vayadhammā->chịu sự suy tàn/tính hoại diệt"; |
-| atthaṅgamā | tan biến; biến mất | diệt | sự phai tàn tự nhiên. "atthaṅgamāya->để đưa đến sự biến mất" |
+| atthaṅgamā | tan biến; biến mất | diệt | sự phai tàn tự nhiên. "atthaṅgamāya->để đưa đến sự biến mất" |
 | cāgā | cho đi | xả ly | |
 | nissaraṇa | giải thoát; thoát khỏi | xuất ly | |
 | pajahati | từ bỏ; loại bỏ | đoạn trừ | |
