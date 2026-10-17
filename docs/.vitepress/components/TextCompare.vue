@@ -5,7 +5,7 @@ import MarkdownIt from 'markdown-it'
 import anchor from 'markdown-it-anchor'
 import markdownItAttrs from 'markdown-it-attrs'
 import footnote from 'markdown-it-footnote';
-import { slugAnchor, idAnchorFix } from '../utils';
+import { slugAnchor, idAnchorFix, addQuicklinkRule } from '../utils';
 // import {idAnchorFix} from '../util'
 
 interface Props {
@@ -59,6 +59,23 @@ const leftOriginalPath = computed(() => props.leftPath.replace(/\.md$/, ''))
 const rightOriginalPath = computed(() => props.rightPath.replace(/\.md$/, ''))
 const hasNote = computed(() => finalNoteHtml.value.trim().length > 0)
 
+// Factory: tạo MarkdownIt instance với đầy đủ plugins + quicklink rule
+function createMd() {
+  const md = new MarkdownIt({ html: true, linkify: true, typographer: true })
+    .use(anchor, {
+      permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
+      slugify: (s: string) => slugAnchor(s),
+    })
+    .use(idAnchorFix)
+    .use(markdownItAttrs)
+    .use(footnote)
+
+  // các quicklink /l?q=... sẽ mở sang tab mới (giống config.ts)
+  addQuicklinkRule(md)
+
+  return md
+}
+
 onMounted(async () => {
   // Already have HTML inline (production SSG path)
   if (props.leftContentHtml && props.rightContentHtml) {
@@ -69,23 +86,8 @@ onMounted(async () => {
   // Dev: fetch raw markdown and render client-side
   if (import.meta.env.DEV) {
     try {
-      const mdLeft = new MarkdownIt({ html: true, linkify: true, typographer: true })
-        .use(anchor, {
-          permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
-          slugify: (s) => slugAnchor(s),
-        })
-        .use(idAnchorFix)
-        .use(markdownItAttrs)
-        .use(footnote)
-
-      const mdRight = new MarkdownIt({ html: true, linkify: true, typographer: true })
-        .use(anchor, {
-          permalink: anchor.permalink.ariaHidden({ symbol: '', placement: 'before' }),
-          slugify: (s) => slugAnchor(s),
-        })
-        .use(idAnchorFix)
-        .use(markdownItAttrs)
-        .use(footnote)
+      const mdLeft = createMd()
+      const mdRight = createMd()
 
 
       const [leftResponse, rightResponse] = await Promise.all([

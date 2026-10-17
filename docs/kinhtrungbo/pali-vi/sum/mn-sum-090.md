@@ -9,9 +9,9 @@ MN 71.6: “Này Vaccha, nếu ông trả lời rằng: ‘Sa-môn Cồ-đàm c�
 MN 90.5: 'Không có sa-môn hay bà-la-môn nào có thể biết tất cả, thấy tất cả cùng một lúc, điều đó không thể xảy ra'".
 
 
-Câu về toàn tri:  "sabbaññū sabbadassāvī aparisesaṁ ñāṇadassanaṁ paṭijānāti"/"bậc toàn tri, thấy biết tất cả, tuyên bố có trí và thấy biết không thiếu sót" trong Nikāya vốn là lời tự nhận của Nigaṇṭha Nātaputta (MN 14, MN 101), kèm vế "dù đi, đứng, ngủ hay thức, tri kiến luôn luôn hiện tiền".
+Câu về toàn tri:  "sabbaññū sabbadassāvī aparisesaṁ ñāṇadassanaṁ paṭijānāti"/"bậc toàn tri, thấy biết tất cả, tuyên bố có trí và thấy biết không thiếu sót" trong Nikāya vốn là lời tự nhận của Nigaṇṭha Nātaputta (MN 14.17, MN 101), kèm vế "dù đi, đứng, ngủ hay thức, tri kiến luôn luôn hiện tiền".
 
-Một ví dụ là MN 14.18: về biết mọi thứ 
+Một ví dụ là MN 14.18: về biết mọi thứ
 ‘Nhưng này các hiền giả tu sĩ Nigaṇṭha, các vị có biết — chúng ta đã từng làm hành động ác trong quá khứ hay không từng làm?’
 
 Như vậy có thể hiểu nghĩa của từ "toàn tri" là "biết mọi thứ mọi thời điểm", nhưng sự thật có lẽ là "biết mọi thứ nhưng phải hướng ý nghĩ về thứ đó"

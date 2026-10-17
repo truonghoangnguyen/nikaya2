@@ -1,6 +1,6 @@
 # MN 92. KINH SELA
 
-***(Sela Sutta)***
+***(Sela Sutta)***\
 
 Như vầy tôi nghe.
 
@@ -131,133 +131,133 @@ A-la-hán, Chánh Ðẳng Giác, khi những lời tán thán của những bậ
 hình ra". Vậy ta hãy trước mặt Thế Tôn tán thán những bài kệ xứng đáng". Rồi Bà-la-môn Sela, tán thán
 trước mặt Sa-môn Gotama những bài kệ xứng đáng như sau:
 
-*Thân trọn đủ chói sáng,*
-*Khéo sanh và đẹp đẽ,*
-*Thế Tôn sắc vàng chói,*
-*Răng trơn, láng, tinh cần.*
-*Ðối với người khéo sanh,*
-*Những tướng tốt trang trọng,*
-*Ðều có trên thân Ngài,*
-*Tất cả Ðại nhân tướng.*
-*Mắt sáng, mặt tròn đầy,*
-*Cân đối, thẳng, hoàn mỹ,*
-*Giữa chúng Sa-môn Tăng,*
-*Ngài chói như mặt trời.*
-*Ðẹp mắt vị Tỷ-kheo,*
-*Da sáng như vàng chói,*
-*Với hạnh Sa-môn, Ngài*
-*Cần gì sắc tối thượng.*
-*Ngài xứng bậc Ðại vương,*
-*Chuyển Luân, bậc Ðiều Ngự,*
+*Thân trọn đủ chói sáng,*\
+*Khéo sanh và đẹp đẽ,*\
+*Thế Tôn sắc vàng chói,*\
+*Răng trơn, láng, tinh cần.*\
+*Ðối với người khéo sanh,*\
+*Những tướng tốt trang trọng,*\
+*Ðều có trên thân Ngài,*\
+*Tất cả Ðại nhân tướng.*\
+*Mắt sáng, mặt tròn đầy,*\
+*Cân đối, thẳng, hoàn mỹ,*\
+*Giữa chúng Sa-môn Tăng,*\
+*Ngài chói như mặt trời.*\
+*Ðẹp mắt vị Tỷ-kheo,*\
+*Da sáng như vàng chói,*\
+*Với hạnh Sa-môn, Ngài*\
+*Cần gì sắc tối thượng.*\
+*Ngài xứng bậc Ðại vương,*\
+*Chuyển Luân, bậc Ðiều Ngự,*\
 *Chiến thắng khắp thiên hạ,*
 
-*Bậc tối thượng Diêm-phù.*
-*Vương tộc, hào phú vương,*
-*Là chư hầu của Ngài,*
-*Là vua giữa các vua,*
-*Là Giáo chủ loài Người.*
-*Hãy trị vì quốc độ,*
+*Bậc tối thượng Diêm-phù.*\
+*Vương tộc, hào phú vương,*\
+*Là chư hầu của Ngài,*\
+*Là vua giữa các vua,*\
+*Là Giáo chủ loài Người.*\
+*Hãy trị vì quốc độ,*\
 *Tôn giả Gotama!*
 
 Thế Tôn liền trả lời:
 
-*Sela, Ta là vua,*
-*Bậc Pháp vương vô thượng,*
-*Ta chuyển bánh xe pháp,*
+*Sela, Ta là vua,*\
+*Bậc Pháp vương vô thượng,*\
+*Ta chuyển bánh xe pháp,*\
 *Bánh xe chưa từng chuyển.*
 
 (Sela):
 
-*Ngài tự nhận Giác giả*
-*Sela lại hỏi thêm,*
-*"Bậc Pháp vương vô thượng,*
-*Ta chuyển bánh xe Pháp",*
+*Ngài tự nhận Giác giả*\
+*Sela lại hỏi thêm,*\
+*"Bậc Pháp vương vô thượng,*\
+*Ta chuyển bánh xe Pháp",*\
 *Ngài trả lời như vậy.*
 
-*Tôn giả Gotama,*
-*Ai sẽ là tướng quân ?*
-*Là Tôn giả đệ tử ?*
-*Vị đệ tử tín thành ?*
-*Xứng đáng bậc Ðạo sư ?*
-*Sau Ngài, ai sẽ chuyển,*
+*Tôn giả Gotama,*\
+*Ai sẽ là tướng quân ?*\
+*Là Tôn giả đệ tử ?*\
+*Vị đệ tử tín thành ?*\
+*Xứng đáng bậc Ðạo sư ?*\
+*Sau Ngài, ai sẽ chuyển,*\
 *Pháp luân Ngài đã chuyển ?*
 
 (Thế Tôn):
 
-*Này Sela,*
-*Ta chuyển bánh xe Pháp,*
-*Bánh xe Pháp vô thượng.*
-*Chính Sariputta,*
-*Chuyển bánh xe Chánh Pháp,*
+*Này Sela,*\
+*Ta chuyển bánh xe Pháp,*\
+*Bánh xe Pháp vô thượng.*\
+*Chính Sariputta,*\
+*Chuyển bánh xe Chánh Pháp,*\
 *Thừa tự Như Lai vị.*
 
-*Cần biết, Ta đã biết,*
-*Cần tu, Ta đã tu,*
-*Cần bỏ, Ta đã bỏ.*
-*Do vậy Ta là Phật,*
+*Cần biết, Ta đã biết,*\
+*Cần tu, Ta đã tu,*\
+*Cần bỏ, Ta đã bỏ.*\
+*Do vậy Ta là Phật,*\
+*Ôi, Tôn giả Phạm chí!*\
+
+*Còn gì nghi ở Ta,*\
+*Hãy gác bỏ một bên,*\
+*Hãy giải thoát khỏi chúng,*\
 *Ôi, Tôn giả Phạm chí!*
 
-*Còn gì nghi ở Ta,*
-*Hãy gác bỏ một bên,*
-*Hãy giải thoát khỏi chúng,*
-*Ôi, Tôn giả Phạm chí!*
-
-*Thấy được bậc Chánh Giác,*
-*Thật thiên nan vạn nan,*
-*Bậc Chánh Giác ra đời,*
+*Thấy được bậc Chánh Giác,*\
+*Thật thiên nan vạn nan,*\
+*Bậc Chánh Giác ra đời,*\
 *Thật thiên nan vạn nan!*
 
-*Ta là bậc Chánh Giác,*
-*Bậc Y vương vô thượng,*
+*Ta là bậc Chánh Giác,*\
+*Bậc Y vương vô thượng,*\
 *Ôi, Tôn giả Phạm chí!*
 
-*Là Phạm thiên khó sánh,*
-*Nhiếp phục các ma quân.*
-*Hàng phục mọi đối nghịch,*
-*Ta sống tâm hoan hỷ,*
-*Không sợ hãi một ai,*
+*Là Phạm thiên khó sánh,*\
+*Nhiếp phục các ma quân.*\
+*Hàng phục mọi đối nghịch,*\
+*Ta sống tâm hoan hỷ,*\
+*Không sợ hãi một ai,*\
 *Không từ đâu run sợ.*
 
 (Sela):
 
-*Chư Tôn giả, hãy nghe!*
-*Như bậc có mắt giảng,*
-*Bậc Y vương, Anh hùng,*
+*Chư Tôn giả, hãy nghe!*\
+*Như bậc có mắt giảng,*\
+*Bậc Y vương, Anh hùng,*\
 *Sư tử rống rừng sâu.*
 
-*Thấy Phạm thiên vô tỷ,*
-*Nhiếp phục các ma quân,*
-*Ai lại không tín thành,*
+*Thấy Phạm thiên vô tỷ,*\
+*Nhiếp phục các ma quân,*\
+*Ai lại không tín thành,*\
 *Cho đến kẻ hạ tiện.*
 
-*Ai muốn, hãy theo Ta,*
-*Không muốn, hãy ra đi,*
-*Ở đây, Ta xuất gia,*
+*Ai muốn, hãy theo Ta,*\
+*Không muốn, hãy ra đi,*\
+*Ở đây, Ta xuất gia,*\
 *Bậc Trí Tuệ tối thượng!*
 
 (Các Bà-la-môn):
 
-*Nếu Tôn giả tín thành,*
-*Giáo pháp bậc Chánh Giác,*
-*Chúng con cũng xuất gia,*
+*Nếu Tôn giả tín thành,*\
+*Giáo pháp bậc Chánh Giác,*\
+*Chúng con cũng xuất gia,*\
 *Bậc Trí Tuệ tối thượng!*
 
 (Sela):
 
-*Ba trăm Phạm chí ấy,*
-*Chắp tay xin được phép:*
-*Chúng con sống Phạm hạnh,*
+*Ba trăm Phạm chí ấy,*\
+*Chắp tay xin được phép:*\
+*Chúng con sống Phạm hạnh,*\
 *Do Thế Tôn lãnh đạo!*
 
 Thế Tôn đáp:
 
-*Nầy Sela,*
-*Phạm hạnh được khéo giảng,*
-*Thiết thực ngay hiện tại,*
-*Vượt khỏi thời gian tính.*
-*Ở đây sự xuất gia,*
-*Không uổng công hoang phí,*
-*Với ai không phóng dật,*
+*Nầy Sela,*\
+*Phạm hạnh được khéo giảng,*\
+*Thiết thực ngay hiện tại,*\
+*Vượt khỏi thời gian tính.*\
+*Ở đây sự xuất gia,*\
+*Không uổng công hoang phí,*\
+*Với ai không phóng dật,*\
 *Tinh tấn chuyên tu học.*
 
 Bà-la-môn Sela cùng với hội chúng được xuất gia dưới sự lãnh đạo Thế Tôn, được thọ đại giới.
@@ -270,21 +270,20 @@ Tỷ-kheo với đức Phật là vị cầm đầu và làm cho thỏa mãn v�
 mềm. Rồi bện tóc Keniya, sau khi Thế Tôn ăn xong, tay đã rời khỏi bát, liền lấy một ghế ngồi thấp khác
 và ngồi xuống một bên. Thế Tôn nói với bện tóc Keniya lời tùy hỷ công đức với những bài kệ sau đây:
 
-*Tế đàn là tối thượng,*
-*Trong các lễ tế lửa,*
-*Savitti là tối thượng,*
+*Tế đàn là tối thượng,*\
+*Trong các lễ tế lửa,*\
+*Savitti là tối thượng,*\
 *Giữa bài thơ Veda.*
 
-*Vua là bậc tối thượng,*
-*Giữa thế giới loài Người,*
-*Ðại dương là tối thượng,*
-*Giữa các loại sống ngòi.*
-
-*Mặt trăng là tối thượng,*
-*Giữa các vì sao sáng,*
-*Chúng Tăng thật tối thượng,*
-*Với những ai bố thí,*
-*Tâm mong ước nguyện cầu,*
+*Vua là bậc tối thượng,*\
+*Giữa thế giới loài Người,*\
+*Ðại dương là tối thượng,*\
+*Giữa các loại sống ngòi.*\
+*Mặt trăng là tối thượng,*\
+*Giữa các vì sao sáng,*\
+*Chúng Tăng thật tối thượng,*\
+*Với những ai bố thí,*\
+*Tâm mong ước nguyện cầu,*\
 *(Gặt hái nhiều) công đức.*
 
 Thế Tôn sau khi dùng bài kệ này nói những lời tùy hỷ công đức với bện tóc Keniya, từ chỗ ngồi đứng
@@ -299,37 +298,37 @@ này biết như vậy và Tôn giả Sela với hội chúng trở thành các 
 Rồi Tôn giả Sela với hội chúng đi đến Thế Tôn, sau khi đến, đắp y vào một bên vai, chắp tay hướng đến
 Thế Tôn và đọc lên Thế Tôn bài kệ sau đây:
 
-*Kính bạch bậc Pháp Nhãn,*
+*Kính bạch bậc Pháp Nhãn,*\
 *Cách đây trước tám ngày,*
 
-*Chúng con đã đến Ngài,*
+*Chúng con đã đến Ngài,*\
 *Xin (phát nguyện) quy y.*
 
-*Thế Tôn trong bảy đêm,*
-*Ðã nhiếp phục chúng con,*
-*(Ðã chế ngự chúng con),*
+*Thế Tôn trong bảy đêm,*\
+*Ðã nhiếp phục chúng con,*\
+*(Ðã chế ngự chúng con),*\
 *Trong giáo lý của Ngài.*
 
-*Ngài là bậc Giác Giả,*
-*Ngài là bậc Ðạo Sư,*
-*Ngài là bậc Mâu-ni,*
+*Ngài là bậc Giác Giả,*\
+*Ngài là bậc Ðạo Sư,*\
+*Ngài là bậc Mâu-ni,*\
 *Ðã chiến thắng quần ma.*
 
-*Sau khi Ngài đoạn trừ,*
-*Vượt qua (biển sanh tử),*
-*Ngài giúp quần sanh này,*
-*Cùng vượt qua (bể khổ).*
+*Sau khi Ngài đoạn trừ,*\
+*Vượt qua (biển sanh tử),*\
+*Ngài giúp quần sanh này,*\
+*Cùng vượt qua (bể khổ).*\
 
-*Sanh y Ngài vượt qua,*
-*Lậu hoặc Ngài nghiền nát,*
-*Ngài là Sư tử (chúa),*
+*Sanh y Ngài vượt qua,*\
+*Lậu hoặc Ngài nghiền nát,*\
+*Ngài là Sư tử (chúa),*\
 *Không chấp, không sợ hãi.*
 
-*Ba trăm Tỷ-kheo này,*
-*Ðồng chắp tay đứng thẳng,*
-*Ôi anh hùng chiến thắng,*
-*Hãy duỗi chân bước tới.*
-*Hãy để các Ðại nhân*
+*Ba trăm Tỷ-kheo này,*\
+*Ðồng chắp tay đứng thẳng,*\
+*Ôi anh hùng chiến thắng,*\
+*Hãy duỗi chân bước tới.*\
+*Hãy để các Ðại nhân*\
 *Ðảnh lễ bậc Ðạo Sư.*
 
 **-ooOoo-**

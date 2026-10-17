@@ -1,3 +1,5 @@
+:::MIL 3 Milindapañha:::
+
 # MIL 3.1 Chương Lớn
 *(Mahāvagga)*
 
@@ -133,11 +135,11 @@ Trưởng lão nói: "Có người *tái sinh*, có người không *tái sinh*.
 ## 3.1.8. Câu hỏi về Đặc tính của Suy nghĩ
 *(Manasikāralakkhaṇapañha)*
 
-1\. Vua nói: "Thưa tôn giả Nāgasena, suy nghĩ có đặc tính gì, *trí tuệ* có đặc tính gì?" "Tâu đại vương, suy nghĩ có đặc tính *sự gom lại* (suy tạc / ūhana), *trí tuệ* có đặc tính *sự cắt đứt* (cắt đứt / chedana)."
+1\. Vua nói: "Thưa tôn giả Nāgasena, suy nghĩ có đặc tính gì, *trí tuệ* có đặc tính gì?" "Tâu đại vương, suy nghĩ có đặc tính *sự gom lại* (suy tạc / ūhana), *trí tuệ* có đặc tính *cắt đứt* (cắt đứt / chedana)."
 
-2\. "Làm sao suy nghĩ có đặc tính *sự gom lại*, làm sao *trí tuệ* có đặc tính *sự cắt đứt*? Xin ngài hãy cho một ví dụ." "Tâu đại vương, ngài có biết những người gặt lúa mạch không?" "Thưa tôn giả, có, tôi biết." "Tâu đại vương, những người gặt lúa mạch gặt lúa như thế nào?" "Thưa tôn giả, tay trái họ gom khóm lúa mạch lại, tay phải họ cầm lưỡi liềm, và họ dùng lưỡi liềm để cắt."
+2\. "Làm sao suy nghĩ có đặc tính *sự gom lại*, làm sao *trí tuệ* có đặc tính *cắt đứt*? Xin ngài hãy cho một ví dụ." "Tâu đại vương, ngài có biết những người gặt lúa mạch không?" "Thưa tôn giả, có, tôi biết." "Tâu đại vương, những người gặt lúa mạch gặt lúa như thế nào?" "Thưa tôn giả, tay trái họ gom khóm lúa mạch lại, tay phải họ cầm lưỡi liềm, và họ dùng lưỡi liềm để cắt."
 
-3\. "Tâu đại vương, giống như người gặt lúa mạch tay trái gom khóm lúa mạch lại, tay phải cầm lưỡi liềm để cắt lúa; cũng y như vậy tâu đại vương, người tu tập dùng suy nghĩ để gom tâm lại, rồi dùng *trí tuệ* để cắt đứt các *nhiễm bẩn*. Tâu đại vương, như vậy suy nghĩ có đặc tính *sự gom lại*, và *trí tuệ* có đặc tính *sự cắt đứt*."
+3\. "Tâu đại vương, giống như người gặt lúa mạch tay trái gom khóm lúa mạch lại, tay phải cầm lưỡi liềm để cắt lúa; cũng y như vậy tâu đại vương, người tu tập dùng suy nghĩ để gom tâm lại, rồi dùng *trí tuệ* để cắt đứt các *nhiễm bẩn*. Tâu đại vương, như vậy suy nghĩ có đặc tính *sự gom lại*, và *trí tuệ* có đặc tính *cắt đứt*."
 
 4\. "Ngài nói đúng lắm, thưa tôn giả Nāgasena."
 
@@ -288,13 +290,13 @@ Trưởng lão nói: "Có người *tái sinh*, có người không *tái sinh*.
 ## 3.1.15. Câu hỏi về Đặc tính của Trí tuệ
 *(Paññālakkhaṇapañha)*
 
-1\. Vua nói: "Thưa tôn giả Nāgasena, *trí tuệ* có đặc tính gì?" "Tâu đại vương, trước đây tôi đã nói: '*trí tuệ* có đặc tính *sự cắt đứt*', nhưng *trí tuệ* còn có đặc tính *sự chiếu sáng* (quang minh / obhāsanalakkhaṇā)."
+1\. Vua nói: "Thưa tôn giả Nāgasena, *trí tuệ* có đặc tính gì?" "Tâu đại vương, trước đây tôi đã nói: '*trí tuệ* có đặc tính *cắt đứt*', nhưng *trí tuệ* còn có đặc tính *chiếu sáng* (quang minh / obhāsanalakkhaṇā)."
 
-"Thưa tôn giả, làm sao *trí tuệ* có đặc tính *sự chiếu sáng*?" "Tâu đại vương, khi *trí tuệ* sinh khởi, nó xua tan bóng tối của *không hiểu biết* (vô minh / avijjā), tạo ra ánh sáng của *hiểu biết*, hiển lộ ánh sáng của trí tuệ, làm cho *Bốn Thánh Đế* (tứ Thánh Đế / ariyasaccāni) trở nên rõ ràng. Từ đó, người tu tập dùng *trí tuệ* chân chính để thấy rõ 'không bền vững' hay '*đau khổ*' hay 'không phải tự ngã'."
+"Thưa tôn giả, làm sao *trí tuệ* có đặc tính *chiếu sáng*?" "Tâu đại vương, khi *trí tuệ* sinh khởi, nó xua tan bóng tối của *không hiểu biết* (vô minh / avijjā), tạo ra ánh sáng của *hiểu biết*, hiển lộ ánh sáng của trí tuệ, làm cho *Bốn Thánh Đế* (tứ Thánh Đế / ariyasaccāni) trở nên rõ ràng. Từ đó, người tu tập dùng *trí tuệ* chân chính để thấy rõ 'không bền vững' hay '*đau khổ*' hay 'không phải tự ngã'."
 
 2\. "Xin ngài hãy cho một ví dụ."
 
-"Tâu đại vương, giống như một người mang một ngọn đèn vào trong một căn phòng tối, ngọn đèn được mang vào sẽ xua tan bóng tối, tạo ra ánh sáng, hiển lộ sự chiếu sáng, làm cho các hình ảnh trở nên rõ ràng; cũng y như vậy tâu đại vương, khi *trí tuệ* sinh khởi, nó xua tan bóng tối của *không hiểu biết*, tạo ra ánh sáng của *hiểu biết*, hiển lộ ánh sáng của trí tuệ, làm cho *Bốn Thánh Đế* trở nên rõ ràng. Từ đó, người tu tập dùng *trí tuệ* chân chính để thấy rõ 'không bền vững' hay '*đau khổ*' hay 'không phải tự ngã'. Tâu đại vương, như vậy *trí tuệ* có đặc tính *sự chiếu sáng*."
+"Tâu đại vương, giống như một người mang một ngọn đèn vào trong một căn phòng tối, ngọn đèn được mang vào sẽ xua tan bóng tối, tạo ra ánh sáng, hiển lộ sự chiếu sáng, làm cho các hình ảnh trở nên rõ ràng; cũng y như vậy tâu đại vương, khi *trí tuệ* sinh khởi, nó xua tan bóng tối của *không hiểu biết*, tạo ra ánh sáng của *hiểu biết*, hiển lộ ánh sáng của trí tuệ, làm cho *Bốn Thánh Đế* trở nên rõ ràng. Từ đó, người tu tập dùng *trí tuệ* chân chính để thấy rõ 'không bền vững' hay '*đau khổ*' hay 'không phải tự ngã'. Tâu đại vương, như vậy *trí tuệ* có đặc tính *chiếu sáng*."
 
 3\. "Ngài nói đúng lắm, thưa tôn giả Nāgasena."
 

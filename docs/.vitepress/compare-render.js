@@ -8,7 +8,7 @@ import path from 'node:path';
 import MarkdownIt from 'markdown-it';
 import anchor from 'markdown-it-anchor';
 import markdownItAttrs from 'markdown-it-attrs';
-import { slugAnchor, idAnchorFix } from './utils.js';
+import { slugAnchor, idAnchorFix, addQuicklinkRule } from './utils.js';
 
 const mdOptions = { html: true, linkify: true, typographer: true };
 const anchorOptions = {
@@ -18,6 +18,8 @@ const anchorOptions = {
 
 const mdLeft = new MarkdownIt(mdOptions).use(idAnchorFix).use(anchor, anchorOptions).use(markdownItAttrs);
 const mdRight = new MarkdownIt(mdOptions).use(anchor, anchorOptions).use(markdownItAttrs);
+addQuicklinkRule(mdLeft);
+addQuicklinkRule(mdRight);
 
 async function readAndRender(relativePath, mdInstance) {
   try {

@@ -1,195 +1,238 @@
-# SNP 3.7. Selasutta
+---
+description: Cuộc hội kiến giữa Đức Phật và vị bà-la-môn Sela, dẫn đến việc Sela cùng 300 đệ tử xuất gia và chứng quả A-la-hán.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā aṅguttarāpesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ aḍḍhateḷasehi bhikkhusatehi yena āpaṇaṁ nāma aṅguttarāpānaṁ nigamo tadavasari. Assosi kho keṇiyo jaṭilo: “samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito aṅguttarāpesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ aḍḍhateḷasehi bhikkhusatehi āpaṇaṁ anuppatto. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.
+# Snp 3.7. KINH SELA
+*(Selasutta)*
 
-2\. Atha kho keṇiyo jaṭilo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho keṇiyaṁ jaṭilaṁ bhagavā dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho keṇiyo jaṭilo bhagavatā dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito bhagavantaṁ etadavoca: “adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Evaṁ vutte, bhagavā keṇiyaṁ jaṭilaṁ etadavoca: “mahā kho, keṇiya, bhikkhusaṅgho aḍḍhateḷasāni bhikkhusatāni; tvañca brāhmaṇesu abhippasanno”ti.
+1\. Tôi đã nghe như vầy — Một thời, Đức Thế Tôn đang du hành trong vùng Aṅguttarāpa cùng với một đại chúng tỳ kheo gồm một ngàn hai trăm năm mươi vị, và Ngài đã đến một thị trấn của người Aṅguttarāpa tên là Āpaṇa. *Đạo sĩ bện tóc* (kết phát ngoại đạo / jaṭila) Keṇiya nghe tin: "Sa-môn Gotama, con trai dòng Sakya, xuất gia từ gia tộc Sakya, đang du hành trong vùng Aṅguttarāpa cùng với đại chúng tỳ kheo một ngàn hai trăm năm mươi vị, đã đến Āpaṇa. Tiếng tăm tốt đẹp sau đây của Tôn giả Gotama đã vang dội: 'Vị Thế Tôn ấy là bậc A-la-hán, Tự giác ngộ hoàn toàn, trọn vẹn hiểu biết và hành kiểm, Đấng Thiện Thệ, Người hiểu rõ thế gian, Bậc Vô thượng, Người điều phục những người cần được điều phục, Bậc Đạo sư của chư thiên và loài người, Bậc Giác Ngộ, Đức Thế Tôn'. Ngài tự mình *hiểu toàn bộ* (thắng tri / abhiññā), *trực tiếp chứng nghiệm* (chứng ngộ / sacchikatvā) và truyền dạy lại cho thế giới này cùng với chư thiên, Ma vương, Phạm thiên, cho quần chúng gồm các sa-môn, bà-la-môn, chư thiên và loài người. Ngài thuyết giảng *Giáo pháp* (pháp / dhamma) tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, trọn vẹn ý nghĩa và văn tự; Ngài hiển lộ *đời sống thánh thiện* (phạm hạnh / brahmacariya) hoàn toàn thanh tịnh và trọn vẹn. Thật tốt đẹp thay khi được chiêm ngưỡng một bậc A-la-hán như vậy".
 
-3\. Dutiyampi kho keṇiyo jaṭilo bhagavantaṁ etadavoca: “kiñcāpi, bho gotama, mahā bhikkhusaṅgho aḍḍhateḷasāni bhikkhusatāni, ahañca brāhmaṇesu abhippasanno; adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Dutiyampi kho bhagavā keṇiyaṁ jaṭilaṁ etadavoca: “mahā kho, keṇiya, bhikkhusaṅgho aḍḍhateḷasāni bhikkhusatāni; tvañca brāhmaṇesu abhippasanno”ti.
+2\. Sau đó, *đạo sĩ bện tóc* Keṇiya đi đến nơi Đức Thế Tôn [đang ngự]; sau khi đến, ông chào hỏi Đức Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu và lịch sự, ông ngồi xuống một bên. Khi *đạo sĩ bện tóc* Keṇiya đã ngồi một bên, Đức Thế Tôn dùng *bài giảng về Giáo pháp* (pháp thoại / dhammiyā kathāya) để chỉ dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ. Sau khi được Đức Thế Tôn chỉ dẫn, khích lệ, làm cho phấn chấn và làm cho hoan hỷ bằng *bài giảng về Giáo pháp*, *đạo sĩ bện tóc* Keṇiya thưa với Đức Thế Tôn: "Xin Tôn giả Gotama cùng với hội chúng tỳ kheo nhận lời mời dùng bữa của tôi vào ngày mai". Khi được nói vậy, Đức Thế Tôn bảo *đạo sĩ bện tóc* Keṇiya: "Này Keṇiya, hội chúng tỳ kheo rất đông, gồm một ngàn hai trăm năm mươi vị; còn ông thì lại có *niềm tin tuyệt đối* (tịnh tín / abhippasanno) vào các bà-la-môn".
 
-4\. Tatiyampi kho keṇiyo jaṭilo bhagavantaṁ etadavoca: “kiñcāpi, bho gotama, mahā bhikkhusaṅgho aḍḍhateḷasāni bhikkhusatāni, ahañca brāhmaṇesu abhippasanno, adhivāsetu me bhavaṁ gotamo svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. Adhivāsesi bhagavā tuṇhībhāvena. Atha kho keṇiyo jaṭilo bhagavato adhivāsanaṁ viditvā uṭṭhāyāsanā yena sako assamo tenupasaṅkami; upasaṅkamitvā mittāmacce ñātisālohite āmantesi: “suṇantu me bhavanto mittāmaccā ñātisālohitā, samaṇo me gotamo nimantito svātanāya bhattaṁ saddhiṁ bhikkhusaṅghena, yena me kāyaveyyāvaṭikaṁ kareyyāthā”ti. “Evaṁ, bho”ti kho keṇiyassa jaṭilassa mittāmaccā ñātisālohitā keṇiyassa jaṭilassa paṭissutvā appekacce uddhanāni khaṇanti, appekacce kaṭṭhāni phālenti, appekacce bhājanāni dhovanti, appekacce udakamaṇikaṁ patiṭṭhāpenti, appekacce āsanāni paññāpenti. Keṇiyo pana jaṭilo sāmaṁyeva maṇḍalamāḷaṁ paṭiyādeti.
+3\. Lần thứ hai, *đạo sĩ bện tóc* Keṇiya thưa với Đức Thế Tôn: "Thưa Tôn giả Gotama, cho dù hội chúng tỳ kheo rất đông, gồm một ngàn hai trăm năm mươi vị, và tôi có *niềm tin tuyệt đối* vào các bà-la-môn; xin Tôn giả Gotama cùng với hội chúng tỳ kheo vẫn nhận lời mời dùng bữa của tôi vào ngày mai". Lần thứ hai, Đức Thế Tôn bảo *đạo sĩ bện tóc* Keṇiya: "Này Keṇiya, hội chúng tỳ kheo rất đông, gồm một ngàn hai trăm năm mươi vị; còn ông thì lại có *niềm tin tuyệt đối* vào các bà-la-môn".
 
-5\. Tena kho pana samayena selo brāhmaṇo āpaṇe paṭivasati, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ padako veyyākaraṇo lokāyatamahāpurisalakkhaṇesu anavayo, tīṇi ca māṇavakasatāni mante vāceti.
+4\. Lần thứ ba, *đạo sĩ bện tóc* Keṇiya thưa với Đức Thế Tôn: "Thưa Tôn giả Gotama, cho dù hội chúng tỳ kheo rất đông, gồm một ngàn hai trăm năm mươi vị, và tôi có *niềm tin tuyệt đối* vào các bà-la-môn; xin Tôn giả Gotama cùng với hội chúng tỳ kheo vẫn nhận lời mời dùng bữa của tôi vào ngày mai". Đức Thế Tôn nhận lời bằng sự im lặng. Sau đó, *đạo sĩ bện tóc* Keṇiya, biết Đức Thế Tôn đã nhận lời, liền đứng dậy khỏi chỗ ngồi và đi về am thất của mình; sau khi đến, ông gọi bạn bè, thân hữu và bà con huyết thống lại: "Thưa các bạn bè, thân hữu và bà con huyết thống, hãy nghe tôi nói. Tôi đã mời sa-môn Gotama cùng hội chúng tỳ kheo dùng bữa vào ngày mai, xin quý vị hãy giúp tôi làm các công việc phục vụ bằng tay chân". "Vâng, thưa ngài", bạn bè, thân hữu và bà con huyết thống của *đạo sĩ bện tóc* Keṇiya đáp lời ông, rồi người thì đào lò nấu, người thì chẻ củi, người thì rửa bát đĩa, người thì đặt các lu nước, người thì sắp xếp chỗ ngồi. Còn chính *đạo sĩ bện tóc* Keṇiya thì tự tay chuẩn bị một rạp che hình tròn.
 
-6\. Tena kho pana samayena keṇiyo jaṭilo sele brāhmaṇe abhippasanno hoti. Atha kho selo brāhmaṇo tīhi māṇavakasatehi parivuto jaṅghāvihāraṁ anucaṅkamamāno anuvicaramāno yena keṇiyassa jaṭilassa assamo tenupasaṅkami. Addasā kho selo brāhmaṇo keṇiyassa jaṭilassa assame appekacce uddhanāni khaṇante …pe… appekacce āsanāni paññapente, keṇiyaṁ pana jaṭilaṁ sāmaṁyeva maṇḍalamāḷaṁ paṭiyādentaṁ. Disvāna keṇiyaṁ jaṭilaṁ etadavoca: “kiṁ nu kho bhoto keṇiyassa āvāho vā bhavissati, vivāho vā bhavissati, mahāyañño vā paccupaṭṭhito, rājā vā māgadho seniyo bimbisāro nimantito svātanāya saddhiṁ balakāyenā”ti?
+5\. Vào lúc bấy giờ, bà-la-môn Sela đang cư ngụ tại Āpaṇa. Ông là người thông thạo ba kinh Veda, cùng với các từ vựng, nghi thức, ngữ âm học, từ nguyên học, và lịch sử là thứ năm; ông là người rành rẽ về ngữ pháp, thấu hiểu triết học tự nhiên và *32 đặc điểm của một bậc vĩ nhân* (ba mươi hai đại nhân tướng / mahāpurisalakkhaṇesu), và đang dạy chú thuật cho ba trăm thanh niên.
 
-7\. “Na me, bho sela, āvāho vā bhavissati vivāho vā, nāpi rājā māgadho seniyo bimbisāro nimantito svātanāya saddhiṁ balakāyena; api ca kho me mahāyañño paccupaṭṭhito. Atthi samaṇo gotamo sakyaputto sakyakulā pabbajito aṅguttarāpesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ aḍḍhateḷasehi bhikkhusatehi āpaṇaṁ anuppatto. Taṁ kho pana bhavantaṁ gotamaṁ …pe… buddho bhagavāti. So me nimantito svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā”ti. “Buddhoti, bho keṇiya, vadesi”? “Buddhoti, bho sela, vadāmi”. “Buddhoti, bho keṇiya, vadesi”? “Buddhoti, bho sela, vadāmī”ti.
+6\. Vào lúc bấy giờ, *đạo sĩ bện tóc* Keṇiya có *niềm tin tuyệt đối* vào bà-la-môn Sela. Khi ấy, bà-la-môn Sela cùng ba trăm thanh niên vây quanh đang đi dạo bộ thư giãn, và tiến về phía am thất của *đạo sĩ bện tóc* Keṇiya. Bà-la-môn Sela nhìn thấy tại am thất của *đạo sĩ bện tóc* Keṇiya, người thì đào lò nấu... [lặp lại] ...người thì sắp xếp chỗ ngồi, còn chính *đạo sĩ bện tóc* Keṇiya thì tự tay chuẩn bị một rạp che hình tròn. Thấy vậy, ông hỏi *đạo sĩ bện tóc* Keṇiya: "Phải chăng ngài Keṇiya sắp có lễ rước dâu, hay lễ gả chồng, hay một cuộc tế tự lớn đang được chuẩn bị, hay vua Bimbisāra nước Magadha cùng với quân đội đã được mời đến vào ngày mai?"
 
-8\. Atha kho selassa brāhmaṇassa etadahosi: “ghosopi kho eso dullabho lokasmiṁ, yadidaṁ buddhoti. Āgatāni kho panamhākaṁ mantesu dvattiṁsamahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. Sace agāraṁ ajjhāvasati rājā hoti cakkavattī dhammiko dhammarājā cāturanto vijitāvī janapadatthāvariyappatto sattaratanasamannāgato. Tassimāni satta ratanāni bhavanti, seyyathidaṁ—cakkaratanaṁ, hatthiratanaṁ, assaratanaṁ, maṇiratanaṁ, itthiratanaṁ, gahapatiratanaṁ, pariṇāyakaratanameva sattamaṁ. Parosahassaṁ kho panassa puttā bhavanti sūrā vīraṅgarūpā parasenappamaddanā. So imaṁ pathaviṁ sāgarapariyantaṁ adaṇḍena asatthena dhammena abhivijiya ajjhāvasati. Sace kho pana agārasmā anagāriyaṁ pabbajati, arahaṁ hoti sammāsambuddho loke vivaṭṭacchado. Kahaṁ pana, bho keṇiya, etarahi so bhavaṁ gotamo viharati arahaṁ sammāsambuddho”ti?
+7\. "Thưa ngài Sela, tôi không có lễ rước dâu hay lễ gả chồng, vua Bimbisāra nước Magadha cùng quân đội cũng không được mời đến vào ngày mai; nhưng quả thực có một cuộc tế tự lớn đang được chuẩn bị. Có sa-môn Gotama, con trai dòng Sakya, xuất gia từ gia tộc Sakya, đang du hành trong vùng Aṅguttarāpa cùng với đại chúng tỳ kheo một ngàn hai trăm năm mươi vị, đã đến Āpaṇa. Tiếng tăm tốt đẹp sau đây của Tôn giả Gotama đã vang dội... [lặp lại] ...Bậc Giác Ngộ, Đức Thế Tôn. Ngài đã được tôi mời dùng bữa cùng với hội chúng tỳ kheo vào ngày mai".
+"Ngài vừa nói 'Bậc Giác Ngộ' (Buddha) sao, ngài Keṇiya?"
+"Tôi nói 'Bậc Giác Ngộ', ngài Sela".
+"Ngài vừa nói 'Bậc Giác Ngộ' sao, ngài Keṇiya?"
+"Tôi nói 'Bậc Giác Ngộ', ngài Sela".
 
-9\. Evaṁ vutte, keṇiyo jaṭilo dakkhiṇaṁ bāhuṁ paggahetvā selaṁ brāhmaṇaṁ etadavoca: “yenesā, bho sela, nīlavanarājī”ti. Atha kho selo brāhmaṇo tīhi māṇavakasatehi saddhiṁ yena bhagavā tenupasaṅkami. Atha kho selo brāhmaṇo te māṇavake āmantesi: “appasaddā bhonto āgacchantu, pade padaṁ nikkhipantā. Durāsadā hi te bhagavanto sīhāva ekacarā. Yadā cāhaṁ, bho, samaṇena gotamena saddhiṁ manteyyaṁ, mā me bhonto antarantarā kathaṁ opātetha; kathāpariyosānaṁ me bhavanto āgamentū”ti.
+8\. Khi ấy, bà-la-môn Sela suy nghĩ: "Ngay cả âm thanh 'Bậc Giác Ngộ' này cũng thật hiếm có trên đời. Trong các chú thuật của chúng ta có truyền lại *32 đặc điểm của một bậc vĩ nhân*, người nào có đầy đủ những đặc điểm này thì chỉ có hai con đường, không có con đường nào khác. Nếu sống đời tại gia, vị ấy sẽ trở thành vị vua Chuyển luân vương cai trị đúng *Quy luật* (pháp / dhamma), vị vua của *Quy luật*, bậc chiến thắng bốn phương, mang lại sự ổn định cho đất nước, sở hữu bảy báu vật. Bảy báu vật của vị ấy là: bánh xe báu, voi báu, ngựa báu, ngọc báu, nữ báu, gia chủ báu, và tướng quân báu là thứ bảy. Vị ấy có hơn một ngàn người con trai dũng cảm, vóc dáng oai hùng, có khả năng nghiền nát quân thù. Vị ấy chinh phục và cai trị trái đất này cho đến tận bờ biển, không dùng hình phạt, không dùng vũ khí, mà bằng *Quy luật*. Còn nếu vị ấy rời bỏ gia đình, xuất gia sống không nhà, vị ấy sẽ trở thành bậc A-la-hán, Tự giác ngộ hoàn toàn, vén bức màn vô minh cho thế gian. Thưa ngài Keṇiya, hiện nay Tôn giả Gotama, bậc A-la-hán, Tự giác ngộ hoàn toàn ấy đang ngự ở đâu?"
 
-10\. Atha kho selo brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho selo brāhmaṇo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni samannesi. Addasā kho selo brāhmaṇo bhagavato kāye dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya cāti.
+9\. Khi được hỏi vậy, *đạo sĩ bện tóc* Keṇiya giơ cánh tay phải lên và nói với bà-la-môn Sela: "Thưa ngài Sela, ở chỗ rặng rừng xanh kia". Sau đó, bà-la-môn Sela cùng với ba trăm thanh niên đi đến nơi Đức Thế Tôn [đang ngự]. Bà-la-môn Sela dặn dò các thanh niên: "Các vị hãy đi thật khẽ khàng, bước từng bước một. Các vị Thế Tôn ấy rất khó tiếp cận, giống như những con sư tử đi một mình. Và khi tôi đang đàm đạo với sa-môn Gotama, các vị đừng chen ngang vào câu chuyện; hãy đợi cho đến khi tôi nói xong".
 
-11\. Atha kho bhagavato etadahosi: “passati kho me ayaṁ selo brāhmaṇo dvattiṁsamahāpurisalakkhaṇāni yebhuyyena ṭhapetvā dve. Dvīsu mahāpurisalakkhaṇesu kaṅkhati vicikicchati nādhimuccati na sampasīdati—kosohite ca vatthaguyhe pahūtajivhatāya cā”ti. Atha kho bhagavā tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhāsi, yathā addasa selo brāhmaṇo bhagavato kosohitaṁ vatthaguyhaṁ. Atha kho bhagavā jivhaṁ ninnāmetvā ubhopi kaṇṇasotāni anumasi paṭimasi, ubhopi nāsikasotāni anumasi paṭimasi, kevalampi nalāṭamaṇḍalaṁ jivhāya chādesi.
+10\. Sau đó, bà-la-môn Sela đi đến nơi Đức Thế Tôn; sau khi đến, ông chào hỏi Đức Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu và lịch sự, ông ngồi xuống một bên. Ngồi một bên, bà-la-môn Sela quan sát trên thân Đức Thế Tôn *32 đặc điểm của một bậc vĩ nhân*. Bà-la-môn Sela nhìn thấy trên thân Đức Thế Tôn hầu hết *32 đặc điểm của một bậc vĩ nhân*, ngoại trừ hai điểm. Về hai đặc điểm vĩ nhân này, ông hoài nghi, do dự, không tin tưởng, không thỏa mãn — đó là *bộ phận sinh dục ẩn kín trong bọc* (mã âm tàng tướng / kosohite ca vatthaguyhe) và *lưỡi dài và rộng* (quảng trường thiệt tướng / pahūtajivhatāya).
 
-12\. Atha kho selassa brāhmaṇassa etadahosi: “samannāgato kho samaṇo gotamo dvattiṁsamahāpurisalakkhaṇehi paripuṇṇehi, no aparipuṇṇehi. No ca kho naṁ jānāmi buddho vā no vā. Sutaṁ kho pana metaṁ brāhmaṇānaṁ vuḍḍhānaṁ mahallakānaṁ ācariyapācariyānaṁ bhāsamānānaṁ: ‘ye te bhavanti arahanto sammāsambuddhā, te sake vaṇṇe bhaññamāne attānaṁ pātukarontī’ti. Yannūnāhaṁ samaṇaṁ gotamaṁ sammukhā sāruppāhi gāthāhi abhitthaveyyan”ti. Atha kho selo brāhmaṇo bhagavantaṁ sammukhā sāruppāhi gāthāhi abhitthavi:
+11\. Khi ấy, Đức Thế Tôn suy nghĩ: "Bà-la-môn Sela này nhìn thấy trên thân Ta hầu hết *32 đặc điểm của một bậc vĩ nhân*, ngoại trừ hai điểm. Về hai đặc điểm vĩ nhân này, ông ta hoài nghi, do dự, không tin tưởng, không thỏa mãn — đó là *bộ phận sinh dục ẩn kín trong bọc* và *lưỡi dài và rộng*". Rồi Đức Thế Tôn vận dụng thần thông theo cách khiến cho bà-la-môn Sela nhìn thấy *bộ phận sinh dục ẩn kín trong bọc* của Ngài. Tiếp đó, Đức Thế Tôn thè lưỡi ra, chạm và liếm cả hai lỗ tai, chạm và liếm cả hai lỗ mũi, và dùng lưỡi che kín toàn bộ vầng trán.
 
-13\.
-> “Paripuṇṇakāyo suruci,\
-> Sujāto cārudassano;\
-> Suvaṇṇavaṇṇosi bhagavā,\
-> Susukkadāṭhosi vīriyavā.
+12\. Khi ấy, bà-la-môn Sela suy nghĩ: "Sa-môn Gotama có đầy đủ *32 đặc điểm của một bậc vĩ nhân*, không hề thiếu sót. Nhưng ta không biết Ngài có phải là Bậc Giác Ngộ hay không. Ta từng nghe các vị bà-la-môn trưởng thượng, lớn tuổi, các bậc đạo sư và tổ sư truyền lại rằng: 'Những ai là bậc A-la-hán, Tự giác ngộ hoàn toàn, khi được tán thán bằng những lời ca ngợi, các ngài sẽ tự hiển lộ bản thân'. Vậy ta hãy dùng những vần kệ thích hợp để tán thán sa-môn Gotama ngay trước mặt Ngài". Sau đó, bà-la-môn Sela tán thán Đức Thế Tôn ngay trước mặt Ngài bằng những vần kệ thích hợp:
 
-14\.
-> Narassa hi sujātassa,\
-> ye bhavanti viyañjanā;\
-> Sabbe te tava kāyasmiṁ,\
-> mahāpurisalakkhaṇā.
+13.
+> Thân trọn vẹn tuyệt đẹp,
+> Sanh khéo, dáng uy nghi;
+> Thế Tôn màu vàng rực,
+> Răng trắng, đầy dũng lực.
 
-15\.
-> Pasannanetto sumukho,\
-> brahā uju patāpavā;\
-> Majjhe samaṇasaṅghassa,\
-> ādiccova virocasi.
+14.
+> Những đặc điểm vĩ nhân,
+> Của con người sanh khéo;
+> Đều hiện rõ trên thân,
+> Ba mươi hai tướng tốt.
 
-16\.
-> Kalyāṇadassano bhikkhu,\
-> kañcanasannibhattaco;\
-> Kiṁ te samaṇabhāvena,\
-> evaṁ uttamavaṇṇino.
+15.
+> Mắt trong, mặt rạng rỡ,
+> Vóc lớn, thẳng, oai phong;
+> Giữa đại chúng tỳ kheo,
+> Sáng rực như mặt trời.
 
-17\.
-> Rājā arahasi bhavituṁ,\
-> cakkavattī rathesabho;\
-> Cāturanto vijitāvī,\
-> jambusaṇḍassa issaro.
+16.
+> Vị tỳ kheo tuyệt mỹ,
+> Da tựa sắc vàng ròng;
+> Cớ sao làm sa-môn,
+> Khi sắc vóc tối thượng?
 
-18\.
-> Khattiyā bhogirājāno,\
-> anuyantā bhavantu te;\
-> Rājābhirājā manujindo,\
-> rajjaṁ kārehi gotama”.
+17.
+> Ngài xứng đáng làm vua,
+> Chuyển luân vương vĩ đại;
+> Bậc chiến thắng bốn phương,
+> Chúa tể cõi Diêm-phù.
 
-19\.
-> “Rājāhamasmi selāti,\
-> (bhagavā)\
-> Dhammarājā anuttaro;\
-> Dhammena cakkaṁ vattemi,\
-> Cakkaṁ appaṭivattiyaṁ”.
+18.
+> Các vua chúa sát-đế,
+> Hãy làm tùy tùng Ngài;
+> Vua của các vị vua,
+> Gotama trị vì!
 
-20\.
-> “Sambuddho paṭijānāsi,\
-> (iti selo brāhmaṇo)\
-> Dhammarājā anuttaro;\
-> ‘Dhammena cakkaṁ vattemi’,\
-> Iti bhāsasi gotama.
+19.
+> Ta là vua, Sela,
+> (Đức Thế Tôn đáp)
+> Vua Giáo pháp vô thượng;
+> Ta xoay chuyển bánh xe,
+> Bánh xe không ai cản.
 
-21\.
-> Ko nu senāpati bhoto,\
-> Sāvako satthuranvayo;\
-> Ko te tamanuvatteti,\
-> Dhammacakkaṁ pavattitaṁ”.
+20.
+> Ngài tự xưng Giác Ngộ,
+> (Bà-la-môn Sela nói)
+> Vua Giáo pháp vô thượng;
+> "Ta xoay chuyển bánh xe",
+> Gotama tuyên bố.
 
-22\.
-> “Mayā pavattitaṁ cakkaṁ,\
-> (selāti bhagavā)\
-> Dhammacakkaṁ anuttaraṁ;\
-> Sāriputto anuvatteti,\
-> Anujāto tathāgataṁ.
+21.
+> Ai là vị tướng quân,
+> Đệ tử nối gót Thầy;
+> Ai tiếp tục xoay chuyển,
+> Bánh xe Pháp vận hành?
 
-23\.
-> Abhiññeyyaṁ abhiññātaṁ,\
-> Bhāvetabbañca bhāvitaṁ;\
-> Pahātabbaṁ pahīnaṁ me,\
-> Tasmā buddhosmi brāhmaṇa.
+22.
+> Bánh xe Ta xoay chuyển,
+> (Đức Thế Tôn đáp)
+> Bánh xe Pháp vô thượng;
+> Sāriputta tiếp tục,
+> Bậc nối gót Như Lai.
 
-24\.
-> Vinayassu mayi kaṅkhaṁ,\
-> Adhimuccassu brāhmaṇa;\
-> Dullabhaṁ dassanaṁ hoti,\
-> Sambuddhānaṁ abhiṇhaso.
+23.
+> Điều cần biết, đã biết,
+> Cần luyện tập, đã rèn;
+> Cần từ bỏ, đã bỏ,
+> Nên Ta là Phật đà.
 
-25\.
-> Yesaṁ ve dullabho loke,\
-> Pātubhāvo abhiṇhaso;\
-> Sohaṁ brāhmaṇa sambuddho,\
-> Sallakatto anuttaro.
+24.
+> Hãy dứt nghi về Ta,
+> Hãy vững tin, bà-la-môn;
+> Thật vô cùng hiếm hoi,
+> Được thấy bậc Giác Ngộ.
 
-26\.
-> Brahmabhūto atitulo,\
-> Mārasenappamaddano;\
-> Sabbāmitte vasīkatvā,\
-> Modāmi akutobhayo”.
+25.
+> Sự xuất hiện trên đời,
+> Của Giác Ngộ hiếm hoi;
+> Ta là Phật, bà-la-môn,
+> Bậc y sĩ vô thượng.
 
-27\.
-> “Imaṁ bhavanto nisāmetha,\
-> Yathā bhāsati cakkhumā;\
-> Sallakatto mahāvīro,\
-> Sīhova nadatī vane.
+26.
+> Trở thành bậc tối thắng,
+> Đánh tan quân Ma vương;
+> Nhiếp phục mọi kẻ thù,
+> Ta vui sống không sợ.
 
-28\.
-> Brahmabhūtaṁ atitulaṁ,\
-> Mārasenappamaddanaṁ;\
-> Ko disvā nappasīdeyya,\
-> Api kaṇhābhijātiko.
+27.
+> Các vị hãy lắng nghe,
+> Lời Bậc có mắt thần;
+> Bậc y sĩ đại hùng,
+> Như sư tử rống rừng.
 
-29\.
-> Yo maṁ icchati anvetu,\
-> Yo vā nicchati gacchatu;\
-> Idhāhaṁ pabbajissāmi,\
-> Varapaññassa santike”.
+28.
+> Bậc tối thắng vô song,
+> Đánh tan quân Ma vương;
+> Ai thấy không tịnh tín,
+> Dù sinh dòng thấp hèn?
 
-30\.
-> “Evañce ruccati bhoto,\
-> Sammāsambuddhasāsane;\
-> Mayampi pabbajissāma,\
-> Varapaññassa santike”.
+29.
+> Ai muốn, hãy theo ta,
+> Ai không muốn, cứ đi;
+> Ta sẽ xin xuất gia,
+> Dưới chân Bậc tuệ trí.
 
-31\.
-> Brāhmaṇā tisatā ime,\
-> Yācanti pañjalīkatā;\
-> “Brahmacariyaṁ carissāma,\
-> Bhagavā tava santike”.
+30.
+> Nếu thầy đã ưng ý,
+> Giáo pháp Bậc Giác Ngộ;
+> Chúng con cũng xuất gia,
+> Dưới chân Bậc tuệ trí.
 
-32\.
-> “Svākkhātaṁ brahmacariyaṁ,\
-> (selāti bhagavā)\
-> Sandiṭṭhikamakālikaṁ;\
-> Yattha amoghā pabbajjā,\
-> Appamattassa sikkhato”ti.
+31.
+> Ba trăm bà-la-môn,
+> Chắp tay cùng thỉnh cầu;
+> "Xin sống đời thánh thiện,
+> Dưới chân Ngài, Thế Tôn".
 
-33\. Alattha kho selo brāhmaṇo sapariso bhagavato santike pabbajjaṁ, alattha upasampadaṁ. Atha kho keṇiyo jaṭilo tassā rattiyā accayena sake assame paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā bhagavato kālaṁ ārocāpesi: “kālo, bho gotama, niṭṭhitaṁ bhattan”ti. Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena keṇiyassa jaṭilassa assamo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena.
+32.
+> Đời thánh thiện khéo giảng,
+> (Đức Thế Tôn đáp)
+> Thiết thực, vượt thời gian;
+> Xuất gia không uổng phí,
+> Cho người không sao nhãng.
 
-34\. Atha kho keṇiyo jaṭilo buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi. Atha kho keṇiyo jaṭilo bhagavantaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho keṇiyaṁ jaṭilaṁ bhagavā imāhi gāthāhi anumodi:
+33\. Bà-la-môn Sela cùng với hội chúng của mình đã được xuất gia và thọ đại giới dưới sự chứng minh của Đức Thế Tôn. Sau đó, khi đêm đã qua, *đạo sĩ bện tóc* Keṇiya chuẩn bị các món ăn thượng vị loại cứng và loại mềm tại am thất của mình, rồi cho người đến báo giờ với Đức Thế Tôn: "Đã đến giờ, thưa Tôn giả Gotama, bữa ăn đã sẵn sàng". Khi ấy, vào buổi sáng, Đức Thế Tôn đắp y, mang bát, đi đến am thất của *đạo sĩ bện tóc* Keṇiya; sau khi đến, Ngài ngồi xuống chỗ đã được sắp xếp cùng với hội chúng tỳ kheo.
 
-35\.
-> “Aggihuttamukhā yaññā,\
-> Sāvittī chandaso mukhaṁ;\
-> Rājā mukhaṁ manussānaṁ,\
-> Nadīnaṁ sāgaro mukhaṁ.
+34\. *Đạo sĩ bện tóc* Keṇiya tự tay dâng cúng và làm cho hội chúng tỳ kheo do Đức Phật đứng đầu được no đủ bằng các món ăn thượng vị loại cứng và loại mềm. Khi Đức Thế Tôn đã dùng bữa xong và rút tay khỏi bát, *đạo sĩ bện tóc* Keṇiya lấy một chiếc ghế thấp ngồi xuống một bên. Khi *đạo sĩ bện tóc* Keṇiya đã ngồi một bên, Đức Thế Tôn dùng những vần kệ này để bày tỏ sự hoan hỷ:
 
-36\.
-> Nakkhattānaṁ mukhaṁ cando,\
-> Ādicco tapataṁ mukhaṁ;\
-> Puññaṁ ākaṅkhamānānaṁ,\
-> Saṅgho ve yajataṁ mukhan”ti.
+35.
+> Lửa là đầu tế tự,
+> Sāvittī đầu thi ca;
+> Vua là đầu loài người,
+> Biển là đầu sông ngòi.
 
-37\. Atha kho bhagavā keṇiyaṁ jaṭilaṁ imāhi gāthāhi anumoditvā uṭṭhāyāsanā pakkāmi. Atha kho āyasmā selo sapariso eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva …pe… aññataro kho panāyasmā selo sapariso arahataṁ ahosi.
+36.
+> Trăng là đầu tinh tú,
+> Mặt trời đầu sức nóng;
+> Với người mong phước báu,
+> Tăng chúng là đứng đầu.
 
-38\. Atha kho āyasmā selo sapariso yena bhagavā tenupasaṅkami, upasaṅkamitvā ekaṁsaṁ cīvaraṁ katvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ gāthāya ajjhabhāsi:
+37\. Sau khi bày tỏ sự hoan hỷ với *đạo sĩ bện tóc* Keṇiya bằng những vần kệ này, Đức Thế Tôn đứng dậy rời đi. Sau đó, Tôn giả Sela cùng hội chúng sống một mình, *rời bỏ* (viễn ly / vūpakaṭṭho), *không sao nhãng* (bất phóng dật / appamatto), nhiệt tâm, quyết chí, và chẳng bao lâu... [lặp lại] ...Tôn giả Sela cùng hội chúng đã trở thành những bậc A-la-hán.
 
-39\.
-> “Yaṁ taṁ saraṇamāgamha,\
-> Ito aṭṭhami cakkhuma;\
-> Sattarattena bhagavā,\
-> Dantamha tava sāsane.
+38\. Khi ấy, Tôn giả Sela cùng hội chúng đi đến nơi Đức Thế Tôn; sau khi đến, đắp y vắt qua một bên vai, chắp tay hướng về phía Đức Thế Tôn và thưa với Ngài bằng thi kệ:
 
-40\.
-> Tuvaṁ buddho tuvaṁ satthā,\
-> Tuvaṁ mārābhibhū muni;\
-> Tuvaṁ anusaye chetvā,\
-> Tiṇṇo tāresimaṁ pajaṁ.
+39.
+> Từ khi quy y Ngài,
+> Đến nay ngày thứ tám;
+> Bảy đêm qua, Thế Tôn,
+> Chúng con được thuần phục.
 
-41\.
-> Upadhī te samatikkantā,\
-> Āsavā te padālitā;\
-> Sīhosi anupādāno,\
-> Pahīnabhayabheravo.
+40.
+> Ngài là Phật, Đạo sư,
+> Bậc chiến thắng Ma vương;
+> Cắt đứt dòng chảy ngầm,
+> Đưa chúng sinh vượt biển.
 
-42\.
-> Bhikkhavo tisatā ime,\
-> Tiṭṭhanti pañjalīkatā;\
-> Pāde vīra pasārehi,\
-> Nāgā vandantu satthuno”ti.
+41.
+> Nền tảng bám víu dứt,
+> Nguồn ác đã phá tan;
+> Sư tử không bám giữ,
+> Dứt bỏ mọi sợ hãi.
 
-Selasuttaṁ sattamaṁ.
+42.
+> Ba trăm tỳ kheo này,
+> Đứng chắp tay cung kính;
+> Xin vươn chân, đại hùng,
+> Cho chúng con đảnh lễ.
+
+Kinh Sela là bài kinh thứ bảy.
+
+---
+
+### Khảo sát văn bản
+
+#### Bối cảnh kinh:
+Kinh Sela (Selasutta - Snp 3.7) ghi lại sự kiện Đức Phật cùng 1.250 tỳ kheo du hành đến vùng Aṅguttarāpa. Tại đây, đạo sĩ bện tóc Keṇiya đã thỉnh cầu Đức Phật thọ trai. Sela, một vị bà-la-môn thông thạo ba kinh Veda và 32 đặc điểm của một bậc vĩ nhân, thấy Keṇiya chuẩn bị tiệc lớn liền tò mò gạn hỏi. Khi nghe đến danh xưng "Buddha" (Phật), Sela chấn động và tìm đến yết kiến. Sau khi kiểm chứng đủ 32 đặc điểm trên thân Đức Phật (nhờ Đức Phật dùng thần thông hiển lộ hai tướng kín), Sela tán thán Ngài bằng thi kệ. Cuối cùng, Sela cùng 300 đệ tử xin xuất gia và nhanh chóng chứng quả A-la-hán.
+
+#### Ghi chú tài liệu:
+- Bài kinh này hoàn toàn trùng khớp với Kinh Sela ([MN 92](/l?q=mn-92)) trong Trung Bộ Kinh.
+- Kinh cho thấy sự giao thoa và đối thoại giữa Phật giáo sơ kỳ với truyền thống Bà-la-môn giáo (thông qua hệ thống Veda và quan niệm về 32 đại nhân tướng).
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| jaṭila | đạo sĩ bện tóc | kết phát ngoại đạo | Tu sĩ khổ hạnh để tóc tết bện lại. |
+| brahmacariya | đời sống thánh thiện | phạm hạnh | Lối sống trong sạch, từ bỏ ái dục. |
+| [!] dvattiṁsamahāpurisalakkhaṇāni | 32 đặc điểm của một bậc vĩ nhân | ba mươi hai đại nhân tướng | Quan niệm của Ấn Độ cổ đại về các dấu hiệu thể chất của một bậc vĩ nhân. |
+| [!] kosohite ca vatthaguyhe | bộ phận sinh dục ẩn kín trong bọc | mã âm tàng tướng | Một trong 32 đặc điểm vĩ nhân. |
+| [!] pahūtajivhatāya | lưỡi dài và rộng | quảng trường thiệt tướng | Một trong 32 đặc điểm vĩ nhân. |
+| dhammacakka | bánh xe Giáo pháp | pháp luân | Sự vận hành của Giáo pháp. |
+| abhiññeyya | cần được hiểu toàn bộ | cần phải thắng tri | |
+| bhāvetabba | cần được luyện tập | cần phải tu tập | |
+| pahātabba | cần được từ bỏ | cần phải đoạn trừ | |
+| āsava | nguồn ác | lậu hoặc | |
+| [!] upadhī | nền tảng bám víu | sanh y | Các yếu tố làm nền tảng cho sự tái sinh và đau khổ. |
+| anupādāna | không còn bám giữ | vô thủ | |
+| anusaya | chảy ngầm | tùy miên | |
+| appamatta | không sao nhãng | bất phóng dật | |
+
+---
+
+### Bản dịch:
