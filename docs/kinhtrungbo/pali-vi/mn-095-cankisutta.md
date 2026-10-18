@@ -1,177 +1,212 @@
-# MN 95. Caṅkīsutta
+---
+description: Cuộc đối thoại giữa Đức Phật và thanh niên Bà-la-môn Kāpaṭika về nhận thức luận, vạch ra tiến trình tuần tự từ việc bảo vệ sự thật, khám phá sự thật cho đến khi thực sự đạt đến sự thật.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ yena opāsādaṁ nāma kosalānaṁ brāhmaṇagāmo tadavasari. Tatra sudaṁ bhagavā opāsāde viharati uttarena opāsādaṁ devavane sālavane. {#1}
+# MN 95. KINH CAṄKĪ
+*(Caṅkīsutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-095){."note-link"}
 
-2\. Tena kho pana samayena caṅkī brāhmaṇo opāsādaṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā pasenadinā kosalena dinnaṁ rājadāyaṁ brahmadeyyaṁ. {#2}
+1\. Tôi đã nghe như vầy — Một thời, Đức Phật đang đi du hành trong xứ Kosala cùng với một hội chúng tỳ kheo đông đảo, và đi đến một ngôi làng Bà-la-môn của xứ Kosala tên là Opāsāda. Tại đó, Đức Phật trú ở khu rừng Sāla dành cho chư thiên, nằm ở phía bắc Opāsāda. {#1}
 
-3\. Assosuṁ kho opāsādakā brāhmaṇagahapatikā: “samaṇo khalu, bho, gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ opāsādaṁ anuppatto, opāsāde viharati uttarena opāsādaṁ devavane sālavane. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti. So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ, kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti. Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti. {#3}
+2\. Lúc bấy giờ, Bà-la-môn Caṅkī đang cai quản Opāsāda, một nơi đông đúc dân cư, nhiều cỏ cây, củi, nước và lúa gạo. Đây là thái ấp hoàng gia, một phần thưởng thiêng liêng do vua Pasenadi nước Kosala ban tặng. {#2}
 
-4\. Atha kho opāsādakā brāhmaṇagahapatikā opāsādā nikkhamitvā saṅghasaṅghī gaṇībhūtā uttarenamukhā gacchanti yena devavanaṁ sālavanaṁ. {#4}
+3\. Các Bà-la-môn và gia chủ ở Opāsāda nghe tin: "Này các vị, sa-môn Gotama, con trai dòng họ Sakya, xuất gia từ gia tộc Sakya, đang du hành trong xứ Kosala cùng với hội chúng tỳ kheo đông đảo, đã đến Opāsāda và đang trú tại rừng Sāla dành cho chư thiên ở phía bắc Opāsāda. Tiếng đồn tốt đẹp sau đây đã vang lên về tôn giả Gotama: 'Đức Thế Tôn ấy là bậc A-la-hán, Tự mình Giác ngộ Hoàn toàn, đầy đủ hiểu biết và đức hạnh, Bậc Thiện Thệ, Người Hiểu Rõ Thế Gian, Bậc Vô Thượng, Người Điều Phục những ai đáng được điều phục, Bậc Thầy của chư thiên và loài người, Bậc Giác Ngộ, Đức Thế Tôn'. Ngài đã tự mình *hiểu toàn bộ* (thắng tri / abhiññā), *trực tiếp chứng nghiệm* (chứng ngộ / sacchikatvā) và tuyên thuyết cho thế giới này cùng với chư thiên, Ma vương, Phạm thiên, cho quần chúng gồm sa-môn, Bà-la-môn, chư thiên và loài người. Ngài giảng *Giáo pháp* (pháp / dhamma) tốt đẹp ở đoạn đầu, tốt đẹp ở đoạn giữa, tốt đẹp ở đoạn cuối, đầy đủ ý nghĩa và văn tự; Ngài hiển lộ đời sống thánh thiện hoàn toàn viên mãn và trong sạch. Thật tốt đẹp thay khi được gặp mặt một bậc A-la-hán như vậy." {#3}
 
-5\. Tena kho pana samayena caṅkī brāhmaṇo uparipāsāde divāseyyaṁ upagato. Addasā kho caṅkī brāhmaṇo opāsādake brāhmaṇagahapatike opāsādā nikkhamitvā saṅghasaṅghī gaṇībhūte uttarenamukhaṁ yena devavanaṁ sālavanaṁ tenupasaṅkamante. Disvā khattaṁ āmantesi: “kiṁ nu kho, bho khatte, opāsādakā brāhmaṇagahapatikā opāsādā nikkhamitvā saṅghasaṅghī gaṇībhūtā uttarenamukhā gacchanti yena devavanaṁ sālavanan”ti? {#5}
+4\. Sau đó, các Bà-la-môn và gia chủ ở Opāsāda rời khỏi Opāsāda, tụ tập thành từng nhóm, từng đoàn, đi về hướng bắc hướng đến khu rừng Sāla dành cho chư thiên. {#4}
 
-6\. “Atthi, bho caṅkī, samaṇo gotamo sakyaputto sakyakulā pabbajito kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ opāsādaṁ anuppatto, opāsāde viharati uttarena opāsādaṁ devavane sālavane. Taṁ kho pana bhavantaṁ gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Tamete bhavantaṁ gotamaṁ dassanāya gacchantī”ti. {#6}
+5\. Lúc bấy giờ, Bà-la-môn Caṅkī đang nghỉ trưa trên tầng gác. Bà-la-môn Caṅkī nhìn thấy các Bà-la-môn và gia chủ ở Opāsāda rời khỏi Opāsāda, tụ tập thành từng nhóm, từng đoàn đi về hướng bắc đến khu rừng Sāla. Thấy vậy, ông bảo người quản gia: "Này quản gia, có chuyện gì mà các Bà-la-môn và gia chủ ở Opāsāda lại rời khỏi Opāsāda, tụ tập thành từng đoàn đi về hướng bắc đến khu rừng Sāla vậy?" {#5}
 
-“Tena hi, bho khatte, yena opāsādakā brāhmaṇagahapatikā tenupasaṅkama; upasaṅkamitvā opāsādake brāhmaṇagahapatike evaṁ vadehi: ‘caṅkī, bho, brāhmaṇo evamāha—āgamentu kira bhonto, caṅkīpi brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī’”ti.
+6\. "Thưa ngài Caṅkī, có sa-môn Gotama, con trai dòng họ Sakya... [...lặp lại...]... Họ đang đi đến để gặp mặt tôn giả Gotama." {#6}
 
-“Evaṁ, bho”ti kho so khatto caṅkissa brāhmaṇassa paṭissutvā yena opāsādakā brāhmaṇagahapatikā tenupasaṅkami; upasaṅkamitvā opāsādake brāhmaṇagahapatike etadavoca: “caṅkī, bho, brāhmaṇo evamāha: ‘āgamentu kira bhonto, caṅkīpi brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī’”ti.
+"Nếu vậy, này quản gia, hãy đi đến chỗ các Bà-la-môn và gia chủ ở Opāsāda; khi đến nơi, hãy nói với họ thế này: 'Thưa các vị, Bà-la-môn Caṅkī nói như sau: Xin các vị hãy chờ một chút, chính Bà-la-môn Caṅkī cũng sẽ đi đến gặp mặt sa-môn Gotama'."
 
-7\. Tena kho pana samayena nānāverajjakānaṁ brāhmaṇānaṁ pañcamattāni brāhmaṇasatāni opāsāde paṭivasanti kenacideva karaṇīyena. Assosuṁ kho te brāhmaṇā: “caṅkī kira brāhmaṇo samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti. Atha kho te brāhmaṇā yena caṅkī brāhmaṇo tenupasaṅkamiṁsu; upasaṅkamitvā caṅkiṁ brāhmaṇaṁ etadavocuṁ: “saccaṁ kira bhavaṁ caṅkī samaṇaṁ gotamaṁ dassanāya upasaṅkamissatī”ti? {#7}
+"Vâng, thưa ngài," người quản gia vâng lời Bà-la-môn Caṅkī, đi đến chỗ các Bà-la-môn và gia chủ ở Opāsāda, và truyền đạt lại lời nhắn.
 
-“Evaṁ kho me, bho, hoti: ‘ahaṁ samaṇaṁ gotamaṁ dassanāya upasaṅkamissāmī’”ti.
+7\. Lúc bấy giờ, có khoảng năm trăm Bà-la-môn từ nhiều quốc gia khác nhau đang lưu trú tại Opāsāda vì một vài công việc. Các Bà-la-môn ấy nghe tin: "Nghe nói Bà-la-môn Caṅkī sẽ đi đến gặp mặt sa-môn Gotama." Thế là các Bà-la-môn ấy đi đến chỗ Bà-la-môn Caṅkī và hỏi: "Thưa ngài Caṅkī, có đúng là ngài sẽ đi đến gặp mặt sa-môn Gotama không?" {#7}
 
-8\. “Mā bhavaṁ caṅkī samaṇaṁ gotamaṁ dassanāya upasaṅkami. Na arahati bhavaṁ caṅkī samaṇaṁ gotamaṁ dassanāya upasaṅkamituṁ; samaṇotveva gotamo arahati bhavantaṁ caṅkiṁ dassanāya upasaṅkamituṁ. {#8}
+"Thưa các vị, đúng là tôi có ý định như vậy: 'Tôi sẽ đi đến gặp mặt sa-môn Gotama'."
 
-Bhavañhi caṅkī ubhato sujāto mātito ca pitito ca saṁsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena. Yampi bhavaṁ caṅkī ubhato sujāto mātito ca pitito ca saṁsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena, imināpaṅgena na arahati bhavaṁ caṅkī samaṇaṁ gotamaṁ dassanāya upasaṅkamituṁ; samaṇotveva gotamo arahati bhavantaṁ caṅkiṁ dassanāya upasaṅkamituṁ.
+8\. "Ngài Caṅkī chớ nên đi đến gặp mặt sa-môn Gotama. Không đáng để ngài Caṅkī đi đến gặp mặt sa-môn Gotama; trái lại, chính sa-môn Gotama mới đáng phải đến gặp mặt ngài Caṅkī. {#8}
 
-Bhavañhi caṅkī aḍḍho mahaddhano mahābhogo …pe…
+Bởi vì ngài Caṅkī có huyết thống tốt đẹp từ cả cha lẫn mẹ, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê trách hay khinh bỉ về mặt xuất thân. Chính vì ngài Caṅkī có huyết thống tốt đẹp... bằng yếu tố này, không đáng để ngài Caṅkī đi đến gặp mặt sa-môn Gotama; trái lại, chính sa-môn Gotama mới đáng phải đến gặp mặt ngài Caṅkī.
 
-bhavañhi caṅkī tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo …pe…
+Bởi vì ngài Caṅkī rất giàu có, nhiều tài sản, nhiều của cải... [...lặp lại...]
 
-bhavañhi caṅkī abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato brahmavaṇṇī brahmavacchasī akhuddāvakāso dassanāya …pe…
+Bởi vì ngài Caṅkī thông thạo ba bộ Veda, nắm vững từ vựng, nghi lễ, ngữ âm học, từ nguyên học, và lịch sử là bộ thứ năm; là người giỏi về ngôn ngữ, ngữ pháp, thấu hiểu triết học tự nhiên và các tướng của bậc đại nhân... [...lặp lại...]
 
-bhavañhi caṅkī sīlavā vuddhasīlī vuddhasīlena samannāgato …pe…
+Bởi vì ngài Caṅkī đẹp trai, dễ nhìn, đáng mến, có nước da tuyệt mỹ, vóc dáng như Phạm thiên, vẻ ngoài như Phạm thiên, ngoại hình không hề thấp kém... [...lặp lại...]
 
-bhavañhi caṅkī kalyāṇavāco kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagalāya atthassa viññāpaniyā …pe…
+Bởi vì ngài Caṅkī có đạo đức, đạo đức trưởng thành, đầy đủ đạo đức trưởng thành... [...lặp lại...]
 
-bhavañhi caṅkī bahūnaṁ ācariyapācariyo, tīṇi māṇavakasatāni mante vāceti …pe…
+Bởi vì ngài Caṅkī ăn nói khéo léo, phát âm rõ ràng, giọng nói lịch sự, rành mạch, không lỗi lầm, truyền đạt ý nghĩa dễ hiểu... [...lặp lại...]
 
-bhavañhi caṅkī rañño pasenadissa kosalassa sakkato garukato mānito pūjito apacito …pe… bhavañhi caṅkī brāhmaṇassa pokkharasātissa sakkato garukato mānito pūjito apacito …pe…
+Bởi vì ngài Caṅkī là thầy của nhiều vị thầy, đang dạy chú thuật cho ba trăm thanh niên... [...lặp lại...]
 
-bhavañhi caṅkī opāsādaṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā pasenadinā kosalena dinnaṁ rājadāyaṁ brahmadeyyaṁ.
+Bởi vì ngài Caṅkī được vua Pasenadi nước Kosala tôn kính, tôn trọng, kính nể, cúng dường, nể trọng... [...lặp lại...] Bởi vì ngài Caṅkī được Bà-la-môn Pokkharasāti tôn kính, tôn trọng, kính nể, cúng dường, nể trọng... [...lặp lại...]
 
-Yampi bhavaṁ caṅkī opāsādaṁ ajjhāvasati sattussadaṁ satiṇakaṭṭhodakaṁ sadhaññaṁ rājabhoggaṁ raññā pasenadinā kosalena dinnaṁ rājadāyaṁ brahmadeyyaṁ, imināpaṅgena na arahati bhavaṁ caṅkī samaṇaṁ gotamaṁ dassanāya upasaṅkamituṁ; samaṇotveva gotamo arahati bhavantaṁ caṅkiṁ dassanāya upasaṅkamitun”ti.
+Bởi vì ngài Caṅkī đang cai quản Opāsāda, một nơi đông đúc dân cư, nhiều cỏ cây, củi, nước và lúa gạo, là thái ấp hoàng gia, một phần thưởng thiêng liêng do vua Pasenadi nước Kosala ban tặng.
 
-9\. Evaṁ vutte, caṅkī brāhmaṇo te brāhmaṇe etadavoca: {#9}
+Chính vì ngài Caṅkī đang cai quản Opāsāda... bằng yếu tố này, không đáng để ngài Caṅkī đi đến gặp mặt sa-môn Gotama; trái lại, chính sa-môn Gotama mới đáng phải đến gặp mặt ngài Caṅkī."
 
-“tena hi, bho, mamapi suṇātha, yathā mayameva arahāma taṁ samaṇaṁ gotamaṁ dassanāya upasaṅkamituṁ; na tveva arahati so bhavaṁ gotamo amhākaṁ dassanāya upasaṅkamituṁ.
+9\. Khi được nói như vậy, Bà-la-môn Caṅkī nói với các Bà-la-môn kia: {#9}
 
-Samaṇo khalu, bho, gotamo ubhato sujāto mātito ca pitito ca saṁsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena. Yampi, bho, samaṇo gotamo ubhato sujāto mātito ca pitito ca saṁsuddhagahaṇiko yāva sattamā pitāmahayugā akkhitto anupakkuṭṭho jātivādena, imināpaṅgena na arahati so bhavaṁ gotamo amhākaṁ dassanāya upasaṅkamituṁ; atha kho mayameva arahāma taṁ bhavantaṁ gotamaṁ dassanāya upasaṅkamituṁ.
+"Vậy thì, thưa các vị, hãy nghe tôi nói vì sao chính chúng ta mới đáng đi đến gặp mặt tôn giả Gotama; và không đáng để tôn giả Gotama đi đến gặp mặt chúng ta.
 
-Samaṇo khalu, bho, gotamo pahūtaṁ hiraññasuvaṇṇaṁ ohāya pabbajito bhūmigatañca vehāsaṭṭhañca …pe…
+Thưa các vị, sa-môn Gotama có huyết thống tốt đẹp từ cả cha lẫn mẹ, dòng dõi trong sạch cho đến bảy đời tổ tiên, không bị chê trách hay khinh bỉ về mặt xuất thân. Chính vì sa-môn Gotama có huyết thống tốt đẹp... bằng yếu tố này, không đáng để tôn giả Gotama đi đến gặp mặt chúng ta; trái lại, chính chúng ta mới đáng đi đến gặp mặt tôn giả Gotama.
 
-Samaṇo khalu, bho, gotamo daharova samāno yuvā susukāḷakeso bhadrena yobbanena samannāgato paṭhamena vayasā agārasmā anagāriyaṁ pabbajito …pe…
+Thưa các vị, sa-môn Gotama đã bỏ lại khối lượng lớn vàng bạc, cả tài sản chôn giấu lẫn tài sản trên mặt đất để xuất gia... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo akāmakānaṁ mātāpitūnaṁ assumukhānaṁ rudantānaṁ kesamassuṁ ohāretvā kāsāyāni vatthāni acchādetvā agārasmā anagāriyaṁ pabbajito …pe…
+Thưa các vị, sa-môn Gotama khi còn là một thanh niên trẻ trung, tóc đen nhánh, đang ở độ tuổi thanh xuân tươi đẹp, đã từ bỏ gia đình, sống không nhà để xuất gia... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo abhirūpo dassanīyo pāsādiko paramāya vaṇṇapokkharatāya samannāgato brahmavaṇṇī brahmavacchasī akhuddāvakāso dassanāya …pe…
+Thưa các vị, sa-môn Gotama mặc cho cha mẹ không đồng ý, khóc lóc nước mắt đầm đìa, đã cạo bỏ râu tóc, khoác áo cà-sa, từ bỏ gia đình, sống không nhà để xuất gia... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo sīlavā ariyasīlī kusalasīlī kusalena sīlena samannāgato …pe…
+Thưa các vị, sa-môn Gotama đẹp trai, dễ nhìn, đáng mến, có nước da tuyệt mỹ, vóc dáng như Phạm thiên, vẻ ngoài như Phạm thiên, ngoại hình không hề thấp kém... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo kalyāṇavāco kalyāṇavākkaraṇo poriyā vācāya samannāgato vissaṭṭhāya anelagalāya atthassa viññāpaniyā …pe…
+Thưa các vị, sa-môn Gotama có đạo đức, đạo đức của bậc thánh, đạo đức thiện lành, đầy đủ đạo đức thiện lành... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo bahūnaṁ ācariyapācariyo …pe…
+Thưa các vị, sa-môn Gotama ăn nói khéo léo, phát âm rõ ràng, giọng nói lịch sự, rành mạch, không lỗi lầm, truyền đạt ý nghĩa dễ hiểu... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo khīṇakāmarāgo vigatacāpallo …pe…
+Thưa các vị, sa-môn Gotama là thầy của nhiều vị thầy... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo kammavādī kiriyavādī apāpapurekkhāro brahmaññāya pajāya …pe…
+Thưa các vị, sa-môn Gotama đã *cạn hết đắm nhiễm* (ly tham / khīṇakāmarāgo) đối với *bản năng* (dục / kāma), không còn sự phù phiếm... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo uccā kulā pabbajito asambhinnā khattiyakulā …pe…
+Thưa các vị, sa-môn Gotama thuyết giảng về nghiệp, thuyết giảng về hành động, luôn đề cao sự vô hại đối với thế hệ Bà-la-môn... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo aḍḍhā kulā pabbajito mahaddhanā mahābhogā …pe…
+Thưa các vị, sa-môn Gotama xuất thân từ một gia tộc cao quý, một gia tộc Sát-đế-lỵ thuần chủng... [...lặp lại...]
 
-Samaṇaṁ khalu, bho, gotamaṁ tiroraṭṭhā tirojanapadā saṁpucchituṁ āgacchanti …pe…
+Thưa các vị, sa-môn Gotama xuất thân từ một gia tộc giàu có, nhiều tài sản, nhiều của cải... [...lặp lại...]
 
-Samaṇaṁ khalu, bho, gotamaṁ anekāni devatāsahassāni pāṇehi saraṇaṁ gatāni …pe…
+Thưa các vị, người ta từ các quốc gia khác, từ các vùng miền khác đến để thưa hỏi sa-môn Gotama... [...lặp lại...]
 
-Samaṇaṁ khalu, bho, gotamaṁ evaṁ kalyāṇo kittisaddo abbhuggato: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti …pe…
+Thưa các vị, hàng ngàn chư thiên đã quy y sa-môn Gotama cho đến trọn đời... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo dvattiṁsamahāpurisalakkhaṇehi samannāgato …pe…
+Thưa các vị, tiếng đồn tốt đẹp sau đây đã vang lên về sa-môn Gotama: 'Đức Thế Tôn ấy là bậc A-la-hán, Tự mình Giác ngộ Hoàn toàn, đầy đủ hiểu biết và đức hạnh, Bậc Thiện Thệ, Người Hiểu Rõ Thế Gian, Bậc Vô Thượng, Người Điều Phục những ai đáng được điều phục, Bậc Thầy của chư thiên và loài người, Bậc Giác Ngộ, Đức Thế Tôn'... [...lặp lại...]
 
-Samaṇaṁ khalu, bho, gotamaṁ rājā māgadho seniyo bimbisāro saputtadāro pāṇehi saraṇaṁ gato …pe…
+Thưa các vị, sa-môn Gotama sở hữu ba mươi hai tướng tốt của bậc đại nhân... [...lặp lại...]
 
-Samaṇaṁ khalu, bho, gotamaṁ rājā pasenadi kosalo saputtadāro pāṇehi saraṇaṁ gato …pe…
+Thưa các vị, vua Seniya Bimbisāra nước Magadha cùng với vợ con đã quy y sa-môn Gotama cho đến trọn đời... [...lặp lại...]
 
-Samaṇaṁ khalu, bho, gotamaṁ brāhmaṇo pokkharasāti saputtadāro pāṇehi saraṇaṁ gato …pe…
+Thưa các vị, vua Pasenadi nước Kosala cùng với vợ con đã quy y sa-môn Gotama cho đến trọn đời... [...lặp lại...]
 
-Samaṇo khalu, bho, gotamo opāsādaṁ anuppatto opāsāde viharati uttarena opāsādaṁ devavane sālavane. Ye kho te samaṇā vā brāhmaṇā vā amhākaṁ gāmakkhettaṁ āgacchanti, atithī no te honti. Atithī kho panamhehi sakkātabbā garukātabbā mānetabbā pūjetabbā. Yampi samaṇo gotamo opāsādaṁ anuppatto opāsāde viharati uttarena opāsādaṁ devavane sālavane, atithimhākaṁ samaṇo gotamo. Atithi kho panamhehi sakkātabbo garukātabbo mānetabbo pūjetabbo. Imināpaṅgena na arahati so bhavaṁ gotamo amhākaṁ dassanāya upasaṅkamituṁ; atha kho mayameva arahāma taṁ bhavantaṁ gotamaṁ dassanāya upasaṅkamituṁ.
+Thưa các vị, Bà-la-môn Pokkharasāti cùng với vợ con đã quy y sa-môn Gotama cho đến trọn đời... [...lặp lại...]
 
-Ettake kho ahaṁ, bho, tassa bhoto gotamassa vaṇṇe pariyāpuṇāmi, no ca kho so bhavaṁ gotamo ettakavaṇṇo; aparimāṇavaṇṇo hi so bhavaṁ gotamo. Ekamekenapi tena aṅgena samannāgato na arahati, so bhavaṁ gotamo amhākaṁ dassanāya upasaṅkamituṁ; atha kho mayameva arahāma taṁ bhavantaṁ gotamaṁ dassanāya upasaṅkamitunti. Tena hi, bho, sabbeva mayaṁ samaṇaṁ gotamaṁ dassanāya upasaṅkamissāmā”ti.
+Thưa các vị, sa-môn Gotama đã đến Opāsāda, đang trú tại rừng Sāla dành cho chư thiên ở phía bắc Opāsāda. Bất kỳ sa-môn hay Bà-la-môn nào đi vào ranh giới làng của chúng ta, họ đều là khách của chúng ta. Khách thì cần được chúng ta tôn kính, tôn trọng, kính nể, cúng dường. Vì sa-môn Gotama đã đến Opāsāda... nên sa-môn Gotama là khách của chúng ta. Khách thì cần được tôn kính, tôn trọng, kính nể, cúng dường. Bằng yếu tố này, không đáng để tôn giả Gotama đi đến gặp mặt chúng ta; trái lại, chính chúng ta mới đáng đi đến gặp mặt tôn giả Gotama.
 
-10\. Atha kho caṅkī brāhmaṇo mahatā brāhmaṇagaṇena saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. {#10}
+Thưa các vị, tôi chỉ có thể tán thán tôn giả Gotama đến chừng ấy, nhưng tôn giả Gotama không chỉ có chừng ấy phẩm chất; phẩm chất của tôn giả Gotama là vô lượng. Chỉ cần sở hữu một trong những yếu tố này, cũng không đáng để tôn giả Gotama đi đến gặp mặt chúng ta; trái lại, chính chúng ta mới đáng đi đến gặp mặt tôn giả Gotama. Vậy nên, thưa các vị, tất cả chúng ta hãy cùng đi đến gặp mặt sa-môn Gotama."
 
-11\. Tena kho pana samayena bhagavā vuddhehi vuddhehi brāhmaṇehi saddhiṁ kiñci kiñci kathaṁ sāraṇīyaṁ vītisāretvā nisinno hoti. Tena kho pana samayena kāpaṭiko nāma māṇavo daharo vuttasiro soḷasavassuddesiko jātiyā, tiṇṇaṁ vedānaṁ pāragū sanighaṇḍukeṭubhānaṁ sākkharappabhedānaṁ itihāsapañcamānaṁ, padako, veyyākaraṇo, lokāyatamahāpurisalakkhaṇesu anavayo tassaṁ parisāyaṁ nisinno hoti. So vuddhānaṁ vuddhānaṁ brāhmaṇānaṁ bhagavatā saddhiṁ mantayamānānaṁ antarantarā kathaṁ opāteti. {#11}
+10\. Sau đó, Bà-la-môn Caṅkī cùng với một hội chúng Bà-la-môn đông đảo đi đến chỗ Đức Phật; khi đến nơi, ông chào hỏi Đức Phật. Sau khi trao đổi những lời chào hỏi thân hữu, ông ngồi xuống một bên. {#10}
 
-Atha kho bhagavā kāpaṭikaṁ māṇavaṁ apasādeti: “māyasmā bhāradvājo vuddhānaṁ vuddhānaṁ brāhmaṇānaṁ mantayamānānaṁ antarantarā kathaṁ opātetu. Kathāpariyosānaṁ āyasmā bhāradvājo āgametū”ti.
+11\. Lúc bấy giờ, Đức Phật đang ngồi trao đổi vài câu chuyện thân hữu với các Bà-la-môn lớn tuổi. Khi ấy, có một thanh niên tên là Kāpaṭika, trẻ tuổi, cạo đầu, khoảng mười sáu tuổi, thông thạo ba bộ Veda, nắm vững từ vựng, nghi lễ, ngữ âm học, từ nguyên học, và lịch sử là bộ thứ năm; là người giỏi về ngôn ngữ, ngữ pháp, thấu hiểu triết học tự nhiên và các tướng của bậc đại nhân, đang ngồi trong hội chúng ấy. Cậu ta liên tục ngắt lời các Bà-la-môn lớn tuổi đang trò chuyện với Đức Phật. {#11}
 
-Evaṁ vutte, caṅkī brāhmaṇo bhagavantaṁ etadavoca: “mā bhavaṁ gotamo kāpaṭikaṁ māṇavaṁ apasādesi. kulaputto ca kāpaṭiko māṇavo, bahussuto ca kāpaṭiko māṇavo, paṇḍito ca kāpaṭiko māṇavo, kalyāṇavākkaraṇo ca kāpaṭiko māṇavo, pahoti ca kāpaṭiko māṇavo bhotā gotamena saddhiṁ asmiṁ vacane paṭimantetun”ti.
+Đức Phật liền quở trách thanh niên Kāpaṭika: "Này Tôn giả Bhāradvāja, chớ có ngắt lời các Bà-la-môn lớn tuổi đang trò chuyện. Tôn giả Bhāradvāja hãy đợi cho đến khi câu chuyện kết thúc."
 
-12\. Atha kho bhagavato etadahosi: “addhā kho kāpaṭikassa māṇavassa tevijjake pāvacane kathā bhavissati. Tathā hi naṁ brāhmaṇā sampurekkharontī”ti. {#12}
+Khi nghe vậy, Bà-la-môn Caṅkī thưa với Đức Phật: "Xin tôn giả Gotama chớ quở trách thanh niên Kāpaṭika. Thanh niên Kāpaṭika là con nhà gia giáo, thanh niên Kāpaṭika là người học rộng, thanh niên Kāpaṭika là người thông minh, thanh niên Kāpaṭika có tài ăn nói khéo léo, thanh niên Kāpaṭika đủ khả năng để đối đáp với tôn giả Gotama trong cuộc thảo luận này."
 
-Atha kho kāpaṭikassa māṇavassa etadahosi: “yadā me samaṇo gotamo cakkhuṁ upasaṁharissati, athāhaṁ samaṇaṁ gotamaṁ pañhaṁ pucchissāmī”ti. Atha kho bhagavā kāpaṭikassa māṇavassa cetasā cetoparivitakkamaññāya yena kāpaṭiko māṇavo tena cakkhūni upasaṁhāsi.
+<!--pg-->
+12\. Khi ấy, Đức Phật suy nghĩ: "Chắc chắn thanh niên Kāpaṭika này phải có kiến thức về lời dạy của Ba Veda. Vì thế các Bà-la-môn mới đề cao cậu ta như vậy." {#12}
 
-Atha kho kāpaṭikassa māṇavassa etadahosi: “samannāharati kho maṁ samaṇo gotamo. Yannūnāhaṁ samaṇaṁ gotamaṁ pañhaṁ puccheyyan”ti. Atha kho kāpaṭiko māṇavo bhagavantaṁ etadavoca: “yadidaṁ, bho gotama, brāhmaṇānaṁ porāṇaṁ mantapadaṁ itihitihaparamparāya piṭakasampadāya, tattha ca brāhmaṇā ekaṁsena niṭṭhaṁ gacchanti: ‘idameva saccaṁ, moghamaññan’ti. Idha bhavaṁ gotamo kimāhā”ti?
+Thanh niên Kāpaṭika cũng suy nghĩ: "Khi nào sa-môn Gotama nhìn về phía ta, ta sẽ đặt câu hỏi cho sa-môn Gotama." Biết được suy nghĩ trong tâm của thanh niên Kāpaṭika, Đức Phật liền hướng mắt nhìn về phía thanh niên Kāpaṭika.
 
-13\. “Kiṁ pana, bhāradvāja, atthi koci brāhmaṇānaṁ ekabrāhmaṇopi yo evamāha: ‘ahametaṁ jānāmi, ahametaṁ passāmi. Idameva saccaṁ, moghamaññan’”ti? {#13}
+Thanh niên Kāpaṭika nghĩ: "Sa-môn Gotama đang chú ý đến ta. Hay là ta đặt câu hỏi cho sa-môn Gotama?" Rồi thanh niên Kāpaṭika thưa với Đức Phật: "Thưa tôn giả Gotama, về những câu thần chú cổ xưa của các Bà-la-môn, được truyền miệng từ đời này sang đời khác, được tập hợp thành kinh điển, mà các Bà-la-môn đã đi đến kết luận chắc chắn rằng: 'Chỉ có điều này là sự thật, mọi thứ khác đều sai lầm'. Về điều này, tôn giả Gotama nói thế nào?"
 
-“No hidaṁ, bho gotama”.
+13\. "Này Bhāradvāja, có một Bà-la-môn nào trong số các Bà-la-môn nói rằng: 'Tôi biết điều này, tôi thấy điều này. Chỉ có điều này là sự thật, mọi thứ khác đều sai lầm' không?" {#13}
 
-“Kiṁ pana, bhāradvāja, atthi koci brāhmaṇānaṁ ekācariyopi, ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha: ‘ahametaṁ jānāmi, ahametaṁ passāmi. Idameva saccaṁ, moghamaññan’”ti?
+"Thưa tôn giả Gotama, không có."
 
-“No hidaṁ, bho gotama”.
+"Này Bhāradvāja, có một vị thầy nào, hay thầy của vị thầy nào, cho đến bảy đời các vị thầy của các Bà-la-môn nói rằng: 'Tôi biết điều này, tôi thấy điều này. Chỉ có điều này là sự thật, mọi thứ khác đều sai lầm' không?"
 
-“Kiṁ pana, bhāradvāja, yepi te brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi evamāhaṁsu: ‘mayametaṁ jānāma, mayametaṁ passāma. Idameva saccaṁ, moghamaññan’”ti?
+"Thưa tôn giả Gotama, không có."
 
-“No hidaṁ, bho gotama”.
+"Này Bhāradvāja, ngay cả những vị tiên tri cổ xưa của các Bà-la-môn, những người đã sáng tác các thần chú, truyền bá các thần chú, mà những câu thần chú cổ xưa ấy ngày nay các Bà-la-môn vẫn hát theo, tụng theo, lặp lại những gì đã được nói, dạy lại những gì đã được dạy — chẳng hạn như Aṭṭhako, Vāmako, Vāmadevo, Vessāmitto, Yamataggi, Aṅgīraso, Bhāradvājo, Vāseṭṭho, Kassapo, Bhagu — liệu họ có nói rằng: 'Chúng tôi biết điều này, chúng tôi thấy điều này. Chỉ có điều này là sự thật, mọi thứ khác đều sai lầm' không?"
 
-“Iti kira, bhāradvāja, natthi koci brāhmaṇānaṁ ekabrāhmaṇopi yo evamāha: ‘ahametaṁ jānāmi, ahametaṁ passāmi. Idameva saccaṁ, moghamaññan’ti; natthi koci brāhmaṇānaṁ ekācariyopi ekācariyapācariyopi, yāva sattamā ācariyamahayugāpi, yo evamāha: ‘ahametaṁ jānāmi, ahametaṁ passāmi. Idameva saccaṁ, moghamaññan’ti; yepi te brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi na evamāhaṁsu: ‘mayametaṁ jānāma, mayametaṁ passāma. Idameva saccaṁ, moghamaññan’ti.
+"Thưa tôn giả Gotama, không có."
 
-Seyyathāpi, bhāradvāja, andhaveṇi paramparāsaṁsattā purimopi na passati majjhimopi na passati pacchimopi na passati; evameva kho, bhāradvāja, andhaveṇūpamaṁ maññe brāhmaṇānaṁ bhāsitaṁ sampajjati—purimopi na passati majjhimopi na passati pacchimopi na passati. Taṁ kiṁ maññasi, bhāradvāja, nanu evaṁ sante brāhmaṇānaṁ amūlikā saddhā sampajjatī”ti?
+"Như vậy, này Bhāradvāja, không có một Bà-la-môn nào... không có một vị thầy nào cho đến bảy đời... ngay cả những vị tiên tri cổ xưa... cũng không nói rằng: 'Chúng tôi biết điều này, chúng tôi thấy điều này. Chỉ có điều này là sự thật, mọi thứ khác đều sai lầm'.
 
-14\. “Na khvettha, bho gotama, brāhmaṇā saddhāyeva payirupāsanti, anussavāpettha brāhmaṇā payirupāsantī”ti. {#14}
+Này Bhāradvāja, giống như một *chuỗi người mù* (manh đới / andhaveṇi) bám vào nhau, người đi trước không thấy, người đi giữa không thấy, người đi sau cũng không thấy; cũng vậy, này Bhāradvāja, tôi cho rằng lời tuyên bố của các Bà-la-môn giống như một *chuỗi người mù* — người đi trước không thấy, người đi giữa không thấy, người đi sau cũng không thấy. Này Bhāradvāja, ông nghĩ sao, nếu sự việc là như vậy, thì chẳng phải *niềm tin* của các Bà-la-môn là vô căn cứ sao?"
 
-“Pubbeva kho tvaṁ, bhāradvāja, saddhaṁ agamāsi, anussavaṁ idāni vadesi. Pañca kho ime, bhāradvāja, dhammā diṭṭheva dhamme dvedhā vipākā. Katame pañca? Saddhā, ruci, anussavo, ākāraparivitakko, diṭṭhinijjhānakkhanti—ime kho, bhāradvāja, pañca dhammā diṭṭheva dhamme dvedhā vipākā. Api ca, bhāradvāja, susaddahitaṁyeva hoti, tañca hoti rittaṁ tucchaṁ musā; no cepi susaddahitaṁ hoti, tañca hoti bhūtaṁ tacchaṁ anaññathā. Api ca, bhāradvāja, surucitaṁyeva hoti …pe… svānussutaṁyeva hoti …pe… suparivitakkitaṁyeva hoti …pe… sunijjhāyitaṁyeva hoti, tañca hoti rittaṁ tucchaṁ musā; no cepi sunijjhāyitaṁ hoti, tañca hoti bhūtaṁ tacchaṁ anaññathā. Saccamanurakkhatā, bhāradvāja, viññunā purisena nālamettha ekaṁsena niṭṭhaṁ gantuṁ: ‘idameva saccaṁ, moghamaññan’”ti.
+<!--pg-->
+14\. "Thưa tôn giả Gotama, các Bà-la-môn không chỉ tôn kính dựa trên *niềm tin*, mà các Bà-la-môn còn tôn kính dựa trên *truyền thống nghe lại* (tùy văn / anussava)." {#14}
 
-15\. “Kittāvatā pana, bho gotama, saccānurakkhaṇā hoti, kittāvatā saccamanurakkhati? Saccānurakkhaṇaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. {#15}
+"Này Bhāradvāja, trước tiên ông dựa vào *niềm tin*, bây giờ ông lại nói đến *truyền thống nghe lại*. Này Bhāradvāja, có năm *điều* (pháp / dhammā) có thể dẫn đến hai kết quả ngay trong hiện tại. Năm điều đó là gì? *Niềm tin* (tín / saddhā), sở thích (kỳ vọng / ruci), *truyền thống nghe lại* (anussavo), suy luận theo bề ngoài (ākāraparivitakko), và *quan điểm được chấp nhận sau khi đã suy xét* (kiến nhẫn / diṭṭhinijjhānakkhanti) — này Bhāradvāja, năm *điều* này có thể dẫn đến hai kết quả ngay trong hiện tại. 
 
-“Saddhā cepi, bhāradvāja, purisassa hoti; ‘evaṁ me saddhā’ti—iti vadaṁ saccamanurakkhati, na tveva tāva ekaṁsena niṭṭhaṁ gacchati: ‘idameva saccaṁ, moghamaññan’ti (…). Ruci cepi, bhāradvāja, purisassa hoti …pe… anussavo cepi, bhāradvāja, purisassa hoti …pe… ākāraparivitakko cepi, bhāradvāja, purisassa hoti …pe… diṭṭhinijjhānakkhanti cepi, bhāradvāja, purisassa hoti; ‘evaṁ me diṭṭhinijjhānakkhantī’ti—iti vadaṁ saccamanurakkhati, na tveva tāva ekaṁsena niṭṭhaṁ gacchati: ‘idameva saccaṁ, moghamaññan’ti. Ettāvatā kho, bhāradvāja, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṁ saccānurakkhaṇaṁ paññapema; na tveva tāva saccānubodho hotī”ti.
+Này Bhāradvāja, dù một điều được tin tưởng vững chắc, nó vẫn có thể trống rỗng, vô giá trị và sai lầm; ngược lại, dù một điều không được tin tưởng vững chắc, nó vẫn có thể là sự thật, chân thực không sai. Này Bhāradvāja, dù một điều rất được yêu thích... [...lặp lại...] dù được nghe truyền lại kỹ càng... [...lặp lại...] dù được suy luận kỹ lưỡng... [...lặp lại...] dù có *quan điểm được chấp nhận sau khi đã suy xét* kỹ càng, nó vẫn có thể trống rỗng, vô giá trị và sai lầm; ngược lại, dù không có *quan điểm được chấp nhận sau khi đã suy xét* kỹ càng, nó vẫn có thể là sự thật, chân thực không sai. Này Bhāradvāja, đối với một người trí đang *bảo vệ sự thật* (hộ trì chân lý / saccānurakkhaṇā), không nên đi đến kết luận chắc chắn rằng: 'Chỉ có điều này là sự thật, mọi thứ khác đều sai lầm'."
 
-16\. “Ettāvatā, bho gotama, saccānurakkhaṇā hoti, ettāvatā saccamanurakkhati, ettāvatā ca mayaṁ saccānurakkhaṇaṁ pekkhāma. Kittāvatā pana, bho gotama, saccānubodho hoti, kittāvatā saccamanubujjhati? Saccānubodhaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. {#16}
+15\. "Nhưng thưa tôn giả Gotama, đến mức độ nào thì gọi là *bảo vệ sự thật*? Làm thế nào để *bảo vệ sự thật*? Chúng tôi xin hỏi tôn giả Gotama về việc *bảo vệ sự thật*." {#15}
 
-17\. “Idha, bhāradvāja, bhikkhu aññataraṁ gāmaṁ vā nigamaṁ vā upanissāya viharati. Tamenaṁ gahapati vā gahapatiputto vā upasaṅkamitvā tīsu dhammesu samannesati—lobhanīyesu dhammesu, dosanīyesu dhammesu, mohanīyesu dhammesu. Atthi nu kho imassāyasmato tathārūpā lobhanīyā dhammā yathārūpehi lobhanīyehi dhammehi pariyādinnacitto ajānaṁ vā vadeyya—jānāmīti, apassaṁ vā vadeyya—passāmīti, paraṁ vā tadatthāya samādapeyya yaṁ paresaṁ assa dīgharattaṁ ahitāya dukkhāyāti? Tamenaṁ samannesamāno evaṁ jānāti: ‘natthi kho imassāyasmato tathārūpā lobhanīyā dhammā yathārūpehi lobhanīyehi dhammehi pariyādinnacitto ajānaṁ vā vadeyya—jānāmīti, apassaṁ vā vadeyya—passāmīti, paraṁ vā tadatthāya samādapeyya yaṁ paresaṁ assa dīgharattaṁ ahitāya dukkhāya. Tathārūpo kho panimassāyasmato kāyasamācāro tathārūpo vacīsamācāro yathā taṁ aluddhassa. Yaṁ kho pana ayamāyasmā dhammaṁ deseti, gambhīro so dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo; na so dhammo sudesiyo luddhenā’ti. {#17}
+"Này Bhāradvāja, nếu một người có *niềm tin*, người ấy nói: 'Tôi có *niềm tin* như thế này' — nói như vậy là [bước đầu] *bảo vệ sự thật*, nhưng người ấy chưa đi đến kết luận chắc chắn rằng: 'Chỉ có điều này là sự thật, mọi thứ khác đều sai lầm'. Này Bhāradvāja, nếu một người có sở thích... [...lặp lại...] nếu một người có *truyền thống nghe lại*... [...lặp lại...] nếu một người có suy luận theo bề ngoài... [...lặp lại...] nếu một người có *quan điểm được chấp nhận sau khi đã suy xét*, người ấy nói: 'Tôi có *quan điểm được chấp nhận sau khi đã suy xét* như thế này' — nói như vậy là *bảo vệ sự thật*, nhưng người ấy chưa đi đến kết luận chắc chắn rằng: 'Chỉ có điều này là sự thật, mọi thứ khác đều sai lầm'. Này Bhāradvāja, đến mức độ này là *bảo vệ sự thật*, đến mức độ này là người ấy *bảo vệ sự thật*, và Ta quy định việc *bảo vệ sự thật* đến mức độ này; nhưng đây chưa phải là *khám phá sự thật* (giác ngộ chân lý / saccānubodha)."
 
-18\. Yato naṁ samannesamāno visuddhaṁ lobhanīyehi dhammehi samanupassati tato naṁ uttari samannesati dosanīyesu dhammesu. Atthi nu kho imassāyasmato tathārūpā dosanīyā dhammā yathārūpehi dosanīyehi dhammehi pariyādinnacitto ajānaṁ vā vadeyya—jānāmīti, apassaṁ vā vadeyya—passāmīti, paraṁ vā tadatthāya samādapeyya yaṁ paresaṁ assa dīgharattaṁ ahitāya dukkhāyāti? Tamenaṁ samannesamāno evaṁ jānāti: ‘natthi kho imassāyasmato tathārūpā dosanīyā dhammā yathārūpehi dosanīyehi dhammehi pariyādinnacitto ajānaṁ vā vadeyya—jānāmīti, apassaṁ vā vadeyya—passāmīti, paraṁ vā tadatthāya samādapeyya yaṁ paresaṁ assa dīgharattaṁ ahitāya dukkhāya. Tathārūpo kho panimassāyasmato kāyasamācāro tathārūpo vacīsamācāro yathā taṁ aduṭṭhassa. Yaṁ kho pana ayamāyasmā dhammaṁ deseti, gambhīro so dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo; na so dhammo sudesiyo duṭṭhenā’ti. {#18}
+16\. "Thưa tôn giả Gotama, cho đến như vậy là *bảo vệ sự thật*, cho đến như vậy là  người ấy *bảo vệ sự thật* và chúng tôi hiểu việc *bảo vệ sự thật* đến mức độ đó. Nhưng thưa tôn giả Gotama, đến mức độ nào thì gọi là *khám phá sự thật*? Làm thế nào để *khám phá sự thật*? Chúng tôi xin hỏi tôn giả Gotama về việc *khám phá sự thật*." {#16}
 
-19\. Yato naṁ samannesamāno visuddhaṁ dosanīyehi dhammehi samanupassati, tato naṁ uttari samannesati mohanīyesu dhammesu. Atthi nu kho imassāyasmato tathārūpā mohanīyā dhammā yathārūpehi mohanīyehi dhammehi pariyādinnacitto ajānaṁ vā vadeyya—jānāmīti, apassaṁ vā vadeyya—passāmīti, paraṁ vā tadatthāya samādapeyya yaṁ paresaṁ assa dīgharattaṁ ahitāya dukkhāyāti? Tamenaṁ samannesamāno evaṁ jānāti: ‘natthi kho imassāyasmato tathārūpā mohanīyā dhammā yathārūpehi mohanīyehi dhammehi pariyādinnacitto ajānaṁ vā vadeyya—jānāmīti, apassaṁ vā vadeyya—passāmīti, paraṁ vā tadatthāya samādapeyya yaṁ paresaṁ assa dīgharattaṁ ahitāya dukkhāya. Tathārūpo kho panimassāyasmato kāyasamācāro tathārūpo vacīsamācāro yathā taṁ amūḷhassa. Yaṁ kho pana ayamāyasmā dhammaṁ deseti, gambhīro so dhammo duddaso duranubodho santo paṇīto atakkāvacaro nipuṇo paṇḍitavedanīyo; na so dhammo sudesiyo mūḷhenā’ti. {#19}
+17\. "Ở đây, này Bhāradvāja, một tỳ kheo sống nương tựa vào một ngôi làng hay thị trấn. Một gia chủ hoặc con trai gia chủ đi đến và quan sát vị ấy qua ba *điều*: những *điều* gây ra *ám ảnh dễ chịu* (tham pháp / lobhanīyesu dhammesu), những *điều* gây ra *ám ảnh khó chịu* (sân pháp / dosanīyesu dhammesu), và những *điều* gây ra *Sự u mê* (si pháp / mohanīyesu dhammesu). Người ấy tự hỏi: 'Liệu tôn giả này có những *điều* gây ra *ám ảnh dễ chịu* nào khiến cho tâm trí bị chi phối, đến mức không biết mà nói rằng "Tôi biết", không thấy mà nói rằng "Tôi thấy", hoặc xúi giục người khác làm những việc mang lại bất hạnh và *đau khổ* (khổ / dukkhā) lâu dài cho họ không?' Khi quan sát vị ấy, người ấy nhận ra: 'Tôn giả này không có những *điều* gây ra *ám ảnh dễ chịu* nào khiến cho tâm trí bị chi phối, đến mức không biết mà nói rằng "Tôi biết", không thấy mà nói rằng "Tôi thấy", hoặc xúi giục người khác làm những việc mang lại bất hạnh và *đau khổ* lâu dài cho họ. Hành động của tôn giả này, lời nói của tôn giả này là của một người không có *ám ảnh dễ chịu*. *Giáo pháp* mà tôn giả này thuyết giảng thật sâu sắc, khó thấy, khó thâm nhập, tĩnh lặng, cao quý, vượt ngoài tầm suy luận, tinh tế, chỉ người trí mới hiểu được; *Giáo pháp* ấy không thể được thuyết giảng bởi một người có *ám ảnh dễ chịu*'. {#17}
 
-20\. Yato naṁ samannesamāno visuddhaṁ mohanīyehi dhammehi samanupassati; atha tamhi saddhaṁ niveseti, saddhājāto upasaṅkamati, upasaṅkamanto payirupāsati, payirupāsanto sotaṁ odahati, ohitasoto dhammaṁ suṇāti, sutvā dhammaṁ dhāreti, dhatānaṁ dhammānaṁ atthaṁ upaparikkhati, atthaṁ upaparikkhato dhammā nijjhānaṁ khamanti, dhammanijjhānakkhantiyā sati chando jāyati, chandajāto ussahati, ussahitvā tuleti, tulayitvā padahati, pahitatto samāno kāyena ceva paramasaccaṁ sacchikaroti paññāya ca naṁ ativijjha passati. Ettāvatā kho, bhāradvāja, saccānubodho hoti, ettāvatā saccamanubujjhati, ettāvatā ca mayaṁ saccānubodhaṁ paññapema; na tveva tāva saccānuppatti hotī”ti. {#20}
+18\. Khi quan sát và thấy vị ấy trong sạch, không có những *điều* gây ra *ám ảnh dễ chịu*, người ấy tiếp tục quan sát vị ấy về những *điều* gây ra *ám ảnh khó chịu*. Người ấy tự hỏi: 'Liệu tôn giả này có những *điều* gây ra *ám ảnh khó chịu* nào khiến cho tâm trí bị chi phối... xúi giục người khác làm những việc mang lại bất hạnh và *đau khổ* lâu dài cho họ không?' Khi quan sát vị ấy, người ấy nhận ra: 'Tôn giả này không có những *điều* gây ra *ám ảnh khó chịu* nào... Hành động của tôn giả này, lời nói của tôn giả này là của một người không có *ám ảnh khó chịu*. *Giáo pháp* mà tôn giả này thuyết giảng thật sâu sắc... không thể được thuyết giảng bởi một người có *ám ảnh khó chịu*'. {#18}
 
-21\. “Ettāvatā, bho gotama, saccānubodho hoti, ettāvatā saccamanubujjhati, ettāvatā ca mayaṁ saccānubodhaṁ pekkhāma. Kittāvatā pana, bho gotama, saccānuppatti hoti, kittāvatā saccamanupāpuṇāti? Saccānuppattiṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. {#21}
+19\. Khi quan sát và thấy vị ấy trong sạch, không có những *điều* gây ra *ám ảnh khó chịu*, người ấy tiếp tục quan sát vị ấy về những *điều* gây ra *Sự u mê*. Người ấy tự hỏi: 'Liệu tôn giả này có những *điều* gây ra *Sự u mê* nào khiến cho tâm trí bị chi phối... xúi giục người khác làm những việc mang lại bất hạnh và *đau khổ* lâu dài cho họ không?' Khi quan sát vị ấy, người ấy nhận ra: 'Tôn giả này không có những *điều* gây ra *Sự u mê* nào... Hành động của tôn giả này, lời nói của tôn giả này là của một người không có *Sự u mê*. *Giáo pháp* mà tôn giả này thuyết giảng thật sâu sắc... không thể được thuyết giảng bởi một người có *Sự u mê*'. {#19}
 
-“Tesaṁyeva, bhāradvāja, dhammānaṁ āsevanā bhāvanā bahulīkammaṁ saccānuppatti hoti. Ettāvatā kho, bhāradvāja, saccānuppatti hoti, ettāvatā saccamanupāpuṇāti, ettāvatā ca mayaṁ saccānuppattiṁ paññapemā”ti.
+20\. Khi quan sát và thấy vị ấy trong sạch, không có những *điều* gây ra *Sự u mê*, người ấy liền đặt *niềm tin* vào vị ấy. Khi *niềm tin* sinh khởi, người ấy đi đến (tiếp cận); khi đi đến, người ấy *gần gũi* (thân cận / payirupāsati); khi *gần gũi*, người ấy *lắng tai nghe* (sotāvadhāna); khi *lắng tai nghe*, người ấy nghe *Giáo pháp*; sau khi nghe, người ấy *ghi nhớ Giáo pháp* (dhammadhāraṇā); người ấy *thẩm tra ý nghĩa* (quán trạch ý nghĩa / atthūpaparikkhā) của những *Giáo pháp* đã ghi nhớ; khi *thẩm tra ý nghĩa*, người ấy *chấp nhận Giáo pháp sau khi suy xét* (pháp nhẫn / dhammanijjhānakkhanti); khi *chấp nhận Giáo pháp sau khi suy xét*, *mong muốn* (dục / chanda) sinh khởi; khi *mong muốn* sinh khởi, người ấy *hăng hái* (nhiệt tâm / ussahati); khi *hăng hái*, người ấy *cân nhắc* (quán sát / tuleti); sau khi *cân nhắc*, người ấy *nỗ lực* (tinh tấn / padahati). Nhờ có *nỗ lực* kiên định, người ấy trực tiếp chứng nghiệm sự thật tối hậu bằng thân, và thấu suốt nó bằng trí tuệ. Này Bhāradvāja, đến mức độ này là *khám phá sự thật*, đến mức độ này là người ấy *khám phá sự thật*, và Ta quy định việc *khám phá sự thật* đến mức độ này; nhưng đây chưa phải là *đạt đến sự thật* (chứng đạt chân lý / saccānuppatti)." {#20}
 
-22\. “Ettāvatā, bho gotama, saccānuppatti hoti, ettāvatā saccamanupāpuṇāti, ettāvatā ca mayaṁ saccānuppattiṁ pekkhāma. Saccānuppattiyā pana, bho gotama, katamo dhammo bahukāro? Saccānuppattiyā bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. {#22}
+21\. "Thưa tôn giả Gotama, cho đến như vậy là *khám phá sự thật*, cho đến như vậy là người ấy *khám phá sự thật*, và chúng tôi hiểu việc *khám phá sự thật* đến mức độ đó. Nhưng thưa tôn giả Gotama, đến mức độ nào thì gọi là *đạt đến sự thật*? Làm thế nào để *đạt đến sự thật*? Chúng tôi xin hỏi tôn giả Gotama về việc *đạt đến sự thật*." {#21}
 
-“Saccānuppattiyā kho, bhāradvāja, padhānaṁ bahukāraṁ. No cetaṁ padaheyya, nayidaṁ saccamanupāpuṇeyya. Yasmā ca kho padahati tasmā saccamanupāpuṇāti. Tasmā saccānuppattiyā padhānaṁ bahukāran”ti.
+"Này Bhāradvāja, chính nhờ sự thực hành lặp đi lặp lại, *luyện tập* (tu tập / bhāvanā), và làm cho phát triển những *điều* ấy mà có sự *đạt đến sự thật*. Này Bhāradvāja, đến mức độ này là *đạt đến sự thật*, đến mức độ này là người ấy *đạt đến sự thật*, và Ta quy định việc *đạt đến sự thật* đến mức độ này."
 
-23\. “Padhānassa pana, bho gotama, katamo dhammo bahukāro? Padhānassa bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. {#23}
+22\. "Thưa tôn giả Gotama, cho đến như vậy là *đạt đến sự thật*, cho đến như vậy là người ấy *đạt đến sự thật*, và chúng tôi hiểu việc *đạt đến sự thật* đến mức độ đó. Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho việc *đạt đến sự thật*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho việc *đạt đến sự thật*." {#22}
 
-“Padhānassa kho, bhāradvāja, tulanā bahukārā. No cetaṁ tuleyya, nayidaṁ padaheyya. Yasmā ca kho tuleti tasmā padahati. Tasmā padhānassa tulanā bahukārā”ti.
+"Này Bhāradvāja, *nỗ lực* (padhāna) mang lại nhiều lợi ích cho việc *đạt đến sự thật*. Nếu không *nỗ lực*, người ấy sẽ không *đạt đến sự thật*. Chính vì có *nỗ lực* nên người ấy *đạt đến sự thật*. Do đó, *nỗ lực* mang lại nhiều lợi ích cho việc *đạt đến sự thật*."
 
-24\. “Tulanāya pana, bho gotama, katamo dhammo bahukāro? Tulanāya bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Tulanāya kho, bhāradvāja, ussāho bahukāro. No cetaṁ ussaheyya, nayidaṁ tuleyya. Yasmā ca kho ussahati tasmā tuleti. Tasmā tulanāya ussāho bahukāro”ti. {#24}
+23\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho *nỗ lực*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho *nỗ lực*." {#23}
 
-25\. “Ussāhassa pana, bho gotama, katamo dhammo bahukāro? Ussāhassa bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Ussāhassa kho, bhāradvāja, chando bahukāro. No cetaṁ chando jāyetha, nayidaṁ ussaheyya. Yasmā ca kho chando jāyati tasmā ussahati. Tasmā ussāhassa chando bahukāro”ti. {#25}
+"Này Bhāradvāja, *cân nhắc* (tulanā) mang lại nhiều lợi ích cho *nỗ lực*. Nếu không *cân nhắc*, người ấy sẽ không *nỗ lực*. Chính vì có *cân nhắc* nên người ấy *nỗ lực*. Do đó, *cân nhắc* mang lại nhiều lợi ích cho *nỗ lực*."
 
-26\. “Chandassa pana, bho gotama, katamo dhammo bahukāro? Chandassa bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Chandassa kho, bhāradvāja, dhammanijjhānakkhanti bahukārā. No cete dhammā nijjhānaṁ khameyyuṁ, nayidaṁ chando jāyetha. Yasmā ca kho dhammā nijjhānaṁ khamanti tasmā chando jāyati. Tasmā chandassa dhammanijjhānakkhanti bahukārā”ti. {#26}
+24\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho *cân nhắc*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho *cân nhắc*." 
 
-27\. “Dhammanijjhānakkhantiyā pana, bho gotama, katamo dhammo bahukāro? Dhammanijjhānakkhantiyā bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Dhammanijjhānakkhantiyā kho, bhāradvāja, atthūpaparikkhā bahukārā. No cetaṁ atthaṁ upaparikkheyya, nayidaṁ dhammā nijjhānaṁ khameyyuṁ. Yasmā ca kho atthaṁ upaparikkhati tasmā dhammā nijjhānaṁ khamanti. Tasmā dhammanijjhānakkhantiyā atthūpaparikkhā bahukārā”ti. {#27}
+"Này Bhāradvāja, *hăng hái* (ussāho) mang lại nhiều lợi ích cho *cân nhắc*. Nếu không *hăng hái*, người ấy sẽ không *cân nhắc*. Chính vì có *hăng hái* nên người ấy *cân nhắc*. Do đó, *hăng hái* mang lại nhiều lợi ích cho *cân nhắc*." {#24}
 
-28\. “Atthūpaparikkhāya pana, bho gotama, katamo dhammo bahukāro? Atthūpaparikkhāya bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Atthūpaparikkhāya kho, bhāradvāja, dhammadhāraṇā bahukārā. No cetaṁ dhammaṁ dhāreyya, nayidaṁ atthaṁ upaparikkheyya. Yasmā ca kho dhammaṁ dhāreti tasmā atthaṁ upaparikkhati. Tasmā atthūpaparikkhāya dhammadhāraṇā bahukārā”ti. {#28}
+25\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho *hăng hái*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho *hăng hái*." 
 
-29\. “Dhammadhāraṇāya pana, bho gotama, katamo dhammo bahukāro? Dhammadhāraṇāya bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Dhammadhāraṇāya kho, bhāradvāja, dhammassavanaṁ bahukāraṁ. No cetaṁ dhammaṁ suṇeyya, nayidaṁ dhammaṁ dhāreyya. Yasmā ca kho dhammaṁ suṇāti tasmā dhammaṁ dhāreti. Tasmā dhammadhāraṇāya dhammassavanaṁ bahukāran”ti. {#29}
+"Này Bhāradvāja, *mong muốn* (chando) mang lại nhiều lợi ích cho *hăng hái*. Nếu *mong muốn* không sinh khởi, người ấy sẽ không *hăng hái*. Chính vì *mong muốn* sinh khởi nên người ấy *hăng hái*. Do đó, *mong muốn* mang lại nhiều lợi ích cho *hăng hái*." {#25}
 
-30\. “Dhammassavanassa pana, bho gotama, katamo dhammo bahukāro? Dhammassavanassa bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Dhammassavanassa kho, bhāradvāja, sotāvadhānaṁ bahukāraṁ. No cetaṁ sotaṁ odaheyya, nayidaṁ dhammaṁ suṇeyya. Yasmā ca kho sotaṁ odahati tasmā dhammaṁ suṇāti. Tasmā dhammassavanassa sotāvadhānaṁ bahukāran”ti. {#30}
+26\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho *mong muốn*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho *mong muốn*." 
 
-31\. “Sotāvadhānassa pana, bho gotama, katamo dhammo bahukāro? Sotāvadhānassa bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Sotāvadhānassa kho, bhāradvāja, payirupāsanā bahukārā. No cetaṁ payirupāseyya, nayidaṁ sotaṁ odaheyya. Yasmā ca kho payirupāsati tasmā sotaṁ odahati. Tasmā sotāvadhānassa payirupāsanā bahukārā”ti. {#31}
+"Này Bhāradvāja, sự *chấp nhận Giáo pháp sau khi suy xét* (dhammanijjhānakkhanti) mang lại nhiều lợi ích cho *mong muốn*. Nếu không *chấp nhận Giáo pháp sau khi suy xét*, *mong muốn* sẽ không sinh khởi. Chính vì *chấp nhận Giáo pháp sau khi suy xét* nên *mong muốn* sinh khởi. Do đó, sự *chấp nhận Giáo pháp sau khi suy xét* mang lại nhiều lợi ích cho *mong muốn*." {#26}
 
-32\. “Payirupāsanāya pana, bho gotama, katamo dhammo bahukāro? Payirupāsanāya bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Payirupāsanāya kho, bhāradvāja, upasaṅkamanaṁ bahukāraṁ. No cetaṁ upasaṅkameyya, nayidaṁ payirupāseyya. Yasmā ca kho upasaṅkamati tasmā payirupāsati. Tasmā payirupāsanāya upasaṅkamanaṁ bahukāran”ti. {#32}
+27\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho sự *chấp nhận Giáo pháp sau khi suy xét*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho sự *chấp nhận Giáo pháp sau khi suy xét*." 
 
-33\. “Upasaṅkamanassa pana, bho gotama, katamo dhammo bahukāro? Upasaṅkamanassa bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ pucchāmā”ti. “Upasaṅkamanassa kho, bhāradvāja, saddhā bahukārā. No cetaṁ saddhā jāyetha, nayidaṁ upasaṅkameyya. Yasmā ca kho saddhā jāyati tasmā upasaṅkamati. Tasmā upasaṅkamanassa saddhā bahukārā”ti. {#33}
+"Này Bhāradvāja, *thẩm tra ý nghĩa* (atthūpaparikkhā) mang lại nhiều lợi ích cho sự *chấp nhận Giáo pháp sau khi suy xét*. Nếu không *thẩm tra ý nghĩa*, người ấy sẽ không *chấp nhận Giáo pháp sau khi suy xét*. Chính vì *thẩm tra ý nghĩa* nên người ấy *chấp nhận Giáo pháp sau khi suy xét*. Do đó, *thẩm tra ý nghĩa* mang lại nhiều lợi ích cho sự *chấp nhận Giáo pháp sau khi suy xét*." {#27}
 
-34\. “Saccānurakkhaṇaṁ mayaṁ bhavantaṁ gotamaṁ apucchimha, saccānurakkhaṇaṁ bhavaṁ gotamo byākāsi; tañca panamhākaṁ ruccati ceva khamati ca tena camha attamanā. Saccānubodhaṁ mayaṁ bhavantaṁ gotamaṁ apucchimha, saccānubodhaṁ bhavaṁ gotamo byākāsi; tañca panamhākaṁ ruccati ceva khamati ca tena camha attamanā. Saccānuppattiṁ mayaṁ bhavantaṁ gotamaṁ apucchimha, saccānuppattiṁ bhavaṁ gotamo byākāsi; tañca panamhākaṁ ruccati ceva khamati ca tena camha attamanā. Saccānuppattiyā bahukāraṁ dhammaṁ mayaṁ bhavantaṁ gotamaṁ apucchimha, saccānuppattiyā bahukāraṁ dhammaṁ bhavaṁ gotamo byākāsi; tañca panamhākaṁ ruccati ceva khamati ca tena camha attamanā. Yaṁyadeva ca mayaṁ bhavantaṁ gotamaṁ apucchimha taṁtadeva bhavaṁ gotamo byākāsi; tañca panamhākaṁ ruccati ceva khamati ca tena camha attamanā. {#34}
+28\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho *thẩm tra ý nghĩa*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho *thẩm tra ý nghĩa*." 
 
-Mayañhi, bho gotama, pubbe evaṁ jānāma: ‘ke ca muṇḍakā samaṇakā ibbhā kaṇhā bandhupādāpaccā, ke ca dhammassa aññātāro’ti? Ajanesi vata me bhavaṁ gotamo samaṇesu samaṇapemaṁ, samaṇesu samaṇapasādaṁ, samaṇesu samaṇagāravaṁ.
+"Này Bhāradvāja, *ghi nhớ Giáo pháp* (dhammadhāraṇā) mang lại nhiều lợi ích cho *thẩm tra ý nghĩa*. Nếu không *ghi nhớ Giáo pháp*, người ấy sẽ không *thẩm tra ý nghĩa*. Chính vì *ghi nhớ Giáo pháp* nên người ấy *thẩm tra ý nghĩa*. Do đó, *ghi nhớ Giáo pháp* mang lại nhiều lợi ích cho *thẩm tra ý nghĩa*." {#28}
 
-35\. Abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti. {#35}
+29\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho *ghi nhớ Giáo pháp*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho *ghi nhớ Giáo pháp*." 
 
-Caṅkīsuttaṁ niṭṭhitaṁ pañcamaṁ.
+"Này Bhāradvāja, nghe *Giáo pháp* (dhammassavana) mang lại nhiều lợi ích cho *ghi nhớ Giáo pháp*. Nếu không nghe *Giáo pháp*, người ấy sẽ không *ghi nhớ Giáo pháp*. Chính vì nghe *Giáo pháp* nên người ấy *ghi nhớ Giáo pháp*. Do đó, nghe *Giáo pháp* mang lại nhiều lợi ích cho *ghi nhớ Giáo pháp*." {#29}
+
+30\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho nghe *Giáo pháp*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho nghe *Giáo pháp*." 
+
+"Này Bhāradvāja, *lắng tai nghe* (sotāvadhāna) mang lại nhiều lợi ích cho nghe *Giáo pháp*. Nếu không *lắng tai nghe*, người ấy sẽ không nghe *Giáo pháp*. Chính vì *lắng tai nghe* nên người ấy nghe *Giáo pháp*. Do đó, *lắng tai nghe* mang lại nhiều lợi ích cho nghe *Giáo pháp*." {#30}
+
+31\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho *lắng tai nghe*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho *lắng tai nghe*." 
+
+"Này Bhāradvāja, *gần gũi* (payirupāsanā) mang lại nhiều lợi ích cho *lắng tai nghe*. Nếu không *gần gũi*, người ấy sẽ không *lắng tai nghe*. Chính vì *gần gũi* nên người ấy *lắng tai nghe*. Do đó, *gần gũi* mang lại nhiều lợi ích cho *lắng tai nghe*." {#31}
+
+32\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho *gần gũi*? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho *gần gũi*." 
+
+"Này Bhāradvāja, đi đến (upasaṅkamana) mang lại nhiều lợi ích cho *gần gũi*. Nếu không đi đến, người ấy sẽ không *gần gũi*. Chính vì đi đến nên người ấy *gần gũi*. Do đó, đi đến mang lại nhiều lợi ích cho *gần gũi*." {#32}
+
+33\. "Nhưng thưa tôn giả Gotama, *điều* nào mang lại nhiều lợi ích cho việc đi đến? Chúng tôi xin hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho việc đi đến." 
+
+"Này Bhāradvāja, *niềm tin* (saddhā) mang lại nhiều lợi ích cho việc đi đến. Nếu *niềm tin* không sinh khởi, người ấy sẽ không đi đến. Chính vì *niềm tin* sinh khởi nên người ấy đi đến. Do đó, *niềm tin* mang lại nhiều lợi ích cho việc đi đến." {#33}
+
+34\. "Chúng tôi đã hỏi tôn giả Gotama về việc *bảo vệ sự thật*, tôn giả Gotama đã giải thích về việc *bảo vệ sự thật*; điều đó làm chúng tôi hài lòng, chấp nhận, và vì thế chúng tôi rất hoan hỷ. Chúng tôi đã hỏi tôn giả Gotama về việc *khám phá sự thật*, tôn giả Gotama đã giải thích về việc *khám phá sự thật*; điều đó làm chúng tôi hài lòng, chấp nhận, và vì thế chúng tôi rất hoan hỷ. Chúng tôi đã hỏi tôn giả Gotama về việc *đạt đến sự thật*, tôn giả Gotama đã giải thích về việc *đạt đến sự thật*; điều đó làm chúng tôi hài lòng, chấp nhận, và vì thế chúng tôi rất hoan hỷ. Chúng tôi đã hỏi tôn giả Gotama về *điều* mang lại nhiều lợi ích cho việc *đạt đến sự thật*, tôn giả Gotama đã giải thích về *điều* mang lại nhiều lợi ích cho việc *đạt đến sự thật*; điều đó làm chúng tôi hài lòng, chấp nhận, và vì thế chúng tôi rất hoan hỷ. Bất cứ điều gì chúng tôi hỏi tôn giả Gotama, tôn giả Gotama đều giải thích rõ ràng; điều đó làm chúng tôi hài lòng, chấp nhận, và vì thế chúng tôi rất hoan hỷ. {#34}
+
+Thưa tôn giả Gotama, trước đây chúng tôi từng nghĩ: 'Những sa-môn trọc đầu này là ai, những kẻ thấp kém, đen đúa, sinh ra từ gót chân của Phạm thiên này là ai mà có thể hiểu được *Giáo pháp*?' Nhưng nay, tôn giả Gotama đã khơi dậy trong tôi tình cảm đối với các sa-môn, *niềm tin* tuyệt đối đối với các sa-môn, và sự tôn kính đối với các sa-môn.
+
+35\. Thật tuyệt vời, thưa tôn giả Gotama! ... [...lặp lại...]... Xin tôn giả Gotama hãy nhận con làm cư sĩ, từ nay cho đến mạng chung, con xin trọn đời quy y." {#35}
+
+Kinh Caṅkī thứ năm kết thúc.
+
+---
+### Ghi chú tài liệu:
+- Đoạn mô tả danh tiếng của Đức Phật và cuộc tranh luận về địa vị xã hội giữa Caṅkī và các Bà-la-môn lặp lại cấu trúc quen thuộc trong Kinh Soṇadaṇḍa ([DN 4](/l?q=dn-4)) và Kinh Kūṭadanta ([DN 5](/l?q=dn-5)).
+- Chuỗi 12 bước thực hành từ "niềm tin" đến "đạt đến sự thật" là một trong những mô tả chi tiết nhất trong Kinh tạng về lộ trình học pháp và tu tập của một người cư sĩ hoặc tu sĩ sơ cơ.

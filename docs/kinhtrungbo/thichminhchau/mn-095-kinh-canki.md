@@ -140,7 +140,8 @@ Kapathika là Thiện nam tử. Thanh niên Bà-la-môn Kapathipa là bậc đa 
 Kapathika phát ngôn thiện xảo. Và thanh niên Bà-la-môn Kapathia là bậc có trí. Và thanh niên Bà-la-
 môn Kapathika có thể đàm luận với Tôn giả Gotama trong vấn đề này.
 
-Thế Tôn nghĩ như sau: "Thật sự thanh niên Bà-la-môn Kapathika này đã thông hiểu ba tập Veda, và các
+<!--pg-->
+12\. Thế Tôn nghĩ như sau: "Thật sự thanh niên Bà-la-môn Kapathika này đã thông hiểu ba tập Veda, và các
 Bà-la-môn tôn trọng người này".
 
 Và thanh niên Bà-la-môn Kapathika nghĩ như sau: "Khi nào Sa-môn Gotama lấy mắt nhìn con mắt ta, ta
@@ -188,7 +189,8 @@ Bharadvaja. Ta nghĩ rằng, lời nói của các Bà-la-môn cũng giống nh�
 không thấy, người giữa cũng không thấy, người cuối cùng cũng không thấy. Này Bharadvaja, Ông nghĩ
 thế nào? Sự kiện là như vậy, có phải lòng tin của các vị Bà-la-môn trở thành không có căn cứ?
 
--- Thưa Tôn giả Gotama, các Bà-la-môn không phải chỉ dựa trên lòng tin, các Bà-la-môn ở đây còn dựa
+<!--pg-->
+14\. -- Thưa Tôn giả Gotama, các Bà-la-môn không phải chỉ dựa trên lòng tin, các Bà-la-môn ở đây còn dựa
 trên điều nghe (tùy văn: anussava).
 
 -- Trước hết, này Bharadvaja, Ông đi đến lòng tin, nay Ông nói đến tùy văn. Này Bharadvaja, năm pháp

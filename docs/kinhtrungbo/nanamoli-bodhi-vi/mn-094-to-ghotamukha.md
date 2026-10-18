@@ -5,7 +5,7 @@
 
 2\.  Lúc bấy giờ, Bà la môn Ghotamukha có việc đi đến Ba La Nại. Khi ông đang [158] đi bách bộ và dạo chơi để rèn luyện thân thể, ông đến Vườn Xoài Khemiya. Vào lúc đó, Tôn giả Udena đang đi kinh hành ngoài trời. Bà la môn Ghotamukha liền đến gần Tôn giả Udena và chào hỏi lẫn nhau. Sau khi cuộc trò chuyện lịch sự và thân mật kết thúc, trong khi vẫn đi kinh hành cùng Tôn giả Udena, ông nói: "Thưa Sa môn đáng kính, dường như không có đời sống sa môn nào phù hợp với Pháp (Dhamma - Giáo pháp của Đức Phật): tôi thấy như vậy ở đây, có lẽ vì tôi chưa từng gặp những vị đáng kính như ngài hoặc [vì tôi chưa thấy] Pháp ở đây." {#2}
 
-3\.  Khi nghe vậy, Tôn giả Udena bước xuống khỏi nơi kinh hành, đi vào chỗ ở của mình và ngồi xuống trên chỗ ngồi đã soạn sẵn. [^877] Bà la môn Ghotamukha cũng bước xuống khỏi nơi kinh hành, đi vào chỗ ở và đứng sang một bên. Bấy giờ, Tôn giả Udena nói với ông: "Này Bà la môn, có chỗ ngồi đó, nếu muốn ông cứ ngồi." {#3}
+3\.  Khi nghe vậy, Tôn giả Udena bước xuống khỏi nơi kinh hành, đi vào chỗ ở của mình và ngồi xuống trên chỗ ngồi đã soạn sẵn. [877](/kinhtrungbo/nanamoli-bodhi-vi/notes/094#877){.note} Bà la môn Ghotamukha cũng bước xuống khỏi nơi kinh hành, đi vào chỗ ở và đứng sang một bên. Bấy giờ, Tôn giả Udena nói với ông: "Này Bà la môn, có chỗ ngồi đó, nếu muốn ông cứ ngồi." {#3}
 
 "Chúng tôi không ngồi vì đợi Tôn giả Udena [lên tiếng]. Làm sao một người như tôi lại dám ngồi xuống một chỗ ngồi khi chưa được mời?"
 
@@ -44,13 +44,13 @@
 
 "Này Bà la môn, vua xứ Anga trợ cấp cho ông khoản thường xuyên như thế nào?"
 
-"Năm trăm đồng kahāpana, thưa Tôn giả Udena." [^878]
+"Năm trăm đồng kahāpana, thưa Tôn giả Udena." [878](/kinhtrungbo/nanamoli-bodhi-vi/notes/094#878){.note}
 
 "Chúng tôi không được phép nhận vàng bạc, thưa Bà la môn."
 
 "Nếu Tôn giả Udena không được phép nhận, tôi sẽ xây một tu viện cho Tôn giả Udena."
 
-"Này Bà la môn, nếu ông muốn xây một tu viện cho tôi, hãy xây một giảng đường cho Tăng đoàn (Sangha - cộng đồng các vị sư) tại Pātaliputta (Hoa Thị Thành)." [^879]
+"Này Bà la môn, nếu ông muốn xây một tu viện cho tôi, hãy xây một giảng đường cho Tăng đoàn (Sangha - cộng đồng các vị sư) tại Pātaliputta (Hoa Thị Thành)." [879](/kinhtrungbo/nanamoli-bodhi-vi/notes/094#879){.note}
 
 "Tôi càng hài lòng và hoan hỷ hơn khi Tôn giả Udena gợi ý tôi cúng dường cho Tăng đoàn. Vậy, với khoản trợ cấp thường xuyên này và một khoản trợ cấp thường xuyên khác nữa, tôi sẽ xây một giảng đường cho Tăng đoàn tại Pātaliputta."
 

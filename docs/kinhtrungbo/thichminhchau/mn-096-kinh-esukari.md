@@ -37,7 +37,8 @@ muốn, vẫn bị bắt nuốt miếng thịt: "Này người kia, Ông phải 
 tiền". Cũng vậy, này Bà-la-môn, dầu không được các Sa-môn, Bà-la-môn ấy chấp nhận, các Bà-la-môn
 chủ trương bốn loại phụng sự này.
 
-Này Bà-la-môn, Ta không nói rằng, tất cả cần phải phụng sự. Nhưng này Bà-la-môn, Ta cũng không nói
+<!--pg-->
+5\. Này Bà-la-môn, Ta không nói rằng, tất cả cần phải phụng sự. Nhưng này Bà-la-môn, Ta cũng không nói
 rằng, tất cả không cần phải phụng sự. Vì rằng, này Bà-la-môn, nếu có ai trong khi phụng sự, trở thành
 xấu hơn, không trở thành tốt hơn, Ta không nói rằng, người đó cần phải phụng sự. Nhưng này Bà-la-
 môn , nếu có ai trong khi phụng sự, trở thành tốt hơn, không trở thành xấu hơn. Ta nói rằng, người đó
@@ -49,7 +50,6 @@ phụng sự này trở thành tốt hơn, không trở thành xấu hơn? Và n
 sự bởi người nào?" Vị Khattiya, này Bà-la-môn, nếu trả lời chân chánh cần phải đáp như sau: "Người
 nào phụng sự tôi, do nguyên nhân phụng sự này trở thành xấu hơn, không tốt hơn, thì tôi không cần
 người ấy phụng sự tôi. Nhưng nếu người nào phụng sự tôi, do nguyên nhân phụng sự này trở thành tốt
-
 hơn, không xấu hơn, thì tôi cần người ấy phụng sự tôi".
 
 Và này Bà-la-môn , nếu có người hỏi Bà-la-môn ... Này Bà-la-môn , nếu có người hỏi Vessa... và này
@@ -84,7 +84,8 @@ không cần phải phụng sự. Này Bà-la-môn, người nào phụng sự, 
 được tăng trưởng, giới được tăng trưởng, sự nghe được tăng trưởng, bố thí được tăng trưởng, trí tuệ
 được tăng trưởng, Ta nói người ấy cần phải phụng sự.
 
-Khi nghe nói vậy, Bà-la-môn Esukari bạch Thế Tôn:
+<!--pg-->
+10\. Khi nghe nói vậy, Bà-la-môn Esukari bạch Thế Tôn:
 
 -- Thưa Tôn giả Gotama, các Bà-la-môn chủ trương bốn loại tài sản, chủ trương tài sản của người Bà-la-
 môn, chủ trương tài sản của người Khattiya, chủ trương tài sản của người Vessa, chủ trương tài sản của
