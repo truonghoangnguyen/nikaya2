@@ -79,7 +79,8 @@ khi nói: "Con chúng tôi vì cha mẹ đã làm các điều phi pháp, đã l
 -- Thưa không được, Tôn giả Sariputta. Các địa ngục quân vẫn quăng người ấy xuống địa ngục, dầu
 người ấy có khóc than.
 
--- Này Dhananjani, Ông nghĩ thế nào? Ở đây, có người vì vợ con làm các điều phi pháp, làm các điều
+<!--pg-->
+7-15. -- Này Dhananjani, Ông nghĩ thế nào? Ở đây, có người vì vợ con làm các điều phi pháp, làm các điều
 bất chánh. Do nhân duyên làm các điều phi pháp, làm các điều bất chánh, các địa ngục quân kéo người
 ấy đến địa ngục. Người ấy làm được gì khi nói: "Tôi vì vợ con đã làm các điều phi pháp, đã làm điều bất
 chánh. Chớ có để các địa ngục quân kéo tôi đến địa ngục"? Hay vợ con người ấy có làm được gì khi nói:
@@ -120,7 +121,8 @@ Chớ có để các địa ngục quân kéo nó đến địa ngục"?
 -- Thưa không được, Tôn giả Sariputta. Các địa ngục quân vẫn quăng người ấy xuống địa ngục, dầu
 người ấy có khóc than.
 
--- Này Dhananjani, Ông nghĩ thế nào? Một người vì cha mẹ làm các điều phi pháp, làm các điều bất
+<!--pg-->
+16\. -- Này Dhananjani, Ông nghĩ thế nào? Một người vì cha mẹ làm các điều phi pháp, làm các điều bất
 chánh, hay một người vì cha mẹ làm các điều đúng pháp, làm các điều chơn chánh, ai tốt đẹp hơn?
 
 -- Thưa Tôn giả Sariputta, người vì cha mẹ làm các điều phi pháp, làm các điều bất chánh, người ấy
@@ -200,7 +202,6 @@ chơn chánh, người ấy tốt đẹp hơn. Thưa Tôn giả Sariputta, hành
 đẹp hơn hành trì phi pháp, hành trì bất chánh.
 
 -- Này Dhananjani, có những hành động khác có nhân, đúng pháp, với những hành động này có thể làm
-
 được các trách nhiệm chư Thiên, phải làm đối với chư Thiên, không làm các điều ác, làm được các thiện
 hành. Này Dhananjani, Ông nghĩ thế nào? Người vì vua chúa làm các điều phi pháp, làm các điều bất
 chánh, hay người vì vua chúa làm các điều đúng pháp, làm các điều chơn chánh, ai tốt đẹp hơn?
@@ -227,6 +228,7 @@ thỏa mãn, trưởng dưỡng cái thân, không làm các điều ác, làm �
 
 Bà-la-môn Dhananjani hoan hỷ tín thọ lời Tôn giả Sariputta dạy, từ chỗ ngồi đứng dậy và ra đi.
 
+<!--pg-->
 Bà-la-môn Dhananjani sau một thời gian bị bệnh, khổ đau, bị trọng bệnh. Rồi Bà-la-môn Dhananjani
 cho gọi một người khác:
 

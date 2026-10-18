@@ -37,10 +37,12 @@
 
 "Không, thưa Tôn giả Xá Lợi Phất. Dù người đó có kêu la, các quản ngục địa ngục vẫn sẽ quăng người đó vào địa ngục."
 
+<!--pg-->
 7-15. "Này Dhānañjāni, ông nghĩ sao? Giả sử có người ở đây hành xử trái Pháp, phi pháp vì vợ con... vì nô tỳ, người làm công... vì bạn bè... vì thân quyến... vì khách khứa... [188] vì tổ tiên đã khuất... vì chư thiên... vì nhà vua... vì bồi bổ, nuôi dưỡng thân này, và vì hành vi đó mà bị các quản ngục địa ngục lôi xuống địa ngục. Liệu người đó có thể [tự cứu mình bằng cách van xin]: 'Tôi đã hành xử trái Pháp, phi pháp là vì bồi bổ, nuôi dưỡng thân này, xin các quản ngục địa ngục đừng [lôi tôi] xuống địa ngục' không? Hay những người khác có thể [cứu người đó bằng cách van xin]: 'Nó đã hành xử trái Pháp, phi pháp là vì bồi bổ, nuôi dưỡng thân này, xin các quản ngục địa ngục đừng [lôi nó] xuống địa ngục' không?"
 
 "Không, thưa Tôn giả Xá Lợi Phất. Dù người đó có kêu la, các quản ngục địa ngục vẫn sẽ quăng người đó vào địa ngục."
 
+<!--pg-->
 16\. "Này Dhānañjāni, ông nghĩ sao? Giữa người vì cha mẹ mà hành xử trái Pháp, phi pháp, và người vì cha mẹ mà hành xử đúng Pháp (according to the Dhamma - thuận theo lời dạy của Đức Phật, làm điều đúng đắn), đúng đắn (righteously - chân chính, hợp lẽ phải), ai tốt hơn?" {#16}
 
 "Thưa Tôn giả Xá Lợi Phất, người vì cha mẹ mà hành xử trái Pháp, phi pháp, không tốt hơn; người vì cha mẹ mà hành xử đúng Pháp, đúng đắn, mới là người tốt hơn."
@@ -55,6 +57,7 @@
 
 26\. Lúc đó, Bà-la-môn Dhānañjāni, sau khi hoan hỷ và vui mừng với lời dạy của Tôn giả Xá Lợi Phất, đã từ chỗ ngồi đứng dậy và ra về. {#26}
 
+<!--pg-->
 27\. Vào một dịp khác, Bà-la-môn Dhānañjāni bị bệnh, đau đớn, lâm trọng bệnh. Ông liền bảo một người: "Này bạn, [192] hãy đến gặp Thế Tôn, nhân danh tôi cúi đầu đảnh lễ dưới chân ngài và thưa: 'Bạch Thế Tôn, Bà-la-môn Dhānañjāni đang bị bệnh, đau đớn, lâm trọng bệnh; ông ấy cúi đầu đảnh lễ dưới chân Thế Tôn.' Rồi hãy đến gặp Tôn giả Xá Lợi Phất, nhân danh tôi cúi đầu đảnh lễ dưới chân ngài và thưa: 'Bạch Tôn giả, Bà-la-môn Dhānañjāni đang bị bệnh, đau đớn, lâm trọng bệnh; ông ấy cúi đầu đảnh lễ dưới chân Tôn giả.' Rồi thưa tiếp: 'Kính mong Tôn giả, vì lòng bi mẫn (compassion - lòng thương xót chúng sinh đang đau khổ), đến thăm nhà Bà-la-môn Dhānañjāni thì tốt biết mấy.'" {#27}
 
 "Vâng, thưa ngài," người đó đáp, rồi đi đến gặp Thế Tôn, sau khi đảnh lễ Thế Tôn, người đó ngồi xuống một bên và truyền lại lời nhắn. Sau đó, người đó đến gặp Tôn giả Xá Lợi Phất, sau khi đảnh lễ Tôn giả Xá Lợi Phất, người đó truyền lại lời nhắn và thưa: "Kính mong Tôn giả, vì lòng bi mẫn, đến thăm nhà Bà-la-môn Dhānañjāni thì tốt biết mấy." Tôn giả Xá Lợi Phất im lặng nhận lời.
@@ -75,7 +78,7 @@ Lúc đó, Tôn giả Xá Lợi Phất nghĩ: "Các vị Bà-la-môn này rất 
 
 36\. (Đánh số lại từ 33) "Vậy thì, thưa Tôn giả Xá Lợi Phất, xin hãy nhân danh tôi cúi đầu đảnh lễ dưới chân Thế Tôn và thưa: 'Bạch Thế Tôn, Bà-la-môn Dhānañjāni đang bị bệnh, đau đớn, lâm trọng bệnh; ông ấy cúi đầu đảnh lễ dưới chân Thế Tôn.'" {#36}
 
-37\. (Đánh số lại từ 33) Lúc đó, Tôn giả Xá Lợi Phất, sau khi đã giúp Bà-la-môn Dhānañjāni hướng tâm đến cõi Phạm Thiên thấp (inferior Brahma-world - cõi Phạm Thiên thuộc Sắc giới, nhưng chưa phải là cảnh giới giải thoát cuối cùng), đã từ chỗ ngồi đứng dậy và ra đi khi vẫn còn những điều cao hơn có thể giảng dạy. [^898] Không lâu sau khi Tôn giả Xá Lợi Phất rời đi, Bà-la-môn Dhānañjāni qua đời và tái sinh vào cõi Phạm Thiên. {#37}
+37\. (Đánh số lại từ 33) Lúc đó, Tôn giả Xá Lợi Phất, sau khi đã giúp Bà-la-môn Dhānañjāni hướng tâm đến cõi Phạm Thiên thấp (inferior Brahma-world - cõi Phạm Thiên thuộc Sắc giới, nhưng chưa phải là cảnh giới giải thoát cuối cùng), đã từ chỗ ngồi đứng dậy và ra đi khi vẫn còn những điều cao hơn có thể giảng dạy. [898](/kinhtrungbo/nanamoli-bodhi-vi/notes/097#898){.note} Không lâu sau khi Tôn giả Xá Lợi Phất rời đi, Bà-la-môn Dhānañjāni qua đời và tái sinh vào cõi Phạm Thiên. {#37}
 
 38\. (Đánh số lại từ 34) Lúc đó, Thế Tôn bảo các vị tỳ kheo: "Này các tỳ kheo, Xá Lợi Phất, sau khi đã giúp Bà-la-môn Dhānañjāni hướng tâm đến cõi Phạm Thiên thấp, đã từ chỗ ngồi đứng dậy và ra đi khi vẫn còn những điều cao hơn có thể giảng dạy." {#38}
 
@@ -85,22 +88,4 @@ Lúc đó, Tôn giả Xá Lợi Phất nghĩ: "Các vị Bà-la-môn này rất 
 
 "Bạch Thế Tôn, con đã nghĩ rằng: 'Các vị Bà-la-môn này rất hướng về cõi Phạm Thiên. Vậy con hãy chỉ cho Bà-la-môn Dhānañjāni con đường để được sinh về cõi Phạm Thiên.'"
 
-"Này Xá Lợi Phất, Bà-la-môn Dhānañjāni đã qua đời và đã tái sinh vào cõi Phạm Thiên."[^899]
-
-<!--pg-->
-Từ ngữ:
-- tỳ kheo / bhikkhu / bhikkhu: Vị sư nam đã thọ giới cụ túc trong Phật giáo Theravada, sống đời sống xuất gia, tuân thủ giới luật.
-- đức tin / saddhā / faith: Niềm tin trong sạch, vững chắc vào Tam Bảo (Phật, Pháp, Tăng) và luật nhân quả (nghiệp báo), là nền tảng cho sự thực hành tâm linh.
-- phóng dật / pamāda / negligent: Sự lơ là, dễ duôi, không chú tâm vào việc tu tập thiện pháp, trái ngược với tinh tấn, không phóng dật (appamāda).
-- trái Pháp / adhammacariyā / contrary to the Dhamma: Hành vi, cách cư xử đi ngược lại với Chánh Pháp, tức là lời dạy của Đức Phật về đạo đức và chân lý, làm điều sai trái, bất thiện.
-- phi pháp / adhammacariyā / unrighteously: Hành động không đúng đắn, bất chính, không phù hợp với lẽ phải, đạo đức. Thường đi đôi với "trái Pháp".
-- đúng Pháp / dhammacariyā / according to the Dhamma: Hành vi, cách cư xử thuận theo Chánh Pháp, tức là lời dạy của Đức Phật, làm điều đúng đắn, thiện lành.
-- đúng đắn / dhammacariyā / righteously: Hành động chân chính, hợp lẽ phải, phù hợp với đạo đức. Thường đi đôi với "đúng Pháp".
-- thực hành điều thiện / puññakiriyā / practise merit: Làm các việc tốt lành, tạo công đức, phước báu thông qua các hành động thiện lành về thân, khẩu, ý như bố thí, trì giới, tu thiền.
-- bi mẫn / karuṇā / compassion: Lòng thương xót đối với chúng sinh đang đau khổ và mong muốn cho họ thoát khỏi khổ đau. Đây là một trong Tứ Vô Lượng Tâm.
-- cõi Phạm Thiên / Brahmaloka / Brahma-world: Cõi trời của các vị Phạm Thiên (Brahmā), thuộc Sắc giới và Vô sắc giới trong vũ trụ quan Phật giáo. Đây là cảnh giới tái sinh cao hơn các cõi trời Dục giới, đạt được nhờ tu tập thiền định và các thiện pháp tương ứng, nhưng vẫn nằm trong vòng luân hồi (saṃsāra).
-- lòng từ / mettā / loving-kindness: Tâm mong muốn cho tất cả chúng sinh được an lạc, hạnh phúc, không phân biệt. Đây là một trong Tứ Vô Lượng Tâm.
-- lòng bi / karuṇā / compassion: (Đã giải thích ở "bi mẫn") Tâm mong muốn cho tất cả chúng sinh thoát khỏi đau khổ. Đây là một trong Tứ Vô Lượng Tâm.
-- lòng hỷ / muditā / appreciative joy: Tâm vui mừng, hoan hỷ trước hạnh phúc, thành công và sự an lạc của chúng sinh khác, không ganh tị. Đây là một trong Tứ Vô Lượng Tâm.
-- lòng xả / upekkhā / equanimity: Tâm giữ được sự bình thản, quân bình, không thiên vị, không bám chấp hay ghét bỏ trước các trạng thái được mất, khen chê, khổ vui của bản thân và chúng sinh. Đây là một trong Tứ Vô Lượng Tâm.
-- cõi Phạm Thiên thấp / inferior Brahma-world: Các cõi Phạm Thiên thuộc Sắc giới (Rūpaloka), thấp hơn các cõi Vô sắc giới (Arūpaloka) và chưa phải là Niết Bàn (Nibbāna), cảnh giới giải thoát cuối cùng. Tái sinh vào đây là kết quả của việc tu tập thiền định và Tứ Vô Lượng Tâm ở mức độ nhất định.
+"Này Xá Lợi Phất, Bà-la-môn Dhānañjāni đã qua đời và đã tái sinh vào cõi Phạm Thiên."[899](/kinhtrungbo/nanamoli-bodhi-vi/notes/097#899){.note}
