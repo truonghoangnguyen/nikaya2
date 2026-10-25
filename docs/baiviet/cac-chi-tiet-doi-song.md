@@ -128,3 +128,5 @@ Tâm giải thoát: MN 99
 ...tâm đi với *sự bình thản* (xả / upekkhā) lan tỏa khắp một phương, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như vậy, vị ấy an trú với tâm đi với *sự bình thản* lan tỏa khắp thế giới, trên, dưới, bề ngang, ở mọi nơi, đến mọi loài, với tâm rộng lớn, vĩ đại, không giới hạn, không hận thù, không ác ý. Này thanh niên, khi *giải thoát qua tâm* bằng *sự bình thản* được luyện tập như vậy, bất kỳ hành động có giới hạn nào cũng không thể đọng lại ở đó, không thể tồn tại ở đó. Này thanh niên, giống như một người thổi ốc tù và mạnh mẽ có thể dễ dàng báo hiệu cho cả bốn phương; cũng vậy, này thanh niên [...lặp lại...] khi *giải thoát qua tâm* bằng *sự bình thản* được luyện tập như vậy, bất kỳ hành động có giới hạn nào cũng không thể đọng lại ở đó, không thể tồn tại ở đó. Này thanh niên, đây cũng là con đường dẫn đến sự đồng hành cùng Phạm thiên."
 
 Xem thêm trong mn-sum-099.md
+
+
