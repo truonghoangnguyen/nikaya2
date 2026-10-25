@@ -46,6 +46,7 @@ Thanh niên Bà-la-môn Sangarava, vâng đáp nữ Bà-la-môn Dhananjani, đi 
 lên với Thế Tôn những lời chào đón hỏi thăm, sau khi nói lên những lời chào đón hỏi thăm thân hữu,
 ngồi xuống một bên. Ngồi xuống một bên, thanh niên Bà-la-môn Sangarava bạch Thế Tôn:
 
+<!--pg-->
 -- Thưa Tôn giả Gotama, có một số Sa-môn, Bà-la-môn tự nhận rằng về căn bản Phạm hạnh, họ đã
 chứng đạt được ngay hiện tại thông trí và cứu cánh bỉ ngạn nhờ thượng trí (abinnavesanaparamipatta).
 Tôn giả Gotama là thế nào đối với các vị ấy?
@@ -386,6 +387,7 @@ tại không có đời sống nào khác nữa". Này Bharadvaja, đó là minh
 canh cuối, vô minh diệt, minh sanh, ám diệt, ánh sáng sanh, do Ta sống không phóng dật, nhiệt tâm tinh
 cần.
 
+<!--pg-->
 Khi nghe nói vậy, thanh niên Bà-la-môn San-garava bạch thế tôn:
 
 -- Thật sự, sự tinh cần của tôn giả Gotama là trung kiên (atthita). Thật sự, sự tinh cần của tôn giả

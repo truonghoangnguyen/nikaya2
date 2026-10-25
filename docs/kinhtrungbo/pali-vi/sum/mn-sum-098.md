@@ -1,3 +1,6 @@
+[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-098-kinh-vasettha){.note-link}
+
+
 ### Khảo sát văn bản
 - **Bối cảnh kinh**: Đức Phật đang lưu trú tại khu rừng Icchānaṅgala. Hai thanh niên Bà-la-môn là Vāseṭṭha và Bhāradvāja nảy sinh tranh luận về việc điều gì thực sự tạo nên một người Bà-la-môn: do huyết thống sinh ra (quan điểm của Bhāradvāja) hay do hành động và đạo đức (quan điểm của Vāseṭṭha). Không ai thuyết phục được ai, họ quyết định đến hỏi Đức Phật.
 - **Bối cảnh tranh luận**: Đây là một cuộc tranh luận trực tiếp nhắm vào hệ tư tưởng cốt lõi của Bà-la-môn giáo thời bấy giờ về chế độ giai cấp (vanna/jāti). 

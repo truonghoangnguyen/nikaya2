@@ -3,7 +3,7 @@
 
 1\.  Tôi nghe như vầy. Một thời Đức Thế Tôn (Blessed One - Bậc được tôn kính, Giác ngộ) trú tại thành Xá-vệ (Sāvatthī), trong vườn ông Jeta (Kỳ-đà), khu vườn của ông Anāthapiṇḍika (Cấp Cô Độc). {#1}
 
-2\.  Vào lúc ấy, chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, đang ở tại nhà một gia chủ (householder - người chủ gia đình, người tại gia) nào đó tại thành Xá-vệ vì một công việc. [^908] Rồi chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, hỏi người gia chủ nơi mình đang ở: "Thưa gia chủ, tôi nghe nói thành Xá-vệ không phải là không có các vị A-la-hán (arahants - bậc thánh đã giác ngộ, giải thoát hoàn toàn). Hôm nay chúng ta có thể đến thăm viếng vị sa môn (recluse - người xuất gia tu hành) hay Bà-la-môn (brahmin - tu sĩ thuộc giai cấp Bà-la-môn) nào?" {#2}
+2\.  Vào lúc ấy, chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, đang ở tại nhà một gia chủ (householder - người chủ gia đình, người tại gia) nào đó tại thành Xá-vệ vì một công việc. [908](/kinhtrungbo/nanamoli-bodhi-vi/notes/099#908){.note} Rồi chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, hỏi người gia chủ nơi mình đang ở: "Thưa gia chủ, tôi nghe nói thành Xá-vệ không phải là không có các vị A-la-hán (arahants - bậc thánh đã giác ngộ, giải thoát hoàn toàn). Hôm nay chúng ta có thể đến thăm viếng vị sa môn (recluse - người xuất gia tu hành) hay Bà-la-môn (brahmin - tu sĩ thuộc giai cấp Bà-la-môn) nào?" {#2}
 
 "Thưa tôn giả, Đức Thế Tôn đang trú tại thành Xá-vệ, trong vườn ông Jeta, khu vườn của ông Anāthapiṇḍika. Tôn giả có thể đến thăm viếng Đức Thế Tôn." [197]
 
@@ -17,7 +17,7 @@
 
 "Ở đây cũng vậy, này thanh niên, Ta là người nói sau khi đã phân tích; Ta không nói một chiều. Có công việc bao gồm nhiều hoạt động, nhiều phận sự, nhiều ràng buộc, và nhiều công trình lớn lao, mà khi thất bại, lại có quả nhỏ. Có công việc bao gồm nhiều hoạt động, nhiều phận sự, nhiều ràng buộc, và nhiều công trình lớn lao, mà khi thành công, lại có quả lớn. Có công việc bao gồm ít hoạt động, ít phận sự, ít ràng buộc, và ít công trình nhỏ bé, mà khi thất bại, lại có quả nhỏ. Có công việc bao gồm ít hoạt động, ít phận sự, ít ràng buộc, và ít công trình nhỏ bé, mà khi thành công, lại có quả lớn."
 
-6\.  "Này thanh niên, [198] công việc nào bao gồm nhiều hoạt động... mà khi thất bại, lại có quả nhỏ? Nghề nông là công việc bao gồm nhiều hoạt động... mà khi thất bại, lại có quả nhỏ. Và này thanh niên, công việc nào bao gồm nhiều hoạt động... mà khi thành công, lại có quả lớn? Nghề nông lại là công việc bao gồm nhiều hoạt động... mà khi thành công, lại có quả lớn. Và này thanh niên, công việc nào bao gồm ít hoạt động... mà khi thất bại, lại có quả nhỏ? Nghề buôn là công việc bao gồm ít hoạt động... mà khi thất bại, lại có quả nhỏ. [^910] Và này thanh niên, công việc nào bao gồm ít hoạt động... mà khi thành công, lại có quả lớn? Nghề buôn lại là công việc bao gồm ít hoạt động... mà khi thành công, lại có quả lớn." {#6}
+6\.  "Này thanh niên, [198] công việc nào bao gồm nhiều hoạt động... mà khi thất bại, lại có quả nhỏ? Nghề nông là công việc bao gồm nhiều hoạt động... mà khi thất bại, lại có quả nhỏ. Và này thanh niên, công việc nào bao gồm nhiều hoạt động... mà khi thành công, lại có quả lớn? Nghề nông lại là công việc bao gồm nhiều hoạt động... mà khi thành công, lại có quả lớn. Và này thanh niên, công việc nào bao gồm ít hoạt động... mà khi thất bại, lại có quả nhỏ? Nghề buôn là công việc bao gồm ít hoạt động... mà khi thất bại, lại có quả nhỏ. [910](/kinhtrungbo/nanamoli-bodhi-vi/notes/099#910){.note} Và này thanh niên, công việc nào bao gồm ít hoạt động... mà khi thành công, lại có quả lớn? Nghề buôn lại là công việc bao gồm ít hoạt động... mà khi thành công, lại có quả lớn." {#6}
 
 7\.  "Cũng như nghề nông, này thanh niên, là công việc bao gồm nhiều hoạt động... nhưng có quả nhỏ khi thất bại, thì công việc của đời sống gia đình cũng bao gồm nhiều hoạt động, nhiều phận sự, nhiều ràng buộc, và nhiều công trình lớn lao, nhưng có quả nhỏ khi thất bại. Cũng như nghề nông là công việc bao gồm nhiều hoạt động... và có quả lớn khi thành công, thì công việc của đời sống gia đình cũng bao gồm nhiều hoạt động, nhiều phận sự, nhiều ràng buộc, và nhiều công trình lớn lao, và có quả lớn khi thành công. Cũng như nghề buôn là công việc bao gồm ít hoạt động... và có quả nhỏ khi thất bại, thì công việc của người xuất gia cũng bao gồm ít hoạt động, ít phận sự, ít ràng buộc, và ít công trình nhỏ bé, và có quả nhỏ khi thất bại. Cũng như nghề buôn là công việc bao gồm ít hoạt động... nhưng có quả lớn khi thành công, thì [199] công việc của người xuất gia cũng bao gồm ít hoạt động, ít phận sự, ít ràng buộc, và ít công trình nhỏ bé, nhưng có quả lớn khi thành công." {#7}
 
@@ -31,7 +31,7 @@
 
 9\.  "Thưa Tôn giả Gotama, sự thật (truth - sacca - nói lời chân thật, không dối trá) là điều thứ nhất mà các vị Bà-la-môn quy định để tạo công đức, để thực hiện điều thiện lành. Khổ hạnh (asceticism - tapo - sự tu tập ép xác, tự hành hạ thân thể) là điều thứ hai... Phạm hạnh (celibacy - brahmacariya - đời sống trong sạch, đặc biệt là không dâm dục) là điều thứ ba... Học tập (study - ajjhena - nghiên cứu kinh điển, học hỏi giáo lý) là điều thứ tư... Bố thí (generosity - cāga - sự cho đi, cúng dường) là điều thứ năm mà các vị Bà-la-môn quy định để tạo công đức, để thực hiện điều thiện lành. Đây là năm điều mà các vị Bà-la-môn quy định để tạo công đức, để thực hiện điều thiện lành. Tôn giả Gotama nói gì về điều này?" {#9}
 
-"Vậy thì, này thanh niên, [^911] trong số các vị Bà-la-môn, có dù chỉ một vị Bà-la-môn nào nói rằng: 'Tôi tuyên bố kết quả của năm điều này sau khi tự mình chứng ngộ bằng thắng trí (direct knowledge - abhiññā - sự hiểu biết trực tiếp, siêu việt, không qua suy luận)' không?" - "Không, thưa Tôn giả Gotama."
+"Vậy thì, này thanh niên, [911](/kinhtrungbo/nanamoli-bodhi-vi/notes/099#911){.note} trong số các vị Bà-la-môn, có dù chỉ một vị Bà-la-môn nào nói rằng: 'Tôi tuyên bố kết quả của năm điều này sau khi tự mình chứng ngộ bằng thắng trí (direct knowledge - abhiññā - sự hiểu biết trực tiếp, siêu việt, không qua suy luận)' không?" - "Không, thưa Tôn giả Gotama."
 
 "Vậy thì, này thanh niên, trong số các vị Bà-la-môn, có dù chỉ một vị thầy hay thầy của thầy cho đến bảy đời thầy nào nói rằng: 'Tôi tuyên bố kết quả của năm điều này sau khi tự mình chứng ngộ bằng thắng trí' không?" - "Không, thưa Tôn giả Gotama." [200]
 
@@ -39,7 +39,7 @@
 
 "Như vậy, này thanh niên, dường như trong số các vị Bà-la-môn không có dù chỉ một vị Bà-la-môn nào nói rằng: 'Tôi tuyên bố kết quả của năm điều này sau khi tự mình chứng ngộ bằng thắng trí.' Và trong số các vị Bà-la-môn không có dù chỉ một vị thầy hay thầy của thầy cho đến bảy đời thầy nào nói rằng: 'Tôi tuyên bố kết quả của năm điều này sau khi tự mình chứng ngộ bằng thắng trí.' Và những nhà hiền triết Bà-la-môn thời xưa, những người sáng tác thánh ca, những người soạn thánh ca... ngay cả những nhà hiền triết Bà-la-môn cổ xưa này cũng không nói rằng: 'Chúng tôi tuyên bố kết quả của năm điều này sau khi tự mình chứng ngộ bằng thắng trí.' Giả sử có một hàng người mù, mỗi người chạm vào người kế tiếp: người đầu tiên không thấy, người ở giữa không thấy, và người cuối cùng cũng không thấy. Cũng vậy, này thanh niên, về lời tuyên bố của họ, các vị Bà-la-môn dường như giống như một hàng người mù: người đầu tiên không thấy, người ở giữa không thấy, và người cuối cùng cũng không thấy."
 
-10\. Khi nghe điều này, chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, tức giận và không hài lòng với ví dụ về hàng người mù, và chàng đã mắng nhiếc, chê bai, và chỉ trích Đức Thế Tôn, nói rằng: "Sa môn Gotama sẽ thua cuộc." Rồi chàng nói với Đức Thế Tôn: "Thưa Tôn giả Gotama, Bà-la-môn Pokkharasāti thuộc dòng họ Upamañña, chủ nhân của khu rừng Subhaga, nói rằng: [^912] 'Một số sa môn và Bà-la-môn ở đây tự nhận có những trạng thái siêu phàm, những điểm đặc biệt trong tri kiến xứng đáng bậc thánh (superhuman states, distinctions in knowledge and vision worthy of the noble ones - những thành tựu tâm linh vượt trội hơn người thường, sự thấy biết đặc biệt của các bậc giác ngộ). Nhưng những gì họ nói [201] hóa ra lại lố bịch; hóa ra chỉ là lời nói suông, trống rỗng và vô nghĩa. Vì làm sao một con người có thể biết, thấy hay chứng ngộ một trạng thái siêu phàm, một điểm đặc biệt trong tri kiến xứng đáng bậc thánh? Điều đó là không thể.'" {#10}
+10\. Khi nghe điều này, chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, tức giận và không hài lòng với ví dụ về hàng người mù, và chàng đã mắng nhiếc, chê bai, và chỉ trích Đức Thế Tôn, nói rằng: "Sa môn Gotama sẽ thua cuộc." Rồi chàng nói với Đức Thế Tôn: "Thưa Tôn giả Gotama, Bà-la-môn Pokkharasāti thuộc dòng họ Upamañña, chủ nhân của khu rừng Subhaga, nói rằng: [912](/kinhtrungbo/nanamoli-bodhi-vi/notes/099#912){.note} 'Một số sa môn và Bà-la-môn ở đây tự nhận có những trạng thái siêu phàm, những điểm đặc biệt trong tri kiến xứng đáng bậc thánh (superhuman states, distinctions in knowledge and vision worthy of the noble ones - những thành tựu tâm linh vượt trội hơn người thường, sự thấy biết đặc biệt của các bậc giác ngộ). Nhưng những gì họ nói [201] hóa ra lại lố bịch; hóa ra chỉ là lời nói suông, trống rỗng và vô nghĩa. Vì làm sao một con người có thể biết, thấy hay chứng ngộ một trạng thái siêu phàm, một điểm đặc biệt trong tri kiến xứng đáng bậc thánh? Điều đó là không thể.'" {#10}
 
 11\. "Vậy thì, này thanh niên, Bà-la-môn Pokkharasāti có hiểu được tâm của tất cả các sa môn và Bà-la-môn, bằng cách dùng tâm mình bao trùm tâm họ không?" {#11}
 
@@ -73,7 +73,7 @@
 
 "Thưa Tôn giả Gotama, các vị Bà-la-môn không bố thí theo cách như vậy, nghĩ rằng: 'Hãy để những người khác trở nên tức giận và không hài lòng vì điều này.' Thay vào đó, các vị Bà-la-môn bố thí vì lòng bi mẫn (compassion - anukampā/karuṇā - lòng thương xót đối với chúng sinh đau khổ)."
 
-"Nếu vậy, này thanh niên, chẳng phải đây là nền tảng thứ sáu của các vị Bà-la-môn để tạo công đức, đó là, động cơ của lòng bi mẫn sao?"[^913]
+"Nếu vậy, này thanh niên, chẳng phải đây là nền tảng thứ sáu của các vị Bà-la-môn để tạo công đức, đó là, động cơ của lòng bi mẫn sao?"[913](/kinhtrungbo/nanamoli-bodhi-vi/notes/099#913){.note}
 
 "Nếu vậy, thưa Tôn giả Gotama, đây là nền tảng thứ sáu của các vị Bà-la-môn để tạo công đức, đó là, động cơ của lòng bi mẫn."
 
@@ -93,7 +93,7 @@
 
 "Không, thưa Tôn giả Gotama. Tại sao vậy? Bởi vì người đó đã sinh ra và lớn lên ở Nalakāra, và rất quen thuộc với tất cả các con đường đến làng."
 
-"Tuy nhiên, một người sinh ra và lớn lên ở làng Nalakāra [207] có thể chậm chạp hoặc do dự khi được hỏi về con đường đến làng, nhưng một vị Như Lai (Tathāgata - danh hiệu của Đức Phật, nghĩa là 'người đã đến như vậy' hoặc 'người đã đi như vậy'), khi được hỏi về cõi Phạm thiên (Brahma-world - brahmaloka - thế giới của các vị trời Phạm thiên) hoặc con đường dẫn đến cõi Phạm thiên, sẽ không bao giờ chậm chạp hay do dự khi trả lời. Ta hiểu Phạm thiên (Brahmā - vị trời đứng đầu cõi Phạm thiên), này thanh niên, và Ta hiểu cõi Phạm thiên, và Ta hiểu con đường dẫn đến cõi Phạm thiên, và Ta hiểu cách thực hành để tái sinh vào cõi Phạm thiên (reappear in the Brahma-world - sinh lại vào cõi Phạm thiên sau khi chết)."[^914]
+"Tuy nhiên, một người sinh ra và lớn lên ở làng Nalakāra [207] có thể chậm chạp hoặc do dự khi được hỏi về con đường đến làng, nhưng một vị Như Lai (Tathāgata - danh hiệu của Đức Phật, nghĩa là 'người đã đến như vậy' hoặc 'người đã đi như vậy'), khi được hỏi về cõi Phạm thiên (Brahma-world - brahmaloka - thế giới của các vị trời Phạm thiên) hoặc con đường dẫn đến cõi Phạm thiên, sẽ không bao giờ chậm chạp hay do dự khi trả lời. Ta hiểu Phạm thiên (Brahmā - vị trời đứng đầu cõi Phạm thiên), này thanh niên, và Ta hiểu cõi Phạm thiên, và Ta hiểu con đường dẫn đến cõi Phạm thiên, và Ta hiểu cách thực hành để tái sinh vào cõi Phạm thiên (reappear in the Brahma-world - sinh lại vào cõi Phạm thiên sau khi chết)."[914](/kinhtrungbo/nanamoli-bodhi-vi/notes/099#914){.note}
 
 23\. "Thưa Tôn giả Gotama, tôi nghe nói sa môn Gotama dạy con đường đến cõi Phạm thiên. Thật tốt nếu Tôn giả Gotama dạy cho tôi con đường đến cõi Phạm thiên." {#23}
 
@@ -101,7 +101,7 @@
 
 "Vâng, thưa Ngài," chàng đáp. Đức Thế Tôn nói điều này:
 
-24\. "Này thanh niên, con đường đến cõi Phạm thiên là gì? Ở đây, một vị tỳ kheo an trú, biến mãn một phương với tâm thấm nhuần tâm từ (loving-kindness - mettā - lòng yêu thương không phân biệt, mong cho tất cả chúng sinh được an vui), cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như thế nào, trên, dưới, ngang, khắp nơi, và với tất cả như với chính mình, vị ấy an trú biến mãn toàn thế giới với tâm thấm nhuần tâm từ, rộng lớn, cao thượng, vô lượng, không sân hận, không ác ý. Khi tâm giải thoát (deliverance of mind - cetovimutti - sự giải thoát của tâm khỏi các phiền não, ràng buộc) bằng tâm từ được phát triển như vậy, không còn nghiệp hữu hạn (limiting action - pamāṇakataṃ kammaṃ - hành động có giới hạn, thường chỉ nghiệp trong cõi Dục hoặc nghiệp chưa đạt đến mức độ vô lượng của thiền) nào tồn tại ở đó, không còn nghiệp nào kéo dài ở đó. Cũng như một người thổi tù và mạnh mẽ có thể làm cho mình được nghe thấy không khó khăn ở bốn phương, cũng vậy, khi tâm giải thoát bằng tâm từ được phát triển như vậy, không còn nghiệp hữu hạn nào tồn tại ở đó, không còn nghiệp nào kéo dài ở đó. [^915] Đây là con đường đến cõi Phạm thiên." {#24}
+24\. "Này thanh niên, con đường đến cõi Phạm thiên là gì? Ở đây, một vị tỳ kheo an trú, biến mãn một phương với tâm thấm nhuần tâm từ (loving-kindness - mettā - lòng yêu thương không phân biệt, mong cho tất cả chúng sinh được an vui), cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như thế nào, trên, dưới, ngang, khắp nơi, và với tất cả như với chính mình, vị ấy an trú biến mãn toàn thế giới với tâm thấm nhuần tâm từ, rộng lớn, cao thượng, vô lượng, không sân hận, không ác ý. Khi tâm giải thoát (deliverance of mind - cetovimutti - sự giải thoát của tâm khỏi các phiền não, ràng buộc) bằng tâm từ được phát triển như vậy, không còn nghiệp hữu hạn (limiting action - pamāṇakataṃ kammaṃ - hành động có giới hạn, thường chỉ nghiệp trong cõi Dục hoặc nghiệp chưa đạt đến mức độ vô lượng của thiền) nào tồn tại ở đó, không còn nghiệp nào kéo dài ở đó. Cũng như một người thổi tù và mạnh mẽ có thể làm cho mình được nghe thấy không khó khăn ở bốn phương, cũng vậy, khi tâm giải thoát bằng tâm từ được phát triển như vậy, không còn nghiệp hữu hạn nào tồn tại ở đó, không còn nghiệp nào kéo dài ở đó. [915](/kinhtrungbo/nanamoli-bodhi-vi/notes/099#915){.note} Đây là con đường đến cõi Phạm thiên." {#24}
 
 25-27. "Lại nữa, một vị tỳ kheo an trú, biến mãn một phương với tâm thấm nhuần tâm bi (compassion - karuṇā - lòng thương xót, mong cho chúng sinh thoát khổ)... với tâm thấm nhuần tâm hỷ (appreciative joy - muditā - niềm vui khi thấy người khác hạnh phúc, thành công)... với tâm thấm nhuần tâm xả (equanimity - upekkhā - sự bình thản, không thiên vị, không bám víu hay ghét bỏ), cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như thế nào, trên, dưới, ngang, khắp nơi, và với tất cả như với chính mình, vị ấy an trú biến mãn toàn thế giới với tâm thấm nhuần tâm xả, rộng lớn, cao thượng, [208] vô lượng, không sân hận, không ác ý. Khi tâm giải thoát bằng tâm xả được phát triển như vậy, không còn nghiệp hữu hạn nào tồn tại ở đó, không còn nghiệp nào kéo dài ở đó. Cũng như một người thổi tù và mạnh mẽ có thể làm cho mình được nghe thấy không khó khăn ở bốn phương, cũng vậy, khi tâm giải thoát bằng tâm xả được phát triển như vậy, không còn nghiệp hữu hạn nào tồn tại ở đó, không còn nghiệp nào kéo dài ở đó. Đây cũng là con đường đến cõi Phạm thiên."
 
@@ -113,7 +113,7 @@
 
 Rồi chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, sau khi hoan hỷ và vui mừng với lời dạy của Đức Thế Tôn, từ chỗ ngồi đứng dậy, và sau khi đảnh lễ Đức Thế Tôn, giữ Ngài ở bên phải mình, chàng ra đi.
 
-30\. Vào lúc ấy, Bà-la-môn Jāṇussoṇi đang lái xe ra khỏi thành Xá-vệ vào giữa trưa trên một cỗ xe toàn màu trắng do những con ngựa cái trắng kéo. [^916] Ông thấy chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, đang đi tới từ xa và hỏi: "Này Tôn giả Bhāradvāja, giữa trưa thế này ngài từ đâu đến?" {#30}
+30\. Vào lúc ấy, Bà-la-môn Jāṇussoṇi đang lái xe ra khỏi thành Xá-vệ vào giữa trưa trên một cỗ xe toàn màu trắng do những con ngựa cái trắng kéo. [916](/kinhtrungbo/nanamoli-bodhi-vi/notes/099#916){.note} Ông thấy chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, đang đi tới từ xa và hỏi: "Này Tôn giả Bhāradvāja, giữa trưa thế này ngài từ đâu đến?" {#30}
 
 "Thưa ngài, tôi vừa từ chỗ sa môn Gotama đến."
 
@@ -127,65 +127,3 @@ Rồi chàng thanh niên Bà-la-môn Subha, con trai ông Todeyya, sau khi hoan 
 
 31\. Khi nghe điều này, Bà-la-môn Jāṇussoṇi xuống khỏi cỗ xe toàn màu trắng do những con ngựa cái trắng kéo, và sau khi sửa lại áo choàng trên một vai, ông chắp tay vái về phía Đức Thế Tôn và thốt lên lời cảm thán này: "Thật là một lợi ích cho vua Pasenadi xứ Kosala, thật là một lợi ích lớn lao cho vua Pasenadi xứ Kosala khi Như Lai, bậc A-la-hán (accomplished - arahaṃ - người đã hoàn thiện, đạt giải thoát), bậc Chánh Đẳng Giác (fully enlightened - sammāsambuddha - người tự mình giác ngộ hoàn toàn) đang sống trong vương quốc của vua!" {#31}
 
-<!--pg-->
-Từ ngữ:
-- Đức Thế Tôn / Bhagavā / Blessed One: Bậc được tôn kính, Giác ngộ viên mãn, một trong mười danh hiệu của Đức Phật.
-- Gia chủ / Gahapati / Householder: Người chủ gia đình, người tại gia, thường là người có tài sản và uy tín trong xã hội.
-- A-la-hán / Arahant / Arahant: Bậc thánh đã đoạn trừ hoàn toàn phiền não, chấm dứt tái sinh, đạt Niết-bàn.
-- Sa môn / Samaṇa / Recluse: Người xuất gia tu hành theo truyền thống Ấn Độ cổ, không nhất thiết là Phật giáo, thường sống đời không gia đình, khất thực.
-- Bà-la-môn / Brāhmaṇa / Brahmin: Thành viên của giai cấp tu sĩ, học giả trong xã hội Ấn Độ cổ, thực hành các nghi lễ Vệ-đà.
-- Pháp lành mạnh / Dhamma that is wholesome / Wholesome Dhamma: Giáo pháp đúng đắn, thiện lành, dẫn đến lợi ích và giải thoát.
-- Người xuất gia / Pabbajita / One gone forth: Người từ bỏ đời sống gia đình, thế tục để sống đời sống không nhà, tu tập tâm linh.
-- Phân tích / Vibhajjavāda / Analysis: Phương pháp giảng dạy của Đức Phật, trình bày vấn đề một cách chi tiết, có phân tích, không khẳng định một chiều.
-- Quả / Phala / Fruit: Kết quả, hệ quả của hành động (nghiệp), có thể là tốt (thiện) hoặc xấu (ác).
-- Công đức / Puñña / Merit: Phước báu, việc làm tốt lành tạo ra kết quả tốt đẹp trong hiện tại và tương lai.
-- Thiện lành / Kusala / Wholesome: Tốt đẹp, không gây hại, mang lại lợi ích, đối lập với bất thiện (akusala).
-- Sự thật / Sacca / Truth: Chân lý, sự thật, đặc biệt là nói lời chân thật, một trong năm giới hoặc một trong các pháp Ba-la-mật.
-- Khổ hạnh / Tapo / Asceticism: Sự tu tập ép xác, hành hạ thân thể với mục đích thanh lọc tâm hoặc đạt sức mạnh tâm linh (theo quan niệm Bà-la-môn). Phật giáo không chủ trương khổ hạnh ép xác cực đoan.
-- Phạm hạnh / Brahmacariya / Celibacy: Đời sống trong sạch, thanh cao, đặc biệt là không có quan hệ tình dục. Trong nghĩa rộng hơn là toàn bộ đời sống tu tập theo Tám Bước Thiện (Bát Chánh Đạo).
-- Học tập / Ajjhena / Study: Việc học hỏi, nghiên cứu kinh điển, giáo lý.
-- Bố thí / Cāga / Generosity: Sự cho đi, cúng dường vật chất hoặc tinh thần (Pháp thí).
-- Thắng trí / Abhiññā / Direct knowledge: Sự hiểu biết trực tiếp, siêu việt, không qua suy luận hay trung gian, thường bao gồm các loại thần thông và lậu tận trí.
-- Nhà hiền triết / Isi / Seers: Những vị đạo sĩ, ẩn sĩ cổ xưa ở Ấn Độ, được cho là có trí tuệ và thấy biết đặc biệt, thường là tác giả các kinh Vệ-đà.
-- Trạng thái siêu phàm, tri kiến xứng đáng bậc thánh / Uttarimanussadhammā, alamariyañāṇadassanavisesa / Superhuman states, distinctions in knowledge and vision worthy of the noble ones: Những thành tựu tâm linh vượt trội hơn người thường, sự thấy biết đặc biệt của các bậc thánh (Ariya).
-- Bậc thánh / Ariya / Noble ones: Những người đã đạt được một trong bốn Thánh đạo, Thánh quả (Nhập lưu, Nhất lai, Bất lai, A-la-hán).
-- Năm triền cái / Pañca nīvaraṇāni / Five hindrances: Năm chướng ngại tâm lý ngăn cản sự phát triển thiền định và trí tuệ: tham dục, sân hận, hôn trầm-thụy miên, trạo cử-hối quá, nghi ngờ.
-- Tham dục / Kāmacchanda / Sensual desire: Ham muốn, khao khát đối với năm đối tượng giác quan (sắc, thanh, hương, vị, xúc).
-- Sân hận / Byāpāda / Ill will: Ác ý, thù ghét, mong muốn làm hại người khác.
-- Hôn trầm thụy miên / Thīna-middha / Sloth and torpor: Sự lười biếng, uể oải, buồn ngủ của tâm (hôn trầm) và thân (thụy miên).
-- Trạo cử hối quá / Uddhacca-kukkucca / Restlessness and remorse: Sự bồn chồn, dao động của tâm (trạo cử) và sự hối tiếc, ăn năn về việc đã làm hoặc chưa làm (hối quá).
-- Nghi ngờ / Vicikicchā / Doubt: Sự hoài nghi, do dự, thiếu niềm tin vào Tam Bảo (Phật, Pháp, Tăng) và con đường tu tập.
-- Năm sợi dây dục lạc / Pañca kāmaguṇā / Five cords of sensual pleasure: Năm đối tượng của giác quan (hình sắc, âm thanh, mùi hương, vị nếm, xúc chạm) được ví như những sợi dây trói buộc chúng sinh vào vòng luân hồi.
-- Thấy sự nguy hiểm / Ādīnava dassana / Seeing the danger: Nhận ra tác hại, sự khổ đau tiềm ẩn trong các pháp hữu vi, đặc biệt là dục lạc.
-- Hiểu lối thoát / Nissaraṇa paññā / Understanding the escape: Trí tuệ nhận biết con đường thoát ra khỏi khổ đau, phiền não.
-- Thần thông / Iddhi / Supernormal power: Năng lực phi thường đạt được qua tu tập thiền định, như thiên nhãn, thiên nhĩ, tha tâm thông, túc mạng thông, thần túc thông.
-- Hỷ / Pīti / Rapture: Niềm vui thích, phấn khởi, một trạng thái tâm tích cực phát sinh trong quá trình tu tập thiền định (một trong các thiền chi).
-- Bất thiện pháp / Akusala dhamma / Unwholesome states: Các trạng thái tâm tiêu cực, có hại, gây ra khổ đau, như tham, sân, si.
-- Tỳ kheo / Bhikkhu / Bhikkhu: Nhà sư Phật giáo nam đã thọ giới cụ túc (giới cao nhất trong Phật giáo).
-- Sơ thiền / Paṭhama jhāna / First jhāna: Tầng thiền định thứ nhất, đặc trưng bởi sự có mặt của năm thiền chi: tầm, tứ, hỷ, lạc, nhất tâm.
-- Tầm và Tứ / Vitakka-vicāra / Applied and sustained thought: Tầm là sự hướng tâm đến đối tượng thiền, Tứ là sự duy trì tâm trên đối tượng đó.
-- Ly dục, ly bất thiện pháp / Vivicceva kāmehi vivicca akusalehi dhammehi / Seclusion from sensual pleasures, seclusion from unwholesome states: Sự xa lìa, tách khỏi ham muốn dục lạc và các trạng thái tâm bất thiện, điều kiện cần để nhập thiền.
-- Nhị thiền / Dutiya jhāna / Second jhāna: Tầng thiền định thứ hai, đặc trưng bởi sự vắng mặt của tầm và tứ, chỉ còn ba thiền chi: hỷ, lạc, nhất tâm, có nội tĩnh.
-- Nội tĩnh nhất tâm / Ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ / Self-confidence and singleness of mind: Sự yên lặng, lắng dịu, tin tưởng bên trong và sự hợp nhất của tâm trên một đối tượng.
-- Định / Samādhi / Concentration: Sự tập trung tâm ý cao độ vào một đối tượng duy nhất, một yếu tố quan trọng trong thiền định và Tám Bước Thiện (Bát Chánh Đạo).
-- Lòng bi mẫn / Karuṇā (hoặc Anukampā) / Compassion: Lòng thương xót đối với chúng sinh đang đau khổ, mong muốn cho họ thoát khổ. Một trong Tứ Vô Lượng Tâm.
-- Hành trang cho tâm / Cittassa parikkhārā / Equipment of the mind: Những yếu tố, phẩm chất cần thiết để hỗ trợ, chuẩn bị cho sự phát triển và thanh lọc tâm.
-- Không sân hận / Abyāpajjha / Without hostility: Trạng thái tâm không có ác ý, thù ghét.
-- Không ác ý / Avera / Without ill will: Trạng thái tâm không có sự thù địch, oán ghét.
-- Pháp / Dhamma / Dhamma: Giáo pháp của Đức Phật; chân lý; hiện tượng; quy luật tự nhiên.
-- Con đường đến cõi Phạm thiên / Brahmalokūpaga magga / Path to the company of Brahmā: Con đường tu tập (chủ yếu là Tứ Vô Lượng Tâm) dẫn đến tái sinh vào cõi trời Phạm thiên.
-- Như Lai / Tathāgata / Tathāgata: Danh hiệu của Đức Phật, có nhiều nghĩa như "Người đã đến như vậy", "Người đã đi như vậy", "Người nói lời chân thật".
-- Cõi Phạm thiên / Brahmaloka / Brahma-world: Thế giới của các vị trời Phạm thiên, cảnh giới cao hơn cõi trời Dục giới, đạt được do tu tập thiền định.
-- Phạm thiên / Brahmā / Brahmā: Vị trời đứng đầu cõi Phạm thiên, hoặc chỉ chung các vị trời ở cõi này.
-- Tái sinh vào cõi Phạm thiên / Brahmaloke upapajjati / Reappear in the Brahma-world: Sinh lại vào cõi Phạm thiên sau khi chết do kết quả của việc tu tập thiền định và các thiện pháp tương ứng.
-- Tâm từ / Mettā / Loving-kindness: Lòng yêu thương không phân biệt, mong muốn cho tất cả chúng sinh được an lạc, hạnh phúc. Một trong Tứ Vô Lượng Tâm.
-- Tâm giải thoát / Cetovimutti / Deliverance of mind: Sự giải thoát của tâm khỏi các phiền não, trói buộc. Có thể là giải thoát tạm thời trong thiền định hoặc giải thoát cuối cùng (Niết-bàn).
-- Nghiệp hữu hạn / Pamāṇakataṃ kammaṃ / Limiting action: Hành động (nghiệp) có giới hạn, thuộc cõi Dục hoặc chưa đạt đến mức độ vô lượng của thiền Tứ Vô Lượng Tâm, không đủ sức đưa đến tái sinh Phạm thiên cao cấp hoặc giải thoát.
-- Tâm bi / Karuṇā / Compassion: Lòng thương xót, mong muốn chúng sinh thoát khổ. Một trong Tứ Vô Lượng Tâm.
-- Tâm hỷ / Muditā / Appreciative joy: Niềm vui hoan hỷ khi thấy người khác hạnh phúc, thành công, không ganh tị. Một trong Tứ Vô Lượng Tâm.
-- Tâm xả / Upekkhā / Equanimity: Sự bình thản, không thiên vị, không bám víu hay ghét bỏ, giữ tâm quân bình trước mọi hoàn cảnh. Một trong Tứ Vô Lượng Tâm.
-- Quy y / Saraṇa gamana / Going for refuge: Hành động tìm nơi nương tựa an toàn nơi Tam Bảo (Phật, Pháp, Tăng).
-- Tăng đoàn / Saṅgha / Sangha: Cộng đồng những người xuất gia theo giáo pháp của Đức Phật (nghĩa hẹp); cộng đồng những người tu tập theo Phật (nghĩa rộng, bao gồm cả tại gia và xuất gia, hoặc chỉ các bậc Thánh).
-- Cư sĩ / Upāsaka (nam), Upāsikā (nữ) / Lay follower: Người tại gia theo đạo Phật, đã quy y Tam Bảo và giữ gìn năm giới.
-- Sự sáng suốt của trí tuệ / Paññāveyyattiya / Lucidity of wisdom: Sự thông tuệ, minh mẫn, sắc bén của trí tuệ.
-- Bậc Chánh Đẳng Giác / Sammāsambuddha / Fully enlightened: Bậc giác ngộ hoàn toàn, tự mình tìm ra chân lý và thuyết giảng cho chúng sinh, chỉ Đức Phật.
