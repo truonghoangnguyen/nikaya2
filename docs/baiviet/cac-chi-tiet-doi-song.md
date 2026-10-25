@@ -115,3 +115,16 @@ MN 79.44:
 
 ### MN 96
 >10. các Bà-la-môn tuyên bố tài sản riêng của Bà-la-môn là việc đi khất thực 
+
+### MN 99
+Có thể thấy đời sống nông nghiệp thời đó, và nghề thương mại, buôn bán chưa phát triển ta có thể dự đoán năng lực sản xuất
+> Này thanh niên, công việc nào có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [nhưng vì] thất bại [nên] mang lại quả nhỏ? Này thanh niên, buôn bán là công việc có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [nhưng vì] thất bại [nên] mang lại quả nhỏ. {#6}
+
+Tâm giải thoát: MN 99
+>25-27\. Lại nữa, này thanh niên, tỳ kheo an trú với tâm đi với *sự che chở* (bi / karuṇā) [...lặp lại...]
+
+...tâm đi với *sự cùng vui* (hỷ / muditā) [...lặp lại...]
+
+...tâm đi với *sự bình thản* (xả / upekkhā) lan tỏa khắp một phương, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như vậy, vị ấy an trú với tâm đi với *sự bình thản* lan tỏa khắp thế giới, trên, dưới, bề ngang, ở mọi nơi, đến mọi loài, với tâm rộng lớn, vĩ đại, không giới hạn, không hận thù, không ác ý. Này thanh niên, khi *giải thoát qua tâm* bằng *sự bình thản* được luyện tập như vậy, bất kỳ hành động có giới hạn nào cũng không thể đọng lại ở đó, không thể tồn tại ở đó. Này thanh niên, giống như một người thổi ốc tù và mạnh mẽ có thể dễ dàng báo hiệu cho cả bốn phương; cũng vậy, này thanh niên [...lặp lại...] khi *giải thoát qua tâm* bằng *sự bình thản* được luyện tập như vậy, bất kỳ hành động có giới hạn nào cũng không thể đọng lại ở đó, không thể tồn tại ở đó. Này thanh niên, đây cũng là con đường dẫn đến sự đồng hành cùng Phạm thiên."
+
+Xem thêm trong mn-sum-099.md

@@ -129,3 +129,6 @@ Bắt đầu viết 'khung sườn'
 
 ### date 2026-10-14
 Dùng gemini argon 4
+
+### date 2026-10-24
+MN 100 Có lẽ mình đã tìm ra cách liên hệ trạng thái vào thiền 1 đó chính là khúc gỗ khô + không ở dưới nước = ly dục + ly ác pháp

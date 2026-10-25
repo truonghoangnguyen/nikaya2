@@ -1,179 +1,204 @@
-# MN 99. Subhasutta
+---
+description: Cuộc đối thoại giữa Đức Phật và thanh niên Subha về sự khác biệt giữa đời sống tại gia và xuất gia, giá trị thực sự của năm pháp tu tập của Bà-la-môn, và con đường thực sự dẫn đến cõi Phạm thiên thông qua bốn tâm vô lượng.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. {#1}
+# MN 99. KINH SUBHA
+*(Subhasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-099){."note-link"}
 
-2\. Tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṁ paṭivasati aññatarassa gahapatissa nivesane kenacideva karaṇīyena. Atha kho subho māṇavo todeyyaputto yassa gahapatissa nivesane paṭivasati taṁ gahapatiṁ etadavoca: “sutaṁ metaṁ, gahapati: ‘avivittā sāvatthī arahantehī’ti. Kaṁ nu khvajja samaṇaṁ vā brāhmaṇaṁ vā payirupāseyyāmā”ti? {#2}
+1\. Tôi đã nghe như vầy—một thời Đức Phật trú tại Sāvatthī, trong khu rừng Jeta, tại tu viện của Anāthapiṇḍika. {#1}
 
-“Ayaṁ, bhante, bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Taṁ, bhante, bhagavantaṁ payirupāsassū”ti.
+2\. Lúc bấy giờ, thanh niên Subha, con trai của Todeyya, đang ở tại nhà của một gia chủ nọ ở Sāvatthī vì một vài công việc. Rồi thanh niên Subha, con trai của Todeyya, nói với gia chủ nơi mình đang ở: "Này gia chủ, tôi nghe nói: 'Sāvatthī không vắng bóng các bậc A-la-hán'. Hôm nay chúng ta nên đến hầu hạ vị sa-môn hay bà-la-môn nào?" {#2}
 
-3\. Atha kho subho māṇavo todeyyaputto tassa gahapatissa paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho subho māṇavo todeyyaputto bhagavantaṁ etadavoca: {#3}
+"Thưa ngài, Đức Phật đang trú tại Sāvatthī, trong khu rừng Jeta, tại tu viện của Anāthapiṇḍika. Xin ngài hãy đến hầu hạ Đức Phật ấy."
 
-4\. “brāhmaṇā, bho gotama, evamāhaṁsu: ‘gahaṭṭho ārādhako hoti ñāyaṁ dhammaṁ kusalaṁ, na pabbajito ārādhako hoti ñāyaṁ dhammaṁ kusalan’ti. Idha bhavaṁ gotamo kimāhā”ti? {#4}
+3\. Rồi thanh niên Subha, con trai của Todeyya, sau khi đáp lời gia chủ ấy, liền đi đến nơi Đức Phật; sau khi đến, liền chào hỏi Đức Phật. Sau khi trao đổi những lời chào hỏi thân hữu, vị ấy ngồi xuống một bên. Ngồi xuống một bên, thanh niên Subha, con trai của Todeyya, nói với Đức Phật: {#3}
 
-“Vibhajjavādo kho ahamettha, māṇava; nāhamettha ekaṁsavādo. Gihissa vāhaṁ, māṇava, pabbajitassa vā micchāpaṭipattiṁ na vaṇṇemi. Gihī vā hi, māṇava, pabbajito vā micchāpaṭipanno micchāpaṭipattādhikaraṇahetu na ārādhako hoti ñāyaṁ dhammaṁ kusalaṁ. Gihissa vāhaṁ, māṇava, pabbajitassa vā sammāpaṭipattiṁ vaṇṇemi. Gihī vā hi, māṇava, pabbajito vā sammāpaṭipanno sammāpaṭipattādhikaraṇahetu ārādhako hoti ñāyaṁ dhammaṁ kusalan”ti.
+4\. "Thưa Tôn giả Gotama, các bà-la-môn nói như vầy: 'Người tại gia là người thành tựu *điều* (pháp / dhamma) thiện đúng đắn, *người từ bỏ* (xuất gia / pabbajito) không phải là người thành tựu *điều* thiện đúng đắn'. Ở đây Tôn giả Gotama nói gì?" {#4}
 
-5\. “Brāhmaṇā, bho gotama, evamāhaṁsu: ‘mahaṭṭhamidaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ gharāvāsakammaṭṭhānaṁ mahapphalaṁ hoti; appaṭṭhamidaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ pabbajjā kammaṭṭhānaṁ appaphalaṁ hotī’ti. Idha bhavaṁ gotamo kimāhā”ti. {#5}
+"Này thanh niên, ở đây Ta là người nói theo phân tích, Ta không nói một chiều. Này thanh niên, Ta không tán thán sự thực hành sai trái của người tại gia hay *người từ bỏ*. Này thanh niên, dù là người tại gia hay *người từ bỏ*, nếu thực hành sai trái, do nguyên nhân thực hành sai trái, người ấy không thành tựu *điều* thiện đúng đắn. Này thanh niên, Ta tán thán sự thực hành đúng đắn của người tại gia hay *người từ bỏ*. Này thanh niên, dù là người tại gia hay *người từ bỏ*, nếu thực hành đúng đắn, do nguyên nhân thực hành đúng đắn, người ấy thành tựu *điều* thiện đúng đắn."
 
-“Etthāpi kho ahaṁ, māṇava, vibhajjavādo; nāhamettha ekaṁsavādo. Atthi, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ, vipajjamānaṁ appaphalaṁ hoti; atthi, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ, sampajjamānaṁ mahapphalaṁ hoti; atthi, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ, vipajjamānaṁ appaphalaṁ hoti; atthi, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti.
+5\. "Thưa Tôn giả Gotama, các bà-la-môn nói như vầy: 'Công việc của đời sống tại gia này có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, [nên] mang lại quả lớn; công việc của sự từ bỏ này có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [nên] mang lại quả nhỏ'. Ở đây Tôn giả Gotama nói gì?" {#5}
 
-6\. Katamañca, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti? Kasi kho, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti? Kasiyeva kho, māṇava, kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti? Vaṇijjā kho, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Katamañca, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti? Vaṇijjāyeva kho, māṇava, kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti. {#6}
+"Này thanh niên, ở đây Ta cũng là người nói theo phân tích, Ta không nói một chiều. Này thanh niên, có công việc có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, [nhưng vì] thất bại [nên] mang lại quả nhỏ; này thanh niên, có công việc có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, [và vì] thành công [nên] mang lại quả lớn; này thanh niên, có công việc có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [vì] thất bại [nên] mang lại quả nhỏ; này thanh niên, có công việc có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [nhưng vì] thành công [nên] mang lại quả lớn.
 
-7\. Seyyathāpi, māṇava, kasi kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti; evameva kho, māṇava, gharāvāsakammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Seyyathāpi, māṇava, kasiyeva kammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti; evameva kho, māṇava, gharāvāsakammaṭṭhānaṁ mahaṭṭhaṁ mahākiccaṁ mahādhikaraṇaṁ mahāsamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti. Seyyathāpi, māṇava, vaṇijjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti; evameva kho, māṇava, pabbajjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ vipajjamānaṁ appaphalaṁ hoti. Seyyathāpi, māṇava, vaṇijjāyeva kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hoti; evameva kho, māṇava, pabbajjā kammaṭṭhānaṁ appaṭṭhaṁ appakiccaṁ appādhikaraṇaṁ appasamārambhaṁ sampajjamānaṁ mahapphalaṁ hotī”ti. {#7}
+6\. Này thanh niên, công việc nào có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, [nhưng vì] thất bại [nên] mang lại quả nhỏ? Này thanh niên, nghề nông là công việc có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, [nhưng vì] thất bại [nên] mang lại quả nhỏ. 
 
-8\. “Brāhmaṇā, bho gotama, pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāyā”ti. {#8}
+Này thanh niên, công việc nào có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, [và vì] thành công [nên] mang lại quả lớn? Này thanh niên, chính nghề nông là công việc có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, [và vì] thành công [nên] mang lại quả lớn. 
 
-“Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāya—
+Này thanh niên, công việc nào có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [nhưng vì] thất bại [nên] mang lại quả nhỏ? Này thanh niên, buôn bán là công việc có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [nhưng vì] thất bại [nên] mang lại quả nhỏ. 
 
-sace te agaru—sādhu te pañca dhamme imasmiṁ parisati bhāsassū”ti.
+Này thanh niên, công việc nào có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [nhưng vì] thành công [nên] mang lại quả lớn? Này thanh niên, chính buôn bán là công việc có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, [và vì] thành công [nên] mang lại quả lớn. {#6}
 
-“Na kho me, bho gotama, garu yatthassu bhavanto vā nisinno bhavantarūpo vā”ti.
+7\. Này thanh niên, giống như nghề nông là công việc có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, thất bại mang lại quả nhỏ; cũng vậy, này thanh niên, công việc của đời sống tại gia có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, thất bại mang lại quả nhỏ. Này thanh niên, giống như chính nghề nông là công việc có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, thành công mang lại quả lớn; cũng vậy, này thanh niên, công việc của đời sống tại gia có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, thành công mang lại quả lớn. Này thanh niên, giống như buôn bán là công việc có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, thất bại mang lại quả nhỏ; cũng vậy, này thanh niên, công việc của sự từ bỏ có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, thất bại mang lại quả nhỏ. Này thanh niên, giống như chính buôn bán là công việc có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, thành công mang lại quả lớn; cũng vậy, này thanh niên, công việc của sự từ bỏ có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, thành công mang lại quả lớn." {#7}
 
-“Tena hi, māṇava, bhāsassū”ti.
+8\. "Thưa Tôn giả Gotama, các bà-la-môn quy định năm *điều* để làm việc phước, để thành tựu điều thiện." {#8}
 
-9\. “Saccaṁ kho, bho gotama, brāhmaṇā paṭhamaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Tapaṁ kho, bho gotama, brāhmaṇā dutiyaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Brahmacariyaṁ kho, bho gotama, brāhmaṇā tatiyaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Ajjhenaṁ kho, bho gotama, brāhmaṇā catutthaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Cāgaṁ kho, bho gotama, brāhmaṇā pañcamaṁ dhammaṁ paññapenti puññassa kiriyāya, kusalassa ārādhanāya. Brāhmaṇā, bho gotama, ime pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāyāti. Idha bhavaṁ gotamo kimāhā”ti? {#9}
+"Này thanh niên, năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện ấy—nếu không phiền cho ngươi—ngươi hãy nói năm *điều* ấy giữa hội chúng này."
 
-“Kiṁ pana, māṇava, atthi koci brāhmaṇānaṁ ekabrāhmaṇopi yo evamāha: ‘ahaṁ imesaṁ pañcannaṁ dhammānaṁ sayaṁ abhiññā sacchikatvā vipākaṁ pavedemī’”ti?
+"Thưa Tôn giả Gotama, không có gì phiền cho tôi khi Tôn giả hay những người giống như Tôn giả đang ngồi."
 
-“No hidaṁ, bho gotama”.
+"Vậy thì này thanh niên, hãy nói đi."
 
-“Kiṁ pana, māṇava, atthi koci brāhmaṇānaṁ ekācariyopi ekācariyapācariyopi yāva sattamā ācariyamahayugāpi yo evamāha: ‘ahaṁ imesaṁ pañcannaṁ dhammānaṁ sayaṁ abhiññā sacchikatvā vipākaṁ pavedemī’”ti?
+9\. "Thưa Tôn giả Gotama, các bà-la-môn quy định 
 
-“No hidaṁ, bho gotama”.
+*điều* thứ nhất là sự chân thật để làm việc phước, để thành tựu điều thiện. Thưa Tôn giả Gotama, các bà-la-môn quy định 
 
-“Kiṁ pana, māṇava, yepi te brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu, tepi evamāhaṁsu: ‘mayaṁ imesaṁ pañcannaṁ dhammānaṁ sayaṁ abhiññā sacchikatvā vipākaṁ pavedemā’”ti?
+*điều* thứ hai là khổ hạnh để làm việc phước, để thành tựu điều thiện. Thưa Tôn giả Gotama, các bà-la-môn quy định 
 
-“No hidaṁ, bho gotama”.
+*điều* thứ ba là đời sống thánh thiện để làm việc phước, để thành tựu điều thiện. Thưa Tôn giả Gotama, các bà-la-môn quy định 
 
-“Iti kira, māṇava, natthi koci brāhmaṇānaṁ ekabrāhmaṇopi yo evamāha: ‘ahaṁ imesaṁ pañcannaṁ dhammānaṁ sayaṁ abhiññā sacchikatvā vipākaṁ pavedemī’ti; natthi koci brāhmaṇānaṁ ekācariyopi ekācariyapācariyopi yāva sattamā ācariyamahayugāpi yo evamāha: ‘ahaṁ imesaṁ pañcannaṁ dhammānaṁ sayaṁ abhiññā sacchikatvā vipākaṁ pavedemī’ti; yepi te brāhmaṇānaṁ pubbakā isayo mantānaṁ kattāro mantānaṁ pavattāro, yesamidaṁ etarahi brāhmaṇā porāṇaṁ mantapadaṁ gītaṁ pavuttaṁ samihitaṁ, tadanugāyanti tadanubhāsanti bhāsitamanubhāsanti vācitamanuvācenti, seyyathidaṁ—aṭṭhako vāmako vāmadevo vessāmitto yamataggi aṅgīraso bhāradvājo vāseṭṭho kassapo bhagu. Tepi na evamāhaṁsu: ‘mayaṁ imesaṁ pañcannaṁ dhammānaṁ sayaṁ abhiññā sacchikatvā vipākaṁ pavedemā’ti.
+*điều* thứ tư là việc học tập để làm việc phước, để thành tựu điều thiện. Thưa Tôn giả Gotama, các bà-la-môn quy định 
 
-Seyyathāpi, māṇava, andhaveṇi paramparāsaṁsattā purimopi na passati majjhimopi na passati pacchimopi na passati; evameva kho, māṇava, andhaveṇūpamaṁ maññe brāhmaṇānaṁ bhāsitaṁ sampajjati—purimopi na passati majjhimopi na passati pacchimopi na passatī”ti.
+*điều* thứ năm là sự *cho đi* (xả ly / cāga) để làm việc phước, để thành tựu điều thiện. Thưa Tôn giả Gotama, các bà-la-môn quy định năm *điều* này để làm việc phước, để thành tựu điều thiện. Ở đây Tôn giả Gotama nói gì?" {#9}
 
-10\. Evaṁ vutte, subho māṇavo todeyyaputto bhagavatā andhaveṇūpamena vuccamāno kupito anattamano bhagavantaṁyeva khuṁsento bhagavantaṁyeva vambhento bhagavantaṁyeva vadamāno: “samaṇo gotamo pāpito bhavissatī”ti bhagavantaṁ etadavoca: {#10}
+"Nhưng này thanh niên, có bất kỳ một bà-la-môn nào trong số các bà-la-môn nói như vầy: 'Tôi đã tự mình *hiểu toàn bộ* (thắng tri / abhiññā), *trực tiếp chứng nghiệm* (chứng ngộ / sacchikatvā) và tuyên bố kết quả của năm *điều* này' không?"
 
-“brāhmaṇo, bho gotama, pokkharasāti opamañño subhagavaniko evamāha: ‘evameva panidhekacce samaṇabrāhmaṇā uttari manussadhammā alamariyañāṇadassanavisesaṁ paṭijānanti. Tesamidaṁ bhāsitaṁ hassakaṁyeva sampajjati, nāmakaṁyeva sampajjati, rittakaṁyeva sampajjati, tucchakaṁyeva sampajjati. Kathañhi nāma manussabhūto uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjatī’”ti?
+"Thưa Tôn giả Gotama, không có."
 
-11\. “Kiṁ pana, māṇava, brāhmaṇo pokkharasāti opamañño subhagavaniko sabbesaṁyeva samaṇabrāhmaṇānaṁ cetasā ceto paricca pajānātī”ti? {#11}
+"Nhưng này thanh niên, có bất kỳ một đạo sư nào, hay đạo sư của đạo sư nào của các bà-la-môn, cho đến bảy thế hệ đạo sư, nói như vầy: 'Tôi đã tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và tuyên bố kết quả của năm *điều* này' không?"
 
-“Sakāyapi hi, bho gotama, puṇṇikāya dāsiyā brāhmaṇo pokkharasāti opamañño subhagavaniko cetasā ceto paricca na pajānāti, kuto pana sabbesaṁyeva samaṇabrāhmaṇānaṁ cetasā ceto paricca pajānissatī”ti?
+"Thưa Tôn giả Gotama, không có."
 
-12\. “Seyyathāpi, māṇava, jaccandho puriso na passeyya kaṇhasukkāni rūpāni, na passeyya nīlakāni rūpāni, na passeyya pītakāni rūpāni, na passeyya lohitakāni rūpāni, na passeyya mañjiṭṭhakāni rūpāni, na passeyya samavisamaṁ, na passeyya tārakarūpāni, na passeyya candimasūriye. So evaṁ vadeyya: ‘natthi kaṇhasukkāni rūpāni, natthi kaṇhasukkānaṁ rūpānaṁ dassāvī; natthi nīlakāni rūpāni, natthi nīlakānaṁ rūpānaṁ dassāvī; natthi pītakāni rūpāni, natthi pītakānaṁ rūpānaṁ dassāvī; natthi lohitakāni rūpāni, natthi lohitakānaṁ rūpānaṁ dassāvī; natthi mañjiṭṭhakāni rūpāni, natthi mañjiṭṭhakānaṁ rūpānaṁ dassāvī; natthi samavisamaṁ, natthi samavisamassa dassāvī; natthi tārakarūpāni, natthi tārakarūpānaṁ dassāvī; natthi candimasūriyā, natthi candimasūriyānaṁ dassāvī. Ahametaṁ na jānāmi, ahametaṁ na passāmi; tasmā taṁ natthī’ti. Sammā nu kho so, māṇava, vadamāno vadeyyā”ti? {#12}
+"Nhưng này thanh niên, những vị tiên nhân thuở xưa của các bà-la-môn, những người làm ra các bài chú, những người truyền tụng các bài chú, mà ngày nay các bà-la-môn hát theo, nói theo, tụng theo, đọc theo những bài chú cổ xưa đã được hát, được nói, được kết tập ấy, đó là—Aṭṭhako, Vāmako, Vāmadevo, Vessāmitto, Yamataggi, Aṅgīraso, Bhāradvājo, Vāseṭṭho, Kassapo, Bhagu. Các vị ấy có nói như vầy: 'Chúng tôi đã tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và tuyên bố kết quả của năm *điều* này' không?"
 
-“No hidaṁ, bho gotama. Atthi kaṇhasukkāni rūpāni, atthi kaṇhasukkānaṁ rūpānaṁ dassāvī; atthi nīlakāni rūpāni, atthi nīlakānaṁ rūpānaṁ dassāvī; atthi pītakāni rūpāni, atthi pītakānaṁ rūpānaṁ dassāvī; atthi lohitakāni rūpāni, atthi lohitakānaṁ rūpānaṁ dassāvī; atthi mañjiṭṭhakāni rūpāni, atthi mañjiṭṭhakānaṁ rūpānaṁ dassāvī; atthi samavisamaṁ, atthi samavisamassa dassāvī; atthi tārakarūpāni, atthi tārakarūpānaṁ dassāvī; atthi candimasūriyā, atthi candimasūriyānaṁ dassāvī. ‘Ahametaṁ na jānāmi, ahametaṁ na passāmi; tasmā taṁ natthī’ti; na hi so, bho gotama, sammā vadamāno vadeyyā”ti.
+"Thưa Tôn giả Gotama, không có."
 
-13\. “Evameva kho, māṇava, brāhmaṇo pokkharasāti opamañño subhagavaniko andho acakkhuko. So vata uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjati. {#13}
+"Như vậy, này thanh niên, không có bất kỳ một bà-la-môn nào trong số các bà-la-môn nói như vầy: 'Tôi đã tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và tuyên bố kết quả của năm *điều* này'; không có bất kỳ một đạo sư nào, hay đạo sư của đạo sư nào của các bà-la-môn, cho đến bảy thế hệ đạo sư, nói như vầy: 'Tôi đã tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và tuyên bố kết quả của năm *điều* này'; những vị tiên nhân thuở xưa của các bà-la-môn, những người làm ra các bài chú, những người truyền tụng các bài chú, mà ngày nay các bà-la-môn hát theo, nói theo, tụng theo, đọc theo những bài chú cổ xưa đã được hát, được nói, được kết tập ấy, đó là—Aṭṭhako, Vāmako, Vāmadevo, Vessāmitto, Yamataggi, Aṅgīraso, Bhāradvājo, Vāseṭṭho, Kassapo, Bhagu. Các vị ấy cũng không nói như vầy: 'Chúng tôi đã tự mình *hiểu toàn bộ*, *trực tiếp chứng nghiệm* và tuyên bố kết quả của năm *điều* này'.
 
-Taṁ kiṁ maññasi, māṇava, ye te kosalakā brāhmaṇamahāsālā, seyyathidaṁ—caṅkī brāhmaṇo tārukkho brāhmaṇo pokkharasāti brāhmaṇo jāṇussoṇi brāhmaṇo pitā ca te todeyyo, katamā nesaṁ seyyo, yaṁ vā te sammuccā vācaṁ bhāseyyuṁ yaṁ vā asammuccā”ti?
+Này thanh niên, giống như một chuỗi người mù bám víu vào nhau, người đi trước không thấy, người đi giữa không thấy, người đi sau cũng không thấy; cũng vậy, này thanh niên, Ta nghĩ rằng lời nói của các bà-la-môn giống như chuỗi người mù—người đi trước không thấy, người đi giữa không thấy, người đi sau cũng không thấy."
 
-“Sammuccā, bho gotama”.
+10\. Khi được nói như vậy, thanh niên Subha, con trai của Todeyya, bị Đức Phật gọi là giống như chuỗi người mù, liền tức giận, không hài lòng, mắng nhiếc Đức Phật, chê bai Đức Phật, nói lời xúc phạm Đức Phật: "Sa-môn Gotama sẽ là người mang tội", rồi nói với Đức Phật: {#10}
 
-“Katamā nesaṁ seyyo, yaṁ vā te mantā vācaṁ bhāseyyuṁ yaṁ vā amantā”ti?
+"Thưa Tôn giả Gotama, bà-la-môn Pokkharasāti thuộc dòng dõi Opamañña, chúa tể rừng Subhaga, nói như vầy: 'Có một số sa-môn, bà-la-môn tự xưng đạt được trạng thái vượt quá con người, thấy rõ bản chất cao thượng của bậc thánh. Lời nói của họ trở nên nực cười, trở nên trống rỗng, trở nên vô nghĩa, trở nên hư không. Làm sao một người mang thân phận con người lại có thể biết, hoặc thấy, hoặc *trực tiếp chứng nghiệm* trạng thái vượt quá con người, thấy rõ bản chất cao thượng của bậc thánh—điều đó không thể xảy ra'."
 
-“Mantā, bho gotama”.
+11\. "Nhưng này thanh niên, bà-la-môn Pokkharasāti thuộc dòng dõi Opamañña, chúa tể rừng Subhaga, có dùng tâm nhận biết rõ tâm của tất cả các sa-môn, bà-la-môn không?" {#11}
 
-“Katamā nesaṁ seyyo, yaṁ vā te paṭisaṅkhāya vācaṁ bhāseyyuṁ yaṁ vā appaṭisaṅkhāyā”ti?
+"Thưa Tôn giả Gotama, bà-la-môn Pokkharasāti thuộc dòng dõi Opamañña, chúa tể rừng Subhaga, ngay cả tâm của nữ tỳ Puṇṇikā của mình cũng không thể dùng tâm nhận biết rõ, thì làm sao có thể dùng tâm nhận biết rõ tâm của tất cả các sa-môn, bà-la-môn được?"
 
-“Paṭisaṅkhāya, bho gotama”.
+12\. "Này thanh niên, giống như một người mù bẩm sinh không thể thấy các hình ảnh màu đen trắng, không thể thấy các hình ảnh màu xanh, không thể thấy các hình ảnh màu vàng, không thể thấy các hình ảnh màu đỏ, không thể thấy các hình ảnh màu hồng, không thể thấy chỗ bằng phẳng hay gồ ghề, không thể thấy các vì sao, không thể thấy mặt trăng mặt trời. Người ấy nói như vầy: 'Không có các hình ảnh màu đen trắng, không có người thấy các hình ảnh màu đen trắng; không có các hình ảnh màu xanh, không có người thấy các hình ảnh màu xanh; không có các hình ảnh màu vàng, không có người thấy các hình ảnh màu vàng; không có các hình ảnh màu đỏ, không có người thấy các hình ảnh màu đỏ; không có các hình ảnh màu hồng, không có người thấy các hình ảnh màu hồng; không có chỗ bằng phẳng hay gồ ghề, không có người thấy chỗ bằng phẳng hay gồ ghề; không có các vì sao, không có người thấy các vì sao; không có mặt trăng mặt trời, không có người thấy mặt trăng mặt trời. Tôi không biết điều này, tôi không thấy điều này; do đó điều này không tồn tại'. Này thanh niên, người ấy nói như vậy có đúng đắn không?" {#12}
 
-“Katamā nesaṁ seyyo, yaṁ vā te atthasaṁhitaṁ vācaṁ bhāseyyuṁ yaṁ vā anatthasaṁhitan”ti?
+"Thưa Tôn giả Gotama, không đúng. Có các hình ảnh màu đen trắng, có người thấy các hình ảnh màu đen trắng; có các hình ảnh màu xanh, có người thấy các hình ảnh màu xanh; có các hình ảnh màu vàng, có người thấy các hình ảnh màu vàng; có các hình ảnh màu đỏ, có người thấy các hình ảnh màu đỏ; có các hình ảnh màu hồng, có người thấy các hình ảnh màu hồng; có chỗ bằng phẳng hay gồ ghề, có người thấy chỗ bằng phẳng hay gồ ghề; có các vì sao, có người thấy các vì sao; có mặt trăng mặt trời, có người thấy mặt trăng mặt trời. 'Tôi không biết điều này, tôi không thấy điều này; do đó điều này không tồn tại'; thưa Tôn giả Gotama, người ấy nói như vậy là không đúng đắn."
 
-“Atthasaṁhitaṁ, bho gotama”.
+13\. "Cũng vậy, này thanh niên, bà-la-môn Pokkharasāti thuộc dòng dõi Opamañña, chúa tể rừng Subhaga, là người mù, không có mắt. Việc vị ấy sẽ biết, hoặc thấy, hoặc *trực tiếp chứng nghiệm* trạng thái vượt quá con người, thấy rõ bản chất cao thượng của bậc thánh—điều đó không thể xảy ra. {#13}
 
-14\. “Taṁ kiṁ maññasi, māṇava, yadi evaṁ sante, brāhmaṇena pokkharasātinā opamaññena subhagavanikena sammuccā vācā bhāsitā asammuccā”ti? {#14}
+Này thanh niên, ngươi nghĩ thế nào, những bà-la-môn đại gia ở Kosala, đó là—bà-la-môn Caṅkī, bà-la-môn Tārukkha, bà-la-môn Pokkharasāti, bà-la-môn Jāṇussoṇi và cha của ngươi là Todeyya, điều nào tốt hơn cho họ: nói lời cẩn trọng hay nói lời không cẩn trọng?"
 
-“Asammuccā, bho gotama”.
+"Thưa Tôn giả Gotama, cẩn trọng."
 
-“Mantā vācā bhāsitā amantā vā”ti?
+"...nói lời có suy nghĩ hay không suy nghĩ?"
 
-“Amantā, bho gotama”.
+"Thưa Tôn giả Gotama, có suy nghĩ."
 
-“Paṭisaṅkhāya vācā bhāsitā appaṭisaṅkhāyā”ti?
+"...nói lời có cân nhắc hay không cân nhắc?"
 
-“Appaṭisaṅkhāya, bho gotama”.
+"Thưa Tôn giả Gotama, có cân nhắc."
 
-“Atthasaṁhitā vācā bhāsitā anatthasaṁhitā”ti?
+"...nói lời mang lại lợi ích hay không mang lại lợi ích?"
 
-“Anatthasaṁhitā, bho gotama”.
+"Thưa Tôn giả Gotama, mang lại lợi ích."
 
-15\. “Pañca kho ime, māṇava, nīvaraṇā. Katame pañca? Kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ—ime kho, māṇava, pañca nīvaraṇā. Imehi kho, māṇava, pañcahi nīvaraṇehi brāhmaṇo pokkharasāti opamañño subhagavaniko āvuto nivuto ophuṭo pariyonaddho. So vata uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjati. {#15}
+14\. "Này thanh niên, ngươi nghĩ thế nào, nếu sự việc là như vậy, thì lời nói của bà-la-môn Pokkharasāti thuộc dòng dõi Opamañña, chúa tể rừng Subhaga, là cẩn trọng hay không cẩn trọng?" {#14}
 
-16\. Pañca kho ime, māṇava, kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā; sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā … jivhā viññeyyā rasā … kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā—ime kho, māṇava, pañca kāmaguṇā. {#16}
+"Thưa Tôn giả Gotama, không cẩn trọng."
 
-Imehi kho, māṇava, pañcahi kāmaguṇehi brāhmaṇo pokkharasāti opamañño subhagavaniko gathito mucchito ajjhopanno anādīnavadassāvī anissaraṇapañño paribhuñjati. So vata uttari manussadhammā alamariyañāṇadassanavisesaṁ ñassati vā dakkhati vā sacchi vā karissatīti—netaṁ ṭhānaṁ vijjati.
+"Là lời nói có suy nghĩ hay không suy nghĩ?"
 
-17\. Taṁ kiṁ maññasi, māṇava, yaṁ vā tiṇakaṭṭhupādānaṁ paṭicca aggiṁ jāleyya yaṁ vā nissaṭṭhatiṇakaṭṭhupādānaṁ aggiṁ jāleyya, katamo nu khvāssa aggi accimā ceva vaṇṇavā ca pabhassaro cā”ti? {#17}
+"Thưa Tôn giả Gotama, không suy nghĩ."
 
-“Sace taṁ, bho gotama, ṭhānaṁ nissaṭṭhatiṇakaṭṭhupādānaṁ aggiṁ jāletuṁ, svāssa aggi accimā ceva vaṇṇavā ca pabhassaro cā”ti.
+"Là lời nói có cân nhắc hay không cân nhắc?"
 
-“Aṭṭhānaṁ kho etaṁ, māṇava, anavakāso yaṁ nissaṭṭhatiṇakaṭṭhupādānaṁ aggiṁ jāleyya aññatra iddhimatā. Seyyathāpi, māṇava, tiṇakaṭṭhupādānaṁ paṭicca aggi jalati tathūpamāhaṁ, māṇava, imaṁ pītiṁ vadāmi yāyaṁ pīti pañca kāmaguṇe paṭicca. Seyyathāpi, māṇava, nissaṭṭhatiṇakaṭṭhupādāno aggi jalati tathūpamāhaṁ, māṇava, imaṁ pītiṁ vadāmi yāyaṁ pīti aññatreva kāmehi aññatra akusalehi dhammehi.
+"Thưa Tôn giả Gotama, không cân nhắc."
 
-Katamā ca, māṇava, pīti aññatreva kāmehi aññatra akusalehi dhammehi? Idha, māṇava, bhikkhu vivicceva kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati. Ayampi kho, māṇava, pīti aññatreva kāmehi aññatra akusalehi dhammehi.
+"Là lời nói mang lại lợi ích hay không mang lại lợi ích?"
 
-Puna caparaṁ, māṇava, bhikkhu vitakkavicārānaṁ vūpasamā … dutiyaṁ jhānaṁ upasampajja viharati. Ayampi kho, māṇava, pīti aññatreva kāmehi aññatra akusalehi dhammehi.
+"Thưa Tôn giả Gotama, không mang lại lợi ích."
 
-18\. Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, katamettha brāhmaṇā dhammaṁ mahapphalataraṁ paññapenti puññassa kiriyāya kusalassa ārādhanāyā”ti? {#18}
+15\. "Này thanh niên, có năm *điều làm mờ yếu tâm trí* (triền cái / nīvaraṇā) này. Năm điều nào? *Điều làm mờ yếu tâm trí* do *muốn thỏa mãn bản năng* (dục tham / kāmacchanda), *điều làm mờ yếu tâm trí* do *ác ý* (sân / byāpāda), *điều làm mờ yếu tâm trí* do *uể oải, buồn ngủ* (hôn trầm, thụy miên / thinamiddha), *điều làm mờ yếu tâm trí* do *bồn chồn, hối hận* (trạo cử, hối quá / uddhaccakukkucca), *điều làm mờ yếu tâm trí* do *nghi ngờ* (nghi / vicikicchā)—này thanh niên, đây là năm *điều làm mờ yếu tâm trí*. Này thanh niên, bà-la-môn Pokkharasāti thuộc dòng dõi Opamañña, chúa tể rừng Subhaga, bị bao phủ, bị che lấp, bị trói buộc, bị vây kín bởi năm *điều làm mờ yếu tâm trí* này. Việc vị ấy sẽ biết, hoặc thấy, hoặc *trực tiếp chứng nghiệm* trạng thái vượt quá con người, thấy rõ bản chất cao thượng của bậc thánh—điều đó không thể xảy ra. {#15}
 
-“Yeme, bho gotama, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, cāgamettha brāhmaṇā dhammaṁ mahapphalataraṁ paññapenti puññassa kiriyāya kusalassa ārādhanāyā”ti.
+16\. Này thanh niên, có năm *sợi dây trói buộc của bản năng* (ngũ dục / kāmaguṇā) này. Năm điều nào? Các hình ảnh được nhận biết bởi mắt, đáng ao ước, đáng yêu, hấp dẫn, dễ chịu, kích thích bản năng, đầy cám dỗ; các âm thanh được nhận biết bởi tai [...lặp lại...] các mùi được nhận biết bởi mũi... các vị được nhận biết bởi lưỡi... các xúc chạm được nhận biết bởi thân, đáng ao ước, đáng yêu, hấp dẫn, dễ chịu, kích thích bản năng, đầy cám dỗ—này thanh niên, đây là năm *sợi dây trói buộc của bản năng*. {#16}
 
-19\. “Taṁ kiṁ maññasi, māṇava, idha aññatarassa brāhmaṇassa mahāyañño paccupaṭṭhito assa. Atha dve brāhmaṇā āgaccheyyuṁ: ‘itthannāmassa brāhmaṇassa mahāyaññaṁ anubhavissāmā’ti. Tatrekassa brāhmaṇassa evamassa: ‘aho vata ahameva labheyyaṁ bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, na añño brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍan’ti. Ṭhānaṁ kho panetaṁ, māṇava, vijjati yaṁ añño brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, na so brāhmaṇo labheyya bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ. ‘Añño brāhmaṇo labhati bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍaṁ, nāhaṁ labhāmi bhattagge aggāsanaṁ aggodakaṁ aggapiṇḍan’ti—iti so kupito hoti anattamano. Imassa pana, māṇava, brāhmaṇā kiṁ vipākaṁ paññapentī”ti? {#19}
+Này thanh niên, bà-la-môn Pokkharasāti thuộc dòng dõi Opamañña, chúa tể rừng Subhaga, bị trói buộc, bị say đắm, bị vướng mắc, không thấy rõ sự nguy hiểm, không có trí tuệ thoát khỏi khi tận hưởng năm *sợi dây trói buộc của bản năng* này. Việc vị ấy sẽ biết, hoặc thấy, hoặc *trực tiếp chứng nghiệm* trạng thái vượt quá con người, thấy rõ bản chất cao thượng của bậc thánh—điều đó không thể xảy ra.
 
-“Na khvettha, bho gotama, brāhmaṇā evaṁ dānaṁ denti: ‘iminā paro kupito hotu anattamano’ti. Atha khvettha brāhmaṇā anukampājātikaṁyeva dānaṁ dentī”ti.
+17\. Này thanh niên, ngươi nghĩ thế nào, một ngọn lửa được đốt lên nhờ vào cỏ và củi, và một ngọn lửa được đốt lên không nhờ vào cỏ và củi, ngọn lửa nào có ngọn lửa sáng hơn, màu sắc đẹp hơn và rực rỡ hơn?" {#17}
 
-“Evaṁ sante kho, māṇava, brāhmaṇānaṁ idaṁ chaṭṭhaṁ puññakiriyavatthu hoti—yadidaṁ anukampājātikan”ti.
+"Thưa Tôn giả Gotama, nếu có thể đốt lên một ngọn lửa không nhờ vào cỏ và củi, thì ngọn lửa ấy sẽ sáng hơn, màu sắc đẹp hơn và rực rỡ hơn."
 
-“Evaṁ sante, bho gotama, brāhmaṇānaṁ idaṁ chaṭṭhaṁ puññakiriyavatthu hoti—yadidaṁ anukampājātikan”ti.
+"Này thanh niên, điều này không thể xảy ra, không có cơ hội để đốt lên một ngọn lửa không nhờ vào cỏ và củi, ngoại trừ người có thần thông. Này thanh niên, giống như ngọn lửa cháy lên nhờ vào cỏ và củi, Ta ví ngọn lửa ấy với sự *hân hoan* (hỷ / pīti) phụ thuộc vào năm *sợi dây trói buộc của bản năng*. Này thanh niên, giống như ngọn lửa cháy lên không nhờ vào cỏ và củi, Ta ví ngọn lửa ấy với sự *hân hoan* hoàn toàn tách biệt khỏi bản năng, tách biệt khỏi những *điều* không thiện.
 
-20\. “Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, ime tvaṁ pañca dhamme kattha bahulaṁ samanupassasi—gahaṭṭhesu vā pabbajitesu vā”ti? {#20}
+Và này thanh niên, thế nào là sự *hân hoan* hoàn toàn tách biệt khỏi bản năng, tách biệt khỏi những *điều* không thiện? Ở đây, này thanh niên, tỳ kheo hoàn toàn rời bỏ khỏi bản năng [...lặp lại...] đạt được và an trú trong *Thiền-na* (thiền / jhāna) thứ nhất. Này thanh niên, đây là sự *hân hoan* hoàn toàn tách biệt khỏi bản năng, tách biệt khỏi những *điều* không thiện.
 
-“Yeme, bho gotama, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, imāhaṁ pañca dhamme pabbajitesu bahulaṁ samanupassāmi appaṁ gahaṭṭhesu. Gahaṭṭho hi, bho gotama, mahaṭṭho mahākicco mahādhikaraṇo mahāsamārambho, na satataṁ samitaṁ saccavādī hoti; pabbajito kho pana, bho gotama, appaṭṭho appakicco appādhikaraṇo appasamārambho, satataṁ samitaṁ saccavādī hoti. Gahaṭṭho hi, bho gotama, mahaṭṭho mahākicco mahādhikaraṇo mahāsamārambho na satataṁ samitaṁ tapassī hoti … brahmacārī hoti … sajjhāyabahulo hoti … cāgabahulo hoti; pabbajito kho pana, bho gotama, appaṭṭho appakicco appādhikaraṇo appasamārambho satataṁ samitaṁ tapassī hoti … brahmacārī hoti … sajjhāyabahulo hoti … cāgabahulo hoti. Yeme, bho gotama, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, imāhaṁ pañca dhamme pabbajitesu bahulaṁ samanupassāmi appaṁ gahaṭṭhesū”ti.
+Lại nữa, này thanh niên, tỳ kheo do *lắng dịu* (diệt / vūpasamā) sự *chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý* (tầm và tứ / vitakkavicāra) ... đạt được và an trú trong *Thiền-na* thứ hai. Này thanh niên, đây cũng là sự *hân hoan* hoàn toàn tách biệt khỏi bản năng, tách biệt khỏi những *điều* không thiện.
 
-21\. “Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya cittassāhaṁ ete parikkhāre vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāya. {#21}
+18\. Này thanh niên, trong năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện, các bà-la-môn quy định *điều* nào mang lại quả lớn nhất?" {#18}
 
-Idha, māṇava, bhikkhu saccavādī hoti. So ‘saccavādīmhī’ti labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ. Yaṁ taṁ kusalūpasaṁhitaṁ pāmojjaṁ, cittassāhaṁ etaṁ parikkhāraṁ vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāya.
+"Thưa Tôn giả Gotama, trong năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện, các bà-la-môn quy định sự *cho đi* là *điều* mang lại quả lớn nhất để làm việc phước, để thành tựu điều thiện."
 
-Idha, māṇava, bhikkhu tapassī hoti …pe… brahmacārī hoti …pe… sajjhāyabahulo hoti …pe… cāgabahulo hoti. So ‘cāgabahulomhī’ti labhati atthavedaṁ, labhati dhammavedaṁ, labhati dhammūpasaṁhitaṁ pāmojjaṁ. Yaṁ taṁ kusalūpasaṁhitaṁ pāmojjaṁ, cittassāhaṁ etaṁ parikkhāraṁ vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāya. Ye te, māṇava, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya, cittassāhaṁ ete parikkhāre vadāmi—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāyā”ti.
+19\. "Này thanh niên, ngươi nghĩ thế nào, giả sử ở đây có một bà-la-môn đang chuẩn bị một buổi tế lễ lớn. Rồi có hai bà-la-môn đi đến với suy nghĩ: 'Chúng ta sẽ tham dự buổi tế lễ lớn của bà-la-môn tên là thế này'. Ở đó, một bà-la-môn  nghĩ như vầy: 'Ôi, mong sao chỉ mình tôi nhận được chỗ ngồi tốt nhất, nước uống tốt nhất, thức ăn tốt nhất tại phòng ăn, *mong sao bà-la-môn kia không nhận được chỗ ngồi tốt nhất, nước uống tốt nhất, thức ăn tốt nhất tại phòng ăn*'. Này thanh niên, có thể xảy ra trường hợp bà-la-môn kia nhận được chỗ ngồi tốt nhất, nước uống tốt nhất, thức ăn tốt nhất tại phòng ăn, còn bà-la-môn  này không nhận được chỗ ngồi tốt nhất, nước uống tốt nhất, thức ăn tốt nhất tại phòng ăn. Vị  ấy nghĩ: 'Bà-la-môn kia nhận được chỗ ngồi tốt nhất, nước uống tốt nhất, thức ăn tốt nhất tại phòng ăn, còn tôi không nhận được chỗ ngồi tốt nhất, nước uống tốt nhất, thức ăn tốt nhất tại phòng ăn'—do vậy vị ấy tức giận, không hài lòng. Này thanh niên, các bà-la-môn quy định kết quả gì cho người này [bà-la-môn làm tế lễ lớn]?" {#19}
 
-22\. Evaṁ vutte, subho māṇavo todeyyaputto bhagavantaṁ etadavoca: “sutaṁ metaṁ, bho gotama: ‘samaṇo gotamo brahmānaṁ sahabyatāya maggaṁ jānātī’”ti. {#22}
+"Thưa Tôn giả Gotama, các bà-la-môn không bố thí với suy nghĩ: 'Mong cho người kia tức giận, không hài lòng'. Các bà-la-môn bố thí với lòng thương xót."
 
-“Taṁ kiṁ maññasi, māṇava, āsanne ito naḷakāragāmo, na yito dūre naḷakāragāmo”ti?
+ các bà-la-môn quy định 
 
-“Evaṁ, bho, āsanne ito naḷakāragāmo, na yito dūre naḷakāragāmo”ti.
+*điều* thứ tư 
+"Này thanh niên, nếu sự việc là như vậy, thì đây làquy định để làm việc phước điều thứ sáu của các bà-la-môn—tức là lòng thương xót."
 
-“Taṁ, kiṁ maññasi, māṇava, idhassa puriso naḷakāragāme jātavaddho; tamenaṁ naḷakāragāmato tāvadeva avasaṭaṁ naḷakāragāmassa maggaṁ puccheyyuṁ; siyā nu kho, māṇava, tassa purisassa naḷakāragāme jātavaddhassa naḷakāragāmassa maggaṁ puṭṭhassa dandhāyitattaṁ vā vitthāyitattaṁ vā”ti?
+quy định để làm việc phước
 
-“No hidaṁ, bho gotama”. “Taṁ kissa hetu”? “Amu hi, bho gotama, puriso naḷakāragāme jātavaddho. Tassa sabbāneva naḷakāragāmassa maggāni suviditānī”ti.
+"Thưa Tôn giả Gotama, nếu sự việc là như vậy, thì đây là quy định để làm việc phước điều thứ sáu của các bà-la-môn—tức là lòng thương xót."
 
-“Siyā nu kho, māṇava, tassa purisassa naḷakāragāme jātavaddhassa naḷakāragāmassa maggaṁ puṭṭhassa dandhāyitattaṁ vā vitthāyitattaṁ vāti, na tveva tathāgatassa brahmalokaṁ vā brahmalokagāminiṁ vā paṭipadaṁ puṭṭhassa dandhāyitattaṁ vā vitthāyitattaṁ vā. Brahmānañcāhaṁ, māṇava, pajānāmi brahmalokañca brahmalokagāminiñca paṭipadaṁ; yathāpaṭipanno ca brahmalokaṁ upapanno tañca pajānāmī”ti.
+20\. "Này thanh niên, trong năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện, ngươi thấy năm *điều* này xuất hiện nhiều ở đâu—ở người tại gia hay ở *người từ bỏ*?" {#20}
 
-23\. “Sutaṁ metaṁ, bho gotama: ‘samaṇo gotamo brahmānaṁ sahabyatāya maggaṁ desetī’ti. Sādhu me bhavaṁ gotamo brahmānaṁ sahabyatāya maggaṁ desetū”ti. {#23}
+"Thưa Tôn giả Gotama, trong năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện, tôi thấy năm *điều* này xuất hiện nhiều ở *người từ bỏ*, ít ở người tại gia. Thưa Tôn giả Gotama, người tại gia có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, không thể thường xuyên liên tục nói lời chân thật; còn *người từ bỏ*, thưa Tôn giả Gotama, có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, có thể thường xuyên liên tục nói lời chân thật. Người tại gia, thưa Tôn giả Gotama, có mục đích lớn, công việc lớn, trách nhiệm lớn, nỗ lực lớn, không thể thường xuyên liên tục thực hành khổ hạnh... sống đời sống thánh thiện... học tập nhiều... *cho đi* nhiều; còn *người từ bỏ*, thưa Tôn giả Gotama, có mục đích nhỏ, công việc nhỏ, trách nhiệm nhỏ, nỗ lực nhỏ, có thể thường xuyên liên tục thực hành khổ hạnh... sống đời sống thánh thiện... học tập nhiều... *cho đi* nhiều. Thưa Tôn giả Gotama, trong năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện, tôi thấy năm *điều* này xuất hiện nhiều ở *người từ bỏ*, ít ở người tại gia."
 
-“Tena hi, māṇava, suṇāhi, sādhukaṁ manasi karohi, bhāsissāmī”ti.
+21\. "Này thanh niên, năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện, Ta gọi những *điều* này là các vật dụng trang bị cho tâm—tức là để luyện tập cho tâm không có hận thù, không có ác ý. {#21}
 
-“Evaṁ, bho”ti kho subho māṇavo todeyyaputto bhagavato paccassosi. Bhagavā etadavoca:
+Ở đây, này thanh niên, tỳ kheo là người nói lời chân thật. Vị ấy nghĩ: 'Ta là người nói lời chân thật', liền đạt được niềm vui về ý nghĩa, đạt được niềm vui về *Giáo pháp* (pháp / dhamma), đạt được sự hân hoan liên hệ đến *Giáo pháp*. Sự hân hoan liên hệ đến điều thiện ấy, Ta gọi là vật dụng trang bị cho tâm—tức là để luyện tập cho tâm không có hận thù, không có ác ý.
 
-24\. “Katamo ca, māṇava, brahmānaṁ sahabyatāya maggo? Idha, māṇava, bhikkhu mettāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Evaṁ bhāvitāya kho, māṇava, mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Seyyathāpi, māṇava, balavā saṅkhadhamo appakasireneva cātuddisā viññāpeyya; evameva kho, māṇava …pe… evaṁ bhāvitāya kho, māṇava, mettāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Ayampi kho, māṇava, brahmānaṁ sahabyatāya maggo. {#24}
+Ở đây, này thanh niên, tỳ kheo là người thực hành khổ hạnh [...lặp lại...] sống đời sống thánh thiện [...lặp lại...] học tập nhiều [...lặp lại...] *cho đi* nhiều. Vị ấy nghĩ: 'Ta là người *cho đi* nhiều', liền đạt được niềm vui về ý nghĩa, đạt được niềm vui về *Giáo pháp*, đạt được sự hân hoan liên hệ đến *Giáo pháp*. Sự hân hoan liên hệ đến điều thiện ấy, Ta gọi là vật dụng trang bị cho tâm—tức là để luyện tập cho tâm không có hận thù, không có ác ý. Này thanh niên, năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện, Ta gọi những *điều* này là các vật dụng trang bị cho tâm—tức là để luyện tập cho tâm không có hận thù, không có ác ý."
 
-25-27\. “Puna caparaṁ, māṇava, bhikkhu karuṇāsahagatena cetasā …pe…
+22\. Khi được nói như vậy, thanh niên Subha, con trai của Todeyya, nói với Đức Phật: "Thưa Tôn giả Gotama, tôi nghe nói: 'Sa-môn Gotama biết con đường dẫn đến sự đồng hành cùng Phạm thiên'." {#22}
 
-muditāsahagatena cetasā …pe…
+"Này thanh niên, ngươi nghĩ thế nào, làng Naḷakāra có gần đây không, làng Naḷakāra có cách xa đây không?"
 
-upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ; iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati. Evaṁ bhāvitāya kho, māṇava, upekkhāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Seyyathāpi, māṇava, balavā saṅkhadhamo appakasireneva cātuddisā viññāpeyya; evameva kho, māṇava …pe… evaṁ bhāvitāya kho, māṇava, upekkhāya cetovimuttiyā yaṁ pamāṇakataṁ kammaṁ na taṁ tatrāvasissati, na taṁ tatrāvatiṭṭhati. Ayampi kho, māṇava, brahmānaṁ sahabyatāya maggo”ti.
+"Thưa ngài, đúng vậy, làng Naḷakāra ở gần đây, làng Naḷakāra không cách xa đây."
 
-28\. Evaṁ vutte, subho māṇavo todeyyaputto bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gataṁ. Handa ca dāni mayaṁ, bho gotama, gacchāma; bahukiccā mayaṁ bahukaraṇīyā”ti. {#28}
+"Này thanh niên, ngươi nghĩ thế nào, giả sử có một người sinh ra và lớn lên tại làng Naḷakāra; ngay khi người ấy vừa rời khỏi làng Naḷakāra, có người hỏi đường đến làng Naḷakāra; này thanh niên, liệu người sinh ra và lớn lên tại làng Naḷakāra ấy có chần chừ hay do dự khi được hỏi đường đến làng Naḷakāra không?"
 
-29\. “Yassadāni tvaṁ, māṇava, kālaṁ maññasī”ti. Atha kho subho māṇavo todeyyaputto bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. {#29}
+"Thưa Tôn giả Gotama, không." "Vì nguyên nhân gì?" "Thưa Tôn giả Gotama, vì người ấy sinh ra và lớn lên tại làng Naḷakāra. Người ấy biết rất rõ tất cả các con đường đến làng Naḷakāra."
 
-30\. Tena kho pana samayena jāṇussoṇi brāhmaṇo sabbasetena vaḷavābhirathena sāvatthiyā niyyāti divā divassa. Addasā kho jāṇussoṇi brāhmaṇo subhaṁ māṇavaṁ todeyyaputtaṁ dūratova āgacchantaṁ. Disvāna subhaṁ māṇavaṁ todeyyaputtaṁ etadavoca: “handa kuto nu bhavaṁ bhāradvājo āgacchati divā divassā”ti? {#30}
+"Này thanh niên, người sinh ra và lớn lên tại làng Naḷakāra ấy có thể chần chừ hay do dự khi được hỏi đường đến làng Naḷakāra, nhưng Như Lai không hề chần chừ hay do dự khi được hỏi về cõi Phạm thiên hay con đường dẫn đến cõi Phạm thiên. Này thanh niên, Ta biết rõ Phạm thiên, cõi Phạm thiên và con đường dẫn đến cõi Phạm thiên; Ta cũng biết rõ thực hành như thế nào để tái sinh vào cõi Phạm thiên."
 
-“Ito hi kho ahaṁ, bho, āgacchāmi samaṇassa gotamassa santikā”ti.
+23\. "Thưa Tôn giả Gotama, tôi nghe nói: 'Sa-môn Gotama giảng dạy con đường dẫn đến sự đồng hành cùng Phạm thiên'. Tốt thay, mong Tôn giả Gotama giảng dạy cho tôi con đường dẫn đến sự đồng hành cùng Phạm thiên." {#23}
 
-“Taṁ kiṁ maññasi, bhavaṁ bhāradvājo samaṇassa gotamassa paññāveyyattiyaṁ paṇḍito maññeti”?
+"Vậy thì này thanh niên, hãy lắng nghe, hãy chú ý kỹ, Ta sẽ nói."
 
-“Ko cāhaṁ, bho, ko ca samaṇassa gotamassa paññāveyyattiyaṁ jānissāmi? Sopi nūnassa tādisova yo samaṇassa gotamassa paññāveyyattiyaṁ jāneyyā”ti.
+"Thưa vâng, ngài," thanh niên Subha, con trai của Todeyya, đáp lời Đức Phật. Đức Phật nói như vầy:
 
-“Uḷārāya khalu bhavaṁ bhāradvājo samaṇaṁ gotamaṁ pasaṁsāya pasaṁsatī”ti.
+24\. "Này thanh niên, thế nào là con đường dẫn đến sự đồng hành cùng Phạm thiên? Ở đây, này thanh niên, tỳ kheo an trú với tâm đi với *sự yêu thương* (từ / mettā) lan tỏa khắp một phương, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như vậy, vị ấy an trú với tâm đi với *sự yêu thương* lan tỏa khắp thế giới, trên, dưới, bề ngang, ở mọi nơi, đến mọi loài, với tâm rộng lớn, vĩ đại, không giới hạn, không hận thù, không ác ý. Này thanh niên, khi *giải thoát qua tâm* (tâm giải thoát / cetovimutti) bằng *sự yêu thương* được luyện tập như vậy, bất kỳ hành động có giới hạn nào cũng không thể đọng lại ở đó, không thể tồn tại ở đó. Này thanh niên, giống như một người thổi ốc tù và mạnh mẽ có thể dễ dàng báo hiệu cho cả bốn phương; cũng vậy, này thanh niên [...lặp lại...] khi *giải thoát qua tâm* bằng *sự yêu thương* được luyện tập như vậy, bất kỳ hành động có giới hạn nào cũng không thể đọng lại ở đó, không thể tồn tại ở đó. Này thanh niên, đây cũng là con đường dẫn đến sự đồng hành cùng Phạm thiên. {#24}
 
-“Ko cāhaṁ, bho, ko ca samaṇaṁ gotamaṁ pasaṁsissāmi? Pasatthapasatthova so bhavaṁ gotamo seṭṭho devamanussānaṁ. Ye cime, bho, brāhmaṇā pañca dhamme paññapenti puññassa kiriyāya kusalassa ārādhanāya; cittassete samaṇo gotamo parikkhāre vadeti—yadidaṁ cittaṁ averaṁ abyābajjhaṁ tassa bhāvanāyā”ti.
+25-27\. Lại nữa, này thanh niên, tỳ kheo an trú với tâm đi với *sự che chở* (bi / karuṇā) [...lặp lại...]
 
-31\. Evaṁ vutte, jāṇussoṇi brāhmaṇo sabbasetā vaḷavābhirathā orohitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā udānaṁ udānesi: “lābhā rañño pasenadissa kosalassa, suladdhalābhā rañño pasenadissa kosalassa yassa vijite tathāgato viharati arahaṁ sammāsambuddho”ti. {#31}
+...tâm đi với *sự cùng vui* (hỷ / muditā) [...lặp lại...]
 
-Subhasuttaṁ niṭṭhitaṁ navamaṁ.
+...tâm đi với *sự bình thản* (xả / upekkhā) lan tỏa khắp một phương, cũng vậy phương thứ hai, cũng vậy phương thứ ba, cũng vậy phương thứ tư; như vậy, vị ấy an trú với tâm đi với *sự bình thản* lan tỏa khắp thế giới, trên, dưới, bề ngang, ở mọi nơi, đến mọi loài, với tâm rộng lớn, vĩ đại, không giới hạn, không hận thù, không ác ý. Này thanh niên, khi *giải thoát qua tâm* bằng *sự bình thản* được luyện tập như vậy, bất kỳ hành động có giới hạn nào cũng không thể đọng lại ở đó, không thể tồn tại ở đó. Này thanh niên, giống như một người thổi ốc tù và mạnh mẽ có thể dễ dàng báo hiệu cho cả bốn phương; cũng vậy, này thanh niên [...lặp lại...] khi *giải thoát qua tâm* bằng *sự bình thản* được luyện tập như vậy, bất kỳ hành động có giới hạn nào cũng không thể đọng lại ở đó, không thể tồn tại ở đó. Này thanh niên, đây cũng là con đường dẫn đến sự đồng hành cùng Phạm thiên."
+
+28\. Khi được nói như vậy, thanh niên Subha, con trai của Todeyya, nói với Đức Phật: "Tuyệt vời thay, thưa Tôn giả Gotama! Tuyệt vời thay, thưa Tôn giả Gotama! Thưa Tôn giả Gotama, giống như người dựng đứng lại những gì bị lật úp, phơi bày ra những gì bị che khuất, chỉ đường cho người bị lạc lối, hay cầm ngọn đèn sáng đi vào bóng tối để những ai có mắt có thể thấy được các hình ảnh; cũng vậy, *Giáo pháp* đã được Tôn giả Gotama làm sáng tỏ qua nhiều phương pháp. Tôi xin quy y Tôn giả Gotama, quy y *Giáo pháp* và quy y Tăng chúng. Mong Tôn giả Gotama nhận tôi làm cư sĩ, đã quy y từ hôm nay cho đến trọn đời. Và bây giờ, thưa Tôn giả Gotama, chúng tôi xin phép ra về; chúng tôi có nhiều việc, có nhiều phận sự." {#28}
+
+29\. "Này thanh niên, ngươi hãy làm những gì ngươi cho là đúng lúc." Rồi thanh niên Subha, con trai của Todeyya, vui mừng đón nhận và hoan hỷ với lời dạy của Đức Phật, đứng dậy khỏi chỗ ngồi, đảnh lễ Đức Phật, đi vòng quanh theo chiều bên phải rồi rời đi. {#29}
+
+30\. Lúc bấy giờ, bà-la-môn Jāṇussoṇi đang đi ra khỏi Sāvatthī vào giữa ban ngày trên một cỗ xe do những con ngựa trắng muốt kéo. Bà-la-môn Jāṇussoṇi thấy thanh niên Subha, con trai của Todeyya, đang đi đến từ đằng xa. Thấy vậy, liền nói với thanh niên Subha, con trai của Todeyya: "Này Tôn giả Bhāradvāja, ngài từ đâu đến vào giữa ban ngày thế này?" {#30}
+
+"Thưa ngài, tôi vừa đến từ chỗ của Sa-môn Gotama."
+
+"Tôn giả Bhāradvāja nghĩ thế nào, ngài có cho rằng Sa-môn Gotama là người sáng suốt, có trí tuệ không?"
+
+"Thưa ngài, tôi là ai mà có thể biết được sự sáng suốt, trí tuệ của Sa-môn Gotama? Chỉ có người ngang tầm với vị ấy mới có thể biết được sự sáng suốt, trí tuệ của Sa-môn Gotama."
+
+"Tôn giả Bhāradvāja quả thật đã tán thán Sa-môn Gotama bằng những lời tán thán cao cả."
+
+"Thưa ngài, tôi là ai mà có thể tán thán Sa-môn Gotama? Tôn giả Gotama đã được tán thán bởi những bậc đáng được tán thán, là bậc tối thắng giữa chư thiên và loài người. Thưa ngài, năm *điều* mà các bà-la-môn quy định để làm việc phước, để thành tựu điều thiện; Sa-môn Gotama gọi những *điều* ấy là các vật dụng trang bị cho tâm—tức là để luyện tập cho tâm không có hận thù, không có ác ý."
+
+31\. Khi được nói như vậy, bà-la-môn Jāṇussoṇi bước xuống khỏi cỗ xe do những con ngựa trắng muốt kéo, đắp y trần một bên vai, chắp tay hướng về phía Đức Phật và thốt lên lời cảm hứng: "Thật là một lợi ích cho Vua Pasenadi của Kosala, thật là một lợi ích lớn lao cho Vua Pasenadi của Kosala, khi trong vương quốc của ngài có Như Lai, bậc A-la-hán, bậc Chánh Đẳng Giác đang trú ngụ." {#31}
+
+Kinh Subha kết thúc, là bài kinh thứ chín.

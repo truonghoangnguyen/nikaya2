@@ -425,8 +425,8 @@ Bà-la-môn Vasettha dùng những bài kệ bạch Thế Tôn:
 *Thấy rõ lý duyên khởi,*\
 *Biết rõ nghiệp dị thục.*
 
-*Do nghiệp, đời luân chuyển*
-*Do nghiệp, người luân hồi.*
+*Do nghiệp, đời luân chuyển*\
+*Do nghiệp, người luân hồi.*\
 *Nghiệp trói buộc chúng sanh,*\
 *Như trục xe quay bánh.*
 

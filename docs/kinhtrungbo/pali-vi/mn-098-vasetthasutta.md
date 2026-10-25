@@ -4,6 +4,7 @@ description: Đức Phật đang lưu trú tại khu rừng Icchānaṅgala. Hai
 
 # MN 98. KINH VĀSEṬṬHA
 *(Vāseṭṭhasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-098){."note-link"}
 
 1\. Tôi đã nghe như vầy—một thời Thế Tôn lưu trú tại Icchānaṅgala, trong khu rừng Icchānaṅgala. {#1}
 
