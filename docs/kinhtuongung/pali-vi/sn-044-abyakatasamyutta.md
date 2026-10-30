@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 44.1
 
-### 44.1 Khemāsutta
+### 44.1 Khemāsutta {#1}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -68,7 +68,7 @@ atthi te koci gaṇako vā muddiko vā saṅkhāyako vā yo pahoti gaṅgāya v�
 
 Atha kho rājā pasenadi kosalo khemāya bhikkhuniyā bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā khemaṁ bhikkhuniṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
 
-### 44.2 Anurādhasutta
+### 44.2 Anurādhasutta {#2}
 
 Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
@@ -152,7 +152,7 @@ Atha kho āyasmā anurādho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhag
 
 “Vedanā niccā vā aniccā vā”ti? …pe… Saññā …pe… saṅkhārā …pe… “viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?
 
-### 44.3 Paṭhamasāriputtakoṭṭhikasutta
+### 44.3 Paṭhamasāriputtakoṭṭhikasutta {#3}
 
 Ekaṁ samayaṁ āyasmā ca sāriputto, āyasmā ca mahākoṭṭhiko bārāṇasiyaṁ viharanti isipatane migadāye.
 
@@ -182,7 +182,7 @@ Hoti ca na ca hoti tathāgato paraṁ maraṇāti, rūpagatametaṁ. Neva hoti n
 
 Hoti tathāgato paraṁ maraṇāti kho, āvuso, vedanāgatametaṁ. Na hoti tathāgato paraṁ maraṇāti, vedanāgatametaṁ. Hoti ca na ca hoti tathāgato paraṁ maraṇāti, vedanāgatametaṁ. Neva hoti na na hoti tathāgato paraṁ maraṇāti, vedanāgatametaṁ. Hoti tathāgato paraṁ maraṇāti kho, āvuso, saññāgatametaṁ.
 
-### 44.4 Dutiyasāriputtakoṭṭhikasutta
+### 44.4 Dutiyasāriputtakoṭṭhikasutta {#4}
 
 Ekaṁ samayaṁ āyasmā ca sāriputto, āyasmā ca mahākoṭṭhiko bārāṇasiyaṁ viharanti isipatane migadāye …pe…
 
@@ -200,7 +200,7 @@ Catutthaṁ.
 
 ‘neva hoti na na hoti tathāgato paraṁ maraṇā’tipissa na hoti. Vedanaṁ …pe… saññaṁ …pe… saṅkhāre …pe… viññāṇaṁ jānato passato yathābhūtaṁ, viññāṇasamudayaṁ jānato passato yathābhūtaṁ, viññāṇanirodhaṁ jānato passato yathābhūtaṁ, viññāṇanirodhagāminiṁ paṭipadaṁ jānato passato yathābhūtaṁ, ‘hoti tathāgato paraṁ maraṇā’tipissa na hoti; ‘na hoti tathāgato paraṁ maraṇā’tipissa na hoti; ‘hoti ca na ca hoti tathāgato paraṁ maraṇā’tipissa na hoti; ‘neva hoti na na hoti tathāgato paraṁ maraṇā’tipissa na hoti.
 
-### 44.5 Tatiyasāriputtakoṭṭhikasutta
+### 44.5 Tatiyasāriputtakoṭṭhikasutta {#5}
 
 Ekaṁ samayaṁ āyasmā ca sāriputto, āyasmā ca mahākoṭṭhiko bārāṇasiyaṁ viharanti isipatane migadāye …pe…
 
@@ -218,7 +218,7 @@ Pañcamaṁ.
 
 “Rūpe kho, āvuso, avigatarāgassa avigatacchandassa avigatapemassa avigatapipāsassa avigatapariḷāhassa avigatataṇhassa ‘hoti tathāgato paraṁ maraṇā’tipissa hoti …pe… ‘neva hoti na na hoti tathāgato paraṁ maraṇā’tipissa hoti. Vedanāya …pe… saññāya …pe… saṅkhāresu …pe… viññāṇe avigatarāgassa avigatacchandassa avigatapemassa avigatapipāsassa avigatapariḷāhassa avigatataṇhassa ‘hoti tathāgato paraṁ maraṇā’tipissa hoti …pe…
 
-### 44.6 Catutthasāriputtakoṭṭhikasutta
+### 44.6 Catutthasāriputtakoṭṭhikasutta {#6}
 
 Ekaṁ samayaṁ āyasmā ca sāriputto, āyasmā ca mahākoṭṭhiko bārāṇasiyaṁ viharanti isipatane migadāye.
 
@@ -266,7 +266,7 @@ Ayampi kho, āvuso, pariyāyo, yenetaṁ abyākataṁ bhagavatā”ti.
 
 Chaṭṭhaṁ.
 
-### 44.7 Moggallānasutta
+### 44.7 Moggallānasutta {#7}
 
 Atha kho vacchagotto paribbājako yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahāmoggallānena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako āyasmantaṁ mahāmoggallānaṁ etadavoca:
 
@@ -298,7 +298,7 @@ jivhaṁ ‘etaṁ mama, esohamasmi, eso me attā’ti samanupassanti …pe… m
 
 Sattamaṁ.
 
-### 44.8 Vacchagottasutta
+### 44.8 Vacchagottasutta {#8}
 
 Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
@@ -330,7 +330,7 @@ Vedanaṁ attato samanupassanti …pe… saññaṁ …pe… saṅkhāre …pe�
 
 Aṭṭhamaṁ.
 
-### 44.9 Kutūhalasālāsutta
+### 44.9 Kutūhalasālāsutta {#9}
 
 Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
@@ -356,7 +356,7 @@ Saupādānassa khvāhaṁ, vaccha, upapattiṁ paññāpemi no anupādānassa. S
 
 Navamaṁ.
 
-### 44.10 Ānandasutta
+### 44.10 Ānandasutta {#10}
 
 Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
@@ -378,7 +378,7 @@ Ahañcānanda, vacchagottassa paribbājakassa ‘atthattā’ti puṭṭho samā
 
 “Ahañcānanda, vacchagottassa paribbājakassa ‘natthattā’ti puṭṭho samāno ‘natthattā’ti byākareyyaṁ, sammūḷhassa, ānanda, vacchagottassa paribbājakassa bhiyyo sammohāya abhavissa: ‘ahuvā me nūna pubbe attā, so etarahi natthī’”ti.
 
-### 44.11 Sabhiyakaccānasutta
+### 44.11 Sabhiyakaccānasutta {#11}
 
 Ekaṁ samayaṁ āyasmā sabhiyo kaccāno ñātike viharati giñjakāvasathe. Atha kho vacchagotto paribbājako yenāyasmā sabhiyo kaccāno tenupasaṅkami; upasaṅkamitvā āyasmatā sabhiyena kaccānena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako āyasmantaṁ sabhiyaṁ kaccānaṁ etadavoca:
 

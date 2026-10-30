@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 22.1
 
-### 22.1 Nakulapitusutta
+### 22.1 Nakulapitusutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā bhaggesu viharati susumāragire bhesakaḷāvane migadāye.
 
@@ -60,7 +60,7 @@ Atha kho nakulapitā gahapati bhagavato bhāsitaṁ abhinanditvā anumoditvā u�
 
 “Kathañca, gahapati, āturakāyo ceva hoti, āturacitto ca? Idha, gahapati, assutavā puthujjano ariyānaṁ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṁ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ; attani vā rūpaṁ, rūpasmiṁ vā attānaṁ. ‘Ahaṁ rūpaṁ, mama rūpan’ti pariyuṭṭhaṭṭhāyī hoti. Tassa ‘ahaṁ rūpaṁ, mama rūpan’ti pariyuṭṭhaṭṭhāyino taṁ rūpaṁ vipariṇamati aññathā hoti. Tassa rūpavipariṇāmaññathābhāvā uppajjanti sokaparidevadukkhadomanassupāyāsā.
 
-### 22.2 Devadahasutta
+### 22.2 Devadahasutta {#2}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati devadahaṁ nāma sakyānaṁ nigamo.
 
@@ -104,7 +104,7 @@ Paṇḍitā hāvuso, manussā vīmaṁsakā: ‘kiṁ panāyasmantānaṁ ādī
 
 khattiyapaṇḍitāpi brāhmaṇapaṇḍitāpi gahapatipaṇḍitāpi samaṇapaṇḍitāpi. Paṇḍitā hāvuso, manussā vīmaṁsakā: ‘kiṁ panāyasmantānaṁ ānisaṁsaṁ disvā rūpe chandarāgavinayakkhāyī satthā, vedanāya … saññāya … saṅkhāresu … viññāṇe chandarāgavinayakkhāyī satthā’ti? Evaṁ puṭṭhā tumhe, āvuso, evaṁ byākareyyātha:
 
-### 22.3 Hāliddikānisutta
+### 22.3 Hāliddikānisutta {#3}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā mahākaccāno avantīsu viharati kuraraghare papāte pabbate.
 
@@ -146,7 +146,7 @@ Rūpanimittaniketavisāravinibandhā kho, gahapati, tathāgatassa pahīnā ucchi
 
 Kathañca, gahapati, gāme na santhavajāto hoti? Idha, gahapati, bhikkhu gihīhi asaṁsaṭṭho viharati na sahanandī na sahasokī na sukhitesu sukhito na dukkhitesu dukkhito, uppannesu kiccakaraṇīyesu na attanā tesu yogaṁ āpajjati. Evaṁ kho, gahapati, gāme na santhavajāto hoti.
 
-### 22.4 Dutiyahāliddikānisutta
+### 22.4 Dutiyahāliddikānisutta {#4}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā mahākaccāno avantīsu viharati kuraraghare papāte pabbate.
 
@@ -164,7 +164,7 @@ Imassa kho, gahapati, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena at
 
 Catutthaṁ.
 
-### 22.5 Samādhisutta
+### 22.5 Samādhisutta {#5}
 
 Evaṁ me sutaṁ—…pe… sāvatthiyaṁ …
 
@@ -194,7 +194,7 @@ Kiñca nābhinandati nābhivadati nājjhosāya tiṭṭhati? Rūpaṁ nābhinand
 
 Vedanaṁ nābhinandati nābhivadati nājjhosāya tiṭṭhati. Tassa vedanaṁ anabhinandato anabhivadato anajjhosāya tiṭṭhato yā vedanāya nandī sā nirujjhati. Tassa nandīnirodhā upādānanirodho; upādānanirodhā bhavanirodho …pe… evametassa kevalassa dukkhakkhandhassa nirodho hoti.
 
-### 22.6 Paṭisallāṇasutta
+### 22.6 Paṭisallāṇasutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -204,7 +204,7 @@ Sāvatthinidānaṁ.
 
 Chaṭṭhaṁ.
 
-### 22.7 Upādāparitassanāsutta
+### 22.7 Upādāparitassanāsutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -234,7 +234,7 @@ Na viññāṇaṁ attato samanupassati, na viññāṇavantaṁ vā attānaṁ 
 
 Sattamaṁ.
 
-### 22.8 Dutiyaupādāparitassanāsutta
+### 22.8 Dutiyaupādāparitassanāsutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -246,7 +246,7 @@ Aṭṭhamaṁ.
 
 Idha, bhikkhave, sutavā ariyasāvako rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati. Tassa taṁ rūpaṁ vipariṇamati aññathā hoti. Tassa rūpavipariṇāmaññathābhāvā nuppajjanti sokaparidevadukkhadomanassupāyāsā. Vedanaṁ netaṁ mama … saññaṁ netaṁ mama … saṅkhāre netaṁ mama … viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti samanupassati. Tassa taṁ viññāṇaṁ vipariṇamati aññathā hoti.
 
-### 22.9 Kālattayaaniccasutta
+### 22.9 Kālattayaaniccasutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -268,7 +268,7 @@ saññā aniccā …
 
 saṅkhārā aniccā atītānāgatā;
 
-### 22.10 Kālattayadukkhasutta
+### 22.10 Kālattayadukkhasutta {#10}
 
 Sāvatthinidānaṁ.
 
@@ -288,7 +288,7 @@ saññā dukkhā …
 
 saṅkhārā dukkhā …
 
-### 22.11 Kālattayaanattasutta
+### 22.11 Kālattayaanattasutta {#11}
 
 Sāvatthinidānaṁ.
 
@@ -314,7 +314,7 @@ Tassuddānaṁ
 
 > Nakulapitā devadahā, Dvepi hāliddikāni ca; Samādhipaṭisallāṇā, Upādāparitassanā duve; Atītānāgatapaccuppannā, Vaggo tena pavuccati.
 
-### 22.12 Aniccasutta
+### 22.12 Aniccasutta {#12}
 
 Evaṁ me sutaṁ—sāvatthiyaṁ.
 
@@ -328,7 +328,7 @@ Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanā
 
 Paṭhamaṁ.
 
-### 22.13 Dukkhasutta
+### 22.13 Dukkhasutta {#13}
 
 Sāvatthinidānaṁ.
 
@@ -338,7 +338,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Dutiyaṁ.
 
-### 22.14 Anattasutta
+### 22.14 Anattasutta {#14}
 
 Sāvatthinidānaṁ.
 
@@ -350,7 +350,7 @@ Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanā
 
 Tatiyaṁ.
 
-### 22.15 Yadaniccasutta
+### 22.15 Yadaniccasutta {#15}
 
 Sāvatthinidānaṁ.
 
@@ -368,7 +368,7 @@ Catutthaṁ.
 
 Vedanā aniccā. Yadaniccaṁ taṁ dukkhaṁ; yaṁ dukkhaṁ tadanattā; yadanattā taṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-### 22.16 Yaṁdukkhasutta
+### 22.16 Yaṁdukkhasutta {#16}
 
 Sāvatthinidānaṁ.
 
@@ -388,7 +388,7 @@ saṅkhārā dukkhā …
 
 viññāṇaṁ dukkhaṁ. Yaṁ dukkhaṁ tadanattā;
 
-### 22.17 Yadanattāsutta
+### 22.17 Yadanattāsutta {#17}
 
 Sāvatthinidānaṁ.
 
@@ -408,7 +408,7 @@ viññāṇaṁ anattā. Yadanattā taṁ ‘netaṁ mama, nesohamasmi, na meso 
 
 Evaṁ passaṁ, bhikkhave …pe…
 
-### 22.18 Sahetuaniccasutta
+### 22.18 Sahetuaniccasutta {#18}
 
 Sāvatthinidānaṁ.
 
@@ -428,7 +428,7 @@ Saññā aniccā …
 
 saṅkhārā aniccā.
 
-### 22.19 Sahetudukkhasutta
+### 22.19 Sahetudukkhasutta {#19}
 
 Sāvatthinidānaṁ.
 
@@ -448,7 +448,7 @@ saṅkhārā dukkhā …
 
 viññāṇaṁ dukkhaṁ. Yopi hetu yopi paccayo viññāṇassa uppādāya, sopi dukkho.
 
-### 22.20 Sahetuanattasutta
+### 22.20 Sahetuanattasutta {#20}
 
 Sāvatthinidānaṁ.
 
@@ -468,7 +468,7 @@ saṅkhārā anattā …
 
 viññāṇaṁ anattā. Yopi hetu yopi paccayo viññāṇassa uppādāya, sopi anattā.
 
-### 22.21 Ānandasutta
+### 22.21 Ānandasutta {#21}
 
 Sāvatthiyaṁ … ārāme.
 
@@ -496,7 +496,7 @@ Tassuddānaṁ
 
 > Aniccaṁ dukkhaṁ anattā, yadaniccāpare tayo; Hetunāpi tayo vuttā, ānandena ca te dasāti.
 
-### 22.22 Bhārasutta
+### 22.22 Bhārasutta {#22}
 
 Sāvatthiyaṁ … tatra kho …
 
@@ -518,7 +518,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 Paṭhamaṁ.
 
-### 22.23 Pariññasutta
+### 22.23 Pariññasutta {#23}
 
 Sāvatthinidānaṁ.
 
@@ -530,7 +530,7 @@ Katame ca, bhikkhave, pariññeyyā dhammā? Rūpaṁ, bhikkhave, pariññeyyo d
 
 Katamā ca, bhikkhave, pariññā? Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo. Ayaṁ vuccati, bhikkhave, pariññā”ti.
 
-### 22.24 Abhijānasutta
+### 22.24 Abhijānasutta {#24}
 
 Sāvatthinidānaṁ.
 
@@ -546,7 +546,7 @@ Rūpañca kho, bhikkhave, abhijānaṁ parijānaṁ virājayaṁ pajahaṁ bhabb
 
 vedanaṁ abhijānaṁ … saññaṁ …
 
-### 22.25 Chandarāgasutta
+### 22.25 Chandarāgasutta {#25}
 
 Sāvatthinidānaṁ.
 
@@ -558,7 +558,7 @@ Catutthaṁ.
 
 Yo vedanāya chandarāgo taṁ pajahatha. Evaṁ sā vedanā pahīnā bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yo saññāya chandarāgo taṁ pajahatha. Evaṁ sā saññā pahīnā bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yo saṅkhāresu chandarāgo taṁ pajahatha. Evaṁ te saṅkhārā pahīnā bhavissanti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā.
 
-### 22.26 Assādasutta
+### 22.26 Assādasutta {#26}
 
 Sāvatthinidānaṁ.
 
@@ -574,7 +574,7 @@ Yato ca khvāhaṁ, bhikkhave, imesaṁ pañcannaṁ upādānakkhandhānaṁ eva
 
 Pañcamaṁ.
 
-### 22.27 Dutiyaassādasutta
+### 22.27 Dutiyaassādasutta {#27}
 
 Sāvatthinidānaṁ.
 
@@ -590,7 +590,7 @@ Chaṭṭhaṁ.
 
 Yo rūpassa assādo tadajjhagamaṁ. Yāvatā rūpassa assādo paññāya me so sudiṭṭho. Rūpassāhaṁ, bhikkhave, ādīnavapariyesanaṁ acariṁ. Yo rūpassa ādīnavo tadajjhagamaṁ. Yāvatā rūpassa ādīnavo paññāya me so sudiṭṭho. Rūpassāhaṁ, bhikkhave, nissaraṇapariyesanaṁ acariṁ. Yaṁ rūpassa nissaraṇaṁ tadajjhagamaṁ.
 
-### 22.28 Tatiyaassādasutta
+### 22.28 Tatiyaassādasutta {#28}
 
 Sāvatthinidānaṁ.
 
@@ -604,7 +604,7 @@ Yato ca kho, bhikkhave, sattā imesaṁ pañcannaṁ upādānakkhandhānaṁ ass
 
 Sattamaṁ.
 
-### 22.29 Abhinandanasutta
+### 22.29 Abhinandanasutta {#29}
 
 Sāvatthinidānaṁ.
 
@@ -620,7 +620,7 @@ Yo vedanaṁ abhinandati … yo saññaṁ abhinandati … yo saṅkhāre abhina
 
 Yo ca kho, bhikkhave, rūpaṁ nābhinandati, dukkhaṁ so nābhinandati.
 
-### 22.30 Uppādasutta
+### 22.30 Uppādasutta {#30}
 
 Sāvatthinidānaṁ.
 
@@ -636,7 +636,7 @@ Yo ca kho, bhikkhave, rūpassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirod
 
 Yo vedanāya …pe… yo saññāya …
 
-### 22.31 Aghamūlasutta
+### 22.31 Aghamūlasutta {#31}
 
 Sāvatthinidānaṁ.
 
@@ -650,7 +650,7 @@ Katamañca, bhikkhave, aghaṁ? Rūpaṁ, bhikkhave, aghaṁ, vedanā aghaṁ, s
 
 Katamañca, bhikkhave, aghamūlaṁ? Yāyaṁ taṇhā ponobhavikā nandīrāgasahagatā tatratatrābhinandinī; Seyyathidaṁ—kāmataṇhā, bhavataṇhā, vibhavataṇhā.
 
-### 22.32 Pabhaṅgusutta
+### 22.32 Pabhaṅgusutta {#32}
 
 Sāvatthinidānaṁ.
 
@@ -668,7 +668,7 @@ Vedanā pabhaṅgu. Yo tassā nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅg
 
 > Bhāraṁ pariññaṁ abhijānaṁ, chandarāgaṁ catutthakaṁ; Assādā ca tayo vuttā, abhinandanamaṭṭhamaṁ; Uppādaṁ aghamūlañca, ekādasamo pabhaṅgūti.
 
-### 22.33 Natumhākasutta
+### 22.33 Natumhākasutta {#33}
 
 Sāvatthinidānaṁ.
 
@@ -700,7 +700,7 @@ Api nu tumhākaṁ evamassa: ‘amhe jano harati vā ḍahati vā yathāpaccaya�
 
 Vedanā na tumhākaṁ, taṁ pajahatha.
 
-### 22.34 Dutiyanatumhākasutta
+### 22.34 Dutiyanatumhākasutta {#34}
 
 Sāvatthinidānaṁ.
 
@@ -720,7 +720,7 @@ saññā na tumhākaṁ …
 
 saṅkhārā na tumhākaṁ …
 
-### 22.35 Aññatarabhikkhusutta
+### 22.35 Aññatarabhikkhusutta {#35}
 
 Sāvatthinidānaṁ.
 
@@ -754,7 +754,7 @@ Atha kho so bhikkhu eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto n
 
 Tatiyaṁ.
 
-### 22.36 Dutiyaaññatarabhikkhusutta
+### 22.36 Dutiyaaññatarabhikkhusutta {#36}
 
 Sāvatthinidānaṁ.
 
@@ -784,7 +784,7 @@ Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ
 
 Rūpañce, bhikkhu, anuseti taṁ anumīyati; yaṁ anumīyati tena saṅkhaṁ gacchati. Vedanañce, bhikkhu … saññañce, bhikkhu … saṅkhāre ce, bhikkhu … viññāṇañce, bhikkhu, anuseti taṁ anumīyati; yaṁ anumīyati tena saṅkhaṁ gacchati.
 
-### 22.37 Ānandasutta
+### 22.37 Ānandasutta {#37}
 
 Sāvatthinidānaṁ.
 
@@ -804,7 +804,7 @@ Evaṁ puṭṭho tvaṁ, ānanda, evaṁ byākareyyāsī”ti.
 
 Pañcamaṁ.
 
-### 22.38 Dutiyaānandasutta
+### 22.38 Dutiyaānandasutta {#38}
 
 Sāvatthinidānaṁ.
 
@@ -830,7 +830,7 @@ tassa uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññ
 
 Evaṁ puṭṭho tvaṁ, ānanda, evaṁ byākareyyāsī”ti.
 
-### 22.39 Anudhammasutta
+### 22.39 Anudhammasutta {#39}
 
 Sāvatthinidānaṁ.
 
@@ -840,7 +840,7 @@ yaṁ rūpe nibbidābahulo vihareyya, vedanāya nibbidābahulo vihareyya, saññ
 
 Sattamaṁ.
 
-### 22.40 Dutiyaanudhammasutta
+### 22.40 Dutiyaanudhammasutta {#40}
 
 Sāvatthinidānaṁ.
 
@@ -848,7 +848,7 @@ Sāvatthinidānaṁ.
 
 Aṭṭhamaṁ.
 
-### 22.41 Tatiyaanudhammasutta
+### 22.41 Tatiyaanudhammasutta {#41}
 
 Sāvatthinidānaṁ.
 
@@ -856,7 +856,7 @@ Sāvatthinidānaṁ.
 
 Navamaṁ.
 
-### 22.42 Catutthaanudhammasutta
+### 22.42 Catutthaanudhammasutta {#42}
 
 Sāvatthinidānaṁ.
 
@@ -872,7 +872,7 @@ Tassuddānaṁ
 
 > Natumhākena dve vuttā, bhikkhūhi apare duve; Ānandena ca dve vuttā, anudhammehi dve dukāti.
 
-### 22.43 Attadīpasutta
+### 22.43 Attadīpasutta {#43}
 
 Sāvatthinidānaṁ.
 
@@ -902,7 +902,7 @@ saṅkhārānaṁ tveva, bhikkhave, aniccataṁ viditvā vipariṇāmaṁ virāg
 
 Viññāṇassa tveva, bhikkhave, aniccataṁ viditvā vipariṇāmaṁ virāgaṁ nirodhaṁ, ‘pubbe ceva viññāṇaṁ etarahi ca sabbaṁ viññāṇaṁ aniccaṁ dukkhaṁ vipariṇāmadhamman’ti, evametaṁ yathābhūtaṁ sammappaññāya passato ye sokaparidevadukkhadomanassupāyāsā te pahīyanti. Tesaṁ pahānā na paritassati, aparitassaṁ sukhaṁ viharati, sukhavihārī bhikkhu ‘tadaṅganibbuto’ti vuccatī”ti.
 
-### 22.44 Paṭipadāsutta
+### 22.44 Paṭipadāsutta {#44}
 
 Sāvatthinidānaṁ.
 
@@ -940,7 +940,7 @@ na viññāṇaṁ attato samanupassati, na viññāṇavantaṁ vā attānaṁ;
 
 Ayaṁ vuccati, bhikkhave, ‘sakkāyanirodhagāminī paṭipadā, sakkāyanirodhagāminī paṭipadā’ti. Iti hidaṁ, bhikkhave, vuccati ‘dukkhanirodhagāminī samanupassanā’ti.
 
-### 22.45 Aniccasutta
+### 22.45 Aniccasutta {#45}
 
 Sāvatthinidānaṁ.
 
@@ -962,7 +962,7 @@ saññā …
 
 saṅkhārā …
 
-### 22.46 Dutiyaaniccasutta
+### 22.46 Dutiyaaniccasutta {#46}
 
 Sāvatthinidānaṁ.
 
@@ -984,7 +984,7 @@ Pubbantānudiṭṭhīnaṁ asati, aparantānudiṭṭhiyo na honti. Aparantānu
 
 Vimuttattā ṭhitaṁ. Ṭhitattā santusitaṁ. Santusitattā na paritassati. Aparitassaṁ paccattaññeva parinibbāyati.
 
-### 22.47 Samanupassanāsutta
+### 22.47 Samanupassanāsutta {#47}
 
 Sāvatthinidānaṁ.
 
@@ -1002,7 +1002,7 @@ Pañcamaṁ.
 
 Athettha sutavato ariyasāvakassa avijjā pahīyati, vijjā uppajjati. Tassa avijjāvirāgā vijjuppādā ‘asmī’tipissa na hoti; ‘ayamahamasmī’tipissa na hoti; ‘bhavissan’ti … ‘na bhavissan’ti … rūpī … arūpī … saññī …
 
-### 22.48 Khandhasutta
+### 22.48 Khandhasutta {#48}
 
 Sāvatthinidānaṁ.
 
@@ -1038,7 +1038,7 @@ Ime vuccanti, bhikkhave, pañcupādānakkhandhā”ti.
 
 Chaṭṭhaṁ.
 
-### 22.49 Soṇasutta
+### 22.49 Soṇasutta {#49}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -1082,7 +1082,7 @@ Evaṁ passaṁ, soṇa, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyap
 
 Sattamaṁ.
 
-### 22.50 Dutiyasoṇasutta
+### 22.50 Dutiyasoṇasutta {#50}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -1094,7 +1094,7 @@ Ye ca kho keci, soṇa, samaṇā vā brāhmaṇā vā rūpaṁ pajānanti, rūp
 
 Aṭṭhamaṁ.
 
-### 22.51 Nandikkhayasutta
+### 22.51 Nandikkhayasutta {#51}
 
 Sāvatthinidānaṁ.
 
@@ -1110,7 +1110,7 @@ Navamaṁ.
 
 Aniccaññeva, bhikkhave, bhikkhu vedanaṁ aniccanti passati. Sāssa hoti sammādiṭṭhi. Sammā passaṁ nibbindati. Nandikkhayā rāgakkhayo, rāgakkhayā nandikkhayo. Nandirāgakkhayā cittaṁ vimuttaṁ suvimuttanti vuccati.
 
-### 22.52 Dutiyanandikkhayasutta
+### 22.52 Dutiyanandikkhayasutta {#52}
 
 Sāvatthinidānaṁ.
 
@@ -1138,7 +1138,7 @@ Tassa mūlapaṇṇāsakassa vagguddānaṁ
 
 > Nakulapitā anicco ca, Bhāro natumhākena ca; Attadīpena paññāso, Paṭhamo tena pavuccatīti.
 
-### 22.53 Upayasutta
+### 22.53 Upayasutta {#53}
 
 Sāvatthinidānaṁ.
 
@@ -1170,7 +1170,7 @@ viññāṇadhātuyā ce, bhikkhave, bhikkhuno rāgo pahīno hoti. Rāgassa pah�
 
 Vimuttattā ṭhitaṁ. Ṭhitattā santusitaṁ. Santusitattā na paritassati. Aparitassaṁ paccattaññeva parinibbāyati.
 
-### 22.54 Bījasutta
+### 22.54 Bījasutta {#54}
 
 Sāvatthinidānaṁ.
 
@@ -1212,7 +1212,7 @@ viññāṇadhātuyā ce, bhikkhave, bhikkhuno rāgo pahīno hoti. Rāgassa pah�
 
 Vimuttattā ṭhitaṁ. Ṭhitattā santusitaṁ. Santusitattā na paritassati. Aparitassaṁ paccattaññeva parinibbāyati.
 
-### 22.55 Udānasutta
+### 22.55 Udānasutta {#55}
 
 Sāvatthinidānaṁ.
 
@@ -1284,7 +1284,7 @@ Rūpaṁ vibhavissatīti yathābhūtaṁ pajānāti. So rūpassa vibhavā, vedan
 
 “‘Evaṁ adhimuccamāno,’ bhante, ‘bhikkhu chindeyya orambhāgiyāni saṁyojanānī’ti.
 
-### 22.56 Upādānaparipavattasutta
+### 22.56 Upādānaparipavattasutta {#56}
 
 Sāvatthinidānaṁ.
 
@@ -1324,7 +1324,7 @@ Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṁ vedanaṁ abhi�
 
 Katamā ca, bhikkhave, saññā? Chayime, bhikkhave, saññākāyā—rūpasaññā, saddasaññā, gandhasaññā, rasasaññā, phoṭṭhabbasaññā, dhammasaññā. Ayaṁ vuccati, bhikkhave, saññā. Phassasamudayā saññāsamudayo; phassanirodhā saññānirodho. Ayameva ariyo aṭṭhaṅgiko maggo saññānirodhagāminī paṭipadā, seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi …pe… vaṭṭaṁ tesaṁ natthi paññāpanāya.
 
-### 22.57 Sattaṭṭhānasutta
+### 22.57 Sattaṭṭhānasutta {#57}
 
 Sāvatthinidānaṁ.
 
@@ -1370,7 +1370,7 @@ Ye hi, keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṁ vedanaṁ abhiññ
 
 Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā evaṁ vedanaṁ abhiññāya …pe… vaṭṭaṁ tesaṁ natthi paññāpanāya.
 
-### 22.58 Sammāsambuddhasutta
+### 22.58 Sammāsambuddhasutta {#58}
 
 Sāvatthinidānaṁ.
 
@@ -1398,7 +1398,7 @@ Ayaṁ kho, bhikkhave, viseso, ayaṁ adhippayāso, idaṁ nānākaraṇaṁ tat
 
 Chaṭṭhaṁ.
 
-### 22.59 Anattalakkhaṇasutta
+### 22.59 Anattalakkhaṇasutta {#59}
 
 Ekaṁ samayaṁ bhagavā bārāṇasiyaṁ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:
 
@@ -1464,7 +1464,7 @@ Yā kāci saññā …pe…
 
 ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā …pe… ye dūre santike vā, sabbe saṅkhārā: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.
 
-### 22.60 Mahālisutta
+### 22.60 Mahālisutta {#60}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
@@ -1500,7 +1500,7 @@ Viññāṇañca hidaṁ, mahāli, ekantadukkhaṁ abhavissa dukkhānupatitaṁ 
 
 “Rūpañca hidaṁ, mahāli, ekantasukhaṁ abhavissa sukhānupatitaṁ sukhāvakkantaṁ anavakkantaṁ dukkhena, nayidaṁ sattā rūpasmiṁ nibbindeyyuṁ. Yasmā ca kho, mahāli, rūpaṁ dukkhaṁ dukkhānupatitaṁ dukkhāvakkantaṁ anavakkantaṁ sukhena, tasmā sattā rūpasmiṁ nibbindanti; nibbindaṁ virajjanti; virāgā visujjhanti. Ayaṁ kho, mahāli, hetu, ayaṁ paccayo, sattānaṁ visuddhiyā. Evaṁ sahetū sappaccayā sattā visujjhanti.
 
-### 22.61 Ādittasutta
+### 22.61 Ādittasutta {#61}
 
 Sāvatthinidānaṁ.
 
@@ -1512,7 +1512,7 @@ Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanā
 
 Navamaṁ.
 
-### 22.62 Niruttipathasutta
+### 22.62 Niruttipathasutta {#62}
 
 Sāvatthinidānaṁ.
 
@@ -1556,7 +1556,7 @@ Yaṁ viññāṇaṁ ajātaṁ apātubhūtaṁ, ‘bhavissatī’ti tassa saṅ
 
 Yaṁ, bhikkhave, rūpaṁ jātaṁ pātubhūtaṁ, ‘atthī’ti tassa saṅkhā, ‘atthī’ti tassa samaññā, ‘atthī’ti tassa paññatti; na tassa saṅkhā ‘ahosī’ti, na tassa saṅkhā ‘bhavissatī’ti.
 
-### 22.63 Upādiyamānasutta
+### 22.63 Upādiyamānasutta {#63}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -1586,7 +1586,7 @@ Atha kho so bhikkhu eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto n
 
 Paṭhamaṁ.
 
-### 22.64 Maññamānasutta
+### 22.64 Maññamānasutta {#64}
 
 Sāvatthinidānaṁ.
 
@@ -1612,7 +1612,7 @@ Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ
 
 Rūpaṁ kho, bhikkhu, maññamāno baddho mārassa; amaññamāno mutto pāpimato. Vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ maññamāno baddho mārassa; amaññamāno mutto pāpimato.
 
-### 22.65 Abhinandamānasutta
+### 22.65 Abhinandamānasutta {#65}
 
 Sāvatthinidānaṁ.
 
@@ -1638,7 +1638,7 @@ Sādhu kho tvaṁ, bhikkhu, mayā saṅkhittena bhāsitassa vitthārena atthaṁ
 
 Rūpaṁ kho, bhikkhu, abhinandamāno baddho mārassa; anabhinandamāno mutto pāpimato. Vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ abhinandamāno baddho mārassa; anabhinandamāno mutto pāpimato.
 
-### 22.66 Aniccasutta
+### 22.66 Aniccasutta {#66}
 
 Sāvatthinidānaṁ.
 
@@ -1680,7 +1680,7 @@ Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho da
 
 aññataro ca pana so bhikkhu arahataṁ ahosīti.
 
-### 22.67 Dukkhasutta
+### 22.67 Dukkhasutta {#67}
 
 Sāvatthinidānaṁ.
 
@@ -1722,7 +1722,7 @@ Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho da
 
 aññataro ca pana so bhikkhu arahataṁ ahosīti.
 
-### 22.68 Anattasutta
+### 22.68 Anattasutta {#68}
 
 Sāvatthinidānaṁ.
 
@@ -1764,7 +1764,7 @@ Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho da
 
 aññataro ca pana so bhikkhu arahataṁ ahosīti.
 
-### 22.69 Anattaniyasutta
+### 22.69 Anattaniyasutta {#69}
 
 Sāvatthinidānaṁ.
 
@@ -1806,7 +1806,7 @@ Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho da
 
 aññataro ca pana so bhikkhu arahataṁ ahosīti.
 
-### 22.70 Rajanīyasaṇṭhitasutta
+### 22.70 Rajanīyasaṇṭhitasutta {#70}
 
 Sāvatthinidānaṁ.
 
@@ -1848,7 +1848,7 @@ Imassa kho, bhikkhu, mayā saṅkhittena bhāsitassa evaṁ vitthārena attho da
 
 aññataro ca pana so bhikkhu arahataṁ ahosīti.
 
-### 22.71 Rādhasutta
+### 22.71 Rādhasutta {#71}
 
 Sāvatthinidānaṁ.
 
@@ -1864,7 +1864,7 @@ Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñ
 
 Evaṁ kho, rādha, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti …pe…
 
-### 22.72 Surādhasutta
+### 22.72 Surādhasutta {#72}
 
 Sāvatthinidānaṁ.
 
@@ -1888,7 +1888,7 @@ Yā kāci vedanā … yā kāci saññā … ye keci saṅkhārā … yaṁ kiñ
 
 > Upādiyamaññamānā, Athābhinandamāno ca; Aniccaṁ dukkhaṁ anattā ca, Anattaniyaṁ rajanīyasaṇṭhitaṁ; Rādhasurādhena te dasāti.
 
-### 22.73 Assādasutta
+### 22.73 Assādasutta {#73}
 
 Sāvatthinidānaṁ.
 
@@ -1898,7 +1898,7 @@ Paṭhamaṁ.
 
 “Assutavā, bhikkhave, puthujjano rūpassa assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti. Vedanāya … saññāya … saṅkhārānaṁ … viññāṇassa assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti. Sutavā ca kho, bhikkhave, ariyasāvako rūpassa assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti. Vedanāya … saññāya …
 
-### 22.74 Samudayasutta
+### 22.74 Samudayasutta {#74}
 
 Sāvatthinidānaṁ.
 
@@ -1908,7 +1908,7 @@ Dutiyaṁ.
 
 “Assutavā, bhikkhave, puthujjano rūpassa samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti. Vedanāya … saññāya … saṅkhārānaṁ … viññāṇassa samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti. Sutavā ca kho, bhikkhave, ariyasāvako rūpassa samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti. Vedanāya … saññāya …
 
-### 22.75 Dutiyasamudayasutta
+### 22.75 Dutiyasamudayasutta {#75}
 
 Sāvatthinidānaṁ.
 
@@ -1916,7 +1916,7 @@ Sāvatthinidānaṁ.
 
 Tatiyaṁ.
 
-### 22.76 Arahantasutta
+### 22.76 Arahantasutta {#76}
 
 Sāvatthinidānaṁ.
 
@@ -1954,7 +1954,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 > Asekhañāṇamuppannaṁ, antimoyaṁ samussayo; Yo sāro brahmacariyassa, tasmiṁ aparapaccayā.
 
-### 22.77 Dutiyaarahantasutta
+### 22.77 Dutiyaarahantasutta {#77}
 
 Sāvatthinidānaṁ.
 
@@ -1968,7 +1968,7 @@ Yāvatā, bhikkhave, sattāvāsā, yāvatā bhavaggaṁ, ete aggā, ete seṭṭ
 
 Pañcamaṁ.
 
-### 22.78 Sīhasutta
+### 22.78 Sīhasutta {#78}
 
 Sāvatthinidānaṁ.
 
@@ -1990,7 +1990,7 @@ Idamavoca bhagavā …pe… etadavoca satthā:
 
 Chaṭṭhaṁ.
 
-### 22.79 Khajjanīyasutta
+### 22.79 Khajjanīyasutta {#79}
 
 Sāvatthinidānaṁ.
 
@@ -2072,7 +2072,7 @@ Tatra, bhikkhave, sutavā ariyasāvako iti paṭisañcikkhati: ‘ahaṁ kho eta
 
 ahaṁ kho etarahi saṅkhārehi khajjāmi. Atītampāhaṁ addhānaṁ evameva saṅkhārehi khajjiṁ, seyyathāpi etarahi paccuppannehi saṅkhārehi khajjāmīti. Ahañceva kho pana anāgate saṅkhāre abhinandeyyaṁ; anāgatampāhaṁ addhānaṁ evameva saṅkhārehi khajjeyyaṁ, seyyathāpi etarahi paccuppannehi saṅkhārehi khajjāmī’ti. So iti paṭisaṅkhāya atītesu saṅkhāresu anapekkho hoti; anāgate saṅkhāre nābhinandati; paccuppannānaṁ saṅkhārānaṁ nibbidāya virāgāya nirodhāya paṭipanno hoti.
 
-### 22.80 Piṇḍolyasutta
+### 22.80 Piṇḍolyasutta {#80}
 
 Ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ nigrodhārāme.
 
@@ -2116,7 +2116,7 @@ Dvemā, bhikkhave, diṭṭhiyo—Tassa me assa upādānapaccayā bhavo; bhavapa
 
 bhavadiṭṭhi ca vibhavadiṭṭhi ca. Tatra kho, bhikkhave, sutavā ariyasāvako iti paṭisañcikkhati: ‘atthi nu kho taṁ kiñci lokasmiṁ yamahaṁ upādiyamāno na vajjavā assan’ti? So evaṁ pajānāti: ‘natthi nu kho taṁ kiñci lokasmiṁ yamahaṁ upādiyamāno na vajjavā assaṁ. Ahañhi rūpaññeva upādiyamāno upādiyeyyaṁ vedanaññeva … saññaññeva … saṅkhāreyeva viññāṇaññeva upādiyamāno upādiyeyyaṁ.
 
-### 22.81 Pālileyyasutta
+### 22.81 Pālileyyasutta {#81}
 
 Ekaṁ samayaṁ bhagavā kosambiyaṁ viharati ghositārāme.
 
@@ -2158,7 +2158,7 @@ api ca kho rūpasmiṁ attānaṁ samanupassati. Yā kho pana sā, bhikkhave, sa
 
 api ca kho vedanaṁ attato samanupassati, api ca kho vedanāvantaṁ attānaṁ samanupassati, api ca kho attani vedanaṁ samanupassati, api ca kho vedanāya attānaṁ samanupassati; api ca kho saññaṁ … api ca kho saṅkhāre attato samanupassati, api ca kho saṅkhāravantaṁ attānaṁ samanupassati, api ca kho attani saṅkhāre samanupassati, api ca kho saṅkhāresu attānaṁ samanupassati; api ca kho viññāṇaṁ attato samanupassati, api ca kho viññāṇavantaṁ attānaṁ, api ca kho attani viññāṇaṁ, api ca kho viññāṇasmiṁ attānaṁ samanupassati. Yā kho pana sā, bhikkhave, samanupassanā saṅkhāro so. So pana saṅkhāro kiṁnidāno …pe… kiṁpabhavo? Avijjāsamphassajena, bhikkhave, vedayitena phuṭṭhassa assutavato puthujjanassa uppannā taṇhā; tatojo so saṅkhāro.
 
-### 22.82 Puṇṇamasutta
+### 22.82 Puṇṇamasutta {#82}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde mahatā bhikkhusaṅghena saddhiṁ. Tena kho pana samayena bhagavā tadahuposathe pannarase puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto ajjhokāse nisinno hoti.
 
@@ -2262,7 +2262,7 @@ ko hetu ko paccayo vedanākkhandhassa paññāpanāya; ko hetu ko paccayo saññ
 
 “Sādhu, bhante”ti kho so bhikkhu …pe… apucchi:
 
-### 22.83 Ānandasutta
+### 22.83 Ānandasutta {#83}
 
 Sāvatthinidānaṁ.
 
@@ -2290,7 +2290,7 @@ rūpaṁ niccaṁ vā aniccaṁ vā’ti?
 
 Tasmātiha …pe…
 
-### 22.84 Tissasutta
+### 22.84 Tissasutta {#84}
 
 Sāvatthinidānaṁ.
 
@@ -2366,7 +2366,7 @@ Taṁ kiṁ maññasi, tissa, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 eko puriso amaggakusalo, eko puriso maggakusalo. Tamenaṁ so amaggakusalo puriso amuṁ maggakusalaṁ purisaṁ maggaṁ puccheyya. So evaṁ vadeyya: ‘ehi, bho purisa, ayaṁ maggo. Tena muhuttaṁ gaccha. Tena muhuttaṁ gantvā dakkhissasi dvedhāpathaṁ, tattha vāmaṁ muñcitvā dakkhiṇaṁ gaṇhāhi. Tena muhuttaṁ gaccha. Tena muhuttaṁ gantvā dakkhissasi tibbaṁ vanasaṇḍaṁ.
 
-### 22.85 Yamakasutta
+### 22.85 Yamakasutta {#85}
 
 Ekaṁ samayaṁ āyasmā sāriputto sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -2480,7 +2480,7 @@ rūpasmiṁ tathāgatoti samanupassasī”ti?
 
 “Vedanāya … aññatra vedanāya …pe… saññāya … aññatra saññāya …
 
-### 22.86 Anurādhasutta
+### 22.86 Anurādhasutta {#86}
 
 Ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tena kho pana samayena āyasmā anurādho bhagavato avidūre araññakuṭikāyaṁ viharati. Atha kho sambahulā aññatitthiyā paribbājakā yenāyasmā anurādho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anurādhena saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te aññatitthiyā paribbājakā āyasmantaṁ anurādhaṁ etadavocuṁ:
 
@@ -2556,7 +2556,7 @@ rūpasmiṁ tathāgatoti samanupassasī”ti?
 
 “Vedanāya …pe… aññatra vedanāya …pe… saññāya … aññatra saññāya …
 
-### 22.87 Vakkalisutta
+### 22.87 Vakkalisutta {#87}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -2674,7 +2674,7 @@ Viññāṇaṁ aniccaṁ. Tāhaṁ, bhante, na kaṅkhāmi. Yadaniccaṁ taṁ 
 
 “vakkali, bhante, bhikkhu ābādhiko dukkhito bāḷhagilāno; so bhagavato pāde sirasā vandati; evañca vadeti: ‘rūpaṁ aniccaṁ. Tāhaṁ, bhante, na kaṅkhāmi. Yadaniccaṁ taṁ dukkhanti na vicikicchāmi. Yadaniccaṁ dukkhaṁ vipariṇāmadhammaṁ, natthi me tattha chando vā rāgo vā pemaṁ vāti na vicikicchāmi. Vedanā …
 
-### 22.88 Assajisutta
+### 22.88 Assajisutta {#88}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. “assaji, bhante, bhikkhu ābādhiko …pe… sādhu kira, bhante, bhagavā yena assaji bhikkhu tenupasaṅkamatu anukampaṁ upādāyā”ti. Adhivāsesi bhagavā tuṇhībhāvena.
 
@@ -2720,7 +2720,7 @@ Evameva kho, assaji, bhikkhu kāyapariyantikaṁ vedanaṁ vedayamāno ‘kāyap
 
 Chaṭṭhaṁ.
 
-### 22.89 Khemakasutta
+### 22.89 Khemakasutta {#89}
 
 Ekaṁ samayaṁ sambahulā therā bhikkhū kosambiyaṁ viharanti ghositārāme. “Na me, āvuso, khamanīyaṁ na yāpanīyaṁ …pe… abhikkamosānaṁ paññāyati no paṭikkamo”ti.
 
@@ -2784,7 +2784,7 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 “yametaṁ, āvuso khemaka, ‘asmī’ti vadesi, kimetaṁ ‘asmī’ti vadesi? Rūpaṁ ‘asmī’ti vadesi, aññatra rūpā ‘asmī’ti vadesi? Vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ ‘asmī’ti vadesi, aññatra viññāṇā ‘asmī’ti vadesi? Yametaṁ, āvuso khemaka, ‘asmī’ti vadesi, kimetaṁ ‘asmī’ti vadesī”ti?
 
-### 22.90 Channasutta
+### 22.90 Channasutta {#90}
 
 Ekaṁ samayaṁ sambahulā therā bhikkhū bārāṇasiyaṁ viharanti isipatane migadāye.
 
@@ -2836,7 +2836,7 @@ taṁ cāyaṁ upayupādānaṁ cetaso adhiṭṭhānābhinivesānusayaṁ na up
 
 Ettāvatā kho, kaccāna, sammādiṭṭhi hoti.
 
-### 22.91 Rāhulasutta
+### 22.91 Rāhulasutta {#91}
 
 Sāvatthinidānaṁ.
 
@@ -2852,7 +2852,7 @@ Evaṁ kho, rāhula, jānato evaṁ passato imasmiñca saviññāṇake kāye ba
 
 Navamaṁ.
 
-### 22.92 Dutiyarāhulasutta
+### 22.92 Dutiyarāhulasutta {#92}
 
 Sāvatthinidānaṁ.
 
@@ -2874,7 +2874,7 @@ Tassuddānaṁ
 
 > Ānando tisso yamako, anurādho ca vakkali; Assaji khemako channo, rāhulā apare duve.
 
-### 22.93 Nadīsutta
+### 22.93 Nadīsutta {#93}
 
 Sāvatthinidānaṁ.
 
@@ -2898,7 +2898,7 @@ Evameva kho, bhikkhave, assutavā puthujjano ariyānaṁ adassāvī ariyadhammas
 
 rūpaṁ attato samanupassati, rūpavantaṁ vā attānaṁ; attani vā rūpaṁ, rūpasmiṁ vā attānaṁ. Tassa taṁ rūpaṁ palujjati. So tatonidānaṁ anayabyasanaṁ āpajjati. Vedanaṁ … saññaṁ … saṅkhāre …
 
-### 22.94 Pupphasutta
+### 22.94 Pupphasutta {#94}
 
 Sāvatthinidānaṁ.
 
@@ -2940,7 +2940,7 @@ Seyyathāpi, bhikkhave, uppalaṁ vā padumaṁ vā puṇḍarīkaṁ vā udake 
 
 Dutiyaṁ.
 
-### 22.95 Pheṇapiṇḍūpamasutta
+### 22.95 Pheṇapiṇḍūpamasutta {#95}
 
 Ekaṁ samayaṁ bhagavā ayujjhāyaṁ viharati gaṅgāya nadiyā tīre. Tatra kho bhagavā bhikkhū āmantesi:
 
@@ -2984,7 +2984,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 > “Pheṇapiṇḍūpamaṁ rūpaṁ, vedanā bubbuḷūpamā; Marīcikūpamā saññā, saṅkhārā kadalūpamā; Māyūpamañca viññāṇaṁ, desitādiccabandhunā.
 
-### 22.96 Gomayapiṇḍasutta
+### 22.96 Gomayapiṇḍasutta {#96}
 
 Sāvatthinidānaṁ.
 
@@ -3008,7 +3008,7 @@ Catutthaṁ.
 
 Tesaṁ kho pana, bhikkhu, caturāsītiyā pāsādasahassānaṁ ekoyeva so pāsādo hoti yamahaṁ tena samayena ajjhāvasāmi—dhammo pāsādo. Tesaṁ kho pana, bhikkhu, caturāsītiyā kūṭāgārasahassānaṁ ekaññeva taṁ kūṭāgāraṁ hoti yamahaṁ tena samayena ajjhāvasāmi—mahābyūhaṁ kūṭāgāraṁ. Tesaṁ kho pana, bhikkhu, caturāsītiyā pallaṅkasahassānaṁ ekoyeva so pallaṅko hoti yamahaṁ tena samayena paribhuñjāmi—dantamayo vā sāramayo vā sovaṇṇamayo vā rūpiyamayo vā. Tesaṁ kho pana, bhikkhu, caturāsītiyā nāgasahassānaṁ ekoyeva so nāgo hoti yamahaṁ tena samayena abhiruhāmi—uposatho nāgarājā. Tesaṁ kho pana, bhikkhu, caturāsītiyā assasahassānaṁ ekoyeva so asso hoti yamahaṁ tena samayena abhiruhāmi—valāhako assarājā. Tesaṁ kho pana, bhikkhu, caturāsītiyā rathasahassānaṁ ekoyeva so ratho hoti yamahaṁ tena samayena abhiruhāmi—vejayanto ratho. Tesaṁ kho pana, bhikkhu, caturāsītiyā itthisahassānaṁ ekāyeva sā itthī hoti yā maṁ tena samayena paccupaṭṭhāti—khattiyānī vā velāmikā vā. Tesaṁ kho pana, bhikkhu, caturāsītiyā vatthakoṭisahassānaṁ ekaññeva taṁ vatthayugaṁ hoti yamahaṁ tena samayena paridahāmi—khomasukhumaṁ vā koseyyasukhumaṁ vā kambalasukhumaṁ vā kappāsikasukhumaṁ vā.
 
-### 22.97 Nakhasikhāsutta
+### 22.97 Nakhasikhāsutta {#97}
 
 Sāvatthinidānaṁ.
 
@@ -3044,7 +3044,7 @@ rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 “tasmātiha …pe…
 
-### 22.98 Suddhikasutta
+### 22.98 Suddhikasutta {#98}
 
 Sāvatthinidānaṁ.
 
@@ -3058,7 +3058,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “Natthi kho, bhikkhu, kiñci rūpaṁ yaṁ rūpaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammaṁ sassatisamaṁ tatheva ṭhassati. Natthi kho, bhikkhu, kāci vedanā …
 
-### 22.99 Gaddulabaddhasutta
+### 22.99 Gaddulabaddhasutta {#99}
 
 Sāvatthinidānaṁ.
 
@@ -3078,7 +3078,7 @@ evameva kho, bhikkhave, assutavā puthujjano ariyānaṁ adassāvī …pe… sap
 
 na rūpaṁ attato samanupassati …pe… na vedanaṁ … na saññaṁ … na saṅkhāre … na viññāṇaṁ attato samanupassati, na viññāṇavantaṁ vā attānaṁ; na attani vā viññāṇaṁ, na viññāṇasmiṁ vā attānaṁ. So rūpaṁ nānuparidhāvati nānuparivattati, vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ nānuparidhāvati nānuparivattati. So rūpaṁ ananuparidhāvaṁ ananuparivattaṁ, vedanaṁ … saññaṁ … saṅkhāre … viññāṇaṁ ananuparidhāvaṁ ananuparivattaṁ; parimuccati rūpamhā, parimuccati vedanāya, parimuccati saññāya, parimuccati saṅkhārehi, parimuccati viññāṇamhā, parimuccati jātiyā jarāmaraṇena sokehi paridevehi dukkhehi domanassehi upāyāsehi. ‘Parimuccati dukkhasmā’ti vadāmī”ti.
 
-### 22.100 Dutiyagaddulabaddhasutta
+### 22.100 Dutiyagaddulabaddhasutta {#100}
 
 Sāvatthinidānaṁ.
 
@@ -3114,7 +3114,7 @@ Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 “Vedanā … saññā … saṅkhārā … viññāṇaṁ …pe…
 
-### 22.101 Vāsijaṭasutta
+### 22.101 Vāsijaṭasutta {#101}
 
 Sāvatthinidānaṁ.
 
@@ -3138,7 +3138,7 @@ Evameva kho, bhikkhave, bhāvanānuyogaṁ anuyuttassa bhikkhuno viharato kiñc�
 
 Navamaṁ.
 
-### 22.102 Aniccasaññāsutta
+### 22.102 Aniccasaññāsutta {#102}
 
 Sāvatthinidānaṁ.
 
@@ -3182,7 +3182,7 @@ Seyyathāpi, bhikkhave, ye keci pupphagandhā, vassikaṁ tesaṁ aggamakkhāyat
 
 Seyyathāpi, bhikkhave, ye keci kuṭṭarājāno, sabbete rañño cakkavattissa anuyantā bhavanti, rājā tesaṁ cakkavatti aggamakkhāyati; evameva kho, bhikkhave, aniccasaññā …pe… sabbaṁ asmimānaṁ samūhanati.
 
-### 22.103 Antasutta
+### 22.103 Antasutta {#103}
 
 Sāvatthinidānaṁ.
 
@@ -3196,7 +3196,7 @@ Katamo ca, bhikkhave, sakkāyanirodhagāminippaṭipadanto? Ayameva ariyo aṭ�
 
 Paṭhamaṁ.
 
-### 22.104 Dukkhasutta
+### 22.104 Dukkhasutta {#104}
 
 Sāvatthinidānaṁ.
 
@@ -3214,7 +3214,7 @@ Katamañca, bhikkhave, dukkhaṁ? Pañcupādānakkhandhātissa vacanīyaṁ. Kat
 
 Katamo ca, bhikkhave, dukkhasamudayo?
 
-### 22.105 Sakkāyasutta
+### 22.105 Sakkāyasutta {#105}
 
 Sāvatthinidānaṁ.
 
@@ -3232,7 +3232,7 @@ Katamo ca, bhikkhave, sakkāyo? Pañcupādānakkhandhātissa vacanīyaṁ. Katam
 
 Katamo ca, bhikkhave, sakkāyasamudayo?
 
-### 22.106 Pariññeyyasutta
+### 22.106 Pariññeyyasutta {#106}
 
 Sāvatthinidānaṁ.
 
@@ -3248,7 +3248,7 @@ Catutthaṁ.
 
 Katame ca, bhikkhave, pariññeyyā dhammā? Rūpaṁ, bhikkhave, pariññeyyo dhammo. Vedanā …pe… saññā … saṅkhārā … viññāṇaṁ pariññeyyo dhammo.
 
-### 22.107 Samaṇasutta
+### 22.107 Samaṇasutta {#107}
 
 Sāvatthinidānaṁ.
 
@@ -3260,7 +3260,7 @@ pajānanti, sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti.
 
 Pañcamaṁ.
 
-### 22.108 Dutiyasamaṇasutta
+### 22.108 Dutiyasamaṇasutta {#108}
 
 Sāvatthinidānaṁ.
 
@@ -3272,7 +3272,7 @@ pajānanti, sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti.
 
 Chaṭṭhaṁ.
 
-### 22.109 Sotāpannasutta
+### 22.109 Sotāpannasutta {#109}
 
 Sāvatthinidānaṁ.
 
@@ -3280,7 +3280,7 @@ Sāvatthinidānaṁ.
 
 Sattamaṁ.
 
-### 22.110 Arahantasutta
+### 22.110 Arahantasutta {#110}
 
 Sāvatthinidānaṁ.
 
@@ -3288,7 +3288,7 @@ Sāvatthinidānaṁ.
 
 Aṭṭhamaṁ.
 
-### 22.111 Chandappahānasutta
+### 22.111 Chandappahānasutta {#111}
 
 Sāvatthinidānaṁ.
 
@@ -3298,7 +3298,7 @@ Vedanāya …pe… saññāya … saṅkhāresu … viññāṇe yo chando yo r�
 
 Navamaṁ.
 
-### 22.112 Dutiyachandappahānasutta
+### 22.112 Dutiyachandappahānasutta {#112}
 
 Sāvatthinidānaṁ.
 
@@ -3314,7 +3314,7 @@ Tassuddānaṁ
 
 > Anto dukkhañca sakkāyo, pariññeyyā samaṇā duve; Sotāpanno arahā ca, duve ca chandappahānāti.
 
-### 22.113 Avijjāsutta
+### 22.113 Avijjāsutta {#113}
 
 Sāvatthinidānaṁ.
 
@@ -3330,7 +3330,7 @@ Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ekamantaṁ n
 
 “Idha, bhikkhu, assutavā puthujjano rūpaṁ nappajānāti, rūpasamudayaṁ nappajānāti, rūpanirodhaṁ nappajānāti, rūpanirodhagāminiṁ paṭipadaṁ nappajānāti; vedanaṁ nappajānāti … saññaṁ …
 
-### 22.114 Vijjāsutta
+### 22.114 Vijjāsutta {#114}
 
 Sāvatthinidānaṁ.
 
@@ -3346,7 +3346,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “Idha, bhikkhu, sutavā ariyasāvako rūpaṁ pajānāti, rūpasamudayaṁ … rūpanirodhaṁ … rūpanirodhagāminiṁ paṭipadaṁ pajānāti. Vedanaṁ … saññaṁ … saṅkhāre pajānāti …pe…
 
-### 22.115 Dhammakathikasutta
+### 22.115 Dhammakathikasutta {#115}
 
 Sāvatthinidānaṁ.
 
@@ -3370,7 +3370,7 @@ Rūpassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭ
 
 Vedanāya ce, bhikkhu …pe… saññāya ce, bhikkhu …
 
-### 22.116 Dutiyadhammakathikasutta
+### 22.116 Dutiyadhammakathikasutta {#116}
 
 Sāvatthinidānaṁ.
 
@@ -3394,7 +3394,7 @@ Rūpassa ce, bhikkhu, nibbidā virāgā nirodhā anupādāvimutto hoti, ‘diṭ
 
 Vedanāya ce, bhikkhu …pe…
 
-### 22.117 Bandhanasutta
+### 22.117 Bandhanasutta {#117}
 
 Sāvatthinidānaṁ.
 
@@ -3408,7 +3408,7 @@ Na vedanaṁ attato …pe… na saññaṁ attato …pe… na saṅkhāre attato
 
 Pañcamaṁ.
 
-### 22.118 Paripucchitasutta
+### 22.118 Paripucchitasutta {#118}
 
 Sāvatthinidānaṁ.
 
@@ -3428,7 +3428,7 @@ Chaṭṭhaṁ.
 
 “Sādhu, bhikkhave. Rūpaṁ, bhikkhave, ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Vedanaṁ … saññaṁ … saṅkhāre …
 
-### 22.119 Dutiyaparipucchitasutta
+### 22.119 Dutiyaparipucchitasutta {#119}
 
 Sāvatthinidānaṁ.
 
@@ -3448,7 +3448,7 @@ Sattamaṁ.
 
 “Sādhu, bhikkhave. Rūpaṁ, bhikkhave, ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ. Vedanaṁ … saññaṁ … saṅkhāre …
 
-### 22.120 Saṁyojaniyasutta
+### 22.120 Saṁyojaniyasutta {#120}
 
 Sāvatthinidānaṁ.
 
@@ -3470,7 +3470,7 @@ saññā …
 
 saṅkhārā …
 
-### 22.121 Upādāniyasutta
+### 22.121 Upādāniyasutta {#121}
 
 Sāvatthinidānaṁ.
 
@@ -3492,7 +3492,7 @@ saññā …
 
 saṅkhārā …
 
-### 22.122 Sīlavantasutta
+### 22.122 Sīlavantasutta {#122}
 
 Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca mahākoṭṭhiko bārāṇasiyaṁ viharanti isipatane migadāye. Atha kho āyasmā mahākoṭṭhiko sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā sāriputto tenupasaṅkami …pe… etadavoca:
 
@@ -3518,7 +3518,7 @@ Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca mahākoṭṭhiko bārāṇa
 
 Dasamaṁ.
 
-### 22.123 Sutavantasutta
+### 22.123 Sutavantasutta {#123}
 
 Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca mahākoṭṭhiko bārāṇasiyaṁ viharanti isipatane migadāye. Atha kho āyasmā mahākoṭṭhiko sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā …pe… etadavoca:
 
@@ -3536,7 +3536,7 @@ Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca mahākoṭṭhiko bārāṇa
 
 Ekādasamaṁ.
 
-### 22.124 Kappasutta
+### 22.124 Kappasutta {#124}
 
 Sāvatthinidānaṁ.
 
@@ -3552,7 +3552,7 @@ Evaṁ kho, kappa, jānato evaṁ passato imasmiñca saviññāṇake kāye bahi
 
 Dvādasamaṁ.
 
-### 22.125 Dutiyakappasutta
+### 22.125 Dutiyakappasutta {#125}
 
 Sāvatthinidānaṁ.
 
@@ -3574,7 +3574,7 @@ Tassuddānaṁ
 
 > Avijjā vijjā dve kathikā, Bandhanā paripucchitā duve; Saṁyojanaṁ upādānaṁ, Sīlaṁ sutavā dve ca kappenāti.
 
-### 22.126 Samudayadhammasutta
+### 22.126 Samudayadhammasutta {#126}
 
 Sāvatthinidānaṁ.
 
@@ -3602,7 +3602,7 @@ vayadhammaṁ rūpaṁ ‘vayadhammaṁ rūpan’ti yathābhūtaṁ pajānāti; 
 
 Samudayadhammaṁ vedanaṁ ‘samudayadhammā vedanā’ti yathābhūtaṁ pajānāti; vayadhammaṁ vedanaṁ ‘vayadhammā vedanā’ti yathābhūtaṁ pajānāti; samudayavayadhammaṁ vedanaṁ ‘samudayavayadhammā vedanā’ti yathābhūtaṁ pajānāti. Samudayadhammaṁ saññaṁ … samudayadhamme saṅkhāre ‘samudayadhammā saṅkhārā’ti yathābhūtaṁ pajānāti; vayadhamme saṅkhāre ‘vayadhammā saṅkhārā’ti yathābhūtaṁ pajānāti;
 
-### 22.127 Dutiyasamudayadhammasutta
+### 22.127 Dutiyasamudayadhammasutta {#127}
 
 Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca mahākoṭṭhiko bārāṇasiyaṁ viharanti isipatane migadāye.
 
@@ -3618,7 +3618,7 @@ Ayaṁ vuccati, āvuso, avijjā; ettāvatā ca avijjāgato hotī”ti.
 
 Dutiyaṁ.
 
-### 22.128 Tatiyasamudayadhammasutta
+### 22.128 Tatiyasamudayadhammasutta {#128}
 
 Ekaṁ samayaṁ āyasmā ca sāriputto āyasmā ca mahākoṭṭhiko bārāṇasiyaṁ viharanti isipatane migadāye …pe…
 
@@ -3634,7 +3634,7 @@ Ayaṁ vuccatāvuso, vijjā; ettāvatā ca vijjāgato hotī”ti.
 
 Tatiyaṁ.
 
-### 22.129 Assādasutta
+### 22.129 Assādasutta {#129}
 
 Bārāṇasiyaṁ viharanti isipatane migadāye …pe… ekamantaṁ nisinno kho āyasmā mahākoṭṭhiko āyasmantaṁ sāriputtaṁ etadavoca:
 
@@ -3646,7 +3646,7 @@ Ayaṁ vuccatāvuso, avijjā; ettāvatā ca avijjāgato hotī”ti.
 
 Catutthaṁ.
 
-### 22.130 Dutiyaassādasutta
+### 22.130 Dutiyaassādasutta {#130}
 
 Bārāṇasiyaṁ viharanti isipatane migadāye …pe…
 
@@ -3658,7 +3658,7 @@ Ayaṁ vuccatāvuso, vijjā; ettāvatā ca vijjāgato hotī”ti.
 
 Pañcamaṁ.
 
-### 22.131 Samudayasutta
+### 22.131 Samudayasutta {#131}
 
 Bārāṇasiyaṁ viharanti isipatane migadāye …pe…
 
@@ -3670,7 +3670,7 @@ Ayaṁ vuccatāvuso, avijjā; ettāvatā ca avijjāgato hotī”ti.
 
 Chaṭṭhaṁ.
 
-### 22.132 Dutiyasamudayasutta
+### 22.132 Dutiyasamudayasutta {#132}
 
 Bārāṇasiyaṁ viharanti isipatane migadāye …pe… ekamantaṁ nisinno kho āyasmā mahākoṭṭhiko āyasmantaṁ sāriputtaṁ etadavoca:
 
@@ -3682,7 +3682,7 @@ Ayaṁ vuccatāvuso, vijjā; ettāvatā ca vijjāgato hotī”ti.
 
 Sattamaṁ.
 
-### 22.133 Koṭṭhikasutta
+### 22.133 Koṭṭhikasutta {#133}
 
 Bārāṇasiyaṁ viharanti isipatane migadāye. Atha kho āyasmā sāriputto sāyanhasamayaṁ …pe… ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ mahākoṭṭhikaṁ etadavoca:
 
@@ -3702,7 +3702,7 @@ Ayaṁ vuccatāvuso, vijjā; ettāvatā ca vijjāgato hotī”ti.
 
 Aṭṭhamaṁ.
 
-### 22.134 Dutiyakoṭṭhikasutta
+### 22.134 Dutiyakoṭṭhikasutta {#134}
 
 Bārāṇasiyaṁ viharanti isipatane migadāye …pe…
 
@@ -3722,7 +3722,7 @@ Ayaṁ vuccatāvuso, vijjā; ettāvatā ca vijjāgato hotī”ti.
 
 Navamaṁ.
 
-### 22.135 Tatiyakoṭṭhikasutta
+### 22.135 Tatiyakoṭṭhikasutta {#135}
 
 Taññeva nidānaṁ. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ mahākoṭṭhikaṁ etadavoca:
 
@@ -3748,7 +3748,7 @@ Tassuddānaṁ
 
 > Samudayadhamme tīṇi, assādo apare duve; Samudaye ca dve vuttā, koṭṭhike apare tayoti.
 
-### 22.136 Kukkuḷasutta
+### 22.136 Kukkuḷasutta {#136}
 
 Sāvatthinidānaṁ.
 
@@ -3760,7 +3760,7 @@ Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanā
 
 Paṭhamaṁ.
 
-### 22.137 Aniccasutta
+### 22.137 Aniccasutta {#137}
 
 Sāvatthinidānaṁ.
 
@@ -3780,7 +3780,7 @@ viññāṇaṁ aniccaṁ; tatra vo chando pahātabbo.
 
 Yaṁ, bhikkhave, aniccaṁ; tatra vo chando pahātabbo”ti.
 
-### 22.138 Dutiyaaniccasutta
+### 22.138 Dutiyaaniccasutta {#138}
 
 Sāvatthinidānaṁ.
 
@@ -3800,7 +3800,7 @@ viññāṇaṁ aniccaṁ; tatra vo rāgo pahātabbo.
 
 Yaṁ, bhikkhave, aniccaṁ; tatra vo rāgo pahātabbo”ti.
 
-### 22.139 Tatiyaaniccasutta
+### 22.139 Tatiyaaniccasutta {#139}
 
 Sāvatthinidānaṁ.
 
@@ -3820,7 +3820,7 @@ viññāṇaṁ aniccaṁ; tatra vo chandarāgo pahātabbo.
 
 Yaṁ, bhikkhave, aniccaṁ; tatra vo chandarāgo pahātabbo”ti.
 
-### 22.140 Dukkhasutta
+### 22.140 Dukkhasutta {#140}
 
 Sāvatthinidānaṁ.
 
@@ -3828,7 +3828,7 @@ Sāvatthinidānaṁ.
 
 Pañcamaṁ.
 
-### 22.141 Dutiyadukkhasutta
+### 22.141 Dutiyadukkhasutta {#141}
 
 Sāvatthinidānaṁ.
 
@@ -3836,7 +3836,7 @@ Sāvatthinidānaṁ.
 
 Chaṭṭhaṁ.
 
-### 22.142 Tatiyadukkhasutta
+### 22.142 Tatiyadukkhasutta {#142}
 
 Sāvatthinidānaṁ.
 
@@ -3844,7 +3844,7 @@ Sāvatthinidānaṁ.
 
 Sattamaṁ.
 
-### 22.143 Anattasutta
+### 22.143 Anattasutta {#143}
 
 Sāvatthinidānaṁ.
 
@@ -3852,7 +3852,7 @@ Aṭṭhamaṁ.
 
 “Yo, bhikkhave, anattā; tatra vo chando pahātabbo. Ko ca, bhikkhave, anattā? Rūpaṁ, bhikkhave, anattā; tatra vo chando pahātabbo. Vedanā anattā … saññā … saṅkhārā … viññāṇaṁ anattā; tatra vo chando pahātabbo. Yo, bhikkhave, anattā; tatra vo chando pahātabbo”ti.
 
-### 22.144 Dutiyaanattasutta
+### 22.144 Dutiyaanattasutta {#144}
 
 Sāvatthinidānaṁ.
 
@@ -3860,7 +3860,7 @@ Navamaṁ.
 
 “Yo, bhikkhave, anattā; tatra vo rāgo pahātabbo. Ko ca, bhikkhave, anattā? Rūpaṁ, bhikkhave, anattā; tatra vo rāgo pahātabbo. Vedanā anattā … saññā … saṅkhārā … viññāṇaṁ anattā; tatra vo rāgo pahātabbo. Yo, bhikkhave, anattā; tatra vo rāgo pahātabbo”ti.
 
-### 22.145 Tatiyaanattasutta
+### 22.145 Tatiyaanattasutta {#145}
 
 Sāvatthinidānaṁ.
 
@@ -3868,7 +3868,7 @@ Dasamaṁ.
 
 “Yo, bhikkhave, anattā; tatra vo chandarāgo pahātabbo. Ko ca, bhikkhave, anattā? Rūpaṁ, bhikkhave, anattā; tatra vo chandarāgo pahātabbo. Vedanā anattā … saññā … saṅkhārā … viññāṇaṁ anattā; tatra vo chandarāgo pahātabbo. Yo, bhikkhave, anattā; tatra vo chandarāgo pahātabbo”ti.
 
-### 22.146 Nibbidābahulasutta
+### 22.146 Nibbidābahulasutta {#146}
 
 Sāvatthinidānaṁ.
 
@@ -3876,7 +3876,7 @@ Sāvatthinidānaṁ.
 
 Ekādasamaṁ.
 
-### 22.147 Aniccānupassīsutta
+### 22.147 Aniccānupassīsutta {#147}
 
 Sāvatthinidānaṁ.
 
@@ -3884,7 +3884,7 @@ Sāvatthinidānaṁ.
 
 Dvādasamaṁ.
 
-### 22.148 Dukkhānupassīsutta
+### 22.148 Dukkhānupassīsutta {#148}
 
 Sāvatthinidānaṁ.
 
@@ -3892,7 +3892,7 @@ Sāvatthinidānaṁ.
 
 Terasamaṁ.
 
-### 22.149 Anattānupassīsutta
+### 22.149 Anattānupassīsutta {#149}
 
 Sāvatthinidānaṁ.
 
@@ -3906,7 +3906,7 @@ Kukkuḷavaggo catuttho.
 
 > Kukkuḷā tayo aniccena, dukkhena apare tayo; Anattena tayo vuttā, kulaputtena dve dukāti.
 
-### 22.150 Ajjhattasutta
+### 22.150 Ajjhattasutta {#150}
 
 Sāvatthinidānaṁ.
 
@@ -3946,7 +3946,7 @@ Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
 Taṁ kiṁ maññatha, bhikkhave,
 
-### 22.151 Etaṁmamasutta
+### 22.151 Etaṁmamasutta {#151}
 
 Sāvatthinidānaṁ.
 
@@ -3976,7 +3976,7 @@ Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
 Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
-### 22.152 Soattāsutta
+### 22.152 Soattāsutta {#152}
 
 Sāvatthinidānaṁ.
 
@@ -4016,7 +4016,7 @@ Tatiyaṁ.
 
 “Vedanā …
 
-### 22.153 Nocamesiyāsutta
+### 22.153 Nocamesiyāsutta {#153}
 
 Sāvatthinidānaṁ.
 
@@ -4056,7 +4056,7 @@ Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
 “rūpe kho, bhikkhave, sati, rūpaṁ upādāya, rūpaṁ abhinivissa evaṁ diṭṭhi uppajjati: ‘no cassaṁ, no ca me siyā, nābhavissa, na me bhavissatī’ti. Vedanāya sati … saññāya sati … saṅkhāresu sati …
 
-### 22.154 Micchādiṭṭhisutta
+### 22.154 Micchādiṭṭhisutta {#154}
 
 Sāvatthinidānaṁ.
 
@@ -4092,7 +4092,7 @@ Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
 Taṁ kiṁ maññatha, bhikkhave,
 
-### 22.155 Sakkāyadiṭṭhisutta
+### 22.155 Sakkāyadiṭṭhisutta {#155}
 
 Sāvatthinidānaṁ.
 
@@ -4124,7 +4124,7 @@ Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
 Taṁ kiṁ maññatha, bhikkhave,
 
-### 22.156 Attānudiṭṭhisutta
+### 22.156 Attānudiṭṭhisutta {#156}
 
 Sāvatthinidānaṁ.
 
@@ -4156,7 +4156,7 @@ Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
 Taṁ kiṁ maññatha, bhikkhave,
 
-### 22.157 Abhinivesasutta
+### 22.157 Abhinivesasutta {#157}
 
 Sāvatthinidānaṁ.
 
@@ -4180,7 +4180,7 @@ Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
 Taṁ kiṁ maññatha, bhikkhave,
 
-### 22.158 Dutiyaabhinivesasutta
+### 22.158 Dutiyaabhinivesasutta {#158}
 
 Sāvatthinidānaṁ.
 
@@ -4204,7 +4204,7 @@ Bhagavaṁmūlakā no, bhante, dhammā …pe…
 
 Taṁ kiṁ maññatha, bhikkhave,
 
-### 22.159 Ānandasutta
+### 22.159 Ānandasutta {#159}
 
 Sāvatthinidānaṁ.
 

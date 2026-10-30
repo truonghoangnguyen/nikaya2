@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 31.1
 
-### 31.1 Suddhikasutta
+### 31.1 Suddhikasutta {#1}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme …pe… Santi, bhikkhave, papaṭikagandhe adhivatthā devā. Santi, bhikkhave, pattagandhe adhivatthā devā. Santi, bhikkhave, pupphagandhe adhivatthā devā. Santi, bhikkhave, phalagandhe adhivatthā devā. Santi, bhikkhave, rasagandhe adhivatthā devā. Santi, bhikkhave, gandhagandhe adhivatthā devā. Ime vuccanti, bhikkhave, gandhabbakāyikā devā”ti.
 
@@ -14,7 +14,7 @@ bhagavā etadavoca:
 
 Katamā ca, bhikkhave, gandhabbakāyikā devā? Santi, bhikkhave, mūlagandhe adhivatthā devā. Santi, bhikkhave, sāragandhe adhivatthā devā. Santi, bhikkhave, pheggugandhe adhivatthā devā. Santi, bhikkhave, tacagandhe adhivatthā devā.
 
-### 31.2 Sucaritasutta
+### 31.2 Sucaritasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -28,7 +28,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “Idha, bhikkhu, ekacco kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. Tassa sutaṁ hoti: ‘gandhabbakāyikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā gandhabbakāyikānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So kāyassa bhedā paraṁ maraṇā gandhabbakāyikānaṁ devānaṁ sahabyataṁ upapajjati.
 
-### 31.3 Mūlagandhadātāsutta
+### 31.3 Mūlagandhadātāsutta {#3}
 
 Sāvatthinidānaṁ.
 

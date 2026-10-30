@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 16.1
 
-### 16.1 Santuṭṭhasutta
+### 16.1 Santuṭṭhasutta {#1}
 
 Sāvatthiyaṁ viharati.
 
@@ -22,7 +22,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘santuṭṭhā bhavissāma itar
 
 Paṭhamaṁ.
 
-### 16.2 Anottappīsutta
+### 16.2 Anottappīsutta {#2}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā ca mahākassapo āyasmā ca sāriputto bārāṇasiyaṁ viharanti isipatane migadāye.
 
@@ -42,7 +42,7 @@ Kathañcāvuso, ottappī hoti? Idhāvuso, bhikkhu ‘anuppannā me pāpakā akus
 
 Dutiyaṁ.
 
-### 16.3 Candūpamāsutta
+### 16.3 Candūpamāsutta {#3}
 
 Sāvatthiyaṁ viharati.
 
@@ -78,7 +78,7 @@ Iti dhammasudhammataṁ paṭicca paresaṁ dhammaṁ deseti, kāruññaṁ pa�
 
 Tatiyaṁ.
 
-### 16.4 Kulūpakasutta
+### 16.4 Kulūpakasutta {#4}
 
 Sāvatthiyaṁ viharati.
 
@@ -100,7 +100,7 @@ Catutthaṁ.
 
 dentuyeva me, mā nādaṁsu; bahukaññeva me dentu, mā thokaṁ; paṇītaññeva me dentu, mā lūkhaṁ; sīghaññeva me dentu, mā dandhaṁ; sakkaccaññeva me dentu, mā asakkaccan’ti. Tassa ce, bhikkhave, kassapassa evaṁcittassa kulāni upasaṅkamato na denti; tena kassapo na sandīyati; so na tatonidānaṁ dukkhaṁ domanassaṁ paṭisaṁvedayati. Thokaṁ denti, no bahukaṁ; tena kassapo na sandīyati; so na tatonidānaṁ dukkhaṁ domanassaṁ paṭisaṁvedayati.
 
-### 16.5 Jiṇṇasutta
+### 16.5 Jiṇṇasutta {#5}
 
 Evaṁ me sutaṁ … rājagahe veḷuvane. Atha kho āyasmā mahākassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ mahākassapaṁ bhagavā etadavoca:
 
@@ -120,7 +120,7 @@ Attano ca diṭṭhadhammasukhavihāraṁ sampassamāno, pacchimañca janataṁ 
 
 Pañcamaṁ.
 
-### 16.6 Ovādasutta
+### 16.6 Ovādasutta {#6}
 
 Rājagahe veḷuvane. Atha kho āyasmā mahākassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ mahākassapaṁ bhagavā etadavoca:
 
@@ -152,7 +152,7 @@ Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi: “ehi tvaṁ, bhikkhu, ma
 
 Chaṭṭhaṁ.
 
-### 16.7 Dutiyaovādasutta
+### 16.7 Dutiyaovādasutta {#7}
 
 Rājagahe viharati veḷuvane. Atha kho āyasmā mahākassapo yena bhagavā tenupasaṅkami …pe…
 
@@ -194,7 +194,7 @@ hāyati ārohapariṇāhena.
 
 Evameva kho, kassapa, yassa kassaci saddhā natthi kusalesu dhammesu …pe… hirī natthi … ottappaṁ natthi … vīriyaṁ natthi … paññā natthi kusalesu dhammesu tassa yā ratti vā divaso vā āgacchati, hāniyeva pāṭikaṅkhā kusalesu dhammesu, no vuddhi. ‘Assaddho purisapuggalo’ti, kassapa, parihānametaṁ; ahiriko …pe…
 
-### 16.8 Tatiyaovādasutta
+### 16.8 Tatiyaovādasutta {#8}
 
 Rājagahe kalandakanivāpe. Atha kho āyasmā mahākassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ mahākassapaṁ bhagavā etadavoca:
 
@@ -216,7 +216,7 @@ Tatra, kassapa, navānaṁ bhikkhūnaṁ evaṁ hoti: ‘yo kira so hoti bhikkhu
 
 Aṭṭhamaṁ.
 
-### 16.9 Jhānābhiññasutta
+### 16.9 Jhānābhiññasutta {#9}
 
 Sāvatthiyaṁ viharati.
 
@@ -252,7 +252,7 @@ Ahaṁ, bhikkhave, yāvade ākaṅkhāmi sabbaso ākiñcaññāyatanaṁ samatik
 
 Ahaṁ, bhikkhave, yāvade ākaṅkhāmi sabbaso nevasaññānāsaññāyatanaṁ samatikkamma saññāvedayitanirodhaṁ upasampajja viharāmi. Kassapopi, bhikkhave …pe… saññāvedayitanirodhaṁ upasampajja viharati.
 
-### 16.10 Upassayasutta
+### 16.10 Upassayasutta {#10}
 
 Evaṁ me sutaṁ—“āyāma, bhante kassapa, yena aññataro bhikkhunupassayo tenupasaṅkamissāmā”ti.
 
@@ -292,7 +292,7 @@ Taṁ kiṁ maññasi, āvuso ānanda, api nu tvaṁ bhagavato sammukhā bhikkhu
 
 Sattaratanaṁ vā, āvuso, nāgaṁ aḍḍhaṭṭhamaratanaṁ vā tālapattikāya chādetabbaṁ maññeyya, yo me cha abhiññā chādetabbaṁ maññeyyā”ti.
 
-### 16.11 Cīvarasutta
+### 16.11 Cīvarasutta {#11}
 
 Ekaṁ samayaṁ āyasmā mahākassapo rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena āyasmā ānando dakkhiṇagirismiṁ cārikaṁ carati mahatā bhikkhusaṅghena saddhiṁ.
 
@@ -360,7 +360,7 @@ Disvāna me etadahosi: ‘satthārañca vatāhaṁ passeyyaṁ, bhagavantameva p
 
 So khvāhaṁ, āvuso, tattheva bhagavato pādesu sirasā nipatitvā bhagavantaṁ etadavocaṁ: ‘satthā me, bhante, bhagavā, sāvakohamasmi; satthā me, bhante, bhagavā, sāvakohamasmī’ti.
 
-### 16.12 Paraṁmaraṇasutta
+### 16.12 Paraṁmaraṇasutta {#12}
 
 Ekaṁ samayaṁ āyasmā ca mahākassapo āyasmā ca sāriputto bārāṇasiyaṁ viharanti isipatane migadāye.
 
@@ -394,7 +394,7 @@ Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yen�
 
 Dvādasamaṁ.
 
-### 16.13 Saddhammappatirūpakasutta
+### 16.13 Saddhammappatirūpakasutta {#13}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmā mahākassapo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā mahākassapo bhagavantaṁ etadavoca:
 

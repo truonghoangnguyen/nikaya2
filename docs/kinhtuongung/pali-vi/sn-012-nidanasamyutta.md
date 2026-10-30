@@ -5,7 +5,7 @@
 ## Saṁyutta Nikāya 12.1
 
 
-### 12.1 Kinh Sự Sinh Ra Qua Quan Hệ Phụ Thuộc
+### 12.1 Kinh Sự Sinh Ra Qua Quan Hệ Phụ Thuộc {#1}
 *(Paṭiccasamuppādasutta)*
 
 Tôi nghe như vầy—Đức Thế Tôn đã nói điều này:
@@ -29,7 +29,7 @@ Kinh thứ nhất.
 *(Phần bổ sung của văn bản gốc)*: do *hoạt động* *bị chặn*, *'Cái Biết'* *bị chặn*; do *'Cái Biết'* *bị chặn*, *Danh–sắc* *bị chặn*; do *Danh–sắc* *bị chặn*, *sáu Trường giao tiếp* *bị chặn*; do *sáu Trường giao tiếp* *bị chặn*, *Xúc* *bị chặn*; do *Xúc* *bị chặn*, *cảm giác* *bị chặn*; do *cảm giác* *bị chặn*, *sự thèm khát* *bị chặn*; do *sự thèm khát* *bị chặn*, *sự bám giữ* *bị chặn*; do *sự bám giữ* *bị chặn*, *lực tồn tại* *bị chặn*;
 
 <!--pg-->
-### 12.2 Kinh Phân Tích Chi Tiết
+### 12.2 Kinh Phân Tích Chi Tiết {#2}
 *(Vibhaṅgasutta)*
 
 Trú tại Sāvatthī.
@@ -71,7 +71,7 @@ Này các tỳ kheo, thế nào là *cảm giác*? Này các tỳ kheo, có sáu
 Này các tỳ kheo, thế nào là *Xúc*? Này các tỳ kheo, có sáu nhóm *Xúc*: Xúc ở mắt, Xúc ở tai, Xúc ở mũi, Xúc ở lưỡi, Xúc ở cơ thể, Xúc ở trí não. Này các tỳ kheo, đây được gọi là *Xúc*.
 
 <!--pg-->
-### 12.3 Kinh Con Đường
+### 12.3 Kinh Con Đường {#3}
 *(Paṭipadāsutta)*
 
 Trú tại Sāvatthī [...lặp lại...]
@@ -89,7 +89,7 @@ Này các tỳ kheo, thế nào là con đường đúng đắn? Do *chặn sạ
 Kinh thứ ba.
 
 <!--pg-->
-### 12.4 Kinh Vipassī
+### 12.4 Kinh Vipassī {#4}
 *(Vipassīsutta)*
 
 Trú tại Sāvatthī [...lặp lại...]
@@ -122,18 +122,18 @@ Kinh thứ tư.
 *(Lưu ý: Các kinh từ 12.5 đến 12.10 lặp lại y hệt cấu trúc của kinh 12.4 cho 6 vị Phật quá khứ khác và Đức Phật Gotama, do giới hạn không gian, tôi tiến thẳng đến các bài kinh mang tính tranh luận tâm lý học quan trọng tiếp theo).*
 
 ### 12.5 
-<!--pg-->
+<!--pg--> {#5}
 ### 12.6
-<!--pg-->
+<!--pg--> {#6}
 ### 12.7
-<!--pg-->
+<!--pg--> {#7}
 ### 12.8
-<!--pg-->
+<!--pg--> {#8}
 ### 12.9
-<!--pg-->
+<!--pg--> {#9}
 ### 12.10
-<!--pg-->
-### 12.11 Kinh Thức Ăn
+<!--pg--> {#10}
+### 12.11 Kinh Thức Ăn {#11}
 *(Āhārasutta)*
 
 Tôi nghe như vầy—một thời Đức Thế Tôn trú tại Sāvatthī, trong rừng Jeta, tu viện của Anāthapiṇḍika...
@@ -149,7 +149,7 @@ Như vậy, này các tỳ kheo, *Phụ thuộc* vào *Không Hiểu Biết*, *h
 Kinh thứ nhất (của phẩm thứ hai).
 
 <!--pg-->
-### 12.12 Kinh Moḷiyaphagguna
+### 12.12 Kinh Moḷiyaphagguna {#12}
 *(Moḷiyaphaggunasutta)*
 
 Trú tại Sāvatthī.
@@ -185,7 +185,7 @@ Khi được nói như vậy, Tôn giả Moḷiyaphagguna nói với Đức Th�
 Nhưng này Phagguna, do *chặn sạch hết đắm nhiễm* hoàn toàn đối với chính sáu trường của *Xúc* này, *Xúc* *bị chặn*; do *Xúc* *bị chặn*, *cảm giác* *bị chặn*; do *cảm giác* *bị chặn*, *sự thèm khát* *bị chặn*; do *sự thèm khát* *bị chặn*, *sự bám giữ* *bị chặn*; do *sự bám giữ* *bị chặn*, *lực tồn tại* *bị chặn*; do *lực tồn tại* *bị chặn*, *sự Tái sinh* *bị chặn*; do *sự Tái sinh* *bị chặn*, *già-chết*, *đau buồn*, *than vãn*, *đau khổ*, *ưu phiền*, và *tuyệt vọng* *chấm dứt*. Như vậy là sự *chấm dứt* của toàn bộ khối *đau khổ* này."
 
 <!--pg-->
-### 12.13 Kinh Sa-môn Và Bà-la-môn
+### 12.13 Kinh Sa-môn Và Bà-la-môn {#13}
 *(Samaṇabrāhmaṇasutta)*
 
 Trú tại Sāvatthī.
@@ -201,7 +201,7 @@ Kinh thứ ba.
 *sự Tái sinh* [...lặp lại...] *lực tồn tại*... *sự bám giữ*... *sự thèm khát*... *cảm giác*... *Xúc*... *sáu Trường giao tiếp*... *Danh–sắc*...
 
 <!--pg-->
-### 12.14 Kinh Sa-môn Và Bà-la-môn Thứ Hai
+### 12.14 Kinh Sa-môn Và Bà-la-môn Thứ Hai {#14}
 *(Dutiyasamaṇabrāhmaṇasutta)*
 
 Trú tại Sāvatthī.
@@ -221,7 +221,7 @@ Kinh thứ tư.
 *sự Tái sinh* [...lặp lại...] *lực tồn tại*... *sự bám giữ*... *sự thèm khát*... *cảm giác*... *Xúc*... *sáu Trường giao tiếp*... *Danh–sắc*...
 
 <!--pg-->
-### 12.15 Kinh Kaccānagotta
+### 12.15 Kinh Kaccānagotta {#15}
 *(Kaccānagottasutta)*
 
 Trú tại Sāvatthī.
@@ -253,7 +253,7 @@ Này Kaccāna, từ bỏ cả hai cực đoan ấy, Như Lai thuyết giảng *Q
 Nhưng do *chặn sạch hết đắm nhiễm* (ly tham diệt / asesavirāganirodhā) hoàn toàn đối với chính *Không Hiểu Biết* này, *hoạt động* *bị chặn*; do *hoạt động* *bị chặn*, *'Cái Biết'* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ khối *đau khổ* này.'"
 
 <!--pg-->
-### 12.16 Kinh Người Thuyết Giảng Quy Luật
+### 12.16 Kinh Người Thuyết Giảng Quy Luật {#16}
 *(Dhammakathikasutta)*
 
 Tại Sāvatthī...
@@ -271,7 +271,7 @@ Kinh thứ sáu.
 này tỳ kheo, nếu đối với *lực tồn tại*... này tỳ kheo, nếu đối với *sự bám giữ*... này tỳ kheo, nếu đối với *sự thèm khát*... này tỳ kheo, nếu đối với *cảm giác*... này tỳ kheo, nếu đối với *Xúc*... này tỳ kheo, nếu đối với *sáu Trường giao tiếp*... này tỳ kheo, nếu đối với *Danh–sắc*... này tỳ kheo, nếu đối với *'Cái Biết'*...
 
 <!--pg-->
-### 12.17 Kinh Acelakassapa
+### 12.17 Kinh Acelakassapa {#17}
 *(Acelakassapasutta)*
 
 Tôi nghe như vầy—một thời Đức Thế Tôn trú tại Rājagaha, trong rừng Tre, khu vực nuôi sóc.
@@ -333,7 +333,7 @@ Ngài *biết rõ*: "*sự Tái sinh* đã cạn kiệt, đời sống thánh th
 Kinh thứ bảy.
 
 <!--pg-->
-### 12.18 Kinh Timbaruka
+### 12.18 Kinh Timbaruka {#18}
 *(Timbarukasutta)*
 
 Trú tại Sāvatthī.
@@ -375,7 +375,7 @@ Khi được nói như vậy, du sĩ Timbaruka nói với Đức Thế Tôn đi�
 Kinh thứ tám.
 
 <!--pg-->
-### 12.19 Kinh Kẻ Ngu Và Người Trí
+### 12.19 Kinh Kẻ Ngu Và Người Trí {#19}
 *(Bālapaṇḍitasutta)*
 
 Trú tại Sāvatthī.
@@ -399,7 +399,7 @@ Này các tỳ kheo, người trí bị che lấp bởi *Không Hiểu Biết* n
 Kinh thứ chín.
 
 <!--pg-->
-### 12.20 Kinh Điều Kiện
+### 12.20 Kinh Điều Kiện {#20}
 *(Paccayasutta)*
 
 Trú tại Sāvatthī.
@@ -434,7 +434,7 @@ Phẩm Thức Ăn thứ hai.
 'Ta có tồn tại trong quá khứ không? Ta không tồn tại trong quá khứ sao? Ta là gì trong quá khứ? Ta như thế nào trong quá khứ? Ta đã từng là gì rồi trở thành gì trong quá khứ?'; hoặc chạy tới tương lai: 'Ta sẽ tồn tại trong tương lai không? Ta sẽ không tồn tại trong tương lai sao? Ta sẽ là gì trong tương lai? Ta sẽ như thế nào trong tương lai? Ta sẽ từng là gì rồi trở thành gì trong tương lai?'; hoặc hiện tại đang nghi ngờ về chính mình bên trong: 'Ta có tồn tại không? Ta không tồn tại sao? Ta là gì? Ta như thế nào? Chúng sinh này từ đâu đến, và nó sẽ đi về đâu?'—điều này không thể xảy ra. Vì sao vậy? Này các tỳ kheo, vì vị đệ tử bậc thánh đã dùng trí tuệ hoàn hảo nhìn thấy rõ ràng đúng như thật về *sự sinh ra qua quan hệ Phụ thuộc* này và những *Điều* *sinh qua quan hệ Phụ thuộc* này."
 
 <!--pg-->
-### 12.21 Kinh Mười Sức Mạnh
+### 12.21 Kinh Mười Sức Mạnh {#21}
 *(Dasabalasutta)*
 
 Trú tại Sāvatthī.
@@ -452,7 +452,7 @@ Kinh thứ nhất.
 Như vậy, khi cái này có mặt, cái kia có mặt; do cái này sinh ra, cái kia sinh ra. Khi cái này không có mặt, cái kia không có mặt; do cái này *bị chặn*, cái kia *chấm dứt*.'
 
 <!--pg-->
-### 12.22 Kinh Mười Sức Mạnh Thứ Hai
+### 12.22 Kinh Mười Sức Mạnh Thứ Hai {#22}
 *(Dutiyadasabalasutta)*
 
 Trú tại Sāvatthī.
@@ -480,7 +480,7 @@ Này các tỳ kheo, không thể đạt được điều cao tột bằng sự 
 Vì vậy, này các tỳ kheo, hãy khởi lên sự nỗ lực để đạt được những gì chưa đạt được, để thấu hiểu những gì chưa thấu hiểu, để *trực tiếp chứng nghiệm* những gì chưa *trực tiếp chứng nghiệm*. 'Như vậy, sự xuất gia của chúng ta sẽ không vô ích, sẽ có kết quả, sẽ đơm hoa kết trái. Và đối với những ai mà chúng ta thọ nhận y phục, thức ăn khất thực, chỗ ở, và thuốc men trị bệnh, thì những việc làm của họ đối với chúng ta sẽ mang lại quả lớn, lợi ích lớn'—này các tỳ kheo, các vị phải rèn luyện như vậy."
 
 <!--pg-->
-### 12.23 Kinh Điều Kiện Tiên Quyết
+### 12.23 Kinh Điều Kiện Tiên Quyết {#23}
 *(Upanisasutta)*
 
 Trú tại Sāvatthī.
@@ -504,7 +504,7 @@ Cũng vậy, này các tỳ kheo, *Không Hiểu Biết* là điều kiện tiê
 Kinh thứ ba.
 
 <!--pg-->
-### 12.24 Kinh Các Du Sĩ Ngoại Đạo
+### 12.24 Kinh Các Du Sĩ Ngoại Đạo {#24}
 *(Aññatitthiyasutta)*
 
 Trú tại Rājagaha, trong rừng Tre. Rồi vào buổi sáng, Tôn giả Sāriputta mặc y, mang bát đi vào Rājagaha để khất thực. Rồi Tôn giả Sāriputta có suy nghĩ này: "Bây giờ còn quá sớm để đi khất thực ở Rājagaha. Hay là ta đi đến khu vườn của các du sĩ ngoại đạo."
@@ -554,7 +554,7 @@ Tôn giả Ānanda đã nghe cuộc trò chuyện này giữa Tôn giả Sāripu
 Này Ānanda, ở đây, những sa-môn hay bà-la-môn nào chủ trương về nghiệp, tuyên bố rằng *đau khổ* do tự mình làm ra, điều đó cũng *Phụ thuộc* vào *Xúc*. Những ai... [...lặp lại...] những ai... [...lặp lại...] những sa-môn hay bà-la-môn nào chủ trương về nghiệp, tuyên bố rằng *đau khổ* không do tự mình làm ra, không do người khác làm ra, mà sinh ra ngẫu nhiên, điều đó cũng *Phụ thuộc* vào *Xúc*.
 
 <!--pg-->
-### 12.25 Kinh Bhūmija
+### 12.25 Kinh Bhūmija {#25}
 *(Bhūmijasutta)*
 
 Trú tại Sāvatthī.
@@ -590,7 +590,7 @@ Này Ānanda, ở đây, những sa-môn hay bà-la-môn nào chủ trương v�
 Này Ānanda, ở đây, những sa-môn hay bà-la-môn nào chủ trương về nghiệp, tuyên bố rằng *hạnh phúc* và *đau khổ* do tự mình làm ra, thì không có chuyện họ sẽ *cảm nhận* mà không thông qua *Xúc*. Những ai... [...lặp lại...] những ai... [...lặp lại...] những sa-môn hay bà-la-môn nào chủ trương về nghiệp, tuyên bố rằng *hạnh phúc* và *đau khổ* không do tự mình làm ra, không do người khác làm ra, mà sinh ra ngẫu nhiên, thì không có chuyện họ sẽ *cảm nhận* mà không thông qua *Xúc*.
 
 <!--pg-->
-### 12.26 Kinh Upavāṇa
+### 12.26 Kinh Upavāṇa {#26}
 *(Upavāṇasutta)*
 
 Trú tại Sāvatthī.
@@ -610,7 +610,7 @@ Rồi Tôn giả Upavāṇa đi đến nơi Đức Thế Tôn; sau khi đến, �
 Kinh thứ sáu.
 
 <!--pg-->
-### 12.27 Kinh Điều Kiện
+### 12.27 Kinh Điều Kiện {#27}
 *(Paccayasutta)*
 
 Trú tại Sāvatthī.
@@ -630,7 +630,7 @@ Này các tỳ kheo, khi một vị đệ tử bậc thánh *biết rõ* điều
 Kinh thứ bảy.
 
 <!--pg-->
-### 12.28 Kinh Tỳ Kheo
+### 12.28 Kinh Tỳ Kheo {#28}
 *(Bhikkhusutta)*
 
 Trú tại Sāvatthī.
@@ -650,7 +650,7 @@ Kinh thứ tám.
 *lực tồn tại*... *sự bám giữ*... *sự thèm khát*... *cảm giác*... *Xúc*... *sáu Trường giao tiếp*... *Danh–sắc*... *'Cái Biết'*...
 
 <!--pg-->
-### 12.29 Kinh Sa-môn Và Bà-la-môn
+### 12.29 Kinh Sa-môn Và Bà-la-môn {#29}
 *(Samaṇabrāhmaṇasutta)*
 
 Trú tại Sāvatthī.
@@ -664,7 +664,7 @@ Kinh thứ chín.
 *lực tồn tại*... *sự bám giữ*... *sự thèm khát*... *cảm giác*... *Xúc*... *sáu Trường giao tiếp*... *Danh–sắc*... *'Cái Biết'*...
 
 <!--pg-->
-### 12.30 Kinh Sa-môn Và Bà-la-môn Thứ Hai
+### 12.30 Kinh Sa-môn Và Bà-la-môn Thứ Hai {#30}
 *(Dutiyasamaṇabrāhmaṇasutta)*
 
 Trú tại Sāvatthī.
@@ -679,7 +679,7 @@ Phẩm Mười Sức Mạnh thứ ba.
 *biết rõ* *sự Tái sinh*... [...lặp lại...] *lực tồn tại*... *sự bám giữ*... *sự thèm khát*... *cảm giác*... *Xúc*... *sáu Trường giao tiếp*... *Danh–sắc*...
 
 <!--pg-->
-### 12.31 Kinh Cái Đã Được Sinh Ra
+### 12.31 Kinh Cái Đã Được Sinh Ra {#31}
 *(Bhūtasutta)*
 
 Một thời Đức Thế Tôn trú tại Sāvatthī.
@@ -735,7 +735,7 @@ Này Sāriputta, ý nghĩa của lời nói vắn tắt này cần được hi�
 Kinh thứ nhất.
 
 <!--pg-->
-### 12.32 Kinh Kaḷāra
+### 12.32 Kinh Kaḷāra {#32}
 *(Kaḷārasutta)*
 
 Trú tại Sāvatthī.
@@ -805,7 +805,7 @@ Rồi Đức Thế Tôn gọi một tỳ kheo khác: "Này Sāriputta, bằng b�
 "Bạch Thế Tôn, nếu họ hỏi con như vầy: 'Nhưng thưa hiền giả Sāriputta, *sự Tái sinh* có nguồn gốc từ đâu, có *sự hình thành* từ đâu, sinh ra từ đâu, phát sinh từ đâu?' Khi được hỏi như vậy, bạch Thế Tôn, con sẽ trả lời như vầy: 'Này các hiền giả, *sự Tái sinh* có nguồn gốc từ *lực tồn tại*, có *sự hình thành* từ *lực tồn tại*, sinh ra từ *lực tồn tại*, phát sinh từ *lực tồn tại*.' Khi được hỏi như vậy, bạch Thế Tôn, con sẽ trả lời như vậy."
 
 <!--pg-->
-### 12.33 Kinh Nền Tảng Của Trí
+### 12.33 Kinh Nền Tảng Của Trí {#33}
 *(Ñāṇavatthusutta)*
 
 Tại Sāvatthī...
@@ -845,7 +845,7 @@ Này các tỳ kheo, thế nào là *sự Tái sinh*... này các tỳ kheo, th�
 này các tỳ kheo, thế nào là *lực tồn tại*... này các tỳ kheo, thế nào là *sự bám giữ*... này các tỳ kheo, thế nào là *sự thèm khát*... này các tỳ kheo, thế nào là *cảm giác*... này các tỳ kheo, thế nào là *Xúc*... này các tỳ kheo, thế nào là *sáu Trường giao tiếp*... này các tỳ kheo, thế nào là *Danh–sắc*... này các tỳ kheo, thế nào là *'Cái Biết'*...
 
 <!--pg-->
-### 12.34 Kinh Nền Tảng Của Trí Thứ Hai
+### 12.34 Kinh Nền Tảng Của Trí Thứ Hai {#34}
 *(Dutiyañāṇavatthusutta)*
 
 Trú tại Sāvatthī.
@@ -863,7 +863,7 @@ Kinh thứ tư.
 trí rằng '*Phụ thuộc* vào *sự bám giữ*, *lực tồn tại* [được sinh ra]'... trí rằng '*Phụ thuộc* vào *sự thèm khát*, *sự bám giữ* [được sinh ra]'... trí rằng '*Phụ thuộc* vào *cảm giác*, *sự thèm khát* [được sinh ra]'... trí rằng '*Phụ thuộc* vào *Xúc*, *cảm giác* [được sinh ra]'... trí rằng '*Phụ thuộc* vào *sáu Trường giao tiếp*, *Xúc* [được sinh ra]'... trí rằng '*Phụ thuộc* vào *Danh–sắc*, *sáu Trường giao tiếp* [được sinh ra]'... trí rằng '*Phụ thuộc* vào *'Cái Biết'*, *Danh–sắc* [được sinh ra]'... trí rằng '*Phụ thuộc* vào *hoạt động*, *'Cái Biết'* [được sinh ra]';
 
 <!--pg-->
-### 12.35 Kinh Phụ Thuộc Vào Không Hiểu Biết
+### 12.35 Kinh Phụ Thuộc Vào Không Hiểu Biết {#35}
 *(Avijjāpaccayasutta)*
 
 Trú tại Sāvatthī.
@@ -899,7 +899,7 @@ Nhưng này tỳ kheo, do *chặn sạch hết đắm nhiễm* hoàn toàn đố
 Kinh thứ năm.
 
 <!--pg-->
-### 12.36 Kinh Phụ Thuộc Vào Không Hiểu Biết Thứ Hai
+### 12.36 Kinh Phụ Thuộc Vào Không Hiểu Biết Thứ Hai {#36}
 *(Dutiyaavijjāpaccayasutta)*
 
 Trú tại Sāvatthī.
@@ -921,7 +921,7 @@ Kinh thứ sáu.
 Thế nào là *sự Tái sinh*... [...lặp lại...] thế nào là *lực tồn tại*... thế nào là *sự bám giữ*... thế nào là *sự thèm khát*... thế nào là *cảm giác*... thế nào là *Xúc*... thế nào là *sáu Trường giao tiếp*... thế nào là *Danh–sắc*...
 
 <!--pg-->
-### 12.37 Kinh Không Phải Của Các Vị
+### 12.37 Kinh Không Phải Của Các Vị {#37}
 *(Natumhasutta)*
 
 Trú tại Sāvatthī.
@@ -935,7 +935,7 @@ Trú tại Sāvatthī.
 *Phụ thuộc* vào *hoạt động*, *'Cái Biết'* [được sinh ra] [...lặp lại...] như vậy là *sự hình thành* của toàn bộ khối *đau khổ* này. Nhưng do *chặn sạch hết đắm nhiễm* hoàn toàn đối với chính *Không Hiểu Biết* này, *hoạt động* *bị chặn*; do *hoạt động* *bị chặn*, *'Cái Biết'* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ khối *đau khổ* này.'"
 
 <!--pg-->
-### 12.38 Kinh Ý Định
+### 12.38 Kinh Ý Định {#38}
 *(Cetanāsutta)*
 
 Trú tại Sāvatthī.
@@ -949,7 +949,7 @@ Nhưng này các tỳ kheo, khi người ta không có *ý định*, không lên
 Kinh thứ tám.
 
 <!--pg-->
-### 12.39 Kinh Ý Định Thứ Hai
+### 12.39 Kinh Ý Định Thứ Hai {#39}
 *(Dutiyacetanāsutta)*
 
 Trú tại Sāvatthī.
@@ -963,7 +963,7 @@ Nhưng này các tỳ kheo, khi người ta không có *ý định*, không lên
 Kinh thứ chín.
 
 <!--pg-->
-### 12.40 Kinh Ý Định Thứ Ba
+### 12.40 Kinh Ý Định Thứ Ba {#40}
 *(Tatiyacetanāsutta)*
 
 Trú tại Sāvatthī.
@@ -978,7 +978,7 @@ Kinh thứ mười.
 Phẩm Kaḷārakhattiya thứ tư.
 
 <!--pg-->
-### 12.41 Kinh Năm Nỗi Sợ Hãi Và Thù Hận
+### 12.41 Kinh Năm Nỗi Sợ Hãi Và Thù Hận {#41}
 *(Pañcaverabhayasutta)*
 
 Trú tại Sāvatthī.
@@ -1014,7 +1014,7 @@ Người ấy được trang bị bốn yếu tố của bậc dự lưu nào? �
 Người ấy được trang bị *niềm tin tuyệt đối* vào *Quy luật*: '*Quy luật* đã được Đức Thế Tôn khéo léo thuyết giảng, có thể nhìn thấy ngay trong hiện tại, không bị giới hạn bởi thời gian, đến để mà thấy, dẫn dắt vào trong, để người trí tự mình trải nghiệm'.
 
 <!--pg-->
-### 12.42 Kinh Năm Nỗi Sợ Hãi Và Thù Hận Thứ Hai
+### 12.42 Kinh Năm Nỗi Sợ Hãi Và Thù Hận Thứ Hai {#42}
 *(Dutiyapañcaverabhayasutta)*
 
 Trú tại Sāvatthī.
@@ -1032,7 +1032,7 @@ Này các tỳ kheo, khi vị đệ tử bậc thánh đã làm lắng dịu nă
 Kinh thứ hai.
 
 <!--pg-->
-### 12.43 Kinh Đau Khổ
+### 12.43 Kinh Đau Khổ {#43}
 *(Dukkhasutta)*
 
 Trú tại Sāvatthī.
@@ -1054,7 +1054,7 @@ Kinh thứ ba.
 *Phụ thuộc* vào mũi và mùi... [...lặp lại...] *Phụ thuộc* vào lưỡi và vị... [...lặp lại...] *Phụ thuộc* vào cơ thể và xúc chạm... [...lặp lại...] *Phụ thuộc* vào trí não và các *Điều*, *'Cái Biết' ở trí não* sinh ra. Sự gặp gỡ của ba yếu tố này là *Xúc*. *Phụ thuộc* vào *Xúc*, *cảm giác* [được sinh ra]; *Phụ thuộc* vào *cảm giác*, *sự thèm khát* [được sinh ra]. Do *chặn sạch hết đắm nhiễm* hoàn toàn đối với chính *sự thèm khát* này, *sự bám giữ* *bị chặn*; do *sự bám giữ* *bị chặn*, *lực tồn tại* *bị chặn*;
 
 <!--pg-->
-### 12.44 Kinh Thế Giới
+### 12.44 Kinh Thế Giới {#44}
 *(Lokasutta)*
 
 Trú tại Sāvatthī.
@@ -1076,7 +1076,7 @@ Kinh thứ tư.
 *Phụ thuộc* vào mũi và mùi... *Phụ thuộc* vào lưỡi và vị... *Phụ thuộc* vào cơ thể và xúc chạm... *Phụ thuộc* vào trí não và các *Điều*, *'Cái Biết' ở trí não* sinh ra. Sự gặp gỡ của ba yếu tố này là *Xúc*. *Phụ thuộc* vào *Xúc*, *cảm giác* [được sinh ra]; *Phụ thuộc* vào *cảm giác*, *sự thèm khát* [được sinh ra]. Do *chặn sạch hết đắm nhiễm* hoàn toàn đối với chính *sự thèm khát* này, *sự bám giữ* *bị chặn*; do *sự bám giữ* *bị chặn*, *lực tồn tại* *bị chặn*... [...lặp lại...]
 
 <!--pg-->
-### 12.45 Kinh Tại Ñātika (Ñātikasutta)
+### 12.45 Kinh Tại Ñātika (Ñātikasutta) {#45}
 
 Tôi đã nghe như vầy — một thời Thế Tôn trú tại Ñātika, trong ngôi nhà gạch. Khi ấy, Thế Tôn đang ở một mình nơi thanh vắng, đã nói lên *Quy luật* (pháp / dhammapariyāya) này:
 
@@ -1097,7 +1097,7 @@ Thế Tôn nhìn thấy tỳ kheo ấy đang đứng nghe lén. Thấy tỳ kheo
 "Này tỳ kheo, hãy học thuộc *Quy luật* này; này tỳ kheo, hãy ghi nhớ *Quy luật* này; này tỳ kheo, hãy gìn giữ *Quy luật* này. Này tỳ kheo, *Quy luật* này mang lại lợi ích, là *cốt lõi đời sống thánh thiện* (phạm hạnh / ādibrahmacariyako)."
 
 <!--pg-->
-### 12.46 Kinh Một Bà-la-môn (Aññatarabrāhmaṇasutta)
+### 12.46 Kinh Một Bà-la-môn (Aññatarabrāhmaṇasutta) {#46}
 
 Trú tại Sāvatthi.
 
@@ -1118,7 +1118,7 @@ với *hoạt động* là *Điều kiện*, *'Cái Biết' (đi tái sinh)* (th
 Khi được nói như vậy, Bà-la-môn ấy thưa với Thế Tôn: "Thật tuyệt vời, thưa tôn giả Gotama! Thật tuyệt vời, thưa tôn giả Gotama! [...lặp lại...] Xin tôn giả Gotama nhận con làm cư sĩ, từ nay cho đến mạng chung, con xin quy y."
 
 <!--pg-->
-### 12.47 Kinh Jāṇussoṇi (Jāṇussoṇisutta)
+### 12.47 Kinh Jāṇussoṇi (Jāṇussoṇisutta) {#47}
 
 Trú tại Sāvatthi.
 
@@ -1139,7 +1139,7 @@ với *hoạt động* là *Điều kiện*, *'Cái Biết' (đi tái sinh)* [si
 Khi được nói như vậy, Bà-la-môn Jāṇussoṇi thưa với Thế Tôn: "Thật tuyệt vời, thưa tôn giả Gotama! [...lặp lại...] từ nay cho đến mạng chung, con xin quy y."
 
 <!--pg-->
-### 12.48 Kinh Người Theo Thuyết Duy Vật (Lokāyatikasutta)
+### 12.48 Kinh Người Theo Thuyết Duy Vật (Lokāyatikasutta) {#48}
 
 Trú tại Sāvatthi.
 
@@ -1168,7 +1168,7 @@ với *hoạt động* là *Điều kiện*, *'Cái Biết' (đi tái sinh)* [si
 Khi được nói như vậy, Bà-la-môn *người theo thuyết duy vật* thưa với Thế Tôn: "Thật tuyệt vời, thưa tôn giả Gotama! [...lặp lại...] từ nay cho đến mạng chung, con xin quy y."
 
 <!--pg-->
-### 12.49 Kinh Đệ Tử Bậc Thánh (Ariyasāvakasutta)
+### 12.49 Kinh Đệ Tử Bậc Thánh (Ariyasāvakasutta) {#49}
 
 Trú tại Sāvatthi.
 
@@ -1183,7 +1183,7 @@ Ngược lại, này các tỳ kheo, đệ tử bậc thánh *có học* có s�
 'Khi cái này không có mặt thì cái kia không có mặt, do cái này *bị chặn* thì cái kia *chấm dứt*. Khi *Không Hiểu Biết* không có mặt thì *hoạt động* không có mặt; khi *hoạt động* không có mặt thì *'Cái Biết' (đi tái sinh)* không có mặt; khi *'Cái Biết' (đi tái sinh)* không có mặt thì *Danh-sắc* không có mặt; khi *Danh-sắc* không có mặt thì *sáu Trường giao tiếp* không có mặt [...lặp lại...] *sự lực tồn tại* không có mặt... *sự Tái sinh* không có mặt... khi *sự Tái sinh* không có mặt thì *già-chết* không có mặt.' Này các tỳ kheo, khi đệ tử bậc thánh *thấy rõ* đúng như thật *sự hình thành* và sự *tan biến* (diệt / atthaṅgamañca) của thế giới như vậy, này các tỳ kheo, vị ấy được gọi là đệ tử bậc thánh đã thành tựu quan điểm đúng, [...lặp lại...] đã gõ cửa bất tử."
 
 <!--pg-->
-### 12.50 Kinh Đệ Tử Bậc Thánh Thứ Hai (Dutiyaariyasāvakasutta)
+### 12.50 Kinh Đệ Tử Bậc Thánh Thứ Hai (Dutiyaariyasāvakasutta) {#50}
 
 Trú tại Sāvatthi.
 
@@ -1205,7 +1205,7 @@ Này các tỳ kheo, khi đệ tử bậc thánh *thấy rõ* đúng như thật
 > Đó là những kinh trong phẩm này.
 
 <!--pg-->
-### 12.51 Kinh Thận Trọng Suy Xét (Parivīmaṁsanasutta)
+### 12.51 Kinh Thận Trọng Suy Xét (Parivīmaṁsanasutta) {#51}
 
 Tôi đã nghe như vầy — một thời Thế Tôn trú tại Sāvatthi, trong rừng Jeta, tu viện của Anāthapiṇḍika. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo."
 
@@ -1290,7 +1290,7 @@ Này các tỳ kheo, nếu một người chìm trong *Không Hiểu Biết* t�
 Vị ấy *thấy rõ*: '*sự Tái sinh* đã *cạn kiệt*, đời sống thánh thiện đã hoàn tất, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.'
 
 <!--pg-->
-### 12.52 Kinh Sự Bám Giữ (Upādānasutta)
+### 12.52 Kinh Sự Bám Giữ (Upādānasutta) {#52}
 
 Trú tại Sāvatthi.
 
@@ -1307,7 +1307,7 @@ Này các tỳ kheo, giống như một đống lửa lớn đang cháy nhờ m�
 Cũng vậy, này các tỳ kheo, đối với người sống quan sát sự nguy hiểm trong những *Điều* dễ bị *bám giữ*, *sự thèm khát* *chấm dứt*, do *sự thèm khát* *bị chặn*, *sự bám giữ* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ *tập hợp* *đau khổ* này."
 
 <!--pg-->
-### 12.53 Kinh Xiềng Xích (Saṁyojanasutta)
+### 12.53 Kinh Xiềng Xích (Saṁyojanasutta) {#53}
 
 Trú tại Sāvatthi.
 
@@ -1324,7 +1324,7 @@ Này các tỳ kheo, giống như một ngọn đèn dầu cháy *Phụ thuộc*
 Cũng vậy, này các tỳ kheo, đối với người sống quan sát sự nguy hiểm trong những *Điều* tạo ra xiềng xích, *sự thèm khát* *chấm dứt*. Do *sự thèm khát* *bị chặn*, *sự bám giữ* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ *tập hợp* *đau khổ* này."
 
 <!--pg-->
-### 12.54 Kinh Xiềng Xích Thứ Hai (Dutiyasaṁyojanasutta)
+### 12.54 Kinh Xiềng Xích Thứ Hai (Dutiyasaṁyojanasutta) {#54}
 
 Trú tại Sāvatthi.
 
@@ -1337,7 +1337,7 @@ Này các tỳ kheo, giống như một ngọn đèn dầu cháy *Phụ thuộc*
 Cũng vậy, này các tỳ kheo, đối với người sống quan sát sự nguy hiểm trong những *Điều* tạo ra xiềng xích, *sự thèm khát* *chấm dứt*. Do *sự thèm khát* *bị chặn*, *sự bám giữ* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ *tập hợp* *đau khổ* này."
 
 <!--pg-->
-### 12.55 Kinh Cây Lớn (Mahārukkhasutta)
+### 12.55 Kinh Cây Lớn (Mahārukkhasutta) {#55}
 
 Trú tại Sāvatthi.
 
@@ -1354,7 +1354,7 @@ Này các tỳ kheo, giống như một cái cây lớn. Rồi một người đ
 Cũng vậy, này các tỳ kheo, đối với người sống quan sát sự nguy hiểm trong những *Điều* dễ bị *bám giữ*, *sự thèm khát* *chấm dứt*. Do *sự thèm khát* *bị chặn*, *sự bám giữ* *bị chặn*; do *sự bám giữ* *bị chặn*, *sự lực tồn tại* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ *tập hợp* *đau khổ* này."
 
 <!--pg-->
-### 12.56 Kinh Cây Lớn Thứ Hai (Dutiyamahārukkhasutta)
+### 12.56 Kinh Cây Lớn Thứ Hai (Dutiyamahārukkhasutta) {#56}
 
 Trú tại Sāvatthi.
 
@@ -1367,7 +1367,7 @@ Này các tỳ kheo, giống như một cái cây lớn. Rồi một người đ
 Cũng vậy, này các tỳ kheo, đối với người sống quan sát sự nguy hiểm trong những *Điều* dễ bị *bám giữ*, *sự thèm khát* *chấm dứt*. Do *sự thèm khát* *bị chặn*, *sự bám giữ* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ *tập hợp* *đau khổ* này."
 
 <!--pg-->
-### 12.57 Kinh Cây Non (Taruṇarukkhasutta)
+### 12.57 Kinh Cây Non (Taruṇarukkhasutta) {#57}
 
 Trú tại Sāvatthi.
 
@@ -1384,7 +1384,7 @@ Này các tỳ kheo, giống như một cái cây non. Rồi một người đ�
 Cũng vậy, này các tỳ kheo, đối với người sống quan sát sự nguy hiểm trong những *Điều* tạo ra xiềng xích, *sự thèm khát* *chấm dứt*. Do *sự thèm khát* *bị chặn*, *sự bám giữ* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ *tập hợp* *đau khổ* này."
 
 <!--pg-->
-### 12.58 Kinh Danh Sắc (Nāmarūpasutta)
+### 12.58 Kinh Danh Sắc (Nāmarūpasutta) {#58}
 
 Trú tại Sāvatthi.
 
@@ -1401,7 +1401,7 @@ Này các tỳ kheo, giống như một cái cây lớn. Rồi một người đ
 Cũng vậy, này các tỳ kheo, đối với người sống quan sát sự nguy hiểm trong những *Điều* tạo ra xiềng xích, *Danh-sắc* không đi vào. Do *Danh-sắc* *bị chặn*, *sáu Trường giao tiếp* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ *tập hợp* *đau khổ* này."
 
 <!--pg-->
-### 12.59 Kinh Thức (Viññāṇasutta)
+### 12.59 Kinh Thức (Viññāṇasutta) {#59}
 
 Trú tại Sāvatthi.
 
@@ -1420,7 +1420,7 @@ Này các tỳ kheo, giống như một cái cây lớn. Rồi một người đ
 Cũng vậy, này các tỳ kheo, đối với người sống quan sát sự nguy hiểm trong những *Điều* tạo ra xiềng xích, *'Cái Biết' (đi tái sinh)* không đi vào. Do *'Cái Biết' (đi tái sinh)* *bị chặn*, *Danh-sắc* *bị chặn* [...lặp lại...] như vậy là sự *chấm dứt* của toàn bộ *tập hợp* *đau khổ* này."
 
 <!--pg-->
-### 12.60 Kinh Nguyên Nhân (Nidānasutta)
+### 12.60 Kinh Nguyên Nhân (Nidānasutta) {#60}
 
 Một thời Thế Tôn trú tại xứ Kuru, tại một thị trấn của người Kuru tên là Kammāsadhamma. Khi ấy, Tôn giả Ānanda đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Ānanda thưa với Thế Tôn:
 
@@ -1448,7 +1448,7 @@ Cũng vậy, này Ānanda, đối với người sống quan sát sự nguy hi�
 > Nguyên nhân là thứ mười.
 
 <!--pg-->
-### 12.61 Kinh Người Không Học (Assutavāsutta)
+### 12.61 Kinh Người Không Học (Assutavāsutta) {#61}
 
 Tôi đã nghe như vầy — một thời Thế Tôn trú tại Sāvatthi, trong rừng Jeta, tu viện của Anāthapiṇḍika...
 
@@ -1469,7 +1469,7 @@ Này các tỳ kheo, khi thấy như vậy, đệ tử bậc thánh *có học* 
 Vị ấy *thấy rõ*: '*sự Tái sinh* đã *cạn kiệt*, đời sống thánh thiện đã hoàn tất, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa'."
 
 <!--pg-->
-### 12.62 Kinh Người Không Học Thứ Hai (Dutiyaassutavāsutta)
+### 12.62 Kinh Người Không Học Thứ Hai (Dutiyaassutavāsutta) {#62}
 
 Trú tại Sāvatthi.
 
@@ -1484,7 +1484,7 @@ Này các tỳ kheo, khi thấy như vậy, đệ tử bậc thánh *có học* 
 Vị ấy *thấy rõ*: '*sự Tái sinh* đã *cạn kiệt*, đời sống thánh thiện đã hoàn tất, những việc cần làm đã làm xong, không còn trở lại trạng thái này nữa'."
 
 <!--pg-->
-### 12.63 Kinh Thịt Con (Puttamaṁsasutta)
+### 12.63 Kinh Thịt Con (Puttamaṁsasutta) {#63}
 
 Trú tại Sāvatthi...
 
@@ -1515,7 +1515,7 @@ Này các tỳ kheo, các thầy nghĩ thế nào, người bị đâm bằng ba
 "Cũng vậy, này các tỳ kheo, Ta nói rằng thức ăn *'Cái Biết'* nên được nhìn nhận như thế. Này các tỳ kheo, khi thức ăn *'Cái Biết'* được *hiểu biết trọn vẹn*, thì *Danh-sắc* được *hiểu biết trọn vẹn*. Khi *Danh-sắc* được *hiểu biết trọn vẹn*, Ta nói rằng đệ tử bậc thánh không còn việc gì phải làm thêm nữa."
 
 <!--pg-->
-### 12.64 Kinh Có Sự Đắm Nhiễm (Atthirāgasutta)
+### 12.64 Kinh Có Sự Đắm Nhiễm (Atthirāgasutta) {#64}
 
 Trú tại Sāvatthi.
 
@@ -1556,7 +1556,7 @@ Này các tỳ kheo, giả sử có một ngôi nhà có mái chóp, hoặc mộ
 Nếu trong thức ăn *Xúc*... nếu trong thức ăn *chủ ý của tâm*... nếu trong thức ăn *'Cái Biết'* không có sự *đắm nhiễm*, không có sự *vui thú chạy theo*, không có *sự thèm khát*, thì *'Cái Biết'* không được thiết lập và không phát triển ở đó. Nơi nào *'Cái Biết'* không được thiết lập và không phát triển, nơi đó không có sự đi vào của *Danh-sắc*. Nơi nào không có sự đi vào của *Danh-sắc*, nơi đó không có sự tăng trưởng của các *hoạt động*. Nơi nào không có sự tăng trưởng của các *hoạt động*, nơi đó không có sự sinh ra của *sự lực tồn tại* mới trong tương lai. Nơi nào không có sự sinh ra của *sự lực tồn tại* mới trong tương lai, nơi đó không có *sự Tái sinh* và *già-chết* trong tương lai. Nơi nào không có *sự Tái sinh* và *già-chết* trong tương lai, Ta nói rằng nơi đó không có sầu, không có bi, không có tuyệt vọng."
 
 <!--pg-->
-### 12.65 Kinh Thành Phố (Nagarasutta)
+### 12.65 Kinh Thành Phố (Nagarasutta) {#65}
 
 Trú tại Sāvatthi.
 
@@ -1583,7 +1583,7 @@ Sau khi hiểu biết trực tiếp điều đó, Ta đã giảng dạy cho các
 khi đi theo con đường đó, Ta đã hiểu biết trực tiếp *già-chết*; Ta đã hiểu biết trực tiếp *sự hình thành* của *già-chết*; Ta đã hiểu biết trực tiếp sự *chấm dứt* của *già-chết*; Ta đã hiểu biết trực tiếp con đường thực hành đưa đến sự *chấm dứt* *già-chết*. Ta đã đi theo con đường đó;
 
 <!--pg-->
-### 12.66 Kinh Quán Sát (Sammasasutta)
+### 12.66 Kinh Quán Sát (Sammasasutta) {#66}
 
 Tôi đã nghe như vầy — "Nhưng này tỳ kheo, thầy quán sát sự quán sát bên trong như thế nào?" Rồi tỳ kheo ấy trả lời. Cách tỳ kheo ấy trả lời không làm hài lòng tâm của Thế Tôn.
 
@@ -1632,7 +1632,7 @@ Cũng vậy, này các tỳ kheo, bất kỳ sa-môn hay Bà-la-môn nào trong 
 Nhưng đồ uống đó đã bị pha trộn với thuốc độc. Rồi một người đi đến, bị cái nóng thiêu đốt, bị cái nóng hành hạ, mệt mỏi, khát nước. Người ta nói với người ấy: 'Này anh bạn, đây là bát đồ uống có màu sắc đẹp, mùi thơm, vị ngon; nhưng nó đã bị pha trộn với thuốc độc. Nếu anh muốn, hãy uống. Khi uống, nó sẽ làm anh thích thú bởi màu sắc, mùi hương và mùi vị, nhưng sau khi uống, do nguyên nhân đó, anh sẽ chết hoặc chịu *đau khổ* gần như chết.' Người ấy vội vàng uống bát đồ uống đó mà không thận trọng suy xét, không vứt bỏ nó."
 
 <!--pg-->
-### 12.67 Kinh Bó Lau (Naḷakalāpīsutta)
+### 12.67 Kinh Bó Lau (Naḷakalāpīsutta) {#67}
 
 Một thời Tôn giả Sāriputta và Tôn giả Mahākoṭṭhika trú tại Bārāṇasī, ở Isipatana, trong Vườn Nai.
 
@@ -1673,7 +1673,7 @@ Cũng vậy, thưa hiền giả, với *Danh-sắc* là *Điều kiện*, *'Cái
 Thưa hiền giả, nếu một tỳ kheo đang thực hành để chán ngán, để phai nhạt, để *chấm dứt* *già-chết*, thì thật xứng đáng để gọi vị ấy là tỳ kheo thực hành thuận theo *Quy luật*. Thưa hiền giả, nếu một tỳ kheo nhờ chán ngán, phai nhạt, *chấm dứt* *già-chết* mà được giải thoát không còn *bám giữ*, thì thật xứng đáng để gọi vị ấy là tỳ kheo đã đạt Niết-bàn ngay trong hiện tại. Đối với *sự Tái sinh*... đối với *sự lực tồn tại*... đối với *sự bám giữ*... đối với *sự thèm khát*... đối với *cảm giác*... đối với *Xúc*...
 
 <!--pg-->
-### 12.68 Kinh Tại Kosambi (Kosambisutta)
+### 12.68 Kinh Tại Kosambi (Kosambisutta) {#68}
 
 Một thời Tôn giả Musila, Tôn giả Paviṭṭha, Tôn giả Nārada và Tôn giả Ānanda trú tại Kosambi, trong tu viện Ghosita. Khi ấy, Tôn giả Paviṭṭha nói với Tôn giả Musila:
 
@@ -1726,7 +1726,7 @@ Thưa hiền giả Nārada, không cần dựa vào niềm tin, không cần d�
 "Thưa hiền giả Nārada, không cần dựa vào niềm tin, không cần dựa vào sở thích, không cần dựa vào truyền thuyết, không cần dựa vào suy luận logic, không cần dựa vào sự chấp nhận một quan điểm sau khi suy ngẫm, Tôn giả Nārada có tự mình biết rõ điều này — với *sự lực tồn tại* là *Điều kiện*, *sự Tái sinh* [sinh ra] [...lặp lại...] với *Không Hiểu Biết* là *Điều kiện*, *hoạt động* [sinh ra] không?" "Thưa hiền giả Paviṭṭha, không cần dựa vào niềm tin, không cần dựa vào sở thích, không cần dựa vào truyền thuyết, không cần dựa vào suy luận logic, không cần dựa vào sự chấp nhận một quan điểm sau khi suy ngẫm, tôi biết điều này, tôi thấy điều này: 'Với *Không Hiểu Biết* là *Điều kiện*, *hoạt động* [sinh ra]'."
 
 <!--pg-->
-### 12.69 Kinh Dâng Lên (Upayantisutta)
+### 12.69 Kinh Dâng Lên (Upayantisutta) {#69}
 
 Tôi đã nghe như vầy — một thời Thế Tôn trú tại Sāvatthi, trong rừng Jeta, tu viện của Anāthapiṇḍika. Tại đó... [...lặp lại...]
 
@@ -1739,7 +1739,7 @@ Này các tỳ kheo, khi đại dương rút xuống, nó làm cho các con sôn
 Cũng vậy, này các tỳ kheo, khi *Không Hiểu Biết* rút xuống, nó làm cho *hoạt động* rút xuống; khi *hoạt động* rút xuống, nó làm cho *'Cái Biết' (đi tái sinh)* rút xuống; khi *'Cái Biết' (đi tái sinh)* rút xuống, nó làm cho *Danh-sắc* rút xuống; khi *Danh-sắc* rút xuống, nó làm cho *sáu Trường giao tiếp* rút xuống; khi *sáu Trường giao tiếp* rút xuống, nó làm cho *Xúc* rút xuống; khi *Xúc* rút xuống, nó làm cho *cảm giác* rút xuống; khi *cảm giác* rút xuống, nó làm cho *sự thèm khát* rút xuống; khi *sự thèm khát* rút xuống, nó làm cho *sự bám giữ* rút xuống; khi *sự bám giữ* rút xuống, nó làm cho *sự lực tồn tại* rút xuống; khi *sự lực tồn tại* rút xuống, nó làm cho *sự Tái sinh* rút xuống; khi *sự Tái sinh* rút xuống, nó làm cho *già-chết* rút xuống."
 
 <!--pg-->
-### 12.70 Kinh Du Sĩ Susima (Susimaparibbājakasutta)
+### 12.70 Kinh Du Sĩ Susima (Susimaparibbājakasutta) {#70}
 
 Tôi đã nghe như vầy — một thời Thế Tôn trú tại Rājagaha, trong rừng Tre, chỗ nuôi sóc.
 
@@ -1935,7 +1935,7 @@ biết tâm có *đắm nhiễm* là tâm có *đắm nhiễm*; biết tâm khô
 "Thưa hiền giả, không."
 
 <!--pg-->
-### 12.71 Kinh Già Chết (Jarāmaraṇasutta)
+### 12.71 Kinh Già Chết (Jarāmaraṇasutta) {#71}
 
 Tôi đã nghe như vầy — một thời Thế Tôn trú tại Sāvatthi, trong rừng Jeta, tu viện của Anāthapiṇḍika. Tại đó, Thế Tôn... [...lặp lại...]
 
@@ -1987,7 +1987,7 @@ Phẩm Sa-môn Bà-la-môn là phẩm thứ tám.
 "Không *thấy rõ* *'Cái Biết' (đi tái sinh)* [...lặp lại...].
 
 <!--pg-->
-### 12.82 Kinh Bậc Đạo Sư (Satthusutta)
+### 12.82 Kinh Bậc Đạo Sư (Satthusutta) {#82}
 
 Trú tại Sāvatthi.
 

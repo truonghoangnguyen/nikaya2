@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 24.1
 
-### 24.1 Vātasutta
+### 24.1 Vātasutta {#1}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane. Bhagavā etadavoca:
 
@@ -56,7 +56,7 @@ Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 Paṭhamaṁ.
 
-### 24.2 Etaṁmamasutta
+### 24.2 Etaṁmamasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -92,7 +92,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: “Yato kho, bhikkhave, a
 
 Dutiyaṁ.
 
-### 24.3 Soattāsutta
+### 24.3 Soattāsutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -126,7 +126,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘so attā …pe… avip
 
 Tatiyaṁ.
 
-### 24.4 Nocamesiyāsutta
+### 24.4 Nocamesiyāsutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -160,7 +160,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘no cassaṁ, no ca me 
 
 Catutthaṁ.
 
-### 24.5 Natthidinnasutta
+### 24.5 Natthidinnasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -194,7 +194,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘natthi dinnaṁ, natth
 
 Pañcamaṁ.
 
-### 24.6 Karotosutta
+### 24.6 Karotosutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -228,7 +228,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘karoto …pe… natthi
 
 Chaṭṭhaṁ.
 
-### 24.7 Hetusutta
+### 24.7 Hetusutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -260,7 +260,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: rūpaṁ niccaṁ vā ani
 
 Sattamaṁ.
 
-### 24.8 Mahādiṭṭhisutta
+### 24.8 Mahādiṭṭhisutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -288,7 +288,7 @@ rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
 Aṭṭhamaṁ.
 
-### 24.9 Sassatadiṭṭhisutta
+### 24.9 Sassatadiṭṭhisutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -312,7 +312,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘sassato loko’”ti? 
 
 Navamaṁ.
 
-### 24.10 Asassatadiṭṭhisutta
+### 24.10 Asassatadiṭṭhisutta {#10}
 
 Sāvatthinidānaṁ.
 
@@ -332,7 +332,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: “Yato kho, bhikkhave, a
 
 Dasamaṁ.
 
-### 24.11 Antavāsutta
+### 24.11 Antavāsutta {#11}
 
 Sāvatthinidānaṁ.
 
@@ -342,7 +342,7 @@ Sāvatthinidānaṁ.
 
 Ekādasamaṁ.
 
-### 24.12 Anantavāsutta
+### 24.12 Anantavāsutta {#12}
 
 Sāvatthinidānaṁ.
 
@@ -352,7 +352,7 @@ Sāvatthinidānaṁ.
 
 Dvādasamaṁ.
 
-### 24.13 Taṁjīvaṁtaṁsarīraṁsutta
+### 24.13 Taṁjīvaṁtaṁsarīraṁsutta {#13}
 
 Sāvatthinidānaṁ.
 
@@ -362,7 +362,7 @@ Sāvatthinidānaṁ.
 
 Terasamaṁ.
 
-### 24.14 Aññaṁjīvaṁaññaṁsarīraṁsutta
+### 24.14 Aññaṁjīvaṁaññaṁsarīraṁsutta {#14}
 
 Sāvatthinidānaṁ.
 
@@ -372,7 +372,7 @@ Sāvatthinidānaṁ.
 
 Cuddasamaṁ.
 
-### 24.15 Hotitathāgatosutta
+### 24.15 Hotitathāgatosutta {#15}
 
 Sāvatthinidānaṁ.
 
@@ -382,7 +382,7 @@ Sāvatthinidānaṁ.
 
 Pannarasamaṁ.
 
-### 24.16 Nahotitathāgatosutta
+### 24.16 Nahotitathāgatosutta {#16}
 
 Sāvatthinidānaṁ.
 
@@ -392,7 +392,7 @@ Sāvatthinidānaṁ.
 
 Soḷasamaṁ.
 
-### 24.17 Hoticanacahotitathāgatosutta
+### 24.17 Hoticanacahotitathāgatosutta {#17}
 
 Sāvatthinidānaṁ.
 
@@ -402,7 +402,7 @@ Sāvatthinidānaṁ.
 
 Sattarasamaṁ.
 
-### 24.18 Nevahotinanahotitathāgatosutta
+### 24.18 Nevahotinanahotitathāgatosutta {#18}
 
 Sāvatthinidānaṁ.
 
@@ -444,7 +444,7 @@ Tassuddānaṁ
 
 > Hoti tathāgato paraṁ maraṇāti, Na hoti tathāgato paraṁ maraṇāti; Neva hoti na na hoti tathāgato paraṁ maraṇāti.
 
-### 24.19 Vātasutta
+### 24.19 Vātasutta {#19}
 
 Sāvatthinidānaṁ.
 
@@ -482,7 +482,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya—na vātā vāyanti …pe
 
 Sattarasamaṁ.
 
-### 24.36 Nevahotinanahotisutta
+### 24.36 Nevahotinanahotisutta {#36}
 
 Sāvatthinidānaṁ.
 
@@ -514,7 +514,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘neva hoti na na hoti t
 
 “Vedanā …
 
-### 24.37 Rūpīattāsutta
+### 24.37 Rūpīattāsutta {#37}
 
 Sāvatthinidānaṁ.
 
@@ -530,7 +530,7 @@ Ekūnavīsatimaṁ.
 
 “Aniccaṁ, bhante” …pe… vipariṇāmadhammaṁ, api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘rūpī attā hoti arogo paraṁ maraṇā’”ti? “No hetaṁ, bhante”. “Iti kho, bhikkhave, dukkhe sati, dukkhaṁ upādāya, dukkhaṁ abhinivissa evaṁ diṭṭhi uppajjati: ‘rūpī attā hoti arogo paraṁ maraṇā’”ti? “Vedanā …pe… “no hetaṁ, bhante”.
 
-### 24.38 Arūpīattāsutta
+### 24.38 Arūpīattāsutta {#38}
 
 Sāvatthinidānaṁ.
 
@@ -540,7 +540,7 @@ Sāvatthinidānaṁ.
 
 Vīsatimaṁ.
 
-### 24.39 Rūpīcaarūpīcaattāsutta
+### 24.39 Rūpīcaarūpīcaattāsutta {#39}
 
 Sāvatthinidānaṁ.
 
@@ -548,31 +548,31 @@ Sāvatthinidānaṁ.
 
 Ekavīsatimaṁ.
 
-### 24.40 Nevarūpīnārūpīattāsutta
+### 24.40 Nevarūpīnārūpīattāsutta {#40}
 
 “Neva rūpī nārūpī attā hoti arogo paraṁ maraṇā”ti …pe….
 
 Bāvīsatimaṁ.
 
-### 24.41 Ekantasukhīsutta
+### 24.41 Ekantasukhīsutta {#41}
 
 “Ekantasukhī attā hoti arogo paraṁ maraṇā”ti …pe….
 
 Tevīsatimaṁ.
 
-### 24.42 Ekantadukkhīsutta
+### 24.42 Ekantadukkhīsutta {#42}
 
 “Ekantadukkhī attā hoti arogo paraṁ maraṇā”ti …pe….
 
 Catuvīsatimaṁ.
 
-### 24.43 Sukhadukkhīsutta
+### 24.43 Sukhadukkhīsutta {#43}
 
 “Sukhadukkhī attā hoti arogo paraṁ maraṇā”ti …pe….
 
 Pañcavīsatimaṁ.
 
-### 24.44 Adukkhamasukhīsutta
+### 24.44 Adukkhamasukhīsutta {#44}
 
 “Adukkhamasukhī attā hoti arogo paraṁ maraṇā”ti?
 
@@ -594,7 +594,7 @@ Dutiyapeyyālo.
 
 > Ekantadukkhī attā hoti, Sukhadukkhī attā hoti; Adukkhamasukhī attā hoti, Arogo paraṁ maraṇāti; Ime chabbīsati suttā, Dutiyavārena desitā.
 
-### 24.45 Navātasutta
+### 24.45 Navātasutta {#45}
 
 Sāvatthinidānaṁ.
 
@@ -630,7 +630,7 @@ vipariṇāmadhammaṁ, api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: �
 
 Pañcavīsatimaṁ.
 
-### 24.70 Adukkhamasukhīsutta
+### 24.70 Adukkhamasukhīsutta {#70}
 
 Sāvatthinidānaṁ.
 
@@ -660,7 +660,7 @@ api nu taṁ anupādāya evaṁ diṭṭhi uppajjeyya: ‘adukkhamasukhī attā 
 
 “Iti kho, bhikkhave, yadaniccaṁ taṁ dukkhaṁ. Tasmiṁ sati, tadupādāya evaṁ diṭṭhi uppajjati: ‘adukkhamasukhī attā hoti arogo paraṁ maraṇā’”ti.
 
-### 24.71 Navātasutta
+### 24.71 Navātasutta {#71}
 
 Sāvatthinidānaṁ.
 
@@ -704,7 +704,7 @@ Paṭhamaṁ.
 
 Pañcavīsatimaṁ.
 
-### 24.96 Adukkhamasukhīsutta
+### 24.96 Adukkhamasukhīsutta {#96}
 
 Sāvatthinidānaṁ.
 

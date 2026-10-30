@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 19.1
 
-### 19.1 Aṭṭhisutta
+### 19.1 Aṭṭhisutta {#1}
 
 Evaṁ me sutaṁ—“Akālo kho, āvuso lakkhaṇa, etassa pañhassa. Bhagavato maṁ santike etaṁ pañhaṁ pucchā”ti.
 
@@ -32,7 +32,7 @@ Eso, bhikkhave, satto imasmiṁyeva rājagahe goghātako ahosi. So tassa kammass
 
 (Sabbesaṁ suttantānaṁ eseva peyyālo.)
 
-### 19.2 Pesisutta
+### 19.2 Pesisutta {#2}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ maṁsapesiṁ vehāsaṁ gacchantiṁ. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. Sā sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -40,7 +40,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe goghātako ahosi …pe….
 
 Dutiyaṁ.
 
-### 19.3 Piṇḍasutta
+### 19.3 Piṇḍasutta {#3}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ maṁsapiṇḍaṁ vehāsaṁ gacchantaṁ. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. Sā sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -48,7 +48,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe sākuṇiko ahosi …pe….
 
 Tatiyaṁ.
 
-### 19.4 Nicchavisutta
+### 19.4 Nicchavisutta {#4}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ nicchaviṁ purisaṁ vehāsaṁ gacchantaṁ. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. So sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -56,7 +56,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe orabbhiko ahosi …pe….
 
 Catutthaṁ.
 
-### 19.5 Asilomasutta
+### 19.5 Asilomasutta {#5}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ asilomaṁ purisaṁ vehāsaṁ gacchantaṁ. Tassa te asī uppatitvā uppatitvā tasseva kāye nipatanti. So sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -64,7 +64,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe sūkariko ahosi …pe….
 
 Pañcamaṁ.
 
-### 19.6 Sattisutta
+### 19.6 Sattisutta {#6}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ sattilomaṁ purisaṁ vehāsaṁ gacchantaṁ. Tassa tā sattiyo uppatitvā uppatitvā tasseva kāye nipatanti. So sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -72,7 +72,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe māgaviko ahosi …pe….
 
 Chaṭṭhaṁ.
 
-### 19.7 Usulomasutta
+### 19.7 Usulomasutta {#7}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ usulomaṁ purisaṁ vehāsaṁ gacchantaṁ. Tassa te usū uppatitvā uppatitvā tasseva kāye nipatanti. So sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -80,7 +80,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe kāraṇiko ahosi …pe….
 
 Sattamaṁ.
 
-### 19.8 Sūcilomasutta
+### 19.8 Sūcilomasutta {#8}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ sūcilomaṁ purisaṁ vehāsaṁ gacchantaṁ. Tassa tā sūciyo uppatitvā uppatitvā tasseva kāye nipatanti. So sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -88,7 +88,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe sūto ahosi …pe….
 
 Aṭṭhamaṁ.
 
-### 19.9 Dutiyasūcilomasutta
+### 19.9 Dutiyasūcilomasutta {#9}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ sūcilomaṁ purisaṁ vehāsaṁ gacchantaṁ. Navamaṁ.
 
@@ -96,7 +96,7 @@ Tassa tā sūciyo sīse pavisitvā mukhato nikkhamanti; mukhe pavisitvā urato n
 
 eso, bhikkhave, satto imasmiṁyeva rājagahe sūcako ahosi …pe….
 
-### 19.10 Kumbhaṇḍasutta
+### 19.10 Kumbhaṇḍasutta {#10}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ kumbhaṇḍaṁ purisaṁ vehāsaṁ gacchantaṁ. So gacchantopi teva aṇḍe khandhe āropetvā gacchati. Nisīdantopi tesveva aṇḍesu nisīdati. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. So sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -110,7 +110,7 @@ Tassuddānaṁ
 
 > Aṭṭhi pesi ubho gāvaghātakā, Piṇḍo sākuṇiyo nicchavorabbhi; Asi sūkariko sattimāgavi, Usu kāraṇiko sūci sārathi; Yo ca sibbiyati sūcako hi so, Aṇḍabhāri ahu gāmakūṭakoti.
 
-### 19.11 Sasīsakasutta
+### 19.11 Sasīsakasutta {#11}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ rājagahe veḷuvane.
 
@@ -120,7 +120,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe pāradāriko ahosi …pe….
 
 Paṭhamaṁ.
 
-### 19.12 Gūthakhādasutta
+### 19.12 Gūthakhādasutta {#12}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ purisaṁ gūthakūpe nimuggaṁ ubhohi hatthehi gūthaṁ khādantaṁ …pe…
 
@@ -128,7 +128,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe duṭṭhabrāhmaṇo ahosi. So ka
 
 Dutiyaṁ.
 
-### 19.13 Nicchavitthisutta
+### 19.13 Nicchavitthisutta {#13}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ nicchaviṁ itthiṁ vehāsaṁ gacchantiṁ. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. Sā sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -136,7 +136,7 @@ esā, bhikkhave, itthī imasmiṁyeva rājagahe aticārinī ahosi …pe….
 
 Tatiyaṁ.
 
-### 19.14 Maṅgulitthisutta
+### 19.14 Maṅgulitthisutta {#14}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ itthiṁ duggandhaṁ maṅguliṁ vehāsaṁ gacchantiṁ. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. Sā sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -144,7 +144,7 @@ esā, bhikkhave, itthī imasmiṁyeva rājagahe ikkhaṇikā ahosi …pe….
 
 Catutthaṁ.
 
-### 19.15 Okilinīsutta
+### 19.15 Okilinīsutta {#15}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ itthiṁ uppakkaṁ okiliniṁ okiriniṁ vehāsaṁ gacchantiṁ. Sā sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -152,7 +152,7 @@ esā, bhikkhave, itthī kaliṅgassa rañño aggamahesī ahosi. Sā issāpakatā
 
 Pañcamaṁ.
 
-### 19.16 Asīsakasutta
+### 19.16 Asīsakasutta {#16}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ asīsakaṁ kabandhaṁ vehāsaṁ gacchantaṁ. Tassa ure akkhīni ceva honti mukhañca. Tamenaṁ gijjhāpi kākāpi kulalāpi anupatitvā anupatitvā vitacchenti virājenti. So sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -160,7 +160,7 @@ eso, bhikkhave, satto imasmiṁyeva rājagahe hāriko nāma coraghātako ahosi �
 
 Chaṭṭhaṁ.
 
-### 19.17 Pāpabhikkhusutta
+### 19.17 Pāpabhikkhusutta {#17}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ bhikkhuṁ vehāsaṁ gacchantaṁ. Tassa saṅghāṭipi ādittā sampajjalitā sajotibhūtā, pattopi āditto sampajjalito sajotibhūto, kāyabandhanampi ādittaṁ sampajjalitaṁ sajotibhūtaṁ, kāyopi āditto sampajjalito sajotibhūto. So sudaṁ aṭṭassaraṁ karoti …pe…
 
@@ -168,7 +168,7 @@ eso, bhikkhave, bhikkhu kassapassa sammāsambuddhassa pāvacane pāpabhikkhu aho
 
 Sattamaṁ.
 
-### 19.18 Pāpabhikkhunīsutta
+### 19.18 Pāpabhikkhunīsutta {#18}
 
 “Addasaṁ bhikkhuniṁ vehāsaṁ gacchantiṁ. Tassā saṅghāṭipi ādittā …pe…
 
@@ -176,7 +176,7 @@ pāpabhikkhunī ahosi …pe….
 
 Aṭṭhamaṁ.
 
-### 19.19 Pāpasikkhamānasutta
+### 19.19 Pāpasikkhamānasutta {#19}
 
 “Addasaṁ sikkhamānaṁ vehāsaṁ gacchantiṁ. Tassā saṅghāṭipi ādittā …pe…
 
@@ -184,7 +184,7 @@ pāpasikkhamānā ahosi …pe….
 
 Navamaṁ.
 
-### 19.20 Pāpasāmaṇerasutta
+### 19.20 Pāpasāmaṇerasutta {#20}
 
 “Addasaṁ sāmaṇeraṁ vehāsaṁ gacchantaṁ. Tassa saṅghāṭipi ādittā …pe…
 
@@ -192,7 +192,7 @@ pāpasāmaṇero ahosi …pe….
 
 Dasamaṁ.
 
-### 19.21 Pāpasāmaṇerīsutta
+### 19.21 Pāpasāmaṇerīsutta {#21}
 
 “Idhāhaṁ, āvuso, gijjhakūṭā pabbatā orohanto addasaṁ sāmaṇeriṁ vehāsaṁ gacchantiṁ. Tassā saṅghāṭipi ādittā sampajjalitā sajotibhūtā, pattopi āditto sampajjalito sajotibhūto, kāyabandhanampi ādittaṁ sampajjalitaṁ sajotibhūtaṁ, kāyopi āditto sampajjalito sajotibhūto. Sā sudaṁ aṭṭassaraṁ karoti. Tassa mayhaṁ, āvuso, etadahosi: ‘acchariyaṁ vata bho, abbhutaṁ vata bho. Evarūpopi nāma satto bhavissati. Evarūpopi nāma yakkho bhavissati. Evarūpopi nāma attabhāvapaṭilābho bhavissatī’”ti.
 

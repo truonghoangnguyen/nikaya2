@@ -23,14 +23,14 @@ tay đang co lại, hay co lại cánh tay đang duỗi ra, Ta biến mất tạ
 cây Tala vương, và hiện ra tại cõi Phạm thiên ấy. Này các Tỷ-kheo, Phạm thiên Baka thấy Ta từ xa đi
 đến, sau khi thấy, liền nói với Ta:
 
-"-- Hãy đến, Tôn giả, thiện lai Tôn giả, đã lâu, nay Tôn giả mới có dịp đến đây. Này Tôn giả, cái này là
+-- "Hãy đến, Tôn giả, thiện lai Tôn giả, đã lâu, nay Tôn giả mới có dịp đến đây. Này Tôn giả, cái này là
 toàn diện, cái này là thường hằng, cái này là thường tại, cái này là toàn diện, cái này không bị biến hoại,
 cái này không sanh, không già, không chết, không diệt, không khởi, ngoài cái này không có một giải
 thoát nào khác hơn.
 
 Khi nghe nói vậy, này các Tỷ-kheo, Ta nói với Phạm thiên Baka:
 
-"-- Thật sự Phạm thiên Baka bị chìm đắm trong vô minh, thật sự Phạm thiên Baka bị chìm đắm trong vô
+-- "Thật sự Phạm thiên Baka bị chìm đắm trong vô minh, thật sự Phạm thiên Baka bị chìm đắm trong vô
 minh, khi cái vô thường lại nói là thường, cái không thường hằng lại nói là thường hằng, cái không
 thường tại lại nói là thường tại, cái không toàn diện lại nói là toàn diện, cái bị biến hoại lại nói là không
 biến hoại, và tại chỗ có sanh, có già, có chết, có diệt, có khởi, lại nói không sanh, không già, không chết,
@@ -38,7 +38,7 @@ không diệt, không khởi; có một giải thoát khác hơn lại nói là 
 
 Này các Tỷ-kheo, rồi Ác ma nhập vào một Phạm thiên quyến thuộc và nói với Ta như sau:
 
-"-- Tỷ-kheo, Tỷ-kheo chớ có can thiệp vào đây! Chớ có can thiệp vào đây! Này Tỷ-kheo, Phạm thiên
+-- "Tỷ-kheo, Tỷ-kheo chớ có can thiệp vào đây! Chớ có can thiệp vào đây! Này Tỷ-kheo, Phạm thiên
 này là Ðại Phạm thiên, Toàn năng, Tối thắng, Biến nhãn, Thượng đế, Sáng tạo chủ, Hóa sanh chủ, Ðại
 tôn, Chúa tể mọi định mạng, đấng Tự tại, Tổ phụ các chúng sanh đã và sẽ sanh. Này Tỷ-kheo, thuở xưa
 có những Sa-môn, Bà-la-môn, ở đời phỉ báng địa đại, ghê tởm địa đại, phỉ báng thủy đại, ghê tởm thủy
@@ -61,7 +61,7 @@ Rồi này các Tỷ-kheo, Ác ma dắt Ta đến chúng Phạm thiên. Này cá
 với Ác ma như sau:
 
 <!--pg-->
-"-- Này Ác ma, Ta biết Ngươi. Chớ có nghĩ rằng: "Vị ấy không biết ta". Người là Ác ma. Này Ác ma,
+-- "Này Ác ma, Ta biết Ngươi. Chớ có nghĩ rằng: "Vị ấy không biết ta". Người là Ác ma. Này Ác ma,
 phàm là Phạm thiên, phàm là Phạm thiên chúng, phàm là Phạm thiên quyến thuộc, tất cả đều nằm trong
 tay của Ngươi, tất cả đều nằm trong quyền lực của Ngươi. Này Ác ma, nếu Ngươi nghĩ rằng: "Mong vị
 này nằm trong tay ta; mong vị này nằm trong quyền lực của ta!. Này Ác ma, Ta không nằm trong tay
@@ -69,7 +69,7 @@ của Ngươi. Ta không nằm trong quyền lực của Ngươi.
 
 Này các Tỷ-kheo, khi được nói vậy, Phạm thiên Baka nói với Ta như sau:
 
-"-- Này Tôn giả, cái gì thường còn, ta nói là thường còn; cái gì thường hằng, ta nói là thường hằng; cái
+-- "Này Tôn giả, cái gì thường còn, ta nói là thường còn; cái gì thường hằng, ta nói là thường hằng; cái
 gì thường tại, ta nói thường tại; cái gì toàn diện, ta nói là toàn diện; cái gì không biến hoại, ta nói là
 không biến hoại. Ở đây, cái gì không sanh, không già, không chết, không diệt, không khởi, ta nói rằng
 cái ấy không sanh, không già, không chết, không diệt, không khởi, và vì không có một sự giải thoát nào
@@ -83,13 +83,13 @@ gần ta, trú tại lãnh địa của ta, làm theo ý ta muốn, bị đứng
 phong đại... chúng sanh... Chư thiên... Sanh chủ... Nếu Ông y trước Phạm thiên, Ông sẽ gần ta, trú tại
 lãnh địa của ta, làm theo ý ta muốn, bị đứng ra ngoài lề.
 
-"-- Này Phạm thiên, Ta biết việc này. Nếu Ta y trước địa đại... thủy đại... hỏa đại... phong đại... chúng
+-- "Này Phạm thiên, Ta biết việc này. Nếu Ta y trước địa đại... thủy đại... hỏa đại... phong đại... chúng
 sanh... chư Thiên... Sanh chủ... Nếu Ta y trước Phạm thiên, Ta sẽ gần Ông, trú tại lãnh địa của Ông, làm
 theo ý Ông muốn, bị đứng ra ngoài lề. Lại nữa, này Phạm thiên, Ta biết sanh thú (gati) của Ông và Ta
 biết sự quang vinh của Ông. Phạm thiên Baka có thần lực như vậy; Phạm thiên Baka có quyền lực như
 vậy; Phạm thiên Baka có uy lực như vậy.
 
-"-- Này Tỷ-kheo, Như Ông biết sanh thú, Ông biết sự quang vinh của ta: "Phạm thiên Baka có thần lực
+-- "Này Tỷ-kheo, Như Ông biết sanh thú, Ông biết sự quang vinh của ta: "Phạm thiên Baka có thần lực
 như vậy; Phạm thiên Baka có quyền lực như vậy; Phạm thiên Baka có uy lực như vậy".
 
 *"- Như nhật nguyệt lưu chuyển,*\
@@ -131,7 +131,7 @@ Ta ở trong tất cả, Ta từ tất cả, tất cả là của Ta, và Ta kh�
 Ta còn không chịu ngang hàng Ông về thượng trí, huống nữa là thấp hơn. Do vậy, Ta thù thắng hơn
 Ông.
 
-"-- Này Tôn giả, đối với tất cả, nếu Tôn giả không lãnh thọ nhất thiết tánh, thì đối với Tôn giả, trở thành
+-- "Này Tôn giả, đối với tất cả, nếu Tôn giả không lãnh thọ nhất thiết tánh, thì đối với Tôn giả, trở thành
 trống không, trống rỗng, Thức là phi sở kiến, không biên tế, chói sáng tất cả, nếu không thể lãnh thọ địa
 đại ngang qua địa tánh, không thể lãnh thọ thủy đại ngang qua thủy tánh, không thể lãnh thọ hỏa đại
 ngang qua hỏa tánh, không thể lãnh thọ phong đại ngang qua phong tánh, không thể lãnh thọ chúng sanh
@@ -143,18 +143,18 @@ thể lãnh thọ Abhibhu (Thắng giả) ngang qua Abhibhu tánh, không thể 
 nhứt thiết tánh. Này Tôn giả, nay ta sẽ biến mất trước mặt Tôn giả.
 
 <!--pg-->
-"-- Này Phạm thiên, hãy biến đi trước mặt Ta, nếu Ông có thể biến được.
+-- "Này Phạm thiên, hãy biến đi trước mặt Ta, nếu Ông có thể biến được.
 
 Rồi này các Tỷ-kheo, Phạm thiên Baka nói:
 
-"-- Ta sẽ biến mất trước mặt Sa-môn Gotama. Ta sẽ biến mất trước Sa-môn Gotama.
+-- "Ta sẽ biến mất trước mặt Sa-môn Gotama. Ta sẽ biến mất trước Sa-môn Gotama.
 
 Nhưng Phạm thiên Baka không biến mất trước mặt Ta. Này các Tỷ-kheo, khi nghe nói vậy, Ta nói với
 Phạm thiên Baka:
 
-"-- Này Phạm thiên, Ta sẽ biến mất trước mặt Ông.
+-- "Này Phạm thiên, Ta sẽ biến mất trước mặt Ông.
 
-"-- Này Tôn giả, Tôn giả hãy biến đi trước mặt Ta, nếu Tôn giả có thể biến được.
+-- "Này Tôn giả, Tôn giả hãy biến đi trước mặt Ta, nếu Tôn giả có thể biến được.
 
 Rồi này các Tỷ-kheo, Ta thực hiện thần thông như sau: "Hãy để cho Phạm thiên, Phạm thiên chúng và
 Phạm thiên quyến thuộc nghe tiếng Ta chớ không thấy Ta", Ta biến mất và nói lên bài kệ như sau:
@@ -173,7 +173,7 @@ nhổ hữu lên tận cả gốc rễ!"
 
 Rồi này các Tỷ-kheo, Ác ma sau khi nhập vào một trong Phạm thiên quyến thuộc đã nói với Ta như sau:
 
-"-- Này Tôn giả, nếu Ông biết như vậy, giác ngộ như vậy, chớ có hướng dẫn đệ tử, chớ có hướng dẫn
+-- "Này Tôn giả, nếu Ông biết như vậy, giác ngộ như vậy, chớ có hướng dẫn đệ tử, chớ có hướng dẫn
 các vị xuất gia, chớ có thuyết pháp cho các đệ tử, chớ có thuyết pháp cho các vị xuất gia, chớ có ái luyến
 đệ tử, chớ có ái luyến các vị xuất gia. Này các Tỷ-kheo, trước Ông đã có những vị Sa-môn, Bà-la-môn ở
 đời tự xưng là bậc A-la-hán, Chánh Ðẳng Giác. Những vị này hướng dẫn đệ tử, hướng dẫn các vị xuất
@@ -191,7 +191,7 @@ Này Tôn giả, chớ có nêu rõ việc thiện. Này Tôn giả, chớ có g
 
 Này các Tỷ-kheo khi nghe nói vậy, Ta nói với Ác ma như sau:
 
-"-- Này Ác ma, Ta biết Ngươi! Ngươi chớ có nghĩ rằng: "Vị ấy không biết ta". Này Ác ma, Ngươi là Ác
+-- "Này Ác ma, Ta biết Ngươi! Ngươi chớ có nghĩ rằng: "Vị ấy không biết ta". Này Ác ma, Ngươi là Ác
 ma! Ngươi là Ác ma! Này Ác ma, Ngươi nói như vậy không phải vì lòng thương tưởng đối với Ta. Này
 Ác ma, Ngươi nói như vậy vì không có lòng thương tưởng đối với Ta. Này Ác ma, Ngươi nghĩ như sau:
 "Những ai được Sa-môn Gotama thuyết pháp, những người ấy sẽ thoát ra ngoài tầm tay ảnh hưởng của

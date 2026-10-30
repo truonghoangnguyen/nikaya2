@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 52.1
 
-### 52.1 Paṭhamarahogatasutta
+### 52.1 Paṭhamarahogatasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmato anuruddhassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi:
 
@@ -32,7 +32,7 @@ So sace ākaṅkhati: ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, pa�
 
 Ajjhattaṁ dhammesu …pe… bahiddhā dhammesu …pe… ajjhattabahiddhā dhammesu samudayadhammānupassī viharati … ajjhattabahiddhā dhammesu vayadhammānupassī viharati … ajjhattabahiddhā dhammesu samudayavayadhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
 
-### 52.2 Dutiyarahogatasutta
+### 52.2 Dutiyarahogatasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -54,7 +54,7 @@ Ajjhattaṁ dhammesu …pe… bahiddhā dhammesu …pe… ajjhattabahiddhā dham
 
 Dutiyaṁ.
 
-### 52.3 Sutanusutta
+### 52.3 Sutanusutta {#3}
 
 Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati sutanutīre. Atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū āyasmantaṁ anuruddhaṁ etadavocuṁ:
 
@@ -66,7 +66,7 @@ Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā ba
 
 Tatiyaṁ.
 
-### 52.4 Paṭhamakaṇḍakīsutta
+### 52.4 Paṭhamakaṇḍakīsutta {#4}
 
 Ekaṁ samayaṁ āyasmā ca anuruddho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sākete viharanti kaṇḍakīvane. Atha kho āyasmā ca sāriputto āyasmā ca mahāmoggallāno sāyanhasamayaṁ paṭisallānā vuṭṭhitā yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca:
 
@@ -76,7 +76,7 @@ Ekaṁ samayaṁ āyasmā ca anuruddho āyasmā ca sāriputto āyasmā ca mahām
 
 Catutthaṁ.
 
-### 52.5 Dutiyakaṇḍakīsutta
+### 52.5 Dutiyakaṇḍakīsutta {#5}
 
 Sāketanidānaṁ. asekhenāvuso sāriputta, bhikkhunā ime cattāro satipaṭṭhānā upasampajja vihātabbā”ti.
 
@@ -88,7 +88,7 @@ Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca
 
 “Asekhenāvuso sāriputta, bhikkhunā cattāro satipaṭṭhānā upasampajja vihātabbā. Katame cattāro? Idhāvuso, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—
 
-### 52.6 Tatiyakaṇḍakīsutta
+### 52.6 Tatiyakaṇḍakīsutta {#6}
 
 Sāketanidānaṁ. imesaṁ khvāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto.
 
@@ -102,7 +102,7 @@ Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca
 
 “Catunnaṁ khvāhaṁ, āvuso, satipaṭṭhānānaṁ bhāvitattā bahulīkatattā mahābhiññataṁ patto. Katamesaṁ catunnaṁ? Idhāhaṁ, āvuso, kāye kāyānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharāmi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—
 
-### 52.7 Taṇhākkhayasutta
+### 52.7 Taṇhākkhayasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -114,7 +114,7 @@ Tatra kho āyasmā anuruddho bhikkhū āmantesi: “āvuso bhikkhavo”ti.
 
 Sattamaṁ.
 
-### 52.8 Salaḷāgārasutta
+### 52.8 Salaḷāgārasutta {#8}
 
 Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati salaḷāgāre. Sā na sukarā pacchāninnaṁ kātuṁ pacchāpoṇaṁ pacchāpabbhāraṁ. Yāvadeva ca pana so mahājanakāyo kilamathassa vighātassa bhāgī assā”ti.
 
@@ -128,7 +128,7 @@ Taṁ kissa hetu? Yañhi taṁ, āvuso, cittaṁ dīgharattaṁ vivekaninnaṁ v
 
 Kathañcāvuso, bhikkhu cattāro satipaṭṭhāne bhāveti, cattāro satipaṭṭhāne bahulīkarotīti? Idhāvuso, bhikkhu kāye kāyānupassī viharati …pe… vedanāsu …pe… citte …pe… dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ. Evaṁ kho, āvuso, bhikkhu cattāro satipaṭṭhāne bhāveti, cattāro satipaṭṭhāne bahulīkarotī”ti.
 
-### 52.9 Ambapālivanasutta
+### 52.9 Ambapālivanasutta {#9}
 
 Ekaṁ samayaṁ āyasmā ca anuruddho āyasmā ca sāriputto vesāliyaṁ viharanti ambapālivane. Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito …pe… ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ anuruddhaṁ etadavoca:
 
@@ -140,7 +140,7 @@ Katamenāyasmā anuruddho vihārena etarahi bahulaṁ viharatī”ti?
 
 Navamaṁ.
 
-### 52.10 Bāḷhagilānasutta
+### 52.10 Bāḷhagilānasutta {#10}
 
 Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati andhavanasmiṁ ābādhiko dukkhito bāḷhagilāno. Atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmantaṁ anuruddhaṁ etadavocuṁ:
 
@@ -156,7 +156,7 @@ Tassuddānaṁ
 
 > Rahogatena dve vuttā, sutanu kaṇḍakī tayo; Taṇhākkhayasalaḷāgāraṁ, ambapāli ca gilānanti.
 
-### 52.11 Kappasahassasutta
+### 52.11 Kappasahassasutta {#11}
 
 Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sambahulā bhikkhū yenāyasmā anuruddho tenupasaṅkamiṁsu; upasaṅkamitvā āyasmatā anuruddhena saddhiṁ …pe… ekamantaṁ nisinnā kho te bhikkhū āyasmantaṁ anuruddhaṁ etadavocuṁ:
 
@@ -168,79 +168,79 @@ Paṭhamaṁ.
 
 Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā kappasahassaṁ anussarāmī”ti.
 
-### 52.12 Iddhividhasutta
+### 52.12 Iddhividhasutta {#12}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā anekavihitaṁ iddhividhaṁ paccanubhomi—ekopi hutvā bahudhā homi …pe… yāva brahmalokāpi kāyena vasaṁ vattemī”ti.
 
 Dutiyaṁ.
 
-### 52.13 Dibbasotasutta
+### 52.13 Dibbasotasutta {#13}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā dibbāya sotadhātuyā visuddhāya atikkantamānusikāya ubho sadde suṇāmi dibbe ca mānuse ca ye dūre santike cā”ti.
 
 Tatiyaṁ.
 
-### 52.14 Cetopariyasutta
+### 52.14 Cetopariyasutta {#14}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā parasattānaṁ parapuggalānaṁ cetasā ceto paricca pajānāmi—sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāmi …pe… avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānāmī”ti.
 
 Catutthaṁ.
 
-### 52.15 Ṭhānasutta
+### 52.15 Ṭhānasutta {#15}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā ṭhānañca ṭhānato aṭṭhānañca aṭṭhānato yathābhūtaṁ pajānāmī”ti.
 
 Pañcamaṁ.
 
-### 52.16 Kammasamādānasutta
+### 52.16 Kammasamādānasutta {#16}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā atītānāgatapaccuppannānaṁ kammasamādānānaṁ ṭhānaso hetuso vipākaṁ yathābhūtaṁ pajānāmī”ti.
 
 Chaṭṭhaṁ.
 
-### 52.17 Sabbatthagāminisutta
+### 52.17 Sabbatthagāminisutta {#17}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā sabbatthagāminippaṭipadaṁ yathābhūtaṁ pajānāmī”ti.
 
 Sattamaṁ.
 
-### 52.18 Nānādhātusutta
+### 52.18 Nānādhātusutta {#18}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā anekadhātunānādhātulokaṁ yathābhūtaṁ pajānāmī”ti.
 
 Aṭṭhamaṁ.
 
-### 52.19 Nānādhimuttisutta
+### 52.19 Nānādhimuttisutta {#19}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā sattānaṁ nānādhimuttikataṁ yathābhūtaṁ pajānāmī”ti.
 
 Navamaṁ.
 
-### 52.20 Indriyaparopariyattasutta
+### 52.20 Indriyaparopariyattasutta {#20}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā parasattānaṁ parapuggalānaṁ indriyaparopariyattaṁ yathābhūtaṁ pajānāmī”ti.
 
 Dasamaṁ.
 
-### 52.21 Jhānādisutta
+### 52.21 Jhānādisutta {#21}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā jhānavimokkhasamādhisamāpattīnaṁ saṅkilesaṁ vodānaṁ vuṭṭhānaṁ yathābhūtaṁ pajānāmī”ti.
 
 Ekādasamaṁ.
 
-### 52.22 Pubbenivāsasutta
+### 52.22 Pubbenivāsasutta {#22}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā anekavihitaṁ pubbenivāsaṁ anussarāmi, seyyathidaṁ—ekampi jātiṁ dvepi jātiyo …pe… iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarāmī”ti.
 
 Dvādasamaṁ.
 
-### 52.23 Dibbacakkhusutta
+### 52.23 Dibbacakkhusutta {#23}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne …pe… iti dibbena cakkhunā visuddhena atikkantamānusakena yathākammūpage satte pajānāmī”ti.
 
 Terasamaṁ.
 
-### 52.24 Āsavakkhayasutta
+### 52.24 Āsavakkhayasutta {#24}
 
 “Imesañca panāhaṁ, āvuso, catunnaṁ satipaṭṭhānānaṁ bhāvitattā bahulīkatattā āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharāmī”ti.
 

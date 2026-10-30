@@ -1,7 +1,7 @@
 # Tương Ưng Bộ 47. Tương Ưng Nơi Chú Tâm (Satipaṭṭhānasaṁyutta)
 
 <!--pg-->
-### 47.1 Kinh Ambapāli (Ambapālisutta)
+### 47.1 Kinh Ambapāli (Ambapālisutta) {#1}
 
 Tôi đã nghe như vầy—một thời Thế Tôn trú ở Vesāli, tại khu rừng của Ambapāli. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo."
 
@@ -24,7 +24,7 @@ Thế Tôn nói điều này. Các tỳ kheo ấy hài lòng, vui mừng đón n
 Kinh thứ nhất.
 
 <!--pg-->
-### 47.2 Kinh Tập Trung Chú Ý (Satisutta)
+### 47.2 Kinh Tập Trung Chú Ý (Satisutta) {#2}
 
 Một thời Thế Tôn trú ở Vesāli, tại khu rừng của Ambapāli. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo."
 
@@ -39,7 +39,7 @@ Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở
 Kinh thứ hai.
 
 <!--pg-->
-### 47.3 Kinh Tỳ Kheo (Bhikkhusutta)
+### 47.3 Kinh Tỳ Kheo (Bhikkhusutta) {#3}
 
 Một thời Thế Tôn trú ở Sāvatthi, tại rừng Jeta, tu viện của Anāthapiṇḍika.
 
@@ -70,7 +70,7 @@ Vị ấy biết rõ: "*Sự Tái sinh* (sinh / jāti) đã *cạn kiệt* (đo�
 Kinh thứ ba.
 
 <!--pg-->
-### 47.4 Kinh Sāla (Sālasutta)*
+### 47.4 Kinh Sāla (Sālasutta)* {#4}
 
 Một thời Thế Tôn trú ở Kosala, tại ngôi làng Bà-la-môn tên là Sālā. Tại đó, Thế Tôn gọi các tỳ kheo [...lặp lại...] và nói điều này:
 
@@ -85,7 +85,7 @@ Này các tỳ kheo, những tỳ kheo nào mới tu, vừa mới xuất gia, m�
 Kinh thứ tư.
 
 <!--pg-->
-### 47.5 Kinh Đống Bất Thiện (Akusalarāsisutta)
+### 47.5 Kinh Đống Bất Thiện (Akusalarāsisutta) {#5}
 
 Bối cảnh ở Sāvatthi.
 
@@ -98,7 +98,7 @@ Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống t
 Này các tỳ kheo, toàn bộ đống thiện này chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...] vị ấy sống *quan sát Điều dạy qua các Điều*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Này các tỳ kheo, nếu có ai nói một cách đúng đắn về 'đống thiện', người ấy nên nói về *bốn nơi chú tâm* này. Này các tỳ kheo, toàn bộ đống thiện này chính là *bốn nơi chú tâm*."
 
 <!--pg-->
-### 47.6 Kinh Chim Cắt (Sakuṇagghisutta)
+### 47.6 Kinh Chim Cắt (Sakuṇagghisutta) {#6}
 
 "Này các tỳ kheo, chuyện xưa kể rằng, một con chim cắt đột ngột sà xuống vồ lấy một con chim cút. Này các tỳ kheo, khi con chim cút bị chim cắt quắp mang đi, nó than vãn như sau: 'Ta thật vô phước, ta thật thiếu may mắn, vì ta đã đi lang thang ngoài lãnh địa, vào vùng đất của kẻ khác. Nếu hôm nay ta đi trong lãnh địa của mình, vùng đất của tổ tiên, thì con chim cắt này không thể làm gì được ta trong cuộc chiến này.'
 
@@ -127,7 +127,7 @@ Này các tỳ kheo, đối với người đi trong lãnh địa của mình, v
 Và này các tỳ kheo, lãnh địa của tỳ kheo, vùng đất của tổ tiên là gì? Đó chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...]
 
 <!--pg-->
-### 47.7 Kinh Con Khỉ (Makkaṭasutta)
+### 47.7 Kinh Con Khỉ (Makkaṭasutta) {#7}
 
 "Này các tỳ kheo, ở dãy núi chúa Himalaya có những vùng hiểm trở, gồ ghề, nơi khỉ không thể đi tới và con người cũng không thể đi tới. Này các tỳ kheo, ở dãy núi chúa Himalaya có những vùng hiểm trở, gồ ghề, nơi khỉ có thể đi tới nhưng con người không thể đi tới. Này các tỳ kheo, ở dãy núi chúa Himalaya có những vùng đất bằng phẳng, dễ chịu, nơi cả khỉ và con người đều có thể đi tới. Tại đó, này các tỳ kheo, những người thợ săn đặt bẫy nhựa trên các lối đi của khỉ để bắt khỉ.
 
@@ -150,7 +150,7 @@ Này các tỳ kheo, đối với người đi trong lãnh địa của mình, v
 Và này các tỳ kheo, lãnh địa của tỳ kheo, vùng đất của tổ tiên là gì? Đó chính là *bốn nơi chú tâm*. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý* để *loại bỏ* *lòng tham* và *ưu phiền* ở đời; vị ấy sống *quan sát cảm thọ qua cảm thọ của mình* [...lặp lại...] vị ấy sống *quan sát tâm qua tâm của mình* [...lặp lại...]
 
 <!--pg-->
-### 47.8 Kinh Người Đầu Bếp (Sūdasutta)*
+### 47.8 Kinh Người Đầu Bếp (Sūdasutta)* {#8}
 
 "Này các tỳ kheo, giả sử có một người đầu bếp ngu ngốc, không khéo léo, không giỏi giang, phục vụ nhà vua hoặc đại thần của vua với nhiều loại món canh khác nhau—có vị chua, vị đắng, vị cay, vị ngọt, vị chát, vị không chát, vị mặn, vị không mặn.
 
@@ -175,7 +175,7 @@ Cũng giống như vậy, này các tỳ kheo, ở đây có một tỳ kheo kh�
 Kinh thứ tám.
 
 <!--pg-->
-### 47.9 Kinh Người Bệnh (Gilānasutta)
+### 47.9 Kinh Người Bệnh (Gilānasutta) {#9}
 
 Tôi đã nghe như vầy—một thời Thế Tôn trú ở Vesāli, tại ngôi làng nhỏ Beḷuva. Tại đó, Thế Tôn gọi các tỳ kheo: "Đến đây, này các tỳ kheo, hãy an cư mùa mưa xung quanh Vesāli, tùy theo chỗ có bạn bè, người quen, người thân thiết. Còn Ta sẽ an cư mùa mưa ngay tại ngôi làng nhỏ Beḷuva này."
 
@@ -206,7 +206,7 @@ Này Ānanda, bất cứ ai, bây giờ hoặc sau khi Ta qua đời, sống t�
 Kinh thứ chín.
 
 <!--pg-->
-### 47.10 Kinh Chỗ Ở Của Tỳ Kheo Ni (Bhikkhunupassayasutta)
+### 47.10 Kinh Chỗ Ở Của Tỳ Kheo Ni (Bhikkhunupassayasutta) {#10}
 
 Rồi Tôn giả Ānanda vào buổi sáng, mặc y, mang bình bát, đi đến một chỗ ở của tỳ kheo ni; sau khi đến, ngồi trên chỗ ngồi đã được dọn sẵn. Rồi nhiều tỳ kheo ni đi đến chỗ Tôn giả Ānanda; sau khi đến, đảnh lễ Tôn giả Ānanda rồi ngồi xuống một bên. Ngồi một bên, các tỳ kheo ni ấy nói với Tôn giả Ānanda điều này:
 
@@ -249,7 +249,7 @@ Tóm tắt phẩm:
 > Ambapāli, tỳ kheo tập trung chú ý, Sālā và đống thiện; Chim cắt, con khỉ, người đầu bếp, Người bệnh và chỗ ở của tỳ kheo ni.
 
 <!--pg-->
-### 47.11 Kinh Bậc Đại Nhân (Mahāpurisasutta)
+### 47.11 Kinh Bậc Đại Nhân (Mahāpurisasutta) {#11}
 
 Bối cảnh ở Sāvatthi.
 
@@ -268,7 +268,7 @@ Này Sāriputta, vì tâm được giải thoát, Ta gọi là 'bậc đại nh�
 Kinh thứ nhất.
 
 <!--pg-->
-### 47.12 Kinh Nālanda (Nālandasutta)
+### 47.12 Kinh Nālanda (Nālandasutta) {#12}
 
 Một thời Thế Tôn trú ở Nālanda, tại rừng xoài Pāvārika. Rồi Tôn giả Sāriputta đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Sāriputta nói với Thế Tôn điều này:
 
@@ -299,7 +299,7 @@ Cũng giống như vậy, bạch Thế Tôn, con đã hiểu rõ dòng chảy c�
 Kinh thứ hai.
 
 <!--pg-->
-### 47.13 Kinh Cunda (Cundasutta)
+### 47.13 Kinh Cunda (Cundasutta) {#13}
 
 Một thời Thế Tôn trú ở Sāvatthi, tại rừng Jeta, tu viện của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta đang trú ở Magadha, tại ngôi làng nhỏ Nālaka, bị bệnh, đau đớn, ốm nặng. Và sa-di Cunda là thị giả của Tôn giả Sāriputta.
 
@@ -336,7 +336,7 @@ Này Ānanda, bất cứ ai, bây giờ hoặc sau khi Ta qua đời, sống t�
 Kinh thứ ba.
 
 <!--pg-->
-### 47.14 Kinh Ukkacela (Ukkacelasutta)
+### 47.14 Kinh Ukkacela (Ukkacelasutta) {#14}
 
 Một thời Thế Tôn trú ở lãnh thổ của người Vajjī, tại Ukkacelā, trên bờ sông Hằng, cùng với một đại chúng tỳ kheo, không lâu sau khi Sāriputta và Moggallāna viên tịch. Lúc bấy giờ, Thế Tôn đang ngồi ngoài trời, được Tăng chúng bao quanh.
 
@@ -363,7 +363,7 @@ Này các tỳ kheo, bất cứ ai, bây giờ hoặc sau khi Ta qua đời, s�
 Kinh thứ tư.
 
 <!--pg-->
-### 47.15 Kinh Bāhiya (Bāhiyasutta)
+### 47.15 Kinh Bāhiya (Bāhiyasutta) {#15}
 
 Bối cảnh ở Sāvatthi.
 
@@ -382,7 +382,7 @@ Vị ấy biết rõ: "*Sự Tái sinh* đã *cạn kiệt*, *cốt lõi đời 
 Kinh thứ năm.
 
 <!--pg-->
-### 47.16 Kinh Uttiya (Uttiyasutta)
+### 47.16 Kinh Uttiya (Uttiyasutta) {#16}
 
 Bối cảnh ở Sāvatthi.
 
@@ -399,7 +399,7 @@ Vị ấy biết rõ: "*Sự Tái sinh* đã *cạn kiệt*, *cốt lõi đời 
 Kinh thứ sáu.
 
 <!--pg-->
-### 47.17 Kinh Bậc Thánh (Ariyasutta)
+### 47.17 Kinh Bậc Thánh (Ariyasutta) {#17}
 
 "Này các tỳ kheo, *bốn nơi chú tâm* này khi được phát triển, được thực hành nhiều lần, là thuộc về bậc thánh, dẫn đến sự thoát ly, dẫn người thực hành đến sự chấm dứt hoàn toàn *đau khổ*. Bốn nơi nào?
 
@@ -410,7 +410,7 @@ Này các tỳ kheo, *bốn nơi chú tâm* này khi được phát triển, đ�
 Kinh thứ bảy.
 
 <!--pg-->
-### 47.18 Kinh Phạm Thiên (Brahmasutta)
+### 47.18 Kinh Phạm Thiên (Brahmasutta) {#18}
 
 Một thời Thế Tôn trú ở Uruvelā, trên bờ sông Nerañjarā, dưới gốc cây đa Ajapāla, ngay sau khi vừa giác ngộ.
 
@@ -434,7 +434,7 @@ Phạm thiên Sahampati nói điều này. Sau khi nói điều này, vị ấy 
 Kinh thứ tám.
 
 <!--pg-->
-### 47.19 Kinh Sedaka (Sedakasutta)
+### 47.19 Kinh Sedaka (Sedakasutta) {#19}
 
 Một thời Thế Tôn trú ở lãnh thổ của người Sumbha, tại một thị trấn của người Sumbha tên là Sedaka.
 
@@ -457,7 +457,7 @@ Bằng cách thực hành, bằng cách phát triển, bằng cách làm cho nhi
 Này các tỳ kheo, 'ta sẽ bảo vệ chính mình', *nơi chú tâm* cần được thực hành như vậy; 'ta sẽ bảo vệ người khác', *nơi chú tâm* cần được thực hành như vậy. Này các tỳ kheo, bảo vệ chính mình là bảo vệ người khác, bảo vệ người khác là bảo vệ chính mình."
 
 <!--pg-->
-### 47.20 Kinh Người Đẹp Của Xứ Sở (Janapadakalyāṇīsutta)
+### 47.20 Kinh Người Đẹp Của Xứ Sở (Janapadakalyāṇīsutta) {#20}
 
 Tôi đã nghe như vầy—một thời Thế Tôn trú ở lãnh thổ của người Sumbha, tại một thị trấn của người Sumbha tên là Sedaka. Tại đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo."
 
@@ -488,7 +488,7 @@ Tóm tắt phẩm:
 > Bậc đại nhân, Nālanda, Cunda, Cela và Bāhiya; Uttiya, bậc thánh, Phạm thiên, Sedaka và Người đẹp của xứ sở.
 
 <!--pg-->
-### 47.21 Kinh Về Nền Tảng Đạo Đức (Sīlasutta)
+### 47.21 Kinh Về Nền Tảng Đạo Đức (Sīlasutta) {#21}
 
 Tôi đã nghe như vầy—một thời Tôn giả Ānanda và Tôn giả Bhadda trú tại Pāṭaliputta, trong khu vườn Kukkuṭa. Rồi Tôn giả Bhadda, vào buổi chiều, sau khi xuất định, đi đến chỗ Tôn giả Ānanda; sau khi đến, vị ấy trao đổi những lời chào hỏi thân hữu với Tôn giả Ānanda. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Bhadda nói với Tôn giả Ānanda điều này:
 
@@ -505,7 +505,7 @@ Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ t
 Kinh thứ nhất.
 
 <!--pg-->
-### 47.22 Kinh Về Sự Tồn Tại Lâu Dài (Ciraṭṭhitisutta)
+### 47.22 Kinh Về Sự Tồn Tại Lâu Dài (Ciraṭṭhitisutta) {#22}
 
 Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Bhadda nói với Tôn giả Ānanda điều này:
 
@@ -522,7 +522,7 @@ Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ t
 Kinh thứ hai.
 
 <!--pg-->
-### 47.23 Kinh Về Sự Suy Thoái (Parihānasutta)
+### 47.23 Kinh Về Sự Suy Thoái (Parihānasutta) {#23}
 
 Một thời Tôn giả Ānanda và Tôn giả Bhadda trú tại Pāṭaliputta, trong khu vườn Kukkuṭa. Rồi Tôn giả Bhadda, vào buổi chiều, sau khi xuất định, đi đến chỗ Tôn giả Ānanda; sau khi đến, vị ấy trao đổi những lời chào hỏi thân hữu với Tôn giả Ānanda. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Bhadda nói với Tôn giả Ānanda điều này:
 
@@ -539,7 +539,7 @@ Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ t
 Kinh thứ ba.
 
 <!--pg-->
-### 47.24 Kinh Thuần Túy (Suddhasutta)
+### 47.24 Kinh Thuần Túy (Suddhasutta) {#24}
 
 Bối cảnh ở Sāvatthi.
 
@@ -550,7 +550,7 @@ Này các tỳ kheo, đây là *bốn nơi chú tâm*."
 Kinh thứ tư.
 
 <!--pg-->
-### 47.25 Kinh Về Một Bà-la-môn (Aññatarabrāhmaṇasutta)
+### 47.25 Kinh Về Một Bà-la-môn (Aññatarabrāhmaṇasutta) {#25}
 
 Tôi đã nghe như vầy—một thời Thế Tôn trú tại Sāvatthi, trong khu rừng Jeta, tu viện của Anāthapiṇḍika. Rồi một Bà-la-môn đi đến chỗ Thế Tôn; sau khi đến, vị ấy trao đổi những lời chào hỏi thân hữu với Thế Tôn. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn ấy nói với Thế Tôn điều này:
 
@@ -565,7 +565,7 @@ Khi được nói như vậy, Bà-la-môn ấy thưa với Thế Tôn: "Thật t
 Kinh thứ năm.
 
 <!--pg-->
-### 47.26 Kinh Về Một Phần (Padesasutta)
+### 47.26 Kinh Về Một Phần (Padesasutta) {#26}
 
 Một thời Tôn giả Sāriputta, Tôn giả Mahāmoggallāna và Tôn giả Anuruddha trú tại Sāketa, trong khu rừng Kaṇḍakī. Rồi Tôn giả Sāriputta và Tôn giả Mahāmoggallāna, vào buổi chiều, sau khi xuất định, đi đến chỗ Tôn giả Anuruddha; sau khi đến, các vị ấy trao đổi những lời chào hỏi thân hữu với Tôn giả Anuruddha. Sau khi trao đổi những lời chào hỏi thân hữu và thăm hỏi, các vị ấy ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Sāriputta nói với Tôn giả Anuruddha điều này:
 
@@ -578,7 +578,7 @@ Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ t
 Kinh thứ sáu.
 
 <!--pg-->
-### 47.27 Kinh Về Sự Trọn Vẹn (Samattasutta)
+### 47.27 Kinh Về Sự Trọn Vẹn (Samattasutta) {#27}
 
 Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Sāriputta nói với Tôn giả Anuruddha điều này:
 
@@ -591,7 +591,7 @@ Bốn nơi nào? Ở đây, này hiền giả, tỳ kheo *sống quan sát cơ t
 Kinh thứ bảy.
 
 <!--pg-->
-### 47.28 Kinh Về Thế Giới (Lokasutta)
+### 47.28 Kinh Về Thế Giới (Lokasutta) {#28}
 
 Cùng một bối cảnh. Ngồi xuống một bên, Tôn giả Sāriputta nói với Tôn giả Anuruddha điều này: "Này hiền giả Anuruddha, do *luyện tập*, do làm cho nhiều lên những *Điều* (pháp / dhammānaṁ) nào mà hiền giả đạt được *sự hiểu biết toàn bộ vĩ đại* (đại thắng tri / mahābhiññataṁ)?"
 
@@ -604,7 +604,7 @@ Và này hiền giả, chính do *luyện tập*, do làm cho nhiều lên *bố
 Kinh thứ tám.
 
 <!--pg-->
-### 47.29 Kinh Về Sirivaḍḍha (Sirivaḍḍhasutta)
+### 47.29 Kinh Về Sirivaḍḍha (Sirivaḍḍhasutta) {#29}
 
 Một thời Tôn giả Ānanda trú tại Rājagaha, trong khu rừng Tre, chỗ nuôi dưỡng sóc. Lúc bấy giờ, cư sĩ Sirivaḍḍha bị bệnh, đau đớn, ốm nặng. Ông bảo một người đàn ông:
 
@@ -627,7 +627,7 @@ Rồi Tôn giả Ānanda, vào buổi sáng, đắp y, mang bát, đi đến nh�
 Kinh thứ chín.
 
 <!--pg-->
-### 47.30 Kinh Về Mānadinna (Mānadinnasutta)
+### 47.30 Kinh Về Mānadinna (Mānadinnasutta) {#30}
 
 Cùng một bối cảnh. Lúc bấy giờ, cư sĩ Mānadinna bị bệnh, đau đớn, ốm nặng. Rồi cư sĩ Mānadinna bảo một người đàn ông:
 
@@ -647,7 +647,7 @@ Tóm tắt phẩm:
 > Cùng Mānadinna là mười.
 
 <!--pg-->
-### 47.31 Kinh Về Những Điều Chưa Từng Nghe (Ananussutasutta)
+### 47.31 Kinh Về Những Điều Chưa Từng Nghe (Ananussutasutta) {#31}
 
 Bối cảnh ở Sāvatthi.
 
@@ -662,7 +662,7 @@ Này các tỳ kheo, đối với những *Điều* chưa từng được nghe t
 Kinh thứ nhất.
 
 <!--pg-->
-### 47.32 Kinh Về Sự Cạn Hết Đắm Nhiễm (Virāgasutta)
+### 47.32 Kinh Về Sự Cạn Hết Đắm Nhiễm (Virāgasutta) {#32}
 
 "Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến sự chán ngán hoàn toàn, *cạn hết đắm nhiễm* (ly tham / virāgāya), *chấm dứt* (diệt / nirodhāya), *lắng dịu* (tịch tịnh / upasamāya), *hiểu toàn bộ* (thắng tri / abhiññāya), giác ngộ, Niết-bàn.
 
@@ -673,7 +673,7 @@ Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, �
 Kinh thứ hai.
 
 <!--pg-->
-### 47.33 Kinh Về Sự Bỏ Lỡ (Viraddhasutta)
+### 47.33 Kinh Về Sự Bỏ Lỡ (Viraddhasutta) {#33}
 
 "Này các tỳ kheo, đối với bất kỳ ai bỏ lỡ *bốn nơi chú tâm*, người đó bỏ lỡ con đường của bậc thánh dẫn đến sự *cạn kiệt* (đoạn tận / khaya) *đau khổ* (khổ / dukkha) một cách đúng đắn. Này các tỳ kheo, đối với bất kỳ ai bắt tay vào *bốn nơi chú tâm*, người đó bắt tay vào con đường của bậc thánh dẫn đến sự *cạn kiệt* *đau khổ* một cách đúng đắn.
 
@@ -684,7 +684,7 @@ Này các tỳ kheo, đối với bất kỳ ai bỏ lỡ *bốn nơi chú tâm*
 Kinh thứ ba.
 
 <!--pg-->
-### 47.34 Kinh Về Sự Luyện Tập (Bhāvitasutta)
+### 47.34 Kinh Về Sự Luyện Tập (Bhāvitasutta) {#34}
 
 "Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, được làm cho nhiều lên, sẽ dẫn đến việc đi từ bờ bên này sang bờ bên kia.
 
@@ -695,7 +695,7 @@ Này các tỳ kheo, *bốn nơi chú tâm* này khi được *luyện tập*, �
 Kinh thứ tư.
 
 <!--pg-->
-### 47.35 Kinh Về Sự Chú Ý (Satisutta)
+### 47.35 Kinh Về Sự Chú Ý (Satisutta) {#35}
 
 Bối cảnh ở Sāvatthi.
 
@@ -708,7 +708,7 @@ Và này các tỳ kheo, thế nào là tỳ kheo *nhận biết rõ ràng*? Ở
 Kinh thứ năm.
 
 <!--pg-->
-### 47.36 Kinh Về Sự Hiểu Biết Trọn Vẹn (Aññāsutta)
+### 47.36 Kinh Về Sự Hiểu Biết Trọn Vẹn (Aññāsutta) {#36}
 
 "Này các tỳ kheo, có *bốn nơi chú tâm* này.
 
@@ -719,7 +719,7 @@ Này các tỳ kheo, do *luyện tập*, do làm cho nhiều lên *bốn nơi ch
 Kinh thứ sáu.
 
 <!--pg-->
-### 47.37 Kinh Về Sự Mong Muốn (Chandasutta)
+### 47.37 Kinh Về Sự Mong Muốn (Chandasutta) {#37}
 
 "Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cơ thể qua cơ thể của mình*, bất cứ *mong muốn* (dục / chando) nào đối với cơ thể, *mong muốn* ấy được *từ bỏ*. Do *từ bỏ* *mong muốn*, *cõi không chết* (bất tử / amataṁ) được *trực tiếp chứng nghiệm* (chứng ngộ / sacchikataṁ).
 
@@ -732,7 +732,7 @@ Vị ấy *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nh�
 Kinh thứ bảy.
 
 <!--pg-->
-### 47.38 Kinh Về Sự Hiểu Biết Trọn Vẹn (Pariññātasutta)
+### 47.38 Kinh Về Sự Hiểu Biết Trọn Vẹn (Pariññātasutta) {#38}
 
 "Này các tỳ kheo, có *bốn nơi chú tâm* này. Bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan sát cơ thể qua cơ thể của mình*, nhiệt tâm, *nhận biết rõ ràng*, *tập trung chú ý*, *loại bỏ* *lòng tham* và *ưu phiền* ở đời. Đối với vị ấy đang *sống quan sát cơ thể qua cơ thể của mình*, cơ thể được *hiểu biết trọn vẹn* (liễu tri / pariññāto). Do cơ thể được *hiểu biết trọn vẹn*, *cõi không chết* được *trực tiếp chứng nghiệm*.
 
@@ -745,7 +745,7 @@ Vị ấy *sống quan sát Điều dạy qua các Điều*, nhiệt tâm, *nh�
 Kinh thứ tám.
 
 <!--pg-->
-### 47.39 Kinh Về Sự Luyện Tập (Bhāvanāsutta)
+### 47.39 Kinh Về Sự Luyện Tập (Bhāvanāsutta) {#39}
 
 "Này các tỳ kheo, Ta sẽ giảng dạy sự *luyện tập* *bốn nơi chú tâm*. Hãy lắng nghe điều đó.
 
@@ -756,7 +756,7 @@ Này các tỳ kheo, đây là sự *luyện tập* *bốn nơi chú tâm*."
 Kinh thứ chín.
 
 <!--pg-->
-### 47.40 Kinh Phân Tích (Vibhaṅgasutta)
+### 47.40 Kinh Phân Tích (Vibhaṅgasutta) {#40}
 
 "Này các tỳ kheo, Ta sẽ giảng dạy cho các vị về *nơi chú tâm*, sự *luyện tập* *nơi chú tâm*, và con đường dẫn đến sự *luyện tập* *nơi chú tâm*. Hãy lắng nghe điều đó.
 
@@ -776,7 +776,7 @@ Tóm tắt phẩm:
 > Luyện tập, và Phân tích.
 
 <!--pg-->
-### 47.41 Kinh Về Cõi Không Chết (Amatasutta)
+### 47.41 Kinh Về Cõi Không Chết (Amatasutta) {#41}
 
 Bối cảnh ở Sāvatthi.
 
@@ -787,7 +787,7 @@ Trong bốn nơi nào? Ở đây, này các tỳ kheo, tỳ kheo *sống quan s�
 Kinh thứ nhất.
 
 <!--pg-->
-### 47.42 Kinh Về Sự Hình Thành (Samudayasutta)
+### 47.42 Kinh Về Sự Hình Thành (Samudayasutta) {#42}
 
 "Này các tỳ kheo, Ta sẽ giảng dạy sự hình thành và sự *tan biến* của *bốn nơi chú tâm*. Hãy lắng nghe điều đó.
 
@@ -802,7 +802,7 @@ Với sự hình thành của *sự suy nghĩ* (tác ý / manasikāra), các *Đ
 Kinh thứ hai.
 
 <!--pg-->
-### 47.43 Kinh Về Con Đường (Maggasutta)
+### 47.43 Kinh Về Con Đường (Maggasutta) {#43}
 
 Bối cảnh ở Sāvatthi.
 
@@ -824,7 +824,7 @@ Này các tỳ kheo, Phạm thiên Sahampati đã nói điều này. Sau khi nó
 Kinh thứ ba.
 
 <!--pg-->
-### 47.44 Kinh Về Sự Chú Ý (Satisutta)
+### 47.44 Kinh Về Sự Chú Ý (Satisutta) {#44}
 
 "Này các tỳ kheo, một tỳ kheo nên sống *tập trung chú ý*. Đây là lời giáo huấn của Ta dành cho các vị.
 
@@ -833,7 +833,7 @@ Và này các tỳ kheo, thế nào là tỳ kheo *tập trung chú ý*? Ở đ�
 Kinh thứ tư.
 
 <!--pg-->
-### 47.45 Kinh Về Đống Điều Thiện (Kusalarāsisutta)
+### 47.45 Kinh Về Đống Điều Thiện (Kusalarāsisutta) {#45}
 
 "Này các tỳ kheo, khi nói 'Đống *điều thiện* (thiện uẩn / kusalarāsi)', người nói đúng đắn sẽ nói về *bốn nơi chú tâm*. Này các tỳ kheo, đây là toàn bộ đống *điều thiện*, đó chính là—*bốn nơi chú tâm*.
 
@@ -844,7 +844,7 @@ Này các tỳ kheo, khi nói 'Đống *điều thiện*', người nói đúng 
 Kinh thứ năm.
 
 <!--pg-->
-### 47.46 Kinh Về Sự Bảo Vệ Của Giới Luật Pātimokkha (Pātimokkhasaṁvarasutta)
+### 47.46 Kinh Về Sự Bảo Vệ Của Giới Luật Pātimokkha (Pātimokkhasaṁvarasutta) {#46}
 
 Rồi một tỳ kheo đi đến chỗ Thế Tôn... [...lặp lại...] ngồi xuống một bên, tỳ kheo ấy thưa với Thế Tôn điều này:
 
@@ -865,7 +865,7 @@ Vị ấy biết rõ: "*Sự Tái sinh* (sanh / jāti) đã *cạn kiệt* (tậ
 Kinh thứ sáu.
 
 <!--pg-->
-### 47.47 Kinh Về Hành Vi Sai Trái (Duccaritasutta)
+### 47.47 Kinh Về Hành Vi Sai Trái (Duccaritasutta) {#47}
 
 Rồi một tỳ kheo đi đến chỗ Thế Tôn... [...lặp lại...]
 
@@ -880,7 +880,7 @@ Và tỳ kheo ấy đã trở thành một vị A-la-hán.
 Kinh thứ bảy.
 
 <!--pg-->
-### 47.48 Kinh Về Bạn Bè (Mittasutta)
+### 47.48 Kinh Về Bạn Bè (Mittasutta) {#48}
 
 "Này các tỳ kheo, những ai mà các vị thương tưởng, và những ai nghĩ rằng nên lắng nghe: bạn bè, đồng nghiệp, người thân, hay người cùng huyết thống; này các tỳ kheo, các vị cần khuyến khích, đưa vào, và thiết lập họ vững chắc trong sự *luyện tập* *bốn nơi chú tâm*.
 
@@ -891,7 +891,7 @@ Này các tỳ kheo, những ai mà các vị thương tưởng, và những ai 
 Kinh thứ tám.
 
 <!--pg-->
-### 47.49 Kinh Về Cảm Thọ (Vedanāsutta)
+### 47.49 Kinh Về Cảm Thọ (Vedanāsutta) {#49}
 
 "Này các tỳ kheo, có ba *cảm thọ* này. Ba *cảm thọ* nào? *Cảm Thọ dễ chịu* (thọ lạc / sukhā vedanā), *cảm thọ khó chịu* (thọ khổ / dukkhā vedanā), *cảm thọ không dễ chịu không khó chịu* (bất khổ bất lạc thọ / adukkhamasukhā vedanā)—này các tỳ kheo, đây là ba *cảm thọ*. Này các tỳ kheo, để *hiểu biết trọn vẹn* ba *cảm thọ* này, *bốn nơi chú tâm* cần được *luyện tập*.
 
@@ -902,7 +902,7 @@ Này các tỳ kheo, để *hiểu biết trọn vẹn* ba *cảm thọ* này, *
 Kinh thứ chín.
 
 <!--pg-->
-### 47.50 Kinh Về Nguồn Ác (Āsavasutta)
+### 47.50 Kinh Về Nguồn Ác (Āsavasutta) {#50}
 
 "Này các tỳ kheo, có ba *nguồn ác* (lậu hoặc / āsavā) này. Ba *nguồn ác* nào? *Nguồn ác của bản năng* (dục lậu / kāmāsavo), *nguồn ác của mong muốn hiện hữu* (hữu lậu / bhavāsavo), *nguồn ác của Không Hiểu Biết* (vô minh lậu / avijjāsavo)—này các tỳ kheo, đây là ba *nguồn ác*.
 

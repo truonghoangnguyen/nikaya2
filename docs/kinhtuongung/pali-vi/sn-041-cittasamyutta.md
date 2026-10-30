@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 41.1
 
-### 41.1 Saṁyojanasutta
+### 41.1 Saṁyojanasutta {#1}
 
 Ekaṁ samayaṁ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane. Tena kho pana samayena sambahulānaṁ therānaṁ bhikkhūnaṁ pacchābhattaṁ piṇḍapātapaṭikkantānaṁ maṇḍalamāḷe sannisinnānaṁ sannipatitānaṁ ayamantarākathā udapādi:
 
@@ -34,7 +34,7 @@ Seyyathāpi, bhante, kāḷo ca balībaddo odāto ca balībaddo ekena dāmena v�
 
 “No hetaṁ, gahapati. Na kho, gahapati, kāḷo balībaddo odātassa balībaddassa saṁyojanaṁ, napi odāto balībaddo kāḷassa balībaddassa saṁyojanaṁ; yena kho te ekena dāmena vā yottena vā saṁyuttā taṁ tattha saṁyojanan”ti.
 
-### 41.2 Paṭhamaisidattasutta
+### 41.2 Paṭhamaisidattasutta {#2}
 
 Ekaṁ samayaṁ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane.
 
@@ -76,7 +76,7 @@ Atha kho āyasmā thero āyasmantaṁ isidattaṁ etadavoca: “sādhu kho taṁ
 
 Dutiyaṁ.
 
-### 41.3 Dutiyaisidattasutta
+### 41.3 Dutiyaisidattasutta {#3}
 
 Ekaṁ samayaṁ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane.
 
@@ -152,7 +152,7 @@ Atha kho āyasmā isidatto senāsanaṁ saṁsāmetvā pattacīvaramādāya macc
 
 Tatiyaṁ.
 
-### 41.4 Mahakapāṭihāriyasutta
+### 41.4 Mahakapāṭihāriyasutta {#4}
 
 Ekaṁ samayaṁ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane.
 
@@ -196,7 +196,7 @@ Katamettāvatā, bhante, mahaka. Pūjitamettāvatā, bhante mahaka. Abhiramatu, 
 
 Atha kho āyasmā mahako senāsanaṁ saṁsāmetvā pattacīvaramādāya macchikāsaṇḍamhā pakkāmi. Yaṁ macchikāsaṇḍamhā pakkāmi, tathā pakkantova ahosi;
 
-### 41.5 Paṭhamakāmabhūsutta
+### 41.5 Paṭhamakāmabhūsutta {#5}
 
 Ekaṁ samayaṁ āyasmā kāmabhū macchikāsaṇḍe viharati ambāṭakavane.
 
@@ -240,7 +240,7 @@ Imassa kho, bhante, bhagavatā saṅkhittena bhāsitassa evaṁ vitthārena atth
 
 Pañcamaṁ.
 
-### 41.6 Dutiyakāmabhūsutta
+### 41.6 Dutiyakāmabhūsutta {#6}
 
 Ekaṁ samayaṁ āyasmā kāmabhū macchikāsaṇḍe viharati ambāṭakavane. Atha kho citto gahapati yenāyasmā kāmabhū tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho citto gahapati āyasmantaṁ kāmabhuṁ etadavoca:
 
@@ -310,7 +310,7 @@ Chaṭṭhaṁ.
 
 “Saññāvedayitanirodhasamāpattiyā vuṭṭhitassa kho, gahapati, bhikkhuno vivekaninnaṁ cittaṁ hoti vivekapoṇaṁ vivekapabbhāran”ti.
 
-### 41.7 Godattasutta
+### 41.7 Godattasutta {#7}
 
 Ekaṁ samayaṁ āyasmā godatto macchikāsaṇḍe viharati ambāṭakavane. Atha kho citto gahapati yenāyasmā godatto tenupasaṅkami; upasaṅkamitvā āyasmantaṁ godattaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho cittaṁ gahapatiṁ āyasmā godatto etadavoca:
 
@@ -344,7 +344,7 @@ Rāgo, bhante, pamāṇakaraṇo, doso pamāṇakaraṇo, moho pamāṇakaraṇo
 
 Rāgo kho, bhante, kiñcanaṁ, doso kiñcanaṁ, moho kiñcanaṁ. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yāvatā kho, bhante, ākiñcaññā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati. Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena.
 
-### 41.8 Nigaṇṭhanāṭaputtasutta
+### 41.8 Nigaṇṭhanāṭaputtasutta {#8}
 
 Tena kho pana samayena nigaṇṭho nāṭaputto macchikāsaṇḍaṁ anuppatto hoti mahatiyā nigaṇṭhaparisāya saddhiṁ.
 
@@ -376,7 +376,7 @@ Idāneva ca pana mayaṁ, bhante, bhāsitaṁ: ‘evaṁ ājānāma idaṁ bhava
 
 Ime kho pana, bhante, dasa sahadhammikā pañhā āgacchanti. Yadā nesaṁ atthaṁ ājāneyyāsi, atha maṁ paṭihareyyāsi saddhiṁ nigaṇṭhaparisāya. Eko pañho, eko uddeso, ekaṁ veyyākaraṇaṁ.
 
-### 41.9 Acelakassapasutta
+### 41.9 Acelakassapasutta {#9}
 
 Tena kho pana samayena acelo kassapo macchikāsaṇḍaṁ anuppatto hoti cittassa gahapatino purāṇagihisahāyo.
 
@@ -414,7 +414,7 @@ Alattha kho acelo kassapo imasmiṁ dhammavinaye pabbajjaṁ, alattha upasampada
 
 Navamaṁ.
 
-### 41.10 Gilānadassanasutta
+### 41.10 Gilānadassanasutta {#10}
 
 Tena kho pana samayena citto gahapati ābādhiko hoti dukkhito bāḷhagilāno.
 

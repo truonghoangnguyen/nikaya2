@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 2.1
 
-### 2.1 Paṭhamakassapasutta
+### 2.1 Paṭhamakassapasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -14,7 +14,7 @@ Atha kho kassapo devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakapp
 
 Idamavoca kassapo devaputto; samanuñño satthā ahosi. Atha kho kassapo devaputto “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyīti.
 
-### 2.2 Dutiyakassapasutta
+### 2.2 Dutiyakassapasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -22,7 +22,7 @@ Ekamantaṁ ṭhito kho kassapo devaputto bhagavato santike imaṁ gāthaṁ abh
 
 > “Bhikkhu siyā jhāyī vimuttacitto, Ākaṅkhe ce hadayassānupattiṁ; Lokassa ñatvā udayabbayañca, Sucetaso anissito tadānisaṁso”ti.
 
-### 2.3 Māghasutta
+### 2.3 Māghasutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -32,7 +32,7 @@ Atha kho māgho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakappa
 
 > “Kodhaṁ chetvā sukhaṁ seti, kodhaṁ chetvā na socati; Kodhassa visamūlassa, madhuraggassa vatrabhū; Vadhaṁ ariyā pasaṁsanti, tañhi chetvā na socatī”ti.
 
-### 2.4 Māgadhasutta
+### 2.4 Māgadhasutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -44,7 +44,7 @@ Ekamantaṁ ṭhito kho māgadho devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
 > Atha aggi divārattiṁ, tattha tattha pakāsati; Sambuddho tapataṁ seṭṭho, esā ābhā anuttarā”ti.
 
-### 2.5 Dāmalisutta
+### 2.5 Dāmalisutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -56,7 +56,7 @@ Atha kho dāmali devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakapp
 
 > Esūpamā dāmali brāhmaṇassa, Khīṇāsavassa nipakassa jhāyino; Pappuyya jātimaraṇassa antaṁ, Nāyūhatī pāragato hi so”ti.
 
-### 2.6 Kāmadasutta
+### 2.6 Kāmadasutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -76,7 +76,7 @@ Ekamantaṁ ṭhito kho kāmado devaputto bhagavantaṁ etadavoca: “dukkaraṁ
 
 > “Duggame visame vāpi, Ariyā gacchanti kāmada; Anariyā visame magge, Papatanti avaṁsirā; Ariyānaṁ samo maggo, Ariyā hi visame samā”ti.
 
-### 2.7 Pañcālacaṇḍasutta
+### 2.7 Pañcālacaṇḍasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -86,7 +86,7 @@ Ekamantaṁ ṭhito kho pañcālacaṇḍo devaputto bhagavato santike imaṁ g�
 
 > “Sambādhe vāpi vindanti, (pañcālacaṇḍāti bhagavā) Dhammaṁ nibbānapattiyā; Ye satiṁ paccalatthaṁsu, Sammā te susamāhitā”ti.
 
-### 2.8 Tāyanasutta
+### 2.8 Tāyanasutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -120,7 +120,7 @@ Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi:
 
 > ‘Chinda sotaṁ parakkamma, kāme panuda brāhmaṇa; Nappahāya munī kāme, nekattamupapajjati.
 
-### 2.9 Candimasutta
+### 2.9 Candimasutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -138,7 +138,7 @@ Atha kho rāhu asurindo candimaṁ devaputtaṁ muñcitvā taramānarūpo yena v
 
 > “Sattadhā me phale muddhā, jīvanto na sukhaṁ labhe; Buddhagāthābhigītomhi, no ce muñceyya candiman”ti.
 
-### 2.10 Sūriyasutta
+### 2.10 Sūriyasutta {#10}
 
 Sāvatthinidānaṁ.
 
@@ -164,7 +164,7 @@ Tassuddānaṁ
 
 > Dve kassapā ca māgho ca, Māgadho dāmali kāmado; Pañcālacaṇḍo tāyano, Candimasūriyena te dasāti.
 
-### 2.11 Candimasasutta
+### 2.11 Candimasasutta {#11}
 
 Sāvatthinidānaṁ.
 
@@ -174,7 +174,7 @@ Atha kho candimaso devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalaka
 
 > “Te hi pāraṁ gamissanti, chetvā jālaṁva ambujo; Jhānāni upasampajja, appamattā raṇañjahā”ti.
 
-### 2.12 Veṇḍusutta
+### 2.12 Veṇḍusutta {#12}
 
 Ekamantaṁ ṭhito kho veṇḍu devaputto bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -182,7 +182,7 @@ Ekamantaṁ ṭhito kho veṇḍu devaputto bhagavato santike imaṁ gāthaṁ a
 
 > “Ye me pavutte siṭṭhipade, (veṇḍūti bhagavā) Anusikkhanti jhāyino; Kāle te appamajjantā, Na maccuvasagā siyun”ti.
 
-### 2.13 Dīghalaṭṭhisutta
+### 2.13 Dīghalaṭṭhisutta {#13}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -190,7 +190,7 @@ Atha kho dīghalaṭṭhi devaputto abhikkantāya rattiyā abhikkantavaṇṇo k
 
 > “Bhikkhu siyā jhāyī vimuttacitto, Ākaṅkhe ce hadayassānupattiṁ; Lokassa ñatvā udayabbayañca, Sucetaso anissito tadānisaṁso”ti.
 
-### 2.14 Nandanasutta
+### 2.14 Nandanasutta {#14}
 
 Ekamantaṁ ṭhito kho nandano devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
@@ -200,7 +200,7 @@ Ekamantaṁ ṭhito kho nandano devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
 > Tathāvidhaṁ sīlavantaṁ vadanti, Tathāvidhaṁ paññavantaṁ vadanti; Tathāvidho dukkhamaticca iriyati, Tathāvidhaṁ devatā pūjayantī”ti.
 
-### 2.15 Candanasutta
+### 2.15 Candanasutta {#15}
 
 Ekamantaṁ ṭhito kho candano devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
@@ -210,7 +210,7 @@ Ekamantaṁ ṭhito kho candano devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
 > Virato kāmasaññāya, rūpasaṁyojanātigo; Nandīrāgaparikkhīṇo, so gambhīre na sīdatī”ti.
 
-### 2.16 Vāsudattasutta
+### 2.16 Vāsudattasutta {#16}
 
 Ekamantaṁ ṭhito kho vāsudatto devaputto bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -218,7 +218,7 @@ Ekamantaṁ ṭhito kho vāsudatto devaputto bhagavato santike imaṁ gāthaṁ 
 
 > “Sattiyā viya omaṭṭho, ḍayhamānova matthake; Sakkāyadiṭṭhippahānāya, sato bhikkhu paribbaje”ti.
 
-### 2.17 Subrahmasutta
+### 2.17 Subrahmasutta {#17}
 
 Ekamantaṁ ṭhito kho subrahmā devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
@@ -228,7 +228,7 @@ Ekamantaṁ ṭhito kho subrahmā devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
 Idamavoca …pe… tatthevantaradhāyīti.
 
-### 2.18 Kakudhasutta
+### 2.18 Kakudhasutta {#18}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sākete viharati añjanavane migadāye.
 
@@ -254,7 +254,7 @@ Atha kho kakudho devaputto abhikkantāya rattiyā abhikkantavaṇṇo kevalakapp
 
 > “Cirassaṁ vata passāmi, brāhmaṇaṁ parinibbutaṁ; Anandiṁ anaghaṁ bhikkhuṁ, tiṇṇaṁ loke visattikan”ti.
 
-### 2.19 Uttarasutta
+### 2.19 Uttarasutta {#19}
 
 Rājagahanidānaṁ. Ekamantaṁ ṭhito kho uttaro devaputto bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -262,7 +262,7 @@ Rājagahanidānaṁ. Ekamantaṁ ṭhito kho uttaro devaputto bhagavato santike 
 
 > “Upanīyati jīvitamappamāyu, Jarūpanītassa na santi tāṇā; Etaṁ bhayaṁ maraṇe pekkhamāno, Lokāmisaṁ pajahe santipekkho”ti.
 
-### 2.20 Anāthapiṇḍikasutta
+### 2.20 Anāthapiṇḍikasutta {#20}
 
 Ekamantaṁ ṭhito kho anāthapiṇḍiko devaputto bhagavato santike imā gāthāyo abhāsi:
 
@@ -298,7 +298,7 @@ Atha kho bhagavā tassā rattiyā accayena bhikkhū āmantesi: “imaṁ, bhikkh
 
 > Kammaṁ vijjā ca dhammo ca, sīlaṁ jīvitamuttamaṁ; Etena maccā sujjhanti, na gottena dhanena vā.
 
-### 2.21 Sivasutta
+### 2.21 Sivasutta {#21}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -320,7 +320,7 @@ Atha kho bhagavā sivaṁ devaputtaṁ gāthāya paccabhāsi:
 
 > “Sabbhireva samāsetha, sabbhi kubbetha santhavaṁ; Sataṁ saddhammamaññāya, sabbadukkhā pamuccatī”ti.
 
-### 2.22 Khemasutta
+### 2.22 Khemasutta {#22}
 
 Ekamantaṁ ṭhito kho khemo devaputto bhagavato santike imā gāthāyo abhāsi:
 
@@ -336,7 +336,7 @@ Ekamantaṁ ṭhito kho khemo devaputto bhagavato santike imā gāthāyo abhāsi
 
 > Evaṁ dhammā apakkamma, adhammamanuvattiya; Mando maccumukhaṁ patto, akkhacchinnova jhāyatī”ti.
 
-### 2.23 Serīsutta
+### 2.23 Serīsutta {#23}
 
 Ekamantaṁ ṭhito kho serī devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
@@ -366,7 +366,7 @@ Bhūtapubbāhaṁ, bhante, sirī nāma rājā ahosiṁ dāyako dānapati dānass
 
 Tassa mayhaṁ, bhante, catūsu dvāresu dānaṁ dīyittha samaṇabrāhmaṇakapaṇaddhikavanibbakayācakānaṁ. Atha kho maṁ, bhante, itthāgāraṁ upasaṅkamitvā etadavoca: ‘devassa kho dānaṁ dīyati; amhākaṁ dānaṁ na dīyati. Sādhu mayampi devaṁ nissāya dānāni dadeyyāma, puññāni kareyyāmā’ti. Tassa mayhaṁ, bhante, etadahosi: ‘ahaṁ khosmi dāyako dānapati dānassa vaṇṇavādī. Dānaṁ dassāmāti vadante kinti vadeyyan’ti? So khvāhaṁ, bhante, paṭhamaṁ dvāraṁ itthāgārassa adāsiṁ. Atha kho maṁ, bhante, khattiyā anuyantā upasaṅkamitvā etadavocuṁ: ‘devassa kho dānaṁ dīyati; itthāgārassa dānaṁ dīyati; amhākaṁ dānaṁ na dīyati. Sādhu mayampi devaṁ nissāya dānāni dadeyyāma, puññāni kareyyāmā’ti. Tassa mayhaṁ, bhante, etadahosi: ‘ahaṁ khosmi dāyako dānapati dānassa vaṇṇavādī. Dānaṁ dassāmāti vadante kinti vadeyyan’ti? So khvāhaṁ, bhante, dutiyaṁ dvāraṁ khattiyānaṁ anuyantānaṁ adāsiṁ. Tattha khattiyānaṁ anuyantānaṁ dānaṁ dīyittha, mama dānaṁ paṭikkami.
 
-### 2.24 Ghaṭīkārasutta
+### 2.24 Ghaṭīkārasutta {#24}
 
 Ekamantaṁ ṭhito kho ghaṭīkāro devaputto bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -396,7 +396,7 @@ Mātāpettibharo āsi, kassapassa upāsako; Virato methunā dhammā, brahmacār�
 
 > “Kumbhakāro pure āsiṁ, vekaḷiṅge ghaṭīkaro; Mātāpettibharo āsiṁ, kassapassa upāsako.
 
-### 2.25 Jantusutta
+### 2.25 Jantusutta {#25}
 
 Evaṁ me sutaṁ—
 
@@ -412,7 +412,7 @@ Atha kho jantu devaputto tadahuposathe pannarase yena te bhikkhū tenupasaṅkam
 
 > Ye kho pamattā viharanti, te me sandhāya bhāsitaṁ; Ye appamattā viharanti, namo tesaṁ karomahan”ti.
 
-### 2.26 Rohitassasutta
+### 2.26 Rohitassasutta {#26}
 
 Sāvatthinidānaṁ.
 
@@ -434,7 +434,7 @@ Acchariyaṁ, bhante, abbhutaṁ, bhante. Yāvasubhāsitamidaṁ, bhante, bhagav
 
 > Tasmā have lokavidū sumedho, Lokantagū vusitabrahmacariyo; Lokassa antaṁ samitāvi ñatvā, Nāsīsati lokamimaṁ parañcā”ti.
 
-### 2.27 Nandasutta
+### 2.27 Nandasutta {#27}
 
 Ekamantaṁ ṭhito kho nando devaputto bhagavato santike imaṁ gāthaṁ abhāsi:
 
@@ -442,7 +442,7 @@ Ekamantaṁ ṭhito kho nando devaputto bhagavato santike imaṁ gāthaṁ abhā
 
 > “Accenti kālā tarayanti rattiyo, Vayoguṇā anupubbaṁ jahanti; Etaṁ bhayaṁ maraṇe pekkhamāno, Lokāmisaṁ pajahe santipekkho”ti.
 
-### 2.28 Nandivisālasutta
+### 2.28 Nandivisālasutta {#28}
 
 Ekamantaṁ ṭhito kho nandivisālo devaputto bhagavantaṁ gāthāya ajjhabhāsi:
 
@@ -450,7 +450,7 @@ Ekamantaṁ ṭhito kho nandivisālo devaputto bhagavantaṁ gāthāya ajjhabhā
 
 > “Chetvā naddhiṁ varattañca, icchālobhañca pāpakaṁ; Samūlaṁ taṇhamabbuyha, evaṁ yātrā bhavissatī”ti.
 
-### 2.29 Susimasutta
+### 2.29 Susimasutta {#29}
 
 Sāvatthinidānaṁ.
 
@@ -482,7 +482,7 @@ Seyyathāpi nāma maṇi veḷuriyo subho jātimā aṭṭhaṁso suparikammakat
 
 Seyyathāpi nāma nikkhaṁ jambonadaṁ dakkhakammāraputtaukkāmukhasukusalasampahaṭṭhaṁ paṇḍukambale nikkhittaṁ bhāsate ca tapate ca virocati ca; evamevaṁ susimassa devaputtassa devaputtaparisā āyasmato sāriputtassa vaṇṇe bhaññamāne attamanā pamuditā pītisomanassajātā uccāvacā vaṇṇanibhā upadaṁseti.
 
-### 2.30 Nānātitthiyasāvakasutta
+### 2.30 Nānātitthiyasāvakasutta {#30}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 

@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 30.1
 
-### 30.1 Suddhikasutta
+### 30.1 Suddhikasutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -10,7 +10,7 @@ Sāvatthinidānaṁ.
 
 Paṭhamaṁ.
 
-### 30.2 Harantisutta
+### 30.2 Harantisutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -20,7 +20,7 @@ Dutiyaṁ.
 
 “Catasso imā, bhikkhave, supaṇṇayoniyo. Katamā catasso? Aṇḍajā …pe… imā kho, bhikkhave, catasso supaṇṇayoniyo. Tatra, bhikkhave, aṇḍajā supaṇṇā aṇḍajeva nāge haranti, na jalābuje, na saṁsedaje, na opapātike. Tatra, bhikkhave, jalābujā supaṇṇā aṇḍaje ca jalābuje ca nāge haranti, na saṁsedaje, na opapātike. Tatra, bhikkhave, saṁsedajā supaṇṇā aṇḍaje ca jalābuje ca saṁsedaje ca nāge haranti, na opapātike. Tatra, bhikkhave, opapātikā supaṇṇā aṇḍaje ca jalābuje ca saṁsedaje ca opapātike ca nāge haranti.
 
-### 30.3 Dvayakārīsutta
+### 30.3 Dvayakārīsutta {#3}
 
 Sāvatthinidānaṁ.
 

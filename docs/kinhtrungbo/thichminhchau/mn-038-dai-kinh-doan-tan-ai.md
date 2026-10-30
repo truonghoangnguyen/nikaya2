@@ -51,25 +51,25 @@ Thế Tôn thuyết giảng thì thức này dong ruỗi, luân chuyển, nhưng
 chúng con đi đến chỗ Tỷ-kheo Sati, con của người đánh cá ở, khi đến xong, liền nói với Tỷ-kheo Sati,
 con của người đánh cá:
 
-"-- Này Hiền giả Sati, có đúng sự thật chăng? Hiền giả khởi lên ác tà kiến như sau: 'Theo tôi hiểu, pháp
+-- "Này Hiền giả Sati, có đúng sự thật chăng? Hiền giả khởi lên ác tà kiến như sau: 'Theo tôi hiểu, pháp
 Thế Tôn thuyết giảng thì thức này dong ruỗi, luân chuyển nhưng không đổi khác'".
 
 Bạch Thế Tôn, khi nghe nói vậy, Tỷ-kheo Sati, con của người đánh cá nói với chúng con như sau:
 
-"-- Thật sự là vậy, chư Hiền. Theo như tôi hiểu thì thức này dong ruỗi, luân chuyển nhưng không đổi
+-- "Thật sự là vậy, chư Hiền. Theo như tôi hiểu thì thức này dong ruỗi, luân chuyển nhưng không đổi
 khác.
 
 Bạch Thế Tôn, chúng con muốn khiến Tỷ-kheo Sati, con của người đánh cá, từ bỏ ác tà kiến ấy, liền cật
 vấn, nạn vấn lý do, thảo luận:
 
-"-- Hiền giả Sati chớ có nói như vậy. Chớ có xuyên tạc Thế Tôn. Xuyên tạc Thế Tôn là không tốt. Thế
+-- "Hiền giả Sati chớ có nói như vậy. Chớ có xuyên tạc Thế Tôn. Xuyên tạc Thế Tôn là không tốt. Thế
 Tôn không có nói như vậy. Hiền giả Sati, Thế Tôn đã dùng nhiều pháp môn nói thức do duyên khởi,
 không có duyên thì thức không hiện khởi.
 
 "Bạch Thế Tôn, Tỷ-kheo Sati, con của người đánh cá dầu cho được chúng con cật vấn, nạn vấn lý do,
 thảo luận, vẫn nói lên ác tà kiến ấy, cứng đầu, chấp chặt, nắm chặt tà kiến ấy:
 
-"-- Thật sự là vậy, theo tôi hiểu, Thế Tôn thuyết giảng thì thức này dong ruỗi, luân chuyển nhưng không
+-- "Thật sự là vậy, theo tôi hiểu, Thế Tôn thuyết giảng thì thức này dong ruỗi, luân chuyển nhưng không
 đổi khác".
 
 Bạch Thế Tôn, vì chúng con không thể làm cho Tỷ-kheo Sati, con của người đánh cá, từ bỏ ác tà kiến

@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 45.1
 
-### 45.1 Avijjāsutta
+### 45.1 Avijjāsutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -14,7 +14,7 @@ Vijjā ca kho, bhikkhave, pubbaṅgamā kusalānaṁ dhammānaṁ samāpattiyā,
 
 Vijjāgatassa, bhikkhave, viddasuno sammādiṭṭhi pahoti; sammādiṭṭhissa sammāsaṅkappo pahoti; sammāsaṅkappassa sammāvācā pahoti; sammāvācassa sammākammanto pahoti; sammākammantassa sammāājīvo pahoti; sammāājīvassa sammāvāyāmo pahoti; sammāvāyāmassa sammāsati pahoti; sammāsatissa sammāsamādhi pahotī”ti.
 
-### 45.2 Upaḍḍhasutta
+### 45.2 Upaḍḍhasutta {#2}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakyesu viharati nagarakaṁ nāma sakyānaṁ nigamo. Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:
 
@@ -28,7 +28,7 @@ Idhānanda, bhikkhu sammādiṭṭhiṁ bhāveti vivekanissitaṁ virāganissita
 
 Dutiyaṁ.
 
-### 45.3 Sāriputtasutta
+### 45.3 Sāriputtasutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -44,7 +44,7 @@ Tadamināpetaṁ, sāriputta, pariyāyena veditabbaṁ yathā sakalamidaṁ brah
 
 Tatiyaṁ.
 
-### 45.4 Jāṇussoṇibrāhmaṇasutta
+### 45.4 Jāṇussoṇibrāhmaṇasutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -76,7 +76,7 @@ Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 > Ratho sīlaparikkhāro, jhānakkho cakkavīriyo; Upekkhā dhurasamādhi, anicchā parivāraṇaṁ.
 
-### 45.5 Kimatthiyasutta
+### 45.5 Kimatthiyasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -94,7 +94,7 @@ Katamo ca, bhikkhave, maggo, katamā paṭipadā etassa dukkhassa pariññāyāt
 
 Pañcamaṁ.
 
-### 45.6 Paṭhamaaññatarabhikkhusutta
+### 45.6 Paṭhamaaññatarabhikkhusutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -104,7 +104,7 @@ Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ekamantaṁ n
 
 Chaṭṭhaṁ.
 
-### 45.7 Dutiyaaññatarabhikkhusutta
+### 45.7 Dutiyaaññatarabhikkhusutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -122,7 +122,7 @@ Evaṁ vutte, so bhikkhu bhagavantaṁ etadavoca:
 
 Sattamaṁ.
 
-### 45.8 Vibhaṅgasutta
+### 45.8 Vibhaṅgasutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -150,7 +150,7 @@ Katamo ca, bhikkhave, sammāvāyāmo? Idha, bhikkhave, bhikkhu anuppannānaṁ p
 
 Katamā ca, bhikkhave, sammāsati? Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; vedanāsu vedanānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; citte cittānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ; dhammesu dhammānupassī viharati ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ—ayaṁ vuccati, bhikkhave, sammāsati.
 
-### 45.9 Sūkasutta
+### 45.9 Sūkasutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -166,7 +166,7 @@ Kathañca, bhikkhave, bhikkhu sammāpaṇihitāya diṭṭhiyā sammāpaṇihit�
 
 Navamaṁ.
 
-### 45.10 Nandiyasutta
+### 45.10 Nandiyasutta {#10}
 
 Sāvatthinidānaṁ.
 
@@ -186,7 +186,7 @@ Tassuddānaṁ
 
 > Avijjañca upaḍḍhañca, sāriputto ca brāhmaṇo; Kimatthiyo ca dve bhikkhū, vibhaṅgo sūkanandiyāti.
 
-### 45.11 Paṭhamavihārasutta
+### 45.11 Paṭhamavihārasutta {#11}
 
 Sāvatthinidānaṁ.
 
@@ -206,7 +206,7 @@ Paṭhamaṁ.
 
 chandapaccayāpi vedayitaṁ; vitakkapaccayāpi vedayitaṁ;
 
-### 45.12 Dutiyavihārasutta
+### 45.12 Dutiyavihārasutta {#12}
 
 Sāvatthinidānaṁ.
 
@@ -228,7 +228,7 @@ Dutiyaṁ.
 
 So evaṁ pajānāmi: ‘micchādiṭṭhipaccayāpi vedayitaṁ; micchādiṭṭhivūpasamapaccayāpi vedayitaṁ; sammādiṭṭhipaccayāpi vedayitaṁ; sammādiṭṭhivūpasamapaccayāpi vedayitaṁ …pe… micchāsamādhipaccayāpi vedayitaṁ; micchāsamādhivūpasamapaccayāpi vedayitaṁ, sammāsamādhipaccayāpi vedayitaṁ;
 
-### 45.13 Sekkhasutta
+### 45.13 Sekkhasutta {#13}
 
 Sāvatthinidānaṁ.
 
@@ -238,7 +238,7 @@ Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami …pe… ekamantaṁ n
 
 Tatiyaṁ.
 
-### 45.14 Paṭhamauppādasutta
+### 45.14 Paṭhamauppādasutta {#14}
 
 Sāvatthinidānaṁ.
 
@@ -246,7 +246,7 @@ Sāvatthinidānaṁ.
 
 Catutthaṁ.
 
-### 45.15 Dutiyauppādasutta
+### 45.15 Dutiyauppādasutta {#15}
 
 Sāvatthinidānaṁ.
 
@@ -254,7 +254,7 @@ Sāvatthinidānaṁ.
 
 Pañcamaṁ.
 
-### 45.16 Paṭhamaparisuddhasutta
+### 45.16 Paṭhamaparisuddhasutta {#16}
 
 Sāvatthinidānaṁ.
 
@@ -262,7 +262,7 @@ Sāvatthinidānaṁ.
 
 Chaṭṭhaṁ.
 
-### 45.17 Dutiyaparisuddhasutta
+### 45.17 Dutiyaparisuddhasutta {#17}
 
 Sāvatthinidānaṁ.
 
@@ -270,7 +270,7 @@ Sāvatthinidānaṁ.
 
 Sattamaṁ.
 
-### 45.18 Paṭhamakukkuṭārāmasutta
+### 45.18 Paṭhamakukkuṭārāmasutta {#18}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā ca ānando āyasmā ca bhaddo pāṭaliputte viharanti kukkuṭārāme. Atha kho āyasmā bhaddo sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā bhaddo āyasmantaṁ ānandaṁ etadavoca:
 
@@ -286,7 +286,7 @@ Katamaṁ nu kho, āvuso, abrahmacariyan”ti?
 
 “Ayameva kho, āvuso, aṭṭhaṅgiko micchāmaggo abrahmacariyaṁ, seyyathidaṁ—
 
-### 45.19 Dutiyakukkuṭārāmasutta
+### 45.19 Dutiyakukkuṭārāmasutta {#19}
 
 Pāṭaliputtanidānaṁ.
 
@@ -302,7 +302,7 @@ Navamaṁ.
 
 “Evamāvuso”ti.
 
-### 45.20 Tatiyakukkuṭārāmasutta
+### 45.20 Tatiyakukkuṭārāmasutta {#20}
 
 Pāṭaliputtanidānaṁ.
 
@@ -326,7 +326,7 @@ Tassuddānaṁ
 
 > Dve vihārā ca sekkho ca, uppādā apare duve; Parisuddhena dve vuttā, kukkuṭārāmena tayoti.
 
-### 45.21 Micchattasutta
+### 45.21 Micchattasutta {#21}
 
 Sāvatthinidānaṁ.
 
@@ -338,7 +338,7 @@ Katamañca, bhikkhave, micchattaṁ? Seyyathidaṁ—micchādiṭṭhi …pe… 
 
 Katamañca, bhikkhave, sammattaṁ? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Idaṁ vuccati, bhikkhave, sammattan”ti.
 
-### 45.22 Akusaladhammasutta
+### 45.22 Akusaladhammasutta {#22}
 
 Sāvatthinidānaṁ.
 
@@ -350,7 +350,7 @@ Katame ca, bhikkhave, akusalā dhammā? Seyyathidaṁ—micchādiṭṭhi …pe�
 
 Katame ca, bhikkhave, kusalā dhammā? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ime vuccanti, bhikkhave, kusalā dhammā”ti.
 
-### 45.23 Paṭhamapaṭipadāsutta
+### 45.23 Paṭhamapaṭipadāsutta {#23}
 
 Sāvatthinidānaṁ.
 
@@ -362,7 +362,7 @@ Katamā ca, bhikkhave, micchāpaṭipadā? Seyyathidaṁ—micchādiṭṭhi …
 
 Katamā ca, bhikkhave, sammāpaṭipadā? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ vuccati, bhikkhave, sammāpaṭipadā”ti.
 
-### 45.24 Dutiyapaṭipadāsutta
+### 45.24 Dutiyapaṭipadāsutta {#24}
 
 Sāvatthinidānaṁ.
 
@@ -376,7 +376,7 @@ Gihi vā, bhikkhave, pabbajito vā sammāpaṭipanno sammāpaṭipattādhikara�
 
 Catutthaṁ.
 
-### 45.25 Paṭhamaasappurisasutta
+### 45.25 Paṭhamaasappurisasutta {#25}
 
 Sāvatthinidānaṁ.
 
@@ -388,7 +388,7 @@ Katamo ca, bhikkhave, sappuriso? Idha, bhikkhave, ekacco sammādiṭṭhiko hoti
 
 Pañcamaṁ.
 
-### 45.26 Dutiyaasappurisasutta
+### 45.26 Dutiyaasappurisasutta {#26}
 
 Sāvatthinidānaṁ.
 
@@ -404,7 +404,7 @@ Katamo ca, bhikkhave, sappurisena sappurisataro? Idha, bhikkhave, ekacco sammād
 
 Chaṭṭhaṁ.
 
-### 45.27 Kumbhasutta
+### 45.27 Kumbhasutta {#27}
 
 Sāvatthinidānaṁ.
 
@@ -416,7 +416,7 @@ Ko ca, bhikkhave, cittassa ādhāro? Ayameva ariyo aṭṭhaṅgiko maggo, seyya
 
 Seyyathāpi, bhikkhave, kumbho anādhāro suppavattiyo hoti, sādhāro duppavattiyo hoti; evameva kho, bhikkhave, cittaṁ anādhāraṁ suppavattiyaṁ hoti, sādhāraṁ duppavattiyaṁ hotī”ti.
 
-### 45.28 Samādhisutta
+### 45.28 Samādhisutta {#28}
 
 Sāvatthinidānaṁ.
 
@@ -428,7 +428,7 @@ Yā kho, bhikkhave, imehi sattahaṅgehi cittassa ekaggatā saparikkhāratā—a
 
 Aṭṭhamaṁ.
 
-### 45.29 Vedanāsutta
+### 45.29 Vedanāsutta {#29}
 
 Sāvatthinidānaṁ.
 
@@ -440,7 +440,7 @@ Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ pariññāya ariyo aṭṭha�
 
 Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ pariññāya ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.
 
-### 45.30 Uttiyasutta
+### 45.30 Uttiyasutta {#30}
 
 Sāvatthinidānaṁ.
 
@@ -458,7 +458,7 @@ Atha kho āyasmā uttiyo yena bhagavā tenupasaṅkami …pe… ekamantaṁ nisi
 
 > Micchattaṁ akusalaṁ dhammaṁ, Duve paṭipadāpi ca; Asappurisena dve kumbho, Samādhi vedanuttiyenāti.
 
-### 45.31 Paṭhamapaṭipattisutta
+### 45.31 Paṭhamapaṭipattisutta {#31}
 
 Sāvatthinidānaṁ.
 
@@ -470,7 +470,7 @@ Katamā ca, bhikkhave, micchāpaṭipatti? Seyyathidaṁ—micchādiṭṭhi …
 
 Katamā ca, bhikkhave, sammāpaṭipatti? Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi. Ayaṁ vuccati, bhikkhave, sammāpaṭipattī”ti.
 
-### 45.32 Dutiyapaṭipattisutta
+### 45.32 Dutiyapaṭipattisutta {#32}
 
 Sāvatthinidānaṁ.
 
@@ -482,7 +482,7 @@ Katamo ca, bhikkhave, micchāpaṭipanno? Idha, bhikkhave, ekacco micchādiṭ�
 
 Katamo ca, bhikkhave, sammāpaṭipanno? Idha, bhikkhave, ekacco sammādiṭṭhiko hoti …pe… sammāsamādhi—ayaṁ vuccati, bhikkhave, sammāpaṭipanno”ti.
 
-### 45.33 Viraddhasutta
+### 45.33 Viraddhasutta {#33}
 
 Sāvatthinidānaṁ.
 
@@ -494,7 +494,7 @@ Yesaṁ kesañci, bhikkhave, ayaṁ ariyo aṭṭhaṅgiko maggo viraddho, virad
 
 Tatiyaṁ.
 
-### 45.34 Pāraṅgamasutta
+### 45.34 Pāraṅgamasutta {#34}
 
 Sāvatthinidānaṁ.
 
@@ -514,7 +514,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 Catutthaṁ.
 
-### 45.35 Paṭhamasāmaññasutta
+### 45.35 Paṭhamasāmaññasutta {#35}
 
 Sāvatthinidānaṁ.
 
@@ -528,7 +528,7 @@ Katamañca, bhikkhave, sāmaññaṁ? Ayameva ariyo aṭṭhaṅgiko maggo, seyy
 
 Katamāni ca, bhikkhave, sāmaññaphalāni? Sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ—
 
-### 45.36 Dutiyasāmaññasutta
+### 45.36 Dutiyasāmaññasutta {#36}
 
 Sāvatthinidānaṁ.
 
@@ -542,7 +542,7 @@ Katamañca kho, bhikkhave, sāmaññaṁ? Ayameva ariyo aṭṭhaṅgiko maggo, 
 
 Katamo ca, bhikkhave, sāmaññattho? Yo kho, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—
 
-### 45.37 Paṭhamabrahmaññasutta
+### 45.37 Paṭhamabrahmaññasutta {#37}
 
 Sāvatthinidānaṁ.
 
@@ -556,7 +556,7 @@ Katamañca kho, bhikkhave, brahmaññaṁ? Ayameva ariyo aṭṭhaṅgiko maggo,
 
 Katamāni ca, bhikkhave, brahmaññaphalāni? Sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ—
 
-### 45.38 Dutiyabrahmaññasutta
+### 45.38 Dutiyabrahmaññasutta {#38}
 
 Sāvatthinidānaṁ.
 
@@ -570,7 +570,7 @@ Katamañca, bhikkhave, brahmaññaṁ? Ayameva ariyo aṭṭhaṅgiko maggo, sey
 
 Katamo ca, bhikkhave, brahmaññattho? Yo kho, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo—
 
-### 45.39 Paṭhamabrahmacariyasutta
+### 45.39 Paṭhamabrahmacariyasutta {#39}
 
 Sāvatthinidānaṁ.
 
@@ -584,7 +584,7 @@ Katamañca, bhikkhave, brahmacariyaṁ? Ayameva ariyo aṭṭhaṅgiko maggo, se
 
 Katamāni ca, bhikkhave, brahmacariyaphalāni? Sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ—
 
-### 45.40 Dutiyabrahmacariyasutta
+### 45.40 Dutiyabrahmacariyasutta {#40}
 
 Sāvatthinidānaṁ.
 
@@ -602,7 +602,7 @@ Katamo ca, bhikkhave, brahmacariyattho? Yo kho, bhikkhave, rāgakkhayo dosakkhay
 
 > Paṭipatti paṭipanno ca, viraddhañca pāraṅgamā; Sāmaññena ca dve vuttā, brahmaññā apare duve; Brahmacariyena dve vuttā, vaggo tena pavuccatīti.
 
-### 45.41 Rāgavirāgasutta
+### 45.41 Rāgavirāgasutta {#41}
 
 Sāvatthinidānaṁ.
 
@@ -636,7 +636,7 @@ Katamo ca, bhikkhave, maggo, katamā ca paṭipadā rāgavirāgāya? Ayameva ari
 
 Sattamaṁ.
 
-### 45.48 Anupādāparinibbānasutta
+### 45.48 Anupādāparinibbānasutta {#48}
 
 Sāvatthinidānaṁ.
 
@@ -656,7 +656,7 @@ Katamo ca, bhikkhave, maggo, katamā ca paṭipadā anupādāparinibbānāya? Ay
 
 > Virāgasaṁyojanaṁ anusayaṁ, Addhānaṁ āsavā khayā; Vijjāvimuttiñāṇañca, Anupādāya aṭṭhamī.
 
-### 45.49 Kalyāṇamittasutta
+### 45.49 Kalyāṇamittasutta {#49}
 
 Sāvatthinidānaṁ.
 
@@ -680,7 +680,7 @@ yadidaṁ—appamādasampadā …pe….
 
 Chaṭṭhaṁ.
 
-### 45.55 Yonisomanasikārasampadāsutta
+### 45.55 Yonisomanasikārasampadāsutta {#55}
 
 “Sūriyassa, bhikkhave, udayato etaṁ pubbaṅgamaṁ etaṁ pubbanimittaṁ, yadidaṁ—aruṇuggaṁ; evameva kho, bhikkhave, bhikkhuno ariyassa aṭṭhaṅgikassa maggassa uppādāya etaṁ pubbaṅgamaṁ etaṁ pubbanimittaṁ, yadidaṁ—yonisomanasikārasampadā. Yonisomanasikārasampannassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -688,7 +688,7 @@ Kathañca, bhikkhave, bhikkhu yonisomanasikārasampanno ariyaṁ aṭṭhaṅgik
 
 Sattamaṁ.
 
-### 45.56 Dutiyakalyāṇamittasutta
+### 45.56 Dutiyakalyāṇamittasutta {#56}
 
 “Sūriyassa, bhikkhave, udayato etaṁ pubbaṅgamaṁ etaṁ pubbanimittaṁ, yadidaṁ—aruṇuggaṁ; evameva kho, bhikkhave, bhikkhuno ariyassa aṭṭhaṅgikassa maggassa uppādāya etaṁ pubbaṅgamaṁ etaṁ pubbanimittaṁ, yadidaṁ—kalyāṇamittatā. Kalyāṇamittassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -710,7 +710,7 @@ yadidaṁ—appamādasampadā …pe….
 
 Chaṭṭhaṁ.
 
-### 45.62 Dutiyayonisomanasikārasampadāsutta
+### 45.62 Dutiyayonisomanasikārasampadāsutta {#62}
 
 “Yadidaṁ—yonisomanasikārasampadā. Yonisomanasikārasampannassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -724,7 +724,7 @@ Tassuddānaṁ
 
 > Kalyāṇamittaṁ sīlañca, chando ca attasampadā; Diṭṭhi ca appamādo ca, yoniso bhavati sattamaṁ.
 
-### 45.63 Kalyāṇamittasutta
+### 45.63 Kalyāṇamittasutta {#63}
 
 Sāvatthinidānaṁ.
 
@@ -748,7 +748,7 @@ yadidaṁ—appamādasampadā …pe….
 
 Chaṭṭhaṁ.
 
-### 45.69 Yonisomanasikārasampadāsutta
+### 45.69 Yonisomanasikārasampadāsutta {#69}
 
 “Yadidaṁ—yonisomanasikārasampadā. Yonisomanasikārasampannassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -756,7 +756,7 @@ Kathañca, bhikkhave, bhikkhu yonisomanasikārasampanno ariyaṁ aṭṭhaṅgik
 
 Sattamaṁ.
 
-### 45.70 Dutiyakalyāṇamittasutta
+### 45.70 Dutiyakalyāṇamittasutta {#70}
 
 Sāvatthinidānaṁ.
 
@@ -782,7 +782,7 @@ yadidaṁ—appamādasampadā …pe….
 
 Chaṭṭhaṁ.
 
-### 45.76 Dutiyayonisomanasikārasampadāsutta
+### 45.76 Dutiyayonisomanasikārasampadāsutta {#76}
 
 “Yadidaṁ—yonisomanasikārasampadā. Yonisomanasikārasampannassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -796,7 +796,7 @@ Tassuddānaṁ
 
 > Kalyāṇamittaṁ sīlañca, chando ca attasampadā; Diṭṭhi ca appamādo ca, yoniso bhavati sattamaṁ.
 
-### 45.77 Kalyāṇamittasutta
+### 45.77 Kalyāṇamittasutta {#77}
 
 Sāvatthinidānaṁ.
 
@@ -820,7 +820,7 @@ yathayidaṁ, bhikkhave, appamādasampadā …pe….
 
 Chaṭṭhaṁ.
 
-### 45.83 Yonisomanasikārasampadāsutta
+### 45.83 Yonisomanasikārasampadāsutta {#83}
 
 “Yathayidaṁ, bhikkhave, yonisomanasikārasampadā. Yonisomanasikārasampannassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -828,7 +828,7 @@ Kathañca, bhikkhave, bhikkhu yonisomanasikārasampanno ariyaṁ aṭṭhaṅgik
 
 Sattamaṁ.
 
-### 45.84 Dutiyakalyāṇamittasutta
+### 45.84 Dutiyakalyāṇamittasutta {#84}
 
 “Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi, yena anuppanno vā ariyo aṭṭhaṅgiko maggo uppajjati, uppanno vā ariyo aṭṭhaṅgiko maggo bhāvanāpāripūriṁ gacchati, yathayidaṁ, bhikkhave, kalyāṇamittatā. Kalyāṇamittassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -850,7 +850,7 @@ yathayidaṁ, bhikkhave, appamādasampadā …pe….
 
 Chaṭṭhaṁ.
 
-### 45.90 Dutiyayonisomanasikārasampadāsutta
+### 45.90 Dutiyayonisomanasikārasampadāsutta {#90}
 
 “Yathayidaṁ, bhikkhave, yonisomanasikārasampadā. Yonisomanasikārasampannassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati, ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -864,7 +864,7 @@ Tassuddānaṁ
 
 > Kalyāṇamittaṁ sīlañca, chando ca attasampadā; Diṭṭhi ca appamādo ca, yoniso bhavati sattamaṁ.
 
-### 45.91 Paṭhamapācīnaninnasutta
+### 45.91 Paṭhamapācīnaninnasutta {#91}
 
 Sāvatthinidānaṁ.
 
@@ -886,7 +886,7 @@ seyyathāpi, bhikkhave, mahī nadī pācīnaninnā pācīnapoṇā pācīnapabbh
 
 Pañcamaṁ.
 
-### 45.96 Chaṭṭhapācīnaninnasutta
+### 45.96 Chaṭṭhapācīnaninnasutta {#96}
 
 “Seyyathāpi, bhikkhave, yā kācimā mahānadiyo, seyyathidaṁ—gaṅgā, yamunā, aciravatī, sarabhū, mahī, sabbā tā pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
@@ -894,7 +894,7 @@ Kathañca, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ar
 
 Chaṭṭhaṁ.
 
-### 45.97 Paṭhamasamuddaninnasutta
+### 45.97 Paṭhamasamuddaninnasutta {#97}
 
 “Seyyathāpi, bhikkhave, gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
@@ -924,7 +924,7 @@ seyyathāpi, bhikkhave, yā kācimā mahānadiyo, seyyathidaṁ—Tassuddānaṁ
 
 > Cha pācīnato ninnā, Cha ninnā ca samuddato; Ete dve cha dvādasa honti, Vaggo tena pavuccatīti; Gaṅgāpeyyālī pācīnaninnavācanamaggī, Vivekanissitaṁ dvādasakī paṭhamakī.
 
-### 45.103 Paṭhamapācīnaninnasutta
+### 45.103 Paṭhamapācīnaninnasutta {#103}
 
 “Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
@@ -944,7 +944,7 @@ Paṭhamaṁ.
 
 “Seyyathāpi, bhikkhave, yā kācimā mahānadiyo, seyyathidaṁ—gaṅgā, yamunā, aciravatī, sarabhū, mahī, sabbā tā pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu …pe… chaṭṭhaṁ.
 
-### 45.109 Paṭhamasamuddaninnasutta
+### 45.109 Paṭhamasamuddaninnasutta {#109}
 
 “Seyyathāpi, bhikkhave, gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
@@ -978,7 +978,7 @@ Chaṭṭhaṁ.
 
 (Rāgavinayadvādasakī dutiyakī samuddaninnanti.)
 
-### 45.115 Paṭhamapācīnaninnasutta
+### 45.115 Paṭhamapācīnaninnasutta {#115}
 
 “Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
@@ -998,7 +998,7 @@ Paṭhamaṁ.
 
 “Seyyathāpi, bhikkhave, yā kācimā mahānadiyo, seyyathidaṁ—gaṅgā, yamunā, aciravatī, sarabhū, mahī, sabbā tā pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu …pe… chaṭṭhaṁ.
 
-### 45.121 Paṭhamasamuddaninnasutta
+### 45.121 Paṭhamasamuddaninnasutta {#121}
 
 “Seyyathāpi, bhikkhave, gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
@@ -1026,7 +1026,7 @@ seyyathāpi, bhikkhave, mahī nadī samuddaninnā samuddapoṇā samuddapabbhār
 
 seyyathāpi, bhikkhave, yā kācimā mahānadiyo, seyyathidaṁ—
 
-### 45.127 Paṭhamapācīnaninnasutta
+### 45.127 Paṭhamapācīnaninnasutta {#127}
 
 “Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
@@ -1052,7 +1052,7 @@ seyyathāpi, bhikkhave, mahī nadī pācīnaninnā pācīnapoṇā pācīnapabbh
 
 seyyathāpi, bhikkhave, yā kācimā mahānadiyo, seyyathidaṁ—
 
-### 45.133 Paṭhamasamuddaninnasutta
+### 45.133 Paṭhamasamuddaninnasutta {#133}
 
 “Seyyathāpi, bhikkhave, gaṅgā nadī samuddaninnā samuddapoṇā samuddapabbhārā; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
@@ -1082,7 +1082,7 @@ seyyathāpi, bhikkhave, yā kācimā mahānadiyo, seyyathidaṁ—Tassuddānaṁ
 
 > Cha pācīnato ninnā, cha ninnā ca samuddato; Ete dve cha dvādasa honti, vaggo tena pavuccatīti; Nibbānaninno dvādasakī, catutthakī chaṭṭhā navakī.
 
-### 45.139 Tathāgatasutta
+### 45.139 Tathāgatasutta {#139}
 
 Sāvatthinidānaṁ.
 
@@ -1104,7 +1104,7 @@ Kathañca, bhikkhave, bhikkhu appamatto ariyaṁ aṭṭhaṅgikaṁ maggaṁ bh
 
 Paṭhamaṁ.
 
-### 45.140 Padasutta
+### 45.140 Padasutta {#140}
 
 “Seyyathāpi, bhikkhave, yāni kānici jaṅgalānaṁ pāṇānaṁ padajātāni, sabbāni tāni hatthipade samodhānaṁ gacchanti; hatthipadaṁ tesaṁ aggamakkhāyati, yadidaṁ—mahantattena; evameva kho, bhikkhave, ye keci kusalā dhammā, sabbe te appamādamūlakā appamādasamosaraṇā; appamādo tesaṁ dhammānaṁ aggamakkhāyati. Appamattassetaṁ, bhikkhave, bhikkhuno pāṭikaṅkhaṁ—ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvessati ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkarissati.
 
@@ -1156,7 +1156,7 @@ Tassuddānaṁ
 
 > Tathāgataṁ padaṁ kūṭaṁ, mūlaṁ sāro ca vassikaṁ; Rājā candimasūriyā ca, vatthena dasamaṁ padaṁ.
 
-### 45.149 Balasutta
+### 45.149 Balasutta {#149}
 
 Sāvatthinidānaṁ.
 
@@ -1180,7 +1180,7 @@ Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ a
 
 Paṭhamaṁ.
 
-### 45.150 Bījasutta
+### 45.150 Bījasutta {#150}
 
 “Seyyathāpi, bhikkhave, ye kecime bījagāmabhūtagāmā vuḍḍhiṁ virūḷhiṁ vepullaṁ āpajjanti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete bījagāmabhūtagāmā vuḍḍhiṁ virūḷhiṁ vepullaṁ āpajjanti; evameva kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto vuḍḍhiṁ virūḷhiṁ vepullaṁ pāpuṇāti dhammesu.
 
@@ -1188,7 +1188,7 @@ Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ a
 
 Dutiyaṁ.
 
-### 45.151 Nāgasutta
+### 45.151 Nāgasutta {#151}
 
 “Seyyathāpi, bhikkhave, himavantaṁ pabbatarājaṁ nissāya nāgā kāyaṁ vaḍḍhenti, balaṁ gāhenti; te tattha kāyaṁ vaḍḍhetvā balaṁ gāhetvā kusobbhe otaranti, kusobbhe otaritvā mahāsobbhe otaranti, mahāsobbhe otaritvā kunnadiyo otaranti, kunnadiyo otaritvā mahānadiyo otaranti, mahānadiyo otaritvā mahāsamuddaṁ otaranti, te tattha mahantattaṁ vepullattaṁ āpajjanti kāyena; evameva kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto mahantattaṁ vepullattaṁ pāpuṇāti dhammesu.
 
@@ -1196,7 +1196,7 @@ Kathañca, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya ariyaṁ a
 
 Tatiyaṁ.
 
-### 45.152 Rukkhasutta
+### 45.152 Rukkhasutta {#152}
 
 “Seyyathāpi, bhikkhave, rukkho pācīnaninno pācīnapoṇo pācīnapabbhāro. So mūlacchinno katamena papateyyā”ti?
 
@@ -1208,7 +1208,7 @@ Kathañca, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ar
 
 Catutthaṁ.
 
-### 45.153 Kumbhasutta
+### 45.153 Kumbhasutta {#153}
 
 “Seyyathāpi, bhikkhave, kumbho nikkujjo vamateva udakaṁ, no paccāvamati; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto vamateva pāpake akusale dhamme, no paccāvamati.
 
@@ -1216,7 +1216,7 @@ Kathañca, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ar
 
 Pañcamaṁ.
 
-### 45.154 Sūkasutta
+### 45.154 Sūkasutta {#154}
 
 “Seyyathāpi, bhikkhave, sālisūkaṁ vā yavasūkaṁ vā sammāpaṇihitaṁ hatthena vā pādena vā akkantaṁ hatthaṁ vā pādaṁ vā bhindissati lohitaṁ vā uppādessatīti—ṭhānametaṁ vijjati. Chaṭṭhaṁ.
 
@@ -1226,7 +1226,7 @@ Evameva kho, bhikkhave, bhikkhu sammāpaṇihitāya diṭṭhiyā sammāpaṇihi
 
 Kathañca, bhikkhave, bhikkhu sammāpaṇihitāya diṭṭhiyā sammāpaṇihitāya maggabhāvanāya avijjaṁ bhindati, vijjaṁ uppādeti, nibbānaṁ sacchikaroti? Idha, bhikkhave, bhikkhu sammādiṭṭhiṁ bhāveti vivekanissitaṁ …pe… sammāsamādhiṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ … evaṁ kho, bhikkhave, bhikkhu sammāpaṇihitāya diṭṭhiyā sammāpaṇihitāya maggabhāvanāya avijjaṁ bhindati, vijjaṁ uppādeti, nibbānaṁ sacchikarotī”ti.
 
-### 45.155 Ākāsasutta
+### 45.155 Ākāsasutta {#155}
 
 “Seyyathāpi, bhikkhave, ākāse vividhā vātā vāyanti—puratthimāpi vātā vāyanti, pacchimāpi vātā vāyanti, uttarāpi vātā vāyanti, dakkhiṇāpi vātā vāyanti, sarajāpi vātā vāyanti, arajāpi vātā vāyanti, sītāpi vātā vāyanti, uṇhāpi vātā vāyanti, parittāpi vātā vāyanti, adhimattāpi vātā vāyanti; evameva kho, bhikkhave, bhikkhuno ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvayato ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroto cattāropi satipaṭṭhānā bhāvanāpāripūriṁ gacchanti, cattāropi sammappadhānā bhāvanāpāripūriṁ gacchanti, cattāropi iddhipādā bhāvanāpāripūriṁ gacchanti, pañcapi indriyāni bhāvanāpāripūriṁ gacchanti, pañcapi balāni bhāvanāpāripūriṁ gacchanti, sattapi bojjhaṅgā bhāvanāpāripūriṁ gacchanti.
 
@@ -1234,7 +1234,7 @@ Kathañca, bhikkhave, bhikkhuno ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvayato
 
 Sattamaṁ.
 
-### 45.156 Paṭhamameghasutta
+### 45.156 Paṭhamameghasutta {#156}
 
 “Seyyathāpi, bhikkhave, gimhānaṁ pacchime māse ūhataṁ rajojallaṁ, tamenaṁ mahāakālamegho ṭhānaso antaradhāpeti vūpasameti; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto uppannuppanne pāpake akusale dhamme ṭhānaso antaradhāpeti vūpasameti.
 
@@ -1242,7 +1242,7 @@ Kathañca, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ar
 
 Aṭṭhamaṁ.
 
-### 45.157 Dutiyameghasutta
+### 45.157 Dutiyameghasutta {#157}
 
 “Seyyathāpi, bhikkhave, uppannaṁ mahāmeghaṁ, tamenaṁ mahāvāto antarāyeva antaradhāpeti vūpasameti; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto uppannuppanne pāpake akusale dhamme antarāyeva antaradhāpeti vūpasameti.
 
@@ -1250,7 +1250,7 @@ Kathañca, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ar
 
 Navamaṁ.
 
-### 45.158 Nāvāsutta
+### 45.158 Nāvāsutta {#158}
 
 “Seyyathāpi, bhikkhave, sāmuddikāya nāvāya vettabandhanabandhāya cha māsāni udake pariyādāya hemantikena thalaṁ ukkhittāya vātātapaparetāni bandhanāni tāni pāvussakena meghena abhippavuṭṭhāni appakasireneva paṭippassambhanti, pūtikāni bhavanti; evameva kho, bhikkhave, bhikkhuno ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvayato ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaroto appakasireneva saṁyojanāni paṭippassambhanti, pūtikāni bhavanti.
 
@@ -1258,7 +1258,7 @@ Kathañca, bhikkhave, bhikkhuno ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvayato
 
 Dasamaṁ.
 
-### 45.159 Āgantukasutta
+### 45.159 Āgantukasutta {#159}
 
 “Seyyathāpi, bhikkhave, āgantukāgāraṁ. Tattha puratthimāyapi disāya āgantvā vāsaṁ kappenti, pacchimāyapi disāya āgantvā vāsaṁ kappenti, uttarāyapi disāya āgantvā vāsaṁ kappenti, dakkhiṇāyapi disāya āgantvā vāsaṁ kappenti, khattiyāpi āgantvā vāsaṁ kappenti, brāhmaṇāpi āgantvā vāsaṁ kappenti, vessāpi āgantvā vāsaṁ kappenti, suddāpi āgantvā vāsaṁ kappenti; evameva kho, bhikkhave, bhikkhu ariyaṁ aṭṭhaṅgikaṁ maggaṁ bhāvento ariyaṁ aṭṭhaṅgikaṁ maggaṁ bahulīkaronto ye dhammā abhiññā pariññeyyā, te dhamme abhiññā parijānāti …pe… ye dhammā abhiññā pahātabbā, te dhamme abhiññā pajahati, ye dhammā abhiññā sacchikātabbā, te dhamme abhiññā sacchikaroti, ye dhammā abhiññā bhāvetabbā, te dhamme abhiññā bhāveti.
 
@@ -1270,7 +1270,7 @@ Ekādasamaṁ.
 
 Pañcupādānakkhandhātissa vacanīyaṁ. Katame pañca? Seyyathidaṁ—rūpupādānakkhandho …pe… viññāṇupādānakkhandho. Ime, bhikkhave, dhammā abhiññā pariññeyyā. Katame ca, bhikkhave, dhammā abhiññā pahātabbā? Avijjā ca bhavataṇhā ca—ime, bhikkhave, dhammā abhiññā pahātabbā. Katame ca, bhikkhave, dhammā abhiññā sacchikātabbā?
 
-### 45.160 Nadīsutta
+### 45.160 Nadīsutta {#160}
 
 “Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā. Yāvadeva pana so mahājanakāyo kilamathassa vighātassa bhāgī assā”ti.
 
@@ -1292,7 +1292,7 @@ Taṁ kiṁ maññatha, bhikkhave, api nu so mahājanakāyo gaṅgaṁ nadiṁ p
 
 > Balaṁ bījañca nāgo ca, rukkho kumbhena sūkiyā; Ākāsena ca dve meghā, nāvā āgantukā nadīti.
 
-### 45.161 Esanāsutta
+### 45.161 Esanāsutta {#161}
 
 Sāvatthinidānaṁ.
 
@@ -1342,7 +1342,7 @@ Imāsaṁ kho, bhikkhave, tissannaṁ esanānaṁ pahānāya ayaṁ ariyo aṭ�
 
 (Yadapi abhiññā, tadapi pahānāya vitthāretabbaṁ.)
 
-### 45.162 Vidhāsutta
+### 45.162 Vidhāsutta {#162}
 
 “Tisso imā, bhikkhave, vidhā. Dutiyaṁ.
 
@@ -1352,7 +1352,7 @@ Imāsaṁ kho, bhikkhave, tissannaṁ vidhānaṁ abhiññāya pariññāya pari
 
 (Yathā esanā, evaṁ vitthāretabbaṁ.)
 
-### 45.163 Āsavasutta
+### 45.163 Āsavasutta {#163}
 
 “Tayome, bhikkhave, āsavā. Katame tayo? Kāmāsavo, bhavāsavo, avijjāsavo—ime kho, bhikkhave, tayo āsavā.
 
@@ -1360,7 +1360,7 @@ Imesaṁ kho, bhikkhave, tiṇṇannaṁ āsavānaṁ abhiññāya pariññāya 
 
 Tatiyaṁ.
 
-### 45.164 Bhavasutta
+### 45.164 Bhavasutta {#164}
 
 “Tayome, bhikkhave, bhavā. Katame tayo? Kāmabhavo, rūpabhavo, arūpabhavo—ime kho, bhikkhave, tayo bhavā.
 
@@ -1368,7 +1368,7 @@ Imesaṁ kho, bhikkhave, tiṇṇannaṁ bhavānaṁ abhiññāya pariññāya p
 
 Catutthaṁ.
 
-### 45.165 Dukkhatāsutta
+### 45.165 Dukkhatāsutta {#165}
 
 “Tisso imā, bhikkhave, dukkhatā. Katamā tisso? Dukkhadukkhatā, saṅkhāradukkhatā, vipariṇāmadukkhatā—imā kho, bhikkhave, tisso dukkhatā.
 
@@ -1376,7 +1376,7 @@ Imāsaṁ kho, bhikkhave, tissannaṁ dukkhatānaṁ abhiññāya pariññāya p
 
 Pañcamaṁ.
 
-### 45.166 Khilasutta
+### 45.166 Khilasutta {#166}
 
 “Tayome, bhikkhave, khilā. Katame tayo? Rāgo khilo, doso khilo, moho khilo—ime kho, bhikkhave, tayo khilā.
 
@@ -1384,7 +1384,7 @@ Imesaṁ kho, bhikkhave, tiṇṇannaṁ khilānaṁ abhiññāya pariññāya p
 
 Chaṭṭhaṁ.
 
-### 45.167 Malasutta
+### 45.167 Malasutta {#167}
 
 “Tīṇimāni, bhikkhave, malāni. Katamāni tīṇi? Rāgo malaṁ, doso malaṁ, moho malaṁ—imāni kho, bhikkhave, tīṇi malāni.
 
@@ -1392,7 +1392,7 @@ Imesaṁ kho, bhikkhave, tiṇṇannaṁ malānaṁ abhiññāya pariññāya pa
 
 Sattamaṁ.
 
-### 45.168 Nīghasutta
+### 45.168 Nīghasutta {#168}
 
 “Tayome, bhikkhave, nīghā. Katame tayo? Rāgo nīgho, doso nīgho, moho nīgho—ime kho, bhikkhave, tayo nīghā.
 
@@ -1400,7 +1400,7 @@ Imesaṁ kho, bhikkhave, tiṇṇannaṁ nīghānaṁ abhiññāya pariññāya 
 
 Aṭṭhamaṁ.
 
-### 45.169 Vedanāsutta
+### 45.169 Vedanāsutta {#169}
 
 “Tisso imā, bhikkhave, vedanā. Katamā tisso? Sukhā vedanā, dukkhā vedanā, adukkhamasukhā vedanā—imā kho, bhikkhave, tisso vedanā.
 
@@ -1408,7 +1408,7 @@ Imāsaṁ kho, bhikkhave, tissannaṁ vedanānaṁ abhiññāya pariññāya par
 
 Navamaṁ.
 
-### 45.170 Taṇhāsutta
+### 45.170 Taṇhāsutta {#170}
 
 “Tisso imā, bhikkhave, taṇhā. Katamā tisso? Kāmataṇhā, bhavataṇhā, vibhavataṇhā—imā kho, bhikkhave, tisso taṇhā.
 
@@ -1432,7 +1432,7 @@ Imāsaṁ kho, bhikkhave, tissannaṁ tasinānaṁ abhiññāya pariññāya par
 
 Ekādasamaṁ.
 
-### 45.171 Oghasutta
+### 45.171 Oghasutta {#171}
 
 Sāvatthinidānaṁ.
 
@@ -1444,7 +1444,7 @@ Imesaṁ kho, bhikkhave, catunnaṁ oghānaṁ abhiññāya pariññāya parikkh
 
 Paṭhamaṁ.
 
-### 45.172 Yogasutta
+### 45.172 Yogasutta {#172}
 
 “Cattārome, bhikkhave, yogā. Katame cattāro? Kāmayogo, bhavayogo, diṭṭhiyogo avijjāyogo—ime kho, bhikkhave, cattāro yogā.
 
@@ -1452,7 +1452,7 @@ Imesaṁ kho, bhikkhave, catunnaṁ yogānaṁ abhiññāya pariññāya parikkh
 
 Dutiyaṁ.
 
-### 45.173 Upādānasutta
+### 45.173 Upādānasutta {#173}
 
 “Cattārimāni, bhikkhave, upādānāni. Katamāni cattāri? Kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ—imāni kho, bhikkhave, cattāri upādānāni.
 
@@ -1460,7 +1460,7 @@ Imesaṁ kho, bhikkhave, catunnaṁ upādānānaṁ abhiññāya pariññāya pa
 
 Tatiyaṁ.
 
-### 45.174 Ganthasutta
+### 45.174 Ganthasutta {#174}
 
 “Cattārome, bhikkhave, ganthā. Katame cattāro? Abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṁsaccābhiniveso kāyagantho—ime kho, bhikkhave, cattāro ganthā.
 
@@ -1468,7 +1468,7 @@ Imesaṁ kho, bhikkhave, catunnaṁ ganthānaṁ abhiññāya pariññāya parik
 
 Catutthaṁ.
 
-### 45.175 Anusayasutta
+### 45.175 Anusayasutta {#175}
 
 “Sattime, bhikkhave, anusayā. Katame satta? Kāmarāgānusayo, paṭighānusayo, diṭṭhānusayo, vicikicchānusayo, mānānusayo, bhavarāgānusayo, avijjānusayo—ime kho, bhikkhave, sattānusayā.
 
@@ -1476,7 +1476,7 @@ Imesaṁ kho, bhikkhave, sattannaṁ anusayānaṁ abhiññāya pariññāya par
 
 Pañcamaṁ.
 
-### 45.176 Kāmaguṇasutta
+### 45.176 Kāmaguṇasutta {#176}
 
 “Pañcime, bhikkhave, kāmaguṇā. Katame pañca? Cakkhuviññeyyā rūpā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā, sotaviññeyyā saddā …pe… ghānaviññeyyā gandhā …pe… jivhāviññeyyā rasā …pe… kāyaviññeyyā phoṭṭhabbā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā—ime kho, bhikkhave, pañca kāmaguṇā.
 
@@ -1484,7 +1484,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ kāmaguṇānaṁ abhiññāya pariññāy
 
 Chaṭṭhaṁ.
 
-### 45.177 Nīvaraṇasutta
+### 45.177 Nīvaraṇasutta {#177}
 
 “Pañcimāni, bhikkhave, nīvaraṇāni. Katamāni pañca? Kāmacchandanīvaraṇaṁ, byāpādanīvaraṇaṁ, thinamiddhanīvaraṇaṁ, uddhaccakukkuccanīvaraṇaṁ, vicikicchānīvaraṇaṁ—imāni kho, bhikkhave, pañca nīvaraṇāni.
 
@@ -1492,7 +1492,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ nīvaraṇānaṁ abhiññāya pariññāy
 
 Sattamaṁ.
 
-### 45.178 Upādānakkhandhasutta
+### 45.178 Upādānakkhandhasutta {#178}
 
 “Pañcime, bhikkhave, upādānakkhandhā. Katame pañca? Seyyathidaṁ—rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho. Ime kho, bhikkhave, pañcupādānakkhandhā.
 
@@ -1500,7 +1500,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ upādānakkhandhānaṁ abhiññāya pari�
 
 Aṭṭhamaṁ.
 
-### 45.179 Orambhāgiyasutta
+### 45.179 Orambhāgiyasutta {#179}
 
 “Pañcimāni, bhikkhave, orambhāgiyāni saṁyojanāni. Katamāni pañca? Sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmacchando, byāpādo—imāni kho, bhikkhave, pañcorambhāgiyāni saṁyojanāni.
 
@@ -1508,7 +1508,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ abhi�
 
 Navamaṁ.
 
-### 45.180 Uddhambhāgiyasutta
+### 45.180 Uddhambhāgiyasutta {#180}
 
 “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
 

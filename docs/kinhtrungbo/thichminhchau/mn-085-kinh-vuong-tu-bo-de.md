@@ -507,7 +507,7 @@ sau khi ở tại Uruvela lâu cho đến khi mãn ý, Ta lên đường đi đ�
 Này Vương tử, một tà mạng ngoại đạo tên là Upaka, đã thấy Ta khi Ta còn đi trên con đường giữa Gaya
 và cây Bồ-đề. Sau khi thấy, vị ấy nói với Ta:
 
-"-- Các căn của Hiền giả thật sáng suốt. Da sắc của Hiền giả thật thanh tịnh, thật thanh khiết. Này Hiền
+-- "Các căn của Hiền giả thật sáng suốt. Da sắc của Hiền giả thật thanh tịnh, thật thanh khiết. Này Hiền
 giả, vì mục đích gì, Hiền giả xuất gia? Ai là bậc Ðạo Sư của Hiền giả? Hiền giả hoan hỷ thọ trì pháp của
 ai?"
 
@@ -536,7 +536,7 @@ Này Vương tử, khi nghe nói vậy, Ta nói với tà mạng đạo Upaka b�
 *Gióng lên trống bất tử,*\
 *Trong thế giới mù lòa."*
 
-"-- Như Hiền giả đã tự xưng, Hiền giả xứng đáng là bậc Chiến thắng Vô tận. "
+-- "Như Hiền giả đã tự xưng, Hiền giả xứng đáng là bậc Chiến thắng Vô tận. "
 
 *"-- Như Ta, bậc Thắng giả,*
 *Những ai chứng lậu tận,*
@@ -546,7 +546,7 @@ Này Vương tử, khi nghe nói vậy, Ta nói với tà mạng đạo Upaka b�
 
 Này Vương tử, sau khi được nói vậy, tà mạng ngoại đạo Upaka nói với Ta:
 
-"-- Này Hiền giả, mong rằng sự việc là vậy".
+-- "Này Hiền giả, mong rằng sự việc là vậy".
 
 Nói xong, Upaka lắc đầu rồi đi theo một ngã khác.
 
@@ -561,7 +561,7 @@ không thể giữ đúng điều đã thỏa thuận với nhau. Có người �
 
 Này Vương tử khi ta nghe nói vậy, Ta nói với nhóm năm Tỷ-kheo:
 
-"-- Này các Tỷ-kheo, chớ có gọi Ta bằng tên và dùng danh từ Hiền giả. Này các Tỷ-kheo, Như Lai là
+-- "Này các Tỷ-kheo, chớ có gọi Ta bằng tên và dùng danh từ Hiền giả. Này các Tỷ-kheo, Như Lai là
 bậc A-la-hán, Chánh Ðẳng Giác. Hãy lóng tai, Pháp bất tử đã chứng được, Ta giảng dạy, Ta thuyết
 pháp. Sống đúng theo lời khuyến giáo, các Ông không bao lâu, sau khi tự tri, tự chứng, tự đạt ngay trong
 hiện tại, mục đích vô thượng của phạm hạnh mà các Thiện nam tử, xuất gia từ bỏ gia đình, sống không
@@ -569,14 +569,14 @@ gia đình, các Ông sẽ an trú. "
 
 Này Vương tử, khi nghe nói vậy, nhóm năm Tỷ-kheo nói Ta:
 
-"-- Hiền giả Gotama, với nếp sống này, với đạo tu này, với khổ hạnh này, Hiền giả đã không chứng
+-- "Hiền giả Gotama, với nếp sống này, với đạo tu này, với khổ hạnh này, Hiền giả đã không chứng
 được Pháp siêu nhân, tri kiến, thù thắng xứng đáng bậc Thánh, thì này làm sao Hiền giả, với nếp sống
 sung túc, với sự từ bỏ tinh cần, với sự trở lui đời sống vật chất đầy đủ, lại có thể chứng được Pháp siêu
 nhân, tri kiến thù thắng xứng đáng bậc Thánh?"
 
 Này Vương tử, khi nghe nói vậy, Ta nói với nhóm năm Tỷ-kheo:
 
-"-- Này các Tỷ-kheo, Như Lai không sống sung túc, không từ bỏ tinh cần, không trở lui đời sống vật
+-- "Này các Tỷ-kheo, Như Lai không sống sung túc, không từ bỏ tinh cần, không trở lui đời sống vật
 chất đầy đủ. Này Vương tử, Như Lai là bậc A-la-hán, Chánh Ðẳng Giác. Này các Tỷ-kheo, hãy lóng tai,
 Pháp bất tử đã chứng được, Ta giảng dạy, Ta thuyết pháp. Sống đúng theo lời khuyến giáo, các Ông
 không bao lâu, sau khi tự tri, tự chứng, tự đạt ngay trong hiện tại mục đích vô thượng của Phạm hạnh mà
@@ -584,23 +584,23 @@ các Thiện nam tử xuất gia, từ bỏ gia đình, sống không gia đình
 
 Này Vương tử, lại lần thứ hai, nhóm năm Tỷ-kheo nói với Ta:
 
-"-- Hiền giả Gotama, với nếp sống này... tri kiến thù thắng xứng đáng bậc Thánh?"
+-- "Hiền giả Gotama, với nếp sống này... tri kiến thù thắng xứng đáng bậc Thánh?"
 
 Này Vương tử, lại lần thứ hai Ta nói với nhóm năm Tỷ-kheo:
 
-"-- Này các Tỷ-kheo, Như Lai không sống sung túc... các Ông sẽ an trú."
+-- "Này các Tỷ-kheo, Như Lai không sống sung túc... các Ông sẽ an trú."
 
 Này Vương tử, lại lần thứ ba, nhóm năm Tỷ-kheo nói với Ta:
 
-"-- Hiền giả Gotama, với nếp sống này... tri kiến thù thắng xứng đáng bậc Thánh?"
+-- "Hiền giả Gotama, với nếp sống này... tri kiến thù thắng xứng đáng bậc Thánh?"
 
 Này Vương tử, khi nghe nói vậy, Ta nói với nhóm năm Tỷ-kheo:
 
-"-- Này các Tỷ-kheo, từ trước đến nay, các Ông có chấp nhận là Ta chưa bao giờ nói như vậy chăng?"
+-- "Này các Tỷ-kheo, từ trước đến nay, các Ông có chấp nhận là Ta chưa bao giờ nói như vậy chăng?"
 
-"-- Bạch Thế Tôn chưa bao giờ như vậy. "
+-- "Bạch Thế Tôn chưa bao giờ như vậy. "
 
-"-- Này các Tỷ-kheo, Như Lai là bậc A-la-hán, Chánh Ðẳng Giác. Hãy lóng tai, Pháp bất tử đã chứng
+-- "Này các Tỷ-kheo, Như Lai là bậc A-la-hán, Chánh Ðẳng Giác. Hãy lóng tai, Pháp bất tử đã chứng
 được, Ta giảng dạy, Ta thuyết pháp. Sống đúng theo lời khuyến giáo, các Ông không bao lâu, sau khi tự
 tri, tư chứng, tự đạt được ngay trong hiện tại mục đích vô thượng của phạm hạnh mà các Thiện nam tử
 xuất gia, từ bỏ gia đình, sống không gia đình, các Ông sẽ an trú".

@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 42.1
 
-### 42.1 Caṇḍasutta
+### 42.1 Caṇḍasutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -18,7 +18,7 @@ Rāgassa pahīnattā pare na kopenti, parehi kopiyamāno kopaṁ na pātukaroti.
 
 Paṭhamaṁ.
 
-### 42.2 Tālapuṭasutta
+### 42.2 Tālapuṭasutta {#2}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Idha bhagavā kimāhā”ti? “Alaṁ, gāmaṇi, tiṭṭhatetaṁ. Mā maṁ etaṁ pucchī”ti.
 
@@ -52,7 +52,7 @@ Dutiyaṁ.
 
 “Abhikkantaṁ, bhante, abhikkantaṁ, bhante. Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca.
 
-### 42.3 Yodhājīvasutta
+### 42.3 Yodhājīvasutta {#3}
 
 Atha kho yodhājīvo gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā …pe… ekamantaṁ nisinno kho yodhājīvo gāmaṇi bhagavantaṁ etadavoca:
 
@@ -82,13 +82,13 @@ Sace kho panassa evaṁ diṭṭhi hoti: ‘yo so yodhājīvo saṅgāme ussahat
 
 Tatiyaṁ.
 
-### 42.4 Hatthārohasutta
+### 42.4 Hatthārohasutta {#4}
 
 Atha kho hatthāroho gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā …pe… ajjatagge pāṇupetaṁ saraṇaṁ gatanti.
 
 Catutthaṁ.
 
-### 42.5 Assārohasutta
+### 42.5 Assārohasutta {#5}
 
 Atha kho assāroho gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho assāroho gāmaṇi bhagavantaṁ etadavoca: “sutaṁ metaṁ, bhante, pubbakānaṁ ācariyapācariyānaṁ assārohānaṁ bhāsamānānaṁ: ‘yo so assāroho saṅgāme ussahati vāyamati, tamenaṁ ussahantaṁ vāyamantaṁ pare hananti pariyāpādenti, so kāyassa bhedā paraṁ maraṇā parajitānaṁ devānaṁ sahabyataṁ upapajjatī’ti. Idha bhagavā kimāhā”ti? “Alaṁ, gāmaṇi, tiṭṭhatetaṁ; mā maṁ etaṁ pucchī”ti.
 
@@ -100,7 +100,7 @@ Dutiyampi kho …pe… tatiyampi kho assāroho gāmaṇi bhagavantaṁ etadavoca
 
 Pañcamaṁ.
 
-### 42.6 Asibandhakaputtasutta
+### 42.6 Asibandhakaputtasutta {#6}
 
 Ekaṁ samayaṁ bhagavā nāḷandāyaṁ viharati pāvārikambavane.
 
@@ -134,7 +134,7 @@ Evaṁ vutte, asibandhakaputto gāmaṇi bhagavantaṁ etadavoca: “abhikkanta�
 
 Chaṭṭhaṁ.
 
-### 42.7 Khettūpamasutta
+### 42.7 Khettūpamasutta {#7}
 
 Ekaṁ samayaṁ bhagavā nāḷandāyaṁ viharati pāvārikambavane. Taṁ kissa hetu? Antamaso gobhattampi bhavissatī”ti.
 
@@ -168,7 +168,7 @@ Seyyathāpi, gāmaṇi, yo so udakamaṇiko chiddo hārī parihārī; evameva ma
 
 Sattamaṁ.
 
-### 42.8 Saṅkhadhamasutta
+### 42.8 Saṅkhadhamasutta {#8}
 
 Ekaṁ samayaṁ bhagavā nāḷandāyaṁ viharati pāvārikambavane.
 
@@ -214,7 +214,7 @@ So anekapariyāyena pāṇātipātaṁ garahati vigarahati, ‘pāṇātipātā 
 
 ‘Bhagavā kho pana anekapariyāyena kāmesumicchācāraṁ garahati vigarahati, kāmesumicchācārā viramathāti cāha. Atthi kho pana mayā kāmesu micchā ciṇṇaṁ yāvatakaṁ vā tāvatakaṁ vā. Yaṁ kho pana mayā kāmesu micchā ciṇṇaṁ yāvatakaṁ vā tāvatakaṁ vā taṁ na suṭṭhu, taṁ na sādhu. Ahañceva kho pana tappaccayā vippaṭisārī assaṁ, na metaṁ pāpaṁ kammaṁ akataṁ bhavissatī’ti. So iti paṭisaṅkhāya tañceva kāmesumicchācāraṁ pajahati, āyatiñca kāmesumicchācārā paṭivirato hoti. Evametassa pāpassa kammassa pahānaṁ hoti. Evametassa pāpassa kammassa samatikkamo hoti.
 
-### 42.9 Kulasutta
+### 42.9 Kulasutta {#9}
 
 Ekaṁ samayaṁ bhagavā kosalesu cārikaṁ caramāno mahatā bhikkhusaṅghena saddhiṁ yena nāḷandā tadavasari. Tatra sudaṁ bhagavā nāḷandāyaṁ viharati pāvārikambavane.
 
@@ -244,7 +244,7 @@ Evaṁ vutte, asibandhakaputto gāmaṇi bhagavantaṁ etadavoca: “abhikkanta�
 
 Navamaṁ.
 
-### 42.10 Maṇicūḷakasutta
+### 42.10 Maṇicūḷakasutta {#10}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena rājantepure rājaparisāya sannisinnānaṁ sannipatitānaṁ ayamantarākathā udapādi: “kappati samaṇānaṁ sakyaputtiyānaṁ jātarūparajataṁ, sādiyanti samaṇā sakyaputtiyā jātarūparajataṁ, paṭiggaṇhanti samaṇā sakyaputtiyā jātarūparajatan”ti.
 
@@ -262,7 +262,7 @@ Api cāhaṁ, gāmaṇi, evaṁ vadāmi—tiṇaṁ tiṇatthikena pariyesitabba
 
 Dasamaṁ.
 
-### 42.11 Bhadrakasutta
+### 42.11 Bhadrakasutta {#11}
 
 Ekaṁ samayaṁ bhagavā mallesu viharati uruvelakappaṁ nāma mallānaṁ nigamo. “Evaṁ, bhante”ti kho bhadrako gāmaṇi bhagavato paccassosi. Bhagavā etadavoca:
 
@@ -312,7 +312,7 @@ Taṁ kiṁ maññasi, gāmaṇi, yadā te ciravāsimātā adiṭṭhā ahosi, a
 
 Ekādasamaṁ.
 
-### 42.12 Rāsiyasutta
+### 42.12 Rāsiyasutta {#12}
 
 Atha kho rāsiyo gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho rāsiyo gāmaṇi bhagavantaṁ etadavoca:
 
@@ -382,7 +382,7 @@ Tatra, gāmaṇi, yvāyaṁ kāmabhogī adhammena bhoge pariyesati sāhasena, ad
 
 Tatra, gāmaṇi, yvāyaṁ kāmabhogī dhammādhammena bhoge pariyesati sāhasenapi asāhasenapi, dhammādhammena bhoge pariyesitvā sāhasenapi asāhasenapi na attānaṁ sukheti, na pīṇeti, na saṁvibhajati, na puññāni karoti. Ayaṁ, gāmaṇi, kāmabhogī ekena ṭhānena pāsaṁso, tīhi ṭhānehi gārayho. Katamena ekena ṭhānena pāsaṁso? Dhammena bhoge pariyesati asāhasenāti, iminā ekena ṭhānena pāsaṁso. Katamehi tīhi ṭhānehi gārayho? Adhammena bhoge pariyesati sāhasenāti, iminā paṭhamena ṭhānena gārayho. Na attānaṁ sukheti, na pīṇetīti, iminā dutiyena ṭhānena gārayho. Na saṁvibhajati, na puññāni karotīti, iminā tatiyena ṭhānena gārayho. Ayaṁ, gāmaṇi, kāmabhogī iminā ekena ṭhānena pāsaṁso, imehi tīhi ṭhānehi gārayho.
 
-### 42.13 Pāṭaliyasutta
+### 42.13 Pāṭaliyasutta {#13}
 
 Ekaṁ samayaṁ bhagavā koliyesu viharati uttaraṁ nāma koliyānaṁ nigamo. Atha kho pāṭaliyo gāmaṇi yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho pāṭaliyo gāmaṇi bhagavantaṁ etadavoca:
 

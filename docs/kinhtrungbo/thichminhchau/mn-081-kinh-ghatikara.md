@@ -37,68 +37,68 @@ người đàn tín của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Gi
 Jotipala là người bạn chí thân của thợ gốm Ghatikara. Rồi này Ananda, thợ gốm Ghatikara nói với thanh
 niên Jotipala:
 
-"-- Này bạn Jotipala, chúng ta hãy đi. Chúng ta hãy đi đến yết kiến Thế Tôn Kassapa, bậc A-la-hán
+-- "Này bạn Jotipala, chúng ta hãy đi. Chúng ta hãy đi đến yết kiến Thế Tôn Kassapa, bậc A-la-hán
 Chánh Ðẳng Giác. Thật là tốt lành cho tôi được đến yết kiến Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác
 ấy".
 
 Khi nghe nói vậy, này Ananda, thanh niên Jotipala nói với thợ gốm Ghatikara:
 
-"-- Thôi vừa rồi, bạn Ghatikara, yết kiến Sa-môn trọc đầu như vậy để làm gì?"
+-- "Thôi vừa rồi, bạn Ghatikara, yết kiến Sa-môn trọc đầu như vậy để làm gì?"
 
 Lần thứ hai, này Ananda... Lần thứ ba, này Ananda, thợ gốm Ghatikara nói với thanh niên Jotipala:
 
-"-- Này bạn Jotipala, chúng ta hãy đi. Chúng ta hãy đi đến yết kiến Thế Tôn Kassapa, bậc A-la-hán,
+-- "Này bạn Jotipala, chúng ta hãy đi. Chúng ta hãy đi đến yết kiến Thế Tôn Kassapa, bậc A-la-hán,
 Chánh Ðẳng Giác. Thật là tốt lành cho tôi được đến yết kiến Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác
 
 ấy".
 
 Lần thứ ba này Ananda, thanh niên Jotipala nói với thợ gốm Ghatikara:
 
-"-- Thôi vừa rồi bạn Ghatikara yết kiến Sa-môn trọc đầu như vậy để làm gì?"
+-- "Thôi vừa rồi bạn Ghatikara yết kiến Sa-môn trọc đầu như vậy để làm gì?"
 
-"-- Vậy này bạn Jotipala, hãy cầm đồ gãi lưng và bột tắm, chúng ta hãy đi đến sông để tắm".
+-- "Vậy này bạn Jotipala, hãy cầm đồ gãi lưng và bột tắm, chúng ta hãy đi đến sông để tắm".
 
-"-- Thưa bạn, vâng".
+-- "Thưa bạn, vâng".
 
 Này Ananda, thanh niên Jotipala vâng đáp thợ gốm Ghatikara như vậy.
 
 Thợ gốm Ghatikara và thanh niên Jotipala lấy đồ gãi lưng và bột tắm, đi đến sông để tắm. Rồi này
 Ananda, thợ gốm Ghatikara nói với thanh niên Jotipala:
 
-"-- Này bạn Jotipala, chỗ này cách tu viện Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không bao
+-- "Này bạn Jotipala, chỗ này cách tu viện Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không bao
 xa. Này bạn Jotipala, chúng ta hãy đi. Chúng ta hãy đi đến yết kiến Thế Tôn Kassapa, bậc A-la-hán,
 Chánh Ðẳng Giác. Thật là tốt lành cho tôi được đến yết kiến Thế Tôn, bậc A-la-hán, Chánh Ðẳng Giác
 ấy".
 
 Khi nghe nói vậy, này Ananda, thanh niên Jotipala nói với thợ gốm Ghatikara:
 
-"-- Thôi vừa rồi, bạn Ghatikara, yết kiến Sa-môn trọc đầu như vậy để làm gì?"
+-- "Thôi vừa rồi, bạn Ghatikara, yết kiến Sa-môn trọc đầu như vậy để làm gì?"
 
 Lần thứ hai, này Ananda, ...lần thứ ba này Ananda, thợ gốm Ghatikara nói với thanh niên Jotipala:
 
-"-- Này bạn Jotipala, chỗ này cách tu viện của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không
+-- "Này bạn Jotipala, chỗ này cách tu viện của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không
 bao xa. Này bạn Jotipala, chúng ta hãy đi. Chúng ta hãy đi đến yết kiến Thế Tôn Kassapa, bậc A-la-hán,
 Chánh Ðẳng Giác. Thật là tốt lành cho tôi được yết kiến Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng
 Giác ấy".
 
 Lần thứ ba, này Ananda, thanh niên Jotipala nói với thợ gốm Ghatikara:
 
-"-- Thôi vừa rồi, bạn Ghatikara, yết kiến Sa-môn trọc đầu như vậy để làm gì?"
+-- "Thôi vừa rồi, bạn Ghatikara, yết kiến Sa-môn trọc đầu như vậy để làm gì?"
 
 Rồi này Ananda, thợ gốm Ghatikara nắm lấy thanh niên Jotipala ở nơi cổ tay áo và nói:
 
-"-- Này bạn Jotipala, chỗ này cách tu viện Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không bao
+-- "Này bạn Jotipala, chỗ này cách tu viện Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không bao
 xa. Này bạn Jotipala, chúng ta hãy đi. Chúng ta hãy đi đến yết kiến Thế Tôn Kassapa, bậc A-la-hán,
 Chánh Ðẳng Giác. Thật là tốt lành cho tôi được yết kiến Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng
 Giác ấy".
 
 Rồi này Ananda, sau khi gỡ thoát cổ áo, thanh niên Jotipala nói với thợ gốm Ghatikara:
 
-"-- Thôi vừa rồi, bạn Ghatikara, yết kiến vị Sa-môn đầu trọc ấy để làm gì?
+-- "Thôi vừa rồi, bạn Ghatikara, yết kiến vị Sa-môn đầu trọc ấy để làm gì?
 
 Rồi thợ gốm Ghatikara nắm lấy tóc vừa mới tắm xong của thanh niên Jotipala và nói:
 
-"-- Này bạn Jotipala, chỗ này cách tu viện của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không
+-- "Này bạn Jotipala, chỗ này cách tu viện của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không
 bao xa. Này bạn Jotipala chúng ta hãy đi, chúng ta hãy đi đến yết kiến Thế Tôn Kassapa, bậc A-la-hán,
 
 Chánh Ðẳng Giác. Thật là tốt lành cho tôi được yết kiến Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng
@@ -108,12 +108,12 @@ Rồi này Ananda, thanh niên Jotipala suy nghĩ như sau: "Thật là vi diệ
 Ghatikara tuy sanh thuộc hạ cấp, lại dám nghĩ có thể nắm lấy tóc của ta, dầu ta vừa mới gội đầu, chắc
 việc này không phải là tầm thường", rồi nói với thợ gốm Ghatikara:
 
-"-- Này bạn Ghatikara, có thật sự là cần thiết không?"
+-- "Này bạn Ghatikara, có thật sự là cần thiết không?"
 
-"-- Này bạn Jotipala, thật sự là cần thiết. Thật là tốt lành cho tôi được yết kiến Thế Tôn Kassapa, bậc A-
+-- "Này bạn Jotipala, thật sự là cần thiết. Thật là tốt lành cho tôi được yết kiến Thế Tôn Kassapa, bậc A-
 la-hán, Chánh Ðẳng Giác".
 
-"-- Vậy bạn Ghatikara, hãy thả (tay) ra. Chúng ta sẽ đi".
+-- "Vậy bạn Ghatikara, hãy thả (tay) ra. Chúng ta sẽ đi".
 
 Rồi này Ananda, thợ gốm Ghatikara và thanh niên Jotipala cùng đi đến Thế Tôn Kassapa, bậc A-la-hán,
 Chánh Ðẳng Giác. Sau khi đến, thợ gốm Ghatikara đảnh lễ Thế Tôn Kassapa, bậc A-la-hán, Chánh
@@ -122,7 +122,7 @@ với Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác, sau khi nói l�
 thân hữu, rồi ngồi xuống một bên. Ngồi một bên, này Ananda, thợ gốm Ghatikara bạch Thế Tôn
 Kassapa, bậc A-la-hán, Chánh Ðẳng Giác:
 
-"-- Bạch Thế Tôn, đây là thanh niên Jotipala, bạn của con, bạn thân tình của con. Mong Thế Tôn thuyết
+-- "Bạch Thế Tôn, đây là thanh niên Jotipala, bạn của con, bạn thân tình của con. Mong Thế Tôn thuyết
 pháp cho bạn con".
 
 Rồi này Ananda, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác, với pháp thoại khích lệ làm cho
@@ -134,18 +134,18 @@ bậc A-la-hán, Chánh Ðẳng Giác, thân bên hữu hướng về Ngài rồ
 
 Rồi này Ananda, thanh niên Jotipala nói với thợ gốm Ghatikara:
 
-"-- Này bạn Ghatikara, khi nghe pháp này, vì sao bạn không xuất gia"?
+-- "Này bạn Ghatikara, khi nghe pháp này, vì sao bạn không xuất gia"?
 
-"-- Này bạn Jotipala, bạn không biết tôi sao? Tôi phải nuôi dưỡng cha mẹ già và mù lòa".
+-- "Này bạn Jotipala, bạn không biết tôi sao? Tôi phải nuôi dưỡng cha mẹ già và mù lòa".
 
-"-- Vậy này bạn Ghatikara, tôi sẽ xuất gia từ bỏ gia đình, sống không gia đình".
+-- "Vậy này bạn Ghatikara, tôi sẽ xuất gia từ bỏ gia đình, sống không gia đình".
 
 Rồi này Ananda, thợ gốm Ghatikara và thanh niên Jotipala đi đến Thế Tôn Kassapa, bậc A-la-hán,
 Chánh Ðẳng Giác, sau khi đến đảnh lễ Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác, rồi ngồi
 xuống một bên. Ngồi xuống một bên, này Ananda, thợ gốm Ghatikara bạch Thế Tôn Kassapa, bậc A-la-
 hán, Chánh Ðẳng Giác:
 
-"-- Bạch Thế Tôn, đây là thanh niên Jotipala, bạn của con, bạn thân tình của con. Mong Thế Tôn xuất
+-- "Bạch Thế Tôn, đây là thanh niên Jotipala, bạn của con, bạn thân tình của con. Mong Thế Tôn xuất
 gia cho bạn con".
 
 Và này Ananda, thanh niên Jotipala được Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác cho xuất
@@ -168,7 +168,7 @@ bên. Rồi Kiki, vua xứ Kasi, sau khi được Thế Tôn Kassapa, bậc A-la
 thoại khích lệ, làm cho thích thú, làm cho phấn khởi, làm cho hoan hỷ, liền bạch Thế Tôn Kassapa, bậc
 A-la-hán, Chánh Ðẳng Giác:
 
-"-- Bạch Thế Tôn, mong Thế Tôn nhận lời con mời ngày mai đến dùng cơm với chúng Tỷ-kheo".
+-- "Bạch Thế Tôn, mong Thế Tôn nhận lời con mời ngày mai đến dùng cơm với chúng Tỷ-kheo".
 
 Và này Ananda, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác im lặng nhận lời. Rồi này Ananda,
 sau khi được biết Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác đã nhận lời, từ chỗ ngồi đứng dậy,
@@ -178,7 +178,7 @@ Và này Ananda, Kiki, vua xứ Kasi, sau khi đêm ấy đã mãn, tại trú x
 ăn thượng vị loại cứng và loại mềm, cơm vàng khô, các loại cari các hột đen được gạn bỏ, và các món
 ăn gia vị, rồi báo thời giờ cho Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác được biết:
 
-"-- Bạch Thế Tôn giờ đã đến, cơm đã sẵn sàng".
+-- "Bạch Thế Tôn giờ đã đến, cơm đã sẵn sàng".
 
 Rồi này Ananda, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác vào buổi sáng đắp y, cầm y bát, đi
 đến trú xứ của Kiki, vua xứ Kasi, sau khi đến, liền ngồi trên chỗ đã soạn sẵn cùng với chúng Tỷ-kheo.
@@ -188,27 +188,27 @@ Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác đã ăn xong, tay đã rờ
 xuống một bên. Ngồi xuống một bên, này Ananda, Kiki, vua xứ Kasi, bạch Thế Tôn Kassapa, bậc A-la-
 hán, Chánh Ðẳng Giác:
 
-"-- Bạch Thế Tôn, mong Thế Tôn nhận lời mời của con an cư mùa mưa tại Baranasi; sẽ có sự cúng
+-- "Bạch Thế Tôn, mong Thế Tôn nhận lời mời của con an cư mùa mưa tại Baranasi; sẽ có sự cúng
 dường như vậy cho chúng Tỷ-kheo".
 
-"-- Thôi vừa rồi, Ðại vương, Ta đã nhận lời an cư mùa mưa rồi"
+-- "Thôi vừa rồi, Ðại vương, Ta đã nhận lời an cư mùa mưa rồi"
 
 Lần thứ hai, này Ananda,... Lần thứ ba, này Ananda, Kiki, vua xứ Kasi, bạch Thế Tôn Kassapa, bậc A-
 la-hán, Chánh Ðẳng Giác:
 
-"-- Bạch Thế Tôn, mong Thế Tôn nhận lời mời của con, an cư mùa mưa tại Baranasi; sẽ có sự cúng
+-- "Bạch Thế Tôn, mong Thế Tôn nhận lời mời của con, an cư mùa mưa tại Baranasi; sẽ có sự cúng
 dường như vậy cho chúng Tỷ-kheo".
 
-"-- Thôi vừa rồi Ðại vương, Ta đã nhận lời an cư trong mùa mưa rồi".
+-- "Thôi vừa rồi Ðại vương, Ta đã nhận lời an cư trong mùa mưa rồi".
 
 Rồi này Ananda, Kiki, vua xứ Kasi, suy nghĩ như sau: "Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng
 
 Giác không nhận lời mời của ta an cư mùa mưa ở Baranasi", vì vậy cảm thấy thất vọng, ưu phiền. Rồi
 này Ananda, Kiki, vua xứ Kasi, bạch Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác.
 
-"-- Bạch Thế Tôn, Thế Tôn có người đàn tín hộ trì hơn con?"
+-- "Bạch Thế Tôn, Thế Tôn có người đàn tín hộ trì hơn con?"
 
-"-- Ðại vương, có một thị trấn tên là Vebhalinga. Tại đấy có thợ gốm tên là Ghatikara. Người ấy là đàn
+-- "Ðại vương, có một thị trấn tên là Vebhalinga. Tại đấy có thợ gốm tên là Ghatikara. Người ấy là đàn
 tín hộ trì của Ta, một đàn tín hộ trì tối thượng. Ðại vương, Ðại vương có nghĩ như sau: "Thế Tôn
 Kassapa, bậc A-la-hán, Chánh Ðẳng Giác không nhận lời mời của ta an cư mùa mưa ở Baranasi", do
 vậy, Ðại vương cảm thấy thất vọng, ưu phiền. Nhưng thợ gốm Ghatikara không có như vậy, và không sợ
@@ -231,17 +231,17 @@ này nữa.
 cầm y bát, đi đến cha mẹ của thợ gốm Ghatikara, sau khi đến nói với cha mẹ thợ gốm Ghatikara như
 sau:
 
-"-- Người thợ làm đồ gốm đi đâu?"
+-- "Người thợ làm đồ gốm đi đâu?"
 
-"-- Bạch Thế Tôn, người đàn tín hộ trì cho Thế Tôn đã đi khỏi và có dặn như sau: Hãy lấy cháo từ nơi
+-- "Bạch Thế Tôn, người đàn tín hộ trì cho Thế Tôn đã đi khỏi và có dặn như sau: Hãy lấy cháo từ nơi
 nồi, hãy lấy đồ ăn từ nơi chảo mà dùng".
 
 "Rồi ta, này Ðại vương, sau khi lấy cháo từ nơi nồi, lấy đồ ăn từ nơi chảo, ăn xong từ chỗ ngồi đứng dậy
 rồi đi. Rồi này Ðại vương, thợ gốm Ghatikara đi đến cha mẹ sau khi đến, nói với cha mẹ như sau:
 
-"-- Ai đã lấy cháo từ nơi nồi, lấy đồ ăn từ nơi chảo, ăn xong từ chỗ ngồi đứng dậy rồi đi?"
+-- "Ai đã lấy cháo từ nơi nồi, lấy đồ ăn từ nơi chảo, ăn xong từ chỗ ngồi đứng dậy rồi đi?"
 
-"-- Này con, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác, sau khi lấy cháo từ nơi nồi, lấy đồ ăn từ
+-- "Này con, Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác, sau khi lấy cháo từ nơi nồi, lấy đồ ăn từ
 nơi chảo, ăn xong, từ chỗ ngồi đứng dậy rồi đi".
 
 "Rồi này Ðại vương, thợ gốm Ghatikara suy nghĩ như sau: "Thật là lợi ích cho ta, thật là khéo lợi ích
@@ -252,28 +252,28 @@ khỏi) cha mẹ (người thợ gốm).
 "Một thời, này Ðại Vương. Ta trú ở thị trấn Vebhalinga, lúc bấy giờ, các cốc bị mưa dột, rồi Ta, này Ðại
 vương, gọi các Tỷ-kheo:
 
-"-- Hãy đi, này các Tỷ-kheo, và xem tại nhà của thợ gốm Ghatikara có cỏ hay không?
+-- "Hãy đi, này các Tỷ-kheo, và xem tại nhà của thợ gốm Ghatikara có cỏ hay không?
 
 "Khi được nghe nói vậy, này Ðại vương, các Tỷ-kheo bạch với Ta:
 
-"-- Bạch Thế Tôn, tại nhà của thợ gốm Ghatikara không có cỏ, nhưng nhà người ấy có mái cỏ".
+-- "Bạch Thế Tôn, tại nhà của thợ gốm Ghatikara không có cỏ, nhưng nhà người ấy có mái cỏ".
 
-"-- Này các Tỷ-kheo, hãy đi và rút cỏ từ ngôi nhà thợ gốm Ghatikara.
+-- "Này các Tỷ-kheo, hãy đi và rút cỏ từ ngôi nhà thợ gốm Ghatikara.
 
 "Rồi này Ðại vương, các Tỷ-kheo ấy rút cỏ từ ngôi nhà thợ gốm Ghatikara. Này Ðại vương, cha mẹ thợ
 gốm Ghatikara nói với các Tỷ-kheo ấy:
 
-"-- Quý vị là ai lại rút cỏ ngôi nhà?"
+-- "Quý vị là ai lại rút cỏ ngôi nhà?"
 
-"-- Này Ðại tỷ, ngôi nhà của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác bị mưa dột".
+-- "Này Ðại tỷ, ngôi nhà của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác bị mưa dột".
 
-"-- Hãy lấy đi, chư Hiền giả! Hãy lấy đi chư Hiền giả!"
+-- "Hãy lấy đi, chư Hiền giả! Hãy lấy đi chư Hiền giả!"
 
 "Rồi này Ðại vương, thợ gốm Ghatikara đi đến cha mẹ, sau khi đến thưa với cha mẹ như sau:
 
-"-- Những ai đã rút cỏ khỏi ngôi nhà?"
+-- "Những ai đã rút cỏ khỏi ngôi nhà?"
 
-"-- Này Con, các Tỷ-kheo có nói: Ngôi nhà của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác bị
+-- "Này Con, các Tỷ-kheo có nói: Ngôi nhà của Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác bị
 mưa dột".
 
 "Rồi này Ðại vương, thợ gốm Ghatikara suy nghĩ như sau: "Thật là lợi ích cho ta, thật là khéo lợi ích
@@ -283,17 +283,17 @@ cho ta đã được Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác t
 (không rời khỏi) cha mẹ thợ gốm. Rồi suốt cả ba tháng trời, ngôi nhà đứng lấy bầu trời làm mái, nhưng
 không có mưa rơi vào. Và như vậy, này Ðại vương, là người thợ gốm, Ghatikara.
 
-"-- Lợi ích thay, bạch Thế Tôn, cho thợ gốm Ghatikara; thật khéo lợi ích thay, bạch Thế Tôn cho thợ
+-- "Lợi ích thay, bạch Thế Tôn, cho thợ gốm Ghatikara; thật khéo lợi ích thay, bạch Thế Tôn cho thợ
 gốm Ghatikara, đã được Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng Giác tin tưởng!"
 
 Rồi này Ananda, Kiki, vua xứ Kasi, cho người đưa đến thợ gốm Ghatikara, khoảng năm trăm xe gạo có
 vỏ, gạo vàng khô và các món đồ ăn. Rồi này Ananda, những người nhà vua cử đi đến thợ gốm Ghatikara
 và nói:
 
-"-- Này Tôn giả, năm trăm xe gạo có vỏ, gạo vàng khô và các món đồ ăn này, do Kiki, vua xứ Kasi, gởi
+-- "Này Tôn giả, năm trăm xe gạo có vỏ, gạo vàng khô và các món đồ ăn này, do Kiki, vua xứ Kasi, gởi
 đến cho Tôn giả, mong Tôn giả hãy nhận lấy".
 
-"-- Nhà vua rất nhiều phận sự, rất nhiều việc cần phải làm. Thật là vừa đủ cho tôi, được nhà vua nghĩ
+-- "Nhà vua rất nhiều phận sự, rất nhiều việc cần phải làm. Thật là vừa đủ cho tôi, được nhà vua nghĩ
 đến như thế này".
 
 -- Này Ananda, rất có thể Ông suy nghĩ như sau: "Lúc bây giờ, thanh niên Jotipala có thể là một người

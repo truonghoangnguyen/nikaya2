@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 3.1
 
-### 3.1 Daharasutta
+### 3.1 Daharasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -36,7 +36,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 > Pahūtabhakkhaṁ jālinaṁ, pāvakaṁ kaṇhavattaniṁ; Daharoti nāvajāneyya, na naṁ paribhave naro.
 
-### 3.2 Purisasutta
+### 3.2 Purisasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -48,7 +48,7 @@ Idamavoca …pe…
 
 > “Lobho doso ca moho ca, purisaṁ pāpacetasaṁ; Hiṁsanti attasambhūtā, tacasāraṁva samphalan”ti.
 
-### 3.3 Jarāmaraṇasutta
+### 3.3 Jarāmaraṇasutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -60,7 +60,7 @@ Idamavoca …pe…
 
 > “Jīranti ve rājarathā sucittā, Atho sarīrampi jaraṁ upeti; Satañca dhammo na jaraṁ upeti, Santo have sabbhi pavedayantī”ti.
 
-### 3.4 Piyasutta
+### 3.4 Piyasutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -82,7 +82,7 @@ Idamavoca …pe…
 
 > Tasmā kareyya kalyāṇaṁ, nicayaṁ samparāyikaṁ; Puññāni paralokasmiṁ, patiṭṭhā honti pāṇinan”ti.
 
-### 3.5 Attarakkhitasutta
+### 3.5 Attarakkhitasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -98,7 +98,7 @@ Idamavoca …pe…
 
 > Ye hi keci, mahārāja, kāyena duccaritaṁ caranti …pe… tesaṁ arakkhito attā. Taṁ kissa hetu? Bāhirā hesā, mahārāja, rakkhā, nesā rakkhā ajjhattikā; tasmā tesaṁ arakkhito attā. Ye hi keci, mahārāja, kāyena sucaritaṁ caranti, vācāya sucaritaṁ caranti, manasā sucaritaṁ caranti; tesaṁ rakkhito attā. Kiñcāpi te neva hatthikāyo rakkheyya, na assakāyo rakkheyya, na rathakāyo rakkheyya, na pattikāyo rakkheyya; “Kāyena saṁvaro sādhu, sādhu vācāya saṁvaro; Manasā saṁvaro sādhu, sādhu sabbattha saṁvaro; Sabbattha saṁvuto lajjī, rakkhitoti pavuccatī”ti.
 
-### 3.6 Appakasutta
+### 3.6 Appakasutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -110,7 +110,7 @@ Idamavoca …pe…
 
 > “Sārattā kāmabhogesu, giddhā kāmesu mucchitā; Atisāraṁ na bujjhanti, migā kūṭaṁva oḍḍitaṁ; Pacchāsaṁ kaṭukaṁ hoti, vipāko hissa pāpako”ti.
 
-### 3.7 Aḍḍakaraṇasutta
+### 3.7 Aḍḍakaraṇasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -122,7 +122,7 @@ Idamavoca …pe…
 
 > “Sārattā kāmabhogesu, giddhā kāmesu mucchitā; Atisāraṁ na bujjhanti, macchā khippaṁva oḍḍitaṁ; Pacchāsaṁ kaṭukaṁ hoti, vipāko hissa pāpako”ti.
 
-### 3.8 Mallikāsutta
+### 3.8 Mallikāsutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -140,7 +140,7 @@ Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ gāthaṁ abh
 
 > “Sabbā disā anuparigamma cetasā, Nevajjhagā piyataramattanā kvaci; Evaṁ piyo puthu attā paresaṁ, Tasmā na hiṁse paramattakāmo”ti.
 
-### 3.9 Yaññasutta
+### 3.9 Yaññasutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -158,7 +158,7 @@ Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imā gāthāyo abhā
 
 > Etaṁ yajetha medhāvī, eso yañño mahapphalo; Etañhi yajamānassa, seyyo hoti na pāpiyo; Yañño ca vipulo hoti, pasīdanti ca devatā”ti.
 
-### 3.10 Bandhanasutta
+### 3.10 Bandhanasutta {#10}
 
 Tena kho pana samayena raññā pasenadinā kosalena mahājanakāyo bandhāpito hoti, appekacce rajjūhi appekacce andūhi appekacce saṅkhalikāhi.
 
@@ -176,7 +176,7 @@ Tassuddānaṁ
 
 > Daharo puriso jarā, piyaṁ attānarakkhito; Appakā aḍḍakaraṇaṁ, mallikā yaññabandhananti.
 
-### 3.11 Sattajaṭilasutta
+### 3.11 Sattajaṭilasutta {#11}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde.
 
@@ -202,7 +202,7 @@ Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imā gāthāyo abhā
 
 > “Na vaṇṇarūpena naro sujāno, Na vissase ittaradassanena; Susaññatānañhi viyañjanena, Asaññatā lokamimaṁ caranti.
 
-### 3.12 Pañcarājasutta
+### 3.12 Pañcarājasutta {#12}
 
 Sāvatthinidānaṁ.
 
@@ -238,7 +238,7 @@ Tena kho pana samayena candanaṅgaliko upāsako tassaṁ parisāyaṁ nisinno h
 
 “Paṭibhātu taṁ, candanaṅgalikā”ti bhagavā avoca.
 
-### 3.13 Doṇapākasutta
+### 3.13 Doṇapākasutta {#13}
 
 Sāvatthinidānaṁ.
 
@@ -258,7 +258,7 @@ Atha kho rājā pasenadi kosalo anupubbena nāḷikodanaparamatāya saṇṭhās
 
 “ubhayena vata maṁ so bhagavā atthena anukampi—diṭṭhadhammikena ceva atthena samparāyikena cā”ti.
 
-### 3.14 Paṭhamasaṅgāmasutta
+### 3.14 Paṭhamasaṅgāmasutta {#14}
 
 Sāvatthinidānaṁ.
 
@@ -274,7 +274,7 @@ Idamavoca …pe…
 
 > “Jayaṁ veraṁ pasavati, dukkhaṁ seti parājito; Upasanto sukhaṁ seti, hitvā jayaparājayan”ti.
 
-### 3.15 Dutiyasaṅgāmasutta
+### 3.15 Dutiyasaṅgāmasutta {#15}
 
 Atha kho rājā māgadho ajātasattu vedehiputto caturaṅginiṁ senaṁ sannayhitvā rājānaṁ pasenadiṁ kosalaṁ abbhuyyāsi yena kāsi. Assosi kho rājā pasenadi kosalo: “rājā kira māgadho ajātasattu vedehiputto caturaṅginiṁ senaṁ sannayhitvā mamaṁ abbhuyyāto yena kāsī”ti. Atha kho rājā pasenadi kosalo caturaṅginiṁ senaṁ sannayhitvā rājānaṁ māgadhaṁ ajātasattuṁ vedehiputtaṁ paccuyyāsi yena kāsi. Atha kho rājā ca māgadho ajātasattu vedehiputto rājā ca pasenadi kosalo saṅgāmesuṁ. Tasmiṁ kho pana saṅgāme rājā pasenadi kosalo rājānaṁ māgadhaṁ ajātasattuṁ vedehiputtaṁ parājesi, jīvaggāhañca naṁ aggahesi.
 
@@ -296,7 +296,7 @@ Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imā gāthāyo abhā
 
 > Hantā labhati hantāraṁ, jetāraṁ labhate jayaṁ; Akkosako ca akkosaṁ, rosetārañca rosako; Atha kammavivaṭṭena, so vilutto viluppatī”ti.
 
-### 3.16 Mallikāsutta
+### 3.16 Mallikāsutta {#16}
 
 Sāvatthinidānaṁ.
 
@@ -308,7 +308,7 @@ Atha kho bhagavā rājānaṁ pasenadiṁ kosalaṁ anattamanataṁ viditvā tā
 
 > Tassā yo jāyati poso, sūro hoti disampati; Tādisā subhagiyā putto, rajjampi anusāsatī”ti.
 
-### 3.17 Appamādasutta
+### 3.17 Appamādasutta {#17}
 
 Sāvatthinidānaṁ.
 
@@ -328,7 +328,7 @@ Idamavoca …pe…
 
 > Diṭṭhe dhamme ca yo attho, yo cattho samparāyiko; Atthābhisamayā dhīro, paṇḍitoti pavuccatī”ti.
 
-### 3.18 Kalyāṇamittasutta
+### 3.18 Kalyāṇamittasutta {#18}
 
 Sāvatthinidānaṁ.
 
@@ -360,7 +360,7 @@ Kalyāṇamittassa te, mahārāja, kalyāṇasahāyassa kalyāṇasampavaṅkass
 
 Appamattassa te, mahārāja, viharato appamādaṁ upanissāya, itthāgārassa anuyantassa evaṁ bhavissati: ‘rājā kho appamatto viharati, appamādaṁ upanissāya. Handa mayampi appamattā viharāma, appamādaṁ upanissāyā’ti.
 
-### 3.19 Paṭhamaaputtakasutta
+### 3.19 Paṭhamaaputtakasutta {#19}
 
 Sāvatthinidānaṁ.
 
@@ -384,7 +384,7 @@ Evameva kho, mahārāja, sappuriso uḷāre bhoge labhitvā attānaṁ sukheti p
 
 > Dhīro ca viññū adhigamma bhoge, So bhuñjati kiccakaro ca hoti; So ñātisaṅghaṁ nisabho bharitvā, Anindito saggamupeti ṭhānan”ti.
 
-### 3.20 Dutiyaaputtakasutta
+### 3.20 Dutiyaaputtakasutta {#20}
 
 Atha kho rājā pasenadi kosalo divā divassa yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisinnaṁ kho rājānaṁ pasenadiṁ kosalaṁ bhagavā etadavoca: “handa kuto nu tvaṁ, mahārāja, āgacchasi divā divassā”ti?
 
@@ -414,7 +414,7 @@ Tassuddānaṁ
 
 > Jaṭilā pañca rājāno, Doṇapākakurena ca; Saṅgāmena dve vuttāni, Mallikā dve appamādena ca; Aputtakena dve vuttā, Vaggo tena pavuccatīti.
 
-### 3.21 Puggalasutta
+### 3.21 Puggalasutta {#21}
 
 Sāvatthinidānaṁ.
 
@@ -464,7 +464,7 @@ Seyyathāpi, mahārāja, puriso pallaṅkā vā pallaṅkaṁ saṅkameyya, assa
 
 Idamavoca …pe…
 
-### 3.22 Ayyikāsutta
+### 3.22 Ayyikāsutta {#22}
 
 Sāvatthinidānaṁ.
 
@@ -484,7 +484,7 @@ Idamavoca …pe…
 
 > Tasmā kareyya kalyāṇaṁ, nicayaṁ samparāyikaṁ; Puññāni paralokasmiṁ, patiṭṭhā honti pāṇinan”ti.
 
-### 3.23 Lokasutta
+### 3.23 Lokasutta {#23}
 
 Sāvatthinidānaṁ.
 
@@ -496,7 +496,7 @@ Ekamantaṁ nisinno kho rājā pasenadi kosalo bhagavantaṁ etadavoca: “kati 
 
 > “Lobho doso ca moho ca, purisaṁ pāpacetasaṁ; Hiṁsanti attasambhūtā, tacasāraṁva samphalan”ti.
 
-### 3.24 Issattasutta
+### 3.24 Issattasutta {#24}
 
 Sāvatthinidānaṁ.
 
@@ -548,7 +548,7 @@ Iti pañcaṅgavippahīne pañcaṅgasamannāgate dinnaṁ mahapphalan”ti.
 
 > Tatheva saddho sutavā, abhisaṅkhacca bhojanaṁ; Vanibbake tappayati, annapānena paṇḍito.
 
-### 3.25 Pabbatūpamasutta
+### 3.25 Pabbatūpamasutta {#25}
 
 Sāvatthinidānaṁ.
 

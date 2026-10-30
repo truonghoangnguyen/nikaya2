@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 25.1
 
-### 25.1 Cakkhusutta
+### 25.1 Cakkhusutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -16,7 +16,7 @@ Yo, bhikkhave, ime dhamme evaṁ pajānāti evaṁ passati, ayaṁ vuccati: ‘s
 
 Paṭhamaṁ.
 
-### 25.2 Rūpasutta
+### 25.2 Rūpasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -30,7 +30,7 @@ Yo, bhikkhave, ime dhamme evaṁ pajānāti evaṁ passati, ayaṁ vuccati: ‘s
 
 Dutiyaṁ.
 
-### 25.3 Viññāṇasutta
+### 25.3 Viññāṇasutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -40,7 +40,7 @@ Tatiyaṁ.
 
 Yo bhikkhave …pe… sambodhiparāyano”ti.
 
-### 25.4 Samphassasutta
+### 25.4 Samphassasutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -50,7 +50,7 @@ Catutthaṁ.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddhānusārī …pe… sambodhiparāyano’”ti.
 
-### 25.5 Samphassajasutta
+### 25.5 Samphassajasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -60,7 +60,7 @@ Pañcamaṁ.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddhānusārī …pe… sambodhiparāyano’”ti.
 
-### 25.6 Rūpasaññāsutta
+### 25.6 Rūpasaññāsutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -70,7 +70,7 @@ Chaṭṭhaṁ.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddhānusārī …pe… sambodhiparāyano’”ti.
 
-### 25.7 Rūpasañcetanāsutta
+### 25.7 Rūpasañcetanāsutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -80,7 +80,7 @@ Sattamaṁ.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddhānusārī …pe… sambodhiparāyano’”ti.
 
-### 25.8 Rūpataṇhāsutta
+### 25.8 Rūpataṇhāsutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -90,7 +90,7 @@ Aṭṭhamaṁ.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddhānusārī …pe… sambodhiparāyano’”ti.
 
-### 25.9 Pathavīdhātusutta
+### 25.9 Pathavīdhātusutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -100,7 +100,7 @@ Navamaṁ.
 
 Yo, bhikkhave, ime dhamme evaṁ saddahati adhimuccati, ayaṁ vuccati ‘saddhānusārī …pe… sambodhiparāyano’”ti.
 
-### 25.10 Khandhasutta
+### 25.10 Khandhasutta {#10}
 
 Sāvatthinidānaṁ.
 

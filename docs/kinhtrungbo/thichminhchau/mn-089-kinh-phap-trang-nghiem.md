@@ -104,12 +104,12 @@ tay chân gân nổi, hình như không có gì đẹp mắt để người ta n
 kín. Do vậy, các vị Tôn giả này mới gầy mòn, khốn khổ, da xấu, bạc nhợt, tay chân gân nổi, hình như
 không có gì đẹp mắt để người ta nhìn. Con đi đến các vị ấy và nói:
 
-"-- Vì sao chư Tôn giả lại gầy mòn, khốn khổ, da xấu, bạc nhợt, tay chân gân nổi, hình như không có gì
+-- "Vì sao chư Tôn giả lại gầy mòn, khốn khổ, da xấu, bạc nhợt, tay chân gân nổi, hình như không có gì
 đẹp mắt để người ta nhìn?".
 
 Các vị ấy trả lời như sau:
 
-"-- Tâu Ðại vương, chúng tôi bị bệnh gia truyền".
+-- "Tâu Ðại vương, chúng tôi bị bệnh gia truyền".
 
 Còn ở đây, bạch Thế Tôn, con thấy các Tỷ-kheo hân hoan, phấn khởi, hỷ lạc, các căn thoải mái, không
 dao động, bình tĩnh, sống dựa vào (sự hỷ cúng) của người khác, với tâm tư như con thú rừng. Bạch Thế

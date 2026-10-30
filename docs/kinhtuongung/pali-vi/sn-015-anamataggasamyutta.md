@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 15.1
 
-### 15.1 Tiṇakaṭṭhasutta
+### 15.1 Tiṇakaṭṭhasutta {#1}
 
 Evaṁ me sutaṁ—‘ayaṁ me mātā, tassā me mātu ayaṁ mātā’ti, apariyādinnāva, bhikkhave, tassa purisassa mātumātaro assu, atha imasmiṁ jambudīpe tiṇakaṭṭhasākhāpalāsaṁ parikkhayaṁ pariyādānaṁ gaccheyya.
 
@@ -16,7 +16,7 @@ ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa
 
 “Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Seyyathāpi, bhikkhave, puriso yaṁ imasmiṁ jambudīpe tiṇakaṭṭhasākhāpalāsaṁ taṁ chetvā ekajjhaṁ saṁharitvā caturaṅgulaṁ caturaṅgulaṁ ghaṭikaṁ katvā nikkhipeyya:
 
-### 15.2 Pathavīsutta
+### 15.2 Pathavīsutta {#2}
 
 Sāvatthiyaṁ viharati.
 
@@ -28,7 +28,7 @@ Dutiyaṁ.
 
 Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Evaṁ dīgharattaṁ vo, bhikkhave, dukkhaṁ paccanubhūtaṁ tibbaṁ paccanubhūtaṁ byasanaṁ paccanubhūtaṁ, kaṭasī vaḍḍhitā.
 
-### 15.3 Assusutta
+### 15.3 Assusutta {#3}
 
 Sāvatthiyaṁ viharati.
 
@@ -44,7 +44,7 @@ Tatiyaṁ.
 
 Etadeva, bhikkhave, bahutaraṁ yaṁ vo iminā dīghena addhunā sandhāvataṁ saṁsarataṁ amanāpasampayogā manāpavippayogā kandantānaṁ rodantānaṁ assu passannaṁ paggharitaṁ, na tveva catūsu mahāsamuddesu udakaṁ. Dīgharattaṁ vo, bhikkhave, mātumaraṇaṁ paccanubhūtaṁ; tesaṁ vo mātumaraṇaṁ paccanubhontānaṁ amanāpasampayogā manāpavippayogā kandantānaṁ rodantānaṁ assu passannaṁ paggharitaṁ, na tveva catūsu mahāsamuddesu udakaṁ. Dīgharattaṁ vo, bhikkhave, pitumaraṇaṁ paccanubhūtaṁ …pe… bhātumaraṇaṁ paccanubhūtaṁ … bhaginimaraṇaṁ paccanubhūtaṁ … puttamaraṇaṁ paccanubhūtaṁ … dhītumaraṇaṁ paccanubhūtaṁ …
 
-### 15.4 Khīrasutta
+### 15.4 Khīrasutta {#4}
 
 Sāvatthiyaṁ viharati.
 
@@ -60,7 +60,7 @@ Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro …pe… alaṁ vimucci
 
 Catutthaṁ.
 
-### 15.5 Pabbatasutta
+### 15.5 Pabbatasutta {#5}
 
 Sāvatthiyaṁ viharati …pe… ārāme …pe….
 
@@ -80,7 +80,7 @@ Pañcamaṁ.
 
 Taṁ kissa hetu? Anamataggoyaṁ, bhikkhu, saṁsāro.
 
-### 15.6 Sāsapasutta
+### 15.6 Sāsapasutta {#6}
 
 Sāvatthiyaṁ viharati.
 
@@ -100,7 +100,7 @@ Chaṭṭhaṁ.
 
 Taṁ kissa hetu? Anamataggoyaṁ, bhikkhu, saṁsāro …pe…
 
-### 15.7 Sāvakasutta
+### 15.7 Sāvakasutta {#7}
 
 Sāvatthiyaṁ viharati.
 
@@ -120,7 +120,7 @@ Sattamaṁ.
 
 Taṁ kissa hetu?
 
-### 15.8 Gaṅgāsutta
+### 15.8 Gaṅgāsutta {#8}
 
 Rājagahe viharati veḷuvane. Atha kho aññataro brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi.
 
@@ -140,7 +140,7 @@ Taṁ kissa hetu? Anamataggoyaṁ, brāhmaṇa, saṁsāro. Evaṁ vutte, so br�
 
 Aṭṭhamaṁ.
 
-### 15.9 Daṇḍasutta
+### 15.9 Daṇḍasutta {#9}
 
 Sāvatthiyaṁ viharati.
 
@@ -150,7 +150,7 @@ Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro …pe… alaṁ vimucci
 
 Navamaṁ.
 
-### 15.10 Puggalasutta
+### 15.10 Puggalasutta {#10}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -178,7 +178,7 @@ Tassuddānaṁ
 
 > Tiṇakaṭṭhañca pathavī, assu khīrañca pabbataṁ; Sāsapā sāvakā gaṅgā, daṇḍo ca puggalena cāti.
 
-### 15.11 Duggatasutta
+### 15.11 Duggatasutta {#11}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati. Tatra kho …pe…
 
@@ -186,7 +186,7 @@ Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati. Tatra kho …pe…
 
 Paṭhamaṁ.
 
-### 15.12 Sukhitasutta
+### 15.12 Sukhitasutta {#12}
 
 Sāvatthiyaṁ viharati.
 
@@ -196,7 +196,7 @@ Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na pañ�
 
 Dutiyaṁ.
 
-### 15.13 Tiṁsamattasutta
+### 15.13 Tiṁsamattasutta {#13}
 
 Rājagahe viharati veḷuvane. Atha kho tiṁsamattā pāveyyakā bhikkhū sabbe āraññikā sabbe piṇḍapātikā sabbe paṁsukūlikā sabbe tecīvarikā sabbe sasaṁyojanā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu.
 
@@ -220,7 +220,7 @@ Etadeva, bhikkhave, bahutaraṁ, yaṁ vo iminā dīghena addhunā sandhāvata�
 
 Tatiyaṁ.
 
-### 15.14 Mātusutta
+### 15.14 Mātusutta {#14}
 
 Sāvatthiyaṁ viharati.
 
@@ -230,7 +230,7 @@ Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro …pe… alaṁ vimucci
 
 Catutthaṁ.
 
-### 15.15 Pitusutta
+### 15.15 Pitusutta {#15}
 
 Sāvatthiyaṁ viharati.
 
@@ -238,7 +238,7 @@ Sāvatthiyaṁ viharati.
 
 Pañcamaṁ.
 
-### 15.16 Bhātusutta
+### 15.16 Bhātusutta {#16}
 
 Sāvatthiyaṁ viharati …pe…
 
@@ -246,7 +246,7 @@ Sāvatthiyaṁ viharati …pe…
 
 Chaṭṭhaṁ.
 
-### 15.17 Bhaginisutta
+### 15.17 Bhaginisutta {#17}
 
 Sāvatthiyaṁ viharati …pe…
 
@@ -254,7 +254,7 @@ Sāvatthiyaṁ viharati …pe…
 
 Sattamaṁ.
 
-### 15.18 Puttasutta
+### 15.18 Puttasutta {#18}
 
 Sāvatthiyaṁ viharati …pe…
 
@@ -262,7 +262,7 @@ Sāvatthiyaṁ viharati …pe…
 
 Aṭṭhamaṁ.
 
-### 15.19 Dhītusutta
+### 15.19 Dhītusutta {#19}
 
 Sāvatthiyaṁ viharati.
 
@@ -272,7 +272,7 @@ Navamaṁ.
 
 Taṁ kissa hetu? Anamataggoyaṁ, bhikkhave, saṁsāro. Pubbā koṭi na paññāyati avijjānīvaraṇānaṁ sattānaṁ taṇhāsaṁyojanānaṁ sandhāvataṁ saṁsarataṁ. Evaṁ dīgharattaṁ vo, bhikkhave, dukkhaṁ paccanubhūtaṁ tibbaṁ paccanubhūtaṁ byasanaṁ paccanubhūtaṁ, kaṭasī vaḍḍhitā. Yāvañcidaṁ, bhikkhave, alameva sabbasaṅkhāresu nibbindituṁ, alaṁ virajjituṁ, alaṁ vimuccitun”ti.
 
-### 15.20 Vepullapabbatasutta
+### 15.20 Vepullapabbatasutta {#20}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 

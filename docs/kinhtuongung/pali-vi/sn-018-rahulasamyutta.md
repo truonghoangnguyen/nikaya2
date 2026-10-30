@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 18.1
 
-### 18.1 Cakkhusutta
+### 18.1 Cakkhusutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -56,7 +56,7 @@ Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagav
 
 Paṭhamaṁ.
 
-### 18.2 Rūpasutta
+### 18.2 Rūpasutta {#2}
 
 Sāvatthiyaṁ viharati.
 
@@ -70,7 +70,7 @@ Dutiyaṁ.
 
 “Aniccā, bhante” …pe… saddā … gandhā … rasā … phoṭṭhabbā … dhammā niccā vā aniccā vā”ti?
 
-### 18.3 Viññāṇasutta
+### 18.3 Viññāṇasutta {#3}
 
 Sāvatthiyaṁ viharati.
 
@@ -86,7 +86,7 @@ Tatiyaṁ.
 
 “sotaviññāṇaṁ …pe… ghānaviññāṇaṁ … jivhāviññāṇaṁ … kāyaviññāṇaṁ … manoviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?
 
-### 18.4 Samphassasutta
+### 18.4 Samphassasutta {#4}
 
 Sāvatthiyaṁ viharati.
 
@@ -102,7 +102,7 @@ Catutthaṁ.
 
 “sotasamphasso …pe… ghānasamphasso … jivhāsamphasso … kāyasamphasso … manosamphasso nicco vā anicco vā”ti?
 
-### 18.5 Vedanāsutta
+### 18.5 Vedanāsutta {#5}
 
 Sāvatthiyaṁ viharati.
 
@@ -118,7 +118,7 @@ Pañcamaṁ.
 
 “sotasamphassajā vedanā …pe… ghānasamphassajā vedanā … jivhāsamphassajā vedanā … kāyasamphassajā vedanā … manosamphassajā vedanā niccā vā aniccā vā”ti?
 
-### 18.6 Saññāsutta
+### 18.6 Saññāsutta {#6}
 
 Sāvatthiyaṁ viharati.
 
@@ -134,7 +134,7 @@ Chaṭṭhaṁ.
 
 “saddasaññā …pe… gandhasaññā … rasasaññā … phoṭṭhabbasaññā … dhammasaññā niccā vā aniccā vā”ti?
 
-### 18.7 Sañcetanāsutta
+### 18.7 Sañcetanāsutta {#7}
 
 Sāvatthiyaṁ viharati.
 
@@ -150,7 +150,7 @@ Sattamaṁ.
 
 “saddasañcetanā …pe… gandhasañcetanā … rasasañcetanā … phoṭṭhabbasañcetanā … dhammasañcetanā niccā vā aniccā vā”ti?
 
-### 18.8 Taṇhāsutta
+### 18.8 Taṇhāsutta {#8}
 
 Sāvatthiyaṁ viharati.
 
@@ -166,7 +166,7 @@ Aṭṭhamaṁ.
 
 “saddataṇhā …pe… gandhataṇhā … rasataṇhā … phoṭṭhabbataṇhā … dhammataṇhā niccā vā aniccā vā”ti?
 
-### 18.9 Dhātusutta
+### 18.9 Dhātusutta {#9}
 
 Sāvatthiyaṁ viharati.
 
@@ -182,7 +182,7 @@ Navamaṁ.
 
 “āpodhātu …pe… tejodhātu … vāyodhātu … ākāsadhātu … viññāṇadhātu niccā vā aniccā vā”ti?
 
-### 18.10 Khandhasutta
+### 18.10 Khandhasutta {#10}
 
 Sāvatthiyaṁ viharati.
 
@@ -206,7 +206,7 @@ Tassuddānaṁ
 
 > Cakkhu rūpañca viññāṇaṁ, samphasso vedanāya ca; Saññā sañcetanā taṇhā, dhātu khandhena te dasāti.
 
-### 18.11 Cakkhusutta
+### 18.11 Cakkhusutta {#11}
 
 Evaṁ me sutaṁ—‘etaṁ mama, esohamasmi, eso me attā’”ti?
 
@@ -274,7 +274,7 @@ Aniccaṁ, bhante …pe…
 
 Dasamaṁ.
 
-### 18.21 Anusayasutta
+### 18.21 Anusayasutta {#21}
 
 Sāvatthiyaṁ viharati.
 
@@ -288,7 +288,7 @@ Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagav
 
 Evaṁ kho, rāhula, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti.
 
-### 18.22 Apagatasutta
+### 18.22 Apagatasutta {#22}
 
 Sāvatthinidānaṁ.
 

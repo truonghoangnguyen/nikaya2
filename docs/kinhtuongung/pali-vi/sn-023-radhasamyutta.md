@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 23.1
 
-### 23.1 Mārasutta
+### 23.1 Mārasutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -34,7 +34,7 @@ Paṭhamaṁ.
 
 “Nibbānaṁ pana, bhante, kimatthiyan”ti?
 
-### 23.2 Sattasutta
+### 23.2 Sattasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -50,7 +50,7 @@ Yāvakīvañca tesu paṁsvāgārakesu avigatarāgā honti avigatacchandā aviga
 
 Evameva kho, rādha, tumhepi rūpaṁ vikiratha vidhamatha viddhaṁsetha vikīḷaniyaṁ karotha taṇhākkhayāya paṭipajjatha. Vedanaṁ vikiratha vidhamatha viddhaṁsetha vikīḷaniyaṁ karotha taṇhākkhayāya paṭipajjatha. Saññaṁ … saṅkhāre vikiratha vidhamatha viddhaṁsetha vikīḷaniyaṁ karotha taṇhākkhayāya paṭipajjatha. Viññāṇaṁ vikiratha vidhamatha viddhaṁsetha vikīḷaniyaṁ karotha taṇhākkhayāya paṭipajjatha. Taṇhākkhayo hi, rādha, nibbānan”ti.
 
-### 23.3 Bhavanettisutta
+### 23.3 Bhavanettisutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -66,7 +66,7 @@ Ekamantaṁ nisinno kho āyasmā rādho bhagavantaṁ etadavoca:
 
 Vedanāya … saññāya …
 
-### 23.4 Pariññeyyasutta
+### 23.4 Pariññeyyasutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -86,7 +86,7 @@ Taṁ suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti.
 
 Katamā ca, rādha, pariññā? Yo kho, rādha, rāgakkhayo dosakkhayo mohakkhayo—
 
-### 23.5 Samaṇasutta
+### 23.5 Samaṇasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -100,7 +100,7 @@ Ye hi keci, rādha, samaṇā vā brāhmaṇā vā imesaṁ pañcannaṁ upādā
 
 Ye ca kho keci, rādha, samaṇā vā brāhmaṇā vā imesaṁ pañcannaṁ upādānakkhandhānaṁ assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānanti; te kho me, rādha, samaṇā vā brāhmaṇā vā samaṇesu ceva samaṇasammatā brāhmaṇesu ca brāhmaṇasammatā, te ca panāyasmanto sāmaññatthañca brahmaññatthañca diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti.
 
-### 23.6 Dutiyasamaṇasutta
+### 23.6 Dutiyasamaṇasutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -114,7 +114,7 @@ sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti.
 
 Chaṭṭhaṁ.
 
-### 23.7 Sotāpannasutta
+### 23.7 Sotāpannasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -124,7 +124,7 @@ Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
 Sattamaṁ.
 
-### 23.8 Arahantasutta
+### 23.8 Arahantasutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -134,7 +134,7 @@ Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
 Aṭṭhamaṁ.
 
-### 23.9 Chandarāgasutta
+### 23.9 Chandarāgasutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -148,7 +148,7 @@ Ekamantaṁ nisinnaṁ kho āyasmantaṁ rādhaṁ bhagavā etadavoca:
 
 Vedanāya yo chando yo rāgo yā nandī yā taṇhā, taṁ pajahatha. Evaṁ sā vedanā pahīnā bhavissati ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Saññāya … saṅkhāresu yo chando yo rāgo yā nandī yā taṇhā, taṁ pajahatha. Evaṁ te saṅkhārā pahīnā bhavissanti ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā.
 
-### 23.10 Dutiyachandarāgasutta
+### 23.10 Dutiyachandarāgasutta {#10}
 
 Sāvatthinidānaṁ.
 
@@ -166,7 +166,7 @@ Vedanāya yo chando yo rāgo yā nandī yā taṇhā ye upayupādānā cetaso ad
 
 > Māro satto bhavanetti, pariññeyyā samaṇā duve; Sotāpanno arahā ca, chandarāgāpare duveti.
 
-### 23.11 Mārasutta
+### 23.11 Mārasutta {#11}
 
 Sāvatthinidānaṁ.
 
@@ -182,7 +182,7 @@ Evaṁ passaṁ, rādha, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyap
 
 Paṭhamaṁ.
 
-### 23.12 Māradhammasutta
+### 23.12 Māradhammasutta {#12}
 
 Sāvatthinidānaṁ.
 
@@ -196,7 +196,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Dutiyaṁ.
 
-### 23.13 Aniccasutta
+### 23.13 Aniccasutta {#13}
 
 Sāvatthinidānaṁ.
 
@@ -210,7 +210,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Tatiyaṁ.
 
-### 23.14 Aniccadhammasutta
+### 23.14 Aniccadhammasutta {#14}
 
 Sāvatthinidānaṁ.
 
@@ -224,7 +224,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Catutthaṁ.
 
-### 23.15 Dukkhasutta
+### 23.15 Dukkhasutta {#15}
 
 Sāvatthinidānaṁ.
 
@@ -238,7 +238,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Pañcamaṁ.
 
-### 23.16 Dukkhadhammasutta
+### 23.16 Dukkhadhammasutta {#16}
 
 Sāvatthinidānaṁ.
 
@@ -252,7 +252,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Chaṭṭhaṁ.
 
-### 23.17 Anattasutta
+### 23.17 Anattasutta {#17}
 
 Sāvatthinidānaṁ.
 
@@ -266,7 +266,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Sattamaṁ.
 
-### 23.18 Anattadhammasutta
+### 23.18 Anattadhammasutta {#18}
 
 Sāvatthinidānaṁ.
 
@@ -280,7 +280,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Aṭṭhamaṁ.
 
-### 23.19 Khayadhammasutta
+### 23.19 Khayadhammasutta {#19}
 
 Sāvatthinidānaṁ.
 
@@ -294,7 +294,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Navamaṁ.
 
-### 23.20 Vayadhammasutta
+### 23.20 Vayadhammasutta {#20}
 
 Sāvatthinidānaṁ.
 
@@ -308,7 +308,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Dasamaṁ.
 
-### 23.21 Samudayadhammasutta
+### 23.21 Samudayadhammasutta {#21}
 
 Sāvatthinidānaṁ.
 
@@ -322,7 +322,7 @@ Evaṁ passaṁ …pe… nāparaṁ itthattāyāti pajānātī”ti.
 
 Ekādasamaṁ.
 
-### 23.22 Nirodhadhammasutta
+### 23.22 Nirodhadhammasutta {#22}
 
 Sāvatthinidānaṁ.
 
@@ -380,7 +380,7 @@ viññāṇaṁ māro; tatra te chando pahātabbo …pe… yo kho, rādha, māro
 
 “Yo kho, rādha, samudayadhammo; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo …pe….
 
-### 23.34 Nirodhadhammasutta
+### 23.34 Nirodhadhammasutta {#34}
 
 Sāvatthinidānaṁ.
 
@@ -434,7 +434,7 @@ viññāṇaṁ māro; tatra te chando pahātabbo …pe… yo kho, rādha, māro
 
 “Yo kho, rādha, samudayadhammo; tatra te chando pahātabbo, rāgo pahātabbo, chandarāgo pahātabbo …pe….
 
-### 23.46 Nirodhadhammasutta
+### 23.46 Nirodhadhammasutta {#46}
 
 Sāvatthinidānaṁ.
 

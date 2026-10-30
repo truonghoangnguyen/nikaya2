@@ -1,6 +1,6 @@
 # MN 102. KINH NĂM & BA
 
-***(Pancattaya Sutta)***
+**(Pancattaya Sutta)**
 
 Như vầy tôi nghe.
 
@@ -21,7 +21,8 @@ tiêu diệt của loài hữu tình hiện đang sanh tồn. Hay một số l�
 những chủ thuyết này, sau khi thành năm trở lại thành ba, sau khi thành ba, trở lại thành năm. Ðây là sự
 tổng thuyết năm và ba.
 
-Ở đây, này các Tỷ-kheo, những vị Sa-môn, Bà-la-môn nào chủ trương sau khi chết, tự ngã có tưởng,
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, những vị Sa-môn, Bà-la-môn nào chủ trương sau khi chết, tự ngã có tưởng, {#3}
 không bệnh, các Tôn giả Sa-môn, Bà-la-môn ấy hoặc chủ trương sau khi chết tự ngã có sắc, có tưởng,
 không bệnh; các Tôn giả Sa-môn, Bà-la-môn ấy chủ trương sau khi chết, tự ngã hoặc không có sắc, có
 tưởng, không bệnh; các Tôn giả Sa-môn, Bà-la-môn ấy chủ trương sau khi chết, tự ngã hoặc có sắc và
@@ -103,7 +104,8 @@ thành nhờ sự thành tựu không có hành nào còn lại. Biết rằng c
 sự đoạn diệt các hành, biết được có (sự đoạn diệt này), Như Lai thấy sự giải thoát khỏi (pháp hữu vi) và
 đã vượt khỏi (pháp hữu vi).
 
-Ở đây, này các Tỷ-kheo, những vị Sa-môn, Bà-la-môn nào chủ trương đoạn diệt, hủy hoại, diệt tận của
+<!--pg-->
+11\. Ở đây, này các Tỷ-kheo, những vị Sa-môn, Bà-la-môn nào chủ trương đoạn diệt, hủy hoại, diệt tận của {#11}
 loại hữu tình hiện đang sinh tồn. Ở đây, này các Tỷ-kheo, những vị Sa-môn, Bà-la-môn nào chủ trương
 sau khi chết, tự ngã có tưởng, không bệnh, một số phỉ báng các vị ấy. Còn những vị Sa-môn, Bà-la-môn
 nào chủ trương sau khi chết, tự ngã không tưởng không bệnh, một số phỉ báng các vị ấy. Còn những vị
@@ -122,6 +124,7 @@ Bà-la-môn ấy sợ hãi tự thân, yếm ly tự thân, chỉ biết chạy 
 này thuộc hữu vi là thô pháp, nhưng có sự đoạn diệt các hành, biết được có (sự đoạn diệt này), Như Lai
 thấy sự giải thoát khỏi (pháp hữu vi), và đã vượt khỏi (pháp hữu vi).
 
+<!--pg-->
 Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào luận bàn về tương lai, thảo luận về tương lai, y cứ
 vào tương lai tuyên bố nhiều quan điểm sai khác, tất cả đều tuyên bố năm xứ này hay một trong chúng.
 
@@ -174,6 +177,7 @@ Sa-môn, Bà-la-môn ấy. Biết rằng cái này thuộc hữu vi là thô ph�
 được có (sự đoạn diệt này), Như Lai thấy sự giải thoát khỏi (pháp hữu vi), và đã vượt khỏi (pháp hữu
 vi).
 
+<!--pg-->
 ***Niết-bàn hiện tiền***
 
 Ở đây, này các Tỷ-kheo, có vị Sa-môn hay Bà-la-môn do từ bỏ những quan điểm về quá khứ, và từ bỏ

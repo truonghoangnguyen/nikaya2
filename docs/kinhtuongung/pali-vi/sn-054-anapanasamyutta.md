@@ -1,7 +1,7 @@
 # Tương Ưng Chú Tâm Về Hơi Thở
 *(Ānāpānasaṁyutta)*
 <!--pg-->
-## 54.1 Kinh Một Điều
+## 54.1 Kinh Một Điều {#1}
 *(Ekadhammasutta)*
 
 Bối cảnh ở Sāvatthī.
@@ -29,7 +29,7 @@ Này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập* n
 Kinh thứ nhất.
 
 <!--pg-->
-### 54.2 Kinh Dấu Hiệu Giác Ngộ
+### 54.2 Kinh Dấu Hiệu Giác Ngộ {#2}
 *(Bojjhaṅgasutta)*
 
 "Này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập*, *được làm cho nhiều lên* sẽ *mang lại kết quả lớn*, *mang lại lợi ích lớn*. Và này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập* như thế nào, *được làm cho nhiều lên* như thế nào để *mang lại kết quả lớn*, *mang lại lợi ích lớn*? Ở đây, này các tỳ kheo, tỳ kheo *luyện tập* *dấu hiệu trí nhớ không quên* (niệm giác chi / satisambojjhaṅga) đi kèm với sự *chú tâm về hơi thở*, dựa trên sự *rời bỏ* (viễn ly / viveka), dựa trên sự *cạn hết đắm nhiễm*, dựa trên sự *chấm dứt*, hướng đến sự *hoàn toàn buông xả* (vossaggapariṇāmiṁ); vị ấy *luyện tập* *dấu hiệu khả năng tìm hiểu-phân tích* (trạch pháp giác chi / dhammavicayasambojjhaṅga) đi kèm với sự *chú tâm về hơi thở* [...lặp lại...] vị ấy *luyện tập* *dấu hiệu Tâm quân bình* (xả giác chi / upekkhāsambojjhaṅga) đi kèm với sự *chú tâm về hơi thở*, dựa trên sự *rời bỏ*, dựa trên sự *cạn hết đắm nhiễm*, dựa trên sự *chấm dứt*, hướng đến sự *hoàn toàn buông xả*. Này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập* như vậy, *được làm cho nhiều lên* như vậy sẽ *mang lại kết quả lớn*, *mang lại lợi ích lớn*."
@@ -37,7 +37,7 @@ Kinh thứ nhất.
 Kinh thứ hai.
 
 <!--pg-->
-### 54.3 Kinh Thuần Túy
+### 54.3 Kinh Thuần Túy {#3}
 *(Suddhikasutta)*
 
 "Này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập*, *được làm cho nhiều lên* sẽ *mang lại kết quả lớn*, *mang lại lợi ích lớn*. Và này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập* như thế nào, *được làm cho nhiều lên* như thế nào để *mang lại kết quả lớn*, *mang lại lợi ích lớn*?
@@ -53,7 +53,7 @@ Này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập* n
 Kinh thứ ba.
 
 <!--pg-->
-### 54.4 Kinh Quả Thứ Nhất
+### 54.4 Kinh Quả Thứ Nhất {#4}
 *(Paṭhamaphalasutta)*
 
 "Này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập*, *được làm cho nhiều lên* sẽ *mang lại kết quả lớn*, *mang lại lợi ích lớn*. Và này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập* như thế nào, *được làm cho nhiều lên* như thế nào để *mang lại kết quả lớn*, *mang lại lợi ích lớn*?
@@ -69,7 +69,7 @@ Này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập* n
 Kinh thứ tư.
 
 <!--pg-->
-### 54.5 Kinh Quả Thứ Hai
+### 54.5 Kinh Quả Thứ Hai {#5}
 *(Dutiyaphalasutta)*
 
 "Này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập*, *được làm cho nhiều lên* sẽ *mang lại kết quả lớn*, *mang lại lợi ích lớn*. Và này các tỳ kheo, sự *chú tâm về hơi thở* *được luyện tập* như thế nào, *được làm cho nhiều lên* như thế nào để *mang lại kết quả lớn*, *mang lại lợi ích lớn*?
@@ -89,7 +89,7 @@ Kinh thứ năm.
 Bảy kết quả, bảy lợi ích đó là gì? Đạt được sự *hiểu biết trọn vẹn* sớm ngay trong hiện tại; nếu không đạt được sự *hiểu biết trọn vẹn* sớm ngay trong hiện tại, thì đạt được sự *hiểu biết trọn vẹn* vào lúc chết; nếu không đạt được sự *hiểu biết trọn vẹn* sớm ngay trong hiện tại, và cũng không đạt được sự *hiểu biết trọn vẹn* vào lúc chết, thì do *cạn kiệt* (đoạn tận / parikkhayā) năm *xiềng xích* (kiết sử / saṁyojanānaṁ) trói buộc cõi dưới, vị ấy nhập Niết-bàn ở khoảng giữa (trung ấm) ... nhập Niết-bàn có sự giảm thiểu ... nhập Niết-bàn không cần nỗ lực ...
 
 <!--pg-->
-### 54.6 Kinh Ariṭṭha
+### 54.6 Kinh Ariṭṭha {#6}
 *(Ariṭṭhasutta)*
 
 Bối cảnh ở Sāvatthī.
@@ -113,7 +113,7 @@ Bối cảnh ở Sāvatthī.
 Kinh thứ sáu.
 
 <!--pg-->
-### 54.7 Kinh Mahākappina
+### 54.7 Kinh Mahākappina {#7}
 *(Mahākappinasutta)*
 
 Bối cảnh ở Sāvatthī.
@@ -135,7 +135,7 @@ Này các tỳ kheo, khi *Định* qua *chú tâm về hơi thở* *được luy
 Kinh thứ bảy.
 
 <!--pg-->
-### 54.8 Kinh Ví Dụ Ngọn Đèn
+### 54.8 Kinh Ví Dụ Ngọn Đèn {#8}
 *(Padīpopamasutta)*
 
 "Này các tỳ kheo, *Định* qua *chú tâm về hơi thở* *được luyện tập*, *được làm cho nhiều lên* sẽ *mang lại kết quả lớn*, *mang lại lợi ích lớn*. Và này các tỳ kheo, *Định* qua *chú tâm về hơi thở* *được luyện tập* như thế nào, *được làm cho nhiều lên* như thế nào để *mang lại kết quả lớn*, *mang lại lợi ích lớn*?
@@ -185,7 +185,7 @@ Do đó, này các tỳ kheo, nếu tỳ kheo mong muốn: 'Tôi sẽ sống v�
 Do đó, này các tỳ kheo, nếu tỳ kheo mong muốn: 'Tôi sẽ sống với *nhận thức* không đáng ghê tởm đối với cả điều đáng ghê tởm và không đáng ghê tởm', thì vị ấy cần *suy nghĩ* kỹ lưỡng về chính *Định* qua *chú tâm về hơi thở* này.
 
 <!--pg-->
-### 54.9 Kinh Vesālī
+### 54.9 Kinh Vesālī {#9}
 *(Vesālīsutta)*
 
 Tôi đã nghe như vầy — một thời Thế Tôn trú ở Vesālī, tại Đại Lâm, trong Trùng Các Giảng Đường. Lúc bấy giờ, Thế Tôn dùng nhiều phương tiện thuyết giảng cho các tỳ kheo về sự không sạch sẽ, tán thán sự không sạch sẽ, tán thán việc *luyện tập* về sự không sạch sẽ.
@@ -223,7 +223,7 @@ Này các tỳ kheo, *Định* qua *chú tâm về hơi thở* *được luyện
 Kinh thứ chín.
 
 <!--pg-->
-### 54.10 Kinh Kimila
+### 54.10 Kinh Kimila {#10}
 *(Kimilasutta)*
 
 Tôi đã nghe như vầy — một thời Thế Tôn trú ở Kimilā, tại Trúc Lâm. Ở đó, Thế Tôn gọi Tôn giả Kimila: "Này Kimila, *Định* qua *chú tâm về hơi thở* *được luyện tập* như thế nào, *được làm cho nhiều lên* như thế nào để *mang lại kết quả lớn*, *mang lại lợi ích lớn*?"
@@ -270,7 +270,7 @@ Nếu một cỗ xe bò hay xe ngựa đi đến từ hướng đông, nó sẽ 
 Cũng vậy, này Ānanda, khi tỳ kheo sống *quan sát cơ thể qua cơ thể của mình*, vị ấy nghiền nát các *điều ác*, *điều không thiện*; khi sống *quan sát cảm giác qua cảm giác của mình* [...lặp lại...] *quan sát tâm qua tâm của mình* [...lặp lại...] khi sống *quan sát Điều dạy qua các Điều*, vị ấy nghiền nát các *điều ác*, *điều không thiện*."
 
 <!--pg-->
-### 54.11 Kinh Icchānaṅgala
+### 54.11 Kinh Icchānaṅgala {#11}
 *(Icchānaṅgalasutta)*
 
 Một thời Thế Tôn trú ở Icchānaṅgala, tại khu rừng Icchānaṅgala. Ở đó, Thế Tôn gọi các tỳ kheo: "Này các tỳ kheo, ta muốn sống ẩn cư trong ba tháng. Không ai được đến gần ta, ngoại trừ một người mang thức ăn khất thực đến."
@@ -298,7 +298,7 @@ Này các tỳ kheo, nếu ai nói một cách đúng đắn: 'Nơi ở của *b
 Kinh thứ nhất.
 
 <!--pg-->
-### 54.12 Kinh Kaṅkheyya
+### 54.12 Kinh Kaṅkheyya {#12}
 *(Kaṅkheyyasutta)*
 
 Một thời Tôn giả Lomasakaṅgiya trú ở xứ Sakka, tại Kapilavatthu, trong khu vườn Nigrodha. Rồi Thích tử Mahānāma đi đến Tôn giả Lomasakaṅgiya; sau khi đến, đảnh lễ Tôn giả Lomasakaṅgiya rồi ngồi xuống một bên. Ngồi một bên, Thích tử Mahānāma thưa với Tôn giả Lomasakaṅgiya: "Thưa Tôn giả, nơi ở của *người có học* có phải chính là nơi ở của *Người Đến Như Vậy*, hay nơi ở của *người có học* là khác, nơi ở của *Người Đến Như Vậy* là khác?"
@@ -339,7 +339,7 @@ Này các tỳ kheo, nếu ai nói một cách đúng đắn — 'Nơi ở của
 Này các tỳ kheo, đối với những tỳ kheo là *người có học*, chưa đạt được mục đích của tâm, đang mong cầu sự an ổn tuyệt đối khỏi các ách trói buộc, thì *Định* qua *chú tâm về hơi thở* khi *được luyện tập*, *được làm cho nhiều lên* sẽ dẫn đến sự *cạn kiệt* các *nguồn ác*.
 
 <!--pg-->
-### 54.13 Kinh Ānanda Thứ Nhất
+### 54.13 Kinh Ānanda Thứ Nhất {#13}
 *(Paṭhamaānandasutta)*
 
 Bối cảnh ở Sāvatthī.
@@ -391,7 +391,7 @@ Này Ānanda, trong lúc tỳ kheo *quan sát* sự *không bền vững* [...l�
 Này Ānanda, *Định* qua *chú tâm về hơi thở* *được luyện tập* như vậy, *được làm cho nhiều lên* như vậy sẽ làm viên mãn bốn *nơi thiết lập sự chú tâm*.
 
 <!--pg-->
-### 54.14 Kinh Ānanda Thứ Hai
+### 54.14 Kinh Ānanda Thứ Hai {#14}
 *(Dutiyaānandasutta)*
 
 Rồi Tôn giả Ānanda đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi Tôn giả Ānanda ngồi một bên, Thế Tôn nói điều này: "Này Ānanda, có *một Điều* nào *được luyện tập*, *được làm cho nhiều lên* sẽ làm viên mãn bốn *Điều*, bốn *Điều* *được luyện tập*, *được làm cho nhiều lên* sẽ làm viên mãn bảy *Điều*, bảy *Điều* *được luyện tập*, *được làm cho nhiều lên* sẽ làm viên mãn hai *Điều* không?"
@@ -409,7 +409,7 @@ Này Ānanda, bảy *Dấu hiệu Của Giác ngộ* *được luyện tập* nh
 Kinh thứ tư.
 
 <!--pg-->
-### 54.15 Kinh Tỳ Kheo Thứ Nhất
+### 54.15 Kinh Tỳ Kheo Thứ Nhất {#15}
 *(Paṭhamabhikkhusutta)*
 
 Rồi nhiều tỳ kheo đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, các tỳ kheo ấy thưa với Thế Tôn:
@@ -429,7 +429,7 @@ Này các tỳ kheo, bảy *Dấu hiệu Của Giác ngộ* *được luyện t�
 Kinh thứ năm.
 
 <!--pg-->
-### 54.16 Kinh Tỳ Kheo Thứ Hai
+### 54.16 Kinh Tỳ Kheo Thứ Hai {#16}
 *(Dutiyabhikkhusutta)*
 
 Rồi nhiều tỳ kheo đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Khi các tỳ kheo ấy ngồi một bên, Thế Tôn nói điều này:
@@ -477,7 +477,7 @@ Này các tỳ kheo, *Định* qua *chú tâm về hơi thở* *được luyện
 Và này các tỳ kheo, bốn *nơi thiết lập sự chú tâm* *được luyện tập* như thế nào, *được làm cho nhiều lên* như thế nào để làm viên mãn bảy *Dấu hiệu Của Giác ngộ*? Này các tỳ kheo, trong lúc tỳ kheo sống *quan sát cơ thể qua cơ thể của mình* — trong lúc đó *sự chú tâm* của tỳ kheo được thiết lập, không bị lãng quên. Này các tỳ kheo, trong lúc *sự chú tâm* của tỳ kheo được thiết lập, không bị lãng quên — trong lúc đó *dấu hiệu trí nhớ không quên* của tỳ kheo được khơi dậy, trong lúc đó tỳ kheo *luyện tập* *dấu hiệu trí nhớ không quên*, trong lúc đó *dấu hiệu trí nhớ không quên* của tỳ kheo đi đến sự *luyện tập* viên mãn.
 
 <!--pg-->
-### 54.17 Kinh Từ Bỏ Xiềng Xích
+### 54.17 Kinh Từ Bỏ Xiềng Xích {#17}
 *(Saṁyojanappahānasutta)*
 
 "Này các tỳ kheo, *Định* qua *chú tâm về hơi thở* *được luyện tập*, *được làm cho nhiều lên* sẽ dẫn đến sự *từ bỏ* các *xiềng xích* (kiết sử / saṁyojana) [...lặp lại...].
@@ -485,7 +485,7 @@ Và này các tỳ kheo, bốn *nơi thiết lập sự chú tâm* *được luy
 Kinh thứ bảy.
 
 <!--pg-->
-### 54.18 Kinh Nhổ Tận Gốc Khuynh Hướng Ngầm
+### 54.18 Kinh Nhổ Tận Gốc Khuynh Hướng Ngầm {#18}
 *(Anusayasamugghātasutta)*
 
 "... dẫn đến sự nhổ tận gốc các *khuynh hướng ngầm* (tùy miên / anusaya) ....
@@ -493,7 +493,7 @@ Kinh thứ bảy.
 Kinh thứ tám.
 
 <!--pg-->
-### 54.19 Kinh Hiểu Biết Trọn Vẹn Tiến Trình Thời Gian
+### 54.19 Kinh Hiểu Biết Trọn Vẹn Tiến Trình Thời Gian {#19}
 *(Addhānapariññāsutta)*
 
 "... dẫn đến sự *hiểu biết trọn vẹn* về *tiến trình thời gian* (thời gian / addhāna) ....
@@ -501,7 +501,7 @@ Kinh thứ tám.
 Kinh thứ chín.
 
 <!--pg-->
-### 54.20 Kinh Cạn Kiệt Nguồn Ác
+### 54.20 Kinh Cạn Kiệt Nguồn Ác {#20}
 *(Āsavakkhayasutta)*
 
 "... dẫn đến sự *cạn kiệt* các *nguồn ác*. dẫn đến sự *hiểu biết trọn vẹn* về *tiến trình thời gian* [...lặp lại...] dẫn đến sự *cạn kiệt* các *nguồn ác*."

@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 20.1
 
-### 20.1 Kūṭasutta
+### 20.1 Kūṭasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -14,7 +14,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. 
 
 Paṭhamaṁ.
 
-### 20.2 Nakhasikhasutta
+### 20.2 Nakhasikhasutta {#2}
 
 Sāvatthiyaṁ viharati.
 
@@ -28,7 +28,7 @@ Atha kho bhagavā parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā bhikkhū ām
 
 “Evameva kho, bhikkhave, appakā te sattā ye manussesu paccājāyanti; atha kho eteyeva bahutarā sattā ye aññatra manussehi paccājāyanti.
 
-### 20.3 Kulasutta
+### 20.3 Kulasutta {#3}
 
 Sāvatthiyaṁ viharati.
 
@@ -38,7 +38,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā
 
 Tatiyaṁ.
 
-### 20.4 Okkhāsutta
+### 20.4 Okkhāsutta {#4}
 
 Sāvatthiyaṁ viharati.
 
@@ -48,7 +48,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā
 
 Catutthaṁ.
 
-### 20.5 Sattisutta
+### 20.5 Sattisutta {#5}
 
 Sāvatthiyaṁ viharati.
 
@@ -64,7 +64,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā
 
 Pañcamaṁ.
 
-### 20.6 Dhanuggahasutta
+### 20.6 Dhanuggahasutta {#6}
 
 Sāvatthiyaṁ viharati.
 
@@ -80,7 +80,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. 
 
 Chaṭṭhaṁ.
 
-### 20.7 Āṇisutta
+### 20.7 Āṇisutta {#7}
 
 Sāvatthiyaṁ viharati.
 
@@ -94,7 +94,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘ye te suttantā tathāgatabhās
 
 Sattamaṁ.
 
-### 20.8 Kaliṅgarasutta
+### 20.8 Kaliṅgarasutta {#8}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -108,7 +108,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘kaliṅgarūpadhānā vihariss�
 
 Aṭṭhamaṁ.
 
-### 20.9 Nāgasutta
+### 20.9 Nāgasutta {#9}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññataro navo bhikkhu ativelaṁ kulāni upasaṅkamati.
 
@@ -132,7 +132,7 @@ Te tattha dhammaṁ bhāsanti. Tesaṁ gihī pasannākāraṁ karonti. Te taṁ 
 
 Tesaṁyeva kho pana, bhikkhave, therānaṁ bhikkhūnaṁ anusikkhamānā navā bhikkhū pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisanti. Te tattha dhammaṁ bhāsanti. Tesaṁ gihī pasannākāraṁ karonti. Te taṁ lābhaṁ gadhitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti.
 
-### 20.10 Biḷārasutta
+### 20.10 Biḷārasutta {#10}
 
 Sāvatthiyaṁ viharati.
 
@@ -156,7 +156,7 @@ Maraṇañhetaṁ, bhikkhave, ariyassa vinaye yo sikkhaṁ paccakkhāya hīnāy�
 
 Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘rakkhiteneva kāyena rakkhitāya vācāya rakkhitena cittena, upaṭṭhitāya satiyā, saṁvutehi indriyehi gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā’ti.
 
-### 20.11 Siṅgālasutta
+### 20.11 Siṅgālasutta {#11}
 
 Sāvatthiyaṁ viharati.
 
@@ -172,7 +172,7 @@ Ekādasamaṁ.
 
 “Eso kho, bhikkhave, jarasiṅgālo ukkaṇḍakena nāma rogajātena phuṭṭho. So yena yena icchati tena tena gacchati; yattha yattha icchati tattha tattha tiṭṭhati; yattha yattha icchati tattha tattha nisīdati; yattha yattha icchati tattha tattha nipajjati; sītakopi naṁ vāto upavāyati.
 
-### 20.12 Dutiyasiṅgālasutta
+### 20.12 Dutiyasiṅgālasutta {#12}
 
 Sāvatthiyaṁ viharati.
 

@@ -5,7 +5,7 @@ from util import flat_json
 # ==========================================
 # CẤU HÌNH ĐẦU VÀO
 # ==========================================
-SOURCE_DIR = "../../docs/kinhtieubo/thichminhchau"  # Thư mục chứa file markdown (đổi lại nếu cần)
+SOURCE_DIR = "../../docs/kinhtuongung/pali-vi"  # Thư mục chứa file markdown (đổi lại nếu cần)
 
 # Bạn nhập danh sách file vào đây:
 # - Cách 1: Chỉ cần tên file (sẽ tự động suy ra key từ số đầu tên file)
@@ -13,22 +13,8 @@ SOURCE_DIR = "../../docs/kinhtieubo/thichminhchau"  # Thư mục chứa file mar
 
 
 FILES = [
-    "kn-054-tap-9-pham-1-tap-mot-ke.md",
-"kn-055-tap-9-pham-2-tap-hai-ke.md",
-"kn-056-tap-9-pham-3-tap-ba-ke.md",
-"kn-057-tap-9-pham-4-tap-bon-ke.md",
-"kn-058-tap-9-pham-5-tap-nam-ke.md",
-"kn-059-tap-9-pham-6-tap-sau-ke.md",
-"kn-060-tap-9-pham-7-tap-bay-ke.md",
-"kn-061-tap-9-pham-8-tap-tam-ke.md",
-"kn-062-tap-9-pham-9-tap-chin-ke.md",
-"kn-063-tap-9-pham-10-tap-muoi-ke.md",
-"kn-064-tap-9-pham-11-tap-muoi-hai-ke.md",
-"kn-065-tap-9-pham-12-tap-muoi-sau-ke.md",
-"kn-066-tap-9-pham-13-tap-hai-muoi-ke.md",
-"kn-067-tap-9-pham-14-tap-ba-muoi-ke.md",
-"kn-068-tap-9-pham-15-tap-bon-muoi-ke.md",
-"kn-069-tap-9-pham-16-dai-pham.md",
+"sn-001-devatasamyutta.md",
+
 
 ]
 
@@ -54,11 +40,11 @@ HEADING_ANCHOR_RE = re.compile(
 
 # Tự động bắt số đầu tiên trong tên file làm key (vd: snc-01-... -> 1)
 TOP_INDEX_RE = re.compile(r'^[a-z]+-0*(\d+)', re.IGNORECASE)
-CHUONG_RE = re.compile(r'kn-*(\d+)', re.IGNORECASE)
+CHUONG_RE = re.compile(r'sn-*(\d+)', re.IGNORECASE)
 
 def extract_key_from_filename(filename):
     m = CHUONG_RE.search(filename.lower())
-    return str(int(m.group(1))-53) if m else None
+    return str(int(m.group(1))) if m else None
 
 
 def process_files(source_dir, file_list):

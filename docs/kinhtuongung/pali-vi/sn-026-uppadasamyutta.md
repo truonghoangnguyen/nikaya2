@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 26.1
 
-### 26.1 Cakkhusutta
+### 26.1 Cakkhusutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -12,7 +12,7 @@ Paṭhamaṁ.
 
 “Yo kho, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo sotassa uppādo ṭhiti …pe… yo ghānassa uppādo ṭhiti … yo jivhāya uppādo ṭhiti … yo kāyassa uppādo ṭhiti … yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo sotassa nirodho …pe…
 
-### 26.2 Rūpasutta
+### 26.2 Rūpasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -22,7 +22,7 @@ Dutiyaṁ.
 
 “Yo kho, bhikkhave, rūpānaṁ uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo saddānaṁ … yo gandhānaṁ … yo rasānaṁ … yo phoṭṭhabbānaṁ … yo dhammānaṁ uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, rūpānaṁ nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo saddānaṁ …
 
-### 26.3 Viññāṇasutta
+### 26.3 Viññāṇasutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -30,7 +30,7 @@ Tatiyaṁ.
 
 “Yo kho, bhikkhave, cakkhuviññāṇassa uppādo ṭhiti …pe… jarāmaraṇassa pātubhāvo …pe… yo manoviññāṇassa uppādo ṭhiti …pe… jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, cakkhuviññāṇassa nirodho …pe… jarāmaraṇassa atthaṅgamo …pe… yo manoviññāṇassa nirodho …pe… jarāmaraṇassa atthaṅgamo”ti.
 
-### 26.4 Samphassasutta
+### 26.4 Samphassasutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -38,7 +38,7 @@ Catutthaṁ.
 
 “Yo kho, bhikkhave, cakkhusamphassassa uppādo ṭhiti …pe… jarāmaraṇassa pātubhāvo …pe… yo manosamphassassa uppādo ṭhiti …pe… jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, cakkhusamphassassa nirodho …pe… jarāmaraṇassa atthaṅgamo …pe… yo manosamphassassa nirodho …pe… jarāmaraṇassa atthaṅgamo”ti.
 
-### 26.5 Samphassajasutta
+### 26.5 Samphassajasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -48,7 +48,7 @@ Yo manosamphassajāya vedanāya uppādo ṭhiti …pe… jarāmaraṇassa pātub
 
 Pañcamaṁ.
 
-### 26.6 Saññāsutta
+### 26.6 Saññāsutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -56,7 +56,7 @@ Sāvatthinidānaṁ.
 
 Chaṭṭhaṁ.
 
-### 26.7 Sañcetanāsutta
+### 26.7 Sañcetanāsutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -64,7 +64,7 @@ Sāvatthinidānaṁ.
 
 Sattamaṁ.
 
-### 26.8 Taṇhāsutta
+### 26.8 Taṇhāsutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -72,7 +72,7 @@ Sāvatthinidānaṁ.
 
 Aṭṭhamaṁ.
 
-### 26.9 Dhātusutta
+### 26.9 Dhātusutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -82,7 +82,7 @@ Navamaṁ.
 
 “Yo kho, bhikkhave, pathavīdhātuyā uppādo ṭhiti abhinibbatti pātubhāvo …pe… jarāmaraṇassa pātubhāvo; yo āpodhātuyā … yo tejodhātuyā … yo vāyodhātuyā … yo ākāsadhātuyā … yo viññāṇadhātuyā uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, pathavīdhātuyā nirodho …pe… jarāmaraṇassa atthaṅgamo; yo āpodhātuyā nirodho …
 
-### 26.10 Khandhasutta
+### 26.10 Khandhasutta {#10}
 
 Sāvatthinidānaṁ.
 

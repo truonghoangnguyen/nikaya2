@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 14.1
 
-### 14.1 Dhātunānattasutta
+### 14.1 Dhātunānattasutta {#1}
 
 Sāvatthiyaṁ viharati.
 
@@ -14,7 +14,7 @@ Sāvatthiyaṁ viharati.
 
 Paṭhamaṁ.
 
-### 14.2 Phassanānattasutta
+### 14.2 Phassanānattasutta {#2}
 
 Sāvatthiyaṁ viharati.
 
@@ -24,7 +24,7 @@ Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ? C
 
 Dutiyaṁ.
 
-### 14.3 Nophassanānattasutta
+### 14.3 Nophassanānattasutta {#3}
 
 Sāvatthiyaṁ viharati.
 
@@ -34,7 +34,7 @@ Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, n
 
 Tatiyaṁ.
 
-### 14.4 Vedanānānattasutta
+### 14.4 Vedanānānattasutta {#4}
 
 Sāvatthiyaṁ viharati.
 
@@ -44,7 +44,7 @@ Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, p
 
 Catutthaṁ.
 
-### 14.5 Dutiyavedanānānattasutta
+### 14.5 Dutiyavedanānānattasutta {#5}
 
 Sāvatthiyaṁ viharati.
 
@@ -54,7 +54,7 @@ Kathañca, bhikkhave, dhātunānattaṁ paṭicca uppajjati phassanānattaṁ, p
 
 Pañcamaṁ.
 
-### 14.6 Bāhiradhātunānattasutta
+### 14.6 Bāhiradhātunānattasutta {#6}
 
 Sāvatthiyaṁ viharati.
 
@@ -62,7 +62,7 @@ Sāvatthiyaṁ viharati.
 
 Chaṭṭhaṁ.
 
-### 14.7 Saññānānattasutta
+### 14.7 Saññānānattasutta {#7}
 
 Sāvatthiyaṁ viharati.
 
@@ -76,7 +76,7 @@ Evaṁ, kho, bhikkhave, dhātunānattaṁ paṭicca uppajjati saññānānatta�
 
 Sattamaṁ.
 
-### 14.8 Nopariyesanānānattasutta
+### 14.8 Nopariyesanānānattasutta {#8}
 
 Sāvatthiyaṁ viharati.
 
@@ -90,7 +90,7 @@ Evaṁ kho, bhikkhave, dhātunānattaṁ paṭicca uppajjati saññānānattaṁ
 
 Aṭṭhamaṁ.
 
-### 14.9 Bāhiraphassanānattasutta
+### 14.9 Bāhiraphassanānattasutta {#9}
 
 Sāvatthiyaṁ viharati.
 
@@ -104,7 +104,7 @@ Evaṁ kho, bhikkhave, dhātunānattaṁ paṭicca uppajjati saññānānattaṁ
 
 Navamaṁ.
 
-### 14.10 Dutiyabāhiraphassanānattasutta
+### 14.10 Dutiyabāhiraphassanānattasutta {#10}
 
 Sāvatthiyaṁ viharati.
 
@@ -124,7 +124,7 @@ Tassuddānaṁ
 
 > Dhātuphassañca no cetaṁ, vedanā apare duve; Etaṁ ajjhattapañcakaṁ, dhātusaññañca no cetaṁ; Phassassa apare duve, etaṁ bāhirapañcakanti.
 
-### 14.11 Sattadhātusutta
+### 14.11 Sattadhātusutta {#11}
 
 Sāvatthiyaṁ viharati.
 
@@ -140,7 +140,7 @@ Evaṁ vutte, aññataro bhikkhu bhagavantaṁ etadavoca: “yā cāyaṁ, bhant
 
 Paṭhamaṁ.
 
-### 14.12 Sanidānasutta
+### 14.12 Sanidānasutta {#12}
 
 Sāvatthiyaṁ viharati.
 
@@ -170,7 +170,7 @@ Abyāpādadhātuṁ, bhikkhave, paṭicca uppajjati abyāpādasaññā, abyāpā
 
 Avihiṁsādhātuṁ, bhikkhave, paṭicca uppajjati avihiṁsāsaññā, avihiṁsāsaññaṁ paṭicca uppajjati avihiṁsāsaṅkappo, avihiṁsāsaṅkappaṁ paṭicca uppajjati avihiṁsāchando, avihiṁsāchandaṁ paṭicca uppajjati avihiṁsāpariḷāho, avihiṁsāpariḷāhaṁ paṭicca uppajjati avihiṁsāpariyesanā; avihiṁsāpariyesanaṁ, bhikkhave, pariyesamāno sutavā ariyasāvako tīhi ṭhānehi sammā paṭipajjati—kāyena, vācāya, manasā.
 
-### 14.13 Giñjakāvasathasutta
+### 14.13 Giñjakāvasathasutta {#13}
 
 Ekaṁ samayaṁ bhagavā ñātike viharati giñjakāvasathe. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -188,7 +188,7 @@ Paṇītaṁ, kaccāna, dhātuṁ paṭicca uppajjati paṇītā saññā, paṇ
 
 Tatiyaṁ.
 
-### 14.14 Hīnādhimuttikasutta
+### 14.14 Hīnādhimuttikasutta {#14}
 
 Sāvatthiyaṁ viharati.
 
@@ -202,7 +202,7 @@ Etarahipi kho, bhikkhave, paccuppannaṁ addhānaṁ dhātusova sattā saṁsand
 
 Catutthaṁ.
 
-### 14.15 Caṅkamasutta
+### 14.15 Caṅkamasutta {#15}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate. Tena kho pana samayena āyasmā sāriputto sambahulehi bhikkhūhi saddhiṁ bhagavato avidūre caṅkamati; āyasmāpi kho mahāmoggallāno sambahulehi bhikkhūhi saddhiṁ bhagavato avidūre caṅkamati; āyasmāpi kho mahākassapo sambahulehi bhikkhūhi saddhiṁ bhagavato avidūre caṅkamati; āyasmāpi kho anuruddho sambahulehi bhikkhūhi saddhiṁ bhagavato avidūre caṅkamati; āyasmāpi kho puṇṇo mantāniputto sambahulehi bhikkhūhi saddhiṁ bhagavato avidūre caṅkamati; āyasmāpi kho upāli sambahulehi bhikkhūhi saddhiṁ bhagavato avidūre caṅkamati; āyasmāpi kho ānando sambahulehi bhikkhūhi saddhiṁ bhagavato avidūre caṅkamati; devadattopi kho sambahulehi bhikkhūhi saddhiṁ bhagavato avidūre caṅkamati.
 
@@ -246,7 +246,7 @@ Atītampi kho, bhikkhave, addhānaṁ dhātusova sattā saṁsandiṁsu samiṁs
 
 Pañcamaṁ.
 
-### 14.16 Sagāthāsutta
+### 14.16 Sagāthāsutta {#16}
 
 Sāvatthiyaṁ viharati.
 
@@ -274,7 +274,7 @@ telaṁ telena saṁsandati sameti; sappi sappinā saṁsandati sameti; madhu ma
 
 > “Saṁsaggā vanatho jāto, asaṁsaggena chijjati; Parittaṁ dārumāruyha, yathā sīde mahaṇṇave.
 
-### 14.17 Assaddhasaṁsandanasutta
+### 14.17 Assaddhasaṁsandanasutta {#17}
 
 Sāvatthiyaṁ viharati.
 
@@ -292,7 +292,7 @@ Sattamaṁ.
 
 Saddhā saddhehi saddhiṁ saṁsandanti samenti; hirimanā hirimanehi saddhiṁ saṁsandanti samenti; ottappino ottappīhi saddhiṁ saṁsandanti samenti; bahussutā bahussutehi saddhiṁ saṁsandanti samenti; āraddhavīriyā āraddhavīriyehi saddhiṁ saṁsandanti samenti; upaṭṭhitassatino upaṭṭhitassatīhi saddhiṁ saṁsandanti samenti; paññavanto paññavantehi saddhiṁ saṁsandanti samenti. Atītampi kho, bhikkhave, addhānaṁ …pe…
 
-### 14.18 Assaddhamūlakasutta
+### 14.18 Assaddhamūlakasutta {#18}
 
 Sāvatthiyaṁ viharati.
 
@@ -312,7 +312,7 @@ Dhātusova, bhikkhave …pe… assaddhā assaddhehi saddhiṁ saṁsandanti same
 
 Aṭṭhamaṁ.
 
-### 14.19 Ahirikamūlakasutta
+### 14.19 Ahirikamūlakasutta {#19}
 
 Sāvatthiyaṁ viharati.
 
@@ -326,7 +326,7 @@ Ahirikā ahirikehi saddhiṁ saṁsandanti samenti, muṭṭhassatino muṭṭha
 
 Navamaṁ.
 
-### 14.20 Anottappamūlakasutta
+### 14.20 Anottappamūlakasutta {#20}
 
 Sāvatthiyaṁ viharati.
 
@@ -338,7 +338,7 @@ Anottappino anottappīhi saddhiṁ saṁsandanti samenti; muṭṭhassatino mu�
 
 Dasamaṁ.
 
-### 14.21 Appassutamūlakasutta
+### 14.21 Appassutamūlakasutta {#21}
 
 Sāvatthiyaṁ viharati.
 
@@ -348,7 +348,7 @@ Appassutā appassutehi saddhiṁ saṁsandanti samenti; muṭṭhassatino muṭ�
 
 Ekādasamaṁ.
 
-### 14.22 Kusītamūlakasutta
+### 14.22 Kusītamūlakasutta {#22}
 
 Sāvatthiyaṁ viharati.
 
@@ -368,7 +368,7 @@ Tassuddānaṁ
 
 > Kusītaṁ ekakaṁ vuttaṁ, Suttantā tīṇi pañcakā; Bāvīsati vuttā suttā, Dutiyo vaggo pavuccatīti.
 
-### 14.23 Asamāhitasutta
+### 14.23 Asamāhitasutta {#23}
 
 Sāvatthiyaṁ viharati.
 
@@ -378,7 +378,7 @@ Saddhā saddhehi saddhiṁ saṁsandanti samenti; hirimanā hirimanehi saddhiṁ
 
 Paṭhamaṁ.
 
-### 14.24 Dussīlasutta
+### 14.24 Dussīlasutta {#24}
 
 Sāvatthiyaṁ viharati.
 
@@ -388,7 +388,7 @@ Saddhā saddhehi saddhiṁ saṁsandanti samenti; hirimanā hirimanehi saddhiṁ
 
 Dutiyaṁ.
 
-### 14.25 Pañcasikkhāpadasutta
+### 14.25 Pañcasikkhāpadasutta {#25}
 
 Sāvatthiyaṁ viharati.
 
@@ -398,7 +398,7 @@ Pāṇātipātā paṭiviratā pāṇātipātā paṭiviratehi saddhiṁ saṁsa
 
 Tatiyaṁ.
 
-### 14.26 Sattakammapathasutta
+### 14.26 Sattakammapathasutta {#26}
 
 Sāvatthiyaṁ viharati.
 
@@ -408,7 +408,7 @@ Pāṇātipātā paṭiviratā …pe… adinnādānā paṭiviratā … kāmesum
 
 Catutthaṁ.
 
-### 14.27 Dasakammapathasutta
+### 14.27 Dasakammapathasutta {#27}
 
 Sāvatthiyaṁ viharati.
 
@@ -420,7 +420,7 @@ Pañcamaṁ.
 
 adinnādānā paṭiviratā …pe… kāmesumicchācārā paṭiviratā … musāvādā paṭiviratā … pisuṇāya vācāya … pharusāya vācāya … samphappalāpā paṭiviratā samphappalāpā paṭiviratehi saddhiṁ saṁsandanti samenti; anabhijjhāluno anabhijjhālūhi saddhiṁ saṁsandanti samenti; abyāpannacittā abyāpannacittehi saddhiṁ saṁsandanti samenti;
 
-### 14.28 Aṭṭhaṅgikasutta
+### 14.28 Aṭṭhaṅgikasutta {#28}
 
 Sāvatthiyaṁ viharati.
 
@@ -430,7 +430,7 @@ micchāsamādhino micchāsamādhīhi saddhiṁ saṁsandanti samenti.
 
 Chaṭṭhaṁ.
 
-### 14.29 Dasaṅgasutta
+### 14.29 Dasaṅgasutta {#29}
 
 Sāvatthiyaṁ viharati.
 
@@ -448,13 +448,13 @@ sammāsaṅkappā …pe… sammāvācā … sammākammantā … sammāājīvā �
 
 Kammapathavaggo tatiyo.
 
-### 14.30 Catudhātusutta
+### 14.30 Catudhātusutta {#30}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme … “catasso imā, bhikkhave, dhātuyo. Katamā catasso? Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu—imā kho, bhikkhave, catasso dhātuyo”ti.
 
 Paṭhamaṁ.
 
-### 14.31 Pubbesambodhasutta
+### 14.31 Pubbesambodhasutta {#31}
 
 Sāvatthiyaṁ viharati.
 
@@ -470,7 +470,7 @@ Yato ca khvāhaṁ, bhikkhave, imāsaṁ catunnaṁ dhātūnaṁ evaṁ assāda�
 
 Dutiyaṁ.
 
-### 14.32 Acariṁsutta
+### 14.32 Acariṁsutta {#32}
 
 Sāvatthiyaṁ viharati.
 
@@ -486,7 +486,7 @@ Yato ca khvāhaṁ, bhikkhave, imāsaṁ catunnaṁ dhātūnaṁ assādañca ass
 
 Tatiyaṁ.
 
-### 14.33 Nocedaṁsutta
+### 14.33 Nocedaṁsutta {#33}
 
 Sāvatthiyaṁ viharati.
 
@@ -500,7 +500,7 @@ Yato ca kho, bhikkhave, sattā imāsaṁ catunnaṁ dhātūnaṁ assādañca ass
 
 Catutthaṁ.
 
-### 14.34 Ekantadukkhasutta
+### 14.34 Ekantadukkhasutta {#34}
 
 Sāvatthiyaṁ viharati.
 
@@ -514,7 +514,7 @@ Pathavīdhātu ce hidaṁ, bhikkhave, ekantasukhā abhavissa sukhānupatitā suk
 
 Pañcamaṁ.
 
-### 14.35 Abhinandasutta
+### 14.35 Abhinandasutta {#35}
 
 Sāvatthiyaṁ viharati.
 
@@ -524,7 +524,7 @@ Yo ca kho, bhikkhave, pathavīdhātuṁ nābhinandati, dukkhaṁ so nābhinandat
 
 Chaṭṭhaṁ.
 
-### 14.36 Uppādasutta
+### 14.36 Uppādasutta {#36}
 
 Sāvatthiyaṁ viharati.
 
@@ -534,7 +534,7 @@ Yo ca kho, bhikkhave, pathavīdhātuyā nirodho vūpasamo atthaṅgamo, dukkhass
 
 Sattamaṁ.
 
-### 14.37 Samaṇabrāhmaṇasutta
+### 14.37 Samaṇabrāhmaṇasutta {#37}
 
 Sāvatthiyaṁ viharati.
 
@@ -544,7 +544,7 @@ Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imāsaṁ catunnaṁ d
 
 Aṭṭhamaṁ.
 
-### 14.38 Dutiyasamaṇabrāhmaṇasutta
+### 14.38 Dutiyasamaṇabrāhmaṇasutta {#38}
 
 Sāvatthiyaṁ viharati.
 
@@ -558,7 +558,7 @@ sayaṁ abhiññā sacchikatvā upasampajja viharantī”ti.
 
 Navamaṁ.
 
-### 14.39 Tatiyasamaṇabrāhmaṇasutta
+### 14.39 Tatiyasamaṇabrāhmaṇasutta {#39}
 
 Sāvatthiyaṁ viharati.
 

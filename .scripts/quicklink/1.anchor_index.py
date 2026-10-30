@@ -36,6 +36,21 @@ RULES = [
         "anchor": lambda m: m.group(2).rstrip("."),
     },
     # --------------------------------------------------------
+    # Case: SN pali
+    # ### 1.3 Upanīyasutta
+    # -> {#3}
+    #
+    # Lấy segment số cuối cùng làm anchor
+    # (khác rule 2 ở chỗ: KHÔNG có dấu chấm ở cuối)
+    # --------------------------------------------------------
+    {
+        "regex": re.compile(
+            r"^(#{2,})\s+(\d+(?:\.\d+)+)\s+(.+?)[ \t]*$",
+            re.MULTILINE
+        ),
+        "anchor": lambda m: m.group(2).split(".")[-1],
+    },
+    # --------------------------------------------------------
     # Case:
     # ### AN 10.189 Con Đường Thiện Lành Ariyamaggasutta
     # ### AN 1.11--20 Nīvaraṇappahānavagga
@@ -149,18 +164,61 @@ def process_file(filename):
 # ============================================================
 
 files = [
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-1-kammakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-2-parivasikakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-3-samuccayakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-4-samathakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-5-khuddakavatthukkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-6-senasanakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-7-sanghabhedakakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-8-vattakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-9-patimokkhatthapanakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-10-bhikkhunikkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-11-pancasatikakkhandhaka.md",
-"/Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-12-sattasatikakkhandhaka.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-002-devaputtasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-003-kosalasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-004-marasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-005-bhikkhunisamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-006-brahmasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-007-brahmanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-008-vangisasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-009-vanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-010-yakkhasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-011-sakkasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-012-nidanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-013-abhisamayasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-014-dhatusamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-015-anamataggasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-016-kassapasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-017-labhasakkarasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-018-rahulasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-019-lakkhanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-020-opammasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-021-bhikkhusamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-022-khandhasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-023-radhasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-024-ditthisamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-025-okkantasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-026-uppadasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-027-kilesasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-028-sariputtasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-029-nagasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-030-supannasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-031-gandhabbakayasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-032-valahakasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-033-vacchagottasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-034-jhanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-035-salayatanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-036-vedanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-037-matugamasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-038-jambukhadakasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-039-samandakasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-040-moggallanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-041-cittasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-042-gamanisamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-043-asankhatasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-044-abyakatasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-045-maggasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-046-bojjhangasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-047-satipatthanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-048-indriyasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-049-sammappadhanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-050-balasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-051-iddhipadasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-052-anuruddhasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-053-jhanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-054-anapanasamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-055-sotapattisamyutta.md",
+"/Users/ng/projects/nikaya2/docs/kinhtuongung/pali-vi/sn-056-saccasamyutta.md",
 ]
 
 for file in files:
