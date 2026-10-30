@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 21.1
 
-### 21.1 Kolitasutta
+### 21.1 Kolitasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi: “āvuso bhikkhave”ti.
 
@@ -26,7 +26,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārā anuggahito sāvako
 
 Paṭhamaṁ.
 
-### 21.2 Upatissasutta
+### 21.2 Upatissasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -44,7 +44,7 @@ Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramān�
 
 Dutiyaṁ.
 
-### 21.3 Ghaṭasutta
+### 21.3 Ghaṭasutta {#3}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -80,7 +80,7 @@ Itiha te ubho mahānāgā aññamaññassa subhāsitaṁ sulapitaṁ samanumodi�
 
 Tatiyaṁ.
 
-### 21.4 Navasutta
+### 21.4 Navasutta {#4}
 
 Sāvatthiyaṁ viharati.
 
@@ -106,7 +106,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 Catutthaṁ.
 
-### 21.5 Sujātasutta
+### 21.5 Sujātasutta {#5}
 
 Sāvatthiyaṁ viharati.
 
@@ -120,7 +120,7 @@ Idamavoca bhagavā …pe… satthā:
 
 Pañcamaṁ.
 
-### 21.6 Lakuṇḍakabhaddiyasutta
+### 21.6 Lakuṇḍakabhaddiyasutta {#6}
 
 Sāvatthiyaṁ viharati.
 
@@ -140,7 +140,7 @@ Addasā kho bhagavā āyasmantaṁ lakuṇḍakabhaddiyaṁ dūratova āgacchant
 
 Chaṭṭhaṁ.
 
-### 21.7 Visākhasutta
+### 21.7 Visākhasutta {#7}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
@@ -162,7 +162,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 Sattamaṁ.
 
-### 21.8 Nandasutta
+### 21.8 Nandasutta {#8}
 
 Sāvatthiyaṁ viharati.
 
@@ -178,7 +178,7 @@ Atha kho āyasmā nando aparena samayena āraññiko ca piṇḍapātiko ca pa�
 
 Aṭṭhamaṁ.
 
-### 21.9 Tissasutta
+### 21.9 Tissasutta {#9}
 
 Sāvatthiyaṁ viharati.
 
@@ -196,7 +196,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 Navamaṁ.
 
-### 21.10 Theranāmakasutta
+### 21.10 Theranāmakasutta {#10}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -230,7 +230,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 Dasamaṁ.
 
-### 21.11 Mahākappinasutta
+### 21.11 Mahākappinasutta {#11}
 
 Sāvatthiyaṁ viharati.
 
@@ -250,7 +250,7 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 Ekādasamaṁ.
 
-### 21.12 Sahāyakasutta
+### 21.12 Sahāyakasutta {#12}
 
 Sāvatthiyaṁ viharati.
 

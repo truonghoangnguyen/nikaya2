@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 9.1
 
-### 9.1 Vivekasutta
+### 9.1 Vivekasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -16,7 +16,7 @@ Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitak
 
 Atha kho so bhikkhu tāya devatāya saṁvejito saṁvegamāpādīti.
 
-### 9.2 Upaṭṭhānasutta
+### 9.2 Upaṭṭhānasutta {#2}
 
 Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -34,7 +34,7 @@ Tena kho pana samayena so bhikkhu divāvihāragato supati. Atha kho yā tasmiṁ
 
 > Āraddhavīriyaṁ pahitattaṁ, Niccaṁ daḷhaparakkamaṁ; Nibbānaṁ abhikaṅkhantaṁ, Kasmā pabbajitaṁ tape”ti.
 
-### 9.3 Kassapagottasutta
+### 9.3 Kassapagottasutta {#3}
 
 Ekaṁ samayaṁ āyasmā kassapagotto kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -48,7 +48,7 @@ Tena kho pana samayena āyasmā kassapagotto divāvihāragato aññataraṁ chet
 
 Atha kho āyasmā kassapagotto tāya devatāya saṁvejito saṁvegamāpādīti.
 
-### 9.4 Sambahulasutta
+### 9.4 Sambahulasutta {#4}
 
 Ekaṁ samayaṁ sambahulā bhikkhū kosalesu viharanti aññatarasmiṁ vanasaṇḍe.
 
@@ -60,7 +60,7 @@ Evaṁ vutte, aññatarā devatā taṁ devataṁ gāthāya paccabhāsi:
 
 > “Māgadhaṁ gatā kosalaṁ gatā, Ekacciyā pana vajjibhūmiyā; Magā viya asaṅgacārino, Aniketā viharanti bhikkhavo”ti.
 
-### 9.5 Ānandasutta
+### 9.5 Ānandasutta {#5}
 
 Ekaṁ samayaṁ āyasmā ānando kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -70,7 +70,7 @@ Tena kho pana samayena āyasmā ānando ativelaṁ gihisaññattibahulo viharati
 
 Atha kho āyasmā ānando tāya devatāya saṁvejito saṁvegamāpādīti.
 
-### 9.6 Anuruddhasutta
+### 9.6 Anuruddhasutta {#6}
 
 Ekaṁ samayaṁ āyasmā anuruddho kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -86,7 +86,7 @@ Atha kho aññatarā tāvatiṁsakāyikā devatā jālinī nāma āyasmato anuru
 
 > Natthi dāni punāvāso, devakāyasmi jālini; Vikkhīṇo jātisaṁsāro, natthi dāni punabbhavo”ti.
 
-### 9.7 Nāgadattasutta
+### 9.7 Nāgadattasutta {#7}
 
 Ekaṁ samayaṁ āyasmā nāgadatto kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -98,7 +98,7 @@ Tena kho pana samayena āyasmā nāgadatto atikālena gāmaṁ pavisati, atidiv�
 
 Atha kho āyasmā nāgadatto tāya devatāya saṁvejito saṁvegamāpādīti.
 
-### 9.8 Kulagharaṇīsutta
+### 9.8 Kulagharaṇīsutta {#8}
 
 Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -110,7 +110,7 @@ Tena kho pana samayena so bhikkhu aññatarasmiṁ kule ativelaṁ ajjhogāḷha
 
 > Yo ca saddaparittāsī, vane vātamigo yathā; Lahucittoti taṁ āhu, nāssa sampajjate vatan”ti.
 
-### 9.9 Vajjiputtasutta
+### 9.9 Vajjiputtasutta {#9}
 
 Ekaṁ samayaṁ aññataro vajjiputtako bhikkhu vesāliyaṁ viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -124,7 +124,7 @@ Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tassa bhikkhuno anukampi
 
 Atha kho so bhikkhu tāya devatāya saṁvejito saṁvegamāpādīti.
 
-### 9.10 Sajjhāyasutta
+### 9.10 Sajjhāyasutta {#10}
 
 Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -134,7 +134,7 @@ Tena kho pana samayena so bhikkhu yaṁ sudaṁ pubbe ativelaṁ sajjhāyabahulo
 
 > “Ahu pure dhammapadesu chando, Yāva virāgena samāgamimha; Yato virāgena samāgamimha, Yaṁ kiñci diṭṭhaṁva sutaṁ mutaṁ vā; Aññāya nikkhepanamāhu santo”ti.
 
-### 9.11 Akusalavitakkasutta
+### 9.11 Akusalavitakkasutta {#11}
 
 Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -146,7 +146,7 @@ Tena kho pana samayena so bhikkhu divāvihāragato pāpake akusale vitakke vitak
 
 Atha kho so bhikkhu tāya devatāya saṁvejito saṁvegamāpādīti.
 
-### 9.12 Majjhanhikasutta
+### 9.12 Majjhanhikasutta {#12}
 
 Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe. Atha kho tasmiṁ vanasaṇḍe adhivatthā devatā yena so bhikkhu tenupasaṅkami; upasaṅkamitvā tassa bhikkhuno santike imaṁ gāthaṁ abhāsi:
 
@@ -154,7 +154,7 @@ Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇ
 
 > Ṭhite majjhanhike kāle, sannisīvesu pakkhisu; Saṇateva brahāraññaṁ, sā rati paṭibhāti man”ti.
 
-### 9.13 Pākatindriyasutta
+### 9.13 Pākatindriyasutta {#13}
 
 Ekaṁ samayaṁ sambahulā bhikkhū kosalesu viharanti aññatarasmiṁ vanasaṇḍe uddhatā unnaḷā capalā mukharā vikiṇṇavācā muṭṭhassatino asampajānā asamāhitā vibbhantacittā pākatindriyā.
 
@@ -170,7 +170,7 @@ Atha kho yā tasmiṁ vanasaṇḍe adhivatthā devatā tesaṁ bhikkhūnaṁ an
 
 Atha kho te bhikkhū tāya devatāya saṁvejitā saṁvegamāpādunti.
 
-### 9.14 Gandhatthenasutta
+### 9.14 Gandhatthenasutta {#14}
 
 Ekaṁ samayaṁ aññataro bhikkhu kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 

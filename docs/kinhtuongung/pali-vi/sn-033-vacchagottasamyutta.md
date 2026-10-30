@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 33.1
 
-### 33.1 Rūpaaññāṇasutta
+### 33.1 Rūpaaññāṇasutta {#1}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
@@ -14,7 +14,7 @@ Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitv�
 
 “Rūpe kho, vaccha, aññāṇā, rūpasamudaye aññāṇā, rūpanirodhe aññāṇā, rūpanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
-### 33.2 Vedanāaññāṇasutta
+### 33.2 Vedanāaññāṇasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -28,7 +28,7 @@ Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
 “Vedanāya kho, vaccha, aññāṇā, vedanāsamudaye aññāṇā, vedanānirodhe aññāṇā, vedanānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
-### 33.3 Saññāaññāṇasutta
+### 33.3 Saññāaññāṇasutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -42,7 +42,7 @@ Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
 “Saññāya kho, vaccha, aññāṇā, saññāsamudaye aññāṇā, saññānirodhe aññāṇā, saññānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
-### 33.4 Saṅkhāraaññāṇasutta
+### 33.4 Saṅkhāraaññāṇasutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -56,7 +56,7 @@ Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
 “Saṅkhāresu kho, vaccha, aññāṇā, saṅkhārasamudaye aññāṇā, saṅkhāranirodhe aññāṇā, saṅkhāranirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
 
-### 33.5 Viññāṇaaññāṇasutta
+### 33.5 Viññāṇaaññāṇasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -176,7 +176,7 @@ Sāvatthinidānaṁ. “Saṅkhāresu kho, vaccha, appaccakkhakammā …pe… sa
 
 Catupaññāsamaṁ.
 
-### 33.55 Viññāṇaappaccakkhakammasutta
+### 33.55 Viññāṇaappaccakkhakammasutta {#55}
 
 Sāvatthinidānaṁ.
 

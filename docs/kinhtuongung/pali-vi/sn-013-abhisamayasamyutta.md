@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 13.1
 
-### 13.1 Nakhasikhāsutta
+### 13.1 Nakhasikhāsutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -14,7 +14,7 @@ Atha kho bhagavā parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā bhikkhū ām
 
 Paṭhamaṁ.
 
-### 13.2 Pokkharaṇīsutta
+### 13.2 Pokkharaṇīsutta {#2}
 
 Sāvatthiyaṁ viharati.
 
@@ -28,7 +28,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā kusag
 
 Dutiyaṁ.
 
-### 13.3 Sambhejjaudakasutta
+### 13.3 Sambhejjaudakasutta {#3}
 
 Sāvatthiyaṁ viharati.
 
@@ -42,7 +42,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yāni vā dve v
 
 Tatiyaṁ.
 
-### 13.4 Dutiyasambhejjaudakasutta
+### 13.4 Dutiyasambhejjaudakasutta {#4}
 
 Sāvatthiyaṁ viharati.
 
@@ -56,7 +56,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā sambh
 
 Catutthaṁ.
 
-### 13.5 Pathavīsutta
+### 13.5 Pathavīsutta {#5}
 
 Sāvatthiyaṁ viharati.
 
@@ -70,7 +70,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yā vā satta k
 
 Pañcamaṁ.
 
-### 13.6 Dutiyapathavīsutta
+### 13.6 Dutiyapathavīsutta {#6}
 
 Sāvatthiyaṁ viharati.
 
@@ -84,7 +84,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā mahā
 
 Chaṭṭhaṁ.
 
-### 13.7 Samuddasutta
+### 13.7 Samuddasutta {#7}
 
 Sāvatthiyaṁ viharati.
 
@@ -98,7 +98,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yāni vā dve v
 
 Sattamaṁ.
 
-### 13.8 Dutiyasamuddasutta
+### 13.8 Dutiyasamuddasutta {#8}
 
 Sāvatthiyaṁ viharati.
 
@@ -112,7 +112,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā mahā
 
 Aṭṭhamaṁ.
 
-### 13.9 Pabbatasutta
+### 13.9 Pabbatasutta {#9}
 
 Sāvatthiyaṁ viharati.
 
@@ -126,7 +126,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yā vā satta s
 
 Navamaṁ.
 
-### 13.10 Dutiyapabbatasutta
+### 13.10 Dutiyapabbatasutta {#10}
 
 Sāvatthiyaṁ viharati.
 
@@ -140,7 +140,7 @@ Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yaṁ vā himav
 
 Dasamaṁ.
 
-### 13.11 Tatiyapabbatasutta
+### 13.11 Tatiyapabbatasutta {#11}
 
 Sāvatthiyaṁ viharati.
 

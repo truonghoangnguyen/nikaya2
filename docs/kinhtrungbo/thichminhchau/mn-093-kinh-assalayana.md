@@ -269,62 +269,62 @@ quả. Trước kia, khi chúng ta dùng chú thuật trù yếm người nào: 
 trở thành tro tàn ngay. Nhưng nay chúng ta càng dùng chú thuật trù yếm người này, người này lại càng
 trở nên đẹp đẽ, trở thành dễ nhìn, trở thành khả ái".
 
-"-- Khổ hạnh, chư Tôn giả, không phải trống rỗng, Phạm hạnh (quý vị) không phải không hiệu quả. Chư
+-- "Khổ hạnh, chư Tôn giả, không phải trống rỗng, Phạm hạnh (quý vị) không phải không hiệu quả. Chư
 Tôn giả, hãy từ bỏ tâm oán hận đối với ta".
 
-"-- Có tâm oán hận nào đối với Tôn giả, chúng tôi sẽ bỏ. Tôn giả là ai?"
+-- "Có tâm oán hận nào đối với Tôn giả, chúng tôi sẽ bỏ. Tôn giả là ai?"
 
-"-- Chư Tôn giả có nghe nói đến ẩn sĩ Asita Devala không?"
+-- "Chư Tôn giả có nghe nói đến ẩn sĩ Asita Devala không?"
 
 "_ Thưa có nghe, Tôn giả".
 
-"-- Chư Tôn giả, vị ấy là ta".
+-- "Chư Tôn giả, vị ấy là ta".
 
 Rồi này Assalayana, bảy ẩn sĩ Bà-la-môn đến đảnh lễ ẩn sĩ Asita Devala. Rồi ẩn sĩ Asita Devala nói với
 bảy ẩn sĩ Bà-la-môn:
 
-"-- Chư Tôn giả, tôi có nghe như sau: "Trong khi bảy vị ẩn sĩ Bà-la-môn thảo luận tại am thất bằng lá
+-- "Chư Tôn giả, tôi có nghe như sau: "Trong khi bảy vị ẩn sĩ Bà-la-môn thảo luận tại am thất bằng lá
 trong khu rừng, ác tà kiến như sau khởi lên: Chỉ có Bà-la-môn là giai cấp tối thượng, giai cấp khác là hạ
 liệt. Chỉ có Bà-la-môn màu da trắng, giai cấp khác màu da đen. Chỉ có Bà-la-môn là thanh tịnh, các giai
 cấp phi Bà-la-môn không được như vậy. Chỉ có Bà-la-môn là con chính thống Phạm thiên, sanh ra từ
 miệng Phạm thiên, do Phạm thiên sanh, do Phạm thiên tạo ra, là con cháu thừa tự Phạm thiên".
 
-"-- Thưa vâng, Tôn giả".
+-- "Thưa vâng, Tôn giả".
 
-"-- Nhưng chư Tôn giả, chư tôn giả có biết mẹ sanh của họ chỉ giao hợp với các Bà-la-môn, không với
+-- "Nhưng chư Tôn giả, chư tôn giả có biết mẹ sanh của họ chỉ giao hợp với các Bà-la-môn, không với
 phi Bà-la-môn?"
 
-"-- Thưa không vậy, Tôn giả".
+-- "Thưa không vậy, Tôn giả".
 
-"-- Nhưng chư Tôn giả, chư Tôn giả có biết mẹ sanh của họ, cho đến bảy đời tổ mẫu của họ chỉ giao hợp
+-- "Nhưng chư Tôn giả, chư Tôn giả có biết mẹ sanh của họ, cho đến bảy đời tổ mẫu của họ chỉ giao hợp
 với các Bà-la-môn, không với phi Bà-la-môn?"
 
-"-- Thưa không vậy, Tôn giả".
+-- "Thưa không vậy, Tôn giả".
 
-"-- Nhưng chư Tôn giả, chư Tôn giả có biết cha sanh của họ chỉ giao hợp với các nữ Bà-la-môn không
+-- "Nhưng chư Tôn giả, chư Tôn giả có biết cha sanh của họ chỉ giao hợp với các nữ Bà-la-môn không
 với phi nữ Bà-la-môn?"
 
-"-- Thưa không vậy, Tôn giả"
+-- "Thưa không vậy, Tôn giả"
 
-"-- Nhưng chư Tôn giả, chư Tôn giả có biết cha sanh của họ, cho đến bảy đời tổ phụ của họ chỉ giao hợp
+-- "Nhưng chư Tôn giả, chư Tôn giả có biết cha sanh của họ, cho đến bảy đời tổ phụ của họ chỉ giao hợp
 với các nữ Bà-la-môn, không với phi Bà-la-môn?"
 
-"-- Không phải vậy, Tôn giả".
+-- "Không phải vậy, Tôn giả".
 
-"-- Chư Tôn giả, chư Tôn giả có biết nhập thai là như thế nào?"
+-- "Chư Tôn giả, chư Tôn giả có biết nhập thai là như thế nào?"
 
-"-- Thưa Tôn giả, chúng con biết nhập thai như thế này. Ở đây, mẹ cha phải giao hợp, người mẹ phải
+-- "Thưa Tôn giả, chúng con biết nhập thai như thế này. Ở đây, mẹ cha phải giao hợp, người mẹ phải
 trong thời (có thể thọ sanh), hương ấm (gandhabha) phải hiện hữu, ba sự như vậy có hòa hợp, nhập thai
 mới thành tựu".
 
-"-- Chư Tôn giả, chư Tôn giả có biết hương ấm ấy là Khattiya, hay Bà-la-môn, hay Vessa, hay Sudda?"
+-- "Chư Tôn giả, chư Tôn giả có biết hương ấm ấy là Khattiya, hay Bà-la-môn, hay Vessa, hay Sudda?"
 
-"-- Thưa Tôn giả, chúng tôi không biết hương ấm ấy là Khattiya, hay Bà-la-môn, hay Vessa, hay
+-- "Thưa Tôn giả, chúng tôi không biết hương ấm ấy là Khattiya, hay Bà-la-môn, hay Vessa, hay
 Sudda".
 
-"-- Chư Tôn giả, sự tình là như vậy, chư Tôn giả có biết chư Tôn giả là ai không?"
+-- "Chư Tôn giả, sự tình là như vậy, chư Tôn giả có biết chư Tôn giả là ai không?"
 
-"-- Thưa Tôn giả, sự tình là như vậy, chúng tôi không có biết chúng tôi là ai".
+-- "Thưa Tôn giả, sự tình là như vậy, chúng tôi không có biết chúng tôi là ai".
 
 Này Assalayana, bảy vị ẩn sĩ Bà-la-môn ấy bị ẩn sĩ Asita Devala, chất vấn, cật vấn, nạn vấn về vấn đề
 sanh chủng (jativada) của họ, không có thể ứng đáp được. Làm sao nay Ông bị ta chất vấn, cật vấn, nạn

@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 11.1
 
-### 11.1 Suvīrasutta
+### 11.1 Suvīrasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -36,7 +36,7 @@ Dutiyampi kho, bhikkhave, sakko devānamindo suvīraṁ devaputtaṁ āmantesi: 
 
 So hi nāma, bhikkhave, sakko devānamindo sakaṁ puññaphalaṁ upajīvamāno devānaṁ tāvatiṁsānaṁ issariyādhipaccaṁ rajjaṁ kārento uṭṭhānavīriyassa vaṇṇavādī bhavissati. Idha kho taṁ, bhikkhave, sobhetha, yaṁ tumhe evaṁ svākkhāte dhammavinaye pabbajitā samānā uṭṭhaheyyātha ghaṭeyyātha vāyameyyātha appattassa pattiyā anadhigatassa adhigamāya, asacchikatassa sacchikiriyāyā”ti.
 
-### 11.2 Susīmasutta
+### 11.2 Susīmasutta {#2}
 
 Sāvatthiyaṁ.
 
@@ -68,7 +68,7 @@ Tatiyampi kho, bhikkhave, sakko devānamindo susīmaṁ devaputtaṁ āmantesi �
 
 So hi nāma, bhikkhave, sakko devānamindo sakaṁ puññaphalaṁ upajīvamāno devānaṁ tāvatiṁsānaṁ issariyādhipaccaṁ rajjaṁ kārento uṭṭhānavīriyassa vaṇṇavādī bhavissati. Idha kho taṁ, bhikkhave, sobhetha, yaṁ tumhe evaṁ svākkhāte dhammavinaye pabbajitā samānā uṭṭhaheyyātha ghaṭeyyātha vāyameyyātha appattassa pattiyā, anadhigatassa adhigamāya, asacchikatassa sacchikiriyāyā”ti.
 
-### 11.3 Dhajaggasutta
+### 11.3 Dhajaggasutta {#3}
 
 Sāvatthiyaṁ.
 
@@ -108,7 +108,7 @@ Taṁ kissa hetu? Sakko hi, bhikkhave, devānamindo avītarāgo avītadoso avīt
 
 Ahañca kho, bhikkhave, evaṁ vadāmi: ‘sace tumhākaṁ, bhikkhave, araññagatānaṁ vā rukkhamūlagatānaṁ vā suññāgāragatānaṁ vā uppajjeyya bhayaṁ vā chambhitattaṁ vā lomahaṁso vā, mameva tasmiṁ samaye anussareyyātha: “itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā”ti. Mamañhi vo, bhikkhave, anussarataṁ yaṁ bhavissati bhayaṁ vā chambhitattaṁ vā lomahaṁso vā, so pahīyissati.
 
-### 11.4 Vepacittisutta
+### 11.4 Vepacittisutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -146,7 +146,7 @@ So hi nāma, bhikkhave, sakko devānamindo sakaṁ puññaphalaṁ upajīvamāno
 
 > Abalaṁ taṁ balaṁ āhu, yassa bālabalaṁ balaṁ; Balassa dhammaguttassa, paṭivattā na vijjati.
 
-### 11.5 Subhāsitajayasutta
+### 11.5 Subhāsitajayasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -202,7 +202,7 @@ Atha kho, bhikkhave, vepacitti asurindo sakkaṁ devānamindaṁ etadavoca: ‘b
 
 > Yo have balavā santo, dubbalassa titikkhati; Tamāhu paramaṁ khantiṁ, niccaṁ khamati dubbalo.
 
-### 11.6 Kulāvakasutta
+### 11.6 Kulāvakasutta {#6}
 
 Sāvatthiyaṁ.
 
@@ -218,7 +218,7 @@ Atha kho, bhikkhave, asurānaṁ etadahosi: ‘paccudāvatto kho dāni sakkassa 
 
 Iti kho, bhikkhave, sakkassa devānamindassa dhammena jayo ahosī”ti.
 
-### 11.7 Nadubbhiyasutta
+### 11.7 Nadubbhiyasutta {#7}
 
 Sāvatthiyaṁ.
 
@@ -234,7 +234,7 @@ Addasā kho, bhikkhave, sakko devānamindo vepacittiṁ asurindaṁ dūratova ā
 
 > ‘Yaṁ musā bhaṇato pāpaṁ, Yaṁ pāpaṁ ariyūpavādino; Mittadduno ca yaṁ pāpaṁ, Yaṁ pāpaṁ akataññuno; Tameva pāpaṁ phusatu, Yo te dubbhe sujampatī’”ti.
 
-### 11.8 Verocanaasurindasutta
+### 11.8 Verocanaasurindasutta {#8}
 
 Sāvatthiyaṁ jetavane.
 
@@ -250,7 +250,7 @@ Atha kho sakko ca devānamindo verocano ca asurindo yena bhagavā tenupasaṅkam
 
 > “Sabbe sattā atthajātā, tattha tattha yathārahaṁ; Saṁyogaparamā tveva, sambhogā sabbapāṇinaṁ; Nipphannasobhano attho, khantyā bhiyyo na vijjatī”ti.
 
-### 11.9 Araññāyatanaisisutta
+### 11.9 Araññāyatanaisisutta {#9}
 
 Sāvatthiyaṁ.
 
@@ -266,7 +266,7 @@ Atha kho, bhikkhave, te isayo sīlavanto kalyāṇadhammā sakkaṁ devānaminda
 
 > ‘Gandho isīnaṁ ciradikkhitānaṁ, Kāyā cuto gacchatu mālutena; Sucitrapupphaṁ sirasmiṁva mālaṁ, Gandhaṁ etaṁ paṭikaṅkhāma bhante; Na hettha devā paṭikūlasaññino’”ti.
 
-### 11.10 Samuddakasutta
+### 11.10 Samuddakasutta {#10}
 
 Sāvatthiyaṁ.
 
@@ -296,7 +296,7 @@ Tassuddānaṁ
 
 > Suvīraṁ susīmañceva, dhajaggaṁ vepacittino; Subhāsitaṁ jayañceva, kulāvakaṁ nadubbhiyaṁ; Verocana asurindo, isayo araññakañceva; Isayo ca samuddakāti.
 
-### 11.11 Vatapadasutta
+### 11.11 Vatapadasutta {#11}
 
 Sāvatthiyaṁ.
 
@@ -310,7 +310,7 @@ Sakkassa, bhikkhave, devānamindassa pubbe manussabhūtassa imāni satta vatapad
 
 > Maccheravinaye yuttaṁ, saccaṁ kodhābhibhuṁ naraṁ; Taṁ ve devā tāvatiṁsā, āhu sappuriso itī”ti.
 
-### 11.12 Sakkanāmasutta
+### 11.12 Sakkanāmasutta {#12}
 
 Sāvatthiyaṁ jetavane. Tatra kho bhagavā bhikkhū etadavoca:
 
@@ -338,7 +338,7 @@ Yāvajīvaṁ mātāpettibharo assaṁ, yāvajīvaṁ kule jeṭṭhāpacāyī a
 
 > Mātāpettibharaṁ jantuṁ, kule jeṭṭhāpacāyinaṁ; Saṇhaṁ sakhilasambhāsaṁ, pesuṇeyyappahāyinaṁ.
 
-### 11.13 Mahālisutta
+### 11.13 Mahālisutta {#13}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
@@ -374,7 +374,7 @@ Sakko, mahāli, devānamindo pubbe manussabhūto samāno pure dānaṁ adāsi, t
 
 Sakko, mahāli, devānamindo pubbe manussabhūto samāno āvasathaṁ adāsi, tasmā vāsavoti vuccati.
 
-### 11.14 Daliddasutta
+### 11.14 Daliddasutta {#14}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -394,7 +394,7 @@ Atha kho, bhikkhave, sakko devānamindo deve tāvatiṁse anunayamāno tāyaṁ 
 
 > Tasmā saddhañca sīlañca, pasādaṁ dhammadassanaṁ; Anuyuñjetha medhāvī, saraṁ buddhāna sāsanan’”ti.
 
-### 11.15 Rāmaṇeyyakasutta
+### 11.15 Rāmaṇeyyakasutta {#15}
 
 Sāvatthiyaṁ jetavane.
 
@@ -404,7 +404,7 @@ Atha kho sakko devānamindo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhag
 
 > Gāme vā yadi vāraññe, Ninne vā yadi vā thale; Yattha arahanto viharanti, Taṁ bhūmirāmaṇeyyakan”ti.
 
-### 11.16 Yajamānasutta
+### 11.16 Yajamānasutta {#16}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate.
 
@@ -416,7 +416,7 @@ Atha kho sakko devānamindo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhag
 
 > Yajamānānaṁ manussānaṁ, Puññapekkhāna pāṇinaṁ; Karotaṁ opadhikaṁ puññaṁ, Saṅghe dinnaṁ mahapphalan”ti.
 
-### 11.17 Buddhavandanāsutta
+### 11.17 Buddhavandanāsutta {#17}
 
 Sāvatthiyaṁ jetavane.
 
@@ -430,7 +430,7 @@ Atha kho sakko devānamindo bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > ‘Uṭṭhehi vīra vijitasaṅgāma, Satthavāha anaṇa vicara loke; Desassu bhagavā dhammaṁ, Aññātāro bhavissantī’”ti.
 
-### 11.18 Gahaṭṭhavandanāsutta
+### 11.18 Gahaṭṭhavandanāsutta {#18}
 
 Sāvatthiyaṁ.
 
@@ -456,7 +456,7 @@ Atha kho, bhikkhave, mātali saṅgāhako sakkaṁ devānamindaṁ gāthāya ajj
 
 > Idaṁ vatvāna maghavā, devarājā sujampati; Puthuddisā namassitvā, pamukho rathamāruhī”ti.
 
-### 11.19 Satthāravandanāsutta
+### 11.19 Satthāravandanāsutta {#19}
 
 Sāvatthiyaṁ jetavane.
 
@@ -480,7 +480,7 @@ Atha kho, bhikkhave, mātali saṅgāhako sakkaṁ devānamindaṁ gāthāya ajj
 
 > Idaṁ vatvāna maghavā, devarājā sujampati; Bhagavantaṁ namassitvā, pamukho rathamāruhī”ti.
 
-### 11.20 Saṅghavandanāsutta
+### 11.20 Saṅghavandanāsutta {#20}
 
 Sāvatthiyaṁ jetavane. Tatra kho …pe… etadavoca:
 
@@ -514,7 +514,7 @@ Tassuddānaṁ
 
 Dutiyo vaggo.
 
-### 11.21 Chetvāsutta
+### 11.21 Chetvāsutta {#21}
 
 Sāvatthiyaṁ jetavane.
 
@@ -524,7 +524,7 @@ Atha kho sakko devānamindo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhag
 
 > “Kodhaṁ chetvā sukhaṁ seti, kodhaṁ chetvā na socati; Kodhassa visamūlassa, madhuraggassa vāsava; Vadhaṁ ariyā pasaṁsanti, tañhi chetvā na socatī”ti.
 
-### 11.22 Dubbaṇṇiyasutta
+### 11.22 Dubbaṇṇiyasutta {#22}
 
 Sāvatthiyaṁ jetavane. Tatra kho …pe… etadavoca:
 
@@ -542,7 +542,7 @@ Atha kho, bhikkhave, sakko devānamindo sake āsane nisīditvā deve tāvatiṁs
 
 > Kuddhāhaṁ na pharusaṁ brūmi, Na ca dhammāni kittaye; Sanniggaṇhāmi attānaṁ, Sampassaṁ atthamattano’”ti.
 
-### 11.23 Sambarimāyāsutta
+### 11.23 Sambarimāyāsutta {#23}
 
 Sāvatthiyaṁ …pe…
 
@@ -564,7 +564,7 @@ Addasā kho, bhikkhave, vepacitti asurindo sakkaṁ devānamindaṁ dūratova ā
 
 > ‘Māyāvī maghavā sakka, devarāja sujampati; Upeti nirayaṁ ghoraṁ, sambarova sataṁ saman’”ti.
 
-### 11.24 Accayasutta
+### 11.24 Accayasutta {#24}
 
 Sāvatthiyaṁ …pe… ārāme.
 
@@ -578,7 +578,7 @@ Bhūtapubbaṁ, bhikkhave, sakko devānamindo sudhammāyaṁ sabhāyaṁ deve t�
 
 > ‘Kodho vo vasamāyātu, Mā ca mittehi vo jarā; Agarahiyaṁ mā garahittha, Mā ca bhāsittha pesuṇaṁ; Atha pāpajanaṁ kodho, Pabbatovābhimaddatī’”ti.
 
-### 11.25 Akkodhasutta
+### 11.25 Akkodhasutta {#25}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 

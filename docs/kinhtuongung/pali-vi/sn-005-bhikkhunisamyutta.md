@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 5.1
 
-### 5.1 Āḷavikāsutta
+### 5.1 Āḷavikāsutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -24,7 +24,7 @@ Atha kho āḷavikā bhikkhunī “māro ayaṁ pāpimā” iti viditvā māra�
 
 Atha kho māro pāpimā “jānāti maṁ āḷavikā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.2 Somāsutta
+### 5.2 Somāsutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -46,7 +46,7 @@ Atha kho somā bhikkhunī “māro ayaṁ pāpimā” iti viditvā māraṁ pāp
 
 Atha kho māro pāpimā “jānāti maṁ somā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.3 Kisāgotamīsutta
+### 5.3 Kisāgotamīsutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -68,7 +68,7 @@ Atha kho kisāgotamī bhikkhunī “māro ayaṁ pāpimā” iti viditvā māra�
 
 Atha kho māro pāpimā “jānāti maṁ kisāgotamī bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.4 Vijayāsutta
+### 5.4 Vijayāsutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -92,7 +92,7 @@ Atha kho vijayā bhikkhunī “māro ayaṁ pāpimā” iti viditvā māraṁ p�
 
 Atha kho māro pāpimā “jānāti maṁ vijayā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.5 Uppalavaṇṇāsutta
+### 5.5 Uppalavaṇṇāsutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -116,7 +116,7 @@ Atha kho uppalavaṇṇā bhikkhunī “māro ayaṁ pāpimā” iti viditvā m�
 
 Atha kho māro pāpimā “jānāti maṁ uppalavaṇṇā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.6 Cālāsutta
+### 5.6 Cālāsutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -136,7 +136,7 @@ Atha kho māro pāpimā yena cālā bhikkhunī tenupasaṅkami; upasaṅkamitvā
 
 Atha kho māro pāpimā “jānāti maṁ cālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.7 Upacālāsutta
+### 5.7 Upacālāsutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -156,7 +156,7 @@ Atha kho māro pāpimā yena upacālā bhikkhunī tenupasaṅkami; upasaṅkamit
 
 Atha kho māro pāpimā “jānāti maṁ upacālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.8 Sīsupacālāsutta
+### 5.8 Sīsupacālāsutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -176,7 +176,7 @@ Atha kho māro pāpimā yena sīsupacālā bhikkhunī tenupasaṅkami; upasaṅk
 
 Atha kho māro pāpimā “jānāti maṁ sīsupacālā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.9 Selāsutta
+### 5.9 Selāsutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -200,7 +200,7 @@ Atha kho selā bhikkhunī “māro ayaṁ pāpimā” iti viditvā māraṁ pāp
 
 Atha kho māro pāpimā “jānāti maṁ selā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.
 
-### 5.10 Vajirāsutta
+### 5.10 Vajirāsutta {#10}
 
 Sāvatthinidānaṁ.
 

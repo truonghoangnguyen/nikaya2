@@ -3,7 +3,7 @@
 
 ## Saṁyutta Nikāya 1.1
 
-### 1.1 Oghataraṇasutta
+### 1.1 Oghataraṇasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -19,7 +19,7 @@ Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalak
 
 Idamavoca sā devatā. Samanuñño satthā ahosi. Atha kho sā devatā: “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyīti.
 
-### 1.2 Nimokkhasutta
+### 1.2 Nimokkhasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -31,7 +31,7 @@ Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalak
 
 “Nandībhavaparikkhayā, Saññāviññāṇasaṅkhayā; Vedanānaṁ nirodhā upasamā, Evaṁ khvāhaṁ āvuso jānāmi; Sattānaṁ nimokkhaṁ pamokkhaṁ vivekan”ti.
 
-### 1.3 Upanīyasutta
+### 1.3 Upanīyasutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -41,7 +41,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Upanīyati jīvitamappamāyu, Jarūpanītassa na santi tāṇā; Etaṁ bhayaṁ maraṇe pekkhamāno, Lokāmisaṁ pajahe santipekkho”ti.
 
-### 1.4 Accentisutta
+### 1.4 Accentisutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -51,7 +51,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Accenti kālā tarayanti rattiyo, Vayoguṇā anupubbaṁ jahanti; Etaṁ bhayaṁ maraṇe pekkhamāno, Lokāmisaṁ pajahe santipekkho”ti.
 
-### 1.5 Katichindasutta
+### 1.5 Katichindasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -61,7 +61,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Pañca chinde pañca jahe, pañca cuttari bhāvaye; Pañca saṅgātigo bhikkhu, oghatiṇṇoti vuccatī”ti.
 
-### 1.6 Jāgarasutta
+### 1.6 Jāgarasutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -71,7 +71,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Pañca jāgarataṁ suttā, pañca suttesu jāgarā; Pañcabhi rajamādeti, pañcabhi parisujjhatī”ti.
 
-### 1.7 Appaṭividitasutta
+### 1.7 Appaṭividitasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -81,7 +81,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Yesaṁ dhammā suppaṭividitā, Paravādesu na nīyare; Te sambuddhā sammadaññā, Caranti visame saman”ti.
 
-### 1.8 Susammuṭṭhasutta
+### 1.8 Susammuṭṭhasutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -91,7 +91,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Yesaṁ dhammā asammuṭṭhā, paravādesu na nīyare; Te sambuddhā sammadaññā, caranti visame saman”ti.
 
-### 1.9 Mānakāmasutta
+### 1.9 Mānakāmasutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -101,7 +101,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Mānaṁ pahāya susamāhitatto, Sucetaso sabbadhi vippamutto; Eko araññe viharaṁ appamatto, Sa maccudheyyassa tareyya pāran”ti.
 
-### 1.10 Araññasutta
+### 1.10 Araññasutta {#10}
 
 Sāvatthinidānaṁ.
 
@@ -119,7 +119,7 @@ Tassuddānaṁ
 
 > Oghaṁ nimokkhaṁ upaneyyaṁ, Accenti katichindi ca; Jāgaraṁ appaṭividitā, Susammuṭṭhā mānakāminā; Araññe dasamo vutto, Vaggo tena pavuccati.
 
-### 1.11 Nandanasutta
+### 1.11 Nandanasutta {#11}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -133,7 +133,7 @@ Evaṁ vutte, bhikkhave, aññatarā devatā taṁ devataṁ gāthāya paccabhā
 
 > ‘Na tvaṁ bāle pajānāsi, yathā arahataṁ vaco; Aniccā sabbasaṅkhārā, uppādavayadhammino; Uppajjitvā nirujjhanti, tesaṁ vūpasamo sukho’”ti.
 
-### 1.12 Nandatisutta
+### 1.12 Nandatisutta {#12}
 
 Sāvatthinidānaṁ.
 
@@ -143,7 +143,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Socati puttehi puttimā, Gomā gohi tatheva socati; Upadhīhi narassa socanā, Na hi so socati yo nirūpadhī”ti.
 
-### 1.13 Natthiputtasamasutta
+### 1.13 Natthiputtasamasutta {#13}
 
 Sāvatthinidānaṁ.
 
@@ -153,25 +153,25 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Natthi attasamaṁ pemaṁ, natthi dhaññasamaṁ dhanaṁ; Natthi paññāsamā ābhā, vuṭṭhi ve paramā sarā”ti.
 
-### 1.14 Khattiyasutta
+### 1.14 Khattiyasutta {#14}
 
 > “Khattiyo dvipadaṁ seṭṭho, balībaddo catuppadaṁ; Komārī seṭṭhā bhariyānaṁ, yo ca puttāna pubbajo”ti.
 
 > “Sambuddho dvipadaṁ seṭṭho, ājānīyo catuppadaṁ; Sussūsā seṭṭhā bhariyānaṁ, yo ca puttānamassavo”ti.
 
-### 1.15 Saṇamānasutta
+### 1.15 Saṇamānasutta {#15}
 
 > “Ṭhite majjhanhike kāle, sannisīvesu pakkhisu; Saṇateva brahāraññaṁ, taṁ bhayaṁ paṭibhāti man”ti.
 
 > “Ṭhite majjhanhike kāle, sannisīvesu pakkhisu; Saṇateva brahāraññaṁ, sā rati paṭibhāti man”ti.
 
-### 1.16 Niddātandīsutta
+### 1.16 Niddātandīsutta {#16}
 
 > “Niddā tandī vijambhitā, Aratī bhattasammado; Etena nappakāsati, Ariyamaggo idha pāṇinan”ti.
 
 > “Niddaṁ tandiṁ vijambhitaṁ, Aratiṁ bhattasammadaṁ; Vīriyena naṁ paṇāmetvā, Ariyamaggo visujjhatī”ti.
 
-### 1.17 Dukkarasutta
+### 1.17 Dukkarasutta {#17}
 
 > “Dukkaraṁ duttitikkhañca, abyattena ca sāmaññaṁ; Bahūhi tattha sambādhā, yattha bālo visīdatī”ti.
 
@@ -179,13 +179,13 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > Kummova aṅgāni sake kapāle, Samodahaṁ bhikkhu manovitakke; Anissito aññamaheṭhayāno, Parinibbuto nūpavadeyya kañcī”ti.
 
-### 1.18 Hirīsutta
+### 1.18 Hirīsutta {#18}
 
 > “Hirīnisedho puriso, koci lokasmiṁ vijjati; Yo nindaṁ apabodhati, asso bhadro kasāmivā”ti.
 
 > “Hirīnisedhā tanuyā, ye caranti sadā satā; Antaṁ dukkhassa pappuyya, caranti visame saman”ti.
 
-### 1.19 Kuṭikāsutta
+### 1.19 Kuṭikāsutta {#19}
 
 > “Kacci te kuṭikā natthi, kacci natthi kulāvakā; Kacci santānakā natthi, kacci muttosi bandhanā”ti.
 
@@ -197,7 +197,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Sāhu te kuṭikā natthi, sāhu natthi kulāvakā; Sāhu santānakā natthi, sāhu muttosi bandhanā”ti.
 
-### 1.20 Samiddhisutta
+### 1.20 Samiddhisutta {#20}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati tapodārāme.
 
@@ -271,7 +271,7 @@ Atha kho sā devatā pathaviyaṁ patiṭṭhahitvā āyasmantaṁ samiddhiṁ e
 
 “Idhāhaṁ, bhante, rattiyā paccūsasamayaṁ paccuṭṭhāya yena tapodā tenupasaṅkamiṁ gattāni parisiñcituṁ. Tapode gattāni parisiñcitvā paccuttaritvā ekacīvaro aṭṭhāsiṁ gattāni pubbāpayamāno. Atha kho, bhante, aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ tapodaṁ obhāsetvā yenāhaṁ tenupasaṅkami; upasaṅkamitvā vehāsaṁ ṭhitā imāya gāthāya ajjhabhāsi:
 
-### 1.21 Sattisutta
+### 1.21 Sattisutta {#21}
 
 Sāvatthinidānaṁ.
 
@@ -281,13 +281,13 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Sattiyā viya omaṭṭho, ḍayhamānova matthake; Sakkāyadiṭṭhippahānāya, sato bhikkhu paribbaje”ti.
 
-### 1.22 Phusatisutta
+### 1.22 Phusatisutta {#22}
 
 > “Nāphusantaṁ phusati ca, phusantañca tato phuse; Tasmā phusantaṁ phusati, appaduṭṭhapadosinan”ti.
 
 > “Yo appaduṭṭhassa narassa dussati, Suddhassa posassa anaṅgaṇassa; Tameva bālaṁ pacceti pāpaṁ, Sukhumo rajo paṭivātaṁva khitto”ti.
 
-### 1.23 Jaṭāsutta
+### 1.23 Jaṭāsutta {#23}
 
 > “Antojaṭā bahijaṭā, Jaṭāya jaṭitā pajā; Taṁ taṁ gotama pucchāmi, Ko imaṁ vijaṭaye jaṭan”ti.
 
@@ -297,13 +297,13 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > Yattha nāmañca rūpañca, asesaṁ uparujjhati; Paṭighaṁ rūpasaññā ca, etthesā chijjate jaṭā”ti.
 
-### 1.24 Manonivāraṇasutta
+### 1.24 Manonivāraṇasutta {#24}
 
 > “Yato yato mano nivāraye, Na dukkhameti naṁ tato tato; Sa sabbato mano nivāraye, Sa sabbato dukkhā pamuccatī”ti.
 
 > “Na sabbato mano nivāraye, Na mano saṁyatattamāgataṁ; Yato yato ca pāpakaṁ, Tato tato mano nivāraye”ti.
 
-### 1.25 Arahantasutta
+### 1.25 Arahantasutta {#25}
 
 > “Yo hoti bhikkhu arahaṁ katāvī, Khīṇāsavo antimadehadhārī; Ahaṁ vadāmītipi so vadeyya, Mamaṁ vadantītipi so vadeyyā”ti.
 
@@ -315,7 +315,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > Mamaṁ vadantītipi so vadeyya, Loke samaññaṁ kusalo viditvā; Vohāramattena so vohareyyā”ti.
 
-### 1.26 Pajjotasutta
+### 1.26 Pajjotasutta {#26}
 
 > “Kati lokasmiṁ pajjotā, Tehi loko pakāsati; Bhagavantaṁ puṭṭhumāgamma, Kathaṁ jānemu taṁ mayan”ti.
 
@@ -323,7 +323,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > Atha aggi divārattiṁ, tattha tattha pakāsati; Sambuddho tapataṁ seṭṭho, esā ābhā anuttarā”ti.
 
-### 1.27 Sarasutta
+### 1.27 Sarasutta {#27}
 
 > “Kuto sarā nivattanti, kattha vaṭṭaṁ na vattati; Kattha nāmañca rūpañca, asesaṁ uparujjhatī”ti.
 
@@ -331,7 +331,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > Ato sarā nivattanti, ettha vaṭṭaṁ na vattati; Ettha nāmañca rūpañca, asesaṁ uparujjhatī”ti.
 
-### 1.28 Mahaddhanasutta
+### 1.28 Mahaddhanasutta {#28}
 
 > “Mahaddhanā mahābhogā, raṭṭhavantopi khattiyā; Aññamaññābhigijjhanti, kāmesu analaṅkatā.
 
@@ -339,13 +339,13 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Hitvā agāraṁ pabbajitā, hitvā puttaṁ pasuṁ piyaṁ; Hitvā rāgañca dosañca, avijjañca virājiya; Khīṇāsavā arahanto, te lokasmiṁ anussukā”ti.
 
-### 1.29 Catucakkasutta
+### 1.29 Catucakkasutta {#29}
 
 > “Catucakkaṁ navadvāraṁ, puṇṇaṁ lobhena saṁyutaṁ; Paṅkajātaṁ mahāvīra, kathaṁ yātrā bhavissatī”ti.
 
 > “Chetvā naddhiṁ varattañca, icchā lobhañca pāpakaṁ; Samūlaṁ taṇhamabbuyha, evaṁ yātrā bhavissatī”ti.
 
-### 1.30 Eṇijaṅghasutta
+### 1.30 Eṇijaṅghasutta {#30}
 
 > “Eṇijaṅghaṁ kisaṁ vīraṁ, appāhāraṁ alolupaṁ; Sīhaṁvekacaraṁ nāgaṁ, kāmesu anapekkhinaṁ; Upasaṅkamma pucchāma, kathaṁ dukkhā pamuccatī”ti.
 
@@ -357,7 +357,7 @@ Tassuddānaṁ
 
 > Sattiyā phusati ceva, jaṭā manonivāraṇā; Arahantena pajjoto, sarā mahaddhanena ca; Catucakkena navamaṁ, eṇijaṅghena te dasāti.
 
-### 1.31 Sabbhisutta
+### 1.31 Sabbhisutta {#31}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -393,7 +393,7 @@ Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
-### 1.32 Maccharisutta
+### 1.32 Maccharisutta {#32}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -433,7 +433,7 @@ Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi:
 
 Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi:
 
-### 1.33 Sādhusutta
+### 1.33 Sādhusutta {#33}
 
 Sāvatthinidānaṁ.
 
@@ -475,7 +475,7 @@ Atha kho aparā devatā bhagavato santike imaṁ udānaṁ udānesi:
 
 > “Sādhu kho mārisa dānaṁ, Appakasmimpi sāhu dānaṁ; Saddhāyapi sāhu dānaṁ, Api ca dhammaladdhassāpi sāhu dānaṁ.
 
-### 1.34 Nasantisutta
+### 1.34 Nasantisutta {#34}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -495,7 +495,7 @@ Atha kho sambahulā satullapakāyikā devatāyo abhikkantāya rattiyā abhikkant
 
 > “Pasaṁsiyā tepi bhavanti bhikkhū, (mogharājāti bhagavā) Ye taṁ namassanti tathāvimuttaṁ; Aññāya dhammaṁ vicikicchaṁ pahāya, Saṅgātigā tepi bhavanti bhikkhū”ti.
 
-### 1.35 Ujjhānasaññisutta
+### 1.35 Ujjhānasaññisutta {#35}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -525,7 +525,7 @@ Atha kho tā devatāyo bhiyyoso mattāya ujjhāyantiyo vehāsaṁ abbhuggañchu�
 
 > “Kassaccayā na vijjanti, kassa natthi apāgataṁ; Ko na sammohamāpādi, ko ca dhīro sadā sato”ti.
 
-### 1.36 Saddhāsutta
+### 1.36 Saddhāsutta {#36}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -541,7 +541,7 @@ Atha kho aparā devatā bhagavato santike imā gāthāyo abhāsi:
 
 > Mā pamādamanuyuñjetha, mā kāmarati santhavaṁ; Appamatto hi jhāyanto, pappoti paramaṁ sukhan”ti.
 
-### 1.37 Samayasutta
+### 1.37 Samayasutta {#37}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati kapilavatthusmiṁ mahāvane mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi; dasahi ca lokadhātūhi devatā yebhuyyena sannipatitā honti bhagavantaṁ dassanāya bhikkhusaṅghañca.
 
@@ -563,7 +563,7 @@ Atha kho aparā devatā bhagavato santike imaṁ gāthaṁ abhāsi:
 
 > “Ye keci buddhaṁ saraṇaṁ gatāse, Na te gamissanti apāyabhūmiṁ; Pahāya mānusaṁ dehaṁ, Devakāyaṁ paripūressantī”ti.
 
-### 1.38 Sakalikasutta
+### 1.38 Sakalikasutta {#38}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati maddakucchismiṁ migadāye.
 
@@ -593,7 +593,7 @@ Atha kho aparā devatā bhagavato santike imaṁ udānaṁ udānesi: “passa sa
 
 > “Pañcavedā sataṁ samaṁ, Tapassī brāhmaṇā caraṁ; Cittañca nesaṁ na sammā vimuttaṁ, Hīnattharūpā na pāraṅgamā te.
 
-### 1.39 Paṭhamapajjunnadhītusutta
+### 1.39 Paṭhamapajjunnadhītusutta {#39}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
@@ -607,7 +607,7 @@ Atha kho kokanadā pajjunnassa dhītā abhikkantāya rattiyā abhikkantavaṇṇ
 
 > Ye ca kho ariye dhamme, Khantiyā upasamena upetā; Pahāya mānusaṁ dehaṁ, Devakāyaṁ paripūressantī”ti.
 
-### 1.40 Dutiyapajjunnadhītusuttaṁ
+### 1.40 Dutiyapajjunnadhītusuttaṁ {#40}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
@@ -625,7 +625,7 @@ Tassuddānaṁ
 
 > Sabbhimaccharinā sādhu, na santujjhānasaññino; Saddhā samayo sakalikaṁ, ubho pajjunnadhītaroti.
 
-### 1.41 Ādittasutta
+### 1.41 Ādittasutta {#41}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -639,7 +639,7 @@ Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalak
 
 > Atha antena jahati, Sarīraṁ sapariggahaṁ; Etadaññāya medhāvī, Bhuñjetha ca dadetha ca; Datvā ca bhutvā ca yathānubhāvaṁ, Anindito saggamupeti ṭhānan”ti.
 
-### 1.42 Kiṁdadasutta
+### 1.42 Kiṁdadasutta {#42}
 
 > “Kiṁdado balado hoti, kiṁdado hoti vaṇṇado; Kiṁdado sukhado hoti, kiṁdado hoti cakkhudo; Ko ca sabbadado hoti, taṁ me akkhāhi pucchito”ti.
 
@@ -647,7 +647,7 @@ Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalak
 
 > So ca sabbadado hoti, yo dadāti upassayaṁ; Amataṁ dado ca so hoti, yo dhammamanusāsatī”ti.
 
-### 1.43 Annasutta
+### 1.43 Annasutta {#43}
 
 > “Annamevābhinandanti, ubhaye devamānusā; Atha ko nāma so yakkho, yaṁ annaṁ nābhinandatī”ti.
 
@@ -655,15 +655,15 @@ Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalak
 
 > Tasmā vineyya maccheraṁ, dajjā dānaṁ malābhibhū; Puññāni paralokasmiṁ, patiṭṭhā honti pāṇinan”ti.
 
-### 1.44 Ekamūlasutta
+### 1.44 Ekamūlasutta {#44}
 
 > “Ekamūlaṁ dvirāvaṭṭaṁ, timalaṁ pañcapattharaṁ; Samuddaṁ dvādasāvaṭṭaṁ, pātālaṁ atarī isī”ti.
 
-### 1.45 Anomasutta
+### 1.45 Anomasutta {#45}
 
 > “Anomanāmaṁ nipuṇatthadassiṁ, Paññādadaṁ kāmālaye asattaṁ; Taṁ passatha sabbaviduṁ sumedhaṁ, Ariye pathe kamamānaṁ mahesin”ti.
 
-### 1.46 Accharāsutta
+### 1.46 Accharāsutta {#46}
 
 > “Accharāgaṇasaṅghuṭṭhaṁ, pisācagaṇasevitaṁ; Vanantaṁ mohanaṁ nāma, kathaṁ yātrā bhavissatī”ti.
 
@@ -673,7 +673,7 @@ Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalak
 
 > Yassa etādisaṁ yānaṁ, itthiyā purisassa vā; Sa ve etena yānena, nibbānasseva santike”ti.
 
-### 1.47 Vanaropasutta
+### 1.47 Vanaropasutta {#47}
 
 > “Kesaṁ divā ca ratto ca, sadā puññaṁ pavaḍḍhati; Dhammaṭṭhā sīlasampannā, ke janā saggagāmino”ti.
 
@@ -681,7 +681,7 @@ Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalak
 
 > Tesaṁ divā ca ratto ca, sadā puññaṁ pavaḍḍhati; Dhammaṭṭhā sīlasampannā, te janā saggagāmino”ti.
 
-### 1.48 Jetavanasutta
+### 1.48 Jetavanasutta {#48}
 
 > “Idañhi taṁ jetavanaṁ, isisaṅghanisevitaṁ; Āvutthaṁ dhammarājena, pītisañjananaṁ mama.
 
@@ -691,7 +691,7 @@ Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalak
 
 > Sāriputtova paññāya, sīlena upasamena ca; Yopi pāraṅgato bhikkhu, etāvaparamo siyā”ti.
 
-### 1.49 Maccharisutta
+### 1.49 Maccharisutta {#49}
 
 > “Yedha maccharino loke, kadariyā paribhāsakā; Aññesaṁ dadamānānaṁ, antarāyakarā narā.
 
@@ -713,7 +713,7 @@ Buddhe pasannā dhamme ca, saṅghe ca tibbagāravā; Kīdiso tesaṁ vipāko, s
 
 Sace enti manussattaṁ, aḍḍhe ājāyare kule; Coḷaṁ piṇḍo ratī khiḍḍā, yatthākicchena labbhati.
 
-### 1.50 Ghaṭīkārasutta
+### 1.50 Ghaṭīkārasutta {#50}
 
 > “Avihaṁ upapannāse, vimuttā satta bhikkhavo; Rāgadosaparikkhīṇā, tiṇṇā loke visattikan”ti.
 
@@ -747,61 +747,61 @@ Yattha nāmañca rūpañca, asesaṁ uparujjhati; Taṁ te dhammaṁ idhaññāy
 
 Virato methunā dhammā, brahmacārī nirāmiso; Ahuvā te sagāmeyyo, ahuvā te pure sakhā.
 
-### 1.51 Jarāsutta
+### 1.51 Jarāsutta {#51}
 
 > “Kiṁsu yāva jarā sādhu, kiṁsu sādhu patiṭṭhitaṁ; Kiṁsu narānaṁ ratanaṁ, kiṁsu corehi dūharan”ti.
 
 > “Sīlaṁ yāva jarā sādhu, saddhā sādhu patiṭṭhitā; Paññā narānaṁ ratanaṁ, puññaṁ corehi dūharan”ti.
 
-### 1.52 Ajarasāsutta
+### 1.52 Ajarasāsutta {#52}
 
 > “Kiṁsu ajarasā sādhu, kiṁsu sādhu adhiṭṭhitaṁ; Kiṁsu narānaṁ ratanaṁ, kiṁsu corehyahāriyan”ti.
 
 > “Sīlaṁ ajarasā sādhu, saddhā sādhu adhiṭṭhitā; Paññā narānaṁ ratanaṁ, puññaṁ corehyahāriyan”ti.
 
-### 1.53 Mittasutta
+### 1.53 Mittasutta {#53}
 
 > “Kiṁsu pavasato mittaṁ, kiṁsu mittaṁ sake ghare; Kiṁ mittaṁ atthajātassa, kiṁ mittaṁ samparāyikan”ti.
 
 > “Sattho pavasato mittaṁ, mātā mittaṁ sake ghare; Sahāyo atthajātassa, hoti mittaṁ punappunaṁ; Sayaṅkatāni puññāni, taṁ mittaṁ samparāyikan”ti.
 
-### 1.54 Vatthusutta
+### 1.54 Vatthusutta {#54}
 
 > “Kiṁsu vatthu manussānaṁ, kiṁsūdha paramo sakhā; Kiṁsu bhūtā upajīvanti, ye pāṇā pathavissitā”ti.
 
 > “Puttā vatthu manussānaṁ, bhariyā ca paramo sakhā; Vuṭṭhiṁ bhūtā upajīvanti, ye pāṇā pathavissitā”ti.
 
-### 1.55 Paṭhamajanasutta
+### 1.55 Paṭhamajanasutta {#55}
 
 > “Kiṁsu janeti purisaṁ, kiṁsu tassa vidhāvati; Kiṁsu saṁsāramāpādi, kiṁsu tassa mahabbhayan”ti.
 
 > “Taṇhā janeti purisaṁ, cittamassa vidhāvati; Satto saṁsāramāpādi, dukkhamassa mahabbhayan”ti.
 
-### 1.56 Dutiyajanasutta
+### 1.56 Dutiyajanasutta {#56}
 
 > “Kiṁsu janeti purisaṁ, kiṁsu tassa vidhāvati; Kiṁsu saṁsāramāpādi, kismā na parimuccatī”ti.
 
 > “Taṇhā janeti purisaṁ, cittamassa vidhāvati; Satto saṁsāramāpādi, dukkhā na parimuccatī”ti.
 
-### 1.57 Tatiyajanasutta
+### 1.57 Tatiyajanasutta {#57}
 
 > “Kiṁsu janeti purisaṁ, kiṁsu tassa vidhāvati; Kiṁsu saṁsāramāpādi, kiṁsu tassa parāyanan”ti.
 
 > “Taṇhā janeti purisaṁ, cittamassa vidhāvati; Satto saṁsāramāpādi, kammaṁ tassa parāyanan”ti.
 
-### 1.58 Uppathasutta
+### 1.58 Uppathasutta {#58}
 
 > “Kiṁsu uppatho akkhāto, kiṁsu rattindivakkhayo; Kiṁ malaṁ brahmacariyassa, kiṁ sinānamanodakan”ti.
 
 > “Rāgo uppatho akkhāto, Vayo rattindivakkhayo; Itthī malaṁ brahmacariyassa, Etthāyaṁ sajjate pajā; Tapo ca brahmacariyañca, Taṁ sinānamanodakan”ti.
 
-### 1.59 Dutiyasutta
+### 1.59 Dutiyasutta {#59}
 
 > “Kiṁsu dutiyā purisassa hoti, Kiṁsu cenaṁ pasāsati; Kissa cābhirato macco, Sabbadukkhā pamuccatī”ti.
 
 > “Saddhā dutiyā purisassa hoti, Paññā cenaṁ pasāsati; Nibbānābhirato macco, Sabbadukkhā pamuccatī”ti.
 
-### 1.60 Kavisutta
+### 1.60 Kavisutta {#60}
 
 > “Kiṁsu nidānaṁ gāthānaṁ, kiṁsu tāsaṁ viyañjanaṁ; Kiṁsu sannissitā gāthā, kiṁsu gāthānamāsayo”ti.
 
@@ -813,61 +813,61 @@ Tassuddānaṁ
 
 > Jarā ajarasā mittaṁ, vatthu tīṇi janāni ca; Uppatho ca dutiyo ca, kavinā pūrito vaggoti.
 
-### 1.61 Nāmasutta
+### 1.61 Nāmasutta {#61}
 
 > “Kiṁsu sabbaṁ addhabhavi, kismā bhiyyo na vijjati; Kissassu ekadhammassa, sabbeva vasamanvagū”ti.
 
 > “Nāmaṁ sabbaṁ addhabhavi, nāmā bhiyyo na vijjati; Nāmassa ekadhammassa, sabbeva vasamanvagū”ti.
 
-### 1.62 Cittasutta
+### 1.62 Cittasutta {#62}
 
 > “Kenassu nīyati loko, kenassu parikassati; Kissassu ekadhammassa, sabbeva vasamanvagū”ti.
 
 > “Cittena nīyati loko, cittena parikassati; Cittassa ekadhammassa, sabbeva vasamanvagū”ti.
 
-### 1.63 Taṇhāsutta
+### 1.63 Taṇhāsutta {#63}
 
 > “Kenassu nīyati loko, kenassu parikassati; Kissassu ekadhammassa, sabbeva vasamanvagū”ti.
 
 > “Taṇhāya nīyati loko, taṇhāya parikassati; Taṇhāya ekadhammassa, sabbeva vasamanvagū”ti.
 
-### 1.64 Saṁyojanasutta
+### 1.64 Saṁyojanasutta {#64}
 
 > “Kiṁsu saṁyojano loko, kiṁsu tassa vicāraṇaṁ; Kissassu vippahānena, nibbānaṁ iti vuccatī”ti.
 
 > “Nandīsaṁyojano loko, vitakkassa vicāraṇaṁ; Taṇhāya vippahānena, nibbānaṁ iti vuccatī”ti.
 
-### 1.65 Bandhanasutta
+### 1.65 Bandhanasutta {#65}
 
 > “Kiṁsu sambandhano loko, kiṁsu tassa vicāraṇaṁ; Kissassu vippahānena, sabbaṁ chindati bandhanan”ti.
 
 > “Nandīsambandhano loko, vitakkassa vicāraṇaṁ; Taṇhāya vippahānena, sabbaṁ chindati bandhanan”ti.
 
-### 1.66 Attahatasutta
+### 1.66 Attahatasutta {#66}
 
 > “Kenassubbhāhato loko, kenassu parivārito; Kena sallena otiṇṇo, kissa dhūpāyito sadā”ti.
 
 > “Maccunābbhāhato loko, jarāya parivārito; Taṇhāsallena otiṇṇo, icchādhūpāyito sadā”ti.
 
-### 1.67 Uḍḍitasutta
+### 1.67 Uḍḍitasutta {#67}
 
 > “Kenassu uḍḍito loko, kenassu parivārito; Kenassu pihito loko, kismiṁ loko patiṭṭhito”ti.
 
 > “Taṇhāya uḍḍito loko, jarāya parivārito; Maccunā pihito loko, dukkhe loko patiṭṭhito”ti.
 
-### 1.68 Pihitasutta
+### 1.68 Pihitasutta {#68}
 
 > “Kenassu pihito loko, kismiṁ loko patiṭṭhito; Kenassu uḍḍito loko, kenassu parivārito”ti.
 
 > “Maccunā pihito loko, dukkhe loko patiṭṭhito; Taṇhāya uḍḍito loko, jarāya parivārito”ti.
 
-### 1.69 Icchāsutta
+### 1.69 Icchāsutta {#69}
 
 > “Kenassu bajjhatī loko, kissa vinayāya muccati; Kissassu vippahānena, sabbaṁ chindati bandhanan”ti.
 
 > “Icchāya bajjhatī loko, icchāvinayāya muccati; Icchāya vippahānena, sabbaṁ chindati bandhanan”ti.
 
-### 1.70 Lokasutta
+### 1.70 Lokasutta {#70}
 
 > “Kismiṁ loko samuppanno, kismiṁ kubbati santhavaṁ; Kissa loko upādāya, kismiṁ loko vihaññatī”ti.
 
@@ -879,7 +879,7 @@ Tassuddānaṁ
 
 > Nāmaṁ cittañca taṇhā ca, saṁyojanañca bandhanā; Abbhāhatuḍḍito pihito, icchā lokena te dasāti.
 
-### 1.71 Chetvāsutta
+### 1.71 Chetvāsutta {#71}
 
 Sāvatthinidānaṁ.
 
@@ -889,19 +889,19 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
 > “Kodhaṁ chetvā sukhaṁ seti, kodhaṁ chetvā na socati; Kodhassa visamūlassa, madhuraggassa devate; Vadhaṁ ariyā pasaṁsanti, tañhi chetvā na socatī”ti.
 
-### 1.72 Rathasutta
+### 1.72 Rathasutta {#72}
 
 > “Kiṁsu rathassa paññāṇaṁ, kiṁsu paññāṇamaggino; Kiṁsu raṭṭhassa paññāṇaṁ, kiṁsu paññāṇamitthiyā”ti.
 
 > “Dhajo rathassa paññāṇaṁ, dhūmo paññāṇamaggino; Rājā raṭṭhassa paññāṇaṁ, bhattā paññāṇamitthiyā”ti.
 
-### 1.73 Vittasutta
+### 1.73 Vittasutta {#73}
 
 > “Kiṁsūdha vittaṁ purisassa seṭṭhaṁ, Kiṁsu suciṇṇo sukhamāvahati; Kiṁsu have sādutaraṁ rasānaṁ, Kathaṁjīviṁ jīvitamāhu seṭṭhan”ti.
 
 > “Saddhīdha vittaṁ purisassa seṭṭhaṁ, Dhammo suciṇṇo sukhamāvahati; Saccaṁ have sādutaraṁ rasānaṁ, Paññājīviṁ jīvitamāhu seṭṭhan”ti.
 
-### 1.74 Vuṭṭhisutta
+### 1.74 Vuṭṭhisutta {#74}
 
 > “Kiṁsu uppatataṁ seṭṭhaṁ, kiṁsu nipatataṁ varaṁ; Kiṁsu pavajamānānaṁ, kiṁsu pavadataṁ varan”ti.
 
@@ -909,13 +909,13 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
 > “Vijjā uppatataṁ seṭṭhā, avijjā nipatataṁ varā; Saṅgho pavajamānānaṁ, buddho pavadataṁ varo”ti.
 
-### 1.75 Bhītāsutta
+### 1.75 Bhītāsutta {#75}
 
 > “Kiṁsūdha bhītā janatā anekā, Maggo canekāyatanappavutto; Pucchāmi taṁ gotama bhūripañña, Kismiṁ ṭhito paralokaṁ na bhāye”ti.
 
 > “Vācaṁ manañca paṇidhāya sammā, Kāyena pāpāni akubbamāno; Bahvannapānaṁ gharamāvasanto, Saddho mudū saṁvibhāgī vadaññū; Etesu dhammesu ṭhito catūsu, Dhamme ṭhito paralokaṁ na bhāye”ti.
 
-### 1.76 Najīratisutta
+### 1.76 Najīratisutta {#76}
 
 > “Kiṁ jīrati kiṁ na jīrati, kiṁsu uppathoti vuccati; Kiṁsu dhammānaṁ paripantho, kiṁsu rattindivakkhayo; Kiṁ malaṁ brahmacariyassa, kiṁ sinānamanodakaṁ.
 
@@ -927,7 +927,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
 > Cha lokasmiṁ chiddāni, yattha vittaṁ na tiṭṭhati; Ālasyañca pamādo ca, anuṭṭhānaṁ asaṁyamo; Niddā tandī ca te chidde, sabbaso taṁ vivajjaye”ti.
 
-### 1.77 Issariyasutta
+### 1.77 Issariyasutta {#77}
 
 > “Kiṁsu issariyaṁ loke, kiṁsu bhaṇḍānamuttamaṁ; Kiṁsu satthamalaṁ loke, kiṁsu lokasmimabbudaṁ.
 
@@ -937,19 +937,19 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
 > Coraṁ harantaṁ vārenti, haranto samaṇo piyo; Samaṇaṁ punappunāyantaṁ, abhinandanti paṇḍitā”ti.
 
-### 1.78 Kāmasutta
+### 1.78 Kāmasutta {#78}
 
 > “Kimatthakāmo na dade, kiṁ macco na pariccaje; Kiṁsu muñceyya kalyāṇaṁ, pāpikaṁ na ca mocaye”ti.
 
 > “Attānaṁ na dade poso, attānaṁ na pariccaje; Vācaṁ muñceyya kalyāṇaṁ, pāpikañca na mocaye”ti.
 
-### 1.79 Pātheyyasutta
+### 1.79 Pātheyyasutta {#79}
 
 > “Kiṁsu bandhati pātheyyaṁ, kiṁsu bhogānamāsayo; Kiṁsu naraṁ parikassati, kiṁsu lokasmi dujjahaṁ; Kismiṁ baddhā puthū sattā, pāsena sakuṇī yathā”ti.
 
 > “Saddhā bandhati pātheyyaṁ, sirī bhogānamāsayo; Icchā naraṁ parikassati, icchā lokasmi dujjahā; Icchābaddhā puthū sattā, pāsena sakuṇī yathā”ti.
 
-### 1.80 Pajjotasutta
+### 1.80 Pajjotasutta {#80}
 
 > “Kiṁsu lokasmi pajjoto, kiṁsu lokasmi jāgaro; Kiṁsu kamme sajīvānaṁ, kimassa iriyāpatho.
 
@@ -959,7 +959,7 @@ Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
 
 > Vuṭṭhi alasaṁ analasañca, Mātā puttaṁva posati; Vuṭṭhiṁ bhūtā upajīvanti, Ye pāṇā pathavissitā”ti.
 
-### 1.81 Araṇasutta
+### 1.81 Araṇasutta {#81}
 
 > “Kesūdha araṇā loke, kesaṁ vusitaṁ na nassati; Kedha icchaṁ parijānanti, kesaṁ bhojissiyaṁ sadā.
 

@@ -89,7 +89,7 @@ chung phải sanh vào cõi dữ, ác thú, đọa xứ, địa ngục.
 
 Rồi này Ác ma, Thế Tôn Kakusandha, bậc A-la-hán, Chánh Ðẳng Giác gọi các Tỷ-kheo:
 
-"-- Này các Tỷ-kheo, những Bà-la-môn gia chủ bị Ác ma Dusi nhập vào và nói: "Hãy đến phỉ báng, mạ
+-- "Này các Tỷ-kheo, những Bà-la-môn gia chủ bị Ác ma Dusi nhập vào và nói: "Hãy đến phỉ báng, mạ
 lị, thống trách và nhiễu hại các Tỷ-kheo có giới hạnh và thiện tánh. Do bị phỉ báng, mạ lị, thống trách và
 nhiễu hại bởi các Người, các vị ấy có thể đổi tâm, và như vậy Ác ma Dusi mới có dịp để chi phối họ".
 
@@ -126,7 +126,7 @@ lớn sau khi thân hoại mạng chung được sanh lên thiện thú, Thiên 
 
 Rồi này Ác ma, Thế Tôn Kakusamdha, bậc A-la-hán, Chánh Ðẳng Giác gọi các Tỷ-kheo:
 
-"-- Này các Tỷ-kheo, các Bà-la-môn gia chủ bị Ác ma Dusi xâm nhập và nói như sau: "Các Ngươi hãy
+-- "Này các Tỷ-kheo, các Bà-la-môn gia chủ bị Ác ma Dusi xâm nhập và nói như sau: "Các Ngươi hãy
 đến tán thán, tôn trọng, đảnh lễ, cúng dường các Tỷ-kheo có giới hạnh và thiện tánh. Những vị này được
 các Ngươi tán thán, tôn trọng, đảnh lễ, cúng dường có thể đổi tâm và như vậy Ác ma Dusi mới có dịp đẻ
 chi phối họ". Này các Tỷ-kheo, các Ngươi hãy sống quán bất tịnh trên thân, (quán) tưởng nhàm chán đối

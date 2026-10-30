@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 37.1
 
-### 37.1 Mātugāmasutta
+### 37.1 Mātugāmasutta {#1}
 
 “Pañcahi, bhikkhave, aṅgehi samannāgato mātugāmo ekantaamanāpo hoti purisassa. Katamehi pañcahi? Na ca rūpavā hoti, na ca bhogavā hoti, na ca sīlavā hoti, alaso ca hoti, pajañcassa na labhati—imehi kho, bhikkhave, pañcahi aṅgehi samannāgato mātugāmo ekantaamanāpo hoti purisassa.
 
@@ -10,7 +10,7 @@ Pañcahi, bhikkhave, aṅgehi samannāgato mātugāmo ekantamanāpo hoti purisas
 
 Paṭhamaṁ.
 
-### 37.2 Purisasutta
+### 37.2 Purisasutta {#2}
 
 “Pañcahi, bhikkhave, aṅgehi samannāgato puriso ekantaamanāpo hoti mātugāmassa. Katamehi pañcahi? Na ca rūpavā hoti, na ca bhogavā hoti, na ca sīlavā hoti, alaso ca hoti, pajañcassa na labhati—imehi kho, bhikkhave, pañcahi aṅgehi samannāgato puriso ekantaamanāpo hoti mātugāmassa.
 
@@ -18,7 +18,7 @@ Pañcahi, bhikkhave, aṅgehi samannāgato puriso ekantamanāpo hoti mātugāmas
 
 Dutiyaṁ.
 
-### 37.3 Āveṇikadukkhasutta
+### 37.3 Āveṇikadukkhasutta {#3}
 
 “Pañcimāni, bhikkhave, mātugāmassa āveṇikāni dukkhāni, yāni mātugāmo paccanubhoti, aññatreva purisehi. Idaṁ, bhikkhave, mātugāmassa catutthaṁ āveṇikaṁ dukkhaṁ, yaṁ mātugāmo paccanubhoti, aññatreva purisehi.
 
@@ -38,7 +38,7 @@ Puna caparaṁ, bhikkhave, mātugāmo gabbhinī hoti. Idaṁ, bhikkhave, mātug�
 
 Puna caparaṁ, bhikkhave, mātugāmo vijāyati.
 
-### 37.4 Tīhidhammehisutta
+### 37.4 Tīhidhammehisutta {#4}
 
 “Tīhi, bhikkhave, dhammehi samannāgato mātugāmo yebhuyyena kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. Katamehi tīhi?
 
@@ -50,7 +50,7 @@ Catutthaṁ.
 
 (…)
 
-### 37.5 Kodhanasutta
+### 37.5 Kodhanasutta {#5}
 
 Atha kho āyasmā anuruddho yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā anuruddho bhagavantaṁ etadavoca:
 
@@ -64,55 +64,55 @@ imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā 
 
 Pañcamaṁ.
 
-### 37.6 Upanāhīsutta
+### 37.6 Upanāhīsutta {#6}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, upanāhī ca hoti, duppañño ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjatī”ti.
 
 Chaṭṭhaṁ.
 
-### 37.7 Issukīsutta
+### 37.7 Issukīsutta {#7}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, issukī ca hoti, duppañño ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjatī”ti.
 
 Sattamaṁ.
 
-### 37.8 Maccharīsutta
+### 37.8 Maccharīsutta {#8}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, maccharī ca hoti, duppañño ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo …pe… apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjatī”ti.
 
 Aṭṭhamaṁ.
 
-### 37.9 Aticārīsutta
+### 37.9 Aticārīsutta {#9}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo …pe… apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, aticārī ca hoti, duppañño ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo …pe… upapajjatī”ti.
 
 Navamaṁ.
 
-### 37.10 Dussīlasutta
+### 37.10 Dussīlasutta {#10}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, dussīlo ca hoti, duppañño ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjatī”ti.
 
 Dasamaṁ.
 
-### 37.11 Appassutasutta
+### 37.11 Appassutasutta {#11}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, appassuto ca hoti, duppañño ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjatī”ti.
 
 Ekādasamaṁ.
 
-### 37.12 Kusītasutta
+### 37.12 Kusītasutta {#12}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, kusīto ca hoti, duppañño ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo …pe… apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjatī”ti.
 
 Dvādasamaṁ.
 
-### 37.13 Muṭṭhassatisutta
+### 37.13 Muṭṭhassatisutta {#13}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjati. Katamehi pañcahi? Assaddho ca hoti, ahiriko ca hoti, anottappī ca hoti, muṭṭhassati ca hoti, duppañño ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjatī”ti.
 
 Terasamaṁ.
 
-### 37.14 Pañcaverasutta
+### 37.14 Pañcaverasutta {#14}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo …pe… nirayaṁ upapajjati. Katamehi pañcahi? Pāṇātipātī ca hoti, adinnādāyī ca hoti, kāmesumicchācārī ca hoti, musāvādī ca hoti, surāmerayamajjappamādaṭṭhāyī ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjatī”ti.
 
@@ -124,7 +124,7 @@ Tassuddānaṁ
 
 > Mātugāmo puriso ca, āveṇikā tidhammo ca; Kodhano upanāhī ca, issukī maccharena ca; Aticārī ca dussīlo, appassuto ca kusīto; Muṭṭhassati pañcaveraṁ, kaṇhapakkhe pakāsito.
 
-### 37.15 Akkodhanasutta
+### 37.15 Akkodhanasutta {#15}
 
 Atha kho āyasmā anuruddho yena bhagavā tenupasaṅkami; upasaṅkamitvā …pe… ekamantaṁ nisinno kho āyasmā anuruddho bhagavantaṁ etadavoca: “idhāhaṁ, bhante, mātugāmaṁ passāmi dibbena cakkhunā visuddhena atikkantamānusakena kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantaṁ. Katīhi nu kho, bhante, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjatī”ti?
 
@@ -132,49 +132,49 @@ Atha kho āyasmā anuruddho yena bhagavā tenupasaṅkami; upasaṅkamitvā …p
 
 Paṭhamaṁ.
 
-### 37.16 Anupanāhīsutta
+### 37.16 Anupanāhīsutta {#16}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. Katamehi pañcahi? Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, anupanāhī ca hoti, paññavā ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjatī”ti.
 
 Dutiyaṁ.
 
-### 37.17 Anissukīsutta
+### 37.17 Anissukīsutta {#17}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. Katamehi pañcahi? Saddho ca hoti, hirimā ca hoti, ottappī ca hoti, anissukī ca hoti, paññavā ca hoti …pe….
 
 Tatiyaṁ.
 
-### 37.18 Amaccharīsutta
+### 37.18 Amaccharīsutta {#18}
 
 “Amaccharī ca hoti, paññavā ca hoti …pe….
 
 Catutthaṁ.
 
-### 37.19 Anaticārīsutta
+### 37.19 Anaticārīsutta {#19}
 
 “Anaticārī ca hoti, paññavā ca hoti …pe….
 
 Pañcamaṁ.
 
-### 37.20 Susīlasutta
+### 37.20 Susīlasutta {#20}
 
 “Sīlavā ca hoti, paññavā ca hoti …pe….
 
 Chaṭṭhaṁ.
 
-### 37.21 Bahussutasutta
+### 37.21 Bahussutasutta {#21}
 
 “Bahussuto ca hoti, paññavā ca hoti …pe….
 
 Sattamaṁ.
 
-### 37.22 Āraddhavīriyasutta
+### 37.22 Āraddhavīriyasutta {#22}
 
 “Āraddhavīriyo ca hoti, paññavā ca hoti …pe….
 
 Aṭṭhamaṁ.
 
-### 37.23 Upaṭṭhitassatisutta
+### 37.23 Upaṭṭhitassatisutta {#23}
 
 “Upaṭṭhitassati ca hoti, paññavā ca hoti …pe… imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjatī”ti.
 
@@ -182,7 +182,7 @@ Navamaṁ.
 
 Ime aṭṭha suttantasaṅkhepā.
 
-### 37.24 Pañcasīlasutta
+### 37.24 Pañcasīlasutta {#24}
 
 “Pañcahi, anuruddha, dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati. Katamehi pañcahi? Pāṇātipātā paṭivirato ca hoti, adinnādānā paṭivirato ca hoti, kāmesumicchācārā paṭivirato ca hoti, musāvādā paṭivirato ca hoti, surāmerayamajjappamādaṭṭhānā paṭivirato ca hoti—imehi kho, anuruddha, pañcahi dhammehi samannāgato mātugāmo kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjatī”ti.
 
@@ -194,31 +194,31 @@ Tassuddānaṁ
 
 > Dutiye ca akkodhano, anupanāhī anissukī; Amaccharī anaticārī, sīlavā ca bahussuto; Vīriyaṁ sati sīlañca, sukkapakkhe pakāsito.
 
-### 37.25 Visāradasutta
+### 37.25 Visāradasutta {#25}
 
 “Pañcimāni, bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṁ, bhogabalaṁ, ñātibalaṁ, puttabalaṁ, sīlabalaṁ—imāni kho, bhikkhave, pañca mātugāmassa balāni. Imehi kho, bhikkhave, pañcahi balehi samannāgato mātugāmo visārado agāraṁ ajjhāvasatī”ti.
 
 Paṭhamaṁ.
 
-### 37.26 Pasayhasutta
+### 37.26 Pasayhasutta {#26}
 
 “Pañcimāni, bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṁ, bhogabalaṁ, ñātibalaṁ, puttabalaṁ, sīlabalaṁ—imāni kho, bhikkhave, pañca mātugāmassa balāni. Imehi kho, bhikkhave, pañcahi balehi samannāgato mātugāmo sāmikaṁ pasayha agāraṁ ajjhāvasatī”ti.
 
 Dutiyaṁ.
 
-### 37.27 Abhibhuyyasutta
+### 37.27 Abhibhuyyasutta {#27}
 
 “Pañcimāni, bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṁ, bhogabalaṁ, ñātibalaṁ, puttabalaṁ, sīlabalaṁ—imāni kho, bhikkhave, pañca mātugāmassa balāni. Imehi kho, bhikkhave, pañcahi balehi samannāgato mātugāmo sāmikaṁ abhibhuyya vattatī”ti.
 
 Tatiyaṁ.
 
-### 37.28 Ekasutta
+### 37.28 Ekasutta {#28}
 
 “Ekena ca kho, bhikkhave, balena samannāgato puriso mātugāmaṁ abhibhuyya vattati. Katamena ekena balena? Issariyabalena abhibhūtaṁ mātugāmaṁ neva rūpabalaṁ tāyati, na bhogabalaṁ tāyati, na ñātibalaṁ tāyati, na puttabalaṁ tāyati, na sīlabalaṁ tāyatī”ti.
 
 Catutthaṁ.
 
-### 37.29 Aṅgasutta
+### 37.29 Aṅgasutta {#29}
 
 “Pañcimāni, bhikkhave, mātugāmassa balāni. Yato ca kho, bhikkhave, mātugāmo rūpabalena ca samannāgato hoti, bhogabalena ca, ñātibalena ca—evaṁ so tenaṅgena paripūro hoti.
 
@@ -238,7 +238,7 @@ Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca bhogabalena—eva
 
 Rūpabalena ca, bhikkhave, mātugāmo samannāgato hoti, bhogabalena ca, na ca ñātibalena—evaṁ so tenaṅgena aparipūro hoti.
 
-### 37.30 Nāsentisutta
+### 37.30 Nāsentisutta {#30}
 
 “Pañcimāni, bhikkhave, mātugāmassa balāni. Sīlabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca ñātibalena, vāsenteva naṁ, kule na nāsenti.
 
@@ -264,7 +264,7 @@ Sīlabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca rūpabalena, vās
 
 Sīlabalena ca, bhikkhave, mātugāmo samannāgato hoti, na ca bhogabalena, vāsenteva naṁ, kule na nāsenti.
 
-### 37.31 Hetusutta
+### 37.31 Hetusutta {#31}
 
 “Pañcimāni, bhikkhave, mātugāmassa balāni. Katamāni pañca? Rūpabalaṁ, bhogabalaṁ, ñātibalaṁ, puttabalaṁ, sīlabalaṁ.
 
@@ -274,7 +274,7 @@ Imāni kho, bhikkhave, pañca mātugāmassa balānī”ti.
 
 Sattamaṁ.
 
-### 37.32 Ṭhānasutta
+### 37.32 Ṭhānasutta {#32}
 
 “Pañcimāni, bhikkhave, ṭhānāni dullabhāni akatapuññena mātugāmena. idaṁ, bhikkhave, catutthaṁ ṭhānaṁ dullabhaṁ akatapuññena mātugāmena.
 
@@ -308,13 +308,13 @@ Patirūpe kule jāyitvā patirūpaṁ kulaṁ gantvā asapatti agāraṁ ajjhāv
 
 Patirūpe kule jāyitvā patirūpaṁ kulaṁ gantvā asapatti agāraṁ ajjhāvasantī puttavatī assanti—
 
-### 37.33 Pañcasīlavisāradasutta
+### 37.33 Pañcasīlavisāradasutta {#33}
 
 “Pañcahi, bhikkhave, dhammehi samannāgato mātugāmo visārado agāraṁ ajjhāvasati. Katamehi pañcahi? Pāṇātipātā paṭivirato ca hoti, adinnādānā paṭivirato ca hoti, kāmesumicchācārā paṭivirato ca hoti, musāvādā paṭivirato ca hoti, surāmerayamajjappamādaṭṭhānā paṭivirato ca hoti—imehi kho, bhikkhave, pañcahi dhammehi samannāgato mātugāmo visārado agāraṁ ajjhāvasatī”ti.
 
 Navamaṁ.
 
-### 37.34 Vaḍḍhīsutta
+### 37.34 Vaḍḍhīsutta {#34}
 
 “Pañcahi, bhikkhave, vaḍḍhīhi vaḍḍhamānā ariyasāvikā ariyāya vaḍḍhiyā vaḍḍhati sārādāyinī ca hoti varādāyinī ca kāyassa. Katamehi pañcahi? Saddhāya vaḍḍhati, sīlena vaḍḍhati, sutena vaḍḍhati, cāgena vaḍḍhati, paññāya vaḍḍhati—imehi kho, bhikkhave, pañcahi vaḍḍhīhi vaḍḍhamānā ariyasāvikā ariyāya vaḍḍhiyā vaḍḍhati, sārādāyinī ca hoti, varādāyinī ca kāyassāti.
 

@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 7.1
 
-### 7.1 Dhanañjānīsutta
+### 7.1 Dhanañjānīsutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -32,7 +32,7 @@ Atha kho bhāradvājagotto brāhmaṇo kupito anattamano yena bhagavā tenupasa�
 
 Evaṁ vutte, bhāradvājagotto brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama. Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. Esāhaṁ, bhante, bhagavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. Labheyyāhaṁ bhoto gotamassa santike pabbajjaṁ, labheyyaṁ upasampadan”ti.
 
-### 7.2 Akkosasutta
+### 7.2 Akkosasutta {#2}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -70,7 +70,7 @@ Alattha kho akkosakabhāradvājo brāhmaṇo bhagavato santike pabbajjaṁ, alat
 
 “Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ nāparaṁ itthattāyā”ti abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṁ ahosīti.
 
-### 7.3 Asurindakasutta
+### 7.3 Asurindakasutta {#3}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Assosi kho asurindakabhāradvājo brāhmaṇo: “bhāradvājagotto brāhmaṇo kira samaṇassa gotamassa santike agārasmā anagāriyaṁ pabbajito”ti kupito anattamano yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ asabbhāhi pharusāhi vācāhi akkosati paribhāsati.
 
@@ -88,7 +88,7 @@ Atha kho asurindakabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “jitosi, 
 
 Evaṁ vutte, asurindakabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṁ ahosīti.
 
-### 7.4 Bilaṅgikasutta
+### 7.4 Bilaṅgikasutta {#4}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Assosi kho bilaṅgikabhāradvājo brāhmaṇo: “bhāradvājagotto kira brāhmaṇo samaṇassa gotamassa santike agārasmā anagāriyaṁ pabbajito”ti kupito anattamano yena bhagavā tenupasaṅkami; upasaṅkamitvā tuṇhībhūto ekamantaṁ aṭṭhāsi.
 
@@ -98,7 +98,7 @@ Atha kho bhagavā bilaṅgikassa bhāradvājassa brāhmaṇassa cetasā cetopari
 
 Evaṁ vutte, bilaṅgikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… abbhaññāsi. Aññataro ca panāyasmā bhāradvājo arahataṁ ahosīti.
 
-### 7.5 Ahiṁsakasutta
+### 7.5 Ahiṁsakasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -110,7 +110,7 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 Evaṁ vutte, ahiṁsakabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… abbhaññāsi. Aññataro ca panāyasmā ahiṁsakabhāradvājo arahataṁ ahosīti.
 
-### 7.6 Jaṭāsutta
+### 7.6 Jaṭāsutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -128,7 +128,7 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 Evaṁ vutte, jaṭābhāradvājo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… aññataro ca panāyasmā bhāradvājo arahataṁ ahosī”ti.
 
-### 7.7 Suddhikasutta
+### 7.7 Suddhikasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -144,7 +144,7 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 Evaṁ vutte, suddhikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… aññataro ca panāyasmā bhāradvājo arahataṁ ahosīti.
 
-### 7.8 Aggikasutta
+### 7.8 Aggikasutta {#8}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -170,7 +170,7 @@ Addasā kho aggikabhāradvājo brāhmaṇo bhagavantaṁ piṇḍāya ṭhitaṁ
 
 > Aññena ca kevalinaṁ mahesiṁ, Khīṇāsavaṁ kukkuccavūpasantaṁ; Annena pānena upaṭṭhahassu, Khettañhi taṁ puññapekkhassa hotī”ti.
 
-### 7.9 Sundarikasutta
+### 7.9 Sundarikasutta {#9}
 
 Ekaṁ samayaṁ bhagavā kosalesu viharati sundarikāya nadiyā tīre.
 
@@ -218,7 +218,7 @@ Atha kho sundarikabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami; upasa�
 
 “Na khvāhaṁ, brāhmaṇa, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yasseso habyaseso bhutto sammā pariṇāmaṁ gaccheyya aññatra, brāhmaṇa, tathāgatassa vā tathāgatasāvakassa vā. Tena hi tvaṁ, brāhmaṇa, taṁ habyasesaṁ appaharite vā chaḍḍehi appāṇake vā udake opilāpehī”ti.
 
-### 7.10 Bahudhītarasutta
+### 7.10 Bahudhītarasutta {#10}
 
 Ekaṁ samayaṁ bhagavā kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -264,7 +264,7 @@ Tassuddānaṁ
 
 > “Na hi mayhaṁ brāhmaṇa, balībaddā catuddasa; Ajjasaṭṭhiṁ na dissanti, tenāhaṁ brāhmaṇā sukhī.
 
-### 7.11 Kasibhāradvājasutta
+### 7.11 Kasibhāradvājasutta {#11}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā magadhesu viharati dakkhiṇāgirismiṁ ekanāḷāyaṁ brāhmaṇagāme.
 
@@ -298,7 +298,7 @@ Addasā kho kasibhāradvājo brāhmaṇo bhagavantaṁ piṇḍāya ṭhitaṁ. 
 
 > “Gāthābhigītaṁ me abhojaneyyaṁ, Sampassataṁ brāhmaṇa nesa dhammo; Gāthābhigītaṁ panudanti buddhā, Dhamme sati brāhmaṇa vuttiresā.
 
-### 7.12 Udayasutta
+### 7.12 Udayasutta {#12}
 
 Sāvatthinidānaṁ.
 
@@ -316,7 +316,7 @@ tatiyampi kho udayo brāhmaṇo bhagavato pattaṁ odanena pūretvā bhagavanta�
 
 Evaṁ vutte, udayo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-### 7.13 Devahitasutta
+### 7.13 Devahitasutta {#13}
 
 Sāvatthinidānaṁ.
 
@@ -348,7 +348,7 @@ Atha kho devahito brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bh
 
 > Ettha dajjā deyyadhammaṁ, ettha dinnaṁ mahapphalaṁ; Evañhi yajamānassa, evaṁ ijjhati dakkhiṇā”ti.
 
-### 7.14 Mahāsālasutta
+### 7.14 Mahāsālasutta {#14}
 
 Sāvatthinidānaṁ.
 
@@ -386,7 +386,7 @@ Atha kho so brāhmaṇamahāsālo bhagavato santike imā gāthāyo pariyāpuṇi
 
 > Asantā kira maṁ jammā, tāta tātāti bhāsare; Rakkhasā puttarūpena, te jahanti vayogataṁ.
 
-### 7.15 Mānatthaddhasutta
+### 7.15 Mānatthaddhasutta {#15}
 
 Sāvatthinidānaṁ.
 
@@ -418,7 +418,7 @@ Atha kho sā parisā abbhutavittajātā ahosi: “acchariyaṁ vata bho, abbhuta
 
 Evaṁ vutte, mānatthaddho brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-### 7.16 Paccanīkasutta
+### 7.16 Paccanīkasutta {#16}
 
 Sāvatthinidānaṁ.
 
@@ -436,7 +436,7 @@ Atha kho paccanīkasāto brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkami
 
 Evaṁ vutte, paccanīkasāto brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-### 7.17 Navakammikasutta
+### 7.17 Navakammikasutta {#17}
 
 Ekaṁ samayaṁ bhagavā kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -452,7 +452,7 @@ Atha kho navakammikabhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami. upas
 
 Evaṁ vutte, navakammikabhāradvājo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-### 7.18 Kaṭṭhahārasutta
+### 7.18 Kaṭṭhahārasutta {#18}
 
 Ekaṁ samayaṁ bhagavā kosalesu viharati aññatarasmiṁ vanasaṇḍe.
 
@@ -474,7 +474,7 @@ Disvāna yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ gāthāya
 
 Evaṁ vutte, bhāradvājagotto brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe… ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-### 7.19 Mātuposakasutta
+### 7.19 Mātuposakasutta {#19}
 
 Sāvatthinidānaṁ.
 
@@ -488,7 +488,7 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 Evaṁ vutte, mātuposako brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-### 7.20 Bhikkhakasutta
+### 7.20 Bhikkhakasutta {#20}
 
 Sāvatthinidānaṁ.
 
@@ -502,7 +502,7 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 Evaṁ vutte, bhikkhako brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-### 7.21 Saṅgāravasutta
+### 7.21 Saṅgāravasutta {#21}
 
 Sāvatthinidānaṁ.
 
@@ -524,7 +524,7 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 Evaṁ vutte, saṅgāravo brāhmaṇo bhagavantaṁ etadavoca: “abhikkantaṁ, bho gotama, abhikkantaṁ, bho gotama …pe… upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-### 7.22 Khomadussasutta
+### 7.22 Khomadussasutta {#22}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sakkesu viharati khomadussaṁ nāmaṁ sakyānaṁ nigamo.
 

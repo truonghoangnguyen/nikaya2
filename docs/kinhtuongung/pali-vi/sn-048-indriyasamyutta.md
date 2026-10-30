@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 48.1
 
-### 48.1 Suddhikasutta
+### 48.1 Suddhikasutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -12,31 +12,31 @@ Tatra kho bhagavā etadavoca.
 
 Paṭhamaṁ.
 
-### 48.2 Paṭhamasotāpannasutta
+### 48.2 Paṭhamasotāpannasutta {#2}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ. Yato kho, bhikkhave, ariyasāvako imesaṁ pañcannaṁ indriyānaṁ assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo”ti.
 
 Dutiyaṁ.
 
-### 48.3 Dutiyasotāpannasutta
+### 48.3 Dutiyasotāpannasutta {#3}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ. Yato kho, bhikkhave, ariyasāvako imesaṁ pañcannaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo”ti.
 
 Tatiyaṁ.
 
-### 48.4 Paṭhamaarahantasutta
+### 48.4 Paṭhamaarahantasutta {#4}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ. Yato kho, bhikkhave, ariyasāvako imesaṁ pañcannaṁ indriyānaṁ assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti—ayaṁ vuccati, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto”ti.
 
 Catutthaṁ.
 
-### 48.5 Dutiyaarahantasutta
+### 48.5 Dutiyaarahantasutta {#5}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ. Yato kho, bhikkhave, bhikkhu imesaṁ pañcannaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti—ayaṁ vuccati, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto”ti.
 
 Pañcamaṁ.
 
-### 48.6 Paṭhamasamaṇabrāhmaṇasutta
+### 48.6 Paṭhamasamaṇabrāhmaṇasutta {#6}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ.
 
@@ -46,7 +46,7 @@ Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṁ pañcannaṁ 
 
 Chaṭṭhaṁ.
 
-### 48.7 Dutiyasamaṇabrāhmaṇasutta
+### 48.7 Dutiyasamaṇabrāhmaṇasutta {#7}
 
 “Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā saddhindriyaṁ nappajānanti, saddhindriyasamudayaṁ nappajānanti, saddhindriyanirodhaṁ nappajānanti, saddhindriyanirodhagāminiṁ paṭipadaṁ nappajānanti; vīriyindriyaṁ nappajānanti …pe… satindriyaṁ nappajānanti …pe… samādhindriyaṁ nappajānanti …pe… paññindriyaṁ nappajānanti, paññindriyasamudayaṁ nappajānanti, paññindriyanirodhaṁ nappajānanti, paññindriyanirodhagāminiṁ paṭipadaṁ nappajānanti, na me te, bhikkhave, samaṇā vā brāhmaṇā vā samaṇesu vā samaṇasammatā brāhmaṇesu vā brāhmaṇasammatā, na ca panete āyasmanto sāmaññatthaṁ vā brahmaññatthaṁ vā diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharanti.
 
@@ -54,7 +54,7 @@ Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā saddhindriyaṁ pajān
 
 Sattamaṁ.
 
-### 48.8 Daṭṭhabbasutta
+### 48.8 Daṭṭhabbasutta {#8}
 
 “Pañcimāni, bhikkhave, indriyāni. Kattha ca, bhikkhave, satindriyaṁ daṭṭhabbaṁ? Catūsu satipaṭṭhānesu—ettha satindriyaṁ daṭṭhabbaṁ.
 
@@ -72,7 +72,7 @@ Kattha ca, bhikkhave, saddhindriyaṁ daṭṭhabbaṁ? Catūsu sotāpattiyaṅg
 
 Kattha ca, bhikkhave, vīriyindriyaṁ daṭṭhabbaṁ? Catūsu sammappadhānesu—ettha vīriyindriyaṁ daṭṭhabbaṁ.
 
-### 48.9 Paṭhamavibhaṅgasutta
+### 48.9 Paṭhamavibhaṅgasutta {#9}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ.
 
@@ -90,7 +90,7 @@ Imāni kho, bhikkhave, pañcindriyānī”ti.
 
 Navamaṁ.
 
-### 48.10 Dutiyavibhaṅgasutta
+### 48.10 Dutiyavibhaṅgasutta {#10}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ.
 
@@ -114,7 +114,7 @@ Tassuddānaṁ
 
 > Suddhikañceva dve sotā, arahantā apare duve; Samaṇabrāhmaṇā daṭṭhabbaṁ, vibhaṅgā apare duveti.
 
-### 48.11 Paṭilābhasutta
+### 48.11 Paṭilābhasutta {#11}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ …pe….
 
@@ -132,7 +132,7 @@ Imāni kho, bhikkhave, pañcindriyānī”ti.
 
 Paṭhamaṁ.
 
-### 48.12 Paṭhamasaṅkhittasutta
+### 48.12 Paṭhamasaṅkhittasutta {#12}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -140,7 +140,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā araha
 
 Dutiyaṁ.
 
-### 48.13 Dutiyasaṅkhittasutta
+### 48.13 Dutiyasaṅkhittasutta {#13}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -150,7 +150,7 @@ Iti kho, bhikkhave, indriyavemattatā phalavemattatā hoti, phalavemattatā pugg
 
 Tatiyaṁ.
 
-### 48.14 Tatiyasaṅkhittasutta
+### 48.14 Tatiyasaṅkhittasutta {#14}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -160,7 +160,7 @@ Iti kho, bhikkhave, paripūraṁ paripūrakārī ārādheti, padesaṁ padesakā
 
 Catutthaṁ.
 
-### 48.15 Paṭhamavitthārasutta
+### 48.15 Paṭhamavitthārasutta {#15}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -168,7 +168,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā araha
 
 Pañcamaṁ.
 
-### 48.16 Dutiyavitthārasutta
+### 48.16 Dutiyavitthārasutta {#16}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -178,7 +178,7 @@ Iti kho, bhikkhave, indriyavemattatā phalavemattatā hoti, phalavemattatā pugg
 
 Chaṭṭhaṁ.
 
-### 48.17 Tatiyavitthārasutta
+### 48.17 Tatiyavitthārasutta {#17}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -188,7 +188,7 @@ Iti kho, bhikkhave, paripūraṁ paripūrakārī ārādheti, padesaṁ padesakā
 
 Sattamaṁ.
 
-### 48.18 Paṭipannasutta
+### 48.18 Paṭipannasutta {#18}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -196,7 +196,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā araha
 
 Aṭṭhamaṁ.
 
-### 48.19 Sampannasutta
+### 48.19 Sampannasutta {#19}
 
 Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -206,7 +206,7 @@ Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā bhag
 
 Navamaṁ.
 
-### 48.20 Āsavakkhayasutta
+### 48.20 Āsavakkhayasutta {#20}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -220,7 +220,7 @@ Tassuddānaṁ
 
 > Paṭilābho tayo saṅkhittā, vitthārā apare tayo; Paṭipanno ca sampanno, dasamaṁ āsavakkhayanti.
 
-### 48.21 Punabbhavasutta
+### 48.21 Punabbhavasutta {#21}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ. Yāvakīvañcāhaṁ, bhikkhave, imesaṁ pañcannaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nābbhaññāsiṁ, neva tāvāhaṁ, bhikkhave, sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya ‘anuttaraṁ sammāsambodhiṁ abhisambuddho’ti paccaññāsiṁ.
 
@@ -230,19 +230,19 @@ Yato ca khvāhaṁ, bhikkhave, imesaṁ pañcannaṁ indriyānaṁ samudayañca 
 
 Paṭhamaṁ.
 
-### 48.22 Jīvitindriyasutta
+### 48.22 Jīvitindriyasutta {#22}
 
 “Tīṇimāni, bhikkhave, indriyāni. Katamāni tīṇi? Itthindriyaṁ, purisindriyaṁ, jīvitindriyaṁ—imāni kho, bhikkhave, tīṇi indriyānī”ti.
 
 Dutiyaṁ.
 
-### 48.23 Aññindriyasutta
+### 48.23 Aññindriyasutta {#23}
 
 “Tīṇimāni, bhikkhave, indriyāni. Katamāni tīṇi? Anaññātaññassāmītindriyaṁ, aññindriyaṁ, aññātāvindriyaṁ—imāni kho, bhikkhave, tīṇi indriyānī”ti.
 
 Tatiyaṁ.
 
-### 48.24 Ekabījīsutta
+### 48.24 Ekabījīsutta {#24}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -250,19 +250,19 @@ Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ samattā paripūrattā araha
 
 Catutthaṁ.
 
-### 48.25 Suddhakasutta
+### 48.25 Suddhakasutta {#25}
 
 “Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ, manindriyaṁ—imāni kho, bhikkhave, cha indriyānī”ti.
 
 Pañcamaṁ.
 
-### 48.26 Sotāpannasutta
+### 48.26 Sotāpannasutta {#26}
 
 “Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṁ …pe… manindriyaṁ. Yato kho, bhikkhave, ariyasāvako imesaṁ channaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo”ti.
 
 Chaṭṭhaṁ.
 
-### 48.27 Arahantasutta
+### 48.27 Arahantasutta {#27}
 
 “Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ, manindriyaṁ. Yato kho, bhikkhave, bhikkhu imesaṁ channaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti—
 
@@ -270,7 +270,7 @@ ayaṁ vuccati, bhikkhave, ‘bhikkhu arahaṁ khīṇāsavo vusitavā katakara�
 
 Sattamaṁ.
 
-### 48.28 Sambuddhasutta
+### 48.28 Sambuddhasutta {#28}
 
 “Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ, manindriyaṁ.
 
@@ -282,7 +282,7 @@ Yato ca khvāhaṁ, bhikkhave, imesaṁ channaṁ indriyānaṁ samudayañca att
 
 Aṭṭhamaṁ.
 
-### 48.29 Paṭhamasamaṇabrāhmaṇasutta
+### 48.29 Paṭhamasamaṇabrāhmaṇasutta {#29}
 
 “Chayimāni, bhikkhave, indriyāni. Katamāni cha? Cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ, manindriyaṁ.
 
@@ -292,7 +292,7 @@ Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṁ channaṁ ind
 
 Navamaṁ.
 
-### 48.30 Dutiyasamaṇabrāhmaṇasutta
+### 48.30 Dutiyasamaṇabrāhmaṇasutta {#30}
 
 “Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā cakkhundriyaṁ nappajānanti, cakkhundriyasamudayaṁ nappajānanti, cakkhundriyanirodhaṁ nappajānanti, cakkhundriyanirodhagāminiṁ paṭipadaṁ nappajānanti; sotindriyaṁ …pe… ghānindriyaṁ …pe… jivhindriyaṁ …pe… kāyindriyaṁ …pe… manindriyaṁ nappajānanti, manindriyasamudayaṁ nappajānanti, manindriyanirodhaṁ nappajānanti, manindriyanirodhagāminiṁ paṭipadaṁ nappajānanti. Na me te, bhikkhave …pe… sayaṁ abhiññā sacchikatvā upasampajja viharanti.
 
@@ -306,19 +306,19 @@ Tassuddānaṁ
 
 > Punabbhavo jīvitaññāya, ekabījī ca suddhakaṁ; Soto arahasambuddho, dve ca samaṇabrāhmaṇāti.
 
-### 48.31 Suddhikasutta
+### 48.31 Suddhikasutta {#31}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ—imāni kho, bhikkhave, pañcindriyānī”ti.
 
 Paṭhamaṁ.
 
-### 48.32 Sotāpannasutta
+### 48.32 Sotāpannasutta {#32}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ. Yato kho, bhikkhave, ariyasāvako imesaṁ pañcannaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti—ayaṁ vuccati, bhikkhave, ariyasāvako sotāpanno avinipātadhammo niyato sambodhiparāyaṇo”ti.
 
 Dutiyaṁ.
 
-### 48.33 Arahantasutta
+### 48.33 Arahantasutta {#33}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ. Yato kho, bhikkhave, bhikkhu imesaṁ pañcannaṁ indriyānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ viditvā anupādāvimutto hoti—
 
@@ -326,7 +326,7 @@ ayaṁ vuccati, bhikkhave, bhikkhu arahaṁ khīṇāsavo vusitavā katakaraṇ�
 
 Tatiyaṁ.
 
-### 48.34 Paṭhamasamaṇabrāhmaṇasutta
+### 48.34 Paṭhamasamaṇabrāhmaṇasutta {#34}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ.
 
@@ -336,7 +336,7 @@ Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā imesaṁ pañcannaṁ 
 
 Catutthaṁ.
 
-### 48.35 Dutiyasamaṇabrāhmaṇasutta
+### 48.35 Dutiyasamaṇabrāhmaṇasutta {#35}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ.
 
@@ -346,7 +346,7 @@ Ye ca kho keci, bhikkhave, samaṇā vā brāhmaṇā vā sukhindriyaṁ pajāna
 
 Pañcamaṁ.
 
-### 48.36 Paṭhamavibhaṅgasutta
+### 48.36 Paṭhamavibhaṅgasutta {#36}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ.
 
@@ -364,7 +364,7 @@ Imāni kho, bhikkhave, pañcindriyānī”ti.
 
 Chaṭṭhaṁ.
 
-### 48.37 Dutiyavibhaṅgasutta
+### 48.37 Dutiyavibhaṅgasutta {#37}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ.
 
@@ -384,7 +384,7 @@ Imāni kho, bhikkhave, pañcindriyānī”ti.
 
 Sattamaṁ.
 
-### 48.38 Tatiyavibhaṅgasutta
+### 48.38 Tatiyavibhaṅgasutta {#38}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ.
 
@@ -404,7 +404,7 @@ Iti kho, bhikkhave, imāni pañcindriyāni pañca hutvā tīṇi honti, tīṇi 
 
 Aṭṭhamaṁ.
 
-### 48.39 Kaṭṭhopamasutta
+### 48.39 Kaṭṭhopamasutta {#39}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Sukhindriyaṁ, dukkhindriyaṁ, somanassindriyaṁ, domanassindriyaṁ, upekkhindriyaṁ.
 
@@ -426,7 +426,7 @@ Dukkhavedaniyaṁ, bhikkhave, phassaṁ paṭicca …pe… somanassavedaniyaṁ,
 
 Navamaṁ.
 
-### 48.40 Uppaṭipāṭikasutta
+### 48.40 Uppaṭipāṭikasutta {#40}
 
 “Pañcimāni, bhikkhave, indriyāni. Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati, ettha cuppannaṁ dukkhindriyaṁ aparisesaṁ nirujjhati. Ayaṁ vuccati, bhikkhave, ‘bhikkhu aññāsi dukkhindriyassa nirodhaṁ, tadatthāya cittaṁ upasaṁharati’.
 
@@ -448,7 +448,7 @@ Tassuddānaṁ
 
 > Suddhikañca soto arahā, duve samaṇabrāhmaṇā; Vibhaṅgena tayo vuttā, kaṭṭho uppaṭipāṭikanti.
 
-### 48.41 Jarādhammasutta
+### 48.41 Jarādhammasutta {#41}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde. Tena kho pana samayena bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito pacchātape nisinno hoti piṭṭhiṁ otāpayamāno.
 
@@ -466,7 +466,7 @@ Idamavoca bhagavā. Idaṁ vatvā ca sugato athāparaṁ etadavoca satthā:
 
 Paṭhamaṁ.
 
-### 48.42 Uṇṇābhabrāhmaṇasutta
+### 48.42 Uṇṇābhabrāhmaṇasutta {#42}
 
 Sāvatthinidānaṁ.
 
@@ -502,7 +502,7 @@ Atha kho bhagavā acirapakkante uṇṇābhe brāhmaṇe bhikkhū āmantesi: “
 
 Dutiyaṁ.
 
-### 48.43 Sāketasutta
+### 48.43 Sāketasutta {#43}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sākete viharati añjanavane migadāye. Tatra kho bhagavā bhikkhū āmantesi: “atthi nu kho, bhikkhave, pariyāyo yaṁ pariyāyaṁ āgamma yāni pañcindriyāni tāni pañca balāni honti, yāni pañca balāni tāni pañcindriyāni hontī”ti?
 
@@ -524,7 +524,7 @@ Evameva kho, bhikkhave, yaṁ saddhindriyaṁ taṁ saddhābalaṁ, yaṁ saddh�
 
 Pañcannaṁ, bhikkhave, indriyānaṁ bhāvitattā bahulīkatattā bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti.
 
-### 48.44 Pubbakoṭṭhakasutta
+### 48.44 Pubbakoṭṭhakasutta {#44}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbakoṭṭhake. Tatra kho bhagavā āyasmantaṁ sāriputtaṁ āmantesi:
 
@@ -536,7 +536,7 @@ Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbakoṭ
 
 Catutthaṁ.
 
-### 48.45 Paṭhamapubbārāmasutta
+### 48.45 Paṭhamapubbārāmasutta {#45}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde. Tatra kho bhagavā bhikkhū āmantesi: “katinaṁ nu kho, bhikkhave, indriyānaṁ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṁ byākaroti: ‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāmī”ti?
 
@@ -546,7 +546,7 @@ Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārām
 
 Pañcamaṁ.
 
-### 48.46 Dutiyapubbārāmasutta
+### 48.46 Dutiyapubbārāmasutta {#46}
 
 Taṁyeva nidānaṁ.
 
@@ -560,7 +560,7 @@ Chaṭṭhaṁ.
 
 Imesaṁ kho, bhikkhave, dvinnaṁ indriyānaṁ bhāvitattā bahulīkatattā khīṇāsavo bhikkhu aññaṁ byākaroti: ‘khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānāmī”ti.
 
-### 48.47 Tatiyapubbārāmasutta
+### 48.47 Tatiyapubbārāmasutta {#47}
 
 Taṁyeva nidānaṁ.
 
@@ -574,7 +574,7 @@ Imesaṁ kho, bhikkhave, catunnaṁ indriyānaṁ bhāvitattā bahulīkatattā k
 
 Sattamaṁ.
 
-### 48.48 Catutthapubbārāmasutta
+### 48.48 Catutthapubbārāmasutta {#48}
 
 Taṁyeva nidānaṁ.
 
@@ -588,7 +588,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ bhāvitattā bahulīkatattā
 
 Aṭṭhamaṁ.
 
-### 48.49 Piṇḍolabhāradvājasutta
+### 48.49 Piṇḍolabhāradvājasutta {#49}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kosambiyaṁ viharati ghositārāme.
 
@@ -610,7 +610,7 @@ Imesaṁ kho, bhikkhave, tiṇṇannaṁ indriyānaṁ bhāvitattā bahulīkatat
 
 Imāni ca, bhikkhave, tīṇindriyāni kimantāni? Khayantāni. Kissa khayantāni?
 
-### 48.50 Āpaṇasutta
+### 48.50 Āpaṇasutta {#50}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā aṅgesu viharati āpaṇaṁ nāma aṅgānaṁ nigamo. Tatra kho bhagavā āyasmantaṁ sāriputtaṁ āmantesi:
 
@@ -650,7 +650,7 @@ Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa etaṁ pāṭikaṅ
 
 Saddhassa hi, sāriputta, ariyasāvakassa āraddhavīriyassa upaṭṭhitassatino etaṁ pāṭikaṅkhaṁ yaṁ vossaggārammaṇaṁ karitvā labhissati samādhiṁ, labhissati cittassa ekaggataṁ. Yo hissa, sāriputta, samādhi tadassa samādhindriyaṁ.
 
-### 48.51 Sālasutta
+### 48.51 Sālasutta {#51}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kosalesu viharati sālāya brāhmaṇagāme. Tatra kho bhagavā bhikkhū āmantesi: “seyyathāpi, bhikkhave, ye keci tiracchānagatā pāṇā, sīho migarājā tesaṁ aggamakkhāyati, yadidaṁ—thāmena javena sūrena; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāya.
 
@@ -658,7 +658,7 @@ Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṁ, bhikkhave, bodhip
 
 Paṭhamaṁ.
 
-### 48.52 Mallikasutta
+### 48.52 Mallikasutta {#52}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā mallesu viharati uruvelakappaṁ nāma mallānaṁ nigamo. Tatra kho bhagavā bhikkhū āmantesi:
 
@@ -672,7 +672,7 @@ Katamesaṁ catunnaṁ? Saddhindriyassa, vīriyindriyassa, satindriyassa, samād
 
 Dutiyaṁ.
 
-### 48.53 Sekhasutta
+### 48.53 Sekhasutta {#53}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā kosambiyaṁ viharati ghositārāme. Tatra kho bhagavā bhikkhū āmantesi: “atthi nu kho, bhikkhave, pariyāyo yaṁ pariyāyaṁ āgamma sekho bhikkhu sekhabhūmiyaṁ ṭhito ‘sekhosmī’ti pajāneyya, asekho bhikkhu asekhabhūmiyaṁ ṭhito ‘asekhosmī’ti pajāneyyā”ti?
 
@@ -692,7 +692,7 @@ Puna caparaṁ, bhikkhave, asekho bhikkhu cha indriyāni pajānāti. ‘Cakkhund
 
 Tatiyaṁ.
 
-### 48.54 Padasutta
+### 48.54 Padasutta {#54}
 
 “Seyyathāpi, bhikkhave, yāni kānici jaṅgalānaṁ pāṇānaṁ padajātāni sabbāni tāni hatthipade samodhānaṁ gacchanti, hatthipadaṁ tesaṁ aggamakkhāyati, yadidaṁ—mahantattena; evameva kho, bhikkhave, yāni kānici padāni bodhāya saṁvattanti, paññindriyaṁ padaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāyā”ti.
 
@@ -704,7 +704,7 @@ Katamāni ca, bhikkhave, padāni bodhāya saṁvattanti? Saddhindriyaṁ, bhikkh
 
 Seyyathāpi, bhikkhave, yāni kānici jaṅgalānaṁ pāṇānaṁ padajātāni sabbāni tāni hatthipade samodhānaṁ gacchanti, hatthipadaṁ tesaṁ aggamakkhāyati, yadidaṁ—mahantattena;
 
-### 48.55 Sārasutta
+### 48.55 Sārasutta {#55}
 
 “Seyyathāpi, bhikkhave, ye keci sāragandhā, lohitacandanaṁ tesaṁ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāyā”ti.
 
@@ -716,7 +716,7 @@ Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṁ, bhikkhave, bodhip
 
 Seyyathāpi, bhikkhave, ye keci sāragandhā, lohitacandanaṁ tesaṁ aggamakkhāyati;
 
-### 48.56 Patiṭṭhitasutta
+### 48.56 Patiṭṭhitasutta {#56}
 
 “Ekadhamme patiṭṭhitassa, bhikkhave, bhikkhuno pañcindriyāni bhāvitāni honti subhāvitāni. Paññindriyampi bhāvanāpāripūriṁ gacchati. Evampi kho, bhikkhave, ekadhamme patiṭṭhitassa bhikkhuno pañcindriyāni bhāvitāni honti subhāvitānī”ti.
 
@@ -724,7 +724,7 @@ Chaṭṭhaṁ.
 
 Katamasmiṁ ekadhamme? Appamāde. Katamo ca bhikkhave, appamādo? Idha, bhikkhave, bhikkhu cittaṁ rakkhati āsavesu ca sāsavesu ca dhammesu. Tassa cittaṁ rakkhato āsavesu ca sāsavesu ca dhammesu saddhindriyampi bhāvanāpāripūriṁ gacchati. Vīriyindriyampi bhāvanāpāripūriṁ gacchati. Satindriyampi bhāvanāpāripūriṁ gacchati. Samādhindriyampi bhāvanāpāripūriṁ gacchati.
 
-### 48.57 Sahampatibrahmasutta
+### 48.57 Sahampatibrahmasutta {#57}
 
 Ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhe paṭhamābhisambuddho.
 
@@ -740,7 +740,7 @@ Evametaṁ, bhagavā, evametaṁ sugata. Ahametaṁ jānāmi, ahametaṁ passām
 
 Sattamaṁ.
 
-### 48.58 Sūkarakhatasutta
+### 48.58 Sūkarakhatasutta {#58}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate sūkarakhatāyaṁ. Tatra kho bhagavā āyasmantaṁ sāriputtaṁ āmantesi:
 
@@ -764,7 +764,7 @@ Katamo ca, sāriputta, paramanipaccakāro yaṁ khīṇāsavo bhikkhu tathāgate
 
 Aṭṭhamaṁ.
 
-### 48.59 Paṭhamauppādasutta
+### 48.59 Paṭhamauppādasutta {#59}
 
 Sāvatthinidānaṁ.
 
@@ -772,7 +772,7 @@ Sāvatthinidānaṁ.
 
 Navamaṁ.
 
-### 48.60 Dutiyauppādasutta
+### 48.60 Dutiyauppādasutta {#60}
 
 “Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra sugatavinayā. Katamāni pañca? Saddhindriyaṁ, vīriyindriyaṁ, satindriyaṁ, samādhindriyaṁ, paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni anuppannāni uppajjanti, nāññatra sugatavinayā”ti.
 
@@ -784,7 +784,7 @@ Tassuddānaṁ
 
 > Sālaṁ mallikaṁ sekho ca, padaṁ sāraṁ patiṭṭhitaṁ; Brahmasūkarakhatāyo, uppādā apare duveti.
 
-### 48.61 Saṁyojanasutta
+### 48.61 Saṁyojanasutta {#61}
 
 Sāvatthinidānaṁ.
 
@@ -792,19 +792,19 @@ Sāvatthinidānaṁ.
 
 Paṭhamaṁ.
 
-### 48.62 Anusayasutta
+### 48.62 Anusayasutta {#62}
 
 “Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni anusayasamugghātāya saṁvattanti. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni anusayasamugghātāya saṁvattantī”ti.
 
 Dutiyaṁ.
 
-### 48.63 Pariññāsutta
+### 48.63 Pariññāsutta {#63}
 
 “Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni addhānapariññāya saṁvattanti. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni addhānapariññāya saṁvattantī”ti.
 
 Tatiyaṁ.
 
-### 48.64 Āsavakkhayasutta
+### 48.64 Āsavakkhayasutta {#64}
 
 “Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni āsavānaṁ khayāya saṁvattanti. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni bhāvitāni bahulīkatāni āsavānaṁ khayāya saṁvattantīti.
 
@@ -812,7 +812,7 @@ Pañcimāni, bhikkhave, indriyāni bhāvitāni bahulīkatāni saṁyojanappahān
 
 Catutthaṁ.
 
-### 48.65 Paṭhamaphalasutta
+### 48.65 Paṭhamaphalasutta {#65}
 
 “Pañcimāni, bhikkhave, indriyāni. Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkhave, pañcindriyāni.
 
@@ -820,7 +820,7 @@ Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ bhāvitattā bahulīkatattā
 
 Pañcamaṁ.
 
-### 48.66 Dutiyaphalasutta
+### 48.66 Dutiyaphalasutta {#66}
 
 “Pañcimāni, bhikkhave, indriyāni. upahaccaparinibbāyī hoti, asaṅkhāraparinibbāyī hoti, sasaṅkhāraparinibbāyī hoti, uddhaṁsoto hoti akaniṭṭhagāmī.
 
@@ -832,7 +832,7 @@ Katamāni pañca? Saddhindriyaṁ …pe… paññindriyaṁ—imāni kho, bhikkh
 
 Imesaṁ kho, bhikkhave, pañcannaṁ indriyānaṁ bhāvitattā bahulīkatattā satta phalā sattānisaṁsā pāṭikaṅkhā. Katame satta phalā sattānisaṁsā? Diṭṭheva dhamme paṭikacca aññaṁ ārādheti, no ce diṭṭheva dhamme paṭikacca aññaṁ ārādheti, atha maraṇakāle aññaṁ ārādheti. No ce diṭṭheva dhamme aññaṁ ārādheti, no ce maraṇakāle aññaṁ ārādheti, atha pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā antarāparinibbāyī hoti,
 
-### 48.67 Paṭhamarukkhasutta
+### 48.67 Paṭhamarukkhasutta {#67}
 
 “Seyyathāpi, bhikkhave, ye keci jambudīpakā rukkhā, jambū tesaṁ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāyā”ti.
 
@@ -840,7 +840,7 @@ Sattamaṁ.
 
 evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāya. Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṁ, bhikkhave, bodhipakkhiyo dhammo, taṁ bodhāya saṁvattati. Vīriyindriyaṁ …pe… satindriyaṁ … samādhindriyaṁ … paññindriyaṁ bodhipakkhiyo dhammo, taṁ bodhāya saṁvattati. Seyyathāpi, bhikkhave, ye keci jambudīpakā rukkhā, jambū tesaṁ aggamakkhāyati;
 
-### 48.68 Dutiyarukkhasutta
+### 48.68 Dutiyarukkhasutta {#68}
 
 “Seyyathāpi, bhikkhave, ye keci devānaṁ tāvatiṁsānaṁ rukkhā, pārichattako tesaṁ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāyā”ti.
 
@@ -852,13 +852,13 @@ Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṁ, bhikkhave, bodhip
 
 Seyyathāpi, bhikkhave, ye keci devānaṁ tāvatiṁsānaṁ rukkhā, pārichattako tesaṁ aggamakkhāyati;
 
-### 48.69 Tatiyarukkhasutta
+### 48.69 Tatiyarukkhasutta {#69}
 
 “Seyyathāpi, bhikkhave, ye keci asurānaṁ rukkhā, cittapāṭali tesaṁ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāya. Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṁ, bhikkhave, bodhipakkhiyo dhammo, taṁ bodhāya saṁvattati …pe… paññindriyaṁ bodhipakkhiyo dhammo, taṁ bodhāya saṁvattati. Seyyathāpi, bhikkhave, ye keci asurānaṁ rukkhā, cittapāṭali tesaṁ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāyā”ti.
 
 Navamaṁ.
 
-### 48.70 Catuttharukkhasutta
+### 48.70 Catuttharukkhasutta {#70}
 
 “Seyyathāpi, bhikkhave, ye keci supaṇṇānaṁ rukkhā, kūṭasimbalī tesaṁ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāya. Katame ca, bhikkhave, bodhipakkhiyā dhammā? Saddhindriyaṁ, bhikkhave, bodhipakkhiyo dhammo, taṁ bodhāya saṁvattati …pe… paññindriyaṁ bodhipakkhiyo dhammo, taṁ bodhāya saṁvattati. Seyyathāpi, bhikkhave, ye keci supaṇṇānaṁ rukkhā, kūṭasimbalī tesaṁ aggamakkhāyati; evameva kho, bhikkhave, ye keci bodhipakkhiyā dhammā, paññindriyaṁ tesaṁ aggamakkhāyati, yadidaṁ—bodhāyā”ti.
 

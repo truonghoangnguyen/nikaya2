@@ -132,3 +132,27 @@ Dùng gemini argon 4
 
 ### date 2026-10-24
 MN 100 Có lẽ mình đã tìm ra cách liên hệ trạng thái vào thiền 1 đó chính là khúc gỗ khô + không ở dưới nước = ly dục + ly ác pháp
+
+### date 2026-10-26
+Suy nghĩ về 'thức' và 'tưởng'. 'Thức là nguồn, đầu vào của thông tin'. 'Tưởng là sự suy nghĩ, tư duy, lập kế hoạch, tính toán, tưởng tượng, hình dung...'
+1. 5 giác quan làm nguồn cho suy nghĩ
+Cakkhu-viññāṇa (Nhãn thức) -  Rūpa-saññā (Sắc tưởng)
+(đối tượng thông tin đến từ mắt)
+...
+2. khó hiểu là theo kinh, thì não cũng được xem là giác quan tạo ra nguồn (nguyên liệu) để suy nghĩ:
+Mano-viññāṇa (Ý thức) - Dhamma-saññā (Pháp tưởng)
+(đối tượng thông tin đến từ suy nghĩ)
+
+#### Thức:
+- Viññāṇañcāyatana (Thức vô biên xứ)
+- 7 Thức trú (Satta viññāṇaṭṭhitiyo)
+- Viññāṇa-paccayā nāmarūpaṁ (Thức duyên Danh Sắc/ thức nhờ Danh Sắc mà sinh ra)
+- Viññāṇa-sota (Thức lưu / Dòng chảy của thức): Dòng nhận thức nối tiếp liên tục từ đời này sang đời khác. (đây là 'cái' đi xuyên qua các kiếp sống)
+
+#### Tưởng:
+- Saññā-nānatta (Tưởng sai biệt): suy nghĩ về sự đa dạng và khác biệt giữa các đối tượng (não trái chia mọi thứ ra )
+- Saññā-vedayita-nirodha (Diệt thọ tưởng định): Trạng thái định cao nhất mà ở đó cả Tưởng và cảm thọ đều ngưng hoạt động (không có 'diệt thọ thức định' ?)
+- Kāma-saññā (Dục tưởng -  hướng về ham muốn giác quan)
+- Byāpāda-saññā (Sân tưởng / Ác ý tưởng - tưởng về sự giận dữ, chống đối)
+- Vihiṁsā-saññā (Hại tưởng - tưởng về sự bạo lực, tàn hại)
+- Nevasaññānāsaññāyatana (Phi tưởng phi phi tưởng xứ)

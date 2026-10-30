@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 40.1
 
-### 40.1 Paṭhamajhānapañhāsutta
+### 40.1 Paṭhamajhānapañhāsutta {#1}
 
 Ekaṁ samayaṁ āyasmā mahāmoggallāno sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi: “āvuso bhikkhave”ti.
 
@@ -20,7 +20,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārānuggahito sāvako m
 
 Paṭhamaṁ.
 
-### 40.2 Dutiyajhānapañhāsutta
+### 40.2 Dutiyajhānapañhāsutta {#2}
 
 “‘Dutiyaṁ jhānaṁ, dutiyaṁ jhānan’ti vuccati. Katamaṁ nu kho dutiyaṁ jhānanti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. Idaṁ vuccati dutiyaṁ jhānan’ti.
 
@@ -34,7 +34,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārānuggahito sāvako m
 
 Dutiyaṁ.
 
-### 40.3 Tatiyajhānapañhāsutta
+### 40.3 Tatiyajhānapañhāsutta {#3}
 
 “‘Tatiyaṁ jhānaṁ, tatiyaṁ jhānan’ti vuccati. Katamaṁ nu kho tatiyaṁ jhānanti? Tassa mayhaṁ, āvuso, etadahosi—idha bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati. Idaṁ vuccati tatiyaṁ jhānanti.
 
@@ -46,7 +46,7 @@ So khvāhaṁ, āvuso, aparena samayena pītiyā ca virāgā upekkhako ca vihar�
 
 Tatiyaṁ.
 
-### 40.4 Catutthajhānapañhāsutta
+### 40.4 Catutthajhānapañhāsutta {#4}
 
 “‘Catutthaṁ jhānaṁ, catutthaṁ jhānan’ti vuccati. Katamaṁ nu kho catutthaṁ jhānanti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. Idaṁ vuccati catutthaṁ jhānan’ti.
 
@@ -60,7 +60,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Catutthaṁ.
 
-### 40.5 Ākāsānañcāyatanapañhāsutta
+### 40.5 Ākāsānañcāyatanapañhāsutta {#5}
 
 “‘Ākāsānañcāyatanaṁ, ākāsānañcāyatanan’ti vuccati. Katamaṁ nu kho ākāsānañcāyatananti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ananto ākāsoti ākāsānañcāyatanaṁ upasampajja viharati. Idaṁ vuccati ākāsānañcāyatanan’ti.
 
@@ -74,7 +74,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Pañcamaṁ.
 
-### 40.6 Viññāṇañcāyatanapañhāsutta
+### 40.6 Viññāṇañcāyatanapañhāsutta {#6}
 
 “‘Viññāṇañcāyatanaṁ, viññāṇañcāyatanan’ti vuccati. Katamaṁ nu kho viññāṇañcāyatananti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma anantaṁ viññāṇanti viññāṇañcāyatanaṁ upasampajja viharati. Idaṁ vuccati viññāṇañcāyatanan’ti.
 
@@ -88,7 +88,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Chaṭṭhaṁ.
 
-### 40.7 Ākiñcaññāyatanapañhāsutta
+### 40.7 Ākiñcaññāyatanapañhāsutta {#7}
 
 “‘Ākiñcaññāyatanaṁ, ākiñcaññāyatanan’ti vuccati. Katamaṁ nu kho ākiñcaññāyatananti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma natthi kiñcīti ākiñcaññāyatanaṁ upasampajja viharati. Idaṁ vuccati ākiñcaññāyatanan’ti.
 
@@ -102,7 +102,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Sattamaṁ.
 
-### 40.8 Nevasaññānāsaññāyatanapañhāsutta
+### 40.8 Nevasaññānāsaññāyatanapañhāsutta {#8}
 
 “‘Nevasaññānāsaññāyatanaṁ, nevasaññānāsaññāyatanan’ti vuccati. Katamaṁ nu kho nevasaññānāsaññāyatananti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati. Idaṁ vuccati nevasaññānāsaññāyatanan’ti.
 
@@ -116,7 +116,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Aṭṭhamaṁ.
 
-### 40.9 Animittapañhāsutta
+### 40.9 Animittapañhāsutta {#9}
 
 “‘Animitto cetosamādhi, animitto cetosamādhī’ti vuccati. Katamo nu kho animitto cetosamādhīti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. Ayaṁ vuccati animitto cetosamādhī’ti.
 
@@ -130,7 +130,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārānuggahito sāvako m
 
 Navamaṁ.
 
-### 40.10 Sakkasutta
+### 40.10 Sakkasutta {#10}
 
 Atha kho āyasmā mahāmoggallāno—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—jetavane antarahito devesu tāvatiṁsesu pāturahosi. Atha kho sakko devānamindo pañcahi devatāsatehi saddhiṁ yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho sakkaṁ devānamindaṁ āyasmā mahāmoggallāno etadavoca:
 
@@ -260,7 +260,7 @@ Atha kho sakko devānamindo pañcahi devatāsatehi saddhiṁ yenāyasmā mahāmo
 
 Sādhu kho, devānaminda, dhamme aveccappasādena samannāgamanaṁ hoti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhī’ti. Dhamme aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
 
-### 40.11 Candanasutta
+### 40.11 Candanasutta {#11}
 
 Atha kho candano devaputto …pe….
 

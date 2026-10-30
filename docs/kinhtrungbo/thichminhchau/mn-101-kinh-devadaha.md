@@ -7,7 +7,7 @@ Như vầy tôi nghe.
 Một thời Thế Tôn trú ở giữa các Sakka (Thích ca). Devadaha là một thị trấn các Sakka. Tại đấy, Thế
 Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo".
 
-"--Thưa vâng, bạch Thế Tôn". Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
+-- "Thưa vâng, bạch Thế Tôn". Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
 -- Này các Tỷ-kheo, có một số Sa-môn, Bà-la-môn có lý thuyết như sau, có tri kiến như sau: "Phàm cảm
 giác gì con người này lãnh thọ, lạc thọ, khổ thọ hay bất khổ bất lạc thọ, tất cả đều do nhân các nghiệp
@@ -19,7 +19,7 @@ diệt tận".
 Nầy các Tỷ-kheo, lý thuyết các Nigantha (Ni kiền tử) là vậy. Nầy các Tỷ-kheo, Ta nói như vậy, Ta đi
 đến các Nigantha và nói như sau:
 
-"-- Chư Hiền Nigantha, có đúng sự thật chăng, các Ông có lý thuyết như sau, có tri kiến như sau: "Phàm
+-- "Chư Hiền Nigantha, có đúng sự thật chăng, các Ông có lý thuyết như sau, có tri kiến như sau: "Phàm
 cảm giác gì con người này lãnh thọ, lạc thọ, khổ thọ hay bất khổ bất lạc thọ, tất cả đều do nhân các
 nghiệp quá khứ; với sự đốt cháy, đoạn diệt các nghiệp quá khứ, với sự không tạo tác các nghiệp mới, sẽ
 không có diễn tiến đến tương lai. Do không có diễn tiến đến tương lai, nghiệp được đoạn diệt, do nghiệp
@@ -28,32 +28,32 @@ cả khổ sẽ được diệt tận?"
 
 Này các Tỷ-kheo, nếu các Nigantha ấy, khi được Ta hỏi, tự nhận có nói như vậy, Ta liền nói như sau:
 
-"-- Chư Hiền Nigantha, các Ông có biết: "Trong quá khứ, chúng tôi có hiện hữu, chúng tôi không hiện
+-- "Chư Hiền Nigantha, các Ông có biết: "Trong quá khứ, chúng tôi có hiện hữu, chúng tôi không hiện
 hữu?"
 
-"-- Thưa Hiền giả, không như vậy.
+-- "Thưa Hiền giả, không như vậy.
 
-"-- Chư Hiền Nigantha, các Ông có biết: "Trong quá khứ, chúng tôi có tạo ác nghiệp, chúng tôi không
+-- "Chư Hiền Nigantha, các Ông có biết: "Trong quá khứ, chúng tôi có tạo ác nghiệp, chúng tôi không
 tạo ác nghiệp?"
 
-"-- Thưa Hiền giả, không như vậy.
+-- "Thưa Hiền giả, không như vậy.
 
-"-- Chư Hiền Nigantha, các ông có biết: "Chúng tôi có tạo ác nghiệp như thế này hay như thế kia?"
+-- "Chư Hiền Nigantha, các ông có biết: "Chúng tôi có tạo ác nghiệp như thế này hay như thế kia?"
 
-"-- Thưa Hiền giả, không như vậy.
+-- "Thưa Hiền giả, không như vậy.
 
-"-- Chư Hiền Nigantha, các ông có biết: "Khổ mức độ như thế này đã được diệt tận hay khổ mức độ như
+-- "Chư Hiền Nigantha, các ông có biết: "Khổ mức độ như thế này đã được diệt tận hay khổ mức độ như
 thế này cần phải được diệt tận, hay với sự diệt tận khổ mức độ như thế này, tất cả khổ sẽ được diệt tận?"
 
-"-- Thưa Hiền giả, không như vậy.
+-- "Thưa Hiền giả, không như vậy.
 
-"-- Chư Hiền Nigantha, các Ông có biết: "Sự đoạn tận các bất thiện pháp ngay trong hiện tại hay sự
+-- "Chư Hiền Nigantha, các Ông có biết: "Sự đoạn tận các bất thiện pháp ngay trong hiện tại hay sự
 
 thành tựu các thiện pháp?"
 
-"-- Thưa Hiền giả, không như vậy.
+-- "Thưa Hiền giả, không như vậy.
 
-"-- Chư Hiền Nigantha, như các Ông đã nói, các Ông không biết: "Trong quá khứ, chúng tôi có hiện
+-- "Chư Hiền Nigantha, như các Ông đã nói, các Ông không biết: "Trong quá khứ, chúng tôi có hiện
 hữu, chúng tôi không hiện hữu"; các Ông không biết: "Trong quá khứ, chúng tôi có tạo ác nghiệp, chúng
 tôi không tạo ác nghiệp"; các Ông không biết: "Chúng tôi có tạo ác nghiệp như thế này, hay như thế
 kia"; các Ông không biết: "Khổ mức độ như thế này đã được diệt tận, khổ mức độ như thế này cần phải
@@ -65,7 +65,7 @@ thọ, lạc thọ, khổ thọ hay bất khổ bất lạc thọ, tất cả đ
 không có diễn tiến đến tương lai, nghiệp được đoạn diệt; do nghiệp được đoạn diệt, khổ được đoạn diệt;
 do khổ đoạn diệt, cảm thọ được đoạn diệt; do cảm thọ được đoạn diệt tất cả khổ thọ sẽ được diệt tận?".
 
-"-- Chư Hiền Nigantha, nếu các Ông được biết: "Trong quá khứ, chúng tôi có hiện hữu, chúng tôi không
+-- "Chư Hiền Nigantha, nếu các Ông được biết: "Trong quá khứ, chúng tôi có hiện hữu, chúng tôi không
 hiện hữu"; các Ông được biết: "Trong quá khứ, chúng tôi có tạo ác nghiệp, chúng tôi không tạo ác
 nghiệp"; các Ông được biết: "Chúng tôi có tạo ác nghiệp như thế này, hay như thế kia"; các Ông được
 biết: "Khổ mức độ như thế này đã được diệt tận, hay khổ mức độ như thế này cần phải được diệt tận,
@@ -77,7 +77,7 @@ khứ; với sự không tạo các nghiệp mới, sẽ không có diễn tiế
 tương lai nghiệp được đoạn diệt; do nghiệp đoạn diệt, khổ được đoạn diệt; do khổ đoạn diệt, cảm thọ
 được đoạn diệt, do cảm thọ được đoạn diệt, tất cả khổ sẽ được diệt tận".
 
-"-- Chư Hiền Nigantha, ví như một người bị mũi tên bắn, mũi tên được tẩm thuốc độc rất dày. Người ấy
+-- "Chư Hiền Nigantha, ví như một người bị mũi tên bắn, mũi tên được tẩm thuốc độc rất dày. Người ấy
 do nhân cảm xúc mũi tên, thọ lãnh các cảm giác đau đớn, cực khổ, thống khổ. Bạn bè, bà con huyết
 thống của người ấy mời một y sĩ giải phẫu đến. Vị y sĩ giải phẫu lấy dao cắt rộng miệng vết thương.
 Người ấy do nhân dao cắt miệng vết thương, thọ lãnh các cảm giác đau đớn, cực khổ, thống khổ. Vị y sĩ
@@ -125,7 +125,7 @@ diệt, cảm thọ được đoạn diệt; do cảm thọ được đoạn di�
 
 Này các Tỷ-kheo, khi được nói vậy, các Nigantha ấy nói với Ta:
 
-"-- Thưa Hiền giả, Nigantha Nataputta là bậc toàn tri, toàn kiến, tự xưng là có tri kiến toàn diện như sau:
+-- "Thưa Hiền giả, Nigantha Nataputta là bậc toàn tri, toàn kiến, tự xưng là có tri kiến toàn diện như sau:
 "Dầu ta có đi, có đứng, có ngủ và có thức, tri kiến luôn luôn được tồn tại liên tục ở nơi ta". Vị ấy nói
 như sau: "Này các Nigantha, nếu xưa kia các Ông có làm ác nghiệp, hãy làm cho nghiệp ấy tiêu mòn
 bằng khổ hạnh thống khổ này. Chính do hộ trì thân, hộ trì lời nói, hộ trì ý ở đây, ngay trong hiện tại nên
@@ -137,7 +137,7 @@ thọ được đoạn diệt, tất cả khổ sẽ được diệt tận". Và
 
 Khi được nói vậy, này các Tỷ-kheo, Ta nói với các vị Nigantha ấy:
 
-"-- Chư Hiền Nigantha, có năm pháp này, ngay trong hiện tại có hai quả báo. Thế nào là năm? Tín, hỷ,
+-- "Chư Hiền Nigantha, có năm pháp này, ngay trong hiện tại có hai quả báo. Thế nào là năm? Tín, hỷ,
 tùy văn, thẩm định lý do (akaraparivitakka), kham nhẫn chấp thọ (tà) kiến. Này chư Hiền Nigantha, năm
 pháp này ngay trong hiện tại có hai quả báo. Ở đây, thế nào là lòng tin các Tôn giả Nigantha ấy đối với
 bậc Ðạo sư trong quá khứ? Thế nào là sự hoan hỷ, thế nào là sự tùy văn, thế nào là thẩm định lý do, thế
@@ -146,17 +146,17 @@ nào là kham nhẫn chấp thọ (tà) kiến các vị ấy?"
 Này các Tỷ-kheo, nói như vậy, Ta không thấy một câu trả lời hợp pháp nào giữa các vị Nigantha. Và lại
 nữa này các Tỷ-kheo, Ta nói với các vị Nigantha ấy như sau:
 
-"-- Chư Hiền Nigantha, các Ông nghĩ thế nào? Khi các Ông tha thiết tinh tấn, tha thiết tinh cần, khi ấy
+-- "Chư Hiền Nigantha, các Ông nghĩ thế nào? Khi các Ông tha thiết tinh tấn, tha thiết tinh cần, khi ấy
 có phải các Ông thọ lãnh những cảm giác thống khổ, đột khởi, đau đớn, cực khổ, thống khổ? Còn trong
 khi các Ông không tha thiết tinh tấn, không tha thiết tinh cần, khi ấy có phải các Ông không thọ lãnh
 những cảm giác thống khổ, đột khởi, đau đớn, cực khổ, thống khổ?
 
-"-- Thưa Hiền giả Gotama, khi chúng tôi tha thiết tinh tấn, tha thiết tinh cần, khi ấy chúng tôi thọ lãnh
+-- "Thưa Hiền giả Gotama, khi chúng tôi tha thiết tinh tấn, tha thiết tinh cần, khi ấy chúng tôi thọ lãnh
 những cảm giác thống khổ, đột khởi, đau đớn, cực khổ, thống khổ. Còn trong khi chúng tôi không tha
 thiết tinh tấn, không tha thiết tinh cần, khi ấy chúng tôi không thọ lãnh những cảm giác thống khổ, đột
 khởi, đau đớn, cực khổ, thống khổ.
 
-"-- Như vậy, này chư Hiền Nigantha, khi các Ông tha thiết tinh tấn, tha thiết tinh cần, khi ấy các Ông thọ
+-- "Như vậy, này chư Hiền Nigantha, khi các Ông tha thiết tinh tấn, tha thiết tinh cần, khi ấy các Ông thọ
 lãnh những cảm giác thống khổ, đột khởi, đau đớn, cực khổ, thống khổ. Còn trong khi các Ông không
 tha thiết tinh tấn, không tha thiết tinh cần, khi ấy các Ông không thọ lãnh những cảm giác thống khổ, đột
 khởi, đau đớn, cực khổ, thống khổ. Sự tình là như vậy, thời thật là hợp lý khi các Tôn giả Nigantha trả
@@ -184,60 +184,62 @@ nghiệp mới, sẽ không có diễn tiến đến tương lai. Do không có 
 diệt; do nghiệp được đoạn diệt, khổ được đoạn diệt; do khổ được đoạn diệt; cảm thọ được đoạn diệt; do
 cảm thọ được đoạn diệt, tất cả khổ sẽ được diệt tận".
 
-Này các Tỷ-kheo, nói như vậy, Ta không thấy một câu trả lời hợp lý nào giữa các vị Nigantha. Và lại
-nữa, này các Tỷ-kheo, Ta nói với các vị Nigantha ấy như sau:
+Này các Tỷ-kheo, nói như vậy, Ta không thấy một câu trả lời hợp lý nào giữa các vị Nigantha. 
 
-"-- Chư Hiền Nigantha, các ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp được thọ quả hiện
+<!--pg-->
+16\. Và lại nữa, này các Tỷ-kheo, Ta nói với các vị Nigantha ấy như sau: {#16}
+
+-- "Chư Hiền Nigantha, các ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp được thọ quả hiện
 tại này, do tinh tấn, hay do tinh cần có thể khiến được thọ quả tương lai?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Có thể được chăng: "Mong rằng nghiệp được thọ quả tương lai này do tinh tấn hay do tinh cần có thể
+-- "Có thể được chăng: "Mong rằng nghiệp được thọ quả tương lai này do tinh tấn hay do tinh cần có thể
 khiến được thọ quả hiện tại?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Chư Hiền Nigantha, các Ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp được lãnh lạc thọ
+-- "Chư Hiền Nigantha, các Ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp được lãnh lạc thọ
 này, do tinh tấn hay tinh cần có thể được lãnh khổ thọ?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Có thể được chăng: "Mong rằng nghiệp được lãnh khổ thọ này, do tinh tấn hay tinh cần có thể được
+-- "Có thể được chăng: "Mong rằng nghiệp được lãnh khổ thọ này, do tinh tấn hay tinh cần có thể được
 lãnh lạc thọ?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Chư Hiền Nigantha, các Ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp mà quả lãnh thọ
+-- "Chư Hiền Nigantha, các Ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp mà quả lãnh thọ
 đã được thuần thục này do tinh tấn hay tinh cần, có thể trở thành không thuần thục?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Có thể được chăng: "Mong rằng nghiệp mà quả lãnh thọ chưa được thuần thục này, do tinh tấn hay
+-- "Có thể được chăng: "Mong rằng nghiệp mà quả lãnh thọ chưa được thuần thục này, do tinh tấn hay
 tinh cần, có thể trở thành thuần thục?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Chư Hiền Nigantha, các Ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp đa sở thọ này do
+-- "Chư Hiền Nigantha, các Ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp đa sở thọ này do
 tinh tấn hay tinh cần trở thành thiểu sở thọ?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Có thể nói được chăng: "Mong rằng nghiệp thiểu sở thọ này do tinh tấn hay do tinh cần trở thành đã
+-- "Có thể nói được chăng: "Mong rằng nghiệp thiểu sở thọ này do tinh tấn hay do tinh cần trở thành đã
 sở thọ?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Chư Hiền Nigantha, các Ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp có sở thọ này do
+-- "Chư Hiền Nigantha, các Ông nghĩ thế nào? Có thể được chăng: "Mong rằng nghiệp có sở thọ này do
 tinh tấn hay tinh cần trở thành nghiệp không có sở thọ?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Có thể được chăng: "Mong rằng nghiệp không có sở thọ này, do tinh tấn hay tinh cần trở thành
+-- "Có thể được chăng: "Mong rằng nghiệp không có sở thọ này, do tinh tấn hay tinh cần trở thành
 nghiệp có sở thọ?"
 
-"-- Thưa không vậy, Hiền giả.
+-- "Thưa không vậy, Hiền giả.
 
-"-- Như vậy, này chư Hiền Nigantha, không thể được: "Mong rằng nghiệp được thọ quả hiện tại này, do
+-- "Như vậy, này chư Hiền Nigantha, không thể được: "Mong rằng nghiệp được thọ quả hiện tại này, do
 tinh tấn hay tinh cần trở thành nghiệp được thọ quả tương lai". Không thể được: "Mong rằng nghiệp
 được thọ quả tương lai này, do tinh tấn hay do tinh cần, trở thành nghiệp được thọ quả hiện tại". Không
 thể được: "Mong rằng nghiệp được lãnh lạc thọ này, do tinh tấn hay tinh cần trở thành nghiệp được lãnh
@@ -298,11 +300,11 @@ Này các Tỷ-kheo, các Nigantha nói như vậy. Này các Tỷ-kheo, mười
 Nigantha đã nói như vậy đưa đến sự chỉ trích. Như vậy, này các Tỷ-kheo, sự tinh tấn của các Nigantha là
 không có kết quả, sự tinh cần của họ là không có kết quả.
 
--- Và này các Tỷ-kheo, thế nào là sự tinh tấn có kết quả? Ở đây, này các Tỷ-kheo, vị Tỷ-kheo không để
+<!--pg-->
+23\. -- Và này các Tỷ-kheo, thế nào là sự tinh tấn có kết quả? Ở đây, này các Tỷ-kheo, vị Tỷ-kheo không để {#23}
 cho tự ngã chưa bị nhiếp phục, bị đau khổ nhiếp phục và không từ bỏ lạc thọ hợp pháp, và không để lạc
 thọ ấy chi phối. Vị ấy biết như sau: "Trong khi ta tinh cần chống lại nguyên nhân đau khổ này, do chống
 lại nguyên nhân đau khổ, ta không có tham dục. Nhưng trong khi ta xả đối với nguyên nhân đau khổ
-
 này, trong khi tu tập xả, ta không có tham dục". Khi (vị Tỷ-kheo) tinh cần chống lại nguyên nhân đau
 khổ, do tinh cần chống lại nguyên nhân đau khổ, vị ấy không có tham dục. Do vậy, ở đây, vị ấy tinh cần
 chống lại (nguyên nhân đau khổ). Nhưng trong khi vị ấy xả đối với nguyên nhân đau khổ, trong khi tu
@@ -370,7 +372,8 @@ ngã. Vì sao vậy? Vì mục đích vị Tỷ-kheo ấy tinh cần dùng đau 
 vậy, sau một thời gian, vị ấy không tinh cần dùng đau khổ chống với tự ngã. Như vậy, này các Tỷ-kheo
 là sự tinh cần có kết quả.
 
-Lại nữa, này các Tỷ-kheo, ở đây, Như Lai sanh ra ở đời, bậc A-la-hán, Chánh Ðẳng giác, Minh Hạnh
+<!--pg-->
+30\. Lại nữa, này các Tỷ-kheo, ở đây, Như Lai sanh ra ở đời, bậc A-la-hán, Chánh Ðẳng giác, Minh Hạnh {#30}
 Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.
 Như Lai sau khi riêng tự chứng ngộ với thượng trí, thế giới này là Thiên giới, Ma giới, Phạm thiên giới,
 gồm cả thế giới này với Sa-môn, Bà-la-môn, Thiên, Nhơn, lại tuyên bố điều Ngài đã chứng ngộ. Ngài
@@ -498,8 +501,8 @@ Nhờ biết như vậy, thấy như vậy, tâm vị ấy thoát khỏi dục l
 phạm hạnh đã thành, việc cần làm đã làm; sau đời hiện tại, không có trở lui đời sống này nữa". Như vậy,
 này các Tỷ-kheo là sự tinh tấn có kết quả, là sự tinh cần có kết quả.
 
-Này các Tỷ-kheo, Như Lai nói như vậy. Này các Tỷ-kheo, mười thuyết tùy thuyết hợp pháp của Như
-Lai đã nói như vậy đưa đến sự tán thán:
+<!--pg-->
+46\. Này các Tỷ-kheo, Như Lai nói như vậy. Này các Tỷ-kheo, mười thuyết tùy thuyết hợp pháp của Như Lai đã nói như vậy đưa đến sự tán thán: {#46}
 
 (1) Này các Tỷ-kheo, nếu các hữu tình do nhân các việc đã làm trong quá khứ thọ lãnh lạc khổ, thời này
 các Tỷ-kheo, Như Lai thật sự đã làm những thiện hạnh trong thời quá khứ nên nay mới thọ lãnh vô lậu
@@ -507,7 +510,6 @@ lạc thọ như vậy.
 
 (2) Này các Tỷ-kheo, nếu các hữu tình do nhân một vị Tạo hóa tạo ra, thọ lãnh lạc khổ, thời này các Tỷ-
 kheo, Như Lai thật sự được tạo ra bởi một vị Tạo hóa hiền thiện, nên nay mới thọ lãnh vô lậu lạc thọ
-
 như vậy.
 
 (3) Này các Tỷ-kheo, nếu các hữu tình do nhân kết hợp các điều kiện, thọ lãnh lạc khổ, thời này các Tỷ-

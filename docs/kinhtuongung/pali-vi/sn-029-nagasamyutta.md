@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 29.1
 
-### 29.1 Suddhikasutta
+### 29.1 Suddhikasutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -10,7 +10,7 @@ Sāvatthinidānaṁ.
 
 Paṭhamaṁ.
 
-### 29.2 Paṇītatarasutta
+### 29.2 Paṇītatarasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -18,7 +18,7 @@ Sāvatthinidānaṁ.
 
 Dutiyaṁ.
 
-### 29.3 Uposathasutta
+### 29.3 Uposathasutta {#3}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -28,7 +28,7 @@ Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa
 
 Tatiyaṁ.
 
-### 29.4 Dutiyauposathasutta
+### 29.4 Dutiyauposathasutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -40,7 +40,7 @@ Atha kho aññataro bhikkhu yena bhagavā …pe… ekamantaṁ nisinno kho so bh
 
 Catutthaṁ.
 
-### 29.5 Tatiyauposathasutta
+### 29.5 Tatiyauposathasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -54,7 +54,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Pañcamaṁ.
 
-### 29.6 Catutthauposathasutta
+### 29.6 Catutthauposathasutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -66,7 +66,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Chaṭṭhaṁ.
 
-### 29.7 Sutasutta
+### 29.7 Sutasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -78,7 +78,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Sattamaṁ.
 
-### 29.8 Dutiyasutasutta
+### 29.8 Dutiyasutasutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -92,7 +92,7 @@ Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā para�
 
 Aṭṭhamaṁ.
 
-### 29.9 Tatiyasutasutta
+### 29.9 Tatiyasutasutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -106,7 +106,7 @@ Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā para�
 
 Navamaṁ.
 
-### 29.10 Catutthasutasutta
+### 29.10 Catutthasutasutta {#10}
 
 Sāvatthinidānaṁ.
 

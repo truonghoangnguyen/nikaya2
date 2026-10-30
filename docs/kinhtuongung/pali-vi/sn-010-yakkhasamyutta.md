@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 10.1
 
-### 10.1 Indakasutta
+### 10.1 Indakasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati indakūṭe pabbate, indakassa yakkhassa bhavane.
 
@@ -14,7 +14,7 @@ Atha kho indako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavant
 
 > Yañcassa bhuñjatī mātā, annaṁ pānañca bhojanaṁ; Tena so tattha yāpeti, mātukucchigato naro”ti.
 
-### 10.2 Sakkanāmasutta
+### 10.2 Sakkanāmasutta {#2}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate.
 
@@ -26,7 +26,7 @@ Atha kho sakkanāmako yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bha
 
 > Manasā ce pasannena, yadaññamanusāsati; Na tena hoti saṁyutto, yānukampā anuddayā”ti.
 
-### 10.3 Sūcilomasutta
+### 10.3 Sūcilomasutta {#3}
 
 Ekaṁ samayaṁ bhagavā gayāyaṁ viharati ṭaṅkitamañce sūcilomassa yakkhassa bhavane.
 
@@ -54,7 +54,7 @@ Atha kho sūcilomo yakkho bhagavantaṁ etadavoca: “bhāyasi maṁ, samaṇā�
 
 > Ye naṁ pajānanti yatonidānaṁ, Te naṁ vinodenti suṇohi yakkha; Te duttaraṁ oghamimaṁ taranti, Atiṇṇapubbaṁ apunabbhavāyā”ti.
 
-### 10.4 Maṇibhaddasutta
+### 10.4 Maṇibhaddasutta {#4}
 
 Ekaṁ samayaṁ bhagavā magadhesu viharati maṇimālike cetiye maṇibhaddassa yakkhassa bhavane.
 
@@ -66,7 +66,7 @@ Atha kho maṇibhaddo yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bha
 
 > Yassa sabbamahorattaṁ, ahiṁsāya rato mano; Mettaṁso sabbabhūtesu, veraṁ tassa na kenacī”ti.
 
-### 10.5 Sānusutta
+### 10.5 Sānusutta {#5}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -92,7 +92,7 @@ Abhidhāvatha bhaddante, kassa ujjhāpayāmase; Ādittā nīhataṁ bhaṇḍa�
 
 > “Mataṁ vā putta rodanti, yo vā jīvaṁ na dissati; Yo ca kāme cajitvāna, punarāgacchate idha; Taṁ vāpi putta rodanti, puna jīvaṁ mato hi so.
 
-### 10.6 Piyaṅkarasutta
+### 10.6 Piyaṅkarasutta {#6}
 
 Ekaṁ samayaṁ āyasmā anuruddho sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -102,7 +102,7 @@ Tena kho pana samayena āyasmā anuruddho rattiyā paccūsasamayaṁ paccuṭṭ
 
 > Pāṇesu ca saṁyamāmase, Sampajānamusā na bhaṇāmase; Sikkhema susīlyamattano, Api muccema pisācayoniyā”ti.
 
-### 10.7 Punabbasusutta
+### 10.7 Punabbasusutta {#7}
 
 Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -128,7 +128,7 @@ Punabbasu sukhī hohi, ajjāhamhi samuggatā; Diṭṭhāni ariyasaccāni, uttar
 
 > “Sādhu kho paṇḍito nāma, putto jāto uresayo; Putto me buddhaseṭṭhassa, dhammaṁ suddhaṁ piyāyati.
 
-### 10.8 Sudattasutta
+### 10.8 Sudattasutta {#8}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati sītavane.
 
@@ -176,7 +176,7 @@ Tatiyampi kho sivako yakkho antarahito saddamanussāvesi:
 
 > Abhikkama gahapati, abhikkama gahapati; Abhikkamanaṁ te seyyo, no paṭikkamanan”ti.
 
-### 10.9 Paṭhamasukkāsutta
+### 10.9 Paṭhamasukkāsutta {#9}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -186,7 +186,7 @@ Tena kho pana samayena sukkā bhikkhunī mahatiyā parisāya parivutā dhammaṁ
 
 > Tañca pana appaṭivānīyaṁ, Asecanakamojavaṁ; Pivanti maññe sappaññā, Valāhakamiva panthagū”ti.
 
-### 10.10 Dutiyasukkāsutta
+### 10.10 Dutiyasukkāsutta {#10}
 
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -194,7 +194,7 @@ Tena kho pana samayena aññataro upāsako sukkāya bhikkhuniyā bhojanaṁ adā
 
 > “Puññaṁ vata pasavi bahuṁ, Sappañño vatāyaṁ upāsako; Yo sukkāya adāsi bhojanaṁ, Sabbaganthehi vippamuttiyā”ti.
 
-### 10.11 Cīrāsutta
+### 10.11 Cīrāsutta {#11}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -202,7 +202,7 @@ Tena kho pana samayena aññataro upāsako cīrāya bhikkhuniyā cīvaraṁ adā
 
 > “Puññaṁ vata pasavi bahuṁ, Sappañño vatāyaṁ upāsako; Yo cīrāya adāsi cīvaraṁ, Sabbayogehi vippamuttiyā”ti.
 
-### 10.12 Āḷavakasutta
+### 10.12 Āḷavakasutta {#12}
 
 Evaṁ me sutaṁ—“Sādhāvuso”ti bhagavā nikkhami.
 

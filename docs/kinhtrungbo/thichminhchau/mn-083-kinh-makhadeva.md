@@ -18,26 +18,26 @@ kiên trì trên pháp, vị Ðại vương thực hành Chánh pháp, giữa c�
 thôn dân, hành trì lễ Uposatha (Bố-tát) vào các ngày 14, ngày 15 và ngày mồng 8. Rồi này Ananda, vua
 Makhadeva sau nhiều năm, nhiều trăm năm, nhiều ngàn năm, bảo người thợ cạo tóc:
 
-"-- Này Thợ cạo tóc, khi nào Ông thấy trên đầu ta, có mọc tóc bạc, hãy báo cho ta biết".
+-- "Này Thợ cạo tóc, khi nào Ông thấy trên đầu ta, có mọc tóc bạc, hãy báo cho ta biết".
 
-"-- Thưa vâng, tâu Ðại vương".
+-- "Thưa vâng, tâu Ðại vương".
 
 Này Ananda, người thợ cạo tóc vâng đáp vua Makhadeva. Này Ananda, sau nhiều năm, nhiều trăm năm,
 nhiều ngàn năm, người thợ cạo tóc thấy trên đầu vua Makhadeva có sanh tóc bạc, thấy vậy liền tâu vua
 Makhadeva:
 
-"-- Các Thiên sứ đã hiện ra cho Ðại vương. Tóc bạc đã được thấy mọc ra trên đầu".
+-- "Các Thiên sứ đã hiện ra cho Ðại vương. Tóc bạc đã được thấy mọc ra trên đầu".
 
-"-- Vậy này Thợ cạo tóc, hãy khéo nhổ những sợi tóc bạc ấy với cái nhíp, và đặt chúng trên bàn tay của
+-- "Vậy này Thợ cạo tóc, hãy khéo nhổ những sợi tóc bạc ấy với cái nhíp, và đặt chúng trên bàn tay của
 ta".
 
-"-- Thưa vâng, tâu Ðại vương".
+-- "Thưa vâng, tâu Ðại vương".
 
 Này Ananda người thợ cạo tóc vâng đáp vua Makhadeva, sau khi khéo nhổ những sợi tóc bạc ấy với cái
 nhíp, đặt chúng trên bàn tay của vua Makhadeva. Rồi này Ananda, vua Makhadeva, sau khi cho người
 thợ cạo tóc một lương ấp như một ân tứ, liền cho gọi hoàng tử con đầu và nói:
 
-"-- Này Hoàng tử thân yêu, các Thiên sứ đã hiện ra cho ta, tóc bạc đã được thấy mọc ra trên đầu. Ta đã
+-- "Này Hoàng tử thân yêu, các Thiên sứ đã hiện ra cho ta, tóc bạc đã được thấy mọc ra trên đầu. Ta đã
 hưởng thọ các dục lạc thế gian, nay đã đến thời đi tìm kiếm các thiên lạc. Hãy đến đây, này Hoàng tử
 thân yêu, hãy trị vì quốc độ này. Sau khi cạo bỏ râu tóc, đắp áo cà-sa, ta sẽ xuất gia từ bỏ gia đình, sống
 không gia đình. Và này Hoàng tử thân yêu, khi nào con thấy tóc bạc mọc ra trên đầu, thời hãy cho người
@@ -72,26 +72,26 @@ khi thân hoại mạng chung được sanh lên Phạm thiên giới.
 Rồi này Ananda, con vua Makhadeva, sau nhiều năm, nhiều trăm năm, nhiều ngàn năm cho gọi người
 thợ cạo tóc:
 
-"-- Này thợ cạo tóc, khi nào Ông thấy trên đầu Ta có mọc tóc bạc, hãy báo cho ta biết".
+-- "Này thợ cạo tóc, khi nào Ông thấy trên đầu Ta có mọc tóc bạc, hãy báo cho ta biết".
 
-"-- Thưa vâng, tâu Ðại vương".
+-- "Thưa vâng, tâu Ðại vương".
 
 Này Ananda người thợ cạo tóc vâng đáp con vua Makhadeva. Này Ananda, sau nhiều năm, nhiều trăm
 năm, nhiều ngàn năm người thợ cạo tóc thấy trên đầu con vua Makhadeva có sanh tóc bạc, thấy vậy liền
 tâu với con vua Makhadeva:
 
-"-- Các Thiên sứ đã hiện ra cho Ðại vương. Tóc bạc đã được thấy mọc ra trên đầu".
+-- "Các Thiên sứ đã hiện ra cho Ðại vương. Tóc bạc đã được thấy mọc ra trên đầu".
 
-"-- Vậy này thợ cạo tóc, hãy khéo nhổ những sợi tóc bạc ấy với cái nhíp, và đặt chúng trên bàn tay của
+-- "Vậy này thợ cạo tóc, hãy khéo nhổ những sợi tóc bạc ấy với cái nhíp, và đặt chúng trên bàn tay của
 ta".
 
-"-- Thưa vâng, tâu Ðại vương".
+-- "Thưa vâng, tâu Ðại vương".
 
 Này Ananda, người thợ cạo tóc vâng đáp con vua Makhadeva, sau khi khéo nhổ những sợi tóc bạc ấy
 với cái nhíp, đặt chúng trên bàn tay của con vua Makhadeva. Rồi này Ananda, con vua Makhadeva sau
 khi cho người thợ cạo tóc một lương ấp như một ân tứ, liền cho gọi vị hoàng tử con đầu và nói:
 
-"-- Này Hoàng tử thân yêu, các Thiên sứ đã hiện ra cho ta, tóc bạc đã thấy sanh ra trên đầu. Ta đã hưởng
+-- "Này Hoàng tử thân yêu, các Thiên sứ đã hiện ra cho ta, tóc bạc đã thấy sanh ra trên đầu. Ta đã hưởng
 thọ dục lạc thế gian, nay đã đến thời đi tìm kiếm các thiên lạc. Hãy đến đây, này Hoàng tử thân yêu, hãy
 trị vì quốc độ này. Sau khi cạo bỏ râu tóc đắp áo cà-sa, ta sẽ xuất gia, từ bỏ gia đình, sống không gia
 đình. Và nay, này Hoàng tử thân yêu, khi nào con thấy tóc bạc mọc ra trên đầu, thời hãy cho người thợ
@@ -146,9 +146,9 @@ hành trì lễ Uposatha (Bố-tát) vào các ngày 14, ngày 15 và ngày mồ
 
 Rồi này Ananda, Thiên chủ Sakka nói với chư Thiên ở cõi trời Ba mươi ba:
 
-"-- Chư Khanh, chư Khanh có muốn yết kiến vua Nemi không?".
+-- "Chư Khanh, chư Khanh có muốn yết kiến vua Nemi không?".
 
-"-- Thưa Thiên chủ, chúng tôi muốn yết kiến vua Nemi".
+-- "Thưa Thiên chủ, chúng tôi muốn yết kiến vua Nemi".
 
 Lúc bấy giờ, vua Nemi trong ngày rằm lễ Bố-Tát (Uposatha), đã gội đầu, giữ trai giới đang ngồi trên lầu
 
@@ -156,7 +156,7 @@ cung điện. Rồi này Ananda, Thiên chủ Sakka, như nhà lực sĩ duỗi 
 đang duỗi ra; cũng vậy, Thiên chủ biến mất giữa chư Thiên cõi trời Ba mươi ba, và hiện ra trước mặt
 vua Nemi. Rồi này Ananda, Thiên chủ Sakka nói với vua Nemi:
 
-"-- Tâu Ðại vương, thật hạnh phúc thay cho Ðại vương, thật tốt lành thay cho Ðại vương! Tâu Ðại
+-- "Tâu Ðại vương, thật hạnh phúc thay cho Ðại vương, thật tốt lành thay cho Ðại vương! Tâu Ðại
 vương, chư Thiên ở cõi trời Ba mươi ba đang ngồi tại giảng đường Thiện Pháp tán thán Ðại vương và
 nói: "Thật hạnh phúc thay cho dân chúng Videha... và ngày mồng 8". Tâu Ðại vương, chư Thiên ở cõi
 trời Ba mươi ba muốn yết kiến Ðại vương. Tâu Ðại vương, tôi sẽ gởi cho Ðại vương một cỗ xe có ngàn
@@ -167,39 +167,39 @@ Nemi đã nhận lời, như nhà lực sĩ... liền biến mất và hiện ra
 
 Rồi này Ananda, Thiên chủ Sakka gọi người đánh xe Matali và nói:
 
-"-- Này Matali, sau khi thắng cỗ xe có ngàn ngựa kéo hãy đi đến vua Nemi và nói: "Tâu Ðại vương, đây
+-- "Này Matali, sau khi thắng cỗ xe có ngàn ngựa kéo hãy đi đến vua Nemi và nói: "Tâu Ðại vương, đây
 là cỗ xe có ngàn ngựa kéo do Thiên chủ Sakka gửi đến cho Ðại vương. Ðại vương hãy cưỡi thiên xa,
 chớ có sợ hãi! ".
 
-"-- Thưa vâng, Tôn giả".
+-- "Thưa vâng, Tôn giả".
 
 Người đánh xe Matali vâng đáp Thiên chủ Sakka, cho thắng cỗ xe có ngàn ngựa kéo, đi đến vua Nemi
 và thưa:
 
-"-- Tâu Ðại vương, đây là cỗ xe có ngàn ngựa kéo do Thiên chủ Sakka gửi đến cho Ðại vương. Ðại
+-- "Tâu Ðại vương, đây là cỗ xe có ngàn ngựa kéo do Thiên chủ Sakka gửi đến cho Ðại vương. Ðại
 vương hãy cưỡi thiên xa, chớ có sợ hãi! Và tâu Ðại vương, con sẽ dẫn Ðại vương đi đường nào? Con
 đường do đó các nghiệp ác đưa đến sự cảm thọ quả báo các nghiệp ác hay con đường do đó các thiện
 nghiệp đưa đến sự cảm thọ quả báo các thiện nghiệp".
 
-"-- Hãy đưa Ta đi, cả hai con đường".
+-- "Hãy đưa Ta đi, cả hai con đường".
 
 Và này Ananda, người đánh xe Matali đưa vua Nemi đến giảng đường Sudhamma (Thiện Pháp). Này
 Ananda, Thiên chủ Sakka thấy vua Nemi đường xa đi đến, sau khi thấy vậy, liền nói với vua Nemi:
 
-"-- Hãy đến, tâu Ðại vương; thiện lai, tâu Ðại vương. Tâu Ðại vương, chư Thiên ở cõi trời Ba mươi ba
+-- "Hãy đến, tâu Ðại vương; thiện lai, tâu Ðại vương. Tâu Ðại vương, chư Thiên ở cõi trời Ba mươi ba
 ngồi ở giảng đường Sudhamma, tán thán Ðại vương như sau: "Thật là hạnh phúc... và ngày mồng 8".
 Tâu Ðại vương, chư Thiên ở cõi trời Ba mươi ba muốn yết kiến Ðại vương. Tâu Ðại vương, hãy hoan
 lạc với thiên uy lực giữa chư Thiên".
 
-"-- Thôi vừa rồi, Tôn giả. Hãy đưa tôi về Mithila, tại đấy tôi sẽ sống theo Chánh pháp giữa các vị Bà-la-
+-- "Thôi vừa rồi, Tôn giả. Hãy đưa tôi về Mithila, tại đấy tôi sẽ sống theo Chánh pháp giữa các vị Bà-la-
 môn, gia chủ, và giữa các thị dân và thôn dân và thọ trì trai giới vào các ngày 14, ngày 15 và ngày mồng
 8".
 
 Rồi này Ananda, Thiên chủ Sakka nói với người đánh xe Matali:
 
-"-- Này Matali, sau khi thắng cỗ xe có ngàn ngựa kéo, hãy đưa vua Nemi về tại Mithila".
+-- "Này Matali, sau khi thắng cỗ xe có ngàn ngựa kéo, hãy đưa vua Nemi về tại Mithila".
 
-"-- Thưa vâng, Tôn giả".
+-- "Thưa vâng, Tôn giả".
 
 Này Ananda, người đánh xe Matali vâng đáp Thiên chủ Sakka, thắng cỗ xe có ngàn ngựa kéo, và đưa
 
@@ -210,25 +210,25 @@ thọ trì trai giới vào các ngày 14, ngày 15 và ngày mồng 8.
 
 Và này Ananda, sau nhiều năm, nhiều trăm năm, nhiều ngàn năm; vua Nemi gọi người thợ cạo tóc:
 
-"-- Này Thợ cạo tóc, khi nào Ông thấy trên đầu ta có mọc tóc bạc, hãy báo cho ta biết".
+-- "Này Thợ cạo tóc, khi nào Ông thấy trên đầu ta có mọc tóc bạc, hãy báo cho ta biết".
 
-"-- Thưa vâng, tâu Ðại vương".
+-- "Thưa vâng, tâu Ðại vương".
 
 Này Ananda, người thợ cạo tóc vâng đáp vua Nemi. Này Ananda, sau nhiều năm, nhiều trăm năm, nhiều
 ngàn năm, người thợ cạo tóc thấy trên đầu vua Nemi có mọc tóc bạc, thấy vậy liền tâu với vua Nemi:
 
-"-- Các Thiên sứ đã hiện cho Ðại vương. Tóc bạc đã được thấy mọc ra trên đầu".
+-- "Các Thiên sứ đã hiện cho Ðại vương. Tóc bạc đã được thấy mọc ra trên đầu".
 
-"-- Vậy này Thợ cạo tóc, hãy khéo nhổ những sợi tóc bạc ấy với cái nhíp, và đặt chúng trên bàn tay của
+-- "Vậy này Thợ cạo tóc, hãy khéo nhổ những sợi tóc bạc ấy với cái nhíp, và đặt chúng trên bàn tay của
 ta".
 
-"-- Thưa vâng, tâu Ðại vương".
+-- "Thưa vâng, tâu Ðại vương".
 
 Này Ananda, người thợ cạo tóc vâng đáp vua Nemi, sau khi khéo nhổ những sợi tóc bạc ấy với cái nhíp,
 đặt chúng trên bàn tay vua Nemi. Rồi này Ananda, vua Nemi, sau khi cho người thợ cạo tóc một lương
 ấp (như một ân tứ), liền cho gọi vị hoàng tử con đầu và nói:
 
-"-- Này Hoàng tử thân yêu, các Thiên sứ đã hiện ra cho ta, tóc bạc đã được thấy mọc ra trên đầu. Ta đã
+-- "Này Hoàng tử thân yêu, các Thiên sứ đã hiện ra cho ta, tóc bạc đã được thấy mọc ra trên đầu. Ta đã
 hưởng thọ các dục lạc thế gian, nay đã đến thời đi tìm kiếm các thiên lạc. Hãy đến đây, Hoàng tử thân
 yêu, hãy trị vì quốc độ này. Sau khi cạo bỏ râu tóc, đắp áo cà-sa, ta sẽ xuất gia từ bỏ gia đình, sống
 không gia đình. Và này Hoàng tử thân yêu, khi nào con thấy tóc bạc mọc ra trên đầu, thời hãy cho người

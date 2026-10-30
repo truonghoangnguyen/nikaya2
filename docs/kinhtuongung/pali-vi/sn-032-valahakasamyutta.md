@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 32.1
 
-### 32.1 Suddhikasutta
+### 32.1 Suddhikasutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -14,7 +14,7 @@ Paṭhamaṁ.
 
 Katame ca, bhikkhave, valāhakakāyikā devā? Santi, bhikkhave, sītavalāhakā devā; santi uṇhavalāhakā devā; santi abbhavalāhakā devā; santi vātavalāhakā devā; santi vassavalāhakā devā—
 
-### 32.2 Sucaritasutta
+### 32.2 Sucaritasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -56,7 +56,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “Idha, bhikkhu, ekacco kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. Tassa sutaṁ hoti: ‘vassavalāhakā devā dīghāyukā vaṇṇavanto sukhabahulā’ti.
 
-### 32.53 Sītavalāhakasutta
+### 32.53 Sītavalāhakasutta {#53}
 
 Sāvatthinidānaṁ.
 
@@ -68,7 +68,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Tepaññāsamaṁ.
 
-### 32.54 Uṇhavalāhakasutta
+### 32.54 Uṇhavalāhakasutta {#54}
 
 Sāvatthinidānaṁ.
 
@@ -80,7 +80,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Catupaññāsamaṁ.
 
-### 32.55 Abbhavalāhakasutta
+### 32.55 Abbhavalāhakasutta {#55}
 
 Sāvatthinidānaṁ.
 
@@ -92,7 +92,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Pañcapaññāsamaṁ.
 
-### 32.56 Vātavalāhakasutta
+### 32.56 Vātavalāhakasutta {#56}
 
 Sāvatthinidānaṁ.
 
@@ -102,7 +102,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “Santi, bhikkhu, vātavalāhakā nāma devā. Tesaṁ yadā evaṁ hoti: ‘yannūna mayaṁ sakāya ratiyā vaseyyāmā’ti, tesaṁ taṁ cetopaṇidhimanvāya vāto hoti. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yenekadā vāto hotī”ti. Chappaññāsamaṁ.
 
-### 32.57 Vassavalāhakasutta
+### 32.57 Vassavalāhakasutta {#57}
 
 Sāvatthinidānaṁ.
 

@@ -91,13 +91,13 @@ tôi, nếu được nghe chỉ một phần lời thuyết giảng ấy.
 -- Ở đây, này Thiện hữu Moggallana, tôi đến chỗ Thế Tôn ở, sau khi đến, đảnh lễ Thế Tôn và đứng một
 bên. Này Thiện hữu Moggallana, sau khi đứng một bên, tôi bạch với Thế Tôn như sau:
 
-"-- Bạch Thế Tôn, một cách tóm tắt, đến mức độ nào, một Tỷ-kheo là ái tận giải thoát, cứu cánh thành
+-- "Bạch Thế Tôn, một cách tóm tắt, đến mức độ nào, một Tỷ-kheo là ái tận giải thoát, cứu cánh thành
 tựu, cứu cánh an ổn khỏi các khổ ách, cứu cánh phạm hạnh, cứu cánh viên mãn, bậc tối thắng giữa chư
 Thiên và loài Người?
 
 Khi nghe nói vậy, này Thiện hữu Moggallana, Thế Tôn nói với tôi như sau:
 
-"-- Ở đây, này Thiên chủ, Tỷ-kheo được nghe như sau: "Thật không xứng đáng, nếu có thiên vị đối với
+-- "Ở đây, này Thiên chủ, Tỷ-kheo được nghe như sau: "Thật không xứng đáng, nếu có thiên vị đối với
 tất cả pháp"". Vị ấy biết rõ tất cả pháp. Sau khi biết rõ tất cả pháp, vị ấy biết một cách rốt ráo tất cả
 pháp". Do biết một cách rốt ráo tất cả pháp, nếu có cảm thọ nào, lạc thọ, khổ thọ hay bất khổ bất lạc thọ,
 vị ấy sống quán tánh vô thường, sống quán tánh ly tham, sống quán tánh đoạn diệt, sống quán tánh xả ly
@@ -137,13 +137,13 @@ một Dạ-xoa có đại oai lực?
 -- Này Moggallana, Ta biết. Ở đây, Thiên chủ Sakka đến tại chỗ Ta ở, sau khi đến, đảnh lễ Ta rồi đứng
 một bên. Sau khi đứng một bên, này Moggallana, Thiên chủ Sakka bạch với Ta:
 
-"-- Bạch Thế Tôn, nói một cách tóm tắt, đến mức độ nào, một Tỷ-kheo ái tận, giải thoát, cứu cánh thành
+-- "Bạch Thế Tôn, nói một cách tóm tắt, đến mức độ nào, một Tỷ-kheo ái tận, giải thoát, cứu cánh thành
 tựu, cứu cánh an ổn khỏi các khổ ách, cứu cánh phạm hạnh, cứu cánh viên mãn, bậc tối thắng giữa chư
 Thiên và loài Người?
 
 Khi nghe nói vậy, này Maha Moggallana, Ta nói với Thiên chủ Sakka:
 
-"-- Ở đây, này Thiên chủ, Tỷ-kheo được nghe như sau: "Thật không xứng đáng, nếu có thiên vị đối với
+-- "Ở đây, này Thiên chủ, Tỷ-kheo được nghe như sau: "Thật không xứng đáng, nếu có thiên vị đối với
 tất cả pháp". Này Thiên chủ, nếu Tỷ-kheo được nghe như sau: "Thật không xứng đáng nếu có thiên vị
 đối với tất cả pháp". Vị ấy biết rõ tất cả pháp. Sau khi biết rõ tất cả pháp, vị ấy biết một cách rốt ráo tất
 cả pháp. Do biết một cách rốt ráo tất cả pháp, nếu có một cảm thọ nào, lạc thọ, khổ thọ, hay bất khổ bất

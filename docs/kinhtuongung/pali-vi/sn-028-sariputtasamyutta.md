@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 28.1
 
-### 28.1 Vivekajasutta
+### 28.1 Vivekajasutta {#1}
 
 Ekaṁ samayaṁ āyasmā sāriputto sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho āyasmā sāriputto pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi. Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena andhavanaṁ tenupasaṅkami divāvihārāya. Andhavanaṁ ajjhogāhetvā aññatarasmiṁ rukkhamūle divāvihāraṁ nisīdi.
 
@@ -16,7 +16,7 @@ Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramān�
 
 Paṭhamaṁ.
 
-### 28.2 Avitakkasutta
+### 28.2 Avitakkasutta {#2}
 
 Sāvatthinidānaṁ.
 
@@ -30,7 +30,7 @@ Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramān�
 
 Dutiyaṁ.
 
-### 28.3 Pītisutta
+### 28.3 Pītisutta {#3}
 
 Sāvatthinidānaṁ.
 
@@ -44,7 +44,7 @@ Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramān�
 
 Tatiyaṁ.
 
-### 28.4 Upekkhāsutta
+### 28.4 Upekkhāsutta {#4}
 
 Sāvatthinidānaṁ.
 
@@ -58,7 +58,7 @@ Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramān�
 
 Catutthaṁ.
 
-### 28.5 Ākāsānañcāyatanasutta
+### 28.5 Ākāsānañcāyatanasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -68,7 +68,7 @@ Addasā kho āyasmā ānando …pe…
 
 Pañcamaṁ.
 
-### 28.6 Viññāṇañcāyatanasutta
+### 28.6 Viññāṇañcāyatanasutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -78,7 +78,7 @@ Addasā kho āyasmā ānando …pe…
 
 Chaṭṭhaṁ.
 
-### 28.7 Ākiñcaññāyatanasutta
+### 28.7 Ākiñcaññāyatanasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -88,7 +88,7 @@ Atha kho āyasmā sāriputto …pe…
 
 Sattamaṁ.
 
-### 28.8 Nevasaññānāsaññāyatanasutta
+### 28.8 Nevasaññānāsaññāyatanasutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -98,7 +98,7 @@ Atha kho āyasmā sāriputto …pe…
 
 Aṭṭhamaṁ.
 
-### 28.9 Nirodhasamāpattisutta
+### 28.9 Nirodhasamāpattisutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -110,7 +110,7 @@ Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramān�
 
 Navamaṁ.
 
-### 28.10 Sucimukhīsutta
+### 28.10 Sucimukhīsutta {#10}
 
 Ekaṁ samayaṁ āyasmā sāriputto rājagahe viharati veḷuvane kalandakanivāpe. Atha kho āyasmā sāriputto pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahe piṇḍāya pāvisi. Rājagahe sapadānaṁ piṇḍāya caritvā taṁ piṇḍapātaṁ aññataraṁ kuṭṭamūlaṁ nissāya paribhuñjati.
 

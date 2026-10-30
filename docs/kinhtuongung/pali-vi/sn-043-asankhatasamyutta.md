@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 43.1
 
-### 43.1 Kāyagatāsatisutta
+### 43.1 Kāyagatāsatisutta {#1}
 
 Sāvatthinidānaṁ.
 
@@ -14,7 +14,7 @@ Iti kho, bhikkhave, desitaṁ vo mayā asaṅkhataṁ, desito asaṅkhatagāmima
 
 Paṭhamaṁ.
 
-### 43.2 Samathavipassanāsutta
+### 43.2 Samathavipassanāsutta {#2}
 
 “Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Taṁ suṇātha.
 
@@ -22,55 +22,55 @@ Katamañca, bhikkhave, asaṅkhataṁ? Yo, bhikkhave, rāgakkhayo dosakkhayo moh
 
 Dutiyaṁ.
 
-### 43.3 Savitakkasavicārasutta
+### 43.3 Savitakkasavicārasutta {#3}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Savitakkasavicāro samādhi, avitakkavicāramatto samādhi, avitakkaavicāro samādhi—ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Tatiyaṁ.
 
-### 43.4 Suññatasamādhisutta
+### 43.4 Suññatasamādhisutta {#4}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Suññato samādhi, animitto samādhi, appaṇihito samādhi—ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Catutthaṁ.
 
-### 43.5 Satipaṭṭhānasutta
+### 43.5 Satipaṭṭhānasutta {#5}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro satipaṭṭhānā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Pañcamaṁ.
 
-### 43.6 Sammappadhānasutta
+### 43.6 Sammappadhānasutta {#6}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro sammappadhānā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Chaṭṭhaṁ.
 
-### 43.7 Iddhipādasutta
+### 43.7 Iddhipādasutta {#7}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Cattāro iddhipādā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Sattamaṁ.
 
-### 43.8 Indriyasutta
+### 43.8 Indriyasutta {#8}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Pañcindriyāni. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Aṭṭhamaṁ.
 
-### 43.9 Balasutta
+### 43.9 Balasutta {#9}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Pañca balāni. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Navamaṁ.
 
-### 43.10 Bojjhaṅgasutta
+### 43.10 Bojjhaṅgasutta {#10}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Satta bojjhaṅgā. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe….
 
 Dasamaṁ.
 
-### 43.11 Maggaṅgasutta
+### 43.11 Maggaṅgasutta {#11}
 
 “Katamo ca, bhikkhave, asaṅkhatagāmimaggo? Ariyo aṭṭhaṅgiko maggo. Ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo.
 
@@ -84,7 +84,7 @@ Tassuddānaṁ
 
 > Kāyo samatho savitakko, suññato satipaṭṭhānā; Sammappadhānā iddhipādā, indriyabalabojjhaṅgā; Maggena ekādasamaṁ, Tassuddānaṁ pavuccati.
 
-### 43.12 Asaṅkhatasutta
+### 43.12 Asaṅkhatasutta {#12}
 
 “Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanīti.
 
@@ -132,7 +132,7 @@ Idha, bhikkhave, bhikkhu saddhindriyaṁ bhāveti vivekanissitaṁ virāganissit
 
 Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti vivekanissitaṁ …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu vīriyabalaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe… katamo ca, bhikkhave, asaṅkhatagāmimaggo? Idha, bhikkhave, bhikkhu satibalaṁ bhāveti …pe… ayaṁ vuccati, bhikkhave, asaṅkhatagāmimaggo …pe…
 
-### 43.13 Anatasutta
+### 43.13 Anatasutta {#13}
 
 “Anatañca vo, bhikkhave, desessāmi, anatagāmiñca maggaṁ. Taṁ suṇātha. Katamañca, bhikkhave, anataṁ …pe…”.
 
@@ -204,7 +204,7 @@ Saraṇañca vo, bhikkhave, desessāmi saraṇagāmiñca maggaṁ. Taṁ suṇā
 
 Bāttiṁsatimaṁ.
 
-### 43.44 Parāyanasutta
+### 43.44 Parāyanasutta {#44}
 
 “Parāyanañca vo, bhikkhave, desessāmi parāyanagāmiñca maggaṁ. Yaṁ, bhikkhave, satthārā karaṇīyaṁ sāvakānaṁ hitesinā anukampakena anukampaṁ upādāya, kataṁ vo taṁ mayā. Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni. Jhāyatha, bhikkhave, mā pamādattha; mā pacchā vippaṭisārino ahuvattha. Ayaṁ vo amhākaṁ anusāsanī”ti.
 

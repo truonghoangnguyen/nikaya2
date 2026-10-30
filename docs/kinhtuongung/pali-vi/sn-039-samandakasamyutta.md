@@ -24,7 +24,7 @@ Paṭhamaṁ.
 
 (Yathā jambukhādakasaṁyuttaṁ, tathā vitthāretabbaṁ.)
 
-### 39.16 Dukkarasutta
+### 39.16 Dukkarasutta {#16}
 
 “Kiṁ nu kho, āvuso sāriputta, imasmiṁ dhammavinaye dukkaran”ti?
 

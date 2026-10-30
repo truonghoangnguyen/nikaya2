@@ -2,7 +2,7 @@
 
 ## * Saṁyutta Nikāya 6.1
 
-### 6.1 Brahmāyācanasutta
+### 6.1 Brahmāyācanasutta {#1}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho.
 
@@ -42,7 +42,7 @@ evameva bhagavā buddhacakkhunā lokaṁ volokento addasa satte apparajakkhe mah
 
 Disvāna brahmānaṁ sahampatiṁ gāthāya paccabhāsi:
 
-### 6.2 Gāravasutta
+### 6.2 Gāravasutta {#2}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā uruvelāyaṁ viharati najjā nerañjarāya tīre ajapālanigrodhamūle paṭhamābhisambuddho.
 
@@ -72,7 +72,7 @@ Idamavoca brahmā sahampati, idaṁ vatvā athāparaṁ etadavoca:
 
 > Sabbe saddhammagaruno, vihaṁsu viharanti ca; Tathāpi viharissanti, esā buddhāna dhammatā.
 
-### 6.3 Brahmadevasutta
+### 6.3 Brahmadevasutta {#3}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -104,7 +104,7 @@ Atha kho brahmā sahampati—seyyathāpi nāma balavā puriso samiñjitaṁ vā 
 
 > Tasmiṁ pasannā avikampamānā, Patiṭṭhapehi dakkhiṇaṁ dakkhiṇeyye; Karohi puññaṁ sukhamāyatikaṁ, Disvā muniṁ brāhmaṇi oghatiṇṇanti.
 
-### 6.4 Bakabrahmasutta
+### 6.4 Bakabrahmasutta {#4}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -132,7 +132,7 @@ Evaṁ vutte, bhagavā bakaṁ brahmānaṁ etadavoca: “avijjāgato vata bho b
 
 > Gaṅgāya sotasmiṁ gahītanāvaṁ, Luddena nāgena manussakamyā; Pamocayittha balasā pasayha, Taṁ te purāṇaṁ vatasīlavattaṁ; Suttappabuddhova anussarāmi.
 
-### 6.5 Aññatarabrahmasutta
+### 6.5 Aññatarabrahmasutta {#5}
 
 Sāvatthinidānaṁ.
 
@@ -170,7 +170,7 @@ Atha kho so brahmā aññataraṁ brahmapārisajjaṁ āmantesi: “ehi tvaṁ, 
 
 Atha kho āyasmā mahāmoggallāno taṁ brahmapārisajjaṁ gāthāya ajjhabhāsi:
 
-### 6.6 Brahmalokasutta
+### 6.6 Brahmalokasutta {#6}
 
 Sāvatthinidānaṁ.
 
@@ -206,7 +206,7 @@ Atha kho so brahmā subrahmānaṁ paccekabrahmānaṁ gāthāya ajjhabhāsi:
 
 Atha kho subrahmā ca paccekabrahmā suddhāvāso ca paccekabrahmā taṁ brahmānaṁ saṁvejetvā tatthevantaradhāyiṁsu. Agamāsi ca kho so brahmā aparena samayena bhagavato upaṭṭhānaṁ arahato sammāsambuddhassāti.
 
-### 6.7 Kokālikasutta
+### 6.7 Kokālikasutta {#7}
 
 Sāvatthinidānaṁ.
 
@@ -216,7 +216,7 @@ Atha kho subrahmā paccekabrahmā kokālikaṁ bhikkhuṁ ārabbha bhagavato san
 
 > “Appameyyaṁ paminanto, Kodha vidvā vikappaye; Appameyyaṁ pamāyinaṁ, Nivutaṁ taṁ maññe puthujjanan”ti.
 
-### 6.8 Katamodakatissasutta
+### 6.8 Katamodakatissasutta {#8}
 
 Sāvatthinidānaṁ.
 
@@ -226,7 +226,7 @@ Atha kho suddhāvāso paccekabrahmā katamodakatissakaṁ bhikkhuṁ ārabbha bh
 
 > “Appameyyaṁ paminanto, Kodha vidvā vikappaye; Appameyyaṁ pamāyinaṁ, Nivutaṁ taṁ maññe akissavan”ti.
 
-### 6.9 Turūbrahmasutta
+### 6.9 Turūbrahmasutta {#9}
 
 Sāvatthinidānaṁ.
 
@@ -248,7 +248,7 @@ Atha kho turū paccekabrahmā abhikkantāya rattiyā abhikkantavaṇṇo kevalak
 
 > Sataṁ sahassānaṁ nirabbudānaṁ, Chattiṁsati pañca ca abbudāni; Yamariyagarahī nirayaṁ upeti, Vācaṁ manañca paṇidhāya pāpakan”ti.
 
-### 6.10 Kokālikasutta
+### 6.10 Kokālikasutta {#10}
 
 Sāvatthinidānaṁ.
 
@@ -304,7 +304,7 @@ khippataraṁ kho so, bhikkhu, vīsatikhāriko kosalako tilavāho iminā upakkam
 
 > Appamattako ayaṁ kali, Yo akkhesu dhanaparājayo; Sabbassāpi sahāpi attanā, Ayameva mahantaro kali; Yo sugatesu manaṁ padosaye.
 
-### 6.11 Sanaṅkumārasutta
+### 6.11 Sanaṅkumārasutta {#11}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati sappinītīre.
 
@@ -314,7 +314,7 @@ Atha kho brahmā sanaṅkumāro abhikkantāya rattiyā abhikkantavaṇṇo keval
 
 Idamavoca brahmā sanaṅkumāro. Samanuñño satthā ahosi. Atha kho brahmā sanaṅkumāro “samanuñño me satthā”ti bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā tatthevantaradhāyīti.
 
-### 6.12 Devadattasutta
+### 6.12 Devadattasutta {#12}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā rājagahe viharati gijjhakūṭe pabbate acirapakkante devadatte.
 
@@ -322,7 +322,7 @@ Atha kho brahmā sahampati abhikkantāya rattiyā abhikkantavaṇṇo kevalakapp
 
 > “Phalaṁ ve kadaliṁ hanti, phalaṁ veḷuṁ phalaṁ naḷaṁ; Sakkāro kāpurisaṁ hanti, gabbho assatariṁ yathā”ti.
 
-### 6.13 Andhakavindasutta
+### 6.13 Andhakavindasutta {#13}
 
 Ekaṁ samayaṁ bhagavā māgadhesu viharati andhakavinde.
 
@@ -342,7 +342,7 @@ Atha kho brahmā sahampati abhikkantāya rattiyā abhikkantavaṇṇo kevalakapp
 
 > Athāyaṁ itarā pajā, puññabhāgāti me mano; Saṅkhātuṁ nopi sakkomi, musāvādassa ottapan”ti.
 
-### 6.14 Aruṇavatīsutta
+### 6.14 Aruṇavatīsutta {#14}
 
 Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati …pe… tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -396,7 +396,7 @@ Evaṁ kho mayaṁ, bhante, assumha abhibhussa bhikkhuno brahmaloke ṭhitassa g
 
 > ‘Ārambhatha nikkamatha, yuñjatha buddhasāsane; Dhunātha maccuno senaṁ, naḷāgāraṁva kuñjaro.
 
-### 6.15 Parinibbānasutta
+### 6.15 Parinibbānasutta {#15}
 
 Ekaṁ samayaṁ bhagavā kusinārāyaṁ viharati upavattane mallānaṁ sālavane antarena yamakasālānaṁ parinibbānasamaye.
 

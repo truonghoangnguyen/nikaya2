@@ -28,7 +28,7 @@ thân ác hành... Sau khi thân hoại mạng chung, bị sanh vào cõi dữ, 
 Này các Tỷ-kheo, các người coi giữ Ðịa ngục, sau khi bắt giữ người ấy với nhiều cánh tay, dẫn người ấy
 đến trước vua Yama (và thưa):
 
-"-- Tâu Ðại vương, người này không có từ tâm, không xứng là Sa-môn, không xứng là Bà-la-môn,
+-- "Tâu Ðại vương, người này không có từ tâm, không xứng là Sa-môn, không xứng là Bà-la-môn,
 không kính trọng các vị lớn tuổi trong gia đình. Ðại vương hãy trừng phạt nó !
 
 Này các Tỷ-kheo, vua Yama, chất vấn người ấy, cật vấn, thẩm vấn người ấy về Thiên sứ thứ nhất: "Này
