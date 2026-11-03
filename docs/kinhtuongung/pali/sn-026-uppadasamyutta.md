@@ -1,44 +1,40 @@
 # SN 26. Uppādasaṁyutta
 
-## Saṁyutta Nikāya 26.1
+## 1. Uppādavagga
 
-### 26.1 Cakkhusutta
+### 26.1 Cakkhusutta {#1}
 
 1\. Sāvatthinidānaṁ.
 
-yo ghānassa nirodho … yo jivhāya nirodho … yo kāyassa nirodho … yo manassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.
+“Yo kho, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo sotassa uppādo ṭhiti …pe… yo ghānassa uppādo ṭhiti … yo jivhāya uppādo ṭhiti … yo kāyassa uppādo ṭhiti … yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo sotassa nirodho …pe… yo ghānassa nirodho … yo jivhāya nirodho … yo kāyassa nirodho … yo manassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.
 
 Paṭhamaṁ.
 
-“Yo kho, bhikkhave, cakkhussa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo sotassa uppādo ṭhiti …pe… yo ghānassa uppādo ṭhiti … yo jivhāya uppādo ṭhiti … yo kāyassa uppādo ṭhiti … yo manassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca, bhikkhave, cakkhussa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo sotassa nirodho …pe…
-
-### 26.2 Rūpasutta
+### 26.2 Rūpasutta {#2}
 
 1\. Sāvatthinidānaṁ.
 
-yo gandhānaṁ … yo rasānaṁ … yo phoṭṭhabbānaṁ … yo dhammānaṁ nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.
+“Yo kho, bhikkhave, rūpānaṁ uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo saddānaṁ … yo gandhānaṁ … yo rasānaṁ … yo phoṭṭhabbānaṁ … yo dhammānaṁ uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, rūpānaṁ nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo saddānaṁ … yo gandhānaṁ … yo rasānaṁ … yo phoṭṭhabbānaṁ … yo dhammānaṁ nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.
 
 Dutiyaṁ.
 
-“Yo kho, bhikkhave, rūpānaṁ uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo saddānaṁ … yo gandhānaṁ … yo rasānaṁ … yo phoṭṭhabbānaṁ … yo dhammānaṁ uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, rūpānaṁ nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo saddānaṁ …
-
-### 26.3 Viññāṇasutta
+### 26.3 Viññāṇasutta {#3}
 
 1\. Sāvatthinidānaṁ.
-
-Tatiyaṁ.
 
 “Yo kho, bhikkhave, cakkhuviññāṇassa uppādo ṭhiti …pe… jarāmaraṇassa pātubhāvo …pe… yo manoviññāṇassa uppādo ṭhiti …pe… jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, cakkhuviññāṇassa nirodho …pe… jarāmaraṇassa atthaṅgamo …pe… yo manoviññāṇassa nirodho …pe… jarāmaraṇassa atthaṅgamo”ti.
 
-### 26.4 Samphassasutta
+Tatiyaṁ.
+
+### 26.4 Samphassasutta {#4}
 
 1\. Sāvatthinidānaṁ.
 
-Catutthaṁ.
-
 “Yo kho, bhikkhave, cakkhusamphassassa uppādo ṭhiti …pe… jarāmaraṇassa pātubhāvo …pe… yo manosamphassassa uppādo ṭhiti …pe… jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, cakkhusamphassassa nirodho …pe… jarāmaraṇassa atthaṅgamo …pe… yo manosamphassassa nirodho …pe… jarāmaraṇassa atthaṅgamo”ti.
 
-### 26.5 Samphassajasutta
+Catutthaṁ.
+
+### 26.5 Samphassajasutta {#5}
 
 1\. Sāvatthinidānaṁ.
 
@@ -48,7 +44,7 @@ Catutthaṁ.
 
 Pañcamaṁ.
 
-### 26.6 Saññāsutta
+### 26.6 Saññāsutta {#6}
 
 1\. Sāvatthinidānaṁ.
 
@@ -56,7 +52,7 @@ Pañcamaṁ.
 
 Chaṭṭhaṁ.
 
-### 26.7 Sañcetanāsutta
+### 26.7 Sañcetanāsutta {#7}
 
 1\. Sāvatthinidānaṁ.
 
@@ -64,7 +60,7 @@ Chaṭṭhaṁ.
 
 Sattamaṁ.
 
-### 26.8 Taṇhāsutta
+### 26.8 Taṇhāsutta {#8}
 
 1\. Sāvatthinidānaṁ.
 
@@ -72,29 +68,27 @@ Sattamaṁ.
 
 Aṭṭhamaṁ.
 
-### 26.9 Dhātusutta
+### 26.9 Dhātusutta {#9}
 
 1\. Sāvatthinidānaṁ.
 
-yo tejodhātuyā nirodho … yo vāyodhātuyā nirodho … yo ākāsadhātuyā nirodho … yo viññāṇadhātuyā nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.
+“Yo kho, bhikkhave, pathavīdhātuyā uppādo ṭhiti abhinibbatti pātubhāvo …pe… jarāmaraṇassa pātubhāvo; yo āpodhātuyā … yo tejodhātuyā … yo vāyodhātuyā … yo ākāsadhātuyā … yo viññāṇadhātuyā uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, pathavīdhātuyā nirodho …pe… jarāmaraṇassa atthaṅgamo; yo āpodhātuyā nirodho … yo tejodhātuyā nirodho … yo vāyodhātuyā nirodho … yo ākāsadhātuyā nirodho … yo viññāṇadhātuyā nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.
 
 Navamaṁ.
 
-“Yo kho, bhikkhave, pathavīdhātuyā uppādo ṭhiti abhinibbatti pātubhāvo …pe… jarāmaraṇassa pātubhāvo; yo āpodhātuyā … yo tejodhātuyā … yo vāyodhātuyā … yo ākāsadhātuyā … yo viññāṇadhātuyā uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, pathavīdhātuyā nirodho …pe… jarāmaraṇassa atthaṅgamo; yo āpodhātuyā nirodho …
-
-### 26.10 Khandhasutta
+### 26.10 Khandhasutta {#10}
 
 1\. Sāvatthinidānaṁ.
 
-yo saṅkhārānaṁ … yo viññāṇassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.
+“Yo kho, bhikkhave, rūpassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo vedanāya … yo saññāya … yo saṅkhārānaṁ … yo viññāṇassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, rūpassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo vedanāya … yo saññāya … yo saṅkhārānaṁ … yo viññāṇassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo”ti.
 
 Dasamaṁ.
 
 Uppādavaggo paṭhamo.
 
-“Yo kho, bhikkhave, rūpassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo vedanāya … yo saññāya … yo saṅkhārānaṁ … yo viññāṇassa uppādo ṭhiti abhinibbatti pātubhāvo, dukkhasseso uppādo, rogānaṁ ṭhiti, jarāmaraṇassa pātubhāvo. Yo ca kho, bhikkhave, rūpassa nirodho vūpasamo atthaṅgamo, dukkhasseso nirodho, rogānaṁ vūpasamo, jarāmaraṇassa atthaṅgamo. Yo vedanāya … yo saññāya … Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> 2\. Cakkhu rūpañca viññāṇaṁ,\
+> Cakkhu rūpañca viññāṇaṁ,\
 > phasso ca vedanāya ca;\
 > Saññā ca cetanā taṇhā,\
 > dhātu khandhena te dasāti.

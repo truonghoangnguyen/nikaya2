@@ -1,14 +1,10 @@
 # SN 34. Jhānasaṁyutta
 
-## Saṁyutta Nikāya 34.1
+## 1. Jhānavagga
 
-### 34.1 Samādhimūlakasamāpattisutta
+### 34.1 Samādhimūlakasamāpattisutta {#1}
 
 1\. Sāvatthinidānaṁ.
-
-evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ samāpattikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
-
-Paṭhamaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
@@ -24,13 +20,13 @@ Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samād
 
 Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati;
 
-### 34.2 Samādhimūlakaṭhitisutta
+evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ samāpattikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
+
+Paṭhamaṁ.
+
+### 34.2 Samādhimūlakaṭhitisutta {#2}
 
 1\. Sāvatthinidānaṁ.
-
-evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ ṭhitikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
-
-Dutiyaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
@@ -46,203 +42,191 @@ Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samād
 
 Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati;
 
-### 34.3 Samādhimūlakavuṭṭhānasutta
+evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ ṭhitikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
+
+Dutiyaṁ.
+
+### 34.3 Samādhimūlakavuṭṭhānasutta {#3}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ vuṭṭhānakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ vuṭṭhānakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ vuṭṭhānakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Tatiyaṁ.
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ vuṭṭhānakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ vuṭṭhānakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ vuṭṭhānakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.4 Samādhimūlakakallitasutta
+### 34.4 Samādhimūlakakallitasutta {#4}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ kallitakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ kallitakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ kallitakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ kallitakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ kallitakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Catutthaṁ.
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ kallitakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ kallitakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ kallitakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ kallitakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ kallitakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.5 Samādhimūlakaārammaṇasutta
+### 34.5 Samādhimūlakaārammaṇasutta {#5}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ ārammaṇakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ārammaṇakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ ārammaṇakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ ārammaṇakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ ārammaṇakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Pañcamaṁ.
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ ārammaṇakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ārammaṇakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ ārammaṇakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ ārammaṇakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ ārammaṇakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.6 Samādhimūlakagocarasutta
+### 34.6 Samādhimūlakagocarasutta {#6}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ gocarakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ gocarakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ gocarakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ gocarakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ gocarakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Chaṭṭhaṁ.
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ gocarakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ gocarakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ gocarakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ gocarakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ gocarakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.7 Samādhimūlakaabhinīhārasutta
+### 34.7 Samādhimūlakaabhinīhārasutta {#7}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ abhinīhārakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ abhinīhārakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ abhinīhārakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ abhinīhārakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ abhinīhārakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Sattamaṁ.
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ abhinīhārakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ abhinīhārakusalo hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ abhinīhārakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ abhinīhārakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ abhinīhārakusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.8 Samādhimūlakasakkaccakārīsutta
+### 34.8 Samādhimūlakasakkaccakārīsutta {#8}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ sakkaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sakkaccakārī hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ sakkaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ sakkaccakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ sakkaccakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Aṭṭhamaṁ.
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ sakkaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sakkaccakārī hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ sakkaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ sakkaccakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ sakkaccakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.9 Samādhimūlakasātaccakārīsutta
+### 34.9 Samādhimūlakasātaccakārīsutta {#9}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ sātaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sātaccakārī hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ sātaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ sātaccakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ sātaccakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Navamaṁ.
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ sātaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sātaccakārī hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ sātaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ sātaccakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ sātaccakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.10 Samādhimūlakasappāyakārīsutta
+### 34.10 Samādhimūlakasappāyakārīsutta {#10}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ sappāyakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sappāyakārī hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ sappāyakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ sappāyakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Dasamaṁ.
 
 (Samādhimūlakaṁ.)
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo hoti, na samādhismiṁ sappāyakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sappāyakārī hoti, na samādhismiṁ samādhikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samādhikusalo hoti, na ca samādhismiṁ sappāyakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samādhikusalo ca hoti, samādhismiṁ sappāyakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samādhikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.11 Samāpattimūlakaṭhitisutta
+### 34.11 Samāpattimūlakaṭhitisutta {#11}
 
 1\. Sāvatthinidānaṁ.
 
-pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ ṭhitikusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ ṭhitikusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ ṭhitikusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ ṭhitikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe… pavaro cā”ti.
 
 Ekādasamaṁ.
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ ṭhitikusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ ṭhitikusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ ṭhitikusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ ṭhitikusalo ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ …pe…
-
-### 34.12 Samāpattimūlakavuṭṭhānasutta
+### 34.12 Samāpattimūlakavuṭṭhānasutta {#12}
 
 1\. Sāvatthinidānaṁ.
-
-Dvādasamaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
 Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ vuṭṭhānakusalo hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ vuṭṭhānakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī …pe… pavaro cā”ti.
 
-### 34.13 Samāpattimūlakakallitasutta
+Dvādasamaṁ.
+
+### 34.13 Samāpattimūlakakallitasutta {#13}
 
 1\. Sāvatthinidānaṁ.
-
-Terasamaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
 Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ kallitakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ kallitakusalo hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ kallitakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ kallitakusalo ca. Tatra …pe… pavaro cā”ti.
 
-### 34.14 Samāpattimūlakaārammaṇasutta
+Terasamaṁ.
+
+### 34.14 Samāpattimūlakaārammaṇasutta {#14}
 
 1\. Sāvatthinidānaṁ.
-
-Cuddasamaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
 Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ ārammaṇakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ārammaṇakusalo hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ ārammaṇakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ ārammaṇakusalo ca. Tatra …pe… pavaro cā”ti.
 
-### 34.15 Samāpattimūlakagocarasutta
+Cuddasamaṁ.
+
+### 34.15 Samāpattimūlakagocarasutta {#15}
 
 1\. Sāvatthinidānaṁ.
-
-Pannarasamaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
 Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ gocarakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ gocarakusalo hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ gocarakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ gocarakusalo ca. Tatra …pe… pavaro cā”ti.
 
-### 34.16 Samāpattimūlakaabhinīhārasutta
+Pannarasamaṁ.
+
+### 34.16 Samāpattimūlakaabhinīhārasutta {#16}
 
 1\. Sāvatthinidānaṁ.
-
-Soḷasamaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
 Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ abhinīhārakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ abhinīhārakusalo hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ abhinīhārakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ abhinīhārakusalo ca. Tatra …pe… pavaro cā”ti.
 
-### 34.17 Samāpattimūlakasakkaccasutta
+Soḷasamaṁ.
+
+### 34.17 Samāpattimūlakasakkaccasutta {#17}
 
 1\. Sāvatthinidānaṁ.
-
-Sattarasamaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
 Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ sakkaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sakkaccakārī hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ sakkaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ sakkaccakārī ca. Tatra …pe… pavaro cā”ti.
 
-### 34.18 Samāpattimūlakasātaccasutta
+Sattarasamaṁ.
+
+### 34.18 Samāpattimūlakasātaccasutta {#18}
 
 1\. Sāvatthinidānaṁ.
-
-Aṭṭhārasamaṁ.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
 Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ sātaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sātaccakārī hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ sātaccakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ sātaccakārī ca. Tatra …pe… pavaro cā”ti.
 
-### 34.19 Samāpattimūlakasappāyakārīsutta
+Aṭṭhārasamaṁ.
+
+### 34.19 Samāpattimūlakasappāyakārīsutta {#19}
 
 1\. Sāvatthinidānaṁ.
 
-evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ sappāyakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sappāyakārī hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ sappāyakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ sappāyakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati; evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
 
 Ekūnavīsatimaṁ.
 
 (Samāpattimūlakaṁ.)
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo hoti, na samādhismiṁ sappāyakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sappāyakārī hoti, na samādhismiṁ samāpattikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ samāpattikusalo hoti, na ca samādhismiṁ sappāyakārī. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ samāpattikusalo ca hoti, samādhismiṁ sappāyakārī ca. Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ samāpattikusalo ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca. Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati;
-
 ### 34.20-27 Ṭhitimūlakavuṭṭhānasuttādiaṭṭhaka
 
 1\. Sāvatthinidānaṁ.
+
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo hoti, na samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ vuṭṭhānakusalo hoti, na samādhismiṁ ṭhitikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ ṭhitikusalo hoti, na ca samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo ca hoti, samādhismiṁ vuṭṭhānakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī …pe… uttamo ca pavaro cā”ti.
 
 Vīsatimaṁ.
 
@@ -250,13 +234,13 @@ Vīsatimaṁ.
 
 (Ṭhitimūlakaṁ.)
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo hoti, na samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ vuṭṭhānakusalo hoti, na samādhismiṁ ṭhitikusalo. Idha pana, bhikkhave, ekacco jhāyī neva samādhismiṁ ṭhitikusalo hoti, na ca samādhismiṁ vuṭṭhānakusalo. Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ ṭhitikusalo ca hoti, samādhismiṁ vuṭṭhānakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī …pe… uttamo ca pavaro cā”ti.
-
 ### 34.28-34 Vuṭṭhānamūlakakallitasuttādisattaka
 
 1\. Sāvatthinidānaṁ.
+
+“Cattārome, bhikkhave, jhāyī. Katame cattāro?
+
+Idha, bhikkhave, ekacco jhāyī samādhismiṁ vuṭṭhānakusalo hoti, na samādhismiṁ kallitakusalo … samādhismiṁ kallitakusalo hoti, na samādhismiṁ vuṭṭhānakusalo … neva samādhismiṁ vuṭṭhānakusalo hoti, na ca samādhismiṁ kallitakusalo … samādhismiṁ vuṭṭhānakusalo ca hoti samādhismiṁ kallitakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī …pe… uttamo ca pavaro cā”ti.
 
 Aṭṭhavīsatimaṁ.
 
@@ -264,15 +248,9 @@ Aṭṭhavīsatimaṁ.
 
 (Vuṭṭhānamūlakaṁ.)
 
-“Cattārome, bhikkhave, jhāyī. Katame cattāro?
-
-Idha, bhikkhave, ekacco jhāyī samādhismiṁ vuṭṭhānakusalo hoti, na samādhismiṁ kallitakusalo … samādhismiṁ kallitakusalo hoti, na samādhismiṁ vuṭṭhānakusalo … neva samādhismiṁ vuṭṭhānakusalo hoti, na ca samādhismiṁ kallitakusalo … samādhismiṁ vuṭṭhānakusalo ca hoti samādhismiṁ kallitakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī …pe… uttamo ca pavaro cā”ti.
-
 ### 34.35-40 Kallitamūlakaārammaṇasuttādichakka
 
 1\. Sāvatthinidānaṁ …
-
-(Kallitamūlakaṁ.)
 
 “samādhismiṁ kallitakusalo hoti, na samādhismiṁ ārammaṇakusalo … samādhismiṁ ārammaṇakusalo hoti, na samādhismiṁ kallitakusalo … neva samādhismiṁ kallitakusalo hoti, na ca samādhismiṁ ārammaṇakusalo … samādhismiṁ kallitakusalo ca hoti, samādhismiṁ ārammaṇakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī …pe… uttamo ca pavaro cā”ti.
 
@@ -280,11 +258,11 @@ Pañcatiṁsatimaṁ.
 
 (Purimamūlakāni viya yāva cattālīsamā kallitamūlakasappāyakārīsuttā cha suttāni pūretabbāni.)
 
+(Kallitamūlakaṁ.)
+
 ### 34.41-45 Ārammaṇamūlakagocarasuttādipañcaka
 
 1\. Sāvatthinidānaṁ …
-
-(Ārammaṇamūlakaṁ.)
 
 “samādhismiṁ ārammaṇakusalo hoti, na samādhismiṁ gocarakusalo … samādhismiṁ gocarakusalo hoti, na samādhismiṁ ārammaṇakusalo … neva samādhismiṁ ārammaṇakusalo hoti, na ca samādhismiṁ gocarakusalo … samādhismiṁ ārammaṇakusalo ca hoti, samādhismiṁ gocarakusalo ca. Tatra, bhikkhave, yvāyaṁ jhāyī …pe… uttamo ca pavaro cā”ti.
 
@@ -292,7 +270,9 @@ Ekacattālīsamaṁ.
 
 (Purimamūlakāni viya yāva pañcacattālīsamā ārammaṇamūlakasappāyakārīsuttā pañca suttāni pūretabbāni.)
 
-### 34.46-49 
+(Ārammaṇamūlakaṁ.)
+
+### 34.46 Sutta 46 {#46}
 
 1\. Sāvatthinidānaṁ …
 
@@ -316,7 +296,7 @@ Ekūnapaññāsamaṁ.
 
 (Gocaramūlakaṁ.)
 
-### 34.50-52 
+### 34.50 Sutta 50 {#50}
 
 1\. Sāvatthinidānaṁ …
 
@@ -334,7 +314,7 @@ Dvepaññāsamaṁ.
 
 (Abhinīhāramūlakaṁ.)
 
-### 34.53-54 
+### 34.53 Sutta 53 {#53}
 
 1\. Sāvatthinidānaṁ …
 
@@ -346,19 +326,9 @@ Tepaññāsamaṁ.
 
 Catupaññāsamaṁ.
 
-### 34.55 Sātaccamūlakasappāyakārīsutta
+### 34.55 Sātaccamūlakasappāyakārīsutta {#55}
 
 1\. Sāvatthinidānaṁ.
-
-evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ sātaccakārī ca hoti, samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
-
-Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
-
-Pañcapaññāsamaṁ.
-
-(Yathā pañcapaññāsaṁ veyyākaraṇāni honti tathā vitthāretabbāni.)
-
-Khandhavaggo tatiyo.
 
 “Cattārome, bhikkhave, jhāyī. Katame cattāro?
 
@@ -373,6 +343,16 @@ Idha pana, bhikkhave, ekacco jhāyī samādhismiṁ sātaccakārī ca hoti, sam�
 Tatra, bhikkhave, yvāyaṁ jhāyī samādhismiṁ sātaccakārī ca hoti samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro ca.
 
 Seyyathāpi, bhikkhave, gavā khīraṁ, khīramhā dadhi, dadhimhā navanītaṁ, navanītamhā sappi, sappimhā sappimaṇḍo tatra aggamakkhāyati;
+
+evameva kho, bhikkhave, yvāyaṁ jhāyī samādhismiṁ sātaccakārī ca hoti, samādhismiṁ sappāyakārī ca ayaṁ imesaṁ catunnaṁ jhāyīnaṁ aggo ca seṭṭho ca mokkho ca uttamo ca pavaro cā”ti.
+
+Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti.
+
+Pañcapaññāsamaṁ.
+
+(Yathā pañcapaññāsaṁ veyyākaraṇāni honti tathā vitthāretabbāni.)
+
+Khandhavaggo tatiyo.
 
 2\. Tassuddānaṁ
 

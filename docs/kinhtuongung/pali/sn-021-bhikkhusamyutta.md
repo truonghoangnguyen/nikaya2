@@ -1,8 +1,8 @@
 # SN 21. Bhikkhusaṁyutta
 
-## Saṁyutta Nikāya 21.1
+## 1. Bhikkhuvagga
 
-### 21.1 Kolitasutta
+### 21.1 Kolitasutta {#1}
 
 1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi: “āvuso bhikkhave”ti.
 
@@ -26,7 +26,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārā anuggahito sāvako
 
 Paṭhamaṁ.
 
-### 21.2 Upatissasutta
+### 21.2 Upatissasutta {#2}
 
 1\. Sāvatthinidānaṁ.
 
@@ -44,17 +44,13 @@ Tathā hi panāyasmato sāriputtassa dīgharattaṁ ahaṅkāramamaṅkāramān�
 
 Dutiyaṁ.
 
-### 21.3 Ghaṭasutta
+### 21.3 Ghaṭasutta {#3}
 
 1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tena kho pana samayena āyasmā ca sāriputto āyasmā ca mahāmoggallāno rājagahe viharanti veḷuvane kalandakanivāpe ekavihāre. Atha kho āyasmā sāriputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmatā mahāmoggallānena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sāriputto āyasmantaṁ mahāmoggallānaṁ etadavoca:
 
-2\. “Vippasannāni kho te, āvuso moggallāna, indriyāni; “Na khvāhaṁ, āvuso, bhagavantaṁ iddhiyā upasaṅkamiṁ; napi maṁ bhagavā iddhiyā upasaṅkami. Api ca me yāvatā bhagavā ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātu. Bhagavatopi yāvatāhaṁ ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātū”ti.
-
-“Yathākathaṁ panāyasmato mahāmoggallānassa bhagavatā saddhiṁ ahosi dhammī kathā”ti?
-
-parisuddho mukhavaṇṇo pariyodāto santena nūnāyasmā mahāmoggallāno ajja vihārena vihāsī”ti.
+2\. “Vippasannāni kho te, āvuso moggallāna, indriyāni; parisuddho mukhavaṇṇo pariyodāto santena nūnāyasmā mahāmoggallāno ajja vihārena vihāsī”ti.
 
 “Oḷārikena khvāhaṁ, āvuso, ajja vihārena vihāsiṁ. Api ca me ahosi dhammī kathā”ti.
 
@@ -63,6 +59,10 @@ parisuddho mukhavaṇṇo pariyodāto santena nūnāyasmā mahāmoggallāno ajja
 “Bhagavatā kho me, āvuso, saddhiṁ ahosi dhammī kathā”ti.
 
 “Dūre kho, āvuso, bhagavā etarahi sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Kiṁ nu kho āyasmā mahāmoggallāno bhagavantaṁ iddhiyā upasaṅkami; udāhu bhagavā āyasmantaṁ mahāmoggallānaṁ iddhiyā upasaṅkamī”ti?
+
+“Na khvāhaṁ, āvuso, bhagavantaṁ iddhiyā upasaṅkamiṁ; napi maṁ bhagavā iddhiyā upasaṅkami. Api ca me yāvatā bhagavā ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātu. Bhagavatopi yāvatāhaṁ ettāvatā dibbacakkhu visujjhi dibbā ca sotadhātū”ti.
+
+“Yathākathaṁ panāyasmato mahāmoggallānassa bhagavatā saddhiṁ ahosi dhammī kathā”ti?
 
 3\. “Idhāhaṁ, āvuso, bhagavantaṁ etadavocaṁ: ‘āraddhavīriyo āraddhavīriyoti, bhante, vuccati. Kittāvatā nu kho, bhante, āraddhavīriyo hotī’ti?
 
@@ -74,7 +74,8 @@ Evaṁ kho me, āvuso, bhagavatā saddhiṁ ahosi dhammī kathā”ti.
 
 5\. “Seyyathāpi, āvuso, mahatiyā loṇaghaṭāya parittā loṇasakkharāya yāvadeva upanikkhepanamattāya; evameva kho mayaṁ āyasmato sāriputtassa yāvadeva upanikkhepanamattāya. Āyasmā hi sāriputto bhagavatā anekapariyāyena thomito vaṇṇito pasattho:
 
-> 6\. ‘Sāriputtova paññāya,\
+6\.
+> ‘Sāriputtova paññāya,\
 > sīlena upasamena ca;\
 > Yopi pāraṅgato bhikkhu,\
 > etāvaparamo siyā’”ti.
@@ -83,7 +84,7 @@ Evaṁ kho me, āvuso, bhagavatā saddhiṁ ahosi dhammī kathā”ti.
 
 Tatiyaṁ.
 
-### 21.4 Navasutta
+### 21.4 Navasutta {#4}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -103,19 +104,21 @@ Tena kho pana samayena aññataro navo bhikkhu pacchābhattaṁ piṇḍapātapa
 
 4\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> 5\. “Nayidaṁ sithilamārabbha,\
+5\.
+> “Nayidaṁ sithilamārabbha,\
 > nayidaṁ appena thāmasā;\
 > Nibbānaṁ adhigantabbaṁ,\
 > sabbadukkhappamocanaṁ.
 
-> 6\. Ayañca daharo bhikkhu,\
+6\.
+> Ayañca daharo bhikkhu,\
 > ayamuttamapuriso;\
 > Dhāreti antimaṁ dehaṁ,\
 > jetvā māraṁ savāhinin”ti.
 
 Catutthaṁ.
 
-### 21.5 Sujātasutta
+### 21.5 Sujātasutta {#5}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -125,7 +128,8 @@ Addasā kho bhagavā āyasmantaṁ sujātaṁ dūratova āgacchantaṁ. Disvāna
 
 Idamavoca bhagavā …pe… satthā:
 
-> 2\. “Sobhati vatāyaṁ bhikkhu,\
+2\.
+> “Sobhati vatāyaṁ bhikkhu,\
 > ujubhūtena cetasā;\
 > Vippayutto visaṁyutto,\
 > anupādāya nibbuto;\
@@ -134,11 +138,9 @@ Idamavoca bhagavā …pe… satthā:
 
 Pañcamaṁ.
 
-### 21.6 Lakuṇḍakabhaddiyasutta
+### 21.6 Lakuṇḍakabhaddiyasutta {#6}
 
 1\. Sāvatthiyaṁ viharati.
-
-satthā:
 
 Atha kho āyasmā lakuṇḍakabhaddiyo yena bhagavā tenupasaṅkami.
 
@@ -148,20 +150,23 @@ Addasā kho bhagavā āyasmantaṁ lakuṇḍakabhaddiyaṁ dūratova āgacchant
 
 “Eso kho, bhikkhave, bhikkhu mahiddhiko mahānubhāvo, na ca sā samāpatti sulabharūpā yā tena bhikkhunā asamāpannapubbā. Yassa catthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharatī”ti.
 
-> Idamavoca bhagavā …pe…\
+Idamavoca bhagavā …pe… satthā:
+
+2\.
 > “Haṁsā koñcā mayūrā ca,\
 > hatthayo pasadā migā;\
 > Sabbe sīhassa bhāyanti,\
 > natthi kāyasmiṁ tulyatā.
 
-> 3\. Evameva manussesu,\
+3\.
+> Evameva manussesu,\
 > daharo cepi paññavā;\
 > So hi tattha mahā hoti,\
 > neva bālo sarīravā”ti.
 
 Chaṭṭhaṁ.
 
-### 21.7 Visākhasutta
+### 21.7 Visākhasutta {#7}
 
 1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ.
 
@@ -177,19 +182,21 @@ Tena kho pana samayena āyasmā visākho pañcālaputto upaṭṭhānasālāya�
 
 4\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> 5\. “Nābhāsamānaṁ jānanti,\
+5\.
+> “Nābhāsamānaṁ jānanti,\
 > missaṁ bālehi paṇḍitaṁ;\
 > Bhāsamānañca jānanti,\
 > desentaṁ amataṁ padaṁ.
 
-> 6\. Bhāsaye jotaye dhammaṁ,\
+6\.
+> Bhāsaye jotaye dhammaṁ,\
 > paggaṇhe isinaṁ dhajaṁ;\
 > Subhāsitadhajā isayo,\
 > dhammo hi isinaṁ dhajo”ti.
 
 Sattamaṁ.
 
-### 21.8 Nandasutta
+### 21.8 Nandasutta {#8}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -199,7 +206,8 @@ Atha kho āyasmā nando bhagavato mātucchāputto ākoṭitapaccākoṭitāni c�
 
 Idamavoca bhagavā …pe… satthā:
 
-> 2\. “Kadāhaṁ nandaṁ passeyyaṁ,\
+2\.
+> “Kadāhaṁ nandaṁ passeyyaṁ,\
 > āraññaṁ paṁsukūlikaṁ;\
 > Aññātuñchena yāpentaṁ,\
 > kāmesu anapekkhinan”ti.
@@ -208,7 +216,7 @@ Idamavoca bhagavā …pe… satthā:
 
 Aṭṭhamaṁ.
 
-### 21.9 Tissasutta
+### 21.9 Tissasutta {#9}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -222,14 +230,15 @@ Atha kho āyasmā tisso bhagavato pitucchāputto yena bhagavā tenupasaṅkami; 
 
 2\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> 3\. “Kiṁ nu kujjhasi mā kujjhi,\
+3\.
+> “Kiṁ nu kujjhasi mā kujjhi,\
 > Akkodho tissa te varaṁ;\
 > Kodhamānamakkhavinayatthañhi,\
 > Tissa brahmacariyaṁ vussatī”ti.
 
 Navamaṁ.
 
-### 21.10 Theranāmakasutta
+### 21.10 Theranāmakasutta {#10}
 
 1\. Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -237,9 +246,7 @@ Tena kho pana samayena aññataro bhikkhu theranāmako ekavihārī ceva hoti eka
 
 Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “idha, bhante, aññataro bhikkhu theranāmako ekavihārī ekavihārassa ca vaṇṇavādī”ti.
 
-2\. Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi: “Idhāhaṁ, bhante, eko gāmaṁ piṇḍāya pavisāmi eko paṭikkamāmi eko raho nisīdāmi eko caṅkamaṁ adhiṭṭhāmi. Evaṁ khvāhaṁ, bhante, ekavihārī ekavihārassa ca vaṇṇavādī”ti.
-
-“ehi tvaṁ, bhikkhu, mama vacanena theraṁ bhikkhuṁ āmantehi: ‘satthā taṁ, āvuso thera, āmantetī’”ti.
+2\. Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi: “ehi tvaṁ, bhikkhu, mama vacanena theraṁ bhikkhuṁ āmantehi: ‘satthā taṁ, āvuso thera, āmantetī’”ti.
 
 “Evaṁ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yenāyasmā thero tenupasaṅkami; upasaṅkamitvā āyasmantaṁ theraṁ etadavoca: “satthā taṁ, āvuso thera, āmantetī”ti.
 
@@ -251,6 +258,8 @@ Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitv�
 
 “Yathā kathaṁ pana tvaṁ, thera, ekavihārī ekavihārassa ca vaṇṇavādī”ti?
 
+“Idhāhaṁ, bhante, eko gāmaṁ piṇḍāya pavisāmi eko paṭikkamāmi eko raho nisīdāmi eko caṅkamaṁ adhiṭṭhāmi. Evaṁ khvāhaṁ, bhante, ekavihārī ekavihārassa ca vaṇṇavādī”ti.
+
 3\. “Attheso, thera, ekavihāro neso natthīti vadāmi. Api ca, thera, yathā ekavihāro vitthārena paripuṇṇo hoti taṁ suṇāhi, sādhukaṁ manasi karohi; bhāsissāmī”ti.
 
 “Evaṁ, bhante”ti kho …pe….
@@ -259,14 +268,15 @@ Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitv�
 
 4\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> 5\. “Sabbābhibhuṁ sabbaviduṁ sumedhaṁ,\
+5\.
+> “Sabbābhibhuṁ sabbaviduṁ sumedhaṁ,\
 > Sabbesu dhammesu anūpalittaṁ;\
 > Sabbañjahaṁ taṇhākkhaye vimuttaṁ,\
 > Tamahaṁ naraṁ ekavihārīti brūmī”ti.
 
 Dasamaṁ.
 
-### 21.11 Mahākappinasutta
+### 21.11 Mahākappinasutta {#11}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -280,12 +290,14 @@ Addasā kho bhagavā āyasmantaṁ mahākappinaṁ dūratova āgacchantaṁ. Dis
 
 2\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> 3\. “Khattiyo seṭṭho janetasmiṁ,\
+3\.
+> “Khattiyo seṭṭho janetasmiṁ,\
 > ye gottapaṭisārino;\
 > Vijjācaraṇasampanno,\
 > so seṭṭho devamānuse.
 
-> 4\. Divā tapati ādicco,\
+4\.
+> Divā tapati ādicco,\
 > rattimābhāti candimā;\
 > Sannaddho khattiyo tapati,\
 > jhāyī tapati brāhmaṇo;\
@@ -294,7 +306,7 @@ Addasā kho bhagavā āyasmantaṁ mahākappinaṁ dūratova āgacchantaṁ. Dis
 
 Ekādasamaṁ.
 
-### 21.12 Sahāyakasutta
+### 21.12 Sahāyakasutta {#12}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -308,12 +320,14 @@ Addasā kho bhagavā te bhikkhū dūratova āgacchante. Disvāna bhikkhū āmant
 
 2\. Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> 3\. “Sahāyāvatime bhikkhū,\
+3\.
+> “Sahāyāvatime bhikkhū,\
 > cirarattaṁ sametikā;\
 > Sameti nesaṁ saddhammo,\
 > dhamme buddhappavedite.
 
-> 4\. Suvinītā kappinena,\
+4\.
+> Suvinītā kappinena,\
 > dhamme ariyappavedite;\
 > Dhārenti antimaṁ dehaṁ,\
 > jetvā māraṁ savāhinin”ti.

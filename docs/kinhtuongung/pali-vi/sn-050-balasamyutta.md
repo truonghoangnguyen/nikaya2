@@ -1,60 +1,80 @@
-# Balasaṁyutta
+# SN 50. Balasaṁyutta
 
-## * Saṁyutta Nikāya 50.1–12
+## 1. Gaṅgāpeyyālavagga
 
-### 50.1-12 Balādisutta
+### 50.1-12 Gaṅgāpeyyālavagga
 
-“Pañcimāni, bhikkhave, balāni. satibalaṁ … samādhibalaṁ … paññābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro”ti.
+1\. “Pañcimāni, bhikkhave, balāni. Katamāni pañca? Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ—imāni kho, bhikkhave, pañca balānīti. Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+
+Kathañca, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, vīriyabalaṁ …pe… satibalaṁ … samādhibalaṁ … paññābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ. Evaṁ kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro”ti.
 
 Dvādasamaṁ.
 
 Gaṅgāpeyyālavaggo paṭhamo.
 
-Katamāni pañca? Saddhābalaṁ, vīriyabalaṁ, satibalaṁ, samādhibalaṁ, paññābalaṁ—imāni kho, bhikkhave, pañca balānīti. Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+2\. Tassuddānaṁ
 
-Kathañca, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, vīriyabalaṁ …pe… Tassuddānaṁ
+> Cha pācīnato ninnā,\
+> cha ninnā ca samuddato;\
+> Dvete cha dvādasa honti,\
+> vaggo tena pavuccatīti.
 
-> Cha pācīnato ninnā, cha ninnā ca samuddato; Dvete cha dvādasa honti, vaggo tena pavuccatīti.
+## 2. Appamādavagga
 
 ### 50.13-22 Appamādavagga
 
-(Appamādavaggo vitthāretabbo.)
+1\. (Appamādavaggo vitthāretabbo.)
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Tathāgataṁ padaṁ kūṭaṁ, mūlaṁ sārena vassikaṁ; Rājā candimasūriyā, vatthena dasamaṁ padanti.
+> Tathāgataṁ padaṁ kūṭaṁ,\
+> mūlaṁ sārena vassikaṁ;\
+> Rājā candimasūriyā,\
+> vatthena dasamaṁ padanti.
+
+## 3. Balakaraṇīyavagga
 
 ### 50.23-34 Balakaraṇīyavagga
 
-(Balakaraṇīyavaggo vitthāretabbo.)
+1\. (Balakaraṇīyavaggo vitthāretabbo.)
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Balaṁ bījañca nāgo ca, rukkho kumbhena sūkiyā; Ākāsena ca dve meghā, nāvā āgantukā nadīti.
+> Balaṁ bījañca nāgo ca,\
+> rukkho kumbhena sūkiyā;\
+> Ākāsena ca dve meghā,\
+> nāvā āgantukā nadīti.
+
+## 4. Esanāvagga
 
 ### 50.35-44 Esanāvagga
 
-(Esanāvaggo vitthāretabbo.)
+1\. (Esanāvaggo vitthāretabbo.)
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Esanā vidhā āsavo, Bhavo ca dukkhatā tisso; Khilaṁ malañca nīgho ca, Vedanā taṇhā tasinā cāti.
+> Esanā vidhā āsavo,\
+> Bhavo ca dukkhatā tisso;\
+> Khilaṁ malañca nīgho ca,\
+> Vedanā taṇhā tasinā cāti.
 
-### 50.45-54 Oghādisutta
+## 5. Oghavagga
 
-“Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. samādhibalaṁ … paññābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ.
+### 50.45-54 Oghavagga
+
+1\. “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+
+Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya pañca balāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu, saddhābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, vīriyabalaṁ …pe… satibalaṁ … samādhibalaṁ … paññābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ.
 
 Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya imāni pañca balāni bhāvetabbānī”ti.
 
 (Evaṁ vitthāretabbā.)
 
-Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+## 6. Punagaṅgāpeyyālavagga
 
-Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya pañca balāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu, saddhābalaṁ bhāveti vivekanissitaṁ virāganissitaṁ nirodhanissitaṁ vossaggapariṇāmiṁ, vīriyabalaṁ …pe… satibalaṁ …
+### 50.55-66 Punagaṅgāpeyyālavagga
 
-### 50.55-66 Pācīnādisutta
-
-“Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+1\. “Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
 Kathañca, bhikkhave, bhikkhu pañca balāni bhāvento pañca balāni bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro? Idha, bhikkhave, bhikkhu, saddhābalaṁ bhāveti rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ …
 
@@ -66,33 +86,43 @@ Dvādasamaṁ.
 
 Gaṅgāpeyyālavaggo chaṭṭho.
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Cha pācīnato ninnā, cha ninnā ca samuddato; Dvete cha dvādasa honti, vaggo tena pavuccatīti.
+> Cha pācīnato ninnā,\
+> cha ninnā ca samuddato;\
+> Dvete cha dvādasa honti,\
+> vaggo tena pavuccatīti.
 
 ### 50.67-76 Punaappamādavagga
 
-On Display: Title of Section Only
+1\. On Display: Title of Section Only
+
+## 7. Punabalakaraṇīyavagga
 
 ### 50.77-88 Punabalakaraṇīyavagga
 
-(Appamādavagga-balakaraṇīyavaggā vitthāretabbā.)
+1\. (Appamādavagga-balakaraṇīyavaggā vitthāretabbā.)
 
-### 50.89-98 Punaesanādisutta
+## 8. Punaesanāvagga
 
-(Evaṁ esanāpāḷi vitthāretabbā—rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ.)
+### 50.89-98 Punaesanāvagga
+
+1\. (Evaṁ esanāpāḷi vitthāretabbā—rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ.)
 
 Esanāvaggo navamo.
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Esanā vidhā āsavo, Bhavo ca dukkhatā tisso; Khilaṁ malañca nīgho ca, Vedanā taṇhā tasinā cāti.
+> Esanā vidhā āsavo,\
+> Bhavo ca dukkhatā tisso;\
+> Khilaṁ malañca nīgho ca,\
+> Vedanā taṇhā tasinā cāti.
 
-### 50.99-108 Punaoghādisutta
+## 9. Punaoghavagga
 
-“Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Oghavaggo dasamo.
+### 50.99-108 Punaoghavagga
 
-Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+1\. “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
 
 Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya pañca balāni bhāvetabbāni. Katamāni pañca? Idha, bhikkhave, bhikkhu saddhābalaṁ bhāveti …pe… paññābalaṁ bhāveti rāgavinayapariyosānaṁ dosavinayapariyosānaṁ mohavinayapariyosānaṁ.
 
@@ -100,8 +130,13 @@ Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abh
 
 Dasamaṁ.
 
-Tassuddānaṁ
+Oghavaggo dasamo.
 
-> Ogho yogo upādānaṁ, ganthā anusayena ca; Kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyāti.
+2\. Tassuddānaṁ
+
+> Ogho yogo upādānaṁ,\
+> ganthā anusayena ca;\
+> Kāmaguṇā nīvaraṇā,\
+> khandhā oruddhambhāgiyāti.
 
 Balasaṁyuttaṁ chaṭṭhaṁ.

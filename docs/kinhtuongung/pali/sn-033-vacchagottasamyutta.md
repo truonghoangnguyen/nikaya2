@@ -1,118 +1,90 @@
 # SN 33. Vacchagottasaṁyutta
 
-## Saṁyutta Nikāya 33.1
+## 1. Vacchagottavagga
 
-### 33.1 Rūpaaññāṇasutta
+### 33.1 Rūpaaññāṇasutta {#1}
 
-1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
-
-Paṭhamaṁ.
-
-Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
+1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
 “ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Rūpe kho, vaccha, aññāṇā, rūpasamudaye aññāṇā, rūpanirodhe aññāṇā, rūpanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
+“Rūpe kho, vaccha, aññāṇā, rūpasamudaye aññāṇā, rūpanirodhe aññāṇā, rūpanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
-### 33.2 Vedanāaññāṇasutta
+Paṭhamaṁ.
+
+### 33.2 Vedanāaññāṇasutta {#2}
 
 1\. Sāvatthinidānaṁ.
 
-Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
+
+“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
+
+“Vedanāya kho, vaccha, aññāṇā, vedanāsamudaye aññāṇā, vedanānirodhe aññāṇā, vedanānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Dutiyaṁ.
 
+### 33.3 Saññāaññāṇasutta {#3}
+
+1\. Sāvatthinidānaṁ.
+
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
 “ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Vedanāya kho, vaccha, aññāṇā, vedanāsamudaye aññāṇā, vedanānirodhe aññāṇā, vedanānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
-
-### 33.3 Saññāaññāṇasutta
-
-1\. Sāvatthinidānaṁ.
-
-Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+“Saññāya kho, vaccha, aññāṇā, saññāsamudaye aññāṇā, saññānirodhe aññāṇā, saññānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Tatiyaṁ.
 
+### 33.4 Saṅkhāraaññāṇasutta {#4}
+
+1\. Sāvatthinidānaṁ.
+
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
 “ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Saññāya kho, vaccha, aññāṇā, saññāsamudaye aññāṇā, saññānirodhe aññāṇā, saññānirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
-
-### 33.4 Saṅkhāraaññāṇasutta
-
-1\. Sāvatthinidānaṁ.
-
-Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+“Saṅkhāresu kho, vaccha, aññāṇā, saṅkhārasamudaye aññāṇā, saṅkhāranirodhe aññāṇā, saṅkhāranirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
 
 Catutthaṁ.
 
-Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
-
-“ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
-
-“Saṅkhāresu kho, vaccha, aññāṇā, saṅkhārasamudaye aññāṇā, saṅkhāranirodhe aññāṇā, saṅkhāranirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
-
-### 33.5 Viññāṇaaññāṇasutta
+### 33.5 Viññāṇaaññāṇasutta {#5}
 
 1\. Sāvatthinidānaṁ.
 
-Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
-
-Pañcamaṁ.
-
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
 “ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Viññāṇe kho, vaccha, aññāṇā, viññāṇasamudaye aññāṇā, viññāṇanirodhe aññāṇā, viññāṇanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti.
+“Viññāṇe kho, vaccha, aññāṇā, viññāṇasamudaye aññāṇā, viññāṇanirodhe aññāṇā, viññāṇanirodhagāminiyā paṭipadāya aññāṇā; evamimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vāti. Ayaṁ kho, vaccha, hetu, ayaṁ paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti.
+
+Pañcamaṁ.
 
 ### 33.6-10 Rūpaadassanādisuttapañcaka
 
 1\. Sāvatthinidānaṁ.
 
-saṅkhāresu kho, vaccha, adassanā …pe… viññāṇe kho, vaccha, adassanā …pe… viññāṇanirodhagāminiyā paṭipadāya adassanā …pe….
-
-Dasamaṁ.
-
 Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca:
 
 “ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā, asassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Rūpe kho, vaccha, adassanā …pe… rūpanirodhagāminiyā paṭipadāya adassanā …pe… vedanāya … saññāya …
+“Rūpe kho, vaccha, adassanā …pe… rūpanirodhagāminiyā paṭipadāya adassanā …pe… vedanāya … saññāya … saṅkhāresu kho, vaccha, adassanā …pe… viññāṇe kho, vaccha, adassanā …pe… viññāṇanirodhagāminiyā paṭipadāya adassanā …pe….
 
-### 33.11-15 
+Dasamaṁ.
+
+### 33.11 Sutta 11 {#11}
 
 1\. Sāvatthinidānaṁ.
 
-“Rūpe kho, vaccha, anabhisamayā …pe… rūpanirodhagāminiyā paṭipadāya anabhisamayā …pe….
-
-Sāvatthinidānaṁ. “Vedanāya kho, vaccha, anabhisamayā …pe….
-
-Sāvatthinidānaṁ. “Saññāya kho, vaccha, anabhisamayā …pe….
-
-Sāvatthinidānaṁ. “Saṅkhāresu kho, vaccha, anabhisamayā …pe….
-
-Sāvatthinidānaṁ. “Viññāṇe kho, vaccha, anabhisamayā …pe….
+“Rūpe kho, vaccha, anabhisamayā …pe… rūpanirodhagāminiyā paṭipadāya anabhisamayā …pe…. Sāvatthinidānaṁ. “Vedanāya kho, vaccha, anabhisamayā …pe…. Sāvatthinidānaṁ. “Saññāya kho, vaccha, anabhisamayā …pe…. Sāvatthinidānaṁ. “Saṅkhāresu kho, vaccha, anabhisamayā …pe…. Sāvatthinidānaṁ. “Viññāṇe kho, vaccha, anabhisamayā …pe….
 
 Pannarasamaṁ.
 
-### 33.16-20 
+### 33.16 Sutta 16 {#16}
 
 1\. Sāvatthinidānaṁ.
 
-Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca—ko nu kho, bho gotama, hetu, ko paccayo …pe… rūpe kho, vaccha, ananubodhā …pe… “rūpanirodhagāminiyā paṭipadāya ananubodhā …pe….
-
-Sāvatthinidānaṁ. “Vedanāya kho, vaccha …pe….
-
-Sāvatthinidānaṁ. “Saññāya kho, vaccha …pe….
-
-Sāvatthinidānaṁ. “Saṅkhāresu kho, vaccha …pe….
-
-Sāvatthinidānaṁ. “Viññāṇe kho, vaccha, ananubodhā …pe… viññāṇanirodhagāminiyā paṭipadāya ananubodhā …pe… vīsatimaṁ.
+Ekamantaṁ nisinno kho vacchagotto paribbājako bhagavantaṁ etadavoca—ko nu kho, bho gotama, hetu, ko paccayo …pe… rūpe kho, vaccha, ananubodhā …pe… “rūpanirodhagāminiyā paṭipadāya ananubodhā …pe…. Sāvatthinidānaṁ. “Vedanāya kho, vaccha …pe…. Sāvatthinidānaṁ. “Saññāya kho, vaccha …pe…. Sāvatthinidānaṁ. “Saṅkhāresu kho, vaccha …pe…. Sāvatthinidānaṁ. “Viññāṇe kho, vaccha, ananubodhā …pe… viññāṇanirodhagāminiyā paṭipadāya ananubodhā …pe… vīsatimaṁ.
 
 ### 33.21-25 Rūpaappaṭivedhādisuttapañcaka
 
@@ -158,7 +130,7 @@ Pañcatiṁsatimaṁ.
 
 Paññāsamaṁ.
 
-### 33.51-54 
+### 33.51 Sutta 51 {#51}
 
 1\. Sāvatthinidānaṁ.
 
@@ -166,17 +138,11 @@ Atha kho vacchagotto paribbājako yena bhagavā tenupasaṅkami; upasaṅkamitv�
 
 “ko nu kho, bho gotama, hetu, ko paccayo, yānimāni anekavihitāni diṭṭhigatāni loke uppajjanti—sassato lokoti vā …pe… neva hoti na na hoti tathāgato paraṁ maraṇāti vā”ti?
 
-“Rūpe kho, vaccha, appaccakkhakammā, rūpasamudaye appaccakkhakammā, rūpanirodhe appaccakkhakammā, rūpanirodhagāminiyā paṭipadāya appaccakkhakammā …pe….
-
-Sāvatthinidānaṁ. “Vedanāya kho, vaccha, appaccakkhakammā …pe… vedanānirodhagāminiyā paṭipadāya appaccakkhakammā …pe….
-
-Sāvatthinidānaṁ. “Saññāya kho, vaccha, appaccakkhakammā …pe… saññānirodhagāminiyā paṭipadāya appaccakkhakammā …pe….
-
-Sāvatthinidānaṁ. “Saṅkhāresu kho, vaccha, appaccakkhakammā …pe… saṅkhāranirodhagāminiyā paṭipadāya appaccakkhakammā …pe….
+“Rūpe kho, vaccha, appaccakkhakammā, rūpasamudaye appaccakkhakammā, rūpanirodhe appaccakkhakammā, rūpanirodhagāminiyā paṭipadāya appaccakkhakammā …pe…. Sāvatthinidānaṁ. “Vedanāya kho, vaccha, appaccakkhakammā …pe… vedanānirodhagāminiyā paṭipadāya appaccakkhakammā …pe…. Sāvatthinidānaṁ. “Saññāya kho, vaccha, appaccakkhakammā …pe… saññānirodhagāminiyā paṭipadāya appaccakkhakammā …pe…. Sāvatthinidānaṁ. “Saṅkhāresu kho, vaccha, appaccakkhakammā …pe… saṅkhāranirodhagāminiyā paṭipadāya appaccakkhakammā …pe….
 
 Catupaññāsamaṁ.
 
-### 33.55 Viññāṇaappaccakkhakammasutta
+### 33.55 Viññāṇaappaccakkhakammasutta {#55}
 
 1\. Sāvatthinidānaṁ.
 

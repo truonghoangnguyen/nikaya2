@@ -1,8 +1,8 @@
 # SN 41. Cittasaṁyutta
 
-## Saṁyutta Nikāya 41.1
+## 1. Cittavagga
 
-### 41.1 Saṁyojanasutta
+### 41.1 Saṁyojanasutta {#1}
 
 1\. Ekaṁ samayaṁ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane. Tena kho pana samayena sambahulānaṁ therānaṁ bhikkhūnaṁ pacchābhattaṁ piṇḍapātapaṭikkantānaṁ maṇḍalamāḷe sannisinnānaṁ sannipatitānaṁ ayamantarākathā udapādi:
 
@@ -20,21 +20,21 @@ Ekaccehi therehi bhikkhūhi evaṁ byākataṁ hoti: “‘saṁyojanan’ti vā
 
 4\. “‘Saṁyojanan’ti vā, bhante, ‘saṁyojaniyā dhammā’ti vā ime dhammā nānatthā ceva nānābyañjanā ca.
 
-“Evameva kho, bhante, na cakkhu rūpānaṁ saṁyojanaṁ, na rūpā cakkhussa saṁyojanaṁ; yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo taṁ tattha saṁyojanaṁ.
-
-Na sotaṁ saddānaṁ … na ghānaṁ gandhānaṁ … na jivhā rasānaṁ … na kāyo phoṭṭhabbānaṁ saṁyojanaṁ, na phoṭṭhabbā kāyassa saṁyojanaṁ; yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo taṁ tattha saṁyojanaṁ. Na mano dhammānaṁ saṁyojanaṁ, na dhammā manassa saṁyojanaṁ; yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo taṁ tattha saṁyojanan”ti.
-
-“Lābhā te, gahapati, suladdhaṁ te, gahapati, Tena hi, bhante, upamaṁ vo karissāmi. yassa te gambhīre buddhavacane paññācakkhu kamatī”ti.
-
-Paṭhamaṁ.
-
-Upamāyapidhekacce viññū purisā bhāsitassa atthaṁ ājānanti.
+Tena hi, bhante, upamaṁ vo karissāmi. Upamāyapidhekacce viññū purisā bhāsitassa atthaṁ ājānanti.
 
 Seyyathāpi, bhante, kāḷo ca balībaddo odāto ca balībaddo ekena dāmena vā yottena vā saṁyuttā assu. Yo nu kho evaṁ vadeyya: ‘kāḷo balībaddo odātassa balībaddassa saṁyojanaṁ, odāto balībaddo kāḷassa balībaddassa saṁyojanan’ti, sammā nu kho so vadamāno vadeyyā”ti?
 
 “No hetaṁ, gahapati. Na kho, gahapati, kāḷo balībaddo odātassa balībaddassa saṁyojanaṁ, napi odāto balībaddo kāḷassa balībaddassa saṁyojanaṁ; yena kho te ekena dāmena vā yottena vā saṁyuttā taṁ tattha saṁyojanan”ti.
 
-### 41.2 Paṭhamaisidattasutta
+“Evameva kho, bhante, na cakkhu rūpānaṁ saṁyojanaṁ, na rūpā cakkhussa saṁyojanaṁ; yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo taṁ tattha saṁyojanaṁ.
+
+Na sotaṁ saddānaṁ … na ghānaṁ gandhānaṁ … na jivhā rasānaṁ … na kāyo phoṭṭhabbānaṁ saṁyojanaṁ, na phoṭṭhabbā kāyassa saṁyojanaṁ; yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo taṁ tattha saṁyojanaṁ. Na mano dhammānaṁ saṁyojanaṁ, na dhammā manassa saṁyojanaṁ; yañca tattha tadubhayaṁ paṭicca uppajjati chandarāgo taṁ tattha saṁyojanan”ti.
+
+“Lābhā te, gahapati, suladdhaṁ te, gahapati, yassa te gambhīre buddhavacane paññācakkhu kamatī”ti.
+
+Paṭhamaṁ.
+
+### 41.2 Paṭhamaisidattasutta {#2}
 
 1\. Ekaṁ samayaṁ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane.
 
@@ -46,21 +46,15 @@ Atha kho therā bhikkhū tassā rattiyā accayena pubbaṇhasamayaṁ nivāsetv�
 
 2\. Atha kho citto gahapati yena therā bhikkhū tenupasaṅkami; upasaṅkamitvā there bhikkhū abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho citto gahapati āyasmantaṁ theraṁ etadavoca: “‘dhātunānattaṁ, dhātunānattan’ti, bhante thera, vuccati. Kittāvatā nu kho, bhante, dhātunānattaṁ vuttaṁ bhagavatā”ti?
 
-Tatiyampi kho āyasmā thero tuṇhī ahosi.
-
-“‘dhātunānattaṁ, dhātunānattan’ti, bhante thera, vuccati. Kittāvatā nu kho, bhante, dhātunānattaṁ vuttaṁ bhagavatā”ti?
-
 Evaṁ vutte, āyasmā thero tuṇhī ahosi.
 
 Dutiyampi kho citto gahapati āyasmantaṁ theraṁ etadavoca: “‘dhātunānattaṁ, dhātunānattan’ti, bhante thera, vuccati. Kittāvatā nu kho, bhante, dhātunānattaṁ vuttaṁ bhagavatā”ti? Dutiyampi kho āyasmā thero tuṇhī ahosi.
 
-Tatiyampi kho citto gahapati āyasmantaṁ theraṁ etadavoca: Tena kho pana samayena āyasmā isidatto tasmiṁ bhikkhusaṅghe sabbanavako hoti. cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu …pe…
+Tatiyampi kho citto gahapati āyasmantaṁ theraṁ etadavoca: “‘dhātunānattaṁ, dhātunānattan’ti, bhante thera, vuccati. Kittāvatā nu kho, bhante, dhātunānattaṁ vuttaṁ bhagavatā”ti?
 
-3\. manodhātu, dhammadhātu, manoviññāṇadhātu.
+Tatiyampi kho āyasmā thero tuṇhī ahosi.
 
-Ettāvatā kho, gahapati, dhātunānattaṁ vuttaṁ bhagavatā”ti.
-
-Atha kho āyasmā isidatto āyasmantaṁ theraṁ etadavoca: “byākaromahaṁ, bhante thera, cittassa gahapatino etaṁ pañhan”ti?
+3\. Tena kho pana samayena āyasmā isidatto tasmiṁ bhikkhusaṅghe sabbanavako hoti. Atha kho āyasmā isidatto āyasmantaṁ theraṁ etadavoca: “byākaromahaṁ, bhante thera, cittassa gahapatino etaṁ pañhan”ti?
 
 “Byākarohi tvaṁ, āvuso isidatta, cittassa gahapatino etaṁ pañhan”ti.
 
@@ -70,13 +64,19 @@ Atha kho āyasmā isidatto āyasmantaṁ theraṁ etadavoca: “byākaromahaṁ,
 
 “Idaṁ kho, gahapati, dhātunānattaṁ vuttaṁ bhagavatā—
 
+cakkhudhātu, rūpadhātu, cakkhuviññāṇadhātu …pe…
+
+manodhātu, dhammadhātu, manoviññāṇadhātu.
+
+Ettāvatā kho, gahapati, dhātunānattaṁ vuttaṁ bhagavatā”ti.
+
 4\. Atha kho citto gahapati āyasmato isidattassa bhāsitaṁ abhinanditvā anumoditvā there bhikkhū paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi. Atha kho therā bhikkhū bhuttāvino onītapattapāṇino uṭṭhāyāsanā pakkamiṁsu.
 
 Atha kho āyasmā thero āyasmantaṁ isidattaṁ etadavoca: “sādhu kho taṁ, āvuso isidatta, eso pañho paṭibhāsi, neso pañho maṁ paṭibhāsi. Tenahāvuso isidatta, yadā aññathāpi evarūpo pañho āgaccheyya, taññevettha paṭibhāseyyā”ti.
 
 Dutiyaṁ.
 
-### 41.3 Dutiyaisidattasutta
+### 41.3 Dutiyaisidattasutta {#3}
 
 1\. Ekaṁ samayaṁ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane.
 
@@ -100,15 +100,15 @@ tatiyampi kho citto gahapati āyasmantaṁ theraṁ etadavoca:
 
 Tatiyampi kho āyasmā thero tuṇhī ahosi.
 
-4\. Tena kho pana samayena āyasmā isidatto tasmiṁ bhikkhusaṅghe sabbanavako hoti. “Yā imā, gahapati, anekavihitā diṭṭhiyo loke uppajjanti: ‘sassato lokoti vā, asassato lokoti vā, antavā lokoti vā anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā. Yāni cimāni dvāsaṭṭhi diṭṭhigatāni brahmajāle bhaṇitāni;
-
-imā kho, gahapati, diṭṭhiyo sakkāyadiṭṭhiyā sati honti, sakkāyadiṭṭhiyā asati na hontī’”ti.
-
-Atha kho āyasmā isidatto āyasmantaṁ theraṁ etadavoca: “byākaromahaṁ, bhante thera, cittassa gahapatino etaṁ pañhan”ti?
+4\. Tena kho pana samayena āyasmā isidatto tasmiṁ bhikkhusaṅghe sabbanavako hoti. Atha kho āyasmā isidatto āyasmantaṁ theraṁ etadavoca: “byākaromahaṁ, bhante thera, cittassa gahapatino etaṁ pañhan”ti?
 
 “Byākarohi tvaṁ, āvuso isidatta, cittassa gahapatino etaṁ pañhan”ti.
 
 “Evañhi tvaṁ, gahapati, pucchasi: ‘yā imā, bhante thera, anekavihitā diṭṭhiyo loke uppajjanti—sassato lokoti vā …pe…; imā nu kho, bhante, diṭṭhiyo kismiṁ sati honti, kismiṁ asati na hontī’”ti? “Evaṁ, bhante”.
+
+“Yā imā, gahapati, anekavihitā diṭṭhiyo loke uppajjanti: ‘sassato lokoti vā, asassato lokoti vā, antavā lokoti vā anantavā lokoti vā, taṁ jīvaṁ taṁ sarīranti vā, aññaṁ jīvaṁ aññaṁ sarīranti vā, hoti tathāgato paraṁ maraṇāti vā, na hoti tathāgato paraṁ maraṇāti vā, hoti ca na ca hoti tathāgato paraṁ maraṇāti vā, neva hoti na na hoti tathāgato paraṁ maraṇāti vā. Yāni cimāni dvāsaṭṭhi diṭṭhigatāni brahmajāle bhaṇitāni;
+
+imā kho, gahapati, diṭṭhiyo sakkāyadiṭṭhiyā sati honti, sakkāyadiṭṭhiyā asati na hontī’”ti.
 
 5\. “Kathaṁ pana, bhante, sakkāyadiṭṭhi hotī”ti?
 
@@ -128,10 +128,6 @@ Evaṁ kho, gahapati, sakkāyadiṭṭhi na hotī”ti.
 
 7\. “Kuto, bhante, ayyo isidatto āgacchatī”ti?
 
-“Abhiramatu, bhante, ayyo isidatto macchikāsaṇḍe. Ramaṇīyaṁ ambāṭakavanaṁ. Ahaṁ ayyassa isidattassa ussukkaṁ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.
-
-“Kalyāṇaṁ vuccati, gahapatī”ti.
-
 “Avantiyā kho, gahapati, āgacchāmī”ti.
 
 “Atthi, bhante, avantiyā isidatto nāma kulaputto amhākaṁ adiṭṭhasahāyo pabbajito? Diṭṭho so āyasmatā”ti?
@@ -144,6 +140,10 @@ Evaṁ kho, gahapati, sakkāyadiṭṭhi na hotī”ti.
 
 “Evaṁ, gahapatī”ti.
 
+“Abhiramatu, bhante, ayyo isidatto macchikāsaṇḍe. Ramaṇīyaṁ ambāṭakavanaṁ. Ahaṁ ayyassa isidattassa ussukkaṁ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.
+
+“Kalyāṇaṁ vuccati, gahapatī”ti.
+
 8\. Atha kho citto gahapati āyasmato isidattassa bhāsitaṁ abhinanditvā anumoditvā there bhikkhū paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi. Atha kho therā bhikkhū bhuttāvino onītapattapāṇino uṭṭhāyāsanā pakkamiṁsu.
 
 Atha kho āyasmā thero āyasmantaṁ isidattaṁ etadavoca: “sādhu kho taṁ, āvuso isidatta, eso pañho paṭibhāsi. Neso pañho maṁ paṭibhāsi. Tenahāvuso isidatta, yadā aññathāpi evarūpo pañho āgaccheyya, taññevettha paṭibhāseyyā”ti.
@@ -152,7 +152,7 @@ Atha kho āyasmā isidatto senāsanaṁ saṁsāmetvā pattacīvaramādāya macc
 
 Tatiyaṁ.
 
-### 41.4 Mahakapāṭihāriyasutta
+### 41.4 Mahakapāṭihāriyasutta {#4}
 
 1\. Ekaṁ samayaṁ sambahulā therā bhikkhū macchikāsaṇḍe viharanti ambāṭakavane.
 
@@ -168,17 +168,17 @@ Tena kho pana samayena uṇhaṁ hoti kuthitaṁ; te ca therā bhikkhū paveliya
 
 3\. Tena kho pana samayena āyasmā mahako tasmiṁ bhikkhusaṅghe sabbanavako hoti. Atha kho āyasmā mahako āyasmantaṁ theraṁ etadavoca: “sādhu khvassa, bhante thera, sītako ca vāto vāyeyya, abbhasampilāpo ca assa, devo ca ekamekaṁ phusāyeyyā”ti.
 
-4\. “Sādhu khvassa, āvuso mahaka, yaṁ sītako ca vāto vāyeyya, abbhasampilāpo ca assa, devo ca ekamekaṁ phusāyeyyā”ti. Atha kho therā bhikkhū yathāvihāraṁ agamaṁsu. Āyasmāpi mahako sakaṁ vihāraṁ agamāsi.
-
-Atha kho āyasmā mahako tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhari yathā sītako ca vāto vāyi, abbhasampilāpo ca assa, devo ca ekamekaṁ phusi.
+4\. “Sādhu khvassa, āvuso mahaka, yaṁ sītako ca vāto vāyeyya, abbhasampilāpo ca assa, devo ca ekamekaṁ phusāyeyyā”ti. Atha kho āyasmā mahako tathārūpaṁ iddhābhisaṅkhāraṁ abhisaṅkhari yathā sītako ca vāto vāyi, abbhasampilāpo ca assa, devo ca ekamekaṁ phusi.
 
 Atha kho cittassa gahapatino etadahosi: “yo kho imasmiṁ bhikkhusaṅghe sabbanavako bhikkhu tassāyaṁ evarūpo iddhānubhāvo”ti.
 
 Atha kho āyasmā mahako ārāmaṁ sampāpuṇitvā āyasmantaṁ theraṁ etadavoca: “alamettāvatā, bhante therā”ti?
 
-“Alamettāvatā, āvuso mahaka. Katamettāvatā, āvuso mahaka. Pūjitamettāvatā, āvuso mahakā”ti. Atha kho citto gahapati yenāyasmā mahako tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahakaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho citto gahapati āyasmantaṁ mahakaṁ etadavoca: “sādhu me, bhante, ayyo mahako uttari manussadhammaṁ iddhipāṭihāriyaṁ dassetū”ti.
+“Alamettāvatā, āvuso mahaka. Katamettāvatā, āvuso mahaka. Pūjitamettāvatā, āvuso mahakā”ti. Atha kho therā bhikkhū yathāvihāraṁ agamaṁsu. Āyasmāpi mahako sakaṁ vihāraṁ agamāsi.
 
-5\. “Tena hi tvaṁ, gahapati, ālinde uttarāsaṅgaṁ paññapetvā tiṇakalāpaṁ okāsehī”ti.
+5\. Atha kho citto gahapati yenāyasmā mahako tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahakaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho citto gahapati āyasmantaṁ mahakaṁ etadavoca: “sādhu me, bhante, ayyo mahako uttari manussadhammaṁ iddhipāṭihāriyaṁ dassetū”ti.
+
+“Tena hi tvaṁ, gahapati, ālinde uttarāsaṅgaṁ paññapetvā tiṇakalāpaṁ okāsehī”ti.
 
 “Evaṁ, bhante”ti kho citto gahapati āyasmato mahakassa paṭissutvā ālinde uttarāsaṅgaṁ paññapetvā tiṇakalāpaṁ okāsesi.
 
@@ -186,23 +186,22 @@ Atha kho āyasmā mahako vihāraṁ pavisitvā sūcighaṭikaṁ datvā tathār�
 
 Atha kho āyasmā mahako vihārā nikkhamitvā cittaṁ gahapatiṁ etadavoca: “alamettāvatā, gahapatī”ti?
 
-6\. “Alamettāvatā, bhante mahaka. na puna paccāgacchīti.
-
-Catutthaṁ.
-
-Katamettāvatā, bhante, mahaka. Pūjitamettāvatā, bhante mahaka. Abhiramatu, bhante, ayyo mahako macchikāsaṇḍe. Ramaṇīyaṁ ambāṭakavanaṁ. Ahaṁ ayyassa mahakassa ussukkaṁ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.
+6\. “Alamettāvatā, bhante mahaka. Katamettāvatā, bhante, mahaka. Pūjitamettāvatā, bhante mahaka. Abhiramatu, bhante, ayyo mahako macchikāsaṇḍe. Ramaṇīyaṁ ambāṭakavanaṁ. Ahaṁ ayyassa mahakassa ussukkaṁ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.
 
 “Kalyāṇaṁ vuccati, gahapatī”ti.
 
-Atha kho āyasmā mahako senāsanaṁ saṁsāmetvā pattacīvaramādāya macchikāsaṇḍamhā pakkāmi. Yaṁ macchikāsaṇḍamhā pakkāmi, tathā pakkantova ahosi;
+Atha kho āyasmā mahako senāsanaṁ saṁsāmetvā pattacīvaramādāya macchikāsaṇḍamhā pakkāmi. Yaṁ macchikāsaṇḍamhā pakkāmi, tathā pakkantova ahosi; na puna paccāgacchīti.
 
-### 41.5 Paṭhamakāmabhūsutta
+Catutthaṁ.
+
+### 41.5 Paṭhamakāmabhūsutta {#5}
 
 1\. Ekaṁ samayaṁ āyasmā kāmabhū macchikāsaṇḍe viharati ambāṭakavane.
 
 Atha kho citto gahapati yenāyasmā kāmabhū tenupasaṅkami; upasaṅkamitvā āyasmantaṁ kāmabhuṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho cittaṁ gahapatiṁ āyasmā kāmabhū etadavoca: “Vuttamidaṁ, gahapati:
 
-> 3\. ‘Nelaṅgo setapacchādo,\
+3\.
+> ‘Nelaṅgo setapacchādo,\
 > ekāro vattatī ratho;\
 > Anīghaṁ passa āyantaṁ,\
 > chinnasotaṁ abandhanan’ti.
@@ -217,12 +216,6 @@ Atha kho citto gahapati yenāyasmā kāmabhū tenupasaṅkami; upasaṅkamitvā 
 
 5\. “‘Nelaṅgan’ti kho, bhante, sīlānametaṁ adhivacanaṁ.
 
-‘Soto’ti kho, bhante, taṇhāyetaṁ adhivacanaṁ. Sā khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Tasmā khīṇāsavo bhikkhu ‘chinnasoto’ti vuccati.
-
-Rāgo kho, bhante, bandhanaṁ, doso bandhanaṁ, moho bandhanaṁ. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Tasmā khīṇāsavo bhikkhu ‘abandhano’ti vuccati.
-
-Iti kho, bhante, yaṁ taṁ bhagavatā vuttaṁ:
-
 ‘Setapacchādo’ti kho, bhante, vimuttiyā etaṁ adhivacanaṁ.
 
 ‘Ekāro’ti kho, bhante, satiyā etaṁ adhivacanaṁ.
@@ -235,7 +228,14 @@ Rāgo kho, bhante, nīgho, doso nīgho, moho nīgho. Te khīṇāsavassa bhikkhu
 
 ‘Āyantan’ti kho, bhante, arahato etaṁ adhivacanaṁ.
 
-> 6\. ‘Nelaṅgo setapacchādo,\
+‘Soto’ti kho, bhante, taṇhāyetaṁ adhivacanaṁ. Sā khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Tasmā khīṇāsavo bhikkhu ‘chinnasoto’ti vuccati.
+
+Rāgo kho, bhante, bandhanaṁ, doso bandhanaṁ, moho bandhanaṁ. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Tasmā khīṇāsavo bhikkhu ‘abandhano’ti vuccati.
+
+Iti kho, bhante, yaṁ taṁ bhagavatā vuttaṁ:
+
+6\.
+> ‘Nelaṅgo setapacchādo,\
 > ekāro vattatī ratho;\
 > Anīghaṁ passa āyantaṁ,\
 > chinnasotaṁ abandhanan’ti.
@@ -246,7 +246,7 @@ Rāgo kho, bhante, nīgho, doso nīgho, moho nīgho. Te khīṇāsavassa bhikkhu
 
 Pañcamaṁ.
 
-### 41.6 Dutiyakāmabhūsutta
+### 41.6 Dutiyakāmabhūsutta {#6}
 
 1\. Ekaṁ samayaṁ āyasmā kāmabhū macchikāsaṇḍe viharati ambāṭakavane. Atha kho citto gahapati yenāyasmā kāmabhū tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho citto gahapati āyasmantaṁ kāmabhuṁ etadavoca:
 
@@ -259,14 +259,6 @@ Pañcamaṁ.
 “katamo pana, bhante, kāyasaṅkhāro, katamo vacīsaṅkhāro, katamo cittasaṅkhāro”ti?
 
 “Assāsapassāsā kho, gahapati, kāyasaṅkhāro, vitakkavicārā vacīsaṅkhāro, saññā ca vedanā ca cittasaṅkhāro”ti.
-
-10\. “Sādhu, bhante”ti kho citto gahapati āyasmato kāmabhussa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ kāmabhuṁ uttariṁ pañhaṁ apucchi:
-
-“saññāvedayitanirodhasamāpattiyā pana, bhante, kati dhammā bahūpakārā”ti?
-
-“Addhā kho tvaṁ, gahapati, yaṁ paṭhamaṁ pucchitabbaṁ taṁ pucchasi. Api ca tyāhaṁ byākarissāmi. Saññāvedayitanirodhasamāpattiyā kho, gahapati, dve dhammā bahūpakārā—samatho ca vipassanā cā”ti.
-
-Chaṭṭhaṁ.
 
 2\. “Sādhu, bhante”ti kho citto gahapati …pe… uttariṁ pañhaṁ apucchi:
 
@@ -316,7 +308,15 @@ Chaṭṭhaṁ.
 
 “Saññāvedayitanirodhasamāpattiyā vuṭṭhitassa kho, gahapati, bhikkhuno vivekaninnaṁ cittaṁ hoti vivekapoṇaṁ vivekapabbhāran”ti.
 
-### 41.7 Godattasutta
+10\. “Sādhu, bhante”ti kho citto gahapati āyasmato kāmabhussa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ kāmabhuṁ uttariṁ pañhaṁ apucchi:
+
+“saññāvedayitanirodhasamāpattiyā pana, bhante, kati dhammā bahūpakārā”ti?
+
+“Addhā kho tvaṁ, gahapati, yaṁ paṭhamaṁ pucchitabbaṁ taṁ pucchasi. Api ca tyāhaṁ byākarissāmi. Saññāvedayitanirodhasamāpattiyā kho, gahapati, dve dhammā bahūpakārā—samatho ca vipassanā cā”ti.
+
+Chaṭṭhaṁ.
+
+### 41.7 Godattasutta {#7}
 
 1\. Ekaṁ samayaṁ āyasmā godatto macchikāsaṇḍe viharati ambāṭakavane. Atha kho citto gahapati yenāyasmā godatto tenupasaṅkami; upasaṅkamitvā āyasmantaṁ godattaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho cittaṁ gahapatiṁ āyasmā godatto etadavoca:
 
@@ -338,6 +338,10 @@ Ayaṁ kho, bhante, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā nānatthā 
 
 6\. Katamo ca, bhante, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā ekatthā byañjanameva nānaṁ?
 
+Rāgo, bhante, pamāṇakaraṇo, doso pamāṇakaraṇo, moho pamāṇakaraṇo. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yāvatā kho, bhante, appamāṇā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati. Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena.
+
+Rāgo kho, bhante, kiñcanaṁ, doso kiñcanaṁ, moho kiñcanaṁ. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yāvatā kho, bhante, ākiñcaññā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati. Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena.
+
 Rāgo kho, bhante, nimittakaraṇo, doso nimittakaraṇo, moho nimittakaraṇo. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yāvatā kho, bhante, animittā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati. Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena.
 
 Ayaṁ kho, bhante, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā ekatthā byañjanameva nānan”ti.
@@ -346,11 +350,7 @@ Ayaṁ kho, bhante, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā ekatthā by
 
 Sattamaṁ.
 
-Rāgo, bhante, pamāṇakaraṇo, doso pamāṇakaraṇo, moho pamāṇakaraṇo. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yāvatā kho, bhante, appamāṇā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati. Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena.
-
-Rāgo kho, bhante, kiñcanaṁ, doso kiñcanaṁ, moho kiñcanaṁ. Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā. Yāvatā kho, bhante, ākiñcaññā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati. Sā kho pana akuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena.
-
-### 41.8 Nigaṇṭhanāṭaputtasutta
+### 41.8 Nigaṇṭhanāṭaputtasutta {#8}
 
 1\. Tena kho pana samayena nigaṇṭho nāṭaputto macchikāsaṇḍaṁ anuppatto hoti mahatiyā nigaṇṭhaparisāya saddhiṁ.
 
@@ -372,21 +372,17 @@ Na so khvāhaṁ, bhante, evaṁ jānanto evaṁ passanto kassa aññassa sama�
 
 4\. Evaṁ vutte, nigaṇṭho nāṭaputto sakaṁ parisaṁ apaloketvā etadavoca: “idaṁ bhavanto passantu, yāva anujuko cāyaṁ citto gahapati, yāva saṭho cāyaṁ citto gahapati, yāva māyāvī cāyaṁ citto gahapatī”ti.
 
-5\. “Idāneva kho te mayaṁ, bhante, bhāsitaṁ: Dve pañhā, dve uddesā, dve veyyākaraṇāni. Tayo pañhā, tayo uddesā, tīṇi veyyākaraṇāni. Cattāro pañhā, cattāro uddesā, cattāri veyyākaraṇāni. Pañca pañhā, pañca uddesā, pañca veyyākaraṇāni. Cha pañhā, cha uddesā, cha veyyākaraṇāni. Satta pañhā, satta uddesā, satta veyyākaraṇāni. Aṭṭha pañhā, aṭṭha uddesā, aṭṭha veyyākaraṇāni. Nava pañhā, nava uddesā, nava veyyākaraṇāni. Dasa pañhā, dasa uddesā, dasa veyyākaraṇānī”ti.
+5\. “Idāneva kho te mayaṁ, bhante, bhāsitaṁ: ‘evaṁ ājānāma idaṁ bhavanto passantu, yāva ujuko cāyaṁ citto gahapati, yāva asaṭho cāyaṁ citto gahapati, yāva amāyāvī cāyaṁ citto gahapatī’ti. Idāneva ca pana mayaṁ, bhante, bhāsitaṁ: ‘evaṁ ājānāma idaṁ bhavanto passantu, yāva anujuko cāyaṁ citto gahapati, yāva saṭho cāyaṁ citto gahapati, yāva māyāvī cāyaṁ citto gahapatī’ti. Sace te, bhante, purimaṁ saccaṁ, pacchimaṁ te micchā. Sace pana te, bhante, purimaṁ micchā, pacchimaṁ te saccaṁ.
+
+Ime kho pana, bhante, dasa sahadhammikā pañhā āgacchanti. Yadā nesaṁ atthaṁ ājāneyyāsi, atha maṁ paṭihareyyāsi saddhiṁ nigaṇṭhaparisāya. Eko pañho, eko uddeso, ekaṁ veyyākaraṇaṁ. Dve pañhā, dve uddesā, dve veyyākaraṇāni. Tayo pañhā, tayo uddesā, tīṇi veyyākaraṇāni. Cattāro pañhā, cattāro uddesā, cattāri veyyākaraṇāni. Pañca pañhā, pañca uddesā, pañca veyyākaraṇāni. Cha pañhā, cha uddesā, cha veyyākaraṇāni. Satta pañhā, satta uddesā, satta veyyākaraṇāni. Aṭṭha pañhā, aṭṭha uddesā, aṭṭha veyyākaraṇāni. Nava pañhā, nava uddesā, nava veyyākaraṇāni. Dasa pañhā, dasa uddesā, dasa veyyākaraṇānī”ti.
 
 Atha kho citto gahapati nigaṇṭhaṁ nāṭaputtaṁ ime dasa sahadhammike pañhe āpucchitvā uṭṭhāyāsanā pakkāmīti.
 
-‘evaṁ ājānāma idaṁ bhavanto passantu, yāva ujuko cāyaṁ citto gahapati, yāva asaṭho cāyaṁ citto gahapati, yāva amāyāvī cāyaṁ citto gahapatī’ti. Aṭṭhamaṁ.
+Aṭṭhamaṁ.
 
-Idāneva ca pana mayaṁ, bhante, bhāsitaṁ: ‘evaṁ ājānāma idaṁ bhavanto passantu, yāva anujuko cāyaṁ citto gahapati, yāva saṭho cāyaṁ citto gahapati, yāva māyāvī cāyaṁ citto gahapatī’ti. Sace te, bhante, purimaṁ saccaṁ, pacchimaṁ te micchā. Sace pana te, bhante, purimaṁ micchā, pacchimaṁ te saccaṁ.
-
-Ime kho pana, bhante, dasa sahadhammikā pañhā āgacchanti. Yadā nesaṁ atthaṁ ājāneyyāsi, atha maṁ paṭihareyyāsi saddhiṁ nigaṇṭhaparisāya. Eko pañho, eko uddeso, ekaṁ veyyākaraṇaṁ.
-
-### 41.9 Acelakassapasutta
+### 41.9 Acelakassapasutta {#9}
 
 1\. Tena kho pana samayena acelo kassapo macchikāsaṇḍaṁ anuppatto hoti cittassa gahapatino purāṇagihisahāyo.
-
-“acchariyaṁ vata, bho, abbhutaṁ vata, bho. Dhammassa svākkhātatā yatra hi nāma tiṁsamattehi vassehi na koci uttari manussadhammā alamariyañāṇadassanaviseso adhigato abhavissa phāsuvihāro, aññatra naggeyyā ca muṇḍeyyā ca pāvaḷanipphoṭanāya cā”ti.
 
 Assosi kho citto gahapati: “acelo kira kassapo macchikāsaṇḍaṁ anuppatto amhākaṁ purāṇagihisahāyo”ti. Atha kho citto gahapati yena acelo kassapo tenupasaṅkami; upasaṅkamitvā acelena kassapena saddhiṁ sammodi.
 
@@ -398,11 +394,9 @@ Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Eka
 
 “Imehi kho me, gahapati, tiṁsamattehi vassehi pabbajitassa natthi koci uttari manussadhammā alamariyañāṇadassanaviseso adhigato phāsuvihāro, aññatra naggeyyā ca muṇḍeyyā ca pāvaḷanipphoṭanāya cā”ti.
 
-Evaṁ vutte, citto gahapati acelaṁ kassapaṁ etadavoca: “Tuyhaṁ pana, gahapati, kīvaciraṁ upāsakattaṁ upagatassā”ti?
+Evaṁ vutte, citto gahapati acelaṁ kassapaṁ etadavoca: “acchariyaṁ vata, bho, abbhutaṁ vata, bho. Dhammassa svākkhātatā yatra hi nāma tiṁsamattehi vassehi na koci uttari manussadhammā alamariyañāṇadassanaviseso adhigato abhavissa phāsuvihāro, aññatra naggeyyā ca muṇḍeyyā ca pāvaḷanipphoṭanāya cā”ti.
 
-2\. ‘natthi taṁ saṁyojanaṁ yena saṁyojanena saṁyutto citto gahapati puna imaṁ lokaṁ āgaccheyyā’”ti.
-
-Evaṁ vutte, acelo kassapo cittaṁ gahapatiṁ etadavoca: “acchariyaṁ vata bho, abbhutaṁ vata bho. Dhammassa svākkhātatā, yatra hi nāma gihī odātavasano evarūpaṁ uttari manussadhammā alamariyañāṇadassanavisesaṁ adhigamissati phāsuvihāraṁ. Labheyyāhaṁ, gahapati, imasmiṁ dhammavinaye pabbajjaṁ, labheyyaṁ upasampadan”ti.
+2\. “Tuyhaṁ pana, gahapati, kīvaciraṁ upāsakattaṁ upagatassā”ti?
 
 “Mayhampi kho pana, bhante, tiṁsamattāni vassāni upāsakattaṁ upagatassā”ti.
 
@@ -410,9 +404,13 @@ Evaṁ vutte, acelo kassapo cittaṁ gahapatiṁ etadavoca: “acchariyaṁ vata
 
 “Gihinopi siyā, bhante. Ahañhi, bhante, yāvadeva ākaṅkhāmi, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharāmi. Ahañhi, bhante, yāvadeva ākaṅkhāmi, vitakkavicārānaṁ vūpasamā … dutiyaṁ jhānaṁ upasampajja viharāmi. Ahañhi, bhante, yāvadeva ākaṅkhāmi, pītiyā ca virāgā …pe… tatiyaṁ jhānaṁ upasampajja viharāmi. Ahañhi, bhante, yāvadeva ākaṅkhāmi, sukhassa ca pahānā …pe… catutthaṁ jhānaṁ upasampajja viharāmi.
 
-Sace kho panāhaṁ, bhante, bhagavato paṭhamataraṁ kālaṁ kareyyaṁ, anacchariyaṁ kho panetaṁ yaṁ maṁ bhagavā evaṁ byākareyya: Atha kho citto gahapati acelaṁ kassapaṁ ādāya yena therā bhikkhū tenupasaṅkami; upasaṅkamitvā there bhikkhū etadavoca:
+Sace kho panāhaṁ, bhante, bhagavato paṭhamataraṁ kālaṁ kareyyaṁ, anacchariyaṁ kho panetaṁ yaṁ maṁ bhagavā evaṁ byākareyya: ‘natthi taṁ saṁyojanaṁ yena saṁyojanena saṁyutto citto gahapati puna imaṁ lokaṁ āgaccheyyā’”ti.
 
-3\. “ayaṁ, bhante, acelo kassapo amhākaṁ purāṇagihisahāyo. Imaṁ therā pabbājentu upasampādentu. Ahamassa ussukkaṁ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.
+Evaṁ vutte, acelo kassapo cittaṁ gahapatiṁ etadavoca: “acchariyaṁ vata bho, abbhutaṁ vata bho. Dhammassa svākkhātatā, yatra hi nāma gihī odātavasano evarūpaṁ uttari manussadhammā alamariyañāṇadassanavisesaṁ adhigamissati phāsuvihāraṁ. Labheyyāhaṁ, gahapati, imasmiṁ dhammavinaye pabbajjaṁ, labheyyaṁ upasampadan”ti.
+
+3\. Atha kho citto gahapati acelaṁ kassapaṁ ādāya yena therā bhikkhū tenupasaṅkami; upasaṅkamitvā there bhikkhū etadavoca:
+
+“ayaṁ, bhante, acelo kassapo amhākaṁ purāṇagihisahāyo. Imaṁ therā pabbājentu upasampādentu. Ahamassa ussukkaṁ karissāmi cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.
 
 Alattha kho acelo kassapo imasmiṁ dhammavinaye pabbajjaṁ, alattha upasampadaṁ. Acirūpasampanno ca panāyasmā kassapo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi.
 
@@ -420,19 +418,13 @@ Alattha kho acelo kassapo imasmiṁ dhammavinaye pabbajjaṁ, alattha upasampada
 
 Navamaṁ.
 
-### 41.10 Gilānadassanasutta
+### 41.10 Gilānadassanasutta {#10}
 
 1\. Tena kho pana samayena citto gahapati ābādhiko hoti dukkhito bāḷhagilāno.
 
 Atha kho sambahulā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā saṅgamma samāgamma cittaṁ gahapatiṁ etadavocuṁ: “paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī”ti.
 
-2\. Evaṁ vutte, citto gahapati tā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā etadavoca: ‘paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti. Tāhaṁ evaṁ vadāmi: ‘tampi aniccaṁ …pe… tampi pahāya gamanīyan’”ti.
-
-“Kiṁ pana tā, ayyaputta, ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṁ sampassamānā evamāhaṁsu: ‘paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī’”ti?
-
-“Tāsaṁ kho ārāmadevatānaṁ vanadevatānaṁ rukkhadevatānaṁ osadhitiṇavanappatīsu adhivatthānaṁ devatānaṁ evaṁ hoti: ‘ayaṁ kho citto gahapati, sīlavā kalyāṇadhammo. Sace paṇidahissati—anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti, ‘tassa kho ayaṁ ijjhissati, sīlavato cetopaṇidhi visuddhattā dhammiko dhammikaṁ phalaṁ anupassatī’ti. Imaṁ kho tā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṁ sampassamānā evamāhaṁsu: “tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyan”ti.
-
-‘paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti. Tāhaṁ evaṁ vadāmi: ‘tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyan’”ti.
+2\. Evaṁ vutte, citto gahapati tā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā etadavoca: “tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyan”ti.
 
 Evaṁ vutte, cittassa gahapatino mittāmaccā ñātisālohitā cittaṁ gahapatiṁ etadavocuṁ: “satiṁ, ayyaputta, upaṭṭhapehi, mā vippalapī”ti.
 
@@ -440,13 +432,13 @@ Evaṁ vutte, cittassa gahapatino mittāmaccā ñātisālohitā cittaṁ gahapat
 
 “Evaṁ kho tvaṁ, ayyaputta, vadesi: ‘tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyan’”ti.
 
-“Tathā hi pana maṁ ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā evamāhaṁsu: “Tena hi, ayyaputta, amhepi ovadāhī”ti.
+“Tathā hi pana maṁ ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā evamāhaṁsu: ‘paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti. Tāhaṁ evaṁ vadāmi: ‘tampi aniccaṁ …pe… tampi pahāya gamanīyan’”ti.
 
-3\. Atha kho citto gahapati mittāmacce ñātisālohite buddhe ca dhamme ca saṅghe ca cāge ca samādapetvā kālamakāsīti.
+“Kiṁ pana tā, ayyaputta, ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṁ sampassamānā evamāhaṁsu: ‘paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī’”ti?
 
-Dasamaṁ.
+“Tāsaṁ kho ārāmadevatānaṁ vanadevatānaṁ rukkhadevatānaṁ osadhitiṇavanappatīsu adhivatthānaṁ devatānaṁ evaṁ hoti: ‘ayaṁ kho citto gahapati, sīlavā kalyāṇadhammo. Sace paṇidahissati—anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti, ‘tassa kho ayaṁ ijjhissati, sīlavato cetopaṇidhi visuddhattā dhammiko dhammikaṁ phalaṁ anupassatī’ti. Imaṁ kho tā ārāmadevatā vanadevatā rukkhadevatā osadhitiṇavanappatīsu adhivatthā devatā atthavasaṁ sampassamānā evamāhaṁsu: ‘paṇidhehi, gahapati, anāgatamaddhānaṁ rājā assaṁ cakkavattī’ti. Tāhaṁ evaṁ vadāmi: ‘tampi aniccaṁ, tampi addhuvaṁ, tampi pahāya gamanīyan’”ti.
 
-Cittavaggo paṭhamo.
+3\. “Tena hi, ayyaputta, amhepi ovadāhī”ti.
 
 “Tasmā hi vo evaṁ sikkhitabbaṁ—
 
@@ -457,6 +449,12 @@ Dhamme aveccappasādena samannāgatā bhavissāma: ‘svākkhāto bhagavatā dha
 Saṅghe aveccappasādena samannāgatā bhavissāma: ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā’ti.
 
 Yaṁ kho pana kiñci kule deyyadhammaṁ sabbaṁ taṁ appaṭivibhattaṁ bhavissati sīlavantehi kalyāṇadhammehīti evañhi vo sikkhitabban”ti.
+
+Atha kho citto gahapati mittāmacce ñātisālohite buddhe ca dhamme ca saṅghe ca cāge ca samādapetvā kālamakāsīti.
+
+Dasamaṁ.
+
+Cittavaggo paṭhamo.
 
 4\. Tassuddānaṁ
 

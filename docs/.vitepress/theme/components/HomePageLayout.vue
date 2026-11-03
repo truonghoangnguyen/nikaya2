@@ -1,6 +1,7 @@
   <template>
   <div class="home-container">
     <h1 style="text-align: center;">Kinh nguyên thủy (Nikāya), đọc song song Pali, Việt, Anh</h1>
+    <h2 style="text-align: center;">(Tập trung vào việc đọc để hiểu)</h2>
     <br><br>
     <div class="hero-section">
       <div class="quote-split-layout">
