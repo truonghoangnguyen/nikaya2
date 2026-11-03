@@ -1,8 +1,8 @@
 # SN 49. Sammappadhānasaṁyutta
 
-## Saṁyutta Nikāya 49.1–12
+## 1. Gaṅgāpeyyālavagga
 
-### 49.1-12 Pācīnādisutta
+### 49.1-12 Gaṅgāpeyyālavagga
 
 1\. Sāvatthinidānaṁ.
 
@@ -18,9 +18,7 @@ Anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti vāyamati 
 
 Uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati. Ime kho, bhikkhave, cattāro sammappadhānāti.
 
-2\. Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; Gaṅgāpeyyālavaggo paṭhamo.
-
-evameva kho, bhikkhave, bhikkhu cattāro sammappadhāne bhāvento cattāro sammappadhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+2\. Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu cattāro sammappadhāne bhāvento cattāro sammappadhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
 Kathañca, bhikkhave, bhikkhu cattāro sammappadhāne bhāvento cattāro sammappadhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro?
 
@@ -36,6 +34,8 @@ Evaṁ kho, bhikkhave, bhikkhu cattāro sammappadhāne bhāvento cattāro sammap
 
 Dvādasamaṁ.
 
+Gaṅgāpeyyālavaggo paṭhamo.
+
 3\. (Sammappadhānasaṁyuttassa gaṅgāpeyyālī sammappadhānavasena vitthāretabbā.)
 
 4\. Tassuddānaṁ
@@ -44,6 +44,8 @@ Dvādasamaṁ.
 > cha ninnā ca samuddato;\
 > Dvete cha dvādasa honti,\
 > vaggo tena pavuccatīti.
+
+## 2. Appamādavagga
 
 ### 49.13-22 Appamādavagga
 
@@ -56,7 +58,9 @@ Dvādasamaṁ.
 > Rājā candimasūriyā,\
 > vatthena dasamaṁ padanti.
 
-### 49.23-34 Balakaraṇīyādisutta
+## 3. Balakaraṇīyavagga
+
+### 49.23-34 Balakaraṇīyavagga
 
 1\. “Seyyathāpi, bhikkhave, ye keci balakaraṇīyā kammantā kayiranti, sabbe te pathaviṁ nissāya pathaviyaṁ patiṭṭhāya evamete balakaraṇīyā kammantā kayiranti; evameva kho, bhikkhave, bhikkhu sīlaṁ nissāya sīle patiṭṭhāya cattāro sammappadhāne bhāveti, cattāro sammappadhāne bahulīkaroti.
 
@@ -77,19 +81,21 @@ Balakaraṇīyavaggo tatiyo.
 > Ākāsena ca dve meghā,\
 > nāvā āgantukā nadīti.
 
-### 49.35-44 Esanādisuttadasaka
+## 4. Esanāvagga
 
-1\. “Tisso imā, bhikkhave, esanā. (Vitthāretabbaṁ.)
+### 49.35-44 Esanāvagga
 
-Dasamaṁ.
-
-Esanāvaggo catuttho.
-
-Katamā tisso? Kāmesanā, bhavesanā, brahmacariyesanā—imā kho, bhikkhave, tisso esanā.
+1\. “Tisso imā, bhikkhave, esanā. Katamā tisso? Kāmesanā, bhavesanā, brahmacariyesanā—imā kho, bhikkhave, tisso esanā.
 
 Imāsaṁ kho, bhikkhave, tissannaṁ esanānaṁ abhiññāya pariññāya parikkhayāya pahānāya cattāro sammappadhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu anuppannānaṁ …pe… uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati.
 
 Imāsaṁ kho, bhikkhave, tissannaṁ esanānaṁ abhiññāya pariññāya parikkhayāya pahānāya ime cattāro sammappadhānā bhāvetabbā”ti.
+
+(Vitthāretabbaṁ.)
+
+Dasamaṁ.
+
+Esanāvaggo catuttho.
 
 2\. Tassuddānaṁ
 
@@ -98,19 +104,21 @@ Imāsaṁ kho, bhikkhave, tissannaṁ esanānaṁ abhiññāya pariññāya pari
 > Khilaṁ malañca nīgho ca,\
 > Vedanā taṇhā tasinā cāti.
 
-### 49.45-54 Oghādisutta
+## 5. Oghavagga
 
-1\. “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. (Vitthāretabbā.)
+### 49.45-54 Oghavagga
 
-Dasamaṁ.
-
-Oghavaggo pañcamo.
-
-Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+1\. “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
 
 Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya cattāro sammappadhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu anuppannānaṁ …pe… uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati.
 
 Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya ime cattāro sammappadhānā bhāvetabbā”ti.
+
+(Vitthāretabbā.)
+
+Dasamaṁ.
+
+Oghavaggo pañcamo.
 
 2\. Tassuddānaṁ
 

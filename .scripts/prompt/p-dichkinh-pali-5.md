@@ -173,7 +173,9 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | kāma | bản năng | dục | |
 | chanda | mong muốn | dục | hoặc "ý nguyện" |
 | chandarāga | tham đắm | dục tham | |
-| kāma-guṇa | sợi dây trói buộc của bản năng | ngũ dục | |
+| pañca kāmaguṇa | năm sợi dây trói buộc bản năng | năm dục trưởng dưỡng | |
+| sāmisa | thuộc bản năng | | sāmisā pīti->hân hoan thuộc bản ngăng |
+| nirāmisa  | phi bản năng | | nirāmisa pīti->hân hoan phi bản năng;nirāmisā nirāmisatarā->vượt trên phi bản năng | 
 | viveka | rời bỏ | viễn ly | |
 | vivicca | rời bỏ khỏi | ly | |
 | jhāna | Thiền-na | thiền | |
@@ -188,8 +190,9 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | manoviññāṇa | nguồn thức từ trí não | ý thức | |
 | cakkhuviññāṇa | nguồn thức từ mắt | nhãn thức | |
 | pañcindriyāni | năm giác quan | ngũ căn | ở trong: mắt, tai, mũi, lưỡi, thân |
-| pañcindriyāni | năm nền tảng tinh thần | ngũ căn | ở trong: tín, tấn, niệm, định, tuệ |
-| pañcabalāni | năm sức mạnh tinh thần | ngũ lực | |
+| pañcindriyāni | năm sức mạnh tinh thần | ngũ căn | ở trong: tín, tấn, niệm, định, tuệ |
+| indriya | sức mạnh của | căn | eg: somanassindriya->sức mạnh của an lạc  |
+| pañcabalāni | năm lực tinh thần | ngũ lực | |
 | ākāsānañcāyatana | xứ Không Gian là Vô Tận | không vô biên xứ | |
 | viññāṇañcāyatana | xứ Nguồn thức Là Vô Tận | thức vô biên xứ | |
 | ākiñcaññāyatana | xứ Không Có Vật Gì | vô sở hữu xứ | |
@@ -216,10 +219,10 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | muditā | sự cùng vui | hỷ | |
 | upekkhā | sự bình thản | xả | |
 | pahānā | từ bỏ; hoàn toàn từ bỏ | xả (đoạn tận) | |
-| pīti | hân hoan | hỷ | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
-| somanassa | thư thái | hỷ  | |
+| pīti | hưng phấn | hỷ | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
+| somanassa | an lạc | hỷ  | niềm vui từ tinh thần |
 | domanassa | ưu phiền | ưu | |
-| sukha | hạnh phúc | lạc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
+| sukha | sung sướng | lạc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
 | dukkha | đau khổ | khổ | sự đau khổ nói chung, cho cả thân và tinh thần |
 | sukha-vedanā | cảm thọ dễ chịu | thọ lạc | |
 | dukkha-vedanā | cảm thọ khó chịu | thọ khổ | |

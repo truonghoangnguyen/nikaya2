@@ -156,3 +156,28 @@ Mano-viññāṇa (Ý thức) - Dhamma-saññā (Pháp tưởng)
 - Byāpāda-saññā (Sân tưởng / Ác ý tưởng - tưởng về sự giận dữ, chống đối)
 - Vihiṁsā-saññā (Hại tưởng - tưởng về sự bạo lực, tàn hại)
 - Nevasaññānāsaññāyatana (Phi tưởng phi phi tưởng xứ)
+
+### date 2026-10-29
+Phân biệt trong 4 thiền
+Pīti (hỷ) *
+Sukha (lạc)
+Somanassa (hỷ) *
+Dukkha (khổ)
+Domanassa (ưu)
+Upekkhā (xả)
+
+SN 36.31 Nirāmisasutta 
+{ hỷ (pīti);  lạc (sukha);  xả (upekkhā) } thuộc { ham muốn bản năng/dục lạc (sāmisa);  không thuộc ham muốn bản năng (nirāmisa); vượt trên cả không thuộc ham muốn bản năng (nirāmisā nirāmisatarā);}
+
+SN 48.36 
+- Lạc căn (sukhindriyaṁ)	Thuộc thân (kāyika); lạc/khả ý do thân xúc sinh (kāyasamphassaja)
+- Khổ căn (dukkhindriyaṁ)	Thuộc thân (kāyika); khổ/bất khả ý do thân xúc sinh (kāyasamphassaja)
+- Hỷ căn (somanassindriyaṁ)	Thuộc tâm (cetasika); lạc/khả ý do ý xúc sinh (manosamphassaja); khác lạc căn ở chỗ thuộc tâm
+- Ưu căn (domanassindriyaṁ)	Thuộc tâm (cetasika); khổ/bất khả ý do ý xúc sinh (manosamphassaja); khác khổ căn ở chỗ thuộc tâm
+- Xả căn (upekkhindriyaṁ)	Có thể *thuộc thân* (kāyika) hoặc thuộc tâm (cetasika); không khả ý cũng không bất khả ý (nevasātaṁ nāsātaṁ)
+
+SN 48.40 
+
+### date 2026-11-02
+driyāni/căn = nguồn năng lực, giống như dầu hỏa là 1 năng lượng, dùng trong [tín, tấn, niệm, định, tuệ] ở vật lý thì là giác quan mắt tai mũi miệng thân
+tương ứng có ngũ lực =  dầu đang cháy; pañcabalāni = năm lực tinh thần

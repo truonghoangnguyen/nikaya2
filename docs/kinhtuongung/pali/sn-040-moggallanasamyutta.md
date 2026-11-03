@@ -1,8 +1,8 @@
 # SN 40. Moggallānasaṁyutta
 
-## Saṁyutta Nikāya 40.1
+## 1. Moggallānavagga
 
-### 40.1 Paṭhamajhānapañhāsutta
+### 40.1 Paṭhamajhānapañhāsutta {#1}
 
 1\. Ekaṁ samayaṁ āyasmā mahāmoggallāno sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tatra kho āyasmā mahāmoggallāno bhikkhū āmantesi: “āvuso bhikkhave”ti.
 
@@ -20,7 +20,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārānuggahito sāvako m
 
 Paṭhamaṁ.
 
-### 40.2 Dutiyajhānapañhāsutta
+### 40.2 Dutiyajhānapañhāsutta {#2}
 
 1\. “‘Dutiyaṁ jhānaṁ, dutiyaṁ jhānan’ti vuccati. Katamaṁ nu kho dutiyaṁ jhānanti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati. Idaṁ vuccati dutiyaṁ jhānan’ti.
 
@@ -34,7 +34,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārānuggahito sāvako m
 
 Dutiyaṁ.
 
-### 40.3 Tatiyajhānapañhāsutta
+### 40.3 Tatiyajhānapañhāsutta {#3}
 
 1\. “‘Tatiyaṁ jhānaṁ, tatiyaṁ jhānan’ti vuccati. Katamaṁ nu kho tatiyaṁ jhānanti? Tassa mayhaṁ, āvuso, etadahosi—idha bhikkhu pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati. Idaṁ vuccati tatiyaṁ jhānanti.
 
@@ -46,7 +46,7 @@ So khvāhaṁ, āvuso, aparena samayena pītiyā ca virāgā upekkhako ca vihar�
 
 Tatiyaṁ.
 
-### 40.4 Catutthajhānapañhāsutta
+### 40.4 Catutthajhānapañhāsutta {#4}
 
 1\. “‘Catutthaṁ jhānaṁ, catutthaṁ jhānan’ti vuccati. Katamaṁ nu kho catutthaṁ jhānanti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati. Idaṁ vuccati catutthaṁ jhānan’ti.
 
@@ -60,7 +60,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Catutthaṁ.
 
-### 40.5 Ākāsānañcāyatanapañhāsutta
+### 40.5 Ākāsānañcāyatanapañhāsutta {#5}
 
 1\. “‘Ākāsānañcāyatanaṁ, ākāsānañcāyatanan’ti vuccati. Katamaṁ nu kho ākāsānañcāyatananti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbaso rūpasaññānaṁ samatikkamā paṭighasaññānaṁ atthaṅgamā nānattasaññānaṁ amanasikārā ananto ākāsoti ākāsānañcāyatanaṁ upasampajja viharati. Idaṁ vuccati ākāsānañcāyatanan’ti.
 
@@ -74,7 +74,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Pañcamaṁ.
 
-### 40.6 Viññāṇañcāyatanapañhāsutta
+### 40.6 Viññāṇañcāyatanapañhāsutta {#6}
 
 1\. “‘Viññāṇañcāyatanaṁ, viññāṇañcāyatanan’ti vuccati. Katamaṁ nu kho viññāṇañcāyatananti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbaso ākāsānañcāyatanaṁ samatikkamma anantaṁ viññāṇanti viññāṇañcāyatanaṁ upasampajja viharati. Idaṁ vuccati viññāṇañcāyatanan’ti.
 
@@ -88,7 +88,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Chaṭṭhaṁ.
 
-### 40.7 Ākiñcaññāyatanapañhāsutta
+### 40.7 Ākiñcaññāyatanapañhāsutta {#7}
 
 1\. “‘Ākiñcaññāyatanaṁ, ākiñcaññāyatanan’ti vuccati. Katamaṁ nu kho ākiñcaññāyatananti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma natthi kiñcīti ākiñcaññāyatanaṁ upasampajja viharati. Idaṁ vuccati ākiñcaññāyatanan’ti.
 
@@ -102,7 +102,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Sattamaṁ.
 
-### 40.8 Nevasaññānāsaññāyatanapañhāsutta
+### 40.8 Nevasaññānāsaññāyatanapañhāsutta {#8}
 
 1\. “‘Nevasaññānāsaññāyatanaṁ, nevasaññānāsaññāyatanan’ti vuccati. Katamaṁ nu kho nevasaññānāsaññāyatananti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbaso ākiñcaññāyatanaṁ samatikkamma nevasaññānāsaññāyatanaṁ upasampajja viharati. Idaṁ vuccati nevasaññānāsaññāyatanan’ti.
 
@@ -116,7 +116,7 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya …pe… mahābhiññataṁ patto
 
 Aṭṭhamaṁ.
 
-### 40.9 Animittapañhāsutta
+### 40.9 Animittapañhāsutta {#9}
 
 1\. “‘Animitto cetosamādhi, animitto cetosamādhī’ti vuccati. Katamo nu kho animitto cetosamādhīti? Tassa mayhaṁ, āvuso, etadahosi: ‘idha bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati. Ayaṁ vuccati animitto cetosamādhī’ti.
 
@@ -130,9 +130,31 @@ Yañhi taṁ, āvuso, sammā vadamāno vadeyya: ‘satthārānuggahito sāvako m
 
 Navamaṁ.
 
-### 40.10 Sakkasutta
+### 40.10 Sakkasutta {#10}
 
 1\. Atha kho āyasmā mahāmoggallāno—seyyathāpi nāma balavā puriso samiñjitaṁ vā bāhaṁ pasāreyya, pasāritaṁ vā bāhaṁ samiñjeyya; evameva—jetavane antarahito devesu tāvatiṁsesu pāturahosi. Atha kho sakko devānamindo pañcahi devatāsatehi saddhiṁ yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho sakkaṁ devānamindaṁ āyasmā mahāmoggallāno etadavoca:
+
+2\. “Sādhu kho, devānaminda, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, devānaminda, dhammasaraṇagamanaṁ hoti. Dhammasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, devānaminda, saṅghasaraṇagamanaṁ hoti. Saṅghasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
+
+3\. “Sādhu kho, mārisa moggallāna, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, mārisa moggallāna, dhammasaraṇagamanaṁ hoti. Dhammasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, mārisa moggallāna, saṅgha …pe… sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
+
+4\. Atha kho sakko devānamindo chahi devatāsatehi saddhiṁ …pe…
+
+atha kho sakko devānamindo sattahi devatāsatehi saddhiṁ …pe…
+
+atha kho sakko devānamindo aṭṭhahi devatāsatehi saddhiṁ …pe…
+
+atha kho sakko devānamindo asītiyā devatāsahassehi saddhiṁ yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho sakkaṁ devānamindaṁ āyasmā mahāmoggallāno etadavoca:
+
+5\. “Sādhu kho, devānaminda, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, devānaminda, dhammasaraṇagamanaṁ hoti. Dhammasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, devānaminda, saṅghasaraṇagamanaṁ hoti. Saṅghasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
+
+6\. “Sādhu kho, mārisa moggallāna, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, mārisa moggallāna, dhammasaraṇagamanaṁ hoti …pe… sādhu kho, mārisa moggallāna, saṅghasaraṇagamanaṁ hoti. Saṅghasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
+
+7\. Atha kho sakko devānamindo pañcahi devatāsatehi saddhiṁ yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho sakkaṁ devānamindaṁ āyasmā mahāmoggallāno etadavoca:
+
+8\. “Sādhu kho, devānaminda, buddhe aveccappasādena samannāgamanaṁ hoti: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Buddhe aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
+
+9\. Sādhu kho, devānaminda, dhamme aveccappasādena samannāgamanaṁ hoti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhī’ti. Dhamme aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
 
 10\. Sādhu kho, devānaminda, saṅghe aveccappasādena samannāgamanaṁ hoti: ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā’ti. Saṅghe aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
 
@@ -154,8 +176,6 @@ Atha kho sakko devānamindo asītiyā devatāsahassehi saddhiṁ yenāyasmā mah
 
 19\. Sādhu kho, devānaminda, saṅghe aveccappasādena samannāgamanaṁ hoti: ‘suppaṭipanno bhagavato sāvakasaṅgho …pe… anuttaraṁ puññakkhettaṁ lokassā’ti. Saṅghe aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
 
-2\. “Sādhu kho, devānaminda, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, devānaminda, dhammasaraṇagamanaṁ hoti. Dhammasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, devānaminda, saṅghasaraṇagamanaṁ hoti. Saṅghasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
-
 20\. Sādhu kho, devānaminda, ariyakantehi sīlehi samannāgamanaṁ hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Ariyakantehi sīlehi samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
 
 21\. “Sādhu kho, mārisa moggallāna, buddhe aveccappasādena samannāgamanaṁ hoti: ‘itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavā’ti. Buddhe aveccappasādena samannāgamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
@@ -175,8 +195,6 @@ Atha kho sakko devānamindo asītiyā devatāsahassehi saddhiṁ yenāyasmā mah
 28\. Sādhu kho, devānaminda, saṅghasaraṇagamanaṁ hoti. Saṅghasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Te aññe deve dasahi ṭhānehi adhigaṇhanti—dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehī”ti.
 
 29\. “Sādhu kho, mārisa moggallāna, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Te aññe deve dasahi ṭhānehi adhigaṇhanti—dibbena āyunā …pe… dibbehi phoṭṭhabbehi.
-
-3\. “Sādhu kho, mārisa moggallāna, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, mārisa moggallāna, dhammasaraṇagamanaṁ hoti. Dhammasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, mārisa moggallāna, saṅgha …pe… sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
 
 30\. Sādhu kho, mārisa moggallāna, dhammasaraṇagamanaṁ hoti …pe….
 
@@ -204,14 +222,6 @@ atha kho sakko devānamindo asītiyā devatāsahassehi saddhiṁ yenāyasmā mah
 
 39\. Sādhu kho, devānaminda, dhamme aveccappasādena samannāgamanaṁ hoti: ‘svākkhāto bhagavatā dhammo …pe… paccattaṁ veditabbo viññūhī’ti. Dhamme aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti …pe….
 
-4\. Atha kho sakko devānamindo chahi devatāsatehi saddhiṁ …pe…
-
-atha kho sakko devānamindo sattahi devatāsatehi saddhiṁ …pe…
-
-atha kho sakko devānamindo aṭṭhahi devatāsatehi saddhiṁ …pe…
-
-atha kho sakko devānamindo asītiyā devatāsahassehi saddhiṁ yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho sakkaṁ devānamindaṁ āyasmā mahāmoggallāno etadavoca:
-
 40\. Sādhu kho, devānaminda, saṅghe aveccappasādena samannāgamanaṁ hoti: ‘suppaṭipanno bhagavato sāvakasaṅgho …pe… lokassā’ti. Saṅghe aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti …pe….
 
 41\. Sādhu kho, devānaminda, ariyakantehi sīlehi samannāgamanaṁ hoti akhaṇḍehi …pe… samādhisaṁvattanikehi. Ariyakantehi sīlehi samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Te aññe deve dasahi ṭhānehi adhigaṇhanti—dibbena āyunā …pe… dibbehi phoṭṭhabbehī”ti.
@@ -238,8 +248,6 @@ atha kho sakko devānamindo asītiyā devatāsahassehi saddhiṁ yenāyasmā mah
 
 49\. Sādhu kho, devānaminda, saṅghe aveccappasādena samannāgamanaṁ hoti: ‘suppaṭipanno bhagavato sāvakasaṅgho, ujuppaṭipanno bhagavato sāvakasaṅgho, ñāyappaṭipanno bhagavato sāvakasaṅgho, sāmīcippaṭipanno bhagavato sāvakasaṅgho, yadidaṁ cattāri purisayugāni aṭṭha purisapuggalā esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassā’ti. Saṅghe aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Te aññe deve dasahi ṭhānehi adhigaṇhanti—dibbena āyunā …pe… dibbehi phoṭṭhabbehi.
 
-5\. “Sādhu kho, devānaminda, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, devānaminda, dhammasaraṇagamanaṁ hoti. Dhammasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, devānaminda, saṅghasaraṇagamanaṁ hoti. Saṅghasaraṇagamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
-
 50\. Sādhu kho, devānaminda, ariyakantehi sīlehi samannāgamanaṁ hoti akhaṇḍehi acchiddehi asabalehi akammāsehi bhujissehi viññuppasatthehi aparāmaṭṭhehi samādhisaṁvattanikehi. Ariyakantehi sīlehi samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Te aññe deve dasahi ṭhānehi adhigaṇhanti—dibbena āyunā, dibbena vaṇṇena, dibbena sukhena, dibbena yasena, dibbena ādhipateyyena, dibbehi rūpehi, dibbehi saddehi, dibbehi gandhehi, dibbehi rasehi, dibbehi phoṭṭhabbehī”ti.
 
 51\. “Sādhu kho, mārisa moggallāna, buddhe aveccappasādena samannāgamanaṁ hoti: ‘itipi so bhagavā …pe… satthā devamanussānaṁ buddho bhagavā’ti. Buddhe aveccappasādena samannāgamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Te aññe deve dasahi ṭhānehi adhigaṇhanti—dibbena āyunā …pe… dibbehi phoṭṭhabbehi.
@@ -252,15 +260,7 @@ atha kho sakko devānamindo asītiyā devatāsahassehi saddhiṁ yenāyasmā mah
 
 Dasamaṁ.
 
-6\. “Sādhu kho, mārisa moggallāna, buddhasaraṇagamanaṁ hoti. Buddhasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti. Sādhu kho, mārisa moggallāna, dhammasaraṇagamanaṁ hoti …pe… sādhu kho, mārisa moggallāna, saṅghasaraṇagamanaṁ hoti. Saṅghasaraṇagamanahetu kho, mārisa moggallāna, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti.
-
-7\. Atha kho sakko devānamindo pañcahi devatāsatehi saddhiṁ yenāyasmā mahāmoggallāno tenupasaṅkami; upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitaṁ kho sakkaṁ devānamindaṁ āyasmā mahāmoggallāno etadavoca:
-
-8\. “Sādhu kho, devānaminda, buddhe aveccappasādena samannāgamanaṁ hoti: ‘itipi so bhagavā arahaṁ sammāsambuddho vijjācaraṇasampanno sugato lokavidū anuttaro purisadammasārathi satthā devamanussānaṁ buddho bhagavā’ti. Buddhe aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
-
-9\. Sādhu kho, devānaminda, dhamme aveccappasādena samannāgamanaṁ hoti: ‘svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehipassiko opaneyyiko paccattaṁ veditabbo viññūhī’ti. Dhamme aveccappasādena samannāgamanahetu kho, devānaminda, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjanti.
-
-### 40.11 Candanasutta
+### 40.11 Candanasutta {#11}
 
 1\. Atha kho candano devaputto …pe….
 

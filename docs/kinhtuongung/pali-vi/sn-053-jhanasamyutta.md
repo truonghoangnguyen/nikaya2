@@ -1,10 +1,10 @@
-# Jhānasaṁyutta
+# SN 53. Jhānasaṁyutta
 
-## * Saṁyutta Nikāya 53.1–12
+## 1. Gaṅgāpeyyālavagga
 
-### 53.1-12 Jhānādisutta
+### 53.1-12 Gaṅgāpeyyālavagga
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Tatra kho …pe…
 
@@ -20,9 +20,7 @@ Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atth
 
 Ime kho, bhikkhave, cattāro jhānāti.
 
-Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; Gaṅgāpeyyālavaggo paṭhamo.
-
-evameva kho, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+2\. Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā; evameva kho, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 
 Kathañca, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro?
 
@@ -34,46 +32,71 @@ Evaṁ kho, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne bahulī
 
 Dvādasamaṁ.
 
-Tassuddānaṁ
+Gaṅgāpeyyālavaggo paṭhamo.
 
-> Cha pācīnato ninnā, cha ninnā ca samuddato; Dvete cha dvādasa honti, vaggo tena pavuccatīti.
+3\. Tassuddānaṁ
+
+> Cha pācīnato ninnā,\
+> cha ninnā ca samuddato;\
+> Dvete cha dvādasa honti,\
+> vaggo tena pavuccatīti.
+
+## 2. Appamādavagga
 
 ### 53.13-22 Appamādavagga
 
-(Appamādavaggo vitthāretabbo.)
+1\. (Appamādavaggo vitthāretabbo.)
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Tathāgataṁ padaṁ kūṭaṁ, mūlaṁ sāro ca vassikaṁ; Rājā candimasūriyā, vatthena dasamaṁ padanti.
+> Tathāgataṁ padaṁ kūṭaṁ,\
+> mūlaṁ sāro ca vassikaṁ;\
+> Rājā candimasūriyā,\
+> vatthena dasamaṁ padanti.
+
+## 3. Balakaraṇīyavagga
 
 ### 53.23-34 Balakaraṇīyavagga
 
-(Balakaraṇīyavaggo vitthāretabbo.)
+1\. (Balakaraṇīyavaggo vitthāretabbo.)
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Balaṁ bījañca nāgo ca, rukkho kumbhena sūkiyā; Ākāsena ca dve meghā, nāvā āgantukā nadīti.
+> Balaṁ bījañca nāgo ca,\
+> rukkho kumbhena sūkiyā;\
+> Ākāsena ca dve meghā,\
+> nāvā āgantukā nadīti.
+
+## 4. Esanāvagga
 
 ### 53.35-44 Esanāvagga
 
-(Esanāvaggo vitthāretabbo.)
+1\. (Esanāvaggo vitthāretabbo.)
 
-Tassuddānaṁ
+2\. Tassuddānaṁ
 
-> Esanā vidhā āsavo, Bhavo ca dukkhatā tisso; Khilaṁ malañca nīgho ca, Vedanā taṇhā tasinā cāti.
+> Esanā vidhā āsavo,\
+> Bhavo ca dukkhatā tisso;\
+> Khilaṁ malañca nīgho ca,\
+> Vedanā taṇhā tasinā cāti.
 
-### 53.45-54 Oghādisutta
+## 5. Oghavagga
 
-“Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. catutthaṁ jhānaṁ upasampajja viharati. Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya ime cattāro jhānā bhāvetabbā”ti vitthāretabbaṁ.
+### 53.45-54 Oghavagga
+
+1\. “Pañcimāni, bhikkhave, uddhambhāgiyāni saṁyojanāni. Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+
+Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya cattāro jhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ …pe… tatiyaṁ jhānaṁ …pe… catutthaṁ jhānaṁ upasampajja viharati. Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya ime cattāro jhānā bhāvetabbā”ti vitthāretabbaṁ.
 
 (Yathā maggasaṁyuttaṁ tathā vitthāretabbaṁ.)
 
 Oghavaggo pañcamo.
 
-Katamāni pañca? Rūparāgo, arūparāgo, māno, uddhaccaṁ, avijjā—imāni kho, bhikkhave, pañcuddhambhāgiyāni saṁyojanāni.
+2\. Tassuddānaṁ
 
-Imesaṁ kho, bhikkhave, pañcannaṁ uddhambhāgiyānaṁ saṁyojanānaṁ abhiññāya pariññāya parikkhayāya pahānāya cattāro jhānā bhāvetabbā. Katame cattāro? Idha, bhikkhave, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ …pe… tatiyaṁ jhānaṁ …pe… Tassuddānaṁ
-
-> Ogho yogo upādānaṁ, ganthā anusayena ca; Kāmaguṇā nīvaraṇā, khandhā oruddhambhāgiyāti.
+> Ogho yogo upādānaṁ,\
+> ganthā anusayena ca;\
+> Kāmaguṇā nīvaraṇā,\
+> khandhā oruddhambhāgiyāti.
 
 Jhānasaṁyuttaṁ navamaṁ.

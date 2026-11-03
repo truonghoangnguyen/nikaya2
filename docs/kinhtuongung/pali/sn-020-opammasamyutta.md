@@ -1,8 +1,8 @@
 # SN 20. Opammasaṁyutta
 
-## Saṁyutta Nikāya 20.1
+## 1. Opammavagga
 
-### 20.1 Kūṭasutta
+### 20.1 Kūṭasutta {#1}
 
 1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -14,13 +14,9 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. 
 
 Paṭhamaṁ.
 
-### 20.2 Nakhasikhasutta
+### 20.2 Nakhasikhasutta {#2}
 
 1\. Sāvatthiyaṁ viharati.
-
-Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
-
-Dutiyaṁ.
 
 Atha kho bhagavā parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā bhikkhū āmantesi: “Taṁ kiṁ maññatha, bhikkhave, katamaṁ nu kho bahutaraṁ, yo cāyaṁ mayā paritto nakhasikhāyaṁ paṁsu āropito yā cāyaṁ mahāpathavī”ti?
 
@@ -28,7 +24,11 @@ Atha kho bhagavā parittaṁ nakhasikhāyaṁ paṁsuṁ āropetvā bhikkhū ām
 
 “Evameva kho, bhikkhave, appakā te sattā ye manussesu paccājāyanti; atha kho eteyeva bahutarā sattā ye aññatra manussehi paccājāyanti.
 
-### 20.3 Kulasutta
+Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
+
+Dutiyaṁ.
+
+### 20.3 Kulasutta {#3}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -38,7 +38,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā
 
 Tatiyaṁ.
 
-### 20.4 Okkhāsutta
+### 20.4 Okkhāsutta {#4}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -48,23 +48,23 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā
 
 Catutthaṁ.
 
-### 20.5 Sattisutta
+### 20.5 Sattisutta {#5}
 
 1\. Sāvatthiyaṁ viharati.
-
-Yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.
 
 “Seyyathāpi, bhikkhave, satti tiṇhaphalā. Atha puriso āgaccheyya: ‘ahaṁ imaṁ sattiṁ tiṇhaphalaṁ pāṇinā vā muṭṭhinā vā paṭileṇissāmi paṭikoṭṭissāmi paṭivaṭṭessāmī’ti.
 
 Taṁ kiṁ maññatha, bhikkhave, bhabbo nu kho so puriso amuṁ sattiṁ tiṇhaphalaṁ pāṇinā vā muṭṭhinā vā paṭileṇetuṁ paṭikoṭṭetuṁ paṭivaṭṭetun”ti?
 
-“No hetaṁ, bhante”. “Taṁ kissa hetu”? “Asu hi, bhante, satti tiṇhaphalā na sukarā pāṇinā vā muṭṭhinā vā paṭileṇetuṁ paṭikoṭṭetuṁ paṭivaṭṭetuṁ. “Evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, tassa ce amanusso cittaṁ khipitabbaṁ maññeyya; atha kho sveva amanusso kilamathassa vighātassa bhāgī assa.
+“No hetaṁ, bhante”. “Taṁ kissa hetu”? “Asu hi, bhante, satti tiṇhaphalā na sukarā pāṇinā vā muṭṭhinā vā paṭileṇetuṁ paṭikoṭṭetuṁ paṭivaṭṭetuṁ. Yāvadeva ca pana so puriso kilamathassa vighātassa bhāgī assā”ti.
 
-2\. Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
+2\. “Evameva kho, bhikkhave, yassa kassaci bhikkhuno mettācetovimutti bhāvitā bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā, tassa ce amanusso cittaṁ khipitabbaṁ maññeyya; atha kho sveva amanusso kilamathassa vighātassa bhāgī assa.
+
+Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘mettā no cetovimutti bhāvitā bhavissati bahulīkatā yānīkatā vatthukatā anuṭṭhitā paricitā susamāraddhā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
 
 Pañcamaṁ.
 
-### 20.6 Dhanuggahasutta
+### 20.6 Dhanuggahasutta {#6}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -80,7 +80,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. 
 
 Chaṭṭhaṁ.
 
-### 20.7 Āṇisutta
+### 20.7 Āṇisutta {#7}
 
 1\. Sāvatthiyaṁ viharati.
 
@@ -94,7 +94,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘ye te suttantā tathāgatabhās
 
 Sattamaṁ.
 
-### 20.8 Kaliṅgarasutta
+### 20.8 Kaliṅgarasutta {#8}
 
 1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā vesāliyaṁ viharati mahāvane kūṭāgārasālāyaṁ. Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
@@ -108,7 +108,7 @@ Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘kaliṅgarūpadhānā vihariss�
 
 Aṭṭhamaṁ.
 
-### 20.9 Nāgasutta
+### 20.9 Nāgasutta {#9}
 
 1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena aññataro navo bhikkhu ativelaṁ kulāni upasaṅkamati.
 
@@ -122,21 +122,17 @@ So bhikkhu bhikkhūhi vuccamāno evamāha: “ime hi nāma therā bhikkhū kulā
 
 Tesaṁyeva kho pana, bhikkhave, mahānāgānaṁ anusikkhamānā taruṇā bhiṅkacchāpā taṁ sarasiṁ ogāhetvā soṇḍāya bhisamuḷālaṁ abbuhetvā na suvikkhālitaṁ vikkhāletvā sakaddamaṁ asaṅkhāditvā ajjhoharanti. Tesaṁ taṁ neva vaṇṇāya hoti na balāya. Tatonidānaṁ maraṇaṁ vā nigacchanti maraṇamattaṁ vā dukkhaṁ.
 
-4\. Evameva kho, bhikkhave, idha therā bhikkhū pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisanti. Tesaṁ taṁ neva vaṇṇāya hoti na balāya, te tatonidānaṁ maraṇaṁ vā nigacchanti maraṇamattaṁ vā dukkhaṁ.
+4\. Evameva kho, bhikkhave, idha therā bhikkhū pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisanti. Te tattha dhammaṁ bhāsanti. Tesaṁ gihī pasannākāraṁ karonti. Te taṁ lābhaṁ agadhitā amucchitā anajjhopannā ādīnavadassāvino nissaraṇapaññā paribhuñjanti. Tesaṁ taṁ vaṇṇāya ceva hoti balāya ca, na ca tatonidānaṁ maraṇaṁ vā nigacchanti maraṇamattaṁ vā dukkhaṁ.
+
+Tesaṁyeva kho pana, bhikkhave, therānaṁ bhikkhūnaṁ anusikkhamānā navā bhikkhū pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisanti. Te tattha dhammaṁ bhāsanti. Tesaṁ gihī pasannākāraṁ karonti. Te taṁ lābhaṁ gadhitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti. Tesaṁ taṁ neva vaṇṇāya hoti na balāya, te tatonidānaṁ maraṇaṁ vā nigacchanti maraṇamattaṁ vā dukkhaṁ.
 
 Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘agadhitā amucchitā anajjhopannā ādīnavadassāvino nissaraṇapaññā taṁ lābhaṁ paribhuñjissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
 
 Navamaṁ.
 
-Te tattha dhammaṁ bhāsanti. Tesaṁ gihī pasannākāraṁ karonti. Te taṁ lābhaṁ agadhitā amucchitā anajjhopannā ādīnavadassāvino nissaraṇapaññā paribhuñjanti. Tesaṁ taṁ vaṇṇāya ceva hoti balāya ca, na ca tatonidānaṁ maraṇaṁ vā nigacchanti maraṇamattaṁ vā dukkhaṁ.
-
-Tesaṁyeva kho pana, bhikkhave, therānaṁ bhikkhūnaṁ anusikkhamānā navā bhikkhū pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisanti. Te tattha dhammaṁ bhāsanti. Tesaṁ gihī pasannākāraṁ karonti. Te taṁ lābhaṁ gadhitā mucchitā ajjhopannā anādīnavadassāvino anissaraṇapaññā paribhuñjanti.
-
-### 20.10 Biḷārasutta
+### 20.10 Biḷārasutta {#10}
 
 1\. Sāvatthiyaṁ viharati.
-
-So bhikkhu bhikkhūhi vuccamāno na viramatī”ti.
 
 Tena kho pana samayena aññataro bhikkhu ativelaṁ kulesu cārittaṁ āpajjati.
 
@@ -144,39 +140,35 @@ Tamenaṁ bhikkhū evamāhaṁsu: “māyasmā ativelaṁ kulesu cārittaṁ āp
 
 So bhikkhu bhikkhūhi vuccamāno na viramati.
 
-Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “idha, bhante, aññataro bhikkhu ativelaṁ kulesu cārittaṁ āpajjati. Tamenaṁ bhikkhū evamāhaṁsu: ‘māyasmā ativelaṁ kulesu cārittaṁ āpajjī’ti. “Bhūtapubbaṁ, bhikkhave, biḷāro sandhisamalasaṅkaṭīre ṭhito ahosi mudumūsiṁ maggayamāno: ‘yadāyaṁ mudumūsi gocarāya pakkamissati, tattheva naṁ gahetvā khādissāmī’ti. Atha kho so, bhikkhave, mudumūsi gocarāya pakkāmi. Tamenaṁ biḷāro gahetvā sahasā saṅkhāditvā ajjhohari. Tassa so mudumūsi antampi khādi, antaguṇampi khādi. So tatonidānaṁ maraṇampi nigacchi maraṇamattampi dukkhaṁ.
+Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ: “idha, bhante, aññataro bhikkhu ativelaṁ kulesu cārittaṁ āpajjati. Tamenaṁ bhikkhū evamāhaṁsu: ‘māyasmā ativelaṁ kulesu cārittaṁ āpajjī’ti. So bhikkhu bhikkhūhi vuccamāno na viramatī”ti.
 
-3\. Evameva kho, bhikkhave, idhekacco bhikkhu pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisati arakkhiteneva kāyena arakkhitāya vācāya arakkhitena cittena, anupaṭṭhitāya satiyā, asaṁvutehi indriyehi. Evañhi vo, bhikkhave, sikkhitabban”ti.
+2\. “Bhūtapubbaṁ, bhikkhave, biḷāro sandhisamalasaṅkaṭīre ṭhito ahosi mudumūsiṁ maggayamāno: ‘yadāyaṁ mudumūsi gocarāya pakkamissati, tattheva naṁ gahetvā khādissāmī’ti. Atha kho so, bhikkhave, mudumūsi gocarāya pakkāmi. Tamenaṁ biḷāro gahetvā sahasā saṅkhāditvā ajjhohari. Tassa so mudumūsi antampi khādi, antaguṇampi khādi. So tatonidānaṁ maraṇampi nigacchi maraṇamattampi dukkhaṁ.
 
-Dasamaṁ.
-
-So tattha passati mātugāmaṁ dunnivatthaṁ vā duppārutaṁ vā. Tassa mātugāmaṁ disvā dunnivatthaṁ vā duppārutaṁ vā rāgo cittaṁ anuddhaṁseti. So rāgānuddhaṁsena cittena maraṇaṁ vā nigacchati maraṇamattaṁ vā dukkhaṁ.
+3\. Evameva kho, bhikkhave, idhekacco bhikkhu pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya gāmaṁ vā nigamaṁ vā piṇḍāya pavisati arakkhiteneva kāyena arakkhitāya vācāya arakkhitena cittena, anupaṭṭhitāya satiyā, asaṁvutehi indriyehi. So tattha passati mātugāmaṁ dunnivatthaṁ vā duppārutaṁ vā. Tassa mātugāmaṁ disvā dunnivatthaṁ vā duppārutaṁ vā rāgo cittaṁ anuddhaṁseti. So rāgānuddhaṁsena cittena maraṇaṁ vā nigacchati maraṇamattaṁ vā dukkhaṁ.
 
 Maraṇañhetaṁ, bhikkhave, ariyassa vinaye yo sikkhaṁ paccakkhāya hīnāyāvattati. Maraṇamattañhetaṁ, bhikkhave, dukkhaṁ yadidaṁ aññataraṁ saṅkiliṭṭhaṁ āpattiṁ āpajjati. Yathārūpāya āpattiyā vuṭṭhānaṁ paññāyati.
 
-Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘rakkhiteneva kāyena rakkhitāya vācāya rakkhitena cittena, upaṭṭhitāya satiyā, saṁvutehi indriyehi gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā’ti.
+Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘rakkhiteneva kāyena rakkhitāya vācāya rakkhitena cittena, upaṭṭhitāya satiyā, saṁvutehi indriyehi gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
 
-### 20.11 Siṅgālasutta
+Dasamaṁ.
+
+### 20.11 Siṅgālasutta {#11}
 
 1\. Sāvatthiyaṁ viharati.
-
-Sādhu khvassa, bhikkhave, yaṁ idhekacco sakyaputtiyapaṭiñño evarūpampi attabhāvapaṭilābhaṁ paṭisaṁvediyetha.
-
-Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
-
-Ekādasamaṁ.
 
 “Assuttha no tumhe, bhikkhave, rattiyā paccūsasamayaṁ jarasiṅgālassa vassamānassā”ti?
 
 “Evaṁ, bhante”.
 
-“Eso kho, bhikkhave, jarasiṅgālo ukkaṇḍakena nāma rogajātena phuṭṭho. So yena yena icchati tena tena gacchati; yattha yattha icchati tattha tattha tiṭṭhati; yattha yattha icchati tattha tattha nisīdati; yattha yattha icchati tattha tattha nipajjati; sītakopi naṁ vāto upavāyati.
+“Eso kho, bhikkhave, jarasiṅgālo ukkaṇḍakena nāma rogajātena phuṭṭho. So yena yena icchati tena tena gacchati; yattha yattha icchati tattha tattha tiṭṭhati; yattha yattha icchati tattha tattha nisīdati; yattha yattha icchati tattha tattha nipajjati; sītakopi naṁ vāto upavāyati. Sādhu khvassa, bhikkhave, yaṁ idhekacco sakyaputtiyapaṭiñño evarūpampi attabhāvapaṭilābhaṁ paṭisaṁvediyetha.
 
-### 20.12 Dutiyasiṅgālasutta
+Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘appamattā viharissāmā’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
+
+Ekādasamaṁ.
+
+### 20.12 Dutiyasiṅgālasutta {#12}
 
 1\. Sāvatthiyaṁ viharati.
-
-Opammavaggo paṭhamo.
 
 “Assuttha no tumhe, bhikkhave, rattiyā paccūsasamayaṁ jarasiṅgālassa vassamānassā”ti?
 
@@ -187,6 +179,8 @@ Opammavaggo paṭhamo.
 Tasmātiha, bhikkhave, evaṁ sikkhitabbaṁ: ‘kataññuno bhavissāma katavedino; na ca no amhesu appakampi kataṁ nassissatī’ti. Evañhi vo, bhikkhave, sikkhitabban”ti.
 
 Dvādasamaṁ.
+
+Opammavaggo paṭhamo.
 
 2\. Tassuddānaṁ
 

@@ -1,14 +1,14 @@
-# Rāhulasaṁyutta
+# SN 18. Rāhulasaṁyutta
 
-## * Saṁyutta Nikāya 18.1
+## 1. Paṭhamavagga
 
 ### 18.1 Cakkhusutta {#1}
 
-Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā rāhulo bhagavantaṁ etadavoca: “sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
 
-“Taṁ kiṁ maññasi, rāhula, cakkhuṁ niccaṁ vā aniccaṁ vā”ti?
+2\. “Taṁ kiṁ maññasi, rāhula, cakkhuṁ niccaṁ vā aniccaṁ vā”ti?
 
 “Aniccaṁ, bhante”.
 
@@ -20,17 +20,7 @@ Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagav
 
 “No hetaṁ, bhante”.
 
-“Sotaṁ niccaṁ vā aniccaṁ vā”ti?
-
-“Anicco, bhante”.
-
-“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?
-
-“Dukkhaṁ, bhante”.
-
-“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti?
-
-“No hetaṁ, bhante”.
+3\. “Sotaṁ niccaṁ vā aniccaṁ vā”ti?
 
 “Aniccaṁ, bhante” …pe….
 
@@ -48,7 +38,17 @@ Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagav
 
 “Mano nicco vā anicco vā”ti?
 
-“Evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhusmimpi nibbindati …pe… sotasmimpi nibbindati … ghānasmimpi nibbindati … jivhāyapi nibbindati … kāyasmimpi nibbindati … manasmimpi nibbindati; nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
+“Anicco, bhante”.
+
+“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?
+
+“Dukkhaṁ, bhante”.
+
+“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti?
+
+“No hetaṁ, bhante”.
+
+4\. “Evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhusmimpi nibbindati …pe… sotasmimpi nibbindati … ghānasmimpi nibbindati … jivhāyapi nibbindati … kāyasmimpi nibbindati … manasmimpi nibbindati; nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
 
 ‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.
 
@@ -58,7 +58,11 @@ Paṭhamaṁ.
 
 ### 18.2 Rūpasutta {#2}
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
+
+“Taṁ kiṁ maññasi, rāhula, rūpā niccā vā aniccā vā”ti?
+
+“Aniccā, bhante” …pe… saddā … gandhā … rasā … phoṭṭhabbā … dhammā niccā vā aniccā vā”ti?
 
 “Aniccā, bhante” …
 
@@ -66,19 +70,9 @@ Sāvatthiyaṁ viharati.
 
 Dutiyaṁ.
 
-“Taṁ kiṁ maññasi, rāhula, rūpā niccā vā aniccā vā”ti?
-
-“Aniccā, bhante” …pe… saddā … gandhā … rasā … phoṭṭhabbā … dhammā niccā vā aniccā vā”ti?
-
 ### 18.3 Viññāṇasutta {#3}
 
-Sāvatthiyaṁ viharati.
-
-“Aniccaṁ, bhante” …
-
-“evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhuviññāṇasmimpi nibbindati …pe… sotaviññāṇasmimpi nibbindati … ghānaviññāṇasmimpi nibbindati … jivhāviññāṇasmimpi nibbindati … kāyaviññāṇasmimpi nibbindati … manoviññāṇasmimpi nibbindati; nibbindaṁ virajjati …pe… pajānātī”ti.
-
-Tatiyaṁ.
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, cakkhuviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?
 
@@ -86,15 +80,15 @@ Tatiyaṁ.
 
 “sotaviññāṇaṁ …pe… ghānaviññāṇaṁ … jivhāviññāṇaṁ … kāyaviññāṇaṁ … manoviññāṇaṁ niccaṁ vā aniccaṁ vā”ti?
 
+“Aniccaṁ, bhante” …
+
+“evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhuviññāṇasmimpi nibbindati …pe… sotaviññāṇasmimpi nibbindati … ghānaviññāṇasmimpi nibbindati … jivhāviññāṇasmimpi nibbindati … kāyaviññāṇasmimpi nibbindati … manoviññāṇasmimpi nibbindati; nibbindaṁ virajjati …pe… pajānātī”ti.
+
+Tatiyaṁ.
+
 ### 18.4 Samphassasutta {#4}
 
-Sāvatthiyaṁ viharati.
-
-“Anicco, bhante” …
-
-“evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhusamphassasmimpi nibbindati …pe… sotasamphassasmimpi nibbindati … ghānasamphassasmimpi nibbindati … jivhāsamphassasmimpi nibbindati … kāyasamphassasmimpi nibbindati … manosamphassasmimpi nibbindati; nibbindaṁ virajjati …pe… pajānātī”ti.
-
-Catutthaṁ.
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, cakkhusamphasso nicco vā anicco vā”ti?
 
@@ -102,15 +96,15 @@ Catutthaṁ.
 
 “sotasamphasso …pe… ghānasamphasso … jivhāsamphasso … kāyasamphasso … manosamphasso nicco vā anicco vā”ti?
 
+“Anicco, bhante” …
+
+“evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhusamphassasmimpi nibbindati …pe… sotasamphassasmimpi nibbindati … ghānasamphassasmimpi nibbindati … jivhāsamphassasmimpi nibbindati … kāyasamphassasmimpi nibbindati … manosamphassasmimpi nibbindati; nibbindaṁ virajjati …pe… pajānātī”ti.
+
+Catutthaṁ.
+
 ### 18.5 Vedanāsutta {#5}
 
-Sāvatthiyaṁ viharati.
-
-“Aniccā, bhante” …
-
-“evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhusamphassajāya vedanāyapi nibbindati …pe… sota … ghāna … jivhā … kāya … manosamphassajāya vedanāyapi nibbindati …pe… pajānātī”ti.
-
-Pañcamaṁ.
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, cakkhusamphassajā vedanā niccā vā aniccā vā”ti?
 
@@ -118,15 +112,15 @@ Pañcamaṁ.
 
 “sotasamphassajā vedanā …pe… ghānasamphassajā vedanā … jivhāsamphassajā vedanā … kāyasamphassajā vedanā … manosamphassajā vedanā niccā vā aniccā vā”ti?
 
-### 18.6 Saññāsutta {#6}
-
-Sāvatthiyaṁ viharati.
-
 “Aniccā, bhante” …
 
-“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpasaññāyapi nibbindati …pe… saddasaññāyapi nibbindati … gandhasaññāyapi nibbindati … rasasaññāyapi nibbindati … phoṭṭhabbasaññāyapi nibbindati … dhammasaññāyapi nibbindati …pe… pajānātī”ti.
+“evaṁ passaṁ, rāhula, sutavā ariyasāvako cakkhusamphassajāya vedanāyapi nibbindati …pe… sota … ghāna … jivhā … kāya … manosamphassajāya vedanāyapi nibbindati …pe… pajānātī”ti.
 
-Chaṭṭhaṁ.
+Pañcamaṁ.
+
+### 18.6 Saññāsutta {#6}
+
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, rūpasaññā niccā vā aniccā vā”ti?
 
@@ -134,15 +128,15 @@ Chaṭṭhaṁ.
 
 “saddasaññā …pe… gandhasaññā … rasasaññā … phoṭṭhabbasaññā … dhammasaññā niccā vā aniccā vā”ti?
 
-### 18.7 Sañcetanāsutta {#7}
-
-Sāvatthiyaṁ viharati.
-
 “Aniccā, bhante” …
 
-“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpasañcetanāyapi nibbindati …pe… saddasañcetanāyapi nibbindati … gandhasañcetanāyapi nibbindati … rasasañcetanāyapi nibbindati … phoṭṭhabbasañcetanāyapi nibbindati … dhammasañcetanāyapi nibbindati …pe… pajānātī”ti.
+“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpasaññāyapi nibbindati …pe… saddasaññāyapi nibbindati … gandhasaññāyapi nibbindati … rasasaññāyapi nibbindati … phoṭṭhabbasaññāyapi nibbindati … dhammasaññāyapi nibbindati …pe… pajānātī”ti.
 
-Sattamaṁ.
+Chaṭṭhaṁ.
+
+### 18.7 Sañcetanāsutta {#7}
+
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, rūpasañcetanā niccā vā aniccā vā”ti?
 
@@ -150,15 +144,15 @@ Sattamaṁ.
 
 “saddasañcetanā …pe… gandhasañcetanā … rasasañcetanā … phoṭṭhabbasañcetanā … dhammasañcetanā niccā vā aniccā vā”ti?
 
-### 18.8 Taṇhāsutta {#8}
-
-Sāvatthiyaṁ viharati.
-
 “Aniccā, bhante” …
 
-“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpataṇhāyapi nibbindati …pe… saddataṇhāyapi nibbindati … gandhataṇhāyapi nibbindati … rasataṇhāyapi nibbindati … phoṭṭhabbataṇhāyapi nibbindati … dhammataṇhāyapi nibbindati …pe… pajānātī”ti.
+“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpasañcetanāyapi nibbindati …pe… saddasañcetanāyapi nibbindati … gandhasañcetanāyapi nibbindati … rasasañcetanāyapi nibbindati … phoṭṭhabbasañcetanāyapi nibbindati … dhammasañcetanāyapi nibbindati …pe… pajānātī”ti.
 
-Aṭṭhamaṁ.
+Sattamaṁ.
+
+### 18.8 Taṇhāsutta {#8}
+
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, rūpataṇhā niccā vā aniccā vā”ti?
 
@@ -166,15 +160,15 @@ Aṭṭhamaṁ.
 
 “saddataṇhā …pe… gandhataṇhā … rasataṇhā … phoṭṭhabbataṇhā … dhammataṇhā niccā vā aniccā vā”ti?
 
-### 18.9 Dhātusutta {#9}
-
-Sāvatthiyaṁ viharati.
-
 “Aniccā, bhante” …
 
-“evaṁ passaṁ, rāhula, sutavā ariyasāvako pathavīdhātuyāpi nibbindati …pe… āpodhātuyāpi nibbindati … tejodhātuyāpi nibbindati … vāyodhātuyāpi nibbindati … ākāsadhātuyāpi nibbindati … viññāṇadhātuyāpi nibbindati …pe… pajānātī”ti.
+“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpataṇhāyapi nibbindati …pe… saddataṇhāyapi nibbindati … gandhataṇhāyapi nibbindati … rasataṇhāyapi nibbindati … phoṭṭhabbataṇhāyapi nibbindati … dhammataṇhāyapi nibbindati …pe… pajānātī”ti.
 
-Navamaṁ.
+Aṭṭhamaṁ.
+
+### 18.9 Dhātusutta {#9}
+
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, pathavīdhātu niccā vā aniccā vā”ti?
 
@@ -182,17 +176,15 @@ Navamaṁ.
 
 “āpodhātu …pe… tejodhātu … vāyodhātu … ākāsadhātu … viññāṇadhātu niccā vā aniccā vā”ti?
 
+“Aniccā, bhante” …
+
+“evaṁ passaṁ, rāhula, sutavā ariyasāvako pathavīdhātuyāpi nibbindati …pe… āpodhātuyāpi nibbindati … tejodhātuyāpi nibbindati … vāyodhātuyāpi nibbindati … ākāsadhātuyāpi nibbindati … viññāṇadhātuyāpi nibbindati …pe… pajānātī”ti.
+
+Navamaṁ.
+
 ### 18.10 Khandhasutta {#10}
 
-Sāvatthiyaṁ viharati.
-
-“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpasmimpi nibbindati …pe… vedanāyapi nibbindati … saññāyapi nibbindati … saṅkhāresupi nibbindati … viññāṇasmimpi nibbindati; nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
-
-‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.
-
-Dasamaṁ.
-
-Paṭhamo vaggo.
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, rūpaṁ niccaṁ vā aniccaṁ vā”ti?
 
@@ -202,13 +194,36 @@ Paṭhamo vaggo.
 
 “Aniccaṁ, bhante” …
 
-Tassuddānaṁ
+“evaṁ passaṁ, rāhula, sutavā ariyasāvako rūpasmimpi nibbindati …pe… vedanāyapi nibbindati … saññāyapi nibbindati … saṅkhāresupi nibbindati … viññāṇasmimpi nibbindati; nibbindaṁ virajjati; virāgā vimuccati; vimuttasmiṁ vimuttamiti ñāṇaṁ hoti.
 
-> Cakkhu rūpañca viññāṇaṁ, samphasso vedanāya ca; Saññā sañcetanā taṇhā, dhātu khandhena te dasāti.
+‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti pajānātī”ti.
+
+Dasamaṁ.
+
+Paṭhamo vaggo.
+
+2\. Tassuddānaṁ
+
+> Cakkhu rūpañca viññāṇaṁ,\
+> samphasso vedanāya ca;\
+> Saññā sañcetanā taṇhā,\
+> dhātu khandhena te dasāti.
+
+## 2. Dutiyavagga
 
 ### 18.11 Cakkhusutta {#11}
 
-Evaṁ me sutaṁ—‘etaṁ mama, esohamasmi, eso me attā’”ti?
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati. Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ rāhulaṁ bhagavā etadavoca:
+
+“Taṁ kiṁ maññasi, rāhula, cakkhuṁ niccaṁ vā aniccaṁ vā”ti?
+
+“Aniccaṁ, bhante”.
+
+“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?
+
+“Dukkhaṁ, bhante”.
+
+“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti?
 
 “No hetaṁ, bhante”.
 
@@ -220,7 +235,7 @@ Evaṁ me sutaṁ—‘etaṁ mama, esohamasmi, eso me attā’”ti?
 
 “Dukkhaṁ, bhante”.
 
-ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati. “Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti?
+“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti?
 
 “No hetaṁ, bhante”.
 
@@ -232,41 +247,29 @@ ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati. “Yaṁ panāniccaṁ dukkha
 
 Paṭhamaṁ.
 
-Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ rāhulaṁ bhagavā etadavoca:
-
-“Taṁ kiṁ maññasi, rāhula, cakkhuṁ niccaṁ vā aniccaṁ vā”ti?
-
-“Aniccaṁ, bhante”.
-
-“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?
-
-“Dukkhaṁ, bhante”.
-
-“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ:
-
 ### 18.12-20 Rūpādisuttanavaka
 
-Sāvatthiyaṁ viharati.
+1\. Sāvatthiyaṁ viharati.
 
 “Taṁ kiṁ maññasi, rāhula, rūpā niccā vā aniccā vā”ti?
 
 “Aniccā, bhante” …pe… saddā … gandhā … rasā … phoṭṭhabbā … dhammā ….
 
-“Cakkhuviññāṇaṁ …pe… sotaviññāṇaṁ … ghānaviññāṇaṁ … jivhāviññāṇaṁ … kāyaviññāṇaṁ … manoviññāṇaṁ ….
+2\. “Cakkhuviññāṇaṁ …pe… sotaviññāṇaṁ … ghānaviññāṇaṁ … jivhāviññāṇaṁ … kāyaviññāṇaṁ … manoviññāṇaṁ ….
 
-Cakkhusamphasso …pe… sotasamphasso … ghānasamphasso … jivhāsamphasso … kāyasamphasso … manosamphasso ….
+3\. Cakkhusamphasso …pe… sotasamphasso … ghānasamphasso … jivhāsamphasso … kāyasamphasso … manosamphasso ….
 
-Cakkhusamphassajā vedanā …pe… sotasamphassajā vedanā … ghānasamphassajā vedanā … jivhāsamphassajā vedanā … kāyasamphassajā vedanā … manosamphassajā vedanā ….
+4\. Cakkhusamphassajā vedanā …pe… sotasamphassajā vedanā … ghānasamphassajā vedanā … jivhāsamphassajā vedanā … kāyasamphassajā vedanā … manosamphassajā vedanā ….
 
-Rūpasaññā …pe… saddasaññā … gandhasaññā … rasasaññā … phoṭṭhabbasaññā … dhammasaññā ….
+5\. Rūpasaññā …pe… saddasaññā … gandhasaññā … rasasaññā … phoṭṭhabbasaññā … dhammasaññā ….
 
-Rūpasañcetanā …pe… saddasañcetanā … gandhasañcetanā … rasasañcetanā … phoṭṭhabbasañcetanā … dhammasañcetanā ….
+6\. Rūpasañcetanā …pe… saddasañcetanā … gandhasañcetanā … rasasañcetanā … phoṭṭhabbasañcetanā … dhammasañcetanā ….
 
-Rūpataṇhā …pe… saddataṇhā … gandhataṇhā … rasataṇhā … phoṭṭhabbataṇhā … dhammataṇhā ….
+7\. Rūpataṇhā …pe… saddataṇhā … gandhataṇhā … rasataṇhā … phoṭṭhabbataṇhā … dhammataṇhā ….
 
-Pathavīdhātu …pe… āpodhātu … tejodhātu … vāyodhātu … ākāsadhātu … viññāṇadhātu ….
+8\. Pathavīdhātu …pe… āpodhātu … tejodhātu … vāyodhātu … ākāsadhātu … viññāṇadhātu ….
 
-Rūpaṁ …pe… vedanā … saññā … saṅkhārā … viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?
+9\. Rūpaṁ …pe… vedanā … saññā … saṅkhārā … viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?
 
 Aniccaṁ, bhante …pe…
 
@@ -276,9 +279,7 @@ Dasamaṁ.
 
 ### 18.21 Anusayasutta {#21}
 
-Sāvatthiyaṁ viharati.
-
-Ekādasamaṁ.
+1\. Sāvatthiyaṁ viharati.
 
 Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā rāhulo bhagavantaṁ etadavoca:
 
@@ -288,9 +289,11 @@ Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagav
 
 Evaṁ kho, rāhula, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na hontī”ti.
 
+Ekādasamaṁ.
+
 ### 18.22 Apagatasutta {#22}
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā rāhulo bhagavantaṁ etadavoca:
 
@@ -298,7 +301,7 @@ Atha kho āyasmā rāhulo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagav
 
 “Yaṁ kiñci, rāhula, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā sabbaṁ rūpaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti.
 
-Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti.
+2\. Yā kāci vedanā …pe… yā kāci saññā … ye keci saṅkhārā … yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya disvā anupādā vimutto hoti.
 
 Evaṁ kho, rāhula, jānato evaṁ passato imasmiñca saviññāṇake kāye bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānāpagataṁ mānasaṁ hoti vidhā samatikkantaṁ santaṁ suvimuttan”ti.
 
@@ -306,8 +309,13 @@ Dvādasamaṁ.
 
 Dutiyo vaggo.
 
-Tassuddānaṁ
+3\. Tassuddānaṁ
 
-> Cakkhu rūpañca viññāṇaṁ, Samphasso vedanāya ca; Saññā sañcetanā taṇhā, Dhātu khandhena te dasa; Anusayaṁ apagatañceva, Vaggo tena pavuccatīti.
+> Cakkhu rūpañca viññāṇaṁ,\
+> Samphasso vedanāya ca;\
+> Saññā sañcetanā taṇhā,\
+> Dhātu khandhena te dasa;\
+> Anusayaṁ apagatañceva,\
+> Vaggo tena pavuccatīti.
 
 Rāhulasaṁyuttaṁ samattaṁ.

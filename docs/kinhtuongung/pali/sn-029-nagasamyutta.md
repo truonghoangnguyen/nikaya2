@@ -1,8 +1,8 @@
 # SN 29. Nāgasaṁyutta
 
-## Saṁyutta Nikāya 29.1
+## 1. Nāgavagga
 
-### 29.1 Suddhikasutta
+### 29.1 Suddhikasutta {#1}
 
 1\. Sāvatthinidānaṁ.
 
@@ -10,7 +10,7 @@
 
 Paṭhamaṁ.
 
-### 29.2 Paṇītatarasutta
+### 29.2 Paṇītatarasutta {#2}
 
 1\. Sāvatthinidānaṁ.
 
@@ -18,7 +18,7 @@ Paṭhamaṁ.
 
 Dutiyaṁ.
 
-### 29.3 Uposathasutta
+### 29.3 Uposathasutta {#3}
 
 1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññataro bhikkhu yena bhagavā tenupasaṅkami; upasaṅkamitvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -28,7 +28,7 @@ Dutiyaṁ.
 
 Tatiyaṁ.
 
-### 29.4 Dutiyauposathasutta
+### 29.4 Dutiyauposathasutta {#4}
 
 1\. Sāvatthinidānaṁ.
 
@@ -40,7 +40,7 @@ Atha kho aññataro bhikkhu yena bhagavā …pe… ekamantaṁ nisinno kho so bh
 
 Catutthaṁ.
 
-### 29.5 Tatiyauposathasutta
+### 29.5 Tatiyauposathasutta {#5}
 
 1\. Sāvatthinidānaṁ.
 
@@ -54,7 +54,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Pañcamaṁ.
 
-### 29.6 Catutthauposathasutta
+### 29.6 Catutthauposathasutta {#6}
 
 1\. Sāvatthinidānaṁ.
 
@@ -66,7 +66,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Chaṭṭhaṁ.
 
-### 29.7 Sutasutta
+### 29.7 Sutasutta {#7}
 
 1\. Sāvatthinidānaṁ.
 
@@ -78,7 +78,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 Sattamaṁ.
 
-### 29.8 Dutiyasutasutta
+### 29.8 Dutiyasutasutta {#8}
 
 1\. Sāvatthinidānaṁ.
 
@@ -92,7 +92,7 @@ Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā para�
 
 Aṭṭhamaṁ.
 
-### 29.9 Tatiyasutasutta
+### 29.9 Tatiyasutasutta {#9}
 
 1\. Sāvatthinidānaṁ.
 
@@ -106,7 +106,7 @@ Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā para�
 
 Navamaṁ.
 
-### 29.10 Catutthasutasutta
+### 29.10 Catutthasutasutta {#10}
 
 1\. Sāvatthinidānaṁ.
 
@@ -124,11 +124,9 @@ Dasamaṁ.
 
 “ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjatī”ti?
 
-2\. “Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī. vatthaṁ deti …pe… yānaṁ deti …pe… mālaṁ deti …pe… gandhaṁ deti …pe… vilepanaṁ deti …pe… seyyaṁ deti …pe… āvasathaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjatī”ti.
+2\. “Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī. Tassa sutaṁ hoti: ‘aṇḍajā nāgā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti. So kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu …pe… upapajjatīti …pe… so pānaṁ deti …pe… vatthaṁ deti …pe… yānaṁ deti …pe… mālaṁ deti …pe… gandhaṁ deti …pe… vilepanaṁ deti …pe… seyyaṁ deti …pe… āvasathaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjatī”ti.
 
-Tassa sutaṁ hoti: Vīsatimaṁ.
-
-‘aṇḍajā nāgā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti. So kāyassa bhedā paraṁ maraṇā aṇḍajānaṁ nāgānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu …pe… upapajjatīti …pe… so pānaṁ deti …pe…
+Vīsatimaṁ.
 
 ### 29.21-50 Jalābujādidānūpakārasuttattiṁsaka
 
@@ -138,11 +136,11 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā jalābujānaṁ nāgānaṁ …pe… saṁsedajānaṁ nāgānaṁ …pe… opapātikānaṁ nāgānaṁ sahabyataṁ upapajjatī”ti?
 
-2\. “Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā opapātikānaṁ nāgānaṁ sahabyataṁ upapajjatī”ti.
+2\. “Idha, bhikkhu, ekacco kāyena dvayakārī hoti, vācāya dvayakārī, manasā dvayakārī. Tassa sutaṁ hoti: ‘opapātikā nāgā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā opapātikānaṁ nāgānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti …pe… pānaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā opapātikānaṁ nāgānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā opapātikānaṁ nāgānaṁ sahabyataṁ upapajjatī”ti.
 
-Tassa sutaṁ hoti: ‘opapātikā nāgā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā opapātikānaṁ nāgānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti …pe… pānaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā opapātikānaṁ nāgānaṁ sahabyataṁ upapajjati. (Iminā peyyālena dasa dasa suttantā kātabbā. Evaṁ catūsu yonīsu cattālīsaṁ veyyākaraṇā honti. Purimehi pana dasahi suttantehi saha honti paṇṇāsasuttantāti.)
+3\. (Iminā peyyālena dasa dasa suttantā kātabbā. Evaṁ catūsu yonīsu cattālīsaṁ veyyākaraṇā honti. Purimehi pana dasahi suttantehi saha honti paṇṇāsasuttantāti.)
 
-3\. Nāgavaggo paṭhamo.
+Nāgavaggo paṭhamo.
 
 4\. Tassuddānaṁ
 

@@ -1,6 +1,6 @@
 # SN 39. Sāmaṇḍakasaṁyutta
 
-## Saṁyutta Nikāya 39.1
+## 1. Sāmaṇḍakavagga
 
 ### 39.1-15 Sāmaṇḍakasutta
 
@@ -24,13 +24,9 @@ Paṭhamaṁ.
 
 4\. (Yathā jambukhādakasaṁyuttaṁ, tathā vitthāretabbaṁ.)
 
-### 39.16 Dukkarasutta
+### 39.16 Dukkarasutta {#16}
 
 1\. “Kiṁ nu kho, āvuso sāriputta, imasmiṁ dhammavinaye dukkaran”ti?
-
-(Purimakasadisaṁ uddānaṁ.)
-
-Sāmaṇḍakasaṁyuttaṁ samattaṁ.
 
 “Pabbajjā kho, āvuso, imasmiṁ dhammavinaye dukkarā”ti.
 
@@ -47,3 +43,7 @@ Sāmaṇḍakasaṁyuttaṁ samattaṁ.
 “Naciraṁ, āvuso”ti.
 
 Soḷasamaṁ.
+
+(Purimakasadisaṁ uddānaṁ.)
+
+Sāmaṇḍakasaṁyuttaṁ samattaṁ.

@@ -1,12 +1,10 @@
 # SN 8. Vaṅgīsasaṁyutta
 
-## Saṁyutta Nikāya 8.1
+## 1. Vaṅgīsavagga
 
-### 8.1 Nikkhantasutta
+### 8.1 Nikkhantasutta {#1}
 
-1\. Evaṁ me sutaṁ—Atha kho āyasmā vaṅgīso attanāva attano anabhiratiṁ vinodetvā abhiratiṁ uppādetvā tāyaṁ velāyaṁ imā gāthāyo abhāsi:
-
-ekaṁ samayaṁ āyasmā vaṅgīso āḷaviyaṁ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṁ.
+1\. Evaṁ me sutaṁ—ekaṁ samayaṁ āyasmā vaṅgīso āḷaviyaṁ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṁ.
 
 Tena kho pana samayena āyasmā vaṅgīso navako hoti acirapabbajito ohiyyako vihārapālo.
 
@@ -14,32 +12,39 @@ Atha kho sambahulā itthiyo samalaṅkaritvā yena aggāḷavako ārāmo tenupas
 
 Atha kho āyasmato vaṅgīsassa etadahosi: “alābhā vata me, na vata me lābhā; dulladdhaṁ vata me, na vata me suladdhaṁ; yassa me anabhirati uppannā, rāgo cittaṁ anuddhaṁseti, taṁ kutettha labbhā, yaṁ me paro anabhiratiṁ vinodetvā abhiratiṁ uppādeyya. Yannūnāhaṁ attanāva attano anabhiratiṁ vinodetvā abhiratiṁ uppādeyyan”ti.
 
-> 2\. “Nikkhantaṁ vata maṁ santaṁ,\
+Atha kho āyasmā vaṅgīso attanāva attano anabhiratiṁ vinodetvā abhiratiṁ uppādetvā tāyaṁ velāyaṁ imā gāthāyo abhāsi:
+
+2\.
+> “Nikkhantaṁ vata maṁ santaṁ,\
 > agārasmānagāriyaṁ;\
 > Vitakkā upadhāvanti,\
 > pagabbhā kaṇhato ime.
 
-> 3\. Uggaputtā mahissāsā,\
+3\.
+> Uggaputtā mahissāsā,\
 > sikkhitā daḷhadhammino;\
 > Samantā parikireyyuṁ,\
 > sahassaṁ apalāyinaṁ.
 
-> 4\. Sacepi etato bhiyyo,\
+4\.
+> Sacepi etato bhiyyo,\
 > āgamissanti itthiyo;\
 > Neva maṁ byādhayissanti,\
 > dhamme samhi patiṭṭhitaṁ.
 
-> 5\. Sakkhī hi me sutaṁ etaṁ,\
+5\.
+> Sakkhī hi me sutaṁ etaṁ,\
 > buddhassādiccabandhuno;\
 > Nibbānagamanaṁ maggaṁ,\
 > tattha me nirato mano.
 
-> 6\. Evañce maṁ viharantaṁ,\
+6\.
+> Evañce maṁ viharantaṁ,\
 > pāpima upagacchasi;\
 > Tathā maccu karissāmi,\
 > na me maggampi dakkhasī”ti.
 
-### 8.2 Aratīsutta
+### 8.2 Aratīsutta {#2}
 
 1\. Ekaṁ samayaṁ …pe… āyasmā vaṅgīso āḷaviyaṁ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṁ.
 
@@ -51,32 +56,37 @@ Atha kho āyasmato vaṅgīsassa etadahosi: “alābhā vata me, na vata me lāb
 
 Atha kho āyasmā vaṅgīso attanāva attano anabhiratiṁ vinodetvā abhiratiṁ uppādetvā tāyaṁ velāyaṁ imā gāthāyo abhāsi:
 
-> 2\. “Aratiñca ratiñca pahāya,\
+2\.
+> “Aratiñca ratiñca pahāya,\
 > Sabbaso gehasitañca vitakkaṁ;\
 > Vanathaṁ na kareyya kuhiñci,\
 > Nibbanatho arato sa hi bhikkhu.
 
-> 3\. Yamidha pathaviñca vehāsaṁ,\
+3\.
+> Yamidha pathaviñca vehāsaṁ,\
 > Rūpagatañca jagatogadhaṁ;\
 > Kiñci parijīyati sabbamaniccaṁ,\
 > Evaṁ samecca caranti mutattā.
 
-> 4\. Upadhīsu janā gadhitāse,\
+4\.
+> Upadhīsu janā gadhitāse,\
 > Diṭṭhasute paṭighe ca mute ca;\
 > Ettha vinodaya chandamanejo,\
 > Yo ettha na limpati taṁ munimāhu.
 
-> 5\. Atha saṭṭhinissitā savitakkā,\
+5\.
+> Atha saṭṭhinissitā savitakkā,\
 > Puthū janatāya adhammā niviṭṭhā;\
 > Na ca vaggagatassa kuhiñci,\
 > No pana duṭṭhullabhāṇī sa bhikkhu.
 
-> 6\. Dabbo cirarattasamāhito,\
+6\.
+> Dabbo cirarattasamāhito,\
 > Akuhako nipako apihālu;\
 > Santaṁ padaṁ ajjhagamā muni paṭicca,\
 > Parinibbuto kaṅkhati kālan”ti.
 
-### 8.3 Pesalasutta
+### 8.3 Pesalasutta {#3}
 
 1\. Ekaṁ samayaṁ āyasmā vaṅgīso āḷaviyaṁ viharati aggāḷave cetiye āyasmatā nigrodhakappena upajjhāyena saddhiṁ.
 
@@ -86,27 +96,31 @@ Atha kho āyasmato vaṅgīsassa etadahosi: “alābhā vata me, na vata me lāb
 
 Atha kho āyasmā vaṅgīso attanāva attano vippaṭisāraṁ uppādetvā tāyaṁ velāyaṁ imā gāthāyo abhāsi:
 
-> 2\. “Mānaṁ pajahassu gotama,\
+2\.
+> “Mānaṁ pajahassu gotama,\
 > Mānapathañca pajahassu;\
 > Asesaṁ mānapathasmiṁ,\
 > Samucchito vippaṭisārīhuvā cirarattaṁ.
 
-> 3\. Makkhena makkhitā pajā,\
+3\.
+> Makkhena makkhitā pajā,\
 > Mānahatā nirayaṁ papatanti;\
 > Socanti janā cirarattaṁ,\
 > Mānahatā nirayaṁ upapannā.
 
-> 4\. Na hi socati bhikkhu kadāci,\
+4\.
+> Na hi socati bhikkhu kadāci,\
 > Maggajino sammāpaṭipanno;\
 > Kittiñca sukhañca anubhoti,\
 > Dhammadasoti tamāhu pahitattaṁ.
 
-> 5\. Tasmā akhilodha padhānavā,\
+5\.
+> Tasmā akhilodha padhānavā,\
 > Nīvaraṇāni pahāya visuddho;\
 > Mānañca pahāya asesaṁ,\
 > Vijjāyantakaro samitāvī”ti.
 
-### 8.4 Ānandasutta
+### 8.4 Ānandasutta {#4}
 
 1\. Ekaṁ samayaṁ āyasmā ānando sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -114,32 +128,37 @@ Atha kho āyasmā ānando pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya s
 
 Tena kho pana samayena āyasmato vaṅgīsassa anabhirati uppannā hoti, rāgo cittaṁ anuddhaṁseti. Atha kho āyasmā vaṅgīso āyasmantaṁ ānandaṁ gāthāya ajjhabhāsi:
 
-> 2\. “Kāmarāgena ḍayhāmi,\
+2\.
+> “Kāmarāgena ḍayhāmi,\
 > cittaṁ me pariḍayhati;\
 > Sādhu nibbāpanaṁ brūhi,\
 > anukampāya gotamā”ti.
 
-> 3\. “Saññāya vipariyesā,\
+3\.
+> “Saññāya vipariyesā,\
 > cittaṁ te pariḍayhati;\
 > Nimittaṁ parivajjehi,\
 > subhaṁ rāgūpasaṁhitaṁ.
 
-> 4\. Saṅkhāre parato passa,\
+4\.
+> Saṅkhāre parato passa,\
 > dukkhato mā ca attato;\
 > Nibbāpehi mahārāgaṁ,\
 > mā ḍayhittho punappunaṁ.
 
-> 5\. Asubhāya cittaṁ bhāvehi,\
+5\.
+> Asubhāya cittaṁ bhāvehi,\
 > ekaggaṁ susamāhitaṁ;\
 > Sati kāyagatā tyatthu,\
 > nibbidābahulo bhava.
 
-> 6\. Animittañca bhāvehi,\
+6\.
+> Animittañca bhāvehi,\
 > mānānusayamujjaha;\
 > Tato mānābhisamayā,\
 > upasanto carissasī”ti.
 
-### 8.5 Subhāsitasutta
+### 8.5 Subhāsitasutta {#5}
 
 1\. Sāvatthinidānaṁ.
 
@@ -151,7 +170,8 @@ Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
 
 Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
-> 3\. “Subhāsitaṁ uttamamāhu santo,\
+3\.
+> “Subhāsitaṁ uttamamāhu santo,\
 > Dhammaṁ bhaṇe nādhammaṁ taṁ dutiyaṁ;\
 > Piyaṁ bhaṇe nāppiyaṁ taṁ tatiyaṁ,\
 > Saccaṁ bhaṇe nālikaṁ taṁ catutthan”ti.
@@ -162,27 +182,31 @@ Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā:
 
 Atha kho āyasmā vaṅgīso bhagavantaṁ sammukhā sāruppāhi gāthāhi abhitthavi:
 
-> 5\. “Tameva vācaṁ bhāseyya,\
+5\.
+> “Tameva vācaṁ bhāseyya,\
 > yāyattānaṁ na tāpaye;\
 > Pare ca na vihiṁseyya,\
 > sā ve vācā subhāsitā.
 
-> 6\. Piyavācaṁva bhāseyya,\
+6\.
+> Piyavācaṁva bhāseyya,\
 > yā vācā paṭinanditā;\
 > Yaṁ anādāya pāpāni,\
 > paresaṁ bhāsate piyaṁ.
 
-> 7\. Saccaṁ ve amatā vācā,\
+7\.
+> Saccaṁ ve amatā vācā,\
 > esa dhammo sanantano;\
 > Sacce atthe ca dhamme ca,\
 > āhu santo patiṭṭhitā.
 
-> 8\. Yaṁ buddho bhāsate vācaṁ,\
+8\.
+> Yaṁ buddho bhāsate vācaṁ,\
 > khemaṁ nibbānapattiyā;\
 > Dukkhassantakiriyāya,\
 > sā ve vācānamuttamā”ti.
 
-### 8.6 Sāriputtasutta
+### 8.6 Sāriputtasutta {#6}
 
 1\. Ekaṁ samayaṁ āyasmā sāriputto sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
@@ -196,24 +220,27 @@ Atha kho āyasmato vaṅgīsassa etadahosi: “ayaṁ kho āyasmā sāriputto bh
 
 Atha kho āyasmā vaṅgīso āyasmantaṁ sāriputtaṁ sammukhā sāruppāhi gāthāhi abhitthavi:
 
-> 3\. “Gambhīrapañño medhāvī,\
+3\.
+> “Gambhīrapañño medhāvī,\
 > maggāmaggassa kovido;\
 > Sāriputto mahāpañño,\
 > dhammaṁ deseti bhikkhunaṁ.
 
-> 4\. Saṅkhittenapi deseti,\
+4\.
+> Saṅkhittenapi deseti,\
 > vitthārenapi bhāsati;\
 > Sāḷikāyiva nigghoso,\
 > paṭibhānaṁ udīrayi.
 
-> 5\. Tassa taṁ desayantassa,\
+5\.
+> Tassa taṁ desayantassa,\
 > suṇanti madhuraṁ giraṁ;\
 > Sarena rajanīyena,\
 > savanīyena vaggunā;\
 > Udaggacittā muditā,\
 > sotaṁ odhenti bhikkhavo”ti.
 
-### 8.7 Pavāraṇāsutta
+### 8.7 Pavāraṇāsutta {#7}
 
 1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi. Tena kho pana samayena bhagavā tadahuposathe pannarase pavāraṇāya bhikkhusaṅghaparivuto abbhokāse nisinno hoti.
 
@@ -233,27 +260,31 @@ Atha kho bhagavā tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū ā
 
 Atha kho āyasmā vaṅgīso bhagavantaṁ sammukhā sāruppāhi gāthāhi abhitthavi:
 
-> 6\. “Ajja pannarase visuddhiyā,\
+6\.
+> “Ajja pannarase visuddhiyā,\
 > Bhikkhū pañcasatā samāgatā;\
 > Saṁyojanabandhanacchidā,\
 > Anīghā khīṇapunabbhavā isī.
 
-> 7\. Cakkavattī yathā rājā,\
+7\.
+> Cakkavattī yathā rājā,\
 > amaccaparivārito;\
 > Samantā anupariyeti,\
 > sāgarantaṁ mahiṁ imaṁ.
 
-> 8\. Evaṁ vijitasaṅgāmaṁ,\
+8\.
+> Evaṁ vijitasaṅgāmaṁ,\
 > satthavāhaṁ anuttaraṁ;\
 > Sāvakā payirupāsanti,\
 > tevijjā maccuhāyino.
 
-> 9\. Sabbe bhagavato puttā,\
+9\.
+> Sabbe bhagavato puttā,\
 > palāpettha na vijjati;\
 > Taṇhāsallassa hantāraṁ,\
 > vande ādiccabandhunan”ti.
 
-### 8.8 Parosahassasutta
+### 8.8 Parosahassasutta {#8}
 
 1\. Ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme mahatā bhikkhusaṅghena saddhiṁ aḍḍhatelasehi bhikkhusatehi.
 
@@ -261,38 +292,32 @@ Tena kho pana samayena bhagavā bhikkhū nibbānapaṭisaṁyuttāya dhammiyā k
 
 Atha kho āyasmato vaṅgīsassa etadahosi: “ayaṁ kho bhagavā bhikkhū nibbānapaṭisaṁyuttāya dhammiyā kathāya sandasseti samādapeti samuttejeti sampahaṁseti. Te ca bhikkhū aṭṭhiṁ katvā manasi katvā sabbacetasā samannāharitvā ohitasotā dhammaṁ suṇanti. Yannūnāhaṁ bhagavantaṁ sammukhā sāruppāhi gāthāhi abhitthaveyyan”ti.
 
-10\. Pajjotakaro ativijjha,\
-Sabbaṭṭhitīnaṁ atikkamamaddasa;\
-Ñatvā ca sacchikatvā ca,\
-Aggaṁ so desayi dasaddhānaṁ.
-
-11\. Evaṁ sudesite dhamme,\
-Ko pamādo vijānataṁ dhammaṁ;\
-Tasmā hi tassa bhagavato sāsane,\
-Appamatto sadā namassamanusikkhe”ti.
-
 2\. Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca: “paṭibhāti maṁ, bhagavā, paṭibhāti maṁ, sugatā”ti.
 
 “Paṭibhātu taṁ, vaṅgīsā”ti bhagavā avoca.
 
 Atha kho āyasmā vaṅgīso bhagavantaṁ sammukhā sāruppāhi gāthāhi abhitthavi:
 
-> 3\. “Parosahassaṁ bhikkhūnaṁ,\
+3\.
+> “Parosahassaṁ bhikkhūnaṁ,\
 > sugataṁ payirupāsati;\
 > Desentaṁ virajaṁ dhammaṁ,\
 > nibbānaṁ akutobhayaṁ.
 
-> 4\. Suṇanti dhammaṁ vimalaṁ,\
+4\.
+> Suṇanti dhammaṁ vimalaṁ,\
 > sammāsambuddhadesitaṁ;\
 > Sobhati vata sambuddho,\
 > bhikkhusaṅghapurakkhato.
 
-> 5\. Nāganāmosi bhagavā,\
+5\.
+> Nāganāmosi bhagavā,\
 > isīnaṁ isisattamo;\
 > Mahāmeghova hutvāna,\
 > sāvake abhivassati.
 
-> 6\. Divāvihārā nikkhamma,\
+6\.
+> Divāvihārā nikkhamma,\
 > satthudassanakamyatā;\
 > Sāvako te mahāvīra,\
 > pāde vandati vaṅgiso”ti.
@@ -305,17 +330,31 @@ Atha kho āyasmā vaṅgīso bhagavantaṁ sammukhā sāruppāhi gāthāhi abhit
 
 “Evaṁ, bhante”ti kho āyasmā vaṅgīso bhagavato paṭissutvā bhiyyoso mattāya bhagavantaṁ pubbe aparivitakkitāhi gāthāhi abhitthavi:
 
-> 8\. “Ummaggapathaṁ mārassa abhibhuyya,\
+8\.
+> “Ummaggapathaṁ mārassa abhibhuyya,\
 > Carasi pabhijja khilāni;\
 > Taṁ passatha bandhapamuñcakaraṁ,\
 > Asitaṁ bhāgaso pavibhajaṁ.
 
-> 9\. Oghassa nittharaṇatthaṁ,\
+9\.
+> Oghassa nittharaṇatthaṁ,\
 > Anekavihitaṁ maggaṁ akkhāsi;\
 > Tasmiñce amate akkhāte,\
 > Dhammaddasā ṭhitā asaṁhīrā.
 
-### 8.9 Koṇḍaññasutta
+10\.
+> Pajjotakaro ativijjha,\
+> Sabbaṭṭhitīnaṁ atikkamamaddasa;\
+> Ñatvā ca sacchikatvā ca,\
+> Aggaṁ so desayi dasaddhānaṁ.
+
+11\.
+> Evaṁ sudesite dhamme,\
+> Ko pamādo vijānataṁ dhammaṁ;\
+> Tasmā hi tassa bhagavato sāsane,\
+> Appamatto sadā namassamanusikkhe”ti.
+
+### 8.9 Koṇḍaññasutta {#9}
 
 1\. Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
 
@@ -329,22 +368,25 @@ Atha kho āyasmato vaṅgīsassa etadahosi: “ayaṁ kho āyasmā aññāsiko�
 
 Atha kho āyasmā vaṅgīso āyasmantaṁ aññāsikoṇḍaññaṁ bhagavato sammukhā sāruppāhi gāthāhi abhitthavi:
 
-> 3\. “Buddhānubuddho so thero,\
+3\.
+> “Buddhānubuddho so thero,\
 > koṇḍañño tibbanikkamo;\
 > Lābhī sukhavihārānaṁ,\
 > vivekānaṁ abhiṇhaso.
 
-> 4\. Yaṁ sāvakena pattabbaṁ,\
+4\.
+> Yaṁ sāvakena pattabbaṁ,\
 > satthusāsanakārinā;\
 > Sabbassa taṁ anuppattaṁ,\
 > appamattassa sikkhato.
 
-> 5\. Mahānubhāvo tevijjo,\
+5\.
+> Mahānubhāvo tevijjo,\
 > cetopariyāyakovido;\
 > Koṇḍañño buddhadāyādo,\
 > pāde vandati satthuno”ti.
 
-### 8.10 Moggallānasutta
+### 8.10 Moggallānasutta {#10}
 
 1\. Ekaṁ samayaṁ bhagavā rājagahe viharati isigilipasse kāḷasilāyaṁ mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sabbeheva arahantehi. Tesaṁ sudaṁ āyasmā mahāmoggallāno cetasā cittaṁ samannesati vippamuttaṁ nirupadhiṁ.
 
@@ -356,22 +398,25 @@ Atha kho āyasmato vaṅgīsassa etadahosi: “ayaṁ kho bhagavā rājagahe vih
 
 Atha kho āyasmā vaṅgīso āyasmantaṁ mahāmoggallānaṁ bhagavato sammukhā sāruppāhi gāthāhi abhitthavi:
 
-> 3\. “Nagassa passe āsīnaṁ,\
+3\.
+> “Nagassa passe āsīnaṁ,\
 > muniṁ dukkhassa pāraguṁ;\
 > Sāvakā payirupāsanti,\
 > tevijjā maccuhāyino.
 
-> 4\. Te cetasā anupariyeti,\
+4\.
+> Te cetasā anupariyeti,\
 > Moggallāno mahiddhiko;\
 > Cittaṁ nesaṁ samannesaṁ,\
 > Vippamuttaṁ nirūpadhiṁ.
 
-> 5\. Evaṁ sabbaṅgasampannaṁ,\
+5\.
+> Evaṁ sabbaṅgasampannaṁ,\
 > Muniṁ dukkhassa pāraguṁ;\
 > Anekākārasampannaṁ,\
 > Payirupāsanti gotaman”ti.
 
-### 8.11 Gaggarāsutta
+### 8.11 Gaggarāsutta {#11}
 
 1\. Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṁ pañcamattehi bhikkhusatehi sattahi ca upāsakasatehi sattahi ca upāsikāsatehi anekehi ca devatāsahassehi. Tyāssudaṁ bhagavā atirocati vaṇṇena ceva yasasā ca.
 
@@ -383,38 +428,44 @@ Atha kho āyasmato vaṅgīsassa etadahosi: “ayaṁ kho bhagavā campāyaṁ v
 
 Atha kho āyasmā vaṅgīso bhagavantaṁ sammukhā sāruppāya gāthāya abhitthavi:
 
-> 3\. “Cando yathā vigatavalāhake nabhe,\
+3\.
+> “Cando yathā vigatavalāhake nabhe,\
 > Virocati vigatamalova bhāṇumā;\
 > Evampi aṅgīrasa tvaṁ mahāmuni,\
 > Atirocasi yasasā sabbalokan”ti.
 
-### 8.12 Vaṅgīsasutta
+### 8.12 Vaṅgīsasutta {#12}
 
 1\. Ekaṁ samayaṁ āyasmā vaṅgīso sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
 Tena kho pana samayena āyasmā vaṅgīso aciraarahattappatto hutvā vimuttisukhaṁ paṭisaṁvedī tāyaṁ velāyaṁ imā gāthāyo abhāsi:
 
-> 2\. “Kāveyyamattā vicarimha pubbe,\
+2\.
+> “Kāveyyamattā vicarimha pubbe,\
 > Gāmā gāmaṁ purā puraṁ;\
 > Athaddasāma sambuddhaṁ,\
 > Saddhā no upapajjatha.
 
-> 3\. So me dhammamadesesi,\
+3\.
+> So me dhammamadesesi,\
 > khandhāyatanadhātuyo;\
 > Tassāhaṁ dhammaṁ sutvāna,\
 > pabbajiṁ anagāriyaṁ.
 
-> 4\. Bahunnaṁ vata atthāya,\
+4\.
+> Bahunnaṁ vata atthāya,\
 > bodhiṁ ajjhagamā muni;\
 > Bhikkhūnaṁ bhikkhunīnañca,\
 > ye niyāmagataddasā.
 
-> 5\. Svāgataṁ vata me āsi,\
+5\.
+> Svāgataṁ vata me āsi,\
 > mama buddhassa santike;\
 > Tisso vijjā anuppattā,\
 > kataṁ buddhassa sāsanaṁ.
 
-> 6\. Pubbenivāsaṁ jānāmi,\
+6\.
+> Pubbenivāsaṁ jānāmi,\
 > Dibbacakkhuṁ visodhitaṁ;\
 > Tevijjo iddhipattomhi,\
 > Cetopariyāyakovido”ti.

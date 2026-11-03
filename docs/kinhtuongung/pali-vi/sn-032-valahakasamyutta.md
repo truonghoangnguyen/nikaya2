@@ -1,64 +1,56 @@
-# Valāhakasaṁyutta
+# SN 32. Valāhakasaṁyutta
 
-## * Saṁyutta Nikāya 32.1
+## 1. Valāhakavagga
 
 ### 32.1 Suddhikasutta {#1}
 
-Sāvatthinidānaṁ.
-
-ime vuccanti, bhikkhave, ‘valāhakakāyikā devā’”ti.
-
-Paṭhamaṁ.
+1\. Sāvatthinidānaṁ.
 
 “Valāhakakāyike vo, bhikkhave, deve desessāmi. Taṁ suṇātha.
 
-Katame ca, bhikkhave, valāhakakāyikā devā? Santi, bhikkhave, sītavalāhakā devā; santi uṇhavalāhakā devā; santi abbhavalāhakā devā; santi vātavalāhakā devā; santi vassavalāhakā devā—
+Katame ca, bhikkhave, valāhakakāyikā devā? Santi, bhikkhave, sītavalāhakā devā; santi uṇhavalāhakā devā; santi abbhavalāhakā devā; santi vātavalāhakā devā; santi vassavalāhakā devā—ime vuccanti, bhikkhave, ‘valāhakakāyikā devā’”ti.
+
+Paṭhamaṁ.
 
 ### 32.2 Sucaritasutta {#2}
 
-Sāvatthinidānaṁ.
-
-Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā valāhakakāyikānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
-
-Dutiyaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā valāhakakāyikānaṁ devānaṁ sahabyataṁ upapajjatī”ti?
 
-“Idha, bhikkhu, ekacco kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. Tassa sutaṁ hoti: ‘valāhakakāyikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā valāhakakāyikānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So kāyassa bhedā paraṁ maraṇā valāhakakāyikānaṁ devānaṁ sahabyataṁ upapajjati.
+“Idha, bhikkhu, ekacco kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. Tassa sutaṁ hoti: ‘valāhakakāyikā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā valāhakakāyikānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So kāyassa bhedā paraṁ maraṇā valāhakakāyikānaṁ devānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā valāhakakāyikānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
+
+Dutiyaṁ.
 
 ### 32.3-12 Sītavalāhakadānūpakārasuttadasaka
 
-Sāvatthinidānaṁ.
-
-padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
-
-Dvādasamaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjatī”ti?
 
-“Idha, bhikkhu, ekacco kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. Tassa sutaṁ hoti: ‘sītavalāhakā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti …pe…
+“Idha, bhikkhu, ekacco kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. Tassa sutaṁ hoti: ‘sītavalāhakā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā sītavalāhakānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
+
+Dvādasamaṁ.
 
 ### 32.13-52 Uṇhavalāhakadānūpakārasutta
 
-Sāvatthinidānaṁ.
-
-Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
-
-Dvepaññāsamaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 “ko nu kho, bhante, hetu, ko paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā uṇhavalāhakānaṁ devānaṁ …pe… abbhavalāhakānaṁ devānaṁ …pe… vātavalāhakānaṁ devānaṁ …pe… vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjatī”ti?
 
-“Idha, bhikkhu, ekacco kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. Tassa sutaṁ hoti: ‘vassavalāhakā devā dīghāyukā vaṇṇavanto sukhabahulā’ti.
+“Idha, bhikkhu, ekacco kāyena sucaritaṁ carati, vācāya sucaritaṁ carati, manasā sucaritaṁ carati. Tassa sutaṁ hoti: ‘vassavalāhakā devā dīghāyukā vaṇṇavanto sukhabahulā’ti. Tassa evaṁ hoti: ‘aho vatāhaṁ kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjeyyan’ti. So annaṁ deti …pe… padīpeyyaṁ deti. So kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjati. Ayaṁ kho, bhikkhu, hetu, ayaṁ paccayo, yena midhekacco kāyassa bhedā paraṁ maraṇā vassavalāhakānaṁ devānaṁ sahabyataṁ upapajjatī”ti.
+
+Dvepaññāsamaṁ.
 
 ### 32.53 Sītavalāhakasutta {#53}
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -70,7 +62,7 @@ Tepaññāsamaṁ.
 
 ### 32.54 Uṇhavalāhakasutta {#54}
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -82,7 +74,7 @@ Catupaññāsamaṁ.
 
 ### 32.55 Abbhavalāhakasutta {#55}
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -94,7 +86,7 @@ Pañcapaññāsamaṁ.
 
 ### 32.56 Vātavalāhakasutta {#56}
 
-Sāvatthinidānaṁ.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -104,9 +96,7 @@ Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
 ### 32.57 Vassavalāhakasutta {#57}
 
-Sāvatthinidānaṁ.
-
-Valāhakavaggo paṭhamo.
+1\. Sāvatthinidānaṁ.
 
 Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:
 
@@ -118,8 +108,13 @@ Sattapaññāsamaṁ.
 
 Sattapaññāsasuttantaṁ niṭṭhitaṁ.
 
-Tassuddānaṁ
+Valāhakavaggo paṭhamo.
 
-> Suddhikaṁ sucaritañca, dānūpakārapaññāsaṁ; Sītaṁ uṇhañca abbhañca, vātavassavalāhakāti.
+2\. Tassuddānaṁ
+
+> Suddhikaṁ sucaritañca,\
+> dānūpakārapaññāsaṁ;\
+> Sītaṁ uṇhañca abbhañca,\
+> vātavassavalāhakāti.
 
 Valāhakasaṁyuttaṁ samattaṁ.
