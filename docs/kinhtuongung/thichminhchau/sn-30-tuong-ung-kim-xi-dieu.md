@@ -1,4 +1,4 @@
-# 30. TƯƠNG ƯNG KIM XÍ ÐIỂU
+# SN 30. TƯƠNG ƯNG KIM XÍ ÐIỂU
 
 <!--pg-->
 ### I. Chủng Loại (S.iii,246)

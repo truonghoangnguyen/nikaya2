@@ -1,4 +1,4 @@
-# Các Bài Kinh Liên Quan đến Các Yếu Tố Giác Ngộ
+# SN 46. Các Bài Kinh Liên Quan đến Các Yếu Tố Giác Ngộ
 
 <!--pg-->
 ## Chương Về Núi

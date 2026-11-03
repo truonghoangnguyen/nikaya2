@@ -1,4 +1,4 @@
-# 11. TƯƠNG ƯNG SAKKA
+# SN 11. TƯƠNG ƯNG SAKKA
 
 <!--pg-->
 ## Phẩm Thứ Nhất

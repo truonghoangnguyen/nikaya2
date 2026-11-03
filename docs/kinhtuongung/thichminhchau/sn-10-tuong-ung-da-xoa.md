@@ -1,4 +1,4 @@
-# 10. TƯƠNG ƯNG DẠ XOA
+# SN 10. TƯƠNG ƯNG DẠ XOA
 
 <!--pg-->
 ### I. Indaka (S.i,206)

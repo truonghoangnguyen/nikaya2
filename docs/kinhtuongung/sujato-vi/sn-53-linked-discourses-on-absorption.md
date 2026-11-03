@@ -1,4 +1,4 @@
-# Kinh Tương Ưng về Thiền Định
+# SN 53. Kinh Tương Ưng về Thiền Định
 
 <!--pg-->
 ## Chương về các Bài Kinh Tóm Tắt Sông Hằng

@@ -1,4 +1,4 @@
-# 53. TƯƠNG ƯNG THIỀN
+# SN 53. TƯƠNG ƯNG THIỀN
 
 <!--pg-->
 ## I. Phẩm Sông Hằng Rộng Thuyết

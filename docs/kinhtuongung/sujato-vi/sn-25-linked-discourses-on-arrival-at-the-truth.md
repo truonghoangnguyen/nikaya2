@@ -1,4 +1,4 @@
-# Tương Ưng về Sự Đạt Đến Chân Lý
+# SN 25. Tương Ưng về Sự Đạt Đến Chân Lý
 
 <!--pg-->
 ## Phẩm về Mắt

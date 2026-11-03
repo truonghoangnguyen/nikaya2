@@ -1,4 +1,4 @@
-# Tương Ưng với Mục Kiền Liên (MOGGALÀNA)
+# SN 40. Tương Ưng với Mục Kiền Liên (MOGGALÀNA)
 
 <!--pg-->
 ## Chương về Tôn giả Mục Kiền Liên

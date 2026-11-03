@@ -1,4 +1,4 @@
-# Các Bài Kinh Tương Ưng với Jambukhādaka
+# SN 38. Các Bài Kinh Tương Ưng với Jambukhādaka
 
 <!--pg-->
 ## Phẩm Jambukhādaka

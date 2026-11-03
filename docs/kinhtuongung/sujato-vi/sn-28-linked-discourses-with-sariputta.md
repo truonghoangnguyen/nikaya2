@@ -1,4 +1,4 @@
-# Tương Ưng Xá Lợi Phất
+# SN 28. Tương Ưng Xá Lợi Phất
 
 <!--pg-->
 ## Phẩm Xá Lợi Phất

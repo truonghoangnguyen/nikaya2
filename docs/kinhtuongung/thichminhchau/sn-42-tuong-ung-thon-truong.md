@@ -1,4 +1,4 @@
-# 42. TƯƠNG ƯNG THÔN TRƯỞNG
+# SN 42. TƯƠNG ƯNG THÔN TRƯỞNG
 
 <!--pg-->
 ### I. Canda (Tàn bạo) (S.iv,305)

@@ -1,4 +1,4 @@
-# 36. TƯƠNG ƯNG THỌ
+# SN 36. TƯƠNG ƯNG THỌ
 
 <!--pg-->
 ## Phần Một - Phẩm Có Kệ

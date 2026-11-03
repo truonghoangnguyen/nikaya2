@@ -1,4 +1,4 @@
-# 20. TƯƠNG ƯNG THÍ DỤ
+# SN 20. TƯƠNG ƯNG THÍ DỤ
 
 <!--pg-->
 ### I. Chóp Mái (S.ii,262)

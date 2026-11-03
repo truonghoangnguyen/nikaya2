@@ -1,4 +1,4 @@
-# 28. TƯƠNG ƯNG SÀRIPUTTA
+# SN 28. TƯƠNG ƯNG SÀRIPUTTA
 
 <!--pg-->
 ### I. Lý (S.iii,235)

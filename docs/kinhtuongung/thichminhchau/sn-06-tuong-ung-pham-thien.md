@@ -1,4 +1,4 @@
-# 6. TƯƠNG ƯNG PHẠM THIÊN
+# SN 6. TƯƠNG ƯNG PHẠM THIÊN
 
 <!--pg-->
 ## I. Phẩm Thứ Nhất

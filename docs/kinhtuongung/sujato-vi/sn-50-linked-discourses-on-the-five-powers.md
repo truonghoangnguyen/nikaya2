@@ -1,4 +1,4 @@
-# Tương Ưng về Năm Sức Mạnh
+# SN 50. Tương Ưng về Năm Sức Mạnh
 
 <!--pg-->
 ## Phẩm về các Bài Kinh Tóm Tắt Sông Hằng

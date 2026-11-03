@@ -1,4 +1,4 @@
-# 7. TƯƠNG ƯNG BÀ LA MÔN
+# SN 7. TƯƠNG ƯNG BÀ LA MÔN
 
 <!--pg-->
 ## I. Phẩm A-La-Hán Thứ Nhất

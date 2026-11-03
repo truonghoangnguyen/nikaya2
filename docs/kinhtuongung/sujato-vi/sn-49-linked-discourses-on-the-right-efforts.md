@@ -1,4 +1,4 @@
-# Tương Ưng Kinh về Các Nỗ Lực Chân Chính
+# SN 49. Tương Ưng Kinh về Các Nỗ Lực Chân Chính
 
 <!--pg-->
 ## Phẩm về các Bài Kinh Viết Tắt về Sông Hằng

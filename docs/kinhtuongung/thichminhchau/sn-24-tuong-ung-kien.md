@@ -1,4 +1,4 @@
-# 24. TƯƠNG ƯNG KIẾN
+# SN 24. TƯƠNG ƯNG KIẾN
 
 <!--pg-->
 ## I. Phẩm Dự Lưu

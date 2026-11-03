@@ -1,4 +1,4 @@
-# 13. TƯƠNG ƯNG MINH KIẾN
+# SN 13. TƯƠNG ƯNG MINH KIẾN
 
 <!--pg-->
 ### I. Ðầu Ngón Tay (S.ii,133)

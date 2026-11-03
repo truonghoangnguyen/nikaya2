@@ -1,4 +1,4 @@
-# Tương Ưng Vacchagotta
+# SN 33. Tương Ưng Vacchagotta
 
 <!--pg-->
 ## Chương Về Vacchagotta

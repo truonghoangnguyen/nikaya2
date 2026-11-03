@@ -1,4 +1,4 @@
-# 3. TƯƠNG ƯNG KOSALA
+# SN 3. TƯƠNG ƯNG KOSALA
 
 <!--pg-->
 ## I. Phẩm Thứ Nhất

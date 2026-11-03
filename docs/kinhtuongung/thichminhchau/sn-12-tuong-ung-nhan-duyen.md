@@ -1,4 +1,4 @@
-# 12. TƯƠNG ƯNG NHÂN DUYÊN
+# SN 12. TƯƠNG ƯNG NHÂN DUYÊN
 
 <!--pg-->
 ## I. Phẩm Phật Ðà.

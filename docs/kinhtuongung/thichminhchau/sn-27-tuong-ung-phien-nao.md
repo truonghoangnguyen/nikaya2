@@ -1,4 +1,4 @@
-# 27. TƯƠNG ƯNG PHIỀN NÃO
+# SN 27. TƯƠNG ƯNG PHIỀN NÃO
 
 <!--pg-->
 ### I. Con Mắt (S.iii,232)

@@ -1,4 +1,4 @@
-# 38. TƯƠNG ƯNG JAMBUKHÀDAKA
+# SN 38. TƯƠNG ƯNG JAMBUKHÀDAKA
 
 <!--pg-->
 ### I. Nibbàna (Niết-bàn) (S.iv,251)

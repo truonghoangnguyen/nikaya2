@@ -1,4 +1,4 @@
-# 35. TƯƠNG ƯNG SÁU XỨ
+# SN 35. TƯƠNG ƯNG SÁU XỨ
 
 **Phần Một - Năm Mươi Kinh Thứ Nhất**
 

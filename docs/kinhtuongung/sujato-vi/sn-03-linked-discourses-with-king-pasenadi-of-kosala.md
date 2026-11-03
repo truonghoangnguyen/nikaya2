@@ -1,4 +1,4 @@
-# Các Bài Kinh Liên Quan Đến Vua Pasenadi xứ Kosala
+# SN 3. Các Bài Kinh Liên Quan Đến Vua Pasenadi xứ Kosala
 
 <!--pg-->
 ## Chương Một

@@ -1,4 +1,4 @@
-# 8. TƯƠNG ƯNG TRƯỞNG LÃO VANGÌSA
+# SN 8. TƯƠNG ƯNG TRƯỞNG LÃO VANGÌSA
 
 <!--pg-->
 ### I. Xuất Ly (S.i,185)

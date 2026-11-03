@@ -1,4 +1,4 @@
-# 15. TƯƠNG ƯNG VÔ THỈ
+# SN 15. TƯƠNG ƯNG VÔ THỈ
 
 _**(Anamatagga)**_
 

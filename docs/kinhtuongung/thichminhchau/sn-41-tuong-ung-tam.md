@@ -1,4 +1,4 @@
-# 41. TƯƠNG ƯNG TÂM
+# SN 41. TƯƠNG ƯNG TÂM
 
 <!--pg-->
 ### I. Kiết Sử (S.iv,281)

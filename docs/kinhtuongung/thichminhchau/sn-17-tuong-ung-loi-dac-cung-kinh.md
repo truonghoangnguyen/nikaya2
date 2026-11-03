@@ -1,4 +1,4 @@
-# 17. TƯƠNG ƯNG LỢI ÐẮC CUNG KÍNH
+# SN 17. TƯƠNG ƯNG LỢI ÐẮC CUNG KÍNH
 
 <!--pg-->
 ## I. Phẩm Thứ Nhất

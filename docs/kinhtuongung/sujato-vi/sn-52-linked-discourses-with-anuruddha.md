@@ -1,4 +1,4 @@
-# Tương Ưng Bộ Kinh với Anuruddha
+# SN 52. Tương Ưng Bộ Kinh với Anuruddha
 
 <!--pg-->
 ## Chương Về Nơi Vắng Vẻ

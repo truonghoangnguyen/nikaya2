@@ -1,4 +1,4 @@
-# 51. Tương Ưng Các Cửa Thần Thông
+# SN 51. Tương Ưng Các Cửa Thần Thông
 
 <!--pg-->
 ## Chương tại Điện Cāpāla

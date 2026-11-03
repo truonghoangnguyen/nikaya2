@@ -1,4 +1,4 @@
-# 18. TƯƠNG ƯNG RÀHULA
+# SN 18. TƯƠNG ƯNG RÀHULA
 
 <!--pg-->
 ## I. Phẩm Thứ Nhất

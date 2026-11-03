@@ -1,4 +1,4 @@
-# 51. TƯƠNG ƯNG NHƯ Ý TÚC
+# SN 51. TƯƠNG ƯNG NHƯ Ý TÚC
 
 <!--pg-->
 ## I. Phẩm Càpàla
