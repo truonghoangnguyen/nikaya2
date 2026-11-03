@@ -1,4 +1,4 @@
-# 16. TƯƠNG ƯNG KASSAPA
+# SN 16. TƯƠNG ƯNG KASSAPA
 
 _**(Ca-Diếp)**_
 

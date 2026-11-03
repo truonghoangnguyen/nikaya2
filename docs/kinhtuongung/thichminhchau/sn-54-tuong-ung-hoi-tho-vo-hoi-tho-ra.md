@@ -1,4 +1,4 @@
-# 54. TƯƠNG ƯNG HƠI THỞ VÔ, HƠI THỞ RA
+# SN 54. TƯƠNG ƯNG HƠI THỞ VÔ, HƠI THỞ RA
 
 <!--pg-->
 ## I. Phẩm Một Pháp

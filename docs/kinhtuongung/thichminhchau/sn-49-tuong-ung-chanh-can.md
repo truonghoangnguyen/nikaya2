@@ -1,4 +1,4 @@
-# 49. TƯƠNG ƯNG CHÁNH CẦN
+# SN 49. TƯƠNG ƯNG CHÁNH CẦN
 
 <!--pg-->
 ## I. Phẩm Sông Hằng Rộng Thuyết

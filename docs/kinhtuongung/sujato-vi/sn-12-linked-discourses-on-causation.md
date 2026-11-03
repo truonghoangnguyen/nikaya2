@@ -1,4 +1,4 @@
-# Các Bài Kinh Tương Ưng về Nhân Duyên
+# SN 12. Các Bài Kinh Tương Ưng về Nhân Duyên
 
 <!--pg-->
 ## Chương về các Đức Phật

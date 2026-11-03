@@ -1,4 +1,4 @@
-# 26. TƯƠNG ƯNG SANH
+# SN 26. TƯƠNG ƯNG SANH
 
 <!--pg-->
 ### I. Mắt (Tạp 13, Ðại 2,90c) (S.iii,228)

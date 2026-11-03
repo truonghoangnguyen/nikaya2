@@ -1,4 +1,4 @@
-# 21. TƯƠNG ƯNG TỶ KHEO
+# SN 21. TƯƠNG ƯNG TỶ KHEO
 
 <!--pg-->
 ### I. Kolita (Tạp, Ðại 2, 132a) (S.ii,273)

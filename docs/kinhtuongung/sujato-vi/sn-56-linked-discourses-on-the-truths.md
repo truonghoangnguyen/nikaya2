@@ -1,4 +1,4 @@
-# Các Bài Kinh Liên Quan Về Sự Thật
+# SN 56. Các Bài Kinh Liên Quan Về Sự Thật
 
 <!--pg-->
 ## Chương Về Định

@@ -1,4 +1,4 @@
-# 45. TƯƠNG ƯNG ÐẠO
+# SN 45. TƯƠNG ƯNG ÐẠO
 
 <!--pg-->
 ## I. Phẩm Vô Minh

@@ -1,4 +1,4 @@
-# Tương Ưng về Nhập Lưu
+# SN 55. Tương Ưng về Nhập Lưu
 
 <!--pg-->
 ## Phẩm Cổng Trúc Lâm

@@ -1,4 +1,4 @@
-# Tương Ưng về Lợi Dưỡng và Danh Vọng
+# SN 17. Tương Ưng về Lợi Dưỡng và Danh Vọng
 
 <!--pg-->
 ## Chương Một

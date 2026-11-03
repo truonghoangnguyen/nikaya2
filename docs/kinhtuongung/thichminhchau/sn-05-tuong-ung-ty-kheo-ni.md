@@ -1,4 +1,4 @@
-# 5. TƯƠNG ƯNG TỶ KHEO NI
+# SN 5. TƯƠNG ƯNG TỶ KHEO NI
 
 <!--pg-->
 ### I. Alavikhà (S.i.128)

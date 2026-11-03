@@ -1,4 +1,4 @@
-# Các Bài Kinh Tương Ưng về Thiền Niệm Xứ
+# SN 47. Các Bài Kinh Tương Ưng về Thiền Niệm Xứ
 
 <!--pg-->
 ## Chương về Kỹ Nữ Ambapālī

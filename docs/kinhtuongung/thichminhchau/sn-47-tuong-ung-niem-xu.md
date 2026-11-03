@@ -1,4 +1,4 @@
-# 47. TƯƠNG ƯNG NIỆM XỨ
+# SN 47. TƯƠNG ƯNG NIỆM XỨ
 
 <!--pg-->
 ## I. Phẩm Ambapàli

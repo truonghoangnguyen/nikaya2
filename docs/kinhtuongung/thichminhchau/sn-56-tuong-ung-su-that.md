@@ -1,4 +1,4 @@
-# 56. TƯƠNG ƯNG SỰ THẬT
+# SN 56. TƯƠNG ƯNG SỰ THẬT
 
 <!--pg-->
 ## I. Phẩm Ðịnh

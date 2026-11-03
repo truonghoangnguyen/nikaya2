@@ -1,4 +1,4 @@
-# Tương Ưng Về Sự Sinh Khởi
+# SN 26. Tương Ưng Về Sự Sinh Khởi
 
 <!--pg-->
 ## Chương Về Sự Sinh Khởi

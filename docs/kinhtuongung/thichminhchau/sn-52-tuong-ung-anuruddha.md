@@ -1,4 +1,4 @@
-# 52. TƯƠNG ƯNG ANURUDDHA
+# SN 52. TƯƠNG ƯNG ANURUDDHA
 
 <!--pg-->
 ## I. Phẩm Ðộc Cư

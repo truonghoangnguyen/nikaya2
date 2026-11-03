@@ -1,4 +1,4 @@
-# Tương Ưng Bộ Kinh về Càn-thát-bà
+# SN 31. Tương Ưng Bộ Kinh về Càn-thát-bà
 
 <!--pg-->
 ## Phẩm Càn-thát-bà (Centaurs/nhân mã)

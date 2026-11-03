@@ -1,4 +1,4 @@
-# Tương Ưng với Bà-la-môn
+# SN 7. Tương Ưng với Bà-la-môn
 
 <!--pg-->
 ## Phẩm về các Bậc A-la-hán

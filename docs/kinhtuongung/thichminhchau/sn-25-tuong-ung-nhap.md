@@ -1,4 +1,4 @@
-# 25. TƯƠNG ƯNG NHẬP
+# SN 25. TƯƠNG ƯNG NHẬP
 
 <!--pg-->
 ### I. Con Mắt (S.iii,225)

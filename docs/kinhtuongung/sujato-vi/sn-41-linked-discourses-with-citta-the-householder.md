@@ -1,4 +1,4 @@
-# Tương Ưng đến Gia Chủ Citta
+# SN 41. Tương Ưng đến Gia Chủ Citta
 
 <!--pg-->
 ## Chương về Citta

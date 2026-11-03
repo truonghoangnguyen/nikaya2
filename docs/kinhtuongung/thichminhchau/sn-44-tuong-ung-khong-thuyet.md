@@ -1,4 +1,4 @@
-# 44. TƯƠNG ƯNG KHÔNG THUYẾT
+# SN 44. TƯƠNG ƯNG KHÔNG THUYẾT
 
 <!--pg-->
 ### I. Trưởng Lão Ni Khemà (S.iv,374)

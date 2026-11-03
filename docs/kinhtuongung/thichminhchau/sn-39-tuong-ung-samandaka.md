@@ -1,4 +1,4 @@
-# 39. TƯƠNG ƯNG SÀMANDAKA
+# SN 39. TƯƠNG ƯNG SÀMANDAKA
 
 <!--pg-->
 ### I. Niết Bàn (S.iv,261)

@@ -1,4 +1,4 @@
-# 46. TƯƠNG ƯNG GIÁC CHI
+# SN 46. TƯƠNG ƯNG GIÁC CHI
 
 <!--pg-->
 ## I. Phẩm Núi

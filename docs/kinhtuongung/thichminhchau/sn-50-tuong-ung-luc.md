@@ -1,4 +1,4 @@
-# 50. TƯƠNG ƯNG LỰC
+# SN 50. TƯƠNG ƯNG LỰC
 
 <!--pg-->
 ## I. Phẩm Sông Hằng Rộng Thuyết

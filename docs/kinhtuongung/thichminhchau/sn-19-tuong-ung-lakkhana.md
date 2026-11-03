@@ -1,4 +1,4 @@
-# 19. TƯƠNG ƯNG LAKKHANA
+# SN 19. TƯƠNG ƯNG LAKKHANA
 
 <!--pg-->
 ## I. Phẩm Thứ Nhất

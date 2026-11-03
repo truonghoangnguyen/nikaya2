@@ -1,4 +1,4 @@
-# 32. TƯƠNG ƯNG THẦN MÂY
+# SN 32. TƯƠNG ƯNG THẦN MÂY
 
 <!--pg-->
 ### I. Chủng Loại (S.iii,254)

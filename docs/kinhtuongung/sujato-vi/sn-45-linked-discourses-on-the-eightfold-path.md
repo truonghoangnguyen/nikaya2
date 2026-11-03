@@ -1,4 +1,4 @@
-# Các Bài Kinh Liên Quan đến Con Đường Tám Nhánh
+# SN 45. Các Bài Kinh Liên Quan đến Con Đường Tám Nhánh
 
 <!--pg-->
 ## Chương về Vô Minh

@@ -1,4 +1,4 @@
-# 33. TƯƠNG ƯNG VACCHAGOTA
+# SN 33. TƯƠNG ƯNG VACCHAGOTA
 
 <!--pg-->
 ### I. Vô Tri (1) (S.iii,257)

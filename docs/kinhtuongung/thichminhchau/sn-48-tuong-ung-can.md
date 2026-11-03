@@ -1,4 +1,4 @@
-# 48. TƯƠNG ƯNG CĂN
+# SN 48. TƯƠNG ƯNG CĂN
 
 <!--pg-->
 ## I. Phẩm Thanh Tịnh

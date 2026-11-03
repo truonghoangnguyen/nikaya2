@@ -1,4 +1,4 @@
-# Tương Ưng về Sự Thông Hiểu
+# SN 13. Tương Ưng về Sự Thông Hiểu
 
 <!--pg-->
 ## Phẩm về Sự Thông Hiểu

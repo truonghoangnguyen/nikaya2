@@ -1,4 +1,4 @@
-# 2. TƯƠNG ƯNG THIÊN TỬ
+# SN 2. TƯƠNG ƯNG THIÊN TỬ
 
 
 <!--pg-->

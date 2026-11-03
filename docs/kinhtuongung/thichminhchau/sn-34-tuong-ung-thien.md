@@ -1,4 +1,4 @@
-# 34. TƯƠNG ƯNG THIỀN
+# SN 34. TƯƠNG ƯNG THIỀN
 
 <!--pg-->
 ### I. Thiền Ðịnh Thiền Chứng (Tạp 31, Ðại 2,222c) (S,iii,263)

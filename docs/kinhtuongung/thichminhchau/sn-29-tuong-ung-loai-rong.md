@@ -1,4 +1,4 @@
-# 29. TƯƠNG ƯNG LOÀI RỒNG
+# SN 29. TƯƠNG ƯNG LOÀI RỒNG
 
 <!--pg-->
 ### I. Chủng Loại (Tạp 19, Ðại 2, 646a) (S.iii,240)

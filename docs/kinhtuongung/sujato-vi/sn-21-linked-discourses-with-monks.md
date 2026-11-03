@@ -1,4 +1,4 @@
-# Tương Ưng Chư Tăng
+# SN 21. Tương Ưng Chư Tăng
 
 <!--pg-->
 ## Chương về Chư Tăng

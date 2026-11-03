@@ -1,4 +1,4 @@
-# 23. TƯƠNG ƯNG RÀDHA
+# SN 23. TƯƠNG ƯNG RÀDHA
 
 <!--pg-->
 ## I. Phẩm Thứ Nhất

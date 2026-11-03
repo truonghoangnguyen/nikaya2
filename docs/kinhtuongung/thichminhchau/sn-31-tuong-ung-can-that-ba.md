@@ -1,4 +1,4 @@
-# 31. TƯƠNG ƯNG CÀN THÁT BÀ
+# SN 31. TƯƠNG ƯNG CÀN THÁT BÀ
 
 <!--pg-->
 ### I. Chủng Loại (S.iii,249)

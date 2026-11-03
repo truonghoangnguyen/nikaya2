@@ -1,4 +1,4 @@
-# Các Bài Kinh Liên Quan đến Sāmaṇḍaka
+# SN 39. Các Bài Kinh Liên Quan đến Sāmaṇḍaka
 
 <!--pg-->
 ## Chương về Sāmaṇḍaka

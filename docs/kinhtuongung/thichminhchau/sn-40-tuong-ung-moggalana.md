@@ -1,4 +1,4 @@
-# 40. TƯƠNG ƯNG MOGGALÀNA
+# SN 40. TƯƠNG ƯNG MOGGALÀNA
 
 <!--pg-->
 ### I. Với Tầm (S.iv,262)

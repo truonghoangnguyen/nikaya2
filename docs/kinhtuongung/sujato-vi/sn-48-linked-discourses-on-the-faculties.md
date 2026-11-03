@@ -1,4 +1,4 @@
-# Tương Ưng về các Năng lực Tinh Thần (indriya)
+# SN 48. Tương Ưng về các Năng lực Tinh Thần (indriya)
 
 <!--pg-->
 ## Chương về Phiên Bản Đơn Giản

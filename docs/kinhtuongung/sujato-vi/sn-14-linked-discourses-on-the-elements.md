@@ -1,4 +1,4 @@
-# Các Bài Kinh Liên Quan Về Các Giới
+# SN 14. Các Bài Kinh Liên Quan Về Các Giới
 
 <!--pg-->
 ## Chương Về Sự Đa Dạng

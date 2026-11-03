@@ -1,4 +1,4 @@
-# Tương Ưng về Sáu Trường Giác Quan
+# SN 35. Tương Ưng về Sáu Trường Giác Quan
 
 **Năm mươi bài kinh đầu tiên**
 

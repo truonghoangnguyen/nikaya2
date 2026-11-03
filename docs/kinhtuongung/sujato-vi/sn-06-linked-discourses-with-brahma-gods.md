@@ -1,4 +1,4 @@
-# 6. Tương Ưng với Phạm Thiên
+# SN 6. Tương Ưng với Phạm Thiên
 
 <!--pg-->
 ## Chương Một

@@ -1,4 +1,4 @@
-# 14. TƯƠNG ƯNG GIỚI
+# SN 14. TƯƠNG ƯNG GIỚI
 
 ## I. Phẩm Sai Biệt
 
