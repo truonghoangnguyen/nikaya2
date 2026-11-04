@@ -369,7 +369,7 @@ export default defineConfig({
     '**/jill-brain/**',
     '**/jill-stroke/**',
     '**/plato/**',
-    '**/kinhtieubo/pali/**',
+    '**/kinhtieubo/pali-vi/**',
   ],
 
   vite: {
