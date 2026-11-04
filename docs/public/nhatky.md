@@ -179,5 +179,10 @@ SN 48.36
 SN 48.40 
 
 ### date 2026-11-02
-driyāni/căn = nguồn năng lực, giống như dầu hỏa là 1 năng lượng, dùng trong [tín, tấn, niệm, định, tuệ] ở vật lý thì là giác quan mắt tai mũi miệng thân
-tương ứng có ngũ lực =  dầu đang cháy; pañcabalāni = năm lực tinh thần
+driyāni/căn = nguồn năng lượng, giống như dầu hỏa là 1 năng lượng, dùng trong [tín, tấn, niệm, định, tuệ] ở vật lý thì là giác quan mắt tai mũi miệng thân
+tương ứng có ngũ lực =  dầu đang cháy; pañcabalāni = năm lực tinh thần.
+
+Ví dụ sức mạnh của tình yêu
+
+### date 2026-11-04
+từ: dục (kama) = đầy đủ chính là 'phản ứng theo bản năng', hình dung khi nhìn thấy một con ma, ta sẽ sợ hãi phản ứng, đi vào chi tiết có 2 phần 'sợ hãi' và 'phản ứng', 'sợ hãi' thì ok, còn 'phản ứng' thì phải tập luyện. đó chính là tu tập

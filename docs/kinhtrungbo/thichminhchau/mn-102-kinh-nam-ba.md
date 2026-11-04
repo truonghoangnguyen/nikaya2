@@ -180,7 +180,7 @@ vi).
 <!--pg-->
 ***Niết-bàn hiện tiền***
 
-Ở đây, này các Tỷ-kheo, có vị Sa-môn hay Bà-la-môn do từ bỏ những quan điểm về quá khứ, và từ bỏ
+17\. Ở đây, này các Tỷ-kheo, có vị Sa-môn hay Bà-la-môn do từ bỏ những quan điểm về quá khứ, và từ bỏ
 những quan điểm về tương lai, do không hoàn toàn chú tâm đến những dục kiết sử, đạt được viễn ly hỷ
 và an trú. Vị ấy nghĩ: "Ðây là sự thật, đây là thù diệu, tức là đạt được viễn ly hỷ, ta an trú". Nhưng nếu
 viễn ly hỷ ấy của vị này bị đoạn diệt, do viễn ly hỷ bị đoạn diệt, ưu tư sanh khởi. Do ưu tư được đoạn
