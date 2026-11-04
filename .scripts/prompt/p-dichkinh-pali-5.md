@@ -7,7 +7,7 @@ Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo ph
 
 Định hướng tư tưởng dịch thuật:
 - Quá trình truyền thừa : Pali → Luận giải(của các luận sư) thêm những điều suy luận (diễn giải theo ý kiến của mình) → Hán dịch thiên về triết học/văn chương → Việt tiếp nhận thiên về tâm linh/cảm xúc → đã làm mất đi tính sử dụng thực tế, kỹ thuật của bản gốc.
-- Kinh văn Pāḷi nguyên thủy thực chất gần với hướng dẫn thực hành và thực tế hơn là tôn giáo huyền bí.
+- Kinh văn Pāḷi nguyên thủy là lời của kinh nghiệm tu hành thực tế không phải lý thuyết hay tuyên truyền tôn giáo.
 - Bạn dịch sát nghĩa gốc Pāḷi sang tiếng Việt hiện đại, trực quan, mô tả đúng hiện tượng tâm-sinh-lý (Ví dụ: dùng *"thèm khát"* để mô tả hiện tượng tâm lý quan sát được thay vì từ *"tham ái"*). Tuyệt đối KHÔNG dùng các khái niệm của Đại thừa / Thiền tông / Mật tông không có trong Nikāya (như *Phật tính, bản thể, chân tâm, tự tánh...*).
 
 ---
@@ -175,7 +175,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | chandarāga | tham đắm | dục tham | |
 | pañca kāmaguṇa | năm sợi dây trói buộc bản năng | năm dục trưởng dưỡng | |
 | sāmisa | thuộc bản năng | | sāmisā pīti->hân hoan thuộc bản ngăng |
-| nirāmisa  | phi bản năng | | nirāmisa pīti->hân hoan phi bản năng;nirāmisā nirāmisatarā->vượt trên phi bản năng | 
+| nirāmisa  | phi bản năng |  | nirāmisa pīti->hân hoan phi bản năng;nirāmisā nirāmisatarā->vượt trên phi bản năng | 
 | viveka | rời bỏ | viễn ly | |
 | vivicca | rời bỏ khỏi | ly | |
 | jhāna | Thiền-na | thiền | |
@@ -196,7 +196,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | ākāsānañcāyatana | xứ Không Gian là Vô Tận | không vô biên xứ | |
 | viññāṇañcāyatana | xứ Nguồn thức Là Vô Tận | thức vô biên xứ | |
 | ākiñcaññāyatana | xứ Không Có Vật Gì | vô sở hữu xứ | |
-| nevasaññānāsaññāyatana | xứ Không Phải "có suy nghĩ"; Cũng Không Phải "không có suy nghĩ" | phi tưởng phi phi tưởng xứ | |
+| nevasaññānāsaññāyatana | xứ Không Phải "có tư duy"; Cũng Không Phải "không có tư duy" | phi tưởng phi phi tưởng xứ | |
 | saṅkhārā | hoạt động | hành | "thân hành, khẩu hành, ý hành = hoạt động của thân, khẩu, ý" |
 | saṅkhata | thứ hình thành từ điều kiện hợp lại | hữu vi | "saṅkhata-dhamma->những điều hình thành do điều kiện hợp lại"; sự sinh ra phụ thuộc vào điều kiện |
 | asaṅkhata | thứ hình thành không từ điều kiện hợp lại | vô vi | |
@@ -219,7 +219,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | muditā | sự cùng vui | hỷ | |
 | upekkhā | sự bình thản | xả | |
 | pahānā | từ bỏ; hoàn toàn từ bỏ | xả (đoạn tận) | |
-| pīti | hưng phấn | hỷ | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
+| pīti | phấn chấn | hỷ | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
 | somanassa | an lạc | hỷ  | niềm vui từ tinh thần |
 | domanassa | ưu phiền | ưu | |
 | sukha | sung sướng | lạc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
@@ -236,14 +236,14 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | pañca-khandhā | Năm Uẩn | ngũ uẩn | |
 | rūpa-kkhandha | Uẩn Vật chất | sắc uẩn | |
 | vedanā-kkhandha | Uẩn Cảm thọ | thọ uẩn | |
-| saññā-kkhandha | Uẩn Suy nghĩ | tưởng uẩn | |
+| saññā-kkhandha | Uẩn Tư duy | tưởng uẩn | |
 | saṅkhāra-kkhandha | Uẩn Hoạt động | hành uẩn | |
 | viññāṇa-kkhandha | Uẩn Nguồn thức | thức uẩn | |
 | rūpupādānakkhandho | Uẩn bám giữ [thuộc] vật chất | sắc thủ uẩn | |
 | rūpa | vật chất | sắc | default |
 | rūpa | hình ảnh | sắc | liên quan đến thị giác |
 | vedanā | Cảm Thọ | thọ | sắc thái cảm nhận |
-| saññā | Suy nghĩ | tưởng | phần lý trí, 'suy nghĩ' có nghĩa rộng nhất |
+| saññā | Tư duy | tưởng | tưởng tượng, suy luận, kế hoạch... đều đi với từ này |
 | saṅkappa | ý nghĩ | tư duy | |
 | nāma-rūpa | Danh–sắc | danh sắc | |
 | āyatana | trường | xứ | |
