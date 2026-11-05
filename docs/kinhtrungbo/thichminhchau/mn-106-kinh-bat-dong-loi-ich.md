@@ -1,6 +1,6 @@
 # MN 106. KINH BẤT ÐỘNG LỢI ÍCH
 
-***(Anenjasappàya Sutta)***
+### (Anenjasappàya Sutta)
 
 Như vầy tôi nghe.
 
@@ -13,10 +13,13 @@ là lời chào xáo của kẻ ngu xây dựng trên giả dối. Các dục hi
 hiện tại và các dục tưởng tương lai, cả hai đều thuộc lãnh vực của ma, là cảnh giới của ma, là chỗ dinh
 dưỡng của ma, là chỗ ăn uống của ma.
 
-***Bất động***
+### Bất động
 
 Ở đây, các ác bất thiện ý này dẫn đến tham dục, sân hận, khích động, và chính những pháp ấy tác thành
-chướng ngại ở đây cho Thánh đệ tử học tập. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử suy nghĩ như sau:
+chướng ngại ở đây cho Thánh đệ tử học tập. 
+
+<!--pg-->
+3\. Ở đây, này các Tỷ-kheo, vị Thánh đệ tử suy nghĩ như sau: {#3}
 "Các dục hiện tại và các dục tương lai... cho Thánh đệ tử học tập. Vậy ta hãy an trú với tâm quảng đại,
 đại hành, sau khi chiến thắng thế giới, sau khi xác định vị trí của ý. Khi ta an trú với tâm quảng đại, đại
 hành chiến thắng thế giới, xác định vị trí của ý, các ác bất thiện ý: tham dục, sân hận, khích động sẽ
@@ -42,7 +45,8 @@ trước". Trong khi vị ấy hành trì như vậy, an trú nhiều lần như
 thân hoại mạng chung, sự tình này xảy ra, thức diễn tiến ấy có thể tùy theo đây đạt đến Bất động. Như
 vậy, này các Tỷ-kheo được gọi là đệ tam hành đạo về lợi ích Bất động.
 
-***Vô hữu xứ***
+<!--pg-->
+### Vô hữu xứ
 
 Lại nữa này các Tỷ-kheo, vị Thánh đệ tử suy nghĩ như sau: "Những dục hiện tại... và những sắc tưởng
 tương lai, và những bất động tưởng, tất cả tưởng, chỗ nào các tưởng ấy được đoạn diệt không có dư tàn,
@@ -50,7 +54,6 @@ như vậy là tịch tịnh, như vậy là thù diệu, tức là vô sở h�
 nhiều lần như vậy, tâm trí trở thành an tịnh trong giới xứ (của nó). Với tâm an tịnh, vị ấy thành tựu Vô
 sở hữu xứ ngay trong hiện tại hay thiên nặng về trí tuệ. Sau khi thân hoại mạng chung, sự tình này xảy
 ra, thức diễn tiến ấy có thể tùy theo đây đạt đến Vô sở hữu xứ. Như vậy, này các Tỷ-kheo được gọi là đệ
-
 nhất hành đạo về lợi ích Vô sở hữu xứ.
 
 Lại nữa này các Tỷ-kheo, vị Thánh đệ tử đi đến khu rừng hay đi đến dưới gốc cây và suy nghĩ như sau:
@@ -67,7 +70,8 @@ an tịnh, vị ấy thành tựu Vô sở hữu xứ trong hiện tại hay thi
 chung, sự tình này xảy ra, thức diễn tiến ấy có thể tùy theo đây đạt đến Vô sở hữu xứ. Như vậy, này các
 Tỷ-kheo được gọi là đệ tam hành đạo về lợi ích Vô sở hữu xứ.
 
-***Phi tưởng, phi phi tưởng xứ***
+<!--pg-->
+### Phi tưởng, phi phi tưởng xứ
 
 Và lại nữa, này các Tỷ-kheo, vị Thánh đệ tử suy nghĩ như sau: "Những dục hiện tại.. và những sắc tưởng
 và những Bất động tưởng, và những Vô sở hữu xứ tướng, tất cả các tưởng, chỗ nào các tưởng ấy được
@@ -78,7 +82,8 @@ nặng về trí tuệ. Sau khi thân hoại mạng chung, sự tình này xảy
 đạt đến Phi tưởng phi phi tưởng xứ. Như vậy, này các Tỷ-kheo, được gọi là hành đạo về lợi ích Phi
 tưởng phi phi tưởng xứ.
 
-***Niết-bàn***
+<!--pg-->
+### Niết-bàn
 
 Khi được nói như vậy, Tôn giả Ananda bạch Thế Tôn:
 

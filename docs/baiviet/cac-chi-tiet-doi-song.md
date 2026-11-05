@@ -131,8 +131,5 @@ Xem thêm trong mn-sum-099.md
 
 
 
-Do duyên mắt và các sắc, nhãn thức sinh khởi.
-Do duyên ý và các pháp, ý thức sinh khởi.
-mắt thức = nhận thức đến từ mắt
-ý thức = nhận thức từ trí não, giác quan trí não
-
+### MN 106.10
+Phi tưởng phi phi tưởng xứ liên quan đến sự phủ định tồn tại mọi thứ, đến cả cái tôi

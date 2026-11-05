@@ -104,5 +104,6 @@ Nguồn: [Thư Viện Hoa Sen](https://thuvienhoasen.org)
 - [Kinh Tiểu Bộ (KN)](https://kinhnikaya.org/kinhtieubo/)
   - [Thích Minh Châu]( https://kinhnikaya.org/kinhtieubo/thichminhchau/)
 - [Tìm kiếm](https://kinhnikaya.org/search)
+- [Tra cứu nhanh](https://kinhnikaya.org/l)
 - [Hỏi đáp](https://kinhnikaya.org/hoi-dap)
 

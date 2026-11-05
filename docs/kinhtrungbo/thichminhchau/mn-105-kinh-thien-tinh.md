@@ -40,6 +40,7 @@ Thế Tôn thuyết pháp như thế nào, sau khi nghe Thế Tôn xong, các T�
 
 Sunakkhatta Licchaviputta vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
+<!--pg-->
 -- Này Sunakkhatta, có năm dục trưởng dưỡng này. Thế nào là năm? Các sắc do mắt nhận thức, khả ái,
 khả hỷ, khả lạc, khả ý, liên hệ đến dục, hấp dẫn; các tiếng do tai nhận thức... ; các hương do mũi nhận
 thức... ; các vị do lưỡi nhận thức... ; các xúc do thân cảm xúc khả ái, khả hỷ, khả lạc, khả ý, liên hệ đến
@@ -49,7 +50,6 @@ Nhưng này Sunakkhatta, sự tình này xảy ra khi ở đây có số ngườ
 với người thiên nặng về vật chất thế gian, này Sunakkhatta, câu chuyện (thích hợp với người ấy) phải
 tùy thuộc như thế nào để phù hợp với điều người ấy suy tầm và suy tư, và người ấy chỉ giao thiệp với
 người nào người ấy thích thú. Nhưng nếu câu chuyện chỉ nói liên hệ đến bất động, thời người ấy không
-
 nghe, không lóng tai, và tâm không an trú vào trí giác. Và người ấy không giao thiệp với người mà
 người ấy không thích thú.
 
@@ -123,8 +123,8 @@ tưởng xứ, đã cắt đứt từ rễ, làm cho như cây tala không thể
 lai. Người ấy cần phải được hiểu như sau: "Ðây là hạng người không liên hệ với kiết sử Phi tưởng phi
 phi tưởng xứ, thiên nặng về chánh Niết-bàn".
 
-Này Sunakkhatta, sự tình này xảy ra, khi ở đây, có một số người suy nghĩ như sau: "Tham ái được vị Sa-
-môn gọi là mũi tên. Thuốc độc vô minh làm não hại (con người) với dục, tham, sân. Mũi tên tham ái đã
+<!--pg-->
+Này Sunakkhatta, sự tình này xảy ra, khi ở đây, có một số người suy nghĩ như sau: "Tham ái được vị Sa-môn gọi là mũi tên. Thuốc độc vô minh làm não hại (con người) với dục, tham, sân. Mũi tên tham ái đã
 được ta đoạn diệt; thuốc độc vô minh đã được trừ khử; ta thiên nặng về chánh Niết-bàn". Vị ấy có thể tự
 hào với mục đích hiện tại. Vị ấy có thể truy cầu những gì không thích hợp với khuynh hướng chánh
 Niết-bàn, mắt vị ấy có thể truy cầu sắc không thích hợp, tai có thể truy cầu tiếng không thích hợp, mũi
@@ -151,7 +151,6 @@ vết thương sẽ được lành".
 Người ấy suy nghĩ như sau: "Mũi tên đã được rút khỏi (thân) ta, nọc độc đã được trừ khử, không còn dư
 tàn, và ta đã thoát khỏi nguy hiểm". Và người ấy ăn những đồ ăn không thích hợp. Vì người ấy ăn những
 đồ ăn không thích hợp, nên vết thương làm mủ lại. Và thường thường người ấy không rửa vết thương,
-
 thường thường không xức thuốc miệng vết thương. Vì người ấy thường thường không rửa vết thương, vì
 người ấy thường thường không xức thuốc miệng vết thương, nên máu cũ đông lại trên miệng vết
 thương. Và người ấy thường hay đi giữa gió và nắng. Do người ấy thường hay đi giữa gió và nắng, bụi
@@ -203,7 +202,6 @@ Người ấy suy nghĩ như sau: "Mũi tên đã được rút ra khỏi ta, th
 tàn. Và ta chưa thoát khỏi nguy hiểm". Và vị ấy có thể chỉ ăn các đồ ăn thích hợp. Do chỉ ăn các đồ ăn
 thích hợp miệng vết thương có thể không làm mủ. Và thường thường vị ấy có thể rửa vết thương,
 thường thường có thể xức thuốc miệng vết thương. Do thường thường rửa vết thương, do thường thường
-
 xức thuốc miệng vết thương, máu cũ không có thể đóng khô lại trên miệng vết thương. Người ấy không
 sốt sắng đi giữa gió và nắng. Do người ấy không sốt sắng đi giữa gió và nắng, bụi và nhớp có thể không
 nhiễu hại miệng vết thương và người ấy sống gìn giữ vết thương, và vết thương được lành. Vì người ấy
@@ -222,7 +220,8 @@ hợp, do thân không truy cầu xúc không thích hợp, do ý không truy c�
 có thể không nhiễu hại tâm. Do tâm không bị tham dục nhiễu hại, nên người ấy không đi đến chết, hay
 không đi đến khổ gần như chết.
 
-Này Sunakkhatta, Ta nói ví dụ này với mục đích làm sáng tỏ ý nghĩa. Nghĩa ở đây như sau: Vết thương,
+<!--pg-->
+27\. Này Sunakkhatta, Ta nói ví dụ này với mục đích làm sáng tỏ ý nghĩa. Nghĩa ở đây như sau: Vết thương, {#27}
 này Sunakkhatta, là đồng nghĩa với sáu xúc xứ (phassayatana); thuốc độc, này Sunakkhatta, là đồng
 nghĩa với vô minh; mũi tên, này Sunakkhatta, là đồng nghĩa với ái; vật dụng dò tìm, này Sunakkhatta, là
 đồng nghĩa với niệm; con dao, này Sunakkhatta, là đồng nghĩa với Thánh trí tuệ. Vị y sĩ giải phẫu, này

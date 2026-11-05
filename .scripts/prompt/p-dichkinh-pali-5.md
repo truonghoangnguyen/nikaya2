@@ -79,7 +79,7 @@ Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo ph
 - Giữ nguyên Metadata (nếu có): Giữ chính xác các ký hiệu đánh dấu ID đoạn như `{#1}` ở cuối đoạn.
 - Không dùng ký tự `—` để tách câu, phải dùng ký tự `-`.
 
-- Tách lời nói chuyện: Nếu các lời thoại chung 1 block text, thì tách biệt lời thoại ra thành từng dòng riêng biệt (xuống dòng), để người đọc dễ đọc và bắt đầu với dấu `—`.
+- Tách lời nói chuyện: Nếu các lời thoại chung 1 block text, thì tách biệt lời thoại ra thành từng dòng riêng biệt (xuống dòng), để người đọc dễ đọc và bắt đầu với dấu `–`.
 
 - Quy tắc dịch Thể Thơ (Kệ):
   - Nhận diện qua ký hiệu blockquote `>`.
@@ -277,7 +277,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | ariya aṭṭhaṅgika magga | Tám Bước Thiện | bát chánh đạo | |
 | dhamma | Điều; mọi Điều; Giáo pháp; Quy luật | pháp | "pháp ác->Điều ác";"pháp của bực thánh->'Giáo pháp' của bậc thánh"; "ý với các pháp->trí não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các hiện tượng trên sáu trường"; |
 | dhammiyā kathāya | giảng về Giáo pháp | pháp thoại | |
-| adhammā | Điều sai | phi pháp | hoặc "những Điều sai" |
+| adhammā | Điều sai; phi pháp | phi pháp | hoặc "những Điều sai" |
 | kusalākusalā dhammā | những điều thiện và không thiện | thiện và bất thiện pháp | |
 | micchādiṭṭhi | Nhìn nhận sai | tà kiến | |
 | sammā-diṭṭhi | Nhìn nhận Thiện | chánh kiến | |

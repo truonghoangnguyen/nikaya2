@@ -1,6 +1,7 @@
 ---
 title: Quick Link
 outline: false
+description: Điều hướng nhanh trực tiếp đến bài kinh hoặc đoạn/mục bên trong bài kinh theo ký hiệu viết tắt (ví du mn 7.3, sn 2.2, an 7.55; hỗ trợ cú pháp URL /l?q=...).
 ---
 
 <script setup>

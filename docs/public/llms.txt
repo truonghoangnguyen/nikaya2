@@ -11,6 +11,7 @@
 - [Kinh Tương Ưng Bộ (SN)](https://kinhnikaya.org/kinhtuongung/): Khoảng 2.900 bài kinh nhóm theo chủ đề thực hành tâm linh.
 - [Kinh Tiểu Bộ (KN)](https://kinhnikaya.org/kinhtieubo/): Tập hợp các bài kinh ngắn, thi kệ, truyện tiền thân Phật và văn bản đa dạng.
 - [Tìm kiếm](https://kinhnikaya.org/search): Tìm kiếm nhanh toàn bộ kinh điển theo từ khóa, tên kinh hoặc số kinh.
+- [Quick Link](https://kinhnikaya.org/l): Điều hướng nhanh trực tiếp đến bài kinh hoặc đoạn/mục bên trong bài kinh theo ký hiệu viết tắt (vd: mn 7.3, sn 2.2, an 7.55; hỗ trợ cú pháp URL /l?q=...).
 - [Hỏi & Đáp](https://kinhnikaya.org/hoi-dap): Giải đáp các câu hỏi phổ biến về Kinh Nikaya, Phật giáo Nguyên thủy và cách sử dụng thư viện.
 
 ## Bản dịch tiếng Việt
@@ -55,6 +56,7 @@
 ## Contact
 
 - Website: https://kinhnikaya.org
+- Quick Link: https://kinhnikaya.org/l
 - Tìm kiếm: https://kinhnikaya.org/search
 - Hỏi & Đáp: https://kinhnikaya.org/hoi-dap
 - Giấy phép: https://kinhnikaya.org/license
