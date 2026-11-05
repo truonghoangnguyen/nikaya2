@@ -1,5 +1,5 @@
 # MN 106. KINH LỘ TRÌNH ĐẾN TRẠNG THÁI BẤT ĐỘNG (Tóm lược)
-[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-106){.note-link}
+[Bản so sánh→](/kinhtrungbo/c-pali-tmc-vi/mnc-106-kinh-bat-dong-loi-ich){.note-link}
 
 **Bối cảnh:**
 Khi Đức Phật đang lưu trú tại thị trấn Kammāsadhamma thuộc xứ Kuru, ông đã trình bày cho các tỳ kheo một lộ trình rèn luyện tâm lý có tính hệ thống: đi từ việc vượt qua các ham muốn bản năng và thế giới vật chất, tiến dần lên các trạng thái thiền định sâu lắng hơn bằng cách dùng trạng thái sau làm điểm tựa để buông bỏ trạng thái trước, và cuối cùng chỉ ra điểm khác biệt cốt lõi giữa định tâm cao tột và sự giải thoát hoàn toàn.

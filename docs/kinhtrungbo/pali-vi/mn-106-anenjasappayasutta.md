@@ -4,6 +4,8 @@ description: Tại thị trấn Kammāsadhamma xứ Kuru, Đức Phật giảng 
 
 # MN 106. KINH LỘ TRÌNH ĐẾN TRẠNG THÁI BẤT ĐỘNG
 *(Āneñjasappāyasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-106){."note-link"}
+
 
 1\. Tôi đã nghe như vầy - một thời, Thế Tôn ở tại xứ Kuru, nơi có thị trấn của người Kuru tên là Kammāsadhamma. Tại đấy, Thế Tôn gọi các tỳ kheo:
 – Này các tỳ kheo! {#1}
