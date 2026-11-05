@@ -243,7 +243,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | rūpa | vật chất | sắc | default |
 | rūpa | hình ảnh | sắc | liên quan đến thị giác |
 | vedanā | Cảm Thọ | thọ | sắc thái cảm nhận |
-| saññā | Tư duy | tưởng | tưởng tượng, suy luận, kế hoạch... đều đi với từ này |
+| saññā | Tư duy | tưởng | 'ālokasaññī->hình dung về ánh sáng';tưởng tượng, suy luận, kế hoạch; hình dung |
 | saṅkappa | ý nghĩ | tư duy | |
 | nāma-rūpa | Danh–sắc | danh sắc | |
 | āyatana | trường | xứ | |

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://kinhnikaya.org/l</loc>
+  </url>
+  <url>
+    <loc>https://kinhnikaya.org/search</loc>
+  </url>
+  <url>
     <loc>https://kinhnikaya.org/kinhtruongbo/c-pali-tmc-vi/dnc-001-kinh-pham-vong</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -2989,7 +2995,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://kinhnikaya.org/kinhtrungbo/thichminhchau/index</loc>
+    <loc>https://kinhnikaya.org/kinhtrungbo/thichminhchau/</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3919,7 +3925,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://kinhnikaya.org/kinhtangchi/thichminhchau/index</loc>
+    <loc>https://kinhnikaya.org/kinhtangchi/thichminhchau/</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -5041,7 +5047,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://kinhnikaya.org/kinhtuongung/thichminhchau/index</loc>
+    <loc>https://kinhnikaya.org/kinhtuongung/thichminhchau/</loc>
     <lastmod>2026-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
