@@ -49,7 +49,6 @@ một Tỷ-kheo nào của phe bên kia mà các Ông nghĩ là nhu thuận dễ
 sau: "Giữa các Tôn giả có sự sai khác về nghĩa, có sự đồng nhất về văn. Về vấn đề này, các Tôn giả phải
 biết có sự sai khác về nghĩa, có sự đồng nhất về văn như thế này. Các Tôn giả chớ có cãi lộn với nhau".
 Như vậy, cái gì khó nắm giữ, cần phải thọ trì là khó nắm giữ, cái gì dễ nắm giữ phải thọ trì là dễ nắm
-
 giữ. Sau khi thọ trì là khó nắm giữ cái gì khó nắm giữ, sau khi thọ trì là dễ nắm giữ cái gì dễ nắm giữ,
 cái gì thuộc về Pháp, cái gì thuộc về Luật phải được nói lên.
 
@@ -75,7 +74,8 @@ Tôn giả phải biết có sự đồng nhất về nghĩa và cũng có sự 
 chớ có cãi lộn với nhau". Như vậy, cái gì dễ nắm giữ phải thọ trì là dễ nắm giữ. Sau khi thọ trì là dễ nắm
 giữ cái gì dễ nắm giữ, cái gì thuộc về Pháp, cái gì thuộc về Luật hãy được nói lên".
 
-Và này các Tỷ-kheo, khi các Ông học tập các pháp ấy trong tinh thần hòa đồng, hoan hỷ, không cãi lộn
+<!--pg-->
+9\. Và này các Tỷ-kheo, khi các Ông học tập các pháp ấy trong tinh thần hòa đồng, hoan hỷ, không cãi lộn
 với nhau, có thể có một Tỷ-kheo khác phạm giới, phạm luật.
 
 Ở đây, này các Tỷ-kheo, chớ có khiển trách hấp tấp, cá nhân người kia cần phải giác sát. (Các Ông phải

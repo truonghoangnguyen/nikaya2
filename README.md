@@ -27,6 +27,7 @@ Truy cập:
 - `/kinhtrungbo/` — Trung Bộ (MN)
 - `/kinhtuongung/` — Tương Ưng (SN)
 - `/kinhtangchi/` — Tăng Chi (AN)
+- `/l` — Quick Link: tìm và nhảy nhanh đến bài kinh hoặc vị trí đoạn (anchor) bên trong (vd: `an-7.55`, `mn 7.3`, `sn 2.2`)
 
 ---
 
@@ -64,6 +65,7 @@ Trang là **static site** sinh bằng **VitePress**.
 ```
 docs/
   index.md                       # trang chủ
+  l.md                           # Quick Link: tìm nhanh bài kinh / đoạn kinh
   <bộ-kinh>/                     # kinhtruongbo, kinhtrungbo, kinhtangchi, kinhtuongung
     <dịch-giả>/                  # thichminhchau, sujato-en, sujato-vi, pali, pali-vi, nanamoli-bodhi-en/vi
       mn-001-*.md                # mỗi bài kinh một file
@@ -104,6 +106,8 @@ scripts/                         # helper Node: import-docs, update-config, gene
 - Schema cấp site (`WebSite` + `Organization`) tiêm qua `head`.
 
 **Tìm kiếm.** `.scripts/5sitemap-search-file.ipynb` quét mọi `filelist.js`, gom `{text, link}` thành `docs/search-items.js`. `search.md` mount `SearchPage.vue` (Fuse.js). URL quay lại được lưu vào `localStorage` mỗi khi đổi route.
+
+**Quick Link (`/l`).** Tra cứu và điều hướng nhanh trực tiếp đến bài kinh hoặc anchor bên trong bài kinh qua cú pháp viết tắt (ví dụ: `an-7.55`, `mn 7.3`, `sn 2.2`). Hỗ trợ mở trực tiếp qua URL query `/l?q=...`.
 
 **Markdown thô.** Vite plugin `copy-markdown-files` trong `config.ts` copy mọi `.md` của 3 bộ lớn sang `dist/` sau khi build, cho phép fetch nguồn gốc.
 

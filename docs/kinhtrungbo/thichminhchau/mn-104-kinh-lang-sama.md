@@ -59,6 +59,7 @@ thượng giới bổn. Này Ananda, sự tranh luận khởi lên giữa Tăng 
 đường hướng tu hành (patipada), sự tranh luận ấy mới đưa đến bất an cho đa số, thất lợi cho đa số, bất
 an, đau khổ cho loài Trời, loài Người.
 
+<!--pg-->
 Này Ananda, có sáu căn bản tranh chấp này. Thế nào là sáu? Ở đây, Tỷ-kheo phẫn nộ, sân hận. Này
 Ananda, vị Tỷ-kheo nào phẩn nộ, sân hận, vị ấy sống không cung kính, không tôn trọng bậc Ðạo sư;
 sống không cung kính, không tôn trọng Pháp; sống không cung kính, không tôn trọng Tăng chúng, và

@@ -1,0 +1,53 @@
+---
+title: Bảng tra cứu kinh theo mã số (AN, MN, SN, DN, Ud...) | Kinh Nikaya
+description: Danh sách mã kinh Nikāya (AN 7.33, MN 10, SN 12.2, Ud 7.8...) và liên kết đến bản dịch tiếng Việt tương ứng trên kinhnikaya.org.
+canonical: https://kinhnikaya.org/bang-tra-cuu/
+---
+
+# Bảng tra cứu kinh theo mã số
+
+Trang này liệt kê **mã số các bài kinh Nikāya** (ví dụ AN 7.33, MN 10, SN 12.2) và
+liên kết đến bản dịch tiếng Việt tương ứng. Mã kinh theo hệ thống chuẩn của
+SuttaCentral, nên bạn có thể đối chiếu với các bản dịch khác.
+
+Muốn tìm nhanh một bài cụ thể, hãy dùng [công cụ tra cứu](/l): nhập `AN 7.33`,
+`an-7.33` hoặc `an7.33` đều được.
+
+## Các bộ kinh
+
+| Ký hiệu | Tên đầy đủ | Bảng tra cứu |
+|---|---|---|
+| DN | Dīgha Nikāya (Trường Bộ) | [Bảng DN](/bang-tra-cuu/dn/) |
+| MN | Majjhima Nikāya (Trung Bộ) | [Bảng MN](/bang-tra-cuu/mn/) |
+| SN | Saṃyutta Nikāya (Tương Ưng Bộ) | [Bảng SN](/bang-tra-cuu/sn/) |
+| AN | Aṅguttara Nikāya (Tăng Chi Bộ) | [Bảng AN](/bang-tra-cuu/an/) |
+| Kh | Khuddakapāṭha (Tiểu Tụng) | [Bảng Kh](/bang-tra-cuu/kh/) |
+| Dhp | Dhammapada (Pháp Cú) | [Bảng Dhp](/bang-tra-cuu/dhp/) |
+| Ud | Udāna (Phật Tự Thuyết) | [Bảng Ud](/bang-tra-cuu/ud/) |
+| Iti | Itivuttaka (Phật Thuyết Như Vậy) | [Bảng Iti](/bang-tra-cuu/iti/) |
+| Snp | Suttanipāta (Kinh Tập) | [Bảng Snp](/bang-tra-cuu/snp/) |
+
+## Tăng Chi Bộ (AN) theo chương
+
+| Chương | Nội dung | Bảng tra cứu |
+|---|---|---|
+| AN 1 | Chương một pháp | [AN 1](/bang-tra-cuu/an-1/) |
+| AN 2 | Chương hai pháp | [AN 2](/bang-tra-cuu/an-2/) |
+| ... | ... | ... |
+| AN 7 | Chương bảy pháp | [AN 7](/bang-tra-cuu/an-7/) |
+| ... | ... | ... |
+| AN 11 | Chương mười một pháp | [AN 11](/bang-tra-cuu/an-11/) |
+
+## Cách viết mã kinh
+
+Một bài kinh có thể được ghi theo nhiều cách. Tất cả các dạng sau đều chỉ cùng một bài:
+
+- `AN 7.33`
+- `AN7.33`
+- `A VII 33` (cách ghi theo bản Pali Text Society)
+- Aṅguttara Nikāya 7.33
+
+## Xem thêm
+
+- [Công cụ tra cứu nhanh](/l)
+- [Mục lục toàn bộ kinh](/muc-luc/)
