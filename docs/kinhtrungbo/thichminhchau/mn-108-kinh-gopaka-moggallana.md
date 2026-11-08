@@ -74,7 +74,8 @@ hợp?
 -- Này Bà-la-môn, chúng tôi không phải không có chỗ nương tựa. Này Bà-la-môn, chúng tôi có chỗ
 nương tựa, và Pháp là chỗ nương tựa của chúng tôi.
 
--- Khi được hỏi: "Có một vị Tỷ-kheo nào được Tôn giả Gotama sắp đặt: "Vị này, sau khi Ta diệt độ, sẽ
+<!--pg-->
+10\. -- Khi được hỏi: "Có một vị Tỷ-kheo nào được Tôn giả Gotama sắp đặt: "Vị này, sau khi Ta diệt độ, sẽ
 là chỗ nương tựa cho các Ông, và các Ông nay sẽ y chỉ vị này?"", Tôn giả trả lời: "Này Bà-la-môn,
 không có một vị Tỷ-kheo nào được Thế Tôn bậc Tri Giả, Kiến Giả, bậc A-la-hán, Chánh Ðẳng Giác sắp
 đặt: "Vị này, sau khi Ta diệt độ, sẽ là chỗ nương tựa cho các Ông", và chúng tôi nay sẽ y chỉ vị này".
@@ -120,6 +121,7 @@ vị ấy". Thưa Tôn giả Ananda, ý nghĩa lời nói ấy cần phải hi�
 trọng, lễ bái, cúng dường vị ấy; sau khi cung kính, tôn trọng, chúng tôi an trú, nương tựa vị ấy. Thế nào
 là mười?
 
+<!--pg-->
 Ở đây, này Bà-la-môn, Tỷ-kheo có giới hạnh, sống chế ngự với sự chế ngự của giới bổn Patimokkha,
 đầy đủ oai nghi chánh hạnh, thấy sự nguy hiểm trong những lỗi nhỏ nhặt, sau khi thọ trì, học tập trong
 các học pháp.
@@ -174,6 +176,7 @@ những ai đáng tôn trọng, lễ bái những ai đáng lễ bái, cúng dư
 những Tôn giả ấy không cung kính, không tôn trọng, không lễ bái, không cúng dường (Tỷ-kheo) này,
 thời những Tôn giả ấy cung kính, tôn trọng, lễ bái, cúng dường ai?
 
+<!--pg-->
 Rồi Bà-la-môn Vassakara, vị đại thần nước Magadha, thưa với Tôn giả Ananda:
 
 -- Tôn giả Ananda nay trú tại đâu?
@@ -194,6 +197,7 @@ giảng đường). Rồi, thưa Tôn giả Ananda, tôi đi đến Mahavana (Ð
 Gotama. Ở đấy, Tôn giả Gotama dùng nhiều phương tiện nói về Thiền định luận. Tôn giả Gotama thật là
 vị tu Thiền và tánh thiên về Thiền định. Và Tôn giả Gotama tán thán tất cả Thiền định.
 
+<!--pg-->
 -- Này Bà-la-môn, Thế Tôn ấy không tán thán tất cả Thiền định, không không tán thán tất cả Thiền định.
 Và này Bà-la-môn, loại Thiền định nào Thế Tôn ấy không tán thán? Ở đây, này Bà-la-môn, một số vị
 sống với tâm thấm nhuần dục tham, bị dục tham chi phối, và không như thật biết sự giải thoát khỏi dục
@@ -201,7 +205,6 @@ tham đã được khởi lên. Vị ấy lấy dục tham làm đối tượng 
 nhập. Vị ấy sống với tâm thấm nhuần sân hận, bị sân hận chi phối, và không như thật biết sự giải thoát
 khỏi sân hận đã được khởi lên. Vị ấy lấy sân hận làm đối tượng tối hậu, Thiền tu, Thiền tư, Thiền định,
 Thiền nhập. Vị ấy sống với tâm thấm nhuần hôn trầm thụy miên, bị hôn trầm thụy miên chi phối, và
-
 không như thật biết sự giải thoát khỏi hôn trầm thụy miên đã được khởi lên. Vị ấy lấy hôn trầm thụy
 miên làm đối tượng tối hậu, Thiền tu, Thiền tư, Thiền định, Thiền nhập. Vị ấy sống với tâm thấm nhuần
 trạo hối, bị trạo hối chi phối và không như thật biết sự giải thoát khỏi tạo hối đã được khởi lên. Vị ấy lấy

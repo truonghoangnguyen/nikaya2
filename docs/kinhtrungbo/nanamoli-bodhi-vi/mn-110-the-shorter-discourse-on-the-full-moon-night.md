@@ -5,7 +5,7 @@
 
 2\.  Hôm ấy nhằm ngày Bố-tát (Uposatha day) thứ mười lăm, vào đêm trăng tròn, [21] Đức Thế Tôn đang ngồi ngoài trời, giữa Tăng đoàn các vị tỳ kheo (bhikkhus - nhà sư). Bấy giờ, sau khi nhìn khắp Tăng đoàn đang im lặng, Ngài bảo họ như sau: {#2}
 
-3\.  "Này các tỳ kheo, liệu một người không chân chính [^1045] có thể biết về một người không chân chính khác: 'Người này là người không chân chính' không?" - "Bạch Thế Tôn, không." - "Tốt lắm, này các tỳ kheo. Điều đó là không thể, không xảy ra được, rằng một người không chân chính lại biết về một người không chân chính khác: 'Người này là người không chân chính.' Nhưng liệu một người không chân chính có thể biết về một người chân chính: 'Người này là người chân chính' không?" - "Bạch Thế Tôn, không." - "Tốt lắm, này các tỳ kheo. Điều đó là không thể, không xảy ra được, rằng một người không chân chính lại biết về một người chân chính: 'Người này là người chân chính.'" {#3}
+3\.  "Này các tỳ kheo, liệu một người không chân chính [1045](/kinhtrungbo/nanamoli-bodhi-vi/notes/110#1045){.note} có thể biết về một người không chân chính khác: 'Người này là người không chân chính' không?" - "Bạch Thế Tôn, không." - "Tốt lắm, này các tỳ kheo. Điều đó là không thể, không xảy ra được, rằng một người không chân chính lại biết về một người không chân chính khác: 'Người này là người không chân chính.' Nhưng liệu một người không chân chính có thể biết về một người chân chính: 'Người này là người chân chính' không?" - "Bạch Thế Tôn, không." - "Tốt lắm, này các tỳ kheo. Điều đó là không thể, không xảy ra được, rằng một người không chân chính lại biết về một người chân chính: 'Người này là người chân chính.'" {#3}
 
 4\.  "Này các tỳ kheo, người không chân chính có những phẩm chất xấu; người ấy thân cận như người không chân chính, có ý định như người không chân chính, bàn tính như người không chân chính, nói năng như người không chân chính, hành động như người không chân chính, có quan điểm như người không chân chính, và bố thí như người không chân chính. {#4}
 
@@ -27,6 +27,7 @@
 
 13\. "Người không chân chính đó - với những phẩm chất xấu như vậy, thân cận như người không chân chính, có ý định như người không chân chính, bàn tính như người không chân chính, nói năng như người không chân chính, hành động như người không chân chính, có quan điểm như người không chân chính, và bố thí như người không chân chính - sau khi thân hoại mạng chung, sẽ tái sinh vào cảnh giới của những người không chân chính. Và cảnh giới của những người không chân chính là gì? Đó là địa ngục (niraya - hell) hoặc thế giới loài vật (tiracchānayoni - animal world). {#13}
 
+<!--pg-->
 14\. "Này các tỳ kheo, liệu một người chân chính có thể biết về một người chân chính khác: 'Người này là người chân chính' không?" [23] - "Bạch Thế Tôn, có." - "Tốt lắm, này các tỳ kheo. Điều đó là có thể, rằng một người chân chính biết về một người chân chính khác: 'Người này là người chân chính.' Nhưng liệu một người chân chính có thể biết về một người không chân chính: 'Người này là người không chân chính' không?" - "Bạch Thế Tôn, có." - "Tốt lắm, này các tỳ kheo. Điều đó là có thể, rằng một người chân chính biết về một người không chân chính: 'Người này là người không chân chính.'" {#14}
 
 15\. "Này các tỳ kheo, người chân chính có những phẩm chất tốt; người ấy thân cận như người chân chính, có ý định như người chân chính, bàn tính như người chân chính, nói năng như người chân chính, hành động như người chân chính, có quan điểm như người chân chính, và bố thí như người chân chính. {#15}
@@ -50,26 +51,3 @@
 24\. "Người chân chính đó - với những phẩm chất tốt như vậy, thân cận như người chân chính, có ý định như người chân chính, bàn tính như người chân chính, nói năng như người chân chính, hành động như người chân chính, có quan điểm như người chân chính, và bố thí như người chân chính - sau khi thân hoại mạng chung, sẽ tái sinh vào cảnh giới của những người chân chính. Và cảnh giới của những người chân chính là gì? Đó là địa vị cao quý trong cõi trời hoặc địa vị cao quý trong cõi người." {#24}
 
 Đó là những gì Đức Thế Tôn đã dạy. Các vị tỳ kheo hoan hỷ và tín thọ lời Đức Thế Tôn dạy.
-
-<!--pg-->
-Từ ngữ:
-- Đức Thế Tôn / Bhagavā / Blessed One: Danh hiệu tôn kính dành cho Đức Phật, bậc được tôn quý trên đời.
-- Ngày Bố-tát / Uposatha day / Uposatha day: Ngày sám hối và tụng giới của Tăng đoàn, thường vào ngày rằm và cuối tháng âm lịch.
-- Tăng đoàn / Sangha / Sangha: Cộng đồng các vị tỳ kheo (nam tu sĩ) hoặc tỳ kheo ni (nữ tu sĩ) Phật giáo.
-- Tỳ kheo / bhikkhu / bhikkhu: Nhà sư Phật giáo Theravada đã thọ giới cụ túc (giới luật đầy đủ).
-- Người không chân chính / asatpurisa / untrue man: Người có phẩm chất xấu, hành động bất thiện, không theo Chánh pháp, đối lập với người chân chính (sappurisa).
-- Người chân chính / sappurisa / true man: Người có phẩm chất tốt, hành động thiện lành, sống theo Chánh pháp, đối lập với người không chân chính (asatpurisa).
-- Niềm tin / saddhā / faith: Lòng tin trong sạch, không mù quáng, dựa trên sự hiểu biết vào Tam Bảo (Phật, Pháp, Tăng), vào luật nghiệp báo, và vào khả năng giác ngộ.
-- Biết xấu hổ / hiri / shame: Sự hổ thẹn với lương tâm khi làm điều ác hoặc có ý định làm điều ác; một trong hai pháp bảo hộ thế gian (cùng với Ottappa).
-- Biết sợ hãi tội lỗi / ottappa / fear of wrongdoing: Sự ghê sợ, e ngại hậu quả xấu ác của hành động bất thiện và sự khiển trách của người trí; một trong hai pháp bảo hộ thế gian (cùng với Hiri).
-- Sa-môn / samaṇa / recluse: Tu sĩ, người xuất gia khổ hạnh nói chung trong các truyền thống tôn giáo Ấn Độ cổ, những người từ bỏ đời sống thế tục để tìm cầu giải thoát.
-- Bà-la-môn / brāhmaṇa / brahmin: Thành viên của giai cấp tu sĩ và học giả trong xã hội Ấn Độ cổ theo hệ thống Vệ Đà; trong Phật giáo, thuật ngữ này đôi khi cũng được dùng để chỉ người có phẩm hạnh cao quý, tương đương A-la-hán.
-- Tà kiến / micchāditthi / wrong view: Quan điểm sai lầm, không phù hợp với sự thật như được Đức Phật giảng dạy, đặc biệt là phủ nhận luật nhân quả, nghiệp báo, sự tồn tại của đời sau, và khả năng giác ngộ.
-- Quả báo của nghiệp thiện ác / kamma vipāka / fruit or result of good and bad actions: Kết quả, hậu quả tự nhiên, chín muồi của các hành động (nghiệp) tốt hoặc xấu đã được tạo ra trong quá khứ hoặc hiện tại.
-- Chúng sinh hóa sinh / opapātika / beings who are reborn spontaneously: Các loài chúng sinh được sinh ra một cách tức thời, hiện hữu đầy đủ hình hài mà không cần qua trung gian như thai sinh (từ bụng mẹ) hay noãn sinh (từ trứng). Ví dụ: chư thiên, chúng sinh địa ngục, ngạ quỷ.
-- Thắng trí / abhiññā / direct knowledge: Sự hiểu biết trực tiếp, siêu việt, vượt ngoài nhận thức thông thường của giác quan, đạt được qua sự phát triển thiền định và trí tuệ. Có sáu loại thắng trí thường được đề cập.
-- Địa ngục / niraya / hell: Cõi giới đau khổ cùng cực trong các cõi tái sinh, nơi chúng sinh phải chịu đựng quả báo do các ác nghiệp nặng nề đã tạo ra.
-- Thế giới loài vật / tiracchānayoni / animal world: Cõi súc sinh, một trong các cõi khổ (cùng địa ngục, ngạ quỷ, a-tu-la), nơi chúng sinh tái sinh chủ yếu do si mê và hành động theo bản năng.
-- Siêng năng / viriya / energetic: Sự nỗ lực, tinh cần, không mệt mỏi trong việc tu tập các pháp thiện và đoạn trừ các pháp bất thiện; một trong năm năng lực (ngũ lực) và một yếu tố của Tám Bước Thiện (Bát Chánh Đạo) (Chánh Tinh Tấn).
-- Tỉnh giác / sati / mindful: Sự chú tâm, hay biết rõ ràng đối với những gì đang xảy ra trong giây phút hiện tại (thân, cảm giác, tâm, đối tượng của tâm), không lơ đãng, không phán xét; một yếu tố quan trọng trong thiền tập và Tám Bước Thiện (Bát Chánh Đạo) (Chánh Niệm).
-- Chánh kiến / sammāditthi / right view: Quan điểm đúng đắn, sự hiểu biết phù hợp với sự thật về Tứ Thánh Đế, luật nhân quả, nghiệp báo, duyên khởi, vô thường, khổ, vô ngã. Đây là yếu tố đầu tiên và nền tảng của Tám Bước Thiện (Bát Chánh Đạo).

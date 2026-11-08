@@ -133,3 +133,9 @@ Xem thêm trong mn-sum-099.md
 
 ### MN 106.10
 Phi tưởng phi phi tưởng xứ liên quan đến sự phủ định tồn tại mọi thứ, đến cả cái tôi
+
+### MN 108.14
+10 điều được cung kính 
+
+### MN 109
+Định nghĩa Uẩn

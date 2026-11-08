@@ -55,10 +55,14 @@ Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo ph
 
 ## 2. Quy tắc Ngữ pháp & Văn phong tiếng Việt
 
-- Cấu trúc câu thuần Việt: Thoát ly cấu trúc ngữ pháp câu bị động hoặc đảo ngữ kiểu Hán văn.
+- Cấu trúc câu thuần Việt: sửa lại cấu trúc ngữ pháp của câu, (chữ pali thường đảo vị trí nên khó theo dõi ý câu).
   - *Ví dụ*: `"Katamehi catūhi ṭhānehi pāpakammaṁ na karoti?"`
   - BAD: `"Người ấy không làm hành động sai trái qua bốn nguyên do nào?"`
   - GOOD: `"Bốn nguyên nhân nào [khiến cho] vị ấy không làm hành động sai trái?"`
+  - *Ví dụ 2*: `Yo kho, bhikkhu, pañcasu upādānakkhandhesu chandarāgo taṃ tattha upādānaṃ.`
+  - BAD: `Này tỳ kheo, bất cứ *[lòng] tham đắm* đối với *sự Bám giữ năm Tập hợp* thì chính  *[lòng] tham đắm* là sự *sự bám giữ*`
+  - GOOD: `Này tỳ kheo, *sự bám giữ* là *[lòng] tham đắm* trong *sự Bám giữ năm Tập hợp*.`
+
 - Từ bổ sung làm rõ nghĩa: Khi cần thêm từ không có trong bản gốc Pāḷi để câu tiếng Việt mạch lạc, BẮT BUỘC đặt từ thêm vào trong `[ngoặc vuông]`.
   - *Ví dụ*: `người ấy *suy diễn* [mình] tách rời khỏi nước`.
 - Quy tắc dấu câu: KHÔNG đặt dấu phẩy (`,`) trước các liên từ (`và`, `hoặc`, `hay`) khi chúng chỉ nối hai từ hoặc hai cụm từ ngắn.
@@ -232,14 +236,14 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | anupassanā | quan sát | quán | |
 | ajjhattaṁ sampasādanaṁ | sự lắng trong nội tại | nội tĩnh | |
 | cetaso ekodibhāvaṁ | tâm hợp thành một | nhất tâm | |
-| pañcupādānakkhandhā | Năm Uẩn bám giữ | ngũ thủ uẩn | 5 tập hợp có khả năng bị bám giữ |
-| pañca-khandhā | Năm Uẩn | ngũ uẩn | |
-| rūpa-kkhandha | Uẩn Vật chất | sắc uẩn | |
-| vedanā-kkhandha | Uẩn Cảm thọ | thọ uẩn | |
-| saññā-kkhandha | Uẩn Tư duy | tưởng uẩn | |
-| saṅkhāra-kkhandha | Uẩn Hoạt động | hành uẩn | |
-| viññāṇa-kkhandha | Uẩn Nguồn thức | thức uẩn | |
-| rūpupādānakkhandho | Uẩn bám giữ [thuộc] vật chất | sắc thủ uẩn | |
+| pañcupādānakkhandhā | sự 'Bám giữ năm Tập hợp' | ngũ thủ uẩn | |
+| pañca-khandhā | Năm Tập hợp | ngũ uẩn |  |
+| rūpa-kkhandha | Tập hợp Vật chất | sắc uẩn | |
+| vedanā-kkhandha | Tập hợp Cảm thọ | thọ uẩn | |
+| saññā-kkhandha | Tập hợp Tư duy | tưởng uẩn | |
+| saṅkhāra-kkhandha | Tập hợp Hoạt động | hành uẩn | |
+| viññāṇa-kkhandha | Tập hợp Nguồn thức | thức uẩn | |
+| rūpupādānakkhandho | sự Bám giữ Tập hợp Vật chất | sắc thủ uẩn | |
 | rūpa | vật chất | sắc | default |
 | rūpa | hình ảnh | sắc | liên quan đến thị giác |
 | vedanā | Cảm Thọ | thọ | sắc thái cảm nhận |

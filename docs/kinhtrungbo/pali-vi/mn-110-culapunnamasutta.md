@@ -1,72 +1,73 @@
-# MN 110. Cūḷapuṇṇamasutta
+---
+description: Trong một đêm trăng tròn ngày lễ Bố-tát tại Đông Viên (Sāvatthī), Đức Phật giảng giải cho các tỳ kheo về sự khác biệt căn bản giữa người bất chính (asappurisa) và bậc người chân chính (sappurisa) qua tám phương diện thực tế của đời sống.
+---
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati pubbārāme migāramātupāsāde. {#1}
+# MN 110. KINH NGĂN ĐÊM TRĂNG TRÒN
+*(Cūḷapuṇṇamasutta)*
 
-2\. Tena kho pana samayena bhagavā tadahuposathe pannarase puṇṇāya puṇṇamāya rattiyā bhikkhusaṅghaparivuto abbhokāse nisinno hoti. Atha kho bhagavā tuṇhībhūtaṁ tuṇhībhūtaṁ bhikkhusaṅghaṁ anuviloketvā bhikkhū āmantesi: “jāneyya nu kho, bhikkhave, asappuriso asappurisaṁ: ‘asappuriso ayaṁ bhavan’”ti? {#2}
+1\. Tôi đã nghe như vầy - một thời, Thế Tôn ở tại Sāvatthī, trong khu vườn phía Đông (Đông Viên), nơi tòa lầu của mẹ ông Migāra. {#1}
 
-3\. “No hetaṁ, bhante”. {#3}
+2\. Vào lúc bấy giờ, nhằm *ngày trai giới* (bố-tát / uposathe) rằm thứ mười lăm, trong đêm trăng tròn sáng tỏ, Thế Tôn đang ngồi ngoài trời, xung quanh là chúng Tăng tỳ kheo. Rồi Thế Tôn đưa mắt nhìn khắp chúng Tăng tỳ kheo đang giữ im lặng, liền bảo các tỳ kheo:
 
-“Sādhu, bhikkhave; aṭṭhānametaṁ, bhikkhave, anavakāso yaṁ asappuriso asappurisaṁ jāneyya: ‘asappuriso ayaṁ bhavan’ti. Jāneyya pana, bhikkhave, asappuriso sappurisaṁ: ‘sappuriso ayaṁ bhavan’”ti?
+– Này các tỳ kheo, liệu một *người bất chính* (bất người chân chính / asappuriso) có thể nhận biết được một *người bất chính* rằng: "Người này là *người bất chính*" hay không? {#2}
 
-“No hetaṁ, bhante”.
+3\. – Thưa Tôn giả, không thể. {#3}
 
-“Sādhu, bhikkhave; etampi kho, bhikkhave, aṭṭhānaṁ anavakāso yaṁ asappuriso sappurisaṁ jāneyya: ‘sappuriso ayaṁ bhavan’ti. Asappuriso, bhikkhave, assaddhammasamannāgato hoti, asappurisabhatti hoti, asappurisacintī hoti, asappurisamantī hoti, asappurisavāco hoti, asappurisakammanto hoti, asappurisadiṭṭhi hoti; asappurisadānaṁ deti.
+– Lành thay, này các tỳ kheo! Này các tỳ kheo, không thể có chuyện, không thể có trường hợp một *người bất chính* lại nhận biết được một *người bất chính* rằng: "Người này là *người bất chính*". Thế nhưng, này các tỳ kheo, liệu một *người bất chính* có thể nhận biết được một người chân chính rằng: "Vị này là bậc người chân chính" hay không?
 
-5\. Kathañca, bhikkhave, asappuriso assaddhammasamannāgato hoti? Idha, bhikkhave, asappuriso assaddho hoti, ahiriko hoti, anottappī hoti, appassuto hoti, kusīto hoti, muṭṭhassati hoti, duppañño hoti. Evaṁ kho, bhikkhave, asappuriso assaddhammasamannāgato hoti. {#5}
+– Thưa Tôn giả, không thể.
 
-6\. Kathañca, bhikkhave, asappuriso asappurisabhatti hoti? Idha, bhikkhave, asappurisassa ye te samaṇabrāhmaṇā assaddhā ahirikā anottappino appassutā kusītā muṭṭhassatino duppaññā tyāssa mittā honti te sahāyā. Evaṁ kho, bhikkhave, asappuriso asappurisabhatti hoti. {#6}
+– Lành thay, này các tỳ kheo! Này các tỳ kheo, điều này cũng không thể xảy ra, không thể có trường hợp một *người bất chính* lại nhận biết được một người chân chính rằng: "Vị này là bậc người chân chính". Này các tỳ kheo, *người bất chính* là người *mang những phẩm chất xấu* (thành tựu bất chánh pháp / assaddhammasamannāgato), *kết giao với người bất chính* (thân cận bất người chân chính / asappurisabhatti), *suy nghĩ như người bất chính* (tư duy như bất người chân chính / asappurisacintī), *bàn tính như người bất chính* (cố vấn như bất người chân chính / asappurisamantī), *nói năng như người bất chính* (nói lời bất người chân chính / asappurisavāco), *hành động như người bất chính* (hành động như bất người chân chính / asappurisakammanto), *có quan điểm của người bất chính* (tri kiến của bất người chân chính / asappurisadiṭṭhi) và thực hiện *sự bố thí của người bất chính* (bất người chân chính thí / asappurisadānaṁ).
 
-7\. Kathañca, bhikkhave, asappuriso asappurisacintī hoti? Idha, bhikkhave, asappuriso attabyābādhāyapi ceteti, parabyābādhāyapi ceteti, ubhayabyābādhāyapi ceteti. Evaṁ kho, bhikkhave, asappuriso asappurisacintī hoti. {#7}
+5\. Này các tỳ kheo, *người bất chính* *mang những phẩm chất xấu* như thế nào? Ở đây, này các tỳ kheo, *người bất chính* là kẻ *không có lòng tin* (bất tín / assaddho), *không biết xấu hổ* (vô tàm / ahiriko), *không biết ghê sợ điều ác* (vô quý / anottappī), *ít học hỏi* (thiểu văn / appassuto), *lười biếng* (biếng nhác / kusīto), *mất sự chú tâm* (thất niệm / muṭṭhassati) và *kém trí tuệ* (ác tuệ / duppañño). Này các tỳ kheo, *người bất chính* *mang những phẩm chất xấu* là như vậy. {#5}
 
-8\. Kathañca, bhikkhave, asappuriso asappurisamantī hoti? Idha, bhikkhave, asappuriso attabyābādhāyapi manteti, parabyābādhāyapi manteti, ubhayabyābādhāyapi manteti. Evaṁ kho, bhikkhave, asappuriso asappurisamantī hoti. {#8}
+6\. Này các tỳ kheo, *người bất chính* *kết giao với người bất chính* như thế nào? Ở đây, này các tỳ kheo, đối với *người bất chính*, những sa-môn hay bà-la-môn nào *không có lòng tin*, *không biết xấu hổ*, *không biết ghê sợ điều ác*, *ít học hỏi*, *lười biếng*, *mất sự chú tâm* và *kém trí tuệ* - chính những kẻ ấy mới là bạn bè, là bằng hữu của người đó. Này các tỳ kheo, *người bất chính* *kết giao với người bất chính* là như vậy. {#6}
 
-9\. Kathañca, bhikkhave, asappuriso asappurisavāco hoti? Idha, bhikkhave, asappuriso musāvādī hoti, pisuṇavāco hoti, pharusavāco hoti, samphappalāpī hoti. Evaṁ kho, bhikkhave, asappuriso asappurisavāco hoti. {#9}
+7\. Này các tỳ kheo, *người bất chính* *suy nghĩ như người bất chính* như thế nào? Ở đây, này các tỳ kheo, *người bất chính* suy tính việc *làm hại mình* (tự hại / attabyābādhāya), suy tính việc *làm hại người* (hại người / parabyābādhāya), suy tính việc *làm hại cả hai* (hại cả hai / ubhayabyābādhāya). Này các tỳ kheo, *người bất chính* *suy nghĩ như người bất chính* là như vậy. {#7}
 
-10\. Kathañca, bhikkhave, asappuriso asappurisakammanto hoti? Idha, bhikkhave, asappuriso pāṇātipātī hoti, adinnādāyī hoti, kāmesumicchācārī hoti. Evaṁ kho, bhikkhave, asappuriso asappurisakammanto hoti. {#10}
+8\. Này các tỳ kheo, *người bất chính* *bàn tính như người bất chính* như thế nào? Ở đây, này các tỳ kheo, *người bất chính* bàn tính việc *làm hại mình*, bàn tính việc *làm hại người*, bàn tính việc *làm hại cả hai*. Này các tỳ kheo, *người bất chính* *bàn tính như người bất chính* là như vậy. {#8}
 
-11\. Kathañca, bhikkhave, asappuriso asappurisadiṭṭhi hoti? Idha, bhikkhave, asappuriso evaṁdiṭṭhi hoti: ‘natthi dinnaṁ, natthi yiṭṭhaṁ, natthi hutaṁ, natthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, natthi ayaṁ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā, ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti. Evaṁ kho, bhikkhave, asappuriso asappurisadiṭṭhi hoti. {#11}
+9\. Này các tỳ kheo, *người bất chính* *nói năng như người bất chính* như thế nào? Ở đây, này các tỳ kheo, *người bất chính* là kẻ *nói dối* (vọng ngữ / musāvādī), *nói lời chia rẽ* (nói hai lưỡi / pisuṇavāco), *nói lời thô ác* (ác khẩu / pharusavāco) và *nói lời vô ích* (ỷ ngữ / samphappalāpī). Này các tỳ kheo, *người bất chính* *nói năng như người bất chính* là như vậy. {#9}
 
-12\. Kathañca, bhikkhave, asappuriso asappurisadānaṁ deti? Idha, bhikkhave, asappuriso asakkaccaṁ dānaṁ deti, asahatthā dānaṁ deti, acittīkatvā dānaṁ deti, apaviṭṭhaṁ dānaṁ deti anāgamanadiṭṭhiko dānaṁ deti. Evaṁ kho, bhikkhave, asappuriso asappurisadānaṁ deti. {#12}
+10\. Này các tỳ kheo, *người bất chính* *hành động như người bất chính* như thế nào? Ở đây, này các tỳ kheo, *người bất chính* là kẻ *giết hại sinh mạng* (sát sanh / pāṇātipātī), *lấy của không cho* (trộm cắp / adinnādāyī) và *sống sai trái trong chuyện tính dục* (tà hạnh trong các dục / kāmesumicchācārī). Này các tỳ kheo, *người bất chính* *hành động như người bất chính* là như vậy. {#10}
 
-13\. So, bhikkhave, asappuriso evaṁ assaddhammasamannāgato, evaṁ asappurisabhatti, evaṁ asappurisacintī, evaṁ asappurisamantī, evaṁ asappurisavāco, evaṁ asappurisakammanto, evaṁ asappurisadiṭṭhi; evaṁ asappurisadānaṁ datvā kāyassa bhedā paraṁ maraṇā yā asappurisānaṁ gati tattha upapajjati. Kā ca, bhikkhave, asappurisānaṁ gati? Nirayo vā tiracchānayoni vā. {#13}
+11\. Này các tỳ kheo, *người bất chính* *có quan điểm của người bất chính* như thế nào? Ở đây, này các tỳ kheo, *người bất chính* có quan điểm như sau: "Không có [kết quả của] việc bố thí, không có [kết quả của] lễ cúng lớn, không có [kết quả của] lễ cúng nhỏ, không có *kết quả và báo ứng* (quả dị thục / phalaṁ vipāko) của các *hành động tốt và xấu* (nghiệp thiện ác / sukatadukkaṭānaṁ kammānaṁ), không có đời này, không có đời sau, không có [ơn nghĩa] mẹ, không có [ơn nghĩa] cha, không có các *chúng sinh tự hóa hiện* (chúng sanh hóa sanh / sattā opapātikā), ở đời không có những sa-môn hay bà-la-môn *đi đúng hướng* (chánh hướng / sammaggatā), *thực hành đúng đắn* (chánh hạnh / sammāpaṭipannā), những người tự mình *hiểu toàn bộ* (thắng tri / abhiññā) và *trực tiếp chứng nghiệm* (chứng ngộ / sacchikatvā) đời này và đời sau rồi tuyên bố". Này các tỳ kheo, *người bất chính* *có quan điểm của người bất chính* là như vậy. {#11}
 
-14\. Jāneyya nu kho, bhikkhave, sappuriso sappurisaṁ: ‘sappuriso ayaṁ bhavan’”ti? {#14}
+12\. Này các tỳ kheo, *người bất chính* thực hiện *sự bố thí của người bất chính* như thế nào? Ở đây, này các tỳ kheo, *người bất chính* bố thí một cách *không chu đáo* (không cẩn trọng / asakkaccaṁ), bố thí *không tự tay mình* (không tự tay / asahatthā), bố thí mà *không để tâm trân trọng* (không tôn kính / acittīkatvā), bố thí *đồ bỏ đi* (vật vứt bỏ / apaviṭṭhaṁ), bố thí *với quan điểm không có kết quả báo ứng* (tri kiến không có quả báo / anāgamanadiṭṭhiko). Này các tỳ kheo, *người bất chính* thực hiện *sự bố thí của người bất chính* là như vậy. {#12}
 
-“Evaṁ, bhante”.
+13\. Này các tỳ kheo, *người bất chính* ấy do *mang những phẩm chất xấu* như vậy, *kết giao với người bất chính* như vậy, *suy nghĩ như người bất chính* như vậy, *bàn tính như người bất chính* như vậy, *nói năng như người bất chính* như vậy, *hành động như người bất chính* như vậy, *có quan điểm của người bất chính* như vậy, và sau khi thực hiện *sự bố thí của người bất chính* như vậy, khi thân xác tan rã, sau khi chết, sẽ sinh vào *nơi đi đến* (sanh thú / gati) của những *người bất chính*. Và này các tỳ kheo, đâu là *nơi đi đến* của những *người bất chính*? Chính là địa ngục hoặc *loài súc sinh* (bàng sanh / tiracchānayoni). {#13}
 
-“Sādhu, bhikkhave; ṭhānametaṁ, bhikkhave, vijjati yaṁ sappuriso sappurisaṁ jāneyya: ‘sappuriso ayaṁ bhavan’ti. Jāneyya pana, bhikkhave, sappuriso asappurisaṁ: ‘asappuriso ayaṁ bhavan’”ti?
+<!--pg-->
+14\. – Này các tỳ kheo, liệu một người chân chính có thể nhận biết được một người chân chính rằng: "Vị này là bậc người chân chính" hay không? {#14}
 
-“Evaṁ, bhante”.
+– Thưa Tôn giả, có thể.
 
-15\. “Sādhu, bhikkhave; etampi kho, bhikkhave, ṭhānaṁ vijjati yaṁ sappuriso asappurisaṁ jāneyya: ‘asappuriso ayaṁ bhavan’ti. Sappuriso, bhikkhave, saddhammasamannāgato hoti, sappurisabhatti hoti, sappurisacintī hoti, sappurisamantī hoti, sappurisavāco hoti, sappurisakammanto hoti, sappurisadiṭṭhi hoti; sappurisadānaṁ deti. {#15}
+– Lành thay, này các tỳ kheo! Này các tỳ kheo, hoàn toàn có trường hợp một người chân chính nhận biết được một người chân chính rằng: "Vị này là bậc người chân chính". Thế nhưng, này các tỳ kheo, liệu một người chân chính có thể nhận biết được một *người bất chính* rằng: "Người này là *người bất chính*" hay không?
 
-16\. Kathañca, bhikkhave, sappuriso saddhammasamannāgato hoti? Idha, bhikkhave, sappuriso saddho hoti, hirimā hoti, ottappī hoti, bahussuto hoti, āraddhavīriyo hoti, upaṭṭhitassati hoti, paññavā hoti. Evaṁ kho, bhikkhave, sappuriso saddhammasamannāgato hoti. {#16}
+– Thưa Tôn giả, có thể.
 
-17\. Kathañca, bhikkhave, sappuriso sappurisabhatti hoti? Idha, bhikkhave, sappurisassa ye te samaṇabrāhmaṇā saddhā hirimanto ottappino bahussutā āraddhavīriyā upaṭṭhitassatino paññavanto tyāssa mittā honti, te sahāyā. Evaṁ kho, bhikkhave, sappuriso sappurisabhatti hoti. {#17}
+15\. – Lành thay, này các tỳ kheo! Này các tỳ kheo, điều này cũng hoàn toàn có thể xảy ra, rằng một người chân chính nhận biết được một *người bất chính* rằng: "Người này là *người bất chính*". Này các tỳ kheo, bậc người chân chính là người *mang những phẩm chất tốt đẹp* (thành tựu chánh pháp / saddhammasamannāgato), *kết giao với người chân chính* (thân cận người chân chính / sappurisabhatti), *suy nghĩ như người chân chính* (tư duy như người chân chính / sappurisacintī), *bàn tính như người chân chính* (cố vấn như người chân chính / sappurisamantī), *nói năng như người chân chính* (nói lời người chân chính / sappurisavāco), *hành động như người chân chính* (hành động như người chân chính / sappurisakammanto), *có quan điểm của người chân chính* (tri kiến của người chân chính / sappurisadiṭṭhi) và thực hiện *sự bố thí của người chân chính* (người chân chính thí / sappurisadānaṁ). {#15}
 
-18\. Kathañca, bhikkhave, sappuriso sappurisacintī hoti? Idha, bhikkhave, sappuriso nevattabyābādhāya ceteti, na parabyābādhāya ceteti, na ubhayabyābādhāya ceteti. Evaṁ kho, bhikkhave, sappuriso sappurisacintī hoti. {#18}
+16\. Này các tỳ kheo, bậc người chân chính *mang những phẩm chất tốt đẹp* như thế nào? Ở đây, này các tỳ kheo, bậc người chân chính là người *có lòng tin* (tín / saddho), *biết xấu hổ* (tàm / hirimā), *biết ghê sợ điều ác* (quý / ottappī), *học rộng nghe nhiều* (đa văn / bahussuto), *siêng năng nỗ lực* (tinh cần / āraddhavīriyo), *duy trì sự chú tâm* (an trú niệm / upaṭṭhitassati) và *có trí tuệ* (trí tuệ / paññavā). Này các tỳ kheo, bậc người chân chính *mang những phẩm chất tốt đẹp* là như vậy. {#16}
 
-19\. Kathañca, bhikkhave, sappuriso sappurisamantī hoti? Idha, bhikkhave, sappuriso nevattabyābādhāya manteti, na parabyābādhāya manteti, na ubhayabyābādhāya manteti. Evaṁ kho, bhikkhave, sappuriso sappurisamantī hoti. {#19}
+17\. Này các tỳ kheo, bậc người chân chính *kết giao với người chân chính* như thế nào? Ở đây, này các tỳ kheo, đối với bậc người chân chính, những sa-môn hay bà-la-môn nào *có lòng tin*, *biết xấu hổ*, *biết ghê sợ điều ác*, *học rộng nghe nhiều*, *siêng năng nỗ lực*, *duy trì sự chú tâm* và *có trí tuệ* - chính những vị ấy mới là bạn bè, là bằng hữu của vị đó. Này các tỳ kheo, bậc người chân chính *kết giao với người chân chính* là như vậy. {#17}
 
-20\. Kathañca, bhikkhave, sappuriso sappurisavāco hoti? Idha, bhikkhave, sappuriso musāvādā paṭivirato hoti, pisuṇāya vācāya paṭivirato hoti, pharusāya vācāya paṭivirato hoti, samphappalāpā paṭivirato hoti. Evaṁ kho, bhikkhave, sappuriso sappurisavāco hoti. {#20}
+18\. Này các tỳ kheo, bậc người chân chính *suy nghĩ như người chân chính* như thế nào? Ở đây, này các tỳ kheo, bậc người chân chính không suy tính việc *làm hại mình*, không suy tính việc *làm hại người*, không suy tính việc *làm hại cả hai*. Này các tỳ kheo, bậc người chân chính *suy nghĩ như người chân chính* là như vậy. {#18}
 
-21\. Kathañca, bhikkhave, sappuriso sappurisakammanto hoti? Idha, bhikkhave, sappuriso pāṇātipātā paṭivirato hoti, adinnādānā paṭivirato hoti, kāmesumicchācārā paṭivirato hoti. Evaṁ kho, bhikkhave, sappuriso sappurisakammanto hoti. {#21}
+19\. Này các tỳ kheo, bậc người chân chính *bàn tính như người chân chính* như thế nào? Ở đây, này các tỳ kheo, bậc người chân chính không bàn tính việc *làm hại mình*, không bàn tính việc *làm hại người*, không bàn tính việc *làm hại cả hai*. Này các tỳ kheo, bậc người chân chính *bàn tính như người chân chính* là như vậy. {#19}
 
-22\. Kathañca, bhikkhave, sappuriso sappurisadiṭṭhi hoti? Idha, bhikkhave, sappuriso evaṁdiṭṭhi hoti: ‘atthi dinnaṁ, atthi yiṭṭhaṁ, atthi hutaṁ, atthi sukatadukkaṭānaṁ kammānaṁ phalaṁ vipāko, atthi ayaṁ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṁ parañca lokaṁ sayaṁ abhiññā sacchikatvā pavedentī’ti. Evaṁ kho, bhikkhave, sappuriso sappurisadiṭṭhi hoti. {#22}
+20\. Này các tỳ kheo, bậc người chân chính *nói năng như người chân chính* như thế nào? Ở đây, này các tỳ kheo, bậc người chân chính là người từ bỏ việc *nói dối*, từ bỏ việc *nói lời chia rẽ*, từ bỏ việc *nói lời thô ác* và từ bỏ việc *nói lời vô ích*. Này các tỳ kheo, bậc người chân chính *nói năng như người chân chính* là như vậy. {#20}
 
-23\. Kathañca, bhikkhave, sappuriso sappurisadānaṁ deti? Idha, bhikkhave, sappuriso sakkaccaṁ dānaṁ deti, sahatthā dānaṁ deti, cittīkatvā dānaṁ deti, anapaviṭṭhaṁ dānaṁ deti, āgamanadiṭṭhiko dānaṁ deti. Evaṁ kho, bhikkhave, sappuriso sappurisadānaṁ deti. {#23}
+21\. Này các tỳ kheo, bậc người chân chính *hành động như người chân chính* như thế nào? Ở đây, này các tỳ kheo, bậc người chân chính là người từ bỏ việc *giết hại sinh mạng*, từ bỏ việc *lấy của không cho* và từ bỏ việc *sống sai trái trong chuyện tính dục*. Này các tỳ kheo, bậc người chân chính *hành động như người chân chính* là như vậy. {#21}
 
-24\. So, bhikkhave, sappuriso evaṁ saddhammasamannāgato, evaṁ sappurisabhatti, evaṁ sappurisacintī, evaṁ sappurisamantī, evaṁ sappurisavāco, evaṁ sappurisakammanto, evaṁ sappurisadiṭṭhi; evaṁ sappurisadānaṁ datvā kāyassa bhedā paraṁ maraṇā yā sappurisānaṁ gati tattha upapajjati. Kā ca, bhikkhave, sappurisānaṁ gati? Devamahattatā vā manussamahattatā vā”ti. {#24}
+22\. Này các tỳ kheo, bậc người chân chính *có quan điểm của người chân chính* như thế nào? Ở đây, này các tỳ kheo, bậc người chân chính có quan điểm như sau: "Có [kết quả của] việc bố thí, có [kết quả của] lễ cúng lớn, có [kết quả của] lễ cúng nhỏ, có *kết quả và báo ứng* của các *hành động tốt và xấu*, có đời này, có đời sau, có [ơn nghĩa] mẹ, có [ơn nghĩa] cha, có các *chúng sinh tự hóa hiện*, ở đời có những sa-môn hay bà-la-môn *đi đúng hướng*, *thực hành đúng đắn*, những vị tự mình *hiểu toàn bộ* và *trực tiếp chứng nghiệm* đời này và đời sau rồi tuyên bố". Này các tỳ kheo, bậc người chân chính *có quan điểm của người chân chính* là như vậy. {#22}
 
-25\. Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinandunti. {#25}
+23\. Này các tỳ kheo, bậc người chân chính thực hiện *sự bố thí của người chân chính* như thế nào? Ở đây, này các tỳ kheo, bậc người chân chính bố thí một cách *chu đáo* (cẩn trọng / sakkaccaṁ), bố thí *tự tay mình* (tự tay / sahatthā), bố thí với sự *để tâm trân trọng* (tôn kính / cittīkatvā), bố thí *không phải đồ bỏ đi* (vật không vứt bỏ / anapaviṭṭhaṁ), bố thí *với quan điểm có kết quả báo ứng* (tri kiến có quả báo / āgamanadiṭṭhiko). Này các tỳ kheo, bậc người chân chính thực hiện *sự bố thí của người chân chính* là như vậy. {#23}
 
-Cūḷapuṇṇamasuttaṁ niṭṭhitaṁ dasamaṁ.
+24\. Này các tỳ kheo, bậc người chân chính ấy do *mang những phẩm chất tốt đẹp* như vậy, *kết giao với người chân chính* như vậy, *suy nghĩ như người chân chính* như vậy, *bàn tính như người chân chính* như vậy, *nói năng như người chân chính* như vậy, *hành động như người chân chính* như vậy, *có quan điểm của người chân chính* như vậy, và sau khi thực hiện *sự bố thí của người chân chính* như vậy, khi thân xác tan rã, sau khi chết, sẽ sinh vào *nơi đi đến* của các bậc người chân chính. Và này các tỳ kheo, đâu là *nơi đi đến* của các bậc người chân chính? Chính là *cảnh giới cao quý của chư thiên* (đại thần thiên / devamahattatā) hoặc *cảnh giới cao quý của loài người* (đại nhân / manussamahattatā). {#24}
 
-Devadahavaggo niṭṭhito paṭhamo.
+25\. Thế Tôn đã nói như vậy. Các tỳ kheo ấy hài lòng, vui mừng đón nhận lời Thế Tôn dạy. {#25}
 
-26\. Tassuddānaṁ {#26}
+Kinh Đêm Trăng Tròn Nhỏ thứ mười kết thúc.
 
-> Devadahaṁ pañcattayaṁ,\
-> Kinti sāma sunakkhattaṁ;\
-> Sappāya gaṇa gopaka—\
-> Mahāpuṇṇa cūḷapuṇṇañcāti.
+Phẩm Devadaha thứ nhất kết thúc.

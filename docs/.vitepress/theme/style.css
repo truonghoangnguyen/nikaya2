@@ -217,3 +217,40 @@ h1::after {
   display: block;
   margin-bottom: 1em;
 }
+
+/* image viewer */
+/* Con trỏ phóng to trên ảnh trong bài viết */
+.vp-doc img:not(a img) {
+  cursor: zoom-in;
+}
+
+/* Lớp phủ giữa màn hình */
+.img-viewer {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.85);
+  cursor: zoom-out;
+  animation: img-viewer-fade 0.15s ease-out;
+}
+
+.img-viewer img {
+  max-width: 95vw;
+  max-height: 95vh;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* Khóa scroll trang khi đang xem ảnh */
+html.img-viewer-open {
+  overflow: hidden;
+}
+
+@keyframes img-viewer-fade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}

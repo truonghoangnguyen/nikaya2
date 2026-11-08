@@ -1,7 +1,7 @@
 import Theme from 'vitepress/theme'
 import DefaultTheme from 'vitepress/theme-without-fonts'
 import { h, onMounted, watch, nextTick } from 'vue'
-import { useRoute } from 'vitepress'
+import { useRoute, inBrowser } from 'vitepress'
 
 // import TranslationCompare from '../components/TranslationCompare.vue'
 // import ChapterCompare from '../components/ChapterCompare.vue'
@@ -16,6 +16,7 @@ import DocTags from './components/DocTags.vue'
 import BookLayout from './components/BookLayout.vue'
 import SuttaFooter from './components/SuttaFooter.vue'
 import NavSearchButton from './NavSearchButton.vue'
+import { setupImageViewer } from './imageViewer'
 import './style.css'
 
 export default {
@@ -86,6 +87,7 @@ export default {
     app.component('IndexButton', IndexButton)
     app.component('DocTags', DocTags)
     app.component('BookLayout', BookLayout)
+    if (inBrowser) setupImageViewer() 
   },
   Layout() {
     return h(Theme.Layout, null, {
