@@ -111,7 +111,8 @@ quá khứ vị lai hay hiện tại, nội hay ngoại, thô hay tế, liệt h
 tôi". Này Tỷ-kheo, do biết như vậy, thấy như vậy, nên không có mạn tùy miên rằng: "Ta là người làm,
 sở thuộc của ta là người làm", đối với tự thân có ý thức, và đối với tất cả tướng ở ngoài.
 
-Rồi một Tỷ-kheo khác khởi lên sự suy tư như sau: "Nếu được nói rằng, chư Tôn giả, sắc là vô ngã, thọ
+<!--pg-->
+14\. Rồi một Tỷ-kheo khác khởi lên sự suy tư như sau: "Nếu được nói rằng, chư Tôn giả, sắc là vô ngã, thọ {#14}
 là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã; như vậy những hành động do vô ngã làm đã
 được ngã nào cảm thọ kết quả?"
 

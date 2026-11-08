@@ -73,6 +73,7 @@ thí như người bất chánh như vậy, sau khi thân hoại mạng chung, s
 bất chánh. Và này các Tỷ-kheo, thế nào là cảnh giới của những người bất chánh? Ðịa ngục hay là bàng
 sanh.
 
+<!--pg-->
 Này các Tỷ-kheo, một người chơn chánh có thể biết được một người chơn chánh: "Người chơn chánh là
 vị này" hay không?
 
