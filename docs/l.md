@@ -1,11 +1,12 @@
 ---
 title: Quick Link
 outline: false
+layout: home
 description: Điều hướng nhanh trực tiếp đến bài kinh hoặc đoạn/mục bên trong bài kinh theo ký hiệu viết tắt (ví du mn 7.3, sn 2.2, an 7.55; hỗ trợ cú pháp URL /l?q=...).
 ---
 
 <script setup>
-import { ref, computed, onMounted, onUnmounted } from 'vue'
+import { ref, computed, watch, onMounted, onUnmounted } from 'vue'
 import { withBase } from 'vitepress'
 
 // Đường dẫn tới file dữ liệu — chỉnh lại theo vị trí thật của file này
@@ -40,6 +41,7 @@ function findNikaya(data, code) {
 // "dn 1.2"   -> { code: "dn", rest: "1.2" }
 // "dn 1 2.1" -> { code: "dn", rest: "1 2.1" }
 // "sn2.2"    -> { code: "sn", rest: "2.2" }
+// "an"       -> { code: "an", rest: "" }
 // "?"        -> { isHelp: true }
 function parseQuery(raw) {
   const str = (raw || '').trim().toLowerCase()
@@ -53,7 +55,7 @@ function parseQuery(raw) {
   const code = codeMatch[0].toLowerCase()
 
   const rest = str.slice(code.length).replace(/^[\s.:\-_#]+/, '').trim()
-  if (!rest || !/\d/.test(rest)) return null
+  if (rest && !/\d/.test(rest)) return null
 
   return { code, rest }
 }
@@ -206,10 +208,67 @@ function resolveFlatEdition(nikaya, edition, queryStr) {
   return null
 }
 
+// Lấy tối đa 10 bài kinh đầu tiên của một edition
+function getFirst10Items(nikaya, edition) {
+  if (!edition || !edition.items) return []
+
+  if (isAnEdition(edition)) {
+    const sortedChapters = Object.entries(edition.items)
+      .sort(([a], [b]) => {
+        const na = Number(a)
+        const nb = Number(b)
+        if (!isNaN(na) && !isNaN(nb)) return na - nb
+        return a.localeCompare(b)
+      })
+      .map(([, val]) => val)
+
+    const results = []
+    for (const chapter of sortedChapters) {
+      if (!Array.isArray(chapter?.files)) continue
+      for (const file of chapter.files) {
+        if (file && file.title && file.slug) {
+          results.push({
+            title: chapter.title ? `${chapter.title} - ${file.title}` : file.title,
+            url: buildUrl(nikaya.folder, edition.path, file.slug, undefined)
+          })
+          if (results.length >= 10) return results
+        }
+      }
+    }
+    return results
+  }
+
+  const sortedItems = Object.entries(edition.items)
+    .sort(([a], [b]) => {
+      const na = Number(a)
+      const nb = Number(b)
+      if (!isNaN(na) && !isNaN(nb)) return na - nb
+      return a.localeCompare(b)
+    })
+    .map(([, val]) => val)
+
+  const results = []
+  for (const item of sortedItems) {
+    if (item && item.title && item.slug) {
+      results.push({
+        title: item.title,
+        url: buildUrl(nikaya.folder, edition.path, item.slug, undefined)
+      })
+      if (results.length >= 10) return results
+    }
+  }
+  return results
+}
+
 // Tìm bài kinh theo cấu trúc mới:
 // item trong items có: title, slug, children (mảng string các mục/đoạn)
 function resolveEdition(nikaya, edition, queryStr) {
-  if (!edition || !edition.items || !queryStr) return null
+  if (!edition || !edition.items) return null
+
+  // Khi chỉ nhập mã kinh (vd: "an", "thag", "mn"): trả về 10 kết quả đầu tiên
+  if (!queryStr) {
+    return getFirst10Items(nikaya, edition)
+  }
 
   // Phân nhánh nếu là định dạng flat (số kinh liên tục xuyên file)
   if (edition.flat) {
@@ -328,6 +387,7 @@ function resolveAll(raw, data) {
 const input = ref('')
 const submitted = ref('')
 const searchInputRef = ref(null)
+let debounceTimer = null
 
 const allAbbreviations = computed(() => getAbbreviations(quicklinkData))
 
@@ -345,19 +405,39 @@ const result = computed(() => {
   return submitted.value ? resolveAll(submitted.value, quicklinkData) : null
 })
 
+watch(input, (newVal) => {
+  if (debounceTimer) clearTimeout(debounceTimer)
+
+  if (!newVal.trim()) {
+    submitted.value = ''
+    return
+  }
+
+  if (newVal === submitted.value) {
+    return
+  }
+
+  debounceTimer = setTimeout(() => {
+    submitted.value = newVal
+  }, 1000)
+})
+
 function onSearch() {
+  if (debounceTimer) clearTimeout(debounceTimer)
   submitted.value = input.value
 }
 
 function showHelp() {
+  if (debounceTimer) clearTimeout(debounceTimer)
   input.value = '?'
   submitted.value = '?'
   searchInputRef.value?.focus()
 }
 
 function selectAbbreviation(code) {
+  if (debounceTimer) clearTimeout(debounceTimer)
   input.value = `${code.toLowerCase()} `
-  submitted.value = ''
+  submitted.value = `${code.toLowerCase()} `
   searchInputRef.value?.focus()
 }
 
@@ -370,6 +450,7 @@ function onKeydown(e) {
 
 // Hỗ trợ /link/?q=mn%207.3 hoặc /link/?q=?
 onMounted(() => {
+  setTimeout(() => searchInputRef.value?.focus(), 50)
   window.addEventListener('keydown', onKeydown)
   const params = new URLSearchParams(window.location.search)
   const q = params.get('q')
@@ -380,6 +461,7 @@ onMounted(() => {
 })
 
 onUnmounted(() => {
+  if (debounceTimer) clearTimeout(debounceTimer)
   window.removeEventListener('keydown', onKeydown)
 })
 </script>

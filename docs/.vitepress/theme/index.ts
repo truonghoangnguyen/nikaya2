@@ -15,7 +15,8 @@ import IndexButton from '../components/IndexButton.vue'
 import DocTags from './components/DocTags.vue'
 import BookLayout from './components/BookLayout.vue'
 import SuttaFooter from './components/SuttaFooter.vue'
-import NavSearchButton from './NavSearchButton.vue'
+//import NavSearchButton from './NavSearchButton.vue'
+import NavQuicklinkButton from './NavQuicklinkButton.vue'
 import { setupImageViewer } from './imageViewer'
 import './style.css'
 
@@ -87,13 +88,13 @@ export default {
     app.component('IndexButton', IndexButton)
     app.component('DocTags', DocTags)
     app.component('BookLayout', BookLayout)
-    if (inBrowser) setupImageViewer() 
+    if (inBrowser) setupImageViewer()
   },
   Layout() {
     return h(Theme.Layout, null, {
       'doc-before': () => h(DocTags),
       'layout-bottom': () => [h(NotePopup)],
-      'nav-bar-content-before': () => h(NavSearchButton),
+      'nav-bar-content-before': () => h(NavQuicklinkButton),
       'nav-bar-content-after': () => h('div', { class: 'nav-controls' }, [
         h(CompareButton),
         h(IndexButton),

@@ -2,7 +2,7 @@
 description: Trong một đêm trăng tròn ngày lễ Bố-tát tại Đông Viên (Sāvatthī), Đức Phật giảng giải cho các tỳ kheo về sự khác biệt căn bản giữa người bất chính (asappurisa) và bậc người chân chính (sappurisa) qua tám phương diện thực tế của đời sống.
 ---
 
-# MN 110. KINH NGĂN ĐÊM TRĂNG TRÒN
+# MN 110. KINH NGẮN ĐÊM TRĂNG TRÒN
 *(Cūḷapuṇṇamasutta)*
 
 1\. Tôi đã nghe như vầy - một thời, Thế Tôn ở tại Sāvatthī, trong khu vườn phía Đông (Đông Viên), nơi tòa lầu của mẹ ông Migāra. {#1}

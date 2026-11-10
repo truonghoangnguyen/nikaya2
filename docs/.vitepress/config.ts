@@ -907,7 +907,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '<a href="/hoi-dap">Hỏi-Đáp</a> | <a href="/license">Giấy phép (CC0)</a> | <a href="/l">Tra cứu nhanh</a>',
+      message: '<a href="/hoi-dap">Hỏi-Đáp</a> | <a href="/license">Giấy phép (CC0)</a> | <a href="/search">Tìm kiếm</a>',
     },
   }
 })
