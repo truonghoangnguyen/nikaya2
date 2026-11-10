@@ -46,6 +46,7 @@ khi chúng đoạn diệt. Sariputta đối với những pháp ấy, không luy
 trói buộc, giải thoát không hệ lụy, an trú với tâm không có hạn chế. Sariputta biết: "Còn có sự giải thoát
 hơn thế nữa. Ðối với Sariputta, còn có nhiều việc phải làm hơn thế nữa".
 
+<!--pg-->
 Lại nữa này các Tỷ-kheo, Sariputta xả lạc, xả khổ, diệt hỷ ưu đã cảm thọ trước, chứng và trú Thiền thứ
 tư, không khổ, không lạc, xả niệm, thanh tịnh.
 

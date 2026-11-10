@@ -692,7 +692,8 @@ sanh bị đoạn tận.
 sanh, nhờ tu tập, đi đến viên mãn... xả giác chi chưa sanh được sanh khởi; và xả giác chi đã sanh, nhờ tu
 tập, đi đến viên mãn.
 
-**25.V.Không Tổn Giảm** (Aparihàni) (1) (S.v,85)
+<!--pg-->
+### 25.V.Không Tổn Giảm (Aparihàni) (1) (S.v,85)
 
 1\. ...
 
@@ -843,9 +844,10 @@ sẽ rõ biết rằng : "Sanh đã tận... không còn trở lui trạng thái
 được tu tập, được làm cho sung mãn sẽ dắt dẫn Ông, với sự an trú như vậy, như vậy, đạt đến sự chứng
 đạt như vậy. Nhờ vậy, Ông sẽ rõ biết rằng : "Sanh đã tận... không còn trở lui trạng thái này nữa".
 
+<!--pg-->
 ## IV. Phẩm Triền Cái
 
-**31.I.Thiện (1)** (S.v,91)
+### 31.I.Thiện (1) (S.v,91)
 
 1\. ...
 
@@ -930,7 +932,8 @@ minh và giải thoát.
 4\. Này các Tỷ-kheo, có bảy giác chi này không chướng ngại, không triền cái, không uế nhiễm tâm, được
 tu tập, được làm cho sung mãn, đưa đến chứng ngộ quả minh và giải thoát.
 
-**35.V.Như Lý** (1) (S.v,93)
+<!--pg-->
+### 35.V.Như Lý (1) (S.v,93)
 
 1\. ...
 
@@ -947,7 +950,8 @@ trưởng, quảng đại.
 6\. Và này các Tỷ-kheo, do phi như lý tác ý, nghi hoặc chưa sanh được sanh khởi; và nghi hoặc đã sanh
 đưa đến tăng trưởng, quảng đại.
 
-36.VI. Như Lý (2) (S.v,94)
+<!--pg-->
+### 36.VI. Như Lý (2) (S.v,94)
 
 1\. ...
 
@@ -955,7 +959,8 @@ trưởng, quảng đại.
 sanh, nhờ tu tập, đi đến viên mãn... xả giác chi chưa sanh được sanh khởi; và xả giác chi đã sanh, nhờ tu
 tập, đi đến viên mãn.
 
-37.VII. Tăng Trưởng Hay Không Giảm Thiểu (Tạp 26,67, Ðại 2, 189b) (S.v,94)
+<!--pg-->
+### 37.VII. Tăng Trưởng Hay Không Giảm Thiểu (Tạp 26,67, Ðại 2, 189b) (S.v,94)
 
 1\. ...
 
@@ -967,7 +972,8 @@ không đưa đến giảm thiểu. Thế nào là bảy?
 4\. Bảy giác chi này, này các Tỷ-kheo, được tu tập, được làm cho sung mãn, đưa đến tăng trưởng, không
 đưa đến giảm thiểu.
 
-38.VIII. Chướng Ngại, Triền Cái (Tạp 26, 69, Ðại 2, 189c) (S.v,94)
+<!--pg-->
+### 38.VIII. Chướng Ngại, Triền Cái (Tạp 26, 69, Ðại 2, 189c) (S.v,94)
 
 1\. ...
 
@@ -1213,11 +1219,11 @@ cho sung mãn bảy giác chi?
 5\. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo làm bạn với thiện, tu tập bảy giác chi, làm cho sung mãn bảy
 giác chi.
 
+<!--pg-->
 ## VI. Phẩm Tổng Nhiếp Giác Chi
 
 1\. Tất cả nhân duyên ở Sàvatthi...
 
-<!--pg-->
 ### 51.I. Ðồ Ăn (Tạp 27, 4, Ðại 2, 192a) (S.v,102)
 
 1\. ...
@@ -1225,8 +1231,7 @@ giác chi.
 2\. − Ta sẽ giảng cho các Ông, này các Tỷ-kheo, các món ăn và không phải món ăn của năm triền cái và
 bảy giác chi. Hãy lắng nghe.
 
-<!--pg-->
-### I. Món Ăn Của Các Triền Cái
+#### I. Món Ăn Của Các Triền Cái
 
 1-2. ...
 
@@ -1256,8 +1261,7 @@ sanh được tăng trưởng, quảng đại? Có các pháp trú xứ của ng
 làm cho sung mãn, thời chính cái này là món ăn khiến cho nghi hoặc chưa sanh được sanh khởi, hay
 nghi hoặc đã sanh được tăng trưởng, quảng đại.
 
-<!--pg-->
-### II. Món Ăn Cho Các Giác Chi
+#### II. Món Ăn Cho Các Giác Chi
 
 8\. − Cái gì là món ăn, này các Tỷ-kheo, khiến cho niệm giác chi chưa sanh được sanh khởi, hay niệm
 giác chi đã sanh được tu tập, được làm cho viên mãn? Này các Tỷ-kheo, có các pháp trú xứ cho niệm
@@ -1298,8 +1302,7 @@ chi đã sanh được tu tập, được làm cho viên mãn? Này các Tỷ-kh
 Ở đây, nếu như lý tác ý được làm cho sung mãn, thời chính cái này là món ăn khiến cho xả giác chi chưa
 sanh được sanh khởi, hay xả giác chi đã sanh được tu tập, được làm cho viên mãn.
 
-<!--pg-->
-### III. Không Phải Món Ăn Cho Các Triền Cái
+#### III. Không Phải Món Ăn Cho Các Triền Cái
 
 15\. − Và này các Tỷ-kheo, cái gì không phải món ăn khiến cho dục tham chưa sanh được sanh khởi, hay
 dục tham đã sanh được tăng trưởng, quảng đại? Này các Tỷ-kheo, có bất tịnh tướng. Ở đây, nếu như lý
@@ -1328,8 +1331,7 @@ có tội và không có tội, có pháp liệt và thắng, có pháp dự ph�
 được làm cho sung mãn, thời chính cái này không phải là món ăn khiến cho nghi hoặc chưa sanh được
 sanh khởi, hay nghi hoặc đã sanh được tăng trưởng, quảng đại.
 
-<!--pg-->
-### IV. Không Phải Là Món Ăn Cho Các Giác Chi
+#### IV. Không Phải Là Món Ăn Cho Các Giác Chi
 
 20\. − Và này các Tỷ-kheo, cái gì không phải là món ăn khiến cho niệm giác chi chưa sanh được sanh
 khởi, hay niệm giác chi đã sanh được tu tập, được làm cho viên mãn? Này các Tỷ-kheo, có các pháp trú
@@ -1427,8 +1429,7 @@ không thấy một ai ở Thiên giới, thế giới này, ở Ma giới, Ph�
 Bà-la-môn, chư Thiên và loài Người có thể làm thỏa mãn tâm với câu trả lời cho những câu hỏi này,
 ngoại trừ Như Lai, hay đệ tử Như Lai, hay những ai được nghe từ hai vị ấy.
 
-<!--pg-->
-### I. Năm Trở Thành Mười
+#### I. Năm Trở Thành Mười
 
 13\. − Và này các Tỷ-kheo, pháp môn nào, do y cứ pháp môn ấy, năm triền cái trở thành mười?
 
@@ -1450,8 +1451,7 @@ triền cái. Gọi là trạo hối triền cái là có ý nghĩa này. Chính
 
 19\. Này các Tỷ-kheo, chính là pháp môn này, do pháp môn này, năm triền cái trở thành mười.
 
-<!--pg-->
-### II. Bảy Trở Thành Mười Bốn
+#### II. Bảy Trở Thành Mười Bốn
 
 20\. − Và này các Tỷ-kheo, pháp môn nào, do y cứ pháp môn ấy, bảy giác chi trở thành mười bốn?
 
@@ -1482,7 +1482,8 @@ hai.
 
 28\. Này các Tỷ-kheo, chính là pháp môn này, y cứ pháp môn này, bảy giác chi trở thành mười bốn.
 
-**53.III.Lửa** (Tạp 27,3, Ðại 2, 191c) (S.v,112)
+<!--pg-->
+### 53.III.Lửa (Tạp 27,3, Ðại 2, 191c) (S.v,112)
 
 1\. ...
 
@@ -1501,8 +1502,7 @@ không thấy một ai ở Thiên giới, thế giới này, ở Ma giới, Ph�
 Bà-la-môn, chư Thiên và loài Người có thể làm thỏa mãn tâm với câu trả lời cho những câu hỏi này,
 ngoại trừ Như Lai, hay đệ tử Như Lai, hay những ai được nghe từ hai vị ấy.
 
-<!--pg-->
-### I. Phi Thời
+#### I. Phi Thời
 
 13\.− Trong khi tâm thụ động, này các Tỷ-kheo, trong khi ấy, không phải thời là tu tập khinh an giác chi,
 không phải thời là tu tập định giác chi, không phải thời là tu tập xả giác chi. Vì sao? Khi tâm thụ động,
@@ -1518,8 +1518,7 @@ nhỏ ấy không?
 giác chi, không phải thời là tu tập định giác chi, không phải thời là tu tập xả giác chi. Vì sao? Vì rằng,
 khi tâm thụ động, thật khó làm tâm phát khởi nhờ những pháp này.
 
-<!--pg-->
-### II. Phải Thời
+#### II. Phải Thời
 
 15\. − Và này các Tỷ-kheo, trong khi tâm thụ động, trong khi ấy, phải thời là tu tập trạch pháp giác chi,
 phải thời là tu tập tinh tấn giác chi, phải thời là tu tập hỷ giác chi. Vì sao? Vì rằng, này các Tỷ-kheo, khi
@@ -1535,8 +1534,7 @@ không?
 chi, phải thời là tu tập tinh tấn giác chi, phải thời là tu tập hỷ giác chi. Vì sao? Vì rằng, này các Tỷ-kheo,
 khi tâm thụ động, thật dễ làm tâm phát khởi nhờ những pháp này.
 
-<!--pg-->
-### III. Không Phải Thời
+#### III. Không Phải Thời
 
 17\. − Và này các Tỷ-kheo, trong khi tâm dao động, trong khi ấy, không phải thời là tu tập trạch pháp
 giác chi, không phải thời là tu tập tinh tấn giác chi, không phải thời là tu tập hỷ giác chi. Vì sao? Vì
@@ -1552,8 +1550,7 @@ lớn ấy không?
 không phải thời là tu tập tinh tấn giác chi, không phải thời là tu tập hỷ giác chi. Vì sao? Vì rằng, tâm dao
 động, thật không dễ được tịnh chỉ nhờ những pháp ấy.
 
-<!--pg-->
-### IV. Phải Thời
+#### IV. Phải Thời
 
 19\. − Và này các Tỷ-kheo, trong khi tâm dao động, trong khi ấy, phải thời là tu tập khinh an giác chi,
 phải thời là tu tập định giác chi, phải thời là tu tập xả giác chi. Vì sao? Vì rằng, tâm dao động thật dễ
@@ -1897,8 +1894,7 @@ an, nhẹ nhàng và pháp đã được con hoàn toàn chứng đắc.
 
 ### 57. I. Bộ Xương (Tạp 27,38, Ðại 2,198a) (S.v,129)
 
-<!--pg-->
-### I. Quả Lớn, Lợi Ích lớn
+#### I. Quả Lớn, Lợi Ích lớn
 
 1\. Sàvatthi...
 
@@ -1914,8 +1910,7 @@ hệ đến ly tham, liên hệ đến đoạn diệt, hướng đến từ bỏ
 5\. Này các Tỷ-kheo, cốt tưởng được tu tập như vậy, được làm cho sung mãn như vậy, có quả lớn, có lợi
 ích lớn.
 
-<!--pg-->
-### II. Trí Và Bất Hoàn (Annàsativà)
+#### II. Trí Và Bất Hoàn (Annàsativà)
 
 1\. ...
 
@@ -1931,8 +1926,7 @@ hữu với cốt tưởng liên hệ đến viễn ly, liên hệ đến ly tha
 5\. Tu tập cốt tưởng như vậy, được làm cho sung mãn như vậy, này các Tỷ-kheo, một trong hai quả được
 chờ đợi: Ngay trong hiện tại được Chánh trí, hay nếu có dư y, chứng được Bất hoàn.
 
-<!--pg-->
-### III. Nghĩa Lợi Lớn
+#### III. Nghĩa Lợi Lớn
 
 1\. ...
 
@@ -1941,25 +1935,22 @@ chờ đợi: Ngay trong hiện tại được Chánh trí, hay nếu có dư y,
 3\. Cốt tưởng, tu tập như thế nào, làm cho sung mãn như thế nào, này các Tỷ-kheo, đưa đến nghĩa lợi
 lớn?... (Như số 4,5 đoạn trên).
 
-<!--pg-->
-### IV. An Ổn Lớn Khỏi Khổ Ách
+#### IV. An Ổn Lớn Khỏi Khổ Ách
 
 (Như kinh trên, chỉ khác là đưa đến an ổn lớn, khỏi khổ ách)
 
-<!--pg-->
-### V. Hứng Khởi Lớn (Samvegà)** **(S.v,130)
+#### V. Hứng Khởi Lớn (Samvegà)** **(S.v,130)
 
 (Như trên, chỉ khác là đưa đến hứng khởi lớn)
 
-<!--pg-->
-### VI. Lạc Trú** **(S.v,131)
+#### VI. Lạc Trú** **(S.v,131)
 
 (Như kinh trên, chỉ khác là đưa đến lạc trú)
 
 <!--pg-->
 ### 58. II. Côn Trùng Ăn (Pulavaka)
 
-I-VI) Tu tập tưởng bị trùng ăn, này các Tỷ-kheo...
+I-VI Tu tập tưởng bị trùng ăn, này các Tỷ-kheo...
 
 <!--pg-->
 ### 59.III. Xanh Bầm (Vinilaka)
@@ -2051,8 +2042,7 @@ I-VI. Tu tập tưởng ly tham, này các Tỷ-kheo...
 <!--pg-->
 ### 76. X. Ðoạn Diệt
 
-<!--pg-->
-### I. Quả Lớn, Lợi Ích Lớn (S.v,133)
+#### I. Quả Lớn, Lợi Ích Lớn (S.v,133)
 
 1\. ...
 
@@ -2065,8 +2055,7 @@ I-VI. Tu tập tưởng ly tham, này các Tỷ-kheo...
 5\. Tu tập tưởng đoạn diệt như vậy, làm cho sung mãn như vậy, này các Tỷ-kheo, được quả lớn, được lợi
 ích lớn.
 
-<!--pg-->
-### II. Trí Và Bất Hoàn
+#### II. Trí Và Bất Hoàn
 
 2\. − Tu tập tưởng đoạn diệt, làm cho sung mãn, này các Tỷ-kheo, một trong hai quả được chờ đợi: Ngay
 trong hiện tại được Chánh trí, hay nếu có dư y, chứng được Bất hoàn.
@@ -2077,8 +2066,7 @@ trong hiện tại được Chánh trí, hay nếu có dư y, chứng được B
 
 5\. Tu tập tưởng đoạn diệt như vậy, làm cho sung mãn như vậy, này các Tỷ-kheo...
 
-<!--pg-->
-### III. IV, V, VI. Nghĩa Lợi Lớn, An Ổn Lớn Khỏi Khổ Ách, Hứng Khởi Lớn, Lạc Trú (S.v,133)
+#### III. IV, V, VI. Nghĩa Lợi Lớn, An Ổn Lớn Khỏi Khổ Ách, Hứng Khởi Lớn, Lạc Trú (S.v,133)
 
 1\. ...
 
@@ -2110,7 +2098,6 @@ Chi, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.
 đến ly tham, liên hệ đến đoạn diệt, hướng đến từ bỏ. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo tu tập bảy
 giác chi, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn.
 
-<!--pg-->
 ### 78-88. II - XII (S.v,134)
 
 (Cho đến phẩm Tầm Cầu, như trên)
@@ -2143,6 +2130,7 @@ chân...
 
 (Như trên, theo đoạn bảy giác chi)
 
+<!--pg-->
 ## XIII. Phẩm Bộc Lưu
 
 **111-119 I-IX.** (S.v,136)
@@ -2184,7 +2172,6 @@ Niết-bàn, xuôi về Niết-bàn.
 tham, với mục đích nhiếp phục sân, với mục đích nhiếp phục si. Cũng vậy, này các Tỷ-kheo, Tỷ-kheo...
 xuôi về Niết-bàn.
 
-<!--pg-->
 ### 122-132. II-XII. (S.v,138)
 
 (Như trên, cho đến phẩm Tầm Cầu) ...
@@ -2208,6 +2195,7 @@ Gồm các kinh:
 
 Sức Mạnh, Hột Giống, Rắn, Cây, Ghè, Râu Lúa Mì, Hư Không, Mây, Tàu, Thuyền, Khách, Sông.
 
+<!--pg-->
 ## XVII. Phẩm Tầm Cầu (Nhiếp phục tham)
 
 **155-164 I-X** (S.v, 139)
@@ -2216,9 +2204,10 @@ Gồm các kinh:
 
 Tầm Cầu, Mạn, Lậu Hoặc, Hữu, Khổ, Chướng Ngại, Vết Nhơ, Ðau Ðớn, Thọ, Ái, Khát.
 
-**XVIII.Phẩm Bộc Lưu**
 
 <!--pg-->
+## XVIII.Phẩm Bộc Lưu
+
 ### 165-174. I-IX. (S.v,139)
 
 1\. Nhân duyên ở Sàvatthi...
