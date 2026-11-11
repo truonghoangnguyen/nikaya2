@@ -6,7 +6,7 @@ title: Mục lục
 - [02. Pháp Cú (Dhp - Dhammapada)](/kinhtieubo/pali-vi/dhp/)
 - [03. Phật Tự Thuyết (Ud - Udāna)](/kinhtieubo/pali-vi/ud/)
 - [04. Phật Thuyết Như Vậy (Iti - Itivuttaka)](/kinhtieubo/pali-vi/iti/)
-- [05. Kinh Tập (Sn - Suttanipāta)](/kinhtieubo/pali-vi/snp/)
+- [05. Kinh Tập (Snp - Suttanipāta)](/kinhtieubo/pali-vi/snp/)
 - [06. Chuyện Thiên Cung (Vv - Vimānavatthu)](/kinhtieubo/pali-vi/vv/)
 - [07. Chuyện Ngạ Quỷ (Pv - Petavatthu)](/kinhtieubo/pali-vi/pv/)
 - [08. Trưởng Lão Tăng Kệ (Thag - Theragāthā)](/kinhtieubo/pali-vi/thag/)
