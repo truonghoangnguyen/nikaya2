@@ -31,6 +31,15 @@ Hành = hoạt động của ác đối tượng
 
 Thức = nguồn của tín hiệu, theo cách mô tả thì nó gần với thọ. Mắt và hình ảnh và mắt thức, sự gặp gỡ 3 cái này gọi là xúc, từ xúc sinh ra thọ ?
 
+> MN 18 “Do duyên mắt và các sắc, nhãn thức khởi lên. Sự gặp gỡ của ba pháp này là xúc. Duyên xúc có thọ. Những gì cảm thọ thì nhận diện/ghi nhận (yaṁ vedeti taṁ sañjānāti). Những gì nhận diện/ghi nhận thì suy tầm (yaṁ sañjānāti taṁ vitakketi). Những gì suy tầm thì huyễn tưởng/hý luận (yaṁ vitakketi taṁ papañceti). Do duyên những gì bị hý luận, các vọng tưởng ám ảnh hý luận (papañcasaññāsaṅkhā) vây bủa một người...”
+
+Cảm xúc thì có trạng thái, kéo dài, suy nghĩ thì không có trạng thái, nhưng không ổn định, cần dùng cảm xúc để lưu trữ trạng thái để đi vào những nơi mong muốn
+1. suy nghĩ về điểm đến (lúc này sáng suốt)
+2. đặt cảm xúc vào đó để lưu trữ (lúc này sáng suốt)
+3. luyện tập đặt trạng thái vào điểm đến nhiều lần để xem chỉnh sửa như nào
+4. lập lại 1-3 cho đến khi hoàn thành
+
+========
 
 Trong văn tạng Pāli, từ **Saṅkhārā** (ghép từ tiền tố *saṁ-* là "cùng nhau/hợp lại" và căn động từ *kar* là "làm/tạo tác") không mang các nghĩa rời rạc ngẫu nhiên, mà biến đổi hoàn toàn dựa trên **cấu trúc ngữ pháp (chủ động hay bị động)** và **phạm vi tác động (tâm lý hay vật lý)** ngay trong câu kinh.
 
