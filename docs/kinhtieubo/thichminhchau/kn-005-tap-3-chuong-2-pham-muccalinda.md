@@ -10,6 +10,7 @@ title: Phật Tự Thuyết - Phẩm Muccalinda
 
 # Chương 2: Phẩm Muccalinda
 
+<!--pg-->
 ### (I) (Ud 10){#1}
 
 Như vầy tôi nghe:
@@ -33,6 +34,7 @@ Vượt các dục ở đời,\
 Ai nhiếp phục ngã mạn,\
 Ðây an lạc tối thượng.
 
+<!--pg-->
 ### (II) (Ud 10){#2}
 
 Như vầy tôi nghe:
@@ -56,6 +58,7 @@ Kể cả thiên lạc này,\
 Không bằng phần mười sáu,\
 Lạc do ái đoạn diệt.
 
+<!--pg-->
 ### (III) (Ud 11){#3}
 
 Như vầy tôi nghe:
@@ -72,6 +75,7 @@ Ai không hại với trượng,\
 Kẻ tìm lạc cho mình,\
 Ðời sau tìm được lạc.
 
+<!--pg-->
 ### (IV) (Ud 13){#4}
 
 Như vầy tôi nghe:
@@ -91,6 +95,7 @@ Là do duyên sanh y,\
 Với vị không sanh y,\
 Do đâu, xúc cảm thọ.
 
+<!--pg-->
 ### (V) (Ud 13){#5}
 
 Như vầy tôi nghe:
@@ -112,6 +117,7 @@ Những ai có sở hữu,\
 Khiến cho con người này,\
 Bị trói buộc người khác.
 
+<!--pg-->
 ### (VI) (Ud 13){#6}
 
 Như vậy tôi nghe:
@@ -149,6 +155,7 @@ Những ai có sở hữu,\
 Khiến cho con người này,\
 Bị trói buộc người khác.
 
+<!--pg-->
 ### (VII) (Ud 14){#7}
 
 Như vầy tôi nghe:
@@ -175,6 +182,7 @@ Vị ấy đào gốc khổ,\
 Mồi nhử của ác ma,\
 Thật khó vượt qua được.
 
+<!--pg-->
 ### (VIII) (Ud 15){#8}
 
 Như vầy tôi nghe:
@@ -244,6 +252,7 @@ Không ái, giả dạng ái,\
 Khổ đau, giả dạng lạc,\
 Nhiếp phục kẻ phóng dật.
 
+<!--pg-->
 ### (IX) (Ud 18){#9}
 
 Như vầy tôi nghe:
@@ -263,6 +272,7 @@ Mọi chủ quyền là lạc,\
 Chung dùng làm não hại,\
 Trói buộc khó vượt qua.
 
+<!--pg-->
 ### (X) (Ud 18){#10}
 
 Như vầy tôi nghe:

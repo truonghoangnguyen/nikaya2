@@ -370,6 +370,7 @@ export default defineConfig({
     '**/jill-stroke/**',
     '**/plato/**',
     '**/kinhtieubo/pali/**',
+     '**/vinaya/**',
   ],
 
   vite: {

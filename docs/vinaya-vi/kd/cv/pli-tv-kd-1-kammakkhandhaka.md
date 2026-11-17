@@ -1,1228 +1,1462 @@
-# PLI-TV-KD 11. Kammakkhandhaka
+---
+description: Quy định chi tiết về bảy hành động kỷ luật của Tăng đoàn, điều kiện hợp pháp hay bất hợp pháp, nguyên tắc ứng xử và thủ tục thu hồi kỷ luật trong Luật Tạng.
+---
 
-# 11. Kammakkhandhaka
+# PLI-TV-KD 11. CHƯƠNG HÀNH SỰ
+*(Kammakkhandhaka)*
 
-## 1. Tajjanīyakamma
+# 11. Chương Hành Sự
 
-1.1\. Namo tassa Bhagavato Arahato Sammāsambuddhassa.
+## 1. Hành Động Khiển Trách
+*(Tajjanīyakamma)*
 
-Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena paṇḍukalohitakā bhikkhū attanā bhaṇḍanakārakā kalahakārakā vivādakārakā bhassakārakā saṅghe adhikaraṇakārakā, yepi caññe bhikkhū bhaṇḍanakārakā kalahakārakā vivādakārakā bhassakārakā saṅghe adhikaraṇakārakā te upasaṅkamitvā evaṁ vadanti— “mā kho tumhe, āyasmanto, eso ajesi. Balavābalavaṁ paṭimantetha. Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca alamattatarā ca. Mā cassa bhāyittha. Mayampi tumhākaṁ pakkhā bhavissāmā”ti. Tena anuppannāni ceva bhaṇḍanāni uppajjanti uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti.
+1.1\. Đảnh lễ Đức Thế Tôn, Bậc A-la-hán, Đấng Chánh Đẳng Giác. {#1.1}
 
-1.2\. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma paṇḍukalohitakā bhikkhū attanā bhaṇḍanakārakā kalahakārakā vivādakārakā bhassakārakā saṅghe adhikaraṇakārakā, yepi caññe bhikkhū bhaṇḍanakārakā kalahakārakā vivādakārakā bhassakārakā saṅghe adhikaraṇakārakā te upasaṅkamitvā evaṁ vakkhanti— ‘mā kho tumhe, āyasmanto, eso ajesi. Balavābalavaṁ paṭimantetha. Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca alamattatarā ca. Mā cassa bhāyittha. Mayampi tumhākaṁ pakkhā bhavissāmā’ti. Tena anuppannāni ceva bhaṇḍanāni uppajjanti uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattantī”ti.
+Vào thời ấy, Đức Phật Thế Tôn đang sống tại Sāvatthī, trong khu rừng Jetavana, tu viện của ông Anāthapiṇḍika. Lúc bấy giờ, các tỳ kheo nhóm Paṇḍukalohitaka tự mình là những kẻ gây gổ, gây cãi vã, gây tranh chấp, hay nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; không những thế, khi thấy những tỳ kheo khác cũng gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn, họ liền tìm đến và nói như sau:
 
-Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi—
+– Này các tôn giả, đừng để người ấy thắng các vị! Hãy đối đáp thật mạnh mẽ! Các vị thông minh hơn, lanh lợi hơn, nghe nhiều hiểu rộng hơn và có bản lĩnh hơn người ấy nhiều. Đừng sợ người ấy! Chúng tôi cũng sẽ đứng về phe các vị.
 
-“saccaṁ kira, bhikkhave, paṇḍukalohitakā bhikkhū attanā bhaṇḍanakārakā kalahakārakā vivādakārakā bhassakārakā saṅghe adhikaraṇakārakā, yepi caññe bhikkhū bhaṇḍanakārakā kalahakārakā vivādakārakā bhassakārakā saṅghe adhikaraṇakārakā te upasaṅkamitvā evaṁ vadanti— ‘mā kho tumhe, āyasmanto, eso ajesi. Balavābalavaṁ paṭimantetha. Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca alamattatarā ca. Mā cassa bhāyittha. Mayampi tumhākaṁ pakkhā bhavissāmā’ti. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattantī”ti?
+Do đó, những vụ gây gổ chưa phát sinh liền phát sinh và những vụ gây gổ đã phát sinh thì ngày càng gia tăng, lan rộng.
 
-“Saccaṁ, bhagavā”ti.
+1.2\. Những tỳ kheo ít ham muốn [...lặp lại...] liền phàn nàn, chỉ trích và lên tiếng phê phán: {#1.2}
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ, bhikkhave, tesaṁ moghapurisānaṁ ananulomikaṁ appatirūpaṁ assāmaṇakaṁ akappiyaṁ akaraṇīyaṁ. Kathañhi nāma te, bhikkhave, moghapurisā attanā bhaṇḍanakārakā …pe… saṅghe adhikaraṇakārakā, yepi caññe bhikkhū bhaṇḍanakārakā …pe… saṅghe adhikaraṇakārakā te upasaṅkamitvā evaṁ vakkhanti— ‘mā kho tumhe, āyasmanto, eso ajesi. Balavābalavaṁ paṭimantetha. Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca alamattatarā ca. Mā cassa bhāyittha. Mayampi tumhākaṁ pakkhā bhavissāmā’ti? Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya pasannānaṁ vā bhiyyobhāvāya. Atha khvetaṁ, bhikkhave, appasannānañceva appasādāya pasannānañca ekaccānaṁ aññathattāyā”ti.
+– Sao các tỳ kheo nhóm Paṇḍukalohitaka lại tự mình gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn, rồi khi thấy những tỳ kheo khác cũng gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn lại tìm đến nói rằng: "Này các tôn giả, đừng để người ấy thắng các vị! Hãy đối đáp thật mạnh mẽ! Các vị thông minh hơn, lanh lợi hơn, nghe nhiều hiểu rộng hơn và có bản lĩnh hơn người ấy nhiều. Đừng sợ người ấy! Chúng tôi cũng sẽ đứng về phe các vị", khiến cho những vụ gây gổ chưa phát sinh liền phát sinh và những vụ gây gổ đã phát sinh thì ngày càng gia tăng, lan rộng như vậy?
 
-1.3\. Atha kho bhagavā te bhikkhū anekapariyāyena vigarahitvā dubbharatāya dupposatāya mahicchatāya asantuṭṭhitāya saṅgaṇikāya kosajjassa avaṇṇaṁ bhāsitvā anekapariyāyena subharatāya suposatāya appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyārambhassa vaṇṇaṁ bhāsitvā bhikkhūnaṁ tadanucchavikaṁ tadanulomikaṁ dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+Sau đó, các tỳ kheo ấy trình sự việc lên Đức Thế Tôn. Nhân duyên khởi ấy và trong sự kiện ấy, Đức Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại rồi hỏi các tỳ kheo:
 
-“tena hi, bhikkhave, saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ karotu. Evañca pana, bhikkhave, kātabbaṁ. Paṭhamaṁ paṇḍukalohitakā bhikkhū codetabbā, codetvā sāretabbā, sāretvā āpattiṁ āropetabbā, āpattiṁ āropetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+– Này các tỳ kheo, có thật là các tỳ kheo nhóm Paṇḍukalohitaka tự mình gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn, rồi tìm đến các tỳ kheo khác cũng làm như vậy mà nói rằng: "Này các tôn giả, đừng để người ấy thắng các vị! Hãy đối đáp thật mạnh mẽ! Các vị thông minh hơn, lanh lợi hơn, nghe nhiều hiểu rộng hơn và có bản lĩnh hơn người ấy nhiều. Đừng sợ người ấy! Chúng tôi cũng sẽ đứng về phe các vị", khiến cho những vụ gây gổ chưa phát sinh liền phát sinh và những vụ gây gổ đã phát sinh thì ngày càng gia tăng, lan rộng không?
 
-1.4\. ‘Suṇātu me, bhante, saṅgho. Ime paṇḍukalohitakā bhikkhū attanā bhaṇḍanakārakā kalahakārakā vivādakārakā bhassakārakā saṅghe adhikaraṇakārakā, yepi caññe bhikkhū bhaṇḍanakārakā kalahakārakā vivādakārakā bhassakārakā saṅghe adhikaraṇakārakā te upasaṅkamitvā evaṁ vadanti— “mā kho tumhe, āyasmanto, eso ajesi. Balavābalavaṁ paṭimantetha. Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca alamattatarā ca. Mā cassa bhāyittha. Mayampi tumhākaṁ pakkhā bhavissāmā”ti. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti. Yadi saṅghassa pattakallaṁ, saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ kareyya. Esā ñatti.
+– Bạch Đức Thế Tôn, đúng là như vậy.
 
-Suṇātu me, bhante, saṅgho. Ime paṇḍukalohitakā bhikkhū attanā bhaṇḍanakārakā …pe… saṅghe adhikaraṇakārakā, yepi caññe bhikkhū bhaṇḍanakārakā …pe… saṅghe adhikaraṇakārakā te upasaṅkamitvā evaṁ vadanti— “mā kho tumhe, āyasmanto, eso ajesi. Balavābalavaṁ paṭimantetha. Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca alamattatarā ca. Mā cassa bhāyittha. Mayampi tumhākaṁ pakkhā bhavissāmā”ti. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti. Saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ karoti. Yassāyasmato khamati paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyassa kammassa karaṇaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Đức Phật Thế Tôn liền quở trách:
 
-Dutiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ime paṇḍukalohitakā bhikkhū attanā bhaṇḍanakārakā …pe… saṅghe adhikaraṇakārakā, yepi caññe bhikkhū bhaṇḍanakārakā …pe… saṅghe adhikaraṇakārakā te upasaṅkamitvā evaṁ vadanti— “mā kho tumhe, āyasmanto, eso ajesi. Balavābalavaṁ paṭimantetha. Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca alamattatarā ca. Mā cassa bhāyittha. Mayampi tumhākaṁ pakkhā bhavissāmā”ti. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti. Saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ karoti. Yassāyasmato khamati paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyassa kammassa karaṇaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+– Này các tỳ kheo, việc làm của những kẻ ngu dốt ấy thật không xứng đáng, không phù hợp, không tương ưng, không phải hạnh sa-môn, không được phép và không nên làm. Này các tỳ kheo, sao những kẻ ngu dốt ấy lại có thể tự mình gây gổ [...lặp lại...] và gây ra các vụ tranh tụng trong Tăng đoàn, rồi tìm đến các tỳ kheo khác cũng gây gổ [...lặp lại...] và gây ra các vụ tranh tụng trong Tăng đoàn mà nói rằng: "Này các tôn giả, đừng để người ấy thắng các vị! Hãy đối đáp thật mạnh mẽ! Các vị thông minh hơn, lanh lợi hơn, nghe nhiều hiểu rộng hơn và có bản lĩnh hơn người ấy nhiều. Đừng sợ người ấy! Chúng tôi cũng sẽ đứng về phe các vị", khiến cho những vụ gây gổ chưa phát sinh liền phát sinh và những vụ gây gổ đã phát sinh thì ngày càng gia tăng, lan rộng như vậy? Này các tỳ kheo, điều này không đem lại *niềm tin tuyệt đối* (tịnh tín / pasādāya) cho những người chưa có niềm tin, hay làm tăng trưởng niềm tin cho những người đã có niềm tin. Trái lại, này các tỳ kheo, điều này khiến những người chưa có niềm tin càng thêm mất niềm tin và làm một số người đã có niềm tin thay đổi thái độ.
 
-Tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ime paṇḍukalohitakā bhikkhū attanā bhaṇḍanakārakā …pe… saṅghe adhikaraṇakārakā, yepi caññe bhikkhū bhaṇḍanakārakā …pe… saṅghe adhikaraṇakārakā te upasaṅkamitvā evaṁ vadanti— “mā kho tumhe, āyasmanto, eso ajesi. Balavābalavaṁ paṭimantetha. Tumhe tena paṇḍitatarā ca byattatarā ca bahussutatarā ca alamattatarā ca. Mā cassa bhāyittha. Mayampi tumhākaṁ pakkhā bhavissāmā”ti. Tena anuppannāni ceva bhaṇḍanāni uppajjanti, uppannāni ca bhaṇḍanāni bhiyyobhāvāya vepullāya saṁvattanti. Saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ karoti. Yassāyasmato khamati paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyassa kammassa karaṇaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+1.3\. Rồi Đức Thế Tôn quở trách các tỳ kheo ấy bằng nhiều cách, phê phán sự khó nuôi, khó chăm sóc, nhiều ham muốn, không biết đủ, thích tụ tập và lười biếng; tán dương bằng nhiều cách sự dễ nuôi, dễ chăm sóc, ít ham muốn, biết đủ, lối sống thanh đạm, hạnh đầu đà, cử chỉ khả kính, sự tiết giảm và tinh cần nỗ lực. Sau khi thuyết giảng bài *Giáo pháp* (pháp thoại / dhammiṁ kathaṁ) thích hợp và tương ưng cho các tỳ kheo, Ngài gọi các tỳ kheo lại và bảo: {#1.3}
 
-Kataṁ saṅghena paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy thực hiện *hành động khiển trách* (ha trách yết-ma / tajjanīyakammaṁ) đối với các tỳ kheo nhóm Paṇḍukalohitaka. Và này các tỳ kheo, cần phải thực hiện như sau: Trước tiên, các tỳ kheo nhóm Paṇḍukalohitaka phải được *nhắc nhở lỗi* (cử tội / codetabbā); sau khi nhắc nhở lỗi, phải *làm cho nhớ lại* (ức niệm / sāretabbā); sau khi làm cho nhớ lại, phải *quy kết lỗi phạm* (tác tội / āpattiṁ āropetabbā); sau khi quy kết *lỗi phạm* (tội / āpattiṁ), một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau:
 
-### 1.1. Adhammakammadvādasaka {#1.1}
+1.4\. "Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Paṇḍukalohitaka này tự mình là những kẻ gây gổ, gây cãi vã, gây tranh chấp, hay nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; và khi thấy những tỳ kheo khác cũng gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn, họ liền tìm đến và nói rằng: 'Này các tôn giả, đừng để người ấy thắng các vị! Hãy đối đáp thật mạnh mẽ! Các vị thông minh hơn, lanh lợi hơn, nghe nhiều hiểu rộng hơn và có bản lĩnh hơn người ấy nhiều. Đừng sợ người ấy! Chúng tôi cũng sẽ đứng về phe các vị.' Do đó, những vụ gây gổ chưa phát sinh liền phát sinh và những vụ gây gổ đã phát sinh thì ngày càng gia tăng, lan rộng. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy thực hiện *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka. Đây là *lời đề xuất* (tác bạch / ñatti). {#1.4}
 
-2.1\. “Tīhi, bhikkhave, aṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, appaṭipucchā kataṁ hoti, appaṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Paṇḍukalohitaka này tự mình gây gổ [...lặp lại...] và gây ra các vụ tranh tụng trong Tăng đoàn, rồi tìm đến các tỳ kheo khác cũng gây gổ [...lặp lại...] và gây ra các vụ tranh tụng trong Tăng đoàn mà nói rằng: 'Này các tôn giả, đừng để người ấy thắng các vị! Hãy đối đáp thật mạnh mẽ! Các vị thông minh hơn, lanh lợi hơn, nghe nhiều hiểu rộng hơn và có bản lĩnh hơn người ấy nhiều. Đừng sợ người ấy! Chúng tôi cũng sẽ đứng về phe các vị.' Do đó, những vụ gây gổ chưa phát sinh liền phát sinh và những vụ gây gổ đã phát sinh thì ngày càng gia tăng, lan rộng. Tăng đoàn thực hiện *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka. Tôn giả nào đồng ý việc thực hiện *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Anāpattiyā kataṁ hoti, adesanāgāminiyā āpattiyā kataṁ hoti, desitāya āpattiyā kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lần thứ hai tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Paṇḍukalohitaka này tự mình gây gổ [...lặp lại...] và gây ra các vụ tranh tụng trong Tăng đoàn, rồi tìm đến các tỳ kheo khác cũng gây gổ [...lặp lại...] và gây ra các vụ tranh tụng trong Tăng đoàn mà nói rằng: 'Này các tôn giả, đừng để người ấy thắng các vị! Hãy đối đáp thật mạnh mẽ! Các vị thông minh hơn, lanh lợi hơn, nghe nhiều hiểu rộng hơn và có bản lĩnh hơn người ấy nhiều. Đừng sợ người ấy! Chúng tôi cũng sẽ đứng về phe các vị.' Do đó, những vụ gây gổ chưa phát sinh liền phát sinh và những vụ gây gổ đã phát sinh thì ngày càng gia tăng, lan rộng. Tăng đoàn thực hiện *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka. Tôn giả nào đồng ý việc thực hiện *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Acodetvā kataṁ hoti, asāretvā kataṁ hoti, āpattiṁ anāropetvā kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Paṇḍukalohitaka này tự mình gây gổ [...lặp lại...] và gây ra các vụ tranh tụng trong Tăng đoàn, rồi tìm đến các tỳ kheo khác cũng gây gổ [...lặp lại...] và gây ra các vụ tranh tụng trong Tăng đoàn mà nói rằng: 'Này các tôn giả, đừng để người ấy thắng các vị! Hãy đối đáp thật mạnh mẽ! Các vị thông minh hơn, lanh lợi hơn, nghe nhiều hiểu rộng hơn và có bản lĩnh hơn người ấy nhiều. Đừng sợ người ấy! Chúng tôi cũng sẽ đứng về phe các vị.' Do đó, những vụ gây gổ chưa phát sinh liền phát sinh và những vụ gây gổ đã phát sinh thì ngày càng gia tăng, lan rộng. Tăng đoàn thực hiện *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka. Tôn giả nào đồng ý việc thực hiện *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Tăng đoàn đã thực hiện xong *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Appaṭipucchā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+### 1.1. Nhóm Mười Hai Hành Động Trái Quy Luật
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Appaṭiññāya kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+2.1\. Này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố sẽ là *hành động trái Quy luật* (phi pháp yết-ma / adhammakammañca), trái giới luật và khó *lắng dịu* (diệt / duvūpasantañca). Đó là: được thực hiện khi vắng mặt, được thực hiện khi không thẩm vấn, được thực hiện khi không có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. {#2.1}
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Anāpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có *lỗi phạm*, được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* đã thú nhận rồi - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Adesanāgāminiyā āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện khi chưa *quy kết lỗi phạm* - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Desitāya āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi vắng mặt, được thực hiện *trái Quy luật* (phi pháp / adhammena), được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Acodetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không thẩm vấn, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asāretvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có sự thừa nhận, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Āpattiṁ anāropetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có *lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Adhammakammadvādasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-### 1.2. Dhammakammadvādasaka {#1.2}
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện đối với *lỗi phạm* đã thú nhận rồi, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-3.1\. Tīhi, bhikkhave, aṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, paṭipucchā kataṁ hoti, paṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiyā kataṁ hoti, desanāgāminiyā āpattiyā kataṁ hoti, adesitāya āpattiyā kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Codetvā kataṁ hoti, sāretvā kataṁ hoti, āpattiṁ āropetvā kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi chưa *quy kết lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Kết thúc Nhóm Mười Hai Hành Động Trái Quy Luật.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Paṭipucchā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+### 1.2. Nhóm Mười Hai Hành Động Đúng Quy Luật
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Paṭiññāya kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+3.1\. Này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố sẽ là *hành động đúng Quy luật* (pháp yết-ma / dhammakammañca), đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có mặt, được thực hiện sau khi thẩm vấn, được thực hiện khi có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. {#3.1}
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có *lỗi phạm*, được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* chưa thú nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Desanāgāminiyā āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện sau khi *làm cho nhớ lại*, được thực hiện sau khi *quy kết lỗi phạm* - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Adesitāya āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có mặt, được thực hiện đúng *Quy luật* (pháp / dhammena), được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Codetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện sau khi thẩm vấn, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sāretvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có sự thừa nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiṁ āropetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tajjanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có *lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Dhammakammadvādasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-### 1.3. Ākaṅkhamānachakka {#1.3}
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện đối với *lỗi phạm* chưa thú nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-4.1\. Tīhi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya. Bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya. Adhisīle sīlavipanno hoti, ajjhācāre ācāravipanno hoti, atidiṭṭhiyā diṭṭhivipanno hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện sau khi *làm cho nhớ lại*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya. Buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya.
+Lại nữa, này các tỳ kheo, một *hành động khiển trách* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện sau khi *quy kết lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động khiển trách* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-4.2\. Tiṇṇaṁ, bhikkhave, bhikkhūnaṁ, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya. Eko bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; eko bālo hoti abyatto āpattibahulo anapadāno; eko gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya.
+Kết thúc Nhóm Mười Hai Hành Động Đúng Quy Luật.
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya. Eko adhisīle sīlavipanno hoti, eko ajjhācāre ācāravipanno hoti, eko atidiṭṭhiyā diṭṭhivipanno hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya.
+### 1.3. Nhóm Sáu Trường Hợp Tùy Ý Thi Hành
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya. Eko buddhassa avaṇṇaṁ bhāsati, eko dhammassa avaṇṇaṁ bhāsati, eko saṅghassa avaṇṇaṁ bhāsati— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, tajjanīyakammaṁ kareyya.
+4.1\. Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách* đối với một tỳ kheo hội đủ ba yếu tố sau: là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách*. {#4.1}
 
-Ākaṅkhamānachakkaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách* đối với một tỳ kheo hội đủ ba yếu tố khác: hư hỏng đạo đức trong giới luật căn bản, hư hỏng hành vi trong phép tắc ứng xử, hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách*.
 
-### 1.4. Aṭṭhārasavatta {#1.4}
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách* đối với một tỳ kheo hội đủ ba yếu tố khác: nói lời chê bai Đức Phật, nói lời chê bai *Giáo pháp*, nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách*.
 
-5.1\. Tajjanīyakammakatena, bhikkhave, bhikkhunā sammā vattitabbaṁ. Tatrāyaṁ sammāvattanā—
+4.2\. Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách* đối với ba hạng tỳ kheo sau: một vị là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; một vị là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; một vị sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách*. {#4.2}
 
-Tajjanīyakamme aṭṭhārasavattaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách* đối với ba hạng tỳ kheo khác: một vị hư hỏng đạo đức trong giới luật căn bản, một vị hư hỏng hành vi trong phép tắc ứng xử, một vị hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách*.
 
-### 1.5. Nappaṭippassambhetabbaaṭṭhārasaka {#1.5}
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách* đối với ba hạng tỳ kheo khác: một vị nói lời chê bai Đức Phật, một vị nói lời chê bai *Giáo pháp*, một vị nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động khiển trách*.
 
-6.1\. Atha kho saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ akāsi. Te saṅghena tajjanīyakammakatā sammā vattanti, lomaṁ pātenti, netthāraṁ vattanti, bhikkhū upasaṅkamitvā evaṁ vadanti— “mayaṁ, āvuso, saṅghena tajjanīyakammakatā sammā vattāma, lomaṁ pātema, netthāraṁ vattāma, kathaṁ nu kho amhehi paṭipajjitabban”ti? Bhikkhū bhagavato etamatthaṁ ārocesuṁ … pe….
+Kết thúc Nhóm Sáu Trường Hợp Tùy Ý Thi Hành.
 
-“Tena hi, bhikkhave, saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ paṭippassambhetu.
+### 1.4. Mười Tám Nguyên Tắc Ứng Xử
 
-6.2\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ nappaṭippassambhetabbaṁ. Upasampādeti, nissayaṁ deti, sāmaṇeraṁ upaṭṭhāpeti, bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ nappaṭippassambhetabbaṁ.
+5.1\. Này các tỳ kheo, tỳ kheo bị thi hành *hành động khiển trách* cần phải cư xử đúng đắn. Cách cư xử đúng đắn trong trường hợp ấy là như sau: {#5.1}
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ nappaṭippassambhetabbaṁ. Yāya āpattiyā saṅghena tajjanīyakammaṁ kataṁ hoti taṁ āpattiṁ āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ garahati, kammike garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ nappaṭippassambhetabbaṁ.
+Kết thúc mười tám nguyên tắc ứng xử trong *hành động khiển trách*.
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno uposathaṁ ṭhapeti, pavāraṇaṁ ṭhapeti, savacanīyaṁ karoti, anuvādaṁ paṭṭhapeti, okāsaṁ kāreti, codeti, sāreti, bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ nappaṭippassambhetabbaṁ.
+### 1.5. Nhóm Mười Tám Trường Hợp Không Được Thu Hồi
 
-Nappaṭippassambhetabbaaṭṭhārasakaṁ niṭṭhitaṁ.
+6.1\. Sau đó, Tăng đoàn thực hiện *hành động khiển trách* đối với các tỳ kheo nhóm Paṇḍukalohitaka. Khi bị Tăng đoàn thi hành *hành động khiển trách*, họ *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng* (tùy thuận hành / sammā vattanti, lomaṁ pātenti, netthāraṁ vattanti), rồi đến gặp các tỳ kheo và hỏi: {#6.1}
 
-### 1.6. Paṭippassambhetabbaaṭṭhārasaka {#1.6}
+– Này các hiền giả, chúng tôi đã bị Tăng đoàn thi hành *hành động khiển trách*, nay chúng tôi *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, vậy chúng tôi phải thực hành như thế nào?
 
-7.1\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ paṭippassambhetabbaṁ. Na upasampādeti, na nissayaṁ deti, na sāmaṇeraṁ upaṭṭhāpeti, na bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo na ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ paṭippassambhetabbaṁ.
+Các tỳ kheo trình sự việc lên Đức Thế Tôn [...lặp lại...].
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ paṭippassambhetabbaṁ. Yāya āpattiyā saṅghena tajjanīyakammaṁ kataṁ hoti taṁ āpattiṁ na āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ na garahati, kammike na garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ paṭippassambhetabbaṁ.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy *thu hồi* (giải trừ / paṭippassambhetu) *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka.
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno tajjanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno uposathaṁ ṭhapeti, na pavāraṇaṁ ṭhapeti, na savacanīyaṁ karoti, na anuvādaṁ paṭṭhapeti, na okāsaṁ kāreti, na codeti, na sāreti, na bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno, tajjanīyakammaṁ paṭippassambhetabbaṁ.
+6.2\. Này các tỳ kheo, không được *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ năm yếu tố sau: truyền giới cho người xuất gia, nhận làm thầy nương tựa, cho sa-di phục vụ, chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định vẫn tiếp tục giáo giới các tỳ kheo ni - này các tỳ kheo, không được *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ năm yếu tố này. {#6.2}
 
-Paṭippassambhetabbaaṭṭhārasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ năm yếu tố khác: tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động khiển trách*, phạm một *lỗi phạm* khác tương tự như vậy, phạm một *lỗi phạm* còn tệ hại hơn thế, chê trách *hành động [kỷ luật]* (yết-ma / kammaṁ) và chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, không được *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ năm yếu tố này.
 
-8.1\. Evañca pana, bhikkhave, paṭippassambhetabbaṁ. Tehi, bhikkhave, paṇḍukalohitakehi bhikkhūhi saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo— ‘mayaṁ, bhante, saṅghena tajjanīyakammakatā sammā vattāma, lomaṁ pātema, netthāraṁ vattāma, tajjanīyassa kammassa paṭippassaddhiṁ yācāmā’ti. Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Này các tỳ kheo, không được *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ tám yếu tố sau: đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, đình chỉ lễ Pavāraṇā của vị ấy, đưa ra lời tuyên bố ngăn cản, đặt ra sự cáo buộc, buộc phải xin phép chất vấn, *nhắc nhở lỗi*, *làm cho nhớ lại* và gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ tám yếu tố này.
 
-8.2\. ‘Suṇātu me, bhante, saṅgho. Ime paṇḍukalohitakā bhikkhū saṅghena tajjanīyakammakatā sammā vattanti, lomaṁ pātenti, netthāraṁ vattanti, tajjanīyassa kammassa paṭippassaddhiṁ yācanti. Yadi saṅghassa pattakallaṁ, saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ paṭippassambheyya. Esā ñatti.
+Kết thúc Nhóm Mười Tám Trường Hợp Không Được Thu Hồi.
 
-Suṇātu me, bhante, saṅgho. Ime paṇḍukalohitakā bhikkhū saṅghena tajjanīyakammakatā sammā vattanti, lomaṁ pātenti, netthāraṁ vattanti, tajjanīyassa kammassa paṭippassaddhiṁ yācanti. Saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ paṭippassambheti. Yassāyasmato khamati paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+### 1.6. Nhóm Mười Tám Trường Hợp Được Thu Hồi
 
-Dutiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ime paṇḍukalohitakā bhikkhū saṅghena tajjanīyakammakatā sammā vattanti, lomaṁ pātenti, netthāraṁ vattanti, tajjanīyassa kammassa paṭippassaddhiṁ yācanti. Saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ paṭippassambheti. Yassāyasmato khamati paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+7.1\. Này các tỳ kheo, nên *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ năm yếu tố sau: không truyền giới cho người xuất gia, không nhận làm thầy nương tựa, không cho sa-di phục vụ, không chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định cũng không giáo giới các tỳ kheo ni - này các tỳ kheo, nên *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ năm yếu tố này. {#7.1}
 
-Tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ime paṇḍukalohitakā bhikkhū saṅghena tajjanīyakammakatā sammā vattanti, lomaṁ pātenti, netthāraṁ vattanti, tajjanīyassa kammassa paṭippassaddhiṁ yācanti. Saṅgho paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ paṭippassambheti. Yassāyasmato khamati paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ năm yếu tố khác: không tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động khiển trách*, không phạm một *lỗi phạm* khác tương tự như vậy, không phạm một *lỗi phạm* còn tệ hại hơn thế, không chê trách *hành động [kỷ luật]* và không chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, nên *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Paṭippassaddhaṁ saṅghena paṇḍukalohitakānaṁ bhikkhūnaṁ tajjanīyakammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+Này các tỳ kheo, nên *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ tám yếu tố sau: không đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, không đình chỉ lễ Pavāraṇā của vị ấy, không đưa ra lời tuyên bố ngăn cản, không đặt ra sự cáo buộc, không buộc phải xin phép chất vấn, không *nhắc nhở lỗi*, không *làm cho nhớ lại* và không gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động khiển trách* đối với tỳ kheo hội đủ tám yếu tố này.
 
-Tajjanīyakammaṁ niṭṭhitaṁ paṭhamaṁ.
+Kết thúc Nhóm Mười Tám Trường Hợp Được Thu Hồi.
 
-## 2. Niyassakamma
+8.1\. Và này các tỳ kheo, cần phải *thu hồi* như sau: Các tỳ kheo nhóm Paṇḍukalohitaka ấy phải đến trước Tăng đoàn, đắp y vai trái, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi chồm hổm, chắp tay và thưa như vầy: "Bạch chư tôn đức, chúng con bị Tăng đoàn thi hành *hành động khiển trách*, nay đã *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động khiển trách*." Cần thỉnh cầu lần thứ hai. Cần thỉnh cầu lần thứ ba. Sau đó, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau: {#8.1}
 
-9.1\. Tena kho pana samayena āyasmā seyyasako bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi; apissu bhikkhū pakatā parivāsaṁ dentā mūlāya paṭikassantā mānattaṁ dentā abbhentā.
+8.2\. "Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Paṇḍukalohitaka này bị Tăng đoàn thi hành *hành động khiển trách*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động khiển trách*. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy *thu hồi* *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka. Đây là *lời đề xuất*. {#8.2}
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā seyyasako bālo bhavissati abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharissati ananulomikehi gihisaṁsaggehi; apissu bhikkhū pakatā parivāsaṁ dentā mūlāya paṭikassantā mānattaṁ dentā abbhentā”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Paṇḍukalohitaka này bị Tăng đoàn thi hành *hành động khiển trách*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động khiển trách*. Tăng đoàn *thu hồi* *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka. Tôn giả nào đồng ý việc *thu hồi* *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi—
+Lần thứ hai tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Paṇḍukalohitaka này bị Tăng đoàn thi hành *hành động khiển trách*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động khiển trách*. Tăng đoàn *thu hồi* *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka. Tôn giả nào đồng ý việc *thu hồi* *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-“saccaṁ kira, bhikkhave, seyyasako bhikkhu bālo abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi; apissu bhikkhū pakatā parivāsaṁ dentā mūlāya paṭikassantā mānattaṁ dentā abbhentā”ti?
+Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Paṇḍukalohitaka này bị Tăng đoàn thi hành *hành động khiển trách*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động khiển trách*. Tăng đoàn *thu hồi* *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka. Tôn giả nào đồng ý việc *thu hồi* *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-“Saccaṁ, bhagavā”ti.
+Tăng đoàn đã *thu hồi* xong *hành động khiển trách* cho các tỳ kheo nhóm Paṇḍukalohitaka. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ, bhikkhave, tassa moghapurisassa ananulomikaṁ appatirūpaṁ assāmaṇakaṁ akappiyaṁ akaraṇīyaṁ. Kathañhi nāma so, bhikkhave, moghapuriso bālo bhavissati abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharissati ananulomikehi gihisaṁsaggehi; apissu bhikkhū pakatā parivāsaṁ dentā mūlāya paṭikassantā mānattaṁ dentā abbhentā. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+Kết thúc Hành Động Khiển Trách thứ nhất.
 
-“tena hi, bhikkhave, saṅgho seyyasakassa bhikkhuno niyassakammaṁ karotu— nissāya te vatthabbanti. Evañca pana, bhikkhave, kātabbaṁ. Paṭhamaṁ seyyasako bhikkhu codetabbo, codetvā sāretabbo, sāretvā āpattiṁ āropetabbo, āpattiṁ āropetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+## 2. Hành Động Buộc Sống Nương Tựa
+*(Niyassakamma)*
 
-9.2\. ‘Suṇātu me, bhante, saṅgho. Ayaṁ seyyasako bhikkhu bālo abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi; apissu bhikkhū pakatā parivāsaṁ dentā mūlāya paṭikassantā mānattaṁ dentā abbhentā. Yadi saṅghassa pattakallaṁ, saṅgho seyyasakassa bhikkhuno niyassakammaṁ kareyya— nissāya te vatthabbanti. Esā ñatti.
+9.1\. Lúc bấy giờ, Tôn giả Seyyasaka là người ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; vị ấy sống thân mật với người tại gia bằng những mối quan hệ không phù hợp, đến nỗi các tỳ kheo thường xuyên phải ban hành thời gian thử thách, bắt tính lại từ đầu, ban hành thời gian chịu phạt và làm lễ phục hồi tư cách cho vị ấy. {#9.1}
 
-Suṇātu me, bhante, saṅgho. Ayaṁ seyyasako bhikkhu bālo abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi; apissu bhikkhū pakatā parivāsaṁ dentā mūlāya paṭikassantā mānattaṁ dentā abbhentā. Saṅgho seyyasakassa bhikkhuno niyassakammaṁ karoti— nissāya te vatthabbanti. Yassāyasmato khamati seyyasakassa bhikkhuno niyassassa kammassa karaṇaṁ— nissāya te vatthabbanti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Những tỳ kheo ít ham muốn [...lặp lại...] liền phàn nàn, chỉ trích và lên tiếng phê phán:
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ seyyasako bhikkhu bālo abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi; apissu bhikkhū pakatā parivāsaṁ dentā mūlāya paṭikassantā mānattaṁ dentā abbhentā. Saṅgho seyyasakassa bhikkhuno niyassakammaṁ karoti— nissāya te vatthabbanti. Yassāyasmato khamati seyyasakassa bhikkhuno niyassassa kammassa karaṇaṁ— nissāya te vatthabbanti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+– Sao Tôn giả Seyyasaka lại ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm*, không biết thận trọng và sống thân mật với người tại gia bằng những mối quan hệ không phù hợp, đến nỗi các tỳ kheo thường xuyên phải ban hành thời gian thử thách, bắt tính lại từ đầu, ban hành thời gian chịu phạt và làm lễ phục hồi tư cách cho vị ấy như vậy?
 
-Kataṁ saṅghena seyyasakassa bhikkhuno niyassakammaṁ— nissāya te vatthabbanti. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+Sau đó, các tỳ kheo ấy trình sự việc lên Đức Thế Tôn. Nhân duyên khởi ấy và trong sự kiện ấy, Đức Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại rồi hỏi các tỳ kheo:
 
-### 2.1. Adhammakammadvādasaka {#2.1}
+– Này các tỳ kheo, có thật là tỳ kheo Seyyasaka ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm*, không biết thận trọng và sống thân mật với người tại gia bằng những mối quan hệ không phù hợp, đến nỗi các tỳ kheo thường xuyên phải ban hành thời gian thử thách, bắt tính lại từ đầu, ban hành thời gian chịu phạt và làm lễ phục hồi tư cách cho vị ấy không?
 
-10.1\. “Tīhi, bhikkhave, aṅgehi samannāgataṁ niyassakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, appaṭipucchā kataṁ hoti, appaṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+– Bạch Đức Thế Tôn, đúng là như vậy.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Anāpattiyā kataṁ hoti, adesanāgāminiyā āpattiyā kataṁ hoti, desitāya āpattiyā kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Đức Phật Thế Tôn liền quở trách:
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Acodetvā kataṁ hoti, asāretvā kataṁ hoti, āpattiṁ anāropetvā kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+– Này các tỳ kheo, việc làm của kẻ ngu dốt ấy thật không xứng đáng, không phù hợp, không tương ưng, không phải hạnh sa-môn, không được phép và không nên làm. Này các tỳ kheo, sao kẻ ngu dốt ấy lại có thể ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm*, không biết thận trọng và sống thân mật với người tại gia bằng những mối quan hệ không phù hợp, đến nỗi các tỳ kheo thường xuyên phải ban hành thời gian thử thách, bắt tính lại từ đầu, ban hành thời gian chịu phạt và làm lễ phục hồi tư cách cho vị ấy như vậy? Này các tỳ kheo, điều này không đem lại *niềm tin tuyệt đối* cho những người chưa có niềm tin [...lặp lại...].
 
-Aparehipi, bhikkhave …pe… asammukhā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Sau khi quở trách [...lặp lại...] và thuyết giảng bài *Giáo pháp* [...lặp lại...], Ngài gọi các tỳ kheo lại và bảo:
 
-Aparehipi, bhikkhave …pe… appaṭipucchā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy thực hiện *hành động buộc sống nương tựa* (y chỉ yết-ma / niyassakammaṁ) đối với tỳ kheo Seyyasaka với nội dung: "Thầy phải sống nương tựa." Và này các tỳ kheo, cần phải thực hiện như sau: Trước tiên, tỳ kheo Seyyasaka phải được *nhắc nhở lỗi*; sau khi nhắc nhở lỗi, phải *làm cho nhớ lại*; sau khi làm cho nhớ lại, phải *quy kết lỗi phạm*; sau khi quy kết *lỗi phạm*, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau:
 
-Aparehipi, bhikkhave …pe… appaṭiññāya kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+9.2\. "Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Seyyasaka này ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; vị ấy sống thân mật với người tại gia bằng những mối quan hệ không phù hợp, đến nỗi các tỳ kheo thường xuyên phải ban hành thời gian thử thách, bắt tính lại từ đầu, ban hành thời gian chịu phạt và làm lễ phục hồi tư cách cho vị ấy. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy thực hiện *hành động buộc sống nương tựa* đối với tỳ kheo Seyyasaka với nội dung: 'Thầy phải sống nương tựa.' Đây là *lời đề xuất*. {#9.2}
 
-Aparehipi, bhikkhave …pe… anāpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Seyyasaka này ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; vị ấy sống thân mật với người tại gia bằng những mối quan hệ không phù hợp, đến nỗi các tỳ kheo thường xuyên phải ban hành thời gian thử thách, bắt tính lại từ đầu, ban hành thời gian chịu phạt và làm lễ phục hồi tư cách cho vị ấy. Tăng đoàn thực hiện *hành động buộc sống nương tựa* đối với tỳ kheo Seyyasaka với nội dung: 'Thầy phải sống nương tựa.' Tôn giả nào đồng ý việc thực hiện *hành động buộc sống nương tựa* đối với tỳ kheo Seyyasaka với nội dung 'Thầy phải sống nương tựa' thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave …pe… adesanāgāminiyā āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Seyyasaka này ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; vị ấy sống thân mật với người tại gia bằng những mối quan hệ không phù hợp, đến nỗi các tỳ kheo thường xuyên phải ban hành thời gian thử thách, bắt tính lại từ đầu, ban hành thời gian chịu phạt và làm lễ phục hồi tư cách cho vị ấy. Tăng đoàn thực hiện *hành động buộc sống nương tựa* đối với tỳ kheo Seyyasaka với nội dung: 'Thầy phải sống nương tựa.' Tôn giả nào đồng ý việc thực hiện *hành động buộc sống nương tựa* đối với tỳ kheo Seyyasaka với nội dung 'Thầy phải sống nương tựa' thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave …pe… desitāya āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Tăng đoàn đã thực hiện xong *hành động buộc sống nương tựa* đối với tỳ kheo Seyyasaka với nội dung: 'Thầy phải sống nương tựa.' Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-Aparehipi, bhikkhave …pe… acodetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+### 2.1. Nhóm Mười Hai Hành Động Trái Quy Luật
 
-Aparehipi, bhikkhave …pe… asāretvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+10.1\. Này các tỳ kheo, một *hành động buộc sống nương tựa* hội đủ ba yếu tố sẽ là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi vắng mặt, được thực hiện khi không thẩm vấn, được thực hiện khi không có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc sống nương tựa* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. {#10.1}
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Āpattiṁ anāropetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động buộc sống nương tựa* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có *lỗi phạm*, được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* đã thú nhận rồi - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc sống nương tựa* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Adhammakammadvādasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, một *hành động buộc sống nương tựa* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện khi chưa *quy kết lỗi phạm* - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc sống nương tựa* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-### 2.2. Dhammakammadvādasaka {#2.2}
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi vắng mặt, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo [...lặp lại...].
 
-Tīhi, bhikkhave, aṅgehi samannāgataṁ niyassakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, paṭipucchā kataṁ hoti, paṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi không thẩm vấn, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiyā kataṁ hoti, desanāgāminiyā āpattiyā kataṁ hoti, adesitāya āpattiyā kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi không có sự thừa nhận, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Codetvā kataṁ hoti, sāretvā kataṁ hoti, āpattiṁ āropetvā kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi không có *lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave …pe… sammukhā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave …pe… paṭipucchā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện đối với *lỗi phạm* đã thú nhận rồi, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave …pe… paṭiññāya kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave …pe… āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave …pe… desanāgāminiyā āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Lại nữa, này các tỳ kheo, một *hành động buộc sống nương tựa* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi chưa *quy kết lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc sống nương tựa* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave …pe… adesitāya āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Kết thúc Nhóm Mười Hai Hành Động Trái Quy Luật.
 
-Aparehipi, bhikkhave …pe… codetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+### 2.2. Nhóm Mười Hai Hành Động Đúng Quy Luật
 
-Aparehipi, bhikkhave …pe… sāretvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave …pe….
+Này các tỳ kheo, một *hành động buộc sống nương tựa* hội đủ ba yếu tố sẽ là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có mặt, được thực hiện sau khi thẩm vấn, được thực hiện khi có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc sống nương tựa* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiṁ āropetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ niyassakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, một *hành động buộc sống nương tựa* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có *lỗi phạm*, được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* chưa thú nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc sống nương tựa* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Dhammakammadvādasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, một *hành động buộc sống nương tựa* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện sau khi *làm cho nhớ lại*, được thực hiện sau khi *quy kết lỗi phạm* - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc sống nương tựa* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-### 2.3. Ākaṅkhamānachakka {#2.3}
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi có mặt, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo [...lặp lại...].
 
-Tīhi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya. Bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện sau khi thẩm vấn, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya. Adhisīle sīlavipanno hoti, ajjhācāre ācāravipanno hoti, atidiṭṭhiyā diṭṭhivipanno hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi có sự thừa nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo [...lặp lại...].
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya. Buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện khi có *lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo [...lặp lại...].
 
-Tiṇṇaṁ, bhikkhave, bhikkhūnaṁ, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya. Eko bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; eko bālo hoti, abyatto āpattibahulo anapadāno; eko gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo [...lặp lại...].
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya. Eko adhisīle sīlavipanno hoti, eko ajjhācāre ācāravipanno hoti, eko atidiṭṭhiyā diṭṭhivipanno hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện đối với *lỗi phạm* chưa thú nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo [...lặp lại...].
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya. Eko buddhassa avaṇṇaṁ bhāsati, eko dhammassa avaṇṇaṁ bhāsati, eko saṅghassa avaṇṇaṁ bhāsati— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, niyassakammaṁ kareyya.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo [...lặp lại...].
 
-Ākaṅkhamānachakkaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo [...lặp lại...] được thực hiện sau khi *làm cho nhớ lại*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo [...lặp lại...].
 
-### 2.4. Aṭṭhārasavatta {#2.4}
+Lại nữa, này các tỳ kheo, một *hành động buộc sống nương tựa* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện sau khi *quy kết lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc sống nương tựa* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Niyassakammakatena, bhikkhave, bhikkhunā sammā vattitabbaṁ. Tatrāyaṁ sammāvattanā—
+Kết thúc Nhóm Mười Hai Hành Động Đúng Quy Luật.
 
-Niyassakamme aṭṭhārasavattaṁ niṭṭhitaṁ.
+### 2.3. Nhóm Sáu Trường Hợp Tùy Ý Thi Hành
 
-11.1\. Atha kho saṅgho seyyasakassa bhikkhuno niyassakammaṁ akāsi— nissāya te vatthabbanti. So saṅghena niyassakammakato kalyāṇamitte sevamāno bhajamāno payirupāsamāno uddisāpento paripucchanto bahussuto hoti, āgatāgamo dhammadharo vinayadharo mātikādharo paṇḍito viyatto medhāvī lajjī kukkuccako sikkhākāmo. Sammā vattati, lomaṁ pāteti, netthāraṁ vattati, bhikkhū upasaṅkamitvā evaṁ vadeti— “ahaṁ, āvuso, saṅghena niyassakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi. Kathaṁ nu kho mayā paṭipajjitabban”ti? Bhikkhū bhagavato etamatthaṁ ārocesuṁ … pe…. “Tena hi, bhikkhave, saṅgho seyyasakassa bhikkhuno niyassakammaṁ paṭippassambhetu.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa* đối với một tỳ kheo hội đủ ba yếu tố sau: là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa*.
 
-### 2.5. Nappaṭippassambhetabbaaṭṭhārasaka {#2.5}
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa* đối với một tỳ kheo hội đủ ba yếu tố khác: hư hỏng đạo đức trong giới luật căn bản, hư hỏng hành vi trong phép tắc ứng xử, hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa*.
 
-11.2\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno niyassakammaṁ nappaṭippassambhetabbaṁ. Upasampādeti, nissayaṁ deti, sāmaṇeraṁ upaṭṭhāpeti, bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno niyassakammaṁ nappaṭippassambhetabbaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa* đối với một tỳ kheo hội đủ ba yếu tố khác: nói lời chê bai Đức Phật, nói lời chê bai *Giáo pháp*, nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa*.
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno niyassakammaṁ nappaṭippassambhetabbaṁ. Yāya āpattiyā saṅghena niyassakammaṁ kataṁ hoti taṁ āpattiṁ āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ garahati, kammike garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno niyassakammaṁ nappaṭippassambhetabbaṁ.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa* đối với ba hạng tỳ kheo sau: một vị là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; một vị là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; một vị sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa*.
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno niyassakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno uposathaṁ ṭhapeti, pavāraṇaṁ ṭhapeti, savacanīyaṁ karoti, anuvādaṁ paṭṭhapeti, okāsaṁ kāreti, codeti, sāreti, bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno niyassakammaṁ nappaṭippassambhetabbaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa* đối với ba hạng tỳ kheo khác: một vị hư hỏng đạo đức trong giới luật căn bản, một vị hư hỏng hành vi trong phép tắc ứng xử, một vị hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa*.
 
-Nappaṭippassambhetabbaaṭṭhārasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa* đối với ba hạng tỳ kheo khác: một vị nói lời chê bai Đức Phật, một vị nói lời chê bai *Giáo pháp*, một vị nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc sống nương tựa*.
 
-### 2.6. Paṭippassambhetabbaaṭṭhārasaka {#2.6}
+Kết thúc Nhóm Sáu Trường Hợp Tùy Ý Thi Hành.
 
-Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno niyassakammaṁ paṭippassambhetabbaṁ. Na upasampādeti, na nissayaṁ deti, na sāmaṇeraṁ upaṭṭhāpeti, na bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo na ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno niyassakammaṁ paṭippassambhetabbaṁ.
+### 2.4. Mười Tám Nguyên Tắc Ứng Xử
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno niyassakammaṁ paṭippassambhetabbaṁ. Yāya āpattiyā saṅghena niyassakammaṁ kataṁ hoti taṁ āpattiṁ na āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ na garahati, kammike na garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno niyassakammaṁ paṭippassambhetabbaṁ.
+Này các tỳ kheo, tỳ kheo bị thi hành *hành động buộc sống nương tựa* cần phải cư xử đúng đắn. Cách cư xử đúng đắn trong trường hợp ấy là như sau:
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno niyassakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno uposathaṁ ṭhapeti, na pavāraṇaṁ ṭhapeti, na savacanīyaṁ karoti, na anuvādaṁ paṭṭhapeti, na okāsaṁ kāreti, na codeti, na sāreti, na bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno niyassakammaṁ paṭippassambhetabbaṁ.
+Kết thúc mười tám nguyên tắc ứng xử trong *hành động buộc sống nương tựa*.
 
-Paṭippassambhetabbaaṭṭhārasakaṁ niṭṭhitaṁ.
+11.1\. Sau đó, Tăng đoàn thực hiện *hành động buộc sống nương tựa* đối với tỳ kheo Seyyasaka với nội dung: "Thầy phải sống nương tựa." Khi bị Tăng đoàn thi hành *hành động buộc sống nương tựa*, vị ấy thân cận, gần gũi và hầu hạ những người bạn tốt, chuyên tâm học đọc và hỏi han, nhờ đó trở nên nghe nhiều hiểu rộng, thông thạo kinh điển truyền thừa, nắm giữ *Giáo pháp*, nắm giữ giới luật, nắm giữ các bản đề mục, sáng suốt, lanh lợi, có trí tuệ, biết hổ thẹn, thận trọng và ham học hỏi. Vị ấy *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, rồi đến gặp các tỳ kheo và hỏi: {#11.1}
 
-12.1\. Evañca pana, bhikkhave, paṭippassambhetabbaṁ. Tena, bhikkhave, seyyasakena bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo— ‘ahaṁ, bhante, saṅghena niyassakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi, niyassassa kammassa paṭippassaddhiṁ yācāmī’ti. Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+– Này các hiền giả, tôi đã bị Tăng đoàn thi hành *hành động buộc sống nương tựa*, nay tôi *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, vậy tôi phải thực hành như thế nào?
 
-12.2\. ‘Suṇātu me, bhante, saṅgho. Ayaṁ seyyasako bhikkhu saṅghena niyassakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, niyassassa kammassa paṭippassaddhiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho seyyasakassa bhikkhuno niyassakammaṁ paṭippassambheyya. Esā ñatti.
+Các tỳ kheo trình sự việc lên Đức Thế Tôn [...lặp lại...].
 
-Suṇātu me, bhante, saṅgho. Ayaṁ seyyasako bhikkhu saṅghena niyassakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, niyassassa kammassa paṭippassaddhiṁ yācati. Saṅgho seyyasakassa bhikkhuno niyassakammaṁ paṭippassambheti. Yassāyasmato khamati seyyasakassa bhikkhuno niyassassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy *thu hồi* *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka.
 
-Dutiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ seyyasako bhikkhu saṅghena niyassakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, niyassassa kammassa paṭippassaddhiṁ yācati. Saṅgho seyyasakassa bhikkhuno niyassakammaṁ paṭippassambheti. Yassāyasmato khamati seyyasakassa bhikkhuno niyassassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+### 2.5. Nhóm Mười Tám Trường Hợp Không Được Thu Hồi
 
-Tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ seyyasako bhikkhu saṅghena niyassakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, niyassassa kammassa paṭippassaddhiṁ yācati. Saṅgho seyyasakassa bhikkhuno niyassakammaṁ paṭippassambheti. Yassāyasmato khamati seyyasakassa bhikkhuno niyassassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+11.2\. Này các tỳ kheo, không được *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ năm yếu tố sau: truyền giới cho người xuất gia, nhận làm thầy nương tựa, cho sa-di phục vụ, chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định vẫn tiếp tục giáo giới các tỳ kheo ni - này các tỳ kheo, không được *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ năm yếu tố này. {#11.2}
 
-Paṭippassaddhaṁ saṅghena seyyasakassa bhikkhuno niyassakammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ năm yếu tố khác: tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động buộc sống nương tựa*, phạm một *lỗi phạm* khác tương tự như vậy, phạm một *lỗi phạm* còn tệ hại hơn thế, chê trách *hành động [kỷ luật]* và chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, không được *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Niyassakammaṁ niṭṭhitaṁ dutiyaṁ.
+Này các tỳ kheo, không được *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ tám yếu tố sau: đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, đình chỉ lễ Pavāraṇā của vị ấy, đưa ra lời tuyên bố ngăn cản, đặt ra sự cáo buộc, buộc phải xin phép chất vấn, *nhắc nhở lỗi*, *làm cho nhớ lại* và gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ tám yếu tố này.
 
-## 3. Pabbājanīyakamma
+Kết thúc Nhóm Mười Tám Trường Hợp Không Được Thu Hồi.
 
-13.1\. Tena kho pana samayena assajipunabbasukā nāma kīṭāgirismiṁ āvāsikā honti alajjino pāpabhikkhū. Te evarūpaṁ anācāraṁ ācaranti—
+### 2.6. Nhóm Mười Tám Trường Hợp Được Thu Hồi
 
-mālāvacchaṁ ropentipi ropāpentipi, siñcantipi siñcāpentipi, ocinantipi ocināpentipi, ganthentipi ganthāpentipi, ekatovaṇṭikamālaṁ karontipi kārāpentipi, ubhatovaṇṭikamālaṁ karontipi kārāpentipi, mañjarikaṁ karontipi kārāpentipi, vidhūtikaṁ karontipi kārāpentipi, vaṭaṁsakaṁ karontipi kārāpentipi, āveḷaṁ karontipi kārāpentipi, uracchadaṁ karontipi kārāpentipi. Te kulitthīnaṁ kuladhītānaṁ kulakumārīnaṁ kulasuṇhānaṁ kuladāsīnaṁ ekatovaṇṭikamālaṁ harantipi harāpentipi, ubhatovaṇṭikamālaṁ harantipi harāpentipi, mañjarikaṁ harantipi harāpentipi, vidhūtikaṁ harantipi harāpentipi, vaṭaṁsakaṁ harantipi harāpentipi, āveḷaṁ harantipi harāpentipi, uracchadaṁ harantipi harāpentipi.
+Này các tỳ kheo, nên *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ năm yếu tố sau: không truyền giới cho người xuất gia, không nhận làm thầy nương tựa, không cho sa-di phục vụ, không chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định cũng không giáo giới các tỳ kheo ni - này các tỳ kheo, nên *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Te kulitthīhi kuladhītāhi kulakumārīhi kulasuṇhāhi kuladāsīhi saddhiṁ ekabhājanepi bhuñjanti, ekathālakepi pivanti, ekāsanepi nisīdanti, ekamañcepi tuvaṭṭenti, ekattharaṇāpi tuvaṭṭenti, ekapāvuraṇāpi tuvaṭṭenti, ekattharaṇapāvuraṇāpi tuvaṭṭenti, vikālepi bhuñjanti, majjampi pivanti, mālāgandhavilepanampi dhārenti, naccantipi, gāyantipi, vādentipi, lāsentipi; naccantiyāpi naccanti, naccantiyāpi gāyanti, naccantiyāpi vādenti, naccantiyāpi lāsenti; gāyantiyāpi naccanti, gāyantiyāpi gāyanti, gāyantiyāpi vādenti, gāyantiyāpi lāsenti; vādentiyāpi naccanti, vādentiyāpi gāyanti, vādentiyāpi vādenti, vādentiyāpi lāsenti; lāsentiyāpi naccanti, lāsentiyāpi gāyanti, lāsentiyāpi vādenti, lāsentiyāpi lāsenti;
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ năm yếu tố khác: không tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động buộc sống nương tựa*, không phạm một *lỗi phạm* khác tương tự như vậy, không phạm một *lỗi phạm* còn tệ hại hơn thế, không chê trách *hành động [kỷ luật]* và không chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, nên *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ năm yếu tố này.
 
-13.2\. aṭṭhapadepi kīḷanti, dasapadepi kīḷanti, ākāsepi kīḷanti, parihārapathepi kīḷanti, santikāyapi kīḷanti, khalikāyapi kīḷanti, ghaṭikāyapi kīḷanti, salākahatthenapi kīḷanti, akkhenapi kīḷanti, paṅgacīrenapi kīḷanti, vaṅkakenapi kīḷanti, mokkhacikāyapi kīḷanti, ciṅgulakenapi kīḷanti, pattāḷhakenapi kīḷanti, rathakenapi kīḷanti, dhanukenapi kīḷanti, akkharikāyapi kīḷanti, manesikāyapi kīḷanti, yathāvajjenapi kīḷanti;
+Này các tỳ kheo, nên *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ tám yếu tố sau: không đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, không đình chỉ lễ Pavāraṇā của vị ấy, không đưa ra lời tuyên bố ngăn cản, không đặt ra sự cáo buộc, không buộc phải xin phép chất vấn, không *nhắc nhở lỗi*, không *làm cho nhớ lại* và không gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động buộc sống nương tựa* đối với tỳ kheo hội đủ tám yếu tố này.
 
-hatthismimpi sikkhanti, assasmimpi sikkhanti, rathasmimpi sikkhanti, dhanusmimpi sikkhanti, tharusmimpi sikkhanti; hatthissapi purato dhāvanti, assassapi purato dhāvanti, rathassapi purato dhāvantipi ādhāvantipi; usseḷentipi, apphoṭentipi, nibbujjhantipi, muṭṭhīhipi yujjhanti; raṅgamajjhepi saṅghāṭiṁ pattharitvā naccakiṁ evaṁ vadanti— “idha, bhagini, naccassū”ti; nalāṭikampi denti; vividhampi anācāraṁ ācaranti.
+Kết thúc Nhóm Mười Tám Trường Hợp Được Thu Hồi.
 
-13.3\. Tena kho pana samayena aññataro bhikkhu kāsīsu vassaṁvuṭṭho sāvatthiṁ gacchanto bhagavantaṁ dassanāya yena kīṭāgiri tadavasari. Atha kho so bhikkhu pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya kīṭāgiriṁ piṇḍāya pāvisi pāsādikena abhikkantena paṭikkantena ālokitena vilokitena samiñjitena pasāritena, okkhittacakkhu iriyāpathasampanno. Manussā taṁ bhikkhuṁ passitvā evamāhaṁsu— “kvāyaṁ abalabalo viya mandamando viya bhākuṭikabhākuṭiko viya? Ko imassa upagatassa piṇḍakampi dassati? Amhākaṁ pana ayyā assajipunabbasukā saṇhā sakhilā sukhasambhāsā mihitapubbaṅgamā ehisvāgatavādino abbhākuṭikā uttānamukhā pubbabhāsino. Tesaṁ kho nāma piṇḍo dātabbo”ti.
+12.1\. Và này các tỳ kheo, cần phải *thu hồi* như sau: Tỳ kheo Seyyasaka ấy phải đến trước Tăng đoàn, đắp y vai trái, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi chồm hổm, chắp tay và thưa như vầy: "Bạch chư tôn đức, con bị Tăng đoàn thi hành *hành động buộc sống nương tựa*, nay đã *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc sống nương tựa*." Cần thỉnh cầu lần thứ hai. Cần thỉnh cầu lần thứ ba. Sau đó, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau: {#12.1}
 
-Addasā kho aññataro upāsako taṁ bhikkhuṁ kīṭāgirismiṁ piṇḍāya carantaṁ; disvāna yena so bhikkhu tenupasaṅkami, upasaṅkamitvā taṁ bhikkhuṁ abhivādetvā etadavoca— “api, bhante, piṇḍo labbhatī”ti?
+12.2\. "Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Seyyasaka này bị Tăng đoàn thi hành *hành động buộc sống nương tựa*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc sống nương tựa*. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy *thu hồi* *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka. Đây là *lời đề xuất*. {#12.2}
 
-“Na kho, āvuso, piṇḍo labbhatī”ti.
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Seyyasaka này bị Tăng đoàn thi hành *hành động buộc sống nương tựa*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc sống nương tựa*. Tăng đoàn *thu hồi* *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka. Tôn giả nào đồng ý việc *thu hồi* *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-“Ehi, bhante, gharaṁ gamissāmā”ti.
+Lần thứ hai tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Seyyasaka này bị Tăng đoàn thi hành *hành động buộc sống nương tựa*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc sống nương tựa*. Tăng đoàn *thu hồi* *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka. Tôn giả nào đồng ý việc *thu hồi* *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-13.4\. Atha kho so upāsako taṁ bhikkhuṁ gharaṁ netvā bhojetvā etadavoca— “kahaṁ, bhante, ayyo gamissatī”ti?
+Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Seyyasaka này bị Tăng đoàn thi hành *hành động buộc sống nương tựa*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc sống nương tựa*. Tăng đoàn *thu hồi* *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka. Tôn giả nào đồng ý việc *thu hồi* *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-“Sāvatthiṁ kho ahaṁ, āvuso, gamissāmi bhagavantaṁ dassanāyā”ti.
+Tăng đoàn đã *thu hồi* xong *hành động buộc sống nương tựa* cho tỳ kheo Seyyasaka. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-“Tena hi, bhante, mama vacanena bhagavato pāde sirasā vanda, evañca vadehi— ‘duṭṭho, bhante, kīṭāgirismiṁ āvāso. Assajipunabbasukā nāma kīṭāgirismiṁ āvāsikā alajjino pāpabhikkhū. Te evarūpaṁ anācāraṁ ācaranti— mālāvacchaṁ ropentipi ropāpentipi, siñcantipi siñcāpentipi, ocinantipi ocināpentipi, ganthentipi ganthāpentipi, ekatovaṇṭikamālaṁ karontipi kārāpentipi, ubhatovaṇṭikamālaṁ karontipi kārāpentipi, mañjarikaṁ karontipi kārāpentipi, vidhūtikaṁ karontipi kārāpentipi, vaṭaṁsakaṁ karontipi kārāpentipi, āveḷaṁ karontipi kārāpentipi, uracchadaṁ karontipi kārāpentipi. Te kulitthīnaṁ kuladhītānaṁ kulakumārīnaṁ kulasuṇhānaṁ kuladāsīnaṁ ekatovaṇṭikamālaṁ harantipi harāpentipi, ubhatovaṇṭikamālaṁ harantipi harāpentipi, mañjarikaṁ harantipi harāpentipi, vidhūtikaṁ harantipi harāpentipi, vaṭaṁsakaṁ harantipi harāpentipi, āveḷaṁ harantipi harāpentipi, uracchadaṁ harantipi harāpentipi.
+Kết thúc Hành Động Buộc Sống Nương Tựa thứ hai.
 
-Te kulitthīhi kuladhītāhi kulakumārīhi kulasuṇhāhi kuladāsīhi saddhiṁ ekabhājanepi bhuñjanti, ekathālakepi pivanti, ekāsanepi nisīdanti, ekamañcepi tuvaṭṭenti, ekattharaṇāpi tuvaṭṭenti, ekapāvuraṇāpi tuvaṭṭenti, ekattharaṇapāvuraṇāpi tuvaṭṭenti, vikālepi bhuñjanti, majjampi pivanti, mālāgandhavilepanampi dhārenti, naccantipi, gāyantipi, vādentipi, lāsentipi; naccantiyāpi naccanti, naccantiyāpi gāyanti, naccantiyāpi vādenti, naccantiyāpi lāsenti …pe… (cakkaṁ kātabbaṁ). Lāsentiyāpi naccanti, lāsentiyāpi gāyanti, lāsentiyāpi vādenti, lāsentiyāpi lāsenti; aṭṭhapadepi kīḷanti, dasapadepi kīḷanti, ākāsepi kīḷanti, parihārapathepi kīḷanti, santikāyapi kīḷanti, khalikāyapi kīḷanti, ghaṭikāyapi kīḷanti, salākahatthenapi kīḷanti, akkhenapi kīḷanti, paṅgacīrenapi kīḷanti, vaṅkakenapi kīḷanti, mokkhacikāyapi kīḷanti, ciṅgulakenapi kīḷanti, pattāḷhakenapi kīḷanti, rathakenapi kīḷanti, dhanukenapi kīḷanti, akkharikāyapi kīḷanti, manesikāyapi kīḷanti, yathāvajjenapi kīḷanti; hatthismimpi sikkhanti, assasmimpi sikkhanti, rathasmimpi sikkhanti, dhanusmimpi sikkhanti, tharusmimpi sikkhanti; hatthissapi purato dhāvanti, assassapi purato dhāvanti, rathassapi purato dhāvantipi ādhāvantipi; usseḷentipi, apphoṭentipi, nibbujjhantipi, muṭṭhīhipi yujjhanti; raṅgamajjhepi saṅghāṭiṁ pattharitvā naccakiṁ evaṁ vadanti— “idha, bhagini, naccassū”ti; nalāṭikampi denti; vividhampi anācāraṁ ācaranti. Yepi te, bhante, manussā pubbe saddhā ahesuṁ pasannā tepi etarahi assaddhā appasannā. Yānipi tāni saṅghassa pubbe dānapathāni tānipi etarahi upacchinnāni. Riñcanti pesalā bhikkhū, nivasanti pāpabhikkhū. Sādhu, bhante, bhagavā kīṭāgiriṁ bhikkhū pahiṇeyya, yathāyaṁ kīṭāgirismiṁ āvāso saṇṭhaheyyā’”ti.
+## 3. Hành Động Trục Xuất
+*(Pabbājanīyakamma)*
 
-13.5\. “Evamāvuso”ti kho so bhikkhu tassa upāsakassa paṭissuṇitvā uṭṭhāyāsanā yena sāvatthi tena pakkāmi. Anupubbena yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Āciṇṇaṁ kho panetaṁ buddhānaṁ bhagavantānaṁ āgantukehi bhikkhūhi saddhiṁ paṭisammodituṁ. Atha kho bhagavā taṁ bhikkhuṁ etadavoca— “kacci, bhikkhu, khamanīyaṁ, kacci yāpanīyaṁ, kaccisi appakilamathena addhānaṁ āgato, kuto ca tvaṁ bhikkhu āgacchasī”ti?
+13.1\. Lúc bấy giờ, tại Kīṭāgiri có các tỳ kheo thường trú tên là Assaji và Punabbasuka, những kẻ trơ trẽn và tồi tệ. Họ thực hành những hành vi thiếu đứng đắn như sau: {#13.1}
 
-“Khamanīyaṁ, bhagavā, yāpanīyaṁ, bhagavā; appakilamathena ca ahaṁ, bhante, addhānaṁ āgato. Idhāhaṁ, bhante, kāsīsu vassaṁvuṭṭho sāvatthiṁ āgacchanto bhagavantaṁ dassanāya yena kīṭāgiri tadavasariṁ. Atha khvāhaṁ, bhante, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya kīṭāgiriṁ piṇḍāya pāvisiṁ. Addasā kho maṁ, bhante, aññataro upāsako kīṭāgirismiṁ piṇḍāya carantaṁ; disvāna yenāhaṁ tenupasaṅkami, upasaṅkamitvā maṁ abhivādetvā etadavoca— ‘api, bhante, piṇḍo labbhatī’ti. ‘Na kho, āvuso, piṇḍo labbhatī’ti. ‘Ehi, bhante, gharaṁ gamissāmā’ti. Atha kho, bhante, so upāsako maṁ gharaṁ netvā bhojetvā etadavoca— ‘kahaṁ, bhante, ayyo gamissatī’ti? ‘Sāvatthiṁ kho ahaṁ, āvuso, gamissāmi bhagavantaṁ dassanāyā’ti. ‘Tena hi, bhante, mama vacanena bhagavato pāde sirasā vanda, evañca vadehi— “duṭṭho, bhante, kīṭāgirismiṁ āvāso. Assajipunabbasukā nāma kīṭāgirismiṁ āvāsikā alajjino pāpabhikkhū. Te evarūpaṁ anācāraṁ ācaranti— mālāvacchaṁ ropentipi ropāpentipi …pe… vividhampi anācāraṁ ācaranti. Yepi te, bhante, manussā pubbe saddhā ahesuṁ pasannā tepi etarahi assaddhā appasannā. Yānipi tāni saṅghassa pubbe dānapathāni tānipi etarahi upacchinnāni. Riñcanti pesalā bhikkhū, nivasanti pāpabhikkhū. Sādhu, bhante, bhagavā kīṭāgiriṁ bhikkhū pahiṇeyya, yathāyaṁ kīṭāgirismiṁ āvāso saṇṭhaheyyā”’ti. Tato ahaṁ, bhagavā, āgacchāmī”ti.
+Tự mình trồng hoặc bảo người trồng cây hoa, tự mình tưới hoặc bảo người tưới, tự mình hái hoặc bảo người hái, tự mình kết hoặc bảo người kết, tự mình làm hoặc bảo người làm vòng hoa một mặt, vòng hoa hai mặt, chùm hoa, dải hoa thả, vòng hoa cài đầu, tràng hoa quấn và tràng hoa đeo ngực. Họ tự mình mang hoặc bảo người mang những vòng hoa một mặt, vòng hoa hai mặt, chùm hoa, dải hoa thả, vòng hoa cài đầu, tràng hoa quấn và tràng hoa đeo ngực đến cho các phụ nữ, con gái, thiếu nữ, con dâu và nữ tỳ trong các gia đình.
 
-13.6\. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “saccaṁ kira, bhikkhave, assajipunabbasukā nāma kīṭāgirismiṁ āvāsikā alajjino pāpabhikkhū? Te evarūpaṁ anācāraṁ ācaranti— mālāvacchaṁ ropentipi …pe… vividhampi anācāraṁ ācaranti? Yepi te manussā pubbe saddhā ahesuṁ pasannā tepi etarahi assaddhā appasannā? Yānipi tāni saṅghassa pubbe dānapathāni tānipi etarahi upacchinnāni? Riñcanti pesalā bhikkhū, nivasanti pāpabhikkhū”ti?
+Họ ăn chung một bát, uống chung một chén, ngồi chung một chỗ, nằm chung một giường, nằm chung một tấm trải, đắp chung một tấm chăn và nằm chung cả tấm trải lẫn tấm chăn với các phụ nữ, con gái, thiếu nữ, con dâu và nữ tỳ trong các gia đình; lại ăn phi thời, uống rượu, mang vòng hoa, dầu thơm và đồ trang điểm; tự mình nhảy múa, ca hát, chơi nhạc và làm điệu múa; rồi còn nhảy múa theo người nữ đang múa, ca hát theo người nữ đang múa, chơi nhạc theo người nữ đang múa, làm điệu theo người nữ đang múa; nhảy múa theo người nữ đang hát, ca hát theo người nữ đang hát, chơi nhạc theo người nữ đang hát, làm điệu theo người nữ đang hát; nhảy múa theo người nữ đang chơi nhạc, ca hát theo người nữ đang chơi nhạc, chơi nhạc theo người nữ đang chơi nhạc, làm điệu theo người nữ đang chơi nhạc; nhảy múa theo người nữ đang làm điệu múa, ca hát theo người nữ đang làm điệu múa, chơi nhạc theo người nữ đang làm điệu múa và làm điệu theo người nữ đang làm điệu múa.
 
-“Saccaṁ, bhagavā”ti.
+13.2\. Họ chơi cờ tám ô, chơi cờ mười ô, chơi cờ tưởng tượng trên không, chơi nhảy lò cò tránh vạch, chơi ném sỏi, chơi xúc xắc, chơi đánh khăng, chơi vẽ tay bằng mực, chơi đánh bi, chơi thổi kèn lá, chơi cày đồ chơi, chơi nhào lộn, chơi chong chóng, chơi đong cát bằng lá, chơi xe đồ chơi, chơi cung tên nhỏ, chơi đoán chữ, chơi đoán ý nghĩ và chơi bắt chước tật người khác. {#13.2}
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ …pe… kathañhi nāma te, bhikkhave, moghapurisā evarūpaṁ anācāraṁ ācarissanti— mālāvacchaṁ ropessantipi ropāpessantipi, siñcissantipi siñcāpessantipi, ocinissantipi ocināpessantipi, ganthessantipi ganthāpessantipi, ekatovaṇṭikamālaṁ karissantipi kārāpessantipi, ubhatovaṇṭikamālaṁ karissantipi kārāpessantipi, mañjarikaṁ karissantipi kārāpessantipi, vidhūtikaṁ karissantipi kārāpessantipi, vaṭaṁsakaṁ karissantipi kārāpessantipi, āveḷaṁ karissantipi kārāpessantipi, uracchadaṁ karissantipi kārāpessantipi. Te kulitthīnaṁ kuladhītānaṁ kulakumārīnaṁ kulasuṇhānaṁ kuladāsīnaṁ ekatovaṇṭikamālaṁ harissantipi harāpessantipi, ubhatovaṇṭikamālaṁ harissantipi harāpessantipi, mañjarikaṁ harissantipi harāpessantipi, vidhūtikaṁ harissantipi harāpessantipi, vaṭaṁsakaṁ harissantipi harāpessantipi, āveḷaṁ harissantipi harāpessantipi, uracchadaṁ harissantipi harāpessantipi. Te kulitthīhi kuladhītāhi kulakumārīhi kulasuṇhāhi kuladāsīhi saddhiṁ ekabhājanepi bhuñjissanti, ekathālakepi pivissanti, ekāsanepi nisīdissanti, ekamañcepi tuvaṭṭissanti, ekattharaṇāpi tuvaṭṭissanti, ekapāvuraṇāpi tuvaṭṭissanti, ekattharaṇapāvuraṇāpi tuvaṭṭissanti, vikālepi bhuñjissanti, majjampi pivissanti, mālāgandhavilepanampi dhāressanti, naccissantipi, gāyissantipi, vādessantipi, lāsessantipi; naccantiyāpi naccissanti, naccantiyāpi gāyissanti, naccantiyāpi vādessanti, naccantiyāpi lāsessanti; gāyantiyāpi naccissanti, gāyantiyāpi gāyissanti, gāyantiyāpi vādessanti, gāyantiyāpi lāsessanti; vādentiyāpi naccissanti, vādentiyāpi gāyissanti, vādentiyāpi vādessanti, vādentiyāpi lāsessanti; lāsentiyāpi naccissanti, lāsentiyāpi gāyissanti, lāsentiyāpi vādessanti, lāsentiyāpi lāsessanti; aṭṭhapadepi kīḷissanti, dasapadepi kīḷissanti, ākāsepi kīḷissanti, parihārapathepi kīḷissanti, santikāyapi kīḷissanti, khalikāyapi kīḷissanti, ghaṭikāyapi kīḷissanti, salākahatthenapi kīḷissanti, akkhenapi kīḷissanti, paṅgacīrenapi kīḷissanti, vaṅkakenapi kīḷissanti mokkhacikāyapi kīḷissanti, ciṅgulakenapi kīḷissanti, pattāḷhakenapi kīḷissanti, rathakenapi kīḷissanti, dhanukenapi kīḷissanti, akkharikāyapi kīḷissanti, manesikāyapi kīḷissanti, yathāvajjenapi kīḷissanti; hatthismimpi sikkhissanti, assasmimpi sikkhissanti, rathasmimpi sikkhissanti, dhanusmimpi sikkhissanti, tharusmimpi sikkhissanti; hatthissapi purato dhāvissanti, assassapi purato dhāvissanti, rathassapi purato dhāvissantipi ādhāvissantipi; usseḷessantipi, apphoṭessantipi, nibbujjhissantipi, muṭṭhīhipi yujjhissanti; raṅgamajjhepi saṅghāṭiṁ pattharitvā naccakiṁ evaṁ vakkhanti— ‘idha, bhagini, naccassū’ti; nalāṭikampi dassanti; vividhampi anācāraṁ ācarissanti. (…) Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā sāriputtamoggallāne āmantesi— “gacchatha tumhe, sāriputtā, kīṭāgiriṁ gantvā assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyakammaṁ karotha, tumhākaṁ ete saddhivihārino”ti.
+Họ tập cưỡi voi, tập cưỡi ngựa, tập đánh xe, tập bắn cung và tập đấu kiếm; chạy trước voi, chạy trước ngựa, chạy trước và đuổi theo xe chiến; huýt sáo, vỗ tay khiêu khích, đấu vật và đánh đấm bằng tay không; trải tấm tăng-già-lê giữa sân khấu rồi bảo vũ nữ rằng: "Này chị em, hãy múa ở đây đi!", tặng đồ trang sức đeo trán và làm đủ mọi hành vi thiếu đứng đắn khác.
 
-“Kathaṁ mayaṁ, bhante, assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyakammaṁ karoma, caṇḍā te bhikkhū pharusā”ti?
+13.3\. Lúc bấy giờ, có một tỳ kheo sau khi an cư mùa mưa ở xứ Kāsī đang trên đường đến Sāvatthī để yết kiến Đức Thế Tôn, ghé qua Kīṭāgiri. Sáng hôm ấy, vị tỳ kheo đắp y, cầm bát và đi vào Kīṭāgiri để khất thực với dáng vẻ trang nghiêm, bước tới bước lui, nhìn thẳng nhìn quanh, co tay duỗi tay đều đặn, mắt nhìn xuống và giữ gìn oai nghi trọn vẹn. Người dân thấy vị tỳ kheo ấy liền nói: {#13.3}
 
-“Tena hi tumhe, sāriputtā, bahukehi bhikkhūhi saddhiṁ gacchathā”ti.
+– Kẻ này từ đâu tới mà trông như người yếu ớt, chậm chạp và cau có thế kia? Ai mà thèm cho đồ ăn khất thực khi hắn đến? Còn các tôn giả Assaji và Punabbasuka của chúng ta mới thật nhẹ nhàng, hòa nhã, dễ trò chuyện, luôn mỉm cười trước, nói lời chào đón "xin mời vào, hoan nghênh", không cau có, nét mặt cởi mở và chủ động bắt chuyện trước. Đúng ra phải cúng dường vật thực cho các vị ấy mới phải!
 
-“Evaṁ, bhante”ti kho sāriputtamoggallānā bhagavato paccassosuṁ.
+Có một nam cư sĩ trông thấy vị tỳ kheo ấy đang đi khất thực tại Kīṭāgiri, liền đi đến, đảnh lễ vị tỳ kheo ấy rồi hỏi:
 
-13.7\. “Evañca pana, bhikkhave, kātabbaṁ— paṭhamaṁ assajipunabbasukā bhikkhū codetabbā, codetvā sāretabbā, sāretvā āpattiṁ āropetabbā, āpattiṁ āropetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+– Thưa ngài, ngài có xin được vật thực không?
 
-‘Suṇātu me, bhante, saṅgho. Ime assajipunabbasukā bhikkhū kuladūsakā pāpasamācārā. Imesaṁ pāpakā samācārā dissanti ceva suyyanti ca. Kulāni ca imehi duṭṭhāni dissanti ceva suyyanti ca. Yadi saṅghassa pattakallaṁ, saṅgho assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyakammaṁ kareyya— na assajipunabbasukehi bhikkhūhi kīṭāgirismiṁ vatthabbanti. Esā ñatti.
+– Này hiền giả, không xin được vật thực.
 
-Suṇātu me, bhante, saṅgho. Ime assajipunabbasukā bhikkhū kuladūsakā pāpasamācārā. Imesaṁ pāpakā samācārā dissanti ceva suyyanti ca. Kulāni ca imehi duṭṭhāni dissanti ceva suyyanti ca. Saṅgho assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyakammaṁ karoti— na assajipunabbasukehi bhikkhūhi kīṭāgirismiṁ vatthabbanti. Yassāyasmato khamati assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyassa kammassa karaṇaṁ—na assajipunabbasukehi bhikkhūhi kīṭāgirismiṁ vatthabbanti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+– Thưa ngài, xin mời ngài về nhà con.
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi. Suṇātu me, bhante, saṅgho. Ime assajipunabbasukā bhikkhū kuladūsakā pāpasamācārā. Imesaṁ pāpakā samācārā dissanti ceva suyyanti ca. Kulāni ca imehi duṭṭhāni dissanti ceva suyyanti ca. Saṅgho assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyakammaṁ karoti— na assajipunabbasukehi bhikkhūhi kīṭāgirismiṁ vatthabbanti. Yassāyasmato khamati assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyassa kammassa karaṇaṁ—na assajipunabbasukehi bhikkhūhi kīṭāgirismiṁ vatthabbanti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+13.4\. Nam cư sĩ ấy mời vị tỳ kheo về nhà, dâng thức ăn xong rồi hỏi: {#13.4}
 
-Kataṁ saṅghena assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyakammaṁ— na assajipunabbasukehi bhikkhūhi kīṭāgirismiṁ vatthabbanti. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+– Thưa ngài, ngài định đi đâu?
 
-### 3.1. Adhammakammadvādasaka {#3.1}
+– Này hiền giả, tôi đang đi đến Sāvatthī để yết kiến Đức Thế Tôn.
 
-14.1\. “Tīhi, bhikkhave, aṅgehi samannāgataṁ pabbājanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, appaṭipucchā kataṁ hoti, appaṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ pabbājanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+– Vậy thì thưa ngài, xin hãy nhân danh con cúi đầu đảnh lễ dưới chân Đức Thế Tôn và bạch rằng: "Bạch Đức Thế Tôn, trú xứ tại Kīṭāgiri đã bị hư hỏng rồi. Tại Kīṭāgiri có các tỳ kheo thường trú tên là Assaji và Punabbasuka, những kẻ trơ trẽn và tồi tệ. Họ thực hành những hành vi thiếu đứng đắn như sau: tự mình trồng hoặc bảo người trồng cây hoa, tự mình tưới hoặc bảo người tưới, tự mình hái hoặc bảo người hái, tự mình kết hoặc bảo người kết, tự mình làm hoặc bảo người làm vòng hoa một mặt, vòng hoa hai mặt, chùm hoa, dải hoa thả, vòng hoa cài đầu, tràng hoa quấn và tràng hoa đeo ngực. Họ tự mình mang hoặc bảo người mang những vòng hoa một mặt, vòng hoa hai mặt, chùm hoa, dải hoa thả, vòng hoa cài đầu, tràng hoa quấn và tràng hoa đeo ngực đến cho các phụ nữ, con gái, thiếu nữ, con dâu và nữ tỳ trong các gia đình.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ pabbājanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Anāpattiyā kataṁ hoti, adesanāgāminiyā āpattiyā kataṁ hoti, desitāya āpattiyā kataṁ hoti …pe…
+Họ ăn chung một bát, uống chung một chén, ngồi chung một chỗ, nằm chung một giường, nằm chung một tấm trải, đắp chung một tấm chăn và nằm chung cả tấm trải lẫn tấm chăn với các phụ nữ, con gái, thiếu nữ, con dâu và nữ tỳ trong các gia đình; lại ăn phi thời, uống rượu, mang vòng hoa, dầu thơm và đồ trang điểm; tự mình nhảy múa, ca hát, chơi nhạc và làm điệu múa; rồi còn nhảy múa theo người nữ đang múa, ca hát theo người nữ đang múa, chơi nhạc theo người nữ đang múa, làm điệu theo người nữ đang múa [...lặp lại theo chu kỳ như trên...]. Làm điệu theo người nữ đang làm điệu múa; chơi cờ tám ô, chơi cờ mười ô, chơi cờ tưởng tượng trên không, chơi nhảy lò cò tránh vạch, chơi ném sỏi, chơi xúc xắc, chơi đánh khăng, chơi vẽ tay bằng mực, chơi đánh bi, chơi thổi kèn lá, chơi cày đồ chơi, chơi nhào lộn, chơi chong chóng, chơi đong cát bằng lá, chơi xe đồ chơi, chơi cung tên nhỏ, chơi đoán chữ, chơi đoán ý nghĩ và chơi bắt chước tật người khác; tập cưỡi voi, tập cưỡi ngựa, tập đánh xe, tập bắn cung và tập đấu kiếm; chạy trước voi, chạy trước ngựa, chạy trước và đuổi theo xe chiến; huýt sáo, vỗ tay khiêu khích, đấu vật và đánh đấm bằng tay không; trải tấm tăng-già-lê giữa sân khấu rồi bảo vũ nữ rằng: 'Này chị em, hãy múa ở đây đi!'; tặng đồ trang sức đeo trán và làm đủ mọi hành vi thiếu đứng đắn khác. Bạch Đức Thế Tôn, những người dân trước kia vốn có lòng tin và *niềm tin tuyệt đối* thì nay trở nên mất lòng tin và mất *niềm tin tuyệt đối*. Những nguồn cúng dường trước kia dành cho Tăng đoàn nay cũng bị cắt đứt hết. Các tỳ kheo đức hạnh bỏ đi hết, chỉ còn các tỳ kheo xấu xa ở lại. Bạch Đức Thế Tôn, xin Đức Thế Tôn hãy cử các tỳ kheo đến Kīṭāgiri để ổn định lại trú xứ tại Kīṭāgiri này."
 
-acodetvā kataṁ hoti, asāretvā kataṁ hoti, āpattiṁ anāropetvā kataṁ hoti …pe…
+13.5\. Vị tỳ kheo nhận lời nam cư sĩ ấy: "Được rồi, hiền giả", rồi đứng dậy rời đi về hướng Sāvatthī. Tuần tự đi đến khu rừng Jetavana, tu viện của ông Anāthapiṇḍika tại Sāvatthī, vị ấy đến gặp Đức Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Theo thông lệ, chư Phật Thế Tôn thường thăm hỏi thân mật các tỳ kheo khách phương xa đến. Đức Thế Tôn liền hỏi vị tỳ kheo ấy: {#13.5}
 
-asammukhā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Này tỳ kheo, thầy có được khỏe mạnh không? Có sinh sống ổn thỏa không? Trên đường đi có bớt mệt nhọc không? Và thầy từ đâu đến đây?
 
-appaṭipucchā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Bạch Đức Thế Tôn, con vẫn khỏe mạnh, sinh sống ổn thỏa và trên đường đi cũng ít mệt nhọc. Bạch ngài, sau khi an cư mùa mưa ở xứ Kāsī, trên đường đến Sāvatthī để yết kiến Đức Thế Tôn, con ghé qua Kīṭāgiri. Sáng hôm ấy, con đắp y, cầm bát và đi vào Kīṭāgiri để khất thực. Một nam cư sĩ thấy con đang đi khất thực tại Kīṭāgiri, liền đi đến, đảnh lễ con rồi hỏi: "Thưa ngài, ngài có xin được vật thực không?" Con đáp: "Này hiền giả, không xin được vật thực." Ông ấy bảo: "Thưa ngài, xin mời ngài về nhà con." Bạch ngài, nam cư sĩ ấy mời con về nhà, dâng thức ăn xong rồi hỏi: "Thưa ngài, ngài định đi đâu?" Con đáp: "Này hiền giả, tôi đang đi đến Sāvatthī để yết kiến Đức Thế Tôn." Ông ấy liền nói: "Vậy thì thưa ngài, xin hãy nhân danh con cúi đầu đảnh lễ dưới chân Đức Thế Tôn và bạch rằng: 'Bạch Đức Thế Tôn, trú xứ tại Kīṭāgiri đã bị hư hỏng rồi. Tại Kīṭāgiri có các tỳ kheo thường trú tên là Assaji và Punabbasuka, những kẻ trơ trẽn và tồi tệ. Họ thực hành những hành vi thiếu đứng đắn như sau: tự mình trồng hoặc bảo người trồng cây hoa [...lặp lại...] và làm đủ mọi hành vi thiếu đứng đắn khác. Bạch Đức Thế Tôn, những người dân trước kia vốn có lòng tin và *niềm tin tuyệt đối* thì nay trở nên mất lòng tin và mất *niềm tin tuyệt đối*. Những nguồn cúng dường trước kia dành cho Tăng đoàn nay cũng bị cắt đứt hết. Các tỳ kheo đức hạnh bỏ đi hết, chỉ còn các tỳ kheo xấu xa ở lại. Bạch Đức Thế Tôn, xin Đức Thế Tôn hãy cử các tỳ kheo đến Kīṭāgiri để ổn định lại trú xứ tại Kīṭāgiri này.'" Bạch Đức Thế Tôn, con từ nơi ấy đến đây.
 
-appaṭiññāya kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+13.6\. Nhân duyên khởi ấy và trong sự kiện ấy, Đức Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại rồi hỏi các tỳ kheo: {#13.6}
 
-anāpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Này các tỳ kheo, có thật là tại Kīṭāgiri có các tỳ kheo thường trú tên là Assaji và Punabbasuka, những kẻ trơ trẽn và tồi tệ, thực hành những hành vi thiếu đứng đắn như tự mình trồng cây hoa [...lặp lại...] và làm đủ mọi hành vi thiếu đứng đắn khác, khiến những người dân trước kia vốn có lòng tin và *niềm tin tuyệt đối* thì nay trở nên mất lòng tin và mất *niềm tin tuyệt đối*, những nguồn cúng dường trước kia dành cho Tăng đoàn nay bị cắt đứt hết, các tỳ kheo đức hạnh bỏ đi hết và chỉ còn các tỳ kheo xấu xa ở lại không?
 
-adesanāgāminiyā āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Bạch Đức Thế Tôn, đúng là như vậy.
 
-desitāya āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Đức Phật Thế Tôn liền quở trách:
 
-acodetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Việc làm ấy thật không xứng đáng [...lặp lại...]. Này các tỳ kheo, sao những kẻ ngu dốt ấy lại có thể thực hành những hành vi thiếu đứng đắn như vậy: tự mình trồng hoặc bảo người trồng cây hoa, tự mình tưới hoặc bảo người tưới, tự mình hái hoặc bảo người hái, tự mình kết hoặc bảo người kết, tự mình làm hoặc bảo người làm vòng hoa một mặt, vòng hoa hai mặt, chùm hoa, dải hoa thả, vòng hoa cài đầu, tràng hoa quấn và tràng hoa đeo ngực; tự mình mang hoặc bảo người mang những vòng hoa một mặt, vòng hoa hai mặt, chùm hoa, dải hoa thả, vòng hoa cài đầu, tràng hoa quấn và tràng hoa đeo ngực đến cho các phụ nữ, con gái, thiếu nữ, con dâu và nữ tỳ trong các gia đình; ăn chung một bát, uống chung một chén, ngồi chung một chỗ, nằm chung một giường, nằm chung một tấm trải, đắp chung một tấm chăn và nằm chung cả tấm trải lẫn tấm chăn với các phụ nữ, con gái, thiếu nữ, con dâu và nữ tỳ trong các gia đình; ăn phi thời, uống rượu, mang vòng hoa, dầu thơm và đồ trang điểm; tự mình nhảy múa, ca hát, chơi nhạc và làm điệu múa; nhảy múa theo người nữ đang múa, ca hát theo người nữ đang múa, chơi nhạc theo người nữ đang múa, làm điệu theo người nữ đang múa; nhảy múa theo người nữ đang hát, ca hát theo người nữ đang hát, chơi nhạc theo người nữ đang hát, làm điệu theo người nữ đang hát; nhảy múa theo người nữ đang chơi nhạc, ca hát theo người nữ đang chơi nhạc, chơi nhạc theo người nữ đang chơi nhạc, làm điệu theo người nữ đang chơi nhạc; nhảy múa theo người nữ đang làm điệu múa, ca hát theo người nữ đang làm điệu múa, chơi nhạc theo người nữ đang làm điệu múa và làm điệu theo người nữ đang làm điệu múa; chơi cờ tám ô, chơi cờ mười ô, chơi cờ tưởng tượng trên không, chơi nhảy lò cò tránh vạch, chơi ném sỏi, chơi xúc xắc, chơi đánh khăng, chơi vẽ tay bằng mực, chơi đánh bi, chơi thổi kèn lá, chơi cày đồ chơi, chơi nhào lộn, chơi chong chóng, chơi đong cát bằng lá, chơi xe đồ chơi, chơi cung tên nhỏ, chơi đoán chữ, chơi đoán ý nghĩ và chơi bắt chước tật người khác; tập cưỡi voi, tập cưỡi ngựa, tập đánh xe, tập bắn cung và tập đấu kiếm; chạy trước voi, chạy trước ngựa, chạy trước và đuổi theo xe chiến; huýt sáo, vỗ tay khiêu khích, đấu vật và đánh đấm bằng tay không; trải tấm tăng-già-lê giữa sân khấu rồi bảo vũ nữ rằng: "Này chị em, hãy múa ở đây đi!", tặng đồ trang sức đeo trán và làm đủ mọi hành vi thiếu đứng đắn khác? Này các tỳ kheo, điều này không đem lại *niềm tin tuyệt đối* cho những người chưa có niềm tin [...lặp lại...].
 
-asāretvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Sau khi quở trách [...lặp lại...] và thuyết giảng bài *Giáo pháp* [...lặp lại...], Ngài gọi Sāriputta và Moggallāna lại và bảo:
 
-āpattiṁ anāropetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ pabbājanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+– Này Sāriputta và Moggallāna, hai thầy hãy đi đến Kīṭāgiri rồi thực hiện *hành động trục xuất* (khu tẩn yết-ma / pabbājanīyakammaṁ) các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri, vì họ là đệ tử đồng trú của hai thầy.
 
-Adhammakammadvādasakaṁ niṭṭhitaṁ.
+– Bạch Đức Thế Tôn, làm sao chúng con có thể thực hiện *hành động trục xuất* các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri được? Các tỳ kheo ấy rất hung hăng và thô bạo.
 
-### 3.2. Dhammakammadvādasaka {#3.2}
+– Vậy thì, này Sāriputta và Moggallāna, hai thầy hãy đi cùng với đông đảo các tỳ kheo.
 
-Tīhi, bhikkhave, aṅgehi samannāgataṁ pabbājanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, paṭipucchā kataṁ hoti, paṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ pabbājanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+– Xin vâng, bạch Đức Thế Tôn.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ pabbājanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiyā kataṁ hoti desanāgāminiyā āpattiyā kataṁ hoti adesitāya āpattiyā kataṁ hoti …pe…
+Sāriputta và Moggallāna vâng đáp Đức Thế Tôn.
 
-codetvā kataṁ hoti, sāretvā kataṁ hoti, āpattiṁ āropetvā kataṁ hoti …pe…
+13.7\. – Và này các tỳ kheo, cần phải thực hiện như sau: Trước tiên, các tỳ kheo nhóm Assaji và Punabbasuka phải được *nhắc nhở lỗi*; sau khi nhắc nhở lỗi, phải *làm cho nhớ lại*; sau khi làm cho nhớ lại, phải *quy kết lỗi phạm*; sau khi quy kết *lỗi phạm*, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau: {#13.7}
 
-sammukhā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+"Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Assaji và Punabbasuka này là những kẻ làm hư hỏng các gia đình tín thí và có hạnh kiểm xấu xa. Những hạnh kiểm xấu xa của họ đã được thấy và được nghe; các gia đình tín thí bị họ làm hư hỏng cũng đã được thấy và được nghe. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy thực hiện *hành động trục xuất* các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri với nội dung: 'Các tỳ kheo nhóm Assaji và Punabbasuka không được phép cư trú tại Kīṭāgiri nữa.' Đây là *lời đề xuất*.
 
-paṭipucchā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Assaji và Punabbasuka này là những kẻ làm hư hỏng các gia đình tín thí và có hạnh kiểm xấu xa. Những hạnh kiểm xấu xa của họ đã được thấy và được nghe; các gia đình tín thí bị họ làm hư hỏng cũng đã được thấy và được nghe. Tăng đoàn thực hiện *hành động trục xuất* các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri với nội dung: 'Các tỳ kheo nhóm Assaji và Punabbasuka không được phép cư trú tại Kīṭāgiri nữa.' Tôn giả nào đồng ý việc thực hiện *hành động trục xuất* các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri với nội dung 'Các tỳ kheo nhóm Assaji và Punabbasuka không được phép cư trú tại Kīṭāgiri nữa' thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-paṭiññāya kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Các tỳ kheo nhóm Assaji và Punabbasuka này là những kẻ làm hư hỏng các gia đình tín thí và có hạnh kiểm xấu xa. Những hạnh kiểm xấu xa của họ đã được thấy và được nghe; các gia đình tín thí bị họ làm hư hỏng cũng đã được thấy và được nghe. Tăng đoàn thực hiện *hành động trục xuất* các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri với nội dung: 'Các tỳ kheo nhóm Assaji và Punabbasuka không được phép cư trú tại Kīṭāgiri nữa.' Tôn giả nào đồng ý việc thực hiện *hành động trục xuất* các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri với nội dung 'Các tỳ kheo nhóm Assaji và Punabbasuka không được phép cư trú tại Kīṭāgiri nữa' thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Tăng đoàn đã thực hiện xong *hành động trục xuất* các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri với nội dung: 'Các tỳ kheo nhóm Assaji và Punabbasuka không được phép cư trú tại Kīṭāgiri nữa.' Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-desanāgāminiyā āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+### 3.1. Nhóm Mười Hai Hành Động Trái Quy Luật
 
-adesitāya āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+14.1\. Này các tỳ kheo, một *hành động trục xuất* hội đủ ba yếu tố sẽ là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi vắng mặt, được thực hiện khi không thẩm vấn, được thực hiện khi không có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động trục xuất* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. {#14.1}
 
-codetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, một *hành động trục xuất* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có *lỗi phạm*, được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* đã thú nhận rồi [...lặp lại...]
 
-sāretvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện khi chưa *quy kết lỗi phạm* [...lặp lại...]
 
-āpattiṁ āropetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ pabbājanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+được thực hiện khi vắng mặt, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Dhammakammadvādasakaṁ niṭṭhitaṁ.
+được thực hiện khi không thẩm vấn, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-### 3.3. Ākaṅkhamānacuddasaka {#3.3}
+được thực hiện khi không có sự thừa nhận, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Tīhi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện khi không có *lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Adhisīle sīlavipanno hoti, ajjhācāre ācāravipanno hoti, atidiṭṭhiyā diṭṭhivipanno hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện đối với *lỗi phạm* đã thú nhận rồi, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Kāyikena davena samannāgato hoti, vācasikena davena samannāgato hoti, kāyikavācasikena davena samannāgato hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Kāyikena anācārena samannāgato hoti, vācasikena anācārena samannāgato hoti, kāyikavācasikena anācārena samannāgato hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Kāyikena upaghātikena samannāgato hoti, vācasikena upaghātikena samannāgato hoti, kāyikavācasikena upaghātikena samannāgato hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện khi chưa *quy kết lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động trục xuất* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Kāyikena micchājīvena samannāgato hoti, vācasikena micchājīvena samannāgato hoti, kāyikavācasikena micchājīvena samannāgato hoti— imehi, kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+Kết thúc Nhóm Mười Hai Hành Động Trái Quy Luật.
 
-14.2\. Tiṇṇaṁ, bhikkhave, bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Eko bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; eko bālo hoti abyatto āpattibahulo anapadāno; eko gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+### 3.2. Nhóm Mười Hai Hành Động Đúng Quy Luật
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Eko adhisīle sīlavipanno hoti, eko ajjhācāre ācāravipanno hoti, eko atidiṭṭhiyā diṭṭhivipanno hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+Này các tỳ kheo, một *hành động trục xuất* hội đủ ba yếu tố sẽ là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có mặt, được thực hiện sau khi thẩm vấn, được thực hiện khi có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động trục xuất* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Eko buddhassa avaṇṇaṁ bhāsati, eko dhammassa avaṇṇaṁ bhāsati, eko saṅghassa avaṇṇaṁ bhāsati— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+Lại nữa, này các tỳ kheo, một *hành động trục xuất* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có *lỗi phạm*, được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* chưa thú nhận [...lặp lại...]
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Eko kāyikena davena samannāgato hoti, eko vācasikena davena samannāgato hoti, eko kāyikavācasikena davena samannāgato hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện sau khi *làm cho nhớ lại*, được thực hiện sau khi *quy kết lỗi phạm* [...lặp lại...]
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Eko kāyikena anācārena samannāgato hoti, eko vācasikena anācārena samannāgato hoti, eko kāyikavācasikena anācārena samannāgato hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện khi có mặt, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Eko kāyikena upaghātikena samannāgato hoti, eko vācasikena upaghātikena samannāgato hoti, eko kāyikavācasikena upaghātikena samannāgato hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện sau khi thẩm vấn, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya. Eko kāyikena micchājīvena samannāgato hoti, eko vācasikena micchājīvena samannāgato hoti, eko kāyikavācasikena micchājīvena samannāgato hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pabbājanīyakammaṁ kareyya.
+được thực hiện khi có sự thừa nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Ākaṅkhamānacuddasakaṁ niṭṭhitaṁ.
+được thực hiện khi có *lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-### 3.4. Aṭṭhārasavatta {#3.4}
+được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-15.1\. Pabbājanīyakammakatena, bhikkhave, bhikkhunā sammā vattitabbaṁ. Tatrāyaṁ sammāvattanā—
+được thực hiện đối với *lỗi phạm* chưa thú nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Pabbājanīyakamme aṭṭhārasavattaṁ niṭṭhitaṁ.
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-16.1\. Atha kho sāriputtamoggallānappamukho bhikkhusaṅgho kīṭāgiriṁ gantvā assajipunabbasukānaṁ bhikkhūnaṁ kīṭāgirismā pabbājanīyakammaṁ akāsi— na assajipunabbasukehi bhikkhūhi kīṭāgirismiṁ vatthabbanti. Te saṅghena pabbājanīyakammakatā na sammā vattanti, na lomaṁ pātenti, na netthāraṁ vattanti; na bhikkhū khamāpenti, akkosanti, paribhāsanti; chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpenti; pakkamantipi, vibbhamantipi. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma assajipunabbasukā bhikkhū saṅghena pabbājanīyakammakatā na sammā vattissanti, na lomaṁ pātessanti, na netthāraṁ vattissanti; na bhikkhū khamāpessanti, akkosissanti, paribhāsissanti; chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpessanti; pakkamissantipi, vibbhamissantipī”ti.
+được thực hiện sau khi *làm cho nhớ lại*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “saccaṁ kira, bhikkhave, assajipunabbasukā bhikkhū saṅghena pabbājanīyakammakatā na sammā vattanti, na lomaṁ pātenti, na netthāraṁ vattanti; na bhikkhū khamāpenti, akkosanti, paribhāsanti; chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpenti; pakkamantipi, vibbhamantipī”ti?
+được thực hiện sau khi *quy kết lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động trục xuất* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-“Saccaṁ, bhagavā”ti.
+Kết thúc Nhóm Mười Hai Hành Động Đúng Quy Luật.
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ …pe… kathañhi nāma te, bhikkhave, moghapurisā saṅghena pabbājanīyakammakatā na sammā vattissanti, na lomaṁ pātessanti, na netthāraṁ vattissanti; na bhikkhū khamāpessanti, akkosissanti, paribhāsissanti; chandagāmitā dosagāmitā mohagāmitā bhayagāmitā pāpessanti; pakkamissantipi, vibbhamissantipi. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+### 3.3. Nhóm Mười Bốn Trường Hợp Tùy Ý Thi Hành
 
-“tena hi, bhikkhave, saṅgho pabbājanīyakammaṁ paṭippassambhetu.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với một tỳ kheo hội đủ ba yếu tố sau: là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-### 3.5. Nappaṭippassambhetabbaaṭṭhārasaka {#3.5}
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với một tỳ kheo hội đủ ba yếu tố khác: hư hỏng đạo đức trong giới luật căn bản, hư hỏng hành vi trong phép tắc ứng xử, hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-16.2\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ nappaṭippassambhetabbaṁ. Upasampādeti, nissayaṁ deti, sāmaṇeraṁ upaṭṭhāpeti, bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ nappaṭippassambhetabbaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với một tỳ kheo hội đủ ba yếu tố khác: nói lời chê bai Đức Phật, nói lời chê bai *Giáo pháp*, nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ nappaṭippassambhetabbaṁ. Yāya āpattiyā saṅghena pabbājanīyakammaṁ kataṁ hoti taṁ āpattiṁ āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ garahati, kammike garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ nappaṭippassambhetabbaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với một tỳ kheo hội đủ ba yếu tố khác: có sự đùa giỡn nghịch ngợm bằng thân, có sự đùa giỡn nghịch ngợm bằng lời nói, có sự đùa giỡn nghịch ngợm bằng cả thân lẫn lời nói - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno uposathaṁ ṭhapeti, pavāraṇaṁ ṭhapeti, savacanīyaṁ karoti, anuvādaṁ paṭṭhapeti, okāsaṁ kāreti, codeti, sāreti, bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ nappaṭippassambhetabbaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với một tỳ kheo hội đủ ba yếu tố khác: có hành vi thiếu đứng đắn bằng thân, có hành vi thiếu đứng đắn bằng lời nói, có hành vi thiếu đứng đắn bằng cả thân lẫn lời nói - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-Pabbājanīyakamme nappaṭippassambhetabbaaṭṭhārasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với một tỳ kheo hội đủ ba yếu tố khác: có hành vi *gây tổn hại* (tổn hại / upaghātikena) bằng thân, có hành vi *gây tổn hại* bằng lời nói, có hành vi *gây tổn hại* bằng cả thân lẫn lời nói - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-### 3.6. Paṭippassambhetabbaaṭṭhārasaka {#3.6}
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với một tỳ kheo hội đủ ba yếu tố khác: có *nghề nghiệp sai trái* (tà mạng / micchājīvena) bằng thân, có *nghề nghiệp sai trái* bằng lời nói, có *nghề nghiệp sai trái* bằng cả thân lẫn lời nói - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ paṭippassambhetabbaṁ. Na upasampādeti, na nissayaṁ deti, na sāmaṇeraṁ upaṭṭhāpeti, na bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo na ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ paṭippassambhetabbaṁ.
+14.2\. Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với ba hạng tỳ kheo sau: một vị là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; một vị là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; một vị sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*. {#14.2}
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ paṭippassambhetabbaṁ. Yāya āpattiyā saṅghena pabbājanīyakammaṁ kataṁ hoti taṁ āpattiṁ na āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ na garahati, kammike na garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ paṭippassambhetabbaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với ba hạng tỳ kheo khác: một vị hư hỏng đạo đức trong giới luật căn bản, một vị hư hỏng hành vi trong phép tắc ứng xử, một vị hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno uposathaṁ ṭhapeti, na pavāraṇaṁ ṭhapeti, na savacanīyaṁ karoti, na anuvādaṁ paṭṭhapeti, na okāsaṁ kāreti, na codeti, na sāreti, na bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno pabbājanīyakammaṁ paṭippassambhetabbaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với ba hạng tỳ kheo khác: một vị nói lời chê bai Đức Phật, một vị nói lời chê bai *Giáo pháp*, một vị nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-Pabbājanīyakamme paṭippassambhetabbaaṭṭhārasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với ba hạng tỳ kheo khác: một vị có sự đùa giỡn nghịch ngợm bằng thân, một vị có sự đùa giỡn nghịch ngợm bằng lời nói, một vị có sự đùa giỡn nghịch ngợm bằng cả thân lẫn lời nói - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-17.1\. Evañca pana, bhikkhave, paṭippassambhetabbaṁ. Tena, bhikkhave, pabbājanīyakammakatena bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo— ‘ahaṁ, bhante, saṅghena pabbājanīyakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi, pabbājanīyassa kammassa paṭippassaddhiṁ yācāmī’ti. Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với ba hạng tỳ kheo khác: một vị có hành vi thiếu đứng đắn bằng thân, một vị có hành vi thiếu đứng đắn bằng lời nói, một vị có hành vi thiếu đứng đắn bằng cả thân lẫn lời nói - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-17.2\. ‘Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu saṅghena pabbājanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, pabbājanīyassa kammassa paṭippassaddhiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmassa bhikkhuno pabbājanīyakammaṁ paṭippassambheyya. Esā ñatti.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với ba hạng tỳ kheo khác: một vị có hành vi *gây tổn hại* bằng thân, một vị có hành vi *gây tổn hại* bằng lời nói, một vị có hành vi *gây tổn hại* bằng cả thân lẫn lời nói - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu saṅghena pabbājanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, pabbājanīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho itthannāmassa bhikkhuno pabbājanīyakammaṁ paṭippassambheti. Yassāyasmato khamati itthannāmassa bhikkhuno pabbājanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất* đối với ba hạng tỳ kheo khác: một vị có *nghề nghiệp sai trái* bằng thân, một vị có *nghề nghiệp sai trái* bằng lời nói, một vị có *nghề nghiệp sai trái* bằng cả thân lẫn lời nói - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động trục xuất*.
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi. Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu saṅghena pabbājanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, pabbājanīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho itthannāmassa bhikkhuno pabbājanīyakammaṁ paṭippassambheti. Yassāyasmato khamati itthannāmassa bhikkhuno pabbājanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Kết thúc Nhóm Mười Bốn Trường Hợp Tùy Ý Thi Hành.
 
-Paṭippassaddhaṁ saṅghena itthannāmassa bhikkhuno pabbājanīyakammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+### 3.4. Mười Tám Nguyên Tắc Ứng Xử
 
-Pabbājanīyakammaṁ niṭṭhitaṁ tatiyaṁ.
+15.1\. Này các tỳ kheo, tỳ kheo bị thi hành *hành động trục xuất* cần phải cư xử đúng đắn. Cách cư xử đúng đắn trong trường hợp ấy là như sau: {#15.1}
 
-## 4. Paṭisāraṇīyakamma
+Kết thúc mười tám nguyên tắc ứng xử trong *hành động trục xuất*.
 
-18.1\. Tena kho pana samayena āyasmā sudhammo macchikāsaṇḍe cittassa gahapatino āvāsiko hoti, navakammiko dhuvabhattiko. Yadā citto gahapati saṅghaṁ vā gaṇaṁ vā puggalaṁ vā nimantetukāmo hoti tadā na āyasmantaṁ sudhammaṁ anapaloketvā saṅghaṁ vā gaṇaṁ vā puggalaṁ vā nimanteti.
+16.1\. Sau đó, Tăng đoàn tỳ kheo do Sāriputta và Moggallāna dẫn đầu đi đến Kīṭāgiri rồi thực hiện *hành động trục xuất* các tỳ kheo nhóm Assaji và Punabbasuka ra khỏi Kīṭāgiri với nội dung: "Các tỳ kheo nhóm Assaji và Punabbasuka không được phép cư trú tại Kīṭāgiri nữa." Khi bị Tăng đoàn thi hành *hành động trục xuất*, họ không *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, không xin lỗi các tỳ kheo, lại còn chửi bới và mắng nhiếc; họ rơi vào thiên vị vì *mong muốn* (dục / chanda-), thiên vị vì *ám ảnh khó chịu* (sân / dosa-), thiên vị vì *sự u mê* (si / moha-) và thiên vị vì sợ hãi; họ bỏ đi nơi khác hoặc hoàn tục. Những tỳ kheo ít ham muốn [...lặp lại...] liền phàn nàn, chỉ trích và lên tiếng phê phán: {#16.1}
 
-Tena kho pana samayena sambahulā therā bhikkhū, āyasmā ca sāriputto, āyasmā ca mahāmoggallāno, āyasmā ca mahākaccāno, āyasmā ca mahākoṭṭhiko, āyasmā ca mahākappino, āyasmā ca mahācundo, āyasmā ca anuruddho, āyasmā ca revato, āyasmā ca upāli, āyasmā ca ānando, āyasmā ca rāhulo, kāsīsu cārikaṁ caramānā yena macchikāsaṇḍo tadavasaruṁ.
+– Sao các tỳ kheo nhóm Assaji và Punabbasuka khi bị Tăng đoàn thi hành *hành động trục xuất* lại không *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, không xin lỗi các tỳ kheo, lại còn chửi bới và mắng nhiếc, rơi vào thiên vị vì *mong muốn*, thiên vị vì *ám ảnh khó chịu*, thiên vị vì *sự u mê* và thiên vị vì sợ hãi, rồi bỏ đi nơi khác hoặc hoàn tục như vậy?
 
-Assosi kho citto gahapati therā kira bhikkhū macchikāsaṇḍaṁ anuppattāti. Atha kho citto gahapati yena therā bhikkhū tenupasaṅkami, upasaṅkamitvā there bhikkhū abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho cittaṁ gahapatiṁ āyasmā sāriputto dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho citto gahapati āyasmatā sāriputtena dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito there bhikkhū etadavoca— “adhivāsentu me, bhante, therā svātanāya āgantukabhattan”ti. Adhivāsesuṁ kho therā bhikkhū tuṇhībhāvena.
+Các tỳ kheo ấy trình sự việc lên Đức Thế Tôn. Nhân duyên khởi ấy và trong sự kiện ấy, Đức Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại rồi hỏi các tỳ kheo:
 
-18.2\. Atha kho citto gahapati therānaṁ bhikkhūnaṁ adhivāsanaṁ viditvā uṭṭhāyāsanā there bhikkhū abhivādetvā padakkhiṇaṁ katvā yenāyasmā sudhammo tenupasaṅkami, upasaṅkamitvā āyasmantaṁ sudhammaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho citto gahapati āyasmantaṁ sudhammaṁ etadavoca— “adhivāsetu me, bhante, ayyo sudhammo svātanāya bhattaṁ saddhiṁ therehī”ti.
+– Này các tỳ kheo, có thật là các tỳ kheo nhóm Assaji và Punabbasuka khi bị Tăng đoàn thi hành *hành động trục xuất* đã không *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, không xin lỗi các tỳ kheo, lại còn chửi bới và mắng nhiếc, rơi vào thiên vị vì *mong muốn*, thiên vị vì *ám ảnh khó chịu*, thiên vị vì *sự u mê* và thiên vị vì sợ hãi, rồi bỏ đi nơi khác hoặc hoàn tục không?
 
-Atha kho āyasmā sudhammo— “pubbe khvāyaṁ citto gahapati yadā saṅghaṁ vā gaṇaṁ vā puggalaṁ vā nimantetukāmo na maṁ anapaloketvā saṅghaṁ vā gaṇaṁ vā puggalaṁ vā nimanteti; sodāni maṁ anapaloketvā there bhikkhū nimantesi; duṭṭhodānāyaṁ citto gahapati anapekkho virattarūpo mayī”ti cittaṁ gahapatiṁ etadavoca— “alaṁ, gahapati, nādhivāsemī”ti. Dutiyampi kho …pe… tatiyampi kho citto gahapati āyasmantaṁ sudhammaṁ etadavoca— “adhivāsetu me, bhante, ayyo sudhammo svātanāya bhattaṁ saddhiṁ therehī”ti. “Alaṁ, gahapati, nādhivāsemī”ti. Atha kho citto gahapati— “kiṁ me karissati ayyo sudhammo adhivāsento vā anadhivāsento vā”ti āyasmantaṁ sudhammaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+– Bạch Đức Thế Tôn, đúng là như vậy.
 
-18.3\. Atha kho citto gahapati tassā rattiyā accayena therānaṁ bhikkhūnaṁ paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpesi. Atha kho āyasmā sudhammo— “yannūnāhaṁ cittassa gahapatino therānaṁ bhikkhūnaṁ paṭiyattaṁ passeyyan”ti pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena cittassa gahapatino nivesanaṁ tenupasaṅkami, upasaṅkamitvā paññatte āsane nisīdi. Atha kho citto gahapati yenāyasmā sudhammo tenupasaṅkami, upasaṅkamitvā āyasmantaṁ sudhammaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho cittaṁ gahapatiṁ āyasmā sudhammo etadavoca— “pahūtaṁ kho te idaṁ, gahapati, khādanīyaṁ bhojanīyaṁ paṭiyattaṁ; ekā ca kho idha natthi yadidaṁ tilasaṅguḷikā”ti.
+Đức Phật Thế Tôn liền quở trách:
 
-“Bahumhi vata, bhante, ratane buddhavacane vijjamāne ayyena sudhammena yadeva kiñci bhāsitaṁ yadidaṁ tilasaṅguḷikāti. Bhūtapubbaṁ, bhante, dakkhiṇāpathakā vāṇijā puratthimaṁ janapadaṁ agamaṁsu vāṇijjāya. Te tato kukkuṭiṁ ānesuṁ. Atha kho sā, bhante, kukkuṭī kākena saddhiṁ saṁvāsaṁ kappesi. Sā potakaṁ janesi. Yadā kho so, bhante, kukkuṭapotako kākavassaṁ vassitukāmo hoti, kākakukkuṭīti vassati; yadā kukkuṭivassaṁ vassitukāmo hoti, kukkuṭikākāti vassati. Evameva kho, bhante, bahumhi ratane buddhavacane vijjamāne ayyena sudhammena yadeva kiñci bhāsitaṁ yadidaṁ tilasaṅguḷikā”ti.
+– Việc làm ấy thật không xứng đáng [...lặp lại...]. Này các tỳ kheo, sao những kẻ ngu dốt ấy khi bị Tăng đoàn thi hành *hành động trục xuất* lại không *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, không xin lỗi các tỳ kheo, lại còn chửi bới và mắng nhiếc, rơi vào thiên vị vì *mong muốn*, thiên vị vì *ám ảnh khó chịu*, thiên vị vì *sự u mê* và thiên vị vì sợ hãi, rồi bỏ đi nơi khác hoặc hoàn tục như vậy? Này các tỳ kheo, điều này không đem lại *niềm tin tuyệt đối* cho những người chưa có niềm tin [...lặp lại...].
 
-18.4\. “Akkosasi maṁ tvaṁ, gahapati, paribhāsasi maṁ tvaṁ, gahapati. Eso te, gahapati, āvāso, pakkamissāmī”ti.
+Sau khi quở trách [...lặp lại...] và thuyết giảng bài *Giáo pháp* [...lặp lại...], Ngài gọi các tỳ kheo lại và bảo:
 
-“Nāhaṁ, bhante, ayyaṁ sudhammaṁ akkosāmi, paribhāsāmi. Vasatu, bhante, ayyo sudhammo macchikāsaṇḍe. Ramaṇīyaṁ ambāṭakavanaṁ. Ahaṁ ayyassa sudhammassa ussukkaṁ karissāmi, cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārānan”ti.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy *thu hồi* *hành động trục xuất* [khi họ biết hối cải].
 
-Dutiyampi kho …pe… tatiyampi kho āyasmā sudhammo cittaṁ gahapatiṁ etadavoca— “akkosasi maṁ tvaṁ, gahapati, paribhāsasi maṁ tvaṁ, gahapati. Eso te, gahapati, āvāso, pakkamissāmī”ti. “Kahaṁ, bhante, ayyo sudhammo gamissatī”ti?
+### 3.5. Nhóm Mười Tám Trường Hợp Không Được Thu Hồi
 
-“Sāvatthiṁ kho ahaṁ, gahapati, gamissāmi bhagavantaṁ dassanāyā”ti.
+16.2\. Này các tỳ kheo, không được *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ năm yếu tố sau: truyền giới cho người xuất gia, nhận làm thầy nương tựa, cho sa-di phục vụ, chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định vẫn tiếp tục giáo giới các tỳ kheo ni - này các tỳ kheo, không được *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ năm yếu tố này. {#16.2}
 
-“Tena hi, bhante, yañca attanā bhaṇitaṁ, yañca mayā bhaṇitaṁ taṁ sabbaṁ bhagavato ārocehi. Anacchariyaṁ kho panetaṁ, bhante, yaṁ ayyo sudhammo punadeva macchikāsaṇḍaṁ paccāgaccheyyā”ti.
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ năm yếu tố khác: tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động trục xuất*, phạm một *lỗi phạm* khác tương tự như vậy, phạm một *lỗi phạm* còn tệ hại hơn thế, chê trách *hành động [kỷ luật]* và chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, không được *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ năm yếu tố này.
 
-18.5\. Atha kho āyasmā sudhammo senāsanaṁ saṁsāmetvā pattacīvaramādāya yena sāvatthi tena pakkāmi. Anupubbena yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā sudhammo yañca attanā bhaṇitaṁ yañca cittena gahapatinā bhaṇitaṁ taṁ sabbaṁ bhagavato ārocesi.
+Này các tỳ kheo, không được *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ tám yếu tố sau: đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, đình chỉ lễ Pavāraṇā của vị ấy, đưa ra lời tuyên bố ngăn cản, đặt ra sự cáo buộc, buộc phải xin phép chất vấn, *nhắc nhở lỗi*, *làm cho nhớ lại* và gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ tám yếu tố này.
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ, moghapurisa, ananulomikaṁ appatirūpaṁ assāmaṇakaṁ akappiyaṁ akaraṇīyaṁ. Kathañhi nāma tvaṁ, moghapurisa, cittaṁ gahapatiṁ saddhaṁ pasannaṁ dāyakaṁ kārakaṁ saṅghupaṭṭhākaṁ hīnena khuṁsessasi, hīnena vambhessasi? Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+Kết thúc Nhóm Mười Tám Trường Hợp Không Được Thu Hồi trong *hành động trục xuất*.
 
-“tena hi, bhikkhave, saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ karotu— citto te gahapati khamāpetabboti. Evañca pana, bhikkhave, kātabbaṁ— paṭhamaṁ sudhammo bhikkhu codetabbo, codetvā sāretabbo, sāretvā āpattiṁ āropetabbo, āpattiṁ āropetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+### 3.6. Nhóm Mười Tám Trường Hợp Được Thu Hồi
 
-18.6\. ‘Suṇātu me, bhante, saṅgho. Ayaṁ sudhammo bhikkhu cittaṁ gahapatiṁ saddhaṁ pasannaṁ dāyakaṁ kārakaṁ saṅghupaṭṭhākaṁ hīnena khuṁseti, hīnena vambheti. Yadi saṅghassa pattakallaṁ, saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ kareyya— citto te gahapati khamāpetabboti. Esā ñatti.
+Này các tỳ kheo, nên *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ năm yếu tố sau: không truyền giới cho người xuất gia, không nhận làm thầy nương tựa, không cho sa-di phục vụ, không chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định cũng không giáo giới các tỳ kheo ni - này các tỳ kheo, nên *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Suṇātu me, bhante, saṅgho. Ayaṁ sudhammo bhikkhu cittaṁ gahapatiṁ saddhaṁ pasannaṁ dāyakaṁ kārakaṁ saṅghupaṭṭhākaṁ hīnena khuṁseti, hīnena vambheti. Saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ karoti— citto te gahapati khamāpetabboti. Yassāyasmato khamati sudhammassa bhikkhuno paṭisāraṇīyassa kammassa karaṇaṁ—citto te gahapati khamāpetabboti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ năm yếu tố khác: không tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động trục xuất*, không phạm một *lỗi phạm* khác tương tự như vậy, không phạm một *lỗi phạm* còn tệ hại hơn thế, không chê trách *hành động [kỷ luật]* và không chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, nên *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ sudhammo bhikkhu cittaṁ gahapatiṁ saddhaṁ pasannaṁ dāyakaṁ kārakaṁ saṅghupaṭṭhākaṁ hīnena khuṁseti, hīnena vambheti. Saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ karoti— citto te gahapati khamāpetabboti. Yassāyasmato khamati sudhammassa bhikkhuno paṭisāraṇīyassa kammassa karaṇaṁ—citto te gahapati khamāpetabboti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Này các tỳ kheo, nên *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ tám yếu tố sau: không đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, không đình chỉ lễ Pavāraṇā của vị ấy, không đưa ra lời tuyên bố ngăn cản, không đặt ra sự cáo buộc, không buộc phải xin phép chất vấn, không *nhắc nhở lỗi*, không *làm cho nhớ lại* và không gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động trục xuất* đối với tỳ kheo hội đủ tám yếu tố này.
 
-Kataṁ saṅghena sudhammassa bhikkhuno paṭisāraṇīyakammaṁ— citto te gahapati khamāpetabboti. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+Kết thúc Nhóm Mười Tám Trường Hợp Được Thu Hồi trong *hành động trục xuất*.
 
-### 4.1. Adhammakammadvādasaka {#4.1}
+17.1\. Và này các tỳ kheo, cần phải *thu hồi* như sau: Tỳ kheo bị thi hành *hành động trục xuất* ấy phải đến trước Tăng đoàn, đắp y vai trái, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi chồm hổm, chắp tay và thưa như vầy: "Bạch chư tôn đức, con bị Tăng đoàn thi hành *hành động trục xuất*, nay đã *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động trục xuất*." Cần thỉnh cầu lần thứ hai. Cần thỉnh cầu lần thứ ba. Sau đó, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau: {#17.1}
 
-19.1\. Tīhi, bhikkhave, aṅgehi samannāgataṁ paṭisāraṇīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, appaṭipucchā kataṁ hoti, appaṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ paṭisāraṇīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+17.2\. "Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo tên là [...] này bị Tăng đoàn thi hành *hành động trục xuất*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động trục xuất*. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy *thu hồi* *hành động trục xuất* cho tỳ kheo tên là [...]. Đây là *lời đề xuất*. {#17.2}
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ paṭisāraṇīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Anāpattiyā kataṁ hoti, adesanāgāminiyā āpattiyā kataṁ hoti, desitāya āpattiyā kataṁ hoti …pe…
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo tên là [...] này bị Tăng đoàn thi hành *hành động trục xuất*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động trục xuất*. Tăng đoàn *thu hồi* *hành động trục xuất* cho tỳ kheo tên là [...]. Tôn giả nào đồng ý việc *thu hồi* *hành động trục xuất* cho tỳ kheo tên là [...] thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-acodetvā kataṁ hoti, asāretvā kataṁ hoti, āpattiṁ anāropetvā kataṁ hoti …pe…
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo tên là [...] này bị Tăng đoàn thi hành *hành động trục xuất*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động trục xuất*. Tăng đoàn *thu hồi* *hành động trục xuất* cho tỳ kheo tên là [...]. Tôn giả nào đồng ý việc *thu hồi* *hành động trục xuất* cho tỳ kheo tên là [...] thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-asammukhā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Tăng đoàn đã *thu hồi* xong *hành động trục xuất* cho tỳ kheo tên là [...]. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-appaṭipucchā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Kết thúc Hành Động Trục Xuất thứ ba.
 
-appaṭiññāya kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+## 4. Hành Động Buộc Xin Lỗi
+*(Paṭisāraṇīyakamma)*
 
-anāpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+18.1\. Lúc bấy giờ, Tôn giả Sudhamma là vị tỳ kheo thường trú tại tu viện của gia chủ Citta ở Macchikāsaṇḍa, phụ trách việc xây dựng và thường xuyên nhận cơm cúng dường cố định. Mỗi khi gia chủ Citta muốn thỉnh mời Tăng đoàn, một nhóm tỳ kheo hoặc một cá nhân nào đó, ông không hề thỉnh mời Tăng đoàn, nhóm tỳ kheo hay cá nhân ấy mà không thông báo hỏi ý kiến Tôn giả Sudhamma trước. {#18.1}
 
-adesanāgāminiyā āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Lúc bấy giờ, có nhiều vị tỳ kheo trưởng lão là Tôn giả Sāriputta, Tôn giả Mahāmoggallāna, Tôn giả Mahākaccāna, Tôn giả Mahākoṭṭhika, Tôn giả Mahākappina, Tôn giả Mahācunda, Tôn giả Anuruddha, Tôn giả Revata, Tôn giả Upāli, Tôn giả Ānanda và Tôn giả Rāhula đang du hành trong xứ Kāsī rồi đến Macchikāsaṇḍa.
 
-desitāya āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Gia chủ Citta nghe tin các vị tỳ kheo trưởng lão đã đến Macchikāsaṇḍa, liền đi đến gặp các vị tỳ kheo trưởng lão, đảnh lễ rồi ngồi xuống một bên. Khi gia chủ Citta ngồi xuống một bên, Tôn giả Sāriputta giảng về *Giáo pháp* để chỉ rõ, khích lệ, thúc đẩy và làm ông hoan hỷ. Được Tôn giả Sāriputta giảng về *Giáo pháp* chỉ rõ, khích lệ, thúc đẩy và làm hoan hỷ, gia chủ Citta liền thưa với các vị tỳ kheo trưởng lão:
 
-acodetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Bạch các trưởng lão, ngày mai xin quý ngài nhận lời dùng bữa cơm đón khách do con cúng dường.
 
-asāretvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Các vị tỳ kheo trưởng lão im lặng nhận lời.
 
-āpattiṁ anāropetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ paṭisāraṇīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+18.2\. Biết các vị tỳ kheo trưởng lão đã nhận lời, gia chủ Citta đứng dậy khỏi chỗ ngồi, đảnh lễ các vị tỳ kheo trưởng lão, đi nhiễu bên phải rồi đến gặp Tôn giả Sudhamma, đảnh lễ và đứng sang một bên. Đứng sang một bên, gia chủ Citta thưa với Tôn giả Sudhamma: {#18.2}
 
-Paṭisāraṇīyakamme adhammakammadvādasakaṁ niṭṭhitaṁ.
+– Bạch Tôn giả Sudhamma, ngày mai xin ngài cùng với các vị trưởng lão nhận lời dùng bữa cơm do con cúng dường.
 
-### 4.2. Dhammakammadvādasaka {#4.2}
+Tôn giả Sudhamma nghĩ thầm: "Trước đây, mỗi khi gia chủ Citta này muốn thỉnh mời Tăng đoàn, một nhóm tỳ kheo hoặc một cá nhân nào đó, ông ấy đều không thỉnh mời mà chưa hỏi ý kiến ta. Vậy mà nay ông ấy lại thỉnh mời các vị tỳ kheo trưởng lão mà không hề hỏi ý kiến ta. Gia chủ Citta này nay đã trở mặt, không còn đoái hoài và lạnh nhạt với ta rồi." Nghĩ vậy, Tôn giả Sudhamma liền nói với gia chủ Citta:
 
-Tīhi, bhikkhave, aṅgehi samannāgataṁ paṭisāraṇīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, paṭipucchā kataṁ hoti, paṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ paṭisāraṇīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+– Thôi đi gia chủ, tôi không nhận lời đâu.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ paṭisāraṇīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiyā kataṁ hoti, desanāgāminiyā āpattiyā kataṁ hoti, adesitāya āpattiyā kataṁ hoti …pe…
+Lần thứ hai [...lặp lại...]. Lần thứ ba, gia chủ Citta thưa với Tôn giả Sudhamma:
 
-codetvā kataṁ hoti, sāretvā kataṁ hoti, āpattiṁ āropetvā kataṁ hoti …pe…
+– Bạch Tôn giả Sudhamma, ngày mai xin ngài cùng với các vị trưởng lão nhận lời dùng bữa cơm do con cúng dường.
 
-sammukhā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+– Thôi đi gia chủ, tôi không nhận lời đâu.
 
-paṭipucchā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Gia chủ Citta nghĩ thầm: "Tôn giả Sudhamma có nhận lời hay không nhận lời thì làm gì được ta chứ?", rồi đảnh lễ Tôn giả Sudhamma, đi nhiễu bên phải và ra về.
 
-paṭiññāya kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+18.3\. Qua đêm ấy, gia chủ Citta cho chuẩn bị các món ăn cứng và món ăn mềm thượng hạng dâng cúng các vị tỳ kheo trưởng lão. Tôn giả Sudhamma nghĩ thầm: "Hay là ta thử xem gia chủ Citta đã chuẩn bị những gì cho các vị tỳ kheo trưởng lão." Sáng hôm ấy, vị ấy đắp y, cầm bát đi đến nhà gia chủ Citta rồi ngồi trên chỗ ngồi đã soạn sẵn. Gia chủ Citta đi đến gặp Tôn giả Sudhamma, đảnh lễ rồi ngồi xuống một bên. Khi gia chủ Citta ngồi xuống một bên, Tôn giả Sudhamma liền nói: {#18.3}
 
-āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+– Này gia chủ, ông chuẩn bị nhiều món ăn cứng và món ăn mềm thật đấy, chỉ thiếu đúng một thứ là bánh mè thôi!
 
-desanāgāminiyā āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+– Bạch ngài, trong kho tàng quý báu lời dạy của Đức Phật có biết bao nhiêu điều, vậy mà Tôn giả Sudhamma lại chỉ nhắc đến mỗi chuyện tầm thường là cái bánh mè! Bạch ngài, chuyện xưa kể rằng có những thương nhân vùng Dakkhināpatha đi buôn ở phương Đông và mang về một con gà mái. Con gà mái ấy sống chung với một con quạ và sinh ra một con gà con. Bạch ngài, khi con gà con ấy muốn gáy tiếng quạ thì nó kêu "quạ-gà", còn khi muốn gáy tiếng gà thì nó kêu "gà-quạ". Cũng y như vậy, bạch ngài, trong kho tàng quý báu lời dạy của Đức Phật có biết bao nhiêu điều, vậy mà Tôn giả Sudhamma lại chỉ nhắc đến mỗi chuyện tầm thường là cái bánh mè!
 
-adesitāya āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+18.4\. – Này gia chủ, ông chửi mắng ta đấy à! Này gia chủ, ông nhục mạ ta đấy à! Đây là tu viện của ông, ta sẽ bỏ đi! {#18.4}
 
-codetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+– Bạch ngài, con đâu có chửi mắng hay nhục mạ Tôn giả Sudhamma. Xin Tôn giả Sudhamma cứ ở lại Macchikāsaṇḍa đi. Rừng Ambāṭaka thật khả ái. Con sẽ lo liệu chu toàn cho Tôn giả Sudhamma về y phục, vật thực khất thực, chỗ ở và *điều kiện vừa đủ* (duyên / -paccaya) là thuốc men cho người bệnh.
 
-sāretvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lần thứ hai [...lặp lại...]. Lần thứ ba, Tôn giả Sudhamma nói với gia chủ Citta:
 
-āpattiṁ āropetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ paṭisāraṇīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+– Này gia chủ, ông chửi mắng ta đấy à! Này gia chủ, ông nhục mạ ta đấy à! Đây là tu viện của ông, ta sẽ bỏ đi!
 
-Paṭisāraṇīyakamme dhammakammadvādasakaṁ niṭṭhitaṁ.
+– Bạch ngài, Tôn giả Sudhamma định đi đâu?
 
-### 4.3. Ākaṅkhamānacatukka {#4.3}
+– Này gia chủ, tôi sẽ đi đến Sāvatthī để yết kiến Đức Thế Tôn.
 
-20.1\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, paṭisāraṇīyakammaṁ kareyya. Gihīnaṁ alābhāya parisakkati, gihīnaṁ anatthāya parisakkati, gihīnaṁ anāvāsāya parisakkati, gihī akkosati paribhāsati, gihī gihīhi bhedeti— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, paṭisāraṇīyakammaṁ kareyya.
+– Vậy thì bạch ngài, tất cả những gì ngài đã nói và những gì con đã nói, xin ngài hãy trình bày đầy đủ lên Đức Thế Tôn. Bạch ngài, cũng chẳng có gì lạ nếu Tôn giả Sudhamma lại phải quay trở về Macchikāsaṇḍa này đâu.
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, paṭisāraṇīyakammaṁ kareyya. Gihīnaṁ buddhassa avaṇṇaṁ bhāsati, gihīnaṁ dhammassa avaṇṇaṁ bhāsati, gihīnaṁ saṅghassa avaṇṇaṁ bhāsati, gihī hīnena khuṁseti hīnena vambheti, gihīnaṁ dhammikaṁ paṭissavaṁ na saccāpeti— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, paṭisāraṇīyakammaṁ kareyya.
+18.5\. Rồi Tôn giả Sudhamma thu dọn chỗ ở, mang theo bát và y rời đi về hướng Sāvatthī. Tuần tự đi đến khu rừng Jetavana, tu viện của ông Anāthapiṇḍika tại Sāvatthī, vị ấy đến gặp Đức Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Sudhamma trình bày lên Đức Thế Tôn tất cả những gì mình đã nói và những gì gia chủ Citta đã nói. {#18.5}
 
-Pañcannaṁ, bhikkhave, bhikkhūnaṁ, ākaṅkhamāno saṅgho, paṭisāraṇīyakammaṁ kareyya. Eko gihīnaṁ alābhāya parisakkati, eko gihīnaṁ anatthāya parisakkati, eko gihīnaṁ anāvāsāya parisakkati, eko gihī akkosati paribhāsati, eko gihī gihīhi bhedeti— imesaṁ kho, bhikkhave, pañcannaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, paṭisāraṇīyakammaṁ kareyya.
+Đức Phật Thế Tôn liền quở trách:
 
-Aparesampi, bhikkhave, pañcannaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, paṭisāraṇīyakammaṁ kareyya. Eko gihīnaṁ buddhassa avaṇṇaṁ bhāsati, eko gihīnaṁ dhammassa avaṇṇaṁ bhāsati, eko gihīnaṁ saṅghassa avaṇṇaṁ bhāsati, eko gihī hīnena khuṁseti hīnena vambheti, eko gihīnaṁ dhammikaṁ paṭissavaṁ na saccāpeti— imesaṁ kho, bhikkhave, pañcannaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, paṭisāraṇīyakammaṁ kareyya.
+– Này kẻ ngu dốt, việc làm của ông thật không xứng đáng, không phù hợp, không tương ưng, không phải hạnh sa-môn, không được phép và không nên làm. Này kẻ ngu dốt, sao ông lại có thể chế giễu và khinh miệt gia chủ Citta, một người có lòng tin, có *niềm tin tuyệt đối*, là thí chủ, người hộ trì và phụng sự Tăng đoàn bằng những lời hạ thấp thân phận như vậy? Này kẻ ngu dốt, điều này không đem lại *niềm tin tuyệt đối* cho những người chưa có niềm tin [...lặp lại...].
 
-Ākaṅkhamānacatukkaṁ niṭṭhitaṁ.
+Sau khi quở trách [...lặp lại...] và thuyết giảng bài *Giáo pháp* [...lặp lại...], Ngài gọi các tỳ kheo lại và bảo:
 
-### 4.4. Aṭṭhārasavatta {#4.4}
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy thực hiện *hành động buộc xin lỗi* (hạ ý yết-ma / paṭisāraṇīyakammaṁ) đối với tỳ kheo Sudhamma với nội dung: "Thầy phải đi xin lỗi gia chủ Citta." Và này các tỳ kheo, cần phải thực hiện như sau: Trước tiên, tỳ kheo Sudhamma phải được *nhắc nhở lỗi*; sau khi nhắc nhở lỗi, phải *làm cho nhớ lại*; sau khi làm cho nhớ lại, phải *quy kết lỗi phạm*; sau khi quy kết *lỗi phạm*, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau:
 
-21.1\. Paṭisāraṇīyakammakatena, bhikkhave, bhikkhunā sammā vattitabbaṁ. Tatrāyaṁ sammāvattanā—
+18.6\. "Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Sudhamma này đã chế giễu và khinh miệt gia chủ Citta, một người có lòng tin, có *niềm tin tuyệt đối*, là thí chủ, người hộ trì và phụng sự Tăng đoàn bằng những lời hạ thấp thân phận. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy thực hiện *hành động buộc xin lỗi* đối với tỳ kheo Sudhamma với nội dung: 'Thầy phải đi xin lỗi gia chủ Citta.' Đây là *lời đề xuất*. {#18.6}
 
-Paṭisāraṇīyakamme aṭṭhārasavattaṁ niṭṭhitaṁ.
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Sudhamma này đã chế giễu và khinh miệt gia chủ Citta, một người có lòng tin, có *niềm tin tuyệt đối*, là thí chủ, người hộ trì và phụng sự Tăng đoàn bằng những lời hạ thấp thân phận. Tăng đoàn thực hiện *hành động buộc xin lỗi* đối với tỳ kheo Sudhamma với nội dung: 'Thầy phải đi xin lỗi gia chủ Citta.' Tôn giả nào đồng ý việc thực hiện *hành động buộc xin lỗi* đối với tỳ kheo Sudhamma với nội dung 'Thầy phải đi xin lỗi gia chủ Citta' thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-22.1\. Atha kho saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ akāsi— “citto te gahapati khamāpetabbo”ti. So saṅghena paṭisāraṇīyakammakato macchikāsaṇḍaṁ gantvā maṅkubhūto nāsakkhi cittaṁ gahapatiṁ khamāpetuṁ. Punadeva sāvatthiṁ paccāgañchi. Bhikkhū evamāhaṁsu— “khamāpito tayā, āvuso sudhamma, citto gahapatī”ti? “Idhāhaṁ, āvuso, macchikāsaṇḍaṁ gantvā maṅkubhūto nāsakkhiṁ cittaṁ gahapatiṁ khamāpetun”ti. Bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe….
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Sudhamma này đã chế giễu và khinh miệt gia chủ Citta, một người có lòng tin, có *niềm tin tuyệt đối*, là thí chủ, người hộ trì và phụng sự Tăng đoàn bằng những lời hạ thấp thân phận. Tăng đoàn thực hiện *hành động buộc xin lỗi* đối với tỳ kheo Sudhamma với nội dung: 'Thầy phải đi xin lỗi gia chủ Citta.' Tôn giả nào đồng ý việc thực hiện *hành động buộc xin lỗi* đối với tỳ kheo Sudhamma với nội dung 'Thầy phải đi xin lỗi gia chủ Citta' thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-22.2\. “Tena hi, bhikkhave, saṅgho sudhammassa bhikkhuno anudūtaṁ detu— cittaṁ gahapatiṁ khamāpetuṁ. Evañca pana, bhikkhave, dātabbo— paṭhamaṁ bhikkhu yācitabbo, yācitvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Tăng đoàn đã thực hiện xong *hành động buộc xin lỗi* đối với tỳ kheo Sudhamma với nội dung: 'Thầy phải đi xin lỗi gia chủ Citta.' Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-‘Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmaṁ bhikkhuṁ sudhammassa bhikkhuno anudūtaṁ dadeyya cittaṁ gahapatiṁ khamāpetuṁ. Esā ñatti.
+### 4.1. Nhóm Mười Hai Hành Động Trái Quy Luật
 
-Suṇātu me, bhante, saṅgho. Saṅgho itthannāmaṁ bhikkhuṁ sudhammassa bhikkhuno anudūtaṁ deti cittaṁ gahapatiṁ khamāpetuṁ. Yassāyasmato khamati itthannāmassa bhikkhuno sudhammassa bhikkhuno anudūtassa dānaṁ cittaṁ gahapatiṁ khamāpetuṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+19.1\. Này các tỳ kheo, một *hành động buộc xin lỗi* hội đủ ba yếu tố sẽ là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi vắng mặt, được thực hiện khi không thẩm vấn, được thực hiện khi không có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc xin lỗi* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. {#19.1}
 
-Dinno saṅghena itthannāmo bhikkhu sudhammassa bhikkhuno anudūto cittaṁ gahapatiṁ khamāpetuṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+Lại nữa, này các tỳ kheo, một *hành động buộc xin lỗi* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có *lỗi phạm*, được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* đã thú nhận rồi [...lặp lại...]
 
-22.3\. Tena, bhikkhave, sudhammena bhikkhunā anudūtena bhikkhunā saddhiṁ macchikāsaṇḍaṁ gantvā citto gahapati khamāpetabbo— ‘khama, gahapati, pasādemi tan’ti. Evañce vuccamāno khamati, iccetaṁ kusalaṁ. No ce khamati, anudūtena bhikkhunā vattabbo— ‘khama, gahapati, imassa bhikkhuno, pasādeti tan’ti. Evañce vuccamāno khamati, iccetaṁ kusalaṁ. No ce khamati, anudūtena bhikkhunā vattabbo— ‘khama, gahapati, imassa bhikkhuno, ahaṁ taṁ pasādemī’ti. Evañce vuccamāno khamati, iccetaṁ kusalaṁ. No ce khamati, anudūtena bhikkhunā vattabbo— ‘khama, gahapati, imassa bhikkhuno, saṅghassa vacanenā’ti. Evañce vuccamāno khamati, iccetaṁ kusalaṁ. No ce khamati, anudūtena bhikkhunā sudhammo bhikkhu cittassa gahapatino dassanūpacāraṁ avijahāpetvā savanūpacāraṁ avijahāpetvā ekaṁsaṁ uttarāsaṅgaṁ kārāpetvā ukkuṭikaṁ nisīdāpetvā añjaliṁ paggaṇhāpetvā taṁ āpattiṁ desāpetabbo”ti.
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện khi chưa *quy kết lỗi phạm* [...lặp lại...]
 
-23.1\. Atha kho āyasmā sudhammo anudūtena bhikkhunā saddhiṁ macchikāsaṇḍaṁ gantvā cittaṁ gahapatiṁ khamāpesi. So sammā vattati, lomaṁ pāteti, netthāraṁ vattati, bhikkhū upasaṅkamitvā evaṁ vadeti— “ahaṁ, āvuso, saṅghena paṭisāraṇīyakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi. Kathaṁ nu kho mayā paṭipajjitabban”ti? Bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe…
+được thực hiện khi vắng mặt, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-“tena hi, bhikkhave, saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambhetu.
+được thực hiện khi không thẩm vấn, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-### 4.5. Nappaṭippassambhetabbaaṭṭhārasaka {#4.5}
+được thực hiện khi không có sự thừa nhận, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-23.2\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ nappaṭippassambhetabbaṁ. Upasampādeti, nissayaṁ deti, sāmaṇeraṁ upaṭṭhāpeti, bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ nappaṭippassambhetabbaṁ.
+được thực hiện khi không có *lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ nappaṭippassambhetabbaṁ. Yāya āpattiyā saṅghena paṭisāraṇīyakammaṁ kataṁ hoti taṁ āpattiṁ āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ garahati, kammike garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ nappaṭippassambhetabbaṁ.
+được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno uposathaṁ ṭhapeti, pavāraṇaṁ ṭhapeti, savacanīyaṁ karoti, anuvādaṁ paṭṭhapeti, okāsaṁ kāreti, codeti, sāreti, bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ nappaṭippassambhetabbaṁ.
+được thực hiện đối với *lỗi phạm* đã thú nhận rồi, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Paṭisāraṇīyakamme nappaṭippassambhetabbaaṭṭhārasakaṁ niṭṭhitaṁ.
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-### 4.6. Paṭippassambhetabbaaṭṭhārasaka {#4.6}
+được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambhetabbaṁ. Na upasampādeti, na nissayaṁ deti, na sāmaṇeraṁ upaṭṭhāpeti, na bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo na ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện khi chưa *quy kết lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc xin lỗi* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambhetabbaṁ. Yāya āpattiyā saṅghena paṭisāraṇīyakammaṁ kataṁ hoti taṁ āpattiṁ na āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ na garahati, kammike na garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambhetabbaṁ.
+Kết thúc Nhóm Mười Hai Hành Động Trái Quy Luật trong *hành động buộc xin lỗi*.
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno uposathaṁ ṭhapeti, na pavāraṇaṁ ṭhapeti, na savacanīyaṁ karoti, na anuvādaṁ paṭṭhapeti, na okāsaṁ kāreti, na codeti, na sāreti, na bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambhetabbaṁ.
+### 4.2. Nhóm Mười Hai Hành Động Đúng Quy Luật
 
-Paṭisāraṇīyakamme paṭippassambhetabbaaṭṭhārasakaṁ niṭṭhitaṁ.
+Này các tỳ kheo, một *hành động buộc xin lỗi* hội đủ ba yếu tố sẽ là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có mặt, được thực hiện sau khi thẩm vấn, được thực hiện khi có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc xin lỗi* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-24.1\. Evañca pana, bhikkhave, paṭippassambhetabbaṁ. Tena, bhikkhave, sudhammena bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo— ‘ahaṁ, bhante, saṅghena paṭisāraṇīyakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi, paṭisāraṇīyassa kammassa paṭippassaddhiṁ yācāmī’ti. Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Lại nữa, này các tỳ kheo, một *hành động buộc xin lỗi* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có *lỗi phạm*, được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* chưa thú nhận [...lặp lại...]
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ sudhammo bhikkhu saṅghena paṭisāraṇīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, paṭisāraṇīyassa kammassa paṭippassaddhiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambheyya. Esā ñatti.
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện sau khi *làm cho nhớ lại*, được thực hiện sau khi *quy kết lỗi phạm* [...lặp lại...]
 
-Suṇātu me, bhante, saṅgho. Ayaṁ sudhammo bhikkhu saṅghena paṭisāraṇīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, paṭisāraṇīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambheti. Yassāyasmato khamati sudhammassa bhikkhuno paṭisāraṇīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+được thực hiện khi có mặt, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ sudhammo bhikkhu saṅghena paṭisāraṇīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, paṭisāraṇīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho sudhammassa bhikkhuno paṭisāraṇīyakammaṁ paṭippassambheti. Yassāyasmato khamati sudhammassa bhikkhuno paṭisāraṇīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+được thực hiện sau khi thẩm vấn, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Paṭippassaddhaṁ saṅghena sudhammassa bhikkhuno paṭisāraṇīyakammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+được thực hiện khi có sự thừa nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Paṭisāraṇīyakammaṁ niṭṭhitaṁ catutthaṁ.
+được thực hiện khi có *lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-## 5. Āpattiyāadassaneukkhepanīyakamma
+được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-25.1\. Tena samayena buddho bhagavā kosambiyaṁ viharati ghositārāme. Tena kho pana samayena āyasmā channo āpattiṁ āpajjitvā na icchati āpattiṁ passituṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā channo āpattiṁ āpajjitvā na icchissati āpattiṁ passitun”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
+được thực hiện đối với *lỗi phạm* chưa thú nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “saccaṁ kira, bhikkhave, channo bhikkhu āpattiṁ āpajjitvā na icchati āpattiṁ passitun”ti?
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-“Saccaṁ, bhagavā”ti.
+được thực hiện sau khi *làm cho nhớ lại*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ …pe… kathañhi nāma so, bhikkhave, moghapuriso āpattiṁ āpajjitvā na icchissati āpattiṁ passituṁ? Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+được thực hiện sau khi *quy kết lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động buộc xin lỗi* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-“tena hi, bhikkhave, saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ karotu— asambhogaṁ saṅghena. Evañca pana, bhikkhave, kātabbaṁ— paṭhamaṁ channo bhikkhu codetabbo, codetvā sāretabbo, sāretvā āpattiṁ āropetabbo, āpattiṁ āropetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Kết thúc Nhóm Mười Hai Hành Động Đúng Quy Luật trong *hành động buộc xin lỗi*.
 
-25.2\. ‘Suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu āpattiṁ āpajjitvā na icchati āpattiṁ passituṁ. Yadi saṅghassa pattakallaṁ, saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ kareyya— asambhogaṁ saṅghena. Esā ñatti.
+### 4.3. Nhóm Bốn Trường Hợp Tùy Ý Thi Hành
 
-Suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu āpattiṁ āpajjitvā na icchati āpattiṁ passituṁ. Saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ karoti— asambhogaṁ saṅghena. Yassāyasmato khamati channassa bhikkhuno, āpattiyā adassane, ukkhepanīyassa kammassa karaṇaṁ— asambhogaṁ saṅghena, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+20.1\. Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc xin lỗi* đối với một tỳ kheo hội đủ năm yếu tố sau: mưu toan làm mất lợi lộc của người tại gia, mưu toan gây bất lợi cho người tại gia, mưu toan làm người tại gia mất chỗ ở, chửi bới và mắng nhiếc người tại gia, chia rẽ người tại gia với người tại gia - này các tỳ kheo, đối với tỳ kheo hội đủ năm yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc xin lỗi*. {#20.1}
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu āpattiṁ āpajjitvā na icchati āpattiṁ passituṁ. Saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ karoti— asambhogaṁ saṅghena. Yassāyasmato khamati channassa bhikkhuno, āpattiyā adassane, ukkhepanīyassa kammassa karaṇaṁ— asambhogaṁ saṅghena, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc xin lỗi* đối với một tỳ kheo hội đủ năm yếu tố khác: nói xấu Đức Phật với người tại gia, nói xấu *Giáo pháp* với người tại gia, nói xấu Tăng đoàn với người tại gia, chế giễu và khinh miệt người tại gia bằng lời hạ thấp thân phận, không giữ lời hứa hợp *Quy luật* với người tại gia - này các tỳ kheo, đối với tỳ kheo hội đủ năm yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc xin lỗi*.
 
-Kataṁ saṅghena channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ— asambhogaṁ saṅghena. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc xin lỗi* đối với năm hạng tỳ kheo sau: một vị mưu toan làm mất lợi lộc của người tại gia, một vị mưu toan gây bất lợi cho người tại gia, một vị mưu toan làm người tại gia mất chỗ ở, một vị chửi bới và mắng nhiếc người tại gia, một vị chia rẽ người tại gia với người tại gia - này các tỳ kheo, đối với năm hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc xin lỗi*.
 
-Āvāsaparamparañca, bhikkhave, saṁsatha— ‘channo bhikkhu saṅghena āpattiyā adassane, ukkhepanīyakammakato— asambhogaṁ saṅghenā’ti.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc xin lỗi* đối với năm hạng tỳ kheo khác: một vị nói xấu Đức Phật với người tại gia, một vị nói xấu *Giáo pháp* với người tại gia, một vị nói xấu Tăng đoàn với người tại gia, một vị chế giễu và khinh miệt người tại gia bằng lời hạ thấp thân phận, một vị không giữ lời hứa hợp *Quy luật* với người tại gia - này các tỳ kheo, đối với năm hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động buộc xin lỗi*.
 
-### 5.1. Adhammakammadvādasaka {#5.1}
+Kết thúc Nhóm Bốn Trường Hợp Tùy Ý Thi Hành.
 
-26.1\. Tīhi, bhikkhave, aṅgehi samannāgataṁ, āpattiyā adassane, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, appaṭipucchā kataṁ hoti, appaṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā adassane, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+### 4.4. Mười Tám Nguyên Tắc Ứng Xử
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā adassane, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Anāpattiyā kataṁ hoti, adesanāgāminiyā āpattiyā kataṁ hoti, desitāya āpattiyā kataṁ hoti …pe…
+21.1\. Này các tỳ kheo, tỳ kheo bị thi hành *hành động buộc xin lỗi* cần phải cư xử đúng đắn. Cách cư xử đúng đắn trong trường hợp ấy là như sau: {#21.1}
 
-acodetvā kataṁ hoti, asāretvā kataṁ hoti, āpattiṁ anāropetvā kataṁ hoti …pe…
+Kết thúc mười tám nguyên tắc ứng xử trong *hành động buộc xin lỗi*.
 
-asammukhā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+22.1\. Sau đó, Tăng đoàn thực hiện *hành động buộc xin lỗi* đối với tỳ kheo Sudhamma với nội dung: "Thầy phải đi xin lỗi gia chủ Citta." Khi bị Tăng đoàn thi hành *hành động buộc xin lỗi*, vị ấy đi đến Macchikāsaṇḍa nhưng vì sượng sùng nên không thể xin lỗi gia chủ Citta được, đành quay trở lại Sāvatthī. Các tỳ kheo liền hỏi: {#22.1}
 
-appaṭipucchā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Này hiền giả Sudhamma, thầy đã xin lỗi gia chủ Citta chưa?
 
-appaṭiññāya kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Này các hiền giả, tôi đã đi đến Macchikāsaṇḍa nhưng vì sượng sùng nên không thể xin lỗi gia chủ Citta được.
 
-anāpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Các tỳ kheo trình sự việc lên Đức Thế Tôn [...lặp lại...].
 
-adesanāgāminiyā āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+22.2\. – Này các tỳ kheo, vậy thì Tăng đoàn hãy cử cho tỳ kheo Sudhamma một *người đi kèm hỗ trợ* (tùy hành sứ giả / anudūtaṁ) để xin lỗi gia chủ Citta. Và này các tỳ kheo, cần phải cử như sau: Trước tiên, phải hỏi ý kiến một tỳ kheo; sau khi hỏi ý kiến, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau: {#22.2}
 
-desitāya āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+"Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy cử tỳ kheo tên là [...] làm *người đi kèm hỗ trợ* cho tỳ kheo Sudhamma để xin lỗi gia chủ Citta. Đây là *lời đề xuất*.
 
-acodetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tăng đoàn cử tỳ kheo tên là [...] làm *người đi kèm hỗ trợ* cho tỳ kheo Sudhamma để xin lỗi gia chủ Citta. Tôn giả nào đồng ý việc cử tỳ kheo tên là [...] làm *người đi kèm hỗ trợ* cho tỳ kheo Sudhamma để xin lỗi gia chủ Citta thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-asāretvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Tăng đoàn đã cử xong tỳ kheo tên là [...] làm *người đi kèm hỗ trợ* cho tỳ kheo Sudhamma để xin lỗi gia chủ Citta. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-āpattiṁ anāropetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā adassane, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+22.3\. Này các tỳ kheo, tỳ kheo Sudhamma ấy phải đi cùng với vị tỳ kheo *người đi kèm hỗ trợ* đến Macchikāsaṇḍa và xin lỗi gia chủ Citta như sau: "Này gia chủ, xin ông hãy tha thứ, tôi xin làm hài lòng ông." Nếu được nói vậy mà ông ấy tha thứ thì thật tốt. Nếu ông ấy không tha thứ, vị tỳ kheo *người đi kèm hỗ trợ* cần nói với ông ấy: "Này gia chủ, xin hãy tha thứ cho vị tỳ kheo này, vị ấy đang xin làm hài lòng ông." Nếu được nói vậy mà ông ấy tha thứ thì thật tốt. Nếu ông ấy không tha thứ, vị tỳ kheo *người đi kèm hỗ trợ* cần nói với ông ấy: "Này gia chủ, xin hãy tha thứ cho vị tỳ kheo này, chính tôi xin làm hài lòng ông." Nếu được nói vậy mà ông ấy tha thứ thì thật tốt. Nếu ông ấy không tha thứ, vị tỳ kheo *người đi kèm hỗ trợ* cần nói với ông ấy: "Này gia chủ, xin hãy tha thứ cho vị tỳ kheo này theo lời của Tăng đoàn." Nếu được nói vậy mà ông ấy tha thứ thì thật tốt. Nếu ông ấy vẫn không tha thứ, vị tỳ kheo *người đi kèm hỗ trợ* phải giữ cho tỳ kheo Sudhamma không rời khỏi tầm nhìn và không rời khỏi tầm nghe của gia chủ Citta, bảo vị ấy đắp y vai trái, ngồi chồm hổm, chắp tay và thú nhận *lỗi phạm* ấy. {#22.3}
 
-Āpattiyā adassane ukkhepanīyakamme adhammakammadvādasakaṁ niṭṭhitaṁ.
+23.1\. Sau đó, Tôn giả Sudhamma cùng với vị tỳ kheo *người đi kèm hỗ trợ* đi đến Macchikāsaṇḍa và xin lỗi được gia chủ Citta. Vị ấy *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, rồi đến gặp các tỳ kheo và hỏi: {#23.1}
 
-### 5.2. Dhammakammadvādasaka {#5.2}
+– Này các hiền giả, tôi đã bị Tăng đoàn thi hành *hành động buộc xin lỗi*, nay tôi *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, vậy tôi phải thực hành như thế nào?
 
-Tīhi, bhikkhave, aṅgehi samannāgataṁ, āpattiyā adassane, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, paṭipucchā kataṁ hoti, paṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā adassane, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Các tỳ kheo trình sự việc lên Đức Thế Tôn [...lặp lại...].
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ …pe…. Āpattiyā kataṁ hoti, desanāgāminiyā āpattiyā kataṁ hoti, adesitāya āpattiyā kataṁ hoti …pe…
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy *thu hồi* *hành động buộc xin lỗi* cho tỳ kheo Sudhamma.
 
-codetvā kataṁ hoti, sāretvā kataṁ hoti, āpattiṁ āropetvā kataṁ hoti …pe…
+### 4.5. Nhóm Mười Tám Trường Hợp Không Được Thu Hồi
 
-sammukhā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+23.2\. Này các tỳ kheo, không được *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ năm yếu tố sau: truyền giới cho người xuất gia, nhận làm thầy nương tựa, cho sa-di phục vụ, chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định vẫn tiếp tục giáo giới các tỳ kheo ni - này các tỳ kheo, không được *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ năm yếu tố này. {#23.2}
 
-paṭipucchā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ năm yếu tố khác: tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động buộc xin lỗi*, phạm một *lỗi phạm* khác tương tự như vậy, phạm một *lỗi phạm* còn tệ hại hơn thế, chê trách *hành động [kỷ luật]* và chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, không được *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ năm yếu tố này.
 
-paṭiññāya kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Này các tỳ kheo, không được *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ tám yếu tố sau: đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, đình chỉ lễ Pavāraṇā của vị ấy, đưa ra lời tuyên bố ngăn cản, đặt ra sự cáo buộc, buộc phải xin phép chất vấn, *nhắc nhở lỗi*, *làm cho nhớ lại* và gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ tám yếu tố này.
 
-āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Kết thúc Nhóm Mười Tám Trường Hợp Không Được Thu Hồi trong *hành động buộc xin lỗi*.
 
-desanāgāminiyā āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+### 4.6. Nhóm Mười Tám Trường Hợp Được Thu Hồi
 
-adesitāya āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Này các tỳ kheo, nên *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ năm yếu tố sau: không truyền giới cho người xuất gia, không nhận làm thầy nương tựa, không cho sa-di phục vụ, không chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định cũng không giáo giới các tỳ kheo ni - này các tỳ kheo, nên *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ năm yếu tố này.
 
-codetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ năm yếu tố khác: không tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động buộc xin lỗi*, không phạm một *lỗi phạm* khác tương tự như vậy, không phạm một *lỗi phạm* còn tệ hại hơn thế, không chê trách *hành động [kỷ luật]* và không chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, nên *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ năm yếu tố này.
 
-sāretvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Này các tỳ kheo, nên *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ tám yếu tố sau: không đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, không đình chỉ lễ Pavāraṇā của vị ấy, không đưa ra lời tuyên bố ngăn cản, không đặt ra sự cáo buộc, không buộc phải xin phép chất vấn, không *nhắc nhở lỗi*, không *làm cho nhớ lại* và không gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động buộc xin lỗi* đối với tỳ kheo hội đủ tám yếu tố này.
 
-āpattiṁ āropetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā adassane, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Kết thúc Nhóm Mười Tám Trường Hợp Được Thu Hồi trong *hành động buộc xin lỗi*.
 
-Āpattiyā adassane ukkhepanīyakamme dhammakammadvādasakaṁ niṭṭhitaṁ.
+24.1\. Và này các tỳ kheo, cần phải *thu hồi* như sau: Tỳ kheo Sudhamma ấy phải đến trước Tăng đoàn, đắp y vai trái, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi chồm hổm, chắp tay và thưa như vầy: "Bạch chư tôn đức, con bị Tăng đoàn thi hành *hành động buộc xin lỗi*, nay đã *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc xin lỗi*." Cần thỉnh cầu lần thứ hai. Cần thỉnh cầu lần thứ ba. Sau đó, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau: {#24.1}
 
-### 5.3. Ākaṅkhamānachakka {#5.3}
+"Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Sudhamma này bị Tăng đoàn thi hành *hành động buộc xin lỗi*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc xin lỗi*. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy *thu hồi* *hành động buộc xin lỗi* cho tỳ kheo Sudhamma. Đây là *lời đề xuất*.
 
-Tīhi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya. Bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya.
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Sudhamma này bị Tăng đoàn thi hành *hành động buộc xin lỗi*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc xin lỗi*. Tăng đoàn *thu hồi* *hành động buộc xin lỗi* cho tỳ kheo Sudhamma. Tôn giả nào đồng ý việc *thu hồi* *hành động buộc xin lỗi* cho tỳ kheo Sudhamma thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya. Adhisīle sīlavipanno hoti, ajjhācāre ācāravipanno hoti, atidiṭṭhiyā diṭṭhivipanno hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya.
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Sudhamma này bị Tăng đoàn thi hành *hành động buộc xin lỗi*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động buộc xin lỗi*. Tăng đoàn *thu hồi* *hành động buộc xin lỗi* cho tỳ kheo Sudhamma. Tôn giả nào đồng ý việc *thu hồi* *hành động buộc xin lỗi* cho tỳ kheo Sudhamma thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya. Buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya.
+Tăng đoàn đã *thu hồi* xong *hành động buộc xin lỗi* cho tỳ kheo Sudhamma. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-Tiṇṇaṁ, bhikkhave, bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya. Eko bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; eko bālo hoti abyatto āpattibahulo anapadāno; eko gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya.
+Kết thúc Hành Động Buộc Xin Lỗi thứ tư.
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya. Eko adhisīle sīlavipanno hoti, eko ajjhācāre ācāravipanno hoti, eko atidiṭṭhiyā diṭṭhivipanno hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya.
+## 5. Hành Động Đình Chỉ Sinh Hoạt Chung Do Không Nhìn Nhận Lỗi Phạm
+*(Āpattiyā adassane ukkhepanīyakamma)*
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya. Eko buddhassa avaṇṇaṁ bhāsati, eko dhammassa avaṇṇaṁ bhāsati, eko saṅghassa avaṇṇaṁ bhāsati— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā adassane, ukkhepanīyakammaṁ kareyya.
+25.1\. Vào thời ấy, Đức Phật Thế Tôn đang sống tại Kosambī, trong tu viện của ông Ghosita. Lúc bấy giờ, Tôn giả Channa phạm *lỗi phạm* mà không chịu nhìn nhận *lỗi phạm*. Những tỳ kheo ít ham muốn [...lặp lại...] liền phàn nàn, chỉ trích và lên tiếng phê phán: {#25.1}
 
-Āpattiyā adassane ukkhepanīyakamme ākaṅkhamānachakkaṁ niṭṭhitaṁ.
+– Sao Tôn giả Channa phạm *lỗi phạm* mà lại không chịu nhìn nhận *lỗi phạm* như vậy?
 
-### 5.4. Tecattālīsavatta {#5.4}
+Sau đó, các tỳ kheo ấy trình sự việc lên Đức Thế Tôn. Nhân duyên khởi ấy và trong sự kiện ấy, Đức Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại rồi hỏi các tỳ kheo:
 
-27.1\. Āpattiyā adassane ukkhepanīyakammakatena, bhikkhave, bhikkhunā sammā vattitabbaṁ. Tatrāyaṁ sammāvattanā—
+– Này các tỳ kheo, có thật là tỳ kheo Channa phạm *lỗi phạm* mà không chịu nhìn nhận *lỗi phạm* không?
 
-Āpattiyā adassane ukkhepanīyakamme tecattālīsavattaṁ niṭṭhitaṁ.
+– Bạch Đức Thế Tôn, đúng là như vậy.
 
-28.1\. Atha kho saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ akāsi— asambhogaṁ saṅghena. So saṅghena, āpattiyā adassane, ukkhepanīyakammakato tamhā āvāsā aññaṁ āvāsaṁ agamāsi. Tattha bhikkhū neva abhivādesuṁ, na paccuṭṭhesuṁ, na añjalikammaṁ na sāmīcikammaṁ akaṁsu, na sakkariṁsu, na garuṁ kariṁsu, na mānesuṁ, na pūjesuṁ. So bhikkhūhi asakkariyamāno agarukariyamāno amāniyamāno apūjiyamāno asakkārapakato tamhāpi āvāsā aññaṁ āvāsaṁ agamāsi. Tatthapi bhikkhū neva abhivādesuṁ, na paccuṭṭhesuṁ, na añjalikammaṁ na sāmīcikammaṁ akaṁsu, na sakkariṁsu, na garuṁ kariṁsu, na mānesuṁ, na pūjesuṁ. So bhikkhūhi asakkariyamāno agarukariyamāno amāniyamāno apūjiyamāno asakkārapakato tamhāpi āvāsā aññaṁ āvāsaṁ agamāsi. Tatthapi bhikkhū neva abhivādesuṁ, na paccuṭṭhesuṁ, na añjalikammaṁ na sāmīcikammaṁ akaṁsu, na sakkariṁsu, na garuṁ kariṁsu, na mānesuṁ, na pūjesuṁ. So bhikkhūhi asakkariyamāno agarukariyamāno amāniyamāno apūjiyamāno asakkārapakato punadeva kosambiṁ paccāgañchi.
+Đức Phật Thế Tôn liền quở trách:
 
-So sammā vattati, lomaṁ pāteti, netthāraṁ vattati, bhikkhū upasaṅkamitvā evaṁ vadeti— “ahaṁ, āvuso, saṅghena, āpattiyā adassane, ukkhepanīyakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi. Kathaṁ nu kho mayā paṭipajjitabban”ti? Bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe…. “Tena hi, bhikkhave, saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetu.
+– Việc làm ấy thật không xứng đáng [...lặp lại...]. Này các tỳ kheo, sao kẻ ngu dốt ấy phạm *lỗi phạm* mà lại không chịu nhìn nhận *lỗi phạm* như vậy? Này các tỳ kheo, điều này không đem lại *niềm tin tuyệt đối* cho những người chưa có niềm tin [...lặp lại...].
 
-### 5.5. Nappaṭippassambhetabbatecattālīsaka {#5.5}
+Sau khi quở trách [...lặp lại...] và thuyết giảng bài *Giáo pháp* [...lặp lại...], Ngài gọi các tỳ kheo lại và bảo:
 
-28.2\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Upasampādeti, nissayaṁ deti, sāmaṇeraṁ upaṭṭhāpeti, bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy thực hiện *hành động đình chỉ sinh hoạt chung* (tẫn xuất yết-ma / ukkhepanīyakammaṁ) đối với tỳ kheo Channa vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn* (bất cộng trụ / asambhogaṁ saṅghena). Và này các tỳ kheo, cần phải thực hiện như sau: Trước tiên, tỳ kheo Channa phải được *nhắc nhở lỗi*; sau khi nhắc nhở lỗi, phải *làm cho nhớ lại*; sau khi làm cho nhớ lại, phải *quy kết lỗi phạm*; sau khi quy kết *lỗi phạm*, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau:
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Yāya āpattiyā saṅghena, āpattiyā adassane, ukkhepanīyakammaṁ kataṁ hoti taṁ āpattiṁ āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ garahati, kammike garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+25.2\. "Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này phạm *lỗi phạm* mà không chịu nhìn nhận *lỗi phạm*. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Đây là *lời đề xuất*. {#25.2}
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ sādiyati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này phạm *lỗi phạm* mà không chịu nhìn nhận *lỗi phạm*. Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tôn giả nào đồng ý việc thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*, thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikammaṁ sādiyati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này phạm *lỗi phạm* mà không chịu nhìn nhận *lỗi phạm*. Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tôn giả nào đồng ý việc thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*, thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattaṁ bhikkhuṁ sīlavipattiyā anuddhaṁseti, ācāravipattiyā anuddhaṁseti, diṭṭhivipattiyā anuddhaṁseti, ājīvavipattiyā anuddhaṁseti, bhikkhuṁ bhikkhūhi bhedeti— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+Tăng đoàn đã thực hiện xong *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Gihiddhajaṁ dhāreti, titthiyaddhajaṁ dhāreti, titthiye sevati; bhikkhū na sevati, bhikkhusikkhāya na sikkhati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+Và này các tỳ kheo, hãy thông báo từ trú xứ này đến trú xứ khác rằng: "Tỳ kheo Channa đã bị Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*."
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattena bhikkhunā saddhiṁ ekacchanne āvāse vasati, ekacchanne anāvāse vasati, ekacchanne āvāse vā anāvāse vā vasati; pakatattaṁ bhikkhuṁ disvā āsanā na vuṭṭhāti; pakatattaṁ bhikkhuṁ āsādeti anto vā bahi vā— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+### 5.1. Nhóm Mười Hai Hành Động Trái Quy Luật
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno uposathaṁ ṭhapeti, pavāraṇaṁ ṭhapeti, savacanīyaṁ karoti, anuvādaṁ paṭṭhapeti, okāsaṁ kāreti, codeti, sāreti, bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+26.1\. Này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* hội đủ ba yếu tố sẽ là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi vắng mặt, được thực hiện khi không thẩm vấn, được thực hiện khi không có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. {#26.1}
 
-Āpattiyā adassane ukkhepanīyakamme nappaṭippassambhetabbatecattālīsakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có *lỗi phạm*, được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* đã thú nhận rồi [...lặp lại...]
 
-### 5.6. Paṭippassambhetabbatecattālīsaka {#5.6}
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện khi chưa *quy kết lỗi phạm* [...lặp lại...]
 
-29.1\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na upasampādeti, na nissayaṁ deti, na sāmaṇeraṁ upaṭṭhāpeti, na bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo na ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện khi vắng mặt, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Yāya āpattiyā saṅghena āpattiyā adassane ukkhepanīyakammaṁ kataṁ hoti taṁ āpattiṁ na āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ na garahati, kammike na garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện khi không thẩm vấn, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ sādiyati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện khi không có sự thừa nhận, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikammaṁ sādiyati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện khi không có *lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattaṁ bhikkhuṁ sīlavipattiyā anuddhaṁseti, na ācāravipattiyā anuddhaṁseti, na diṭṭhivipattiyā anuddhaṁseti, na ājīvavipattiyā anuddhaṁseti, na bhikkhuṁ bhikkhūhi bhedeti— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na gihiddhajaṁ dhāreti, na titthiyaddhajaṁ dhāreti, na titthiye sevati, bhikkhū sevati, bhikkhusikkhāya sikkhati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện đối với *lỗi phạm* đã thú nhận rồi, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattena bhikkhunā saddhiṁ ekacchanne āvāse vasati, na ekacchanne anāvāse vasati, na ekacchanne āvāse vā anāvāse vā vasati, pakatattaṁ bhikkhuṁ disvā āsanā vuṭṭhāti, na pakatattaṁ bhikkhuṁ āsādeti anto vā bahi vā— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno uposathaṁ ṭhapeti, na pavāraṇaṁ ṭhapeti, na savacanīyaṁ karoti, na anuvādaṁ paṭṭhapeti, na okāsaṁ kāreti, na codeti, na sāreti, na bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Āpattiyā adassane ukkhepanīyakamme paṭippassambhetabbatecattālīsakaṁ niṭṭhitaṁ.
+được thực hiện khi chưa *quy kết lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-30.1\. Evañca pana, bhikkhave, paṭippassambhetabbaṁ. Tena, bhikkhave, channena bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo— ‘ahaṁ, bhante, saṅghena, āpattiyā adassane, ukkhepanīyakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi, āpattiyā adassane ukkhepanīyassa kammassa paṭippassaddhiṁ yācāmī’ti. Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Kết thúc Nhóm Mười Hai Hành Động Trái Quy Luật trong *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu saṅghena, āpattiyā adassane, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, āpattiyā adassane ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambheyya. Esā ñatti.
+### 5.2. Nhóm Mười Hai Hành Động Đúng Quy Luật
 
-Suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu saṅghena, āpattiyā adassane, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, āpattiyā adassane, ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambheti. Yassāyasmato khamati channassa bhikkhuno, āpattiyā adassane, ukkhepanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* hội đủ ba yếu tố sẽ là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có mặt, được thực hiện sau khi thẩm vấn, được thực hiện khi có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu saṅghena, āpattiyā adassane, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, āpattiyā adassane, ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ paṭippassambheti. Yassāyasmato khamati channassa bhikkhuno, āpattiyā adassane, ukkhepanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Lại nữa, này các tỳ kheo [...lặp lại...]. Được thực hiện khi có *lỗi phạm*, được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* chưa thú nhận [...lặp lại...]
 
-Paṭippassaddhaṁ saṅghena channassa bhikkhuno, āpattiyā adassane, ukkhepanīyakammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện sau khi *làm cho nhớ lại*, được thực hiện sau khi *quy kết lỗi phạm* [...lặp lại...]
 
-Āpattiyā adassane ukkhepanīyakammaṁ niṭṭhitaṁ pañcamaṁ.
+được thực hiện khi có mặt, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-## 6. Āpattiyāappaṭikammeukkhepanīyakamma
+được thực hiện sau khi thẩm vấn, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-31.1\. Tena samayena buddho bhagavā kosambiyaṁ viharati ghositārāme. Tena kho pana samayena āyasmā channo āpattiṁ āpajjitvā na icchati āpattiṁ paṭikātuṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma āyasmā channo āpattiṁ āpajjitvā na icchissati āpattiṁ paṭikātun”ti? Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
+được thực hiện khi có sự thừa nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi— “saccaṁ kira, bhikkhave, channo bhikkhu āpattiṁ āpajjitvā na icchati āpattiṁ paṭikātun”ti?
+được thực hiện khi có *lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-“Saccaṁ, bhagavā”ti.
+được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ …pe… kathañhi nāma so, bhikkhave, moghapuriso āpattiṁ āpajjitvā na icchissati āpattiṁ paṭikātuṁ. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+được thực hiện đối với *lỗi phạm* chưa thú nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-“tena hi, bhikkhave, saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ karotu— asambhogaṁ saṅghena. Evañca pana, bhikkhave, kātabbaṁ— paṭhamaṁ channo bhikkhu codetabbo, codetvā sāretabbo, sāretvā āpattiṁ āropetabbo, āpattiṁ āropetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu āpattiṁ āpajjitvā na icchati āpattiṁ paṭikātuṁ. Yadi saṅghassa pattakallaṁ, saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya— asambhogaṁ saṅghena. Esā ñatti.
+được thực hiện sau khi *làm cho nhớ lại*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu āpattiṁ āpajjitvā na icchati āpattiṁ paṭikātuṁ. Saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ karoti— asambhogaṁ saṅghena. Yassāyasmato khamati channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyassa kammassa karaṇaṁ— asambhogaṁ saṅghena, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+được thực hiện sau khi *quy kết lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu āpattiṁ āpajjitvā na icchati āpattiṁ paṭikātuṁ. Saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ karoti— asambhogaṁ saṅghena. Yassāyasmato khamati channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyassa kammassa karaṇaṁ— asambhogaṁ saṅghena, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Kết thúc Nhóm Mười Hai Hành Động Đúng Quy Luật trong *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-Kataṁ saṅghena channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ— asambhogaṁ saṅghena. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+### 5.3. Nhóm Sáu Trường Hợp Tùy Ý Thi Hành
 
-Āvāsaparamparañca, bhikkhave, saṁsatha— ‘channo bhikkhu saṅghena āpattiyā appaṭikamme, ukkhepanīyakammakato— asambhogaṁ saṅghenā’ti.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với một tỳ kheo hội đủ ba yếu tố sau: là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-### 6.1. Adhammakammadvādasaka {#6.1}
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với một tỳ kheo hội đủ ba yếu tố khác: hư hỏng đạo đức trong giới luật căn bản, hư hỏng hành vi trong phép tắc ứng xử, hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-Tīhi, bhikkhave, aṅgehi samannāgataṁ, āpattiyā appaṭikamme, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, appaṭipucchā kataṁ hoti, appaṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā appaṭikamme, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với một tỳ kheo hội đủ ba yếu tố khác: nói lời chê bai Đức Phật, nói lời chê bai *Giáo pháp*, nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā appaṭikamme, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Anāpattiyā kataṁ hoti, adesanāgāminiyā āpattiyā kataṁ hoti, desitāya āpattiyā kataṁ hoti …pe…
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với ba hạng tỳ kheo sau: một vị là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; một vị là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; một vị sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-acodetvā kataṁ hoti, asāretvā kataṁ hoti, āpattiṁ anāropetvā kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với ba hạng tỳ kheo khác: một vị hư hỏng đạo đức trong giới luật căn bản, một vị hư hỏng hành vi trong phép tắc ứng xử, một vị hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-asammukhā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với ba hạng tỳ kheo khác: một vị nói lời chê bai Đức Phật, một vị nói lời chê bai *Giáo pháp*, một vị nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-appaṭipucchā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Kết thúc Nhóm Sáu Trường Hợp Tùy Ý Thi Hành trong *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-appaṭiññāya kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+### 5.4. Bốn Mươi Ba Nguyên Tắc Ứng Xử
 
-anāpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+27.1\. Này các tỳ kheo, tỳ kheo bị thi hành *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* cần phải cư xử đúng đắn. Cách cư xử đúng đắn trong trường hợp ấy là như sau: {#27.1}
 
-adesanāgāminiyā āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Kết thúc bốn mươi ba nguyên tắc ứng xử trong *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-desitāya āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+28.1\. Sau đó, Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không nhìn nhận *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Khi bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, vị ấy rời trú xứ đó đến một trú xứ khác. Ở đó, các tỳ kheo chẳng hề đảnh lễ, chẳng đứng dậy chào đón, chẳng chắp tay hay làm lễ kính trọng, chẳng tiếp đãi, chẳng tôn trọng, chẳng kính nể và chẳng quý trọng vị ấy. Vì không được các tỳ kheo tiếp đãi, tôn trọng, kính nể hay quý trọng, bị đẩy vào cảnh ghẻ lạnh nên vị ấy rời trú xứ đó đến một trú xứ khác nữa. Ở đó, các tỳ kheo cũng chẳng hề đảnh lễ, chẳng đứng dậy chào đón, chẳng chắp tay hay làm lễ kính trọng, chẳng tiếp đãi, chẳng tôn trọng, chẳng kính nể và chẳng quý trọng vị ấy. Vì không được các tỳ kheo tiếp đãi, tôn trọng, kính nể hay quý trọng, bị đẩy vào cảnh ghẻ lạnh nên vị ấy lại rời trú xứ đó đến một trú xứ khác nữa. Ở đó, các tỳ kheo cũng chẳng hề đảnh lễ, chẳng đứng dậy chào đón, chẳng chắp tay hay làm lễ kính trọng, chẳng tiếp đãi, chẳng tôn trọng, chẳng kính nể và chẳng quý trọng vị ấy. Vì không được các tỳ kheo tiếp đãi, tôn trọng, kính nể hay quý trọng, bị đẩy vào cảnh ghẻ lạnh nên vị ấy đành quay trở lại Kosambī. {#28.1}
 
-acodetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Vị ấy *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, rồi đến gặp các tỳ kheo và hỏi:
 
-asāretvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+– Này các hiền giả, tôi đã bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, nay tôi *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, vậy tôi phải thực hành như thế nào?
 
-āpattiṁ anāropetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā appaṭikamme, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Các tỳ kheo trình sự việc lên Đức Thế Tôn [...lặp lại...].
 
-Āpattiyā appaṭikamme ukkhepanīyakamme adhammakammadvādasakaṁ niṭṭhitaṁ.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* cho tỳ kheo Channa.
 
-### 6.2. Dhammakammadvādasaka {#6.2}
+### 5.5. Nhóm Bốn Mươi Ba Trường Hợp Không Được Thu Hồi
 
-Tīhi, bhikkhave, aṅgehi samannāgataṁ, āpattiyā appaṭikamme, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, paṭipucchā kataṁ hoti, paṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā appaṭikamme, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+28.2\. Này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố sau: truyền giới cho người xuất gia, nhận làm thầy nương tựa, cho sa-di phục vụ, chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định vẫn tiếp tục giáo giới các tỳ kheo ni - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này. {#28.2}
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā appaṭikamme, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiyā kataṁ hoti, desanāgāminiyā āpattiyā kataṁ hoti, adesitāya āpattiyā kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, phạm một *lỗi phạm* khác tương tự như vậy, phạm một *lỗi phạm* còn tệ hại hơn thế, chê trách *hành động [kỷ luật]* và chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-codetvā kataṁ hoti, sāretvā kataṁ hoti, āpattiṁ āropetvā kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: chấp nhận từ tỳ kheo thanh tịnh sự đảnh lễ, đứng dậy chào đón, chắp tay, lễ kính trọng và mời chỗ ngồi - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-sammukhā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: chấp nhận từ tỳ kheo thanh tịnh việc dọn giường nằm, mang nước rửa chân, ghế kê chân và dụng cụ cọ chân, đỡ lấy y bát và kỳ cọ lưng khi tắm - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-paṭipucchā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: vu khống tỳ kheo thanh tịnh về sự hư hỏng đạo đức, vu khống về sự hư hỏng hành vi, vu khống về sự hư hỏng nhận thức, vu khống về sự hư hỏng nghề nghiệp và chia rẽ tỳ kheo với các tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-paṭiññāya kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: mang trang phục của người tại gia, mang trang phục của giáo phái khác, thân cận với người thuộc giáo phái khác, không thân cận với các tỳ kheo và không học tập trong các điều học của tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: sống chung dưới một mái che trong trú xứ với tỳ kheo thanh tịnh, sống chung dưới một mái che ngoài trú xứ với tỳ kheo thanh tịnh, sống chung dưới một mái che ở nơi là trú xứ hoặc không phải trú xứ với tỳ kheo thanh tịnh, thấy tỳ kheo thanh tịnh mà không đứng dậy khỏi chỗ ngồi và xúc phạm tỳ kheo thanh tịnh ở bên trong hay bên ngoài - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-desanāgāminiyā āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ tám yếu tố sau: đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, đình chỉ lễ Pavāraṇā của vị ấy, đưa ra lời tuyên bố ngăn cản, đặt ra sự cáo buộc, buộc phải xin phép chất vấn, *nhắc nhở lỗi*, *làm cho nhớ lại* và gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ tám yếu tố này.
 
-adesitāya āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Kết thúc Nhóm Bốn Mươi Ba Trường Hợp Không Được Thu Hồi trong *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-codetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+### 5.6. Nhóm Bốn Mươi Ba Trường Hợp Được Thu Hồi
 
-sāretvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+29.1\. Này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố sau: không truyền giới cho người xuất gia, không nhận làm thầy nương tựa, không cho sa-di phục vụ, không chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định cũng không giáo giới các tỳ kheo ni - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này. {#29.1}
 
-āpattiṁ āropetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, āpattiyā appaṭikamme, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: không tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, không phạm một *lỗi phạm* khác tương tự như vậy, không phạm một *lỗi phạm* còn tệ hại hơn thế, không chê trách *hành động [kỷ luật]* và không chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Āpattiyā appaṭikamme ukkhepanīyakamme dhammakammadvādasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: không chấp nhận từ tỳ kheo thanh tịnh sự đảnh lễ, đứng dậy chào đón, chắp tay, lễ kính trọng và mời chỗ ngồi - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-### 6.3. Ākaṅkhamānachakka {#6.3}
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: không chấp nhận từ tỳ kheo thanh tịnh việc dọn giường nằm, mang nước rửa chân, ghế kê chân và dụng cụ cọ chân, đỡ lấy y bát và kỳ cọ lưng khi tắm - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Tīhi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya. Bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya.
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: không vu khống tỳ kheo thanh tịnh về sự hư hỏng đạo đức, không vu khống về sự hư hỏng hành vi, không vu khống về sự hư hỏng nhận thức, không vu khống về sự hư hỏng nghề nghiệp và không chia rẽ tỳ kheo với các tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya. Adhisīle sīlavipanno hoti, ajjhācāre ācāravipanno hoti, atidiṭṭhiyā diṭṭhivipanno hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya.
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: không mang trang phục của người tại gia, không mang trang phục của giáo phái khác, không thân cận với người thuộc giáo phái khác, thân cận với các tỳ kheo và học tập trong các điều học của tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya. Buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya.
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: không sống chung dưới một mái che trong trú xứ với tỳ kheo thanh tịnh, không sống chung dưới một mái che ngoài trú xứ với tỳ kheo thanh tịnh, không sống chung dưới một mái che ở nơi là trú xứ hoặc không phải trú xứ với tỳ kheo thanh tịnh, thấy tỳ kheo thanh tịnh liền đứng dậy khỏi chỗ ngồi và không xúc phạm tỳ kheo thanh tịnh ở bên trong hay bên ngoài - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Tiṇṇaṁ, bhikkhave, bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya. Eko bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; eko bālo hoti abyatto āpattibahulo anapadāno; eko gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya.
+Này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ tám yếu tố sau: không đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, không đình chỉ lễ Pavāraṇā của vị ấy, không đưa ra lời tuyên bố ngăn cản, không đặt ra sự cáo buộc, không buộc phải xin phép chất vấn, không *nhắc nhở lỗi*, không *làm cho nhớ lại* và không gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* đối với tỳ kheo hội đủ tám yếu tố này.
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya. Eko adhisīle sīlavipanno hoti, eko ajjhācāre ācāravipanno hoti, eko atidiṭṭhiyā diṭṭhivipanno hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya.
+Kết thúc Nhóm Bốn Mươi Ba Trường Hợp Được Thu Hồi trong *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*.
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya. Eko buddhassa avaṇṇaṁ bhāsati, eko dhammassa avaṇṇaṁ bhāsati, eko saṅghassa avaṇṇaṁ bhāsati— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kareyya.
+30.1\. Và này các tỳ kheo, cần phải *thu hồi* như sau: Tỳ kheo Channa ấy phải đến trước Tăng đoàn, đắp y vai trái, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi chồm hổm, chắp tay và thưa như vầy: "Bạch chư tôn đức, con bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, nay đã *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*." Cần thỉnh cầu lần thứ hai. Cần thỉnh cầu lần thứ ba. Sau đó, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau: {#30.1}
 
-Āpattiyā appaṭikamme ukkhepanīyakamme ākaṅkhamānachakkaṁ niṭṭhitaṁ.
+"Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* cho tỳ kheo Channa. Đây là *lời đề xuất*.
 
-### 6.4. Tecattālīsavatta {#6.4}
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*. Tăng đoàn *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* cho tỳ kheo Channa. Tôn giả nào đồng ý việc *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* cho tỳ kheo Channa thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Āpattiyā appaṭikamme ukkhepanīyakammakatena, bhikkhave, bhikkhunā sammā vattitabbaṁ. Tatrāyaṁ sammāvattanā—
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm*. Tăng đoàn *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* cho tỳ kheo Channa. Tôn giả nào đồng ý việc *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* cho tỳ kheo Channa thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Āpattiyā appaṭikamme ukkhepanīyakamme tecattālīsavattaṁ niṭṭhitaṁ.
+Tăng đoàn đã *thu hồi* xong *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* cho tỳ kheo Channa. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-Atha kho saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ akāsi— asambhogaṁ saṅghena. So saṅghena, āpattiyā appaṭikamme, ukkhepanīyakammakato tamhā āvāsā aññaṁ āvāsaṁ agamāsi. Tattha bhikkhū neva abhivādesuṁ, na paccuṭṭhesuṁ, na añjalikammaṁ na sāmīcikammaṁ akaṁsu, na sakkariṁsu, na garuṁ kariṁsu, na mānesuṁ, na pūjesuṁ. So bhikkhūhi asakkariyamāno agarukariyamāno amāniyamāno apūjiyamāno asakkārapakato tamhāpi āvāsā aññaṁ āvāsaṁ agamāsi. Tatthapi bhikkhū neva abhivādesuṁ, na paccuṭṭhesuṁ, na añjalikammaṁ na sāmīcikammaṁ akaṁsu, na sakkariṁsu, na garuṁ kariṁsu, na mānesuṁ, na pūjesuṁ. So bhikkhūhi asakkariyamāno agarukariyamāno amāniyamāno apūjiyamāno asakkārapakato tamhāpi āvāsā aññaṁ āvāsaṁ agamāsi. Tatthapi bhikkhū neva abhivādesuṁ, na paccuṭṭhesuṁ, na añjalikammaṁ na sāmīcikammaṁ akaṁsu, na sakkariṁsu, na garuṁ kariṁsu, na mānesuṁ, na pūjesuṁ. So bhikkhūhi asakkariyamāno agarukariyamāno amāniyamāno apūjiyamāno asakkārapakato punadeva kosambiṁ paccāgañchi.
+Kết thúc Hành Động Đình Chỉ Sinh Hoạt Chung Do Không Nhìn Nhận Lỗi Phạm thứ năm.
 
-So sammā vattati, lomaṁ pāteti, netthāraṁ vattati, bhikkhū upasaṅkamitvā evaṁ vadeti— “ahaṁ, āvuso, saṅghena, āpattiyā appaṭikamme, ukkhepanīyakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi. Kathaṁ nu kho mayā paṭipajjitabban”ti? Bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe….
+## 6. Hành Động Đình Chỉ Sinh Hoạt Chung Do Không Sửa Chữa Lỗi Phạm
+*(Āpattiyā appaṭikamme ukkhepanīyakamma)*
 
-“Tena hi, bhikkhave, saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambhetu.
+31.1\. Vào thời ấy, Đức Phật Thế Tôn đang sống tại Kosambī, trong tu viện của ông Ghosita. Lúc bấy giờ, Tôn giả Channa phạm *lỗi phạm* mà không chịu sửa chữa *lỗi phạm*. Những tỳ kheo ít ham muốn [...lặp lại...] liền phàn nàn, chỉ trích và lên tiếng phê phán: {#31.1}
 
-### 6.5. Nappaṭippassambhetabbatecattālīsaka {#6.5}
+– Sao Tôn giả Channa phạm *lỗi phạm* mà lại không chịu sửa chữa *lỗi phạm* như vậy?
 
-Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Upasampādeti, nissayaṁ deti, sāmaṇeraṁ upaṭṭhāpeti, bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+Sau đó, các tỳ kheo ấy trình sự việc lên Đức Thế Tôn. Nhân duyên khởi ấy và trong sự kiện ấy, Đức Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại rồi hỏi các tỳ kheo:
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Yāya āpattiyā saṅghena, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kataṁ hoti taṁ āpattiṁ āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ garahati, kammike garahati …pe… pakatattassa bhikkhuno abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ sādiyati …pe… pakatattassa bhikkhuno seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikammaṁ sādiyati …pe… pakatattaṁ bhikkhuṁ sīlavipattiyā anuddhaṁseti, ācāravipattiyā anuddhaṁseti, diṭṭhivipattiyā anuddhaṁseti, ājīvavipattiyā anuddhaṁseti, bhikkhuṁ bhikkhūhi bhedeti …pe… gihiddhajaṁ dhāreti, titthiyaddhajaṁ dhāreti, titthiye sevati, bhikkhū na sevati, bhikkhusikkhāya na sikkhati …pe… pakatattena bhikkhunā saddhiṁ ekacchanne āvāse vasati, ekacchanne anāvāse vasati, ekacchanne āvāse vā anāvāse vā vasati, pakatattaṁ bhikkhuṁ disvā āsanā na vuṭṭhāti, pakatattaṁ bhikkhuṁ āsādeti anto vā bahi vā— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+– Này các tỳ kheo, có thật là tỳ kheo Channa phạm *lỗi phạm* mà không chịu sửa chữa *lỗi phạm* không?
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno uposathaṁ ṭhapeti, pavāraṇaṁ ṭhapeti, savacanīyaṁ karoti, anuvādaṁ paṭṭhapeti, okāsaṁ kāreti, codeti, sāreti, bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+– Bạch Đức Thế Tôn, đúng là như vậy.
 
-Āpattiyā appaṭikamme ukkhepanīyakamme nappaṭippassambhetabbatecattālīsakaṁ niṭṭhitaṁ.
+Đức Phật Thế Tôn liền quở trách:
 
-### 6.6. Paṭippassambhetabbatecattālīsaka {#6.6}
+– Việc làm ấy thật không xứng đáng [...lặp lại...]. Này các tỳ kheo, sao kẻ ngu dốt ấy phạm *lỗi phạm* mà lại không chịu sửa chữa *lỗi phạm* như vậy? Này các tỳ kheo, điều này không đem lại *niềm tin tuyệt đối* cho những người chưa có niềm tin [...lặp lại...].
 
-Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na upasampādeti, na nissayaṁ deti, na sāmaṇeraṁ upaṭṭhāpeti, na bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo na ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+Sau khi quở trách [...lặp lại...] và thuyết giảng bài *Giáo pháp* [...lặp lại...], Ngài gọi các tỳ kheo lại và bảo:
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Yāya āpattiyā saṅghena, āpattiyā appaṭikamme, ukkhepanīyakammaṁ kataṁ hoti taṁ āpattiṁ na āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ na garahati, kammike na garahati …pe… na pakatattassa bhikkhuno abhivādanaṁ, paccuṭṭhānaṁ, añjalikammaṁ, sāmīcikammaṁ, āsanābhihāraṁ sādiyati …pe… na pakatattassa bhikkhuno seyyābhihāraṁ, pādodakaṁ pādapīṭhaṁ, pādakathalikaṁ, pattacīvarappaṭiggahaṇaṁ, nahāne piṭṭhiparikammaṁ sādiyati …pe… na pakatattaṁ bhikkhuṁ sīlavipattiyā anuddhaṁseti, na ācāravipattiyā anuddhaṁseti, na diṭṭhivipattiyā anuddhaṁseti, na ājīvavipattiyā anuddhaṁseti, na bhikkhuṁ bhikkhūhi bhedeti …pe… na gihiddhajaṁ dhāreti, na titthiyaddhajaṁ dhāreti, na titthiye sevati, bhikkhū sevati, bhikkhusikkhāya sikkhati …pe… na pakatattena bhikkhunā saddhiṁ ekacchanne āvāse vasati, na ekacchanne anāvāse vasati, na ekacchanne āvāse vā anāvāse vā vasati, pakatattaṁ bhikkhuṁ disvā āsanā vuṭṭhāti, na pakatattaṁ bhikkhuṁ āsādeti anto vā bahi vā— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Và này các tỳ kheo, cần phải thực hiện như sau: Trước tiên, tỳ kheo Channa phải được *nhắc nhở lỗi*; sau khi nhắc nhở lỗi, phải *làm cho nhớ lại*; sau khi làm cho nhớ lại, phải *quy kết lỗi phạm*; sau khi quy kết *lỗi phạm*, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau:
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno uposathaṁ ṭhapeti, na pavāraṇaṁ ṭhapeti, na savacanīyaṁ karoti, na anuvādaṁ paṭṭhapeti, na okāsaṁ kāreti, na codeti, na sāreti, na bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+"Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này phạm *lỗi phạm* mà không chịu sửa chữa *lỗi phạm*. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Đây là *lời đề xuất*.
 
-Āpattiyā appaṭikamme ukkhepanīyakamme paṭippassambhetabbatecattālīsakaṁ niṭṭhitaṁ.
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này phạm *lỗi phạm* mà không chịu sửa chữa *lỗi phạm*. Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tôn giả nào đồng ý việc thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*, thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Evañca pana, bhikkhave, paṭippassambhetabbaṁ. Tena bhikkhave, channena bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo— ‘ahaṁ, bhante, saṅghena āpattiyā appaṭikamme ukkhepanīyakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi, āpattiyā appaṭikamme ukkhepanīyassa kammassa paṭippassaddhiṁ yācāmī’ti. Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này phạm *lỗi phạm* mà không chịu sửa chữa *lỗi phạm*. Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tôn giả nào đồng ý việc thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*, thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu saṅghena, āpattiyā appaṭikamme, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, āpattiyā appaṭikamme ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambheyya. Esā ñatti.
+Tăng đoàn đã thực hiện xong *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-Suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu saṅghena, āpattiyā appaṭikamme, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, āpattiyā appaṭikamme ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambheti. Yassāyasmato khamati channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Và này các tỳ kheo, hãy thông báo từ trú xứ này đến trú xứ khác rằng: "Tỳ kheo Channa đã bị Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*."
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ channo bhikkhu saṅghena, āpattiyā appaṭikamme, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, āpattiyā appaṭikamme, ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ paṭippassambheti. Yassāyasmato khamati channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+### 6.1. Nhóm Mười Hai Hành Động Trái Quy Luật
 
-Paṭippassaddhaṁ saṅghena channassa bhikkhuno, āpattiyā appaṭikamme, ukkhepanīyakammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+Này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* hội đủ ba yếu tố sẽ là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi vắng mặt, được thực hiện khi không thẩm vấn, được thực hiện khi không có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-Āpattiyā appaṭikamme ukkhepanīyakammaṁ niṭṭhitaṁ chaṭṭhaṁ.
+Lại nữa, này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có *lỗi phạm*, được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* đã thú nhận rồi [...lặp lại...]
 
-## 7. Pāpikāyadiṭṭhiyāappaṭinissagge ukkhepanīyakamma
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện khi chưa *quy kết lỗi phạm* [...lặp lại...]
 
-32.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena ariṭṭhassa nāma bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ hoti— “tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti.
+được thực hiện khi vắng mặt, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Assosuṁ kho sambahulā bhikkhū ariṭṭhassa nāma kira bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ— “Tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti.
+được thực hiện khi không thẩm vấn, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Atha kho te bhikkhū yena ariṭṭho bhikkhu gaddhabādhipubbo tenupasaṅkamiṁsu. Upasaṅkamitvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etadavocuṁ— “saccaṁ kira te, āvuso ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ— tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti?
+được thực hiện khi không có sự thừa nhận, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-“Evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti.
+được thực hiện khi không có *lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-32.2\. “Māvuso ariṭṭha, evaṁ avaca. Mā bhagavantaṁ abbhācikkhi. Na hi sādhu bhagavato abbhakkhānaṁ. Na hi bhagavā evaṁ vadeyya. Anekapariyāyenāvuso ariṭṭha, antarāyikā dhammā antarāyikā vuttā bhagavatā. Alañca pana te paṭisevato antarāyāya. Appassādā kāmā vuttā bhagavatā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo. Aṭṭhikaṅkalūpamā kāmā vuttā bhagavatā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo. Maṁsapesūpamā kāmā vuttā bhagavatā …pe… tiṇukkūpamā kāmā vuttā bhagavatā …pe… aṅgārakāsūpamā kāmā vuttā bhagavatā … supinakūpamā kāmā vuttā bhagavatā … yācitakūpamā kāmā vuttā bhagavatā … rukkhaphalūpamā kāmā vuttā bhagavatā … asisūnūpamā kāmā vuttā bhagavatā … sattisūlūpamā kāmā vuttā bhagavatā … sappasirūpamā kāmā vuttā bhagavatā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo”ti.
+được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-Evampi kho ariṭṭho bhikkhu gaddhabādhipubbo tehi bhikkhūhi vuccamāno tatheva taṁ pāpakaṁ diṭṭhigataṁ thāmasā parāmāsā abhinivissa voharati— “evaṁ byā kho ahaṁ, āvuso, bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti. Yato ca kho te bhikkhū nāsakkhiṁsu ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ etasmā pāpakā diṭṭhigatā vivecetuṁ, atha kho te bhikkhū yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavato etamatthaṁ ārocesuṁ. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā ariṭṭhaṁ bhikkhuṁ gaddhabādhipubbaṁ paṭipucchi—
+được thực hiện đối với *lỗi phạm* đã thú nhận rồi, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-32.3\. “saccaṁ kira te, ariṭṭha, evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ— tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti?
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-“Evaṁ byā kho ahaṁ, bhante, bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyā”ti.
+được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
 
-“Kassa nu kho nāma tvaṁ, moghapurisa, mayā evaṁ dhammaṁ desitaṁ ājānāsi? Nanu mayā, moghapurisa, anekapariyāyena antarāyikā dhammā antarāyikā vuttā? Alañca pana te paṭisevato antarāyāya. Appassādā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo. Aṭṭhikaṅkalūpamā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo. Maṁsapesūpamā kāmā vuttā mayā …pe… tiṇukkūpamā kāmā vuttā mayā … aṅgārakāsūpamā kāmā vuttā mayā … supinakūpamā kāmā vuttā mayā … yācitakūpamā kāmā vuttā mayā … rukkhaphalūpamā kāmā vuttā mayā … asisūnūpamā kāmā vuttā mayā … sattisūlūpamā kāmā vuttā mayā … sappasirūpamā kāmā vuttā mayā, bahudukkhā bahupāyāsā, ādīnavo ettha bhiyyo. Atha ca pana tvaṁ, moghapurisa, attanā duggahitena amhe ceva abbhācikkhasi, attānañca khaṇasi, bahuñca apuññaṁ pasavasi. Tañhi te, moghapurisa, bhavissati dīgharattaṁ ahitāya dukkhāya. Netaṁ, moghapurisa, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+được thực hiện khi chưa *quy kết lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
 
-“tena hi, bhikkhave, saṅgho ariṭṭhassa bhikkhuno gaddhabādhipubbassa, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ karotu— asambhogaṁ saṅghena. Evañca pana, bhikkhave, kātabbaṁ— paṭhamaṁ ariṭṭho bhikkhu codetabbo, codetvā sāretabbo, sāretvā āpattiṁ āropetabbo, āpattiṁ āropetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Kết thúc Nhóm Mười Hai Hành Động Trái Quy Luật trong *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-32.4\. ‘Suṇātu me, bhante, saṅgho. Ariṭṭhassa bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ— tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyāti. So taṁ diṭṭhiṁ na paṭinissajjati. Yadi saṅghassa pattakallaṁ, saṅgho ariṭṭhassa bhikkhuno gaddhabādhipubbassa, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya— asambhogaṁ saṅghena. Esā ñatti.
+### 6.2. Nhóm Mười Hai Hành Động Đúng Quy Luật
 
-Suṇātu me, bhante, saṅgho. Ariṭṭhassa bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ— tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyāti. So taṁ diṭṭhiṁ na paṭinissajjati. Saṅgho ariṭṭhassa bhikkhuno gaddhabādhipubbassa, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ karoti— asambhogaṁ saṅghena. Yassāyasmato khamati ariṭṭhassa bhikkhuno gaddhabādhipubbassa, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyassa kammassa karaṇaṁ— asambhogaṁ saṅghena, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* hội đủ ba yếu tố sẽ là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có mặt, được thực hiện sau khi thẩm vấn, được thực hiện khi có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ariṭṭhassa bhikkhuno gaddhabādhipubbassa evarūpaṁ pāpakaṁ diṭṭhigataṁ uppannaṁ— tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi yathā yeme antarāyikā dhammā vuttā bhagavatā te paṭisevato nālaṁ antarāyāyāti. So taṁ diṭṭhiṁ na paṭinissajjati. Saṅgho ariṭṭhassa bhikkhuno gaddhabādhipubbassa, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ karoti— asambhogaṁ saṅghena. Yassāyasmato khamati ariṭṭhassa bhikkhuno gaddhabādhipubbassa, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyassa kammassa karaṇaṁ— asambhogaṁ saṅghena, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Lại nữa, này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có *lỗi phạm*, được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* chưa thú nhận [...lặp lại...]
 
-Kataṁ saṅghena ariṭṭhassa bhikkhuno gaddhabādhipubbassa, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ— asambhogaṁ saṅghena. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện sau khi *làm cho nhớ lại*, được thực hiện sau khi *quy kết lỗi phạm* [...lặp lại...]
 
-Āvāsaparamparañca, bhikkhave, saṁsatha— ‘ariṭṭho bhikkhu gaddhabādhipubbo, saṅghena pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato— asambhogaṁ saṅghenā’”ti.
+được thực hiện khi có mặt, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-### 7.1. Adhammakammadvādasaka {#7.1}
+được thực hiện sau khi thẩm vấn, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-33.1\. “Tīhi, bhikkhave, aṅgehi samannāgataṁ, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, appaṭipucchā kataṁ hoti, appaṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+được thực hiện khi có sự thừa nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Anāpattiyā kataṁ hoti, adesanāgāminiyā āpattiyā kataṁ hoti, desitāya āpattiyā kataṁ hoti …pe…
+được thực hiện khi có *lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-acodetvā kataṁ hoti, asāretvā kataṁ hoti, āpattiṁ anāropetvā kataṁ hoti …pe…
+được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-asammukhā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+được thực hiện đối với *lỗi phạm* chưa thú nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-appaṭipucchā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-appaṭiññāya kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+được thực hiện sau khi *làm cho nhớ lại*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
 
-anāpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+được thực hiện sau khi *quy kết lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
 
-adesanāgāminiyā āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Kết thúc Nhóm Mười Hai Hành Động Đúng Quy Luật trong *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-desitāya āpattiyā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+### 6.3. Nhóm Sáu Trường Hợp Tùy Ý Thi Hành
 
-acodetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với một tỳ kheo hội đủ ba yếu tố sau: là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-asāretvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti …pe…
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với một tỳ kheo hội đủ ba yếu tố khác: hư hỏng đạo đức trong giới luật căn bản, hư hỏng hành vi trong phép tắc ứng xử, hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-āpattiṁ anāropetvā kataṁ hoti, adhammena kataṁ hoti, vaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với một tỳ kheo hội đủ ba yếu tố khác: nói lời chê bai Đức Phật, nói lời chê bai *Giáo pháp*, nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme adhammakammadvādasakaṁ niṭṭhitaṁ.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với ba hạng tỳ kheo sau: một vị là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; một vị là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; một vị sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-### 7.2. Dhammakammadvādasaka {#7.2}
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với ba hạng tỳ kheo khác: một vị hư hỏng đạo đức trong giới luật căn bản, một vị hư hỏng hành vi trong phép tắc ứng xử, một vị hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-Tīhi, bhikkhave, aṅgehi samannāgataṁ, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, paṭipucchā kataṁ hoti, paṭiññāya kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với ba hạng tỳ kheo khác: một vị nói lời chê bai Đức Phật, một vị nói lời chê bai *Giáo pháp*, một vị nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgataṁ, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Āpattiyā kataṁ hoti, desanāgāminiyā āpattiyā kataṁ hoti, adesitāya āpattiyā kataṁ hoti …pe…
+Kết thúc Nhóm Sáu Trường Hợp Tùy Ý Thi Hành trong *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-codetvā kataṁ hoti, sāretvā kataṁ hoti, āpattiṁ āropetvā kataṁ hoti …pe…
+### 6.4. Bốn Mươi Ba Nguyên Tắc Ứng Xử
 
-sammukhā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Này các tỳ kheo, tỳ kheo bị thi hành *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* cần phải cư xử đúng đắn. Cách cư xử đúng đắn trong trường hợp ấy là như sau:
 
-paṭipucchā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Kết thúc bốn mươi ba nguyên tắc ứng xử trong *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-paṭiññāya kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Sau đó, Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Channa vì không sửa chữa *lỗi phạm*, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Khi bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, vị ấy rời trú xứ đó đến một trú xứ khác. Ở đó, các tỳ kheo chẳng hề đảnh lễ, chẳng đứng dậy chào đón, chẳng chắp tay hay làm lễ kính trọng, chẳng tiếp đãi, chẳng tôn trọng, chẳng kính nể và chẳng quý trọng vị ấy. Vì không được các tỳ kheo tiếp đãi, tôn trọng, kính nể hay quý trọng, bị đẩy vào cảnh ghẻ lạnh nên vị ấy rời trú xứ đó đến một trú xứ khác nữa. Ở đó, các tỳ kheo cũng chẳng hề đảnh lễ, chẳng đứng dậy chào đón, chẳng chắp tay hay làm lễ kính trọng, chẳng tiếp đãi, chẳng tôn trọng, chẳng kính nể và chẳng quý trọng vị ấy. Vì không được các tỳ kheo tiếp đãi, tôn trọng, kính nể hay quý trọng, bị đẩy vào cảnh ghẻ lạnh nên vị ấy lại rời trú xứ đó đến một trú xứ khác nữa. Ở đó, các tỳ kheo cũng chẳng hề đảnh lễ, chẳng đứng dậy chào đón, chẳng chắp tay hay làm lễ kính trọng, chẳng tiếp đãi, chẳng tôn trọng, chẳng kính nể và chẳng quý trọng vị ấy. Vì không được các tỳ kheo tiếp đãi, tôn trọng, kính nể hay quý trọng, bị đẩy vào cảnh ghẻ lạnh nên vị ấy đành quay trở lại Kosambī.
 
-āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Vị ấy *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, rồi đến gặp các tỳ kheo và hỏi:
 
-desanāgāminiyā āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+– Này các hiền giả, tôi đã bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, nay tôi *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, vậy tôi phải thực hành như thế nào?
 
-adesitāya āpattiyā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+Các tỳ kheo trình sự việc lên Đức Thế Tôn [...lặp lại...].
 
-codetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* cho tỳ kheo Channa.
 
-sāretvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti …pe…
+### 6.5. Nhóm Bốn Mươi Ba Trường Hợp Không Được Thu Hồi
 
-āpattiṁ āropetvā kataṁ hoti, dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố sau: truyền giới cho người xuất gia, nhận làm thầy nương tựa, cho sa-di phục vụ, chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định vẫn tiếp tục giáo giới các tỳ kheo ni - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme dhammakammadvādasakaṁ niṭṭhitaṁ.
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, phạm một *lỗi phạm* khác tương tự như vậy, phạm một *lỗi phạm* còn tệ hại hơn thế, chê trách *hành động [kỷ luật]* và chê trách những người thực hiện *hành động [kỷ luật]* [...lặp lại...]
 
-### 7.3. Ākaṅkhamānachakka {#7.3}
+chấp nhận từ tỳ kheo thanh tịnh sự đảnh lễ, đứng dậy chào đón, chắp tay, lễ kính trọng và mời chỗ ngồi [...lặp lại...]
 
-Tīhi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya. Bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya.
+chấp nhận từ tỳ kheo thanh tịnh việc dọn giường nằm, mang nước rửa chân, ghế kê chân và dụng cụ cọ chân, đỡ lấy y bát và kỳ cọ lưng khi tắm [...lặp lại...]
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya. Adhisīle sīlavipanno hoti, ajjhācāre ācāravipanno hoti, atidiṭṭhiyā diṭṭhivipanno hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya.
+vu khống tỳ kheo thanh tịnh về sự hư hỏng đạo đức, vu khống về sự hư hỏng hành vi, vu khống về sự hư hỏng nhận thức, vu khống về sự hư hỏng nghề nghiệp và chia rẽ tỳ kheo với các tỳ kheo [...lặp lại...]
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya. Buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya.
+mang trang phục của người tại gia, mang trang phục của giáo phái khác, thân cận với người thuộc giáo phái khác, không thân cận với các tỳ kheo và không học tập trong các điều học của tỳ kheo [...lặp lại...]
 
-Tiṇṇaṁ, bhikkhave, bhikkhūnaṁ, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya. Eko bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; eko bālo hoti abyatto āpattibahulo anapadāno; eko gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya.
+sống chung dưới một mái che trong trú xứ với tỳ kheo thanh tịnh, sống chung dưới một mái che ngoài trú xứ với tỳ kheo thanh tịnh, sống chung dưới một mái che ở nơi là trú xứ hoặc không phải trú xứ với tỳ kheo thanh tịnh, thấy tỳ kheo thanh tịnh mà không đứng dậy khỏi chỗ ngồi và xúc phạm tỳ kheo thanh tịnh ở bên trong hay bên ngoài - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya. Eko adhisīle sīlavipanno hoti, eko ajjhācāre ācāravipanno hoti, eko atidiṭṭhiyā diṭṭhivipanno hoti— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya.
+Này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ tám yếu tố sau: đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, đình chỉ lễ Pavāraṇā của vị ấy, đưa ra lời tuyên bố ngăn cản, đặt ra sự cáo buộc, buộc phải xin phép chất vấn, *nhắc nhở lỗi*, *làm cho nhớ lại* và gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không nhìn nhận *lỗi phạm* [hay không sửa chữa *lỗi phạm*] đối với tỳ kheo hội đủ tám yếu tố này.
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kareyya. Eko buddhassa avaṇṇaṁ bhāsati, eko dhammassa avaṇṇaṁ bhāsati, eko saṅghassa avaṇṇaṁ bhāsati— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ, ākaṅkhamāno saṅgho, pāpikāya diṭṭhiyā appaṭinissage, ukkhepanīyakammaṁ kareyya.
+Kết thúc Nhóm Bốn Mươi Ba Trường Hợp Không Được Thu Hồi trong *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-Pāpikāya diṭṭhiyā appaṭinissage ukkhepanīyakamme ākaṅkhamānachakkaṁ niṭṭhitaṁ.
+### 6.6. Nhóm Bốn Mươi Ba Trường Hợp Được Thu Hồi
 
-### 7.4. Tecattālīsavatta {#7.4}
+Này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố sau: không truyền giới cho người xuất gia, không nhận làm thầy nương tựa, không cho sa-di phục vụ, không chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định cũng không giáo giới các tỳ kheo ni - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakammakatena, bhikkhave, bhikkhunā sammā vattitabbaṁ. Tatrāyaṁ sammāvattanā—
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố khác: không tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, không phạm một *lỗi phạm* khác tương tự như vậy, không phạm một *lỗi phạm* còn tệ hại hơn thế, không chê trách *hành động [kỷ luật]* và không chê trách những người thực hiện *hành động [kỷ luật]* [...lặp lại...]
 
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme tecattālīsavattaṁ niṭṭhitaṁ.
+không chấp nhận từ tỳ kheo thanh tịnh sự đảnh lễ, đứng dậy chào đón, chắp tay, lễ kính trọng và mời chỗ ngồi [...lặp lại...]
 
-34.1\. Atha kho saṅgho ariṭṭhassa bhikkhuno gaddhabādhipubbassa, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ akāsi— asambhogaṁ saṅghena. So saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato vibbhami. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma ariṭṭho bhikkhu gaddhabādhipubbo saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato vibbhamissatī”ti? Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ.
+không chấp nhận từ tỳ kheo thanh tịnh việc dọn giường nằm, mang nước rửa chân, ghế kê chân và dụng cụ cọ chân, đỡ lấy y bát và kỳ cọ lưng khi tắm [...lặp lại...]
 
-Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā bhikkhū paṭipucchi—
+không vu khống tỳ kheo thanh tịnh về sự hư hỏng đạo đức, không vu khống về sự hư hỏng hành vi, không vu khống về sự hư hỏng nhận thức, không vu khống về sự hư hỏng nghề nghiệp và không chia rẽ tỳ kheo với các tỳ kheo [...lặp lại...]
 
-“saccaṁ kira, bhikkhave, ariṭṭho bhikkhu gaddhabādhipubbo saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato vibbhamatī”ti?
+không mang trang phục của người tại gia, không mang trang phục của giáo phái khác, không thân cận với người thuộc giáo phái khác, thân cận với các tỳ kheo và học tập trong các điều học của tỳ kheo [...lặp lại...]
 
-“Saccaṁ, bhagavā”ti.
+không sống chung dưới một mái che trong trú xứ với tỳ kheo thanh tịnh, không sống chung dưới một mái che ngoài trú xứ với tỳ kheo thanh tịnh, không sống chung dưới một mái che ở nơi là trú xứ hoặc không phải trú xứ với tỳ kheo thanh tịnh, thấy tỳ kheo thanh tịnh liền đứng dậy khỏi chỗ ngồi và không xúc phạm tỳ kheo thanh tịnh ở bên trong hay bên ngoài - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ năm yếu tố này.
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ …pe… kathañhi nāma so, bhikkhave, moghapuriso saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato vibbhamissati? Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+Này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ tám yếu tố sau: không đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, không đình chỉ lễ Pavāraṇā của vị ấy, không đưa ra lời tuyên bố ngăn cản, không đặt ra sự cáo buộc, không buộc phải xin phép chất vấn, không *nhắc nhở lỗi*, không *làm cho nhớ lại* và không gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* đối với tỳ kheo hội đủ tám yếu tố này.
 
-“tena hi, bhikkhave, saṅgho, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambhetu.
+Kết thúc Nhóm Bốn Mươi Ba Trường Hợp Được Thu Hồi trong *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*.
 
-### 7.5. Nappaṭippassambhetabbatecattālīsaka {#7.5}
+Và này các tỳ kheo, cần phải *thu hồi* như sau: Tỳ kheo Channa ấy phải đến trước Tăng đoàn, đắp y vai trái, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi chồm hổm, chắp tay và thưa như vầy: "Bạch chư tôn đức, con bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, nay đã *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*." Cần thỉnh cầu lần thứ hai. Cần thỉnh cầu lần thứ ba. Sau đó, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau:
 
-34.2\. Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Upasampādeti, nissayaṁ deti, sāmaṇeraṁ upaṭṭhāpeti, bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissage, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+"Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* cho tỳ kheo Channa. Đây là *lời đề xuất*.
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Yāya āpattiyā saṅghena pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakammaṁ kataṁ hoti taṁ āpattiṁ āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ garahati, kammike garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ … pe….
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*. Tăng đoàn *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* cho tỳ kheo Channa. Tôn giả nào đồng ý việc *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* cho tỳ kheo Channa thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ. Pakatattassa bhikkhuno uposathaṁ ṭhapeti, pavāraṇaṁ ṭhapeti, savacanīyaṁ karoti, anuvādaṁ paṭṭhapeti, okāsaṁ kāreti, codeti, sāreti, bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ nappaṭippassambhetabbaṁ.
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo Channa này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm*. Tăng đoàn *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* cho tỳ kheo Channa. Tôn giả nào đồng ý việc *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* cho tỳ kheo Channa thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
 
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme nappaṭippassambhetabbatecattālīsakaṁ niṭṭhitaṁ.
+Tăng đoàn đã *thu hồi* xong *hành động đình chỉ sinh hoạt chung* vì không sửa chữa *lỗi phạm* cho tỳ kheo Channa. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
 
-### 7.6. Paṭippassambhetabbatecattālīsaka {#7.6}
+Kết thúc Hành Động Đình Chỉ Sinh Hoạt Chung Do Không Sửa Chữa Lỗi Phạm thứ sáu.
 
-Pañcahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na upasampādeti, na nissayaṁ deti, na sāmaṇeraṁ upaṭṭhāpeti, na bhikkhunovādakasammutiṁ sādiyati, sammatopi bhikkhuniyo na ovadati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+## 7. Hành Động Đình Chỉ Sinh Hoạt Chung Do Không Từ Bỏ Quan Điểm Sai Trái
+*(Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamma)*
 
-Aparehipi, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Yāya āpattiyā saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ kataṁ hoti taṁ āpattiṁ na āpajjati, aññaṁ vā tādisikaṁ, tato vā pāpiṭṭhataraṁ; kammaṁ na garahati, kammike na garahati— imehi kho, bhikkhave, pañcahaṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambhetabbaṁ … pe….
+32.1\. Vào thời ấy, Đức Phật Thế Tôn đang sống tại Sāvatthī, trong khu rừng Jetavana, tu viện của ông Anāthapiṇḍika. Lúc bấy giờ, nơi tỳ kheo tên là Ariṭṭha, trước kia từng làm nghề nuôi kền kền, phát sinh một *quan điểm sai trái* (tà kiến / diṭṭhigataṁ) tồi tệ như sau: "Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vầy: những *điều* (pháp / dhammā) được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại." {#32.1}
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambhetabbaṁ. Na pakatattassa bhikkhuno uposathaṁ ṭhapeti, na pavāraṇaṁ ṭhapeti, na savacanīyaṁ karoti, na anuvādaṁ paṭṭhapeti, na okāsaṁ kāreti, na codeti, na sāreti, na bhikkhūhi sampayojeti— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgatassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambhetabbaṁ.
+Nhiều tỳ kheo nghe tin tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền phát sinh một *quan điểm sai trái* tồi tệ như sau: "Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vầy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại."
 
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme paṭippassambhetabbatecattālīsakaṁ niṭṭhitaṁ.
+Các tỳ kheo ấy liền đi đến gặp tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền. Khi đến nơi, họ hỏi tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền:
 
-35.1\. Evañca pana, bhikkhave, paṭippassambhetabbaṁ. Tena, bhikkhave, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakatena bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo— ‘ahaṁ, bhante, saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato sammā vattāmi, lomaṁ pātemi, netthāraṁ vattāmi, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyassa kammassa paṭippassaddhiṁ yācāmī’ti. Dutiyampi yācitabbā. Tatiyampi yācitabbā. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+– Này hiền giả Ariṭṭha, có thật nơi thầy phát sinh *quan điểm sai trái* tồi tệ như vầy: "Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vầy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại" không?
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambheyya. Esā ñatti.
+– Thưa các hiền giả, đúng là tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vậy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại.
 
-Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho itthannāmassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambheti. Yassāyasmato khamati itthannāmassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+32.2\. – Này hiền giả Ariṭṭha, đừng nói như vậy! Đừng vu khống Đức Thế Tôn! Vu khống Đức Thế Tôn là điều không tốt đâu, bởi Đức Thế Tôn không bao giờ nói như vậy cả. Này hiền giả Ariṭṭha, bằng nhiều cách, Đức Thế Tôn đã nói những *điều* gây chướng ngại là gây chướng ngại và khi hưởng thụ chúng thì chắc chắn đủ để gây chướng ngại. Đức Thế Tôn đã nói *bản năng* (dục / kāmā) ít vị ngọt, nhiều *đau khổ* (khổ / -dukkhā), nhiều phiền muộn và nguy hại trong đó lại càng nhiều hơn. Đức Thế Tôn đã nói *bản năng* được ví như khúc xương không thịt, nhiều *đau khổ*, nhiều phiền muộn và nguy hại trong đó lại càng nhiều hơn. Đức Thế Tôn đã nói *bản năng* được ví như miếng thịt [...lặp lại...] Đức Thế Tôn đã nói *bản năng* được ví như bó đuốc cỏ [...lặp lại...] Đức Thế Tôn đã nói *bản năng* được ví như hố than hồng... Đức Thế Tôn đã nói *bản năng* được ví như giấc chiêm bao... Đức Thế Tôn đã nói *bản năng* được ví như đồ đi mượn... Đức Thế Tôn đã nói *bản năng* được ví như trái cây trên cành... Đức Thế Tôn đã nói *bản năng* được ví như thớt thịt và dao phay... Đức Thế Tôn đã nói *bản năng* được ví như mũi giáo nhọn... Đức Thế Tôn đã nói *bản năng* được ví như đầu rắn độc, nhiều *đau khổ*, nhiều phiền muộn và nguy hại trong đó lại càng nhiều hơn. {#32.2}
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu saṅghena, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammakato sammā vattati, lomaṁ pāteti, netthāraṁ vattati, pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyassa kammassa paṭippassaddhiṁ yācati. Saṅgho itthannāmassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ paṭippassambheti. Yassāyasmato khamati itthannāmassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyassa kammassa paṭippassaddhi, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Dù được các tỳ kheo ấy khuyên bảo như vậy, tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vẫn ngoan cố, bám chấp và cố chấp tuyên bố đúng như *quan điểm sai trái* tồi tệ ấy:
 
-Paṭippassaddhaṁ saṅghena itthannāmassa bhikkhuno, pāpikāya diṭṭhiyā appaṭinissagge, ukkhepanīyakammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+– Thưa các hiền giả, đúng là tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vậy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại.
 
-Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakammaṁ niṭṭhitaṁ sattamaṁ.
+Khi các tỳ kheo ấy không thể làm cho tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền tách rời khỏi *quan điểm sai trái* tồi tệ đó, họ liền đi đến gặp Đức Thế Tôn và trình sự việc lên Ngài. Nhân duyên khởi ấy và trong sự kiện ấy, Đức Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại rồi hỏi tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền:
 
-Kammakkhandhako paṭhamo. Imamhi khandhake vatthū satta.
+32.3\. – Này Ariṭṭha, có thật nơi ông phát sinh *quan điểm sai trái* tồi tệ như vầy: "Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vầy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại" không? {#32.3}
 
-Tassuddānaṁ
+– Bạch Đức Thế Tôn, đúng là con hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vậy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại.
 
-> Paṇḍulohitakā bhikkhū,\
-> sayaṁ bhaṇḍanakārakā;\
-> Tādise upasaṅkamma,\
-> ussahiṁsu ca bhaṇḍane.\
-> Anuppannāpi jāyanti,\
-> uppannānipi vaḍḍhare;\
-> Appicchā pesalā bhikkhū,\
-> ujjhāyanti padassato.\
-> Saddhammaṭṭhitiko buddho,\
-> sayambhū aggapuggalo;\
-> Āṇāpesi tajjanīya,\
-> kammaṁ sāvatthiyaṁ jino.\
-> Asammukhāppaṭipucchāp-\
-> paṭiññāya katañca yaṁ;\
-> Anāpatti adesane,\
-> desitāya katañca yaṁ.\
-> Acodetvā asāretvā,\
-> anāropetvā ca yaṁ kataṁ;\
-> Asammukhā adhammena,\
-> vaggena cāpi yaṁ kataṁ.\
-> Appaṭipucchā adhammena,\
-> puna vaggena yaṁ kataṁ;\
-> Appaṭiññāya adhammena,\
-> vaggena cāpi yaṁ kataṁ.\
-> Anāpatti adhammena,\
-> vaggena cāpi yaṁ kataṁ;\
-> Adesanāgāminiyā,\
-> adhammavaggameva ca.\
-> Desitāya adhammena,\
-> vaggenāpi tatheva ca;\
-> Acodetvā adhammena,\
-> vaggenāpi tatheva ca.\
-> Asāretvā adhammena,\
-> vaggenāpi tatheva ca;\
-> Anāropetvā adhammena,\
-> vaggenāpi tatheva ca.\
-> Kaṇhavāranayeneva,\
-> sukkavāraṁ vijāniyā;\
-> Saṅgho ākaṅkhamāno ca,\
-> yassa tajjanīyaṁ kare.\
-> Bhaṇḍanaṁ bālo saṁsaṭṭho,\
-> adhisīle ajjhācāre;\
-> Atidiṭṭhivipannassa,\
-> saṅgho tajjanīyaṁ kare.\
-> Buddhadhammassa saṅghassa,\
-> avaṇṇaṁ yo ca bhāsati;\
-> Tiṇṇannampi ca bhikkhūnaṁ,\
-> saṅgho tajjaniyaṁ kare.\
-> Bhaṇḍanaṁ kārako eko,\
-> bālo saṁsagganissito;\
-> Adhisīle ajjhācāre,\
-> tatheva atidiṭṭhiyā.\
-> Buddhadhammassa saṅghassa,\
-> avaṇṇaṁ yo ca bhāsati;\
-> Tajjanīyakammakato,\
-> evaṁ sammānuvattanā.\
-> Upasampadanissayā,\
-> sāmaṇeraṁ upaṭṭhanā;\
-> Ovādasammatenāpi,\
-> na kare tajjanīkato.\
-> Nāpajje tañca āpattiṁ,\
-> tādisañca tato paraṁ;\
-> Kammañca kammike cāpi,\
-> na garahe tathāvidho.\
-> Uposathaṁ pavāraṇaṁ,\
-> pakatattassa naṭṭhape;\
-> Savacaniṁ anuvādo,\
-> okāso codanena ca.\
-> Sāraṇaṁ sampayogañca,\
-> na kareyya tathāvidho;\
-> Upasampadanissayā,\
-> sāmaṇeraṁ upaṭṭhanā.\
-> Ovādasammatenāpi,\
-> pañcahaṅgehi na sammati;\
-> Tañcāpajjati āpattiṁ,\
-> tādisañca tato paraṁ.\
-> Kammañca kammike cāpi,\
-> garahanto na sammati;\
-> Uposathaṁ pavāraṇaṁ,\
-> savacanīyā ca novādo.\
-> Okāso codanañceva,\
-> sāraṇā sampayojanā;\
-> Imehaṭṭhaṅgehi yo yutto,\
-> tajjanānupasammati.\
-> Kaṇhavāranayeneva,\
-> sukkavāraṁ vijāniyā;\
-> Bālo āpattibahulo,\
-> saṁsaṭṭhopi ca seyyaso.\
-> Niyassakammaṁ sambuddho,\
-> āṇāpesi mahāmuni;\
-> Kīṭāgirismiṁ dve bhikkhū,\
-> assajipunabbasukā.\
-> Anācārañca vividhaṁ,\
-> ācariṁsu asaññatā;\
-> Pabbājanīyaṁ sambuddho,\
-> kammaṁ sāvatthiyaṁ jino;\
-> Macchikāsaṇḍe sudhammo,\
-> cittassāvāsiko ahu.\
-> Jātivādena khuṁseti,\
-> sudhammo cittupāsakaṁ;\
-> Paṭisāraṇīyakammaṁ,\
-> āṇāpesi tathāgato.\
-> Kosambiyaṁ channaṁ bhikkhuṁ,\
-> Nicchantāpattiṁ passituṁ;\
-> Adassane ukkhipituṁ,\
-> Āṇāpesi jinuttamo.\
-> Channo taṁyeva āpattiṁ,\
-> paṭikātuṁ na icchati;\
-> Ukkhepanāppaṭikamme,\
-> āṇāpesi vināyako.\
-> Pāpadiṭṭhi ariṭṭhassa,\
-> āsi aññāṇanissitā;\
-> Diṭṭhiyāppaṭinissagge,\
-> ukkhepaṁ jinabhāsitaṁ.\
-> Niyassakammaṁ pabbajjaṁ,\
-> tatheva paṭisāraṇī;\
-> Adassanāppaṭikamme,\
-> anissagge ca diṭṭhiyā.\
-> Davānācārūpaghāti,\
-> micchāājīvameva ca;\
-> Pabbājanīyakammamhi,\
-> atirekapadā ime.\
-> Alābhāvaṇṇā dve pañca,\
-> dve pañcakāti nāmakā;\
-> Paṭisāraṇīyakammamhi,\
-> atirekapadā ime.\
-> Tajjanīyaṁ niyassañca,\
-> duve kammāpi sādisā;\
-> Pabbajjā paṭisārī ca,\
-> atthi padātirittatā.\
-> Tayo ukkhepanā kammā,\
-> sadisā te vibhattito;\
-> Tajjanīyanayenāpi,\
-> sesakammaṁ vijāniyāti.
+– Này kẻ ngu dốt, ông nghe Ta thuyết giảng *Giáo pháp* như thế cho ai vậy? Này kẻ ngu dốt, chẳng phải bằng nhiều cách, Ta đã nói những *điều* gây chướng ngại là gây chướng ngại và khi hưởng thụ chúng thì chắc chắn đủ để gây chướng ngại sao? Ta đã nói *bản năng* ít vị ngọt, nhiều *đau khổ*, nhiều phiền muộn và nguy hại trong đó lại càng nhiều hơn. Ta đã nói *bản năng* được ví như khúc xương không thịt, nhiều *đau khổ*, nhiều phiền muộn và nguy hại trong đó lại càng nhiều hơn. Ta đã nói *bản năng* được ví như miếng thịt [...lặp lại...] Ta đã nói *bản năng* được ví như bó đuốc cỏ... Ta đã nói *bản năng* được ví như hố than hồng... Ta đã nói *bản năng* được ví như giấc chiêm bao... Ta đã nói *bản năng* được ví như đồ đi mượn... Ta đã nói *bản năng* được ví như trái cây trên cành... Ta đã nói *bản năng* được ví như thớt thịt và dao phay... Ta đã nói *bản năng* được ví như mũi giáo nhọn... Ta đã nói *bản năng* được ví như đầu rắn độc, nhiều *đau khổ*, nhiều phiền muộn và nguy hại trong đó lại càng nhiều hơn. Thế nhưng, này kẻ ngu dốt, chính ông do hiểu sai mà vu khống Ta, tự hủy hoại chính mình và tạo ra nhiều điều bất thiện. Điều ấy, này kẻ ngu dốt, sẽ đưa đến bất lợi và *đau khổ* lâu dài cho ông. Này kẻ ngu dốt, điều này không đem lại *niềm tin tuyệt đối* cho những người chưa có niềm tin [...lặp lại...].
 
-Kammakkhandhako niṭṭhito.
+Sau khi quở trách [...lặp lại...] và thuyết giảng bài *Giáo pháp* [...lặp lại...], Ngài gọi các tỳ kheo lại và bảo:
+
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Và này các tỳ kheo, cần phải thực hiện như sau: Trước tiên, tỳ kheo Ariṭṭha phải được *nhắc nhở lỗi*; sau khi nhắc nhở lỗi, phải *làm cho nhớ lại*; sau khi làm cho nhớ lại, phải *quy kết lỗi phạm*; sau khi quy kết *lỗi phạm*, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau:
+
+32.4\. "Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Nơi tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền này đã phát sinh *quan điểm sai trái* tồi tệ như sau: 'Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vầy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại.' Vị ấy không chịu từ bỏ quan điểm đó. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Đây là *lời đề xuất*. {#32.4}
+
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Nơi tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền này đã phát sinh *quan điểm sai trái* tồi tệ như sau: 'Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vầy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại.' Vị ấy không chịu từ bỏ quan điểm đó. Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tôn giả nào đồng ý việc thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*, thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
+
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Nơi tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền này đã phát sinh *quan điểm sai trái* tồi tệ như sau: 'Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng là như vầy: những *điều* được Đức Thế Tôn nói là gây chướng ngại thì khi hưởng thụ chúng cũng không đủ để gây chướng ngại.' Vị ấy không chịu từ bỏ quan điểm đó. Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tôn giả nào đồng ý việc thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*, thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
+
+Tăng đoàn đã thực hiện xong *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
+
+Và này các tỳ kheo, hãy thông báo từ trú xứ này đến trú xứ khác rằng: "Tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền đã bị Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*."
+
+### 7.1. Nhóm Mười Hai Hành Động Trái Quy Luật
+
+33.1\. Này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ hội đủ ba yếu tố sẽ là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi vắng mặt, được thực hiện khi không thẩm vấn, được thực hiện khi không có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. {#33.1}
+
+Lại nữa, này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ hội đủ ba yếu tố khác cũng là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*. Đó là: được thực hiện khi không có *lỗi phạm*, được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* đã thú nhận rồi [...lặp lại...]
+
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện khi chưa *quy kết lỗi phạm* [...lặp lại...]
+
+được thực hiện khi vắng mặt, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
+
+được thực hiện khi không thẩm vấn, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
+
+được thực hiện khi không có sự thừa nhận, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
+
+được thực hiện khi không có *lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
+
+được thực hiện đối với *lỗi phạm* không thuộc loại thú nhận bằng lời, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
+
+được thực hiện đối với *lỗi phạm* đã thú nhận rồi, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
+
+được thực hiện khi chưa *nhắc nhở lỗi*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
+
+được thực hiện khi chưa *làm cho nhớ lại*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ [...lặp lại...]
+
+được thực hiện khi chưa *quy kết lỗi phạm*, được thực hiện *trái Quy luật*, được thực hiện trong tình trạng chia rẽ - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ là *hành động trái Quy luật*, trái giới luật và khó *lắng dịu*.
+
+Kết thúc Nhóm Mười Hai Hành Động Trái Quy Luật trong *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+### 7.2. Nhóm Mười Hai Hành Động Đúng Quy Luật
+
+Này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ hội đủ ba yếu tố sẽ là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có mặt, được thực hiện sau khi thẩm vấn, được thực hiện khi có sự thừa nhận - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
+
+Lại nữa, này các tỳ kheo, một *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ hội đủ ba yếu tố khác cũng là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*. Đó là: được thực hiện khi có *lỗi phạm*, được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đối với *lỗi phạm* chưa thú nhận [...lặp lại...]
+
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện sau khi *làm cho nhớ lại*, được thực hiện sau khi *quy kết lỗi phạm* [...lặp lại...]
+
+được thực hiện khi có mặt, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
+
+được thực hiện sau khi thẩm vấn, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
+
+được thực hiện khi có sự thừa nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
+
+được thực hiện khi có *lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
+
+được thực hiện đối với *lỗi phạm* thuộc loại thú nhận bằng lời, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
+
+được thực hiện đối với *lỗi phạm* chưa thú nhận, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
+
+được thực hiện sau khi *nhắc nhở lỗi*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
+
+được thực hiện sau khi *làm cho nhớ lại*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp [...lặp lại...]
+
+được thực hiện sau khi *quy kết lỗi phạm*, được thực hiện đúng *Quy luật*, được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này, *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ là *hành động đúng Quy luật*, đúng giới luật và dễ *lắng dịu*.
+
+Kết thúc Nhóm Mười Hai Hành Động Đúng Quy Luật trong *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+### 7.3. Nhóm Sáu Trường Hợp Tùy Ý Thi Hành
+
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với một tỳ kheo hội đủ ba yếu tố sau: là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với một tỳ kheo hội đủ ba yếu tố khác: hư hỏng đạo đức trong giới luật căn bản, hư hỏng hành vi trong phép tắc ứng xử, hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với một tỳ kheo hội đủ ba yếu tố khác: nói lời chê bai Đức Phật, nói lời chê bai *Giáo pháp*, nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với tỳ kheo hội đủ ba yếu tố này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với ba hạng tỳ kheo sau: một vị là kẻ hay gây gổ, cãi vã, tranh chấp, nói lời vô ích và gây ra các vụ tranh tụng trong Tăng đoàn; một vị là kẻ ngu dốt, thiếu hiểu biết, nhiều *lỗi phạm* và không biết thận trọng; một vị sống thân mật với người tại gia bằng những mối quan hệ không phù hợp - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với ba hạng tỳ kheo khác: một vị hư hỏng đạo đức trong giới luật căn bản, một vị hư hỏng hành vi trong phép tắc ứng xử, một vị hư hỏng nhận thức trong quan điểm cực đoan - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+Lại nữa, này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với ba hạng tỳ kheo khác: một vị nói lời chê bai Đức Phật, một vị nói lời chê bai *Giáo pháp*, một vị nói lời chê bai Tăng đoàn - này các tỳ kheo, đối với ba hạng tỳ kheo này, nếu muốn, Tăng đoàn có thể thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+Kết thúc Nhóm Sáu Trường Hợp Tùy Ý Thi Hành trong *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+### 7.4. Bốn Mươi Ba Nguyên Tắc Ứng Xử
+
+Này các tỳ kheo, tỳ kheo bị thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ cần phải cư xử đúng đắn. Cách cư xử đúng đắn trong trường hợp ấy là như sau:
+
+Kết thúc bốn mươi ba nguyên tắc ứng xử trong *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+34.1\. Sau đó, Tăng đoàn thực hiện *hành động đình chỉ sinh hoạt chung* đối với tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền vì không từ bỏ *quan điểm sai trái* tồi tệ, theo đó vị ấy *không cùng sinh hoạt với Tăng đoàn*. Khi bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ, vị ấy hoàn tục. Những tỳ kheo ít ham muốn [...lặp lại...] liền phàn nàn, chỉ trích và lên tiếng phê phán: {#34.1}
+
+– Sao tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền khi bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ lại hoàn tục như vậy?
+
+Sau đó, các tỳ kheo ấy trình sự việc lên Đức Thế Tôn. Nhân duyên khởi ấy và trong sự kiện ấy, Đức Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại rồi hỏi các tỳ kheo:
+
+– Này các tỳ kheo, có thật là tỳ kheo Ariṭṭha từng làm nghề nuôi kền kền khi bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đã hoàn tục không?
+
+– Bạch Đức Thế Tôn, đúng là như vậy.
+
+Đức Phật Thế Tôn liền quở trách:
+
+– Việc làm ấy thật không xứng đáng [...lặp lại...]. Này các tỳ kheo, sao kẻ ngu dốt ấy khi bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ lại hoàn tục như vậy? Này các tỳ kheo, điều này không đem lại *niềm tin tuyệt đối* cho những người chưa có niềm tin [...lặp lại...].
+
+Sau khi quở trách [...lặp lại...] và thuyết giảng bài *Giáo pháp* [...lặp lại...], Ngài gọi các tỳ kheo lại và bảo:
+
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ [khi vị ấy biết hối cải].
+
+### 7.5. Nhóm Bốn Mươi Ba Trường Hợp Không Được Thu Hồi
+
+34.2\. Này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ năm yếu tố sau: truyền giới cho người xuất gia, nhận làm thầy nương tựa, cho sa-di phục vụ, chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định vẫn tiếp tục giáo giới các tỳ kheo ni - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ năm yếu tố này. {#34.2}
+
+Lại nữa, này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ năm yếu tố khác: tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ, phạm một *lỗi phạm* khác tương tự như vậy, phạm một *lỗi phạm* còn tệ hại hơn thế, chê trách *hành động [kỷ luật]* và chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ năm yếu tố này [...lặp lại...].
+
+Này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ tám yếu tố sau: đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, đình chỉ lễ Pavāraṇā của vị ấy, đưa ra lời tuyên bố ngăn cản, đặt ra sự cáo buộc, buộc phải xin phép chất vấn, *nhắc nhở lỗi*, *làm cho nhớ lại* và gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, không được *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ tám yếu tố này.
+
+Kết thúc Nhóm Bốn Mươi Ba Trường Hợp Không Được Thu Hồi trong *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+### 7.6. Nhóm Bốn Mươi Ba Trường Hợp Được Thu Hồi
+
+Này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ năm yếu tố sau: không truyền giới cho người xuất gia, không nhận làm thầy nương tựa, không cho sa-di phục vụ, không chấp nhận sự cử định làm người giáo giới tỳ kheo ni và dù đã được cử định cũng không giáo giới các tỳ kheo ni - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ năm yếu tố này.
+
+Lại nữa, này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ năm yếu tố khác: không tái phạm *lỗi phạm* mà vì đó Tăng đoàn đã thực hiện *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ, không phạm một *lỗi phạm* khác tương tự như vậy, không phạm một *lỗi phạm* còn tệ hại hơn thế, không chê trách *hành động [kỷ luật]* và không chê trách những người thực hiện *hành động [kỷ luật]* - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ năm yếu tố này [...lặp lại...].
+
+Này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ tám yếu tố sau: không đình chỉ lễ Uposatha của tỳ kheo thanh tịnh, không đình chỉ lễ Pavāraṇā của vị ấy, không đưa ra lời tuyên bố ngăn cản, không đặt ra sự cáo buộc, không buộc phải xin phép chất vấn, không *nhắc nhở lỗi*, không *làm cho nhớ lại* và không gây chia rẽ giữa các tỳ kheo - này các tỳ kheo, nên *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ đối với tỳ kheo hội đủ tám yếu tố này.
+
+Kết thúc Nhóm Bốn Mươi Ba Trường Hợp Được Thu Hồi trong *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ.
+
+35.1\. Và này các tỳ kheo, cần phải *thu hồi* như sau: Tỳ kheo bị thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ ấy phải đến trước Tăng đoàn, đắp y vai trái, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi chồm hổm, chắp tay và thưa như vầy: "Bạch chư tôn đức, con bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ, nay đã *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ." Cần thỉnh cầu lần thứ hai. Cần thỉnh cầu lần thứ ba. Sau đó, một tỳ kheo lanh lợi và có năng lực cần thông báo cho Tăng đoàn như sau: {#35.1}
+
+"Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo tên là [...] này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ. Nếu Tăng đoàn thấy đã đến lúc thích hợp, Tăng đoàn hãy *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ cho tỳ kheo tên là [...]. Đây là *lời đề xuất*.
+
+Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo tên là [...] này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ. Tăng đoàn *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ cho tỳ kheo tên là [...]. Tôn giả nào đồng ý việc *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ cho tỳ kheo tên là [...] thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
+
+Lần thứ hai tôi cũng xin tuyên bố điều này [...lặp lại...]. Lần thứ ba tôi cũng xin tuyên bố điều này: Bạch chư tôn đức, xin Tăng đoàn hãy lắng nghe tôi. Tỳ kheo tên là [...] này bị Tăng đoàn thi hành *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ, nay *cư xử đúng đắn, hạ thấp bản ngã và hành xử phục tùng*, xin thỉnh cầu *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ. Tăng đoàn *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ cho tỳ kheo tên là [...]. Tôn giả nào đồng ý việc *thu hồi* *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ cho tỳ kheo tên là [...] thì xin giữ im lặng; tôn giả nào không đồng ý thì xin lên tiếng.
+
+Tăng đoàn đã *thu hồi* xong *hành động đình chỉ sinh hoạt chung* vì không từ bỏ *quan điểm sai trái* tồi tệ cho tỳ kheo tên là [...]. Tăng đoàn đồng ý nên giữ im lặng, tôi xin ghi nhận là như vậy."
+
+Kết thúc Hành Động Đình Chỉ Sinh Hoạt Chung Do Không Từ Bỏ Quan Điểm Sai Trái thứ bảy.
+
+Chương Hành Sự là chương thứ nhất. Trong chương này có bảy sự kiện.
+
+Kệ tóm tắt chương này:
+
+> Paṇḍulohita,\
+> Tự mình hay gây gổ;\
+> Lại tìm đến kẻ khác,\
+> Xúi giục việc tranh cãi.
+>>
+> Chưa sinh liền phát sinh,\
+> Đã sinh càng tăng trưởng;\
+> Tỳ kheo ít ham muốn,\
+> Đức hạnh liền phê phán.
+>>
+> Đức Phật giữ Chánh pháp,\
+> Tự giác bậc tối tôn;\
+> Tại thành Sāvatthī,\
+> Dạy làm phép khiển trách.
+>>
+> Làm khi người vắng mặt,\
+> Không hỏi không nhận lỗi;\
+> Vô tội, tội bất sám,\
+> Hoặc tội đã sám rồi.
+>>
+> Chưa nhắc chưa gợi nhớ,\
+> Chưa quy kết tội danh;\
+> Vắng mặt, trái quy luật,\
+> Làm trong lúc chia rẽ.
+>>
+> Không hỏi, trái quy luật,\
+> Lại làm lúc chia rẽ;\
+> Không nhận, trái quy luật,\
+> Làm trong lúc chia rẽ.
+>>
+> Vô tội, trái quy luật,\
+> Làm trong lúc chia rẽ;\
+> Tội không thuộc lời sám,\
+> Trái luật và chia rẽ.
+>>
+> Tội đã sám, trái luật,\
+> Chia rẽ cũng như vậy;\
+> Chưa nhắc, trái quy luật,\
+> Chia rẽ cũng như vậy.
+>>
+> Chưa gợi nhớ, trái luật,\
+> Chia rẽ cũng như vậy;\
+> Chưa quy tội, trái luật,\
+> Chia rẽ cũng như vậy.
+>>
+> Theo lối phần tối ấy,\
+> Hiểu rõ phần sáng thôi;\
+> Tăng đoàn nếu muốn làm,\
+> Khiển trách đối tượng nào.
+>>
+> Gây gổ, ngu, giao du,\
+> Hư giới cùng hạnh kiểm;\
+> Sai lệch về quan điểm,\
+> Tăng đoàn sẽ khiển trách.
+>>
+> Kẻ chê bai Phật, Pháp,\
+> Hoặc chê bai Tăng đoàn;\
+> Với cả ba hạng này,\
+> Tăng đoàn nên khiển trách.
+>>
+> Một vị hay gây gổ,\
+> Ngu dốt và giao du;\
+> Hư giới cùng hạnh kiểm,\
+> Cũng như sai quan điểm.
+>>
+> Một vị hay chê bai,\
+> Phật, Giáo pháp, Tăng đoàn;\
+> Người chịu phép khiển trách,\
+> Phải ứng xử đúng mực.
+>>
+> Truyền giới và nhận thầy,\
+> Cho sa-di phục vụ;\
+> Giáo giới hàng ni chúng,\
+> Người bị trách không làm.
+>>
+> Không tái phạm lỗi ấy,\
+> Lỗi tương tự hoặc hơn;\
+> Phép phạt hay người phạt,\
+> Vị ấy không chê trách.
+>>
+> Không đình chỉ bố-tát,\
+> Tự tứ của người lành;\
+> Không ngăn, không cáo buộc,\
+> Không bắt xin chất vấn.
+>>
+> Không nhắc, không gợi nhớ,\
+> Không gây sự chia rẽ;\
+> Truyền giới và nhận thầy,\
+> Cho sa-di phục vụ.
+>>
+> Giáo giới hàng ni chúng,\
+> Năm điều ấy không giải;\
+> Nếu tái phạm lỗi ấy,\
+> Lỗi tương tự hoặc hơn.
+>>
+> Chê phép hay người phạt,\
+> Cũng không được thu hồi;\
+> Bố-tát và tự tứ,\
+> Tuyên bố ngăn, cáo buộc.
+>>
+> Bắt xin phép, nhắc lỗi,\
+> Gợi nhớ và chia rẽ;\
+> Ai mắc tám điều này,\
+> Án khiển trách không giải.
+>>
+> Theo lối phần tối ấy,\
+> Hiểu rõ phần sáng thôi;\
+> Ngu dốt phạm lỗi nhiều,\
+> Seyyaso giao du.
+>>
+> Đấng Đại Mâu-ni dạy,\
+> Buộc vị sống nương tựa;\
+> Xứ Kīṭāgiri,\
+> Assaji, Punab.
+>>
+> Buông lung làm đủ thứ,\
+> Hành vi thiếu đứng đắn;\
+> Tại thành Sāvatthī,\
+> Đức Phật dạy trục xuất;\
+> Macchikāsaṇḍa,\
+> Ở chùa của Citta.
+>>
+> Dùng chuyện dòng dõi thấp,\
+> Chê cư sĩ Citta;\
+> Như Lai liền truyền dạy,\
+> Phép buộc phải xin lỗi.
+>>
+> Kosambī Channa,\
+> Không chịu nhận lỗi phạm;\
+> Bậc Tối Thắng truyền dạy,\
+> Đình chỉ vì không nhận.
+>>
+> Channa với lỗi ấy,\
+> Không chịu sửa chữa lại;\
+> Đấng Đạo Sư truyền dạy,\
+> Đình chỉ vì không sửa.
+>>
+> Ariṭṭha thiếu biết,\
+> Sinh quan điểm xấu xa;\
+> Đức Phật dạy đình chỉ,\
+> Vì không bỏ tà kiến.
+>>
+> Buộc nương tựa, trục xuất,\
+> Cũng như buộc xin lỗi;\
+> Không nhận, không sửa lỗi,\
+> Và không bỏ tà kiến.
+>>
+> Đùa giỡn và phi hạnh,\
+> Tổn hại cùng tà mạng;\
+> Trong phép trục xuất ấy,\
+> Có thêm các điều này.
+>>
+> Làm mất lợi, chê bai,\
+> Hai nhóm năm điều ấy;\
+> Trong phép buộc xin lỗi,\
+> Có thêm các điều này.
+>>
+> Khiển trách và nương tựa,\
+> Hai phép này giống nhau;\
+> Trục xuất và xin lỗi,\
+> Có thêm phần chi tiết.
+>>
+> Ba phép đình chỉ ấy,\
+> Phân tích đều giống nhau;\
+> Theo phép khiển trách trước,\
+> Hiểu rõ các phép sau.
+
+Kết thúc Chương Hành Sự.
+
+---
+
+### Bối cảnh kinh:
+Chương này thuộc Tiểu Phẩm (*Cullavagga*) trong Luật Tạng Pāḷi, trình bày chi tiết bảy *hành động kỷ luật* (*kamma* / yết-ma) của Tăng đoàn nhằm xử lý các tỳ kheo vi phạm giới luật, gây chia rẽ, làm mất niềm tin của cư sĩ hoặc giữ quan điểm sai trái. Bảy hành động bao gồm: khiển trách (*tajjanīyakamma*), buộc sống nương tựa (*niyassakamma*), trục xuất khỏi trú xứ (*pabbājanīyakamma*), buộc xin lỗi gia chủ (*paṭisāraṇīyakamma*), đình chỉ sinh hoạt chung do không chịu nhìn nhận lỗi (*āpattiyā adassane ukkhepanīyakamma*), do không chịu sửa chữa lỗi (*āpattiyā appaṭikamme ukkhepanīyakamma*) và do không chịu từ bỏ quan điểm sai trái (*pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamma*). Mỗi phần đều quy định rõ duyên khởi, nghi thức tuyên bố, 12 trường hợp xử lý đúng/sai quy luật, các trường hợp được phép thi hành, các nguyên tắc ứng xử (*aṭṭhārasavatta* / *tecattālīsavatta*) và điều kiện để thu hồi kỷ luật.
+
+### Ghi chú tài liệu:
+- Chương này là Khandhaka thứ nhất của Tiểu Phẩm ([Vin. Cv. 1](/l?q=cv-1)), tức chương thứ 11 trong phần Khandhaka của Luật Tạng (*Kammakkhandhaka*).
+- Phần 3 (nhóm tỳ kheo Assaji và Punabbasuka ở Kīṭāgiri) có liên quan trực tiếp đến quy định Tăng tàn thứ 13 ([Vin. Bu. Ss. 13](/l?q=bu-ss-13)) và bài Kinh Kīṭāgiri ([MN 70](/l?q=mn-70)).
+- Phần 4 (Tôn giả Sudhamma và gia chủ Citta ở Macchikāsaṇḍa) liên hệ với bối cảnh của Chương Tương Ưng Tâm (*Cittasaṁyutta*, [SN 41](/l?q=sn-41)).
+- Phần 7 (tỳ kheo Ariṭṭha từng là người nuôi kền kền) có nội dung song song với Kinh Ví Dụ Con Rắn ([MN 22](/l?q=mn-22)) và quy định Ba-dật-đề thứ 68 ([Vin. Bu. Pc. 68](/l?q=bu-pc-68)).
+- Lưu ý trong văn bản: các mục về "18 nguyên tắc ứng xử" (*aṭṭhārasavatta*) và "43 nguyên tắc ứng xử" (*tecattālīsavatta*) chỉ ghi tiêu đề tóm tắt mà không liệt kê chi tiết nội dung (các chi tiết này tương ứng với các danh mục điều kiện ở phần thu hồi kỷ luật ngay sau đó).
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [!] kamma | hành động [kỷ luật] | yết-ma | Chỉ các quyết nghị hành pháp chính thức của Tăng đoàn. |
+| [!] tajjanīyakamma | hành động khiển trách | ha trách yết-ma | `tajjanīya`: răn đe, khiển trách công khai. |
+| [!] niyassakamma | hành động buộc sống nương tựa | y chỉ yết-ma | `niyassa`: buộc phải sống dưới sự hướng dẫn của vị thầy khác. |
+| [!] pabbājanīyakamma | hành động trục xuất | khu tẩn yết-ma | `pabbājanīya`: buộc phải rời khỏi trú xứ hiện tại. |
+| [!] paṭisāraṇīyakamma | hành động buộc xin lỗi | hạ ý yết-ma | `paṭisāraṇīya`: buộc phải quay lại làm hòa và xin lỗi người tại gia. |
+| [!] ukkhepanīyakamma | hành động đình chỉ sinh hoạt chung | cử tội / tẫn xuất yết-ma | `ukkhepanīya`: treo tư cách sinh hoạt chung (`asambhogaṁ saṅghena`). |
+| [!] āpatti | lỗi phạm | tội / phạm giới | Chỉ sự vi phạm các điều học đã quy định. |
+| [!] ñatti | lời đề xuất | bạch / tác bạch | Lời nêu vấn đề trước khi Tăng đoàn biểu quyết. |
+| [!] codetabbo / sāretabbo / āpattiṁ āropetabbo | nhắc nhở lỗi / làm cho nhớ lại / quy kết lỗi phạm | cử tội / ức niệm / tác tội | Quy trình 3 bước trước khi đưa ra Tăng đoàn xử lý. |
+| [!] paṭippassambhetabba | cần được thu hồi | cần được giải trừ (tức diệt) | `paṭippassambheti`: làm lắng dịu, gỡ bỏ án kỷ luật. |
+| [!] asambhogaṁ saṅghena | không cùng sinh hoạt với Tăng đoàn | bất cộng trụ / bất cộng thọ dụng | Bị đình chỉ quyền ăn ở, tụng giới và sinh hoạt chung. |
+| [!] sammā vattitabbaṁ, lomaṁ pātenti, netthāraṁ vattanti | cư xử đúng đắn, hạ thấp bản ngã, hành xử phục tùng | tùy thuận hành, hạ kỳ, thuận hành | `lomaṁ pāteti`: nghĩa đen là "rũ lông xuống", chỉ sự từ bỏ kiêu ngạo. |
+| [!] anudūta | người đi kèm hỗ trợ | tùy hành sứ giả | Vị tỳ kheo được Tăng cử đi cùng để giúp người bị kỷ luật xin lỗi. |
+| dhamma | Giáo pháp; Quy luật; điều | pháp | Dùng theo ngữ cảnh: *Giáo pháp* (lời dạy), *Quy luật* (nguyên tắc đúng đắn), *điều* (hiện tượng/yếu tố). |
+| adhammakamma | hành động trái Quy luật | phi pháp yết-ma | Chỉ hành động kỷ luật vi phạm quy trình của Tăng đoàn. |
+| vūpasama | lắng dịu | diệt | `duvūpasanta`: khó lắng dịu; `suvūpasanta`: dễ lắng dịu. |
+| pasanno / pasādāya | niềm tin tuyệt đối | tịnh tín | Chỉ trạng thái tâm tin tưởng trong sáng, vững chắc. |
+| kāma | bản năng | dục | Chỉ sự thỏa mãn năm giác quan. |
+| dukkha | đau khổ | khổ | |
+| chanda | mong muốn | dục | Trong `chandagāmitā`: thiên vị vì mong muốn cá nhân. |
+| dosa | ám ảnh khó chịu | sân | Trong `dosagāmitā`: thiên vị vì thù ghét. |
+| moha | sự u mê | si | Trong `mohagāmitā`: thiên vị vì thiếu sáng suốt. |
+| paccaya | điều kiện vừa đủ | duyên | Trong `gilānappaccaya`: vật phẩm cần thiết cho người bệnh. |
+| upaghātika | gây tổn hại | tổn hại | Hành vi làm hại bằng thân hoặc lời nói. |
+| micchājīva | nghề nghiệp sai trái | tà mạng | Nuôi sống bằng phương thức không đúng đắn. |
+| [!] diṭṭhigata | quan điểm sai trái | kiến / tà kiến | Chỉ quan điểm cố chấp, sai lệch (như trường hợp Ariṭṭha). |
+

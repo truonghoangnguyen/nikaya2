@@ -43,7 +43,9 @@
 }
 
 body {
-  font-size: 20px;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  /* font-size: 20px; */
   /* line-height: 32px; */
 
   /* color:burlywood; */
@@ -78,11 +80,13 @@ ol {
 
 .vp-doc p {
   line-height: 33px;
+  text-wrap: pretty;
 }
 
 .vp-doc h2 {
   border-top: none;
   margin-top: 12px;
+  text-wrap: pretty;
 }
 
 .translation-grid {
@@ -251,6 +255,11 @@ html.img-viewer-open {
 }
 
 @keyframes img-viewer-fade {
-  from { opacity: 0; }
-  to   { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }

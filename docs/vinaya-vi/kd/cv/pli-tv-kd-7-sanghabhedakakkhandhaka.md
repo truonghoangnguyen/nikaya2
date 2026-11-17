@@ -1,556 +1,864 @@
-# PLI-TV-KD 17. Saṅghabhedakakkhandhaka
+---
+description: Chương Luật tạng ghi lại câu chuyện xuất gia của sáu vương tử dòng Thích-ca, cuộc nổi loạn chia rẽ Tăng đoàn của Devadatta và quy định pháp lý về rạn nứt và chia rẽ Tăng đoàn.
+---
 
-# 17. Saṅghabhedakakkhandhaka
 
-### 1. 1 Chasakyapabbajjākathā
+# PLI-TV-KD 17. CHƯƠNG CHIA RẼ TĂNG ĐOÀN
+*(Saṅghabhedakakkhandhaka)*
 
-1.1\. Tena samayena buddho bhagavā anupiyāyaṁ viharati, anupiyaṁ nāma mallānaṁ nigamo. Tena kho pana samayena abhiññātā abhiññātā sakyakumārā bhagavantaṁ pabbajitaṁ anupabbajanti.
+***Bối cảnh kinh:***
 
-Tena kho pana samayena mahānāmo ca sakko anuruddho ca sakko dvebhātikā honti. Anuruddho sakko sukhumālo hoti. Tassa tayo pāsādā honti— eko hemantiko, eko gimhiko, eko vassiko. So vassike pāsāde cattāro māse nippurisehi tūriyehi paricārayamāno na heṭṭhāpāsādaṁ orohati.
+Chương này thuộc Phần Tiểu Phẩm (*Cullavagga*, Khandhaka 17) trong Luật tạng Pāḷi, ghi lại toàn bộ diễn biến cuộc chia rẽ Tăng đoàn do Devadatta gây ra: từ nguyên nhân xuất gia của sáu vương tử dòng Thích-ca cùng thợ cắt tóc Upāli, sự sa sút của Devadatta khi chạy theo lợi lộc và quyền lực cùng thái tử Ajātasattu, các âm mưu sát hại Đức Phật, việc đưa ra năm điều khổ hạnh để lôi kéo Tăng chúng tách riêng, sự can thiệp của hai vị đại đệ tử Sāriputta và Mahāmoggallāna, cho đến phần hỏi đáp với Tôn giả Upāli về ranh giới pháp lý giữa "rạn nứt Tăng đoàn" và "chia rẽ Tăng đoàn".
 
-Atha kho mahānāmassa sakkassa etadahosi— “etarahi kho abhiññātā abhiññātā sakyakumārā bhagavantaṁ pabbajitaṁ anupabbajanti. Amhākañca pana kulā natthi koci agārasmā anagāriyaṁ pabbajito. Yannūnāhaṁ vā pabbajeyyaṁ, anuruddho vā”ti. Atha kho mahānāmo sakko yena anuruddho sakko tenupasaṅkami, upasaṅkamitvā anuruddhaṁ sakkaṁ etadavoca— “etarahi, tāta anuruddha, abhiññātā abhiññātā sakyakumārā bhagavantaṁ pabbajitaṁ anupabbajanti. Amhākañca pana kulā natthi koci agārasmā anagāriyaṁ pabbajito. Tena hi tvaṁ vā pabbaja, ahaṁ vā pabbajissāmī”ti. “Ahaṁ kho sukhumālo, nāhaṁ sakkomi agārasmā anagāriyaṁ pabbajituṁ. Tvaṁ pabbajāhī”ti.
+### 1.1. Chuyện xuất gia của sáu vương tử dòng Thích-ca
+*(Chasakyapabbajjākathā)*
 
-1.2\. “Ehi kho te, tāta anuruddha, gharāvāsatthaṁ anusāsissāmi. Paṭhamaṁ khettaṁ kasāpetabbaṁ. Kasāpetvā vapāpetabbaṁ. Vapāpetvā udakaṁ abhinetabbaṁ. Udakaṁ abhinetvā udakaṁ ninnetabbaṁ. Udakaṁ ninnetvā niddhāpetabbaṁ. Niddhāpetvā lavāpetabbaṁ. Lavāpetvā ubbāhāpetabbaṁ. Ubbāhāpetvā puñjaṁ kārāpetabbaṁ. Puñjaṁ kārāpetvā maddāpetabbaṁ. Maddāpetvā palālāni uddharāpetabbāni. Palālāni uddharāpetvā bhusikā uddharāpetabbā. Bhusikaṁ uddharāpetvā opunāpetabbaṁ. Opunāpetvā atiharāpetabbaṁ. Atiharāpetvā āyatimpi vassaṁ evameva kātabbaṁ, āyatimpi vassaṁ evameva kātabban”ti.
+1.1\. Một thời Đức Phật, Thế Tôn ở tại Anupiyā - tên một thị trấn của dân Malla. Lúc bấy giờ, rất nhiều vương tử Thích-ca danh tiếng đã xuất gia theo Thế Tôn, bậc đã xuất gia. {#1.1}
 
-“Na kammā khīyanti? Na kammānaṁ anto paññāyati? Kadā kammā khīyissanti? Kadā kammānaṁ anto paññāyissati? Kadā mayaṁ appossukkā pañcahi kāmaguṇehi samappitā samaṅgībhūtā paricāressāmā”ti?
+Khi ấy có hai anh em người Thích-ca là Mahānāma và Anuruddha. Anuruddha người Thích-ca vốn mảnh mai, quen sống nhung lụa. Chàng có ba tòa lâu đài: một cho mùa lạnh, một cho mùa nóng và một cho mùa mưa. Trong suốt bốn tháng mùa mưa ở tòa lâu đài mùa mưa, chàng được phục vụ bởi dàn nhạc toàn nữ và không hề bước xuống tầng dưới.
 
-“Na hi, tāta anuruddha, kammā khīyanti. Na kammānaṁ anto paññāyati. Akhīṇeva kamme pitaro ca pitāmahā ca kālaṅkatā”ti.
+Rồi Mahānāma người Thích-ca suy nghĩ: "Hiện nay rất nhiều vương tử Thích-ca danh tiếng đã xuất gia theo Thế Tôn, bậc đã xuất gia. Còn trong gia đình chúng ta chưa có ai rời bỏ gia đình sống đời không nhà để xuất gia cả. Hay là ta xuất gia, hoặc Anuruddha xuất gia?"
 
-“Tena hi tvaññeva gharāvāsatthena upajānāhi. Ahaṁ agārasmā anagāriyaṁ pabbajissāmī”ti.
+Thế rồi Mahānāma người Thích-ca đến gặp Anuruddha người Thích-ca và nói:
 
-Atha kho anuruddho sakko yena mātā tenupasaṅkami, upasaṅkamitvā mātaraṁ etadavoca— “icchāmahaṁ, amma, agārasmā anagāriyaṁ pabbajituṁ. Anujānāhi maṁ agārasmā anagāriyaṁ pabbajjāyā”ti. Evaṁ vutte, anuruddhassa sakkassa mātā anuruddhaṁ sakkaṁ etadavoca—
+– Này em Anuruddha, hiện nay rất nhiều vương tử Thích-ca danh tiếng đã xuất gia theo Thế Tôn, bậc đã xuất gia. Trong gia đình chúng ta chưa có ai rời bỏ gia đình sống đời không nhà để xuất gia. Vậy hoặc em hãy xuất gia, hoặc anh sẽ xuất gia.
 
-“tumhe kho me, tāta anuruddha, dve puttā piyā manāpā appaṭikūlā. Maraṇenapi vo akāmakā vinā bhavissāmi. Kiṁ panāhaṁ tumhe jīvante anujānissāmi agārasmā anagāriyaṁ pabbajjāyā”ti?
+– Em vốn mảnh mai quen sống nhung lụa, em không thể rời bỏ gia đình sống đời không nhà để xuất gia được. Anh hãy xuất gia đi!
 
-Dutiyampi kho …pe… tatiyampi kho anuruddho sakko mātaraṁ etadavoca— “icchāmahaṁ, amma, agārasmā anagāriyaṁ pabbajituṁ. Anujānāhi maṁ agārasmā anagāriyaṁ pabbajjāyā”ti.
+1.2\. – Vậy lại đây, này em Anuruddha, anh sẽ chỉ bảo cho em việc quản lý đời sống gia đình. Trước tiên phải cho cày ruộng. Cho cày xong phải cho gieo hạt. Cho gieo hạt xong phải cho dẫn nước vào. Cho dẫn nước vào xong phải cho rút nước ra. Cho rút nước ra xong phải cho nhổ cỏ. Cho nhổ cỏ xong phải cho gặt lúa. Cho gặt lúa xong phải cho gom lúa về. Cho gom lúa về xong phải cho đánh đống. Cho đánh đống xong phải cho đạp lúa. Cho đạp lúa xong phải cho rút rơm ra. Cho rút rơm ra xong phải cho tách vỏ trấu. Cho tách vỏ trấu xong phải cho sàng sảy. Cho sàng sảy xong phải cho chuyển vào kho. Rồi năm sau cũng phải làm y như vậy, năm sau nữa cũng phải làm y như vậy. {#1.2}
 
-1.3\. Tena kho pana samayena bhaddiyo sakyarājā sakyānaṁ rajjaṁ kāreti. So ca anuruddhassa sakkassa sahāyo hoti. Atha kho anuruddhassa sakkassa mātā— “ayaṁ kho bhaddiyo sakyarājā sakyānaṁ rajjaṁ kāreti; anuruddhassa sakkassa sahāyo; so na ussahati agārasmā anagāriyaṁ pabbajitun”ti— anuruddhaṁ sakkaṁ etadavoca— “sace, tāta anuruddha, bhaddiyo sakyarājā agārasmā anagāriyaṁ pabbajati, evaṁ tvampi pabbajāhī”ti.
+– Công việc không kết thúc sao? Không thấy điểm dừng của công việc sao? Khi nào công việc mới kết thúc? Khi nào mới thấy điểm dừng của công việc? Khi nào chúng ta mới được rảnh rang, đầy đủ và hưởng thụ *năm sợi dây trói buộc bản năng* (năm dục trưởng dưỡng / pañcahi kāmaguṇehi)?
 
-Atha kho anuruddho sakko yena bhaddiyo sakyarājā tenupasaṅkami, upasaṅkamitvā bhaddiyaṁ sakyarājānaṁ etadavoca— “mama kho, samma, pabbajjā tava paṭibaddhā”ti.
+– Không đâu, em Anuruddha, công việc không kết thúc đâu, không thấy điểm dừng của công việc đâu. Cha và ông cha ta đều đã qua đời khi công việc vẫn chưa kết thúc.
 
-“Sace te, samma, pabbajjā mama paṭibaddhā vā appaṭibaddhā vā sā hotu, ahaṁ tayā; yathā sukhaṁ pabbajāhī”ti.
+– Thế thì anh hãy tự mình lo liệu việc đời sống gia đình đi. Em sẽ rời bỏ gia đình sống đời không nhà để xuất gia!
 
-“Ehi, samma, ubho agārasmā anagāriyaṁ pabbajissāmā”ti.
+Rồi Anuruddha người Thích-ca đến gặp mẹ và thưa:
 
-“Nāhaṁ, samma, sakkomi agārasmā anagāriyaṁ pabbajitunti. Yaṁ te sakkā aññaṁ mayā kātuṁ, kyāhaṁ karissāmi. Tvaṁ pabbajāhī”ti.
+– Thưa mẹ, con muốn rời bỏ gia đình sống đời không nhà để xuất gia. Xin mẹ cho phép con rời bỏ gia đình sống đời không nhà để xuất gia.
 
-“Mātā kho maṁ, samma, evamāha— ‘sace, tāta anuruddha, bhaddiyo sakyarājā agārasmā anagāriyaṁ pabbajati, evaṁ tvampi pabbajāhī’”ti. “Bhāsitā kho pana te, samma, esā vācā. Sace te, samma, pabbajjā mama paṭibaddhā vā, appaṭibaddhā vā sā hotu, ahaṁ tayā; yathā sukhaṁ pabbajāhī”ti. “Ehi, samma, ubho agārasmā anagāriyaṁ pabbajissāmā”ti.
+Nghe nói vậy, mẹ của Anuruddha nói với Anuruddha:
 
-Tena kho pana samayena manussā saccavādino honti, saccapaṭiññā. Atha kho bhaddiyo sakyarājā anuruddhaṁ sakkaṁ etadavoca— “āgamehi, samma, sattavassāni. Sattannaṁ vassānaṁ accayena ubho agārasmā anagāriyaṁ pabbajissāmā”ti.
+– Này Anuruddha con yêu, mẹ chỉ có hai đứa con trai đáng yêu, dễ mến và vừa lòng. Dù không muốn, mẹ cũng sẽ phải xa cách các con vì cái chết. Làm sao mẹ có thể cho phép khi các con đang còn sống mà rời bỏ gia đình sống đời không nhà để xuất gia được?
 
-“Aticiraṁ, samma, sattavassāni. Nāhaṁ sakkomi sattavassāni āgametun”ti.
+Lần thứ hai [...lặp lại...] lần thứ ba, Anuruddha người Thích-ca thưa với mẹ:
 
-“Āgamehi, samma, chavassāni …pe… pañcavassāni … cattāri vassāni … tīṇi vassāni … dve vassāni … ekaṁ vassaṁ. Ekassa vassassa accayena ubho agārasmā anagāriyaṁ pabbajissāmā”ti.
+– Thưa mẹ, con muốn rời bỏ gia đình sống đời không nhà để xuất gia. Xin mẹ cho phép con rời bỏ gia đình sống đời không nhà để xuất gia.
 
-“Aticiraṁ, samma, ekavassaṁ. Nāhaṁ sakkomi ekaṁ vassaṁ āgametun”ti.
+1.3\. Lúc bấy giờ, vua Bhaddiya dòng Thích-ca đang cai trị vương quốc của người Thích-ca. Ông là bạn thân của Anuruddha người Thích-ca. Mẹ của Anuruddha nghĩ rằng: "Vua Bhaddiya dòng Thích-ca này đang cai trị người Thích-ca, lại là bạn thân của Anuruddha; ông ta chẳng thể nào rời bỏ gia đình sống đời không nhà để xuất gia được", nên bà nói với Anuruddha: {#1.3}
 
-“Āgamehi, samma, sattamāse. Sattannaṁ māsānaṁ accayena ubhopi agārasmā anagāriyaṁ pabbajissāmā”ti.
+– Này con Anuruddha, nếu vua Bhaddiya dòng Thích-ca rời bỏ gia đình sống đời không nhà để xuất gia, thì con cũng hãy xuất gia như vậy.
 
-“Aticiraṁ, samma, sattamāsā. Nāhaṁ sakkomi sattamāse āgametun”ti.
+Thế rồi Anuruddha người Thích-ca đến gặp vua Bhaddiya dòng Thích-ca và nói:
 
-“Āgamehi, samma, cha māse …pe… pañca māse … cattāro māse … tayo māse … dve māse … ekaṁ māsaṁ … aḍḍhamāsaṁ. Aḍḍhamāsassa accayena ubhopi agārasmā anagāriyaṁ pabbajissāmā”ti.
+– Này bạn, việc xuất gia của tôi phụ thuộc vào bạn đấy.
 
-“Aticiraṁ, samma, aḍḍhamāso. Nāhaṁ sakkomi aḍḍhamāsaṁ āgametun”ti.
+– Này bạn, dù việc xuất gia của bạn có phụ thuộc vào tôi hay không phụ thuộc vào tôi, tôi luôn ủng hộ bạn; bạn cứ xuất gia theo ý muốn đi.
 
-“Āgamehi, samma, sattāhaṁ yāvāhaṁ putte ca bhātaro ca rajjaṁ niyyādemī”ti.
+– Nào bạn ơi, cả hai chúng ta hãy cùng rời bỏ gia đình sống đời không nhà để xuất gia!
 
-“Na ciraṁ, samma, sattāho, āgamessāmī”ti.
+– Này bạn, tôi không thể rời bỏ gia đình sống đời không nhà để xuất gia được. Việc khác nào tôi có thể làm cho bạn, tôi sẽ làm. Bạn cứ xuất gia đi.
 
-1.4\. Atha kho bhaddiyo ca sakyarājā anuruddho ca ānando ca bhagu ca kimilo ca devadatto ca, upālikappakena sattamā, yathā pure caturaṅginiyā senāya uyyānabhūmiṁ niyyanti, evameva caturaṅginiyā senāya niyyiṁsu. Te dūraṁ gantvā senaṁ nivattāpetvā paravisayaṁ okkamitvā ābharaṇaṁ omuñcitvā uttarāsaṅgena bhaṇḍikaṁ bandhitvā upāliṁ kappakaṁ etadavocuṁ— “handa, bhaṇe upāli, nivattassu; alaṁ te ettakaṁ jīvikāyā”ti. Atha kho upālissa kappakassa nivattantassa etadahosi— “caṇḍā kho sākiyā; iminā kumārā nippātitāti ghātāpeyyumpi maṁ. Ime hi nāma sakyakumārā agārasmā anagāriyaṁ pabbajissanti. Kimaṅgaṁ panāhan”ti.
+– Này bạn, mẹ tôi đã nói thế này: "Này con Anuruddha, nếu vua Bhaddiya dòng Thích-ca rời bỏ gia đình sống đời không nhà để xuất gia, thì con cũng hãy xuất gia như vậy." Và chính bạn cũng đã thốt ra lời này: "Này bạn, dù việc xuất gia của bạn có phụ thuộc vào tôi hay không phụ thuộc vào tôi, tôi luôn ủng hộ bạn; bạn cứ xuất gia theo ý muốn đi." Nào bạn ơi, cả hai chúng ta hãy cùng rời bỏ gia đình sống đời không nhà để xuất gia!
 
-Bhaṇḍikaṁ muñcitvā taṁ bhaṇḍaṁ rukkhe ālaggetvā “yo passati, dinnaṁyeva haratū”ti vatvā yena te sakyakumārā tenupasaṅkami.
+Thời bấy giờ, con người vốn nói lời chân thật và giữ đúng lời hứa. Vì vậy, vua Bhaddiya dòng Thích-ca nói với Anuruddha:
 
-Addasāsuṁ kho te sakyakumārā upāliṁ kappakaṁ dūratova āgacchantaṁ. Disvāna upāliṁ kappakaṁ etadavocuṁ— “kissa, bhaṇe upāli, nivattesī”ti? “Idha me, ayyaputtā, nivattantassa etadahosi— ‘caṇḍā kho sākiyā; iminā kumārā nippātitāti ghātāpeyyumpi maṁ. Ime hi nāma sakyakumārā agārasmā anagāriyaṁ pabbajissanti. Kimaṅgaṁ panāhan’ti. So kho ahaṁ, ayyaputtā, bhaṇḍikaṁ muñcitvā taṁ bhaṇḍaṁ rukkhe ālaggetvā ‘yo passati, dinnaññeva haratū’ti vatvā tatomhi paṭinivatto”ti. “Suṭṭhu, bhaṇe upāli, akāsi yampi na nivatto. Caṇḍā kho sākiyā; iminā kumārā nippātitāti ghātāpeyyumpi tan”ti.
+– Hãy đợi, bạn ơi, bảy năm. Sau bảy năm trôi qua, cả hai chúng ta sẽ rời bỏ gia đình sống đời không nhà để xuất gia.
 
-Atha kho sakyakumārā upāliṁ kappakaṁ ādāya yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te sakyakumārā bhagavantaṁ etadavocuṁ— “mayaṁ, bhante, sākiyā nāma mānassino. Ayaṁ, bhante, upāli kappako amhākaṁ dīgharattaṁ paricārako. Imaṁ bhagavā paṭhamaṁ pabbājetu. Imassa mayaṁ abhivādanapaccuṭṭhānaañjalikammasāmīcikammaṁ karissāma. Evaṁ amhākaṁ sākiyānaṁ sākiyamāno nimmānāyissatī”ti. Atha kho bhagavā upāliṁ kappakaṁ paṭhamaṁ pabbājesi, pacchā te sakyakumāre.
+– Bảy năm lâu quá, bạn ơi. Tôi không thể đợi bảy năm được.
 
-Atha kho āyasmā bhaddiyo teneva antaravassena tisso vijjā sacchākāsi. Āyasmā anuruddho dibbacakkhuṁ uppādesi. Āyasmā ānando sotāpattiphalaṁ sacchākāsi. Devadatto pothujjanikaṁ iddhiṁ abhinipphādesi.
+– Hãy đợi, bạn ơi, sáu năm [...lặp lại...] năm năm [...lặp lại...] bốn năm [...lặp lại...] ba năm [...lặp lại...] hai năm [...lặp lại...] một năm. Sau một năm trôi qua, cả hai chúng ta sẽ rời bỏ gia đình sống đời không nhà để xuất gia.
 
-1.5\. Tena kho pana samayena āyasmā bhaddiyo araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṁ udānaṁ udānesi— “aho sukhaṁ, aho sukhan”ti. Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ— “āyasmā, bhante, bhaddiyo araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṁ udānaṁ udānesi— ‘aho sukhaṁ, aho sukhan’ti. Nissaṁsayaṁ kho, bhante, āyasmā bhaddiyo anabhiratova brahmacariyaṁ carati. Taṁyeva vā purimaṁ rajjasukhaṁ samanussaranto araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṁ udānaṁ udānesi— ‘aho sukhaṁ, aho sukhan’”ti.
+– Một năm lâu quá, bạn ơi. Tôi không thể đợi một năm được.
 
-Atha kho bhagavā aññataraṁ bhikkhuṁ āmantesi— “ehi tvaṁ, bhikkhu, mama vacanena bhaddiyaṁ bhikkhuṁ āmantehi— ‘satthā taṁ, āvuso bhaddiya, āmantetī’”ti.
+– Hãy đợi, bạn ơi, bảy tháng. Sau bảy tháng trôi qua, cả hai chúng ta sẽ rời bỏ gia đình sống đời không nhà để xuất gia.
 
-“Evaṁ, bhante”ti kho so bhikkhu bhagavato paṭissutvā yenāyasmā bhaddiyo tenupasaṅkami, upasaṅkamitvā āyasmantaṁ bhaddiyaṁ etadavoca— “satthā taṁ, āvuso bhaddiya, āmantetī”ti. “Evamāvuso”ti kho āyasmā bhaddiyo tassa bhikkhuno paṭissutvā yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ bhaddiyaṁ bhagavā etadavoca— “saccaṁ kira tvaṁ, bhaddiya, araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṁ udānaṁ udānesi— ‘aho sukhaṁ, aho sukhan’”ti?
+– Bảy tháng lâu quá, bạn ơi. Tôi không thể đợi bảy tháng được.
 
-1.6\. “Evaṁ, bhante”ti.
+– Hãy đợi, bạn ơi, sáu tháng [...lặp lại...] năm tháng [...lặp lại...] bốn tháng [...lặp lại...] ba tháng [...lặp lại...] hai tháng [...lặp lại...] một tháng [...lặp lại...] nửa tháng. Sau nửa tháng trôi qua, cả hai chúng ta sẽ rời bỏ gia đình sống đời không nhà để xuất gia.
 
-“Kiṁ pana tvaṁ, bhaddiya, atthavasaṁ sampassamāno araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṁ udānaṁ udānesi— ‘aho sukhaṁ, aho sukhan’”ti?
+– Nửa tháng lâu quá, bạn ơi. Tôi không thể đợi nửa tháng được.
 
-“Pubbe me, bhante, rañño satopi antopi antepure rakkhā susaṁvihitā hoti, bahipi antepure rakkhā susaṁvihitā hoti, antopi nagare rakkhā susaṁvihitā hoti, bahipi nagare rakkhā susaṁvihitā hoti, antopi janapade rakkhā susaṁvihitā hoti, bahipi janapade rakkhā susaṁvihitā hoti. So kho ahaṁ, bhante, evaṁ rakkhitopi gopitopi santo bhīto ubbiggo ussaṅkī utrasto viharāmi. Etarahi kho pana ahaṁ eko, bhante, araññagatopi rukkhamūlagatopi suññāgāragatopi abhīto anubbiggo anussaṅkī anutrasto appossukko pannalomo paradattavutto migabhūtena cetasā viharāmīti. Imaṁ kho ahaṁ, bhante, atthavasaṁ sampassamāno araññagatopi rukkhamūlagatopi suññāgāragatopi abhikkhaṇaṁ udānaṁ udānemi— ‘aho sukhaṁ, aho sukhan’”ti.
+– Hãy đợi, bạn ơi, bảy ngày để tôi trao lại vương quốc cho các con và các anh em.
 
-Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi—
+– Bảy ngày không lâu đâu, bạn ơi, tôi sẽ đợi.
 
-> “Yassantarato na santi kopā,\
-> Iti bhavābhavatañca vītivatto;\
-> Taṁ vigatabhayaṁ sukhiṁ asokaṁ,\
-> Devā nānubhavanti dassanāyā”ti.
+1.4\. Rồi vua Bhaddiya dòng Thích-ca, Anuruddha, Ānanda, Bhagu, Kimila và Devadatta, cùng với thợ cắt tóc Upāli làm người thứ bảy, giống như trước kia vẫn xuất hành ra vườn ngự uyển với đội quân bốn binh chủng, nay cũng ra đi với đội quân bốn binh chủng như vậy. Đi được một quãng xa, họ cho quân đội quay về, tiến vào lãnh thổ nước khác, tháo hết đồ trang sức gói lại trong tấm thượng y rồi bảo người thợ cắt tóc Upāli: {#1.4}
 
-### 1.2. Devadattavatthu
+– Này anh bạn Upāli, hãy quay về đi; chừng này đủ cho anh sinh sống rồi.
 
-2.1\. Atha kho bhagavā anupiyāyaṁ yathābhirantaṁ viharitvā yena kosambī tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena kosambī tadavasari. Tatra sudaṁ bhagavā kosambiyaṁ viharati ghositārāme.
+Trên đường quay về, người thợ cắt tóc Upāli nghĩ thầm: "Người Thích-ca rất hung dữ; họ có thể nghĩ rằng 'chính tên này đã làm hại các vương tử' mà sai người giết ta mất. Ngay cả những vương tử Thích-ca này còn rời bỏ gia đình sống đời không nhà để xuất gia, huống chi là ta!"
 
-Atha kho devadattassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— “kaṁ nu kho ahaṁ pasādeyyaṁ, yasmiṁ me pasanne bahulābhasakkāro uppajjeyyā”ti? Atha kho devadattassa etadahosi— “ayaṁ kho ajātasattu kumāro taruṇo ceva āyatiṁ bhaddo ca. Yannūnāhaṁ ajātasattuṁ kumāraṁ pasādeyyaṁ. Tasmiṁ me pasanne bahulābhasakkāro uppajjissatī”ti.
+Anh mở gói đồ ra, treo gói đồ ấy lên một cái cây, nói rằng "ai nhìn thấy thì cứ lấy như vật đã được cho", rồi đi đến chỗ các vương tử dòng Thích-ca.
 
-Atha kho devadatto senāsanaṁ saṁsāmetvā pattacīvaramādāya yena rājagahaṁ tena pakkāmi. Anupubbena yena rājagahaṁ tadavasari. Atha kho devadatto sakavaṇṇaṁ paṭisaṁharitvā kumārakavaṇṇaṁ abhinimminitvā ahimekhalikāya ajātasattussa kumārassa ucchaṅge pāturahosi. Atha kho ajātasattu kumāro bhīto ahosi, ubbiggo ussaṅkī utrasto. Atha kho devadatto ajātasattuṁ kumāraṁ etadavoca— “bhāyasi maṁ tvaṁ, kumārā”ti?
+Các vương tử dòng Thích-ca thấy người thợ cắt tóc Upāli đi tới từ xa. Thấy vậy, họ hỏi Upāli:
 
-“Āma bhāyāmi. Kosi tvan”ti?
+– Này anh bạn Upāli, sao anh lại quay lại?
 
-“Ahaṁ devadatto”ti.
+– Thưa các công tử, khi quay về con đã nghĩ thế này: "Người Thích-ca rất hung dữ; họ có thể nghĩ rằng 'chính tên này đã làm hại các vương tử' mà sai người giết ta mất. Ngay cả những vương tử Thích-ca này còn rời bỏ gia đình sống đời không nhà để xuất gia, huống chi là ta!" Vì vậy, thưa các công tử, con đã mở gói đồ ra, treo lên cây và nói "ai nhìn thấy thì cứ lấy như vật đã được cho", rồi con quay trở lại đây.
 
-“Sace kho tvaṁ, bhante, ayyo devadatto, iṅgha sakeneva vaṇṇena pātubhavassū”ti. Atha kho devadatto kumārakavaṇṇaṁ paṭisaṁharitvā saṅghāṭipattacīvaradharo ajātasattussa kumārassa purato aṭṭhāsi.
+– Này anh bạn Upāli, anh đã làm rất đúng khi không quay về. Người Thích-ca rất hung dữ; họ có thể nghĩ "chính tên này đã làm hại các vương tử" mà sai người giết anh thật đấy.
 
-Atha kho ajātasattu kumāro devadattassa iminā iddhipāṭihāriyena abhippasanno pañcahi rathasatehi sāyaṁ pātaṁ upaṭṭhānaṁ gacchati, pañca ca thālipākasatāni bhattābhihāro abhiharīyati. Atha kho devadattassa lābhasakkārasilokena abhibhūtassa pariyādinnacittassa evarūpaṁ icchāgataṁ uppajji— “ahaṁ bhikkhusaṅghaṁ pariharissāmī”ti. Saha cittuppādāva devadatto tassā iddhiyā parihāyi.
+Thế rồi các vương tử Thích-ca dẫn người thợ cắt tóc Upāli đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, các vương tử Thích-ca bạch với Thế Tôn:
 
-2.2\. Tena kho pana samayena kakudho nāma koḷiyaputto, āyasmato mahāmoggallānassa upaṭṭhāko, adhunā kālaṅkato aññataraṁ manomayaṁ kāyaṁ upapanno. Tassa evarūpo attabhāvappaṭilābho hoti— seyyathāpi nāma dve vā tīṇi vā māgadhakāni gāmakkhettāni. So tena attabhāvappaṭilābhena neva attānaṁ na paraṁ byābādheti.
+– Bạch Thế Tôn, chúng con là người dòng Thích-ca vốn nhiều tự ái. Bạch Thế Tôn, người thợ cắt tóc Upāli này là người phục vụ lâu năm của chúng con. Xin Thế Tôn hãy cho người này xuất gia trước tiên. Chúng con sẽ làm lễ đảnh lễ, đứng dậy chào, chắp tay và thực hiện các nghi thức tôn kính đối với người ấy. Như vậy, tính *ngạo mạn* (mạn / māno) dòng Thích-ca nơi chúng con sẽ bị dập tắt.
 
-Atha kho kakudho devaputto yenāyasmā mahāmoggallāno tenupasaṅkami, upasaṅkamitvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho kakudho devaputto āyasmantaṁ mahāmoggallānaṁ etadavoca— “devadattassa, bhante, lābhasakkārasilokena abhibhūtassa pariyādinnacittassa evarūpaṁ icchāgataṁ uppajji— ‘ahaṁ bhikkhusaṅghaṁ pariharissāmī’ti. Saha cittuppādāva, bhante, devadatto tassā iddhiyā parihīno”ti. Idamavoca kakudho devaputto. Idaṁ vatvā āyasmantaṁ mahāmoggallānaṁ abhivādetvā padakkhiṇaṁ katvā tattheva antaradhāyi.
+Vì thế, Thế Tôn đã cho người thợ cắt tóc Upāli xuất gia trước, rồi sau đó mới cho các vương tử Thích-ca xuất gia.
 
-Atha kho āyasmā mahāmoggallāno yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā mahāmoggallāno bhagavantaṁ etadavoca— “kakudho nāma, bhante, koḷiyaputto mama upaṭṭhāko adhunā kālaṅkato aññataraṁ manomayaṁ kāyaṁ upapanno. Tassa evarūpo attabhāvappaṭilābho— seyyathāpi nāma dve vā tīṇi vā māgadhakāni gāmakkhettāni. So tena attabhāvappaṭilābhena neva attānaṁ na paraṁ byābādheti. Atha kho, bhante, kakudho devaputto yenāhaṁ tenupasaṅkami, upasaṅkamitvā maṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhito kho, bhante, kakudho devaputto maṁ etadavoca— ‘devadattassa, bhante, lābhasakkārasilokena abhibhūtassa pariyādinnacittassa evarūpaṁ icchāgataṁ uppajji— ahaṁ bhikkhusaṅghaṁ pariharissāmīti. Saha cittuppādāva, bhante, devadatto tassā iddhiyā parihīno’ti. Idamavoca, bhante, kakudho devaputto. Idaṁ vatvā maṁ abhivādetvā padakkhiṇaṁ katvā tattheva antaradhāyī”ti. “Kiṁ pana te, moggallāna, kakudho devaputto cetasā ceto paricca vidito? Yaṁ kiñci kakudho devaputto bhāsati sabbaṁ taṁ tatheva hoti, no aññathā”ti?
+Sau đó, ngay trong mùa mưa ấy, Tôn giả Bhaddiya đã trực tiếp chứng nghiệm ba *hiểu biết* (tam minh / tisso vijjā). Tôn giả Anuruddha làm khởi sinh mắt thần. Tôn giả Ānanda trực tiếp chứng nghiệm *quả Nhập dòng* (quả Dự lưu / sotāpattiphalaṁ). Còn Devadatta thì thành tựu *thần thông* (thần túc / iddhiṁ) của phàm phu.
 
-“Cetasā ceto paricca vidito ca me, bhante, kakudho devaputto. Yaṁ kiñci kakudho devaputto bhāsati sabbaṁ taṁ tatheva hoti, no aññathā”ti.
+1.5\. Thời gian ấy, Tôn giả Bhaddiya dù đi vào rừng, đến gốc cây hay ở trong căn nhà trống, đều thường xuyên thốt lên lời cảm hứng: "Ôi *sung sướng* (lạc / sukhaṁ) thay! Ôi *sung sướng* thay!" {#1.5}
 
-“Rakkhassetaṁ, moggallāna, vācaṁ. Rakkhassetaṁ, moggallāna, vācaṁ. Idāni so moghapuriso attanāva attānaṁ pātukarissati.
+Một nhóm đông tỳ kheo đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, các vị tỳ kheo ấy bạch với Thế Tôn:
 
-### 1.3. Pañcasatthukathā
+– Bạch Thế Tôn, Tôn giả Bhaddiya dù đi vào rừng, đến gốc cây hay ở trong căn nhà trống, đều thường xuyên thốt lên lời cảm hứng: "Ôi *sung sướng* thay! Ôi *sung sướng* thay!" Bạch Thế Tôn, chắc chắn Tôn giả Bhaddiya đang không vui thích thực hành *đời sống thánh thiện* (phạm hạnh / brahmacariyaṁ), hoặc đang hồi tưởng lại niềm *sung sướng* của vương quyền trước kia nên đi đâu cũng thường xuyên thốt lên lời cảm hứng: "Ôi *sung sướng* thay! Ôi *sung sướng* thay!"
 
-2.3\. Pañcime, moggallāna, satthāro santo saṁvijjamānā lokasmiṁ. Katame pañca? Idha, moggallāna, ekacco satthā aparisuddhasīlo samāno ‘parisuddhasīlomhī’ti paṭijānāti ‘parisuddhaṁ me sīlaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Tamenaṁ sāvakā evaṁ jānanti— ‘ayaṁ kho bhavaṁ satthā aparisuddhasīlo samāno “parisuddhasīlomhī”ti paṭijānāti “parisuddhaṁ me sīlaṁ pariyodātaṁ asaṅkiliṭṭhan”ti ca. Mayañceva kho pana gihīnaṁ āroceyyāma, nāssassa manāpaṁ. Yaṁ kho panassa amanāpaṁ, kathaṁ naṁ mayaṁ tena samudācareyyāma? Sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena— yaṁ tumo karissati, tumova tena paññāyissatī’ti. Evarūpaṁ kho, moggallāna, satthāraṁ sāvakā sīlato rakkhanti; evarūpo ca pana satthā sāvakehi sīlato rakkhaṁ paccāsīsati.
+Thế Tôn bèn gọi một vị tỳ kheo và bảo:
 
-2.4\. Puna caparaṁ, moggallāna, idhekacco satthā aparisuddhājīvo samāno ‘parisuddhājīvomhī’ti paṭijānāti ‘parisuddho me ājīvo pariyodāto asaṅkiliṭṭho’ti ca. Tamenaṁ sāvakā evaṁ jānanti— ‘ayaṁ kho bhavaṁ satthā aparisuddhājīvo samāno “parisuddhājīvomhī”ti paṭijānāti “parisuddho me ājīvo pariyodāto asaṅkiliṭṭho”ti ca. Mayañceva kho pana gihīnaṁ āroceyyāma, nāssassa manāpaṁ. Yaṁ kho panassa amanāpaṁ, kathaṁ naṁ mayaṁ tena samudācareyyāma? Sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena— yaṁ tumo karissati, tumova tena paññāyissatī’ti. Evarūpaṁ kho, moggallāna, satthāraṁ sāvakā ājīvato rakkhanti; evarūpo ca pana satthā sāvakehi ājīvato rakkhaṁ paccāsīsati.
+– Này tỳ kheo, hãy nhân danh Ta đi gọi tỳ kheo Bhaddiya đến: "Hiền giả Bhaddiya, bậc Đạo Sư gọi hiền giả."
 
-Puna caparaṁ, moggallāna, idhekacco satthā aparisuddhadhammadesano samāno ‘parisuddhadhammadesanomhī’ti paṭijānāti ‘parisuddhā me dhammadesanā pariyodātā asaṅkiliṭṭhā’ti ca. Tamenaṁ sāvakā evaṁ jānanti— ‘ayaṁ kho bhavaṁ satthā aparisuddhadhammadesano samāno “parisuddhadhammadesanomhī”ti paṭijānāti “parisuddhā me dhammadesanā pariyodātā asaṅkiliṭṭhā”ti ca. Mayañceva kho pana gihīnaṁ āroceyyāma, nāssassa manāpaṁ. Yaṁ kho panassa amanāpaṁ, kathaṁ naṁ mayaṁ tena samudācareyyāma? Sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena— yaṁ tumo karissati, tumova tena paññāyissatī’ti. Evarūpaṁ kho, moggallāna, satthāraṁ sāvakā dhammadesanato rakkhanti; evarūpo ca pana satthā sāvakehi dhammadesanato rakkhaṁ paccāsīsati.
+– Thưa vâng, bạch Thế Tôn.
 
-Puna caparaṁ, moggallāna, idhekacco satthā aparisuddhaveyyākaraṇo samāno ‘parisuddhaveyyākaraṇomhī’ti paṭijānāti ‘parisuddhaṁ me veyyākaraṇaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Tamenaṁ sāvakā evaṁ jānanti— ‘ayaṁ kho bhavaṁ satthā aparisuddhaveyyākaraṇo samāno “parisuddhaveyyākaraṇomhī”ti paṭijānāti “parisuddhaṁ me veyyākaraṇaṁ pariyodātaṁ asaṅkiliṭṭhan”ti ca. Mayañceva kho pana gihīnaṁ āroceyyāma, nāssassa manāpaṁ. Yaṁ kho panassa amanāpaṁ, kathaṁ naṁ mayaṁ tena samudācareyyāma? Sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena— yaṁ tumo karissati, tumova tena paññāyissatī’ti. Evarūpaṁ kho, moggallāna, satthāraṁ sāvakā veyyākaraṇato rakkhanti; evarūpo ca pana satthā sāvakehi veyyākaraṇato rakkhaṁ paccāsīsati.
+Vị tỳ kheo ấy vâng lời Thế Tôn, đến gặp Tôn giả Bhaddiya và nói:
 
-Puna caparaṁ, moggallāna, idhekacco satthā aparisuddhañāṇadassano samāno ‘parisuddhañāṇadassanomhī’ti paṭijānāti ‘parisuddhaṁ me ñāṇadassanaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Tamenaṁ sāvakā evaṁ jānanti— ‘ayaṁ kho bhavaṁ satthā aparisuddhañāṇadassano samāno “parisuddhañāṇadassanomhī”ti paṭijānāti “parisuddhaṁ me ñāṇadassanaṁ pariyodātaṁ asaṅkiliṭṭhan”ti ca. Mayañceva kho pana gihīnaṁ āroceyyāma, nāssassa manāpaṁ. Yaṁ kho panassa amanāpaṁ, kathaṁ naṁ mayaṁ tena samudācareyyāma? Sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena— yaṁ tumo karissati, tumova tena paññāyissatī’ti. Evarūpaṁ kho, moggallāna, satthāraṁ sāvakā ñāṇadassanato rakkhanti; evarūpo ca pana satthā sāvakehi ñāṇadassanato rakkhaṁ paccāsīsatīti. Ime kho, moggallāna, pañca satthāro santo saṁvijjamānā lokasmiṁ.
+– Hiền giả Bhaddiya, bậc Đạo Sư gọi hiền giả.
 
-Ahaṁ kho pana, moggallāna, parisuddhasīlo samāno ‘parisuddhasīlomhī’ti paṭijānāmi ‘parisuddhaṁ me sīlaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Na ca maṁ sāvakā sīlato rakkhanti; na cāhaṁ sāvakehi sīlato rakkhaṁ paccāsīsāmi. Parisuddhājīvo samāno …pe… parisuddhadhammadesano samāno …pe… parisuddhaveyyākaraṇo samāno …pe… parisuddhañāṇadassano samāno ‘parisuddhañāṇadassanomhī’ti paṭijānāmi ‘parisuddhaṁ me ñāṇadassanaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Na ca maṁ sāvakā ñāṇadassanato rakkhanti; na cāhaṁ sāvakehi ñāṇadassanato rakkhaṁ paccāsīsāmī”ti.
+– Vâng, hiền giả.
 
-2.5\. Atha kho bhagavā kosambiyaṁ yathābhirantaṁ viharitvā yena rājagahaṁ tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena rājagahaṁ tadavasari. Tatra sudaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+Tôn giả Bhaddiya đáp lời vị tỳ kheo ấy rồi đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn và ngồi xuống một bên. Khi Tôn giả Bhaddiya đã ngồi xuống một bên, Thế Tôn hỏi:
 
-Atha kho sambahulā bhikkhū yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te bhikkhū bhagavantaṁ etadavocuṁ— “devadattassa, bhante, ajātasattu kumāro pañcahi rathasatehi sāyaṁ pātaṁ upaṭṭhānaṁ gacchati; pañca ca thālipākasatāni bhattābhihāro abhiharīyatī”ti.
+– Này Bhaddiya, có thật là ông dù đi vào rừng, đến gốc cây hay ở trong căn nhà trống, đều thường xuyên thốt lên lời cảm hứng: "Ôi *sung sướng* thay! Ôi *sung sướng* thay!" không?
 
-“Mā, bhikkhave, devadattassa lābhasakkārasilokaṁ pihayittha. Yāvakīvañca, bhikkhave, devadattassa ajātasattu kumāro pañcahi rathasatehi sāyaṁ pātaṁ upaṭṭhānaṁ gamissati, pañca ca thālipākasatāni bhattābhihāro abhiharīyissati, hāniyeva, bhikkhave, devadattassa pāṭikaṅkhā kusalesu dhammesu, no vuḍḍhi.
+1.6\. – Thưa vâng, bạch Thế Tôn. {#1.6}
 
-Seyyathāpi, bhikkhave, caṇḍassa kukkurassa nāsāya pittaṁ bhindeyyuṁ, evañhi so, bhikkhave, kukkuro bhiyyoso mattāya caṇḍataro assa; evameva kho, bhikkhave, yāvakīvañca devadattassa ajātasattu kumāro pañcahi rathasatehi sāyaṁ pātaṁ upaṭṭhānaṁ gamissati, pañca ca thālipākasatāni bhattābhihāro abhiharīyissati, hāniyeva, bhikkhave, devadattassa pāṭikaṅkhā kusalesu dhammesu, no vuḍḍhi.
+– Này Bhaddiya, ông thấy lợi ích gì mà dù đi vào rừng, đến gốc cây hay ở trong căn nhà trống, đều thường xuyên thốt lên lời cảm hứng: "Ôi *sung sướng* thay! Ôi *sung sướng* thay!"?
 
-Attavadhāya, bhikkhave, devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
+– Bạch Thế Tôn, trước đây khi còn làm vua, ở bên trong hậu cung của con có lính canh gác cẩn mật, bên ngoài hậu cung cũng có lính canh gác cẩn mật; bên trong kinh thành có lính canh gác cẩn mật, bên ngoài kinh thành cũng có lính canh gác cẩn mật; bên trong quốc độ có lính canh gác cẩn mật, bên ngoài quốc độ cũng có lính canh gác cẩn mật. Bạch Thế Tôn, dù được canh giữ và bảo vệ kỹ lưỡng như vậy, con vẫn sống trong sợ hãi, hồi hộp, nghi ngại và kinh hoàng. Nhưng nay, bạch Thế Tôn, con sống một mình, dù đi vào rừng, đến gốc cây hay ở trong căn nhà trống, con không sợ hãi, không hồi hộp, không nghi ngại, không kinh hoàng, thảnh thơi, nhẹ nhõm, sống nhờ vật thực người khác dâng cúng, với tâm hồn như loài nai rừng. Bạch Thế Tôn, vì thấy rõ lợi ích này nên con dù đi vào rừng, đến gốc cây hay ở trong căn nhà trống, đều thường xuyên thốt lên lời cảm hứng: "Ôi *sung sướng* thay! Ôi *sung sướng* thay!"
 
-Seyyathāpi, bhikkhave, kadalī attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
+Khi ấy, hiểu rõ ý nghĩa ấy, Thế Tôn liền thốt lên lời cảm hứng này:
 
-Seyyathāpi, bhikkhave, veḷu attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
+> Trong tâm không tức giận,\
+> Vượt thoát có và không,\
+> Hết sợ, vui, hết sầu,\
+> Chư thiên chẳng thấy được.
 
-Seyyathāpi, bhikkhave, naḷo attavadhāya phalaṁ deti, parābhavāya phalaṁ deti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādi.
+### 1.2. Chuyện về Devadatta
+*(Devadattavatthu)*
 
-Seyyathāpi, bhikkhave, assatarī attavadhāya gabbhaṁ gaṇhāti, parābhavāya gabbhaṁ gaṇhāti; evameva kho, bhikkhave, attavadhāya devadattassa lābhasakkārasiloko udapādi, parābhavāya devadattassa lābhasakkārasiloko udapādīti.
+2.1\. Rồi Thế Tôn ở tại Anupiyā bao lâu tùy thích, sau đó du hành về phía Kosambī. Du hành theo từng chặng, Ngài đến Kosambī và ở tại tu viện Ghosita. {#2.1}
 
-> Phalaṁ ve kadaliṁ hanti,\
-> phalaṁ veḷuṁ phalaṁ naḷaṁ;\
-> Sakkāro kāpurisaṁ hanti,\
-> gabbho assatariṁ yathā”ti.
+Lúc bấy giờ, khi ở nơi vắng vẻ và sống độc cư, tâm của Devadatta khởi lên suy nghĩ này: "Ta nên làm cho ai có niềm tin nơi ta, để khi người ấy tin ta thì lợi lộc và sự tôn kính lớn lao sẽ phát sinh cho ta?" Rồi Devadatta nghĩ: "Thái tử Ajātasattu này còn trẻ tuổi và sẽ trở nên hiển hách trong tương lai. Hay là ta làm cho thái tử Ajātasattu có niềm tin nơi ta? Khi thái tử tin ta, lợi lộc và sự tôn kính lớn lao sẽ phát sinh."
 
-Paṭhamabhāṇavāro niṭṭhito.
+Thế là Devadatta thu dọn chỗ ở, mang theo bình bát và y áo đi về phía Rājagaha. Đi theo từng chặng, ông đến Rājagaha. Tại đó, Devadatta thu giấu hình dạng thật của mình, biến hóa thành hình hài một cậu bé với sợi dây thắt lưng bằng rắn, rồi hiện ra trên đùi thái tử Ajātasattu. Thái tử Ajātasattu vô cùng sợ hãi, hồi hộp, nghi ngại và kinh hoàng. Devadatta hỏi thái tử Ajātasattu:
 
-### 2.1. Pakāsanīyakamma
+– Thái tử sợ ta sao?
 
-3.1\. Tena kho pana samayena bhagavā mahatiyā parisāya parivuto dhammaṁ desento nisinno hoti sarājikāya parisāya. Atha kho devadatto uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ etadavoca— “jiṇṇo dāni, bhante, bhagavā vuḍḍho mahallako addhagato vayoanuppatto. Appossukko dāni, bhante, bhagavā diṭṭhadhammasukhavihāraṁ anuyutto viharatu, mamaṁ bhikkhusaṅghaṁ nissajjatu. Ahaṁ bhikkhusaṅghaṁ pariharissāmī”ti.
+– Phải, ta sợ! Ông là ai?
 
-“Alaṁ, devadatta, mā te rucci bhikkhusaṅghaṁ pariharitun”ti.
+– Ta là Devadatta.
 
-Dutiyampi kho devadatto …pe… tatiyampi kho devadatto bhagavantaṁ etadavoca— “jiṇṇo dāni, bhante, bhagavā vuḍḍho mahallako addhagato vayoanuppatto. Appossukko dāni, bhante, bhagavā diṭṭhadhammasukhavihāraṁ anuyutto viharatu, mamaṁ bhikkhusaṅghaṁ nissajjatu. Ahaṁ bhikkhusaṅghaṁ pariharissāmī”ti.
+– Nếu ngài thật sự là tôn giả Devadatta, xin ngài hãy hiện ra bằng chính hình dáng thật của mình!
 
-“Sāriputtamoggallānānampi kho ahaṁ, devadatta, bhikkhusaṅghaṁ na nissajjeyyaṁ, kiṁ pana tuyhaṁ chavassa kheḷāsakassā”ti.
+Devadatta liền thu lại hình hài cậu bé, mang tăng-già-lê, bình bát và y áo đứng trước mặt thái tử Ajātasattu.
 
-Atha kho devadatto— sarājikāya maṁ bhagavā parisāya kheḷāsakavādena apasādeti, sāriputtamoggallāneva ukkaṁsatīti— kupito anattamano bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. Ayañcarahi devadattassa bhagavati paṭhamo āghāto ahosi.
+Thái tử Ajātasattu vô cùng tin phục trước phép lạ *thần thông* ấy của Devadatta, nên sáng chiều đều đi năm trăm cỗ xe đến hầu hạ, và năm trăm mâm cơm đầy thức ăn được dâng lên cho ông ta. Bị lợi lộc, sự tôn kính và danh tiếng chế ngự, chiếm lĩnh tâm trí, nơi Devadatta khởi lên ý muốn thế này: "Ta sẽ dẫn dắt Tăng đoàn tỳ kheo!" Ngay khi ý nghĩ ấy vừa khởi lên, Devadatta liền bị thoái mất *thần thông* đó.
 
-3.2\. Atha kho bhagavā bhikkhū āmantesi—
+2.2\. Lúc bấy giờ, một người họ Koḷiya tên là Kakudha, vốn là thị giả của Tôn giả Mahāmoggallāna, vừa mới qua đời và tái sinh vào một thân do ý tạo. Thân thể mà vị ấy nhận được to lớn cỡ hai hay ba khu ruộng làng ở xứ Magadha. Với thân thể nhận được ấy, vị ấy không làm hại mình cũng không làm hại ai khác. {#2.2}
 
-“tena hi, bhikkhave, saṅgho devadattassa rājagahe pakāsanīyaṁ kammaṁ karotu— ‘pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo’ti. Evañca pana, bhikkhave, kātabbaṁ. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Chư thiên Kakudha đến chỗ Tôn giả Mahāmoggallāna, đảnh lễ Tôn giả Mahāmoggallāna rồi đứng sang một bên. Đứng một bên, chư thiên Kakudha thưa với Tôn giả Mahāmoggallāna:
 
-‘Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṁ saṅgho devadattassa rājagahe pakāsanīyaṁ kammaṁ kareyya— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti. Esā ñatti.
+– Bạch ngài, vì bị lợi lộc, sự tôn kính và danh tiếng chế ngự, chiếm lĩnh tâm trí nên nơi Devadatta đã khởi lên ý muốn thế này: "Ta sẽ dẫn dắt Tăng đoàn tỳ kheo!" Bạch ngài, ngay khi ý nghĩ ấy vừa khởi lên, Devadatta đã bị thoái mất *thần thông* đó rồi.
 
-Suṇātu me, bhante, saṅgho. Saṅgho devadattassa rājagahe pakāsanīyaṁ kammaṁ karoti— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti. Yassāyasmato khamati devadattassa rājagahe pakāsanīyassa kammassa karaṇaṁ— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati, yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti— so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Chư thiên Kakudha nói như vậy, nói xong liền đảnh lễ Tôn giả Mahāmoggallāna, đi nhiễu bên phải rồi biến mất ngay tại chỗ.
 
-Kataṁ saṅghena devadattassa rājagahe pakāsanīyaṁ kammaṁ— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+Sau đó, Tôn giả Mahāmoggallāna đến gặp Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Mahāmoggallāna bạch với Thế Tôn:
 
-Atha kho bhagavā āyasmantaṁ sāriputtaṁ āmantesi— “tena hi tvaṁ, sāriputta, devadattaṁ rājagahe pakāsehī”ti.
+– Bạch Thế Tôn, một người họ Koḷiya tên là Kakudha, vốn là thị giả của con, vừa mới qua đời và tái sinh vào một thân do ý tạo. Thân thể mà vị ấy nhận được to lớn cỡ hai hay ba khu ruộng làng ở xứ Magadha, và với thân thể ấy vị ấy không làm hại mình hay hại người khác. Chư thiên Kakudha đã đến chỗ con, đảnh lễ con rồi đứng sang một bên và thưa với con rằng: "Bạch ngài, vì bị lợi lộc, sự tôn kính và danh tiếng chế ngự, chiếm lĩnh tâm trí nên nơi Devadatta đã khởi lên ý muốn thế này: 'Ta sẽ dẫn dắt Tăng đoàn tỳ kheo!' Bạch ngài, ngay khi ý nghĩ ấy vừa khởi lên, Devadatta đã bị thoái mất *thần thông* đó rồi." Chư thiên Kakudha đã nói như vậy, rồi đảnh lễ con, đi nhiễu bên phải và biến mất ngay tại chỗ.
 
-“Pubbe mayā, bhante, devadattassa rājagahe vaṇṇo bhāsito— ‘mahiddhiko godhiputto, mahānubhāvo godhiputto’ti. Kathāhaṁ, bhante, devadattaṁ rājagahe pakāsemī”ti?
+– Này Moggallāna, ông có dùng tâm mình biết rõ tâm của chư thiên Kakudha không? Phải chăng bất cứ điều gì chư thiên Kakudha nói, tất cả đều đúng như vậy chứ không khác đi?
 
-“Nanu tayā, sāriputta, bhūtoyeva devadattassa rājagahe vaṇṇo bhāsito— ‘mahiddhiko godhiputto, mahānubhāvo godhiputto’”ti?
+– Bạch Thế Tôn, con đã dùng tâm biết rõ tâm của chư thiên Kakudha. Bất cứ điều gì chư thiên Kakudha nói, tất cả đều đúng như vậy chứ không khác đi.
 
-“Evaṁ, bhante”ti.
+– Này Moggallāna, hãy giữ kín lời nói ấy! Này Moggallāna, hãy giữ kín lời nói ấy! Chẳng bao lâu nữa, kẻ ngu dại ấy sẽ tự mình phơi bày bộ mặt thật của chính mình.
 
-“Evameva kho tvaṁ, sāriputta, bhūtaṁyeva devadattaṁ rājagahe pakāsehī”ti.
+### 1.3. Bài giảng về năm hạng đạo sư
+*(Pañcasatthukathā)*
 
-“Evaṁ, bhante”ti kho āyasmā sāriputto bhagavato paccassosi.
+2.3\. Này Moggallāna, có năm hạng đạo sư hiện hữu ở trên đời. Năm hạng nào? {#2.3}
 
-3.3\. Atha kho bhagavā bhikkhū āmantesi— “tena hi, bhikkhave, saṅgho sāriputtaṁ sammannatu devadattaṁ rājagahe pakāsetuṁ— ‘pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo’ti. Evañca pana, bhikkhave, sammannitabbo. Paṭhamaṁ sāriputto yācitabbo. Yācitvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Ở đây, này Moggallāna, có vị đạo sư tuy có *đạo đức* (giới / sīla) không trong sạch nhưng lại tự nhận: "Ta có *đạo đức* trong sạch", và "*đạo đức* của ta trong sạch, tinh khiết, không tì vết." Các đệ tử của vị ấy biết rõ về ông ta như sau: "Vị tôn sư này tuy có *đạo đức* không trong sạch nhưng lại tự nhận 'Ta có *đạo đức* trong sạch' và '*đạo đức* của ta trong sạch, tinh khiết, không tì vết.' Nếu chúng ta báo cho cư sĩ biết, ông ấy sẽ không vừa lòng; mà điều gì khiến ông ấy không vừa lòng, làm sao chúng ta lại nói điều đó với ông ấy? Hơn nữa ông ấy vẫn được đáp ứng y phục, đồ khất thực, chỗ ở và thuốc men *điều kiện vừa đủ* (duyên / paccaya) cho người bệnh - những gì chính ông ấy làm, chính ông ấy sẽ được biết đến qua đó." Này Moggallāna, các đệ tử che chở cho vị đạo sư như vậy về mặt *đạo đức*, và vị đạo sư như vậy cũng trông mong các đệ tử che chở cho mình về mặt *đạo đức*.
 
-‘Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṁ, saṅgho āyasmantaṁ sāriputtaṁ sammanneyya devadattaṁ rājagahe pakāsetuṁ— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti. Esā ñatti.
+2.4\. Lại nữa, này Moggallāna, ở đây có vị đạo sư tuy có nghề nghiệp không trong sạch nhưng lại tự nhận: "Ta có nghề nghiệp trong sạch", và "nghề nghiệp của ta trong sạch, tinh khiết, không tì vết." Các đệ tử của vị ấy biết rõ về ông ta như sau: "Vị tôn sư này tuy có nghề nghiệp không trong sạch nhưng lại tự nhận 'Ta có nghề nghiệp trong sạch' và 'nghề nghiệp của ta trong sạch, tinh khiết, không tì vết.' Nếu chúng ta báo cho cư sĩ biết, ông ấy sẽ không vừa lòng; mà điều gì khiến ông ấy không vừa lòng, làm sao chúng ta lại nói điều đó với ông ấy? Hơn nữa ông ấy vẫn được đáp ứng y phục, đồ khất thực, chỗ ở và thuốc men *điều kiện vừa đủ* cho người bệnh - những gì chính ông ấy làm, chính ông ấy sẽ được biết đến qua đó." Này Moggallāna, các đệ tử che chở cho vị đạo sư như vậy về mặt nghề nghiệp, và vị đạo sư như vậy cũng trông mong các đệ tử che chở cho mình về mặt nghề nghiệp. {#2.4}
 
-Suṇātu me, bhante, saṅgho. Saṅgho āyasmantaṁ sāriputtaṁ sammannati devadattaṁ rājagahe pakāsetuṁ— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati, yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti. Yassāyasmato khamati, āyasmato sāriputtassa sammuti devadattaṁ rājagahe pakāsetuṁ— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati, yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti— so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Lại nữa, này Moggallāna, ở đây có vị đạo sư tuy giảng *Giáo pháp* (pháp / dhamma) không trong sạch nhưng lại tự nhận: "Ta giảng *Giáo pháp* trong sạch", và "lời giảng *Giáo pháp* của ta trong sạch, tinh khiết, không tì vết." Các đệ tử của vị ấy biết rõ về ông ta như sau: "Vị tôn sư này tuy giảng *Giáo pháp* không trong sạch nhưng lại tự nhận 'Ta giảng *Giáo pháp* trong sạch' và 'lời giảng *Giáo pháp* của ta trong sạch, tinh khiết, không tì vết.' Nếu chúng ta báo cho cư sĩ biết, ông ấy sẽ không vừa lòng; mà điều gì khiến ông ấy không vừa lòng, làm sao chúng ta lại nói điều đó với ông ấy? Hơn nữa ông ấy vẫn được đáp ứng y phục, đồ khất thực, chỗ ở và thuốc men *điều kiện vừa đủ* cho người bệnh - những gì chính ông ấy làm, chính ông ấy sẽ được biết đến qua đó." Này Moggallāna, các đệ tử che chở cho vị đạo sư như vậy về mặt giảng *Giáo pháp*, và vị đạo sư như vậy cũng trông mong các đệ tử che chở cho mình về mặt giảng *Giáo pháp*.
 
-Sammato saṅghena āyasmā sāriputto devadattaṁ rājagahe pakāsetuṁ— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+Lại nữa, này Moggallāna, ở đây có vị đạo sư tuy có lời giải đáp không trong sạch nhưng lại tự nhận: "Ta có lời giải đáp trong sạch", và "lời giải đáp của ta trong sạch, tinh khiết, không tì vết." Các đệ tử của vị ấy biết rõ về ông ta như sau: "Vị tôn sư này tuy có lời giải đáp không trong sạch nhưng lại tự nhận 'Ta có lời giải đáp trong sạch' và 'lời giải đáp của ta trong sạch, tinh khiết, không tì vết.' Nếu chúng ta báo cho cư sĩ biết, ông ấy sẽ không vừa lòng; mà điều gì khiến ông ấy không vừa lòng, làm sao chúng ta lại nói điều đó với ông ấy? Hơn nữa ông ấy vẫn được đáp ứng y phục, đồ khất thực, chỗ ở và thuốc men *điều kiện vừa đủ* cho người bệnh - những gì chính ông ấy làm, chính ông ấy sẽ được biết đến qua đó." Này Moggallāna, các đệ tử che chở cho vị đạo sư như vậy về mặt lời giải đáp, và vị đạo sư như vậy cũng trông mong các đệ tử che chở cho mình về mặt lời giải đáp.
 
-Sammato ca āyasmā sāriputto sambahulehi bhikkhūhi saddhiṁ rājagahaṁ pavisitvā devadattaṁ rājagahe pakāsesi— “pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo”ti. Tattha ye te manussā assaddhā appasannā dubbuddhino, te evamāhaṁsu— “usūyakā ime samaṇā sakyaputtiyā devadattassa lābhasakkāraṁ usūyantī”ti. Ye pana te manussā saddhā pasannā paṇḍitā byattā buddhimanto, te evamāhaṁsu— “na kho idaṁ orakaṁ bhavissati yathā bhagavā devadattaṁ rājagahe pakāsāpetī”ti.
+Lại nữa, này Moggallāna, ở đây có vị đạo sư tuy có *hiểu biết và thấy rõ bản chất* (tri kiến / ñāṇadassanaṁ) không trong sạch nhưng lại tự nhận: "Ta có *hiểu biết và thấy rõ bản chất* trong sạch", và "*hiểu biết và thấy rõ bản chất* của ta trong sạch, tinh khiết, không tì vết." Các đệ tử của vị ấy biết rõ về ông ta như sau: "Vị tôn sư này tuy có *hiểu biết và thấy rõ bản chất* không trong sạch nhưng lại tự nhận 'Ta có *hiểu biết và thấy rõ bản chất* trong sạch' và '*hiểu biết và thấy rõ bản chất* của ta trong sạch, tinh khiết, không tì vết.' Nếu chúng ta báo cho cư sĩ biết, ông ấy sẽ không vừa lòng; mà điều gì khiến ông ấy không vừa lòng, làm sao chúng ta lại nói điều đó với ông ấy? Hơn nữa ông ấy vẫn được đáp ứng y phục, đồ khất thực, chỗ ở và thuốc men *điều kiện vừa đủ* cho người bệnh - những gì chính ông ấy làm, chính ông ấy sẽ được biết đến qua đó." Này Moggallāna, các đệ tử che chở cho vị đạo sư như vậy về mặt *hiểu biết và thấy rõ bản chất*, và vị đạo sư như vậy cũng trông mong các đệ tử che chở cho mình về mặt *hiểu biết và thấy rõ bản chất*. Này Moggallāna, đây là năm hạng đạo sư hiện hữu ở trên đời.
 
-### 2.2. Ajātasattukumāravatthu
+Còn Ta, này Moggallāna, có *đạo đức* trong sạch nên tự nhận "Ta có *đạo đức* trong sạch" và "*đạo đức* của ta trong sạch, tinh khiết, không tì vết." Các đệ tử không che chở cho Ta về mặt *đạo đức*, và Ta cũng không trông mong các đệ tử che chở cho mình về mặt *đạo đức*. Có nghề nghiệp trong sạch [...lặp lại...] giảng *Giáo pháp* trong sạch [...lặp lại...] có lời giải đáp trong sạch [...lặp lại...] có *hiểu biết và thấy rõ bản chất* trong sạch nên Ta tự nhận "Ta có *hiểu biết và thấy rõ bản chất* trong sạch" và "*hiểu biết và thấy rõ bản chất* của ta trong sạch, tinh khiết, không tì vết." Các đệ tử không che chở cho Ta về mặt *hiểu biết và thấy rõ bản chất*, và Ta cũng không trông mong các đệ tử che chở cho mình về mặt *hiểu biết và thấy rõ bản chất*.
 
-3.4\. Atha kho devadatto yena ajātasattu kumāro tenupasaṅkami, upasaṅkamitvā ajātasattuṁ kumāraṁ etadavoca— “pubbe kho, kumāra, manussā dīghāyukā, etarahi appāyukā. Ṭhānaṁ kho panetaṁ vijjati yaṁ tvaṁ kumārova samāno kālaṁ kareyyāsi. Tena hi tvaṁ, kumāra, pitaraṁ hantvā rājā hohi. Ahaṁ bhagavantaṁ hantvā buddho bhavissāmī”ti.
+2.5\. Sau đó, Thế Tôn ở lại Kosambī bao lâu tùy thích rồi du hành về phía Rājagaha. Du hành theo từng chặng, Ngài đến Rājagaha và ở tại Trúc Lâm, chỗ nuôi sóc. {#2.5}
 
-Atha kho ajātasattu kumāro— “ayyo kho devadatto mahiddhiko mahānubhāvo, jāneyyāsi ayyo devadatto”ti— ūruyā potthanikaṁ bandhitvā divā divassa bhīto ubbiggo ussaṅkī utrasto sahasā antepuraṁ pāvisi. Addasāsuṁ kho antepure upacārakā mahāmattā ajātasattuṁ kumāraṁ divā divassa bhītaṁ ubbiggaṁ ussaṅkiṁ utrastaṁ sahasā antepuraṁ pavisantaṁ; disvāna aggahesuṁ. Te vicinantā ūruyā potthanikaṁ baddhaṁ disvāna ajātasattuṁ kumāraṁ etadavocuṁ— “kiṁ tvaṁ, kumāra, kattukāmosī”ti?
+Một nhóm đông tỳ kheo đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, các vị tỳ kheo ấy bạch với Thế Tôn:
 
-“Pitaramhi hantukāmo”ti.
+– Bạch Thế Tôn, thái tử Ajātasattu sáng chiều đều đi năm trăm cỗ xe đến hầu hạ Devadatta, và năm trăm mâm cơm đầy thức ăn được dâng lên cho ông ta.
 
-“Kenāsi ussāhito”ti?
+– Này các tỳ kheo, chớ thèm muốn lợi lộc, sự tôn kính và danh tiếng của Devadatta. Này các tỳ kheo, bao lâu thái tử Ajātasattu sáng chiều còn đi năm trăm cỗ xe đến hầu hạ Devadatta và năm trăm mâm cơm đầy thức ăn còn được dâng lên cho ông ta, thì này các tỳ kheo, chỉ có sự suy thoái trong *những điều thiện* (thiện pháp / kusalesu dhammesu) chờ đợi Devadatta chứ không có sự tăng trưởng.
 
-“Ayyena devadattenā”ti.
+Này các tỳ kheo, ví như người ta làm vỡ túi mật ở mũi con chó dữ, vì thế con chó ấy lại càng hung dữ gấp bội phần. Cũng vậy, này các tỳ kheo, bao lâu thái tử Ajātasattu sáng chiều còn đi năm trăm cỗ xe đến hầu hạ Devadatta và năm trăm mâm cơm đầy thức ăn còn được dâng lên cho ông ta, thì chỉ có sự suy thoái trong *những điều thiện* chờ đợi Devadatta chứ không có sự tăng trưởng.
 
-Ekacce mahāmattā evaṁ matiṁ akaṁsu— “kumāro ca hantabbo, devadatto ca, sabbe ca bhikkhū hantabbā”ti. Ekacce mahāmattā evaṁ matiṁ akaṁsu— “na bhikkhū hantabbā. Na bhikkhū kiñci aparajjhanti. Kumāro ca hantabbo, devadatto cā”ti. Ekacce mahāmattā evaṁ matiṁ akaṁsu— “na kumāro ca hantabbo, na devadatto. Na bhikkhū hantabbā. Rañño ārocetabbaṁ. Yathā rājā vakkhati tathā karissāmā”ti.
+Này các tỳ kheo, lợi lộc, sự tôn kính và danh tiếng sinh ra để tự hại Devadatta; lợi lộc, sự tôn kính và danh tiếng sinh ra để làm suy bại Devadatta.
 
-3.5\. Atha kho te mahāmattā ajātasattuṁ kumāraṁ ādāya yena rājā māgadho seniyo bimbisāro tenupasaṅkamiṁsu, upasaṅkamitvā rañño māgadhassa seniyassa bimbisārassa etamatthaṁ ārocesuṁ. “Kathaṁ, bhaṇe, mahāmattehi mati katā”ti? “Ekacce, deva, mahāmattā evaṁ matiṁ akaṁsu— ‘kumāro ca hantabbo, devadatto ca, sabbe ca bhikkhū hantabbā’ti. Ekacce mahāmattā evaṁ matiṁ akaṁsu— ‘na bhikkhū hantabbā. Na bhikkhū kiñci aparajjhanti. Kumāro ca hantabbo, devadatto cā’ti. Ekacce mahāmattā evaṁ matiṁ akaṁsu— ‘na kumāro ca hantabbo, na devadatto. Na bhikkhū hantabbā. Rañño ārocetabbaṁ. Yathā rājā vakkhati tathā karissāmā’”ti.
+Này các tỳ kheo, ví như cây chuối ra quả để tự hại mình, ra quả để làm suy bại mình; cũng vậy, lợi lộc, sự tôn kính và danh tiếng sinh ra để tự hại Devadatta, sinh ra để làm suy bại Devadatta.
 
-“Kiṁ, bhaṇe, karissati buddho vā dhammo vā saṅgho vā? Nanu bhagavatā paṭikacceva devadatto rājagahe pakāsāpito— ‘pubbe devadattassa aññā pakati ahosi, idāni aññā pakati. Yaṁ devadatto kareyya kāyena vācāya, na tena buddho vā dhammo vā saṅgho vā daṭṭhabbo, devadattova tena daṭṭhabbo’”ti? Tattha ye te mahāmattā evaṁ matiṁ akaṁsu— “kumāro ca hantabbo devadatto ca; sabbe ca bhikkhū hantabbā”ti; te aṭṭhāne akāsi. Ye te mahāmattā evaṁ matiṁ akaṁsu— “na bhikkhū hantabbā; na bhikkhū kiñci aparajjhanti; kumāro ca hantabbo devadatto cā”ti; te nīce ṭhāne ṭhapesi. Ye te mahāmattā evaṁ matiṁ akaṁsu— “na kumāro ca hantabbo, na devadatto; na bhikkhū hantabbā; rañño ārocetabbaṁ; yathā rājā vakkhati tathā karissāmā”ti; te ucce ṭhāne ṭhapesi.
+Này các tỳ kheo, ví như cây tre ra quả để tự hại mình, ra quả để làm suy bại mình; cũng vậy, lợi lộc, sự tôn kính và danh tiếng sinh ra để tự hại Devadatta, sinh ra để làm suy bại Devadatta.
 
-Atha kho rājā māgadho seniyo bimbisāro ajātasattuṁ kumāraṁ etadavoca— “kissa maṁ tvaṁ, kumāra, hantukāmosī”ti?
+Này các tỳ kheo, ví như cây sậy ra quả để tự hại mình, ra quả để làm suy bại mình; cũng vậy, lợi lộc, sự tôn kính và danh tiếng sinh ra để tự hại Devadatta, sinh ra để làm suy bại Devadatta.
 
-“Rajjenāmhi, deva, atthiko”ti.
+Này các tỳ kheo, ví như con la cái mang thai để tự hại mình, mang thai để làm suy bại mình; cũng vậy, lợi lộc, sự tôn kính và danh tiếng sinh ra để tự hại Devadatta, sinh ra để làm suy bại Devadatta.
 
-“Sace kho tvaṁ, kumāra, rajjena atthiko, etaṁ te rajjan”ti ajātasattussa kumārassa rajjaṁ niyyādesi.
+> Quả giết cây chuối tiêu,\
+> Quả giết tre cùng sậy,\
+> Cung kính giết kẻ hèn,\
+> Như thai giết con la.
 
-### 2.3. Abhimārapesana
+Hết tụng phẩm thứ nhất.
 
-3.6\. Atha kho devadatto yena ajātasattu kumāro tenupasaṅkami, upasaṅkamitvā ajātasattuṁ kumāraṁ etadavoca— “purise, mahārāja, āṇāpehi, ye samaṇaṁ gotamaṁ jīvitā voropessantī”ti. Atha kho ajātasattu kumāro manusse āṇāpesi— “yathā, bhaṇe, ayyo devadatto āha tathā kareyyāthā”ti.
+### 2.1. Hành động pháp lý công bố
+*(Pakāsanīyakamma)*
 
-Atha kho devadatto ekaṁ purisaṁ āṇāpesi— “gacchāvuso, amukasmiṁ okāse samaṇo gotamo viharati. Taṁ jīvitā voropetvā iminā maggena āgacchā”ti. Tasmiṁ magge dve purise ṭhapesi— “yo iminā maggena eko puriso āgacchati, taṁ jīvitā voropetvā iminā maggena āgacchathā”ti. Tasmiṁ magge cattāro purise ṭhapesi— “ye iminā maggena dve purisā āgacchanti, te jīvitā voropetvā iminā maggena āgacchathā”ti. Tasmiṁ magge aṭṭha purise ṭhapesi— “ye iminā maggena cattāro purisā āgacchanti, te jīvitā voropetvā iminā maggena āgacchathā”ti. Tasmiṁ magge soḷasa purise ṭhapesi— “ye iminā maggena aṭṭha purisā āgacchanti, te jīvitā voropetvā āgacchathā”ti.
+3.1\. Lúc bấy giờ, Thế Tôn đang ngồi thuyết giảng *Giáo pháp* giữa đại chúng đông đảo vây quanh, gồm cả vua chúa. Khi ấy, Devadatta đứng dậy khỏi chỗ ngồi, đắp thượng y lệch một bên vai, chắp tay hướng về Thế Tôn rồi bạch với Thế Tôn: {#3.1}
 
-3.7\. Atha kho so eko puriso asicammaṁ gahetvā dhanukalāpaṁ sannayhitvā yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavato avidūre bhīto ubbiggo ussaṅkī utrasto patthaddhena kāyena aṭṭhāsi. Addasā kho bhagavā taṁ purisaṁ bhītaṁ ubbiggaṁ ussaṅkiṁ utrastaṁ patthaddhena kāyena ṭhitaṁ. Disvāna taṁ purisaṁ etadavoca— “ehāvuso, mā bhāyī”ti.
+– Bạch Thế Tôn, nay Thế Tôn đã già, lớn tuổi, cao niên, đã đi trọn đường đời và đến tuổi xế chiều. Nay xin Thế Tôn hãy sống thảnh thơi, chuyên tâm sống *sung sướng* ngay trong hiện tại và giao Tăng đoàn tỳ kheo lại cho con. Con sẽ dẫn dắt Tăng đoàn tỳ kheo.
 
-Atha kho so puriso asicammaṁ ekamantaṁ karitvā dhanukalāpaṁ nikkhipitvā yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavato pādesu sirasā nipatitvā bhagavantaṁ etadavoca— “accayo maṁ, bhante, accagamā yathābālaṁ yathāmūḷhaṁ yathāakusalaṁ, yohaṁ duṭṭhacitto vadhakacitto idhūpasaṅkanto. Tassa me, bhante, bhagavā accayaṁ accayato paṭiggaṇhātu āyatiṁ saṁvarāyā”ti.
+– Thôi đi, Devadatta, ông chớ thích việc dẫn dắt Tăng đoàn tỳ kheo.
 
-“Taggha tvaṁ, āvuso, accayo accagamā yathābālaṁ yathāmūḷhaṁ yathāakusalaṁ, yaṁ tvaṁ duṭṭhacitto vadhakacitto idhūpasaṅkanto. Yato ca kho tvaṁ, āvuso, accayaṁ accayato disvā yathādhammaṁ paṭikarosi, taṁ te mayaṁ paṭiggaṇhāma. Vuḍḍhi hesā, āvuso, ariyassa vinaye— yo accayaṁ accayato disvā yathādhammaṁ paṭikaroti, āyatiṁ saṁvaraṁ āpajjatī”ti.
+Lần thứ hai, Devadatta [...lặp lại...] lần thứ ba, Devadatta bạch với Thế Tôn:
 
-Atha kho bhagavā tassa purisassa anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ sīlakathaṁ saggakathaṁ, kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ, nekkhamme ānisaṁsaṁ pakāsesi. Yadā taṁ bhagavā aññāsi kallacittaṁ, muducittaṁ, vinīvaraṇacittaṁ, udaggacittaṁ, pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā taṁ pakāsesi— dukkhaṁ, samudayaṁ, nirodhaṁ, maggaṁ. Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaheyya; evameva tassa purisassa tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi— “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti.
+– Bạch Thế Tôn, nay Thế Tôn đã già, lớn tuổi, cao niên, đã đi trọn đường đời và đến tuổi xế chiều. Nay xin Thế Tôn hãy sống thảnh thơi, chuyên tâm sống *sung sướng* ngay trong hiện tại và giao Tăng đoàn tỳ kheo lại cho con. Con sẽ dẫn dắt Tăng đoàn tỳ kheo.
 
-Atha kho so puriso diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṁ etadavoca— “abhikkantaṁ, bhante, abhikkantaṁ, bhante. Seyyathāpi, bhante, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya— ‘cakkhumanto rūpāni dakkhantī’ti— evamevaṁ bhagavatā anekapariyāyena dhammo pakāsito. Esāhaṁ, bhante, bhagavantaṁ saraṇaṁ gacchāmi, dhammañca, bhikkhusaṅghañca. Upāsakaṁ maṁ bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
+– Ngay cả với Sāriputta và Moggallāna, Ta cũng không giao Tăng đoàn tỳ kheo, huống chi là cho kẻ hèn mạt ăn đờm dãi như ông!
 
-Atha kho bhagavā taṁ purisaṁ etadavoca— “mā kho tvaṁ, āvuso, iminā maggena gaccha, iminā maggena gacchāhī”ti aññena maggena uyyojesi.
+Khi ấy Devadatta nghĩ: "Thế Tôn trước hội chúng có cả vua chúa mà sỉ nhục ta bằng lời mắng là kẻ ăn đờm dãi, lại còn đề cao Sāriputta và Moggallāna", nên tức giận, bất mãn, đảnh lễ Thế Tôn, đi nhiễu bên phải rồi bỏ đi. Đây chính là mối hận đầu tiên của Devadatta đối với Thế Tôn.
 
-3.8\. Atha kho te dve purisā— “kiṁ nu kho so eko puriso cirena āgacchatī”ti— paṭipathaṁ gacchantā addasāsuṁ bhagavantaṁ aññatarasmiṁ rukkhamūle nisinnaṁ. Disvāna yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Tesaṁ bhagavā anupubbiṁ kathaṁ kathesi …pe… aparappaccayā satthusāsane bhagavantaṁ etadavocuṁ— “abhikkantaṁ, bhante …pe… upāsake no bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gate”ti.
+3.2\. Rồi Thế Tôn bảo các tỳ kheo: {#3.2}
 
-Atha kho bhagavā te purise etadavoca— “mā kho tumhe, āvuso, iminā maggena gacchittha, iminā maggena gacchathā”ti aññena maggena uyyojesi.
+– Này các tỳ kheo, vậy Tăng đoàn hãy thực hiện *hành động pháp lý* (yết-ma / kammaṁ) công bố đối với Devadatta tại Rājagaha như sau: "Trước đây bản tính của Devadatta khác, nay bản tính đã khác. Bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta." Và này các tỳ kheo, việc ấy phải làm như sau. Một vị tỳ kheo thông hiểu và có năng lực phải bạch lên Tăng đoàn:
 
-Atha kho te cattāro purisā …pe… atha kho te aṭṭha purisā …pe… atha kho te soḷasa purisā— kiṁ nu kho te aṭṭha purisā cirena āgacchantīti— paṭipathaṁ gacchantā addasāsuṁ bhagavantaṁ aññatarasmiṁ rukkhamūle nisinnaṁ. Disvāna yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Tesaṁ bhagavā anupubbiṁ kathaṁ kathesi, seyyathidaṁ— dānakathaṁ …pe… aparappaccayā satthusāsane bhagavantaṁ etadavocuṁ— “abhikkantaṁ, bhante …pe… upāsake no bhagavā dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gate”ti.
+"Bạch chư tôn đức, xin Tăng đoàn lắng nghe. Nếu đã đến thời thích hợp cho Tăng đoàn, Tăng đoàn hãy thực hiện *hành động pháp lý* công bố đối với Devadatta tại Rājagaha rằng: 'Trước đây bản tính của Devadatta khác, nay bản tính đã khác. Bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta.' Đây là lời đề nghị.
 
-Atha kho bhagavā te purise etadavoca— “mā kho tumhe, āvuso, iminā maggena gacchittha, iminā maggena gacchathā”ti aññena maggena uyyojesi.
+Bạch chư tôn đức, xin Tăng đoàn lắng nghe. Tăng đoàn thực hiện *hành động pháp lý* công bố đối với Devadatta tại Rājagaha rằng: 'Trước đây bản tính của Devadatta khác, nay bản tính đã khác. Bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta.' Tôn giả nào đồng ý việc thực hiện *hành động pháp lý* công bố đối với Devadatta tại Rājagaha rằng 'Trước đây bản tính của Devadatta khác, nay bản tính đã khác; bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta' thì hãy giữ im lặng; vị nào không đồng ý thì hãy lên tiếng.
 
-3.9\. Atha kho so eko puriso yena devadatto tenupasaṅkami, upasaṅkamitvā devadattaṁ etadavoca— “nāhaṁ, bhante, sakkomi taṁ bhagavantaṁ jīvitā voropetuṁ; mahiddhiko so bhagavā mahānubhāvo”ti.
+Tăng đoàn đã thực hiện xong *hành động pháp lý* công bố đối với Devadatta tại Rājagaha rằng: 'Trước đây bản tính của Devadatta khác, nay bản tính đã khác. Bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta.' Tăng đoàn đồng thuận nên mới im lặng; tôi ghi nhận sự việc là như vậy."
 
-“Alaṁ, āvuso; mā tvaṁ samaṇaṁ gotamaṁ jīvitā voropesi. Ahameva samaṇaṁ gotamaṁ jīvitā voropessāmī”ti.
+Sau đó, Thế Tôn bảo Tôn giả Sāriputta:
 
-### 2.4. Lohituppādakakamma
+– Vậy thì, này Sāriputta, ông hãy đi công bố về Devadatta tại Rājagaha.
 
-Tena kho pana samayena bhagavā gijjhakūṭassa pabbatassa chāyāyaṁ caṅkamati. Atha kho devadatto gijjhakūṭaṁ pabbataṁ āruhitvā mahatiṁ silaṁ pavijjhi— imāya samaṇaṁ gotamaṁ jīvitā voropessāmīti. Dve pabbatakūṭā samāgantvā taṁ silaṁ sampaṭicchiṁsu. Tato papatikā uppatitvā bhagavato pāde ruhiraṁ uppādesi. Atha kho bhagavā uddhaṁ ulloketvā devadattaṁ etadavoca— “bahuṁ tayā, moghapurisa, apuññaṁ pasutaṁ, yaṁ tvaṁ duṭṭhacitto vadhakacitto tathāgatassa ruhiraṁ uppādesī”ti. Atha kho bhagavā bhikkhū āmantesi—
+– Bạch Thế Tôn, trước đây con từng nói lời tán thán Devadatta tại Rājagaha rằng "Con trai bà Godhī có *thần thông* lớn, con trai bà Godhī có oai lực lớn." Vậy con phải công bố về Devadatta tại Rājagaha như thế nào?
 
-“idaṁ, bhikkhave, devadattena paṭhamaṁ ānantariyaṁ kammaṁ upacitaṁ, yaṁ duṭṭhacittena vadhakacittena tathāgatassa ruhiraṁ uppāditan”ti.
+– Này Sāriputta, chẳng phải trước đây ông đã nói đúng sự thật lời tán thán Devadatta tại Rājagaha rằng "Con trai bà Godhī có *thần thông* lớn, con trai bà Godhī có oai lực lớn" sao?
 
-3.10\. Assosuṁ kho bhikkhū— “devadattena kira bhagavato vadho payutto”ti. Te ca bhikkhū bhagavato vihārassa parito parito caṅkamanti uccāsaddā mahāsaddā sajjhāyaṁ karontā, bhagavato rakkhāvaraṇaguttiyā. Assosi kho bhagavā uccāsaddaṁ mahāsaddaṁ sajjhāyasaddaṁ. Sutvāna āyasmantaṁ ānandaṁ āmantesi— “kiṁ nu kho so, ānanda, uccāsaddo mahāsaddo sajjhāyasaddo”ti? “Assosuṁ kho, bhante, bhikkhū— ‘devadattena kira bhagavato vadho payutto’ti. Te ca, bhante, bhikkhū bhagavato vihārassa parito parito caṅkamanti uccāsaddā mahāsaddā sajjhāyaṁ karontā, bhagavato rakkhāvaraṇaguttiyā. So eso, bhagavā, uccāsaddo mahāsaddo sajjhāyasaddo”ti. “Tena hānanda, mama vacanena te bhikkhū āmantehi— satthā āyasmante āmantetī”ti.
+– Thưa vâng, bạch Thế Tôn.
 
-“Evaṁ, bhante”ti kho āyasmā ānando bhagavato paṭissutvā yena te bhikkhū tenupasaṅkami, upasaṅkamitvā te bhikkhū etadavoca— “satthā āyasmante āmantetī”ti. “Evamāvuso”ti kho te bhikkhū āyasmato ānandassa paṭissutvā yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinne kho te bhikkhū bhagavā etadavoca—
+– Cũng đúng như vậy, này Sāriputta, hãy công bố đúng sự thật về Devadatta tại Rājagaha.
 
-“Aṭṭhānametaṁ, bhikkhave, anavakāso, yaṁ parūpakkamena tathāgataṁ jīvitā voropeyya. Anupakkamena, bhikkhave, tathāgatā parinibbāyanti.
+– Thưa vâng, bạch Thế Tôn.
 
-Pañcime, bhikkhave, satthāro santo saṁvijjamānā lokasmiṁ. Katame pañca?
+Tôn giả Sāriputta vâng lời Thế Tôn.
 
-Idha, bhikkhave, ekacco satthā aparisuddhasīlo samāno ‘parisuddhasīlomhī’ti paṭijānāti ‘parisuddhaṁ me sīlaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Tamenaṁ sāvakā evaṁ jānanti— ‘ayaṁ kho bhavaṁ satthā aparisuddhasīlo samāno “parisuddhasīlomhī”ti paṭijānāti “parisuddhaṁ me sīlaṁ pariyodātaṁ asaṅkiliṭṭhan”ti ca. Mayañceva kho pana gihīnaṁ āroceyyāma, nāssassa manāpaṁ. Yaṁ kho panassa amanāpaṁ, kathaṁ naṁ mayaṁ tena samudācareyyāma? Sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena— yaṁ tumo karissati, tumova tena paññāyissatī’ti. Evarūpaṁ kho, bhikkhave, satthāraṁ sāvakā sīlato rakkhanti; evarūpo ca pana satthā sāvakehi sīlato rakkhaṁ paccāsīsati.
+3.3\. Rồi Thế Tôn bảo các tỳ kheo: {#3.3}
 
-Puna caparaṁ, bhikkhave, idhekacco satthā aparisuddhājīvo samāno …pe… aparisuddhadhammadesano samāno …pe… aparisuddhaveyyākaraṇo samāno …pe… aparisuddhañāṇadassano samāno ‘parisuddhañāṇadassanomhī’ti paṭijānāti ‘parisuddhaṁ me ñāṇadassanaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Tamenaṁ sāvakā evaṁ jānanti— ‘ayaṁ kho bhavaṁ satthā aparisuddhañāṇadassano samāno “parisuddhañāṇadassanomhī”ti paṭijānāti “parisuddhaṁ me ñāṇadassanaṁ pariyodātaṁ asaṅkiliṭṭhan”ti ca. Mayañceva kho pana gihīnaṁ āroceyyāma, nāssassa manāpaṁ. Yaṁ kho panassa amanāpaṁ, kathaṁ na mayaṁ tena samudācareyyāma? Sammannati kho pana cīvarapiṇḍapātasenāsanagilānappaccayabhesajjaparikkhārena— yaṁ tumo karissati, tumova tena paññāyissatī’ti. Evarūpaṁ kho, bhikkhave, satthāraṁ sāvakā ñāṇadassanato rakkhanti; evarūpo ca pana satthā sāvakehi ñāṇadassanato rakkhaṁ paccāsīsati. Ime kho, bhikkhave, pañca satthāro santo saṁvijjamānā lokasmiṁ.
+– Này các tỳ kheo, vậy Tăng đoàn hãy cử Sāriputta đi công bố về Devadatta tại Rājagaha rằng: "Trước đây bản tính của Devadatta khác, nay bản tính đã khác. Bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta." Và này các tỳ kheo, vị ấy phải được cử lên như sau. Trước hết phải thỉnh cầu Sāriputta. Thỉnh cầu xong, một vị tỳ kheo thông hiểu và có năng lực phải bạch lên Tăng đoàn:
 
-Ahaṁ kho pana, bhikkhave, parisuddhasīlo samāno ‘parisuddhasīlomhī’ti paṭijānāmi ‘parisuddhaṁ me sīlaṁ pariyodātaṁ asaṅkiliṭṭhan’ti ca. Na ca maṁ sāvakā sīlato rakkhanti; na cāhaṁ sāvakehi sīlato rakkhaṁ paccāsīsāmi. Ahaṁ kho pana, bhikkhave, parisuddhājīvo samāno …pe… parisuddhadhammadesano samāno …pe… parisuddhaveyyākaraṇo samāno …pe… parisuddhañāṇadassano samāno “parisuddhañāṇadassanomhī”ti paṭijānāmi “parisuddhaṁ me ñāṇadassanaṁ pariyodātaṁ asaṅkiliṭṭhan”ti ca, na ca maṁ sāvakā ñāṇadassanato rakkhanti, na cāhaṁ sāvakehi ñāṇadassanato rakkhaṁ paccāsīsāmi.
+"Bạch chư tôn đức, xin Tăng đoàn lắng nghe. Nếu đã đến thời thích hợp cho Tăng đoàn, Tăng đoàn hãy cử Tôn giả Sāriputta đi công bố về Devadatta tại Rājagaha rằng: 'Trước đây bản tính của Devadatta khác, nay bản tính đã khác. Bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta.' Đây là lời đề nghị.
 
-“Aṭṭhānametaṁ, bhikkhave, anavakāso, yaṁ parūpakkamena tathāgataṁ jīvitā voropeyya. Anupakkamena, bhikkhave, tathāgatā parinibbāyanti. Gacchatha tumhe, bhikkhave, yathāvihāraṁ. Arakkhiyā, bhikkhave, tathāgatā”ti.
+Bạch chư tôn đức, xin Tăng đoàn lắng nghe. Tăng đoàn cử Tôn giả Sāriputta đi công bố về Devadatta tại Rājagaha rằng: 'Trước đây bản tính của Devadatta khác, nay bản tính đã khác; bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta.' Tôn giả nào đồng ý việc cử Tôn giả Sāriputta đi công bố về Devadatta tại Rājagaha rằng 'Trước đây bản tính của Devadatta khác, nay bản tính đã khác; bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta' thì hãy giữ im lặng; vị nào không đồng ý thì hãy lên tiếng.
 
-### 2.5. Nāḷāgiripesana
+Tăng đoàn đã cử Tôn giả Sāriputta đi công bố về Devadatta tại Rājagaha rằng: 'Trước đây bản tính của Devadatta khác, nay bản tính đã khác. Bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta.' Tăng đoàn đồng thuận nên mới im lặng; tôi ghi nhận sự việc là như vậy."
 
-3.11\. Tena kho pana samayena rājagahe nāḷāgiri nāma hatthī caṇḍo hoti, manussaghātako. Atha kho devadatto rājagahaṁ pavisitvā hatthisālaṁ gantvā hatthibhaṇḍe etadavoca— “mayaṁ kho, bhaṇe, rājañātakā nāma paṭibalā nīcaṭṭhāniyaṁ uccaṭṭhāne ṭhapetuṁ, bhattampi vetanampi vaḍḍhāpetuṁ. Tena hi, bhaṇe, yadā samaṇo gotamo imaṁ racchaṁ paṭipanno hoti, tadā imaṁ nāḷāgiriṁ hatthiṁ muñcetvā imaṁ racchaṁ paṭipādethā”ti.
+Được Tăng đoàn cử, Tôn giả Sāriputta cùng với nhiều vị tỳ kheo đi vào Rājagaha và công bố về Devadatta tại Rājagaha rằng: "Trước đây bản tính của Devadatta khác, nay bản tính đã khác. Bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta."
 
-“Evaṁ, bhante”ti kho te hatthibhaṇḍā devadattassa paccassosuṁ.
+Ở đó, những người nào không có niềm tin, không tịnh tín và kém trí tuệ thì nói rằng: "Những sa-môn Thích-tử này ganh tỵ; họ ganh tỵ với lợi lộc và sự tôn kính của Devadatta." Còn những người nào có niềm tin, có lòng kính mến, có trí tuệ, thông suốt và sáng suốt thì nói rằng: "Chuyện này hẳn không phải tầm thường nên Thế Tôn mới cho người công bố về Devadatta tại Rājagaha như vậy."
 
-Atha kho bhagavā pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sambahulehi bhikkhūhi saddhiṁ rājagahaṁ piṇḍāya pāvisi. Atha kho bhagavā taṁ racchaṁ paṭipajji. Addasāsuṁ kho te hatthibhaṇḍā bhagavantaṁ taṁ racchaṁ paṭipannaṁ. Disvāna nāḷāgiriṁ hatthiṁ muñcitvā taṁ racchaṁ paṭipādesuṁ. Addasā kho nāḷāgiri hatthī bhagavantaṁ dūratova āgacchantaṁ. Disvāna soṇḍaṁ ussāpetvā pahaṭṭhakaṇṇavālo yena bhagavā tena abhidhāvi. Addasāsuṁ kho te bhikkhū nāḷāgiriṁ hatthiṁ dūratova āgacchantaṁ. Disvāna bhagavantaṁ etadavocuṁ— “ayaṁ, bhante, nāḷāgiri hatthī caṇḍo manussaghātako imaṁ racchaṁ paṭipanno. Paṭikkamatu, bhante, bhagavā; paṭikkamatu sugato”ti.
+### 2.2. Chuyện thái tử Ajātasattu
+*(Ajātasattukumāravatthu)*
 
-“Āgacchatha, bhikkhave, mā bhāyittha. Aṭṭhānametaṁ, bhikkhave, anavakāso, yaṁ parūpakkamena tathāgataṁ jīvitā voropeyya. Anupakkamena, bhikkhave, tathāgatā parinibbāyantī”ti.
+3.4\. Thế rồi Devadatta đến gặp thái tử Ajātasattu và nói với thái tử Ajātasattu: {#3.4}
 
-Dutiyampi kho te bhikkhū …pe… tatiyampi kho te bhikkhū bhagavantaṁ etadavocuṁ— “ayaṁ, bhante, nāḷāgiri hatthī caṇḍo manussaghātako imaṁ racchaṁ paṭipanno. Paṭikkamatu, bhante, bhagavā; paṭikkamatu sugato”ti. “Āgacchatha, bhikkhave, mā bhāyittha. Aṭṭhānametaṁ, bhikkhave, anavakāso, yaṁ parūpakkamena tathāgataṁ jīvitā voropeyya. Anupakkamena, bhikkhave, tathāgatā parinibbāyantī”ti.
+– Này thái tử, xưa kia con người sống thọ lâu, nay tuổi thọ ngắn ngủi. Hoàn toàn có thể xảy ra trường hợp thái tử chết đi khi vẫn còn đang làm thái tử. Vậy thì, này thái tử, hãy giết cha mình mà làm vua đi; còn ta sẽ giết Thế Tôn mà làm Phật!
 
-3.12\. Tena kho pana samayena manussā pāsādesupi hammiyesupi chadanesupi āruḷhā acchanti. Tattha ye te manussā assaddhā appasannā dubbuddhino, te evamāhaṁsu— “abhirūpo vata, bho, mahāsamaṇo nāgena viheṭhīyissatī”ti. Ye pana te manussā saddhā pasannā paṇḍitā byattā buddhimanto, te evamāhaṁsu— “nacirassaṁ vata, bho, nāgo nāgena saṅgāmessatī”ti.
+Thái tử Ajātasattu nghĩ thầm: "Tôn giả Devadatta có *thần thông* lớn và oai lực lớn; chắc hẳn tôn giả Devadatta biết rõ điều đó", nên chàng buộc một con dao găm vào đùi, rồi giữa ban ngày ban mặt, trong trạng thái sợ hãi, hồi hộp, nghi ngại và kinh hoàng, xông thẳng vào hậu cung. Các đại thần phục vụ trong hậu cung thấy thái tử Ajātasattu giữa ban ngày ban mặt trong trạng thái sợ hãi, hồi hộp, nghi ngại và kinh hoàng xông thẳng vào hậu cung; thấy vậy họ liền bắt giữ lại. Khi lục soát, thấy con dao găm buộc ở đùi, họ hỏi thái tử Ajātasattu:
 
-Atha kho bhagavā nāḷāgiriṁ hatthiṁ mettena cittena phari. Atha kho nāḷāgiri hatthī bhagavato mettena cittena phuṭṭho soṇḍaṁ oropetvā yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavato purato aṭṭhāsi. Atha kho bhagavā dakkhiṇena hatthena nāḷāgirissa hatthissa kumbhaṁ parāmasanto nāḷāgiriṁ hatthiṁ imāhi gāthāhi ajjhabhāsi—
+– Này thái tử, thái tử định làm gì thế?
 
-> “Mā kuñjara nāgamāsado,\
-> Dukkhañhi kuñjara nāgamāsado;\
-> Na hi nāgahatassa kuñjara,\
-> Sugati hoti ito paraṁ yato.\
-> Mā ca mado mā ca pamādo,\
-> Na hi pamattā sugatiṁ vajanti te;\
-> Tvaññeva tathā karissasi,\
-> Yena tvaṁ sugatiṁ gamissasī”ti.
+– Ta muốn giết cha ta.
 
-Atha kho nāḷāgiri hatthī soṇḍāya bhagavato pādapaṁsūni gahetvā uparimuddhani ākiritvā paṭikuṭiyova osakki, yāva bhagavantaṁ addakkhi. Atha kho nāḷāgiri hatthī hatthisālaṁ gantvā sake ṭhāne aṭṭhāsi. Tathā danto ca pana nāḷāgiri hatthī ahosi. Tena kho pana samayena manussā imaṁ gāthaṁ gāyanti—
+– Ai đã xúi giục thái tử?
 
-> “Daṇḍeneke damayanti,\
-> aṅkusehi kasāhi ca;\
-> Adaṇḍena asatthena,\
-> nāgo danto mahesinā”ti.
+– Tôn giả Devadatta.
 
-3.13\. Manussā ujjhāyanti khiyyanti vipācenti— “yāva pāpo ayaṁ devadatto, alakkhiko, yatra hi nāma samaṇassa gotamassa evaṁmahiddhikassa evaṁmahānubhāvassa vadhāya parakkamissatī”ti. Devadattassa lābhasakkāro parihāyi. Bhagavato ca lābhasakkāro abhivaḍḍhi.
+Một số đại thần đưa ra ý kiến: "Cả thái tử, Devadatta và tất cả các tỳ kheo đều phải bị xử tử." Một số đại thần đưa ra ý kiến: "Không được giết các tỳ kheo; các tỳ kheo không phạm lỗi gì cả. Chỉ xử tử thái tử và Devadatta thôi." Một số đại thần đưa ra ý kiến: "Không được giết thái tử, cũng không giết Devadatta, và không được giết các tỳ kheo. Phải tâu trình lên đức vua; đức vua phán thế nào thì chúng ta làm thế ấy."
 
-### 2.6. Pañcavatthuyācanakathā
+3.5\. Rồi các đại thần ấy dẫn thái tử Ajātasattu đến gặp vua nước Magadha là Seniya Bimbisāra và tâu trình sự việc lên vua Seniya Bimbisāra. {#3.5}
 
-Tena kho pana samayena devadatto parihīnalābhasakkāro sapariso kulesu viññāpetvā viññāpetvā bhuñjati. Manussā ujjhāyanti khiyyanti vipācenti— “kathañhi nāma samaṇā sakyaputtiyā kulesu viññāpetvā viññāpetvā bhuñjissanti. Kassa sampannaṁ na manāpaṁ, kassa sāduṁ na ruccatī”ti.
+– Này các khanh, các đại thần đã đưa ra ý kiến thế nào?
 
-Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma devadatto sapariso kulesu viññāpetvā viññāpetvā bhuñjissatī”ti. Bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira tvaṁ, devadatta, sapariso kulesu viññāpetvā viññāpetvā bhuñjasī”ti? “Saccaṁ, bhagavā”ti …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+– Tâu đại vương, một số đại thần đưa ra ý kiến: "Cả thái tử, Devadatta và tất cả các tỳ kheo đều phải bị xử tử." Một số đại thần đưa ra ý kiến: "Không được giết các tỳ kheo; các tỳ kheo không phạm lỗi gì cả. Chỉ xử tử thái tử và Devadatta thôi." Một số đại thần đưa ra ý kiến: "Không được giết thái tử, cũng không giết Devadatta, và không được giết các tỳ kheo. Phải tâu trình lên đức vua; đức vua phán thế nào thì chúng ta làm thế ấy."
 
-“tena hi, bhikkhave, bhikkhūnaṁ kulesu tikabhojanaṁ paññapessāmi tayo atthavase paṭicca— dummaṅkūnaṁ puggalānaṁ niggahāya; pesalānaṁ bhikkhūnaṁ phāsuvihārāya, ‘mā pāpicchā pakkhaṁ nissāya saṅghaṁ bhindeyyun’ti; kulānuddayāya ca. Gaṇabhojane yathādhammo kāretabbo”ti.
+– Này các khanh, Đức Phật, *Giáo pháp* hay Tăng đoàn có làm gì đâu? Chẳng phải Thế Tôn đã cho người công bố trước về Devadatta tại Rājagaha rồi sao, rằng "Trước đây bản tính của Devadatta khác, nay bản tính đã khác; bất cứ điều gì Devadatta làm bằng thân hay lời nói, không nên xem đó là của Đức Phật, *Giáo pháp* hay Tăng đoàn, mà chỉ xem đó là của riêng Devadatta"?
 
-3.14\. Atha kho devadatto yena kokāliko kaṭamodakatissako khaṇḍadeviyā putto samuddadatto tenupasaṅkami, upasaṅkamitvā kokālikaṁ kaṭamodakatissakaṁ khaṇḍadeviyā puttaṁ samuddadattaṁ etadavoca— “etha, mayaṁ, āvuso, samaṇassa gotamassa saṅghabhedaṁ karissāma cakkabhedan”ti.
+Trong số đó, những đại thần nào đưa ra ý kiến "Cả thái tử, Devadatta và tất cả các tỳ kheo đều phải bị xử tử", nhà vua liền cách chức họ. Những đại thần nào đưa ra ý kiến "Không được giết các tỳ kheo; các tỳ kheo không phạm lỗi gì cả; chỉ xử tử thái tử và Devadatta thôi", nhà vua giáng họ xuống chức thấp. Còn những đại thần nào đưa ra ý kiến "Không được giết thái tử, cũng không giết Devadatta, và không được giết các tỳ kheo; phải tâu trình lên đức vua; đức vua phán thế nào thì chúng ta làm thế ấy", nhà vua thăng họ lên chức cao.
 
-Evaṁ vutte, kokāliko devadattaṁ etadavoca— “samaṇo kho, āvuso, gotamo mahiddhiko mahānubhāvo. Kathaṁ mayaṁ samaṇassa gotamassa saṅghabhedaṁ karissāma cakkabhedan”ti?
+Rồi vua Seniya Bimbisāra nước Magadha hỏi thái tử Ajātasattu:
 
-“Etha, mayaṁ, āvuso, samaṇaṁ gotamaṁ upasaṅkamitvā pañca vatthūni yācissāma— ‘bhagavā, bhante, anekapariyāyena appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyārambhassa vaṇṇavādī. Imāni, bhante, pañca vatthūni anekapariyāyena appicchatāya santuṭṭhiyā sallekhāya dhutatāya pāsādikatāya apacayāya vīriyārambhāya saṁvattanti.
+– Này thái tử, vì sao con muốn giết cha?
 
-Imāni pañca vatthūni samaṇo gotamo nānujānissati. Te mayaṁ imehi pañcahi vatthūhi janaṁ saññāpessāmā”ti.
+– Tâu đại vương, con cần vương quốc.
 
-“Sakkā kho, āvuso, imehi pañcahi vatthūhi samaṇassa gotamassa saṅghabhedo kātuṁ cakkabhedo. Lūkhappasannā hi, āvuso, manussā”ti.
+– Này thái tử, nếu con cần vương quốc thì đây là vương quốc cho con.
 
-3.15\. Atha kho devadatto sapariso yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho devadatto bhagavantaṁ etadavoca— “bhagavā, bhante, anekapariyāyena appicchassa santuṭṭhassa sallekhassa dhutassa pāsādikassa apacayassa vīriyārambhassa vaṇṇavādī. Imāni, bhante, pañca vatthūni anekapariyāyena appicchatāya santuṭṭhiyā sallekhāya dhutatāya pāsādikatāya apacayāya vīriyārambhāya saṁvattanti. Sādhu, bhante, bhikkhū yāvajīvaṁ āraññikā assu; yo gāmantaṁ osareyya, vajjaṁ naṁ phuseyya. Yāvajīvaṁ piṇḍapātikā assu; yo nimantanaṁ sādiyeyya, vajjaṁ naṁ phuseyya. Yāvajīvaṁ paṁsukūlikā assu; yo gahapaticīvaraṁ sādiyeyya, vajjaṁ naṁ phuseyya. Yāvajīvaṁ rukkhamūlikā assu; yo channaṁ upagaccheyya, vajjaṁ naṁ phuseyya. Yāvajīvaṁ macchamaṁsaṁ na khādeyyuṁ; yo macchamaṁsaṁ khādeyya, vajjaṁ naṁ phuseyyā”ti. “Alaṁ, devadatta. Yo icchati, āraññiko hotu; yo icchati, gāmante viharatu. Yo icchati, piṇḍapātiko hotu; yo icchati, nimantanaṁ sādiyatu. Yo icchati, paṁsukūliko hotu; yo icchati, gahapaticīvaraṁ sādiyatu. Aṭṭhamāse kho mayā, devadatta, rukkhamūlasenāsanaṁ anuññātaṁ; tikoṭiparisuddhaṁ macchamaṁsaṁ— adiṭṭhaṁ, assutaṁ, aparisaṅkitan”ti.
+Nói rồi nhà vua trao lại vương quốc cho thái tử Ajātasattu.
 
-Atha kho devadatto— “na bhagavā imāni pañca vatthūni anujānātī”ti— haṭṭho udaggo sapariso uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+### 2.3. Sai sát thủ đi ám sát
+*(Abhimārapesana)*
 
-Atha kho devadatto sapariso rājagahaṁ pavisitvā pañcahi vatthūhi janaṁ saññāpesi— “mayaṁ, āvuso, samaṇaṁ gotamaṁ upasaṅkamitvā pañca vatthūni yācimhā— ‘bhagavā, bhante, anekapariyāyena appicchassa …pe… vīriyārambhassa vaṇṇavādī. Imāni, bhante, pañca vatthūni anekapariyāyena appicchatāya …pe… vīriyārambhāya saṁvattanti. Sādhu, bhante, bhikkhū yāvajīvaṁ āraññikā assu; yo gāmantaṁ osareyya, vajjaṁ naṁ phuseyya …pe… yāvajīvaṁ macchamaṁsaṁ na khādeyyuṁ; yo macchamaṁsaṁ khādeyya, vajjaṁ naṁ phuseyyā’ti. Imāni pañca vatthūni samaṇo gotamo nānujānāti. Te mayaṁ imehi pañcahi vatthūhi samādāya vattāmā”ti.
+3.6\. Sau đó Devadatta đến gặp thái tử Ajātasattu và nói với thái tử Ajātasattu: {#3.6}
 
-3.16\. Tattha ye te manussā assaddhā appasannā dubbuddhino, te evamāhaṁsu— “ime kho samaṇā sakyaputtiyā dhutā sallekhavuttino. Samaṇo pana gotamo bāhulliko bāhullāya cetetī”ti. Ye pana te manussā saddhā pasannā paṇḍitā byattā buddhimanto, te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma devadatto bhagavato saṅghabhedāya parakkamissati cakkabhedāyā”ti.
+– Tâu đại vương, hãy hạ lệnh cho những người đi tước đoạt mạng sống của sa-môn Gotama!
 
-Assosuṁ kho bhikkhū tesaṁ manussānaṁ ujjhāyantānaṁ khiyyantānaṁ vipācentānaṁ. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma devadatto saṅghabhedāya parakkamissati cakkabhedāyā”ti.
+Thái tử Ajātasattu liền hạ lệnh cho thuộc hạ:
 
-Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe…
+– Này các ngươi, tôn giả Devadatta bảo thế nào thì hãy làm như thế ấy.
 
-“saccaṁ kira tvaṁ, devadatta, saṅghabhedāya parakkamasi cakkabhedāyā”ti?
+Thế rồi Devadatta ra lệnh cho một người:
 
-“Saccaṁ, bhagavā”ti.
+– Này anh bạn, hãy đi đến nơi kia, sa-môn Gotama đang ở đó. Hãy tước đoạt mạng sống của ông ta rồi quay về theo con đường này.
 
-“Alaṁ, devadatta. Mā te rucci saṅghabhedo. Garuko kho, devadatta, saṅghabhedo. Yo kho, devadatta, samaggaṁ saṅghaṁ bhindati, kappaṭṭhikaṁ kibbisaṁ pasavati, kappaṁ nirayamhi paccati. Yo ca kho, devadatta, bhinnaṁ saṅghaṁ samaggaṁ karoti, brahmaṁ puññaṁ pasavati, kappaṁ saggamhi modati. Alaṁ, devadatta. Mā te rucci saṅghabhedo. Garuko kho, devadatta, saṅghabhedo”ti.
+Trên con đường đó, ông ta bố trí hai người và dặn:
 
-3.17\. Atha kho āyasmā ānando pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisi. Addasā kho devadatto āyasmantaṁ ānandaṁ rājagahe piṇḍāya carantaṁ. Disvāna yenāyasmā ānando tenupasaṅkami, upasaṅkamitvā āyasmantaṁ ānandaṁ etadavoca— “ajjataggedānāhaṁ, āvuso ānanda, aññatreva bhagavatā, aññatreva bhikkhusaṅghā, uposathaṁ karissāmi saṅghakammaṁ karissāmī”ti.
+– Người đàn ông nào đi một mình quay về theo con đường này, hãy tước đoạt mạng sống của hắn rồi quay về theo con đường này.
 
-Atha kho āyasmā ānando rājagahe piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkanto yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca— “idhāhaṁ, bhante, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya rājagahaṁ piṇḍāya pāvisiṁ. Addasā kho maṁ, bhante, devadatto rājagahe piṇḍāya carantaṁ. Disvāna yenāhaṁ tenupasaṅkami, upasaṅkamitvā maṁ etadavoca— ‘ajjataggedānāhaṁ, āvuso ānanda, aññatreva bhagavatā, aññatreva bhikkhusaṅghā, uposathaṁ karissāmi saṅghakammaṁ karissāmī’ti. Ajjatagge, bhante, devadatto saṅghaṁ bhindissatī”ti. Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi—
+Trên con đường đó, ông ta bố trí bốn người và dặn:
 
-> “Sukaraṁ sādhunā sādhuṁ,\
-> Sādhuṁ pāpena dukkaraṁ;\
-> Pāpaṁ pāpena sukaraṁ,\
-> Pāpamariyehi dukkaran”ti.
+– Hai người đàn ông nào quay về theo con đường này, hãy tước đoạt mạng sống của chúng rồi quay về theo con đường này.
 
-Dutiyabhāṇavāro niṭṭhito.
+Trên con đường đó, ông ta bố trí tám người và dặn:
 
-### 3.1. Saṅghabhedakathā
+– Bốn người đàn ông nào quay về theo con đường này, hãy tước đoạt mạng sống của chúng rồi quay về theo con đường này.
 
-4.1\. Atha kho devadatto tadahuposathe uṭṭhāyāsanā salākaṁ gāhesi— “mayaṁ, āvuso, samaṇaṁ gotamaṁ upasaṅkamitvā pañca vatthūni yācimhā— ‘bhagavā, bhante, anekapariyāyena appicchassa …pe… vīriyārambhassa vaṇṇavādī. Imāni, bhante, pañca vatthūni anekapariyāyena appicchatāya …pe… vīriyārambhāya saṁvattanti.
+Trên con đường đó, ông ta bố trí mười sáu người và dặn:
 
-Imāni pañca vatthūni samaṇo gotamo nānujānāti. Te mayaṁ imehi pañcahi vatthūhi samādāya vattāma. Yassāyasmato imāni pañca vatthūni khamanti, so salākaṁ gaṇhātū”ti.
+– Tám người đàn ông nào quay về theo con đường này, hãy tước đoạt mạng sống của chúng rồi quay về.
 
-Tena kho pana samayena vesālikā vajjiputtakā pañcamattāni bhikkhusatāni navakā ceva honti appakataññuno ca. Te—“ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanan”ti salākaṁ gaṇhiṁsu.
+3.7\. Người đàn ông đi một mình ấy cầm gươm và khiên, đeo cung và bao tên, đi đến chỗ Thế Tôn; đến nơi, hắn đứng cách Thế Tôn không xa trong trạng thái sợ hãi, hồi hộp, nghi ngại, kinh hoàng và thân thể cứng đờ. Thế Tôn nhìn thấy người đàn ông ấy đang đứng sợ hãi, hồi hộp, nghi ngại, kinh hoàng và thân thể cứng đờ. Thấy vậy, Ngài bảo người ấy: {#3.7}
 
-Atha kho devadatto saṅghaṁ bhinditvā pañcamattāni bhikkhusatāni ādāya yena gayāsīsaṁ tena pakkāmi.
+– Lại đây, hiền giả, đừng sợ.
 
-Atha kho sāriputtamoggallānā yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca— “devadatto, bhante, saṅghaṁ bhinditvā pañcamattāni bhikkhusatāni ādāya yena gayāsīsaṁ tena pakkanto”ti.
+Người đàn ông ấy liền đặt gươm và khiên sang một bên, cởi bỏ cung và bao tên, tiến đến chỗ Thế Tôn, gieo đầu xuống dưới chân Thế Tôn và thưa:
 
-“Na hi nāma tumhākaṁ, sāriputtā, tesu navakesu bhikkhūsu kāruññampi bhavissati? Gacchatha tumhe, sāriputtā, purā te bhikkhū anayabyasanaṁ āpajjantī”ti.
+– Bạch Thế Tôn, lỗi lầm đã vượt quá trên con như một kẻ ngu, kẻ mê muội, kẻ bất thiện, khi con mang tâm xấu ác, tâm sát hại mà đi đến đây. Bạch Thế Tôn, xin Thế Tôn hãy chấp nhận lời thú nhận lỗi lầm là lỗi lầm của con, để con tự kiềm chế trong tương lai.
 
-“Evaṁ, bhante”ti kho sāriputtamoggallānā bhagavato paṭissutvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā yena gayāsīsaṁ tenupasaṅkamiṁsu.
+– Quả thật, hiền giả, lỗi lầm đã vượt quá trên anh như một kẻ ngu, kẻ mê muội, kẻ bất thiện, khi anh mang tâm xấu ác, tâm sát hại mà đi đến đây. Nhưng vì anh đã thấy lỗi lầm là lỗi lầm và khắc phục đúng theo *Quy luật* (pháp / dhamma), nên Ta chấp nhận lời thú nhận ấy của anh. Này hiền giả, trong kỷ luật của bậc thánh, đây chính là sự tăng trưởng: người nào thấy lỗi lầm là lỗi lầm rồi khắc phục đúng theo *Quy luật* và tự kiềm chế trong tương lai.
 
-Tena kho pana samayena aññataro bhikkhu bhagavato avidūre rodamāno ṭhito hoti. Atha kho bhagavā taṁ bhikkhuṁ etadavoca— “kissa tvaṁ, bhikkhu, rodasī”ti? “Yepi te, bhante, bhagavato aggasāvakā sāriputtamoggallānā tepi devadattassa santike gacchanti devadattassa dhammaṁ rocentā”ti.
+Rồi Thế Tôn giảng bài giảng tuần tự cho người ấy, tức là giảng về bố thí, giảng về *đạo đức*, giảng về cõi trời; Ngài trình bày sự nguy hại, thấp kém và ô nhiễm của *bản năng* (dục / kāmānaṁ) cùng lợi ích của việc xuất ly. Khi Thế Tôn nhận biết tâm của người ấy đã sẵn sàng, mềm mại, thoát khỏi *những điều làm mờ yếu tâm trí* (triền cái / nīvaraṇa), phấn khởi và có *niềm tin tuyệt đối* (tịnh tín / pasanna), bấy giờ Ngài mới trình bày bài giảng *Giáo pháp* cốt lõi riêng của chư Phật: *đau khổ* (khổ / dukkhaṁ), *sự hình thành* (tập / samudayaṁ), *sự chấm dứt* (diệt / nirodhaṁ) và con đường. Ví như tấm vải sạch đã gột hết vết đen hoàn toàn thấm nhuộm màu thuốc nhuộm; cũng vậy, ngay trên chỗ ngồi ấy, con mắt *Giáo pháp* không bụi bặm, không tì vết đã khởi lên nơi người đàn ông ấy rằng: "Bất cứ thứ gì có tính hình thành, tất cả thứ ấy đều *chịu sự cạn khô* (chịu sự diệt / nirodhadhammaṁ)."
 
-“Aṭṭhānametaṁ, bhikkhu, anavakāso, yaṁ sāriputtamoggallānā devadattassa dhammaṁ roceyyuṁ, api ca te gatā bhikkhūnaṁ saññattiyā”ti.
+Và người đàn ông ấy, người đã thấy *Giáo pháp*, đã đạt *Giáo pháp*, đã hiểu *Giáo pháp*, đã thâm nhập *Giáo pháp*, đã vượt qua *nghi ngờ* (nghi / vicikiccho), đã dứt mọi do dự, đạt được sự tự tin và không còn nương tựa vào ai khác trong lời dạy của bậc Đạo Sư, liền bạch với Thế Tôn:
 
-4.2\. Tena kho pana samayena devadatto mahatiyā parisāya parivuto dhammaṁ desento nisinno hoti. Addasā kho devadatto sāriputtamoggallāne dūratova āgacchante. Disvāna bhikkhū āmantesi— “passatha, bhikkhave, yāva svākkhāto mayā dhammo, yepi te samaṇassa gotamassa aggasāvakā sāriputtamoggallānā tepi mama santike āgacchanti. Mama dhammaṁ rocentā”ti.
+– Tuyệt vời thay, bạch Thế Tôn! Tuyệt vời thay, bạch Thế Tôn! Bạch Thế Tôn, ví như người dựng đứng lại vật bị úp ngược, phơi bày ra vật bị che khuất, chỉ đường cho người bị lạc, hay cầm đèn dầu trong bóng tối để "những người có mắt có thể thấy các *hình ảnh* (sắc / rūpāni)"; cũng vậy, *Giáo pháp* đã được Thế Tôn trình bày bằng nhiều phương cách. Bạch Thế Tôn, con xin quy y Thế Tôn, quy y *Giáo pháp* và quy y Tăng đoàn tỳ kheo. Xin Thế Tôn hãy nhận con làm cư sĩ quy y trọn đời kể từ hôm nay.
 
-Evaṁ vutte, kokāliko devadattaṁ etadavoca— “mā, āvuso devadatta, sāriputtamoggallāne vissasi. Pāpicchā sāriputtamoggallānā, pāpikānaṁ icchānaṁ vasaṁ gatā”ti.
+Sau đó, Thế Tôn bảo người ấy:
 
-“Alaṁ, āvuso. Svāgataṁ tesaṁ yato me dhammaṁ rocentī”ti.
+– Này hiền giả, anh chớ đi về theo con đường này, hãy đi theo con đường kia.
 
-Atha kho devadatto āyasmantaṁ sāriputtaṁ upaḍḍhāsanena nimantesi— “ehāvuso sāriputta, idha nisīdāhī”ti. “Alaṁ, āvuso”ti kho āyasmā sāriputto aññataraṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Āyasmāpi kho mahāmoggallāno aññataraṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Atha kho devadatto bahudeva rattiṁ bhikkhū dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā āyasmantaṁ sāriputtaṁ ajjhesi— “vigatathinamiddho kho, āvuso sāriputta, bhikkhusaṅgho. Paṭibhātu taṁ, āvuso sāriputta, bhikkhūnaṁ dhammī kathā, piṭṭhi me āgilāyati, tamahaṁ āyamissāmī”ti.
+Nói rồi Ngài cho người ấy đi về theo con đường khác.
 
-“Evamāvuso”ti kho āyasmā sāriputto devadattassa paccassosi.
+3.8\. Còn hai người kia nghĩ rằng "sao người đàn ông đi một mình ấy lâu quay về thế?", nên đi ngược đường tìm kiếm và thấy Thế Tôn đang ngồi dưới một gốc cây. Thấy vậy, họ đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn giảng bài giảng tuần tự cho họ [...lặp lại...] không còn nương tựa vào ai khác trong lời dạy của bậc Đạo Sư, họ bạch với Thế Tôn: {#3.8}
 
-Atha kho devadatto catugguṇaṁ saṅghāṭiṁ paññapetvā dakkhiṇena passena seyyaṁ kappesi. Tassa kilamantassa muṭṭhassatissa asampajānassa muhuttakeneva niddā okkami.
+– Tuyệt vời thay, bạch Thế Tôn! [...lặp lại...] Xin Thế Tôn hãy nhận chúng con làm cư sĩ quy y trọn đời kể từ hôm nay.
 
-4.3\. Atha kho āyasmā sāriputto ādesanāpāṭihāriyānusāsaniyā bhikkhū dhammiyā kathāya ovadi anusāsi. Āyasmā mahāmoggallāno iddhipāṭihāriyānusāsaniyā bhikkhū dhammiyā kathāya ovadi anusāsi. Atha kho tesaṁ bhikkhūnaṁ āyasmatā sāriputtena ādesanāpāṭihāriyānusāsaniyā āyasmatā ca mahāmoggallānena iddhipāṭihāriyānusāsaniyā ovadiyamānānaṁ anusāsiyamānānaṁ virajaṁ vītamalaṁ dhammacakkhuṁ udapādi— “yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti.
+Sau đó, Thế Tôn bảo hai người ấy:
 
-Atha kho āyasmā sāriputto bhikkhū āmantesi— “gacchāma mayaṁ, āvuso, bhagavato santike. Yo tassa bhagavato dhammaṁ rocesi so āgacchatū”ti. Atha kho sāriputtamoggallānā tāni pañcabhikkhusatāni ādāya yena veḷuvanaṁ tenupasaṅkamiṁsu.
+– Này các hiền giả, các anh chớ đi về theo con đường này, hãy đi theo con đường kia.
 
-Atha kho kokāliko devadattaṁ uṭṭhāpesi— “uṭṭhehi, āvuso devadatta, nītā te bhikkhū sāriputtamoggallānehi. Nanu tvaṁ, āvuso devadatta, mayā vutto— ‘mā, āvuso devadatta, sāriputtamoggallāne vissāsi. Pāpicchā sāriputtamoggallānā, pāpikānaṁ icchānaṁ vasaṁ gatā’”ti? Atha kho devadattassa tattheva uṇhaṁ lohitaṁ mukhato uggañchi.
+Nói rồi Ngài cho họ đi về theo con đường khác.
 
-4.4\. Atha kho sāriputtamoggallānā yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdisuṁ. Ekamantaṁ nisinno kho āyasmā sāriputto bhagavantaṁ etadavoca— “sādhu, bhante, bhedakānuvattakā bhikkhū puna upasampajjeyyun”ti.
+Rồi bốn người kia [...lặp lại...] rồi tám người kia [...lặp lại...] rồi mười sáu người kia nghĩ rằng "sao tám người kia lâu quay về thế?", nên đi ngược đường tìm kiếm và thấy Thế Tôn đang ngồi dưới một gốc cây. Thấy vậy, họ đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn giảng bài giảng tuần tự cho họ, tức là giảng về bố thí [...lặp lại...] không còn nương tựa vào ai khác trong lời dạy của bậc Đạo Sư, họ bạch với Thế Tôn:
 
-“Alaṁ, sāriputta. Mā te rucci bhedakānuvattakānaṁ bhikkhūnaṁ puna upasampadā. Tena hi tvaṁ, sāriputta, bhedakānuvattake bhikkhū thullaccayaṁ desāpehi. Kathaṁ pana te, sāriputta, devadatto paṭipajjī”ti?
+– Tuyệt vời thay, bạch Thế Tôn! [...lặp lại...] Xin Thế Tôn hãy nhận chúng con làm cư sĩ quy y trọn đời kể từ hôm nay.
 
-“Yatheva, bhante, bhagavā bahudeva rattiṁ bhikkhū dhammiyā kathāya sandassetvā samādapetvā samuttejetvā sampahaṁsetvā maṁ ajjhesati— ‘vigatathinamiddho kho, sāriputta, bhikkhusaṅgho; paṭibhātu taṁ, sāriputta, bhikkhūnaṁ dhammī kathā, piṭṭhi me āgilāyati, tamahaṁ āyamissāmī’ti. Evameva kho, bhante, devadatto paṭipajjī”ti.
+Sau đó, Thế Tôn bảo những người ấy:
 
-4.5\. Atha kho bhagavā bhikkhū āmantesi—
+– Này các hiền giả, các anh chớ đi về theo con đường này, hãy đi theo con đường kia.
 
-“bhūtapubbaṁ, bhikkhave, araññāyatane mahāsarasī. Taṁ nāgā upanissāya vihariṁsu. Te taṁ sarasiṁ ogāhetvā, soṇḍāya bhisamuḷālaṁ abbuhitvā, suvikkhālitaṁ vikkhāletvā, akaddamaṁ saṅkhāditvā ajjhoharanti. Tesaṁ taṁ vaṇṇāya ceva hoti, balāya ca. Na ca tatonidānaṁ maraṇaṁ vā nigacchanti, maraṇamattaṁ vā dukkhaṁ.
+Nói rồi Ngài cho họ đi về theo con đường khác.
 
-Tesaṁyeva kho pana, bhikkhave, mahānāgānaṁ anusikkhamānā taruṇā bhiṅkacchāpā. Te taṁ sarasiṁ ogāhetvā, soṇḍāya bhisamuḷālaṁ abbuhitvā, na suvikkhālitaṁ vikkhāletvā, sakaddamaṁ saṅkhāditvā, ajjhoharanti. Tesaṁ taṁ neva vaṇṇāya hoti, na balāya. Tatonidānañca maraṇaṁ vā nigacchanti, maraṇamattaṁ vā dukkhaṁ. Evameva kho, bhikkhave, devadatto mamānukrubbaṁ kapaṇo marissatīti.
+3.9\. Về phần người đàn ông đi một mình kia, hắn trở về chỗ Devadatta và nói với Devadatta: {#3.9}
 
-> Mahāvarāhassa mahiṁ vikrubbato,\
-> Bhisaṁ ghasānassa nadīsu jaggato;\
-> Bhiṅkova paṅkaṁ abhibhakkhayitvā,\
-> Mamānukrubbaṁ kapaṇo marissatīti.
+– Thưa ngài, con không thể tước đoạt mạng sống của Thế Tôn ấy được; Thế Tôn ấy có *thần thông* lớn và oai lực lớn.
 
-4.6\. Aṭṭhahi, bhikkhave, aṅgehi samannāgato bhikkhu dūteyyaṁ gantumarahati. Katamehi aṭṭhahi? Idha, bhikkhave, bhikkhu sotā ca hoti, sāvetā ca, uggahetā ca, dhāretā ca, viññātā ca, viññāpetā ca, kusalo ca sahitāsahitassa, no ca kalahakārako— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgato bhikkhu dūteyyaṁ gantumarahati.
+– Thôi được rồi, hiền giả, anh không cần tước đoạt mạng sống của sa-môn Gotama nữa. Chính ta sẽ tự mình tước đoạt mạng sống của sa-môn Gotama!
 
-Aṭṭhahi, bhikkhave, aṅgehi samannāgato sāriputto dūteyyaṁ gantumarahati.
+### 2.4. Hành động làm chảy máu Đức Phật
+*(Lohituppādakakamma)*
 
-Katamehi aṭṭhahi? Idha, bhikkhave, sāriputto sotā ca hoti, sāvetā ca, uggahetā ca, dhāretā ca, viññātā ca, viññāpetā ca, kusalo ca sahitāsahitassa, no ca kalahakārako— imehi kho, bhikkhave, aṭṭhahaṅgehi samannāgato sāriputto dūteyyaṁ gantumarahatīti.
+Lúc bấy giờ, Thế Tôn đang đi kinh hành dưới bóng núi Linh Thứu. Devadatta leo lên núi Linh Thứu rồi lăn một tảng đá lớn xuống với ý định: "Ta sẽ dùng tảng đá này tước đoạt mạng sống của sa-môn Gotama." Hai mỏm đá nhô ra chạm nhau đỡ lấy tảng đá ấy. Một mảnh đá từ đó văng ra làm chảy máu ở bàn chân Thế Tôn. Thế Tôn ngước nhìn lên và bảo Devadatta:
 
-> Yo ve na byathati patvā,\
-> parisaṁ uggavādiniṁ;\
-> Na ca hāpeti vacanaṁ,\
-> na ca chādeti sāsanaṁ.\
-> Asandiddho ca akkhāti,\
-> Pucchito ca na kuppati;\
-> Sa ve tādisako bhikkhu,\
-> Dūteyyaṁ gantumarahatīti.
+– Này kẻ ngu dại, ngươi đã tạo ra nhiều điều bất phước khi với tâm xấu ác, tâm sát hại mà làm chảy máu *Người Đến Như Vậy* (Như Lai / tathāgatassa)!
 
-4.7\. Aṭṭhahi, bhikkhave, asaddhammehi abhibhūto pariyādinnacitto devadatto āpāyiko nerayiko kappaṭṭho atekiccho. Katamehi aṭṭhahi? Lābhena, bhikkhave, abhibhūto pariyādinnacitto devadatto āpāyiko nerayiko kappaṭṭho atekiccho; alābhena, bhikkhave …pe… yasena, bhikkhave …pe… ayasena, bhikkhave …pe… sakkārena, bhikkhave …pe… asakkārena, bhikkhave …pe… pāpicchatāya, bhikkhave …pe… pāpamittatāya bhikkhave, abhibhūto pariyādinnacitto devadatto āpāyiko nerayiko kappaṭṭho atekiccho— imehi kho, bhikkhave, aṭṭhahi asaddhammehi abhibhūto pariyādinnacitto devadatto āpāyiko nerayiko kappaṭṭho atekiccho.
+Rồi Thế Tôn bảo các tỳ kheo:
 
-Sādhu, bhikkhave, bhikkhu uppannaṁ lābhaṁ abhibhuyya abhibhuyya vihareyya, uppannaṁ alābhaṁ …pe… uppannaṁ yasaṁ … uppannaṁ ayasaṁ … uppannaṁ sakkāraṁ … uppannaṁ asakkāraṁ … uppannaṁ pāpicchataṁ … uppannaṁ pāpamittataṁ abhibhuyya abhibhuyya vihareyya.
+– Này các tỳ kheo, đây là *hành động tạo quả báo tức thì* (nghiệp vô gián / ānantariyaṁ kammaṁ) đầu tiên mà Devadatta đã tích lũy, khi với tâm xấu ác, tâm sát hại mà làm chảy máu *Người Đến Như Vậy*.
 
-Kathañca, bhikkhave, bhikkhu atthavasaṁ paṭicca uppannaṁ lābhaṁ abhibhuyya abhibhuyya vihareyya, uppannaṁ alābhaṁ …pe… uppannaṁ yasaṁ … uppannaṁ ayasaṁ … uppannaṁ sakkāraṁ … uppannaṁ asakkāraṁ … uppannaṁ pāpicchataṁ … uppannaṁ pāpamittataṁ abhibhuyya abhibhuyya vihareyya?
+3.10\. Các vị tỳ kheo nghe tin: "Nghe nói Devadatta đang âm mưu sát hại Thế Tôn." Các tỳ kheo ấy liền đi kinh hành xung quanh trú xứ của Thế Tôn, tụng đọc kinh kệ với giọng lớn tiếng, âm thanh vang dội để canh giữ, che chắn và bảo vệ Thế Tôn. Thế Tôn nghe thấy tiếng ồn lớn, tiếng tụng đọc lớn tiếng ấy. Nghe vậy, Ngài gọi Tôn giả Ānanda và hỏi: {#3.10}
 
-Yaṁ hissa, bhikkhave, uppannaṁ lābhaṁ anabhibhuyya viharato uppajjeyyuṁ āsavā vighātapariḷāhā, uppannaṁ lābhaṁ abhibhuyya abhibhuyya viharato evaṁsate āsavā vighātapariḷāhā na honti. Yaṁ hissa, bhikkhave, uppannaṁ alābhaṁ …pe… uppannaṁ yasaṁ … uppannaṁ ayasaṁ … uppannaṁ sakkāraṁ … uppannaṁ asakkāraṁ … uppannaṁ pāpicchataṁ … uppannaṁ pāpamittataṁ anabhibhuyya viharato uppajjeyyuṁ āsavā vighātapariḷāhā, uppannaṁ pāpamittataṁ abhibhuyya abhibhuyya viharato evaṁsate āsavā vighātapariḷāhā na honti.
+– Này Ānanda, tiếng ồn lớn, tiếng tụng đọc lớn tiếng ấy là gì vậy?
 
-Idaṁ kho, bhikkhave, atthavasaṁ paṭicca uppannaṁ lābhaṁ abhibhuyya abhibhuyya vihareyya, uppannaṁ alābhaṁ …pe… uppannaṁ yasaṁ … uppannaṁ ayasaṁ … uppannaṁ sakkāraṁ … uppannaṁ asakkāraṁ … uppannaṁ pāpicchataṁ … uppannaṁ pāpamittataṁ abhibhuyya abhibhuyya vihareyya. Tasmātiha, bhikkhave, uppannaṁ lābhaṁ abhibhuyya abhibhuyya viharissāma, uppannaṁ alābhaṁ …pe… uppannaṁ yasaṁ … uppannaṁ ayasaṁ … uppannaṁ sakkāraṁ … uppannaṁ asakkāraṁ … uppannaṁ pāpicchataṁ … uppannaṁ pāpamittataṁ abhibhuyya abhibhuyya viharissāmāti; evañhi vo, bhikkhave, sikkhitabbanti.
+– Bạch Thế Tôn, các tỳ kheo nghe tin "Nghe nói Devadatta đang âm mưu sát hại Thế Tôn", nên các vị tỳ kheo ấy đi kinh hành xung quanh trú xứ của Thế Tôn, tụng đọc kinh kệ với giọng lớn tiếng, âm thanh vang dội để canh giữ, che chắn và bảo vệ Thế Tôn. Bạch Thế Tôn, đó chính là tiếng ồn lớn, tiếng tụng đọc lớn tiếng ấy.
 
-Tīhi, bhikkhave, asaddhammehi abhibhūto pariyādinnacitto devadatto āpāyiko nerayiko kappaṭṭho atekiccho. Katamehi tīhi? Pāpicchatā, pāpamittatā, oramattakena visesādhigamena antarā vosānaṁ āpādi— imehi kho, bhikkhave, tīhi asaddhammehi abhibhūto pariyādinnacitto devadatto āpāyiko nerayiko kappaṭṭho atekicchoti.
+– Vậy thì, này Ānanda, hãy nhân danh Ta gọi các tỳ kheo ấy đến: "Bậc Đạo Sư gọi các tôn giả."
 
-> Mā jātu koci lokasmiṁ,\
-> pāpiccho udapajjatha;\
-> Tadamināpi jānātha,\
-> pāpicchānaṁ yathāgati.\
-> Paṇḍitoti samaññāto,\
-> bhāvitattoti sammato;\
-> Jalaṁva yasasā aṭṭhā,\
-> devadattoti me sutaṁ.\
-> So pamādaṁ anuciṇṇo,\
-> āsajja naṁ tathāgataṁ;\
-> Avīcinirayaṁ patto,\
-> catudvāraṁ bhayānakaṁ.\
-> Aduṭṭhassa hi yo dubbhe,\
-> pāpakammaṁ akrubbato;\
-> Tameva pāpaṁ phusati,\
-> duṭṭhacittaṁ anādaraṁ.\
-> Samuddaṁ visakumbhena,\
-> yo maññeyya padūsituṁ;\
-> Na so tena padūseyya,\
-> bhesmā hi udadhī mahā.\
-> Evameva tathāgataṁ,\
-> yo vādenupahiṁsati;\
-> Samaggataṁ santacittaṁ,\
-> vādo tamhi na rūhati.\
-> Tādisaṁ mittaṁ krubbetha,\
-> tañca sevetha paṇḍito;\
-> Yassa maggānugo bhikkhu,\
-> khayaṁ dukkhassa pāpuṇe”ti.
+– Thưa vâng, bạch Thế Tôn.
 
-### 3.2. Upālipañhā
+Tôn giả Ānanda vâng lời Thế Tôn, đi đến chỗ các tỳ kheo ấy và nói:
 
-5.1\. Atha kho āyasmā upāli yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā upāli bhagavantaṁ etadavoca— “saṅgharāji saṅgharājīti, bhante, vuccati. Kittāvatā nu kho, bhante, saṅgharāji hoti, no ca saṅghabhedo? Kittāvatā ca pana saṅgharāji ceva hoti saṅghabhedo cā”ti?
+– Bậc Đạo Sư gọi các tôn giả.
 
-Navannaṁ vā, upāli, atirekanavannaṁ vā saṅgharāji ceva hoti saṅghabhedo ca.
+– Vâng, hiền giả.
 
-Na kho, upāli, bhikkhunī saṅghaṁ bhindati, api ca bhedāya parakkamati, na sikkhamānā saṅghaṁ bhindati …pe… na sāmaṇero saṅghaṁ bhindati, na sāmaṇerī saṅghaṁ bhindati, na upāsako saṅghaṁ bhindati, na upāsikā saṅghaṁ bhindati, api ca bhedāya parakkamati.
+Các vị tỳ kheo ấy đáp lời Tôn giả Ānanda rồi đến chỗ Thế Tôn, đảnh lễ Thế Tôn và ngồi xuống một bên. Khi các tỳ kheo ấy đã ngồi xuống một bên, Thế Tôn bảo:
 
-Bhikkhu kho, upāli, pakatatto, samānasaṁvāsako, samānasīmāyaṁ ṭhito, saṅghaṁ bhindatī”ti.
+– Này các tỳ kheo, không có trường hợp, không có cơ hội nào mà người khác có thể dùng bạo lực tước đoạt mạng sống của *Người Đến Như Vậy*. Này các tỳ kheo, *những Người Đến Như Vậy* vào *Niết-bàn hoàn toàn* (nhập Bát-niết-bàn / parinibbāyanti) mà không do sự tấn công nào.
 
-5.2\. “Saṅghabhedo saṅghabhedoti, bhante, vuccati. Kittāvatā nu kho, bhante, saṅgho bhinno hotī”ti?
+Này các tỳ kheo, có năm hạng đạo sư hiện hữu ở trên đời. Năm hạng nào?
 
-Te imehi aṭṭhārasahi vatthūhi apakassanti, avapakassanti, āveniṁ uposathaṁ karonti, āveniṁ pavāraṇaṁ karonti, āveniṁ saṅghakammaṁ karonti. Ettāvatā kho, upāli, saṅgho bhinno hotī”ti.
+Ở đây, này các tỳ kheo, có vị đạo sư tuy có *đạo đức* không trong sạch nhưng lại tự nhận: "Ta có *đạo đức* trong sạch", và "*đạo đức* của ta trong sạch, tinh khiết, không tì vết." Các đệ tử của vị ấy biết rõ về ông ta như sau: "Vị tôn sư này tuy có *đạo đức* không trong sạch nhưng lại tự nhận 'Ta có *đạo đức* trong sạch' và '*đạo đức* của ta trong sạch, tinh khiết, không tì vết.' Nếu chúng ta báo cho cư sĩ biết, ông ấy sẽ không vừa lòng; mà điều gì khiến ông ấy không vừa lòng, làm sao chúng ta lại nói điều đó với ông ấy? Hơn nữa ông ấy vẫn được đáp ứng y phục, đồ khất thực, chỗ ở và thuốc men *điều kiện vừa đủ* cho người bệnh - những gì chính ông ấy làm, chính ông ấy sẽ được biết đến qua đó." Này các tỳ kheo, các đệ tử che chở cho vị đạo sư như vậy về mặt *đạo đức*, và vị đạo sư như vậy cũng trông mong các đệ tử che chở cho mình về mặt *đạo đức*.
 
-5.3\. “Saṅghasāmaggī saṅghasāmaggīti, bhante, vuccati. Kittāvatā nu kho, bhante, saṅgho samaggo hotī”ti?
+Lại nữa, này các tỳ kheo, ở đây có vị đạo sư tuy có nghề nghiệp không trong sạch [...lặp lại...] tuy giảng *Giáo pháp* không trong sạch [...lặp lại...] tuy có lời giải đáp không trong sạch [...lặp lại...] tuy có *hiểu biết và thấy rõ bản chất* không trong sạch nhưng lại tự nhận: "Ta có *hiểu biết và thấy rõ bản chất* trong sạch", và "*hiểu biết và thấy rõ bản chất* của ta trong sạch, tinh khiết, không tì vết." Các đệ tử của vị ấy biết rõ về ông ta như sau: "Vị tôn sư này tuy có *hiểu biết và thấy rõ bản chất* không trong sạch nhưng lại tự nhận 'Ta có *hiểu biết và thấy rõ bản chất* trong sạch' và '*hiểu biết và thấy rõ bản chất* của ta trong sạch, tinh khiết, không tì vết.' Nếu chúng ta báo cho cư sĩ biết, ông ấy sẽ không vừa lòng; mà điều gì khiến ông ấy không vừa lòng, làm sao chúng ta lại nói điều đó với ông ấy? Hơn nữa ông ấy vẫn được đáp ứng y phục, đồ khất thực, chỗ ở và thuốc men *điều kiện vừa đủ* cho người bệnh - những gì chính ông ấy làm, chính ông ấy sẽ được biết đến qua đó." Này các tỳ kheo, các đệ tử che chở cho vị đạo sư như vậy về mặt *hiểu biết và thấy rõ bản chất*, và vị đạo sư như vậy cũng trông mong các đệ tử che chở cho mình về mặt *hiểu biết và thấy rõ bản chất*. Này các tỳ kheo, đây là năm hạng đạo sư hiện hữu ở trên đời.
 
-Te imehi aṭṭhārasahi vatthūhi na apakassanti, na avapakassanti, na āveniṁ uposathaṁ karonti, na āveniṁ pavāraṇaṁ karonti, na āveniṁ saṅghakammaṁ karonti. Ettāvatā kho, upāli, saṅgho samaggo hotī”ti.
+Còn Ta, này các tỳ kheo, có *đạo đức* trong sạch nên tự nhận "Ta có *đạo đức* trong sạch" và "*đạo đức* của ta trong sạch, tinh khiết, không tì vết." Các đệ tử không che chở cho Ta về mặt *đạo đức*, và Ta cũng không trông mong các đệ tử che chở cho mình về mặt *đạo đức*. Ta có nghề nghiệp trong sạch [...lặp lại...] giảng *Giáo pháp* trong sạch [...lặp lại...] có lời giải đáp trong sạch [...lặp lại...] có *hiểu biết và thấy rõ bản chất* trong sạch nên tự nhận "Ta có *hiểu biết và thấy rõ bản chất* trong sạch" và "*hiểu biết và thấy rõ bản chất* của ta trong sạch, tinh khiết, không tì vết"; các đệ tử không che chở cho Ta về mặt *hiểu biết và thấy rõ bản chất*, và Ta cũng không trông mong các đệ tử che chở cho mình về mặt *hiểu biết và thấy rõ bản chất*.
 
-5.4\. “Samaggaṁ pana, bhante, saṅghaṁ bhinditvā kiṁ so pasavatī”ti?
+Này các tỳ kheo, không có trường hợp, không có cơ hội nào mà người khác có thể dùng bạo lực tước đoạt mạng sống của *Người Đến Như Vậy*. Này các tỳ kheo, *những Người Đến Như Vậy* vào *Niết-bàn hoàn toàn* mà không do sự tấn công nào. Này các tỳ kheo, các ông hãy trở về trú xứ của mình đi. Này các tỳ kheo, *những Người Đến Như Vậy* không cần được bảo vệ.
 
-“Samaggaṁ kho, upāli, saṅghaṁ bhinditvā kappaṭṭhikaṁ kibbisaṁ pasavati, kappaṁ nirayamhi paccatīti.
+### 2.5. Thả voi dữ Nāḷāgiri
+*(Nāḷāgiripesana)*
 
-> Āpāyiko nerayiko,\
-> Kappaṭṭho saṅghabhedako;\
-> Vaggarato adhammaṭṭho,\
-> Yogakkhemā padhaṁsati;\
-> Saṅghaṁ samaggaṁ bhinditvā,\
-> Kappaṁ nirayamhi paccatī”ti.
+3.11\. Lúc bấy giờ, ở Rājagaha có một con voi tên là Nāḷāgiri rất hung dữ và chuyên giết người. Devadatta đi vào Rājagaha, đến chuồng voi và bảo những người quản tượng: {#3.11}
 
-“Bhinnaṁ pana, bhante, saṅghaṁ samaggaṁ katvā kiṁ so pasavatī”ti?
+– Này các anh, chúng ta là thân tộc của nhà vua, có khả năng cất nhắc người ở địa vị thấp lên địa vị cao, cũng có thể tăng lương bổng và phần ăn. Vậy thì, này các anh, khi nào sa-môn Gotama đi vào con đường này, lúc ấy hãy thả con voi Nāḷāgiri này ra cho nó lao vào con đường này!
 
-“Bhinnaṁ kho, upāli, saṅghaṁ samaggaṁ katvā brahmaṁ puññaṁ pasavati, kappaṁ saggamhi modatīti.
+– Thưa vâng, tôn giả.
 
-> Sukhā saṅghassa sāmaggī,\
-> samaggānañca anuggaho;\
-> Samaggarato dhammaṭṭho,\
-> yogakkhemā na dhaṁsati;\
-> Saṅghaṁ samaggaṁ katvāna,\
-> kappaṁ saggamhi modatī”ti.
+Những người quản tượng ấy vâng lời Devadatta.
 
-5.5\. “Siyā nu kho, bhante, saṅghabhedako āpāyiko, nerayiko, kappaṭṭho, atekiccho”ti?
+Vào buổi sáng, Thế Tôn đắp y, cầm bình bát và y áo cùng nhiều vị tỳ kheo đi vào Rājagaha để khất thực. Thế Tôn bước vào con đường ấy. Những người quản tượng trông thấy Thế Tôn đã đi vào con đường đó. Thấy vậy, họ thả con voi Nāḷāgiri ra và xua nó lao vào con đường đó. Con voi Nāḷāgiri thấy Thế Tôn đang đi tới từ xa. Thấy vậy, nó giơ vòi lên, tai và đuôi vểnh thẳng, lao thẳng về phía Thế Tôn. Các vị tỳ kheo thấy con voi Nāḷāgiri đang lao tới từ xa. Thấy vậy, họ bạch với Thế Tôn:
 
-“Siyā, upāli, saṅghabhedako āpāyiko, nerayiko, kappaṭṭho, atekiccho”ti.
+– Bạch Thế Tôn, con voi Nāḷāgiri hung dữ chuyên giết người kia đang lao vào con đường này. Xin Thế Tôn hãy quay lại, xin Bậc Thiện Thệ hãy quay lại!
 
-“Siyā pana, bhante, saṅghabhedako na āpāyiko, na nerayiko, na kappaṭṭho, na atekiccho”ti?
+– Này các tỳ kheo, cứ đi tới, đừng sợ. Không có trường hợp, không có cơ hội nào mà người khác có thể dùng bạo lực tước đoạt mạng sống của *Người Đến Như Vậy*. Này các tỳ kheo, *những Người Đến Như Vậy* vào *Niết-bàn hoàn toàn* mà không do sự tấn công nào.
 
-“Siyā, upāli, saṅghabhedako na āpāyiko, na nerayiko, na kappaṭṭho, na atekiccho”ti.
+Lần thứ hai, các tỳ kheo [...lặp lại...] lần thứ ba, các tỳ kheo bạch với Thế Tôn:
 
-“Katamo pana, bhante, saṅghabhedako āpāyiko, nerayiko, kappaṭṭho, atekiccho”ti?
+– Bạch Thế Tôn, con voi Nāḷāgiri hung dữ chuyên giết người kia đang lao vào con đường này. Xin Thế Tôn hãy quay lại, xin Bậc Thiện Thệ hãy quay lại!
 
-“Idhupāli, bhikkhu adhammaṁ dhammoti dīpeti. Tasmiṁ adhammadiṭṭhi, bhede adhammadiṭṭhi, vinidhāya diṭṭhiṁ, vinidhāya khantiṁ, vinidhāya ruciṁ, vinidhāya bhāvaṁ, anussāveti, salākaṁ gāheti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Ayampi kho, upāli, saṅghabhedako āpāyiko, nerayiko, kappaṭṭho, atekiccho.
+– Này các tỳ kheo, cứ đi tới, đừng sợ. Không có trường hợp, không có cơ hội nào mà người khác có thể dùng bạo lực tước đoạt mạng sống của *Người Đến Như Vậy*. Này các tỳ kheo, *những Người Đến Như Vậy* vào *Niết-bàn hoàn toàn* mà không do sự tấn công nào.
 
-Puna caparaṁ, upāli, bhikkhu adhammaṁ dhammoti dīpeti. Tasmiṁ adhammadiṭṭhi, bhede dhammadiṭṭhi, vinidhāya diṭṭhiṁ, vinidhāya khantiṁ, vinidhāya ruciṁ, vinidhāya bhāvaṁ, anussāveti, salākaṁ gāheti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Ayampi kho, upāli, saṅghabhedako āpāyiko, nerayiko, kappaṭṭho, atekiccho.
+3.12\. Lúc bấy giờ, dân chúng trèo lên cả lâu đài, lầu gác và mái nhà để đứng xem. Trong số đó, những người nào không có niềm tin, không tịnh tín và kém trí tuệ thì nói: "Ôi chao, vị đại sa-môn tuấn tú sắp bị con voi lớn chà đạp rồi!" Còn những người nào có niềm tin, có lòng kính mến, có trí tuệ, thông suốt và sáng suốt thì nói: "Ôi chao, chẳng bao lâu nữa Bậc Long Tượng sẽ đối đầu với con voi lớn đây!" {#3.12}
 
-Puna caparaṁ, upāli, bhikkhu adhammaṁ dhammoti dīpeti. Tasmiṁ adhammadiṭṭhi, bhede vematiko, vinidhāya diṭṭhiṁ, vinidhāya khantiṁ, vinidhāya ruciṁ, vinidhāya bhāvaṁ, anussāveti, salākaṁ gāheti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Ayampi kho, upāli, saṅghabhedako āpāyiko, nerayiko, kappaṭṭho, atekiccho.
+Khi ấy, Thế Tôn rải tâm *yêu thương* (từ / mettena) đến con voi Nāḷāgiri. Chạm phải tâm *yêu thương* của Thế Tôn, con voi Nāḷāgiri hạ vòi xuống, đi đến chỗ Thế Tôn rồi đứng yên trước mặt Thế Tôn. Thế Tôn đưa bàn tay phải xoa lên trán con voi Nāḷāgiri và nói với nó bằng những vần kệ này:
 
-Puna caparaṁ, upāli, bhikkhu adhammaṁ dhammoti dīpeti. Tasmiṁ dhammadiṭṭhi, bhede adhammadiṭṭhi …pe… tasmiṁ dhammadiṭṭhi bhede dhammadiṭṭhi. Tasmiṁ dhammadiṭṭhi bhede vematiko. Tasmiṁ vematiko bhede adhammadiṭṭhi. Tasmiṁ vematiko bhede dhammadiṭṭhi. Tasmiṁ vematiko bhede vematiko vinidhāya diṭṭhiṁ, vinidhāya khantiṁ, vinidhāya ruciṁ, vinidhāya bhāvaṁ, anussāveti, salākaṁ gāheti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Ayampi kho, upāli, saṅghabhedako āpāyiko, nerayiko, kappaṭṭho, atekiccho.
+> Chớ đụng bậc Long Tượng,\
+> Đụng Long Tượng sẽ khổ;\
+> Kẻ hại bậc Long Tượng,\
+> Chết đi mất đường lành.
+>>
+> Chớ say mê, sao nhãng,\
+> Kẻ sao nhãng mất lành;\
+> Chính ngươi phải tự làm,\
+> Điều đưa đến cõi lành.
 
-Puna caparaṁ, upāli, bhikkhu dhammaṁ adhammoti dīpeti …pe… avinayaṁ vinayoti dīpeti … vinayaṁ avinayoti dīpeti … abhāsitaṁ alapitaṁ tathāgatena bhāsitaṁ lapitaṁ tathāgatenāti dīpeti … bhāsitaṁ lapitaṁ tathāgatena abhāsitaṁ alapitaṁ tathāgatenāti dīpeti … anāciṇṇaṁ tathāgatena āciṇṇaṁ tathāgatenāti dīpeti … āciṇṇaṁ tathāgatena anāciṇṇaṁ tathāgatenāti dīpeti … apaññattaṁ tathāgatena paññattaṁ tathāgatenāti dīpeti … paññattaṁ tathāgatena apaññattaṁ tathāgatenāti dīpeti … anāpattiṁ āpattīti dīpeti … āpattiṁ anāpattīti dīpeti … lahukaṁ āpattiṁ garukā āpattīti dīpeti … garukaṁ āpattiṁ lahukā āpattīti dīpeti … sāvasesaṁ āpattiṁ anavasesā āpattīti dīpeti … anavasesaṁ āpattiṁ sāvasesā āpattīti dīpeti … duṭṭhullaṁ āpattiṁ aduṭṭhullā āpattīti dīpeti … aduṭṭhullaṁ āpattiṁ duṭṭhullā āpattīti dīpeti … tasmiṁ adhammadiṭṭhi, bhede adhammadiṭṭhi …pe… tasmiṁ adhammadiṭṭhi, bhede dhammadiṭṭhi … tasmiṁ adhammadiṭṭhi, bhede vematiko … tasmiṁ dhammadiṭṭhi, bhede adhammadiṭṭhi … tasmiṁ dhammadiṭṭhi, bhede dhammadiṭṭhi … tasmiṁ dhammadiṭṭhi, bhede vematiko … tasmiṁ vematiko, bhede adhammadiṭṭhi … tasmiṁ vematiko, bhede dhammadiṭṭhi … tasmiṁ vematiko, bhede vematiko, vinidhāya diṭṭhiṁ, vinidhāya khantiṁ, vinidhāya ruciṁ, vinidhāya bhāvaṁ, anussāveti, salākaṁ gāheti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Ayampi kho, upāli, saṅghabhedako āpāyiko, nerayiko, kappaṭṭho, atekiccho”ti.
+Khi ấy, con voi Nāḷāgiri dùng vòi lấy bụi đất dưới chân Thế Tôn rắc lên đỉnh đầu mình, rồi cúi mình đi giật lùi lại cho đến khi còn nhìn thấy Thế Tôn. Sau đó, con voi Nāḷāgiri trở về chuồng voi và đứng yên tại chỗ của mình. Con voi Nāḷāgiri đã được thuần hóa như thế đấy. Lúc bấy giờ dân chúng liền hát bài kệ này:
 
-5.6\. “Katamo pana, bhante, saṅghabhedako na āpāyiko, na nerayiko, na kappaṭṭho, na atekiccho”ti?
+> Người dùng gậy để trị,\
+> Dùng móc sắt và roi;\
+> Không gậy, chẳng vũ khí,\
+> Đại Tiên thuần voi dữ.
 
-“Idhupāli, bhikkhu adhammaṁ dhammoti dīpeti. Tasmiṁ dhammadiṭṭhi, bhede dhammadiṭṭhi, avinidhāya diṭṭhiṁ, avinidhāya khantiṁ, avinidhāya ruciṁ, avinidhāya bhāvaṁ, anussāveti, salākaṁ gāheti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Ayampi kho, upāli, saṅghabhedako na āpāyiko, na nerayiko, na kappaṭṭho, na atekiccho.
+3.13\. Dân chúng chê trách, phàn nàn và chỉ trích: "Devadatta này thật độc ác và vô phúc làm sao, khi dám mưu toan sát hại sa-môn Gotama có *thần thông* lớn và oai lực lớn như thế!" Lợi lộc và sự tôn kính của Devadatta liền bị suy giảm, còn lợi lộc và sự tôn kính đối với Thế Tôn ngày càng tăng trưởng. {#3.13}
 
-Puna caparaṁ, upāli, bhikkhu dhammaṁ adhammoti dīpeti …pe… duṭṭhullaṁ āpattiṁ aduṭṭhullā āpattīti dīpeti. Tasmiṁ dhammadiṭṭhi, bhede dhammadiṭṭhi, avinidhāya diṭṭhiṁ, avinidhāya khantiṁ, avinidhāya ruciṁ, avinidhāya bhāvaṁ, anussāveti, salākaṁ gāheti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Ayampi kho, upāli, saṅghabhedako na āpāyiko, na nerayiko, na kappaṭṭho, na atekiccho”ti.
+### 2.6. Chuyện xin năm điều
+*(Pañcavatthuyācanakathā)*
 
-Tatiyabhāṇavāro niṭṭhito.
+Lúc bấy giờ, vì bị mất hết lợi lộc và sự tôn kính, Devadatta cùng đồ chúng cứ đi xin xỏ các gia đình hết lần này đến lần khác để ăn. Dân chúng chê trách, phàn nàn và chỉ trích: "Sao các sa-môn Thích-tử lại cứ đi xin xỏ các gia đình hết lần này đến lần khác để ăn thế? Ai mà lại không thích đồ ăn ngon, ai mà lại không ưa vị ngọt béo chứ!"
 
-Saṅghabhedakakkhandhako sattamo.
+Các vị tỳ kheo nghe được những lời chê trách, phàn nàn và chỉ trích của dân chúng. Những tỳ kheo nào ít ham muốn [...lặp lại...] liền chê trách, phàn nàn và chỉ trích: "Sao Devadatta cùng đồ chúng lại đi xin xỏ các gia đình hết lần này đến lần khác để ăn thế?" Các vị ấy bạch lên Thế Tôn sự việc ấy [...lặp lại...]
 
-Tassuddānaṁ
+– Này Devadatta, có thật là ông cùng đồ chúng đi xin xỏ các gia đình hết lần này đến lần khác để ăn không?
 
-> Anupiye abhiññātā,\
-> sukhumālo na icchati;\
-> Kasā vapā abhi ninne,\
-> niddhā lāve ca ubbahe.\
-> Puñjamaddapalālañca,\
-> bhusaophuṇanīhare;\
-> Āyatimpi na khīyanti,\
-> pitaro ca pitāmahā.\
-> Bhaddiyo anuruddho ca,\
-> ānando bhagu kimilo;\
-> Sakyamāno ca kosambiṁ,\
-> parihāyi kakudhena ca.\
-> Pakāsesi pituno ca,\
-> purise silaṁ nāḷāgiriṁ;\
-> Tikapañcagaruko kho,\
-> bhindi thullaccayena ca;\
-> Tayo aṭṭha puna tīṇi,\
-> rāji bhedā siyā nu khoti.
+– Thưa vâng, bạch Thế Tôn.
 
-Saṅghabhedakakkhandhako niṭṭhito.
+Ngài liền quở trách [...lặp lại...] sau khi thuyết giảng *Giáo pháp*, Ngài bảo các tỳ kheo:
+
+– Vậy thì, này các tỳ kheo, Ta sẽ *tuyên bố* (thi thiết / paññapessāmi) quy định ăn tối đa ba người tại các gia đình dựa trên ba lợi ích: để chế ngự những người cứng đầu, để các vị tỳ kheo hiền thiện được sống thoải mái với ý nghĩ "chớ để những kẻ có ham muốn xấu xa nương tựa bè phái mà chia rẽ Tăng đoàn", và để thương xót các gia đình. Đối với việc ăn theo nhóm, phải xử lý đúng theo *Quy luật*.
+
+3.14\. Thế rồi Devadatta đi đến gặp Kokālika, Kaṭamodakatissaka, con trai bà Khaṇḍadevī và Samuddadatta, rồi nói với họ: {#3.14}
+
+– Nào các hiền giả, chúng ta hãy gây ra *sự chia rẽ Tăng đoàn* (phá hòa hợp Tăng / saṅghabhedaṁ), *sự phá vỡ bánh xe Giáo pháp* (phá pháp luân / cakkabhedaṁ) của sa-môn Gotama đi!
+
+Nghe nói vậy, Kokālika hỏi Devadatta:
+
+– Hiền giả ơi, sa-môn Gotama có *thần thông* lớn và oai lực lớn. Làm sao chúng ta có thể gây ra *sự chia rẽ Tăng đoàn* và *sự phá vỡ bánh xe Giáo pháp* của sa-môn Gotama được?
+
+– Nào các hiền giả, chúng ta sẽ đến gặp sa-môn Gotama và xin năm điều với lời thưa rằng: "Bạch Thế Tôn, Thế Tôn bằng nhiều phương cách luôn tán dương người ít ham muốn, biết đủ, sống giản dị, khổ hạnh, trang nghiêm, ít tích trữ và siêng năng nỗ lực. Bạch Thế Tôn, năm điều này bằng nhiều phương cách đưa đến ít ham muốn, biết đủ, sống giản dị, khổ hạnh, trang nghiêm, ít tích trữ và siêng năng nỗ lực." Năm điều này sa-môn Gotama chắc chắn sẽ không cho phép. Khi ấy chúng ta sẽ dùng năm điều này để thuyết phục dân chúng!
+
+– Hiền giả ơi, đúng là có thể dùng năm điều này để gây ra *sự chia rẽ Tăng đoàn* và *sự phá vỡ bánh xe Giáo pháp* của sa-môn Gotama đấy. Vì người đời vốn có niềm tin vào lối sống khắc khổ mà!
+
+3.15\. Thế rồi Devadatta cùng đồ chúng đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Devadatta bạch với Thế Tôn: {#3.15}
+
+– Bạch Thế Tôn, Thế Tôn bằng nhiều phương cách luôn tán dương người ít ham muốn, biết đủ, sống giản dị, khổ hạnh, trang nghiêm, ít tích trữ và siêng năng nỗ lực. Bạch Thế Tôn, năm điều này bằng nhiều phương cách đưa đến ít ham muốn, biết đủ, sống giản dị, khổ hạnh, trang nghiêm, ít tích trữ và siêng năng nỗ lực. Bạch Thế Tôn, thật tốt lành thay nếu các vị tỳ kheo suốt đời sống trong rừng; ai xuống gần làng thì phạm lỗi. Suốt đời đi khất thực; ai nhận lời mời ăn thì phạm lỗi. Suốt đời mặc y lượm từ đống rác; ai nhận y do gia chủ dâng thì phạm lỗi. Suốt đời sống dưới gốc cây; ai vào chỗ có mái che thì phạm lỗi. Suốt đời không ăn cá và thịt; ai ăn cá và thịt thì phạm lỗi.
+
+– Thôi đi, Devadatta. Ai muốn thì hãy sống trong rừng; ai muốn thì hãy sống gần làng. Ai muốn thì hãy đi khất thực; ai muốn thì hãy nhận lời mời ăn. Ai muốn thì hãy mặc y lượm từ đống rác; ai muốn thì hãy nhận y do gia chủ dâng. Này Devadatta, Ta đã cho phép chỗ ở dưới gốc cây trong tám tháng, và cho phép ăn cá thịt thanh tịnh ba mặt: không thấy, không nghe và không nghi.
+
+Khi ấy Devadatta nghĩ: "Thế Tôn không cho phép năm điều này rồi", nên vui mừng, phấn khởi, cùng đồ chúng đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu bên phải rồi bỏ đi.
+
+Và Devadatta cùng đồ chúng đi vào thành Rājagaha, dùng năm điều ấy để thuyết phục dân chúng rằng: "Này các hiền giả, chúng tôi đã đến gặp sa-môn Gotama và xin năm điều: 'Bạch Thế Tôn, Thế Tôn bằng nhiều phương cách luôn tán dương người ít ham muốn [...lặp lại...] và siêng năng nỗ lực. Bạch Thế Tôn, năm điều này bằng nhiều phương cách đưa đến ít ham muốn [...lặp lại...] và siêng năng nỗ lực. Bạch Thế Tôn, thật tốt lành thay nếu các vị tỳ kheo suốt đời sống trong rừng; ai xuống gần làng thì phạm lỗi [...lặp lại...] suốt đời không ăn cá và thịt; ai ăn cá và thịt thì phạm lỗi.' Năm điều này sa-môn Gotama không cho phép. Còn chúng tôi thì tự nguyện thực hành theo năm điều này."
+
+3.16\. Trong số đó, những người nào không có niềm tin, không tịnh tín và kém trí tuệ thì nói rằng: "Những sa-môn Thích-tử này mới thật sự khổ hạnh và sống giản dị; còn sa-môn Gotama là người ưa sự dư dả và hướng tâm đến sự dư dả." Còn những người nào có niềm tin, có lòng kính mến, có trí tuệ, thông suốt và sáng suốt thì chê trách, phàn nàn và chỉ trích: "Sao Devadatta lại dám nỗ lực gây ra *chia rẽ Tăng đoàn* và *phá vỡ bánh xe Giáo pháp* của Thế Tôn thế!" {#3.16}
+
+Các vị tỳ kheo nghe được những lời chê trách, phàn nàn và chỉ trích của dân chúng. Những tỳ kheo nào ít ham muốn [...lặp lại...] liền chê trách, phàn nàn và chỉ trích: "Sao Devadatta lại dám nỗ lực gây ra *chia rẽ Tăng đoàn* và *phá vỡ bánh xe Giáo pháp* thế!"
+
+Các vị tỳ kheo ấy bạch lên Thế Tôn sự việc này [...lặp lại...]
+
+– Này Devadatta, có thật là ông đang nỗ lực gây ra *chia rẽ Tăng đoàn* và *phá vỡ bánh xe Giáo pháp* không?
+
+– Thưa vâng, bạch Thế Tôn.
+
+– Thôi đi, Devadatta. Ông chớ thích việc *chia rẽ Tăng đoàn*. Này Devadatta, *chia rẽ Tăng đoàn* là tội rất nặng! Này Devadatta, kẻ nào chia rẽ Tăng đoàn đang hòa hợp thì tạo ra tội ác kéo dài suốt một kiếp, bị thiêu đốt ở địa ngục suốt một kiếp. Còn người nào làm cho Tăng đoàn đã chia rẽ được hòa hợp trở lại thì tạo ra phước báu cao thượng, được vui hưởng ở cõi trời suốt một kiếp. Thôi đi, Devadatta. Ông chớ thích việc *chia rẽ Tăng đoàn*. Này Devadatta, *chia rẽ Tăng đoàn* là tội rất nặng!
+
+3.17\. Vào buổi sáng, Tôn giả Ānanda đắp y, cầm bình bát và y áo đi vào Rājagaha để khất thực. Devadatta trông thấy Tôn giả Ānanda đang đi khất thực trong thành Rājagaha. Thấy vậy, ông ta đến chỗ Tôn giả Ānanda và nói với Tôn giả Ānanda: {#3.17}
+
+– Này hiền giả Ānanda, kể từ hôm nay trở đi, tách riêng khỏi Thế Tôn, tách riêng khỏi Tăng đoàn tỳ kheo, ta sẽ làm *lễ Bố-tát* (Bố-tát / uposathaṁ) và làm các *hành động pháp lý* của Tăng đoàn!
+
+Sau khi đi khất thực ở Rājagaha xong, ăn cơm trưa xong và trở về từ buổi khất thực, Tôn giả Ānanda đến gặp Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ānanda bạch với Thế Tôn:
+
+– Bạch Thế Tôn, sáng nay con đắp y, cầm bình bát và y áo đi vào Rājagaha để khất thực. Devadatta đã trông thấy con đang đi khất thực trong thành Rājagaha. Thấy vậy, ông ta đến chỗ con và nói với con rằng: "Này hiền giả Ānanda, kể từ hôm nay trở đi, tách riêng khỏi Thế Tôn, tách riêng khỏi Tăng đoàn tỳ kheo, ta sẽ làm *lễ Bố-tát* và làm các *hành động pháp lý* của Tăng đoàn!" Bạch Thế Tôn, kể từ hôm nay, Devadatta sẽ chia rẽ Tăng đoàn mất!
+
+Khi ấy, hiểu rõ ý nghĩa ấy, Thế Tôn liền thốt lên lời cảm hứng này:
+
+> Người tốt dễ làm lành,\
+> Kẻ ác khó làm lành;\
+> Kẻ ác dễ làm ác,\
+> Bậc thánh khó làm ác.
+
+Hết tụng phẩm thứ hai.
+
+### 3.1. Chuyện chia rẽ Tăng đoàn
+*(Saṅghabhedakathā)*
+
+4.1\. Thế rồi vào đúng ngày *lễ Bố-tát* ấy, Devadatta đứng dậy khỏi chỗ ngồi và cho bỏ phiếu bằng thẻ tre với lời tuyên bố: {#4.1}
+
+– Này các hiền giả, chúng tôi đã đến gặp sa-môn Gotama và xin năm điều: "Bạch Thế Tôn, Thế Tôn bằng nhiều phương cách luôn tán dương người ít ham muốn [...lặp lại...] và siêng năng nỗ lực. Bạch Thế Tôn, năm điều này bằng nhiều phương cách đưa đến ít ham muốn [...lặp lại...] và siêng năng nỗ lực." Năm điều này sa-môn Gotama không cho phép. Chúng tôi thì tự nguyện thực hành theo năm điều này. Tôn giả nào đồng ý với năm điều này thì hãy nhận thẻ tre!
+
+Lúc bấy giờ, có khoảng năm trăm vị tỳ kheo dòng Vajji ở Vesālī còn mới tu và chưa hiểu biết nhiều. Các vị ấy nghĩ rằng "đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo Sư", nên đã nhận thẻ tre.
+
+Thế là Devadatta đã chia rẽ Tăng đoàn, dẫn theo khoảng năm trăm vị tỳ kheo ấy đi về phía Gayāsīsa.
+
+Sau đó, Tôn giả Sāriputta và Moggallāna đến gặp Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Sāriputta bạch với Thế Tôn:
+
+– Bạch Thế Tôn, Devadatta đã chia rẽ Tăng đoàn, dẫn theo khoảng năm trăm vị tỳ kheo đi về phía Gayāsīsa rồi.
+
+– Này Sāriputta [và Moggallāna], các ông không có chút lòng thương xót nào đối với những vị tỳ kheo mới tu ấy sao? Các ông hãy đi ngay đi, trước khi các vị tỳ kheo ấy rơi vào cảnh bất hạnh và tai họa!
+
+– Thưa vâng, bạch Thế Tôn.
+
+Tôn giả Sāriputta và Moggallāna vâng lời Thế Tôn, đứng dậy khỏi chỗ ngồi, đảnh lễ Thế Tôn, đi nhiễu bên phải rồi đi về phía Gayāsīsa.
+
+Lúc bấy giờ, có một vị tỳ kheo đang đứng khóc cách Thế Tôn không xa. Thế Tôn liền hỏi vị tỳ kheo ấy:
+
+– Này tỳ kheo, sao ông lại khóc?
+
+– Bạch Thế Tôn, ngay cả hai vị đại đệ tử của Thế Tôn là Sāriputta và Moggallāna cũng đi đến chỗ Devadatta để tán thành giáo pháp của Devadatta rồi!
+
+– Này tỳ kheo, không có trường hợp, không có cơ hội nào mà Sāriputta và Moggallāna lại tán thành giáo pháp của Devadatta. Chẳng qua hai vị ấy đi để thuyết phục các vị tỳ kheo kia quay về mà thôi.
+
+4.2\. Lúc bấy giờ, Devadatta đang ngồi thuyết giảng *Giáo pháp* giữa hội chúng đông đảo vây quanh. Devadatta trông thấy Tôn giả Sāriputta và Moggallāna đang đi tới từ xa. Thấy vậy, ông ta bảo các tỳ kheo: {#4.2}
+
+– Này các tỳ kheo, hãy xem *Giáo pháp* được ta khéo giảng giải đến mức nào: ngay cả hai vị đại đệ tử của sa-môn Gotama là Sāriputta và Moggallāna cũng đang đến chỗ ta và tán thành *Giáo pháp* của ta đây này!
+
+Nghe nói vậy, Kokālika liền bảo Devadatta:
+
+– Hiền giả Devadatta ơi, chớ tin tưởng vào Sāriputta và Moggallāna! Sāriputta và Moggallāna là những kẻ có ham muốn xấu xa, đã bị chi phối bởi những ham muốn xấu xa đấy!
+
+– Thôi nào hiền giả, cứ hoan nghênh hai vị ấy đi vì họ tán thành *Giáo pháp* của ta mà.
+
+Rồi Devadatta nhường nửa chỗ ngồi mời Tôn giả Sāriputta:
+
+– Lại đây, hiền giả Sāriputta, hãy ngồi ở đây!
+
+– Thôi được rồi, hiền giả.
+
+Tôn giả Sāriputta nói vậy rồi chọn một chỗ ngồi khác và ngồi xuống một bên. Tôn giả Mahāmoggallāna cũng chọn một chỗ ngồi khác và ngồi xuống một bên. Sau khi thuyết giảng *Giáo pháp* phần lớn thời gian ban đêm để chỉ dẫn, khích lệ, làm phấn khởi và hoan hỷ cho các tỳ kheo xong, Devadatta liền thỉnh cầu Tôn giả Sāriputta:
+
+– Hiền giả Sāriputta à, Tăng đoàn tỳ kheo đã hết *uể oải, buồn ngủ* (hôn trầm, thụy miên / thinamiddho) rồi. Xin hiền giả Sāriputta hãy tùy nghi thuyết giảng *Giáo pháp* cho các tỳ kheo; lưng của ta đang bị đau mỏi, ta muốn nằm nghỉ một chút.
+
+– Vâng, hiền giả.
+
+Tôn giả Sāriputta nhận lời Devadatta.
+
+Rồi Devadatta gấp tấm y tăng-già-lê làm bốn lớp trải ra và nằm nghiêng về bên phải. Vì mệt mỏi, mất *chú tâm* (thất niệm / muṭṭhassati) và *không nhận biết rõ ràng* (không tỉnh giác / asampajāna), chỉ trong chốc lát ông ta liền chìm vào giấc ngủ.
+
+4.3\. Khi ấy, Tôn giả Sāriputta giáo huấn và chỉ dạy các tỳ kheo bằng lời thuyết giảng *Giáo pháp* qua phép lạ đọc tâm; còn Tôn giả Mahāmoggallāna giáo huấn và chỉ dạy các tỳ kheo bằng lời thuyết giảng *Giáo pháp* qua phép lạ *thần thông*. Trong khi các vị tỳ kheo ấy đang được Tôn giả Sāriputta giáo huấn và chỉ dạy qua phép lạ đọc tâm và được Tôn giả Mahāmoggallāna giáo huấn và chỉ dạy qua phép lạ *thần thông*, con mắt *Giáo pháp* không bụi bặm, không tì vết đã khởi lên nơi các vị ấy rằng: "Bất cứ thứ gì có tính hình thành, tất cả thứ ấy đều *chịu sự cạn khô*." {#4.3}
+
+Thế rồi Tôn giả Sāriputta bảo các tỳ kheo:
+
+– Này các hiền giả, chúng ta hãy trở về chỗ Thế Tôn đi. Ai tán thành *Giáo pháp* của Thế Tôn ấy thì hãy đi theo!
+
+Thế là Tôn giả Sāriputta và Moggallāna dẫn năm trăm vị tỳ kheo ấy trở về Trúc Lâm.
+
+Khi ấy, Kokālika đánh thức Devadatta dậy:
+
+– Dậy đi, hiền giả Devadatta! Các tỳ kheo của anh bị Sāriputta và Moggallāna dẫn đi hết rồi! Hiền giả Devadatta à, chẳng phải tôi đã nói với anh rằng "chớ tin tưởng vào Sāriputta và Moggallāna; Sāriputta và Moggallāna là những kẻ có ham muốn xấu xa, đã bị chi phối bởi những ham muốn xấu xa" rồi sao?
+
+Ngay tại chỗ ấy, máu nóng liền trào ra từ miệng của Devadatta.
+
+4.4\. Khi trở về đến nơi, Tôn giả Sāriputta và Moggallāna đến gặp Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Sāriputta bạch với Thế Tôn: {#4.4}
+
+– Bạch Thế Tôn, có nên cho những tỳ kheo đã hùa theo kẻ gây chia rẽ được tu lên bậc trên trở lại không?
+
+– Thôi đi, Sāriputta, ông chớ thích việc cho những tỳ kheo đã hùa theo kẻ gây chia rẽ được tu lên bậc trên trở lại. Này Sāriputta, hãy bảo những tỳ kheo đã hùa theo kẻ gây chia rẽ ấy sám hối *lỗi Nặng (Thâu-lan-giá)* (thâu-lan-giá / thullaccayaṁ) đi. À này Sāriputta, Devadatta đã cư xử với ông như thế nào?
+
+– Bạch Thế Tôn, y hệt như cách Thế Tôn thuyết giảng *Giáo pháp* phần lớn thời gian ban đêm để chỉ dẫn, khích lệ, làm phấn khởi và hoan hỷ cho các tỳ kheo rồi bảo con rằng "Này Sāriputta, Tăng đoàn tỳ kheo đã hết *uể oải, buồn ngủ* rồi; hãy tùy nghi thuyết giảng *Giáo pháp* cho các tỳ kheo; lưng của Ta đang bị đau mỏi, Ta muốn nằm nghỉ một chút" - bạch Thế Tôn, Devadatta cũng đã làm y như vậy!
+
+4.5\. Rồi Thế Tôn bảo các tỳ kheo: {#4.5}
+
+– Này các tỳ kheo, thuở xưa trong một khu rừng lớn có một cái hồ lớn. Những con voi lớn sống nương tựa vào hồ ấy. Chúng lội xuống hồ, dùng vòi nhổ ngó sen và củ sen lên, rửa thật sạch cho hết bùn đất, nhai kỹ rồi nuốt vào. Nhờ vậy chúng có được sắc đẹp và sức mạnh, không vì thế mà phải chết hay chịu đau đớn gần như chết.
+
+Nhưng có những con voi non bắt chước theo những con voi lớn ấy. Chúng cũng lội xuống hồ, dùng vòi nhổ ngó sen và củ sen lên, nhưng không rửa thật sạch mà nhai lẫn cả bùn đất rồi nuốt vào. Vì thế chúng chẳng được sắc đẹp cũng chẳng có sức mạnh, mà còn vì nguyên nhân đó phải chết hoặc chịu đau đớn gần như chết. Cũng vậy, này các tỳ kheo, kẻ khốn khổ Devadatta bắt chước Ta rồi cũng sẽ phải chết thôi!
+
+> Voi lớn dạo mặt đất,\
+> Ven sông ăn ngó sen;\
+> Voi con nuốt cả bùn,\
+> Bắt chước Ta, chết thảm.
+
+4.6\. Này các tỳ kheo, vị tỳ kheo hội đủ tám đặc tính thì xứng đáng đi làm sứ giả. Tám đặc tính nào? Ở đây, này các tỳ kheo, vị tỳ kheo biết lắng nghe, biết truyền đạt lại, biết tiếp thu, biết ghi nhớ, biết hiểu rõ, biết giải thích cho người khác hiểu, khéo phân biệt điều phù hợp và không phù hợp, và không phải người gây tranh cãi. Này các tỳ kheo, vị tỳ kheo hội đủ tám đặc tính này thì xứng đáng đi làm sứ giả. {#4.6}
+
+Này các tỳ kheo, Sāriputta hội đủ tám đặc tính nên xứng đáng đi làm sứ giả.
+
+Tám đặc tính nào? Ở đây, này các tỳ kheo, Sāriputta biết lắng nghe, biết truyền đạt lại, biết tiếp thu, biết ghi nhớ, biết hiểu rõ, biết giải thích cho người khác hiểu, khéo phân biệt điều phù hợp và không phù hợp, và không phải người gây tranh cãi. Này các tỳ kheo, Sāriputta hội đủ tám đặc tính này nên xứng đáng đi làm sứ giả.
+
+> Ai đến giữa hội chúng,\
+> Nói lớn chẳng lung lay,\
+> Không bỏ sót lời nào,\
+> Không che giấu giáo huấn.
+>>
+> Nói năng không mập mờ,\
+> Bị hỏi không giận dữ,\
+> Vị tỳ kheo như thế,\
+> Xứng đáng đi sứ giả.
+
+4.7\. Này các tỳ kheo, bị tám điều không chân chánh chế ngự và chiếm lĩnh tâm trí, Devadatta bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa. Tám điều nào? {#4.7}
+
+Này các tỳ kheo, bị lợi lộc chế ngự và chiếm lĩnh tâm trí, Devadatta bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa. Bị không có lợi lộc, này các tỳ kheo [...lặp lại...] bị danh tiếng, này các tỳ kheo [...lặp lại...] bị mất danh tiếng, này các tỳ kheo [...lặp lại...] bị sự tôn kính, này các tỳ kheo [...lặp lại...] bị thiếu sự tôn kính, này các tỳ kheo [...lặp lại...] bị ham muốn xấu xa, này các tỳ kheo [...lặp lại...] bị kết bạn xấu, này các tỳ kheo, chế ngự và chiếm lĩnh tâm trí, Devadatta bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa. Này các tỳ kheo, bị tám điều không chân chánh này chế ngự và chiếm lĩnh tâm trí, Devadatta bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa.
+
+Này các tỳ kheo, thật tốt lành thay nếu vị tỳ kheo luôn chế ngự được lợi lộc phát sinh mà sống, luôn chế ngự được không có lợi lộc phát sinh [...lặp lại...] danh tiếng phát sinh... mất danh tiếng phát sinh... sự tôn kính phát sinh... thiếu sự tôn kính phát sinh... ham muốn xấu xa phát sinh... kết bạn xấu phát sinh mà sống.
+
+Và này các tỳ kheo, *dựa vào* (duyên / paṭicca) lợi ích gì mà vị tỳ kheo phải luôn chế ngự được lợi lộc phát sinh mà sống, luôn chế ngự được không có lợi lộc phát sinh [...lặp lại...] danh tiếng phát sinh... mất danh tiếng phát sinh... sự tôn kính phát sinh... thiếu sự tôn kính phát sinh... ham muốn xấu xa phát sinh... kết bạn xấu phát sinh mà sống?
+
+Này các tỳ kheo, những *nguồn ác* (lậu hoặc / āsavā), phiền muộn và thiêu đốt nào có thể khởi lên cho người sống mà không chế ngự được lợi lộc phát sinh, thì đối với người sống luôn chế ngự được lợi lộc phát sinh, những *nguồn ác*, phiền muộn và thiêu đốt ấy không khởi lên. Những *nguồn ác*, phiền muộn và thiêu đốt nào có thể khởi lên cho người sống mà không chế ngự được không có lợi lộc phát sinh [...lặp lại...] danh tiếng phát sinh... mất danh tiếng phát sinh... sự tôn kính phát sinh... thiếu sự tôn kính phát sinh... ham muốn xấu xa phát sinh... kết bạn xấu phát sinh, thì đối với người sống luôn chế ngự được kết bạn xấu phát sinh, những *nguồn ác*, phiền muộn và thiêu đốt ấy không khởi lên.
+
+Này các tỳ kheo, chính *dựa vào* lợi ích này mà vị tỳ kheo phải luôn chế ngự được lợi lộc phát sinh mà sống, luôn chế ngự được không có lợi lộc phát sinh [...lặp lại...] danh tiếng phát sinh... mất danh tiếng phát sinh... sự tôn kính phát sinh... thiếu sự tôn kính phát sinh... ham muốn xấu xa phát sinh... kết bạn xấu phát sinh mà sống. Do vậy, này các tỳ kheo, hãy tự rèn luyện rằng: "Chúng ta sẽ sống luôn chế ngự được lợi lộc phát sinh, sống luôn chế ngự được không có lợi lộc phát sinh [...lặp lại...] danh tiếng phát sinh... mất danh tiếng phát sinh... sự tôn kính phát sinh... thiếu sự tôn kính phát sinh... ham muốn xấu xa phát sinh... kết bạn xấu phát sinh." Này các tỳ kheo, các ông cần phải học tập như vậy.
+
+Này các tỳ kheo, bị ba điều không chân chánh chế ngự và chiếm lĩnh tâm trí, Devadatta bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa. Ba điều nào? Ham muốn xấu xa, kết bạn xấu, và chỉ đạt được thành tựu đặc biệt nhỏ nhoi mà đã dừng lại giữa chừng. Này các tỳ kheo, bị ba điều không chân chánh này chế ngự và chiếm lĩnh tâm trí, Devadatta bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa.
+
+> Mong sao trên thế gian,\
+> Chớ sinh kẻ ác dục;\
+> Qua chuyện này hãy biết,\
+> Đường đi kẻ ác dục.
+>>
+> Từng được khen bậc trí,\
+> Được xem người tu tâm,\
+> Từng rạng rỡ danh tiếng,\
+> Là Devadatta.
+>>
+> Rồi sống theo sao nhãng,\
+> Xúc phạm Đấng Như Lai,\
+> Rơi xuống ngục A-tỳ,\
+> Bốn cửa thật kinh hoàng.
+>>
+> Ai hại người vô tội,\
+> Người chẳng làm điều ác,\
+> Tội ác chạm chính kẻ,\
+> Tâm độc, không tôn kính.
+>>
+> Ai tưởng lấy bình độc,\
+> Làm ô nhiễm biển cả,\
+> Biển chẳng vì thế dơ,\
+> Vì đại dương sâu rộng.
+>>
+> Cũng vậy Đấng Như Lai,\
+> Bậc tâm an đạt đạo,\
+> Ai dùng lời phỉ báng,\
+> Lời chẳng bám được Ngài.
+>>
+> Người trí nên kết bạn,\
+> Thân cận bậc như vậy,\
+> Tỳ kheo đi theo đường,\
+> Đạt cạn kiệt khổ đau.
+
+### 3.2. Câu hỏi của Tôn giả Upāli
+*(Upālipañhā)*
+
+5.1\. Khi ấy, Tôn giả Upāli đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Upāli bạch với Thế Tôn: {#5.1}
+
+– Bạch Thế Tôn, người ta thường nói "*sự rạn nứt Tăng đoàn* (Tăng rạn nứt / saṅgharāji), *sự rạn nứt Tăng đoàn*." Bạch Thế Tôn, theo mức độ nào thì chỉ có *sự rạn nứt Tăng đoàn* chứ không phải *sự chia rẽ Tăng đoàn*? Và theo mức độ nào thì có cả *sự rạn nứt Tăng đoàn* lẫn *sự chia rẽ Tăng đoàn*?
+
+– Này Upāli, với chín [tỳ kheo] hoặc nhiều hơn chín [tỳ kheo] thì có cả *sự rạn nứt Tăng đoàn* lẫn *sự chia rẽ Tăng đoàn*.
+
+Này Upāli, tỳ kheo ni không chia rẽ được Tăng đoàn, mà chỉ là nỗ lực để chia rẽ; nữ tu tập sự không chia rẽ được Tăng đoàn [...lặp lại...] sa-di không chia rẽ được Tăng đoàn, sa-di ni không chia rẽ được Tăng đoàn, nam cư sĩ không chia rẽ được Tăng đoàn, nữ cư sĩ không chia rẽ được Tăng đoàn, mà chỉ là nỗ lực để chia rẽ.
+
+Này Upāli, chỉ có vị tỳ kheo bình thường, cùng sống chung và đứng trong cùng một ranh giới mới chia rẽ được Tăng đoàn.
+
+5.2\. – Bạch Thế Tôn, người ta thường nói "*sự chia rẽ Tăng đoàn*, *sự chia rẽ Tăng đoàn*." Bạch Thế Tôn, theo mức độ nào thì Tăng đoàn bị chia rẽ? {#5.2}
+
+– Họ dùng mười tám vấn đề này để kéo người đi riêng, lôi kéo tách ra, làm *lễ Bố-tát* riêng, làm *lễ Tự tứ* (Tự tứ / pavāraṇaṁ) riêng và làm các *hành động pháp lý* của Tăng riêng. Này Upāli, ở mức độ đó thì Tăng đoàn bị chia rẽ.
+
+5.3\. – Bạch Thế Tôn, người ta thường nói "*sự hòa hợp Tăng đoàn* (Tăng hòa hợp / saṅghasāmaggī), *sự hòa hợp Tăng đoàn*." Bạch Thế Tôn, theo mức độ nào thì Tăng đoàn được hòa hợp? {#5.3}
+
+– Họ không dùng mười tám vấn đề này để kéo người đi riêng, không lôi kéo tách ra, không làm *lễ Bố-tát* riêng, không làm *lễ Tự tứ* riêng và không làm các *hành động pháp lý* của Tăng riêng. Này Upāli, ở mức độ đó thì Tăng đoàn được hòa hợp.
+
+5.4\. – Bạch Thế Tôn, khi chia rẽ Tăng đoàn đang hòa hợp thì kẻ ấy tạo ra điều gì? {#5.4}
+
+– Này Upāli, khi chia rẽ Tăng đoàn đang hòa hợp, kẻ ấy tạo ra tội ác kéo dài suốt một kiếp, bị thiêu đốt ở địa ngục suốt một kiếp.
+
+> Kẻ chia rẽ Tăng đoàn,\
+> Đọa địa ngục một kiếp;\
+> Thích bè phái, phi pháp,\
+> Rời xa bến an ổn;\
+> Phá Tăng đang hòa hợp,\
+> Chịu thiêu đốt một kiếp.
+
+– Bạch Thế Tôn, khi làm cho Tăng đoàn đã chia rẽ được hòa hợp trở lại thì người ấy tạo ra điều gì?
+
+– Này Upāli, khi làm cho Tăng đoàn đã chia rẽ được hòa hợp trở lại, người ấy tạo ra phước báu cao thượng, được vui hưởng ở cõi trời suốt một kiếp.
+
+> Tăng hòa hợp thật vui,\
+> Nâng đỡ người hòa hợp;\
+> Thích hòa hợp, đúng pháp,\
+> Chẳng rời bến an ổn;\
+> Khiến Tăng được hòa hợp,\
+> Hưởng vui trời một kiếp.
+
+5.5\. – Bạch Thế Tôn, có phải kẻ chia rẽ Tăng đoàn nào cũng bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa không? {#5.5}
+
+– Này Upāli, có kẻ chia rẽ Tăng đoàn bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa.
+
+– Bạch Thế Tôn, có kẻ chia rẽ Tăng đoàn nào không bị đọa vào cõi dữ, không rơi vào địa ngục, không ở suốt một kiếp và không đến mức không thể cứu chữa không?
+
+– Này Upāli, có kẻ chia rẽ Tăng đoàn không bị đọa vào cõi dữ, không rơi vào địa ngục, không ở suốt một kiếp và không đến mức không thể cứu chữa.
+
+– Bạch Thế Tôn, kẻ chia rẽ Tăng đoàn nào bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa?
+
+– Ở đây, này Upāli, một vị tỳ kheo thuyết minh *Điều sai* (phi pháp / adhammaṁ) là *Điều đúng* (chánh pháp / dhamma). Vị ấy có cái nhìn về việc đó là *Điều sai*, có cái nhìn về sự chia rẽ là *Điều sai*, nhưng *che giấu* (gạt bỏ / vinidhāya) quan điểm, *che giấu* sự chấp thuận, *che giấu* sở thích, *che giấu* tâm ý của mình rồi đi loan báo và cho bỏ phiếu bằng thẻ tre rằng: "Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo Sư; hãy nhận lấy điều này, hãy tán thành điều này!" Này Upāli, đây là kẻ chia rẽ Tăng đoàn bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa.
+
+Lại nữa, này Upāli, một vị tỳ kheo thuyết minh *Điều sai* là *Điều đúng*. Vị ấy có cái nhìn về việc đó là *Điều sai*, có cái nhìn về sự chia rẽ là *Điều đúng*, rồi *che giấu* quan điểm, *che giấu* sự chấp thuận, *che giấu* sở thích, *che giấu* tâm ý của mình, đi loan báo và cho bỏ phiếu bằng thẻ tre rằng: "Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo Sư; hãy nhận lấy điều này, hãy tán thành điều này!" Này Upāli, đây cũng là kẻ chia rẽ Tăng đoàn bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa.
+
+Lại nữa, này Upāli, một vị tỳ kheo thuyết minh *Điều sai* là *Điều đúng*. Vị ấy có cái nhìn về việc đó là *Điều sai*, còn nghi ngờ về sự chia rẽ, rồi *che giấu* quan điểm, *che giấu* sự chấp thuận, *che giấu* sở thích, *che giấu* tâm ý của mình, đi loan báo và cho bỏ phiếu bằng thẻ tre rằng: "Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo Sư; hãy nhận lấy điều này, hãy tán thành điều này!" Này Upāli, đây cũng là kẻ chia rẽ Tăng đoàn bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa.
+
+Lại nữa, này Upāli, một vị tỳ kheo thuyết minh *Điều sai* là *Điều đúng*. Vị ấy có cái nhìn về việc đó là *Điều đúng*, có cái nhìn về sự chia rẽ là *Điều sai* [...lặp lại...] có cái nhìn về việc đó là *Điều đúng*, có cái nhìn về sự chia rẽ là *Điều đúng*; có cái nhìn về việc đó là *Điều đúng*, còn nghi ngờ về sự chia rẽ; còn nghi ngờ về việc đó, có cái nhìn về sự chia rẽ là *Điều sai*; còn nghi ngờ về việc đó, có cái nhìn về sự chia rẽ là *Điều đúng*; còn nghi ngờ về việc đó, còn nghi ngờ về sự chia rẽ, rồi *che giấu* quan điểm, *che giấu* sự chấp thuận, *che giấu* sở thích, *che giấu* tâm ý của mình, đi loan báo và cho bỏ phiếu bằng thẻ tre rằng: "Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo Sư; hãy nhận lấy điều này, hãy tán thành điều này!" Này Upāli, đây cũng là kẻ chia rẽ Tăng đoàn bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa.
+
+Lại nữa, này Upāli, một vị tỳ kheo thuyết minh *Điều đúng* là *Điều sai* [...lặp lại...] thuyết minh *phi Luật* (phi luật / avinayaṁ) là *Luật* (luật / vinayaṁ)... thuyết minh *Luật* là *phi Luật*... thuyết minh điều không phải do *Người Đến Như Vậy* nói và giảng là điều do *Người Đến Như Vậy* nói và giảng... thuyết minh điều do *Người Đến Như Vậy* nói và giảng là điều không phải do *Người Đến Như Vậy* nói và giảng... thuyết minh điều không phải do *Người Đến Như Vậy* thực hành là điều do *Người Đến Như Vậy* thực hành... thuyết minh điều do *Người Đến Như Vậy* thực hành là điều không phải do *Người Đến Như Vậy* thực hành... thuyết minh điều không phải do *Người Đến Như Vậy* quy định là điều do *Người Đến Như Vậy* quy định... thuyết minh điều do *Người Đến Như Vậy* quy định là điều không phải do *Người Đến Như Vậy* quy định... thuyết minh *không phải lỗi phạm* (phi tội / anāpattiṁ) là *lỗi phạm* (tội / āpattiṁ)... thuyết minh *lỗi phạm* là *không phải lỗi phạm*... thuyết minh lỗi nhẹ là lỗi nặng... thuyết minh lỗi nặng là lỗi nhẹ... thuyết minh lỗi còn khắc phục được là lỗi không còn khắc phục được... thuyết minh lỗi không còn khắc phục được là lỗi còn khắc phục được... thuyết minh lỗi thô xấu là lỗi không thô xấu... thuyết minh lỗi không thô xấu là lỗi thô xấu... Vị ấy có cái nhìn về việc đó là *Điều sai*, có cái nhìn về sự chia rẽ là *Điều sai* [...lặp lại...] có cái nhìn về việc đó là *Điều sai*, có cái nhìn về sự chia rẽ là *Điều đúng*... có cái nhìn về việc đó là *Điều sai*, còn nghi ngờ về sự chia rẽ... có cái nhìn về việc đó là *Điều đúng*, có cái nhìn về sự chia rẽ là *Điều sai*... có cái nhìn về việc đó là *Điều đúng*, có cái nhìn về sự chia rẽ là *Điều đúng*... có cái nhìn về việc đó là *Điều đúng*, còn nghi ngờ về sự chia rẽ... còn nghi ngờ về việc đó, có cái nhìn về sự chia rẽ là *Điều sai*... còn nghi ngờ về việc đó, có cái nhìn về sự chia rẽ là *Điều đúng*... còn nghi ngờ về việc đó, còn nghi ngờ về sự chia rẽ, rồi *che giấu* quan điểm, *che giấu* sự chấp thuận, *che giấu* sở thích, *che giấu* tâm ý của mình, đi loan báo và cho bỏ phiếu bằng thẻ tre rằng: "Đây là *Giáo pháp*, đây là *Luật*, đây là lời dạy của bậc Đạo Sư; hãy nhận lấy điều này, hãy tán thành điều này!" Này Upāli, đây cũng là kẻ chia rẽ Tăng đoàn bị đọa vào cõi dữ, rơi vào địa ngục, ở suốt một kiếp và không thể cứu chữa.
+
+5.6\. – Bạch Thế Tôn, kẻ chia rẽ Tăng đoàn nào không bị đọa vào cõi dữ, không rơi vào địa ngục, không ở suốt một kiếp và không đến mức không thể cứu chữa? {#5.6}
+
+– Ở đây, này Upāli, một vị tỳ kheo thuyết minh *Điều sai* là *Điều đúng*. Vị ấy có cái nhìn về việc đó là *Điều đúng*, có cái nhìn về sự chia rẽ là *Điều đúng*, và không *che giấu* quan điểm, không *che giấu* sự chấp thuận, không *che giấu* sở thích, không *che giấu* tâm ý của mình, đi loan báo và cho bỏ phiếu bằng thẻ tre rằng: "Đây là *Giáo pháp*, đây là *Luật*, đây là lời dạy của bậc Đạo Sư; hãy nhận lấy điều này, hãy tán thành điều này!" Này Upāli, đây là kẻ chia rẽ Tăng đoàn không bị đọa vào cõi dữ, không rơi vào địa ngục, không ở suốt một kiếp và không đến mức không thể cứu chữa.
+
+Lại nữa, này Upāli, một vị tỳ kheo thuyết minh *Điều đúng* là *Điều sai* [...lặp lại...] thuyết minh lỗi không thô xấu là lỗi thô xấu. Vị ấy có cái nhìn về việc đó là *Điều đúng*, có cái nhìn về sự chia rẽ là *Điều đúng*, và không *che giấu* quan điểm, không *che giấu* sự chấp thuận, không *che giấu* sở thích, không *che giấu* tâm ý của mình, đi loan báo và cho bỏ phiếu bằng thẻ tre rằng: "Đây là *Giáo pháp*, đây là *Luật*, đây là lời dạy của bậc Đạo Sư; hãy nhận lấy điều này, hãy tán thành điều này!" Này Upāli, đây cũng là kẻ chia rẽ Tăng đoàn không bị đọa vào cõi dữ, không rơi vào địa ngục, không ở suốt một kiếp và không đến mức không thể cứu chữa.
+
+Hết tụng phẩm thứ ba.
+
+Chương Chia Rẽ Tăng Đoàn là chương thứ bảy.
+
+Kệ tóm tắt chương ấy:
+
+> Chốn Anupiyā,\
+> Chàng mảnh mai không muốn;\
+> Cày, gieo, dẫn, rút nước,\
+> Làm cỏ, cắt và gom.
+>>
+> Đống, đạp, rút rơm ra,\
+> Tách trấu, sàng, đem cất;\
+> Năm sau việc không hết,\
+> Như cha và ông xưa.
+>>
+> Bạt-đề, A-na-luật,\
+> A-nan, Bhagu, Kim;\
+> Mạn Thích, Kosambī,\
+> Thoái phép, Kakudha.
+>>
+> Công bố, việc của cha,\
+> Thích khách, đá, voi dữ;\
+> Nhóm ăn, năm điều nặng,\
+> Phá Tăng, lỗi thô nặng.
+>>
+> Ba, tám rồi lại ba,\
+> Rạn nứt, chia rẽ chăng.
+
+Hết Chương Chia Rẽ Tăng Đoàn.
+
+---
+### Ghi chú tài liệu:
+- Các sự kiện và lời cảm hứng trong chương này có liên hệ trực tiếp đến nhiều bài kinh trong Nikāya và các điều học trong Luật tạng:
+  - Lời cảm hứng *"Ôi sung sướng thay"* của Tôn giả Bhaddiya Kāḷigodhāyaputta tương đồng với kinh Bhaddiya ([Ud 2.10](/l?q=ud-2.10)).
+  - Chuyện quy định ăn theo nhóm ba người (*tikabhojana*) liên quan đến điều học Ba-dật-đề thứ 32 ([bu.pc-32](/l?q=bu.pc-32)).
+  - Vụ việc Devadatta âm mưu chia rẽ Tăng đoàn và năm điều đề nghị khổ hạnh gắn liền với hai điều học Tăng-già-bà-thi-sa thứ 10 và 11 ([bu.ss-10](/l?q=bu.ss-10), [bu.ss-11](/l?q=bu.ss-11)).
+  - Các bài kệ và nhận định về quả báo của việc chia rẽ hay hòa hợp Tăng đoàn tương ứng với kinh Đề-bà-đạt-đa ([Iti 89](/l?q=iti-89)) và hai bài kinh về Phá Tăng - Hòa hợp Tăng ([Iti 18](/l?q=iti-18), [Iti 19](/l?q=iti-19)).
+- Lớp văn bản cho thấy sự kết hợp giữa phần tự sự lịch sử sơ kỳ (câu chuyện Devadatta) và phần pháp lý quy phạm mang tính hệ thống hóa chặt chẽ của Luật tạng (mục hỏi đáp của Tôn giả Upāli ở cuối chương với 18 tiêu chí và 9 trường hợp tâm lý).
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| pañca kāmaguṇā | năm sợi dây trói buộc bản năng | năm dục trưởng dưỡng | |
+| vijjā | hiểu biết | minh | `tisso vijjā`: ba hiểu biết. |
+| [!] sotāpattiphala | quả Nhập dòng | quả Dự lưu | Thành tựu đầu tiên thấy rõ quy luật vận hành của pháp (`sota` = dòng, `āpatti` = đi vào). |
+| [!] iddhi | thần thông | thần túc | Khả năng biến hóa tâm lý/vật lý; `pothujjanika iddhi`: thần thông của phàm phu (chưa giải thoát). |
+| māna | ngạo mạn | mạn | |
+| sukha | sung sướng | lạc | |
+| [!] brahmacariya | đời sống thánh thiện | phạm hạnh | Lối sống tu tập thanh tịnh theo lời Phật dạy. |
+| [!] sīla | đạo đức | giới | Quy chuẩn hành vi thân và khẩu. |
+| paccaya | điều kiện vừa đủ | duyên | Dùng trong cụm `gilānappaccaya` (đồ dùng cần thiết cho người bệnh). |
+| dhamma | Giáo pháp; Quy luật; Điều đúng | pháp | Tùy ngữ cảnh: giáo lý, quy luật tự nhiên hoặc điều chân chánh. |
+| [!] ñāṇadassana | hiểu biết và thấy rõ bản chất | tri kiến | `ñāṇa` (hiểu biết) + `dassana` (thấy rõ bản chất). |
+| kusalā dhammā | những điều thiện | thiện pháp | |
+| kamma | hành động pháp lý | yết-ma | Dùng cho các thủ tục biểu quyết chính thức của Tăng đoàn (`saṅghakamma`). |
+| nīvaraṇa | những điều làm mờ yếu tâm trí | triền cái | |
+| pasanno | niềm tin tuyệt đối | tịnh tín | |
+| kāma | bản năng | dục | |
+| dukkha | đau khổ | khổ | |
+| samudaya | sự hình thành | tập | |
+| nirodha | sự chấm dứt | diệt | |
+| nirodhadhamma | chịu sự cạn khô | chịu sự diệt | |
+| vicikicchā | nghi ngờ | nghi | |
+| rūpa | hình ảnh | sắc | Liên quan đến thị giác. |
+| tathāgata | Người Đến Như Vậy | Như Lai | |
+| [!] ānantariyaṁ kammaṁ | hành động tạo quả báo tức thì | nghiệp vô gián | Hành động cực nặng dẫn đến quả báo ngay sau khi chết, không gián đoạn. |
+| [!] parinibbāyanti | vào Niết-bàn hoàn toàn | nhập Bát-niết-bàn | Chấm dứt hoàn toàn sự tái sinh khi thân hoại mạng chung. |
+| mettā | yêu thương | từ | |
+| paññapeti | tuyên bố | thi thiết | |
+| [!] saṅghabheda | chia rẽ Tăng đoàn | phá hòa hợp Tăng | Tách Tăng đoàn thành hai phe làm lễ Bố-tát và hành động pháp lý riêng. |
+| [!] cakkabheda | phá vỡ bánh xe Giáo pháp | phá pháp luân | Phá vỡ sự vận hành thống nhất của cộng đồng tu hành. |
+| [!] uposatha | lễ Bố-tát | Bố-tát | Ngày họp Tăng đoàn định kỳ để tụng giới và kiểm điểm. |
+| thīna-middha | uể oải, buồn ngủ | hôn trầm, thụy miên | |
+| sati / sampajāna | chú tâm / nhận biết rõ ràng | niệm / tỉnh giác | `muṭṭhassati asampajāna`: mất chú tâm và không nhận biết rõ ràng. |
+| thullaccaya | lỗi Nặng (Thâu-lan-giá) | thâu-lan-giá | |
+| āsava | nguồn ác | lậu hoặc | |
+| paṭicca | dựa vào | duyên | |
+| [!] saṅgharāji | sự rạn nứt Tăng đoàn | Tăng rạn nứt | Chia rẽ nội bộ khi số lượng chưa đủ 9 vị tỳ kheo. |
+| [!] pavāraṇā | lễ Tự tứ | Tự tứ | Lễ kết thúc mùa mưa, các tỳ kheo mời nhau chỉ lỗi để sửa chữa. |
+| [!] saṅghasāmaggī | sự hòa hợp Tăng đoàn | Tăng hòa hợp | |
+| adhamma | Điều sai | phi pháp | |
+| [!] vinaya / avinaya | Luật / phi Luật | luật / phi luật | Hệ thống quy định kỷ luật của Tăng đoàn. |
+| [!] āpatti / anāpatti | lỗi phạm / không phải lỗi phạm | phạm tội / phi tội | |
+| [NG] vinidhāya | che giấu | tàng ẩn / gạt bỏ | Có hai cách hiểu trong chú giải: (1) giấu giếm/tự lừa dối quan điểm thật của mình để mưu cầu chia rẽ, hoặc (2) gạt bỏ sự chân thật sang một bên. `avinidhāya` là không che giấu (hành động thuần túy do nhận thức sai lầm thật sự). |
+

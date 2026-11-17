@@ -1,1443 +1,1978 @@
-#  . Bhikkhunīpātimokkhapāḷi
+---
+description: Bộ Giới Bổn Tỳ Kheo Ni gồm 311 điều học thuộc Luật tạng, được Tăng đoàn tỳ kheo ni tụng đọc mỗi nửa tháng trong lễ Bố-tát để duy trì kỷ luật và sự hòa hợp.
+---
 
-# Bhikkhunīpātimokkhapāḷi
+# GIỚI BỔN TỲ KHEO NI
+*(Bhikkhunīpātimokkhapāḷi)*
 
-#### Pubbakaraṇaṁ
+#### Những việc chuẩn bị trước
+*(Pubbakaraṇaṁ)*
 
-> Sammajjanī padīpo ca, udakaṁ āsanena ca;\
-> Uposathassa etāni, “pubbakaraṇa”nti vuccati.
+> Quét dọn và thắp đèn,\
+> Nước dùng cùng chỗ ngồi;\
+> Những việc này làm trước,\
+> Để cử hành Bố-tát.
 
-#### Pubbakiccaṁ
+#### Những việc cần làm trước
+*(Pubbakiccaṁ)*
 
-> Chanda, pārisuddhi, utukkhānaṁ, bhikkhunigaṇanā ca ovādo;\
-> Uposathassa etāni, “pubbakicca”nti vuccati.
+> Trình ủy nhiệm, thanh tịnh,\
+> Báo mùa, đếm ni chúng,\
+> Cùng nhận lời giáo giới;\
+> Là việc chính Bố-tát.
 
-#### Pattakallaaṅgā
+#### Các yếu tố hợp thời điểm
+*(Pattakallaaṅgā)*
 
-> Uposatho, yāvatikā ca bhikkhunī kammappattā;\
-> Sabhāgāpattiyo ca na vijjanti;\
-> Vajjanīyā ca puggalā tasmiṁ na honti, “pattakalla”nti vuccati.
+> Đúng ngày lễ Bố-tát,\
+> Ni chúng đủ hợp lệ,\
+> Không vướng lỗi giống nhau,\
+> Không có người cần tránh;\
+> Đủ các yếu tố ấy,\
+> Gọi là hợp thời điểm.
 
-4.1\. Pubbakaraṇapubbakiccāni samāpetvā desitāpattikassa samaggassa bhikkhunisaṅghassa anumatiyā pātimokkhaṁ uddisituṁ ārādhanaṁ karoma.
+4.1\. Sau khi hoàn tất những việc chuẩn bị trước và những việc cần làm trước, với sự đồng thuận của *Tăng đoàn* (tăng-già / saṅghassa) tỳ kheo ni hòa hợp đã tỏ bày các *lỗi* (tội / āpattikassa), chúng tôi xin thỉnh cầu tụng đọc *Giới bổn* (ba-la-đề-mộc-xoa / pātimokkhaṁ).
 
-## Nidānuddeso
+## Phần Mở Đầu
+*(Nidānuddeso)*
 
-5.1\. Suṇātu me ayye saṅgho. Ajjuposatho pannaraso, yadi saṅghassa pattakallaṁ, saṅgho uposathaṁ kareyya, pātimokkhaṁ uddiseyya.
+5.1\. Xin quý ni trong *Tăng đoàn* lắng nghe tôi. Hôm nay là ngày *lễ Bố-tát* (bố-tát / uposatho) rằm [mười lăm]. Nếu *hợp thời điểm* (hợp thời nghi / pattakallaṁ) đối với *Tăng đoàn*, *Tăng đoàn* hãy cử hành *lễ Bố-tát* và tụng đọc *Giới bổn*.
 
-6.1\. Kiṁ saṅghassa pubbakiccaṁ? Pārisuddhiṁ ayyāyo ārocetha, pātimokkhaṁ uddisissāmi, taṁ sabbāva santā sādhukaṁ suṇoma manasi karoma. Yassā siyā āpatti, sā āvikareyya, asantiyā āpattiyā tuṇhī bhavitabbaṁ, tuṇhībhāvena kho panāyyāyo, “parisuddhā”ti vedissāmi. Yathā kho pana paccekapuṭṭhassā veyyākaraṇaṁ hoti, evamevaṁ evarūpāya parisāya yāvatatiyaṁ anusāvitaṁ hoti. Yā pana bhikkhunī yāvatatiyaṁ anusāviyamāne saramānā santiṁ āpattiṁ nāvikareyya, sampajānamusāvādassā hoti. Sampajānamusāvādo kho panāyyāyo, antarāyiko dhammo vutto bhagavatā, tasmā saramānāya bhikkhuniyā āpannāya visuddhāpekkhāya santī āpatti āvikātabbā, āvikatā hissā phāsu hoti.
+6.1\. Việc cần làm trước của *Tăng đoàn* là gì? Thưa quý ni, xin hãy thông báo *sự trong sạch* (thanh tịnh / pārisuddhiṁ); tôi sẽ tụng đọc *Giới bổn*, tất cả chúng ta hiện diện ở đây hãy lắng nghe kỹ và *suy nghĩ đến* (tác ý / manasi karoma) [điều ấy]. Ai có *lỗi* thì vị ấy hãy tỏ bày; khi không có *lỗi* thì giữ im lặng. Thưa quý ni, qua sự im lặng ấy tôi sẽ biết rằng quý ni "trong sạch". Như thế nào là sự trả lời khi được hỏi từng người một, cũng đúng như vậy đối với hội chúng như thế này khi được thông báo đến lần thứ ba. Tỳ kheo ni nào khi được thông báo đến lần thứ ba, tự nhớ ra mình đang có *lỗi* mà không tỏ bày, thì vị ấy phạm *lời nói dối có chủ ý* (cố ý vọng ngữ / sampajānamusāvādo). Mà thưa quý ni, *lời nói dối có chủ ý* được Đức Thế Tôn nói là *Điều* (pháp / dhammo) gây trở ngại. Do đó, vị tỳ kheo ni nào tự nhớ ra mình đã phạm *lỗi* và mong cầu *sự trong sạch* thì phải tỏ bày *lỗi* đang có; nhờ tỏ bày mà vị ấy được thoải mái.
 
-7.1\. Uddiṭṭhaṁ kho, ayyāyo, nidānaṁ. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.
+7.1\. Thưa quý ni, Phần Mở Đầu đã được tụng đọc xong. Trong phần ấy, tôi xin hỏi quý ni: quý ni có trong sạch không? Lần thứ hai tôi xin hỏi: quý ni có trong sạch không? Lần thứ ba tôi xin hỏi: quý ni có trong sạch không? Quý ni ở đây đều trong sạch nên mới im lặng; tôi xin ghi nhận điều này như vậy.
 
-7.6\. Nidānaṁ niṭṭhitaṁ.
+7.6\. Phần Mở Đầu đã kết thúc.
 
-## Pārājikuddeso
+## Phần Tụng Các Lỗi Trục Xuất
+*(Pārājikuddeso)*
 
-8.1\. Tatrime aṭṭha pārājikā dhammā uddesaṁ āgacchanti.
+8.1\. Trong phần này, tám *Điều* thuộc *lỗi Trục xuất (Ba-la-di)* (ba-la-di / pārājikā) được đưa ra tụng đọc.
 
-#### Pārājika 1. Methunadhammasikkhāpadaṁ
+#### Lỗi Trục xuất 1: Điều học về hành vi dâm dục
+*(Methunadhammasikkhāpadaṁ)*
 
-9.1\. Yā pana bhikkhunī chandaso methunaṁ dhammaṁ paṭiseveyya, antamaso tiracchānagatenapi, pārājikā hoti asaṁvāsā.
+9.1\. Tỳ kheo ni nào theo ý thích mà thực hành hành vi dâm dục, dù chỉ với loài thú vật, thì phạm *lỗi Trục xuất (Ba-la-di)* và không được sống chung nữa.
 
-#### Pārājika 2. Adinnādānasikkhāpadaṁ
+#### Lỗi Trục xuất 2: Điều học về lấy vật không được cho
+*(Adinnādānasikkhāpadaṁ)*
 
-10.1\. Yā pana bhikkhunī gāmā vā araññā vā adinnaṁ theyyasaṅkhātaṁ ādiyeyya, yathārūpe adinnādāne rājāno coraṁ gahetvā haneyyuṁ vā bandheyyuṁ vā pabbājeyyuṁ vā corāsi bālāsi mūḷhāsi thenāsīti, tathārūpaṁ bhikkhunī adinnaṁ ādiyamānā ayampi pārājikā hoti asaṁvāsā.
+10.1\. Tỳ kheo ni nào ở trong làng hoặc trong rừng lấy vật không được cho với ý định trộm cắp, đến mức với hành vi lấy vật không được cho như thế mà vua chúa bắt được kẻ trộm sẽ giết hoặc giam giữ hoặc trục xuất và nói "ngươi là kẻ trộm, ngươi là kẻ ngu, ngươi là kẻ mê muội, ngươi là quân ăn cắp", thì vị tỳ kheo ni lấy vật không được cho như thế ấy cũng phạm *lỗi Trục xuất (Ba-la-di)* và không được sống chung nữa.
 
-#### Pārājika 3. Manussaviggahasikkhāpadaṁ
+#### Lỗi Trục xuất 3: Điều học về mạng sống con người
+*(Manussaviggahasikkhāpadaṁ)*
 
-11.1\. Yā pana bhikkhunī sañcicca manussaviggahaṁ jīvitā voropeyya, satthahārakaṁ vāssa pariyeseyya, maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, “ambho purisa, kiṁ tuyhiminā pāpakena dujjīvitena, mataṁ te jīvitā seyyo”ti, iti cittamanā cittasaṅkappā anekapariyāyena maraṇavaṇṇaṁ vā saṁvaṇṇeyya, maraṇāya vā samādapeyya, ayampi pārājikā hoti asaṁvāsā.
+11.1\. Tỳ kheo ni nào cố ý tước đoạt mạng sống của con người, hoặc tìm kiếm kẻ mang hung khí cho người ấy, hoặc tán dương cái chết, hoặc khuyến khích hướng đến cái chết bằng *ý nghĩ trong tâm* (tâm tư duy / cittasaṅkappā) như vậy rằng:
 
-#### Pārājika 4. Uttarimanussadhammasikkhāpadaṁ
+– Này anh, có ích gì với đời sống khốn khổ xấu xa này của anh; chết tốt hơn cho anh là sống!
 
-12.1\. Yā pana bhikkhunī anabhijānaṁ uttarimanussadhammaṁ attupanāyikaṁ alamariyañāṇadassanaṁ samudācareyya, “iti jānāmi, iti passāmī”ti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā āpannā visuddhāpekkhā evaṁ vadeyya, “ajānamevaṁ, ayye, avacaṁ jānāmi, apassaṁ passāmi, tucchaṁ musā vilapi”nti, aññatra adhimānā, ayampi pārājikā hoti asaṁvāsā.
+Bằng nhiều cách tán dương cái chết hoặc khuyến khích hướng đến cái chết như vậy, vị ấy cũng phạm *lỗi Trục xuất (Ba-la-di)* và không được sống chung nữa.
 
-#### Pārājika 5. Ubbhajāṇumaṇḍalikāsikkhāpadaṁ
+#### Lỗi Trục xuất 4: Điều học về phẩm chất siêu phàm
+*(Uttarimanussadhammasikkhāpadaṁ)*
 
-13.1\. Yā pana bhikkhunī avassutā avassutassa purisapuggalassa, adhakkhakaṁ ubbhajāṇumaṇḍalaṁ āmasanaṁ vā parāmasanaṁ vā gahaṇaṁ vā chupanaṁ vā paṭipīḷanaṁ vā sādiyeyya, ayampi pārājikā hoti asaṁvāsā ubbhajāṇumaṇḍalikā.
+12.1\. Tỳ kheo ni nào không hiểu biết mà tự nhận nơi mình có *phẩm chất siêu phàm* (thượng nhân pháp / uttarimanussadhammaṁ), *trí tuệ thấy rõ bản chất xứng đáng bậc thánh* (thắng trí tri kiến xứng đáng bậc thánh / alamariyañāṇadassanaṁ) rằng "tôi biết như vậy, tôi thấy như vậy"; rồi sau một thời gian, dù bị chất vấn hay không bị chất vấn, vì đã phạm *lỗi* và mong cầu *sự trong sạch* nên nói như vầy:
 
-#### Pārājika 6. Vajjappaṭicchādikāsikkhāpadaṁ
+– Thưa quý ni, không biết mà tôi đã nói là tôi biết, không thấy mà tôi đã nói là tôi thấy; tôi đã nói lời trống rỗng, dối trá!
 
-14.1\. Yā pana bhikkhunī jānaṁ pārājikaṁ dhammaṁ ajjhāpannaṁ bhikkhuniṁ nevattanā paṭicodeyya, na gaṇassa āroceyya, yadā ca sā ṭhitā vā assa cutā vā nāsitā vā avassaṭā vā, sā pacchā evaṁ vadeyya: “pubbevāhaṁ, ayye, aññāsiṁ etaṁ bhikkhuniṁ ‘evarūpā ca evarūpā ca sā bhaginī’ti, no ca kho attanā paṭicodessaṁ, na gaṇassa ārocessa”nti, ayampi pārājikā hoti asaṁvāsā vajjappaṭicchādikā.
+Trừ trường hợp ngộ nhận, vị ấy cũng phạm *lỗi Trục xuất (Ba-la-di)* và không được sống chung nữa.
 
-#### Pārājika 7. Ukkhittānuvattikāsikkhāpadaṁ
+#### Lỗi Trục xuất 5: Điều học về phần thân từ xương đòn đến đầu gối
+*(Ubbhajāṇumaṇḍalikāsikkhāpadaṁ)*
 
-15.1\. Yā pana bhikkhunī samaggena saṅghena ukkhittaṁ bhikkhuṁ dhammena vinayena satthusāsanena anādaraṁ appaṭikāraṁ akatasahāyaṁ tamanuvatteyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “eso kho, ayye, bhikkhu samaggena saṅghena ukkhitto, dhammena vinayena satthusāsanena anādaro appaṭikāro akatasahāyo, māyye, etaṁ bhikkhuṁ anuvattī”ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyaṁ ce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ, no ce paṭinissajjeyya, ayampi pārājikā hoti asaṁvāsā ukkhittānuvattikā.
+13.1\. Tỳ kheo ni nào *bị kích thích dục tình* (bị nhiễm dục / avassutā) chấp nhận một người đàn ông cũng *bị kích thích dục tình* chạm vào hoặc vuốt ve hoặc nắm giữ hoặc sờ mó hoặc ép vào phần thân thể dưới xương đòn và trên đầu gối, vị ấy cũng phạm *lỗi Trục xuất (Ba-la-di)*, không được sống chung nữa, thuộc trường hợp dưới xương đòn trên đầu gối.
 
-#### Pārājika 8. Aṭṭhavatthukāsikkhāpadaṁ
+#### Lỗi Trục xuất 6: Điều học về che giấu lỗi nặng
+*(Vajjappaṭicchādikāsikkhāpadaṁ)*
 
-16.1\. Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthaggahaṇaṁ vā sādiyeyya, saṅghāṭikaṇṇaggahaṇaṁ vā sādiyeyya, santiṭṭheyya vā, sallapeyya vā, saṅketaṁ vā gaccheyya, purisassa vā abbhāgamanaṁ sādiyeyya, channaṁ vā anupaviseyya, kāyaṁ vā tadatthāya upasaṁhareyya etassa asaddhammassa paṭisevanatthāya, ayampi pārājikā hoti asaṁvāsā aṭṭhavatthukā.
+14.1\. Tỳ kheo ni nào biết một tỳ kheo ni khác đã phạm *Điều* thuộc *lỗi Trục xuất (Ba-la-di)* mà không tự mình khiển trách cũng không báo cho hội chúng biết; đến khi vị kia còn ở lại hoặc đã chết/hoàn tục hoặc bị trục xuất hoặc đã bỏ sang giáo phái khác, vị ấy sau đó mới nói như vầy:
 
-17.1\. Uddiṭṭhā kho, ayyāyo, aṭṭha pārājikā dhammā. Yesaṁ bhikkhunī aññataraṁ vā aññataraṁ vā āpajjitvā na labhati bhikkhunīhi saddhiṁ saṁvāsaṁ yathā pure, tathā pacchā, pārājikā hoti asaṁvāsā. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.
+– Thưa quý ni, trước đây tôi đã biết vị tỳ kheo ni này là "người chị em ấy như thế này và như thế này", nhưng tôi đã không tự mình khiển trách và không báo cho hội chúng biết!
 
-17.8\. Pārājikaṁ niṭṭhitaṁ.
+Vị ấy cũng phạm *lỗi Trục xuất (Ba-la-di)*, không được sống chung nữa, thuộc trường hợp che giấu *lỗi* nặng.
 
-## Saṅghādisesuddeso
+#### Lỗi Trục xuất 7: Điều học về đi theo người bị đình chỉ
+*(Ukkhittānuvattikāsikkhāpadaṁ)*
 
-18.1\. Ime kho panāyyāyo sattarasa saṅghādisesā dhammā uddesaṁ āgacchanti.
+15.1\. Tỳ kheo ni nào đi theo một tỳ kheo đã bị *Tăng đoàn* hòa hợp đình chỉ đúng *Giáo pháp* (pháp / dhammena), đúng luật và đúng lời dạy của Bậc Đạo Sư, mà vị ấy thiếu tôn trọng, không sửa lỗi và không hòa giải với *Tăng đoàn*; vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-#### Saṅghādisesa 1. Ussayavādikāsikkhāpadaṁ
+– Thưa ni sư, vị tỳ kheo kia đã bị *Tăng đoàn* hòa hợp đình chỉ đúng *Giáo pháp*, đúng luật và đúng lời dạy của Bậc Đạo Sư, mà vị ấy thiếu tôn trọng, không sửa lỗi và không hòa giải với *Tăng đoàn*; xin ni sư đừng đi theo vị tỳ kheo ấy nữa!
 
-19.1\. Yā pana bhikkhunī ussayavādikā vihareyya gahapatinā vā gahapatiputtena vā dāsena vā kammakārena vā antamaso samaṇaparibbājakenāpi, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, vị ấy cũng phạm *lỗi Trục xuất (Ba-la-di)*, không được sống chung nữa, thuộc trường hợp đi theo người bị đình chỉ.
 
-#### Saṅghādisesa 2. Corīvuṭṭhāpikāsikkhāpadaṁ
+#### Lỗi Trục xuất 8: Điều học về tám sự việc
+*(Aṭṭhavatthukāsikkhāpadaṁ)*
 
-20.1\. Yā pana bhikkhunī jānaṁ coriṁ vajjhaṁ viditaṁ anapaloketvā rājānaṁ vā saṅghaṁ vā gaṇaṁ vā pūgaṁ vā seṇiṁ vā, aññatra kappā vuṭṭhāpeyya, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+16.1\. Tỳ kheo ni nào *bị kích thích dục tình* chấp nhận một người đàn ông cũng *bị kích thích dục tình* nắm tay, hoặc chấp nhận nắm chéo y, hoặc đứng chung, hoặc trò chuyện, hoặc đi đến chỗ hẹn, hoặc chấp nhận người đàn ông đến với mình, hoặc cùng đi vào chỗ che khuất, hoặc nghiêng thân thể lại gần nhằm mục đích thực hiện hành vi phi phạm hạnh ấy, thì vị ấy cũng phạm *lỗi Trục xuất (Ba-la-di)*, không được sống chung nữa, thuộc trường hợp tám sự việc.
 
-#### Saṅghādisesa 3. Ekagāmantaragamanasikkhāpadaṁ
+17.1\. Thưa quý ni, tám *Điều* thuộc *lỗi Trục xuất (Ba-la-di)* đã được tụng đọc xong. Trong tám *điều* ấy, tỳ kheo ni nào phạm phải một *điều* bất kỳ nào thì không được phép sống chung với các tỳ kheo ni nữa; trước thế nào thì sau cũng thế ấy, vị ấy phạm *lỗi Trục xuất (Ba-la-di)* và không được sống chung nữa. Trong phần ấy, tôi xin hỏi quý ni: quý ni có trong sạch không? Lần thứ hai tôi xin hỏi: quý ni có trong sạch không? Lần thứ ba tôi xin hỏi: quý ni có trong sạch không? Quý ni ở đây đều trong sạch nên mới im lặng; tôi xin ghi nhận điều này như vậy.
 
-21.1\. Yā pana bhikkhunī ekā vā gāmantaraṁ gaccheyya, ekā vā nadīpāraṁ gaccheyya, ekā vā rattiṁ vippavaseyya, ekā vā gaṇamhā ohiyeyya, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+17.8\. Phần *lỗi Trục xuất (Ba-la-di)* đã kết thúc.
 
-#### Saṅghādisesa 4. Ukkhittakaosāraṇasikkhāpadaṁ
+## Phần Tụng Các Lỗi Tăng Xử Lý
+*(Saṅghādisesuddeso)*
 
-22.1\. Yā pana bhikkhunī samaggena saṅghena ukkhittaṁ bhikkhuniṁ dhammena vinayena satthusāsanena anapaloketvā kārakasaṅghaṁ, anaññāya gaṇassa chandaṁ osāreyya, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+18.1\. Thưa quý ni, mười bảy *Điều* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)* (tăng tàn / saṅghādisesā) này được đưa ra tụng đọc.
 
-#### Saṅghādisesa 5. Bhojanapaṭiggahaṇapaṭhamasikkhāpadaṁ
+#### Lỗi Tăng xử lý 1: Điều học về tranh tụng kiện cáo
+*(Ussayavādikāsikkhāpadaṁ)*
 
-23.1\. Yā pana bhikkhunī avassutā avassutassa purisapuggalassa hatthato khādanīyaṁ vā, bhojanīyaṁ vā sahatthā paṭiggahetvā khādeyya vā bhuñjeyya vā, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+19.1\. Tỳ kheo ni nào sống theo lối tranh tụng kiện cáo với gia chủ hoặc con của gia chủ hoặc nô lệ hoặc người làm công, dù chỉ với sa-môn hay *du sĩ*, vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 6. Bhojanapaṭiggahaṇadutiyasikkhāpadaṁ
+#### Lỗi Tăng xử lý 2: Điều học về truyền giới cho nữ đạo tặc
+*(Corīvuṭṭhāpikāsikkhāpadaṁ)*
 
-24.1\. Yā pana bhikkhunī evaṁ vadeyya: “kiṁ te, ayye, eso purisapuggalo karissati avassuto vā anavassuto vā, yato tvaṁ anavassutā, iṅgha, ayye, yaṁ te eso purisapuggalo deti khādanīyaṁ vā bhojanīyaṁ vā, taṁ tvaṁ sahatthā paṭiggahetvā khāda vā bhuñja vā”ti, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+20.1\. Tỳ kheo ni nào biết rõ một phụ nữ là kẻ trộm đáng bị xử tử mà vẫn truyền giới cụ túc cho người ấy khi chưa xin phép vua hoặc *Tăng đoàn* hoặc nhóm chúng hoặc hội phường hoặc nghiệp đoàn, trừ trường hợp hợp lệ, vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 7. Sañcarittasikkhāpadaṁ
+#### Lỗi Tăng xử lý 3: Điều học về đi sang làng khác một mình
+*(Ekagāmantaragamanasikkhāpadaṁ)*
 
-25.1\. Yā pana bhikkhunī sañcarittaṁ samāpajjeyya itthiyā vā purisamatiṁ, purisassa vā itthimatiṁ, jāyattane vā jārattane vā antamaso taṅkhaṇikāyapi, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+21.1\. Tỳ kheo ni nào đi sang làng khác một mình, hoặc qua sông một mình, hoặc ngủ qua đêm một mình, hoặc tách khỏi nhóm chúng ở lại một mình, vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 8. Duṭṭhadosasikkhāpadaṁ
+#### Lỗi Tăng xử lý 4: Điều học về tự ý phục hồi cho người bị đình chỉ
+*(Ukkhittakaosāraṇasikkhāpadaṁ)*
 
-26.1\. Yā pana bhikkhunī bhikkhuniṁ duṭṭhā dosā appatītā amūlakena pārājikena dhammena anuddhaṁseyya: “appeva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamānā vā asa manuggāhīyamānā vā amūlakañceva taṁ adhikaraṇaṁ hoti, bhikkhunī ca dosaṁ patiṭṭhāti, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+22.1\. Tỳ kheo ni nào tự ý phục hồi tư cách cho một tỳ kheo ni đã bị *Tăng đoàn* hòa hợp đình chỉ đúng *Giáo pháp*, đúng luật và đúng lời dạy của Bậc Đạo Sư, mà không hỏi ý kiến của *Tăng đoàn* đã thi hành kỷ luật và không biết *ý nguyện* (dục / chandaṁ) của nhóm chúng, vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 9. Aññabhāgiyasikkhāpadaṁ
+#### Lỗi Tăng xử lý 5: Điều học thứ nhất về nhận thức ăn
+*(Bhojanapaṭiggahaṇapaṭhamasikkhāpadaṁ)*
 
-27.1\. Yā pana bhikkhunī bhikkhuniṁ duṭṭhā dosā appatītā aññabhāgiyassa adhikaraṇassa kiñcidesaṁ lesamattaṁ upādāya pārājikena dhammena anuddhaṁseyya, “appeva nāma naṁ imamhā brahmacariyā cāveyya”nti, tato aparena samayena samanuggāhīyamānā vā asamanuggāhīyamānā vā aññabhāgiyañceva taṁ adhikaraṇaṁ hoti. Kocideso lesamatto upādinno, bhikkhunī ca dosaṁ patiṭṭhāti, ayampi bhikkhunī paṭhamāpattikaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+23.1\. Tỳ kheo ni nào *bị kích thích dục tình* tự tay nhận đồ ăn nhai hoặc đồ ăn mềm từ tay một người đàn ông cũng *bị kích thích dục tình* rồi nhai hoặc ăn, vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 10. Sikkhaṁpaccācikkhaṇasikkhāpadaṁ
+#### Lỗi Tăng xử lý 6: Điều học thứ hai về nhận thức ăn
+*(Bhojanapaṭiggahaṇadutiyasikkhāpadaṁ)*
 
-28.1\. Yā pana bhikkhunī kupitā anattamanā evaṁ vadeyya: “buddhaṁ paccācikkhāmi dhammaṁ paccācikkhāmi, saṅghaṁ paccācikkhāmi, sikkhaṁ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṁ santike brahmacariyaṁ carissāmī”ti. Sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye kupitā anattamanā evaṁ avaca ‘buddhaṁ paccācikkhāmi, dhammaṁ paccācikkhāmi, saṅghaṁ paccācikkhāmi, sikkhaṁ paccācikkhāmi, kinnumāva samaṇiyo yā samaṇiyo sakyadhītaro, santaññāpi samaṇiyo lajjiniyo kukkuccikā sikkhākāmā, tāsāhaṁ santike brahmacariyaṁ carissāmī’ti, abhiramāyye, svākkhāto dhammo, cara brahmacariyaṁ sammā dukkhassa antakiriyāyā”ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+24.1\. Tỳ kheo ni nào nói như vầy:
 
-#### Saṅghādisesa 11. Adhikaraṇakupitasikkhāpadaṁ
+– Thưa ni sư, người đàn ông ấy *bị kích thích dục tình* hay không *bị kích thích dục tình* thì làm gì được ni sư, miễn là ni sư không *bị kích thích dục tình*; này ni sư, bất cứ đồ ăn nhai hoặc đồ ăn mềm nào người đàn ông ấy dâng cho ni sư, ni sư cứ tự tay nhận lấy mà nhai hoặc ăn đi!
 
-29.1\. Yā pana bhikkhunī kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṁ vadeyya: “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, kismiñcideva adhikaraṇe paccākatā kupitā anattamanā evaṁ avaca ‘chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo’ti, ayyā kho chandāpi gaccheyya, dosāpi gaccheyya, mohāpi gaccheyya, bhayāpi gaccheyyā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+Vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 12. Pāpasamācārapaṭhamasikkhāpadaṁ
+#### Lỗi Tăng xử lý 7: Điều học về làm mai mối
+*(Sañcarittasikkhāpadaṁ)*
 
-30.1\. Bhikkhuniyo paneva saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā: “bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”ti, evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṁ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyyuṁ, iccetaṁ kusalaṁ, no ce paṭinissajjeyyuṁ, imāpi bhikkhuniyo yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+25.1\. Tỳ kheo ni nào làm trung gian mai mối truyền đạt ý định của người nam cho người nữ hoặc ý định của người nữ cho người nam, để làm vợ chồng hoặc làm nhân tình, dù chỉ trong chốc lát, vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 13. Pāpasamācāradutiyasikkhāpadaṁ
+#### Lỗi Tăng xử lý 8: Điều học về vu khống do ác ý
+*(Duṭṭhadosasikkhāpadaṁ)*
 
-31.1\. Yā pana bhikkhunī evaṁ vadeyya: “saṁsaṭṭhāva, ayye, tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha: ‘bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”’ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, evaṁ avaca, saṁsaṭṭhāva ayye tumhe viharatha, mā tumhe nānā viharittha, santi saṅghe aññāpi bhikkhuniyo evācārā evaṁsaddā evaṁsilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, tā saṅgho na kiñci āha, tumhaññeva saṅgho uññāya paribhavena akkhantiyā vebhassiyā dubbalyā evamāha: ‘bhaginiyo kho saṁsaṭṭhā viharanti pāpācārā pāpasaddā pāpasilokā bhikkhunisaṅghassa vihesikā aññamaññissā vajjappaṭicchādikā, viviccathāyye, vivekaññeva bhaginīnaṁ saṅgho vaṇṇetī”’ti, evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ, no ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+26.1\. Tỳ kheo ni nào vì tâm xấu ác, *ám ảnh khó chịu* (sân / dosā) và bất mãn mà vu khống không căn cứ một tỳ kheo ni khác phạm *lỗi Trục xuất (Ba-la-di)* rằng "may ra ta có thể làm vị ấy rơi khỏi đời sống phạm hạnh này"; rồi sau một thời gian, dù bị chất vấn hay không bị chất vấn, vụ tranh chấp ấy rõ ràng là không có căn cứ và tỳ kheo ni kia thừa nhận *ám ảnh khó chịu* [của mình], vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 14. Saṅghabhedakasikkhāpadaṁ
+#### Lỗi Tăng xử lý 9: Điều học về vu khống bằng cớ từ việc khác
+*(Aññabhāgiyasikkhāpadaṁ)*
 
-32.1\. Yā pana bhikkhunī samaggassa saṅghassa bhedāya parakkameyya, bhedanasaṁvattanikaṁ vā adhikaraṇaṁ samādāya paggayha tiṭṭheyya, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyyā, samaggassa saṅghassa bhedāya parakkami, bhedanasaṁvattanikaṁ vā adhikaraṇaṁ samādāya paggayha aṭṭhāsi, sametāyyā, saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+27.1\. Tỳ kheo ni nào vì tâm xấu ác, *ám ảnh khó chịu* và bất mãn mà bám lấy một chi tiết nhỏ nhặt thuộc về một vụ tranh chấp khác để vu khống một tỳ kheo ni khác phạm *lỗi Trục xuất (Ba-la-di)* rằng "may ra ta có thể làm vị ấy rơi khỏi đời sống phạm hạnh này"; rồi sau một thời gian, dù bị chất vấn hay không bị chất vấn, vụ tranh chấp ấy rõ ràng thuộc về việc khác, chỉ một chi tiết nhỏ nhặt bị lấy làm cớ và tỳ kheo ni kia thừa nhận *ám ảnh khó chịu* [của mình], vị tỳ kheo ni này cũng phạm ngay lần đầu một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-#### Saṅghādisesa 15. Bhedānuvattakasikkhāpadaṁ
+#### Lỗi Tăng xử lý 10: Điều học về từ bỏ học giới
+*(Sikkhaṁpaccācikkhaṇasikkhāpadaṁ)*
 
-33.1\. Tassāyeva kho pana bhikkhuniyā bhikkhuniyo honti anuvattikā vaggavādikā ekā vā dve vā tisso vā, tā evaṁ vadeyyuṁ: “māyyāyo, etaṁ bhikkhuniṁ kiñci avacuttha dhammavādinī cesā bhikkhunī, vinayavādinī cesā bhikkhunī, amhākañcesā bhikkhunī chandañca ruciñca ādāya voharati, jānāti, no bhāsati, amhākampetaṁ khamatī”ti, tā bhikkhuniyo bhikkhunīhi evamassu vacanīyā: “māyyāyo, evaṁ avacuttha, na cesā bhikkhunī dhammavādinī, na cesā bhikkhunī vinayavādinī, māyyānampi saṅghabhedo ruccittha, sametāyyānaṁ saṅghena, samaggo hi saṅgho sammodamāno avivadamāno ekuddeso phāsu viharatī”ti, evañca tā bhikkhuniyo bhikkhunīhi vuccamānā tatheva paggaṇheyyuṁ, tā bhikkhuniyo bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyyuṁ. Iccetaṁ kusalaṁ. No ce paṭinissajjeyyuṁ, imāpi bhikkhuniyo yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+28.1\. Tỳ kheo ni nào tức giận, bất mãn mà nói như vầy:
 
-#### Saṅghādisesa 16. Dubbacasikkhāpadaṁ
+– Tôi từ bỏ Đức Phật, tôi từ bỏ *Giáo pháp*, tôi từ bỏ *Tăng đoàn*, tôi từ bỏ học giới! Đâu chỉ có các nữ tu là con gái dòng Thích-ca; còn có những nữ tu khác biết hổ thẹn, thận trọng và ham thích học tập, tôi sẽ sống đời phạm hạnh bên cạnh các vị ấy!
 
-34.1\. Bhikkhunī paneva dubbacajātikā hoti uddesapariyāpannesu sikkhāpadesu bhikkhunīhi sahadhammikaṁ vuccamānā attānaṁ avacanīyaṁ karoti: “mā maṁ ayyāyo kiñci avacuttha kalyāṇaṁ vā pāpakaṁ vā, ahampāyyāyo, na kiñci vakkhāmi kalyāṇaṁ vā pāpakaṁ vā, viramathāyyāyo, mama vacanāyā”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyyā, attānaṁ avacanīyaṁ akāsi, vacanīyameva, ayyā, attānaṁ karotu, ayyāpi bhikkhuniyo vadatu sahadhammena, bhikkhuniyopi ayyaṁ vakkhanti sahadhammena, evaṁ saṁvaddhā hi tassa bhagavato parisā yadidaṁ aññamaññavacanena aññamaññavuṭṭhāpanenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+Vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-#### Saṅghādisesa 17. Kuladūsakasikkhāpadaṁ
+– Xin ni sư đừng tức giận, bất mãn mà nói như vậy: "Tôi từ bỏ Đức Phật, tôi từ bỏ *Giáo pháp*, tôi từ bỏ *Tăng đoàn*, tôi từ bỏ học giới! Đâu chỉ có các nữ tu là con gái dòng Thích-ca; còn có những nữ tu khác biết hổ thẹn, thận trọng và ham thích học tập, tôi sẽ sống đời phạm hạnh bên cạnh các vị ấy!" Hãy hoan hỷ đi ni sư, *Giáo pháp* đã được khéo thuyết giảng; hãy sống đời phạm hạnh một cách chân chánh để chấm dứt *đau khổ* (khổ / dukkhassa)!
 
-35.1\. Bhikkhunī paneva aññataraṁ gāmaṁ vā nigamaṁ vā upanissāya viharati kuladūsikā pāpasamācārā, tassā kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni ca tāya duṭṭhāni dissanti ceva suyyanti ca, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “ayyā, kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya, duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā imamhā āvāsā, alaṁ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tā bhikkhuniyo evaṁ vadeyya: “chandagāminiyo ca bhikkhuniyo, dosagāminiyo ca bhikkhuniyo, mohagāminiyo ca bhikkhuniyo, bhayagāminiyo ca bhikkhuniyo, tādisikāya āpattiyā ekaccaṁ pabbājenti ekaccaṁ na pabbājentī”ti, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyyā, evaṁ avaca, na ca bhikkhuniyo chandagāminiyo, na ca bhikkhuniyo dosagāminiyo , na ca bhikkhuniyo mohagāminiyo, na ca bhikkhuniyo bhayagāminiyo, ayyā kho kuladūsikā pāpasamācārā, ayyāya kho pāpakā samācārā dissanti ceva suyyanti ca, kulāni cāyyāya duṭṭhāni dissanti ceva suyyanti ca, pakkamatāyyā, imamhā āvāsā alaṁ te idha vāsenā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, ayampi bhikkhunī yāvatatiyakaṁ dhammaṁ āpannā nissāraṇīyaṁ saṅghādisesaṁ.
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, vị tỳ kheo ni này phạm sau ba lần khuyên can một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-36.1\. Uddiṭṭhā kho ayyāyo sattarasa saṅghādisesā dhammā nava paṭhamāpattikā, aṭṭha yāvatatiyakā, yesaṁ bhikkhunī aññataraṁ vā aññataraṁ vā āpajjati, tāya bhikkhuniyā ubhatosaṅghe pakkhamānattaṁ caritabbaṁ. Ciṇṇamānattā bhikkhunī yattha siyā vīsatigaṇo bhikkhunisaṅgho, tattha sā bhikkhunī abbhetabbā. Ekāyapi ce ūno vīsatigaṇo bhikkhunisaṅgho taṁ bhikkhuniṁ abbheyya, sā ca bhikkhunī anabbhitā, tā ca bhikkhuniyo gārayhā, ayaṁ tattha sāmīci. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.
+#### Lỗi Tăng xử lý 11: Điều học về tức giận trong vụ tranh chấp
+*(Adhikaraṇakupitasikkhāpadaṁ)*
 
-36.9\. Saṅghādiseso niṭṭhito.
+29.1\. Tỳ kheo ni nào bị thua thiệt trong một vụ tranh chấp nào đó, tức giận, bất mãn mà nói như vầy:
 
-## Nissaggiya pācittiyā
+– Các tỳ kheo ni thiên vị theo *ý nguyện*, các tỳ kheo ni thiên vị theo *ám ảnh khó chịu*, các tỳ kheo ni thiên vị theo *Sự u mê* (si / moha), các tỳ kheo ni thiên vị theo sợ hãi!
 
-37.1\. Ime kho panāyyāyo tiṁsa nissaggiyā pācittiyā dhammā uddesaṁ āgacchanti.
+Vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-### Pattavaggo
+– Xin ni sư đừng vì bị thua thiệt trong một vụ tranh chấp nào đó, tức giận, bất mãn mà nói như vậy: "Các tỳ kheo ni thiên vị theo *ý nguyện*, các tỳ kheo ni thiên vị theo *ám ảnh khó chịu*, các tỳ kheo ni thiên vị theo *Sự u mê*, các tỳ kheo ni thiên vị theo sợ hãi!" Chính ni sư mới là người có thể thiên vị theo *ý nguyện*, thiên vị theo *ám ảnh khó chịu*, thiên vị theo *Sự u mê*, thiên vị theo sợ hãi!
 
-#### Nissaggiya pācittiya 1. Pattasannicayasikkhāpadaṁ
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, vị tỳ kheo ni này phạm sau ba lần khuyên can một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-38.1\. Yā pana bhikkhunī pattasannicayaṁ kareyya, nissaggiyaṁ pācittiyaṁ.
+#### Lỗi Tăng xử lý 12: Điều học thứ nhất về hạnh kiểm xấu
+*(Pāpasamācārapaṭhamasikkhāpadaṁ)*
 
-#### Nissaggiya pācittiya 2. Akālacīvarabhājanasikkhāpadaṁ
+30.1\. Các tỳ kheo ni sống tụ tập thân mật với nhau, có hạnh kiểm xấu, tiếng tăm xấu, tai tiếng xấu, gây phiền nhiễu cho *Tăng đoàn* tỳ kheo ni và bao che lỗi lầm cho nhau; các tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-39.1\. Yā pana bhikkhunī akālacīvaraṁ “kālacīvara”nti adhiṭṭhahitvā bhājāpeyya, nissaggiyaṁ pācittiyaṁ.
+– Quý chị em đang sống tụ tập thân mật với nhau, có hạnh kiểm xấu, tiếng tăm xấu, tai tiếng xấu, gây phiền nhiễu cho *Tăng đoàn* tỳ kheo ni và bao che lỗi lầm cho nhau; xin quý ni hãy tách riêng ra! *Tăng đoàn* chỉ khen ngợi sự *rời bỏ* (viễn ly / viveka) [đám đông] của các chị em!
 
-#### Nissaggiya pācittiya 3. Cīvaraparivattanasikkhāpadaṁ
+Nếu các tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì các tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà các vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, các tỳ kheo ni này phạm sau ba lần khuyên can một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-40.1\. Yā pana bhikkhunī bhikkhuniyā saddhiṁ cīvaraṁ parivattetvā sā pacchā evaṁ vadeyya: “handāyye, tuyhaṁ cīvaraṁ, āhara metaṁ cīvaraṁ, yaṁ tuyhaṁ tuyhamevetaṁ, yaṁ mayhaṁ mayhamevetaṁ, āhara metaṁ cīvaraṁ, sakaṁ paccāharā”ti acchindeyya vā acchindāpeyya vā, nissaggiyaṁ pācittiyaṁ.
+#### Lỗi Tăng xử lý 13: Điều học thứ hai về hạnh kiểm xấu
+*(Pāpasamācāradutiyasikkhāpadaṁ)*
 
-#### Nissaggiya pācittiya 4. Aññaviññāpanasikkhāpadaṁ
+31.1\. Tỳ kheo ni nào nói như vầy:
 
-41.1\. Yā pana bhikkhunī aññaṁ viññāpetvā aññaṁ viññāpeyya, nissaggiyaṁ pācittiyaṁ.
+– Thưa quý ni, quý ni cứ sống tụ tập thân mật với nhau đi, đừng tách riêng ra! Trong *Tăng đoàn* cũng có những tỳ kheo ni khác có hạnh kiểm như vậy, tiếng tăm như vậy, tai tiếng như vậy, gây phiền nhiễu cho *Tăng đoàn* tỳ kheo ni và bao che lỗi lầm cho nhau, mà *Tăng đoàn* chẳng nói gì với họ; chỉ với quý ni thì *Tăng đoàn* vì khinh thường, coi rẻ, thiếu nhẫn nhịn, lắm lời và yếu thế nên mới nói rằng: "Quý chị em đang sống tụ tập thân mật với nhau, có hạnh kiểm xấu, tiếng tăm xấu, tai tiếng xấu, gây phiền nhiễu cho *Tăng đoàn* tỳ kheo ni và bao che lỗi lầm cho nhau; xin quý ni hãy tách riêng ra! *Tăng đoàn* chỉ khen ngợi sự *rời bỏ* [đám đông] của các chị em!"
 
-#### Nissaggiya pācittiya 5. Aññacetāpana sikkhāpadaṁ
+Vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-42.1\. Yā pana bhikkhunī aññaṁ cetāpetvā aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.
+– Xin ni sư đừng nói như vậy: "Thưa quý ni, quý ni cứ sống tụ tập thân mật với nhau đi, đừng tách riêng ra! Trong *Tăng đoàn* cũng có những tỳ kheo ni khác có hạnh kiểm như vậy, tiếng tăm như vậy, tai tiếng như vậy, gây phiền nhiễu cho *Tăng đoàn* tỳ kheo ni và bao che lỗi lầm cho nhau, mà *Tăng đoàn* chẳng nói gì với họ; chỉ với quý ni thì *Tăng đoàn* vì khinh thường, coi rẻ, thiếu nhẫn nhịn, lắm lời và yếu thế nên mới nói rằng: 'Quý chị em đang sống tụ tập thân mật với nhau, có hạnh kiểm xấu, tiếng tăm xấu, tai tiếng xấu, gây phiền nhiễu cho *Tăng đoàn* tỳ kheo ni và bao che lỗi lầm cho nhau; xin quý ni hãy tách riêng ra! *Tăng đoàn* chỉ khen ngợi sự *rời bỏ* [đám đông] của các chị em!'"
 
-#### Nissaggiya pācittiya 6. Paṭhamasaṅghikacetāpanasikkhāpadaṁ
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, vị tỳ kheo ni này phạm sau ba lần khuyên can một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-43.1\. Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.
+#### Lỗi Tăng xử lý 14: Điều học về chia rẽ Tăng đoàn
+*(Saṅghabhedakasikkhāpadaṁ)*
 
-#### Nissaggiya pācittiya 7. Dutiyasaṅghikacetāpanasikkhāpadaṁ
+32.1\. Tỳ kheo ni nào ra sức tìm cách chia rẽ *Tăng đoàn* hòa hợp, hoặc nắm lấy và giữ chặt một vấn đề dẫn đến sự chia rẽ; vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-44.1\. Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena saṅghikena saññācikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.
+– Xin ni sư đừng ra sức tìm cách chia rẽ *Tăng đoàn* hòa hợp, đừng nắm lấy và giữ chặt một vấn đề dẫn đến sự chia rẽ! Xin ni sư hãy hòa hợp với *Tăng đoàn*, vì *Tăng đoàn* hòa hợp, hoan hỷ với nhau, không tranh cãi, cùng chung một buổi tụng đọc sẽ sống được an ổn!
 
-#### Nissaggiya pācittiya 8. Paṭhamagaṇikacetāpanasikkhāpadaṁ
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, vị tỳ kheo ni này phạm sau ba lần khuyên can một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-45.1\. Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.
+#### Lỗi Tăng xử lý 15: Điều học về hùa theo kẻ chia rẽ
+*(Bhedānuvattakasikkhāpadaṁ)*
 
-#### Nissaggiya pācittiya 9. Dutiyagaṇikacetāpanasikkhāpadaṁ
+33.1\. Cũng có những tỳ kheo ni khác, một hoặc hai hoặc ba vị, đi theo và bênh vực cho vị tỳ kheo ni ấy; các vị ấy nói như vầy:
 
-46.1\. Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena mahājanikena saññācikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.
+– Xin quý ni đừng nói gì với vị tỳ kheo ni này! Vị tỳ kheo ni này là người nói đúng *Giáo pháp*, vị tỳ kheo ni này là người nói đúng luật; vị tỳ kheo ni này hành xử theo đúng *ý nguyện* và sở thích của chúng tôi, vị ấy biết [ý chúng tôi] và nói ra, điều đó cũng làm chúng tôi hài lòng!
 
-#### Nissaggiya pācittiya 10. Puggalikacetāpanasikkhāpadaṁ
+Các tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-47.1\. Yā pana bhikkhunī aññadatthikena parikkhārena aññuddisikena puggalikena saññācikena aññaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ.
+– Xin quý ni đừng nói như vậy! Vị tỳ kheo ni này không phải là người nói đúng *Giáo pháp*, vị tỳ kheo ni này không phải là người nói đúng luật; quý ni cũng đừng ưa thích sự chia rẽ *Tăng đoàn*! Xin quý ni hãy hòa hợp với *Tăng đoàn*, vì *Tăng đoàn* hòa hợp, hoan hỷ với nhau, không tranh cãi, cùng chung một buổi tụng đọc sẽ sống được an ổn!
 
-47.2\. Pattavaggo paṭhamo.
+Nếu các tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì các tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà các vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, các tỳ kheo ni này phạm sau ba lần khuyên can một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-### Cīvaravaggo
+#### Lỗi Tăng xử lý 16: Điều học về tính khó bảo
+*(Dubbacasikkhāpadaṁ)*
 
-#### Nissaggiya pācittiya 11. Garupāvuraṇasikkhāpadaṁ
+34.1\. Tỳ kheo ni có tính khó dạy bảo, khi được các tỳ kheo ni khuyên nhủ đúng pháp về các *điều học* nằm trong *Giới bổn* thì tự biến mình thành người không thể khuyên bảo được, nói rằng:
 
-48.1\. Garupāvuraṇaṁ pana bhikkhuniyā cetāpentiyā catukkaṁsaparamaṁ cetāpetabbaṁ. Tato ce uttari cetāpeyya, nissaggiyaṁ pācittiyaṁ.
+– Xin quý ni đừng nói gì với tôi, dù tốt hay xấu; tôi cũng sẽ chẳng nói gì với quý ni, dù tốt hay xấu! Xin quý ni hãy ngưng nhắc nhở tôi đi!
 
-#### Nissaggiya pācittiya 12. Lahupāvuraṇasikkhāpadaṁ
+Vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-49.1\. Lahupāvuraṇaṁ pana bhikkhuniyā cetāpentiyā aḍḍhateyyakaṁsaparamaṁ cetāpetabbaṁ. Tato ce uttari cetāpeyya, nissaggiyaṁ pācittiyaṁ.
+– Xin ni sư đừng tự biến mình thành người không thể khuyên bảo được; xin ni sư hãy giữ mình là người dễ tiếp nhận lời khuyên! Ni sư cũng hãy khuyên bảo các tỳ kheo ni đúng pháp và các tỳ kheo ni cũng sẽ khuyên bảo ni sư đúng pháp; vì hội chúng của Đức Thế Tôn ấy lớn mạnh chính là nhờ nhắc nhở lẫn nhau và nâng đỡ nhau đứng dậy!
 
-#### Nissaggiya pācittiya 13. Kathinasikkhāpadaṁ
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, vị tỳ kheo ni này phạm sau ba lần khuyên can một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-50.1\. Niṭṭhitacīvarasmiṁ bhikkhuniyā ubbhatasmiṁ kathine dasāhaparamaṁ atirekacīvaraṁ dhāretabbaṁ. Taṁ atikkāmentiyā, nissaggiyaṁ pācittiyaṁ.
+#### Lỗi Tăng xử lý 17: Điều học về làm hư hỏng các gia đình
+*(Kuladūsakasikkhāpadaṁ)*
 
-#### Nissaggiya pācittiya 14. Udositasikkhāpadaṁ
+35.1\. Tỳ kheo ni sống nương tựa một làng hay một thị trấn nào đó, làm hư hỏng lòng tin của các gia đình và có hạnh kiểm xấu; những hành vi xấu xa của vị ấy được cả người ta thấy lẫn nghe nói đến, các gia đình bị vị ấy làm cho hư hỏng cũng được cả người ta thấy lẫn nghe nói đến; vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-51.1\. Niṭṭhitacīvarasmiṁ bhikkhuniyā ubbhatasmiṁ kathine ekarattampi ce bhikkhunī ticīvarena vippavaseyya, aññatra bhikkhunisammutiyā nissaggiyaṁ pācittiyaṁ.
+– Ni sư đang làm hư hỏng lòng tin của các gia đình và có hạnh kiểm xấu; những hành vi xấu xa của ni sư được cả người ta thấy lẫn nghe nói đến, các gia đình bị ni sư làm cho hư hỏng cũng được cả người ta thấy lẫn nghe nói đến; xin ni sư hãy rời khỏi trú xứ này, ni sư ở đây như thế là quá đủ rồi!
 
-#### Nissaggiya pācittiya 15. Akālacīvarasikkhāpadaṁ
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà nói với các tỳ kheo ni ấy như vầy:
 
-52.1\. Niṭṭhitacīvarasmiṁ bhikkhuniyā ubbhatasmiṁ kathine bhikkhuniyā paneva akālacīvaraṁ uppajjeyya, ākaṅkhamānāya bhikkhuniyā paṭiggahetabbaṁ, paṭiggahetvā khippameva kāretabbaṁ, no cassa pāripūri, māsaparamaṁ tāya bhikkhuniyā taṁ cīvaraṁ nikkhipitabbaṁ ūnassa pāripūriyā satiyā paccāsāya. Tato ce uttari nikkhipeyya satiyāpi paccāsāya, nissaggiyaṁ pācittiyaṁ.
+– Các tỳ kheo ni thiên vị theo *ý nguyện*, các tỳ kheo ni thiên vị theo *ám ảnh khó chịu*, các tỳ kheo ni thiên vị theo *Sự u mê*, các tỳ kheo ni thiên vị theo sợ hãi; cùng một *lỗi* như thế mà đuổi người này đi, lại không đuổi người kia!
 
-#### Nissaggiya pācittiya 16. Aññātakaviññattisikkhāpadaṁ
+Vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-53.1\. Yā pana bhikkhunī aññātakaṁ gahapatiṁ vā gahapatāniṁ vā cīvaraṁ viññāpeyya aññatra samayā, nissaggiyaṁ pācittiyaṁ. Tatthāyaṁ samayo acchinnacīvarā vā hoti bhikkhunī, naṭṭhacīvarā vā, ayaṁ tattha samayo.
+– Xin ni sư đừng nói như vậy! Các tỳ kheo ni không thiên vị theo *ý nguyện*, các tỳ kheo ni không thiên vị theo *ám ảnh khó chịu*, các tỳ kheo ni không thiên vị theo *Sự u mê*, các tỳ kheo ni không thiên vị theo sợ hãi; chính ni sư đang làm hư hỏng lòng tin của các gia đình và có hạnh kiểm xấu; những hành vi xấu xa của ni sư được cả người ta thấy lẫn nghe nói đến, các gia đình bị ni sư làm cho hư hỏng cũng được cả người ta thấy lẫn nghe nói đến; xin ni sư hãy rời khỏi trú xứ này, ni sư ở đây như thế là quá đủ rồi!
 
-#### Nissaggiya pācittiya 17. Tatuttarisikkhāpadaṁ
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, vị tỳ kheo ni này phạm sau ba lần khuyên can một *điều* dẫn đến bị tạm tách khỏi *Tăng đoàn* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*.
 
-54.1\. Tañce aññātako gahapati vā gahapatānī vā bahūhi cīvarehi abhihaṭṭhuṁ pavāreyya, santaruttaraparamaṁ tāya bhikkhuniyā tato cīvaraṁ sāditabbaṁ. Tato ce uttari sādiyeyya, nissaggiyaṁ pācittiyaṁ.
+36.1\. Thưa quý ni, mười bảy *Điều* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)* đã được tụng đọc xong, gồm chín *điều* phạm ngay lần đầu và tám *điều* phạm sau ba lần khuyên can. Trong mười bảy *điều* ấy, tỳ kheo ni nào phạm phải một *điều* bất kỳ nào thì vị tỳ kheo ni ấy phải thực hành biệt trú nửa tháng trong cả hai *Tăng đoàn*. Vị tỳ kheo ni đã thực hành xong thời gian biệt trú ấy phải được giải trừ và phục hồi tại nơi có *Tăng đoàn* tỳ kheo ni đủ hai mươi vị. Nếu *Tăng đoàn* tỳ kheo ni thiếu dù chỉ một người trong số hai mươi vị mà làm lễ giải trừ phục hồi cho vị tỳ kheo ni ấy, thì vị tỳ kheo ni ấy vẫn chưa được phục hồi và các tỳ kheo ni kia đáng bị khiển trách; đó là quy tắc đúng đắn trong trường hợp này. Trong phần ấy, tôi xin hỏi quý ni: quý ni có trong sạch không? Lần thứ hai tôi xin hỏi: quý ni có trong sạch không? Lần thứ ba tôi xin hỏi: quý ni có trong sạch không? Quý ni ở đây đều trong sạch nên mới im lặng; tôi xin ghi nhận điều này như vậy.
 
-#### Nissaggiya pācittiya 18. Paṭhamaupakkhaṭasikkhāpadaṁ
+36.9\. Phần *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)* đã kết thúc.
 
-55.1\. Bhikkhuniṁ paneva uddissa aññātakassa gahapatissa vā gahapatāniyā vā cīvaracetāpannaṁ upakkhaṭaṁ hoti: “iminā cīvaracetāpannena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuniṁ cīvarena acchādessāmī”ti. Tatra cesā bhikkhunī pubbe appavāritā upasaṅkamitvā cīvare vikappaṁ āpajjeyya: “sādhu vata, maṁ āyasmā iminā cīvaracetāpannena evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādehī”ti kalyāṇakamyataṁ upādāya, nissaggiyaṁ pācittiyaṁ.
+## Các Lỗi Phạm Vật Chất
+*(Nissaggiya pācittiyā)*
 
-#### Nissaggiya pācittiya 19. Dutiyaupakkhaṭasikkhāpadaṁ
+37.1\. Thưa quý ni, ba mươi *Điều* thuộc *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)* (xả đọa / nissaggiyā pācittiyā) này được đưa ra tụng đọc.
 
-56.1\. Bhikkhuniṁ paneva uddissa ubhinnaṁ aññātakānaṁ gahapatīnaṁ vā gahapatānīnaṁ vā paccekacīvaracetāpannāni upakkhaṭāni honti: “imehi mayaṁ paccekacīvaracetāpannehi paccekacīvarāni cetāpetvā itthannāmaṁ bhikkhuniṁ cīvarehi acchādessāmā”ti. Tatra cesā bhikkhūnī pubbe appavāritā upasaṅkamitvā cīvare vikappaṁ āpajjeyya: “sādhu vata maṁ āyasmanto imehi paccekacīvaracetāpannehi evarūpaṁ vā evarūpaṁ vā cīvaraṁ cetāpetvā acchādetha ubhova santā ekenā”ti kalyāṇakamyataṁ upādāya, nissaggiyaṁ pācittiyaṁ.
+### Phẩm Bát
+*(Pattavaggo)*
 
-#### Nissaggiya pācittiya 20. Rājasikkhāpadaṁ
+#### Lỗi Phạm vật chất 1: Điều học về tích trữ bát
+*(Pattasannicayasikkhāpadaṁ)*
 
-57.1\. Bhikkhuniṁ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṁ pahiṇeyya: “iminā cīvaracetāpannena cīvaraṁ cetāpetvā itthannāmaṁ bhikkhuniṁ cīvarena acchādehī”ti. So ce dūto taṁ bhikkhuniṁ upasaṅkamitvā evaṁ vadeyya: “idaṁ kho, ayye, ayyaṁ uddissa cīvaracetāpannaṁ ābhataṁ, paṭiggaṇhātāyyā cīvaracetāpanna”nti. Tāya bhikkhuniyā so dūto evamassa vacanīyo: “na kho mayaṁ, āvuso, cīvaracetāpannaṁ paṭiggaṇhāma, cīvarañca kho mayaṁ paṭiggaṇhāma kālena kappiya”nti. So ce dūto taṁ bhikkhuniṁ evaṁ vadeyya: “atthi panāyyāya, koci veyyāvaccakaro”ti, cīvaratthikāya, bhikkhave, bhikkhuniyā veyyāvaccakaro niddisitabbo ārāmiko vā upāsako vā: “eso kho, āvuso, bhikkhunīnaṁ veyyāvaccakaro”ti. So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkhuniṁ upasaṅkamitvā evaṁ vadeyya: “yaṁ kho, ayye, ayyā veyyāvaccakaraṁ niddisi, saññatto so mayā, upasaṅkamatāyyā kālena, cīvarena taṁ acchādessatī”ti. Cīvaratthikāya, bhikkhave, bhikkhuniyā veyyāvaccakaro upasaṅkamitvā dvattikkhattuṁ codetabbo sāretabbo: “attho me, āvuso, cīvarenā”ti, dvattikkhattuṁ codayamānā sārayamānā taṁ cīvaraṁ abhinipphādeyya, iccetaṁ kusalaṁ, no ce abhinipphādeyya, catukkhattuṁ pañcakkhattuṁ chakkhattuparamaṁ tuṇhībhūtāya uddissa ṭhātabbaṁ, catukkhattuṁ pañcakkhattuṁ chakkhattuparamaṁ tuṇhībhūtā uddissa tiṭṭhamānā taṁ cīvaraṁ abhinipphādeyya, iccetaṁ kusalaṁ. Tato ce uttari vāyamamānā taṁ cīvaraṁ abhinipphādeyya, nissaggiyaṁ pācittiyaṁ. No ce abhinipphādeyya, yatassā cīvaracetāpannaṁ ābhataṁ, tattha sāmaṁ vā gantabbaṁ, dūto vā pāhetabbo: “yaṁ kho tumhe āyasmanto bhikkhuniṁ uddissa cīvaracetāpannaṁ pahiṇittha, na taṁ tassā bhikkhuniyā kiñci atthaṁ anubhoti, yuñjantāyasmanto sakaṁ, mā vo sakaṁ vinassā”ti, ayaṁ tattha sāmīci.
+38.1\. Tỳ kheo ni nào tích trữ bát, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-57.23\. Cīvaravaggo dutiyo.
+#### Lỗi Phạm vật chất 2: Điều học về chia y phi thời
+*(Akālacīvarabhājanasikkhāpadaṁ)*
 
-### Pattavaggo
+39.1\. Tỳ kheo ni nào quyết định xem tấm y phi thời là "y đúng thời" rồi đem chia, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 21. Rūpiyasikkhāpadaṁ
+#### Lỗi Phạm vật chất 3: Điều học về đổi y
+*(Cīvaraparivattanasikkhāpadaṁ)*
 
-58.1\. Yā pana bhikkhunī jātarūparajataṁ uggaṇheyya vā uggaṇhāpeyya vā upanikkhittaṁ vā sādiyeyya, nissaggiyaṁ pācittiyaṁ.
+40.1\. Tỳ kheo ni nào đã đổi y với một tỳ kheo ni khác rồi sau đó lại nói rằng "này ni sư, hãy nhận lại y của ni sư và trả lại y này cho tôi; cái nào của ni sư thì vẫn là của ni sư, cái nào của tôi thì vẫn là của tôi; hãy trả lại y này cho tôi, hãy lấy lại phần của mình đi" rồi tự mình giật lại hoặc bảo người giật lại, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 22. Rūpiyasaṁvohārasikkhāpadaṁ
+#### Lỗi Phạm vật chất 4: Điều học về xin thứ khác
+*(Aññaviññāpanasikkhāpadaṁ)*
 
-59.1\. Yā pana bhikkhunī nānappakārakaṁ rūpiyasaṁvohāraṁ samāpajjeyya, nissaggiyaṁ pācittiyaṁ.
+41.1\. Tỳ kheo ni nào đã xin một thứ rồi lại xin một thứ khác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 23. Kayavikkayasikkhāpadaṁ
+#### Lỗi Phạm vật chất 5: Điều học về đổi lấy thứ khác
+*(Aññacetāpanasikkhāpadaṁ)*
 
-60.1\. Yā pana bhikkhunī nānappakārakaṁ kayavikkayaṁ samāpajjeyya, nissaggiyaṁ pācittiyaṁ.
+42.1\. Tỳ kheo ni nào đã định đổi lấy một thứ rồi lại đổi lấy một thứ khác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 24. Ūnapañcabandhanasikkhāpadaṁ
+#### Lỗi Phạm vật chất 6: Điều học thứ nhất về đổi vật dụng của Tăng đoàn
+*(Paṭhamasaṅghikacetāpanasikkhāpadaṁ)*
 
-61.1\. Yā pana bhikkhunī ūnapañcabandhanena pattena aññaṁ navaṁ pattaṁ cetāpeyya, nissaggiyaṁ pācittiyaṁ. Tāya bhikkhuniyā so patto bhikkhuniparisāya nissajjitabbo, yo ca tassā bhikkhuniparisāya pattapariyanto, so tassā bhikkhuniyā padātabbo: “ayaṁ te bhikkhuni patto yāvabhedanāya dhāretabbo”ti, ayaṁ tattha sāmīci.
+43.1\. Tỳ kheo ni nào dùng vật dụng của *Tăng đoàn* vốn được dâng cúng chỉ định cho một mục đích khác để đổi lấy thứ khác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 25. Bhesajjasikkhāpadaṁ
+#### Lỗi Phạm vật chất 7: Điều học thứ hai về đổi vật dụng của Tăng đoàn
+*(Dutiyasaṅghikacetāpanasikkhāpadaṁ)*
 
-62.1\. Yāni kho pana tāni gilānānaṁ bhikkhunīnaṁ paṭisāyanīyāni bhesajjāni, seyyathidaṁ: sappi navanītaṁ telaṁ madhu phāṇitaṁ, tāni paṭiggahetvā sattāhaparamaṁ sannidhikārakaṁ paribhuñjitabbāni. Taṁ atikkāmentiyā, nissaggiyaṁ pācittiyaṁ.
+44.1\. Tỳ kheo ni nào dùng vật dụng của *Tăng đoàn* do tự mình quyên góp vốn được dâng cúng chỉ định cho một mục đích khác để đổi lấy thứ khác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 26. Cīvaraacchindanasikkhāpadaṁ
+#### Lỗi Phạm vật chất 8: Điều học thứ nhất về đổi vật dụng của nhóm chúng
+*(Paṭhamagaṇikacetāpanasikkhāpadaṁ)*
 
-63.1\. Yā pana bhikkhunī bhikkhuniyā sāmaṁ cīvaraṁ datvā kupitā anattamanā acchindeyya vā acchindāpeyya vā, nissaggiyaṁ pācittiyaṁ.
+45.1\. Tỳ kheo ni nào dùng vật dụng của đại chúng vốn được dâng cúng chỉ định cho một mục đích khác để đổi lấy thứ khác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 27. Suttaviññattisikkhāpadaṁ
+#### Lỗi Phạm vật chất 9: Điều học thứ hai về đổi vật dụng của nhóm chúng
+*(Dutiyagaṇikacetāpanasikkhāpadaṁ)*
 
-64.1\. Yā pana bhikkhunī sāmaṁ suttaṁ viññāpetvā tantavāyehi cīvaraṁ vāyāpeyya, nissaggiyaṁ pācittiyaṁ.
+46.1\. Tỳ kheo ni nào dùng vật dụng của đại chúng do tự mình quyên góp vốn được dâng cúng chỉ định cho một mục đích khác để đổi lấy thứ khác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 28. Mahāpesakārasikkhāpadaṁ
+#### Lỗi Phạm vật chất 10: Điều học về đổi vật dụng của cá nhân
+*(Puggalikacetāpanasikkhāpadaṁ)*
 
-65.1\. Bhikkhuniṁ paneva uddissa aññātako gahapati vā gahapatānī vā tantavāyehi cīvaraṁ vāyāpeyya, tatra cesā bhikkhunī pubbe appavāritā tantavāye upasaṅkamitvā cīvare vikappaṁ āpajjeyya: “idaṁ kho āvuso cīvaraṁ maṁ uddissa viyyati, āyatañca karotha, vitthatañca appitañca suvītañca suppavāyitañca suvilekhitañca suvitacchitañca karotha, appeva nāma mayampi āyasmantānaṁ kiñcimattaṁ anupadajjeyyāmā”ti, evañca sā bhikkhunī vatvā kiñcimattaṁ anupadajjeyya antamaso piṇḍapātamattampi, nissaggiyaṁ pācittiyaṁ.
+47.1\. Tỳ kheo ni nào dùng vật dụng của cá nhân do tự mình quyên góp vốn được dâng cúng chỉ định cho một mục đích khác để đổi lấy thứ khác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Nissaggiya pācittiya 29. Accekacīvarasikkhāpadaṁ
+47.2\. Phẩm Bát thứ nhất [đã xong].
 
-66.1\. Dasāhānāgataṁ kattikatemāsikapuṇṇamaṁ bhikkhuniyā paneva accekacīvaraṁ uppajjeyya, accekaṁ maññamānāya bhikkhuniyā paṭiggahetabbaṁ, paṭiggahetvā yāva cīvarakālasamayaṁ nikkhipitabbaṁ. Tato ce uttari nikkhipeyya, nissaggiyaṁ pācittiyaṁ.
+### Phẩm Y
+*(Cīvaravaggo)*
 
-#### Nissaggiya pācittiya 30. Pariṇatasikkhāpadaṁ
+#### Lỗi Phạm vật chất 11: Điều học về áo choàng dày
+*(Garupāvuraṇasikkhāpadaṁ)*
 
-67.1\. Yā pana bhikkhunī jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ attano pariṇāmeyya, nissaggiyaṁ pācittiyaṁ.
+48.1\. Tỳ kheo ni khi đổi mua áo choàng dày thì được đổi mua tối đa bốn đồng *kaṁsa*. Nếu đổi mua vượt quá mức ấy, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-67.2\. Pattavaggo tatiyo.
+#### Lỗi Phạm vật chất 12: Điều học về áo choàng mỏng
+*(Lahupāvuraṇasikkhāpadaṁ)*
 
-68.1\. Uddiṭṭhā kho, ayyāyo, tiṁsa nissaggiyā pācittiyā dhammā. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.
+49.1\. Tỳ kheo ni khi đổi mua áo choàng mỏng thì được đổi mua tối đa hai đồng rưỡi *kaṁsa*. Nếu đổi mua vượt quá mức ấy, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-68.6\. Nissaggiyapācittiyā niṭṭhitā.
+#### Lỗi Phạm vật chất 13: Điều học về y Kaṭhina
+*(Kathinasikkhāpadaṁ)*
 
-## Suddhapācittiyā
+50.1\. Khi y của tỳ kheo ni đã hoàn thành và lễ dâng y Kaṭhina đã kết thúc, y dư được phép giữ tối đa mười ngày. Vị nào giữ quá hạn ấy, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-69.1\. Ime kho panāyyāyo, chasaṭṭhisatā pācittiyā dhammā uddesaṁ āgacchanti.
+#### Lỗi Phạm vật chất 14: Điều học về sống xa bộ ba y
+*(Udositasikkhāpadaṁ)*
 
-### Lasuṇavaggo
+51.1\. Khi y của tỳ kheo ni đã hoàn thành và lễ dâng y Kaṭhina đã kết thúc, nếu tỳ kheo ni sống tách rời bộ ba y dù chỉ một đêm, trừ khi được sự đồng thuận của chúng tỳ kheo ni, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 1. Lasuṇasikkhāpadaṁ
+#### Lỗi Phạm vật chất 15: Điều học về y phi thời
+*(Akālacīvarasikkhāpadaṁ)*
 
-70.1\. Yā pana bhikkhunī lasuṇaṁ khādeyya pācittiyaṁ.
+52.1\. Khi y của tỳ kheo ni đã hoàn thành và lễ dâng y Kaṭhina đã kết thúc, nếu có tấm y phi thời phát sinh cho vị tỳ kheo ni và vị ấy mong muốn thì có thể nhận lấy; sau khi nhận phải làm cho xong thật nhanh chóng. Nếu vải chưa đủ, vị tỳ kheo ni ấy được giữ tấm y đó tối đa một tháng khi còn hy vọng tìm đủ phần còn thiếu. Nếu giữ vượt quá thời hạn ấy dù còn hy vọng, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 2. Sambādhalomasikkhāpadaṁ
+#### Lỗi Phạm vật chất 16: Điều học về xin y từ người không phải thân quyến
+*(Aññātakaviññattisikkhāpadaṁ)*
 
-71.1\. Yā pana bhikkhunī sambādhe lomaṁ saṁharāpeyya, pācittiyaṁ.
+53.1\. Tỳ kheo ni nào xin y từ gia chủ nam hoặc nữ không phải thân quyến, trừ trường hợp hợp lệ, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*. Trường hợp hợp lệ ở đây là khi tỳ kheo ni bị cướp mất y hoặc bị hư mất y; đó là trường hợp hợp lệ ở đây.
 
-#### Pācittiya 3. Talaghātakasikkhāpadaṁ
+#### Lỗi Phạm vật chất 17: Điều học về nhận vượt quá quy định
+*(Tatuttarisikkhāpadaṁ)*
 
-72.1\. Talaghātake pācittiyaṁ.
+54.1\. Nếu gia chủ nam hoặc nữ không phải thân quyến mời vị ấy nhận nhiều tấm y, thì vị tỳ kheo ni ấy chỉ được phép chấp nhận tối đa một bộ y nội và y choàng. Nếu chấp nhận vượt quá mức ấy, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 4. Jatumaṭṭhakasikkhāpadaṁ
+#### Lỗi Phạm vật chất 18: Điều học thứ nhất về vật dụng mua y đã chuẩn bị sẵn
+*(Paṭhamaupakkhaṭasikkhāpadaṁ)*
 
-73.1\. Jatumaṭṭhake pācittiyaṁ.
+55.1\. Gia chủ nam hoặc nữ không phải thân quyến chuẩn bị sẵn tiền vật mua y dành riêng cho một tỳ kheo ni với ý định rằng "với số tiền vật mua y này, tôi sẽ mua y dâng cho vị tỳ kheo ni tên như vậy". Nếu vị tỳ kheo ni ấy trước đó chưa được thỉnh ý mà tự tìm đến và chỉ định về tấm y rằng "lành thay, xin tôn giả hãy dùng số tiền vật mua y này mua tấm y như thế này hoặc như thế này dâng cho tôi" vì ham muốn thứ tốt đẹp, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 5. Udakasuddhikasikkhāpadaṁ
+#### Lỗi Phạm vật chất 19: Điều học thứ hai về vật dụng mua y đã chuẩn bị sẵn
+*(Dutiyaupakkhaṭasikkhāpadaṁ)*
 
-74.1\. Udakasuddhikaṁ pana bhikkhuniyā ādiyamānāya dvaṅgulapabbaparamaṁ ādātabbaṁ. Taṁ atikkāmentiyā pācittiyaṁ.
+56.1\. Hai gia chủ nam hoặc nữ không phải thân quyến chuẩn bị sẵn hai phần tiền vật mua y riêng biệt dành cho một tỳ kheo ni với ý định rằng "với hai phần tiền vật mua y riêng biệt này, chúng tôi sẽ mua hai tấm y riêng biệt dâng cho vị tỳ kheo ni tên như vậy". Nếu vị tỳ kheo ni ấy trước đó chưa được thỉnh ý mà tự tìm đến và chỉ định về tấm y rằng "lành thay, xin quý tôn giả hãy gộp hai phần tiền vật mua y này lại cùng mua một tấm y như thế này hoặc như thế này dâng cho tôi" vì ham muốn thứ tốt đẹp, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 6. Upatiṭṭhanasikkhāpadaṁ
+#### Lỗi Phạm vật chất 20: Điều học về sứ giả của vua
+*(Rājasikkhāpadaṁ)*
 
-75.1\. Yā pana bhikkhunī bhikkhussa bhuñjantassa pānīyena vā vidhūpanena vā upatiṭṭheyya, pācittiyaṁ.
+57.1\. Vua hoặc đại thần hoặc Bà-la-môn hoặc gia chủ cử sứ giả mang tiền vật mua y gửi đến dành riêng cho một tỳ kheo ni với lời nhắn: "Với số tiền vật mua y này, hãy mua y dâng cho vị tỳ kheo ni tên như vậy". Nếu người sứ giả ấy đến gặp vị tỳ kheo ni đó và nói:
 
-#### Pācittiya 7. Āmakadhaññasikkhāpadaṁ
+– Thưa ni sư, số tiền vật mua y này được mang đến dành riêng cho ni sư; xin ni sư hãy nhận lấy số tiền vật mua y này!
 
-76.1\. Yā pana bhikkhunī āmakadhaññaṁ viññatvā vā viññāpetvā vā bhajjitvā vā bhajjāpetvā vā koṭṭetvā vā koṭṭāpetvā vā pacitvā vā pacāpetvā vā bhuñjeyya, pācittiyaṁ.
+Vị tỳ kheo ni ấy phải nói với người sứ giả đó như vầy:
 
-#### Pācittiya 8. Paṭhamauccārachaḍḍanasikkhāpadaṁ
+– Này hiền giả, chúng tôi không nhận tiền vật mua y, nhưng chúng tôi có thể nhận tấm y hợp pháp đúng lúc!
 
-77.1\. Yā pana bhikkhunī uccāraṁ vā passāvaṁ vā saṅkāraṁ vā vighāsaṁ vā tirokuṭṭe vā tiropākāre vā chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṁ.
+Nếu người sứ giả ấy nói với vị tỳ kheo ni đó như vầy:
 
-#### Pācittiya 9. Dutiyauccārachaḍḍanasikkhāpadaṁ
+– Vậy ni sư có người phục vụ nào không?
 
-78.1\. Yā pana bhikkhunī uccāraṁ vā passāvaṁ vā saṅkāraṁ vā vighāsaṁ vā harite chaḍḍeyya vā chaḍḍāpeyya vā, pācittiyaṁ.
+Này các tỳ kheo, vị tỳ kheo ni đang cần y phải chỉ một người phục vụ, là người coi sóc tu viện hoặc cư sĩ nam, rằng:
 
-#### Pācittiya 10. Naccagītasikkhāpadaṁ
+– Này hiền giả, người này là người phục vụ của các tỳ kheo ni!
 
-79.1\. Yā pana bhikkhunī naccaṁ vā gītaṁ vā vāditaṁ vā dassanāya gaccheyya, pācittiyaṁ.
+Nếu người sứ giả ấy sau khi dặn dò người phục vụ đó rồi trở lại gặp vị tỳ kheo ni và nói:
 
-79.2\. Lasuṇavaggo paṭhamo.
+– Thưa ni sư, người phục vụ mà ni sư đã chỉ định đã được tôi dặn dò rồi; đến đúng lúc ni sư hãy đến gặp người ấy, người ấy sẽ may y dâng cho ni sư!
 
-### Rattandhakāravaggo
+Này các tỳ kheo, vị tỳ kheo ni đang cần y phải đến gặp người phục vụ ấy, nhắc nhở và gợi ý hai hoặc ba lần rằng:
 
-#### Pācittiya 11. Rattandhakārasikkhāpadaṁ
+– Này hiền giả, tôi đang cần tấm y!
 
-80.1\. Yā pana bhikkhunī rattandhakāre appadīpe purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṁ.
+Nếu qua hai hoặc ba lần nhắc nhở và gợi ý mà vị ấy nhận được tấm y ấy thì điều này tốt đẹp; nếu không nhận được thì vị ấy phải giữ im lặng đứng chờ nhằm mục đích đó bốn lần, năm lần, tối đa sáu lần. Nếu qua bốn lần, năm lần, tối đa sáu lần giữ im lặng đứng chờ nhằm mục đích đó mà vị ấy nhận được tấm y ấy thì điều này tốt đẹp. Nếu cố gắng vượt quá mức ấy mà nhận được tấm y ấy, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*. Nếu không nhận được thì vị ấy phải tự mình đi hoặc cử người đưa tin đến nơi đã gửi tiền vật mua y ấy để báo rằng:
 
-#### Pācittiya 12. Paṭicchannokāsasikkhāpadaṁ
+– Số tiền vật mua y mà quý tôn giả đã gửi đến dành cho vị tỳ kheo ni ấy không mang lại lợi ích gì cho vị tỳ kheo ni đó cả; xin quý tôn giả hãy thu hồi lại tài sản của mình, đừng để tài sản của quý vị bị thất thoát!
 
-81.1\. Yā pana bhikkhunī paṭicchanne okāse purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṁ.
+Đó là quy tắc đúng đắn trong trường hợp này.
 
-#### Pācittiya 13. Ajjhokāsasallapanasikkhāpadaṁ
+57.23\. Phẩm Y thứ hai [đã xong].
 
-82.1\. Yā pana bhikkhunī ajjhokāse purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā, pācittiyaṁ.
+### Phẩm Bát [Tiếp theo]
+*(Pattavaggo)*
 
-#### Pācittiya 14. Dutiyikauyyojanasikkhāpadaṁ
+#### Lỗi Phạm vật chất 21: Điều học về vàng bạc tiền tệ
+*(Rūpiyasikkhāpadaṁ)*
 
-83.1\. Yā pana bhikkhunī rathikāya vā byūhe vā siṅghāṭake vā purisena saddhiṁ ekenekā santiṭṭheyya vā sallapeyya vā nikaṇṇikaṁ vā jappeyya dutiyikaṁ vā bhikkhuniṁ uyyojeyya, pācittiyaṁ.
+58.1\. Tỳ kheo ni nào nhận hoặc bảo người nhận vàng bạc tiền tệ, hoặc đồng ý để người ta giữ giùm cho mình, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 15. Anāpucchāpakkamanasikkhāpadaṁ
+#### Lỗi Phạm vật chất 22: Điều học về giao dịch tiền tệ
+*(Rūpiyasaṁvohārasikkhāpadaṁ)*
 
-84.1\. Yā pana bhikkhunī purebhattaṁ kulāni upasaṅkamitvā āsane nisīditvā sāmike anāpucchā pakkameyya, pācittiyaṁ.
+59.1\. Tỳ kheo ni nào tham gia các hình thức giao dịch bằng tiền tệ vàng bạc, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 16. Anāpucchāabhinisīdanasikkhāpadaṁ
+#### Lỗi Phạm vật chất 23: Điều học về mua bán
+*(Kayavikkayasikkhāpadaṁ)*
 
-85.1\. Yā pana bhikkhunī pacchābhattaṁ kulāni upasaṅkamitvā sāmike anāpucchā āsane abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.
+60.1\. Tỳ kheo ni nào tham gia các hình thức mua bán đổi chác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 17. Anāpucchāsantharaṇasikkhāpadaṁ
+#### Lỗi Phạm vật chất 24: Điều học về bát chưa đủ năm chỗ vá
+*(Ūnapañcabandhanasikkhāpadaṁ)*
 
-86.1\. Yā pana bhikkhunī vikāle kulāni upasaṅkamitvā sāmike anāpucchā seyyaṁ santharitvā vā santharāpetvā vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.
+61.1\. Tỳ kheo ni nào dùng cái bát chưa có đủ năm chỗ vá để đổi lấy một cái bát mới khác, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*. Vị tỳ kheo ni ấy phải xả bỏ cái bát đó trước hội chúng tỳ kheo ni, và cái bát tệ nhất trong hội chúng tỳ kheo ni ấy phải được trao cho vị tỳ kheo ni đó rằng "này tỳ kheo ni, cái bát này cô phải giữ dùng cho đến khi vỡ"; đó là quy tắc đúng đắn trong trường hợp này.
 
-#### Pācittiya 18. Paraujjhāpanakasikkhāpadaṁ
+#### Lỗi Phạm vật chất 25: Điều học về dược phẩm
+*(Bhesajjasikkhāpadaṁ)*
 
-87.1\. Yā pana bhikkhunī duggahitena dūpadhāritena paraṁ ujjhāpeyya, pācittiyaṁ.
+62.1\. Những loại dược phẩm dùng cho các tỳ kheo ni bị bệnh như là bơ lỏng, bơ tươi, dầu, mật ong và đường mía, sau khi nhận thì được phép cất giữ để dùng tối đa bảy ngày. Vị nào để quá hạn ấy, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 19. Paraabhisapanasikkhāpadaṁ
+#### Lỗi Phạm vật chất 26: Điều học về giật lại y đã cho
+*(Cīvaraacchindanasikkhāpadaṁ)*
 
-88.1\. Yā pana bhikkhunī attānaṁ vā paraṁ vā nirayena vā brahmacariyena vā abhisapeyya, pācittiyaṁ.
+63.1\. Tỳ kheo ni nào tự tay cho y một tỳ kheo ni khác rồi sau đó tức giận, bất mãn mà tự mình giật lại hoặc bảo người giật lại, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 20. Rodanasikkhāpadaṁ
+#### Lỗi Phạm vật chất 27: Điều học về xin sợi chỉ dệt y
+*(Suttaviññattisikkhāpadaṁ)*
 
-89.1\. Yā pana bhikkhunī attānaṁ vadhitvā vadhitvā rodeyya, pācittiyaṁ.
+64.1\. Tỳ kheo ni nào tự mình xin sợi chỉ rồi thuê thợ dệt dệt thành y, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-89.2\. Rattandhakāravaggo dutiyo.
+#### Lỗi Phạm vật chất 28: Điều học lớn về thợ dệt
+*(Mahāpesakārasikkhāpadaṁ)*
 
-### Naggavaggo
+65.1\. Gia chủ nam hoặc nữ không phải thân quyến thuê thợ dệt dệt y dành riêng cho một tỳ kheo ni; nếu vị tỳ kheo ni ấy trước đó chưa được thỉnh ý mà tự tìm đến chỗ thợ dệt và chỉ định về tấm y rằng "này các hiền giả, tấm y này được dệt dành cho tôi; hãy làm cho nó dài ra, rộng ra, dệt cho khít, dệt cho đều, chải cho mượt, hoàn thiện cho thật khéo léo, rồi biết đâu tôi cũng sẽ tặng thêm cho quý tôn giả chút gì đó", và sau khi nói như vậy vị tỳ kheo ni ấy tặng thêm chút gì đó, dù chỉ là một phần thức ăn khất thực, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 21. Naggasikkhāpadaṁ
+#### Lỗi Phạm vật chất 29: Điều học về y khẩn cấp
+*(Accekacīvarasikkhāpadaṁ)*
 
-90.1\. Yā pana bhikkhunī naggā nahāyeyya, pācittiyaṁ.
+66.1\. Trong vòng mười ngày trước ngày rằm lễ Kattika kết thúc ba tháng mùa mưa, nếu có tấm y khẩn cấp phát sinh cho vị tỳ kheo ni và vị tỳ kheo ni nhận thấy đó là khẩn cấp thì có thể nhận lấy; sau khi nhận phải giữ cho đến hết mùa nhận y. Nếu giữ vượt quá thời hạn ấy, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 22. Udakasāṭikasikkhāpadaṁ
+#### Lỗi Phạm vật chất 30: Điều học về chuyển hướng vật đã hướng về Tăng đoàn
+*(Pariṇatasikkhāpadaṁ)*
 
-91.1\. Udakasāṭikaṁ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṁ dve vidatthiyo. Taṁ atikkāmentiyā chedanakaṁ pācittiyaṁ.
+67.1\. Tỳ kheo ni nào biết lợi lộc đã được định hướng dành cho *Tăng đoàn* mà lại chuyển hướng về cho bản thân mình, thì phạm *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)*.
 
-#### Pācittiya 23. Cīvarasibbanasikkhāpadaṁ
+67.2\. Phẩm Bát thứ ba [đã xong].
 
-92.1\. Yā pana bhikkhunī bhikkhuniyā cīvaraṁ visibbetvā vā visibbāpetvā vā sā pacchā anantarāyikinī neva sibbeyya, na sibbāpanāya ussukkaṁ kareyya aññatra catūhapañcāhā, pācittiyaṁ.
+68.1\. Thưa quý ni, ba mươi *Điều* thuộc *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)* đã được tụng đọc xong. Trong phần ấy, tôi xin hỏi quý ni: quý ni có trong sạch không? Lần thứ hai tôi xin hỏi: quý ni có trong sạch không? Lần thứ ba tôi xin hỏi: quý ni có trong sạch không? Quý ni ở đây đều trong sạch nên mới im lặng; tôi xin ghi nhận điều này như vậy.
 
-#### Pācittiya 24. Saṅghāṭicārasikkhāpadaṁ
+68.6\. Phần *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)* đã kết thúc.
 
-93.1\. Yā pana bhikkhunī pañcāhikaṁ saṅghāṭicāraṁ atikkāmeyya, pācittiyaṁ.
+## Các Lỗi Phạm Quy Định Đơn Thuần
+*(Suddhapācittiyā)*
 
-#### Pācittiya 25. Cīvarasaṅkamanīyasikkhāpadaṁ
+69.1\. Thưa quý ni, một trăm sáu mươi sáu *Điều* thuộc *lỗi Phạm quy định (Ba-dật-đề)* (ba-dật-đề / pācittiyā) này được đưa ra tụng đọc.
 
-94.1\. Yā pana bhikkhunī cīvarasaṅkamanīyaṁ dhāreyya, pācittiyaṁ.
+### Phẩm Tỏi
+*(Lasuṇavaggo)*
 
-#### Pācittiya 26. Gaṇacīvarasikkhāpadaṁ
+#### Lỗi Phạm quy định 1: Điều học về ăn tỏi
+*(Lasuṇasikkhāpadaṁ)*
 
-95.1\. Yā pana bhikkhunī gaṇassa cīvaralābhaṁ antarāyaṁ kareyya, pācittiyaṁ.
+70.1\. Tỳ kheo ni nào ăn tỏi, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 27. Paṭibāhanasikkhāpadaṁ
+#### Lỗi Phạm quy định 2: Điều học về dọn lông vùng kín
+*(Sambādhalomasikkhāpadaṁ)*
 
-96.1\. Yā pana bhikkhunī dhammikaṁ cīvaravibhaṅgaṁ paṭibāheyya, pācittiyaṁ.
+71.1\. Tỳ kheo ni nào cạo hoặc nhổ lông ở chỗ kín, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 28. Cīvaradānasikkhāpadaṁ
+#### Lỗi Phạm quy định 3: Điều học về vỗ lòng bàn tay
+*(Talaghātakasikkhāpadaṁ)*
 
-97.1\. Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā samaṇacīvaraṁ dadeyya, pācittiyaṁ.
+72.1\. Hành vi vỗ đánh bằng lòng bàn tay [vào chỗ kín], thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 29. Kālaatikkamanasikkhāpadaṁ
+#### Lỗi Phạm quy định 4: Điều học về vật bằng nhựa cây
+*(Jatumaṭṭhakasikkhāpadaṁ)*
 
-98.1\. Yā pana bhikkhunī dubbalacīvarapaccāsāya cīvarakālasamayaṁ atikkāmeyya, pācittiyaṁ.
+73.1\. Hành vi dùng vật làm bằng nhựa cây [để thỏa mãn dục], thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 30. Kathinuddhārasikkhāpadaṁ
+#### Lỗi Phạm quy định 5: Điều học về rửa vệ sinh bằng nước
+*(Udakasuddhikasikkhāpadaṁ)*
 
-99.1\. Yā pana bhikkhunī dhammikaṁ kathinuddhāraṁ paṭibāheyya, pācittiyaṁ.
+74.1\. Khi tỳ kheo ni rửa vệ sinh bằng nước thì chỉ được đưa vào tối đa hai đốt ngón tay. Vị nào làm vượt quá mức ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-99.2\. Naggavaggo tatiyo.
+#### Lỗi Phạm quy định 6: Điều học về đứng hầu tỳ kheo đang ăn
+*(Upatiṭṭhanasikkhāpadaṁ)*
 
-### Tuvaṭṭavaggo
+75.1\. Tỳ kheo ni nào đứng hầu nước uống hoặc quạt cho một tỳ kheo đang ăn, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 31. Ekamañcatuvaṭṭanasikkhāpadaṁ
+#### Lỗi Phạm quy định 7: Điều học về ngũ cốc sống
+*(Āmakadhaññasikkhāpadaṁ)*
 
-100.1\. Yā pana bhikkhuniyo dve ekamañce tuvaṭṭeyyuṁ, pācittiyaṁ.
+76.1\. Tỳ kheo ni nào xin hoặc bảo xin ngũ cốc sống, hoặc rang hoặc bảo rang, hoặc giã hoặc bảo giã, hoặc nấu hoặc bảo nấu rồi ăn, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 32. Ekattharaṇatuvaṭṭanasikkhāpadaṁ
+#### Lỗi Phạm quy định 8: Điều học thứ nhất về đổ chất thải
+*(Paṭhamauccārachaḍḍanasikkhāpadaṁ)*
 
-101.1\. Yā pana bhikkhuniyo dve ekattharaṇapāvuraṇā tuvaṭṭeyyuṁ, pācittiyaṁ.
+77.1\. Tỳ kheo ni nào đổ hoặc bảo đổ phân hoặc nước tiểu hoặc rác rưởi hoặc thức ăn thừa ra ngoài tường hoặc ngoài hàng rào, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 33. Aphāsukaraṇasikkhāpadaṁ
+#### Lỗi Phạm quy định 9: Điều học thứ hai về đổ chất thải
+*(Dutiyauccārachaḍḍanasikkhāpadaṁ)*
 
-102.1\. Yā pana bhikkhunī bhikkhuniyā sañcicca aphāsuṁ kareyya, pācittiyaṁ.
+78.1\. Tỳ kheo ni nào đổ hoặc bảo đổ phân hoặc nước tiểu hoặc rác rưởi hoặc thức ăn thừa lên cỏ xanh, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 34. Naupaṭṭhāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 10: Điều học về xem múa hát
+*(Naccagītasikkhāpadaṁ)*
 
-103.1\. Yā pana bhikkhunī dukkhitaṁ sahajīviniṁ neva upaṭṭhaheyya, na upaṭṭhāpanāya ussukkaṁ kareyya, pācittiyaṁ.
+79.1\. Tỳ kheo ni nào đi xem múa hoặc hát hoặc hòa nhạc, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 35. Nikkaḍḍhanasikkhāpadaṁ
+79.2\. Phẩm Tỏi thứ nhất [đã xong].
 
-104.1\. Yā pana bhikkhunī bhikkhuniyā upassayaṁ datvā kupitā anattamanā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ.
+### Phẩm Đêm Tối
+*(Rattandhakāravaggo)*
 
-#### Pācittiya 36. Saṁsaṭṭhasikkhāpadaṁ
+#### Lỗi Phạm quy định 11: Điều học về đứng nói chuyện trong đêm tối
+*(Rattandhakārasikkhāpadaṁ)*
 
-105.1\. Yā pana bhikkhunī saṁsaṭṭhā vihareyya gahapatinā vā gahapatiputtena vā, sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye, saṁsaṭṭhā vihari gahapatināpi gahapatiputtenāpi, viviccāyye, vivekaññeva bhaginiyā saṅgho vaṇṇetī”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya, yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, pācittiyaṁ.
+80.1\. Tỳ kheo ni nào đứng hoặc trò chuyện một mình với một người đàn ông trong đêm tối không có đèn, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 37. Antoraṭṭhasikkhāpadaṁ
+#### Lỗi Phạm quy định 12: Điều học về ở nơi che khuất
+*(Paṭicchannokāsasikkhāpadaṁ)*
 
-106.1\. Yā pana bhikkhunī antoraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ careyya, pācittiyaṁ.
+81.1\. Tỳ kheo ni nào đứng hoặc trò chuyện một mình với một người đàn ông ở nơi kín đáo che khuất, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 38. Tiroraṭṭhasikkhāpadaṁ
+#### Lỗi Phạm quy định 13: Điều học về trò chuyện ở nơi trống trải
+*(Ajjhokāsasallapanasikkhāpadaṁ)*
 
-107.1\. Yā pana bhikkhunī tiroraṭṭhe sāsaṅkasammate sappaṭibhaye asatthikā cārikaṁ careyya, pācittiyaṁ.
+82.1\. Tỳ kheo ni nào đứng hoặc trò chuyện một mình với một người đàn ông ở nơi trống trải, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 39. Antovassasikkhāpadaṁ
+#### Lỗi Phạm quy định 14: Điều học về cho bạn đồng hành đi chỗ khác
+*(Dutiyikauyyojanasikkhāpadaṁ)*
 
-108.1\. Yā pana bhikkhunī antovassaṁ cārikaṁ careyya, pācittiyaṁ.
+83.1\. Tỳ kheo ni nào trên đường phố hoặc ngõ hẻm hoặc ngã tư đứng hoặc trò chuyện một mình với một người đàn ông, hoặc thì thầm vào tai, hoặc đuổi tỳ kheo ni đi cùng đi chỗ khác, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 40. Cārikanapakkamanasikkhāpadaṁ
+#### Lỗi Phạm quy định 15: Điều học về bỏ đi không xin phép
+*(Anāpucchāpakkamanasikkhāpadaṁ)*
 
-109.1\. Yā pana bhikkhunī vassaṁvuṭṭhā cārikaṁ na pakkameyya antamaso chappañcayojanānipi, pācittiyaṁ.
+84.1\. Tỳ kheo ni nào buổi sáng trước bữa ăn đi đến nhà các gia đình, ngồi xuống chỗ ngồi rồi bỏ đi mà không báo với chủ nhà, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-109.2\. Tuvaṭṭavaggo catuttho.
+#### Lỗi Phạm quy định 16: Điều học về ngồi xuống không xin phép
+*(Anāpucchāabhinisīdanasikkhāpadaṁ)*
 
-### Cittāgāravaggo
+85.1\. Tỳ kheo ni nào buổi chiều sau bữa ăn đi đến nhà các gia đình, tự ý ngồi xuống chỗ ngồi hoặc nằm xuống giường mà không xin phép chủ nhà, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 41. Rājāgārasikkhāpadaṁ
+#### Lỗi Phạm quy định 17: Điều học về trải chỗ nằm không xin phép
+*(Anāpucchāsantharaṇasikkhāpadaṁ)*
 
-110.1\. Yā pana bhikkhunī rājāgāraṁ vā cittāgāraṁ vā ārāmaṁ vā uyyānaṁ vā pokkharaṇiṁ vā dassanāya gaccheyya, pācittiyaṁ.
+86.1\. Tỳ kheo ni nào vào phi thời đi đến nhà các gia đình, tự trải hoặc bảo trải chỗ nằm rồi ngồi xuống hoặc nằm xuống mà không xin phép chủ nhà, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 42. Āsandiparibhuñjanasikkhāpadaṁ
+#### Lỗi Phạm quy định 18: Điều học về chê bai người khác vì hiểu sai
+*(Paraujjhāpanakasikkhāpadaṁ)*
 
-111.1\. Yā pana bhikkhunī āsandiṁ vā pallaṅkaṁ vā paribhuñjeyya, pācittiyaṁ.
+87.1\. Tỳ kheo ni nào do hiểu sai và ghi nhớ lệch lạc mà đi bêu xấu chê bai người khác, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 43. Suttakantanasikkhāpadaṁ
+#### Lỗi Phạm quy định 19: Điều học về nguyền rủa người khác
+*(Paraabhisapanasikkhāpadaṁ)*
 
-112.1\. Yā pana bhikkhunī suttaṁ kanteyya, pācittiyaṁ.
+88.1\. Tỳ kheo ni nào nguyền rủa bản thân hoặc người khác bằng địa ngục hoặc bằng đời sống phạm hạnh, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 44. Gihiveyyāvaccasikkhāpadaṁ
+#### Lỗi Phạm quy định 20: Điều học về tự đánh mình và khóc lóc
+*(Rodanasikkhāpadaṁ)*
 
-113.1\. Yā pana bhikkhunī gihiveyyāvaccaṁ kareyya, pācittiyaṁ.
+89.1\. Tỳ kheo ni nào tự đánh đập mình rồi khóc lóc, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 45. Adhikaraṇasikkhāpadaṁ
+89.2\. Phẩm Đêm Tối thứ hai [đã xong].
 
-114.1\. Yā pana bhikkhunī bhikkhuniyā: “ehāyye, imaṁ adhikaraṇaṁ vūpasamehī”ti vuccamānā: “sādhū”ti paṭissuṇitvā sā pacchā anantarāyikinī neva vūpasameyya, na vūpasamāya ussukkaṁ kareyya, pācittiyaṁ.
+### Phẩm Trần Truồng
+*(Naggavaggo)*
 
-#### Pācittiya 46. Bhojanadānasikkhāpadaṁ
+#### Lỗi Phạm quy định 21: Điều học về tắm trần truồng
+*(Naggasikkhāpadaṁ)*
 
-115.1\. Yā pana bhikkhunī agārikassa vā paribbājakassa vā paribbājikāya vā sahatthā khādanīyaṁ vā bhojanīyaṁ vā dadeyya, pācittiyaṁ.
+90.1\. Tỳ kheo ni nào tắm trần truồng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 47. Āvasathacīvarasikkhāpadaṁ
+#### Lỗi Phạm quy định 22: Điều học về áo tắm
+*(Udakasāṭikasikkhāpadaṁ)*
 
-116.1\. Yā pana bhikkhunī āvasathacīvaraṁ anissajjetvā paribhuñjeyya, pācittiyaṁ.
+91.1\. Tỳ kheo ni khi may áo tắm thì phải may đúng kích thước; kích thước ở đây là chiều dài bốn gang tay theo gang tay của Đức Thế Tôn, chiều ngang hai gang tay. Vị nào làm vượt quá kích thước ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)* phải cắt bỏ.
 
-#### Pācittiya 48. Āvasathavihārasikkhāpadaṁ
+#### Lỗi Phạm quy định 23: Điều học về may y
+*(Cīvarasibbanasikkhāpadaṁ)*
 
-117.1\. Yā pana bhikkhunī āvasathaṁ anissajjitvā cārikaṁ pakkameyya, pācittiyaṁ.
+92.1\. Tỳ kheo ni nào tháo chỉ y của một tỳ kheo ni khác hoặc bảo người tháo chỉ, rồi sau đó dù không gặp trở ngại gì vẫn không chịu may lại và không lo thu xếp để may lại quá bốn hay năm ngày, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 49. Tiracchānavijjāpariyāpuṇanasikkhāpadaṁ
+#### Lỗi Phạm quy định 24: Điều học về đi không mang y đại
+*(Saṅghāṭicārasikkhāpadaṁ)*
 
-118.1\. Yā pana bhikkhunī tiracchānavijjaṁ pariyāpuṇeyya, pācittiyaṁ.
+93.1\. Tỳ kheo ni nào bỏ không mang theo y đại quá năm ngày, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 50. Tiracchānavijjāvācanasikkhāpadaṁ
+#### Lỗi Phạm quy định 25: Điều học về y mượn dùng chung
+*(Cīvarasaṅkamanīyasikkhāpadaṁ)*
 
-119.1\. Yā pana bhikkhunī tiracchānavijjaṁ vāceyya, pācittiyaṁ.
+94.1\. Tỳ kheo ni nào mang mặc tấm y mượn dùng chung [của người khác], thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-119.2\. Cittāgāravaggo pañcamo.
+#### Lỗi Phạm quy định 26: Điều học về gây trở ngại việc nhận y của nhóm chúng
+*(Gaṇacīvarasikkhāpadaṁ)*
 
-### Ārāmavaggo
+95.1\. Tỳ kheo ni nào gây trở ngại cho việc nhận y của nhóm chúng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 51. Ārāmapavisanasikkhāpadaṁ
+#### Lỗi Phạm quy định 27: Điều học về ngăn cản chia y
+*(Paṭibāhanasikkhāpadaṁ)*
 
-120.1\. Yā pana bhikkhunī jānaṁ sabhikkhukaṁ ārāmaṁ anāpucchā paviseyya, pācittiyaṁ.
+96.1\. Tỳ kheo ni nào ngăn cản việc phân chia y đúng pháp, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 52. Bhikkhuakkosanasikkhāpadaṁ
+#### Lỗi Phạm quy định 28: Điều học về tặng y sa-môn
+*(Cīvaradānasikkhāpadaṁ)*
 
-121.1\. Yā pana bhikkhunī bhikkhuṁ akkoseyya vā paribhāseyya vā, pācittiyaṁ.
+97.1\. Tỳ kheo ni nào tặng y của người xuất gia cho người tại gia hoặc nam du sĩ hoặc nữ du sĩ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 53. Gaṇaparibhāsanasikkhāpadaṁ
+#### Lỗi Phạm quy định 29: Điều học về để quá thời hạn y
+*(Kālaatikkamanasikkhāpadaṁ)*
 
-122.1\. Yā pana bhikkhunī caṇḍīkatā gaṇaṁ paribhāseyya, pācittiyaṁ.
+98.1\. Tỳ kheo ni nào để trôi qua thời hạn nhận y vì mong đợi một tấm y bấp bênh không chắc chắn, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 54. Pavāritasikkhāpadaṁ
+#### Lỗi Phạm quy định 30: Điều học về ngăn cản xả lễ Kaṭhina
+*(Kathinuddhārasikkhāpadaṁ)*
 
-123.1\. Yā pana bhikkhunī nimantitā vā pavāritā vā khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+99.1\. Tỳ kheo ni nào ngăn cản việc kết thúc lễ Kaṭhina đúng pháp, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 55. Kulamaccharinīsikkhāpadaṁ
+99.2\. Phẩm Trần Truồng thứ ba [đã xong].
 
-124.1\. Yā pana bhikkhunī kulamaccharinī assa, pācittiyaṁ.
+### Phẩm Nằm Chung
+*(Tuvaṭṭavaggo)*
 
-#### Pācittiya 56. Abhikkhukāvāsasikkhāpadaṁ
+#### Lỗi Phạm quy định 31: Điều học về nằm chung một giường
+*(Ekamañcatuvaṭṭanasikkhāpadaṁ)*
 
-125.1\. Yā pana bhikkhunī abhikkhuke āvāse vassaṁ vaseyya, pācittiyaṁ.
+100.1\. Hai tỳ kheo ni nào cùng nằm trên một chiếc giường, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 57. Apavāraṇāsikkhāpadaṁ
+#### Lỗi Phạm quy định 32: Điều học về nằm chung một tấm trải và tấm đắp
+*(Ekattharaṇatuvaṭṭanasikkhāpadaṁ)*
 
-126.1\. Yā pana bhikkhunī vassaṁvuṭṭhā ubhatosaṅghe tīhi ṭhānehi na pavāreyya diṭṭhena vā sutena vā parisaṅkāya vā, pācittiyaṁ.
+101.1\. Hai tỳ kheo ni nào cùng nằm chung một tấm trải và một tấm đắp, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 58. Ovādasikkhāpadaṁ
+#### Lỗi Phạm quy định 33: Điều học về gây khó chịu
+*(Aphāsukaraṇasikkhāpadaṁ)*
 
-127.1\. Yā pana bhikkhunī ovādāya vā saṁvāsāya vā na gaccheyya, pācittiyaṁ.
+102.1\. Tỳ kheo ni nào cố ý gây khó chịu cho tỳ kheo ni khác, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 59. Ovādūpasaṅkamanasikkhāpadaṁ
+#### Lỗi Phạm quy định 34: Điều học về không chăm sóc đệ tử
+*(Naupaṭṭhāpanasikkhāpadaṁ)*
 
-128.1\. Anvaddhamāsaṁ bhikkhuniyā bhikkhusaṅghato dve dhammā paccāsīsitabbā uposathapucchakañca ovādūpasaṅkamanañca. Taṁ atikkāmentiyā pācittiyaṁ.
+103.1\. Tỳ kheo ni nào có *đệ tử đồng trú* (đồng trú đệ tử / sahajīviniṁ) đang đau ốm mà không tự chăm sóc cũng không thu xếp để người khác chăm sóc, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 60. Pasākhejātasikkhāpadaṁ
+#### Lỗi Phạm quy định 35: Điều học về đuổi ra khỏi chỗ ở
+*(Nikkaḍḍhanasikkhāpadaṁ)*
 
-129.1\. Yā pana bhikkhunī pasākhe jātaṁ gaṇḍaṁ vā rudhitaṁ vā anapaloketvā saṅghaṁ vā gaṇaṁ vā purisena saddhiṁ ekenekā bhedāpeyya vā phālāpeyya vā dhovāpeyya vā ālimpāpeyya vā bandhāpeyya vā mocāpeyya vā, pācittiyaṁ.
+104.1\. Tỳ kheo ni nào đã cho một tỳ kheo ni khác chỗ ở rồi sau đó tức giận, bất mãn mà đuổi đi hoặc bảo người đuổi đi, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-129.2\. Ārāmavaggo chaṭṭho.
+#### Lỗi Phạm quy định 36: Điều học về sống thân mật với gia chủ
+*(Saṁsaṭṭhasikkhāpadaṁ)*
 
-### Gabbhinivaggo
+105.1\. Tỳ kheo ni nào sống thân mật với gia chủ hoặc con của gia chủ; vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-#### Pācittiya 61. Gabbhinīsikkhāpadaṁ
+– Xin ni sư đừng sống thân mật với gia chủ hay con của gia chủ; xin ni sư hãy tách riêng ra! *Tăng đoàn* chỉ khen ngợi sự *rời bỏ* [sự tụ tập] của chị em!
 
-130.1\. Yā pana bhikkhunī gabbhiniṁ vuṭṭhāpeyya, pācittiyaṁ.
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 62. Pāyantīsikkhāpadaṁ
+#### Lỗi Phạm quy định 37: Điều học về đi trong nước không có đoàn hộ tống
+*(Antoraṭṭhasikkhāpadaṁ)*
 
-131.1\. Yā pana bhikkhunī pāyantiṁ vuṭṭhāpeyya, pācittiyaṁ.
+106.1\. Tỳ kheo ni nào đi du hành một mình không có đoàn hộ tống trong nước tại nơi được xem là đáng lo ngại và đầy nguy hiểm, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 63. Paṭhamasikkhamānasikkhāpadaṁ
+#### Lỗi Phạm quy định 38: Điều học về đi ngoài nước không có đoàn hộ tống
+*(Tiroraṭṭhasikkhāpadaṁ)*
 
-132.1\. Yā pana bhikkhunī dve vassāni chasu dhammesu asikkhitasikkhaṁ sikkhamānaṁ vuṭṭhāpeyya, pācittiyaṁ.
+107.1\. Tỳ kheo ni nào đi du hành một mình không có đoàn hộ tống ngoài biên giới tại nơi được xem là đáng lo ngại và đầy nguy hiểm, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 64. Dutiyasikkhamānasikkhāpadaṁ
+#### Lỗi Phạm quy định 39: Điều học về du hành trong mùa an cư
+*(Antovassasikkhāpadaṁ)*
 
-133.1\. Yā pana bhikkhunī dve vassāni chasu dhammesu sikkhitasikkhaṁ sikkhamānaṁ saṅghena asammataṁ vuṭṭhāpeyya, pācittiyaṁ.
+108.1\. Tỳ kheo ni nào đi du hành trong mùa an cư, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 65. Paṭhamagihigatasikkhāpadaṁ
+#### Lỗi Phạm quy định 40: Điều học về không đi du hành sau mùa an cư
+*(Cārikanapakkamanasikkhāpadaṁ)*
 
-134.1\. Yā pana bhikkhunī ūnadvādasavassaṁ gihigataṁ vuṭṭhāpeyya, pācittiyaṁ.
+109.1\. Tỳ kheo ni nào đã an cư xong mà không ra đi du hành, dù chỉ năm hay sáu do-tuần, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 66. Dutiyagihigatasikkhāpadaṁ
+109.2\. Phẩm Nằm Chung thứ tư [đã xong].
 
-135.1\. Yā pana bhikkhunī paripuṇṇadvādasavassaṁ gihigataṁ dve vassāni chasu dhammesu asikkhitasikkhaṁ vuṭṭhāpeyya, pācittiyaṁ.
+### Phẩm Phòng Tranh
+*(Cittāgāravaggo)*
 
-#### Pācittiya 67. Tatiyagihigatasikkhāpadaṁ
+#### Lỗi Phạm quy định 41: Điều học về đi xem cung điện
+*(Rājāgārasikkhāpadaṁ)*
 
-136.1\. Yā pana bhikkhunī paripuṇṇadvādasavassaṁ gihigataṁ dve vassāni chasu dhammesu sikkhitasikkhaṁ saṅghena asammataṁ vuṭṭhāpeyya, pācittiyaṁ.
+110.1\. Tỳ kheo ni nào đi xem cung điện vua hoặc phòng tranh hoặc công viên hoặc vườn hoa hoặc hồ nước, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 68. Paṭhamasahajīvinīsikkhāpadaṁ
+#### Lỗi Phạm quy định 42: Điều học về sử dụng giường ghế cao sang
+*(Āsandiparibhuñjanasikkhāpadaṁ)*
 
-137.1\. Yā pana bhikkhunī sahajīviniṁ vuṭṭhāpetvā dve vassāni neva anuggaṇheyya na anuggaṇhāpeyya, pācittiyaṁ.
+111.1\. Tỳ kheo ni nào sử dụng ghế dài hoặc giường cao sang trọng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 69. Pavattinīnānubandhanasikkhāpadaṁ
+#### Lỗi Phạm quy định 43: Điều học về kéo sợi
+*(Suttakantanasikkhāpadaṁ)*
 
-138.1\. Yā pana bhikkhunī vuṭṭhāpitaṁ pavattiniṁ dve vassāni nānubandheyya, pācittiyaṁ.
+112.1\. Tỳ kheo ni nào kéo sợi, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 70. Dutiyasahajīvinīsikkhāpadaṁ
+#### Lỗi Phạm quy định 44: Điều học về phục vụ việc vặt cho người tại gia
+*(Gihiveyyāvaccasikkhāpadaṁ)*
 
-139.1\. Yā pana bhikkhunī sahajīviniṁ vuṭṭhāpetvā neva vūpakāseyya na vūpakāsāpeyya antamaso chappañcayojanānipi, pācittiyaṁ.
+113.1\. Tỳ kheo ni nào làm việc vặt phục vụ cho người tại gia, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-139.2\. Gabbhinivaggo sattamo.
+#### Lỗi Phạm quy định 45: Điều học về dàn xếp tranh chấp
+*(Adhikaraṇasikkhāpadaṁ)*
 
-### Kumāribhūtavaggo
+114.1\. Tỳ kheo ni nào được một tỳ kheo ni khác nói rằng "này ni sư, hãy đến giải quyết vụ tranh chấp này đi", sau khi nhận lời "vâng" mà sau đó dù không có trở ngại gì lại không giải quyết cũng không thu xếp để giải quyết, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 71. Paṭhamakumāribhūtasikkhāpadaṁ
+#### Lỗi Phạm quy định 46: Điều học về cho thức ăn
+*(Bhojanadānasikkhāpadaṁ)*
 
-140.1\. Yā pana bhikkhunī ūnavīsativassaṁ kumāribhūtaṁ vuṭṭhāpeyya, pācittiyaṁ.
+115.1\. Tỳ kheo ni nào tự tay cho đồ ăn nhai hoặc đồ ăn mềm cho người tại gia hoặc nam du sĩ hoặc nữ du sĩ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 72. Dutiyakumāribhūtasikkhāpadaṁ
+#### Lỗi Phạm quy định 47: Điều học về y vệ sinh dùng chung
+*(Āvasathacīvarasikkhāpadaṁ)*
 
-141.1\. Yā pana bhikkhunī paripuṇṇavīsativassaṁ kumāribhūtaṁ dve vassāni chasu dhammesu asikkhitasikkhaṁ vuṭṭhāpeyya, pācittiyaṁ.
+116.1\. Tỳ kheo ni nào sử dụng tấm y dùng chung [trong kỳ kinh nguyệt] mà không trao trả lại, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 73. Tatiyakumāribhūtasikkhāpadaṁ
+#### Lỗi Phạm quy định 48: Điều học về bỏ đi không bàn giao trú xứ
+*(Āvasathavihārasikkhāpadaṁ)*
 
-142.1\. Yā pana bhikkhunī paripuṇṇavīsativassaṁ kumāribhūtaṁ dve vassāni chasu dhammesu sikkhitasikkhaṁ saṅghena asammataṁ vuṭṭhāpeyya, pācittiyaṁ.
+117.1\. Tỳ kheo ni nào bỏ đi du hành mà không bàn giao lại trú xứ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 74. Ūnadvādasavassasikkhāpadaṁ
+#### Lỗi Phạm quy định 49: Điều học về học kiến thức thấp kém
+*(Tiracchānavijjāpariyāpuṇanasikkhāpadaṁ)*
 
-143.1\. Yā pana bhikkhunī ūnadvādasavassā vuṭṭhāpeyya, pācittiyaṁ.
+118.1\. Tỳ kheo ni nào học tập các kiến thức thấp kém, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 75. Paripuṇṇadvādasavassasikkhāpadaṁ
+#### Lỗi Phạm quy định 50: Điều học về giảng dạy kiến thức thấp kém
+*(Tiracchānavijjāvācanasikkhāpadaṁ)*
 
-144.1\. Yā pana bhikkhunī paripuṇṇadvādasavassā saṅghena asammatā vuṭṭhāpeyya, pācittiyaṁ.
+119.1\. Tỳ kheo ni nào giảng dạy các kiến thức thấp kém, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 76. Khiyyanadhammasikkhāpadaṁ
+119.2\. Phẩm Phòng Tranh thứ năm [đã xong].
 
-145.1\. Yā pana bhikkhunī, “alaṁ tāva te, ayye, vuṭṭhāpitenā”ti vuccamānā, “sādhū”ti paṭissuṇitvā sā pacchā khiyyanadhammaṁ āpajjeyya, pācittiyaṁ.
+### Phẩm Tu Viện
+*(Ārāmavaggo)*
 
-#### Pācittiya 77. Paṭhamasikkhamānanavuṭṭhāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 51: Điều học về vào tu viện của tỳ kheo
+*(Ārāmapavisanasikkhāpadaṁ)*
 
-146.1\. Yā pana bhikkhunī sikkhamānaṁ, “sace me tvaṁ, ayye, cīvaraṁ dassasi, evāhaṁ taṁ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṁ kareyya, pācittiyaṁ.
+120.1\. Tỳ kheo ni nào biết trong tu viện có tỳ kheo ở mà đi vào không xin phép, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 78. Dutiyasikkhamānanavuṭṭhāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 52: Điều học về mắng nhiếc tỳ kheo
+*(Bhikkhuakkosanasikkhāpadaṁ)*
 
-147.1\. Yā pana bhikkhunī sikkhamānaṁ, “sace maṁ tvaṁ, ayye, dve vassāni anubandhissasi, evāhaṁ taṁ vuṭṭhāpessāmī”ti vatvā sā pacchā anantarāyikinī neva vuṭṭhāpeyya, na vuṭṭhāpanāya ussukkaṁ kareyya, pācittiyaṁ.
+121.1\. Tỳ kheo ni nào mắng nhiếc hoặc lăng mạ một tỳ kheo, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 79. Sokāvāsasikkhāpadaṁ
+#### Lỗi Phạm quy định 53: Điều học về lăng mạ nhóm chúng
+*(Gaṇaparibhāsanasikkhāpadaṁ)*
 
-148.1\. Yā pana bhikkhunī purisasaṁsaṭṭhaṁ kumārakasaṁsaṭṭhaṁ caṇḍiṁ sokāvāsaṁ sikkhamānaṁ vuṭṭhāpeyya, pācittiyaṁ.
+122.1\. Tỳ kheo ni nào nổi giận lăng mạ một nhóm chúng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 80. Ananuññātasikkhāpadaṁ
+#### Lỗi Phạm quy định 54: Điều học về ăn thêm sau khi đã từ chối
+*(Pavāritasikkhāpadaṁ)*
 
-149.1\. Yā pana bhikkhunī mātāpitūhi vā sāmikena vā ananuññātaṁ sikkhamānaṁ vuṭṭhāpeyya, pācittiyaṁ.
+123.1\. Tỳ kheo ni nào đã được thỉnh mời ăn hoặc đã ăn xong và từ chối nhận thêm mà vẫn nhai hoặc ăn nữa, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 81. Pārivāsikasikkhāpadaṁ
+#### Lỗi Phạm quy định 55: Điều học về bỏn xẻn gia đình thí chủ
+*(Kulamaccharinīsikkhāpadaṁ)*
 
-150.1\. Yā pana bhikkhunī pārivāsikachandadānena sikkhamānaṁ vuṭṭhāpeyya, pācittiyaṁ.
+124.1\. Tỳ kheo ni nào có tâm bỏn xẻn ích kỷ đối với các gia đình thí chủ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 82. Anuvassasikkhāpadaṁ
+#### Lỗi Phạm quy định 56: Điều học về an cư nơi không có tỳ kheo
+*(Abhikkhukāvāsasikkhāpadaṁ)*
 
-151.1\. Yā pana bhikkhunī anuvassaṁ vuṭṭhāpeyya, pācittiyaṁ.
+125.1\. Tỳ kheo ni nào an cư mùa mưa ở trú xứ không có tỳ kheo, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 83. Ekavassasikkhāpadaṁ
+#### Lỗi Phạm quy định 57: Điều học về không làm lễ tự tứ
+*(Apavāraṇāsikkhāpadaṁ)*
 
-152.1\. Yā pana bhikkhunī ekaṁ vassaṁ dve vuṭṭhāpeyya, pācittiyaṁ.
+126.1\. Tỳ kheo ni nào sau khi an cư xong mà không làm lễ tự tứ trước cả hai *Tăng đoàn* về ba phương diện là điều được thấy, điều được nghe hoặc điều nghi ngờ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-152.2\. Kumāribhūtavaggo aṭṭhamo.
+#### Lỗi Phạm quy định 58: Điều học về không đi nhận giáo giới
+*(Ovādasikkhāpadaṁ)*
 
-### Chattupāhanavaggo
+127.1\. Tỳ kheo ni nào không đi đến để nhận lời giáo giới hoặc để dự *lễ Bố-tát* sống chung, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 84. Chattupāhanasikkhāpadaṁ
+#### Lỗi Phạm quy định 59: Điều học về đến thỉnh giáo giới mỗi nửa tháng
+*(Ovādūpasaṅkamanasikkhāpadaṁ)*
 
-153.1\. Yā pana bhikkhunī agilānā chattupāhanaṁ dhāreyya, pācittiyaṁ.
+128.1\. Mỗi nửa tháng, vị tỳ kheo ni phải mong cầu hai việc từ *Tăng đoàn* tỳ kheo là hỏi ngày *lễ Bố-tát* và đến nhận lời giáo giới. Vị nào bỏ qua việc ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 85. Yānasikkhāpadaṁ
+#### Lỗi Phạm quy định 60: Điều học về chữa nhọt vùng hạ bộ
+*(Pasākhejātasikkhāpadaṁ)*
 
-154.1\. Yā pana bhikkhunī agilānā yānena yāyeyya, pācittiyaṁ.
+129.1\. Tỳ kheo ni nào không xin phép *Tăng đoàn* hoặc nhóm chúng mà một mình cùng với một người đàn ông chích mổ hoặc rạch hoặc rửa hoặc bôi thuốc hoặc băng bó hoặc tháo băng một cái nhọt hay vết thương chảy máu mọc ở vùng hạ bộ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 86. Saṅghāṇisikkhāpadaṁ
+129.2\. Phẩm Tu Viện thứ sáu [đã xong].
 
-155.1\. Yā pana bhikkhunī saṅghāṇiṁ dhāreyya, pācittiyaṁ.
+### Phẩm Phụ Nữ Mang Thai
+*(Gabbhinivaggo)*
 
-#### Pācittiya 87. Itthālaṅkārasikkhāpadaṁ
+#### Lỗi Phạm quy định 61: Điều học về phụ nữ mang thai
+*(Gabbhinīsikkhāpadaṁ)*
 
-156.1\. Yā pana bhikkhunī itthālaṅkāraṁ dhāreyya, pācittiyaṁ.
+130.1\. Tỳ kheo ni nào truyền giới cụ túc cho phụ nữ đang mang thai, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 88. Gandhavaṇṇakasikkhāpadaṁ
+#### Lỗi Phạm quy định 62: Điều học về phụ nữ đang cho con bú
+*(Pāyantīsikkhāpadaṁ)*
 
-157.1\. Yā pana bhikkhunī gandhavaṇṇakena nahāyeyya, pācittiyaṁ.
+131.1\. Tỳ kheo ni nào truyền giới cụ túc cho phụ nữ đang cho con bú, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 89. Vāsitakasikkhāpadaṁ
+#### Lỗi Phạm quy định 63: Điều học thứ nhất về nữ tập sự
+*(Paṭhamasikkhamānasikkhāpadaṁ)*
 
-158.1\. Yā pana bhikkhunī vāsitakena piññākena nahāyeyya, pācittiyaṁ.
+132.1\. Tỳ kheo ni nào truyền giới cụ túc cho một *nữ tập sự* (thức-xoa-ma-na / sikkhamānaṁ) chưa học tập trọn vẹn hai năm trong sáu pháp, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 90. Bhikkhuniummaddāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 64: Điều học thứ hai về nữ tập sự
+*(Dutiyasikkhamānasikkhāpadaṁ)*
 
-159.1\. Yā pana bhikkhunī bhikkhuniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṁ.
+133.1\. Tỳ kheo ni nào truyền giới cụ túc cho một *nữ tập sự* đã học tập hai năm trong sáu pháp nhưng chưa được *Tăng đoàn* chấp thuận, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 91. Sikkhamānaummaddāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 65: Điều học thứ nhất về phụ nữ đã từng lập gia đình
+*(Paṭhamagihigatasikkhāpadaṁ)*
 
-160.1\. Yā pana bhikkhunī sikkhamānāya ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṁ.
+134.1\. Tỳ kheo ni nào truyền giới cụ túc cho phụ nữ đã từng lập gia đình dưới mười hai tuổi, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 92. Sāmaṇerīummaddāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 66: Điều học thứ hai về phụ nữ đã từng lập gia đình
+*(Dutiyagihigatasikkhāpadaṁ)*
 
-161.1\. Yā pana bhikkhunī sāmaṇeriyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṁ.
+135.1\. Tỳ kheo ni nào truyền giới cụ túc cho phụ nữ đã từng lập gia đình đủ mười hai tuổi nhưng chưa học tập trọn vẹn hai năm trong sáu pháp, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 93. Gihiniummaddāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 67: Điều học thứ ba về phụ nữ đã từng lập gia đình
+*(Tatiyagihigatasikkhāpadaṁ)*
 
-162.1\. Yā pana bhikkhunī gihiniyā ummaddāpeyya vā parimaddāpeyya vā, pācittiyaṁ.
+136.1\. Tỳ kheo ni nào truyền giới cụ túc cho phụ nữ đã từng lập gia đình đủ mười hai tuổi đã học tập hai năm trong sáu pháp nhưng chưa được *Tăng đoàn* chấp thuận, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 94. Anāpucchāsikkhāpadaṁ
+#### Lỗi Phạm quy định 68: Điều học thứ nhất về đệ tử đồng trú
+*(Paṭhamasahajīvinīsikkhāpadaṁ)*
 
-163.1\. Yā pana bhikkhunī bhikkhussa purato anāpucchā āsane nisīdeyya, pācittiyaṁ.
+137.1\. Tỳ kheo ni nào truyền giới cụ túc cho một *đệ tử đồng trú* rồi trong hai năm không tự nâng đỡ cũng không nhờ người nâng đỡ vị ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 95. Pañhāpucchanasikkhāpadaṁ
+#### Lỗi Phạm quy định 69: Điều học về không theo hầu ni sư tế độ
+*(Pavattinīnānubandhanasikkhāpadaṁ)*
 
-164.1\. Yā pana bhikkhunī anokāsakataṁ bhikkhuṁ pañhaṁ puccheyya, pācittiyaṁ.
+138.1\. Tỳ kheo ni nào không theo hầu vị *ni sư tế độ* (hòa thượng ni / pavattiniṁ) đã truyền giới cho mình trong hai năm, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 96. Asaṅkaccikasikkhāpadaṁ
+#### Lỗi Phạm quy định 70: Điều học thứ hai về đệ tử đồng trú
+*(Dutiyasahajīvinīsikkhāpadaṁ)*
 
-165.1\. Yā pana bhikkhunī asaṅkaccikā gāmaṁ paviseyya, pācittiyaṁ.
+139.1\. Tỳ kheo ni nào truyền giới cụ túc cho một *đệ tử đồng trú* rồi không đưa vị ấy đi xa hoặc nhờ người đưa vị ấy đi xa ít nhất năm hay sáu do-tuần, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-165.2\. Chattupāhanavaggo navamo.
+139.2\. Phẩm Phụ Nữ Mang Thai thứ bảy [đã xong].
 
-### Musāvādavaggo
+### Phẩm Thiếu Nữ
+*(Kumāribhūtavaggo)*
 
-#### Pācittiya 97. Musāvādasikkhāpadaṁ
+#### Lỗi Phạm quy định 71: Điều học thứ nhất về thiếu nữ
+*(Paṭhamakumāribhūtasikkhāpadaṁ)*
 
-166.1\. Sampajānamusāvāde pācittiyaṁ.
+140.1\. Tỳ kheo ni nào truyền giới cụ túc cho thiếu nữ chưa lập gia đình dưới hai mươi tuổi, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 98. Omasavādasikkhāpadaṁ
+#### Lỗi Phạm quy định 72: Điều học thứ hai về thiếu nữ
+*(Dutiyakumāribhūtasikkhāpadaṁ)*
 
-167.1\. Omasavāde pācittiyaṁ.
+141.1\. Tỳ kheo ni nào truyền giới cụ túc cho thiếu nữ chưa lập gia đình đủ hai mươi tuổi nhưng chưa học tập trọn vẹn hai năm trong sáu pháp, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 99. Pesuññasikkhāpadaṁ
+#### Lỗi Phạm quy định 73: Điều học thứ ba về thiếu nữ
+*(Tatiyakumāribhūtasikkhāpadaṁ)*
 
-168.1\. Bhikkhunipesuññe pācittiyaṁ.
+142.1\. Tỳ kheo ni nào truyền giới cụ túc cho thiếu nữ chưa lập gia đình đủ hai mươi tuổi đã học tập hai năm trong sáu pháp nhưng chưa được *Tăng đoàn* chấp thuận, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 100. Padasodhammasikkhāpadaṁ
+#### Lỗi Phạm quy định 74: Điều học về chưa đủ mười hai hạ
+*(Ūnadvādasavassasikkhāpadaṁ)*
 
-169.1\. Yā pana bhikkhunī anupasampannaṁ padaso dhammaṁ vāceyya, pācittiyaṁ.
+143.1\. Tỳ kheo ni nào chưa đủ mười hai tuổi hạ mà đứng ra truyền giới cụ túc, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 101. Paṭhamasahaseyyasikkhāpadaṁ
+#### Lỗi Phạm quy định 75: Điều học về đủ mười hai hạ nhưng chưa được chấp thuận
+*(Paripuṇṇadvādasavassasikkhāpadaṁ)*
 
-170.1\. Yā pana bhikkhunī anupasampannāya uttaridirattatirattaṁ sahaseyyaṁ kappeyya, pācittiyaṁ.
+144.1\. Tỳ kheo ni nào đủ mười hai tuổi hạ nhưng chưa được *Tăng đoàn* chấp thuận mà đứng ra truyền giới cụ túc, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 102. Dutiyasahaseyyasikkhāpadaṁ
+#### Lỗi Phạm quy định 76: Điều học về càm ràm phàn nàn
+*(Khiyyanadhammasikkhāpadaṁ)*
 
-171.1\. Yā pana bhikkhunī purisena sahaseyyaṁ kappeyya, pācittiyaṁ.
+145.1\. Tỳ kheo ni nào khi được bảo rằng "thưa ni sư, việc ni sư truyền giới như vậy là tạm đủ rồi", sau khi vâng dạ "vâng" mà sau đó lại càm ràm phàn nàn, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 103. Dhammadesanāsikkhāpadaṁ
+#### Lỗi Phạm quy định 77: Điều học thứ nhất về không truyền giới cho nữ tập sự
+*(Paṭhamasikkhamānanavuṭṭhāpanasikkhāpadaṁ)*
 
-172.1\. Yā pana bhikkhunī purisassa uttarichappañcavācāhi dhammaṁ deseyya aññatra viññunā itthiviggahena, pācittiyaṁ.
+146.1\. Tỳ kheo ni nào nói với một *nữ tập sự* rằng "nếu cô cho tôi tấm y, tôi sẽ truyền giới cụ túc cho cô", rồi sau đó dù không có trở ngại gì lại không truyền giới cũng không thu xếp để truyền giới, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 104. Bhūtārocanasikkhāpadaṁ
+#### Lỗi Phạm quy định 78: Điều học thứ hai về không truyền giới cho nữ tập sự
+*(Dutiyasikkhamānanavuṭṭhāpanasikkhāpadaṁ)*
 
-173.1\. Yā pana bhikkhunī anupasampannāya uttarimanussadhammaṁ āroceyya, bhūtasmiṁ pācittiyaṁ.
+147.1\. Tỳ kheo ni nào nói với một *nữ tập sự* rằng "nếu cô theo hầu tôi hai năm, tôi sẽ truyền giới cụ túc cho cô", rồi sau đó dù không có trở ngại gì lại không truyền giới cũng không thu xếp để truyền giới, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 105. Duṭṭhullārocanasikkhāpadaṁ
+#### Lỗi Phạm quy định 79: Điều học về người mang lại sầu khổ
+*(Sokāvāsasikkhāpadaṁ)*
 
-174.1\. Yā pana bhikkhunī bhikkhuniyā duṭṭhullaṁ āpattiṁ anupasampannāya āroceyya aññatra bhikkhunisammutiyā, pācittiyaṁ.
+148.1\. Tỳ kheo ni nào truyền giới cụ túc cho một *nữ tập sự* giao du với đàn ông, giao du với thanh niên, hung dữ và là chỗ trú của sầu khổ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 106. Pathavīkhaṇanasikkhāpadaṁ
+#### Lỗi Phạm quy định 80: Điều học về người chưa được phép
+*(Ananuññātasikkhāpadaṁ)*
 
-175.1\. Yā pana bhikkhunī pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ.
+149.1\. Tỳ kheo ni nào truyền giới cụ túc cho một *nữ tập sự* chưa được cha mẹ hoặc chồng cho phép, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-175.2\. Musāvādavaggo dasamo.
+#### Lỗi Phạm quy định 81: Điều học về lấy đồng thuận qua ngày
+*(Pārivāsikasikkhāpadaṁ)*
 
-### Bhūtagāmavaggo
+150.1\. Tỳ kheo ni nào truyền giới cụ túc cho một *nữ tập sự* bằng cách vận động xin sự đồng thuận để qua ngày, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 107. Bhūtagāmasikkhāpadaṁ
+#### Lỗi Phạm quy định 82: Điều học về truyền giới hàng năm
+*(Anuvassasikkhāpadaṁ)*
 
-176.1\. Bhūtagāmapātabyatāya pācittiyaṁ.
+151.1\. Tỳ kheo ni nào năm nào cũng truyền giới cụ túc, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 108. Aññavādakasikkhāpadaṁ
+#### Lỗi Phạm quy định 83: Điều học về truyền giới hai người trong một năm
+*(Ekavassasikkhāpadaṁ)*
 
-177.1\. Aññavādake, vihesake pācittiyaṁ.
+152.1\. Tỳ kheo ni nào trong một năm truyền giới cụ túc cho hai người, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 109. Ujjhāpanakasikkhāpadaṁ
+152.2\. Phẩm Thiếu Nữ thứ tám [đã xong].
 
-178.1\. Ujjhāpanake, khiyyanake pācittiyaṁ.
+### Phẩm Dù Và Dép
+*(Chattupāhanavaggo)*
 
-#### Pācittiya 110. Paṭhamasenāsanasikkhāpadaṁ
+#### Lỗi Phạm quy định 84: Điều học về dù và dép
+*(Chattupāhanasikkhāpadaṁ)*
 
-179.1\. Yā pana bhikkhunī saṅghikaṁ mañcaṁ vā pīṭhaṁ vā bhisiṁ vā kocchaṁ vā ajjhokāse santharitvā vā santharāpetvā vā taṁ pakkamantī neva uddhareyya, na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.
+153.1\. Tỳ kheo ni nào không bệnh mà sử dụng dù và dép, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 111. Dutiyasenāsanasikkhāpadaṁ
+#### Lỗi Phạm quy định 85: Điều học về đi xe
+*(Yānasikkhāpadaṁ)*
 
-180.1\. Yā pana bhikkhunī saṅghike vihāre seyyaṁ santharitvā vā santharāpetvā vā taṁ pakkamantī neva uddhareyya, na uddharāpeyya, anāpucchaṁ vā gaccheyya, pācittiyaṁ.
+154.1\. Tỳ kheo ni nào không bệnh mà đi bằng xe, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 112. Anupakhajjasikkhāpadaṁ
+#### Lỗi Phạm quy định 86: Điều học về dây thắt lưng trang sức
+*(Saṅghāṇisikkhāpadaṁ)*
 
-181.1\. Yā pana bhikkhunī saṅghike vihāre jānaṁ pubbupagataṁ bhikkhuniṁ anupakhajja seyyaṁ kappeyya, “yassā sambādho bhavissati, sā pakkamissatī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+155.1\. Tỳ kheo ni nào mang dây thắt lưng trang sức, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 113. Nikkaḍḍhanasikkhāpadaṁ
+#### Lỗi Phạm quy định 87: Điều học về đồ trang sức phụ nữ
+*(Itthālaṅkārasikkhāpadaṁ)*
 
-182.1\. Yā pana bhikkhunī bhikkhuniṁ kupitā anattamanā saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ.
+156.1\. Tỳ kheo ni nào đeo đồ trang sức của phụ nữ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 114. Vehāsakuṭisikkhāpadaṁ
+#### Lỗi Phạm quy định 88: Điều học về tắm hương phấn
+*(Gandhavaṇṇakasikkhāpadaṁ)*
 
-183.1\. Yā pana bhikkhunī saṅghike vihāre uparivehāsakuṭiyā āhaccapādakaṁ mañcaṁ vā pīṭhaṁ vā abhinisīdeyya vā abhinipajjeyya vā, pācittiyaṁ.
+157.1\. Tỳ kheo ni nào tắm bằng nước hoa và phấn thơm, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 115. Mahallakavihārasikkhāpadaṁ
+#### Lỗi Phạm quy định 89: Điều học về tắm bã dầu mè ướp hương
+*(Vāsitakasikkhāpadaṁ)*
 
-184.1\. Mahallakaṁ pana bhikkhuniyā vihāraṁ kārayamānāya yāva dvārakosā aggaḷaṭṭhapanāya, ālokasandhiparikammāya dvatticchadanassa pariyāyaṁ appaharite ṭhitāya adhiṭṭhātabbaṁ. Tato ce uttari appaharitepi ṭhitā adhiṭṭhaheyya, pācittiyaṁ.
+158.1\. Tỳ kheo ni nào tắm bằng bã dầu mè có ướp hương, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 116. Sappāṇakasikkhāpadaṁ
+#### Lỗi Phạm quy định 90: Điều học về nhờ tỳ kheo ni xoa bóp
+*(Bhikkhuniummaddāpanasikkhāpadaṁ)*
 
-185.1\. Yā pana bhikkhunī jānaṁ sappāṇakaṁ udakaṁ tiṇaṁ vā mattikaṁ vā siñceyya vā siñcāpeyya vā, pācittiyaṁ.
+159.1\. Tỳ kheo ni nào nhờ tỳ kheo ni khác xoa bóp hoặc đấm bóp cho mình, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-185.2\. Bhūtagāmavaggo ekādasamo.
+#### Lỗi Phạm quy định 91: Điều học về nhờ nữ tập sự xoa bóp
+*(Sikkhamānaummaddāpanasikkhāpadaṁ)*
 
-### Bhojanavaggo
+160.1\. Tỳ kheo ni nào nhờ *nữ tập sự* xoa bóp hoặc đấm bóp cho mình, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 117. Āvasathapiṇḍasikkhāpadaṁ
+#### Lỗi Phạm quy định 92: Điều học về nhờ sa-di ni xoa bóp
+*(Sāmaṇerīummaddāpanasikkhāpadaṁ)*
 
-186.1\. Agilānāya bhikkhuniyā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttari bhuñjeyya, pācittiyaṁ.
+161.1\. Tỳ kheo ni nào nhờ sa-di ni xoa bóp hoặc đấm bóp cho mình, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 118. Gaṇabhojanasikkhāpadaṁ
+#### Lỗi Phạm quy định 93: Điều học về nhờ nữ cư sĩ xoa bóp
+*(Gihiniummaddāpanasikkhāpadaṁ)*
 
-187.1\. Gaṇabhojane aññatra samayā pācittiyaṁ. Tatthāyaṁ samayo, gilānasamayo, cīvaradānasamayo , cīvarakārasamayo, addhānagamanasamayo, nāvābhiruhanasamayo, mahāsamayo, samaṇabhattasamayo, ayaṁ tattha samayo.
+162.1\. Tỳ kheo ni nào nhờ phụ nữ tại gia xoa bóp hoặc đấm bóp cho mình, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 119. Kāṇamātusikkhāpadaṁ
+#### Lỗi Phạm quy định 94: Điều học về ngồi trước mặt tỳ kheo không xin phép
+*(Anāpucchāsikkhāpadaṁ)*
 
-188.1\. Bhikkhuniṁ paneva kulaṁ upagataṁ pūvehi vā manthehi vā abhihaṭṭhuṁ pavāreyya, ākaṅkhamānāya bhikkhuniyā dvattipattapūrā paṭiggahetabbā. Tato ce uttari paṭiggaṇheyya, pācittiyaṁ. Dvattipattapūre paṭiggahetvā tato nīharitvā bhikkhunīhi saddhiṁ saṁvibhajitabbaṁ, ayaṁ tattha sāmīci.
+163.1\. Tỳ kheo ni nào ngồi xuống chỗ ngồi trước mặt một tỳ kheo mà không xin phép, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 120. Vikālabhojanasikkhāpadaṁ
+#### Lỗi Phạm quy định 95: Điều học về hỏi khi chưa được phép
+*(Pañhāpucchanasikkhāpadaṁ)*
 
-189.1\. Yā pana bhikkhunī vikāle khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+164.1\. Tỳ kheo ni nào hỏi câu hỏi với một tỳ kheo khi chưa được vị ấy cho phép, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 121. Sannidhikārakasikkhāpadaṁ
+#### Lỗi Phạm quy định 96: Điều học về vào làng không mặc áo lót ngực
+*(Asaṅkaccikasikkhāpadaṁ)*
 
-190.1\. Yā pana bhikkhunī sannidhikārakaṁ khādanīyaṁ vā bhojanīyaṁ vā khādeyya vā bhuñjeyya vā, pācittiyaṁ.
+165.1\. Tỳ kheo ni nào đi vào làng mà không mặc áo lót ngực, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 122. Dantaponasikkhāpadaṁ
+165.2\. Phẩm Dù Và Dép thứ chín [đã xong].
 
-191.1\. Yā pana bhikkhunī adinnaṁ mukhadvāraṁ āhāraṁ āhareyya aññatra udakadantaponā, pācittiyaṁ.
+### Phẩm Nói Dối
+*(Musāvādavaggo)*
 
-#### Pācittiya 123. Uyyojanasikkhāpadaṁ
+#### Lỗi Phạm quy định 97: Điều học về nói dối
+*(Musāvādasikkhāpadaṁ)*
 
-192.1\. Yā pana bhikkhunī bhikkhuniṁ, “ehāyye, gāmaṁ vā nigamaṁ vā piṇḍāya pavisissāmā”ti tassā dāpetvā vā adāpetvā vā uyyojeyya, “gacchāyye, na me tayā saddhiṁ kathā vā nisajjā vā phāsu hoti, ekikāya me kathā vā nisajjā vā phāsu hotī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+166.1\. Nói *lời nói dối có chủ ý*, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 124. Sabhojanasikkhāpadaṁ
+#### Lỗi Phạm quy định 98: Điều học về nói lời mắng nhiếc
+*(Omasavādasikkhāpadaṁ)*
 
-193.1\. Yā pana bhikkhunī sabhojane kule anupakhajja nisajjaṁ kappeyya, pācittiyaṁ.
+167.1\. Nói lời mắng nhiếc châm chọc, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 125. Rahopaṭicchannasikkhāpadaṁ
+#### Lỗi Phạm quy định 99: Điều học về nói lời chia rẽ
+*(Pesuññasikkhāpadaṁ)*
 
-194.1\. Yā pana bhikkhunī purisena saddhiṁ raho paṭicchanne āsane nisajjaṁ kappeyya, pācittiyaṁ.
+168.1\. Nói lời chia rẽ giữa các tỳ kheo ni, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 126. Rahonisajjasikkhāpadaṁ
+#### Lỗi Phạm quy định 100: Điều học về dạy tụng từng câu
+*(Padasodhammasikkhāpadaṁ)*
 
-195.1\. Yā pana bhikkhunī purisena saddhiṁ ekenekā raho nisajjaṁ kappeyya, pācittiyaṁ.
+169.1\. Tỳ kheo ni nào dạy người chưa thọ giới cụ túc đọc thuộc lòng từng câu *Giáo pháp*, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-195.2\. Bhojanavaggo dvādasamo.
+#### Lỗi Phạm quy định 101: Điều học thứ nhất về ngủ chung
+*(Paṭhamasahaseyyasikkhāpadaṁ)*
 
-### Cārittavaggo
+170.1\. Tỳ kheo ni nào ngủ chung chỗ với người nữ chưa thọ giới cụ túc quá hai hoặc ba đêm, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 127. Cārittasikkhāpadaṁ
+#### Lỗi Phạm quy định 102: Điều học thứ hai về ngủ chung
+*(Dutiyasahaseyyasikkhāpadaṁ)*
 
-196.1\. Yā pana bhikkhunī nimantitā sabhattā samānā santiṁ bhikkhuniṁ anāpucchā purebhattaṁ vā pacchābhattaṁ vā kulesu cārittaṁ āpajjeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo, cīvaradānasamayo, cīvarakārasamayo, ayaṁ tattha samayo.
+171.1\. Tỳ kheo ni nào ngủ chung chỗ với một người đàn ông, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 128. Mahānāmasikkhāpadaṁ
+#### Lỗi Phạm quy định 103: Điều học về thuyết pháp cho nam giới
+*(Dhammadesanāsikkhāpadaṁ)*
 
-197.1\. Agilānāya bhikkhuniyā catumāsappaccayapavāraṇā sāditabbā aññatra punapavāraṇāya, aññatra niccapavāraṇāya. Tato ce uttari sādiyeyya, pācittiyaṁ.
+172.1\. Tỳ kheo ni nào giảng *Giáo pháp* cho một người đàn ông quá năm hoặc sáu câu mà không có người phụ nữ hiểu biết đi cùng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 129. Uyyuttasenāsikkhāpadaṁ
+#### Lỗi Phạm quy định 104: Điều học về kể phẩm chất siêu phàm có thật
+*(Bhūtārocanasikkhāpadaṁ)*
 
-198.1\. Yā pana bhikkhunī uyyuttaṁ senaṁ dassanāya gaccheyya aññatra tathārūpappaccayā, pācittiyaṁ.
+173.1\. Tỳ kheo ni nào kể cho người chưa thọ giới cụ túc về *phẩm chất siêu phàm* của mình, dù là sự thật, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 130. Senāvāsasikkhāpadaṁ
+#### Lỗi Phạm quy định 105: Điều học về tiết lộ lỗi nặng
+*(Duṭṭhullārocanasikkhāpadaṁ)*
 
-199.1\. Siyā ca tassā bhikkhuniyā kocideva paccayo senaṁ gamanāya, dirattatirattaṁ tāya bhikkhuniyā senāya vasitabbaṁ. Tato ce uttari vaseyya, pācittiyaṁ.
+174.1\. Tỳ kheo ni nào kể *lỗi* nặng của một tỳ kheo ni khác cho người chưa thọ giới cụ túc, trừ khi được sự đồng thuận của chúng tỳ kheo ni, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 131. Uyyodhikasikkhāpadaṁ
+#### Lỗi Phạm quy định 106: Điều học về đào đất
+*(Pathavīkhaṇanasikkhāpadaṁ)*
 
-200.1\. Dirattatirattaṁ ce bhikkhunī senāya vasamānā uyyodhikaṁ vā balaggaṁ vā senābyūhaṁ vā anīkadassanaṁ vā gaccheyya, pācittiyaṁ.
+175.1\. Tỳ kheo ni nào tự đào đất hoặc bảo người đào đất, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 132. Surāpānasikkhāpadaṁ
+175.2\. Phẩm Nói Dối thứ mười [đã xong].
 
-201.1\. Surāmerayapāne pācittiyaṁ.
+### Phẩm Thực Vật Sống
+*(Bhūtagāmavaggo)*
 
-#### Pācittiya 133. Aṅgulipatodakasikkhāpadaṁ
+#### Lỗi Phạm quy định 107: Điều học về thực vật sống
+*(Bhūtagāmasikkhāpadaṁ)*
 
-202.1\. Aṅgulipatodake pācittiyaṁ.
+176.1\. Phá hoại thực vật sống, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 134. Hasadhammasikkhāpadaṁ
+#### Lỗi Phạm quy định 108: Điều học về nói lảng tránh
+*(Aññavādakasikkhāpadaṁ)*
 
-203.1\. Udake hasadhamme pācittiyaṁ.
+177.1\. Nói lảng tránh sang chuyện khác hoặc cố tình gây phiền nhiễu [khi bị chất vấn], thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 135. Anādariyasikkhāpadaṁ
+#### Lỗi Phạm quy định 109: Điều học về bêu xấu chê bai
+*(Ujjhāpanakasikkhāpadaṁ)*
 
-204.1\. Anādariye pācittiyaṁ.
+178.1\. Bêu xấu chê bai hoặc càm ràm phàn nàn, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 136. Bhiṁsāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 110: Điều học thứ nhất về giường ghế
+*(Paṭhamasenāsanasikkhāpadaṁ)*
 
-205.1\. Yā pana bhikkhunī bhikkhuniṁ bhiṁsāpeyya, pācittiyaṁ.
+179.1\. Tỳ kheo ni nào tự trải hoặc bảo trải giường hoặc ghế hoặc nệm hoặc gối của *Tăng đoàn* ở ngoài trời, rồi khi bỏ đi không tự dọn cũng không bảo người dọn, hoặc đi mà không báo, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-205.2\. Cārittavaggo terasamo.
+#### Lỗi Phạm quy định 111: Điều học thứ hai về giường ghế
+*(Dutiyasenāsanasikkhāpadaṁ)*
 
-### Jotivaggo
+180.1\. Tỳ kheo ni nào tự trải hoặc bảo trải chỗ nằm trong trú xứ của *Tăng đoàn*, rồi khi bỏ đi không tự dọn cũng không bảo người dọn, hoặc đi mà không báo, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 137. Jotisikkhāpadaṁ
+#### Lỗi Phạm quy định 112: Điều học về chen chỗ nằm
+*(Anupakhajjasikkhāpadaṁ)*
 
-206.1\. Yā pana bhikkhunī agilānā visibbanāpekkhā jotiṁ samādaheyya vā samādahāpeyya vā aññatra tathārūpappaccayā, pācittiyaṁ.
+181.1\. Tỳ kheo ni nào trong trú xứ của *Tăng đoàn*, biết có một tỳ kheo ni khác đã đến ở trước mà cố ý chen vào trải chỗ nằm chỉ lấy chính điều đó làm *điều kiện* (duyên / paccayaṁ), không có lý do nào khác, rằng "ai thấy chật chội thì người đó tự bỏ đi", thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 138. Nahānasikkhāpadaṁ
+#### Lỗi Phạm quy định 113: Điều học về đuổi ra khỏi trú xứ của Tăng đoàn
+*(Nikkaḍḍhanasikkhāpadaṁ)*
 
-207.1\. Yā pana bhikkhunī orenaddhamāsaṁ nahāyeyya aññatra samayā, pācittiyaṁ. Tatthāyaṁ samayo “diyaḍḍho māso seso gimhāna”nti “vassānassa paṭhamo māso” iccete aḍḍhateyyamāsā uṇhasamayo, pariḷāhasamayo, gilānasamayo, kammasamayo, addhānagamanasamayo, vātavuṭṭhisamayo, ayaṁ tattha samayo.
+182.1\. Tỳ kheo ni nào tức giận, bất mãn mà đuổi hoặc bảo người đuổi một tỳ kheo ni khác ra khỏi trú xứ của *Tăng đoàn*, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 139. Dubbaṇṇakaraṇasikkhāpadaṁ
+#### Lỗi Phạm quy định 114: Điều học về nhà gác trên
+*(Vehāsakuṭisikkhāpadaṁ)*
 
-208.1\. Navaṁ pana bhikkhuniyā cīvaralābhāya tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ ādātabbaṁ nīlaṁ vā kaddamaṁ vā kāḷasāmaṁ vā. Anādā ce bhikkhunī tiṇṇaṁ dubbaṇṇakaraṇānaṁ aññataraṁ dubbaṇṇakaraṇaṁ navaṁ cīvaraṁ paribhuñjeyya, pācittiyaṁ.
+183.1\. Tỳ kheo ni nào ở tầng gác trên của một trú xứ thuộc *Tăng đoàn* mà ngồi lên hoặc nằm lên chiếc giường hay chiếc ghế có chân tháo lắp được, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 140. Vikappanasikkhāpadaṁ
+#### Lỗi Phạm quy định 115: Điều học về xây trú xứ lớn
+*(Mahallakavihārasikkhāpadaṁ)*
 
-209.1\. Yā pana bhikkhunī bhikkhussa vā bhikkhuniyā vā sikkhamānāya vā sāmaṇerassa vā sāmaṇeriyā vā sāmaṁ cīvaraṁ vikappetvā apaccuddhāraṇaṁ paribhuñjeyya, pācittiyaṁ.
+184.1\. Tỳ kheo ni khi cho xây dựng một trú xứ lớn thì phải đứng ở nơi không có cây cỏ mà chỉ đạo việc trát khung cửa để lắp chốt, việc sửa sang cửa sổ và việc lợp mái tối đa hai hoặc ba lớp. Vị nào đứng ở nơi không có cây cỏ mà chỉ đạo vượt quá mức ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 141. Apanidhāpanasikkhāpadaṁ
+#### Lỗi Phạm quy định 116: Điều học về nước có sinh vật sống
+*(Sappāṇakasikkhāpadaṁ)*
 
-210.1\. Yā pana bhikkhunī bhikkhuniyā pattaṁ vā cīvaraṁ vā nisīdanaṁ vā sūcigharaṁ vā kāyabandhanaṁ vā apanidheyya vā apanidhāpeyya vā antamaso hasāpekkhāpi, pācittiyaṁ.
+185.1\. Tỳ kheo ni nào biết nước có sinh vật sống mà tự mình tưới hoặc bảo người tưới lên cỏ hoặc đất sét, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 142. Sañciccasikkhāpadaṁ
+185.2\. Phẩm Thực Vật Sống thứ mười một [đã xong].
 
-211.1\. Yā pana bhikkhunī sañcicca pāṇaṁ jīvitā voropeyya, pācittiyaṁ.
+### Phẩm Thức Ăn
+*(Bhojanavaggo)*
 
-#### Pācittiya 143. Sappāṇakasikkhāpadaṁ
+#### Lỗi Phạm quy định 117: Điều học về thức ăn nhà khách
+*(Āvasathapiṇḍasikkhāpadaṁ)*
 
-212.1\. Yā pana bhikkhunī jānaṁ sappāṇakaṁ udakaṁ paribhuñjeyya, pācittiyaṁ.
+186.1\. Tỳ kheo ni không bệnh chỉ được ăn một bữa ăn tại nhà khách công cộng. Nếu ăn vượt quá mức ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 144. Ukkoṭanasikkhāpadaṁ
+#### Lỗi Phạm quy định 118: Điều học về ăn theo nhóm
+*(Gaṇabhojanasikkhāpadaṁ)*
 
-213.1\. Yā pana bhikkhunī jānaṁ yathādhammaṁ nihatādhikaraṇaṁ punakammāya ukkoṭeyya, pācittiyaṁ.
+187.1\. Ăn theo nhóm, trừ trường hợp hợp lệ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*. Trường hợp hợp lệ ở đây là khi bị bệnh, khi dâng y, khi may y, khi đi đường xa, khi đi thuyền, khi có đại hội, khi có bữa ăn sa-môn; đó là trường hợp hợp lệ ở đây.
 
-#### Pācittiya 145. Theyyasatthasikkhāpadaṁ
+#### Lỗi Phạm quy định 119: Điều học về mẹ của Kāṇā
+*(Kāṇamātusikkhāpadaṁ)*
 
-214.1\. Yā pana bhikkhunī jānaṁ theyyasatthena saddhiṁ saṁvidhāya ekaddhānamaggaṁ paṭipajjeyya antamaso gāmantarampi, pācittiyaṁ.
+188.1\. Khi tỳ kheo ni đến một gia đình được mời nhận bánh bột hoặc lương khô, nếu mong muốn thì vị tỳ kheo ni ấy được nhận tối đa hai hoặc ba bát đầy. Nếu nhận vượt quá mức ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*. Sau khi nhận hai hoặc ba bát đầy và mang ra khỏi đó, phải chia sẻ cùng với các tỳ kheo ni khác; đó là quy tắc đúng đắn trong trường hợp này.
 
-#### Pācittiya 146. Ariṭṭhasikkhāpadaṁ
+#### Lỗi Phạm quy định 120: Điều học về ăn phi thời
+*(Vikālabhojanasikkhāpadaṁ)*
 
-215.1\. Yā pana bhikkhunī evaṁ vadeyya: “tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā”ti. Sā bhikkhunī bhikkhunīhi evamassa vacanīyā: “māyye evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya, anekapariyāyenāyye antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. Evañca sā bhikkhunī bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā bhikkhunī bhikkhunīhi yāvatatiyaṁ samanubhāsitabbā tassa paṭinissaggāya. Yāvatatiyañce samanubhāsiyamānā taṁ paṭinissajjeyya, iccetaṁ kusalaṁ. No ce paṭinissajjeyya, pācittiyaṁ.
+189.1\. Tỳ kheo ni nào nhai hoặc ăn đồ ăn nhai hoặc đồ ăn mềm vào phi thời, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-215.9\. Jotivaggo cuddasamo.
+#### Lỗi Phạm quy định 121: Điều học về ăn đồ cất giữ qua đêm
+*(Sannidhikārakasikkhāpadaṁ)*
 
-### Diṭṭhivaggo
+190.1\. Tỳ kheo ni nào nhai hoặc ăn đồ ăn nhai hoặc đồ ăn mềm đã cất giữ qua đêm, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 147. Ukkhittasambhogasikkhāpadaṁ
+#### Lỗi Phạm quy định 122: Điều học về tăm xỉa răng
+*(Dantaponasikkhāpadaṁ)*
 
-216.1\. Yā pana bhikkhunī jānaṁ tathāvādiniyā bhikkhuniyā akaṭānudhammāya taṁ diṭṭhiṁ appaṭinissaṭṭhāya saddhiṁ sambhuñjeyya vā, saṁvaseyya vā, saha vā seyyaṁ kappeyya, pācittiyaṁ.
+191.1\. Tỳ kheo ni nào đưa vào cửa miệng vật ăn uống chưa được dâng, trừ nước và tăm xỉa răng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 148. Kaṇṭakasikkhāpadaṁ
+#### Lỗi Phạm quy định 123: Điều học về đuổi bạn đồng hành
+*(Uyyojanasikkhāpadaṁ)*
 
-217.1\. Samaṇuddesāpi ce evaṁ vadeyya: “tathāhaṁ bhagavatā dhammaṁ desitaṁ ājānāmi, yathā yeme antarāyikā dhammā vuttā bhagavatā, te paṭisevato nālaṁ antarāyāyā”ti. Sā samaṇuddesā bhikkhunīhi evamassa vacanīyā: “māyye, samaṇuddese evaṁ avaca, mā bhagavantaṁ abbhācikkhi, na hi sādhu bhagavato abbhakkhānaṁ, na hi bhagavā evaṁ vadeyya, anekapariyāyenāyye, samaṇuddese antarāyikā dhammā antarāyikā vuttā bhagavatā, alañca pana te paṭisevato antarāyāyā”ti. Evañca sā samaṇuddesā bhikkhunīhi vuccamānā tatheva paggaṇheyya, sā samaṇuddesā bhikkhunīhi evamassa vacanīyā: “ajjatagge te, ayye, samaṇuddese na ceva so bhagavā satthā apadisitabbo, yampi caññā samaṇuddesā labhanti bhikkhunīhi saddhiṁ dirattatirattaṁ sahaseyyaṁ, sāpi te natthi, cara pire, vinassā”ti. Yā pana bhikkhunī jānaṁ tathānāsitaṁ samaṇuddesaṁ upalāpeyya vā, upaṭṭhāpeyya vā, sambhuñjeyya vā, saha vā seyyaṁ kappeyya, pācittiyaṁ.
+192.1\. Tỳ kheo ni nào nói với một tỳ kheo ni khác rằng "này ni sư, hãy cùng đi vào làng hoặc thị trấn khất thực", rồi sau khi bảo người ta cho vị ấy [hoặc chưa cho vị ấy] lại đuổi vị ấy đi chỉ lấy chính điều đó làm *điều kiện*, không có lý do nào khác, rằng "này ni sư, đi đi; tôi nói chuyện hay ngồi cùng với cô không thoải mái, tôi nói chuyện hay ngồi một mình thoải mái hơn", thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 149. Sahadhammikasikkhāpadaṁ
+#### Lỗi Phạm quy định 124: Điều học về ngồi vào chỗ bữa ăn riêng tư
+*(Sabhojanasikkhāpadaṁ)*
 
-218.1\. Yā pana bhikkhunī bhikkhunīhi sahadhammikaṁ vuccamānā evaṁ vadeyya: “na tāvāhaṁ, ayye, etasmiṁ sikkhāpade sikkhissāmi, yāva na aññaṁ bhikkhuniṁ byattaṁ vinayadharaṁ paripucchāmī”ti, pācittiyaṁ. Sikkhamānāya, bhikkhave, bhikkhuniyā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ, ayaṁ tattha sāmīci.
+193.1\. Tỳ kheo ni nào tự ý xen vào ngồi trong một gia đình đang có bữa ăn riêng tư [của đôi vợ chồng], thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 150. Vilekhanasikkhāpadaṁ
+#### Lỗi Phạm quy định 125: Điều học về ngồi nơi vắng vẻ che khuất
+*(Rahopaṭicchannasikkhāpadaṁ)*
 
-219.1\. Yā pana bhikkhunī pātimokkhe uddissamāne evaṁ vadeyya: “kiṁ panimehi khuddānukhuddakehi sikkhāpadehi uddiṭṭhehi, yāvadeva kukkuccāya vihesāya vilekhāya saṁvattantī”ti, sikkhāpadavivaṇṇake pācittiyaṁ.
+194.1\. Tỳ kheo ni nào ngồi riêng với một người đàn ông ở chỗ kín đáo che khuất, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 151. Mohanasikkhāpadaṁ
+#### Lỗi Phạm quy định 126: Điều học về ngồi nơi vắng vẻ
+*(Rahonisajjasikkhāpadaṁ)*
 
-220.1\. Yā pana bhikkhunī anvaddhamāsaṁ pātimokkhe uddissamāne evaṁ vadeyya: “idāneva kho ahaṁ, ayye, jānāmi ayampi kira dhammo suttāgato suttapariyāpanno anvaddhamāsaṁ uddesaṁ āgacchatī”ti, tañce bhikkhuniṁ aññā bhikkhuniyo jāneyyuṁ nisinnapubbaṁ imāya bhikkhuniyā dvattikkhattuṁ pātimokkhe uddissamāne, ko pana vādo bhiyyo, na ca tassā bhikkhuniyā aññāṇakena mutti atthi, yañca tattha āpattiṁ āpannā, tañca yathādhammo kāretabbo, uttari cassā moho āropetabbo: “tassā te, ayye, alābhā, tassā te dulladdhaṁ, yaṁ tvaṁ pātimokkhe uddissamāne na sādhukaṁ aṭṭhiṁ katvā manasi karosī”ti, idaṁ tasmiṁ mohanake pācittiyaṁ.
+195.1\. Tỳ kheo ni nào ngồi riêng một đối một với một người đàn ông ở chỗ vắng vẻ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 152. Pahārasikkhāpadaṁ
+195.2\. Phẩm Thức Ăn thứ mười hai [đã xong].
 
-221.1\. Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā pahāraṁ dadeyya, pācittiyaṁ.
+### Phẩm Thăm Viếng
+*(Cārittavaggo)*
 
-#### Pācittiya 153. Talasattikasikkhāpadaṁ
+#### Lỗi Phạm quy định 127: Điều học về đi thăm viếng các gia đình
+*(Cārittasikkhāpadaṁ)*
 
-222.1\. Yā pana bhikkhunī bhikkhuniyā kupitā anattamanā talasattikaṁ uggireyya, pācittiyaṁ.
+196.1\. Tỳ kheo ni nào đã nhận lời mời dùng bữa mà trước bữa ăn hoặc sau bữa ăn lại đi thăm viếng các gia đình khác không báo cho tỳ kheo ni hiện diện biết, trừ trường hợp hợp lệ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*. Trường hợp hợp lệ ở đây là khi dâng y và khi may y; đó là trường hợp hợp lệ ở đây.
 
-#### Pācittiya 154. Amūlakasikkhāpadaṁ
+#### Lỗi Phạm quy định 128: Điều học về lời mời thỉnh của Mahānāma
+*(Mahānāmasikkhāpadaṁ)*
 
-223.1\. Yā pana bhikkhunī bhikkhuniṁ amūlakena saṅghādisesena anuddhaṁseyya, pācittiyaṁ.
+197.1\. Tỳ kheo ni không bệnh chỉ được chấp nhận lời mời thỉnh dâng *điều kiện vừa đủ* (vật dụng / paccaya) trong bốn tháng, trừ khi được mời lại hoặc mời trọn đời. Nếu chấp nhận vượt quá hạn ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 155. Sañciccasikkhāpadaṁ
+#### Lỗi Phạm quy định 129: Điều học về xem quân đội xuất trận
+*(Uyyuttasenāsikkhāpadaṁ)*
 
-224.1\. Yā pana bhikkhunī bhikkhuniyā sañcicca kukkuccaṁ upadaheyya, “itissā muhuttampi aphāsu bhavissatī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+198.1\. Tỳ kheo ni nào đi xem quân đội xuất trận, trừ khi có *điều kiện* thích hợp như vậy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 156. Upassuti sikkhāpadaṁ
+#### Lỗi Phạm quy định 130: Điều học về ở lại nơi quân đội
+*(Senāvāsasikkhāpadaṁ)*
 
-225.1\. Yā pana bhikkhunī bhikkhunīnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ upassutiṁ tiṭṭheyya, “yaṁ imā bhaṇissanti, taṁ sossāmī”ti etadeva paccayaṁ karitvā anaññaṁ, pācittiyaṁ.
+199.1\. Nếu vị tỳ kheo ni ấy có một *điều kiện* nào đó phải đến nơi quân đội, thì vị tỳ kheo ni ấy chỉ được ở lại tại quân đội hai hoặc ba đêm. Nếu ở lại vượt quá hạn ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-225.2\. Diṭṭhivaggo pannarasamo.
+#### Lỗi Phạm quy định 131: Điều học về xem diễn trận
+*(Uyyodhikasikkhāpadaṁ)*
 
-### Dhammikavaggo
+200.1\. Trong hai hoặc ba đêm ở lại nơi quân đội, nếu tỳ kheo ni đi xem diễn trận hoặc kiểm quân hoặc bày trận hoặc duyệt binh, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 157. Kammappaṭibāhanasikkhāpadaṁ
+#### Lỗi Phạm quy định 132: Điều học về uống rượu
+*(Surāpānasikkhāpadaṁ)*
 
-226.1\. Yā pana bhikkhunī dhammikānaṁ kammānaṁ chandaṁ datvā pacchā khīyanadhammaṁ āpajjeyya, pācittiyaṁ.
+201.1\. Uống rượu nấu và rượu men, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 158. Chandaṁadatvāgamanasikkhāpadaṁ
+#### Lỗi Phạm quy định 133: Điều học về cù lét bằng ngón tay
+*(Aṅgulipatodakasikkhāpadaṁ)*
 
-227.1\. Yā pana bhikkhunī saṅghe vinicchayakathāya vattamānāya chandaṁ adatvā uṭṭhāyāsanā pakkameyya, pācittiyaṁ.
+202.1\. Cù lét bằng ngón tay, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 159. Dubbalasikkhāpadaṁ
+#### Lỗi Phạm quy định 134: Điều học về đùa nghịch dưới nước
+*(Hasadhammasikkhāpadaṁ)*
 
-228.1\. Yā pana bhikkhunī samaggena saṅghena cīvaraṁ datvā pacchā khīyanadhammaṁ āpajjeyya, “yathāsanthutaṁ bhikkhuniyo saṅghikaṁ lābhaṁ pariṇāmentī”ti, pācittiyaṁ.
+203.1\. Đùa nghịch dưới nước, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 160. Pariṇāmanasikkhāpadaṁ
+#### Lỗi Phạm quy định 135: Điều học về thiếu tôn trọng
+*(Anādariyasikkhāpadaṁ)*
 
-229.1\. Yā pana bhikkhunī jānaṁ saṅghikaṁ lābhaṁ pariṇataṁ puggalassa pariṇāmeyya, pācittiyaṁ.
+204.1\. Thiếu tôn trọng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 161. Ratanasikkhāpadaṁ
+#### Lỗi Phạm quy định 136: Điều học về hù dọa
+*(Bhiṁsāpanasikkhāpadaṁ)*
 
-230.1\. Yā pana bhikkhunī ratanaṁ vā ratanasammataṁ vā aññatra ajjhārāmā vā ajjhāvasathā vā uggaṇheyya vā uggaṇhāpeyya vā, pācittiyaṁ. Ratanaṁ vā pana bhikkhuniyā ratanasammataṁ vā ajjhārāme vā ajjhāvasathe vā uggahetvā vā uggahāpetvā vā nikkhipitabbaṁ, “yassa bhavissati, so harissatī”ti, ayaṁ tattha sāmīci.
+205.1\. Tỳ kheo ni nào hù dọa một tỳ kheo ni khác, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 162. Sūcigharasikkhāpadaṁ
+205.2\. Phẩm Thăm Viếng thứ mười ba [đã xong].
 
-231.1\. Yā pana bhikkhunī aṭṭhimayaṁ vā dantamayaṁ vā visāṇamayaṁ vā sūcigharaṁ kārāpeyya, bhedanakaṁ pācittiyaṁ.
+### Phẩm Đốt Lửa
+*(Jotivaggo)*
 
-#### Pācittiya 163. Mañcapīṭhasikkhāpadaṁ
+#### Lỗi Phạm quy định 137: Điều học về đốt lửa
+*(Jotisikkhāpadaṁ)*
 
-232.1\. Navaṁ pana bhikkhuniyā mañcaṁ vā pīṭhaṁ vā kārayamānāya aṭṭhaṅgulapādakaṁ kāretabbaṁ sugataṅgulena aññatra heṭṭhimāya aṭaniyā. Taṁ atikkāmentiyā chedanakaṁ pācittiyaṁ.
+206.1\. Tỳ kheo ni nào không bệnh mà vì muốn sưởi ấm nên tự đốt lửa hoặc bảo người đốt lửa, trừ khi có *điều kiện* thích hợp như vậy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 164. Tūlonaddhasikkhāpadaṁ
+#### Lỗi Phạm quy định 138: Điều học về tắm rửa
+*(Nahānasikkhāpadaṁ)*
 
-233.1\. Yā pana bhikkhunī mañcaṁ vā pīṭhaṁ vā tūlonaddhaṁ kārāpeyya, uddālanakaṁ pācittiyaṁ.
+207.1\. Tỳ kheo ni nào tắm rửa thường xuyên dưới nửa tháng một lần, trừ trường hợp hợp lệ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*. Trường hợp hợp lệ ở đây là khi còn một tháng rưỡi cuối mùa nóng và tháng đầu mùa mưa - tức hai tháng rưỡi mùa nóng - lúc oi bức, lúc bệnh, lúc làm việc, lúc đi đường xa, lúc có gió mưa; đó là trường hợp hợp lệ ở đây.
 
-#### Pācittiya 165. Kaṇḍuppaṭicchādisikkhāpadaṁ
+#### Lỗi Phạm quy định 139: Điều học về làm phai màu đẹp
+*(Dubbaṇṇakaraṇasikkhāpadaṁ)*
 
-234.1\. Kaṇḍuppaṭicchādiṁ pana bhikkhuniyā kārayamānāya pamāṇikā kāretabbā, tatridaṁ pamāṇaṁ, dīghaso catasso vidatthiyo sugatavidatthiyā, tiriyaṁ dve vidatthiyo. Taṁ atikkāmentiyā chedanakaṁ pācittiyaṁ.
+208.1\. Tỳ kheo ni khi nhận được tấm y mới thì phải chọn một trong ba cách làm phai màu đẹp: màu xanh chàm hoặc màu bùn đất hoặc màu đen xám. Nếu tỳ kheo ni sử dụng tấm y mới mà không chọn một trong ba cách làm phai màu đẹp ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Pācittiya 166. Nandasikkhāpadaṁ
+#### Lỗi Phạm quy định 140: Điều học về phân quyền sử dụng y
+*(Vikappanasikkhāpadaṁ)*
 
-235.1\. Yā pana bhikkhunī sugatacīvarappamāṇaṁ cīvaraṁ kārāpeyya, atirekaṁ vā, chedanakaṁ pācittiyaṁ. Tatridaṁ sugatassa sugatacīvarappamāṇaṁ, dīghaso nava vidatthiyo sugatavidatthiyā, tiriyaṁ cha vidatthiyo, idaṁ sugatassa sugatacīvarappamāṇanti.
+209.1\. Tỳ kheo ni nào tự mình gửi gắm phân quyền sử dụng y cho một tỳ kheo hoặc tỳ kheo ni hoặc *nữ tập sự* hoặc sa-di hoặc sa-di ni rồi sử dụng mà chưa hủy bỏ việc gửi gắm ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-235.3\. Dhammikavaggo soḷasamo.
+#### Lỗi Phạm quy định 141: Điều học về cất giấu đồ dùng
+*(Apanidhāpanasikkhāpadaṁ)*
 
-236.1\. Uddiṭṭhā kho, ayyāyo, chasaṭṭhisatā pācittiyā dhammā. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.
+210.1\. Tỳ kheo ni nào tự cất giấu hoặc bảo người cất giấu bát hoặc y hoặc tấm tọa cụ hoặc ống đựng kim hoặc dây thắt lưng của một tỳ kheo ni khác, dù chỉ với ý định đùa vui, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-236.6\. Pācittiyā niṭṭhitā.
+#### Lỗi Phạm quy định 142: Điều học về cố ý tước đoạt mạng sống
+*(Sañciccasikkhāpadaṁ)*
 
-## Pāṭidesanīyā
+211.1\. Tỳ kheo ni nào cố ý tước đoạt mạng sống của một sinh vật, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-237.1\. Ime kho panāyyāyo aṭṭha pāṭidesanīyā dhammā uddesaṁ āgacchanti.
+#### Lỗi Phạm quy định 143: Điều học về dùng nước có sinh vật sống
+*(Sappāṇakasikkhāpadaṁ)*
 
-#### Pāṭidesanīya 1. Sappiviññāpanasikkhāpadaṁ
+212.1\. Tỳ kheo ni nào biết nước có sinh vật sống mà vẫn sử dụng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-238.1\. Yā pana bhikkhunī agilānā sappiṁ viññāpetvā bhuñjeyya, paṭidesetabbaṁ tāya bhikkhuniyā: “gārayhaṁ, ayye, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī”ti.
+#### Lỗi Phạm quy định 144: Điều học về khơi lại vụ việc đã giải quyết
+*(Ukkoṭanasikkhāpadaṁ)*
 
-#### Pāṭidesanīya 2. Telaviññāpanasikkhāpadaṁ
+213.1\. Tỳ kheo ni nào biết một vụ tranh chấp đã được giải quyết đúng pháp mà vẫn khơi lại để xử lý lại, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-239.1\. Yā pana bhikkhunī agilānā telaṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.
+#### Lỗi Phạm quy định 145: Điều học về đi cùng đoàn buôn trốn thuế
+*(Theyyasatthasikkhāpadaṁ)*
 
-#### Pāṭidesanīya 3. Madhuviññāpanasikkhāpadaṁ
+214.1\. Tỳ kheo ni nào biết đó là đoàn buôn gian lận mà hẹn ước đi chung một lộ trình, dù chỉ qua một làng khác, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-240.1\. Yā pana bhikkhunī agilānā madhuṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.
+#### Lỗi Phạm quy định 146: Điều học về quan điểm sai lầm (như Ariṭṭha)
+*(Ariṭṭhasikkhāpadaṁ)*
 
-#### Pāṭidesanīya 4. Phāṇitaviññāpanasikkhāpadaṁ
+215.1\. Tỳ kheo ni nào nói như vầy:
 
-241.1\. Yā pana bhikkhunī agilānā phāṇitaṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.
+– Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng theo cách này: những *điều* gây trở ngại mà Đức Thế Tôn đã nói thực ra không đủ sức gây trở ngại cho người thực hiện chúng!
 
-#### Pāṭidesanīya 5. Macchaviññāpanasikkhāpadaṁ
+Vị tỳ kheo ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-242.1\. Yā pana bhikkhunī agilānā macchaṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.
+– Xin ni sư đừng nói như vậy, đừng vu khống Đức Thế Tôn! Vu khống Đức Thế Tôn là điều không tốt lành, vì Đức Thế Tôn không hề nói như vậy! Thưa ni sư, bằng nhiều cách Đức Thế Tôn đã nói những *điều* gây trở ngại là gây trở ngại, và chúng thực sự đủ sức gây trở ngại cho người thực hiện chúng!
 
-#### Pāṭidesanīya 6. Maṁsaviññāpanasikkhāpadaṁ
+Nếu vị tỳ kheo ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị tỳ kheo ni ấy phải được các tỳ kheo ni khuyên can đến lần thứ ba để từ bỏ việc đó. Nếu được khuyên can đến lần thứ ba mà vị ấy từ bỏ việc đó thì điều này tốt đẹp; nếu không từ bỏ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-243.1\. Yā pana bhikkhunī agilānā maṁsaṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.
+215.9\. Phẩm Đốt Lửa thứ mười bốn [đã xong].
 
-#### Pāṭidesanīya 7. Khīraviññāpanasikkhāpadaṁ
+### Phẩm Quan Điểm
+*(Diṭṭhivaggo)*
 
-244.1\. Yā pana bhikkhunī agilānā khīraṁ viññāpetvā bhuñjeyya …pe… taṁ paṭidesemīti.
+#### Lỗi Phạm quy định 147: Điều học về giao du với người bị đình chỉ
+*(Ukkhittasambhogasikkhāpadaṁ)*
 
-#### Pāṭidesanīya 8. Dadhiviññāpanasikkhāpadaṁ
+216.1\. Tỳ kheo ni nào biết một tỳ kheo ni nói như vậy, chưa thực hành đúng pháp và chưa từ bỏ *quan điểm* (kiến / diṭṭhiṁ) ấy, mà vẫn ăn chung hoặc sống chung hoặc ngủ chung chỗ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-245.1\. Yā pana bhikkhunī agilānā dadhiṁ viññāpetvā bhuñjeyya, paṭidesetabbaṁ tāya bhikkhuniyā: “gārayhaṁ, ayye, dhammaṁ āpajjiṁ asappāyaṁ pāṭidesanīyaṁ, taṁ paṭidesemī”ti.
+#### Lỗi Phạm quy định 148: Điều học về sa-di ni bị trục xuất (như Kaṇṭaka)
+*(Kaṇṭakasikkhāpadaṁ)*
 
-246.1\. Uddiṭṭhā kho, ayyāyo, aṭṭha pāṭidesanīyā dhammā. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.
+217.1\. Nếu một sa-di ni cũng nói như vầy:
 
-246.6\. Pāṭidesanīyā niṭṭhitā.
+– Tôi hiểu *Giáo pháp* do Đức Thế Tôn thuyết giảng theo cách này: những *điều* gây trở ngại mà Đức Thế Tôn đã nói thực ra không đủ sức gây trở ngại cho người thực hiện chúng!
 
-## Sekhiyā
+Vị sa-di ni ấy phải được các tỳ kheo ni nhắc nhở như vầy:
 
-247.1\. Ime kho panāyyāyo, sekhiyā dhammā uddesaṁ āgacchanti.
+– Này sa-di ni, đừng nói như vậy, đừng vu khống Đức Thế Tôn! Vu khống Đức Thế Tôn là điều không tốt lành, vì Đức Thế Tôn không hề nói như vậy! Này sa-di ni, bằng nhiều cách Đức Thế Tôn đã nói những *điều* gây trở ngại là gây trở ngại, và chúng thực sự đủ sức gây trở ngại cho người thực hiện chúng!
 
-### Parimaṇḍalavaggo
+Nếu vị sa-di ni ấy được các tỳ kheo ni nhắc nhở như vậy mà vẫn giữ nguyên thái độ ấy, thì vị sa-di ni ấy phải được các tỳ kheo ni tuyên bố như vầy:
 
-#### Sekhiya 1. Parimaṇḍalasikkhāpadaṁ
+– Này sa-di ni, kể từ hôm nay cô không được nhận Đức Thế Tôn ấy làm Bậc Đạo Sư nữa, và quyền được ngủ chung với các tỳ kheo ni hai hay ba đêm mà các sa-di ni khác có được, cô cũng không còn nữa; hãy đi đi, đồ ngu xuẩn, biến mất đi!
 
-248.1\. Parimaṇḍalaṁ nivāsessāmīti sikkhā karaṇīyā.
+Tỳ kheo ni nào biết rõ vị sa-di ni ấy đã bị trục xuất như thế mà vẫn lôi kéo hoặc cho hầu hạ hoặc ăn chung hoặc ngủ chung chỗ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 2. Dutiyaparimaṇḍalasikkhāpadaṁ
+#### Lỗi Phạm quy định 149: Điều học về việc nói đúng pháp
+*(Sahadhammikasikkhāpadaṁ)*
 
-249.1\. Parimaṇḍalaṁ pārupissāmīti sikkhā karaṇīyā.
+218.1\. Tỳ kheo ni nào khi được các tỳ kheo ni nhắc nhở đúng pháp lại nói rằng "thưa quý ni, tôi sẽ chưa học tập theo *điều học* này chừng nào tôi chưa hỏi một tỳ kheo ni khác sáng suốt và tinh thông giới luật", thì phạm *lỗi Phạm quy định (Ba-dật-đề)*. Này các tỳ kheo, vị tỳ kheo ni đang học tập phải tìm hiểu rõ, phải hỏi han kỹ và phải chất vấn; đó là quy tắc đúng đắn trong trường hợp này.
 
-#### Sekhiya 3. Suppaṭicchannasikkhāpadaṁ
+#### Lỗi Phạm quy định 150: Điều học về gây hoang mang
+*(Vilekhanasikkhāpadaṁ)*
 
-250.1\. Suppaṭicchannā antaraghare gamissāmīti sikkhā karaṇīyā.
+219.1\. Tỳ kheo ni nào khi *Giới bổn* đang được tụng đọc lại nói như vầy:
 
-#### Sekhiya 4. Dutiyasuppaṭicchannasikkhāpadaṁ
+– Nêu lên những *điều học* nhỏ nhặt lặt vặt này làm gì, chúng chỉ đưa đến *hối hận* (hối quá / kukkuccāya), phiền toái và hoang mang thôi!
 
-251.1\. Suppaṭicchannā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Vì lời chê bai *điều học* ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 5. Susaṁvutasikkhāpadaṁ
+#### Lỗi Phạm quy định 151: Điều học về giả vờ không biết
+*(Mohanasikkhāpadaṁ)*
 
-252.1\. Susaṁvutā antaraghare gamissāmīti sikkhā karaṇīyā.
+220.1\. Tỳ kheo ni nào khi *Giới bổn* đang được tụng đọc mỗi nửa tháng lại nói như vầy:
 
-#### Sekhiya 6. Dutiyasusaṁvutasikkhāpadaṁ
+– Thưa quý ni, bây giờ tôi mới biết rằng *Điều* này cũng có trong kinh, nằm trong kinh và được đưa ra tụng đọc mỗi nửa tháng!
 
-253.1\. Susaṁvutā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+Nếu các tỳ kheo ni khác biết vị tỳ kheo ni này đã từng ngồi nghe trong lúc *Giới bổn* được tụng đọc hai hay ba lần, nói chi đến nhiều hơn thế, thì vị tỳ kheo ni ấy không được miễn trách vì sự không biết; *lỗi* nào vị ấy đã phạm tại đó thì phải xử lý đúng pháp đối với *lỗi* ấy, hơn nữa phải quy kết *Sự u mê* cho vị ấy rằng:
 
-#### Sekhiya 7. Okkhittacakkhusikkhāpadaṁ
+– Thưa ni sư, thật thiệt thòi cho ni sư, thật bất hạnh cho ni sư khi *Giới bổn* được tụng đọc mà ni sư không lắng nghe kỹ, không để tâm và không *suy nghĩ đến*!
 
-254.1\. Okkhittacakkhunī antaraghare gamissāmīti sikkhā karaṇīyā.
+Ở đây vì sự giả vờ u mê ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 8. Dutiya-okkhittacakkhusikkhāpadaṁ
+#### Lỗi Phạm quy định 152: Điều học về đánh đập
+*(Pahārasikkhāpadaṁ)*
 
-255.1\. Okkhittacakkhunī antaraghare nisīdissāmīti sikkhā karaṇīyā.
+221.1\. Tỳ kheo ni nào tức giận, bất mãn mà đánh một tỳ kheo ni khác, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 9. Ukkhittakasikkhāpadaṁ
+#### Lỗi Phạm quy định 153: Điều học về giơ tay dọa đánh
+*(Talasattikasikkhāpadaṁ)*
 
-256.1\. Na ukkhittakāya antaraghare gamissāmīti sikkhā karaṇīyā.
+222.1\. Tỳ kheo ni nào tức giận, bất mãn mà giơ bàn tay lên dọa đánh một tỳ kheo ni khác, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 10. Dutiya-ukkhittakasikkhāpadaṁ
+#### Lỗi Phạm quy định 154: Điều học về vu khống không căn cứ
+*(Amūlakasikkhāpadaṁ)*
 
-257.1\. Na ukkhittakāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+223.1\. Tỳ kheo ni nào vu khống không căn cứ một tỳ kheo ni khác phạm *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-257.2\. Parimaṇḍalavaggo paṭhamo.
+#### Lỗi Phạm quy định 155: Điều học về cố ý gây áy náy
+*(Sañciccasikkhāpadaṁ)*
 
-### Ujjagghikavaggo
+224.1\. Tỳ kheo ni nào cố ý gây ra sự *hối hận* áy náy cho một tỳ kheo ni khác chỉ lấy chính điều đó làm *điều kiện*, không có lý do nào khác, rằng "như thế vị ấy sẽ bị khó chịu dù chỉ trong chốc lát", thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 11. Ujjagghikasikkhāpadaṁ
+#### Lỗi Phạm quy định 156: Điều học về nghe lén
+*(Upassuti sikkhāpadaṁ)*
 
-258.1\. Na ujjagghikāya antaraghare gamissāmīti sikkhā karaṇīyā.
+225.1\. Tỳ kheo ni nào đứng nghe lén các tỳ kheo ni đang tranh cãi, cãi vã và bất hòa chỉ lấy chính điều đó làm *điều kiện*, không có lý do nào khác, rằng "họ nói gì ta sẽ nghe hết", thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 12. Dutiya-ujjagghikasikkhāpadaṁ
+225.2\. Phẩm Quan Điểm thứ mười lăm [đã xong].
 
-259.1\. Na ujjagghikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+### Phẩm Đúng Pháp
+*(Dhammikavaggo)*
 
-#### Sekhiya 13. Uccasaddasikkhāpadaṁ
+#### Lỗi Phạm quy định 157: Điều học về phàn nàn sau khi đã đồng thuận
+*(Kammappaṭibāhanasikkhāpadaṁ)*
 
-260.1\. Appasaddā antaraghare gamissāmīti sikkhā karaṇīyā.
+226.1\. Tỳ kheo ni nào đã trao *ý nguyện* đồng thuận cho các tăng sự đúng pháp mà sau đó lại càm ràm phàn nàn, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 14. Dutiya-uccasaddasikkhāpadaṁ
+#### Lỗi Phạm quy định 158: Điều học về bỏ đi không trao sự đồng thuận
+*(Chandaṁadatvāgamanasikkhāpadaṁ)*
 
-261.1\. Appasaddā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+227.1\. Tỳ kheo ni nào khi *Tăng đoàn* đang thảo luận phân xử mà đứng dậy khỏi chỗ ngồi bỏ đi không trao *ý nguyện* đồng thuận, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 15. Kāyappacālakasikkhāpadaṁ
+#### Lỗi Phạm quy định 159: Điều học về phàn nàn việc phân chia của Tăng đoàn
+*(Dubbalasikkhāpadaṁ)*
 
-262.1\. Na kāyappacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.
+228.1\. Tỳ kheo ni nào đã cùng *Tăng đoàn* hòa hợp dâng y rồi sau đó lại càm ràm phàn nàn rằng "các tỳ kheo ni chuyển giao lợi lộc của *Tăng đoàn* theo chỗ quen biết", thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 16. Dutiyakāyappacālakasikkhāpadaṁ
+#### Lỗi Phạm quy định 160: Điều học về chuyển hướng lợi lộc cho cá nhân
+*(Pariṇāmanasikkhāpadaṁ)*
 
-263.1\. Na kāyappacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+229.1\. Tỳ kheo ni nào biết lợi lộc đã được định hướng dành cho *Tăng đoàn* mà lại chuyển hướng về cho một cá nhân, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-#### Sekhiya 17. Bāhuppacālakasikkhāpadaṁ
+#### Lỗi Phạm quy định 161: Điều học về nhặt vật quý giá
+*(Ratanasikkhāpadaṁ)*
 
-264.1\. Na bāhuppacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.
+230.1\. Tỳ kheo ni nào nhặt hoặc bảo người nhặt châu báu hay vật được xem là quý giá, trừ trường hợp ở trong khuôn viên tu viện hoặc ở trong trú xứ, thì phạm *lỗi Phạm quy định (Ba-dật-đề)*. Khi nhặt hoặc bảo người nhặt châu báu hay vật được xem là quý giá ở trong khuôn viên tu viện hoặc ở trong trú xứ, tỳ kheo ni phải cất giữ lại rằng "của ai thì người đó sẽ đến lấy"; đó là quy tắc đúng đắn trong trường hợp này.
 
-#### Sekhiya 18. Dutiyabāhuppacālakasikkhāpadaṁ
+#### Lỗi Phạm quy định 162: Điều học về ống đựng kim
+*(Sūcigharasikkhāpadaṁ)*
 
-265.1\. Na bāhuppacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+231.1\. Tỳ kheo ni nào bảo làm ống đựng kim bằng xương hoặc bằng ngà hoặc bằng sừng, thì phạm *lỗi Phạm quy định (Ba-dật-đề)* phải đập vỡ.
 
-#### Sekhiya 19. Sīsappacālakasikkhāpadaṁ
+#### Lỗi Phạm quy định 163: Điều học về giường và ghế
+*(Mañcapīṭhasikkhāpadaṁ)*
 
-266.1\. Na sīsappacālakaṁ antaraghare gamissāmīti sikkhā karaṇīyā.
+232.1\. Tỳ kheo ni khi bảo làm giường hoặc ghế mới thì chân giường ghế phải làm cao tối đa tám ngón tay theo ngón tay của Đức Thế Tôn, không tính phần khung đỡ bên dưới. Vị nào làm vượt quá mức ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)* phải cắt bỏ.
 
-#### Sekhiya 20. Dutiyasīsappacālakasikkhāpadaṁ
+#### Lỗi Phạm quy định 164: Điều học về nhồi bông gòn
+*(Tūlonaddhasikkhāpadaṁ)*
 
-267.1\. Na sīsappacālakaṁ antaraghare nisīdissāmīti sikkhā karaṇīyā.
+233.1\. Tỳ kheo ni nào bảo làm giường hoặc ghế nhồi bông gòn, thì phạm *lỗi Phạm quy định (Ba-dật-đề)* phải xé bỏ.
 
-267.2\. Ujjagghikavaggo dutiyo.
+#### Lỗi Phạm quy định 165: Điều học về tấm che ghẻ lở
+*(Kaṇḍuppaṭicchādisikkhāpadaṁ)*
 
-### Khambhakatavaggo
+234.1\. Tỳ kheo ni khi bảo may tấm che ghẻ lở thì phải may đúng kích thước; kích thước ở đây là chiều dài bốn gang tay theo gang tay của Đức Thế Tôn, chiều ngang hai gang tay. Vị nào làm vượt quá kích thước ấy, thì phạm *lỗi Phạm quy định (Ba-dật-đề)* phải cắt bỏ.
 
-#### Sekhiya 21. Khambhakatasikkhāpadaṁ
+#### Lỗi Phạm quy định 166: Điều học về kích thước y của Đức Thế Tôn (như Nanda)
+*(Nandasikkhāpadaṁ)*
 
-268.1\. Na khambhakatā antaraghare gamissāmīti sikkhā karaṇīyā.
+235.1\. Tỳ kheo ni nào bảo may y bằng kích thước y của Đức Thế Tôn hoặc lớn hơn nữa, thì phạm *lỗi Phạm quy định (Ba-dật-đề)* phải cắt bỏ. Kích thước y của Đức Thế Tôn là như vầy: chiều dài chín gang tay theo gang tay của Đức Thế Tôn, chiều ngang sáu gang tay; đó là kích thước y của Đức Thế Tôn.
 
-#### Sekhiya 22. Dutiyakhambhakatasikkhāpadaṁ
+235.3\. Phẩm Đúng Pháp thứ mười sáu [đã xong].
 
-269.1\. Na khambhakatā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+236.1\. Thưa quý ni, một trăm sáu mươi sáu *Điều* thuộc *lỗi Phạm quy định (Ba-dật-đề)* đã được tụng đọc xong. Trong phần ấy, tôi xin hỏi quý ni: quý ni có trong sạch không? Lần thứ hai tôi xin hỏi: quý ni có trong sạch không? Lần thứ ba tôi xin hỏi: quý ni có trong sạch không? Quý ni ở đây đều trong sạch nên mới im lặng; tôi xin ghi nhận điều này như vậy.
 
-#### Sekhiya 23. Oguṇṭhitasikkhāpadaṁ
+236.6\. Phần *lỗi Phạm quy định (Ba-dật-đề)* đã kết thúc.
 
-270.1\. Na oguṇṭhitā antaraghare gamissāmīti sikkhā karaṇīyā.
+## Các Điều Nhận Lỗi
+*(Pāṭidesanīyā)*
 
-#### Sekhiya 24. Dutiya-oguṇṭhitasikkhāpadaṁ
+237.1\. Thưa quý ni, tám *Điều* thuộc *nhận lỗi (Ba-la-đề-đề-xá-ni)* (hối quá / pāṭidesanīyā) này được đưa ra tụng đọc.
 
-271.1\. Na oguṇṭhitā antaraghare nisīdissāmīti sikkhā karaṇīyā.
+#### Nhận lỗi 1: Điều học về xin bơ lỏng
+*(Sappiviññāpanasikkhāpadaṁ)*
 
-#### Sekhiya 25. Ukkuṭikasikkhāpadaṁ
+238.1\. Tỳ kheo ni nào không bệnh mà tự xin bơ lỏng để ăn, vị tỳ kheo ni ấy phải trực tiếp thừa nhận rằng:
 
-272.1\. Na ukkuṭikāya antaraghare gamissāmīti sikkhā karaṇīyā.
+– Thưa quý ni, tôi đã phạm một *điều* đáng chê trách, không thích hợp, thuộc *nhận lỗi (Ba-la-đề-đề-xá-ni)*; nay tôi xin thừa nhận điều ấy!
 
-#### Sekhiya 26. Pallatthikasikkhāpadaṁ
+#### Nhận lỗi 2: Điều học về xin dầu
+*(Telaviññāpanasikkhāpadaṁ)*
 
-273.1\. Na pallatthikāya antaraghare nisīdissāmīti sikkhā karaṇīyā.
+239.1\. Tỳ kheo ni nào không bệnh mà tự xin dầu để ăn `[...lặp lại...]` nay tôi xin thừa nhận điều ấy!
 
-#### Sekhiya 27. Sakkaccapaṭiggahaṇasikkhāpadaṁ
+#### Nhận lỗi 3: Điều học về xin mật ong
+*(Madhuviññāpanasikkhāpadaṁ)*
 
-274.1\. Sakkaccaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.
+240.1\. Tỳ kheo ni nào không bệnh mà tự xin mật ong để ăn `[...lặp lại...]` nay tôi xin thừa nhận điều ấy!
 
-#### Sekhiya 28. Pattasaññinīpaṭiggahaṇasikkhāpadaṁ
+#### Nhận lỗi 4: Điều học về xin đường mía
+*(Phāṇitaviññāpanasikkhāpadaṁ)*
 
-275.1\. Pattasaññinī piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.
+241.1\. Tỳ kheo ni nào không bệnh mà tự xin đường mía để ăn `[...lặp lại...]` nay tôi xin thừa nhận điều ấy!
 
-#### Sekhiya 29. Samasūpakapaṭiggahaṇasikkhāpadaṁ
+#### Nhận lỗi 5: Điều học về xin cá
+*(Macchaviññāpanasikkhāpadaṁ)*
 
-276.1\. Samasūpakaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.
+242.1\. Tỳ kheo ni nào không bệnh mà tự xin cá để ăn `[...lặp lại...]` nay tôi xin thừa nhận điều ấy!
 
-#### Sekhiya 30. Samatittikasikkhāpadaṁ
+#### Nhận lỗi 6: Điều học về xin thịt
+*(Maṁsaviññāpanasikkhāpadaṁ)*
 
-277.1\. Samatittikaṁ piṇḍapātaṁ paṭiggahessāmīti sikkhā karaṇīyā.
+243.1\. Tỳ kheo ni nào không bệnh mà tự xin thịt để ăn `[...lặp lại...]` nay tôi xin thừa nhận điều ấy!
 
-277.2\. Khambhakatavaggo tatiyo.
+#### Nhận lỗi 7: Điều học về xin sữa tươi
+*(Khīraviññāpanasikkhāpadaṁ)*
 
-### Sakkaccavaggo
+244.1\. Tỳ kheo ni nào không bệnh mà tự xin sữa tươi để ăn `[...lặp lại...]` nay tôi xin thừa nhận điều ấy!
 
-#### Sekhiya 31. Sakkaccabhuñjanasikkhāpadaṁ
+#### Nhận lỗi 8: Điều học về xin sữa đông
+*(Dadhiviññāpanasikkhāpadaṁ)*
 
-278.1\. Sakkaccaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.
+245.1\. Tỳ kheo ni nào không bệnh mà tự xin sữa đông để ăn, vị tỳ kheo ni ấy phải trực tiếp thừa nhận rằng:
 
-#### Sekhiya 32. Pattasaññinībhuñjanasikkhāpadaṁ
+– Thưa quý ni, tôi đã phạm một *điều* đáng chê trách, không thích hợp, thuộc *nhận lỗi (Ba-la-đề-đề-xá-ni)*; nay tôi xin thừa nhận điều ấy!
 
-279.1\. Pattasaññinī piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.
+246.1\. Thưa quý ni, tám *Điều* thuộc *nhận lỗi (Ba-la-đề-đề-xá-ni)* đã được tụng đọc xong. Trong phần ấy, tôi xin hỏi quý ni: quý ni có trong sạch không? Lần thứ hai tôi xin hỏi: quý ni có trong sạch không? Lần thứ ba tôi xin hỏi: quý ni có trong sạch không? Quý ni ở đây đều trong sạch nên mới im lặng; tôi xin ghi nhận điều này như vậy.
 
-#### Sekhiya 33. Sapadānasikkhāpadaṁ
+246.6\. Phần *nhận lỗi (Ba-la-đề-đề-xá-ni)* đã kết thúc.
 
-280.1\. Sapadānaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.
+## Các Điều Học Ứng Xử
+*(Sekhiyā)*
 
-#### Sekhiya 34. Samasūpakasikkhāpadaṁ
+247.1\. Thưa quý ni, các *Điều* thuộc *điều học ứng xử* (ưng học pháp / sekhiyā) này được đưa ra tụng đọc.
 
-281.1\. Samasūpakaṁ piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.
+### Phẩm Tròn Đều
+*(Parimaṇḍalavaggo)*
 
-#### Sekhiya 35. Na thūpakatasikkhāpadaṁ
+#### Điều học ứng xử 1: Mặc y dưới tròn đều
+*(Parimaṇḍalasikkhāpadaṁ)*
 
-282.1\. Na thūpakato omadditvā piṇḍapātaṁ bhuñjissāmīti sikkhā karaṇīyā.
+248.1\. "Tôi sẽ mặc y dưới tròn đều" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 36. Odanappaṭicchādanasikkhāpadaṁ
+#### Điều học ứng xử 2: Choàng y trên tròn đều
+*(Dutiyaparimaṇḍalasikkhāpadaṁ)*
 
-283.1\. Na sūpaṁ vā byañjanaṁ vā odanena paṭicchādessāmi bhiyyokamyataṁ upādāyāti sikkhā karaṇīyā.
+249.1\. "Tôi sẽ choàng y trên tròn đều" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 37. Sūpodanaviññattisikkhāpadaṁ
+#### Điều học ứng xử 3: Đi trong xóm nhà kín đáo
+*(Suppaṭicchannasikkhāpadaṁ)*
 
-284.1\. Na sūpaṁ vā odanaṁ vā agilānā attano atthāya viññāpetvā bhuñjissāmīti sikkhā karaṇīyā.
+250.1\. "Tôi sẽ đi trong xóm nhà với thân kín đáo" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 38. Ujjhānasaññinīsikkhāpadaṁ
+#### Điều học ứng xử 4: Ngồi trong xóm nhà kín đáo
+*(Dutiyasuppaṭicchannasikkhāpadaṁ)*
 
-285.1\. Na ujjhānasaññinī paresaṁ pattaṁ olokessāmīti sikkhā karaṇīyā.
+251.1\. "Tôi sẽ ngồi trong xóm nhà với thân kín đáo" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 39. Kabaḷasikkhāpadaṁ
+#### Điều học ứng xử 5: Đi trong xóm nhà đoan trang
+*(Susaṁvutasikkhāpadaṁ)*
 
-286.1\. Nātimahantaṁ kabaḷaṁ karissāmīti sikkhā karaṇīyā.
+252.1\. "Tôi sẽ đi trong xóm nhà với cử chỉ thu giữ đoan trang" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 40. Ālopasikkhāpadaṁ
+#### Điều học ứng xử 6: Ngồi trong xóm nhà đoan trang
+*(Dutiyasusaṁvutasikkhāpadaṁ)*
 
-287.1\. Parimaṇḍalaṁ ālopaṁ karissāmīti sikkhā karaṇīyā.
+253.1\. "Tôi sẽ ngồi trong xóm nhà với cử chỉ thu giữ đoan trang" là việc rèn luyện cần phải thực hành.
 
-287.2\. Sakkaccavaggo catuttho.
+#### Điều học ứng xử 7: Đi trong xóm nhà mắt nhìn xuống
+*(Okkhittacakkhusikkhāpadaṁ)*
 
-### Kabaḷavaggo
+254.1\. "Tôi sẽ đi trong xóm nhà với ánh mắt nhìn xuống" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 41. Anāhaṭasikkhāpadaṁ
+#### Điều học ứng xử 8: Ngồi trong xóm nhà mắt nhìn xuống
+*(Dutiya-okkhittacakkhusikkhāpadaṁ)*
 
-288.1\. Na anāhaṭe kabaḷe mukhadvāraṁ vivarissāmīti sikkhā karaṇīyā.
+255.1\. "Tôi sẽ ngồi trong xóm nhà với ánh mắt nhìn xuống" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 42. Bhuñjamānasikkhāpadaṁ
+#### Điều học ứng xử 9: Đi trong xóm nhà không vén y
+*(Ukkhittakasikkhāpadaṁ)*
 
-289.1\. Na bhuñjamānā sabbahatthaṁ mukhe pakkhipissāmīti sikkhā karaṇīyā.
+256.1\. "Tôi sẽ không đi trong xóm nhà khi vén y lên" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 43. Sakabaḷasikkhāpadaṁ
+#### Điều học ứng xử 10: Ngồi trong xóm nhà không vén y
+*(Dutiya-ukkhittakasikkhāpadaṁ)*
 
-290.1\. Na sakabaḷena mukhena byāharissāmīti sikkhā karaṇīyā.
+257.1\. "Tôi sẽ không ngồi trong xóm nhà khi vén y lên" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 44. Piṇḍukkhepakasikkhāpadaṁ
+257.2\. Phẩm Tròn Đều thứ nhất [đã xong].
 
-291.1\. Na piṇḍukkhepakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+### Phẩm Cười Lớn
+*(Ujjagghikavaggo)*
 
-#### Sekhiya 45. Kabaḷāvacchedakasikkhāpadaṁ
+#### Điều học ứng xử 11: Đi trong xóm nhà không cười lớn
+*(Ujjagghikasikkhāpadaṁ)*
 
-292.1\. Na kabaḷāvacchedakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+258.1\. "Tôi sẽ không đi trong xóm nhà mà cười lớn tiếng" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 46. Avagaṇḍakārakasikkhāpadaṁ
+#### Điều học ứng xử 12: Ngồi trong xóm nhà không cười lớn
+*(Dutiya-ujjagghikasikkhāpadaṁ)*
 
-293.1\. Na avagaṇḍakārakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+259.1\. "Tôi sẽ không ngồi trong xóm nhà mà cười lớn tiếng" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 47. Hatthaniddhunakasikkhāpadaṁ
+#### Điều học ứng xử 13: Đi trong xóm nhà ít tiếng động
+*(Uccasaddasikkhāpadaṁ)*
 
-294.1\. Na hatthaniddhunakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+260.1\. "Tôi sẽ đi trong xóm nhà với ít tiếng động" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 48. Sitthāvakārakasikkhāpadaṁ
+#### Điều học ứng xử 14: Ngồi trong xóm nhà ít tiếng động
+*(Dutiya-uccasaddasikkhāpadaṁ)*
 
-295.1\. Na sitthāvakārakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+261.1\. "Tôi sẽ ngồi trong xóm nhà với ít tiếng động" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 49. Jivhānicchārakasikkhāpadaṁ
+#### Điều học ứng xử 15: Đi trong xóm nhà không lắc lư thân
+*(Kāyappacālakasikkhāpadaṁ)*
 
-296.1\. Na jivhānicchārakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+262.1\. "Tôi sẽ không đi trong xóm nhà mà lắc lư thân mình" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 50. Capucapukārakasikkhāpadaṁ
+#### Điều học ứng xử 16: Ngồi trong xóm nhà không lắc lư thân
+*(Dutiyakāyappacālakasikkhāpadaṁ)*
 
-297.1\. Na capucapukārakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+263.1\. "Tôi sẽ không ngồi trong xóm nhà mà lắc lư thân mình" là việc rèn luyện cần phải thực hành.
 
-297.2\. Kabaḷavaggo pañcamo.
+#### Điều học ứng xử 17: Đi trong xóm nhà không vung tay
+*(Bāhuppacālakasikkhāpadaṁ)*
 
-### Surusuruvaggo
+264.1\. "Tôi sẽ không đi trong xóm nhà mà vung tay" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 51. Surusurukārakasikkhāpadaṁ
+#### Điều học ứng xử 18: Ngồi trong xóm nhà không vung tay
+*(Dutiyabāhuppacālakasikkhāpadaṁ)*
 
-298.1\. Na surusurukārakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+265.1\. "Tôi sẽ không ngồi trong xóm nhà mà vung tay" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 52. Hatthanillehakasikkhāpadaṁ
+#### Điều học ứng xử 19: Đi trong xóm nhà không lắc đầu
+*(Sīsappacālakasikkhāpadaṁ)*
 
-299.1\. Na hatthanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+266.1\. "Tôi sẽ không đi trong xóm nhà mà lắc lư đầu" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 53. Pattanillehakasikkhāpadaṁ
+#### Điều học ứng xử 20: Ngồi trong xóm nhà không lắc đầu
+*(Dutiyasīsappacālakasikkhāpadaṁ)*
 
-300.1\. Na pattanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+267.1\. "Tôi sẽ không ngồi trong xóm nhà mà lắc lư đầu" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 54. Oṭṭhanillehakasikkhāpadaṁ
+267.2\. Phẩm Cười Lớn thứ hai [đã xong].
 
-301.1\. Na oṭṭhanillehakaṁ bhuñjissāmīti sikkhā karaṇīyā.
+### Phẩm Chống Nạnh
+*(Khambhakatavaggo)*
 
-#### Sekhiya 55. Sāmisasikkhāpadaṁ
+#### Điều học ứng xử 21: Đi trong xóm nhà không chống nạnh
+*(Khambhakatasikkhāpadaṁ)*
 
-302.1\. Na sāmisena hatthena pānīyathālakaṁ paṭiggahessāmīti sikkhā karaṇīyā.
+268.1\. "Tôi sẽ không đi trong xóm nhà với dáng chống nạnh" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 56. Sasitthakasikkhāpadaṁ
+#### Điều học ứng xử 22: Ngồi trong xóm nhà không chống nạnh
+*(Dutiyakhambhakatasikkhāpadaṁ)*
 
-303.1\. Na sasitthakaṁ pattadhovanaṁ antaraghare chaḍḍessāmīti sikkhā karaṇīyā.
+269.1\. "Tôi sẽ không ngồi trong xóm nhà với dáng chống nạnh" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 57. Chattapāṇisikkhāpadaṁ
+#### Điều học ứng xử 23: Đi trong xóm nhà không trùm đầu
+*(Oguṇṭhitasikkhāpadaṁ)*
 
-304.1\. Na chattapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+270.1\. "Tôi sẽ không đi trong xóm nhà khi trùm đầu" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 58. Daṇḍapāṇisikkhāpadaṁ
+#### Điều học ứng xử 24: Ngồi trong xóm nhà không trùm đầu
+*(Dutiya-oguṇṭhitasikkhāpadaṁ)*
 
-305.1\. Na daṇḍapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+271.1\. "Tôi sẽ không ngồi trong xóm nhà khi trùm đầu" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 59. Satthapāṇisikkhāpadaṁ
+#### Điều học ứng xử 25: Đi trong xóm nhà không nhón gót
+*(Ukkuṭikasikkhāpadaṁ)*
 
-306.1\. Na satthapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+272.1\. "Tôi sẽ không đi trong xóm nhà bằng cách nhón gót" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 60. Āvudhapāṇisikkhāpadaṁ
+#### Điều học ứng xử 26: Ngồi trong xóm nhà không bó gối
+*(Pallatthikasikkhāpadaṁ)*
 
-307.1\. Na āvudhapāṇissa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+273.1\. "Tôi sẽ không ngồi trong xóm nhà theo kiểu bó gối" là việc rèn luyện cần phải thực hành.
 
-307.2\. Surusuruvaggo chaṭṭho.
+#### Điều học ứng xử 27: Trân trọng nhận đồ ăn khất thực
+*(Sakkaccapaṭiggahaṇasikkhāpadaṁ)*
 
-### Pādukavaggo
+274.1\. "Tôi sẽ trân trọng nhận đồ ăn khất thực" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 61. Pādukasikkhāpadaṁ
+#### Điều học ứng xử 28: Chú tâm vào bát khi nhận đồ ăn khất thực
+*(Pattasaññinīpaṭiggahaṇasikkhāpadaṁ)*
 
-308.1\. Na pādukāruḷhassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+275.1\. "Tôi sẽ nhận đồ ăn khất thực với sự chú tâm nhìn vào bát" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 62. Upāhanasikkhāpadaṁ
+#### Điều học ứng xử 29: Nhận canh vừa với cơm
+*(Samasūpakapaṭiggahaṇasikkhāpadaṁ)*
 
-309.1\. Na upāhanāruḷhassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+276.1\. "Tôi sẽ nhận đồ ăn khất thực với lượng canh cân đối cùng cơm" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 63. Yānasikkhāpadaṁ
+#### Điều học ứng xử 30: Nhận ngang bằng miệng bát
+*(Samatittikasikkhāpadaṁ)*
 
-310.1\. Na yānagatassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+277.1\. "Tôi sẽ nhận đồ ăn khất thực ngang bằng miệng bát" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 64. Sayanasikkhāpadaṁ
+277.2\. Phẩm Chống Nạnh thứ ba [đã xong].
 
-311.1\. Na sayanagatassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+### Phẩm Trân Trọng
+*(Sakkaccavaggo)*
 
-#### Sekhiya 65. Pallatthikasikkhāpadaṁ
+#### Điều học ứng xử 31: Trân trọng ăn đồ ăn khất thực
+*(Sakkaccabhuñjanasikkhāpadaṁ)*
 
-312.1\. Na pallatthikāya nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+278.1\. "Tôi sẽ trân trọng ăn đồ ăn khất thực" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 66. Veṭhitasikkhāpadaṁ
+#### Điều học ứng xử 32: Chú tâm vào bát khi ăn
+*(Pattasaññinībhuñjanasikkhāpadaṁ)*
 
-313.1\. Na veṭhitasīsassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+279.1\. "Tôi sẽ ăn đồ ăn khất thực với sự chú tâm nhìn vào bát" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 67. Oguṇṭhitasikkhāpadaṁ
+#### Điều học ứng xử 33: Ăn lần lượt từng phần
+*(Sapadānasikkhāpadaṁ)*
 
-314.1\. Na oguṇṭhitasīsassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+280.1\. "Tôi sẽ ăn đồ ăn khất thực lần lượt từng phần" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 68. Chamāsikkhāpadaṁ
+#### Điều học ứng xử 34: Ăn canh cân đối với cơm
+*(Samasūpakasikkhāpadaṁ)*
 
-315.1\. Na chamāyaṁ nisīditvā āsane nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+281.1\. "Tôi sẽ ăn đồ ăn khất thực với lượng canh cân đối cùng cơm" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 69. Nīcāsanasikkhāpadaṁ
+#### Điều học ứng xử 35: Không bốc ăn từ đỉnh chóp
+*(Na thūpakatasikkhāpadaṁ)*
 
-316.1\. Na nīce āsane nisīditvā ucce āsane nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+282.1\. "Tôi sẽ không bốc dồn từ đỉnh chóp mà ăn đồ ăn khất thực" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 70. Ṭhitāsikkhāpadaṁ
+#### Điều học ứng xử 36: Không lấy cơm đậy lên thức ăn
+*(Odanappaṭicchādanasikkhāpadaṁ)*
 
-317.1\. Na ṭhitā nisinnassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+283.1\. "Tôi sẽ không lấy cơm che đậy canh hoặc thức ăn vì muốn được thêm nhiều" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 71. Pacchatogacchantīsikkhāpadaṁ
+#### Điều học ứng xử 37: Không tự xin canh hoặc cơm khi không bệnh
+*(Sūpodanaviññattisikkhāpadaṁ)*
 
-318.1\. Na pacchato gacchantī purato gacchantassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+284.1\. "Khi không bệnh, tôi sẽ không xin canh hoặc cơm cho riêng mình để ăn" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 72. Uppathenagacchantīsikkhāpadaṁ
+#### Điều học ứng xử 38: Không nhìn bát người khác với ý soi mói
+*(Ujjhānasaññinīsikkhāpadaṁ)*
 
-319.1\. Na uppathena gacchantī pathena gacchantassa agilānassa dhammaṁ desessāmīti sikkhā karaṇīyā.
+285.1\. "Tôi sẽ không nhìn vào bát của người khác với tâm ý soi mói" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 73. Ṭhitāuccārasikkhāpadaṁ
+#### Điều học ứng xử 39: Không vắt miếng cơm quá lớn
+*(Kabaḷasikkhāpadaṁ)*
 
-320.1\. Na ṭhitā agilānā uccāraṁ vā passāvaṁ vā karissāmīti sikkhā karaṇīyā.
+286.1\. "Tôi sẽ không vắt miếng cơm quá lớn" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 74. Hariteuccārasikkhāpadaṁ
+#### Điều học ứng xử 40: Vắt miếng cơm tròn đều
+*(Ālopasikkhāpadaṁ)*
 
-321.1\. Na harite agilānā uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmīti sikkhā karaṇīyā.
+287.1\. "Tôi sẽ vắt miếng cơm tròn đều" là việc rèn luyện cần phải thực hành.
 
-#### Sekhiya 75. Udakeuccārasikkhāpadaṁ
+287.2\. Phẩm Trân Trọng thứ tư [đã xong].
 
-322.1\. Na udake agilānā uccāraṁ vā passāvaṁ vā kheḷaṁ vā karissāmīti sikkhā karaṇīyā.
+### Phẩm Miếng Cơm
+*(Kabaḷavaggo)*
 
-322.2\. Pādukavaggo sattamo.
+#### Điều học ứng xử 41: Không há miệng khi chưa đưa cơm vào
+*(Anāhaṭasikkhāpadaṁ)*
 
-323.1\. Uddiṭṭhā kho, ayyāyo, sekhiyā dhammā. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.
+288.1\. "Tôi sẽ không mở cửa miệng khi miếng cơm chưa đưa tới" là việc rèn luyện cần phải thực hành.
 
-323.6\. Sekhiyā niṭṭhitā.
+#### Điều học ứng xử 42: Không đưa cả bàn tay vào miệng
+*(Bhuñjamānasikkhāpadaṁ)*
 
-## Adhikaraṇasamathā
+289.1\. "Khi đang ăn, tôi sẽ không đưa cả bàn tay vào trong miệng" là việc rèn luyện cần phải thực hành.
 
-324.1\. Ime kho panāyyāyo, satta adhikaraṇasamathā dhammā uddesaṁ āgacchanti.
+#### Điều học ứng xử 43: Không nói khi miệng còn đầy cơm
+*(Sakabaḷasikkhāpadaṁ)*
 
-#### Adhikaraṇasamatha 1
+290.1\. "Tôi sẽ không nói chuyện khi miệng đang ngậm miếng cơm" là việc rèn luyện cần phải thực hành.
 
-325.1\. Sammukhāvinayo dātabbo.
+#### Điều học ứng xử 44: Không tung miếng cơm vào miệng
+*(Piṇḍukkhepakasikkhāpadaṁ)*
 
-#### Adhikaraṇasamatha 2
+291.1\. "Tôi sẽ không ăn theo kiểu tung vắt cơm vào miệng" là việc rèn luyện cần phải thực hành.
 
-326.1\. Sativinayo dātabbo.
+#### Điều học ứng xử 45: Không cắn đứt miếng cơm
+*(Kabaḷāvacchedakasikkhāpadaṁ)*
 
-#### Adhikaraṇasamatha 3
+292.1\. "Tôi sẽ không ăn theo kiểu cắn đứt miếng cơm" là việc rèn luyện cần phải thực hành.
 
-327.1\. Amūḷhavinayo dātabbo.
+#### Điều học ứng xử 46: Không phồng má khi ăn
+*(Avagaṇḍakārakasikkhāpadaṁ)*
 
-#### Adhikaraṇasamatha 4
+293.1\. "Tôi sẽ không ăn theo kiểu phồng má" là việc rèn luyện cần phải thực hành.
 
-328.1\. Paṭiññāya kāretabbaṁ.
+#### Điều học ứng xử 47: Không vẩy tay khi ăn
+*(Hatthaniddhunakasikkhāpadaṁ)*
 
-#### Adhikaraṇasamatha 5
+294.1\. "Tôi sẽ không ăn theo kiểu vẩy tay" là việc rèn luyện cần phải thực hành.
 
-329.1\. Yebhuyyasikā.
+#### Điều học ứng xử 48: Không làm rơi vãi hạt cơm
+*(Sitthāvakārakasikkhāpadaṁ)*
 
-#### Adhikaraṇasamatha 6
+295.1\. "Tôi sẽ không ăn theo kiểu làm rơi vãi hạt cơm" là việc rèn luyện cần phải thực hành.
 
-330.1\. Tassapāpiyasikā.
+#### Điều học ứng xử 49: Không thè lưỡi khi ăn
+*(Jivhānicchārakasikkhāpadaṁ)*
 
-#### Adhikaraṇasamatha 7
+296.1\. "Tôi sẽ không ăn theo kiểu thè lưỡi ra" là việc rèn luyện cần phải thực hành.
 
-331.1\. Tiṇavatthārakoti.
+#### Điều học ứng xử 50: Không nhai chóp chép
+*(Capucapukārakasikkhāpadaṁ)*
 
-332.1\. Uddiṭṭhā kho ayyāyo satta adhikaraṇasamathā dhammā. Tatthāyyāyo pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyyāyo, tasmā tuṇhī, evametaṁ dhārayāmīti.
+297.1\. "Tôi sẽ không ăn theo kiểu nhai phát ra tiếng chóp chép" là việc rèn luyện cần phải thực hành.
 
-332.6\. Adhikaraṇasamathā niṭṭhitā.
+297.2\. Phẩm Miếng Cơm thứ năm [đã xong].
 
-333.1\. Uddiṭṭhaṁ kho ayyāyo nidānaṁ uddiṭṭhā aṭṭha pārājikā dhammā, uddiṭṭhā sattarasa saṅghādisesā dhammā, uddiṭṭhā tiṁsa nissaggiyā pācittiyā dhammā, uddiṭṭhā chasaṭṭhi satā pācittiyā dhammā, uddiṭṭhā aṭṭha pāṭidesanīyā dhammā, uddiṭṭhā sekhiyā dhammā, uddiṭṭhā satta adhikaraṇasamathā dhammā. Ettakaṁ tassa bhagavato suttāgataṁ suttapariyāpannaṁ anvaddhamāsaṁ uddesaṁ āgacchati. Tattha sabbāheva samaggāhi sammodamānāhi avivadamānāhi sikkhitabbanti.
+### Phẩm Húp Sột Soạt
+*(Surusuruvaggo)*
 
-333.11\. Vitthāruddeso catuttho.
+#### Điều học ứng xử 51: Không húp sột soạt
+*(Surusurukārakasikkhāpadaṁ)*
 
-333.12\. Bhikkhunipātimokkhaṁ niṭṭhitaṁ.
+298.1\. "Tôi sẽ không ăn theo kiểu húp phát ra tiếng sột soạt" là việc rèn luyện cần phải thực hành.
 
-333.13\. Namo tassa bhagavato arahato sammāsambuddhassa
+#### Điều học ứng xử 52: Không liếm tay
+*(Hatthanillehakasikkhāpadaṁ)*
+
+299.1\. "Tôi sẽ không ăn theo kiểu liếm tay" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 53: Không liếm bát
+*(Pattanillehakasikkhāpadaṁ)*
+
+300.1\. "Tôi sẽ không ăn theo kiểu liếm bát" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 54: Không liếm môi
+*(Oṭṭhanillehakasikkhāpadaṁ)*
+
+301.1\. "Tôi sẽ không ăn theo kiểu liếm môi" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 55: Không cầm bình nước bằng tay dính thức ăn
+*(Sāmisasikkhāpadaṁ)*
+
+302.1\. "Tôi sẽ không nhận bình nước uống bằng bàn tay còn dính thức ăn" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 56: Không đổ nước rửa bát có hạt cơm trong xóm nhà
+*(Sasitthakasikkhāpadaṁ)*
+
+303.1\. "Tôi sẽ không đổ nước rửa bát có lẫn hạt cơm ở trong xóm nhà" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 57: Không thuyết pháp cho người cầm dù
+*(Chattapāṇisikkhāpadaṁ)*
+
+304.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà tay đang cầm dù" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 58: Không thuyết pháp cho người cầm gậy
+*(Daṇḍapāṇisikkhāpadaṁ)*
+
+305.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà tay đang cầm gậy" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 59: Không thuyết pháp cho người cầm dao gươm
+*(Satthapāṇisikkhāpadaṁ)*
+
+306.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà tay đang cầm dao gươm" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 60: Không thuyết pháp cho người cầm vũ khí
+*(Āvudhapāṇisikkhāpadaṁ)*
+
+307.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà tay đang cầm vũ khí" là việc rèn luyện cần phải thực hành.
+
+307.2\. Phẩm Húp Sột Soạt thứ sáu [đã xong].
+
+### Phẩm Guốc Dép
+*(Pādukavaggo)*
+
+#### Điều học ứng xử 61: Không thuyết pháp cho người mang guốc
+*(Pādukasikkhāpadaṁ)*
+
+308.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà đang mang guốc" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 62: Không thuyết pháp cho người mang dép
+*(Upāhanasikkhāpadaṁ)*
+
+309.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà đang mang giày dép" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 63: Không thuyết pháp cho người đi xe
+*(Yānasikkhāpadaṁ)*
+
+310.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà đang ngồi trên xe" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 64: Không thuyết pháp cho người nằm trên giường
+*(Sayanasikkhāpadaṁ)*
+
+311.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà đang nằm trên giường" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 65: Không thuyết pháp cho người ngồi bó gối
+*(Pallatthikasikkhāpadaṁ)*
+
+312.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà đang ngồi bó gối" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 66: Không thuyết pháp cho người quấn khăn đầu
+*(Veṭhitasikkhāpadaṁ)*
+
+313.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà đang quấn khăn trên đầu" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 67: Không thuyết pháp cho người trùm kín đầu
+*(Oguṇṭhitasikkhāpadaṁ)*
+
+314.1\. "Tôi sẽ không giảng *Giáo pháp* cho người không bệnh mà đang trùm kín đầu" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 68: Không ngồi dưới đất thuyết pháp cho người ngồi ghế
+*(Chamāsikkhāpadaṁ)*
+
+315.1\. "Tôi sẽ không ngồi dưới đất mà giảng *Giáo pháp* cho người không bệnh đang ngồi trên ghế" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 69: Không ngồi chỗ thấp thuyết pháp cho người ngồi chỗ cao
+*(Nīcāsanasikkhāpadaṁ)*
+
+316.1\. "Tôi sẽ không ngồi ở chỗ thấp mà giảng *Giáo pháp* cho người không bệnh đang ngồi ở chỗ cao" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 70: Không đứng thuyết pháp cho người ngồi
+*(Ṭhitāsikkhāpadaṁ)*
+
+317.1\. "Tôi sẽ không đứng mà giảng *Giáo pháp* cho người không bệnh đang ngồi" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 71: Không đi sau thuyết pháp cho người đi trước
+*(Pacchatogacchantīsikkhāpadaṁ)*
+
+318.1\. "Tôi sẽ không đi phía sau mà giảng *Giáo pháp* cho người không bệnh đang đi phía trước" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 72: Không đi ngoài lề đường thuyết pháp cho người đi trên đường
+*(Uppathenagacchantīsikkhāpadaṁ)*
+
+319.1\. "Tôi sẽ không đi ngoài lề đường mà giảng *Giáo pháp* cho người không bệnh đang đi trên đường" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 73: Không đứng đi đại tiện hay tiểu tiện
+*(Ṭhitāuccārasikkhāpadaṁ)*
+
+320.1\. "Khi không bệnh, tôi sẽ không đứng mà đi đại tiện hoặc tiểu tiện" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 74: Không đi đại tiện, tiểu tiện hoặc khạc nhổ lên cỏ xanh
+*(Hariteuccārasikkhāpadaṁ)*
+
+321.1\. "Khi không bệnh, tôi sẽ không đi đại tiện hoặc tiểu tiện hoặc khạc nhổ lên cỏ xanh" là việc rèn luyện cần phải thực hành.
+
+#### Điều học ứng xử 75: Không đi đại tiện, tiểu tiện hoặc khạc nhổ xuống nước
+*(Udakeuccārasikkhāpadaṁ)*
+
+322.1\. "Khi không bệnh, tôi sẽ không đi đại tiện hoặc tiểu tiện hoặc khạc nhổ xuống nước" là việc rèn luyện cần phải thực hành.
+
+322.2\. Phẩm Guốc Dép thứ bảy [đã xong].
+
+323.1\. Thưa quý ni, các *Điều* thuộc *điều học ứng xử* đã được tụng đọc xong. Trong phần ấy, tôi xin hỏi quý ni: quý ni có trong sạch không? Lần thứ hai tôi xin hỏi: quý ni có trong sạch không? Lần thứ ba tôi xin hỏi: quý ni có trong sạch không? Quý ni ở đây đều trong sạch nên mới im lặng; tôi xin ghi nhận điều này như vậy.
+
+323.6\. Phần *điều học ứng xử* đã kết thúc.
+
+## Các Pháp Dàn Xếp Tranh Chấp
+*(Adhikaraṇasamathā)*
+
+324.1\. Thưa quý ni, bảy *Điều* thuộc *pháp dàn xếp tranh chấp* (diệt tránh pháp / adhikaraṇasamathā) này được đưa ra tụng đọc.
+
+#### Pháp dàn xếp tranh chấp 1
+325.1\. Cần phải áp dụng cách xử lý trực tiếp có mặt các bên.
+
+#### Pháp dàn xếp tranh chấp 2
+326.1\. Cần phải áp dụng cách xử lý bằng trí nhớ trong sạch.
+
+#### Pháp dàn xếp tranh chấp 3
+327.1\. Cần phải áp dụng cách xử lý cho người đã hết điên loạn.
+
+#### Pháp dàn xếp tranh chấp 4
+328.1\. Cần phải thực hiện theo lời tự thú nhận.
+
+#### Pháp dàn xếp tranh chấp 5
+329.1\. Cách xử lý theo quyết định đa số.
+
+#### Pháp dàn xếp tranh chấp 6
+330.1\. Cách xử lý đối với người ngoan cố gian dối.
+
+#### Pháp dàn xếp tranh chấp 7
+331.1\. Cách hòa giải như lấy cỏ che lấp.
+
+332.1\. Thưa quý ni, bảy *Điều* thuộc *pháp dàn xếp tranh chấp* đã được tụng đọc xong. Trong phần ấy, tôi xin hỏi quý ni: quý ni có trong sạch không? Lần thứ hai tôi xin hỏi: quý ni có trong sạch không? Lần thứ ba tôi xin hỏi: quý ni có trong sạch không? Quý ni ở đây đều trong sạch nên mới im lặng; tôi xin ghi nhận điều này như vậy.
+
+332.6\. Phần *pháp dàn xếp tranh chấp* đã kết thúc.
+
+333.1\. Thưa quý ni, Phần Mở Đầu đã được tụng đọc xong, tám *Điều* thuộc *lỗi Trục xuất (Ba-la-di)* đã được tụng đọc xong, mười bảy *Điều* thuộc *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)* đã được tụng đọc xong, ba mươi *Điều* thuộc *lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề)* đã được tụng đọc xong, một trăm sáu mươi sáu *Điều* thuộc *lỗi Phạm quy định (Ba-dật-đề)* đã được tụng đọc xong, tám *Điều* thuộc *nhận lỗi (Ba-la-đề-đề-xá-ni)* đã được tụng đọc xong, các *Điều* thuộc *điều học ứng xử* đã được tụng đọc xong, bảy *Điều* thuộc *pháp dàn xếp tranh chấp* đã được tụng đọc xong. Bấy nhiêu *Điều* của Đức Thế Tôn đã có trong kinh, nằm trong kinh và được đưa ra tụng đọc mỗi nửa tháng. Trong những *điều* ấy, tất cả quý ni hãy cùng nhau hòa hợp, hoan hỷ, không tranh cãi mà rèn luyện học tập.
+
+333.11\. Phần tụng đọc chi tiết thứ tư [đã xong].
+
+333.12\. Giới Bổn Tỳ Kheo Ni đã kết thúc.
+
+333.13\. Kính lễ Đức Thế Tôn, bậc A-la-hán, Đấng Chánh Đẳng Giác.
+
+---
+### Bối cảnh kinh:
+*Giới Bổn Tỳ Kheo Ni* (*Bhikkhunīpātimokkhapāḷi*) là bộ quy tắc kỷ luật cốt lõi gồm 311 *điều học* dành riêng cho *Tăng đoàn* tỳ kheo ni, được tụng đọc định kỳ mỗi nửa tháng trong *lễ Bố-tát* để tự kiểm điểm và duy trì sự hòa hợp, trong sạch của đời sống xuất gia.
+
+### Ghi chú tài liệu:
+- Toàn bộ các *điều học* trong *Giới Bổn Tỳ Kheo Ni* là bản trích yếu từ phần phân tích giới luật của Ni đoàn (*Bhikkhunīvibhaṅga*) trong Luật tạng (*Vinaya Piṭaka*), xem các mã tham chiếu theo từng nhóm tội: [Bi. Pj 1–8](/l?q=bi-pj-1), [Bi. Ss 1–17](/l?q=bi-ss-1), [Bi. Np 1–30](/l?q=bi-np-1), [Bi. Pc 1–166](/l?q=bi-pc-1), [Bi. Pd 1–8](/l?q=bi-pd-1), [Bi. Sk 1–75](/l?q=bi-sk-1), [Bi. As 1–7](/l?q=bi-as-1).
+- Đối chiếu với 227 điều của *Giới Bổn Tỳ Kheo* (*Bhikkhupātimokkha*, xem [Bu. Pj 1–4](/l?q=bu-pj-1)): *Giới Bổn Tỳ Kheo Ni* có thêm 4 điều *Trục xuất* (`Pārājika`), 10 điều *Tăng xử lý* (`Saṅghādisesa`), 12 điều *Phạm vật chất* (`Nissaggiya pācittiya`), 90 điều *Phạm quy định* (`Pācittiya`), 8 điều *Nhận lỗi* (`Pāṭidesanīya`), không có 2 điều *Bất định* (`Aniyata`), giữ nguyên 75 điều *học ứng xử* (`Sekhiya`) và 7 *pháp dàn xếp tranh chấp* (`Adhikaraṇasamatha`).
+- Ba bài kệ mở đầu (`Pubbakaraṇa`, `Pubbakicca`, `Pattakallaṅgā`) và câu thỉnh đọc (`4.1`) là phần nghi thức thực hành phụng sự buổi *lễ Bố-tát* được kết tập ở đầu văn bản tụng đọc.
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [!] pātimokkha | Giới bổn | ba-la-đề-mộc-xoa | Bộ quy tắc kỷ luật cốt lõi được tụng đọc định kỳ. |
+| [!] uposatha | lễ Bố-tát | bố-tát | Ngày họp Tăng đoàn định kỳ mỗi nửa tháng để tụng giới. |
+| [!] saṅgha | Tăng đoàn | tăng-già | Hội chúng các vị xuất gia. |
+| [!] pattakalla | hợp thời điểm | hợp thời nghi | Đủ điều kiện đúng lúc để cử hành tăng sự. |
+| [!] pārisuddhi | sự trong sạch | thanh tịnh | Trạng thái không vướng lỗi kỷ luật. |
+| manasikāra | suy nghĩ đến | tác ý | Trong `manasi karoma` (chú tâm suy xét). |
+| [!] āpatti | lỗi | tội | Sự vi phạm một quy định kỷ luật. |
+| [!] sampajānamusāvāda | lời nói dối có chủ ý | cố ý vọng ngữ | Biết rõ sự thật mà vẫn cố tình nói sai. |
+| dhamma | Điều; Giáo pháp | pháp | Chỉ quy định/hiện tượng (`dhammā`) hoặc lời dạy (`dhamma`). |
+| pārājika | lỗi Trục xuất (Ba-la-di) | ba-la-di (khí tội) | Nhóm 8 lỗi nặng nhất dẫn đến mất tư cách tỳ kheo ni. |
+| [!] avassutā | bị kích thích dục tình | bị nhiễm dục | Trạng thái tâm-sinh-lý bị thôi thúc bởi ham muốn tình dục. |
+| saṅghādisesa | lỗi Tăng xử lý (Tăng-già-bà-thi-sa) | tăng tàn | Nhóm 17 lỗi cần Tăng đoàn xử lý và thực hành biệt trú. |
+| chanda | ý nguyện | dục | Sự đồng thuận ủy nhiệm hoặc thiên vị theo ưa thích. |
+| dosa | ám ảnh khó chịu | sân | Sân hận, ác ý. |
+| moha | Sự u mê | si | Si mê hoặc giả vờ không biết. |
+| dukkha | đau khổ | khổ | Khổ đau nói chung. |
+| viveka | rời bỏ | viễn ly | Tách rời khỏi sự tụ tập. |
+| nissaggiya pācittiya | lỗi Phạm vật chất (Ni-tát-kỳ Ba-dật-đề) | xả đọa | Nhóm 30 lỗi liên quan đến vật chất phải xả bỏ trước khi sám hối. |
+| pācittiya | lỗi Phạm quy định (Ba-dật-đề) | ba-dật-đề | Nhóm 166 lỗi vi phạm quy định thông thường. |
+| [!] sahajīvinī | đệ tử đồng trú | đồng trú đệ tử | Người đệ tử sống chung và được thầy tế độ hướng dẫn. |
+| [!] sikkhamānā | nữ tập sự | thức-xoa-ma-na | Người nữ đang trong hai năm tập sự sáu pháp trước khi thọ cụ túc. |
+| [!] pavattinī | ni sư tế độ | hòa thượng ni | Vị ni sư đứng ra truyền giới cụ túc cho đệ tử. |
+| paccaya | điều kiện; điều kiện vừa đủ | duyên | Duyên cớ (`paccayaṁ karitvā`) hoặc vật dụng cần thiết (`catumāsappaccaya`). |
+| [!] diṭṭhi | quan điểm | kiến | Quan điểm sai lạc cần từ bỏ. |
+| kukkucca | hối hận | hối quá | Sự áy náy, day dứt trong tâm. |
+| pāṭidesanīya | nhận lỗi (Ba-la-đề-đề-xá-ni) | hối quá | Nhóm 8 lỗi cần trực tiếp thừa nhận trước vị khác. |
+| [!] sekhiya | điều học ứng xử | ưng học pháp | Nhóm 75 quy tắc rèn luyện oai nghi, phép tắc sinh hoạt. |
+| [!] adhikaraṇasamatha | pháp dàn xếp tranh chấp | diệt tránh pháp | Nhóm 7 phương pháp giải quyết tranh chấp trong Tăng đoàn. |
+

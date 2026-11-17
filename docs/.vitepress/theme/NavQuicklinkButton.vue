@@ -29,39 +29,39 @@
 
 <script setup>
 
-// import { onMounted, onUnmounted } from 'vue'
-// import { useRouter, useData } from 'vitepress'
+import { onMounted, onUnmounted } from 'vue'
+import { useRouter } from 'vitepress'
 
-// const router = useRouter()
+const router = useRouter()
 // const { page } = useData()
 
-// const gotoQuicklink = () => {
-//   const currentPath = window.location.pathname
-//   const currentFull = window.location.pathname + window.location.search + window.location.hash
+const gotoQuicklink = () => {
+  const currentPath = window.location.pathname
+  const currentFull = window.location.pathname + window.location.search + window.location.hash
 
-//   // Tránh lưu đè nếu đã ở trang search
-//   if (!currentPath.endsWith('/search') && !currentPath.endsWith('/search.html')) {
-//     localStorage.setItem('search-back-url', currentFull)
-//   }
-//   router.go('/l')
-// }
+  // Tránh lưu đè nếu đã ở trang search
+  if (!currentPath.endsWith('/l') && !currentPath.endsWith('/search.html')) {
+    localStorage.setItem('quicklink-back-url', currentFull)
+  }
+  router.go('/l')
+}
 
-// const handleKeydown = (e) => {
-//   // Cmd+K or Ctrl+K to go to search
-//   if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-//     e.preventDefault()
-//     gotoQuicklink()
-//   }
-//   // Esc trên trang search được SearchPage.vue tự xử lý (clear query → goBack)
-// }
+const handleKeydown = (e) => {
+  // Cmd+K or Ctrl+K to go to search
+  if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+    e.preventDefault()
+    gotoQuicklink()
+  }
+  // Esc trên trang search được SearchPage.vue tự xử lý (clear query → goBack)
+}
 
-// onMounted(() => {
-//   window.addEventListener('keydown', handleKeydown)
-// })
+onMounted(() => {
+  window.addEventListener('keydown', handleKeydown)
+})
 
-// onUnmounted(() => {
-//   window.removeEventListener('keydown', handleKeydown)
-// })
+onUnmounted(() => {
+  window.removeEventListener('keydown', handleKeydown)
+})
 </script>
 
 <style scoped>

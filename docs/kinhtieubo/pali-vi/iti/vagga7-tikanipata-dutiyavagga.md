@@ -1,284 +1,318 @@
-# 7. Dutiyavagga
+---
+description: Phẩm thứ hai thuộc Chương Ba Pháp của Kinh Phật Thuyết Như Vậy (Itivuttaka, từ ITI 60 đến ITI 69), giảng về các nhóm ba pháp từ nền tảng tạo phước, ba loại mắt, ba sức mạnh tinh thần, ba thời kỳ, cho đến sự chuyển hóa ba nghiệp và từ bỏ ba gốc rễ bất thiện để vượt thoát biển khổ.
+---
+# BA PHÁP - PHẨM 2
+*(Tikanipāta)*
 
-## ITI 60. Tikanipāta
 
-0\. Dutiyavagga
+<!--pg-->
+## 7. PHẨM THỨ HAI
+*(Dutiyavagga)*
 
-## Puññakiriyavatthusutta
+### ITI 60. Kinh Nền Tảng Tạo Phước
+*(Puññakiriyavatthusutta)*
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-2\. “Tīṇimāni, bhikkhave, puññakiriyavatthūni. Katamāni tīṇi? Dānamayaṁ puññakiriyavatthu, sīlamayaṁ puññakiriyavatthu, bhāvanāmayaṁ puññakiriyavatthu—imāni kho, bhikkhave, tīṇi puññakiriyavatthūnī”ti.
+2\. “Này các tỳ kheo, có ba *nền tảng tạo phước* (phước nghiệp sự / puññakiriyavatthūni) này. Ba [nền tảng] nào? *Nền tảng tạo phước từ việc bố thí* (bố thí phước nghiệp sự / dānamayaṁ puññakiriyavatthu), *nền tảng tạo phước từ lối sống đạo đức* (trì giới phước nghiệp sự / sīlamayaṁ puññakiriyavatthu), *nền tảng tạo phước từ sự rèn luyện tâm* (tu tập phước nghiệp sự / bhāvanāmayaṁ puññakiriyavatthu) - này các tỳ kheo, đây là ba *nền tảng tạo phước*”.
 
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Puññameva so sikkheyya,\
-> āyataggaṁ sukhudrayaṁ;\
-> Dānañca samacariyañca,\
-> mettacittañca bhāvaye.
-
-4\.
-> Ete dhamme bhāvayitvā,\
-> tayo sukhasamuddaye;\
-> Abyābajjhaṁ sukhaṁ lokaṁ,\
-> paṇḍito upapajjatī”ti.
-
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Paṭhamaṁ.
-
-## ITI 61. Tikanipāta
-
-0\. Dutiyavagga
-
-## Cakkhusutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Tīṇimāni, bhikkhave, cakkhūni. Katamāni tīṇi? Maṁsacakkhu, dibbacakkhu, paññācakkhu—imāni kho, bhikkhave, tīṇi cakkhūnī”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
 
 3\.
-> “Maṁsacakkhu dibbacakkhu,\
-> paññācakkhu anuttaraṁ;\
-> Etāni tīṇi cakkhūni,\
-> akkhāsi purisuttamo.
+> Hãy học làm điều phước,\
+> Lợi lâu dài, đem vui;\
+> Bố thí, sống ngay thẳng,\
+> Rèn luyện tâm yêu thương.
 
 4\.
-> Maṁsacakkhussa uppādo,\
-> maggo dibbassa cakkhuno;\
-> Yato ñāṇaṁ udapādi,\
-> paññācakkhu anuttaraṁ;\
-> Yassa cakkhussa paṭilābhā,\
-> sabbadukkhā pamuccatī”ti.
+> Rèn luyện ba điều ấy,\
+> Nguồn sinh khởi an vui;\
+> Người trí được sinh vào,\
+> Cõi an lành không khổ.
 
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Dutiyaṁ.
+Bài kinh thứ nhất.
 
-## ITI 62. Tikanipāta
+<!--pg-->
+### ITI 61. Kinh Con Mắt
+*(Cakkhusutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Indriyasutta
+2\. “Này các tỳ kheo, có ba loại mắt này. Ba loại nào? *Mắt thịt* (nhục nhãn / maṁsacakkhu), mắt thần (thiên nhãn / dibbacakkhu), *mắt trí tuệ* (tuệ nhãn / paññācakkhu) - này các tỳ kheo, đây là ba loại mắt”.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Tīṇimāni, bhikkhave, indriyāni. Katamāni tīṇi? Anaññātaññassāmītindriyaṁ, aññindriyaṁ, aññātāvindriyaṁ—imāni kho, bhikkhave, tīṇi indriyānī”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
 
 3\.
-> “Sekhassa sikkhamānassa,\
-> ujumaggānusārino;\
-> Khayasmiṁ paṭhamaṁ ñāṇaṁ,\
-> tato aññā anantarā.
+> Mắt thịt và mắt thần,\
+> Mắt trí tuệ tối thượng;\
+> Ba loại mắt như vậy,\
+> Bậc Tối Thượng đã giảng.
 
 4\.
-> Tato aññāvimuttassa,\
-> ñāṇaṁ ve hoti tādino;\
-> Akuppā me vimuttīti,\
-> bhavasaṁyojanakkhayā.
+> Sự sinh khởi mắt thịt,\
+> Con đường của mắt thần;\
+> Từ đó khởi hiểu biết,\
+> Mắt trí tuệ tối thượng;\
+> Khi đạt được mắt ấy,\
+> Thoát khỏi mọi khổ đau.
+
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
+
+Bài kinh thứ hai.
+
+<!--pg-->
+### ITI 62. Kinh Sức Mạnh Tinh Thần
+*(Indriyasutta)*
+
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
+
+2\. “Này các tỳ kheo, có ba *sức mạnh tinh thần* (căn / indriyāni) này. Ba [sức mạnh] nào? *Sức mạnh của ý hướng 'tôi sẽ biết điều chưa biết'* (vị tri đương tri căn / anaññātaññassāmītindriyaṁ), *sức mạnh của sự hiểu biết sâu sắc* (dĩ tri căn / aññindriyaṁ), *sức mạnh của người đã hiểu biết trọn vẹn* (cụ tri căn / aññātāvindriyaṁ) - này các tỳ kheo, đây là ba *sức mạnh tinh thần*”.
+
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
+
+3\.
+> Người hữu học đang rèn,\
+> Đi theo con đường thẳng;\
+> Đầu tiên biết cạn kiệt,\
+> Liền sau đó hiểu suốt.
+
+4\.
+> Vị ấy giải thoát rồi,\
+> Khởi lên sự hiểu biết;\
+> Giải thoát không lay chuyển,\
+> Dây trói buộc đã tàn.
 
 5\.
-> Sa ve indriyasampanno,\
-> santo santipade rato;\
-> Dhāreti antimaṁ dehaṁ,\
-> jetvā māraṁ savāhinin”ti.
+> Đầy đủ các sức mạnh,\
+> Tĩnh lặng, vui bình an;\
+> Mang tấm thân cuối cùng,\
+> Thắng Ma cùng đạo binh.
 
-6\. Ayampi attho vutto bhagavatā, iti me sutanti.
+6\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Tatiyaṁ.
+Bài kinh thứ ba.
 
-## ITI 63. Tikanipāta
+<!--pg-->
+### ITI 63. Kinh Thời Kỳ
+*(Addhāsutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Addhāsutta
+2\. “Này các tỳ kheo, có ba *thời kỳ* (thời / addhā) này. Ba [thời kỳ] nào? *Thời kỳ* quá khứ, *thời kỳ* tương lai, *thời kỳ* hiện tại - này các tỳ kheo, đây là ba *thời kỳ*”.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Tayome, bhikkhave, addhā. Katame tayo? Atīto addhā, anāgato addhā, paccuppanno addhā—ime kho, bhikkhave, tayo addhā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
 
 3\.
-> “Akkheyyasaññino sattā,\
-> akkheyyasmiṁ patiṭṭhitā;\
-> Akkheyyaṁ apariññāya,\
-> yogamāyanti maccuno.
+> Chúng sinh nghĩ khái niệm,\
+> Dựa vào các khái niệm;\
+> Không hiểu trọn khái niệm,\
+> Bị thần chết trói buộc.
 
 4\.
-> Akkheyyañca pariññāya,\
-> akkhātāraṁ na maññati;\
-> Phuṭṭho vimokkho manasā,\
-> santipadamanuttaraṁ.
+> Hiểu trọn vẹn khái niệm,\
+> Không suy diễn người nói;\
+> Tâm chạm đến giải thoát,\
+> Trạng thái tĩnh tối thượng.
 
 5\.
-> Sa ve akkheyyasampanno,\
-> santo santipade rato;\
-> Saṅkhāya sevī dhammaṭṭho,\
-> saṅkhyaṁ nopeti vedagū”ti.
+> Bậc thông suốt khái niệm,\
+> Tĩnh lặng, vui bình an;\
+> Cân nhắc, sống đúng pháp,\
+> Thông đạt, vượt định danh.
 
-6\. Ayampi attho vutto bhagavatā, iti me sutanti.
+6\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Catutthaṁ.
+Bài kinh thứ tư.
 
-## ITI 64. Tikanipāta
+<!--pg-->
+### ITI 64. Kinh Hành Vi Xấu Ác
+*(Duccaritasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Duccaritasutta
+2\. “Này các tỳ kheo, có ba *hành vi xấu ác* (ác hạnh / duccaritāni) này. Ba [hành vi] nào? *Hành vi xấu ác nơi thân* (thân ác hạnh / kāyaduccaritaṁ), *hành vi xấu ác nơi lời nói* (khẩu ác hạnh / vacīduccaritaṁ), *hành vi xấu ác nơi suy nghĩ* (ý ác hạnh / manoduccaritaṁ) - này các tỳ kheo, đây là ba *hành vi xấu ác*”.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Tīṇimāni, bhikkhave, duccaritāni. Katamāni tīṇi? Kāyaduccaritaṁ, vacīduccaritaṁ, manoduccaritaṁ—imāni kho, bhikkhave, tīṇi duccaritānī”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
 
 3\.
-> “Kāyaduccaritaṁ katvā,\
-> vacīduccaritāni ca;\
-> Manoduccaritaṁ katvā,\
-> yañcaññaṁ dosasaṁhitaṁ.
+> Đã làm điều thân ác,\
+> Làm điều ác lời nói;\
+> Đã làm điều ý ác,\
+> Và điều xấu lỗi khác.
 
 4\.
-> Akatvā kusalaṁ kammaṁ,\
-> katvānākusalaṁ bahuṁ;\
-> Kāyassa bhedā duppañño,\
-> nirayaṁ sopapajjatī”ti.
+> Không làm hành động thiện,\
+> Lại làm nhiều điều ác;\
+> Thân hoại, kẻ kém trí,\
+> Phải sinh vào địa ngục.
 
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Pañcamaṁ.
+Bài kinh thứ năm.
 
-## ITI 65. Tikanipāta
+<!--pg-->
+### ITI 65. Kinh Hành Vi Tốt Đẹp
+*(Sucaritasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Sucaritasutta
+2\. “Này các tỳ kheo, có ba *hành vi tốt đẹp* (thiện hạnh / sucaritāni) này. Ba [hành vi] nào? *Hành vi tốt đẹp nơi thân* (thân thiện hạnh / kāyasucaritaṁ), *hành vi tốt đẹp nơi lời nói* (khẩu thiện hạnh / vacīsucaritaṁ), *hành vi tốt đẹp nơi suy nghĩ* (ý thiện hạnh / manosucaritaṁ) - này các tỳ kheo, đây là ba *hành vi tốt đẹp*”.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Tīṇimāni, bhikkhave, sucaritāni. Katamāni tīṇi? Kāyasucaritaṁ, vacīsucaritaṁ, manosucaritaṁ—imāni kho, bhikkhave, tīṇi sucaritānī”ti. Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
 
 3\.
-> “Kāyaduccaritaṁ hitvā,\
-> vacīduccaritāni ca;\
-> Manoduccaritaṁ hitvā,\
-> yañcaññaṁ dosasaṁhitaṁ.
+> Từ bỏ điều thân ác,\
+> Bỏ điều ác lời nói;\
+> Từ bỏ điều ý ác,\
+> Và điều xấu lỗi khác.
 
 4\.
-> Akatvākusalaṁ kammaṁ,\
-> katvāna kusalaṁ bahuṁ;\
-> Kāyassa bhedā sappañño,\
-> saggaṁ so upapajjatī”ti.
+> Không làm hành động ác,\
+> Lại làm nhiều điều thiện;\
+> Thân hoại, người có trí,\
+> Được sinh lên cõi trời.
 
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Chaṭṭhaṁ.
+Bài kinh thứ sáu.
 
-## ITI 66. Tikanipāta
+<!--pg-->
+### ITI 66. Kinh Sự Trong Sạch
+*(Soceyyasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Soceyyasutta
+2\. “Này các tỳ kheo, có ba *sự trong sạch* (thanh tịnh / soceyyāni) này. Ba [sự trong sạch] nào? *Sự trong sạch nơi thân* (thân thanh tịnh / kāyasoceyyaṁ), *sự trong sạch nơi lời nói* (khẩu thanh tịnh / vacīsoceyyaṁ), *sự trong sạch nơi suy nghĩ* (ý thanh tịnh / manosoceyyaṁ) - này các tỳ kheo, đây là ba *sự trong sạch*”.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Tīṇimāni, bhikkhave, soceyyāni. Katamāni tīṇi? Kāyasoceyyaṁ, vacīsoceyyaṁ, manosoceyyaṁ—imāni kho, bhikkhave, tīṇi soceyyānī”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
 
 3\.
-> “Kāyasuciṁ vacīsuciṁ,\
-> cetosucimanāsavaṁ;\
-> Suciṁ soceyyasampannaṁ,\
-> āhu sabbappahāyinan”ti.
+> Thân sạch, lời nói sạch,\
+> Tâm sạch, hết nguồn ác;\
+> Trong sạch, đủ thanh tịnh,\
+> Gọi người bỏ tất cả.
 
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Sattamaṁ.
+Bài kinh thứ bảy.
 
-## ITI 67. Tikanipāta
+<!--pg-->
+### ITI 67. Kinh Phẩm Chất Bậc Hiền Trí
+*(Moneyyasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Moneyyasutta
+2\. “Này các tỳ kheo, có ba *phẩm chất của bậc hiền trí* (mâu-ni hạnh / moneyyāni) này. Ba [phẩm chất] nào? *Phẩm chất bậc hiền trí nơi thân* (thân mâu-ni / kāyamoneyyaṁ), *phẩm chất bậc hiền trí nơi lời nói* (khẩu mâu-ni / vacīmoneyyaṁ), *phẩm chất bậc hiền trí nơi suy nghĩ* (ý mâu-ni / manomoneyyaṁ) - này các tỳ kheo, đây là ba *phẩm chất của bậc hiền trí*”.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Tīṇimāni, bhikkhave, moneyyāni. Katamāni tīṇi? Kāyamoneyyaṁ, vacīmoneyyaṁ, manomoneyyaṁ—imāni kho, bhikkhave, tīṇi moneyyānī”ti. Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Kāyamuniṁ vacīmuniṁ,\
-> manomunimanāsavaṁ;\
-> Muniṁ moneyyasampannaṁ,\
-> āhu ninhātapāpakan”ti.
-
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Aṭṭhamaṁ.
-
-## ITI 68. Tikanipāta
-
-0\. Dutiyavagga
-
-## Paṭhamarāgasutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Yassa kassaci, bhikkhave, rāgo appahīno, doso appahīno, moho appahīno—ayaṁ vuccati, bhikkhave, ‘baddho mārassa paṭimukkassa mārapāso yathākāmakaraṇīyo pāpimato’. Yassa kassaci, bhikkhave, rāgo pahīno, doso pahīno, moho pahīno—ayaṁ vuccati, bhikkhave, ‘abaddho mārassa omukkassa mārapāso na yathākāmakaraṇīyo pāpimato’”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
 
 3\.
-> “Yassa rāgo ca doso ca,\
-> avijjā ca virājitā;\
-> Taṁ bhāvitattaññataraṁ,\
-> brahmabhūtaṁ tathāgataṁ;\
-> Buddhaṁ verabhayātītaṁ,\
-> āhu sabbappahāyinan”ti.
+> Thân trí, lời nói trí,\
+> Tâm trí, hết nguồn ác;\
+> Hiền trí, đủ phẩm chất,\
+> Gọi người gột sạch ác.
 
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Navamaṁ.
+Bài kinh thứ tám.
 
-## ITI 69. Tikanipāta
+<!--pg-->
+### ITI 68. Kinh Đắm Nhiễm (Thứ Nhất)
+*(Paṭhamarāgasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Dutiyarāgasutta
+2\. “Này các tỳ kheo, bất kỳ ai có sự *đắm nhiễm* (tham / rāgo) chưa được *từ bỏ* (đoạn trừ / pahīno), *ám ảnh khó chịu* (sân / doso) chưa được *từ bỏ*, *sự u mê* (si / moho) chưa được *từ bỏ* - này các tỳ kheo, người này được gọi là ‘kẻ bị Ác ma trói buộc, bị *thòng lọng của Ác ma* (ma phược / mārapāso) quàng vào, bị Ác ma xử lý tùy theo ý muốn’. Này các tỳ kheo, bất kỳ ai có sự *đắm nhiễm* đã được *từ bỏ*, *ám ảnh khó chịu* đã được *từ bỏ*, *sự u mê* đã được *từ bỏ* - này các tỳ kheo, vị này được gọi là ‘người không bị Ác ma trói buộc, đã tháo bỏ *thòng lọng của Ác ma*, không bị Ác ma xử lý tùy theo ý muốn’”.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā rāgo appahīno, doso appahīno, moho appahīno—ayaṁ vuccati, bhikkhave, ‘atiṇṇo samuddaṁ saūmiṁ savīciṁ sāvaṭṭaṁ sagahaṁ sarakkhasaṁ’. Yassa kassaci, bhikkhave, bhikkhussa vā bhikkhuniyā vā rāgo pahīno, doso pahīno, moho pahīno—ayaṁ vuccati, bhikkhave, ‘atari samuddaṁ saūmiṁ savīciṁ sāvaṭṭaṁ sagahaṁ sarakkhasaṁ, tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo’”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
 
 3\.
-> “Yassa rāgo ca doso ca,\
-> Avijjā ca virājitā;\
-> Somaṁ samuddaṁ sagahaṁ sarakkhasaṁ,\
-> Saūmibhayaṁ duttaraṁ accatāri.
+> Ai đắm nhiễm, khó chịu,\
+> Không hiểu biết phai tàn;\
+> Bậc tâm đã rèn luyện,\
+> Thành phạm thiên, Như Lai;\
+> Bậc Giác, vượt sợ hãi,\
+> Gọi người bỏ tất cả.
+
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
+
+Bài kinh thứ chín.
+
+<!--pg-->
+### ITI 69. Kinh Đắm Nhiễm (Thứ Hai)
+*(Dutiyarāgasutta)*
+
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
+
+2\. “Này các tỳ kheo, bất kỳ vị tỳ kheo hay tỳ kheo ni nào có sự *đắm nhiễm* chưa được *từ bỏ*, *ám ảnh khó chịu* chưa được *từ bỏ*, *sự u mê* chưa được *từ bỏ* - này các tỳ kheo, vị này được gọi là ‘người chưa vượt qua biển lớn có sóng dữ, có sóng ngầm, có xoáy nước, có thủy quái, có la-sát’. Này các tỳ kheo, bất kỳ vị tỳ kheo hay tỳ kheo ni nào có sự *đắm nhiễm* đã được *từ bỏ*, *ám ảnh khó chịu* đã được *từ bỏ*, *sự u mê* đã được *từ bỏ* - này các tỳ kheo, vị này được gọi là ‘người đã vượt qua biển lớn có sóng dữ, có sóng ngầm, có xoáy nước, có thủy quái, có la-sát; vị Bà-la-môn đã vượt qua, đã đến bờ bên kia [và] đang đứng trên đất liền’”.
+
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên như vầy:
+
+3\.
+> Ai đắm nhiễm, khó chịu,\
+> Không hiểu biết phai tàn;\
+> Biển có quái, la-sát,\
+> Sóng dữ, vị ấy vượt.
 
 4\.
-> Saṅgātigo maccujaho nirūpadhi,\
-> Pahāsi dukkhaṁ apunabbhavāya;\
-> Atthaṅgato so na pamāṇameti,\
-> Amohayi maccurājanti brūmī”ti.
+> Vượt trói, bỏ thần chết,\
+> Bỏ khổ, không tái sinh;\
+> Đạt đích, không đo lường,\
+> Ta gọi thắng Vua Chết.
 
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Dasamaṁ.
+Bài kinh thứ mười.
 
-Dutiyo vaggo.
+Phẩm thứ hai.
 
-6\. Tassuddānaṁ
+6\. Kệ tóm tắt của phẩm ấy:
 
-> Puññaṁ cakkhu atha indriyāni,\
-> Addhā ca caritaṁ duve soci;\
-> Muno atha rāgaduve,\
-> Puna vaggamāhu dutiyamuttamanti.
+> Phước, mắt, các sức mạnh,\
+> Thời kỳ, hai hành vi;\
+> Trong sạch, bậc hiền trí,\
+> Cùng hai kinh đắm nhiễm;\
+> Gọi phẩm hai tối thượng.
+
+<!--pg-->
+
+### Bối cảnh kinh:
+Phẩm thứ hai thuộc Chương Ba Pháp (*Tikanipāta*) của Kinh Phật Thuyết Như Vậy (*Itivuttaka*), gồm 10 bài kinh ngắn (từ ITI 60 đến ITI 69). Nội dung phẩm này xoay quanh các nhóm ba pháp thiết yếu trên lộ trình tu tập: từ việc tạo dựng nền tảng phước lành, phát triển ba loại tầm nhìn (mắt), ba sức mạnh nhận thức của bậc thánh, vượt thoát sự trói buộc của khái niệm trong ba thời kỳ, cho đến sự chuyển hóa toàn diện ba nghiệp (thân, lời nói, trí não) từ xấu ác sang tốt đẹp, trong sạch, đạt đến phẩm chất của bậc hiền trí và đoạn trừ ba gốc rễ bất thiện (đắm nhiễm, ám ảnh khó chịu, u mê) để vượt qua biển khổ sinh tử.
+
+### Ghi chú tài liệu:
+- **ITI 60 (*Puññakiriyavatthusutta*)**: Tương đương với Kinh Phúc Nghiệp Sự ([AN 8.36](/l?q=an-8.36)) và danh mục ba pháp trong Kinh Phúng Tụng ([DN 33](/l?q=dn-33)).
+- **ITI 61 (*Cakkhusutta*)**: Danh mục ba loại mắt cũng được liệt kê trong Kinh Phúng Tụng ([DN 33](/l?q=dn-33)).
+- **ITI 62 (*Indriyasutta*)**: Giải thích chi tiết về ba sức mạnh tinh thần không còn nguồn ác (*anāsavāni indriyāni*) xuất hiện trong Tương Ưng Căn ([SN 48.23](/l?q=sn-48.23)) và Kinh Phúng Tụng ([DN 33](/l?q=dn-33)).
+- **ITI 63 (*Addhāsutta*)**: Phần kệ ngôn bàn về khái niệm/ngôn từ (*akkheyya*) tương đồng mật thiết với Kinh Samiddhi ([SN 1.20](/l?q=sn-1.20)).
+- **ITI 66 (*Soceyyasutta*) & ITI 67 (*Moneyyasutta*)**: Tương ứng với các bài kinh về ba sự thanh tịnh ([AN 3.120](/l?q=an-3.120)) và ba phẩm chất bậc Mâu-ni ([AN 3.123](/l?q=an-3.123)) trong Tăng Chi Bộ.
+- **ITI 69 (*Dutiyarāgasutta*)**: Hình ảnh ẩn dụ về việc vượt qua biển lớn đầy sóng dữ, xoáy nước, thủy quái và la-sát tương đồng với Kinh Biển Lớn ([SN 35.228](/l?q=sn-35.228)).
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [!] puññakiriyavatthūni | nền tảng tạo phước | phước nghiệp sự | `puñña` (phước lành) + `kiriya` (hành động tạo tác) + `vatthu` (nền tảng, cơ sở). |
+| [!] dānamayaṁ puññakiriyavatthu | nền tảng tạo phước từ việc bố thí | bố thí phước nghiệp sự | Sự tạo phước hình thành từ hành động chia sẻ, cho đi. |
+| [!] sīlamayaṁ puññakiriyavatthu | nền tảng tạo phước từ lối sống đạo đức | trì giới phước nghiệp sự | Sự tạo phước hình thành từ việc giữ gìn đạo đức. |
+| [!] bhāvanāmayaṁ puññakiriyavatthu | nền tảng tạo phước từ sự rèn luyện tâm | tu tập phước nghiệp sự | `bhāvanā`: sự làm cho phát triển, rèn luyện tâm trí. |
+| [!] maṁsacakkhu | mắt thịt | nhục nhãn | Cơ quan thị giác vật lý thông thường. |
+| dibbacakkhu | mắt thần | thiên nhãn | Từ quy ước cố định. |
+| [!] paññācakkhu | mắt trí tuệ | tuệ nhãn | Khả năng nhận thức rõ bản chất thực tại (Bốn Thánh Đế). |
+| indriyāni | sức mạnh tinh thần | căn | Các năng lực chủ đạo trong tâm thức. |
+| [!] anaññātaññassāmītindriyaṁ | sức mạnh của ý hướng 'tôi sẽ biết điều chưa biết' | vị tri đương tri căn | Năng lực tinh thần của người đang thực hành hướng tới sự giác ngộ đầu tiên (Dự lưu đạo). |
+| [!] aññindriyaṁ | sức mạnh của sự hiểu biết sâu sắc | dĩ tri căn | Năng lực trí tuệ của bậc hữu học từ Dự lưu quả đến A-la-hán đạo. |
+| [!] aññātāvindriyaṁ | sức mạnh của người đã hiểu biết trọn vẹn | cụ tri căn | Năng lực trí tuệ của bậc A-la-hán đã hoàn tất việc tu học. |
+| [!] addhā | thời kỳ | thời | Khoảng thời gian (quá khứ, tương lai, hiện tại). |
+| [NG] akkheyya | khái niệm / điều có thể diễn tả | ngôn thuyết | Từ gốc `ā + khyā` (nói ra, định danh); chỉ toàn bộ thế giới Danh-sắc được nhận thức và gọi tên qua ngôn ngữ. |
+| [!] duccaritāni | hành vi xấu ác | ác hạnh | `du` (xấu, ác) + `carita` (hành vi, cách sống). |
+| [!] sucaritāni | hành vi tốt đẹp | thiện hạnh | `su` (tốt, thiện) + `carita` (hành vi, cách sống). |
+| mano | trí não | ý | |
+| [!] soceyyāni | sự trong sạch | thanh tịnh | Trạng thái không bị ô nhiễm trong hành động, lời nói và suy nghĩ. |
+| [!] moneyyāni | phẩm chất của bậc hiền trí | mâu-ni hạnh | Danh từ trừu tượng từ `muni` (bậc hiền trí, người tĩnh lặng thông suốt). |
+| rāga | đắm nhiễm | tham | |
+| dosa | ám ảnh khó chịu | sân | |
+| moha | sự u mê | si | |
+| pajahati / pahīna | từ bỏ | đoạn trừ | |
+| [!] mārapāso | thòng lọng của Ác ma | ma phược | `māra` (Ác ma) + `pāsa` (dây bẫy, thòng lọng). |

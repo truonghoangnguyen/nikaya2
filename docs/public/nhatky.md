@@ -186,3 +186,11 @@ Ví dụ sức mạnh của tình yêu
 
 ### date 2026-11-04
 từ: dục (kama) = đầy đủ chính là 'phản ứng theo bản năng', hình dung khi nhìn thấy một con ma, ta sẽ sợ hãi phản ứng, đi vào chi tiết có 2 phần 'sợ hãi' và 'phản ứng', 'sợ hãi' thì ok, còn 'phản ứng' thì phải tập luyện. đó chính là tu tập
+
+### date 2026-11-13
+MN 111 Việc tu có 1 thời gian là nửa tháng, và theo thứ tự tuần tự, không phải tất cả đến 1 lúc
+
+4 thiền rõ ở đây
+Ở mỗi tầng định, bên cạnh những trạng thái đặc trưng riêng của tầng định đó, Sāriputta luôn nhận diện được một nhóm 11 hoạt động tâm lý cơ bản cùng vận hành song song. Thay vì nhìn tâm trí như một khối mơ hồ, ông điểm danh và tách bạch rõ ràng từng yếu tố một theo thứ tự:
+
+Khi mô tả thiền, dường như kinh đang mô tả một quá trình tâm lý

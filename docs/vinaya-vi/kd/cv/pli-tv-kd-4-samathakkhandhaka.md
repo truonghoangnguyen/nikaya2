@@ -1,691 +1,925 @@
-# PLI-TV-KD 14. Samathakkhandhaka
+---
+description: Chương thứ tư của Tiểu Phẩm (Cullavagga) trình bày bốn loại vụ việc và bảy phương pháp hòa giải tranh chấp trong Tăng đoàn.
+---
 
-# 14. Samathakkhandhaka
+# KD 14. CHƯƠNG HÒA GIẢI TRANH CHẤP
+*(Samathakkhandhaka)*
 
-## 1. Sammukhāvinaya
+## 1. Xử lý trực diện
 
-1.1\. Tena samayena buddho bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā bhikkhū asammukhībhūtānaṁ bhikkhūnaṁ kammāni karonti— tajjanīyampi, niyassampi, pabbājanīyampi, paṭisāraṇīyampi, ukkhepanīyampi. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū asammukhībhūtānaṁ bhikkhūnaṁ kammāni karissanti— tajjanīyampi, niyassampi, pabbājanīyampi, paṭisāraṇīyampi, ukkhepanīyampī”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe…
+1.1\. Lúc bấy giờ, Đức Phật Thế Tôn đang trú tại Sāvatthī, ở rừng Jeta, tu viện của ông Anāthapiṇḍika. Khi ấy, nhóm sáu tỳ kheo thực hiện các *hành động pháp lý* (yết-ma / kammāni) đối với những tỳ kheo không có mặt trực diện - gồm cả hành động khiển trách, hành động bắt nương tựa, hành động trục xuất, hành động bắt xin lỗi và hành động đình chỉ sinh hoạt chung. Những tỳ kheo ít *mong muốn* (dục / appicchā) `[...lặp lại...]` tỏ ra bất bình, phê phán và chỉ trích rằng: {#1.1}
 
-“saccaṁ kira, bhikkhave, chabbaggiyā bhikkhū asammukhībhūtānaṁ bhikkhūnaṁ kammāni karonti— tajjanīyampi, niyassampi, pabbājanīyampi, paṭisāraṇīyampi, ukkhepanīyampī”ti?
+– Sao nhóm sáu tỳ kheo lại có thể thực hiện các *hành động pháp lý* đối với những tỳ kheo không có mặt trực diện - gồm cả hành động khiển trách, hành động bắt nương tựa, hành động trục xuất, hành động bắt xin lỗi và hành động đình chỉ sinh hoạt chung chứ?
 
-“Saccaṁ, bhagavā”ti.
+Rồi các tỳ kheo ấy trình bày sự việc này lên Thế Tôn `[...lặp lại...]`.
 
-Vigarahi buddho bhagavā— “ananucchavikaṁ, bhikkhave, tesaṁ moghapurisānaṁ ananulomikaṁ appatirūpaṁ assāmaṇakaṁ akappiyaṁ akaraṇīyaṁ. Kathañhi nāma te, bhikkhave, moghapurisā asammukhībhūtānaṁ bhikkhūnaṁ kammāni karissanti— tajjanīyampi, niyassampi, pabbājanīyampi, paṭisāraṇīyampi, ukkhepanīyampi. Netaṁ, bhikkhave, appasannānaṁ vā pasādāya …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+– Này các tỳ kheo, nghe nói nhóm sáu tỳ kheo thực hiện các *hành động pháp lý* đối với những tỳ kheo không có mặt trực diện - gồm cả hành động khiển trách, hành động bắt nương tựa, hành động trục xuất, hành động bắt xin lỗi và hành động đình chỉ sinh hoạt chung, có đúng vậy không?
 
-“Na, bhikkhave, asammukhībhūtānaṁ bhikkhūnaṁ kammaṁ kātabbaṁ— tajjanīyaṁ vā, niyassaṁ vā, pabbājanīyaṁ vā, paṭisāraṇīyaṁ vā, ukkhepanīyaṁ vā. Yo kareyya, āpatti dukkaṭassa.
+– Bạch Thế Tôn, đúng vậy.
 
-Adhammavādī puggalo adhammavādī sambahulā adhammavādī saṅgho. Dhammavādī puggalo dhammavādī sambahulā dhammavādī saṅgho.
+Đức Phật Thế Tôn quở trách:
 
-### 1.1. Kaṇhapakkhanavaka
+– Này các tỳ kheo, việc ấy không xứng hợp, không thuận theo, không thích đáng, không đúng tư cách sa-môn, không được phép và không nên làm đối với những kẻ ngu si ấy. Này các tỳ kheo, sao những kẻ ngu si ấy lại có thể thực hiện các *hành động pháp lý* đối với những tỳ kheo không có mặt trực diện - gồm cả hành động khiển trách, hành động bắt nương tựa, hành động trục xuất, hành động bắt xin lỗi và hành động đình chỉ sinh hoạt chung chứ? Này các tỳ kheo, việc này không đem lại niềm tin cho những người chưa có niềm tin `[...lặp lại...]`.
 
-2.1\. Adhammavādī puggalo dhammavādiṁ puggalaṁ saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+Sau khi quở trách `[...lặp lại...]` và *giảng về Giáo pháp* (pháp thoại / dhammiṁ kathaṁ), Ngài gọi các tỳ kheo mà dạy rằng:
 
-Adhammavādī puggalo dhammavādī sambahule saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+– Này các tỳ kheo, không được thực hiện *hành động pháp lý* đối với những tỳ kheo không có mặt trực diện - dù là hành động khiển trách, hành động bắt nương tựa, hành động trục xuất, hành động bắt xin lỗi hay hành động đình chỉ sinh hoạt chung. Ai làm [như vậy] thì phạm *lỗi Làm sai (đột-kiết-la)* (ác tác / dukkaṭassa).
 
-Adhammavādī puggalo dhammavādiṁ saṅghaṁ saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+Có một cá nhân nói theo *Điều sai* (phi pháp / adhammavādī), một nhóm nhiều người nói theo *Điều sai* và một Tăng đoàn nói theo *Điều sai*. Có một cá nhân nói theo *Điều luật* (pháp / dhammavādī), một nhóm nhiều người nói theo *Điều luật* và một Tăng đoàn nói theo *Điều luật*.
 
-Adhammavādī sambahulā dhammavādiṁ puggalaṁ saññāpenti nijjhāpenti pekkhenti anupekkhenti dassenti anudassenti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+### 1.1. Chín trường hợp thuộc phe đen
 
-Adhammavādī sambahulā dhammavādī sambahule saññāpenti nijjhāpenti pekkhenti anupekkhenti dassenti anudassenti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+2.1\. Một cá nhân nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một cá nhân nói theo *Điều luật* rằng: 'Đây là *Giáo pháp* (pháp / dhammo), đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* (tránh sự / adhikaraṇaṁ) này *lắng dịu* (diệt / vūpasammati) như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện* (hiện tiền tỳ-ni / sammukhāvinayapatirūpakena). {#2.1}
 
-Adhammavādī sambahulā dhammavādiṁ saṅghaṁ saññāpenti nijjhāpenti pekkhenti anupekkhenti dassenti anudassenti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+Một cá nhân nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một nhóm nhiều người nói theo *Điều luật* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, các vị hãy nắm giữ điều này, các vị hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện*.
 
-Adhammavādī saṅgho dhammavādiṁ puggalaṁ saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+Một cá nhân nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một Tăng đoàn nói theo *Điều luật* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện*.
 
-Adhammavādī saṅgho dhammavādī sambahule saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+Một nhóm nhiều người nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một cá nhân nói theo *Điều luật* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện*.
 
-Adhammavādī saṅgho dhammavādiṁ saṅghaṁ saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, adhammena vūpasammati sammukhāvinayapatirūpakena.
+Một nhóm nhiều người nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một nhóm nhiều người nói theo *Điều luật* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, các vị hãy nắm giữ điều này, các vị hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện*.
 
-Kaṇhapakkhanavakaṁ niṭṭhitaṁ.
+Một nhóm nhiều người nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một Tăng đoàn nói theo *Điều luật* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện*.
 
-### 1.2. Sukkapakkhanavaka
+Một Tăng đoàn nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một cá nhân nói theo *Điều luật* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện*.
 
-3.1\. Dhammavādī puggalo adhammavādiṁ puggalaṁ saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayena.
+Một Tăng đoàn nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một nhóm nhiều người nói theo *Điều luật* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, các vị hãy nắm giữ điều này, các vị hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện*.
 
-Dhammavādī puggalo adhammavādī sambahule saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayena.
+Một Tăng đoàn nói theo *Điều sai* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một Tăng đoàn nói theo *Điều luật* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* theo cách trái pháp, bằng hình thức giả tạo của *xử lý trực diện*.
 
-Dhammavādī puggalo adhammavādiṁ saṅghaṁ saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayena.
+Chín trường hợp thuộc phe đen chấm dứt.
 
-Dhammavādī sambahulā adhammavādiṁ puggalaṁ saññāpenti nijjhāpenti pekkhenti anupekkhenti dassenti anudassenti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayena.
+### 1.2. Chín trường hợp thuộc phe trắng
 
-Dhammavādī sambahulā adhammavādī sambahule saññāpenti nijjhāpenti pekkhenti anupekkhenti dassenti anudassenti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayena.
+3.1\. Một cá nhân nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một cá nhân nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*. {#3.1}
 
-Dhammavādī sambahulā adhammavādiṁ saṅghaṁ saññāpenti nijjhāpenti pekkhenti anupekkhenti dassenti anudassenti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayena.
+Một cá nhân nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một nhóm nhiều người nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, các vị hãy nắm giữ điều này, các vị hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*.
 
-Dhammavādī saṅgho adhammavādiṁ puggalaṁ saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayena.
+Một cá nhân nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một Tăng đoàn nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*.
 
-Dhammavādī saṅgho adhammavādī sambahule saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhatha, imaṁ rocethā’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayena.
+Một nhóm nhiều người nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một cá nhân nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*.
 
-Dhammavādī saṅgho adhammavādiṁ saṅghaṁ saññāpeti nijjhāpeti pekkheti anupekkheti dasseti anudasseti— ‘ayaṁ dhammo, ayaṁ vinayo, idaṁ satthusāsanaṁ, imaṁ gaṇhāhi, imaṁ rocehī’ti. Evañcetaṁ adhikaraṇaṁ vūpasammati, dhammena vūpasammati sammukhāvinayenā”ti.
+Một nhóm nhiều người nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một nhóm nhiều người nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, các vị hãy nắm giữ điều này, các vị hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*.
 
-Sukkapakkhanavakaṁ niṭṭhitaṁ.
+Một nhóm nhiều người nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một Tăng đoàn nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*.
 
-## 2. Sativinaya
+Một Tăng đoàn nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một cá nhân nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*.
 
-4.1\. Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Tena kho pana samayena āyasmatā dabbena mallaputtena jātiyā sattavassena arahattaṁ sacchikataṁ hoti. Yaṁ kiñci sāvakena pattabbaṁ sabbaṁ tena anuppattaṁ hoti. Natthi cassa kiñci uttari karaṇīyaṁ, katassa vā paticayo. Atha kho āyasmato dabbassa mallaputtassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— “mayā kho jātiyā sattavassena arahattaṁ sacchikataṁ. Yaṁ kiñci sāvakena pattabbaṁ sabbaṁ mayā anuppattaṁ. Natthi ca me kiñci uttarikaraṇīyaṁ, katassa vā paticayo. Kiṁ nu kho ahaṁ saṅghassa veyyāvaccaṁ kareyyan”ti. Atha kho āyasmato dabbassa mallaputtassa etadahosi— “yannūnāhaṁ saṅghassa senāsanañca paññapeyyaṁ bhattāni ca uddiseyyan”ti. Atha kho āyasmā dabbo mallaputto sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā dabbo mallaputto bhagavantaṁ etadavoca— “idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi— ‘mayā kho jātiyā sattavassena arahattaṁ sacchikataṁ. Yaṁ kiñci sāvakena pattabbaṁ, sabbaṁ mayā anuppattaṁ. Natthi ca me kiñci uttarikaraṇīyaṁ, katassa vā paticayo. Kiṁ nu kho ahaṁ saṅghassa veyyāvaccaṁ kareyyan’ti? Tassa mayhaṁ, bhante, etadahosi— ‘yannūnāhaṁ saṅghassa senāsanañca paññapeyyaṁ bhattāni ca uddiseyyan’ti. Icchāmahaṁ, bhante, saṅghassa senāsanañca paññāpetuṁ bhattāni ca uddisitun”ti.
+Một Tăng đoàn nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một nhóm nhiều người nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, các vị hãy nắm giữ điều này, các vị hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*.
 
-4.2\. “Sādhu sādhu, dabba. Tena hi tvaṁ, dabba, saṅghassa senāsanañca paññapehi bhattāni ca uddisāhī”ti.
+Một Tăng đoàn nói theo *Điều luật* thuyết phục, làm cho hiểu ra, xem xét, quán sát kỹ, chỉ ra và giải thích rõ với một Tăng đoàn nói theo *Điều sai* rằng: 'Đây là *Giáo pháp*, đây là Luật, đây là lời dạy của bậc Đạo sư, hãy nắm giữ điều này, hãy chấp thuận điều này.' Và nếu *vụ việc* này *lắng dịu* như vậy, [thì] nó *lắng dịu* đúng pháp, bằng *xử lý trực diện*."
 
-“Evaṁ, bhante”ti kho āyasmā dabbo mallaputto bhagavato paccassosi.
+Chín trường hợp thuộc phe trắng chấm dứt.
 
-4.3\. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe dhammiṁ kathaṁ katvā bhikkhū āmantesi— “tena hi, bhikkhave, saṅgho dabbaṁ mallaputtaṁ senāsanapaññāpakañca bhattuddesakañca sammannatu. Evañca pana, bhikkhave, sammannitabbo. Paṭhamaṁ dabbo mallaputto yācitabbo. Yācitvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+## 2. Xử lý theo trí nhớ sáng suốt
 
-‘Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṁ, saṅgho āyasmantaṁ dabbaṁ mallaputtaṁ senāsanapaññāpakañca bhattuddesakañca sammanneyya. Esā ñatti.
+4.1\. Lúc bấy giờ, Đức Phật Thế Tôn đang trú tại Rājagaha, ở Trúc Lâm, tại chỗ nuôi sóc. Khi ấy, Tôn giả Dabba Mallaputta mới bảy tuổi kể từ *lúc sinh ra* (sanh / jātiyā) đã *trực tiếp chứng nghiệm* (chứng ngộ / sacchikataṁ) quả A-la-hán. Tất cả những gì một đệ tử cần đạt được đều đã được vị ấy đạt đến; không còn việc gì phải làm thêm nữa hay tích lũy thêm điều đã làm. Rồi khi đang ở nơi thanh vắng, sống ẩn dật, trong tâm Tôn giả Dabba Mallaputta khởi lên suy nghĩ này: "Ta mới bảy tuổi kể từ *lúc sinh ra* đã *trực tiếp chứng nghiệm* quả A-la-hán. Tất cả những gì một đệ tử cần đạt được đều đã được ta đạt đến; không còn việc gì ta phải làm thêm nữa hay tích lũy thêm điều đã làm. Nay ta nên làm công việc phục vụ gì cho Tăng đoàn đây?" Rồi Tôn giả Dabba Mallaputta nghĩ rằng: "Hay là ta hãy sắp đặt chỗ ở và phân phối các bữa ăn cho Tăng đoàn." {#4.1}
 
-Suṇātu me, bhante, saṅgho. Saṅgho āyasmantaṁ dabbaṁ mallaputtaṁ senāsanapaññāpakañca bhattuddesakañca sammannati. Yassāyasmato khamati āyasmato dabbassa mallaputtassa senāsanapaññāpakassa ca bhattuddesakassa ca sammuti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Vào buổi chiều, Tôn giả Dabba Mallaputta rời khỏi nơi ẩn dật, đi đến gặp Thế Tôn; sau khi đảnh lễ Thế Tôn, vị ấy ngồi xuống một bên. Ngồi xuống một bên rồi, Tôn giả Dabba Mallaputta bạch Thế Tôn rằng:
 
-Sammato saṅghena āyasmā dabbo mallaputto senāsanapaññāpako ca bhattuddesako ca. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’”ti.
+– Bạch Thế Tôn, khi con đang ở nơi thanh vắng, sống ẩn dật, trong tâm con khởi lên suy nghĩ này: 'Ta mới bảy tuổi kể từ *lúc sinh ra* đã *trực tiếp chứng nghiệm* quả A-la-hán. Tất cả những gì một đệ tử cần đạt được đều đã được ta đạt đến; không còn việc gì ta phải làm thêm nữa hay tích lũy thêm điều đã làm. Nay ta nên làm công việc phục vụ gì cho Tăng đoàn đây?' Bạch Thế Tôn, con liền nghĩ rằng: 'Hay là ta hãy sắp đặt chỗ ở và phân phối các bữa ăn cho Tăng đoàn.' Bạch Thế Tôn, con mong muốn được sắp đặt chỗ ở và phân phối các bữa ăn cho Tăng đoàn.
 
-4.4\. Sammato ca panāyasmā dabbo mallaputto sabhāgānaṁ bhikkhūnaṁ ekajjhaṁ senāsanaṁ paññapeti. Ye te bhikkhū suttantikā tesaṁ ekajjhaṁ senāsanaṁ paññapeti— “te aññamaññaṁ suttantaṁ saṅgāyissantī”ti. Ye te bhikkhū vinayadharā tesaṁ ekajjhaṁ senāsanaṁ paññapeti— “te aññamaññaṁ vinayaṁ vinicchinissantī”ti. Ye te bhikkhū dhammakathikā tesaṁ ekajjhaṁ senāsanaṁ paññapeti— “te aññamaññaṁ dhammaṁ sākacchissantī”ti. Ye te bhikkhū jhāyino tesaṁ ekajjhaṁ senāsanaṁ paññapeti— “te aññamaññaṁ na byābādhissantī”ti. Ye te bhikkhū tiracchānakathikā kāyadaḷhibahulā viharanti tesampi ekajjhaṁ senāsanaṁ paññapeti— “imāyapime āyasmanto ratiyā acchissantī”ti.
+4.2\. – Lành thay, lành thay, này Dabba! Vậy thì, này Dabba, con hãy sắp đặt chỗ ở và phân phối các bữa ăn cho Tăng đoàn đi. {#4.2}
 
-Yepi te bhikkhū vikāle āgacchanti tesampi tejodhātuṁ samāpajjitvā teneva ālokena senāsanaṁ paññapeti; apissu bhikkhū sañcicca vikāle āgacchanti— “mayaṁ āyasmato dabbassa mallaputtassa iddhipāṭihāriyaṁ passissāmā”ti. Te āyasmantaṁ dabbaṁ mallaputtaṁ upasaṅkamitvā evaṁ vadanti— “amhākaṁ, āvuso dabba, senāsanaṁ paññapehī”ti. Te āyasmā dabbo mallaputto evaṁ vadeti—
+– Xin vâng, bạch Thế Tôn - Tôn giả Dabba Mallaputta vâng lời Thế Tôn.
 
-“kattha āyasmantā icchanti kattha paññapemī”ti?
+4.3\. Nhân duyên ấy và sự việc ấy, Thế Tôn *giảng về Giáo pháp* rồi gọi các tỳ kheo mà dạy rằng: {#4.3}
 
-Te sañcicca dūre apadisanti— “amhākaṁ, āvuso dabba, gijjhakūṭe pabbate senāsanaṁ paññapehi. Amhākaṁ, āvuso, corapapāte senāsanaṁ paññapehi. Amhākaṁ, āvuso, isigilipasse kāḷasilāyaṁ senāsanaṁ paññapehi. Amhākaṁ, āvuso, vebhārapasse sattapaṇṇiguhāyaṁ senāsanaṁ paññapehi. Amhākaṁ, āvuso, sītavane sappasoṇḍikapabbhāre senāsanaṁ paññapehi. Amhākaṁ, āvuso, gotamakakandarāyaṁ senāsanaṁ paññapehi. Amhākaṁ, āvuso, tindukakandarāyaṁ senāsanaṁ paññapehi. Amhākaṁ, āvuso, tapodakandarāyaṁ senāsanaṁ paññapehi. Amhākaṁ, āvuso, tapodārāme senāsanaṁ paññapehi. Amhākaṁ, āvuso, jīvakambavane senāsanaṁ paññapehi. Amhākaṁ, āvuso, maddakucchimhi migadāye senāsanaṁ paññapehī”ti.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy bổ nhiệm Dabba Mallaputta làm người sắp đặt chỗ ở và người phân phối bữa ăn. Này các tỳ kheo, phải bổ nhiệm như sau. Trước hết phải thỉnh cầu Dabba Mallaputta. Sau khi thỉnh cầu, một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
 
-Tesaṁ āyasmā dabbo mallaputto tejodhātuṁ samāpajjitvā aṅguliyā jalamānāya purato purato gacchati. Tepi teneva ālokena āyasmato dabbassa mallaputtassa piṭṭhito piṭṭhito gacchanti. Tesaṁ āyasmā dabbo mallaputto evaṁ senāsanaṁ paññapeti— “ayaṁ mañco, idaṁ pīṭhaṁ, ayaṁ bhisi, idaṁ bibbohanaṁ, idaṁ vaccaṭṭhānaṁ, idaṁ passāvaṭṭhānaṁ, idaṁ pānīyaṁ, idaṁ paribhojanīyaṁ, ayaṁ kattaradaṇḍo, idaṁ saṅghassa katikasaṇṭhānaṁ, imaṁ kālaṁ pavisitabbaṁ, imaṁ kālaṁ nikkhamitabban”ti. Tesaṁ āyasmā dabbo mallaputto evaṁ senāsanaṁ paññapetvā punadeva veḷuvanaṁ paccāgacchati. Tena kho pana samayena mettiyabhūmajakā bhikkhū navakā ceva honti appapuññā ca. Yāni saṅghassa lāmakāni senāsanāni tāni tesaṁ pāpuṇanti lāmakāni ca bhattāni. Tena kho pana samayena rājagahe manussā icchanti therānaṁ bhikkhūnaṁ abhisaṅkhārikaṁ piṇḍapātaṁ dātuṁ— sappimpi, telampi, uttaribhaṅgampi. Mettiyabhūmajakānaṁ pana bhikkhūnaṁ pākatikaṁ denti— yathārandhaṁ kaṇājakaṁ bilaṅgadutiyaṁ.
+'Xin Tăng đoàn lắng nghe tôi. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên bổ nhiệm Tôn giả Dabba Mallaputta làm người sắp đặt chỗ ở và người phân phối bữa ăn. Đây là *lời đề nghị* (bạch / ñatti).
 
-4.5\. Te pacchābhattaṁ piṇḍapātapaṭikkantā there bhikkhū pucchanti— “tumhākaṁ, āvuso, bhattagge kiṁ ahosi, tumhākaṁ kiṁ ahosī”ti?
+Xin Tăng đoàn lắng nghe tôi. Tăng đoàn bổ nhiệm Tôn giả Dabba Mallaputta làm người sắp đặt chỗ ở và người phân phối bữa ăn. Tôn giả nào chấp thuận việc bổ nhiệm Tôn giả Dabba Mallaputta làm người sắp đặt chỗ ở và người phân phối bữa ăn thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-Ekacce therā evaṁ vadanti— “amhākaṁ, āvuso, sappi ahosi, telaṁ ahosi, uttaribhaṅgaṁ ahosī”ti.
+Tôn giả Dabba Mallaputta đã được Tăng đoàn bổ nhiệm làm người sắp đặt chỗ ở và người phân phối bữa ăn. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-Mettiyabhūmajakā pana bhikkhū evaṁ vadanti— “amhākaṁ, āvuso, na kiñci ahosi— pākatikaṁ yathārandhaṁ kaṇājakaṁ bilaṅgadutiyan”ti.
+4.4\. Khi đã được bổ nhiệm, Tôn giả Dabba Mallaputta sắp đặt chỗ ở chung một nơi cho những tỳ kheo có cùng sở thích. Đối với những tỳ kheo chuyên tụng Kinh, vị ấy sắp đặt chỗ ở chung một nơi [với ý nghĩ]: "Các vị ấy sẽ cùng nhau trùng tụng Kinh tạng." Đối với những tỳ kheo trì Luật, vị ấy sắp đặt chỗ ở chung một nơi: "Các vị ấy sẽ cùng nhau phân xử Luật tạng." Đối với những tỳ kheo thuyết giảng *Giáo pháp*, vị ấy sắp đặt chỗ ở chung một nơi: "Các vị ấy sẽ cùng nhau thảo luận *Giáo pháp*." Đối với những tỳ kheo hành *Thiền-na* (thiền / jhāyino), vị ấy sắp đặt chỗ ở chung một nơi: "Các vị ấy sẽ không quấy nhiễu lẫn nhau." Ngay cả đối với những tỳ kheo hay nói chuyện phiếm và thích hoạt động thể chất, vị ấy cũng sắp đặt chỗ ở chung một nơi: "Các tôn giả này sẽ ở chung theo niềm vui thích ấy của họ." {#4.4}
 
-4.6\. Tena kho pana samayena kalyāṇabhattiko gahapati saṅghassa catukkabhattaṁ deti niccabhattaṁ. So bhattagge saputtadāro upatiṭṭhitvā parivisati— aññe odanena pucchanti, aññe sūpena pucchanti, aññe telena pucchanti, aññe uttaribhaṅgena pucchanti.
+Ngay cả những tỳ kheo đến vào giờ không phải lúc, vị ấy cũng nhập vào *tính lửa* (hỏa giới / tejodhātuṁ) rồi dùng chính ánh sáng ấy mà sắp đặt chỗ ở cho họ; thậm chí có những tỳ kheo cố tình đến vào giờ không phải lúc [với ý nghĩ]: "Chúng ta sẽ xem *phép lạ thần thông* (thần biến / iddhipāṭihāriyaṁ) của Tôn giả Dabba Mallaputta." Họ đến gặp Tôn giả Dabba Mallaputta và nói:
 
-Tena kho pana samayena kalyāṇabhattikassa gahapatino bhattaṁ svātanāya mettiyabhūmajakānaṁ bhikkhūnaṁ uddiṭṭhaṁ hoti. Atha kho kalyāṇabhattiko gahapati ārāmaṁ agamāsi kenacideva karaṇīyena. So yenāyasmā dabbo mallaputto tenupasaṅkami, upasaṅkamitvā āyasmantaṁ dabbaṁ mallaputtaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho kalyāṇabhattikaṁ gahapatiṁ āyasmā dabbo mallaputto dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho kalyāṇabhattiko gahapati āyasmatā dabbena mallaputtena dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito āyasmantaṁ dabbaṁ mallaputtaṁ etadavoca— “kassa, bhante, amhākaṁ ghare svātanāya bhattaṁ uddiṭṭhan”ti?
+– Này hiền giả Dabba, hãy sắp đặt chỗ ở cho chúng tôi.
 
-“Mettiyabhūmajakānaṁ kho, gahapati, bhikkhūnaṁ tumhākaṁ ghare svātanāya bhattaṁ uddiṭṭhan”ti.
+Tôn giả Dabba Mallaputta hỏi họ:
 
-Atha kho kalyāṇabhattiko gahapati anattamano ahosi. Kathañhi nāma pāpabhikkhū amhākaṁ ghare bhuñjissantīti gharaṁ gantvā dāsiṁ āṇāpesi— “ye, je, sve bhattikā āgacchanti te koṭṭhake āsanaṁ paññapetvā kaṇājakena bilaṅgadutiyena parivisā”ti.
+– Các tôn giả muốn ở đâu, tôi sẽ sắp đặt ở đó?
 
-“Evaṁ, ayyā”ti kho sā dāsī kalyāṇabhattikassa gahapatino paccassosi.
+Họ cố tình chỉ những nơi xa xôi:
 
-4.7\. Atha kho mettiyabhūmajakā bhikkhū— “hiyyo kho, āvuso, amhākaṁ kalyāṇabhattikassa gahapatino bhattaṁ uddiṭṭhaṁ; sve amhe kalyāṇabhattiko gahapati saputtadāro upatiṭṭhitvā parivisissati; aññe odanena pucchissanti, aññe sūpena pucchissanti, aññe telena pucchissanti, aññe uttaribhaṅgena pucchissantī”ti. Te teneva somanassena na cittarūpaṁ rattiyā supiṁsu.
+– Này hiền giả Dabba, hãy sắp đặt chỗ ở cho chúng tôi trên núi Gijjhakūṭa. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại Corapapāta. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại Kāḷasilā bên sườn núi Isigili. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại hang Sattapaṇṇi bên sườn núi Vebhāra. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại mái đá Sappasoṇḍika trong rừng Sītavana. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại khe núi Gotamaka. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại khe núi Tinduka. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại khe núi Tapoda. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại khu vườn Tapoda. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại rừng xoài Jīvaka. Này hiền giả, hãy sắp đặt chỗ ở cho chúng tôi tại vườn nai ở Maddakucchi.
 
-Atha kho mettiyabhūmajakā bhikkhū pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena kalyāṇabhattikassa gahapatino nivesanaṁ tenupasaṅkamiṁsu. Addasā kho sā dāsī mettiyabhūmajake bhikkhū dūratova āgacchante; disvāna koṭṭhake āsanaṁ paññapetvā mettiyabhūmajake bhikkhū etadavoca— “nisīdatha, bhante”ti.
+Tôn giả Dabba Mallaputta nhập vào *tính lửa*, với ngón tay phát sáng rực mà đi phía trước dẫn đường cho họ. Họ cũng nhờ chính ánh sáng ấy mà đi theo sau lưng Tôn giả Dabba Mallaputta. Tôn giả Dabba Mallaputta sắp đặt chỗ ở cho họ như thế này: "Đây là giường, đây là ghế, đây là nệm, đây là gối, đây là chỗ đại tiện, đây là chỗ tiểu tiện, đây là nước uống, đây là nước dùng, đây là gậy chống, đây là quy ước sinh hoạt của Tăng đoàn, giờ này nên vào, giờ này nên ra." Sau khi sắp đặt chỗ ở cho họ như vậy, Tôn giả Dabba Mallaputta lại quay trở về Trúc Lâm.
 
-Atha kho mettiyabhūmajakānaṁ bhikkhūnaṁ etadahosi— “nissaṁsayaṁ kho na tāva bhattaṁ siddhaṁ bhavissati yathā mayaṁ koṭṭhake nisīdāpiyāmā”ti. Atha kho sā dāsī kaṇājakena bilaṅgadutiyena upagañchi— “bhuñjatha, bhante”ti.
+Khi ấy, nhóm tỳ kheo Mettiyabhūmajakā vừa là những vị mới tu vừa ít phước. Những chỗ ở tồi tệ nhất của Tăng đoàn và những bữa ăn xoàng xĩnh nhất đều rơi vào phần của họ. Lúc bấy giờ, dân chúng ở Rājagaha muốn cúng dường cho các tỳ kheo trưởng lão những món khất thực được chế biến công phu - gồm bơ lỏng, dầu ăn và thức ăn ngon thêm vào. Còn đối với nhóm tỳ kheo Mettiyabhūmajakā, họ chỉ cúng dường đồ ăn tầm thường - cháo tấm nấu sao ăn vậy kèm với nước chua.
 
-“Mayaṁ kho, bhagini, niccabhattikā”ti.
+4.5\. Sau bữa ăn, khi đi khất thực trở về, họ hỏi các tỳ kheo trưởng lão: {#4.5}
 
-“Jānāmi ayyā niccabhattikāti. Api cāhaṁ hiyyova gahapatinā āṇattā— ‘ye, je, sve bhattikā āgacchanti, te koṭṭhake āsanaṁ paññapetvā kaṇājakena bilaṅgadutiyena parivisā’ti. Bhuñjatha, bhante”ti.
+– Này các hiền giả, ở nhà ăn các vị có món gì, các vị có món gì?
 
-Atha kho mettiyabhūmajakā bhikkhū— “hiyyo kho, āvuso, kalyāṇabhattiko gahapati ārāmaṁ agamāsi dabbassa mallaputtassa santike. Nissaṁsayaṁ kho mayaṁ dabbena mallaputtena gahapatino antare paribhinnā”ti. Te teneva domanassena na cittarūpaṁ bhuñjiṁsu. Atha kho mettiyabhūmajakā bhikkhū pacchābhattaṁ piṇḍapātapaṭikkantā ārāmaṁ gantvā pattacīvaraṁ paṭisāmetvā bahārāmakoṭṭhake saṅghāṭipallatthikāya nisīdiṁsu tuṇhībhūtā maṅkubhūtā pattakkhandhā adhomukhā pajjhāyantā appaṭibhānā.
+Một số trưởng lão đáp:
 
-4.8\. Atha kho mettiyā bhikkhunī yena mettiyabhūmajakā bhikkhū tenupasaṅkami, upasaṅkamitvā mettiyabhūmajake bhikkhū etadavoca— “vandāmi, ayyā”ti. Evaṁ vutte, mettiyabhūmajakā bhikkhū nālapiṁsu. Dutiyampi kho …pe… tatiyampi kho mettiyā bhikkhunī mettiyabhūmajake bhikkhū etadavoca— “vandāmi, ayyā”ti. Tatiyampi kho mettiyabhūmajakā bhikkhū nālapiṁsu.
+– Này các hiền giả, chúng tôi có bơ lỏng, có dầu ăn, có thức ăn ngon thêm vào.
 
-“Kyāhaṁ ayyānaṁ aparajjhāmi? Kissa maṁ ayyā nālapantī”ti?
+Còn nhóm tỳ kheo Mettiyabhūmajakā thì nói:
 
-“Tathā hi pana tvaṁ, bhagini, amhe dabbena mallaputtena viheṭhiyamāne ajjhupekkhasī”ti?
+– Này các hiền giả, chúng tôi chẳng có gì cả - chỉ có đồ ăn tầm thường là cháo tấm nấu sao ăn vậy kèm với nước chua.
 
-“Kyāhaṁ, ayyā, karomī”ti?
+4.6\. Lúc bấy giờ, có gia chủ Kalyāṇabhattika cúng dường thường xuyên cho Tăng đoàn mỗi ngày bốn suất ăn cố định. Tại nhà ăn, ông cùng vợ con đứng hầu và phục vụ - người thì mời thêm cơm, người thì mời thêm canh, người thì mời thêm dầu, người thì mời thêm thức ăn ngon. {#4.6}
 
-“Sace kho tvaṁ, bhagini, iccheyyāsi, ajjeva bhagavā āyasmantaṁ dabbaṁ mallaputtaṁ nāsāpeyyā”ti.
+Khi ấy, bữa ăn ngày mai tại nhà gia chủ Kalyāṇabhattika được phân phối cho nhóm tỳ kheo Mettiyabhūmajakā. Rồi gia chủ Kalyāṇabhattika đến tu viện vì một công việc nào đó. Ông đi đến chỗ Tôn giả Dabba Mallaputta, đảnh lễ Tôn giả Dabba Mallaputta rồi ngồi xuống một bên. Tôn giả Dabba Mallaputta đã dùng bài giảng về *Giáo pháp* chỉ dạy, khích lệ, làm cho phấn khởi và hoan hỷ đối với gia chủ Kalyāṇabhattika đang ngồi một bên. Sau khi được Tôn giả Dabba Mallaputta dùng bài giảng về *Giáo pháp* chỉ dạy, khích lệ, làm cho phấn khởi và hoan hỷ, gia chủ Kalyāṇabhattika thưa với Tôn giả Dabba Mallaputta rằng:
 
-“Kyāhaṁ, ayyā, karomi? Kiṁ mayā sakkā kātun”ti?
+– Bạch Ngài, bữa ăn ngày mai tại nhà chúng con được phân phối cho vị nào vậy ạ?
 
-“Ehi tvaṁ, bhagini, yena bhagavā tenupasaṅkama, upasaṅkamitvā bhagavantaṁ evaṁ vadehi— ‘idaṁ, bhante, nacchannaṁ nappatirūpaṁ, yāyaṁ, bhante, disā abhayā anītikā anupaddavā sāyaṁ disā sabhayā saītikā saupaddavā; yato nivātaṁ tato savātaṁ; udakaṁ maññe ādittaṁ; ayyenamhi dabbena mallaputtena dūsitā’”ti.
+– Này gia chủ, bữa ăn ngày mai tại nhà ông được phân phối cho nhóm tỳ kheo Mettiyabhūmajakā.
 
-“Evaṁ, ayyā”ti kho mettiyā bhikkhunī mettiyabhūmajakānaṁ bhikkhūnaṁ paṭissutvā yena bhagavā tenupasaṅkami, upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho mettiyā bhikkhunī bhagavantaṁ etadavoca— “idaṁ, bhante, nacchannaṁ nappatirūpaṁ, yāyaṁ, bhante, disā abhayā anītikā anupaddavā sāyaṁ disā sabhayā saītikā saupaddavā; yato nivātaṁ tato savātaṁ; udakaṁ maññe ādittaṁ; ayyenamhi dabbena mallaputtena dūsitā”ti.
+Gia chủ Kalyāṇabhattika liền lấy làm bất mãn. Nghĩ rằng: "Sao những tỳ kheo xấu xa lại đến ăn ở nhà mình chứ?", ông trở về nhà và ra lệnh cho người nữ tỳ:
 
-4.9\. Atha kho bhagavā etasmiṁ nidāne etasmiṁ pakaraṇe bhikkhusaṅghaṁ sannipātāpetvā āyasmantaṁ dabbaṁ mallaputtaṁ paṭipucchi— “sarasi tvaṁ, dabba, evarūpaṁ kattā yathāyaṁ bhikkhunī āhā”ti?
+– Này cô kia, ngày mai những vị nhận ăn nào đến, hãy trải chỗ ngồi ở nhà kho ngoài cổng và dọn cháo tấm kèm nước chua cho họ ăn.
 
-“Yathā maṁ, bhante, bhagavā jānātī”ti.
+– Thưa vâng, thưa ông chủ - người nữ tỳ vâng lời gia chủ Kalyāṇabhattika.
 
-Dutiyampi kho bhagavā āyasmantaṁ dabbaṁ mallaputtaṁ etadavoca— “sarasi tvaṁ, dabba, evarūpaṁ kattā yathāyaṁ bhikkhunī āhā”ti? “Yathā maṁ, bhante, bhagavā jānātī”ti. Tatiyampi kho bhagavā āyasmantaṁ dabbaṁ mallaputtaṁ etadavoca— “sarasi tvaṁ, dabba, evarūpaṁ kattā yathāyaṁ bhikkhunī āhā”ti? “Yathā maṁ, bhante, bhagavā jānātī”ti. “Na kho, dabba, dabbā evaṁ nibbeṭhenti. Sace tayā kataṁ katanti vadehi. Sace akataṁ akatanti vadehī”ti.
+4.7\. Về phần nhóm tỳ kheo Mettiyabhūmajakā [bảo nhau]: {#4.7}
 
-“Yatohaṁ, bhante, jāto nābhijānāmi supinantenapi methunaṁ dhammaṁ paṭisevitā, pageva jāgaro”ti.
+– Này các hiền giả, hôm qua bữa ăn tại nhà gia chủ Kalyāṇabhattika đã được phân phối cho chúng ta; ngày mai gia chủ Kalyāṇabhattika cùng vợ con sẽ đứng hầu và phục vụ chúng ta - người sẽ mời thêm cơm, người sẽ mời thêm canh, người sẽ mời thêm dầu, người sẽ mời thêm thức ăn ngon.
 
-Atha kho bhagavā bhikkhū āmantesi— “tena hi, bhikkhave, mettiyaṁ bhikkhuniṁ nāsetha. Ime ca bhikkhū anuyuñjathā”ti. Idaṁ vatvā bhagavā uṭṭhāyāsanā vihāraṁ pāvisi.
+Vì chính niềm *an lạc* (hỷ / somanassena) ấy mà suốt đêm họ ngủ không ngon giấc.
 
-Atha kho te bhikkhū mettiyaṁ bhikkhuniṁ nāsesuṁ. Atha kho mettiyabhūmajakā bhikkhū te bhikkhū etadavocuṁ— “māvuso, mettiyaṁ bhikkhuniṁ nāsetha, na sā kiñci aparajjhati; amhehi sā ussāhitā kupitehi anattamanehi cāvanādhippāyehī”ti.
+Sáng hôm sau, nhóm tỳ kheo Mettiyabhūmajakā đắp y, mang bát và y choàng đi đến nhà gia chủ Kalyāṇabhattika. Người nữ tỳ thấy nhóm tỳ kheo Mettiyabhūmajakā đang đi đến từ xa; thấy vậy, cô trải chỗ ngồi ở nhà kho ngoài cổng rồi nói với nhóm tỳ kheo Mettiyabhūmajakā:
 
-“Kiṁ pana tumhe, āvuso, āyasmantaṁ dabbaṁ mallaputtaṁ amūlikāya sīlavipattiyā anuddhaṁsethā”ti?
+– Xin các Ngài ngồi đây ạ.
 
-“Evamāvuso”ti.
+Nhóm tỳ kheo Mettiyabhūmajakā liền nghĩ: "Chắc chắn là cơm chưa nấu xong nên chúng ta mới được mời ngồi ở nhà kho ngoài cổng." Rồi người nữ tỳ bưng cháo tấm kèm nước chua đến:
 
-Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma mettiyabhūmajakā bhikkhū āyasmantaṁ dabbaṁ mallaputtaṁ amūlikāya sīlavipattiyā anuddhaṁsessantī”ti.
+– Xin các Ngài dùng bữa ạ.
 
-Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira, bhikkhave, mettiyabhūmajakā bhikkhū dabbaṁ mallaputtaṁ amūlikāya sīlavipattiyā anuddhaṁsentī”ti?
+– Này chị, chúng tôi là những người nhận bữa ăn cố định mà.
 
-“Saccaṁ, bhagavā”ti …pe…
+– Con biết các Ngài là những người nhận bữa ăn cố định. Nhưng ngay từ hôm qua ông chủ đã dặn con rồi: 'Này cô kia, ngày mai những vị nhận ăn nào đến, hãy trải chỗ ngồi ở nhà kho ngoài cổng và dọn cháo tấm kèm nước chua cho họ ăn.' Xin các Ngài dùng bữa ạ.
 
-vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+Nhóm tỳ kheo Mettiyabhūmajakā liền nghĩ: "Này các hiền giả, hôm qua gia chủ Kalyāṇabhattika đã đến tu viện gặp Dabba Mallaputta. Chắc chắn chúng ta đã bị Dabba Mallaputta nói xấu chia rẽ với gia chủ rồi!" Vì chính nỗi *ưu phiền* (ưu / domanassena) ấy mà họ ăn không ngon miệng. Sau bữa ăn, nhóm tỳ kheo Mettiyabhūmajakā đi khất thực trở về tu viện, cất bát và y rồi ngồi ở tiền sảnh ngoài cổng tu viện, quấn y choàng quanh gối, im lặng, bẽ bàng, rũ vai, cúi mặt, ủ rũ và không nói nên lời.
 
-4.10\. “Tena hi, bhikkhave, saṅgho dabbassa mallaputtassa sativepullappattassa sativinayaṁ detu. Evañca pana, bhikkhave, dātabbo— tena, bhikkhave, dabbena mallaputtena saṅghaṁ upasaṅkamitvā, ekaṁsaṁ uttarāsaṅgaṁ karitvā, vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā, ukkuṭikaṁ nisīditvā, añjaliṁ paggahetvā, evamassa vacanīyo—
+4.8\. Khi ấy, tỳ kheo ni Mettiyā đi đến chỗ nhóm tỳ kheo Mettiyabhūmajakā; đến nơi, cô nói với nhóm tỳ kheo Mettiyabhūmajakā: {#4.8}
 
-‘ime maṁ, bhante, mettiyabhūmajakā bhikkhū amūlikāya sīlavipattiyā anuddhaṁsenti. Sohaṁ, bhante, sativepullappatto saṅghaṁ sativinayaṁ yācāmī’ti.
+– Con đảnh lễ các Ngài ạ.
 
-Dutiyampi yācitabbo. Tatiyampi yācitabbo—
+Được nói vậy, nhóm tỳ kheo Mettiyabhūmajakā không thèm đáp lời. Lần thứ hai `[...lặp lại...]` lần thứ ba tỳ kheo ni Mettiyā nói với nhóm tỳ kheo Mettiyabhūmajakā:
 
-‘ime maṁ, bhante, mettiyabhūmajakā bhikkhū amūlikāya sīlavipattiyā anuddhaṁsenti. Sohaṁ sativepullappatto tatiyampi, bhante, saṅghaṁ sativinayaṁ yācāmī’ti.
+– Con đảnh lễ các Ngài ạ.
 
-Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Lần thứ ba nhóm tỳ kheo Mettiyabhūmajakā vẫn không đáp lời.
 
-‘Suṇātu me, bhante, saṅgho. Ime mettiyabhūmajakā bhikkhū āyasmantaṁ dabbaṁ mallaputtaṁ amūlikāya sīlavipattiyā anuddhaṁsenti. Āyasmā dabbo mallaputto sativepullappatto saṅghaṁ sativinayaṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho āyasmato dabbassa mallaputtassa sativepullappattassa sativinayaṁ dadeyya. Esā ñatti.
+– Con đã có lỗi gì với các Ngài? Sao các Ngài không nói chuyện với con?
 
-Suṇātu me, bhante, saṅgho. Ime mettiyabhūmajakā bhikkhū āyasmantaṁ dabbaṁ mallaputtaṁ amūlikāya sīlavipattiyā anuddhaṁsenti. Āyasmā dabbo mallaputto sativepullappatto saṅghaṁ sativinayaṁ yācati. Saṅgho āyasmato dabbassa mallaputtassa sativepullappattassa sativinayaṁ deti. Yassāyasmato khamati āyasmato dabbassa mallaputtassa sativepullappattassa sativinayassa dānaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+– Vì cô đấy, này cô em, thấy chúng tôi bị Dabba Mallaputta làm cho khốn khổ mà cô cứ làm ngơ!
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi— suṇātu me, bhante, saṅgho. Ime mettiyabhūmajakā bhikkhū āyasmantaṁ dabbaṁ mallaputtaṁ amūlikāya sīlavipattiyā anuddhaṁsenti. Āyasmā dabbo mallaputto sativepullappatto saṅghaṁ sativinayaṁ yācati. Saṅgho āyasmato dabbassa mallaputtassa sativepullappattassa sativinayaṁ deti. Yassāyasmato khamati āyasmato dabbassa mallaputtassa sativepullappattassa sativinayassa dānaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+– Con biết làm gì được, thưa các Ngài?
 
-Dinno saṅghena āyasmato dabbassa mallaputtassa sativepullappattassa sativinayo. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+– Này cô em, nếu cô muốn, ngay hôm nay Thế Tôn có thể trục xuất Tôn giả Dabba Mallaputta đấy.
 
-4.11\. Pañcimāni, bhikkhave, dhammikāni sativinayassa dānāni. Suddho hoti bhikkhu anāpattiko, anuvadanti ca naṁ, yācati ca, tassa saṅgho sativinayaṁ deti dhammena samaggena— imāni kho, bhikkhave, pañca dhammikāni sativinayassa dānānī”ti.
+– Con biết làm gì đây, thưa các Ngài? Con có thể làm được gì chứ?
 
-## 3. Amūḷhavinaya
+– Này cô em, hãy đi đến gặp Thế Tôn; đến nơi rồi hãy thưa với Thế Tôn thế này: 'Bạch Thế Tôn, điều này thật không thích hợp, không xứng đáng; phương hướng vốn không sợ hãi, không tai họa, không nguy hiểm, nay phương hướng ấy lại đầy sợ hãi, đầy tai họa, đầy nguy hiểm; từ nơi khuất gió nay lại nổi gió; con ngỡ như nước đã bốc cháy rồi; con đã bị ngài Dabba Mallaputta làm cho ô uế rồi!'
 
-5.1\. Tena kho pana samayena gaggo bhikkhu ummattako hoti, cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ. Bhikkhū gaggaṁ bhikkhuṁ ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? So evaṁ vadeti—
+– Thưa vâng, thưa các Ngài - tỳ kheo ni Mettiyā vâng lời nhóm tỳ kheo Mettiyabhūmajakā, đi đến gặp Thế Tôn; sau khi đảnh lễ Thế Tôn, cô đứng sang một bên. Đứng sang một bên rồi, tỳ kheo ni Mettiyā thưa với Thế Tôn rằng:
 
-“ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi. Mūḷhena me etaṁ katan”ti.
+– Bạch Thế Tôn, điều này thật không thích hợp, không xứng đáng; phương hướng vốn không sợ hãi, không tai họa, không nguy hiểm, nay phương hướng ấy lại đầy sợ hãi, đầy tai họa, đầy nguy hiểm; từ nơi khuất gió nay lại nổi gió; con ngỡ như nước đã bốc cháy rồi; con đã bị ngài Dabba Mallaputta làm cho ô uế rồi!
 
-Evampi naṁ vuccamānā codenteva— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma bhikkhū gaggaṁ bhikkhuṁ ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codessanti— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti. So evaṁ vadeti— ‘ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi. Mūḷhena me etaṁ katan’ti. Evampi naṁ vuccamānā codenteva— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’”ti?
+4.9\. Nhân duyên ấy và sự việc ấy, Thế Tôn cho triệu tập Tăng đoàn tỳ kheo lại và hỏi Tôn giả Dabba Mallaputta: {#4.9}
 
-Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira, bhikkhave …pe…
+– Này Dabba, con có nhớ mình đã làm việc như vị tỳ kheo ni này nói không?
 
-saccaṁ, bhagavā”ti …pe…
+– Bạch Thế Tôn, Thế Tôn biết con như thế nào [thì chính là như vậy].
 
-vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+Lần thứ hai, Thế Tôn hỏi Tôn giả Dabba Mallaputta:
 
-“Tena hi, bhikkhave, saṅgho gaggassa bhikkhuno amūḷhassa amūḷhavinayaṁ detu. Evañca pana, bhikkhave, dātabbo— tena, bhikkhave, gaggena bhikkhunā saṅghaṁ upasaṅkamitvā, ekaṁsaṁ uttarāsaṅgaṁ karitvā, vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā, ukkuṭikaṁ nisīditvā, añjaliṁ paggahetvā, evamassa vacanīyo—
+– Này Dabba, con có nhớ mình đã làm việc như vị tỳ kheo ni này nói không?
 
-5.2\. ‘ahaṁ, bhante, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Maṁ bhikkhū ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? Tyāhaṁ evaṁ vadāmi— “ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi. Mūḷhena me etaṁ katan”ti. Evampi maṁ vuccamānā codenteva— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? Sohaṁ, bhante, amūḷho saṅghaṁ amūḷhavinayaṁ yācāmī’ti.
+– Bạch Thế Tôn, Thế Tôn biết con như thế nào [thì chính là như vậy].
 
-Dutiyampi yācitabbo. Tatiyampi yācitabbo—
+Lần thứ ba, Thế Tôn hỏi Tôn giả Dabba Mallaputta:
 
-‘ahaṁ, bhante, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Maṁ bhikkhū ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? Tyāhaṁ evaṁ vadāmi— “ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi mūḷhena me etaṁ katan”ti. Evampi maṁ vuccamānā codenteva— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? Sohaṁ amūḷho tatiyampi, bhante, saṅghaṁ amūḷhavinayaṁ yācāmī’ti.
+– Này Dabba, con có nhớ mình đã làm việc như vị tỳ kheo ni này nói không?
 
-Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+– Bạch Thế Tôn, Thế Tôn biết con như thế nào [thì chính là như vậy].
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ gaggo bhikkhu ummattako ahosi cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Bhikkhū gaggaṁ bhikkhuṁ ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? So evaṁ vadeti— “ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi, mūḷhena me etaṁ katan”ti. Evampi naṁ vuccamānā codenteva— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? So amūḷho saṅghaṁ amūḷhavinayaṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho gaggassa bhikkhuno amūḷhassa amūḷhavinayaṁ dadeyya. Esā ñatti.
+– Này Dabba, những bậc hiền trí không biện minh như vậy. Nếu con có làm, hãy nói 'có làm'. Nếu không làm, hãy nói 'không làm'.
 
-Suṇātu me, bhante, saṅgho. Ayaṁ gaggo bhikkhu ummattako ahosi cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Bhikkhū gaggaṁ bhikkhuṁ ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? So evaṁ vadeti— “ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi mūḷhena me etaṁ katan”ti. Evampi naṁ vuccamānā codenteva— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti? So amūḷho saṅghaṁ amūḷhavinayaṁ yācati. Saṅgho gaggassa bhikkhuno amūḷhassa amūḷhavinayaṁ deti. Yassāyasmato khamati gaggassa bhikkhuno amūḷhassa amūḷhavinayassa dānaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+– Bạch Thế Tôn, từ khi con sinh ra, ngay cả trong giấc mơ con cũng chưa từng biết đến việc hành dâm, huống chi là khi thức!
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi …pe….
+Rồi Thế Tôn gọi các tỳ kheo mà dạy rằng:
 
-Dinno saṅghena gaggassa bhikkhuno amūḷhassa amūḷhavinayo. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+– Vậy thì, này các tỳ kheo, hãy trục xuất tỳ kheo ni Mettiyā và tra vấn các tỳ kheo này.
 
-6.1\. Tīṇimāni, bhikkhave, adhammikāni amūḷhavinayassa dānāni, tīṇi dhammikāni. Katamāni tīṇi adhammikāni amūḷhavinayassa dānāni?
+Nói xong điều ấy, Thế Tôn đứng dậy khỏi chỗ ngồi và đi vào tịnh xá.
 
-Idha pana, bhikkhave, bhikkhu āpattiṁ āpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti? So saramānova evaṁ vadeti— ‘na kho ahaṁ, āvuso, sarāmi evarūpiṁ āpattiṁ āpajjitā’ti. Tassa saṅgho amūḷhavinayaṁ deti. Adhammikaṁ amūḷhavinayassa dānaṁ.
+Sau đó, các tỳ kheo trục xuất tỳ kheo ni Mettiyā. Lúc ấy, nhóm tỳ kheo Mettiyabhūmajakā nói với các tỳ kheo ấy:
 
-Idha pana, bhikkhave, bhikkhu āpattiṁ āpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti? So saramānova evaṁ vadeti— ‘sarāmi kho ahaṁ, āvuso, yathāsupinantenā’ti. Tassa saṅgho amūḷhavinayaṁ deti. Adhammikaṁ amūḷhavinayassa dānaṁ.
+– Này các hiền giả, đừng trục xuất tỳ kheo ni Mettiyā, cô ấy chẳng có lỗi gì cả; chính chúng tôi vì giận dữ và bất mãn, muốn làm cho ngài ấy bị đuổi nên đã xúi giục cô ấy đấy.
 
-Idha pana, bhikkhave, bhikkhu āpattiṁ āpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti? So anummattako ummattakālayaṁ karoti— ‘ahampi kho evaṁ karomi. Tumhepi evaṁ karotha. Mayhampi etaṁ kappati. Tumhākampetaṁ kappatī’ti. Tassa saṅgho amūḷhavinayaṁ deti. Adhammikaṁ amūḷhavinayassa dānaṁ.
+– Này các hiền giả, vậy chính các vị đã vu khống Tôn giả Dabba Mallaputta về sự hư hỏng giới hạnh không có căn cứ sao?
 
-6.2\. Imāni tīṇi adhammikāni amūḷhavinayassa dānāni.
+– Đúng vậy, thưa các hiền giả.
 
-Katamāni tīṇi dhammikāni amūḷhavinayassa dānāni?
+Những tỳ kheo ít *mong muốn* `[...lặp lại...]` tỏ ra bất bình, phê phán và chỉ trích rằng:
 
-Idha pana, bhikkhave, bhikkhu ummattako hoti cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti? So assaramānova evaṁ vadeti— ‘na kho ahaṁ, āvuso, sarāmi evarūpiṁ āpattiṁ āpajjitā’ti. Tassa saṅgho amūḷhavinayaṁ deti. Dhammikaṁ amūḷhavinayassa dānaṁ.
+– Sao nhóm tỳ kheo Mettiyabhūmajakā lại có thể vu khống Tôn giả Dabba Mallaputta về sự hư hỏng giới hạnh không có căn cứ chứ?
 
-Idha pana, bhikkhave, bhikkhu ummattako hoti cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti? So assaramānova evaṁ vadeti— ‘sarāmi kho ahaṁ, āvuso, yathāsupinantenā’ti. Tassa saṅgho amūḷhavinayaṁ deti. Dhammikaṁ amūḷhavinayassa dānaṁ.
+Rồi các tỳ kheo ấy trình bày sự việc này lên Thế Tôn `[...lặp lại...]`:
 
-Idha pana, bhikkhave, bhikkhu ummattako hoti cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti? So ummattako ummattakālayaṁ karoti— ‘ahampi evaṁ karomi. Tumhepi evaṁ karotha. Mayhampi etaṁ kappati. Tumhākampetaṁ kappatī’ti. Tassa saṅgho amūḷhavinayaṁ deti. Dhammikaṁ amūḷhavinayassa dānaṁ. Imāni tīṇi dhammikāni amūḷhavinayassa dānānī”ti.
+– Này các tỳ kheo, nghe nói nhóm tỳ kheo Mettiyabhūmajakā vu khống Dabba Mallaputta về sự hư hỏng giới hạnh không có căn cứ, có đúng vậy không?
 
-## 4. Paṭiññātakaraṇa
+– Bạch Thế Tôn, đúng vậy `[...lặp lại...]`.
 
-7.1\. Tena kho pana samayena chabbaggiyā bhikkhū appaṭiññāya bhikkhūnaṁ kammāni karonti— tajjanīyampi, niyassampi, pabbājanīyampi, paṭisāraṇīyampi, ukkhepanīyampi. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma chabbaggiyā bhikkhū appaṭiññāya bhikkhūnaṁ kammāni karissanti— tajjanīyampi, niyassampi, pabbājanīyampi, paṭisāraṇīyampi, ukkhepanīyampī”ti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe…
+Sau khi quở trách `[...lặp lại...]` và *giảng về Giáo pháp*, Ngài gọi các tỳ kheo mà dạy rằng:
 
-“saccaṁ kira, bhikkhave …pe… “saccaṁ, bhagavā”ti …pe… vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+4.10\. – Này các tỳ kheo, vậy thì Tăng đoàn hãy ban hành *xử lý theo trí nhớ sáng suốt* (ức niệm tỳ-ni / sativinayaṁ) cho Dabba Mallaputta, vị đã đạt đến trí nhớ hoàn toàn sáng suốt. Này các tỳ kheo, phải ban hành như sau: Dabba Mallaputta phải đi đến trước Tăng đoàn, đắp y lệch một bên vai, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi xổm xuống, chắp tay lên và thưa như sau: {#4.10}
 
-“na, bhikkhave, appaṭiññāya bhikkhūnaṁ kammaṁ kātabbaṁ— tajjanīyaṁ vā, niyassaṁ vā, pabbājanīyaṁ vā, paṭisāraṇīyaṁ vā, ukkhepanīyaṁ vā. Yo kareyya, āpatti dukkaṭassa.
+'Bạch chư Tăng, nhóm tỳ kheo Mettiyabhūmajakā này vu khống con về sự hư hỏng giới hạnh không có căn cứ. Bạch chư Tăng, con là người có trí nhớ hoàn toàn sáng suốt, xin thỉnh cầu Tăng đoàn ban cho *xử lý theo trí nhớ sáng suốt*.'
 
-8.1\. Evaṁ kho, bhikkhave, adhammikaṁ hoti paṭiññātakaraṇaṁ, evaṁ dhammikaṁ. Kathañca, bhikkhave, adhammikaṁ hoti paṭiññātakaraṇaṁ?
+Phải thỉnh cầu lần thứ hai. Phải thỉnh cầu lần thứ ba:
 
-Bhikkhu pārājikaṁ ajjhāpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘pārājikaṁ āyasmā ajjhāpanno’ti? So evaṁ vadeti— ‘na kho ahaṁ, āvuso, pārājikaṁ ajjhāpanno, saṅghādisesaṁ ajjhāpanno’ti. Taṁ saṅgho saṅghādisesena kāreti. Adhammikaṁ paṭiññātakaraṇaṁ.
+'Bạch chư Tăng, nhóm tỳ kheo Mettiyabhūmajakā này vu khống con về sự hư hỏng giới hạnh không có căn cứ. Bạch chư Tăng, con là người có trí nhớ hoàn toàn sáng suốt, lần thứ ba xin thỉnh cầu Tăng đoàn ban cho *xử lý theo trí nhớ sáng suốt*.'
 
-Bhikkhu pārājikaṁ ajjhāpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘pārājikaṁ āyasmā ajjhāpanno’ti? So evaṁ vadeti— ‘na kho ahaṁ, āvuso, pārājikaṁ ajjhāpanno, thullaccayaṁ …pe… pācittiyaṁ …pe… pāṭidesanīyaṁ …pe… dukkaṭaṁ …pe… dubbhāsitaṁ ajjhāpanno’ti. Taṁ saṅgho dubbhāsitena kāreti. Adhammikaṁ paṭiññātakaraṇaṁ.
+Một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
 
-Bhikkhu saṅghādisesaṁ …pe… thullaccayaṁ …pe… pācittiyaṁ …pe… pāṭidesanīyaṁ …pe… dukkaṭaṁ …pe… dubbhāsitaṁ ajjhāpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘dubbhāsitaṁ āyasmā ajjhāpanno’ti? So evaṁ vadeti— ‘na kho ahaṁ, āvuso, dubbhāsitaṁ ajjhāpanno, pārājikaṁ ajjhāpanno’ti. Taṁ saṅgho pārājikena kāreti. Adhammikaṁ paṭiññātakaraṇaṁ.
+'Xin Tăng đoàn lắng nghe tôi. Nhóm tỳ kheo Mettiyabhūmajakā này vu khống Tôn giả Dabba Mallaputta về sự hư hỏng giới hạnh không có căn cứ. Tôn giả Dabba Mallaputta là người có trí nhớ hoàn toàn sáng suốt, đang thỉnh cầu Tăng đoàn ban cho *xử lý theo trí nhớ sáng suốt*. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên ban cho Tôn giả Dabba Mallaputta, vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt*. Đây là *lời đề nghị*.
 
-Bhikkhu dubbhāsitaṁ ajjhāpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘dubbhāsitaṁ āyasmā ajjhāpanno’ti? So evaṁ vadeti— ‘na kho ahaṁ, āvuso, dubbhāsitaṁ ajjhāpanno, saṅghādisesaṁ …pe… thullaccayaṁ …pe… pācittiyaṁ …pe… pāṭidesanīyaṁ …pe… dukkaṭaṁ ajjhāpanno’ti. Taṁ saṅgho dukkaṭena kāreti. Adhammikaṁ paṭiññātakaraṇaṁ.
+Xin Tăng đoàn lắng nghe tôi. Nhóm tỳ kheo Mettiyabhūmajakā này vu khống Tôn giả Dabba Mallaputta về sự hư hỏng giới hạnh không có căn cứ. Tôn giả Dabba Mallaputta là người có trí nhớ hoàn toàn sáng suốt, đang thỉnh cầu Tăng đoàn ban cho *xử lý theo trí nhớ sáng suốt*. Tăng đoàn ban cho Tôn giả Dabba Mallaputta, vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt*. Tôn giả nào chấp thuận việc ban cho Tôn giả Dabba Mallaputta, vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt* thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-8.2\. Evaṁ kho, bhikkhave, adhammikaṁ hoti paṭiññātakaraṇaṁ.
+Lần thứ hai tôi xin tuyên bố việc này `[...lặp lại...]` lần thứ ba tôi xin tuyên bố việc này: Xin Tăng đoàn lắng nghe tôi. Nhóm tỳ kheo Mettiyabhūmajakā này vu khống Tôn giả Dabba Mallaputta về sự hư hỏng giới hạnh không có căn cứ. Tôn giả Dabba Mallaputta là người có trí nhớ hoàn toàn sáng suốt, đang thỉnh cầu Tăng đoàn ban cho *xử lý theo trí nhớ sáng suốt*. Tăng đoàn ban cho Tôn giả Dabba Mallaputta, vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt*. Tôn giả nào chấp thuận việc ban cho Tôn giả Dabba Mallaputta, vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt* thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-Kathañca, bhikkhave, dhammikaṁ hoti paṭiññātakaraṇaṁ?
+Tăng đoàn đã ban cho Tôn giả Dabba Mallaputta, vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt*. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-Bhikkhu pārājikaṁ ajjhāpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘pārājikaṁ āyasmā ajjhāpanno’ti? So evaṁ vadeti— ‘āma, āvuso, pārājikaṁ ajjhāpanno’ti. Taṁ saṅgho pārājikena kāreti. Dhammikaṁ paṭiññātakaraṇaṁ.
+4.11\. Này các tỳ kheo, có năm điều làm cho việc ban hành *xử lý theo trí nhớ sáng suốt* được đúng pháp: vị tỳ kheo ấy trong sạch, vị ấy không phạm lỗi, người ta cáo buộc vị ấy, vị ấy thỉnh cầu và Tăng đoàn ban hành *xử lý theo trí nhớ sáng suốt* cho vị ấy một cách đúng pháp và hòa hợp - này các tỳ kheo, đây là năm điều làm cho việc ban hành *xử lý theo trí nhớ sáng suốt* được đúng pháp. {#4.11}
 
-Bhikkhu saṅghādisesaṁ …pe… thullaccayaṁ …pe… pācittiyaṁ …pe… pāṭidesanīyaṁ …pe… dukkaṭaṁ …pe… dubbhāsitaṁ ajjhāpanno hoti. Tamenaṁ codeti saṅgho vā, sambahulā vā, ekapuggalo vā— ‘dubbhāsitaṁ āyasmā ajjhāpanno’ti? So evaṁ vadeti— ‘āma, āvuso, dubbhāsitaṁ ajjhāpanno’ti. Taṁ saṅgho dubbhāsitena kāreti. Dhammikaṁ paṭiññātakaraṇaṁ. Evaṁ kho, bhikkhave, dhammikaṁ hoti paṭiññātakaraṇan”ti.
+## 3. Xử lý cho người hết mê loạn
 
-## 5. Yebhuyyasikā
+5.1\. Lúc bấy giờ, tỳ kheo Gagga bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn tỳ kheo Gagga về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: {#5.1}
 
-9.1\. Tena kho pana samayena bhikkhū saṅghamajjhe bhaṇḍanajātā kalahajātā vivādāpannā aññamaññaṁ mukhasattīhi vitudantā viharanti, na sakkonti taṁ adhikaraṇaṁ vūpasametuṁ. Bhagavato etamatthaṁ ārocesuṁ.
+– Tôn giả có nhớ mình đã phạm lỗi như vậy không?
 
-“Anujānāmi, bhikkhave, evarūpaṁ adhikaraṇaṁ yebhuyyasikāya vūpasametuṁ.
+Vị ấy đáp:
 
-Pañcahaṅgehi samannāgato bhikkhu salākaggāhāpako sammannitabbo— yo na chandāgatiṁ gaccheyya, na dosāgatiṁ gaccheyya, na mohāgatiṁ gaccheyya, na bhayāgatiṁ gaccheyya, gahitāgahitañca jāneyya.
+– Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó. Việc ấy là do tôi làm trong lúc mê loạn.
 
-Evañca pana, bhikkhave, sammannitabbo. Paṭhamaṁ bhikkhu yācitabbo, yācitvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Dù vị ấy đã nói như vậy, họ vẫn tiếp tục chất vấn:
 
-‘Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmaṁ bhikkhuṁ salākaggāhāpakaṁ sammanneyya. Esā ñatti.
+– Tôn giả có nhớ mình đã phạm lỗi như vậy không?
 
-Suṇātu me, bhante, saṅgho. Saṅgho itthannāmaṁ bhikkhuṁ salākaggāhāpakaṁ sammannati. Yassāyasmato khamati itthannāmassa bhikkhuno salākaggāhāpakassa sammuti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Những tỳ kheo ít *mong muốn* `[...lặp lại...]` tỏ ra bất bình, phê phán và chỉ trích rằng:
 
-Sammato saṅghena itthannāmo bhikkhu salākaggāhāpako. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+– Sao các tỳ kheo lại chất vấn tỳ kheo Gagga về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?', khi vị ấy đã nói: 'Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó. Việc ấy là do tôi làm trong lúc mê loạn', mà dù vị ấy đã nói như vậy, họ vẫn tiếp tục chất vấn: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?'
 
-10.1\. Dasayime, bhikkhave, adhammikā salākaggāhā, dasa dhammikā. Katame dasa adhammikā salākaggāhā? Oramattakañca adhikaraṇaṁ hoti, na ca gatigataṁ hoti, na ca saritasāritaṁ hoti, jānāti adhammavādī bahutarāti, appeva nāma adhammavādī bahutarā assūti, jānāti saṅgho bhijjissatīti, appeva nāma saṅgho bhijjeyyāti, adhammena gaṇhanti, vaggā gaṇhanti, na ca yathādiṭṭhiyā gaṇhanti— ime dasa adhammikā salākaggāhā.
+Rồi các tỳ kheo ấy trình bày sự việc này lên Thế Tôn `[...lặp lại...]`:
 
-10.2\. Katame dasa dhammikā salākaggāhā? Na ca oramattakaṁ adhikaraṇaṁ hoti, gatigatañca hoti, saritasāritañca hoti, jānāti dhammavādī bahutarāti, appeva nāma dhammavādī bahutarā assūti, jānāti saṅgho na bhijjissatīti, appeva nāma saṅgho na bhijjeyyāti, dhammena gaṇhanti, samaggā gaṇhanti, yathādiṭṭhiyā ca gaṇhanti— ime dasa dhammikā salākaggāhā”ti.
+– Này các tỳ kheo, nghe nói `[...lặp lại...]` có đúng vậy không?
 
-## 6. Tassapāpiyasikā
+– Bạch Thế Tôn, đúng vậy `[...lặp lại...]`.
 
-11.1\. Tena kho pana samayena upavāḷo bhikkhu saṅghamajjhe āpattiyā anuyuñjiyamāno avajānitvā paṭijānāti, paṭijānitvā avajānāti, aññenaññaṁ paṭicarati, sampajānamusā bhāsati. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma upavāḷo bhikkhu saṅghamajjhe āpattiyā anuyuñjiyamāno avajānitvā paṭijānissati, paṭijānitvā avajānissati, aññenaññaṁ paṭicarissati, sampajānamusā bhāsissatī”ti.
+Sau khi quở trách `[...lặp lại...]` và *giảng về Giáo pháp*, Ngài gọi các tỳ kheo mà dạy rằng:
 
-Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe… “saccaṁ kira, bhikkhave …pe…
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy ban hành *xử lý cho người hết mê loạn* (bất si tỳ-ni / amūḷhavinayaṁ) cho tỳ kheo Gagga, vị đã hết mê loạn. Này các tỳ kheo, phải ban hành như sau: tỳ kheo Gagga phải đi đến trước Tăng đoàn, đắp y lệch một bên vai, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi xổm xuống, chắp tay lên và thưa như sau:
 
-“saccaṁ, bhagavā”ti …pe…
+5.2\. 'Bạch chư Tăng, con đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, con đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn con về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Con đã đáp với họ rằng: "Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó. Việc ấy là do tôi làm trong lúc mê loạn." Dù con đã nói như vậy, họ vẫn tiếp tục chất vấn con rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Bạch chư Tăng, nay con đã hết mê loạn, xin thỉnh cầu Tăng đoàn ban cho *xử lý cho người hết mê loạn*.' {#5.2}
 
-vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+Phải thỉnh cầu lần thứ hai. Phải thỉnh cầu lần thứ ba:
 
-“tena hi, bhikkhave, saṅgho upavāḷassa bhikkhuno tassapāpiyasikākammaṁ karotu. Evañca pana, bhikkhave, kātabbaṁ. Paṭhamaṁ upavāḷo bhikkhu codetabbo, codetvā sāretabbo, sāretvā āpattiṁ āropetabbo, āpattiṁ āropetvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+'Bạch chư Tăng, con đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, con đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn con về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Con đã đáp với họ rằng: "Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó. Việc ấy là do tôi làm trong lúc mê loạn." Dù con đã nói như vậy, họ vẫn tiếp tục chất vấn con rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Nay con đã hết mê loạn, bạch chư Tăng, lần thứ ba xin thỉnh cầu Tăng đoàn ban cho *xử lý cho người hết mê loạn*.'
 
-11.2\. ‘Suṇātu me, bhante, saṅgho. Ayaṁ upavāḷo bhikkhu saṅghamajjhe āpattiyā anuyuñjiyamāno avajānitvā paṭijānāti, paṭijānitvā avajānāti, aññenaññaṁ paṭicarati, sampajānamusā bhāsati. Yadi saṅghassa pattakallaṁ, saṅgho upavāḷassa bhikkhuno tassapāpiyasikākammaṁ kareyya. Esā ñatti.
+Một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
 
-Suṇātu me, bhante, saṅgho. Ayaṁ upavāḷo bhikkhu saṅghamajjhe āpattiyā anuyuñjiyamāno avajānitvā paṭijānāti, paṭijānitvā avajānāti, aññenaññaṁ paṭicarati, sampajānamusā bhāsati. Saṅgho upavāḷassa bhikkhuno tassapāpiyasikākammaṁ karoti. Yassāyasmato khamati upavāḷassa bhikkhuno tassapāpiyasikākammassa karaṇaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+'Xin Tăng đoàn lắng nghe tôi. Tỳ kheo Gagga này đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn tỳ kheo Gagga về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Vị ấy đáp: "Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó, việc ấy là do tôi làm trong lúc mê loạn." Dù vị ấy đã nói như vậy, họ vẫn tiếp tục chất vấn: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Nay vị ấy đã hết mê loạn, đang thỉnh cầu Tăng đoàn ban cho *xử lý cho người hết mê loạn*. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên ban cho tỳ kheo Gagga, vị đã hết mê loạn, *xử lý cho người hết mê loạn*. Đây là *lời đề nghị*.
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi …pe….
+Xin Tăng đoàn lắng nghe tôi. Tỳ kheo Gagga này đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn tỳ kheo Gagga về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Vị ấy đáp: "Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó, việc ấy là do tôi làm trong lúc mê loạn." Dù vị ấy đã nói như vậy, họ vẫn tiếp tục chất vấn: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Nay vị ấy đã hết mê loạn, đang thỉnh cầu Tăng đoàn ban cho *xử lý cho người hết mê loạn*. Tăng đoàn ban cho tỳ kheo Gagga, vị đã hết mê loạn, *xử lý cho người hết mê loạn*. Tôn giả nào chấp thuận việc ban cho tỳ kheo Gagga, vị đã hết mê loạn, *xử lý cho người hết mê loạn* thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-Kataṁ saṅghena upavāḷassa bhikkhuno tassapāpiyasikākammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+Lần thứ hai tôi xin tuyên bố việc này `[...lặp lại...]` lần thứ ba tôi xin tuyên bố việc này `[...lặp lại...]`.
 
-12.1\. Pañcimāni, bhikkhave, dhammikāni tassapāpiyasikākammassa karaṇāni. Asuci ca hoti, alajjī ca, sānuvādo ca, tassa saṅgho tassapāpiyasikākammaṁ karoti dhammena, samaggena— imāni kho, bhikkhave, pañca dhammikāni tassapāpiyasikākammassa karaṇāni.
+Tăng đoàn đã ban cho tỳ kheo Gagga, vị đã hết mê loạn, *xử lý cho người hết mê loạn*. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-### 6.1. Adhammakammadvādasaka
+6.1\. Này các tỳ kheo, có ba cách ban hành *xử lý cho người hết mê loạn* trái pháp, có ba cách đúng pháp. Thế nào là ba cách ban hành *xử lý cho người hết mê loạn* trái pháp? {#6.1}
 
-12.2\. Tīhi, bhikkhave, aṅgehi samannāgataṁ tassapāpiyasikākammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca. Asammukhā kataṁ hoti, appaṭipucchākataṁ hoti, appaṭiññāya kataṁ hoti …pe…
+Ở đây, này các tỳ kheo, một tỳ kheo đã phạm một lỗi. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?' Dù nhớ rõ, vị ấy vẫn nói: 'Này các hiền giả, tôi không nhớ mình đã phạm lỗi như vậy.' Tăng đoàn ban cho vị ấy *xử lý cho người hết mê loạn*. Đó là cách ban hành *xử lý cho người hết mê loạn* trái pháp.
 
-… adhammena kataṁ hoti, vaggena kataṁ hoti—
+Lại ở đây, này các tỳ kheo, một tỳ kheo đã phạm một lỗi. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?' Dù nhớ rõ, vị ấy lại nói: 'Này các hiền giả, tôi chỉ nhớ như trong giấc mơ.' Tăng đoàn ban cho vị ấy *xử lý cho người hết mê loạn*. Đó là cách ban hành *xử lý cho người hết mê loạn* trái pháp.
 
-imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tassapāpiyasikākammaṁ adhammakammañca hoti, avinayakammañca, duvūpasantañca.
+Lại ở đây, này các tỳ kheo, một tỳ kheo đã phạm một lỗi. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?' Vị ấy không bị điên loạn nhưng lại giả bộ điên loạn [nói rằng]: 'Tôi cũng làm thế, các vị cũng làm thế, điều này hợp với tôi, cũng hợp với các vị.' Tăng đoàn ban cho vị ấy *xử lý cho người hết mê loạn*. Đó là cách ban hành *xử lý cho người hết mê loạn* trái pháp.
 
-### 6.2. Dhammakammadvādasaka
+6.2\. Đó là ba cách ban hành *xử lý cho người hết mê loạn* trái pháp. {#6.2}
 
-12.3\. Tīhi, bhikkhave, aṅgehi samannāgataṁ tassapāpiyasikākammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca. Sammukhā kataṁ hoti, paṭipucchākataṁ hoti, paṭiññāya kataṁ hoti …pe…
+Thế nào là ba cách ban hành *xử lý cho người hết mê loạn* đúng pháp?
 
-… dhammena kataṁ hoti, samaggena kataṁ hoti— imehi kho, bhikkhave, tīhaṅgehi samannāgataṁ tassapāpiyasikākammaṁ dhammakammañca hoti, vinayakammañca, suvūpasantañca.
+Ở đây, này các tỳ kheo, một tỳ kheo bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?' Quả thật không nhớ, vị ấy nói: 'Này các hiền giả, tôi không nhớ mình đã phạm lỗi như vậy.' Tăng đoàn ban cho vị ấy *xử lý cho người hết mê loạn*. Đó là cách ban hành *xử lý cho người hết mê loạn* đúng pháp.
 
-### 6.3. Ākaṅkhamānachakka
+Lại ở đây, này các tỳ kheo, một tỳ kheo bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?' Quả thật không nhớ rõ, vị ấy nói: 'Này các hiền giả, tôi chỉ nhớ lờ mờ như trong giấc mơ.' Tăng đoàn ban cho vị ấy *xử lý cho người hết mê loạn*. Đó là cách ban hành *xử lý cho người hết mê loạn* đúng pháp.
 
-12.4\. Tīhi, bhikkhave, aṅgehi samannāgatassa bhikkhuno ākaṅkhamāno saṅgho tassapāpiyasikākammaṁ kareyya. Bhaṇḍanakārako hoti kalahakārako vivādakārako bhassakārako saṅghe adhikaraṇakārako; bālo hoti abyatto āpattibahulo anapadāno; gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno ākaṅkhamāno saṅgho tassapāpiyasikākammaṁ kareyya.
+Lại ở đây, này các tỳ kheo, một tỳ kheo bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?' Vì bị điên loạn nên vị ấy nói năng hành xử kiểu điên loạn: 'Tôi cũng làm thế, các vị cũng làm thế, điều này hợp với tôi, cũng hợp với các vị.' Tăng đoàn ban cho vị ấy *xử lý cho người hết mê loạn*. Đó là cách ban hành *xử lý cho người hết mê loạn* đúng pháp.
 
-Aparehipi, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno ākaṅkhamāno saṅgho tassapāpiyasikākammaṁ kareyya. Adhisīle sīlavipanno hoti, ajjhācāre ācāravipanno hoti, atidiṭṭhiyā diṭṭhivipanno hoti— imehi kho, bhikkhave …pe….
+Này các tỳ kheo, đó là ba cách ban hành *xử lý cho người hết mê loạn* đúng pháp."
 
-Aparehipi, bhikkhave …pe… buddhassa avaṇṇaṁ bhāsati, dhammassa avaṇṇaṁ bhāsati, saṅghassa avaṇṇaṁ bhāsati— imehi kho, bhikkhave, tīhaṅgehi samannāgatassa bhikkhuno ākaṅkhamāno saṅgho tassapāpiyasikākammaṁ kareyya.
+## 4. Xử lý theo sự thừa nhận
 
-Tiṇṇaṁ, bhikkhave, bhikkhūnaṁ ākaṅkhamāno saṅgho tassapāpiyasikākammaṁ kareyya. Eko bhaṇḍanakārako hoti …pe… saṅghe adhikaraṇakārako; eko bālo hoti abyatto āpattibahulo anapadāno; eko gihisaṁsaṭṭho viharati ananulomikehi gihisaṁsaggehi— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ ākaṅkhamāno saṅgho tassapāpiyasikākammaṁ kareyya.
+7.1\. Lúc bấy giờ, nhóm sáu tỳ kheo thực hiện các *hành động pháp lý* đối với những tỳ kheo chưa thừa nhận lỗi - gồm cả hành động khiển trách, hành động bắt nương tựa, hành động trục xuất, hành động bắt xin lỗi và hành động đình chỉ sinh hoạt chung. Những tỳ kheo ít *mong muốn* `[...lặp lại...]` tỏ ra bất bình, phê phán và chỉ trích rằng: {#7.1}
 
-Aparesampi, bhikkhave, tiṇṇaṁ bhikkhūnaṁ ākaṅkhamāno saṅgho tassapāpiyasikākammaṁ kareyya. Eko adhisīle sīlavipanno hoti, eko ajjhācāre ācāravipanno hoti, eko atidiṭṭhiyā diṭṭhivipanno hoti— imesaṁ kho, bhikkhave …pe….
+– Sao nhóm sáu tỳ kheo lại có thể thực hiện các *hành động pháp lý* đối với những tỳ kheo chưa thừa nhận lỗi - gồm cả hành động khiển trách, hành động bắt nương tựa, hành động trục xuất, hành động bắt xin lỗi và hành động đình chỉ sinh hoạt chung chứ?
 
-Aparesampi, bhikkhave …pe… eko buddhassa avaṇṇaṁ bhāsati, eko dhammassa avaṇṇaṁ bhāsati, eko saṅghassa avaṇṇaṁ bhāsati— imesaṁ kho, bhikkhave, tiṇṇaṁ bhikkhūnaṁ ākaṅkhamāno saṅgho tassapāpiyasikākammaṁ kareyya.
+Rồi các tỳ kheo ấy trình bày sự việc này lên Thế Tôn `[...lặp lại...]`:
 
-### 6.4. Aṭṭhārasavatta
+– Này các tỳ kheo, nghe nói `[...lặp lại...]`
 
-12.5\. Tassapāpiyasikākammakatena, bhikkhave, bhikkhunā sammā vattitabbaṁ. Tatrāyaṁ sammāvattanā—
+– Bạch Thế Tôn, đúng vậy `[...lặp lại...]`.
 
-12.6\. Atha kho saṅgho upavāḷassa bhikkhuno tassapāpiyasikākammaṁ akāsi.
+Sau khi quở trách `[...lặp lại...]` và *giảng về Giáo pháp*, Ngài gọi các tỳ kheo mà dạy rằng:
 
-## 7. Tiṇavatthāraka
+– Này các tỳ kheo, không được thực hiện *hành động pháp lý* đối với những tỳ kheo chưa thừa nhận lỗi - dù là hành động khiển trách, hành động bắt nương tựa, hành động trục xuất, hành động bắt xin lỗi hay hành động đình chỉ sinh hoạt chung. Ai làm [như vậy] thì phạm *lỗi Làm sai (đột-kiết-la)*.
 
-13.1\. Tena kho pana samayena bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ. Atha kho tesaṁ bhikkhūnaṁ etadahosi— “amhākaṁ kho bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Kathaṁ nu kho amhehi paṭipajjitabban”ti? Bhagavato etamatthaṁ ārocesuṁ.
+8.1\. Này các tỳ kheo, như thế này là *xử lý theo sự thừa nhận* (tự ngôn trị / paṭiññātakaraṇaṁ) trái pháp, như thế này là đúng pháp. Này các tỳ kheo, thế nào là *xử lý theo sự thừa nhận* trái pháp? {#8.1}
 
-“Idha pana, bhikkhave, bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ. Tatra ce bhikkhūnaṁ evaṁ hoti— ‘amhākaṁ kho bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ; sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyyā’ti, anujānāmi, bhikkhave, evarūpaṁ adhikaraṇaṁ tiṇavatthārakena vūpasametuṁ.
+Một tỳ kheo đã phạm *lỗi Trục xuất (Ba-la-di)* (ba-la-di / pārājikaṁ). Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả đã phạm *lỗi Trục xuất (Ba-la-di)* phải không?' Vị ấy đáp: 'Này các hiền giả, tôi không phạm *lỗi Trục xuất (Ba-la-di)*, tôi phạm *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)* (tăng tàn / saṅghādisesaṁ).' Tăng đoàn xử lý vị ấy theo *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)*. Đó là *xử lý theo sự thừa nhận* trái pháp.
 
-13.2\. Evañca pana, bhikkhave, vūpasametabbaṁ. Sabbeheva ekajjhaṁ sannipatitabbaṁ, sannipatitvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Một tỳ kheo đã phạm *lỗi Trục xuất (Ba-la-di)*. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả đã phạm *lỗi Trục xuất (Ba-la-di)* phải không?' Vị ấy đáp: 'Này các hiền giả, tôi không phạm *lỗi Trục xuất (Ba-la-di)*, tôi phạm *lỗi Nặng (Thâu-lan-giá)* (thâu-lan-giá / thullaccayaṁ) `[...lặp lại...]` *lỗi Phạm quy định (Ba-dật-đề)* (ba-dật-đề / pācittiyaṁ) `[...lặp lại...]` *nhận lỗi (Ba-la-đề-đề-xá-ni)* (hối quá / pāṭidesanīyaṁ) `[...lặp lại...]` *lỗi Làm sai (đột-kiết-la)* `[...lặp lại...]` *lỗi Nói sai* (ác thuyết / dubbhāsitaṁ).' Tăng đoàn xử lý vị ấy theo *lỗi Nói sai*. Đó là *xử lý theo sự thừa nhận* trái pháp.
 
-‘Suṇātu me, bhante, saṅgho. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadi saṅghassa pattakallaṁ, saṅgho imaṁ adhikaraṇaṁ tiṇavatthārakena vūpasameyya, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttan’ti.
+Một tỳ kheo đã phạm *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)* `[...lặp lại...]` *lỗi Nặng (Thâu-lan-giá)* `[...lặp lại...]` *lỗi Phạm quy định (Ba-dật-đề)* `[...lặp lại...]` *nhận lỗi (Ba-la-đề-đề-xá-ni)* `[...lặp lại...]` *lỗi Làm sai (đột-kiết-la)* `[...lặp lại...]` *lỗi Nói sai*. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả đã phạm *lỗi Nói sai* phải không?' Vị ấy đáp: 'Này các hiền giả, tôi không phạm *lỗi Nói sai*, tôi phạm *lỗi Trục xuất (Ba-la-di)*.' Tăng đoàn xử lý vị ấy theo *lỗi Trục xuất (Ba-la-di)*. Đó là *xử lý theo sự thừa nhận* trái pháp.
 
-Ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā paṭibalena sako pakkho ñāpetabbo—
+Một tỳ kheo đã phạm *lỗi Nói sai*. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả đã phạm *lỗi Nói sai* phải không?' Vị ấy đáp: 'Này các hiền giả, tôi không phạm *lỗi Nói sai*, tôi phạm *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)* `[...lặp lại...]` *lỗi Nặng (Thâu-lan-giá)* `[...lặp lại...]` *lỗi Phạm quy định (Ba-dật-đề)* `[...lặp lại...]` *nhận lỗi (Ba-la-đề-đề-xá-ni)* `[...lặp lại...]` *lỗi Làm sai (đột-kiết-la)*.' Tăng đoàn xử lý vị ấy theo *lỗi Làm sai (đột-kiết-la)*. Đó là *xử lý theo sự thừa nhận* trái pháp.
 
-‘Suṇantu me āyasmantā. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadāyasmantānaṁ pattakallaṁ, ahaṁ yā ceva āyasmantānaṁ āpatti, yā ca attano āpatti, āyasmantānañceva atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttan’ti.
+8.2\. Này các tỳ kheo, như vậy là *xử lý theo sự thừa nhận* trái pháp. {#8.2}
 
-Athāparesaṁ ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā paṭibalena sako pakkho ñāpetabbo—
+Này các tỳ kheo, thế nào là *xử lý theo sự thừa nhận* đúng pháp?
 
-‘Suṇantu me āyasmantā. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadāyasmantānaṁ pattakallaṁ, ahaṁ yā ceva āyasmantānaṁ āpatti, yā ca attano āpatti, āyasmantānañceva atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttan’ti.
+Một tỳ kheo đã phạm *lỗi Trục xuất (Ba-la-di)*. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả đã phạm *lỗi Trục xuất (Ba-la-di)* phải không?' Vị ấy đáp: 'Đúng vậy, thưa các hiền giả, tôi đã phạm *lỗi Trục xuất (Ba-la-di)*.' Tăng đoàn xử lý vị ấy theo *lỗi Trục xuất (Ba-la-di)*. Đó là *xử lý theo sự thừa nhận* đúng pháp.
 
-13.3\. Athāparesaṁ ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Một tỳ kheo đã phạm *lỗi Tăng xử lý (Tăng-già-bà-thi-sa)* `[...lặp lại...]` *lỗi Nặng (Thâu-lan-giá)* `[...lặp lại...]` *lỗi Phạm quy định (Ba-dật-đề)* `[...lặp lại...]` *nhận lỗi (Ba-la-đề-đề-xá-ni)* `[...lặp lại...]` *lỗi Làm sai (đột-kiết-la)* `[...lặp lại...]` *lỗi Nói sai*. Tăng đoàn, một nhóm nhiều người hoặc một cá nhân chất vấn vị ấy rằng: 'Tôn giả đã phạm *lỗi Nói sai* phải không?' Vị ấy đáp: 'Đúng vậy, thưa các hiền giả, tôi đã phạm *lỗi Nói sai*.' Tăng đoàn xử lý vị ấy theo *lỗi Nói sai*. Đó là *xử lý theo sự thừa nhận* đúng pháp.
 
-‘Suṇātu me, bhante, saṅgho. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadi saṅghassa pattakallaṁ, ahaṁ yā ceva imesaṁ āyasmantānaṁ āpatti, yā ca attano āpatti, imesañceva āyasmantānaṁ atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Esā ñatti.
+Này các tỳ kheo, như vậy là *xử lý theo sự thừa nhận* đúng pháp."
 
-Suṇātu me, bhante, saṅgho. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Ahaṁ yā ceva imesaṁ āyasmantānaṁ āpatti, yā ca attano āpatti, imesañceva āyasmantānaṁ atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena desemi, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Yassāyasmato khamati amhākaṁ imāsaṁ āpattīnaṁ saṅghamajjhe tiṇavatthārakena desanā, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+## 5. Xử lý theo đa số
 
-Desitā amhākaṁ imā āpattiyo saṅghamajjhe tiṇavatthārakena, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+9.1\. Lúc bấy giờ, các tỳ kheo giữa Tăng đoàn sinh ra tranh chấp, cãi vã, bất đồng, đâm thọc lẫn nhau bằng những lời nói sắc như giáo mác và không thể làm *lắng dịu* *vụ việc* ấy. Họ trình bày sự việc này lên Thế Tôn. {#9.1}
 
-Athāparesaṁ ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+– Này các tỳ kheo, Ta cho phép làm *lắng dịu* một *vụ việc* như vậy bằng cách *xử lý theo đa số* (đa nhân mịch tội / yebhuyyasikāya).
 
-‘Suṇātu me, bhante, saṅgho. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadi saṅghassa pattakallaṁ, ahaṁ yā ceva imesaṁ āyasmantānaṁ āpatti, yā ca attano āpatti, imesañceva āyasmantānaṁ atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Esā ñatti.
+Một tỳ kheo hội đủ năm yếu tố nên được bổ nhiệm làm người phát và thu thẻ biểu quyết - đó là vị không thiên vị vì *mong muốn*, không thiên vị vì *ám ảnh khó chịu* (sân / dosāgatiṁ), không thiên vị vì *Sự u mê* (si / mohāgatiṁ), không thiên vị vì sợ hãi và biết rõ thẻ nào đã lấy hay chưa lấy.
 
-Suṇātu me, bhante, saṅgho. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Ahaṁ yā ceva imesaṁ āyasmantānaṁ āpatti, yā ca attano āpatti, imesañceva āyasmantānaṁ atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena desemi, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Yassāyasmato khamati amhākaṁ imāsaṁ āpattīnaṁ saṅghamajjhe tiṇavatthārakena desanā, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Này các tỳ kheo, phải bổ nhiệm như sau: Trước hết phải thỉnh cầu vị tỳ kheo ấy; sau khi thỉnh cầu, một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
 
-Desitā amhākaṁ imā āpattiyo saṅghamajjhe tiṇavatthārakena, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+'Xin Tăng đoàn lắng nghe tôi. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên bổ nhiệm tỳ kheo tên là ... làm người phát và thu thẻ biểu quyết. Đây là *lời đề nghị*.
 
-13.4\. Evañca pana, bhikkhave, te bhikkhū tāhi āpattīhi vuṭṭhitā honti, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ, ṭhapetvā diṭṭhāvikammaṁ, ṭhapetvā ye na tattha hontī”ti.
+Xin Tăng đoàn lắng nghe tôi. Tăng đoàn bổ nhiệm tỳ kheo tên là ... làm người phát và thu thẻ biểu quyết. Tôn giả nào chấp thuận việc bổ nhiệm tỳ kheo tên là ... làm người phát và thu thẻ biểu quyết thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-## 8. Adhikaraṇa
+Tỳ kheo tên là ... đã được Tăng đoàn bổ nhiệm làm người phát và thu thẻ biểu quyết. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-14.1\. Tena kho pana samayena bhikkhūpi bhikkhūhi vivadanti, bhikkhūpi bhikkhunīhi vivadanti, bhikkhuniyopi bhikkhūhi vivadanti, channopi bhikkhu bhikkhunīnaṁ anupakhajja bhikkhūhi saddhiṁ vivadati, bhikkhunīnaṁ pakkhaṁ gāheti. Ye te bhikkhū appicchā …pe… te ujjhāyanti khiyyanti vipācenti— “kathañhi nāma channo bhikkhu bhikkhunīnaṁ anupakhajja bhikkhūhi saddhiṁ vivadissati, bhikkhunīnaṁ pakkhaṁ gāhessatīti. Atha kho te bhikkhū bhagavato etamatthaṁ ārocesuṁ …pe… saccaṁ kira, bhikkhave …pe…
+10.1\. Này các tỳ kheo, có mười cách thu thẻ biểu quyết trái pháp và có mười cách đúng pháp. Thế nào là mười cách thu thẻ biểu quyết trái pháp? *Vụ việc* chỉ là chuyện nhỏ nhặt, sự việc chưa được xem xét thấu đáo, sự việc chưa được nhắc nhở ghi nhớ lại, vị ấy biết những người nói theo *Điều sai* đông hơn, vị ấy nghĩ rằng có lẽ những người nói theo *Điều sai* sẽ đông hơn, vị ấy biết Tăng đoàn sẽ bị chia rẽ, vị ấy nghĩ rằng có lẽ Tăng đoàn sẽ bị chia rẽ, họ thu thẻ trái pháp, họ thu thẻ khi không hòa hợp và họ không thu thẻ theo đúng quan điểm của mình - này các tỳ kheo, đây là mười cách thu thẻ biểu quyết trái pháp. {#10.1}
 
-saccaṁ, bhagavā”ti …pe…
+10.2\. Thế nào là mười cách thu thẻ biểu quyết đúng pháp? *Vụ việc* không phải là chuyện nhỏ nhặt, sự việc đã được xem xét thấu đáo, sự việc đã được nhắc nhở ghi nhớ lại, vị ấy biết những người nói theo *Điều luật* đông hơn, vị ấy nghĩ rằng có lẽ những người nói theo *Điều luật* sẽ đông hơn, vị ấy biết Tăng đoàn sẽ không bị chia rẽ, vị ấy nghĩ rằng có lẽ Tăng đoàn sẽ không bị chia rẽ, họ thu thẻ đúng pháp, họ thu thẻ trong sự hòa hợp và họ thu thẻ theo đúng quan điểm của mình - này các tỳ kheo, đây là mười cách thu thẻ biểu quyết đúng pháp." {#10.2}
 
-vigarahitvā …pe… dhammiṁ kathaṁ katvā bhikkhū āmantesi—
+## 6. Xử lý kẻ gian dối quanh co
 
-14.2\. “Cattārimāni, bhikkhave, adhikaraṇāni— vivādādhikaraṇaṁ, anuvādādhikaraṇaṁ, āpattādhikaraṇaṁ, kiccādhikaraṇaṁ.
+11.1\. Lúc bấy giờ, tỳ kheo Upavāḷa khi bị tra vấn về lỗi phạm giữa Tăng đoàn thì chối rồi lại nhận, nhận rồi lại chối, đánh trống lảng sang chuyện khác và cố ý nói dối. Những tỳ kheo ít *mong muốn* `[...lặp lại...]` tỏ ra bất bình, phê phán và chỉ trích rằng: {#11.1}
 
-Tattha katamaṁ vivādādhikaraṇaṁ? Idha pana, bhikkhave, bhikkhū vivadanti— dhammoti vā adhammoti vā, vinayoti vā avinayoti vā, bhāsitaṁ lapitaṁ tathāgatenāti vā abhāsitaṁ alapitaṁ tathāgatenāti vā, āciṇṇaṁ tathāgatenāti vā anāciṇṇaṁ tathāgatenāti vā, paññattaṁ tathāgatenāti vā apaññattaṁ tathāgatenāti vā, āpattīti vā anāpattīti vā, lahukā āpattīti vā garukā āpattīti vā, sāvasesā āpattīti vā anavasesā āpattīti vā, duṭṭhullā āpattīti vā aduṭṭhullā āpattīti vā? Yaṁ tattha bhaṇḍanaṁ kalaho viggaho vivādo nānāvādo aññathāvādo vipaccatāya vohāro medhagaṁ— idaṁ vuccati vivādādhikaraṇaṁ.
+– Sao tỳ kheo Upavāḷa khi bị tra vấn về lỗi phạm giữa Tăng đoàn lại chối rồi lại nhận, nhận rồi lại chối, đánh trống lảng sang chuyện khác và cố ý nói dối chứ?
 
-Tattha katamaṁ anuvādādhikaraṇaṁ? Idha pana, bhikkhave, bhikkhū bhikkhuṁ anuvadanti sīlavipattiyā vā ācāravipattiyā vā diṭṭhivipattiyā vā ājīvavipattiyā vā. Yo tattha anuvādo anuvadanā anullapanā anubhaṇanā anusampavaṅkatā abbhussahanatā anubalappadānaṁ— idaṁ vuccati anuvādādhikaraṇaṁ.
+Rồi các tỳ kheo ấy trình bày sự việc này lên Thế Tôn `[...lặp lại...]`:
 
-Tattha katamaṁ āpattādhikaraṇaṁ? Pañcapi āpattikkhandhā āpattādhikaraṇaṁ, sattapi āpattikkhandhā āpattādhikaraṇaṁ— idaṁ vuccati āpattādhikaraṇaṁ.
+– Này các tỳ kheo, nghe nói `[...lặp lại...]`
 
-Tattha katamaṁ kiccādhikaraṇaṁ? Yā saṅghassa kiccayatā, karaṇīyatā, apalokanakammaṁ, ñattikammaṁ, ñattidutiyakammaṁ, ñatticatutthakammaṁ— idaṁ vuccati kiccādhikaraṇaṁ.
+– Bạch Thế Tôn, đúng vậy `[...lặp lại...]`.
 
-14.3\. Vivādādhikaraṇassa kiṁ mūlaṁ? Cha vivādamūlāni vivādādhikaraṇassa mūlaṁ. Tīṇipi akusalamūlāni vivādādhikaraṇassa mūlaṁ, tīṇipi kusalamūlāni vivādādhikaraṇassa mūlaṁ.
+Sau khi quở trách `[...lặp lại...]` và *giảng về Giáo pháp*, Ngài gọi các tỳ kheo mà dạy rằng:
 
-Katamāni cha vivādamūlāni vivādādhikaraṇassa mūlaṁ? Idha pana, bhikkhave, bhikkhu kodhano hoti upanāhī. Yo so, bhikkhave, bhikkhu kodhano hoti upanāhī, so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṅghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti. Yo so, bhikkhave, bhikkhu sattharipi agāravo viharati appatisso, dhammepi …pe… saṅghepi …pe… sikkhāyapi na paripūrakārī, so saṅghe vivādaṁ janeti. Yo hoti vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. Evarūpañce tumhe, bhikkhave, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā samanupasseyyātha, tatra tumhe, bhikkhave, tasseva pāpakassa vivādamūlassa pahānāya vāyameyyātha. Evarūpañce tumhe, bhikkhave, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā na samanupasseyyātha, tatra tumhe, bhikkhave, tasseva pāpakassa vivādamūlassa āyatiṁ anavassavāya paṭipajjeyyātha. Evametassa pāpakassa vivādamūlassa pahānaṁ hoti. Evametassa pāpakassa vivādamūlassa āyatiṁ anavassavo hoti.
+– Này các tỳ kheo, vậy thì Tăng đoàn hãy thực hiện *xử lý kẻ gian dối quanh co* (mích tội tướng / tassapāpiyasikākammaṁ) đối với tỳ kheo Upavāḷa. Này các tỳ kheo, phải thực hiện như sau: Trước hết phải nhắc nhở tỳ kheo Upavāḷa về lỗi phạm, sau khi nhắc nhở phải làm cho vị ấy nhớ lại, sau khi làm cho nhớ lại phải quy kết lỗi phạm cho vị ấy, sau khi quy kết lỗi phạm thì một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
 
-Puna caparaṁ, bhikkhave, bhikkhu makkhī hoti paḷāsī …pe… issukī hoti maccharī, saṭho hoti māyāvī, pāpiccho hoti micchādiṭṭhī, sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī. Yo so, bhikkhave, bhikkhu sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī, so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṅghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti. Yo so, bhikkhave, bhikkhu sattharipi agāravo viharati appatisso, dhammepi …pe… saṅghepi …pe… sikkhāyapi na paripūrakārī, so saṅghe vivādaṁ janeti. Yo hoti vivādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. Evarūpañce tumhe, bhikkhave, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā samanupasseyyātha, tatra tumhe, bhikkhave, tasseva pāpakassa vivādamūlassa pahānāya vāyameyyātha. Evarūpañce tumhe, bhikkhave, vivādamūlaṁ ajjhattaṁ vā bahiddhā vā na samanupasseyyātha, tatra tumhe, bhikkhave, tasseva pāpakassa vivādamūlassa āyatiṁ anavassavāya paṭipajjeyyātha. Evametassa pāpakassa vivādamūlassa pahānaṁ hoti. Evametassa pāpakassa vivādamūlassa āyatiṁ anavassavo hoti. Imāni cha vivādamūlāni vivādādhikaraṇassa mūlaṁ.
+11.2\. 'Xin Tăng đoàn lắng nghe tôi. Tỳ kheo Upavāḷa này khi bị tra vấn về lỗi phạm giữa Tăng đoàn thì chối rồi lại nhận, nhận rồi lại chối, đánh trống lảng sang chuyện khác và cố ý nói dối. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo Upavāḷa. Đây là *lời đề nghị*. {#11.2}
 
-14.4\. Katamāni tīṇi akusalamūlāni vivādādhikaraṇassa mūlaṁ? Idha pana, bhikkhave, bhikkhū luddhacittā vivadanti, duṭṭhacittā vivadanti, mūḷhacittā vivadanti— dhammoti vā adhammoti vā, vinayoti vā avinayoti vā, bhāsitaṁ lapitaṁ tathāgatenāti vā abhāsitaṁ alapitaṁ tathāgatenāti vā, āciṇṇaṁ tathāgatenāti vā anāciṇṇaṁ tathāgatenāti vā, paññattaṁ tathāgatenāti vā apaññattaṁ tathāgatenāti vā, āpattīti vā anāpattīti vā, lahukā āpattīti vā garukā āpattīti vā, sāvasesā āpattīti vā anavasesā āpattīti vā, duṭṭhullā āpattīti vā aduṭṭhullā āpattīti vā. Imāni tīṇi akusalamūlāni vivādādhikaraṇassa mūlaṁ.
+Xin Tăng đoàn lắng nghe tôi. Tỳ kheo Upavāḷa này khi bị tra vấn về lỗi phạm giữa Tăng đoàn thì chối rồi lại nhận, nhận rồi lại chối, đánh trống lảng sang chuyện khác và cố ý nói dối. Tăng đoàn thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo Upavāḷa. Tôn giả nào chấp thuận việc thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo Upavāḷa thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-Katamāni tīṇi kusalamūlāni vivādādhikaraṇassa mūlaṁ? Idha pana, bhikkhave, bhikkhū aluddhacittā vivadanti, aduṭṭhacittā vivadanti, amūḷhacittā vivadanti— dhammoti vā adhammoti vā …pe… duṭṭhullā āpattīti vā aduṭṭhullā āpattīti vā. Imāni tīṇi kusalamūlāni vivādādhikaraṇassa mūlaṁ.
+Lần thứ hai tôi xin tuyên bố việc này `[...lặp lại...]` lần thứ ba tôi xin tuyên bố việc này `[...lặp lại...]`.
 
-14.5\. “Anuvādādhikaraṇassa kiṁ mūlaṁ? Cha anuvādamūlāni anuvādādhikaraṇassa mūlaṁ. Tīṇipi akusalamūlāni anuvādādhikaraṇassa mūlaṁ, tīṇipi kusalamūlāni anuvādādhikaraṇassa mūlaṁ, kāyopi anuvādādhikaraṇassa mūlaṁ, vācāpi anuvādādhikaraṇassa mūlaṁ.
+Tăng đoàn đã thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo Upavāḷa. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-Katamāni cha anuvādamūlāni anuvādādhikaraṇassa mūlaṁ? Idha pana, bhikkhave, bhikkhu kodhano hoti upanāhī. Yo so, bhikkhave, bhikkhu kodhano hoti upanāhī, so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṅghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti. Yo so, bhikkhave, bhikkhu sattharipi agāravo viharati appatisso, dhammepi …pe… saṅghepi …pe… sikkhāyapi na paripūrakārī, so saṅghe anuvādaṁ janeti. Yo hoti anuvādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. Evarūpañce tumhe, bhikkhave, anuvādamūlaṁ ajjhattaṁ vā bahiddhā vā samanupasseyyātha, tatra tumhe, bhikkhave, tasseva pāpakassa anuvādamūlassa pahānāya vāyameyyātha. Evarūpañce tumhe, bhikkhave, anuvādamūlaṁ ajjhattaṁ vā bahiddhā vā na samanupasseyyātha, tatra tumhe, bhikkhave, tasseva pāpakassa anuvādamūlassa āyatiṁ anavassavāya paṭipajjeyyātha. Evametassa pāpakassa anuvādamūlassa pahānaṁ hoti. Evametassa pāpakassa anuvādamūlassa āyatiṁ anavassavo hoti.
+12.1\. Này các tỳ kheo, có năm điều làm cho việc thực hiện *xử lý kẻ gian dối quanh co* được đúng pháp: vị ấy không trong sạch, vị ấy không biết hổ thẹn, vị ấy có lời cáo buộc, Tăng đoàn thực hiện đúng pháp và trong sự hòa hợp - này các tỳ kheo, đây là năm điều làm cho việc thực hiện *xử lý kẻ gian dối quanh co* được đúng pháp. {#12.1}
 
-Puna caparaṁ, bhikkhave, bhikkhu makkhī hoti paḷāsī …pe… issukī hoti maccharī, saṭho hoti māyāvī, pāpiccho hoti micchādiṭṭhī, sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī. Yo so, bhikkhave, bhikkhu sandiṭṭhiparāmāsī hoti ādhānaggāhī duppaṭinissaggī, so sattharipi agāravo viharati appatisso, dhammepi agāravo viharati appatisso, saṅghepi agāravo viharati appatisso, sikkhāyapi na paripūrakārī hoti. Yo so, bhikkhave, bhikkhu sattharipi agāravo viharati appatisso, dhammepi …pe… saṅghepi …pe… sikkhāyapi na paripūrakārī, so saṅghe anuvādaṁ janeti. Yo hoti anuvādo bahujanāhitāya bahujanāsukhāya bahuno janassa anatthāya ahitāya dukkhāya devamanussānaṁ. Evarūpañce tumhe, bhikkhave, anuvādamūlaṁ ajjhattaṁ vā bahiddhā vā samanupasseyyātha, tatra tumhe, bhikkhave, tasseva pāpakassa anuvādamūlassa pahānāya vāyameyyātha. Evarūpañce tumhe, bhikkhave, anuvādamūlaṁ ajjhattaṁ vā bahiddhā vā na samanupasseyyātha, tatra tumhe, bhikkhave, tasseva pāpakassa anuvādamūlassa āyatiṁ anavassavāya paṭipajjeyyātha.
+### 6.1. Mười hai trường hợp hành động trái pháp
 
-Evametassa pāpakassa anuvādamūlassa pahānaṁ hoti. Evametassa pāpakassa anuvādamūlassa āyatiṁ anavassavo hoti. Imāni cha anuvādamūlāni anuvādādhikaraṇassa mūlaṁ.
+12.2\. Này các tỳ kheo, *xử lý kẻ gian dối quanh co* hội đủ ba yếu tố thì trở thành hành động trái pháp, trái luật và *lắng dịu* không ổn thỏa: được thực hiện khi vắng mặt, được thực hiện khi không hỏi lại và được thực hiện khi chưa có sự thừa nhận `[...lặp lại...]` {#12.2}
 
-Katamāni tīṇi akusalamūlāni anuvādādhikaraṇassa mūlaṁ? Idha pana, bhikkhave, bhikkhū bhikkhuṁ luddhacittā anuvadanti, duṭṭhacittā anuvadanti, mūḷhacittā anuvadanti— sīlavipattiyā vā, ācāravipattiyā vā, diṭṭhivipattiyā vā, ājīvavipattiyā vā. Imāni tīṇi akusalamūlāni anuvādādhikaraṇassa mūlaṁ.
+`[...lặp lại...]` được thực hiện trái pháp và được thực hiện bởi một nhóm chia rẽ -
 
-Katamāni tīṇi kusalamūlāni anuvādādhikaraṇassa mūlaṁ? Idha pana, bhikkhave, bhikkhū bhikkhuṁ aluddhacittā anuvadanti, aduṭṭhacittā anuvadanti, amūḷhacittā anuvadanti— sīlavipattiyā vā, ācāravipattiyā vā, diṭṭhivipattiyā vā, ājīvavipattiyā vā. Imāni tīṇi kusalamūlāni anuvādādhikaraṇassa mūlaṁ.
+này các tỳ kheo, hội đủ ba yếu tố này thì *xử lý kẻ gian dối quanh co* trở thành hành động trái pháp, trái luật và *lắng dịu* không ổn thỏa.
 
-Katamo kāyo anuvādādhikaraṇassa mūlaṁ? Idhekacco dubbaṇṇo hoti, duddassiko, okoṭimako, bahvābādho, kāṇo vā, kuṇī vā, khañjo vā, pakkhahato vā, yena naṁ anuvadanti. Ayaṁ kāyo anuvādādhikaraṇassa mūlaṁ.
+### 6.2. Mười hai trường hợp hành động đúng pháp
 
-Katamā vācā anuvādādhikaraṇassa mūlaṁ? Idhekacco dubbaco hoti, mammano, eḷagalavāco, yāya naṁ anuvadanti. Ayaṁ vācā anuvādādhikaraṇassa mūlaṁ.
+12.3\. Này các tỳ kheo, *xử lý kẻ gian dối quanh co* hội đủ ba yếu tố thì trở thành hành động đúng pháp, đúng luật và *lắng dịu* tốt đẹp: được thực hiện khi có mặt trực diện, được thực hiện sau khi hỏi lại và được thực hiện sau khi có sự thừa nhận `[...lặp lại...]` {#12.3}
 
-14.6\. Āpattādhikaraṇassa kiṁ mūlaṁ? Cha āpattisamuṭṭhānā āpattādhikaraṇassa mūlaṁ. Atthāpatti kāyato samuṭṭhāti, na vācato, na cittato. Atthāpatti vācato samuṭṭhāti, na kāyato, na cittato. Atthāpatti kāyato ca vācato ca samuṭṭhāti, na cittato. Atthāpatti kāyato ca cittato ca samuṭṭhāti, na vācato. Atthāpatti vācato ca cittato ca samuṭṭhāti, na kāyato. Atthāpatti kāyato ca vācato ca cittato ca samuṭṭhāti. Ime cha āpattisamuṭṭhānā āpattādhikaraṇassa mūlaṁ.
+`[...lặp lại...]` được thực hiện đúng pháp và được thực hiện trong sự hòa hợp - này các tỳ kheo, hội đủ ba yếu tố này thì *xử lý kẻ gian dối quanh co* trở thành hành động đúng pháp, đúng luật và *lắng dịu* tốt đẹp.
 
-14.7\. Kiccādhikaraṇassa kiṁ mūlaṁ? Kiccādhikaraṇassa ekaṁ mūlaṁ— saṅgho.
+### 6.3. Sáu trường hợp tùy ý thực hiện
 
-14.8\. Vivādādhikaraṇaṁ kusalaṁ, akusalaṁ, abyākataṁ. Vivādādhikaraṇaṁ siyā kusalaṁ, siyā akusalaṁ, siyā abyākataṁ. Tattha katamaṁ vivādādhikaraṇaṁ kusalaṁ? Idha pana, bhikkhave, bhikkhū kusalacittā vivadanti— dhammoti vā adhammoti vā …pe… duṭṭhullā āpattīti vā aduṭṭhullā āpattīti vā. Yaṁ tattha bhaṇḍanaṁ kalaho viggaho vivādo nānāvādo aññathāvādo vipaccatāya vohāro medhagaṁ— idaṁ vuccati vivādādhikaraṇaṁ kusalaṁ.
+12.4\. Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *xử lý kẻ gian dối quanh co* đối với một tỳ kheo hội đủ ba đặc điểm: vị ấy là người hay gây gổ, hay cãi vã, hay tranh luận, hay nói chuyện ồn ào và tạo ra *vụ việc* trong Tăng đoàn; vị ấy ngu dốt, thiếu năng lực, phạm nhiều lỗi và không có phẩm hạnh; vị ấy sống gần gũi với cư sĩ bằng những mối quan hệ không thích hợp - này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *xử lý kẻ gian dối quanh co* đối với một tỳ kheo hội đủ ba đặc điểm này. {#12.4}
 
-Tattha katamaṁ vivādādhikaraṇaṁ akusalaṁ? Idha pana, bhikkhave, bhikkhū akusalacittā vivadanti— dhammoti vā adhammoti vā …pe… duṭṭhullā āpattīti vā aduṭṭhullā āpattīti vā. Yaṁ tattha bhaṇḍanaṁ kalaho viggaho vivādo nānāvādo aññathāvādo vipaccatāya vohāro medhagaṁ— idaṁ vuccati vivādādhikaraṇaṁ akusalaṁ.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *xử lý kẻ gian dối quanh co* đối với một tỳ kheo hội đủ ba đặc điểm khác nữa: vị ấy hư hỏng giới hạnh trong giới cao thượng, hư hỏng hạnh kiểm trong uy nghi và hư hỏng quan điểm trong kiến giải cao thượng - này các tỳ kheo `[...lặp lại...]`.
 
-Tattha katamaṁ vivādādhikaraṇaṁ abyākataṁ? Idha pana, bhikkhave, bhikkhū abyākatacittā vivadanti— dhammoti vā adhammoti vā …pe… duṭṭhullā āpattīti vā aduṭṭhullā āpattīti vā. Yaṁ tattha bhaṇḍanaṁ kalaho viggaho vivādo nānāvādo aññathāvādo vipaccatāya vohāro medhagaṁ— idaṁ vuccati vivādādhikaraṇaṁ abyākataṁ.
+Này các tỳ kheo, nếu muốn, `[...lặp lại...]` vị ấy nói xấu Đức Phật, nói xấu *Giáo pháp* và nói xấu Tăng đoàn - này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *xử lý kẻ gian dối quanh co* đối với một tỳ kheo hội đủ ba đặc điểm này.
 
-14.9\. Anuvādādhikaraṇaṁ kusalaṁ, akusalaṁ, abyākataṁ. Anuvādādhikaraṇaṁ siyā kusalaṁ, siyā akusalaṁ, siyā abyākataṁ. Tattha katamaṁ anuvādādhikaraṇaṁ kusalaṁ? Idha pana, bhikkhave, bhikkhū bhikkhuṁ kusalacittā anuvadanti— sīlavipattiyā vā, ācāravipattiyā vā, diṭṭhivipattiyā vā, ājīvavipattiyā vā. Yo tattha anuvādo anuvadanā anullapanā anubhaṇanā anusampavaṅkatā abbhussahanatā anubalappadānaṁ— idaṁ vuccati anuvādādhikaraṇaṁ kusalaṁ.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *xử lý kẻ gian dối quanh co* đối với ba tỳ kheo: một vị hay gây gổ `[...lặp lại...]` tạo ra *vụ việc* trong Tăng đoàn; một vị ngu dốt, thiếu năng lực, phạm nhiều lỗi và không có phẩm hạnh; một vị sống gần gũi với cư sĩ bằng những mối quan hệ không thích hợp - này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *xử lý kẻ gian dối quanh co* đối với ba tỳ kheo này.
 
-Tattha katamaṁ anuvādādhikaraṇaṁ akusalaṁ? Idha pana, bhikkhave, bhikkhū bhikkhuṁ akusalacittā anuvadanti— sīlavipattiyā vā, ācāravipattiyā vā, diṭṭhivipattiyā vā, ājīvavipattiyā vā. Yo tattha anuvādo anuvadanā anullapanā anubhaṇanā anusampavaṅkatā abbhussahanatā anubalappadānaṁ— idaṁ vuccati anuvādādhikaraṇaṁ akusalaṁ.
+Này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *xử lý kẻ gian dối quanh co* đối với ba tỳ kheo khác nữa: một vị hư hỏng giới hạnh trong giới cao thượng, một vị hư hỏng hạnh kiểm trong uy nghi và một vị hư hỏng quan điểm trong kiến giải cao thượng - này các tỳ kheo `[...lặp lại...]`.
 
-Tattha katamaṁ anuvādādhikaraṇaṁ abyākataṁ? Idha pana, bhikkhave, bhikkhū bhikkhuṁ abyākatacittā anuvadanti— sīlavipattiyā vā, ācāravipattiyā vā, diṭṭhivipattiyā vā, ājīvavipattiyā vā. Yo tattha anuvādo anuvadanā anullapanā anubhaṇanā anusampavaṅkatā abbhussahanatā anubalappadānaṁ— idaṁ vuccati anuvādādhikaraṇaṁ abyākataṁ.
+Này các tỳ kheo, nếu muốn, `[...lặp lại...]` một vị nói xấu Đức Phật, một vị nói xấu *Giáo pháp* và một vị nói xấu Tăng đoàn - này các tỳ kheo, nếu muốn, Tăng đoàn có thể thực hiện *xử lý kẻ gian dối quanh co* đối với ba tỳ kheo này.
 
-Āpattādhikaraṇaṁ kusalaṁ, akusalaṁ, abyākataṁ?
+### 6.4. Mười tám phận sự
 
-14.10\. Āpattādhikaraṇaṁ siyā akusalaṁ, siyā abyākataṁ; natthi āpattādhikaraṇaṁ kusalaṁ. Tattha katamaṁ āpattādhikaraṇaṁ akusalaṁ? Yaṁ jānanto sañjānanto cecca abhivitaritvā vītikkamo— idaṁ vuccati āpattādhikaraṇaṁ akusalaṁ.
+12.5\. Này các tỳ kheo, tỳ kheo bị thi hành *xử lý kẻ gian dối quanh co* phải hành xử cho đúng đắn. Ở đây, sự hành xử đúng đắn là thế này - {#12.5}
 
-Tattha katamaṁ āpattādhikaraṇaṁ abyākataṁ? Yaṁ ajānanto asañjānanto acecca anabhivitaritvā vītikkamo— idaṁ vuccati āpattādhikaraṇaṁ abyākataṁ.
+12.6\. Rồi Tăng đoàn đã thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo Upavāḷa. {#12.6}
 
-14.11\. Kiccādhikaraṇaṁ kusalaṁ, akusalaṁ, abyākataṁ? Kiccādhikaraṇaṁ siyā kusalaṁ, siyā akusalaṁ, siyā abyākataṁ. Tattha katamaṁ kiccādhikaraṇaṁ kusalaṁ? Yaṁ saṅgho kusalacitto kammaṁ karoti— apalokanakammaṁ, ñattikammaṁ, ñattidutiyakammaṁ, ñatticatutthakammaṁ— idaṁ vuccati kiccādhikaraṇaṁ kusalaṁ.
+## 7. Dùng cỏ phủ lấp
 
-Tattha katamaṁ kiccādhikaraṇaṁ akusalaṁ? Yaṁ saṅgho akusalacitto kammaṁ karoti— apalokanakammaṁ, ñattikammaṁ, ñattidutiyakammaṁ, ñatticatutthakammaṁ— idaṁ vuccati kiccādhikaraṇaṁ akusalaṁ.
+13.1\. Lúc bấy giờ, trong khi sống tranh chấp, cãi vã và bất đồng, các tỳ kheo đã làm và nói nhiều điều không đúng tư cách sa-môn. Rồi các tỳ kheo ấy nghĩ rằng: "Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Chúng ta nên thực hành thế nào đây?" Họ trình bày sự việc này lên Thế Tôn. {#13.1}
 
-Tattha katamaṁ kiccādhikaraṇaṁ abyākataṁ? Yaṁ saṅgho abyākatacitto kammaṁ karoti— apalokanakammaṁ, ñattikammaṁ, ñattidutiyakammaṁ, ñatticatutthakammaṁ— idaṁ vuccati kiccādhikaraṇaṁ abyākataṁ.
+– Này các tỳ kheo, ở đây, nếu trong khi sống tranh chấp, cãi vã và bất đồng, các tỳ kheo đã làm và nói nhiều điều không đúng tư cách sa-môn, và tại đó các tỳ kheo nghĩ rằng: 'Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn; nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ', thì này các tỳ kheo, Ta cho phép làm *lắng dịu* *vụ việc* như vậy bằng phương pháp *dùng cỏ phủ lấp* (như thảo phú địa / tiṇavatthārakena).
 
-14.12\. Vivādo vivādādhikaraṇaṁ, vivādo no adhikaraṇaṁ, adhikaraṇaṁ no vivādo, adhikaraṇañceva vivādo ca.
+13.2\. Này các tỳ kheo, phải làm *lắng dịu* như sau: Tất cả phải tập hợp lại một nơi; sau khi tập hợp, một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn: {#13.2}
 
-Siyā vivādo vivādādhikaraṇaṁ, siyā vivādo no adhikaraṇaṁ, siyā adhikaraṇaṁ no vivādo, siyā adhikaraṇañceva vivādo ca.
+'Xin Tăng đoàn lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên làm *lắng dịu* *vụ việc* này bằng phương pháp *dùng cỏ phủ lấp*, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ.'
 
-Tattha katamo vivādo vivādādhikaraṇaṁ? Idha pana, bhikkhave, bhikkhū vivadanti— dhammoti vā adhammoti vā …pe… duṭṭhullā āpattīti vā aduṭṭhullā āpattīti vā. Yaṁ tattha bhaṇḍanaṁ kalaho viggaho vivādo nānāvādo aññathāvādo vipaccatāya vohāro medhagaṁ— ayaṁ vivādo vivādādhikaraṇaṁ.
+Một tỳ kheo thông thạo và có năng lực thuộc nhóm các tỳ kheo ở một phe phải thông báo cho phe của mình:
 
-Tattha katamo vivādo no adhikaraṇaṁ? Mātāpi puttena vivadati, puttopi mātarā vivadati, pitāpi puttena vivadati, puttopi pitarā vivadati, bhātāpi bhātarā vivadati, bhātāpi bhaginiyā vivadati, bhaginīpi bhātarā vivadati, sahāyopi sahāyena vivadati— ayaṁ vivādo no adhikaraṇaṁ.
+'Xin các Tôn giả lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Khi đã đến thời điểm thích hợp cho các Tôn giả, tôi xin thay mặt vì lợi ích của các Tôn giả và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ.'
 
-Tattha katamaṁ adhikaraṇaṁ no vivādo? Anuvādādhikaraṇaṁ, āpattādhikaraṇaṁ, kiccādhikaraṇaṁ— idaṁ adhikaraṇaṁ no vivādo.
+Sau đó, một tỳ kheo thông thạo và có năng lực thuộc nhóm các tỳ kheo ở phe bên kia phải thông báo cho phe của mình:
 
-Tattha katamaṁ adhikaraṇañceva vivādo ca? Vivādādhikaraṇaṁ adhikaraṇañceva vivādo ca.
+'Xin các Tôn giả lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Khi đã đến thời điểm thích hợp cho các Tôn giả, tôi xin thay mặt vì lợi ích của các Tôn giả và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ.'
 
-14.13\. Anuvādo anuvādādhikaraṇaṁ, anuvādo no adhikaraṇaṁ, adhikaraṇaṁ no anuvādo, adhikaraṇañceva anuvādo ca.
+13.3\. Tiếp theo, một tỳ kheo thông thạo và có năng lực thuộc một phe phải thông báo cho Tăng đoàn: {#13.3}
 
-Siyā anuvādo anuvādādhikaraṇaṁ, siyā anuvādo no adhikaraṇaṁ, siyā adhikaraṇaṁ no anuvādo, siyā adhikaraṇañceva anuvādo ca.
+'Xin Tăng đoàn lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, tôi xin thay mặt vì lợi ích của các Tôn giả này và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả này lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Đây là *lời đề nghị*.
 
-Tattha katamo anuvādo anuvādādhikaraṇaṁ? Idha pana, bhikkhave, bhikkhū bhikkhuṁ anuvadanti— sīlavipattiyā vā, ācāravipattiyā vā, diṭṭhivipattiyā vā, ājīvavipattiyā vā. Yo tattha anuvādo anuvadanā anullapanā anubhaṇanā anusampavaṅkatā abbhussahanatā anubalappadānaṁ— ayaṁ anuvādo anuvādādhikaraṇaṁ.
+Xin Tăng đoàn lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Tôi xin thay mặt vì lợi ích của các Tôn giả này và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả này lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Tôn giả nào chấp thuận việc chúng tôi bày tỏ những lỗi ấy giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp*, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ, thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-Tattha katamo anuvādo no adhikaraṇaṁ? Mātāpi puttaṁ anuvadati, puttopi mātaraṁ anuvadati, pitāpi puttaṁ anuvadati, puttopi pitaraṁ anuvadati, bhātāpi bhātaraṁ anuvadati, bhātāpi bhaginiṁ anuvadati, bhaginīpi bhātaraṁ anuvadati, sahāyopi sahāyaṁ anuvadati— ayaṁ anuvādo no adhikaraṇaṁ.
+Những lỗi ấy của chúng tôi đã được bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp*, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-Tattha katamaṁ adhikaraṇaṁ no anuvādo? Āpattādhikaraṇaṁ, kiccādhikaraṇaṁ, vivādādhikaraṇaṁ— idaṁ adhikaraṇaṁ no anuvādo.
+Sau đó, một tỳ kheo thông thạo và có năng lực thuộc phe bên kia phải thông báo cho Tăng đoàn:
 
-Tattha katamaṁ adhikaraṇañceva anuvādo ca? Anuvādādhikaraṇaṁ adhikaraṇañceva anuvādo ca.
+'Xin Tăng đoàn lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, tôi xin thay mặt vì lợi ích của các Tôn giả này và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả này lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Đây là *lời đề nghị*.
 
-14.14\. Āpatti āpattādhikaraṇaṁ, āpatti no adhikaraṇaṁ, adhikaraṇaṁ no āpatti, adhikaraṇañceva āpatti ca.
+Xin Tăng đoàn lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Tôi xin thay mặt vì lợi ích của các Tôn giả này và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả này lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Tôn giả nào chấp thuận việc chúng tôi bày tỏ những lỗi ấy giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp*, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ, thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-Siyā āpatti āpattādhikaraṇaṁ, siyā āpatti no adhikaraṇaṁ, siyā adhikaraṇaṁ no āpatti, siyā adhikaraṇañceva āpatti ca.
+Những lỗi ấy của chúng tôi đã được bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp*, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-Tattha katamaṁ āpatti āpattādhikaraṇaṁ? Pañcapi āpattikkhandhā āpattādhikaraṇaṁ, sattapi āpattikkhandhā āpattādhikaraṇaṁ— ayaṁ āpatti āpattādhikaraṇaṁ.
+13.4\. Này các tỳ kheo, như vậy các tỳ kheo ấy được xem là đã thoát khỏi những lỗi phạm ấy - ngoại trừ lỗi nặng, ngoại trừ lỗi liên quan đến cư sĩ, ngoại trừ việc tự thú nhận công khai lỗi đã thấy và ngoại trừ những vị không có mặt tại đó." {#13.4}
 
-Tattha katamaṁ āpatti no adhikaraṇaṁ? Sotāpatti samāpatti— ayaṁ āpatti no adhikaraṇaṁ.
+## 8. Bốn loại vụ việc
 
-Tattha katamaṁ adhikaraṇaṁ no āpatti? Kiccādhikaraṇaṁ, vivādādhikaraṇaṁ, anuvādādhikaraṇaṁ— idaṁ adhikaraṇaṁ no āpatti.
+14.1\. Lúc bấy giờ, các tỳ kheo tranh luận với các tỳ kheo, các tỳ kheo tranh luận với các tỳ kheo ni, các tỳ kheo ni cũng tranh luận với các tỳ kheo, và tỳ kheo Channa lại xen vào đứng về phía các tỳ kheo ni để tranh luận với các tỳ kheo, bênh vực phe của các tỳ kheo ni. Những tỳ kheo ít *mong muốn* `[...lặp lại...]` tỏ ra bất bình, phê phán và chỉ trích rằng: {#14.1}
 
-Tattha katamaṁ adhikaraṇañceva āpatti ca? Āpattādhikaraṇaṁ adhikaraṇañceva āpatti ca.
+– Sao tỳ kheo Channa lại xen vào đứng về phía các tỳ kheo ni để tranh luận với các tỳ kheo, bênh vực phe của các tỳ kheo ni chứ?
 
-14.15\. Kiccaṁ kiccādhikaraṇaṁ, kiccaṁ no adhikaraṇaṁ, adhikaraṇaṁ no kiccaṁ, adhikaraṇañceva kiccañca.
+Rồi các tỳ kheo ấy trình bày sự việc này lên Thế Tôn `[...lặp lại...]`:
 
-Siyā kiccaṁ kiccādhikaraṇaṁ, siyā kiccaṁ no adhikaraṇaṁ, siyā adhikaraṇaṁ no kiccaṁ, siyā adhikaraṇañceva kiccañca.
+– Này các tỳ kheo, nghe nói `[...lặp lại...]`
 
-Tattha katamaṁ kiccaṁ kiccādhikaraṇaṁ? Yā saṅghassa kiccayatā, karaṇīyatā, apalokanakammaṁ, ñattikammaṁ, ñattidutiyakammaṁ, ñatticatutthakammaṁ— idaṁ kiccaṁ kiccādhikaraṇaṁ.
+– Bạch Thế Tôn, đúng vậy `[...lặp lại...]`.
 
-Tattha katamaṁ kiccaṁ no adhikaraṇaṁ? Ācariyakiccaṁ, upajjhāyakiccaṁ, samānupajjhāyakiccaṁ, samānācariyakiccaṁ— idaṁ kiccaṁ no adhikaraṇaṁ.
+Sau khi quở trách `[...lặp lại...]` và *giảng về Giáo pháp*, Ngài gọi các tỳ kheo mà dạy rằng:
 
-Tattha katamaṁ adhikaraṇaṁ no kiccaṁ? Vivādādhikaraṇaṁ, anuvādādhikaraṇaṁ, āpattādhikaraṇaṁ— idaṁ adhikaraṇaṁ no kiccaṁ.
+14.2\. – Này các tỳ kheo, có bốn loại *vụ việc* này: vụ việc tranh luận, vụ việc cáo buộc, vụ việc phạm lỗi và vụ việc phận sự. {#14.2}
 
-Tattha katamaṁ adhikaraṇañceva kiccañca? Kiccādhikaraṇaṁ adhikaraṇañceva kiccañca.
+Trong đó, thế nào là vụ việc tranh luận? Ở đây, này các tỳ kheo, các tỳ kheo tranh luận với nhau rằng: đó là *Điều luật* hay *Điều sai*, là Luật hay trái Luật, là điều được *Người Đến Như Vậy* (Như Lai / Tathāgata) nói và giảng dạy hay không được *Người Đến Như Vậy* nói và giảng dạy, là điều được *Người Đến Như Vậy* thực hành hay không được *Người Đến Như Vậy* thực hành, là điều được *Người Đến Như Vậy* quy định hay không được *Người Đến Như Vậy* quy định, là có lỗi hay không có lỗi, là lỗi nhẹ hay lỗi nặng, là lỗi còn cứu vãn được hay lỗi không thể cứu vãn, là lỗi thô trọng hay lỗi không thô trọng? Bất kỳ sự tranh chấp, cãi vã, đối kháng, tranh luận, nói khác nhau, nói trái ngược nhau, gây hấn bằng lời nói hay xung đột nào ở đó - đây gọi là vụ việc tranh luận.
 
-## 9. Adhikaraṇavūpasamanasamatha
+Trong đó, thế nào là vụ việc cáo buộc? Ở đây, này các tỳ kheo, các tỳ kheo cáo buộc một tỳ kheo về sự hư hỏng giới hạnh, hư hỏng hạnh kiểm, hư hỏng quan điểm hoặc hư hỏng sinh kế. Bất kỳ sự cáo buộc, buộc tội, dò xét, nhắc tội, hùa theo, kích động hay tiếp sức nào ở đó - đây gọi là vụ việc cáo buộc.
 
-### 9.1. Sammukhāvinaya
+Trong đó, thế nào là vụ việc phạm lỗi? Cả năm nhóm lỗi phạm đều là vụ việc phạm lỗi, cả bảy nhóm lỗi phạm đều là vụ việc phạm lỗi - đây gọi là vụ việc phạm lỗi.
 
-Vivādādhikaraṇaṁ katihi samathehi sammati?
+Trong đó, thế nào là vụ việc phận sự? Bất kỳ công việc nào, nhiệm vụ nào của Tăng đoàn - hành động xin ý kiến đồng thuận, hành động bạch nhất, hành động bạch nhị và hành động bạch tứ - đây gọi là vụ việc phận sự.
 
-14.16\. Vivādādhikaraṇaṁ dvīhi samathehi sammati— sammukhāvinayena ca, yebhuyyasikāya ca. Siyā vivādādhikaraṇaṁ ekaṁ samathaṁ anāgamma yebhuyyasikaṁ, ekena samathena sameyya— sammukhāvinayenāti? Siyātissa vacanīyaṁ. Yathā kathaṁ viya? Idha pana, bhikkhave, bhikkhū vivadanti— dhammoti vā adhammoti vā, vinayoti vā avinayoti vā, bhāsitaṁ lapitaṁ tathāgatenāti vā abhāsitaṁ alapitaṁ tathāgatenāti vā, āciṇṇaṁ tathāgatenāti vā anāciṇṇaṁ tathāgatenāti vā, paññattaṁ tathāgatenāti vā apaññattaṁ tathāgatenāti vā, āpattīti vā anāpattīti vā, lahukā āpattīti vā garukā āpattīti vā, sāvasesā āpattīti vā anavasesā āpattīti vā, duṭṭhullā āpattīti vā aduṭṭhullā āpattīti vā.
+14.3\. Gốc rễ của vụ việc tranh luận là gì? Sáu gốc rễ tranh luận là gốc rễ của vụ việc tranh luận. Ba gốc rễ *không thiện* là gốc rễ của vụ việc tranh luận và ba gốc rễ *thiện* là gốc rễ của vụ việc tranh luận. {#14.3}
 
-Te ce, bhikkhave, bhikkhū sakkonti taṁ adhikaraṇaṁ vūpasametuṁ, idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā, puggalasammukhatā. Kā ca tattha saṅghasammukhatā? Yāvatikā bhikkhū kammappattā te āgatā honti, chandārahānaṁ chando āhaṭo hoti, sammukhībhūtā na paṭikkosanti— ayaṁ tattha saṅghasammukhatā. Kā ca tattha dhammasammukhatā, vinayasammukhatā? Yena dhammena yena vinayena yena satthusāsanena taṁ adhikaraṇaṁ vūpasammati— ayaṁ tattha dhammasammukhatā, vinayasammukhatā. Kā ca tattha puggalasammukhatā? Yo ca vivadati, yena ca vivadati, ubho atthapaccatthikā sammukhībhūtā honti— ayaṁ tattha puggalasammukhatā. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyaṁ.
+Thế nào là sáu gốc rễ tranh luận vốn là gốc rễ của vụ việc tranh luận? Ở đây, này các tỳ kheo, một tỳ kheo hay giận dữ và thù hận. Này các tỳ kheo, tỳ kheo nào hay giận dữ và thù hận thì vị ấy sống thiếu tôn kính và không vâng phục bậc Đạo sư, sống thiếu tôn kính và không vâng phục *Giáo pháp*, sống thiếu tôn kính và không vâng phục Tăng đoàn, cũng không thực hành trọn vẹn trong sự rèn luyện. Này các tỳ kheo, tỳ kheo nào sống thiếu tôn kính và không vâng phục bậc Đạo sư, đối với *Giáo pháp* `[...lặp lại...]`, đối với Tăng đoàn `[...lặp lại...]` và không thực hành trọn vẹn trong sự rèn luyện, vị ấy tạo ra sự tranh luận trong Tăng đoàn. Chính sự tranh luận ấy đưa đến bất hạnh cho số đông, đưa đến bất lạc cho số đông, đưa đến bất lợi, tai hại và *đau khổ* (khổ / dukkhāya) cho số đông, cho chư thiên và loài người. Này các tỳ kheo, nếu các ông nhận thấy gốc rễ tranh luận như vậy ở bên trong hoặc bên ngoài, thì ở đó, này các tỳ kheo, các ông phải nỗ lực để *từ bỏ* (đoạn trừ / pahānāya) chính gốc rễ tranh luận xấu xa ấy. Này các tỳ kheo, nếu các ông không nhận thấy gốc rễ tranh luận như vậy ở bên trong hoặc bên ngoài, thì ở đó, này các tỳ kheo, các ông phải thực hành để gốc rễ tranh luận xấu xa ấy không rò rỉ vào trong tương lai. Như vậy là sự *từ bỏ* gốc rễ tranh luận xấu xa ấy; như vậy là sự không rò rỉ vào trong tương lai của gốc rễ tranh luận xấu xa ấy.
 
-14.17\. Te ce, bhikkhave, bhikkhū na sakkonti taṁ adhikaraṇaṁ tasmiṁ āvāse vūpasametuṁ, tehi, bhikkhave, bhikkhūhi, yasmiṁ āvāse sambahulā bhikkhū, so āvāso gantabbo. Te ce, bhikkhave, bhikkhū taṁ āvāsaṁ gacchantā antarāmagge sakkonti taṁ adhikaraṇaṁ vūpasametuṁ, idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā, puggalasammukhatā. Kā ca tattha saṅghasammukhatā? Yāvatikā bhikkhū kammappattā te āgatā honti, chandārahānaṁ chando āhaṭo hoti, sammukhībhūtā na paṭikkosanti— ayaṁ tattha saṅghasammukhatā. Kā ca tattha dhammasammukhatā, vinayasammukhatā? Yena dhammena yena vinayena yena satthusāsanena taṁ adhikaraṇaṁ vūpasammati— ayaṁ tattha dhammasammukhatā, vinayasammukhatā. Kā ca tattha puggalasammukhatā? Yo ca vivadati, yena ca vivadati, ubho atthapaccatthikā sammukhībhūtā honti— ayaṁ tattha puggalasammukhatā. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyaṁ.
+Lại nữa, này các tỳ kheo, một tỳ kheo hay khinh miệt và ganh đua `[...lặp lại...]`, hay ganh tỵ và bỏn xẻn, hay gian trá và giả dối, có ham muốn xấu xa và *Nhìn nhận sai* (tà kiến / micchādiṭṭhī), bám chặt quan điểm riêng, cố chấp và khó từ bỏ. Này các tỳ kheo, tỳ kheo nào bám chặt quan điểm riêng, cố chấp và khó từ bỏ thì vị ấy sống thiếu tôn kính và không vâng phục bậc Đạo sư, sống thiếu tôn kính và không vâng phục *Giáo pháp*, sống thiếu tôn kính và không vâng phục Tăng đoàn, cũng không thực hành trọn vẹn trong sự rèn luyện. Này các tỳ kheo, tỳ kheo nào sống thiếu tôn kính và không vâng phục bậc Đạo sư, đối với *Giáo pháp* `[...lặp lại...]`, đối với Tăng đoàn `[...lặp lại...]` và không thực hành trọn vẹn trong sự rèn luyện, vị ấy tạo ra sự tranh luận trong Tăng đoàn. Chính sự tranh luận ấy đưa đến bất hạnh cho số đông, đưa đến bất lạc cho số đông, đưa đến bất lợi, tai hại và *đau khổ* cho số đông, cho chư thiên và loài người. Này các tỳ kheo, nếu các ông nhận thấy gốc rễ tranh luận như vậy ở bên trong hoặc bên ngoài, thì ở đó, này các tỳ kheo, các ông phải nỗ lực để *từ bỏ* chính gốc rễ tranh luận xấu xa ấy. Này các tỳ kheo, nếu các ông không nhận thấy gốc rễ tranh luận như vậy ở bên trong hoặc bên ngoài, thì ở đó, này các tỳ kheo, các ông phải thực hành để gốc rễ tranh luận xấu xa ấy không rò rỉ vào trong tương lai. Như vậy là sự *từ bỏ* gốc rễ tranh luận xấu xa ấy; như vậy là sự không rò rỉ vào trong tương lai của gốc rễ tranh luận xấu xa ấy. Đây là sáu gốc rễ tranh luận vốn là gốc rễ của vụ việc tranh luận.
 
-14.18\. Te ce, bhikkhave, bhikkhū taṁ āvāsaṁ āgacchantā antarāmagge na sakkonti taṁ adhikaraṇaṁ vūpasametuṁ, tehi, bhikkhave, bhikkhūhi, taṁ āvāsaṁ gantvā āvāsikā bhikkhū evamassu vacanīyā— ‘idaṁ kho, āvuso, adhikaraṇaṁ evaṁ jātaṁ, evaṁ samuppannaṁ; sādhāyasmantā imaṁ adhikaraṇaṁ vūpasamentu dhammena vinayena satthusāsanena, yathayidaṁ adhikaraṇaṁ suvūpasantaṁ assā’ti.
+14.4\. Thế nào là ba gốc rễ không thiện vốn là gốc rễ của vụ việc tranh luận? Ở đây, này các tỳ kheo, các tỳ kheo tranh luận với tâm tham đắm, tranh luận với tâm ác độc, tranh luận với tâm u mê - rằng đó là *Điều luật* hay *Điều sai*, là Luật hay trái Luật, là điều được *Người Đến Như Vậy* nói và giảng dạy hay không được *Người Đến Như Vậy* nói và giảng dạy, là điều được *Người Đến Như Vậy* thực hành hay không được *Người Đến Như Vậy* thực hành, là điều được *Người Đến Như Vậy* quy định hay không được *Người Đến Như Vậy* quy định, là có lỗi hay không có lỗi, là lỗi nhẹ hay lỗi nặng, là lỗi còn cứu vãn được hay lỗi không thể cứu vãn, là lỗi thô trọng hay lỗi không thô trọng. Đây là ba gốc rễ không thiện vốn là gốc rễ của vụ việc tranh luận. {#14.4}
 
-Sace, bhikkhave, āvāsikā bhikkhū vuḍḍhatarā honti, āgantukā bhikkhū navakatarā, tehi, bhikkhave, āvāsikehi bhikkhūhi āgantukā bhikkhū evamassu vacanīyā— ‘iṅgha tumhe, āyasmanto, muhuttaṁ ekamantaṁ hotha, yāva mayaṁ mantemā’ti. Sace pana, bhikkhave, āvāsikā bhikkhū navakatarā honti, āgantukā bhikkhū vuḍḍhatarā, tehi, bhikkhave, āvāsikehi bhikkhūhi āgantukā bhikkhū evamassu vacanīyā— ‘tena hi tumhe, āyasmanto, muhuttaṁ idheva tāva hotha, yāva mayaṁ mantemā’ti.
+Thế nào là ba gốc rễ thiện vốn là gốc rễ của vụ việc tranh luận? Ở đây, này các tỳ kheo, các tỳ kheo tranh luận với tâm không tham đắm, tranh luận với tâm không ác độc, tranh luận với tâm không u mê - rằng đó là *Điều luật* hay *Điều sai* `[...lặp lại...]` là lỗi thô trọng hay lỗi không thô trọng. Đây là ba gốc rễ thiện vốn là gốc rễ của vụ việc tranh luận.
 
-Sace pana, bhikkhave, āvāsikānaṁ bhikkhūnaṁ mantayamānānaṁ evaṁ hoti— ‘na mayaṁ sakkoma imaṁ adhikaraṇaṁ vūpasametuṁ dhammena vinayena satthusāsanenā’ti, na taṁ adhikaraṇaṁ āvāsikehi bhikkhūhi sampaṭicchitabbaṁ. Sace pana, bhikkhave, āvāsikānaṁ bhikkhūnaṁ mantayamānānaṁ evaṁ hoti— ‘sakkoma mayaṁ imaṁ adhikaraṇaṁ vūpasametuṁ dhammena vinayena satthusāsanenā’ti. Tehi, bhikkhave, āvāsikehi bhikkhūhi āgantukā bhikkhū evamassu vacanīyā— ‘sace tumhe, āyasmanto, amhākaṁ imaṁ adhikaraṇaṁ yathājātaṁ yathāsamuppannaṁ ārocessatha, yathā ca mayaṁ imaṁ adhikaraṇaṁ vūpasamessāma dhammena vinayena satthusāsanena tathā suvūpasantaṁ bhavissati. Evaṁ mayaṁ imaṁ adhikaraṇaṁ sampaṭicchissāma. No ce tumhe, āyasmanto, amhākaṁ imaṁ adhikaraṇaṁ yathājātaṁ yathāsamuppannaṁ ārocessatha, yathā ca mayaṁ imaṁ adhikaraṇaṁ vūpasamessāma dhammena vinayena satthusāsanena tathā na suvūpasantaṁ bhavissati, na mayaṁ imaṁ adhikaraṇaṁ sampaṭicchissāmā’ti. Evaṁ supariggahitaṁ kho, bhikkhave, katvā āvāsikehi bhikkhūhi taṁ adhikaraṇaṁ sampaṭicchitabbaṁ.
+14.5\. Gốc rễ của vụ việc cáo buộc là gì? Sáu gốc rễ cáo buộc là gốc rễ của vụ việc cáo buộc. Ba gốc rễ không thiện là gốc rễ của vụ việc cáo buộc, ba gốc rễ thiện là gốc rễ của vụ việc cáo buộc, thân cũng là gốc rễ của vụ việc cáo buộc và lời nói cũng là gốc rễ của vụ việc cáo buộc. {#14.5}
 
-Tehi, bhikkhave, āgantukehi bhikkhūhi āvāsikā bhikkhū evamassu vacanīyā— ‘yathājātaṁ yathāsamuppannaṁ mayaṁ imaṁ adhikaraṇaṁ āyasmantānaṁ ārocessāma. Sace āyasmantā sakkonti ettakena vā ettakena vā antarena imaṁ adhikaraṇaṁ vūpasametuṁ dhammena vinayena satthusāsanena tathā suvūpasantaṁ bhavissati. Evaṁ mayaṁ imaṁ adhikaraṇaṁ āyasmantānaṁ niyyādessāma. No ce āyasmantā sakkonti ettakena vā ettakena vā antarena imaṁ adhikaraṇaṁ vūpasametuṁ dhammena vinayena satthusāsanena tathā na suvūpasantaṁ bhavissati, na mayaṁ imaṁ adhikaraṇaṁ āyasmantānaṁ niyyādessāma. Mayameva imassa adhikaraṇassa sāmino bhavissāmā’ti. Evaṁ supariggahitaṁ kho, bhikkhave, katvā āgantukehi bhikkhūhi taṁ adhikaraṇaṁ āvāsikānaṁ bhikkhūnaṁ niyyādetabbaṁ.
+Thế nào là sáu gốc rễ cáo buộc vốn là gốc rễ của vụ việc cáo buộc? Ở đây, này các tỳ kheo, một tỳ kheo hay giận dữ và thù hận. Này các tỳ kheo, tỳ kheo nào hay giận dữ và thù hận thì vị ấy sống thiếu tôn kính và không vâng phục bậc Đạo sư, sống thiếu tôn kính và không vâng phục *Giáo pháp*, sống thiếu tôn kính và không vâng phục Tăng đoàn, cũng không thực hành trọn vẹn trong sự rèn luyện. Này các tỳ kheo, tỳ kheo nào sống thiếu tôn kính và không vâng phục bậc Đạo sư, đối với *Giáo pháp* `[...lặp lại...]`, đối với Tăng đoàn `[...lặp lại...]` và không thực hành trọn vẹn trong sự rèn luyện, vị ấy tạo ra sự cáo buộc trong Tăng đoàn. Chính sự cáo buộc ấy đưa đến bất hạnh cho số đông, đưa đến bất lạc cho số đông, đưa đến bất lợi, tai hại và *đau khổ* cho số đông, cho chư thiên và loài người. Này các tỳ kheo, nếu các ông nhận thấy gốc rễ cáo buộc như vậy ở bên trong hoặc bên ngoài, thì ở đó, này các tỳ kheo, các ông phải nỗ lực để *từ bỏ* chính gốc rễ cáo buộc xấu xa ấy. Này các tỳ kheo, nếu các ông không nhận thấy gốc rễ cáo buộc như vậy ở bên trong hoặc bên ngoài, thì ở đó, này các tỳ kheo, các ông phải thực hành để gốc rễ cáo buộc xấu xa ấy không rò rỉ vào trong tương lai. Như vậy là sự *từ bỏ* gốc rễ cáo buộc xấu xa ấy; như vậy là sự không rò rỉ vào trong tương lai của gốc rễ cáo buộc xấu xa ấy.
 
-Te ce, bhikkhave, bhikkhū sakkonti taṁ adhikaraṇaṁ vūpasametuṁ, idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyaṁ.
+Lại nữa, này các tỳ kheo, một tỳ kheo hay khinh miệt và ganh đua `[...lặp lại...]`, hay ganh tỵ và bỏn xẻn, hay gian trá và giả dối, có ham muốn xấu xa và *Nhìn nhận sai*, bám chặt quan điểm riêng, cố chấp và khó từ bỏ. Này các tỳ kheo, tỳ kheo nào bám chặt quan điểm riêng, cố chấp và khó từ bỏ thì vị ấy sống thiếu tôn kính và không vâng phục bậc Đạo sư, sống thiếu tôn kính và không vâng phục *Giáo pháp*, sống thiếu tôn kính và không vâng phục Tăng đoàn, cũng không thực hành trọn vẹn trong sự rèn luyện. Này các tỳ kheo, tỳ kheo nào sống thiếu tôn kính và không vâng phục bậc Đạo sư, đối với *Giáo pháp* `[...lặp lại...]`, đối với Tăng đoàn `[...lặp lại...]` và không thực hành trọn vẹn trong sự rèn luyện, vị ấy tạo ra sự cáo buộc trong Tăng đoàn. Chính sự cáo buộc ấy đưa đến bất hạnh cho số đông, đưa đến bất lạc cho số đông, đưa đến bất lợi, tai hại và *đau khổ* cho số đông, cho chư thiên và loài người. Này các tỳ kheo, nếu các ông nhận thấy gốc rễ cáo buộc như vậy ở bên trong hoặc bên ngoài, thì ở đó, này các tỳ kheo, các ông phải nỗ lực để *từ bỏ* chính gốc rễ cáo buộc xấu xa ấy. Này các tỳ kheo, nếu các ông không nhận thấy gốc rễ cáo buộc như vậy ở bên trong hoặc bên ngoài, thì ở đó, này các tỳ kheo, các ông phải thực hành để gốc rễ cáo buộc xấu xa ấy không rò rỉ vào trong tương lai.
 
-### 9.2. Ubbāhikāyavūpasamana
+Như vậy là sự *từ bỏ* gốc rễ cáo buộc xấu xa ấy; như vậy là sự không rò rỉ vào trong tương lai của gốc rễ cáo buộc xấu xa ấy. Đây là sáu gốc rễ cáo buộc vốn là gốc rễ của vụ việc cáo buộc.
 
-14.19\. Tehi ce, bhikkhave, bhikkhūhi tasmiṁ adhikaraṇe vinicchiyamāne anantāni ceva bhassāni jāyanti, na cekassa bhāsitassa attho viññāyati, anujānāmi, bhikkhave, evarūpaṁ adhikaraṇaṁ ubbāhikāya vūpasametuṁ.
+Thế nào là ba gốc rễ không thiện vốn là gốc rễ của vụ việc cáo buộc? Ở đây, này các tỳ kheo, các tỳ kheo cáo buộc một tỳ kheo với tâm tham đắm, cáo buộc với tâm ác độc, cáo buộc với tâm u mê - về sự hư hỏng giới hạnh, hư hỏng hạnh kiểm, hư hỏng quan điểm hoặc hư hỏng sinh kế. Đây là ba gốc rễ không thiện vốn là gốc rễ của vụ việc cáo buộc.
 
-Dasahaṅgehi samannāgato bhikkhu ubbāhikāya sammannitabbo—
+Thế nào là ba gốc rễ thiện vốn là gốc rễ của vụ việc cáo buộc? Ở đây, này các tỳ kheo, các tỳ kheo cáo buộc một tỳ kheo với tâm không tham đắm, cáo buộc với tâm không ác độc, cáo buộc với tâm không u mê - về sự hư hỏng giới hạnh, hư hỏng hạnh kiểm, hư hỏng quan điểm hoặc hư hỏng sinh kế. Đây là ba gốc rễ thiện vốn là gốc rễ của vụ việc cáo buộc.
 
-Anujānāmi, bhikkhave, imehi dasahaṅgehi samannāgataṁ bhikkhuṁ ubbāhikāya sammannituṁ.
+Thế nào là thân vốn là gốc rễ của vụ việc cáo buộc? Ở đây, có người có sắc diện xấu xí, khó nhìn, lùn tịt, nhiều bệnh tật, hoặc mù một mắt, tay khoèo, chân què hay bại liệt nửa người, vì thế mà người ta cáo buộc họ. Thân này là gốc rễ của vụ việc cáo buộc.
 
-14.20\. Evañca pana, bhikkhave, sammannitabbo. Paṭhamaṁ bhikkhu yācitabbo, yācitvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Thế nào là lời nói vốn là gốc rễ của vụ việc cáo buộc? Ở đây, có người nói năng khó nghe, nói lắp hoặc nói ngọng nghịu chảy nước dãi, vì thế mà người ta cáo buộc họ. Lời nói này là gốc rễ của vụ việc cáo buộc.
 
-‘Suṇātu me, bhante, saṅgho. Amhākaṁ imasmiṁ adhikaraṇe vinicchiyamāne anantāni ceva bhassāni jāyanti, na cekassa bhāsitassa attho viññāyati. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmañca itthannāmañca bhikkhuṁ sammanneyya ubbāhikāya imaṁ adhikaraṇaṁ vūpasametuṁ. Esā ñatti.
+14.6\. Gốc rễ của vụ việc phạm lỗi là gì? Sáu nguồn phát sinh lỗi là gốc rễ của vụ việc phạm lỗi. Có lỗi phát sinh từ thân, không từ lời nói, không từ tâm. Có lỗi phát sinh từ lời nói, không từ thân, không từ tâm. Có lỗi phát sinh từ thân và lời nói, không từ tâm. Có lỗi phát sinh từ thân và tâm, không từ lời nói. Có lỗi phát sinh từ lời nói và tâm, không từ thân. Có lỗi phát sinh từ cả thân, lời nói và tâm. Sáu nguồn phát sinh lỗi này là gốc rễ của vụ việc phạm lỗi. {#14.6}
 
-Suṇātu me, bhante, saṅgho. Amhākaṁ imasmiṁ adhikaraṇe vinicchiyamāne anantāni ceva bhassāni jāyanti, na cekassa bhāsitassa attho viññāyati. Saṅgho itthannāmañca itthannāmañca bhikkhuṁ sammannati ubbāhikāya imaṁ adhikaraṇaṁ vūpasametuṁ. Yassāyasmato khamati itthannāmassa ca itthannāmassa ca bhikkhuno sammuti ubbāhikāya imaṁ adhikaraṇaṁ vūpasametuṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+14.7\. Gốc rễ của vụ việc phận sự là gì? Vụ việc phận sự chỉ có một gốc rễ - đó là Tăng đoàn. {#14.7}
 
-Sammato saṅghena itthannāmo ca itthannāmo ca bhikkhu ubbāhikāya imaṁ adhikaraṇaṁ vūpasametuṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+14.8\. Vụ việc tranh luận là thiện, không thiện hay *không xác định* (vô ký / abyākataṁ)? Vụ việc tranh luận có thể là thiện, có thể là không thiện, có thể là *không xác định*. Trong đó, thế nào là vụ việc tranh luận thiện? Ở đây, này các tỳ kheo, các tỳ kheo tranh luận với tâm thiện - rằng đó là *Điều luật* hay *Điều sai* `[...lặp lại...]` là lỗi thô trọng hay lỗi không thô trọng. Bất kỳ sự tranh chấp, cãi vã, đối kháng, tranh luận, nói khác nhau, nói trái ngược nhau, gây hấn bằng lời nói hay xung đột nào ở đó - đây gọi là vụ việc tranh luận thiện. {#14.8}
 
-14.21\. Te ce, bhikkhave, bhikkhū sakkonti taṁ adhikaraṇaṁ ubbāhikāya vūpasametuṁ, idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena. Kiñca tattha sammukhāvinayasmiṁ? Dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ.
+Trong đó, thế nào là vụ việc tranh luận không thiện? Ở đây, này các tỳ kheo, các tỳ kheo tranh luận với tâm không thiện - rằng đó là *Điều luật* hay *Điều sai* `[...lặp lại...]` là lỗi thô trọng hay lỗi không thô trọng. Bất kỳ sự tranh chấp, cãi vã, đối kháng, tranh luận, nói khác nhau, nói trái ngược nhau, gây hấn bằng lời nói hay xung đột nào ở đó - đây gọi là vụ việc tranh luận không thiện.
 
-14.22\. Tehi ce, bhikkhave, bhikkhūhi tasmiṁ adhikaraṇe vinicchiyamāne tatrāssa bhikkhu dhammakathiko, tassa neva suttaṁ āgataṁ hoti, no suttavibhaṅgo, so atthaṁ asallakkhento byañjanacchāyāya atthaṁ paṭibāhati, byattena bhikkhunā paṭibalena te bhikkhū ñāpetabbā—
+Trong đó, thế nào là vụ việc tranh luận *không xác định*? Ở đây, này các tỳ kheo, các tỳ kheo tranh luận với tâm *không xác định* - rằng đó là *Điều luật* hay *Điều sai* `[...lặp lại...]` là lỗi thô trọng hay lỗi không thô trọng. Bất kỳ sự tranh chấp, cãi vã, đối kháng, tranh luận, nói khác nhau, nói trái ngược nhau, gây hấn bằng lời nói hay xung đột nào ở đó - đây gọi là vụ việc tranh luận *không xác định*.
 
-‘Suṇantu me āyasmantā. Ayaṁ itthannāmo bhikkhu dhammakathiko. Imassa neva suttaṁ āgataṁ hoti, no suttavibhaṅgo. So atthaṁ asallakkhento byañjanacchāyāya atthaṁ paṭibāhati. Yadāyasmantānaṁ pattakallaṁ, itthannāmaṁ bhikkhuṁ vuṭṭhāpetvā avasesā imaṁ adhikaraṇaṁ vūpasameyyāmā’ti.
+14.9\. Vụ việc cáo buộc là thiện, không thiện hay *không xác định*? Vụ việc cáo buộc có thể là thiện, có thể là không thiện, có thể là *không xác định*. Trong đó, thế nào là vụ việc cáo buộc thiện? Ở đây, này các tỳ kheo, các tỳ kheo cáo buộc một tỳ kheo với tâm thiện - về sự hư hỏng giới hạnh, hư hỏng hạnh kiểm, hư hỏng quan điểm hoặc hư hỏng sinh kế. Bất kỳ sự cáo buộc, buộc tội, dò xét, nhắc tội, hùa theo, kích động hay tiếp sức nào ở đó - đây gọi là vụ việc cáo buộc thiện. {#14.9}
 
-Te ce, bhikkhave, bhikkhū taṁ bhikkhuṁ vuṭṭhāpetvā sakkonti taṁ adhikaraṇaṁ vūpasametuṁ, idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena. Kiñca tattha sammukhāvinayasmiṁ? Dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ.
+Trong đó, thế nào là vụ việc cáo buộc không thiện? Ở đây, này các tỳ kheo, các tỳ kheo cáo buộc một tỳ kheo với tâm không thiện - về sự hư hỏng giới hạnh, hư hỏng hạnh kiểm, hư hỏng quan điểm hoặc hư hỏng sinh kế. Bất kỳ sự cáo buộc, buộc tội, dò xét, nhắc tội, hùa theo, kích động hay tiếp sức nào ở đó - đây gọi là vụ việc cáo buộc không thiện.
 
-14.23\. Tehi ce, bhikkhave, bhikkhūhi tasmiṁ adhikaraṇe vinicchiyamāne tatrāssa bhikkhu dhammakathiko, tassa suttañhi kho āgataṁ hoti, no suttavibhaṅgo, so atthaṁ asallakkhento byañjanacchāyāya atthaṁ paṭibāhati, byattena bhikkhunā paṭibalena te bhikkhū ñāpetabbā—
+Trong đó, thế nào là vụ việc cáo buộc *không xác định*? Ở đây, này các tỳ kheo, các tỳ kheo cáo buộc một tỳ kheo với tâm *không xác định* - về sự hư hỏng giới hạnh, hư hỏng hạnh kiểm, hư hỏng quan điểm hoặc hư hỏng sinh kế. Bất kỳ sự cáo buộc, buộc tội, dò xét, nhắc tội, hùa theo, kích động hay tiếp sức nào ở đó - đây gọi là vụ việc cáo buộc *không xác định*.
 
-‘Suṇantu me āyasmantā. Ayaṁ itthannāmo bhikkhu dhammakathiko. Imassa suttañhi kho āgataṁ hoti, no suttavibhaṅgo. So atthaṁ asallakkhento byañjanacchāyāya atthaṁ paṭibāhati. Yadāyasmantānaṁ pattakallaṁ, itthannāmaṁ bhikkhuṁ vuṭṭhāpetvā avasesā imaṁ adhikaraṇaṁ vūpasameyyāmā’ti.
+Vụ việc phạm lỗi là thiện, không thiện hay *không xác định*?
 
-Te ce, bhikkhave, bhikkhū taṁ bhikkhuṁ vuṭṭhāpetvā sakkonti taṁ adhikaraṇaṁ vūpasametuṁ, idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena. Kiñca tattha sammukhāvinayasmiṁ? Dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ.
+14.10\. Vụ việc phạm lỗi có thể là không thiện, có thể là *không xác định*; không có vụ việc phạm lỗi nào là thiện. Trong đó, thế nào là vụ việc phạm lỗi không thiện? Sự vi phạm trong khi biết rõ, nhận biết, cố ý và vượt qua ranh giới - đây gọi là vụ việc phạm lỗi không thiện. {#14.10}
 
-### 9.3. Yebhuyyasikāvinaya
+Trong đó, thế nào là vụ việc phạm lỗi *không xác định*? Sự vi phạm trong khi không biết, không nhận biết, không cố ý và không hay biết sự vượt qua ranh giới - đây gọi là vụ việc phạm lỗi *không xác định*.
 
-14.24\. Te ce, bhikkhave, bhikkhū na sakkonti taṁ adhikaraṇaṁ ubbāhikāya vūpasametuṁ, tehi, bhikkhave, bhikkhūhi taṁ adhikaraṇaṁ saṅghassa niyyādetabbaṁ— ‘na mayaṁ, bhante, sakkoma imaṁ adhikaraṇaṁ ubbāhikāya vūpasametuṁ, saṅghova imaṁ adhikaraṇaṁ vūpasametū’ti. Anujānāmi, bhikkhave, evarūpaṁ adhikaraṇaṁ yebhuyyasikāya vūpasametuṁ.
+14.11\. Vụ việc phận sự là thiện, không thiện hay *không xác định*? Vụ việc phận sự có thể là thiện, có thể là không thiện, có thể là *không xác định*. Trong đó, thế nào là vụ việc phận sự thiện? *Hành động pháp lý* nào Tăng đoàn thực hiện với tâm thiện - hành động xin ý kiến đồng thuận, hành động bạch nhất, hành động bạch nhị, hành động bạch tứ - đây gọi là vụ việc phận sự thiện. {#14.11}
 
-Pañcahaṅgehi samannāgato bhikkhu salākaggāhāpako sammannitabbo— yo na chandāgatiṁ gaccheyya, na dosāgatiṁ gaccheyya, na mohāgatiṁ gaccheyya, na bhayāgatiṁ gaccheyya, gahitāgahitañca jāneyya …pe…
+Trong đó, thế nào là vụ việc phận sự không thiện? *Hành động pháp lý* nào Tăng đoàn thực hiện với tâm không thiện - hành động xin ý kiến đồng thuận, hành động bạch nhất, hành động bạch nhị, hành động bạch tứ - đây gọi là vụ việc phận sự không thiện.
 
-evañca pana, bhikkhave, sammannitabbo. Paṭhamaṁ bhikkhu yācitabbo, yācitvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Trong đó, thế nào là vụ việc phận sự *không xác định*? *Hành động pháp lý* nào Tăng đoàn thực hiện với tâm *không xác định* - hành động xin ý kiến đồng thuận, hành động bạch nhất, hành động bạch nhị, hành động bạch tứ - đây gọi là vụ việc phận sự *không xác định*.
 
-‘Suṇātu me, bhante, saṅgho. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmaṁ bhikkhuṁ salākaggāhāpakaṁ sammanneyya. Esā ñatti.
+14.12\. Tranh luận là vụ việc tranh luận, tranh luận không phải *vụ việc*, *vụ việc* không phải tranh luận, vừa là *vụ việc* vừa là tranh luận. {#14.12}
 
-Suṇātu me, bhante, saṅgho. Saṅgho itthannāmaṁ bhikkhuṁ salākaggāhāpakaṁ sammannati. Yassāyasmato khamati itthannāmassa bhikkhuno salākaggāhāpakassa sammuti, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Có thể có tranh luận là vụ việc tranh luận, có thể có tranh luận không phải *vụ việc*, có thể có *vụ việc* không phải tranh luận, có thể có cái vừa là *vụ việc* vừa là tranh luận.
 
-Sammato saṅghena itthannāmo bhikkhu salākaggāhāpako. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+Trong đó, thế nào là tranh luận là vụ việc tranh luận? Ở đây, này các tỳ kheo, các tỳ kheo tranh luận với nhau - rằng đó là *Điều luật* hay *Điều sai* `[...lặp lại...]` là lỗi thô trọng hay lỗi không thô trọng. Bất kỳ sự tranh chấp, cãi vã, đối kháng, tranh luận, nói khác nhau, nói trái ngược nhau, gây hấn bằng lời nói hay xung đột nào ở đó - đây là tranh luận là vụ việc tranh luận.
 
-Tena salākaggāhāpakena bhikkhunā salākā gāhetabbā. Yathā bahutarā bhikkhū dhammavādino vadanti tathā taṁ adhikaraṇaṁ vūpasametabbaṁ. Idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena ca, yebhuyyasikāya ca. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā, puggalasammukhatā. Kā ca tattha saṅghasammukhatā? Yāvatikā bhikkhū kammappattā te āgatā honti, chandārahānaṁ chando āhaṭo hoti, sammukhībhūtā na paṭikkosanti— ayaṁ tattha saṅghasammukhatā. Kā ca tattha dhammasammukhatā, vinayasammukhatā? Yena dhammena yena vinayena yena satthusāsanena taṁ adhikaraṇaṁ vūpasammati— ayaṁ tattha dhammasammukhatā, vinayasammukhatā. Kā ca tattha puggalasammukhatā? Yo ca vivadati, yena ca vivadati, ubho atthapaccatthikā sammukhībhūtā honti— ayaṁ tattha puggalasammukhatā. Kā ca tattha yebhuyyasikāya? Yā yebhuyyasikākammassa kiriyā karaṇaṁ upagamanaṁ ajjhupagamanaṁ adhivāsanā appaṭikkosanā— ayaṁ tattha yebhuyyasikāya. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyan”ti.
+Trong đó, thế nào là tranh luận không phải *vụ việc*? Mẹ tranh luận với con trai, con trai tranh luận với mẹ, cha tranh luận với con trai, con trai tranh luận với cha, anh em trai tranh luận với nhau, anh trai tranh luận với em gái, em gái tranh luận với anh trai, bạn bè tranh luận với bạn bè - đây là tranh luận không phải *vụ việc*.
 
-### 9.4. Tividhasalākaggāha
+Trong đó, thế nào là *vụ việc* không phải tranh luận? Vụ việc cáo buộc, vụ việc phạm lỗi, vụ việc phận sự - đây là *vụ việc* không phải tranh luận.
 
-14.25\. Tena kho pana samayena sāvatthiyā evaṁ jātaṁ evaṁ samuppannaṁ adhikaraṇaṁ hoti. Atha kho te bhikkhū— asantuṭṭhā sāvatthiyā saṅghassa adhikaraṇavūpasamanena— assosuṁ kho amukasmiṁ kira āvāse sambahulā therā viharanti bahussutā āgatāgamā dhammadharā vinayadharā mātikādharā paṇḍitā viyattā medhāvino lajjino kukkuccakā sikkhākāmā. Te ce therā imaṁ adhikaraṇaṁ vūpasameyyuṁ dhammena vinayena satthusāsanena, evamidaṁ adhikaraṇaṁ suvūpasantaṁ assāti. Atha kho te bhikkhū taṁ āvāsaṁ gantvā te there etadavocuṁ— “idaṁ, bhante, adhikaraṇaṁ evaṁ jātaṁ, evaṁ samuppannaṁ. Sādhu, bhante, therā imaṁ adhikaraṇaṁ vūpasamentu dhammena vinayena satthusāsanena, yathayidaṁ adhikaraṇaṁ suvūpasantaṁ assā”ti. Atha kho te therā— yathā sāvatthiyā saṅghena adhikaraṇaṁ vūpasamitaṁ tathā suvūpasantanti— tathā taṁ adhikaraṇaṁ vūpasamesuṁ.
+Trong đó, thế nào vừa là *vụ việc* vừa là tranh luận? Vụ việc tranh luận vừa là *vụ việc* vừa là tranh luận.
 
-Atha kho te bhikkhū— asantuṭṭhā sāvatthiyā saṅghassa adhikaraṇavūpasamanena, asantuṭṭhā sambahulānaṁ therānaṁ adhikaraṇavūpasamanena— assosuṁ kho amukasmiṁ kira āvāse tayo therā viharanti …pe… dve therā viharanti …pe… eko thero viharati bahussuto āgatāgamo dhammadharo vinayadharo mātikādharo paṇḍito viyatto medhāvī lajjī kukkuccako sikkhākāmo. So ce thero imaṁ adhikaraṇaṁ vūpasameyya dhammena vinayena satthusāsanena, evamidaṁ adhikaraṇaṁ suvūpasantaṁ assāti. Atha kho te bhikkhū taṁ āvāsaṁ gantvā taṁ theraṁ etadavocuṁ— “idaṁ, bhante, adhikaraṇaṁ evaṁ jātaṁ, evaṁ samuppannaṁ. Sādhu, bhante, thero imaṁ adhikaraṇaṁ vūpasametu dhammena vinayena satthusāsanena, yathayidaṁ adhikaraṇaṁ suvūpasantaṁ assā”ti. Atha kho so thero— yathā sāvatthiyā saṅghena adhikaraṇaṁ vūpasamitaṁ, yathā sambahulehi therehi adhikaraṇaṁ vūpasamitaṁ, yathā tīhi therehi adhikaraṇaṁ vūpasamitaṁ, yathā dvīhi therehi adhikaraṇaṁ vūpasamitaṁ, tathā suvūpasantanti— tathā taṁ adhikaraṇaṁ vūpasamesi.
+14.13\. Cáo buộc là vụ việc cáo buộc, cáo buộc không phải *vụ việc*, *vụ việc* không phải cáo buộc, vừa là *vụ việc* vừa là cáo buộc. {#14.13}
 
-Atha kho te bhikkhū asantuṭṭhā sāvatthiyā saṅghassa adhikaraṇavūpasamanena, asantuṭṭhā sambahulānaṁ therānaṁ adhikaraṇavūpasamanena, asantuṭṭhā tiṇṇaṁ therānaṁ adhikaraṇavūpasamanena, asantuṭṭhā dvinnaṁ therānaṁ adhikaraṇavūpasamanena, asantuṭṭhā ekassa therassa adhikaraṇavūpasamanena, yena bhagavā tenupasaṅkamiṁsu, upasaṅkamitvā bhagavato etamatthaṁ ārocesuṁ …pe…
+Có thể có cáo buộc là vụ việc cáo buộc, có thể có cáo buộc không phải *vụ việc*, có thể có *vụ việc* không phải cáo buộc, có thể có cái vừa là *vụ việc* vừa là cáo buộc.
 
-“Nihatametaṁ, bhikkhave, adhikaraṇaṁ santaṁ vūpasantaṁ suvūpasantaṁ. Anujānāmi, bhikkhave, tesaṁ bhikkhūnaṁ saññattiyā tayo salākaggāhe— gūḷhakaṁ, sakaṇṇajappakaṁ, vivaṭakaṁ.
+Trong đó, thế nào là cáo buộc là vụ việc cáo buộc? Ở đây, này các tỳ kheo, các tỳ kheo cáo buộc một tỳ kheo - về sự hư hỏng giới hạnh, hư hỏng hạnh kiểm, hư hỏng quan điểm hoặc hư hỏng sinh kế. Bất kỳ sự cáo buộc, buộc tội, dò xét, nhắc tội, hùa theo, kích động hay tiếp sức nào ở đó - đây là cáo buộc là vụ việc cáo buộc.
 
-14.26\. Kathañca, bhikkhave, gūḷhako salākaggāho hoti? Tena salākaggāhāpakena bhikkhunā salākāyo vaṇṇāvaṇṇāyo katvā ekameko bhikkhu upasaṅkamitvā evamassa vacanīyo— ‘ayaṁ evaṁvādissa salākā, ayaṁ evaṁvādissa salākā. Yaṁ icchasi taṁ gaṇhāhī’ti. Gahite vattabbo— ‘mā ca kassaci dassehī’ti. Sace jānāti— adhammavādī bahutarāti, duggahoti, paccukkaḍḍhitabbaṁ. Sace jānāti— dhammavādī bahutarāti, suggahoti, sāvetabbaṁ. Evaṁ kho, bhikkhave, gūḷhako salākaggāho hoti.
+Trong đó, thế nào là cáo buộc không phải *vụ việc*? Mẹ cáo buộc con trai, con trai cáo buộc mẹ, cha cáo buộc con trai, con trai cáo buộc cha, anh em trai cáo buộc lẫn nhau, anh trai cáo buộc em gái, em gái cáo buộc anh trai, bạn bè cáo buộc bạn bè - đây là cáo buộc không phải *vụ việc*.
 
-Kathañca, bhikkhave, sakaṇṇajappako salākaggāho hoti? Tena salākaggāhāpakena bhikkhunā ekamekassa bhikkhuno upakaṇṇake ārocetabbaṁ— ‘ayaṁ evaṁvādissa salākā, ayaṁ evaṁvādissa salākā. Yaṁ icchasi taṁ gaṇhāhī’ti. Gahite vattabbo— ‘mā ca kassaci ārocehī’ti. Sace jānāti— adhammavādī bahutarāti, duggahoti, paccukkaḍḍhitabbaṁ. Sace jānāti— dhammavādī bahutarāti, suggahoti, sāvetabbaṁ. Evaṁ kho, bhikkhave, sakaṇṇajappako salākaggāho hoti.
+Trong đó, thế nào là *vụ việc* không phải cáo buộc? Vụ việc phạm lỗi, vụ việc phận sự, vụ việc tranh luận - đây là *vụ việc* không phải cáo buộc.
 
-Kathañca, bhikkhave, vivaṭako salākaggāho hoti? Sace jānāti— dhammavādī bahutarāti, vissaṭṭheneva vivaṭena gāhetabbo. Evaṁ kho, bhikkhave, vivaṭako salākaggāho hoti. Ime kho, bhikkhave, tayo salākaggāhā”ti.
+Trong đó, thế nào vừa là *vụ việc* vừa là cáo buộc? Vụ việc cáo buộc vừa là *vụ việc* vừa là cáo buộc.
 
-### 9.5. Sativinaya
+14.14\. Phạm lỗi là vụ việc phạm lỗi, phạm lỗi [hay chứng đạt] không phải *vụ việc*, *vụ việc* không phải phạm lỗi, vừa là *vụ việc* vừa là phạm lỗi. {#14.14}
 
-14.27\. “Anuvādādhikaraṇaṁ katihi samathehi sammati? Anuvādādhikaraṇaṁ catūhi samathehi sammati— sammukhāvinayena ca, sativinayena ca, amūḷhavinayena ca, tassapāpiyasikāya ca. Siyā anuvādādhikaraṇaṁ dve samathe anāgamma— amūḷhavinayañca, tassapāpiyasikañca; dvīhi samathehi sammeyya— sammukhāvinayena ca, sativinayena cāti? Siyātissa vacanīyaṁ. Yathā kathaṁ viya? Idha pana, bhikkhave, bhikkhū bhikkhuṁ amūlikāya sīlavipattiyā anuddhaṁsenti. Tassa kho, bhikkhave, bhikkhuno sativepullappattassa sativinayo dātabbo.
+Có thể có phạm lỗi là vụ việc phạm lỗi, có thể có [từ gọi là] `āpatti` nhưng không phải *vụ việc*, có thể có *vụ việc* không phải phạm lỗi, có thể có cái vừa là *vụ việc* vừa là phạm lỗi.
 
-Evañca pana, bhikkhave, dātabbo— Tena, bhikkhave, bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā …pe… evamassa vacanīyo—
+Trong đó, thế nào là phạm lỗi là vụ việc phạm lỗi? Cả năm nhóm lỗi phạm đều là vụ việc phạm lỗi, cả bảy nhóm lỗi phạm đều là vụ việc phạm lỗi - đây là phạm lỗi là vụ việc phạm lỗi.
 
-‘maṁ, bhante, bhikkhū amūlikāya sīlavipattiyā anuddhaṁsenti. Sohaṁ, bhante, sativepullappatto saṅghaṁ sativinayaṁ yācāmī’ti. Dutiyampi yācitabbo. Tatiyampi yācitabbo.
+Trong đó, thế nào là `āpatti` không phải *vụ việc*? Quả Dự lưu (*sotāpatti*) và sự chứng nhập thiền định (*samāpatti*) - đây là `āpatti` không phải *vụ việc*.
 
-Byattenaṁ bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Trong đó, thế nào là *vụ việc* không phải phạm lỗi? Vụ việc phận sự, vụ việc tranh luận, vụ việc cáo buộc - đây là *vụ việc* không phải phạm lỗi.
 
-‘Suṇātu me, bhante, saṅgho. Bhikkhū itthannāmaṁ bhikkhuṁ amūlikāya sīlavipattiyā anuddhaṁsenti. So sativepullappatto saṅghaṁ sativinayaṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmassa bhikkhuno sativepullappattassa sativinayaṁ dadeyya. Esā ñatti.
+Trong đó, thế nào vừa là *vụ việc* vừa là phạm lỗi? Vụ việc phạm lỗi vừa là *vụ việc* vừa là phạm lỗi.
 
-Suṇātu me, bhante, saṅgho. Bhikkhū itthannāmaṁ bhikkhuṁ amūlikāya sīlavipattiyā anuddhaṁsenti. So sativepullappatto saṅghaṁ sativinayaṁ yācati. Saṅgho itthannāmassa bhikkhuno sativepullappattassa sativinayaṁ deti. Yassāyasmato khamati itthannāmassa bhikkhuno sativepullappattassa sativinayassa dānaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+14.15\. Phận sự là vụ việc phận sự, phận sự không phải *vụ việc*, *vụ việc* không phải phận sự, vừa là *vụ việc* vừa là phận sự. {#14.15}
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi …pe….
+Có thể có phận sự là vụ việc phận sự, có thể có phận sự không phải *vụ việc*, có thể có *vụ việc* không phải phận sự, có thể có cái vừa là *vụ việc* vừa là phận sự.
 
-Dinno saṅghena itthannāmassa bhikkhuno sativepullappattassa sativinayo. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+Trong đó, thế nào là phận sự là vụ việc phận sự? Bất kỳ công việc nào, nhiệm vụ nào của Tăng đoàn - hành động xin ý kiến đồng thuận, hành động bạch nhất, hành động bạch nhị, hành động bạch tứ - đây là phận sự là vụ việc phận sự.
 
-Idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena ca sativinayena ca. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… kā ca tattha puggalasammukhatā? Yo ca anuvadati, yañca anuvadati, ubho sammukhībhūtā honti— ayaṁ tattha puggalasammukhatā. Kiñca tattha sativinayasmiṁ? Yā sativinayassa kammassa kiriyā karaṇaṁ upagamanaṁ ajjhupagamanaṁ adhivāsanā appaṭikkosanā— idaṁ tattha sativinayasmiṁ. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyaṁ.
+Trong đó, thế nào là phận sự không phải *vụ việc*? Phận sự đối với thầy dạy, phận sự đối với thầy tế độ, phận sự với bạn đồng thầy tế độ và phận sự với bạn đồng thầy dạy - đây là phận sự không phải *vụ việc*.
 
-### 9.6. Amūḷhavinaya
+Trong đó, thế nào là *vụ việc* không phải phận sự? Vụ việc tranh luận, vụ việc cáo buộc, vụ việc phạm lỗi - đây là *vụ việc* không phải phận sự.
 
-14.28\. Siyā anuvādādhikaraṇaṁ dve samathe anāgamma— sativinayañca, tassapāpiyasikañca; dvīhi samathehi sammeyya— sammukhāvinayena ca, amūḷhavinayena cāti? Siyātissa vacanīyaṁ. Yathā kathaṁ viya? Idha pana, bhikkhave, bhikkhu ummattako hoti cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ. Taṁ bhikkhū ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti. So evaṁ vadeti— ‘ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi. Mūḷhena me etaṁ katan’ti. Evampi naṁ vuccamānā codenteva— ‘saratāyasmā evarūpiṁ āpattiṁ āpajjitā’ti. Tassa kho, bhikkhave, bhikkhuno amūḷhassa amūḷhavinayo dātabbo.
+Trong đó, thế nào vừa là *vụ việc* vừa là phận sự? Vụ việc phận sự vừa là *vụ việc* vừa là phận sự.
 
-Evañca pana, bhikkhave, dātabbo— Tena, bhikkhave, bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā …pe… evamassa vacanīyo—
+## 9. Các phương pháp hòa giải để làm lắng dịu vụ việc
 
-‘ahaṁ, bhante, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Maṁ bhikkhū ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti. Tyāhaṁ evaṁ vadāmi— “ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi. Mūḷhena me etaṁ katan”ti. Evampi maṁ vuccamānā codenteva— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti. “Sohaṁ, bhante, amūḷho saṅghaṁ amūḷhavinayaṁ yācāmī”’ti. Dutiyampi yācitabbo. Tatiyampi yācitabbo.
+### 9.1. Xử lý trực diện
 
-Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Vụ việc tranh luận được *lắng dịu* bằng bao nhiêu *phương pháp hòa giải* (chỉ tịnh / samathehi)?
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu ummattako ahosi cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Taṁ bhikkhū ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti. So evaṁ vadeti— “ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi. Mūḷhena me etaṁ katan”ti. Evampi naṁ vuccamānā codenteva— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti. So amūḷho saṅghaṁ amūḷhavinayaṁ yācati. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmassa bhikkhuno amūḷhassa amūḷhavinayaṁ dadeyya. Esā ñatti.
+14.16\. Vụ việc tranh luận được *lắng dịu* bằng hai *phương pháp hòa giải* - bằng *xử lý trực diện* và bằng *xử lý theo đa số*. Có thể nào vụ việc tranh luận không cần đến một *phương pháp hòa giải* là *xử lý theo đa số* mà chỉ *lắng dịu* bằng một *phương pháp hòa giải* là *xử lý trực diện* không? Có thể được, cần phải trả lời như vậy. Như thế nào? {#14.16}
 
-Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu ummattako ahosi cittavipariyāsakato. Tena ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Taṁ bhikkhū ummattakena cittavipariyāsakatena ajjhāciṇṇena āpattiyā codenti— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti. So evaṁ vadeti— “ahaṁ kho, āvuso, ummattako ahosiṁ cittavipariyāsakato. Tena me ummattakena cittavipariyāsakatena bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Nāhaṁ taṁ sarāmi. Mūḷhena me etaṁ katan”ti. Evampi naṁ vuccamānā codenteva— “saratāyasmā evarūpiṁ āpattiṁ āpajjitā”ti. So amūḷho saṅghaṁ amūḷhavinayaṁ yācati. Saṅgho itthannāmassa bhikkhuno amūḷhassa amūḷhavinayaṁ deti. Yassāyasmato khamati itthannāmassa bhikkhuno amūḷhassa amūḷhavinayassa dānaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Ở đây, này các tỳ kheo, các tỳ kheo tranh luận với nhau - rằng đó là *Điều luật* hay *Điều sai*, là Luật hay trái Luật, là điều được *Người Đến Như Vậy* nói và giảng dạy hay không được *Người Đến Như Vậy* nói và giảng dạy, là điều được *Người Đến Như Vậy* thực hành hay không được *Người Đến Như Vậy* thực hành, là điều được *Người Đến Như Vậy* quy định hay không được *Người Đến Như Vậy* quy định, là có lỗi hay không có lỗi, là lỗi nhẹ hay lỗi nặng, là lỗi còn cứu vãn được hay lỗi không thể cứu vãn, là lỗi thô trọng hay lỗi không thô trọng.
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi …pe….
+Nếu các tỳ kheo ấy có thể làm *lắng dịu* *vụ việc* ấy, thì này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự. Thế nào là sự có mặt trực diện của Tăng đoàn ở đó? Bao nhiêu tỳ kheo đủ tư cách tham dự *hành động pháp lý* đều đã có mặt, *ý nguyện* [đồng thuận] của những vị đủ tư cách trao *ý nguyện* đã được mang đến và những vị có mặt không phản đối - đây là sự có mặt trực diện của Tăng đoàn ở đó. Thế nào là sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật ở đó? Với *Giáo pháp* nào, với Luật nào, với lời dạy nào của bậc Đạo sư mà *vụ việc* ấy được *lắng dịu* - đây là sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật ở đó. Thế nào là sự có mặt trực diện của các đương sự ở đó? Người tranh luận và người bị tranh luận, cả hai bên đối tụng đều có mặt trực diện - đây là sự có mặt trực diện của các đương sự ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-Dinno saṅghena itthannāmassa bhikkhuno amūḷhassa amūḷhavinayo. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+14.17\. Nếu các tỳ kheo ấy không thể làm *lắng dịu* *vụ việc* ấy tại trú xứ đó, thì này các tỳ kheo, các tỳ kheo ấy phải đi đến trú xứ nào có nhiều tỳ kheo hơn. Nếu trên đường đi đến trú xứ ấy mà các tỳ kheo ấy có thể làm *lắng dịu* *vụ việc* ấy ngay giữa đường, thì này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự. Thế nào là sự có mặt trực diện của Tăng đoàn ở đó? Bao nhiêu tỳ kheo đủ tư cách tham dự *hành động pháp lý* đều đã có mặt, *ý nguyện* [đồng thuận] của những vị đủ tư cách trao *ý nguyện* đã được mang đến và những vị có mặt không phản đối - đây là sự có mặt trực diện của Tăng đoàn ở đó. Thế nào là sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật ở đó? Với *Giáo pháp* nào, với Luật nào, với lời dạy nào của bậc Đạo sư mà *vụ việc* ấy được *lắng dịu* - đây là sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật ở đó. Thế nào là sự có mặt trực diện của các đương sự ở đó? Người tranh luận và người bị tranh luận, cả hai bên đối tụng đều có mặt trực diện - đây là sự có mặt trực diện của các đương sự ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*. {#14.17}
 
-Idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena ca, amūḷhavinayena ca. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… kiñca tattha amūḷhavinayasmiṁ? Yā amūḷhavinayassa kammassa kiriyā karaṇaṁ upagamanaṁ ajjhupagamanaṁ adhivāsanā appaṭikkosanā— idaṁ tattha amūḷhavinayasmiṁ. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyaṁ.
+14.18\. Nếu trên đường đi đến trú xứ ấy, các tỳ kheo ấy không thể làm *lắng dịu* *vụ việc* ấy giữa đường, thì sau khi đến trú xứ đó, các tỳ kheo ấy phải nói với các tỳ kheo bản xứ rằng: 'Này các hiền giả, *vụ việc* này đã sinh khởi như vậy, đã phát sinh như vậy; mong các Tôn giả hãy làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư, sao cho *vụ việc* này được *lắng dịu* tốt đẹp.' {#14.18}
 
-### 9.7. Tassapāpiyasikāvinaya
+Này các tỳ kheo, nếu các tỳ kheo bản xứ là những vị trưởng thượng hơn còn các tỳ kheo khách là những vị nhỏ hạ hơn, thì các tỳ kheo bản xứ phải nói với các tỳ kheo khách rằng: 'Này các Tôn giả, xin các vị hãy tạm lánh sang một bên trong giây lát để chúng tôi bàn bạc.' Còn nếu các tỳ kheo bản xứ là những vị nhỏ hạ hơn còn các tỳ kheo khách là những vị trưởng thượng hơn, thì các tỳ kheo bản xứ phải nói với các tỳ kheo khách rằng: 'Vậy xin các Tôn giả hãy cứ ở lại đây một lát để chúng tôi bàn bạc.'
 
-14.29\. Siyā anuvādādhikaraṇaṁ dve samathe anāgamma— sativinayañca, amūḷhavinayañca; dvīhi samathehi sammeyya— sammukhāvinayena ca, tassapāpiyasikāya cāti? Siyātissa vacanīyaṁ. Yathā kathaṁ viya? Idha pana, bhikkhave, bhikkhu bhikkhuṁ saṅghamajjhe garukāya āpattiyā codeti— ‘saratāyasmā evarūpiṁ garukaṁ āpattiṁ āpajjitā, pārājikaṁ vā pārājikasāmantaṁ vā’ti. So evaṁ vadeti— ‘na kho ahaṁ, āvuso, sarāmi evarūpiṁ garukaṁ āpattiṁ āpajjitā, pārājikaṁ vā pārājikasāmantaṁ vā’ti. Tamenaṁ so nibbeṭhentaṁ ativeṭheti— ‘iṅghāyasmā sādhukameva jānāhi, yadi sarasi evarūpiṁ garukaṁ āpattiṁ āpajjitā, pārājikaṁ vā pārājikasāmantaṁ vā’ti. So evaṁ vadeti— ‘na kho ahaṁ, āvuso, sarāmi evarūpiṁ garukaṁ āpattiṁ āpajjitā, pārājikaṁ vā pārājikasāmantaṁ vā. Sarāmi ca kho ahaṁ, āvuso, evarūpiṁ appamattikaṁ āpattiṁ āpajjitā’ti. Tamenaṁ so nibbeṭhentaṁ ativeṭheti— ‘iṅghāyasmā sādhukameva jānāhi, yadi sarasi evarūpiṁ garukaṁ āpattiṁ āpajjitā, pārājikaṁ vā pārājikasāmantaṁ vā’ti. So evaṁ vadeti— ‘imañhi nāmāhaṁ, āvuso, appamattikaṁ āpattiṁ āpajjitvā apuṭṭho paṭijānissāmi. Kiṁ panāhaṁ evarūpiṁ garukaṁ āpattiṁ āpajjitvā, pārājikaṁ vā pārājikasāmantaṁ vā, puṭṭho na paṭijānissāmī’ti? So evaṁ vadeti— ‘imañhi nāma tvaṁ, āvuso, appamattikaṁ āpattiṁ āpajjitvā apuṭṭho na paṭijānissasi. Kiṁ pana tvaṁ evarūpiṁ garukaṁ āpattiṁ āpajjitvā, pārājikaṁ vā pārājikasāmantaṁ vā, apuṭṭho paṭijānissasi? Iṅghāyasmā sādhukameva jānāhi, yadi sarasi evarūpiṁ garukaṁ āpattiṁ āpajjitā, pārājikaṁ vā pārājikasāmantaṁ vā’ti. So evaṁ vadesi— ‘sarāmi kho ahaṁ, āvuso, evarūpiṁ garukaṁ āpattiṁ āpajjitā, pārājikaṁ vā pārājikasāmantaṁ vā. Davā me etaṁ vuttaṁ, ravā me etaṁ vuttaṁ— nāhaṁ taṁ sarāmi evarūpiṁ garukaṁ āpattiṁ āpajjitā, pārājikaṁ vā pārājikasāmantaṁ vā’ti. Tassa kho, bhikkhave, bhikkhuno tassapāpiyasikākammaṁ kātabbaṁ. Evañca pana, bhikkhave, kātabbaṁ.
+Nếu trong khi bàn bạc, các tỳ kheo bản xứ thấy rằng: 'Chúng ta không thể làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư', thì các tỳ kheo bản xứ không được tiếp nhận *vụ việc* ấy. Nhưng nếu trong khi bàn bạc, các tỳ kheo bản xứ thấy rằng: 'Chúng ta có thể làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư', thì các tỳ kheo bản xứ phải nói với các tỳ kheo khách rằng: 'Nếu các Tôn giả trình bày cho chúng tôi *vụ việc* này đúng như nó đã sinh khởi, đúng như nó đã phát sinh, và theo cách chúng tôi sẽ làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư sao cho nó được *lắng dịu* tốt đẹp, thì chúng tôi sẽ tiếp nhận *vụ việc* này. Còn nếu các Tôn giả không trình bày cho chúng tôi *vụ việc* này đúng như nó đã sinh khởi, đúng như nó đã phát sinh, và theo cách chúng tôi sẽ làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư thì nó sẽ không được *lắng dịu* tốt đẹp, thì chúng tôi sẽ không tiếp nhận *vụ việc* này.' Này các tỳ kheo, sau khi đặt điều kiện chặt chẽ như vậy, các tỳ kheo bản xứ mới nên tiếp nhận *vụ việc* ấy.
 
-Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+Về phía các tỳ kheo khách phải nói với các tỳ kheo bản xứ rằng: 'Chúng tôi sẽ trình bày cho các Tôn giả *vụ việc* này đúng như nó đã sinh khởi, đúng như nó đã phát sinh. Nếu các Tôn giả có thể trong khoảng thời gian này hoặc khoảng thời gian kia làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư sao cho nó được *lắng dịu* tốt đẹp, thì chúng tôi sẽ giao phó *vụ việc* này cho các Tôn giả. Còn nếu các Tôn giả không thể trong khoảng thời gian này hoặc khoảng thời gian kia làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư sao cho nó được *lắng dịu* tốt đẹp, thì chúng tôi sẽ không giao phó *vụ việc* này cho các Tôn giả. Chính chúng tôi sẽ nắm giữ thẩm quyền đối với *vụ việc* này.' Này các tỳ kheo, sau khi giao ước chặt chẽ như vậy, các tỳ kheo khách mới nên giao phó *vụ việc* ấy cho các tỳ kheo bản xứ.
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu saṅghamajjhe garukāya āpattiyā anuyuñjiyamāno avajānitvā paṭijānāti, paṭijānitvā avajānāti, aññenāññaṁ paṭicarati, sampajānamusā bhāsati. Yadi saṅghassa pattakallaṁ, saṅgho itthannāmassa bhikkhuno tassapāpiyasikākammaṁ kareyya. Esā ñatti.
+Nếu các tỳ kheo ấy có thể làm *lắng dịu* *vụ việc* ấy, thì này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu saṅghamajjhe garukāya āpattiyā anuyuñjiyamāno avajānitvā paṭijānāti, paṭijānitvā avajānāti, aññenāññaṁ paṭicarati, sampajānamusā bhāsati. Saṅgho itthannāmassa bhikkhuno tassapāpiyasikākammaṁ karoti. Yassāyasmato khamati itthannāmassa bhikkhuno tassapāpiyasikākammassa karaṇaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+### 9.2. Làm lắng dịu bằng ủy ban đại diện
 
-Dutiyampi etamatthaṁ vadāmi …pe… tatiyampi etamatthaṁ vadāmi …pe….
+14.19\. Này các tỳ kheo, nếu trong khi các tỳ kheo ấy xét xử *vụ việc* ấy mà lời bàn luận kéo dài bất tận, không thể hiểu nổi ý nghĩa của một lời nói nào, thì này các tỳ kheo, Ta cho phép làm *lắng dịu* *vụ việc* như vậy bằng *ủy ban đại diện* (ưng tịnh / ubbāhikāya). {#14.19}
 
-Kataṁ saṅghena itthannāmassa bhikkhuno tassapāpiyasikākammaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+Một tỳ kheo hội đủ mười yếu tố nên được bổ nhiệm vào *ủy ban đại diện* -
 
-Idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena ca, tassapāpiyasikāya ca. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā …pe… kā ca tattha tassapāpiyasikāya? Yā tassapāpiyasikākammassa kiriyā karaṇaṁ upagamanaṁ ajjhupagamanaṁ adhivāsanā appaṭikkosanā— ayaṁ tattha tassapāpiyasikāya. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ kārako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyaṁ.
+Này các tỳ kheo, Ta cho phép bổ nhiệm một tỳ kheo hội đủ mười yếu tố này vào *ủy ban đại diện*.
 
-### 9.8. Paṭiññātakaraṇa
+14.20\. Và này các tỳ kheo, phải bổ nhiệm như sau: Trước hết phải thỉnh cầu vị tỳ kheo ấy; sau khi thỉnh cầu, một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn: {#14.20}
 
-14.30\. Āpattādhikaraṇaṁ katihi samathehi sammati? Āpattādhikaraṇaṁ tīhi samathehi sammati— sammukhāvinayena ca, paṭiññātakaraṇena ca, tiṇavatthārakena ca. Siyā āpattādhikaraṇaṁ ekaṁ samathaṁ anāgamma— tiṇavatthārakaṁ, dvīhi samathehi sammeyya— sammukhāvinayena ca, paṭiññātakaraṇena cāti? Siyātissa vacanīyaṁ. Yathā kathaṁ viya? Idha pana, bhikkhave, bhikkhu lahukaṁ āpattiṁ āpanno hoti. Tena, bhikkhave, bhikkhunā ekaṁ bhikkhuṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo—
+'Xin Tăng đoàn lắng nghe tôi. Trong khi chúng ta xét xử *vụ việc* này, lời bàn luận kéo dài bất tận, không thể hiểu nổi ý nghĩa của một lời nói nào. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên bổ nhiệm tỳ kheo tên là ... và tỳ kheo tên là ... vào *ủy ban đại diện* để làm *lắng dịu* *vụ việc* này. Đây là *lời đề nghị*.
 
-‘ahaṁ, āvuso, itthannāmaṁ āpattiṁ āpanno; taṁ paṭidesemī’ti. Tena vattabbo— ‘passasī’ti? ‘Āma passāmī’ti. ‘Āyatiṁ saṁvareyyāsī’ti.
+Xin Tăng đoàn lắng nghe tôi. Trong khi chúng ta xét xử *vụ việc* này, lời bàn luận kéo dài bất tận, không thể hiểu nổi ý nghĩa của một lời nói nào. Tăng đoàn bổ nhiệm tỳ kheo tên là ... và tỳ kheo tên là ... vào *ủy ban đại diện* để làm *lắng dịu* *vụ việc* này. Tôn giả nào chấp thuận việc bổ nhiệm tỳ kheo tên là ... và tỳ kheo tên là ... vào *ủy ban đại diện* để làm *lắng dịu* *vụ việc* này thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-Idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena ca, paṭiññātakaraṇena ca. Kiñca tattha sammukhāvinayasmiṁ? Dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… kā ca tattha puggalasammukhatā? Yo ca deseti, yassa ca deseti, ubho sammukhībhūtā honti— ayaṁ tattha puggalasammukhatā. Kiñca tattha paṭiññātakaraṇasmiṁ? Yā paṭiññātakaraṇassa kammassa kiriyā karaṇaṁ upagamanaṁ ajjhupagamanaṁ adhivāsanā appaṭikkosanā— idaṁ tattha paṭiññātakaraṇasmiṁ. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ paṭiggāhako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ.
+Tỳ kheo tên là ... và tỳ kheo tên là ... đã được Tăng đoàn bổ nhiệm vào *ủy ban đại diện* để làm *lắng dịu* *vụ việc* này. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-14.31\. Evañcetaṁ labhetha, iccetaṁ kusalaṁ. No ce labhetha, tena, bhikkhave, bhikkhunā sambahule bhikkhū upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassu vacanīyā— ‘ahaṁ, bhante, itthannāmaṁ āpattiṁ āpanno; taṁ paṭidesemī’ti. Byattena bhikkhunā paṭibalena te bhikkhū ñāpetabbā—
+14.21\. Nếu các tỳ kheo ấy có thể làm *lắng dịu* *vụ việc* ấy bằng *ủy ban đại diện*, thì này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*. {#14.21}
 
-‘Suṇantu me āyasmantā. Ayaṁ itthannāmo bhikkhu āpattiṁ sarati, vivarati, uttāniṁ karoti deseti. Yadāyasmantānaṁ pattakallaṁ, ahaṁ itthannāmassa bhikkhuno āpattiṁ paṭiggaṇheyyan’ti. Tena vattabbo—
+14.22\. Này các tỳ kheo, nếu trong khi các tỳ kheo ấy xét xử *vụ việc* ấy, ở đó có một tỳ kheo thuyết giảng *Giáo pháp*, nhưng vị ấy chẳng thuộc Kinh tạng lẫn phần phân tích giới luật (*Suttavibhaṅga*), không nắm bắt được ý nghĩa mà chỉ bám vào bóng dáng văn tự để bác bỏ ý nghĩa, thì một tỳ kheo thông thạo và có năng lực phải thông báo cho các tỳ kheo ấy rằng: {#14.22}
 
-‘passasī’ti? ‘Āma passāmī’ti. ‘Āyatiṁ saṁvareyyāsī’ti.
+'Xin các Tôn giả lắng nghe tôi. Tỳ kheo tên là ... này là người thuyết giảng *Giáo pháp*. Vị này chẳng thuộc Kinh tạng lẫn phần phân tích giới luật. Không nắm bắt được ý nghĩa, vị ấy chỉ bám vào bóng dáng văn tự để bác bỏ ý nghĩa. Khi đã đến thời điểm thích hợp cho các Tôn giả, sau khi mời tỳ kheo tên là ... đứng dậy rời đi, những vị còn lại chúng ta hãy làm *lắng dịu* *vụ việc* này.'
 
-Idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena ca, paṭiññātakaraṇena ca. Kiñca tattha sammukhāvinayasmiṁ? Dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… kā ca tattha puggalasammukhatā? Yo ca deseti, yassa ca deseti, ubho sammukhībhūtā honti— ayaṁ tattha puggalasammukhatā. Kiñca tattha paṭiññātakaraṇasmiṁ? Yā paṭiññātakaraṇassa kammassa kiriyā karaṇaṁ upagamanaṁ ajjhupagamanaṁ adhivāsanā appaṭikkosanā— idaṁ tattha paṭiññātakaraṇasmiṁ. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ paṭiggāhako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ.
+Nếu sau khi mời vị tỳ kheo ấy đứng dậy rời đi, các tỳ kheo ấy có thể làm *lắng dịu* *vụ việc* ấy, thì này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-14.32\. Evañcetaṁ labhetha, iccetaṁ kusalaṁ. No ce labhetha, tena, bhikkhave, bhikkhunā saṅghaṁ upasaṅkamitvā ekaṁsaṁ uttarāsaṅgaṁ karitvā vuḍḍhānaṁ bhikkhūnaṁ pāde vanditvā ukkuṭikaṁ nisīditvā añjaliṁ paggahetvā evamassa vacanīyo— ‘ahaṁ, bhante, itthannāmaṁ āpattiṁ āpanno; taṁ paṭidesemī’ti. Byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+14.23\. Này các tỳ kheo, nếu trong khi các tỳ kheo ấy xét xử *vụ việc* ấy, ở đó có một tỳ kheo thuyết giảng *Giáo pháp*, vị ấy tuy có thuộc Kinh tạng nhưng không thuộc phần phân tích giới luật, không nắm bắt được ý nghĩa mà chỉ bám vào bóng dáng văn tự để bác bỏ ý nghĩa, thì một tỳ kheo thông thạo và có năng lực phải thông báo cho các tỳ kheo ấy rằng: {#14.23}
 
-‘Suṇātu me, bhante, saṅgho. Ayaṁ itthannāmo bhikkhu āpattiṁ sarati, vivarati, uttāniṁ karoti, deseti. Yadi saṅghassa pattakallaṁ, ahaṁ itthannāmassa bhikkhuno āpattiṁ paṭiggaṇheyyan’ti. Tena vattabbo—
+'Xin các Tôn giả lắng nghe tôi. Tỳ kheo tên là ... này là người thuyết giảng *Giáo pháp*. Vị này tuy có thuộc Kinh tạng nhưng không thuộc phần phân tích giới luật. Không nắm bắt được ý nghĩa, vị ấy chỉ bám vào bóng dáng văn tự để bác bỏ ý nghĩa. Khi đã đến thời điểm thích hợp cho các Tôn giả, sau khi mời tỳ kheo tên là ... đứng dậy rời đi, những vị còn lại chúng ta hãy làm *lắng dịu* *vụ việc* này.'
 
-‘passasī’ti? ‘Āma passāmī’ti. ‘Āyatiṁ saṁvareyyāsī’ti.
+Nếu sau khi mời vị tỳ kheo ấy đứng dậy rời đi, các tỳ kheo ấy có thể làm *lắng dịu* *vụ việc* ấy, thì này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
 
-Idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena ca, paṭiññātakaraṇena ca. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā, puggalasammukhatā …pe… evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ paṭiggāhako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyaṁ.
+### 9.3. Xử lý theo đa số
 
-### 9.9. Tiṇavatthāraka
+14.24\. Này các tỳ kheo, nếu các tỳ kheo ấy không thể làm *lắng dịu* *vụ việc* ấy bằng *ủy ban đại diện*, thì các tỳ kheo ấy phải giao trả *vụ việc* ấy lại cho Tăng đoàn rằng: 'Bạch chư Tăng, chúng tôi không thể làm *lắng dịu* *vụ việc* này bằng *ủy ban đại diện*, xin chính Tăng đoàn hãy làm *lắng dịu* *vụ việc* này.' Này các tỳ kheo, Ta cho phép làm *lắng dịu* một *vụ việc* như vậy bằng cách *xử lý theo đa số*. {#14.24}
 
-14.33\. Siyā āpattādhikaraṇaṁ ekaṁ samathaṁ anāgamma— paṭiññātakaraṇaṁ, dvīhi samathehi sammeyya— sammukhāvinayena ca, tiṇavatthārakena cāti? Siyātissa vacanīyaṁ. Yathā kathaṁ viya?
+Một tỳ kheo hội đủ năm yếu tố nên được bổ nhiệm làm người phát và thu thẻ biểu quyết - đó là vị không thiên vị vì *mong muốn*, không thiên vị vì *ám ảnh khó chịu*, không thiên vị vì *Sự u mê*, không thiên vị vì sợ hãi và biết rõ thẻ nào đã lấy hay chưa lấy `[...lặp lại...]`.
 
-Idha pana, bhikkhave, bhikkhūnaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ hoti bhāsitaparikkantaṁ. Tatra ce bhikkhūnaṁ evaṁ hoti— ‘amhākaṁ kho bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyyā’ti. Anujānāmi, bhikkhave, evarūpaṁ adhikaraṇaṁ tiṇavatthārakena vūpasametuṁ.
+Và này các tỳ kheo, phải bổ nhiệm như sau: Trước hết phải thỉnh cầu vị tỳ kheo ấy; sau khi thỉnh cầu, một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
 
-Evañca pana, bhikkhave, vūpasametabbaṁ. Sabbeheva ekajjhaṁ sannipatitabbaṁ, sannipatitvā byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+'Xin Tăng đoàn lắng nghe tôi. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên bổ nhiệm tỳ kheo tên là ... làm người phát và thu thẻ biểu quyết. Đây là *lời đề nghị*.
 
-‘Suṇātu me, bhante, saṅgho. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadi saṅghassa pattakallaṁ, saṅgho imaṁ adhikaraṇaṁ tiṇavatthārakena vūpasameyya, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttanti.
+Xin Tăng đoàn lắng nghe tôi. Tăng đoàn bổ nhiệm tỳ kheo tên là ... làm người phát và thu thẻ biểu quyết. Tôn giả nào chấp thuận việc bổ nhiệm tỳ kheo tên là ... làm người phát và thu thẻ biểu quyết thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
 
-Ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā paṭibalena sako pakkho ñāpetabbo—
+Tỳ kheo tên là ... đã được Tăng đoàn bổ nhiệm làm người phát và thu thẻ biểu quyết. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
 
-Suṇantu me āyasmantā. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadāyasmantānaṁ pattakallaṁ, ahaṁ yā ceva āyasmantānaṁ āpatti, yā ca attano āpatti, āyasmantānañceva atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttan’ti.
+Tỳ kheo phát và thu thẻ biểu quyết ấy phải tiến hành thu thẻ. Phần đông các tỳ kheo nói theo *Điều luật* phán quyết thế nào thì phải làm *lắng dịu* *vụ việc* ấy như thế ấy. Này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện* và bằng *xử lý theo đa số*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự. Thế nào là sự có mặt trực diện của Tăng đoàn ở đó? Bao nhiêu tỳ kheo đủ tư cách tham dự *hành động pháp lý* đều đã có mặt, *ý nguyện* [đồng thuận] của những vị đủ tư cách trao *ý nguyện* đã được mang đến và những vị có mặt không phản đối - đây là sự có mặt trực diện của Tăng đoàn ở đó. Thế nào là sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật ở đó? Với *Giáo pháp* nào, với Luật nào, với lời dạy nào của bậc Đạo sư mà *vụ việc* ấy được *lắng dịu* - đây là sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật ở đó. Thế nào là sự có mặt trực diện của các đương sự ở đó? Người tranh luận và người bị tranh luận, cả hai bên đối tụng đều có mặt trực diện - đây là sự có mặt trực diện của các đương sự ở đó. Và trong *xử lý theo đa số* ấy gồm những gì? Sự thực hành, tiến hành, tiếp nhận, chấp nhận, đồng tình và không phản đối đối với *hành động pháp lý* *xử lý theo đa số* - đây là phần thuộc *xử lý theo đa số* ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*."
 
-Athāparesaṁ ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā paṭibalena sako pakkho ñāpetabbo—
+### 9.4. Ba cách thu thẻ biểu quyết
 
-‘Suṇantu me āyasmantā. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadāyasmantānaṁ pattakallaṁ, ahaṁ yā ceva āyasmantānaṁ āpatti, yā ca attano āpatti, āyasmantānañceva atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttan’ti.
+14.25\. Lúc bấy giờ, tại Sāvatthī có một *vụ việc* đã sinh khởi như vậy, đã phát sinh như vậy. Các tỳ kheo ấy - không hài lòng với cách làm *lắng dịu* *vụ việc* của Tăng đoàn ở Sāvatthī - nghe tin rằng tại một trú xứ nọ có nhiều vị trưởng lão đang cư ngụ, là những bậc học rộng, thông thạo kinh truyền, trì giữ *Giáo pháp*, trì giữ Luật, thông thuộc bảng mục lục, sáng suốt, thông thái, trí tuệ, biết hổ thẹn, thận trọng và ham thích học tập; nếu các vị trưởng lão ấy làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư thì *vụ việc* này sẽ được *lắng dịu* tốt đẹp. Rồi các tỳ kheo ấy đi đến trú xứ đó và thưa với các vị trưởng lão ấy rằng: {#14.25}
 
-Athāparesaṁ ekatopakkhikānaṁ bhikkhūnaṁ byattena bhikkhunā paṭibalena saṅgho ñāpetabbo—
+– Bạch chư Trưởng lão, *vụ việc* này đã sinh khởi như vậy, đã phát sinh như vậy. Kính mong chư Trưởng lão hãy làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư, sao cho *vụ việc* này được *lắng dịu* tốt đẹp.
 
-‘Suṇātu me, bhante, saṅgho. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Yadi saṅghassa pattakallaṁ, ahaṁ yā ceva imesaṁ āyasmantānaṁ āpatti, yā ca attano āpatti, imesañceva āyasmantānaṁ atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena deseyyaṁ, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Esā ñatti.
+Các vị trưởng lão ấy [thấy rằng] *vụ việc* đã được Tăng đoàn ở Sāvatthī làm *lắng dịu* thế nào thì chính như thế ấy là đã được *lắng dịu* tốt đẹp rồi - nên các ngài cũng làm *lắng dịu* *vụ việc* ấy đúng như vậy.
 
-Suṇātu me, bhante, saṅgho. Amhākaṁ bhaṇḍanajātānaṁ kalahajātānaṁ vivādāpannānaṁ viharataṁ bahuṁ assāmaṇakaṁ ajjhāciṇṇaṁ bhāsitaparikkantaṁ. Sace mayaṁ imāhi āpattīhi aññamaññaṁ kāressāma, siyāpi taṁ adhikaraṇaṁ kakkhaḷattāya vāḷattāya bhedāya saṁvatteyya. Ahaṁ yā ceva imesaṁ āyasmantānaṁ āpatti, yā ca attano āpatti, imesañceva āyasmantānaṁ atthāya, attano ca atthāya, saṅghamajjhe tiṇavatthārakena desemi, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Yassāyasmato khamati amhākaṁ imāsaṁ āpattīnaṁ saṅghamajjhe tiṇavatthārakena desanā, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ, so tuṇhassa; yassa nakkhamati, so bhāseyya.
+Các tỳ kheo ấy - không hài lòng với cách làm *lắng dịu* *vụ việc* của Tăng đoàn ở Sāvatthī, cũng không hài lòng với cách làm *lắng dịu* *vụ việc* của nhiều vị trưởng lão - lại nghe tin rằng tại một trú xứ nọ có ba vị trưởng lão đang cư ngụ `[...lặp lại...]` có hai vị trưởng lão đang cư ngụ `[...lặp lại...]` có một vị trưởng lão đang cư ngụ, là bậc học rộng, thông thạo kinh truyền, trì giữ *Giáo pháp*, trì giữ Luật, thông thuộc bảng mục lục, sáng suốt, thông thái, trí tuệ, biết hổ thẹn, thận trọng và ham thích học tập; nếu vị trưởng lão ấy làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư thì *vụ việc* này sẽ được *lắng dịu* tốt đẹp. Rồi các tỳ kheo ấy đi đến trú xứ đó và thưa với vị trưởng lão ấy rằng:
 
-Desitā amhākaṁ imā āpattiyo saṅghamajjhe tiṇavatthārakena, ṭhapetvā thullavajjaṁ, ṭhapetvā gihippaṭisaṁyuttaṁ. Khamati saṅghassa, tasmā tuṇhī, evametaṁ dhārayāmī’ti.
+– Bạch Trưởng lão, *vụ việc* này đã sinh khởi như vậy, đã phát sinh như vậy. Kính mong Trưởng lão hãy làm *lắng dịu* *vụ việc* này theo Pháp, theo Luật và theo lời dạy của bậc Đạo sư, sao cho *vụ việc* này được *lắng dịu* tốt đẹp.
 
-Athāparesaṁ …pe…
+Vị trưởng lão ấy [thấy rằng] *vụ việc* đã được Tăng đoàn ở Sāvatthī làm *lắng dịu* thế nào, đã được nhiều vị trưởng lão làm *lắng dịu* thế nào, đã được ba vị trưởng lão làm *lắng dịu* thế nào, đã được hai vị trưởng lão làm *lắng dịu* thế nào, thì chính như thế ấy là đã được *lắng dịu* tốt đẹp rồi - nên vị ấy cũng làm *lắng dịu* *vụ việc* ấy đúng như vậy.
 
-evametaṁ dhārayāmī’ti.
+Các tỳ kheo ấy không hài lòng với cách làm *lắng dịu* *vụ việc* của Tăng đoàn ở Sāvatthī, không hài lòng với cách làm *lắng dịu* *vụ việc* của nhiều vị trưởng lão, không hài lòng với cách làm *lắng dịu* *vụ việc* của ba vị trưởng lão, không hài lòng với cách làm *lắng dịu* *vụ việc* của hai vị trưởng lão và không hài lòng với cách làm *lắng dịu* *vụ việc* của một vị trưởng lão, liền đi đến gặp Thế Tôn; đến nơi, họ trình bày sự việc này lên Thế Tôn `[...lặp lại...]`.
 
-Idaṁ vuccati, bhikkhave, adhikaraṇaṁ vūpasantaṁ. Kena vūpasantaṁ? Sammukhāvinayena ca, tiṇavatthārakena ca. Kiñca tattha sammukhāvinayasmiṁ? Saṅghasammukhatā, dhammasammukhatā, vinayasammukhatā, puggalasammukhatā.
+– Này các tỳ kheo, *vụ việc* này đã được giải quyết dứt điểm, đã yên ổn, đã *lắng dịu*, đã *lắng dịu* tốt đẹp rồi. Này các tỳ kheo, để thuyết phục các tỳ kheo ấy, Ta cho phép ba cách thu thẻ biểu quyết: cách kín đáo, cách nói thầm vào tai và cách công khai.
 
-Kā ca tattha saṅghasammukhatā? Yāvatikā bhikkhū kammappattā, te āgatā honti, chandārahānaṁ chando āhaṭo hoti, sammukhībhūtā na paṭikkosanti— ayaṁ tattha saṅghasammukhatā.
+14.26\. Này các tỳ kheo, thế nào là cách thu thẻ biểu quyết kín đáo? Tỳ kheo phát và thu thẻ biểu quyết làm những thẻ có màu sắc khác nhau rồi lần lượt đến từng tỳ kheo mà nói thế này: 'Đây là thẻ của người chủ trương như vầy, đây là thẻ của người chủ trương như vầy. Tôn giả muốn chọn thẻ nào thì hãy lấy thẻ đó.' Khi vị kia đã lấy xong thì dặn: 'Xin đừng cho ai thấy.' Nếu biết rằng những người nói theo *Điều sai* đông hơn, thì [coi như] thu thẻ không thành và phải hoãn hủy lại. Nếu biết rằng những người nói theo *Điều luật* đông hơn, thì [coi như] thu thẻ thành công và phải công bố kết quả. Này các tỳ kheo, như vậy là cách thu thẻ biểu quyết kín đáo. {#14.26}
 
-Kā ca tattha dhammasammukhatā, vinayasammukhatā? Yena dhammena yena vinayena yena satthusāsanena taṁ adhikaraṇaṁ vūpasammati— ayaṁ tattha dhammasammukhatā, vinayasammukhatā.
+Này các tỳ kheo, thế nào là cách thu thẻ biểu quyết nói thầm vào tai? Tỳ kheo phát và thu thẻ biểu quyết phải nói thầm vào tai từng tỳ kheo một rằng: 'Đây là thẻ của người chủ trương như vầy, đây là thẻ của người chủ trương như vầy. Tôn giả muốn chọn thẻ nào thì hãy lấy thẻ đó.' Khi vị kia đã lấy xong thì dặn: 'Xin đừng nói cho ai biết.' Nếu biết rằng những người nói theo *Điều sai* đông hơn, thì [coi như] thu thẻ không thành và phải hoãn hủy lại. Nếu biết rằng những người nói theo *Điều luật* đông hơn, thì [coi như] thu thẻ thành công và phải công bố kết quả. Này các tỳ kheo, như vậy là cách thu thẻ biểu quyết nói thầm vào tai.
 
-Kā ca tattha puggalasammukhatā? Yo ca deseti, yassa ca deseti, ubho sammukhībhūtā honti— ayaṁ tattha puggalasammukhatā.
+Này các tỳ kheo, thế nào là cách thu thẻ biểu quyết công khai? Nếu biết rằng những người nói theo *Điều luật* đông hơn, thì cứ tự tin cho lấy thẻ một cách công khai. Này các tỳ kheo, như vậy là cách thu thẻ biểu quyết công khai. Này các tỳ kheo, đây là ba cách thu thẻ biểu quyết."
 
-Kiñca tattha tiṇavatthārakasmiṁ? Yā tiṇavatthārakassa kammassa kiriyā karaṇaṁ upagamanaṁ ajjhupagamanaṁ adhivāsanā appaṭikkosanā— idaṁ tattha tiṇavatthārakasmiṁ. Evaṁ vūpasantañce, bhikkhave, adhikaraṇaṁ paṭiggāhako ukkoṭeti, ukkoṭanakaṁ pācittiyaṁ; chandadāyako khīyati, khīyanakaṁ pācittiyaṁ.
+### 9.5. Xử lý theo trí nhớ sáng suốt
 
-14.34\. Kiccādhikaraṇaṁ katihi samathehi sammati? Kiccādhikaraṇaṁ ekena samathena sammati— sammukhāvinayenā”ti.
+14.27\. "Vụ việc cáo buộc được *lắng dịu* bằng bao nhiêu *phương pháp hòa giải*? Vụ việc cáo buộc được *lắng dịu* bằng bốn *phương pháp hòa giải* - bằng *xử lý trực diện*, bằng *xử lý theo trí nhớ sáng suốt*, bằng *xử lý cho người hết mê loạn* và bằng *xử lý kẻ gian dối quanh co*. Có thể nào vụ việc cáo buộc không cần đến hai *phương pháp hòa giải* là *xử lý cho người hết mê loạn* và *xử lý kẻ gian dối quanh co*, mà chỉ *lắng dịu* bằng hai *phương pháp hòa giải* là *xử lý trực diện* và *xử lý theo trí nhớ sáng suốt* không? Có thể được, cần phải trả lời như vậy. Như thế nào? {#14.27}
 
-Samathakkhandhako niṭṭhito catuttho.
+Ở đây, này các tỳ kheo, các tỳ kheo vu khống một tỳ kheo về sự hư hỏng giới hạnh không có căn cứ. Này các tỳ kheo, cần phải ban hành *xử lý theo trí nhớ sáng suốt* cho vị tỳ kheo ấy, vị đã đạt đến trí nhớ hoàn toàn sáng suốt.
+
+Và này các tỳ kheo, phải ban hành như sau: vị tỳ kheo ấy phải đi đến trước Tăng đoàn, đắp y lệch một bên vai `[...lặp lại...]` và thưa như sau:
+
+'Bạch chư Tăng, các tỳ kheo vu khống con về sự hư hỏng giới hạnh không có căn cứ. Bạch chư Tăng, con là người có trí nhớ hoàn toàn sáng suốt, xin thỉnh cầu Tăng đoàn ban cho *xử lý theo trí nhớ sáng suốt*.' Phải thỉnh cầu lần thứ hai. Phải thỉnh cầu lần thứ ba.
+
+Một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
+
+'Xin Tăng đoàn lắng nghe tôi. Các tỳ kheo vu khống tỳ kheo tên là ... về sự hư hỏng giới hạnh không có căn cứ. Vị ấy là người có trí nhớ hoàn toàn sáng suốt, đang thỉnh cầu Tăng đoàn ban cho *xử lý theo trí nhớ sáng suốt*. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên ban cho tỳ kheo tên là ..., vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt*. Đây là *lời đề nghị*.
+
+Xin Tăng đoàn lắng nghe tôi. Các tỳ kheo vu khống tỳ kheo tên là ... về sự hư hỏng giới hạnh không có căn cứ. Vị ấy là người có trí nhớ hoàn toàn sáng suốt, đang thỉnh cầu Tăng đoàn ban cho *xử lý theo trí nhớ sáng suốt*. Tăng đoàn ban cho tỳ kheo tên là ..., vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt*. Tôn giả nào chấp thuận việc ban cho tỳ kheo tên là ..., vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt* thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
+
+Lần thứ hai tôi xin tuyên bố việc này `[...lặp lại...]` lần thứ ba tôi xin tuyên bố việc này `[...lặp lại...]`.
+
+Tăng đoàn đã ban cho tỳ kheo tên là ..., vị có trí nhớ hoàn toàn sáng suốt, *xử lý theo trí nhớ sáng suốt*. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
+
+Này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện* và bằng *xử lý theo trí nhớ sáng suốt*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Thế nào là sự có mặt trực diện của các đương sự ở đó? Người cáo buộc và người bị cáo buộc, cả hai đều có mặt trực diện - đây là sự có mặt trực diện của các đương sự ở đó. Và trong *xử lý theo trí nhớ sáng suốt* ấy gồm những gì? Sự thực hành, tiến hành, tiếp nhận, chấp nhận, đồng tình và không phản đối đối với *hành động pháp lý* *xử lý theo trí nhớ sáng suốt* - đây là phần thuộc *xử lý theo trí nhớ sáng suốt* ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
+
+### 9.6. Xử lý cho người hết mê loạn
+
+14.28\. Có thể nào vụ việc cáo buộc không cần đến hai *phương pháp hòa giải* là *xử lý theo trí nhớ sáng suốt* và *xử lý kẻ gian dối quanh co*, mà chỉ *lắng dịu* bằng hai *phương pháp hòa giải* là *xử lý trực diện* và *xử lý cho người hết mê loạn* không? Có thể được, cần phải trả lời như vậy. Như thế nào? {#14.28}
+
+Ở đây, này các tỳ kheo, một tỳ kheo bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn vị ấy về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?' Vị ấy đáp: 'Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó. Việc ấy là do tôi làm trong lúc mê loạn.' Dù vị ấy đã nói như vậy, họ vẫn tiếp tục chất vấn: 'Tôn giả có nhớ mình đã phạm lỗi như vậy không?' Này các tỳ kheo, cần phải ban hành *xử lý cho người hết mê loạn* cho vị tỳ kheo ấy, vị đã hết mê loạn.
+
+Và này các tỳ kheo, phải ban hành như sau: vị tỳ kheo ấy phải đi đến trước Tăng đoàn, đắp y lệch một bên vai `[...lặp lại...]` và thưa như sau:
+
+'Bạch chư Tăng, con đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, con đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn con về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Con đã đáp với họ rằng: "Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó. Việc ấy là do tôi làm trong lúc mê loạn." Dù con đã nói như vậy, họ vẫn tiếp tục chất vấn con rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Bạch chư Tăng, nay con đã hết mê loạn, xin thỉnh cầu Tăng đoàn ban cho *xử lý cho người hết mê loạn*.' Phải thỉnh cầu lần thứ hai. Phải thỉnh cầu lần thứ ba.
+
+Một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
+
+'Xin Tăng đoàn lắng nghe tôi. Tỳ kheo tên là ... này đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn vị ấy về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Vị ấy đáp: "Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó. Việc ấy là do tôi làm trong lúc mê loạn." Dù vị ấy đã nói như vậy, họ vẫn tiếp tục chất vấn: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Nay vị ấy đã hết mê loạn, đang thỉnh cầu Tăng đoàn ban cho *xử lý cho người hết mê loạn*. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên ban cho tỳ kheo tên là ..., vị đã hết mê loạn, *xử lý cho người hết mê loạn*. Đây là *lời đề nghị*.
+
+Xin Tăng đoàn lắng nghe tôi. Tỳ kheo tên là ... này đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, vị ấy đã làm và nói nhiều điều không đúng tư cách sa-môn. Các tỳ kheo chất vấn vị ấy về lỗi phạm đã gây ra trong lúc điên loạn, tâm trí đảo lộn rằng: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Vị ấy đáp: "Này các hiền giả, tôi đã bị điên loạn, tâm trí đảo lộn. Trong lúc bị điên loạn, tâm trí đảo lộn, tôi đã làm và nói nhiều điều không đúng tư cách sa-môn. Tôi không nhớ điều đó. Việc ấy là do tôi làm trong lúc mê loạn." Dù vị ấy đã nói như vậy, họ vẫn tiếp tục chất vấn: "Tôn giả có nhớ mình đã phạm lỗi như vậy không?" Nay vị ấy đã hết mê loạn, đang thỉnh cầu Tăng đoàn ban cho *xử lý cho người hết mê loạn*. Tăng đoàn ban cho tỳ kheo tên là ..., vị đã hết mê loạn, *xử lý cho người hết mê loạn*. Tôn giả nào chấp thuận việc ban cho tỳ kheo tên là ..., vị đã hết mê loạn, *xử lý cho người hết mê loạn* thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
+
+Lần thứ hai tôi xin tuyên bố việc này `[...lặp lại...]` lần thứ ba tôi xin tuyên bố việc này `[...lặp lại...]`.
+
+Tăng đoàn đã ban cho tỳ kheo tên là ..., vị đã hết mê loạn, *xử lý cho người hết mê loạn*. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
+
+Này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện* và bằng *xử lý cho người hết mê loạn*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Và trong *xử lý cho người hết mê loạn* ấy gồm những gì? Sự thực hành, tiến hành, tiếp nhận, chấp nhận, đồng tình và không phản đối đối với *hành động pháp lý* *xử lý cho người hết mê loạn* - đây là phần thuộc *xử lý cho người hết mê loạn* ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
+
+### 9.7. Xử lý kẻ gian dối quanh co
+
+14.29\. Có thể nào vụ việc cáo buộc không cần đến hai *phương pháp hòa giải* là *xử lý theo trí nhớ sáng suốt* và *xử lý cho người hết mê loạn*, mà chỉ *lắng dịu* bằng hai *phương pháp hòa giải* là *xử lý trực diện* và *xử lý kẻ gian dối quanh co* không? Có thể được, cần phải trả lời như vậy. Như thế nào? {#14.29}
+
+Ở đây, này các tỳ kheo, một tỳ kheo chất vấn một tỳ kheo khác giữa Tăng đoàn về một lỗi nặng rằng:
+
+– Tôn giả có nhớ mình đã phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)* không?
+
+Vị ấy đáp:
+
+– Này các hiền giả, tôi không nhớ mình đã phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)*.
+
+Trong khi vị ấy tìm cách chối quanh, người kia tiếp tục gặng hỏi:
+
+– Mong Tôn giả hãy xác nhận thật kỹ xem có nhớ mình đã phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)* không.
+
+Vị ấy đáp:
+
+– Này các hiền giả, tôi không nhớ mình đã phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)*. Nhưng này các hiền giả, tôi có nhớ mình đã phạm một lỗi nhỏ nhặt như vậy.
+
+Trong khi vị ấy tìm cách chối quanh, người kia lại gặng hỏi:
+
+– Mong Tôn giả hãy xác nhận thật kỹ xem có nhớ mình đã phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)* không.
+
+Vị ấy đáp:
+
+– Này các hiền giả, đến lỗi nhỏ nhặt như vậy mà tôi không bị hỏi cũng tự thú nhận, huống gì phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)*, khi bị hỏi lại không thú nhận sao?
+
+Người kia nói:
+
+– Này hiền giả, ngay cả lỗi nhỏ nhặt như vậy khi không bị hỏi ông còn không tự thú nhận, huống gì phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)*, mà không bị hỏi ông lại chịu thú nhận sao? Mong Tôn giả hãy xác nhận thật kỹ xem có nhớ mình đã phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)* không.
+
+Cuối cùng vị ấy nói:
+
+– Này các hiền giả, tôi có nhớ mình đã phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)*. Lúc nãy tôi chỉ nói đùa, tôi chỉ nói bừa rằng 'tôi không nhớ mình đã phạm lỗi nặng như vậy, thuộc *lỗi Trục xuất (Ba-la-di)* hoặc gần với *lỗi Trục xuất (Ba-la-di)*.'
+
+Này các tỳ kheo, phải thực hiện *xử lý kẻ gian dối quanh co* đối với vị tỳ kheo ấy. Và này các tỳ kheo, phải thực hiện như sau:
+
+Một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
+
+'Xin Tăng đoàn lắng nghe tôi. Tỳ kheo tên là ... này khi bị tra vấn về lỗi nặng giữa Tăng đoàn thì chối rồi lại nhận, nhận rồi lại chối, đánh trống lảng sang chuyện khác và cố ý nói dối. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo tên là .... Đây là *lời đề nghị*.
+
+Xin Tăng đoàn lắng nghe tôi. Tỳ kheo tên là ... này khi bị tra vấn về lỗi nặng giữa Tăng đoàn thì chối rồi lại nhận, nhận rồi lại chối, đánh trống lảng sang chuyện khác và cố ý nói dối. Tăng đoàn thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo tên là .... Tôn giả nào chấp thuận việc thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo tên là ... thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
+
+Lần thứ hai tôi xin tuyên bố việc này `[...lặp lại...]` lần thứ ba tôi xin tuyên bố việc này `[...lặp lại...]`.
+
+Tăng đoàn đã thực hiện *xử lý kẻ gian dối quanh co* đối với tỳ kheo tên là .... Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
+
+Này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện* và bằng *xử lý kẻ gian dối quanh co*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật `[...lặp lại...]`. Và trong *xử lý kẻ gian dối quanh co* ấy gồm những gì? Sự thực hành, tiến hành, tiếp nhận, chấp nhận, đồng tình và không phản đối đối với *hành động pháp lý* *xử lý kẻ gian dối quanh co* - đây là phần thuộc *xử lý kẻ gian dối quanh co* ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người xử lý lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
+
+### 9.8. Xử lý theo sự thừa nhận
+
+14.30\. Vụ việc phạm lỗi được *lắng dịu* bằng bao nhiêu *phương pháp hòa giải*? Vụ việc phạm lỗi được *lắng dịu* bằng ba *phương pháp hòa giải* - bằng *xử lý trực diện*, bằng *xử lý theo sự thừa nhận* và bằng *dùng cỏ phủ lấp*. Có thể nào vụ việc phạm lỗi không cần đến một *phương pháp hòa giải* là *dùng cỏ phủ lấp*, mà chỉ *lắng dịu* bằng hai *phương pháp hòa giải* là *xử lý trực diện* và *xử lý theo sự thừa nhận* không? Có thể được, cần phải trả lời như vậy. Như thế nào? {#14.30}
+
+Ở đây, này các tỳ kheo, một tỳ kheo phạm một lỗi nhẹ. Vị tỳ kheo ấy phải đi đến gặp một tỳ kheo, đắp y lệch một bên vai, ngồi xổm xuống, chắp tay lên và nói với vị ấy rằng:
+
+– Này hiền giả, tôi đã phạm lỗi tên là ...; tôi xin thú nhận lỗi ấy.
+
+Vị kia phải hỏi:
+
+– Ông có thấy [đó là lỗi] không?
+
+– Vâng, tôi thấy.
+
+– Về sau hãy nên *tự bảo vệ* (thu thúc / saṁvareyyāsī) [giữ gìn].
+
+Này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện* và bằng *xử lý theo sự thừa nhận*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Thế nào là sự có mặt trực diện của các đương sự ở đó? Người thú nhận và người tiếp nhận lời thú nhận, cả hai đều có mặt trực diện - đây là sự có mặt trực diện của các đương sự ở đó. Và trong *xử lý theo sự thừa nhận* ấy gồm những gì? Sự thực hành, tiến hành, tiếp nhận, chấp nhận, đồng tình và không phản đối đối với *hành động pháp lý* *xử lý theo sự thừa nhận* - đây là phần thuộc *xử lý theo sự thừa nhận* ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người tiếp nhận lời thú nhận lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
+
+14.31\. Nếu được như vậy thì thật tốt lành. Nếu không được, vị tỳ kheo ấy phải đi đến gặp một nhóm nhiều tỳ kheo, đắp y lệch một bên vai, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi xổm xuống, chắp tay lên và nói với họ rằng: 'Bạch các Ngài, con đã phạm lỗi tên là ...; con xin thú nhận lỗi ấy.' Một tỳ kheo thông thạo và có năng lực phải thông báo cho các tỳ kheo ấy rằng: {#14.31}
+
+'Xin các Tôn giả lắng nghe tôi. Tỳ kheo tên là ... này nhớ ra, bày tỏ, phơi bày và thú nhận lỗi phạm. Khi đã đến thời điểm thích hợp cho các Tôn giả, tôi xin tiếp nhận lời thú nhận lỗi phạm của tỳ kheo tên là ....' Vị kia phải hỏi:
+
+– Ông có thấy [đó là lỗi] không?
+
+– Vâng, tôi thấy.
+
+– Về sau hãy nên *tự bảo vệ*.
+
+Này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện* và bằng *xử lý theo sự thừa nhận*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Thế nào là sự có mặt trực diện của các đương sự ở đó? Người thú nhận và người tiếp nhận lời thú nhận, cả hai đều có mặt trực diện - đây là sự có mặt trực diện của các đương sự ở đó. Và trong *xử lý theo sự thừa nhận* ấy gồm những gì? Sự thực hành, tiến hành, tiếp nhận, chấp nhận, đồng tình và không phản đối đối với *hành động pháp lý* *xử lý theo sự thừa nhận* - đây là phần thuộc *xử lý theo sự thừa nhận* ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người tiếp nhận lời thú nhận lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
+
+14.32\. Nếu được như vậy thì thật tốt lành. Nếu không được, vị tỳ kheo ấy phải đi đến trước Tăng đoàn, đắp y lệch một bên vai, đảnh lễ dưới chân các tỳ kheo trưởng lão, ngồi xổm xuống, chắp tay lên và thưa rằng: 'Bạch chư Tăng, con đã phạm lỗi tên là ...; con xin thú nhận lỗi ấy.' Một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn rằng: {#14.32}
+
+'Xin Tăng đoàn lắng nghe tôi. Tỳ kheo tên là ... này nhớ ra, bày tỏ, phơi bày và thú nhận lỗi phạm. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, tôi xin tiếp nhận lời thú nhận lỗi phạm của tỳ kheo tên là ....' Vị kia phải hỏi:
+
+– Ông có thấy [đó là lỗi] không?
+
+– Vâng, tôi thấy.
+
+– Về sau hãy nên *tự bảo vệ*.
+
+Này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện* và bằng *xử lý theo sự thừa nhận*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự `[...lặp lại...]`. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người tiếp nhận lời thú nhận lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
+
+### 9.9. Dùng cỏ phủ lấp
+
+14.33\. Có thể nào vụ việc phạm lỗi không cần đến một *phương pháp hòa giải* là *xử lý theo sự thừa nhận*, mà chỉ *lắng dịu* bằng hai *phương pháp hòa giải* là *xử lý trực diện* và *dùng cỏ phủ lấp* không? Có thể được, cần phải trả lời như vậy. Như thế nào? {#14.33}
+
+Ở đây, này các tỳ kheo, trong khi sống tranh chấp, cãi vã và bất đồng, các tỳ kheo đã làm và nói nhiều điều không đúng tư cách sa-môn. Tại đó, nếu các tỳ kheo nghĩ rằng: 'Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ', thì này các tỳ kheo, Ta cho phép làm *lắng dịu* một *vụ việc* như vậy bằng phương pháp *dùng cỏ phủ lấp*.
+
+Và này các tỳ kheo, phải làm *lắng dịu* như sau: Tất cả phải tập hợp lại một nơi; sau khi tập hợp, một tỳ kheo thông thạo và có năng lực phải thông báo cho Tăng đoàn:
+
+'Xin Tăng đoàn lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, Tăng đoàn nên làm *lắng dịu* *vụ việc* này bằng phương pháp *dùng cỏ phủ lấp*, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ.'
+
+Một tỳ kheo thông thạo và có năng lực thuộc nhóm các tỳ kheo ở một phe phải thông báo cho phe của mình:
+
+'Xin các Tôn giả lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Khi đã đến thời điểm thích hợp cho các Tôn giả, tôi xin thay mặt vì lợi ích của các Tôn giả và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ.'
+
+Sau đó, một tỳ kheo thông thạo và có năng lực thuộc nhóm các tỳ kheo ở phe bên kia phải thông báo cho phe của mình:
+
+'Xin các Tôn giả lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Khi đã đến thời điểm thích hợp cho các Tôn giả, tôi xin thay mặt vì lợi ích của các Tôn giả và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ.'
+
+Tiếp theo, một tỳ kheo thông thạo và có năng lực thuộc một phe phải thông báo cho Tăng đoàn:
+
+'Xin Tăng đoàn lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Nếu đã đến thời điểm thích hợp cho Tăng đoàn, tôi xin thay mặt vì lợi ích của các Tôn giả này và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả này lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Đây là *lời đề nghị*.
+
+Xin Tăng đoàn lắng nghe tôi. Trong khi sống tranh chấp, cãi vã và bất đồng, chúng ta đã làm và nói nhiều điều không đúng tư cách sa-môn. Nếu chúng ta xử lý lẫn nhau vì những lỗi ấy, *vụ việc* ấy có thể dẫn đến sự gay gắt, hung hãn và chia rẽ. Tôi xin thay mặt vì lợi ích của các Tôn giả này và vì lợi ích của bản thân mà bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp* cả những lỗi của các Tôn giả này lẫn lỗi của bản thân tôi, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Tôn giả nào chấp thuận việc chúng tôi bày tỏ những lỗi ấy giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp*, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ, thì hãy im lặng; vị nào không chấp thuận thì hãy nói lên.
+
+Những lỗi ấy của chúng tôi đã được bày tỏ giữa Tăng đoàn bằng phương pháp *dùng cỏ phủ lấp*, ngoại trừ những lỗi nặng và ngoại trừ những lỗi liên quan đến cư sĩ. Tăng đoàn chấp thuận nên im lặng; tôi ghi nhận việc này là như vậy.'
+
+Sau đó, một vị thuộc phe bên kia `[...lặp lại...]`
+
+`[...lặp lại...]` tôi ghi nhận việc này là như vậy.'
+
+Này các tỳ kheo, đây gọi là *vụ việc* đã được *lắng dịu*. Được *lắng dịu* bằng gì? Bằng *xử lý trực diện* và bằng *dùng cỏ phủ lấp*. Và trong *xử lý trực diện* ấy gồm những gì? Sự có mặt trực diện của Tăng đoàn, sự có mặt trực diện của Pháp, sự có mặt trực diện của Luật và sự có mặt trực diện của các đương sự.
+
+Thế nào là sự có mặt trực diện của Tăng đoàn ở đó? Bao nhiêu tỳ kheo đủ tư cách tham dự *hành động pháp lý* đều đã có mặt, *ý nguyện* [đồng thuận] của những vị đủ tư cách trao *ý nguyện* đã được mang đến và những vị có mặt không phản đối - đây là sự có mặt trực diện của Tăng đoàn ở đó.
+
+Thế nào là sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật ở đó? Với *Giáo pháp* nào, với Luật nào, với lời dạy nào của bậc Đạo sư mà *vụ việc* ấy được *lắng dịu* - đây là sự có mặt trực diện của Pháp và sự có mặt trực diện của Luật ở đó.
+
+Thế nào là sự có mặt trực diện của các đương sự ở đó? Người thú nhận và người tiếp nhận lời thú nhận, cả hai đều có mặt trực diện - đây là sự có mặt trực diện của các đương sự ở đó.
+
+Và trong phương pháp *dùng cỏ phủ lấp* ấy gồm những gì? Sự thực hành, tiến hành, tiếp nhận, chấp nhận, đồng tình và không phản đối đối với *hành động pháp lý* *dùng cỏ phủ lấp* - đây là phần thuộc *dùng cỏ phủ lấp* ở đó. Này các tỳ kheo, nếu một *vụ việc* đã được *lắng dịu* như vậy mà người tiếp nhận lời thú nhận lại khơi lại, thì vì việc khơi lại ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*; nếu người đã trao *ý nguyện* lại chê trách, thì vì việc chê trách ấy phạm *lỗi Phạm quy định (Ba-dật-đề)*.
+
+14.34\. Vụ việc phận sự được *lắng dịu* bằng bao nhiêu *phương pháp hòa giải*? Vụ việc phận sự được *lắng dịu* bằng một *phương pháp hòa giải* - bằng *xử lý trực diện*." {#14.34}
+
+Chương Hòa Giải Tranh Chấp, chương thứ tư, chấm dứt.
+
+---
+
+### Bối cảnh kinh:
+Chương thứ tư của Tiểu Phẩm (*Cullavagga* - chương thứ 14 trong phần *Khandhaka* thuộc Luật Tạng) trình bày toàn diện hệ thống pháp lý và bảy phương pháp giải quyết tranh chấp (*samatha*) trong Tăng đoàn, cùng bốn loại vụ việc (*adhikaraṇa*) và các nguyên nhân phát sinh tranh cãi, cáo buộc hay phạm lỗi.
+
+### Ghi chú tài liệu:
+- Nội dung về bốn loại vụ việc, sáu gốc rễ tranh cãi và bảy cách giải quyết tranh chấp tương đồng trực tiếp với Kinh Làng Sāmagāma ([MN 104](/l?q=mn-104)).
+- Bảy phương pháp hòa giải tương ứng với bảy pháp Diệt Tránh trong giới bổn Pātimokkha của tỳ kheo ([bu-as](/l?q=bu-as)) và tỳ kheo ni ([bi-as](/l?q=bi-as)).
+- Các sự kiện và điều luật liên quan trực tiếp trong bài: tội Tăng tàn thứ 8 về vu khống vô căn cứ qua câu chuyện Tôn giả Dabba Mallaputta và tỳ kheo ni Mettiyā ([bu-ss-8](/l?q=bu-ss-8)); tội Ba-dật-đề thứ 63 về khơi lại vụ việc đã được giải quyết xong ([bu-pc-63](/l?q=bu-pc-63)); tội Ba-dật-đề thứ 79 về chê trách sau khi đã trao *ý nguyện* đồng thuận ([bu-pc-79](/l?q=bu-pc-79)); cùng năm hình thức kỷ luật (*kamma*) được quy định chi tiết tại Chương Yết-ma ([cv-1](/l?q=cv-1)).
+- Dấu ấn biên tập và phân loại học thuật: Đoạn phân tích bốn loại vụ việc theo bộ ba *thiện / không thiện / không xác định* (*kusala / akusala / abyākata*) và lối phân biệt bốn mệnh đề (*catuskoṭi*) ở mục 14.8–14.15 mang rõ phong cách hệ thống hóa của giai đoạn chuyển tiếp sang Abhidhamma. Ngoài ra, danh sách mười phẩm chất của thành viên ủy ban đại diện (*ubbāhikā*) ở mục 14.19 bị lược mất trong truyền bản Pāḷi này.
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [!] kamma | hành động pháp lý | yết-ma | Chỉ các quyết nghị, thủ tục hành chính và kỷ luật của Tăng đoàn (`saṅghakamma`). |
+| dukkaṭa | lỗi Làm sai (đột-kiết-la) | ác tác (đột-kiết-la) | |
+| dhamma | Điều luật; Giáo pháp | pháp | Tùy ngữ cảnh chỉ quy chuẩn đúng pháp hoặc giáo lý. |
+| adhammā | Điều sai | phi pháp | |
+| [!] adhikaraṇa | vụ việc | tránh sự | Các sự việc, tranh chấp hoặc phận sự cần Tăng đoàn giải quyết. |
+| vūpasama | lắng dịu | diệt | Chỉ sự êm xuôi, giải quyết ổn thỏa một *vụ việc* (`vūpasammati`). |
+| [!] samatha | phương pháp hòa giải | chỉ tịnh | Các biện pháp giải quyết làm *lắng dịu* *vụ việc*. |
+| [!] sammukhāvinaya | xử lý trực diện | hiện tiền tỳ-ni | Giải quyết với sự hiện diện đầy đủ của Tăng đoàn, Pháp, Luật và đương sự. |
+| sacchikātabba | trực tiếp chứng nghiệm | chứng ngộ | Trong bài dùng ở dạng quá khứ phân từ `sacchikataṁ`. |
+| [NG] jāti | lúc sinh ra | sanh | Trong cụm `jātiyā sattavassena`, chỉ tuổi đời (bảy tuổi kể từ khi sinh ra), không mang nghĩa tái sinh. |
+| dhammiyā kathāya | giảng về Giáo pháp | pháp thoại | |
+| [NG] paññapeti | sắp đặt | thi thiết | Trong cụm `senāsanaṁ paññapeti`, mang nghĩa vật lý là sắp đặt chỗ ở; khi dùng với Đức Phật (`paññattaṁ`), mang nghĩa quy định/ban hành. |
+| jhāna | Thiền-na | thiền | Dùng cho `jhāyino` (người hành *Thiền-na*). |
+| tejodhātu | tính lửa | hỏa giới | Từ ghép: `tejo` (lửa) + `dhātu` (tính/đặc tính). |
+| [!] iddhipāṭihāriya | phép lạ thần thông | thần biến | `iddhi` (thần thông) + `pāṭihāriya` (phép lạ/biểu diễn kỳ diệu). |
+| somanassa | an lạc | hỷ | |
+| domanassa | ưu phiền | ưu | |
+| [!] sativinaya | xử lý theo trí nhớ sáng suốt | ức niệm tỳ-ni | Tuyên bố vô tội cho bậc trí nhớ hoàn toàn sáng suốt bị vu khống. |
+| [!] amūḷhavinaya | xử lý cho người hết mê loạn | bất si tỳ-ni | Miễn trách nhiệm cho người phạm lỗi trong lúc tâm trí mất kiểm soát do bệnh điên loạn. |
+| [!] paṭiññātakaraṇa | xử lý theo sự thừa nhận | tự ngôn trị | Xử lý căn cứ trên lời tự thú nhận lỗi của đương sự. |
+| pārājika | lỗi Trục xuất (Ba-la-di) | ba-la-di (khí tội) | |
+| saṅghādisesa | lỗi Tăng xử lý (Tăng-già-bà-thi-sa) | tăng tàn | |
+| thullaccaya | lỗi Nặng (Thâu-lan-giá) | thâu-lan-giá | |
+| pācittiya | lỗi Phạm quy định (Ba-dật-đề) | ba-dật-đề | |
+| pāṭidesanīya | nhận lỗi (Ba-la-đề-đề-xá-ni) | hối quá | |
+| dubbhāsita | lỗi Nói sai | ác thuyết | |
+| [!] yebhuyyasikā | xử lý theo đa số | đa nhân mịch tội | Giải quyết tranh chấp bằng biểu quyết lấy thẻ theo số đông. |
+| [NG] chanda | mong muốn; ý nguyện | dục | Trong `chandāgati` là thiên vị vì *mong muốn*; trong `chandārahānaṁ chando` là *ý nguyện* [đồng thuận] của vị đủ tư cách bỏ phiếu. |
+| dosa | ám ảnh khó chịu | sân | |
+| moha | Sự u mê | si | |
+| [!] tassapāpiyasikā | xử lý kẻ gian dối quanh co | mích tội tướng | Áp dụng cho người quanh co chối nhận thất thường và cố ý nói dối khi bị chất vấn. |
+| [!] tiṇavatthāraka | dùng cỏ phủ lấp | như thảo phú địa | Sám hối tập thể để khép lại các lỗi lặt vặt phát sinh khi tranh cãi, tránh chia rẽ. |
+| tathāgata | Người Đến Như Vậy | Như Lai | |
+| pahānā | từ bỏ | đoạn trừ | Dùng cho `pahānāya` (để từ bỏ). |
+| micchādiṭṭhi | Nhìn nhận sai | tà kiến | |
+| dukkha | đau khổ | khổ | |
+| sukha | sung sướng | lạc | |
+| [!] abyākata | không xác định | vô ký | Trạng thái tâm hoặc hành động không thuộc thiện cũng không thuộc không thiện. |
+| [!] ubbāhikā | ủy ban đại diện | ưng tịnh | Nhóm các tỳ kheo được Tăng đoàn cử ra thay mặt xem xét và giải quyết tranh chấp. |
+| [!] ñatti | lời đề nghị | bạch | Lời tuyên bố mở đầu một *hành động pháp lý* của Tăng đoàn. |
+| saṁvara | tự bảo vệ | thu thúc | Dùng cho `saṁvareyyāsi` (nên tự kiềm chế, giữ gìn). |

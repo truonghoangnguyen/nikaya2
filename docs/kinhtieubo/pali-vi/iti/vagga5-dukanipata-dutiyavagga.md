@@ -1,415 +1,516 @@
-# 5. Dutiyavagga
+---
+description: Phẩm thứ hai thuộc Chương Hai Pháp của Kinh Phật Thuyết Như Vậy (Itivuttaka 38-49), giảng về hai suy ngẫm của Như Lai, hai bước giảng pháp, hiểu biết và không hiểu biết, hai điều trong sáng bảo vệ thế gian, trạng thái Không Sinh, hai thành phần Niết-bàn và sự vượt thoát hai định kiến cực đoan.
+---
 
-## ITI 38. Dukanipāta
+# HAI PHÁP - PHẨM 2
+*(Dukanipāta)*
 
-0\. Dutiyavagga
 
-## Vitakkasutta
+## 5. PHẨM THỨ HAI
+*(Dutiyavagga)*
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
+<!--pg-->
+### ITI 38. Chương Hai Pháp - Kinh Suy Ngẫm
+*(Vitakkasutta)*
 
-2\. “Tathāgataṁ, bhikkhave, arahantaṁ sammāsambuddhaṁ dve vitakkā bahulaṁ samudācaranti—khemo ca vitakko, paviveko ca. Abyāpajjhārāmo, bhikkhave, tathāgato abyāpajjharato. Tamenaṁ, bhikkhave, tathāgataṁ abyāpajjhārāmaṁ abyāpajjharataṁ eseva vitakko bahulaṁ samudācarati: ‘imāyāhaṁ iriyāya na kañci byābādhemi tasaṁ vā thāvaraṁ vā’ti.
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-3\. Pavivekārāmo, bhikkhave, tathāgato pavivekarato. Tamenaṁ, bhikkhave, tathāgataṁ pavivekārāmaṁ pavivekarataṁ eseva vitakko bahulaṁ samudācarati: ‘yaṁ akusalaṁ taṁ pahīnan’ti.
+2\. – Này các tỳ kheo, đối với *Người Đến Như Vậy* (Như Lai / Tathāgataṁ), bậc A-la-hán, bậc Chánh Đẳng Giác, có hai *sự suy ngẫm* (tầm / vitakkā) thường xuyên khởi lên - *sự suy ngẫm* về sự an ổn và [sự suy ngẫm] về sự *rời bỏ* (viễn ly / paviveko). Này các tỳ kheo, *Người Đến Như Vậy* vui thích trong sự *không làm hại* (vô hại / abyāpajjha), hài lòng trong sự *không làm hại*. Này các tỳ kheo, đối với *Người Đến Như Vậy* sống vui thích trong sự *không làm hại*, hài lòng trong sự *không làm hại* ấy, chính *sự suy ngẫm* này thường xuyên khởi lên: "Với cách hành xử này, Ta không gây tổn hại cho bất kỳ ai, dù là [sinh vật] còn run sợ hay đã vững vàng."
 
-4\. Tasmātiha, bhikkhave, tumhepi abyāpajjhārāmā viharatha abyāpajjharatā. Tesaṁ vo, bhikkhave, tumhākaṁ abyāpajjhārāmānaṁ viharataṁ abyāpajjharatānaṁ eseva vitakko bahulaṁ samudācarissati: ‘imāya mayaṁ iriyāya na kañci byābādhema tasaṁ vā thāvaraṁ vā’ti.
+3\. Này các tỳ kheo, *Người Đến Như Vậy* vui thích trong sự *rời bỏ*, hài lòng trong sự *rời bỏ*. Này các tỳ kheo, đối với *Người Đến Như Vậy* sống vui thích trong sự *rời bỏ*, hài lòng trong sự *rời bỏ* ấy, chính *sự suy ngẫm* này thường xuyên khởi lên: "Những gì không thiện đều đã được *từ bỏ* (đoạn trừ / pahīnan)."
 
-5\. Pavivekārāmā, bhikkhave, viharatha pavivekaratā. Tesaṁ vo, bhikkhave, tumhākaṁ pavivekārāmānaṁ viharataṁ pavivekaratānaṁ eseva vitakko bahulaṁ samudācarissati: ‘kiṁ akusalaṁ, kiṁ appahīnaṁ, kiṁ pajahāmā’”ti.
+4\. Do đó, này các tỳ kheo, các ông cũng hãy sống vui thích trong sự *không làm hại*, hài lòng trong sự *không làm hại*. Này các tỳ kheo, khi các ông sống vui thích trong sự *không làm hại*, hài lòng trong sự *không làm hại*, chính *sự suy ngẫm* này sẽ thường xuyên khởi lên nơi các ông: "Với cách hành xử này, chúng ta không gây tổn hại cho bất kỳ ai, dù là [sinh vật] còn run sợ hay đã vững vàng."
 
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+5\. Này các tỳ kheo, hãy sống vui thích trong sự *rời bỏ*, hài lòng trong sự *rời bỏ*. Này các tỳ kheo, khi các ông sống vui thích trong sự *rời bỏ*, hài lòng trong sự *rời bỏ*, chính *sự suy ngẫm* này sẽ thường xuyên khởi lên nơi các ông: "Điều gì là không thiện? Điều gì chưa được *từ bỏ*? Chúng ta đang *từ bỏ* điều gì?"
+
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 6\.
-> “Tathāgataṁ buddhamasayhasāhinaṁ,\
-> Duve vitakkā samudācaranti naṁ;\
-> Khemo vitakko paṭhamo udīrito,\
-> Tato viveko dutiyo pakāsito.
+> Với Như Lai, đức Phật,\
+> Đấng chiến thắng vô địch,\
+> Có hai niềm suy ngẫm,\
+> Thường khởi lên nơi Ngài:\
+> Suy ngẫm về an ổn,\
+> Được nói đến đầu tiên;\
+> Tiếp theo là rời bỏ,\
+> Được tuyên bố thứ hai.
 
 7\.
-> Tamonudaṁ pāragataṁ mahesiṁ,\
-> Taṁ pattipattaṁ vasimaṁ anāsavaṁ;\
-> Visantaraṁ taṇhakkhaye vimuttaṁ,\
-> Taṁ ve muniṁ antimadehadhāriṁ;\
-> Mārañjahaṁ brūmi jarāya pāraguṁ.
+> Bậc xua tan bóng tối,\
+> Đã qua tới bờ kia,\
+> Bậc tầm cầu vĩ đại,\
+> Đạt được điều cần đạt,\
+> Làm chủ, sạch nguồn ác,\
+> Vượt qua mọi độc hại,\
+> Giải thoát nhờ cạn khát;\
+> Vị ẩn sĩ như vậy,\
+> Mang tấm thân cuối cùng,\
+> Đã khước từ Ác ma,\
+> Ta gọi bậc vượt già.
 
 8\.
-> Sele yathā pabbatamuddhaniṭṭhito,\
-> Yathāpi passe janataṁ samantato;\
-> Tathūpamaṁ dhammamayaṁ sumedho,\
-> Pāsādamāruyha samantacakkhu;\
-> Sokāvatiṇṇaṁ janatamapetasoko,\
-> Avekkhati jātijarābhibhūtan”ti.
+> Như người đứng trên đá,\
+> Tại đỉnh núi trên cao,\
+> Nhìn thấy khắp xung quanh,\
+> Dân chúng ở mọi miền;\
+> Cũng vậy, bậc trí sáng,\
+> Với tầm mắt toàn diện,\
+> Bước lên đài Giáo pháp,\
+> Tự mình hết sầu muộn,\
+> Nhìn xuống đám người đời,\
+> Đang chìm trong sầu khổ,\
+> Bị sinh già áp bức.
 
-9\. Ayampi attho vutto bhagavatā, iti me sutanti.
+9\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-Paṭhamaṁ.
+Bài thứ nhất.
 
-## ITI 39. Dukanipāta
+<!--pg-->
+### ITI 39. Chương Hai Pháp - Kinh Giảng Pháp
+*(Desanāsutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-## Desanāsutta
+2\. – Này các tỳ kheo, *Người Đến Như Vậy*, bậc A-la-hán, bậc Chánh Đẳng Giác có hai *bài giảng Giáo pháp* (pháp thuyết / dhammadesanā) được trình bày theo tuần tự. Hai bài nào? "Hãy thấy *điều ác* (ác / pāpaṁ) là *điều ác*" - đây là *bài giảng Giáo pháp* thứ nhất; "Sau khi thấy *điều ác* là *điều ác*, hãy *nhàm chán* (yếm ly / nibbindatha), *cạn đắm nhiễm* (ly tham / virajjatha) và *giải thoát* (giải thoát / vimuccathā) khỏi điều đó" - đây là *bài giảng Giáo pháp* thứ hai. Này các tỳ kheo, *Người Đến Như Vậy*, bậc A-la-hán, bậc Chánh Đẳng Giác có hai *bài giảng Giáo pháp* được trình bày theo tuần tự như vậy.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Tathāgatassa, bhikkhave, arahato sammāsambuddhassa dve dhammadesanā pariyāyena bhavanti. Katamā dve? ‘Pāpaṁ pāpakato passathā’ti—ayaṁ paṭhamā dhammadesanā; ‘pāpaṁ pāpakato disvā tattha nibbindatha virajjatha vimuccathā’ti—ayaṁ dutiyā dhammadesanā. Tathāgatassa, bhikkhave, arahato sammāsambuddhassa imā dve dhammadesanā pariyāyena bhavantī”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Tathāgatassa buddhassa,\
-> sabbabhūtānukampino;\
-> Pariyāyavacanaṁ passa,\
-> dve ca dhammā pakāsitā.
-
-4\.
-> Pāpakaṁ passatha cetaṁ,\
-> tattha cāpi virajjatha;\
-> Tato virattacittāse,\
-> dukkhassantaṁ karissathā”ti.
-
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Dutiyaṁ.
-
-## ITI 40. Dukanipāta
-
-0\. Dutiyavagga
-
-## Vijjāsutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Avijjā, bhikkhave, pubbaṅgamā akusalānaṁ dhammānaṁ samāpattiyā anvadeva ahirikaṁ anottappaṁ; vijjā ca kho, bhikkhave, pubbaṅgamā kusalānaṁ dhammānaṁ samāpattiyā anvadeva hirottappan”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 3\.
-> “Yā kācimā duggatiyo,\
-> asmiṁ loke paramhi ca;\
-> Avijjāmūlikā sabbā,\
-> icchālobhasamussayā.
+> Của Như Lai, đức Phật,\
+> Thương xót mọi chúng sinh,\
+> Hãy xem lời tuần tự,\
+> Hai điều được chỉ bày:
 
 4\.
-> Yato ca hoti pāpiccho,\
-> ahirīko anādaro;\
-> Tato pāpaṁ pasavati,\
-> apāyaṁ tena gacchati.
+> Hãy thấy rõ điều ác,\
+> Và cạn đắm nhiễm nó;\
+> Từ đó tâm hết đắm,\
+> Sẽ chấm dứt khổ đau.
+
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
+
+Bài thứ hai.
+
+<!--pg-->
+### ITI 40. Chương Hai Pháp - Kinh Hiểu Biết
+*(Vijjāsutta)*
+
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
+
+2\. – Này các tỳ kheo, *không hiểu biết* (vô minh / avijjā) là cái đi trước dẫn đến việc thực hiện những điều không thiện, theo ngay sau đó là sự *không biết xấu hổ* (vô tàm / ahirikaṁ) và *không sợ hậu quả* (vô quý / anottappaṁ). Nhưng này các tỳ kheo, *hiểu biết* (minh / vijjā) là cái đi trước dẫn đến việc đạt được *những điều thiện* (thiện pháp / kusalānaṁ dhammānaṁ), theo ngay sau đó là sự *biết xấu hổ và sợ hậu quả* (tàm quý / hirottappan).
+
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
+
+3\.
+> Bất cứ cảnh giới xấu,\
+> Ở đời này, đời sau,\
+> Đều gốc từ vô minh,\
+> Chứa chất tham, ham muốn.
+
+4\.
+> Khi có ham muốn xấu,\
+> Không hổ thẹn, chẳng kính,\
+> Từ đó sinh điều ác,\
+> Do vậy đi cõi dữ.
 
 5\.
-> Tasmā chandañca lobhañca,\
-> avijjañca virājayaṁ;\
-> Vijjaṁ uppādayaṁ bhikkhu,\
-> sabbā duggatiyo jahe”ti.
+> Vì thế, vị tỳ kheo,\
+> Làm phai nhạt mong muốn,\
+> Cả tham và vô minh,\
+> Làm khởi sinh hiểu biết,\
+> Bỏ mọi cảnh giới xấu.
 
-6\. Ayampi attho vutto bhagavatā, iti me sutanti.
+6\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-Tatiyaṁ.
+Bài thứ ba.
 
-Paṭhamabhāṇavāro.
+Phần tụng đọc thứ nhất.
 
-## ITI 41. Dukanipāta
+<!--pg-->
+### ITI 41. Chương Hai Pháp - Kinh Thiếu Hụt Trí Tuệ
+*(Paññāparihīnasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-## Paññāparihīnasutta
+2\. – Này các tỳ kheo, những chúng sinh nào thiếu hụt *trí tuệ* (tuệ / paññāya) của bậc thánh thì những chúng sinh ấy bị thiệt thòi lớn. Ngay trong hiện tại, họ sống *đau khổ* (khổ / dukkhaṁ), có sự bức bách, có sự tuyệt vọng, có sự nóng bức; khi thân xác tan rã, sau khi chết, *cảnh giới xấu* (ác thú / duggati) là điều được chờ đợi. Này các tỳ kheo, những chúng sinh nào không thiếu hụt *trí tuệ* của bậc thánh thì những chúng sinh ấy không bị thiệt thòi. Ngay trong hiện tại, họ sống *sung sướng* (lạc / sukhaṁ), không bức bách, không tuyệt vọng, không nóng bức; khi thân xác tan rã, sau khi chết, *cảnh giới tốt* (thiện thú / sugati) là điều được chờ đợi.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Te, bhikkhave, sattā suparihīnā ye ariyāya paññāya parihīnā. Te diṭṭheva dhamme dukkhaṁ viharanti savighātaṁ saupāyāsaṁ sapariḷāhaṁ; kāyassa bhedā paraṁ maraṇā duggati pāṭikaṅkhā. Te, bhikkhave, sattā aparihīnā ye ariyāya paññāya aparihīnā. Te diṭṭheva dhamme sukhaṁ viharanti avighātaṁ anupāyāsaṁ apariḷāhaṁ; kāyassa bhedā paraṁ maraṇā sugati pāṭikaṅkhā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Paññāya parihānena,\
-> passa lokaṁ sadevakaṁ;\
-> Niviṭṭhaṁ nāmarūpasmiṁ,\
-> idaṁ saccanti maññati.
-
-4\.
-> Paññā hi seṭṭhā lokasmiṁ,\
-> yāyaṁ nibbedhagāminī;\
-> Yāya sammā pajānāti,\
-> jātibhavaparikkhayaṁ.
-
-5\.
-> Tesaṁ devā manussā ca,\
-> sambuddhānaṁ satīmataṁ;\
-> Pihayanti hāsapaññānaṁ,\
-> sarīrantimadhārinan”ti.
-
-6\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Catutthaṁ.
-
-## ITI 42. Dukanipāta
-
-0\. Dutiyavagga
-
-## Sukkadhammasutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Dveme, bhikkhave, sukkā dhammā lokaṁ pālenti. Katame dve? Hirī ca, ottappañca. Ime ce, bhikkhave, dve sukkā dhammā lokaṁ na pāleyyuṁ, nayidha paññāyetha mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṁ dārāti vā. Sambhedaṁ loko agamissa yathā ajeḷakā kukkuṭasūkarā soṇasiṅgālā. Yasmā ca kho, bhikkhave, ime dve sukkā dhammā lokaṁ pālenti tasmā paññāyati mātāti vā mātucchāti vā mātulānīti vā ācariyabhariyāti vā garūnaṁ dārāti vā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 3\.
-> “Yesañce hiriottappaṁ,\
-> sabbadā ca na vijjati;\
-> Vokkantā sukkamūlā te,\
-> jātimaraṇagāmino.
+> Do thiếu hụt trí tuệ,\
+> Hãy nhìn xem thế gian,\
+> Cùng với các chư thiên,\
+> Mắc kẹt trong danh sắc,\
+> Nghĩ rằng: "Đây là thật."
 
 4\.
-> Yesañca hiriottappaṁ,\
-> sadā sammā upaṭṭhitā;\
-> Virūḷhabrahmacariyā te,\
-> santo khīṇapunabbhavā”ti.
+> Trí tuệ quý nhất đời,\
+> Đưa đến sự thấu suốt,\
+> Nhờ đó biết rõ ràng,\
+> Sinh và hữu cạn kiệt.
 
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
+5\.
+> Chư thiên và loài người,\
+> Đều ngưỡng mộ các Ngài -\
+> Những bậc Chánh Đẳng Giác,\
+> Luôn giữ sự chú tâm,\
+> Có trí tuệ rạng ngời,\
+> Mang tấm thân cuối cùng.
 
-Pañcamaṁ.
+6\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-## ITI 43. Dukanipāta
+Bài thứ tư.
 
-0\. Dutiyavagga
+<!--pg-->
+### ITI 42. Chương Hai Pháp - Kinh Những Điều Trong Sáng
+*(Sukkadhammasutta)*
 
-## Ajātasutta
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
+2\. – Này các tỳ kheo, có hai *điều* (pháp / dhammā) trong sáng bảo vệ thế gian. Hai *điều* nào? Sự *biết xấu hổ* (tàm / hirī) và sự *sợ hậu quả* (quý / ottappañca). Này các tỳ kheo, nếu hai *điều* trong sáng này không bảo vệ thế gian, thì ở đây người ta sẽ không nhận biết đâu là mẹ hay dì, đâu là vợ của cậu, đâu là vợ của thầy hay vợ của những bậc đáng kính. Thế gian sẽ rơi vào sự hỗn loạn giống như dê và cừu, gà và lợn, chó và chó rừng. Nhưng này các tỳ kheo, vì hai *điều* trong sáng này bảo vệ thế gian, nên người ta nhận biết đâu là mẹ hay dì, đâu là vợ của cậu, đâu là vợ của thầy hay vợ của những bậc đáng kính.
 
-2\. “Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ. No cetaṁ, bhikkhave, abhavissa ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, nayidha jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyetha. Yasmā ca kho, bhikkhave, atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ, tasmā jātassa bhūtassa katassa saṅkhatassa nissaraṇaṁ paññāyatī”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 3\.
-> “Jātaṁ bhūtaṁ samuppannaṁ,\
-> kataṁ saṅkhatamaddhuvaṁ;\
-> Jarāmaraṇasaṅghāṭaṁ,\
-> roganīḷaṁ pabhaṅguraṁ.
+> Những ai lòng luôn thiếu,\
+> Hổ thẹn, sợ hậu quả,\
+> Lệch khỏi gốc trong sáng,\
+> Đi vào vòng sinh tử.
 
 4\.
-> Āhāranettippabhavaṁ,\
-> nālaṁ tadabhinandituṁ;\
-> Tassa nissaraṇaṁ santaṁ,\
-> atakkāvacaraṁ dhuvaṁ.
+> Những ai lòng luôn có,\
+> Hổ thẹn, sợ hậu quả,\
+> Đời phạm hạnh lớn mạnh,\
+> An tịnh, hết tái sinh.
+
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
+
+Bài thứ năm.
+
+<!--pg-->
+### ITI 43. Chương Hai Pháp - Kinh Không Sinh
+*(Ajātasutta)*
+
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
+
+2\. – Này các tỳ kheo, có cái *không sinh ra* (vô sanh / ajātaṁ), *không hiện hữu* (vô hữu / abhūtaṁ), *không được tạo ra* (vô tác / akataṁ) và là *thứ hình thành không từ điều kiện hợp lại* (vô vi / asaṅkhataṁ). Này các tỳ kheo, nếu không có cái *không sinh ra*, *không hiện hữu*, *không được tạo ra* và là *thứ hình thành không từ điều kiện hợp lại*, thì ở đây sẽ không thể nhận biết được sự *thoát khỏi* (xuất ly / nissaraṇaṁ) cái được sinh ra, cái đang hiện hữu, cái được tạo ra và *thứ hình thành từ điều kiện hợp lại* (hữu vi / saṅkhatassa). Nhưng này các tỳ kheo, vì có cái *không sinh ra*, *không hiện hữu*, *không được tạo ra* và là *thứ hình thành không từ điều kiện hợp lại*, cho nên sự *thoát khỏi* cái được sinh ra, cái đang hiện hữu, cái được tạo ra và *thứ hình thành từ điều kiện hợp lại* mới được nhận biết.
+
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
+
+3\.
+> Cái sinh, đang hiện hữu,\
+> Khởi lên, được tạo ra,\
+> Hợp thành, không bền vững,\
+> Kết cấu bởi già chết,\
+> Là ổ chứa bệnh tật,\
+> Mang tính chất mục nát.
+
+4\.
+> Phát sinh từ thức ăn,\
+> Cùng dây dẫn tái sinh,\
+> Không đáng để vui thích;\
+> Sự thoát khỏi điều ấy,\
+> Là trạng thái vắng lặng,\
+> Vượt ngoài vùng suy luận,\
+> Vững bền và chắc chắn.
 
 5\.
-> Ajātaṁ asamuppannaṁ,\
-> asokaṁ virajaṁ padaṁ;\
-> Nirodho dukkhadhammānaṁ,\
-> saṅkhārūpasamo sukho”ti.
+> Không sinh, không khởi lên,\
+> Nền tảng không sầu muộn,\
+> Không chút bụi trần cấu;\
+> Làm ngưng các pháp khổ,\
+> Lắng dịu mọi hoạt động,\
+> Chính là niềm an vui.
 
-6\. Ayampi attho vutto bhagavatā, iti me sutanti.
+6\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-Chaṭṭhaṁ.
+Bài thứ sáu.
 
-## ITI 44. Dukanipāta
+<!--pg-->
+### ITI 44. Chương Hai Pháp - Kinh Thành Phần Niết-Bàn
+*(Nibbānadhātusutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-## Nibbānadhātusutta
+2\. – Này các tỳ kheo, có hai *thành phần* (giới / dhātuyo) Niết-bàn. Hai *thành phần* nào? *Thành phần Niết-bàn còn phần sót lại* (hữu dư y Niết-bàn giới / saupādisesā nibbānadhātu) và *thành phần Niết-bàn không còn phần sót lại* (vô dư y Niết-bàn giới / anupādisesā nibbānadhātu).
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
+3\. Này các tỳ kheo, thế nào là *thành phần Niết-bàn còn phần sót lại*? Ở đây, này các tỳ kheo, vị tỳ kheo là bậc A-la-hán, *hết sạch nguồn ác* (lậu tận / khīṇāsavo), đã hoàn tất đời sống phạm hạnh, đã làm xong việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích tối cao, đã làm cạn sạch xiềng xích của *sự tồn tại* (hữu / bhava), *giải thoát* nhờ hiểu biết đúng đắn. Nơi vị ấy, *năm giác quan* (ngũ căn / pañcindriyāni) vẫn còn tồn tại; do chúng chưa tan rã nên vị ấy vẫn tiếp xúc với những điều vừa ý và không vừa ý, vẫn cảm nhận dễ chịu và *đau khổ*. Sự *cạn kiệt* (đoạn tận / khayo) *đắm nhiễm* (tham / rāga), sự *cạn kiệt* *ám ảnh khó chịu* (sân / dosa), sự *cạn kiệt* *sự u mê* (si / moha) nơi vị ấy - này các tỳ kheo, đây được gọi là *thành phần Niết-bàn còn phần sót lại*.
 
-2\. “Dvemā, bhikkhave, nibbānadhātuyo. Katamā dve? Saupādisesā ca nibbānadhātu, anupādisesā ca nibbānadhātu.
+4\. Và này các tỳ kheo, thế nào là *thành phần Niết-bàn không còn phần sót lại*? Ở đây, này các tỳ kheo, vị tỳ kheo là bậc A-la-hán, *hết sạch nguồn ác*, đã hoàn tất đời sống phạm hạnh, đã làm xong việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích tối cao, đã làm cạn sạch xiềng xích của *sự tồn tại*, *giải thoát* nhờ hiểu biết đúng đắn. Ngay tại đây, này các tỳ kheo, mọi cảm nhận nơi vị ấy không còn được vui mừng đón nhận nữa sẽ trở nên nguội lạnh. Này các tỳ kheo, đây được gọi là *thành phần Niết-bàn không còn phần sót lại*. Này các tỳ kheo, đó là hai *thành phần* Niết-bàn.
 
-3\. Katamā ca, bhikkhave, saupādisesā nibbānadhātu? Idha, bhikkhave, bhikkhu arahaṁ hoti khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto. Tassa tiṭṭhanteva pañcindriyāni yesaṁ avighātattā manāpāmanāpaṁ paccanubhoti, sukhadukkhaṁ paṭisaṁvedeti. Tassa yo rāgakkhayo, dosakkhayo, mohakkhayo—ayaṁ vuccati, bhikkhave, saupādisesā nibbānadhātu.
-
-4\. Katamā ca, bhikkhave, anupādisesā nibbānadhātu? Idha, bhikkhave, bhikkhu arahaṁ hoti khīṇāsavo vusitavā katakaraṇīyo ohitabhāro anuppattasadattho parikkhīṇabhavasaṁyojano sammadaññāvimutto. Tassa idheva, bhikkhave, sabbavedayitāni anabhinanditāni sīti bhavissanti. Ayaṁ vuccati, bhikkhave, anupādisesā nibbānadhātu. Imā kho, bhikkhave, dve nibbānadhātuyo”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 5\.
-> “Duve imā cakkhumatā pakāsitā,\
-> Nibbānadhātū anissitena tādinā;\
-> Ekā hi dhātu idha diṭṭhadhammikā,\
-> Saupādisesā bhavanettisaṅkhayā;\
-> Anupādisesā pana samparāyikā,\
-> Yamhi nirujjhanti bhavāni sabbaso.
+> Hai thành phần Niết-bàn,\
+> Được bậc có mắt sáng,\
+> Bậc tự tại, không dựa,\
+> Chỉ bày và tuyên bố:\
+> Một thành phần ở đây,\
+> Thuộc về ngay hiện tại,\
+> Vẫn còn phần sót lại,\
+> Dù dây dẫn tái sinh,\
+> Đã hoàn toàn cạn kiệt;\
+> Còn không phần sót lại,\
+> Thuộc về giai đoạn sau,\
+> Nơi mà mọi tồn tại,\
+> Chấm dứt trên mọi mặt.
 
 6\.
-> Ye etadaññāya padaṁ asaṅkhataṁ,\
-> Vimuttacittā bhavanettisaṅkhayā;\
-> Te dhammasārādhigamā khaye ratā,\
-> Pahaṁsu te sabbabhavāni tādino”ti.
+> Những ai hiểu điều này -\
+> Nền tảng không hợp thành,\
+> Tâm đạt được giải thoát,\
+> Nhờ cạn dây tái sinh;\
+> Họ đạt cốt lõi Pháp,\
+> Vui trong sự cạn kiệt,\
+> Những bậc tự tại ấy,\
+> Đã bỏ mọi tồn tại.
 
-7\. Ayampi attho vutto bhagavatā, iti me sutanti.
+7\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-Sattamaṁ.
+Bài thứ bảy.
 
-## ITI 45. Dukanipāta
+<!--pg-->
+### ITI 45. Chương Hai Pháp - Kinh Sống Tĩnh Lặng Một Mình
+*(Paṭisallānasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-## Paṭisallānasutta
+2\. – Này các tỳ kheo, hãy sống vui thích trong *sự tĩnh lặng một mình* (độc cư / paṭisallāna), hài lòng trong *sự tĩnh lặng một mình*, chuyên tâm vào *sự lắng dịu tâm trí* (tâm chỉ / cetosamatha) ở bên trong, không sao nhãng *Thiền-na* (thiền / jhānā), thành tựu *sự quan sát thấu suốt* (quán / vipassanāya) và làm phát triển [việc lui tới] những *nơi vắng vẻ* (không nhàn xứ / suññāgārānaṁ). Này các tỳ kheo, đối với những ai sống vui thích trong *sự tĩnh lặng một mình*, hài lòng trong *sự tĩnh lặng một mình*, chuyên tâm vào *sự lắng dịu tâm trí* ở bên trong, không sao nhãng *Thiền-na*, thành tựu *sự quan sát thấu suốt* và làm phát triển [việc lui tới] những *nơi vắng vẻ*, thì một trong hai kết quả là điều được chờ đợi: đạt được *sự hiểu biết trọn vẹn* (chánh trí / aññā) ngay trong hiện tại, hoặc nếu vẫn còn phần sót lại [của sự bám giữ] thì đạt được *trạng thái không quay lại* (bất hoàn / anāgāmitā).
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Paṭisallānārāmā, bhikkhave, viharatha paṭisallānaratā, ajjhattaṁ cetosamathamanuyuttā, anirākatajjhānā, vipassanāya samannāgatā, brūhetāro suññāgārānaṁ. Paṭisallānārāmānaṁ, bhikkhave, viharataṁ paṭisallānaratānaṁ ajjhattaṁ cetosamathamanuyuttānaṁ anirākatajjhānānaṁ vipassanāya samannāgatānaṁ brūhetānaṁ suññāgārānaṁ dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Ye santacittā nipakā,\
-> satimanto ca jhāyino;\
-> Sammā dhammaṁ vipassanti,\
-> kāmesu anapekkhino.
-
-4\.
-> Appamādaratā santā,\
-> pamāde bhayadassino;\
-> Abhabbā parihānāya,\
-> nibbānasseva santike”ti.
-
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Aṭṭhamaṁ.
-
-## ITI 46. Dukanipāta
-
-0\. Dutiyavagga
-
-## Sikkhānisaṁsasutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Sikkhānisaṁsā, bhikkhave, viharatha paññuttarā vimuttisārā satādhipateyyā. Sikkhānisaṁsānaṁ, bhikkhave, viharataṁ paññuttarānaṁ vimuttisārānaṁ satādhipateyyānaṁ dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 3\.
-> “Paripuṇṇasikkhaṁ apahānadhammaṁ,\
-> Paññuttaraṁ jātikhayantadassiṁ;\
-> Taṁ ve muniṁ antimadehadhāriṁ,\
-> Mārañjahaṁ brūmi jarāya pāraguṁ.
+> Những ai tâm an tịnh,\
+> Thận trọng và sáng suốt,\
+> Là người có chú tâm,\
+> Thực hành việc thiền định,\
+> Quan sát Pháp đúng đắn,\
+> Không màng đến bản năng.
 
 4\.
-> Tasmā sadā jhānaratā samāhitā,\
-> Ātāpino jātikhayantadassino;\
-> Māraṁ sasenaṁ abhibhuyya bhikkhavo,\
-> Bhavatha jātimaraṇassa pāragā”ti.
+> Vui trong không sao nhãng,\
+> Giữ nội tâm vắng lặng,\
+> Thấy hiểm trong sao nhãng,\
+> Không thể bị suy thoái,\
+> Đã ở gần Niết-bàn.
 
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-Navamaṁ.
+Bài thứ tám.
 
-## ITI 47. Dukanipāta
+<!--pg-->
+### ITI 46. Chương Hai Pháp - Kinh Lợi Ích Của Sự Rèn Luyện
+*(Sikkhānisaṁsasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-## Jāgariyasutta
+2\. – Này các tỳ kheo, hãy sống với *sự rèn luyện* (học / sikkhā) làm lợi ích, có *trí tuệ* tối thượng, có sự *giải thoát* làm cốt lõi và lấy sự *chú tâm* (niệm / sati) làm chủ đạo. Này các tỳ kheo, đối với những ai sống với *sự rèn luyện* làm lợi ích, có *trí tuệ* tối thượng, có sự *giải thoát* làm cốt lõi và lấy sự *chú tâm* làm chủ đạo, thì một trong hai kết quả là điều được chờ đợi: đạt được *sự hiểu biết trọn vẹn* ngay trong hiện tại, hoặc nếu vẫn còn phần sót lại [của sự bám giữ] thì đạt được *trạng thái không quay lại*.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Jāgaro cassa, bhikkhave, bhikkhu vihareyya sato sampajāno samāhito pamudito vippasanno ca tattha kālavipassī ca kusalesu dhammesu. Jāgarassa, bhikkhave, bhikkhuno viharato satassa sampajānassa samāhitassa pamuditassa vippasannassa tattha kālavipassino kusalesu dhammesu dvinnaṁ phalānaṁ aññataraṁ phalaṁ pāṭikaṅkhaṁ—diṭṭheva dhamme aññā, sati vā upādisese anāgāmitā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 3\.
-> “Jāgarantā suṇāthetaṁ,\
-> ye suttā te pabujjhatha;\
-> Suttā jāgaritaṁ seyyo,\
-> natthi jāgarato bhayaṁ.
+> Người rèn luyện trọn vẹn,\
+> Không thuộc tính suy thoái,\
+> Có trí tuệ tối thượng,\
+> Thấy chấm dứt tái sinh;\
+> Vị ẩn sĩ như vậy,\
+> Mang tấm thân cuối cùng,\
+> Đã khước từ Ác ma,\
+> Ta gọi bậc vượt già.
 
 4\.
-> Yo jāgaro ca satimā sampajāno,\
-> Samāhito mudito vippasanno ca;\
-> Kālena so sammā dhammaṁ parivīmaṁsamāno,\
-> Ekodibhūto vihane tamaṁ so.
+> Vì thế, này tỳ kheo,\
+> Hãy luôn vui thiền định,\
+> Giữ tâm trí định tĩnh,\
+> Nhiệt tâm và thấy rõ,\
+> Sự chấm dứt tái sinh;\
+> Chiến thắng ma cùng quân,\
+> Hãy vượt qua sinh tử.
+
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
+
+Bài thứ chín.
+
+<!--pg-->
+### ITI 47. Chương Hai Pháp - Kinh Tỉnh Thức
+*(Jāgariyasutta)*
+
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
+
+2\. – Này các tỳ kheo, vị tỳ kheo hãy sống *tỉnh thức* (tỉnh giác / jāgaro), *chú tâm*, *nhận biết rõ ràng* (tỉnh giác / sampajāno), định tĩnh, hân hoan, trong sáng và đúng lúc thì quan sát thấu suốt trong *những điều thiện*. Này các tỳ kheo, đối với vị tỳ kheo sống *tỉnh thức*, *chú tâm*, *nhận biết rõ ràng*, định tĩnh, hân hoan, trong sáng và đúng lúc thì quan sát thấu suốt trong *những điều thiện*, một trong hai kết quả là điều được chờ đợi: đạt được *sự hiểu biết trọn vẹn* ngay trong hiện tại, hoặc nếu vẫn còn phần sót lại [của sự bám giữ] thì đạt được *trạng thái không quay lại*.
+
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
+
+3\.
+> Người thức hãy nghe đây,\
+> Ai ngủ hãy thức dậy;\
+> Thức tốt hơn là ngủ,\
+> Người thức không sợ hãi.
+
+4\.
+> Ai sống luôn tỉnh thức,\
+> Chú tâm và biết rõ,\
+> Định tĩnh và vui vẻ,\
+> Giữ tâm trí trong sáng;\
+> Đúng lúc khéo suy xét,\
+> Giáo pháp một cách đúng,\
+> Tâm hợp lại thành một,\
+> Sẽ phá tan bóng tối.
 
 5\.
-> Tasmā have jāgariyaṁ bhajetha,\
-> Ātāpī bhikkhu nipako jhānalābhī;\
-> Saṁyojanaṁ jātijarāya chetvā,\
-> Idheva sambodhimanuttaraṁ phuse”ti.
+> Vì vậy hãy gắn bó,\
+> Với đời sống tỉnh thức;\
+> Tỳ kheo có nhiệt tâm,\
+> Thận trọng, đạt được thiền,\
+> Cắt đứt dây sinh già,\
+> Ngay tại đời sống này,\
+> Chạm giác ngộ tối thượng.
 
-6\. Ayampi attho vutto bhagavatā, iti me sutanti.
+6\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-Dasamaṁ.
+Bài thứ mười.
 
-## ITI 48. Dukanipāta
+<!--pg-->
+### ITI 48. Chương Hai Pháp - Kinh Đọa Vào Cõi Dữ
+*(Āpāyikasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-## Āpāyikasutta
+2\. – Này các tỳ kheo, có hai hạng người sẽ rơi vào cõi khổ, rơi vào địa ngục nếu không *từ bỏ* điều này. Hai hạng người nào? Người sống không phạm hạnh nhưng lại tự nhận là sống phạm hạnh, và người lấy điều không phạm hạnh vô căn cứ để vu khống một người đang sống đời phạm hạnh trọn vẹn và trong sạch. Này các tỳ kheo, chính hai hạng người này sẽ rơi vào cõi khổ, rơi vào địa ngục nếu không *từ bỏ* điều này.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Dveme, bhikkhave, āpāyikā nerayikā idamappahāya. Katame dve? Yo ca abrahmacārī brahmacāripaṭiñño, yo ca paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ carantaṁ amūlakena abrahmacariyena anuddhaṁseti. Ime kho, bhikkhave, dve āpāyikā nerayikā idamappahāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 3\.
-> “Abhūtavādī nirayaṁ upeti,\
-> Yo vāpi katvā na karomi cāha;\
-> Ubhopi te pecca samā bhavanti,\
-> Nihīnakammā manujā parattha.
+> Kẻ nói điều không thật,\
+> Phải đi vào địa ngục,\
+> Hoặc kẻ đã làm ác,\
+> Lại nói: "Tôi không làm";\
+> Cả hai sau khi chết,\
+> Đều ngang nhau đời sau,\
+> Là những kẻ phàm tục,\
+> Có hành động thấp hèn.
 
 4\.
-> Kāsāvakaṇṭhā bahavo,\
-> pāpadhammā asaññatā;\
-> Pāpā pāpehi kammehi,\
-> nirayaṁ te upapajjare.
+> Nhiều người khoác áo vàng,\
+> Quanh cổ nhưng làm ác,\
+> Không kiểm soát bản thân;\
+> Kẻ ác do nghiệp ác,\
+> Phải sinh vào địa ngục.
 
 5\.
-> Seyyo ayoguḷo bhutto,\
-> tatto aggisikhūpamo;\
-> Yañce bhuñjeyya dussīlo,\
-> raṭṭhapiṇḍamasaññato”ti.
+> Thà nuốt hòn sắt nóng,\
+> Rực cháy như ngọn lửa,\
+> Còn hơn kẻ phá giới,\
+> Không kiểm soát bản thân,\
+> Lại ăn đồ khất thực,\
+> Của người dân trong nước.
 
-6\. Ayampi attho vutto bhagavatā, iti me sutanti.
+6\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-Ekādasamaṁ.
+Bài thứ mười một.
 
-## ITI 49. Dukanipāta
+<!--pg-->
+### ITI 49. Chương Hai Pháp - Kinh Định Kiến
+*(Diṭṭhigatasutta)*
 
-0\. Dutiyavagga
+1\. Điều này đã được Thế Tôn nói đến, đã được bậc A-la-hán nói đến - tôi đã nghe như vầy:
 
-## Diṭṭhigatasutta
+2\. – Này các tỳ kheo, bị chi phối bởi hai *định kiến* (kiến chấp / diṭṭhigatehi), chư thiên và loài người có một số người bị trì trệ lại, có một số người lại chạy quá đà; chỉ có những người có mắt mới nhìn thấy.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
+3\. Và này các tỳ kheo, thế nào là một số người bị trì trệ lại? Này các tỳ kheo, chư thiên và loài người vui thích trong *sự tồn tại*, hài lòng trong *sự tồn tại*, hân hoan trong *sự tồn tại*; khi *Giáo pháp* (pháp / dhamme) được giảng dạy để làm *biến mất* (diệt / nirodhāya) *sự tồn tại*, tâm của họ không hướng tới, không có *niềm tin tuyệt đối* (tịnh tín / pasīdati), không vững vàng, không *xác định quyết tâm* (thắng giải / adhimuccati). Này các tỳ kheo, một số người bị trì trệ lại là như vậy.
 
-2\. “Dvīhi, bhikkhave, diṭṭhigatehi pariyuṭṭhitā devamanussā olīyanti eke, atidhāvanti eke; cakkhumanto ca passanti.
+4\. Và này các tỳ kheo, thế nào là một số người chạy quá đà? Có một số người cảm thấy bức bối, xấu hổ và ghê tởm đối với chính *sự tồn tại* ấy, liền vui mừng đón nhận *sự không tồn tại* (phi hữu / vibhavaṁ) [với suy nghĩ rằng]: "Thưa quý vị, vì *tự ngã* (ngã / attā) này khi thân xác tan rã, sau khi chết sẽ bị cắt đứt, bị tiêu diệt, không còn tồn tại sau khi chết nữa - đây mới là điều an tịnh, đây mới là điều cao quý, đây mới là sự thật." Này các tỳ kheo, một số người chạy quá đà là như vậy.
 
-3\. Kathañca, bhikkhave, olīyanti eke? Bhavārāmā, bhikkhave, devamanussā bhavaratā bhavasammuditā tesaṁ bhavanirodhāya dhamme desiyamāne cittaṁ na pakkhandati na pasīdati na santiṭṭhati nādhimuccati. Evaṁ kho, bhikkhave, olīyanti eke.
+5\. Và này các tỳ kheo, thế nào là những người có mắt nhìn thấy? Ở đây, vị tỳ kheo thấy *cái đã hình thành* (hữu / bhūtaṁ) đúng là *cái đã hình thành*; sau khi thấy *cái đã hình thành* đúng là *cái đã hình thành*, vị ấy thực hành hướng đến sự *nhàm chán*, sự *cạn đắm nhiễm*, sự *biến mất* của *cái đã hình thành* ấy. Này các tỳ kheo, những người có mắt nhìn thấy là như vậy.
 
-4\. Kathañca, bhikkhave, atidhāvanti eke? Bhaveneva kho paneke aṭṭīyamānā harāyamānā jigucchamānā vibhavaṁ abhinandanti—yato kira, bho, ayaṁ attā kāyassa bhedā paraṁ maraṇā ucchijjati vinassati na hoti paraṁ maraṇā; etaṁ santaṁ etaṁ paṇītaṁ etaṁ yāthāvanti. Evaṁ kho, bhikkhave, atidhāvanti eke.
-
-5\. Kathañca, bhikkhave, cakkhumanto passanti? Idha bhikkhu bhūtaṁ bhūtato passati; bhūtaṁ bhūtato disvā bhūtassa nibbidāya virāgāya nirodhāya paṭipanno hoti. Evaṁ kho, bhikkhave, cakkhumanto passantī”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đây, điều đó được nói lên [bằng kệ] như sau:
 
 6\.
-> “Ye bhūtaṁ bhūtato disvā,\
-> bhūtassa ca atikkamaṁ;\
-> Yathābhūte vimuccanti,\
-> bhavataṇhā parikkhayā.
+> Ai thấy cái hình thành,\
+> Đúng là cái hình thành,\
+> Và thấy sự vượt thoát,\
+> Khỏi cái hình thành ấy;\
+> Họ giải thoát đúng thật,\
+> Nhờ cạn khát tồn tại.
 
 7\.
-> Sa ve bhūtapariñño so,\
-> vītataṇho bhavābhave;\
-> Bhūtassa vibhavā bhikkhu,\
-> nāgacchati punabbhavan”ti.
+> Khi vị tỳ kheo ấy,\
+> Hiểu trọn cái hình thành,\
+> Không còn niềm khát khao,\
+> Tồn tại, không tồn tại;\
+> Do cái hình thành diệt,\
+> Không đi vào tái sinh.
 
-8\. Ayampi attho vutto bhagavatā, iti me sutanti.
+8\. Ý nghĩa này cũng đã được Thế Tôn nói đến - tôi đã nghe như vầy.
 
-Dvādasamaṁ.
+Bài thứ mười hai.
 
-Dutiyo vaggo.
+Phẩm thứ hai.
 
-9\. Tassuddānaṁ
+9\. **Kệ tóm tắt** *(Tassuddānaṁ)*:
 
-> Dve indriyā dve tapanīyā,\
-> sīlena apare duve;\
-> Anottāpī kuhanā dve ca,\
-> saṁvejanīyena te dasa.
+> Hai căn, hai nung nấu,\
+> Thêm hai bài về giới;\
+> Không sợ, hai dối trá,\
+> Cùng thúc đẩy là mười.
 
 10\.
-> Vitakkā desanā vijjā,\
-> paññā dhammena pañcamaṁ;\
-> Ajātaṁ dhātusallānaṁ,\
-> sikkhā jāgariyena ca;\
-> Apāyadiṭṭhiyā ceva,\
-> bāvīsati pakāsitāti.
+> Suy ngẫm, giảng, hiểu biết,\
+> Trí tuệ, Pháp thứ năm;\
+> Không sinh, giới, tĩnh lặng,\
+> Rèn luyện và tỉnh thức;\
+> Cõi khổ và định kiến,\
+> Hai mươi hai chỉ bày.
 
-Dukanipāto niṭṭhito.
+Kết thúc Chương Hai Pháp.
+
+<!--pg-->
+### Bối cảnh kinh:
+Phẩm thứ hai thuộc Chương Hai Pháp (*Dukanipāta*) của Kinh Phật Thuyết Như Vậy (*Itivuttaka*), từ bài kinh số 38 đến số 49. Nội dung xoay quanh các cặp pháp thực hành cốt lõi: hai suy ngẫm của Như Lai (không làm hại và rời bỏ), hai bước giảng pháp, sự đối lập giữa không hiểu biết và hiểu biết, sự thiệt thòi khi thiếu trí tuệ, hai điều trong sáng bảo vệ trật tự xã hội (biết xấu hổ và sợ hậu quả), tuyên ngôn về trạng thái Không Sinh (vô vi), định nghĩa hai thành phần Niết-bàn, các yếu tố thực hành đưa đến giác ngộ (sống tĩnh lặng một mình, rèn luyện, tỉnh thức), hai hạng người đọa địa ngục và sự vượt thoát hai định kiến cực đoan (tồn tại và không tồn tại) bằng cách thấy rõ thực tại đang hiện hữu.
+
+### Ghi chú tài liệu:
+- **ITI 38 (*Vitakkasutta*)**: Kệ số 8 tương đồng với Kinh Pháp Cú ([Dhp 28](/l?q=dhp-28)), Kinh Thánh Cầu ([MN 26](/l?q=mn-26)) và Kinh Phạm Thiên Thỉnh Phật ([SN 6.1](/l?q=sn-6.1)).
+- **ITI 40 (*Vijjāsutta*)**: Tương đồng với Kinh Vô Minh ([SN 45.1](/l?q=sn-45.1)) và Kinh Tăng Chi ([AN 10.105](/l?q=an-10.105)).
+- **ITI 42 (*Sukkadhammasutta*)**: Tương đồng nguyên văn phần văn xuôi với Kinh Hành Xử ([AN 2.9](/l?q=an-2.9)).
+- **ITI 43 (*Ajātasutta*)**: Tương đồng nguyên văn phần văn xuôi với Kinh Cảm Hứng Ngữ về Niết-bàn thứ ba ([Ud 8.3](/l?q=ud-8.3)).
+- **ITI 44 (*Nibbānadhātusutta*)**: Bản kinh nền tảng định nghĩa rõ ràng nhất trong tạng Nikāya về hai khía cạnh của Niết-bàn: khi bậc A-la-hán còn sống (*saupādisesā*) và khi qua đời (*anupādisesā*).
+- **ITI 48 (*Āpāyikasutta*)**: Ba bài kệ cuối tương đồng với Kinh Pháp Cú ([Dhp 306](/l?q=dhp-306) - 308), Kinh Tập ([Snp 3.10](/l?q=snp-3.10)) và Kinh Cảm Hứng Ngữ ([Ud 4.8](/l?q=ud-4.8)).
+- **ITI 49 (*Diṭṭhigatasutta*)**: Tư tưởng vượt qua hai cực đoan "tồn tại" (*bhava*) và "không tồn tại" (*vibhava*) tương đồng mật thiết với Kinh Kaccānagotta ([SN 12.15](/l?q=sn-12.15)).
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| tathāgata | Người Đến Như Vậy | Như Lai | |
+| [!] vitakka | sự suy ngẫm | tầm | Dòng suy nghĩ, sự hướng tâm suy xét có chủ đích. |
+| viveka / paviveka | rời bỏ | viễn ly | Sự tách biệt khỏi đám đông hoặc rời bỏ các điều bất thiện trong tâm. |
+| [!] abyāpajjha | không làm hại | vô hại / vô sân | Trạng thái tâm từ hòa, không có ác ý gây tổn thương. |
+| pajahati / pahīna | từ bỏ | đoạn trừ | |
+| [!] nibbindati / nibbidā | nhàm chán | yếm ly | Sự tỉnh ngộ, hết còn hứng thú say mê khi thấy rõ bản chất thực tại. |
+| virāga / virajjati | cạn đắm nhiễm | ly tham | |
+| avijjā | không hiểu biết | vô minh | |
+| vijjā | hiểu biết | minh | |
+| [!] hiri & ottappa | biết xấu hổ & sợ hậu quả | tàm & quý | Hai cơ chế tự điều chỉnh đạo đức: tự trọng lương tâm bên trong (*hiri*) và e sợ hậu quả/dư luận bên ngoài (*ottappa*). |
+| [!] ajāta, abhūta, akata | không sinh ra, không hiện hữu, không được tạo ra | vô sanh, vô hữu, vô tác | Các tính từ phủ định quá trình sinh khởi có điều kiện, dùng để chỉ Niết-bàn. |
+| asaṅkhata | thứ hình thành không từ điều kiện hợp lại | vô vi | |
+| saṅkhata | thứ hình thành từ điều kiện hợp lại | hữu vi | |
+| nissaraṇa | thoát khỏi | xuất ly | |
+| [!] saupādisesā nibbānadhātu | thành phần Niết-bàn còn phần sót lại | hữu dư y Niết-bàn giới | `sa` (còn) + `upādisesa` (phần sót lại của năm khối tâm-vật-lý do nghiệp cũ tạo ra). |
+| [!] anupādisesā nibbānadhātu | thành phần Niết-bàn không còn phần sót lại | vô dư y Niết-bàn giới | `an` (không còn) + `upādisesa` (phần sót lại); khi năm giác quan và các cảm thọ ngừng hẳn lúc qua đời. |
+| khīṇāsava | hết sạch nguồn ác | lậu tận | |
+| pañcindriyāni | năm giác quan | ngũ căn | |
+| khaya | cạn kiệt | đoạn tận | |
+| rāga, dosa, moha | đắm nhiễm, ám ảnh khó chịu, sự u mê | tham, sân, si | |
+| [!] paṭisallāna | sự tĩnh lặng một mình | độc cư | Sự rút lui vào không gian yên tĩnh để quay vào bên trong. |
+| [!] cetosamatha | sự lắng dịu tâm trí | tâm chỉ | Làm cho những dao động của tâm trí lắng xuống. |
+| jhāna | Thiền-na | thiền | |
+| [!] vipassanā | sự quan sát thấu suốt | quán | Khả năng nhìn thấy rõ bản chất vận hành của các hiện tượng. |
+| [!] suññāgāra | nơi vắng vẻ | không nhàn xứ | Ngôi nhà trống, khu rừng hoặc chỗ yên tĩnh không người qua lại. |
+| [!] aññā | sự hiểu biết trọn vẹn | chánh trí | Trí tuệ giác ngộ hoàn toàn của bậc A-la-hán. |
+| [!] anāgāmitā | trạng thái không quay lại | bất hoàn | Quả vị thứ ba, không còn tái sinh lại cõi dục nữa. |
+| sati / sato | chú tâm | niệm | |
+| sampajāno | nhận biết rõ ràng | tỉnh giác | |
+| [!] diṭṭhigata | định kiến | kiến chấp | Những quan điểm triết học cứng nhắc trói buộc tâm trí. |
+| bhava | sự tồn tại | hữu | |
+| vibhava | sự không tồn tại | phi hữu | |
+| [!] bhūta | cái đã hình thành | chơn thực / hữu | Thực tại tâm-sinh-lý đang hiện hữu do các điều kiện tạo thành. |

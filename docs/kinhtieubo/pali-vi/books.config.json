@@ -1,0 +1,19 @@
+{
+  "intro": "Này các Tỷ-kheo, hãy tự mình là ngọn đèn cho chính mình, hãy tự mình nương tựa nơi chính mình, chớ nương tựa một nơi nào khác.",
+  "books": [
+    {
+      "id": "iti",
+      "title": "Phật Thuyết Như Vậy",
+      "description": "Digha Nikaya",
+      "cover": "/covers/kn-phatthuyetnhuvay.png",
+      "link": "/kinhtieubo/pali-vi/iti/"
+    },
+    {
+      "id": "itic",
+      "title": "Phật Thuyết Như Vậy (Bản Song Song)",
+      "description": "Digha Nikaya",
+      "cover": "/covers/kn-phatthuyetnhuvay.png",
+      "link": "/kinhtieubo/pali-vi/c-iti/"
+    }
+  ]
+}

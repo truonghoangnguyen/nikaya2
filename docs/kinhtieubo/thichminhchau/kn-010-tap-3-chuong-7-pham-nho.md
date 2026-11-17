@@ -11,6 +11,7 @@ title: Phật Tự Thuyết - Phẩm Nhỏ
 
 # Chương 7: Phẩm Nhỏ
 
+<!--pg-->
 ### (I) (Ud 74){#1}
 
 Như vầy tôi nghe:
@@ -28,6 +29,7 @@ Trước chưa từng vượt qua,\
 Không còn có rơi rớt\
 Vào sanh hữu thọ sanh.
 
+<!--pg-->
 ### (II) (Ud 74){#2}
 
 Như vầy tôi nghe:
@@ -41,6 +43,7 @@ Nước sông không chảy nữa,\
 Cắt đứt, lưu chuyển đứng,\
 Là giải thoát đau khổ.
 
+<!--pg-->
 ### (III) (Ud 75){#3}
 
 Như vầy tôi nghe:
@@ -60,6 +63,7 @@ Tham đắm trong ái dục,\
 Họ không vượt qua được,\
 Thác nước rộng và lớn.
 
+<!--pg-->
 ### (IV) (Ud 75){#4}
 
 Như vầy tôi nghe:
@@ -77,6 +81,7 @@ Như cá mắc miệng lưới,\
 Họ đi đến già chết,\
 Như con bê bú sữa.
 
+<!--pg-->
 ### (V) (Ud 76){#5}
 
 Như vầy tôi nghe:
@@ -98,6 +103,7 @@ Không phiền muộn khó khăn,\
 Dòng nước đã cắt đứt,\
 Vị ấy không trói buộc.
 
+<!--pg-->
 ### (VI) (Ud 77){#6}
 
 Như vầy tôi nghe:
@@ -113,6 +119,7 @@ Ai xứng đáng được khen,\
 Chư Thiên khen người ấy,\
 Phạm Thiên cũng ngợi khen.
 
+<!--pg-->
 ### (VII) (Ud 77){#7}
 
 Như vầy tôi nghe:
@@ -128,6 +135,7 @@ Không thể nào rõ biết,\
 Sở hành vị ẩn sĩ,\
 Ðã vượt khỏi tham ái.
 
+<!--pg-->
 ### (VIII) (Ud 77){#8}
 
 Như vầy tôi nghe:
@@ -145,6 +153,7 @@ Với tôi, nay sẽ không”.\
 Tiếp tục trú như vậy,\
 Ðúng thời vượt dục ái.
 
+<!--pg-->
 ### (IX) (Ud 78){#9}
 
 Như vầy tôi nghe:
@@ -184,6 +193,7 @@ Khi nước có cùng khắp,\
 Chắt đứt ái từ gốc,\
 Cần hành tầm cầu gì?
 
+<!--pg-->
 ### (X) (Ud 79){#10}
 
 Như vầy tôi nghe:

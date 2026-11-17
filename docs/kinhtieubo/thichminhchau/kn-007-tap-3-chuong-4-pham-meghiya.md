@@ -10,6 +10,7 @@ title: Phật Tự Thuyết - Phẩm Meghiya
 
 # Chương 4: Phẩm Meghiya
 
+<!--pg-->
 ### (I) (Ud 34){#1}
 
 Như vầy tôi nghe:
@@ -67,6 +68,7 @@ Khi ý không hoan hỷ,\
 Bậc Chánh giác bỏ chúng,\
 Không còn chút dư tàn.
 
+<!--pg-->
 ### (II) (Ud 37){#2}
 
 Như vầy tôi nghe:
@@ -90,6 +92,7 @@ Hôn trầm và thụy miên\
 Vị Tỷ-kheo như vậy,\
 Từ bỏ mọi ác thú.
 
+<!--pg-->
 ### (III) (Ud 38){#3}
 
 Như vầy tôi nghe:
@@ -113,6 +116,7 @@ Kẻ thù hại người thù,\
 Tâm định hướng tà vạy,\
 Còn làm ác hơn nữa.
 
+<!--pg-->
 ### (IV) (Ud 39){#4}
 
 Như vầy tôi nghe:
@@ -142,6 +146,7 @@ Không tham vật khả ái,\
 Tâm ai tu như vậy,\
 Từ đâu khổ đến được?
 
+<!--pg-->
 ### (V) (Ud 41){#5}
 
 Như vầy tôi nghe:
@@ -165,6 +170,7 @@ Với voi có ngà lớn\
 Với tâm điều phục tâm,\
 Một mình vui thích rừng.
 
+<!--pg-->
 ### (VI) (Ud 42){#6}
 
 Như vầy tôi nghe:
@@ -180,6 +186,7 @@ Nằm ngồi chỉ một mình,\
 Chú tâm vào tăng thượng,\
 Chính lời chư Phật dạy.
 
+<!--pg-->
 ### (VII) (Ud 43){#7}
 
 Như vầy tôi nghe:
@@ -195,6 +202,7 @@ Vị ấy không cầu muộn,\
 Luôn luôn được an tịnh,\
 Thường nắm giữ chánh niệm.
 
+<!--pg-->
 ### (VIII) (Ud 44){#8}
 
 Như vầy tôi nghe:
@@ -256,6 +264,7 @@ Tỷ-kheo hãy chịu đựng,\
 Giữ gìn không nói lên,\
 Tâm không có hiềm hận.
 
+<!--pg-->
 ### (IX) (Ud 45){#9}
 
 Như vầy tôi nghe:
@@ -273,6 +282,7 @@ Tâm tư được an tịnh,\
 Luân hồi sanh tử tận,\
 Vị ấy không tái sanh.
 
+<!--pg-->
 ### (X) (Ud 46){#10}
 
 Như vậy tôi nghe:

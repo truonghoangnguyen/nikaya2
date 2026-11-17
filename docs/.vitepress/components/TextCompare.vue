@@ -241,6 +241,8 @@ onMounted(async () => {
   gap: 1px;
   border-top: 1px solid var(--vp-c-divider);
   padding: 1rem 0;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 120px;
 }
 
 .text-column {

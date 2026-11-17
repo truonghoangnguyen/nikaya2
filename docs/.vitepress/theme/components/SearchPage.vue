@@ -7,6 +7,7 @@
           <path d="m21 21-4.35-4.35"/>
         </svg>
         <input
+          aria-label="Tìm kiếm kinh văn"
           ref="searchInput"
           v-model="query"
           type="text"
@@ -121,8 +122,8 @@ onUnmounted(() => {
 
 // ── Back navigation ──────────────────────────────────────────────────────────
 function goBack() {
-  const backUrl = localStorage.getItem('search-back-url')
-  localStorage.removeItem('search-back-url')
+  const backUrl = localStorage.getItem('quicklink-back-url')
+  localStorage.removeItem('quicklink-back-url')
   if (backUrl && !backUrl.includes('/search')) {
     router.go(backUrl)
   } else {

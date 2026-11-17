@@ -21,6 +21,13 @@ SN 22.56:
 
 1. Não là một giác quan, đối tượng của nó là pháp (đối tượng của mắt là hình ảnh)
 2. không có sự phân biệt giữa đối tượng thật (vd: quả táo) và đối tượng khái niệm (vd: tự do) tất cả là đối tượng
+3. các khái niệm được chia theo 'đầu vào' mắt-hình ảnh, tai-âm thanh... không theo trải nghiệm tổng hợp như chúng ta thường làm có 6 bộ (mắt, tai, mũi, lưỡi, thân, ý)
+
+>MN 18.16 Chư Hiền, do nhơn con mắt và các sắc pháp, nhãn thức khởi lên. Sự gặp gỡ của ba pháp này là xúc. Do duyên xúc nên có cảm thọ. Những gì có cảm thọ thời có tưởng, những gì có tưởng thời có suy tầm, những gì có suy tầm thì có hý luận. Do hý luận ấy làm nhơn, một số hý luận vọng tưởng ám ảnh một người, đối với các sắc pháp do con mắt nhận thức, quá khứ, tương lai và hiện tại.
+
+> cakkhu (mắt) + rūpa (sắc) → cakkhuviññāṇa (nhãn thức) → tiṇṇaṁ saṅgati (sự gặp gỡ của ba: mắt, sắc, nhãn thức) = phassa (xúc) → phassapaccayā vedanā (do duyên xúc, thọ sinh) → vedeti (cảm thọ) → sañjānāti (tưởng tri) → vitakketi (tầm) → papañceti (hý luận) → papañcasaññāsaṅkhā samudācaranti (các hý luận tưởng kế ám ảnh) đối với cakkhuviññeyya rūpa (các sắc do nhãn thức nhận biết) trong atīta–anāgata–paccuppanna (quá khứ–vị lai–hiện tại).
+
+
 
 Tưởng = nhận ra đối tượng, hình dung ra đối tượng
 - Từ ngữ của chúng ta hiện nay chia ra làm hai, 1 cho đối tượng thật (nhận biết), một cho đối tượng khái niệm (tưởng tượng, hình dung)
@@ -38,6 +45,13 @@ Cảm xúc thì có trạng thái, kéo dài, suy nghĩ thì không có trạng 
 2. đặt cảm xúc vào đó để lưu trữ (lúc này sáng suốt)
 3. luyện tập đặt trạng thái vào điểm đến nhiều lần để xem chỉnh sửa như nào
 4. lập lại 1-3 cho đến khi hoàn thành
+
+>Thưa các hiền giả, do duyên mắt và các sắc, nhãn thức sinh khởi. Sự gặp gỡ của ba pháp là xúc. Do duyên xúc nên có thọ. Cái gì được cảm thọ, vị ấy nhận biết; cái gì được nhận biết, vị ấy suy tầm; cái gì được suy tầm, vị ấy hý luận/khái niệm hóa; do cái gì được hý luận, từ đó các khái niệm-tưởng-danh mục hý luận tác động đến người ấy đối với các sắc do mắt nhận biết trong quá khứ, tương lai và hiện tại.
+
+Sắc, thọ, tưởng, hành, thức
+Căn+Trần->Thức (Viññāṇa)->Xúc (Phassa)->Thọ (Vedanā)->Tưởng (Saññā)->Tầm (Vitakka)->Hý luận (Papañca)
+
+Hoạt động của trí não là ý hành
 
 ========
 

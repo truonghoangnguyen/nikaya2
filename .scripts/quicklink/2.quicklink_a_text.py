@@ -6,22 +6,16 @@ from util import flat_json
 # ==========================================
 # CẤU HÌNH ĐẦU VÀO
 # ==========================================
-SOURCE_DIR = "../../docs/vinaya-vi/kd/mv"
+SOURCE_DIR = "../../docs/vinaya-vi/kd/cv"
 
 
-
+# No change: /Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-5-khuddakavatthukkhandhaka.md
+# No change: /Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-8-vattakkhandhaka.md
+# No change: /Users/ng/projects/nikaya2/docs/vinaya-vi/kd/cv/pli-tv-kd-12-sattasatikakkhandhaka.md
 
 FILES = [
-"pli-tv-kd-1-mahakhandhaka.md",
-"pli-tv-kd-2-uposathakkhandhaka.md",
-"pli-tv-kd-3-vassupanayikakkhandhaka.md",
-"pli-tv-kd-4-pavaranakkhandhaka.md",
-"pli-tv-kd-5-cammakkhandhaka.md",
-"pli-tv-kd-6-bhesajjakkhandhaka.md",
-"pli-tv-kd-7-kathinakkhandhaka.md",
-"pli-tv-kd-8-civarakkhandhaka.md",
-"pli-tv-kd-9-campeyyakkhandhaka.md",
-"pli-tv-kd-10-kosambakakkhandhaka.md",
+"pli-tv-kd-8-vattakkhandhaka.md",
+"pli-tv-kd-12-sattasatikakkhandhaka.md",
 ]
 
 # ==========================================

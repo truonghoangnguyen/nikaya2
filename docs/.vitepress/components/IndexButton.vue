@@ -1,5 +1,33 @@
 <script setup>
 function goToIndex() {
+  const parts = window.location.pathname.split('/').filter(Boolean);
+  // console.log(parts);
+  // đang ở root hoặc book root, không cần đi đâu
+  if (parts.length <= 1) return;
+
+  // // đã ở meta index (sách không có author); e.g. /kinhchude/meta/mucluc.html
+  // if (parts[2] === 'meta') return;
+
+  // // đã ở index (URL kết thúc bằng /); e.g. /kinhtrungbo/c-nm-tmc-vi/
+  // if (parts[parts.length - 1] === '') return;
+
+  // // không có author; e.g. /kinhchude/mucluc.html -> /kinhchude/meta/mucluc.html
+  // if (parts.length === 3 || parts[2]?.endsWith('.html')) {
+  //   window.location.href = `${parts[0]}/${parts[1]}/meta/mucluc.html`;
+  //   return;
+  // }
+
+  // có author (hoặc sâu hơn): bỏ segment cuối, thêm dấu / ở cuối
+  // e.g. /kinhtrungbo/c-nm-tmc-vi/mucluc.html -> /kinhtrungbo/c-nm-tmc-vi/
+  // e.g. /kinhtieubo/pali-vi/iti/vagga2-ekakanipata-dutiyavagga -> /kinhtieubo/pali-vi/iti/
+  parts.pop();
+  // alert(parts.join('/'));
+  const parent = '/' + parts.join('/');
+  // alert(parent);
+  window.location.href = parent;
+}
+
+function goToIndex2() {
   const parts = window.location.pathname.split('/');
 
   if (parts.length === 2 ){
@@ -32,13 +60,14 @@ function goToIndex() {
 
 <template>
   <div class="index-button-container">
-    <button class="index-button" @click="goToIndex" title="Mục lục">
-      <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <button class="index-button" @click="goToIndex" title="Thư mục">
+      <!-- <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M3 5h18"></path>
         <path d="M3 12h18"></path>
         <path d="M3 19h18"></path>
-      </svg>
-      <span>Mục lục</span>
+      </svg> -->
+⬆
+      <span>Về Trang</span>
     </button>
   </div>
 </template>

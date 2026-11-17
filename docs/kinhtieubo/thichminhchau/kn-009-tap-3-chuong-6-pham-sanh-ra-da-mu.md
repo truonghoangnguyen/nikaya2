@@ -11,6 +11,7 @@ title: Phật Tự Thuyết - Phẩm Sanh Ra Ðã Mù
 
 # Chương 6: Phẩm Sanh Ra Ðã Mù
 
+<!--pg-->
 ### (I) (Ud 62){#1}
 
 Như vầy tôi nghe:
@@ -66,6 +67,7 @@ Thật định tỉnh an tịnh,\
 Phá đổ ngã sanh hữu,\
 Như cởi thoát áo giáp.
 
+<!--pg-->
 ### (II) (Ud 64){#2}
 
 Như vầy tôi nghe:
@@ -95,6 +97,7 @@ Nương tựa vào ngưòi khác,\
 Chớ sống nghề buôn bán,\
 Ðem pháp để kiếm lời.
 
+<!--pg-->
 ### (III) (Ud 65){#3}
 
 Như vầy tôi nghe:
@@ -106,6 +109,7 @@ Trước không có nay có,\
 Ðã không và sẽ không,\
 Và nay hiện không có.
 
+<!--pg-->
 ### (IV) (Ud 66){#4}
 
 Như vầy tôi nghe:
@@ -131,6 +135,7 @@ Trong các luận thuyết này,\
 Họ tranh luận tranh chấp,\
 Họ nhìn chỉ một phía.
 
+<!--pg-->
 ### (V) (Ud 69){#5}
 
 Như vầy tôi nghe:
@@ -154,6 +159,7 @@ Khi đang còn giữa dòng,\
 Họ không đạt đến được,\
 Ðất cứng trên bờ kia.
 
+<!--pg-->
 ### (VI) (Ud 70){#6}
 
 (Giống như kinh VI, 5, tức là kinh trước, với đoạn kết luận khác nhau như sau:)
@@ -181,6 +187,7 @@ Họ cạnh tranh, luận tranh,\
 Họ không thể vượt qua,\
 Luân chuyển trong sanh tử.
 
+<!--pg-->
 ### (VII) (Ud 71){#7}
 
 Như vầy tôi nghe:
@@ -195,6 +202,7 @@ Vượt qua ái nhiễm ấy,\
 Vượt khỏi bốn ách nạn,\
 Không đi đến thọ sanh.
 
+<!--pg-->
 ### (VIII) (Ud 71){#8}
 
 Như vầy tôi nghe:
@@ -231,6 +239,7 @@ Không có tự quá mạn,\
 Họ không có luân chuyển,\
 Ðể được tuyên bố lên.
 
+<!--pg-->
 ### (IX) (Ud 72){#9}
 
 Như vầy tôi nghe:
@@ -248,6 +257,7 @@ Rơi vào trong ánh sáng,\
 Có người sống dựa vào\
 Ðiều được thấy được nghe.
 
+<!--pg-->
 ### (X) (Ud 73){#10}
 
 Như vầy tôi nghe:

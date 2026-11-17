@@ -14,6 +14,7 @@ import Home2Page from './components/Home2Page.vue'
 import IndexButton from '../components/IndexButton.vue'
 import DocTags from './components/DocTags.vue'
 import BookLayout from './components/BookLayout.vue'
+import BooksLayout from './components/BooksLayout.vue'
 import SuttaFooter from './components/SuttaFooter.vue'
 //import NavSearchButton from './NavSearchButton.vue'
 import NavQuicklinkButton from './NavQuicklinkButton.vue'
@@ -37,7 +38,7 @@ export default {
       const path = window.location.pathname
       if (isSearchPath(path)) return
       const full = path + window.location.search + window.location.hash
-      localStorage.setItem('search-back-url', full)
+      localStorage.setItem('quicklink-back-url', full)
     }
     const scrollToHash = async () => {
       if (typeof window === 'undefined') return
@@ -88,6 +89,7 @@ export default {
     app.component('IndexButton', IndexButton)
     app.component('DocTags', DocTags)
     app.component('BookLayout', BookLayout)
+    app.component('BooksLayout', BooksLayout)
     if (inBrowser) setupImageViewer()
   },
   Layout() {

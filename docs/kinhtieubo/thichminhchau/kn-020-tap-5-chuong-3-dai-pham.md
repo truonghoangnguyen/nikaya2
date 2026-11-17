@@ -9,6 +9,7 @@ title: Kinh Tập Suttanipāta - Chương Ba – Ðại Phẩm
 
 # Chương Ba – Ðại Phẩm
 
+<!--pg-->
 ### **(I) Kinh Xuất Gia (Sn 72)** {#1_}
 
 Ananda:
@@ -120,6 +121,7 @@ Bỏ chúng, là an ổn,\
 Ta sẽ đi, tinh tấn,\
 Ý Ta, được hoan hỷ.
 
+<!--pg-->
 ### **(II) Kinh Tinh Cần (Sn 74)** {#2_}
 
 Thế Tôn:
@@ -261,6 +263,7 @@ Cây đàn rơi khỏi nách,\
 Kẻ Dạ-xoa ác ý,\
 Tại đấy liền biến mất.
 
+<!--pg-->
 ### **(III) Kinh Khéo Thuyết (Sn 78)** {#3_}
 
 Như vầy tôi nghe:
@@ -310,6 +313,7 @@ An ổn, đạt Niết-bàn,\
 Ðoạn tận các khổ đau,\
 Ðấy lời nói tối thượng.
 
+<!--pg-->
 ### **(IV) Kinh Sundarika Bhàradvàja (Sn 80)** {#4_}
 
 Như vầy tôi nghe:
@@ -663,6 +667,7 @@ Rồi Bà-la-môn Sundarikabhàradvàja bạch Thế Tôn:
 
 Và Bà-la-môn Sundarikabhàradvàja… trở thành một vị A-la-hán.
 
+<!--pg-->
 ### **(V) Kinh Màgha (Sn 86)** {#5_}
 
 Như vầy tôi nghe:
@@ -923,6 +928,7 @@ Khi nói được như vậy, thanh niên Màgha bạch Thế Tôn:
 
 Thật vi diệu thay, thưa Tôn giả Gotama!… Từ nay cho đến mạng chung, con trọn đời quy ngưỡng.
 
+<!--pg-->
 ### **(VI) Kinh Sabhiya (Sn 91)** {#6_}
 
 Như vầy tôi nghe:
@@ -1334,10 +1340,12 @@ Rồi du sĩ Sabhiya lấy đầu đảnh lễ chân Thế Tôn và bạch Thế
 
 Du sĩ Sabhiya được xuất gia với Thế Tôn, được thọ đại giới… rồi Tôn giả Sabhiya trở thành một vị A-la-hán.
 
+<!--pg-->
 ### **(VII) Kinh Sela (Sn 102-112)** {#7_}
 
 (Xem kinh Sela, Trung Bộ Kinh, Tập II) {#548}\
 
+<!--pg-->
 ### **(VIII) Kinh Mũi Tên (Sn 112)** {#8_}
 
 574. Sinh mạng của loài Người, {#574}\
@@ -1448,10 +1456,12 @@ Sự an lành an tịnh,\
 Vượt khỏi mọi ưu sầu,\
 Tâm không sầu, tịch tịnh.
 
+<!--pg-->
 ### **(IX) Kinh Vàsettha (Sn 115)** {#9_}
 
 (Kinh này giống với kinh Vàsettha, số 98 của Trung Bộ Kinh, Tập II)
 
+<!--pg-->
 ### **(X) Kinh Kokàliya (Sn 123)** {#10_}
 
 Như vầy tôi nghe:
@@ -1688,6 +1698,7 @@ Trong sạch, thiện tốt lành,\
 Hãy luôn luôn hộ trì,\
 Lời nói và ý nghĩa.
 
+<!--pg-->
 ### **(XI) Kinh Nàlaka (Sn 131)** {#11_}
 
 679. ẩn sĩ Asita, {#679}\
@@ -2025,6 +2036,7 @@ Xứng đáng hạnh ẩn sĩ,\
 Vị ấy là ẩn sĩ,\
 Ðạt được hạnh ẩn sĩ.
 
+<!--pg-->
 ### **(XII) Kinh Hai Pháp Tuỳ Quán (Sn 139)** {#12_}
 
 Như vầy tôi nghe:

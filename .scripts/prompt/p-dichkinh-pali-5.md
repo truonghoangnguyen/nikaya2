@@ -61,7 +61,7 @@ Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo ph
   - GOOD: `"Bốn nguyên nhân nào [khiến cho] vị ấy không làm hành động sai trái?"`
   - *Ví dụ 2*: `Yo kho, bhikkhu, pañcasu upādānakkhandhesu chandarāgo taṃ tattha upādānaṃ.`
   - BAD: `Này tỳ kheo, bất cứ *[lòng] tham đắm* đối với *sự Bám giữ năm Tập hợp* thì chính  *[lòng] tham đắm* là sự *sự bám giữ*`
-  - GOOD: `Này tỳ kheo, *sự bám giữ* là *[lòng] tham đắm* trong *sự Bám giữ năm Tập hợp*.`
+  - GOOD: `Này tỳ kheo, *sự bám giữ* là *[lòng] tham đắm* trong *sự Bám giữ năm Khối*.`
 
 - Từ bổ sung làm rõ nghĩa: Khi cần thêm từ không có trong bản gốc Pāḷi để câu tiếng Việt mạch lạc, BẮT BUỘC đặt từ thêm vào trong `[ngoặc vuông]`.
   - *Ví dụ*: `người ấy *suy diễn* [mình] tách rời khỏi nước`.
@@ -83,7 +83,13 @@ Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo ph
 - Giữ nguyên Metadata (nếu có): Giữ chính xác các ký hiệu đánh dấu ID đoạn như `{#1}` ở cuối đoạn.
 - Không dùng ký tự `—` để tách câu, phải dùng ký tự `-`.
 
-- Tách lời nói chuyện: Nếu các lời thoại chung 1 block text, thì tách biệt lời thoại ra thành từng dòng riêng biệt (xuống dòng), để người đọc dễ đọc và bắt đầu với dấu `–`.
+- Tách lời nói chuyện: Nếu các lời thoại chung 1 block text, thì tách biệt lời thoại ra thành từng dòng riêng biệt (xuống dòng), để người đọc dễ đọc và bắt đầu với dấu `–` và 1 dòng trắng (empty line) trước.
+eg:
+```
+— line 1
+<empty line>
+— line 2
+```
 
 - Quy tắc dịch Thể Thơ (Kệ):
   - Nhận diện qua ký hiệu blockquote `>`.
@@ -179,7 +185,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | chandarāga | tham đắm | dục tham | |
 | pañca kāmaguṇa | năm sợi dây trói buộc bản năng | năm dục trưởng dưỡng | |
 | sāmisa | thuộc bản năng | | sāmisā pīti->hân hoan thuộc bản ngăng |
-| nirāmisa  | phi bản năng |  | nirāmisa pīti->hân hoan phi bản năng;nirāmisā nirāmisatarā->vượt trên phi bản năng | 
+| nirāmisa  | phi bản năng |  | nirāmisa pīti->hân hoan phi bản năng;nirāmisā nirāmisatarā->vượt trên phi bản năng |
 | viveka | rời bỏ | viễn ly | |
 | vivicca | rời bỏ khỏi | ly | |
 | jhāna | Thiền-na | thiền | |
@@ -188,10 +194,10 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | vitakka-vicāra | chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý | tầm và tứ (hữu tầm hữu tứ) | |
 | avitakka-avicāra | Không còn chủ động hướng sự chú ý và nỗ lực duy trì sự chú ý | vô tầm vô tứ | |
 | sukhā, dukkhā, adukkhamasukhā | cảm thọ dễ chịu, khó chịu, không dễ chịu không khó chịu | thọ lạc, khổ, bất lạc bất khổ | |
-| mano | trí não | ý | |
-| manindriya | giác quan trí não | ý căn | |
+| mano | ý nghĩ | ý | |
+| manindriya | giác quan ý nghĩ | ý căn | |
 | cakkhundriya | giác quan mắt | nhãn căn | |
-| manoviññāṇa | nguồn thức từ trí não | ý thức | |
+| manoviññāṇa | nguồn thức từ ý nghĩ | ý thức | |
 | cakkhuviññāṇa | nguồn thức từ mắt | nhãn thức | |
 | pañcindriyāni | năm giác quan | ngũ căn | ở trong: mắt, tai, mũi, lưỡi, thân |
 | pañcindriyāni | năm sức mạnh tinh thần | ngũ căn | ở trong: tín, tấn, niệm, định, tuệ |
@@ -200,7 +206,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | ākāsānañcāyatana | xứ Không Gian là Vô Tận | không vô biên xứ | |
 | viññāṇañcāyatana | xứ Nguồn thức Là Vô Tận | thức vô biên xứ | |
 | ākiñcaññāyatana | xứ Không Có Vật Gì | vô sở hữu xứ | |
-| nevasaññānāsaññāyatana | xứ Không Phải "có tư duy"; Cũng Không Phải "không có tư duy" | phi tưởng phi phi tưởng xứ | |
+| nevasaññānāsaññāyatana | xứ Không Phải "có Suy nghĩ"; Cũng Không Phải "không có Suy nghĩ" | phi tưởng phi phi tưởng xứ | |
 | saṅkhārā | hoạt động | hành | "thân hành, khẩu hành, ý hành = hoạt động của thân, khẩu, ý" |
 | saṅkhata | thứ hình thành từ điều kiện hợp lại | hữu vi | "saṅkhata-dhamma->những điều hình thành do điều kiện hợp lại"; sự sinh ra phụ thuộc vào điều kiện |
 | asaṅkhata | thứ hình thành không từ điều kiện hợp lại | vô vi | |
@@ -226,7 +232,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | pīti | phấn chấn | hỷ | cảm giác tích cực thuộc não sinh lý (ví dụ nhảy cẫng lên) |
 | somanassa | an lạc | hỷ  | niềm vui từ tinh thần |
 | domanassa | ưu phiền | ưu | |
-| sukha | sung sướng | lạc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
+| sukha | hạnh phúc | lạc | sự hạnh phúc nói chung, ví dụ "Niết bàn là cực lạc" |
 | dukkha | đau khổ | khổ | sự đau khổ nói chung, cho cả thân và tinh thần |
 | sukha-vedanā | cảm thọ dễ chịu | thọ lạc | |
 | dukkha-vedanā | cảm thọ khó chịu | thọ khổ | |
@@ -236,18 +242,18 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | anupassanā | quan sát | quán | |
 | ajjhattaṁ sampasādanaṁ | sự lắng trong nội tại | nội tĩnh | |
 | cetaso ekodibhāvaṁ | tâm hợp thành một | nhất tâm | |
-| pañcupādānakkhandhā | sự 'Bám giữ năm Tập hợp' | ngũ thủ uẩn | |
-| pañca-khandhā | Năm Tập hợp | ngũ uẩn |  |
-| rūpa-kkhandha | Tập hợp Vật chất | sắc uẩn | |
-| vedanā-kkhandha | Tập hợp Cảm thọ | thọ uẩn | |
-| saññā-kkhandha | Tập hợp Tư duy | tưởng uẩn | |
-| saṅkhāra-kkhandha | Tập hợp Hoạt động | hành uẩn | |
-| viññāṇa-kkhandha | Tập hợp Nguồn thức | thức uẩn | |
-| rūpupādānakkhandho | sự Bám giữ Tập hợp Vật chất | sắc thủ uẩn | |
+| pañcupādānakkhandhā | sự 'Bám giữ năm Khối' | ngũ thủ uẩn | |
+| pañca-khandhā | Năm Khối | ngũ uẩn |  |
+| rūpa-kkhandha | Khối Vật chất | sắc uẩn | |
+| vedanā-kkhandha | Khối Cảm thọ | thọ uẩn | |
+| saññā-kkhandha | Khối Suy nghĩ | tưởng uẩn | |
+| saṅkhāra-kkhandha | Khối Hoạt động | hành uẩn | |
+| viññāṇa-kkhandha | Khối Nguồn thức | thức uẩn | |
+| rūpupādānakkhandho | sự Bám giữ Khối Vật chất | sắc thủ uẩn | |
 | rūpa | vật chất | sắc | default |
 | rūpa | hình ảnh | sắc | liên quan đến thị giác |
 | vedanā | Cảm Thọ | thọ | sắc thái cảm nhận |
-| saññā | Tư duy | tưởng | 'ālokasaññī->hình dung về ánh sáng';tưởng tượng, suy luận, kế hoạch; hình dung |
+| saññā | Suy nghĩ | tưởng | 'ālokasaññī->hình dung về ánh sáng';tưởng tượng, suy luận, kế hoạch; hình dung |
 | saṅkappa | ý nghĩ | tư duy | |
 | nāma-rūpa | Danh–sắc | danh sắc | |
 | āyatana | trường | xứ | |
@@ -279,13 +285,13 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | nirodha-sacca | Thánh đế về sự chấm dứt đau khổ | diệt đế | |
 | magga-sacca | Thánh đế về con đường đưa đến chấm dứt đau khổ | đạo đế | |
 | ariya aṭṭhaṅgika magga | Tám Bước Thiện | bát chánh đạo | |
-| dhamma | Điều; mọi Điều; Giáo pháp; Quy luật | pháp | "pháp ác->Điều ác";"pháp của bực thánh->'Giáo pháp' của bậc thánh"; "ý với các pháp->trí não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các hiện tượng trên sáu trường"; |
+| dhamma | Điều; Điều luật; Giáo pháp; Quy luật | pháp | "pháp ác->Điều ác";"pháp của bực thánh->'Giáo pháp' của bậc thánh"; "ý với các pháp->trí não với mọi Điều"; "quán pháp trên pháp với lục nhập->quan sát các hiện tượng trên sáu trường"; "Điều luật khi nói về luật trong luật tạng"|
 | dhammiyā kathāya | giảng về Giáo pháp | pháp thoại | |
 | adhammā | Điều sai; phi pháp | phi pháp | hoặc "những Điều sai" |
 | kusalākusalā dhammā | những điều thiện và không thiện | thiện và bất thiện pháp | |
 | micchādiṭṭhi | Nhìn nhận sai | tà kiến | |
 | sammā-diṭṭhi | Nhìn nhận Thiện | chánh kiến | |
-| sammā-saṅkappa | Suy nghĩ Thiện | chánh tư duy | |
+| sammā-saṅkappa | ý nghĩ Thiện | chánh tư duy | |
 | sammā-vācā | Lời nói Thiện | chánh ngữ | |
 | sammā-kammanta | Hành động Thiện | chánh nghiệp | |
 | sammā-ājīva | Đời sống Thiện | chánh mạng | |
@@ -333,7 +339,7 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | sacchikātabba | trực tiếp chứng nghiệm | chứng ngộ | |
 | vedeti | trải nghiệm trực tiếp | thọ | (thiên về cảm nhận) |
 | dassanā | thấy rõ bản chất | tri kiến | |
-| manasikāra | suy nghĩ | tác ý | |
+| manasikāra | suy nghĩ đến | tác ý | |
 | vinodanā | loại trừ | trừ diệt | |
 | tathāgata | Người Đến Như Vậy | Như Lai | |
 | pathavīdhātu | tính đất | địa đại | nước: tính nước, lửa: tính lửa, gió: tính gió |
@@ -371,7 +377,11 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 | pāṭidesanīya | nhận lỗi (Ba-la-đề-đề-xá-ni) | hối quá (ba-la-đề-đề-xá-ni) | Thừa nhận lỗi |
 | dukkaṭa | lỗi Làm sai (đột-kiết-la) | ác tác (đột-kiết-la) | hối lỗi |
 | dubbhāsita | lỗi Nói sai | ác thuyết | hối lỗi |
+| kamma | hành động pháp lý | yết-ma | |
 | upaggaṇhanalakkhaṇā | nắm bắt đặc điểm | | |
+| cetanā | ý định | tư | |
+| adhimokkho | xác định quyết tâm | thắng giải | |
+| anupadavavatthitā | được nhận ra tuần tự | | |
 </vocabulary-mapping>
 
 # IV. VÍ DỤ MINH HỌA CHUẨN (FEW-SHOT EXAMPLE)

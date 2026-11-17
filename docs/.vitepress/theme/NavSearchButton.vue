@@ -37,10 +37,10 @@ const { page } = useData()
 const goToSearch = () => {
   const currentPath = window.location.pathname
   const currentFull = window.location.pathname + window.location.search + window.location.hash
-  
+
   // Tránh lưu đè nếu đã ở trang search
   if (!currentPath.endsWith('/search') && !currentPath.endsWith('/search.html')) {
-    localStorage.setItem('search-back-url', currentFull)
+    localStorage.setItem('quicklink-back-url', currentFull)
   }
   router.go('/search')
 }

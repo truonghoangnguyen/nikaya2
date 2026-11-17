@@ -1,0 +1,5 @@
+- [1. PHẨM RẮN](/kinhtieubo/pali-vi/snp/vagga1-uragavagga.md)
+- [2. CHƯƠNG NHỎ](/kinhtieubo/pali-vi/snp/vagga2-culavagga.md)
+- [3. CHƯƠNG LỚN](/kinhtieubo/pali-vi/snp/vagga3-mahavagga.md)
+- [4. PHẨM TÁM KỆ](/kinhtieubo/pali-vi/snp/vagga4-atthakavagga.md)
+- [5. PHẨM CON ĐƯỜNG ĐẾN BỜ KIA](/kinhtieubo/pali-vi/snp/vagga5-parayanavagga.md)

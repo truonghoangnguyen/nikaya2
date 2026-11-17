@@ -11,6 +11,7 @@ title: Phật Tự Thuyết - Phẩm Trưởng Lão Sona
 
 # Chương 5: Phẩm Trưởng Lão Sona
 
+<!--pg-->
 ### (I) (Ud 47){#1}
 
 Như vầy tôi nghe:
@@ -40,6 +41,7 @@ Quá thân ái như vậy,\
 Vậy ai yêu tự ngã,\
 Chớ hại tự ngã người.
 
+<!--pg-->
 ### (II) (Ud 48){#2}
 
 Như vầy tôi nghe.
@@ -60,6 +62,7 @@ Hiểu tất cả là vậy,\
 Bậc thiện sanh nhiệt tâm,\
 Sống đời sống Phạm hạnh.
 
+<!--pg-->
 ### (III) (Ud 49){#3}
 
 Như vầy tôi nghe:
@@ -97,6 +100,7 @@ Cố gắng tránh lồi lõm,\
 Cũng vậy kẻ trí tránh,\
 Ðiều ác giữa đời này.
 
+<!--pg-->
 ### (IV) (Ud 50){#4}
 
 Như vầy tôi nghe:
@@ -118,6 +122,7 @@ Các nghiệp ác, bất thiện,\
 Con không giải thoát khổ,\
 Dầu nhảy vọt và chạy.
 
+<!--pg-->
 ### (V) (Ud 51){#5}
 
 Như vầy tôi nghe:
@@ -196,6 +201,7 @@ Do vậy, hãy mở rộng\
 Cái gì bị che kín,\
 Như vậy sẽ không mưa.
 
+<!--pg-->
 ### (VI) (Ud 57){#6}
 
 Như vầy tôi nghe:
@@ -257,6 +263,7 @@ Biết pháp không sanh y,\
 Bậc Thánh không ưa ác,\
 Bậc tịnh không ưa ác!
 
+<!--pg-->
 ### (VII) (Ud 58){#7}
 
 Như vầy tôi nghe:
@@ -273,6 +280,7 @@ Người hành thiền từ bỏ,\
 Hoàn toàn tất cả chúng,\
 Nhiệt tâm hành Phạm hạnh.
 
+<!--pg-->
 ### (VIII) (Ud 59){#8}
 
 Như vầy tôi nghe:
@@ -296,6 +304,7 @@ Dễ làm là việc ác,\
 Khó làm là việc ác,\
 Ðối với các bậc Thánh.
 
+<!--pg-->
 ### (IX) (Ud 60){#9}
 
 Như vậy tôi nghe:
@@ -312,6 +321,7 @@ Họ muốn miệng mở rộng,\
 Cái gì dắt dẫn họ,\
 Họ đâu có biết rõ.
 
+<!--pg-->
 ### (X) (Ud 61){#10}
 
 Như vầy tôi nghe:

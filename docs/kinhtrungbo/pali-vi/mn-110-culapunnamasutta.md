@@ -4,6 +4,7 @@ description: Trong một đêm trăng tròn ngày lễ Bố-tát tại Đông Vi
 
 # MN 110. KINH NGẮN ĐÊM TRĂNG TRÒN
 *(Cūḷapuṇṇamasutta)*
+[Bản tóm tắt→](/kinhtrungbo/pali-vi/sum/mn-sum-110){."note-link"}
 
 1\. Tôi đã nghe như vầy - một thời, Thế Tôn ở tại Sāvatthī, trong khu vườn phía Đông (Đông Viên), nơi tòa lầu của mẹ ông Migāra. {#1}
 

@@ -52,7 +52,7 @@
         </div>
       </div>
     </div>
-    
+
     <div id="book-collections" class="book-collections">
       <div class="book-grid">
         <a v-for="book in config.books" :key="book.id" :href="book.link" class="book-card">
@@ -89,7 +89,7 @@ import quotes from '../../../quotes.config.js'
 import quoteImages from '../../../quote_images.json'
 
 const currentIndex = ref(0)
-const currentImage = ref('')
+const currentImage = ref(quoteImages?.[0] || '')
 const currentQuote = computed(() => (quotes && quotes.length > 0) ? quotes[currentIndex.value] : { quote: 'Đang tải...' })
 
 const currentFallbackImage = computed(() => currentImage.value)

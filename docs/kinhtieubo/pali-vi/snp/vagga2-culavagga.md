@@ -1,1234 +1,1457 @@
-# 2. Cūḷavagga
+---
+description: Chương Nhỏ (Cūḷavagga) gồm 14 bài kinh trong Kinh Tập (Suttanipāta), trình bày các chuẩn mực đạo đức thực tế, tái định nghĩa sự thanh tịnh và hướng dẫn lối sống chân chính cho cả người xuất gia lẫn cư sĩ tại gia.
+---
 
-## SNP 2.1. Ratanasutta
+# 2. CHƯƠNG NHỎ
+*(Cūḷavagga)*
+
+<!--pg-->
+### SNP 2.1. Kinh Châu Báu
+*(Ratanasutta)*
 
 1\.
-> Yānīdha bhūtāni samāgatāni,\
-> Bhummāni vā yāni va antalikkhe;\
-> Sabbeva bhūtā sumanā bhavantu,\
-> Athopi sakkacca suṇantu bhāsitaṁ.
+> Muôn loài tụ hội đây,\
+> Trên đất hoặc hư không;\
+> Mong tất cả vui vẻ,\
+> Thành tâm nghe lời dạy.
 
 2\.
-> Tasmā hi bhūtā nisāmetha sabbe,\
-> Mettaṁ karotha mānusiyā pajāya;\
-> Divā ca ratto ca haranti ye baliṁ,\
-> Tasmā hi ne rakkhatha appamattā.
+> Vậy muôn loài hãy nghe,\
+> Thương yêu khắp loài người;\
+> Ngày đêm họ cúng dường,\
+> Hãy siêng năng hộ trì.
 
 3\.
-> Yaṁ kiñci vittaṁ idha vā huraṁ vā,\
-> Saggesu vā yaṁ ratanaṁ paṇītaṁ;\
-> Na no samaṁ atthi tathāgatena,\
-> Idampi buddhe ratanaṁ paṇītaṁ;\
-> Etena saccena suvatthi hotu.
+> Tài sản đời này kia,\
+> Châu báu đẹp cõi trời;\
+> Không gì bằng Như Lai,\
+> Châu báu đẹp nơi Phật;\
+> Sự thật này chúc an.
 
 4\.
-> Khayaṁ virāgaṁ amataṁ paṇītaṁ,\
-> Yadajjhagā sakyamunī samāhito;\
-> Na tena dhammena samatthi kiñci,\
-> Idampi dhamme ratanaṁ paṇītaṁ;\
-> Etena saccena suvatthi hotu.
+> Đoạn tận và ly tham,\
+> Bất tử thật cao quý,\
+> Bậc định tĩnh đạt được;\
+> Không gì sánh Pháp ấy,\
+> Châu báu đẹp nơi Pháp;\
+> Sự thật này chúc an.
 
 5\.
-> Yaṁ buddhaseṭṭho parivaṇṇayī suciṁ,\
-> Samādhimānantarikaññamāhu;\
-> Samādhinā tena samo na vijjati,\
-> Idampi dhamme ratanaṁ paṇītaṁ;\
-> Etena saccena suvatthi hotu.
+> Phật tối thắng tán thán,\
+> Pháp thanh tịnh cao cả;\
+> Gọi là định tiếp nối,\
+> Không định nào sánh bằng;\
+> Châu báu đẹp nơi Pháp;\
+> Sự thật này chúc an.
 
 6\.
-> Ye puggalā aṭṭha sataṁ pasatthā,\
-> Cattāri etāni yugāni honti;\
-> Te dakkhiṇeyyā sugatassa sāvakā,\
-> Etesu dinnāni mahapphalāni;\
-> Idampi saṅghe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Tám bậc người hiền khen,\
+> Hợp thành bốn đôi bậc;\
+> Đệ tử Phật xứng cúng,\
+> Cúng các ngài quả lớn;\
+> Châu báu đẹp nơi Tăng,\
+> Sự thật này chúc an.
 
 7\.
-> Ye suppayuttā manasā daḷhena,\
-> Nikkāmino gotamasāsanamhi;\
-> Te pattipattā amataṁ vigayha,\
-> Laddhā mudhā nibbutiṁ bhuñjamānā;\
-> Idampi saṅghe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Ai chuyên tâm vững chắc,\
+> Ly dục trong lời Phật;\
+> Đạt quả chứng bất tử,\
+> Hưởng tịch tịnh tự do;\
+> Châu báu đẹp nơi Tăng,\
+> Sự thật này chúc an.
 
 8\.
-> Yathindakhīlo pathavissito siyā,\
-> Catubbhi vātehi asampakampiyo;\
-> Tathūpamaṁ sappurisaṁ vadāmi,\
-> Yo ariyasaccāni avecca passati;\
-> Idampi saṅghe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Như trụ đá cắm sâu,\
+> Bốn hướng gió không lay;\
+> Ta nói bậc chân nhân,\
+> Thấy rõ bốn Thánh đế;\
+> Châu báu đẹp nơi Tăng,\
+> Sự thật này chúc an.
 
 9\.
-> Ye ariyasaccāni vibhāvayanti,\
-> Gambhīrapaññena sudesitāni;\
-> Kiñcāpi te honti bhusaṁ pamattā,\
-> Na te bhavaṁ aṭṭhamamādiyanti;\
-> Idampi saṅghe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Ai hiểu rõ Thánh đế,\
+> Do bậc trí khéo giảng;\
+> Dù có lúc sao nhãng,\
+> Không nhận đời thứ tám;\
+> Châu báu đẹp nơi Tăng,\
+> Sự thật này chúc an.
 
 10\.
-> Sahāvassa dassanasampadāya,\
-> Tayassu dhammā jahitā bhavanti;\
-> Sakkāyadiṭṭhī vicikicchitañca,\
-> Sīlabbataṁ vāpi yadatthi kiñci.
+> Ngay khi đạt tri kiến,\
+> Ba điều được từ bỏ;\
+> Thấy mình thật, nghi ngờ,\
+> Mê tín và giáo điều.
 
 11\.
-> Catūhapāyehi ca vippamutto,\
-> Chaccābhiṭhānāni abhabba kātuṁ;\
-> Idampi saṅghe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Thoát hẳn bốn cõi khổ,\
+> Không thể phạm sáu điều;\
+> Châu báu đẹp nơi Tăng,\
+> Sự thật này chúc an.
 
 12\.
-> Kiñcāpi so kamma karoti pāpakaṁ,\
-> Kāyena vācā uda cetasā vā;\
-> Abhabba so tassa paṭicchadāya,\
-> Abhabbatā diṭṭhapadassa vuttā;\
-> Idampi saṅghe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Dù có làm việc xấu,\
+> Bằng thân lời hay ý;\
+> Vị ấy không che giấu,\
+> Người thấy đạo không giấu;\
+> Châu báu đẹp nơi Tăng,\
+> Sự thật này chúc an.
 
 13\.
-> Vanappagumbe yatha phussitagge,\
-> Gimhānamāse paṭhamasmiṁ gimhe;\
-> Tathūpamaṁ dhammavaraṁ adesayi,\
-> Nibbānagāmiṁ paramaṁ hitāya;\
-> Idampi buddhe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Như rừng cây nở hoa,\
+> Đầu tháng nắng mùa hè;\
+> Ngài giảng Pháp cao quý,\
+> Đưa đến đạt Niết-bàn,\
+> Vì lợi ích tối thượng;\
+> Châu báu đẹp nơi Phật,\
+> Sự thật này chúc an.
 
 14\.
-> Varo varaññū varado varāharo,\
-> Anuttaro dhammavaraṁ adesayi;\
-> Idampi buddhe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Bậc cao quý biết rõ,\
+> Ban cho và đem lại,\
+> Vô thượng giảng Pháp quý;\
+> Châu báu đẹp nơi Phật,\
+> Sự thật này chúc an.
 
 15\.
-> Khīṇaṁ purāṇaṁ nava natthi sambhavaṁ,\
-> Virattacittāyatike bhavasmiṁ;\
-> Te khīṇabījā avirūḷhichandā,\
-> Nibbanti dhīrā yathāyaṁ padīpo;\
-> Idampi saṅghe ratanaṁ paṇītaṁ,\
-> Etena saccena suvatthi hotu.
+> Cũ cạn mới không sinh,\
+> Tâm nhàm chán hữu sau;\
+> Hạt giống cạn hết muốn,\
+> Bậc trí tắt như đèn;\
+> Châu báu đẹp nơi Tăng,\
+> Sự thật này chúc an.
 
 16\.
-> Yānīdha bhūtāni samāgatāni,\
-> Bhummāni vā yāni va antalikkhe;\
-> Tathāgataṁ devamanussapūjitaṁ,\
-> Buddhaṁ namassāma suvatthi hotu.
+> Muôn loài tụ hội đây,\
+> Trên đất hoặc hư không;\
+> Như Lai trời người kính,\
+> Kính lễ Phật chúc an.
 
 17\.
-> Yānīdha bhūtāni samāgatāni,\
-> Bhummāni vā yāni va antalikkhe;\
-> Tathāgataṁ devamanussapūjitaṁ,\
-> Dhammaṁ namassāma suvatthi hotu.
+> Muôn loài tụ hội đây,\
+> Trên đất hoặc hư không;\
+> Như Lai trời người kính,\
+> Kính lễ Pháp chúc an.
 
 18\.
-> Yānīdha bhūtāni samāgatāni,\
-> Bhummāni vā yāni va antalikkhe;\
-> Tathāgataṁ devamanussapūjitaṁ,\
-> Saṅghaṁ namassāma suvatthi hotūti.
+> Muôn loài tụ hội đây,\
+> Trên đất hoặc hư không;\
+> Như Lai trời người kính,\
+> Kính lễ Tăng chúc an.
 
-Ratanasuttaṁ paṭhamaṁ.
+Kinh Châu Báu là thứ nhất.
 
-## SNP 2.2. Āmagandhasutta
+<!--pg-->
+### SNP 2.2. Kinh Mùi Hôi Tanh
+*(Āmagandhasutta)*
 
 1\.
-> “Sāmākaciṅgūlakacīnakāni ca,\
-> Pattapphalaṁ mūlaphalaṁ gavipphalaṁ;\
-> Dhammena laddhaṁ satamasnamānā,\
-> Na kāmakāmā alikaṁ bhaṇanti.
+> Hạt kê cùng hạt rừng,\
+> Lá quả rễ trái cây;\
+> Có đúng pháp người ăn,\
+> Không vì dục nói dối.
 
 2\.
-> Yadasnamāno sukataṁ suniṭṭhitaṁ,\
-> Parehi dinnaṁ payataṁ paṇītaṁ;\
-> Sālīnamannaṁ paribhuñjamāno,\
-> So bhuñjasī kassapa āmagandhaṁ.
+> Ăn món khéo nấu nướng,\
+> Người dâng cúng tinh tươm;\
+> Thưởng thức cơm gạo ngon,\
+> Kassapa ăn tanh.
 
 3\.
-> Na āmagandho mama kappatīti,\
-> Icceva tvaṁ bhāsasi brahmabandhu;\
-> Sālīnamannaṁ paribhuñjamāno,\
-> Sakuntamaṁsehi susaṅkhatehi;\
-> Pucchāmi taṁ kassapa etamatthaṁ,\
-> Kathaṁpakāro tava āmagandho”.
+> Nói tanh không hợp tôi,\
+> Ông tự nhận dòng Phạm;\
+> Lại ăn cơm gạo ngon,\
+> Với thịt chim khéo nấu;\
+> Kassapa tôi hỏi,\
+> Tanh của ông là gì?
 
 4\.
-> “Pāṇātipāto vadhachedabandhanaṁ,\
-> Theyyaṁ musāvādo nikativañcanāni ca;\
-> Ajjhenakuttaṁ paradārasevanā,\
-> Esāmagandho na hi maṁsabhojanaṁ.
+> Sát sinh đánh chém trói,\
+> Trộm cắp nói dối lừa;\
+> Học tà thông vợ người,\
+> Đó là tanh không thịt.
 
 5\.
-> Ye idha kāmesu asaññatā janā,\
-> Rasesu giddhā asucibhāvamassitā;\
-> Natthikadiṭṭhī visamā durannayā,\
-> Esāmagandho na hi maṁsabhojanaṁ.
+> Kẻ buông thả trong dục,\
+> Tham vị ngọt ô uế;\
+> Tà kiến ác khó dạy,\
+> Đó là tanh không thịt.
 
 6\.
-> Ye lūkhasā dāruṇā piṭṭhimaṁsikā,\
-> Mittadduno nikkaruṇātimānino;\
-> Adānasīlā na ca denti kassaci,\
-> Esāmagandho na hi maṁsabhojanaṁ.
+> Kẻ thô bạo độc ác,\
+> Nói xấu phản bạn bè;\
+> Vô tâm kiêu keo kiệt,\
+> Đó là tanh không thịt.
 
 7\.
-> Kodho mado thambho paccupaṭṭhāpanā,\
-> Māyā usūyā bhassasamussayo ca;\
-> Mānātimāno ca asabbhi santhavo,\
-> Esāmagandho na hi maṁsabhojanaṁ.
+> Giận dữ say ngạo mạn,\
+> Giả dối ganh khoe khoang;\
+> Kiêu căng thân kẻ xấu,\
+> Đó là tanh không thịt.
 
 8\.
-> Ye pāpasīlā iṇaghātasūcakā,\
-> Vohārakūṭā idha pāṭirūpikā;\
-> Narādhamā yedha karonti kibbisaṁ,\
-> Esāmagandho na hi maṁsabhojanaṁ.
+> Kẻ ác giới quỵt nợ,\
+> Gian thương sống giả mạo;\
+> Hạng đê tiện làm ác,\
+> Đó là tanh không thịt.
 
 9\.
-> Ye idha pāṇesu asaññatā janā,\
-> Paresamādāya vihesamuyyutā;\
-> Dussīlaluddā pharusā anādarā,\
-> Esāmagandho na hi maṁsabhojanaṁ.
+> Kẻ không kiêng mạng sống,\
+> Cướp đoạt thích hại người;\
+> Ác giới lời độc địa,\
+> Đó là tanh không thịt.
 
 10\.
-> Etesu giddhā viruddhātipātino,\
-> Niccuyyutā pecca tamaṁ vajanti ye;\
-> Patanti sattā nirayaṁ avaṁsirā,\
-> Esāmagandho na hi maṁsabhojanaṁ.
+> Tham đắm chống đối người,\
+> Luôn ác chết vào tối;\
+> Chúng sinh rơi địa ngục,\
+> Đó là tanh không thịt.
 
 11\.
-> Na macchamaṁsānamanāsakattaṁ,\
-> Na naggiyaṁ na muṇḍiyaṁ jaṭājallaṁ;\
-> Kharājināni nāggihuttassupasevanā,\
-> Ye vāpi loke amarā bahū tapā;\
-> Mantāhutī yaññamutūpasevanā,\
-> Sodhenti maccaṁ avitiṇṇakaṅkhaṁ.
+> Không ăn cá thịt suông,\
+> Lõa thể cạo bện tóc;\
+> Mặc da thờ lửa thiêng,\
+> Hay ép xác khổ hạnh;\
+> Tụng chú tế theo mùa,\
+> Rửa sạch người còn nghi.
 
 12\.
-> Sotesu gutto viditindriyo care,\
-> Dhamme ṭhito ajjavamaddave rato;\
-> Saṅgātigo sabbadukkhappahīno,\
-> Na lippati diṭṭhasutesu dhīro”.
+> Giữ giác quan biết rõ,\
+> Sống đúng pháp hiền ngay;\
+> Vượt trói buộc hết khổ,\
+> Bậc trí không dính mắc.
 
 13\.
-> Iccetamatthaṁ bhagavā punappunaṁ,\
-> Akkhāsi naṁ vedayi mantapāragū;\
-> Citrāhi gāthāhi munī pakāsayi,\
-> Nirāmagandho asito durannayo.
+> Thế Tôn lặp lại nghĩa,\
+> Bậc thông suốt chỉ bày;\
+> Bậc Mâu-ni thuyết kệ,\
+> Không tanh không vướng mắc.
 
 14\.
-> Sutvāna buddhassa subhāsitaṁ padaṁ,\
-> Nirāmagandhaṁ sabbadukkhappanūdanaṁ;\
-> Nīcamano vandi tathāgatassa,\
-> Tattheva pabbajjamarocayitthāti.
+> Nghe lời Phật khéo dạy,\
+> Không tanh diệt mọi khổ;\
+> Khiêm cung lễ Như Lai,\
+> Ngay đó xin xuất gia.
 
-Āmagandhasuttaṁ dutiyaṁ.
+Kinh Mùi Hôi Tanh là thứ hai.
 
-## SNP 2.3. Hirisutta
-
-1\.
-> Hiriṁ tarantaṁ vijigucchamānaṁ,\
-> Tavāhamasmi iti bhāsamānaṁ;\
-> Sayhāni kammāni anādiyantaṁ,\
-> Neso mamanti iti naṁ vijaññā.
-
-2\.
-> Ananvayaṁ piyaṁ vācaṁ,\
-> yo mittesu pakubbati;\
-> Akarontaṁ bhāsamānaṁ,\
-> parijānanti paṇḍitā.
-
-3\.
-> Na so mitto yo sadā appamatto,\
-> Bhedāsaṅkī randhamevānupassī;\
-> Yasmiñca seti urasīva putto,\
-> Sa ve mitto yo parehi abhejjo.
-
-4\.
-> Pāmujjakaraṇaṁ ṭhānaṁ,\
-> pasaṁsāvahanaṁ sukhaṁ;\
-> Phalānisaṁso bhāveti,\
-> vahanto porisaṁ dhuraṁ.
-
-5\.
-> Pavivekarasaṁ pitvā,\
-> Rasaṁ upasamassa ca;\
-> Niddaro hoti nippāpo,\
-> Dhammapītirasaṁ pivanti.
-
-Hirisuttaṁ tatiyaṁ.
-
-## SNP 2.4. Maṅgalasutta
-
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi:
-
-2\.
-> “Bahū devā manussā ca,\
-> maṅgalāni acintayuṁ;\
-> Ākaṅkhamānā sotthānaṁ,\
-> brūhi maṅgalamuttamaṁ”.
-
-3\.
-> “Asevanā ca bālānaṁ,\
-> paṇḍitānañca sevanā;\
-> Pūjā ca pūjaneyyānaṁ,\
-> etaṁ maṅgalamuttamaṁ.
-
-4\.
-> Patirūpadesavāso ca,\
-> pubbe ca katapuññatā;\
-> Attasammāpaṇidhi ca,\
-> etaṁ maṅgalamuttamaṁ.
-
-5\.
-> Bāhusaccañca sippañca,\
-> vinayo ca susikkhito;\
-> Subhāsitā ca yā vācā,\
-> etaṁ maṅgalamuttamaṁ.
-
-6\.
-> Mātāpitu upaṭṭhānaṁ,\
-> puttadārassa saṅgaho;\
-> Anākulā ca kammantā,\
-> etaṁ maṅgalamuttamaṁ.
-
-7\.
-> Dānañca dhammacariyā ca,\
-> ñātakānañca saṅgaho;\
-> Anavajjāni kammāni,\
-> etaṁ maṅgalamuttamaṁ.
-
-8\.
-> Āratī viratī pāpā,\
-> majjapānā ca saṁyamo;\
-> Appamādo ca dhammesu,\
-> etaṁ maṅgalamuttamaṁ.
-
-9\.
-> Gāravo ca nivāto ca,\
-> santuṭṭhi ca kataññutā;\
-> Kālena dhammassavanaṁ,\
-> etaṁ maṅgalamuttamaṁ.
-
-10\.
-> Khantī ca sovacassatā,\
-> samaṇānañca dassanaṁ;\
-> Kālena dhammasākacchā,\
-> etaṁ maṅgalamuttamaṁ.
-
-11\.
-> Tapo ca brahmacariyañca,\
-> Ariyasaccāna dassanaṁ;\
-> Nibbānasacchikiriyā ca,\
-> Etaṁ maṅgalamuttamaṁ.
-
-12\.
-> Phuṭṭhassa lokadhammehi,\
-> Cittaṁ yassa na kampati;\
-> Asokaṁ virajaṁ khemaṁ,\
-> Etaṁ maṅgalamuttamaṁ.
-
-13\.
-> Etādisāni katvāna,\
-> Sabbattha maparājitā;\
-> Sabbattha sotthiṁ gacchanti,\
-> Taṁ tesaṁ maṅgalamuttaman”ti.
-
-Maṅgalasuttaṁ catutthaṁ.
-
-## SNP 2.5. Sūcilomasutta
-
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā gayāyaṁ viharati ṭaṅkitamañce sūcilomassa yakkhassa bhavane. Tena kho pana samayena kharo ca yakkho sūcilomo ca yakkho bhagavato avidūre atikkamanti. Atha kho kharo yakkho sūcilomaṁ yakkhaṁ etadavoca: “eso samaṇo”ti. “Neso samaṇo, samaṇako eso. Yāvāhaṁ jānāmi yadi vā so samaṇo, yadi vā so samaṇako”ti.
-
-2\. Atha kho sūcilomo yakkho yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavato kāyaṁ upanāmesi. Atha kho bhagavā kāyaṁ apanāmesi. Atha kho sūcilomo yakkho bhagavantaṁ etadavoca: “bhāyasi maṁ, samaṇā”ti? “Na khvāhaṁ taṁ, āvuso, bhāyāmi; api ca te samphasso pāpako”ti.
-
-3\. “Pañhaṁ taṁ, samaṇa, pucchissāmi. Sace me na byākarissasi, cittaṁ vā te khipissāmi, hadayaṁ vā te phālessāmi, pādesu vā gahetvā pāragaṅgāya khipissāmī”ti.
-
-4\. “Na khvāhaṁ taṁ, āvuso, passāmi sadevake loke samārake sabrahmake sassamaṇabrāhmaṇiyā pajāya sadevamanussāya yo me cittaṁ vā khipeyya hadayaṁ vā phāleyya pādesu vā gahetvā pāragaṅgāya khipeyya. Api ca tvaṁ, āvuso, puccha yadākaṅkhasī”ti. Atha kho sūcilomo yakkho bhagavantaṁ gāthāya ajjhabhāsi:
-
-5\.
-> “Rāgo ca doso ca kutonidānā,\
-> Aratī ratī lomahaṁso kutojā;\
-> Kuto samuṭṭhāya manovitakkā,\
-> Kumārakā dhaṅkamivossajanti”.
-
-6\.
-> “Rāgo ca doso ca itonidānā,\
-> Aratī ratī lomahaṁso itojā;\
-> Ito samuṭṭhāya manovitakkā,\
-> Kumārakā dhaṅkamivossajanti.
-
-7\.
-> Snehajā attasambhūtā,\
-> Nigrodhasseva khandhajā;\
-> Puthū visattā kāmesu,\
-> Māluvāva vitatāvane.
-
-8\.
-> Ye naṁ pajānanti yatonidānaṁ,\
-> Te naṁ vinodenti suṇohi yakkha;\
-> Te duttaraṁ oghamimaṁ taranti,\
-> Atiṇṇapubbaṁ apunabbhavāyā”ti.
-
-Sūcilomasuttaṁ pañcamaṁ.
-
-## SNP 2.6. Kapilasutta (dhammacariyasutta)
+<!--pg-->
+### SNP 2.3. Kinh Biết Hổ Thẹn
+*(Hirisutta)*
 
 1\.
-> Dhammacariyaṁ brahmacariyaṁ,\
-> Etadāhu vasuttamaṁ;\
-> Pabbajitopi ce hoti,\
-> Agārā anagāriyaṁ.
+> Kẻ vượt bỏ hổ thẹn,\
+> Chê bai nhưng ngoài miệng\
+> Nói tôi là bạn ông;\
+> Việc làm được không nhận,\
+> Biết kẻ ấy không bạn.
 
 2\.
-> So ce mukharajātiko,\
-> vihesābhirato mago;\
-> Jīvitaṁ tassa pāpiyo,\
-> rajaṁ vaḍḍheti attano.
+> Lời êm tai không thật,\
+> Nói với bạn bè mình;\
+> Nói suông mà không làm,\
+> Bậc trí nhận biết rõ.
 
 3\.
-> Kalahābhirato bhikkhu,\
-> Mohadhammena āvuto;\
-> Akkhātampi na jānāti,\
-> Dhammaṁ buddhena desitaṁ.
+> Không phải bạn luôn ngờ,\
+> Sợ chia rẽ tìm lỗi;\
+> Ai tựa như con nằm\
+> Trong lòng mẹ mới thật\
+> Là bạn không chia lìa.
 
 4\.
-> Vihesaṁ bhāvitattānaṁ,\
-> avijjāya purakkhato;\
-> Saṅkilesaṁ na jānāti,\
-> maggaṁ nirayagāminaṁ.
+> Mang gánh nặng con người,\
+> Đem lại niềm vui lớn;\
+> Đưa đến lời khen ngợi,\
+> Nuôi dưỡng quả an vui.
 
 5\.
-> Vinipātaṁ samāpanno,\
-> gabbhā gabbhaṁ tamā tamaṁ;\
-> Sa ve tādisako bhikkhu,\
-> pecca dukkhaṁ nigacchati.
+> Uống vị ngọt rời bỏ,\
+> Cùng vị ngọt lắng dịu;\
+> Không khổ không tội lỗi,\
+> Uống vị vui trong Pháp.
 
-6\.
-> Gūthakūpo yathā assa,\
-> sampuṇṇo gaṇavassiko;\
-> Yo ca evarūpo assa,\
-> dubbisodho hi sāṅgaṇo.
+Kinh Biết Hổ Thẹn là thứ ba.
 
-7\.
-> Yaṁ evarūpaṁ jānātha,\
-> bhikkhavo gehanissitaṁ;\
-> Pāpicchaṁ pāpasaṅkappaṁ,\
-> pāpaācāragocaraṁ.
+<!--pg-->
+### SNP 2.4. Kinh Điềm Lành
+*(Maṅgalasutta)*
 
-8\.
-> Sabbe samaggā hutvāna,\
-> abhinibbajjiyātha naṁ;\
-> Kāraṇḍavaṁ niddhamatha,\
-> kasambuṁ apakassatha.
-
-9\.
-> Tato palāpe vāhetha,\
-> Assamaṇe samaṇamānine;\
-> Niddhamitvāna pāpicche,\
-> Pāpaācāragocare.
-
-10\.
-> Suddhā suddhehi saṁvāsaṁ,\
-> Kappayavho patissatā;\
-> Tato samaggā nipakā,\
-> Dukkhassantaṁ karissathāti.
-
-Dhammacariyasuttaṁ chaṭṭhaṁ.
-
-## SNP 2.7. Brāhmaṇadhammikasutta
-
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho sambahulā kosalakā brāhmaṇamahāsālā jiṇṇā vuḍḍhā mahallakā addhagatā vayoanuppattā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā bhagavatā saddhiṁ sammodiṁsu. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinnā kho te brāhmaṇamahāsālā bhagavantaṁ etadavocuṁ: “sandissanti nu kho, bho gotama, etarahi brāhmaṇā porāṇānaṁ brāhmaṇānaṁ brāhmaṇadhamme”ti? “Na kho, brāhmaṇā, sandissanti etarahi brāhmaṇā porāṇānaṁ brāhmaṇānaṁ brāhmaṇadhamme”ti. “Sādhu no bhavaṁ gotamo porāṇānaṁ brāhmaṇānaṁ brāhmaṇadhammaṁ bhāsatu, sace bhoto gotamassa agarū”ti. “Tena hi, brāhmaṇā, suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti. “Evaṁ, bho”ti kho te brāhmaṇamahāsālā bhagavato paccassosuṁ. Bhagavā etadavoca:
+1\. Tôi đã nghe như vầy - một thời Thế Tôn ở tại Sāvatthī, trong rừng Jeta, khu vườn của ông Anāthapiṇḍika. Khi đêm đã khuya, có một vị trời dung sắc tuyệt đẹp chiếu sáng trọn cả rừng Jeta đi đến chỗ Thế Tôn; sau khi đến thì đảnh lễ Thế Tôn rồi đứng sang một bên. Đứng một bên, vị trời ấy nói với Thế Tôn bằng bài kệ:
 
 2\.
-> “Isayo pubbakā āsuṁ,\
-> saññatattā tapassino;\
-> Pañca kāmaguṇe hitvā,\
-> attadatthamacārisuṁ.
+> Nhiều vị trời và người,\
+> Suy nghĩ về điềm lành;\
+> Mong mỏi được an toàn,\
+> Xin dạy điềm lành nhất.
 
 3\.
-> Na pasū brāhmaṇānāsuṁ,\
-> na hiraññaṁ na dhāniyaṁ;\
-> Sajjhāyadhanadhaññāsuṁ,\
-> brahmaṁ nidhimapālayuṁ.
+> Không thân cận kẻ ngu,\
+> Thân cận bậc trí giả;\
+> Kính trọng người đáng kính,\
+> Là điềm lành cao nhất.
 
 4\.
-> Yaṁ nesaṁ pakataṁ āsi,\
-> dvārabhattaṁ upaṭṭhitaṁ;\
-> Saddhāpakatamesānaṁ,\
-> dātave tadamaññisuṁ.
+> Ở nơi chốn thích hợp,\
+> Trước đã làm phước lành;\
+> Tự hướng tâm chân chính,\
+> Là điềm lành cao nhất.
 
 5\.
-> Nānārattehi vatthehi,\
-> sayanehāvasathehi ca;\
-> Phītā janapadā raṭṭhā,\
-> te namassiṁsu brāhmaṇe.
+> Nghe nhiều và khéo nghề,\
+> Giới luật được học kỹ;\
+> Lời nói khéo thốt ra,\
+> Là điềm lành cao nhất.
 
 6\.
-> Avajjhā brāhmaṇā āsuṁ,\
-> ajeyyā dhammarakkhitā;\
-> Na ne koci nivāresi,\
-> kuladvāresu sabbaso.
+> Phụng dưỡng cha và mẹ,\
+> Chăm sóc vợ cùng con;\
+> Công việc không rối ren,\
+> Là điềm lành cao nhất.
 
 7\.
-> Aṭṭhacattālīsaṁ vassāni,\
-> (komāra) Brahmacariyaṁ cariṁsu te;\
-> Vijjācaraṇapariyeṭṭhiṁ,\
-> Acaruṁ brāhmaṇā pure.
+> Bố thí sống đúng pháp,\
+> Giúp đỡ hàng thân quyến;\
+> Hành động không lỗi lầm,\
+> Là điềm lành cao nhất.
 
 8\.
-> Na brāhmaṇā aññamagamuṁ,\
-> napi bhariyaṁ kiṇiṁsu te;\
-> Sampiyeneva saṁvāsaṁ,\
-> saṅgantvā samarocayuṁ.
+> Tránh xa từ bỏ ác,\
+> Kiềm chế không uống rượu;\
+> Không sao nhãng trong Pháp,\
+> Là điềm lành cao nhất.
 
 9\.
-> Aññatra tamhā samayā,\
-> utuveramaṇiṁ pati;\
-> Antarā methunaṁ dhammaṁ,\
-> nāssu gacchanti brāhmaṇā.
+> Kính trọng và khiêm nhường,\
+> Biết đủ và biết ơn;\
+> Đúng thời nghe giảng Pháp,\
+> Là điềm lành cao nhất.
 
 10\.
-> Brahmacariyañca sīlañca,\
-> ajjavaṁ maddavaṁ tapaṁ;\
-> Soraccaṁ avihiṁsañca,\
-> khantiñcāpi avaṇṇayuṁ.
+> Nhẫn nại dễ vâng lời,\
+> Được gặp bậc sa-môn;\
+> Đúng thời đàm luận Pháp,\
+> Là điềm lành cao nhất.
 
 11\.
-> Yo nesaṁ paramo āsi,\
-> Brahmā daḷhaparakkamo;\
-> Sa vāpi methunaṁ dhammaṁ,\
-> Supinantepi nāgamā.
+> Nhiệt tâm sống thánh thiện,\
+> Thấy rõ bốn Thánh đế;\
+> Chứng nghiệm được Niết-bàn,\
+> Là điềm lành cao nhất.
 
 12\.
-> Tassa vattamanusikkhantā,\
-> Idheke viññujātikā;\
-> Brahmacariyañca sīlañca,\
-> Khantiñcāpi avaṇṇayuṁ.
+> Chạm việc đời tám hướng,\
+> Tâm vị ấy không lay;\
+> Không sầu sạch an ổn,\
+> Là điềm lành cao nhất.
 
 13\.
-> Taṇḍulaṁ sayanaṁ vatthaṁ,\
-> Sappitelañca yāciya;\
-> Dhammena samodhānetvā,\
-> Tato yaññamakappayuṁ.
+> Làm được những điều ấy,\
+> Mọi nơi không thất bại;\
+> Mọi nơi đi an lành,\
+> Là điềm lành cao nhất.
+
+Kinh Điềm Lành là thứ tư.
+
+<!--pg-->
+### SNP 2.5. Kinh Dạ-xoa Sūciloma
+*(Sūcilomasutta)*
+
+1\. Tôi đã nghe như vầy - một thời Thế Tôn ở tại Gayā, trên chiếc giường đá tại nơi ở của dạ-xoa Sūciloma. Vào lúc bấy giờ, dạ-xoa Khara và dạ-xoa Sūciloma đi ngang qua không xa Thế Tôn. Khi ấy, dạ-xoa Khara nói với dạ-xoa Sūciloma điều này:
+
+– Đó là vị sa-môn.
+
+– Đó không phải là vị sa-môn, đó chỉ là kẻ giả dạng sa-môn thôi. Để tôi xem người ấy là bậc sa-môn thật hay chỉ là kẻ giả dạng sa-môn.
+
+2\. Rồi dạ-xoa Sūciloma đi đến chỗ Thế Tôn; sau khi đến liền áp thân mình vào Thế Tôn. Thế Tôn liền nghiêng thân tránh đi. Khi ấy, dạ-xoa Sūciloma nói với Thế Tôn điều này:
+
+– Này sa-môn, ông sợ tôi sao?
+
+– Này hiền giả, Ta không sợ ông; nhưng sự *Xúc* (xúc / samphasso) của ông thật độc ác.
+
+3\. – Này sa-môn, tôi sẽ hỏi ông một câu hỏi. Nếu ông không trả lời cho tôi, tôi sẽ làm loạn tâm ông, hoặc xé nát tim ông, hoặc nắm hai chân ném qua bên kia sông Hằng.
+
+4\. – Này hiền giả, Ta không thấy một ai trong thế giới có chư thiên, Ác ma, Phạm thiên, cùng quần chúng sa-môn, Bà-la-môn, trời và người có thể làm loạn tâm Ta, hoặc xé nát tim Ta, hoặc nắm hai chân ném qua bên kia sông Hằng. Nhưng này hiền giả, ông muốn gì thì cứ hỏi.
+
+Khi ấy, dạ-xoa Sūciloma nói với Thế Tôn bằng bài kệ:
+
+5\.
+> Đắm nhiễm và sân hận,\
+> Từ nguyên nhân nào sinh?\
+> Chán ghét cùng thích thú,\
+> Lông dựng sinh từ đâu?\
+> Từ đâu ý nghĩ khởi,\
+> Như trẻ thả quạ bay?
+
+6\.
+> Đắm nhiễm và sân hận,\
+> Từ chính thân này sinh;\
+> Chán ghét cùng thích thú,\
+> Lông dựng sinh từ đây;\
+> Từ đây ý nghĩ khởi,\
+> Như trẻ thả quạ bay.
+
+7\.
+> Sinh từ ái tự thân,\
+> Như rễ phụ cây đa;\
+> Bám chặt nhiều trong dục,\
+> Như dây leo phủ rừng.
+
+8\.
+> Ai biết rõ nguồn gốc,\
+> Người ấy loại trừ nó;\
+> Này dạ-xoa hãy nghe,\
+> Họ vượt dòng khó vượt,\
+> Chưa từng vượt trước đây,\
+> Để không còn tái sinh.
+
+Kinh Dạ-xoa Sūciloma là thứ năm.
+
+<!--pg-->
+### SNP 2.6. Kinh Kapila (Kinh Sống Đúng Pháp)
+*(Kapilasutta - Dhammacariyasutta)*
+
+1\.
+> Sống đúng Pháp thánh thiện,\
+> Gọi là báu tối thượng;\
+> Nếu có người xuất gia,\
+> Rời nhà sống không nhà.
+
+2\.
+> Nếu kẻ ấy ác miệng,\
+> Thú dữ thích hại người;\
+> Đời sống thêm tồi tệ,\
+> Tự làm tăng bụi nhơ.
+
+3\.
+> Tỳ kheo thích cãi cọ,\
+> Bị u mê che lấp;\
+> Dù được giảng không hiểu,\
+> Giáo pháp đức Phật dạy.
+
+4\.
+> Làm hại người tu tâm,\
+> Bị vô minh dẫn đầu;\
+> Không biết sự ô nhiễm,\
+> Là đường đi địa ngục.
+
+5\.
+> Rơi vào cõi suy đồi,\
+> Thai này sang thai khác,\
+> Bóng tối vào bóng tối;\
+> Tỳ kheo như vậy đó,\
+> Chết đi chịu khổ đau.
+
+6\.
+> Như hầm phân chất đầy,\
+> Trải qua suốt nhiều năm;\
+> Kẻ nào giống như vậy,\
+> Đầy nhơ khó làm sạch.
+
+7\.
+> Này tỳ kheo khi biết,\
+> Kẻ như vậy bám nhà;\
+> Muốn ác suy nghĩ ác,\
+> Cư xử hành động ác.
+
+8\.
+> Tất cả hãy hòa hợp,\
+> Cùng nhau tránh xa hắn;\
+> Hãy quét sạch rác rưởi,\
+> Hãy tống khứ đồ dơ.
+
+9\.
+> Rồi quạt sạch lúa lép,\
+> Không sa-môn ngạo nhận;\
+> Đuổi đi kẻ muốn ác,\
+> Có hành vi chỗ xấu.
+
+10\.
+> Trong sạch sống cùng nhau,\
+> Hãy giữ tâm chú ý;\
+> Hòa hợp và sáng suốt,\
+> Sẽ chấm dứt khổ đau.
+
+Kinh Sống Đúng Pháp là thứ sáu.
+
+<!--pg-->
+### SNP 2.7. Kinh Truyền Thống Bà-la-môn
+*(Brāhmaṇadhammikasutta)*
+
+1\. Tôi đã nghe như vầy - một thời Thế Tôn ở tại Sāvatthī, trong rừng Jeta, khu vườn của ông Anāthapiṇḍika. Khi ấy, có nhiều vị đại trưởng giả Bà-la-môn xứ Kosala đã già yếu, lớn tuổi, cao niên, đi đến cuối đời, cùng tìm đến chỗ Thế Tôn; sau khi đến liền chào hỏi xã giao với Thế Tôn. Sau khi nói những lời chào hỏi thân hữu rồi, họ ngồi xuống một bên. Ngồi một bên, các vị đại trưởng giả Bà-la-môn ấy nói với Thế Tôn điều này:
+
+– Thưa Tôn giả Gotama, những người Bà-la-môn hiện nay có còn được thấy sống theo *truyền thống của người Bà-la-môn* (pháp Bà-la-môn / brāhmaṇadhamme) thuộc các bậc Bà-la-môn thời xưa chăng?
+
+– Này các Bà-la-môn, những người Bà-la-môn hiện nay không còn được thấy sống theo *truyền thống của người Bà-la-môn* thuộc các bậc Bà-la-môn thời xưa nữa.
+
+– Lành thay, xin Tôn giả Gotama hãy giảng cho chúng tôi về *truyền thống của người Bà-la-môn* thuộc các bậc Bà-la-môn thời xưa, nếu không làm phiền Tôn giả Gotama.
+
+– Vậy thì này các Bà-la-môn, hãy lắng nghe và khéo *suy nghĩ đến* (tác ý / manasi karotha), Ta sẽ nói.
+
+– Thưa vâng, Tôn giả.
+
+Các vị đại trưởng giả Bà-la-môn ấy vâng đáp Thế Tôn. Thế Tôn nói điều này:
+
+2\.
+> Các ẩn sĩ thời xưa,\
+> Tự chế sống khổ hạnh;\
+> Bỏ năm dây bản năng,\
+> Sống vì lợi ích mình.
+
+3\.
+> Bà-la-môn không bò,\
+> Không vàng không lúa thóc;\
+> Lấy tụng đọc làm giàu,\
+> Giữ kho báu thánh thiện.
+
+4\.
+> Thức ăn dọn trước cửa,\
+> Chuẩn bị sẵn cho họ;\
+> Dân làmด้วย lòng tin,\
+> Nghĩ cần dâng các vị.
+
+5\.
+> Với vải nhuộm nhiều màu,\
+> Chỗ nằm và chỗ ở;\
+> Các xứ sở giàu có,\
+> Đảnh lễ Bà-la-môn.
+
+6\.
+> Bà-la-môn bất khả\
+> Xâm phạm không ai thắng,\
+> Được Pháp lành che chở;\
+> Không ai ngăn cản họ,\
+> Trước cửa mọi gia đình.
+
+7\.
+> Suốt bốn mươi tám năm,\
+> Sống phạm hạnh trai trẻ;\
+> Tìm cầu minh và hạnh,\
+> Bà-la-môn xưa sống.
+
+8\.
+> Không cưới hạng người khác,\
+> Cũng không mua vợ về;\
+> Thương nhau sống hòa hợp,\
+> Tự nguyện kết duyên lành.
+
+9\.
+> Ngoài thời điểm thích hợp,\
+> Sau kỳ kinh của vợ;\
+> Khoảng giữa các vị ấy,\
+> Không hành sự giao hợp.
+
+10\.
+> Đời sống phạm hạnh giới,\
+> Ngay thẳng hiền khổ hạnh;\
+> Nhu hòa không làm hại,\
+> Ngợi khen đức nhẫn nại.
+
+11\.
+> Ai tối thắng trong họ,\
+> Phạm thiên đầy tinh tấn;\
+> Vị ấy chuyện giao hợp,\
+> Trong mơ cũng không màng.
+
+12\.
+> Học theo hạnh vị ấy,\
+> Ở đây người hiểu biết;\
+> Ca ngợi đời phạm hạnh,\
+> Giới đức cùng nhẫn nại.
+
+13\.
+> Xin gạo giường cùng vải,\
+> Bơ trong và dầu mè;\
+> Gom góp một cách đúng,\
+> Từ đó lập lễ tế.
 
 14\.
-> Upaṭṭhitasmiṁ yaññasmiṁ,\
-> Nāssu gāvo haniṁsu te;\
-> Yathā mātā pitā bhātā,\
-> Aññe vāpi ca ñātakā;\
-> Gāvo no paramā mittā,\
-> Yāsu jāyanti osadhā.
+> Khi lễ tế cử hành,\
+> Họ không giết hại bò;\
+> Như cha mẹ anh em,\
+> Hay bà con thân quyến;\
+> Bò là bạn tốt nhất,\
+> Nơi sinh ra dược thảo.
 
 15\.
-> Annadā baladā cetā,\
-> Vaṇṇadā sukhadā tathā;\
-> Etamatthavasaṁ ñatvā,\
-> Nāssu gāvo haniṁsu te.
+> Cho thức ăn sức mạnh,\
+> Cho sắc đẹp niềm vui;\
+> Biết rõ lợi ích ấy,\
+> Họ không giết hại bò.
 
 16\.
-> Sukhumālā mahākāyā,\
-> Vaṇṇavanto yasassino;\
-> Brāhmaṇā sehi dhammehi,\
-> Kiccākiccesu ussukā;\
-> Yāva loke avattiṁsu,\
-> Sukhamedhitthayaṁ pajā.
+> Thanh nhã thân cao lớn,\
+> Sắc đẹp có danh tiếng;\
+> Bà-la-môn đúng pháp,\
+> Siêng năng việc nên làm;\
+> Khi còn ở trên đời,\
+> Dân chúng được an vui.
 
 17\.
-> Tesaṁ āsi vipallāso,\
-> Disvāna aṇuto aṇuṁ;\
-> Rājino ca viyākāraṁ,\
-> Nāriyo samalaṅkatā.
+> Rồi họ sinh biến chất,\
+> Khi nhìn thấy dần dần;\
+> Vẻ huy hoàng nhà vua,\
+> Cùng phụ nữ trang điểm.
 
 18\.
-> Rathe cājaññasaṁyutte,\
-> Sukate cittasibbane;\
-> Nivesane nivese ca,\
-> Vibhatte bhāgaso mite.
+> Xe thắng ngựa thuần chủng,\
+> Khéo đóng thêu rực rỡ;\
+> Cung điện cùng nhà cửa,\
+> Phân chia đo đạc khéo.
 
 19\.
-> Gomaṇḍalaparibyūḷhaṁ,\
-> Nārīvaragaṇāyutaṁ;\
-> Uḷāraṁ mānusaṁ bhogaṁ,\
-> Abhijjhāyiṁsu brāhmaṇā.
+> Đàn bò vây quanh khắp,\
+> Nhóm mỹ nữ tuyệt trần;\
+> Kho tài sản loài người,\
+> Bà-la-môn tham đắm.
 
 20\.
-> Te tattha mante ganthetvā,\
-> Okkākaṁ tadupāgamuṁ;\
-> Pahūtadhanadhaññosi,\
-> Yajassu bahu te vittaṁ;\
-> Yajassu bahu te dhanaṁ.
+> Họ bèn đặt chú tụng,\
+> Đi đến vua Okkāka;\
+> Ngài nhiều của nhiều lúa,\
+> Hãy tế lễ nhiều của;\
+> Hãy tế lễ nhiều tiền.
 
 21\.
-> Tato ca rājā saññatto,\
-> Brāhmaṇehi rathesabho;\
-> Assamedhaṁ purisamedhaṁ,\
-> Sammāpāsaṁ vājapeyyaṁ niraggaḷaṁ;\
-> Ete yāge yajitvāna,\
-> Brāhmaṇānamadā dhanaṁ.
+> Rồi nhà vua nghe theo,\
+> Lời các Bà-la-môn;\
+> Làm lễ tế ngựa người,\
+> Ném chốt uống rượu thắng,\
+> Mở toang không chốt cửa;\
+> Tế xong các lễ ấy,\
+> Ban của Bà-la-môn.
 
 22\.
-> Gāvo sayanañca vatthañca,\
-> Nāriyo samalaṅkatā;\
-> Rathe cājaññasaṁyutte,\
-> Sukate cittasibbane.
+> Bò giường nằm cùng vải,\
+> Phụ nữ khéo điểm trang;\
+> Xe thắng ngựa thuần chủng,\
+> Khéo đóng thêu rực rỡ.
 
 23\.
-> Nivesanāni rammāni,\
-> Suvibhattāni bhāgaso;\
-> Nānādhaññassa pūretvā,\
-> Brāhmaṇānamadā dhanaṁ.
+> Những ngôi nhà đẹp đẽ,\
+> Khéo phân chia từng phần;\
+> Chất đầy các loại lúa,\
+> Ban của Bà-la-môn.
 
 24\.
-> Te ca tattha dhanaṁ laddhā,\
-> Sannidhiṁ samarocayuṁ;\
-> Tesaṁ icchāvatiṇṇānaṁ,\
-> Bhiyyo taṇhā pavaḍḍhatha;\
-> Te tattha mante ganthetvā,\
-> Okkākaṁ puna mupāgamuṁ.
+> Nhận được tài sản ấy,\
+> Họ thích thú tích trữ;\
+> Bị lòng tham chi phối,\
+> Khát khao càng tăng thêm;\
+> Họ lại đặt chú tụng,\
+> Đến gặp vua Okkāka.
 
 25\.
-> Yathā āpo ca pathavī ca,\
-> Hiraññaṁ dhanadhāniyaṁ;\
-> Evaṁ gāvo manussānaṁ,\
-> Parikkhāro so hi pāṇinaṁ;\
-> Yajassu bahu te vittaṁ,\
-> Yajassu bahu te dhanaṁ.
+> Như nước và đất đai,\
+> Vàng bạc cùng lúa thóc;\
+> Bò cũng vậy cho người,\
+> Vật cần cho chúng sinh;\
+> Hãy tế lễ nhiều của,\
+> Hãy tế lễ nhiều tiền.
 
 26\.
-> Tato ca rājā saññatto,\
-> Brāhmaṇehi rathesabho;\
-> Nekā satasahassiyo,\
-> Gāvo yaññe aghātayi.
+> Rồi nhà vua nghe theo,\
+> Lời các Bà-la-môn;\
+> Hàng mấy trăm ngàn con,\
+> Bò bị giết trong lễ.
 
 27\.
-> Na pādā na visāṇena,\
-> Nāssu hiṁsanti kenaci;\
-> Gāvo eḷakasamānā,\
-> Soratā kumbhadūhanā;\
-> Tā visāṇe gahetvāna,\
-> Rājā satthena ghātayi.
+> Không dùng chân dùng sừng,\
+> Không làm hại một ai;\
+> Đàn bò hiền như cừu,\
+> Cho sữa đầy cả bình;\
+> Vua nắm lấy sừng chúng,\
+> Dùng đao giết hại đi.
 
 28\.
-> Tato devā pitaro ca,\
-> Indo asurarakkhasā;\
-> Adhammo iti pakkanduṁ,\
-> Yaṁ satthaṁ nipatī gave.
+> Chư thiên cùng tổ tiên,\
+> Đế Thích, A-tu-la,\
+> Cùng loài La-sát kêu:\
+> Phi pháp thay lưỡi đao,\
+> Giáng xuống trên đầu bò!
 
 29\.
-> Tayo rogā pure āsuṁ,\
-> Icchā anasanaṁ jarā;\
-> Pasūnañca samārambhā,\
-> Aṭṭhānavutimāgamuṁ.
+> Xưa chỉ có ba bệnh:\
+> Mong muốn, đói và già;\
+> Do giết hại súc vật,\
+> Thành chín mươi tám bệnh.
 
 30\.
-> Eso adhammo daṇḍānaṁ,\
-> Okkanto purāṇo ahu;\
-> Adūsikāyo haññanti,\
-> Dhammā dhaṁsanti yājakā.
+> Sự phi pháp bạo lực,\
+> Đã xuất hiện từ xưa;\
+> Vật vô tội bị giết,\
+> Người tế rơi khỏi Pháp.
 
 31\.
-> Evameso aṇudhammo,\
-> Porāṇo viññugarahito;\
-> Yattha edisakaṁ passati,\
-> Yājakaṁ garahatī jano.
+> Tục lệ thấp kém ấy,\
+> Từ xưa bậc trí chê;\
+> Nơi đâu thấy việc này,\
+> Dân chê người cúng tế.
 
 32\.
-> Evaṁ dhamme viyāpanne,\
-> Vibhinnā suddavessikā;\
-> Puthū vibhinnā khattiyā,\
-> Patiṁ bhariyāvamaññatha.
+> Khi Pháp bị hoại diệt,\
+> Phệ-xá, Thủ-đà chia;\
+> Sát-đế-lợi chia rẽ,\
+> Vợ khinh thường chồng mình.
 
 33\.
-> Khattiyā brahmabandhū ca,\
-> Ye caññe gottarakkhitā;\
-> Jātivādaṁ nirākatvā,\
-> Kāmānaṁ vasamanvagun”ti.
+> Sát-đế-lợi, dòng Phạm,\
+> Cùng những tộc họ khác;\
+> Bỏ luận thuyết dòng dõi,\
+> Chạy theo quyền lực dục.
 
-34\. Evaṁ vutte, te brāhmaṇamahāsālā bhagavantaṁ etadavocuṁ: “abhikkantaṁ, bho gotama …pe… upāsake no bhavaṁ gotamo dhāretu ajjatagge pāṇupete saraṇaṁ gate”ti.
+34\. Khi được nói vậy, các vị đại trưởng giả Bà-la-môn ấy nói với Thế Tôn điều này:
 
-Brāhmaṇadhammikasuttaṁ sattamaṁ.
+– Thật tuyệt vời, thưa Tôn giả Gotama [...lặp lại...] Xin Tôn giả Gotama nhận chúng tôi làm cư sĩ, từ nay cho đến trọn đời xin quy ngưỡng.
 
-## SNP 2.8. Dhamma (nāvā) sutta
+Kinh Truyền Thống Bà-la-môn là thứ bảy.
+
+<!--pg-->
+### SNP 2.8. Kinh Pháp (Kinh Con Thuyền)
+*(Dhamma - Nāvāsutta)*
 
 1\.
-> Yasmā hi dhammaṁ puriso vijaññā,\
-> Indaṁva naṁ devatā pūjayeyya;\
-> So pūjito tasmi pasannacitto,\
-> Bahussuto pātukaroti dhammaṁ.
+> Nhờ ai biết được Pháp,\
+> Hãy kính người ấy như\
+> Chư thiên kính Đế Thích;\
+> Được kính tâm trong sáng,\
+> Bậc nghe nhiều truyền Pháp.
 
 2\.
-> Tadaṭṭhikatvāna nisamma dhīro,\
-> Dhammānudhammaṁ paṭipajjamāno;\
-> Viññū vibhāvī nipuṇo ca hoti,\
-> Yo tādisaṁ bhajati appamatto.
+> Bậc trí chú tâm nghe,\
+> Thực hành đúng theo Pháp;\
+> Thành người hiểu sâu sắc,\
+> Khi siêng gần vị ấy.
 
 3\.
-> Khuddañca bālaṁ upasevamāno,\
-> Anāgatatthañca usūyakañca;\
-> Idheva dhammaṁ avibhāvayitvā,\
-> Avitiṇṇakaṅkho maraṇaṁ upeti.
+> Thân cận kẻ nhỏ nhen,\
+> Ngu si và ganh tỵ,\
+> Chưa đạt được mục đích;\
+> Không hiểu Pháp đời này,\
+> Chết đi chưa dứt nghi.
 
 4\.
-> Yathā naro āpagamotaritvā,\
-> Mahodakaṁ salilaṁ sīghasotaṁ;\
-> So vuyhamāno anusotagāmī,\
-> Kiṁ so pare sakkhati tārayetuṁ.
+> Như người bước xuống sông,\
+> Nước lớn dòng chảy xiết;\
+> Bị cuốn trôi xuôi dòng,\
+> Sao cứu người qua được?
 
 5\.
-> Tatheva dhammaṁ avibhāvayitvā,\
-> Bahussutānaṁ anisāmayatthaṁ;\
-> Sayaṁ ajānaṁ avitiṇṇakaṅkho,\
-> Kiṁ so pare sakkhati nijjhapetuṁ.
+> Cũng vậy không hiểu Pháp,\
+> Không nghe nghĩa bậc trí;\
+> Tự không biết còn nghi,\
+> Sao giúp người hiểu được?
 
 6\.
-> Yathāpi nāvaṁ daḷhamāruhitvā,\
-> Phiyena rittena samaṅgibhūto;\
-> So tāraye tattha bahūpi aññe,\
-> Tatrūpayaññū kusalo mutīmā.
+> Như bước lên thuyền chắc,\
+> Có mái chèo bánh lái;\
+> Đưa nhiều người qua bờ,\
+> Nhờ khéo biết phương tiện.
 
 7\.
-> Evampi yo vedagu bhāvitatto,\
-> Bahussuto hoti avedhadhammo;\
-> So kho pare nijjhapaye pajānaṁ,\
-> Sotāvadhānūpanisūpapanne.
+> Cũng vậy bậc thông suốt,\
+> Tâm rèn luyện nghe nhiều,\
+> Không còn bị dao động;\
+> Biết rõ giúp người hiểu,\
+> Khi họ biết lắng nghe.
 
 8\.
-> Tasmā have sappurisaṁ bhajetha,\
-> Medhāvinañceva bahussutañca;\
-> Aññāya atthaṁ paṭipajjamāno,\
-> Viññātadhammo sa sukhaṁ labhethāti.
+> Vậy hãy gần chân nhân,\
+> Bậc trí tuệ nghe nhiều;\
+> Hiểu nghĩa rồi thực hành,\
+> Biết Pháp được an vui.
 
-Nāvāsuttaṁ aṭṭhamaṁ.
+Kinh Con Thuyền là thứ tám.
 
-## SNP 2.9. Kiṁsīlasutta
+<!--pg-->
+### SNP 2.9. Kinh Phẩm Hạnh Gì
+*(Kiṁsīlasutta)*
 
 1\.
-> “Kiṁsīlo kiṁsamācāro,\
-> kāni kammāni brūhayaṁ;\
-> Naro sammā niviṭṭhassa,\
-> uttamatthañca pāpuṇe”.
+> Phẩm hạnh gì nết gì,\
+> Nuôi dưỡng hành động nào;\
+> Người đặt nền tảng đúng,\
+> Đạt mục đích tối thượng?
 
 2\.
-> “Vuḍḍhāpacāyī anusūyako siyā,\
-> Kālaññū cassa garūnaṁ dassanāya;\
-> Dhammiṁ kathaṁ erayitaṁ khaṇaññū,\
-> Suṇeyya sakkacca subhāsitāni.
+> Kính bậc trưởng không ganh,\
+> Biết thời thăm bậc thầy;\
+> Biết lúc nghe giảng Pháp,\
+> Thành tâm nghe lời hay.
 
 3\.
-> Kālena gacche garūnaṁ sakāsaṁ,\
-> Thambhaṁ niraṅkatvā nivātavutti;\
-> Atthaṁ dhammaṁ saṁyamaṁ brahmacariyaṁ,\
-> Anussare ceva samācare ca.
+> Đúng thời đến gần thầy,\
+> Bỏ ngạo mạn khiêm nhường;\
+> Nghĩa lý Pháp tự chế,\
+> Phạm hạnh nhớ và làm.
 
 4\.
-> Dhammārāmo dhammarato,\
-> Dhamme ṭhito dhammavinicchayaññū;\
-> Nevācare dhammasandosavādaṁ,\
-> Tacchehi nīyetha subhāsitehi.
+> Vui Pháp thích trong Pháp,\
+> Đứng vững biết phân định;\
+> Không nói lời hại Pháp,\
+> Sống theo lời chân thật.
 
 5\.
-> Hassaṁ jappaṁ paridevaṁ padosaṁ,\
-> Māyākataṁ kuhanaṁ giddhi mānaṁ;\
-> Sārambhaṁ kakkasaṁ kasāvañca mucchaṁ,\
-> Hitvā care vītamado ṭhitatto.
+> Cười đùa than sân hận,\
+> Giả dối lừa tham kiêu;\
+> Nóng nảy lời thô ác,\
+> Nhơ bẩn và mê đắm,\
+> Từ bỏ hết kiêu ngạo,\
+> Sống với tâm vững vàng.
 
 6\.
-> Viññātasārāni subhāsitāni,\
-> Sutañca viññātasamādhisāraṁ;\
-> Na tassa paññā ca sutañca vaḍḍhati,\
-> Yo sāhaso hoti naro pamatto.
+> Lời khéo nói cốt lõi,\
+> Nghe hiểu định làm cốt;\
+> Trí và nghe không tăng,\
+> Nơi kẻ vội sao nhãng.
 
 7\.
-> Dhamme ca ye ariyapavedite ratā,\
-> Anuttarā te vacasā manasā kammunā ca;\
-> Te santisoraccasamādhisaṇṭhitā,\
-> Sutassa paññāya ca sāramajjhagū”ti.
+> Ai vui Pháp bậc thánh,\
+> Vô thượng lời ý thân;\
+> Vững vàng trong an tịnh,\
+> Hiền hòa cùng định tâm,\
+> Đạt cốt lõi nghe trí.
 
-Kiṁsīlasuttaṁ navamaṁ.
+Kinh Phẩm Hạnh Gì là thứ chín.
 
-## SNP 2.10. Uṭṭhānasutta
-
-1\.
-> Uṭṭhahatha nisīdatha,\
-> ko attho supitena vo;\
-> Āturānañhi kā niddā,\
-> sallaviddhāna ruppataṁ.
-
-2\.
-> Uṭṭhahatha nisīdatha,\
-> Daḷhaṁ sikkhatha santiyā;\
-> Mā vo pamatte viññāya,\
-> Maccurājā amohayittha vasānuge.
-
-3\.
-> Yāya devā manussā ca,\
-> sitā tiṭṭhanti atthikā;\
-> Tarathetaṁ visattikaṁ,\
-> khaṇo vo mā upaccagā;\
-> Khaṇātītā hi socanti,\
-> nirayamhi samappitā.
-
-4\.
-> Pamādo rajo pamādo,\
-> Pamādānupatito rajo;\
-> Appamādena vijjāya,\
-> Abbahe sallamattanoti.
-
-Uṭṭhānasuttaṁ dasamaṁ.
-
-## SNP 2.11. Rāhulasutta
+<!--pg-->
+### SNP 2.10. Kinh Hãy Đứng Dậy
+*(Uṭṭhānasutta)*
 
 1\.
-> “Kacci abhiṇhasaṁvāsā,\
-> nāvajānāsi paṇḍitaṁ;\
-> Ukkādhāro manussānaṁ,\
-> kacci apacito tayā”.
+> Hãy đứng dậy ngồi lên,\
+> Ngủ nghỉ ích lợi gì;\
+> Kẻ bệnh ngủ được sao,\
+> Trúng tên đang đau đớn.
 
 2\.
-> “Nāhaṁ abhiṇhasaṁvāsā,\
-> avajānāmi paṇḍitaṁ;\
-> Ukkādhāro manussānaṁ,\
-> niccaṁ apacito mayā”.
+> Hãy đứng dậy ngồi lên,\
+> Dốc sức học an tịnh;\
+> Đừng để Vua Thần Chết,\
+> Biết các ông sao nhãng,\
+> Mê hoặc bắt tùy tùng.
 
 3\.
-> “Pañca kāmaguṇe hitvā,\
-> piyarūpe manorame;\
-> Saddhāya gharā nikkhamma,\
-> dukkhassantakaro bhava.
+> Nơi trời người bám víu,\
+> Đứng lại vì mong cầu;\
+> Hãy vượt tham dính ấy,\
+> Đừng để lỡ thời cơ;\
+> Lỡ thời phải sầu khổ,\
+> Khi rơi vào địa ngục.
 
 4\.
-> Mitte bhajassu kalyāṇe,\
-> pantañca sayanāsanaṁ;\
-> Vivittaṁ appanigghosaṁ,\
-> mattaññū hohi bhojane.
+> Sao nhãng là bụi nhơ,\
+> Bụi nhơ theo sao nhãng;\
+> Nhờ siêng năng hiểu biết,\
+> Hãy nhổ mũi tên mình.
+
+Kinh Hãy Đứng Dậy là thứ mười.
+
+<!--pg-->
+### SNP 2.11. Kinh Rāhula
+*(Rāhulasutta)*
+
+1\.
+> Sống gần nhau thường xuyên,\
+> Có khinh bậc trí chăng;\
+> Người cầm đuốc nhân loại,\
+> Có được con kính trọng?
+
+2\.
+> Sống gần nhau thường xuyên,\
+> Con không khinh bậc trí;\
+> Người cầm đuốc nhân loại,\
+> Con luôn luôn kính trọng.
+
+3\.
+> Bỏ năm dây bản năng,\
+> Đáng yêu và đẹp ý;\
+> Vì tin rời bỏ nhà,\
+> Hãy chấm dứt khổ đau.
+
+4\.
+> Hãy thân cận bạn lành,\
+> Chỗ nằm ngồi xa vắng;\
+> Yên tĩnh ít tiếng ồn,\
+> Biết vừa đủ khi ăn.
 
 5\.
-> Cīvare piṇḍapāte ca,\
-> paccaye sayanāsane;\
-> Etesu taṇhaṁ mākāsi,\
-> mā lokaṁ punarāgami.
+> Y áo đồ khất thực,\
+> Thuốc men chỗ nằm ngồi;\
+> Đừng khởi lòng khát khao,\
+> Đừng quay lại đời nữa.
 
 6\.
-> Saṁvuto pātimokkhasmiṁ,\
-> indriyesu ca pañcasu;\
-> Sati kāyagatā tyatthu,\
-> nibbidābahulo bhava.
+> Thu thúc trong giới bổn,\
+> Và trong năm giác quan;\
+> Chú tâm nơi thân mình,\
+> Hãy sống nhiều nhàm chán.
 
 7\.
-> Nimittaṁ parivajjehi,\
-> subhaṁ rāgūpasañhitaṁ;\
-> Asubhāya cittaṁ bhāvehi,\
-> ekaggaṁ susamāhitaṁ.
+> Hãy tránh xa tướng đẹp,\
+> Đi kèm với đắm nhiễm;\
+> Rèn tâm quán bất tịnh,\
+> Tâm chuyên nhất khéo định.
 
 8\.
-> Animittañca bhāvehi,\
-> Mānānusayamujjaha;\
-> Tato mānābhisamayā,\
-> Upasanto carissatī”ti.
+> Hãy rèn luyện không tướng,\
+> Nhổ ngạo mạn chảy ngầm;\
+> Nhờ hiểu rõ ngạo mạn,\
+> Sẽ sống đời lắng dịu.
 
-9\. Itthaṁ sudaṁ bhagavā āyasmantaṁ rāhulaṁ imāhi gāthāhi abhiṇhaṁ ovadatīti.
+9\. Như vậy, Thế Tôn thường xuyên khuyên dạy tôn giả Rāhula bằng những bài kệ này.
 
-Rāhulasuttaṁ ekādasamaṁ.
+Kinh Rāhula là thứ mười một.
 
-## SNP 2.12. Nigrodhakappa (vaṅgīsa) sutta
+<!--pg-->
+### SNP 2.12. Kinh Nigrodhakappa (Kinh Vaṅgīsa)
+*(Nigrodhakappa - Vaṅgīsasutta)*
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā āḷaviyaṁ viharati aggāḷave cetiye. Tena kho pana samayena āyasmato vaṅgīsassa upajjhāyo nigrodhakappo nāma thero aggāḷave cetiye aciraparinibbuto hoti. Atha kho āyasmato vaṅgīsassa rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi—parinibbuto nu kho me upajjhāyo udāhu no parinibbutoti? Atha kho āyasmā vaṅgīso sāyanhasamayaṁ paṭisallānā vuṭṭhito yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā vaṅgīso bhagavantaṁ etadavoca—idha mayhaṁ, bhante, rahogatassa paṭisallīnassa evaṁ cetaso parivitakko udapādi—parinibbuto nu kho me upajjhāyo, udāhu no parinibbutoti. Atha kho āyasmā vaṅgīso uṭṭhāyāsanā ekaṁsaṁ cīvaraṁ katvā yena bhagavā tenañjaliṁ paṇāmetvā bhagavantaṁ gāthāya ajjhabhāsi:
+1\. Tôi đã nghe như vầy - một thời Thế Tôn ở tại Āḷavī, nơi ngôi đền Aggāḷava. Vào lúc bấy giờ, thầy tế độ của tôn giả Vaṅgīsa là trưởng lão tên Nigrodhakappa vừa mới *hoàn toàn lắng dịu* (viên tịch / parinibbuto) không lâu tại đền Aggāḷava. Khi ấy, tôn giả Vaṅgīsa trong lúc ở một mình *tĩnh tâm suy ngẫm* (độc cư thiền tịnh / paṭisallīnassa) liền khởi lên *sự suy xét* (tầm tư / parivitakko) trong tâm như vầy: "Thầy tế độ của mình *đã hoàn toàn lắng dịu* hay chưa *hoàn toàn lắng dịu*?". Rồi vào buổi chiều, tôn giả Vaṅgīsa rời khỏi chỗ tĩnh tâm đi đến chỗ Thế Tôn; sau khi đến thì đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, tôn giả Vaṅgīsa nói với Thế Tôn điều này:
+
+– Bạch Thế Tôn, ở đây trong lúc con ở một mình *tĩnh tâm suy ngẫm* liền khởi lên *sự suy xét* trong tâm như vầy: "Thầy tế độ của mình *đã hoàn toàn lắng dịu* hay chưa *hoàn toàn lắng dịu*?".
+
+Khi ấy, tôn giả Vaṅgīsa từ chỗ ngồi đứng dậy, đắp y trật một bên vai, chắp tay hướng về Thế Tôn rồi thưa với Thế Tôn bằng bài kệ:
 
 2\.
-> “Pucchāmi satthāramanomapaññaṁ,\
-> Diṭṭheva dhamme yo vicikicchānaṁ chettā;\
-> Aggāḷave kālamakāsi bhikkhu,\
-> Ñāto yasassī abhinibbutatto.
+> Con hỏi bậc Đạo Sư,\
+> Trí tuệ thật vô song;\
+> Ngay trong đời hiện tại,\
+> Cắt đứt mọi nghi ngờ;\
+> Tại đền Aggāḷava,\
+> Có tỳ kheo qua đời;\
+> Nổi tiếng và danh vọng,\
+> Tâm đã được tịnh lạc.
 
 3\.
-> Nigrodhakappo iti tassa nāmaṁ,\
-> Tayā kataṁ bhagavā brāhmaṇassa;\
-> So taṁ namassaṁ acari mutyapekkho,\
-> Āraddhaviriyo daḷhadhammadassī.
+> Tên ngài là Kappa,\
+> Do Thế Tôn đặt cho;\
+> Vị Bà-la-môn ấy,\
+> Kính Ngài cầu giải thoát;\
+> Tinh tấn giữ vững chắc,\
+> Thấy rõ được Giáo pháp.
 
 4\.
-> Taṁ sāvakaṁ sakya mayampi sabbe,\
-> Aññātumicchāma samantacakkhu;\
-> Samavaṭṭhitā no savanāya sotā,\
-> Tuvaṁ no satthā tvamanuttarosi.
+> Đệ tử ấy dòng Thích,\
+> Tất cả muốn biết rõ;\
+> Hỡi bậc Mắt Toàn Vẹn,\
+> Tai chúng con sẵn sàng;\
+> Ngài là bậc Đạo Sư,\
+> Ngài là đấng Vô Thượng.
 
 5\.
-> Chindeva no vicikicchaṁ brūhi metaṁ,\
-> Parinibbutaṁ vedaya bhūripañña;\
-> Majjheva no bhāsa samantacakkhu,\
-> Sakkova devāna sahassanetto.
+> Hãy cắt đứt nghi ngờ,\
+> Nói cho con biết rõ;\
+> Bậc trí rộng hãy báo,\
+> Vị ấy đã tịch chưa;\
+> Nói giữa chúng con đây,\
+> Như Đế Thích ngàn mắt.
 
 6\.
-> Ye keci ganthā idha mohamaggā,\
-> Aññāṇapakkhā vicikicchaṭhānā;\
-> Tathāgataṁ patvā na te bhavanti,\
-> Cakkhuñhi etaṁ paramaṁ narānaṁ.
+> Phàm có trói buộc nào,\
+> Đường u mê nơi đây;\
+> Về phía không hiểu biết,\
+> Chỗ đứng của nghi ngờ;\
+> Khi gặp đấng Như Lai,\
+> Những thứ ấy không còn;\
+> Vì Ngài là con mắt,\
+> Tối thượng của loài người.
 
 7\.
-> No ce hi jātu puriso kilese,\
-> Vāto yathā abbhaghanaṁ vihāne;\
-> Tamovassa nivuto sabbaloko,\
-> Na jotimantopi narā tapeyyuṁ.
+> Nếu không có bậc trí,\
+> Xua tan những nhiễm bẩn;\
+> Như gió thổi mây dày,\
+> Cả đời bị tối che;\
+> Người sáng cũng không chiếu.
 
 8\.
-> Dhīrā ca pajjotakarā bhavanti,\
-> Taṁ taṁ ahaṁ vīra tatheva maññe;\
-> Vipassinaṁ jānamupāgamumhā,\
-> Parisāsu no āvikarohi kappaṁ.
+> Bậc trí làm ánh sáng,\
+> Con nghĩ Ngài như vậy;\
+> Chúng con đến gần Ngài,\
+> Bậc thấy rõ biết suốt;\
+> Giữa hội chúng xin Ngài,\
+> Nói rõ về Kappa.
 
 9\.
-> Khippaṁ giraṁ eraya vaggu vagguṁ,\
-> Haṁsova paggayha saṇikaṁ nikūja;\
-> Bindussarena suvikappitena,\
-> Sabbeva te ujjugatā suṇoma.
+> Hãy mau cất tiếng đẹp,\
+> Như thiên nga vươn cổ,\
+> Hót lên tiếng êm dịu;\
+> Với giọng trầm vang rõ,\
+> Tất cả tâm ngay thẳng,\
+> Cùng lắng nghe lời Ngài.
 
 10\.
-> Pahīnajātimaraṇaṁ asesaṁ,\
-> Niggayha dhonaṁ vadessāmi dhammaṁ;\
-> Na kāmakāro hi puthujjanānaṁ,\
-> Saṅkheyyakāro ca tathāgatānaṁ.
+> Đã bỏ sạch sinh chết,\
+> Con thỉnh bậc thanh tịnh,\
+> Hãy nói rõ Giáo pháp;\
+> Phàm phu không làm được,\
+> Như ý mình mong muốn;\
+> Nhưng các đấng Như Lai,\
+> Làm với sự suy xét.
 
 11\.
-> Sampannaveyyākaraṇaṁ tavedaṁ,\
-> Samujjupaññassa samuggahītaṁ;\
-> Ayamañjalī pacchimo suppaṇāmito,\
-> Mā mohayī jānamanomapañña.
+> Lời giải đáp trọn vẹn,\
+> Của bậc trí ngay thẳng,\
+> Chúng con xin đón nhận;\
+> Cái chắp tay cuối này,\
+> Xin thành kính dâng lên;\
+> Bậc trí biết vô lượng,\
+> Xin đừng để con mê.
 
 12\.
-> Parovaraṁ ariyadhammaṁ viditvā,\
-> Mā mohayī jānamanomavīra;\
-> Vāriṁ yathā ghammani ghammatatto,\
-> Vācābhikaṅkhāmi sutaṁ pavassa.
+> Biết rõ Pháp cao thấp,\
+> Xin đừng để con mê,\
+> Hỡi bậc hùng trí lớn;\
+> Như người nóng giữa trưa,\
+> Khao khát dòng nước mát;\
+> Con mong lời Ngài dạy,\
+> Xin mưa Pháp lắng nghe.
 
 13\.
-> Yadatthikaṁ brahmacariyaṁ acarī,\
-> Kappāyano kaccissa taṁ amoghaṁ;\
-> Nibbāyi so ādu saupādiseso,\
-> Yathā vimutto ahu taṁ suṇoma”.
+> Đời phạm hạnh Kappa,\
+> Đã sống vì mục đích;\
+> Có phải không uổng phí?\
+> Ngài tắt hẳn hoàn toàn,\
+> Hay còn chút dư sót;\
+> Giải thoát như thế nào,\
+> Xin cho chúng con nghe.
 
 14\.
-> “Acchecchi taṇhaṁ idha nāmarūpe,\
-> (iti bhagavā)\
-> Kaṇhassa sotaṁ dīgharattānusayitaṁ;\
-> Atāri jātiṁ maraṇaṁ asesaṁ”,\
-> Iccabravī bhagavā pañcaseṭṭho.
+> Vị ấy cắt khát khao,\
+> Trong danh sắc đời này;\
+> (Thế Tôn nói như vậy)\
+> Dòng Ác ma ngủ ngầm,\
+> Suốt thời gian dài lâu;\
+> Đã vượt qua sinh chết,\
+> Không còn sót điều gì;\
+> Thế Tôn bậc tối thắng,\
+> Trong năm uẩn nói vậy.
 
 15\.
-> “Esa sutvā pasīdāmi,\
-> Vaco te isisattama;\
-> Amoghaṁ kira me puṭṭhaṁ,\
-> Na maṁ vañcesi brāhmaṇo.
+> Nghe lời Ngài con tin,\
+> Hỡi ẩn sĩ thứ bảy;\
+> Câu con hỏi không uổng,\
+> Vị ấy không dối con.
 
 16\.
-> Yathāvādī tathākārī,\
-> Ahu buddhassa sāvako;\
-> Acchidā maccuno jālaṁ,\
-> Tataṁ māyāvino daḷhaṁ.
+> Nói sao làm đúng vậy,\
+> Đệ tử của đức Phật;\
+> Đã cắt lưới Thần Chết,\
+> Kẻ xảo quyệt giăng bền.
 
 17\.
-> Addasā bhagavā ādiṁ,\
-> Upādānassa kappiyo;\
-> Accagā vata kappāyano,\
-> Maccudheyyaṁ suduttaran”ti.
+> Bạch Thế Tôn Kappa,\
+> Đã thấy gốc bám giữ;\
+> Kappa đã vượt qua,\
+> Lãnh vực của Thần Chết,\
+> Thật vô cùng khó vượt.
 
-Nigrodhakappasuttaṁ dvādasamaṁ.
+Kinh Nigrodhakappa là thứ mười hai.
 
-## SNP 2.13. Sammāparibbājanīyasutta
+<!--pg-->
+### SNP 2.13. Kinh Xuất Gia Đúng Đắn
+*(Sammāparibbājanīyasutta)*
 
 1\.
-> “Pucchāmi muniṁ pahūtapaññaṁ,\
-> Tiṇṇaṁ pāraṅgataṁ parinibbutaṁ ṭhitattaṁ;\
-> Nikkhamma gharā panujja kāme,\
-> Kathaṁ bhikkhu sammā so loke paribbajeyya”.
+> Con hỏi bậc Mâu-ni,\
+> Có trí tuệ rộng lớn;\
+> Đã vượt qua bờ kia,\
+> Hoàn toàn lắng vững tâm;\
+> Rời nhà xua đuổi dục,\
+> Tỳ kheo làm thế nào,\
+> Sống xuất gia đúng đắn?
 
 2\.
-> “Yassa maṅgalā samūhatā,\
-> (iti bhagavā)\
-> Uppātā supinā ca lakkhaṇā ca;\
-> So maṅgaladosavippahīno,\
-> Sammā so loke paribbajeyya.
+> Ai nhổ tận gốc rễ,\
+> Những điềm lành mê tín;\
+> (Thế Tôn nói như vậy)\
+> Thiên tai mộng tướng số,\
+> Bỏ hẳn lỗi điềm lành;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 3\.
-> Rāgaṁ vinayetha mānusesu,\
-> Dibbesu kāmesu cāpi bhikkhu;\
-> Atikkamma bhavaṁ samecca dhammaṁ,\
-> Sammā so loke paribbajeyya.
+> Tỳ kheo hãy nhiếp phục,\
+> Đắm nhiễm trong các dục;\
+> Của cõi người cõi trời,\
+> Vượt hữu hiểu rõ Pháp;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 4\.
-> Vipiṭṭhikatvāna pesuṇāni,\
-> Kodhaṁ kadarīyaṁ jaheyya bhikkhu;\
-> Anurodhavirodhavippahīno,\
-> Sammā so loke paribbajeyya.
+> Quay lưng lời đâm thọc,\
+> Bỏ giận dữ keo kiệt;\
+> Đã dứt bỏ hoàn toàn,\
+> Thuận theo và chống đối;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 5\.
-> Hitvāna piyañca appiyañca,\
-> Anupādāya anissito kuhiñci;\
-> Saṁyojaniyehi vippamutto,\
-> Sammā so loke paribbajeyya.
+> Bỏ điều thương điều ghét,\
+> Không bám giữ nương tựa,\
+> Bất cứ nơi chốn nào;\
+> Thoát khỏi các trói buộc,\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 6\.
-> Na so upadhīsu sārameti,\
-> Ādānesu vineyya chandarāgaṁ;\
-> So anissito anaññaneyyo,\
-> Sammā so loke paribbajeyya.
+> Không thấy cốt lõi gì,\
+> Trong các vật sở hữu;\
+> Nhiếp phục lòng tham đắm,\
+> Nơi các sự nắm giữ;\
+> Không nương không ai dẫn,\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 7\.
-> Vacasā manasā ca kammunā ca,\
-> Aviruddho sammā viditvā dhammaṁ;\
-> Nibbānapadābhipatthayāno,\
-> Sammā so loke paribbajeyya.
+> Bằng lời nói ý nghĩ,\
+> Cùng hành động việc làm;\
+> Không chống trái hiểu Pháp,\
+> Hướng đến cảnh Niết-bàn;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 8\.
-> Yo vandati manti nunnameyya,\
-> Akkuṭṭhopi na sandhiyetha bhikkhu;\
-> Laddhā parabhojanaṁ na majje,\
-> Sammā so loke paribbajeyya.
+> Ai đảnh lễ không kiêu,\
+> Bị mắng không giận hờn;\
+> Nhận đồ ăn người khác,\
+> Không say đắm mê mờ;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 9\.
-> Lobhañca bhavañca vippahāya,\
-> Virato chedanabandhanā ca bhikkhu;\
-> So tiṇṇakathaṅkatho visallo,\
-> Sammā so loke paribbajeyya.
+> Từ bỏ tham và hữu,\
+> Tránh đâm chém trói buộc;\
+> Đã vượt qua nghi ngờ,\
+> Không còn mũi tên đâm;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 10\.
-> Sāruppaṁ attano viditvā,\
-> No ca bhikkhu hiṁseyya kañci loke;\
-> Yathātathiyaṁ viditvā dhammaṁ,\
-> Sammā so loke paribbajeyya.
+> Biết điều hợp với mình,\
+> Không hại ai trên đời;\
+> Biết Pháp đúng sự thật,\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 11\.
-> Yassānusayā na santi keci,\
-> Mūlā ca akusalā samūhatāse;\
-> So nirāso anāsisāno,\
-> Sammā so loke paribbajeyya.
+> Ai không còn chảy ngầm,\
+> Gốc bất thiện nhổ sạch;\
+> Không mong cầu ước vọng,\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 12\.
-> Āsavakhīṇo pahīnamāno,\
-> Sabbaṁ rāgapathaṁ upātivatto;\
-> Danto parinibbuto ṭhitatto,\
-> Sammā so loke paribbajeyya.
+> Nguồn ác cạn bỏ kiêu,\
+> Vượt mọi đường đắm nhiễm;\
+> Thuần phục lắng vững tâm,\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 13\.
-> Saddho sutavā niyāmadassī,\
-> Vaggagatesu na vaggasāri dhīro;\
-> Lobhaṁ dosaṁ vineyya paṭighaṁ,\
-> Sammā so loke paribbajeyya.
+> Có lòng tin nghe nhiều,\
+> Thấy rõ đường chân chính;\
+> Giữa phe nhóm không theo,\
+> Nhiếp phục tham sân hận;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 14\.
-> Saṁsuddhajino vivaṭṭacchado,\
-> Dhammesu vasī pāragū anejo;\
-> Saṅkhāranirodhañāṇakusalo,\
-> Sammā so loke paribbajeyya.
+> Bậc chiến thắng thanh tịnh,\
+> Vén mở tấm màn che;\
+> Làm chủ Pháp qua bờ,\
+> Không dao động khéo biết,\
+> Sự chấm dứt các hành;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 15\.
-> Atītesu anāgatesu cāpi,\
-> Kappātīto aticcasuddhipañño;\
-> Sabbāyatanehi vippamutto,\
-> Sammā so loke paribbajeyya.
+> Đối với việc quá khứ,\
+> Cũng như việc tương lai;\
+> Vượt suy diễn trí sạch,\
+> Thoát khỏi mọi trường xứ;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 16\.
-> Aññāya padaṁ samecca dhammaṁ,\
-> Vivaṭaṁ disvāna pahānamāsavānaṁ;\
-> Sabbupadhīnaṁ parikkhayāno,\
-> Sammā so loke paribbajeyya”.
+> Biết cảnh giới hiểu Pháp,\
+> Thấy rõ cạn nguồn ác;\
+> Làm hao mòn sở hữu,\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
 17\.
-> “Addhā hi bhagavā tatheva etaṁ,\
-> Yo so evaṁvihārī danto bhikkhu;\
-> Sabbasaṁyojanayogavītivatto,\
-> Sammā so loke paribbajeyyā”ti.
+> Bạch Thế Tôn đúng vậy,\
+> Tỳ kheo sống như thế;\
+> Đã thuần phục vượt qua,\
+> Mọi xiềng xích trói buộc;\
+> Vị ấy trong cuộc đời,\
+> Sống xuất gia đúng đắn.
 
-Sammāparibbājanīyasuttaṁ terasamaṁ.
+Kinh Xuất Gia Đúng Đắn là thứ mười ba.
 
-## SNP 2.14. Dhammikasutta
+<!--pg-->
+### SNP 2.14. Kinh Cư Sĩ Dhammika
+*(Dhammikasutta)*
 
-1\. Evaṁ me sutaṁ—ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho dhammiko upāsako pañcahi upāsakasatehi saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho dhammiko upāsako bhagavantaṁ gāthāhi ajjhabhāsi:
+1\. Tôi đã nghe như vầy - một thời Thế Tôn ở tại Sāvatthī, trong rừng Jeta, khu vườn của ông Anāthapiṇḍika. Khi ấy, cư sĩ Dhammika cùng với năm trăm vị cư sĩ đi đến chỗ Thế Tôn; sau khi đến thì đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, cư sĩ Dhammika nói với Thế Tôn bằng những bài kệ:
 
 2\.
-> “Pucchāmi taṁ gotama bhūripañña,\
-> Kathaṅkaro sāvako sādhu hoti;\
-> Yo vā agārā anagārameti,\
-> Agārino vā panupāsakāse.
+> Con hỏi Ngài Gotama,\
+> Bậc có trí tuệ rộng;\
+> Làm thế nào đệ tử,\
+> Trở thành người tốt lành;\
+> Dù rời nhà không nhà,\
+> Hay cư sĩ tại gia?
 
 3\.
-> Tuvañhi lokassa sadevakassa,\
-> Gatiṁ pajānāsi parāyaṇañca;\
-> Na catthi tulyo nipuṇatthadassī,\
-> Tuvañhi buddhaṁ pavaraṁ vadanti.
+> Ngài biết rõ đường đi,\
+> Và điểm tựa thế giới,\
+> Cùng với cả chư thiên;\
+> Không ai sánh bằng Ngài,\
+> Bậc thấy nghĩa tinh tế;\
+> Người gọi Ngài Phật quý.
 
 4\.
-> Sabbaṁ tuvaṁ ñāṇamavecca dhammaṁ,\
-> Pakāsesi satte anukampamāno;\
-> Vivaṭṭacchadosi samantacakkhu,\
-> Virocasi vimalo sabbaloke.
+> Thấu suốt mọi tri kiến,\
+> Ngài giảng bày Giáo pháp,\
+> Vì thương xót chúng sinh;\
+> Vén màn che mắt rộng,\
+> Sáng ngời không cấu uế,\
+> Khắp cả toàn thế gian.
 
 5\.
-> Āgañchi te santike nāgarājā,\
-> Erāvaṇo nāma jinoti sutvā;\
-> Sopi tayā mantayitvājjhagamā,\
-> Sādhūti sutvāna patītarūpo.
+> Vua rồng đến gần Ngài,\
+> Tên là Erāvaṇa,\
+> Nghe Ngài bậc Chiến Thắng;\
+> Sau khi bàn với Ngài,\
+> Cũng đạt đến hiểu biết,\
+> Nghe xong vui khen lành.
 
 6\.
-> Rājāpi taṁ vessavaṇo kuvero,\
-> Upeti dhammaṁ paripucchamāno;\
-> Tassāpi tvaṁ pucchito brūsi dhīra,\
-> So cāpi sutvāna patītarūpo.
+> Cả vua Vessavaṇa,\
+> Tức thiên vương Kuvera,\
+> Cũng đến hỏi Giáo pháp;\
+> Được hỏi Ngài trả lời,\
+> Nghe xong cũng vui lòng.
 
 7\.
-> Ye kecime titthiyā vādasīlā,\
-> Ājīvakā vā yadi vā nigaṇṭhā;\
-> Paññāya taṁ nātitaranti sabbe,\
-> Ṭhito vajantaṁ viya sīghagāmiṁ.
+> Phàm ngoại đạo thích cãi,\
+> Tà mạng hay lõa thể;\
+> Bằng trí tuệ tất cả,\
+> Không ai vượt qua Ngài;\
+> Như người đứng yên chỗ,\
+> So với người đi nhanh.
 
 8\.
-> Ye kecime brāhmaṇā vādasīlā,\
-> Vuddhā cāpi brāhmaṇā santi keci;\
-> Sabbe tayi atthabaddhā bhavanti,\
-> Ye cāpi aññe vādino maññamānā.
+> Phàm Bà-la-môn cãi,\
+> Dù các bậc già cả;\
+> Tất cả đều phụ thuộc,\
+> Vào ý nghĩa của Ngài;\
+> Cả những kẻ khác nữa,\
+> Tự hào mình biện luận.
 
 9\.
-> Ayañhi dhammo nipuṇo sukho ca,\
-> Yoyaṁ tayā bhagavā suppavutto;\
-> Tameva sabbepi sussūsamānā,\
-> Taṁ no vada pucchito buddhaseṭṭha.
+> Giáo pháp này tinh tế,\
+> Đem lại niềm an vui,\
+> Do Thế Tôn khéo giảng;\
+> Tất cả muốn lắng nghe,\
+> Được hỏi xin Phật dạy.
 
 10\.
-> Sabbepime bhikkhavo sannisinnā,\
-> Upāsakā cāpi tatheva sotuṁ;\
-> Suṇantu dhammaṁ vimalenānubuddhaṁ,\
-> Subhāsitaṁ vāsavasseva devā”.
+> Tất cả các tỳ kheo,\
+> Đang ngồi tụ hội đây,\
+> Cư sĩ cũng muốn nghe;\
+> Hãy nghe Pháp thanh tịnh,\
+> Như trời nghe Đế Thích.
 
 11\.
-> “Suṇātha me bhikkhavo sāvayāmi vo,\
-> Dhammaṁ dhutaṁ tañca carātha sabbe;\
-> Iriyāpathaṁ pabbajitānulomikaṁ,\
-> Sevetha naṁ atthadaso mutīmā.
+> Tỳ kheo hãy nghe Ta,\
+> Giảng pháp rũ phiền não,\
+> Tất cả hãy thực hành;\
+> Oai nghi hợp xuất gia,\
+> Người thấy nghĩa có trí,\
+> Hãy thân cận giữ gìn.
 
 12\.
-> No ve vikāle vicareyya bhikkhu,\
-> Gāme ca piṇḍāya careyya kāle;\
-> Akālacāriñhi sajanti saṅgā,\
-> Tasmā vikāle na caranti buddhā.
+> Tỳ kheo chớ đi sai,\
+> Giờ giấc vào trong làng;\
+> Đúng giờ đi khất thực,\
+> Đi sai giờ dính mắc;\
+> Nên chư Phật không đi,\
+> Vào những lúc phi thời.
 
 13\.
-> Rūpā ca saddā ca rasā ca gandhā,\
-> Phassā ca ye sammadayanti satte;\
-> Etesu dhammesu vineyya chandaṁ,\
-> Kālena so pavise pātarāsaṁ.
+> Hình ảnh cùng âm thanh,\
+> Vị ngon và mùi hương,\
+> Xúc chạm làm say đắm;\
+> Nhiếp phục lòng mong muốn,\
+> Trong những hiện tượng ấy;\
+> Đúng giờ đi ăn sáng.
 
 14\.
-> Piṇḍañca bhikkhu samayena laddhā,\
-> Eko paṭikkamma raho nisīde;\
-> Ajjhattacintī na mano bahiddhā,\
-> Nicchāraye saṅgahitattabhāvo.
+> Tỳ kheo nhận đồ ăn,\
+> Đúng thời rồi lui về,\
+> Ngồi một mình nơi vắng;\
+> Suy tư ở bên trong,\
+> Tâm không phóng ra ngoài;\
+> Giữ mình luôn thu thúc.
 
 15\.
-> Sacepi so sallape sāvakena,\
-> Aññena vā kenaci bhikkhunā vā;\
-> Dhammaṁ paṇītaṁ tamudāhareyya,\
-> Na pesuṇaṁ nopi parūpavādaṁ.
+> Nếu có nói chuyện cùng,\
+> Đệ tử hay ai khác,\
+> Hoặc với vị tỳ kheo;\
+> Hãy nói Pháp cao quý,\
+> Không đâm thọc chê người.
 
 16\.
-> Vādañhi eke paṭiseniyanti,\
-> Na te pasaṁsāma parittapaññe;\
-> Tato tato ne pasajanti saṅgā,\
-> Cittañhi te tattha gamenti dūre.
+> Có kẻ thích tranh cãi,\
+> Ta không khen trí hẹp;\
+> Từ đó dính mắc sinh,\
+> Khiến tâm phóng đi xa.
 
 17\.
-> Piṇḍaṁ vihāraṁ sayanāsanañca,\
-> Āpañca saṅghāṭirajūpavāhanaṁ;\
-> Sutvāna dhammaṁ sugatena desitaṁ,\
-> Saṅkhāya seve varapaññasāvako.
+> Đồ khất thực trú xứ,\
+> Chỗ nằm ngồi nước tắm,\
+> Quét bụi bẩn y tăng;\
+> Nghe Pháp bậc Thiện Thệ,\
+> Đệ tử trí suy xét,\
+> Rồi mới đem sử dụng.
 
 18\.
-> Tasmā hi piṇḍe sayanāsane ca,\
-> Āpe ca saṅghāṭirajūpavāhane;\
-> Etesu dhammesu anūpalitto,\
-> Bhikkhu yathā pokkhare vāribindu.
+> Do đó đồ khất thực,\
+> Chỗ nằm ngồi nước tắm,\
+> Quét bụi bẩn y tăng;\
+> Không dính mắc chúng ấy,\
+> Như nước trên lá sen.
 
 19\.
-> Gahaṭṭhavattaṁ pana vo vadāmi,\
-> Yathākaro sāvako sādhu hoti;\
-> Na hesa labbhā sapariggahena,\
-> Phassetuṁ yo kevalo bhikkhudhammo.
+> Nay Ta nói bổn phận,\
+> Của người sống tại gia,\
+> Làm sao thành đệ tử,\
+> Tốt lành trong Giáo pháp;\
+> Vì người còn gia sản,\
+> Không thể chứng trọn vẹn,\
+> Pháp của bậc tỳ kheo.
 
 20\.
-> Pāṇaṁ na hane na ca ghātayeyya,\
-> Na cānujaññā hanataṁ paresaṁ;\
-> Sabbesu bhūtesu nidhāya daṇḍaṁ,\
-> Ye thāvarā ye ca tasā santi loke.
+> Không giết không bảo giết,\
+> Không thuận khi người giết;\
+> Bỏ gậy gộc bạo lực,\
+> Với tất cả chúng sinh,\
+> Kẻ mạnh hay kẻ yếu,\
+> Hiện có ở trên đời.
 
 21\.
-> Tato adinnaṁ parivajjayeyya,\
-> Kiñci kvaci sāvako bujjhamāno;\
-> Na hāraye harataṁ nānujaññā,\
-> Sabbaṁ adinnaṁ parivajjayeyya.
+> Rồi tránh vật không cho,\
+> Bất cứ gì ở đâu,\
+> Đệ tử biết rõ ràng;\
+> Không bảo không thuận lấy,\
+> Tránh mọi vật không cho.
 
 22\.
-> Abrahmacariyaṁ parivajjayeyya,\
-> Aṅgārakāsuṁ jalitaṁva viññū;\
-> Asambhuṇanto pana brahmacariyaṁ,\
-> Parassa dāraṁ na atikkameyya.
+> Bậc trí tránh tà dâm,\
+> Như tránh hố than hồng;\
+> Nếu không sống trọn vẹn,\
+> Đời phạm hạnh trong sạch;\
+> Đừng xâm phạm vợ người.
 
 23\.
-> Sabhaggato vā parisaggato vā,\
-> Ekassa veko na musā bhaṇeyya;\
-> Na bhāṇaye bhaṇataṁ nānujaññā,\
-> Sabbaṁ abhūtaṁ parivajjayeyya.
+> Ra giữa hội giữa chúng,\
+> Hay nói riêng một người,\
+> Đừng nói lời dối trá;\
+> Không bảo không thuận dối,\
+> Tránh mọi lời không thật.
 
 24\.
-> Majjañca pānaṁ na samācareyya,\
-> Dhammaṁ imaṁ rocaye yo gahaṭṭho;\
-> Na pāyaye pivataṁ nānujaññā,\
-> Ummādanantaṁ iti naṁ viditvā.
+> Đừng uống các chất say,\
+> Gia chủ thích Pháp này;\
+> Không chuốc không thuận uống,\
+> Biết kết cục điên cuồng.
 
 25\.
-> Madā hi pāpāni karonti bālā,\
-> Kārenti caññepi jane pamatte;\
-> Etaṁ apuññāyatanaṁ vivajjaye,\
-> Ummādanaṁ mohanaṁ bālakantaṁ.
+> Vì say kẻ ngu làm,\
+> Những hành động tội lỗi,\
+> Khiến người khác sao nhãng;\
+> Hãy tránh nguồn vô phước,\
+> Làm điên loạn mê mờ,\
+> Chỉ kẻ ngu ưa thích.
 
 26\.
-> Pāṇaṁ na hane na cādinnamādiye,\
-> Musā na bhāse na ca majjapo siyā;\
-> Abrahmacariyā virameyya methunā,\
-> Rattiṁ na bhuñjeyya vikālabhojanaṁ.
+> Không giết không lấy trộm,\
+> Không nói dối uống rượu;\
+> Kiêng tránh việc giao hợp,\
+> Đêm không ăn phi thời.
 
 27\.
-> Mālaṁ na dhāre na ca gandhamācare,\
-> Mañce chamāyaṁ va sayetha santhate;\
-> Etañhi aṭṭhaṅgikamāhuposathaṁ,\
-> Buddhena dukkhantagunā pakāsitaṁ.
+> Không đeo hoa xức hương,\
+> Nằm giường thấp chiếu đất;\
+> Gọi là trai giới tám,\
+> Do đức Phật bậc đến,\
+> Tận cùng khổ chỉ bày.
 
 28\.
-> Tato ca pakkhassupavassuposathaṁ,\
-> Cātuddasiṁ pañcadasiñca aṭṭhamiṁ;\
-> Pāṭihāriyapakkhañca pasannamānaso,\
-> Aṭṭhaṅgupetaṁ susamattarūpaṁ.
+> Rồi giữ ngày trai giới,\
+> Mười bốn và mười lăm,\
+> Ngày mồng tám mỗi nửa,\
+> Cùng những kỳ đặc biệt;\
+> Với tâm đầy trong sáng,\
+> Đủ tám chi trọn vẹn.
 
 29\.
-> Tato ca pāto upavutthuposatho,\
-> Annena pānena ca bhikkhusaṅghaṁ;\
-> Pasannacitto anumodamāno,\
-> Yathārahaṁ saṁvibhajetha viññū.
+> Sáng hôm sau giữ giới,\
+> Bậc trí tâm trong sáng,\
+> Hoan hỷ đem cơm nước;\
+> Cúng dường chúng tỳ kheo,\
+> Tùy theo khả năng mình.
 
 30\.
-> Dhammena mātāpitaro bhareyya,\
-> Payojaye dhammikaṁ so vaṇijjaṁ;\
-> Etaṁ gihī vattayamappamatto,\
-> Sayampabhe nāma upeti deve”ti.
+> Đúng pháp nuôi cha mẹ,\
+> Làm nghề buôn chân chính;\
+> Người tại gia siêng giữ,\
+> Những bổn phận như vậy;\
+> Sẽ sinh lên cõi trời,\
+> Tên là Tự Phát Sáng.
 
-Dhammikasuttaṁ cuddasamaṁ.
+Kinh Cư Sĩ Dhammika là thứ mười bốn.
 
-Cūḷavaggo dutiyo.
+Chương Nhỏ là thứ hai.
 
-31\. Tassuddānaṁ
+31\. Kệ tóm tắt của chương:
 
-> Ratanāmagandho hiri ca,\
-> maṅgalaṁ sūcilomena;\
-> Dhammacariyañca brāhmaṇo,\
-> nāvā kiṁsīlamuṭṭhānaṁ.
+> Châu Báu, Mùi Hôi Tanh,\
+> Hổ Thẹn cùng Điềm Lành,\
+> Với dạ-xoa Lông Nhọn;\
+> Sống Đúng Pháp, Phạm Chí,\
+> Con Thuyền, Phẩm Hạnh Gì,\
+> Cùng bài Hãy Đứng Dậy.
 
 32\.
-> Rāhulo puna kappo ca,\
-> paribbājaniyaṁ tathā;\
-> Dhammikañca viduno āhu,\
-> cūḷavagganti cuddasāti.
+> Rāhula, Kappa,\
+> Cũng vậy Xuất Gia Đúng;\
+> Và bài Dhammika,\
+> Bậc trí gọi Chương Nhỏ,\
+> Gồm mười bốn bài kinh.
+
+<!--pg-->
+### Bối cảnh kinh:
+Chương Nhỏ (*Cūḷavagga*) là chương thứ hai của Kinh Tập (*Suttanipāta*), gồm 14 bài kinh ngắn (từ SNP 2.1 đến SNP 2.14) phản ánh lớp giáo pháp sơ kỳ giàu tính thực tiễn. Nội dung chương này bao gồm các bài kệ chúc lành và hộ trì nổi tiếng (*Ratanasutta*, *Maṅgalasutta*), sự tái định nghĩa các khái niệm thanh tịnh và truyền thống Bà-la-môn dưới góc nhìn đạo đức thực chất (*Āmagandhasutta*, *Brāhmaṇadhammikasutta*), cũng như những hướng dẫn trực tiếp về phẩm hạnh và lối sống cho cả người xuất gia lẫn người cư sĩ tại gia (*Rāhulasutta*, *Sammāparibbājanīyasutta*, *Dhammikasutta*).
+
+### Ghi chú tài liệu:
+- Kinh Châu Báu (SNP 2.1) và Kinh Điềm Lành (SNP 2.4) cũng được lưu giữ nguyên vẹn trong Tiểu Tụng ([Kp 6](/l?q=kp-6) và [Kp 5](/l?q=kp-5)).
+- Kinh Dạ-xoa Sūciloma (SNP 2.5) có bản tương đương trong Tương Ưng Bộ ([SN 10.3](/l?q=sn-10.3)).
+- Kinh Truyền Thống Bà-la-môn (SNP 2.7) phê phán sự suy thoái của giai cấp Bà-la-môn khi chuyển từ lối sống khổ hạnh sang việc bày đặt tế lễ sát sinh vì lòng tham tài sản, có bối cảnh lịch sử tương đồng với Kinh Kūṭadanta ([DN 5](/l?q=dn-5)) và Kinh Khởi Thế Nhân Bổn ([DN 27](/l?q=dn-27)).
+- Kinh Nigrodhakappa (SNP 2.12) gắn liền với hình ảnh tôn giả Vaṅgīsa - vị đệ tử có tài ứng tác kệ thơ xuất hiện nhiều trong Tương Ưng Bộ ([SN 8](/l?q=sn-8)) và Trưởng Lão Tăng Kệ ([Thag 21](/l?q=thag-21)).
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| [!] āmagandha | mùi hôi tanh | uế khí / tinh vị | Nghĩa đen là mùi thịt sống hoặc mùi hôi thối; được Đức Phật dùng ẩn dụ cho những hành vi bất thiện, suy đồi đạo đức thay vì thức ăn vật lý. |
+| [!] maṅgala | điềm lành | hạnh phúc / điềm lành | Trong bối cảnh Ấn Độ cổ đại, `maṅgala` là những dấu hiệu mê tín báo trước vận may; Đức Phật chuyển hóa thành các hành động sống thiện lành và thực tế. |
+| phassa / samphassa | Xúc | xúc | Sự tiếp xúc, đụng chạm trực tiếp của giác quan. |
+| [!] brāhmaṇadhamma | truyền thống của người Bà-la-môn | phạm chí pháp / bà-la-môn pháp | Những chuẩn mực đạo đức và lối sống nguyên thủy của các bậc ẩn sĩ Bà-la-môn thời xưa. |
+| manasikāra / manasi karoti | suy nghĩ đến | tác ý | Hướng tâm chú ý, suy xét kỹ lưỡng. |
+| [!] paṭisallīna | tĩnh tâm suy ngẫm | độc cư thiền tịnh | Trạng thái rút lui vào chỗ vắng vẻ để lắng tâm quán sát. |
+| [!] parivitakka | sự suy xét | tầm tư | Sự trăn trở, suy nghĩ khởi lên trong tâm. |
+| [!] parinibbuta | đã hoàn toàn lắng dịu | đã bát-niết-bàn / viên tịch | Trạng thái dập tắt hoàn toàn lửa phiền não; chỉ sự giải thoát cuối cùng của bậc A-la-hán khi qua đời. |
+

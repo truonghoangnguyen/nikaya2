@@ -1,250 +1,280 @@
-# 1. Paṭhamavagga
+---
+description: Mười bài kinh đầu tiên của Chương Một Pháp (Itivuttaka) dạy về việc nhận diện, hiểu biết trọn vẹn và từ bỏ từng trạng thái tâm lý bất thiện đơn lẻ (tham, sân, si, giận dữ, giả dối, ngạo mạn) và "tất cả" để chứng quả Bất hoàn và chấm dứt khổ đau.
+---
 
-## ITI 1. Ekakanipāta
+# MỘT PHÁP
+*(Ekakanipāta)*
 
-0\. Paṭhamavagga
+<!--pg-->
+## PHẨM THỨ NHẤT
+*(Paṭhamavagga)*
 
-## Lobhasutta
+### ITI 1. Kinh Ám Ảnh Dễ Chịu
+*(Lobhasutta - Chương Một Pháp, Phẩm Thứ Nhất)*
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-2\. “Ekadhammaṁ, bhikkhave, pajahatha; ahaṁ vo pāṭibhogo anāgāmitāya. Katamaṁ ekadhammaṁ? Lobhaṁ, bhikkhave, ekadhammaṁ pajahatha; ahaṁ vo pāṭibhogo anāgāmitāyā”ti.
+2\.
+– Này các tỳ kheo, hãy *từ bỏ* (đoạn trừ / pajahatha) một *Điều* (pháp / dhammaṁ); Ta là *người bảo đảm* (bảo chứng / pāṭibhogo) cho các ông về *trạng thái không quay lại [cõi này nữa]* (quả Bất hoàn / anāgāmitāya). Một *điều* nào? Này các tỳ kheo, hãy *từ bỏ* một *điều* là *ám ảnh dễ chịu* (tham / lobhaṁ); Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*.
 
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Yena lobhena luddhāse,\
-> sattā gacchanti duggatiṁ;\
-> Taṁ lobhaṁ sammadaññāya,\
-> pajahanti vipassino;\
-> Pahāya na punāyanti,\
-> imaṁ lokaṁ kudācanan”ti.
-
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Paṭhamaṁ.
-
-## ITI 2. Ekakanipāta
-
-0\. Paṭhamavagga
-
-## Dosasutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Ekadhammaṁ, bhikkhave, pajahatha; ahaṁ vo pāṭibhogo anāgāmitāya. Katamaṁ ekadhammaṁ? Dosaṁ, bhikkhave, ekadhammaṁ pajahatha; ahaṁ vo pāṭibhogo anāgāmitāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
 
 3\.
-> “Yena dosena duṭṭhāse,\
-> sattā gacchanti duggatiṁ;\
-> Taṁ dosaṁ sammadaññāya,\
-> pajahanti vipassino;\
-> Pahāya na punāyanti,\
-> imaṁ lokaṁ kudācanan”ti.
+> Bị lòng tham trói buộc,\
+> Chúng sinh đi cõi dữ;\
+> Hiểu đúng lòng tham ấy,\
+> Người thấy rõ từ bỏ;\
+> Từ bỏ, không quay lại,\
+> Đời này thêm lần nào.
 
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Dutiyaṁ.
+Bài thứ nhất.
 
-## ITI 3. Ekakanipāta
+<!--pg-->
+### ITI 2. Kinh Ám Ảnh Khó Chịu
+*(Dosasutta - Chương Một Pháp, Phẩm Thứ Nhất)*
 
-0\. Paṭhamavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Mohasutta
+2\.
+– Này các tỳ kheo, hãy *từ bỏ* một *điều*; Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*. Một *điều* nào? Này các tỳ kheo, hãy *từ bỏ* một *điều* là *ám ảnh khó chịu* (sân / dosaṁ); Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Ekadhammaṁ, bhikkhave, pajahatha; ahaṁ vo pāṭibhogo anāgāmitāya. Katamaṁ ekadhammaṁ? Mohaṁ, bhikkhave, ekadhammaṁ pajahatha; ahaṁ vo pāṭibhogo anāgāmitāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Yena mohena mūḷhāse,\
-> sattā gacchanti duggatiṁ;\
-> Taṁ mohaṁ sammadaññāya,\
-> pajahanti vipassino;\
-> Pahāya na punāyanti,\
-> imaṁ lokaṁ kudācanan”ti.
-
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Tatiyaṁ.
-
-## ITI 4. Ekakanipāta
-
-0\. Paṭhamavagga
-
-## Kodhasutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Ekadhammaṁ, bhikkhave, pajahatha; ahaṁ vo pāṭibhogo anāgāmitāya. Katamaṁ ekadhammaṁ? Kodhaṁ, bhikkhave, ekadhammaṁ pajahatha; ahaṁ vo pāṭibhogo anāgāmitāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
 
 3\.
-> “Yena kodhena kuddhāse,\
-> sattā gacchanti duggatiṁ;\
-> Taṁ kodhaṁ sammadaññāya,\
-> pajahanti vipassino;\
-> Pahāya na punāyanti,\
-> imaṁ lokaṁ kudācanan”ti.
+> Bị lòng sân độc hại,\
+> Chúng sinh đi cõi dữ;\
+> Hiểu đúng lòng sân ấy,\
+> Người thấy rõ từ bỏ;\
+> Từ bỏ, không quay lại,\
+> Đời này thêm lần nào.
 
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Catutthaṁ.
+Bài thứ hai.
 
-## ITI 5. Ekakanipāta
+<!--pg-->
+### ITI 3. Kinh Sự U Mê
+*(Mohasutta - Chương Một Pháp, Phẩm Thứ Nhất)*
 
-0\. Paṭhamavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Makkhasutta
+2\.
+– Này các tỳ kheo, hãy *từ bỏ* một *điều*; Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*. Một *điều* nào? Này các tỳ kheo, hãy *từ bỏ* một *điều* là *sự u mê* (si / mohaṁ); Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Ekadhammaṁ, bhikkhave, pajahatha; ahaṁ vo pāṭibhogo anāgāmitāya. Katamaṁ ekadhammaṁ? Makkhaṁ, bhikkhave, ekadhammaṁ pajahatha; ahaṁ vo pāṭibhogo anāgāmitāyā”ti. Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Yena makkhena makkhāse,\
-> sattā gacchanti duggatiṁ;\
-> Taṁ makkhaṁ sammadaññāya,\
-> pajahanti vipassino;\
-> Pahāya na punāyanti,\
-> imaṁ lokaṁ kudācanan”ti.
-
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Pañcamaṁ.
-
-## ITI 6. Ekakanipāta
-
-0\. Paṭhamavagga
-
-## Mānasutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Ekadhammaṁ, bhikkhave, pajahatha; ahaṁ vo pāṭibhogo anāgāmitāya. Katamaṁ ekadhammaṁ? Mānaṁ, bhikkhave, ekadhammaṁ pajahatha; ahaṁ vo pāṭibhogo anāgāmitāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
 
 3\.
-> “Yena mānena mattāse,\
-> sattā gacchanti duggatiṁ;\
-> Taṁ mānaṁ sammadaññāya,\
-> pajahanti vipassino;\
-> Pahāya na punāyanti,\
-> imaṁ lokaṁ kudācanan”ti.
+> Bị u mê che mờ,\
+> Chúng sinh đi cõi dữ;\
+> Hiểu đúng u mê ấy,\
+> Người thấy rõ từ bỏ;\
+> Từ bỏ, không quay lại,\
+> Đời này thêm lần nào.
 
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Chaṭṭhaṁ.
+Bài thứ ba.
 
-## ITI 7. Ekakanipāta
+<!--pg-->
+### ITI 4. Kinh Cơn Giận Dữ
+*(Kodhasutta - Chương Một Pháp, Phẩm Thứ Nhất)*
 
-0\. Paṭhamavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Sabbapariññāsutta
+2\.
+– Này các tỳ kheo, hãy *từ bỏ* một *điều*; Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*. Một *điều* nào? Này các tỳ kheo, hãy *từ bỏ* một *điều* là *cơn giận dữ* (phẫn nộ / kodhaṁ); Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Sabbaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. Sabbañca kho, bhikkhave, abhijānaṁ parijānaṁ tattha cittaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Yo sabbaṁ sabbato ñatvā,\
-> sabbatthesu na rajjati;\
-> Sa ve sabbapariññā so,\
-> sabbadukkhamupaccagā”ti.
-
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Sattamaṁ.
-
-## ITI 8. Ekakanipāta
-
-0\. Paṭhamavagga
-
-## Mānapariññāsutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Mānaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. Mānañca kho, bhikkhave, abhijānaṁ parijānaṁ tattha cittaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
 
 3\.
-> “Mānupetā ayaṁ pajā,\
-> mānaganthā bhave ratā;\
-> Mānaṁ aparijānantā,\
-> āgantāro punabbhavaṁ.
+> Bị giận dữ chi phối,\
+> Chúng sinh đi cõi dữ;\
+> Hiểu đúng giận dữ ấy,\
+> Người thấy rõ từ bỏ;\
+> Từ bỏ, không quay lại,\
+> Đời này thêm lần nào.
+
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
+
+Bài thứ tư.
+
+<!--pg-->
+### ITI 5. Kinh Sự Che Đậy Giả Dối
+*(Makkhasutta - Chương Một Pháp, Phẩm Thứ Nhất)*
+
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
+
+2\.
+– Này các tỳ kheo, hãy *từ bỏ* một *điều*; Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*. Một *điều* nào? Này các tỳ kheo, hãy *từ bỏ* một *điều* là *sự che đậy giả dối* (phú / makkhaṁ); Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*.
+
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
+
+3\.
+> Bị giả dối che mờ,\
+> Chúng sinh đi cõi dữ;\
+> Hiểu đúng giả dối ấy,\
+> Người thấy rõ từ bỏ;\
+> Từ bỏ, không quay lại,\
+> Đời này thêm lần nào.
+
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
+
+Bài thứ năm.
+
+<!--pg-->
+### ITI 6. Kinh Ngạo Mạn
+*(Mānasutta - Chương Một Pháp, Phẩm Thứ Nhất)*
+
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
+
+2\.
+– Này các tỳ kheo, hãy *từ bỏ* một *điều*; Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*. Một *điều* nào? Này các tỳ kheo, hãy *từ bỏ* một *điều* là *ngạo mạn* (mạn / mānaṁ); Ta là *người bảo đảm* cho các ông về *trạng thái không quay lại [cõi này nữa]*.
+
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
+
+3\.
+> Bị ngạo mạn mê say,\
+> Chúng sinh đi cõi dữ;\
+> Hiểu đúng ngạo mạn ấy,\
+> Người thấy rõ từ bỏ;\
+> Từ bỏ, không quay lại,\
+> Đời này thêm lần nào.
+
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
+
+Bài thứ sáu.
+
+<!--pg-->
+### ITI 7. Kinh Hiểu Biết Trọn Vẹn Tất Cả
+*(Sabbapariññāsutta - Chương Một Pháp, Phẩm Thứ Nhất)*
+
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
+
+2\.
+– Này các tỳ kheo, người không *hiểu toàn bộ* (thắng tri / abhijānaṁ), không *hiểu biết trọn vẹn* (liễu tri / parijānaṁ) *tất cả* (nhất thiết / sabbaṁ), không làm cho tâm *cạn đắm nhiễm* (ly tham / virājayaṁ) ở đó [và] không *từ bỏ* [nó], thì không có khả năng [đạt đến] sự *cạn kiệt* (đoạn tận / khayāya) *đau khổ* (khổ / dukkha). Trái lại, này các tỳ kheo, người *hiểu toàn bộ*, *hiểu biết trọn vẹn* *tất cả*, làm cho tâm *cạn đắm nhiễm* ở đó [và] *từ bỏ* [nó], thì có khả năng [đạt đến] sự *cạn kiệt* *đau khổ*.
+
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
+
+3\.
+> Ai biết rõ tất cả,\
+> Không đắm nhiễm mọi điều;\
+> Hiểu trọn vẹn tất cả,\
+> Vượt qua mọi khổ đau.
+
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
+
+Bài thứ bảy.
+
+<!--pg-->
+### ITI 8. Kinh Hiểu Biết Trọn Vẹn Ngạo Mạn
+*(Mānapariññāsutta - Chương Một Pháp, Phẩm Thứ Nhất)*
+
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
+
+2\.
+– Này các tỳ kheo, người không *hiểu toàn bộ*, không *hiểu biết trọn vẹn* *ngạo mạn*, không làm cho tâm *cạn đắm nhiễm* ở đó [và] không *từ bỏ* [nó], thì không có khả năng [đạt đến] sự *cạn kiệt* *đau khổ*. Trái lại, này các tỳ kheo, người *hiểu toàn bộ*, *hiểu biết trọn vẹn* *ngạo mạn*, làm cho tâm *cạn đắm nhiễm* ở đó [và] *từ bỏ* [nó], thì có khả năng [đạt đến] sự *cạn kiệt* *đau khổ*.
+
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
+
+3\.
+> Chúng sinh mang ngạo mạn,\
+> Trói buộc, thích hiện hữu;\
+> Không hiểu rõ ngạo mạn,\
+> Phải quay lại tái sinh.
 
 4\.
-> Ye ca mānaṁ pahantvāna,\
-> vimuttā mānasaṅkhaye;\
-> Te mānaganthābhibhuno,\
-> sabbadukkhamupaccagun”ti.
+> Ai từ bỏ ngạo mạn,\
+> Giải thoát, hết kiêu căng;\
+> Vượt trói buộc ngạo mạn,\
+> Vượt qua mọi khổ đau.
 
-5\. Ayampi attho vutto bhagavatā, iti me sutanti.
+5\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Aṭṭhamaṁ.
+Bài thứ tám.
 
-## ITI 9. Ekakanipāta
+<!--pg-->
+### ITI 9. Kinh Hiểu Biết Trọn Vẹn Ám Ảnh Dễ Chịu
+*(Lobhapariññāsutta - Chương Một Pháp, Phẩm Thứ Nhất)*
 
-0\. Paṭhamavagga
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-## Lobhapariññāsutta
+2\.
+– Này các tỳ kheo, người không *hiểu toàn bộ*, không *hiểu biết trọn vẹn* *ám ảnh dễ chịu*, không làm cho tâm *cạn đắm nhiễm* ở đó [và] không *từ bỏ* [nó], thì không có khả năng [đạt đến] sự *cạn kiệt* *đau khổ*. Trái lại, này các tỳ kheo, người *hiểu toàn bộ*, *hiểu biết trọn vẹn* *ám ảnh dễ chịu*, làm cho tâm *cạn đắm nhiễm* ở đó [và] *từ bỏ* [nó], thì có khả năng [đạt đến] sự *cạn kiệt* *đau khổ*.
 
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Lobhaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. Lobhañca kho, bhikkhave, abhijānaṁ parijānaṁ tattha cittaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
-
-3\.
-> “Yena lobhena luddhāse,\
-> sattā gacchanti duggatiṁ;\
-> Taṁ lobhaṁ sammadaññāya,\
-> pajahanti vipassino;\
-> Pahāya na punāyanti,\
-> imaṁ lokaṁ kudācanan”ti.
-
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
-
-Navamaṁ.
-
-## ITI 10. Ekakanipāta
-
-0\. Paṭhamavagga
-
-## Dosapariññāsutta
-
-1\. Vuttañhetaṁ bhagavatā vuttamarahatāti me sutaṁ:
-
-2\. “Dosaṁ, bhikkhave, anabhijānaṁ aparijānaṁ tattha cittaṁ avirājayaṁ appajahaṁ abhabbo dukkhakkhayāya. Dosañca kho, bhikkhave, abhijānaṁ parijānaṁ tattha cittaṁ virājayaṁ pajahaṁ bhabbo dukkhakkhayāyā”ti.
-
-Etamatthaṁ bhagavā avoca. Tatthetaṁ iti vuccati:
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
 
 3\.
-> “Yena dosena duṭṭhāse,\
-> sattā gacchanti duggatiṁ;\
-> Taṁ dosaṁ sammadaññāya,\
-> pajahanti vipassino;\
-> Pahāya na punāyanti,\
-> imaṁ lokaṁ kudācanan”ti.
+> Bị lòng tham trói buộc,\
+> Chúng sinh đi cõi dữ;\
+> Hiểu đúng lòng tham ấy,\
+> Người thấy rõ từ bỏ;\
+> Từ bỏ, không quay lại,\
+> Đời này thêm lần nào.
 
-4\. Ayampi attho vutto bhagavatā, iti me sutanti.
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
 
-Dasamaṁ.
+Bài thứ chín.
 
-Pāṭibhogavaggo paṭhamo.
+<!--pg-->
+### ITI 10. Kinh Hiểu Biết Trọn Vẹn Ám Ảnh Khó Chịu
+*(Dosapariññāsutta - Chương Một Pháp, Phẩm Thứ Nhất)*
 
-5\. Tassuddānaṁ
+1\. Điều này đã được Thế Tôn nói đến, được bậc A-la-hán nói đến, [và] tôi đã nghe như vầy:
 
-> Rāgadosā atha moho,\
-> Kodhamakkhā mānaṁ sabbaṁ;\
-> Mānato rāgadosā puna dve,\
-> Pakāsitā vaggamāhu paṭhamanti.
+2\.
+– Này các tỳ kheo, người không *hiểu toàn bộ*, không *hiểu biết trọn vẹn* *ám ảnh khó chịu*, không làm cho tâm *cạn đắm nhiễm* ở đó [và] không *từ bỏ* [nó], thì không có khả năng [đạt đến] sự *cạn kiệt* *đau khổ*. Trái lại, này các tỳ kheo, người *hiểu toàn bộ*, *hiểu biết trọn vẹn* *ám ảnh khó chịu*, làm cho tâm *cạn đắm nhiễm* ở đó [và] *từ bỏ* [nó], thì có khả năng [đạt đến] sự *cạn kiệt* *đau khổ*.
+
+Thế Tôn đã nói ý nghĩa này. Ở đó, điều này được nói đến như sau:
+
+3\.
+> Bị lòng sân độc hại,\
+> Chúng sinh đi cõi dữ;\
+> Hiểu đúng lòng sân ấy,\
+> Người thấy rõ từ bỏ;\
+> Từ bỏ, không quay lại,\
+> Đời này thêm lần nào.
+
+4\. Ý nghĩa này cũng đã được Thế Tôn nói đến, [và] tôi đã nghe như vầy.
+
+Bài thứ mười.
+
+Phẩm Bảo Đảm thứ nhất.
+
+5\. Kệ tóm tắt của phẩm ấy:
+
+> Tham, sân rồi đến si,\
+> Giận, giả dối, mạn, tất;\
+> Sau mạn lại tham, sân,\
+> Nói xong phẩm thứ nhất.
+
+<!--pg-->
+### Bối cảnh kinh:
+Mười bài kinh đầu tiên thuộc Chương Một Pháp (*Ekakanipāta*), Phẩm Thứ Nhất (*Paṭhamavagga*) của Kinh Phật Thuyết Như Vậy (*Itivuttaka*). Nội dung xoay quanh việc nhận diện, hiểu biết trọn vẹn và từ bỏ từng trạng thái tâm lý bất thiện đơn lẻ (ám ảnh dễ chịu, ám ảnh khó chịu, u mê, giận dữ, che đậy giả dối, ngạo mạn) cũng như "tất cả" các hiện tượng trong phạm vi nhận thức, qua đó chứng đạt trạng thái không còn quay lại cõi dục (Bất hoàn) và làm cạn kiệt mọi đau khổ.
+
+### Ghi chú tài liệu:
+- Tập *Itivuttaka* có cấu trúc đặc trưng gồm phần văn xuôi mở đầu và kết thúc xác nhận trực tiếp lời Phật dạy (*"Vuttañhetaṁ bhagavatā..."*), kèm theo kệ tụng trùng tuyên. Theo truyền thống Luật tạng và chú giải, bộ kinh này do nữ cư sĩ Khujjuttarā nghe trực tiếp từ Đức Phật tại Kosambī rồi thuật lại cho hoàng hậu Sāmāvatī cùng 500 thị nữ. Bản dịch Hán tương đương là *Bổn Sự Kinh* (本事經 - T765) do Huyền Trang dịch.
+- Chủ đề "từ bỏ một điều để Ta bảo đảm quả Bất hoàn" trong các kinh từ ITI 1 đến ITI 6 có cấu trúc tương đồng với nhóm kinh trong Chương Một Pháp của Tăng Chi Bộ ([AN 1](/l?q=an-1)).
+- Kinh số 7 (*Sabbapariññāsutta*) có nội dung văn xuôi tương đương trực tiếp với Kinh Tất Cả trong Tương Ưng Bộ ([SN 35.26](/l?q=sn-35.26) - *Paṭhamaaparijānasutta*).
+
+### Bảng thuật ngữ trong bài
+
+| Thuật ngữ Pāḷi | Từ mới (Hiện đại) | Từ cũ (Hán-Việt) | Ghi chú |
+| :--- | :--- | :--- | :--- |
+| dhamma | Điều | pháp | Chỉ một hiện tượng hoặc trạng thái tâm lý cụ thể. |
+| pajahati | từ bỏ | đoạn trừ | |
+| [!] pāṭibhogo | người bảo đảm | bảo chứng | Từ gốc `paṭi` + `bhuj`, nghĩa là người đứng ra cam kết, bảo lãnh pháp lý cho một kết quả. |
+| [!] anāgāmitāya | trạng thái không quay lại [cõi này nữa] | quả Bất hoàn | Chỉ bậc A-na-hàm, người đã đoạn trừ 5 hạ phần kiết sử nên không còn tái sinh trở lại cõi Dục. |
+| lobha | ám ảnh dễ chịu | tham | |
+| dosa | ám ảnh khó chịu | sân | |
+| moha | sự u mê | si | |
+| [!] kodha | cơn giận dữ | phẫn nộ | Trạng thái bùng phát của sự chống đối/nóng giận tức thời. |
+| [!] makkha | sự che đậy giả dối | phú | Gốc từ `mrakṣ` (bôi xóa, che lấp); chỉ tâm lý xóa bỏ công ơn của người khác hoặc che giấu lỗi lầm của bản thân. |
+| māna | ngạo mạn | mạn | |
+| [!] sabba | tất cả | nhất thiết | Trong Nikāya ([SN 35.23](/l?q=sn-35.23)), "tất cả" chỉ toàn bộ hệ thống trải nghiệm qua 6 giác quan và 6 đối tượng của chúng. |
+| abhijānāti | hiểu toàn bộ | thắng tri | |
+| pariññāta / parijānaṁ | hiểu biết trọn vẹn | liễu tri | |
+| virāgā / virājayaṁ | cạn đắm nhiễm | ly tham | |
+| khaya | cạn kiệt | đoạn tận | |
+| dukkha | đau khổ | khổ | |

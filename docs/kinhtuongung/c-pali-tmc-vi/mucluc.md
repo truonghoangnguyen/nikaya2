@@ -1,7 +1,4 @@
----
-title: Mục lục
----
-
+- [SNC home](/kinhtuongung/c-pali-tmc-vi/snc-ex)
 - [SNC 1. TƯƠNG ƯNG CHƯ THIÊN](/kinhtuongung/c-pali-tmc-vi/snc-01-tuong-ung-chu-thien)
 - [SNC 2. TƯƠNG ƯNG THIÊN TỬ](/kinhtuongung/c-pali-tmc-vi/snc-02-tuong-ung-thien-tu)
 - [SNC 3. TƯƠNG ƯNG KOSALA](/kinhtuongung/c-pali-tmc-vi/snc-03-tuong-ung-kosala)
@@ -57,4 +54,3 @@ title: Mục lục
 - [SNC 53. TƯƠNG ƯNG THIỀN](/kinhtuongung/c-pali-tmc-vi/snc-53-tuong-ung-thien)
 - [SNC 54. TƯƠNG ƯNG HƠI THỞ VÔ, HƠI THỞ RA](/kinhtuongung/c-pali-tmc-vi/snc-54-tuong-ung-hoi-tho-vo-hoi-tho-ra)
 - [SNC 55. TƯƠNG ƯNG DỰ LƯU](/kinhtuongung/c-pali-tmc-vi/snc-55-tuong-ung-du-luu)
-- [SNC 56. TƯƠNG ƯNG SỰ THẬT](/kinhtuongung/c-pali-tmc-vi/snc-56-tuong-ung-su-that)

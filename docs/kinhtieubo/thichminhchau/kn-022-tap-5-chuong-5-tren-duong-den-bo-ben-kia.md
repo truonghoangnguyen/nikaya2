@@ -10,6 +10,7 @@ title: Kinh Tập Suttanipāta - Chương Năm – Trên Ðường Ðến Bờ B
 
 # Chương Năm – Trên Ðường Ðến Bờ Bên Kia
 
+<!--pg-->
 ### **(I) Bài kệ mở đầu (Sn 190)** {#1_}
 
 976. Từ thành phố đẹp đẽ, {#976}\
@@ -407,6 +408,7 @@ Hỏi câu hỏi thứ nhất,\
 Chính ngay tại chỗ ấy,\
 Kệ mở đầu đã xong.
 
+<!--pg-->
 ### **(II) Câu hỏi của thanh niên A-ji-ta (Sn 197)** {#2_}
 
 Ajita:
@@ -488,6 +490,7 @@ Thiện xảo trong các pháp,\
 Tỷ-kheo giữ chánh niệm,\
 Sống đời sống xuất gia.
 
+<!--pg-->
 ### **(III) Các câu hỏi của thanh niên Tissametmeyya (Sn 199)** {#3_}
 
 Yissa:
@@ -518,6 +521,7 @@ Vị ấy, ở đời này,\
 Vượt khỏi sự thêu dệt,\
 Các ái nhiễm tham muốn.
 
+<!--pg-->
 ### **(IV) Câu hỏi của thanh niên Punnaka (Sn 199)** {#4_}
 
 Punnaka:
@@ -603,6 +607,7 @@ Không phiền não, không cầu,\
 Vị ấy vượt già chết,\
 Ta nói lên như vậy.
 
+<!--pg-->
 ### **(V) Câu hỏi của thanh niên Mettagu (Sn 201)** {#5_}
 
 Mettagu:
@@ -734,6 +739,7 @@ Không phiền lụy không cầu,\
 Ta nói rằng vị ấy,\
 Ðã vượt khỏi sanh già.
 
+<!--pg-->
 ### **(VI) Câu hỏi của thanh niên Dhotaka (Sn 204)** {#6_}
 
 Dhotaka:
@@ -821,6 +827,7 @@ Tham ái này ở đời,\
 Chớ tạo nên khát ái\
 Với hữu và phi hữu.
 
+<!--pg-->
 ### **(VII) Câu hỏi của thanh niên Upasiva (Sn 205)** {#7_}
 
 Upasiva:
@@ -921,6 +928,7 @@ Khi tất cả các pháp,\
 Mọi con đường nói phô,\
 Ðược nhổ lên sạch hết.
 
+<!--pg-->
 ### **(VIII) Các câu hỏi của thanh niên Nanda (Sn 207)** {#8_}
 
 Nanda:
@@ -1026,6 +1034,7 @@ Liễu tri ái, vô lậu,\
 Ta nói những người ấy,\
 Vượt qua khỏi bộc lưu.
 
+<!--pg-->
 ### **(IX) Các câu hỏi của thanh niên Hemaka (Sn 209)** {#9_}
 
 Hemaka:
@@ -1060,6 +1069,7 @@ Hiện tại, đạt mát lạnh,\
 Vị ấy thường an tịnh,\
 Vượt chấp trước ở đời.
 
+<!--pg-->
 ### **(X) Câu hỏi của thanh niên Todeyya (Sn 210)** {#10_}
 
 Todeyya:
@@ -1104,6 +1114,7 @@ Hãy biết bậc ẩn sĩ,\
 Không có sở hữu gì,\
 Không tham dính dục hữu.
 
+<!--pg-->
 ### **(XI) Câu hỏi của thanh niên Kappa (Sn 211)** {#11_}
 
 Kappa:
@@ -1139,6 +1150,7 @@ Hiện tại đạt mát lạnh,\
 Không rơi vào ma lực,\
 Không tùy tùng theo ma.
 
+<!--pg-->
 ### **(XII) Câu hỏi của thanh niên Jatukanni (Sn 212)** {#12_}
 
 Jatukanni:
@@ -1190,6 +1202,7 @@ Không có các lậu hoặc,\
 Chính do lậu hoặc này,\
 Bị thần chết chi phối.
 
+<!--pg-->
 ### **(XIII) Câu hỏi của thanh niên Bhadràvudha (Sn 213)** {#13_}
 
 Bhadràvudha:
@@ -1237,6 +1250,7 @@ Là chúng sanh chấp thủ,\
 Trong lãnh vực của Ma,\
 Bị tham dính chấp trước.
 
+<!--pg-->
 ### **(XIV) Câu hỏi của thanh niên Udaya (Sn 214)** {#14_}
 
 Udaya:
@@ -1294,6 +1308,7 @@ Với nội và ngoại thọ,\
 Sở hành chánh niệm vậy,\
 Thức đạt được hoại diệt.
 
+<!--pg-->
 ### **(XV) Câu hỏi của thanh niên Posàla (Sn 215)** {#15_}
 
 Posàla:
@@ -1331,6 +1346,7 @@ Tại đấy, thấy như vậy,\
 Của vị Bà-la-môn,\
 Ðã thành tựu Phạm hạnh.
 
+<!--pg-->
 ### **(XVI) Câu hỏi của thanh niên Mogharàja (Sn 216)** {#16_}
 
 Mogharàja:
@@ -1364,6 +1380,7 @@ Như vậy vượt tử vong,\
 Hãy nhìn đời như vậy,\
 Thần chết không thấy được.
 
+<!--pg-->
 ### **(XVII) Câu hỏi của thanh niên Pingiya (Sn 217)** {#17_}
 
 Pingiya:
@@ -1421,6 +1438,7 @@ Do vậy, Pin-gi-ya,\
 Hãy từ bỏ khát ái,\
 Không còn bị tái sanh.
 
+<!--pg-->
 ### **(XVIII) Kết luận** {#18_}
 
 Thế Tôn nói như vậy. Trong khi ở tại Magadha, tại điện Phà-xa-na-ka, Thế Tôn được mười sáu Bà-la-môn đệ tử của Bàvani tìm đến, được hỏi nhiều câu hỏi và Ngài đã trả lời. Nêu từng câu hỏi một, sau khi hiểu nghĩa, sau khi hiểu pháp, thực hành pháp và tùy pháp, thì có thể đi đến bờ bên kia của già chết. Những pháp này có thể đưa người qua bờ bên kia, cho nên pháp môn này cũng được gọi là Pàràyanam: “Con đường đưa đến bờ bên kia”.
