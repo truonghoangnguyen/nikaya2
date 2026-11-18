@@ -14,7 +14,7 @@ const config =
       "id": "ud",
       "title": "Phật Tự Thuyết (ud)",
       "description": "Kinh tiểu bộ - Udāna",
-      "cover": "/covers/kn-kinhtieubo.png",
+      "cover": "/covers/kn-phattuthuyet.png",
       "link": "/kinhtieubo/c-pali-tmc-vi/ud/"
     },
     {
@@ -28,7 +28,7 @@ const config =
       "id": "snp",
       "title": "Kinh Tập (snp)",
       "description": "Kinh tập - Suttanipāta",
-      "cover": "/covers/kn-kinhtieubo.png",
+      "cover": "/covers/kn-kinhtap.png",
       "link": "/kinhtieubo/c-pali-tmc-vi/snp/"
     }
   ]

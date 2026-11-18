@@ -17,7 +17,7 @@
 [^9] And of biased translations. The Pāli language employs nomina without a definite and indefinite article. Those who translate: 'The body is not the Self' (instead of neutrally: '... a Self') presuppose the existence of a Self, but have not proved it by the text. Attan is moreover the reflexive pronoun.
 
 
-[^10] Nāma-rūpa is a collective term for the Five Groups which compose the empirical personality. Rūpa designates the physical organism, nāma the mental-psychical processes taking place in it. S 12, 2, 12 II p. 3 f. defines: Sensation, perception, intention, contact, deliberation—this is called 'name'. The Four Great Elements (earth, water, fire, air) and the form dependent on (them) . . . , that is called 'body'.
+[^10] Nāma-rūpa is a collective term for the Five Groups which compose the empirical personality. Rūpa designates the physical organism, nāma the mental-psychical processes taking place in it. S 12, 2, 12 II p. 3 f. defines: Sensation, perception, intention, contact, deliberation−this is called 'name'. The Four Great Elements (earth, water, fire, air) and the form dependent on (them) . . . , that is called 'body'.
 
 [^11] Except in the case of a saint who, after the annihilation of craving and ignorance which compel to rebirth, is not threatened by new becoming. His suicide is not motivated by craving for destruction, but is the result of wise reflection of reasons, such as incurable illness.
 
@@ -25,12 +25,12 @@
 
 [^13] The Pāli expression is here retained as it would otherwise have to be rendered differently in each chain. Within the Five Groups 'saṅkhāra' designates mental phenomena (above, p. 42); in the Nexus of Conditioned Origination: action-intentions. Nevertheless the terms are so closely cognate that they may be identified here.
 
-[^14] M 38 I p. 256 and M 93 II p. 157 point out that besides the consciousness searching for a womb—the 'germ' (gabbha) or 'spirit' (gandhabba)—parental procreation and the mother's readiness for conception are necessary for a new being to come about.
+[^14] M 38 I p. 256 and M 93 II p. 157 point out that besides the consciousness searching for a womb−the 'germ' (gabbha) or 'spirit' (gandhabba)−parental procreation and the mother's readiness for conception are necessary for a new being to come about.
 
-[^14] M 38 I p. 256 and M 93 II p. 157 point out that besides the consciousness searching for a womb—the 'germ' (gabbha) or 'spirit' (gandhabba)—parental procreation and the mother's readiness for conception are necessary for a new being to come about.
+[^14] M 38 I p. 256 and M 93 II p. 157 point out that besides the consciousness searching for a womb−the 'germ' (gabbha) or 'spirit' (gandhabba)−parental procreation and the mother's readiness for conception are necessary for a new being to come about.
 
 
-[^14] M 38 I p. 256 and M 93 II p. 157 point out that besides the consciousness searching for a womb—the 'germ' (gabbha) or 'spirit' (gandhabba)—parental procreation and the mother's readiness for conception are necessary for a new being to come about.
+[^14] M 38 I p. 256 and M 93 II p. 157 point out that besides the consciousness searching for a womb−the 'germ' (gabbha) or 'spirit' (gandhabba)−parental procreation and the mother's readiness for conception are necessary for a new being to come about.
 
 [^15] Nibbāna.
 
@@ -38,11 +38,11 @@
 
 [^17] Sati here refers to the exercise (described in stanza 8) of radiating loving-kindness to the six regions: the meditation of Divine Abiding.
 
-[^18] 'Saṅkhāra' is a collective term for the Five Groups (khandha) constituting the personality when it is emphasised that these are saṅkhata: kammically created by the action-intentions (saṅkhāra) of previous existences. When used for the empirical person 'saṅkhāra'—(lit. 'composition')—reminds one that the person is a combination of the Five Groups.
+[^18] 'Saṅkhāra' is a collective term for the Five Groups (khandha) constituting the personality when it is emphasised that these are saṅkhata: kammically created by the action-intentions (saṅkhāra) of previous existences. When used for the empirical person 'saṅkhāra'−(lit. 'composition')−reminds one that the person is a combination of the Five Groups.
 
 [^19] From this chapter onwards all Indian terms and names are given in Sanskrit.
 
-[^20] The belief in the efficacy of truth for the obtainment of wishes is of pre-Buddhist origin, but has taken root in all schools of Buddhism. In the 'employment of truth' (satyakriyā, P.: saccakiriyā) the truth can also be a dogma, e.g. 'The Buddha is a precious jewel,—through this truth be happiness!'
+[^20] The belief in the efficacy of truth for the obtainment of wishes is of pre-Buddhist origin, but has taken root in all schools of Buddhism. In the 'employment of truth' (satyakriyā, P.: saccakiriyā) the truth can also be a dogma, e.g. 'The Buddha is a precious jewel,−through this truth be happiness!'
 
 
 [^21] These Sūtras are portions of the (Buddha-) Avatamsakasūtra composed of numerous individual works which is lost in Sanskrit and preserved only in Chinese and Tibetan.

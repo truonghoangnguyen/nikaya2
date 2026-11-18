@@ -14,7 +14,7 @@ const config =
       "id": "ud",
       "title": "Phật Tự Thuyết Udāna",
       "description": "Kinh tiểu bộ - Udāna",
-      "cover": "/covers/kn-kinhtieubo.png",
+      "cover": "/covers/kn-phattuthuyet.png",
       "link": "/kinhtieubo/pali-vi/ud/"
     },
     {
@@ -28,14 +28,14 @@ const config =
       "id": "snp",
       "title": "Kinh Tập Suttanipāta",
       "description": "Kinh tiểu bộ - Suttanipāta",
-      "cover": "/covers/kn-kinhtieubo.png",
+      "cover": "/covers/kn-kinhtap.png",
       "link": "/kinhtieubo/pali-vi/snp/"
     },
     {
       "id": "ud",
       "title": "Nāgasena và Vua Milinda (Mi Tiên vấn Đáp)",
       "description": "Kinh tiểu bộ - Milindapañhā",
-      "cover": "/covers/kn-kinhtieubo.png",
+      "cover": "/covers/kn-mitienvandap.png",
       "link": "/kinhtieubo/pali-vi/mil/"
     }
   ]
