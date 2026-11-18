@@ -117,12 +117,15 @@ Kinh Con Rắn là thứ nhất.
 ### SNP 1.2. Kinh Dhaniya
 *(Dhaniyasutta)*
 
+Chăn bò Dhaniya
+
 1\.
 > “Cơm chín, sữa vắt xong,\
-> (Chăn bò Dhaniya nói)\
 > Sống cùng nhau bờ sông;\
 > Lều lợp, lửa đã nhóm,\
 > Trời muốn mưa cứ mưa”.
+
+Thế Tôn
 
 2\.
 > “Không giận, sạch bướng bỉnh,\
@@ -131,72 +134,82 @@ Kinh Con Rắn là thứ nhất.
 > Lều mở, lửa đã tắt,\
 > Trời muốn mưa cứ mưa”.
 
+Chăn bò Dhaniya
+
 3\.
 > “Ruồi muỗi đều không có,\
-> (Chăn bò Dhaniya nói)\
 > Bò ăn bãi cỏ non;\
 > Mưa đến cũng chịu được,\
 > Trời muốn mưa cứ mưa”.
 
+Thế Tôn
+
 4\.
 > “Bè kết khéo vững chắc,\
-> (Đức Thế Tôn đáp lời)\
 > Đã vượt lũ qua bờ;\
 > Không còn cần dùng bè,\
 > Trời muốn mưa cứ mưa”.
 
+Chăn bò Dhaniya
+
 5\.
 > “Vợ tôi ngoan, không tham,\
-> (Chăn bò Dhaniya nói)\
 > Chung sống lâu, vừa ý;\
 > Không nghe nàng làm ác,\
 > Trời muốn mưa cứ mưa”.
 
+Thế Tôn
+
 6\.
 > “Tâm Ta ngoan, giải thoát,\
-> (Đức Thế Tôn đáp lời)\
 > Rèn luyện lâu, thuần thục;\
 > Nơi Ta không điều ác,\
 > Trời muốn mưa cứ mưa”.
 
+Chăn bò Dhaniya
+
 7\.
 > “Tôi sống bằng sức mình,\
-> (Chăn bò Dhaniya nói)\
 > Các con khỏe, ở cùng;\
 > Không nghe chúng làm ác,\
 > Trời muốn mưa cứ mưa”.
 
+Thế Tôn
+
 8\.
 > “Ta không làm thuê ai,\
-> (Đức Thế Tôn đáp lời)\
 > Đi khắp đời tự tại;\
 > Không cần đến tiền công,\
 > Trời muốn mưa cứ mưa”.
 
+Chăn bò Dhaniya
+
 9\.
 > “Có bò cái, bê con,\
-> (Chăn bò Dhaniya nói)\
 > Có bò chửa, bò giống;\
 > Cả bò đực đầu đàn,\
 > Trời muốn mưa cứ mưa”.
 
+Thế Tôn
+
 10\.
 > “Không bò cái, bê con,\
-> (Đức Thế Tôn đáp lời)\
 > Không bò chửa, bò giống;\
 > Không bò đực đầu đàn,\
 > Trời muốn mưa cứ mưa”.
 
+Chăn bò Dhaniya
+
 11\.
 > “Cọc đóng sâu không lay,\
-> (Chăn bò Dhaniya nói)\
 > Dây cỏ mới bện chắc;\
 > Bê con chẳng dứt nổi,\
 > Trời muốn mưa cứ mưa”.
 
+Thế Tôn
+
 12\.
 > “Như bò đực bứt dây,\
-> (Đức Thế Tôn đáp lời)\
 > Như voi giẫm dây mục;\
 > Ta không vào bụng mẹ,\
 > Trời muốn mưa cứ mưa”.
@@ -219,16 +232,18 @@ Kinh Con Rắn là thứ nhất.
 > Vượt qua bờ sinh tử,\
 > Chấm dứt mọi khổ đau”.
 
+Ác ma
+
 16\.
 > “Có con vui vì con,\
-> (Ác ma liền nói lên)\
 > Có bò vui vì bò;\
 > Chỗ dựa làm người vui,\
 > Không chỗ dựa, không vui”.
 
+Đức Thế
+
 17\.
 > “Có con sầu vì con,\
-> (Đức Thế Tôn đáp lời)\
 > Có bò sầu vì bò;\
 > Chỗ dựa làm người sầu,\
 > Không chỗ dựa, không sầu”.
@@ -243,61 +258,71 @@ Kinh Dhaniya là thứ hai.
 > “Bỏ gậy với muôn loài,\
 > Không làm hại một ai;\
 > Không cầu con, huống bạn,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 2\.
 > “Giao du sinh quyến luyến,\
 > Theo quyến luyến khổ sinh;\
 > Thấy họa từ quyến luyến,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 3\.
 > “Thương xót bạn bè thân,\
 > Tâm vướng, mất mục đích;\
 > Thấy hiểm nguy thân cận,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 4\.
 > “Như bụi tre chằng chịt,\
 > Luyến tiếc vợ cùng con;\
 > Như măng tre không vướng,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 5\.
 > “Như hươu rừng không trói,\
 > Kiếm ăn theo ý mình;\
 > Người trí nhìn tự do,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 6\.
 > “Ở giữa đám bạn bè,\
 > Bị gọi khi đi đứng;\
 > Quý tự do, không tham,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 7\.
 > “Vui đùa giữa bạn bè,\
 > Thương yêu con sâu nặng;\
 > Ghét cảnh phải chia lìa,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 8\.
 > “Bốn phương không chống đối,\
 > Biết đủ với những gì;\
 > Chịu hiểm nguy không sợ,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 9\.
 > “Có kẻ tu khó gần,\
 > Cả người sống tại gia;\
 > Ít bận lòng con người,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 10\.
 > “Cởi bỏ dáng thế tục,\
 > Như cây trụi lá vàng;\
 > Bậc hùng cắt dây trói,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 11\.
 > “Nếu gặp bạn khôn ngoan,\
@@ -315,175 +340,204 @@ Kinh Dhaniya là thứ hai.
 > “Ta khen có bạn tốt,\
 > Nên thân bạn hơn, bằng;\
 > Không gặp, ăn không lỗi,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 14\.
 > “Thấy hai vòng vàng sáng,\
 > Thợ khéo rèn tinh xảo;\
 > Va chạm trên một tay,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 15\.
 > “Nếu sống cùng người thứ,\
 > Sẽ lắm lời, cãi cọ;\
 > Nhìn thấy hiểm nguy sau,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 16\.
 > “Dục muôn màu ngọt ngào,\
 > Đủ hình làm loạn tâm;\
 > Thấy họa trong dây dục,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 17\.
 > “Là tai họa, khối u,\
 > Là bệnh, tên, nỗi sợ;\
 > Thấy hiểm nguy trong dục,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 18\.
 > “Lạnh, nóng, đói cùng khát,\
 > Gió, nắng, ruồi, rắn rết;\
 > Vượt qua tất cả chúng,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 19\.
 > “Như voi rời bầy đàn,\
 > Thân lớn, đốm hoa sen;\
 > Sống giữa rừng tùy ý,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 20\.
 > “Ai ưa thích tụ tập,\
 > Không chạm giải thoát thời;\
 > Nghe lời dòng Mặt Trời,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 21\.
 > “Vượt qua lưới quan điểm,\
 > Đạt chuẩn mực, tìm đường;\
 > Trí khởi, không theo ai,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 22\.
 > “Không tham, dối, khát khao,\
 > Không gièm, sạch bợn mê;\
 > Không mong cầu khắp đời,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 23\.
 > “Hãy tránh xa bạn ác,\
 > Không thấy lợi, làm càn;\
 > Chớ thân kẻ buông lung,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 24\.
 > “Hãy thân bậc nghe nhiều,\
 > Giữ pháp, bạn biện tài;\
 > Hiểu nghĩa, trừ nghi hoặc,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 25\.
 > “Trò vui, thú dục đời,\
 > Không tô điểm, chẳng màng;\
 > Bỏ trang sức, nói thật,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 26\.
 > “Con cái, vợ, mẹ cha,\
 > Tài sản, lúa, họ hàng;\
 > Từ bỏ mọi dục lạc,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 27\.
 > “Trói buộc này ít vui,\
 > Vị ngọt ít, khổ nhiều;\
 > Người trí biết lưỡi câu,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 28\.
 > “Bứt tung mọi xiềng xích,\
 > Như cá nước xé lưới;\
 > Như lửa không cháy lại,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 29\.
 > “Mắt nhìn xuống, chân nghiêm,\
 > Giữ giác quan, hộ tâm;\
 > Không rỉ chảy, nung đốt,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 30\.
 > “Cởi bỏ dáng thế tục,\
 > Như cây san hô rậm;\
 > Khoác áo vàng xuất gia,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 31\.
 > “Không tham đắm vị ngon,\
 > Không nuôi ai, khất thực;\
 > Không vướng tâm nhà nào,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 32\.
 > “Bỏ năm điều che tâm,\
 > Xua tan mọi nhiễm bẩn;\
 > Không dựa, cắt thương ghét,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 33\.
 > “Quay lưng với vui khổ,\
 > Dứt an lạc, ưu phiền;\
 > Đạt bình thản, định tịnh,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 34\.
 > “Tinh tấn đạt đích cao,\
 > Tâm không chùn, chẳng biếng;\
 > Vững bước, đầy sức lực,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 35\.
 > “Không rời độc cư, thiền,\
 > Sống đúng pháp mọi điều;\
 > Thấu suốt họa các cõi,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 36\.
 > “Cầu cạn khát, không xao,\
 > Không ngọng câm, nghe nhiều;\
 > Chú tâm, quyết siêng năng,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 37\.
 > “Như sư tử không sợ,\
 > Như gió chẳng vướng lưới;\
 > Như hoa sen không bùn,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 38\.
 > “Như sư tử răng mạnh,\
 > Vua loài thú thắng lướt;\
 > Hãy sống nơi hẻo lánh,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 39\.
 > “Tu tập từ, bi, xả,\
 > Giải thoát, cùng vui thời;\
 > Không chống đối cả đời,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 40\.
 > “Bỏ đắm nhiễm, sân, mê,\
 > Bứt tung mọi xiềng xích;\
 > Không sợ lúc mạng chung,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 41\.
 > “Kết giao vì tư lợi,\
 > Bạn vô tư nay hiếm;\
 > Người đời khôn ích kỷ,\
-> Độc hành như sừng tê”.
+> Hãy sống riêng một mình\
+> Như tê giác một sừng”.
 
 Kinh Sừng Tê Giác là thứ ba.
 
@@ -509,7 +563,7 @@ Kinh Sừng Tê Giác là thứ ba.
 > “Ông tự nhận người cày,\
 > Chẳng thấy việc cày ông;\
 > Được hỏi, xin hãy nói,\
-> Để biết việc cày ông”.
+> Để biết việc ông cày”.
 
 6\.
 > “Lòng tin là hạt giống,\
@@ -542,12 +596,12 @@ Kinh Sừng Tê Giác là thứ ba.
 – Xin Tôn giả Gotama hãy dùng cơm sữa! Tôn giả đúng là người cày ruộng, vì Tôn giả Gotama cày thửa ruộng trổ quả bất tử.
 
 11\.
-> “Vật có do ngâm vịnh,\
+> “Vật có do tụng kệ,\
 > Ta không thể thọ dùng;\
 > Bà-la-môn, hãy xem,\
 > Đấy chẳng phải pháp chánh;\
 > Chư Phật đều từ chối,\
-> Vật có do ngâm vịnh;\
+> Vật có do tụng kệ;\
 > Khi pháp thực còn đó,\
 > Ấy nếp sống chư Phật.
 
@@ -1008,11 +1062,11 @@ Kinh Kẻ Hạ Tiện là thứ bảy.
 *(Mettasutta)*
 
 1\.
-> Việc người giỏi điều lành,\
+> người giỏi việc điều lành,\
 > Cần làm khi thấu đạt,\
 > Cảnh giới đầy an tịnh:\
 > Có năng lực, ngay thẳng,\
-> Thật ngay thẳng, dễ nói,\
+> Thật chân trực, dễ nói,\
 > Hiền hòa, không kiêu mạn.
 
 2\.

@@ -4,8 +4,8 @@ description: Kinh Tiểu Bộ Phật Thuyết Như Vậy Itivuttaka - Bản đ�
 layout: home
 ---
 
-<h1 style="text-align: center;">Phật Tự Thuyết</h1>
-<h2 style="text-align: center;">Udāna</h2>
+<br><br>
+<h1 style="text-align: center;">Phật Tự Thuyết - Udāna</h1>
 <h2 style="text-align: center;">Bản đọc song song</h2>
 <h2 style="text-align: center; padding-top: 0px;">Pali - Tỷ kheo Thích Minh Châu</h2>
 <br>
