@@ -12,11 +12,11 @@ Cách Abhidhamma dung nạp lại: Các nhà Abhidhamma sau này gán cho mỗi 
 
 > Này các tỳ kheo, sắc không phải là một Bản ngã. Bởi vì, (a) này các tỳ kheo, nếu sắc này là một Bản ngã, (thì) sắc này sẽ không hướng đến bệnh tật và (b) người ta có thể ra lệnh cho sắc: 'Sắc của ta phải như thế này!', 'Sắc của ta không được như thế kia!'.
 
-Vế (a) — "Sắc có thể bệnh hoạn -> Sắc không phải ngã" — hợp lý: theo quan niệm Ngã/Atman của triết học Ấn Độ, cái gì là Ngã thật sự thì phải thường hằng, bất biến, không suy hoại. Thân bị bệnh, bị hoại → vậy thân không thể là cái thường hằng ấy. Suy luận này chặt chẽ.
+Vế (a) − "Sắc có thể bệnh hoạn -> Sắc không phải ngã" − hợp lý: theo quan niệm Ngã/Atman của triết học Ấn Độ, cái gì là Ngã thật sự thì phải thường hằng, bất biến, không suy hoại. Thân bị bệnh, bị hoại → vậy thân không thể là cái thường hằng ấy. Suy luận này chặt chẽ.
 
-Vế (b) — "Sắc không điều khiển được theo ý muốn -> Sắc không phải ngã" — tác giả gọi là "suy luận sai" (false inference): Lập luận tác giả ở đây: theo đúng quan niệm Ấn Độ về Ngã (Atman), Ngã đích thực là cái hoàn toàn không thể bị chi phối bởi bất cứ điều gì. Vậy nên: Theo tác giả, nếu Ngũ Uẩn (Năm Nhóm) không thể bị điều khiển theo ý muốn, điều đó chứng minh chúng là 'Ngã', vì một Ngã thật thì không thể "nghe lời" ai, kể cả nghe lời chính người sở hữu nó. 
+Vế (b) − "Sắc không điều khiển được theo ý muốn -> Sắc không phải ngã" − tác giả gọi là "suy luận sai" (false inference): Lập luận tác giả ở đây: theo đúng quan niệm Ấn Độ về Ngã (Atman), Ngã đích thực là cái hoàn toàn không thể bị chi phối bởi bất cứ điều gì. Vậy nên: Theo tác giả, nếu Ngũ Uẩn (Năm Nhóm) không thể bị điều khiển theo ý muốn, điều đó chứng minh chúng là 'Ngã', vì một Ngã thật thì không thể "nghe lời" ai, kể cả nghe lời chính người sở hữu nó.
 
-Người dịch: Theo kinh [MN 35](/l?q=MN-35) ví dụ vị vua có quyền trong lãnh thổ mình: xử tử, phạt tù... nếu muốn. Vậy theo Phật tiêu cái gì đó  được gọi là "ngã" nếu nó có thể có quyền ra lệnh, quyết định trạng thái của nó theo ý muốn. Nếu theo cách nhìn này thì câu kinh hoàn toàn hợp lý. 
+Người dịch: Theo kinh [MN 35](/l?q=MN-35) ví dụ vị vua có quyền trong lãnh thổ mình: xử tử, phạt tù... nếu muốn. Vậy theo Phật tiêu cái gì đó  được gọi là "ngã" nếu nó có thể có quyền ra lệnh, quyết định trạng thái của nó theo ý muốn. Nếu theo cách nhìn này thì câu kinh hoàn toàn hợp lý.
 
 PS: Điều này làm tôi nhớ đến phép thử Howey test để xác định một giao dịch có phải là chứng khoán hay không. Cụ thể, theo phép thử Howey, một giao dịch được coi là "hợp đồng đầu tư" (và do đó là chứng khoán) chỉ khi thỏa mãn đồng thời:
 
@@ -33,12 +33,12 @@ Phép thử "là ngã" của Phật:
 
 Nếu thiếu bất kỳ yếu tố nào, thì cái đó không được xem là ngã.
 
-[^ND-4]: Có 2 từ pali đều dịch là duyên: 
+[^4]: Có 2 từ pali đều dịch là duyên:
 
-1. paccaya(điều kiện/condition). 
+1. paccaya(điều kiện/condition).
 Ví dụ: "hetu yo ca paccayo -> đâu là nhân đâu là duyên [để làm điều đó sinh ra] -> đâu là gốc của nguyên nhân và điều kiện môi trường [để làm điều đó sinh ra]".
 
-2. paṭicca(sự phụ thuộc/dependent), 
+2. paṭicca(sự phụ thuộc/dependent),
 Ví dụ: từ paṭiccasamuppāda -> duyên khởi -> Vì có A nên B sinh ra (và nếu không có A thì không có B). Đây là một mối quan hệ chặt chẽ kiểu điều kiện "cần và đủ" trong toán học, Ví dụ về mối quan hệ 'cần nhưng không đủ': Vì có A nên có B, không có A nhưng có X nên có B. Xem thêm  [MN 38](/l?q=MN-38)
 
 Tác giả ở đây dịch paṭiccasamuppāda = 'sự phát sinh có điều kiện' (duyên khởi). Theo chúng tôi hiểu paṭiccasamuppāda nghĩa là 'Vì có A nên B chắc chắn sẽ sinh ra, nếu không có A thì không có B, và không thứ gì khác sinh ra B'. Nên chúng tôi đã chọn dịch là paṭiccasamuppāda = 'sự sinh ra do quan hệ phụ thuộc'. Lúc đầu chúng tôi định dịch là 'cùng sinh, cùng diệt' nhưng khi đi vào lời văn thì thấy hơi khó khăn.
@@ -62,11 +62,11 @@ Tác giả ở đây dịch paṭiccasamuppāda = 'sự phát sinh có điều k
 10. hữu: sinh (sự tái sinh);\
 11. tái sinh sinh già chết (12)
 
-[^6]:  khái niệm 'Không-điều-kiện / asaṃskṛta / vô vi pháp' và 'Có-điều-kiện / saṃskṛta/ hữu vi pháp'. Chúng tôi hiểu như này: người ta muốn tìm được những thứ không được tạo ra từ thứ khác nghĩa là không thể chia nhỏ, hơn ví như con người thì tạo bởi Sắc-thọ-tưởng-hành-thức, Sắc thì tạo bởi đất, nước, lửa, gió... hay cái bàn thì từ gỗ và đinh, đinh thì từ sắt, sắt thì từ nguyên tử...như bên phương tây là khái niệm 'atom - nguyên tử'.  
+[^6]:  khái niệm 'Không-điều-kiện / asaṃskṛta / vô vi pháp' và 'Có-điều-kiện / saṃskṛta/ hữu vi pháp'. Chúng tôi hiểu như này: người ta muốn tìm được những thứ không được tạo ra từ thứ khác nghĩa là không thể chia nhỏ, hơn ví như con người thì tạo bởi Sắc-thọ-tưởng-hành-thức, Sắc thì tạo bởi đất, nước, lửa, gió... hay cái bàn thì từ gỗ và đinh, đinh thì từ sắt, sắt thì từ nguyên tử...như bên phương tây là khái niệm 'atom - nguyên tử'.
 
-Những thứ được tạo bằng nhiều thứ khác ghép lại với nhau gọi là saṃskṛta=nhiều thứ hợp lại cùng nhau để hình thành, tiếng anh dịch là conditioned = 'nhờ các điều kiện [hợp lại mà hình thành]' - Hán dịch là hữu vi. 
+Những thứ được tạo bằng nhiều thứ khác ghép lại với nhau gọi là saṃskṛta=nhiều thứ hợp lại cùng nhau để hình thành, tiếng anh dịch là conditioned = 'nhờ các điều kiện [hợp lại mà hình thành]' - Hán dịch là hữu vi.
 
-Có một cách kiểm tra như này: 1)"vật đó/ thứ đó có chia nhỏ ra được nữa không và 2) thứ đó có tồn tại mãi mãi không ? nếu có 1 hay 2 thì nó là 'saṃskṛta' không thì là 'asaṃskṛta'."  
+Có một cách kiểm tra như này: 1)"vật đó/ thứ đó có chia nhỏ ra được nữa không và 2) thứ đó có tồn tại mãi mãi không ? nếu có 1 hay 2 thì nó là 'saṃskṛta' không thì là 'asaṃskṛta'."
 
 Câu thường gặp trong kinh là 'Các pháp hữu vi'='những thứ/ những điều có thể chia nhỏ hơn'='những thứ/những điều được tạo bởi từ những thứ khác'.
 
@@ -75,14 +75,14 @@ Theo kinh Nikaya thì tất cả những thứ gì chúng ta, loài người có
 [^7]: Học thuyết Tam thân gồm:
 
 - Pháp thân (Dharmakāya): chân lý/thực tại tối hậu. Đồng nhất với pháp tính, tánh không, hay bản thể giác ngộ vô tướng.
-- Báo thân ( Sambhogakāya): thân thọ dụng/vinh quang. Là hình tướng siêu việt của Phật chỉ xuất hiện trong các cõi Tịnh độ (Buddhakṣetra), chỉ các Bồ tát ở địa vị cao mới "thấy" và thọ hưởng được. 
+- Báo thân ( Sambhogakāya): thân thọ dụng/vinh quang. Là hình tướng siêu việt của Phật chỉ xuất hiện trong các cõi Tịnh độ (Buddhakṣetra), chỉ các Bồ tát ở địa vị cao mới "thấy" và thọ hưởng được.
 - Hóa thân (Nirmāṇakāya): thân vật lý xuất hiện trong thế gian để giáo hóa chúng sinh bình thường. Đức Thích Ca Mâu Ni lịch sử được xem là một Hóa thân.
 
 Mối quan hệ giữa ba thân này thường được ví như mặt trăng và hình ảnh phản chiếu:
-Pháp thân giống như chính mặt trăng trên bầu trời (chân lý duy nhất, không thay đổi). Báo thân giống như ánh sáng rực rỡ tỏa ra từ mặt trăng đó. Hóa thân giống như hình ảnh mặt trăng phản chiếu trên mặt nước ở vô số hồ, ao, sông ngòi — nước ở đâu thì mặt trăng hiện ra ở đó, nhưng bản chất chúng chỉ là hình bóng của một mặt trăng duy nhất.
+Pháp thân giống như chính mặt trăng trên bầu trời (chân lý duy nhất, không thay đổi). Báo thân giống như ánh sáng rực rỡ tỏa ra từ mặt trăng đó. Hóa thân giống như hình ảnh mặt trăng phản chiếu trên mặt nước ở vô số hồ, ao, sông ngòi − nước ở đâu thì mặt trăng hiện ra ở đó, nhưng bản chất chúng chỉ là hình bóng của một mặt trăng duy nhất.
 
 Học thuyết Tam Thân bộc lộ một số mâu thuẫn nền tảng:
-- Nếu Hóa thân là hóa hiện có chủ ý, thì toàn bộ câu chuyện Thích Ca tu khổ hạnh, thất bại, rồi giác ngộ dưới cội bồ đề, dạy một con đường có thể lặp lại — chỉ còn là một vở kịch sư phạm. Ngài "giả vờ" chưa giác ngộ để dạy người khác cách giác ngộ. Điều này mâu thuẫn trực tiếp với chức năng thực hành mà anh đang phục dựng: nếu quá trình tu chứng chỉ là trình diễn, thì nó không còn là bằng chứng thực nghiệm cho ai cả.
+- Nếu Hóa thân là hóa hiện có chủ ý, thì toàn bộ câu chuyện Thích Ca tu khổ hạnh, thất bại, rồi giác ngộ dưới cội bồ đề, dạy một con đường có thể lặp lại − chỉ còn là một vở kịch sư phạm. Ngài "giả vờ" chưa giác ngộ để dạy người khác cách giác ngộ. Điều này mâu thuẫn trực tiếp với chức năng thực hành mà anh đang phục dựng: nếu quá trình tu chứng chỉ là trình diễn, thì nó không còn là bằng chứng thực nghiệm cho ai cả.
 - Pháp thân là bản thể của toàn bộ vũ trụ, nghĩa là không có cái gì nằm ngoài Pháp thân. Nếu Pháp thân là tất cả, vậy "mặt nước" từ đâu để mặt trăng phản chiếu vào? Nếu mặt nước tồn tại độc lập với mặt trăng, thì Pháp thân không còn là tuyệt đối duy nhất (rơi vào nhị nguyên). Còn nếu mặt nước cũng là Pháp thân, thì hóa ra mặt trăng đang tự phản chiếu vào chính nó, tạo ra một logic vòng vo không có điểm giải quyết.
 - Pháp thân được diễn giải như một khái niệm triết học như 'Đại ngã' trong tôn giáo Ấn, không thể bàn cãi. Ứng thân là một nhà giáo dục đã có sẫn những kiến thức xuất hiện để giảng chân lý cho người đời. Báo thân được mô tả như thân Phật siêu việt, mọi thất bại quan sát đều được giải thích bằng sự thiếu tu chứng của người quan sát.
 

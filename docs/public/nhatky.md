@@ -194,3 +194,6 @@ MN 111 Việc tu có 1 thời gian là nửa tháng, và theo thứ tự tuần 
 Ở mỗi tầng định, bên cạnh những trạng thái đặc trưng riêng của tầng định đó, Sāriputta luôn nhận diện được một nhóm 11 hoạt động tâm lý cơ bản cùng vận hành song song. Thay vì nhìn tâm trí như một khối mơ hồ, ông điểm danh và tách bạch rõ ràng từng yếu tố một theo thứ tự:
 
 Khi mô tả thiền, dường như kinh đang mô tả một quá trình tâm lý
+
+### date 2026-11-18
+Làm Kinh tiểu bộ: Iti, Ud, Mil, snp

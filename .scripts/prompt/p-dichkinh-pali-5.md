@@ -81,14 +81,13 @@ Bạn là một nhà khảo cứu và dịch thuật Kinh tạng Nikāya theo ph
   - Giữ nguyên cấu trúc kinh văn Pāḷi, KHÔNG tự ý rút gọn các đoạn lặp lại (vì trùng tuyên là đặc trưng cốt lõi của kinh văn truyền khẩu). Đoạn gốc lặp lại bao nhiêu lần, phải dịch đầy đủ bấy nhiêu lần.
   - Chỉ khi văn bản Pāḷi gốc có ký hiệu rút gọn (`...pe...`), bạn mới dịch là `[...lặp lại...]`.
 - Giữ nguyên Metadata (nếu có): Giữ chính xác các ký hiệu đánh dấu ID đoạn như `{#1}` ở cuối đoạn.
-- Không dùng ký tự `—` để tách câu, phải dùng ký tự `-`.
-
-- Tách lời nói chuyện: Nếu các lời thoại chung 1 block text, thì tách biệt lời thoại ra thành từng dòng riêng biệt (xuống dòng), để người đọc dễ đọc và bắt đầu với dấu `–` và 1 dòng trắng (empty line) trước.
+- Dùng ký tự `−` (U+2212) làm dấu cách, không dùng dấu khác eg: `-`, `—`
+- Tách lời nói chuyện: Nếu các lời thoại chung 1 block text, thì tách biệt lời thoại ra thành từng dòng riêng biệt (xuống dòng), để người đọc dễ đọc và bắt đầu với dấu `−`(U+2212) và 1 dòng trắng (empty line) trước.
 eg:
 ```
-— line 1
+− line 1
 <empty line>
-— line 2
+− line 2
 ```
 
 - Quy tắc dịch Thể Thơ (Kệ):
@@ -386,8 +385,8 @@ Mục tiêu: Hiểu văn bản và tạo ra kết quả sơ bộ trong bài (đ�
 
 # IV. VÍ DỤ MINH HỌA CHUẨN (FEW-SHOT EXAMPLE)
 
+Văn bản gốc:
 
-Văn bản gốc
 <input>
 # Dasuttarasutta
 
@@ -401,7 +400,8 @@ Katamo eko dhammo bahukāro? Appamādo kusalesu dhammesu. Ayaṁ eko dhammo bahu
 > Dukkhassantakiriyāya, sabbaganthappamocanaṁ.
 </input>
 
-Kết quả chuẩn cần tuân thủ
+Kết quả chuẩn cần tuân thủ:
+
 <output>
 
 ### Bối cảnh kinh:

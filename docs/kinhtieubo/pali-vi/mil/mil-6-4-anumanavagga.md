@@ -1,5 +1,5 @@
 ---
-description: Vua Milinda hỏi Tôn giả Nāgasena hai vấn đề lớn thuộc Phẩm Suy Luận, cách nhận biết sự hiện hữu của Đức Phật qua dấu tích Giáo pháp và ý nghĩa của 13 hạnh thanh lọc khi người tại gia vẫn chứng ngộ Niết-bàn.
+description: Vua Milinda hỏi Tôn giả Nāgasena hai vấn đề lớn thuộc Phẩm Suy Luận,    cách nhận biết sự hiện hữu của Đức Phật qua dấu tích Giáo pháp và ý nghĩa của 13 hạnh thanh lọc khi người tại gia vẫn chứng ngộ Niết-bàn.
 ---
 
 # MIL 6.4. PHẨM SUY LUẬN

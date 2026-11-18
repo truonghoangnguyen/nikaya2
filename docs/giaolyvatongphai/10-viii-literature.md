@@ -43,7 +43,7 @@ Mvś Mahāyānaviṃśikā (of Nāgārjuna), Sanskrit text (with
 |   | English translation) in: G. Tucci, *Minor Buddhist Texts*, Part I, *Serie Orientale Roma*, vol. IX, Rome 1956  |
 | --- | --- |
 |  P | Pāli  |
-|  PH | Prajñāpāramitā-Hṛdayasūtra, Sanskrit text (and English translation) in: E. Conze, *Buddhist Wisdom Books—The Diamond Sūtra and the Heart Sūtra*, London 1958  |
+|  PH | Prajñāpāramitā-Hṛdayasūtra, Sanskrit text (and English translation) in: E. Conze, *Buddhist Wisdom Books−The Diamond Sūtra and the Heart Sūtra*, London 1958  |
 |  PTS | Pāli Text Society, London  |
 |  S | Saṃyuttanikāya, PTS edition  |
 |  Skt | Sanskrit  |
@@ -80,21 +80,21 @@ The various systems of Buddhism are outlined in:
 
 A. Bareau a.o., *Die Religionen Indiens*, vol. 3: Buddhismus, Jinismus, Primitivvölker (Die Religionen der Menschheit, vol. 13), Stuttgart 1964.
 
-E. Conze, *Buddhism—Its Essence and Development*, Oxford 1957.
+E. Conze, *Buddhism−Its Essence and Development*, Oxford 1957.
 
 E. Frauwallner, *Geschichte der indischen Philosophie*, vol. 1, Salzburg 1953.
 
 R. A. Gard (ed.), *Buddhism*, New York/London 1961.
 
-K. W. Morgan (ed.), *The Path of the Buddha—Buddhism interpreted by Buddhists*, New York 1956.
+K. W. Morgan (ed.), *The Path of the Buddha−Buddhism interpreted by Buddhists*, New York 1956.
 
 W. Rāhula, *What the Buddha taught*, Bedford 1967.
 
-R. Robinson, *The Buddhist Religion—A Historical Introduction*, Belmont (California) 1970.
+R. Robinson, *The Buddhist Religion−A Historical Introduction*, Belmont (California) 1970.
 
 Bhikshu Sangharakshita, *A Survey of Buddhism*, Bangalore 1966.
 
-Bhikshu Sangharakshita, *The Three Jewels—An Introduction to Buddhism*, London 1967.
+Bhikshu Sangharakshita, *The Three Jewels−An Introduction to Buddhism*, London 1967.
 
 A. K. Warder, *Indian Buddhism*, Delhi 1970.
 
@@ -112,21 +112,21 @@ An idea of the Prajñāpāramitā literature and its philosophy is conveyed in
 
 E. Conze, *Selected Sayings from the Perfection of Wisdom*, London 1955.
 
-E. Conze, *Buddhist Wisdom Books—The Diamond Sūtra and the Heart Sūtra*, London 1958.
+E. Conze, *Buddhist Wisdom Books−The Diamond Sūtra and the Heart Sūtra*, London 1958.
 
 E. Conze, *Aṣṭasāhasrikā Prajñāpāramitā* (English translation), *Bibliotheca Indica*, Work No. 284, Calcutta 1958.
 
 Important contributions to our knowledge of the two philosophical Mahāyāna schools are:
 
-K. K. Inada, *Nāgārjuna—A Translation of his Mūlamadhyamakakārikā with an Introductory Essay*, Tokyo 1970.
+K. K. Inada, *Nāgārjuna−A Translation of his Mūlamadhyamakakārikā with an Introductory Essay*, Tokyo 1970.
 
-T. R. V. Murti, *The Central Philosophy of Buddhism—A Study of the Mādhyamika System*, London 1960.
+T. R. V. Murti, *The Central Philosophy of Buddhism−A Study of the Mādhyamika System*, London 1960.
 
 K. Venkata Ramanan, *Nāgārjuna's Philosophy as presented in the Mahā-Prajñāpāramitā-Śāstra*, Rutland/Vermont/Tokyo 1966.
 
 R. H. Robinson, *Early Mādhyamika in India and China*, Madison/Milwaukee/London 1967.
 
-F. J. Streng, *Emptiness—A Study in Religious Meaning*, Nashville/New York 1967 (contains translations of the *Madhyamakasāstra* and the *Vigrahavyāvartanī*).
+F. J. Streng, *Emptiness−A Study in Religious Meaning*, Nashville/New York 1967 (contains translations of the *Madhyamakasāstra* and the *Vigrahavyāvartanī*).
 
 A. K. Chatterjee, *The Yogācāra Idealism* (Banares Hindu University Darśana Series, vol. 3), Banares 1962.
 
@@ -134,7 +134,7 @@ A. K. Chatterjee, *The Yogācāra Idealism* (Banares Hindu University Darśana S
 
 Of the Tantras only the following is available in a European language:
 
-D. L. Snellgrove, *The Hevajra Tantra—a Critical Study* (London Oriental Series, vol. 6), London 1959.
+D. L. Snellgrove, *The Hevajra Tantra−a Critical Study* (London Oriental Series, vol. 6), London 1959.
 
 Useful for the knowledge of Tantrism are:
 
@@ -154,11 +154,11 @@ History and spread of Buddhism are outlined in:
 
 E. Conze, *A Short History of Buddhism*, Bombay 1960.
 
-E. Zürcher, *Buddhism—Its Origin and Spread in Words, Maps and Pictures*, London 1962.
+E. Zürcher, *Buddhism−Its Origin and Spread in Words, Maps and Pictures*, London 1962.
 
 The most comprehensive modern compendium of Buddhism which examines its origin, councils, spread, legends, schools, canonical languages and changes in contents up to the first century A.D., by making use of almost all primary and secondary sources, is:
 
-É. Lamotte, *Histoire du Bouddhisme Indien—des Origines à l'Ère Śaka* (Bibliothèque du Muséon, vol. 43), Louvain 1958.
+É. Lamotte, *Histoire du Bouddhisme Indien−des Origines à l'Ère Śaka* (Bibliothèque du Muséon, vol. 43), Louvain 1958.
 
 Information on Buddhism in Germany is supplied in:
 
@@ -176,4 +176,4 @@ docs/vinaya-vi/sv/bu	Bhikkhuvibhaṅga (Giới bổn Tỳ-kheo)	Vin III (Pārāj
 docs/vinaya-vi/sv/bi	Bhikkhunīvibhaṅga (Giới bổn Tỳ-kheo-ni)	nằm trọn trong Vin IV
 docs/vinaya-vi/pvr	Parivāra (Tập yếu)	Vin V
 
-(Một điểm cần lưu ý: ranh giới sv/bu không khớp gọn với ranh giới Vin III/Vin IV — bản PTS cắt ngay giữa Bhikkhuvibhaṅga (Vin III dừng ở hết Aniyata, Vin IV tiếp tục từ Nissaggiya Pācittiya), trong khi thư mục sv/bu của anh chứa trọn cả hai phần đó làm một. Nên nếu gặp trích dẫn "Vin III" hay "Vin IV" trỏ vào giới bổn Tỳ-kheo, cả hai đều rơi vào sv/bu, chỉ khác vị trí (đầu file hay cuối file). Còn sv/bi thì luôn tương ứng Vin IV trọn vẹn, không lẫn Vin III.)
+(Một điểm cần lưu ý: ranh giới sv/bu không khớp gọn với ranh giới Vin III/Vin IV − bản PTS cắt ngay giữa Bhikkhuvibhaṅga (Vin III dừng ở hết Aniyata, Vin IV tiếp tục từ Nissaggiya Pācittiya), trong khi thư mục sv/bu của anh chứa trọn cả hai phần đó làm một. Nên nếu gặp trích dẫn "Vin III" hay "Vin IV" trỏ vào giới bổn Tỳ-kheo, cả hai đều rơi vào sv/bu, chỉ khác vị trí (đầu file hay cuối file). Còn sv/bi thì luôn tương ứng Vin IV trọn vẹn, không lẫn Vin III.)

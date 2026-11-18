@@ -11,7 +11,7 @@ layout: home
 <br>
 
 <figure style="text-align: center;">
-    <img src="/covers/kn-kinhtieubo.png" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tiểu Bộ Phật Tự Thuyết Udāna - Bản đọc song song Pali - Thích Minh Châu">
+    <img src="/covers/kn-phatthuyetnhuvay.png" style="max-width:400px;width:100%;display:block;margin:0 auto;" alt="Kinh Tiểu Bộ Phật Tự Thuyết Udāna - Bản đọc song song Pali - Thích Minh Châu">
 </figure>
 
 <br/>

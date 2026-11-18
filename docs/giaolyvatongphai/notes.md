@@ -16,7 +16,7 @@
 
 [^9]: Và của những bản dịch thiên kiến. Ngôn ngữ Pāli dùng danh từ mà không có mạo từ xác định hay bất định. Những người dịch: ‘Thân thể không phải là Ngã’ (thay vì trung tính: ‘… một Ngã’) đã tiền giả định sự tồn tại của một Ngã, nhưng chưa chứng minh được điều đó từ văn bản. Attan hơn nữa còn là đại từ phản thân.
 
-[^10]: Nāma-rūpa là thuật ngữ chung chỉ Năm Nhóm tạo nên nhân cách kinh nghiệm. Rūpa chỉ cơ thể vật lý, nāma chỉ các tiến trình tâm-tinh thần diễn ra trong đó. S 12, 2, 12 II tr. 3 f. định nghĩa: Cảm thọ, tri giác, tư, xúc, tư duy—đây được gọi là ‘danh’. Tứ Đại (đất, nước, lửa, gió) và sắc tùy thuộc vào (chúng)…, đó được gọi là ‘sắc’.
+[^10]: Nāma-rūpa là thuật ngữ chung chỉ Năm Nhóm tạo nên nhân cách kinh nghiệm. Rūpa chỉ cơ thể vật lý, nāma chỉ các tiến trình tâm-tinh thần diễn ra trong đó. S 12, 2, 12 II tr. 3 f. định nghĩa: Cảm thọ, tri giác, tư, xúc, tư duy−đây được gọi là ‘danh’. Tứ Đại (đất, nước, lửa, gió) và sắc tùy thuộc vào (chúng)…, đó được gọi là ‘sắc’.
 
 [^11]: Ngoại trừ trường hợp của một vị Thánh, sau khi đã đoạn diệt khát ái và vô minh buộc phải tái sinh, không còn bị đe dọa bởi sự trở thành mới. Việc tự sát của vị ấy không xuất phát từ khát ái hủy diệt, mà là kết quả của sự suy xét khôn ngoan về các lý do, chẳng hạn như bệnh không thể chữa khỏi.
 
@@ -24,11 +24,11 @@
 
 [^13]: Biểu đạt Pāli ở đây được giữ nguyên vì nếu không nó sẽ phải được dịch khác nhau trong mỗi chuỗi. Trong Năm Nhóm, ‘saṅkhāra’ chỉ các hiện tượng tâm (trên, tr. 42); trong Duyên khởi: các hành-tư. Tuy nhiên các thuật ngữ này có quan hệ gần gũi đến mức có thể đồng nhất chúng ở đây.
 
-[^14]: M 38 I tr. 256 và M 93 II tr. 157 chỉ ra rằng ngoài thức đang tìm kiếm một bào thai—‘thai’ (gabbha) hay ‘tinh linh’ (gandhabba)—sự giao hợp của cha mẹ và sự sẵn sàng thụ thai của người mẹ cũng cần thiết để một chúng sinh mới được hình thành.
+[^14]: M 38 I tr. 256 và M 93 II tr. 157 chỉ ra rằng ngoài thức đang tìm kiếm một bào thai−‘thai’ (gabbha) hay ‘tinh linh’ (gandhabba)−sự giao hợp của cha mẹ và sự sẵn sàng thụ thai của người mẹ cũng cần thiết để một chúng sinh mới được hình thành.
 
-[^14]: M 38 I tr. 256 và M 93 II tr. 157 chỉ ra rằng ngoài thức đang tìm kiếm một bào thai—‘thai’ (gabbha) hay ‘tinh linh’ (gandhabba)—sự giao hợp của cha mẹ và sự sẵn sàng thụ thai của người mẹ cũng cần thiết để một chúng sinh mới được hình thành.
+[^14]: M 38 I tr. 256 và M 93 II tr. 157 chỉ ra rằng ngoài thức đang tìm kiếm một bào thai−‘thai’ (gabbha) hay ‘tinh linh’ (gandhabba)−sự giao hợp của cha mẹ và sự sẵn sàng thụ thai của người mẹ cũng cần thiết để một chúng sinh mới được hình thành.
 
-[^14]: M 38 I tr. 256 và M 93 II tr. 157 chỉ ra rằng ngoài thức đang tìm kiếm một bào thai—‘thai’ (gabbha) hay ‘tinh linh’ (gandhabba)—sự giao hợp của cha mẹ và sự sẵn sàng thụ thai của người mẹ cũng cần thiết để một chúng sinh mới được hình thành.
+[^14]: M 38 I tr. 256 và M 93 II tr. 157 chỉ ra rằng ngoài thức đang tìm kiếm một bào thai−‘thai’ (gabbha) hay ‘tinh linh’ (gandhabba)−sự giao hợp của cha mẹ và sự sẵn sàng thụ thai của người mẹ cũng cần thiết để một chúng sinh mới được hình thành.
 
 [^15]: Nibbāna.
 
@@ -36,11 +36,11 @@
 
 [^17]: Sati ở đây ám chỉ việc thực hành (được mô tả trong kệ 8) phóng chiếu từ bi đến sáu phương: thiền Tứ Vô Lượng Tâm.
 
-[^18]: ‘Saṅkhāra’ là thuật ngữ chung chỉ Năm Nhóm (khandha) cấu thành nhân cách khi nhấn mạnh rằng chúng là saṅkhata: được tạo tác bởi các hành-tư (saṅkhāra) của các đời trước. Khi dùng cho con người kinh nghiệm, ‘saṅkhāra’—(nghĩa đen ‘tổ hợp’)—nhắc nhở rằng con người là sự kết hợp của Năm Nhóm.
+[^18]: ‘Saṅkhāra’ là thuật ngữ chung chỉ Năm Nhóm (khandha) cấu thành nhân cách khi nhấn mạnh rằng chúng là saṅkhata: được tạo tác bởi các hành-tư (saṅkhāra) của các đời trước. Khi dùng cho con người kinh nghiệm, ‘saṅkhāra’−(nghĩa đen ‘tổ hợp’)−nhắc nhở rằng con người là sự kết hợp của Năm Nhóm.
 
 [^19]: Từ chương này trở đi, tất cả các thuật ngữ và danh từ Ấn Độ đều được viết bằng tiếng Phạn.
 
-[^20]: Niềm tin vào hiệu lực của chân lý để đạt được điều ước có nguồn gốc tiền Phật giáo, nhưng đã bén rễ trong mọi trường phái Phật giáo. Trong ‘sử dụng chân lý’ (satyakriyā, P.: saccakiriyā), chân lý cũng có thể là một giáo điều, ví dụ ‘Đức Phật là viên bảo châu quý báu,—nhờ chân lý này xin được hạnh phúc!’
+[^20]: Niềm tin vào hiệu lực của chân lý để đạt được điều ước có nguồn gốc tiền Phật giáo, nhưng đã bén rễ trong mọi trường phái Phật giáo. Trong ‘sử dụng chân lý’ (satyakriyā, P.: saccakiriyā), chân lý cũng có thể là một giáo điều, ví dụ ‘Đức Phật là viên bảo châu quý báu,−nhờ chân lý này xin được hạnh phúc!’
 
 [^21]: Những kinh này là các phần của (Phật) Hoa Nghiêm Kinh (Avataṃsakasūtra) được cấu thành từ nhiều tác phẩm riêng lẻ, đã thất lạc bản tiếng Phạn và chỉ còn được bảo tồn bằng tiếng Trung và tiếng Tây Tạng.
 
