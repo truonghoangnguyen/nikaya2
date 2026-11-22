@@ -2,12 +2,6 @@
 title: Trưởng Lão Ni Kệ - Phẩm 3 – Tập Ba Kệ
 ---
 
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Ni Kệ](/kinhtieubo/thichminhchau/kn-053-tap-9-truong-lao-ni-ke)
-
-</div>
-
 # Phẩm 3 – Tập Ba Kệ
 
 ### (XXIX) Một Sàmà Khác (Therì. 127) {#29}

@@ -2,12 +2,6 @@
 title: Phật Thuyết Như Vậy Itivuttaka - Hai Pháp
 ---
 
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Phật Tự Thuyết](/kinhtieubo/thichminhchau/kn-012-tap-4-kinh-phat-thuyet-nhu-vay)
-
-</div>
-
 # Chương Hai – Hai Pháp 2
 
 ## **Phẩm II**

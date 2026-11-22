@@ -2,12 +2,6 @@
 title: Trưởng Lão Ni Kệ - Phẩm 12 – Tập Mười Sáu Kệ
 ---
 
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Ni Kệ](/kinhtieubo/thichminhchau/kn-053-tap-9-truong-lao-ni-ke)
-
-</div>
-
 # Phẩm 12 – Tập Mười Sáu Kệ
 
 ### (LXV) Punnà hay Punnikà (Therì. 146) {#65}

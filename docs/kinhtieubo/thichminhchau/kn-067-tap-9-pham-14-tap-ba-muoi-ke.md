@@ -2,12 +2,6 @@
 title: Trưởng Lão Ni Kệ - Phẩm 14 – Tập Ba Mươi Kệ
 ---
 
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Ni Kệ](/kinhtieubo/thichminhchau/kn-053-tap-9-truong-lao-ni-ke)
-
-</div>
-
 # Phẩm 14 – Tập Ba Mươi Kệ
 
 ### (LXXI) Subhà ở Rừng Xoài của Jivaka (Therì. 150) {#71}

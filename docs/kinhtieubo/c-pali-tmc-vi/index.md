@@ -12,21 +12,21 @@ const config =
   "books": [
     {
       "id": "ud",
-      "title": "Phật Tự Thuyết (ud)",
+      "title": "Phật Tự Thuyết (Udāna)",
       "description": "Kinh tiểu bộ - Udāna",
       "cover": "/covers/kn-phattuthuyet.png",
       "link": "/kinhtieubo/c-pali-tmc-vi/ud/"
     },
     {
       "id": "iti",
-      "title": "Phật Thuyết Như Vậy (iti)",
+      "title": "Phật Thuyết Như Vậy (Itivuttaka)",
       "description": "Kinh tiểu bộ - Itivuttaka",
       "cover": "/covers/kn-phatthuyetnhuvay.png",
       "link": "/kinhtieubo/c-pali-tmc-vi/iti/"
     },
     {
       "id": "snp",
-      "title": "Kinh Tập (snp)",
+      "title": "Kinh Tập (Suttanipāta)",
       "description": "Kinh tập - Suttanipāta",
       "cover": "/covers/kn-kinhtap.png",
       "link": "/kinhtieubo/c-pali-tmc-vi/snp/"

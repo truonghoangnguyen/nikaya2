@@ -2,12 +2,6 @@
 title: Trưởng Lão Tăng Kệ - Chương 14 – Phẩm Mười Bốn Kệ
 ---
 
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
-
-</div>
-
 # Chương 14 – Phẩm Mười Bốn Kệ
 
 ### (CCXLIV) Revata (Thera. 67) {#244}
