@@ -2,12 +2,6 @@
 title: Trưởng Lão Ni Kệ - Phẩm 5 – Tập Năm Kệ
 ---
 
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Ni Kệ](/kinhtieubo/thichminhchau/kn-053-tap-9-truong-lao-ni-ke)
-
-</div>
-
 # Phẩm 5 – Tập Năm Kệ
 
 ### (XXXVIII) Một Tỷ Kheo Ni Vô Danh (Therì. 130) {#38}

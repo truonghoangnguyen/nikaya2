@@ -1,13 +1,6 @@
 ---
 title: Kinh Tập Suttanipāta - Chương Năm – Trên Ðường Ðến Bờ Bên Kia
 ---
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Kinh Tập](/kinhtieubo/thichminhchau/kn-017-tap-5-kinh-tap)
-
-</div>
-
-
 # Chương Năm – Trên Ðường Ðến Bờ Bên Kia
 
 <!--pg-->

@@ -2,13 +2,6 @@
 title: Chuyện Tiền Thân Phần II
 ---
 
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần II](/kinhtieubo/thichminhchau/kn-087-tap-10-p2)
-
-</div>
-
-
 # [08] PHẨM KÀSÀVA
 
 ### **PHẨM KHÀSÀVA**

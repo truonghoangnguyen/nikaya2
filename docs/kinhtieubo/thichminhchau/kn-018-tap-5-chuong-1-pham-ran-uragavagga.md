@@ -1,13 +1,6 @@
 ---
 title: Kinh Tập Suttanipāta - Chương Một – Phẩm Rắn (Uragavagga)
 ---
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Kinh Tập](/kinhtieubo/thichminhchau/kn-017-tap-5-kinh-tap)
-
-</div>
-
-
 # Chương Một – Phẩm Rắn (Uragavagga)
 
 <!--pg-->

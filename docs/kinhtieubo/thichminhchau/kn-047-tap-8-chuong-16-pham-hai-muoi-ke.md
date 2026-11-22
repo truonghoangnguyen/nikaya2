@@ -2,12 +2,6 @@
 title: Trưởng Lão Tăng Kệ - Chương 16 – Phẩm Hai Mươi Kệ
 ---
 
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Trưởng Lão Tăng Kệ](/kinhtieubo/thichminhchau/kn-036-tap-8-truong-lao-tang-ke)
-
-</div>
-
 # Chương 16 – Phẩm Hai Mươi Kệ
 
 ### (CCXLVIII) Adhimutta (Thera. 71) {#248}

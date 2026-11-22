@@ -1,13 +1,6 @@
 ---
 title: Chuyện Tiền Thân Phần I-Phẩm LỢI ÁI
 ---
-
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Chuyện Tiền Thân](/kinhtieubo/thichminhchau/kn-070-tap-10-chuyen-tien-than-duc-phat) > [Phần I](/kinhtieubo/thichminhchau/kn-071-tap-10-p1)
-
-</div>
-
 # [05] PHẨM LỢI ÁI
 
 **PHẨM LỢI ÁI**

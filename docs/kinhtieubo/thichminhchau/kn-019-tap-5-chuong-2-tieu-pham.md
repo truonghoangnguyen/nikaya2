@@ -1,13 +1,6 @@
 ---
 title: Kinh Tập Suttanipāta - Chương Hai – Tiểu Phẩm
----
-<div class="top-nav">
-
-[Kinh tiểu bộ](/kinhtieubo/thichminhchau/) > [Kinh Tập](/kinhtieubo/thichminhchau/kn-017-tap-5-kinh-tap)
-
-</div>
-
-# Chương Hai – Tiểu Phẩm
+---# Chương Hai – Tiểu Phẩm
 
 <!--pg-->
 ### **(I) Kinh Châu Báu (Ratana Sutta) (Sn 39)** {#1_}

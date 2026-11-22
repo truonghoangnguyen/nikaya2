@@ -7,6 +7,7 @@ import markdownItAttrs from 'markdown-it-attrs'
 import footnote from 'markdown-it-footnote';
 import { slugAnchor, idAnchorFix, addQuicklinkRule } from '../utils';
 // import {idAnchorFix} from '../util'
+import Breadcrumb from '../theme/components/Breadcrumb.vue'
 
 interface Props {
   leftPath: string
@@ -117,6 +118,7 @@ onMounted(async () => {
 </script>
 
 <template>
+  <Breadcrumb />
   <div class="text-compare">
     <div v-if="isLoading" class="loading">
       Loading content...

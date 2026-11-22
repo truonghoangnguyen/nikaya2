@@ -4,7 +4,7 @@
   "description": "Multilingual documentation with side-by-side comparison",
   "type": "module",
   "main": "index.js",
-  "packageManager": "pnpm@10.18.1",
+  "packageManager": "pnpm@12.21.0",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "node --max-old-space-size=7168 node_modules/.bin/vitepress build docs",
@@ -22,10 +22,10 @@
   "devDependencies": {
     "@types/markdown-it": "^14.2.0",
     "cheerio": "^1.2.0",
-    "glob": "^13.0.6",
+    "glob": "^13.0.7",
     "markdown-it-footnote": "^4.0.0",
     "vitepress": "^1.6.4",
-    "vue": "^3.5.44"
+    "vue": "^3.5.46"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [

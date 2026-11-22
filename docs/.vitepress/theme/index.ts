@@ -20,6 +20,7 @@ import SuttaFooter from './components/SuttaFooter.vue'
 import NavQuicklinkButton from './NavQuicklinkButton.vue'
 import { setupImageViewer } from './imageViewer'
 import './style.css'
+import Breadcrumb from './components/Breadcrumb.vue'
 
 export default {
   //extends: Theme,
@@ -94,7 +95,10 @@ export default {
   },
   Layout() {
     return h(Theme.Layout, null, {
-      'doc-before': () => h(DocTags),
+      'doc-before': () => [
+        h(Breadcrumb),
+        h(DocTags)
+      ],
       'layout-bottom': () => [h(NotePopup)],
       'nav-bar-content-before': () => h(NavQuicklinkButton),
       'nav-bar-content-after': () => h('div', { class: 'nav-controls' }, [
