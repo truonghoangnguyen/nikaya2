@@ -1,5 +1,5 @@
-# MIL 3.2 Addhānavagga
-*(Phẩm Thời Gian)*
+# MIL 3.2 Phẩm Thời Gian
+*(Addhānavagga)*
 
 ## 3.2.1. Dhammasantatipañha
 *(Câu hỏi về sự tiếp nối của các hiện tượng)*

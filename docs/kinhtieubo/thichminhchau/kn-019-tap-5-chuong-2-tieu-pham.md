@@ -1,6 +1,8 @@
 ---
 title: Kinh Tập Suttanipāta - Chương Hai – Tiểu Phẩm
----# Chương Hai – Tiểu Phẩm
+---
+
+# Chương Hai – Tiểu Phẩm
 
 <!--pg-->
 ### **(I) Kinh Châu Báu (Ratana Sutta) (Sn 39)** {#1_}

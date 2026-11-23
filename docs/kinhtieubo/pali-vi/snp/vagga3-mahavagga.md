@@ -2,7 +2,7 @@
 description: Toàn văn Chương Lớn (Mahāvagga, Snp 3.1 - 3.12) của Kinh Tập (Sutta Nipāta), ghi lại hành trình xuất gia, chiến thắng Ma vương, các cuộc đối thoại với giới bà-la-môn, du sĩ và bài pháp quan sát hai chiều.
 ---
 
-# 3. CHƯƠNG LỚN
+# 3. PHẨM LỚN
 *(Mahāvagga)*
 
 <!--pg-->

@@ -1,5 +1,5 @@
-# MIL 3.4 Nibbānavagga
-*(Phẩm Niết-bàn)*
+# MIL 3.4 Phẩm Niết-bàn
+*(Nibbānavagga)*
 
 ## 3.4.1. Phassādivinibbhujanapañha
 *(Câu hỏi về việc tách rời Xúc và các yếu tố khác)*

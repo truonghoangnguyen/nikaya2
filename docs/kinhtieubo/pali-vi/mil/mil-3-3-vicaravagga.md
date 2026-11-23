@@ -1,4 +1,5 @@
-# MIL 3.3 Vicāravagga
+# MIL 3.3 Phẩm Suy Xét (Tứ)
+*(Vicāravagga)*
 
 ## 3.3.1. Addhānamūlapañha (Câu hỏi về gốc rễ của thời gian)
 

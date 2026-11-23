@@ -1,7 +1,7 @@
 ---
 title: Phật Tự Thuyết Udāna - Bản đọc song song
 description: Kinh Tiểu Bộ Phật Thuyết Như Vậy Itivuttaka - Bản đọc song song Pali - Thích Minh Châu
-layout: home
+
 ---
 
 <br><br>

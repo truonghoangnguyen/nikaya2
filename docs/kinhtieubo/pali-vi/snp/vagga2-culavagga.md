@@ -2,7 +2,7 @@
 description: Chương Nhỏ (Cūḷavagga) gồm 14 bài kinh trong Kinh Tập (Suttanipāta), trình bày các chuẩn mực đạo đức thực tế, tái định nghĩa sự thanh tịnh và hướng dẫn lối sống chân chính cho cả người xuất gia lẫn cư sĩ tại gia.
 ---
 
-# 2. CHƯƠNG NHỎ
+# 2. PHẨM NHỎ
 *(Cūḷavagga)*
 
 <!--pg-->

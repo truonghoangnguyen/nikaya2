@@ -1,4 +1,4 @@
-- [Chương Một – Phẩm Rắn (Uragavagga)](/kinhtieubo/c-pali-tmc-vi/snp/chuong-1-pham-ran-uragavagga)
+- [Chương Một – Phẩm Rắn](/kinhtieubo/c-pali-tmc-vi/snp/chuong-1-pham-ran-uragavagga)
 - [Chương Hai – Tiểu Phẩm](/kinhtieubo/c-pali-tmc-vi/snp/chuong-2-tieu-pham)
 - [Chương Ba – Ðại Phẩm](/kinhtieubo/c-pali-tmc-vi/snp/chuong-3-dai-pham)
 - [Chương Bốn – Phẩm Tám](/kinhtieubo/c-pali-tmc-vi/snp/chuong-4-pham-tam)

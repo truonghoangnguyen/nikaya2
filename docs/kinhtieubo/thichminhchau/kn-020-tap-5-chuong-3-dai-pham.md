@@ -1,6 +1,8 @@
 ---
 title: Kinh Tập Suttanipāta - Chương Ba – Ðại Phẩm
----# Chương Ba – Ðại Phẩm
+---
+
+# Chương Ba – Ðại Phẩm
 
 <!--pg-->
 ### **(I) Kinh Xuất Gia (Sn 72)** {#1_}
